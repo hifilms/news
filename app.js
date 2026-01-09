@@ -1,4 +1,4 @@
-// ল্যাঙ্গুয়েজ কনফিগ
+// ১. ল্যাঙ্গুয়েজ কনফিগারেশন
 const languages = [
     { code: 'bn', name: 'বাংলা', full: 'BENGALI', speech: 'bn-BD' },
     { code: 'hi', name: 'हिन्दी', full: 'HINDI', speech: 'hi-IN' },
@@ -14,7 +14,7 @@ const languages = [
 
 const categoryList = ["National", "World", "Sports", "Entertainment", "Business", "Tech"];
 let activeCategories = JSON.parse(localStorage.getItem('myCats')) || [...categoryList];
-let currentLangData = []; // বর্তমান লোড হওয়া ফাইল এর ফুল ডেটা
+let rawNewsData = []; // ওই নির্দিষ্ট ভাষার সব নিউজ
 let activeArray = []; // ফিল্টার করার পর নিউজ
 let currentLang = localStorage.getItem('newsLang');
 let isShowingBookmarks = false;
@@ -26,11 +26,44 @@ window.onload = () => {
     if (!currentLang) {
         openLangModal();
     } else {
-        loadDataDynamically(currentLang);
+        loadLanguageFile(currentLang);
     }
 };
 
-// ভাষা লিস্ট তৈরি
+// ২. ভাষা অনুযায়ী আলাদা ফাইল লোড করার লজিক
+function loadLanguageFile(l) {
+    const oldScript = document.getElementById('dynamic-data');
+    if (oldScript) oldScript.remove();
+
+    const script = document.createElement('script');
+    script.id = 'dynamic-data';
+    // ক্যাশ এড়াতে টাইমস্ট্যাম্প যোগ করা হয়েছে
+    script.src = `./${l}.js?v=${Date.now()}`; 
+    document.head.appendChild(script);
+
+    script.onload = () => {
+        // ফাইলে থাকা ভেরিয়েবল (newsData_bn, newsData_en ইত্যাদি) থেকে ডেটা নেওয়া
+        const data = window[`newsData_${l}`];
+        if (data) {
+            rawNewsData = data;
+            filterAndDisplay();
+        }
+    };
+}
+
+// ৩. ক্যাটাগরি ফিল্টারিং এবং ডিসপ্লে
+function filterAndDisplay() {
+    activeArray = rawNewsData.filter(news => activeCategories.includes(news.cat));
+    const langObj = languages.find(lang => lang.code === currentLang);
+    document.getElementById('footer-lang').innerText = langObj ? langObj.full : 'LANGUAGE';
+    
+    isShowingBookmarks = false;
+    updateBookmarkUI(false);
+    renderNews();
+    stopAudio();
+}
+
+// ৪. ক্যাটাগরি নির্বাচনের ইন্টারফেস (ভাষা সরানোর পর যা আসবে)
 function initLangList() {
     document.getElementById('modal-heading').innerText = "Select Language";
     document.getElementById('cat-section').style.display = "none";
@@ -43,7 +76,6 @@ function initLangList() {
     `).join('');
 }
 
-// ক্যাটাগরি স্ক্রিন এ যাওয়া
 function switchToCategory(langCode) {
     currentLang = langCode;
     localStorage.setItem('newsLang', langCode);
@@ -53,7 +85,6 @@ function switchToCategory(langCode) {
     renderCategorySelection();
 }
 
-// ৬টি ক্যাটাগরি রেন্ডার করা
 function renderCategorySelection() {
     const list = document.getElementById('cat-list');
     list.innerHTML = categoryList.map(cat => {
@@ -62,7 +93,7 @@ function renderCategorySelection() {
     }).join('');
 }
 
-// ৩টি ক্যাটাগরি লজিক
+// ৫. ৩টি ক্যাটাগরি মিনিমাম লজিক
 function toggleCategory(cat) {
     const warning = document.getElementById('cat-warning');
     if (activeCategories.includes(cat)) {
@@ -79,37 +110,12 @@ function toggleCategory(cat) {
     renderCategorySelection();
 }
 
-// ডাইনামিক ফাইল লোডিং (bn.js, hi.js ইত্যাদি)
-function loadDataDynamically(l) {
-    const script = document.createElement('script');
-    script.src = `${l}.js?v=${Date.now()}`;
-    document.head.appendChild(script);
-    script.onload = () => {
-        const data = window[`newsData_${l}`];
-        if (data) {
-            currentLangData = data;
-            filterAndDisplay();
-        }
-    };
-}
-
-// ক্যাটাগরি অনুযায়ী নিউজ ফিল্টার
-function filterAndDisplay() {
-    activeArray = currentLangData.filter(news => activeCategories.includes(news.cat));
-    const langObj = languages.find(lang => lang.code === currentLang);
-    document.getElementById('footer-lang').innerText = langObj ? langObj.full : 'LANGUAGE';
-    isShowingBookmarks = false;
-    updateBookmarkUI(false);
-    renderNews();
-    stopAudio();
-}
-
 function closeModal() {
     document.getElementById('lang-modal').style.display = "none";
-    loadDataDynamically(currentLang);
+    loadLanguageFile(currentLang);
 }
 
-// নিউজ রেন্ডারিং
+// ৬. নিউজ রেন্ডারিং এবং স্লাইডার
 function renderNews(customData = null) {
     const slider = document.getElementById('slider');
     const displayData = customData || activeArray;
@@ -143,7 +149,7 @@ function renderNews(customData = null) {
     slider.scrollTo({ left: 0 });
 }
 
-// পুরনো সব সাপোর্ট ফাংশন (Restored)
+// ৭. সহায়ক ফাংশনসমূহ (অডিও, বুকমার্ক, টাইম)
 function getTimeAgo(t) {
     const diff = new Date() - new Date(t);
     const m = Math.floor(diff/60000);
@@ -166,13 +172,9 @@ function toggleSave(el, newsObj) {
 function toggleBookmarkView() {
     stopAudio();
     isShowingBookmarks = !isShowingBookmarks;
-    updateBookmarkUI(isShowingBookmarks);
+    document.getElementById('bookmark-label').innerText = isShowingBookmarks ? "HOME" : "BOOKMARK";
+    document.getElementById('bookmark-tab').style.color = isShowingBookmarks ? "#e67e22" : "#555";
     renderNews(isShowingBookmarks ? (JSON.parse(localStorage.getItem('mySaved')) || []) : activeArray);
-}
-
-function updateBookmarkUI(active) {
-    document.getElementById('bookmark-label').innerText = active ? "HOME" : "BOOKMARK";
-    document.getElementById('bookmark-tab').style.color = active ? "#e67e22" : "#555";
 }
 
 function handleAudio() {
@@ -180,7 +182,7 @@ function handleAudio() {
     const slider = document.getElementById('slider');
     const idx = Math.round(slider.scrollLeft / window.innerWidth);
     const displayData = isShowingBookmarks ? JSON.parse(localStorage.getItem('mySaved')) : activeArray;
-    if (!displayData[idx]) return;
+    if (!displayData || !displayData[idx]) return;
     
     const news = displayData[idx];
     const utter = new SpeechSynthesisUtterance(news.title + ". " + news.desc);
@@ -209,4 +211,12 @@ function openLangModal() {
     initLangList(); 
     document.getElementById('lang-modal').style.display = "flex"; 
 }
+
+function updateBookmarkUI(isHomeActive) {
+    const label = document.getElementById('bookmark-label');
+    const tab = document.getElementById('bookmark-tab');
+    if (label) label.innerText = isHomeActive ? "HOME" : "BOOKMARK";
+    if (tab) tab.style.color = isHomeActive ? "#e67e22" : "#555";
+}
+
 document.getElementById('slider').addEventListener('scroll', stopAudio);
