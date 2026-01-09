@@ -4,23 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-<script>
-  (function() {
-    var timestamp = new Date().getTime();
-    var script = document.createElement('script');
-    script.src = "news-data.js?v=" + timestamp;
-    script.async = false; // এটি নিশ্চিত করবে যে ফাইলটি আগে লোড হবে
-    document.head.appendChild(script);
-    
-    script.onload = function() {
-      console.log("নিউজ ডেটা সফলভাবে লোড হয়েছে!");
-      // যদি আপনার নিউজ দেখানোর কোনো ফাংশন থাকে (যেমন displayNews()), তবে সেটি এখানে কল করুন
-      if (typeof displayNews === "function") {
-          displayNews();
-      }
-    };
-  })();
-</script>
     <title>India News Pro</title>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -56,9 +39,26 @@
             </div>
         </footer>
     </main>
+    <script>
+      (function() {
+          var script = document.createElement('script');
+          script.src = "news-data.js?v=" + Date.now();
+          script.async = false; 
+          document.head.appendChild(script);
+
+          script.onload = function() {
+              console.log("Data loaded successfully");
+              // ২. ডেটা লোড হওয়ার পর আপনার নিউজ ফাংশনটি কল করুন
+              if (typeof displayNews === "function") {
+                  displayNews(); 
+              }
+          };
+      })();
+    </script>
     <script src="app.js"></script>
 </body>
 
 </html>
+
 
 
