@@ -1,5 +1,15 @@
-// Last Updated: 9/1/2026, 6:25:26 pm
+// Last Updated: 9/1/2026, 7:11:42 pm
 const newsData_bn = [
+  {
+    "cat": "Entertainment",
+    "langCode": "bn",
+    "title": "এপি ধিলোঁর জন্যই ভাঙল তারা-বীরের প্রেম! বছরের শুরুতেই বি-টাউনে বিচ্ছেদ...",
+    "desc": "সম্প্রতি এপি ধিলোঁর মুম্বই কনসার্টে তারার পারফরম্যান্স এবং বীরের প্রতিক্রিয়া নিয়ে সোশ্যাল মিডিয়ায় শোরগোল পড়েছিল। কিছুদিন কাটতে না কাটতেই বলিউড অভিনেত্রী তারা সুতারিয়া এবং বীর পাহাড়িয়ার বিচ্ছেদের খবর নিয়ে তোলপাড় বলিউড। এপি ধিলোঁ-কে নিয়ে বিতর্ক না অন্য কিছু? কেন আলাদা হলেন তারা সুতারিয়া ও বীর পাহাড়িয়া?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/tara-sutaria-veer-pahariya-reportedly-breakup-news-details-after-apdhillon-controversy_633960.html ",
+    "time": "2026-01-09T13:36:08.000Z"
+  },
   {
     "cat": "Politics",
     "langCode": "bn",
@@ -989,15 +999,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/technology/smartphone-battery-saving-tips-for-android-ios-full-day-battery-life-saving-phone-battery-drain-pbd-2462427.html",
     "time": "2025-12-15T13:19:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "langCode": "bn",
-    "title": "মেসির সঙ্গে ছবি পোস্ট করায় চূড়ান্ত কটাক্ষের শিকার শুভশ্রী... গণসাক্ষর ও অভিযোগ স্বামী তথা পরিচালক-বিধায়ক রাজ চক্রবর্তীর",
-    "desc": "স্ত্রী শুভশ্রীকে সোশ্যাল মিডিয়ায় অশ্লীল ও কুরুচিকর মন্তব্য করার প্রতিবাদ জানিয়েছেন তিনি। পাশাপাশি বিধায়ক বলেন, 'কোনও ব্যক্তিকে উদ্দেশ্য করে এভাবে অশ্লীল ও কুরুচিকর মন্তব্য করা উচিত নয়। অভিযুক্তদের বিরুদ্ধে উপযুক্ত ব্যবস্থা নিক পুলিশ প্রশাসন।'স্ত্রী শুভশ্রীকে সোশ্যাল মিডিয়ায় অশ্লীল ও কুরুচিকর মন্তব্য করার প্রতিবাদ জানিয়েছেন তিনি। পাশাপাশি বিধায়ক বলেন, 'কোনও ব্যক্তিকে উদ্দেশ্য করে এভাবে অশ্লীল ও কুরুচিকর মন্তব্য করা উচিত নয়। অভিযুক্তদের বিরুদ্ধে উপযুক্ত ব্যবস্থা নিক পুলিশ প্রশাসন।'",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/WhatsApp-Image-2025-12-15-at-12.06.45-PM-2025-12-53c6b23a7918b165e94476cd7427486d-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/raj-chakraborty-filed-a-complaint-for-trolling-subhashree-in-social-media-l18t-rmj-local18-2461577.html",
-    "time": "2025-12-15T06:45:54.000Z"
   }
 ];

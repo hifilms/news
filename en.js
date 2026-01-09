@@ -1,5 +1,65 @@
-// Last Updated: 9/1/2026, 6:25:26 pm
+// Last Updated: 9/1/2026, 7:11:42 pm
 const newsData_en = [
+  {
+    "cat": "Politics",
+    "langCode": "en",
+    "title": "Experts advocate informed coexistence with bats to prevent zoonotic outbreaks",
+    "desc": "Experts meet at the KFRI in Thrissur for the 4th national workshop on Bat Taxonomy, Ecology, Conservation, and Photography. They stress that preventing zoonotic spillovers requires moving beyond reactive healthcare measures and actively integrating wildlife biologists into public health planning.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/experts-advocate-informed-coexistence-with-bats-to-prevent-zoonotic-outbreaks/article70490893.ece",
+    "time": "2026-01-09T13:32:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "langCode": "en",
+    "title": "FTAs to open wider markets for agriculture, food processing sectors; Jitin Prasada flags ease-of-business push",
+    "desc": "India's expanding network of free trade agreements is opening up global markets for its agriculture and food processing sectors, according to Minister of State Jitin Prasada. He highlighted recent pacts with countries like Australia and the UK, emphasizing the government's commitment to easing business regulations to attract investment.",
+    "img": "https://timesofindia.indiatimes.com/photo/126436777.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/trade-boost-ftas-to-open-wider-markets-for-agriculture-food-processing-sectors-jitin-prasada-flags-ease-of-business-push/articleshow/126436777.cms",
+    "time": "2026-01-09T13:28:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "langCode": "en",
+    "title": "Gudalur’s AI-powered command centre gets 76 alerts on elephant movement in two months",
+    "desc": "The centre, which has been primarily tasked with minimising negative human-elephant interactions that have become a major problem in the division due to encroachment of elephant pathways and habitat fragmentation, received 32 alerts in November and 44 in December, officials said.",
+    "img": "https://th-i.thgim.com/public/incoming/30bf87/article70490955.ece/alternates/LANDSCAPE_1200/10214_7_1_2026_13_42_52_1__SAT7018.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/gudalurs-ai-powered-command-centre-gets-76-alerts-on-elephant-movement-in-two-months/article70489844.ece",
+    "time": "2026-01-09T13:17:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "'Vaa Vaathiyaar' release; the court says NO for the Karthi starrer",
+    "desc": "The Madras High Court has placed a hold on the release of Karthi's 'Vaa Vaathiyaar', prohibiting its exhibition on any platform until outstanding dues of ₹21.78 crore are cleared. The court denied the producer's request for a Pongal release, citing insufficient repayment and directing the auction of the film's rights due to a decade-old investment dispute.",
+    "img": "https://timesofindia.indiatimes.com/photo/126436241.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vaa-vaathiyaar-release-on-hold-the-court-says-no-for-the-karthi-starrer-and-orders-the-producer-to-clear-dues/articleshow/126436241.cms",
+    "time": "2026-01-09T12:54:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "langCode": "en",
+    "title": "'No work in Delhi will be stalled due to budget shortage': CM Rekha Gupta in Assembly",
+    "desc": "Addressing the House, Gupta said her government clearly communicates its direction and targets to the public. Calling pollution a crucial issue for the national capital, she said the government is committed to completing 1,100 Arogya Mandirs across Delhi as part of its healthcare roadmap. She added that new nursing staff have already been recruited to strengthen the health system.",
+    "img": "https://timesofindia.indiatimes.com/photo/126436232.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-work-in-delhi-will-be-stalled-due-to-budget-shortage-cm-rekha-gupta-in-assembly/articleshow/126436232.cms",
+    "time": "2026-01-09T12:51:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "Yash’s ‘Toxic’ teaser sparks a meme fest",
+    "desc": "Yash's 'Toxic' teaser launched on his birthday, sparking debate over its intimate scene and generating a viral meme fest. The film, directed by Geetu Mohandas, boasts international-level visuals and an ensemble cast, with a release date set for March 19.",
+    "img": "https://timesofindia.indiatimes.com/photo/126435911.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yashs-toxic-teaser-sparks-a-meme-fest-netizens-share-hilarious-reaction-to-this-scene/articleshow/126435911.cms",
+    "time": "2026-01-09T12:43:14.000Z"
+  },
   {
     "cat": "Politics",
     "langCode": "en",
@@ -183,8 +243,8 @@ const newsData_en = [
   {
     "cat": "Politics",
     "langCode": "en",
-    "title": "8 dead as private bus rolls down hill in Sirmaur; CM Sukhu condoles death",
-    "desc": "A private bus carrying 30-35 passengers rolled off a hilly road in Himachal Pradesh's Sirmaur district, killing at least eight people. The bus was traveling from Kupvi to Shimla when it lost control in the Haripurdhar area. Rescue operations are ongoing, and the death toll is feared to rise as several passengers sustained serious injuries.",
+    "title": "9 dead as private bus falls into 500-feet deep gorge in Sirmaur; CM Sukhu condoles death",
+    "desc": "A devastating bus accident in Himachal Pradesh's Sirmaur district claimed at least nine lives and injured 40 others when a private bus plunged into a 500-feet gorge. The vehicle, en route from Shimla to Kupvi, veered off a narrow road near Haripurdhar. Himachal Pradesh chief minister extended his condolences and promised full support to affected families.",
     "img": "https://timesofindia.indiatimes.com/photo/126434216.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/himachal-pradesh-private-bus-rolls-down-the-hill-in-sirmaur-death-toll-video/articleshow/126434216.cms",
@@ -481,26 +541,6 @@ const newsData_en = [
     "time": "2026-01-09T04:50:51.000Z"
   },
   {
-    "cat": "Politics",
-    "langCode": "en",
-    "title": "Mahua, Derek dragged away from outside Amit Shah’s office; TMC MPs protest over I-PAC raid",
-    "desc": "TMC leaders, including MPs, were detained protesting ED raids on I-PAC offices in Kolkata. The party alleges the raids, targeting election strategy data, are politically motivated harassment by the Union government ahead of West Bengal polls. Chief Minister Mamata Banerjee condemned the action, calling it a vendetta and accusing the BJP of attempting to steal party documents.",
-    "img": "https://timesofindia.indiatimes.com/photo/126427338.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-from-mahua-to-derek-police-drag-away-tmc-mps-protesting-outside-amit-shahs-office/articleshow/126427338.cms",
-    "time": "2026-01-09T04:46:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "langCode": "en",
-    "title": "'Cannot support all his beliefs': Tharoor calls himself 'not an uncritical fan' of Nehru; slams BJP for turning him into 'convenient scapegoat'",
-    "desc": "Shashi Tharoor, while respecting Jawaharlal Nehru as India's democratic founder, acknowledged his mistakes, stating the Modi government unfairly scapegoats him. He noted the 1962 China war defeat as a potential Nehru misstep, but criticized blaming him for all current issues. Tharoor also shared personal anecdotes about his writing journey and Kerala's reading culture.",
-    "img": "https://timesofindia.indiatimes.com/photo/126426866.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cannot-support-all-his-beliefs-tharoor-calls-himself-uncritical-fan-of-nehru-slams-bjp-for-turning-him-into-convenient-scapegoat/articleshow/126426866.cms",
-    "time": "2026-01-09T04:40:07.000Z"
-  },
-  {
     "cat": "Sports",
     "langCode": "en",
     "title": "‘Daal roti nahi chalti ...’: Kohli’s brother hits back at critics as star readies for NZ ODIs",
@@ -563,16 +603,6 @@ const newsData_en = [
   {
     "cat": "Sports",
     "langCode": "en",
-    "title": "Teen shooter accuses coach of rape in Surajkund hotel, Pocso case filed",
-    "desc": "A national shooting coach, Ankush Bharadwaj, has been charged under the POCSO Act for allegedly sexually assaulting a 17-year-old trainee at a 5-star hotel in Surajkund. The incident occurred after a match during the national championships. Bharadwaj has been suspended by the National Rifles Association of India (NRAI) following the FIR.",
-    "img": "https://timesofindia.indiatimes.com/photo/126426318.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/teen-shooter-accuses-national-coach-of-rape-in-surajkund-hotel-pocso-case-filed/articleshow/126426318.cms",
-    "time": "2026-01-09T03:22:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "langCode": "en",
     "title": "B'desh sends second letter to ICC, reiterates venue shift from India",
     "desc": "Bangladesh Cricket Board has formally requested the ICC to shift their T20 World Cup matches from India to Sri Lanka due to security concerns. The team has refused to travel to India, escalating uncertainty just weeks before the tournament. The BCB's stance has hardened following the IPL release of Mustafizur Rahman.",
     "img": "https://timesofindia.indiatimes.com/photo/126425944.cms",
@@ -601,26 +631,6 @@ const newsData_en = [
     "time": "2026-01-09T01:00:30.000Z"
   },
   {
-    "cat": "Politics",
-    "langCode": "en",
-    "title": "Women in Rajasthan’s Jalore, almost disconnected",
-    "desc": "A caste panchayat in Rajasthan’s Jalore district banned women’s access to smartphones, revoking the ban when faced with outrage. While the village heads said it was the women who demanded it because the children overused them, some women say it’s about control, finds Alisha Dutta",
-    "img": "https://th-i.thgim.com/public/incoming/c39sxq/article70488073.ece/alternates/LANDSCAPE_1200/JALORE%20RAJASTHAN%20SPOTLIGHT%2012.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-jalore-women-smartphone-ban-chaudhury-community/article70477467.ece",
-    "time": "2026-01-09T00:32:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "langCode": "en",
-    "title": "The long arm of law catches up with former Kerala Minister in evidence-tampering case",
-    "desc": "It took three decades for a case booked for criminal conspiracy and causing disappearance of evidence against a legislator in Kerala to be decided by a trial court. Sarath Babu George tracks the legal and investigative processes that culminated in the conviction and subsequent disqualification of Antony Raju",
-    "img": "https://th-i.thgim.com/public/incoming/ib969/article70488188.ece/alternates/LANDSCAPE_1200/International.EGQ8FD3IH9.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/the-long-arm-of-law-catches-up-with-former-kerala-minister-in-evidence-tampering-case/article70486190.ece",
-    "time": "2026-01-08T18:58:34.000Z"
-  },
-  {
     "cat": "Sports",
     "langCode": "en",
     "title": "The Ashes aftermath — England’s Test future at the crossroads",
@@ -639,26 +649,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/vijay-hazare-trophy-hyderabad-falls-apart-as-nabi-vanshaj-turn-it-around-for-jk/article70488043.ece",
     "time": "2026-01-08T17:07:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "langCode": "en",
-    "title": "'The game needs to evolve': Robin Uthappa on ICC tournament every year",
-    "desc": "Former India cricketer Robin Uthappa questioned the need for hosting an ICC tournament every year, saying the novelty of multi-nation events is wearing off. Speaking during the SA20 in Durban, he urged administrators to revisit scheduling to preserve value for fans. Uthappa also reminisced about Durban and the 2007 T20 World Cup bowl-out win against Pakistan, calling it a special and well-prepared moment for the Indian team.",
-    "img": "https://timesofindia.indiatimes.com/photo/126418333.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/the-game-needs-to-evolve-robin-uthappa-questions-sense-behind-icc-tournament-every-year/articleshow/126418333.cms",
-    "time": "2026-01-08T16:27:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "langCode": "en",
-    "title": "Tilak Varma ruled out of first three T20Is vs NZ; BCCI issues injury update",
-    "desc": "Indian batter Tilak Varma has undergone emergency abdominal surgery in Rajkot and will miss the first three T20Is against New Zealand. The 23-year-old is recovering well and has been discharged from the hospital. His availability for the remaining matches and the T20 World Cup opener remains uncertain as he begins his return-to-training process.",
-    "img": "https://timesofindia.indiatimes.com/photo/126418377.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/tilak-varma-ruled-out-of-first-three-t20is-vs-new-zealand-as-bcci-issues-injury-update/articleshow/126418377.cms",
-    "time": "2026-01-08T16:04:33.000Z"
   },
   {
     "cat": "Entertainment",
