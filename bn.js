@@ -1,5 +1,15 @@
-// Last Updated: 9/1/2026, 3:59:03 pm
+// Last Updated: 9/1/2026, 4:53:41 pm
 const newsData_bn = [
+  {
+    "cat": "Politics",
+    "langCode": "bn",
+    "title": "বিপদআপদে লোন দিত, ৩৫ সংস্থাকে বন্ধই করে দিল RBI! তালিকায় আপনার অ্যাকাউন্ট নেই তো? এবার...",
+    "desc": "আরবিআই-এর নির্দেশ অনুযায়ী, এই কোম্পানিগুলো এখন থেকে আরবিআই আইন, ১৯৩৪-এর ৪৫-আই ধারার ক্লজ (এ)-তে সংজ্ঞায়িত নন-ব্যাঙ্কিং আর্থিক প্রতিষ্ঠান (NBFI) হিসেবে আর কোনো ব্যবসা পরিচালনা করতে পারবে না। আরবিআই জানিয়েছে যে, বাতিল করা কোম্পানিগুলোর বেশিরভাগই দিল্লি এবং জাতীয় রাজধানী অঞ্চল (NCR) কেন্দ্রিক। অল্প কিছু কোম্পানি এনসিআর-এর বাইরে অবস্থিত।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/rbi-cancels-registration-of-35-nbfcs-here-is-the-full-list-here-you-check-your-accounts-name_633920.html ",
+    "time": "2026-01-09T10:43:25.000Z"
+  },
   {
     "cat": "World",
     "langCode": "bn",
@@ -989,15 +999,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/many-people-killed-as-two-people-syatyed-shooting-at-sydneys-bondi-beach-many-injured-also-rdp-2461061.html",
     "time": "2025-12-14T10:34:35.000Z"
-  },
-  {
-    "cat": "Tech",
-    "langCode": "bn",
-    "title": "Honda-এর একসময় স্বপ্নের বাইক, এখন হাতের নাগালে—এই দামে কিনতে ব্যস্ত ক্রেতারা",
-    "desc": "Honda তাদের জনপ্রিয় স্পোর্টস বাইকের দামে বড় পরিবর্তন এনেছে। এখন গ্রাহকরা আগের তুলনায় আরও সাশ্রয়ী দামে এই বাইকটি কিনতে পারবেন। স্টাইলিশ ডিজাইন, ডিজিটাল মিটার, ডিস্ক ব্রেক ও আরামদায়ক সিটের মতো ফিচার থাকায় এটি যুবসমাজ ও মধ্যবিত্ত পরিবারের কাছে আকর্ষণীয় একটি বিকল্প হয়ে উঠেছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/1765701463_HYP_5527306_img_4641_8-2025-10-e9e91df50b5a50cb44981f2872d80582-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/technology/honda-hornet-125-cc-honda-price-makes-big-jump-in-sports-bike-market-know-the-real-price-smc-2461017.html",
-    "time": "2025-12-14T08:52:30.000Z"
   }
 ];

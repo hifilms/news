@@ -1,5 +1,15 @@
-// Last Updated: 9/1/2026, 3:59:03 pm
+// Last Updated: 9/1/2026, 4:53:41 pm
 const newsData_gu = [
+  {
+    "cat": "Politics",
+    "langCode": "gu",
+    "title": "PM કિસાન યોજનાનો 22મો હપ્તો ક્યારે રિલીઝ થશે? 2000 રૂપિયા ખાતામાં ન આવે તો શું કરવું...જાણો તમામ વિગતો",
+    "desc": "ખેડૂતો પીએમ કિસાન નિધિ યોજનાના 22મા હપ્તાની રાહ જોઈ રહ્યા છે. આ વખતે યોજનાનો લાભ લેવા માટે એક મહત્વનો ફેરફાર પણ કરાયો છે જે ખેડૂતોને જાણ હોવી જરૂરી છે. હપ્તો ક્યારે ખાતામાં આવશે? હપ્તો ન અટકે એ માટે શું કરવું વગેરે તમામ વિગતો માટે વાંચો અહેવાલ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/agriculture/when-will-the-22nd-installment-of-pm-kisan-samman-nidhi-yojana-be-released-ekyc-farmer-id-461005 ",
+    "time": "2026-01-09T10:59:26.000Z"
+  },
   {
     "cat": "Tech",
     "langCode": "gu",

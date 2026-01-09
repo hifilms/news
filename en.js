@@ -1,5 +1,75 @@
-// Last Updated: 9/1/2026, 3:59:03 pm
+// Last Updated: 9/1/2026, 4:53:41 pm
 const newsData_en = [
+  {
+    "cat": "Politics",
+    "langCode": "en",
+    "title": "8 dead as private bus rolls down the hill in Sirmaur",
+    "desc": "A private bus carrying 30-35 passengers rolled off a hilly road in Himachal Pradesh's Sirmaur district, killing at least eight people. The bus was traveling from Kupvi to Shimla when it lost control in the Haripurdhar area. Rescue operations are ongoing, and the death toll is feared to rise as several passengers sustained serious injuries.",
+    "img": "https://timesofindia.indiatimes.com/photo/126434216.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/himachal-pradesh-private-bus-rolls-down-the-hill-in-sirmaur-death-toll-video/articleshow/126434216.cms",
+    "time": "2026-01-09T11:11:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "langCode": "en",
+    "title": "44% Indian cities face chronic PM2.5 levels; National Clean Air Programme covers just 4%",
+    "desc": "A new analysis reveals nearly half of Indian cities grapple with chronic air pollution, a persistent issue stemming from ongoing emission sources. The National Clean Air Programme currently covers only a fraction of these severely affected urban areas, highlighting a significant gap in addressing the crisis. Experts urge targeted reforms and a broader approach to combat this widespread problem.",
+    "img": "https://timesofindia.indiatimes.com/photo/126433768.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/air-pollution-crisis-44-indian-cities-face-chronic-pm2-5-levels-national-clean-air-programme-ncap-covers-just-4/articleshow/126433768.cms",
+    "time": "2026-01-09T11:04:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "Kartik and the mystery girl stayed at the same hotel, different rooms",
+    "desc": "Speculation surrounding Kartik Aaryan's rumoured relationship with UK-based student Karina Kubiliute intensified after fans noticed shared beach locations and hotel stays in Goa. Despite Karina's denial, reports suggest they were at the same hotel, though in separate rooms, fueling further online investigation into her background.",
+    "img": "https://timesofindia.indiatimes.com/photo/126433844.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kartik-aaryan-and-the-mystery-girl-karina-kubiliute-stayed-at-the-same-hotel-in-goa-but-in-different-rooms-report/articleshow/126433844.cms",
+    "time": "2026-01-09T10:56:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "langCode": "en",
+    "title": "PLI scheme should be extended to new tech sectors like AI, robotics; here's what EY India recommends",
+    "desc": "EY India suggests expanding Production-Linked Incentives to AI, space, and robotics, urging the FY27 Budget to prioritize growth and tax certainty. A dedicated Customs dispute resolution mechanism and simplified tariff structures are also proposed. The firm emphasizes clear guidelines for the new Income Tax Act to ensure a smooth transition and boost investor confidence.",
+    "img": "https://timesofindia.indiatimes.com/photo/126433082.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-pli-scheme-should-be-extended-to-new-tech-sectors-like-ai-robotics-heres-what-ey-india-recommends/articleshow/126433082.cms",
+    "time": "2026-01-09T10:53:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "langCode": "en",
+    "title": "Should RBI cut rates now? PwC says no need to ‘waste a bullet’ as growth holds firm",
+    "desc": "PwC's Ranen Banerjee advises against an interest rate cut by the RBI in February 2026, stating it would be \"wasting a bullet\" given robust economic growth and benign inflation. He believes private capital expenditure is driven by demand visibility and capacity utilization, not interest rates, suggesting a prolonged pause is more appropriate.",
+    "img": "https://timesofindia.indiatimes.com/photo/126432197.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/monetary-policy-view-should-rbi-cut-rates-now-pwc-says-no-need-to-waste-a-bullet-as-growth-holds-firm/articleshow/126432197.cms",
+    "time": "2026-01-09T10:34:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "Shatrughan was with Reena in London 2 days before wedding with Poonam",
+    "desc": "Shatrughan Sinha met Poonam Sinha as a schoolgirl in 1965, developing romantic notions. Despite a breakup in 1973 due to his perceived unworthiness, their bond deepened. Sinha later admitted to feeling guilty about simultaneously being involved with Poonam and co-star Reena Roy before marrying Poonam.",
+    "img": "https://timesofindia.indiatimes.com/photo/126433094.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shatrughan-sinha-was-with-reena-roy-in-london-two-days-before-he-married-poonam-sinha-till-the-last-moment-i-wanted-to-back-out/articleshow/126433094.cms",
+    "time": "2026-01-09T10:17:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "Rohit Shetty talks about language barrier in cinema",
+    "desc": "During a vibrant discussion at the INCA event, filmmaker Rohit Shetty pointed out that language barriers are thwarting Indian cinema's potential to captivate the country's diverse audience. He famously proclaimed, 'It’s one nation, one cinema, and one celebration,' urging the industry to come together.",
+    "img": "https://timesofindia.indiatimes.com/photo/126432938.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rohit-shetty-talks-about-language-barrier-in-cinema-says-population-of-140-crores-yet-just-3-4-crore-people-in-theaters/articleshow/126432938.cms",
+    "time": "2026-01-09T10:15:49.000Z"
+  },
   {
     "cat": "Entertainment",
     "langCode": "en",
@@ -103,7 +173,7 @@ const newsData_en = [
   {
     "cat": "Politics",
     "langCode": "en",
-    "title": "‘Removed from reality’: SC pushes back on Sharmila Tagore's plea in stray dog case — what court said",
+    "title": "‘Removed from reality’: SC pushes back on Sharmila Tagore's plea in stray dogs case — what court said",
     "desc": "The Supreme Court continues hearing pleas on stray dog management. Actor Sharmila Tagore's counsel argued for science-based solutions. Lawyers debated the Animal Birth Control rules and identifying aggressive dogs. The court cautioned against romanticizing dogs in hospitals. Suggestions for identification were raised. Welfare groups stressed proper rule enforcement. The court considered constitutional limits and empathy in its interim order.",
     "img": "https://timesofindia.indiatimes.com/photo/126431203.cms",
     "src": "indiatimes.com",
@@ -133,16 +203,6 @@ const newsData_en = [
   {
     "cat": "Entertainment",
     "langCode": "en",
-    "title": "Toxic’ star Yash’s luxury car collection worth over Rs 10 crore",
-    "desc": "KGF star Yash, celebrating his 40th birthday, boasts an impressive luxury car collection estimated at Rs 10 crore. His garage features sought-after models like the Range Rover Autobiography, Lexus LX, Toyota Vellfire, Mercedes-Benz coupes, and an Audi A6 gifted to his wife. These vehicles reflect his versatile lifestyle and taste for high-end automobiles.",
-    "img": "https://timesofindia.indiatimes.com/photo/126431946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/range-rover-to-lexus-lx-toxic-star-yashs-luxury-car-collection-worth-over-rs-10-crore/articleshow/126431946.cms",
-    "time": "2026-01-09T09:14:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "langCode": "en",
     "title": "Sanjay Dutt travels to Nepal for Pashupatinath temple visit",
     "desc": "Sanjay Dutt fulfilled a long-standing wish by visiting Nepal's sacred Pashupatinath Temple with actor Rahul Mittra. Amidst a peaceful political climate, the duo also plans fan interactions and to explore local Himalayan cuisine, including the national dish dal bhat, before returning to their busy schedules.",
     "img": "https://timesofindia.indiatimes.com/photo/126431838.cms",
@@ -153,12 +213,12 @@ const newsData_en = [
   {
     "cat": "Entertainment",
     "langCode": "en",
-    "title": "'Jana Nayagan' new release date revealed",
-    "desc": "Thalapathy Vijay's 'Jana Nayagan' faces a new January 14 release date in Kerala, confirmed by distributors SSR Entertainment, despite ongoing censor board legal battles. The Madras High Court initially ruled in favor of the film, quashing re-examination orders. However, an appeal by the Censor Board chairperson keeps the pan-India release date uncertain, pending further judicial review.",
-    "img": "https://timesofindia.indiatimes.com/photo/126431792.cms",
+    "title": "When Ranveer and Yash praised each other",
+    "desc": "In a thrilling showdown scheduled for March 2026, Ranveer Singh's 'Dhurandhar 2' will go head-to-head with Yash's 'Toxic.' Amidst the excitement, an old interview clip has resurfaced where Yash commended Ranveer's impressive journey since 'Bajirao Mastani,' while Ranveer returned the favor, heaping praise on Yash's groundbreaking work in the 'KGF' series.",
+    "img": "https://timesofindia.indiatimes.com/photo/126431873.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-new-release-date-revealed-as-distributor-of-thalapathy-vijays-film-makes-it-official-amid-censor-struggles-report/articleshow/126431792.cms",
-    "time": "2026-01-09T09:06:09.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ahead-of-the-dhurandhar-2-and-toxic-clash-revisiting-the-moments-when-ranveer-singh-and-yash-praised-each-other/articleshow/126431873.cms",
+    "time": "2026-01-09T09:14:15.000Z"
   },
   {
     "cat": "Sports",
@@ -169,16 +229,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/at-58-still-chasing-goals-king-kazu-vows-to-prove-age-is-just-a-number/articleshow/126431724.cms",
     "time": "2026-01-09T09:03:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "langCode": "en",
-    "title": "Vijay and Prabhas share THESE qualities, Malavika reveals",
-    "desc": "Malavika Mohanan, starring alongside Prabhas in 'The Raja Saab', shared striking similarities between him and actor Vijay. She described both as warm, sweet, and excellent conversationalists, noting their shared height as a bonus for her. Mohanan also expressed her anticipation for Prabhas's performance and her sadness over Vijay's political transition.",
-    "img": "https://timesofindia.indiatimes.com/photo/126431598.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/jana-nayagan-star-vijay-and-prabhas-share-these-qualities-the-raja-saab-actress-malavika-mohanan-reveals/articleshow/126431598.cms",
-    "time": "2026-01-09T09:00:41.000Z"
   },
   {
     "cat": "Business",
@@ -193,12 +243,12 @@ const newsData_en = [
   {
     "cat": "Entertainment",
     "langCode": "en",
-    "title": "Narain reflects on working with Vijay in ‘Jana Nayagan’",
-    "desc": "Actor Narain opens up about his role as a scientist in Vijay's upcoming film 'Jana Nayagan', which is reportedly the superstar's last before entering politics. Narain described the experience of working with Vijay as simple and reticent, noting that the realization of it being a farewell film didn't fully sink in during production.",
-    "img": "https://timesofindia.indiatimes.com/photo/126431352.cms",
+    "title": "'Dhurandhar' fever takes over NBA: Watch performance",
+    "desc": "Aditya Dhar's 'Dhurandhar' continues to shatter expectations at the box office, amassing over Rs 1200 crore globally, even amidst fierce competition from new film releases. The film's allure has transcended borders, making its way to the NBA, where a vibrant Bhangra performance featuring its title track electrified the energy at a Golden State Warriors game.",
+    "img": "https://timesofindia.indiatimes.com/photo/126431245.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/narain-reflects-on-working-with-vijay-in-jana-nayagan-he-is-as-simple-and-reticent-as-ever/articleshow/126431352.cms",
-    "time": "2026-01-09T08:40:43.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-fever-takes-over-nba-video-of-a-dance-group-performing-bhangra-on-its-title-track-goes-viral/articleshow/126431245.cms",
+    "time": "2026-01-09T08:38:31.000Z"
   },
   {
     "cat": "Sports",
@@ -209,26 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sponsors-pull-back-futures-clouded-bangladesh-cricketers-caught-in-india-standoff-after-mustafizur-rahman-row/articleshow/126431175.cms",
     "time": "2026-01-09T08:30:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "langCode": "en",
-    "title": "Producer confirm Dr. Heather Collins exit from 'The Pitt'",
-    "desc": "Fans of 'The Pitt' are in for a bittersweet ride as Tracy Ifeachor departs the series, leaving behind her role as Dr. Heather Collins. According to showrunner John Wells, this move represents a realistic storyline of a resident graduating from their training, emphasizing that it is not a reflection of any problems with the actress.",
-    "img": "https://timesofindia.indiatimes.com/photo/126431095.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-pitt-season-2-why-tracy-ifeachors-dr-heather-collins-was-written-off-the-medical-drama/articleshow/126431095.cms",
-    "time": "2026-01-09T08:24:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "langCode": "en",
-    "title": "Zoya Akhtar shares nostalgic childhood PIC for Farhan Akhtar and Farah Khan’s birthday",
-    "desc": "Filmmaker Zoya Akhtar shared heartwarming glimpses of a joint birthday celebration for cousins Farah Khan and Farhan Akhtar. The siblings, who turned 61 and 52 respectively, marked their special day with an intimate midnight cake-cutting ceremony surrounded by family. Zoya's touching Instagram post celebrated their names' meanings and their enduring bond, highlighting their successful careers in Bollywood.",
-    "img": "https://timesofindia.indiatimes.com/photo/126430964.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zoya-akhtar-shares-nostalgic-childhood-pic-for-farhan-akhtar-and-farah-khans-birthday-celebrations-happiness-happy/articleshow/126430964.cms",
-    "time": "2026-01-09T08:18:31.000Z"
   },
   {
     "cat": "Business",
@@ -325,7 +355,7 @@ const newsData_en = [
     "langCode": "en",
     "title": "Trade unions must unite to counter anti-worker policies, says Elamaram Kareem",
     "desc": "Elamaram Kareem, recently elected general secretary of CITU, emphasises trade union unity to combat ‘anti-worker policies’ and protect workers’ rights amid evolving labour challenges. He says all organisations, including BMS, are welcome to join collective action against Union government’s such policies",
-    "img": "https://th-i.thgim.com/public/incoming/op11mf/article70489695.ece/alternates/LANDSCAPE_1200/6742_11-8-2018_17-50-34_2_12TVKZELAMARAMKAREEM1.JPG",
+    "img": "https://th-i.thgim.com/public/incoming/vehant/article70490408.ece/alternates/LANDSCAPE_1200/80692_9_1_2026_13_19_16_2_10TVKZELAMARAMKAREEM1.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/trade-unions-must-unite-to-counter-anti-worker-policies-says-elamaram-kareem/article70489586.ece",
     "time": "2026-01-09T06:34:02.000Z"
