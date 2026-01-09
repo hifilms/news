@@ -1,9 +1,189 @@
-// Last Updated: 9/1/2026, 4:53:41 pm
+// Last Updated: 9/1/2026, 6:25:26 pm
 const newsData_en = [
   {
     "cat": "Politics",
     "langCode": "en",
-    "title": "8 dead as private bus rolls down the hill in Sirmaur",
+    "title": "Anuradha Roy On Gardens Growing From Grief",
+    "desc": "Anuradha Roy is the author of five novels. Her first, ‘An Atlas of Impossible Longing’, was translated into 16 languages. ‘Sleeping on Jupiter’, her third novel, won the DSC Prize for Fiction 2016 and was longlisted for the Man Booker Prize 2015. ‘All the Lives We Never Lived’ won the 2022 Sahitya Akademi Award and was shortlisted for the International Dublin Literary Award. 'Called by the Hills’ is her first work of nonfiction.",
+    "img": "https://timesofindia.indiatimes.com/photo/126435925.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/anuradha-roy-on-gardens-growing-from-grief/articleshow/126435925.cms",
+    "time": "2026-01-09T12:42:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "langCode": "en",
+    "title": "‘Closely monitoring’: MEA expresses concerns over Minneapolis shooting; cites presence large Indian diaspora",
+    "desc": "India's External Affairs Ministry is closely watching a shooting incident in Minneapolis involving a US immigration agent, given the large Indian population there. The US Department of Homeland Security stated an ICE officer fired defensively after a vehicle attempted to run over officers during an immigration operation. The alleged perpetrator died, and injured officers are recovering.",
+    "img": "https://timesofindia.indiatimes.com/photo/126435186.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/closely-monitoring-mea-expresses-concerns-over-minneapolis-shooting-cites-presence-large-indian-diaspora/articleshow/126435186.cms",
+    "time": "2026-01-09T12:33:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "Alia gushes over Shahid's O' Romeo FIRST LOOK poster",
+    "desc": "Shahid Kapoor's intense, tattooed gangster first-look from Vishal Bhardwaj's O’Romeo has Bollywood buzzing. Set in post-independence Mumbai, the action-romance releases Feb 13, 2026. Alia Bhatt commented, “Can’t wait!” Shahid's full-body tats reflect deep character turmoil; he next stars in 'Cocktail 2'.",
+    "img": "https://timesofindia.indiatimes.com/photo/126435817.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-gushes-over-shahid-kapoor-starrer-o-romeos-first-look-poster-cant-wait-for-this-film/articleshow/126435817.cms",
+    "time": "2026-01-09T12:30:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "langCode": "en",
+    "title": "Rupee’s spectacular fall: Why RBI isn't targeting a price band, but inflation — the 'Impossible Trilemma' explained",
+    "desc": "The Indian rupee crossed Rs 90 to the dollar in early December 2025, marking its weakest level on record. Why did the RBI allow the currency to slide instead of stepping in to defend it, and why are policymakers insisting they are not worried? The answers lie in a hard economic constraint that leaves central banks with fewer choices than they appear to have.",
+    "img": "https://timesofindia.indiatimes.com/photo/126434039.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupees-spectacular-fall-why-rbi-isnt-targeting-a-price-band-but-inflation-the-impossible-trilemma-explained/articleshow/126434039.cms",
+    "time": "2026-01-09T12:24:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "langCode": "en",
+    "title": "Jay Shah calls Rohit 'our captain'; batter's reaction goes viral",
+    "desc": "Rohit Sharma smiled with pride after ICC chairman Jay Shah referred to him as India’s captain at a public event, despite him no longer holding the ODI role. The moment went viral online. Rohit led India to the T20 World Cup 2024 and Champions Trophy 2025. Now retired from Tests and T20Is, he is set to play in India’s upcoming ODI series starting January 11.",
+    "img": "https://timesofindia.indiatimes.com/photo/126433368.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-chief-jay-shah-calls-rohit-sharma-our-captain-batters-reaction-goes-viral-watch/articleshow/126433368.cms",
+    "time": "2026-01-09T12:22:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "langCode": "en",
+    "title": "India’s reserve falls $9.81 billion to $686.80 billion; RBI data shows weekly decline",
+    "desc": "India's foreign exchange reserves saw a significant dip of $9.809 billion, settling at $686.801 billion in the week ending January 2. This decline follows a previous rise, with foreign currency assets and gold reserves both contributing to the decrease. Special Drawing Rights and the country's IMF position also experienced minor reductions.",
+    "img": "https://timesofindia.indiatimes.com/photo/126435524.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/forex-fall-indias-reserve-falls-9-81-billion-to-686-80-billion-rbi-data-shows-weekly-decline/articleshow/126435524.cms",
+    "time": "2026-01-09T12:17:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "Shriya Pilgaonkar returns with 'Haiwaan'; shifts focus from OTT",
+    "desc": "Shriya Pilgaonkar returns to cinemas in 2026 with Priyadarshan's 'Haiwaan', her first theatrical release in five years, alongside Akshay Kumar and Saif Ali Khan. After a successful stint on streaming, she's prioritizing films, feeling grateful to collaborate with actors she admired growing up. 'Haiwaan' is an action crime thriller.",
+    "img": "https://timesofindia.indiatimes.com/photo/126435357.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/haiwaan-actress-shriya-pilgaonkar-says-its-nice-to-be-able-to-work-with-priyadarshan-akshay-kumar-and-saif-ali-khan-who-she-has-grown-up-watching/articleshow/126435357.cms",
+    "time": "2026-01-09T12:08:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "langCode": "en",
+    "title": "Thirty years ago, a punt helped the country to World Cup triumph",
+    "desc": "To win a Cricket World Cup, all your elements — batting, bowling and fielding — need to collectively work well. Consistency in team efforts, along with a few individuals’ standout performances, makes a team the World Champion. But sometimes a decision, technical or tactical, during the buildup to such a mega event turns out to be a trump card for the team, leading them to massive success.",
+    "img": "https://timesofindia.indiatimes.com/photo/126435053.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/thirty-years-ago-a-punt-helped-the-country-to-world-cup-triumph/articleshow/126435053.cms",
+    "time": "2026-01-09T12:04:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "langCode": "en",
+    "title": "'Did nothing wrong': Mamata Banerjee on action during ED raids; makes coal scam charge against BJP",
+    "desc": "West Bengal chief minister Mamata Banerjee defended her interference during ED's I-PAC raids, alleging the agency sought to \"steal\" her party's data. She accused senior BJP leaders in Delhi of receiving \"coal scam proceeds\" and claimed the BJP won Maharashtra by \"stealing the mandate\" with EC's help, aiming to do the same in Bengal.",
+    "img": "https://timesofindia.indiatimes.com/photo/126434778.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/did-nothing-wrong-mamata-on-action-during-ed-raids-makes-coal-scam-charge-against-bjp-i-pac-raids/articleshow/126434778.cms",
+    "time": "2026-01-09T12:00:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "Myra Karn recalls unique casting she fit",
+    "desc": "Fifteen years post-release, 'No One Killed Jessica' remains a haunting piece of cinema. Director Raj Kumar Gupta discovered Myra Karn, who bore an uncanny likeness to a haunting image of Jessica Lall. Initially an engineer with no intention of acting, Karn accepted the role as a whimsical challenge, ultimately delivering a striking performance that resonated with audiences.",
+    "img": "https://timesofindia.indiatimes.com/photo/126434904.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/no-one-killed-jessica-clocks-15-jessica-aka-myra-karn-reflects-on-fabulous-experience-working-with-vidya-balan/articleshow/126434904.cms",
+    "time": "2026-01-09T11:56:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "langCode": "en",
+    "title": "Vi to pay Rs 1,144 crore over next 10 years for frozen Rs 87,695 crore AGR dues; bulk repayments start March 2036",
+    "desc": "Vodafone Idea (Vi) secured a significant reprieve from the government, freezing its Rs 87,695 crore adjusted gross revenue (AGR) dues. The company will now pay Rs 1,144 crore annually for six years, followed by staggered payments until 2041, offering a crucial lifeline to the debt-laden operator.",
+    "img": "https://timesofindia.indiatimes.com/photo/126435049.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/telecom-relief-vi-to-pay-rs-1144-crore-over-next-10-years-for-frozen-rs-87695-crore-agr-dues-bulk-repayments-start-march-2036/articleshow/126435049.cms",
+    "time": "2026-01-09T11:54:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "Prabhas fans bring crocodiles for ‘The Raja Saab’ screening!",
+    "desc": "Prabhas' fans celebrated the release of 'The Raja Saab' by bringing toy crocodiles to theaters, recreating a scene from the film. This unique fan gesture has gone viral online. The movie, directed by Maruthi and featuring a star-studded cast, has opened to mixed reviews despite its massive budget.",
+    "img": "https://timesofindia.indiatimes.com/photo/126434792.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/prabhas-fans-bring-crocodiles-for-the-raja-saab-screening-to-recreate-iconic-action-scene-watch/articleshow/126434792.cms",
+    "time": "2026-01-09T11:42:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "Farah Khan weight loss journey",
+    "desc": "Filmmaker Farah Khan, celebrating her 61st birthday, has inspired many with her consistent seven-year weight loss journey. She adopted intermittent fasting, eating only twice daily, and underwent a tummy tuck after childbirth. Farah's commitment to health, spurred by a personal encounter, now sees her at her fittest, highlighting the importance of self-care.",
+    "img": "https://timesofindia.indiatimes.com/photo/126434819.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-weight-loss-journey-from-tummy-tuck-surgery-to-post-pregnancy-wake-up-call-an-account-of-her-transformation/articleshow/126434819.cms",
+    "time": "2026-01-09T11:42:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "No Pongal release for Thalapathy Vijay's'Jana Nayagan'",
+    "desc": "The Madras High Court has temporarily halted the 'Jana Nayagan' certification. This decision means Thalapathy Vijay's film will not release for Pongal. The court questioned the urgency of the appeal and the opportunity given to the CBFC. A further hearing is scheduled for January 21. The film's release is now uncertain.",
+    "img": "https://timesofindia.indiatimes.com/photo/126434726.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-censor-row-no-pongal-release-for-thalapathy-vijay-starrer-court-pushes-next-hearing-to-january-21/articleshow/126434726.cms",
+    "time": "2026-01-09T11:39:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "Kavya Madhavan shares fun family moments from Australia vacay",
+    "desc": "Actress Kavya Madhavan is enjoying a family vacation in Australia, sharing glimpses of her trip with fans. She was seen exploring the cityscape in a stylish denim outfit and indulging in a seafood boil with her daughter and nieces. Madhavan, a prominent figure in Malayalam cinema, has a career spanning decades, with 'Meesha Madhavan' being a significant blockbuster.",
+    "img": "https://timesofindia.indiatimes.com/photo/126434611.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/kavya-madhavan-shares-fun-family-moments-from-australia-vacation-with-daughter-mahalakshmi-fans-react-to-her-new-look/articleshow/126434611.cms",
+    "time": "2026-01-09T11:32:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "Reble gains national attention for bold rap",
+    "desc": "Meet Reble, a dynamic 22-year-old rapper hailing from the picturesque hills of Meghalaya. Her electrifying performances in the 'Dhurandhar' soundtrack have captivated audiences and critics alike. With a distinctive blend of raw energy and poetic prowess, she is a beacon of the vibrant Northeastern voice that is now resonating in the heart of Indian cinema.",
+    "img": "https://timesofindia.indiatimes.com/photo/126434603.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/who-is-daiaphi-lamare-aka-reble-everything-to-know-about-the-rapper-whose-rap-shaped-up-ranveer-singh-led-dhurandhars-soundtrack/articleshow/126434603.cms",
+    "time": "2026-01-09T11:31:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "Tamannaah Bhatia’s fitness trainer reveals an underrated superfood",
+    "desc": "Celebrity trainer Siddhartha Singh champions turmeric as an affordable superfood, often outperforming expensive supplements. He highlights its active compound, curcumin, as a potent anti-inflammatory agent beneficial for gut health, brain fog, and joint recovery. Singh emphasizes adding black pepper to significantly boost curcumin absorption, making this kitchen staple a powerful natural aid.",
+    "img": "https://timesofindia.indiatimes.com/photo/126434503.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tamannaah-bhatias-fitness-trainer-reveals-an-underrated-superfood-that-works-better-than-supplements/articleshow/126434503.cms",
+    "time": "2026-01-09T11:26:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "langCode": "en",
+    "title": "'Inaccurate': MEA rebuts Trump aide's 'PM didn't call' remarks; cites 8 Modi-Trump calls in 2025",
+    "desc": "Ministry of external affairs has refuted US secretary of commerce Howard Lutnick's claims regarding trade deal negotiations. MEA spokesperson Randhir Jaiswal stated that Lutnick's remarks were inaccurate, highlighting multiple rounds of talks and the closeness of a deal on several occasions. He also confirmed that Prime Minister Modi and President Trump have spoken eight times in 2025.",
+    "img": "https://timesofindia.indiatimes.com/photo/126434218.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/inaccurate-mea-rebuts-trump-aides-pm-didnt-call-remarks-cites-8-modi-trump-calls-in-2025/articleshow/126434218.cms",
+    "time": "2026-01-09T11:23:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "langCode": "en",
+    "title": "8 dead as private bus rolls down hill in Sirmaur; CM Sukhu condoles death",
     "desc": "A private bus carrying 30-35 passengers rolled off a hilly road in Himachal Pradesh's Sirmaur district, killing at least eight people. The bus was traveling from Kupvi to Shimla when it lost control in the Haripurdhar area. Rescue operations are ongoing, and the death toll is feared to rise as several passengers sustained serious injuries.",
     "img": "https://timesofindia.indiatimes.com/photo/126434216.cms",
     "src": "indiatimes.com",
@@ -61,26 +241,6 @@ const newsData_en = [
     "time": "2026-01-09T10:17:34.000Z"
   },
   {
-    "cat": "Entertainment",
-    "langCode": "en",
-    "title": "Rohit Shetty talks about language barrier in cinema",
-    "desc": "During a vibrant discussion at the INCA event, filmmaker Rohit Shetty pointed out that language barriers are thwarting Indian cinema's potential to captivate the country's diverse audience. He famously proclaimed, 'It’s one nation, one cinema, and one celebration,' urging the industry to come together.",
-    "img": "https://timesofindia.indiatimes.com/photo/126432938.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rohit-shetty-talks-about-language-barrier-in-cinema-says-population-of-140-crores-yet-just-3-4-crore-people-in-theaters/articleshow/126432938.cms",
-    "time": "2026-01-09T10:15:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "langCode": "en",
-    "title": "Kher's film completes 100 days",
-    "desc": "Anupam Kher returns to the director's chair with 'Tanvi The Great,' which has impressively marked 100 days in its limited release, making waves by landing on the Oscars 2026 reminder list. This heartfelt film, known for its poignant exploration of love and resilience, has resonated powerfully with audiences.",
-    "img": "https://timesofindia.indiatimes.com/photo/126432712.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anupam-kher-celebrates-100-days-of-tanvi-the-great-amid-its-inclusion-in-the-oscars-2026-list/articleshow/126432712.cms",
-    "time": "2026-01-09T10:03:44.000Z"
-  },
-  {
     "cat": "Sports",
     "langCode": "en",
     "title": "'Cousin thought I died': Jemimah Rodrigues recalls horrific 'church' incident",
@@ -89,16 +249,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/cousin-thought-i-died-jemimah-rodrigues-recalls-horrific-church-incident/articleshow/126432264.cms",
     "time": "2026-01-09T09:59:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "langCode": "en",
-    "title": "Top 5 reasons why the Ranveer Singh led, Aditya Dhar helmed 'Dhurandhar' buzz is still alive",
-    "desc": "Ranveer Singh's intense portrayal and Akshaye Khanna's electrifying entrance in 'Dhurandhar' have captivated audiences, driving the film's enduring buzz. The spy action-drama's infectious soundtrack, featuring global hits like 'FA9LA' and the viral 'Shararat,' has permeated social media, making the movie a cultural phenomenon beyond the box office.",
-    "img": "https://timesofindia.indiatimes.com/photo/126432511.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/top-5-reasons-why-the-ranveer-singh-led-aditya-dhar-helmed-dhurandhar-buzz-is-still-alive/articleshow/126432511.cms",
-    "time": "2026-01-09T09:52:12.000Z"
   },
   {
     "cat": "Politics",
@@ -113,42 +263,12 @@ const newsData_en = [
   {
     "cat": "Entertainment",
     "langCode": "en",
-    "title": "Advani shoots at Umaid Bhawan for 'Freedom At Midnight'",
-    "desc": "Director Nikkhil Advani faced a formidable challenge in bringing 'Freedom at Midnight' to life, grappling with its vast narrative. While the iconic Rashtrapati Bhavan was off-limits due to strict security protocols, the majestic Umaid Bhawan Palace in Jodhpur emerged as the ideal backdrop, capturing the opulence needed to emulate the Viceroy's House.",
-    "img": "https://timesofindia.indiatimes.com/photo/126432356.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nikkhil-advani-reveals-why-shooting-at-rashtrapati-bhavan-was-security-risk-ahead-of-freedom-at-midnight-season-2-release/articleshow/126432356.cms",
-    "time": "2026-01-09T09:42:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "langCode": "en",
-    "title": "‘Girlfriend’ director reacts to Samantha’s new teaser",
-    "desc": "Samantha Ruth Prabhu's upcoming film 'Maa Inti Bangaraam' has released its teaser, impressing fans and industry insiders alike. Filmmaker Rahul Ravindran lauded the trailer, calling it a 'banger' that blends a 'Spaghetti western ghats meets desi kodalu' vibe. The film promises a mix of action, drama, and lighthearted moments, showcasing Samantha as both a dutiful daughter-in-law and a fierce woman.",
-    "img": "https://timesofindia.indiatimes.com/photo/126432180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-girlfriend-director-calls-samanthas-maa-inti-bangaaram-trailer-a-banger-love-the-vibe/articleshow/126432180.cms",
-    "time": "2026-01-09T09:40:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "langCode": "en",
     "title": "'The Raja Saab' box office collection day 1 (LIVE)",
     "desc": "Prabhas's new film 'The Raja Saab' has arrived in cinemas. The movie stars Sanjay Dutt and Malavika Mohanan. Early audience reactions are divided. However, advance ticket sales were robust. The film has already earned over Rs 50 crore globally from pre-sales. This marks an impressive opening for the romantic horror-comedy.",
     "img": "https://timesofindia.indiatimes.com/photo/126432173.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/the-raja-saab-box-office-collection-day-1-live-the-prabhas-starrer-off-to-a-great-start-makes-dhurandhar-slow-down-as-it-clocks-rs-12-crore-till-afternoon-faces-some-competition-from-laalo-hindi-version/articleshow/126432173.cms",
     "time": "2026-01-09T09:39:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "langCode": "en",
-    "title": "Kate Hudson addresses Michael Sardina Jr.'s claims",
-    "desc": "In the wake of Michael Sardina Jr.'s accusations, branding her a 'monster' regarding the film 'Song Sung Blue,' Kate Hudson has shared her perspective. She expressed that, while she respects the sentiments, she has no further comments, highlighting the uplifting connection she formed with Claire Sardina, the inspiration behind the movie. Sardina Jr.",
-    "img": "https://timesofindia.indiatimes.com/photo/126431350.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kate-hudson-shuts-down-criticism-over-song-sung-blue-and-michael-sardina-jr-calling-her-monster-not-the-right-person/articleshow/126431350.cms",
-    "time": "2026-01-09T09:38:53.000Z"
   },
   {
     "cat": "Business",
@@ -191,36 +311,6 @@ const newsData_en = [
     "time": "2026-01-09T09:21:32.000Z"
   },
   {
-    "cat": "Entertainment",
-    "langCode": "en",
-    "title": "Bhagyashree's shares effective core strengthening exercise",
-    "desc": "Actress Bhagyashree, at 56, champions a healthy lifestyle, recently showcasing kettlebell swings for core strength. She emphasizes proper form, hip thrusts, and breathing for maximum benefits, targeting glutes, hamstrings, and metabolism. Her dedication to fitness and nutrition, including simple diet tips, inspires many to prioritize movement and well-being, proving age is merely a number.",
-    "img": "https://timesofindia.indiatimes.com/photo/126432018.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bhagyashrees-fitness-mantra-maine-pyaar-kiya-star-shares-this-one-simple-yet-effective-core-strengthening-exercise/articleshow/126432018.cms",
-    "time": "2026-01-09T09:19:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "langCode": "en",
-    "title": "Sanjay Dutt travels to Nepal for Pashupatinath temple visit",
-    "desc": "Sanjay Dutt fulfilled a long-standing wish by visiting Nepal's sacred Pashupatinath Temple with actor Rahul Mittra. Amidst a peaceful political climate, the duo also plans fan interactions and to explore local Himalayan cuisine, including the national dish dal bhat, before returning to their busy schedules.",
-    "img": "https://timesofindia.indiatimes.com/photo/126431838.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanjay-dutt-travels-to-nepal-for-pashupatinath-temple-visit-connects-with-fans-and-explores-local-cuisine/articleshow/126431838.cms",
-    "time": "2026-01-09T09:14:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "langCode": "en",
-    "title": "When Ranveer and Yash praised each other",
-    "desc": "In a thrilling showdown scheduled for March 2026, Ranveer Singh's 'Dhurandhar 2' will go head-to-head with Yash's 'Toxic.' Amidst the excitement, an old interview clip has resurfaced where Yash commended Ranveer's impressive journey since 'Bajirao Mastani,' while Ranveer returned the favor, heaping praise on Yash's groundbreaking work in the 'KGF' series.",
-    "img": "https://timesofindia.indiatimes.com/photo/126431873.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ahead-of-the-dhurandhar-2-and-toxic-clash-revisiting-the-moments-when-ranveer-singh-and-yash-praised-each-other/articleshow/126431873.cms",
-    "time": "2026-01-09T09:14:15.000Z"
-  },
-  {
     "cat": "Sports",
     "langCode": "en",
     "title": "At 58, still chasing goals: 'King Kazu' vows to prove age is just a number",
@@ -239,16 +329,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/bharat-coking-coal-limited-ipo-day-1-bccl-offer-subscribed-fully-within-minutes-check-price-band-gmp-valuation-more/articleshow/126431031.cms",
     "time": "2026-01-09T08:56:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "langCode": "en",
-    "title": "'Dhurandhar' fever takes over NBA: Watch performance",
-    "desc": "Aditya Dhar's 'Dhurandhar' continues to shatter expectations at the box office, amassing over Rs 1200 crore globally, even amidst fierce competition from new film releases. The film's allure has transcended borders, making its way to the NBA, where a vibrant Bhangra performance featuring its title track electrified the energy at a Golden State Warriors game.",
-    "img": "https://timesofindia.indiatimes.com/photo/126431245.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-fever-takes-over-nba-video-of-a-dance-group-performing-bhangra-on-its-title-track-goes-viral/articleshow/126431245.cms",
-    "time": "2026-01-09T08:38:31.000Z"
   },
   {
     "cat": "Sports",
@@ -501,16 +581,6 @@ const newsData_en = [
     "time": "2026-01-09T02:49:33.000Z"
   },
   {
-    "cat": "Business",
-    "langCode": "en",
-    "title": "Buying $200 bn worth of bonds! Trump’s new push to bring ‘mortgage rates down’ — How will it impact Americans?",
-    "desc": "US President Donald Trump plans a $200 billion federal purchase of mortgage bonds to lower rates and ease housing affordability concerns. Funds from Fannie Mae and Freddie Mac will be used, aiming to reduce monthly payments. This move comes ahead of midterm elections, though experts question its effectiveness against deeper market issues.",
-    "img": "https://timesofindia.indiatimes.com/photo/126425624.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/buying-200-bn-worth-of-bonds-trumps-new-push-to-bring-mortgage-rates-down-how-will-it-impact-americans/articleshow/126425624.cms",
-    "time": "2026-01-09T02:47:31.000Z"
-  },
-  {
     "cat": "Politics",
     "langCode": "en",
     "title": "Telangana land owner on ground, not in official records",
@@ -561,16 +631,6 @@ const newsData_en = [
     "time": "2026-01-08T18:30:33.000Z"
   },
   {
-    "cat": "Politics",
-    "langCode": "en",
-    "title": "Average asset of 102 re-elected MPs rises by 110% between 2014-2024: ADR",
-    "desc": "The top ten MPs who registered the highest increase in their assets, includes BJP's Udayanraje Bhonsle, Poonamben Maadam, Hema Malini, Nishikant Dubey; YSRCP's PV Midhun Reddy; Shiromani Akali Dal's Harsimrat Kaur Badal; Trinamool Congress' Shatrughan Sinha; and NCP (SP)'s Supriya Sule",
-    "img": "https://th-i.thgim.com/public/newsletter/the-evening-wrap/ffo5al/article70488084.ece/alternates/LANDSCAPE_1200/thvli%20Association%20for%20Democratic%20Reforms%20wikipedia%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/average-asset-of-102-re-elected-mps-rises-by-110-between-2014-2024-adr/article70488042.ece",
-    "time": "2026-01-08T17:37:26.000Z"
-  },
-  {
     "cat": "Sports",
     "langCode": "en",
     "title": "Vijay Hazare Trophy",
@@ -609,36 +669,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-vijay-final-film-jana-nayagan-delayed-a-political-plot-focus-tamil-nadu/article70487366.ece",
     "time": "2026-01-08T14:46:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "langCode": "en",
-    "title": "He is set to resume training in 7-10 days, confirms cricketer’s coach",
-    "desc": "India batter Tilak Varma is expected to resume training within seven to ten days after undergoing minor surgery, his childhood coach has confirmed. The 23-year-old is unlikely to miss the T20 World Cup and could return for the New Zealand T20I series. Tilak remains India’s designated No. 3 in the shortest format.",
-    "img": "https://timesofindia.indiatimes.com/photo/126416851.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/tilak-varma-fitness-update-indias-t20i-no-3-set-to-resume-training-in-7-to-10-days-confirms-cricketers-coach/articleshow/126416851.cms",
-    "time": "2026-01-08T14:22:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "langCode": "en",
-    "title": "Ruturaj creates history, breaks multiple records, surpasses Kohli and Babar",
-    "desc": "Ruturaj Gaikwad smashed a brilliant 134 in the Vijay Hazare Trophy, reaching his 20th List A century in a record 95 innings. He also became the fastest to 5,000 List A runs. Despite stellar domestic form and a recent ODI century, Gaikwad's omission from the upcoming India squad raises eyebrows. He will lead CSK in IPL 2026.",
-    "img": "https://timesofindia.indiatimes.com/photo/126416464.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ruturaj-gaikwad-creates-history-breaks-multiple-records-surpasses-virat-kohli-and-babar-azam/articleshow/126416464.cms",
-    "time": "2026-01-08T13:55:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "langCode": "en",
-    "title": "Why no Hikaru? Inside new FIDE Freestyle Chess World Championship",
-    "desc": "FIDE and Freestyle Chess ended a long-running dispute over world championship authority by agreeing to stage the first official FIDE Freestyle Chess World Championship. The conflict began in late 2024 over title rights, sparking public clashes and player concerns. A renewed dialogue in 2025 led to reconciliation, aligning Freestyle’s tour with FIDE governance and creating a unified championship framework.",
-    "img": "https://timesofindia.indiatimes.com/photo/126412065.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/exclusive-why-no-hikaru-nakamura-inside-story-of-how-fide-freestyle-chess-agreed-terms-on-world-championship/articleshow/126412065.cms",
-    "time": "2026-01-08T10:43:22.000Z"
   },
   {
     "cat": "World",

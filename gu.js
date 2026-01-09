@@ -1,5 +1,15 @@
-// Last Updated: 9/1/2026, 4:53:41 pm
+// Last Updated: 9/1/2026, 6:25:26 pm
 const newsData_gu = [
+  {
+    "cat": "World",
+    "langCode": "gu",
+    "title": "આખરે શું છે આ ડીપ સ્ટેટ? જેની વેનેઝુએલા, બાંગ્લાદેશ અને ઈરાનના કારણે થઈ રહી છે ભારે ચર્ચા",
+    "desc": "'ડીપ સ્ટેટ'નો ઉદ્દેશ્ય એવી સ્થિતિનો થાય છે, જ્યાં કોઈ દેશની શાસન વ્યવસ્થામાં બહારના તત્વો અથવા તેમનાથી પ્રેરિત લોકો ઘૂસણખોરી કરે છે. આ ઉપરાંત ડીપ સ્ટેટ એવી સ્થિતિમાં પણ કહેવામાં આવે છે, જ્યાં કોઈ અન્ય શક્તિશાળી દેશથી પ્રેરિત લોકો સ્થાનિક વસ્તીને સરકાર વિરુદ્ધ ઉશ્કેરે છે અને સત્તા પરિવર્તનની પરિસ્થિતિ ઊભી કરે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/what-is-deep-state-discussion-after-venezuela-bangladesh-and-iran-461010 ",
+    "time": "2026-01-09T11:30:54.000Z"
+  },
   {
     "cat": "Politics",
     "langCode": "gu",

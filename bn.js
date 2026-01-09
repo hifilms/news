@@ -1,5 +1,15 @@
-// Last Updated: 9/1/2026, 4:53:41 pm
+// Last Updated: 9/1/2026, 6:25:26 pm
 const newsData_bn = [
+  {
+    "cat": "Politics",
+    "langCode": "bn",
+    "title": "Vital Circular For School Teacher's: ক্লাস ফেলে টিচারদের এতদিন BLO-এর ডিউটি করতে হয়েছে! এবার রাস্তায় নেমে গুণতে হবে কুকুর? ভাইরাল নির্দেশিকা...",
+    "desc": "অন্যদিকে, এই নির্দেশিকার তীব্র সমালোচনা করেছেন শিক্ষাবিদ ও সমাজকর্মীরা। তাঁদের মতে, পথকুকুর গণনা করা বা তাদের রক্ষণাবেক্ষণের দেখভাল করা মূলত পুরসভার নিজস্ব কর্মী অথবা প্রাণী সম্পদ উন্নয়ন দপ্তরের কাজ। শিক্ষকদের এই কাজে নামানো মানে তাঁদের সামাজিক মর্যাদা ক্ষুণ্ণ করা এবং সরাসরি শিক্ষার অধিকার আইনের অবমাননা করা।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/from-classrooms-to-canines-census-and-poll-duties-bihar-teachers-get-duty-to-count-stray-dogs_633948.html ",
+    "time": "2026-01-09T12:47:37.000Z"
+  },
   {
     "cat": "Politics",
     "langCode": "bn",
@@ -989,15 +999,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/raj-chakraborty-filed-a-complaint-for-trolling-subhashree-in-social-media-l18t-rmj-local18-2461577.html",
     "time": "2025-12-15T06:45:54.000Z"
-  },
-  {
-    "cat": "World",
-    "langCode": "bn",
-    "title": "অস্ট্রেলিয়ার সিডনিতে উৎসবে মত্ত জনতার ভিড়ে এলোপাথাড়ি গু*লি! নিহত অন্তত ১০, আহত অনেকে",
-    "desc": "সিডনির বন্ডি সমুদ্রসৈকতে গুলিচালনায় নিহত অন্তত ১০ জন, সেই সঙ্গে আহত হয়েছেন আরও কয়েকজন। সংবাদমাধ্যম সূত্রে খবর, রবিবার, কালো পোশাকে থাকা দুই বন্দুকধারী হানুক্কাহ উৎসবে জড়ো হওয়া মানুষের উপর গুলি চালায়। এর জেরে প্রায় ১,০০০ থেকে ২,০০০ মানুষ নিহত হন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/Sydney-2025-12-b54f7c1e766ee53c2ed23d93e8f7613a-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/many-people-killed-as-two-people-syatyed-shooting-at-sydneys-bondi-beach-many-injured-also-rdp-2461061.html",
-    "time": "2025-12-14T10:34:35.000Z"
   }
 ];
