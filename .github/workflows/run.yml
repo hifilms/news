@@ -1,23 +1,36 @@
-name: Update News Every Hour
+name: Update News Data
 on:
   schedule:
-    - cron: '0 * * * *' # প্রতি ঘণ্টায় চলবে
-  workflow_dispatch: # ম্যানুয়ালি চালানোর জন্য
+    - cron: '0 */3 * * *' # প্রতি ৩ ঘণ্টা পর
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Setup Node
-        uses: actions/setup-node@v2
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
           node-version: '16'
-      - run: npm install
-      - run: node updater.js
+
+      - name: Install dependencies
+        run: npm install rss-parser
+
+      - name: Run Update Script
+        run: node updater.js
+
       - name: Commit and Push
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add *.js  # এটি সব .js ফাইল আপডেট করবে (bn.js, hi.js ইত্যাদি)
-          git commit -m "Auto Update Multi-Language News" || exit 0
+          touch .nojekyll # ৪0৪ এরর দূর করার জন্য এই ফাইলটি তৈরি করবে
+          git add *.js .nojekyll
+          git commit -m "Update language files and fix 404" || exit 0
           git push
