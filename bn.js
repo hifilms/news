@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "‘অগ্নিকে প্রতিশ্রুতি দিয়েছিলাম...’ ছেলের মৃত্যুর পর সম্পদের ৭৫ শতাংশ দান করবেন বেদান্ত গ্রুপের চেয়ারম্যান",
+    "desc": "এক্স-এর একটি আবেগঘন পোস্টে অনিল আগরওয়াল বলেন, অগ্নিবেশ এর আগে মার্কিন যুক্তরাষ্ট্রে একটি স্কিইং দুর্ঘটনায় আহত হয়েছিলেন এবং মাউন্ট সিনাই হাসপাতালে চিকিৎসাধীন ছিলেন। পরিবার বলছে যে, তিনি আরোগ্য লাভের দিকে এগিয়ে চলছিলেন এবং চিকিৎসকরাও আশাবাদী ছিলেন, কিন্তু হঠাৎ হৃদরোগে আক্রান্ত হওয়ায় তাঁর শারীরিক অবস্থার অপ্রত্যাশিতভাবে অবনতি ঘটে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Vedanta-Group-Chairman-Son-Dies-2026-01-24e26b9ca7f872f0511772ddbdaff17f-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/anil-agarwal-had-promised-agni-vedanta-group-chairman-to-donate-75-of-wealth-after-sons-demise-ss-2490307.html",
+    "time": "2026-01-09T16:55:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "এ জীবন চাই না! রাত তিনটেয় ইঁদুর মারার বিষ অর্ডার যুবতীর, তারপরই ব্লিংকিট ডেলিভারি বয়...",
+    "desc": "ডেলিভারি বয়ের বয়ান অনুযায়ী, অর্ডারে তিনটি ইঁদুরের বিষের প্যাকেট ছিল। পরে সোশ্যাল মিডিয়ায় শেয়ার করা একটি ভিডিয়োতে তিনি জানান, মাঝরাতে এই ধরনের অর্ডার এবং গ্রাহকের মানসিক অবস্থা দেখে তাঁর মনে সন্দেহের উদ্রেক হয়। যখন তিনি গন্তব্যে পৌঁছান, দেখেন ওই তরুণী প্রচণ্ড কান্নাকাটি করছেন এবং মানসিকভাবে বিপর্যস্ত হয়ে আছেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/blinkit-boy-refuses-to-deliver-midnight-rat-poison-order-to-depressed-woman-wins-praise-online_633998.html ",
+    "time": "2026-01-09T15:58:32.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "মাদুরোকে তুলে আনাই কফিনে শেষ পেরেক? এবার নিজের দলের লোকেরাই বলে বলে ভোটে হারাচ্ছেন ট্রাম্পকে!",
+    "desc": "ভেনেজুয়েলায় ট্রাম্পের নতুন সামরিক পদক্ষেপের লাগাম টানতে যুদ্ধ ক্ষমতা নিয়ে মার্কিন সিনেটে হওয়া ভোটে হেরেছেন রিপাবলিকানরা। ভেনেজুয়েলায় পরবর্তী সামরিক পদক্ষেপ নেওয়ার ক্ষেত্রে প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের ক্ষমতা সীমিত করতে বৃহস্পতিবার মার্কিন সেনেট একটি প্রস্তাব গ্রহণ করেছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/donald-trump-faces-power-loss-republican-defections-as-war-powers-debate-heats-venezuela-attack-maduro-captured-up_633984.html ",
+    "time": "2026-01-09T15:18:25.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "'নিজের দায়িত্ব পালনে মনোনিবেশ করাই উচিত হবে...' উমর খালিদকে মামদানির চিঠি প্রসঙ্গে কড়া বার্তা দিল ভারত",
     "desc": "তিনি বলেন, \"আমরা আশা করি অন্য গণতন্ত্রে জনপ্রতিনিধিরা বিচার বিভাগের স্বাধীনতার প্রতি শ্রদ্ধাশীল হবেন। ব্যক্তিগত পক্ষপাত প্রকাশ করা পদে থাকা ব্যক্তিদের জন্য শোভনীয় নয়। এই ধরনের মন্তব্য না করে তাদের উপর অর্পিত দায়িত্বের উপর মনোনিবেশ করা ভাল।\"",
@@ -421,15 +448,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/indian-railways-hydrogen-train-will-start-running-from-26th-december-in-haryana-know-details-rdp-2485639.html",
     "time": "2026-01-06T15:16:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "রাখুন ১১ লাখ, পান কড়কড়ে ৪৯ লক্ষ ৪ হাজার ৯৪৩ টাকা! পোস্ট অফিসের অবিশ্বাস্য স্কিম...",
-    "desc": "পোস্ট অফিসের এফডি স্কিমটি অবসরপ্রাপ্ত কর্মচারী, পেনশনভোগী এবং সেইসব প্রবীণ নাগরিকদের জন্যই আদর্শ,যাঁরা তাঁদের সঞ্চয় সুরক্ষিত রেখে নিশ্চিন্তে আয় করতে চান। যাঁরা মূলধনের নিরাপত্তা চান, মোটামুটি একটা আয়ের মধ্যে শান্তিতে থাকতে চান তাঁরাই স্কিমটিকে অগ্রাধিকার দেবেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/post-office-special-fd-for-senior-citizens-invest-11-lakh-earn-494943-fixed-interest_633291.html ",
-    "time": "2026-01-06T13:59:44.000Z"
   },
   {
     "cat": "Entertainment",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/this-post-office-savings-scheme-guarantees-rs-20500-a-month-know-how-it-will-work-smc-2475664.html",
     "time": "2025-12-28T14:24:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাংলাদেশে ভারতের '১০,০০০ টাকা' নিয়ে গেলে 'কত' টাকা দাঁড়াবে জানেন...? চমকাবেন শুনলেই!",
-    "desc": "ভারতের প্রতিবেশী দেশ বাংলাদেশ এই মুহূর্তে কার্যত অগ্নিগর্ভ। বর্তমানে রাজনৈতিক ও সামাজিক অস্থিরতার মধ্য দিয়ে যাচ্ছে ছোট্ট এই শস্য-শ্যামলা দেশটি। ছাত্রনেতা ওসমান হাদির মৃত্যুর পর বিভিন্ন এলাকা থেকে একের পর এক অশান্তির ঘটনা ঘটছে। এই পরিস্থিতিতে, বাংলাদেশের মুদ্রা, টাকা এবং ভারতীয় রুপির মধ্যে তুলনার মতো বিষয়গুলিও নতুন করে উঠে আসছে আলোচনায়...",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/WhatsApp-Image-2025-12-28-at-15.06.33-2025-12-27ce1b0b78f82f02139ba3fe47726e06-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/bangladeshi-taka-vs-indian-rupee-how-much-is-indian10000-rupees-in-bangladesh-know-value-of-ten-thousands-indian-rupee-in-bangladesh-currency-now-you-will-be-shocked-to-hear-this-sanj-2475593.html",
-    "time": "2025-12-28T12:03:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "এআই দিয়ে ছবি বা ভিডিও তৈরি করছেন অনেকে, গুগল জেমিনি কীভাবে আপনার কাজ সহজ করে দেবে দেখে নিন",
-    "desc": "নিজেদের ফোনে জেমিনি অ্যাপটি খুলতে হবে এবং যে ভিডিও বা ছবিটি এআই মডেলকে দিয়ে যাচাই করতে হবে, সেটি আপলোড করতে হবে। ভিডিও ফাইলের আকার ১০০ এমবি-র বেশি হতে পারবে না এবং এর দৈর্ঘ্য ৯০ সেকেন্ড হতে হবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/09/1757840855_Gemini-3-2025-09-b1dc11bb0c1d585f2fbd70138d4933b4-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/technology/how-to-check-if-your-photo-or-video-is-ai-generated-using-googles-gemin-know-here-smj-tc-aa-2471395.html",
-    "time": "2025-12-28T11:13:02.000Z"
   }
 ];

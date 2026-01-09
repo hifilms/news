@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Harmanpreet Kaur opens up after Nadine de Klerk propels RCB to stellar win against MI",
+    "desc": "The season opener of the WPL (Women’s Premier League) 2026 saw Mumbai Indians women take on Royal Challengers Bengaluru women. The two sides locked horns at the Dr DY Patil Sports Academy in Navi Mumbai,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-opens-up-after-nadine-de-klerk-propels-rcb-to-stellar-win-against-mi-2026-01-09-1025219",
+    "time": "2026-01-09T18:15:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nadine de Klerk propels Royal Challengers Bengaluru to opening day win against Mumbai Indians",
+    "desc": "The WPL (Women’s Premier League) 2026 season kicked off with defending champions Mumbai Indians women taking on Royal Challengers Bengaluru women. The two sides took on each other at the Dr DY Patil Sports Academy...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wpl-2026-nadine-de-klerk-propels-royal-challengers-bengaluru-to-opening-day-win-against-mumbai-indians-2026-01-09-1025214",
+    "time": "2026-01-09T17:49:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Took umbrage': Nasser Hussain opens up on Brendon McCullum's response to him after Ashes 2025-26 series",
+    "desc": "The Ashes 2025-26 ended in defeat for visitors England. Taking on the Aussies, England lost the first three and the fifth Test of the series, only registering a win in Melbourne in the fourth clash....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/took-umbrage-nasser-hussain-opens-up-on-brendon-mccullum-s-response-to-him-after-ashes-2025-26-series-2026-01-09-1025210",
+    "time": "2026-01-09T16:58:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ireland announce squad for T20 World Cup 2026, Paul Stirling named captain",
     "desc": "Ireland Cricket, ahead of the T20 World Cup 2026, has come forward and announced its squad for the upcoming tournament. It is worth noting that Paul Stirling will be leading the side in the tournament...",
     "img": "",
@@ -19,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "RCB keep taking wickets, MI struggling for runs",
+    "title": "RCB defeat MI by three wickets in thrilling run chase",
     "desc": "Mumbai Indians women and Royal Challengers Bengaluru women are all set to take on each other in the season opener of the WPL (Women's Premier League) 2026. The two sides will take on each other...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/did-bcci-offer-mustafizur-rahman-a-comeback-in-ipl-2026-bcb-president-reacts-to-rumours-2026-01-09-1025136",
     "time": "2026-01-09T07:11:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Majority of our finances come from ICC': Tamim Iqbal cautions Bangladesh amid T20 World Cup row",
-    "desc": "Bangladesh's veteran cricketer Tamim Iqbal feels that the Bangladesh Cricket Board (BCB) must take into account the interest and future of the country's cricket before making any decision regarding the ongoing controversy related to the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/majority-of-our-finances-come-from-icc-tamim-iqbal-cautions-bangladesh-amid-t20-world-cup-row-2026-01-09-1025131",
-    "time": "2026-01-09T06:32:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former Ranji Trophy cricketer from Mizoram dies after collapsing during match",
-    "desc": "Former Ranji Trophy cricketer from Mizoram, K Lalremruata, passed away after collapsing during a local cricket match on Wednesday (January 7). His death has sent the shockwaves through the Mizoram cricket community, even as all...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-ranji-trophy-cricketer-from-mizoram-dies-after-collapsing-during-match-2026-01-09-1025118",
-    "time": "2026-01-09T04:59:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Kaur, Smriti Mandhana feel WPL will play massive role for India to win T20 World Cup 2026",
-    "desc": "November 2, 2025. The day will always be etched in the history of Indian cricket in golden letters as India won the Women's ODI World Cup for the first time in history. The captain and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-smriti-mandhana-feel-wpl-will-play-massive-role-for-india-to-win-t20-world-cup-2026-2026-01-09-1025101",
-    "time": "2026-01-09T03:22:32.000Z"
   }
 ];
