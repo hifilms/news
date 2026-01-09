@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>India News Pro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="audio-toast">Loading...</div>
+
+    <div id="lang-modal">
+        <div class="modal-box">
+            <h3 class="modal-title">Select Language</h3>
+            <div id="lang-list" class="lang-grid">
+                </div>
+        </div>
+    </div>
+
+    <main id="main-app" class="screen active">
+        <div id="slider"></div>
+        
+        <footer>
+            <div class="tab" id="bookmark-tab" onclick="toggleBookmarkView()">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path></svg>
+                <span id="bookmark-label">BOOKMARK</span>
+            </div>
+            
+            <div class="tab" id="audio-tab" onclick="handleAudio()">
+                <svg id="play-icon" width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polygon points="10 8 16 12 10 16 10 8"></polygon></svg>
+                <span>AUDIO</span>
+            </div>
+
+            <div class="tab" onclick="openLangModal()">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
+                <span id="footer-lang">LANGUAGE</span>
+            </div>
+        </footer>
+    </main>
+
+    <script src="news-data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
