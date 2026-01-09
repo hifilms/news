@@ -1,5 +1,15 @@
-// Last Updated: 9/1/2026, 3:03:19 pm
+// Last Updated: 9/1/2026, 3:59:03 pm
 const newsData_gu = [
+  {
+    "cat": "Tech",
+    "langCode": "gu",
+    "title": "કેટલી જૂની કાર ખરીદવી સૌથી શ્રેષ્ઠ? સેકન્ડ હેન્ડ કાર લેતા પહેલા આ 10 વાતો જાણો, ક્યારેય પસ્તાશો નહીં",
+    "desc": "સેકન્ડ હેન્ડ કાર ખરીદવી એ ફાયદાનો સોદો પણ હોઈ શકે છે અને મોટા નુકસાનનું કારણ પણ બની શકે છે. જો કારની ઉંમર, સ્થિતિ (કન્ડિશન) અને દસ્તાવેજો પર યોગ્ય ધ્યાન આપવામાં ન આવે, તો સસ્તી કાર પણ મોંઘી પડી શકે છે. જાણો જૂની કાર ખરીદતી વખતે કઈ જરૂરી બાબતોનું ધ્યાન રાખવું જોઈએ, જેથી તમારો નિર્ણય સાચો સાબિત થાય.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/how-old-should-a-used-car-be-for-it-to-be-the-best-purchase-know-these-10-things-before-buying-a-second-hand-car-460999 ",
+    "time": "2026-01-09T09:47:38.000Z"
+  },
   {
     "cat": "Entertainment",
     "langCode": "gu",
@@ -279,16 +289,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/hema-malini-haunted-house-experience-hema-malini-first-home-real-horror-story-460703 ",
     "time": "2026-01-07T06:41:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "langCode": "gu",
-    "title": "પોતાની કમાણી ક્યાં રોકાણ કરી રહ્યા છે Gen Z, કોના પર કરે છે સૌથી વધુ વિશ્વાસ",
-    "desc": "1997થી 2012ની વચ્ચે જન્મેલા Gen Z રોકાણકારો માત્ર બચત જ નથી કરી રહ્યા પણ સ્માર્ટલી રોકાણ પણ કરી રહ્યા છે. આ રોકાણકારો મ્યુચ્યુઅલ ફંડ અને ઇક્વિટીમાં રોકાણ કરવા માટે ટેકનોલોજીનો ઉપયોગ કરી રહ્યા છે. આ પરિવર્તન ફક્ત મેટ્રો શહેરો પૂરતું મર્યાદિત નથી, નાના શહેરોના યુવાનો પણ સક્રિયપણે ભાગ લઈ રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/where-are-gen-z-investing-their-earnings-who-do-they-trust-the-most-460692 ",
-    "time": "2026-01-07T05:57:37.000Z"
   },
   {
     "cat": "Politics",

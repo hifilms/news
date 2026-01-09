@@ -1,5 +1,95 @@
-// Last Updated: 9/1/2026, 3:03:19 pm
+// Last Updated: 9/1/2026, 3:59:03 pm
 const newsData_en = [
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "Kher's film completes 100 days",
+    "desc": "Anupam Kher returns to the director's chair with 'Tanvi The Great,' which has impressively marked 100 days in its limited release, making waves by landing on the Oscars 2026 reminder list. This heartfelt film, known for its poignant exploration of love and resilience, has resonated powerfully with audiences.",
+    "img": "https://timesofindia.indiatimes.com/photo/126432712.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anupam-kher-celebrates-100-days-of-tanvi-the-great-amid-its-inclusion-in-the-oscars-2026-list/articleshow/126432712.cms",
+    "time": "2026-01-09T10:03:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "langCode": "en",
+    "title": "'Cousin thought I died': Jemimah Rodrigues recalls horrific 'church' incident",
+    "desc": "Indian cricketer Jemimah Rodrigues recalled a scary childhood incident where she fell from the first floor during a church programme while playing with cousins, making them think she had died. Luckily unharmed, the story is now a fond memory. Today, Jemimah is a World Cup hero and the newly appointed Delhi Capitals captain.",
+    "img": "https://timesofindia.indiatimes.com/photo/126432264.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/cousin-thought-i-died-jemimah-rodrigues-recalls-horrific-church-incident/articleshow/126432264.cms",
+    "time": "2026-01-09T09:59:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "Top 5 reasons why the Ranveer Singh led, Aditya Dhar helmed 'Dhurandhar' buzz is still alive",
+    "desc": "Ranveer Singh's intense portrayal and Akshaye Khanna's electrifying entrance in 'Dhurandhar' have captivated audiences, driving the film's enduring buzz. The spy action-drama's infectious soundtrack, featuring global hits like 'FA9LA' and the viral 'Shararat,' has permeated social media, making the movie a cultural phenomenon beyond the box office.",
+    "img": "https://timesofindia.indiatimes.com/photo/126432511.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/top-5-reasons-why-the-ranveer-singh-led-aditya-dhar-helmed-dhurandhar-buzz-is-still-alive/articleshow/126432511.cms",
+    "time": "2026-01-09T09:52:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "langCode": "en",
+    "title": "‘Swings like a wild pendulum’: Mallikarjun Kharge targets Modi government’s foreign policy; flags China outreach, Donald Trump remarks",
+    "desc": "Congress president Mallikarjun Kharge criticised the Modi government's foreign policy, citing alleged inconsistency and compromise of India's strategic interests. He pointed to the potential lifting of bans on Chinese companies for government contracts and PM Modi's silence on US President Donald Trump's comments regarding India's Russian oil purchases.",
+    "img": "https://timesofindia.indiatimes.com/photo/126432364.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/swings-like-a-wild-pendulum-mallikarjun-kharge-targets-modi-governments-foreign-policy-flags-china-outreach-donald-trump-remarks/articleshow/126432364.cms",
+    "time": "2026-01-09T09:44:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "Advani shoots at Umaid Bhawan for 'Freedom At Midnight'",
+    "desc": "Director Nikkhil Advani faced a formidable challenge in bringing 'Freedom at Midnight' to life, grappling with its vast narrative. While the iconic Rashtrapati Bhavan was off-limits due to strict security protocols, the majestic Umaid Bhawan Palace in Jodhpur emerged as the ideal backdrop, capturing the opulence needed to emulate the Viceroy's House.",
+    "img": "https://timesofindia.indiatimes.com/photo/126432356.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nikkhil-advani-reveals-why-shooting-at-rashtrapati-bhavan-was-security-risk-ahead-of-freedom-at-midnight-season-2-release/articleshow/126432356.cms",
+    "time": "2026-01-09T09:42:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "‘Girlfriend’ director reacts to Samantha’s new teaser",
+    "desc": "Samantha Ruth Prabhu's upcoming film 'Maa Inti Bangaraam' has released its teaser, impressing fans and industry insiders alike. Filmmaker Rahul Ravindran lauded the trailer, calling it a 'banger' that blends a 'Spaghetti western ghats meets desi kodalu' vibe. The film promises a mix of action, drama, and lighthearted moments, showcasing Samantha as both a dutiful daughter-in-law and a fierce woman.",
+    "img": "https://timesofindia.indiatimes.com/photo/126432180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-girlfriend-director-calls-samanthas-maa-inti-bangaaram-trailer-a-banger-love-the-vibe/articleshow/126432180.cms",
+    "time": "2026-01-09T09:40:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "'The Raja Saab' box office collection day 1 (LIVE)",
+    "desc": "Prabhas's new film 'The Raja Saab' has arrived in cinemas. The movie stars Sanjay Dutt and Malavika Mohanan. Early audience reactions are divided. However, advance ticket sales were robust. The film has already earned over Rs 50 crore globally from pre-sales. This marks an impressive opening for the romantic horror-comedy.",
+    "img": "https://timesofindia.indiatimes.com/photo/126432173.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/the-raja-saab-box-office-collection-day-1-live-the-prabhas-starrer-off-to-a-great-start-makes-dhurandhar-slow-down-as-it-clocks-rs-12-crore-till-afternoon-faces-some-competition-from-laalo-hindi-version/articleshow/126432173.cms",
+    "time": "2026-01-09T09:39:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "Kate Hudson addresses Michael Sardina Jr.'s claims",
+    "desc": "In the wake of Michael Sardina Jr.'s accusations, branding her a 'monster' regarding the film 'Song Sung Blue,' Kate Hudson has shared her perspective. She expressed that, while she respects the sentiments, she has no further comments, highlighting the uplifting connection she formed with Claire Sardina, the inspiration behind the movie. Sardina Jr.",
+    "img": "https://timesofindia.indiatimes.com/photo/126431350.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kate-hudson-shuts-down-criticism-over-song-sung-blue-and-michael-sardina-jr-calling-her-monster-not-the-right-person/articleshow/126431350.cms",
+    "time": "2026-01-09T09:38:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "langCode": "en",
+    "title": "Equity funds see 6% dip to Rs 28,054 crore in December; debt outflows hit AUM",
+    "desc": "Equity mutual fund inflows saw a slight dip in December, reaching Rs 28,054 crore, though investor interest in equities and gold remained strong. This occurred amidst significant redemptions from debt schemes, leading to overall industry outflows. Flexi-cap funds led equity inflows, while gold ETFs experienced a surge in popularity.",
+    "img": "https://timesofindia.indiatimes.com/photo/126432247.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/mutual-funds/mutual-funds-trends-equity-funds-see-6-dip-to-rs-28054-crore-in-december-debt-outflows-hit-aum/articleshow/126432247.cms",
+    "time": "2026-01-09T09:38:49.000Z"
+  },
   {
     "cat": "Business",
     "langCode": "en",
@@ -13,12 +103,32 @@ const newsData_en = [
   {
     "cat": "Politics",
     "langCode": "en",
+    "title": "‘Removed from reality’: SC pushes back on Sharmila Tagore's plea in stray dog case — what court said",
+    "desc": "The Supreme Court continues hearing pleas on stray dog management. Actor Sharmila Tagore's counsel argued for science-based solutions. Lawyers debated the Animal Birth Control rules and identifying aggressive dogs. The court cautioned against romanticizing dogs in hospitals. Suggestions for identification were raised. Welfare groups stressed proper rule enforcement. The court considered constitutional limits and empathy in its interim order.",
+    "img": "https://timesofindia.indiatimes.com/photo/126431203.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/removed-from-reality-sc-pushes-back-on-sharmila-tagores-plea-in-stray-dog-case-what-court-said/articleshow/126431203.cms",
+    "time": "2026-01-09T09:26:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "langCode": "en",
     "title": "Assam Opposition files complaint against BJP over alleged voter list ‘conspiracy’",
     "desc": "Congress, CPI(M), Raijor Dal, Assam Jatiya Parishad, and CPI(ML)L, in a joint complaint filed at Dispur Police Station, claimed that State BJP president Dilip Saikia has specifically entrusted Cabinet Minister Ashok Singhal to carry out the deletion process in 60 LAC’s",
     "img": "https://th-i.thgim.com/public/incoming/ccv4mw/article70490144.ece/alternates/LANDSCAPE_1200/20260108236L.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/assam/assam-opposition-files-complaint-against-bjp-over-alleged-voter-list-conspiracy/article70490102.ece",
     "time": "2026-01-09T09:21:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "Bhagyashree's shares effective core strengthening exercise",
+    "desc": "Actress Bhagyashree, at 56, champions a healthy lifestyle, recently showcasing kettlebell swings for core strength. She emphasizes proper form, hip thrusts, and breathing for maximum benefits, targeting glutes, hamstrings, and metabolism. Her dedication to fitness and nutrition, including simple diet tips, inspires many to prioritize movement and well-being, proving age is merely a number.",
+    "img": "https://timesofindia.indiatimes.com/photo/126432018.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bhagyashrees-fitness-mantra-maine-pyaar-kiya-star-shares-this-one-simple-yet-effective-core-strengthening-exercise/articleshow/126432018.cms",
+    "time": "2026-01-09T09:19:30.000Z"
   },
   {
     "cat": "Entertainment",
@@ -131,16 +241,6 @@ const newsData_en = [
     "time": "2026-01-09T08:16:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "langCode": "en",
-    "title": "Elnaaz says she is still an outsider in Bollywood",
-    "desc": "Elnaaz Norouzi candidly admits to being an outsider in Bollywood, facing constant challenges and losing roles to star kids. She emphasizes that acting is her sole focus for personal reflection, not industry politics. Norouzi also revealed her initial hesitation to perform an intimate scene in 'Sacred Games Season 2'.",
-    "img": "https://timesofindia.indiatimes.com/photo/126430874.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/elnaaz-norouzi-says-she-is-still-an-outsider-in-bollywood-she-admits-losing-roles-often/articleshow/126430874.cms",
-    "time": "2026-01-09T08:10:59.000Z"
-  },
-  {
     "cat": "Politics",
     "langCode": "en",
     "title": "Arvind Kejriwal",
@@ -159,16 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/will-reliance-buy-venezuelan-oil-await-clarity-on-non-us-buyers-heres-what-the-company-said/articleshow/126429906.cms",
     "time": "2026-01-09T07:46:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "langCode": "en",
-    "title": "Border 2 producer calls trolls who targeted Varun as ANTI NATIONAL",
-    "desc": "In the lead-up to the release of 'Border 2,' Varun Dhawan found himself at the center of controversy as he faced criticism for his performance in a song, with accusations of orchestrated promotional tactics. Producer Nidhi Dutta quickly stepped in, branding the dissenters as 'anti-national. Read on to know more.",
-    "img": "https://timesofindia.indiatimes.com/photo/126430188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-producer-nidhi-dutta-labels-trolls-who-targeted-varun-dhawan-as-anti-national-netizens-ask-her-if-she-has-lost-it/articleshow/126430188.cms",
-    "time": "2026-01-09T07:41:48.000Z"
   },
   {
     "cat": "Politics",
@@ -191,16 +281,6 @@ const newsData_en = [
     "time": "2026-01-09T07:36:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "langCode": "en",
-    "title": "'Parasakthi' censor row: Film bags U/A certificate",
-    "desc": "Sivakarthikeyan's 'Parasakthi' has secured a U/A certificate after director Sudha Kongara successfully challenged proposed cuts. The film, set against the 1960s anti-Hindi agitations, faced a tense censor process. Meanwhile, Vijay's 'Jana Nayagan' remains in a legal battle, with the CBFC appealing a U/A certificate order.",
-    "img": "https://timesofindia.indiatimes.com/photo/126430171.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-censor-row-sudha-kongara-directed-sivakarthikeyan-starrer-bags-u/a-certificate-report/articleshow/126430171.cms",
-    "time": "2026-01-09T07:32:02.000Z"
-  },
-  {
     "cat": "Sports",
     "langCode": "en",
     "title": "PV Sindhu storms into Malaysia Open semis in comeback after long injury layoff",
@@ -209,36 +289,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/pv-sindhu-storms-into-malaysia-open-semis-in-comeback-after-long-injury-layoff/articleshow/126430129.cms",
     "time": "2026-01-09T07:29:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "langCode": "en",
-    "title": "Priyanka's UNSEEN family moments melt hearts",
-    "desc": "Priyanka Chopra welcomed New Year 2026 with family. Unseen photos from her celebration are circulating online. She also attended Nick Jonas's New Year's Eve concert in Miami. Chopra shared her thoughts on 2026, calling it the future. She is returning to Indian cinema with the Telugu film 'Varanasi', set for a Sankranthi 2027 release.",
-    "img": "https://timesofindia.indiatimes.com/photo/126429970.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopras-unseen-family-moments-melt-hearts-check-out-golden-globes-2026-presenters-new-year-2026-pics/articleshow/126429970.cms",
-    "time": "2026-01-09T07:22:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "langCode": "en",
-    "title": "Priyanka Chopra 'not celebrate enough,' shares Ricky Kej",
-    "desc": "Grammy-winning musician Ricky Kej believes Priyanka Chopra is not celebrated enough in India despite her global success. He highlighted her mainstream Hollywood roles and collaborations with major stars, noting her versatility and impact. Chopra is also set to return to Indian cinema and star in the upcoming international project 'The Bluff'.",
-    "img": "https://timesofindia.indiatimes.com/photo/126429875.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-is-one-actor-in-india-who-we-do-not-celebrate-enough-shares-three-time-grammy-winner-ricky-kej/articleshow/126429875.cms",
-    "time": "2026-01-09T07:13:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "langCode": "en",
-    "title": "Kareena Kapoor Khan gives glimpse into how Taimur and Jeh are trained for holiday photos",
-    "desc": "With a playful touch, Kareena Kapoor Khan opened up about her quirky preparations for holiday photos with her sons, Taimur and Jeh, poking fun at the pressures of achieving picture-perfect family moments. During a blissful getaway, she candidly reminisced about the hurdles faced in 2025, celebrating their family's sturdy resilience, the loyalty of her fan base, and a rekindled hope.",
-    "img": "https://timesofindia.indiatimes.com/photo/126429771.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kareena-kapoor-khan-gives-light-hearted-glimpse-into-how-taimur-and-jeh-are-trained-for-holiday-photos/articleshow/126429771.cms",
-    "time": "2026-01-09T07:10:52.000Z"
   },
   {
     "cat": "Sports",
@@ -251,16 +301,6 @@ const newsData_en = [
     "time": "2026-01-09T07:10:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "langCode": "en",
-    "title": "Akshay Oberoi calls working with Shah Rukh Khan transformative",
-    "desc": "In a thrilling turn of events, Akshay Oberoi is stepping into a dream come true as he collaborates with the legendary Shah Rukh Khan in the film 'King'. He finds the experience to be nothing short of a revelation, admiring Khan's dedication and down-to-earth nature.",
-    "img": "https://timesofindia.indiatimes.com/photo/126429701.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/king-actor-akshay-oberoi-on-king-khans-phenomenal-legacy-srk-is-an-institution-not-just-a-superstar/articleshow/126429701.cms",
-    "time": "2026-01-09T07:10:10.000Z"
-  },
-  {
     "cat": "Business",
     "langCode": "en",
     "title": "Which stocks are the top gainers &amp; losers on Nifty50, BSE Sensex on January 9? Check list",
@@ -269,16 +309,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-which-stocks-are-the-top-gainers-losers-on-nifty50-bse-sensex-on-january-9-check-list/articleshow/126429257.cms",
     "time": "2026-01-09T07:04:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "langCode": "en",
-    "title": "Lalisa Manobal to present Golden Globes",
-    "desc": "K-pop sensation Lalisa Manobal of BLACKPINK is set to make history as the first K-pop artist and Thai actor to present at the 83rd Golden Globe Awards. Her appearance on this major Hollywood stage highlights the expanding global reach of international artists and inspires aspiring performers worldwide. The event airs January 11th.",
-    "img": "https://timesofindia.indiatimes.com/photo/126428310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/golden-globes-2026-blackpink-member-lisa-set-to-take-the-stage-as-first-k-pop-artist-presenter/articleshow/126428310.cms",
-    "time": "2026-01-09T06:59:33.000Z"
   },
   {
     "cat": "Sports",
@@ -513,32 +543,12 @@ const newsData_en = [
   {
     "cat": "Sports",
     "langCode": "en",
-    "title": "Chess Controversy! Praggnanandhaa stops clock; draw call sparks uproar",
-    "desc": "A controversial moment dominated Day 2 of the Tata Steel Chess India Rapid in Kolkata when R Praggnanandhaa stopped the clock with one second left, leading to a disputed draw against Wesley So. Arbiter Chris Bird said it should have been a loss under chess laws. Elsewhere, Viswanathan Anand rebounded to joint lead with Nihal Sarin, while Kateryna Lagno topped the women’s standings.",
-    "img": "https://timesofindia.indiatimes.com/photo/126419660.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/chess-controversy-in-kolkata-r-praggnanandhaa-stops-clock-draw-call-sparks-uproar-watch/articleshow/126419660.cms",
-    "time": "2026-01-08T17:33:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "langCode": "en",
     "title": "Vijay Hazare Trophy",
     "desc": "The two batters undo the efforts of the losing side’s pace battery that initially reduces its opponent to 90 for seven; earlier Aman and Nitish help in stabilising a middle-order collapse; winning team is now fifith with Uttar Pradesh as the group topper Vidarbha enters the quarterfinals",
     "img": "https://th-i.thgim.com/public/incoming/ag6cns/article70488044.ece/alternates/LANDSCAPE_1200/TH09%20AQUIB%20.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/vijay-hazare-trophy-hyderabad-falls-apart-as-nabi-vanshaj-turn-it-around-for-jk/article70488043.ece",
     "time": "2026-01-08T17:07:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "langCode": "en",
-    "title": "Congress seeks clarification from Centre, M.P. govt. on Indore deaths; alleges criminal negligence",
-    "desc": "Congress spokesperson Pawan Khera says the tragedy exposed the ‘ugly, brutal and utterly callous face of the BJP govt.’; adds that mandatory quarterly water quality tests were not conducted, monitoring reports were not prepared or submitted, and key infrastructure projects remained incomplete or poorly managed in Madhya Pradesh",
-    "img": "https://th-i.thgim.com/public/incoming/56gg08/article70487956.ece/alternates/LANDSCAPE_1200/TH09-SOBHANA-CoG7AF54KCI.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/congress-seeks-clarification-from-centre-mp-govt-on-indore-deaths-alleges-criminal-negligence/article70487873.ece",
-    "time": "2026-01-08T16:43:45.000Z"
   },
   {
     "cat": "Sports",
@@ -569,16 +579,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-vijay-final-film-jana-nayagan-delayed-a-political-plot-focus-tamil-nadu/article70487366.ece",
     "time": "2026-01-08T14:46:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "langCode": "en",
-    "title": "Miracle at No. 8: Auqib Nabi pulls off unthinkable for J&amp;K at VHT",
-    "desc": "Auqib Nabi produced a sensational unbeaten 114 to lead Jammu and Kashmir to a stunning three-wicket win over Hyderabad in the Vijay Hazare Trophy in Rajkot. J&K were reeling at 90/7 before Dar and Vanshaj Sharma (69*) added an unbroken 182-run stand. Dar’s maiden List A century, off 65 balls, overturned Hyderabad’s strong total and sealed one of the tournament’s most memorable comebacks.",
-    "img": "https://timesofindia.indiatimes.com/photo/126416557.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/miracle-at-no-8-auqib-nabi-pulls-off-unthinkable-for-jk-at-vijay-hazare-trophy/articleshow/126416557.cms",
-    "time": "2026-01-08T14:30:02.000Z"
   },
   {
     "cat": "Sports",

@@ -1,5 +1,15 @@
-// Last Updated: 9/1/2026, 3:03:19 pm
+// Last Updated: 9/1/2026, 3:59:03 pm
 const newsData_bn = [
+  {
+    "cat": "World",
+    "langCode": "bn",
+    "title": "খামেইনিকে পালাতে হবে! ট্রাম্পের হুংকারে ইরানে যুদ্ধের প্রস্তুতি, রাস্তায় বিদ্রোহীদের আস্ফালন...",
+    "desc": "অশান্ত ইরান। প্রতিবাদী? না, দাঙ্গাবাজ? এ নিয়ে সন্দেহ প্রকাশ করেছেন খোদ খোমেইনি। তিনি এক্সে এ নিয়ে পোস্টও করেছেন। ইরানের অন্তর্লীন সংকটের সঙ্গে নাম জড়িয়ে গিয়েছে ডোনাল্ড ট্রাম্পের। আয়াতোল্লা আলি খোমেইনির বিরুদ্ধে গর্জে উঠেছে দেশ। সেই আগুনে কি হাওয়া দিচ্ছে আমেরিকা?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/iran-unrest-thousands-on-streets-soleimani-statue-down-how-iran-protests-intensified-42-killed-in-protests-ayatollah-ali-khamenei-vs-donald-trump_633917.html ",
+    "time": "2026-01-09T10:22:19.000Z"
+  },
   {
     "cat": "Politics",
     "langCode": "bn",
@@ -989,15 +999,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/technology/honda-hornet-125-cc-honda-price-makes-big-jump-in-sports-bike-market-know-the-real-price-smc-2461017.html",
     "time": "2025-12-14T08:52:30.000Z"
-  },
-  {
-    "cat": "Tech",
-    "langCode": "bn",
-    "title": "শীতে ওয়াশিং মেশিন ব্যবহার করছেন? এই ভুলগুলো করলে ক্ষতি অনিবার্য",
-    "desc": "শীতকালে ওয়াশিং মেশিনের সঠিক জায়গা নির্বাচন, দেওয়াল থেকে উপযুক্ত দূরত্ব, পাইপ সংযোগ এবং মেশিনের স্থিরতা অত্যন্ত গুরুত্বপূর্ণ। জেনে নিন সহজ কিছু টিপস, যা মেশিনের পারফরম্যান্স বাড়াতে এবং আয়ু দীর্ঘ করতে সাহায্য করবে। এর মধ্যে এমন কয়েকটি বিষয়ও রয়েছে, যা সাধারণ হলেও অনেকেই সেগুলোর দিকে বিশেষভাবে নজর দেন না।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/1765697773_1765687174_1761472125_Washing-Machine-2-2025-10-1a7d01910c74c5c99143ba6ac6d20095-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/technology/during-winter-season-tips-to-prevent-washing-machine-lags-to-avoid-mal-function-smc-2460983.html",
-    "time": "2025-12-14T08:32:57.000Z"
   }
 ];
