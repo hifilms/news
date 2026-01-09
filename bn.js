@@ -1,4 +1,4 @@
-// Last Updated: 9/1/2026, 7:11:42 pm
+// Last Updated: 9/1/2026, 7:59:22 pm
 const newsData_bn = [
   {
     "cat": "Entertainment",
@@ -971,16 +971,6 @@ const newsData_bn = [
     "time": "2025-12-17T04:26:31.000Z"
   },
   {
-    "cat": "Politics",
-    "langCode": "bn",
-    "title": "জলপাইগুড়ি থেকে সাইরাং, রাজস্ব বাড়াতে পণ্য পরিবহণে নতুন দিক খুলে দিল রেল",
-    "desc": "​বিজনেস ডেভেলপমেন্ট ইউনিট (বিডিইউ) পদক্ষেপের অধীনে, উত্তর-পূর্ব সীমান্ত রেলওয়ে নভেম্বর ২০২৫ সালে উল্লেখযোগ্য পরিমাণ পণ্য সামগ্রী পরিবহন করেছে। নাগাল্যান্ডের মলভম এবং আসামের পাঁচগ্রাম, বিহাড়া ইত্যাদি বিভিন্ন স্থান থেকে লামডিং ডিভিশনের অধীনে মোট ২,০৩৫ টি ওয়াগন স্টোন চিপস বুকিং করে ত্রিপুরার জিরাণীয়া, মিজোরামের সাইরাং,অসমের নিউ তিনসুকিয়া ইত্যাদি গন্তব্যে স্থানে পণ্য পরিবহণ করা হয়েছে, যার ফলে এই মাসে প্রায় ৮.১৫ কোটি টাকার মালবাহী রাজস্ব অর্জন হয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/ydne-2025-12-17T084444.322-2025-12-f513392aadcfa7fd8fc84f88a54e1e90-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/indian-raiklways-new-route-to-enhance-revenue-here-is-what-north-eastern-railways-planned-sta-2464403.html",
-    "time": "2025-12-17T03:19:16.000Z"
-  },
-  {
     "cat": "Business",
     "langCode": "bn",
     "title": "জর্ডনে গেলে ১০০০ ভারতীয় টাকার 'দাম' কত হয়ে যাবে জানেন...? উত্তর শুনলেই চমকাবেন!",
@@ -999,5 +989,15 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/technology/smartphone-battery-saving-tips-for-android-ios-full-day-battery-life-saving-phone-battery-drain-pbd-2462427.html",
     "time": "2025-12-15T13:19:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "bn",
+    "title": "মেসির সঙ্গে ছবি পোস্ট করায় চূড়ান্ত কটাক্ষের শিকার শুভশ্রী... গণসাক্ষর ও অভিযোগ স্বামী তথা পরিচালক-বিধায়ক রাজ চক্রবর্তীর",
+    "desc": "স্ত্রী শুভশ্রীকে সোশ্যাল মিডিয়ায় অশ্লীল ও কুরুচিকর মন্তব্য করার প্রতিবাদ জানিয়েছেন তিনি। পাশাপাশি বিধায়ক বলেন, 'কোনও ব্যক্তিকে উদ্দেশ্য করে এভাবে অশ্লীল ও কুরুচিকর মন্তব্য করা উচিত নয়। অভিযুক্তদের বিরুদ্ধে উপযুক্ত ব্যবস্থা নিক পুলিশ প্রশাসন।'স্ত্রী শুভশ্রীকে সোশ্যাল মিডিয়ায় অশ্লীল ও কুরুচিকর মন্তব্য করার প্রতিবাদ জানিয়েছেন তিনি। পাশাপাশি বিধায়ক বলেন, 'কোনও ব্যক্তিকে উদ্দেশ্য করে এভাবে অশ্লীল ও কুরুচিকর মন্তব্য করা উচিত নয়। অভিযুক্তদের বিরুদ্ধে উপযুক্ত ব্যবস্থা নিক পুলিশ প্রশাসন।'",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/12/WhatsApp-Image-2025-12-15-at-12.06.45-PM-2025-12-53c6b23a7918b165e94476cd7427486d-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/raj-chakraborty-filed-a-complaint-for-trolling-subhashree-in-social-media-l18t-rmj-local18-2461577.html",
+    "time": "2025-12-15T06:45:54.000Z"
   }
 ];

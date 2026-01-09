@@ -1,5 +1,95 @@
-// Last Updated: 9/1/2026, 7:11:42 pm
+// Last Updated: 9/1/2026, 7:59:22 pm
 const newsData_en = [
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "Complete list of international artists performing in India in 2026",
+    "desc": "Get ready for an electrifying 2026 as India welcomes a star-studded lineup of international music sensations. Linkin Park, John Mayer, Calvin Harris, and DJ Snake are set to headline major festivals and solo shows across the country. From rock anthems to EDM beats, prepare for unforgettable performances in Bengaluru, Mumbai, and Delhi.",
+    "img": "https://timesofindia.indiatimes.com/photo/126437685.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/calvin-harris-linkin-park-dj-snake-and-more-complete-list-of-international-artists-who-will-be-performing-in-india-in-2026/articleshow/126437685.cms",
+    "time": "2026-01-09T14:12:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "langCode": "en",
+    "title": "Strengthening dairy sector need of the hour, says Andhra Pradesh Agriculture Minister Atchannaidu",
+    "desc": "Observing that the sector has emerged as the backbone of rural economy, playing a crucial role in ensuring regular incomes to farmers, empowering women, and generating employment, the Minister calls for integrating modern technology and scientific practices to make dairying more profitable and sustainable",
+    "img": "https://th-i.thgim.com/public/incoming/n14owu/article70491232.ece/alternates/LANDSCAPE_1200/10745_9_1_2026_18_41_41_2_IMG_20260109_WA0060.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/strengthening-dairy-sector-need-of-the-hour-says-andhra-pradesh-agriculture-minister-atchannaidu/article70490916.ece",
+    "time": "2026-01-09T13:57:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "Asha Parekh calls late star Nanda a 'beautiful human being'",
+    "desc": "Nanda, a beloved star of the 60s and 70s, would have turned 86. Her best friend, Asha Parekh, fondly remembers her as a beautiful soul, unfairly typecast in tragic roles despite her fun-loving nature and talent for diverse characters. Nanda's career, though impactful, never saw her full potential tapped, yet she took pride in her work.",
+    "img": "https://timesofindia.indiatimes.com/photo/126437411.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/asha-parekh-describes-late-actress-nanda-as-a-beautiful-human-being-says-she-was-never-into-ugly-competitiveness-exclusive/articleshow/126437411.cms",
+    "time": "2026-01-09T13:56:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "'Parasakthi' budget, pre-release business, and cast salaries revealed",
+    "desc": "Sivakarthikeyan's upcoming film 'Parasakthi' boasts a substantial budget of 141.50 crore rupees. The film has already secured significant pre-release business, with theatrical and non-theatrical rights fetching over 107 crore rupees. Key cast members like Sivakarthikeyan and Ravi Mohan have received substantial remunerations. The movie's extensive production and promotional costs are detailed, aiming for maximum market exposure.",
+    "img": "https://timesofindia.indiatimes.com/photo/126437396.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-budget-and-pre-release-business-sivakarthikeyan-and-ravi-mohan-to-sreeleelas-salary-revealed/articleshow/126437396.cms",
+    "time": "2026-01-09T13:55:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "langCode": "en",
+    "title": "IndiGo loses appeal against DGCA order imposing penalty for alleged pilot training lapses",
+    "desc": "In September 2025, the Directorate General of Civil Aviation (DGCA) imposed a fine of ₹20 lakh each on the Director Flight Operations and Director Training of IndiGo for alleged failure to use qualified simulators for pilot training at certain airports",
+    "img": "https://th-i.thgim.com/public/incoming/6kfcpk/article70491203.ece/alternates/LANDSCAPE_1200/BVR_4904.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/indigo-loses-appeal-against-dgca-order-imposing-penalty-for-alleged-pilot-training-lapses/article70491140.ece",
+    "time": "2026-01-09T13:53:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "langCode": "en",
+    "title": "Siddaramaiah-led govt. in regular collision course with the Centre",
+    "desc": "Except for his first year in office (2013–14), the rest of his term coincided with the NDA government led by Prime Minister Narendra Modi, and the presence of rival parties in power at the State and central levels appears to be a major source of friction",
+    "img": "https://th-i.thgim.com/public/incoming/jcsof3/article70491141.ece/alternates/LANDSCAPE_1200/SiddaramaiahShivakumarDelhi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/siddaramaiah-led-govt-in-regular-collision-course-with-the-centre/article70490819.ece",
+    "time": "2026-01-09T13:45:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "Prabhas' 'The Raja Saab' expected OTT release date",
+    "desc": "Prabhas' 'The Raja Saab,' a horror-fantasy-comedy, has hit theatres with a mixed reception despite being the sole massy festive release. With a substantial budget, the film's box office performance is under scrutiny. JioHotstar has secured the OTT rights, and intriguing end-credit scenes hint at a potential sequel, setting the stage for franchise expansion.",
+    "img": "https://timesofindia.indiatimes.com/photo/126437204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-ott-release-date-when-and-where-can-we-expect-the-prabhas-starrer/articleshow/126437204.cms",
+    "time": "2026-01-09T13:41:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "langCode": "en",
+    "title": "National boxing championship",
+    "desc": "Among the women, it is Railways that holds sway, with six of the 10 finals featuring an RSPB contender; the 65kg bout between Services’ Pranjal and Neeraj ended 4-1 in the former’s favour, but it took almost half an hour to complete due to protests",
+    "img": "https://th-i.thgim.com/public/sport/aq4tc7/article70491117.ece/alternates/LANDSCAPE_1200/jadu2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/national-boxing-championship-jadumanis-magic-floors-panghal-in-the-semifinal-nikhat-lovlina-register-easy-wins/article70490998.ece",
+    "time": "2026-01-09T13:41:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "langCode": "en",
+    "title": "Mamata on streets, FIR against ED, chaos in courtroom: What's happening in poll bound West Bengal",
+    "desc": "West Bengal's political landscape intensified as chief minister Mamata Banerjee led a street protest against the ED, accusing the Centre of agency misuse ahead of polls. The Enforcement Directorate's raids on I-PAC, Banerjee's alleged interference, and subsequent court adjournment fueled a fierce political and legal confrontation, with both sides trading accusations.",
+    "img": "https://timesofindia.indiatimes.com/photo/126432961.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mamata-on-streets-fir-against-ed-chaos-in-courtroom-whats-happening-in-poll-bound-west-bengal/articleshow/126432961.cms",
+    "time": "2026-01-09T13:39:41.000Z"
+  },
   {
     "cat": "Politics",
     "langCode": "en",
@@ -21,6 +111,16 @@ const newsData_en = [
     "time": "2026-01-09T13:28:36.000Z"
   },
   {
+    "cat": "Entertainment",
+    "langCode": "en",
+    "title": "Rumy Jaffery defends 'Dhurandhar': 'Not a propaganda film'",
+    "desc": "Aditya Dhar's spy thriller 'Dhurandhar,' starring Ranveer Singh, is a massive box office success, crossing Rs 1200 crore globally. While praised for action and performance, some critics label it propaganda. Filmmaker Rumi Jaffery defends the film, calling it engaging, not propaganda.",
+    "img": "https://timesofindia.indiatimes.com/photo/126436786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/filmmaker-rumy-jaffery-defends-aditya-dhars-dhurandhar-says-its-not-a-propaganda-film/articleshow/126436786.cms",
+    "time": "2026-01-09T13:25:38.000Z"
+  },
+  {
     "cat": "Politics",
     "langCode": "en",
     "title": "Gudalur’s AI-powered command centre gets 76 alerts on elephant movement in two months",
@@ -29,6 +129,16 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/Coimbatore/gudalurs-ai-powered-command-centre-gets-76-alerts-on-elephant-movement-in-two-months/article70489844.ece",
     "time": "2026-01-09T13:17:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "langCode": "en",
+    "title": "'Modi–Trump share friendly ties': MEA responds to Trump's 'sir please' remark, says both leaders engage with 'mutual respect'",
+    "desc": "The ministry of external affairs rejected recent claims by Donald Trump, declaring that Prime Minister Narendra Modi and the US President \"share a friendly relationship based on mutual respect.\" The MEA's comments came in response to recent remarks made by Trump earlier this week at the House GOP Member Retreat.",
+    "img": "https://timesofindia.indiatimes.com/photo/126436028.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/moditrump-share-friendly-ties-mea-responds-to-trumps-sir-please-remark-says-both-leaders-engage-with-mutual-respect/articleshow/126436028.cms",
+    "time": "2026-01-09T13:03:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -173,26 +283,6 @@ const newsData_en = [
   {
     "cat": "Entertainment",
     "langCode": "en",
-    "title": "Prabhas fans bring crocodiles for ‘The Raja Saab’ screening!",
-    "desc": "Prabhas' fans celebrated the release of 'The Raja Saab' by bringing toy crocodiles to theaters, recreating a scene from the film. This unique fan gesture has gone viral online. The movie, directed by Maruthi and featuring a star-studded cast, has opened to mixed reviews despite its massive budget.",
-    "img": "https://timesofindia.indiatimes.com/photo/126434792.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/prabhas-fans-bring-crocodiles-for-the-raja-saab-screening-to-recreate-iconic-action-scene-watch/articleshow/126434792.cms",
-    "time": "2026-01-09T11:42:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "langCode": "en",
-    "title": "Farah Khan weight loss journey",
-    "desc": "Filmmaker Farah Khan, celebrating her 61st birthday, has inspired many with her consistent seven-year weight loss journey. She adopted intermittent fasting, eating only twice daily, and underwent a tummy tuck after childbirth. Farah's commitment to health, spurred by a personal encounter, now sees her at her fittest, highlighting the importance of self-care.",
-    "img": "https://timesofindia.indiatimes.com/photo/126434819.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-weight-loss-journey-from-tummy-tuck-surgery-to-post-pregnancy-wake-up-call-an-account-of-her-transformation/articleshow/126434819.cms",
-    "time": "2026-01-09T11:42:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "langCode": "en",
     "title": "No Pongal release for Thalapathy Vijay's'Jana Nayagan'",
     "desc": "The Madras High Court has temporarily halted the 'Jana Nayagan' certification. This decision means Thalapathy Vijay's film will not release for Pongal. The court questioned the urgency of the appeal and the opportunity given to the CBFC. A further hearing is scheduled for January 21. The film's release is now uncertain.",
     "img": "https://timesofindia.indiatimes.com/photo/126434726.cms",
@@ -203,32 +293,12 @@ const newsData_en = [
   {
     "cat": "Entertainment",
     "langCode": "en",
-    "title": "Kavya Madhavan shares fun family moments from Australia vacay",
-    "desc": "Actress Kavya Madhavan is enjoying a family vacation in Australia, sharing glimpses of her trip with fans. She was seen exploring the cityscape in a stylish denim outfit and indulging in a seafood boil with her daughter and nieces. Madhavan, a prominent figure in Malayalam cinema, has a career spanning decades, with 'Meesha Madhavan' being a significant blockbuster.",
-    "img": "https://timesofindia.indiatimes.com/photo/126434611.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/kavya-madhavan-shares-fun-family-moments-from-australia-vacation-with-daughter-mahalakshmi-fans-react-to-her-new-look/articleshow/126434611.cms",
-    "time": "2026-01-09T11:32:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "langCode": "en",
     "title": "Reble gains national attention for bold rap",
     "desc": "Meet Reble, a dynamic 22-year-old rapper hailing from the picturesque hills of Meghalaya. Her electrifying performances in the 'Dhurandhar' soundtrack have captivated audiences and critics alike. With a distinctive blend of raw energy and poetic prowess, she is a beacon of the vibrant Northeastern voice that is now resonating in the heart of Indian cinema.",
     "img": "https://timesofindia.indiatimes.com/photo/126434603.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/who-is-daiaphi-lamare-aka-reble-everything-to-know-about-the-rapper-whose-rap-shaped-up-ranveer-singh-led-dhurandhars-soundtrack/articleshow/126434603.cms",
     "time": "2026-01-09T11:31:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "langCode": "en",
-    "title": "Tamannaah Bhatia’s fitness trainer reveals an underrated superfood",
-    "desc": "Celebrity trainer Siddhartha Singh champions turmeric as an affordable superfood, often outperforming expensive supplements. He highlights its active compound, curcumin, as a potent anti-inflammatory agent beneficial for gut health, brain fog, and joint recovery. Singh emphasizes adding black pepper to significantly boost curcumin absorption, making this kitchen staple a powerful natural aid.",
-    "img": "https://timesofindia.indiatimes.com/photo/126434503.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tamannaah-bhatias-fitness-trainer-reveals-an-underrated-superfood-that-works-better-than-supplements/articleshow/126434503.cms",
-    "time": "2026-01-09T11:26:06.000Z"
   },
   {
     "cat": "Politics",
@@ -243,7 +313,7 @@ const newsData_en = [
   {
     "cat": "Politics",
     "langCode": "en",
-    "title": "9 dead as private bus falls into 500-feet deep gorge in Sirmaur; CM Sukhu condoles death",
+    "title": "9 dead, 40 injured as private bus falls into 500-feet deep gorge in Sirmaur; CM Sukhu condoles death",
     "desc": "A devastating bus accident in Himachal Pradesh's Sirmaur district claimed at least nine lives and injured 40 others when a private bus plunged into a 500-feet gorge. The vehicle, en route from Shimla to Kupvi, veered off a narrow road near Haripurdhar. Himachal Pradesh chief minister extended his condolences and promised full support to affected families.",
     "img": "https://timesofindia.indiatimes.com/photo/126434216.cms",
     "src": "indiatimes.com",
@@ -491,16 +561,6 @@ const newsData_en = [
     "time": "2026-01-09T06:43:35.000Z"
   },
   {
-    "cat": "Politics",
-    "langCode": "en",
-    "title": "Trade unions must unite to counter anti-worker policies, says Elamaram Kareem",
-    "desc": "Elamaram Kareem, recently elected general secretary of CITU, emphasises trade union unity to combat ‘anti-worker policies’ and protect workers’ rights amid evolving labour challenges. He says all organisations, including BMS, are welcome to join collective action against Union government’s such policies",
-    "img": "https://th-i.thgim.com/public/incoming/vehant/article70490408.ece/alternates/LANDSCAPE_1200/80692_9_1_2026_13_19_16_2_10TVKZELAMARAMKAREEM1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/trade-unions-must-unite-to-counter-anti-worker-policies-says-elamaram-kareem/article70489586.ece",
-    "time": "2026-01-09T06:34:02.000Z"
-  },
-  {
     "cat": "Sports",
     "langCode": "en",
     "title": "'Decisions today will echo for 10 yrs': Ex-captain Tamim warns Bangladesh",
@@ -551,16 +611,6 @@ const newsData_en = [
     "time": "2026-01-09T04:28:27.000Z"
   },
   {
-    "cat": "Politics",
-    "langCode": "en",
-    "title": "Malayalam Language Bill, 2025: What it proposes and why it has triggered opposition outside Kerala",
-    "desc": "In October, Kerala Assembly passed Malayalam Language Bill, establishing Malayalam as State’s sole official language for government, education, and commerce. The Bill, which awaits Governor’s assent, has faced opposition, especially from Karnataka govt, citing concerns for Kannada-speaking residents in Kasaragod. But Kerala Law Minister has argued that the Bill includes protections for linguistic minorities",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/6lvqj4/article70489384.ece/alternates/LANDSCAPE_1200/bill.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/malayalam-language-bill-2025-what-it-proposes-and-why-it-has-triggered-opposition-outside-kerala-explained/article70486875.ece",
-    "time": "2026-01-09T04:27:25.000Z"
-  },
-  {
     "cat": "Business",
     "langCode": "en",
     "title": "Markets mostly rise ahead of US tariff ruling; Nikkei adds over 600 points, HSI flat",
@@ -609,26 +659,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-standoff-bangladesh-sends-second-letter-to-icc-reiterates-venue-shift-from-india/articleshow/126425944.cms",
     "time": "2026-01-09T02:49:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "langCode": "en",
-    "title": "Telangana land owner on ground, not in official records",
-    "desc": "Decades-old Sada Bainamas — informal, plain-paper land agreements — have left over nine lakh farmers in Telangana without titles as procedural hurdles and record discrepancies stall regularisation under the Bhu Bharati Act, 2025. Small and marginal farmers are calling for Gram Sabha verifications and clearer rules to secure ownership and reduce disputes, report M. Rajeev, P. Sridhar and P. Laxma Reddy",
-    "img": "https://th-i.thgim.com/public/incoming/bd6v7z/article70488211.ece/alternates/LANDSCAPE_1200/20hyngg_ground_zero_story_on_rythu_bandhu_scheme__12.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/telangana-land-owner-on-ground-not-in-official-records/article70488210.ece",
-    "time": "2026-01-09T01:33:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "langCode": "en",
-    "title": "Chittoor poised for a white revolution",
-    "desc": "On the road to recovery from a severe setback it suffered years ago following the closure of the Cooperative Milk Producers’ Union, Chittoor district's dairy sector is set for a big leap riding on the relentless efforts of small and marginal farmers who constitute the buik of its operations, and the multi-pronged strategy rolled out by the government may turn out to be the much-needed push to shift the gear, writes K. Umashanker",
-    "img": "https://th-i.thgim.com/public/incoming/5ts26p/article70488205.ece/alternates/LANDSCAPE_1200/10745_8_1_2026_18_30_50_2_VJ_15.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/chittoor-poised-for-a-white-revolution/article70487001.ece",
-    "time": "2026-01-09T01:00:30.000Z"
   },
   {
     "cat": "Sports",

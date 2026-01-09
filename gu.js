@@ -1,5 +1,15 @@
-// Last Updated: 9/1/2026, 7:11:42 pm
+// Last Updated: 9/1/2026, 7:59:22 pm
 const newsData_gu = [
+  {
+    "cat": "Business",
+    "langCode": "gu",
+    "title": "આવી રહ્યો છે આ વર્ષનો સૌથી મોટો IPO, મુકેશ અંબાણી વેચશે 2.5% હિસ્સો",
+    "desc": "હાલના અંદાજ મુજબ કંપનીની વેલ્યું આશરે 180 અરબ ડોલર હોવાનો અંદાજ છે. 2.5 ટકા હિસ્સો વેચવાથી આશરે 4થી 4.5 બિલિયન ડોલર (આશરે 35,000થી 37,000 કરોડ રૂપિયા) એકત્ર થઈ શકે છે. આ આંકડો ગયા વર્ષે Hyundai Motor Indiaના 3.3 અરબ ડોલર IPO કરતા મોટો હશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/the-biggest-ipo-of-this-year-is-coming-mukesh-ambani-will-sell-2-5-percent-stake-461035 ",
+    "time": "2026-01-09T13:57:25.000Z"
+  },
   {
     "cat": "World",
     "langCode": "gu",
