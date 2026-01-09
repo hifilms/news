@@ -4,8 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-    <meta http-equiv="Pragma" content="no-cache">
-    <meta http-equiv="Expires" content="0">
+<script>
+  (function() {
+    var timestamp = new Date().getTime();
+    var script = document.createElement('script');
+    script.src = "news-data.js?v=" + timestamp;
+    script.async = false; // এটি নিশ্চিত করবে যে ফাইলটি আগে লোড হবে
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      console.log("নিউজ ডেটা সফলভাবে লোড হয়েছে!");
+      // যদি আপনার নিউজ দেখানোর কোনো ফাংশন থাকে (যেমন displayNews()), তবে সেটি এখানে কল করুন
+      if (typeof displayNews === "function") {
+          displayNews();
+      }
+    };
+  })();
+</script>
     <title>India News Pro</title>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -41,15 +56,9 @@
             </div>
         </footer>
     </main>
-
-    <script>
-  // ব্রাউজারকে বাধ্য করা প্রতিবার নতুন ফাইল ডাউনলোড করতে
-  var script = document.createElement('script');
-  script.src = "news-data.js?t=" + new Date().getTime(); 
-  document.head.appendChild(script);
-</script>
     <script src="app.js"></script>
 </body>
 
 </html>
+
 
