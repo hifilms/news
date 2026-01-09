@@ -1,0 +1,23 @@
+name: Update News Every Hour
+on:
+  schedule:
+    - cron: '0 * * * *' # প্রতি ঘণ্টায় চলবে
+  workflow_dispatch: # ম্যানুয়ালি চালানোর জন্য
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Node
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+      - run: npm install
+      - run: node updater.js
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add news-data.js
+          git commit -m "Auto Update News" || exit 0
+          git push
