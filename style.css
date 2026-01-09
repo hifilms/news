@@ -4,28 +4,24 @@ body { background: #000; overflow: hidden; width: 100vw; height: 100vh; }
 .screen { display:none; height:100vh; width:100vw; position:fixed; background:#fff; z-index:10; }
 .active { display:flex; flex-direction:column; }
 
-/* স্লাইডার ফিক্স: এখানে mandatory স্ন্যাপ ব্যবহার করা হয়েছে */
 #slider { 
     display:flex; 
     overflow-x: auto; 
     overflow-y: hidden;
     width: 100vw;
     height: 90vh; 
-    /* scroll-snap-type কে আরও শক্তিশালী করা হলো */
     scroll-snap-type: x mandatory; 
     -webkit-overflow-scrolling: touch;
     scrollbar-width: none; 
-    -ms-overflow-style: none;
 }
 #slider::-webkit-scrollbar { display: none; }
 
-/* কার্ড ফিক্স: যাতে দুই দিকেই একবারে একটি করে নিউজ থামে */
 .card {
     min-width: 100vw;
     max-width: 100vw;
     height: 90vh;
     flex-shrink: 0;
-    scroll-snap-align: center; /* start এর বদলে center দিলে দুই দিকেই সমান কাজ করে */
+    scroll-snap-align: center;
     scroll-snap-stop: always;
     position: relative;
     display: flex;
@@ -33,12 +29,8 @@ body { background: #000; overflow: hidden; width: 100vw; height: 100vh; }
     background: #fff;
 }
 
-/* বাকি সব আপনার অরিজিনাল ডিজাইন */
 .img-box { width:100%; height:42%; position:relative; background: #eee; overflow: hidden; }
-.img-box img { 
-    width:100%; height:100%; object-fit:cover; opacity: 0; 
-    transition: opacity 0.8s ease-in-out; 
-}
+.img-box img { width:100%; height:100%; object-fit:cover; opacity: 0; transition: opacity 0.8s ease; }
 .img-box img.loaded { opacity: 1; }
 
 .news-counter { position: absolute; top: 15px; right: 15px; background: rgba(0,0,0,0.6); color: #fff; padding: 4px 12px; border-radius: 20px; font-size: 11px; z-index: 5; }
@@ -48,7 +40,7 @@ body { background: #000; overflow: hidden; width: 100vw; height: 100vh; }
 #audio-toast { 
     position: fixed; bottom: 12vh; left: 50%; transform: translateX(-50%); 
     background: #333; color: #fff; padding: 8px 22px; border-radius: 25px; 
-    font-size: 13px; display: none; z-index: 100; box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    font-size: 13px; display: none; z-index: 100;
 }
 
 .content { padding: 20px; flex: 1; overflow-y: auto; scrollbar-width: none; }
@@ -58,15 +50,14 @@ body { background: #000; overflow: hidden; width: 100vw; height: 100vh; }
 .source-link { display:block; margin-top:10px; color:#e67e22; font-size:13px; text-decoration:none; font-weight:bold; }
 
 footer { height:10vh; display:flex; border-top:1px solid #eee; background:#fff; z-index: 20; }
-.tab { flex:1; display:flex; flex-direction:column; justify-content:center; align-items:center; cursor:pointer; color:#555; transition: 0.3s; }
+.tab { flex:1; display:flex; flex-direction:column; justify-content:center; align-items:center; color:#555; }
 .tab span { font-size:10px; margin-top:4px; font-weight:bold; }
 .is-saved { fill: #ffcc00 !important; stroke: #ffcc00 !important; }
 
 #lang-modal { position: fixed; inset:0; background:rgba(0,0,0,0.9); z-index:200; display:none; justify-content:center; align-items:center; }
 .modal-box { background:#fff; width:90%; max-height: 85vh; padding:25px; border-radius:25px; text-align:center; overflow-y: auto; }
-.modal-title { margin-bottom: 25px; font-size: 22px; color: #333; font-weight: bold; }
 .lang-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
-.lang-opt { padding: 15px 10px; border: 1px solid #f0f0f0; border-radius: 12px; background: #f9f9f9; cursor: pointer; display: flex; flex-direction: column; transition: 0.2s; }
-.lang-opt:active { transform: scale(0.95); background: #fff2e6; }
-.lang-opt b { color: #e67e22; font-size: 16px; }
-.lang-opt span { font-size: 11px; color: #888; margin-top: 4px; font-weight: bold; }
+.lang-opt { padding: 15px 10px; border: 1px solid #f0f0f0; border-radius: 12px; background: #f9f9f9; cursor: pointer; transition: 0.2s; }
+
+/* ক্যাটাগরি একটিভ স্টাইল */
+.cat-active { background: #fff2e6 !important; border: 2px solid #e67e22 !important; transform: scale(1.02); }
