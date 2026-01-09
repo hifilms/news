@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ireland announce squad for T20 World Cup 2026, Paul Stirling named captain",
+    "desc": "Ireland Cricket, ahead of the T20 World Cup 2026, has come forward and announced its squad for the upcoming tournament. It is worth noting that Paul Stirling will be leading the side in the tournament...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ireland-announce-squad-for-t20-world-cup-2026-paul-stirling-named-captain-2026-01-09-1025204",
+    "time": "2026-01-09T15:18:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'We are stunned': BCB official faces severe scrutiny after controversial remarks against Tamim Iqbal",
     "desc": "BCB (Bangladesh Cricket Board) official and finance committee chairman M. Nazmul Islam has become a major talking point after he made some controversial remarks over former Bangladesh cricketer Tamim Iqbal. Nazmul came under severe scrutiny...",
     "img": "",
@@ -10,7 +19,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "RCB strike early blow, MI struggling for runs",
+    "title": "RCB keep taking wickets, MI struggling for runs",
     "desc": "Mumbai Indians women and Royal Challengers Bengaluru women are all set to take on each other in the season opener of the WPL (Women's Premier League) 2026. The two sides will take on each other...",
     "img": "",
     "src": "indiatvnews.com",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-smriti-mandhana-feel-wpl-will-play-massive-role-for-india-to-win-t20-world-cup-2026-2026-01-09-1025101",
     "time": "2026-01-09T03:22:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gill, Siraj IN, 3 players left out: Complete list of changes in India's ODI squad for New Zealand series",
-    "desc": "Team India is set to take the field for the first time in 2026 on Sunday (January 11) as their ODI series against New Zealand will get underway. The BCCI selectors convened a meeting last...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gill-siraj-in-3-players-left-out-complete-list-of-changes-in-india-s-odi-squad-for-new-zealand-series-2026-01-09-1025098",
-    "time": "2026-01-09T02:40:16.000Z"
   }
 ];

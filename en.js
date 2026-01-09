@@ -1,12 +1,57 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Hyderabad police launch C-Mitra to enable cybercrime FIRs from home",
+    "desc": "Victims are first required to report the fraud. Police officers from the C-Mitra team contact the complainant and prepare a legally sound complaint. The draft complaint is then sent to the victim, who must sign and submit a physical copy",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/hyderabad-police-launch-c-mitra-to-enable-cybercrime-firs-from-home/article70491447.ece",
+    "time": "2026-01-09T15:08:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A 1998 Kerala High Court order allowed gold covering work at Sabarimala temple, insisted on proper security",
+    "desc": "A group of devotees moved court against the offer made by Vijay Mallya to cover the Sreekovil roof with gold sheets. Their contention was that the work would go against the concept of the deity, Yogeeswara, and that the TDB would have to spend lakhs for security. HC disposed of their petition, gave permission for the work",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/a-1998-kerala-high-court-order-allowed-gold-covering-work-at-sabarimala-temple-insisted-on-proper-security/article70487358.ece",
+    "time": "2026-01-09T15:00:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Wall Street edges higher after mixed jobs data; rate-cut bets pushed back",
+    "desc": "US stocks edged higher Friday as a mixed jobs report tempered expectations for an early Federal Reserve rate cut, though easing later this year remains likely. Treasury yields saw varied movement, while Vistra and Oklo surged on energy deals, contrasting with General Motors' decline due to EV pullback.",
+    "img": "https://static.toiimg.com/photo/msid-126438447,imgsize-1471202.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-markets-today-wall-street-edges-higher-after-mixed-jobs-data-rate-cut-bets-pushed-back/articleshow/126438450.cms",
+    "time": "2026-01-09T14:59:36.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "BJP-led Central government acting against Tamil Nadu and its people: Stalin",
     "desc": "He says despite the Union government’s non-cooperation, the Dravidian model has made the State excel on various fronts, so much so that even the Centre’s own data shows that T.N. has secured the top spot in several parameters",
     "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/shdmcx/article70491387.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-01-09%20at%207.02.43%20PM.jpeg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/bjp-led-central-government-acting-against-tamil-nadu-and-its-people-stalin/article70490246.ece",
     "time": "2026-01-09T14:44:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Charlie’s Boys: Memoir reveals SRK's enigmatic St. Columba days",
+    "desc": "Ajay Jain’s memoir recalls 1970s-80s schooldays at Delhi’s St. Columba’s, spotlighting senior SRK’s charisma. “Born with charisma... best in dramatics, sports, undisputed sword of honour boy,” says Jain (Firstpost). It evokes nostalgic campus life, SRK enigma, teacher crushes, family rumors, blending humor and heart.",
+    "img": "https://static.toiimg.com/photo/msid-126438132,imgsize-31024.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/charlies-boys-book-memoir-reveals-shah-rukh-khans-enigmatic-st-columba-days-actor-was-tagged-as-the-undisputed-boy-for-the-sword-of-honour/articleshow/126438132.cms",
+    "time": "2026-01-09T14:36:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "5 chilling Indian web series villains",
+    "desc": "​Nothing amps up a binge-watch like a villain who crawls under your skin. Indian web series have gifted us some absolute nightmares—not over-the-top cackles, but quiet, twisted threats that hit too close to home. Here are five who left us sleeping with lights on.​",
+    "img": "https://static.toiimg.com/photo/msid-126410042,imgsize-31052.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/5-chilling-indian-web-series-villains-that-keep-you-up-at-night/photostory/126410042.cms",
+    "time": "2026-01-09T14:33:35.000Z"
   },
   {
     "cat": "Politics",
@@ -253,6 +298,15 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
+    "title": "Now, Shiv Sena-NCP form group in bid to keep BJP away from power",
+    "desc": "A senior local leader of the Shiv Sena confirmed that his party, the NCP and one Independent have come together in a bid to occupy power in the municipal council in Ambarnath in Thane district",
+    "img": "https://th-i.thgim.com/public/incoming/xnaren/article70490767.ece/alternates/LANDSCAPE_1200/11908_4_12_2024_16_25_34_5_DSC_8373A.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/new-political-twist-in-ambarnath-now-shiv-sena-ncp-form-group-in-bid-to-keep-bjp-away-from-power/article70490713.ece",
+    "time": "2026-01-09T12:34:58.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "‘Closely monitoring’: MEA expresses concerns over Minneapolis shooting; cites presence large Indian diaspora",
     "desc": "India's External Affairs Ministry is closely watching a shooting incident in Minneapolis involving a US immigration agent, given the large Indian population there. The US Department of Homeland Security stated an ICE officer fired defensively after a vehicle attempted to run over officers during an immigration operation. The alleged perpetrator died, and injured officers are recovering.",
     "img": "https://static.toiimg.com/photo/msid-126436008,imgsize-923473.cms",
@@ -333,15 +387,6 @@ const newsData_en = [
     "time": "2026-01-09T12:00:26.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Myra Karn recalls unique casting she fit",
-    "desc": "Fifteen years post-release, 'No One Killed Jessica' remains a haunting piece of cinema. Director Raj Kumar Gupta discovered Myra Karn, who bore an uncanny likeness to a haunting image of Jessica Lall. Initially an engineer with no intention of acting, Karn accepted the role as a whimsical challenge, ultimately delivering a striking performance that resonated with audiences.",
-    "img": "https://static.toiimg.com/photo/msid-126434904,imgsize-49762.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/no-one-killed-jessica-clocks-15-jessica-aka-myra-karn-reflects-on-fabulous-experience-working-with-vidya-balan/articleshow/126434904.cms",
-    "time": "2026-01-09T11:56:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Vi to pay Rs 1,144 crore over next 10 years for frozen Rs 87,695 crore AGR dues; bulk repayments start March 2036",
     "desc": "Vodafone Idea (Vi) secured a significant reprieve from the government, freezing its Rs 87,695 crore adjusted gross revenue (AGR) dues. The company will now pay Rs 1,144 crore annually for six years, followed by staggered payments until 2041, offering a crucial lifeline to the debt-laden operator.",
@@ -349,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/telecom-relief-vi-to-pay-rs-1144-crore-over-next-10-years-for-frozen-rs-87695-crore-agr-dues-bulk-repayments-start-march-2036/articleshow/126435049.cms",
     "time": "2026-01-09T11:54:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Reble gains national attention for bold rap",
-    "desc": "Meet Reble, a dynamic 22-year-old rapper hailing from the picturesque hills of Meghalaya. Her electrifying performances in the 'Dhurandhar' soundtrack have captivated audiences and critics alike. With a distinctive blend of raw energy and poetic prowess, she is a beacon of the vibrant Northeastern voice that is now resonating in the heart of Indian cinema.",
-    "img": "https://static.toiimg.com/photo/msid-126434603,imgsize-53864.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/who-is-daiaphi-lamare-aka-reble-everything-to-know-about-the-rapper-whose-rap-shaped-up-ranveer-singh-led-dhurandhars-soundtrack/articleshow/126434603.cms",
-    "time": "2026-01-09T11:31:56.000Z"
   },
   {
     "cat": "Politics",
@@ -477,15 +513,6 @@ const newsData_en = [
     "time": "2026-01-09T09:26:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Assam Opposition files complaint against BJP over alleged voter list ‘conspiracy’",
-    "desc": "Congress, CPI(M), Raijor Dal, Assam Jatiya Parishad, and CPI(ML)L, in a joint complaint filed at Dispur Police Station, claimed that State BJP president Dilip Saikia has specifically entrusted Cabinet Minister Ashok Singhal to carry out the deletion process in 60 LAC’s",
-    "img": "https://th-i.thgim.com/public/incoming/ccv4mw/article70490144.ece/alternates/LANDSCAPE_1200/20260108236L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/assam/assam-opposition-files-complaint-against-bjp-over-alleged-voter-list-conspiracy/article70490102.ece",
-    "time": "2026-01-09T09:21:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "At 58, still chasing goals: 'King Kazu' vows to prove age is just a number",
     "desc": "At 58, veteran striker Kazuyoshi Miura, affectionately known as 'King Kazu,' is embarking on his 41st professional season. He has joined third-division side Fukushima United on loan, aiming to score and assist. Miura, a pioneer of Japanese football, remains driven by a desire to play, even for a fleeting moment, showcasing his enduring passion for the game.",
@@ -603,15 +630,6 @@ const newsData_en = [
     "time": "2026-01-09T05:48:49.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Currency falls 7 paise in early trade; reaches 89.97 against US dollar",
-    "desc": "The Indian rupee weakened against the US dollar on Friday, trading at 89.97 due to persistent foreign investor selling and rising global crude oil prices. US tariffs and a subdued domestic stock market also contributed to the pressure. The Reserve Bank of India has been actively intervening to manage the rupee's volatility.",
-    "img": "https://static.toiimg.com/photo/msid-126428036,imgsize-40058.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-in-red-currency-falls-7-paise-in-early-trade-reaches-89-93-against-us-dollar/articleshow/126426778.cms",
-    "time": "2026-01-09T05:33:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Would Litton or Soumya face same heat as Mustafizur? Ex-BCB official asks",
     "desc": "Ex-Bangladesh Cricket Board official Syed Ashraful Haque criticised political meddling in cricket administration, saying the Mustafizur Rahman row reflects how World Cup matters are being driven by immature, election-linked politics rather than sporting logic, potentially jeopardising Bangladesh’s participation",
@@ -628,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ball-in-bangladeshs-court-indian-govt-assures-warm-welcome-to-all-nations-for-t20-world-cup/articleshow/126427732.cms",
     "time": "2026-01-09T05:09:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘PM Modi did not call Trump’: US Commerce secretary makes big statement — explains why India-US trade deal is stuck",
-    "desc": "US Commerce Secretary Howard Lutnick stated PM Modi's failure to call President Trump prevented a trade deal. This comes as the US imposes tariffs on countries buying Russian oil. India faces tariffs on its goods. Both nations are negotiating a comprehensive trade agreement with a goal to significantly boost bilateral trade by 2030.",
-    "img": "https://static.toiimg.com/photo/msid-126428437,imgsize-1223556.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/pm-modi-did-not-call-trump-us-commerce-secys-big-statement-explains-why-india-us-trade-deal-is-stuck/articleshow/126427323.cms",
-    "time": "2026-01-09T04:50:51.000Z"
   },
   {
     "cat": "Sports",
@@ -664,6 +673,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/psls-big-expansion-small-price-tag-two-new-franchises-sold-for-less-than-ipl-superstars-paycheque/articleshow/126426608.cms",
     "time": "2026-01-09T03:45:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "B'desh sends second letter to ICC, reiterates venue shift from India",
+    "desc": "Bangladesh Cricket Board has formally requested the ICC to shift their T20 World Cup matches from India to Sri Lanka due to security concerns. The team has refused to travel to India, escalating uncertainty just weeks before the tournament. The BCB's stance has hardened following the IPL release of Mustafizur Rahman.",
+    "img": "https://static.toiimg.com/photo/msid-126425941,imgsize-164996.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-standoff-bangladesh-sends-second-letter-to-icc-reiterates-venue-shift-from-india/articleshow/126425944.cms",
+    "time": "2026-01-09T02:49:33.000Z"
   },
   {
     "cat": "Sports",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/stock-markets-fall-for-second-day-as-selling-in-reliance-industries-hdfc-bank-dents-sentiment/article70477934.ece",
     "time": "2026-01-06T12:04:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Run Away’ series review: Perfect pulp to kick off the New Year",
-    "desc": "James Nesbitt and Minnie Driver as desperate parents of a vulnerable missing teenager form just one curly strand of spaghetti in this Harlan Coben adaptation, which also features a pair of good-looking killers and a murderous cult",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/ak5kho/article70477316.ece/alternates/LANDSCAPE_1200/AAAAQTXqXqc9iC-nS0u-QIyqogmzke5ZMTGdtewt3m-WdCDvVjiewdIHoRVizkoPXRUv4Lq1O9Bqu9or8L7dUTr3aOkAjhmLKnVPwlk8mgp7hS5sZHvb9FK_kY1Divooomf4vdBvQi7i18IzSfRR62tmng5C5nA.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/run-away-series-review-perfect-pulp-to-kick-off-the-new-year/article70477206.ece",
-    "time": "2026-01-06T09:18:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Don’t think you can ignore anyone at the Candidates:  Pravin Thipsay",
-    "desc": "Caruana will certainly be the favourite and Praggnanandhaa, too, if he is better prepared in the opening; Anish can do well if he continues his GCL form, but I have my reservations about Nakamura given the way he performed against players with ratings of 1800, says the Alpine SG Pipers coach",
-    "img": "https://th-i.thgim.com/public/sport/mdyw7u/article70475287.ece/alternates/LANDSCAPE_1200/CHESS%20NAMASTE%2011111.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/dont-think-you-can-ignore-anyone-at-the-candidates/article70475072.ece",
-    "time": "2026-01-05T18:06:23.000Z"
   }
 ];

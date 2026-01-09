@@ -6,7 +6,7 @@ const newsData_bn = [
     "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-09-at-7.37.50-PM-2026-01-1c1f6f84c76a7691bbab6f680948faba-3x2.jpeg",
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/better-to-focus-on-own-responsibilities-india-to-mamdani-over-umar-khalid-remarks-rmj-ws-l-2490118.html",
-    "time": "2026-01-09T14:21:29.000Z"
+    "time": "2026-01-09T14:54:53.000Z"
   },
   {
     "cat": "Entertainment",
