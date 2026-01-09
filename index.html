@@ -43,9 +43,13 @@
     </main>
 
     <script>
-  document.write('<script src="news-data.js?v=' + Date.now() + '"><\/script>');
+  // ব্রাউজারকে বাধ্য করা প্রতিবার নতুন ফাইল ডাউনলোড করতে
+  var script = document.createElement('script');
+  script.src = "news-data.js?t=" + new Date().getTime(); 
+  document.head.appendChild(script);
 </script>
     <script src="app.js"></script>
 </body>
 
 </html>
+
