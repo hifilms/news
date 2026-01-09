@@ -18,6 +18,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add news-data.js
-          git commit -m "Auto Update News" || exit 0
+          git add *.js  # এটি সব .js ফাইল আপডেট করবে (bn.js, hi.js ইত্যাদি)
+          git commit -m "Auto Update Multi-Language News" || exit 0
           git push
