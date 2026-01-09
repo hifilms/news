@@ -1,5 +1,59 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "‘Vijay deserves the farewell he has earned’: Jana Nayagan producer",
+    "desc": "Thalapathy Vijay’s much-anticipated Jana Nayagan has been postponed indefinitely after the Madras High Court stayed the film’s release until the next hearing on January 21. The legal setback comes at a crucial moment, as Jana Nayagan is widely believed to be Vijay’s final film before he formally steps into active politics. Amid mounting speculation and disappointment among fans, KVN Productions founder Venkat K. Narayana has issued his first detailed statement addressing the controversy.",
+    "img": "https://static.toiimg.com/photo/msid-126443262,imgsize-34622.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalapathy-vijay-deserves-the-farewell-he-has-earned-jana-nayagan-producer-apologizes-to-audiences-after-hc-stay/articleshow/126443256.cms",
+    "time": "2026-01-09T20:41:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rumesh Ratnayake",
+    "desc": "The 62-year-old knows a thing or two about famous Sri Lankan victories. He took the wicket that won the island nation its first-ever Test and coached the women to significant overseas T20I series wins and an Asia Cup triumph. He talks about his coaching philosophy, being inspired by the All Blacks, the evolution of the women’s game and his time as a pathbreaking quick",
+    "img": "https://th-i.thgim.com/public/incoming/nlusw3/article70492521.ece/alternates/LANDSCAPE_1200/1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/rumesh-ratnayake-sri-lanka-1985-test-win-fast-bowling-womens-coach-kapil-dev/article70492498.ece",
+    "time": "2026-01-09T20:28:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jefferson-Wooden’s plan for world domination centres on ‘Melissa’",
+    "desc": "A switch in the 24-year-old American sprinter’s focus — from competing against others to competing against her best — brought rich rewards in 2025. The reigning sprint queen, who claimed a historic triple crown at the Worlds, wants to establish herself among the greatest ever as she looks forward to a series of major events culminating in Los Angeles 2028",
+    "img": "https://th-i.thgim.com/public/incoming/h1wapr/article70492515.ece/alternates/LANDSCAPE_1200/GettyImages-2217335433.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/melissa-jefferson-wooden-sprint-queen-la-2028-olympics-flo-jo-record-world-championships/article70492488.ece",
+    "time": "2026-01-09T20:25:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kriti dances her heart out at Nupur-Stebin’s haldi celebrations",
+    "desc": "Singer Stebin Ben and actor Nupur Sanon’s wedding celebrations officially began in Udaipur with a vibrant haldi ceremony that set the tone for the days ahead. Surrounded by close friends and family, the couple embraced the festive spirit as music, colour and laughter filled the venue, marking the first major ritual of their pre-wedding celebrations.",
+    "img": "https://static.toiimg.com/photo/msid-126442986,imgsize-65140.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kriti-sanon-dances-her-heart-out-as-nupur-sanon-and-stebin-bens-haldi-celebrations-turn-into-a-dhol-filled-party/articleshow/126442955.cms",
+    "time": "2026-01-09T19:24:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ramadoss grapples a with lack of choices as Anbumani joins AIADMK alliance",
+    "desc": "The recent development leaves the PMK founder with two difficult options - join the DMK, which has the VCK, an ‘ideological enemy’, or fight the Assembly election with the political start-up of actor Vijay’s TVK",
+    "img": "https://th-i.thgim.com/public/incoming/jb1hds/article70491918.ece/alternates/LANDSCAPE_1200/Ramadoss_05.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/ramadoss-grapples-a-with-lack-of-choices-as-anbumani-joins-aiadmk-alliance/article70491696.ece",
+    "time": "2026-01-09T18:35:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sivakarthikeyan opens up on ‘Parasakthi’ censorship; wishes ‘Jana Nayagan’ success",
+    "desc": "In an interaction with the press, the star said that the film’s team had no time to negotiate with the CBFC and had to focus only on ensuring that the changes suggested by the board were implemented properly",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/pvov20/article70492408.ece/alternates/LANDSCAPE_1200/2F3A7594.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/sivakarthikeyan-parasakthi-censorship-cbfc-thalapathy-vijay-jana-nayagan/article70492379.ece",
+    "time": "2026-01-09T18:27:35.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Reforms put wind in its sails amid global headwinds; PMO’s Shaktikanta Das maps the road ahead",
     "desc": "India is poised for significant economic growth, with government policies providing momentum amidst global trade uncertainties. Principal Secretary Shaktikanta Das highlighted Atmanirbharta as a strategy for resilience, not isolation, enabling India to navigate a fragmented world and pursue sustained development.",
@@ -55,9 +109,9 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Rogue elephant claims two more lives in Jharkhand’s West Singhbhum",
+    "title": "Tusker claims 2 more lives in Jharkhand’s West Singhbhum",
     "desc": "In the last nine days, the tusker has killed 17 people in the Chaibasa forest division; the forest department officials are on the spot and efforts are on to tranquilise and control the rogue elephant",
-    "img": "https://th-i.thgim.com/public/incoming/epystu/article70492324.ece/alternates/LANDSCAPE_1200/Ranchi-10.jpg",
+    "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/jharkhand/rogue-elephant-claims-more-lives-in-jharkhand-west-singhbhum/article70490874.ece",
     "time": "2026-01-09T17:35:56.000Z"
@@ -73,30 +127,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Amit Shah chairs NCORD meet; calls for coordinated national push against drug trafficking",
-    "desc": "Union Home Minister Amit Shah chaired the NCORD meeting, announcing a three-year nationwide anti-drug campaign starting March 31, 2026. The strategy focuses on disrupting supply chains, reducing demand, and a humane approach to users, emphasizing strict action against drug traffickers and kingpins.",
-    "img": "https://static.toiimg.com/photo/msid-126440712,imgsize-1144611.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/narco-crackdown-amit-shah-chairs-ncord-meet-calls-for-coordinated-national-push-against-drug-trafficking/articleshow/126440706.cms",
-    "time": "2026-01-09T17:30:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tent city along Ganga, inaugurated by PM, ‘violated’ environmental norms: NGT",
+    "title": "Varanasi ‘Tent City’, inaugurated by PM, violated environmental norms: NGT",
     "desc": "The Principal Bench of the NGT comprising chairperson Prakash Shrivastava and expert member A. Senthil Vel was hearing an application that the tent city was polluting the riverbed and river water and causing harm to flora and fauna",
-    "img": "https://th-i.thgim.com/public/incoming/ezmpbm/article70492264.ece/alternates/LANDSCAPE_1200/IMG_BL14_NATIONAL_GREEN__2_1_4M82HF2I.jpg",
+    "img": "https://th-i.thgim.com/public/latest-news/xxd2n3/article70492461.ece/alternates/LANDSCAPE_1200/TentCity.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/energy-and-environment/tent-city-along-ganga-inaugurated-by-pm-violated-environmental-norms-ngt/article70492186.ece",
     "time": "2026-01-09T17:28:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Bid to occupy power': Shiv Sena-NCP join hands to block BJP; fresh twist to seize Ambernath civic body",
-    "desc": "Eknath Shinde's Shiv Sena and Ajit Pawar's NCP have joined forces with an independent councillor. This new alliance aims to secure power in the Ambernath Municipal Council. The move comes after the BJP inducted suspended Congress councillors. This realignment reshapes the power dynamics within the civic body. The group now holds a majority, thwarting the BJP's plans.",
-    "img": "https://static.toiimg.com/photo/msid-126440945,imgsize-24932.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bid-to-occupy-power-shiv-sena-ncp-join-hands-to-block-bjp-fresh-twist-to-seize-ambernath-civic-body/articleshow/126440572.cms",
-    "time": "2026-01-09T17:24:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -109,7 +145,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Trade unions call for general strike on Feb 12, threatens indefinite strike if Labour Codes are not repealed",
+    "title": "Trade unions call for general strike on February 12, threatens indefinite strike if Labour Codes are not repealed",
     "desc": "Central Trade Unions stated that if the Government still tries to pursue the Rules under the Codes and does not repeal the Codes, the CTUs will be compelled to go for further strong actions, including a multiple-day General Strike",
     "img": "https://th-i.thgim.com/public/incoming/tb6gl/article70492239.ece/alternates/LANDSCAPE_1200/DSC9746.jpg",
     "src": "thehindu.com",
@@ -151,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/interesting-transition-phase-in-indian-cricket-its-going-to-be-good-to-watch-how-things-go-graeme-smith/articleshow/126439476.cms",
     "time": "2026-01-09T16:33:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "MEA",
-    "desc": "India is closely monitoring the situation in Iran amidst ongoing protests fueled by economic woes and currency devaluation. New Delhi has advised its citizens to exercise caution and avoid protest-affected areas. The government is also actively seeking consular access for ten Indian crew members detained on a seized tanker, ensuring their well-being and offering assistance.",
-    "img": "https://static.toiimg.com/photo/msid-126439684,imgsize-429912.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-closely-following-developments-in-iran-mea/articleshow/126439633.cms",
-    "time": "2026-01-09T16:28:39.000Z"
   },
   {
     "cat": "Politics",
@@ -205,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bollywoods-top-5-true-crime-dramas-no-one-killed-jessica-to-raman-raghav-2-0/articleshow/126439350.cms",
     "time": "2026-01-09T16:05:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "All candidates to undergo face authentication at exam venue, says UPSC",
-    "desc": "Earlier in September 2025, UPSC conducted a pilot programme to test AI-enabled facial authentication technology for swift and secure candidate verification during two examinations; the Commission says the initiative seeks to strengthen the integrity of the examination process",
-    "img": "https://th-i.thgim.com/public/incoming/jysn9b/article70492027.ece/alternates/LANDSCAPE_1200/IMG_20250914_090526.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/all-candidates-to-undergo-face-authentication-at-exam-venue-says-upsc/article70491883.ece",
-    "time": "2026-01-09T16:02:34.000Z"
   },
   {
     "cat": "Entertainment",
@@ -297,15 +315,6 @@ const newsData_en = [
     "time": "2026-01-09T14:59:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BJP-led Central government acting against Tamil Nadu and its people: Stalin",
-    "desc": "He says despite the Union government’s non-cooperation, the Dravidian model has made the State excel on various fronts, so much so that even the Centre’s own data shows that T.N. has secured the top spot in several parameters",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/shdmcx/article70491387.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-01-09%20at%207.02.43%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/bjp-led-central-government-acting-against-tamil-nadu-and-its-people-stalin/article70490246.ece",
-    "time": "2026-01-09T14:44:20.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Charlie’s Boys: Memoir reveals SRK's enigmatic St. Columba days",
     "desc": "Ajay Jain’s memoir recalls 1970s-80s schooldays at Delhi’s St. Columba’s, spotlighting senior SRK’s charisma. “Born with charisma... best in dramatics, sports, undisputed sword of honour boy,” says Jain (Firstpost). It evokes nostalgic campus life, SRK enigma, teacher crushes, family rumors, blending humor and heart.",
@@ -322,15 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/5-chilling-indian-web-series-villains-that-keep-you-up-at-night/photostory/126410042.cms",
     "time": "2026-01-09T14:33:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Idukki gears up for high-stakes battle as UDF, LDF poised to field veteran leaders",
-    "desc": "As Idukki gears up for the 2026 Assembly elections, LDF’s Mani is set to defend his Udumbanchola seat, backed by local party leaders who believe his experience is essential for victory, despite a typical two-term limit. UDF’s P.J. Joseph is likely to contest from Thodupuzha.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/idukki-gears-up-for-high-stakes-battle-as-udf-ldf-poised-to-field-veteran-leaders/article70491183.ece",
-    "time": "2026-01-09T14:30:49.000Z"
   },
   {
     "cat": "Business",
@@ -405,15 +405,6 @@ const newsData_en = [
     "time": "2026-01-09T13:41:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Mamata on streets, FIR against ED, chaos in courtroom: What's happening in poll bound West Bengal",
-    "desc": "West Bengal's political landscape intensified as chief minister Mamata Banerjee led a street protest against the ED, accusing the Centre of agency misuse ahead of polls. The Enforcement Directorate's raids on I-PAC, Banerjee's alleged interference, and subsequent court adjournment fueled a fierce political and legal confrontation, with both sides trading accusations.",
-    "img": "https://static.toiimg.com/photo/msid-126437208,imgsize-1345401.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mamata-on-streets-fir-against-ed-chaos-in-courtroom-whats-happening-in-poll-bound-west-bengal/articleshow/126432961.cms",
-    "time": "2026-01-09T13:39:41.000Z"
-  },
-  {
     "cat": "World",
     "title": "Chinese, Russian and Iranian warships arrive in South Africa for naval drills as tensions run high",
     "desc": "The Chinese-led drills were organized last year under the BRICS bloc of developing nations and South Africa's armed forces said they will bring members of the bloc together to practice maritime safety and anti-piracy operations and “deepen cooperation”",
@@ -432,42 +423,6 @@ const newsData_en = [
     "time": "2026-01-09T13:28:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rumy Jaffery defends 'Dhurandhar': 'Not a propaganda film'",
-    "desc": "Aditya Dhar's spy thriller 'Dhurandhar,' starring Ranveer Singh, is a massive box office success, crossing Rs 1200 crore globally. While praised for action and performance, some critics label it propaganda. Filmmaker Rumi Jaffery defends the film, calling it engaging, not propaganda.",
-    "img": "https://static.toiimg.com/photo/msid-126436824,imgsize-46966.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/filmmaker-rumy-jaffery-defends-aditya-dhars-dhurandhar-says-its-not-a-propaganda-film/articleshow/126436786.cms",
-    "time": "2026-01-09T13:25:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Focus on responsibilities’: MEA hits back at Mamdani’s letter to Umar Khalid; terms it ‘prejudice’",
-    "desc": "Ministry of external affairs has sharply criticized New York City Mayor Zohran Mamdani' letter to jailed activist Umar Khalid. MEA spokesperson Randhir Jaiswal stated that personal prejudices are unbecoming of public officials and urged respect for judicial independence.",
-    "img": "https://static.toiimg.com/photo/msid-126436606,imgsize-53966.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/focus-on-responsibilities-mea-hits-back-at-mamdanis-letter-to-umar-khalid-terms-it-prejudice/articleshow/126436086.cms",
-    "time": "2026-01-09T13:12:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Modi–Trump share friendly ties': MEA responds to Trump's 'sir please' remark, says both leaders engage with 'mutual respect'",
-    "desc": "The ministry of external affairs rejected recent claims by Donald Trump, declaring that Prime Minister Narendra Modi and the US President \"share a friendly relationship based on mutual respect.\" The MEA's comments came in response to recent remarks made by Trump earlier this week at the House GOP Member Retreat.",
-    "img": "https://static.toiimg.com/photo/msid-126436352,imgsize-81554.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/moditrump-share-friendly-ties-mea-responds-to-trumps-sir-please-remark-says-both-leaders-engage-with-mutual-respect/articleshow/126436028.cms",
-    "time": "2026-01-09T13:03:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'No work in Delhi will be stalled due to budget shortage': CM Rekha Gupta in Assembly",
-    "desc": "Addressing the House, Gupta said her government clearly communicates its direction and targets to the public. Calling pollution a crucial issue for the national capital, she said the government is committed to completing 1,100 Arogya Mandirs across Delhi as part of its healthcare roadmap. She added that new nursing staff have already been recruited to strengthen the health system.",
-    "img": "https://static.toiimg.com/photo/msid-126436294,imgsize-716553.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-work-in-delhi-will-be-stalled-due-to-budget-shortage-cm-rekha-gupta-in-assembly/articleshow/126436232.cms",
-    "time": "2026-01-09T12:51:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'You’ve got best fans': Out of WPL, Elysse Perry backs RCB from home",
     "desc": "The 2024 WPL champions RCB posted the video on Instagram with the caption, \"A familiar voice wishing strength and support. Perry sends her love and luck to the squad for the WPL 2026 season ahead.\"",
@@ -475,24 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/youve-got-best-fans-out-of-wpl-elysse-perry-backs-smriti-mandhanas-rcb-from-home-watch/articleshow/126436114.cms",
     "time": "2026-01-09T12:50:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Anuradha Roy On Gardens Growing From Grief",
-    "desc": "Anuradha Roy is the author of five novels. Her first, ‘An Atlas of Impossible Longing’, was translated into 16 languages. ‘Sleeping on Jupiter’, her third novel, won the DSC Prize for Fiction 2016 and was longlisted for the Man Booker Prize 2015. ‘All the Lives We Never Lived’ won the 2022 Sahitya Akademi Award and was shortlisted for the International Dublin Literary Award. 'Called by the Hills’ is her first work of nonfiction.",
-    "img": "https://static.toiimg.com/photo/msid-126435971,imgsize-70214.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/anuradha-roy-on-gardens-growing-from-grief/articleshow/126435925.cms",
-    "time": "2026-01-09T12:42:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Closely monitoring’: MEA expresses concerns over Minneapolis shooting; cites presence large Indian diaspora",
-    "desc": "India's External Affairs Ministry is closely watching a shooting incident in Minneapolis involving a US immigration agent, given the large Indian population there. The US Department of Homeland Security stated an ICE officer fired defensively after a vehicle attempted to run over officers during an immigration operation. The alleged perpetrator died, and injured officers are recovering.",
-    "img": "https://static.toiimg.com/photo/msid-126436008,imgsize-923473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/closely-monitoring-mea-expresses-concerns-over-minneapolis-shooting-cites-presence-large-indian-diaspora/articleshow/126435186.cms",
-    "time": "2026-01-09T12:33:59.000Z"
   },
   {
     "cat": "Business",
@@ -540,15 +477,6 @@ const newsData_en = [
     "time": "2026-01-09T12:04:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Did nothing wrong': Mamata Banerjee on action during ED raids; makes coal scam charge against BJP",
-    "desc": "West Bengal chief minister Mamata Banerjee defended her interference during ED's I-PAC raids, alleging the agency sought to \"steal\" her party's data. She accused senior BJP leaders in Delhi of receiving \"coal scam proceeds\" and claimed the BJP won Maharashtra by \"stealing the mandate\" with EC's help, aiming to do the same in Bengal.",
-    "img": "https://static.toiimg.com/photo/msid-126435051,imgsize-851190.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/did-nothing-wrong-mamata-on-action-during-ed-raids-makes-coal-scam-charge-against-bjp-i-pac-raids/articleshow/126434778.cms",
-    "time": "2026-01-09T12:00:26.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Vi to pay Rs 1,144 crore over next 10 years for frozen Rs 87,695 crore AGR dues; bulk repayments start March 2036",
     "desc": "Vodafone Idea (Vi) secured a significant reprieve from the government, freezing its Rs 87,695 crore adjusted gross revenue (AGR) dues. The company will now pay Rs 1,144 crore annually for six years, followed by staggered payments until 2041, offering a crucial lifeline to the debt-laden operator.",
@@ -556,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/telecom-relief-vi-to-pay-rs-1144-crore-over-next-10-years-for-frozen-rs-87695-crore-agr-dues-bulk-repayments-start-march-2036/articleshow/126435049.cms",
     "time": "2026-01-09T11:54:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kartik and the mystery girl stayed at the same hotel, different rooms",
-    "desc": "Speculation surrounding Kartik Aaryan's rumoured relationship with UK-based student Karina Kubiliute intensified after fans noticed shared beach locations and hotel stays in Goa. Despite Karina's denial, reports suggest they were at the same hotel, though in separate rooms, fueling further online investigation into her background.",
-    "img": "https://static.toiimg.com/photo/msid-126433863,imgsize-55400.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kartik-aaryan-and-the-mystery-girl-karina-kubiliute-stayed-at-the-same-hotel-in-goa-but-in-different-rooms-report/articleshow/126433844.cms",
-    "time": "2026-01-09T10:56:22.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +817,86 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/love-mocktail-3-release-date-love-mocktail-darling-krishna-milana-nagaraj-nakul-abhayankar-april-2026/article70481308.ece",
     "time": "2026-01-07T08:18:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "World Cup triumph a big boost as Indian squash prepares for LA Olympics",
+    "desc": "The 17-year-old Anahat, who has displayed remarkable maturity and temperament, has the best opportunity to qualify; at 39, the evergreen Joshna will take it step-by-step in the build-up to the 2028 Games; Abhay’s athleticism and tactical awareness have kept him in good stead while Ramit, Velavan and Veer are the others with Olympic dreams",
+    "img": "https://th-i.thgim.com/public/incoming/b1rpee/article70479647.ece/alternates/LANDSCAPE_1200/4871_14_12_2025_19_24_51_1__DSC8092.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/world-cup-triumph-a-big-boost-as-indian-squash-prepares-for-la-olympics/article70479649.ece",
+    "time": "2026-01-06T18:10:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IWL 2025-26",
+    "desc": "In the other two matches of the day, Sribhumi FC returned to winning ways by downing debutant Garhwal United FC 3-0, while three-time champion Gokulam Kerala FC was held goalless by the other debutant Sesa Football Academy",
+    "img": "https://th-i.thgim.com/public/incoming/gkoh15/article70478981.ece/alternates/LANDSCAPE_1200/80717_6_1_2026_19_33_20_3_060126IWL3.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/iwl-2025-26-five-out-of-five-for-east-bengal-sethu-pips-nita-fa/article70478956.ece",
+    "time": "2026-01-06T14:53:34.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "SC agrees to take up plea for SOP on freezing, de-freezing bank accounts in cybercrime cases",
+    "desc": "The plea also sought appropriate guidelines to all investigating agencies, including cyber cells, to ensure no bank account gets frozen without a written order and intimation to the account holder within 24 hours of such action",
+    "img": "https://th-i.thgim.com/public/news/national/uttar-pradesh/yz3pc2/article70478495.ece/alternates/LANDSCAPE_1200/iStock-817486028.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/sc-agrees-to-take-up-plea-for-sop-on-freezing-de-freezing-bank-accounts-in-cybercrime-cases/article70478321.ece",
+    "time": "2026-01-06T13:36:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock markets fall for second day as selling in Reliance Industries, HDFC Bank dents sentiment",
+    "desc": "50-share NSE Nifty declined 71.60 points, or 0.275, to end at 26,178.70. From the 30-Sensex firms, Trent tumbled 8.62% after the Tata group's retail firm's revenue growth in the December quarter failed to cheer investors.",
+    "img": "https://th-i.thgim.com/public/incoming/saimnm/article70477966.ece/alternates/LANDSCAPE_1200/2025-12-23T004953Z_1598912984_RC2ZLIAI6HWV_RTRMADP_3_INDIA-STOCKS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/stock-markets-fall-for-second-day-as-selling-in-reliance-industries-hdfc-bank-dents-sentiment/article70477934.ece",
+    "time": "2026-01-06T12:04:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Run Away’ series review: Perfect pulp to kick off the New Year",
+    "desc": "James Nesbitt and Minnie Driver as desperate parents of a vulnerable missing teenager form just one curly strand of spaghetti in this Harlan Coben adaptation, which also features a pair of good-looking killers and a murderous cult",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/ak5kho/article70477316.ece/alternates/LANDSCAPE_1200/AAAAQTXqXqc9iC-nS0u-QIyqogmzke5ZMTGdtewt3m-WdCDvVjiewdIHoRVizkoPXRUv4Lq1O9Bqu9or8L7dUTr3aOkAjhmLKnVPwlk8mgp7hS5sZHvb9FK_kY1Divooomf4vdBvQi7i18IzSfRR62tmng5C5nA.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/run-away-series-review-perfect-pulp-to-kick-off-the-new-year/article70477206.ece",
+    "time": "2026-01-06T09:18:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Supreme Court grants relief to Adani Power, sets aside customs duty on SEZ electricity",
+    "desc": "“In our view, the High Court, in its judgment of 2019, fell into error in accepting the submission of the Union that the later notifications continued to operate merely because they were not specifically set aside in the decision of 2015, the Supreme Court bench said",
+    "img": "https://th-i.thgim.com/public/incoming/u21tnq/article70475188.ece/alternates/LANDSCAPE_1200/2025-05-02T091405Z_1040841356_RC282Y971UEE_RTRMADP_3_ADANI-POWER-BANGLADESH-POWER.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/sc-grants-relief-to-adani-power-sets-aside-customs-duty-on-sez-electricity/article70473616.ece",
+    "time": "2026-01-05T15:23:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "SBI to promote India-Israel trade in rupee",
+    "desc": "With more than 40,000 Indian workers joining the Israeli workforce recently, SBI is also looking to facilitate the flow of remittances to India by facilitating the opening of their NRI accounts in India at its Tel Aviv branch.",
+    "img": "https://th-i.thgim.com/public/news/cities/mumbai/6dst5p/article30655346.ece/alternates/LANDSCAPE_1200/26BMSBI",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/sbi-to-promote-india-israel-trade-in-rupee/article70473304.ece",
+    "time": "2026-01-05T07:59:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All eyes on Yash’s ‘Toxic’ even as young filmmakers look to shine",
+    "desc": "From ‘Toxic’ starring Yash to ‘Mango Pachcha’ featuring debutant Sanchith Sanjeev, the Kannada film industry is gearing up for an interesting 2026, packed with a mix of star-driven movies and fresh attempts from rookie filmmakers",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/blcv3h/article70464071.ece/alternates/LANDSCAPE_1200/Toxic1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/kannada-cinema-in-2026-toxic-billa-ranga-baasha-kd-the-devil-666-operation-dream-theatre-love-mocktail-3/article70456421.ece",
+    "time": "2026-01-02T12:47:15.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Five ways in which technology will rewire life in 2026",
+    "desc": "AI is no longer a standout novelty but a necessity, and smartphones are defined less by hardware upgrades and more by how well they connect within broader tech ecosystems. These five trends are reshaping technology in 2026",
+    "img": "https://th-i.thgim.com/public/news/national/karnataka/kfgg8h/article70452303.ece/alternates/LANDSCAPE_1200/Main%20Placeholder%20image.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/five-ways-in-which-technology-will-rewire-life-in-2026/article70452235.ece",
+    "time": "2026-01-02T11:18:53.000Z"
   }
 ];
