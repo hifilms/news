@@ -1,11 +1,11 @@
 const rssConfig = {
     "bn": { // Bengali
-        "Sports": ["https://www.anandabazar.com/rss/sports.xml", "https://ajkaal.in/category/sports/feed"],
-        "Tech": ["https://www.anandabazar.com/rss/science-technology.xml", "https://zeenews.india.com/bengali/rss/technology.xml"],
-        "Business": ["https://www.anandabazar.com/rss/business.xml", "https://ajkaal.in/category/business/feed"],
-        "Entertainment": ["https://ajkaal.in/category/entertainment/feed", "https://zeenews.india.com/bengali/rss/entertainment.xml"],
-        "World": ["https://www.anandabazar.com/rss/world.xml", "https://ajkaal.in/category/world/feed"],
-        "Politics": ["https://ajkaal.in/category/national/feed", "https://zeenews.india.com/bengali/rss/india.xml"]
+        "Sports": ["https://bengali.news18.com/commonfeeds/v1/ben/rss/sports.xml", "https://zeenews.india.com/bengali/rssfeed/sports.xml","https://bengali.news18.com/commonfeeds/v1/ben/rss/ipl.xml","https://bengali.news18.com/commonfeeds/v1/ben/rss/sports/cricket.xml","https://bengali.news18.com/commonfeeds/v1/ben/rss/sports/other-sports.xml"],
+        "Tech": ["https://bengali.news18.com/commonfeeds/v1/ben/rss/technology/other-tech.xml", "https://bengali.news18.com/commonfeeds/v1/ben/rss/technology/mobile.xml","https://bengali.news18.com/commonfeeds/v1/ben/rss/technology.xml"],
+        "Business": ["https://bengali.news18.com/commonfeeds/v1/ben/rss/business.xml", "https://bengali.oneindia.com/rss/feeds/bengali-business-fb.xml"],
+        "Entertainment": ["https://zeenews.india.com/bengali/rssfeed/entertainment.xml","https://bengali.news18.com/commonfeeds/v1/ben/rss/entertainment/tollywood-movies.xml", "https://bengali.news18.com/commonfeeds/v1/ben/rss/entertainment.xml","https://bengali.news18.com/commonfeeds/v1/ben/rss/entertainment/bollywood.xml","https://bengali.news18.com/commonfeeds/v1/ben/rss/entertainment/hollywood.xml"],
+        "World": ["https://zeenews.india.com/bengali/rssfeed/world.xml", "https://bengali.news18.com/commonfeeds/v1/ben/rss/international.xml"],
+        "Politics": ["https://zeenews.india.com/bengali/rssfeed/nation.xml", "https://bengali.news18.com/commonfeeds/v1/ben/rss/politics.xml","https://bengali.news18.com/commonfeeds/v1/ben/rss/national.xml"]
     },
     "hi": { // Hindi
         "Sports": ["https://www.indiatvnews.com/rssfeed/sports.xml", "https://hindi.news18.com/rss/khabar-sports.xml"],
