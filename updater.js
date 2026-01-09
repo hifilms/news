@@ -3,23 +3,28 @@ const fs = require('fs');
 const rssConfig = require('./config.js');
 const parser = new Parser({
     customFields: {
-        item: [['media:content', 'mediaContent'], ['media:thumbnail', 'mediaThumbnail'], ['image', 'imageTag']]
+        item: [
+            ['media:content', 'mediaContent'],
+            ['media:thumbnail', 'mediaThumbnail'],
+            ['image', 'imageTag']
+        ]
     }
 });
 
 async function updateNews() {
-    let finalNewsData = {};
-    const existingFile = './news-data.js';
+    const lastUpdate = new Date().toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' });
 
     for (const lang in rssConfig) {
         let langNews = [];
+
         for (const cat in rssConfig[lang]) {
             const urls = rssConfig[lang][cat];
+            
             for (const url of urls) {
                 try {
                     const feed = await parser.parseURL(url);
                     
-                    // সোর্স নাম ঠিক করা (উদা: t.ndtv.com -> ndtv.com)
+                    // ডোমেইন থেকে সোর্স নাম ঠিক করা (.com/.in সহ)
                     let host = new URL(url).hostname.replace('www.', '');
                     let parts = host.split('.');
                     let sourceDomain = parts.length > 2 ? parts.slice(-2).join('.') : host;
@@ -31,7 +36,7 @@ async function updateNews() {
                         // কোলন (:) এর আগের অংশ বাদ দেওয়া
                         if (cleanDesc.includes(':')) {
                             let splitDesc = cleanDesc.split(':');
-                            splitDesc.shift(); 
+                            splitDesc.shift();
                             cleanDesc = splitDesc.join(':').trim(); 
                         }
 
@@ -58,26 +63,28 @@ async function updateNews() {
                             title: cleanTitle,
                             desc: cleanDesc,
                             img: img,
-                            src: sourceDomain.toLowerCase(), // ছোট হাতের অক্ষরে domain.com দেখাবে
+                            src: sourceDomain.toLowerCase(),
                             url: item.link,
                             time: item.isoDate || new Date().toISOString()
                         });
                     });
-                } catch (err) { console.error(`Error: ${url}`, err.message); }
+                } catch (err) {
+                    console.error(`Error in ${lang} - ${url}:`, err.message);
+                }
             }
         }
-        langNews.sort((a, b) => new Date(b.time) - new Date(a.time));
-        finalNewsData[lang] = langNews.slice(0, 100);
-    }
 
-    const finalContent = `const onlineNewsData = ${JSON.stringify(finalNewsData, null, 2)};`;
-    fs.writeFileSync(existingFile, finalContent);
-    console.log("✅ নিউজ আপডেট এবং সোর্স নাম ঠিক করা হয়েছে!");
+        // নতুন খবর সর্টিং
+        langNews.sort((a, b) => new Date(b.time) - new Date(a.time));
+
+        // প্রতিটি ফাইলের জন্য আলাদা ভেরিয়েবল নাম (উদা: newsData_bn)
+        const finalLangData = langNews.slice(0, 100);
+        const fileContent = `// Last Updated: ${lastUpdate}\nconst newsData_${lang} = ${JSON.stringify(finalLangData, null, 2)};`;
+        
+        // আলাদা ফাইল হিসেবে সেভ করা (উদা: bn.js, hi.js)
+        fs.writeFileSync(`./${lang}.js`, fileContent);
+        console.log(`✅ ${lang.toUpperCase()} নিউজ ফাইল আপডেট হয়েছে!`);
+    }
 }
 
 updateNews();
-
-// updater.js এর একদম শেষের দিকের অংশ
-const lastUpdate = new Date().toLocaleString();
-const finalContent = `// Last Update: ${lastUpdate}\nconst onlineNewsData = ${JSON.stringify(finalNewsData, null, 2)};`;
-fs.writeFileSync(existingFile, finalContent);
