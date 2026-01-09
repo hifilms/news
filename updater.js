@@ -76,3 +76,8 @@ async function updateNews() {
 }
 
 updateNews();
+
+// updater.js এর একদম শেষের দিকের অংশ
+const lastUpdate = new Date().toLocaleString();
+const finalContent = `// Last Update: ${lastUpdate}\nconst onlineNewsData = ${JSON.stringify(finalNewsData, null, 2)};`;
+fs.writeFileSync(existingFile, finalContent);
