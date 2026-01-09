@@ -3,6 +3,16 @@ const onlineNewsData = {
     {
       "cat": "Entertainment",
       "langCode": "bn",
+      "title": "ডিভোর্স হলেও ছাড়বেন না জয়কে...! ৫ কোটি টাকার খোরপোশের দাবি উঠতেই বোমা ফাটালেন মাহি",
+      "desc": "Jay Bhanushali and Mahhi Divorce: টেলিভিশন দম্পতি জয় ভানুশালী এবং মাহি ভিজ কয়েকদিন আগে সোশ্যাল মিডিয়ায় একটি যৌথ পোস্টের মাধ্যমে তাদের বিবাহবিচ্ছেদের খবর নিশ্চিত করেছেন। তারা লিখেছেন যে তাদের ১৪ বছরের দাম্পত্য জীবন শেষ হয়ে গেলেও তারা বন্ধুত্ব বজায় রাখবে এবং তাদের সন্তানদের একসঙ্গে বড় করবেন।",
+      "img": "https://images.news18.com/static-bengali/uploads/2025/10/Riya-Das-1200900-24-2025-10-0436810aebd2054303307f6df3be651f-3x2.jpg",
+      "src": "bengali.news18.com",
+      "url": "https://bengali.news18.com/photogallery/entertainment/mahhi-vij-breaks-silence-on-divorce-with-jay-bhanushali-slams-5-crore-alimony-rumours-rds-2489140.html",
+      "time": "2026-01-09T05:28:57.000Z"
+    },
+    {
+      "cat": "Entertainment",
+      "langCode": "bn",
       "title": "কাঁদতে কাঁদতে ছবির গান লিখেছিলেন গীতিকার, সেই গানই হল সুপারডুপার হিট! আজও লোকের মুখে মুখে ফেরে",
       "desc": "Sunny Deol Blockbuster Movies :অনেক বলিউড তারকা কেবল অভিনয়কেই প্রাধান্য দিতেন। তারা চরিত্রের প্রকৃতির দিকে খুব কম মনোযোগ দিতেন। এটি একজন ভালো অভিনেতার বৈশিষ্ট্য। একটি ভূমিকা ইতিবাচক বা নেতিবাচক হতে পারে, কিন্তু অভিনয় তা নয়। অভিনয় কেবল অভিনয়। বলিউডে অ্যাকশন হিরো হিসেবে পরিচিত সানি দেওলও এমন একজন অভিনেতা।",
       "img": "https://images.news18.com/static-bengali/uploads/2026/01/1767894828_sunny-deol-blockbuster-movies-2026-01-97df3da261f65f00813267d3664b197e-3x2.jpg",
@@ -989,20 +999,50 @@ const onlineNewsData = {
       "src": "bengali.news18.com",
       "url": "https://bengali.news18.com/photogallery/business/money-saving-tips-home-loan-emi-save-15-18-lakh-on-50-lakh-loan-ca-smart-trick-sal-tc-aa-2470106.html",
       "time": "2025-12-22T10:55:52.000Z"
-    },
-    {
-      "cat": "Politics",
-      "langCode": "bn",
-      "title": "বড়দিন থেকে নতুন বছর... নিশ্চিন্তে ঘুরে আসুন! তিন জোড়া স্পেশাল ট্রেন চালানোর সিদ্ধান্ত রেলের",
-      "desc": "উত্তর-পূর্ব সীমান্ত রেলওয়ে বড়দিন ও নববর্ষ উপলক্ষে তিন জোড়া স্পেশাল ট্রেন চালানোর সিদ্ধান্ত নিয়েছে। এই স্পেশাল ট্রেনগুলির মধ্যে রয়েছে ট্রেন নম্বর ০৫৬০৯/০৫৬১০ (গুয়াহাটি –সাইরাং –গুয়াহাটি), ০৫৯০৫/০৫৯০৬ (ডিব্রুগড় – লক্ষ্ণৌ – ডিব্রুগড়) এবং ০৪০৭৮/০৪০৭৭ (নিউ দিল্লি – কামাখ্যা – নিউ দিল্লি) রয়েছে, যা উৎসবের মরসুমে যাত্রীদের অতিরিক্ত সুবিধা প্রদান করবে।",
-      "img": "https://images.news18.com/static-bengali/uploads/2025/12/TV_5654839_foggy_weather_train_1-3x2.jpg",
-      "src": "bengali.news18.com",
-      "url": "https://bengali.news18.com/news/national/northeast-frontier-railway-announces-three-pairs-of-special-trains-on-christmas-rmj-ws-l-2469728.html",
-      "time": "2025-12-22T03:31:01.000Z"
     }
   ],
   "hi": [],
   "en": [
+    {
+      "cat": "Sports",
+      "langCode": "en",
+      "title": "'Ball in Bangladesh's court'",
+      "desc": "The Indian government is monitoring the Bangladesh situation regarding the T20 World Cup and will follow its sports policy of welcoming all participating nations. Bangladesh's decision to withdraw or relocate matches remains solely theirs, with India awaiting their final stance. Unlike Pakistan, where a specific sports policy exists, Bangladesh will receive full security if they choose to participate.",
+      "img": "https://timesofindia.indiatimes.com/photo/126427732.cms",
+      "src": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ball-in-bangladeshs-court-indian-govt-assures-warm-welcome-to-all-nations-for-t20-world-cup/articleshow/126427732.cms",
+      "time": "2026-01-09T05:09:24.000Z"
+    },
+    {
+      "cat": "Politics",
+      "langCode": "en",
+      "title": "Mahua, Derek dragged away from outside Amit Shah’s office; TMC MPs protest over I-PAC raid",
+      "desc": "TMC leaders, including MPs, were detained protesting ED raids on I-PAC offices in Kolkata. The party alleges the raids, targeting election strategy data, are politically motivated harassment by the Union government ahead of West Bengal polls. Chief Minister Mamata Banerjee condemned the action, calling it a vendetta and accusing the BJP of attempting to steal party documents.",
+      "img": "https://timesofindia.indiatimes.com/photo/126427338.cms",
+      "src": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/india/watch-from-mahua-to-derek-police-drag-away-tmc-mps-protesting-outside-amit-shahs-office/articleshow/126427338.cms",
+      "time": "2026-01-09T04:46:27.000Z"
+    },
+    {
+      "cat": "Politics",
+      "langCode": "en",
+      "title": "'Cannot support all his beliefs': Tharoor calls himself 'uncritical fan' of Nehru; slams BJP for turning him into 'convenient scapegoat'",
+      "desc": "Shashi Tharoor, while respecting Jawaharlal Nehru as India's democratic founder, acknowledged his mistakes, stating the Modi government unfairly scapegoats him. He noted the 1962 China war defeat as a potential Nehru misstep, but criticized blaming him for all current issues. Tharoor also shared personal anecdotes about his writing journey and Kerala's reading culture.",
+      "img": "https://timesofindia.indiatimes.com/photo/126426866.cms",
+      "src": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/india/cannot-support-all-his-beliefs-tharoor-calls-himself-uncritical-fan-of-nehru-slams-bjp-for-turning-him-into-convenient-scapegoat/articleshow/126426866.cms",
+      "time": "2026-01-09T04:40:07.000Z"
+    },
+    {
+      "cat": "Entertainment",
+      "langCode": "en",
+      "title": "All seasons of 'Keeping Up with the Kardashians' get a new home: Here's where you can watch the drama online",
+      "desc": "Fans can rejoice as all 20 seasons of 'Keeping Up with the Kardashians' and its spin-offs are returning to streaming. After a brief absence from Peacock, the entire Kardashian universe will be available on Hulu and Hulu on Disney+ starting February 17, 2026.",
+      "img": "https://timesofindia.indiatimes.com/photo/126427251.cms",
+      "src": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/web-series/news/english/all-seasons-of-keeping-up-with-the-kardashians-get-a-new-home-heres-where-you-can-watch-the-drama-online/articleshow/126427251.cms",
+      "time": "2026-01-09T04:38:24.000Z"
+    },
     {
       "cat": "Sports",
       "langCode": "en",
@@ -1032,6 +1072,16 @@ const onlineNewsData = {
       "src": "timesofindia.indiatimes.com",
       "url": "https://timesofindia.indiatimes.com/etimes/trending/will-jesus-return-by-2026-prediction-markets-are-taking-real-money-bets-on-the-second-coming/articleshow/126425750.cms",
       "time": "2026-01-09T04:24:49.000Z"
+    },
+    {
+      "cat": "Entertainment",
+      "langCode": "en",
+      "title": "Director Rumi Jaffrey says Dhurandhar is not a 'propaganda' film",
+      "desc": "Renowned filmmaker Rumi Jaffrey has firmly supported Ranveer Singh's latest venture 'Dhurandhar', describing it as a captivating experience rather than a politically charged film. Having seen it twice, he emphasizes its entertainment value. In spite of mixed reviews regarding its political themes, the film soared at the box office, raking in more than Rs 1200 crore globally.",
+      "img": "https://timesofindia.indiatimes.com/photo/126427003.cms",
+      "src": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-filmmaker-rumi-jaffrey-extends-support-to-the-aditya-dhar-directorial-says-it-is-not-a-propaganda-film/articleshow/126427003.cms",
+      "time": "2026-01-09T04:24:30.000Z"
     },
     {
       "cat": "Business",
@@ -1246,16 +1296,6 @@ const onlineNewsData = {
     {
       "cat": "Entertainment",
       "langCode": "en",
-      "title": "'Toxic': When 'Kasaba' director questioned Geetu Mohandas",
-      "desc": "Yash's 'Toxic' teaser has sparked controversy, with many online criticizing its bold visuals and perceived objectification of women. This has drawn attention to director Geetu Mohandas's past strong stance against similar content, leading to accusations of double standards. 'Kasaba' director Nithin Renji Panicker has publicly called out Mohandas for hypocrisy, reigniting an old debate.",
-      "img": "https://timesofindia.indiatimes.com/photo/126425150.cms",
-      "src": "timesofindia.indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/say-it-say-it-when-nithin-renji-panicker-questioned-geetu-mohandas-after-yashs-toxic-peek-release/articleshow/126425150.cms",
-      "time": "2026-01-09T00:53:47.000Z"
-    },
-    {
-      "cat": "Entertainment",
-      "langCode": "en",
       "title": "Felt a void while promoting Ikkis",
       "desc": "Jaideep Ahlawat fondly remembers his time working with the late Dharmendra on the film 'Ikkis'. Ahlawat expressed feeling lucky to share the screen with the legend, highlighting Dharmendra's warmth and humor on set. He also spoke about the void left by Dharmendra's passing in the Indian cinema industry.",
       "img": "https://timesofindia.indiatimes.com/photo/126425168.cms",
@@ -1282,16 +1322,6 @@ const onlineNewsData = {
       "src": "timesofindia.indiatimes.com",
       "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ikkis-box-office-collection-day-8-agastya-nanda-and-dharmendras-film-continues-to-show-low-but-consistent-numbers-earns-1-35-crore-dhurandhar-still-dominates/articleshow/126425030.cms",
       "time": "2026-01-09T00:22:25.000Z"
-    },
-    {
-      "cat": "Entertainment",
-      "langCode": "en",
-      "title": "'Bha. Bha. Ba.' OTT: Dileep film streaming THIS day",
-      "desc": "Dileep's comedy film 'Bha Bha Ba' is set for an OTT release on ZEE5 on January 16. Despite a mixed theatrical reception and a brief Mohanlal cameo, the movie struggled at the box office. The film faced controversy over a scene, with the writers clarifying it was intended as spoof humor.",
-      "img": "https://timesofindia.indiatimes.com/photo/126425026.cms",
-      "src": "timesofindia.indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bha-bha-ba-ott-release-date-when-and-where-to-watch-dileep-and-mohanlals-mass-spoof-film/articleshow/126425026.cms",
-      "time": "2026-01-09T00:21:34.000Z"
     },
     {
       "cat": "Entertainment",
@@ -1474,26 +1504,6 @@ const onlineNewsData = {
       "time": "2026-01-08T15:03:27.000Z"
     },
     {
-      "cat": "Business",
-      "langCode": "en",
-      "title": "‘Scapegoated by Boeing’: Alaska Airlines pilot files $10 million lawsuit over 737 MAX 9 door plug failure",
-      "desc": "Alaska Airlines Captain Brandon Fisher is suing Boeing for $10 million, alleging the company wrongly blamed him and his co-pilot for the January 2024 door plug blowout. Fisher claims Boeing shifted blame in court filings after initially praising the crew's safe landing, causing him emotional distress and reputational harm.",
-      "img": "https://timesofindia.indiatimes.com/photo/126417489.cms",
-      "src": "timesofindia.indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/scapegoated-by-boeing-alaska-airlines-pilot-files-10-million-lawsuit-over-737-max-9-door-plug-failure/articleshow/126417489.cms",
-      "time": "2026-01-08T14:57:03.000Z"
-    },
-    {
-      "cat": "Business",
-      "langCode": "en",
-      "title": "Assocham pitches incentives for hydrogen-based steel; green finance to cut carbon footprint",
-      "desc": "Assocham is urging the government to offer incentives for green steel production, including hydrogen-based DRI and renewable energy, to aid the sector's low-carbon transition. The industry body also seeks support for scrap recycling and R&D to boost productivity and reduce import reliance.",
-      "img": "https://timesofindia.indiatimes.com/photo/126417464.cms",
-      "src": "timesofindia.indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-assocham-pitches-incentives-for-hydrogen-based-steel-green-finance-to-cut-carbon-footprint/articleshow/126417464.cms",
-      "time": "2026-01-08T14:54:25.000Z"
-    },
-    {
       "cat": "Sports",
       "langCode": "en",
       "title": "Numbers, moments and the story so far",
@@ -1572,16 +1582,6 @@ const onlineNewsData = {
       "src": "timesofindia.indiatimes.com",
       "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sarfaraz-khan-scripts-history-smokes-30-off-abhishek-sharma-to-record-fastest-ever-fifty/articleshow/126412430.cms",
       "time": "2026-01-08T10:22:42.000Z"
-    },
-    {
-      "cat": "Sports",
-      "langCode": "en",
-      "title": "'If any muppet tells you to slow down...': The advice that shaped Mitchell Starc",
-      "desc": "Mitchell Starc’s Ashes heroics capped a series that underlined both his durability and evolution. As the left-armer moves closer to the game’s all-time highest wicket-takers, his childhood coach Neil de Costa recalls the defining philosophy that shaped Starc’s career: bowl fast, swing hard and ignore anyone who tells you otherwise.",
-      "img": "https://timesofindia.indiatimes.com/photo/126410727.cms",
-      "src": "timesofindia.indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/if-any-muppet-tells-you-to-slow-down-he-does-not-understand-cricket-the-advice-that-shaped-mitchell-starc/articleshow/126410727.cms",
-      "time": "2026-01-08T09:09:33.000Z"
     },
     {
       "cat": "World",
@@ -1828,6 +1828,16 @@ const onlineNewsData = {
   "te": [],
   "mr": [],
   "gu": [
+    {
+      "cat": "World",
+      "langCode": "gu",
+      "title": "ભારત-અમેરિકા વચ્ચેની વેપાર સંધિ અભરાઈએ ચડી ગઈ? USનો દાવો-PM મોદીએ ટ્રમ્પને ફોન ન કર્યો એટલે...",
+      "desc": "India-US Trade Deal: જ્યારથી ડોનાલ્ડ ટ્રમ્પ બીજીવાર અમેરિકાના રાષ્ટ્રપતિ બન્યા છે ત્યારથી અલગ તેવર જોવા મળી રહ્યા છે. વેનેઝુએલા બાદ અનેક દેશોને ધમકીઓ...ભારતના હિતમાં ન હોય તેવી વાતો, અને હવે ભારત સાથેની વેપાર સંધિ પણ અભરાઈએ ચડી ગઈ હોવાનો દાવો અમેરિકાના વાણિજ્ય મંત્રી કરી રહ્યા છે. જાણો શું છે વિગતો.",
+      "img": "https://via.placeholder.com/600x400?text=News",
+      "src": "zeenews.india.com",
+      "url": " http://zeenews.india.com/gujarati/world/howard-lutnick-big-claim-about-india-us-trade-deal-know-what-did-he-say-about-pm-modi-and-trump-460942 ",
+      "time": "2026-01-09T05:11:26.000Z"
+    },
     {
       "cat": "World",
       "langCode": "gu",
@@ -2337,16 +2347,6 @@ const onlineNewsData = {
       "src": "zeenews.india.com",
       "url": " http://zeenews.india.com/gujarati/world/when-america-attacked-how-come-venezuela-radar-system-failed-big-question-460476 ",
       "time": "2026-01-05T10:48:26.000Z"
-    },
-    {
-      "cat": "World",
-      "langCode": "gu",
-      "title": "અમેરિકા અને વેનેઝુએલાની લડાઈમાં કયો દેશ કોની સાથે ? જાણો કોણે આ હુમલાને ગણાવ્યો આંતરરાષ્ટ્રીય કાયદાનું ઉલ્લંઘન",
-      "desc": "US vs Venezuela : ઘણા દેશોએ વેનેઝુએલા પર અમેરિકાના હુમલા અને ત્યારબાદ રાષ્ટ્રપતિ માદુરોને બંધક બનાવવાની ઘટનાને ખોટી અને આંતરરાષ્ટ્રીય કાયદાનું ઉલ્લંઘન ગણાવી છે. દરમિયાન અન્ય લોકોએ આ કાર્યવાહીને યોગ્ય ઠેરવી છે, તેને વેનેઝુએલાના લોકો માટે સારું ગણાવ્યું છે. કેટલાક દેશોએ આ બાબતે તટસ્થ વલણ પણ અપનાવ્યું છે.",
-      "img": "https://via.placeholder.com/600x400?text=News",
-      "src": "zeenews.india.com",
-      "url": " http://zeenews.india.com/gujarati/world/us-attacks-venezuela-who-is-in-support-of-america-and-who-is-in-support-of-venezuela-460424 ",
-      "time": "2026-01-05T05:37:33.000Z"
     },
     {
       "cat": "Entertainment",
