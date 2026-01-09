@@ -3,9 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-    <meta http-equiv="Pragma" content="no-cache">
-    <meta http-equiv="Expires" content="0">
     <title>India News Pro</title>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -15,9 +12,15 @@
 
     <div id="lang-modal">
         <div class="modal-box">
-            <h3 class="modal-title">Select Language</h3>
-            <div id="lang-list" class="lang-grid">
-                </div>
+            <h3 class="modal-title" id="modal-heading">Select Language</h3>
+            
+            <div id="lang-list" class="lang-grid"></div>
+
+            <div id="cat-section" style="display: none;">
+                <div id="cat-list" class="lang-grid"></div>
+                <p id="cat-warning" style="color: #e74c3c; font-size: 13px; margin-top: 15px; font-weight: bold; visibility: hidden;">কমপক্ষে ৩টি ক্যাটাগরি বেছে নিন</p>
+                <button onclick="closeModal()" style="margin-top: 20px; background: #e67e22; color: #fff; border: none; padding: 12px 35px; border-radius: 25px; font-weight: bold; cursor: pointer; box-shadow: 0 4px 10px rgba(230,126,34,0.3);">START READING</button>
+            </div>
         </div>
     </div>
 
@@ -41,14 +44,7 @@
             </div>
         </footer>
     </main>
-<script>
-  document.write('<script src="news-data.js?v=' + Date.now() + '"><\/script>');
-</script>
+
     <script src="app.js"></script>
 </body>
-
 </html>
-
-
-
-
