@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
     <title>India News Pro</title>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -39,26 +41,14 @@
             </div>
         </footer>
     </main>
-    <script>
-      (function() {
-          var script = document.createElement('script');
-          script.src = "news-data.js?v=" + Date.now();
-          script.async = false; 
-          document.head.appendChild(script);
-
-          script.onload = function() {
-              console.log("Data loaded successfully");
-              // ২. ডেটা লোড হওয়ার পর আপনার নিউজ ফাংশনটি কল করুন
-              if (typeof displayNews === "function") {
-                  displayNews(); 
-              }
-          };
-      })();
-    </script>
+<script>
+  document.write('<script src="news-data.js?v=' + Date.now() + '"><\/script>');
+</script>
     <script src="app.js"></script>
 </body>
 
 </html>
+
 
 
 
