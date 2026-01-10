@@ -1,7 +1,43 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Gujarat Giants set to bat first as UP Warriorz opt to field",
+    "title": "Meg Lanning surpasses Ellyse Perry in legendary WPL record list in clash against Gujarat Giants",
+    "desc": "UP Warriorz skipper Meg Lanning added another milestone to her WPL career by moving past former Australia teammate Ellyse Perry on the tournament’s all-time run-scorers list. Her 30 off 27 balls against Gujarat Giants took...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/meg-lanning-surpasses-ellyse-perry-in-legendary-wpl-record-list-in-clash-against-gujarat-giants-2026-01-10-1025299",
+    "time": "2026-01-10T12:15:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Anushka Sharma? 22-year-old steals spotlight on WPL debut vs UP Warriorz",
+    "desc": "Anushka Sharma wreaked havoc in her Women’s Premier League debut against UP Warriorz at the DY Patil Sports Academy in Navi Mumbai. Having enormous success for Madhya Pradesh in domestic cricket and also for India...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wpl-2026-who-is-anushka-sharma-22-year-old-steals-spotlight-on-wpl-debut-vs-up-warriorz-2026-01-10-1025288",
+    "time": "2026-01-10T11:16:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill reacts to being dropped from T20 World Cup 2026 squad, says 'I am where I am supposed to be'",
+    "desc": "Shubman Gill failed to retain his spot in the Indian team for the T20 World Cup 2026 after a series of low scores in the format. He was under immense scrutiny for his performance but...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-reacts-to-being-dropped-from-t20-world-cup-2026-squad-says-i-am-where-i-am-supposed-to-be-2026-01-10-1025283",
+    "time": "2026-01-10T10:40:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Neeraj Chopra parts ways with coach Jan Zelezny, know what happened",
+    "desc": "Olympic gold medallist Neeraj Chopra has brought an end to his short but high-profile coaching association with Czech legend Jan Zelezny, concluding a partnership that lasted just one competitive season. The decision was confirmed through...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/neeraj-chopra-parts-ways-with-coach-jan-zelezny-know-what-happened-2026-01-10-1025279",
+    "time": "2026-01-10T10:05:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Phoebe Litchfield's blitzkreig end, Gujarat smell victory",
     "desc": "The stage is set for game 2 of the ongoing WPL (Women's Premier League) 2026. Gujarat Giants lock horns with UP Warriorz at the Dr. DY Patil Sports Academy in Navi Mumbai. While Gujarat will...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/nadine-de-klerk-joins-deepti-sharma-in-unique-list-after-her-masterclass-in-wpl-2026-clash-against-mumbai-indians-2026-01-10-1025233",
     "time": "2026-01-10T03:58:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Kaur scripts history after WPL 2026 season opener, moves past Shafali Verma in elite list",
-    "desc": "The WPL (Women’s Premier League) 2026 saw the tournament kick off with Mumbai Indians women taking on Royal Challengers Bengaluru women. While RCB registered a thrilling victory in the game, it was MI skipper Harmanpreet...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-scripts-history-after-wpl-2026-season-opener-moves-past-shafali-verma-in-elite-list-2026-01-10-1025229",
-    "time": "2026-01-10T02:54:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Amelia Kerr surpasses Hayley Matthews, becomes WPL's highest wicket taker after season opener",
-    "desc": "The WPL (Women’s Premier League) 2026 season opener saw Mumbai Indians women take on Royal Challengers Bengaluru women. The two sides locked horns at the Dr DY Patil Sports Academy in Navi Mumbai. The clash...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/amelia-kerr-surpasses-hayley-matthews-becomes-wpl-s-highest-wicket-taker-after-season-opener-2026-01-10-1025224",
-    "time": "2026-01-10T01:15:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Kaur opens up after Nadine de Klerk propels RCB to stellar win against MI",
-    "desc": "The season opener of the WPL (Women’s Premier League) 2026 saw Mumbai Indians women take on Royal Challengers Bengaluru women. The two sides locked horns at the Dr DY Patil Sports Academy in Navi Mumbai,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-opens-up-after-nadine-de-klerk-propels-rcb-to-stellar-win-against-mi-2026-01-09-1025219",
-    "time": "2026-01-09T18:15:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nadine de Klerk propels Royal Challengers Bengaluru to opening day win against Mumbai Indians",
-    "desc": "The WPL (Women’s Premier League) 2026 season kicked off with defending champions Mumbai Indians women taking on Royal Challengers Bengaluru women. The two sides took on each other at the Dr DY Patil Sports Academy...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wpl-2026-nadine-de-klerk-propels-royal-challengers-bengaluru-to-opening-day-win-against-mumbai-indians-2026-01-09-1025214",
-    "time": "2026-01-09T17:49:21.000Z"
   }
 ];

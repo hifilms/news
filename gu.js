@@ -1,6 +1,87 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "લોન લીધા પછી વ્યક્તિનું થઈ જાય મોત, તો બેંકો તેને વસૂલવા માટે શું કરી શકે છે? જાણો",
+    "desc": "જો કોઈ વ્યક્તિ લોન લીધા પછી મૃત્યુ પામે છે, તો બેંક પહેલા તે લોન ખાતાના સહ-અરજદારનો સંપર્ક કરશે અને તે પણ પૈસા ચુકવવાની ના પાડી દે તો બેક પૈસા રિકવર કરવા માટે શું કરી શકે છે, ચાલો તેના વિશે જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/if-a-person-dies-after-taking-a-loan-what-can-banks-do-to-recover-it-find-out-461145 ",
+    "time": "2026-01-10T12:26:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "WPLની પહેલી જ મેચમાં ગજબ ઘટના ! ડી ક્લાર્કને એક જ બોલ પર મળ્યા બે જીવનદાન, જાણો કેવી રીતે",
+    "desc": "દક્ષિણ આફ્રિકાની સ્ટાર ઓલરાઉન્ડર નાદીન ડી ક્લાર્કે ફરી એકવાર સાબિત કરી દીધું કે હાલમાં તેના કરતાં સારી ફિનિશર કોઈ નથી. એક સમયે એવું લાગતું હતું કે મેચ મુંબઈ જીતશે, પરંતુ ડી ક્લાર્ક બાજી પલટી નાખી અને RCB મેચ જીતી ગયું. છેલ્લી ઓવરમાં ડી ક્લાર્કને એક જ બોલ પર બે જીવનદાન મળ્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/amazing-incident-in-wpl-2026-mi-vs-rcb-match-de-klerk-get-two-lives-off-same-ball-461137 ",
+    "time": "2026-01-10T12:13:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "અભિષેક-રિંકુ નહીં, T20 વર્લ્ડ કપમાં આ ખેલાડી હશે ભારતનું સૌથી મોટું હથિયાર, શોએબ અખ્તરે કર્યો મોટો દાવો",
+    "desc": "T20 વર્લ્ડ કપ 2026નું રણશિંગુ ફૂંકાઈ ગયું છે. આખી દુનિયાની નજર ભારતીય ટીમ પર ટકેલી છે, કારણ કે ભારત ડિફેન્ડિંગ ચેમ્પિયન હોવાની સાથે સાથે આગામી ટુર્નામેન્ટનું યજમાન પણ છે. પાકિસ્તાનના પૂર્વ ફાસ્ટ બોલર શોએબ અખ્તરે ભારતના સૌથી મોટા 'મેચ વિનર' ખેલાડી વિશે વાત કરી છે. તેમણે અભિષેક શર્મા કે રિંકુ સિંહનું નહીં, પરંતુ કોઈ અન્ય ખેલાડીનું નામ લીધું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/not-abhishek-or-rinku-this-player-will-be-indias-biggest-weapon-in-the-t20-world-cup-shoaib-akhtar-makes-a-big-claim-461136 ",
+    "time": "2026-01-10T12:11:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ભારત સાથેની લડાઈ બાંગ્લાદેશને પડશે ભારે, ભારતીય કંપની પાછી ખેંચશે સ્પોન્સરશિપ !",
+    "desc": "ભારત અને બાંગ્લાદેશ વચ્ચે બધું બરાબર ચાલી રહ્યું નથી. આ દરમિયાન એક મોટા સમાચાર સામે આવી રહ્યા છે કે મેરઠ સ્થિત એક જાણીતી ક્રિકેટ ઈક્વિપમેન્ટ કંપની બાંગ્લાદેશી ખેલાડીઓ સાથેની તેની સ્પોન્સરશિપ સમાપ્ત કરી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bangladesh-cricketers-to-lose-indian-sponsorship-amid-tensions-with-india-461128 ",
+    "time": "2026-01-10T11:38:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "અનુ અને આર્યાના ખાનગી પળોનો વીડિયો પર મીરાનો ખતરનાક પ્લાન, સીરિયલમાં આવવાનો છે મોટો વળાંક",
+    "desc": "ટીવી સીરિયલ 'તુમ સે તુમ તક'માં એક મોટો વળાંક આવવાનો છે. મીરાએ આર્ય અને અનુ વચ્ચે એક ખાનગી ક્ષણનો વીડિયો રેકોર્ડ કરી લીધો છે. હવે, તે અનુને બદનામ કરવા માટે આ વિડિઓ લીક કરશે. વધુમાં, અનુના જીવનમાં એક નવી વ્યક્તિ પ્રવેશવા જઈ રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/meera-plan-on-video-of-arya-and-anu-private-moments-a-big-twist-is-coming-in-tumm-se-tumm-tak-serial-461124 ",
+    "time": "2026-01-10T11:19:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ભિખારીઓને મળશે 10-10 હજાર રૂપિયા, જાણો શું છે સરકારની આ મહત્વપૂર્ણ યોજના?",
+    "desc": "બિહાર સરકાર ભીખ માંગતા લોકોની મદદ માટે આગળ આવી છે અને તેમને 10-10 હજાર રૂપિયાની આર્થિક સહાય આપી રહી છે. હાલમાં આ યોજના રાજ્યના 10 જિલ્લાઓમાં શરૂ કરવામાં આવી છે. આ યોજનાનો મુખ્ય ઉદ્દેશ્ય ભિક્ષુકોને ભીખ માંગવાના વ્યવસાયમાંથી બહાર લાવીને સ્વરોજગાર (પોતાનો નાનો વ્યવસાય) માટે પ્રેરિત કરવાનો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/bihar-beggars-will-open-shops-and-will-receive-rs-10000-each-know-about-scheme-461123 ",
+    "time": "2026-01-10T11:12:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "SBI પોતાના જૂના ગ્રાહકોને આપી રહ્યું છે 2 લાખ રૂપિયા! જાણો કેમ, શું તમે પણ ઉઠાવી શકો છો આનો ફાયદો?",
+    "desc": "SBI એ તેના ખાસ ગ્રાહકો માટે YONO એપ પર રિયલ-ટાઇમ એક્સપ્રેસ ક્રેડિટ ઓફર રજૂ કરી છે. આ ઓફર હેઠળ ગ્રાહકો YONO એપ દ્વારા 35 લાખ રૂપિયા સુધીની પર્સનલ લોન મેળવી શકે છે. સૌથી મહત્વની વાત એ છે કે આ લોન માટે કોઈ પણ પ્રકારના પેપરવર્કની જરૂર પડશે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/sbi-is-giving-rs-2-lakh-to-its-old-customers-find-out-why-and-whether-you-can-also-benefit-from-this-offer-461120 ",
+    "time": "2026-01-10T10:42:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "SBIના ગ્રાહકોને ઝટકો! ATMમાંથી પૈસા ઉપાડવા થયા વધુ મોંઘા",
+    "desc": "દેશની સૌથી મોટી સરકારી ક્ષેત્રની બેંક, સ્ટેટ બેંક ઓફ ઈન્ડિયા (SBI)એ તેના ગ્રાહકોને આંચકો આપ્યો છે. બેંકે ATM ટ્રાન્ઝેક્શન ચાર્જમાં વધારો કર્યો છે, જેના કારણે રોકડ ઉપાડ અને અન્ય ATM સેવાઓ મોંઘી થઈ ગઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/sbi-customers-in-for-a-shock-withdrawing-money-from-atms-has-become-more-expensive-461119 ",
+    "time": "2026-01-10T10:35:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "શુભમન ગિલે T20 વર્લ્ડ કપમાંથી બહાર થવા પર તોડ્યું મૌન, જાણો શું કહ્યું",
+    "desc": "7 ફેબ્રુઆરીથી T20 વર્લ્ડ કપ 2026 શરૂ થઈ રહ્યો છે. ટીમ ઈન્ડિયાની જાહેરાત જાન્યુઆરીના પહેલા અઠવાડિયામાં કરવામાં આવી હતી. જેમાં શુભમન ગિલનો સમાવેશ કરવામાં આવ્યો નહોતો. પસંદગીકારોના આ નિર્ણય પર ગિલે પહેલીવાર પોતાનું મૌન તોડ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/captain-shubman-gill-breaks-silence-t20-world-cup-snub-team-india-461116 ",
+    "time": "2026-01-10T09:51:16.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "Post Office માં ₹7,00,000 રોકાણ કરવા પર ₹3,14,964 મળશે ફિક્સ વ્યાજ, ધાંસૂ છે આ સ્કીમ",
     "desc": "કોઈપણ વ્યક્તિ દેશની કોઈ પોસ્ટ ઓફિસમાં ઓફલાઇન અને ઓનલાઈન બંને બંને પ્રકારે પોસ્ટ ઓફિસ ટાઇમ ડિપોઝિટ એકાઉન્ટ ખોલી સકો છો. પોસ્ટ ઓફિસના ટાઇમ ડિપોઝિટ એકાઉન્ટને દેશની કોઈ એક પોસ્ટ ઓફિસથી બીજી પોસ્ટ ઓફિસમાં સરળતાથી ટ્રાન્સફર કરી શકાય છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -234,15 +315,6 @@ const newsData_gu = [
     "time": "2026-01-09T07:34:53.000Z"
   },
   {
-    "cat": "Business",
-    "title": "15 મહિના પછી કર્મચારીઓને કેટલું મળશે એરિયર? સમજો સંપૂર્ણ ગણિત",
-    "desc": "સામાન્ય રીતે પગાર પંચની ભલામણો લાગુ કરવામાં 18 થી 24 મહિનાનો સમય લાગે છે. જો સરકાર માર્ચ 2027 માંતેને લાગુ કરે છે, તો તમને 1 જાન્યુઆરી 2026 થી માર્ચ 2027 સુધીનું પૂરેપૂરું બાકી નીકળતું લેણું (Arrear) એકસાથે મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-how-much-arrears-will-employees-receive-after-15-months-understand-the-calculation-460956 ",
-    "time": "2026-01-09T07:04:04.000Z"
-  },
-  {
     "cat": "World",
     "title": "ભારત-અમેરિકા વચ્ચેની વેપાર સંધિ અભરાઈએ ચડી ગઈ? USનો દાવો-PM મોદીએ ટ્રમ્પને ફોન ન કર્યો એટલે...",
     "desc": "જ્યારથી ડોનાલ્ડ ટ્રમ્પ બીજીવાર અમેરિકાના રાષ્ટ્રપતિ બન્યા છે ત્યારથી અલગ તેવર જોવા મળી રહ્યા છે. વેનેઝુએલા બાદ અનેક દેશોને ધમકીઓ...ભારતના હિતમાં ન હોય તેવી વાતો, અને હવે ભારત સાથેની વેપાર સંધિ પણ અભરાઈએ ચડી ગઈ હોવાનો દાવો અમેરિકાના વાણિજ્ય મંત્રી કરી રહ્યા છે. જાણો શું છે વિગતો.",
@@ -396,42 +468,6 @@ const newsData_gu = [
     "time": "2026-01-07T12:16:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "મહારાષ્ટ્રમાં ભડકો, કોંગ્રેસ કે AIMIM સાથે ભાજપનું ગઠબંધન સ્વીકાર્ય નથી; દેવેન્દ્ર ફડણવીસે ભાજપના જ નેતાઓને આપી દીધી ચેતવણી",
-    "desc": "મહારાષ્ટ્રના મુખ્યમંત્રી દેવેન્દ્ર ફડણવીસે બુધવારે ભાજપના નેતાઓને કડક સંદેશ આપ્યો છે. તેમણે કહ્યું કે, ભાજપ ક્યારેય પણ કોંગ્રેસ કે AIMIM સાથે ગઠબંધન કરી શકે નહીં. જો કોઈ નેતા પાર્ટીની પરવાનગી વિના આવું કરે છે તો તે પાર્ટી શિસ્તનું ગંભીર ઉલ્લંઘન છે. તેના પર કડક કાર્યવાહી કરવામાં આવશે. આ વચ્ચે એવા અહેવાલો સામે આવી રહ્યા છે કે, કોંગ્રેસે તેના નેતાને સસ્પેન્ડ કરી દીધા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/devendra-fadnavis-warning-bjp-alliance-congress-or-aimim-ambernath-akot-controversy-460741 ",
-    "time": "2026-01-07T11:19:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ભારતનું સૌથી અમીર રાજ્ય કયું છે ? નામ જાણીને ચોંકી જશો",
-    "desc": "સ્પર્ધાત્મક પરીક્ષાની તૈયારી કરતા લોકો માટે જનરલ નોલેજ મજબૂત હોવું ખૂબ જ જરૂરી છે. જો તમારું જનરલ નોલેજ સારું હશે તો તમને પરીક્ષામાં ફાયદો થશે, તેથી આ લેખમાં અમે આવા જ કેટલાક જનરલ નોલેજના પ્રશ્નો અને જવાબો લઈને આવ્યા છીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/gk-quiz-which-is-the-richest-state-in-india-460742 ",
-    "time": "2026-01-07T10:42:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પ્રધાનમંત્રી મોદીએ અચાનક નેતન્યાહુને કર્યો ફોન, બંને નેતાઓ વચ્ચે આ મુદ્દે થઈ વાતચીત",
-    "desc": "ભારત અને ઈઝરાયલના પ્રધાનમંત્રી વચ્ચે ફોન પર વાતચીત થઈ છે. પીએમ મોદીએ ઇઝરાયલના પ્રધાનમંત્રી બેન્ઝામિન નેતન્યાહુ સાથે ફોન પર વાત કરી વિવિધ મુદ્દે ચર્ચા કરી છે. આ સાથે પીએમ મોદીએ ઇઝરાયલની જનતાને નવા વર્ષની શુભેચ્છા પણ આપી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pm-narendra-modi-talk-to-benjamin-netanyahu-india-israel-strategic-partnership-fight-terrorism-460739 ",
-    "time": "2026-01-07T10:29:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મહારાષ્ટ્રમાં બહુમતનો જબરો ખેલ, અંબરનાથમાં ભાજપે કોંગ્રેસ સાથે કર્યું ગઠબંધન, અહીં AIMIMનો લીધો સાથ",
-    "desc": "મહારાષ્ટ્રના રાજકારણમાં મંગળવારે એક એવો ઘટનાક્રમ જોવા મળ્યો જેણે રાજનીતિના જાણકારોને હચમચાવી નાખ્યા. કારણ કે અંબરનાથમાં ભાજપ કોંગ્રેસના ગઠબંધનના સમાચાર વહેતા થયા જ્યારે અકોલામાં ભાજપે ઓવૈસીનું સમર્થન લઈ લીધું. આખરે આ શું છે ઘટનાક્રમ એ જાણવા જેવો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/maharashtra-politics-big-setback-for-eknath-shinde-in-ambernath-bjp-congress-alliance-aimim-also-surprise-460732 ",
-    "time": "2026-01-07T09:50:03.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "રાજનંદિનીની શોધમાં આર્યના ઘરે પહોંચશે અનુ, આવવાનો છે એક રસપ્રદ વળાંક",
     "desc": "ટીવી સીરિયલ 'તુમ સે તુમ તક' માં એક રસપ્રદ વળાંક આવવાનો છે. અનુ રાજનંદિનીની શોધમાં આર્યના ઘરે પહોંચે છે. જોકે, આર્ય તેને મળવા દેવાનો ઇનકાર કરે છે. આ દરમિયાન, આર્યની માતા ગાયત્રી બંને વચ્ચેના સંબંધો સુધારવાનો પ્રયાસ કરે છે.",
@@ -448,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/earning-more-than-100-crores-on-a-budget-of-50-lakhs-8-6-imdb-rating-gujarati-film-now-watch-in-hindi-460730 ",
     "time": "2026-01-07T09:29:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "બાંગ્લાદેશ બાદ ICC સામે નવો પડકાર... શું પાકિસ્તાની મૂળના ક્રિકેટરોને ભારતમાં રમવાની છૂટ મળશે ?",
-    "desc": "આગામી મહિનાથી T20 વર્લ્ડ કપ 2026 શરૂ થવા જઈ રહ્યો છે. ત્યારે બાંગ્લાદેશે ભારતમાં રમવાનો ઈન્કાર કર્યો હતો અને તેમની મેચો શ્રીલંકા ખસેડવાની માંગ કરી હતી, જેને ICCએ ફગાવી દીધી છે, પરંતુ હવે ICC સામે નવો પડકાર આવ્યો છે, વર્લ્ડ કપની 8 ટીમો પાકિસ્તાની મૂળના ક્રિકેટરોના વિઝા અંગે ICC પાસે મદદ માંગી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/many-teams-requested-icc-for-pakistan-origin-players-visa-to-india-t20-world-cup-2026-460726 ",
-    "time": "2026-01-07T08:58:52.000Z"
   },
   {
     "cat": "Tech",
@@ -531,15 +558,6 @@ const newsData_gu = [
     "time": "2026-01-06T08:57:22.000Z"
   },
   {
-    "cat": "World",
-    "title": "બાંગ્લાદેશમાં વધુ એક હિન્દુની હત્યા, 24 કલાકમાં બીજી હત્યા, 18 દિવસમાં 6 લોકોના મોત",
-    "desc": "બાંગ્લાદેશમાં લઘુમતીઓ વિરુદ્ધ હિંસા વધી રહી છે. છેલ્લા 18 દિવસમાં દેશમાં છ હિન્દુ યુવાનોની હત્યા કરવામાં આવી છે. સોમવારે, 24 કલાકમાં બે યુવાનોની હત્યા કરવામાં આવી હતી, જેનાથી દેશમાં વધતી હિંસા અંગે ચિંતા વધી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/bangladesh-violence-against-hindu-minority-rising-2-killed-in-24-hours-460573 ",
-    "time": "2026-01-06T06:11:35.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "MG મોટર્સની આ ઇલેક્ટ્રિક કારે રચ્યો ઇતિહાસ ! 2025માં બની ભારતની નંબર-1 કાર",
     "desc": "46,000થી વધુ યુનિટના વેચાણ સાથે MG વિન્ડસરે ભારતીય EV બજારમાં એક નવો રેકોર્ડ બનાવ્યો છે. તેની શાનદાર રેન્જ, ફેમિલી ફ્રેન્ડલી સ્પેસ અને પાવરફુલ ફીચર્સ સાથે તે 2025ની સૌથી વધુ વેચાતી ઇલેક્ટ્રિક કાર બની ગઈ છે.",
@@ -574,14 +592,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/delhi-ev-policy-govt-proposes-rs-50000-incentive-retrofitting-old-vehicles-conversion-elecetric-460491 ",
     "time": "2026-01-05T12:01:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ઓટીટી પર રિલીઝ થવા જઈ રહી છે ધનુષ, કૃતિ સેનનની ફિલ્મ તેરે ઈશ્ક મેં, જાણો કયા પ્લેટફોર્મ પર જોઈ શકાશે",
-    "desc": "વર્ષ 2025 માં ધનુષ અને કૃતિ સેનનની ફિલ્મ તેરે ઈશ્ક મે રિલીઝ થઈ હતી. આ ફિલ્મ બોક્સ ઓફિસ પર હિટ સાબિત થઈ હતી. હવે આ ફિલ્મ ઓટીટી પર રિલીઝ થવા જઈ રહી છે. તો ફટાફટ જાણી લો કયા ઓટીટી પ્લેટફોર્મ પર આ ફિલ્મ જોવા મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/dhanush-kriti-sanon-hit-film-tere-ishq-mein-releasing-on-ott-bollywood-latest-news-460409 ",
-    "time": "2026-01-05T03:38:07.000Z"
   }
 ];

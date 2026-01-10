@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "১৯৭৯ সালে রাজাদের তাড়িয়ে ইরানি বিপ্লবের রূপকার খামেইনি এখন গণশত্রু! বিদ্রোহী মেয়েরাই শেষ করবে 'মোল্লাতন্ত্র'...",
+    "desc": "ইরানি আইনে সর্বোচ্চ নেতার ছবি পোড়ানো একটি গুরুতর অপরাধ, অন্যদিকে নারীদের ধূমপানও ইরানে দীর্ঘদিন ধরে নিষিদ্ধ করা হয়েছে। এই দুটি কাজ একত্রে করা এবং জনসমক্ষে বাধ্যতামূলক হিজাব আইন অমান্য করার মাধ্যমে বিক্ষোভকারীরা রাষ্ট্রীয় কর্তৃত্ব এবং কঠোর সামাজিক নিয়ন্ত্রণকে সরাসরি চ্যালেঞ্জ জানাচ্ছেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/we-will-start-shooting-too-trump-big-warning-as-iran-protest-intensifies-where-iranian-woman-lightening-cigarette-out-of-khameini-burning-photo_634127.html ",
+    "time": "2026-01-10T12:01:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "খাকি উর্দিতে 'ডার্ক ও ডেডলি' রানি! ফেব্রুয়ারি নয়, জানুয়ারিতেই আসছে 'মর্দানি ৩'...",
+    "desc": "২৭ ফেব্রুয়ারি রিলিজ করার কথা ছিল মর্দানি ৩-এর। তবে সময়ের আগেই বড়পর্দায় আসছে রানি মুখোপাধ্যায় অভিনীত এই ছবি। রানি আগেই জানিয়েছিলেন যে, এই কিস্তিটি আগের দুটির চেয়ে অনেক বেশি ‘ডার্ক, ডেডলি এবং ব্রুটাল’ অর্থাৎ অন্ধকারাচ্ছন্ন ও হিংস্র হবে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/yrf-prepones-mardaani-3-release-date-rani-mukerji-poster_634125.html ",
+    "time": "2026-01-10T11:46:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "বক্স অফিসে ভুয়ো ব্যবসার রমরমা? টলিউডের 'অস্বাস্থ্যকর' প্রতিযোগিতা নিয়ে বিস্ফোরক অঙ্কুশ!",
+    "desc": "বক্স অফিসে ‘অস্বাস্থ্যকর’ প্রতিযোগিতা নিয়ে বিস্ফোরক দাবি করেছেন অঙ্কুশ। ছবি মুক্তির ঠিক আগেই অনভিপ্রেত এক ঘটনার মুখোমুখি হতে হয়েছে অঙ্কুশ-ঐন্দ্রিলাকে। ছবিটি ২৩ জানুয়ারি অর্থাৎ সরস্বতী পুজোর সময় মুক্তি পাওয়ার কথা থাকলেও তা এগিয়ে আনা হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/ankush-hazra-slams-fake-box-office-trends-cutout-broken_634093.html ",
+    "time": "2026-01-10T10:12:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "পাহাড়ের টানে নতুন বছরের শুরুতেই দার্জিলিংয়ে একতা কাপুর, উর্বশী ঢোলাকিয়া! চুটিয়ে করলেন উপভোগ, ঘুরে দেখলেন উত্তরবঙ্গের এইসব জায়গা",
+    "desc": "নতুন বছরের শুরুতেই পাহাড়ের কোলে ছুটি কাটিয়ে ২০২৬-কে স্বাগত জানালেন টেলিভিশনের জনপ্রিয় অভিনেত্রী উর্বশী ঢোলাকিয়া। ‘কোমোলিকা’ খ্যাত এই অভিনেত্রী প্রযোজক একতা কাপুর ও অভিনেত্রী চারু মেহরার সঙ্গে দার্জিলিং সফরে যান, যেখানে প্রকৃতির মাঝেই কাটান বছরের প্রথম কয়েকটি দিন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ekta-kapoor-darjeeling-tour-2026-01-f628b511b3a5ddb4d432e645ccb1b0e4-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/darjeeling-news-ekta-kapoor-urvashi-dholakia-celebrates-new-year-in-darjeeling-through-short-trip-l18-local18-2490557.html",
+    "time": "2026-01-10T09:38:46.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "বন্ধ হচ্ছে UTS! আসছে RailwayOne App! ওয়ালেটের টাকা আদৌ পাবেন উপভোক্তারা? নয়া অ্যাপে টিকিট কাটলে মিলবে ছাড়",
     "desc": "রেলওয়ান অ্যাপে আর-ওয়ালেট (R-Wallet) ব্যবহার করে আনরিজার্ভড টিকিট বুকিং করলে যাত্রীরা ৩ শতাংশ বোনাস ক্যাশব্যাক পান। নতুন সিদ্ধান্ত অনুযায়ী, আর-ওয়ালেট ছাড়াও ইউপিআই, ডেবিট কার্ড, ক্রেডিট কার্ডসহ অন্যান্য সকল ডিজিটাল পেমেন্ট মাধ্যম ব্যবহার করে আনরিজার্ভড টিকিট বুকিং করলে সরাসরি ৩ শতাংশ ছাড় প্রদান করা হবে।",
@@ -711,15 +747,6 @@ const newsData_bn = [
     "time": "2026-01-02T11:11:30.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "টলিপাড়ায় পুলিসি তদন্ত! শুক্রবার আচমকাই লালবাজারে স্বরূপ বিশ্বাস থেকে শুরু করে যীশু-পরমব্রতরা...",
-    "desc": "টলিউডে দরকার পুলিসি তদন্ত! উঠছে অনলাইন রেটিং ম্যানিপুলেশনের অভিযোগও। সোশ্যাল মিডিয়ায় প্রায়শই কুমন্তব্যের শিকার হতে হয় তারকাদের। দুর্গাপুজোতে ছবি মুক্তির সময়ে ‘রক্তবীজ টু’ সঙ্গে যুক্ত ছিলেন জিনিয়া সেন। সেই সময় শিবপ্রসাদ মুখোপাধ্যায় ও জিনিয়া সেন ব্যক্তিগতভাবে সাইবার ক্রাইমের দ্বারস্থ হয়েছিলেন। এবার জোট বেঁধে সাইবার ক্রাইম রুখতে বদ্ধপরিকর টলিউড।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/tollywood-stars-jisshu-abir-parambrata-srijit-rana-sarkar-swarup-biswas-shiboprasad-srikant-mohta-visit-lalbazar-over-cyber-crime-and-rating-manipulation-while-dev-jeet-absent_632397 ",
-    "time": "2026-01-02T10:35:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'বিশ্বাসঘাতকতা করেছেন শাহরুখ'! আইপিএলে মুস্তাফিজুরকে দলে নেওয়ায় বিজেপি নেতার রোষে কিং খান!",
     "desc": "আইপিএল নিলামকে কেন্দ্র করে শুরু হয়েছে তীব্র রাজনৈতিক বিতর্ক। সেই বিতর্কের কেন্দ্রে এবার কলকাতা নাইট রাইডার্স এবং দলের কর্ণধার শাহরুখ খান। আইপিএল নিলামে বাংলাদেশি পেসার মুস্তাফিজুর রহমানকে দলে নেওয়ার সিদ্ধান্ত ঘিরে প্রকাশ্যে ক্ষোভ উগরে দিলেন উত্তরপ্রদেশের বিজেপি নেতা সঙ্গীত সোম।",
@@ -736,15 +763,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/vande-bharat-sleeper-big-news-for-passengers-new-vande-bharat-train-will-run-from-howrah-with-a-speed-of-180-km-do-you-know-which-stations-will-it-stop-learn-route-special-features-etc-sanj-2479875.html",
     "time": "2026-01-02T05:27:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বছরের প্রথমদিনেই মেগাস্টারের মেগাধামাকা! একসঙ্গে ৩ ছবির রিলিজ ঘোষণা দেবের...",
-    "desc": "টলিউড সুপারস্টার দেবের ফ্যানদের জন্য দারুন সুখবর! নতুন বছরের শুরুতেই একসঙ্গে তিনটি বড় ছবির ঘোষণা করে রীতিমতো চমকে দিলেন দেব। ‘খাদান ২’, ‘টনিক ২’ এবং ‘অ্যাম্বুলেন্স দাদা’—তিনটি ভিন্ন ঘরানার ছবির রিলিজ ডেট বা মুক্তির ঘোষণা করলেন অভিনেতা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/tollywood-megastar-dev-announces-the-release-dates-of-three-major-films-khadan-2-tonic-2-and-ambulance-dada-see-the-full-2026-schedule-here_632312.html ",
-    "time": "2026-01-01T15:33:53.000Z"
   },
   {
     "cat": "Politics",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/unbreakable-10-giant-cricket-records-test-debut-which-can-not-be-broken-know-the-facts-smc-2474474.html",
     "time": "2025-12-29T08:19:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "হাদি খুনে অভিযুক্তরা গা ঢাকা দিয়েছে ভারতে? কী দাবি ঢাকা পুলিশের, দেখুন ভিডিও",
-    "desc": "সীমান্ত পেরিয়ে ভারতে গা ঢাকা দিয়েছে ইনকিলাব মঞ্চের নেতা শরিফ ওসমান হাদি খুনে অভিযুক্ত মূল দুই অভিযুক্ত৷ এমনই দাবি ঢাকা মেট্রোপলিটন পুলিশের৷ তাদের দাবি, সীমান্ত পেরিয়ে ভারতের মেঘালয়ে আশ্রয় নিয়েছে হাদি খুনের দুই মূল সন্দেহভাজন৷ দুই অভিযুক্তকে ধরতে মেঘালয় পুলিশের সাহায্যও চেয়েছে ঢাকা পুলিশ৷ তবে হাদির হত্যায় জড়িত কোনও সন্দেহভাজনকেই এখনও ভারতে গ্রেফতার করা হয়নি৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/Osman-Hadi-2025-12-c1c045e8730bf84b42d76fa1aa32d19b-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/dhaka-police-claims-accused-in-osman-hadi-murder-case-have-crossed-border-to-take-shelter-in-india-dmg-2475813.html",
-    "time": "2025-12-28T20:37:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "প্রভাবশালী তত্বে জামিন খারিজ শতদ্রুর, ১৪ দিনের পুলিশ হেফাজতে মেসির অনুষ্ঠানের মূল উদ্যক্তা",
-    "desc": "যুবভারতীতে মেসির অনুষ্ঠান বাতিল কাণ্ডে জামিন খারিজ হল মূল উদ্যোক্তা শতদ্রু দত্তের। প্রভাবশালী তত্বে জামিন খারিজ করা হয়েছে। সরকারি আইনজীবী দাবি করেন, যে চুক্তি সরকারের সঙ্গে শতদ্রুর হয়েছিল তা মানা হয়নি। তিনি আরও দাবি করেন, ইচ্ছাকৃত ভাবে খাবার পানীয় স্টেডিয়ামে ব্যাবস্থার অনুমতি দিয়েছিলেন। শতদ্রুর আইনজীবী যে কোনও শর্তে জামিন চান, তবে তা খারিজ করে আদালত, আরও ১৪ দিনের জন্য জেল হেফাজতে পাঠানো হয়েছে তাঁকে। ঘটনার দিন নিয়ে আরও কিছু তথ্য তদন্ত করে জানতে চান তদন্তকারীরা।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/Shatadru-2025-12-1e8618003abc2abe67b161d552293a61-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/sports/court-sends-lionel-messis-program-organiser-shatadru-dutta-to-14-days-jail-custody-rdp-2475705.html",
-    "time": "2025-12-28T15:37:28.000Z"
   }
 ];
