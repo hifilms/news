@@ -1,6 +1,105 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "'Ikkis' collections drop under Rs 1 crore on second Friday",
+    "desc": "'Ikkis', the war drama featuring Agastya Nanda and Dharmendra, has experienced a significant box office dip, with collections falling below Rs 1 crore on its second Friday. After a strong opening week, earning Rs 25.5 crore net, the film's momentum has shifted. Its total India net collection now stands at Rs 26.35 crore, with a worldwide gross of Rs 33.",
+    "img": "https://static.toiimg.com/photo/msid-126446076,imgsize-35362.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ikkis-box-office-collection-day-8-agastya-nanda-and-dharmendra-starrer-dips-under-rs-1-crore-on-second-friday/articleshow/126446004.cms",
+    "time": "2026-01-10T01:11:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Speeding luxury car mows down 16 in Rajasthan’s Jaipur; 1 dead",
+    "desc": "The car first hit a divider, went out of control, and rammed roadside stalls and food carts over a 30-metre stretch before coming to a halt. Several parked vehicles were also damaged in the incident",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rajasthan/speeding-luxury-car-mows-down-16-in-rajasthans-jaipur-1-dead/article70493538.ece",
+    "time": "2026-01-10T01:05:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Khloe shares how the Kardashian sisters manage money",
+    "desc": "The Kardashian sisters have a unique way of managing shared costs. They do not use apps or track payments. Instead, they simply take turns paying for meals and shopping. This system relies on trust and awareness among the sisters. Khloe Kardashian shared this insight, highlighting their mutual respect. This approach ensures fairness without any awkwardness or reminders.",
+    "img": "https://static.toiimg.com/photo/msid-126446012,imgsize-646009.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/khloe-kardashian-shares-how-the-sisters-manage-money-without-keeping-score-their-mantra-is-paying-it-forward-not-paying-it-back/articleshow/126446016.cms",
+    "time": "2026-01-10T00:56:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Commercially, we're having our strongest year'",
+    "desc": "SA20 League Commissioner Graeme Smith says the tournament is enjoying its strongest commercial year yet, driven by record ticket sales, rising viewership and improved cricket quality. Despite rain interruptions, Smith credits IPL franchise backing, youth development and strong fan engagement for SA20’s rapid growth, while hinting at future expansion and a possible women’s league.",
+    "img": "https://static.toiimg.com/photo/msid-126445985,imgsize-37036.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/sa20/sa20-commercially-were-having-our-strongest-year-graeme-smith/articleshow/126445911.cms",
+    "time": "2026-01-10T00:51:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spa' first look out: Release date for Abrid Shine's film OUT",
+    "desc": "Abrid Shine's upcoming film 'Spa' is set for a February worldwide release, with its intriguing first-look poster generating buzz. The poster showcases a diverse cast, hinting at a narrative centered around a spa with hidden secrets. The film promises Shine's signature storytelling, featuring a large ensemble cast and unique visuals.",
+    "img": "https://static.toiimg.com/photo/msid-126445934,imgsize-84896.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/abrid-shines-spa-first-look-out-february-worldwide-release-confirmed/articleshow/126445934.cms",
+    "time": "2026-01-10T00:44:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Over 1,000 members of Jan Suraaj Party’s professional wing fired after Bihar polls",
+    "desc": "“A lot of people were hired by our professional team to work in all 243 constituencies and they were hired only for the election purpose. Once the election is over, they too were laid off,” Jan Suraaj Party media in-charge Obaidur Rahman told The Hindu over phone",
+    "img": "https://th-i.thgim.com/public/incoming/gja1dl/article70493522.ece/alternates/LANDSCAPE_1200/20251118054L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/over-1000-members-of-jan-suraaj-partys-professional-wing-fired-after-bihar-polls/article70490943.ece",
+    "time": "2026-01-10T00:31:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Sarvam Maya' BO day 16: Nivin Pauly film holds strong",
+    "desc": "Nivin Pauly's horror-comedy 'Sarvam Maya' continues to impress at the box office, crossing Rs 59.5 crore in 16 days despite the release of Prabhas's 'The Raja Saab'. The Malayalam film shows strong evening and night show occupancy, proving its audience appeal. 'The Raja Saab' had a massive opening, but 'Sarvam Maya' remains a steady performer.",
+    "img": "https://static.toiimg.com/photo/msid-126445849,imgsize-47748.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/sarvam-maya-box-office-collections-day-16-nivin-pauly-film-holds-strong-amid-the-raja-saab-release-rs-59-5-crore-total/articleshow/126445849.cms",
+    "time": "2026-01-10T00:23:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar'dips to Rs 3.5 crore amid 'The Raja Saab' wave",
+    "desc": "Ranveer Singh's 'Dhurandhar' faces a box office challenge with Prabhas' 'The Raja Saab' release. Despite a strong run, 'Dhurandhar' hit a new low in its sixth week, earning Rs 3.5 crore. Meanwhile, 'The Raja Saab' opened impressively, raking in an estimated Rs 45 crore on its first day. 'Dhurandhar' continues its march towards Rs 800 crore net.",
+    "img": "https://static.toiimg.com/photo/msid-126445808,imgsize-12438.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-36-ranveer-singhakshaye-khanna-starrer-dips-to-rs-3-5-crore-amid-the-raja-saab-wave/articleshow/126445737.cms",
+    "time": "2026-01-10T00:13:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Raja Saab' BO day 1: Prabhas delivers big opening",
+    "desc": "Prabhas's 'The Raja Saab' has stormed the box office, raking in an impressive Rs 45 crore on its opening day, with paid previews adding Rs 9.15 crore for a total of Rs 54.15 crore. The film saw overwhelming success in Telugu states, with strong occupancy throughout the day, while Hindi and Tamil collections showed moderate growth.",
+    "img": "https://static.toiimg.com/photo/msid-126445767,imgsize-80580.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-box-office-collections-day-1-prabhas-delivers-big-opening-rs-54-15-crores-worldwide-start/articleshow/126445767.cms",
+    "time": "2026-01-10T00:01:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The deleted, the doubtful, and the disenfranchised",
+    "desc": "The ongoing Special Intensive Revision of electoral rolls in West Bengal has seen the deletion of about 58 lakh names from the voter list in the first phase. As the process continues, Moyurie Som, Shrabana Chatterjee, and Shiv Sahay Singh speak to those who have been left out, and the political debate around the exercise in the poll-bound State",
+    "img": "https://th-i.thgim.com/public/incoming/x7ezo5/article70492414.ece/alternates/LANDSCAPE_1200/80717_4_11_2025_18_50_29_1_MAMATASIRRALLY6.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/sir-in-west-bengal-the-deleted-the-doubtful-and-the-disenfranchised/article70490633.ece",
+    "time": "2026-01-09T22:32:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nupur–Stebin’s sangeet: Kriti and Varun show off their latkaas",
+    "desc": "Singer Stebin Ben and actor Nupur Sanon’s wedding festivities officially began in Udaipur with a vibrant haldi ceremony that marked the start of their pre-wedding celebrations. Surrounded by close friends and family, the couple soaked in the festive spirit as colour, music and laughter filled the venue. Several videos from the ceremony soon surfaced online, offering a glimpse into the joyful atmosphere and the high-energy celebrations that followed.",
+    "img": "https://static.toiimg.com/photo/msid-126443880,imgsize-43940.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nupur-sanonstebin-bens-sangeet-kriti-sanon-and-varun-sharma-show-off-latkaas-jhatkaas-and-thumkaas-on-bhojpuri-hit-lollipop-lagelu/articleshow/126443564.cms",
+    "time": "2026-01-09T22:14:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "‘Vijay deserves the farewell he has earned’: Jana Nayagan producer",
     "desc": "Thalapathy Vijay’s much-anticipated Jana Nayagan has been postponed indefinitely after the Madras High Court stayed the film’s release until the next hearing on January 21. The legal setback comes at a crucial moment, as Jana Nayagan is widely believed to be Vijay’s final film before he formally steps into active politics. Amid mounting speculation and disappointment among fans, KVN Productions founder Venkat K. Narayana has issued his first detailed statement addressing the controversy.",
     "img": "https://static.toiimg.com/photo/msid-126443262,imgsize-34622.cms",
@@ -297,15 +396,6 @@ const newsData_en = [
     "time": "2026-01-09T15:08:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "A 1998 Kerala High Court order allowed gold covering work at Sabarimala temple, insisted on proper security",
-    "desc": "A group of devotees moved court against the offer made by Vijay Mallya to cover the Sreekovil roof with gold sheets. Their contention was that the work would go against the concept of the deity, Yogeeswara, and that the TDB would have to spend lakhs for security. HC disposed of their petition, gave permission for the work",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/a-1998-kerala-high-court-order-allowed-gold-covering-work-at-sabarimala-temple-insisted-on-proper-security/article70487358.ece",
-    "time": "2026-01-09T15:00:03.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Wall Street edges higher after mixed jobs data; rate-cut bets pushed back",
     "desc": "US stocks edged higher Friday as a mixed jobs report tempered expectations for an early Federal Reserve rate cut, though easing later this year remains likely. Treasury yields saw varied movement, while Vistra and Oklo surged on energy deals, contrasting with General Motors' decline due to EV pullback.",
@@ -313,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-markets-today-wall-street-edges-higher-after-mixed-jobs-data-rate-cut-bets-pushed-back/articleshow/126438450.cms",
     "time": "2026-01-09T14:59:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Charlie’s Boys: Memoir reveals SRK's enigmatic St. Columba days",
-    "desc": "Ajay Jain’s memoir recalls 1970s-80s schooldays at Delhi’s St. Columba’s, spotlighting senior SRK’s charisma. “Born with charisma... best in dramatics, sports, undisputed sword of honour boy,” says Jain (Firstpost). It evokes nostalgic campus life, SRK enigma, teacher crushes, family rumors, blending humor and heart.",
-    "img": "https://static.toiimg.com/photo/msid-126438132,imgsize-31024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/charlies-boys-book-memoir-reveals-shah-rukh-khans-enigmatic-st-columba-days-actor-was-tagged-as-the-undisputed-boy-for-the-sword-of-honour/articleshow/126438132.cms",
-    "time": "2026-01-09T14:36:22.000Z"
   },
   {
     "cat": "Entertainment",
@@ -342,24 +423,6 @@ const newsData_en = [
     "time": "2026-01-09T14:30:34.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "When Prabhas accused Karan of starting his relationship rumours with Anushka",
-    "desc": "Prabhas jokingly accused Karan Johar of initiating romance rumors with Anushka Shetty during a 'Koffee with Karan' episode. He clarified their bond stemmed from a long friendship, not a romantic involvement, a sentiment echoed by Rana Daggubati and SS Rajamouli. Both actors have consistently denied dating speculation.",
-    "img": "https://static.toiimg.com/photo/msid-126437884,imgsize-43740.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-prabhas-accused-karan-johar-of-starting-his-relationship-rumours-with-anushka-shetty-ss-rajamouli-said-the-raja-saab-star-was-too-lazy-to-get-married/articleshow/126437837.cms",
-    "time": "2026-01-09T14:22:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Complete list of international artists performing in India in 2026",
-    "desc": "Get ready for an electrifying 2026 as India welcomes a star-studded lineup of international music sensations. Linkin Park, John Mayer, Calvin Harris, and DJ Snake are set to headline major festivals and solo shows across the country. From rock anthems to EDM beats, prepare for unforgettable performances in Bengaluru, Mumbai, and Delhi.",
-    "img": "https://static.toiimg.com/photo/msid-126437697,imgsize-898485.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/calvin-harris-linkin-park-dj-snake-and-more-complete-list-of-international-artists-who-will-be-performing-in-india-in-2026/articleshow/126437685.cms",
-    "time": "2026-01-09T14:12:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Uncomfortable! Honey Singh's entry catches Mandhana, Kaur off-guard",
     "desc": "WPL 2026 began with a glitzy opening ceremony at DY Patil Stadium, highlighted by Honey Singh’s surprise entry that caught captains Smriti Mandhana and Harmanpreet Kaur off-guard and went viral. On the field, RCB won the toss and chose to bowl against MI. The season-opening clash marked a lively start to the January–February edition of the league.",
@@ -367,33 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/uncomfortable-honey-singhs-wpl-opening-ceremony-entry-catches-smriti-mandhana-harmanpreet-kaur-off-guard-watch/articleshow/126437392.cms",
     "time": "2026-01-09T14:11:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Asha Parekh calls late star Nanda a 'beautiful human being'",
-    "desc": "Nanda, a beloved star of the 60s and 70s, would have turned 86. Her best friend, Asha Parekh, fondly remembers her as a beautiful soul, unfairly typecast in tragic roles despite her fun-loving nature and talent for diverse characters. Nanda's career, though impactful, never saw her full potential tapped, yet she took pride in her work.",
-    "img": "https://static.toiimg.com/photo/msid-126437450,imgsize-48218.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/asha-parekh-describes-late-actress-nanda-as-a-beautiful-human-being-says-she-was-never-into-ugly-competitiveness-exclusive/articleshow/126437411.cms",
-    "time": "2026-01-09T13:56:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Parasakthi' budget, pre-release business, and cast salaries revealed",
-    "desc": "Sivakarthikeyan's upcoming film 'Parasakthi' boasts a substantial budget of 141.50 crore rupees. The film has already secured significant pre-release business, with theatrical and non-theatrical rights fetching over 107 crore rupees. Key cast members like Sivakarthikeyan and Ravi Mohan have received substantial remunerations. The movie's extensive production and promotional costs are detailed, aiming for maximum market exposure.",
-    "img": "https://static.toiimg.com/photo/msid-126437396,imgsize-152964.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-budget-and-pre-release-business-sivakarthikeyan-and-ravi-mohan-to-sreeleelas-salary-revealed/articleshow/126437396.cms",
-    "time": "2026-01-09T13:55:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Prabhas' 'The Raja Saab' expected OTT release date",
-    "desc": "Prabhas' 'The Raja Saab,' a horror-fantasy-comedy, has hit theatres with a mixed reception despite being the sole massy festive release. With a substantial budget, the film's box office performance is under scrutiny. JioHotstar has secured the OTT rights, and intriguing end-credit scenes hint at a potential sequel, setting the stage for franchise expansion.",
-    "img": "https://static.toiimg.com/photo/msid-126437197,imgsize-130838.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-ott-release-date-when-and-where-can-we-expect-the-prabhas-starrer/articleshow/126437204.cms",
-    "time": "2026-01-09T13:41:58.000Z"
   },
   {
     "cat": "Sports",
@@ -504,15 +540,6 @@ const newsData_en = [
     "time": "2026-01-09T10:34:21.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Shatrughan was with Reena in London 2 days before wedding with Poonam",
-    "desc": "Shatrughan Sinha met Poonam Sinha as a schoolgirl in 1965, developing romantic notions. Despite a breakup in 1973 due to his perceived unworthiness, their bond deepened. Sinha later admitted to feeling guilty about simultaneously being involved with Poonam and co-star Reena Roy before marrying Poonam.",
-    "img": "https://static.toiimg.com/photo/msid-126433112,imgsize-76944.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shatrughan-sinha-was-with-reena-roy-in-london-two-days-before-he-married-poonam-sinha-till-the-last-moment-i-wanted-to-back-out/articleshow/126433094.cms",
-    "time": "2026-01-09T10:17:34.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Cousin thought I died': Jemimah Rodrigues recalls horrific 'church' incident",
     "desc": "Indian cricketer Jemimah Rodrigues recalled a scary childhood incident where she fell from the first floor during a church programme while playing with cousins, making them think she had died. Luckily unharmed, the story is now a fond memory. Today, Jemimah is a World Cup hero and the newly appointed Delhi Capitals captain.",
@@ -592,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/sarpanch-sahab-should-be-picked-automatically-aakash-chopra-backs-shreyas-iyer-after-tilak-varma-injury/articleshow/126429762.cms",
     "time": "2026-01-09T07:10:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and Where to Watch WPL 2026 Opener Online and on TV",
-    "desc": "Defending champions Mumbai Indians, led by Harmanpreet Kaur, are set to face Royal Challengers Bengaluru in the WPL 2026 opener. MI, considered favorites with a strong squad, will clash with RCB, captained by Smriti Mandhana, in a highly anticipated match that kicks off the tournament and teams' T20 World Cup preparations.",
-    "img": "https://static.toiimg.com/photo/msid-126429261,imgsize-87746.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/mi-vs-rcb-live-streaming-when-and-where-to-watch-wpl-2026-opener-online-and-on-tv/articleshow/126429247.cms",
-    "time": "2026-01-09T06:43:35.000Z"
   },
   {
     "cat": "Sports",
@@ -774,33 +792,6 @@ const newsData_en = [
     "time": "2026-01-07T13:07:30.000Z"
   },
   {
-    "cat": "World",
-    "title": "Starmer says deployment of troops to Ukraine would be voted by parliament",
-    "desc": "I will keep the house updated as ​the situation develops, and ⁠were troops to be deployed under the declaration signed, I would put that matter to ‌the house for a vote, says British Prime Minister ‍Keir Starmer",
-    "img": "https://th-i.thgim.com/public/incoming/bnpauq/article70482410.ece/alternates/LANDSCAPE_1200/2026-01-04T112916Z_706553934_RC2ZUHAEL580_RTRMADP_3_BRITAIN-POLITICS-STARMER.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/starmer-says-deployment-of-troops-to-ukraine-would-be-voted-by-parliament/article70482341.ece",
-    "time": "2026-01-07T12:59:59.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran Army Chief threatens preemptive attack over 'rhetoric' targeting country after Trump's comments",
-    "desc": "The comments by Maj. Gen. Amir Hatami come as Iran tries to respond to what it sees as a dual threat posed by Israel and the United States, as well as the protests sparked by its economic woes",
-    "img": "https://th-i.thgim.com/public/incoming/k8zuc6/article70482306.ece/alternates/LANDSCAPE_1200/Iran_Protests_14552.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-army-chief-threatens-preemptive-attack-over-rhetoric-targeting-country-after-trumps-comments/article70482302.ece",
-    "time": "2026-01-07T12:54:35.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. military says Russian-flagged oil tanker seized in North Atlantic; Moscow demands ‘humane’ treatment of crew members",
-    "desc": "The seizure of the ship, which evaded being boarded near Venezuela, was a joint operation between the Department of Homeland Security and U.S. military personnel, the U.S. European Command, which is responsible for the region, said in a post on X.",
-    "img": "https://th-i.thgim.com/public/incoming/9jo2pa/article70483358.ece/alternates/LANDSCAPE_1200/2026-01-07T145946Z_75441500_RC2EWIAZKSTK_RTRMADP_3_USA-VENEZUELA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/russia-sends-submarine-to-escort-tanker-the-us-tried-to-seize-off-venezuela-reports/article70482033.ece",
-    "time": "2026-01-07T12:09:11.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Interview",
     "desc": "Malayalam actor, producer and social media influencer Riya Shibu is basking in the adulation coming her way post her role as the ‘Gen Z’ ghost in Nivin Pauly’s Sarvam Maya, which is having a dream run at the box office",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/five-ways-in-which-technology-will-rewire-life-in-2026/article70452235.ece",
     "time": "2026-01-02T11:18:53.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
   }
 ];

@@ -6,7 +6,7 @@ const newsData_bn = [
     "img": "https://images.news18.com/static-bengali/uploads/2026/01/Vedanta-Group-Chairman-Son-Dies-2026-01-24e26b9ca7f872f0511772ddbdaff17f-3x2.jpg",
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/anil-agarwal-had-promised-agni-vedanta-group-chairman-to-donate-75-of-wealth-after-sons-demise-ss-2490307.html",
-    "time": "2026-01-09T16:55:40.000Z"
+    "time": "2026-01-10T00:30:55.000Z"
   },
   {
     "cat": "Politics",

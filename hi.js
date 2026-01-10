@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Amelia Kerr surpasses Hayley Matthews, becomes WPL's highest wicket taker after season opener",
+    "desc": "The WPL (Women’s Premier League) 2026 season opener saw Mumbai Indians women take on Royal Challengers Bengaluru women. The two sides locked horns at the Dr DY Patil Sports Academy in Navi Mumbai. The clash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/amelia-kerr-surpasses-hayley-matthews-becomes-wpl-s-highest-wicket-taker-after-season-opener-2026-01-10-1025224",
+    "time": "2026-01-10T01:15:42.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Harmanpreet Kaur opens up after Nadine de Klerk propels RCB to stellar win against MI",
     "desc": "The season opener of the WPL (Women’s Premier League) 2026 saw Mumbai Indians women take on Royal Challengers Bengaluru women. The two sides locked horns at the Dr DY Patil Sports Academy in Navi Mumbai,...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-on-cusp-of-breaking-yet-another-sachin-tendulkar-s-record-in-odis-know-details-2026-01-09-1025154",
     "time": "2026-01-09T09:09:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Did BCCI offer Mustafizur Rahman a comeback in IPL 2026? BCB president reacts to rumours",
-    "desc": "Bangladesh Cricket Board (BCB) Aminul Islam has responded to the reports claiming that the BCCI offered a comeback to Mustafizur Rahman in IPL 2026 amid the ongoing row that has stretched into the T20 World...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/did-bcci-offer-mustafizur-rahman-a-comeback-in-ipl-2026-bcb-president-reacts-to-rumours-2026-01-09-1025136",
-    "time": "2026-01-09T07:11:04.000Z"
   }
 ];
