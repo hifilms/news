@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "বিয়ের এক বছর না ঘুরতেই বিচ্ছেদের সুর! ভাঙছে তাহসান-রোজার সংসার...",
+    "desc": "বিয়ের এক বছর পূর্ণ হওয়ার আগেই ভাঙনের মুখে জনপ্রিয় গায়ক ও অভিনেতা তাহসান খানের দ্বিতীয় সংসার। ‘আমরা বিচ্ছিন্ন ও আলাদা থাকছি’, মেকআপ আর্টিস্ট রোজার সঙ্গে বিচ্ছেদ নিয়ে মুখ খুললেন তাহসান। কেন দ্বিতীয় স্ত্রীর সঙ্গে দূরত্ব তৈরি হলো তাহসানের?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/bangladeshi-actor-singer-tahsan-khan-confirms-separation-from-wife-roja_634163.html ",
+    "time": "2026-01-10T14:01:08.000Z"
+  },
+  {
     "cat": "World",
     "title": "১৯৭৯ সালে রাজাদের তাড়িয়ে ইরানি বিপ্লবের রূপকার খামেইনি এখন গণশত্রু! বিদ্রোহী মেয়েরাই শেষ করবে 'মোল্লাতন্ত্র'...",
     "desc": "ইরানি আইনে সর্বোচ্চ নেতার ছবি পোড়ানো একটি গুরুতর অপরাধ, অন্যদিকে নারীদের ধূমপানও ইরানে দীর্ঘদিন ধরে নিষিদ্ধ করা হয়েছে। এই দুটি কাজ একত্রে করা এবং জনসমক্ষে বাধ্যতামূলক হিজাব আইন অমান্য করার মাধ্যমে বিক্ষোভকারীরা রাষ্ট্রীয় কর্তৃত্ব এবং কঠোর সামাজিক নিয়ন্ত্রণকে সরাসরি চ্যালেঞ্জ জানাচ্ছেন।",
@@ -718,15 +727,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/justin-dcruz-sakshi-srinivas-viral-mms-clarification-vlog-clip_632487.html ",
     "time": "2026-01-02T14:58:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "পুলিস কমিশনারের দ্বারস্থ যীশু-পরম-স্বরূপরা, ঠিক কী অভিযোগ টলিপাড়ার?",
-    "desc": "চলচ্চিত্রের টিজার প্রকাশ, প্রচার কার্যক্রম বা সিনেমা মুক্তির সময় পরিকল্পিতভাবে কখনো পরিচালক, কখনো প্রযোজক, আবার কখনো শিল্পী ও তাঁদের পরিবারের ব্যক্তিগত জীবনের ওপর আঘাত হানা হচ্ছে। তারই প্রতিবাদে লালবাজারে সাইবার ক্রাইমে অভিযোগ জমা দিলেন টলিউডের কর্তা ব্যক্তিরা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/tollywood-stars-jisshu-abir-parambrata-rana-sarkar-swarup-biswas-shiboprasad-srikant-mohta-visit-lalbazar-over-cyber-crime-against-social-media-user_632471.html ",
-    "time": "2026-01-02T13:47:32.000Z"
   },
   {
     "cat": "World",

@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "ICC Chairman Jay Shah to review Bangladesh situation in high-profile meeting with BCCI officials",
+    "desc": "ICC Chair Jay Shah is preparing for crucial discussions with BCCI officials on Sunday in Vadodara to address the growing standoff with the Bangladesh Cricket Board regarding the T20 World Cup 2026. Shah will meet...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-chairman-jay-shah-to-review-bangladesh-situation-in-high-profile-meeting-with-bcci-officials-2026-01-10-1025316",
+    "time": "2026-01-10T14:43:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jemimah Rodrigues creates WPL history on debut as captain; DC opt to bowl first vs MI",
+    "desc": "Delhi Capitals have appointed Jemimah Rodrigues as their new captain for the Women’s Premier League, marking a leadership shift ahead of the new cycle. Co-owner Parth Jindal highlighted the need for a fresh beginning and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jemimah-rodrigues-creates-wpl-history-on-debut-as-captain-dc-opts-to-bowl-first-vs-mi-2026-01-10-1025311",
+    "time": "2026-01-10T14:04:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MI-W vs DC-W WPL Match Score Live: Delhi Capitals win toss, elect to bowl; Jemimah Rodrigues era begins",
+    "desc": "After a defeat to Royal Challengers Bengaluru in the final delivery of the match, defending champions Mumbai Indians would be eager to bounce back in their second game against three-time finalists Delhi Capitals at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-dc-women-live-score-mumbai-indians-delhi-capitals-wpl-cricket-match-today-dr-dy-patil-sports-academy-2026-01-10-1025310",
+    "time": "2026-01-10T13:38:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Meg Lanning surpasses Ellyse Perry in legendary WPL record list in clash against Gujarat Giants",
     "desc": "UP Warriorz skipper Meg Lanning added another milestone to her WPL career by moving past former Australia teammate Ellyse Perry on the tournament’s all-time run-scorers list. Her 30 off 27 balls against Gujarat Giants took...",
     "img": "",
@@ -37,7 +64,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Phoebe Litchfield's blitzkreig end, Gujarat smell victory",
+    "title": "Gujarat Giants seal a thrilling win over UP Warriorz",
     "desc": "The stage is set for game 2 of the ongoing WPL (Women's Premier League) 2026. Gujarat Giants lock horns with UP Warriorz at the Dr. DY Patil Sports Academy in Navi Mumbai. While Gujarat will...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-comes-to-brendon-mccullum-s-defence-after-england-lose-ashes-2025-26-2026-01-10-1025255",
     "time": "2026-01-10T07:43:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunil Gavaskar joins Jemimah Rodrigues for much-awaited duet, gifts her special guitar",
-    "desc": "Former India cricketer Sunil Gavaskar caught all the headlines recently. The former batter gifted a special guitar in the shape of a bat to star India women’s batter Jemimah Rodrigues. Gavaskar presented Jemimah with the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sunil-gavaskar-joins-jemimah-rodrigues-for-much-awaited-duet-gifts-her-special-guitar-watch-2026-01-10-1025247",
-    "time": "2026-01-10T06:28:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PV Sindhu's Malaysia Open campaign comes to an end, loses semi-final clash to Wang Zhiyi",
-    "desc": "Star Indian badminton star PV Sindhu crashed out of the ongoing Malaysia Open 2025. Taking on China’s Wang Zhiyi in the semi-final of the competition. It is interesting to note that Wang Zhiyi is ranked...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-s-malaysia-open-campaign-comes-to-an-end-loses-semi-final-clash-to-wang-zhiyi-2026-01-10-1025237",
-    "time": "2026-01-10T04:53:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nadine de Klerk joins Deepti Sharma in unique list after her masterclass in WPL 2026 clash against MI",
-    "desc": "The WPL (Women’s Premier League) 2026 season opener between Mumbai Indians women and Royal Challengers Bengaluru women completely belonged to star RCB all-rounder Nadine de Klerk. It is worth noting that the clash between the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nadine-de-klerk-joins-deepti-sharma-in-unique-list-after-her-masterclass-in-wpl-2026-clash-against-mumbai-indians-2026-01-10-1025233",
-    "time": "2026-01-10T03:58:23.000Z"
   }
 ];
