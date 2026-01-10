@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Harmanpreet Kaur scripts history after WPL 2026 season opener, moves past Shafali Verma in elite list",
+    "desc": "The WPL (Women’s Premier League) 2026 saw the tournament kick off with Mumbai Indians women taking on Royal Challengers Bengaluru women. While RCB registered a thrilling victory in the game, it was MI skipper Harmanpreet...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-scripts-history-after-wpl-2026-season-opener-moves-past-shafali-verma-in-elite-list-2026-01-10-1025229",
+    "time": "2026-01-10T02:54:53.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Amelia Kerr surpasses Hayley Matthews, becomes WPL's highest wicket taker after season opener",
     "desc": "The WPL (Women’s Premier League) 2026 season opener saw Mumbai Indians women take on Royal Challengers Bengaluru women. The two sides locked horns at the Dr DY Patil Sports Academy in Navi Mumbai. The clash...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mi-w-vs-rcb-w-head-to-head-record-ahead-of-wpl-2026-season-opener-2026-01-09-1025165",
     "time": "2026-01-09T10:38:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli on cusp of breaking yet another Sachin Tendulkar's record in ODIs, Know details",
-    "desc": "Virat Kohli is set to play for the first time in 2026 on Sunday (January 11) as the India vs New Zealand ODI series gets underway at the BCA Stadium, Kotambi, in Vadodara. This is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-on-cusp-of-breaking-yet-another-sachin-tendulkar-s-record-in-odis-know-details-2026-01-09-1025154",
-    "time": "2026-01-09T09:09:31.000Z"
   }
 ];

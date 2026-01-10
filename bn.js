@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Tech",
+    "title": "বন্ধ হচ্ছে UTS! আসছে RailwayOne App! ওয়ালেটের টাকা আদৌ পাবেন উপভোক্তারা? নয়া অ্যাপে টিকিট কাটলে মিলবে ছাড়",
+    "desc": "রেলওয়ান অ্যাপে আর-ওয়ালেট (R-Wallet) ব্যবহার করে আনরিজার্ভড টিকিট বুকিং করলে যাত্রীরা ৩ শতাংশ বোনাস ক্যাশব্যাক পান। নতুন সিদ্ধান্ত অনুযায়ী, আর-ওয়ালেট ছাড়াও ইউপিআই, ডেবিট কার্ড, ক্রেডিট কার্ডসহ অন্যান্য সকল ডিজিটাল পেমেন্ট মাধ্যম ব্যবহার করে আনরিজার্ভড টিকিট বুকিং করলে সরাসরি ৩ শতাংশ ছাড় প্রদান করা হবে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/HYP_5692093_cropped_09012026_105331_picsart_260109_105110617_w_1-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/technology/uts-will-stop-working-soon-south-eastern-railways-new-year-gift-3-percent-special-discount-on-unreserved-tickets-on-railone-app-l18-sdg-local18-2489381.html",
+    "time": "2026-01-10T03:23:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘বেঁচে গিয়ে যেন বড় ভুল করে ফেলেছি ! আমি সম্পর্ক ভাঙায় বিশ্বাসী নই...’, প্রথমবার মুখ খুললেন দেবলীনা নন্দী",
+    "desc": "দেবলীনা প্রথমেই স্পষ্ট করে দেন যে, অনেকেই তাঁকে প্রশ্ন করেছেন যে, সম্পর্কে অশান্তি থাকলে, কেন তিনি তা ছেড়ে বেরিয়ে আসেননি? দেবলীনার কথায়, ‘‘আমাদের প্রেম করে বিয়ে। প্রবাহর পক্ষ থেকে কী ছিল জানি না, আমার তরফ থেকে তো ভালবাসা ছিল। পাগলের মতো ভালবেসেছি প্রবাহকে। ছেড়ে বেরিয়ে আসা এতটা সহজ নয়।’’",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Debolinaa-Nandy-Facebook-Live-2026-01-e9e2dbe56ff235ded7aba1d8e816ba92-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/debolinaa-nandy-comes-in-a-facebook-live-again-sharing-all-her-difficulties-and-family-her-reply-to-all-ss-2490391.html",
+    "time": "2026-01-10T01:51:23.000Z"
+  },
+  {
     "cat": "Business",
     "title": "‘অগ্নিকে প্রতিশ্রুতি দিয়েছিলাম...’ ছেলের মৃত্যুর পর সম্পদের ৭৫ শতাংশ দান করবেন বেদান্ত গ্রুপের চেয়ারম্যান",
     "desc": "এক্স-এর একটি আবেগঘন পোস্টে অনিল আগরওয়াল বলেন, অগ্নিবেশ এর আগে মার্কিন যুক্তরাষ্ট্রে একটি স্কিইং দুর্ঘটনায় আহত হয়েছিলেন এবং মাউন্ট সিনাই হাসপাতালে চিকিৎসাধীন ছিলেন। পরিবার বলছে যে, তিনি আরোগ্য লাভের দিকে এগিয়ে চলছিলেন এবং চিকিৎসকরাও আশাবাদী ছিলেন, কিন্তু হঠাৎ হৃদরোগে আক্রান্ত হওয়ায় তাঁর শারীরিক অবস্থার অপ্রত্যাশিতভাবে অবনতি ঘটে।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/sports/court-sends-lionel-messis-program-organiser-shatadru-dutta-to-14-days-jail-custody-rdp-2475705.html",
     "time": "2025-12-28T15:37:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "নিউজিল্যান্ডের বিরুদ্ধে একদিনের সিরিজে ভারতীয় দল থেকে বাদ মহাতারকা! টি২০-র পর ODI কেরিয়ার নিয়েও প্রশ্ন",
-    "desc": "টি২০ বিশ্বকাপের পরে একদিনের দল থেকেও বাদ পড়তে পারেন ঋষভ পন্থ। টি২০ বিশ্বকাপের কথা মাথায় রেখে নিউজিল্যান্ডের বিরুদ্ধে টি২০ সিরিজের দল আগেই ঘোষণা করা হয়েছে, সেখানে রাখা হয়নি পন্থকে, এবার একদিনের দল থেকেও বাদ পড়তে পারেন পন্থ।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/Team-India-1-2025-12-ea758af72f77647a10bbd51f260b09a0-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/india-vs-new-zealand-team-india-squad-rishabh-pant-may-not-get-chance-in-odi-team-rohit-and-virat-may-get-in-rdp-2475465.html",
-    "time": "2025-12-28T15:08:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "রিটায়ারমেন্টের পর টেনশন নেই—পোস্ট অফিসের এই সেভিংস স্কিমে ঘরে বসে আসবে মাসে ২০,৫০০ টাকা!",
-    "desc": "অবসর যত কাছে আসে, আর্থিক নিরাপত্তা ততই অনেকের কাছে বড় উদ্বেগের বিষয় হয়ে ওঠে। পেনশন নিয়ে অনিশ্চয়তা, বাজারের ওঠানামা এবং ক্রমবর্ধমান জীবনযাত্রার খরচ—সব মিলিয়ে কাজের জীবন শেষের পর ভবিষ্যৎ নিয়ে প্রবীণদের মধ্যে দুশ্চিন্তা বাড়ে। এই পরিস্থিতিতে, পোস্ট অফিস দীর্ঘদিন ধরেই প্রবীণ নাগরিকদের জন্য বিশেষ সঞ্চয় প্রকল্প চালু রেখেছে। এর সর্বশেষ সংস্করণটি অবসরের পর নির্ভরযোগ্য মাসিক আয়ের প্রতিশ্রুতি দিচ্ছে, যা রিটায়ারমেন্ট নিয়ে থাকা উদ্বেগ অনেকটাই কমাতে পারে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/1766929692_post-office-TD-investment-scheme-2025-09-faeacf570c9e86ff42ffe6bec9ac45e5-3x2.png",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/this-post-office-savings-scheme-guarantees-rs-20500-a-month-know-how-it-will-work-smc-2475664.html",
-    "time": "2025-12-28T14:24:17.000Z"
   }
 ];
