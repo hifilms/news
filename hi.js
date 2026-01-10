@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "PV Sindhu's Malaysia Open campaign comes to an end, loses semi-final clash to Wang Zhiyi",
+    "desc": "Star Indian badminton star PV Sindhu crashed out of the ongoing Malaysia Open 2025. Taking on China’s Wang Zhiyi in the semi-final of the competition. It is interesting to note that Wang Zhiyi is ranked...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-s-malaysia-open-campaign-comes-to-an-end-loses-semi-final-clash-to-wang-zhiyi-2026-01-10-1025237",
+    "time": "2026-01-10T04:53:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nadine de Klerk joins Deepti Sharma in unique list after her masterclass in WPL 2026 clash against MI",
+    "desc": "The WPL (Women’s Premier League) 2026 season opener between Mumbai Indians women and Royal Challengers Bengaluru women completely belonged to star RCB all-rounder Nadine de Klerk. It is worth noting that the clash between the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nadine-de-klerk-joins-deepti-sharma-in-unique-list-after-her-masterclass-in-wpl-2026-clash-against-mumbai-indians-2026-01-10-1025233",
+    "time": "2026-01-10T03:58:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Harmanpreet Kaur scripts history after WPL 2026 season opener, moves past Shafali Verma in elite list",
     "desc": "The WPL (Women’s Premier League) 2026 saw the tournament kick off with Mumbai Indians women taking on Royal Challengers Bengaluru women. While RCB registered a thrilling victory in the game, it was MI skipper Harmanpreet...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-rcb-women-live-score-mumbai-indians-royal-bhallengers-bengaluru-wpl-cricket-match-today-dr-dy-patil-sports-academy-1025187",
     "time": "2026-01-09T12:39:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand look to etch their name in history ahead of ODI series against India",
-    "desc": "The stage is set for the upcoming multi-format white-ball series between India and New Zealand. The two sides will lock horns across three ODI matches and five T20Is. It is worth noting that the three...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-look-to-etch-their-name-in-history-ahead-of-odi-series-against-india-2026-01-09-1025176",
-    "time": "2026-01-09T11:38:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MI-W vs RCB-W: Head-to-Head record ahead of WPL 2026 season opener",
-    "desc": "The stage is set for the season opener of the fourth edition of the WPL (Women’s Premier League). The marquee tournament kicks off on January 9, and the first game of the season will see...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mi-w-vs-rcb-w-head-to-head-record-ahead-of-wpl-2026-season-opener-2026-01-09-1025165",
-    "time": "2026-01-09T10:38:23.000Z"
   }
 ];

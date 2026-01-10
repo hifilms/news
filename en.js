@@ -1,5 +1,194 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Thalapathy Vijay starrer faces the biggest threat",
+    "desc": "Thalapathy Vijay's upcoming film, 'Jana Nayagan,' faces a critical race against time for its Pongal release. Censor certificate issues and the impending announcement of election dates, triggering the Model Code of Conduct, threaten to delay the movie indefinitely. Makers are exploring fast-track options to ensure a release before the elections.",
+    "img": "https://static.toiimg.com/photo/msid-126448248,imgsize-62914.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/why-is-jana-nayagan-racing-against-time-thalapathy-vijay-faces-the-biggest-threat/articleshow/126448248.cms",
+    "time": "2026-01-10T06:02:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian player collapses, dies during cricket match",
+    "desc": "Former Mizoram Ranji Trophy cricketer K. Lalremruata, 38, tragically passed away on Thursday after collapsing during a local match. He suffered a stroke while playing and succumbed despite immediate medical attention. Lalremruata represented Mizoram in the Ranji and Syed Mushtaq Ali Trophies, leaving a significant void in the state's cricket fraternity.",
+    "img": "https://static.toiimg.com/photo/msid-126448197,imgsize-38650.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/former-ranji-trophy-player-khawlhring-lalremruata-collapses-dies-during-cricket-match/articleshow/126448187.cms",
+    "time": "2026-01-10T05:56:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US 500% tariff threat: Garment exporters will ‘have to take risk’; traders brace for next shock",
+    "desc": "Indian garment makers face a potential 500% US tariff threat, jeopardizing export prospects for the fall-winter cycle. Buyers are hesitant, and the industry is still recovering from previous 50% duties. Manufacturers are proceeding with production despite uncertainty, fearing a 500% tariff would effectively halt exports to the US.",
+    "img": "https://static.toiimg.com/photo/msid-126448123,imgsize-167052.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/us-500-tariff-threat-garment-exporters-will-have-to-take-risk-traders-brace-for-next-possible-shock/articleshow/126448007.cms",
+    "time": "2026-01-10T05:51:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhurandhar needs another Rs 65.95 crore to beat KGF 2's collection",
+    "desc": "Dhurandhar continues its phenomenal box office run, amassing Rs 793.75 crore and becoming the fourth biggest Indian film ever. Its impressive Week 2 surge and steady performance have positioned it as a theatrical phenomenon. The film is now on the cusp of surpassing KGF Chapter 2, aiming for the third spot in Indian cinema history.",
+    "img": "https://static.toiimg.com/photo/msid-126447998,imgsize-25636.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ranveer-singhs-dhurandhar-needs-another-rs-65-95-crore-to-beat-yashs-kgf-2-collection/articleshow/126447998.cms",
+    "time": "2026-01-10T05:42:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ahead of Kerala elections, Amit Shah to arrive in Thiruvananthapuram on January 10",
+    "desc": "The meeting will likely focus on mobilising the party’s rank-and-file at the booth level to make the NDA’s election machinery fighting fit and improve the BJP’s outreach to various demographics, rather than on specifics such as candidate selection.",
+    "img": "https://th-i.thgim.com/public/incoming/i9qbbb/article70493744.ece/alternates/LANDSCAPE_1200/TH09-Vijaita-AmGPRFDTH7D.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/ahead-of-kerala-elections-amit-shah-to-arrive-in-thiruvananthapuram-on-january-10/article70493688.ece",
+    "time": "2026-01-10T05:42:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kim Go Eun details creative process for 'The Price of Confession'",
+    "desc": "In her latest role in 'The Price of Confession,' Kim Go Eun immerses herself in the intricacies of Mo Eun, a character shrouded in mystery. By intentionally omitting her backstory, Go Eun heightens the tension, inviting viewers to unravel the enigma.",
+    "img": "https://static.toiimg.com/photo/msid-126447926,imgsize-29898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/kim-go-eun-talks-new-role-in-drama-the-price-of-confession-i-hoped-viewers-would-misinterpret-that-eerie-stillness/articleshow/126447926.cms",
+    "time": "2026-01-10T05:33:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'After the T20 WC final, I never thought I would be dropped again': Axar Patel",
+    "desc": "Axar Patel, now India's T20I vice-captain, reflects on his journey of growth and maturity as a cricketer. He credits past setbacks for building resilience and a clear mindset, enabling him to perform under pressure. Patel emphasizes his evolution as a specialist all-rounder, no longer seen as a backup, and his confidence in his batting abilities.",
+    "img": "https://static.toiimg.com/photo/msid-126447938,imgsize-41874.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-the-t20-world-cup-final-i-never-thought-i-would-be-dropped-again-axar-patel-opens-up/articleshow/126447898.cms",
+    "time": "2026-01-10T05:33:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kolkata-based autism care centre builds ‘software’ to research therapies for developmental disorders",
+    "desc": "The software would work like a living digital diary for those under care, and the data, collected after their consent, will be used to research and improve care and support for neurodivergent individuals at large",
+    "img": "https://th-i.thgim.com/public/news/national/inbu2c/article70493725.ece/alternates/LANDSCAPE_1200/Kolkata%20autism%20care%20centre.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/kolkata/kolkata-based-autism-care-centre-builds-software-to-research-therapies-for-developmental-disorders/article70490527.ece",
+    "time": "2026-01-10T05:30:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Fire and Ash needs around Rs 2.5 crore to enter India Top 10",
+    "desc": "Fire and Ash approaches a noteworthy milestone in the Indian box office arena. After 22 days, it has amassed Rs180.81 crore and is eyeing Housefull 5's current record of Rs183.38 crore. This cinematic marvel is a crowd-pleaser, especially on weekends, with expectations soaring that it will soon cross the Rs185 crore threshold.",
+    "img": "https://static.toiimg.com/photo/msid-126447796,imgsize-42696.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/james-camerons-avatar-fire-and-ash-needs-around-rs-2-5-crore-to-enter-india-top-10-of-2025/articleshow/126447796.cms",
+    "time": "2026-01-10T05:23:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Virat Kohli meets his childhood lookalike in Vadodara",
+    "desc": "Indian cricket star Virat Kohli charmed young fans in Vadodara, but one boy, sporting a team India kit and mini bat, stole the show. His striking resemblance to a young Kohli sparked a social media frenzy, with fans marveling at the uncanny likeness.",
+    "img": "https://static.toiimg.com/photo/msid-126447324,imgsize-25086.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-signs-autographs-for-his-mini-me-fans-joke-yeh-akaay-kohli-nahi-hai/articleshow/126446955.cms",
+    "time": "2026-01-10T05:07:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "All eyes on Shubman Gill after T20 snub",
+    "desc": "A couple of nets away, India’s ODI captain Shubman Gill was going through the paces, hitting the ball hard and appearing totally focused. All looked well with his game. With the likes of Kohli and Rohit Sharma still around in the ODI setup, Gill’s current situation is a reminder of the time a young Mohammad Azharuddin captained a starstudded Indian team.",
+    "img": "https://static.toiimg.com/photo/msid-126447668,imgsize-36972.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-1st-odi-all-eyes-on-shubman-gill-after-t20-snub/articleshow/126447656.cms",
+    "time": "2026-01-10T05:06:30.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump repeats claim of stopping India-Pakistan conflict, says Obama ‘didn't do anything’ to win Nobel",
+    "desc": "The U.S. president also said that Pakistan Prime Minister Shehbaz Sharif, who had visited the White House last year, credited him for saving millions of lives by stopping the conflict between the two nuclear-armed neighbours",
+    "img": "https://th-i.thgim.com/public/incoming/bhytxw/article70493682.ece/alternates/LANDSCAPE_1200/AP01_10_2026_000005B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-repeats-claim-of-stopping-india-pakistan-conflict-says-obama-didnt-do-anything-to-win-nobel/article70493663.ece",
+    "time": "2026-01-10T05:01:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "‘If you want to go in…’: Oil chiefs express caution as Trump pushes oil plan — what happened at the meeting",
+    "desc": "President Trump met with oil executives to discuss investments in Venezuela's oil sector following President Maduro's capture, presenting the country as secure for business. Industry leaders expressed caution, with one stating Venezuela is currently \"uninvestable\" without significant reforms. The US administration plans to manage company access to Venezuela's oil resources, sidelining Caracas from negotiations.",
+    "img": "https://static.toiimg.com/photo/msid-126447042,imgsize-73978.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/if-you-want-to-go-in-oil-chiefs-express-caution-amid-trumps-100bn-oil-plan-in-venezuela-what-happened-at-the-meeting/articleshow/126446868.cms",
+    "time": "2026-01-10T04:50:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PV Sindhu loses in semifinals",
+    "desc": "PV Sindhu's strong performance at the Malaysia Open Super 1000 concluded with a semifinal defeat to China's Wang Zhiyi. The two-time Olympic medalist struggled with consistency, committing unforced errors in a straight-game loss. This marked the end of India's campaign in the prestigious tournament.",
+    "img": "https://static.toiimg.com/photo/msid-126447473,imgsize-30974.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/malaysia-open-pv-sindhu-loses-to-wang-zhiyi-in-semifinals/articleshow/126447484.cms",
+    "time": "2026-01-10T04:46:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Aryna Sabalenka advances to the Brisbane International final after beating Muchová",
+    "desc": "Sabalenka, defending Brisbane champion, clinched the semi-final at Pat Rafter Arena on her fourth match point to advance to January 11 final against the winner of a later semi-final between fourth-seeded Jessica Pegula and Marta Kostyuk",
+    "img": "https://th-i.thgim.com/public/incoming/le4s1p/article70493655.ece/alternates/LANDSCAPE_1200/Australia_Tennis_87390.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/aryna-sabalenka-advances-to-the-brisbane-international-final-after-beating-karolina-muchova-australian-open-final/article70493639.ece",
+    "time": "2026-01-10T04:35:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kendall Jenner spills the beans on her cosmetic procedures",
+    "desc": "In a candid podcast conversation, supermodel Kendall Jenner has put to rest longstanding rumors about her undergoing plastic surgery. She disclosed that her only cosmetic procedures have been minimal, consisting of two 'baby Botox' sessions and PRP treatment to combat fine lines. Kendall voiced her concern about the damaging effects of online gossip, especially on impressionable young fans.",
+    "img": "https://static.toiimg.com/photo/msid-126447219,imgsize-18976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/how-many-surgeries-kendall-jenner-finally-spills-the-truth-about-her-cosmetic-procedures/articleshow/126447210.cms",
+    "time": "2026-01-10T04:24:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amanda Seyfried opens up about living with OCD",
+    "desc": "Actress Amanda Seyfried candidly shared her lifelong journey with OCD, diagnosed at 19. She detailed how health anxiety manifested, leading to medication and her mother's support. Seyfried now manages her condition through therapy, medication, and lifestyle changes like farming, emphasizing that while not cured, it's manageable, allowing her to thrive professionally and personally.",
+    "img": "https://static.toiimg.com/photo/msid-126447243,imgsize-607130.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/amanda-seyfried-opens-up-about-living-with-ocd-my-mom-had-to-take-a-sabbatical-from-work/articleshow/126446696.cms",
+    "time": "2026-01-10T04:24:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat turns entertainer in training, mimics Arshdeep; Rohit reacts",
+    "desc": "Virat Kohli exuded a relaxed and cheerful demeanor as India began preparations for the ODI series against New Zealand. During training, Kohli playfully mimicked Arshdeep Singh's run-up, drawing laughter from teammates. Senior batters Kohli and Rohit Sharma focused on rigorous practice, preparing for a demanding schedule ahead.",
+    "img": "https://static.toiimg.com/photo/msid-126447186,imgsize-40692.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohli-turns-entertainer-in-training-mimics-arshdeep-singh-rohit-sharma-reacts-watch/articleshow/126447131.cms",
+    "time": "2026-01-10T04:18:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Desperate attempt’: Suvendu Adhikari sends legal notice to Mamata Banerjee; threatens defamation case over 'baseless' corruption allegations",
+    "desc": "West Bengal LoP Suvendu Adhikari has sent a legal notice to CM Mamata Banerjee, demanding proof for her allegations linking him and Union Home Minister Amit Shah to the coal smuggling case. Adhikari stated he will pursue defamation proceedings if she fails to provide evidence within 72 hours.",
+    "img": "https://static.toiimg.com/photo/msid-126447102,imgsize-1090742.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/desperate-attempt-suvendu-adhikari-sends-legal-notice-to-mamata-banerjee-threatens-defamation-case-over-baseless-corruption-allegations/articleshow/126447091.cms",
+    "time": "2026-01-10T04:08:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Punjab Congress claims FIR filed against its MLAs Sukhpal Khaira, Pargat Singh",
+    "desc": "An official statement quoting a spokesperson of the Jalandhar Police Commissionerate said that an FIR under relevant provisions of law has been registered on the complaint of one Iqbal Singh against “uploading and circulating an edited and doctored video of Atishi”",
+    "img": "https://th-i.thgim.com/public/incoming/8c4zpx/article70493622.ece/alternates/LANDSCAPE_1200/38_BJP_PROTEST_09_01_DELHI.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/atishi-guru-tegh-bahadur-row-punjab-congress-claims-fir-filed-against-its-mlas-sukhpal-khaira-pargat-singh/article70493603.ece",
+    "time": "2026-01-10T03:56:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amitabh Bachchan MOBBED by fans at Surat airport",
+    "desc": "Bollywood icon Amitabh Bachchan's arrival in Surat for the ISPL match caused a frenzy, with a massive crowd overwhelming airport security. Videos show fans surging forward, leading to a chaotic scene where a glass panel reportedly broke, though Bachchan remained unharmed. Despite the commotion, he later appeared relaxed at the event, a co-owner of Majhi Mumbai.",
+    "img": "https://static.toiimg.com/photo/msid-126446914,imgsize-29552.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-mobbed-by-fans-at-surat-airport-video-sparks-online-concern/articleshow/126446784.cms",
+    "time": "2026-01-10T03:53:59.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "'Balance toh khatam nahi ho gaya?': Wasim Akram pokes fun at PSL franchises",
     "desc": "Wasim Akram's wit lightened the Pakistan Super League's franchise auction as two new teams were added for the 2026 season. OZ Developers secured Sialkot for Rs 1.85 billion, and FKS Group won Hyderabad for Rs 1.75 billion. Akram also recently lauded the PSL's shorter duration compared to other leagues.",
@@ -90,15 +279,6 @@ const newsData_en = [
     "time": "2026-01-10T02:01:27.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Akshaye Khanna receives high praise from Preetisheel Singh",
-    "desc": "Akshaye Khanna's 2025 performances in 'Dhurandhar' and 'Chahava' are drawing widespread acclaim. Makeup artist Preetisheel Singh lauded his ability to embody contrasting characters, while filmmaker Madhur Bhandarkar called his work a 'masterclass.' 'Dhurandhar' has also achieved significant box office success.",
-    "img": "https://static.toiimg.com/photo/msid-126446309,imgsize-24718.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshaye-khanna-receives-high-praise-from-celebrity-makeup-artist-preetisheel-singh-a-single-actor-stretched-across-histories/articleshow/126446308.cms",
-    "time": "2026-01-10T01:56:10.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Delhi court remands 8 accused to 12-day judicial custody",
     "desc": "The court issued a notice to the Delhi Police in connection with the bail application filed by the five accused. It also issued a notice to the jail superintendent, directing them to furnish the medical records of all five accused before the next hearing",
@@ -108,60 +288,6 @@ const newsData_en = [
     "time": "2026-01-10T01:51:37.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan': RGV says 'Censor board is outdated'",
-    "desc": "Filmmaker Ram Gopal Varma has strongly criticized India's Central Board of Film Certification, deeming it outdated and irrelevant in the digital age. He argues that with widespread uncensored content online, the board's role in censoring films is pointless. Varma advocates for viewer trust and content warnings over film cuts, questioning the system's continued existence.",
-    "img": "https://static.toiimg.com/photo/msid-126446284,imgsize-29872.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-row-ram-gopal-varma-targets-cbfc-says-censor-board-is-outdated/articleshow/126446261.cms",
-    "time": "2026-01-10T01:50:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Toxic' teaser faces backlash: Geetu Mohandas REACTS",
-    "desc": "Yash's latest teaser for 'Toxic' has caused quite a stir, particularly for its controversial portrayal of violence with a female character involved. In a puzzling twist, director Geetu Mohandas described her as a 'cemetery girl.",
-    "img": "https://static.toiimg.com/photo/msid-126446102,imgsize-32782.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/yashs-toxic-teaser-faces-backlash-geetu-mohandas-reacts-to-violence-and-objectification-talk-social-media-divided/articleshow/126446102.cms",
-    "time": "2026-01-10T01:21:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Parineeti opens up about postpartum phase",
-    "desc": "Actress Parineeti Chopra, two months postpartum, is prioritizing mental health and mindfulness to stay calm and centered. She avoids her phone in the morning, opting for quiet time, music, and nature. Chanting mantras like the Hanuman Chalisa helps her start the day peacefully, believing a positive mindset makes challenges manageable.",
-    "img": "https://static.toiimg.com/photo/msid-126446087,imgsize-21448.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/parineeti-chopra-opens-up-about-postpartum-phase-morning-routine-keeps-her-calm-says-ignore-your-phone/articleshow/126446093.cms",
-    "time": "2026-01-10T01:15:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ikkis' collections drop under Rs 1 crore on second Friday",
-    "desc": "'Ikkis', the war drama featuring Agastya Nanda and Dharmendra, has experienced a significant box office dip, with collections falling below Rs 1 crore on its second Friday. After a strong opening week, earning Rs 25.5 crore net, the film's momentum has shifted. Its total India net collection now stands at Rs 26.35 crore, with a worldwide gross of Rs 33.",
-    "img": "https://static.toiimg.com/photo/msid-126446076,imgsize-35362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ikkis-box-office-collection-day-8-agastya-nanda-and-dharmendra-starrer-dips-under-rs-1-crore-on-second-friday/articleshow/126446004.cms",
-    "time": "2026-01-10T01:11:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Speeding luxury car mows down 16 in Rajasthan’s Jaipur; 1 dead",
-    "desc": "The car first hit a divider, went out of control, and rammed roadside stalls and food carts over a 30-metre stretch before coming to a halt. Several parked vehicles were also damaged in the incident",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rajasthan/speeding-luxury-car-mows-down-16-in-rajasthans-jaipur-1-dead/article70493538.ece",
-    "time": "2026-01-10T01:05:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Khloe shares how the Kardashian sisters manage money",
-    "desc": "The Kardashian sisters have a unique way of managing shared costs. They do not use apps or track payments. Instead, they simply take turns paying for meals and shopping. This system relies on trust and awareness among the sisters. Khloe Kardashian shared this insight, highlighting their mutual respect. This approach ensures fairness without any awkwardness or reminders.",
-    "img": "https://static.toiimg.com/photo/msid-126446012,imgsize-646009.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/khloe-kardashian-shares-how-the-sisters-manage-money-without-keeping-score-their-mantra-is-paying-it-forward-not-paying-it-back/articleshow/126446016.cms",
-    "time": "2026-01-10T00:56:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Commercially, we're having our strongest year'",
     "desc": "SA20 League Commissioner Graeme Smith says the tournament is enjoying its strongest commercial year yet, driven by record ticket sales, rising viewership and improved cricket quality. Despite rain interruptions, Smith credits IPL franchise backing, youth development and strong fan engagement for SA20’s rapid growth, while hinting at future expansion and a possible women’s league.",
@@ -169,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/sa20/sa20-commercially-were-having-our-strongest-year-graeme-smith/articleshow/126445911.cms",
     "time": "2026-01-10T00:51:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Spa' first look out: Release date for Abrid Shine's film OUT",
-    "desc": "Abrid Shine's upcoming film 'Spa' is set for a February worldwide release, with its intriguing first-look poster generating buzz. The poster showcases a diverse cast, hinting at a narrative centered around a spa with hidden secrets. The film promises Shine's signature storytelling, featuring a large ensemble cast and unique visuals.",
-    "img": "https://static.toiimg.com/photo/msid-126445934,imgsize-84896.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/abrid-shines-spa-first-look-out-february-worldwide-release-confirmed/articleshow/126445934.cms",
-    "time": "2026-01-10T00:44:43.000Z"
   },
   {
     "cat": "Politics",
@@ -190,18 +307,9 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Sarvam Maya' BO day 16: Nivin Pauly film holds strong",
-    "desc": "Nivin Pauly's horror-comedy 'Sarvam Maya' continues to impress at the box office, crossing Rs 59.5 crore in 16 days despite the release of Prabhas's 'The Raja Saab'. The Malayalam film shows strong evening and night show occupancy, proving its audience appeal. 'The Raja Saab' had a massive opening, but 'Sarvam Maya' remains a steady performer.",
-    "img": "https://static.toiimg.com/photo/msid-126445849,imgsize-47748.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/sarvam-maya-box-office-collections-day-16-nivin-pauly-film-holds-strong-amid-the-raja-saab-release-rs-59-5-crore-total/articleshow/126445849.cms",
-    "time": "2026-01-10T00:23:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Dhurandhar'dips to Rs 3.5 crore amid 'The Raja Saab' wave",
     "desc": "Ranveer Singh's 'Dhurandhar' faces a box office challenge with Prabhas' 'The Raja Saab' release. Despite a strong run, 'Dhurandhar' hit a new low in its sixth week, earning Rs 3.5 crore. Meanwhile, 'The Raja Saab' opened impressively, raking in an estimated Rs 45 crore on its first day. 'Dhurandhar' continues its march towards Rs 800 crore net.",
-    "img": "https://static.toiimg.com/photo/msid-126445808,imgsize-12438.cms",
+    "img": "https://static.toiimg.com/photo/msid-126448003,imgsize-35572.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-36-ranveer-singhakshaye-khanna-starrer-dips-to-rs-3-5-crore-amid-the-raja-saab-wave/articleshow/126445737.cms",
     "time": "2026-01-10T00:13:04.000Z"
@@ -223,15 +331,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/west-bengal/sir-in-west-bengal-the-deleted-the-doubtful-and-the-disenfranchised/article70490633.ece",
     "time": "2026-01-09T22:32:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nupur–Stebin’s sangeet: Kriti and Varun show off their latkaas",
-    "desc": "Singer Stebin Ben and actor Nupur Sanon’s wedding festivities officially began in Udaipur with a vibrant haldi ceremony that marked the start of their pre-wedding celebrations. Surrounded by close friends and family, the couple soaked in the festive spirit as colour, music and laughter filled the venue. Several videos from the ceremony soon surfaced online, offering a glimpse into the joyful atmosphere and the high-energy celebrations that followed.",
-    "img": "https://static.toiimg.com/photo/msid-126443880,imgsize-43940.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nupur-sanonstebin-bens-sangeet-kriti-sanon-and-varun-sharma-show-off-latkaas-jhatkaas-and-thumkaas-on-bhojpuri-hit-lollipop-lagelu/articleshow/126443564.cms",
-    "time": "2026-01-09T22:14:42.000Z"
   },
   {
     "cat": "Sports",
@@ -268,15 +367,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/sivakarthikeyan-parasakthi-censorship-cbfc-thalapathy-vijay-jana-nayagan/article70492379.ece",
     "time": "2026-01-09T18:27:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Reforms put wind in its sails amid global headwinds; PMO’s Shaktikanta Das maps the road ahead",
-    "desc": "India is poised for significant economic growth, with government policies providing momentum amidst global trade uncertainties. Principal Secretary Shaktikanta Das highlighted Atmanirbharta as a strategy for resilience, not isolation, enabling India to navigate a fragmented world and pursue sustained development.",
-    "img": "https://static.toiimg.com/photo/msid-126441718,imgsize-316308.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-outlook-reforms-put-wind-in-its-sails-amid-global-headwinds-pmos-shaktikanta-das-maps-the-road-ahead/articleshow/126441606.cms",
-    "time": "2026-01-09T18:13:57.000Z"
   },
   {
     "cat": "Sports",
@@ -322,15 +412,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/jharkhand/rogue-elephant-claims-more-lives-in-jharkhand-west-singhbhum/article70490874.ece",
     "time": "2026-01-09T17:35:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India–US trade talks: Did a missed Modi–Trump call stall the deal? GTRI flags deeper policy gaps",
-    "desc": "A report by GTRI refutes US Commerce Secretary Howard Lutnick's claim that a missed phone call from PM Modi stalled the India-US trade deal. The GTRI argues that substantive policy differences, not a lack of personal diplomacy, are the real reasons for the prolonged delay.",
-    "img": "https://static.toiimg.com/photo/msid-126440751,imgsize-1149795.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indiaus-trade-talks-did-a-missed-moditrump-call-stall-the-deal-gtri-flags-deeper-policy-gaps/articleshow/126440750.cms",
-    "time": "2026-01-09T17:35:14.000Z"
   },
   {
     "cat": "Politics",
@@ -451,15 +532,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'You’ve got best fans': Out of WPL, Elysse Perry backs RCB from home",
-    "desc": "The 2024 WPL champions RCB posted the video on Instagram with the caption, \"A familiar voice wishing strength and support. Perry sends her love and luck to the squad for the WPL 2026 season ahead.\"",
-    "img": "https://static.toiimg.com/photo/msid-126436209,imgsize-31280.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/youve-got-best-fans-out-of-wpl-elysse-perry-backs-smriti-mandhanas-rcb-from-home-watch/articleshow/126436114.cms",
-    "time": "2026-01-09T12:50:58.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Jay Shah calls Rohit 'our captain'; batter's reaction goes viral",
     "desc": "Rohit Sharma smiled with pride after ICC chairman Jay Shah referred to him as India’s captain at a public event, despite him no longer holding the ODI role. The moment went viral online. Rohit led India to the T20 World Cup 2024 and Champions Trophy 2025. Now retired from Tests and T20Is, he is set to play in India’s upcoming ODI series starting January 11.",
     "img": "https://static.toiimg.com/photo/msid-126435654,imgsize-38850.cms",
@@ -495,15 +567,6 @@ const newsData_en = [
     "time": "2026-01-09T09:59:16.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "At 58, still chasing goals: 'King Kazu' vows to prove age is just a number",
-    "desc": "At 58, veteran striker Kazuyoshi Miura, affectionately known as 'King Kazu,' is embarking on his 41st professional season. He has joined third-division side Fukushima United on loan, aiming to score and assist. Miura, a pioneer of Japanese football, remains driven by a desire to play, even for a fleeting moment, showcasing his enduring passion for the game.",
-    "img": "https://static.toiimg.com/photo/msid-126431751,imgsize-112330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/at-58-still-chasing-goals-king-kazu-vows-to-prove-age-is-just-a-number/articleshow/126431724.cms",
-    "time": "2026-01-09T09:03:16.000Z"
-  },
-  {
     "cat": "World",
     "title": "Japan to test deep sea rare earth mining to cut China reliance",
     "desc": "A Japanese deep-sea scientific drilling boat called the Chikyu will set sail for the remote island of Minami Torishima in the Pacific, where surrounding waters are believed to contain a rich trove of valuable minerals",
@@ -529,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/sarpanch-sahab-should-be-picked-automatically-aakash-chopra-backs-shreyas-iyer-after-tilak-varma-injury/articleshow/126429762.cms",
     "time": "2026-01-09T07:10:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Decisions today will echo for 10 yrs': Ex-captain Tamim warns Bangladesh",
-    "desc": "Former Bangladesh captain Tamim Iqbal urged the BCB to carefully consider the national team's T20 World Cup participation, warning against hasty decisions driven by public emotion. He emphasized prioritizing Bangladesh cricket's long-term future and suggested dialogue over public pronouncements. Iqbal stressed the BCB's need for independent decision-making while acknowledging government involvement.",
-    "img": "https://static.toiimg.com/photo/msid-126428554,imgsize-41188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/decisions-today-will-echo-for-10-years-ex-captain-tamim-iqbal-warns-bangladesh-over-t20-world-cup-call/articleshow/126428449.cms",
-    "time": "2026-01-09T06:04:19.000Z"
   },
   {
     "cat": "World",
@@ -648,15 +702,6 @@ const newsData_en = [
     "time": "2026-01-07T17:52:37.000Z"
   },
   {
-    "cat": "World",
-    "title": "Kosovo battles floods and blackouts as heavy rains lash country",
-    "desc": "Severe flooding has hit Kosovo after days of heavy rain, leaving roads submerged, homes flooded, and power outages reported across several regions. Drone footage from the town of Kuzmin shows cars underwater and neighbourhoods inundated following intense rainfall over the past 24 hours. Authorities say emergency services are on high alert as weather forecasts warn of more rain in the coming days.",
-    "img": "https://th-i.thgim.com/public/news/national/w5djki/article70483361.ece/alternates/LANDSCAPE_1200/ADMK%20PMK.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/kosovo-battles-floods-and-blackouts-as-heavy-rains-lash-country/article70483363.ece",
-    "time": "2026-01-07T15:27:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Hazare Trophy",
     "desc": "The batter’s move to HP, amid cut-throat competition in the Punjab team, proves to be a wise decision; he follows up his good form in the Ranji Trophy by being the highest run-scorer for the team in the ongoing Hazare Trophy",
@@ -745,15 +790,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/sc-grants-relief-to-adani-power-sets-aside-customs-duty-on-sez-electricity/article70473616.ece",
     "time": "2026-01-05T15:23:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "SBI to promote India-Israel trade in rupee",
-    "desc": "With more than 40,000 Indian workers joining the Israeli workforce recently, SBI is also looking to facilitate the flow of remittances to India by facilitating the opening of their NRI accounts in India at its Tel Aviv branch.",
-    "img": "https://th-i.thgim.com/public/news/cities/mumbai/6dst5p/article30655346.ece/alternates/LANDSCAPE_1200/26BMSBI",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/sbi-to-promote-india-israel-trade-in-rupee/article70473304.ece",
-    "time": "2026-01-05T07:59:56.000Z"
   },
   {
     "cat": "Entertainment",
@@ -862,14 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
     "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
