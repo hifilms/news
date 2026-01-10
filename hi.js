@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rishabh Pant ruled out of ODI series vs New Zealand, know why",
+    "desc": "India’s wicketkeeper-batter Rishabh Pant has been ruled out of the three-match ODI series against New Zealand, beginning January 11, due to an abdominal injury. The 28-year-old experienced discomfort on the right side of his abdomen...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-ruled-out-of-odi-series-vs-new-zealand-know-why-2026-01-10-1025329",
+    "time": "2026-01-10T17:55:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch IND vs NZ ODI series on TV and streaming?",
+    "desc": "India will open their three-match ODI series against New Zealand on January 11 at the BCA Stadium in Kotambi, with several key players returning to action. The spotlight will be on Virat Kohli and Rohit...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-new-zealand-live-when-and-where-to-watch-ind-vs-nz-odi-series-on-tv-and-streaming-2026-01-10-1025328",
+    "time": "2026-01-10T17:42:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at BCA Stadium in Kotambi, Vadodara play in the first ODI?",
+    "desc": "India return to international action after nearly three weeks with the opening ODI against New Zealand at the BCA Stadium in Kotambi on Sunday, January 11. The contest also signals the comeback of the veteran...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-1st-odi-pitch-report-how-will-surface-at-bca-stadium-in-kotambi-vadodara-play-in-the-first-odi-2026-01-10-1025321",
+    "time": "2026-01-10T15:46:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ICC Chairman Jay Shah to review Bangladesh situation in high-profile meeting with BCCI officials",
     "desc": "ICC Chair Jay Shah is preparing for crucial discussions with BCCI officials on Sunday in Vadodara to address the growing standoff with the Bangladesh Cricket Board regarding the T20 World Cup 2026. Shah will meet...",
     "img": "",
@@ -19,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "MI-W vs DC-W WPL Match Score Live: Delhi Capitals win toss, elect to bowl; Jemimah Rodrigues era begins",
+    "title": "MI-W vs DC-W WPL Match Score Live: Mumbai Indians thrash Delhi Capitals with 50-run win",
     "desc": "After a defeat to Royal Challengers Bengaluru in the final delivery of the match, defending champions Mumbai Indians would be eager to bounce back in their second game against three-time finalists Delhi Capitals at the...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/neeraj-chopra-parts-ways-with-coach-jan-zelezny-know-what-happened-2026-01-10-1025279",
     "time": "2026-01-10T10:05:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gujarat Giants seal a thrilling win over UP Warriorz",
-    "desc": "The stage is set for game 2 of the ongoing WPL (Women's Premier League) 2026. Gujarat Giants lock horns with UP Warriorz at the Dr. DY Patil Sports Academy in Navi Mumbai. While Gujarat will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gg-vs-upw-women-live-score-gujarat-giants-up-warriorz-wpl-cricket-match-today-dr-dy-patil-sports-academy-2026-01-10-1025274",
-    "time": "2026-01-10T09:06:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Expect him to take on Shami's role': Irfan Pathan backs star pacer to spearhead India's bowling attack",
-    "desc": "The stage is set for the upcoming multi-format white-ball series between India and New Zealand. It is worth noting that the Men in Blue will take on New Zealand across three ODIs and five T20I...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/expect-him-to-take-on-shami-s-role-irfan-pathan-backs-star-pacer-to-spearhead-india-s-bowling-attack-2026-01-10-1025270",
-    "time": "2026-01-10T08:54:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravichandran Ashwin gives his take on England's performance after Ashes 2025-26 series loss",
-    "desc": "The Ashes 2025-26 ended on a disappointing note for England. Taking on Australia across five Test matches, the Ben Stokes-led England was only able to win one Test match and ended up losing the remaining...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-comes-to-brendon-mccullum-s-defence-after-england-lose-ashes-2025-26-2026-01-10-1025255",
-    "time": "2026-01-10T07:43:33.000Z"
   }
 ];

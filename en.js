@@ -1,5 +1,212 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Rishabh Pant ruled out of ODI series due to side strain injury",
+    "desc": "\"He has been diagnosed with a right-sided strain with internal oblique muscle tear, and has thus been ruled out of the forthcoming ODI series against New Zealand,\" a reliable source told TOI. While KL Rahul is the regular wicketkeeper in India's ODI side, the selectors will soon announce a replacement for Pant.",
+    "img": "https://static.toiimg.com/photo/msid-126456231,imgsize-42646.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-rishabh-pant-ruled-out-of-odi-series-due-to-side-strain-injury/articleshow/126456146.cms",
+    "time": "2026-01-10T17:51:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Comeback win! Harmanpreet's Mumbai thrash Jemimah's Delhi",
+    "desc": "Mumbai Indians beat Delhi Capitals by 50 runs in the WPL with a dominant all-round display. Nat Sciver-Brunt (70 not out) and Harmanpreet Kaur (74 not out) powered MI to 195/4. Delhi’s chase faltered early as Nicola Carey struck key blows, and despite Chinelle Henry’s 56, DC were bowled out for 145 in 19 overs.",
+    "img": "https://static.toiimg.com/photo/msid-126456173,imgsize-48500.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/wpl-2026-harmanpreet-kaurs-mumbai-indians-thrash-jemimah-rodrigues-delhi-capitals-in-comeback-win/articleshow/126455799.cms",
+    "time": "2026-01-10T17:47:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kriti's rumoured bf Kabir, Mouni, Disha drop PICS from Nupur-Stebin wedding",
+    "desc": "Nupur Sanon and Stebin Ben's wedding festivities are underway in Udaipur, commencing with haldi and a vibrant sangeet. Sister Kriti Sanon, along with guests like Varun Sharma, Mouni Roy, and Disha Patani, joined the celebrations. The couple's emotional moments and energetic performances marked the pre-wedding events, with the main wedding scheduled for January 10th.",
+    "img": "https://static.toiimg.com/photo/msid-126456012,imgsize-68758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kriti-sanons-rumoured-boyfriend-kabir-bahia-mouni-roy-disha-patani-drop-pics-from-nupur-sanon-stebin-bens-wedding-in-udaipur-see-inside/articleshow/126455954.cms",
+    "time": "2026-01-10T17:39:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Students shocked over closing of Vaishno Devi medical college in Jammu over ‘poor infrastructure’",
+    "desc": "The Shri Mata Vaishno Devi Medical College, one of the ambitious projects of J&K, registered its first batch on the National Eligibility cum Entrance Test (NEET) ranking in October-November 2024; out of 50 MBBS seats, 42 Muslim students, mostly from Kashmir, qualified for the college",
+    "img": "https://th-i.thgim.com/public/incoming/s8jzdd/article70495772.ece/alternates/LANDSCAPE_1200/20260110338L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/students-shocked-over-closing-of-vaishno-devi-medical-college-in-jammu-over-poor-infrastructure/article70495355.ece",
+    "time": "2026-01-10T17:25:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Banks clear Rs 3,362 crore under CGSE in first month; 774 exporters covered",
+    "desc": "Exporters are receiving a significant boost with Rs 3,361.83 crore sanctioned under the Rs 20,000-crore Credit Guarantee Scheme for Exporters within its first month. This initiative aims to support businesses facing global trade headwinds, offering substantial credit guarantees to eligible exporters, including MSMEs, to enhance their competitiveness.",
+    "img": "https://static.toiimg.com/photo/msid-126455691,imgsize-682912.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/export-credit-boost-banks-clear-rs-3362-crore-under-cgse-in-first-month-774-exporters-covered/articleshow/126455692.cms",
+    "time": "2026-01-10T17:09:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "AIFF asks ISL clubs to confirm home venues; league set to start on Feb 14",
+    "desc": "All India Football Federation (AIFF) has asked Indian Super League (ISL) clubs to send the details of the venues where they plan to play their home matches by Monday noon so that it can start working on the schedule of the delayed season which is set to start on February 14.",
+    "img": "https://static.toiimg.com/photo/msid-126455509,imgsize-74606.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/aiff-asks-isl-clubs-to-confirm-home-venues-as-league-set-to-start-on-february-14/articleshow/126455395.cms",
+    "time": "2026-01-10T16:52:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top 5 Apple TV rom-coms you shouldn't miss",
+    "desc": "Apple TV+ offers a delightful selection of romantic comedies for a lighthearted watch. From the thought-provoking afterlife romance of 'Eternity' to the insomnia-fueled connection in 'Still Up,' and the modern friendship dynamics of 'Platonic,' there's something for everyone. Explore love amidst the Apollo space race in 'Fly Me To The Moon' or find heartwarming self-discovery in 'Cha Cha Real Smooth.'",
+    "img": "https://static.toiimg.com/photo/msid-126455463,imgsize-537485.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/top-5-apple-tv-rom-coms-you-shouldnt-miss-eternity-to-cha-cha-real-smooth/articleshow/126455507.cms",
+    "time": "2026-01-10T16:49:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rhea gets emotional remembering the time after Sushant's death",
+    "desc": "Rhea Chakraborty, reflecting on the challenging period following Sushant Singh Rajput's demise and her own legal battles, revealed in her podcast finale how crucial her female friends were for her survival. She highlighted Shibani Dandekar's unwavering support, with friends like Anusha Dandekar and Anisha Jain also sharing their experiences of resilience during that dark phase.",
+    "img": "https://static.toiimg.com/photo/msid-126455330,imgsize-72130.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rhea-chakraborty-gets-emotional-remembering-the-time-after-sushant-singh-rajputs-death-says-we-dont-need-temple-we-need-/articleshow/126455265.cms",
+    "time": "2026-01-10T16:34:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "China will have half of newly-diagnosed Parkinson’s disease cases in the next decade: Nobel Laureate",
+    "desc": "In 2030, it is estimated that 8.7 million individuals will be affected by Parkinson’s, of which 57% will be from China, 14% from Europe, 8% from India, 7% from the U.S., 4% from Brazil, and 10% others",
+    "img": "https://th-i.thgim.com/public/incoming/pt7bzt/article70495646.ece/alternates/LANDSCAPE_1200/DSC_8281AA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/china-will-have-half-of-newly-diagnosed-parkinsons-disease-cases-in-the-next-decade-nobel-laureate/article70495567.ece",
+    "time": "2026-01-10T16:33:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "At pre-Budget meet, Thangam Thennarasu flags GST losses, seeks release of pending dues",
+    "desc": "He also urges the Centre to reconsider the Metro Rail proposals for Madurai and Coimbatore, saying that the grounds cited for their rejection were inconsistent with those cited for the approval granted to the projects in other cities",
+    "img": "https://th-i.thgim.com/public/incoming/owokcs/article70495660.ece/alternates/LANDSCAPE_1200/TN%20GOVERNOR%20FOREIGN%20INVESTMENT%20THANGAM%20THENNARASU%20FINANCE_03.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/at-pre-budget-meet-thangam-thennarasu-flags-gst-losses-seeks-release-of-pending-dues/article70495227.ece",
+    "time": "2026-01-10T16:26:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Eminent citizens being harassed during SIR, Mamata writes again to CEC",
+    "desc": "It is a matter of profound shame that Nobel Laureate Prof. Amartya Sen-a nonagenarian and a globally respected intellectual, has been asked to appear before ECI officials to establish his credentials, Ms . Banerjee wrote in the letter",
+    "img": "https://th-i.thgim.com/public/incoming/8df029/article70495624.ece/alternates/LANDSCAPE_1200/20251230278L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/eminent-citizens-being-harassed-during-sir-mamata-writes-again-to-cec/article70495293.ece",
+    "time": "2026-01-10T16:20:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Saba's romantic post for Hrithik on birthday: UNSEEN PICS",
+    "desc": "Hrithik Roshan is celebrating his 52nd birthday with heartfelt wishes from girlfriend Saba Azad and family. Saba shared unseen photos and a romantic message, while his sister Sunaina and father Rakesh Roshan also posted emotional tributes. The actor was last seen in 'War 2'.",
+    "img": "https://static.toiimg.com/photo/msid-126455194,imgsize-56258.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saba-azad-drops-romantic-post-for-hrithik-roshan-on-his-birthday-with-unseen-pics-happy-birthday-my-heart/articleshow/126455197.cms",
+    "time": "2026-01-10T16:17:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US banks flag risks to lending as Trump pushes 10% cap on card rates; consumers, small firms may take hit",
+    "desc": "US banks are raising concerns over President Trump's proposed 10% cap on credit card interest rates, warning it could limit credit access and harm consumers and small businesses. Industry groups argue such a move would be devastating and push users towards riskier alternatives, despite shared goals of affordability.",
+    "img": "https://static.toiimg.com/photo/msid-126455150,imgsize-601531.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/credit-curbs-us-banks-flag-risks-to-lending-as-trump-pushes-10-cap-on-card-rates-consumers-small-firms-may-take-hit/articleshow/126455159.cms",
+    "time": "2026-01-10T16:13:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Uttarakhand Tourism launches pan-India roadshow to promote year-round travel",
+    "desc": "Uttarakhand Tourism has launched its inaugural nationwide roadshow campaign, commencing in New Delhi, to promote the state as a year-round destination. The initiative aims to showcase diverse offerings, including adventure, culture, and wellness, across all seasons to foster a 365-day tourism economy.",
+    "img": "https://static.toiimg.com/photo/msid-126455035,imgsize-1287301.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/uttarakhand-tourism-launches-pan-india-roadshow-to-promote-year-round-travel/articleshow/126454924.cms",
+    "time": "2026-01-10T16:01:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SIT conducts protracted search and seizure operation at Sabarimala senior Tantri’s private residence in Chengannur",
+    "desc": "Officials say the SIT reportedly focussed on creating an inventory of artefacts, including gold ornaments, in Rajeevaru’s possession to audit their provenance and confiscate the objects, including bank statements and legal documents, pertaining to the case",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/sit-conducts-protracted-search-and-seizure-operation-at-sabarimala-senior-tantris-private-residence-in-chengannur/article70495307.ece",
+    "time": "2026-01-10T15:56:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "​Nupur Sanon and Stebin Ben’s romantic pictures together",
+    "desc": "Actor Nupur Sanon and singer Stebin Ben have kicked off their wedding celebrations in Udaipur. The celebration transformed from vibrant and colorful at night to Boho at night. The couple will be tying the knot according to Christian rituals, followed by the Hindu wedding ceremony. Ahead of this, here’s a quick collection of the couple’s pictures together.The couple has reportedly been dating since 2023. Their multiple public appearances sparked rumours of their relationship. In fact, Stebin's presence in photos with Kriti Sanon and Nupur also added fuel to the fire. However, the duo never accepted or denied their relationship. On January 3, Stebin surprised Nupur with a marriage proposal during their vacation. The singer proposed to her for marriage on a yacht.",
+    "img": "https://static.toiimg.com/photo/msid-126454747,imgsize-1045033.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nupur-sanon-and-stebin-bens-romantic-pictures-together-ahead-of-the-dreamy-wedding/photostory/126454747.cms",
+    "time": "2026-01-10T15:37:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Attempted' to offer namaz; family claims mental illness",
+    "desc": "A 55-year-old man from Jammu and Kashmir was detained in Ayodhya after allegedly attempting to offer namaz inside the Ram Mandir complex. Security personnel intervened, and the man was handed over to police. His family claims he is mentally ill and has a history of leaving home without notice. Investigations are ongoing to determine his intent.",
+    "img": "https://static.toiimg.com/photo/msid-126454719,imgsize-1660616.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kashmiri-man-detained-at-ram-mandir-attempted-to-offer-namaz-family-claims-mental-illness/articleshow/126454698.cms",
+    "time": "2026-01-10T15:35:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar': All about Amritsar’s Lal Kothi aka Lyari residence",
+    "desc": "Akshaye Khanna's portrayal of Rehman Dakait in the hit film 'Dhurandhar' has captivated audiences, with his on-screen Lyari residence drawing significant attention. This iconic home, revealed to be the real 'Lal Kothi' in Amritsar, is a 19th-century haveli blending European and colonial architectural styles. The historic property, a popular filming location, has recently hosted the cast of 'Dhurandhar'.",
+    "img": "https://static.toiimg.com/photo/msid-126454689,imgsize-754858.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-all-about-amritsars-lal-kothi-that-featured-as-akshaye-khanna-aka-rehman-dakaits-lyari-residence/articleshow/126454672.cms",
+    "time": "2026-01-10T15:31:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "549 trains sped up, 122 new added; what TAG 2026 means for passengers",
+    "desc": "Indian Railways introduces a major timetable change, TAG 2026. This plan adds 122 new trains and speeds up 549 existing services across the country. The goal is to reduce travel times and improve punctuality. New Vande Bharat and Amrit Bharat trains are part of this expansion.",
+    "img": "https://static.toiimg.com/photo/msid-126454664,imgsize-948276.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indian-railways-timetable-2026-549-trains-sped-up-122-new-services-added-what-tag-2026-means-for-passengers/articleshow/126454507.cms",
+    "time": "2026-01-10T15:25:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Arrangements in place for Makaravilakku festival",
+    "desc": "Virtual Queue bookings capped at 35,000 for January 13 and 30,000 for January 14, the festival day. Only those with valid Virtual Queue bookings will be allowed darshan, say police. As part of traffic management, restrictions will be imposed on pilgrims’ movement",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/arrangements-under-way-for-makaravilakku-festival/article70494966.ece",
+    "time": "2026-01-10T15:23:43.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Netanyahu hopes to 'taper' Israel off U.S. military aid in next decade",
+    "desc": "Benjamin Netanyahu told Mr. Trump during a recent visit that Israel “very deeply” appreciates “the military aid ​that America has given ⁠us over the years, but here too we’ve come of age and we’ve developed incredible capacities.”",
+    "img": "https://th-i.thgim.com/public/incoming/9f0bsq/article70495319.ece/alternates/LANDSCAPE_1200/2026-01-10T074308Z_861627589_RC2BSGA6IFR5_RTRMADP_3_ISRAEL-NETANYAHU-MILITARY-AID.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/netanyahu-hopes-to-taper-israel-off-us-military-aid-in-next-decade/article70495303.ece",
+    "time": "2026-01-10T15:14:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Sanjha Shakti': Indian Army conducts exercise to boost civil–military coordination in Southern Command",
+    "desc": "The Indian Army recently conducted 'Exercise Sanjha Shakti,' a joint military-civil fusion drill at Dighi Hills Range. Over 350 personnel from the Army and 16 civilian agencies, including police and fire departments, participated. The exercise aimed to bolster coordination for complex security challenges and emergency response, enhancing civil-military synergy for public safety and disaster management.",
+    "img": "https://static.toiimg.com/photo/msid-126454558,imgsize-1089746.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sanjha-shakti-indian-army-conducts-exercise-to-boost-civilmilitary-coordination-in-southern-command/articleshow/126454551.cms",
+    "time": "2026-01-10T15:12:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Gautami slams rumours of Aryan ghost directing 'The B***ds Of Bollywood'",
+    "desc": "Gautami Kapoor lauded Aryan Khan's directorial debut in 'The B***ds of Bollywood', praising his sharp vision and maturity. She dismissed ghost-directing rumors, emphasizing Aryan's hands-on approach, even demonstrating stunts. Kapoor also highlighted his perfectionism, requiring multiple takes from all actors, and shared heartwarming anecdotes about Shah Rukh Khan's upbringing of his son.",
+    "img": "https://static.toiimg.com/photo/msid-126454503,imgsize-70566.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/gautami-kapoor-slams-rumours-of-aryan-khan-ghost-directing-the-bds-of-bollywood-recalls-bobby-deol-being-irritated-with-10-15-takes-because-he-chased-perfection-as-a-director/articleshow/126454401.cms",
+    "time": "2026-01-10T15:06:46.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Chandrababu Naidu calls for action plan to highlight benefits of VB-G RAM G scheme",
     "desc": "Its aim is not only to provide employment to the poor but also create assets in the villages, says the Chief Minister, adding that the scheme has been devised to create an additional 25 days of employment to the poor",
@@ -34,15 +241,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/pal-me-tola-pal-mei-masha-bjp-slams-opposition-over-sir-flips-calls-it-yaksha-parashna/articleshow/126453884.cms",
     "time": "2026-01-10T14:24:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Transgender devotees allege harassment at Pampa",
-    "desc": "The transgender community plans to raise a formal complaint with the Kerala government for alleged harassment and discrimination, while the police cite adherence to regulations that mandate transgender devotees carry valid documents confirming their gender status.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/transgender-devotees-allege-harassment-at-pampa/article70495024.ece",
-    "time": "2026-01-10T14:20:38.000Z"
   },
   {
     "cat": "Sports",
@@ -81,15 +279,6 @@ const newsData_en = [
     "time": "2026-01-10T14:09:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Amaravati construction will be completed in  stipulated time, says Urban Development Minister Narayana",
-    "desc": "YSRCP chief Jagan Mohan Reddy’s comments that the constructions are being done in the river bed smack of his ignorance, the Minister says, adding that the opposition party leaders continue to make baseless allegations on the capital city works",
-    "img": "https://th-i.thgim.com/public/incoming/xoli9n/article70494997.ece/alternates/LANDSCAPE_1200/Amaravati-greenGCKF8L0OL.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/amaravati-construction-will-be-completed-in-stipulated-time-says-urban-development-minister-narayana/article70494530.ece",
-    "time": "2026-01-10T14:08:22.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Did Nina Dobrev welcome the New Year with ex Glen Powell",
     "desc": "Nina Dobrev welcomed 2026 with a sun-soaked vacation in St. Barts, which notably included her ex-boyfriend Glen Powell and his rumored girlfriend, Michelle Randolph. The group was seen enjoying various activities together, sparking fan attention. Dobrev's post also featured celebrity friends like Miles Teller and Alix Earle, highlighting a friendly reunion.",
@@ -97,24 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/did-nina-dobrev-welcome-the-new-year-with-ex-glen-powell-and-his-rumored-girlfriend-heres-what-we-know/articleshow/126453792.cms",
     "time": "2026-01-10T14:04:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "when politics invades a syncretic hill town",
-    "desc": "In Thirupparankundram in Madurai, Hindus and Muslims live in camaraderie, but that has not kept the hill, which holds a couple of temples, a dargah, and some Jain beds, out of dispute. Here, we outline the history of judgments by different petitioners through the years, in an attempt to understand the current crisis.",
-    "img": "https://th-i.thgim.com/public/incoming/ukbkbu/article70495240.ece/alternates/LANDSCAPE_1200/9871_10_1_2026_19_1_22_2_THIRUPPARANKUNDRAM__02.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-row-when-politics-invades-a-syncretic-hill-town/article70494387.ece",
-    "time": "2026-01-10T14:00:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Aikya Malayala Prasthanam",
-    "desc": "A recent meet by a delegation from Karnataka Border Area Development Authority with Kerala Governor followed by Karnataka Chief Minister’s call to Kerala Chief Minister Pinarayi to withdraw the Bill are political games, claims the organisation",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/claims-against-malayalam-language-bill-a-gimmick-aikya-malayala-prasthanam/article70494549.ece",
-    "time": "2026-01-10T13:53:40.000Z"
   },
   {
     "cat": "Business",
@@ -169,15 +340,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/markets/techno-paints-to-file-drhp-for-500-crore-ipo-in-fy27/article70494683.ece",
     "time": "2026-01-10T13:09:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Teen girl ‘gangraped’ in abandoned factory in West Bengal, two held",
-    "desc": "It is alleged that the accused, along with their associates, sexually assaulted the minor inside the closed Hindmotor factory premises in Hooghly on Thursday evening with a friend; charges under POCSO Act registered against accused",
-    "img": "https://th-i.thgim.com/public/incoming/1hxrmz/article70494708.ece/alternates/LANDSCAPE_1200/IMG_BL28_Sexual_assault_2_1_P8D44ED3.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/teen-girl-gangraped-in-abandoned-factory-in-west-bengal-two-held/article70494637.ece",
-    "time": "2026-01-10T13:05:23.000Z"
   },
   {
     "cat": "Entertainment",
@@ -351,15 +513,6 @@ const newsData_en = [
     "time": "2026-01-10T11:08:53.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Abhishek picks Sushant for his authentic small-town vibe",
-    "desc": "Director Abhishek Chaubey cast Sushant Singh Rajput in Sonchiriya for his authentic small-town vibe, unlike urban Bandra boys. Sushant's grounded essence perfectly suited the rustic dacoit role. He instantly agreed to the script, shining in the critically acclaimed 2019 film.",
-    "img": "https://static.toiimg.com/photo/msid-126451521,imgsize-36658.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhishek-chaubey-picks-sushant-singh-rajput-for-his-authentic-small-town-vibe-calling-him-a-natural-fit-unlike-urban-bandra-boys/articleshow/126451521.cms",
-    "time": "2026-01-10T11:00:55.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Gill seeks preparation window ahead of Test series",
     "desc": "‘Preparation for me is really big, and I didn’t think that we had that much time to prepare when we came back from Australia, or even after the Asia Cup when we played the West Indies series,’ the India’s Test and ODI captain said",
@@ -367,24 +520,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/gill-seeks-preparation-window-ahead-of-test-series/article70494180.ece",
     "time": "2026-01-10T10:57:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nupur Sanon best ethnic looks",
-    "desc": "Nupur Sanon and Stebin Ben are all set to tie the wedding knot, and their wedding festivities have also begun in Udaipur. In their sangeet ceremony, the bride-to-be was seen dedicating a performance to her husband-to-be, and the internet can’t get enough of her bridal glow. For the sangeet night, she looked dazzling in a colorful mirror-embellished lehenga. The skirt featured vibrant shades of orange, pink, and green.Nupur Sanon’s sangeet outfit is literally a ‘girl’s dream’. Well, what else do you expect when Nupur has always been flattering us with her lehengas, sarees, and suits? So, here’s a curated collection of Nupur Sanon’s best ethnic looks.",
-    "img": "https://static.toiimg.com/photo/msid-126451324,imgsize-2171765.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nupur-sanon-best-ethnic-looks-a-glimpse-at-the-bride-to-bes-most-stunning-fashion-moments/photostory/126451324.cms",
-    "time": "2026-01-10T10:44:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Did Nikhila Vimal starrer work?",
-    "desc": "Malayalam film 'Pennu Case' has released today, with paid premieres generating mixed reactions online. While some viewers found it a 'harmless entertainer' with a decent one-time watch, others criticized its thin storyline, poor production, and ineffective humor. Lead actors Nikhila Vimal and Hakkim Shajahan received praise for their performances, though opinions on the overall film varied.",
-    "img": "https://static.toiimg.com/photo/msid-126451263,imgsize-102104.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/pennu-case-twitter-review-did-the-nikhila-vimal-starrer-entertain-the-audience-netizens-comment/articleshow/126451263.cms",
-    "time": "2026-01-10T10:43:55.000Z"
   },
   {
     "cat": "Sports",
@@ -414,15 +549,6 @@ const newsData_en = [
     "time": "2026-01-10T10:35:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan': Kamal Haasan and Pa Ranjith slam CBFC",
-    "desc": "The release of Thalapathy Vijay's film Jana Nayagan is delayed due to censor certificate issues. This has led to widespread criticism of the CBFC. Kamal Haasan and Pa Ranjith have voiced concerns about threats to creative freedom. Political parties and the film fraternity are rallying behind Vijay, highlighting the broader implications for dissent and democracy.",
-    "img": "https://static.toiimg.com/photo/msid-126451134,imgsize-40418.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-censor-row-kamal-haasan-flags-threat-to-creative-freedom-pa-ranjith-slams-cbfc/articleshow/126451134.cms",
-    "time": "2026-01-10T10:34:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Gill turns to 'destiny' after T20 World Cup snub; responds to exclusion from squad",
     "desc": "The 26-year-old was not picked for the T20 World Cup despite leading India in the longer formats. Gill has played 36 T20Is, scoring 869 runs at an average of 28.03 and a strike rate of 138.59. He was dropped from the T20 setup after managing 291 runs in his last 15 matches in the format at an average of 24.25.",
@@ -432,15 +558,6 @@ const newsData_en = [
     "time": "2026-01-10T10:29:31.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Huma Qureshi drops fun pics from Farah Khan's bash",
-    "desc": "Huma Qureshi shared fun photos from Farah Khan's January 9 birthday lunch, praising her knack for perfecting \"messed-up cakes and moments.\" Farah joked her squished cake mirrored her 61 years—strong start, crushed end. Huma captioned the bash with pals, celebrating Farah's warmth. She's starring in Maharani S4 and Delhi Crime S3.",
-    "img": "https://static.toiimg.com/photo/msid-126451088,imgsize-58216.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/huma-qureshi-drops-fun-pics-from-farah-khans-bash-the-filmmaker-jokes-that-the-squished-cake-mirrors-life-at-61/articleshow/126451088.cms",
-    "time": "2026-01-10T10:25:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Is Yuvraj Singh grooming Sanju Samson for the T20 World Cup?",
     "desc": "A viral video shows Sanju Samson receiving batting tips from former India star Yuvraj Singh in the nets. This interaction fuels speculation about Yuvraj's growing influence as a mentor, following his past guidance for Shubman Gill and Abhishek Sharma. Samson is preparing for the upcoming T20 World Cup at home.",
@@ -448,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/is-yuvraj-singh-grooming-sanju-samson-for-the-t20-world-cup-viral-video-sparks-buzz-watch/articleshow/126450945.cms",
     "time": "2026-01-10T10:22:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Taylor Frankie Paul joins 'The Bachelorette' new season: Here’s how Kelsey Anderson reacted to the ‘surprise’ announcement",
-    "desc": "Taylor Frankie Paul, known from 'The Secret Lives of Mormon Wives', is the surprising new Bachelorette for Season 22. Even former Bachelorette Kelsey Anderson expressed utter shock, initially believing the show wouldn't return. However, Anderson quickly shifted to excitement, praising Paul's humor and openness, and is eager to support her journey.",
-    "img": "https://static.toiimg.com/photo/msid-126450825,imgsize-52812.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/taylor-frankie-paul-joins-the-bachelorette-new-season-heres-how-kelsey-anderson-reacted-to-the-surprise-announcement/articleshow/126450832.cms",
-    "time": "2026-01-10T10:04:58.000Z"
   },
   {
     "cat": "Sports",
@@ -540,15 +648,6 @@ const newsData_en = [
     "time": "2026-01-10T07:28:30.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Pace set by PM Modi’: NSA Doval says India will develop ‘even on autopilot’, reflects on global conflicts",
-    "desc": "National Security Advisor Ajit Doval highlighted the global trend of countries imposing their will through force, emphasizing that national willpower translates into national power. He credited India's current leadership for its significant progress over the past decade, stating that strong leadership and morale are crucial for national independence and achieving objectives.",
-    "img": "https://static.toiimg.com/photo/msid-126448876,imgsize-483418.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pace-set-by-pm-modi-nsa-doval-says-india-will-develop-even-on-autopilot-reflects-on-global-conflicts/articleshow/126448864.cms",
-    "time": "2026-01-10T07:15:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India targets 12 gold medals at 2036 Olympics",
     "desc": "India is significantly raising its Olympic medal ambitions, targeting 12-14 gold and 30-35 overall medals for the 2036 Games, while also bidding to host. A long-term strategy aims for 30-35 gold and 100 total medals by 2048, positioning India among the top sporting nations.",
@@ -556,15 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/india-targets-12-gold-medals-at-2036-olympics/articleshow/126449005.cms",
     "time": "2026-01-10T07:10:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sikkim’s quiet climb in domestic cricket",
-    "desc": "Sikkim's cricket team gained valuable experience in the Vijay Hazare Trophy. Though they did not win, the tournament provided a clear path for improvement. The team showed promise against stronger opponents. Enhanced facilities are expected to boost local cricket. The women's team secured Sikkim's first national title. Professional coaching is anticipated to enhance competitiveness.",
-    "img": "https://static.toiimg.com/photo/msid-126448875,imgsize-142500.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sikkims-quiet-climb-in-domestic-cricket/articleshow/126448848.cms",
-    "time": "2026-01-10T06:54:43.000Z"
   },
   {
     "cat": "Sports",
@@ -613,15 +703,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "PV Sindhu loses in semifinals",
-    "desc": "PV Sindhu's strong performance at the Malaysia Open Super 1000 concluded with a semifinal defeat to China's Wang Zhiyi. The two-time Olympic medalist struggled with consistency, committing unforced errors in a straight-game loss. This marked the end of India's campaign in the prestigious tournament.",
-    "img": "https://static.toiimg.com/photo/msid-126447473,imgsize-30974.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/malaysia-open-pv-sindhu-loses-to-wang-zhiyi-in-semifinals/articleshow/126447484.cms",
-    "time": "2026-01-10T04:46:15.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Aryna Sabalenka advances to the Brisbane International final after beating Muchová",
     "desc": "Sabalenka, defending Brisbane champion, clinched the semi-final at Pat Rafter Arena on her fourth match point to advance to January 11 final against the winner of a later semi-final between fourth-seeded Jessica Pegula and Marta Kostyuk",
     "img": "https://th-i.thgim.com/public/incoming/le4s1p/article70493655.ece/alternates/LANDSCAPE_1200/Australia_Tennis_87390.jpg",
@@ -637,24 +718,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohli-turns-entertainer-in-training-mimics-arshdeep-singh-rohit-sharma-reacts-watch/articleshow/126447131.cms",
     "time": "2026-01-10T04:18:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Desperate attempt’: Suvendu Adhikari sends legal notice to Mamata Banerjee; threatens defamation case over 'baseless' corruption allegations",
-    "desc": "West Bengal LoP Suvendu Adhikari has sent a legal notice to CM Mamata Banerjee, demanding proof for her allegations linking him and Union Home Minister Amit Shah to the coal smuggling case. Adhikari stated he will pursue defamation proceedings if she fails to provide evidence within 72 hours.",
-    "img": "https://static.toiimg.com/photo/msid-126447102,imgsize-1090742.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/desperate-attempt-suvendu-adhikari-sends-legal-notice-to-mamata-banerjee-threatens-defamation-case-over-baseless-corruption-allegations/articleshow/126447091.cms",
-    "time": "2026-01-10T04:08:52.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Won't let US public be ripped off! Trump puts 10% cap on credit card interest rates; slams 'sleepy Joe' admin",
-    "desc": "President Donald Trump announced plans to cap credit card interest rates, aiming to alleviate consumer affordability issues. He stated that credit card companies will be prohibited from charging interest rates of 20% to 30% or higher, criticizing the previous administration for allowing these rates to persist.",
-    "img": "https://static.toiimg.com/photo/msid-126446333,imgsize-129156.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/wont-let-us-public-be-ripped-off-trump-puts-10-cap-on-credit-card-interest-rates-slams-sleepy-joe-admin/articleshow/126446174.cms",
-    "time": "2026-01-10T02:01:27.000Z"
   },
   {
     "cat": "Sports",
@@ -835,68 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/tennis/sabalenka-to-skip-events-in-2026-to-prioritise-her-health/article70485341.ece",
     "time": "2026-01-08T05:46:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India’s progress on its climate targets",
-    "desc": "While the country has successfully reduced emissions intensity, and increased non-fossil power capacity, challenges remain in translating these achievements into absolute emissions reductions. The next few years will be critical in addressing these gaps and ensuring a sustainable future",
-    "img": "https://th-i.thgim.com/public/incoming/n2w003/article70483789.ece/alternates/LANDSCAPE_1200/IMG_COP27_India_Expectat_2_1_ACDU832Q.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/indias-progress-on-its-climate-targets/article70481985.ece",
-    "time": "2026-01-08T03:00:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How Indian badminton stayed in the conversation without big conquests",
-    "desc": "Satwik and Chirag reached the climactic phase in many tournaments but failed to go the distance; Sindhu and Lakshya were not at their consistent best; the absence of depth made it a tougher pill to swallow, making the country’s presence a peripheral one at the global level",
-    "img": "https://th-i.thgim.com/public/sport/a9adjb/article70483878.ece/alternates/LANDSCAPE_1200/SATCHI.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/how-indian-badminton-stayed-in-the-conversation-without-big-conquests/article70483874.ece",
-    "time": "2026-01-07T17:52:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hazare Trophy",
-    "desc": "The batter’s move to HP, amid cut-throat competition in the Punjab team, proves to be a wise decision; he follows up his good form in the Ranji Trophy by being the highest run-scorer for the team in the ongoing Hazare Trophy",
-    "img": "https://th-i.thgim.com/public/sport/7vwbrv/article70482758.ece/alternates/LANDSCAPE_1200/PUKRAJ.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/hazare-trophy-mann-finds-a-second-lease-on-cricket-in-himachal-pradesh-colours/article70482592.ece",
-    "time": "2026-01-07T13:40:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Jana Nayagan’ movie release: Chances of Vijay-starrer hitting screens on January 9 appear bleak",
-    "desc": "Justice P.T. Asha of Madras High Court has reserved orders on production firm’s plea to grant censor certificate and is likely to pronounce them only on January 9; hours later, the film’s producers announced the postponement of its release",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/x4dotx/article70482480.ece/alternates/LANDSCAPE_1200/Jana%20Nayagan%20stills.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/jana-nayagan-movie-release-chances-of-vijay-starrer-hitting-screens-on-january-9-appear-bleak/article70482143.ece",
-    "time": "2026-01-07T13:23:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Interview",
-    "desc": "Malayalam actor, producer and social media influencer Riya Shibu is basking in the adulation coming her way post her role as the ‘Gen Z’ ghost in Nivin Pauly’s Sarvam Maya, which is having a dream run at the box office",
-    "img": "https://th-i.thgim.com/public/incoming/4raf3w/article70481628.ece/alternates/LANDSCAPE_1200/07tvm%20riya5.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/interview-malayalam-actor-producer-riya-shibu/article70476812.ece",
-    "time": "2026-01-07T10:05:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Love Mocktail 3’: Darling Krishna-Milana Nagaraj film locks release date",
-    "desc": "‘Love Mocktail 3 is set to drop in theatres in April. The new chapter in the Kannada film series brings back Darling Krishna and Milana Nagaraj, who not only star but also co-write and direct together",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/23xdf6/article70481454.ece/alternates/LANDSCAPE_1200/Love%20Mocktail.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/love-mocktail-3-release-date-love-mocktail-darling-krishna-milana-nagaraj-nakul-abhayankar-april-2026/article70481308.ece",
-    "time": "2026-01-07T08:18:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "World Cup triumph a big boost as Indian squash prepares for LA Olympics",
-    "desc": "The 17-year-old Anahat, who has displayed remarkable maturity and temperament, has the best opportunity to qualify; at 39, the evergreen Joshna will take it step-by-step in the build-up to the 2028 Games; Abhay’s athleticism and tactical awareness have kept him in good stead while Ramit, Velavan and Veer are the others with Olympic dreams",
-    "img": "https://th-i.thgim.com/public/incoming/b1rpee/article70479647.ece/alternates/LANDSCAPE_1200/4871_14_12_2025_19_24_51_1__DSC8092.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/world-cup-triumph-a-big-boost-as-indian-squash-prepares-for-la-olympics/article70479649.ece",
-    "time": "2026-01-06T18:10:31.000Z"
   }
 ];

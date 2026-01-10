@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "&amp;#039;મિર્ઝાપુર ધ ફિલ્મ&amp;#039;માં ફરી જોવા મળશે આ પાત્ર, પહેલી સીઝનમાં થયું હતું મોત",
+    "desc": "તમે પહેલાથી જ જાણો છો કે મિર્ઝાપુર પર આધારિત એક ફિલ્મ બનવા જઈ રહી છે. પરંતુ આ ફિલ્મમાં એક પાત્રનું પાછુ આવશે જેનું સિઝન 1 માં મૃત્યુ થયું હતું. પાત્રે પોતે જ તેની વાપસીની જાહેરાત કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/this-character-will-be-seen-again-in-mirzapur-the-film-he-died-in-the-first-season-461190 ",
+    "time": "2026-01-10T15:40:03.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ટીમ ઈન્ડિયા માટે આવ્યા માઠા સમાચાર, વડોદરા વનડે પહેલા આ સ્ટાર ખેલાડી ઈજાગ્રસ્ત!",
     "desc": "ભારત અને ન્યુઝીલેન્ડ વચ્ચે વનડે શ્રેણીની શરૂઆત 11 જાન્યુઆરીથી થવા જઈ રહી છે. જેની પૂર્વ તૈયારી રૂપે ટીમ ઈન્ડિયાના તમામ ખેલાડીઓ નેટ્સમાં સખત પરસેવો પાડી રહ્યા છે. આ દરમિયાન ટીમના એક સ્ટાર ખેલાડીને પ્રેક્ટિસ દરમિયાન ઈજા થઈ હતી, ત્યારબાદ ફિઝિયો તેમને મેદાનની બહાર લઈ ગયા હતા. આ મેચ વિનર ખેલાડીની સ્થિતિ અંગે હજુ સુધી કોઈ સત્તાવાર અપડેટ આવ્યું નથી.",
@@ -565,15 +574,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/ar-rahman-59th-birthday-special-know-singer-musician-religion-change-incident-460566 ",
     "time": "2026-01-06T05:09:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ધર્મેન્દ્રના નિધન પછી પહેલીવાર હેમા માલિનીએ તોડ્યું મૌન, જણાવી દીધું શા માટે રાખી હતી બે અલગ અલગ પ્રાર્થના સભા",
-    "desc": "બોલીવુડ એક્ટર ધર્મેન્દ્રના નિધન પછી તેમના માટે 2 અલગ અલગ પ્રાર્થના સભા રાખવામાં આવી હતી. આવું શા માટે થયું હતું તે અંગે ખુદ હેમા માલિનીએ એક મુલાકાત દરમિયાન ખુલાસો કરી દીધો છે. ચાલો તમને પણ જણાવીએ આ વાત.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/hema-malini-spoke-about-reason-for-two-different-prayer-meet-of-late-dharmendra-not-family-dispute-460495 ",
-    "time": "2026-01-05T13:03:39.000Z"
   },
   {
     "cat": "Tech",

@@ -567,15 +567,6 @@ const newsData_bn = [
     "time": "2026-01-05T15:25:55.000Z"
   },
   {
-    "cat": "World",
-    "title": "তুলে নিয়ে গিয়ে মাদুরোকে ভয়ংকরতম নরকে রেখেছেন ট্রাম্প! প্রকাশ্যে জেলের ছবি, খোঁড়াচ্ছেন সস্ত্রীক ভেনে-প্রেসিডেন্ট...",
-    "desc": "অভিযোগপত্রে আরও উল্লেখ করা হয়েছে যে, মাদুরো এবং তাঁর স্ত্রী মাদকের টাকা পরিশোধ না করা বা তাঁদের মাদক পাচার অভিযানে বাধা দেওয়া ব্যক্তিদের অপহরণ, মারধর এবং হত্যার আদেশ দিতেন। এমনকি কারাকাসে একজন মাদক সম্রাটকে হত্যার পেছনেও তাঁদের হাত ছিল বলে দাবি করা হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/1st-picture-of-maduro-venezuela-president-along-with-with-wife-celia-flores-captured-by-us-trump-presenting-in-new-york-court-agitation-china-columbia-korea-irak-iran-mamdani-kamla-harris-us ",
-    "time": "2026-01-05T15:07:49.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "৫টি অসাধারণ সিনেমা, নতুন বছরের চটপট দেখে নিতে পারেন, এই শীতে বাড়িতেই জমে যাবে 'সেলিব্রেশন'",
     "desc": "কেউ যদি গাড়িপ্রেমী হন এবং এই নববর্ষে বাড়িতে থাকার পরিকল্পনা করেন, তাহলে তাঁর কাছে বিনোদনের প্রচুর বিকল্প রয়েছে। রোম্যান্টিক হোক বা অ্যাকশন-প্যাকড সিনেমা, যে যা-ই পছন্দ করুক না কেন, সবার জন্যই তালিকায় কিছু না কিছু আছে।",
@@ -898,5 +889,14 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/unbreakable-10-giant-cricket-records-test-debut-which-can-not-be-broken-know-the-facts-smc-2474474.html",
     "time": "2025-12-29T08:19:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "হাদি খুনে অভিযুক্তরা গা ঢাকা দিয়েছে ভারতে? কী দাবি ঢাকা পুলিশের, দেখুন ভিডিও",
+    "desc": "সীমান্ত পেরিয়ে ভারতে গা ঢাকা দিয়েছে ইনকিলাব মঞ্চের নেতা শরিফ ওসমান হাদি খুনে অভিযুক্ত মূল দুই অভিযুক্ত৷ এমনই দাবি ঢাকা মেট্রোপলিটন পুলিশের৷ তাদের দাবি, সীমান্ত পেরিয়ে ভারতের মেঘালয়ে আশ্রয় নিয়েছে হাদি খুনের দুই মূল সন্দেহভাজন৷ দুই অভিযুক্তকে ধরতে মেঘালয় পুলিশের সাহায্যও চেয়েছে ঢাকা পুলিশ৷ তবে হাদির হত্যায় জড়িত কোনও সন্দেহভাজনকেই এখনও ভারতে গ্রেফতার করা হয়নি৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/12/Osman-Hadi-2025-12-c1c045e8730bf84b42d76fa1aa32d19b-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/dhaka-police-claims-accused-in-osman-hadi-murder-case-have-crossed-border-to-take-shelter-in-india-dmg-2475813.html",
+    "time": "2025-12-28T20:37:14.000Z"
   }
 ];
