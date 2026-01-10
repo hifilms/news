@@ -1,5 +1,50 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "Moody’s changes Shriram Finance’s outlook to positive from stable",
+    "desc": "“The investment by MUFG Bank will provide strategic benefits, including a stronger capital base, access to global expertise and funding channels, and will further improve SFL’s funding diversity and risk management practices over time,” Moody’s said",
+    "img": "https://th-i.thgim.com/public/news/national/efj5hn/article70495916.ece/alternates/LANDSCAPE_1200/Shriram_Finance_Logo.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/moodys-changes-shriram-finances-outlook-to-positive-from-stable/article70494770.ece",
+    "time": "2026-01-10T20:59:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Tara said she wouldn't want to marry a foreigner",
+    "desc": "Tara Sutaria and Veer Pahariya have reportedly ended their relationship shortly after a viral moment at an AP Dhillon concert. This development comes as resurfaced interviews reveal Tara's past thoughts on desired qualities in a life partner, emphasizing nativeness, simplicity, and self-awareness.",
+    "img": "https://static.toiimg.com/photo/msid-126458098,imgsize-13848.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amidst-break-up-rumours-with-veer-pahariya-heres-recalling-the-time-when-tara-sutaria-said-she-would-not-consider-marrying-a-foreigner/articleshow/126458100.cms",
+    "time": "2026-01-10T20:01:17.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Rubio and Vance | Arms of Trump",
+    "desc": "Two major events — the U.S. capture of Venezuela’s President and the ICE shooting in Minneapolis — highlight the Trump administration’s twin priorities — foreign intervention and strict immigration enforcement; Rubio and Vance represent different strands of the MAGA movement",
+    "img": "https://th-i.thgim.com/public/news/national/4aukwj/article70495505.ece/alternates/LANDSCAPE_1200/JD_Vance_Marcox.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/rubio-and-vance-arms-of-trump/article70494464.ece",
+    "time": "2026-01-10T19:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Fire breaks out Prabhas fans do 'aarti' at 'The Raja Saab' screening",
+    "desc": "Prabhas' 'The Raja Saab' opened to massive fan celebrations, with attendees even bringing toy crocodiles. However, a fire broke out in an Odisha theatre during the actor's entry due to fans lighting lamps and fire arrows. The blaze was quickly controlled, with no reported injuries, as the film garnered ₹53.75 crore on its opening day.",
+    "img": "https://static.toiimg.com/photo/msid-126457665,imgsize-41106.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/fire-breaks-out-in-theatre-as-prabhas-fans-do-aarti-burst-crackers-during-the-raja-saab-screening-watch-video/articleshow/126457636.cms",
+    "time": "2026-01-10T18:56:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Jaya Bachchan spoke about Botox and ageing",
+    "desc": "Jaya Bachchan, celebrated for her impactful film roles, has recently garnered attention for her candid views on aging and her interactions with the paparazzi. She expressed pride in her natural aging process, embracing every wrinkle and grey hair, and stated her firm stance against artificial enhancements like Botox.",
+    "img": "https://static.toiimg.com/photo/msid-126456747,imgsize-29816.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-jaya-bachchan-spoke-about-botox-and-ageing-proud-of-every-wrinkle-grey-hair/articleshow/126456750.cms",
+    "time": "2026-01-10T18:14:30.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Rishabh Pant ruled out of ODI series due to side strain injury",
     "desc": "\"He has been diagnosed with a right-sided strain with internal oblique muscle tear, and has thus been ruled out of the forthcoming ODI series against New Zealand,\" a reliable source told TOI. While KL Rahul is the regular wicketkeeper in India's ODI side, the selectors will soon announce a replacement for Pant.",
@@ -216,15 +261,6 @@ const newsData_en = [
     "time": "2026-01-10T14:55:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Thousand years since first attack’: PM Modi at Somnath ‘swabiman parv’; shares pictures",
-    "desc": "Prime Minister Narendra Modi commenced a three-day visit to Gujarat, beginning in Somnath to participate in the Somnath Swabhiman Parv. His itinerary includes attending the Vibrant Gujarat Regional Conference and holding talks with German Chancellor Friedrich Merz. The visit also features a drone show, a ceremonial procession, and the inauguration of several development projects.",
-    "img": "https://static.toiimg.com/photo/msid-126454486,imgsize-1312924.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/thousand-years-since-first-attack-pm-modi-at-somnath-swabiman-parv-shares-pictures/articleshow/126454151.cms",
-    "time": "2026-01-10T14:53:16.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Vidyut leaves the internet shocked as he goes nude to climb a tree",
     "desc": "Vidyut Jammwal, a Kalaripayattu practitioner, shared a video of himself climbing a tree naked as part of his annual Sahaja yogic practice, aiming to reconnect with nature and enhance sensory awareness. The act sparked online discussion, with fans expressing a mix of humor and admiration for his confidence and unique approach.",
@@ -232,15 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vidyut-jammwal-leaves-the-internet-shocks-as-burries-himself-in-snow-goes-nude-to-climb-a-tree-sahaja-means-returning-to-a-state-of-natural-ease-and-instinct/articleshow/126454265.cms",
     "time": "2026-01-10T14:48:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Pal me tola pal mei masha’: BJP slams opposition over SIR flips, calls it ‘Yaksha parashna’",
-    "desc": "The BJP attacked the INDIA bloc over electoral roll revisions, accusing opposition parties of shifting stances and turning a constitutional exercise into a spectacle. Samajwadi Party chief Akhilesh Yadav questioned the Election Commission's neutrality, alleging BJP leaders had advance knowledge of voter deletions in Uttar Pradesh.",
-    "img": "https://static.toiimg.com/photo/msid-126454066,imgsize-896889.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pal-me-tola-pal-mei-masha-bjp-slams-opposition-over-sir-flips-calls-it-yaksha-parashna/articleshow/126453884.cms",
-    "time": "2026-01-10T14:24:23.000Z"
   },
   {
     "cat": "Sports",
@@ -259,24 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/service-charge-row-ccpa-cracks-down-on-27-restaurants-for-mandatory-levy-refunds-penalties-ordered/articleshow/126453907.cms",
     "time": "2026-01-10T14:17:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Three drug peddler arrested in JK's Udhampur, Jammu",
-    "desc": "Police apprehended three individuals suspected of drug peddling in Udhampur and Jammu districts on Saturday. Authorities recovered a total of 7.53 grams of heroin from two separate car searches. The arrested individuals have been booked under the NDPS Act, and investigations are ongoing.",
-    "img": "https://static.toiimg.com/photo/msid-126453951,imgsize-528343.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/three-drug-peddler-arrested-in-jks-udhampur-jammu/articleshow/126453883.cms",
-    "time": "2026-01-10T14:10:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Indian Navy to hold joint services multi-speciality medical camp in Lakshadweep from Jan 12 to 16",
-    "desc": "The Indian Navy is organizing a multi-speciality medical camp in Lakshadweep from January 12-16, offering comprehensive healthcare to island residents. This joint services initiative will provide specialist consultations, treatments, and surgical procedures, including cataract surgeries, aiming to supplement existing healthcare services and strengthen community ties.",
-    "img": "https://static.toiimg.com/photo/msid-126453864,imgsize-1226318.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indian-navy-to-hold-joint-services-multi-speciality-medical-camp-in-lakshadweep-from-jan-12-to-16/articleshow/126453740.cms",
-    "time": "2026-01-10T14:09:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -351,15 +360,6 @@ const newsData_en = [
     "time": "2026-01-10T13:00:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Exposing my identity': Unnao rape survivor pleads for help; blames Sengar's daughters",
-    "desc": "The Unnao rape survivor has appealed for support. She claims Kuldeep Singh Sengar's daughters and their supporters are revealing her identity on social media. This puts her safety at risk. The Supreme Court has stayed a High Court order granting bail to Sengar. The survivor's mother welcomed the Supreme Court's decision.",
-    "img": "https://static.toiimg.com/photo/msid-126453346,imgsize-45178.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/exposing-my-identity-unnao-rape-survivor-pleads-for-help-blames-sengars-daughters/articleshow/126452801.cms",
-    "time": "2026-01-10T12:53:57.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IND vs NZ 1st ODI Preview",
     "desc": "The Men in Blue will be keen on assessing skipper Gill and deputy Shreyas’ return after their injury layoffs; Siraj, too, will have a point to prove; New Zealand will depend on the likes of Conway, Mitchell and Jamieson to guide the youngsters",
@@ -367,15 +367,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ind-vs-nz-1st-odi-preview-inexperienced-kiwis-need-a-lot-of-things-going-their-way-to-upstage-india/article70494534.ece",
     "time": "2026-01-10T12:52:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘77  deaths due to SIR’: Mamata makes explosive charges against EC again; flags ‘inhumane’ conditions",
-    "desc": "West Bengal CM Mamata Banerjee has strongly condemned the ongoing Special Intensive Revision (SIR) in the state, alleging it has led to 77 deaths and numerous hospitalizations. She criticized the Election Commission of India (ECI) for a \"relentlessly harassing\" and \"unplanned\" process that lacks human judgment and social sensitivity, particularly impacting women voters and prominent citizens.",
-    "img": "https://static.toiimg.com/photo/msid-126452836,imgsize-1065445.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/77-deaths-due-to-sir-mamata-makes-explosive-charges-against-ec-again-flags-inhumane-conditions/articleshow/126452759.cms",
-    "time": "2026-01-10T12:40:23.000Z"
   },
   {
     "cat": "Sports",
@@ -433,15 +424,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "The Raja Saab premiere in Hyderabad turns chaotic over delay",
-    "desc": "Premiere shows of Prabhas' 'The Raja Saab' in Hyderabad faced significant delays and chaos due to permission issues, frustrating eager fans. At Vimal Theatres, a large crowd barged in demanding a screening after staff failed to provide clarity, leading to a ruckus during the media premiere.",
-    "img": "https://static.toiimg.com/photo/msid-126452403,imgsize-80580.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/prabhas-the-raja-saab-premiere-in-hyderabad-turns-chaotic-over-delay/articleshow/126452403.cms",
-    "time": "2026-01-10T12:08:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Dhurandhar' box office collection day 37 Vs 'The Raja Saab day 2 (LIVE)",
     "desc": "Dhurandhar earned Rs 3.4 crore on its sixth Friday, potentially impacted by The Raja Saab's release. While Stree 2 saw more on its equivalent day due to cinema day, Dhurandhar's weekend might outperform it. The Raja Saab could experience a weekend drop due to mixed reviews and word-of-mouth.",
     "img": "https://static.toiimg.com/photo/msid-126452227,imgsize-38624.cms",
@@ -457,33 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/its-an-amazing-experience-ariana-grande-on-acting/articleshow/126452361.cms",
     "time": "2026-01-10T12:05:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Survive or revive? Congress's alliance dilemma in states",
-    "desc": "Congress prepares for crucial 2026 assembly elections in key states. The party's ability to form effective alliances will be critical. Past electoral struggles highlight the challenges in balancing relevance with maintaining political ground. Recent alliance negotiations suggest a continuation of complex bargaining tactics. The outcomes of these strategies will shape Congress's electoral future.",
-    "img": "https://static.toiimg.com/photo/msid-126452309,imgsize-1064751.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/2026-assembly-elections-survive-or-revive-congresss-alliance-dilemma-in-states/articleshow/126451589.cms",
-    "time": "2026-01-10T12:02:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India, EU push to accelerate FTA talks; small aircraft makes emergency landing near Odisha's Rourkela; &amp; more",
-    "desc": "India and the EU are accelerating Free Trade Agreement talks, aiming for a balanced deal protecting farmers and MSMEs. Meanwhile, a small aircraft made an emergency landing near Rourkela due to a technical fault. An Indian-American judge faces MAGA backlash after blocking a Trump funding freeze, and North Korea accuses South Korea of drone intrusions.",
-    "img": "https://static.toiimg.com/photo/msid-126452320,imgsize-599325.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-india-eu-push-to-accelerate-fta-talks-small-aircraft-makes-emergency-landing-near-odishas-rourkela-more/articleshow/126452123.cms",
-    "time": "2026-01-10T12:02:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rani Mukerji's Mardaani 3 to now release on Jan 30th",
-    "desc": "Rani Mukerji's acclaimed Mardaani franchise returns with Mardaani 3, shifting its release to January 30th. Following its predecessors' focus on societal evils, this installment promises a dark, brutal reality. Mukerji reprises her role as Shivani Shivaji Roy, marking her return after a three-year hiatus and a National Award win. Janki Bodiwala joins the cast.",
-    "img": "https://static.toiimg.com/photo/msid-126452162,imgsize-79172.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rani-mukerjis-mardaani-3-to-now-release-on-jan-30th/articleshow/126452162.cms",
-    "time": "2026-01-10T11:55:31.000Z"
   },
   {
     "cat": "Business",
@@ -538,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/trade-talks-india-eu-push-officials-to-fast-track-fta-negotiations-ministers-flag-need-to-resolve-pending-issues/articleshow/126451235.cms",
     "time": "2026-01-10T10:37:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "I-PAC raids: ED moves SC over 'interference' from Mamata govt, Bengal files counter-petition caveat; HC hearing pushed to Jan 14",
-    "desc": "West Bengal government filed a caveat in the Supreme Court regarding ED raids on I-PAC, amid a political standoff. The Enforcement Directorate alleges obstruction by state police and Chief Minister Mamata Banerjee during searches linked to a coal scam. The Calcutta High Court adjourned a related ED petition.",
-    "img": "https://static.toiimg.com/photo/msid-126451079,imgsize-1106204.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/i-pac-raids-ed-moves-sc-over-alleged-interference-from-mamata-govt-bengal-files-counter-petition-caveat-hc-hearing-pushed-to-jan-14/articleshow/126450932.cms",
-    "time": "2026-01-10T10:35:03.000Z"
   },
   {
     "cat": "Sports",
@@ -610,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/its-affecting-us-bangladesh-captain-reacts-strongly-to-bcbs-indian-agent-jibe-at-tamim-iqbal/articleshow/126450488.cms",
     "time": "2026-01-10T09:27:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bharat Ratna for Nitish? Jitan Ram Manjhi pushes honour for Bihar CM; urges PM Modi",
-    "desc": "Union minister Jitan Ram Manjhi has called for Bihar Chief Minister Nitish Kumar to be awarded the Bharat Ratna, expressing confidence in Prime Minister Modi's decision-making. This call follows a similar sentiment from JD(U) colleague KC Tyagi. However, the JD(U) has since clarified that Tyagi's remarks were personal and not representative of the party's stance.",
-    "img": "https://static.toiimg.com/photo/msid-126450008,imgsize-888439.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bharat-ratna-for-nitish-jitan-ram-manjhi-pushes-honour-for-bihar-cm-urges-pm-modi/articleshow/126449927.cms",
-    "time": "2026-01-10T08:40:09.000Z"
   },
   {
     "cat": "Sports",
@@ -882,15 +819,6 @@ const newsData_en = [
     "time": "2026-01-08T13:32:45.000Z"
   },
   {
-    "cat": "World",
-    "title": "Yes to red meat, no to sugar: Trump's new health guidelines",
-    "desc": "The new federal nutritional guidelines emphasise protein more than previous recommendations, releasing a flipped-pyramid graphic that places meat, dairy and healthy fats on the same tier as vegetables and fruits, with fibre-rich whole grains like oats at the bottom tip",
-    "img": "https://th-i.thgim.com/public/news/national/w0sf8e/article70485723.ece/alternates/LANDSCAPE_1200/iStock-1137312508.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/yes-to-red-meat-no-to-sugar-trumps-new-health-guidelines/article70485657.ece",
-    "time": "2026-01-08T08:04:08.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sabalenka to skip events in 2026 to prioritise her health",
     "desc": "Top players are ​obliged to compete in all four Grand Slams, 10 WTA 1000 tournaments and six WTA 500 events under WTA rules, with the punishment for missing them ranging from rankings points deductions to fines",
@@ -898,5 +826,77 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/tennis/sabalenka-to-skip-events-in-2026-to-prioritise-her-health/article70485341.ece",
     "time": "2026-01-08T05:46:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India’s progress on its climate targets",
+    "desc": "While the country has successfully reduced emissions intensity, and increased non-fossil power capacity, challenges remain in translating these achievements into absolute emissions reductions. The next few years will be critical in addressing these gaps and ensuring a sustainable future",
+    "img": "https://th-i.thgim.com/public/incoming/n2w003/article70483789.ece/alternates/LANDSCAPE_1200/IMG_COP27_India_Expectat_2_1_ACDU832Q.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/indias-progress-on-its-climate-targets/article70481985.ece",
+    "time": "2026-01-08T03:00:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Indian badminton stayed in the conversation without big conquests",
+    "desc": "Satwik and Chirag reached the climactic phase in many tournaments but failed to go the distance; Sindhu and Lakshya were not at their consistent best; the absence of depth made it a tougher pill to swallow, making the country’s presence a peripheral one at the global level",
+    "img": "https://th-i.thgim.com/public/sport/a9adjb/article70483878.ece/alternates/LANDSCAPE_1200/SATCHI.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/how-indian-badminton-stayed-in-the-conversation-without-big-conquests/article70483874.ece",
+    "time": "2026-01-07T17:52:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hazare Trophy",
+    "desc": "The batter’s move to HP, amid cut-throat competition in the Punjab team, proves to be a wise decision; he follows up his good form in the Ranji Trophy by being the highest run-scorer for the team in the ongoing Hazare Trophy",
+    "img": "https://th-i.thgim.com/public/sport/7vwbrv/article70482758.ece/alternates/LANDSCAPE_1200/PUKRAJ.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/hazare-trophy-mann-finds-a-second-lease-on-cricket-in-himachal-pradesh-colours/article70482592.ece",
+    "time": "2026-01-07T13:40:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Jana Nayagan’ movie release: Chances of Vijay-starrer hitting screens on January 9 appear bleak",
+    "desc": "Justice P.T. Asha of Madras High Court has reserved orders on production firm’s plea to grant censor certificate and is likely to pronounce them only on January 9; hours later, the film’s producers announced the postponement of its release",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/x4dotx/article70482480.ece/alternates/LANDSCAPE_1200/Jana%20Nayagan%20stills.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/jana-nayagan-movie-release-chances-of-vijay-starrer-hitting-screens-on-january-9-appear-bleak/article70482143.ece",
+    "time": "2026-01-07T13:23:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Interview",
+    "desc": "Malayalam actor, producer and social media influencer Riya Shibu is basking in the adulation coming her way post her role as the ‘Gen Z’ ghost in Nivin Pauly’s Sarvam Maya, which is having a dream run at the box office",
+    "img": "https://th-i.thgim.com/public/incoming/4raf3w/article70481628.ece/alternates/LANDSCAPE_1200/07tvm%20riya5.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/interview-malayalam-actor-producer-riya-shibu/article70476812.ece",
+    "time": "2026-01-07T10:05:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Love Mocktail 3’: Darling Krishna-Milana Nagaraj film locks release date",
+    "desc": "‘Love Mocktail 3 is set to drop in theatres in April. The new chapter in the Kannada film series brings back Darling Krishna and Milana Nagaraj, who not only star but also co-write and direct together",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/23xdf6/article70481454.ece/alternates/LANDSCAPE_1200/Love%20Mocktail.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/love-mocktail-3-release-date-love-mocktail-darling-krishna-milana-nagaraj-nakul-abhayankar-april-2026/article70481308.ece",
+    "time": "2026-01-07T08:18:59.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "SC agrees to take up plea for SOP on freezing, de-freezing bank accounts in cybercrime cases",
+    "desc": "The plea also sought appropriate guidelines to all investigating agencies, including cyber cells, to ensure no bank account gets frozen without a written order and intimation to the account holder within 24 hours of such action",
+    "img": "https://th-i.thgim.com/public/news/national/uttar-pradesh/yz3pc2/article70478495.ece/alternates/LANDSCAPE_1200/iStock-817486028.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/sc-agrees-to-take-up-plea-for-sop-on-freezing-de-freezing-bank-accounts-in-cybercrime-cases/article70478321.ece",
+    "time": "2026-01-06T13:36:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock markets fall for second day as selling in Reliance Industries, HDFC Bank dents sentiment",
+    "desc": "50-share NSE Nifty declined 71.60 points, or 0.275, to end at 26,178.70. From the 30-Sensex firms, Trent tumbled 8.62% after the Tata group's retail firm's revenue growth in the December quarter failed to cheer investors.",
+    "img": "https://th-i.thgim.com/public/incoming/saimnm/article70477966.ece/alternates/LANDSCAPE_1200/2025-12-23T004953Z_1598912984_RC2ZLIAI6HWV_RTRMADP_3_INDIA-STOCKS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/stock-markets-fall-for-second-day-as-selling-in-reliance-industries-hdfc-bank-dents-sentiment/article70477934.ece",
+    "time": "2026-01-06T12:04:59.000Z"
   }
 ];
