@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Gujarat Giants set to bat first as UP Warriorz opt to field",
+    "desc": "The stage is set for game 2 of the ongoing WPL (Women's Premier League) 2026. Gujarat Giants lock horns with UP Warriorz at the Dr. DY Patil Sports Academy in Navi Mumbai. While Gujarat will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gg-vs-upw-women-live-score-gujarat-giants-up-warriorz-wpl-cricket-match-today-dr-dy-patil-sports-academy-2026-01-10-1025274",
+    "time": "2026-01-10T09:06:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Expect him to take on Shami's role': Irfan Pathan backs star pacer to spearhead India's bowling attack",
+    "desc": "The stage is set for the upcoming multi-format white-ball series between India and New Zealand. It is worth noting that the Men in Blue will take on New Zealand across three ODIs and five T20I...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/expect-him-to-take-on-shami-s-role-irfan-pathan-backs-star-pacer-to-spearhead-india-s-bowling-attack-2026-01-10-1025270",
+    "time": "2026-01-10T08:54:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ravichandran Ashwin gives his take on England's performance after Ashes 2025-26 series loss",
+    "desc": "The Ashes 2025-26 ended on a disappointing note for England. Taking on Australia across five Test matches, the Ben Stokes-led England was only able to win one Test match and ended up losing the remaining...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-comes-to-brendon-mccullum-s-defence-after-england-lose-ashes-2025-26-2026-01-10-1025255",
+    "time": "2026-01-10T07:43:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sunil Gavaskar joins Jemimah Rodrigues for much-awaited duet, gifts her special guitar",
+    "desc": "Former India cricketer Sunil Gavaskar caught all the headlines recently. The former batter gifted a special guitar in the shape of a bat to star India women’s batter Jemimah Rodrigues. Gavaskar presented Jemimah with the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sunil-gavaskar-joins-jemimah-rodrigues-for-much-awaited-duet-gifts-her-special-guitar-watch-2026-01-10-1025247",
+    "time": "2026-01-10T06:28:18.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "PV Sindhu's Malaysia Open campaign comes to an end, loses semi-final clash to Wang Zhiyi",
     "desc": "Star Indian badminton star PV Sindhu crashed out of the ongoing Malaysia Open 2025. Taking on China’s Wang Zhiyi in the semi-final of the competition. It is interesting to note that Wang Zhiyi is ranked...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/wpl-2026-nadine-de-klerk-propels-royal-challengers-bengaluru-to-opening-day-win-against-mumbai-indians-2026-01-09-1025214",
     "time": "2026-01-09T17:49:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Took umbrage': Nasser Hussain opens up on Brendon McCullum's response to him after Ashes 2025-26 series",
-    "desc": "The Ashes 2025-26 ended in defeat for visitors England. Taking on the Aussies, England lost the first three and the fifth Test of the series, only registering a win in Melbourne in the fourth clash....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/took-umbrage-nasser-hussain-opens-up-on-brendon-mccullum-s-response-to-him-after-ashes-2025-26-series-2026-01-09-1025210",
-    "time": "2026-01-09T16:58:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ireland announce squad for T20 World Cup 2026, Paul Stirling named captain",
-    "desc": "Ireland Cricket, ahead of the T20 World Cup 2026, has come forward and announced its squad for the upcoming tournament. It is worth noting that Paul Stirling will be leading the side in the tournament...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ireland-announce-squad-for-t20-world-cup-2026-paul-stirling-named-captain-2026-01-09-1025204",
-    "time": "2026-01-09T15:18:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We are stunned': BCB official faces severe scrutiny after controversial remarks against Tamim Iqbal",
-    "desc": "BCB (Bangladesh Cricket Board) official and finance committee chairman M. Nazmul Islam has become a major talking point after he made some controversial remarks over former Bangladesh cricketer Tamim Iqbal. Nazmul came under severe scrutiny...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/we-are-stunned-bcb-official-faces-severe-scrutiny-after-controversial-remarks-against-tamim-iqbal-2026-01-09-1025199",
-    "time": "2026-01-09T14:07:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB defeat MI by three wickets in thrilling run chase",
-    "desc": "Mumbai Indians women and Royal Challengers Bengaluru women are all set to take on each other in the season opener of the WPL (Women's Premier League) 2026. The two sides will take on each other...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-rcb-women-live-score-mumbai-indians-royal-bhallengers-bengaluru-wpl-cricket-match-today-dr-dy-patil-sports-academy-1025187",
-    "time": "2026-01-09T12:39:08.000Z"
   }
 ];
