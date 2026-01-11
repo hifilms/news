@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "বাতিল ফোনেই রয়েছে সোনা! কী ভাবে বার করবেন জানেন? সহজতম পদ্ধতি আবিস্কার করলেন বিজ্ঞানীরা",
+    "desc": "আজকের ডিজিটাল যুগে, প্রতি বছর বিশ্বে লক্ষ লক্ষ টন ইলেকট্রনিক বর্জ্য তৈরি হয়। পুরনো মোবাইল, ল্যাপটপ, রিমোট, আর নষ্ট সার্কিট বোর্ডগুলিকে অনেক সময় অপ্রয়োজনীয় জিনিস মনে করে ফেলে দেওয়া হয়। কিন্তু অনেকেই জানেন না, এই e-waste এর মধ্যে লুকিয়ে আছে সোনা।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1768138382_image-2026-01-c2c98f2465bd803bc66abf3f87307c3c-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/off-beat/there-is-always-little-amount-of-gold-in-mobile-phone-and-many-gadgets-know-the-process-how-you-can-recover-rdp-2491410.html",
+    "time": "2026-01-11T14:50:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Masood Azhar's Chilling threat to India: '১টা ২টো বা ১০০০ নয়! এবার কয়েক হাজার আত্মঘাতী হামলায় উড়িয়ে দেব ভারতকে...'  মাসুদ আজহারের ভয়ংকর অডিয়ো ঘিরে চাঞ্চল্য!",
+    "desc": "ফাঁস হওয়া ওই অডিয়ো রেকর্ডিংয়ে মাসুদ আজহারকে অত্যন্ত উসকানিমূলক ভাষায় কথা বলতে শোনা যায়। তার দাবি, বর্তমানে এক হাজারেরও বেশি আত্মঘাতী বোমা হামলাকারী তার নির্দেশের অপেক্ষায় রয়েছে এবং তারা ভারতে অনুপ্রবেশের জন্য তাকে ক্রমাগত চাপ দিচ্ছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/masood-azhar-chilling-suicide-bombing-audio-warning-to-india-that-he-will-attack-with-thousands-of-attackers_634320.html ",
+    "time": "2026-01-11T12:40:22.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "স্ত্রীর গোপন ছবি ঘাঁটাঘাঁটি করা, শেয়ার করার হুমকি দেওয়া নিষ্ঠুরতার সমান: ঝাড়খণ্ড হাই কোর্ট",
     "desc": "ঝাড়খণ্ডের হাই কোর্ট বলেছে, স্বামীর অনুমতি ছাড়া স্ত্রীর ব্যক্তিগত ছবি দেখা, সেই ছবি সোশ্যাল মিডিয়ায় ছড়িয়ে দেওয়ার হুমকি এবং শারীরিক ও যৌন নির্যাতন হিন্দু বিবাহ বিধি অনুযায়ী অপরাধ হিসেবে গণ্য হবে। ঝাড়খণ্ড হাই কোর্ট বলেছে, এই ধরনের আচরণ স্বামীর দ্বারা স্ত্রীর চরিত্র হননের সমান।",
     "img": "https://images.news18.com/static-bengali/uploads/2025/03/Crime-Relationship-2025-03-93ae720d21582fd9085648cd1cf22149-3x2.jpg",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/fact-check-silver-price-drop-latest-silver-price-crash-today-mcx-silver-rates-silver-hits-record-high-silver-price-volatile-silver-price-fall-dd-2476697.html",
     "time": "2025-12-29T16:26:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "জামিনের নির্দেশে স্থগিতাদেশ সুপ্রিম কোর্টের, জেলেই থাকছেন উন্নাও কাণ্ডে সাজাপ্রাপ্ত সেঙ্গার! দেখুন ভিডিও",
-    "desc": "দিল্লি হাইকোর্টের নির্দেশের উপরে স্থগিতাদেশ জারি করে উন্নাও ধর্ষণ কাণ্ডে সাজাপ্রাপ্ত কুলদীপ সিং সেঙ্গারের জামিন স্থগিত করল সুপ্রিম কোর্ট৷ দিল্লি হাইকোর্টের রায়কে চ্যালেঞ্জ করে সুপ্রিম কোর্টে আর্জি জানায় সিবিআই৷ সেই আর্জিতেই সাডা় দিল সুপ্রিম কোর্টের প্রধান বিচারপতি সূর্য কান্তের নেতৃত্বাধীন অবসরকালীন বেঞ্চ৷ সুপ্রিম কোর্টের নির্দেশের ফলে আপাতত জেলেই থাকতে হচ্ছে প্রাক্তন বিজেপি বিধায়ক সেঙ্গারকে৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/Kuldeep-Sengar-Supreme-Court-2025-12-c04bf9adda9c7dbe1276bf5054da1c3c-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/supreme-court-puts-stay-on-bail-order-of-unnao-case-convict-kuldeep-singh-sengar-dmg-2476745.html",
-    "time": "2025-12-29T13:17:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ফুটবলে কৃতিত্ব, তিন তরুণী ফুটবলার পেলেন সরকারি চাকরি, শালবনীতে খুশির আবহ",
-    "desc": "চলতি বছর ফুটবল খেলেই চাকরি পেয়েছেন শালবনী ব্লকের কুচাকাটা গ্রামের সীমা সিং, মিরগার সুজাতা মাহাতো ও শালবনীর সুমি দাস। তবে ইতিমধ্যেই শালবনী জাগরণ রিহ্যাবিলিটেশন সোসাইটির ফুটবল একাডেমি তরফে ৪৮ জন তরুণী ফুটবলার পেয়েছেন সিভিক ভলেন্টিয়ার এর চাকরি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/HYP_5669754_cropped_29122025_113430_fb_img_1766987497621_water_1-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/3-women-football-player-from-west-medinipur-jangalmahal-got-job-for-football-playing-sup-l18-local18-2476122.html",
-    "time": "2025-12-29T12:24:37.000Z"
   }
 ];

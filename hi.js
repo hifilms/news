@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rohit Sharma sets new world record in first ODI against New Zealand as India chase 301 runs",
+    "desc": "Star India batter Rohit Sharma now holds the record of most sixes by an opener in ODI cricket history. In the first ODI against New Zealand at the BCA Stadium in Vadodara, the 38-year-old smacked...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-sets-new-world-record-in-first-odi-against-new-zealand-as-india-chase-301-runs-2026-01-11-1025424",
+    "time": "2026-01-11T14:16:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli surpasses Kumar Sangakkara, becomes second-highest run-scorer in international cricket",
+    "desc": "Virat Kohli created a couple of historical records in the first ODI between India and New Zealand on Sunday, January 11. The Indian legend surpassed Sri Lankan icon Kumar Sangakkara on the list of most...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-surpasses-kumar-sangakkara-becomes-second-highest-run-scorer-in-international-cricket-2026-01-11-1025423",
+    "time": "2026-01-11T13:47:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "DC-W vs GG-W WPL Match Score Live: Delhi Capitals opt to bowl first against Gujarat Giants",
+    "desc": "Under the new captain, Jemimah Rodrigues, Delhi Capitals suffered a hammering defeat of 50 runs in their opening game of WPL 2026. They will now eye to quickly get back into winning ways in their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-gg-women-live-score-delhi-capitals-gujarat-giants-wpl-cricket-match-today-dr-dy-patil-sports-academy-2026-01-11-1025419",
+    "time": "2026-01-11T13:32:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli, Rohit Sharma receive special felicitation at BCA Stadium during IND vs NZ 1st ODI",
+    "desc": "Virat Kohli and Rohit Sharma are in action as India face New Zealand in the first ODI of the three-match series at the BCA Stadium in Vadodara. The Men in Blue are in action for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-rohit-sharma-receive-special-felicitation-at-bca-stadium-during-ind-vs-nz-1st-odi-2026-01-11-1025418",
+    "time": "2026-01-11T13:30:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli breaks Sachin Tendulkar's world record, creates history during IND vs NZ 1st ODI",
+    "desc": "India batting icon Virat Kohli etched his name into the history books during the first ODI between India and New Zealand at the BCA Stadium in Vadodara on Sunday, January 11. During the second innings...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-breaks-sachin-tendulkars-world-record-creates-history-during-ind-vs-nz-1st-odi-2026-01-11-1025416",
+    "time": "2026-01-11T13:21:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pakistan offer to host Bangladesh matches in T20 World Cup 2026 if no resolution found",
     "desc": "With the T20 World Cup 2026 approaching, uncertainty has emerged around Bangladesh’s participation after concerns were raised about travelling to India. The situation has prompted contingency discussions involving multiple boards as the International Cricket Council...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-surpasses-sourav-ganguly-in-elite-list-achieves-major-milestone-in-first-odi-against-new-zealand-2026-01-11-1025388",
     "time": "2026-01-11T09:24:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India opt to field first in Vadodara, Shreyas Iyer makes much-awaited return",
-    "desc": "The first ODI of the ongoing series between India and New Zealand saw the two sides lock horns at the Kotambi Stadium in Vadodara. The teams locked horns on January 11, and the series kicked...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-1st-odi-india-opt-to-field-first-in-vadodara-shreyas-iyer-makes-much-awaited-return-2026-01-11-1025383",
-    "time": "2026-01-11T08:11:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Jasprit Bumrah not playing in IND vs NZ 1st ODI in Vadodara? Explained",
-    "desc": "India take on New Zealand in a three-match ODI series with the first clash taking place at the BCA Stadium, Kotambi, Vadodara. The Men in Blue return to action for the first time in 2026...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-jasprit-bumrah-not-playing-in-ind-vs-nz-1st-odi-in-bca-stadium-kotambi-vadodara-explained-india-vs-new-zealand-hardik-pandya-2026-01-11-1025381",
-    "time": "2026-01-11T07:56:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Hardik Pandya not playing for India in 1st ODI today vs New Zealand?",
-    "desc": "Team India locks horns with New Zealand in the first of three ODIs of the ongoing series. The two sides take on each other at the Kotambi Stadium in Vadodara on January 11. With the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-hardik-pandya-not-playing-for-india-in-1st-odi-today-vs-new-zealand-2026-01-11-1025376",
-    "time": "2026-01-11T07:32:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma, Shubman Gill out in middle in run chase in Vadodara",
-    "desc": "India look to pile up pressure on New Zealand after opting to bowl in the first ODI of the three-match series at the BCA Stadium, Kotambi, Vadodara. India captain Shubman Gill won the toss and opted...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-1st-odi-live-cricket-score-india-vs-new-zealand-2026-latest-match-updates-scorecard-ball-by-ball-commentary-rohit-sharma-virat-kohli-2026-01-11-1025372",
-    "time": "2026-01-11T07:17:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I miss him': Former South Africa cricketer gives his take on Virat Kohli's 'early' retirement from Tests",
-    "desc": "The stage is set for the upcoming white-ball multi-format series between India and New Zealand. The two sides will take on each other in the first ODI at the Kotambi Stadium in Vadodara on January...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/i-miss-him-former-south-africa-cricketer-gives-his-take-on-virat-kohli-s-early-retirement-from-tests-2026-01-11-1025366",
-    "time": "2026-01-11T06:27:44.000Z"
   }
 ];
