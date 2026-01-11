@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "স্ত্রীর গোপন ছবি ঘাঁটাঘাঁটি করা, শেয়ার করার হুমকি দেওয়া নিষ্ঠুরতার সমান: ঝাড়খণ্ড হাই কোর্ট",
+    "desc": "ঝাড়খণ্ডের হাই কোর্ট বলেছে, স্বামীর অনুমতি ছাড়া স্ত্রীর ব্যক্তিগত ছবি দেখা, সেই ছবি সোশ্যাল মিডিয়ায় ছড়িয়ে দেওয়ার হুমকি এবং শারীরিক ও যৌন নির্যাতন হিন্দু বিবাহ বিধি অনুযায়ী অপরাধ হিসেবে গণ্য হবে। ঝাড়খণ্ড হাই কোর্ট বলেছে, এই ধরনের আচরণ স্বামীর দ্বারা স্ত্রীর চরিত্র হননের সমান।",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/03/Crime-Relationship-2025-03-93ae720d21582fd9085648cd1cf22149-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/accessing-wifes-personal-photos-and-threatening-her-to-share-them-is-cruelty-says-jharkhand-high-court-rdp-2491252.html",
+    "time": "2026-01-11T10:49:58.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "ফ্রিজ কেন দেওয়ালে ঠেকিয়ে রাখতে নেই? অনেকেই জানেন না, অজান্তে বড় বিপদ ডেকে আনতে পারেন, সাবধান!",
     "desc": "फ्रिज में विस्फोट कैसे होता है, कंप्रेसर ब्लास्ट के पीछे क्या कारण हैं, पुराने रेफ्रिजरेटर से कितना खतरा है और घर में फ्रिज सुरक्षित रखने के लिए किन सावधानियों का पालन करना जरूरी है. जानें सभी जरूरी टिप्स...",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/sports/3-women-football-player-from-west-medinipur-jangalmahal-got-job-for-football-playing-sup-l18-local18-2476122.html",
     "time": "2025-12-29T12:24:37.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "বাজেটের মধ্যে সেরা ৫ স্মার্টফোন! ১৫ হাজার থেকে ২০ হাজারের মধ্যে এই ফোনগুলির ফিচার অবাক করার মতন!",
-    "desc": "২০,০০০-এর নিচে বাজেটের ২০২৫-এর সেরা স্মার্টফোনগুলির তালিকা দেখুন।Nothing CMF Phone 2 Pro, Oppo K13x, Vivo T4x, Realme P4x এবং Infinix GT 30-এর মতো ফোনগুলো দমদার ব্যাটারি, চমৎকার ডিসপ্লে এবং অসাধারণ পারফরম্যান্স নিয়ে এসেছে, যা ২০২৫ সালে বাজারে ধামাকা এনেছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/1767004393_1766910790_Nothing-Phone-3-call-record-button-update-2025-10-edf6acd4c9937ab2eddf41880a7cd66b-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/technology/best-budget-phone-of-2025-which-becomes-talk-of-the-town-list-includes-oppo-smc-2476478.html",
-    "time": "2025-12-29T11:19:52.000Z"
   }
 ];

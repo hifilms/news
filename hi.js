@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pakistan offer to host Bangladesh matches in T20 World Cup 2026 if no resolution found",
+    "desc": "With the T20 World Cup 2026 approaching, uncertainty has emerged around Bangladesh’s participation after concerns were raised about travelling to India. The situation has prompted contingency discussions involving multiple boards as the International Cricket Council...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-offer-to-host-bangladesh-matches-in-t20-world-cup-2026-if-no-resolution-found-2026-01-11-1025408",
+    "time": "2026-01-11T12:05:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What happened to Washington Sundar? Why all-rounder walked off field during IND vs NZ 1st ODI?",
+    "desc": "India lock horns against New Zealand in the first ODI of the three-match series at the BCA Stadium in Kotambi as the Men in Blue look to make the most of the series. India won the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-happened-to-washington-sundar-why-all-rounder-walked-off-field-during-ind-vs-nz-1st-odi-2026-01-11-1025404",
+    "time": "2026-01-11T11:41:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli hits snake charmer celebration after Glenn Phillips' dismissal in IND vs NZ 1st ODI: Watch",
+    "desc": "Star India batter was spotted celebrating like a snake charmer after Shreyas Iyer completed a catch to dismiss Glenn Phillips in the first ODI between India and New Zealand at the BCA Stadium in Vadodara....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-hits-snake-charmer-celebration-after-glenn-phillips-dismissal-in-ind-vs-nz-1st-odi-watch-2026-01-11-1025399",
+    "time": "2026-01-11T10:52:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sourav Ganguly names India's potential MVP in T20 World Cup 2026",
+    "desc": "Former captain Sourav Ganguly weighs India’s chances in the upcoming T20 World Cup, starting next month. Speaking on the same, he pointed that the hosts will once again start as favourites and noted that if...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sourav-ganguly-names-india-s-potential-mvp-in-t20-world-cup-2026-2026-01-11-1025397",
+    "time": "2026-01-11T10:23:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli surpasses Sourav Ganguly in elite list, achieves major milestone in first ODI against New Zealand",
+    "desc": "India kicked off their multi-format white-ball series against New Zealand. The two sides locked horns in the first ODI of the series at the Kotambi Stadium in Vadodara on January 11. With the likes of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-surpasses-sourav-ganguly-in-elite-list-achieves-major-milestone-in-first-odi-against-new-zealand-2026-01-11-1025388",
+    "time": "2026-01-11T09:24:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India opt to field first in Vadodara, Shreyas Iyer makes much-awaited return",
     "desc": "The first ODI of the ongoing series between India and New Zealand saw the two sides lock horns at the Kotambi Stadium in Vadodara. The teams locked horns on January 11, and the series kicked...",
     "img": "",
@@ -28,8 +73,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "New Zealand keep India wicketless in powerplay in Vadodara",
-    "desc": "India lock horns against New Zealand in the first ODI of the three-match series at the BCA Stadium, Kotambi, Vadodara. Stalwarts Rohit Sharma and Virat Kohli are back in action in the series, while Shreyas Iyer...",
+    "title": "Rohit Sharma, Shubman Gill out in middle in run chase in Vadodara",
+    "desc": "India look to pile up pressure on New Zealand after opting to bowl in the first ODI of the three-match series at the BCA Stadium, Kotambi, Vadodara. India captain Shubman Gill won the toss and opted...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-1st-odi-live-cricket-score-india-vs-new-zealand-2026-latest-match-updates-scorecard-ball-by-ball-commentary-rohit-sharma-virat-kohli-2026-01-11-1025372",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/i-miss-him-former-south-africa-cricketer-gives-his-take-on-virat-kohli-s-early-retirement-from-tests-2026-01-11-1025366",
     "time": "2026-01-11T06:27:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dhruv Jurel named as replacement for Rishabh Pant in India's ODI squad to take on New Zealand",
-    "desc": "The BCCI (Board of Control for Cricket in India) stepped forward and announced star batter Dhruv Jurel as the official replacement for Rishabh Pant in India's ODI squad to face New Zealand. It is worth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dhruv-jurel-named-as-replacement-for-rishabh-pant-in-india-s-odi-squad-to-take-on-new-zealand-2026-01-11-1025357",
-    "time": "2026-01-11T05:05:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill, Shreyas Iyer on the cusp of major milestones ahead of ODI series against New Zealand",
-    "desc": "Team India is all set to kick off their multi-format white-ball series against New Zealand. The two sides will lock horns at the Kotambi Stadium in Vadodara for the first ODI of the series on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-shreyas-iyer-on-the-cusp-of-major-milestones-ahead-of-odi-series-against-new-zealand-2026-01-11-1025347",
-    "time": "2026-01-11T03:44:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND vs NZ, Vadodara, weather report: Will rain spoil 1st ODI of the upcoming multi-format series?",
-    "desc": "The stage is set for the first of three ODIs between India and New Zealand. The two sides are slated to lock horns at the BCA Stadium in Vadodara on January 11. It is worth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-vadodara-weather-report-will-rain-spoil-1st-odi-of-the-upcoming-multi-format-series-2026-01-11-1025340",
-    "time": "2026-01-11T02:38:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ryan Rickelton achieves major milestone with stellar century against Joburg Super Kings",
-    "desc": "Game 20 of the ongoing SA20 2025-26 saw MI Cape Town taking on Joburg Super Kings. The two sides locked horns at the Wanderers Stadium, Johannesburg, on January 10. The game belonged to Cape Town...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ryan-rickelton-achieves-major-milestone-with-stellar-century-against-joburg-super-kings-2026-01-11-1025337",
-    "time": "2026-01-11T01:39:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant ruled out of ODI series vs New Zealand, know why",
-    "desc": "India’s wicketkeeper-batter Rishabh Pant has been ruled out of the three-match ODI series against New Zealand, beginning January 11, due to an abdominal injury. The 28-year-old experienced discomfort on the right side of his abdomen...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-ruled-out-of-odi-series-vs-new-zealand-know-why-2026-01-10-1025329",
-    "time": "2026-01-10T17:55:10.000Z"
   }
 ];
