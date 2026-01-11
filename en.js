@@ -1,5 +1,104 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Myanmar votes in second phase of military-run election",
+    "desc": "The military-backed Union Solidarity and Development Party is leading by a huge margin after winning 90 of the 102 lower house seats contested in the first phase on December 28, 2025, which saw only 52.13% voter turnout, much lower than elections ‌in 2020 and 2015",
+    "img": "https://th-i.thgim.com/public/incoming/2aq27g/article70496866.ece/alternates/LANDSCAPE_1200/Myanmar_Election_55630.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/myanmar-election-second-phase-updates-january-11-2026/article70496865.ece",
+    "time": "2026-01-11T01:28:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Finance minister chairs pre-budget consultation meeting with states, Union territories",
+    "desc": "Along with Union Minister for State for Finance Pankaj Chaudhary, the meeting was also attended by Governor of Manipur; Chief Ministers of Delhi, Goa, Haryana, Jammu and Kashmir, Meghalaya, and Sikkim; Deputy Chief Ministers of Arunachal Pradesh, Madhya Pradesh, Odisha, Rajasthan and Telangana; the Finance Ministers of States/UTs, besides Secretaries of Departments of Economic Affairs, Expenditure, and Revenue, and senior officials of the Ministry of Finance.",
+    "img": "https://static.toiimg.com/photo/msid-126460616,imgsize-779174.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/finance-minister-chairs-pre-budget-consultation-meeting-with-states-union-territories/articleshow/126460610.cms",
+    "time": "2026-01-11T01:17:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Millie Bobby Brown and Sadie Sink step into their next chapter",
+    "desc": "As 'Stranger Things' concludes, stars Millie Bobby Brown and Sadie Sink are embarking on new, mature roles. Brown stars in a rom-com and a ghost thriller, while Sink captivates in a sci-fi mystery and emotionally charged dramas. Netflix and other platforms will host these exciting new projects, keeping the magic alive.",
+    "img": "https://static.toiimg.com/photo/msid-126460591,imgsize-867510.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/stranger-things-to-stardom-millie-bobby-brown-and-sadie-sink-step-into-their-next-chapter/articleshow/126460590.cms",
+    "time": "2026-01-11T01:17:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Theri' re-release: Atlee's film clocks 10 years",
+    "desc": "Thalapathy Vijay's blockbuster 'Theri' is set for a grand theatrical re-release on January 15, 2026, marking its tenth anniversary. This news brings cheer to fans amidst the delay of Vijay's final film, 'Jana Nayagan'. The producer of 'Jana Nayagan' has apologized for the postponement due to certification issues, assuring a memorable farewell for the superstar.",
+    "img": "https://static.toiimg.com/photo/msid-126460589,imgsize-50366.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijays-theri-to-re-release-amid-jana-nayagan-delay-atlees-film-clocks-10-years/articleshow/126460589.cms",
+    "time": "2026-01-11T01:16:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Ikkis’ earns Rs 27.55 crore in 10 days",
+    "desc": "Agastya Nanda's debut film, 'Ikkis,' has crossed Rs 27.55 crore at the box office. After a dip on Friday, weekend collections saw a boost, bringing the war drama closer to the Rs 30 crore mark. The film, set during the 1971 India-Pakistan war, features Nanda as Second Lieutenant Arun Khetarpa.",
+    "img": "https://static.toiimg.com/photo/msid-126460382,imgsize-29852.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ikkis-box-office-collection-day-10-agastya-nandas-debut-film-sees-some-growth-amid-dhurandhar-and-the-raja-saab-wave/articleshow/126460382.cms",
+    "time": "2026-01-11T00:57:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar' BO: Ranveer’s film mints Rs 5.75 cr on day 37",
+    "desc": "Ranveer Singh's spy thriller 'Dhurandhar' has enjoyed a dominant run, nearing Rs 800 crore domestically and over Rs 1200 crore globally. However, the film's reign is challenged by Prabhas's new release, 'The Raja Saab,' which has significantly outperformed 'Dhurandhar' in its opening days, signaling a shift in box office dominance.",
+    "img": "https://static.toiimg.com/photo/msid-126460466,imgsize-25566.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-37-ranveer-singh-akshaye-khannas-film-mints-rs-5-75-crore-on-saturday-amid-the-raja-saab-buzz/articleshow/126460472.cms",
+    "time": "2026-01-11T00:40:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Sarvam Maya' BO day 17: Nivin Pauly film still going strong",
+    "desc": "Despite being in its third week, 'Sarvam Maya' continues to draw audiences, amassing over Rs 62 crore at the box office. The film saw a significant surge in collections on its 17th day, with occupancy rates climbing throughout Saturday. Viewers are praising the movie for its refreshing narrative and heartfelt performances, particularly highlighting Nivin Pauly and newcomer Riya Shibu.",
+    "img": "https://static.toiimg.com/photo/msid-126460449,imgsize-43414.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/sarvam-maya-box-office-collections-day-17-nivin-pauly-film-still-going-strong-crosses-rs-62-crore/articleshow/126460449.cms",
+    "time": "2026-01-11T00:39:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Parasakthi' BO day 1: Sivakarthikeyan film opens well",
+    "desc": "Sivakarthikeyan's 'Parasakthi' has launched strongly at the box office, raking in approximately ₹11.50 crore on its opening day in India. The film saw impressive occupancy rates throughout Saturday, peaking at 79.04% for night shows. Directed by Sudha Kongara, the movie features a star-studded cast and has been praised for its ambitious narrative and emotional depth, earning a 3.",
+    "img": "https://static.toiimg.com/photo/msid-126460393,imgsize-38792.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-box-office-collections-day-1-sivakarthikeyan-film-opens-well-crosses-rs-11-crore-mark/articleshow/126460393.cms",
+    "time": "2026-01-11T00:25:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Raja Saab' BO day 2: Prabhas film sees big drop",
+    "desc": "Prabhas's 'The Raja Saab' experienced a significant box office drop on its second day, earning Rs 27.83 crore after a strong opening. The film has garnered Rs 90.73 crore net in India and Rs 138.4 crore worldwide in two days. While Telugu collections are robust, other language performances are lagging, and audience reviews highlight issues with storytelling and execution.",
+    "img": "https://static.toiimg.com/photo/msid-126460363,imgsize-51504.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-box-office-collections-day-2-prabhas-film-sees-big-drop-earns-rs-27-83-crore/articleshow/126460363.cms",
+    "time": "2026-01-11T00:12:07.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "How will the U.S. exit affect climate action?",
+    "desc": "Why has U.S. President Donald Trump moved to withdraw the U.S. from the UN Framework Convention on Climate Change and the UN Intergovernmental Panel on Climate Change? What will be the financial impact? What will it mean for international cooperation on climate change?",
+    "img": "https://th-i.thgim.com/public/incoming/8trbel/article70496009.ece/alternates/LANDSCAPE_1200/APTOPIX_Climate_US_Withdrawal_59354.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/how-will-the-us-exit-affect-climate-action-explained/article70495576.ece",
+    "time": "2026-01-10T23:40:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why was bail denied to Umar and Sharjeel?",
+    "desc": "Why did the Unlawful Activities (Prevention) Act bail bar prevail against Umar Khalid and Sharjeel Imam? Why were the two student activists on a ‘qualitatively different footing’, according to the top court? How does the verdict mark a departure from judicial precedent?",
+    "img": "https://th-i.thgim.com/public/incoming/f8h2mu/article70496007.ece/alternates/LANDSCAPE_1200/IMG_Cover_story___Umar_K_2_1_PI8D7OG8.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/why-was-bail-denied-to-umar-and-sharjeel-explained/article70495546.ece",
+    "time": "2026-01-10T23:20:00.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Moody’s changes Shriram Finance’s outlook to positive from stable",
     "desc": "“The investment by MUFG Bank will provide strategic benefits, including a stronger capital base, access to global expertise and funding channels, and will further improve SFL’s funding diversity and risk management practices over time,” Moody’s said",
@@ -70,6 +169,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kriti-sanons-rumoured-boyfriend-kabir-bahia-mouni-roy-disha-patani-drop-pics-from-nupur-sanon-stebin-bens-wedding-in-udaipur-see-inside/articleshow/126455954.cms",
     "time": "2026-01-10T17:39:55.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Mississippi man accused of killing six, including 7-year-old child",
+    "desc": "Daricka Moore is accused of shooting his father, brother and uncle fatally in the ‌head before stealing a ‌truck and driving to a second site where he allegedly attempted to sexually assault ‍a 7-year-old girl",
+    "img": "https://th-i.thgim.com/public/incoming/kz7tz7/article70495816.ece/alternates/LANDSCAPE_1200/iStock-926719206.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/several-killed-mississippi-shooting-updates/article70495812.ece",
+    "time": "2026-01-10T17:36:22.000Z"
   },
   {
     "cat": "Politics",
@@ -163,15 +271,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Uttarakhand Tourism launches pan-India roadshow to promote year-round travel",
-    "desc": "Uttarakhand Tourism has launched its inaugural nationwide roadshow campaign, commencing in New Delhi, to promote the state as a year-round destination. The initiative aims to showcase diverse offerings, including adventure, culture, and wellness, across all seasons to foster a 365-day tourism economy.",
-    "img": "https://static.toiimg.com/photo/msid-126455035,imgsize-1287301.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/uttarakhand-tourism-launches-pan-india-roadshow-to-promote-year-round-travel/articleshow/126454924.cms",
-    "time": "2026-01-10T16:01:46.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "SIT conducts protracted search and seizure operation at Sabarimala senior Tantri’s private residence in Chengannur",
     "desc": "Officials say the SIT reportedly focussed on creating an inventory of artefacts, including gold ornaments, in Rajeevaru’s possession to audit their provenance and confiscate the objects, including bank statements and legal documents, pertaining to the case",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -187,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nupur-sanon-and-stebin-bens-romantic-pictures-together-ahead-of-the-dreamy-wedding/photostory/126454747.cms",
     "time": "2026-01-10T15:37:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Attempted' to offer namaz; family claims mental illness",
-    "desc": "A 55-year-old man from Jammu and Kashmir was detained in Ayodhya after allegedly attempting to offer namaz inside the Ram Mandir complex. Security personnel intervened, and the man was handed over to police. His family claims he is mentally ill and has a history of leaving home without notice. Investigations are ongoing to determine his intent.",
-    "img": "https://static.toiimg.com/photo/msid-126454719,imgsize-1660616.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kashmiri-man-detained-at-ram-mandir-attempted-to-offer-namaz-family-claims-mental-illness/articleshow/126454698.cms",
-    "time": "2026-01-10T15:35:22.000Z"
   },
   {
     "cat": "Entertainment",
@@ -232,15 +322,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/netanyahu-hopes-to-taper-israel-off-us-military-aid-in-next-decade/article70495303.ece",
     "time": "2026-01-10T15:14:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Sanjha Shakti': Indian Army conducts exercise to boost civil–military coordination in Southern Command",
-    "desc": "The Indian Army recently conducted 'Exercise Sanjha Shakti,' a joint military-civil fusion drill at Dighi Hills Range. Over 350 personnel from the Army and 16 civilian agencies, including police and fire departments, participated. The exercise aimed to bolster coordination for complex security challenges and emergency response, enhancing civil-military synergy for public safety and disaster management.",
-    "img": "https://static.toiimg.com/photo/msid-126454558,imgsize-1089746.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sanjha-shakti-indian-army-conducts-exercise-to-boost-civilmilitary-coordination-in-southern-command/articleshow/126454551.cms",
-    "time": "2026-01-10T15:12:14.000Z"
   },
   {
     "cat": "Entertainment",
@@ -288,15 +369,6 @@ const newsData_en = [
     "time": "2026-01-10T14:17:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Did Nina Dobrev welcome the New Year with ex Glen Powell",
-    "desc": "Nina Dobrev welcomed 2026 with a sun-soaked vacation in St. Barts, which notably included her ex-boyfriend Glen Powell and his rumored girlfriend, Michelle Randolph. The group was seen enjoying various activities together, sparking fan attention. Dobrev's post also featured celebrity friends like Miles Teller and Alix Earle, highlighting a friendly reunion.",
-    "img": "https://static.toiimg.com/photo/msid-126453779,imgsize-50280.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/did-nina-dobrev-welcome-the-new-year-with-ex-glen-powell-and-his-rumored-girlfriend-heres-what-we-know/articleshow/126453792.cms",
-    "time": "2026-01-10T14:04:48.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Why ExxonMobil thinks Venezuela is 'uninvestable'",
     "desc": "This collapse is central to the scepticism voiced by oil companies. Restoring production on a meaningful scale is not a matter of restarting wells. It would require rebuilding pipelines, upgraders, refineries, power supply and skilled manpower, all of which demand long-term capital commitments.",
@@ -324,15 +396,6 @@ const newsData_en = [
     "time": "2026-01-10T13:38:32.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Nivin Pauly’s ‘Baby Girl’ to hit the big screens soon",
-    "desc": "Nivin Pauly's next film, 'Baby Girl,' is set for release, with the actor sharing a new poster where he's seen as a nurse holding a newborn. Directed by Arun Varma, the film features a notable cast and is penned by the acclaimed Bobby and Sanjay duo. This comes after his recent success with 'Sarvam Maya,' which entered the 100-crore club.",
-    "img": "https://static.toiimg.com/photo/msid-126453169,imgsize-49950.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/nivin-paulys-baby-girl-to-hit-the-big-screens-soon/articleshow/126453169.cms",
-    "time": "2026-01-10T13:28:56.000Z"
-  },
-  {
     "cat": "World",
     "title": "Plumes of smoke in Aleppo as truce fails; Syrian Army and SDF clash",
     "desc": "Plumes of smoke and gunfire were reported in Aleppo after fresh clashes broke out between the Syrian army and Kurdish-led Syrian Democratic Forces (SDF). The violence followed the collapse of a temporary ceasefire meant to halt days of deadly fighting. At least nine civilians have been killed.",
@@ -349,15 +412,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/markets/techno-paints-to-file-drhp-for-500-crore-ipo-in-fy27/article70494683.ece",
     "time": "2026-01-10T13:09:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajisha’s dance number wins peers, draws criticism online",
-    "desc": "Rajisha Vijayan's bold new look in the song 'Komala Thaamara' from 'Masthishkamaranam' has garnered praise from industry peers and audiences alike. However, some netizens are questioning her decision, citing past statements where she expressed discomfort with objectification in dance numbers.",
-    "img": "https://static.toiimg.com/photo/msid-126453057,imgsize-61002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/rajisha-vijayans-dance-number-komala-thaamara-wins-peers-draws-criticism-online/articleshow/126453057.cms",
-    "time": "2026-01-10T13:00:34.000Z"
   },
   {
     "cat": "Sports",
@@ -397,48 +451,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'O Romeo' teaser X review",
-    "desc": "Shahid Kapoor's 'O Romeo' teaser has ignited social media buzz. Fans are praising Kapoor's intense performance and stylish avatar, while veteran actress Farida Jalal's unexpected on-screen swearing has become a major talking point. The film, exploring themes of love and betrayal, promises a visually rich and action-packed experience, with audiences eagerly anticipating its release.",
-    "img": "https://static.toiimg.com/photo/msid-126452608,imgsize-710963.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/o-romeo-teaser-x-review-netizens-hail-shahid-kapoors-rugged-look-while-farida-jalal-leaves-them-shocked/articleshow/126452507.cms",
-    "time": "2026-01-10T12:22:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kalyani on Bollywood buzz and Ranveer's ‘Pralay’ rumors",
-    "desc": "Kalyani Priyadarshan, Priyadarshan's daughter, is rumored for Bollywood debut with Ranveer Singh in zombie film 'Pralay'. She told Hindustan Times good scripts always find her across languages, she's greedy for stories, and Hindi offers persist post-Lokah. Language barriers don't exist—emotion is universal.",
-    "img": "https://static.toiimg.com/photo/msid-126452572,imgsize-19344.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kalyani-priyadarshan-on-bollywood-buzz-and-ranveer-singhs-pralay-rumors-good-stories-have-always-found-me/articleshow/126452572.cms",
-    "time": "2026-01-10T12:20:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "R.K. Selvamani supports Ilaiyaraaja in Court",
-    "desc": "A Chennai court heard a music rights dispute involving composer Ilaiyaraaja's songs. The case concerns usage on digital platforms. Ilaiyaraaja testified that 1997 contracts only covered audio release, not digital. Director R.K. Selvamani supported Ilaiyaraaja's claim to exclusive rights. The court adjourned the hearing to January 20. This case could impact music copyright in Tamil cinema.",
-    "img": "https://static.toiimg.com/photo/msid-126452498,imgsize-34778.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/r-k-selvamani-supports-ilaiyaraaja-in-court-highlights-composers-ownership-of-songs-amid-digital-rights-debate/articleshow/126452511.cms",
-    "time": "2026-01-10T12:17:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Dhurandhar' box office collection day 37 Vs 'The Raja Saab day 2 (LIVE)",
     "desc": "Dhurandhar earned Rs 3.4 crore on its sixth Friday, potentially impacted by The Raja Saab's release. While Stree 2 saw more on its equivalent day due to cinema day, Dhurandhar's weekend might outperform it. The Raja Saab could experience a weekend drop due to mixed reviews and word-of-mouth.",
     "img": "https://static.toiimg.com/photo/msid-126452227,imgsize-38624.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-37-live-the-ranveer-singh-film-nears-rs-800-crore-on-sixth-saturday-after-seeing-drop-on-friday-due-to-the-release-of-prabhas-the-raja-saab/articleshow/126452227.cms",
     "time": "2026-01-10T12:06:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'It's an amazing experience'",
-    "desc": "For Ariana Grande, acting is an extraordinary adventure that allows her to step into various personas, differing from the personal connections she forges through her music. She relishes the opportunity to add her voice to a collective narrative, calling it a 'remarkable experience.",
-    "img": "https://static.toiimg.com/photo/msid-126452361,imgsize-16998.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/its-an-amazing-experience-ariana-grande-on-acting/articleshow/126452361.cms",
-    "time": "2026-01-10T12:05:24.000Z"
   },
   {
     "cat": "Business",
@@ -576,15 +594,6 @@ const newsData_en = [
     "time": "2026-01-10T08:33:19.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Treasury has enough funds if Trump’s tariffs are struck down; when refunds could begin",
-    "desc": "Treasury Secretary Scott Bessent stated the department has ample funds for tariff refunds if the Supreme Court rules against President Trump's emergency tariffs, though payments could take over a year. He expressed doubt about such a ruling, calling potential refunds a \"corporate boondoggle\" if companies passed costs to consumers.",
-    "img": "https://static.toiimg.com/photo/msid-126449147,imgsize-78102.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-supreme-court-ruling-treasury-has-enough-funds-if-trumps-tariffs-are-struck-down-when-refunds-could-begin/articleshow/126448985.cms",
-    "time": "2026-01-10T07:28:30.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India targets 12 gold medals at 2036 Olympics",
     "desc": "India is significantly raising its Olympic medal ambitions, targeting 12-14 gold and 30-35 overall medals for the 2036 Games, while also bidding to host. A long-term strategy aims for 30-35 gold and 100 total medals by 2048, positioning India among the top sporting nations.",
@@ -603,15 +612,6 @@ const newsData_en = [
     "time": "2026-01-10T05:56:08.000Z"
   },
   {
-    "cat": "Business",
-    "title": "US 500% tariff threat: Garment exporters will ‘have to take risk’; traders brace for next shock",
-    "desc": "Indian garment makers face a potential 500% US tariff threat, jeopardizing export prospects for the fall-winter cycle. Buyers are hesitant, and the industry is still recovering from previous 50% duties. Manufacturers are proceeding with production despite uncertainty, fearing a 500% tariff would effectively halt exports to the US.",
-    "img": "https://static.toiimg.com/photo/msid-126448123,imgsize-167052.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/us-500-tariff-threat-garment-exporters-will-have-to-take-risk-traders-brace-for-next-possible-shock/articleshow/126448007.cms",
-    "time": "2026-01-10T05:51:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'After the T20 WC final, I never thought I would be dropped again': Axar Patel",
     "desc": "Axar Patel, now India's T20I vice-captain, reflects on his journey of growth and maturity as a cricketer. He credits past setbacks for building resilience and a clear mindset, enabling him to perform under pressure. Patel emphasizes his evolution as a specialist all-rounder, no longer seen as a backup, and his confidence in his batting abilities.",
@@ -628,15 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-repeats-claim-of-stopping-india-pakistan-conflict-says-obama-didnt-do-anything-to-win-nobel/article70493663.ece",
     "time": "2026-01-10T05:01:42.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘If you want to go in…’: Oil chiefs express caution as Trump pushes oil plan — what happened at the meeting",
-    "desc": "President Trump met with oil executives to discuss investments in Venezuela's oil sector following President Maduro's capture, presenting the country as secure for business. Industry leaders expressed caution, with one stating Venezuela is currently \"uninvestable\" without significant reforms. The US administration plans to manage company access to Venezuela's oil resources, sidelining Caracas from negotiations.",
-    "img": "https://static.toiimg.com/photo/msid-126447042,imgsize-73978.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/if-you-want-to-go-in-oil-chiefs-express-caution-amid-trumps-100bn-oil-plan-in-venezuela-what-happened-at-the-meeting/articleshow/126446868.cms",
-    "time": "2026-01-10T04:50:26.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/stock-markets-fall-for-second-day-as-selling-in-reliance-industries-hdfc-bank-dents-sentiment/article70477934.ece",
     "time": "2026-01-06T12:04:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Run Away’ series review: Perfect pulp to kick off the New Year",
+    "desc": "James Nesbitt and Minnie Driver as desperate parents of a vulnerable missing teenager form just one curly strand of spaghetti in this Harlan Coben adaptation, which also features a pair of good-looking killers and a murderous cult",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/ak5kho/article70477316.ece/alternates/LANDSCAPE_1200/AAAAQTXqXqc9iC-nS0u-QIyqogmzke5ZMTGdtewt3m-WdCDvVjiewdIHoRVizkoPXRUv4Lq1O9Bqu9or8L7dUTr3aOkAjhmLKnVPwlk8mgp7hS5sZHvb9FK_kY1Divooomf4vdBvQi7i18IzSfRR62tmng5C5nA.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/run-away-series-review-perfect-pulp-to-kick-off-the-new-year/article70477206.ece",
+    "time": "2026-01-06T09:18:11.000Z"
   }
 ];

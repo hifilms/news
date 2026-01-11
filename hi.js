@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ryan Rickelton achieves major milestone with stellar century against Joburg Super Kings",
+    "desc": "Game 20 of the ongoing SA20 2025-26 saw MI Cape Town taking on Joburg Super Kings. The two sides locked horns at the Wanderers Stadium, Johannesburg, on January 10. The game belonged to Cape Town...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ryan-rickelton-achieves-major-milestone-with-stellar-century-against-joburg-super-kings-2026-01-11-1025337",
+    "time": "2026-01-11T01:39:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Rishabh Pant ruled out of ODI series vs New Zealand, know why",
     "desc": "India’s wicketkeeper-batter Rishabh Pant has been ruled out of the three-match ODI series against New Zealand, beginning January 11, due to an abdominal injury. The 28-year-old experienced discomfort on the right side of his abdomen...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-reacts-to-being-dropped-from-t20-world-cup-2026-squad-says-i-am-where-i-am-supposed-to-be-2026-01-10-1025283",
     "time": "2026-01-10T10:40:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neeraj Chopra parts ways with coach Jan Zelezny, know what happened",
-    "desc": "Olympic gold medallist Neeraj Chopra has brought an end to his short but high-profile coaching association with Czech legend Jan Zelezny, concluding a partnership that lasted just one competitive season. The decision was confirmed through...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/neeraj-chopra-parts-ways-with-coach-jan-zelezny-know-what-happened-2026-01-10-1025279",
-    "time": "2026-01-10T10:05:38.000Z"
   }
 ];
