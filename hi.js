@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India opt to field first in Vadodara, Shreyas Iyer makes much-awaited return",
+    "desc": "The first ODI of the ongoing series between India and New Zealand saw the two sides lock horns at the Kotambi Stadium in Vadodara. The teams locked horns on January 11, and the series kicked...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-1st-odi-india-opt-to-field-first-in-vadodara-shreyas-iyer-makes-much-awaited-return-2026-01-11-1025383",
+    "time": "2026-01-11T08:11:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Jasprit Bumrah not playing in IND vs NZ 1st ODI in Vadodara? Explained",
+    "desc": "India take on New Zealand in a three-match ODI series with the first clash taking place at the BCA Stadium, Kotambi, Vadodara. The Men in Blue return to action for the first time in 2026...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-jasprit-bumrah-not-playing-in-ind-vs-nz-1st-odi-in-bca-stadium-kotambi-vadodara-explained-india-vs-new-zealand-hardik-pandya-2026-01-11-1025381",
+    "time": "2026-01-11T07:56:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Hardik Pandya not playing for India in 1st ODI today vs New Zealand?",
+    "desc": "Team India locks horns with New Zealand in the first of three ODIs of the ongoing series. The two sides take on each other at the Kotambi Stadium in Vadodara on January 11. With the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-hardik-pandya-not-playing-for-india-in-1st-odi-today-vs-new-zealand-2026-01-11-1025376",
+    "time": "2026-01-11T07:32:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "New Zealand keep India wicketless in powerplay in Vadodara",
+    "desc": "India lock horns against New Zealand in the first ODI of the three-match series at the BCA Stadium, Kotambi, Vadodara. Stalwarts Rohit Sharma and Virat Kohli are back in action in the series, while Shreyas Iyer...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-1st-odi-live-cricket-score-india-vs-new-zealand-2026-latest-match-updates-scorecard-ball-by-ball-commentary-rohit-sharma-virat-kohli-2026-01-11-1025372",
+    "time": "2026-01-11T07:17:43.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'I miss him': Former South Africa cricketer gives his take on Virat Kohli's 'early' retirement from Tests",
     "desc": "The stage is set for the upcoming white-ball multi-format series between India and New Zealand. The two sides will take on each other in the first ODI at the Kotambi Stadium in Vadodara on January...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-ruled-out-of-odi-series-vs-new-zealand-know-why-2026-01-10-1025329",
     "time": "2026-01-10T17:55:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch IND vs NZ ODI series on TV and streaming?",
-    "desc": "India will open their three-match ODI series against New Zealand on January 11 at the BCA Stadium in Kotambi, with several key players returning to action. The spotlight will be on Virat Kohli and Rohit...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-new-zealand-live-when-and-where-to-watch-ind-vs-nz-odi-series-on-tv-and-streaming-2026-01-10-1025328",
-    "time": "2026-01-10T17:42:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at BCA Stadium in Kotambi, Vadodara play in the first ODI?",
-    "desc": "India return to international action after nearly three weeks with the opening ODI against New Zealand at the BCA Stadium in Kotambi on Sunday, January 11. The contest also signals the comeback of the veteran...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-1st-odi-pitch-report-how-will-surface-at-bca-stadium-in-kotambi-vadodara-play-in-the-first-odi-2026-01-10-1025321",
-    "time": "2026-01-10T15:46:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC Chairman Jay Shah to review Bangladesh situation in high-profile meeting with BCCI officials",
-    "desc": "ICC Chair Jay Shah is preparing for crucial discussions with BCCI officials on Sunday in Vadodara to address the growing standoff with the Bangladesh Cricket Board regarding the T20 World Cup 2026. Shah will meet...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-chairman-jay-shah-to-review-bangladesh-situation-in-high-profile-meeting-with-bcci-officials-2026-01-10-1025316",
-    "time": "2026-01-10T14:43:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jemimah Rodrigues creates WPL history on debut as captain; DC opt to bowl first vs MI",
-    "desc": "Delhi Capitals have appointed Jemimah Rodrigues as their new captain for the Women’s Premier League, marking a leadership shift ahead of the new cycle. Co-owner Parth Jindal highlighted the need for a fresh beginning and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jemimah-rodrigues-creates-wpl-history-on-debut-as-captain-dc-opts-to-bowl-first-vs-mi-2026-01-10-1025311",
-    "time": "2026-01-10T14:04:34.000Z"
   }
 ];

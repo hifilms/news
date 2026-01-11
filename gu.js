@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "1 જાન્યુઆરીથી કેમ ન વધ્યો પગાર અને DA? જાણો વિલંબના 3 મુખ્ય કારણો",
+    "desc": "8મું પગાર પંચ 1 જાન્યુઆરી, 2026 થી લાગુ થવાની ચર્ચાઓ વચ્ચે કેન્દ્રીય કર્મચારીઓને મોટા પગાર વધારાની આશા હતી. જોકે, અત્યાર સુધી પગાર કે મોંઘવારી ભથ્થા (DA) માં કોઈ ફેરફાર થયો નથી. હવે પ્રશ્ન એ ઉભો થયો છે કે આ વિલંબ કેમ થયો અને કર્મચારીઓએ હજુ કેટલી રાહ જોવી પડશે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-why-havent-salaries-and-da-been-increased-from-january-1st-3-main-reasons-for-the-delay-461298 ",
+    "time": "2026-01-11T09:11:09.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "13 જાન્યુઆરીએથી ખુલશે આ IPO, ગ્રે માર્કેટમાં અત્યારથી 31ના પ્રીમિયમ પર પહોંચ્યો શેર, જાણો",
+    "desc": "આ IPO સંપૂર્ણપણે નવો ઇશ્યૂ છે, જેમાં કંપની 62 લાખ નવા શેર જાહેર કરશે. આ શેર 20 જાન્યુઆરીએ BSE SME પ્લેટફોર્મ પર લિસ્ટ થવાની ધારણા છે. કચોલિયા કંપનીમાં આશરે 3.36% હિસ્સો ધરાવે છે, જે રોકાણકારો માટે સકારાત્મક સંકેત માનવામાં આવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/this-ipo-will-open-from-january-13-the-share-has-already-reached-a-premium-of-31-in-the-grey-market-know-461293 ",
+    "time": "2026-01-11T08:50:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "પીડાથી કણસતો રહ્યો પંત... ગિલ કે ગંભીરે ના આપ્યું ધ્યાન, Video જોયા બાદ ફેન્સ થયા ગુસ્સે",
+    "desc": "રિષભ પંત ન્યૂઝીલેન્ડ સામેની ODI શ્રેણીમાંથી બહાર થઈ ગયો છે. પ્રેક્ટિસ સેશન દરમિયાન તેને ઈજા થઈ હતી. આ ઘટનાનો એક વીડિયો વાયરલ થઈ રહ્યો છે, જેમાં પંત ઈજાગ્રસ્ત થયા પછી દર્દથી પીડાઈ રહ્યો છે, જ્યારે બીજી તરફ મુખ્ય કોચ ગૌતમ ગંભીર, કેપ્ટન શુભમન ગિલે અને અજીત અગરકર વાતો કરતા જોવા મળી રહ્યા છે. વીડિયો જોયા બાદ ફેન્સ ગુસ્સામાં છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/shubman-gill-gautam-gambhir-ignored-rishabh-pant-injury-video-viral-fans-angry-461291 ",
+    "time": "2026-01-11T08:45:32.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "દુનિયા પર આવશે મોટું સંકટ! શું વર્ષ 2026 માનવ ઇતિહાસનું સૌથી ભયાનક વર્ષ સાબિત થશે?",
+    "desc": "બાબા વેંગાની આ વર્ષ 2026 માટેની ભવિષ્યવાણીઓ દુનિયામાં મોટા ઉલટફેર અને ગંભીર જોખમો તરફ ઈશારો કરી રહી છે. આ દાવાઓ મુજબ, આ વર્ષ તણાવ અને પડકારોથી ભરેલું હોઈ શકે છે, જેની અસર વૈશ્વિક રાજકારણ, પર્યાવરણીય સંતુલન અને ઝડપથી બદલાતી ટેકનોલોજી પર ઊંડી જોવા મળી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/baba-vanga-predictions-2026-a-major-crisis-will-hit-the-world-these-were-baba-vangas-terrifying-predictions-for-2026-461275 ",
+    "time": "2026-01-11T06:58:26.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "મહિને 4,400 રૂપિયાનું પ્રીમિયમ... મેચ્યોરિટી પર મળશે 16 લાખ, LICની આ છે શાનદાર સ્કીમ!",
     "desc": "ભારતીય જીવન વીમા નિગમ (LIC) એ ગત વર્ષે ઓક્ટોબરમાં એક શાનદાર યોજનાની શરૂઆત કરી હતી, જેના હેઠળ દર મહિને નાનું પ્રીમિયમ જમા કરીને મોટી રકમ બનાવી શકાય છે. સાથે જ તેમાં લાઈફ ઈન્સ્યોરન્સ કવર પણ મળે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -324,15 +360,6 @@ const newsData_gu = [
     "time": "2026-01-09T10:59:26.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ખુલવા જઈ રહ્યો છે બીજો એક મોટો IPO, ગ્રે માર્કેટમાં અત્યારથી 43 રૂપિયા પ્રીમિયમ પર પહોંચ્યો શેર !",
-    "desc": "કંપની નવા IPOથી 816 કરોડ રૂપિયા એકત્ર કરશે, જ્યારે હાલના શેરધારકો ઓફર ફોર સેલ (OFS) દ્વારા આશરે 972.62 કરોડ રૂપિયાના શેર વેચશે. અપર પ્રાઇસ બેન્ડ પર, આ IPOનું કુલ કદ આશરે 1,788.62 કરોડ રૂપિયા હશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/another-big-ipo-is-about-to-open-the-share-has-already-reached-a-premium-of-rs-43-in-the-grey-market-461000 ",
-    "time": "2026-01-09T09:58:45.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "કેટલી જૂની કાર ખરીદવી સૌથી શ્રેષ્ઠ? સેકન્ડ હેન્ડ કાર લેતા પહેલા આ 10 વાતો જાણો, ક્યારેય પસ્તાશો નહીં",
     "desc": "સેકન્ડ હેન્ડ કાર ખરીદવી એ ફાયદાનો સોદો પણ હોઈ શકે છે અને મોટા નુકસાનનું કારણ પણ બની શકે છે. જો કારની ઉંમર, સ્થિતિ (કન્ડિશન) અને દસ્તાવેજો પર યોગ્ય ધ્યાન આપવામાં ન આવે, તો સસ્તી કાર પણ મોંઘી પડી શકે છે. જાણો જૂની કાર ખરીદતી વખતે કઈ જરૂરી બાબતોનું ધ્યાન રાખવું જોઈએ, જેથી તમારો નિર્ણય સાચો સાબિત થાય.",
@@ -340,15 +367,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/how-old-should-a-used-car-be-for-it-to-be-the-best-purchase-know-these-10-things-before-buying-a-second-hand-car-460999 ",
     "time": "2026-01-09T09:47:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ટાટા આ સ્ટોક આવ્યો તળિયે, એક વર્ષમાં 61%થી વધુનો ઘટાડો, રોકાણકારો ખરાબ હાલતમાં ! જાણો",
-    "desc": "શુક્રવારે એટલે કે 09 જાન્યુઆરીના રોજ ટાટા ગ્રુપની આ કંપનીના શેર 4%થી વધુ ઘટીને 421 રૂપિયા પર પહોંચી ગયા છે. કંપનીના શેર 52 અઠવાડિયાના નવા લોએર લેવલે પહોંચ્યા છે. શેર એક વર્ષમાં 61%થી વધુ ઘટ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/tata-stock-fell-down-more-than-61-percent-in-a-year-investors-in-bad-shape-know-460989 ",
-    "time": "2026-01-09T09:11:12.000Z"
   },
   {
     "cat": "Entertainment",

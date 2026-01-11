@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Tech",
+    "title": "ফ্রিজ কেন দেওয়ালে ঠেকিয়ে রাখতে নেই? অনেকেই জানেন না, অজান্তে বড় বিপদ ডেকে আনতে পারেন, সাবধান!",
+    "desc": "फ्रिज में विस्फोट कैसे होता है, कंप्रेसर ब्लास्ट के पीछे क्या कारण हैं, पुराने रेफ्रिजरेटर से कितना खतरा है और घर में फ्रिज सुरक्षित रखने के लिए किन सावधानियों का पालन करना जरूरी है. जानें सभी जरूरी टिप्स...",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1768118515_1768111143_fridge-explosion-2-2026-01-77326c69e2a547ea3928e842cbc1f297-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/technology/fridge-explosion-common-nowadays-how-to-be-safe-to-avoid-short-circuit-blast-smj-2491184.html",
+    "time": "2026-01-11T08:16:01.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "বেঙ্গালুরুতে CPRI জয়েন্ট ডিরেক্টরের বাড়িতে তল্লাশি চালিয়ে ৩ স্যুটকেস ভর্তি টাকা উদ্ধার সিবিআই-এর ! নোট গুনতে গুনতে কর্মকর্তাদের ঘাম ঝরতে থাকে",
     "desc": "বেঙ্গালুরুতে দুর্নীতির বিরুদ্ধে সিবিআইয়ের অভিযান ছিল এক রোমাঞ্চকর ঘটনা। যখন একজন সরকারি কর্মকর্তার বাড়িতে তল্লাশি চালানো হয়, তখন আলমারিতে নয়, তিনটি বড় স্যুটকেসে নগদ টাকা পাওয়া যায়। প্রথমে অনুমান করা হয় যে ঘুষ দাবি করা হয়েছিল লক্ষ লক্ষ টাকা, কিন্তু বাজেয়াপ্ত করা হয়েছে কোটি কোটি টাকা !",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/technology/best-budget-phone-of-2025-which-becomes-talk-of-the-town-list-includes-oppo-smc-2476478.html",
     "time": "2025-12-29T11:19:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ভাঙা কার্যত অসম্ভব! ক্রিকেট ইতিহাসের ১০টি এমন রেকর্ড, না জানলে মিস করবেন",
-    "desc": "এক সময় ছিল, যখন ক্রিকেট খেলা দেশগুলোর সংখ্যা ছিল পাঁচটিরও কম। আজ বিশ্বের ৫০টিরও বেশি দেশ ক্রিকেট খেলছে, যার মধ্যে প্রায় ২০টি দল আগামী টি-টোয়েন্টি বিশ্বকাপে অংশ নিতে চলেছে। তবুও ক্রিকেটে এমন কিছু মহারেকর্ড রয়েছে, যেগুলো ভাঙা প্রায় অসম্ভব বলে মনে করা হয়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/WhatsApp-Image-2025-12-29-at-1.16.13-PM-2025-12-ca5a2cfaec0b3ade31264fdea2326e62-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/unbreakable-10-giant-cricket-records-test-debut-which-can-not-be-broken-know-the-facts-smc-2474474.html",
-    "time": "2025-12-29T08:19:16.000Z"
   }
 ];
