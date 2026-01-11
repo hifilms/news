@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'I miss him': Former South Africa cricketer gives his take on Virat Kohli's 'early' retirement from Tests",
+    "desc": "The stage is set for the upcoming white-ball multi-format series between India and New Zealand. The two sides will take on each other in the first ODI at the Kotambi Stadium in Vadodara on January...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/i-miss-him-former-south-africa-cricketer-gives-his-take-on-virat-kohli-s-early-retirement-from-tests-2026-01-11-1025366",
+    "time": "2026-01-11T06:27:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dhruv Jurel named as replacement for Rishabh Pant in India's ODI squad to take on New Zealand",
+    "desc": "The BCCI (Board of Control for Cricket in India) stepped forward and announced star batter Dhruv Jurel as the official replacement for Rishabh Pant in India's ODI squad to face New Zealand. It is worth...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dhruv-jurel-named-as-replacement-for-rishabh-pant-in-india-s-odi-squad-to-take-on-new-zealand-2026-01-11-1025357",
+    "time": "2026-01-11T05:05:36.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shubman Gill, Shreyas Iyer on the cusp of major milestones ahead of ODI series against New Zealand",
     "desc": "Team India is all set to kick off their multi-format white-ball series against New Zealand. The two sides will lock horns at the Kotambi Stadium in Vadodara for the first ODI of the series on...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/jemimah-rodrigues-creates-wpl-history-on-debut-as-captain-dc-opts-to-bowl-first-vs-mi-2026-01-10-1025311",
     "time": "2026-01-10T14:04:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MI-W vs DC-W WPL Match Score Live: Mumbai Indians thrash Delhi Capitals with 50-run win",
-    "desc": "After a defeat to Royal Challengers Bengaluru in the final delivery of the match, defending champions Mumbai Indians would be eager to bounce back in their second game against three-time finalists Delhi Capitals at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-dc-women-live-score-mumbai-indians-delhi-capitals-wpl-cricket-match-today-dr-dy-patil-sports-academy-2026-01-10-1025310",
-    "time": "2026-01-10T13:38:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Meg Lanning surpasses Ellyse Perry in legendary WPL record list in clash against Gujarat Giants",
-    "desc": "UP Warriorz skipper Meg Lanning added another milestone to her WPL career by moving past former Australia teammate Ellyse Perry on the tournament’s all-time run-scorers list. Her 30 off 27 balls against Gujarat Giants took...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/meg-lanning-surpasses-ellyse-perry-in-legendary-wpl-record-list-in-clash-against-gujarat-giants-2026-01-10-1025299",
-    "time": "2026-01-10T12:15:12.000Z"
   }
 ];

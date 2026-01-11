@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "મહિને 4,400 રૂપિયાનું પ્રીમિયમ... મેચ્યોરિટી પર મળશે 16 લાખ, LICની આ છે શાનદાર સ્કીમ!",
+    "desc": "ભારતીય જીવન વીમા નિગમ (LIC) એ ગત વર્ષે ઓક્ટોબરમાં એક શાનદાર યોજનાની શરૂઆત કરી હતી, જેના હેઠળ દર મહિને નાનું પ્રીમિયમ જમા કરીને મોટી રકમ બનાવી શકાય છે. સાથે જ તેમાં લાઈફ ઈન્સ્યોરન્સ કવર પણ મળે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/with-a-monthly-premium-of-rs-4400-youll-get-rs-16-lakh-on-maturity-this-is-lics-fantastic-scheme-461267 ",
+    "time": "2026-01-11T05:54:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રિષભ પંત સહિત આ 4 ખેલાડી OUT... પ્રથમ વનડેમાં આવી હોઈ શકે છે ભારતીય ટીમની પ્લેઈંગ-11",
+    "desc": "ન્યૂઝીલેન્ડ સામેની પહેલી વનડેમાં વિરાટ કોહલી અને રોહિત શર્માનું ધમાકેદાર બેટિંગ પ્રદર્શન જોવા મળશે તો ઈજામાંથી વાપસી કરી રહેલા શુભમન ગિલ અને શ્રેયસ ઐયર પણ મોટો સ્કોર કરવાનું ટાર્ગેટ રાખશે. ત્યારે પહેલી વનડેમાં ટીમ ઈન્ડિયાની પ્લેઈંગ-11 કેવી હશે તેના પર એક નજર કરીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-vs-new-zealand-1st-odi-predicted-playing-xi-rishabh-pant-out-461245 ",
+    "time": "2026-01-11T05:22:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "X પર હવે નહીં જોવા મળે અશ્લીલ કન્ટેન્ટ: સરકારની કડકાઈ બાદ 600થી વધુ એકાઉન્ટ્સ પર હંટર",
+    "desc": "સોશિયલ મીડિયા પ્લેટફોર્મ X (અગાઉનું ટ્વિટર) એ અશ્લીલ અને વાંધાજનક સામગ્રીના મુદ્દે પોતાની ભૂલ સ્વીકારી લીધી છે. સરકારી સૂત્રોના જણાવ્યા અનુસાર, X એ ભારત સરકારને ખાતરી આપી છે કે તે હવેથી દેશના કાયદા મુજબ જ કામ કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/x-will-no-longer-display-explicit-content-following-government-pressure-action-has-been-taken-against-over-600-accounts-461242 ",
+    "time": "2026-01-11T05:00:07.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ક્યારેય નથી જોઈ આવી ટેકનોલોજી! લોલીપોપમાં સોંગ, ભવિષ્ય બતાવશે અરીસો; આ ગેજેટ્સ જોઈને દંગ રહી જશો",
+    "desc": "CES 2026 માં ટેકનોલોજીએ આશ્ચર્યની તમામ હદો વટાવી દીધી છે. અહીં સંગીત સંભળાવતી લોલીપોપ, માત્ર 20 સેકન્ડમાં દાંત સાફ કરી શ્વાસ દ્વારા સ્વાસ્થ્યની જાણકારી આપતું બ્રશ અને ચહેરાને સ્કેન કરી ઉંમરનો અંદાજ લગાવતો સ્માર્ટ મિરર રજૂ કરવામાં આવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/a-lollipop-that-plays-music-a-mirror-that-predicts-the-future-these-ai-gadgets-unveiled-at-ces-2026-will-blow-your-mind-461235 ",
+    "time": "2026-01-11T04:11:41.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "&amp;#039;મિર્ઝાપુર ધ ફિલ્મ&amp;#039;માં ફરી જોવા મળશે આ પાત્ર, પહેલી સીઝનમાં થયું હતું મોત",
     "desc": "તમે પહેલાથી જ જાણો છો કે મિર્ઝાપુર પર આધારિત એક ફિલ્મ બનવા જઈ રહી છે. પરંતુ આ ફિલ્મમાં એક પાત્રનું પાછુ આવશે જેનું સિઝન 1 માં મૃત્યુ થયું હતું. પાત્રે પોતે જ તેની વાપસીની જાહેરાત કરી છે.",
@@ -403,24 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/ed-raid-in-fake-government-job-scam-in-15-cities-of-6-states-including-gujarat-460829 ",
     "time": "2026-01-08T06:45:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ભારતની T20 વર્લ્ડ કપ ટીમમાં થશે ફેરફાર... શુભમન ગિલની થઈ શકે છે વાપસી !",
-    "desc": "ટીમ ઈન્ડિયાના યુવા અને વિસ્ફોટક બેટ્સમેન તિલક વર્માને પેટની તકલીફ બાદ હૈદરાબાદની એક હોસ્પિટલમાં દાખલ કરવામાં આવ્યો છે. મીડિયા રિપોર્ટ અનુસાર, તેની સર્જરી થઈ શકે છે, જેના કારણે ICC T20 વર્લ્ડ કપ 2026માં તેના રમવા પર શંકા ઉભી થઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/shubman-gill-may-return-to-the-indian-t20-world-cup-squad-tilak-varma-injured-460828 ",
-    "time": "2026-01-08T06:43:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 વર્લ્ડ કપ પહેલા ભારતને મોટો ઝટકો, આ સ્ટાર ખેલાડી ઈજાગ્રસ્ત",
-    "desc": "T20 વર્લ્ડ કપ 2026 પહેલા ટીમ ઈન્ડિયાને મોટો ઝટકો લાગ્યો છે. સ્ટાર બેટ્સમેન તિલક વર્મા વિજય હજારે ટ્રોફી દરમિયાન ઈજાગ્રસ્ત થયો છે. જેના કારણે તે ન્યૂઝીલેન્ડ સામેની આગામી પાંચ મેચની T20 શ્રેણીમાંથી બહાર થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/tilak-varma-could-be-out-of-t20-world-cup-2026-due-to-serious-stomach-injury-460817 ",
-    "time": "2026-01-08T05:40:39.000Z"
   },
   {
     "cat": "World",
