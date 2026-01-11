@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "বেঙ্গালুরুতে CPRI জয়েন্ট ডিরেক্টরের বাড়িতে তল্লাশি চালিয়ে ৩ স্যুটকেস ভর্তি টাকা উদ্ধার সিবিআই-এর ! নোট গুনতে গুনতে কর্মকর্তাদের ঘাম ঝরতে থাকে",
+    "desc": "বেঙ্গালুরুতে দুর্নীতির বিরুদ্ধে সিবিআইয়ের অভিযান ছিল এক রোমাঞ্চকর ঘটনা। যখন একজন সরকারি কর্মকর্তার বাড়িতে তল্লাশি চালানো হয়, তখন আলমারিতে নয়, তিনটি বড় স্যুটকেসে নগদ টাকা পাওয়া যায়। প্রথমে অনুমান করা হয় যে ঘুষ দাবি করা হয়েছিল লক্ষ লক্ষ টাকা, কিন্তু বাজেয়াপ্ত করা হয়েছে কোটি কোটি টাকা !",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/CBI-Raid-In-Bengaluru-2026-01-470b3c707b90b224e8c2aaee3a2be735-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/cpri-officer-raid-cbi-nets-bangalore-official-with-three-suitcases-of-cash-3-crore-76-lakh-seized-in-9-lakh-5-thousand-bribery-case-ss-2490904.html",
+    "time": "2026-01-11T03:33:31.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "বিয়ের এক বছর না ঘুরতেই বিচ্ছেদের সুর! ভাঙছে তাহসান-রোজার সংসার...",
     "desc": "বিয়ের এক বছর পূর্ণ হওয়ার আগেই ভাঙনের মুখে জনপ্রিয় গায়ক ও অভিনেতা তাহসান খানের দ্বিতীয় সংসার। ‘আমরা বিচ্ছিন্ন ও আলাদা থাকছি’, মেকআপ আর্টিস্ট রোজার সঙ্গে বিচ্ছেদ নিয়ে মুখ খুললেন তাহসান। কেন দ্বিতীয় স্ত্রীর সঙ্গে দূরত্ব তৈরি হলো তাহসানের?",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/unbreakable-10-giant-cricket-records-test-debut-which-can-not-be-broken-know-the-facts-smc-2474474.html",
     "time": "2025-12-29T08:19:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "হাদি খুনে অভিযুক্তরা গা ঢাকা দিয়েছে ভারতে? কী দাবি ঢাকা পুলিশের, দেখুন ভিডিও",
-    "desc": "সীমান্ত পেরিয়ে ভারতে গা ঢাকা দিয়েছে ইনকিলাব মঞ্চের নেতা শরিফ ওসমান হাদি খুনে অভিযুক্ত মূল দুই অভিযুক্ত৷ এমনই দাবি ঢাকা মেট্রোপলিটন পুলিশের৷ তাদের দাবি, সীমান্ত পেরিয়ে ভারতের মেঘালয়ে আশ্রয় নিয়েছে হাদি খুনের দুই মূল সন্দেহভাজন৷ দুই অভিযুক্তকে ধরতে মেঘালয় পুলিশের সাহায্যও চেয়েছে ঢাকা পুলিশ৷ তবে হাদির হত্যায় জড়িত কোনও সন্দেহভাজনকেই এখনও ভারতে গ্রেফতার করা হয়নি৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/Osman-Hadi-2025-12-c1c045e8730bf84b42d76fa1aa32d19b-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/dhaka-police-claims-accused-in-osman-hadi-murder-case-have-crossed-border-to-take-shelter-in-india-dmg-2475813.html",
-    "time": "2025-12-28T20:37:14.000Z"
   }
 ];

@@ -1,5 +1,104 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Kathputli — pulling strings in Jaipur’s puppet colony",
+    "desc": "In this Jaipur corner, nearly 250 families carry forward one of Rajasthan’s oldest folk art forms, Kathputli; these artisans sew bright costumes onto small wooden puppets that are used by travelling performers who narrate tales of Rajput kings, warriors, folk heroes, and moral stories",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/photos/in-frames-kathputli-pulling-strings-in-jaipurs-puppet-colony/article70496889.ece",
+    "time": "2026-01-11T03:48:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ryan Rickelton’s record ton powers MI Cape Town past Joburg Super Kings",
+    "desc": "Ryan Rickelton’s historic unbeaten 113, backed by a brutal opening stand with Rassie van der Dussen and disciplined bowling from Kagiso Rabada and George Linde, drove MI Cape Town to a commanding 36-run win over Joburg Super Kings in the SA20 El Clasico.",
+    "img": "https://static.toiimg.com/photo/msid-126461024,imgsize-44618.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/sa20/ryan-rickeltons-record-ton-powers-mi-cape-town-past-joburg-super-kings/articleshow/126460997.cms",
+    "time": "2026-01-11T03:25:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rutherford, bowlers help Pretoria Capitals pull off a heist at Boland Park",
+    "desc": "Sherfane Rutherford’s composed 42* and a clinical bowling effort led by Keshav Maharaj and Gideon Peters helped Pretoria Capitals defend a modest 138 to beat Paarl Royals by 21 runs in a tense Betway SA20 clash at Boland Park.",
+    "img": "https://static.toiimg.com/photo/msid-126460926,imgsize-84328.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/sa20/sa20-sherfane-rutherford-and-bowlers-help-pretoria-capitals-pull-off-a-heist-at-boland-park/articleshow/126460911.cms",
+    "time": "2026-01-11T03:02:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Jyotiraditya Scindia announces Speed Post 24 and 48 services",
+    "desc": "Union Minister for Communications and Northeast Region Development and Guna MP Jyotiraditya Scindia on Saturday announced two new India Post services, Speed Post 24 and Speed Post 48, at Pichor in Shivpuri district, which will ensure delivery within 24 and 48 hours, respectively.",
+    "img": "https://static.toiimg.com/photo/msid-126460939,imgsize-695146.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/jyotiraditya-scindia-announces-speed-post-24-and-48-services/articleshow/126460925.cms",
+    "time": "2026-01-11T03:01:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Agar maar padh bhi jaati': Virat Kohli's powerful message to net bowler goes viral",
+    "desc": "Virat Kohli's leadership shone during India's training camp as he motivated a local net bowler, emphasising conviction in bowling. After an intense session, Kohli offered encouragement and signed a ball, demonstrating his commitment to developing talent and his own sharp form ahead of the ODI series.",
+    "img": "https://static.toiimg.com/photo/msid-126460905,imgsize-142346.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohlis-powerful-message-to-net-bowler-goes-viral-watch-agar-maar-padh-bhi-jaati/articleshow/126460902.cms",
+    "time": "2026-01-11T02:56:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Tell Me Lies’ returns with a tense, unsettling season 3",
+    "desc": "Hulu's 'Tell Me Lies' returns with its Season 3 premiere on Tuesday, January 13, plunging viewers back into the chaotic college romance of Lucy Albright and Stephen DeMarco. The gripping episode explores their toxic reunion, fractured friendships, and simmering revenge plots, delivering raw emotional intensity and cliffhangers that promise an addictive viewing experience.",
+    "img": "https://static.toiimg.com/photo/msid-126460762,imgsize-788869.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/tell-me-lies-returns-with-a-tense-unsettling-season-3-all-you-need-to-know-about-the-drama/articleshow/126460771.cms",
+    "time": "2026-01-11T02:49:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Someone came and hit me on my chest'",
+    "desc": "Actor Parvathy Thiruvothu bravely shared her childhood and teenage experiences of sexual abuse, highlighting how fear was taught as safety. She recounted disturbing public encounters and a painful realization that life's lessons on sexuality often came from negative experiences. Parvathy emphasized the constant vigilance women endure and the importance of therapy for healing.",
+    "img": "https://static.toiimg.com/photo/msid-126460791,imgsize-17062.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/someone-came-and-hit-me-on-my-chest-and-walked-away-parvathy-thiruvothu-opens-up-on-childhood-trauma/articleshow/126460791.cms",
+    "time": "2026-01-11T02:30:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "T.K. Carter Dies At 69: Veteran actor found at California home",
+    "desc": "In a poignant farewell, the entertainment world remembers veteran actor T.K. Carter, famed for his roles in beloved films 'Space Jam' and 'The Thing,' who has left us at the age of 69. On January 9th, he was discovered at his home in California, with authorities confirming that foul play was not a factor.",
+    "img": "https://static.toiimg.com/photo/msid-126460725,imgsize-26220.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-thing-actor-t-k-carter-passes-away-at-69-tony-freeman-pays-tribute-by-calling-him-a-genuine-soul-whose-talent-transcended-genres/articleshow/126460725.cms",
+    "time": "2026-01-11T02:15:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Kantara' Oscar Best Picture race: Vivek Oberoi praises the film",
+    "desc": "Rishab Shetty's 'Kantara Chapter 1' has earned a spot on the Academy Awards' Best Picture eligibility list, sparking national pride. Actor Vivek Oberoi lauded the film, calling it a global phenomenon that brings Bharat's essence to the world stage. He expressed immense pride in the film's potential to bring Oscars home, celebrating the rich cultural heritage it represents.",
+    "img": "https://static.toiimg.com/photo/msid-126460698,imgsize-99104.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/vivek-oberoi-lauds-kantara-chapter-1-rishab-shettys-film-enters-oscar-race-says-it-is-the-roar-of-our-ancestors/articleshow/126460686.cms",
+    "time": "2026-01-11T01:55:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bob Weir's Death: Grateful Dead icon dies at 78",
+    "desc": "Grateful Dead co-founder Bob Weir has passed away at 78 after a battle with cancer. His spokesperson confirmed his death, citing complications from lung issues. Weir, a guitarist and vocalist, was a guiding force in American music, building a lasting community through his artistry. He is remembered for his fiery spirit and a legacy intended to endure for centuries.",
+    "img": "https://static.toiimg.com/photo/msid-126460669,imgsize-28978.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/grateful-dead-guitarist-bob-weir-passes-away-at-78-after-battling-cancer/articleshow/126460669.cms",
+    "time": "2026-01-11T01:54:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Traitors Season 4’ and ‘Ponies’: Fun begins this week",
+    "desc": "Peacock presents exciting new shows for winter weekends. 'Ponies' offers animated adventures for families. 'The Traitors Season 4' brings back intense reality competition. These releases provide a mix of wholesome entertainment and thrilling drama. Viewers can enjoy these engaging programs on Peacock throughout the weekend.",
+    "img": "https://static.toiimg.com/photo/msid-126460634,imgsize-711380.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-traitors-season-4-and-ponies-fun-begins-this-week-with-two-highly-anticipated-peacock-releases/articleshow/126460640.cms",
+    "time": "2026-01-11T01:43:47.000Z"
+  },
+  {
     "cat": "World",
     "title": "Myanmar votes in second phase of military-run election",
     "desc": "The military-backed Union Solidarity and Development Party is leading by a huge margin after winning 90 of the 102 lower house seats contested in the first phase on December 28, 2025, which saw only 52.13% voter turnout, much lower than elections ‌in 2020 and 2015",
@@ -37,15 +136,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "‘Ikkis’ earns Rs 27.55 crore in 10 days",
-    "desc": "Agastya Nanda's debut film, 'Ikkis,' has crossed Rs 27.55 crore at the box office. After a dip on Friday, weekend collections saw a boost, bringing the war drama closer to the Rs 30 crore mark. The film, set during the 1971 India-Pakistan war, features Nanda as Second Lieutenant Arun Khetarpa.",
-    "img": "https://static.toiimg.com/photo/msid-126460382,imgsize-29852.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ikkis-box-office-collection-day-10-agastya-nandas-debut-film-sees-some-growth-amid-dhurandhar-and-the-raja-saab-wave/articleshow/126460382.cms",
-    "time": "2026-01-11T00:57:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Dhurandhar' BO: Ranveer’s film mints Rs 5.75 cr on day 37",
     "desc": "Ranveer Singh's spy thriller 'Dhurandhar' has enjoyed a dominant run, nearing Rs 800 crore domestically and over Rs 1200 crore globally. However, the film's reign is challenged by Prabhas's new release, 'The Raja Saab,' which has significantly outperformed 'Dhurandhar' in its opening days, signaling a shift in box office dominance.",
     "img": "https://static.toiimg.com/photo/msid-126460466,imgsize-25566.cms",
@@ -70,6 +160,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-box-office-collections-day-1-sivakarthikeyan-film-opens-well-crosses-rs-11-crore-mark/articleshow/126460393.cms",
     "time": "2026-01-11T00:25:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Ikkis’ earns Rs 27.55 crore in 10 days",
+    "desc": "Agastya Nanda's debut film, 'Ikkis,' has crossed Rs 27.55 crore at the box office. After a dip on Friday, weekend collections saw a boost, bringing the war drama closer to the Rs 30 crore mark. The film, set during the 1971 India-Pakistan war, features Nanda as Second Lieutenant Arun Khetarpa.",
+    "img": "https://static.toiimg.com/photo/msid-126460382,imgsize-29852.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ikkis-box-office-collection-day-10-agastya-nandas-debut-film-sees-some-growth-amid-dhurandhar-and-the-raja-saab-wave/articleshow/126460382.cms",
+    "time": "2026-01-11T00:20:59.000Z"
   },
   {
     "cat": "Entertainment",
@@ -252,15 +351,6 @@ const newsData_en = [
     "time": "2026-01-10T16:20:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Saba's romantic post for Hrithik on birthday: UNSEEN PICS",
-    "desc": "Hrithik Roshan is celebrating his 52nd birthday with heartfelt wishes from girlfriend Saba Azad and family. Saba shared unseen photos and a romantic message, while his sister Sunaina and father Rakesh Roshan also posted emotional tributes. The actor was last seen in 'War 2'.",
-    "img": "https://static.toiimg.com/photo/msid-126455194,imgsize-56258.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saba-azad-drops-romantic-post-for-hrithik-roshan-on-his-birthday-with-unseen-pics-happy-birthday-my-heart/articleshow/126455197.cms",
-    "time": "2026-01-10T16:17:47.000Z"
-  },
-  {
     "cat": "Business",
     "title": "US banks flag risks to lending as Trump pushes 10% cap on card rates; consumers, small firms may take hit",
     "desc": "US banks are raising concerns over President Trump's proposed 10% cap on credit card interest rates, warning it could limit credit access and harm consumers and small businesses. Industry groups argue such a move would be devastating and push users towards riskier alternatives, despite shared goals of affordability.",
@@ -277,24 +367,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/sit-conducts-protracted-search-and-seizure-operation-at-sabarimala-senior-tantris-private-residence-in-chengannur/article70495307.ece",
     "time": "2026-01-10T15:56:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "​Nupur Sanon and Stebin Ben’s romantic pictures together",
-    "desc": "Actor Nupur Sanon and singer Stebin Ben have kicked off their wedding celebrations in Udaipur. The celebration transformed from vibrant and colorful at night to Boho at night. The couple will be tying the knot according to Christian rituals, followed by the Hindu wedding ceremony. Ahead of this, here’s a quick collection of the couple’s pictures together.The couple has reportedly been dating since 2023. Their multiple public appearances sparked rumours of their relationship. In fact, Stebin's presence in photos with Kriti Sanon and Nupur also added fuel to the fire. However, the duo never accepted or denied their relationship. On January 3, Stebin surprised Nupur with a marriage proposal during their vacation. The singer proposed to her for marriage on a yacht.",
-    "img": "https://static.toiimg.com/photo/msid-126454747,imgsize-1045033.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nupur-sanon-and-stebin-bens-romantic-pictures-together-ahead-of-the-dreamy-wedding/photostory/126454747.cms",
-    "time": "2026-01-10T15:37:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar': All about Amritsar’s Lal Kothi aka Lyari residence",
-    "desc": "Akshaye Khanna's portrayal of Rehman Dakait in the hit film 'Dhurandhar' has captivated audiences, with his on-screen Lyari residence drawing significant attention. This iconic home, revealed to be the real 'Lal Kothi' in Amritsar, is a 19th-century haveli blending European and colonial architectural styles. The historic property, a popular filming location, has recently hosted the cast of 'Dhurandhar'.",
-    "img": "https://static.toiimg.com/photo/msid-126454689,imgsize-754858.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-all-about-amritsars-lal-kothi-that-featured-as-akshaye-khanna-aka-rehman-dakaits-lyari-residence/articleshow/126454672.cms",
-    "time": "2026-01-10T15:31:57.000Z"
   },
   {
     "cat": "Business",
@@ -324,33 +396,6 @@ const newsData_en = [
     "time": "2026-01-10T15:14:27.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Gautami slams rumours of Aryan ghost directing 'The B***ds Of Bollywood'",
-    "desc": "Gautami Kapoor lauded Aryan Khan's directorial debut in 'The B***ds of Bollywood', praising his sharp vision and maturity. She dismissed ghost-directing rumors, emphasizing Aryan's hands-on approach, even demonstrating stunts. Kapoor also highlighted his perfectionism, requiring multiple takes from all actors, and shared heartwarming anecdotes about Shah Rukh Khan's upbringing of his son.",
-    "img": "https://static.toiimg.com/photo/msid-126454503,imgsize-70566.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/gautami-kapoor-slams-rumours-of-aryan-khan-ghost-directing-the-bds-of-bollywood-recalls-bobby-deol-being-irritated-with-10-15-takes-because-he-chased-perfection-as-a-director/articleshow/126454401.cms",
-    "time": "2026-01-10T15:06:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Chandrababu Naidu calls for action plan to highlight benefits of VB-G RAM G scheme",
-    "desc": "Its aim is not only to provide employment to the poor but also create assets in the villages, says the Chief Minister, adding that the scheme has been devised to create an additional 25 days of employment to the poor",
-    "img": "https://th-i.thgim.com/public/incoming/smph0f/article70495222.ece/alternates/LANDSCAPE_1200/ea238363-1649-4f22-9edf-89356311efce.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/chandrababu-naidu-calls-for-action-plan-to-highlight-benefits-of-vb-g-ram-g-scheme/article70495008.ece",
-    "time": "2026-01-10T14:55:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vidyut leaves the internet shocked as he goes nude to climb a tree",
-    "desc": "Vidyut Jammwal, a Kalaripayattu practitioner, shared a video of himself climbing a tree naked as part of his annual Sahaja yogic practice, aiming to reconnect with nature and enhance sensory awareness. The act sparked online discussion, with fans expressing a mix of humor and admiration for his confidence and unique approach.",
-    "img": "https://static.toiimg.com/photo/msid-126454321,imgsize-23076.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vidyut-jammwal-leaves-the-internet-shocks-as-burries-himself-in-snow-goes-nude-to-climb-a-tree-sahaja-means-returning-to-a-state-of-natural-ease-and-instinct/articleshow/126454265.cms",
-    "time": "2026-01-10T14:48:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Compared with Akhtar, KKR’s Rs 75L pacer omitted from J&amp;K Ranji camp",
     "desc": "Indian pacer Umran Malik, nicknamed the “Indian Shoaib Akhtar,” has been left out of Jammu and Kashmir’s Ranji Trophy preparatory camp due to poor domestic form. Despite international experience, he played only one Ranji match without success and was earlier dropped from the Vijay Hazare squad. Opener Qamran Iqbal was also omitted as J&K prepare for phase two.",
@@ -376,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/oil-not-well-why-exxonmobil-and-others-think-venezuelas-current-environment-is-uninvestable/articleshow/126453171.cms",
     "time": "2026-01-10T13:45:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "SRK got upset with Karan on KKHH set, says Nikhil Advani",
-    "desc": "Filmmaker Nikhil Advani recalled Shah Rukh Khan's reaction to over-preparedness on the first day of Karan Johar's debut film. Khan pointed out the unnecessary equipment, leading Advani to learn a simpler approach from Farah Khan. Advani also discussed the emotional challenge of directing Shah Rukh Khan's death scene in 'Kal Ho Naa Ho'.",
-    "img": "https://static.toiimg.com/photo/msid-126453532,imgsize-36772.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tumhein-kuch-nai-aata-shah-rukh-khan-once-got-upset-on-karan-johar-on-the-sets-of-kuch-kuch-hota-hai-recalls-nikhil-advani/articleshow/126453529.cms",
-    "time": "2026-01-10T13:38:47.000Z"
   },
   {
     "cat": "Sports",
@@ -585,24 +621,6 @@ const newsData_en = [
     "time": "2026-01-10T08:38:44.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Long-term planning driving India's energy readiness, says Hardeep Puri",
-    "desc": "Union Minister for Petroleum and Natural Gas Hardeep Singh Puri highlighted that the government's long-term energy planning is translating into tangible benefits for citizens, stating that the real test of policy lies in how seamlessly it supports daily life rather than in announcements alone.",
-    "img": "https://static.toiimg.com/photo/msid-126449974,imgsize-87320.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/long-term-planning-driving-indias-energy-readiness-says-hardeep-puri/articleshow/126449969.cms",
-    "time": "2026-01-10T08:33:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India targets 12 gold medals at 2036 Olympics",
-    "desc": "India is significantly raising its Olympic medal ambitions, targeting 12-14 gold and 30-35 overall medals for the 2036 Games, while also bidding to host. A long-term strategy aims for 30-35 gold and 100 total medals by 2048, positioning India among the top sporting nations.",
-    "img": "https://static.toiimg.com/photo/msid-126449015,imgsize-55432.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/india-targets-12-gold-medals-at-2036-olympics/articleshow/126449005.cms",
-    "time": "2026-01-10T07:10:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Indian player collapses, dies during cricket match",
     "desc": "Former Mizoram Ranji Trophy cricketer K. Lalremruata, 38, tragically passed away on Thursday after collapsing during a local match. He suffered a stroke while playing and succumbed despite immediate medical attention. Lalremruata represented Mizoram in the Ranji and Syed Mushtaq Ali Trophies, leaving a significant void in the state's cricket fraternity.",
@@ -610,15 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/former-ranji-trophy-player-khawlhring-lalremruata-collapses-dies-during-cricket-match/articleshow/126448187.cms",
     "time": "2026-01-10T05:56:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'After the T20 WC final, I never thought I would be dropped again': Axar Patel",
-    "desc": "Axar Patel, now India's T20I vice-captain, reflects on his journey of growth and maturity as a cricketer. He credits past setbacks for building resilience and a clear mindset, enabling him to perform under pressure. Patel emphasizes his evolution as a specialist all-rounder, no longer seen as a backup, and his confidence in his batting abilities.",
-    "img": "https://static.toiimg.com/photo/msid-126447938,imgsize-41874.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-the-t20-world-cup-final-i-never-thought-i-would-be-dropped-again-axar-patel-opens-up/articleshow/126447898.cms",
-    "time": "2026-01-10T05:33:16.000Z"
   },
   {
     "cat": "World",
@@ -637,15 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/aryna-sabalenka-advances-to-the-brisbane-international-final-after-beating-karolina-muchova-australian-open-final/article70493639.ece",
     "time": "2026-01-10T04:35:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat turns entertainer in training, mimics Arshdeep; Rohit reacts",
-    "desc": "Virat Kohli exuded a relaxed and cheerful demeanor as India began preparations for the ODI series against New Zealand. During training, Kohli playfully mimicked Arshdeep Singh's run-up, drawing laughter from teammates. Senior batters Kohli and Rohit Sharma focused on rigorous practice, preparing for a demanding schedule ahead.",
-    "img": "https://static.toiimg.com/photo/msid-126447186,imgsize-40692.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohli-turns-entertainer-in-training-mimics-arshdeep-singh-rohit-sharma-reacts-watch/articleshow/126447131.cms",
-    "time": "2026-01-10T04:18:43.000Z"
   },
   {
     "cat": "Sports",
@@ -801,15 +801,6 @@ const newsData_en = [
     "time": "2026-01-08T14:46:29.000Z"
   },
   {
-    "cat": "World",
-    "title": "Denmark sees talks with the U.S. as a chance for ‘the dialogue that is needed’ over Greenland",
-    "desc": "U.S. Vice President JD Vance said that Denmark “obviously” had not done “a proper job” in securing Greenland and that Trump “is willing to go as far as he has to” to defend American interests in the Arctic",
-    "img": "https://th-i.thgim.com/public/newsletter/the-evening-wrap/orx8aw/article70486858.ece/alternates/LANDSCAPE_1200/F-kXCGmW0AAQy02.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/denmark-sees-talks-with-the-us-as-a-chance-for-the-dialogue-that-is-needed-over-greenland/article70486684.ece",
-    "time": "2026-01-08T13:32:45.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sabalenka to skip events in 2026 to prioritise her health",
     "desc": "Top players are ​obliged to compete in all four Grand Slams, 10 WTA 1000 tournaments and six WTA 500 events under WTA rules, with the punishment for missing them ranging from rankings points deductions to fines",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/run-away-series-review-perfect-pulp-to-kick-off-the-new-year/article70477206.ece",
     "time": "2026-01-06T09:18:11.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Five ways in which technology will rewire life in 2026",
+    "desc": "AI is no longer a standout novelty but a necessity, and smartphones are defined less by hardware upgrades and more by how well they connect within broader tech ecosystems. These five trends are reshaping technology in 2026",
+    "img": "https://th-i.thgim.com/public/news/national/karnataka/kfgg8h/article70452303.ece/alternates/LANDSCAPE_1200/Main%20Placeholder%20image.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/five-ways-in-which-technology-will-rewire-life-in-2026/article70452235.ece",
+    "time": "2026-01-02T11:18:53.000Z"
   }
 ];

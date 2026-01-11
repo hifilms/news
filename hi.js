@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shubman Gill, Shreyas Iyer on the cusp of major milestones ahead of ODI series against New Zealand",
+    "desc": "Team India is all set to kick off their multi-format white-ball series against New Zealand. The two sides will lock horns at the Kotambi Stadium in Vadodara for the first ODI of the series on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-shreyas-iyer-on-the-cusp-of-major-milestones-ahead-of-odi-series-against-new-zealand-2026-01-11-1025347",
+    "time": "2026-01-11T03:44:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND vs NZ, Vadodara, weather report: Will rain spoil 1st ODI of the upcoming multi-format series?",
+    "desc": "The stage is set for the first of three ODIs between India and New Zealand. The two sides are slated to lock horns at the BCA Stadium in Vadodara on January 11. It is worth...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-vadodara-weather-report-will-rain-spoil-1st-odi-of-the-upcoming-multi-format-series-2026-01-11-1025340",
+    "time": "2026-01-11T02:38:55.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ryan Rickelton achieves major milestone with stellar century against Joburg Super Kings",
     "desc": "Game 20 of the ongoing SA20 2025-26 saw MI Cape Town taking on Joburg Super Kings. The two sides locked horns at the Wanderers Stadium, Johannesburg, on January 10. The game belonged to Cape Town...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/meg-lanning-surpasses-ellyse-perry-in-legendary-wpl-record-list-in-clash-against-gujarat-giants-2026-01-10-1025299",
     "time": "2026-01-10T12:15:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is Anushka Sharma? 22-year-old steals spotlight on WPL debut vs UP Warriorz",
-    "desc": "Anushka Sharma wreaked havoc in her Women’s Premier League debut against UP Warriorz at the DY Patil Sports Academy in Navi Mumbai. Having enormous success for Madhya Pradesh in domestic cricket and also for India...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wpl-2026-who-is-anushka-sharma-22-year-old-steals-spotlight-on-wpl-debut-vs-up-warriorz-2026-01-10-1025288",
-    "time": "2026-01-10T11:16:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill reacts to being dropped from T20 World Cup 2026 squad, says 'I am where I am supposed to be'",
-    "desc": "Shubman Gill failed to retain his spot in the Indian team for the T20 World Cup 2026 after a series of low scores in the format. He was under immense scrutiny for his performance but...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-reacts-to-being-dropped-from-t20-world-cup-2026-squad-says-i-am-where-i-am-supposed-to-be-2026-01-10-1025283",
-    "time": "2026-01-10T10:40:37.000Z"
   }
 ];
