@@ -1,6 +1,150 @@
 const newsData_en = [
   {
     "cat": "Sports",
+    "title": "Nandini's hat-trick goes in vain; Devine's Gujarat outpower Delhi",
+    "desc": "Nandini Sharma’s maiden hat-trick went in vain as Sophie Devine starred with a breathtaking 95 and a superb final over under pressure to steer Gujarat Giants to a thrilling four-run win off the last ball over Delhi Capitals in a Women’s Premier League match on Sunday.",
+    "img": "https://static.toiimg.com/photo/msid-126469095,imgsize-55060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/wpl-2026-nandini-sharmas-hat-trick-goes-in-vain-as-sophie-devines-gujarat-giants-outpower-delhi-capitals/articleshow/126468894.cms",
+    "time": "2026-01-11T18:06:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Companies flag location spoofing among hybrid, gig workers",
+    "desc": "Companies are increasingly detecting location spoofing by hybrid and gig workers. Employees are being caught misrepresenting their work locations using devices like travel routers. Forensic teams and background verification firms are flagging these discrepancies during routine audits and compliance checks, leading to consequences for those found violating company policies.",
+    "img": "https://static.toiimg.com/photo/msid-126468846,imgsize-99267.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/companies-flag-location-spoofing-among-hybrid-gig-workers/articleshow/126468619.cms",
+    "time": "2026-01-11T17:52:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Q3 earnings, inflation data in focus this week; global cues to steer sentiment",
+    "desc": "Indian equity markets brace for an event-packed week, with the December quarter earnings season kicking off and key inflation data releases from India and the US on the horizon. Investors will closely monitor corporate results from IT, banking, and energy giants, alongside global macro and geopolitical developments, for near-term market direction.",
+    "img": "https://static.toiimg.com/photo/msid-126468431,imgsize-1701456.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-outlook-q3-earnings-inflation-data-in-focus-this-week-global-cues-to-steer-sentiment/articleshow/126468305.cms",
+    "time": "2026-01-11T17:44:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CISF paves way for seamless transfers between RRTS Namo Bharat &amp; DMRC at New Ashok Nagar Metro Station",
+    "desc": "Passengers can now seamlessly transfer between the RRTS Namo Bharat and Delhi Metro at New Ashok Nagar Metro Station. An integrated passenger movement corridor has been opened, enhancing commuter convenience and reducing transit times. This integration, achieved through coordinated efforts and a structured SOP, strengthens multimodal urban mobility in the NCR.",
+    "img": "https://static.toiimg.com/photo/msid-126468420,imgsize-884464.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cisf-paves-way-for-seamless-transfers-between-rrts-namo-bharat-dmrc-at-new-ashok-nagar-metro-station/articleshow/126468429.cms",
+    "time": "2026-01-11T17:31:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Record! India's Nandani becomes first player ever to achieve this feat",
+    "desc": "Nandani Sharma created WPL history with a sensational spell for Delhi Capitals against Gujarat Giants in Navi Mumbai. The Chandigarh pacer became the first player to take a five-wicket haul and a hat-trick in a single WPL match. Her pace and accuracy turned the game, marking her arrival as a rising star in Indian women’s cricket.",
+    "img": "https://static.toiimg.com/photo/msid-126468228,imgsize-22220.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/wpl-record-indias-nandani-sharma-creates-history-becomes-first-player-ever-to-/articleshow/126468134.cms",
+    "time": "2026-01-11T17:17:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Raja Saab’ actor Sanjay Dutt's top South Indian films",
+    "desc": "Sanjay Dutt, known for his powerful on-screen presence, is set to star as the antagonist in Prabhas' 'The Raja Saab'. Beyond this upcoming role, Dutt has a notable filmography in South Indian cinema, including impactful performances in 'KGF Chapter 2', 'Leo', and 'Double iSmart', showcasing his versatility across different regional film industries.",
+    "img": "https://static.toiimg.com/photo/msid-126467209,imgsize-36448.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/from-kgf-to-leo-the-raja-saab-actor-sanjay-dutts-top-south-indian-films/articleshow/126467219.cms",
+    "time": "2026-01-11T17:11:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bollywood's unseen battles and the reforms it needs",
+    "desc": "Bollywood is an industry that thrives on spectacle. Headlines are dominated by opening-day numbers, star fees, social media virality and box-office verdicts delivered within hours of a release. This ETimes piece moves the spotlight away from gossip and toward growth. By listening closely to voices from within the industry—actor Alexx O’Nell, actor-producer-entrepreneur Vishakha Singh and actor Kashika Kapoor—it explores the invisible pressures Bollywood normalises, the silences it rewards, and the reforms that could make it a healthier ecosystem for the next generation.",
+    "img": "https://static.toiimg.com/photo/msid-126467981,imgsize-91804.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alexx-onell-vishakha-singh-and-kashika-kapoor-break-silence-on-industrys-unseen-battles-and-the-reforms-it-urgently-needs-exclusive/articleshow/126467515.cms",
+    "time": "2026-01-11T17:06:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India survive late scare; Kohli's 93 anchors four-wicket win over NZ",
+    "desc": "India were well placed for most of the chase and appeared in control until Kohli’s dismissal in the 40th over. At that stage, India needed 67 runs from 66 balls with seven wickets in hand. However, New Zealand struck back quickly, picking up wickets to put pressure on the hosts.",
+    "img": "https://static.toiimg.com/photo/msid-126467898,imgsize-34006.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-india-survive-late-scare-as-virat-kohlis-93-anchors-four-wicket-win-over-new-zealand-in-series-opener/articleshow/126467813.cms",
+    "time": "2026-01-11T16:48:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Google partners Walmart, Shopify and Wayfair to turn Gemini into in-chat checkout platform; what you need to know",
+    "desc": "Google's Gemini AI now offers expanded shopping capabilities through partnerships with major retailers like Walmart, Shopify, and Wayfair. Users can browse and buy products directly within the chatbot, with an instant checkout feature and personalized recommendations for linked accounts. This move positions Gemini as a transaction platform.",
+    "img": "https://static.toiimg.com/photo/msid-126467809,imgsize-533720.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/ai-shopping-google-partners-walmart-shopify-and-wayfair-to-turn-gemini-into-in-chat-checkout-platform-what-you-need-to-know/articleshow/126467773.cms",
+    "time": "2026-01-11T16:37:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&amp;K: Suspected Pakistan drones spotted along LoC, IB near Samba, Rajouri and Poonch districts; search operations launched",
+    "desc": "Suspected drones were detected entering Indian airspace from Pakistan along the International Border and Line of Control in Jammu and Kashmir's Samba, Rajouri, and Poonch districts on Sunday evening. Security forces observed the objects hovering for a few minutes before returning, prompting ground search operations and firing in some areas.",
+    "img": "https://static.toiimg.com/photo/msid-126467817,imgsize-104308.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-suspected-pakistan-drones-spotted-along-loc-ib-near-samba-rajouri-and-poonch-districts-search-operations-launched/articleshow/126467789.cms",
+    "time": "2026-01-11T16:36:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Yogi-Modi trouble-engine govt is so rattled by questions': Jairam Ramesh condemns police's lathi charge on NSUI's 'Save MGNREGA' protest",
+    "desc": "Senior Congress leader Jairam Ramesh condemned the police's lathi charge on an NSUI 'Save MGNREGA' protest in Varanasi. The demonstration, led by NSUI president Varun Chaudhary, was met with force by the \"trouble-engine government.\" Congress workers also held a symbolic fast protesting the new rural employment act.",
+    "img": "https://static.toiimg.com/photo/msid-126467522,imgsize-2107231.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/yogi-modi-trouble-engine-govt-is-so-rattled-by-questions-jairam-ramesh-condemns-polices-lathi-charge-on-nsuis-save-mgnrega-protest/articleshow/126467483.cms",
+    "time": "2026-01-11T16:03:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "WRD begins construction of 2 new check dams across Palar in Tirupattur",
+    "desc": "The ₹77.30-crore project will also involve repairs of two existing check dams across the river at Jafrabad and Kondai Oosi villages near Ambur town. The project is being funded by the National Bank for Agriculture and Rural Development",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/k4flf3/article70498150.ece/alternates/LANDSCAPE_1200/check-14.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/wrd-begins-construction-of-2-new-check-dams-across-palar-in-tirupattur/article70497914.ece",
+    "time": "2026-01-11T15:56:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Restoring connectivity’: First India-assisted Bailey Bridge opens in cyclone-hit Sri Lanka; part of $450 million aid package",
+    "desc": "India has opened the first Bailey Bridge in Sri Lanka, restoring a vital link between Central and Uva provinces following Cyclone Ditwah. Constructed by the Indian Army, this 100-foot bridge is part of a $450 million reconstruction package. Over 15 more bridges are planned, alongside railway line repairs, demonstrating India's commitment to Sri Lanka's recovery.",
+    "img": "https://static.toiimg.com/photo/msid-126467251,imgsize-1481623.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/restoring-connectivity-first-india-assisted-bailey-bridge-opens-in-cyclone-hit-sri-lanka-part-of-450-million-aid-package/articleshow/126467184.cms",
+    "time": "2026-01-11T15:54:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "NHAI sets four Guinness world records on Bengaluru–Kadapa–Vijayawada corridor; bituminous paving milestones logged",
+    "desc": "The National Highways Authority of India has achieved four Guinness World Records during the construction of the Bengaluru–Kadapa–Vijayawada Economic Corridor. These include the longest continuous laying of bituminous concrete (28.89 lane km) and the highest quantity laid (57,500 metric tonnes) within 24 hours.",
+    "img": "https://static.toiimg.com/photo/msid-126467303,imgsize-1095264.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/infrastructure/highway-build-feat-nhai-sets-four-guinness-world-records-on-bengalurukadapavijayawada-corridor-bituminous-paving-milestones-logged/articleshow/126467296.cms",
+    "time": "2026-01-11T15:45:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Gandikota Festival off to a colourful start in Kadapa",
+    "desc": "Besides the historic fort, the ancient Madhavaraya temple, and the Jama Masjid, an helicopter ride offers visitors a breathtaking view of the gorge that is touted as India’s equivalent to the Grand Canyon in the U.S.",
+    "img": "https://th-i.thgim.com/public/incoming/cmw7ay/article70498506.ece/alternates/LANDSCAPE_1200/10215_11_1_2026_20_7_30_1_WHATSAPPIMAGE2026_01_11AT73414PM.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/gandikota-festival-off-to-a-colourful-start-in-kadapa/article70498278.ece",
+    "time": "2026-01-11T15:29:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "4,4,6,6,6,6: Devine intervention at DY Patil; Sophie carnage lights up WPL",
+    "desc": "Gujarat Giants opener Sophie Devine unleashed a devastating 32-run over against Delhi Capitals' Sneh Rana, propelling her to a rapid half-century. Devine's explosive innings of 95 runs off 42 balls, including six sixes in one over, was the highlight of the match. She narrowly missed a century as Gujarat Giants posted a strong total.",
+    "img": "https://static.toiimg.com/photo/msid-126466963,imgsize-34172.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/446666-devine-intervention-in-navi-mumbai-sophie-carnage-lights-up-wpl-watch/articleshow/126466840.cms",
+    "time": "2026-01-11T15:01:18.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Massive! Rohit scripts history, surpasses Gayle to pocket this record",
     "desc": "Rohit Sharma created history in the first ODI against New Zealand by becoming the leading six-hitter among openers in ODI cricket, surpassing Chris Gayle. He also became the first player to hit 650 international sixes. Rohit scored 26 runs, while New Zealand posted 300/8 after a strong start led by their openers.",
     "img": "https://static.toiimg.com/photo/msid-126466795,imgsize-62600.cms",
@@ -100,7 +244,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Kozhikode Corporation to elect standing committee chairpersons on Jan. 13",
+    "title": "Kozhikode Corporation Council to elect standing committee chairpersons on Jan. 13",
     "desc": "The LDF has a majority in six of the eight committees; the UDF, despite holding an advantageous position in the council, managed a majority in only one committee and has the same strength as the BJP in another",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
@@ -144,15 +288,6 @@ const newsData_en = [
     "time": "2026-01-11T13:43:30.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kerala asks Centre to issue ‘catastrophe bonds’ as protection against disaster-linked financial risks",
-    "desc": "CAT bonds are insurance-linked securities that transfer the financial risks from natural disasters from the bond issuer to the capital market. At present, the financial risk is fully borne by the State or Central governments",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-asks-centre-to-issue-catastrophe-bonds-as-protection-against-disaster-linked-financial-risks/article70497848.ece",
-    "time": "2026-01-11T13:25:51.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Kriti Sanon beams with joy as sister Nupur marries Stebin",
     "desc": "Kriti Sanon couldn’t hide her happiness as her younger sister Nupur Sanon tied the knot with singer Stebin Ben in a picturesque Christian ceremony in Udaipur. The actress was seen looking elated as one of the bridesmaids, celebrating the special day with the newlyweds amid much love, laughter and cheer.",
@@ -169,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/crypto-rules-tightened-live-selfies-geo-tagging-mandatory-for-users-fiu-rolls-out-tougher-kyc-norms/articleshow/126465571.cms",
     "time": "2026-01-11T13:12:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ECI clears ‘plantation records’ as valid SIR documents in north Bengal, says BJP’s Suvendu Adhikari",
-    "desc": "The letter shared by Mr. Adhikari stated that the Commission has conveyed its no objection to accepting tea garden and cinchona plantation records as documents for SIR 2026 in the districts of Darjeeling, Kalimpong, Jalpaiguri, Cooch Behar, Alipurduar, Uttar Dinajpur and Dakshin Dinajpur",
-    "img": "https://th-i.thgim.com/public/incoming/r5sv8e/article70497809.ece/alternates/LANDSCAPE_1200/20260105357L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/eci-clears-plantation-records-as-valid-sir-documents-in-north-bengal-says-bjps-suvendu-adhikari/article70497773.ece",
-    "time": "2026-01-11T13:02:35.000Z"
   },
   {
     "cat": "Entertainment",
@@ -259,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/no-rahul-stalin-in-tamil-nadu-dmk-rejects-congresss-sharing-power-proposal-cm-firm-on-stand/articleshow/126464611.cms",
     "time": "2026-01-11T12:03:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala Congress factions gear up as buzz over UDF return intensifies",
-    "desc": "There is no denying that a section of the cadre favours rejoining the Congress-led front. But there are no circumstances at present for such a move, says a senior Kerala Congress (M) leader, adding that Jose K. Mani is expected to offer clarity after an emergency meeting on January 16",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-congress-factions-gear-up-as-buzz-over-udf-return-intensifies/article70497543.ece",
-    "time": "2026-01-11T11:59:27.000Z"
   },
   {
     "cat": "Entertainment",
@@ -396,15 +513,6 @@ const newsData_en = [
     "time": "2026-01-11T09:52:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sivakarthikeyan's 'Parasakthi' box office collection day 2 (Live)",
-    "desc": "Sivakarthikeyan's politically charged film 'Parasakthi' witnessed a dip in box office collections on its second day, earning Rs 1.29 crore on Sunday. Despite a strong opening of Rs 12.35 crore on Saturday, mixed reviews and challenging political content appear to be impacting word-of-mouth, with overall occupancy at 35.15% on Sunday.",
-    "img": "https://static.toiimg.com/photo/msid-126463639,imgsize-52902.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/box-office/parasakthi-box-office-collection-day-2-live-sivakarthikeyan-starrer-witnesses-a-dip-as-mixed-reviews-pour-in/articleshow/126463639.cms",
-    "time": "2026-01-11T09:50:07.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Centre proposes smartphone makers give source code in security overhaul",
     "desc": "The plan is part of Prime Minister Narendra Modi's efforts to boost the security of user data as online fraud and data breaches increase in the world's second-largest smartphone market, with nearly 750 million phones",
@@ -412,15 +520,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/india-proposes-forcing-smartphone-makers-to-give-source-code-in-security-overhaul/article70497338.ece",
     "time": "2026-01-11T09:46:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Craziest celebrations",
-    "desc": "South Indian movie fans express extreme devotion during film releases and re-releases. Prabhas fans celebrated 'The Raja Saab' with elaborate rituals, including a fire incident. Rajinikanth's 'Coolie' saw fans dancing in theaters and streets. Vijay's 'Kushi' re-release transformed halls into festive fan bases. These events highlight the deep connection between stars and their audiences.",
-    "img": "https://static.toiimg.com/photo/msid-126463617,imgsize-59812.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/from-massive-cutouts-to-fireworks-heres-how-fans-got-wild-celebrating-the-release-of-their-beloved-south-stars/articleshow/126463622.cms",
-    "time": "2026-01-11T09:45:08.000Z"
   },
   {
     "cat": "Sports",
@@ -441,24 +540,6 @@ const newsData_en = [
     "time": "2026-01-11T09:31:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NSUI protests against VB-GRAMG scheme in UP; security tightened in Varanasi, Lucknow",
-    "desc": "The National Students' Union of India (NSUI) protested the VB-GRAMG scheme across Uttar Pradesh, including Lucknow and Varanasi, on Sunday. Demonstrations in Lucknow saw workers detained by security. In Varanasi, heightened security surrounded Prime Minister Modi's public outreach office ahead of a planned \"Save MGNREGA\" march, with police and paramilitary forces on alert.",
-    "img": "https://static.toiimg.com/photo/msid-126463487,imgsize-869482.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-nsui-protests-against-vb-gramg-scheme-in-up-security-tightened-in-varanasi-lucknow/articleshow/126463449.cms",
-    "time": "2026-01-11T09:24:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyadarshan says director Aditya Dhar wanted to pursue cricket",
-    "desc": "Celebrated director Priyadarshan couldn't hide his pride for his protégé Aditya Dhar, reminiscing about Dhar's formative years as a talented dialogue writer for hits like 'Aakrosh' and 'Tezz'. Priyadarshan shared that it was the film 'Gardish' that inspired Dhar to pivot from his cricket aspirations to the world of filmmaking.",
-    "img": "https://static.toiimg.com/photo/msid-126463249,imgsize-24338.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyadarshan-reveals-protg-dhurandhar-director-aditya-dhar-wanted-to-pursue-cricket-but-the-son-of-top-cricketer-got-selected/articleshow/126463249.cms",
-    "time": "2026-01-11T09:04:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Another milestone! Virat Kohli goes past Sourav Ganguly",
     "desc": "Virat Kohli has achieved another milestone, becoming the fifth Indian with the most ODI appearances, surpassing Sourav Ganguly. With 309 matches played, he now trails only Tendulkar, Dhoni, Dravid, and Azharuddin. Kohli is also nearing a significant batting record, poised to become the second-highest international run-scorer across all formats.",
@@ -477,15 +558,6 @@ const newsData_en = [
     "time": "2026-01-11T08:29:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "When disasters strike, preparation saves lives — is India ready when crisis hits?",
-    "desc": "India faces escalating disaster risks due to geography, climate change, and development patterns, as starkly illustrated in 2025 by devastating floods and heatwaves. While response capacity has improved, a persistent imbalance favors reactive relief over proactive preparedness, a gap highlighted by contrasting events like Cyclone Phailin and Bihar's recurring floods.",
-    "img": "https://static.toiimg.com/photo/msid-126462972,imgsize-1140209.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/when-disasters-strike-preparation-saves-lives-is-india-ready-when-crisis-hits/articleshow/126462666.cms",
-    "time": "2026-01-11T08:19:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Shubman Gill makes bold call at toss",
     "desc": "India won the toss and elected to bowl first against New Zealand in the opening ODI, with Rishabh Pant ruled out due to injury and Dhruv Jurel replacing him. Captain Shubman Gill explained the decision was to assess bowling combinations and dew conditions.",
@@ -495,13 +567,13 @@ const newsData_en = [
     "time": "2026-01-11T08:06:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘From Ghazni to Aurangzeb’: PM Modi invokes history at Somnath; underscores temple’s resilience",
-    "desc": "\"Those present here, your ancestors, our ancestors, bet their lives for their faith, for their belief, for Mahadev - they sacrificed everything they had\". Without taking names, PM Modi attacked the Congress-led government for \"whitewashing the history\" that encapsulates the multiple attacks by Mughal invaders on the Somnath temple.",
-    "img": "https://static.toiimg.com/photo/msid-126462226,imgsize-22840.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-ghazni-to-aurangzeb-pm-modi-invokes-history-at-somnath-underscores-temples-resilience/articleshow/126462243.cms",
-    "time": "2026-01-11T07:49:38.000Z"
+    "cat": "Sports",
+    "title": "Kohli, Gill excel as Men in Blue overcome a stutter to go one up",
+    "desc": "Rahul takes the home team past the finish line with an over to spare after Jamieson leads the fightback for the Kiwis; the visiting side fails to capitalise on a solid opening stand; Mitchell continues his merry run against the Indians",
+    "img": "https://th-i.thgim.com/public/incoming/v9yw1e/article70498897.ece/alternates/LANDSCAPE_1200/VIS_5532.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-first-odi-match-report-virat-kohli-rohit-sharma-michael-bracewell-updates/article70497249.ece",
+    "time": "2026-01-11T07:57:00.000Z"
   },
   {
     "cat": "Sports",
@@ -529,15 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/budget-202627-cii-pitches-demand-led-disinvestment-plan-proposes-four-step-privatisation-roadmap/articleshow/126462077.cms",
     "time": "2026-01-11T06:51:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Undoubtedly a ratna’:RJD takes jibe at Nitish Kumar amid Bharat Ratna push; questions merit",
-    "desc": "Amidst calls for Nitish Kumar to receive the Bharat Ratna, RJD MP Sudhakar Singh acknowledged his long service as Bihar CM, even while unwell, as a testament to his worthiness. Union Minister Jitan Ram Manjhi and JD(U) leader KC Tyagi also championed the Bihar chief minister for the nation's highest civilian honour, citing his 'exemplary governance' and socialist credentials.",
-    "img": "https://static.toiimg.com/photo/msid-126462207,imgsize-700480.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/undoubtedly-a-ratnarjd-takes-jibe-at-nitish-amid-bharat-ratna-push-questions-merit/articleshow/126462216.cms",
-    "time": "2026-01-11T06:34:17.000Z"
   },
   {
     "cat": "World",
@@ -586,39 +649,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Rutherford, bowlers help Pretoria Capitals pull off a heist at Boland Park",
-    "desc": "Sherfane Rutherford’s composed 42* and a clinical bowling effort led by Keshav Maharaj and Gideon Peters helped Pretoria Capitals defend a modest 138 to beat Paarl Royals by 21 runs in a tense Betway SA20 clash at Boland Park.",
-    "img": "https://static.toiimg.com/photo/msid-126460926,imgsize-84328.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/sa20/sa20-sherfane-rutherford-and-bowlers-help-pretoria-capitals-pull-off-a-heist-at-boland-park/articleshow/126460911.cms",
-    "time": "2026-01-11T03:02:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Jyotiraditya Scindia announces Speed Post 24 and 48 services",
-    "desc": "Union Minister for Communications and Northeast Region Development and Guna MP Jyotiraditya Scindia on Saturday announced two new India Post services, Speed Post 24 and Speed Post 48, at Pichor in Shivpuri district, which will ensure delivery within 24 and 48 hours, respectively.",
-    "img": "https://static.toiimg.com/photo/msid-126460939,imgsize-695146.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/jyotiraditya-scindia-announces-speed-post-24-and-48-services/articleshow/126460925.cms",
-    "time": "2026-01-11T03:01:46.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'Agar maar padh bhi jaati': Virat Kohli's powerful message to net bowler goes viral",
     "desc": "Virat Kohli's leadership shone during India's training camp as he motivated a local net bowler, emphasising conviction in bowling. After an intense session, Kohli offered encouragement and signed a ball, demonstrating his commitment to developing talent and his own sharp form ahead of the ODI series.",
     "img": "https://static.toiimg.com/photo/msid-126460905,imgsize-142346.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohlis-powerful-message-to-net-bowler-goes-viral-watch-agar-maar-padh-bhi-jaati/articleshow/126460902.cms",
     "time": "2026-01-11T02:56:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Finance minister chairs pre-budget consultation meeting with states, Union territories",
-    "desc": "Along with Union Minister for State for Finance Pankaj Chaudhary, the meeting was also attended by Governor of Manipur; Chief Ministers of Delhi, Goa, Haryana, Jammu and Kashmir, Meghalaya, and Sikkim; Deputy Chief Ministers of Arunachal Pradesh, Madhya Pradesh, Odisha, Rajasthan and Telangana; the Finance Ministers of States/UTs, besides Secretaries of Departments of Economic Affairs, Expenditure, and Revenue, and senior officials of the Ministry of Finance.",
-    "img": "https://static.toiimg.com/photo/msid-126460616,imgsize-779174.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/finance-minister-chairs-pre-budget-consultation-meeting-with-states-union-territories/articleshow/126460610.cms",
-    "time": "2026-01-11T01:17:49.000Z"
   },
   {
     "cat": "World",
@@ -655,15 +691,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-rishabh-pant-ruled-out-of-odi-series-due-to-side-strain-injury/articleshow/126456146.cms",
     "time": "2026-01-10T17:51:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Comeback win! Harmanpreet's Mumbai thrash Jemimah's Delhi",
-    "desc": "Mumbai Indians beat Delhi Capitals by 50 runs in the WPL with a dominant all-round display. Nat Sciver-Brunt (70 not out) and Harmanpreet Kaur (74 not out) powered MI to 195/4. Delhi’s chase faltered early as Nicola Carey struck key blows, and despite Chinelle Henry’s 56, DC were bowled out for 145 in 19 overs.",
-    "img": "https://static.toiimg.com/photo/msid-126456173,imgsize-48500.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/wpl-2026-harmanpreet-kaurs-mumbai-indians-thrash-jemimah-rodrigues-delhi-capitals-in-comeback-win/articleshow/126455799.cms",
-    "time": "2026-01-10T17:47:12.000Z"
   },
   {
     "cat": "World",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/india-us-trade-deal-didnt-happen-because-modi-did-not-call-trump-lutnick/article70489564.ece",
     "time": "2026-01-09T05:48:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "The Ashes aftermath — England’s Test future at the crossroads",
-    "desc": "The line between carefree and careless often blurred, but not too many seemed to take notice, or be too bothered about it; it has happened far too often now for ‘Bazball’ to not face serious scrutiny, if not downright condemnation, any longer",
-    "img": "https://th-i.thgim.com/public/incoming/3ukjy9/article70488166.ece/alternates/LANDSCAPE_1200/2026-01-08T120726Z_1617220279_RC2SWIA0PFV9_RTRMADP_3_CRICKET-ASHES.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/the-ashes-aftermath-englands-test-future-at-the-crossroads/article70488172.ece",
-    "time": "2026-01-08T18:30:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vijay Hazare Trophy",
-    "desc": "The two batters undo the efforts of the losing side’s pace battery that initially reduces its opponent to 90 for seven; earlier Aman and Nitish help in stabilising a middle-order collapse; winning team is now fifith with Uttar Pradesh as the group topper Vidarbha enters the quarterfinals",
-    "img": "https://th-i.thgim.com/public/incoming/ag6cns/article70488044.ece/alternates/LANDSCAPE_1200/TH09%20AQUIB%20.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/vijay-hazare-trophy-hyderabad-falls-apart-as-nabi-vanshaj-turn-it-around-for-jk/article70488043.ece",
-    "time": "2026-01-08T17:07:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Watch",
-    "desc": "Actor-politician Vijay’s fans are disappointed after the last-minute postponement of his much-anticipated final film Jana Nayagan. The CBFC refused to grant certification despite the makers complying with 27 cuts, triggering allegations of political interference. The move has once again raised questions about how politics has shadowed Vijay’s films for over a decade.",
-    "img": "https://th-i.thgim.com/public/incoming/870k8t/article70487352.ece/alternates/LANDSCAPE_1200/Jana%20Nayagan%20The%20battle%20for%20release.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-vijay-final-film-jana-nayagan-delayed-a-political-plot-focus-tamil-nadu/article70487366.ece",
-    "time": "2026-01-08T14:46:29.000Z"
   }
 ];
