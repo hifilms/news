@@ -1,5 +1,41 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Mika Singh offers 10 acres of land for stray dogs",
+    "desc": "Punjabi singer and actor Mika Singh has made an emotional appeal to the Supreme Court of India amid the ongoing legal debate on stray dog management, pledging to donate 10 acres of land to support the care and welfare of street dogs.",
+    "img": "https://static.toiimg.com/photo/msid-126470938,imgsize-19708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mika-singh-offers-10-acres-of-land-for-stray-dogs-urges-supreme-court-to-ensure-humane-welfare-measures/articleshow/126470919.cms",
+    "time": "2026-01-11T20:34:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Hrithik’s yacht birthday with Saba, Sussanne, sons",
+    "desc": "Hrithik Roshan marked his 52nd birthday with an intimate celebration surrounded by family and close friends, and later took to social media to express his gratitude to everyone who showered him with love. While birthday wishes poured in from fans, colleagues and loved ones, the actor was away celebrating on a yacht, soaking in the moment with those closest to him.",
+    "img": "https://static.toiimg.com/photo/msid-126470614,imgsize-75152.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-hrithik-roshans-yacht-birthday-with-saba-azad-sussanne-khan-arslan-goni-and-sons-an-absolute-privilege-to-be-alive/articleshow/126470539.cms",
+    "time": "2026-01-11T19:25:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Blending impact, prolificity and consistency to an incredulous nicety",
+    "desc": "Padikkal, after a steady start to the domestic season in the Ranji Trophy and 20-over Syed Mushtaq Ali Trophy, has been in remarkable form in the ongoing 50-over Vijay Hazare Trophy; he has already smashed four centuries in five innings on his way to a country-high 640 runs at the conclusion of the league phase",
+    "img": "https://th-i.thgim.com/public/incoming/dy1xwp/article70499002.ece/alternates/LANDSCAPE_1200/VIS_1544.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/blending-impact-prolificity-and-consistency-to-an-incredulous-nicety/article70499009.ece",
+    "time": "2026-01-11T19:00:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chahal says ‘I’m happily single’ amid RJ Mahvash rumours",
+    "desc": "After months of speculation around his personal life, Indian cricketer Yuzvendra Chahal has finally spoken about life after his divorce from actor-dancer Dhanashree Verma, which was finalised in March last year. In a recent interview, Chahal made it clear that he has moved on and is currently not in a relationship. Addressing rumours linking him to radio jockey and actor RJ Mahvash, Chahal said the chatter is baseless.",
+    "img": "https://static.toiimg.com/photo/msid-126469647,imgsize-49886.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yuzvendra-chahal-says-im-happily-single-amid-rj-mahvash-dating-rumours-opens-up-about-depression-after-dhanashree-verma-divorce/articleshow/126469508.cms",
+    "time": "2026-01-11T18:26:40.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Nandini's hat-trick goes in vain; Devine's Gujarat outpower Delhi",
     "desc": "Nandini Sharma’s maiden hat-trick went in vain as Sophie Devine starred with a breathtaking 95 and a superb final over under pressure to steer Gujarat Giants to a thrilling four-run win off the last ball over Delhi Capitals in a Women’s Premier League match on Sunday.",
@@ -91,30 +127,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "'Yogi-Modi trouble-engine govt is so rattled by questions': Jairam Ramesh condemns police's lathi charge on NSUI's 'Save MGNREGA' protest",
-    "desc": "Senior Congress leader Jairam Ramesh condemned the police's lathi charge on an NSUI 'Save MGNREGA' protest in Varanasi. The demonstration, led by NSUI president Varun Chaudhary, was met with force by the \"trouble-engine government.\" Congress workers also held a symbolic fast protesting the new rural employment act.",
-    "img": "https://static.toiimg.com/photo/msid-126467522,imgsize-2107231.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/yogi-modi-trouble-engine-govt-is-so-rattled-by-questions-jairam-ramesh-condemns-polices-lathi-charge-on-nsuis-save-mgnrega-protest/articleshow/126467483.cms",
-    "time": "2026-01-11T16:03:32.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "WRD begins construction of 2 new check dams across Palar in Tirupattur",
     "desc": "The ₹77.30-crore project will also involve repairs of two existing check dams across the river at Jafrabad and Kondai Oosi villages near Ambur town. The project is being funded by the National Bank for Agriculture and Rural Development",
     "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/k4flf3/article70498150.ece/alternates/LANDSCAPE_1200/check-14.jpeg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/wrd-begins-construction-of-2-new-check-dams-across-palar-in-tirupattur/article70497914.ece",
     "time": "2026-01-11T15:56:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Restoring connectivity’: First India-assisted Bailey Bridge opens in cyclone-hit Sri Lanka; part of $450 million aid package",
-    "desc": "India has opened the first Bailey Bridge in Sri Lanka, restoring a vital link between Central and Uva provinces following Cyclone Ditwah. Constructed by the Indian Army, this 100-foot bridge is part of a $450 million reconstruction package. Over 15 more bridges are planned, alongside railway line repairs, demonstrating India's commitment to Sri Lanka's recovery.",
-    "img": "https://static.toiimg.com/photo/msid-126467251,imgsize-1481623.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/restoring-connectivity-first-india-assisted-bailey-bridge-opens-in-cyclone-hit-sri-lanka-part-of-450-million-aid-package/articleshow/126467184.cms",
-    "time": "2026-01-11T15:54:55.000Z"
   },
   {
     "cat": "Business",
@@ -180,24 +198,6 @@ const newsData_en = [
     "time": "2026-01-11T14:32:17.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CM Mann",
-    "desc": "Punjab's youth are set to benefit from Mission Pragati, a new government initiative offering free academic and physical training for competitive exams. Chief Minister Bhagwant Singh Mann announced the program, designed to support rural and meritorious students, with the first batch already enrolled. This 'youth helping youth' model aims for holistic development and increased representation in government jobs.",
-    "img": "https://static.toiimg.com/photo/msid-126466649,imgsize-949727.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/punjab-government-preparing-youth-for-competitive-exams-through-mission-pragati-cm-mann/articleshow/126466530.cms",
-    "time": "2026-01-11T14:28:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi government to fast-track 4 drainage projects to fix waterlogging",
-    "desc": "Delhi government has fast-tracked four major drainage projects to combat chronic waterlogging across the capital. These initiatives, including the Mundka supplementary drain and MB Road stormwater drain, aim to modernize infrastructure, ensure swift rainwater discharge into the Yamuna, and reduce pressure on the sewerage network, providing lasting relief from monsoon flooding.",
-    "img": "https://static.toiimg.com/photo/msid-126466507,imgsize-444299.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-government-to-fast-track-4-drainage-projects-to-fix-waterlogging/articleshow/126466468.cms",
-    "time": "2026-01-11T14:22:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Karan denies Ozempic rumours, recalls mom calling him ‘fat’",
     "desc": "Filmmaker Karan Johar, who made headlines last year for his dramatic physical transformation, has once again rubbished rumours suggesting that he used Ozempic for weight loss. In a recent podcast, Karan not only addressed the speculation head-on but also opened up about his long, complicated relationship with weight, diet struggles during college and candid remarks from his mother, Hiroo Johar, about his appearance.",
@@ -226,15 +226,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "‘Where has its nationalism gone?’: Asaduddin Owaisi accuses Centre of double standards on China investments; targets silence on Donald Trump remarks",
-    "desc": "AIMIM chief Asaduddin Owaisi questioned the BJP government's nationalism, citing its invitation to Chinese companies despite security concerns and its silence on US President Donald Trump's alleged insults. Owaisi also criticized the Centre's asylum for Sheikh Hasina and the prolonged incarceration of Muslim youth without trial.",
-    "img": "https://static.toiimg.com/photo/msid-126466240,imgsize-1015142.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/where-has-its-nationalism-gone-asaduddin-owaisi-accuses-centre-of-double-standards-on-china-investments-targets-silence-on-donald-trump-remarks/articleshow/126465787.cms",
-    "time": "2026-01-11T14:00:33.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Ahead of Union Budget, Karnataka seeks release of dues",
     "desc": "Ahead of the Union Budget, Chief Minister Siddaramaiah has urged the Centre to release its dues and has referred to the economic conditions in the State owing to GST rate rationalization, increased social commitment, change in weather condition, and increasing urbanisation",
     "img": "https://th-i.thgim.com/public/incoming/dp531v/article70498091.ece/alternates/LANDSCAPE_1200/Karnataka-will-GGGFE3HE1.3.jpg.jpg",
@@ -259,15 +250,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/telangana/18-persons-linked-to-547-crore-major-cyber-fraud-arrested-in-khammam-district/article70497754.ece",
     "time": "2026-01-11T13:55:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Why did she go there?’: How the onus of safety keeps falling on women",
-    "desc": "Public discourse on sexual violence consistently shifts blame from perpetrators to victims, focusing on women's choices and behavior rather than men's decisions. Despite widespread criticism, this regressive mindset persists across politics, courts, and families, implying women must alter their lives to prevent crimes they do not commit.",
-    "img": "https://static.toiimg.com/photo/msid-126466835,imgsize-709603.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-did-she-go-there-how-the-onus-of-safety-keeps-falling-on-women/articleshow/126465880.cms",
-    "time": "2026-01-11T13:46:19.000Z"
   },
   {
     "cat": "Entertainment",
@@ -315,15 +297,6 @@ const newsData_en = [
     "time": "2026-01-11T13:01:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Chinki, momo, Chinese': How everyday racism shadows Indians from the Northeast",
-    "desc": "Northeastern Indians face persistent racial slurs and discrimination across India, from casual prejudice to fatal violence. Incidents like Anjel Chakma's death highlight how stereotypes about appearance and food habits lead to abuse and exclusion, even in supposedly cosmopolitan cities calling for stronger laws and societal change to foster true inclusivity.",
-    "img": "https://static.toiimg.com/photo/msid-126465493,imgsize-68780.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/chinki-momo-chinese-how-everyday-racism-shadows-indians-from-the-northeast/articleshow/126464999.cms",
-    "time": "2026-01-11T12:52:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Bangar calls Hindi ‘national language of India’, faces backlash",
     "desc": "Sanjay Bangar sparked controversy during the first IND vs NZ ODI by calling Hindi the “national language of India” on air. The remark, made during a discussion involving KL Rahul and Washington Sundar, drew heavy social media backlash, with fans pointing out that India has no national language. Meanwhile, New Zealand posted 300/8, led by Daryl Mitchell’s 84.",
@@ -369,24 +342,6 @@ const newsData_en = [
     "time": "2026-01-11T12:14:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ED may attach Al Falah University campus under anti-money laundering law",
-    "desc": "The Enforcement Directorate may attach Al Falah University's Faridabad campus under anti-money laundering laws. Officials suspect illicit funds were used for its construction, following the arrest of Al Falah Group chairman Jawad Ahmed Siddiqui on money laundering charges. The university's alleged false accreditation claims are under scrutiny.",
-    "img": "https://static.toiimg.com/photo/msid-126465071,imgsize-731339.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ed-may-attach-al-falah-university-campus-under-anti-money-laundering-law/articleshow/126465010.cms",
-    "time": "2026-01-11T12:08:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "No Rahul-Stalin in Tamil Nadu? DMK rejects Congress‘s 'sharing power’ proposal; CM firm on stand",
-    "desc": "Senior DMK leader I Periyasamy has firmly ruled out any coalition government in Tamil Nadu, stating chief minister M K Stalin is resolute against sharing power with allies, including the Congress. This assertion comes as the Tamil Nadu Congress renews its demand for a share in governance ahead of the upcoming assembly elections.",
-    "img": "https://static.toiimg.com/photo/msid-126464961,imgsize-899667.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-rahul-stalin-in-tamil-nadu-dmk-rejects-congresss-sharing-power-proposal-cm-firm-on-stand/articleshow/126464611.cms",
-    "time": "2026-01-11T12:03:54.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "When and where to watch the adult comedy",
     "desc": "Get ready for the ‘Mastiii 4’ madness! Set to stream on THIS OTT platform starting January 16, 2026, this installment featuring Riteish Deshmukh, Vivek Oberoi, and Aftab Shivdasani is making its second chance after a rather tepid reception in cinemas. Despite its Rs 40 crore budget, it only managed to pull in Rs 15.14 crore at the box office.",
@@ -405,15 +360,6 @@ const newsData_en = [
     "time": "2026-01-11T11:44:45.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘What is the problem?’: Tej Pratap renews Bharat Ratna push for Lalu; will invite CM Nitish for ‘choora-dahi bhoj’",
-    "desc": "Tej Pratap Yadav, chief of Janshakti Janta Dal, has once again demanded the Bharat Ratna for his father, former Bihar CM Lalu Prasad Yadav. He announced plans to formally write to the government, supporting his sister's recent social media remarks.",
-    "img": "https://static.toiimg.com/photo/msid-126464586,imgsize-911391.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/what-is-the-problem-tej-pratap-renews-bharat-ratna-push-for-lalu-will-invite-cm-nitish-for-choora-dahi-bhoj/articleshow/126463866.cms",
-    "time": "2026-01-11T11:33:31.000Z"
-  },
-  {
     "cat": "Business",
     "title": "CII pitches demand-led, faster privatisation of PSEs; seeks three-year pipeline",
     "desc": "The Confederation of Indian Industry (CII) has urged the government to adopt a faster, demand-driven privatisation strategy for public sector enterprises in the Union Budget 2026-27. CII proposes a rolling three-year privatisation pipeline and a phased reduction of government stakes.",
@@ -421,24 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-cii-pitches-demand-led-faster-privatisation-of-pses-seeks-three-year-pipeline/articleshow/126464188.cms",
     "time": "2026-01-11T11:21:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shahid Kapoor",
-    "desc": "Vishal Bhardwaj helmed 'O'Romeo' is a gritty revenge romance drama, 1980s underworld saga. Reportedly, it is a revival of the shelved 'Sapna Didi' biopic that was to feature Deepika Padukone and the late Irrfan Khan. Starring Shahid Kapoor as hitman Haseen Ustara and Triptii Dimri as revenge-driven Afsha, this Shakespearean-inspired crime drama pits them against a ruthless don played by Nana Patekar. The film is scheduled for a release on February 13, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-126464167,imgsize-48056.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/oromeo-director-vishal-bhardwaj-revived-shelved-deepika-padukone-irrfan-khan-biopic-sapna-didi-for-shahid-kapoor-and-triptii-dimri-starrer-reports/articleshow/126464167.cms",
-    "time": "2026-01-11T11:07:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Misleading narrative’: Chirag Paswan hits out at opposition over VB-G RAM G protest, calls it ‘help’ in winning Bengal",
-    "desc": "Union minister Chirag Paswan accused the Congress and RJD of spreading a misleading narrative around government schemes like VB-G RAM G, claiming their protests would electorally benefit the NDA. Paswan defended the new scheme, emphasizing collective responsibility and improved focus on infrastructure projects, while criticizing the Congress for alleged corruption in MGNREGA.",
-    "img": "https://static.toiimg.com/photo/msid-126464249,imgsize-943019.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/misleading-narrative-chirag-paswan-hits-out-at-opposition-over-vb-g-ram-g-protest-calls-it-help-in-winning-bengal/articleshow/126464224.cms",
-    "time": "2026-01-11T11:00:10.000Z"
   },
   {
     "cat": "Entertainment",
@@ -450,15 +378,6 @@ const newsData_en = [
     "time": "2026-01-11T10:51:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Journey from 20% to 30% and 40% won’t be that long’: Amit Shah says BJP vote share rising in Kerala; confident of forming government in 2026",
-    "desc": "Union home minister Amit Shah expressed confidence in the BJP's growing support in Kerala, predicting a victory in the upcoming Assembly elections. He highlighted the party's increasing vote share and recent local body successes, attributing them to dedicated workers.",
-    "img": "https://static.toiimg.com/photo/msid-126466951,imgsize-1283882.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/journey-from-20-to-30-and-40-wont-be-that-long-amit-shah-says-bjp-vote-share-rising-in-kerala-confident-of-forming-government-in-2026/articleshow/126464153.cms",
-    "time": "2026-01-11T10:50:40.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Where is Arshdeep?'",
     "desc": "India faced New Zealand in the first ODI at Vadodara, but team selection stole the spotlight. Arshdeep Singh’s absence from the playing XI surprised fans and sparked memes online, with Mohammed Siraj returning instead. Meanwhile, Shreyas Iyer made his comeback after injury, strengthening India’s batting. Shubman Gill chose to bowl first, aiming to test combinations in helpful conditions.",
@@ -468,15 +387,6 @@ const newsData_en = [
     "time": "2026-01-11T10:41:52.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kamal Haasan moves Madras High Court to safeguard personality rights",
-    "desc": "Actor Kamal Haasan has filed a John Doe lawsuit at the Madras High Court to protect his personality rights against unauthorized commercial exploitation. The plea seeks to prevent the misuse of his name, image, and the title 'Ulaganayagan' by individuals and institutions, citing a specific instance of a Chennai firm selling unauthorized merchandise.",
-    "img": "https://static.toiimg.com/photo/msid-126464074,imgsize-30062.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kamal-haasan-moves-madras-high-court-to-safeguard-personality-rights-against-unauthorized-use-of-ulaganayagan-report/articleshow/126464074.cms",
-    "time": "2026-01-11T10:41:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Bangladeshi umpire officiates IND vs NZ ODI amid Mustafizur row",
     "desc": "As per ICC regulations, umpires for ODIs are appointed under specific clauses. Clause 2.1.4 states that the ICC shall appoint one umpire for each ODI, who must not be from the same country as the participating teams and must be from the Elite Panel or International Panel. Clause 2.1.5 says the home board shall appoint one umpire.",
@@ -484,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/bangladeshi-umpire-officiates-india-vs-new-zealand-first-odi-amid-mustafizur-rahman-row-who-is-he/articleshow/126463839.cms",
     "time": "2026-01-11T10:39:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyadarshan says Aditya Dhar 'never got his due credit...'",
-    "desc": "Recognized filmmaker Priyadarshan praised Aditya Dhar, affectionately calling him a 'devoted disciple' and 'loyal friend.' He shared that Dhar's ambitions of pursuing cricket met an unexpected twist due to an incident from his past. Priyadarshan expressed his pride in Dhar's journey, noting how he has transcended the shadows of unacknowledged scriptwriting brilliance to shine in directorial roles.",
-    "img": "https://static.toiimg.com/photo/msid-126463879,imgsize-23566.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyadarshan-reveals-dhurandhar-helmer-aditya-dhar-never-got-his-due-credit-because-the-directors-took-his-research/articleshow/126463879.cms",
-    "time": "2026-01-11T10:27:27.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +799,104 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/india-us-trade-deal-didnt-happen-because-modi-did-not-call-trump-lutnick/article70489564.ece",
     "time": "2026-01-09T05:48:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "The Ashes aftermath — England’s Test future at the crossroads",
+    "desc": "The line between carefree and careless often blurred, but not too many seemed to take notice, or be too bothered about it; it has happened far too often now for ‘Bazball’ to not face serious scrutiny, if not downright condemnation, any longer",
+    "img": "https://th-i.thgim.com/public/incoming/3ukjy9/article70488166.ece/alternates/LANDSCAPE_1200/2026-01-08T120726Z_1617220279_RC2SWIA0PFV9_RTRMADP_3_CRICKET-ASHES.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/the-ashes-aftermath-englands-test-future-at-the-crossroads/article70488172.ece",
+    "time": "2026-01-08T18:30:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vijay Hazare Trophy",
+    "desc": "The two batters undo the efforts of the losing side’s pace battery that initially reduces its opponent to 90 for seven; earlier Aman and Nitish help in stabilising a middle-order collapse; winning team is now fifith with Uttar Pradesh as the group topper Vidarbha enters the quarterfinals",
+    "img": "https://th-i.thgim.com/public/incoming/ag6cns/article70488044.ece/alternates/LANDSCAPE_1200/TH09%20AQUIB%20.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/vijay-hazare-trophy-hyderabad-falls-apart-as-nabi-vanshaj-turn-it-around-for-jk/article70488043.ece",
+    "time": "2026-01-08T17:07:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Watch",
+    "desc": "Actor-politician Vijay’s fans are disappointed after the last-minute postponement of his much-anticipated final film Jana Nayagan. The CBFC refused to grant certification despite the makers complying with 27 cuts, triggering allegations of political interference. The move has once again raised questions about how politics has shadowed Vijay’s films for over a decade.",
+    "img": "https://th-i.thgim.com/public/incoming/870k8t/article70487352.ece/alternates/LANDSCAPE_1200/Jana%20Nayagan%20The%20battle%20for%20release.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-vijay-final-film-jana-nayagan-delayed-a-political-plot-focus-tamil-nadu/article70487366.ece",
+    "time": "2026-01-08T14:46:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sabalenka to skip events in 2026 to prioritise her health",
+    "desc": "Top players are ​obliged to compete in all four Grand Slams, 10 WTA 1000 tournaments and six WTA 500 events under WTA rules, with the punishment for missing them ranging from rankings points deductions to fines",
+    "img": "https://th-i.thgim.com/public/incoming/k8pm1b/article70485352.ece/alternates/LANDSCAPE_1200/2025-12-28T174346Z_1741657235_UP1ELCS1D8XFZ_RTRMADP_3_TENNIS-BATTLE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/sabalenka-to-skip-events-in-2026-to-prioritise-her-health/article70485341.ece",
+    "time": "2026-01-08T05:46:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India’s progress on its climate targets",
+    "desc": "While the country has successfully reduced emissions intensity, and increased non-fossil power capacity, challenges remain in translating these achievements into absolute emissions reductions. The next few years will be critical in addressing these gaps and ensuring a sustainable future",
+    "img": "https://th-i.thgim.com/public/incoming/n2w003/article70483789.ece/alternates/LANDSCAPE_1200/IMG_COP27_India_Expectat_2_1_ACDU832Q.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/indias-progress-on-its-climate-targets/article70481985.ece",
+    "time": "2026-01-08T03:00:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Indian badminton stayed in the conversation without big conquests",
+    "desc": "Satwik and Chirag reached the climactic phase in many tournaments but failed to go the distance; Sindhu and Lakshya were not at their consistent best; the absence of depth made it a tougher pill to swallow, making the country’s presence a peripheral one at the global level",
+    "img": "https://th-i.thgim.com/public/sport/a9adjb/article70483878.ece/alternates/LANDSCAPE_1200/SATCHI.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/how-indian-badminton-stayed-in-the-conversation-without-big-conquests/article70483874.ece",
+    "time": "2026-01-07T17:52:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Jana Nayagan’ movie release: Chances of Vijay-starrer hitting screens on January 9 appear bleak",
+    "desc": "Justice P.T. Asha of Madras High Court has reserved orders on production firm’s plea to grant censor certificate and is likely to pronounce them only on January 9; hours later, the film’s producers announced the postponement of its release",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/x4dotx/article70482480.ece/alternates/LANDSCAPE_1200/Jana%20Nayagan%20stills.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/jana-nayagan-movie-release-chances-of-vijay-starrer-hitting-screens-on-january-9-appear-bleak/article70482143.ece",
+    "time": "2026-01-07T13:23:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Interview",
+    "desc": "Malayalam actor, producer and social media influencer Riya Shibu is basking in the adulation coming her way post her role as the ‘Gen Z’ ghost in Nivin Pauly’s Sarvam Maya, which is having a dream run at the box office",
+    "img": "https://th-i.thgim.com/public/incoming/4raf3w/article70481628.ece/alternates/LANDSCAPE_1200/07tvm%20riya5.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/interview-malayalam-actor-producer-riya-shibu/article70476812.ece",
+    "time": "2026-01-07T10:05:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Love Mocktail 3’: Darling Krishna-Milana Nagaraj film locks release date",
+    "desc": "‘Love Mocktail 3 is set to drop in theatres in April. The new chapter in the Kannada film series brings back Darling Krishna and Milana Nagaraj, who not only star but also co-write and direct together",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/23xdf6/article70481454.ece/alternates/LANDSCAPE_1200/Love%20Mocktail.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/love-mocktail-3-release-date-love-mocktail-darling-krishna-milana-nagaraj-nakul-abhayankar-april-2026/article70481308.ece",
+    "time": "2026-01-07T08:18:59.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "SC agrees to take up plea for SOP on freezing, de-freezing bank accounts in cybercrime cases",
+    "desc": "The plea also sought appropriate guidelines to all investigating agencies, including cyber cells, to ensure no bank account gets frozen without a written order and intimation to the account holder within 24 hours of such action",
+    "img": "https://th-i.thgim.com/public/news/national/uttar-pradesh/yz3pc2/article70478495.ece/alternates/LANDSCAPE_1200/iStock-817486028.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/sc-agrees-to-take-up-plea-for-sop-on-freezing-de-freezing-bank-accounts-in-cybercrime-cases/article70478321.ece",
+    "time": "2026-01-06T13:36:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock markets fall for second day as selling in Reliance Industries, HDFC Bank dents sentiment",
+    "desc": "50-share NSE Nifty declined 71.60 points, or 0.275, to end at 26,178.70. From the 30-Sensex firms, Trent tumbled 8.62% after the Tata group's retail firm's revenue growth in the December quarter failed to cheer investors.",
+    "img": "https://th-i.thgim.com/public/incoming/saimnm/article70477966.ece/alternates/LANDSCAPE_1200/2025-12-23T004953Z_1598912984_RC2ZLIAI6HWV_RTRMADP_3_INDIA-STOCKS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/stock-markets-fall-for-second-day-as-selling-in-reliance-industries-hdfc-bank-dents-sentiment/article70477934.ece",
+    "time": "2026-01-06T12:04:59.000Z"
   }
 ];
