@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Watch",
+    "desc": "A tense exchange unfolded at a Bangladesh Premier League media interaction when Afghanistan veteran Mohammad Nabi reacted angrily to a question linking him to an unrelated Indian Premier League controversy. The moment came after Noakhali...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-nabi-shuts-reporter-when-questioned-about-mustafizur-rahman-controversy-during-bpl-watch-2026-01-12-1025552",
+    "time": "2026-01-12T12:00:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shikhar Dhawan gets engaged to Sophie Shine, former cricketer confirms on social media",
+    "desc": "Former India cricketer Shikhar Dhawan has got engaged to girlfriend Sophie Shine. The ex-cricketer confirmed the development through a social media post on Instagram. \"From shared smiles to shared dreams. Grateful for the love, the blessings...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shikhar-dhawan-gets-engaged-to-sophie-shine-former-cricketer-confirms-on-social-media-2026-01-12-1025551",
+    "time": "2026-01-12T11:52:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Virat Kohli is on a different level': Kyle Jamieson on Indian icon after IND vs NZ 1st ODI",
+    "desc": "New Zealand fast bowler Kyle Jamieson hailed India icon Virat Kohli after the latter's stellar knock during the first ODI between the two teams at the BCA Stadium on Sunday, January 11. Kohli has been in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-is-on-a-different-level-kyle-jamieson-on-indian-icon-after-ind-vs-nz-1st-odi-2026-01-12-1025544",
+    "time": "2026-01-12T11:28:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KC Cariappa, former KKR, PBKS and RR player, announces retirement from Indian cricket",
+    "desc": "KC Cariappa announced his retirement from Indian cricket on Monday, January 12. Cariappa, who has played for Kolkata Knight Riders, Punjab Kings and has been part of Rajasthan Royals, confirmed his decision through a social...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kc-cariappa-former-kkr-pbks-and-rr-player-announces-retirement-from-indian-cricket-2026-01-12-1025530",
+    "time": "2026-01-12T10:31:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Matches to be held behind closed doors for two days due to local election in Navi Mumbai",
+    "desc": "Two days of Women’s Premier League action this week are set to take place without fans after local authorities indicated they would be unable to deploy sufficient security because of municipal corporation elections in Navi...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wpl-2026-matches-to-be-held-behind-closed-doors-for-two-days-due-to-local-election-in-navi-mumbai-2026-01-12-1025529",
+    "time": "2026-01-12T10:30:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Virat Kohli has best chance to break Sachin Tendulkar's 32-year-old record in IND vs NZ 2nd ODI",
     "desc": "India batting icon Virat Kohli has been in Midas touch in recent times as the maestro has been piling up runs in the ODI format. Kohli, the former India skipper, scored a masterful 93 in...",
     "img": "",
@@ -34,59 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/manchester-united-crash-out-of-fa-cup-early-after-shocking-loss-to-brighton-2026-01-12-1025504",
     "time": "2026-01-12T07:55:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ajinkya Rahane weighs in on India's performance after comfortable win against New Zealand in Vadodara",
-    "desc": "Team India kicked off their ODI series against New Zealand with a brilliant victory. The two sides took on each other at the BCA Stadium in Vadodara on January 11, and the clash saw the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ajinkya-rahane-weighs-in-on-india-s-performance-after-comfortable-win-against-new-zealand-in-vadodara-2026-01-12-1025488",
-    "time": "2026-01-12T06:38:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli inches closer to Sachin Tendulkar's elite record with another stellar show in first NZ ODI",
-    "desc": "The first ODI of the ongoing series between India and New Zealand saw the Men in Blue register a brilliant victory. The two sides took on each other at the Kotambi Stadium in Vadodara for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-inches-closer-to-sachin-tendulkar-s-elite-record-with-another-stellar-show-in-first-nz-odi-2026-01-12-1025475",
-    "time": "2026-01-12T05:11:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer opens up on KL Rahul's batting position after 1st NZ ODI",
-    "desc": "The 1st ODI of the ongoing multi-format white-ball series between India and New Zealand saw the Men in Blue register a brilliant victory. The two sides locked horns at the Kotambi Stadium in Vadodara on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-opens-up-on-kl-rahul-s-batting-position-after-1st-nz-odi-2026-01-12-1025467",
-    "time": "2026-01-12T03:54:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New venue options emerge for Bangladesh's T20 World Cup 2026 matches: Report",
-    "desc": "The stage is set for the upcoming edition of the T20 World Cup 2026. The marquee tournament is all set to be co-hosted by India and Sri Lanka. The competition is set to kick off...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-venue-options-emerge-for-bangladesh-s-t20-world-cup-2026-matches-report-2026-01-12-1025458",
-    "time": "2026-01-12T02:43:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch first Grand Slam of the year on TV and online in India?",
-    "desc": "The stage is set for the very first tennis Grand Slam tournament of the year, as the Australian Open 2026 kicks off. It is worth noting that the marquee tournament kicks off with the Qualifiers...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/australian-open-2026-live-when-and-where-to-watch-first-grand-slam-of-the-year-on-tv-and-online-in-india-2026-01-12-1025449",
-    "time": "2026-01-12T01:41:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Don’t feel good about it, same happens with MS Dhoni'",
-    "desc": "Virat Kohli once again demonstrated why he remains one of the premier batsmen in world cricket as India chased down 301 against New Zealand in the first ODI at Vadodara’s BCA Stadium in Vadodara. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dont-feel-good-about-it-same-happens-with-ms-dhoni-virat-kohli-on-crowd-reaction-after-rohits-dismissal-2026-01-11-1025442",
-    "time": "2026-01-11T18:22:59.000Z"
   }
 ];

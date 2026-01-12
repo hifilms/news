@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "પોસ્ટ ઓફિસની આ સ્કીમમાં તમારા પૈસા થઈ જશે ડબલ, જાણો વિગત",
+    "desc": "જો તમે કોઈ જોખમ વગર તમારા પૈસા ડબલ કરવા ઈચ્છો છો તો પોસ્ટ ઓફિસની કિસાન વિકાસ પત્ર યોજના શાનદાર વિકલ્પ છે. આ સરકારી યોજનામાં 7.5 ટકા વ્યાજ મળી રહ્યું છે, જેમાં તમારા પૈસા 115 મહિનામાં ડબલ થઈ જશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/post-office-money-doubling-scheme-kisan-vikas-patra-interest-rate-calculator-461451 ",
+    "time": "2026-01-12T11:45:11.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "સરકાર અને Appleની ડબલ ચેતવણી! iPhone યુઝર્સ તાત્કાલિક કરે આ એક કામ, નહીંતર ફોન થઈ શકે છે હેક",
+    "desc": "Apple iPhoneનો ઉપયોગ કરો છો, તો તમારે તાત્કાલિક એક કામ કરી લેવું જોઈએ, નહીંતર ભારે નુકસાનનો સામનો કરવો પડી શકે છે. સરકારી એજન્સી CERT-In અને એપલે તેમના યુઝર્સને એલર્ટ કર્યા છે. ચાલો જાણીએ કે આ એલર્ટ શા માટે જારી કરવામાં આવ્યું છે અને એલર્ટ અને કેવી રીતે ઠીક કરવું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/iphone-security-risk-update-apple-cert-warns-how-to-update-ios-26-461449 ",
+    "time": "2026-01-12T11:12:57.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "પાસવર્ડની જરૂર પડશે નહીં! ગૂગલ અને માઇક્રોસોફ્ટ લાવી રહ્યા છે એક નવી લોગિન સિસ્ટમ, ભારતમાં અટવાઈ શકે છે આખો ખેલ",
+    "desc": "પાસવર્ડ ભૂલી જવું સામાન્ય બાબત છે, પરંતુ સમસ્યા એ છે કે તમે સલામતી માટે તેને લખી શકતા નથી. તેથી, તમે તમારા ફોન અથવા ટેબ્લેટને તમારો પાસવર્ડ બનાવી શકો છો. પાસકી એક રસપ્રદ લોગિન સિસ્ટમ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/no-need-for-passwords-google-and-microsoft-are-bringing-a-new-login-system-the-whole-game-may-get-stuck-in-india-461439 ",
+    "time": "2026-01-12T10:30:32.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "મકરસંક્રાંતિ પર સરકારની મોટી ભેટ ! આ મહિલાઓના ખાતામાં આવશે રૂપિયા 3,000",
     "desc": "મહારાષ્ટ્ર સરકાર મકરસંક્રાંતિ પર લાડલી બહેન યોજના હેઠળ ડિસેમ્બર-જાન્યુઆરી મહિનાનો બાકી રહેલો 3,000 રૂપિયાનો હપ્તો ચૂકવવાની તૈયારી કરી રહી છે. મ્યુનિસિપલ ચૂંટણીના એક દિવસ પહેલા હપ્તો આપવા સામે કોંગ્રેસે ચૂંટણી પંચમાં ફરિયાદ કરી, તેને આદર્શ આચારસંહિતાનું ઉલ્લંઘન ગણાવ્યું અને મતદાન પછી હપ્તો ચૂકવવાની માંગ કરી.",
@@ -369,15 +396,6 @@ const newsData_gu = [
     "time": "2026-01-10T10:42:48.000Z"
   },
   {
-    "cat": "Business",
-    "title": "SBIના ગ્રાહકોને ઝટકો! ATMમાંથી પૈસા ઉપાડવા થયા વધુ મોંઘા",
-    "desc": "દેશની સૌથી મોટી સરકારી ક્ષેત્રની બેંક, સ્ટેટ બેંક ઓફ ઈન્ડિયા (SBI)એ તેના ગ્રાહકોને આંચકો આપ્યો છે. બેંકે ATM ટ્રાન્ઝેક્શન ચાર્જમાં વધારો કર્યો છે, જેના કારણે રોકડ ઉપાડ અને અન્ય ATM સેવાઓ મોંઘી થઈ ગઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/sbi-customers-in-for-a-shock-withdrawing-money-from-atms-has-become-more-expensive-461119 ",
-    "time": "2026-01-10T10:35:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "શુભમન ગિલે T20 વર્લ્ડ કપમાંથી બહાર થવા પર તોડ્યું મૌન, જાણો શું કહ્યું",
     "desc": "7 ફેબ્રુઆરીથી T20 વર્લ્ડ કપ 2026 શરૂ થઈ રહ્યો છે. ટીમ ઈન્ડિયાની જાહેરાત જાન્યુઆરીના પહેલા અઠવાડિયામાં કરવામાં આવી હતી. જેમાં શુભમન ગિલનો સમાવેશ કરવામાં આવ્યો નહોતો. પસંદગીકારોના આ નિર્ણય પર ગિલે પહેલીવાર પોતાનું મૌન તોડ્યું છે.",
@@ -385,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/captain-shubman-gill-breaks-silence-t20-world-cup-snub-team-india-461116 ",
     "time": "2026-01-10T09:51:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Post Office માં ₹7,00,000 રોકાણ કરવા પર ₹3,14,964 મળશે ફિક્સ વ્યાજ, ધાંસૂ છે આ સ્કીમ",
-    "desc": "કોઈપણ વ્યક્તિ દેશની કોઈ પોસ્ટ ઓફિસમાં ઓફલાઇન અને ઓનલાઈન બંને બંને પ્રકારે પોસ્ટ ઓફિસ ટાઇમ ડિપોઝિટ એકાઉન્ટ ખોલી સકો છો. પોસ્ટ ઓફિસના ટાઇમ ડિપોઝિટ એકાઉન્ટને દેશની કોઈ એક પોસ્ટ ઓફિસથી બીજી પોસ્ટ ઓફિસમાં સરળતાથી ટ્રાન્સફર કરી શકાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/investing-rs700000-in-the-post-office-5-year-time-deposit-scheme-will-yield-a-fixed-interest-of-rs314964-461111 ",
-    "time": "2026-01-10T09:13:59.000Z"
   },
   {
     "cat": "World",
@@ -421,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/husband-arranges-wife-marriage-with-lover-fear-of-murder-in-jaunpur-up-461105 ",
     "time": "2026-01-10T08:06:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "&amp;#039;અમે એક્ટિંગ કરી રહ્યા છીએ...&amp;#039; T20 વર્લ્ડ કપ વિવાદ વચ્ચે બાંગ્લાદેશના કેપ્ટને તોડ્યું મૌન",
-    "desc": "ભારત અને શ્રીલંકા દ્વારા યોજાનાર 2026ના T20 વર્લ્ડ કપ પહેલા ભારત-બાંગ્લાદેશ વિવાદ વધુ ઘેરો બની રહ્યો છે. બાંગ્લાદેશ ક્રિકેટ બોર્ડે પોતાની ટીમ ભારત મોકલવાનો ઇનકાર કર્યો હતો અને ICC પાસે શ્રીલંકામાં મેચો રમવાની માંગ કરી છે. હવે આ મામલે બાંગ્લાદેશના કેપ્ટન મૌન તોડ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-controversy-bangladesh-test-captain-najmul-hossain-breaks-silence-461089 ",
-    "time": "2026-01-10T06:54:35.000Z"
   },
   {
     "cat": "Entertainment",
@@ -502,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/what-is-deep-state-discussion-after-venezuela-bangladesh-and-iran-461010 ",
     "time": "2026-01-09T11:30:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM કિસાન યોજનાનો 22મો હપ્તો ક્યારે રિલીઝ થશે? 2000 રૂપિયા ખાતામાં ન આવે તો શું કરવું...જાણો તમામ વિગતો",
-    "desc": "ખેડૂતો પીએમ કિસાન નિધિ યોજનાના 22મા હપ્તાની રાહ જોઈ રહ્યા છે. આ વખતે યોજનાનો લાભ લેવા માટે એક મહત્વનો ફેરફાર પણ કરાયો છે જે ખેડૂતોને જાણ હોવી જરૂરી છે. હપ્તો ક્યારે ખાતામાં આવશે? હપ્તો ન અટકે એ માટે શું કરવું વગેરે તમામ વિગતો માટે વાંચો અહેવાલ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/agriculture/when-will-the-22nd-installment-of-pm-kisan-samman-nidhi-yojana-be-released-ekyc-farmer-id-461005 ",
-    "time": "2026-01-09T10:59:26.000Z"
   },
   {
     "cat": "Tech",
@@ -648,15 +639,6 @@ const newsData_gu = [
     "time": "2026-01-07T08:14:50.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "નિક જોનસના મગજમાં દર 5 સેકન્ડે ચાલે છે પ્રિયંકાનું આ ગીત, કપિલ શર્મા સાથે છે કનેકશન",
-    "desc": "નિક જોનસ અને પ્રિયંકા ચોપડા એકબીજા સાથે વેકેશન માણી રહ્યા છે. તેવામાં નિક જોનસે એક વીડિયો શેર કર્યો છે જે સોશિયલ મીડિયા પર વાયરલ થઈ રહ્યો છે. વીડિયોમાં નિક જણાવે છે કે હાલ તેના મગજમાં દર 5 સેકન્ડે શું ચાલી રહ્યું છે...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/nick-jonas-is-vibing-on-priyanka-chopra-song-baby-dance-slowly-slowly-from-kapil-sharma-show-460712 ",
-    "time": "2026-01-07T07:59:48.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "હવે હાઇવે પર કારથી વધારે સ્પીડે દોડશે ઇન્ટરનેટ! મોદી સરકારનો માસ્ટરપ્લાન તૈયાર, શોધી કાઢ્યો જાદુઈ ફોર્મ્યુલા",
     "desc": "આ સમસ્યાને ઉકેલવા માટે, NHAIએ એક મોટું પગલું ભર્યું છે. NHAIએ ટેલિકોમ્યુનિકેશન વિભાગ (DoT) અને ટેલિકોમ નિયમનકાર TRAI પાસેથી મદદ માંગી છે, જેથી એવા વિસ્તારોમાં મોબાઇલ નેટવર્ક કનેક્ટિવિટી સુધારી શકાય જ્યાં કનેક્ટિવિટી હાલમાં નબળી છે અથવા અસ્તિત્વમાં નથી.",
@@ -664,14 +646,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/modi-governments-master-plan-for-nhai-internet-problem-magic-formula-has-been-discovered-460679 ",
     "time": "2026-01-07T03:35:11.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "સાવધાન ! Google પર ભૂલથી પણ સર્ચ ના કરતા આ 6 શબ્દો, નહીંતર થઈ શકે છે જેલ",
-    "desc": "ગૂગલ પર કંઈપણ સર્ચ પહેલા તમારે સાવધાની રાખવાની જરૂર છે. આ લેખમાં અમે તમને એ છ શબ્દો વિશે જણાવીશું, જેને તમારે ભૂલથી પણ સર્ચ ના કરવી જોઈએ, નહીં તો મોંઘી પડી શકે છે. તમને જેલની સજા પણ થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/avoid-searching-these-6-things-on-google-will-land-you-in-jail-460598 ",
-    "time": "2026-01-06T08:57:22.000Z"
   }
 ];
