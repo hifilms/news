@@ -1,5 +1,149 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "'I'll kick you': Raj Thackeray warns UP, Bihar migrants against Hindi imposition; calls it crisis",
+    "desc": "\"If you miss this opportunity today, you will be finished. Unite for Marathi and Maharashtra.\"​​ Shiv Sena (UBT) chief Uddhav Thackeray and his cousin Raj Thackeray on Sunday mounted a joint attack on the rival BJP over what they described as “fake Hindutva” at a rally held ahead of the civic polls.",
+    "img": "https://static.toiimg.com/photo/msid-126475059,imgsize-42990.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ill-kick-you-raj-thackeray-warns-up-bihar-migrants-against-hindi-imposition-calls-it-crisis/articleshow/126474734.cms",
+    "time": "2026-01-12T04:01:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC–BCB impasse continues as Bangladesh venues remain unresolved",
+    "desc": "Bangladesh's T20 World Cup venue remains uncertain as the BCB seeks a shift to Sri Lanka due to security concerns. The ICC and BCCI are exploring Indian alternatives like Chennai and Thiruvananthapuram. This impasse follows a dispute over a player's IPL release, escalating tensions and impacting broadcast rights. Pakistan has also offered to host.",
+    "img": "https://static.toiimg.com/photo/msid-126474840,imgsize-84554.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-in-deadlock-iccbcb-impasse-continues-as-bangladesh-venues-remain-unresolved/articleshow/126474761.cms",
+    "time": "2026-01-12T03:42:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Sinners’ leads with 7 nods",
+    "desc": "Hailee Steinfeld radiated joy at the Golden Globes, making her first public appearance since announcing her pregnancy with husband Josh Allen. The actress proudly showcased her baby bump in a stunning floor-length gown. Her film, 'Sinners,' is a major contender, securing seven nominations, including Best Motion Picture – Drama and recognition for its cast and crew.",
+    "img": "https://static.toiimg.com/photo/msid-126474832,imgsize-32140.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sinners-star-hailee-steinfeld-debuts-her-baby-bump-on-golden-globes-red-carpet-pics/articleshow/126474832.cms",
+    "time": "2026-01-12T03:41:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "DSG survive late scare to beat SEC in a thriller",
+    "desc": "Durban’s Super Giants kept their SA20 playoff hopes alive with a thrilling two-wicket victory over Sunrisers Eastern Cape after a roller-coaster chase at St George’s Park, highlighted by Aiden Markram’s brisk start and a nerveless finish from Evan Jones.",
+    "img": "https://static.toiimg.com/photo/msid-126474757,imgsize-64200.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/sa20/sa20-durbans-super-giants-survive-late-scare-to-beat-sunrisers-eastern-cape-in-a-thriller/articleshow/126474742.cms",
+    "time": "2026-01-12T03:31:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mani Shankar Aiyar draws distinction, triggers row; BJP hits back",
+    "desc": "Congress leader Mani Shankar Aiyar stated that Hindutva is \"Hinduism in paranoia,\" arguing it incites fear among Hindus towards Muslims. He contrasted this with Hinduism, calling it a spiritual religion that has thrived for millennia without Hindutva's protection. BJP leader Sudhanshu Trivedi countered that Hindutva represents the core essence of Hinduism, or 'Hindu tattva,' and cherishing Hinduism is Hindutva.",
+    "img": "https://static.toiimg.com/photo/msid-126474238,imgsize-50964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/hinduism-in-paranoia-mani-shankar-aiyar-criticises-hindutva-claims-its-a-political-tract/articleshow/126473905.cms",
+    "time": "2026-01-12T03:22:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill",
+    "desc": "India secured a four-wicket victory over New Zealand in the first ODI, successfully chasing a 301-run target. Captain Shubman Gill and Virat Kohli were instrumental in the chase, with Kohli emerging as the standout performer. Gill emphasized the importance of staying present during run chases and praised Kohli's exceptional batting.",
+    "img": "https://static.toiimg.com/photo/msid-126474462,imgsize-53912.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/tough-to-replicate-what-virat-kohli-does-shubman-gill-after-indias-win-vs-new-zealand/articleshow/126474375.cms",
+    "time": "2026-01-12T03:13:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Should the age of consent be lowered?",
+    "desc": "While some argue that the current law criminalises consensual relationships among adolescents, others warn that lowering the age could undermine protections against child exploitation. This debate comes amid rising POCSO cases, highlighting a growing conflict between adolescent autonomy and the need to safeguard vulnerable minors",
+    "img": "https://th-i.thgim.com/public/incoming/icgo03/article70498801.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U8T7UUP0L_R1605005988_0_b54eaecf-4108-4ade-8ab9-6e87a96e75e3.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/should-the-age-of-consent-be-lowered/article70497533.ece",
+    "time": "2026-01-12T03:00:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress slams 'trouble-engine' U.P. govt. for 'brutal lathi-charge' on MGNREGA Bachao protesters",
+    "desc": "The Congress agitation demanding the withdrawal of the VB-G RAM G Act and restoration of MGNREGA as a rights-based law in its original form, the right to work, and the authority of panchayats will continue till February 25",
+    "img": "https://th-i.thgim.com/public/incoming/wv4kpe/article70499967.ece/alternates/LANDSCAPE_1200/PTI01_11_2026_000573B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/congress-slams-trouble-engine-up-govt-for-brutal-lathi-charge-on-mgnrega-bachao-protesters/article70498950.ece",
+    "time": "2026-01-12T02:58:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'They’re playing cute': Trump 'inclined' to keep ExxonMobil out of Venezuela — here's why",
+    "desc": "President Trump expressed displeasure with ExxonMobil's assessment of Venezuela's investment climate, calling their stance \"too cute.\" This follows a meeting where Trump urged oil firms to engage directly with the US, not the Venezuelan government. ExxonMobil's CEO deemed the country \"uninvestable\" due to current commercial frameworks. Trump's administration is actively seeking US oil company investment to aid Venezuela's recovery.",
+    "img": "https://static.toiimg.com/photo/msid-126474092,imgsize-58810.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/theyre-playing-cute-trump-inclined-to-keep-exxonmobil-out-of-venezuela-heres-why/articleshow/126473791.cms",
+    "time": "2026-01-12T02:51:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Federal Reserve Chair Powell says DOJ has subpoenaed central bank, threatens criminal indictment",
+    "desc": "Federal Reserve Chair Jerome Powell revealed the Justice Department issued subpoenas and threatened criminal indictment over his testimony on building renovations. Powell characterized the charges as \"pretexts\" to undermine the Fed's independence in setting interest rates, a move drawing concern from a Republican senator about the DOJ's credibility.",
+    "img": "https://static.toiimg.com/photo/msid-126474013,imgsize-177184.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/federal-reserve-chair-powell-says-doj-has-subpoenaed-central-bank-threatens-criminal-indictment/articleshow/126474005.cms",
+    "time": "2026-01-12T02:40:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harshit Rana",
+    "desc": "Pacer Harshit Rana lauded Shubman Gill's captaincy, calling him a \"free and aggressive captain\" who empowers his teammates. Rana highlighted Gill's clear decision-making and composure under pressure. This leadership style was evident as India secured a four-wicket victory against New Zealand in the opening ODI, with Gill contributing a crucial 56.",
+    "img": "https://static.toiimg.com/photo/msid-126474003,imgsize-44604.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/shubman-gill-is-an-aggressive-captain-harshit-rana/articleshow/126473966.cms",
+    "time": "2026-01-12T02:37:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Selena Gomez and Benny Blanco wow fans on red carpet",
+    "desc": "During the Golden Globes, the spotlight was on Selena Gomez and Benny Blanco as they shared an endearing moment on the red carpet. Gomez, elegant in a black velvet gown accented with a bold feathered bustier, was celebrated for her role in 'Only Murders In The Building.",
+    "img": "https://static.toiimg.com/photo/msid-126473913,imgsize-48224.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/selena-gomez-and-benny-blanco-share-a-sweet-moment-at-the-golden-globes-red-carpet/articleshow/126473913.cms",
+    "time": "2026-01-12T02:27:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli",
+    "desc": "Virat Kohli described his career as a dream come true after becoming the fastest batter to 28,000 international runs. He expressed immense gratitude for his journey, emphasising his joy in bringing happiness to fans through cricket. Kohli also shared his aggressive batting mindset and revealed his trophies are sent to his mother.",
+    "img": "https://static.toiimg.com/photo/msid-126473879,imgsize-43952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohli-i-send-my-awards-to-my-mum-she-likes-keeping-all-the-trophies-watch/articleshow/126473840.cms",
+    "time": "2026-01-12T02:20:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Paul Thomas Anderson wins, ‘The Secret Agent’ brings home gold",
+    "desc": "As Hollywood’s awards season officially kicks off, the Golden Globes 2026 get underway in Beverly Hills with ‘One Battle After Another’ emerging as the early frontrunner in a tightly contested film and television race shaping the road to the Oscars",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/l0q8aw/article70499922.ece/alternates/LANDSCAPE_1200/Screenshot%202026-01-12%20072300.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/golden-globes-2026-winners-one-battle-after-another-leads-the-charge-as-golden-globes-commence-at-beverly-hills/article70499913.ece",
+    "time": "2026-01-12T02:09:36.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Wildfires in south Argentina rip through nearly 12,000 hectares of forest, threatening communities",
+    "desc": "The fires started almost a week ago in the Andean region of the Argentine province of Chubut and are putting a power plant and a school at risk as well as affecting rural properties, said the authorities",
+    "img": "https://th-i.thgim.com/public/incoming/s1ee9s/article70499917.ece/alternates/LANDSCAPE_1200/AFP__20260107__89WK2ZQ__v3__HighRes__TopshotArgentinaWildfireEnvironment.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/wildfires-in-south-argentina-rip-through-nearly-12000-hectares-of-forest-threatening-communities/article70499915.ece",
+    "time": "2026-01-12T01:54:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prabhas starrer mints Rs 20 cr",
+    "desc": "In a dazzling debut, Prabhas's 'The Raja Saab' has captivated audiences, amassing a staggering Rs 53.75 crore on its first day at the box office. The exhilarating blend of horror and comedy continued to attract viewers, with the film's total India nett collection hitting Rs 108.93 crore by Sunday, while its worldwide earnings reached Rs 158.5 crore.",
+    "img": "https://static.toiimg.com/photo/msid-126473453,imgsize-32926.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/the-raja-saab-box-office-collection-day-3-prabhas-starrer-mints-rs-20-crore-sails-past-rs-100-crore-total/articleshow/126473453.cms",
+    "time": "2026-01-12T01:28:48.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Priyanka Chopra teases role in 'The Bluff' at Golden Globes",
     "desc": "Priyanka Chopra Jonas unveiled details about her upcoming film 'The Bluff' at the Golden Globes, revealing it's a rated 'R' female pirate movie releasing February 25th on Prime. She also discussed her husband Nick Jonas's support and their quiet family life with daughter Malti Marie. Chopra will also present at the awards.",
@@ -16,6 +160,24 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-38-ranveer-singh-led-spy-thriller-shows-slight-growth-on-sixth-sunday-worldwide-collection-is-now-rs-1254-9-crore/articleshow/126473270.cms",
     "time": "2026-01-12T00:10:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No India, no SL? Pak approaches ICC to host B'desh's T20 WC matches",
+    "desc": "The situation follows the decision by IPL franchise Kolkata Knight Riders (KKR) to leave out Bangladesh fast bowler Mustafizur Rahman from their squad for the 2026 season, despite buying him for Rs 9.2 crore in the mini auction.",
+    "img": "https://static.toiimg.com/photo/msid-126464994,imgsize-28694.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mustafizur-rahman-row-no-india-no-sri-lanka-pakistan-approaches-icc-to-host-bangladeshs-t20-world-cup-matches/articleshow/126464754.cms",
+    "time": "2026-01-11T23:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli breaks Tendulkar's record; surpasses Kumar Sangakkara",
+    "desc": "Virat Kohli became the fastest player to reach 28,000 international runs in 624 innings during India's ODI against New Zealand. He also surpassed Kumar Sangakkara to become the second-highest run-scorer in international cricket. The Baroda Cricket Association honored Kohli and Rohit Sharma at the historic match.",
+    "img": "https://static.toiimg.com/photo/msid-126466481,imgsize-43220.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/run-machine-rolls-on-virat-kohli-breaks-sachin-tendulkars-record-surpasses-kumar-sangakkara/articleshow/126466386.cms",
+    "time": "2026-01-11T23:30:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -252,24 +414,6 @@ const newsData_en = [
     "time": "2026-01-11T14:12:40.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Gold &amp; silver outlook: Bullion seen holding firm next week; US tariff verdict, geopolitics in focus",
-    "desc": "Gold and silver prices are poised for continued strength next week, driven by escalating geopolitical tensions and anticipation of the US Supreme Court's verdict on President Trump's tariff policy. Analysts suggest upcoming inflation data and commentary from Federal Reserve officials will also shape market movements.",
-    "img": "https://static.toiimg.com/photo/msid-126466219,imgsize-857357.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-outlook-bullion-seen-holding-firm-next-week-us-tariff-verdict-geopolitics-in-focus/articleshow/126466174.cms",
-    "time": "2026-01-11T14:09:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pirated version of film gets played at US restaurant",
-    "desc": "In a twist of fate shortly after its release on January 9, 2026, the much-anticipated 'The Raja Saab' starring Prabhas has reportedly fallen victim to online piracy, with a restaurant in the US being accused of airing a stolen copy. Hyderabad's cyber police are not taking this lightly, launching an investigation and executing arrests.",
-    "img": "https://static.toiimg.com/photo/msid-126466012,imgsize-38696.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-pirated-version-of-prabhas-starrer-gets-played-on-tv-a-few-days-after-release-at-restaurant-in-the-us/articleshow/126466012.cms",
-    "time": "2026-01-11T13:43:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Phillips defies physics at point; Kohli can’t believe his eyes",
     "desc": "The moment came in the eighth over of India’s innings. Gill, batting on eight, attempted a cut shot off the fourth ball of Zak Foulkes’ over. The delivery was back of a length and outside the off stump. Gill stayed back and hit the ball hard towards the backward point region. Phillips moved quickly to his left, jumped and stretched out his left hand while airborne.",
@@ -277,33 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-glenn-phillips-defies-physics-nearly-pulls-off-stunner-at-point-virat-kohli-cant-believe-his-eyes-watch/articleshow/126465956.cms",
     "time": "2026-01-11T13:43:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kriti Sanon beams with joy as sister Nupur marries Stebin",
-    "desc": "Kriti Sanon couldn’t hide her happiness as her younger sister Nupur Sanon tied the knot with singer Stebin Ben in a picturesque Christian ceremony in Udaipur. The actress was seen looking elated as one of the bridesmaids, celebrating the special day with the newlyweds amid much love, laughter and cheer.",
-    "img": "https://static.toiimg.com/photo/msid-126465803,imgsize-77932.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kriti-sanon-beams-with-joy-as-sister-nupur-sanon-marries-stebin-ben-in-dreamy-udaipur-wedding-my-heart-is-full/articleshow/126465785.cms",
-    "time": "2026-01-11T13:22:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Live selfies, geo-tagging mandatory for users; FIU rolls out tougher KYC norms",
-    "desc": "India's Financial Intelligence Unit has mandated stringent AML/KYC norms for crypto exchanges, requiring live selfie verification and geographical tracking during user onboarding. These new rules classify exchanges as VDA service providers and aim to enhance transparency and combat illicit financial activities.",
-    "img": "https://static.toiimg.com/photo/msid-126465622,imgsize-985342.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/crypto-rules-tightened-live-selfies-geo-tagging-mandatory-for-users-fiu-rolls-out-tougher-kyc-norms/articleshow/126465571.cms",
-    "time": "2026-01-11T13:12:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Flipperachi of 'FA9LA' song from Dhurandhar announces India tour",
-    "desc": "Bahraini rapper Flipperachi, whose song 'FA9LA' from 'Dhurandhar' gained immense popularity thanks to Akshaye Khanna's performance, is set to perform live in India. His first show is scheduled for March 14, 2026, in Bengaluru, with more dates anticipated. The track's success, coupled with the film's box office triumph, has generated significant excitement.",
-    "img": "https://static.toiimg.com/photo/msid-126465523,imgsize-31360.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rapper-flipperachi-of-the-fa9la-track-from-dhurandhar-announces-india-tour-first-concert-to-be-hosted-in-bengaluru/articleshow/126465523.cms",
-    "time": "2026-01-11T13:01:53.000Z"
   },
   {
     "cat": "Sports",
@@ -315,24 +432,6 @@ const newsData_en = [
     "time": "2026-01-11T12:43:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "UNTOLD facts about 'Jana Nayagan' star Thalapathy Vijay",
-    "desc": "From child actor to 'Jana Nayagan', Thalapathy Vijay's journey in Tamil cinema is a testament to consistent effort. His evolution from romantic lead to mass leader, marked by hits like 'Ghilli' and 'Thuppakki', has cemented his status. Vijay is now an institution, inspiring future generations of actors with his enduring legacy.",
-    "img": "https://static.toiimg.com/photo/msid-126465179,imgsize-34434.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/who-is-thalapathy-vijay-from-being-child-artiste-to-mass-leader-untold-facts-about-jana-nayagan-star/articleshow/126465179.cms",
-    "time": "2026-01-11T12:26:37.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Biogas body IBA seeks Rs 10,000 cr subsidy fund; pitches higher support for CBG, organic manure",
-    "desc": "The Indian Biogas Association seeks a Rs 10,000 crore fund for capital subsidies in the Union Budget 2026. This aims to boost investment and scale up green energy adoption. The association also proposes increased subsidies for compressed biogas plants and mandated blending of fermented organic manure in fertilizers.",
-    "img": "https://static.toiimg.com/photo/msid-126464868,imgsize-596326.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-biogas-body-iba-seeks-rs-10000-cr-subsidy-fund-pitches-higher-support-for-cbg-organic-manure/articleshow/126464804.cms",
-    "time": "2026-01-11T12:20:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Long live Iran': France No. 1 Firouzja shares powerful message amid unrest",
     "desc": "French No. 1 chess grandmaster Alireza Firouzja drew global attention after posting “Long live Iran” on social media and sharing the monarchial-era Iranian flag. The post was linked to ongoing protests and a humanitarian crisis in Iran. Though now a French citizen, Firouzja’s message showed strong solidarity with Iranians and highlighted his deep emotional ties to his country of birth.",
@@ -340,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/long-live-iran-france-no-1-chess-grandmaster-alireza-firouzja-shares-powerful-message-amid-unrest/articleshow/126464357.cms",
     "time": "2026-01-11T11:44:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nupur Sanon-Stebin Ben drop OFFICIAL PICS from Christian wedding",
-    "desc": "In a picturesque celebration held in the enchanting city of Udaipur, Nupur Sanon, the sister of beloved actress Kriti Sanon, has officially embarked on her journey of love by marrying her longtime partner, Stebin Ben. The charming couple celebrated in a beautiful Christian wedding, donning elegant white ensembles that radiated joy.",
-    "img": "https://static.toiimg.com/photo/msid-126464154,imgsize-32598.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nupur-sanon-and-stebin-ben-drop-pictures-from-their-christian-wedding-with-caption-i-did-i-do-i-will-always/articleshow/126464154.cms",
-    "time": "2026-01-11T10:51:41.000Z"
   },
   {
     "cat": "Sports",
@@ -378,7 +468,7 @@ const newsData_en = [
     "time": "2026-01-11T09:52:48.000Z"
   },
   {
-    "cat": "Business",
+    "cat": "Tech",
     "title": "Centre proposes smartphone makers give source code in security overhaul",
     "desc": "The plan is part of Prime Minister Narendra Modi's efforts to boost the security of user data as online fraud and data breaches increase in the world's second-largest smartphone market, with nearly 750 million phones",
     "img": "https://th-i.thgim.com/public/news/national/zfwzrk/article70497391.ece/alternates/LANDSCAPE_1200/iStock-1225585631.jpg",
@@ -406,15 +496,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Virat Kohli retired too early; he is a machine': Donald",
-    "desc": "South African pace legend Allan Donald believes Virat Kohli retired from Test cricket prematurely but is confident the Indian star's exceptional work ethic will see him compete in the 2027 ODI World Cup. Donald also expressed optimism about South Africa's chances in the upcoming T20 World Cup, citing their well-balanced squad and India's challenging batting conditions.",
-    "img": "https://static.toiimg.com/photo/msid-126463042,imgsize-52790.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/virat-kohli-retired-too-early-he-is-a-machine-allan-donald/articleshow/126462990.cms",
-    "time": "2026-01-11T08:29:59.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Shubman Gill makes bold call at toss",
     "desc": "India won the toss and elected to bowl first against New Zealand in the opening ODI, with Rishabh Pant ruled out due to injury and Dhruv Jurel replacing him. Captain Shubman Gill explained the decision was to assess bowling combinations and dew conditions.",
     "img": "https://static.toiimg.com/photo/msid-126462876,imgsize-45310.cms",
@@ -432,15 +513,6 @@ const newsData_en = [
     "time": "2026-01-11T07:57:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "SG puts sponsorship for top Bangladesh players in limbo",
-    "desc": "India's leading cricket equipment manufacturer SG has put sponsorship contracts with top Bangladeshi cricketers, including captain Litton Das, on hold due to escalating India-Bangladesh tensions. This, coupled with a halt in equipment distribution and manufacturing supply lines, is set to financially impact Bangladesh's sports industry.",
-    "img": "https://static.toiimg.com/photo/msid-126462729,imgsize-76066.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bangladesh-crisis-impact-sg-puts-sponsorship-for-top-bangladesh-players-in-limbo/articleshow/126462713.cms",
-    "time": "2026-01-11T07:45:34.000Z"
-  },
-  {
     "cat": "World",
     "title": "Maduro loyalists stage rally as Venezuelan government courts U.S.",
     "desc": "Waving flags and placards with the face of the moustachioed ex-leader and his wife Cilia, around 1,000 protesters rallied in the west of Caracas and a few hundred in the eastern Petare district — far smaller than demonstrations Mr. Maduro's camp has mustered in the past.",
@@ -448,42 +520,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/maduro-loyalists-stage-rally-as-venezuelan-government-courts-us/article70497005.ece",
     "time": "2026-01-11T05:34:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What happened to Rishabh Pant? A blow-by-blow account",
-    "desc": "Rishabh Pant has been ruled out of the upcoming ODI series against New Zealand due to a side strain sustained during training. The wicketkeeper-batter suffered an oblique muscle tear after being hit by a delivery. This setback comes after his return from a toe fracture. Dhruv Jurel has been named as Pant’s replacement.",
-    "img": "https://static.toiimg.com/photo/msid-126461337,imgsize-49484.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/what-happened-to-rishabh-pant-how-the-india-wicketkeeper-batter-was-ruled-out-vs-new-zealand-a-blow-by-blow-account/articleshow/126461302.cms",
-    "time": "2026-01-11T04:39:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dhruv Jurel joins India ODI squad as Rishabh Pant’s replacement",
-    "desc": "In-form wicketkeeper-batter Dhruv Jurel has been drafted into India’s ODI squad as Rishabh Pant’s replacement after the latter was ruled out with a side strain. Jurel joins the team on the back of a prolific Vijay Hazare Trophy campaign, where he has scored 558 runs and led Uttar Pradesh to the top of Elite Group B.",
-    "img": "https://static.toiimg.com/photo/msid-126461267,imgsize-112340.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/dhruv-jurel-to-join-india-odi-squad-as-rishabh-pants-replacement/articleshow/126461270.cms",
-    "time": "2026-01-11T04:19:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Mini VK'! Virat Kohli meets his childhood lookalike; fans go wild",
-    "desc": "Virat Kohli's preparation for the ODI series against New Zealand in Vadodara was marked by intense net sessions and a heartwarming fan interaction. A young fan's striking resemblance to a younger Kohli drew widespread amusement online, with many dubbing him 'Mini VK'. Kohli continues his impressive ODI form, aiming to maintain momentum against the Blackcaps.",
-    "img": "https://static.toiimg.com/photo/msid-126461161,imgsize-55634.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohli-meets-his-childhood-lookalike-fans-go-wild-watch/articleshow/126461007.cms",
-    "time": "2026-01-11T03:56:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Agar maar padh bhi jaati': Virat Kohli's powerful message to net bowler goes viral",
-    "desc": "Virat Kohli's leadership shone during India's training camp as he motivated a local net bowler, emphasising conviction in bowling. After an intense session, Kohli offered encouragement and signed a ball, demonstrating his commitment to developing talent and his own sharp form ahead of the ODI series.",
-    "img": "https://static.toiimg.com/photo/msid-126460905,imgsize-142346.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohlis-powerful-message-to-net-bowler-goes-viral-watch-agar-maar-padh-bhi-jaati/articleshow/126460902.cms",
-    "time": "2026-01-11T02:56:20.000Z"
   },
   {
     "cat": "World",
@@ -511,15 +547,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/rubio-and-vance-arms-of-trump/article70494464.ece",
     "time": "2026-01-10T19:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant ruled out of ODI series due to side strain injury",
-    "desc": "\"He has been diagnosed with a right-sided strain with internal oblique muscle tear, and has thus been ruled out of the forthcoming ODI series against New Zealand,\" a reliable source told TOI. While KL Rahul is the regular wicketkeeper in India's ODI side, the selectors will soon announce a replacement for Pant.",
-    "img": "https://static.toiimg.com/photo/msid-126456231,imgsize-42646.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-rishabh-pant-ruled-out-of-odi-series-due-to-side-strain-injury/articleshow/126456146.cms",
-    "time": "2026-01-10T17:51:57.000Z"
   },
   {
     "cat": "World",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
     "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
   }
 ];

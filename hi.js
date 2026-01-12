@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former India cricketer opens up on KL Rahul's batting position after 1st NZ ODI",
+    "desc": "The 1st ODI of the ongoing multi-format white-ball series between India and New Zealand saw the Men in Blue register a brilliant victory. The two sides locked horns at the Kotambi Stadium in Vadodara on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-opens-up-on-kl-rahul-s-batting-position-after-1st-nz-odi-2026-01-12-1025467",
+    "time": "2026-01-12T03:54:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "New venue options emerge for Bangladesh's T20 World Cup 2026 matches: Report",
+    "desc": "The stage is set for the upcoming edition of the T20 World Cup 2026. The marquee tournament is all set to be co-hosted by India and Sri Lanka. The competition is set to kick off...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-venue-options-emerge-for-bangladesh-s-t20-world-cup-2026-matches-report-2026-01-12-1025458",
+    "time": "2026-01-12T02:43:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch first Grand Slam of the year on TV and online in India?",
+    "desc": "The stage is set for the very first tennis Grand Slam tournament of the year, as the Australian Open 2026 kicks off. It is worth noting that the marquee tournament kicks off with the Qualifiers...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/australian-open-2026-live-when-and-where-to-watch-first-grand-slam-of-the-year-on-tv-and-online-in-india-2026-01-12-1025449",
+    "time": "2026-01-12T01:41:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Don’t feel good about it, same happens with MS Dhoni'",
     "desc": "Virat Kohli once again demonstrated why he remains one of the premier batsmen in world cricket as India chased down 301 against New Zealand in the first ODI at Vadodara’s BCA Stadium in Vadodara. The...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/how-many-runs-does-virat-kohli-need-to-break-sachin-tendulkar-s-record-for-most-runs-in-odi-history-2026-01-11-1025428",
     "time": "2026-01-11T15:37:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma sets new world record in first ODI against New Zealand as India chase 301 runs",
-    "desc": "Star India batter Rohit Sharma now holds the record of most sixes by an opener in ODI cricket history. In the first ODI against New Zealand at the BCA Stadium in Vadodara, the 38-year-old smacked...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-sets-new-world-record-in-first-odi-against-new-zealand-as-india-chase-301-runs-2026-01-11-1025424",
-    "time": "2026-01-11T14:16:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli surpasses Kumar Sangakkara, becomes second-highest run-scorer in international cricket",
-    "desc": "Virat Kohli created a couple of historical records in the first ODI between India and New Zealand on Sunday, January 11. The Indian legend surpassed Sri Lankan icon Kumar Sangakkara on the list of most...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-surpasses-kumar-sangakkara-becomes-second-highest-run-scorer-in-international-cricket-2026-01-11-1025423",
-    "time": "2026-01-11T13:47:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "DC-W vs GG-W WPL Match Score Live: Delhi Capitals opt to bowl first against Gujarat Giants",
-    "desc": "Under the new captain, Jemimah Rodrigues, Delhi Capitals suffered a hammering defeat of 50 runs in their opening game of WPL 2026. They will now eye to quickly get back into winning ways in their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dc-vs-gg-women-live-score-delhi-capitals-gujarat-giants-wpl-cricket-match-today-dr-dy-patil-sports-academy-2026-01-11-1025419",
-    "time": "2026-01-11T13:32:18.000Z"
   }
 ];

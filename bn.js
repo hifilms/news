@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "আচমকা স্টেশনে লুটিয়ে পড়লেন যাত্রী...! পরমুহূর্তেই ছুটে এল RPF, 'মিশন সেবা'-র অধীনে অসুস্থ যাত্রীদের উদ্ধারে বিরাট উদ্যোগ নিল রেল!",
+    "desc": "আরপিএফ 'মিশন সেবা'-এর অধীনে আহতদের উদ্ধার ও চিকিৎসা সহায়তা প্রদান করেছে।মানবিক উদ্যোগ 'মিশন সেবা'-র অধীনে, পূর্ব রেলের হাওড়া এবং শিয়ালদহ ডিভিশনের রেলের সুরক্ষা বাহিনীর (আরপিএফ) কর্মীরা পুরুষ ও মহিলা-সহ পাঁচজন আহত ও অসুস্থ ব্যক্তিকে উদ্ধার করে সময়মতো সহায়তা প্রদান করে রেলের তরফে গুরুতর দায়িত্ব পালন করেছেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/train-37-2026-01-c5326f3a6c4d3805639b2468bfbea507-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/operation-mission-seva-the-passenger-suddenly-collapsed-at-the-station-rpf-immediately-rushed-to-the-save-railways-striving-to-rescue-the-ill-passenger-under-mission-seva-scheme-sanj-2491548.html",
+    "time": "2026-01-12T04:03:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'আমার হৃদয় আজ পরিপূর্ণ...' বোন নূপুর ও স্টেবিন বেনের বিয়েতে আবেগঘন কৃতী শ্যানন",
+    "desc": "সেই ছবি শেয়ার করেছেন তাঁরা দুজনেই। প্রথম ছবিতে স্টেবিন ও নূপুরকে চুম্বনরত অবস্থায় দেখা গিয়েছে। ছবিটি শেয়ার করার সময় স্টেবিন পোস্টটির ক্যাপশন দিয়েছেন, \"সর্বদা এবং চিরকাল...\"। দম্পতি ছবিগুলি পোস্ট করার সঙ্গে সঙ্গে ইন্ডাস্ট্রির বন্ধুরা তাদের অভিনন্দন জানাতে শুরু করেন। কৃতী তাঁর ইনস্টাগ্রাম স্টোরিজে পোস্টটি পুনরায় শেয়ার করেছেন এবং লিখেছেন, \"আমার হৃদয় আজ পূর্ণ! ভালবাসা, সুখ, আশীর্বাদ।\"",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-11-at-6.07.14-PM-1-2026-01-d98b9d661ec4c83214dc23dfa440d257-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/kriti-sanon-says-my-heart-is-full-as-she-shares-nupur-sanon-and-stebin-ben-wedding-picture-rmj-2491626.html",
+    "time": "2026-01-12T03:48:21.000Z"
+  },
+  {
     "cat": "World",
     "title": "বিক্ষোভে নিহতের সংখ্যা ২০৩-এ পৌঁছতেই 'দাঙ্গাবাজদের' দোষারোপ ইরানের প্রেসিডেন্টের",
     "desc": "গত ২৮ ডিসেম্বর থেকে ইরানে গণবিক্ষোভ শুরু হয়েছে। প্রাথমিক ভাবে মূল্যবৃদ্ধির বিরুদ্ধে প্রতিবাদ কর্মসূচি শুরু হয়েছিল। ইরানি রিয়ালের ব্যাপক দরপতন, নিত্যপণ্যের অস্বাভাবিক মূল্যবৃদ্ধি এবং অসহনীয় জীবনযাত্রার ব্যয়ের প্রতিবাদে গত ২৮ ডিসেম্বর থেকে ইরানের রাজধানী তেহরানে বিক্ষোভ শুরু হয়। ক্রমে তা সর্বাত্মক বিদ্রোহের আকার নেয়। দেশের বহু শহরে ছড়িয়ে পড়ে উত্তেজনা। আন্দোলন দমনে কঠোর হয়েছে ইরান সরকার। মাঠে নামানো হয়েছে আইনশৃঙ্খলা রক্ষাকারী বাহিনী।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/raj-chakraborty-directed-upcoming-movie-hok-kolorob-teaser-sparks-controversy-due-to-dialogues-arc-2477813.html",
     "time": "2025-12-30T14:53:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘আমার মন্তব্য ভুল বোঝা হয়েছিল’,ললিত মোদি ভারত সরকারের কাছে ক্ষমা চেয়ে করলেন পোস্ট, ভিডিও পোস্টের পর তোলপাড় সব মহল",
-    "desc": "‘আমার মন্তব্য ভুল বোঝা হয়েছিল’,ললিত মোদি ভারত সরকারের কাছে ক্ষমা চেয়ে করলেন পোস্ট, ভিডিও পোস্টের পর তোলপাড় সব মহল | Lalit Modi Appologise statement misconstrued Lalit Modi apologises to Indian govt after fugitives video sparks row, know his x account post",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/WhatsApp-Image-2025-12-29-at-1.41.26-PM-2025-12-06b438f780b6e66cfc84b7e77a633c04-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/lalit-modi-appologise-statement-misconstrued-lalit-modi-apologises-to-indian-govt-after-fugitives-video-sparks-row-dd-2476225.html",
-    "time": "2025-12-29T16:29:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "21000 নাকি 4000, আসলে রুপোর বাজার দরে ঠিক কতটা পতনের ধাক্কা, খবরের পিছনের আসল সত্যিটা জেনে করুন বিনিয়োগ",
-    "desc": "২১,০০০ টাকার পতনের পরিসংখ্যানটি রুপোর সর্বকালের সর্বোচ্চ এবং সাম্প্রতিক সর্বনিম্নের তুলনা থেকে নেওয়া হয়েছে। আজকের লেনদেনে যখন রুপোর দাম প্রতি কেজি ২.৫৪ লক্ষ টাকার রেকর্ড স্তরের নিচে নেমে আসে, তখন কেউ কেউ মোট পার্থক্যকে সরাসরি পতন বলে অভিহিত করতে শুরু করেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/WhatsApp-Image-2025-12-29-at-5.59.46-PM-5-2025-12-7a1e1e6399f29aa3a4d927a802c2e0d6-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/fact-check-silver-price-drop-latest-silver-price-crash-today-mcx-silver-rates-silver-hits-record-high-silver-price-volatile-silver-price-fall-dd-2476697.html",
-    "time": "2025-12-29T16:26:07.000Z"
   }
 ];
