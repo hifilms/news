@@ -1,6 +1,69 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Priyanka Chopra teases role in 'The Bluff' at Golden Globes",
+    "desc": "Priyanka Chopra Jonas unveiled details about her upcoming film 'The Bluff' at the Golden Globes, revealing it's a rated 'R' female pirate movie releasing February 25th on Prime. She also discussed her husband Nick Jonas's support and their quiet family life with daughter Malti Marie. Chopra will also present at the awards.",
+    "img": "https://static.toiimg.com/photo/msid-126473209,imgsize-38474.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/priyanka-chopra-teases-role-in-the-bluff-on-golden-globes-red-carpet-says-were-going-with-a-rated-r/articleshow/126473206.cms",
+    "time": "2026-01-12T00:20:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Global collection is now Rs 1254 cr",
+    "desc": "In an astounding theatrical journey, Ranveer Singh's 'Dhurandhar' has captivated audiences for over 38 days, raking in an impressive Rs 805.65 crore net domestically. On a global scale, the espionage thriller has soared to new heights, achieving an unprecedented Rs 1254.9 crore worldwide, making it the highest-grossing Hindi film to date.",
+    "img": "https://static.toiimg.com/photo/msid-126473270,imgsize-42008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-38-ranveer-singh-led-spy-thriller-shows-slight-growth-on-sixth-sunday-worldwide-collection-is-now-rs-1254-9-crore/articleshow/126473270.cms",
+    "time": "2026-01-12T00:10:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka and Nick dazzle on Golden Globes red carpet",
+    "desc": "Priyanka Chopra and Nick Jonas radiated Hollywood glamour at the 2026 Golden Globe Awards. Chopra, presenting at the event, stunned in a navy Dior gown, while Jonas complemented her in a classic suit. The couple's affectionate red carpet moments, reminiscent of their Met Gala appearances, captivated fans. Chopra recently enjoyed a family holiday before returning for the awards.",
+    "img": "https://static.toiimg.com/photo/msid-126473144,imgsize-41364.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/golden-globe-awards-priyanka-chopra-and-nick-jonas-stun-on-the-red-carpet-give-off-power-couple-vibes/articleshow/126473125.cms",
+    "time": "2026-01-11T23:29:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Merz begins first official visit; talks with PM Modi focus on trade and defence",
+    "desc": "German Chancellor Friedrich Merz is on a two-day visit to India, meeting PM Modi in Ahmedabad. Their agenda includes visiting Sabarmati Ashram and the International Kite Festival, followed by bilateral talks in Gandhinagar. Discussions will center on strengthening the India-Germany Strategic Partnership, focusing on trade, technology, and defense cooperation, building on recent high-level interactions.",
+    "img": "https://static.toiimg.com/photo/msid-126473139,imgsize-987815.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/german-chancellor-arrives-in-india-merz-begins-first-official-visit-talks-with-pm-modi-focus-on-trade-and-defence/articleshow/126473134.cms",
+    "time": "2026-01-11T23:08:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Blindspotting in India’s cleanest city",
+    "desc": "Contaminated drinking water, supplied through government-laid pipelines, led to a diarrhoea outbreak in Indore, killing at least 8 and affecting about 3,000 people. Mehul Malpani reports on unplanned parts of one of Madhya Pradesh’s most promising cities, the delays in laying pipelines, and the blame game that follows when deaths get international coverage",
+    "img": "https://th-i.thgim.com/public/incoming/uuztff/article70494383.ece/alternates/LANDSCAPE_1200/6744_10_1_2026_11_52_19_3_18_DSC_2899.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/indore-diarrhoea-deaths-blindspotting-in-indias-cleanest-city/article70494359.ece",
+    "time": "2026-01-11T22:40:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Won’t let BJP and Adani take away Mumbai, say Thackeray cousins",
+    "desc": "They accuse the party of pursuing divisive politics and systematically ‘isolating’ Mumbai’s Marathi Manoos; the cousins claim the national party has been facilitating land grab to benefit Adani Group and conspiring to ‘separate Mumbai from Maharashtra and bring it closer to Gujarat”",
+    "img": "https://th-i.thgim.com/public/incoming/ob216s/article70499026.ece/alternates/LANDSCAPE_1200/PTI01_11_2026_000765A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/wont-let-bjp-and-adani-take-away-mumbai-say-thackeray-cousins/article70498884.ece",
+    "time": "2026-01-11T21:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "484 electors from Kolkata’s Chinese community deleted during SIR: study",
+    "desc": "A majority of the deleted voters, 389 out of 484, have been categorised as untraceable or absent; the three assembly constituencies that were analysed by the researchers of Sabar Institute are Kasba, Entally and Chowrangee",
+    "img": "https://th-i.thgim.com/public/incoming/y3e6fo/article70449570.ece/alternates/LANDSCAPE_1200/PTI12_28_2025_000138B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/kolkata/484-electors-from-kolkatas-chinese-community-deleted-during-sir-study/article70498340.ece",
+    "time": "2026-01-11T21:11:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Mika Singh offers 10 acres of land for stray dogs",
     "desc": "Punjabi singer and actor Mika Singh has made an emotional appeal to the Supreme Court of India amid the ongoing legal debate on stray dog management, pledging to donate 10 acres of land to support the care and welfare of street dogs.",
     "img": "https://static.toiimg.com/photo/msid-126470938,imgsize-19708.cms",
@@ -63,15 +126,6 @@ const newsData_en = [
     "time": "2026-01-11T17:44:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CISF paves way for seamless transfers between RRTS Namo Bharat &amp; DMRC at New Ashok Nagar Metro Station",
-    "desc": "Passengers can now seamlessly transfer between the RRTS Namo Bharat and Delhi Metro at New Ashok Nagar Metro Station. An integrated passenger movement corridor has been opened, enhancing commuter convenience and reducing transit times. This integration, achieved through coordinated efforts and a structured SOP, strengthens multimodal urban mobility in the NCR.",
-    "img": "https://static.toiimg.com/photo/msid-126468420,imgsize-884464.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cisf-paves-way-for-seamless-transfers-between-rrts-namo-bharat-dmrc-at-new-ashok-nagar-metro-station/articleshow/126468429.cms",
-    "time": "2026-01-11T17:31:37.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Record! India's Nandani becomes first player ever to achieve this feat",
     "desc": "Nandani Sharma created WPL history with a sensational spell for Delhi Capitals against Gujarat Giants in Navi Mumbai. The Chandigarh pacer became the first player to take a five-wicket haul and a hat-trick in a single WPL match. Her pace and accuracy turned the game, marking her arrival as a rising star in Indian women’s cricket.",
@@ -115,15 +169,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/ai-shopping-google-partners-walmart-shopify-and-wayfair-to-turn-gemini-into-in-chat-checkout-platform-what-you-need-to-know/articleshow/126467773.cms",
     "time": "2026-01-11T16:37:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "J&amp;K: Suspected Pakistan drones spotted along LoC, IB near Samba, Rajouri and Poonch districts; search operations launched",
-    "desc": "Suspected drones were detected entering Indian airspace from Pakistan along the International Border and Line of Control in Jammu and Kashmir's Samba, Rajouri, and Poonch districts on Sunday evening. Security forces observed the objects hovering for a few minutes before returning, prompting ground search operations and firing in some areas.",
-    "img": "https://static.toiimg.com/photo/msid-126467817,imgsize-104308.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jk-suspected-pakistan-drones-spotted-along-loc-ib-near-samba-rajouri-and-poonch-districts-search-operations-launched/articleshow/126467789.cms",
-    "time": "2026-01-11T16:36:49.000Z"
   },
   {
     "cat": "Politics",
@@ -216,42 +261,6 @@ const newsData_en = [
     "time": "2026-01-11T14:09:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "LDF’s northern region development rally to begin on Feb. 1",
-    "desc": "The rally aims to mobilise people against what the LDF describes as the anti-people and divisive policies of the BJP-led Central government, while also highlighting the development and welfare initiatives of the LDF government in Kerala",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/ldfs-northern-region-development-rally-to-begin-on-feb-1/article70497634.ece",
-    "time": "2026-01-11T14:03:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ahead of Union Budget, Karnataka seeks release of dues",
-    "desc": "Ahead of the Union Budget, Chief Minister Siddaramaiah has urged the Centre to release its dues and has referred to the economic conditions in the State owing to GST rate rationalization, increased social commitment, change in weather condition, and increasing urbanisation",
-    "img": "https://th-i.thgim.com/public/incoming/dp531v/article70498091.ece/alternates/LANDSCAPE_1200/Karnataka-will-GGGFE3HE1.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/ahead-of-union-budget-karnataka-seeks-release-of-dues/article70497974.ece",
-    "time": "2026-01-11T13:59:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kozhikode Corporation Council to elect standing committee chairpersons on Jan. 13",
-    "desc": "The LDF has a majority in six of the eight committees; the UDF, despite holding an advantageous position in the council, managed a majority in only one committee and has the same strength as the BJP in another",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kozhikode-corporation-to-elect-standing-committee-chairpersons-on-jan-13/article70497439.ece",
-    "time": "2026-01-11T13:57:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "18 persons linked to ₹547-crore major cyber fraud arrested in Khammam district",
-    "desc": "A detailed investigation into the case led to the arrest of the kingpin of the cyber fraud and subsequent arrest of 17 other persons for their alleged links with the cyber fraud network, Khammam Police Commissioner said",
-    "img": "https://th-i.thgim.com/public/incoming/jjbzei/article70498069.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-01-11%20at%2018.31.21.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/18-persons-linked-to-547-crore-major-cyber-fraud-arrested-in-khammam-district/article70497754.ece",
-    "time": "2026-01-11T13:55:12.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Pirated version of film gets played at US restaurant",
     "desc": "In a twist of fate shortly after its release on January 9, 2026, the much-anticipated 'The Raja Saab' starring Prabhas has reportedly fallen victim to online piracy, with a restaurant in the US being accused of airing a stolen copy. Hyderabad's cyber police are not taking this lightly, launching an investigation and executing arrests.",
@@ -324,33 +333,6 @@ const newsData_en = [
     "time": "2026-01-11T12:20:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Shahid Kapoor’s 'O'Romeo' OTT release: Platform and streaming details revealed",
-    "desc": "O'Romeo' starring Shahid Kapoor, Triptii Dimri and Nana Patekar is a gritty, 1980s Mumbai underworld saga. It is reportedly a revival of the shelved Sapna Didi biopic. The film is releasing on February 13, 2026. Post its theatrical release, crucial details about the streaming OTT platform have been revealed. The film has been directed by Vishal Bharadwaj.",
-    "img": "https://static.toiimg.com/photo/msid-126465054,imgsize-28056.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/oromeo-ott-platform-confirmed-when-and-where-to-stream-shahid-kapoor-triptii-dimri-starrer-after-its-theatrical-run/articleshow/126465054.cms",
-    "time": "2026-01-11T12:18:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar' beats pan-India giants 'RRR' and 'KGF 2'",
-    "desc": "Chapter 2 to become the fourth highest-grossing Indian film globally. The Hindi-language blockbuster, directed by Aditya Dhar, has garnered over ₹1,290 crore worldwide, driven by strong word-of-mouth and compelling performances. Its success highlights the enduring appeal of Hindi cinema on the international stage.",
-    "img": "https://static.toiimg.com/photo/msid-126465050,imgsize-46336.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-rewrites-box-office-history-as-ranveer-singh-led-actioner-beats-pan-india-giants-rrr-and-kgf-chapter-2/articleshow/126462869.cms",
-    "time": "2026-01-11T12:14:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When and where to watch the adult comedy",
-    "desc": "Get ready for the ‘Mastiii 4’ madness! Set to stream on THIS OTT platform starting January 16, 2026, this installment featuring Riteish Deshmukh, Vivek Oberoi, and Aftab Shivdasani is making its second chance after a rather tepid reception in cinemas. Despite its Rs 40 crore budget, it only managed to pull in Rs 15.14 crore at the box office.",
-    "img": "https://static.toiimg.com/photo/msid-126464870,imgsize-95998.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mastiii-4-ott-release-when-and-where-to-watch-riteish-deshmukh-vivek-oberoi-and-aftab-shivdasanis-adult-comedy/articleshow/126464870.cms",
-    "time": "2026-01-11T11:58:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Long live Iran': France No. 1 Firouzja shares powerful message amid unrest",
     "desc": "French No. 1 chess grandmaster Alireza Firouzja drew global attention after posting “Long live Iran” on social media and sharing the monarchial-era Iranian flag. The post was linked to ongoing protests and a humanitarian crisis in Iran. Though now a French citizen, Firouzja’s message showed strong solidarity with Iranians and highlighted his deep emotional ties to his country of birth.",
@@ -358,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/long-live-iran-france-no-1-chess-grandmaster-alireza-firouzja-shares-powerful-message-amid-unrest/articleshow/126464357.cms",
     "time": "2026-01-11T11:44:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "CII pitches demand-led, faster privatisation of PSEs; seeks three-year pipeline",
-    "desc": "The Confederation of Indian Industry (CII) has urged the government to adopt a faster, demand-driven privatisation strategy for public sector enterprises in the Union Budget 2026-27. CII proposes a rolling three-year privatisation pipeline and a phased reduction of government stakes.",
-    "img": "https://static.toiimg.com/photo/msid-126464219,imgsize-767622.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-cii-pitches-demand-led-faster-privatisation-of-pses-seeks-three-year-pipeline/articleshow/126464188.cms",
-    "time": "2026-01-11T11:21:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -396,15 +369,6 @@ const newsData_en = [
     "time": "2026-01-11T10:39:06.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Govt should avoid hiking surcharge on super-rich, reviving wealth tax; why experts warn of capital flight",
-    "desc": "Tax experts are advising the government against increasing income tax surcharges or reintroducing a wealth tax in the upcoming budget. They warn that such measures could lead wealthy individuals to relocate to low-tax jurisdictions, negatively impacting investment and job creation in India.",
-    "img": "https://static.toiimg.com/photo/msid-126463706,imgsize-604245.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-govt-should-avoid-hiking-surcharge-on-super-rich-reviving-wealth-tax-why-experts-warn-of-capital-flight/articleshow/126463614.cms",
-    "time": "2026-01-11T10:25:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Blue, green, red': Jadeja undergoes unique training session",
     "desc": "Ravindra Jadeja is honing his bowling skills with a unique drill ahead of India's ODI series against New Zealand. Guided by coach Morne Morkel, Jadeja practiced precise ball placement, aiming for coloured cones. The all-rounder is in excellent form, boasting a strong ODI record against the Black Caps, making him a key player for the upcoming matches.",
@@ -430,15 +394,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/sabalenka-wins-brisbane-final-amid-frosty-exchange-with-kostyuk/article70497375.ece",
     "time": "2026-01-11T09:32:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Market sell-off: 7 of top-10 firms lose Rs 3.63 lakh crore in a week; Reliance, HDFC Bank biggest drags",
-    "desc": "Indian equity markets experienced a significant downturn last week, with the top 10 most valued companies collectively losing over Rs 3.6 lakh crore. Reliance Industries bore the brunt of the sell-off, followed by HDFC Bank and Bharti Airtel. This decline was attributed to global economic uncertainties and geopolitical tensions.",
-    "img": "https://static.toiimg.com/photo/msid-126463534,imgsize-587347.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/market-sell-off-7-of-top-10-firms-lose-rs-3-63-lakh-crore-in-a-week-reliance-hdfc-bank-biggest-drags/articleshow/126463489.cms",
-    "time": "2026-01-11T09:31:24.000Z"
   },
   {
     "cat": "Sports",
@@ -486,24 +441,6 @@ const newsData_en = [
     "time": "2026-01-11T07:45:34.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'The Raja Saab' Day 3 vs 'Dhurandhar' Day 38 box office (LIVE)",
-    "desc": "In a thrilling box office showdown, Ranveer Singh's action-packed spy film 'Dhurandhar' has continued its triumphant ascent, amassing over Rs 1200 crore globally, even as it faces competition from new releases. At the same time, Prabhas has made a splash with his horror-comedy venture 'The Raja Saab,' which has seen promising first-week collections that could challenge 'Dhurandhar's' recent success.",
-    "img": "https://static.toiimg.com/photo/msid-126462681,imgsize-47002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/the-raja-saab-day-3-vs-dhurandhar-day-38-box-office-collection-live-prabhas-starrer-dominates-with-rs-2-7-crore-over-ranveer-singhs-rs-0-78-crore/articleshow/126462681.cms",
-    "time": "2026-01-11T07:45:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Budget 2026–27: CII pitches demand-led disinvestment plan; proposes four-step privatisation roadmap",
-    "desc": "The Confederation of Indian Industry (CII) proposed a four-pronged strategy for faster and more predictable disinvestment in their Union Budget 2026-27 recommendations. They advocated for a demand-led approach, a three-year rolling privatization pipeline, a dedicated institutional mechanism, and calibrated disinvestment as an interim measure to unlock significant capital for development priorities.",
-    "img": "https://static.toiimg.com/photo/msid-126462337,imgsize-1552490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-202627-cii-pitches-demand-led-disinvestment-plan-proposes-four-step-privatisation-roadmap/articleshow/126462077.cms",
-    "time": "2026-01-11T06:51:01.000Z"
-  },
-  {
     "cat": "World",
     "title": "Maduro loyalists stage rally as Venezuelan government courts U.S.",
     "desc": "Waving flags and placards with the face of the moustachioed ex-leader and his wife Cilia, around 1,000 protesters rallied in the west of Caracas and a few hundred in the eastern Petare district — far smaller than demonstrations Mr. Maduro's camp has mustered in the past.",
@@ -511,15 +448,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/maduro-loyalists-stage-rally-as-venezuelan-government-courts-us/article70497005.ece",
     "time": "2026-01-11T05:34:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Crypto in 2026 won’t be won by luck: Top Dubai experts reveal trading tips for profit that actually work",
-    "desc": "Dubai's crypto market is poised for a pivotal 2026, with experts advising traders to adopt smart, risk-aware tactics. Strategies like day trading, arbitrage and dollar-cost averaging are highlighted, alongside the importance of regulated platforms and robust security. Advanced tools and institutional involvement are also shaping the landscape, emphasising risk management as crucial for navigating potential volatility and maximising opportunities.",
-    "img": "https://static.toiimg.com/photo/msid-126461565,imgsize-198138.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/crypto-in-2026-wont-be-won-by-luck-top-dubai-experts-reveal-cryptocurrency-trading-strategies-for-profit-that-actually-work/articleshow/126461376.cms",
-    "time": "2026-01-11T05:03:44.000Z"
   },
   {
     "cat": "Sports",
@@ -792,15 +720,6 @@ const newsData_en = [
     "time": "2026-01-09T08:35:33.000Z"
   },
   {
-    "cat": "World",
-    "title": "India-U.S. trade deal didn’t happen because Modi did not call Trump: Lutnick",
-    "desc": "Howard Lutnick’s remarks came a few days after Mr. Trump said that Mr. Modi knew he was unhappy with India's purchases of Russian oil and that Washington could raise tariffs on New Delhi \"very quickly\"",
-    "img": "https://th-i.thgim.com/public/incoming/rlcq0c/article70489614.ece/alternates/LANDSCAPE_1200/2025-12-20T185029Z_735987308_RC2JJIA0YXKA_RTRMADP_3_USA-TRUMP.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/india-us-trade-deal-didnt-happen-because-modi-did-not-call-trump-lutnick/article70489564.ece",
-    "time": "2026-01-09T05:48:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "The Ashes aftermath — England’s Test future at the crossroads",
     "desc": "The line between carefree and careless often blurred, but not too many seemed to take notice, or be too bothered about it; it has happened far too often now for ‘Bazball’ to not face serious scrutiny, if not downright condemnation, any longer",
@@ -898,5 +817,86 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/stock-markets-fall-for-second-day-as-selling-in-reliance-industries-hdfc-bank-dents-sentiment/article70477934.ece",
     "time": "2026-01-06T12:04:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Run Away’ series review: Perfect pulp to kick off the New Year",
+    "desc": "James Nesbitt and Minnie Driver as desperate parents of a vulnerable missing teenager form just one curly strand of spaghetti in this Harlan Coben adaptation, which also features a pair of good-looking killers and a murderous cult",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/ak5kho/article70477316.ece/alternates/LANDSCAPE_1200/AAAAQTXqXqc9iC-nS0u-QIyqogmzke5ZMTGdtewt3m-WdCDvVjiewdIHoRVizkoPXRUv4Lq1O9Bqu9or8L7dUTr3aOkAjhmLKnVPwlk8mgp7hS5sZHvb9FK_kY1Divooomf4vdBvQi7i18IzSfRR62tmng5C5nA.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/run-away-series-review-perfect-pulp-to-kick-off-the-new-year/article70477206.ece",
+    "time": "2026-01-06T09:18:11.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Five ways in which technology will rewire life in 2026",
+    "desc": "AI is no longer a standout novelty but a necessity, and smartphones are defined less by hardware upgrades and more by how well they connect within broader tech ecosystems. These five trends are reshaping technology in 2026",
+    "img": "https://th-i.thgim.com/public/news/national/karnataka/kfgg8h/article70452303.ece/alternates/LANDSCAPE_1200/Main%20Placeholder%20image.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/five-ways-in-which-technology-will-rewire-life-in-2026/article70452235.ece",
+    "time": "2026-01-02T11:18:53.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
   }
 ];
