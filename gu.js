@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "T20 વર્લ્ડ કપ પહેલા ટીમ ઈન્ડિયાનું વધ્યું ટેન્શન, એક અઠવાડિયામાં એક પછી એક ત્રણ સ્ટાર ખેલાડી ઈજાગ્રસ્ત",
+    "desc": "T20 વર્લ્ડ કપ 2026 પહેલા ટીમ ઈન્ડિયામાં ટેન્શન વધી ગયું છે. 11 જાન્યુઆરી, રવિવારના રોજ વોશિંગ્ટન સુંદરને અચાનક ઈજા થઈ હતી, જેના કારણે તે ન્યૂઝીલેન્ડ સામેની આગામી બે વનડે મેચમાંથી બહાર થઈ ગયો હતો. ગયા અઠવાડિયામાં, ભારતીય ટીમના ત્રણ સ્ટાર ખેલાડીઓ ઘાયલ થયા છે અને શ્રેણીમાંથી બહાર થઈ ગયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/team-india-tension-increases-ahead-of-t20-world-cup-three-stars-player-injured-one-after-the-other-in-a-week-461493 ",
+    "time": "2026-01-12T14:30:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "અજમેર દરગાહ પહેલા હતું શિવ મંદિર, કોર્ટમાં અરજી દાખલ કરી ASI સર્વેની માંગ",
+    "desc": "અજમેર દરગાહ મૂળ શિવ મંદિર હોવાનો દાવો કરીને, મહારાણા પ્રતાપ સેનાના પ્રમુખ રાજવર્ધન સિંહ પરમારે જિલ્લા કોર્ટમાં અરજી દાખલ કરી હતી. અરજીમાં ASI દ્વારા સર્વેની માંગ કરવામાં આવી હતી. 2024માં, હિન્દુ સેનાના પ્રમુખ વિષ્ણુ ગુપ્તાએ પણ આવી જ અરજી દાખલ કરી હતી. અજમેર દરગાહ ખ્વાજા મોઈનુદ્દીન ચિશ્તીને સમર્પિત એક મુખ્ય મુસ્લિમ તીર્થ સ્થળ છે, જે મુઘલ સમ્રાટ હુમાયુ દ્વારા બનાવવામાં આવ્યું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/ajmer-dargah-was-a-shiva-temple-before-files-petition-in-court-demanding-asi-survey-461485 ",
+    "time": "2026-01-12T13:53:40.000Z"
+  },
+  {
     "cat": "Business",
     "title": "પોસ્ટ ઓફિસની આ સ્કીમમાં તમારા પૈસા થઈ જશે ડબલ, જાણો વિગત",
     "desc": "જો તમે કોઈ જોખમ વગર તમારા પૈસા ડબલ કરવા ઈચ્છો છો તો પોસ્ટ ઓફિસની કિસાન વિકાસ પત્ર યોજના શાનદાર વિકલ્પ છે. આ સરકારી યોજનામાં 7.5 ટકા વ્યાજ મળી રહ્યું છે, જેમાં તમારા પૈસા 115 મહિનામાં ડબલ થઈ જશે.",
@@ -385,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/bihar-beggars-will-open-shops-and-will-receive-rs-10000-each-know-about-scheme-461123 ",
     "time": "2026-01-10T11:12:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "SBI પોતાના જૂના ગ્રાહકોને આપી રહ્યું છે 2 લાખ રૂપિયા! જાણો કેમ, શું તમે પણ ઉઠાવી શકો છો આનો ફાયદો?",
-    "desc": "SBI એ તેના ખાસ ગ્રાહકો માટે YONO એપ પર રિયલ-ટાઇમ એક્સપ્રેસ ક્રેડિટ ઓફર રજૂ કરી છે. આ ઓફર હેઠળ ગ્રાહકો YONO એપ દ્વારા 35 લાખ રૂપિયા સુધીની પર્સનલ લોન મેળવી શકે છે. સૌથી મહત્વની વાત એ છે કે આ લોન માટે કોઈ પણ પ્રકારના પેપરવર્કની જરૂર પડશે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/sbi-is-giving-rs-2-lakh-to-its-old-customers-find-out-why-and-whether-you-can-also-benefit-from-this-offer-461120 ",
-    "time": "2026-01-10T10:42:48.000Z"
   },
   {
     "cat": "Sports",

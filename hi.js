@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Netherlands announce squad for T20 World Cup 2026, several senior cricketers return",
+    "desc": "Netherlands have announced a 15-member squad for the upcoming T20 World Cup 2026, slated to be played in India and Sri Lanka. Scott Edwards will once again lead the team in the mega tournament, but...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/netherlands-announce-squad-for-t20-world-cup-2026-several-senior-cricketers-return-2026-01-12-1025579",
+    "time": "2026-01-12T15:22:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Devdutt Padikkal creates history, becomes first player to achieve major record in Vijay Hazare Trophy",
+    "desc": "Karnataka star batter Devdutt Padikkal has etched his name into the history books as he has registered yet another massive milestone in the Vijay Hazare Trophy 2025/26. Padikkal has been in insane form in the domestic...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/devdutt-padikkal-creates-history-becomes-first-player-to-achieve-major-record-in-vijay-hazare-trophy-2026-01-12-1025576",
+    "time": "2026-01-12T14:49:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC rejects Bangladesh sports adviser Asif Nazrul's claim that it validated security threat in India",
+    "desc": "The International Cricket Council has rejected Bangladesh sports adviser Asif Nazrul's claim that the governing body validated the security threat of the Bangladesh team's travel to India for the T20 World Cup 2026, PTI reported. Earlier...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-rejects-bangladesh-sports-adviser-asif-nazruls-claim-that-it-validated-security-threat-in-india-report-2026-01-12-1025570",
+    "time": "2026-01-12T14:08:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB-W vs UP-W WPL Match Score Live: UP Warriorz in shambles as RCB bowlers wreak havoc in Navi Mumbai",
+    "desc": "After enjoying a small break, Royal Challengers Bengaluru are back in action against UP Warriorz in the ongoing Women’s Premier League (WPL) on January 12. They defeated Mumbai Indians in the opening game of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-up-women-live-score-royal-challengers-bengaluru-up-warriorz-wpl-cricket-match-today-dr-dy-patil-sports-academy-2026-01-12-1025568",
+    "time": "2026-01-12T14:01:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul receives applause from former India cricketer after guiding India to win over New Zealand",
+    "desc": "Star India batter KL Rahul received a warm applause from former cricketer Aakash Chopra for his steely finish in the first ODI between India and New Zealand on Sunday, January 11. Rahul played an unbeaten...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-receives-applause-from-former-india-cricketer-after-guiding-india-to-win-over-new-zealand-2026-01-12-1025560",
+    "time": "2026-01-12T12:56:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Watch",
     "desc": "A tense exchange unfolded at a Bangladesh Premier League media interaction when Afghanistan veteran Mohammad Nabi reacted angrily to a question linking him to an unrelated Indian Premier League controversy. The moment came after Noakhali...",
     "img": "",
@@ -34,50 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kc-cariappa-former-kkr-pbks-and-rr-player-announces-retirement-from-indian-cricket-2026-01-12-1025530",
     "time": "2026-01-12T10:31:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Matches to be held behind closed doors for two days due to local election in Navi Mumbai",
-    "desc": "Two days of Women’s Premier League action this week are set to take place without fans after local authorities indicated they would be unable to deploy sufficient security because of municipal corporation elections in Navi...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wpl-2026-matches-to-be-held-behind-closed-doors-for-two-days-due-to-local-election-in-navi-mumbai-2026-01-12-1025529",
-    "time": "2026-01-12T10:30:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli has best chance to break Sachin Tendulkar's 32-year-old record in IND vs NZ 2nd ODI",
-    "desc": "India batting icon Virat Kohli has been in Midas touch in recent times as the maestro has been piling up runs in the ODI format. Kohli, the former India skipper, scored a masterful 93 in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-has-best-chance-to-break-sachin-tendulkars-32-year-old-record-in-ind-vs-nz-2nd-odi-2026-01-12-1025517",
-    "time": "2026-01-12T08:55:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI confirms LSG batter as replacement for injured Washington Sundar for New Zealand ODI series",
-    "desc": "The Board of Control for Cricket in India (BCCI) on Monday confirmed the replacement for the injured Washington Sundar, who has been ruled out for the remainder of the ODI series against New Zealand. The Indian...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-confirms-lsg-batter-as-replacement-for-injured-washington-sundar-for-new-zealand-odi-series-2026-01-12-1025510",
-    "time": "2026-01-12T08:20:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harshit Rana opens up on his role in India's batting attack after 1st ODI against New Zealand",
-    "desc": "The Indian team made quick work of New Zealand in the first ODI of the ongoing multi-format white-ball series. The two sides took on each other in the first game of the series at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harshit-rana-opens-up-on-his-role-in-india-s-batting-attack-after-1st-odi-against-new-zealand-2026-01-12-1025509",
-    "time": "2026-01-12T08:20:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manchester United crash out of FA Cup early after shocking loss to Brighton",
-    "desc": "Manchester United’s FA Cup campaign ended with disappointment after the side faced a loss against Brighton and Hove Albion in the third round of the tournament. The two sides locked horns at Old Trafford in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/manchester-united-crash-out-of-fa-cup-early-after-shocking-loss-to-brighton-2026-01-12-1025504",
-    "time": "2026-01-12T07:55:38.000Z"
   }
 ];

@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "বাংলাদেশে পুলিশি হেফাজতে মৃত্যু আওয়ামি লিগ নেতার! প্রলয় চাকির মৃত্যুতে ঘনাচ্ছে রহস্য, উঠছে অভিযোগ",
+    "desc": "আওয়ামি লিগ সমর্থকদের দাবি অনুসারে, ৩ জানুয়ারি পর্যন্ত ৪১ জন দলীয় নেতা-কর্মী পুলিশ হেফাজতে মারা গেছেন, যার মধ্যে চাকির মৃত্যু আরও একটি সংখ্যায় যোগ করল। তারা অভিযোগ করেছেন যে, প্রায় প্রতি মাসে এই ধরনের মৃত্যুর খবর সামনে আসছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ydne-2026-01-12T203058.822-2026-01-769b0eb3c71df056178a0b85cf7ad620-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/bangladesh-news-awami-leagues-leader-arrested-in-student-protest-dies-in-police-custody-sta-2493012.html",
+    "time": "2026-01-12T15:01:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "কোনও RAC নেই, কোনও VIP Quota নেই...হাওড়া-গুয়াহাটি বন্দে ভারত স্লিপার ট্রেনের কী নিয়ম জানেন? ভাড়াই বা কত?",
+    "desc": "বন্দে ভারত স্লিপার ট্রেনে মোট ১১টি কোচ থাকবে। এর মধ্যে রয়েছে পাঁচটি ৩টি এসি কোচ, চারটি ২টি এসি কোচ এবং একটি ১টি এসি কোচ। ট্রেনটিতে মোট ৮২৩টি বার্থ থাকবে, যার মধ্যে ৩টি এসি কোচে ৬১১টি, ২টি এসি কোচে ১৮৮টি এবং ১টি এসি কোচে ২৪টি আসন থাকবে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ydne-2026-01-12T194309.692-2026-01-70fe6b41aad92955576b4f16ae67be95-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/vande-bharat-sleeper-howrah-to-kamakhya-no-rac-no-vip-quota-what-is-the-train-fare-of-3ac-2ac-coaches-sta-2492741.html",
+    "time": "2026-01-12T14:14:38.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "অপ্রয়োজনেই ব্লুটুথ অন? মুহূর্তে খালি হতে পারে ব্যাঙ্ক অ্যাকাউন্ট!",
+    "desc": "এছাড়া, পরের বার ইয়ারফোন বা স্পিকার কানেক্ট করার সময় আবার ব্লুটুথ চালু করতে হয় না। কিন্তু জানলে অবাক হবেন, সবসময় ব্লুটুথ চালু রাখলে আপনার ব্যাঙ্ক অ্যাকাউন্টও ফাঁকা হয়ে যেতে পারে। স্ক্যামাররা এই সুযোগের সুযোগ নিয়ে আপনাকে বড়সড় ক্ষতির মুখে ফেলতে পারে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1768223259_Bluetooth-2026-01-d27b20fb32cd5ec4da2b5657a23514c5-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/technology/does-your-mobile-bluetooth-on-for-no-reason-hackers-can-access-personal-data-in-public-how-to-safe-smc-2492772.html",
+    "time": "2026-01-12T13:24:34.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "অনেক চেষ্টা করেও রাখঢাক করা গেল না! নোরা ফতেহির ফুটবলার বয়ফ্রেন্ড কে, অবশেষে সবটাই জানাজানি হয়ে গেল",
     "desc": "নোরা কিংবা হাকিমি—দু’জনের কেউই এখনও এই গুঞ্জন নিয়ে কোনও কথা বলেননি। তবে অনলাইনে আলোচনা ক্রমশ বাড়ছেই। নোরার সাম্প্রতিক মরক্কো সফরের পর থেকেই এই জল্পনা শুরু হয়। চলতি আফ্রিকা কাপ অব নেশনস (AFCON) চলাকালীন তাঁকে সেখানে একটি ম্যাচ উপভোগ করতে দেখা যায়।",
@@ -801,15 +828,6 @@ const newsData_bn = [
     "time": "2026-01-02T16:20:23.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "ঝড়ের গতিতে ভাইরাল জাস্টিন-সাক্ষীর MMS, চরম বিপাকে 'স্প্লিটসভিলা' তারকা জুটি...",
-    "desc": "স্প্লিটসভিলা-খ্যাত জনপ্রিয় জুটি জাস্টিন ডি’ক্রুজ এবং সাক্ষী শ্রীনিবাসের একটি কথিত 'এমএমএস' (MMS) ভিডিও সমাজমাধ্যমে ভাইরাল হওয়ায় চাঞ্চল্য ছড়িয়েছে। তবে চুপ করে বসে না থেকে দ্রুত এই নিয়ে মুখ খুলেছেন এই তারকা দম্পতি। ভাইরাল হওয়া ওই ভিডিওটি আসলে তাঁদের একটি পুরনো 'ভ্লগ'-এর অংশ মাত্র।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/justin-dcruz-sakshi-srinivas-viral-mms-clarification-vlog-clip_632487.html ",
-    "time": "2026-01-02T14:58:55.000Z"
-  },
-  {
     "cat": "World",
     "title": "সময় এসে গিয়েছে! চিনের থেকে বাঁচতে ভারতের সাহায্য প্রার্থনায় জয়শঙ্করকে চিঠি লিখলেন পাকিস্তানের নেতা",
     "desc": "বালোচ নেতা মির ইয়ার বালোচ এক খোলা চিঠি লিখেছেন ভারতের বিদেশমন্ত্রী এস জয়শঙ্করকে। সেখানে তিনি ভারতকে অনুরোধ করেছেন গণপ্রজাতন্ত্রী বালোচিস্তানের সঙ্গে সম্পর্ক আরও গভীর করতে, সেই সঙ্গে পাকিস্তান-চিনের জোট থেকে বাড়তে থাকা হুমকির ব্যাপারে সতর্ক করেছেন।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/national/abhishek-banerjee-warns-election-commission-they-will-not-accept-final-voter-list-dmg-2478790.html",
     "time": "2025-12-31T12:42:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold-Silver Price: সোনা-রুপোর দাম আবার বাড়তে পারে; ২০২৬ সালেও নতুন রেকর্ড তৈরি হবে কি না জেনে নিন",
-    "desc": "সোমবার তীব্র পতনের পর মঙ্গলবার (৩০ ডিসেম্বর, ২০২৫) MCX-এ সকালের সেশনে সোনা ও রুপোর দাম তীব্রভাবে বেড়েছে। স্পট চাহিদার কারণে সকাল ৯:২০ মিনিটে MCX-এর সোনার ফেব্রুয়ারি ফিউচার ০.৫৪ শতাংশ বেড়ে প্রতি ১০ গ্রামে ১,৩৫,৬৬৮ টাকায় লেনদেন হয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/10/Gold-and-Silver-2025-10-c5955540f844ad713abbeea617b2eca7-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/business-news-gold-silver-prices-are-soaring-again-all-new-records-be-set-in-new-year-2026-sal-tc-aa-2478636.html",
-    "time": "2025-12-31T10:33:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'১ কোটি' টাকার মূল্য আগামী ১০ বছরে 'কত' হবে জানেন...? শুনলেই চমকাবেন, শিওর!",
-    "desc": "১ কোটি টাকা যথেষ্ট হলেও, আপনি কি কখনও ভেবে দেখেছেন যে আগামী কয়েক বছরে সেই পরিমান টাকার মূল্য আদৌ কত হবে? মুদ্রাস্ফীতি আপনার সঞ্চয়ের মূল্য বৃদ্ধি করে। এই কারণেই কেবল সঞ্চয়ের উপর নির্ভর করা আপনার ভবিষ্যৎকে সুরক্ষিত করতে পারে না।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/WhatsApp-Image-2025-12-30-at-23.27.58-2025-12-8d12bc033852657e122397c93ee42f69-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/1-crore-rupees-how-much-will-be-the-value-of-1-crore-rupee-in-the-next-10-years-youll-be-shocked-to-know-the-amount-surprising-money-fact-you-never-can-guess-sanj-2478333.html",
-    "time": "2025-12-31T07:42:54.000Z"
   }
 ];
