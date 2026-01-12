@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Virat Kohli has best chance to break Sachin Tendulkar's 32-year-old record in IND vs NZ 2nd ODI",
+    "desc": "India batting icon Virat Kohli has been in Midas touch in recent times as the maestro has been piling up runs in the ODI format. Kohli, the former India skipper, scored a masterful 93 in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-has-best-chance-to-break-sachin-tendulkars-32-year-old-record-in-ind-vs-nz-2nd-odi-2026-01-12-1025517",
+    "time": "2026-01-12T08:55:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI confirms LSG batter as replacement for injured Washington Sundar for New Zealand ODI series",
+    "desc": "The Board of Control for Cricket in India (BCCI) on Monday confirmed the replacement for the injured Washington Sundar, who has been ruled out for the remainder of the ODI series against New Zealand. The Indian...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-confirms-lsg-batter-as-replacement-for-injured-washington-sundar-for-new-zealand-odi-series-2026-01-12-1025510",
+    "time": "2026-01-12T08:20:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harshit Rana opens up on his role in India's batting attack after 1st ODI against New Zealand",
+    "desc": "The Indian team made quick work of New Zealand in the first ODI of the ongoing multi-format white-ball series. The two sides took on each other in the first game of the series at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harshit-rana-opens-up-on-his-role-in-india-s-batting-attack-after-1st-odi-against-new-zealand-2026-01-12-1025509",
+    "time": "2026-01-12T08:20:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manchester United crash out of FA Cup early after shocking loss to Brighton",
+    "desc": "Manchester United’s FA Cup campaign ended with disappointment after the side faced a loss against Brighton and Hove Albion in the third round of the tournament. The two sides locked horns at Old Trafford in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/manchester-united-crash-out-of-fa-cup-early-after-shocking-loss-to-brighton-2026-01-12-1025504",
+    "time": "2026-01-12T07:55:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ajinkya Rahane weighs in on India's performance after comfortable win against New Zealand in Vadodara",
+    "desc": "Team India kicked off their ODI series against New Zealand with a brilliant victory. The two sides took on each other at the BCA Stadium in Vadodara on January 11, and the clash saw the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ajinkya-rahane-weighs-in-on-india-s-performance-after-comfortable-win-against-new-zealand-in-vadodara-2026-01-12-1025488",
+    "time": "2026-01-12T06:38:07.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Virat Kohli inches closer to Sachin Tendulkar's elite record with another stellar show in first NZ ODI",
     "desc": "The first ODI of the ongoing series between India and New Zealand saw the Men in Blue register a brilliant victory. The two sides took on each other at the Kotambi Stadium in Vadodara for...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/dont-feel-good-about-it-same-happens-with-ms-dhoni-virat-kohli-on-crowd-reaction-after-rohits-dismissal-2026-01-11-1025442",
     "time": "2026-01-11T18:22:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Washington Sundar ruled out of remainder of IND vs NZ series after suffering injury in first ODI",
-    "desc": "India all-rounder Washington Sundar has been ruled out of the remainder of the ODI series against New Zealand. The 26-year-old complained of a side strain while bowling in the first ODI at the BCA Stadium...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/washington-sundar-ruled-out-of-remainder-of-ind-vs-nz-series-after-suffering-injury-in-first-odi-2026-01-11-1025440",
-    "time": "2026-01-11T17:57:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch El Clasico in Spanish Super Cup final in India?",
-    "desc": "Football’s fiercest rivalry steps into the spotlight again on Sunday as Barcelona and Real Madrid prepare to contest the 2026 Supercopa de Espana final at the King Abdullah Sports City Stadium in Jeddah, Saudi Arabia....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/barcelona-vs-real-madrid-when-and-where-to-watch-el-clasico-in-spanish-super-cup-final-in-india-2026-01-11-1025438",
-    "time": "2026-01-11T17:49:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is Nandni Sharma? Delhi Capitals pacer becomes fourth cricketer to claim hat-trick in WPL history",
-    "desc": "Delhi Capitals witnessed a landmark moment in the Women’s Premier League on Sunday as Nandni Sharma etched her name into the tournament’s record books. The 24-year-old fast bowler became the first DC player to claim...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/who-is-nandni-sharma-delhi-capitals-pacer-becomes-fourth-cricketer-to-claim-hat-trick-in-wpl-history-2026-01-11-1025435",
-    "time": "2026-01-11T17:17:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sneh Rana bowls most expensive over in WPL history, Sophie Devine wreaks havoc vs Delhi Capitals",
-    "desc": "Delhi Capitals’ Sneh Rana registered an unwanted record in the match against Gujarat Giants in the ongoing Women’s Premier League (WPL) 2026. She endured a difficult outing, conceding 32 runs in a single over, which...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sneh-rana-bowls-most-expensive-over-in-wpl-history-sophie-devine-wreaks-havoc-vs-delhi-capitals-2026-01-11-1025433",
-    "time": "2026-01-11T16:30:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli misses century by seven runs but guides India to a comfortable four-wicket win vs New Zealand",
-    "desc": "Star India batter Virat Kohli grabbed the spotlight once again on Sunday with a commanding knock in India’s comfortable victory over New Zealand at the BCA Stadium in Vadodara. The veteran scored 93 off 91...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-misses-century-by-seven-runs-but-guides-india-to-a-comfortable-four-wicket-win-in-vadodara-2026-01-11-1025430",
-    "time": "2026-01-11T16:03:49.000Z"
   }
 ];
