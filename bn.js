@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "'আমার হৃদয় আজ পরিপূর্ণ...' বোন নূপুর ও স্টেবিন বেনের বিয়েতে আবেগঘন কৃতী শ্যানন",
+    "desc": "সেই ছবি শেয়ার করেছেন তাঁরা দুজনেই। প্রথম ছবিতে স্টেবিন ও নূপুরকে চুম্বনরত অবস্থায় দেখা গিয়েছে। ছবিটি শেয়ার করার সময় স্টেবিন পোস্টটির ক্যাপশন দিয়েছেন, \"সর্বদা এবং চিরকাল...\"। দম্পতি ছবিগুলি পোস্ট করার সঙ্গে সঙ্গে ইন্ডাস্ট্রির বন্ধুরা তাদের অভিনন্দন জানাতে শুরু করেন। কৃতী তাঁর ইনস্টাগ্রাম স্টোরিজে পোস্টটি পুনরায় শেয়ার করেছেন এবং লিখেছেন, \"আমার হৃদয় আজ পূর্ণ! ভালবাসা, সুখ, আশীর্বাদ।\"",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-11-at-6.07.14-PM-1-2026-01-d98b9d661ec4c83214dc23dfa440d257-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/kriti-sanon-says-my-heart-is-full-as-she-shares-nupur-sanon-and-stebin-ben-wedding-picture-rmj-2491626.html",
+    "time": "2026-01-12T06:27:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "টিকিট বুকিংয়ের নিয়মে আজ থেকে বিরাট বদল...! সকাল ৮টা থেকে মধ্যরাত ১২টার মধ্যে টিকিট বুক করতে পারবেন না 'এঁরা', জানুন নতুন নিয়ম",
+    "desc": "ভারতীয় রেলের টিকিট বুকিংয়ের নিয়মে বড় বদল। এর আগেই লক্ষ লক্ষ ভুয়ো আইআরসিটিসি ব্যবহারকারীর অ্যাকাউন্ট ব্লক করেছে রেল। এরপর তৎকাল টিকিট বুকিংয়ের নিয়ম পরিবর্তন করা হয়, রিজার্ভেশনের জন্য একটি নতুন ওটিপি নিয়ম কার্যকর করা হয় রেলের তরফে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-12-at-10.13.25-2026-01-4606d24bbea3f4e6306b38690c0c8de7-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/indian-railways-a-major-change-in-ticket-booking-rules-from-today-these-people-will-not-be-able-to-book-tickets-between-8-am-and-12-am-learn-about-the-new-rules-sanj-2491758.html",
+    "time": "2026-01-12T05:42:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "লতা মঙ্গেশকরের ৪৬ বছরের পুরনো সুপারহিট গান ! অভিনেত্রী এখানে কী বোঝাতে চাইলেন? নায়ক যে পাত্তাই দিলেন না !",
+    "desc": "হিন্দি সিনেমার স্বর্ণযুগের কথা হলে আর নূতন-এর কথা না উঠলে, সেটা তো সম্ভবই না। ওনার সরলতা, গভীরতা আর অভিনয়ের সংবেদনশীলতা অনেক গানকে অমর করে দিয়েছে। ১৯৭০ সালে আসা ফিল্ম 'ইয়াদগার'-এও উনি এমনই একটা গান দিয়েছিলেন। সেই গানটা হল, ‘জিস পথ পে চলা, উস পথ পে মুঝে আঁচল তো বিছানে দে...’, যা আজও সঙ্গীতপ্রেমীদের মনে বিশেষ জায়গা করে রেখেছে। এই গানে দেবানন্দের সঙ্গে অনেক হিট ফিল্ম দেওয়া নূতন নিজের সম্পর্কে বলছেন। কিন্তু মনোজ কুমার সামনে সামনে হাঁটতে থাকেন আর একটুও ভাব প্রকাশ করেন না। ওনার মুখের ভাব, চোখের ভাষা আর সরলতা গানটার আবেগকে পুরোপুরি জীবন্ত করে তোলে। বিয়েতে তো এই গানটা অবশ্যই গাওয়া হয়। আজকের দ্রুতগতির মিউজিক ট্রেন্ডের মধ্যে যখন মানুষ এই গানটা শোনে, তখন তাঁরা পুরনো সময়ের সরলতা আর আবেগের গভীরতার অভাব অনুভব করে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Jis-Path-Pe-Chala-2026-01-624081fe8624282f18002a5f795a9278-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/entertainment/manoj-kumar-nutan-1979-film-yaadgaar-46-years-old-romantic-song-jis-path-pe-chala-sung-by-lata-mangeshkar-ss-2491708.html",
+    "time": "2026-01-12T05:33:09.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "আচমকা স্টেশনে লুটিয়ে পড়লেন যাত্রী...! পরমুহূর্তেই ছুটে এল RPF, 'মিশন সেবা'-র অধীনে অসুস্থ যাত্রীদের উদ্ধারে বিরাট উদ্যোগ নিল রেল!",
     "desc": "আরপিএফ 'মিশন সেবা'-এর অধীনে আহতদের উদ্ধার ও চিকিৎসা সহায়তা প্রদান করেছে।মানবিক উদ্যোগ 'মিশন সেবা'-র অধীনে, পূর্ব রেলের হাওড়া এবং শিয়ালদহ ডিভিশনের রেলের সুরক্ষা বাহিনীর (আরপিএফ) কর্মীরা পুরুষ ও মহিলা-সহ পাঁচজন আহত ও অসুস্থ ব্যক্তিকে উদ্ধার করে সময়মতো সহায়তা প্রদান করে রেলের তরফে গুরুতর দায়িত্ব পালন করেছেন।",
@@ -7,15 +34,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/operation-mission-seva-the-passenger-suddenly-collapsed-at-the-station-rpf-immediately-rushed-to-the-save-railways-striving-to-rescue-the-ill-passenger-under-mission-seva-scheme-sanj-2491548.html",
     "time": "2026-01-12T04:03:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'আমার হৃদয় আজ পরিপূর্ণ...' বোন নূপুর ও স্টেবিন বেনের বিয়েতে আবেগঘন কৃতী শ্যানন",
-    "desc": "সেই ছবি শেয়ার করেছেন তাঁরা দুজনেই। প্রথম ছবিতে স্টেবিন ও নূপুরকে চুম্বনরত অবস্থায় দেখা গিয়েছে। ছবিটি শেয়ার করার সময় স্টেবিন পোস্টটির ক্যাপশন দিয়েছেন, \"সর্বদা এবং চিরকাল...\"। দম্পতি ছবিগুলি পোস্ট করার সঙ্গে সঙ্গে ইন্ডাস্ট্রির বন্ধুরা তাদের অভিনন্দন জানাতে শুরু করেন। কৃতী তাঁর ইনস্টাগ্রাম স্টোরিজে পোস্টটি পুনরায় শেয়ার করেছেন এবং লিখেছেন, \"আমার হৃদয় আজ পূর্ণ! ভালবাসা, সুখ, আশীর্বাদ।\"",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-11-at-6.07.14-PM-1-2026-01-d98b9d661ec4c83214dc23dfa440d257-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/kriti-sanon-says-my-heart-is-full-as-she-shares-nupur-sanon-and-stebin-ben-wedding-picture-rmj-2491626.html",
-    "time": "2026-01-12T03:48:21.000Z"
   },
   {
     "cat": "World",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/finance-ministry-to-review-small-savings-scheme-interest-rates-in-2025-tc-rmj-aa-ws-l-2477499.html",
     "time": "2025-12-31T06:10:08.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ডাকঘর সঞ্চয় প্রকল্পের সুদের হার ঘোষণা করা হতে চলেছে ৩১ ডিসেম্বর! বিনিয়োগকারীরা কোন সুখবর পাবেন?",
-    "desc": "অর্থ মন্ত্রণালয়ের টানা সপ্তম ত্রৈমাসিক পর্যালোচনায় ক্ষুদ্র সঞ্চয় প্রকল্পের সুদের হার অপরিবর্তিত রয়েছে। এর অর্থ হল বিনিয়োগকারীরা এপ্রিল-জুন ২০২৪ থেকে একই রিটার্ন পাচ্ছেন। বিনিয়োগকারীরা এখন জানুয়ারী-মার্চ ২০২৬ ত্রৈমাসিকে এটি পরিবর্তন হবে কি না তা দেখার জন্য অপেক্ষা করছেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/1766929673_1759230906_post-office-scheme-1-6-2025-09-f721caacb60e9926cadd9a0277f69449-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/post-office-small-savings-scheme-interest-rates-to-be-announced-soon-rmj-aa-ws-l-2476282.html",
-    "time": "2025-12-31T05:26:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘আমি ঝুলি না, ঝোলাই...’, রাজ চক্রবর্তীর আসন্ন ছবি ‘হোক কলরব’-এর টিজারে ‘ক্ষুদিরাম চাকী’-র মুখে সংলাপ ঘিরে বিতর্ক তুঙ্গে! প্রতিবাদ টলিউডেও",
-    "desc": "ছবি মুক্তি পাবে ২৩ জানুয়ারি৷ বড়দিনে প্রকাশিত হয়েছে টিজার৷ তার পর থেকেই বইছে সমালোচনার ঝড়৷ সোশ্যাল মিডিয়া তো বটেই৷ তীব্র নিন্দা টলিপাড়াতেও৷ ‘ক্ষুদিরাম চাকী’-র মতো নামের কোনও চরিত্রের মুখে এই সংলাপ মানতে পারছেন না সমালোচকরা৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/WhatsApp-Image-2025-12-30-at-8.15.12-PM-2025-12-6f6468897ce54c48f702d3f2c4a570e3-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/raj-chakraborty-directed-upcoming-movie-hok-kolorob-teaser-sparks-controversy-due-to-dialogues-arc-2477813.html",
-    "time": "2025-12-30T14:53:12.000Z"
   }
 ];

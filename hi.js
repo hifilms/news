@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Virat Kohli inches closer to Sachin Tendulkar's elite record with another stellar show in first NZ ODI",
+    "desc": "The first ODI of the ongoing series between India and New Zealand saw the Men in Blue register a brilliant victory. The two sides took on each other at the Kotambi Stadium in Vadodara for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-inches-closer-to-sachin-tendulkar-s-elite-record-with-another-stellar-show-in-first-nz-odi-2026-01-12-1025475",
+    "time": "2026-01-12T05:11:48.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer opens up on KL Rahul's batting position after 1st NZ ODI",
     "desc": "The 1st ODI of the ongoing multi-format white-ball series between India and New Zealand saw the Men in Blue register a brilliant victory. The two sides locked horns at the Kotambi Stadium in Vadodara on...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-misses-century-by-seven-runs-but-guides-india-to-a-comfortable-four-wicket-win-in-vadodara-2026-01-11-1025430",
     "time": "2026-01-11T16:03:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How many runs does Virat Kohli need to break Sachin Tendulkar's record for most runs in ODI history?",
-    "desc": "In the opening ODI against New Zealand, Virat Kohli delivered a dominant performance, hammering 93 runs off 91 balls to put India firmly in control. The 37-year-old played aggressively to begin with and showed immense...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-many-runs-does-virat-kohli-need-to-break-sachin-tendulkar-s-record-for-most-runs-in-odi-history-2026-01-11-1025428",
-    "time": "2026-01-11T15:37:09.000Z"
   }
 ];
