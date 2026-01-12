@@ -1,5 +1,68 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Bachchan plays finger cricket with Tendulkar, the internet is in awe",
+    "desc": "Amitabh Bachchan and Sachin Tendulkar shared a heartwarming moment playing finger cricket during the ISPL. Bachchan, a team owner, expressed his joy playing with the 'God of Cricket,' showcasing a childlike enthusiasm. The adorable video of the two legends bonding has delighted netizens, with many celebrating their iconic meeting.",
+    "img": "https://static.toiimg.com/photo/msid-126492152,imgsize-52626.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-plays-finger-cricket-with-sachin-tendulkar-and-the-internet-is-in-awe-watch-video-to-know-who-won/articleshow/126492150.cms",
+    "time": "2026-01-12T20:37:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arpita reacts strongly to scrutiny around Mahhi-Nadim",
+    "desc": "After Mahhi Vij and Jay Bhanushali announced their separation earlier this month, the couple found themselves at the centre of intense online speculation. Reacting to the growing scrutiny, Salman Khan’s sister Arpita Khan took to her Instagram Stories to voice her concern.",
+    "img": "https://static.toiimg.com/photo/msid-126492135,imgsize-51950.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-sister-arpita-khan-reacts-strongly-to-scrutiny-around-mahhi-vij-and-nadim-nadz-after-separation-from-jay-bhanushali/articleshow/126492132.cms",
+    "time": "2026-01-12T20:27:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Abhishek was upset about Aishwarya being bodyshamed",
+    "desc": "Aishwarya Rai Bachchan faced body shaming for her post-pregnancy weight after giving birth to Aaradhya. While she remained unfazed, husband Abhishek Bachchan admitted to being upset by the negative media attention. Aishwarya, however, emphasized self-belief and the importance of not letting others' opinions define one's worth.",
+    "img": "https://static.toiimg.com/photo/msid-126492114,imgsize-31358.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-abhishek-bachchan-was-upset-about-aishwarya-rai-bachchan-being-body-shamed-after-aaradhyas-birth-called-her-a-supermom/articleshow/126492113.cms",
+    "time": "2026-01-12T20:12:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lucknow medical college staff seek FIR over vandalism, threaten to stall all OPD services",
+    "desc": "A scuffle broke out on the campus on January 9 when about 100 people, including BJP leader and vice-chairperson of the Uttar Pradesh Women’s Commission Aparna Yadav, allegedly tried to force their way into the Vice-Chancellor’s office",
+    "img": "https://th-i.thgim.com/public/news/cities/Delhi/2dxm2q/article70502986.ece/alternates/LANDSCAPE_1200/12_BM_KGMU.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/lucknow-medical-college-staff-seek-fir-over-vandalism-threaten-to-stall-all-opd-services/article70501828.ece",
+    "time": "2026-01-12T19:47:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Shatrughan recalled Rajesh ‘couldn’t forgive’ him",
+    "desc": "Veteran actor and politician Shatrughan Sinha once opened up about a painful phase in his friendship with the late Rajesh Khanna, revealing how the superstar stopped speaking to him for years after they contested the Delhi election against each other. In an old interview with The Times of India, Shatrughan spoke candidly about the fallout, the misunderstanding, and his regret at not being able to meet Rajesh Khanna before his death.",
+    "img": "https://static.toiimg.com/photo/msid-126492029,imgsize-40952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-shatrughan-sinha-recalled-rajesh-khanna-couldnt-forgive-him-for-contesting-elections-against-him-couldnt-meet-before-his-death/articleshow/126492003.cms",
+    "time": "2026-01-12T19:45:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Anushka set the record straight on link-up with Prabhas",
+    "desc": "Anushka Shetty and Prabhas, a beloved onscreen pair, have repeatedly clarified their off-screen relationship as just friendship, despite persistent dating and wedding rumors. Shetty explained their bond stems from a 15-year friendship and their shared single status, emphasizing that any romance would have been public by now. She also noted that such gossip negatively impacts her family.",
+    "img": "https://static.toiimg.com/photo/msid-126491932,imgsize-30554.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/when-anushka-shetty-set-the-record-straight-on-her-relationship-with-prabhas-we-are-linked-because-/articleshow/126491954.cms",
+    "time": "2026-01-12T19:34:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Here's why Hema Malini has not watched Dharmendra's last film 'Ikkis'",
+    "desc": "Hema Malini revealed she hasn't watched Dharmendra's last film 'Ikkis' yet, stating she's still grieving and will watch it when her wounds heal. She also addressed rumors about her relationship with Sunny and Bobby Deol, clarifying they are cordial and they are all happy and close.",
+    "img": "https://static.toiimg.com/photo/msid-126491645,imgsize-30700.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hema-malini-says-shes-not-watched-dharmendras-last-film-ikkis-when-my-wounds-start-healing-/articleshow/126491640.cms",
+    "time": "2026-01-12T19:08:46.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Second US trial opens over 2019 Ethiopian Airlines crash; Canadian family presses damages claim",
     "desc": "A US federal court in Chicago has commenced a second damages trial against Boeing concerning the 2019 Ethiopian Airlines 737 MAX crash. A Canadian plaintiff, Manant Vaidya, is seeking compensation after losing multiple family members in the tragedy. Boeing has acknowledged responsibility for the crashes and committed to fair compensation for victims.",
@@ -97,15 +160,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/fed-showdown-donald-trumps-legal-move-against-powell-sharpens-rate-cut-battle-raises-questions-over-central-bank-independence/articleshow/126488433.cms",
     "time": "2026-01-12T16:37:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CAG has exposed ‘massive scam’ in Kaushal Vikas Yojana: Congress",
-    "desc": "Congress alleges a massive scam in the Pradhan Mantri Kaushal Vikas Yojana (PMKVY) based on a CAG report. The report highlights thousands of crores distributed with a significant percentage of fake beneficiaries, mobile numbers, and assessor details, alongside incomplete trainer information and data manipulation.",
-    "img": "https://static.toiimg.com/photo/msid-126488215,imgsize-1233091.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cag-has-exposed-massive-scam-in-kaushal-vikas-yojana-congress/articleshow/126488127.cms",
-    "time": "2026-01-12T16:30:36.000Z"
   },
   {
     "cat": "Politics",
@@ -234,15 +288,6 @@ const newsData_en = [
     "time": "2026-01-12T14:55:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM Modi-Merz meeting: Germany announces visa free transit for Indians; ink multiple agreements",
-    "desc": "India and Germany finalized 19 agreements, enhancing cooperation in defense, critical technologies, and clean energy during German Chancellor Friedrich Merz's visit. Key outcomes include visa-free transit for Indian nationals, a joint declaration on defense industrial cooperation, and significant German climate finance commitments.",
-    "img": "https://static.toiimg.com/photo/msid-126487055,imgsize-911566.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-merz-meeting-germany-announces-visa-free-transit-for-indians-ink-multiple-agreements/articleshow/126486658.cms",
-    "time": "2026-01-12T14:50:44.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Nupur, Stebin drops PICS from Hindu wedding after Catholic nuptials",
     "desc": "Nupur Sanon and Stebin Ben celebrated their union in a grand Udaipur wedding on December 10th, followed by a vibrant sangeet. The festivities included heartfelt performances by Nupur's mother, Geetu, and bridesmaids, with Kriti Sanon also joining in the celebratory dances. The couple shared a special moment on the dance floor, embracing the joyous occasion.",
@@ -279,40 +324,13 @@ const newsData_en = [
     "time": "2026-01-12T14:41:11.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Tabu joins Akshay Kumar's ‘Bhooth Bangla’",
-    "desc": "Tabu joins Akshay Kumar's horror-comedy Bhooth Bangla, reuniting with Priyadarshan after 14 years. Following Bhool Bhulaiyaa 2 success, she posted a clapperboard pic captioned “Hum yahan bandh hain” from Jaipur shoot. Paresh Rawal stars too; fans hype Manjulika-Dr. Aditya crossover. Ektaa Kapoor welcomes her. Releases April 2, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-126486906,imgsize-30328.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tabu-joins-akshay-kumars-bhooth-bangla-drops-post-with-clapboard-photo-hum-yahan-bandh-hain/articleshow/126486906.cms",
-    "time": "2026-01-12T14:40:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "WPL-4: Harris, Smriti make it a stroll in the park for Royal Challengers",
     "desc": "The openers make short work of the modest target of 144 as the Bengaluru side notches up its second win on the trot; Deepti and Dottin’s unbroken 93-run partnership for the sixth wicket props up Warriorz from a precarious 50 for five",
-    "img": "https://th-i.thgim.com/public/incoming/nri1vc/article70502016.ece/alternates/LANDSCAPE_1200/TH07-WPL-COUNTDGANFDEJBG.3.jpg.jpg",
+    "img": "https://th-i.thgim.com/public/incoming/agcftn/article70502841.ece/alternates/LANDSCAPE_1200/11908_12_1_2026_22_5_22_4_DSC_7384.JPEG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/wpl-match-between-rcb-and-upw-updates-on-january-12-2026/article70501955.ece",
     "time": "2026-01-12T14:21:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sobhita Dhulipala starrer ‘Cheekatilo’ trailer drops",
-    "desc": "Sobhita Dhulipala's new crime thriller, 'Cheekatilo', is set for a direct OTT release on Amazon Prime Video on January 23, 2026. The trailer reveals a dark, layered narrative exploring the psychological impact of crime in a digitally connected world, focusing on social media misuse and its link to violence. The film promises a suspenseful and intense viewing experience.",
-    "img": "https://static.toiimg.com/photo/msid-126486364,imgsize-58576.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/sobhita-dhulipala-starrer-cheekatilo-trailer-drops-promises-a-gripping-crime-thriller-watch/articleshow/126486360.cms",
-    "time": "2026-01-12T14:08:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kriti spotted leaving Udaipur with rumoured BF Kabir Bahia",
-    "desc": "Kriti Sanon exited Udaipur airport post her sister Nupur's wedding with Stebin Ben, spotted with rumored beau Kabir Bahia in viral clips. Dressed in checkered kurta, she paused amid security. Social buzz reignites romance talk; she stays silent, focusing on ‘Cocktail 2’ with Shahid Kapoor.",
-    "img": "https://static.toiimg.com/photo/msid-126486333,imgsize-17456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kriti-sanon-wraps-up-sister-nupur-sanons-wedding-spotted-leaving-udaipur-with-rumoured-boyfriend-kabir-bahia/articleshow/126486333.cms",
-    "time": "2026-01-12T14:04:35.000Z"
   },
   {
     "cat": "Business",
@@ -325,48 +343,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Vishal Jethwa makes Scorsese say Namaste",
-    "desc": "Vishal Jethwa shines a spotlight on his Oscar-submitted film 'Homebound', passionately advocating for the global reach of Hindi. Once grappling with the challenges of English, he has now embraced his roots, empowering himself and others by showcasing India’s rich linguistic heritage on the world stage.",
-    "img": "https://static.toiimg.com/photo/msid-126486090,imgsize-21768.cms",
+    "title": "Police finds fresh evidence against Vikram Bhatt in fraud case",
+    "desc": "Filmmaker Vikram Bhatt and his wife remain in judicial custody as a fraud case against them intensifies. Investigators have seized evidence from Mumbai locations and allege a lack of cooperation from Bhatt's team. The case stems from a complaint by businessman Dr. Ajay Murdia, who claims funds for film projects were misused.",
+    "img": "https://static.toiimg.com/photo/msid-126485976,imgsize-35678.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/homebound-fame-vishal-jethwa-recalls-making-martin-scorsese-say-namaste-amid-oscars-2026-race/articleshow/126486090.cms",
-    "time": "2026-01-12T13:49:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi raises issue with Germany's Merz; who is the child",
-    "desc": "India has intensified its engagement with German authorities regarding Ariha Shah, an Indian child in foster care for over 40 months, urging a humanitarian approach. New Delhi is working to ensure Ariha remains connected to Indian culture and language while in Germany, with the issue raised at the highest political levels.",
-    "img": "https://static.toiimg.com/photo/msid-126486006,imgsize-523057.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/baby-ariha-case-pm-modi-raises-issue-with-germanys-merz-who-is-the-child/articleshow/126485981.cms",
-    "time": "2026-01-12T13:43:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka Chopra's Padma Shri moment with Rajinikanth",
-    "desc": "At the 2026 Golden Globes, Priyanka Chopra dazzled the audience as she presented an award alongside the sensational Lalisa Manobal. This moment was a poignant throwback to 2017, when Chopra celebrated her Padma Shri while standing beside the iconic Rajinikanth, who received the Padma Vibhushan.",
-    "img": "https://static.toiimg.com/photo/msid-126485867,imgsize-36916.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/throwback-to-priyanka-chopras-padma-shri-moment-with-rajinikanth-amid-her-golden-globes-2026-appearance/articleshow/126485867.cms",
-    "time": "2026-01-12T13:39:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pankaj Kapur brings home swanky new luxury car",
-    "desc": "Bollywood's Pankaj Kapur bought a new Audi Q7 SUV, posing with wife Supriya Pathak and kids at the dealership. Priced Rs. 86-95 lakh, it boasts 340 PS power and luxury features. Celeb fave like Kriti Sanon. Last in 'Binny and Family'. Married Supriya since 1988 post Neelima divorce; family intact.",
-    "img": "https://static.toiimg.com/photo/msid-126485843,imgsize-26106.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pankaj-kapur-brings-home-swanky-new-luxury-car-poses-with-wife-supriya-pathak-and-daughter-sanah-see-pic/articleshow/126485843.cms",
-    "time": "2026-01-12T13:32:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Will NDA’s house of cards hold in Tamil Nadu? Balancing between 'koottani' and 'kattuppadu'",
-    "desc": "For Tamil Nadu’s political culture, shaped by decades of Dravidian assertion and a strong emphasis on regional autonomy, such an explicit pre-election claim has few precedents. The reaction within the AIADMK has been wary, if not outright resistant, as the BJP’s clout in the South remains lean. The pre-poll power-sharing deal, however, is only one strand in a much larger and more byzantine political development.",
-    "img": "https://static.toiimg.com/photo/msid-126485567,imgsize-110350.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/will-ndas-house-of-cards-hold-in-tamil-nadu-balancing-between-koottani-and-kattuppadu-power-and-alliance/articleshow/126483423.cms",
-    "time": "2026-01-12T13:19:59.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/no-relief-for-vikram-bhatt-his-wife-shwetambari-bhatt-in-the-rs-30-crore-fraud-case-police-find-fresh-evidence-says-his-team-did-not-fully-co-operate/articleshow/126485985.cms",
+    "time": "2026-01-12T13:40:29.000Z"
   },
   {
     "cat": "Business",
@@ -378,24 +360,6 @@ const newsData_en = [
     "time": "2026-01-12T13:04:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Ex-VP admitted to AIIMS, to undergo MRI; fainted twice last week",
-    "desc": "Former Vice President Jagdeep Dhankhar was admitted to AIIMS on Monday. He experienced two episodes of unconsciousness last week. Doctors at AIIMS insisted on his admission for further tests. Dhankhar had previously fainted on several occasions while serving as Vice President. He resigned from his post in July citing health reasons.",
-    "img": "https://static.toiimg.com/photo/msid-126484837,imgsize-45852.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dhankhar-hospitalised-ex-vp-admitted-to-aiims-to-undergo-mri-fainted-twice-last-week/articleshow/126484860.cms",
-    "time": "2026-01-12T12:41:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "From Maharashtra to Tamil Nadu, has 'women first' become best poll bet for parties?",
-    "desc": "Political parties are increasingly targeting women voters, seen as kingmakers in elections. Ahead of Maharashtra's civic polls, the state government scheduled welfare payouts just before voting, drawing criticism from the Congress. Similarly, Tamil Nadu's DMK government expanded its women's welfare scheme and announced additional payments, also facing accusations of electoral timing.",
-    "img": "https://static.toiimg.com/photo/msid-126484348,imgsize-2961965.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-maharashtra-to-tamil-nadu-assembly-elections-has-women-first-become-best-poll-bet-for-parties/articleshow/126484009.cms",
-    "time": "2026-01-12T12:19:21.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "The village that kept Thyagaraja’s music alive",
     "desc": "Every January, the quiet temple town of Thiruvaiyaru, in Tamil Nadu’s Thanjavur district, comes alive with music. This annual pilgrimage centres on the Thyagaraja temple. It is here that Saint Thyagaraja attained Jeeva Samadhi. Each year, on the day of his samadhi, musicians assemble to render the Saint’s Pancharatna Kritis in a ritual known as the Thyagaraja Aradhana.",
@@ -403,15 +367,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-the-village-that-kept-thyagarajas-music-alive/article70501266.ece",
     "time": "2026-01-12T12:05:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dhurandar’s Top 3 viral trends that took over the internet",
-    "desc": "Dhurandhar's impact extends beyond the box office, igniting social media with viral trends. Akshaye Khanna's electrifying dance moves on FA9LA and his surprisingly tender portrayal of Rehman Dakait have captivated audiences. Ranveer Singh's 'Day 1 as a spy' memes also offer hilarious takes on his character's undercover mission, proving the film's widespread digital appeal.",
-    "img": "https://static.toiimg.com/photo/msid-126483562,imgsize-1315397.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/from-rehman-dakaits-swagger-to-day-1-as-a-spy-dhurandars-top-3-viral-trends-that-took-over-the-internet/articleshow/126483556.cms",
-    "time": "2026-01-12T11:42:09.000Z"
   },
   {
     "cat": "Business",
@@ -511,6 +466,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-ayush-badoni-earns-maiden-odi-call-up-as-washington-sundar-ruled-out-of-series/articleshow/126480237.cms",
     "time": "2026-01-12T09:00:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar' day 39 Vs 'The Raja Saab' day 4 (LIVE)",
+    "desc": "'Dhurandhar' continues its strong run into its sixth weekend, outperforming 'The Raja Saab' in the Hindi belt. Despite a slight dip on Friday due to the new release, 'Dhurandhar's' weekend collections remain impressive. The film is projected to finish significantly ahead of 'Pushpa 2' in net collections, with a notable surprise in Mysore/Karnataka.",
+    "img": "https://static.toiimg.com/photo/msid-126479863,imgsize-46372.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-day-39-vs-the-raja-saab-day-4-the-ranveer-singh-film-has-a-great-sixth-weekend-crosses-rs-800-crore-the-prabhas-starrer-will-see-further-drop-on-monday/articleshow/126479498.cms",
+    "time": "2026-01-12T08:42:42.000Z"
   },
   {
     "cat": "Sports",
@@ -810,15 +774,6 @@ const newsData_en = [
     "time": "2026-01-09T17:52:03.000Z"
   },
   {
-    "cat": "World",
-    "title": "Meloni rules out U.S. military move on Greenland, urges strong NATO Arctic presence",
-    "desc": "“I continue not to believe ​in the hypothesis that the United States ⁠would launch a military action to take control of Greenland, an option I would clearly not support,” Italian Prime Minister Giorgia Meloni ​said",
-    "img": "https://th-i.thgim.com/public/incoming/5zyat9/article70492335.ece/alternates/LANDSCAPE_1200/2026-01-09T140224Z_946260734_RC2MXIAA12SG_RTRMADP_3_ITALY-BANKS-MELONI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/meloni-rules-out-us-military-move-on-greenland-urges-strong-nato-arctic-presence/article70492326.ece",
-    "time": "2026-01-09T17:42:10.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Investors chose Gold ETFs over Equities in December 2025",
     "desc": "Net inflows into gold exchange traded funds tripled to a record high of ₹1,16,467 crore in Dec. 2025 from the month earlier,according to AMFI data; surge due to ‘sustained demand for gold-backed products amid elevated macro uncertainty",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/love-mocktail-3-release-date-love-mocktail-darling-krishna-milana-nagaraj-nakul-abhayankar-april-2026/article70481308.ece",
     "time": "2026-01-07T08:18:59.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "SC agrees to take up plea for SOP on freezing, de-freezing bank accounts in cybercrime cases",
+    "desc": "The plea also sought appropriate guidelines to all investigating agencies, including cyber cells, to ensure no bank account gets frozen without a written order and intimation to the account holder within 24 hours of such action",
+    "img": "https://th-i.thgim.com/public/news/national/uttar-pradesh/yz3pc2/article70478495.ece/alternates/LANDSCAPE_1200/iStock-817486028.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/sc-agrees-to-take-up-plea-for-sop-on-freezing-de-freezing-bank-accounts-in-cybercrime-cases/article70478321.ece",
+    "time": "2026-01-06T13:36:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Run Away’ series review: Perfect pulp to kick off the New Year",
+    "desc": "James Nesbitt and Minnie Driver as desperate parents of a vulnerable missing teenager form just one curly strand of spaghetti in this Harlan Coben adaptation, which also features a pair of good-looking killers and a murderous cult",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/ak5kho/article70477316.ece/alternates/LANDSCAPE_1200/AAAAQTXqXqc9iC-nS0u-QIyqogmzke5ZMTGdtewt3m-WdCDvVjiewdIHoRVizkoPXRUv4Lq1O9Bqu9or8L7dUTr3aOkAjhmLKnVPwlk8mgp7hS5sZHvb9FK_kY1Divooomf4vdBvQi7i18IzSfRR62tmng5C5nA.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/run-away-series-review-perfect-pulp-to-kick-off-the-new-year/article70477206.ece",
+    "time": "2026-01-06T09:18:11.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Five ways in which technology will rewire life in 2026",
+    "desc": "AI is no longer a standout novelty but a necessity, and smartphones are defined less by hardware upgrades and more by how well they connect within broader tech ecosystems. These five trends are reshaping technology in 2026",
+    "img": "https://th-i.thgim.com/public/news/national/karnataka/kfgg8h/article70452303.ece/alternates/LANDSCAPE_1200/Main%20Placeholder%20image.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/five-ways-in-which-technology-will-rewire-life-in-2026/article70452235.ece",
+    "time": "2026-01-02T11:18:53.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
   }
 ];
