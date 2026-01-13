@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Lamine Yamal denies giving guard of honour to Real Madrid after Supercopa final, new video goes viral",
+    "desc": "The post-match ceremony following Barcelona’s 3–2 victory over Real Madrid in the Supercopa de España final has continued to generate debate, with the guard of honour or lack of it emerging as one of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lamine-yamal-denied-giving-guard-of-honour-to-real-madrid-after-supercopa-final-new-video-goes-viral-2026-01-13-1025712",
+    "time": "2026-01-13T12:20:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Faf du Plessis ruled out of remainder of SA20 season, Joburg Super Kings announce new captain",
+    "desc": "Joburg Super Kings have been dealt a major setback midway through the SA20 season after captain Faf du Plessis was ruled out for the remainder of the tournament due to a ligament tear. The veteran...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/faf-du-plessis-ruled-out-of-remainder-of-sa20-season-joburg-super-kings-announce-new-captain-2026-01-13-1025703",
+    "time": "2026-01-13T11:20:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Michael Carrick appointed as Manchester United caretaker coach, know why he was preferred over Ole Gunnar",
+    "desc": "Michael Carrick has been appointed caretaker manager of Manchester United, returning to the Old Trafford dugout at a time of renewed upheaval for the club. The former midfielder agreed to the role on Monday night...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/michael-carrick-appointed-as-manchester-united-caretaker-coach-know-why-he-was-preferred-over-ole-gunnar-solskjaer-2026-01-13-1025694",
+    "time": "2026-01-13T10:40:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC holds meeting with BCB officials for T20 World Cup 2026, Bangladesh confirm stance to not travel to India",
+    "desc": "The Bangladesh Cricket Board (BCB) has reiterated its decision not to travel to India for the T20 World Cup 2026, citing security concerns, following a video conference with the International Cricket Council (ICC) held on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-holds-meeting-with-bcb-officials-for-t20-world-cup-2026-bangladesh-confirm-stance-to-not-travel-to-india-2026-01-13-1025687",
+    "time": "2026-01-13T10:01:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How many runs does Virat Kohli need to shatter Sachin Tendulkar's record for most international runs?",
     "desc": "India icon Virat Kohli has been in brilliant form in ODI cricket recently. He hit a match-defining 93 in the first ODI between India and New Zealand at the BCA Stadium in Vadodara as he...",
     "img": "",
@@ -43,41 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/5-players-who-can-replace-alyssa-healy-as-next-australia-captain-ahead-of-t20-world-cup-2026-2026-01-13-1025615",
     "time": "2026-01-13T03:05:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dewald Brevis slams jaw-dropping no-look six as he turns up the heat against former franchise in SA20",
-    "desc": "For the second time this season, Dewald Brevis turned up the heat against his former franchise, MI Cape Town, in the ongoing SA20 as he slammed two fiery cameos. The Proteas sensation had scored a 13-ball...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dewald-brevis-slams-jaw-dropping-no-look-six-as-he-turns-up-the-heat-against-former-franchise-in-sa20-watch-2026-01-13-1025609",
-    "time": "2026-01-13T02:13:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Alyssa Healy announces shock retirement months before T20 World Cup, India home series to be her last",
-    "desc": "Australia captain Alyssa Healy has made a shocking retirement announcement from all cricket, set to bring down curtains to an illustrious career. Healy would hang her boots from all cricket after the home series against...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/alyssa-healy-announces-shocking-retirement-months-before-t20-world-cup-india-home-series-to-be-her-last-2026-01-13-1025598",
-    "time": "2026-01-13T00:58:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB register their biggest victory in WPL history following Grace Harris masterclass vs UP Warriorz",
-    "desc": "Grace Harris delivered a commanding performance to guide Royal Challengers Bengaluru to a dominant nine-wicket victory over UP Warriorz in the Women’s Premier League 2026. Her 85 off 40 balls propelled RCB past a target...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-register-their-biggest-victory-in-wpl-history-following-grace-harris-masterclass-vs-up-warriorz-2026-01-12-1025592",
-    "time": "2026-01-12T18:02:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Xabi Alonso leaves Real Madrid with immediate effect, club announce new coach",
-    "desc": "Real Madrid have officially confirmed the departure of Xabi Alonso as first-team head coach, bringing his tenure to an end by mutual consent. The decision was announced by the club through a formal statement, marking...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/xabi-alonso-leaves-real-madrid-with-immediate-effect-club-announce-new-coach-2026-01-12-1025589",
-    "time": "2026-01-12T17:28:01.000Z"
   }
 ];

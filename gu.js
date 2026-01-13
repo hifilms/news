@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "વિશ્વનો એકમાત્ર એવો કયો દેશ છે, જેની ત્રણ રાજધાની છે ? જાણી લો જવાબ",
+    "desc": "દુનિયાના દરેક દેશની પોતાની આગવી ઓળખ હોય છે અને તેની રાજધાની તેનું સૌથી મહત્વપૂર્ણ રાજકીય અને વહીવટી કેન્દ્ર હોય છે. દરેક દેશની પોતાની એક રાજધાની હોય છે, જો કે એક દેશ એવો છે, જેની 3 રાજધાની છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/gk-quiz-which-is-the-only-country-in-the-world-that-has-three-capitals-461588 ",
+    "time": "2026-01-13T12:20:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રોહિત-કોહલી માટે પનોતી બન્યું રાજકોટનું મેદાન, 17 વર્ષથી અધૂરું છે આ એક સપનું",
+    "desc": "ભારત અને ન્યુઝીલેન્ડ વચ્ચેની બીજી વનડે મેચ થોડા કલાકોમાં જ શરૂ થશે. સિરીઝમાં ભારત 1-0થી આગળ છે. બધાની નજર રોહિત શર્મા અને વિરાટ કોહલીના પ્રદર્શન પર છે. છેલ્લી મેચમાં રોહિતે 26 રન બનાવ્યા હતા, જ્યારે વિરાટ કોહલીને ખરાબ નસીબનો સામનો કરવો પડ્યો હતો, તેમણે 93 રન પર પોતાની વિકેટ ગુમાવી દીધી હતી. હવે આગામી મેચ રાજકોટના મેદાનમાં રમાવાની છે, જે વિરાટ અને રોહિત માટે પનોતી સાબિત થયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-2nd-odi-rajkot-rohit-sharma-virat-kohli-century-drought-records-461587 ",
+    "time": "2026-01-13T12:19:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "પેન્શન માટે જરૂરી છે આ સર્ટિફિકેટ, હવે ઘરે બેઠા મફતમાં કરી શકો છો સબમિટ",
+    "desc": "પરિપત્ર મુજબ, આ સુવિધા પેન્શનરો માટે શરૂ કરવામાં આવી છે, જેમને ઘરેથી બેંક કે EPFO ​​ઓફિસ જવામાં મુશ્કેલીનો સામનો કરવો પડે છે. જે કર્મચારીઓ સ્માર્ટફોન કે ટેકનોલોજીનો વારંવાર ઉપયોગ કરતા નથી તેમને પણ લાભ મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/this-certificate-is-required-for-pension-now-you-can-submit-it-for-free-from-home-461586 ",
+    "time": "2026-01-13T12:17:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "દુબઈ ભુલી જાઓ... આ દેશમાં મળી રહ્યું છે 200 રૂપિયાથી ઓછામાં 1 ગ્રામ સોનું, નામ જાણીને ચોંકી જશો",
+    "desc": "ભારતમાં સોનાની કિંમત 1.40 લાખ રૂપિયાને વટાવી ગઈ છે. જો કે, દુબઈ હંમેશા તેના સસ્તા સોના માટે જાણીતું રહ્યું છે. જો કે, એક એવો દેશ છે જ્યાં 1 ગ્રામ સોનાની કિંમત ચા કે કોફીના કપ જેટલી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-price-in-venezuela-this-country-beats-dubai-and-india-by-a-huge-margin-461581 ",
+    "time": "2026-01-13T11:25:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "14 જ નહીં, 15 જાન્યુઆરીએ પણ રહેશે શાળાઓમાં રજા, જાણો શું છે કારણ",
+    "desc": "14 કે 15 જાન્યુઆરી મકરસંક્રાંતિ ક્યારે છે ? આ પ્રશ્ન દરેકને પરેશાન કરી રહ્યો છે. જો તમે પણ આ અંગે મૂંઝવણમાં છો અને જાણવા માંગતા હો કે મકરસંક્રાંતિ કયા દિવસે ઉજવવામાં આવશે, તો આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/makar-sankranti-school-holiday-14-or-15-january-schools-closed-states-wise-list-461578 ",
+    "time": "2026-01-13T10:48:35.000Z"
+  },
+  {
     "cat": "Business",
     "title": "નોકરિયાત વર્ગને થશે મોટો ફાયદો, 30 હજાર થઈ શકે છે ESICની લિમિટ, જાણો વિગત",
     "desc": "જો બજેટ 2026મા ESIC ની સેલેરી લિમિટ વધારવાની જાહેરાત થાય છે તો આ મિડલ ક્લાસ કર્મચારીઓ માટે મોટી રાહત હોઈ શકે છે. સ્વાસ્થ્ય ખર્ચમાં બચત થશે અને સામાજિક સુરક્ષાની દ્રષ્ટિએ આ પગલું મહત્વનું સાબિત થઈ શકે છે.",
@@ -189,15 +234,6 @@ const newsData_gu = [
     "time": "2026-01-12T05:26:38.000Z"
   },
   {
-    "cat": "Business",
-    "title": "1 એપ્રિલથી નવો ટેક્સ કાયદો થશે લાગૂ, જાણો તમારા પર શું થશે અસર",
-    "desc": "1 એપ્રિલથી દેશમાં નવો આવકવેરા કાયદો લાગૂ થવાનો છે. આવકવેરા એક્સ 2025, 64 વર્ષ જૂના ઇનકમ ટેક્સ એક્ટ 1961ની જગ્યા લેશે. સરકારનો દાવો છે કે તેમાં ટેક્સ દરમાં ફેરફાર થયો નથી, પરંતુ નિયમોને સરળ, સ્પષ્ટ અને ઓછા વિવાદવાળા બનાવવામાં આવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/income-tax-act-new-tax-law-from-april-1st-what-will-change-461388 ",
-    "time": "2026-01-12T05:01:23.000Z"
-  },
-  {
     "cat": "World",
     "title": "ડોનાલ્ડ ટ્રમ્પનો વિચિત્ર દાવો, આ દેશના &amp;#039;કાર્યવાહક રાષ્ટ્રપતિ&amp;#039; બની બેઠા, Photo શેર કર્યો",
     "desc": "ડોનાલ્ડ ટ્રમ્પ જ્યારથી અમેરિકાના બીજીવાર રાષ્ટ્રપતિ બન્યા છે ત્યારથી એવા એવા નિર્ણયો લઈ રહ્યા છે કે દુનિયા અચંબિત થઈ જાય છે. હવે વળી પાછો તેમણે એક એવી પોસ્ટ શેર કરી છે કે લોકો દંગ રહી ગયા. અચાનક એક દેશના રાષ્ટ્રપતિ બની બેઠા.",
@@ -241,15 +277,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/team-india-beat-new-zealand-in-1st-odi-virat-kohli-harshit-rana-kl-rahul-finishing-six-461348 ",
     "time": "2026-01-11T16:38:50.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "આવતીકાલે ખુલશે આ સસ્તો IPO, પ્રાઇસ બેન્ડ ₹59, ગ્રે માર્કેટમાં અત્યારથી મજબૂત તેજી!",
-    "desc": "કંપની તેના IPO દ્વારા કુલ 35.22 કરોડ રૂપિયા એકત્ર કરવાનો લક્ષ્યાંક ધરાવે છે. આમાં 52 લાખ નવા શેર જાહેર કરવામાં આવ્યા છે અને ઓફર ફોર સેલ (OFS) દ્વારા વેચાયેલા 800,000 શેરનો સમાવેશ થાય છે. કંપનીના પ્રમોટર્સ, અનંતરામૈયા પાનિશ, ગુરુરાજ દાંબલ, એસ. વિનોદ કુમાર અને કે.એન. શ્રીનાથ, OFSમાં તેમના શેર વેચશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/this-cheap-ipo-will-open-tomorrow-price-band-rs-59-strong-rally-in-the-gray-market-from-now-on-461346 ",
-    "time": "2026-01-11T15:34:53.000Z"
   },
   {
     "cat": "Tech",
@@ -342,15 +369,6 @@ const newsData_gu = [
     "time": "2026-01-11T09:49:16.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "પીડાથી કણસતો રહ્યો પંત... ગિલ કે ગંભીરે ના આપ્યું ધ્યાન, Video જોયા બાદ ફેન્સ થયા ગુસ્સે",
-    "desc": "રિષભ પંત ન્યૂઝીલેન્ડ સામેની ODI શ્રેણીમાંથી બહાર થઈ ગયો છે. પ્રેક્ટિસ સેશન દરમિયાન તેને ઈજા થઈ હતી. આ ઘટનાનો એક વીડિયો વાયરલ થઈ રહ્યો છે, જેમાં પંત ઈજાગ્રસ્ત થયા પછી દર્દથી પીડાઈ રહ્યો છે, જ્યારે બીજી તરફ મુખ્ય કોચ ગૌતમ ગંભીર, કેપ્ટન શુભમન ગિલે અને અજીત અગરકર વાતો કરતા જોવા મળી રહ્યા છે. વીડિયો જોયા બાદ ફેન્સ ગુસ્સામાં છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/shubman-gill-gautam-gambhir-ignored-rishabh-pant-injury-video-viral-fans-angry-461291 ",
-    "time": "2026-01-11T08:45:32.000Z"
-  },
-  {
     "cat": "World",
     "title": "દુનિયા પર આવશે મોટું સંકટ! શું વર્ષ 2026 માનવ ઇતિહાસનું સૌથી ભયાનક વર્ષ સાબિત થશે?",
     "desc": "બાબા વેંગાની આ વર્ષ 2026 માટેની ભવિષ્યવાણીઓ દુનિયામાં મોટા ઉલટફેર અને ગંભીર જોખમો તરફ ઈશારો કરી રહી છે. આ દાવાઓ મુજબ, આ વર્ષ તણાવ અને પડકારોથી ભરેલું હોઈ શકે છે, જેની અસર વૈશ્વિક રાજકારણ, પર્યાવરણીય સંતુલન અને ઝડપથી બદલાતી ટેકનોલોજી પર ઊંડી જોવા મળી શકે છે.",
@@ -385,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/this-character-will-be-seen-again-in-mirzapur-the-film-he-died-in-the-first-season-461190 ",
     "time": "2026-01-10T15:40:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મોદી સરકારનો મોટો નિર્ણય, 1 ફેબ્રુઆરી નહીં હવે આ દિવસે રજૂ થશે બજેટ !",
-    "desc": "નાણામંત્રી નિર્મલા સીતારમણ 1 ફેબ્રુઆરી, 2026ના રોજ બજેટ રજૂ કરશે નહીં. મોદી સરકારે બજેટ રજૂ કરવાની તારીખ અંગે મોટો નિર્ણય લીધો છે. સૂત્રોના જણાવ્યા અનુસાર, આ વખતે બજેટ 1 ફેબ્રુઆરી, 2026ના રોજ રજૂ કરવામાં આવશે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/big-decision-of-modi-government-budget-will-be-presented-on-this-day-instead-of-february-1-461185 ",
-    "time": "2026-01-10T14:13:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -547,15 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/gautami-kapoor-got-angry-over-ram-kapoor-and-sakshi-tanwar-love-making-scene-in-bade-achhe-lagte-hain-460842 ",
     "time": "2026-01-08T07:36:14.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "વેનેઝુએલામાં 1 કપ ચાના ભાવમાં મળી રહ્યું છે સોનું! માત્ર આટલી છે 24 કેરેટ ગોલ્ડની કિંમત",
-    "desc": "ભારતમાં સોનાના ભાવમાં દિવસેને દિવસે વધારો થઈ રહ્યો છે. બીજીતરફ વેનેઝુએલા એવો દેશ છે જ્યાં સોનાની કિંમત એક કપ ચા જેટલી છે. ભારતમાં 1 ગ્રામ સોનું 13 હજારથી વધુની કિંમતે મળી રહ્યું છે, જ્યારે ત્યાં તેની કિંમત માત્ર 181 રૂપિયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/24k-gold-price-today-venezuela-cheapest-gold-in-the-world-cup-of-tea-cost-460810 ",
-    "time": "2026-01-08T05:19:26.000Z"
   },
   {
     "cat": "Tech",

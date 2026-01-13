@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "শীতের মরশুমে শুধু নলেন গুড় নয়, বাজার কাঁপাচ্ছে আখের গুড়ও! হাজার হাজার টাকা লাভের মুখ দেখে আহ্লাদে আটখানা চাষিরা",
+    "desc": "আখের গুড়ের বড় উৎস জঙ্গলমহলের কেশিয়াড়ি ব্লকের সুবর্ণরেখা নদী তীরবর্তী একাধিক গ্রাম। নদীর পলিমাটি ও অনুকূল পরিবেশে এই এলাকায় বহু বছর ধরেই আখ চাষ হয়ে আসছে। শীত নামতেই সেই আখ থেকেই শুরু হয় গুড় তৈরির ব্যস্ততা।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/sugarcan-jaggery-2026-01-42513b9e89a82620dfc99b7a6493ff74-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/west-medinipur-news-sugarcane-jaggery-demand-increased-before-makar-sankranti-farmers-happy-to-get-huge-profit-l18-local18-2493423.html",
+    "time": "2026-01-13T11:51:31.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "বাংলাদেশে ২৪ ঘণ্টায় দুই হিন্দুর মৃত্যু! চট্টগ্রামে অটোচালক সমীর দাসকে পিটিয়ে-কুপিয়ে মারল উগ্রপন্থীরা...",
+    "desc": "মাত্র ২৪ ঘণ্টার ব্যবধানে পাবনা ও চট্টগ্রামে দুই হিন্দু ব্যক্তির হিংসাত্মক ও সন্দেহজনক মৃত্যুতে ওপার বাংলা জুড়ে নতুন করে আতঙ্ক ছড়িয়েছে। চট্টগ্রামের দাগনভূঁইঞায় ২৮ বছর বয়সী তরুণ সমীর দাসকে রবিবার রাতে পিটিয়ে মারে একদল উগ্রপন্থী।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/bangladesh-hindu-minority-attacks-proloy-chaki-samir-das-death_634653.html ",
+    "time": "2026-01-13T10:16:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "পথকুকুর নিয়ে সুপ্রিম কোর্টের বিগ রিমার্ক! এবার একটা কুকুর কামড়ালেই রাজ্যকে ক্ষতিপূরণ দিতে হবে...",
+    "desc": "সুপ্রিম কোর্ট এবার পরিষ্কার বলে দিচ্ছে, যারা যারা কুকুরকে খাওয়ায়, এবার কিন্তু তাদের নিয়েও ভাবার সময় এসে গিয়েছে। পথকুকুরদের নিয়ে সুপ্রিম কোর্ট নানা রায় দিয়ে চলেছে। এবার সুপ্রিম কোর্ট এ নিয়ে এক যুগান্তকারী কথা বলল।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/supreme-court-on-stray-dogs-top-court-says-for-every-dog-bite-heavy-compensation-likely-on-states-supreme-courts-big-remark_634651.html ",
+    "time": "2026-01-13T09:50:46.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "'প্রতিটি কুকুরের কামড়ের জন্য...': পথ কুকুর মামলায় বিস্ফোরক হুঁশিয়ারি সুপ্রিম কোর্টের!",
     "desc": "পথ কুকুর মামলায় এবার বড় হুঁশিয়ারি সুপ্রিম কোর্টের। শীর্ষ আদালতের স্পষ্ট বার্তা কুকুরের কামড়ে কোনও শিশু, বৃদ্ধ মানুষ আঘাত পেলে বা মৃত্যু হলে সেক্ষেত্রে সংশ্লিষ্ট রাজ্য সরকারকে বিশাল অঙ্কের ক্ষতিপূরণ দিতে হবে— মঙ্গলবার এই কড়া বার্তা দিল সুপ্রিম কোর্ট।",
@@ -343,15 +370,6 @@ const newsData_bn = [
   },
   {
     "cat": "Politics",
-    "title": "পথ দুর্ঘটনায় হাসপাতালে পৌঁছলেই দেড় লক্ষ টাকা ক্যাশলেস চিকিত্‍সা! যিনি নিয়ে যাবেন তাঁকে ২৫০০০, কেন্দ্রের বড় পদক্ষেপ...",
-    "desc": "সড়ক দুর্ঘটনায় প্রাণহানি কমাতে এবং আহতদের দ্রুত চিকিৎসার সুযোগ করে দিতে কেন্দ্রীয় সরকারের নতুন স্বাস্থ্য প্রকল্পের ঘোষণা। যা অত্যন্ত সময়োপযোগী বলেই দাবি বিশিষ্ট মহলের। এই প্রকল্পের সবচেয়ে বড় বৈশিষ্ট্য হলো, দুর্ঘটনার শিকার ব্যক্তির নিজের বা গাড়ির বিমা না থাকলেও তিনি বিনামূল্যে চিকিৎসা পাবেন। রয়েছে আরও বিশেষ কিছু চমক।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/road-accident-cashless-treatment-scheme-v2v-communication-will-announce-by-modi_633879.html ",
-    "time": "2026-01-09T07:20:08.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "ভোররাতে ইনদওরে ভয়াবহ দুর্ঘটনা! মধ্যপ্রদেশের প্রাক্তন স্বরাষ্ট্রমন্ত্রীর মেয়ে-সহ মৃত ৩",
     "desc": "পুলিশ সূত্রে জানা গিয়েছে, মৃতদের নাম প্রেরণা বচ্চন, প্রখর কাসলিওয়াল ও মান সান্ধু। অনুষ্কা শেট্টি নামে এক মহিলা গুরুত্বর আহত। তিনি আশঙ্কাজনক অবস্থায় চিকিৎসাধীন। শুক্রবার ভোরে একটি পার্টি থেকে ফিরছিলেন মধ্যপ্রদেশের প্রাক্তন স্বরাষ্ট্রমন্ত্রী বালা বচ্চনের মেয়েও তাঁর সঙ্গীরা। নিয়ন্ত্রণ হারিয়ে একটি ট্রাক ও প্রেরণাদের গাড়িটি সংঘর্ষ লাগে।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/01/Rachana-Thumbnail-Design-13-2026-01-34b234e5ace7a9be858374d496449f7b-3x2.jpg",
@@ -403,15 +421,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/ar-rahman-spiritual-journey-name-change-by-hindu-astrologer_633823.html ",
     "time": "2026-01-08T15:53:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ফের কর্মীদের বড় টাইট দিল TCS, অফিসে এসে কাজ না করলে জাস্ট কোনও অ্যাপ্রেইজালই হবে না! মাথায় বাজ...",
-    "desc": "২০২৫ সালের জুনে প্রকাশিত এক প্রতিবেদন থেকে জানা যায় যে, টিসিএস-এ 'বেঞ্চ টাইম' বা প্রজেক্ট ছাড়া বসে থাকার সময় কমিয়ে বছরে মাত্র ৩৫ দিন করা হয়েছে। পাশাপাশি, কর্মীদের প্রতিদিন চার থেকে ছয় ঘণ্টা সময় দক্ষতা বৃদ্ধির (skill development) পেছনে ব্যয় করতে বলা হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/tcs-implemented-new-work-from-office-rules-that-yearly-appraisals-will-not-get-if-work-from-office-rules-violated_633822.html ",
-    "time": "2026-01-08T15:40:17.000Z"
   },
   {
     "cat": "Business",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/sports/bjp-leader-call-shahrukh-khan-traitor-as-his-team-buy-mustafizur-rahman-with-hefty-amount-in-ipl-auction-smc-2480304.html",
     "time": "2026-01-02T09:51:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "১৮০কিমি/ ঘণ্টা স্পিড...! হাওড়া থেকে ছুটবে বন্দে ভারত স্লিপার! কোন কোন স্টেশন হয়ে পৌঁছবে ডেস্টিনেশন? রুট থেকে ভাড়া, জানুন একগুচ্ছ 'স্পেশালিটি'!",
-    "desc": "রেলযাত্রীদের জন্য বড় সুখবর। ভারতীয় রেলমন্ত্রী অশ্বিনী বৈষ্ণব রেল ভবনে অনুষ্ঠিত এক বৈঠকে বছরের শুরুর দিন, পয়লা জানুয়ারি জানিয়েছেন যে, ভারতের প্রথম বন্দে ভারত স্লিপার ট্রেনটি আর কোথাও নয় ছুটবে অসমের কামাখ্যা এবং পশ্চিমবঙ্গের হাওড়ার মধ্যে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-02-at-10.53.29-2026-01-9f487ba631572bf74f4fddda50783cad-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/vande-bharat-sleeper-big-news-for-passengers-new-vande-bharat-train-will-run-from-howrah-with-a-speed-of-180-km-do-you-know-which-stations-will-it-stop-learn-route-special-features-etc-sanj-2479875.html",
-    "time": "2026-01-02T05:27:40.000Z"
   }
 ];
