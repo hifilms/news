@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "'প্রতিটি কুকুরের কামড়ের জন্য...': পথ কুকুর মামলায় বিস্ফোরক হুঁশিয়ারি সুপ্রিম কোর্টের!",
+    "desc": "পথ কুকুর মামলায় এবার বড় হুঁশিয়ারি সুপ্রিম কোর্টের। শীর্ষ আদালতের স্পষ্ট বার্তা কুকুরের কামড়ে কোনও শিশু, বৃদ্ধ মানুষ আঘাত পেলে বা মৃত্যু হলে সেক্ষেত্রে সংশ্লিষ্ট রাজ্য সরকারকে বিশাল অঙ্কের ক্ষতিপূরণ দিতে হবে— মঙ্গলবার এই কড়া বার্তা দিল সুপ্রিম কোর্ট।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-13-at-13.55.59-2026-01-8c2b89177a80130606abb45f5dc5f516-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/supreme-court-on-street-dogs-for-every-dog-bite-we-are-likely-to-impose-supreme-court-in-big-remark-on-stray-dogs-case-sanj-2493761.html",
+    "time": "2026-01-13T09:12:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ঘরেই বানান ভোজ্য তেল, মাসে আয় করুন মোটা টাকা, মাত্র ৫০ হাজার টাকায় শুরু করুন এই ব্যবসা",
+    "desc": "খাঁটি ও দেশীয় ভোজ্য তেলের ক্রমবর্ধমান চাহিদা এই ক্ষুদ্র ব্যবসাকে অত্যন্ত লাভজনক করে তুলেছে। মাত্র ৫০,০০০ টাকা থেকে শুরু করে সরষে, চিনাবাদাম, তিল বা নারকেলের মতো ভোজ্য তেল উৎপাদন করে মহিলারা তাঁদের নিজস্ব ব্যবসা শুরু করতে পারেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Riya-Das-1200900-2026-01-13T125057.102-2026-01-a2ef26987e8e4445ae22d11a945cd55d-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/success-story-edible-oil-business-from-home-best-work-for-females-low-investment-business-government-tc-rds-2493581.html",
+    "time": "2026-01-13T07:43:43.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ইন্ডিগোর নতুন এয়ারবাস A321 XLR এথেন্সে ওড়ার জন্য প্রস্তুত, কলকাতার যাত্রীরা ভায়া দিল্লি ও মুম্বই টিকিট বুক করছেন",
     "desc": "ইন্ডিগো সম্প্রতি তার ফ্লিটে একটি এয়ারবাস A321XLR যুক্ত করেছে, যা এয়ারবাস A321neo-এর একটি দূরপাল্লার সংস্করণ। যা ভারতের কোনও বিমানসংস্থার জন্য প্রথম ৷ কর্মকর্তারা ঘোষণা করেছেন যে, এটি ২৩ জানুয়ারি, ২০২৬ থেকে মুম্বই থেকে এথেন্স এবং ২৪ জানুয়ারি, ২০২৬ থেকে দিল্লি থেকে এথেন্স পর্যন্ত নন-স্টপ পরিষেবা প্রদান করবে, উভয় রুটে সপ্তাহে তিনটি করে ফ্লাইট থাকবে।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/vande-bharat-sleeper-big-news-for-passengers-new-vande-bharat-train-will-run-from-howrah-with-a-speed-of-180-km-do-you-know-which-stations-will-it-stop-learn-route-special-features-etc-sanj-2479875.html",
     "time": "2026-01-02T05:27:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "পিনাকা লং রেঞ্জ রকেটের পর এবার প্রলয়! একের পর এক সফল ক্ষেপণাস্ত্র পরীক্ষা ডিআরডিও-র",
-    "desc": "ডিআরডিও সূত্রে জানা গেছে, ব্যবহারকারী বাহিনীর মূল্যায়ন পর্বের অংশ হিসেবেই এই উৎক্ষেপণ। দু’টি ক্ষেপণাস্ত্রই ঠিক করা পথ ধরেই উড়ে নির্দিষ্ট লক্ষ্যবস্তুতে আঘাত হানে। উৎক্ষেপণের শুরু থেকে শেষ মুহূর্ত পর্যন্ত রেঞ্জে বসানো রাডার ও ট্র্যাকিং যন্ত্র এবং সমুদ্রে থাকা জাহাজে বসানো টেলিমেট্রি সিস্টেম পুরো প্রক্রিয়াটি নজরে রাখে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/TV_5674950_img20251231wa0020_1-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/from-pinaca-long-range-missile-to-pralay-drdo-launched-sucesfully-smc-2479467.html",
-    "time": "2026-01-01T12:10:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "সিগারেট, বিড়ি, পানমশলা...দাম বাড়ছে ১ ফেব্রুয়ারি থেকে! চাপছে নতুন কর, জানাল কেন্দ্র",
-    "desc": "ধোঁয়াবিহীন তামাকজাত পণ্যের দামও আরও বাড়তে চলেছে। চিবানো তামাক, জর্দা সুগন্ধযুক্ত তামাক এবং গুটখা এখন নতুন প্যাকিং মেশিন বিধিমালা, ২০২৬ এর মাধ্যমে চালু করা মেশিন-ক্ষমতা-ভিত্তিক আবগারি ব্যবস্থার অধীনে কর ধার্য করা হবে। মেশিনের সংখ্যা, তাদের গতি এবং উৎপাদন এবং থলির খুচরা বিক্রয় মূল্যের মতো বিষয়গুলির দ্বারা কর নির্ধারণ করা হবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ydne-2026-01-01T144227.673-2026-01-88b532f05909a3e2fe4bfa6b84eafea4-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/cigarette-pan-masala-prices-set-to-rise-from-february-1-as-govt-hikes-excise-duty-here-is-the-details-sta-2479337.html",
-    "time": "2026-01-01T09:24:10.000Z"
   }
 ];

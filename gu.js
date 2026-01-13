@@ -1,12 +1,48 @@
 const newsData_gu = [
   {
-    "cat": "Sports",
-    "title": "RCB ફેન્સને લાગશે મોટો ઝટકો! IPL 2026માં બદલાઈ જશે ટીમનું હોમ ગ્રાઉન્ડ, જાણો ક્યાં રમાશે મેચ?",
-    "desc": "રોયલ ચેલેન્જર્સ બેંગ્લોર અને વિરાટ કોહલીના ચાહકો માટે માઠા સમાચાર આવી રહ્યા છે. IPL 2026 માં તેમની મેચ બેંગ્લોરમાં યોજાશે નહીં. RCB અધિકારીઓએ હવે આગામી સિઝનમાં તેમની મેચો માટે બે અલગ અલગ સ્ટેડિયમ પસંદ કર્યા છે. IPL 2025 દરમિયાન થયેલી નાસભાગ બાદ RCB સુરક્ષાને ધ્યાનમાં લઈ રહી છે.",
+    "cat": "Business",
+    "title": "નોકરિયાત વર્ગને થશે મોટો ફાયદો, 30 હજાર થઈ શકે છે ESICની લિમિટ, જાણો વિગત",
+    "desc": "જો બજેટ 2026મા ESIC ની સેલેરી લિમિટ વધારવાની જાહેરાત થાય છે તો આ મિડલ ક્લાસ કર્મચારીઓ માટે મોટી રાહત હોઈ શકે છે. સ્વાસ્થ્ય ખર્ચમાં બચત થશે અને સામાજિક સુરક્ષાની દ્રષ્ટિએ આ પગલું મહત્વનું સાબિત થઈ શકે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/bad-news-for-rcb-and-virat-kohli-fans-ahead-of-ipl-2026-home-matches-will-not-be-held-in-bengaluru-461536 ",
-    "time": "2026-01-13T06:28:11.000Z"
+    "url": " http://zeenews.india.com/gujarati/business/budget-2026-esic-salary-limit-hike-30000-benefits-employees-exclusive-461554 ",
+    "time": "2026-01-13T08:01:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "માતા-પિતાનું ધ્યાન નહીં રાખો તો સરકાર કાપી લેશે પગાર, સીધા પેરન્ટ્સના ખાતામાં જમા થશે રકમ",
+    "desc": "તેલંગાણાની કોંગ્રેસ સરકાર દ્વારા વૃદ્ધ માતા-પિતાના કલ્યાણ માટે એક મોટો નિર્ણય લેવામાં આવ્યો છે. જે અંતર્ગત જો સરકારી કર્મચારીઓ તેમના માતા-પિતાની સંભાળ નહીં રાખે, તો તેમના પગારમાંથી 10 ટકાનો કાપ મૂકવામાં આવી શકે છે. જો કર્મચારીઓ સરકારની શરતો પૂરી નહીં કરે, તો તેમને આર્થિક નુકસાન વેઠવું પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/if-you-dont-take-care-of-your-elderly-parents-the-government-will-deduct-money-from-your-salary-and-transfer-it-to-your-parents-bank-account-461552 ",
+    "time": "2026-01-13T07:57:38.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "1 પર 4 બોનસ શેર આપી રહી છે કંપની, સ્ટોકમાં 8 ટકાની તેજી, જાણો રેકોર્ડ ડેટ",
+    "desc": "શેર બજારમાં આજે મંગળવાર, 13 જાન્યુઆરી 2026ના Authum Investment and Infrastructure ના શેર એક્સ-બોનસ ટ્રેડ થઈ રહ્યાં છે. એક્સ ડેટ પર આ સ્ટોકમાં તેજી જોવા મળી રહી છે. જેના કારણે શેરનો ભાવ 52 વીક હાઈ પર પહોંચી ગયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/authum-investment-share-jumps-8-percent-on-ex-bonus-date-check-here-461547 ",
+    "time": "2026-01-13T07:24:34.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "અમેરિકાએ 100000 વિઝા કર્યા રદ, 8,000 વિદ્યાર્થીઓને ઝટકો: ટ્રમ્પના નિર્ણયની ભારતીયો પર શું થશે અસર?",
+    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પના નિર્દેશ પર વિદેશ વિભાગે 100000 વિઝા રદ કર્યા, જેના કારણે 8,000 વિદ્યાર્થીઓના વિઝા પર નોંધપાત્ર અસર પડી છે.. નવી ઇમિગ્રેશન નીતિ હેઠળના આ નિર્ણયથી ભારતીયો સૌથી વધુ સીધી રીતે પ્રભાવિત થયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/us-cancelled-100000-visas-affecting-8000-students-as-well-what-impact-will-trumps-decision-have-on-indians-461548 ",
+    "time": "2026-01-13T07:05:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "બાંગ્લાદેશને લાગ્યો મોટો ઝટકો, BCBની માંગ પર ICCએ આપ્યો સ્પષ્ટ આદેશ",
+    "desc": "T20 વર્લ્ડ કપ પહેલા બાંગ્લાદેશને મોટો ઝટકો લાગ્યો છે. આઈસીસીએ સુરક્ષાનો હવાલો આપીને મેચ ભારતની બહાર ખસેડવાની બાંગ્લાદેશની વિનંતીને નકારી કાઢી છે. ICCએ એ પણ સ્પષ્ટ કર્યું છે કે વર્લ્ડ કપ દરમિયાન બાંગ્લાદેશી ખેલાડીઓ પર ભારતમાં કોઈ જોખમ નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/icc-rejects-bangladesh-claim-of-security-issue-in-india-for-t20-world-cup-matches-461546 ",
+    "time": "2026-01-13T06:49:58.000Z"
   },
   {
     "cat": "Sports",
@@ -15,7 +51,16 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/pakistan-former-spinner-saeed-ajmal-big-allegation-on-icc-461531 ",
-    "time": "2026-01-13T06:03:29.000Z"
+    "time": "2026-01-13T06:40:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB ફેન્સને લાગશે મોટો ઝટકો! IPL 2026માં બદલાઈ જશે ટીમનું હોમ ગ્રાઉન્ડ, જાણો ક્યાં રમાશે મેચ?",
+    "desc": "રોયલ ચેલેન્જર્સ બેંગ્લોર અને વિરાટ કોહલીના ચાહકો માટે માઠા સમાચાર આવી રહ્યા છે. IPL 2026 માં તેમની મેચ બેંગ્લોરમાં યોજાશે નહીં. RCB અધિકારીઓએ હવે આગામી સિઝનમાં તેમની મેચો માટે બે અલગ અલગ સ્ટેડિયમ પસંદ કર્યા છે. IPL 2025 દરમિયાન થયેલી નાસભાગ બાદ RCB સુરક્ષાને ધ્યાનમાં લઈ રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bad-news-for-rcb-and-virat-kohli-fans-ahead-of-ipl-2026-home-matches-will-not-be-held-in-bengaluru-461536 ",
+    "time": "2026-01-13T06:28:11.000Z"
   },
   {
     "cat": "Politics",
@@ -297,24 +342,6 @@ const newsData_gu = [
     "time": "2026-01-11T09:49:16.000Z"
   },
   {
-    "cat": "Business",
-    "title": "1 જાન્યુઆરીથી કેમ ન વધ્યો પગાર અને DA? જાણો વિલંબના 3 મુખ્ય કારણો",
-    "desc": "8મું પગાર પંચ 1 જાન્યુઆરી, 2026 થી લાગુ થવાની ચર્ચાઓ વચ્ચે કેન્દ્રીય કર્મચારીઓને મોટા પગાર વધારાની આશા હતી. જોકે, અત્યાર સુધી પગાર કે મોંઘવારી ભથ્થા (DA) માં કોઈ ફેરફાર થયો નથી. હવે પ્રશ્ન એ ઉભો થયો છે કે આ વિલંબ કેમ થયો અને કર્મચારીઓએ હજુ કેટલી રાહ જોવી પડશે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-why-havent-salaries-and-da-been-increased-from-january-1st-3-main-reasons-for-the-delay-461298 ",
-    "time": "2026-01-11T09:11:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "13 જાન્યુઆરીએથી ખુલશે આ IPO, ગ્રે માર્કેટમાં અત્યારથી 31ના પ્રીમિયમ પર પહોંચ્યો શેર, જાણો",
-    "desc": "આ IPO સંપૂર્ણપણે નવો ઇશ્યૂ છે, જેમાં કંપની 62 લાખ નવા શેર જાહેર કરશે. આ શેર 20 જાન્યુઆરીએ BSE SME પ્લેટફોર્મ પર લિસ્ટ થવાની ધારણા છે. કચોલિયા કંપનીમાં આશરે 3.36% હિસ્સો ધરાવે છે, જે રોકાણકારો માટે સકારાત્મક સંકેત માનવામાં આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/this-ipo-will-open-from-january-13-the-share-has-already-reached-a-premium-of-31-in-the-grey-market-know-461293 ",
-    "time": "2026-01-11T08:50:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "પીડાથી કણસતો રહ્યો પંત... ગિલ કે ગંભીરે ના આપ્યું ધ્યાન, Video જોયા બાદ ફેન્સ થયા ગુસ્સે",
     "desc": "રિષભ પંત ન્યૂઝીલેન્ડ સામેની ODI શ્રેણીમાંથી બહાર થઈ ગયો છે. પ્રેક્ટિસ સેશન દરમિયાન તેને ઈજા થઈ હતી. આ ઘટનાનો એક વીડિયો વાયરલ થઈ રહ્યો છે, જેમાં પંત ઈજાગ્રસ્ત થયા પછી દર્દથી પીડાઈ રહ્યો છે, જ્યારે બીજી તરફ મુખ્ય કોચ ગૌતમ ગંભીર, કેપ્ટન શુભમન ગિલે અને અજીત અગરકર વાતો કરતા જોવા મળી રહ્યા છે. વીડિયો જોયા બાદ ફેન્સ ગુસ્સામાં છે.",
@@ -331,24 +358,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/baba-vanga-predictions-2026-a-major-crisis-will-hit-the-world-these-were-baba-vangas-terrifying-predictions-for-2026-461275 ",
     "time": "2026-01-11T06:58:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "મહિને 4,400 રૂપિયાનું પ્રીમિયમ... મેચ્યોરિટી પર મળશે 16 લાખ, LICની આ છે શાનદાર સ્કીમ!",
-    "desc": "ભારતીય જીવન વીમા નિગમ (LIC) એ ગત વર્ષે ઓક્ટોબરમાં એક શાનદાર યોજનાની શરૂઆત કરી હતી, જેના હેઠળ દર મહિને નાનું પ્રીમિયમ જમા કરીને મોટી રકમ બનાવી શકાય છે. સાથે જ તેમાં લાઈફ ઈન્સ્યોરન્સ કવર પણ મળે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/with-a-monthly-premium-of-rs-4400-youll-get-rs-16-lakh-on-maturity-this-is-lics-fantastic-scheme-461267 ",
-    "time": "2026-01-11T05:54:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "રિષભ પંત સહિત આ 4 ખેલાડી OUT... પ્રથમ વનડેમાં આવી હોઈ શકે છે ભારતીય ટીમની પ્લેઈંગ-11",
-    "desc": "ન્યૂઝીલેન્ડ સામેની પહેલી વનડેમાં વિરાટ કોહલી અને રોહિત શર્માનું ધમાકેદાર બેટિંગ પ્રદર્શન જોવા મળશે તો ઈજામાંથી વાપસી કરી રહેલા શુભમન ગિલ અને શ્રેયસ ઐયર પણ મોટો સ્કોર કરવાનું ટાર્ગેટ રાખશે. ત્યારે પહેલી વનડેમાં ટીમ ઈન્ડિયાની પ્લેઈંગ-11 કેવી હશે તેના પર એક નજર કરીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-vs-new-zealand-1st-odi-predicted-playing-xi-rishabh-pant-out-461245 ",
-    "time": "2026-01-11T05:22:17.000Z"
   },
   {
     "cat": "Tech",
@@ -378,15 +387,6 @@ const newsData_gu = [
     "time": "2026-01-10T15:40:03.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ટીમ ઈન્ડિયા માટે આવ્યા માઠા સમાચાર, વડોદરા વનડે પહેલા આ સ્ટાર ખેલાડી ઈજાગ્રસ્ત!",
-    "desc": "ભારત અને ન્યુઝીલેન્ડ વચ્ચે વનડે શ્રેણીની શરૂઆત 11 જાન્યુઆરીથી થવા જઈ રહી છે. જેની પૂર્વ તૈયારી રૂપે ટીમ ઈન્ડિયાના તમામ ખેલાડીઓ નેટ્સમાં સખત પરસેવો પાડી રહ્યા છે. આ દરમિયાન ટીમના એક સ્ટાર ખેલાડીને પ્રેક્ટિસ દરમિયાન ઈજા થઈ હતી, ત્યારબાદ ફિઝિયો તેમને મેદાનની બહાર લઈ ગયા હતા. આ મેચ વિનર ખેલાડીની સ્થિતિ અંગે હજુ સુધી કોઈ સત્તાવાર અપડેટ આવ્યું નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-bad-news-for-team-india-a-star-player-suffers-injury-ahead-of-the-vadodara-odi-match-461187 ",
-    "time": "2026-01-10T14:38:08.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "મોદી સરકારનો મોટો નિર્ણય, 1 ફેબ્રુઆરી નહીં હવે આ દિવસે રજૂ થશે બજેટ !",
     "desc": "નાણામંત્રી નિર્મલા સીતારમણ 1 ફેબ્રુઆરી, 2026ના રોજ બજેટ રજૂ કરશે નહીં. મોદી સરકારે બજેટ રજૂ કરવાની તારીખ અંગે મોટો નિર્ણય લીધો છે. સૂત્રોના જણાવ્યા અનુસાર, આ વખતે બજેટ 1 ફેબ્રુઆરી, 2026ના રોજ રજૂ કરવામાં આવશે નહીં.",
@@ -394,15 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/big-decision-of-modi-government-budget-will-be-presented-on-this-day-instead-of-february-1-461185 ",
     "time": "2026-01-10T14:13:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "WPLની પહેલી જ મેચમાં ગજબ ઘટના ! ડી ક્લાર્કને એક જ બોલ પર મળ્યા બે જીવનદાન, જાણો કેવી રીતે",
-    "desc": "દક્ષિણ આફ્રિકાની સ્ટાર ઓલરાઉન્ડર નાદીન ડી ક્લાર્કે ફરી એકવાર સાબિત કરી દીધું કે હાલમાં તેના કરતાં સારી ફિનિશર કોઈ નથી. એક સમયે એવું લાગતું હતું કે મેચ મુંબઈ જીતશે, પરંતુ ડી ક્લાર્ક બાજી પલટી નાખી અને RCB મેચ જીતી ગયું. છેલ્લી ઓવરમાં ડી ક્લાર્કને એક જ બોલ પર બે જીવનદાન મળ્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/amazing-incident-in-wpl-2026-mi-vs-rcb-match-de-klerk-get-two-lives-off-same-ball-461137 ",
-    "time": "2026-01-10T12:13:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -592,23 +583,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/earning-more-than-100-crores-on-a-budget-of-50-lakhs-8-6-imdb-rating-gujarati-film-now-watch-in-hindi-460730 ",
     "time": "2026-01-07T09:29:18.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "જૂની ગાડીને ઇલેક્ટ્રિકમાં કરો કન્વર્ટ... સરકાર આપશે 50,000 રૂપિયા! નવી EV નીતિનો પ્રસ્તાવ",
-    "desc": "જૂના વાહનોને રિટ્રોફિટિંગ માટે પ્રોત્સાહનો આપવાની યોજના બનાવી રહી છે. રિટ્રોફિટમેન્ટ એ એક પ્રક્રિયા છે જેમાં નિયમિત (પેટ્રોલ અથવા ડીઝલ) વાહનના એન્જિનને ઇલેક્ટ્રિક મોટર, બેટરી અને સંબંધિત ઘટકોથી બદલવામાં આવે છે, જે વાહનને EVમાં રૂપાંતરિત કરે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/convert-old-car-to-electric-government-will-give-rs-50000-new-ev-policy-proposed-460725 ",
-    "time": "2026-01-07T08:57:34.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "નવી EV પોલિસી છે શાનદાર... ગ્રાહકોને ઇલેક્ટ્રિક કાર ખરીદવા પર મળશે 1 લાખનું ઈન્સેટિવ",
-    "desc": "દિલ્હી સરકાર તેના નાગરિકોને નવી EV પોલિસી ભેટ આપવા જઈ રહી છે. દિલ્હીના વધતા પ્રદૂષણને નિયંત્રિત કરવા માટે સરકાર ટૂંક સમયમાં નવી EV પોલિસી 2.0 લોન્ચ કરશે. આ પોલિસીમાં અનેક શાનદાર પ્રસ્તાવ શામેલ છે. મીડિયા અહેવાલ મુજબ, સરકાર આ નવી પોલિસી હેઠળ ગ્રાહકોને વિવિધ લાભો આપશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/new-ev-policy-incentive-of-rs-1-lakh-on-electric-cars-460713 ",
-    "time": "2026-01-07T08:14:50.000Z"
   }
 ];

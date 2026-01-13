@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How many runs does Virat Kohli need to shatter Sachin Tendulkar's record for most international runs?",
+    "desc": "India icon Virat Kohli has been in brilliant form in ODI cricket recently. He hit a match-defining 93 in the first ODI between India and New Zealand at the BCA Stadium in Vadodara as he...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-many-runs-does-virat-kohli-need-to-shatter-sachin-tendulkars-record-for-most-international-runs-2026-01-13-1025681",
+    "time": "2026-01-13T09:03:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli spots 'Chota Chiku', tells Rohit Sharma 'dekh mera duplicate baitha hai'",
+    "desc": "Indian icon Virat Kohli has been in sensational form in recent times. The former skipper has amassed seven fifty-plus scores in the last seven List A outings, with three centuries in them. Kohli was in stellar...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-spots-chota-chiku-tells-rohit-sharma-dekh-mera-duplicate-baitha-hai-2026-01-13-1025659",
+    "time": "2026-01-13T07:37:04.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is Ishant Sharma captaining Delhi in Vijay Hazare Trophy QF against Vidarbha? Explained",
     "desc": "India veteran Ishant Sharma took the captaincy duties of Delhi for their Vijay Hazare Trophy quarterfinal fixture against Vidarbha at the BCCI Centre of Excellence Ground 2, Bengaluru. Sharma leads a side after a gap of...",
     "img": "",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/xabi-alonso-leaves-real-madrid-with-immediate-effect-club-announce-new-coach-2026-01-12-1025589",
     "time": "2026-01-12T17:28:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC rejects Bangladesh's demand for venue change for T20 World Cup, source issues detailed report",
-    "desc": "The International Cricket Council has signalled that Bangladesh’s request to move its T20 World Cup matches out of India is unlikely to be approved, following a detailed security review that assessed the overall threat level...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-rejects-bangladesh-s-demand-for-venue-change-for-t20-world-cup-source-issues-detailed-report-2026-01-12-1025586",
-    "time": "2026-01-12T16:33:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Report",
-    "desc": "Real Madrid are once again at a crossroads following their Supercopa de Espana final loss to Barcelona, a result that has reopened internal debates about direction, standards and expectations at the club. The 3-2 defeat...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/xabi-alonso-to-retain-position-as-real-madrid-head-coach-despite-defeat-to-barcelona-in-supercopa-de-espana-2026-01-12-1025583",
-    "time": "2026-01-12T15:48:51.000Z"
   }
 ];
