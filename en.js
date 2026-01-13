@@ -1,12 +1,75 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Priyanka reveals Malti's reaction to her Golden Globes look, drops PIC with Lisa",
+    "desc": "Priyanka Chopra and Nick Jonas graced the Golden Globes 2026 in stunning attire. Priyanka revealed their daughter Malti Marie's adorable reaction to their red carpet looks, believing they were heading to a royal ball. Malti's imaginative response highlighted her love for all things fancy, with Priyanka playfully reassuring her daughter.",
+    "img": "https://static.toiimg.com/photo/msid-126512857,imgsize-73396.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-jonas-reveals-malti-maries-reaction-to-her-golden-globes-look-drops-pics-with-k-pop-star-lisa-that-spell-sisterhood/articleshow/126512850.cms",
+    "time": "2026-01-13T20:22:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Delhi HC orders removal of unauthorised images of Bhuvan Bam",
+    "desc": "After Salman Khan, Aishwarya Rai Bachchan, Kumar Sanu, Nagarjuna among other celebrities, the Delhi High Court on Tuesday directed the removal of images of YouTuber and actor Bhuvan Bam that were uploaded and circulated on various platforms without his consent. However, the court refrained from granting interim protection on the broader issue of his personality and publicity rights at this stage.",
+    "img": "https://static.toiimg.com/photo/msid-126512818,imgsize-46946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-salman-khan-aishwarya-rai-bachchan-cases-delhi-high-court-orders-removal-of-unauthorised-images-of-bhuvan-bam-defers-ruling-on-personality-rights/articleshow/126512808.cms",
+    "time": "2026-01-13T20:09:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US president pushes manufacturing agenda; brushes-off lingering economic fears",
+    "desc": "US President Trump visited a Ford assembly line in Michigan to promote his manufacturing agenda amidst voter concerns about jobs and the cost of living. He highlighted economic accomplishments and tariffs, aiming to counter anxieties despite recent election results suggesting voter skepticism. The visit also coincided with shifts in electric vehicle policies.",
+    "img": "https://static.toiimg.com/photo/msid-126512812,imgsize-1187663.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/donald-trump-tours-michigan-ford-plant-us-president-pushes-manufacturing-agenda-brushes-off-lingering-economic-fears/articleshow/126512807.cms",
+    "time": "2026-01-13T20:02:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Malaika says she is not apologetic about doing dance numbers at 52",
+    "desc": "Malaika Arora, at 52, continues to impress with her energetic dance numbers, embracing the spotlight despite criticism. She views her performances as empowering, especially for women, and notes the evolution of item songs from mere spectacle to integrated storytelling. Arora feels blessed to still be active and believes her choices are a positive example.",
+    "img": "https://static.toiimg.com/photo/msid-126512701,imgsize-30268.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/malaika-arora-says-she-is-not-apologetic-about-doing-dance-numbers-at-52-i-dont-understand-what-the-big-deal-is/articleshow/126512699.cms",
+    "time": "2026-01-13T19:35:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Prime Minister Modi to address public meeting in city on Jan. 23",
+    "desc": "The public meeting will be organised in a grand manner, in which AIADMK leaders, including the party general secretary and the NDA’s Chief Ministerial face Edappadi K. Palaniswami, and leaders from other alliance parties will share the stage with Mr. Modi",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/prime-minister-modi-to-address-public-meeting-in-city-on-jan-23/article70505203.ece",
+    "time": "2026-01-13T19:18:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajendra Chawla slams pap culture after Jaya Bachchan row",
+    "desc": "Veteran actor Rajendra Chawla has weighed in strongly on the ongoing debate around paparazzi culture and media sensationalism, triggered by Jaya Bachchan’s recent remarks. Known for his grounded views and blunt honesty, Chawla didn’t hold back as he called out what he described as the media’s obsession with “selling moments.”",
+    "img": "https://static.toiimg.com/photo/msid-126512223,imgsize-49320.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajendra-chawla-slams-paparazzi-culture-after-jaya-bachchan-row-ye-masala-hai-dharam-ji-ki-maut-ko-live-dikhaya-jaa-raha-hai/articleshow/126512169.cms",
+    "time": "2026-01-13T18:52:38.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Tamil Nadu close to eradicating malaria as 33 districts report nil indigenous cases",
     "desc": "Chennai is among the five districts that are yet to achieve zero transmission, accounting for nearly 37%-45% of the State’s malaria cases, even as the number has fallen from 173 in 2023 to 121 in 2025",
     "img": "https://th-i.thgim.com/public/incoming/wnht1h/article70506901.ece/alternates/LANDSCAPE_1200/4871_29_7_2025_11_44_33_1_20250620_074506.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/tamil-nadu-close-to-eradicating-malaria-as-33-districts-report-nil-indigenous-cases/article70505560.ece",
+    "url": "https://www.thehindu.com/sci-tech/health/tamil-nadu-close-to-eradicating-malaria-as-33-districts-report-nil-indigenous-cases/article70505560.ece",
     "time": "2026-01-13T18:17:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nupur-Stebin's wedding reception: Salman, Kriti, more celebs arrive",
+    "desc": "Nupur Sanon and Stebin Ben celebrated their union with a series of ceremonies in Udaipur, culminating in a grand reception in Mumbai. Nupur looked stunning in both her white wedding dress and red reception attire, while Stebin complemented her in a black sherwani.",
+    "img": "https://static.toiimg.com/photo/msid-126512675,imgsize-56278.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-arrives-for-nupur-sanon-stebin-bens-wedding-reception-kriti-sanons-rumoured-boyfriend-kabir-bahia-others-seen-pics-inside/articleshow/126510765.cms",
+    "time": "2026-01-13T18:16:51.000Z"
   },
   {
     "cat": "Sports",
@@ -16,6 +79,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/kohli20-free-flowing-exhilarating-and-still-the-running-machine/article70506759.ece",
     "time": "2026-01-13T18:03:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Equality in society has to start in school, says Supreme Court",
+    "desc": "A Bench headed by Justice P.S. Narasimha elaborated that the obligation of the government under the Right to Education Act (RTE) to ensure that neighbourhood schools admit children belonging to weaker and disadvantaged sections has an “extraordinary capacity to transform the social structure of our society”.",
+    "img": "https://th-i.thgim.com/public/incoming/igu82c/article70506877.ece/alternates/LANDSCAPE_1200/IMG_image__42__2_1_VNERFDQ1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/social-equality-can-be-achieved-only-if-a-judges-child-and-that-of-a-vendor-sit-together-in-school-supreme-court-judgment/article70506585.ece",
+    "time": "2026-01-13T18:02:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -127,9 +199,9 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Can Election Commission exclude voters from rolls even before Centre takes a call on citizenship, SC asks",
+    "title": "Supreme Court questions Election Commission on voter roll deletions, citizenship",
     "desc": "Poll body says Article 326, RPA Act, and Registration of Electors Rules of 1960 empower it to conduct an inquisitorial enquiry into citizenship for specific purposes; says persons excluded from the electoral roll under the SIR had the right to appeal",
-    "img": "https://th-i.thgim.com/public/incoming/usafnw/article70506594.ece/alternates/LANDSCAPE_1200/PTI12_16_2025_000065A.jpg",
+    "img": "https://th-i.thgim.com/public/incoming/4oju7m/article70507008.ece/alternates/LANDSCAPE_1200/TH28-SHIV-SAHAYGTMFC8010.3.jpg.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/can-election-commission-exclude-voters-from-rolls-even-before-centre-takes-a-call-on-citizenship-sc-asks/article70506030.ece",
     "time": "2026-01-13T16:24:57.000Z"
@@ -234,24 +306,6 @@ const newsData_en = [
     "time": "2026-01-13T14:48:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Bangladesh's 'Chicken’s Neck’ threat: India to revive WW2 airstrips",
-    "desc": "India is reviving World War II-era airstrips in eastern and northeastern states, driven by security concerns along the Bangladesh border and a renewed focus on the Siliguri corridor. This initiative aims to bolster regional connectivity and operational readiness in strategically vital areas, reinforcing national security.",
-    "img": "https://static.toiimg.com/photo/msid-126507404,imgsize-1635259.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bangladeshs-chickens-neck-threat-india-to-revive-ww2-airstrips-why-it-matters/articleshow/126507164.cms",
-    "time": "2026-01-13T14:47:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Campaigning ends, SEC enforces MCC — all you need to know",
-    "desc": "Maharashtra gears up for its local body elections, with the State Election Commission announcing the schedule for Zilla Parishad and Panchayat Samiti polls. Voting is set for February 5th, following a Supreme Court-mandated deadline extension. Key dates for nominations, scrutiny, and withdrawals have been released, with counting on February 7th. Special arrangements will ensure accessibility for all voters.",
-    "img": "https://static.toiimg.com/photo/msid-126507671,imgsize-1191948.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/maharashtra-civic-body-polls-campaigning-ends-sec-enforces-mcc-all-you-need-to-know/articleshow/126507612.cms",
-    "time": "2026-01-13T14:38:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Controversy! Amid Oly 2036 dreams, Dane blasts India Open conditions",
     "desc": "Denmark’s Mia Blichfeldt again criticised playing conditions at the India Open, saying the move to Indira Gandhi Indoor Stadium has not helped. She described the venue as cold, dirty and unhealthy, making warm-up difficult, and urged organisers and the BWF to intervene ahead of the World Championships. Canada’s Michelle Li and former world champion Ratchanok Intanon also raised concerns over the cold conditions.",
@@ -324,15 +378,6 @@ const newsData_en = [
     "time": "2026-01-13T13:33:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'BJP-EC nexus': Mamata says poll body deleted 54 lakh 'genuine voters', claims plan to remove 1 crore more",
-    "desc": "West Bengal chief minister Mamata Banerjee accused the Election Commission of unilaterally deleting 54 lakh names from draft electoral rolls, alleging a BJP-EC nexus. She claimed genuine voters, including women who changed surnames, were removed without notice, possibly using AI tools. Banerjee further alleged plans to remove another crore names and accused the EC of restricting booth-level agents.",
-    "img": "https://static.toiimg.com/photo/msid-126506440,imgsize-836672.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjp-ec-nexus-mamata-says-poll-body-deleted-54-lakh-genuine-voters-claims-plan-to-remove-1-crore-more/articleshow/126505739.cms",
-    "time": "2026-01-13T13:25:15.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Silver jumps Rs 6,000 to lifetime high; gold hits fresh record",
     "desc": "Silver prices have reached an unprecedented Rs 2,71,000 per kilogram in Delhi, while gold hit a new high of Rs 1,45,000 per 10 grams. This surge, driven by safe-haven demand amidst global geopolitical tensions, marks significant gains for both precious metals. Investors are now keenly awaiting US inflation data for future market direction.",
@@ -387,15 +432,6 @@ const newsData_en = [
     "time": "2026-01-13T12:16:50.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Prajakta Koli knew she had to do 'Single Papa'",
-    "desc": "Prajakta Koli embraced 'Single Papa' on a gut feeling, trusting the creators. Now greenlit for season two, Koli reflects on her journey from YouTube to diverse projects, including her Marathi film debut. She highlights the current era's creative freedom for artists, allowing bold choices across various platforms and languages.",
-    "img": "https://static.toiimg.com/photo/msid-126504935,imgsize-134046.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/single-papa-star-prajakta-koli-says-she-knew-she-had-to-do-the-show-even-before-she-got-to-reading-the-script/articleshow/126504935.cms",
-    "time": "2026-01-13T12:11:16.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Blinkit drops ‘10-minute’ delivery claim; Zepto, Swiggy may follow",
     "desc": "Quick commerce platform Blinkit has removed its \"10-minute delivery\" claim, shifting to \"30,000+ products delivered at your doorstep.\" This move follows government discussions aimed at improving gig worker safety and welfare, with other platforms expected to follow suit. The change comes after worker protests against the pressure of ultra-fast delivery models.",
@@ -421,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/virat-kohli-vs-sachin-tendulkar-the-nervous-90s-and-the-great-what-if/articleshow/126503394.cms",
     "time": "2026-01-13T10:51:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Initial plan was to pursue further studies'",
-    "desc": "Actress Sara Arjun, a household name after 'Dhurandhar', is making her Telugu debut in Gunasekhar's 'Euphoria'. Initially planning further studies, she was drawn to the film's exploration of crucial societal issues like Children in Conflict with Law and POSCO. Arjun, who signed 'Euphoria' before 'Dhurandhar', felt a deep urge to tell these important stories.",
-    "img": "https://static.toiimg.com/photo/msid-126503164,imgsize-37896.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/dhurandhar-fame-sara-arjun-says-my-initial-plan-was-to-pursue-further-studies-but-exclusive/articleshow/126503048.cms",
-    "time": "2026-01-13T10:37:13.000Z"
   },
   {
     "cat": "Sports",
@@ -631,15 +658,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Chaos, Nehru, and the Cost of Telling History",
-    "desc": "Director Nikkhil Advani discusses his historical adaptation, Freedom at Midnight based on the book by the same name. He highlighted the chaos of India's Independence and Partition. He emphasizes the weight of recreating Jawaharlal Nehru's 'Tryst with Destiny' speech and the unprecedented violence that followed due to partition. Advani explains the deliberate choice to keep Gandhi's assassin nameless, mirroring the police's initial lack of identification, and hints at future historical projects.",
-    "img": "https://static.toiimg.com/photo/msid-126480700,imgsize-44928.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/nikkhil-advani-on-freedom-at-midnight-chaos-nehru-and-the-cost-of-telling-history/articleshow/126480700.cms",
-    "time": "2026-01-12T09:34:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Early Oscar Predictions point to ‘One Battle After Another’ leading the charge",
     "desc": "From Best Picture and the acting races to screenplay, international feature and animation, the Golden Globes have reshaped early Oscar predictions. Here is what those wins translate to as the Oscar race now comes sharply into focus",
     "img": "https://th-i.thgim.com/public/entertainment/movies/jqmt9d/article70500431.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
@@ -718,15 +736,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/maduro-loyalists-stage-rally-as-venezuelan-government-courts-us/article70497005.ece",
     "time": "2026-01-11T05:34:02.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "How will the U.S. exit affect climate action?",
-    "desc": "Why has U.S. President Donald Trump moved to withdraw the U.S. from the UN Framework Convention on Climate Change and the UN Intergovernmental Panel on Climate Change? What will be the financial impact? What will it mean for international cooperation on climate change?",
-    "img": "https://th-i.thgim.com/public/incoming/8trbel/article70496009.ece/alternates/LANDSCAPE_1200/APTOPIX_Climate_US_Withdrawal_59354.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/how-will-the-us-exit-affect-climate-action-explained/article70495576.ece",
-    "time": "2026-01-10T23:40:00.000Z"
   },
   {
     "cat": "Business",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/sc-agrees-to-take-up-plea-for-sop-on-freezing-de-freezing-bank-accounts-in-cybercrime-cases/article70478321.ece",
     "time": "2026-01-06T13:36:36.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
   }
 ];

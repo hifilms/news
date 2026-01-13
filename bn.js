@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "কেন্দ্রের নির্দেশ, বন্ধ হচ্ছে দশ মিনিটের ডেলিভারি! দেখুন ভিডিও",
+    "desc": "কেন্দ্রীয় সরকারের হস্তক্ষেপে বন্ধ হচ্ছে দশ মিনিটের অনলাইন ডেলিভারি৷ সুইগি, জোম্যাটো, ব্লিঙ্কইট-এর মতো সংস্থাগুলির সঙ্গে বৈঠকে এমনই নির্দেশ দিয়েছে কেন্দ্রীয় শ্রম মন্ত্রক৷ কেন্দ্রের এই নির্দেশের পরই বেশ কয়েকটি অনলাইন ডেলিভারি সংস্থা তাদের অ্যাপ থেকে এই দশ মিনিটের ডেলিভারির প্রতিশ্রুতি সরিয়ে নিতে শুরু করেছে৷ আগামী কয়েক দিনের মধ্যে বাকি সংস্থাগুলিও একই পথে হাঁটবে বলে আশ্বাস দিয়েছে কেন্দ্রীয় শ্রমমন্ত্রক৷ দীর্ঘদিন ধরেই দশ মিনিটের মধ্যে ডেলিভারির এই ব্যবস্থা বন্ধের দাবি জানিয়ে আসছিলেন ডেলিভারি কর্মীরাও৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/12/Delivery-Boy-2025-12-08e6a03700d5d9d516b4970f91a1b74d-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/union-labour-ministry-orders-online-delivery-apps-to-stop-ten-minutes-delivery-system-dmg-2494901.html",
+    "time": "2026-01-13T20:39:02.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "'নাবালক-নাবালিকার মধ্যেও পারস্পরিক সম্মতিতে হওয়া যৌন সম্পর্ককে কখনই ধর্ষণ বলা যাবে না!' নতুন আইন 'রোমিও-জুলিয়েট...'",
     "desc": "আদালত সমাজে একটি ‘করুণ বৈষম্য’ বা ফাটলের দিকেও আলোকপাত করেছে। একদিকে এমন অনেক শিশু ভিকটিম রয়েছে যারা ভয়, দারিদ্র্য বা সামাজিক লোকলজ্জার কারণে নীরব থাকতে বাধ্য হয়। অন্যদিকে, এমন কিছু মানুষ আছে যারা শিক্ষিত, সামাজিক ও আর্থিকভাবে শক্তিশালী এবং তারা নিজেদের স্বার্থে আইনকে সহজেই ‘ম্যানিপুলেট’ বা প্রভাবিত করতে পারছে।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/sports/bjp-leader-call-shahrukh-khan-traitor-as-his-team-buy-mustafizur-rahman-with-hefty-amount-in-ipl-auction-smc-2480304.html",
     "time": "2026-01-02T09:51:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "১৮০কিমি/ ঘণ্টা স্পিড...! হাওড়া থেকে ছুটবে বন্দে ভারত স্লিপার! কোন কোন স্টেশন হয়ে পৌঁছবে ডেস্টিনেশন? রুট থেকে ভাড়া, জানুন একগুচ্ছ 'স্পেশালিটি'!",
-    "desc": "রেলযাত্রীদের জন্য বড় সুখবর। ভারতীয় রেলমন্ত্রী অশ্বিনী বৈষ্ণব রেল ভবনে অনুষ্ঠিত এক বৈঠকে বছরের শুরুর দিন, পয়লা জানুয়ারি জানিয়েছেন যে, ভারতের প্রথম বন্দে ভারত স্লিপার ট্রেনটি আর কোথাও নয় ছুটবে অসমের কামাখ্যা এবং পশ্চিমবঙ্গের হাওড়ার মধ্যে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-02-at-10.53.29-2026-01-9f487ba631572bf74f4fddda50783cad-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/vande-bharat-sleeper-big-news-for-passengers-new-vande-bharat-train-will-run-from-howrah-with-a-speed-of-180-km-do-you-know-which-stations-will-it-stop-learn-route-special-features-etc-sanj-2479875.html",
-    "time": "2026-01-02T05:27:40.000Z"
   }
 ];
