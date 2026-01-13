@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "મદદ પહોંચી રહી છે, સંસ્થાઓ પર કબજો કરો... ઈરાન સાથેની વાતચીત રદ કરી ટ્રમ્પે પ્રદર્શનની આગમાં હોમ્યું ઘી",
+    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ઈરાનમાં પ્રદર્શનની આગમાં ઘી હોમવાનું કામ કર્યું છે. તેમણે કહ્યું છે કે, પ્રદર્શનકારીઓ સંસ્થાઓ પર કબજો કરે, મદદ પહોંચી રહી છે. આ ઉપરાંત તેમણે ઈરાન સાથેની વાતચીત પણ રદ કરી દીધી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/aid-is-arriving-seize-the-institutions-trump-added-fuel-to-the-fire-of-protests-by-canceling-talks-with-iran-461613 ",
+    "time": "2026-01-13T17:59:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ફક્ત 1 રન દૂર... તૂટી જશે ક્રિકેટના ભગવાનનો રેકોર્ડ, ન્યુઝીલેન્ડ સામે ઇતિહાસ રચશે વિરાટ કોહલી",
+    "desc": "ટીમ ઇન્ડિયાનો સ્ટાર બેટ્સમેન વિરાટ કોહલી આ દિવસોમાં શાનદાર ફોર્મમાં છે. તેણે ન્યૂઝીલેન્ડ સામેની પહેલી મેચમાં શાનદાર બેટિંગ કરી. તે ફક્ત એક રનથી સચિનનો મોટો રેકોર્ડ તોડી નાખશે. આમ કરીને, તે વનડે ક્રિકેટમાં ન્યૂઝીલેન્ડ સામે આ સિદ્ધિ મેળવનાર નંબર વન ભારતીય બેટ્સમેન બનશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/the-record-of-the-god-of-cricket-will-be-broken-virat-kohli-will-create-history-461602 ",
+    "time": "2026-01-13T15:32:44.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ઉત્તરાયણ પહેલા DA પર આ રાજ્યોએ લીધો નિર્ણય, કર્મચારીઓ માટે સારા સમાચાર",
     "desc": "12 જાન્યુઆરીના રોજ, આ રાજ્યની સરકારે તેના કર્મચારીઓ અને પેન્શનરોને ડીએ અને બાકી રકમ ચૂકવવા માટે તેમજ કોન્ટ્રાક્ટર બિલ ચૂકવવા માટે 2600 કરોડ રૂપિયાથી વધુની રકમ જાહેર કરી. તેલંગાણા સરકારે પણ તેના કર્મચારીઓ માટે ડીએમાં વધારો કર્યો.",
@@ -349,15 +367,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/jaish-e-mohammed-chief-masood-azhar-new-audio-said-suicide-bomber-claim-pakistan-terror-461316 ",
     "time": "2026-01-11T11:02:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "કોણ છે આદિત્ય અશોક ? ન્યુઝીલેન્ડે વનડે ટીમમાં આપ્યું સ્થાન, અભિનેતા રજનીકાંત સાથે છે ખાસ કનેક્શન",
-    "desc": "ભારત સામે પોતાની પહેલી મેચ રમી રહેલો આદિત્ય અશોક ન્યુઝીલેન્ડનો ઉભરતો સ્પિનર છે. 23 વર્ષીય આ ખેલાડીની સરખામણી પહેલાથી જ કિવી ટીમ માટે રમી ચૂકેલા ઇશ સોઢી સાથે થઈ રહી છે અને તેને તેનો ઉત્તરાઘિકારી માનવામાં આવી રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/who-is-adithya-ashok-indian-origin-spinner-playing-for-new-zealand-connection-with-rajinikanth-461314 ",
-    "time": "2026-01-11T10:59:26.000Z"
   },
   {
     "cat": "Entertainment",
