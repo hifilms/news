@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "5 Players who can replace Alyssa Healy as next Australia captain ahead of T20 World Cup 2026",
+    "desc": "Alyssa Healy made a shock announcement that she will be retiring from all cricket after Australia's home series against India in February-March 2026. Healy would be featuring in the three ODIs and a one-off Test at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/5-players-who-can-replace-alyssa-healy-as-next-australia-captain-ahead-of-t20-world-cup-2026-2026-01-13-1025615",
+    "time": "2026-01-13T03:05:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dewald Brevis slams jaw-dropping no-look six as he turns up the heat against former franchise in SA20",
+    "desc": "For the second time this season, Dewald Brevis turned up the heat against his former franchise, MI Cape Town, in the ongoing SA20 as he slammed two fiery cameos. The Proteas sensation had scored a 13-ball...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dewald-brevis-slams-jaw-dropping-no-look-six-as-he-turns-up-the-heat-against-former-franchise-in-sa20-watch-2026-01-13-1025609",
+    "time": "2026-01-13T02:13:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Alyssa Healy announces shock retirement months before T20 World Cup, India home series to be her last",
     "desc": "Australia captain Alyssa Healy has made a shocking retirement announcement from all cricket, set to bring down curtains to an illustrious career. Healy would hang her boots from all cricket after the home series against...",
     "img": "",
@@ -61,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/devdutt-padikkal-creates-history-becomes-first-player-to-achieve-major-record-in-vijay-hazare-trophy-2026-01-12-1025576",
     "time": "2026-01-12T14:49:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC rejects Bangladesh sports adviser Asif Nazrul's claim that it validated security threat in India",
-    "desc": "The International Cricket Council has rejected Bangladesh sports adviser Asif Nazrul's claim that the governing body validated the security threat of the Bangladesh team's travel to India for the T20 World Cup 2026, PTI reported. Earlier...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-rejects-bangladesh-sports-adviser-asif-nazruls-claim-that-it-validated-security-threat-in-india-report-2026-01-12-1025570",
-    "time": "2026-01-12T14:08:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB-W vs UP-W WPL Match Score Live: Bengaluru rattle UP, win by nine wickets after Grace Harris show",
-    "desc": "After enjoying a small break, Royal Challengers Bengaluru are back in action against UP Warriorz in the ongoing Women’s Premier League (WPL) on January 12. They defeated Mumbai Indians in the opening game of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-up-women-live-score-royal-challengers-bengaluru-up-warriorz-wpl-cricket-match-today-dr-dy-patil-sports-academy-2026-01-12-1025568",
-    "time": "2026-01-12T14:01:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul receives applause from former India cricketer after guiding India to win over New Zealand",
-    "desc": "Star India batter KL Rahul received a warm applause from former cricketer Aakash Chopra for his steely finish in the first ODI between India and New Zealand on Sunday, January 11. Rahul played an unbeaten...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-receives-applause-from-former-india-cricketer-after-guiding-india-to-win-over-new-zealand-2026-01-12-1025560",
-    "time": "2026-01-12T12:56:45.000Z"
   }
 ];

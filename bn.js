@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "World",
+    "title": "ফোর্ড-শ্রেণীর বিমানবাহী জাহাজ, বিশ্বের অন্যতম শক্তিশালী, এই ১ ট্রিলিয়ন ডলারের জলযানে ২৫ বছর ধরে জ্বালানির প্রয়োজন নেই",
+    "desc": "যখন এই ১০০,০০০ টনের দানব সমুদ্রের ঢেউয়ের মধ্য দিয়ে প্রায় উড়ে যায়, তখন শত্রু জাতির রাডার কাঁপে এবং স্যাটেলাইটগুলি এর উপর স্থির থাকে। এটিকে সমুদ্রে একটি অজেয় দুর্গ বলা ভুল হবে না, কারণ এটিকে রক্ষা করার জন্য মোতায়েন করা ক্ষেপণাস্ত্র এবং লেজার বন্দুকগুলি এমনকি, একটি পাখিকেও উড়তে বাধা দেয়। এটি কেবল একটি জাহাজ নয়, বরং আমেরিকার গর্বের প্রতীক, এমন একটি কীর্তি যা বর্তমানে বিশ্বের অন্য কোনও সামরিক বাহিনী চ্যালেঞ্জ করার সাহস করে না।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Ford-Class-Carrier-2026-01-d3eec4c16c22f3c4607a46e94c668401-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/international/gerald-r-ford-class-carrier-us-navy-13b-dollar-warship-worlds-most-powerful-nuclear-carrier-ruling-the-seas-ss-2493270.html",
+    "time": "2026-01-13T03:59:26.000Z"
+  },
+  {
+    "cat": "World",
     "title": "আগুন জ্বলছে ইরানে, ৯০ ঘণ্টা ব্ল্যাক আউট, হুহু করে মরছে মানুষ! পরিস্থিতির উপরে নজর রাখছে ভারত...প্রবাসীদের প্রতি বার্তা",
     "desc": "অন্যদিকে, ভারতীয় বিদেশমন্ত্রক ইরানে বসবাসকারী ভারতীয়দের উদ্দেশ্যে জানিয়েছে, তাঁরা যেন অপ্রয়োজনে বাইরে না বের হন৷ সোমবার বিদেশ সচিব বিক্রম মিস্রি বলেন, ‘‘আমরা ইরানের পরিস্থিতির উপর নজর রাখছি... আমাদের ইরানে প্রবাসী ভারতীয়দের একটি উল্লেখযোগ্য সম্প্রদায় রয়েছে এবং ভারতীয় শিক্ষার্থীরাও রয়েছেন।’’",
     "img": "https://images.news18.com/static-bengali/uploads/2026/01/ydne-2026-01-12T230527.112-2026-01-d1191b6d2ed40c7b72972c74e6c58189-3x2.jpg",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/cigarette-pan-masala-prices-set-to-rise-from-february-1-as-govt-hikes-excise-duty-here-is-the-details-sta-2479337.html",
     "time": "2026-01-01T09:24:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "একটা খুন, যার প্রমাণ নেই! অথচ প্রজন্মের পর প্রজন্ম শিকড় চারিয়ে বানিয়ে নেয় নতুন খুনি! শ্যুটিং ফ্লোরে 'কাটাকুটি ২'",
-    "desc": "অন্ধকার, স্তরভেদী গল্প নিয়েই Klikk-এর আসন্ন ওয়েব সিরিজ 'কাটাকুটি ২'। পরিচালনায় রয়েছেন রাজা চন্দ। কাহিনী লিখেছেন রম্বাস, চিত্রনাট্য ও সংলাপে রুদ্রদীপ চন্দ এবং চিত্রগ্রহণে অনির। শুটিং চলছে। প্রথম ঝলক ইতিমধ্যেই জানিয়ে দিচ্ছে—'কাটাকুটি ২' শুধু একটি খুনের গল্প নয়, এটি এক অনন্ত ট্রমার আয়না।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/katakuti-2-2025-12-13254eee3fdb60e6475edbc28da5e40e-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/bengali-web-series-katakuti-2-to-reveal-trauma-and-death-mystery-in-a-new-darker-way-on-klikk-ott-shooting-going-on-tib-ws-l-2478620.html",
-    "time": "2025-12-31T15:46:00.000Z"
   }
 ];
