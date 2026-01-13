@@ -1,6 +1,96 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "'Sarvam Maya' BO day 19: Crosses Rs 1 crore",
+    "desc": "Nivin Pauly's 'Sarvam Maya' continues its successful run, nearing Rs 66.30 crore in India after 19 days. Despite weekday dips, the film maintained steady weekend collections and positive audience reception, praised for its blend of horror, comedy, and feel-good elements. Directed by Akhil Sathyan, the movie is resonating well with family audiences.",
+    "img": "https://static.toiimg.com/photo/msid-126494882,imgsize-16078.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/sarvam-maya-box-office-collections-day-19-monday-numbers-on-lower-side-still-crosses-rs-1-crore/articleshow/126494882.cms",
+    "time": "2026-01-13T00:59:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar' nears Rs 1,300 crore mark at box office",
+    "desc": "Aditya Dhar's 'Dhurandhar', starring Ranveer Singh and Akshaye Khanna, continues its phenomenal run, crossing the Rs 800 crore nett mark in India. Despite a slight dip in its sixth week, the film's total collections are soaring, with a worldwide gross estimated at over Rs 1258 crore, solidifying its status as a record-breaking Bollywood blockbuster.",
+    "img": "https://static.toiimg.com/photo/msid-126494746,imgsize-25008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-39-ranveer-singh-akshaye-khanna-starrer-slows-down-earns-rs-2-5-crore-ahead-of-streaming-debut/articleshow/126494737.cms",
+    "time": "2026-01-13T00:22:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Parasakthi' BO day 3: SK film struggles in Monday test",
+    "desc": "Sivakarthikeyan's political drama 'Parasakthi' opened strongly, collecting ₹12.5 crores on day one. However, a significant drop occurred on Monday, with earnings falling to ₹2.75 crores, bringing the three-day total to ₹25.35 crores. Mixed audience reactions and lukewarm occupancy suggest the film needs strong word-of-mouth to sustain its box office run.",
+    "img": "https://static.toiimg.com/photo/msid-126494715,imgsize-45906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-box-office-collections-day-3-sivakarthikeyan-film-struggles-in-monday-test-total-reaches-rs-25-35-crores/articleshow/126494715.cms",
+    "time": "2026-01-13T00:20:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prabhas' film CRASHES on 1st Monday",
+    "desc": "Despite a promising start of Rs 53.75 crore on its opening weekend, Prabhas's 'The Raja Saab' encountered a steep decline, managing just THIS amount on its fourth day. The horror-comedy's overall earnings have reached over Rs 110 crore, but this falls short of the blockbuster status anticipated, even with an impressive cast and a sequel in the works.",
+    "img": "https://static.toiimg.com/photo/msid-126494686,imgsize-60356.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/the-raja-saab-box-office-collection-day-4-prabhas-starrer-crashes-on-its-first-monday-but-outperforms-dhurandhar/articleshow/126494686.cms",
+    "time": "2026-01-13T00:16:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'MSVG' BO day 1: Chiranjeevi film opens big",
+    "desc": "Chiranjeevi and Venkatesh starrer 'Mana ShankaraVaraprasad Garu' has roared at the box office, raking in Rs 37.10 crores on its opening day, including previews. The film witnessed strong occupancy across Telugu states, with evening and night shows performing exceptionally well. Directed by Anil Ravipudi, the movie has garnered mixed reviews but shows significant public interest.",
+    "img": "https://static.toiimg.com/photo/msid-126494639,imgsize-66314.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/mana-shankaravaraprasad-garu-box-office-collections-day-1-chiranjeevi-film-opens-big-rs-37-crores-on-first-day/articleshow/126494639.cms",
+    "time": "2026-01-13T00:01:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Mera kya lena dena': Nabi loses cool after question on Mustafizur",
+    "desc": "Afghanistan all-rounder Mohammad Nabi showed frustration when asked about Mustafizur Rahman's IPL situation. Nabi stated the controversy was not his concern. This follows Kolkata Knight Riders releasing Mustafizur after a directive from the BCCI due to political tensions. Bangladesh Cricket Board also requested T20 World Cup matches be moved from India.",
+    "img": "https://static.toiimg.com/photo/msid-126486564,imgsize-39840.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mera-kya-lena-dena-mohammad-nabi-loses-cool-after-question-on-mustafizur-rahman-controversy-watch/articleshow/126486461.cms",
+    "time": "2026-01-12T23:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Second to none': Shastri names one habit that separates Kohli from the rest",
+    "desc": "Former coach Ravi Shastri emphasizes that raw talent isn't enough for India's next cricket generation; discipline and relentless improvement, exemplified by Virat Kohli's work ethic, are key. Kohli's dedication off-field fuels his on-field success, a benchmark for young captain Shubman Gill. India's ODI win against New Zealand showcased this blend of talent and commitment.",
+    "img": "https://static.toiimg.com/photo/msid-126485710,imgsize-187358.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/second-to-none-ravi-shastri-names-one-habit-that-separates-virat-kohli-from-the-rest/articleshow/126485722.cms",
+    "time": "2026-01-12T23:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How Dolly Chaiwala turned a Nagpur tapri into a brand",
+    "desc": "Long before the internet crowned him a sensation, Sunil Patil was just another teenager helping out at a tea stall in Nagpur’s Sadar area. Money was scarce, opportunities even scarcer. He didn’t have formal education on his side, but what he did have was instinct — the instinct to turn even the most ordinary job into a performance. With barely Rs 7 in his pocket and a kettle in hand, Sunil began serving tea. What followed was the birth of Dolly Chaiwala.",
+    "img": "https://static.toiimg.com/photo/msid-126493428,imgsize-94388.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/from-rs-7-to-rs-5-lakh-an-appearance-how-dolly-chaiwala-turned-a-nagpur-tapri-into-a-nationwide-brand/articleshow/126493222.cms",
+    "time": "2026-01-12T22:25:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Emotional Suniel Shetty on Ahaan’s struggles after Tadap",
+    "desc": "Suniel Shetty turned visibly emotional while speaking about the difficult phase his son Ahaan Shetty went through after his debut film Tadap failed to make an impact. Addressing the audience at the song launch of Border 2, the actor shared a candid father’s perspective on how uncertainty and waiting can affect even star kids.",
+    "img": "https://static.toiimg.com/photo/msid-126492230,imgsize-81456.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shetty-gets-emotional-over-son-ahaan-shettys-struggles-after-tadap-says-border-2-came-at-the-right-time/articleshow/126492222.cms",
+    "time": "2026-01-12T21:37:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Omar Abdullah rebuffs BJP demand to set up National Law University in Jammu instead of Kashmir",
+    "desc": "The BJP demand is the latest in its campaign in Jammu after seeking cancellation of the MBBS selection list, which had 42 Muslims out of 50, at the Shri Mata Vaishno Devi Institute of Medical Excellence",
+    "img": "https://th-i.thgim.com/public/incoming/b5g7zz/article70502994.ece/alternates/LANDSCAPE_1200/4col_Lead_StoryG82FDP4B4.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/omar-abdullah-rebuffs-bjp-demand-to-set-up-national-law-university-in-jammu-instead-of-kashmir/article70502190.ece",
+    "time": "2026-01-12T21:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Bachchan plays finger cricket with Tendulkar, the internet is in awe",
     "desc": "Amitabh Bachchan and Sachin Tendulkar shared a heartwarming moment playing finger cricket during the ISPL. Bachchan, a team owner, expressed his joy playing with the 'God of Cricket,' showcasing a childlike enthusiasm. The adorable video of the two legends bonding has delighted netizens, with many celebrating their iconic meeting.",
     "img": "https://static.toiimg.com/photo/msid-126492152,imgsize-52626.cms",
@@ -171,15 +261,6 @@ const newsData_en = [
     "time": "2026-01-12T16:21:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Farah reveals Aamir chopped Vir Das’ Jaa Chudail song",
-    "desc": "Actor and stand-up comedian Vir Das was the latest guest on Farah Khan’s vlog, where the choreographer-director visited his home for a candid chat ahead of the release of his upcoming film Happy Patel. What stood out from the conversation, however, was Farah’s hilarious revelation about Delhi Belly and why Vir’s popular song Jaa Chudail was allegedly cut short.",
-    "img": "https://static.toiimg.com/photo/msid-126488103,imgsize-77348.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-reveals-aamir-khan-chopped-vir-das-jaa-chudail-song-from-delhi-belly-because-he-was-jealous-mujhko-bola-gaya-ki-ek-pacing-issue-tha/articleshow/126488084.cms",
-    "time": "2026-01-12T16:16:03.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Textile industry body seeks permanent removal of cotton import duty; flags cost pressure, export risks",
     "desc": "The Confederation of Indian Textile Industry (CITI) is urging the government to permanently remove the 11% import duty on cotton in the Union Budget 2026. This levy is increasing costs and harming the global competitiveness of domestic manufacturers, especially as domestic production declines and competing nations offer duty-free imports.",
@@ -187,33 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-textile-industry-body-seeks-permanent-removal-of-cotton-import-duty-flags-cost-pressure-export-risks/articleshow/126488079.cms",
     "time": "2026-01-12T16:12:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Mardaani 3' trailer: Fans react",
-    "desc": "The trailer for Mardaani 3 has been released, showcasing Rani Mukerji's return as the iconic Shivani Shivaji Roy. The film promises a dark and brutal narrative as she investigates the disappearance of young girls, confronting a sinister network. Fans have reacted with immense excitement, praising the franchise and Mukerji's performance.",
-    "img": "https://static.toiimg.com/photo/msid-126488014,imgsize-32148.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mardaani-3-trailer-fans-celebrate-rani-mukerjis-powerful-return-shivani-shivaji-roy-is-back/articleshow/126488006.cms",
-    "time": "2026-01-12T16:07:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vir Das calls Farah Khan's 'Happy New Year' a 'faltu' film",
-    "desc": "Khatarnak Jasoos', playfully compared it to Farah Khan's films on her cooking show. He described his movie as 'crazy and hilarious,' drawing parallels with 'Om Shanti Om's' tone. Farah praised the trailer, calling it her kind of funny and appreciating Vir's accent work, hinting at a spoof movie experience.",
-    "img": "https://static.toiimg.com/photo/msid-126487999,imgsize-75084.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vir-das-calls-shah-rukh-khans-happy-new-year-a-faltu-film-farah-khan-reacts-my-film-happy-patel-/articleshow/126487980.cms",
-    "time": "2026-01-12T16:04:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hollywood actors who were seriously injured while filming",
-    "desc": "Hollywood's glamour often hides dangerous realities. Tom Cruise broke his ankle mid-stunt, Ellen Burstyn suffered a permanent spine injury during 'The Exorcist,' Sean Astin's foot was gashed by glass in 'Lord of the Rings,' and Margaret Hamilton endured severe burns filming 'The Wizard of Oz.' These actors faced significant physical risks for their craft.",
-    "img": "https://static.toiimg.com/photo/msid-126487933,imgsize-40828.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-cruise-jason-statham-ellen-burstyn-hollywood-actors-who-suffered-severe-injuries-on-film-sets/articleshow/126487961.cms",
-    "time": "2026-01-12T16:00:54.000Z"
   },
   {
     "cat": "Business",
@@ -232,24 +286,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/karnataka/notice-to-state-government-on-pil-seeking-30-acre-land-for-constructing-new-building-for-karnataka-high-court/article70501538.ece",
     "time": "2026-01-12T15:54:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Madras High Court steps in to protect Happy Patel from piracy",
-    "desc": "Khatarnak Jasoos' from piracy, ensuring its January 16, 2026 release. Aamir Khan Productions sought the injunction, with the court acknowledging the digital age's vulnerability to leaks. An indemnity bond will be furnished to protect affected parties from potential commercial impact.",
-    "img": "https://static.toiimg.com/photo/msid-126487565,imgsize-57372.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/madras-high-court-passes-order-to-safeguard-aamir-khans-production-happy-patel-khatarnak-jasoos-from-piracy/articleshow/126487484.cms",
-    "time": "2026-01-12T15:31:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inside Nupur Sanon-Stebin Ben’s Christian-Hindu wedding",
-    "desc": "Actor-model Nupur Sanon, sister of Bollywood star Kriti Sanon, tied the knot with popular singer-songwriter Stebin Ben in a traditional Hindu wedding ceremony on Sunday at Raffles Udaipur. With this, the couple brought their lavish three-day wedding celebrations to a close in the City of Lakes.",
-    "img": "https://static.toiimg.com/photo/msid-126487477,imgsize-87084.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-nupur-sanon-and-stebin-bens-christian-hindu-wedding-emotional-bridal-entry-pheras-cocktail-night-and-star-studded-attendance/articleshow/126487404.cms",
-    "time": "2026-01-12T15:26:28.000Z"
   },
   {
     "cat": "Business",
@@ -286,24 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/off-the-field/shared-smiles-to-shared-dreams-shikhar-dhawan-announces-engagement-to-sophie-shine-two-years-after-divorce/articleshow/126487014.cms",
     "time": "2026-01-12T14:55:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nupur, Stebin drops PICS from Hindu wedding after Catholic nuptials",
-    "desc": "Nupur Sanon and Stebin Ben celebrated their union in a grand Udaipur wedding on December 10th, followed by a vibrant sangeet. The festivities included heartfelt performances by Nupur's mother, Geetu, and bridesmaids, with Kriti Sanon also joining in the celebratory dances. The couple shared a special moment on the dance floor, embracing the joyous occasion.",
-    "img": "https://static.toiimg.com/photo/msid-126487006,imgsize-66386.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nupur-sanon-stebin-ben-drop-pics-from-their-hindu-wedding-taking-pheras-after-christian-nuptials-kriti-sanon-makes-the-perfect-bridesmaid/articleshow/126486352.cms",
-    "time": "2026-01-12T14:47:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Vizhinjam ward election held",
-    "desc": "The ward witnessed 66.97% polling, with 8,912 out of the 13,307 voters casting their votes. If BJP wins, it will secure the simple majority figure of 51 in the 101-ward Corporation. The election also holds strategic importance for the LDF and the UDF, both of which aim to bolster their representation in standing committees.",
-    "img": "https://th-i.thgim.com/public/incoming/6r2cso/article70502163.ece/alternates/LANDSCAPE_1200/JA12Vizhinjam012.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/vizhinjam-ward-election-held/article70501991.ece",
-    "time": "2026-01-12T14:46:41.000Z"
   },
   {
     "cat": "Sports",
@@ -520,24 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/chase-kings-of-world-cricket-india-create-history-become-first-team-to-hunt-down-300-plus-targets-20-times-in-odis/articleshow/126476793.cms",
     "time": "2026-01-12T06:05:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Washington Sundar ruled out of ODI series due to injury",
-    "desc": "India faces a significant setback as all-rounder Washington Sundar is ruled out of the remaining ODIs against New Zealand due to a side strain. This injury casts doubt on his availability for the upcoming T20 series, adding to team concerns ahead of the T20 World Cup. The BCCI is expected to announce his replacement shortly.",
-    "img": "https://static.toiimg.com/photo/msid-126476366,imgsize-36822.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-washington-sundar-ruled-out-of-odi-series-due-to-injury/articleshow/126476346.cms",
-    "time": "2026-01-12T05:34:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hidden drama in India's chase: KL Rahul opens up on Sundar's injury",
-    "desc": "KL Rahul revealed the significant challenge of managing India's run chase when Washington Sundar was unable to run effectively due to a back issue. Rahul had to balance aggression with caution, focusing on strike rotation and preventing dot balls to secure the win. His composure and strategic management proved crucial in the tense finish.",
-    "img": "https://static.toiimg.com/photo/msid-126476170,imgsize-78174.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/hidden-drama-in-indias-chase-kl-rahul-opens-up-on-washington-sundars-injury/articleshow/126475687.cms",
-    "time": "2026-01-12T05:19:08.000Z"
   },
   {
     "cat": "Business",
@@ -765,15 +765,6 @@ const newsData_en = [
     "time": "2026-01-09T18:27:35.000Z"
   },
   {
-    "cat": "World",
-    "title": "Nearly 20 flights between Dubai and Iranian cities cancelled",
-    "desc": "A Flydubai spokesperson said that flights to Iran on January 9, had been ‌cancelled and that the ‌airline “will continue to monitor the situation” and revise ‍its flight schedule accordingly, without giving a reason for the ‍disruption",
-    "img": "https://th-i.thgim.com/public/incoming/o90o5w/article70492357.ece/alternates/LANDSCAPE_1200/Emirates_Dubai_Air_Show_12904.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-protest-nearly-20-flights-between-dubai-and-iranian-cities-cancelled/article70492352.ece",
-    "time": "2026-01-09T17:52:03.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Investors chose Gold ETFs over Equities in December 2025",
     "desc": "Net inflows into gold exchange traded funds tripled to a record high of ₹1,16,467 crore in Dec. 2025 from the month earlier,according to AMFI data; surge due to ‘sustained demand for gold-backed products amid elevated macro uncertainty",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
   }
 ];

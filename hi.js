@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Alyssa Healy announces shock retirement months before T20 World Cup, India home series to be her last",
+    "desc": "Australia captain Alyssa Healy has made a shocking retirement announcement from all cricket, set to bring down curtains to an illustrious career. Healy would hang her boots from all cricket after the home series against...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/alyssa-healy-announces-shocking-retirement-months-before-t20-world-cup-india-home-series-to-be-her-last-2026-01-13-1025598",
+    "time": "2026-01-13T00:58:33.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "RCB register their biggest victory in WPL history following Grace Harris masterclass vs UP Warriorz",
     "desc": "Grace Harris delivered a commanding performance to guide Royal Challengers Bengaluru to a dominant nine-wicket victory over UP Warriorz in the Women’s Premier League 2026. Her 85 off 40 balls propelled RCB past a target...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-receives-applause-from-former-india-cricketer-after-guiding-india-to-win-over-new-zealand-2026-01-12-1025560",
     "time": "2026-01-12T12:56:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Watch",
-    "desc": "A tense exchange unfolded at a Bangladesh Premier League media interaction when Afghanistan veteran Mohammad Nabi reacted angrily to a question linking him to an unrelated Indian Premier League controversy. The moment came after Noakhali...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-nabi-shuts-reporter-when-questioned-about-mustafizur-rahman-controversy-during-bpl-watch-2026-01-12-1025552",
-    "time": "2026-01-12T12:00:04.000Z"
   }
 ];
