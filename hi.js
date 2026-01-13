@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why is Nat Sciver-Brunt not playing for Mumbai Indians vs Gujarat Giants in WPL 2026?",
+    "desc": "Mumbai Indians were forced to bench star all-rounder Nat Sciver-Brunt in their high-voltage clash against Gujarat Giants in the ongoing WPL 2026. After the toss, captain Harmanpreet Kaur noted that the England international isn’t well...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-nat-sciver-brunt-not-playing-for-mumbai-indians-vs-gujarat-giants-in-wpl-2026-2026-01-13-1025722",
+    "time": "2026-01-13T13:41:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MI-W vs GG-W WPL Match Score Live: Gujarat four down, expect to finish well vs Mumbai Indians",
+    "desc": "Gujarat Giants have been commendable in the ongoing season. The Ash Gardner-led side had a tough time in the previous three seasons, but in 2026, the tables have turned as the Giants are undefeated so...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mi-w-vs-gg-w-wpl-match-score-live-unstoppable-gujarat-face-biggest-test-against-mumbai-indians-2026-01-13-1025720",
+    "time": "2026-01-13T13:35:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Lamine Yamal denies giving guard of honour to Real Madrid after Supercopa final, new video goes viral",
     "desc": "The post-match ceremony following Barcelona’s 3–2 victory over Real Madrid in the Supercopa de España final has continued to generate debate, with the guard of honour or lack of it emerging as one of the...",
     "img": "",
@@ -70,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/paris-fc-stun-defending-champions-psg-to-knock-them-out-of-french-cup-2026-01-13-1025631",
     "time": "2026-01-13T05:01:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "5 Players who can replace Alyssa Healy as next Australia captain ahead of T20 World Cup 2026",
-    "desc": "Alyssa Healy made a shock announcement that she will be retiring from all cricket after Australia's home series against India in February-March 2026. Healy would be featuring in the three ODIs and a one-off Test at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/5-players-who-can-replace-alyssa-healy-as-next-australia-captain-ahead-of-t20-world-cup-2026-2026-01-13-1025615",
-    "time": "2026-01-13T03:05:27.000Z"
   }
 ];

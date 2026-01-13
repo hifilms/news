@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "ক্যানসার চিকিৎসার খরচ কমাতে বড় রায়, সস্তা নিভোলুম্যাব বিক্রির অনুমতি দিল দিল্লি হাইকোর্ট",
+    "desc": "সাশ্রয়ী চিকিৎসার পথে বড় স্বস্তির রায় দিল দিল্লি হাইকোর্ট। মার্কিন ওষুধ প্রস্তুতকারক সংস্থা ব্রিস্টল মায়ার্স স্কুইব (BMS)-এর উদ্ভাবিত বহুল ব্যবহৃত ক্যানসারের ওষুধ নিভোলুম্যাব (Nivolumab)-এর সস্তা বায়োসিমিলার ভারতে বিক্রির অনুমতি পেল ভারতীয় ফার্মাসিউটিক্যাল সংস্থা জাইডাস লাইফসায়েন্সেস।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Untitled-design-2026-01-13T180131.040-2026-01-97f313430b8a2a231f02318ee0fe79ab-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/delhi-high-court-give-green-signal-zydus-nivolumab-biosimilar-sale-affordable-cancer-treatment-india-sal-2494369.html",
+    "time": "2026-01-13T13:09:20.000Z"
+  },
+  {
     "cat": "Business",
     "title": "শীতের মরশুমে শুধু নলেন গুড় নয়, বাজার কাঁপাচ্ছে আখের গুড়ও! হাজার হাজার টাকা লাভের মুখ দেখে আহ্লাদে আটখানা চাষিরা",
     "desc": "আখের গুড়ের বড় উৎস জঙ্গলমহলের কেশিয়াড়ি ব্লকের সুবর্ণরেখা নদী তীরবর্তী একাধিক গ্রাম। নদীর পলিমাটি ও অনুকূল পরিবেশে এই এলাকায় বহু বছর ধরেই আখ চাষ হয়ে আসছে। শীত নামতেই সেই আখ থেকেই শুরু হয় গুড় তৈরির ব্যস্ততা।",
@@ -567,15 +576,6 @@ const newsData_bn = [
     "time": "2026-01-07T12:19:46.000Z"
   },
   {
-    "cat": "World",
-    "title": "ভেনেজুয়েলার পরে এবার গ্রিনল্যান্ড? আমেরিকা দখল করবে এই বরফদেশ? ট্রাম্প কি World War III-র দিকেই যাচ্ছেন?",
-    "desc": "সত্যিই কি তৃতীয় বিশ্বযুদ্ধ শুধু সময়ের অপেক্ষা? অন্তত আমেরিকা যা চালাচ্ছে, তাতে এমনই আশঙ্কা সংশ্লিষ্ট মহলের। কেননা, এবার গ্রিনল্যান্ডের নাম উঠে আসছে। ভেনেজুয়েলার পরে একে একে উঠে এসেছে কিউবা ইরানের নাম। এবার ডেনমার্কের অন্তর্ভুক্ত গ্রিনল্যান্ড।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/will-trump-capture-greenland-trump-considering-military-options-to-acquire-greenland_633471.html ",
-    "time": "2026-01-07T11:50:07.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'প্রবাহ নন্দীর ইনারওয়্যারটাও আমার বোন কিনে এনে দেয়, ওর তিনগুণ রোজগার করে ...' ফেসবুক লাইভে এসে বিস্ফোরক দেবলীনা নন্দীর দিদি",
     "desc": "সংগীতশিল্পী দেবলীনা নন্দীর জন্য এখন প্রার্থনা করছে গোটা নেটপাড়া। নিজের জীবন নিয়ে চরম সিদ্ধান্ত নিয়ে ফেলেছিলেন তিনি। তারপর থেকেই সমাজমাধ্যম দ্বিধাবিভক্ত। এবার সোশ্যাল মিডিয়া লাইভে এলেন দেবলীনার দিদি। তিনি জানান, সোশ্যাল মিডিয়ায় যে ধরনের কুৎসা করা হচ্ছে দেবলীনাকে নিয়ে, তা দেখে তিনি আরও অসুস্থ হয়ে পড়ছেন।",
@@ -619,15 +619,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/what-bcb-says-on-icc-communication-regarding-t20-world-cup-smj-2486471.html",
     "time": "2026-01-07T08:31:11.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "মৃত্যু-উপত্যকা বাংলাদেশ? ফের মৃত্যু হিন্দু যুবকের! উন্মত্ত জনতার তাড়া খেয়ে খালে ঝাঁপ... তারপর...",
-    "desc": "বাংলাদেশে মৃত্যু আরও এক সংখ্যালঘু যুবকের। চোর সন্দেহে ধাওয়া করা একদল উন্মত্ত ক্ষুব্ধ জনতার হাত থেকে বাঁচতে খালে ঝাঁপ দেন ওই হিন্দু যুবক। মূলত ওসমান হাদির মৃত্যুর পরেই বাংলাদেশে এই পরিস্থিতি তৈরি হয়। তারপর থেকে বাংলাদেশে একের পর এক ধর্মীয় সংখ্যালঘুর মৃত্যু ঘটছে। ধারাবাহিক সেই হিংসার ঘটনার মধ্যে নতুন এই মৃত্যু নতুন করে বিতর্ক তৈরি করছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/hindu-man-dies-after-jumped-into-canal-to-escape-mob-in-bangladesh_633418.html ",
-    "time": "2026-01-07T08:29:19.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +889,14 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/sports/bjp-leader-call-shahrukh-khan-traitor-as-his-team-buy-mustafizur-rahman-with-hefty-amount-in-ipl-auction-smc-2480304.html",
     "time": "2026-01-02T09:51:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "১৮০কিমি/ ঘণ্টা স্পিড...! হাওড়া থেকে ছুটবে বন্দে ভারত স্লিপার! কোন কোন স্টেশন হয়ে পৌঁছবে ডেস্টিনেশন? রুট থেকে ভাড়া, জানুন একগুচ্ছ 'স্পেশালিটি'!",
+    "desc": "রেলযাত্রীদের জন্য বড় সুখবর। ভারতীয় রেলমন্ত্রী অশ্বিনী বৈষ্ণব রেল ভবনে অনুষ্ঠিত এক বৈঠকে বছরের শুরুর দিন, পয়লা জানুয়ারি জানিয়েছেন যে, ভারতের প্রথম বন্দে ভারত স্লিপার ট্রেনটি আর কোথাও নয় ছুটবে অসমের কামাখ্যা এবং পশ্চিমবঙ্গের হাওড়ার মধ্যে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-02-at-10.53.29-2026-01-9f487ba631572bf74f4fddda50783cad-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/vande-bharat-sleeper-big-news-for-passengers-new-vande-bharat-train-will-run-from-howrah-with-a-speed-of-180-km-do-you-know-which-stations-will-it-stop-learn-route-special-features-etc-sanj-2479875.html",
+    "time": "2026-01-02T05:27:40.000Z"
   }
 ];

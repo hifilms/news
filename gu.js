@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "ઉત્તરાયણ પહેલા DA પર આ રાજ્યોએ લીધો નિર્ણય, કર્મચારીઓ માટે સારા સમાચાર",
+    "desc": "12 જાન્યુઆરીના રોજ, આ રાજ્યની સરકારે તેના કર્મચારીઓ અને પેન્શનરોને ડીએ અને બાકી રકમ ચૂકવવા માટે તેમજ કોન્ટ્રાક્ટર બિલ ચૂકવવા માટે 2600 કરોડ રૂપિયાથી વધુની રકમ જાહેર કરી. તેલંગાણા સરકારે પણ તેના કર્મચારીઓ માટે ડીએમાં વધારો કર્યો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/these-states-took-decision-on-da-before-uttarayan-good-news-for-employees-461591 ",
+    "time": "2026-01-13T13:18:22.000Z"
+  },
+  {
     "cat": "World",
     "title": "વિશ્વનો એકમાત્ર એવો કયો દેશ છે, જેની ત્રણ રાજધાની છે ? જાણી લો જવાબ",
     "desc": "દુનિયાના દરેક દેશની પોતાની આગવી ઓળખ હોય છે અને તેની રાજધાની તેનું સૌથી મહત્વપૂર્ણ રાજકીય અને વહીવટી કેન્દ્ર હોય છે. દરેક દેશની પોતાની એક રાજધાની હોય છે, જો કે એક દેશ એવો છે, જેની 3 રાજધાની છે.",
@@ -574,14 +583,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/tumm-se-tumm-tak-anu-will-reach-arya-house-in-search-of-rajnandini-an-interesting-twist-is-coming-460733 ",
     "time": "2026-01-07T09:46:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "50 લાખ બજેટમાં 100 કરોડથી વધુની કમાણી, 8.6 IMDb રેટિંગ, ગુજરાતી ફિલ્મે પછાડ્યા ધુરંધર, હવે જુઓ હિન્દીમાં",
-    "desc": "ફક્ત 50 લાખ રૂપિયામાં બનેલી એક ગુજરાતી ફિલ્મે 100 કરોડ રૂપિયાથી વધુ કમાણી કરી છે. આ ફિલ્મને IMDb પર 8.6 રેટિંગ મળ્યું છે. હવે તે લોકોની માંગ પર હિન્દીમાં રિલીઝ થઈ રહી છે. ફિલ્મ વિશે કેટલીક રસપ્રદ વાતો જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/earning-more-than-100-crores-on-a-budget-of-50-lakhs-8-6-imdb-rating-gujarati-film-now-watch-in-hindi-460730 ",
-    "time": "2026-01-07T09:29:18.000Z"
   }
 ];
