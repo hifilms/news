@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why is Ishant Sharma captaining Delhi in Vijay Hazare Trophy QF against Vidarbha? Explained",
+    "desc": "India veteran Ishant Sharma took the captaincy duties of Delhi for their Vijay Hazare Trophy quarterfinal fixture against Vidarbha at the BCCI Centre of Excellence Ground 2, Bengaluru. Sharma leads a side after a gap of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-ishant-sharma-captaining-delhi-in-vijay-hazare-trophy-qf-against-vidarbha-explained-2026-01-13-1025641",
+    "time": "2026-01-13T05:45:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Paris FC stun defending champions PSG to knock them out of French Cup",
+    "desc": "In a major upset, Paris FC stunned defending champions PSG in the French Cup with a 1-0 win over them in the round of 32 clash. This marked the club's first-ever win against its richer...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/paris-fc-stun-defending-champions-psg-to-knock-them-out-of-french-cup-2026-01-13-1025631",
+    "time": "2026-01-13T05:01:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "5 Players who can replace Alyssa Healy as next Australia captain ahead of T20 World Cup 2026",
     "desc": "Alyssa Healy made a shock announcement that she will be retiring from all cricket after Australia's home series against India in February-March 2026. Healy would be featuring in the three ODIs and a one-off Test at...",
     "img": "",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/xabi-alonso-to-retain-position-as-real-madrid-head-coach-despite-defeat-to-barcelona-in-supercopa-de-espana-2026-01-12-1025583",
     "time": "2026-01-12T15:48:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Netherlands announce squad for T20 World Cup 2026, several senior cricketers return",
-    "desc": "Netherlands have announced a 15-member squad for the upcoming T20 World Cup 2026, slated to be played in India and Sri Lanka. Scott Edwards will once again lead the team in the mega tournament, but...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/netherlands-announce-squad-for-t20-world-cup-2026-several-senior-cricketers-return-2026-01-12-1025579",
-    "time": "2026-01-12T15:22:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Devdutt Padikkal creates history, becomes first player to achieve major record in Vijay Hazare Trophy",
-    "desc": "Karnataka star batter Devdutt Padikkal has etched his name into the history books as he has registered yet another massive milestone in the Vijay Hazare Trophy 2025/26. Padikkal has been in insane form in the domestic...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/devdutt-padikkal-creates-history-becomes-first-player-to-achieve-major-record-in-vijay-hazare-trophy-2026-01-12-1025576",
-    "time": "2026-01-12T14:49:44.000Z"
   }
 ];

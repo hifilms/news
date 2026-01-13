@@ -1,12 +1,21 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "ইন্ডিগোর নতুন এয়ারবাস A321 XLR এথেন্সে ওড়ার জন্য প্রস্তুত, কলকাতার যাত্রীরা ভায়া দিল্লি ও মুম্বই টিকিট বুক করছেন",
+    "desc": "ইন্ডিগো সম্প্রতি তার ফ্লিটে একটি এয়ারবাস A321XLR যুক্ত করেছে, যা এয়ারবাস A321neo-এর একটি দূরপাল্লার সংস্করণ। যা ভারতের কোনও বিমানসংস্থার জন্য প্রথম ৷ কর্মকর্তারা ঘোষণা করেছেন যে, এটি ২৩ জানুয়ারি, ২০২৬ থেকে মুম্বই থেকে এথেন্স এবং ২৪ জানুয়ারি, ২০২৬ থেকে দিল্লি থেকে এথেন্স পর্যন্ত নন-স্টপ পরিষেবা প্রদান করবে, উভয় রুটে সপ্তাহে তিনটি করে ফ্লাইট থাকবে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/A321XLR-2026-01-be0bc06179649c89d018a5c8122edbe2-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/indigos-airbus-a321-xlr-to-athens-ready-for-take-off-non-stop-services-from-mumbai-to-athens-starting-january-23-and-delhi-to-athens-from-january-24-ss-2493320.html",
+    "time": "2026-01-13T04:55:26.000Z"
+  },
+  {
     "cat": "World",
-    "title": "ফোর্ড-শ্রেণীর বিমানবাহী জাহাজ, বিশ্বের অন্যতম শক্তিশালী, এই ১ ট্রিলিয়ন ডলারের জলযানে ২৫ বছর ধরে জ্বালানির প্রয়োজন নেই",
+    "title": "ফোর্ড-শ্রেণীর বিমানবাহী জাহাজ, বিশ্বের অন্যতম শক্তিশালী, এই ১ ট্রিলিয়ন ডলারের জলযানে ২৫ বছর ধরে জ্বালানির প্রয়োজন নেই !",
     "desc": "যখন এই ১০০,০০০ টনের দানব সমুদ্রের ঢেউয়ের মধ্য দিয়ে প্রায় উড়ে যায়, তখন শত্রু জাতির রাডার কাঁপে এবং স্যাটেলাইটগুলি এর উপর স্থির থাকে। এটিকে সমুদ্রে একটি অজেয় দুর্গ বলা ভুল হবে না, কারণ এটিকে রক্ষা করার জন্য মোতায়েন করা ক্ষেপণাস্ত্র এবং লেজার বন্দুকগুলি এমনকি, একটি পাখিকেও উড়তে বাধা দেয়। এটি কেবল একটি জাহাজ নয়, বরং আমেরিকার গর্বের প্রতীক, এমন একটি কীর্তি যা বর্তমানে বিশ্বের অন্য কোনও সামরিক বাহিনী চ্যালেঞ্জ করার সাহস করে না।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/01/Ford-Class-Carrier-2026-01-d3eec4c16c22f3c4607a46e94c668401-3x2.jpg",
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/international/gerald-r-ford-class-carrier-us-navy-13b-dollar-warship-worlds-most-powerful-nuclear-carrier-ruling-the-seas-ss-2493270.html",
-    "time": "2026-01-13T03:59:26.000Z"
+    "time": "2026-01-13T04:10:20.000Z"
   },
   {
     "cat": "World",
@@ -430,15 +439,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/uganda-born-shimit-amin-john-matthew-two-director-made-shahrukh-khan-chak-de-india-sarfarosh-movie-both-superhit-won-national-award-beat-sunny-deol-film-ss-2488203.html",
     "time": "2026-01-08T10:55:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "অকালে চলে গেল ছেলে, সম্পত্তির ৭৫% বিলিয়ে দেওয়ার সিদ্ধান্ত বেদান্ত গোষ্ঠীর কর্ণধার ধনকুবের অনিল আগরওয়ালের...",
-    "desc": "১৯৭৬ সালে পাটনার এক সাধারণ মধ্যবিত্ত পরিবারে জন্ম নেওয়া অগ্নিবেশ তৈরি করেছিলেন 'ফুজাইরা গোল্ড'। হিন্দুস্তান জিঙ্কের চেয়ারম্যান হিসেবে দায়িত্ব পালন করেন। কিন্তু মাত্র ৪৯ বছরেই সব শেষ। অগ্নিবেশের অপূরণীয় স্বপ্ন পূরণ করবেন এবার তাঁর বাবা শিল্পপতি অনিল আগরওয়াল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/vedanta-chairman-anil-agarwal-will-donate-75-percent-wealth-philanthropy-pledge-after-son-agnivesh-death_633670.html ",
-    "time": "2026-01-08T09:31:18.000Z"
   },
   {
     "cat": "Politics",

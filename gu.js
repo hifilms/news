@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "RCB ફેન્સને લાગશે મોટો ઝટકો! IPL 2026માં બદલાઈ જશે ટીમનું હોમ ગ્રાઉન્ડ, જાણો ક્યાં રમાશે મેચ?",
+    "desc": "રોયલ ચેલેન્જર્સ બેંગ્લોર અને વિરાટ કોહલીના ચાહકો માટે માઠા સમાચાર આવી રહ્યા છે. IPL 2026 માં તેમની મેચ બેંગ્લોરમાં યોજાશે નહીં. RCB અધિકારીઓએ હવે આગામી સિઝનમાં તેમની મેચો માટે બે અલગ અલગ સ્ટેડિયમ પસંદ કર્યા છે. IPL 2025 દરમિયાન થયેલી નાસભાગ બાદ RCB સુરક્ષાને ધ્યાનમાં લઈ રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bad-news-for-rcb-and-virat-kohli-fans-ahead-of-ipl-2026-home-matches-will-not-be-held-in-bengaluru-461536 ",
+    "time": "2026-01-13T06:28:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "&amp;#039;ICCનું કોઈ અસ્તિત્વ નથી, તે BCCIના ઈશારે ચાલે છે...&amp;#039; પાકિસ્તાની ખેલાડીનું ભડકાઉ નિવેદન",
+    "desc": "બાંગ્લાદેશ અને ભારત વચ્ચે 2026ના T20 વર્લ્ડ કપના સ્થળને લઈને ચાલી રહેલા વિવાદ વચ્ચે પાકિસ્તાનના પૂર્વ ઓફ સ્પિનર સઈદ અજમલે ICC પર આકરા પ્રહારો કર્યા છે અને ચેતવણી આપી છે કે જો ક્રિકેટની સર્વોચ્ચ સંસ્થા ભારતીય ક્રિકેટ કંટ્રોલ બોર્ડના પડછાયા હેઠળ કામ કરવાનું ચાલુ રાખશે તો તે ધીમે ધીમે તેનું અસ્તિત્વ ગુમાવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/pakistan-former-spinner-saeed-ajmal-big-allegation-on-icc-461531 ",
+    "time": "2026-01-13T06:03:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ટ્રમ્પે પાછો ટેરિફ બોમ્બ ફોડ્યો; ઈરાન સાથે વેપારની કિમત ચૂકવવી પડશે, ભારત પર હવે 75% ટેરિફ!",
+    "desc": "અમેરિકાએ વધુ એક ટેરિફ બોમ્બ ફોડ્યો છે અને ઈરાન સાથે વેપાર કરનારા દેશો પર 25 ટકા ટેરિફ ઝીંક્યો છે. અમેરિકાના આ નિર્ણયની અસર સીધી ભારત પર થશે અને હવે ભારતે બીજો 25 ટકા ટેરિફ પણ ભોગવવાનો વારો આવી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/donald-trump-announce-25-percent-tariff-on-irans-trading-partners-how-india-may-be-affected-461515 ",
+    "time": "2026-01-13T04:36:27.000Z"
+  },
+  {
     "cat": "World",
     "title": "કોણ છે અરુણ સુબ્રમણ્યમ? ભારતીય જજે ટ્રમ્પને આપ્યો ઝટકો, પલટાવી દીધો સરકારનો મોટો નિર્ણય",
     "desc": "ભારતીય મૂળના અમેરિકન જજ અરુણ સુબ્રમણ્યમે ટ્રમ્પ વહીવટીતંત્ર દ્વારા ડેમોક્રેટ શાસિત રાજ્યોમાં બાળકોની સંભાળ, પારિવારિક સહાય અને સામાજિક સેવાઓ સાથે જોડાયેલી આશરે 10 અબજ ડોલરની ફન્ડિંગ રોકવાના નિર્ણય પર વચગાળાનો સ્ટે આપ્યો છે. જજે કહ્યું કે, અચાનક ફંડ રોકવાથી ગરીબ પરિવારો અને કમજોર વર્ગોને ગંભીર નુકસાન થઈ શકે છે અને આ પ્રક્રિયામાં કાયદાકીય ખામીઓ છે.",
@@ -378,24 +405,6 @@ const newsData_gu = [
     "time": "2026-01-10T12:13:38.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "અભિષેક-રિંકુ નહીં, T20 વર્લ્ડ કપમાં આ ખેલાડી હશે ભારતનું સૌથી મોટું હથિયાર, શોએબ અખ્તરે કર્યો મોટો દાવો",
-    "desc": "T20 વર્લ્ડ કપ 2026નું રણશિંગુ ફૂંકાઈ ગયું છે. આખી દુનિયાની નજર ભારતીય ટીમ પર ટકેલી છે, કારણ કે ભારત ડિફેન્ડિંગ ચેમ્પિયન હોવાની સાથે સાથે આગામી ટુર્નામેન્ટનું યજમાન પણ છે. પાકિસ્તાનના પૂર્વ ફાસ્ટ બોલર શોએબ અખ્તરે ભારતના સૌથી મોટા 'મેચ વિનર' ખેલાડી વિશે વાત કરી છે. તેમણે અભિષેક શર્મા કે રિંકુ સિંહનું નહીં, પરંતુ કોઈ અન્ય ખેલાડીનું નામ લીધું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/not-abhishek-or-rinku-this-player-will-be-indias-biggest-weapon-in-the-t20-world-cup-shoaib-akhtar-makes-a-big-claim-461136 ",
-    "time": "2026-01-10T12:11:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ભારત સાથેની લડાઈ બાંગ્લાદેશને પડશે ભારે, ભારતીય કંપની પાછી ખેંચશે સ્પોન્સરશિપ !",
-    "desc": "ભારત અને બાંગ્લાદેશ વચ્ચે બધું બરાબર ચાલી રહ્યું નથી. આ દરમિયાન એક મોટા સમાચાર સામે આવી રહ્યા છે કે મેરઠ સ્થિત એક જાણીતી ક્રિકેટ ઈક્વિપમેન્ટ કંપની બાંગ્લાદેશી ખેલાડીઓ સાથેની તેની સ્પોન્સરશિપ સમાપ્ત કરી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/bangladesh-cricketers-to-lose-indian-sponsorship-amid-tensions-with-india-461128 ",
-    "time": "2026-01-10T11:38:34.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "અનુ અને આર્યાના ખાનગી પળોનો વીડિયો પર મીરાનો ખતરનાક પ્લાન, સીરિયલમાં આવવાનો છે મોટો વળાંક",
     "desc": "ટીવી સીરિયલ 'તુમ સે તુમ તક'માં એક મોટો વળાંક આવવાનો છે. મીરાએ આર્ય અને અનુ વચ્ચે એક ખાનગી ક્ષણનો વીડિયો રેકોર્ડ કરી લીધો છે. હવે, તે અનુને બદનામ કરવા માટે આ વિડિઓ લીક કરશે. વધુમાં, અનુના જીવનમાં એક નવી વ્યક્તિ પ્રવેશવા જઈ રહી છે.",
@@ -403,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/meera-plan-on-video-of-arya-and-anu-private-moments-a-big-twist-is-coming-in-tumm-se-tumm-tak-serial-461124 ",
     "time": "2026-01-10T11:19:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "શુભમન ગિલે T20 વર્લ્ડ કપમાંથી બહાર થવા પર તોડ્યું મૌન, જાણો શું કહ્યું",
-    "desc": "7 ફેબ્રુઆરીથી T20 વર્લ્ડ કપ 2026 શરૂ થઈ રહ્યો છે. ટીમ ઈન્ડિયાની જાહેરાત જાન્યુઆરીના પહેલા અઠવાડિયામાં કરવામાં આવી હતી. જેમાં શુભમન ગિલનો સમાવેશ કરવામાં આવ્યો નહોતો. પસંદગીકારોના આ નિર્ણય પર ગિલે પહેલીવાર પોતાનું મૌન તોડ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/captain-shubman-gill-breaks-silence-t20-world-cup-snub-team-india-461116 ",
-    "time": "2026-01-10T09:51:16.000Z"
   },
   {
     "cat": "World",
@@ -430,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/suzuki-first-electric-scooter-e-access-launched-know-price-and-features-461106 ",
     "time": "2026-01-10T08:27:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ક્યાંક હત્યા ન થઈ જાય! ડરને કારણે પતિએ પત્નીના પ્રેમી સાથે કરાવી દીધા લગ્ન",
-    "desc": "જૌનપુરનો આ મામલો ખૂબ ચર્ચામાં છે. પતિની સાથે મુંબઈમાં રહેતી પત્નીએ પોતાના પ્રેમી સાથે ભાગી ગામમાં પહોંચી ગઈ હતી. પતિને આ વાતની જાણ થતાં તેણે બંનેના લગ્ન કરાવી દીધા અને બાળકને પોતાની સાથે રાખ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/husband-arranges-wife-marriage-with-lover-fear-of-murder-in-jaunpur-up-461105 ",
-    "time": "2026-01-10T08:06:27.000Z"
   },
   {
     "cat": "Entertainment",
@@ -574,15 +565,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/24k-gold-price-today-venezuela-cheapest-gold-in-the-world-cup-of-tea-cost-460810 ",
     "time": "2026-01-08T05:19:26.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ભારતનું નેતૃત્વ અને પીએમ મોદીનું વિઝન...અમેરિકા કેમ અલગ થઈ ગયું આ વૈશ્વિક સંગઠનથી?",
-    "desc": "ડોનાલ્ડ ટ્રમ્પ જ્યારથી અમેરિકાના રાષ્ટ્રપતિ બન્યા છે ત્યારથી અમેરિકાને ફરીથી શક્તિશાળી બનાવવા ધમપછાડા કરી રહ્યા છે. અમેરિકા ફર્સ્ટ નીતિને આગળ ધપાવવા માટે તેમણે વધુ એક પગલું ભર્યું છે અને 66 વૈશ્વિક સંસ્થાઓમાંથી હટવાનું નક્કી કરી લીધુ છે. જેમાં ભારતના નેતૃત્વવાળું ઈન્ટરનેશનલ સોલર અલાયન્સ પણ સામેલ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/us-to-withdraw-support-from-66-international-organisations-include-india-led-international-solar-alliance-460803 ",
-    "time": "2026-01-08T04:08:41.000Z"
   },
   {
     "cat": "Tech",

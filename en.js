@@ -1,5 +1,203 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "CPI(M) accuses Congress of lack of transparency in fund use",
+    "desc": "Minister M.B. Rajesh says Opposition Leader V.D. Satheesan is ‘tying himself in knots trying to explain the lack of transparency’ in use of significant funds collected by Congress from public in the name of Wayanad landslide rehabilitation",
+    "img": "https://th-i.thgim.com/public/incoming/miz0vb/article70504237.ece/alternates/LANDSCAPE_1200/10018_13_9_2025_18_45_2_1_MB_RAJESH_01.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/wayanad-rehabilitation-cpim-accuses-congress-of-lack-of-transparency-in-fund-use/article70504174.ece",
+    "time": "2026-01-13T06:18:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When height gives rise to hope as India Open debut looms",
+    "desc": "Towering 6'5\" Ayush Shetty is emerging as India's next badminton star, recently breaking into the top 30 and winning his first BWF World Tour title. His impressive victory over Olympic medalist Lee Zii Jia signals a new era for Indian men's singles. Shetty, inspired by Viktor Axelsen, aims for the top 10 this year.",
+    "img": "https://static.toiimg.com/photo/msid-126498200,imgsize-53430.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/ayush-shetty-when-height-gives-rise-to-hope-as-india-open-debut-looms/articleshow/126498141.cms",
+    "time": "2026-01-13T06:00:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Indian High Commissioner meets Kenya's Prime Cabinet Secretary; sides agree to convene Joint Commission for Cooperation",
+    "desc": "High Commissioner of India to Kenya Adarsh Swaika met Kenya's Prime Cabinet Secretary and Cabinet Secretary for Foreign and Diaspora Affairs Musalia W Mudavadi on Monday, with both sides agreeing to convene the Kenya-India Joint Commission for Cooperation in New Delhi as part of efforts to further strengthen bilateral ties between the two nations.",
+    "img": "https://static.toiimg.com/photo/msid-126498124,imgsize-634077.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/indian-high-commissioner-meets-kenyas-prime-cabinet-secretary-sides-agree-to-convene-joint-commission-for-cooperation/articleshow/126498100.cms",
+    "time": "2026-01-13T05:54:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What has Virat Kohli changed? R Ashwin decodes star batter's ODI dominance",
+    "desc": "Virat Kohli's masterful 93 guided India to a four-wicket victory, chasing 301 in the first ODI. His seventh consecutive fifty-plus score highlights remarkable consistency. Ravichandran Ashwin lauded Kohli's liberated approach, attributing it to enjoying the game. Shreyas Iyer also impressed on his comeback with a crucial 49, showcasing his ODI reliability.",
+    "img": "https://static.toiimg.com/photo/msid-126497917,imgsize-34922.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/what-has-virat-kohli-changed-r-ashwin-decodes-star-batters-odi-dominance/articleshow/126497881.cms",
+    "time": "2026-01-13T05:44:12.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "G7, other allies discuss ways to reduce dependence on Chinese rare earths",
+    "desc": "“Scott Bessent sought to discuss solutions to secure and diversify supply chains ​for critical minerals, especially rare earth elements, and expressed optimism that countries would pursue prudent de-risking over ⁠decoupling from China” says U.S. Treasury",
+    "img": "https://th-i.thgim.com/public/news/national/i3u90u/article70504152.ece/alternates/LANDSCAPE_1200/iStock-2247426624.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/g7-other-allies-discuss-ways-to-reduce-dependence-on-chinese-rare-earths/article70504070.ece",
+    "time": "2026-01-13T05:41:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How Jason Isaacs feels over ‘The White Lotus Season 4’",
+    "desc": "In a candid moment, Jason Isaacs admits to feeling 'intensely jealous' of the ongoing filming of 'The White Lotus Season 4' at the stunning Château de La Messardière in Saint-Tropez. He praises the brilliant storytelling of Mike White but can't shake the feeling of missing out on the charm and drama that the iconic French setting is sure to inspire.",
+    "img": "https://static.toiimg.com/photo/msid-126497841,imgsize-26070.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-white-lotus-season-4-why-jason-isaacs-feels-pure-jealousy-over-the-shows-location/articleshow/126497819.cms",
+    "time": "2026-01-13T05:36:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chitrangda says Dhurandhar is a 'wake-up call for everyone'",
+    "desc": "Chitrangda Singh praised 'Dhurandhar' for its exceptional writing, declaring it the cornerstone of the film's triumph. She urged creatives in the industry to elevate their screenplays, stressing that it shouldn't fall solely on actors to redeem films lacking solid narratives. With 'Dhurandhar,' Singh sees a promising trend towards prioritizing storytelling in cinema.",
+    "img": "https://static.toiimg.com/photo/msid-126497601,imgsize-46064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/chitrangda-singh-says-dhurandhar-is-a-big-wake-up-call-for-everyone-adds-star-power-cant-fix-a-weak-screenplay/articleshow/126497601.cms",
+    "time": "2026-01-13T05:31:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "The wax world of Madame Tussauds",
+    "desc": "Profound practice rising through a tumultuous revolution and art employed for years of nomadic lifestyle, Madame Tussauds wax works show a rich legacy of art, politics, and entertainment. What is the world behind its opulent interiors?",
+    "img": "https://th-i.thgim.com/public/children/q2ua64/article70456190.ece/alternates/LANDSCAPE_1200/MTH_Logo.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/children/the-wax-world-of-madame-tussauds/article70449130.ece",
+    "time": "2026-01-13T05:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Fans react to Mike &amp; Eleven’s heartbreaking bts scene",
+    "desc": "A resurfaced behind-the-scenes clip of 'Stranger Things' season 5's table read reveals the emotional final exchange between Mike and Eleven. Fans are calling it the most gut-wrenching moment of the finale, with Millie Bobby Brown's raw delivery and Finn Wolfhard's reaction deeply affecting viewers and reigniting debate over Eleven's fate.",
+    "img": "https://static.toiimg.com/photo/msid-126496182,imgsize-558581.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/heartbreaking-stranger-things-season-5-bts-clip-shows-mike-and-elevens-final-table-read-netizens-react/articleshow/126496188.cms",
+    "time": "2026-01-13T05:24:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP complains to ECI over 'illegal' hoardings put up by NCP, other parties in Pune",
+    "desc": "In the run-up to the municipal corporation elections, the Nationalist Congress Party and other parties have put up unauthorised flex banners across the city. This amounts to a violation of the Model Code of Conduct, says Maharashtra BJP general secretary Rajesh Pande",
+    "img": "https://th-i.thgim.com/public/news/national/7ngmnk/article70504083.ece/alternates/LANDSCAPE_1200/ELECTION%20COMMISSION%20%20DELHI%202025_13_08_9.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/bjp-complains-to-eci-over-illegal-hoardings-put-up-by-ncp-other-parties-in-pune/article70504051.ece",
+    "time": "2026-01-13T05:14:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Identify OCI athletes to shore up India’s Olympic ambitions",
+    "desc": "The Indian government is considering allowing Overseas Citizens of India (OCI) and Persons of Indian Origin (PIO) athletes to represent the country in sports where talent is lacking. This strategic move aims to bolster India's medal prospects at international events like the Olympics, with sports federations encouraged to identify and approach eligible athletes.",
+    "img": "https://static.toiimg.com/photo/msid-126497252,imgsize-70186.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/govt-tells-nsfs-to-approach-oci-athletes-to-play-for-india-for-boosting-olympic-ambitions/articleshow/126497215.cms",
+    "time": "2026-01-13T04:57:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gambhir slammed for risking Sundar; reminded of 'injured' Gill",
+    "desc": "Washington Sundar's decision to bat with a visible injury in the first ODI against New Zealand has sparked debate. Former cricketer Mohammad Kaif criticised the team management's handling, citing a double standard compared to Shubman Gill's injury management. Kaif argued that sending an injured Sundar risked aggravating his injury unnecessarily.",
+    "img": "https://static.toiimg.com/photo/msid-126497206,imgsize-42942.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/gautam-gambhir-slammed-for-risking-washington-sundar-reminded-of-injured-shubman-gill/articleshow/126497172.cms",
+    "time": "2026-01-13T04:54:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Virat calls his lookalike 'Chota Cheeku'- WATCH",
+    "desc": "Cricket icon Virat Kohli recently charmed fans by interacting with his young lookalike, Garvit Uttam. The boy, who shares an uncanny resemblance, was thrilled when Kohli acknowledged him, even affectionately calling him \"Chota Cheeku.\" Garvit, an aspiring cricketer himself, expressed his admiration for Kohli's style and aura, recounting their memorable encounter.",
+    "img": "https://static.toiimg.com/photo/msid-126497161,imgsize-46256.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-calls-his-lookalike-chota-cheeku-boy-floored-by-cricketers-sweet-gesture-watch/articleshow/126496826.cms",
+    "time": "2026-01-13T04:52:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What is the gold &amp; silver price outlook in the near-term?",
+    "desc": "Praveen Singh of Mirae Asset Sharekhan is of the view that gold and silver prices may continue to rise, though he adds that the risk appetite in global markets is improving. Here’s his outlook on gold and silver prices:",
+    "img": "https://static.toiimg.com/photo/msid-126496148,imgsize-77120.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-where-are-gold-rates-headed-on-january-13-2026-and-in-the-near-term-mcx-gold-silver-prices/articleshow/126496127.cms",
+    "time": "2026-01-13T04:45:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Who is Sophie Shine? Shikhar Dhawan announces his engagement",
+    "desc": "In an exciting twist in his personal life, former Indian cricket star Shikhar Dhawan has officially gotten engaged to Sophie Shine, a well-known Irish influencer. Shine unveiled her stunning diamond ring as they celebrated this monumental occasion. Recently relocating to India, she also serves as the COO at a company.",
+    "img": "https://static.toiimg.com/photo/msid-126496873,imgsize-41628.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/who-is-sophie-shine-former-indian-cricketer-shikhar-dhawan-announces-his-engagement-to-irish-social-media-personality/articleshow/126496873.cms",
+    "time": "2026-01-13T04:42:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "NRAI assures female shooters of safety after coach assault case",
+    "desc": "A recent alleged assault on a minor shooter by a national coach has prompted the NRAI to reaffirm its commitment to athlete safety. President Kalikesh Narayan Singh Deo assured female shooters of a secure environment, promising stricter SOPs and swift action against any wrongdoers. The federation has suspended the accused coach pending investigation.",
+    "img": "https://static.toiimg.com/photo/msid-126496991,imgsize-17088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/nrai-assures-female-shooters-of-safety-and-stronger-sops-after-coach-assault-case/articleshow/126496931.cms",
+    "time": "2026-01-13T04:41:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Paper tigers': Gavaskar unloads on England as Bazball loses its bite",
+    "desc": "Sunil Gavaskar has heavily criticised Ben Stokes' England following their 4-1 Ashes series defeat in Australia, labeling them \"paper tigers.\" He argued that the Bazball approach has lost its effectiveness, with teams now able to counter England's aggressive style, especially on challenging pitches. Gavaskar also pointed to a lack of accountability in the English batting lineup.",
+    "img": "https://static.toiimg.com/photo/msid-126496668,imgsize-369498.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ashes/paper-tigers-exposed-sunil-gavaskar-unloads-on-englands-ashes-collapse-as-bazball-loses-its-bite/articleshow/126496643.cms",
+    "time": "2026-01-13T04:19:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Disha dating Talwinder? Couple spotted holding hands",
+    "desc": "Disha Patani's masked companion has seemingly been identified as Punjabi singer Talwinder Singh Sidhu at a recent wedding. Videos show the actress holding hands with the singer, sans his usual face covering, sparking dating rumors. This sighting follows previous instances of them being seen together, adding to ongoing speculation about Patani's personal life.",
+    "img": "https://static.toiimg.com/photo/msid-126496621,imgsize-16954.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/disha-patani-dating-talwinder-singh-sidhu-actor-spotted-holding-hands-with-punjabi-singer-at-nupur-sanons-wedding/articleshow/126496194.cms",
+    "time": "2026-01-13T04:14:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Udhar dekh mera duplicate baitha hai': Virat Kohli tells Rohit Sharma",
+    "desc": "A young fan, nicknamed 'Mini Virat' for his striking resemblance to the Indian batting icon, had a memorable encounter with Virat Kohli during a training session. Kohli paused to acknowledge the boy, posing for pictures and sharing laughs, an interaction that quickly went viral online. The youngster revealed Kohli playfully pointed him out to Rohit Sharma, calling him 'Chhota Chiku'.",
+    "img": "https://static.toiimg.com/photo/msid-126496617,imgsize-27604.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohli-spots-his-lookalike-tells-rohit-sharma-udhar-dekh-mera-duplicate-baitha-hai/articleshow/126496588.cms",
+    "time": "2026-01-13T04:14:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Is Joe Keery really headed to the MCU as Ghost Rider?",
+    "desc": "Rumors are swirling that Joe Keery, known for his iconic portrayal of Steve Harrington, could be stepping into the Marvel Cinematic Universe, with many fans speculating he might take on the role of Ghost Rider.",
+    "img": "https://static.toiimg.com/photo/msid-126496612,imgsize-21202.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/joe-keery-in-mcu-is-the-stranger-things-breakout-actor-set-to-star-as-ghost-rider/articleshow/126496594.cms",
+    "time": "2026-01-13T04:14:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Neighbours to depose as Kolkata Police investigates ED searches at I-PAC chief’s residence",
+    "desc": "“Police have decided to record the statements of Pratik Jain's neighbours to ascertain whether they witnessed any part of the searches or the manner in which the ED officials entered the building located on Loudon Street in Kolkata,” says official",
+    "img": "https://th-i.thgim.com/public/incoming/t7n46t/article70503955.ece/alternates/LANDSCAPE_1200/PTI01_11_2026_000598B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/neighbours-to-depose-as-kolkata-police-investigates-ed-searches-at-i-pac-chiefs-residence/article70503941.ece",
+    "time": "2026-01-13T04:12:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Gen-Z protests in 3 Asian nations must be examined: Manish Tewari",
+    "desc": "Congress MP Manish Tewari urged a thorough study of recent Gen-Z protests in South Asia, questioning if they were organic or manipulated. He highlighted the fall of governments in Sri Lanka, Nepal, and Bangladesh, suggesting a need to differentiate genuine grievances from weaponized narratives. Tewari also expressed optimism about India's relationship with Bangladesh despite current tensions.",
+    "img": "https://static.toiimg.com/photo/msid-126496539,imgsize-894752.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/gen-z-protests-in-3-asian-nations-must-be-examined-manish-tewari/articleshow/126496536.cms",
+    "time": "2026-01-13T04:11:30.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Owen Cooper’s viral speech stuns fans",
     "desc": "Owen Cooper made history at the 83rd Golden Globes. The 16-year-old British actor won Best Supporting Actor on Television. He received the award for his role in 'Adolescence'. Cooper's speech, filled with humor and gratitude, went viral. He thanked mentors and family for their support. His win highlights his talent and grounded nature.",
@@ -28,7 +226,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Shreyas Iyer on the brink of a massive milestone ahead of 2nd ODI vs NZ",
+    "title": "Shreyas Iyer on the brink of a massive milestone",
     "desc": "Shreyas Iyer is on the cusp of a significant ODI milestone, needing just 34 runs to reach 3000. His recent 49 in the first ODI against New Zealand showcased his return to form after injury. Iyer has become a vital middle-order batsman, consistently performing for India since his 2017 debut.",
     "img": "https://static.toiimg.com/photo/msid-126496085,imgsize-164566.cms",
     "src": "indiatimes.com",
@@ -154,42 +352,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Jana Nayagan actor addresses CBFC row; says, 'Your voting...'",
-    "desc": "In a candid interview, actor Jason Shah expressed his frustration over the persistent negative campaigns targeting 'Jana Nayagan', highlighting it as a recurring issue in the film industry. Despite the controversies stirred by the CBFC related to religious and political matters, he remains hopeful for the film's anticipated release on January 9, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-126494985,imgsize-38040.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-actor-jason-shah-addresses-vijay-starrers-cbfc-controversy-says-your-voting-causes-these-kinds-of-/articleshow/126494985.cms",
-    "time": "2026-01-13T01:28:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nick Jonas steps out of Golden Globes alone- WATCH",
-    "desc": "Priyanka Chopra and Nick Jonas graced the Golden Globes 2026, turning the event into a stylish date night. While Priyanka presented, Nick was later seen taking a brief break, sparking fan concern. The couple then attended Nikki Glaser's after-party, where Priyanka showcased a dazzling silver outfit.",
-    "img": "https://static.toiimg.com/photo/msid-126494984,imgsize-41364.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/nick-jonas-steps-out-of-golden-globes-ceremony-alone-after-glamorous-appearance-with-priyanka-chopra/articleshow/126494859.cms",
-    "time": "2026-01-13T01:23:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘One Piece S 2’ teaser raises stakes with baroque works villains",
-    "desc": "The live-action 'One Piece' Season 2 teaser has arrived, introducing the formidable Baroque Works assassins who will challenge Monkey D. Luffy and his Straw Hat crew. Set to premiere on March 10, 2026, the season promises intense battles as the pirates navigate the treacherous Grand Line, facing new foes like Miss Wednesday and Mr. 3.",
-    "img": "https://static.toiimg.com/photo/msid-126494942,imgsize-698033.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/one-piece-season-2-teaser-unleashes-baroque-works-assassins-on-straw-hats-watch/articleshow/126494945.cms",
-    "time": "2026-01-13T01:10:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Sarvam Maya' BO day 19: Crosses Rs 1 crore",
-    "desc": "Nivin Pauly's 'Sarvam Maya' continues its successful run, nearing Rs 66.30 crore in India after 19 days. Despite weekday dips, the film maintained steady weekend collections and positive audience reception, praised for its blend of horror, comedy, and feel-good elements. Directed by Akhil Sathyan, the movie is resonating well with family audiences.",
-    "img": "https://static.toiimg.com/photo/msid-126494882,imgsize-16078.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/sarvam-maya-box-office-collections-day-19-monday-numbers-on-lower-side-still-crosses-rs-1-crore/articleshow/126494882.cms",
-    "time": "2026-01-13T00:59:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Dhurandhar' nears Rs 1,300 crore mark at box office",
     "desc": "Aditya Dhar's 'Dhurandhar', starring Ranveer Singh and Akshaye Khanna, continues its phenomenal run, crossing the Rs 800 crore nett mark in India. Despite a slight dip in its sixth week, the film's total collections are soaring, with a worldwide gross estimated at over Rs 1258 crore, solidifying its status as a record-breaking Bollywood blockbuster.",
     "img": "https://static.toiimg.com/photo/msid-126494746,imgsize-25008.cms",
@@ -199,30 +361,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Parasakthi' BO day 3: SK film struggles in Monday test",
-    "desc": "Sivakarthikeyan's political drama 'Parasakthi' opened strongly, collecting ₹12.5 crores on day one. However, a significant drop occurred on Monday, with earnings falling to ₹2.75 crores, bringing the three-day total to ₹25.35 crores. Mixed audience reactions and lukewarm occupancy suggest the film needs strong word-of-mouth to sustain its box office run.",
-    "img": "https://static.toiimg.com/photo/msid-126494715,imgsize-45906.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-box-office-collections-day-3-sivakarthikeyan-film-struggles-in-monday-test-total-reaches-rs-25-35-crores/articleshow/126494715.cms",
-    "time": "2026-01-13T00:20:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Prabhas' film CRASHES on 1st Monday",
     "desc": "Despite a promising start of Rs 53.75 crore on its opening weekend, Prabhas's 'The Raja Saab' encountered a steep decline, managing just THIS amount on its fourth day. The horror-comedy's overall earnings have reached over Rs 110 crore, but this falls short of the blockbuster status anticipated, even with an impressive cast and a sequel in the works.",
     "img": "https://static.toiimg.com/photo/msid-126494686,imgsize-60356.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/the-raja-saab-box-office-collection-day-4-prabhas-starrer-crashes-on-its-first-monday-but-outperforms-dhurandhar/articleshow/126494686.cms",
     "time": "2026-01-13T00:16:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'MSVG' BO day 1: Chiranjeevi film opens big",
-    "desc": "Chiranjeevi and Venkatesh starrer 'Mana ShankaraVaraprasad Garu' has roared at the box office, raking in Rs 37.10 crores on its opening day, including previews. The film witnessed strong occupancy across Telugu states, with evening and night shows performing exceptionally well. Directed by Anil Ravipudi, the movie has garnered mixed reviews but shows significant public interest.",
-    "img": "https://static.toiimg.com/photo/msid-126494639,imgsize-66314.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/mana-shankaravaraprasad-garu-box-office-collections-day-1-chiranjeevi-film-opens-big-rs-37-crores-on-first-day/articleshow/126494639.cms",
-    "time": "2026-01-13T00:01:37.000Z"
   },
   {
     "cat": "Sports",
@@ -241,24 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/second-to-none-ravi-shastri-names-one-habit-that-separates-virat-kohli-from-the-rest/articleshow/126485722.cms",
     "time": "2026-01-12T23:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "How Dolly Chaiwala turned a Nagpur tapri into a brand",
-    "desc": "Long before the internet crowned him a sensation, Sunil Patil was just another teenager helping out at a tea stall in Nagpur’s Sadar area. Money was scarce, opportunities even scarcer. He didn’t have formal education on his side, but what he did have was instinct — the instinct to turn even the most ordinary job into a performance. With barely Rs 7 in his pocket and a kettle in hand, Sunil began serving tea. What followed was the birth of Dolly Chaiwala.",
-    "img": "https://static.toiimg.com/photo/msid-126493428,imgsize-94388.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/from-rs-7-to-rs-5-lakh-an-appearance-how-dolly-chaiwala-turned-a-nagpur-tapri-into-a-nationwide-brand/articleshow/126493222.cms",
-    "time": "2026-01-12T22:25:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Emotional Suniel Shetty on Ahaan’s struggles after Tadap",
-    "desc": "Suniel Shetty turned visibly emotional while speaking about the difficult phase his son Ahaan Shetty went through after his debut film Tadap failed to make an impact. Addressing the audience at the song launch of Border 2, the actor shared a candid father’s perspective on how uncertainty and waiting can affect even star kids.",
-    "img": "https://static.toiimg.com/photo/msid-126492230,imgsize-81456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shetty-gets-emotional-over-son-ahaan-shettys-struggles-after-tadap-says-border-2-came-at-the-right-time/articleshow/126492222.cms",
-    "time": "2026-01-12T21:37:01.000Z"
   },
   {
     "cat": "Politics",
@@ -342,15 +468,6 @@ const newsData_en = [
     "time": "2026-01-12T17:06:31.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Donald Trump’s legal move against Jerome Powell sharpens rate-cut battle; raises questions over central bank independence",
-    "desc": "The US Justice Department's threat to indict Federal Reserve Chair Jerome Powell over building renovations has sparked a major clash with the White House. Powell claims this is a pretext to force interest rate cuts, asserting his commitment to independent monetary policy. This unprecedented challenge to the Fed's autonomy raises concerns for markets and the broader economy.",
-    "img": "https://static.toiimg.com/photo/msid-126488451,imgsize-918823.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/fed-showdown-donald-trumps-legal-move-against-powell-sharpens-rate-cut-battle-raises-questions-over-central-bank-independence/articleshow/126488433.cms",
-    "time": "2026-01-12T16:37:44.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "‘Chaos may happen’ if Kuki-Zo MLAs join Manipur govt., says KZC chairman",
     "desc": "Henlianthang Thanglet, chief of the conglomerate of Kuki-Zo bodies, said in an interview with The Hindu that it was the ten Kuki-Zo MLAs who first wrote to the Prime Minister for a separate administration; of the 10 MLAS, 7 belong to the BJP",
@@ -385,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bangladeshs-t20-world-cup-matches-to-remain-in-india-security-risk-adjudged-at-low-to-moderate-icc-source/articleshow/126487075.cms",
     "time": "2026-01-12T15:00:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shikhar Dhawan announces engagement to Sophie Shine two years after divorce",
-    "desc": "Cricketer Shikhar Dhawan announced his engagement to long-time partner Sophie Shine, an Irish product consultant, via a joint Instagram post. The couple, who met in Dubai, shared their joy with fans, marking a new chapter after Dhawan's retirement from cricket and recent divorce. While wedding date speculation exists, no official announcement has been made.",
-    "img": "https://static.toiimg.com/photo/msid-126487009,imgsize-84420.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/shared-smiles-to-shared-dreams-shikhar-dhawan-announces-engagement-to-sophie-shine-two-years-after-divorce/articleshow/126487014.cms",
-    "time": "2026-01-12T14:55:13.000Z"
   },
   {
     "cat": "Sports",
@@ -432,33 +540,6 @@ const newsData_en = [
     "time": "2026-01-12T11:23:12.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'ICC's existence is unnecessary': Ex-Pakistan cricketer's explosive attack on BCCI dominance",
-    "desc": "Former Pakistan spinner Saeed Ajmal has voiced strong criticism of the ICC, suggesting it's losing relevance due to perceived Indian board dominance. He questioned the council's impartiality, citing India's refusal to play in Pakistan as evidence of the ICC's lack of control. Ajmal believes many nations privately agree but fear speaking out.",
-    "img": "https://static.toiimg.com/photo/msid-126482978,imgsize-122204.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/iccs-existence-is-unnecessary-ex-pakistan-cricketers-explosive-attack-on-bcci-dominance/articleshow/126482921.cms",
-    "time": "2026-01-12T11:15:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan's Mohammad Rizwan gets retired out after slow knock",
-    "desc": "Mohammad Rizwan became the first overseas player in the BBL to be retired out after struggling to accelerate the scoring for Melbourne Renegades. He managed 26 runs off 23 balls, and his departure did little to boost the team's momentum, as they finished on 170/8. Rizwan's BBL campaign has been below expectations with 167 runs in eight matches.",
-    "img": "https://static.toiimg.com/photo/msid-126482419,imgsize-39172.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/big-bash-pakistans-mohammad-rizwan-gets-retired-out-after-slow-knock-watch/articleshow/126482347.cms",
-    "time": "2026-01-12T10:56:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Almost like Dhoni': Ex-India cricketer lauds finisher Rahul's single taking ability",
-    "desc": "KL Rahul showcased remarkable composure and adaptability in India's tense four-wicket victory over New Zealand. He expertly navigated a challenging chase, prioritizing strike rotation and protecting his partners before unleashing his finishing skills in the final overs. Chopra lauded Rahul's maturity and game awareness, comparing his calm demeanor to MS Dhoni's.",
-    "img": "https://static.toiimg.com/photo/msid-126481824,imgsize-148302.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/almost-like-ms-dhoni-ex-india-cricketer-lauds-finisher-kl-rahuls-single-taking-ability/articleshow/126481849.cms",
-    "time": "2026-01-12T10:29:24.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump team ramps up attack on Federal Reserve Chair Powell with criminal indictment threat",
     "desc": "At stake is the independence of the Fed — the world’s most important central bank — to set U.S. monetary policy without undue influence by elected officials like Mr. Trump who would prefer cheaper borrowing costs for their political appeal",
@@ -484,15 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/mark-ruffalo-wanda-sykes-jean-smart-natasha-lyonne-wear-pins-protesting-ice-on-the-golden-globes-red-carpet/article70500644.ece",
     "time": "2026-01-12T10:18:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Is Virat Kohli arrogant?' Ajinkya Rahane gives a candid answer – Watch",
-    "desc": "Ajinkya Rahane offers a unique insight into Virat Kohli's mindset, revealing his greatness stems from a misunderstood 'attitude of learning and never giving up.' Rahane explains Kohli's pre-match withdrawal isn't arrogance but a method to enter his zone. Kohli's relentless work ethic and drive for improvement continue to define his record-breaking career.",
-    "img": "https://static.toiimg.com/photo/msid-126481127,imgsize-334422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/is-virat-kohli-arrogant-ajinkya-rahane-gives-a-candid-answer-watch/articleshow/126481099.cms",
-    "time": "2026-01-12T10:06:47.000Z"
   },
   {
     "cat": "Entertainment",
@@ -684,15 +756,6 @@ const newsData_en = [
     "time": "2026-01-10T09:46:47.000Z"
   },
   {
-    "cat": "World",
-    "title": "Trump repeats claim of stopping India-Pakistan conflict, says Obama ‘didn't do anything’ to win Nobel",
-    "desc": "The U.S. president also said that Pakistan Prime Minister Shehbaz Sharif, who had visited the White House last year, credited him for saving millions of lives by stopping the conflict between the two nuclear-armed neighbours",
-    "img": "https://th-i.thgim.com/public/incoming/bhytxw/article70493682.ece/alternates/LANDSCAPE_1200/AP01_10_2026_000005B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-repeats-claim-of-stopping-india-pakistan-conflict-says-obama-didnt-do-anything-to-win-nobel/article70493663.ece",
-    "time": "2026-01-10T05:01:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Aryna Sabalenka advances to the Brisbane International final after beating Muchová",
     "desc": "Sabalenka, defending Brisbane champion, clinched the semi-final at Pat Rafter Arena on her fourth match point to advance to January 11 final against the winner of a later semi-final between fourth-seeded Jessica Pegula and Marta Kostyuk",
@@ -835,68 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
   }
 ];
