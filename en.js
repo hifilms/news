@@ -1,5 +1,68 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Dev Anand's friend recalls how Raj Kapoor snubbed Vijay Anand after praising 'Guide'",
+    "desc": "Filmmaker Raj Kapoor, known as 'The Showman,' once praised Vijay Anand's directorial skills after watching 'Guide' at 6 am, even crying on the phone to Dev Anand. However, at social gatherings, Kapoor feigned ignorance of Vijay, asking about his education and work, leaving the talented director embarrassed.",
+    "img": "https://static.toiimg.com/photo/msid-126534031,imgsize-44980.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/drunk-raj-kapoor-called-dev-anand-cried-and-praised-guide-but-snubbed-vijay-anand-he-would-become-insecure-with-fellow-filmmakers/articleshow/126534026.cms",
+    "time": "2026-01-14T20:36:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Sharmila wanted to wear a two-piece swimsuit, Shammi suggested hellicopter entry'",
+    "desc": "Shakti Samanta's son revealed Sharmila Tagore initially desired a bikini for 'An Evening in Paris', but the filmmaker suggested a one-piece. Shammi Kapoor, initially fearful of a helicopter stunt, fortified himself with brandy. Samanta himself recalled Tagore's initial insistence on a two-piece for a song, which he ultimately convinced her against for censor reasons.",
+    "img": "https://static.toiimg.com/photo/msid-126533987,imgsize-30188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sharmila-tagore-wanted-to-wear-a-two-piece-swimsuit-shammi-kapoor-suggested-his-entry-in-a-hellicopter-despite-having-vertigo-recalls-shakti-samantas-son/articleshow/126533985.cms",
+    "time": "2026-01-14T20:13:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Being easy to work with is often valued more than honesty’",
+    "desc": "Bollywood often celebrates glamour, success, and box-office numbers, but behind the spotlight lie struggles that rarely make it into public conversations. In an exclusive interview with ETimes, Alexx O’Nell—an American-born actor and musician who has built a prolific, nearly two-decade-long career across Indian cinema in languages including Hindi, Bengali, Tamil, and Malayalam—speaks candidly about loneliness, judgment, silence, and the structural changes he believes can make the film industry healthier for the next generation.",
+    "img": "https://static.toiimg.com/photo/msid-126533751,imgsize-17310.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alexx-onell-as-a-foreigner-in-indian-cinema-being-easy-to-work-with-is-often-valued-more-than-honesty-exclusive/articleshow/126533656.cms",
+    "time": "2026-01-14T19:27:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Zeenat Aman was not the first choice for 'Hare Rama Hare Krishna'",
+    "desc": "Dev Anand's iconic film 'Hare Rama Hare Krishna' almost starred Zaheeda, who withdrew due to discomfort playing his sister. Initially, S.D. Burman strongly objected to the film's controversial original plot but later suggested his son, R.D. Burman, for the music. The film also faced challenges filming at Nepal's Pashupatinath Temple, requiring special permission for non-Hindu artistes.",
+    "img": "https://static.toiimg.com/photo/msid-126533588,imgsize-34686.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zeenat-aman-was-not-the-first-choice-for-hare-rama-hare-krishna-sd-burman-warned-dev-anand-from-making-hare-rama-hare-krishna-when-he-narrated-the-story-called-it-disgusting/articleshow/126533099.cms",
+    "time": "2026-01-14T19:07:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tej Pratap urges younger brother Tejashwi Yadav to merge RJD into his party",
+    "desc": "He said this on the occasions of Dahi-Chura feast which he has organised at his residence in Patna. Even his father and RJD Chief Lalu Prasad also attended the feast who had once expelled him from the party and snapped even family ties with him.",
+    "img": "https://th-i.thgim.com/public/incoming/vx6st9/article70511147.ece/alternates/LANDSCAPE_1200/20260113390L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/tej-pratap-urges-younger-brother-tejashwi-yadav-to-merge-rjd-into-his-party/article70510106.ece",
+    "time": "2026-01-14T19:04:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala Kalolsavam 2026",
+    "desc": "The 64th State School Arts Festival opens in Thrissur with dazzling performances by high school girls in the light music contest, alongside Mohiniyattam, group dance, and myriad art forms. Thousands of participants and spectators celebrate the talent, culture, and rich artistic heritage.",
+    "img": "https://th-i.thgim.com/public/incoming/27s3dh/article70511149.ece/alternates/LANDSCAPE_1200/group%20dance_1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-kalolsavam-2026-from-melody-to-motion-students-dazzle-on-festival-stage/article70510969.ece",
+    "time": "2026-01-14T19:01:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dev Anand was left waiting outside Amitabh Bachchan’s Jalsa",
+    "desc": "Dev Anand’s 2007 autobiography launch was expected to be a star-studded celebration, but it quietly turned into an awkward episode. Years later, his close associate Mohan Churiwala recalled how the legendary actor was left waiting outside Amitabh Bachchan’s Jalsa, leaving Dev Anand wondering if he had unknowingly upset someone.",
+    "img": "https://static.toiimg.com/photo/msid-126533305,imgsize-49908.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dev-anand-was-left-waiting-outside-amitabh-bachchans-jalsa-after-amar-singh-promised-big-bs-presence-at-autobiography-launch/articleshow/126533244.cms",
+    "time": "2026-01-14T18:43:50.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Christopher Ruhr",
     "desc": "The ace German player reflects his bond with the country where he has had career-defining moments; he is enjoying sharing space with young players at HIL and is keen to see the game boom in Asian countries",
@@ -279,15 +342,6 @@ const newsData_en = [
     "time": "2026-01-14T14:43:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Thousands witness Makaravilakku at Sabarimala",
-    "desc": "The entire pilgrimage zone, including the surrounding hills, had been packed with devotees for days, all eagerly awaiting the twilight spectacle. Rooftops of buildings, east-facing hillsides, and grasslands within the Sabarimala forest area were occupied by pilgrims seeking vantage points to witness the event.",
-    "img": "https://th-i.thgim.com/public/incoming/7kky8v/article70510637.ece/alternates/LANDSCAPE_1200/80693_14_1_2026_20_49_3_2_MAKARAJYOTHI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/thousands-witness-makaravilakku-at-sabarimala/article70510105.ece",
-    "time": "2026-01-14T14:36:35.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Consistency and suitability matter most; here's why",
     "desc": "A very aggressive small-cap fund can be a good satellite holding for a long-term, high-risk investor. The same fund is a terrible choice as a core holding for someone whose child’s college fees are 8 years away and who panics whenever the market falls 10 per cent.",
@@ -360,15 +414,6 @@ const newsData_en = [
     "time": "2026-01-14T14:08:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Farah Khan jokes about visiting Virat Kohli’s house",
-    "desc": "Farah Khan joked about visiting Virat Kohli's house at Nupur Sanon-Stebin Ben's January 13 reception. Paps urged her for a vlog; she quipped to tag Kohli. Her channel with cook Dilip, featuring celeb home tours and roast chicken, hit 2.48M subs fast. They got Silver Play Button on vlog 2, expanded to Maldives trips. Dilip now stars in SRK, Kiara ads.",
-    "img": "https://static.toiimg.com/photo/msid-126528578,imgsize-23772.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-jokes-about-visiting-virat-kohlis-house-interacts-with-paps-at-nupur-sanon-stebin-bens-wedding-reception/articleshow/126528578.cms",
-    "time": "2026-01-14T13:58:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Not Dhoni or Pant",
     "desc": "Rahul brought up his eighth ODI hundred in the 49th over by hitting Kyle Jamieson’s full toss for a six. He reached the landmark in 87 balls and remained not out on 112, scoring 11 fours and one six.",
@@ -387,24 +432,6 @@ const newsData_en = [
     "time": "2026-01-14T13:43:40.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mona Singh compares ‘Happy Patel Khatarnak Jasoos to ‘Delhi Belly’: ‘I so enjoyed being a part of this mad, crazy universe’",
-    "desc": "Khatarnak Jasoos' to 'Delhi Belly', highlighting its dark, quirky, and offbeat humor. Vir Das announced the film's 'A' certificate with his signature wit, confirming its January 16, 2026 release. Directed by Vir Das and backed by Aamir Khan, the film features an innocent spy whose missions lead to unexpected chaos.",
-    "img": "https://static.toiimg.com/photo/msid-126528302,imgsize-28884.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mona-singh-compares-happy-patel-khatarnak-jasoos-to-delhi-belly-i-so-enjoyed-being-a-part-of-this-mad-crazy-universe/articleshow/126528034.cms",
-    "time": "2026-01-14T13:42:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Keanu Reeves and Alexandra Grant share sweet moment",
-    "desc": "Amidst the twinkling lights of Rockefeller Center, Alexandra Grant delighted her followers with a charming Instagram post featuring her and Keanu Reeves, lost in the joy of a romantic ice-skating outing. The long-time couple, together since 2011, shared tender moments under the giant Christmas tree, highlighting the beauty of love and the skating community that brings people together.",
-    "img": "https://static.toiimg.com/photo/msid-126527998,imgsize-44400.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/keanu-reeves-and-alexandra-grant-share-cute-moment-together-after-waiting-for-godot-broadway-run/articleshow/126527998.cms",
-    "time": "2026-01-14T13:31:42.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Why chaos in Iran hurts India, benefits China &amp; Pakistan",
     "desc": "India watches Iran's protests with unease, fearing a weakened state would disrupt its strategic environment. Iran serves as India's vital western corridor to Central Asia via Chabahar Port and a crucial counterweight to Pakistan's regional influence. A collapse risks jeopardizing connectivity projects and India's multi-alignment policy.",
@@ -412,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/from-chabahar-to-kashmir-why-chaos-in-iran-hurts-india-benefits-china-pak/articleshow/126527558.cms",
     "time": "2026-01-14T13:16:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anil Kapoor hails Rani Mukerji at 30 years up",
-    "desc": "In a heartwarming tribute, seasoned actor Anil Kapoor commemorated Rani Mukerji's remarkable 30-year journey in Bollywood, lauding her timeless talent and charisma. With genuine surprise, Mukerji reflected on her career, admitting it feels surreal to reach such a monumental milestone.",
-    "img": "https://static.toiimg.com/photo/msid-126527632,imgsize-45642.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anil-kapoor-wishes-truly-brilliant-rani-mukerji-for-on-completing-30-years-wishes-her-success-for-mardaani-3/articleshow/126527632.cms",
-    "time": "2026-01-14T13:06:37.000Z"
   },
   {
     "cat": "Sports",
@@ -529,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rs-1-4-lakh-crore-wiped-off-ril-falls-7-this-year-whats-ahead-for-reliance-industries-share-price/articleshow/126521759.cms",
     "time": "2026-01-14T09:07:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Superhero film that went from Aamir Khan to Allu Arjun",
-    "desc": "Allu Arjun's pan-Indian stardom, amplified by 'Pushpa 2', now eyes a superhero venture with Lokesh Kanagaraj, reportedly first offered to Aamir Khan. This potential collaboration, alongside his Atlee project featuring dual roles and a star-studded cast, signals a significant genre shift and the rise of culturally rooted Indian superhero franchises, promising grand cinematic experiences.",
-    "img": "https://static.toiimg.com/photo/msid-126522389,imgsize-50314.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-superhero-film-that-went-from-aamir-khan-to-allu-arjun/articleshow/126522389.cms",
-    "time": "2026-01-14T08:57:41.000Z"
   },
   {
     "cat": "Sports",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/rumesh-ratnayake-sri-lanka-1985-test-win-fast-bowling-womens-coach-kapil-dev/article70492498.ece",
     "time": "2026-01-09T20:28:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jefferson-Wooden’s plan for world domination centres on ‘Melissa’",
-    "desc": "A switch in the 24-year-old American sprinter’s focus — from competing against others to competing against her best — brought rich rewards in 2025. The reigning sprint queen, who claimed a historic triple crown at the Worlds, wants to establish herself among the greatest ever as she looks forward to a series of major events culminating in Los Angeles 2028",
-    "img": "https://th-i.thgim.com/public/incoming/h1wapr/article70492515.ece/alternates/LANDSCAPE_1200/GettyImages-2217335433.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/melissa-jefferson-wooden-sprint-queen-la-2028-olympics-flo-jo-record-world-championships/article70492488.ece",
-    "time": "2026-01-09T20:25:26.000Z"
   }
 ];
