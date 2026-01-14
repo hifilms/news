@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "বুনো ফল ভেবেই শুঁড়ে করে খেল 'বোমা'! আহারে ছোট হস্তিশাবক!",
+    "desc": "তামিলনাড়ুর সত্যমঙ্গলম টাইগার রিজার্ভে একটি অত্যন্ত দুঃখজনক ঘটনা ঘটেছে। সেখানে দেড় বছর বয়সী একটি হস্তিশাবক ভুল করে একটি হাতে তৈরি বোমায় কামড় দিয়ে মারা গেছে। এই বিস্ফোরকটিকে স্থানীয়ভাবে 'আভুট্টুক্কাই' বলা হয়। জানা গেছে যে, বুনো শুকর তাড়ানোর জন্য এক কৃষক এটি পেতে রেখেছিলেন। এই ঘটনায় একজনকে গ্রেপ্তার করা হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/a-baby-elephant-died-in-tamil-nadu-due-to-eating-a-bomb_635121.html ",
+    "time": "2026-01-14T18:03:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘আমরা কেন ক্ষতিপূরণ দেব’- এবার আইসিসিকে সরাসরি চ্যালেঞ্জ ছুঁড়ে দিল বিসিবি, টি টোয়েন্টি বিশ্বকাপ থেকে কি সরেই যাবে বাংলাদেশ",
+    "desc": "'কোন কারণ নেই (কেন আমরা ক্ষতিপূরণ দেব না) কারণ এই প্রশ্নটি ওঠা উচিত নয়, আমরা ইতিমধ্যেই তাদের উপর অনেক খরচ করি। যদি আমরা বলতে শুরু করি যে তুমি খারাপ খেলেছ, এখন টাকা ফেরত দাও, তাই না?’’",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/bangladesh-cricket-team-2026-01-377bcffd6da727cdfe44daaf06be87ae-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/icc-t20-world-cup-2026-bcb-claims-it-will-not-suffer-financially-if-skip-t20-world-cup-players-will-lose-money-dd-2496590.html",
+    "time": "2026-01-14T17:46:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ভারতের অনেক ক্রিকেটার অনেক ট্রফি পেয়েছেন, তবে মাত্র ৪ জন টি২০ বিশ্বকাপ এবং বড়দের বিশ্বকাপ জিতেছেন",
+    "desc": "২৫-এর বেশি ভারতীয় ক্রিকেটার টি২০ বিশ্বকাপ জিততে পেরেছেন, আর ৫০-এর বেশি ভারতীয় ক্রিকেটার U19 World Cup জিতেছেন, কিন্তু মাত্র ৪ জন খেলোয়াড় আছেন যারা ভারতের হয়ে U19 World Cup আর T২০ World Cup দুটোই জিততে পেরেছেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1768408675_Virat-Kohli-IND-2026-01-e7e5f96ac4e6bc0edbc6b09c19bc5ba0-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/world-cup-cricket-facts-4-indian-cricketers-who-won-u19-world-cup-and-t20-world-cup-rdp-2496579.html",
+    "time": "2026-01-14T17:31:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "অভাব আর একাকীত্বই কাড়ল প্রাণ! নিভৃতে বিদায় নিলেন মহালয়ার জনপ্রিয় অভিনেতা অমল চৌধুরী...",
+    "desc": "দূরদর্শনের সেই অট্টহাসি আজ স্তব্ধ; অভাবের কাছে হার মানলেন প্রবীণ শিল্পী অমল চৌধুরী। বুধবার উত্তর ২৪ পরগনার অশোকনগরের নিজ বাসভবন থেকে তাঁর নিথর দেহ উদ্ধার করা হয়। সময়ের নিয়মে স্পটলাইটের আলো যত ম্লান হয়েছে, অমলবাবুর জীবনে ততই জাঁকিয়ে বসেছিল অর্থকষ্ট। বুধবার তাঁর ঘর থেকে কোনো সাড়া না পেয়ে স্থানীয় কাউন্সিলর অরূপ দাসের উপস্থিতিতে পুলিশ দরজা ভেঙে তাঁর দেহ উদ্ধার করে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/amal-asur-amal-chowdhury-doordarshan-actor-passes-away-ashoknagar_635105.html ",
+    "time": "2026-01-14T16:19:09.000Z"
+  },
+  {
     "cat": "Business",
     "title": "রঘুনাথপুরের হকারদের জন্য দারুণ খবর! সামান্য কিছু নথি থাকলেই মিলবে ৫০ হাজার টাকা লোন, পরিশোধের ক্ষেত্রেও রয়েছে দুর্দান্ত ক্যাশব্যাকের সুবিধা",
     "desc": "ফুটপাথের ক্ষুদ্র ব্যবসায়ীদের আর্থিকভাবে স্বাবলম্বী করে তুলতে এক প্রশংসনীয় উদ্যোগ গ্রহণ করেছে পুরুলিয়ার রঘুনাথপুর পৌরসভা। পৌরসভার উদ্যোগে চালু হয়েছে 'হকার লোন প্রকল্প', যার মাধ্যমে ফুটপাথে ব্যবসা করা ক্ষুদ্র ও অস্থায়ী ব্যবসায়ীরা সহজ শর্তে আর্থিক সহায়তা পাওয়ার সুযোগ পাবেন।",
@@ -862,41 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/centre-issues-notice-to-x-groks-misuse-for-obscene-content-centre-issues-to-flag-those-contents-smc-2480870.html",
     "time": "2026-01-02T18:00:39.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ভারতীয় ১০,০০০ টাকার মূল্য এই 'দেশে' কত হবে জানেন...? চমকে উঠবেন শুনলেই!",
-    "desc": "মুদ্রা বা কারেন্সি হল এমন একটি গুরুত্বপূর্ণ জিনিস যা কোনও দেশের অর্থনীতি ও সামাজিক, আন্তর্জাতিক গুরুত্বের সূচক হিসেবে কাজ করে। যদিও মুদ্রার বিনিময় মূল্য প্রতিনিয়ত বদলাতে থাকে তবে এই মুদ্রাই বলে দেয় কোন দেশ চাকরি, বেড়ানো বা পড়াশোনার জন্য কেন বেশি জনপ্রিয়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-02-at-17.52.27-2026-01-78a5dce467c681c860b26d0e360f7199-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/currency-worlds-weakest-currency-do-you-know-how-much-10000-indian-rupees-worth-in-this-country-you-will-be-shocked-knowing-the-answer-sanj-2480788.html",
-    "time": "2026-01-02T16:20:23.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "সময় এসে গিয়েছে! চিনের থেকে বাঁচতে ভারতের সাহায্য প্রার্থনায় জয়শঙ্করকে চিঠি লিখলেন পাকিস্তানের নেতা",
-    "desc": "বালোচ নেতা মির ইয়ার বালোচ এক খোলা চিঠি লিখেছেন ভারতের বিদেশমন্ত্রী এস জয়শঙ্করকে। সেখানে তিনি ভারতকে অনুরোধ করেছেন গণপ্রজাতন্ত্রী বালোচিস্তানের সঙ্গে সম্পর্ক আরও গভীর করতে, সেই সঙ্গে পাকিস্তান-চিনের জোট থেকে বাড়তে থাকা হুমকির ব্যাপারে সতর্ক করেছেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/07/Jaishankar-on-India-US-Trade-Deal-2025-07-55377c38418da45b66382f61b34fe664-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/balochistan-leader-mir-yar-baloch-writes-to-s-jaysankar-to-seek-help-from-china-and-pakistan-rdp-2480432.html",
-    "time": "2026-01-02T11:33:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "২, ৩, ৪, ৫ জানুয়ারি...! শৈত্যপ্রবাহ হুঁশিয়ারি ৫ রাজ্যে, ঘন কুয়াশার কামড় ১৪ রাজ্যে, বজ্রবিদ্যুৎ-বৃষ্টি কাঁপাবে কোন কোন রাজ্য? কী হবে বাংলায়? জানিয়ে দিল IMD",
-    "desc": "উত্তর ভারতে শীতের তীব্র দাপট শুরু। দিল্লি, মধ্যপ্রদেশ, উত্তরপ্রদেশ, বিহার এবং রাজস্থানে ৫ জানুয়ারি পর্যন্ত শৈত্যপ্রবাহ এবং ঘন কুয়াশার সতর্কতা জারি করল আবহাওয়া দফতর আইএমডি। আগামী ৪ দিনে বেশ কিছু রাজ্যে বৃষ্টির পূর্বাভাস দিয়েছে আবহাওয়া দফতর। রাজ্যে রাজ্যে বাড়বে ঘন কুয়াশা ও শৈত্যপ্রবাহ।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/sanj-2025-12-c1ea70bf90f90a0b616dfc3ba54f7a1f-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-january-2-3-4-5-cold-wave-warning-in-5-states-dense-fog-to-grip-14-states-rainfall-thunderstorms-to-hit-which-states-know-latest-west-bengal-weather-sanj-2480403.html",
-    "time": "2026-01-02T11:11:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'বিশ্বাসঘাতকতা করেছেন শাহরুখ'! আইপিএলে মুস্তাফিজুরকে দলে নেওয়ায় বিজেপি নেতার রোষে কিং খান!",
-    "desc": "আইপিএল নিলামকে কেন্দ্র করে শুরু হয়েছে তীব্র রাজনৈতিক বিতর্ক। সেই বিতর্কের কেন্দ্রে এবার কলকাতা নাইট রাইডার্স এবং দলের কর্ণধার শাহরুখ খান। আইপিএল নিলামে বাংলাদেশি পেসার মুস্তাফিজুর রহমানকে দলে নেওয়ার সিদ্ধান্ত ঘিরে প্রকাশ্যে ক্ষোভ উগরে দিলেন উত্তরপ্রদেশের বিজেপি নেতা সঙ্গীত সোম।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-01-at-7.59.13-PM-2026-01-92220697ba9dfcd1211434521ae41380-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/bjp-leader-call-shahrukh-khan-traitor-as-his-team-buy-mustafizur-rahman-with-hefty-amount-in-ipl-auction-smc-2480304.html",
-    "time": "2026-01-02T09:51:30.000Z"
   }
 ];

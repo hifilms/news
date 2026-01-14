@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Washington Sundar doubtful for T20 World Cup? Ruled out of T20I series vs New Zealand",
+    "desc": "India all-rounder Washington Sundar has been ruled out of the upcoming five-match T20I series against New Zealand. He sustained a rib injury during the first ODI against New Zealand in Vadodara and walked off the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/washington-sundar-doubtful-for-t20-world-cup-ruled-out-of-t20i-series-vs-new-zealand-2026-01-14-1025928",
+    "time": "2026-01-14T18:24:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh cricketers threaten to boycott playing, demand BCB director to resign over controversial statements",
+    "desc": "Bangladesh Cricket and controversy have been going hand in hand over the last week or so, especially ever since they have denied traveling to India for the upcoming T20 World Cup, citing security concerns. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-cricketers-threaten-to-boycott-playing-demand-bcb-director-to-resign-over-controversial-statements-2026-01-14-1025924",
+    "time": "2026-01-14T17:58:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Stupid decision': Internet calls out UP Warriorz coach Abhishek Nayar for retiring out Harleen Deol on 47",
+    "desc": "Ayushi Soni of Gujarat Giants became the first batter to be retired out in the Women's Premier League (WPL) on Tuesday after she scored only 11 runs off 14 balls. However, not many expected the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/stupid-decision-internet-calls-out-up-warriorz-coach-abhishek-nayar-for-retiring-out-harleen-deol-on-47-2026-01-14-1025917",
+    "time": "2026-01-14T16:46:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Daryl Mitchell continues to haunt India in ODIs, trumps KL Rahul's ton as New Zealand take series into decider",
+    "desc": "Daryl Mitchell continued to haunt India in ODIs as his stellar run with the bat just doesn't seem to stop. The man scored the eighth century of his ODI career, third against India, to help...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/daryl-mitchell-continues-to-haunt-india-in-odis-trumps-kl-rahul-s-ton-as-new-zealand-take-series-into-decider-2026-01-14-1025907",
+    "time": "2026-01-14T15:56:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When and where to watch U19 World Cup 2026 on TV and streaming in India?",
     "desc": "The ICC U19 World Cup 2026 will get underway on January 15 (Thursday) as a total of three matches will take place on the opening day. The first match is scheduled to take place between...",
     "img": "",
@@ -52,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-hardik-pandya-not-playing-2nd-odi-vs-new-zealand-in-rajkot-2026-01-14-1025827",
     "time": "2026-01-14T07:56:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Washington Sundar not playing vs New Zealand in 2nd ODI in Rajkot?",
-    "desc": "All-rounder Washington Sundar has been ruled out of the remainder of the ongoing ODI series against New Zealand. He suffered a rib injury in the opening ODI of the series and was in tremendous pain...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-washington-sundar-not-playing-vs-new-zealand-in-2nd-odi-in-rajkot-2026-01-14-1025822",
-    "time": "2026-01-14T07:34:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Josh Hazlewood be fit for T20 World Cup 2026? Pacer shares major update",
-    "desc": "Josh Hazlewood is confident he will be fit for the start of Australia’s T20 World Cup 2026 campaign in Sri Lanka next month after an injury-hit summer ruled him out of key assignments. The fast...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-josh-hazlewood-be-fit-for-t20-world-cup-2026-pacer-shares-major-update-2026-01-14-1025798",
-    "time": "2026-01-14T06:05:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "WI reach out to Nicolas Pooran to reverse retirement decision for T20 World Cup, Bascombe reveals details",
-    "desc": "Cricket West Indies (CWI) have approached Nicholas Pooran in an effort to gauge whether the 29-year-old is open to reversing his retirement for the upcoming T20 World Cup 2026. Pooran, who announced his retirement from...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-reach-out-to-nicolas-pooran-to-reverse-retirement-decision-for-t20-world-cup-bascombe-reveals-details-2026-01-14-1025786",
-    "time": "2026-01-14T04:55:18.000Z"
   }
 ];
