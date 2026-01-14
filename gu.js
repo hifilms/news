@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "બજેટ રજૂ કરતા પહેલા સરકાર શા માટે ઉજવે છે &amp;#039;હલવા સેરેમની&amp;#039;? જાણો આ વખતનું શેડ્યૂલ?",
+    "desc": "ભારત સરકાર દ્વારા બજેટ રજૂ કરવામાં આવે તે પહેલાંની 'હલવા સેરેમની' (Halwa Ceremony) નાણા મંત્રાલયની એક અત્યંત રસપ્રદ અને વર્ષો જૂની પરંપરા છે. આ માત્ર મીઠાઈ ખાવાનો કાર્યક્રમ નથી, પરંતુ તે બજેટની ગુપ્તતા અને તેની અંતિમ તૈયારીઓનું પ્રતીક છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/why-does-the-government-hold-a-halwa-ceremony-before-the-budget-presentation-and-when-will-it-be-held-this-year-461681 ",
+    "time": "2026-01-14T15:15:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "આગામી કેટલાક મહિનાઓમાં સોનાના ભાવમાં ઘટાડો થશે? જાણો શું કહે છે એક્સપર્ટ?",
+    "desc": "સોનાના ભાવમાં આજે 1184 રૂપિયાના ઉછાળા સાથે પ્રતિ 10 ગ્રામ 1,43,425 રૂપિયાના સ્તરે પહોંચી ગયા છે. આવી સ્થિતિમાં ખરીદદારોના મનમાં પ્રશ્ન છે કે શું આગામી થોડા મહિનામાં સોનું સસ્તું થશે કે તેના ભાવ સતત વધતા જ રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-price-prediction-in-2026-gold-prices-are-expected-to-fall-in-a-few-months-find-out-what-the-experts-say-461680 ",
+    "time": "2026-01-14T15:03:23.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "99 લાખ 99 હજાર 999 મૂર્તિઓ... ભારતનું અનોખું મંદિર, જાણો શું છે તેનું રહસ્ય?",
     "desc": "ત્રિપુરાનું ઉનાકોટી મંદિર 99 લાખ 99 હજાર 999 પથ્થરની મૂર્તિઓ માટે પ્રખ્યાત છે. ભગવાન શિવ, દેવી-દેવતાઓ અને કાલુ કારીગર સાથે જોડાયેલી કથાઓના કારણે આ મંદિર આજે પણ રહસ્ય અને આસ્થાનો અનોખો સંગમ બની રહ્યું છે.",
@@ -259,15 +277,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/ajmer-dargah-was-a-shiva-temple-before-files-petition-in-court-demanding-asi-survey-461485 ",
     "time": "2026-01-12T13:53:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "પોસ્ટ ઓફિસની આ સ્કીમમાં તમારા પૈસા થઈ જશે ડબલ, જાણો વિગત",
-    "desc": "જો તમે કોઈ જોખમ વગર તમારા પૈસા ડબલ કરવા ઈચ્છો છો તો પોસ્ટ ઓફિસની કિસાન વિકાસ પત્ર યોજના શાનદાર વિકલ્પ છે. આ સરકારી યોજનામાં 7.5 ટકા વ્યાજ મળી રહ્યું છે, જેમાં તમારા પૈસા 115 મહિનામાં ડબલ થઈ જશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/post-office-money-doubling-scheme-kisan-vikas-patra-interest-rate-calculator-461451 ",
-    "time": "2026-01-12T11:45:11.000Z"
   },
   {
     "cat": "Tech",
@@ -547,15 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/5-best-suspense-hindi-films-on-netflix-must-watch-hindi-thriller-movies-on-ott-460960 ",
     "time": "2026-01-09T07:34:53.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ભારત-અમેરિકા વચ્ચેની વેપાર સંધિ અભરાઈએ ચડી ગઈ? USનો દાવો-PM મોદીએ ટ્રમ્પને ફોન ન કર્યો એટલે...",
-    "desc": "જ્યારથી ડોનાલ્ડ ટ્રમ્પ બીજીવાર અમેરિકાના રાષ્ટ્રપતિ બન્યા છે ત્યારથી અલગ તેવર જોવા મળી રહ્યા છે. વેનેઝુએલા બાદ અનેક દેશોને ધમકીઓ...ભારતના હિતમાં ન હોય તેવી વાતો, અને હવે ભારત સાથેની વેપાર સંધિ પણ અભરાઈએ ચડી ગઈ હોવાનો દાવો અમેરિકાના વાણિજ્ય મંત્રી કરી રહ્યા છે. જાણો શું છે વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/howard-lutnick-big-claim-about-india-us-trade-deal-know-what-did-he-say-about-pm-modi-and-trump-460942 ",
-    "time": "2026-01-09T05:44:23.000Z"
   },
   {
     "cat": "Tech",

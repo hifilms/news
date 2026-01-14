@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When and where to watch U19 World Cup 2026 on TV and streaming in India?",
+    "desc": "The ICC U19 World Cup 2026 will get underway on January 15 (Thursday) as a total of three matches will take place on the opening day. The first match is scheduled to take place between...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-usa-live-when-and-where-to-watch-u19-world-cup-2026-on-tv-and-streaming-in-india-2026-01-14-1025899",
+    "time": "2026-01-14T14:51:14.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "KL Rahul surpasses Mohammad Azharuddin's tally in ODIs with stunning century in 2nd ODI vs New Zealand",
     "desc": "The jam-packed stadium at the Niranjan Shah Stadium in Rajkot was expecting Rohit Sharma and Virat Kohli to shine in the second ODI against New Zealand. However, it was KL Rahul who hogged all the...",
     "img": "",
@@ -70,14 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/west-indies-reach-out-to-nicolas-pooran-to-reverse-retirement-decision-for-t20-world-cup-bascombe-reveals-details-2026-01-14-1025786",
     "time": "2026-01-14T04:55:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Egypt vs Senegal, Morocco vs Nigeria: Where to watch AFCON semi-final live on TV and online in India?",
-    "desc": "Egypt and Senegal meet in the Africa Cup of Nations 2025 semi-final in Tangier on January 14, 2026, with a place in the final at stake. Egypt earned their spot after a thrilling 3‑2 win...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/egypt-vs-senegal-morocco-vs-nigeria-where-to-watch-afcon-semi-final-live-on-tv-and-online-in-india-2026-01-14-1025783",
-    "time": "2026-01-14T04:34:38.000Z"
   }
 ];
