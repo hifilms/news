@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "KL Rahul surpasses Mohammad Azharuddin's tally in ODIs with stunning century in 2nd ODI vs New Zealand",
+    "desc": "The jam-packed stadium at the Niranjan Shah Stadium in Rajkot was expecting Rohit Sharma and Virat Kohli to shine in the second ODI against New Zealand. However, it was KL Rahul who hogged all the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-surpasses-mohammad-azharuddin-s-tally-in-odis-with-stunning-century-in-2nd-odi-vs-new-zealand-2026-01-14-1025865",
+    "time": "2026-01-14T11:34:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Matches to be played from September 17 in T20 format",
+    "desc": "Japan is set to host the Asian Games later this year from September 19 to October 4. However, a few disciplines, including cricket, will start before the official opening ceremony, according to the schedule released by...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/asian-games-2026-cricket-schedule-matches-to-be-played-from-september-17-in-t20-format-2026-01-14-1025856",
+    "time": "2026-01-14T10:51:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Delhi's extreme pollution forced world number 2 to pull out of India Open, handed 500 USD fine",
     "desc": "World No. 2 Anders Antonsen has publicly explained his absence from the ongoing India Open 2026, citing environmental concerns in Delhi as the decisive factor behind his withdrawal. The Danish shuttler confirmed that this marks...",
     "img": "",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/egypt-vs-senegal-morocco-vs-nigeria-where-to-watch-afcon-semi-final-live-on-tv-and-online-in-india-2026-01-14-1025783",
     "time": "2026-01-14T04:34:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Ayush Badoni suddenly called up in Indian team despite poor form in Vijay Hazare Trophy?",
-    "desc": "India’s decision to include Ayush Badoni in the squad for the final two one-day internationals against New Zealand has been framed around balance and contingency rather than recent batting returns. Batting coach Sitanshu Kotak outlined...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-ayush-badoni-suddenly-called-up-in-indian-team-despite-poor-form-in-vijay-hazare-trophy-2026-01-14-1025768",
-    "time": "2026-01-14T03:06:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Niranjan Shah Stadium in Rajkot play?",
-    "desc": "After a thrilling win over New Zealand in the first ODI of the three-match series, India will be full of confidence ahead of the second game at the Niranjan Shah Stadium in Rajkot on January...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-2nd-odi-pitch-report-how-will-surface-at-niranjan-shah-stadium-in-rajkot-play-2026-01-14-1025759",
-    "time": "2026-01-14T01:50:00.000Z"
   }
 ];

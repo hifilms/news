@@ -1,12 +1,21 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "99 લાખ 99 હજાર 999 મૂર્તિઓ... ભારતનું અનોખું મંદિર, જાણો શું છે તેનું રહસ્ય?",
+    "desc": "ત્રિપુરાનું ઉનાકોટી મંદિર 99 લાખ 99 હજાર 999 પથ્થરની મૂર્તિઓ માટે પ્રખ્યાત છે. ભગવાન શિવ, દેવી-દેવતાઓ અને કાલુ કારીગર સાથે જોડાયેલી કથાઓના કારણે આ મંદિર આજે પણ રહસ્ય અને આસ્થાનો અનોખો સંગમ બની રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/mysterious-unakoti-temple-9999999-idols-indias-unique-shrine-and-its-secret-461671 ",
+    "time": "2026-01-14T12:07:32.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ICC ODI રેન્કિંગમાં વિરાટ કોહલી ફરી નંબર-1, રોહિત શર્માએ ગુમાવ્યો તાજ",
     "desc": "વિરાટ કોહલી ફરી એકવાર ICC ODI રેન્કિંગમાં નંબર વન બેટ્સમેન બન્યો છે. તેણે રોહિત શર્મા પાસેથી આ સ્થાન છીનવી લીધું છે. 37 વર્ષની ઉંમરે વિરાટની આ વાપસી એટલા માટે પણ ખાસ છે કારણ કે તે જુલાઈ 2021 પછી પહેલીવાર નંબર-૧ સ્થાન પર પાછો ફર્યો છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/virat-kohli-reclaims-the-no-1-spot-in-the-latest-icc-mens-odi-rankings-461664 ",
-    "time": "2026-01-14T09:00:00.000Z"
+    "time": "2026-01-14T09:53:32.000Z"
   },
   {
     "cat": "Sports",
@@ -297,15 +306,6 @@ const newsData_gu = [
     "time": "2026-01-12T09:24:29.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ટાટાની આ કંપનીમાં હાહાકાર, 1450 રૂપિયાથી ઘટીને 365 પર આવ્યો આ શેર, જાણો કારણ",
-    "desc": "ટાટા ગ્રુપની આ કંપનીના શેરનો ભાવ, જે જુલાઈ 2024માં 1,450 રૂપિયા સુધી પહોંચ્યો હતો, તે હવે ઘટીને 365 રૂપિયા થઈ ગયો છે. આનો અર્થ એ થયો કે શેર તેના હાઈ લેવલથી 75 ટકા ઘટ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/shares-of-this-tata-company-fell-from-rs-1450-to-rs-365-know-the-reason-461423 ",
-    "time": "2026-01-12T09:05:28.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "બાપરે... 7.31 લાખની આ SUVએ ભૂક્કા કાઢ્યા, ટાટા પંચ પણ ટકી ન શકી, લોકોએ ખરીદવા પડાપડી કરી",
     "desc": "ટાટા કંપનીએ પોતાની કારોના વેચાણના આંકડા જાહેર કર્યા છે. જેમાં ડિસેમ્બર 2025માં કઈ કાર કેટલી વેચાઈ તે માહિતી છે. આ માહિતી મુજબ કઈ કારે ટોપ પોઝિશન મેળવી છે તે જાણીને આંખો પહોળી થઈ જશે કારણ કે તેના વાર્ષિક વેચાણમાં 43 ટકાનો વધારો નોંધાયો છે.",
@@ -313,15 +313,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/tata-sales-report-breakup-december-2025-nexon-on-top-know-about-punch-curve-other-models-461419 ",
     "time": "2026-01-12T08:55:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ભારતે રચ્યો ઇતિહાસ, ઓસ્ટ્રેલિયા-ઇંગ્લેન્ડને પછાડીને આ સિદ્ધિ મેળવનાર વિશ્વનો પ્રથમ દેશ બન્યો",
-    "desc": "રવિવારે વડોદરામાં રમાયેલી પ્રથમ વનડે મેચમાં ભારતે ન્યૂઝીલેન્ડને 4 વિકેટે હરાવીને ત્રણ મેચની શ્રેણીમાં 1-0ની લીડ મેળવી લીધી છે. પ્રથમ બેટિંગ કરતા ન્યૂઝીલેન્ડે 50 ઓવરમાં 8 વિકેટ ગુમાવીને 300 રન બનાવ્યા હતા. જવાબમાં ભારતે ફક્ત 49 ઓવરમાં ટાર્ગેટ ચેઝ કરીને મેચ જીતી લીધી. આ દરમિયાન ભારતે એક મોટી સિદ્ધિ પણ હાંસલ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-india-most-times-successfully-chased-300-plus-target-in-odi-461391 ",
-    "time": "2026-01-12T05:26:38.000Z"
   },
   {
     "cat": "World",
@@ -565,15 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/howard-lutnick-big-claim-about-india-us-trade-deal-know-what-did-he-say-about-pm-modi-and-trump-460942 ",
     "time": "2026-01-09T05:44:23.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "વડાપ્રધાન શાહબાઝ શરીફની થશે ધરપકડ? જારી કરાયું અરેસ્ટ વોરંટ; શું થઈ રહ્યું છે પાકિસ્તાનમાં? જાણો",
-    "desc": "પાકિસ્તાનના વડાપ્રધાન શાહબાઝ શરીફ વિરુદ્ધ તેમના જ દેશમાં ધરપકડ વોરંટ જાહેર કરવામાં આવ્યું છે. આ વોરંટ પાકિસ્તાન કબજા હેઠળના બલુચિસ્તાનની નિર્વાસિત સરકારે જાહેર કર્યું છે. જેમાં શાહબાઝ શરીફ પર બલુચિસ્તાનના વિઝા નિયમોનું ઉલ્લંઘન કરવાનો આરોપ લગાવવામાં આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/why-balochistan-issue-an-arrest-warrant-against-pakistan-prime-minister-shahbaz-sharif-know-460909 ",
-    "time": "2026-01-08T15:00:29.000Z"
   },
   {
     "cat": "Tech",
