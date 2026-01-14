@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why is Ayush Badoni suddenly called up in Indian team despite poor form in Vijay Hazare Trophy?",
+    "desc": "India’s decision to include Ayush Badoni in the squad for the final two one-day internationals against New Zealand has been framed around balance and contingency rather than recent batting returns. Batting coach Sitanshu Kotak outlined...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-ayush-badoni-suddenly-called-up-in-indian-team-despite-poor-form-in-vijay-hazare-trophy-2026-01-14-1025768",
+    "time": "2026-01-14T03:06:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Niranjan Shah Stadium in Rajkot play?",
+    "desc": "After a thrilling win over New Zealand in the first ODI of the three-match series, India will be full of confidence ahead of the second game at the Niranjan Shah Stadium in Rajkot on January...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-2nd-odi-pitch-report-how-will-surface-at-niranjan-shah-stadium-in-rajkot-play-2026-01-14-1025759",
+    "time": "2026-01-14T01:50:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "England set to reject pink-ball Ashes Test requests, unlikely to host any: Report",
     "desc": "England are set to oppose the inclusion of any floodlit, pink-ball Tests in the next Ashes tour of Australia, taking a firm position well in advance of the 2029-30 series. The stance has been communicated...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mi-w-vs-gg-w-wpl-match-score-live-unstoppable-gujarat-face-biggest-test-against-mumbai-indians-2026-01-13-1025720",
     "time": "2026-01-13T13:35:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lamine Yamal denies giving guard of honour to Real Madrid after Supercopa final, new video goes viral",
-    "desc": "The post-match ceremony following Barcelona’s 3–2 victory over Real Madrid in the Supercopa de España final has continued to generate debate, with the guard of honour or lack of it emerging as one of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/lamine-yamal-denied-giving-guard-of-honour-to-real-madrid-after-supercopa-final-new-video-goes-viral-2026-01-13-1025712",
-    "time": "2026-01-13T12:20:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Faf du Plessis ruled out of remainder of SA20 season, Joburg Super Kings announce new captain",
-    "desc": "Joburg Super Kings have been dealt a major setback midway through the SA20 season after captain Faf du Plessis was ruled out for the remainder of the tournament due to a ligament tear. The veteran...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/faf-du-plessis-ruled-out-of-remainder-of-sa20-season-joburg-super-kings-announce-new-captain-2026-01-13-1025703",
-    "time": "2026-01-13T11:20:32.000Z"
   }
 ];

@@ -1,6 +1,141 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "SRK spotted neck tattoos, sparks 'King' buzz: PICS",
+    "desc": "Shah Rukh Khan was spotted sporting new neck tattoos at a Mumbai dubbing studio, fueling speculation about his upcoming action flick, 'King'. Fans eagerly await updates on the highly anticipated film, which follows his recent Rs 1000 crore successes. The actor's new look hints at a powerful on-screen persona, with the movie poised to be another major box-office contender.",
+    "img": "https://static.toiimg.com/photo/msid-126516578,imgsize-38768.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-embraces-his-gangster-era-spotted-with-neck-tattoos-for-king-movie-pics/articleshow/126516452.cms",
+    "time": "2026-01-14T03:54:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Markets rise after Wall Street tumbles; HSI adds 180 points, Nikkei up 1%",
+    "desc": "Asian markets mostly rose, led by Japanese stocks extending a record rally amid a weaker yen. US stocks retreated as banking shares fell after JPMorgan's earnings missed guidance. Investors await a Supreme Court ruling on Trump's tariffs and a heavy bank earnings slate, while inflation data reinforces expectations of a Fed rate pause.",
+    "img": "https://static.toiimg.com/photo/msid-126516901,imgsize-150064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-rise-after-wall-street-tumbles-hsi-adds-180-points-nikkei-up-1/articleshow/126516485.cms",
+    "time": "2026-01-14T03:35:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Don't give up, stay ready': KL Rahul's message to young cricketers",
+    "desc": "Ahead of the second ODI against New Zealand, KL Rahul shared valuable advice with budding cricketers, emphasising patience and perseverance. He urged youngsters to trust the process, continuously work on themselves, and be ready to seize opportunities when they arise. Rahul highlighted that difficult phases are common for all players and stressed the importance of not giving up.",
+    "img": "https://static.toiimg.com/photo/msid-126516624,imgsize-61912.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/dont-give-up-stay-ready-kl-rahuls-message-to-young-cricketers/articleshow/126516613.cms",
+    "time": "2026-01-14T03:09:40.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Is the government seeking phones’ source code?: Explained",
+    "desc": "What is the issue around the government seeking source code data from companies? What is source code, and why don’t companies want to give access to it? Will keeping the code open for review risk security threats and cyberattacks? What has the government said?",
+    "img": "https://th-i.thgim.com/public/incoming/60jr22/article70506746.ece/alternates/LANDSCAPE_1200/2026-01-13T131933Z_668809866_RC2QUGAJT58P_RTRMADP_3_INDIA-SMARTPHONES.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/is-the-government-seeking-phones-source-code-explained/article70506738.ece",
+    "time": "2026-01-14T03:00:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "AP Dhillon and Abhishek Sharma celebrate Lohri together",
+    "desc": "Singer AP Dhillon and cricketer Abhishek Sharma celebrated Lohri together in Chandigarh, Sharma's hometown. The duo shared photos of themselves flying kites on a rooftop, showcasing their festive spirit. This heartwarming reunion, highlighting their close friendship, delighted fans who praised the 'unforgettable duo' and their festive cheer.",
+    "img": "https://static.toiimg.com/photo/msid-126515671,imgsize-38530.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/ap-dhillon-and-abhishek-sharma-celebrate-lohri-together-shoutout-to-pics/articleshow/126515671.cms",
+    "time": "2026-01-14T02:52:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Five new diarrhoea cases detected in Indore; no clarity over 'death audit' report",
+    "desc": "A total of 436 patients were admitted to hospitals since the vomiting and diarrhoea outbreak, triggered by supply of contaminated drinking water in the locality on December 29, of which 403 were discharged after recovery",
+    "img": "https://th-i.thgim.com/public/incoming/wprp0t/article70507944.ece/alternates/LANDSCAPE_1200/PTI01_08_2026_000153B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/five-new-diarrhoea-cases-detected-in-indore-no-clarity-over-death-audit-report/article70507926.ece",
+    "time": "2026-01-14T02:42:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why Virat Kohli has always stayed ahead of Rohit in ODIs — ex-India batter explains",
+    "desc": "Mohammad Kaif attributes Virat Kohli's ODI dominance over Rohit Sharma to his exceptional mindset and ability to convert starts into match-winning scores. Kaif highlighted Kohli's self-awareness and relentless standards, even after a significant knock. Kohli's recent fifty-plus streak in ODIs is also noted, bringing him closer to a new Indian record.",
+    "img": "https://static.toiimg.com/photo/msid-126516251,imgsize-39088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/why-virat-kohli-has-always-stayed-ahead-of-rohit-sharma-in-odis-ex-india-batter-explains/articleshow/126516235.cms",
+    "time": "2026-01-14T02:40:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Nvidia AI chips in China! US approves sale of H200 chips; commerce dept sets strict limitations",
+    "desc": "The US Commerce Department has signaled a policy shift, approving Nvidia to export its H200 AI chips to China under strict conditions. This move allows for case-by-case licensing reviews instead of automatic rejections for these advanced processors, though the most cutting-edge chips remain off-limits.",
+    "img": "https://static.toiimg.com/photo/msid-126516386,imgsize-24464.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/nvidia-ai-chips-in-china-us-approves-sale-of-h200-chips-commerce-dept-sets-strict-limitations/articleshow/126515749.cms",
+    "time": "2026-01-14T02:21:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Avengers: Doomsday': Russo bros say 4 clips are 'clues'",
+    "desc": "Doomsday' are not trailers but 'clues' to the film's plot. Fans are dissecting these character-focused videos, believing they hold hidden messages about the sacred timeline and potential plot points. The official trailer is expected soon, with the film set for a December 18, 2026 release.",
+    "img": "https://static.toiimg.com/photo/msid-126515925,imgsize-31338.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/avengers-doomsday-directors-russo-brothers-confirm-captain-america-thor-x-men-black-panther-clips-are-not-trailers-say-they-are-clues/articleshow/126515464.cms",
+    "time": "2026-01-14T02:11:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Tell Me Lies Season 3’: All about the premiere episode",
+    "desc": "Get ready for the explosive return of 'Tell Me Lies' in Season 3, where viewers dive back into the tumultuous world of Lucy and Stephen. Their relationship is now a battleground of manipulation and emotional warfare, reaching unprecedented lows. The premiere unravels old wounds, sending shockwaves through their circle of friends as they navigate the consequences of their toxic bond.",
+    "img": "https://static.toiimg.com/photo/msid-126515815,imgsize-27734.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/tell-me-lies-season-3-premiere-recap-lucy-stephens-relationship-goes-beyond-toxic/articleshow/126515765.cms",
+    "time": "2026-01-14T01:59:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Parasakthi' BO day 4: Sivakarthikeyan film sees slow run",
+    "desc": "Sivakarthikeyan's period drama 'Parasakthi' is experiencing a mixed box office run, collecting Rs 28 crore in four days. Despite a strong opening, collections have seen a significant drop, with low occupancy rates reflecting audience sentiment. Mixed reviews citing a lackluster screenplay and emotional distance are impacting word-of-mouth for the film.",
+    "img": "https://static.toiimg.com/photo/msid-126515756,imgsize-48834.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-box-office-collections-day-4-sivakarthikeyan-film-sees-slow-run-collects-rs-2-40-crore/articleshow/126515756.cms",
+    "time": "2026-01-14T01:57:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Joe Keery’s Golden Globes moment cements the leading man era",
+    "desc": "Joe Keery captivated audiences at the Golden Globes, earning the 'new McDreamy' title for his striking appearance. His evolution as Steve Harrington in 'Stranger Things' was pivotal, transforming him into a fan favorite. Keery's musical success with 'End of Beginning' further cemented his status, with the track becoming a global hit. He's now a multi-talented star.",
+    "img": "https://static.toiimg.com/photo/msid-126515574,imgsize-666638.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/joe-kerrys-poststranger-things-glow-up-just-hit-peak-internet-crush-status-netizens-call-him-new-mcdreamy/articleshow/126515582.cms",
+    "time": "2026-01-14T01:55:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Emraan comments on Leonardo's Oscar-winning film 'One Battle'",
+    "desc": "In a candid reflection, Emraan Hashmi expressed his worries regarding the theatrical landscape, highlighting the reduced interval between movie releases and their availability on streaming platforms. He shared that many moviegoers are now opting for the comfort of home viewing, unless a film boasts extraordinary spectacle, catchy soundtracks, or a strong love story.",
+    "img": "https://static.toiimg.com/photo/msid-126515566,imgsize-35184.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/emraan-hashmi-comments-on-leonardo-dicaprios-oscar-winning-film-one-battle-after-another-says-it-tanked-film-has-become/articleshow/126515566.cms",
+    "time": "2026-01-14T01:38:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US court challenge to 'forced sale' of Venezuela oil company",
+    "desc": "Representatives of Venezuela's state oil company PDVSA said Tuesday they had appealed the US-forced sale of its prized Houston-based subsidiary Citgo to pay off creditors. Citgo is in the crosshairs of creditors seeking the settlement of debts in excess of $20 billion that cash-strapped Caracas has been unable or unwilling to pay.",
+    "img": "https://static.toiimg.com/photo/msid-126515645,imgsize-131044.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-court-challenge-to-forced-sale-of-venezuela-oil-company/articleshow/126515642.cms",
+    "time": "2026-01-14T01:32:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'BMW' BO day 1: Ravi Teja film gets decent start",
+    "desc": "Ravi Teja's latest film, 'Bhartha Mahasayulaku Wignyapthi,' has opened to a decent Rs 2.50 crore on its first day, indicating a loyal fan base. While occupancy was steady, not exceptionally high, the film's performance over the coming days will be crucial. Reviews are mixed but acknowledge Teja's restrained performance, though supporting characters lack depth.",
+    "img": "https://static.toiimg.com/photo/msid-126515585,imgsize-54906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/bhartha-mahasayulaku-wignyapthi-box-office-collections-day-1-ravi-teja-film-gets-decent-start-collects-rs-2-50-crore/articleshow/126515585.cms",
+    "time": "2026-01-14T01:21:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "‘Sarvam Maya’: How the film marks Nivin Pauly’s big comeback",
     "desc": "Nivin Pauly's triumphant return to the spotlight with 'Sarvam Maya' has captivated audiences, crossing Rs 100 crore worldwide and outperforming rivals. The film's blend of comedy, emotion, and fantasy, coupled with Nivin's natural charm, has reignited fan adoration. With a slate of upcoming projects, Nivin is poised for a sustained comeback.",
     "img": "https://static.toiimg.com/photo/msid-126515512,imgsize-85342.cms",
@@ -43,6 +178,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/sarvam-maya-box-office-collections-day-20-nivin-pauly-film-slows-down-collects-only-rs-85-lakhs/articleshow/126515410.cms",
     "time": "2026-01-14T00:38:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&amp;K LG sacks 5 govt staff over links with terror outfits",
+    "desc": "In a significant move, Jammu & Kashmir's Lieutenant Governor Manoj Sinha has terminated the employment of five individuals, citing their alleged connections to terrorist organizations. Among those dismissed are a lab technician and a forest worker, accused of supporting extremist factions and their commanders based in Pakistan.",
+    "img": "https://static.toiimg.com/photo/msid-126515421,imgsize-681357.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-lg-sacks-5-govt-staff-over-links-with-terror-outfits/articleshow/126515411.cms",
+    "time": "2026-01-14T00:35:05.000Z"
   },
   {
     "cat": "Entertainment",
@@ -108,6 +252,15 @@ const newsData_en = [
     "time": "2026-01-13T23:01:03.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "NEET-PG cut-off overhaul in Delhi: Centre lowers qualifying percentile to fill 9,000 vacant seats",
+    "desc": "Government has significantly reduced NEET-PG cut-offs to fill over 9,000 vacant medical postgraduate seats. Percentiles for general, EWS, SC, ST, and OBC candidates have been lowered, some to zero. This move aims to prevent wastage of training capacity amidst a doctor shortage and follows a plea from the Indian Medical Association.",
+    "img": "https://static.toiimg.com/photo/msid-126515922,imgsize-30154.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/neet-pg-cut-off-score-now-fixed-at-40-out-of-800/articleshow/126514156.cms",
+    "time": "2026-01-13T22:22:29.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "AP Dhillon shares muddy ATV adventure with Salman and Dhoni",
     "desc": "AP Dhillon’s latest Instagram post has given fans an unexpected crossover — the singer spending an action-packed day with Salman Khan and MS Dhoni at the superstar’s Panvel farmhouse. Shared on Tuesday (January 13), the post offered glimpses of the trio bonding over an off-road adventure that didn’t quite go as planned.",
@@ -135,24 +288,6 @@ const newsData_en = [
     "time": "2026-01-13T21:20:06.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Priyanka reveals Malti's reaction to her Golden Globes look, drops PIC with Lisa",
-    "desc": "Priyanka Chopra and Nick Jonas graced the Golden Globes 2026 in stunning attire. Priyanka revealed their daughter Malti Marie's adorable reaction to their red carpet looks, believing they were heading to a royal ball. Malti's imaginative response highlighted her love for all things fancy, with Priyanka playfully reassuring her daughter.",
-    "img": "https://static.toiimg.com/photo/msid-126512857,imgsize-73396.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-jonas-reveals-malti-maries-reaction-to-her-golden-globes-look-drops-pics-with-k-pop-star-lisa-that-spell-sisterhood/articleshow/126512850.cms",
-    "time": "2026-01-13T20:22:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Delhi HC orders removal of unauthorised images of Bhuvan Bam",
-    "desc": "After Salman Khan, Aishwarya Rai Bachchan, Kumar Sanu, Nagarjuna among other celebrities, the Delhi High Court on Tuesday directed the removal of images of YouTuber and actor Bhuvan Bam that were uploaded and circulated on various platforms without his consent. However, the court refrained from granting interim protection on the broader issue of his personality and publicity rights at this stage.",
-    "img": "https://static.toiimg.com/photo/msid-126512818,imgsize-46946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-salman-khan-aishwarya-rai-bachchan-cases-delhi-high-court-orders-removal-of-unauthorised-images-of-bhuvan-bam-defers-ruling-on-personality-rights/articleshow/126512808.cms",
-    "time": "2026-01-13T20:09:50.000Z"
-  },
-  {
     "cat": "Business",
     "title": "US president pushes manufacturing agenda; brushes-off lingering economic fears",
     "desc": "US President Trump visited a Ford assembly line in Michigan to promote his manufacturing agenda amidst voter concerns about jobs and the cost of living. He highlighted economic accomplishments and tariffs, aiming to counter anxieties despite recent election results suggesting voter skepticism. The visit also coincided with shifts in electric vehicle policies.",
@@ -160,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/donald-trump-tours-michigan-ford-plant-us-president-pushes-manufacturing-agenda-brushes-off-lingering-economic-fears/articleshow/126512807.cms",
     "time": "2026-01-13T20:02:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Malaika says she is not apologetic about doing dance numbers at 52",
-    "desc": "Malaika Arora, at 52, continues to impress with her energetic dance numbers, embracing the spotlight despite criticism. She views her performances as empowering, especially for women, and notes the evolution of item songs from mere spectacle to integrated storytelling. Arora feels blessed to still be active and believes her choices are a positive example.",
-    "img": "https://static.toiimg.com/photo/msid-126512701,imgsize-30268.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/malaika-arora-says-she-is-not-apologetic-about-doing-dance-numbers-at-52-i-dont-understand-what-the-big-deal-is/articleshow/126512699.cms",
-    "time": "2026-01-13T19:35:28.000Z"
   },
   {
     "cat": "Politics",
@@ -180,15 +306,6 @@ const newsData_en = [
     "time": "2026-01-13T19:18:33.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rajendra Chawla slams pap culture after Jaya Bachchan row",
-    "desc": "Veteran actor Rajendra Chawla has weighed in strongly on the ongoing debate around paparazzi culture and media sensationalism, triggered by Jaya Bachchan’s recent remarks. Known for his grounded views and blunt honesty, Chawla didn’t hold back as he called out what he described as the media’s obsession with “selling moments.”",
-    "img": "https://static.toiimg.com/photo/msid-126512223,imgsize-49320.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajendra-chawla-slams-paparazzi-culture-after-jaya-bachchan-row-ye-masala-hai-dharam-ji-ki-maut-ko-live-dikhaya-jaa-raha-hai/articleshow/126512169.cms",
-    "time": "2026-01-13T18:52:38.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Tamil Nadu close to eradicating malaria as 33 districts report nil indigenous cases",
     "desc": "Chennai is among the five districts that are yet to achieve zero transmission, accounting for nearly 37%-45% of the State’s malaria cases, even as the number has fallen from 173 in 2023 to 121 in 2025",
@@ -196,15 +313,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/health/tamil-nadu-close-to-eradicating-malaria-as-33-districts-report-nil-indigenous-cases/article70505560.ece",
     "time": "2026-01-13T18:17:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nupur-Stebin's wedding reception: Salman, Kriti, more celebs arrive",
-    "desc": "Nupur Sanon and Stebin Ben celebrated their union with a series of ceremonies in Udaipur, culminating in a grand reception in Mumbai. Nupur looked stunning in both her white wedding dress and red reception attire, while Stebin complemented her in a black sherwani.",
-    "img": "https://static.toiimg.com/photo/msid-126512675,imgsize-56278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-arrives-for-nupur-sanon-stebin-bens-wedding-reception-kriti-sanons-rumoured-boyfriend-kabir-bahia-others-seen-pics-inside/articleshow/126510765.cms",
-    "time": "2026-01-13T18:16:51.000Z"
   },
   {
     "cat": "Sports",
@@ -218,20 +326,11 @@ const newsData_en = [
   {
     "cat": "Politics",
     "title": "Equality in society has to start in school, says Supreme Court",
-    "desc": "A Bench headed by Justice P.S. Narasimha elaborated that the obligation of the government under the Right to Education Act (RTE) to ensure that neighbourhood schools admit children belonging to weaker and disadvantaged sections has an “extraordinary capacity to transform the social structure of our society”.",
+    "desc": "A Bench headed by Justice P.S. Narasimha elaborated that the obligation of the government under the Right to Education Act (RTE) to ensure that neighbourhood schools admit children belonging to weaker and disadvantaged sections has an “extraordinary capacity to transform the social structure of our society”",
     "img": "https://th-i.thgim.com/public/incoming/igu82c/article70506877.ece/alternates/LANDSCAPE_1200/IMG_image__42__2_1_VNERFDQ1.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/social-equality-can-be-achieved-only-if-a-judges-child-and-that-of-a-vendor-sit-together-in-school-supreme-court-judgment/article70506585.ece",
     "time": "2026-01-13T18:02:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tusshar and Jeetendra sell commercial property for Rs 559 cr",
-    "desc": "Bollywood actor Tusshar Kapoor and veteran star Jeetendra have monetised a major real estate asset in Mumbai, jointly selling a premium commercial property in Chandivali for Rs 559.25 crore. The transaction was registered in January 2026, according to property registration documents accessed by real estate consultancy Square Yards from the Inspector General of Registration (IGR), Maharashtra website.",
-    "img": "https://static.toiimg.com/photo/msid-126510971,imgsize-33658.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tusshar-kapoor-and-jeetendra-sell-chandivali-commercial-property-for-rs-559-25-crore-report/articleshow/126510916.cms",
-    "time": "2026-01-13T18:00:05.000Z"
   },
   {
     "cat": "Business",
@@ -261,15 +360,6 @@ const newsData_en = [
     "time": "2026-01-13T17:34:58.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Celina's husband gave her divorce notice on 15th anniversary, denied access to her children",
-    "desc": "Celina Jaitly revealed her husband Peter Haag served her divorce papers disguised as an anniversary gift. She has filed a domestic violence case against him and is also seeking help to rescue her brother detained in the UAE. Jaitly claims she is denied contact with her three children despite joint custody.",
-    "img": "https://static.toiimg.com/photo/msid-126510304,imgsize-37276.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/celina-jaitly-reveals-her-husband-peter-haag-served-her-divorce-notice-on-their-15th-anniversary-says-shes-denied-access-to-her-three-children/articleshow/126510288.cms",
-    "time": "2026-01-13T17:25:56.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Wall Street slips from record highs; earnings season opens on mixed note",
     "desc": "Indian markets saw a cautious start as Wall Street edged lower amidst a mixed earnings season and expected inflation data. Major indices like the S&P 500 and Dow Jones experienced slight declines. While some companies disappointed, others like Revvity and Cardinal Health boosted outlooks, offering pockets of optimism. Inflation figures remained steady, keeping hopes for interest rate cuts alive.",
@@ -279,24 +369,6 @@ const newsData_en = [
     "time": "2026-01-13T17:20:14.000Z"
   },
   {
-    "cat": "Business",
-    "title": "COAI seeks cut in telecom licence fee; flags GST burden and ITC pile-up",
-    "desc": "India's telecom body COAI has urged the government to slash regulatory levies and ease GST norms in the upcoming budget. Citing financial strain, COAI proposed reducing the licence fee to 0.5-1% and suggested GST exemptions or a lower RCM rate on regulatory payments to boost operator liquidity and network investment.",
-    "img": "https://static.toiimg.com/photo/msid-126509699,imgsize-1267405.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-coai-seeks-cut-in-telecom-licence-fee-flags-gst-burden-and-itc-pile-up/articleshow/126509594.cms",
-    "time": "2026-01-13T16:51:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Mutual fund SIP inflows surge to Rs 3.34 lakh cr in 2025; contributions peaked in December",
-    "desc": "Mutual fund investments via SIPs reached an all-time high of Rs 3.34 lakh crore in 2025, demonstrating a strong investor appetite for disciplined, long-term wealth creation. Consistent SIP contributions, even during market corrections, highlight investor confidence and a focus on long-term goals over short-term speculation.",
-    "img": "https://static.toiimg.com/photo/msid-126508833,imgsize-764192.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/mutual-fund-sip-inflows-surge-to-rs-3-34-lakh-cr-in-2025-contributions-peaked-in-december/articleshow/126508806.cms",
-    "time": "2026-01-13T16:45:00.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Supreme Court questions Election Commission on voter roll deletions, citizenship",
     "desc": "Poll body says Article 326, RPA Act, and Registration of Electors Rules of 1960 empower it to conduct an inquisitorial enquiry into citizenship for specific purposes; says persons excluded from the electoral roll under the SIR had the right to appeal",
@@ -304,15 +376,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/can-election-commission-exclude-voters-from-rolls-even-before-centre-takes-a-call-on-citizenship-sc-asks/article70506030.ece",
     "time": "2026-01-13T16:24:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Trump to attend with the largest-ever US delegation; strong Indian side also expected",
-    "desc": "US President Donald Trump will lead a large delegation to the World Economic Forum in Davos, Switzerland, starting January 18. Global leaders will convene amidst rising geopolitical tensions and economic uncertainty, with a focus on Ukraine, Gaza, and Latin America. India will also have a significant presence with ministers and over 100 CEOs.",
-    "img": "https://static.toiimg.com/photo/msid-126508336,imgsize-327195.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/wef-davos-2026-donald-trump-to-attend-summit-with-largest-ever-us-delegation-strong-indian-side-also-expected/articleshow/126508321.cms",
-    "time": "2026-01-13T15:18:07.000Z"
   },
   {
     "cat": "Sports",
@@ -351,15 +414,6 @@ const newsData_en = [
     "time": "2026-01-13T14:23:44.000Z"
   },
   {
-    "cat": "Business",
-    "title": "US sanctions on Iran to have minimal impact on India, say govt sources",
-    "desc": "India anticipates minimal impact from US tariffs on Iran trade, with government sources highlighting limited exposure. Exporters confirm compliance with US norms for humanitarian trade, primarily food and pharmaceuticals, suggesting no adverse effects. However, currency depreciation poses a greater concern for Indian businesses.",
-    "img": "https://static.toiimg.com/photo/msid-126507502,imgsize-2103614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/us-sanctions-iran-additional-25-tariffs-to-have-minimal-impact-on-india-say-government-sources-heres-why/articleshow/126506774.cms",
-    "time": "2026-01-13T14:20:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Kohli set to surpass Sachin, Dravid, Rohit, Rahane; closes in on historic feat",
     "desc": "Virat Kohli is on the cusp of a new Indian record, aiming for his sixth consecutive ODI fifty-plus score against New Zealand in Rajkot. This remarkable streak places him alongside legends like Tendulkar and Dravid. With an exceptional recent run, Kohli's form is a major talking point as India seeks to extend their series lead.",
@@ -378,24 +432,6 @@ const newsData_en = [
     "time": "2026-01-13T13:38:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Aamir's daughter Ira opens up on her struggle with weight loss",
-    "desc": "Aamir Khan's daughter Ira Khan bravely shared her ongoing struggle with body image and weight, detailing a distorted self-perception rooted in childhood avoidance of mirrors. She recounted a challenging 17-day fasting retreat in Germany with her father, where she experienced profound emotional and physical exhaustion, emphasizing the painful feeling of her body not cooperating.",
-    "img": "https://static.toiimg.com/photo/msid-126506525,imgsize-43186.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khans-daughter-ira-khan-opens-up-on-her-struggle-with-her-body-weight-with-an-inspiring-video-we-went-to-germany-for-a-fasting-retreat/articleshow/126506414.cms",
-    "time": "2026-01-13T13:33:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Silver jumps Rs 6,000 to lifetime high; gold hits fresh record",
-    "desc": "Silver prices have reached an unprecedented Rs 2,71,000 per kilogram in Delhi, while gold hit a new high of Rs 1,45,000 per 10 grams. This surge, driven by safe-haven demand amidst global geopolitical tensions, marks significant gains for both precious metals. Investors are now keenly awaiting US inflation data for future market direction.",
-    "img": "https://static.toiimg.com/photo/msid-126506130,imgsize-49052.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/precious-metals-surge-silver-jumps-rs-6000-to-lifetime-high-gold-hits-fresh-record-at-rs-1-45-lakh/articleshow/126506095.cms",
-    "time": "2026-01-13T13:22:03.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Air India facing UK lawsuit from estates of some deceased in 2025 plane crash",
     "desc": "The Ahmedabad-London Air India flight, a Boeing 787 Dreamliner with ​242 people on ⁠board, lost height seconds after taking off from Ahmedabad on June 12, 2025 ‌and erupted in a fireball as it hit a ‍medical college hostel",
@@ -406,30 +442,12 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "India slips to third-largest buyer in December",
-    "desc": "India has slipped to third place in Russian fossil fuel imports for December 2025, with Reliance Industries and state refiners significantly cutting crude oil purchases. Turkiye now ranks second, while China remains the top buyer. This shift follows new US sanctions on Russian oil producers, impacting India's previously high reliance on discounted Russian crude.",
-    "img": "https://static.toiimg.com/photo/msid-126505403,imgsize-656048.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/russian-oil-trade-india-slips-to-third-largest-buyer-in-december-imports-fall-after-refinery-cuts/articleshow/126505404.cms",
-    "time": "2026-01-13T12:32:11.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "Will firmly take up apple import duty concerns with Centre, says Himachal CM",
     "desc": "Chairing a meeting with representatives of orchardists, Chief Minister Sukhvinder Singh Sukhu heard their concern over the Centre’s move of slashing import duty on New Zealand apples from 50% to 25%, which the growers assert would severely impact their livelihoods",
     "img": "https://th-i.thgim.com/public/news/national/other-states/xhlfm9/article70505141.ece/alternates/LANDSCAPE_1200/Meeting%20with%20orchardists%202.jpeg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/will-firmly-take-up-apple-import-duty-concerns-with-centre-says-himachal-cm/article70505144.ece",
     "time": "2026-01-13T12:19:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Blinkit drops ‘10-minute’ delivery claim; Zepto, Swiggy may follow",
-    "desc": "Quick commerce platform Blinkit has removed its \"10-minute delivery\" claim, shifting to \"30,000+ products delivered at your doorstep.\" This move follows government discussions aimed at improving gig worker safety and welfare, with other platforms expected to follow suit. The change comes after worker protests against the pressure of ultra-fast delivery models.",
-    "img": "https://static.toiimg.com/photo/msid-126504825,imgsize-1335074.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gig-worker-safety-row-blinkit-drops-10-minute-delivery-claim-after-labour-ministry-flags-concerns-zepto-swiggy-may-follow/articleshow/126504306.cms",
-    "time": "2026-01-13T11:36:32.000Z"
   },
   {
     "cat": "Sports",
@@ -477,15 +495,6 @@ const newsData_en = [
     "time": "2026-01-13T09:59:55.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Venezuela crisis likely to have limited impact on global oil prices; India Inc insulated",
-    "desc": "Recent political and military developments in Venezuela are unlikely to significantly impact global crude oil prices or Indian companies in the near term. Venezuela's modest contribution to global oil supply limits its influence on prices, and India's direct trade exposure is minimal.",
-    "img": "https://static.toiimg.com/photo/msid-126502241,imgsize-901806.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/venezuela-crisis-turmoil-likely-to-have-limited-impact-on-global-oil-prices-india-inc-insulated/articleshow/126502246.cms",
-    "time": "2026-01-13T09:50:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Onler alleges affairs; Mary claims property theft",
     "desc": "Mary Kom's estranged husband, Karung Onkholer, denies her allegations of financial misappropriation and land loss, calling them baseless. He counters by accusing the boxer of extramarital affairs, claiming their marriage deteriorated over a decade ago. Kom, meanwhile, describes the separation as the \"darkest phase\" of her life, alleging she was cheated of crores and lost land.",
@@ -505,30 +514,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Pressure, pain, sacrifice': Ex-KKR spinner says final goodbye at 31",
-    "desc": "Leg-spinner KC Cariappa has announced his retirement from BCCI cricket at 31. After a memorable IPL debut for KKR where he dismissed AB de Villiers, Cariappa played 11 IPL matches. He also had a productive domestic career representing Mizoram, taking 75 first-class wickets.",
-    "img": "https://static.toiimg.com/photo/msid-126501248,imgsize-11062.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pressure-pain-sacrifice-ex-kkr-spinners-journey-from-ipl-spotlight-to-final-goodbye-at-31/articleshow/126501168.cms",
-    "time": "2026-01-13T08:47:15.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'Anywhere but India': A closer look at Bangladesh's explosive claims and ICC's rebuttal",
     "desc": "Bangladesh's sports advisor claimed the nation would boycott the 2026 T20 World Cup in India, citing security concerns and an alleged ICC assessment. However, the ICC has firmly refuted these claims, stating their independent risk assessments found no specific threats and did not recommend squad changes or election postponements. Bangladesh's matches remain scheduled in India.",
     "img": "https://static.toiimg.com/photo/msid-126500210,imgsize-247022.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/anywhere-but-india-a-closer-look-at-bangladesh-sports-advisors-explosive-claims-and-iccs-rebuttal-on-t20-world-cup-venue-shift/articleshow/126500168.cms",
     "time": "2026-01-13T07:49:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB home ties likely in Navi Mumbai, Raipur",
-    "desc": "Royal Challengers Bengaluru are set to host their IPL 2026 home matches at Navi Mumbai's DY Patil Stadium and Raipur's Shaheed Veer Narayan Singh Stadium. Rajasthan Royals will play their home games at Pune's MCA Stadium. Meanwhile, early WPL fixtures in Navi Mumbai might be held behind closed doors due to local elections.",
-    "img": "https://static.toiimg.com/photo/msid-126498589,imgsize-46296.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-rcb-home-ties-likely-in-navi-mumbai-raipur/articleshow/126498575.cms",
-    "time": "2026-01-13T06:21:46.000Z"
   },
   {
     "cat": "Sports",
@@ -556,15 +547,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/children/the-wax-world-of-madame-tussauds/article70449130.ece",
     "time": "2026-01-13T05:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Paper tigers': Gavaskar unloads on England as Bazball loses its bite",
-    "desc": "Sunil Gavaskar has heavily criticised Ben Stokes' England following their 4-1 Ashes series defeat in Australia, labeling them \"paper tigers.\" He argued that the Bazball approach has lost its effectiveness, with teams now able to counter England's aggressive style, especially on challenging pitches. Gavaskar also pointed to a lack of accountability in the English batting lineup.",
-    "img": "https://static.toiimg.com/photo/msid-126496668,imgsize-369498.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ashes/paper-tigers-exposed-sunil-gavaskar-unloads-on-englands-ashes-collapse-as-bazball-loses-its-bite/articleshow/126496643.cms",
-    "time": "2026-01-13T04:19:41.000Z"
   },
   {
     "cat": "World",
@@ -700,15 +682,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-first-odi-match-report-virat-kohli-rohit-sharma-michael-bracewell-updates/article70497249.ece",
     "time": "2026-01-11T07:57:00.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Maduro loyalists stage rally as Venezuelan government courts U.S.",
-    "desc": "Waving flags and placards with the face of the moustachioed ex-leader and his wife Cilia, around 1,000 protesters rallied in the west of Caracas and a few hundred in the eastern Petare district — far smaller than demonstrations Mr. Maduro's camp has mustered in the past.",
-    "img": "https://th-i.thgim.com/public/incoming/m7npdl/article70497023.ece/alternates/LANDSCAPE_1200/2026-01-11T013817Z_1443727960_RC2KYIAISBIA_RTRMADP_3_USA-VENEZUELA-CARACAS-MARCH.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/maduro-loyalists-stage-rally-as-venezuelan-government-courts-us/article70497005.ece",
-    "time": "2026-01-11T05:34:02.000Z"
   },
   {
     "cat": "Business",
@@ -855,15 +828,6 @@ const newsData_en = [
     "time": "2026-01-07T10:05:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Love Mocktail 3’: Darling Krishna-Milana Nagaraj film locks release date",
-    "desc": "‘Love Mocktail 3 is set to drop in theatres in April. The new chapter in the Kannada film series brings back Darling Krishna and Milana Nagaraj, who not only star but also co-write and direct together",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/23xdf6/article70481454.ece/alternates/LANDSCAPE_1200/Love%20Mocktail.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/love-mocktail-3-release-date-love-mocktail-darling-krishna-milana-nagaraj-nakul-abhayankar-april-2026/article70481308.ece",
-    "time": "2026-01-07T08:18:59.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "SC agrees to take up plea for SOP on freezing, de-freezing bank accounts in cybercrime cases",
     "desc": "The plea also sought appropriate guidelines to all investigating agencies, including cyber cells, to ensure no bank account gets frozen without a written order and intimation to the account holder within 24 hours of such action",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
     "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
   }
 ];
