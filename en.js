@@ -1,5 +1,149 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Why teams are rethinking death-overs batting after ICC ball tweak",
+    "desc": "The Indian cricket team is adapting to new batting strategies for ODIs following a rule change allowing only one ball per innings after the 34th over. Batting coach Sitanshu Kotak highlighted the need for a new approach, especially for the death overs, as older balls become softer and harder to hit.",
+    "img": "https://static.toiimg.com/photo/msid-126519261,imgsize-34006.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/one-ball-endgame-why-teams-are-rethinking-death-overs-batting-after-icc-ball-tweak/articleshow/126519140.cms",
+    "time": "2026-01-14T06:15:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Emraan Hashmi's 'Taskaree' draws fan praise; all episodes now streaming",
+    "desc": "The Smuggler's Web,' has launched on Netflix, captivating audiences with its drug-smuggling narrative. The 7-episode series, featuring a stellar cast, follows a police officer's mission to dismantle a powerful gang. Early reactions are overwhelmingly positive, with viewers praising Hashmi's performance and the show's engaging plot, eagerly anticipating a second season.",
+    "img": "https://static.toiimg.com/photo/msid-126518693,imgsize-65902.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/taskaree-x-review-fans-rave-over-emraan-hashmis-latest-series-life-ka-first-subscription-for-emraanhashmi/articleshow/126518693.cms",
+    "time": "2026-01-14T05:47:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jackson White and Grace Van Patten tease 'Tell me Lies 3' deets",
+    "desc": "Season Three of 'Tell Me Lies' is finally here, and it's set to ignite just as fans hoped! As we dive deeper into the tangled relationship of Lucy and Stephen, portrayed brilliantly by Jackson White and Grace Van Patten, viewers will witness a tumult of chaos and passion.",
+    "img": "https://static.toiimg.com/photo/msid-126518624,imgsize-15280.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/its-going-to-be-explosive-tell-me-lies-jackson-white-and-grace-van-patten-delve-into-what-to-expect-from-season-3/articleshow/126518624.cms",
+    "time": "2026-01-14T05:39:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mama Kelce kept ‘Traitors’ secret to ‘keep the mystery alive’?",
+    "desc": "Donna Kelce decided to play the ultimate game of secrecy during her time on 'Traitors,' keeping her experience hidden from the entire family, including her enthusiastic daughter-in-law Kylie. This tactic effectively ramped up the anticipation surrounding the show's airing.",
+    "img": "https://static.toiimg.com/photo/msid-126518581,imgsize-95160.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/kylie-kelce-reveals-mother-in-law-donna-kelce-kept-the-traitors-scoop-from-family-heres-what-happened/articleshow/126518538.cms",
+    "time": "2026-01-14T05:37:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Happiness &amp; prosperity’: PM Modi wishes Makar Sankranti, Magh Bihu; celebrates Pongal in Delhi",
+    "desc": "Prime Minister Narendra Modi extended greetings on Makar Sankranti, Pongal, and Magh Bihu, celebrating India's diverse harvest festivals. He highlighted their significance in honoring nature, farmers, and cultural traditions, wishing for prosperity and well-being for all citizens.",
+    "img": "https://static.toiimg.com/photo/msid-126518223,imgsize-662416.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/happiness-prosperity-pm-modi-wishes-makar-sankranti-magh-bihu-celebrates-pongal-in-delhi/articleshow/126518117.cms",
+    "time": "2026-01-14T05:19:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Trevor Noah bids farewell as Grammys host",
+    "desc": "Trevor Noah will host the 68th Annual Grammy Awards on February 1, 2026, marking his sixth and final time in the role. Executive producer Ben Winston praised Noah's \"spectacular\" impact, highlighting his wit and genuine fandom. This finale coincides with CBS airing its last Grammys before the show moves to ABC.",
+    "img": "https://static.toiimg.com/photo/msid-126518097,imgsize-351838.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/grammy-2026-comedian-trevor-noah-returns-to-host-the-award-night-before-bidding-farewell/articleshow/126517835.cms",
+    "time": "2026-01-14T05:06:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "New record! China trade surplus hits $1.2 trillion",
+    "desc": "China achieved a record trade surplus of nearly $1.2 trillion in 2025, driven by robust exports to global markets that compensated for reduced shipments to the United States. Despite ongoing trade friction, experts predict exports will continue to be a significant growth driver for China's economy in 2026, with the trade surplus expected to remain above $1 trillion.",
+    "img": "https://static.toiimg.com/photo/msid-126517891,imgsize-84938.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/new-record-china-trade-surplus-hits-1-2-trillion-whats-the-outlook-for-2026/articleshow/126517738.cms",
+    "time": "2026-01-14T05:03:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "At the centre of No. 5 all-rounder debate",
+    "desc": "Ravindra Jadeja is under scrutiny to maintain his position as India's premier ODI spin-bowling all-rounder. Axar Patel is reportedly the preferred choice for the 2027 ODI World Cup. Jadeja is on trial to prove his relevance in the team's future ODI plans. The team management is building a pool of backups for all positions.",
+    "img": "https://static.toiimg.com/photo/msid-126518026,imgsize-139668.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ravindra-jadeja-under-the-odi-glare-at-the-centre-of-no-5-all-rounder-debate-for-2027-world-cup/articleshow/126518000.cms",
+    "time": "2026-01-14T05:01:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Injuries force India to rethink plans ahead of Rajkot ODI vs New Zealand",
+    "desc": "Team India aims to address new ball bowling and middle-overs spin concerns after a close win against New Zealand. With Washington Sundar injured, the team looks to its strong top order and a returning middle order to maintain their home ODI series unbeaten streak.",
+    "img": "https://static.toiimg.com/photo/msid-126517837,imgsize-42942.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/as-easy-as-it-looks-injuries-force-india-to-rethink-plans-ahead-of-rajkot-odi-vs-new-zealand/articleshow/126517845.cms",
+    "time": "2026-01-14T04:49:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jessica Simpson rules out ‘Bachelorette’ role at LAX",
+    "desc": "Jessica Simpson shut down rumors linking her to 'The Bachelorette' following her January 2025 split from Eric Johnson. She stated she has options and is enjoying dating younger men on her own terms. Simpson is focusing on her music, fashion, and a documentary, prioritizing her children and co-parenting.",
+    "img": "https://static.toiimg.com/photo/msid-126517777,imgsize-641272.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/singer-jessica-simpson-shuts-down-bachelorette-rumors-chooses-love-her-way/articleshow/126517779.cms",
+    "time": "2026-01-14T04:43:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about ‘Eternity’ OTT release",
+    "desc": "In 'Eternity,' set to debut on Apple TV this Valentine's Day, Elizabeth Olsen takes on the role of Joan, navigating a whimsical afterlife dilemma. Gifted just seven days post-mortem, she must decide between her devoted husband and the passionate spark from her past. This romantic comedy explores the intricate balance of love, nostalgia, and the choices that define us.",
+    "img": "https://static.toiimg.com/photo/msid-126517739,imgsize-43164.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/eternity-on-ott-the-afterlife-rom-com-starring-miles-teller-elizabeth-olsen-and-callum-turner-finally-gets-a-streaming-date/articleshow/126517723.cms",
+    "time": "2026-01-14T04:41:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ben Affleck, Matt Damon’s first payday came with a tax shock",
+    "desc": "Ben Affleck and Matt Damon revealed how their $600,000 'Good Will Hunting' script earnings quickly evaporated due to taxes and Hollywood fees, leaving them with just $110,000 each. They splurged on cars and a party pad, becoming broke within six months, a stark lesson in their early days of stardom.",
+    "img": "https://static.toiimg.com/photo/msid-126517745,imgsize-451328.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ben-affleck-and-matt-damon-reveal-tax-shock-from-good-will-hunting-payday-and-the-story-of-being-broke-in-six-months/articleshow/126517749.cms",
+    "time": "2026-01-14T04:41:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Teyana confirms Leo was talking to her in Globes meme",
+    "desc": "Teyana Taylor clarified a viral Golden Globes moment, revealing she was chatting with Leonardo DiCaprio about his 'KPop Demon Hunters' win. Taylor, who also won an award for 'One Battle After Another', admitted she was too excited to fully recall their conversation, though she remembers discussing the animated film's popularity with her children. DiCaprio's animated exchange had sparked widespread speculation.",
+    "img": "https://static.toiimg.com/photo/msid-126517294,imgsize-15482.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/teyana-taylor-confirms-leonardo-dicaprio-was-taking-to-her-about-kpop-demon-hunters-in-viral-golden-globes-meme-watch/articleshow/126517281.cms",
+    "time": "2026-01-14T04:41:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "GBA chief orders action against illegal buildings in Bengaluru",
+    "desc": "GBA Chief Commissioner M. Maheshwar Rao highlighted the importance of sealing buildings that have been constructed without approved plans, and stopping work at the earliest stage of violation, alongside taking disciplinary action against officials who fail to act",
+    "img": "https://th-i.thgim.com/public/incoming/yq4n2m/article70508072.ece/alternates/LANDSCAPE_1200/Maheshwar%20Rao.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/gba-chief-orders-action-against-illegal-buildings-in-bengaluru/article70506388.ece",
+    "time": "2026-01-14T04:20:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Has India denied visas to Pak-born US cricketers? The real story behind the claim",
+    "desc": "Speculation arose after US cricketer Ali Khan's social media post suggested visa denials for Pakistan-origin players ahead of the T20 World Cup. Officials clarified that no visas have been rejected; applications for four US players of Pakistani origin are undergoing standard administrative review, a routine process for such cases.",
+    "img": "https://static.toiimg.com/photo/msid-126517316,imgsize-46038.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/has-india-really-denied-visas-to-us-cricketers-of-pakistan-origin-the-real-story-behind-the-viral-claim/articleshow/126517126.cms",
+    "time": "2026-01-14T04:18:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee rebounds! Currency rises 11 paise in early trade; reaches 90.12 against US dollar",
+    "desc": "The Indian rupee opened weaker on Wednesday, continuing its downward trend against the US dollar. This decline is attributed to rising crude oil prices, geopolitical tensions, and foreign fund outflows. While global risk aversion and weak domestic markets are pressuring the currency, optimism around a potential India-US trade deal and a possible rate cut may offer support.",
+    "img": "https://static.toiimg.com/photo/msid-126517228,imgsize-42572.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-in-red-currency-falls-7-paise-in-early-trade-reaches-90-25-against-us-dollar/articleshow/126517063.cms",
+    "time": "2026-01-14T04:14:03.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "SRK spotted neck tattoos, sparks 'King' buzz: PICS",
     "desc": "Shah Rukh Khan was spotted sporting new neck tattoos at a Mumbai dubbing studio, fueling speculation about his upcoming action flick, 'King'. Fans eagerly await updates on the highly anticipated film, which follows his recent Rs 1000 crore successes. The actor's new look hints at a powerful on-screen persona, with the movie poised to be another major box-office contender.",
@@ -16,6 +160,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-rise-after-wall-street-tumbles-hsi-adds-180-points-nikkei-up-1/articleshow/126516485.cms",
     "time": "2026-01-14T03:35:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rihanna’s recent comment about pregnancy goes viral",
+    "desc": "Rihanna's recent social media comment has ignited a frenzy, with fans speculating about a potential 2026 pregnancy. The singer's cryptic reply to an influencer's post about choosing between 'hot and sexy' or 'pregnant' has sent the internet abuzz. Having recently welcomed their third child, fans are eager to know what's next for the star and A$AP Rocky.",
+    "img": "https://static.toiimg.com/photo/msid-126516597,imgsize-60376.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/baby-no-4-on-the-way-rihannas-surprising-comment-goes-viral-sparks-online-debate/articleshow/126516597.cms",
+    "time": "2026-01-14T03:32:25.000Z"
   },
   {
     "cat": "Sports",
@@ -55,7 +208,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Why Virat Kohli has always stayed ahead of Rohit in ODIs — ex-India batter explains",
+    "title": "Why Virat has always stayed ahead of Rohit in ODIs — ex-India batter explains",
     "desc": "Mohammad Kaif attributes Virat Kohli's ODI dominance over Rohit Sharma to his exceptional mindset and ability to convert starts into match-winning scores. Kaif highlighted Kohli's self-awareness and relentless standards, even after a significant knock. Kohli's recent fifty-plus streak in ODIs is also noted, bringing him closer to a new Indian record.",
     "img": "https://static.toiimg.com/photo/msid-126516251,imgsize-39088.cms",
     "src": "indiatimes.com",
@@ -153,33 +306,6 @@ const newsData_en = [
     "time": "2026-01-14T00:50:38.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Nidhhi Agerwal, Riddhi Kumar ADDRESS the mobbing incident",
-    "desc": "Following a chaotic mob encounter in Hyderabad, 'The Raja Saab' stars Nidhhi Agerwal and Riddhi Kumar are advocating for the essential respect for actors’ personal lives. Riddhi revealed the fear that surged through her and her parents during the incident, emphasizing the importance of cultivating a safer and more respectful environment when engaging with public figures.",
-    "img": "https://static.toiimg.com/photo/msid-126515392,imgsize-41224.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-actresses-nidhhi-agerwal-and-riddhi-kumar-address-the-mobbing-incident-say-admiration-has-to-come-with-respect/articleshow/126515392.cms",
-    "time": "2026-01-14T00:41:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar' scores highest week 6 collections",
-    "desc": "Ranveer Singh and Akshaye Khanna's spy thriller 'Dhurandhar' continues its phenomenal run, now surpassing Rs 810 crore nett. The film has achieved the highest Week 6 collections ever for a Hindi movie, adding another record to its impressive theatrical journey. Its sustained momentum is a testament to its widespread appeal.",
-    "img": "https://static.toiimg.com/photo/msid-126515296,imgsize-19134.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-40-ranveer-singh-akshaye-khanna-starrer-breaks-stree-2-record-scores-highest-week-6-collections/articleshow/126515252.cms",
-    "time": "2026-01-14T00:39:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Sarvam Maya' BO day 20: Collects only Rs 85 lakhs",
-    "desc": "'Sarvam Maya' experienced a significant dip in box office collections on its twentieth day, earning just Rs 85 lakhs. The film's total India net collection now stands at approximately Rs 67.15 crore. While the third week showed some fluctuations, a noticeable drop occurred towards its end, with occupancy remaining low, particularly in morning and afternoon shows.",
-    "img": "https://static.toiimg.com/photo/msid-126515410,imgsize-50416.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/sarvam-maya-box-office-collections-day-20-nivin-pauly-film-slows-down-collects-only-rs-85-lakhs/articleshow/126515410.cms",
-    "time": "2026-01-14T00:38:02.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "J&amp;K LG sacks 5 govt staff over links with terror outfits",
     "desc": "In a significant move, Jammu & Kashmir's Lieutenant Governor Manoj Sinha has terminated the employment of five individuals, citing their alleged connections to terrorist organizations. Among those dismissed are a lab technician and a forest worker, accused of supporting extremist factions and their commanders based in Pakistan.",
@@ -187,24 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/jk-lg-sacks-5-govt-staff-over-links-with-terror-outfits/articleshow/126515411.cms",
     "time": "2026-01-14T00:35:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'MSVG' BO day 2: Chiranjeevi film shows strong hold",
-    "desc": "Chiranjeevi's latest, 'Mana ShankaraVaraprasad Garu,' is a box office hit, raking in approximately ₹61.10 crore net in its first two days. The film demonstrated strong performance on its second day, earning ₹19.50 crore. Positive audience reactions and healthy weekday occupancy highlight the movie's widespread appeal and Chiranjeevi's captivating on-screen presence.",
-    "img": "https://static.toiimg.com/photo/msid-126515329,imgsize-40890.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/mana-shankaravaraprasad-garu-box-office-collections-day-2-chiranjeevi-film-shows-strong-hold-mints-rs-19-50-crores/articleshow/126515329.cms",
-    "time": "2026-01-14T00:20:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Raja Saab' BO day 5: Prabhas film slows down further",
-    "desc": "Prabhas's 'Raja Saab' is facing a significant box office downturn, with collections plummeting after its initial days. Day 5 saw a meager Rs 4.85 crore, bringing the total to Rs 119.45 crore. Low occupancy across languages and overwhelmingly negative audience reviews citing poor storytelling and performances are contributing to the film's struggle, despite its star-studded cast.",
-    "img": "https://static.toiimg.com/photo/msid-126515279,imgsize-64002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-box-office-collections-day-5-prabhas-film-slows-down-further-mints-just-rs-4-85-crore/articleshow/126515279.cms",
-    "time": "2026-01-14T00:05:17.000Z"
   },
   {
     "cat": "Politics",
@@ -234,15 +342,6 @@ const newsData_en = [
     "time": "2026-01-13T23:30:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "BTS skips India in 2026-2027 world tour",
-    "desc": "K-pop sensation BTS is set to electrify fans with a massive 2026-2027 world tour, their first since 2021-22. Kicking off in South Korea, the tour spans over 70 dates across five continents. This highly anticipated return follows their nearly four-year hiatus, necessitated by the members' mandatory military service. Ticket presales begin January 22nd.",
-    "img": "https://static.toiimg.com/photo/msid-126515238,imgsize-304696.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/bts-world-tour-k-pop-stars-skip-india-in-70-day-schedule-ticket-presales-begin-22-january/articleshow/126515149.cms",
-    "time": "2026-01-13T23:01:59.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Army ready to induct women in infantry if there is societal acceptance': General Upendra Dwivedi",
     "desc": "The Indian Army is prepared to integrate women into infantry roles, contingent on societal readiness, Army Chief General Upendra Dwivedi stated. He emphasized gender neutrality and uniform standards, noting a sequential induction into combat roles. The Army is also undergoing significant modernization, focusing on drone capabilities, advanced weaponry, and self-reliance in ammunition for future warfare.",
@@ -253,7 +352,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "NEET-PG cut-off overhaul in Delhi: Centre lowers qualifying percentile to fill 9,000 vacant seats",
+    "title": "NEET-PG cut-off score now fixed at -40 out of 800",
     "desc": "Government has significantly reduced NEET-PG cut-offs to fill over 9,000 vacant medical postgraduate seats. Percentiles for general, EWS, SC, ST, and OBC candidates have been lowered, some to zero. This move aims to prevent wastage of training capacity amidst a doctor shortage and follows a plea from the Indian Medical Association.",
     "img": "https://static.toiimg.com/photo/msid-126515922,imgsize-30154.cms",
     "src": "indiatimes.com",
@@ -261,31 +360,13 @@ const newsData_en = [
     "time": "2026-01-13T22:22:29.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "AP Dhillon shares muddy ATV adventure with Salman and Dhoni",
-    "desc": "AP Dhillon’s latest Instagram post has given fans an unexpected crossover — the singer spending an action-packed day with Salman Khan and MS Dhoni at the superstar’s Panvel farmhouse. Shared on Tuesday (January 13), the post offered glimpses of the trio bonding over an off-road adventure that didn’t quite go as planned.",
-    "img": "https://static.toiimg.com/photo/msid-126513762,imgsize-116672.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ap-dhillon-shares-muddy-atv-adventure-with-salman-khan-and-ms-dhoni-at-panvel-farmhouse-who-do-you-think-crashed-it/articleshow/126513631.cms",
-    "time": "2026-01-13T22:18:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yuzvendra Chahal denies reunion with Dhanashree in The 50",
-    "desc": "India’s attacking leg-spinner Yuzvendra Chahal has firmly dismissed rumours linking him to a reality television show, calling the reports “speculative and factually incorrect.” The cricketer addressed the chatter after claims surfaced suggesting that he would appear on the upcoming reality show The 50, alongside his ex-wife Dhanashree Verma.",
-    "img": "https://static.toiimg.com/photo/msid-126513122,imgsize-54180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yuzvendra-chahal-denies-reunion-with-ex-wife-dhanashree-verma-in-upcoming-reality-show-the-50-calls-reports-speculative-and-factually-incorrect/articleshow/126513117.cms",
-    "time": "2026-01-13T21:55:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Disha Patani-Talwinder dodge paps with Mouni Roy's help",
-    "desc": "Disha Patani and Punjabi singer Talwinder have once again sparked dating rumours after being spotted playing hide-and-seek with paparazzi at Nupur Sanon and Stebin Ben’s star-studded wedding reception in Mumbai. The two were earlier seen holding hands at the couple’s wedding celebrations in Udaipur, a moment that quickly went viral and set social media abuzz.",
-    "img": "https://static.toiimg.com/photo/msid-126512918,imgsize-49174.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/disha-patani-and-punjabi-singer-talwinder-dodge-paparazzi-with-mouni-roys-help-at-nupur-sanonstebin-ben-wedding-reception/articleshow/126512913.cms",
-    "time": "2026-01-13T21:20:06.000Z"
+    "cat": "Politics",
+    "title": "Punjab police get 3-day ultimatum to explain FIR in Atishi video row",
+    "desc": "Assembly Speaker questions impartiality of the probe, says police seeking 10 days to reply despite ‘instant’ FIR, investigation raises ‘serious questions’; govt. flags Atishi’s silence, seeks answers from her; AAP demands apology from Tourism Minister",
+    "img": "https://th-i.thgim.com/public/incoming/qrgbaw/article70506998.ece/alternates/LANDSCAPE_1200/40_BJP_PROTEST_09_01_DELHI.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/punjab-police-get-3-day-ultimatum-to-explain-fir-in-atishi-video-row/article70506997.ece",
+    "time": "2026-01-13T20:20:51.000Z"
   },
   {
     "cat": "Business",
@@ -307,11 +388,11 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Tamil Nadu close to eradicating malaria as 33 districts report nil indigenous cases",
+    "title": "Tamil Nadu close to eliminating malaria as 33 districts report nil indigenous cases",
     "desc": "Chennai is among the five districts that are yet to achieve zero transmission, accounting for nearly 37%-45% of the State’s malaria cases, even as the number has fallen from 173 in 2023 to 121 in 2025",
     "img": "https://th-i.thgim.com/public/incoming/wnht1h/article70506901.ece/alternates/LANDSCAPE_1200/4871_29_7_2025_11_44_33_1_20250620_074506.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/tamil-nadu-close-to-eradicating-malaria-as-33-districts-report-nil-indigenous-cases/article70505560.ece",
+    "url": "https://www.thehindu.com/sci-tech/health/tamil-nadu-close-to-eliminating-malaria-as-33-districts-report-nil-indigenous-cases/article70505560.ece",
     "time": "2026-01-13T18:17:01.000Z"
   },
   {
@@ -333,24 +414,6 @@ const newsData_en = [
     "time": "2026-01-13T18:02:02.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Liquidnitro Games raises $19.1 million, led by Northpoint",
-    "desc": "Bengaluru-based Liquidnitro Games has secured $19.1 million in Series A funding, led by Northpoint Capital, to boost its AI-driven game development and global expansion. The investment will accelerate their proprietary platform, scale publisher partnerships, and enter new markets like India and Southeast Asia. This funding aims to revolutionize game production and live services.",
-    "img": "https://static.toiimg.com/photo/msid-126510920,imgsize-1642255.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/liquidnitro-games-raises-19-1-million-led-by-northpoint/articleshow/126510929.cms",
-    "time": "2026-01-13T17:56:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Deloitte calls for customs duty overhaul; seeks higher allocations for exports",
-    "desc": "Deloitte India suggests the upcoming Union Budget should boost domestic manufacturing and exports by rationalizing import duties and increasing budgetary allocations. The consulting firm advocates for a balanced customs duty structure, encouraging domestic value addition and exports. Reforms to SEZ regimes and extended manufacturing programs are also proposed to enhance competitiveness and support Indian exporters in global markets.",
-    "img": "https://static.toiimg.com/photo/msid-126510779,imgsize-1042835.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-expectations-deloitte-calls-for-customs-duty-overhaul-seeks-higher-allocations-for-exports/articleshow/126510650.cms",
-    "time": "2026-01-13T17:51:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'It's a format that we enjoy playing': Nicholls hopeful ahead of 2nd ODI",
     "desc": "Ahead of the second ODI, New Zealand’s Henry Nicholls said bilateral series have become vital with limited ODI cricket before major events like the 2027 World Cup. He called the format exciting and praised his team’s adaptation against Virat Kohli and Rohit Sharma. India lead the series 1-0 after a four-wicket win in the opener.",
@@ -358,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/its-a-format-that-we-enjoy-playing-new-zealands-henry-nicholls-hopeful-of-putting-better-challenge-against-india-in-2nd-odi/articleshow/126510287.cms",
     "time": "2026-01-13T17:34:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Wall Street slips from record highs; earnings season opens on mixed note",
-    "desc": "Indian markets saw a cautious start as Wall Street edged lower amidst a mixed earnings season and expected inflation data. Major indices like the S&P 500 and Dow Jones experienced slight declines. While some companies disappointed, others like Revvity and Cardinal Health boosted outlooks, offering pockets of optimism. Inflation figures remained steady, keeping hopes for interest rate cuts alive.",
-    "img": "https://static.toiimg.com/photo/msid-126510182,imgsize-1501809.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-stocks-today-wall-street-slip-from-record-highs-earnings-season-opens-on-mixed-note/articleshow/126510125.cms",
-    "time": "2026-01-13T17:20:14.000Z"
   },
   {
     "cat": "Politics",
@@ -451,30 +505,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Avoid 9am starts, play Vijay Hazare knockouts in D/N format: Siddhesh Lad",
-    "desc": "Mumbai's stand-in captain Siddhesh Lad has called for a change in the Vijay Hazare Trophy knockout format. He believes the 9 am start times unfairly benefit the team fielding first. Lad suggests day/night matches for future knockout stages to ensure a level playing field.",
-    "img": "https://static.toiimg.com/photo/msid-126503513,imgsize-27750.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/avoid-9am-starts-play-vijay-hazare-trophy-knockouts-in-d/n-format-mumbai-captain-siddhesh-lad/articleshow/126503425.cms",
-    "time": "2026-01-13T11:00:40.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "The ‘nervous’ 90s and the great ‘What If’",
     "desc": "Virat Kohli is in exceptional form, achieving six consecutive fifty-plus scores, including two centuries. This remarkable run brings his international century tally to 84, just 16 shy of Sachin Tendulkar's record. A recent 93 against New Zealand highlights his consistent performance, fueling speculation about his potential if 'nervous' nineties were converted.",
     "img": "https://static.toiimg.com/photo/msid-126503464,imgsize-61974.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/virat-kohli-vs-sachin-tendulkar-the-nervous-90s-and-the-great-what-if/articleshow/126503394.cms",
     "time": "2026-01-13T10:51:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ahead of Candidates 2026, India's only hope Pragg makes big admission",
-    "desc": "Indian grandmaster R Praggnanandhaa admitted his form dipped after a hectic 2025 season despite early title wins. He struggled in the year’s latter half but is not worried about the 2026 Candidates. Praggnanandhaa believes continuous tournaments affected his play and says an upcoming two-month break will help him rest, regroup, and prepare better.",
-    "img": "https://static.toiimg.com/photo/msid-126502835,imgsize-204338.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/ahead-of-candidates-2026-indias-only-hope-r-praggnanandhaa-reveals-my-play-not-on-same-level-as-it-used-to-be/articleshow/126502200.cms",
-    "time": "2026-01-13T10:23:52.000Z"
   },
   {
     "cat": "Sports",
@@ -493,42 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/kranti-gaud-exclusive-village-roots-world-cup-glory-fathers-honour-and-a-hardik-pandya-dream/articleshow/126501876.cms",
     "time": "2026-01-13T09:59:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Onler alleges affairs; Mary claims property theft",
-    "desc": "Mary Kom's estranged husband, Karung Onkholer, denies her allegations of financial misappropriation and land loss, calling them baseless. He counters by accusing the boxer of extramarital affairs, claiming their marriage deteriorated over a decade ago. Kom, meanwhile, describes the separation as the \"darkest phase\" of her life, alleging she was cheated of crores and lost land.",
-    "img": "https://static.toiimg.com/photo/msid-126501654,imgsize-89390.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/boxing/mary-kom-vs-onler-karong-bitter-divorce-drama-onler-alleges-affairs-mary-claims-property-theft/articleshow/126501629.cms",
-    "time": "2026-01-13T09:14:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar' day 40 Vs 'The Raja Saab' day 5 (LIVE)",
-    "desc": "'Dhurandhar' continues its phenomenal run, entering its sixth week and shattering records by becoming the highest-grossing Indian film, surpassing Rs 1200 crore worldwide. In contrast, Prabhas's 'The Raja Saab' experienced a significant decline after its opening weekend, with its Hindi belt collections faltering despite being a new release.",
-    "img": "https://static.toiimg.com/photo/msid-126501298,imgsize-78572.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-day-40-vs-the-raja-saab-day-5-live-the-prabhas-starrer-crashes-on-monday-after-crossing-rs-100-crore-ranveer-singhs-film-slows-down-in-week-6/articleshow/126500940.cms",
-    "time": "2026-01-13T08:50:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Anywhere but India': A closer look at Bangladesh's explosive claims and ICC's rebuttal",
-    "desc": "Bangladesh's sports advisor claimed the nation would boycott the 2026 T20 World Cup in India, citing security concerns and an alleged ICC assessment. However, the ICC has firmly refuted these claims, stating their independent risk assessments found no specific threats and did not recommend squad changes or election postponements. Bangladesh's matches remain scheduled in India.",
-    "img": "https://static.toiimg.com/photo/msid-126500210,imgsize-247022.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/anywhere-but-india-a-closer-look-at-bangladesh-sports-advisors-explosive-claims-and-iccs-rebuttal-on-t20-world-cup-venue-shift/articleshow/126500168.cms",
-    "time": "2026-01-13T07:49:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What has Kohli changed? Ashwin decodes star batter's ODI dominance",
-    "desc": "Virat Kohli's masterful 93 guided India to a four-wicket victory, chasing 301 in the first ODI. His seventh consecutive fifty-plus score highlights remarkable consistency. Ravichandran Ashwin lauded Kohli's liberated approach, attributing it to enjoying the game. Shreyas Iyer also impressed on his comeback with a crucial 49, showcasing his ODI reliability.",
-    "img": "https://static.toiimg.com/photo/msid-126497917,imgsize-34922.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/what-has-virat-kohli-changed-r-ashwin-decodes-star-batters-odi-dominance/articleshow/126497881.cms",
-    "time": "2026-01-13T05:44:12.000Z"
   },
   {
     "cat": "World",

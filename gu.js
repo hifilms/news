@@ -6,7 +6,16 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/health-alert-india-nipah-virus-120-people-home-isolaton-west-bengal-461631 ",
-    "time": "2026-01-14T03:35:27.000Z"
+    "time": "2026-01-14T05:48:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "20 જાન્યુઆરીએ ખુલી રહ્યો છે વધુ એક મેઈનબોર્ડ IPO, પ્રાઇસ બેન્ડ છે 124 રૂપિયા, જાણો અન્ય ડિટેલ",
+    "desc": "19 જાન્યુઆરીએ એન્કર રોકાણકારોને શેર ફાળવવામાં આવશે. આ IPOમાં એક લોટમાં 120 શેર હશે, અને રિટેલ રોકાણકારોએ ઓછામાં ઓછા એક લોટ માટે અરજી કરવી પડશે. 10 ટકા શેર રિટેલ રોકાણકારો માટે, 15% NII રોકાણકારો માટે અને 75% QIB રોકાણકારો માટે અનામત રાખવામાં આવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/another-mainboard-ipo-is-opening-on-january-20-price-band-is-rs-124-know-other-details-461641 ",
+    "time": "2026-01-14T05:42:20.000Z"
   },
   {
     "cat": "Entertainment",
@@ -259,15 +268,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/tata-sales-report-breakup-december-2025-nexon-on-top-know-about-punch-curve-other-models-461419 ",
     "time": "2026-01-12T08:55:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ઉત્તરાયણના દિવસે ગુજરાતમાં બેંકો બંધ રહેશે કે ખુલ્લી ? એક ક્લિકમાં જાણી લો જવાબ",
-    "desc": "જો તમે 14 જાન્યુઆરીએ બેંક જવાનું વિચારી રહ્યા છો, તો આ સમાચાર તમારા માટે ઉપયોગી છે. RBI દ્વારા જાહેર કરાયેલ જાન્યુઆરી મહિનાની રજાઓની યાદીમાં મકરસંક્રાંતિ એટલે કે ઉત્તરાયણના દિવસે બેંક બંધ રહેશે કે ચાલું ? તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/will-bank-holiday-on-14th-january-makar-sankranti-know-full-details-461411 ",
-    "time": "2026-01-12T07:16:24.000Z"
   },
   {
     "cat": "Sports",
