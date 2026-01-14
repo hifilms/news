@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "England set to reject pink-ball Ashes Test requests, unlikely to host any: Report",
+    "desc": "England are set to oppose the inclusion of any floodlit, pink-ball Tests in the next Ashes tour of Australia, taking a firm position well in advance of the 2029-30 series. The stance has been communicated...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-set-to-reject-pink-ball-ashes-test-requests-unlikely-to-host-any-report-2026-01-14-1025757",
+    "time": "2026-01-14T01:21:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Marcus Stoinis shares update on his injury, will he be fit for T20 World Cup 2026?",
+    "desc": "Marcus Stoinis expects to return in time for the Big Bash League finals and believes the injury he suffered this week will not jeopardise his hopes of featuring at the next T20 World Cup. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/marcus-stoinis-shares-update-on-his-injury-will-he-be-fit-for-t20-world-cup-2026-2026-01-14-1025752",
+    "time": "2026-01-14T00:58:49.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Harmanpreet Kaur becomes first Indian cricketer to achieve major feat in WPL history as Mumbai beat Gujarat",
     "desc": "Mumbai Indians captain Harmanpreet Kaur played some phenomenal cricket in the clash against Gujarat Giants in the ongoing WPL 2026. Chasing 193 runs, the hosts were put in some trouble early on, but once Harmanpreet...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/faf-du-plessis-ruled-out-of-remainder-of-sa20-season-joburg-super-kings-announce-new-captain-2026-01-13-1025703",
     "time": "2026-01-13T11:20:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Michael Carrick appointed as Manchester United caretaker coach, know why he was preferred over Ole Gunnar",
-    "desc": "Michael Carrick has been appointed caretaker manager of Manchester United, returning to the Old Trafford dugout at a time of renewed upheaval for the club. The former midfielder agreed to the role on Monday night...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/michael-carrick-appointed-as-manchester-united-caretaker-coach-know-why-he-was-preferred-over-ole-gunnar-solskjaer-2026-01-13-1025694",
-    "time": "2026-01-13T10:40:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC holds meeting with BCB officials for T20 World Cup 2026, Bangladesh confirm stance to not travel to India",
-    "desc": "The Bangladesh Cricket Board (BCB) has reiterated its decision not to travel to India for the T20 World Cup 2026, citing security concerns, following a video conference with the International Cricket Council (ICC) held on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-holds-meeting-with-bcb-officials-for-t20-world-cup-2026-bangladesh-confirm-stance-to-not-travel-to-india-2026-01-13-1025687",
-    "time": "2026-01-13T10:01:23.000Z"
   }
 ];

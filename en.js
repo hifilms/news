@@ -1,6 +1,141 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "‘Sarvam Maya’: How the film marks Nivin Pauly’s big comeback",
+    "desc": "Nivin Pauly's triumphant return to the spotlight with 'Sarvam Maya' has captivated audiences, crossing Rs 100 crore worldwide and outperforming rivals. The film's blend of comedy, emotion, and fantasy, coupled with Nivin's natural charm, has reignited fan adoration. With a slate of upcoming projects, Nivin is poised for a sustained comeback.",
+    "img": "https://static.toiimg.com/photo/msid-126515512,imgsize-85342.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/back-in-the-game-how-sarvam-maya-marks-nivin-paulys-big-comeback/articleshow/126515487.cms",
+    "time": "2026-01-14T01:01:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Monarch’ Season 2 teaser signals rise of Titan X",
+    "desc": "Legacy of Monsters' Season 2, set to debut February 27, 2026. The series, featuring Kurt and Wyatt Russell, delves into Skull Island's mysteries and escalating kaiju conflicts. Expect deeper conspiracies, dimensional rifts, and intense battles as Monarch and Apex Cybernetics clash, with Godzilla's return promising epic showdowns.",
+    "img": "https://static.toiimg.com/photo/msid-126515471,imgsize-368309.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/monarch-legacy-of-monsters-season-2-teaser-unleashes-terrifying-titan-x-watch/articleshow/126515479.cms",
+    "time": "2026-01-14T00:50:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nidhhi Agerwal, Riddhi Kumar ADDRESS the mobbing incident",
+    "desc": "Following a chaotic mob encounter in Hyderabad, 'The Raja Saab' stars Nidhhi Agerwal and Riddhi Kumar are advocating for the essential respect for actors’ personal lives. Riddhi revealed the fear that surged through her and her parents during the incident, emphasizing the importance of cultivating a safer and more respectful environment when engaging with public figures.",
+    "img": "https://static.toiimg.com/photo/msid-126515392,imgsize-41224.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-actresses-nidhhi-agerwal-and-riddhi-kumar-address-the-mobbing-incident-say-admiration-has-to-come-with-respect/articleshow/126515392.cms",
+    "time": "2026-01-14T00:41:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar' scores highest week 6 collections",
+    "desc": "Ranveer Singh and Akshaye Khanna's spy thriller 'Dhurandhar' continues its phenomenal run, now surpassing Rs 810 crore nett. The film has achieved the highest Week 6 collections ever for a Hindi movie, adding another record to its impressive theatrical journey. Its sustained momentum is a testament to its widespread appeal.",
+    "img": "https://static.toiimg.com/photo/msid-126515296,imgsize-19134.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-40-ranveer-singh-akshaye-khanna-starrer-breaks-stree-2-record-scores-highest-week-6-collections/articleshow/126515252.cms",
+    "time": "2026-01-14T00:39:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Sarvam Maya' BO day 20: Collects only Rs 85 lakhs",
+    "desc": "'Sarvam Maya' experienced a significant dip in box office collections on its twentieth day, earning just Rs 85 lakhs. The film's total India net collection now stands at approximately Rs 67.15 crore. While the third week showed some fluctuations, a noticeable drop occurred towards its end, with occupancy remaining low, particularly in morning and afternoon shows.",
+    "img": "https://static.toiimg.com/photo/msid-126515410,imgsize-50416.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/sarvam-maya-box-office-collections-day-20-nivin-pauly-film-slows-down-collects-only-rs-85-lakhs/articleshow/126515410.cms",
+    "time": "2026-01-14T00:38:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'MSVG' BO day 2: Chiranjeevi film shows strong hold",
+    "desc": "Chiranjeevi's latest, 'Mana ShankaraVaraprasad Garu,' is a box office hit, raking in approximately ₹61.10 crore net in its first two days. The film demonstrated strong performance on its second day, earning ₹19.50 crore. Positive audience reactions and healthy weekday occupancy highlight the movie's widespread appeal and Chiranjeevi's captivating on-screen presence.",
+    "img": "https://static.toiimg.com/photo/msid-126515329,imgsize-40890.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/mana-shankaravaraprasad-garu-box-office-collections-day-2-chiranjeevi-film-shows-strong-hold-mints-rs-19-50-crores/articleshow/126515329.cms",
+    "time": "2026-01-14T00:20:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Raja Saab' BO day 5: Prabhas film slows down further",
+    "desc": "Prabhas's 'Raja Saab' is facing a significant box office downturn, with collections plummeting after its initial days. Day 5 saw a meager Rs 4.85 crore, bringing the total to Rs 119.45 crore. Low occupancy across languages and overwhelmingly negative audience reviews citing poor storytelling and performances are contributing to the film's struggle, despite its star-studded cast.",
+    "img": "https://static.toiimg.com/photo/msid-126515279,imgsize-64002.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-box-office-collections-day-5-prabhas-film-slows-down-further-mints-just-rs-4-85-crore/articleshow/126515279.cms",
+    "time": "2026-01-14T00:05:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ram Setu vs. Sethusamudram project: When Tamil Nadu BJP headquarters was attacked by DMK cadres",
+    "desc": "In response to DMK president M. Karunanidhi’s remark on Ram Setu, Vishwa Hindu Parishad (VHP) leader and former BJP MP Ram Vilas Vedanti triggered a major controversy in September 2007 by saying that “whosoever chopped off the head and tongue of the DMK president would be gifted in gold.”",
+    "img": "https://th-i.thgim.com/public/incoming/h75fah/article70497696.ece/alternates/LANDSCAPE_1200/02Protest23srr.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/ram-setu-vs-sethusamudram-project-when-tamil-nadu-bjp-headquarters-was-attacked-by-dmk-cadres-in-2007/article70497542.ece",
+    "time": "2026-01-14T00:00:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What an edible insects stall revealed about acceptance, ‘normal’ food",
+    "desc": "Despite their nutritional and environmental benefits, people are increasingly moving away from insect-based foods. Urbanisation has created both physical and cultural distance from such practices. Many younger generations that have grown up or settled in cities are often unaware that insects are eaten across several parts of India",
+    "img": "https://th-i.thgim.com/public/sci-tech/science/bv5bny/article70504715.ece/alternates/LANDSCAPE_1200/1x1000279222.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/what-an-edible-insect-stall-revealed-about-acceptance-normal-food/article70504725.ece",
+    "time": "2026-01-13T23:45:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "After Rizwan’s retired-out episode, Ali also errs – Watch",
+    "desc": "Pakistan players endured further embarrassment in the Big Bash League as Hasan Ali’s misfield gifted a boundary during Adelaide Strikers’ loss to Melbourne Stars, just a day after Mohammad Rizwan became the first overseas player to be retired out. Tom Curran’s career-best spell then helped the Stars bowl Strikers out for 83 and seal an easy win.",
+    "img": "https://static.toiimg.com/photo/msid-126509467,imgsize-30028.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-mohammad-rizwans-retired-out-episode-hasan-ali-adds-to-pakistans-embarrassment-in-bbl-watch/articleshow/126508519.cms",
+    "time": "2026-01-13T23:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "BTS skips India in 2026-2027 world tour",
+    "desc": "K-pop sensation BTS is set to electrify fans with a massive 2026-2027 world tour, their first since 2021-22. Kicking off in South Korea, the tour spans over 70 dates across five continents. This highly anticipated return follows their nearly four-year hiatus, necessitated by the members' mandatory military service. Ticket presales begin January 22nd.",
+    "img": "https://static.toiimg.com/photo/msid-126515238,imgsize-304696.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/bts-world-tour-k-pop-stars-skip-india-in-70-day-schedule-ticket-presales-begin-22-january/articleshow/126515149.cms",
+    "time": "2026-01-13T23:01:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Army ready to induct women in infantry if there is societal acceptance': General Upendra Dwivedi",
+    "desc": "The Indian Army is prepared to integrate women into infantry roles, contingent on societal readiness, Army Chief General Upendra Dwivedi stated. He emphasized gender neutrality and uniform standards, noting a sequential induction into combat roles. The Army is also undergoing significant modernization, focusing on drone capabilities, advanced weaponry, and self-reliance in ammunition for future warfare.",
+    "img": "https://static.toiimg.com/photo/msid-126515146,imgsize-1568392.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/army-ready-to-induct-women-in-infantry-if-there-is-societal-acceptance-general-upendra-dwivedi/articleshow/126515142.cms",
+    "time": "2026-01-13T23:01:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "AP Dhillon shares muddy ATV adventure with Salman and Dhoni",
+    "desc": "AP Dhillon’s latest Instagram post has given fans an unexpected crossover — the singer spending an action-packed day with Salman Khan and MS Dhoni at the superstar’s Panvel farmhouse. Shared on Tuesday (January 13), the post offered glimpses of the trio bonding over an off-road adventure that didn’t quite go as planned.",
+    "img": "https://static.toiimg.com/photo/msid-126513762,imgsize-116672.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ap-dhillon-shares-muddy-atv-adventure-with-salman-khan-and-ms-dhoni-at-panvel-farmhouse-who-do-you-think-crashed-it/articleshow/126513631.cms",
+    "time": "2026-01-13T22:18:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yuzvendra Chahal denies reunion with Dhanashree in The 50",
+    "desc": "India’s attacking leg-spinner Yuzvendra Chahal has firmly dismissed rumours linking him to a reality television show, calling the reports “speculative and factually incorrect.” The cricketer addressed the chatter after claims surfaced suggesting that he would appear on the upcoming reality show The 50, alongside his ex-wife Dhanashree Verma.",
+    "img": "https://static.toiimg.com/photo/msid-126513122,imgsize-54180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yuzvendra-chahal-denies-reunion-with-ex-wife-dhanashree-verma-in-upcoming-reality-show-the-50-calls-reports-speculative-and-factually-incorrect/articleshow/126513117.cms",
+    "time": "2026-01-13T21:55:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Disha Patani-Talwinder dodge paps with Mouni Roy's help",
+    "desc": "Disha Patani and Punjabi singer Talwinder have once again sparked dating rumours after being spotted playing hide-and-seek with paparazzi at Nupur Sanon and Stebin Ben’s star-studded wedding reception in Mumbai. The two were earlier seen holding hands at the couple’s wedding celebrations in Udaipur, a moment that quickly went viral and set social media abuzz.",
+    "img": "https://static.toiimg.com/photo/msid-126512918,imgsize-49174.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/disha-patani-and-punjabi-singer-talwinder-dodge-paparazzi-with-mouni-roys-help-at-nupur-sanonstebin-ben-wedding-reception/articleshow/126512913.cms",
+    "time": "2026-01-13T21:20:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Priyanka reveals Malti's reaction to her Golden Globes look, drops PIC with Lisa",
     "desc": "Priyanka Chopra and Nick Jonas graced the Golden Globes 2026 in stunning attire. Priyanka revealed their daughter Malti Marie's adorable reaction to their red carpet looks, believing they were heading to a royal ball. Malti's imaginative response highlighted her love for all things fancy, with Priyanka playfully reassuring her daughter.",
     "img": "https://static.toiimg.com/photo/msid-126512857,imgsize-73396.cms",
@@ -117,33 +252,6 @@ const newsData_en = [
     "time": "2026-01-13T17:51:19.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Court orders FIR against ex CO, SHO; police to appeal",
-    "desc": "A court in Chandausi has ordered an FIR against former Sambhal officials and police personnel following the 2024 violence. The order came after a plea from a man whose son was allegedly shot by police during a court-ordered survey of Shahi Jama Masjid, which resulted in fatalities and injuries.",
-    "img": "https://static.toiimg.com/photo/msid-126510720,imgsize-1078669.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sambhal-violence-case-court-orders-fir-against-ex-co-sho-police-to-appeal/articleshow/126510690.cms",
-    "time": "2026-01-13T17:46:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi govt to implement Carbon Credit Monetisation Framework, earn from green projects",
-    "desc": "Delhi's government has approved a Carbon Credit Monetisation Framework to generate revenue from its environmental initiatives like electric vehicles and urban forestry. This no-financial-liability model will allow the city to sell tradable carbon credits, creating a new funding stream for pollution control and sustainability projects.",
-    "img": "https://static.toiimg.com/photo/msid-126510752,imgsize-41110.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-govt-to-implement-carbon-credit-monetisation-framework-earn-from-green-projects/articleshow/126510693.cms",
-    "time": "2026-01-13T17:44:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CM Gupta lays foundation of Nangloi-Najafgarh road revamp project to decongest West Delhi",
-    "desc": "West Delhi commuters will soon experience relief as the Delhi government launches a Rs 64.04 crore project to repair roads and upgrade stormwater drains along the Nangloi-Najafgarh corridor. This initiative aims to improve drainage, reconstruct roads, and enhance safety, addressing years of neglect and waterlogging issues.",
-    "img": "https://static.toiimg.com/photo/msid-126510686,imgsize-100994.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cm-gupta-lays-foundation-of-nangloi-najafgarh-road-revamp-project-to-decongest-west-delhi/articleshow/126510646.cms",
-    "time": "2026-01-13T17:40:57.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'It's a format that we enjoy playing': Nicholls hopeful ahead of 2nd ODI",
     "desc": "Ahead of the second ODI, New Zealand’s Henry Nicholls said bilateral series have become vital with limited ODI cricket before major events like the 2027 World Cup. He called the format exciting and praised his team’s adaptation against Virat Kohli and Rohit Sharma. India lead the series 1-0 after a four-wicket win in the opener.",
@@ -171,15 +279,6 @@ const newsData_en = [
     "time": "2026-01-13T17:20:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'A good conversation': Jaishankar holds call with US state secretary Rubio; discusses India-US trade, defence",
-    "desc": "External affairs minister S Jaishankar held a productive discussion with US secretary of state Marco Rubio, covering key bilateral and strategic areas. The conversation included trade, critical minerals, nuclear cooperation, defense, and energy. Both leaders agreed to maintain ongoing communication on these important matters.",
-    "img": "https://static.toiimg.com/photo/msid-126509726,imgsize-219180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/a-good-conversation-jaishankar-holds-call-with-us-state-secretary-rubio-discusses-india-us-trade-defence/articleshow/126509659.cms",
-    "time": "2026-01-13T16:54:48.000Z"
-  },
-  {
     "cat": "Business",
     "title": "COAI seeks cut in telecom licence fee; flags GST burden and ITC pile-up",
     "desc": "India's telecom body COAI has urged the government to slash regulatory levies and ease GST norms in the upcoming budget. Citing financial strain, COAI proposed reducing the licence fee to 0.5-1% and suggested GST exemptions or a lower RCM rate on regulatory payments to boost operator liquidity and network investment.",
@@ -205,69 +304,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/can-election-commission-exclude-voters-from-rolls-even-before-centre-takes-a-call-on-citizenship-sc-asks/article70506030.ece",
     "time": "2026-01-13T16:24:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sussanne wishes Hrithik-Saba 'endless love and the best of life'",
-    "desc": "Hrithik Roshan’s ex-wife Sussanne Khan penned a heartfelt — albeit late — birthday note for the actor, wishing him and his girlfriend, actor Saba Azad, “endless love and the best of life.” Taking to Instagram on Tuesday, Sussanne shared a warm video collage capturing moments from Hrithik’s recent birthday celebrations and their blended family time together.",
-    "img": "https://static.toiimg.com/photo/msid-126509214,imgsize-57372.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshans-ex-wife-sussanne-khan-shares-heartfelt-birthday-wish-for-him-and-saba-azad-endless-love-and-the-best-of-life/articleshow/126509156.cms",
-    "time": "2026-01-13T16:22:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Red carpet instead of red eyes': Congress targets BJP over CPC meeting; saffron party hits back",
-    "desc": "A Communist Party of China delegation's visit to New Delhi has ignited a political firestorm, with the Congress and BJP trading barbs over transparency and India's China policy. The BJP defended its formal meeting with the CPC, citing improved bilateral ties, while the Congress demanded full disclosure of engagements and questioned if critical issues were raised.",
-    "img": "https://static.toiimg.com/photo/msid-126509139,imgsize-783212.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/red-carpet-instead-of-red-eyes-congress-targets-bjp-over-cpc-meeting-saffron-party-hits-back/articleshow/126509085.cms",
-    "time": "2026-01-13T16:19:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Palak stands with Karan amid cheating allegations",
-    "desc": "Amid cheating rumours, Palak Aujla skipped a formal statement and instead shared a warm, romantic photo with husband Karan Aujla on Instagram. The post came soon after a US rapper claimed a secret affair, while the couple, married since 2023, continue to stay silent publicly.",
-    "img": "https://static.toiimg.com/photo/msid-126508875,imgsize-33046.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/palak-aujla-stands-with-karan-aujla-amid-cheating-allegations-shares-romantic-pic-with-him/articleshow/126508875.cms",
-    "time": "2026-01-13T15:59:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India-France ties: PM Modi meets Macron’s aide; reaffirms strategic partnership",
-    "desc": "Prime Minister Narendra Modi met with Emmanuel Bonne, French President Macron's diplomatic advisor, reinforcing the robust India-France strategic partnership. Discussions entailed collaboration in innovation, technology, and education, with both nations marking the India-France Year of Innovation. The leaders also exchanged views on significant regional and global matters, anticipating President Macron's upcoming visit to India.",
-    "img": "https://static.toiimg.com/photo/msid-126508655,imgsize-1010131.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-france-ties-pm-modi-meets-macrons-aide-reaffirms-strategic-partnership/articleshow/126508655.cms",
-    "time": "2026-01-13T15:58:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Malaika says Arjun 'is an integral part of my life' after breakup",
-    "desc": "After years of speculation around her personal life, Malaika Arora has broken her silence on Arjun Kapoor and the persistent ‘new linkup’ chatter that follows her every public appearance. Calling the scrutiny “borderline voyeurism”, Malaika reflected on healing, emotional growth, and why she chooses to stay guarded about her past and future relationships.",
-    "img": "https://static.toiimg.com/photo/msid-126508565,imgsize-50308.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/malaika-arora-says-arjun-kapoor-is-an-integral-part-of-my-life-after-breakup-breaks-silence-on-new-mystery-man-its-laughable-now/articleshow/126508547.cms",
-    "time": "2026-01-13T15:38:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Top 5 South newsmakers of the day",
-    "desc": "Yash's 'Toxic' teaser faces controversy over alleged obscene visuals. Mohanlal has reacquired the iconic '2255' registration number, a nod to his film 'Rajavinte Makan'. Buzz is growing for an Allu Arjun-Lokesh Kanagaraj collaboration. Vismaya Mohanlal's debut film 'Thudakkam' is set for Onam 2026. Rajinikanth and Kamal Haasan lauded Sivakarthikeyan's 'Parasakthi'.",
-    "img": "https://static.toiimg.com/photo/msid-126508545,imgsize-43850.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/yashs-toxic-teaser-lands-in-trouble-mohanlal-reclaims-iconic-2255-number-rajinikanth-and-kamal-haasan-heap-praise-on-sivakarthikeyans-parasakthi-top-5-south-newsmakers-of-the-day/articleshow/126508545.cms",
-    "time": "2026-01-13T15:37:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jaya B, Big B dance at Abhishek-Aishwarya's wedding in a priceless PIC",
-    "desc": "Throwback pictures from Abhishek Bachchan and Aishwarya Rai's intimate 2007 wedding have gone viral, showcasing heartwarming moments like Jaya and Amitabh Bachchan dancing. The couple opted for a small ceremony due to Abhishek's grandmother's critical illness, a detail revealed on 'Koffee With Karan'.",
-    "img": "https://static.toiimg.com/photo/msid-126508356,imgsize-54092.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jaya-bachchan-dances-with-amitabh-bachchan-in-unseen-pics-from-abhishek-bachchan-and-aishwarya-rais-wedding-the-couple-holds-hand-and-smiles-wide/articleshow/126508363.cms",
-    "time": "2026-01-13T15:23:59.000Z"
   },
   {
     "cat": "Business",
@@ -315,15 +351,6 @@ const newsData_en = [
     "time": "2026-01-13T14:23:44.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Laikey Laikaa' FIRST Look: Rasha and Abhay bring bloody romance",
-    "desc": "The first poster for the upcoming romantic action film Laikey Laikaa, starring Rasha Thadani and Abhay Verma, has been released and is creating a buzz. The gritty poster, featuring blood-soaked shoes, hints at intense conflict and chemistry between the leads. Thadani is also set to make her Telugu debut in Ajay Bhupathi's next film.",
-    "img": "https://static.toiimg.com/photo/msid-126507461,imgsize-82616.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/laikey-laikaa-first-look-rasha-thadani-and-abhay-verma-bring-bloody-romance-in-gritty-poster-fans-call-it-wonderful/articleshow/126507451.cms",
-    "time": "2026-01-13T14:23:42.000Z"
-  },
-  {
     "cat": "Business",
     "title": "US sanctions on Iran to have minimal impact on India, say govt sources",
     "desc": "India anticipates minimal impact from US tariffs on Iran trade, with government sources highlighting limited exposure. Exporters confirm compliance with US norms for humanitarian trade, primarily food and pharmaceuticals, suggesting no adverse effects. However, currency depreciation poses a greater concern for Indian businesses.",
@@ -352,24 +379,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "When Yash said 'won’t do scenes I can’t watch with my parents'",
-    "desc": "An old interview of actor Yash, where he stated he wouldn't film scenes he couldn't watch with his parents, has resurfaced amid controversy over the 'Toxic' teaser. The teaser's bold content has drawn criticism and complaints, prompting comparisons to Yash's past statements about family-friendly cinema and sparking debate on artistic evolution.",
-    "img": "https://static.toiimg.com/photo/msid-126506562,imgsize-31014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/when-yash-said-wont-do-scenes-i-cant-watch-with-my-parents-old-interview-goes-viral-amid-toxic-teaser-controversy/articleshow/126506562.cms",
-    "time": "2026-01-13T13:36:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kriti Sanon turns DJ at sister Nupur Sanon and Stebin Ben’s wedding",
-    "desc": "Nupur Sanon and Stebin Ben's Udaipur wedding has captivated the internet, with new photos revealing Kriti Sanon taking over the DJ console. The actress, dressed in black, enthusiastically managed the music for her sister's celebration. The couple's union beautifully blended Hindu and Christian traditions, showcasing their love and diverse backgrounds.",
-    "img": "https://static.toiimg.com/photo/msid-126506535,imgsize-24938.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kriti-sanon-turns-dj-at-sister-nupur-sanon-and-stebin-bens-dreamy-udaipur-wedding/articleshow/126506509.cms",
-    "time": "2026-01-13T13:34:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Aamir's daughter Ira opens up on her struggle with weight loss",
     "desc": "Aamir Khan's daughter Ira Khan bravely shared her ongoing struggle with body image and weight, detailing a distorted self-perception rooted in childhood avoidance of mirrors. She recounted a challenging 17-day fasting retreat in Germany with her father, where she experienced profound emotional and physical exhaustion, emphasizing the painful feeling of her body not cooperating.",
     "img": "https://static.toiimg.com/photo/msid-126506525,imgsize-43186.cms",
@@ -385,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/precious-metals-surge-silver-jumps-rs-6000-to-lifetime-high-gold-hits-fresh-record-at-rs-1-45-lakh/articleshow/126506095.cms",
     "time": "2026-01-13T13:22:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Natalia Dyer shaped Nancy’s ending in 'Stranger Things'",
-    "desc": "Natalia Dyer, acclaimed for her role as Nancy Wheeler in 'Stranger Things,' opens up about her vision for the character’s finale. Rejecting the idea of Nancy heading off to college, she championed the notion of her landing a role at the Boston Herald.",
-    "img": "https://static.toiimg.com/photo/msid-126505980,imgsize-50798.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/stranger-things-star-natalia-dyer-on-that-one-thing-she-insisted-on-for-nancy-wheelers-finale-arc-after-everything-shes-been-through-/articleshow/126505980.cms",
-    "time": "2026-01-13T13:02:12.000Z"
   },
   {
     "cat": "Business",
@@ -421,15 +421,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/will-firmly-take-up-apple-import-duty-concerns-with-centre-says-himachal-cm/article70505144.ece",
     "time": "2026-01-13T12:19:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nivin Pauly says THIS on OTT vs theatre subject",
-    "desc": "Nivin Pauly, fresh off his OTT debut in 'Pharma' and the feel-good hit 'Sarvam Maya,' is gearing up for a busy 2026 with five diverse projects. Reflecting on his 15-year career, he expresses gratitude for both successes and failures. Upcoming releases include 'Yezhu Kadal Yezhu Malai,' 'Dear Students,' a villainous turn in 'Benz,' 'Baby Girl,' and a B. Unnikrishnan film.",
-    "img": "https://static.toiimg.com/photo/msid-126505045,imgsize-46780.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/malayalam-star-nivin-pauly-on-ott-vs-big-screen-ultimately-it-is-about-the-content-we-are-presenting-exclusive/articleshow/126505008.cms",
-    "time": "2026-01-13T12:16:50.000Z"
   },
   {
     "cat": "Business",
@@ -504,15 +495,6 @@ const newsData_en = [
     "time": "2026-01-13T09:14:04.000Z"
   },
   {
-    "cat": "Business",
-    "title": "No more 10-minute delivery deadline; Centre urges quick commerce players to drop time limit",
-    "desc": "Quick commerce platforms have agreed to remove '10-minute delivery' services after Union Minister Mansukh Mandaviya intervened, prioritizing the safety of delivery partners. Companies assured the government they would cease advertising strict delivery time limits, with Blinkit already removing the promise from its branding.",
-    "img": "https://static.toiimg.com/photo/msid-126501276,imgsize-1139282.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gig-workers-row-blinkit-removes-10-minute-delivery-promise-centre-urges-apps-to-drop-time-limit/articleshow/126501252.cms",
-    "time": "2026-01-13T08:53:20.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Dhurandhar' day 40 Vs 'The Raja Saab' day 5 (LIVE)",
     "desc": "'Dhurandhar' continues its phenomenal run, entering its sixth week and shattering records by becoming the highest-grossing Indian film, surpassing Rs 1200 crore worldwide. In contrast, Prabhas's 'The Raja Saab' experienced a significant decline after its opening weekend, with its Hindi belt collections faltering despite being a new release.",
@@ -574,15 +556,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/children/the-wax-world-of-madame-tussauds/article70449130.ece",
     "time": "2026-01-13T05:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "NRAI assures female shooters of safety after coach assault case",
-    "desc": "A recent alleged assault on a minor shooter by a national coach has prompted the NRAI to reaffirm its commitment to athlete safety. President Kalikesh Narayan Singh Deo assured female shooters of a secure environment, promising stricter SOPs and swift action against any wrongdoers. The federation has suspended the accused coach pending investigation.",
-    "img": "https://static.toiimg.com/photo/msid-126496991,imgsize-17088.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/nrai-assures-female-shooters-of-safety-and-stronger-sops-after-coach-assault-case/articleshow/126496931.cms",
-    "time": "2026-01-13T04:41:18.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/sc-agrees-to-take-up-plea-for-sop-on-freezing-de-freezing-bank-accounts-in-cybercrime-cases/article70478321.ece",
     "time": "2026-01-06T13:36:36.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
   }
 ];
