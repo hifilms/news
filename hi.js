@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Delhi's extreme pollution forced world number 2 to pull out of India Open, handed 500 USD fine",
+    "desc": "World No. 2 Anders Antonsen has publicly explained his absence from the ongoing India Open 2026, citing environmental concerns in Delhi as the decisive factor behind his withdrawal. The Danish shuttler confirmed that this marks...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/delhi-s-extreme-pollution-forced-world-number-2-to-pull-out-of-india-open-handed-500-usd-fine-2026-01-14-1025841",
+    "time": "2026-01-14T09:17:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli reigns supreme as number 1 ODI batter, Rohit Sharma drops to third",
+    "desc": "Star India batter Virat Kohli has moved to the top of the ICC ODI batters’ list, claiming the top spot once again in his career. After a bit of struggle, reports claimed that the Australia...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-reigns-supreme-as-number-1-odi-batter-rohit-sharma-drops-to-third-2026-01-14-1025831",
+    "time": "2026-01-14T08:17:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Hardik Pandya not playing 2nd ODI vs New Zealand in Rajkot?",
+    "desc": "India continue their ODI series against New Zealand with the second match scheduled for January 14 at the Niranjan Shah Stadium in Rajkot. The hosts come into the game with a 1–0 lead and an...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-hardik-pandya-not-playing-2nd-odi-vs-new-zealand-in-rajkot-2026-01-14-1025827",
+    "time": "2026-01-14T07:56:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Washington Sundar not playing vs New Zealand in 2nd ODI in Rajkot?",
+    "desc": "All-rounder Washington Sundar has been ruled out of the remainder of the ongoing ODI series against New Zealand. He suffered a rib injury in the opening ODI of the series and was in tremendous pain...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-washington-sundar-not-playing-vs-new-zealand-in-2nd-odi-in-rajkot-2026-01-14-1025822",
+    "time": "2026-01-14T07:34:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Will Josh Hazlewood be fit for T20 World Cup 2026? Pacer shares major update",
     "desc": "Josh Hazlewood is confident he will be fit for the start of Australia’s T20 World Cup 2026 campaign in Sri Lanka next month after an injury-hit summer ruled him out of key assignments. The fast...",
     "img": "",
@@ -43,50 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-2nd-odi-pitch-report-how-will-surface-at-niranjan-shah-stadium-in-rajkot-play-2026-01-14-1025759",
     "time": "2026-01-14T01:50:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England set to reject pink-ball Ashes Test requests, unlikely to host any: Report",
-    "desc": "England are set to oppose the inclusion of any floodlit, pink-ball Tests in the next Ashes tour of Australia, taking a firm position well in advance of the 2029-30 series. The stance has been communicated...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-set-to-reject-pink-ball-ashes-test-requests-unlikely-to-host-any-report-2026-01-14-1025757",
-    "time": "2026-01-14T01:21:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Marcus Stoinis shares update on his injury, will he be fit for T20 World Cup 2026?",
-    "desc": "Marcus Stoinis expects to return in time for the Big Bash League finals and believes the injury he suffered this week will not jeopardise his hopes of featuring at the next T20 World Cup. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/marcus-stoinis-shares-update-on-his-injury-will-he-be-fit-for-t20-world-cup-2026-2026-01-14-1025752",
-    "time": "2026-01-14T00:58:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Kaur becomes first Indian cricketer to achieve major feat in WPL history as Mumbai beat Gujarat",
-    "desc": "Mumbai Indians captain Harmanpreet Kaur played some phenomenal cricket in the clash against Gujarat Giants in the ongoing WPL 2026. Chasing 193 runs, the hosts were put in some trouble early on, but once Harmanpreet...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-becomes-first-indian-cricketer-to-achieve-major-feat-in-wpl-history-as-mumbai-beat-gujarat-2026-01-13-1025743",
-    "time": "2026-01-13T17:37:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ayushi Soni on debut becomes first cricketer ever to be retired out in WPL history",
-    "desc": "Ayushi Soni etched her name into the Women’s Premier League record books on Tuesday, January 13, becoming the first batter in the competition’s history to be retired out. The moment came during Gujarat Giants’ WPL...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ayushi-soni-on-debut-becomes-first-cricketer-ever-to-be-retired-out-in-wpl-history-2026-01-13-1025741",
-    "time": "2026-01-13T17:08:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jitesh Sharma picks his all-time IPL XI, no place for Virat Kohli",
-    "desc": "In a rather controversial move, Royal Challengers Bengaluru keeper-batter Jitesh Sharma has axed Virat Kohli from his all-time IPL XI squad. The duo shared the dressing room in IPL 2025, a significant year for RCB,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jitesh-sharma-picks-his-all-time-ipl-xi-no-place-for-virat-kohli-2026-01-13-1025738",
-    "time": "2026-01-13T16:15:31.000Z"
   }
 ];

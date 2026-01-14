@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "দিল্লির আবহাওয়া ব্যাডমিন্টনের জন্য উপযোগী নয়! ইন্ডিয়া ওপেন থেকে নাম তুলে নিয়ে জরিমানার মুখে পড়লেন ড্যানিশ তারকা শাটলার!",
+    "desc": "ভারতের আবহাওয়া ব্যাডমিন্টন খেলার জন্য উপযোগী নয়। এই অভিযোগ তুলে ডেনমার্কের বিখ্যাত শাটলার আন্দ্রেস আনটনসেন দিল্লিতে চলতে থাকা ইন্ডিয়া ওপেন থেকে তৃতীয় বছরের মতন নাম তুলে নিলেন। এর আগে তার দেশেরই আরও এক শাটলার মিয়া ব্লিচফেল্ডও একই অভিযোগ তুলেছিলেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/danish-111-2026-01-4795935f6f6816e11e4664b314c4b677-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/sports/for-consecutive-three-years-danish-star-shuttler-pull-out-his-name-from-india-open-saying-delhi-is-not-suitable-for-badminton-smc-2495563.html",
+    "time": "2026-01-14T08:48:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hema Malini-Dharmendra: হেমা মালিনী এখনও ধর্মেন্দ্রর 'ইক্কিস' দেখেননি; 'ক্ষতগুলো সেরে গেলে ছবিটি দেখব'",
+    "desc": "সম্প্রতি একটি সাক্ষাৎকারে এই অভিনেত্রী-রাজনীতিবিদ আবেগপ্রবণ হয়ে পড়েন এবং বলেন যে আপাতত ‘ইক্কিস’ দেখাটা তাঁর জন্য ‘খুবই আবেগঘন’ হবে। তবে, হেমা মালিনী এও জানান যে প্রিয় স্বামীর মৃত্যুর শোক কিছুটা কাটিয়ে উঠলে তিনি ছবিটি দেখবেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Untitled-design-2026-01-14T134113.417-2026-01-7363fb6cb483ef8b8bb9143199359719-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/hema-malini-has-not-watched-dharmendra-ikkis-yet-will-watch-when-wounds-heal-actress-claimed-sal-tc-aa-2494478.html",
+    "time": "2026-01-14T08:31:22.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "কেন্দ্রের নির্দেশ, বন্ধ হচ্ছে দশ মিনিটের ডেলিভারি! দেখুন ভিডিও",
     "desc": "কেন্দ্রীয় সরকারের হস্তক্ষেপে বন্ধ হচ্ছে দশ মিনিটের অনলাইন ডেলিভারি৷ সুইগি, জোম্যাটো, ব্লিঙ্কইট-এর মতো সংস্থাগুলির সঙ্গে বৈঠকে এমনই নির্দেশ দিয়েছে কেন্দ্রীয় শ্রম মন্ত্রক৷ কেন্দ্রের এই নির্দেশের পরই বেশ কয়েকটি অনলাইন ডেলিভারি সংস্থা তাদের অ্যাপ থেকে এই দশ মিনিটের ডেলিভারির প্রতিশ্রুতি সরিয়ে নিতে শুরু করেছে৷ আগামী কয়েক দিনের মধ্যে বাকি সংস্থাগুলিও একই পথে হাঁটবে বলে আশ্বাস দিয়েছে কেন্দ্রীয় শ্রমমন্ত্রক৷ দীর্ঘদিন ধরেই দশ মিনিটের মধ্যে ডেলিভারির এই ব্যবস্থা বন্ধের দাবি জানিয়ে আসছিলেন ডেলিভারি কর্মীরাও৷",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/balochistan-leader-mir-yar-baloch-writes-to-s-jaysankar-to-seek-help-from-china-and-pakistan-rdp-2480432.html",
     "time": "2026-01-02T11:33:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "২, ৩, ৪, ৫ জানুয়ারি...! শৈত্যপ্রবাহ হুঁশিয়ারি ৫ রাজ্যে, ঘন কুয়াশার কামড় ১৪ রাজ্যে, বজ্রবিদ্যুৎ-বৃষ্টি কাঁপাবে কোন কোন রাজ্য? কী হবে বাংলায়? জানিয়ে দিল IMD",
-    "desc": "উত্তর ভারতে শীতের তীব্র দাপট শুরু। দিল্লি, মধ্যপ্রদেশ, উত্তরপ্রদেশ, বিহার এবং রাজস্থানে ৫ জানুয়ারি পর্যন্ত শৈত্যপ্রবাহ এবং ঘন কুয়াশার সতর্কতা জারি করল আবহাওয়া দফতর আইএমডি। আগামী ৪ দিনে বেশ কিছু রাজ্যে বৃষ্টির পূর্বাভাস দিয়েছে আবহাওয়া দফতর। রাজ্যে রাজ্যে বাড়বে ঘন কুয়াশা ও শৈত্যপ্রবাহ।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/sanj-2025-12-c1ea70bf90f90a0b616dfc3ba54f7a1f-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-january-2-3-4-5-cold-wave-warning-in-5-states-dense-fog-to-grip-14-states-rainfall-thunderstorms-to-hit-which-states-know-latest-west-bengal-weather-sanj-2480403.html",
-    "time": "2026-01-02T11:11:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'বিশ্বাসঘাতকতা করেছেন শাহরুখ'! আইপিএলে মুস্তাফিজুরকে দলে নেওয়ায় বিজেপি নেতার রোষে কিং খান!",
-    "desc": "আইপিএল নিলামকে কেন্দ্র করে শুরু হয়েছে তীব্র রাজনৈতিক বিতর্ক। সেই বিতর্কের কেন্দ্রে এবার কলকাতা নাইট রাইডার্স এবং দলের কর্ণধার শাহরুখ খান। আইপিএল নিলামে বাংলাদেশি পেসার মুস্তাফিজুর রহমানকে দলে নেওয়ার সিদ্ধান্ত ঘিরে প্রকাশ্যে ক্ষোভ উগরে দিলেন উত্তরপ্রদেশের বিজেপি নেতা সঙ্গীত সোম।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-01-at-7.59.13-PM-2026-01-92220697ba9dfcd1211434521ae41380-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/bjp-leader-call-shahrukh-khan-traitor-as-his-team-buy-mustafizur-rahman-with-hefty-amount-in-ipl-auction-smc-2480304.html",
-    "time": "2026-01-02T09:51:30.000Z"
   }
 ];
