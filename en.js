@@ -1,6 +1,69 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "'Parasakthi' BO day 5: SK film crosses Rs 30 crores",
+    "desc": "Sivakarthikeyan's 'Parasakthi' is making strong waves at the box office, crossing ₹30 crore in India within five days. The film has shown steady collections, with Day 5 earnings contributing to the impressive total. Audience reactions highlight powerful performances and impactful dialogues, resonating particularly with younger generations.",
+    "img": "https://static.toiimg.com/photo/msid-126536454,imgsize-38976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-box-office-collection-day-5-sivakarthikeyan-film-crosses-rs-30-crores/articleshow/126536454.cms",
+    "time": "2026-01-15T00:51:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nick drops holiday pics with PC, Malti ahead of latter's b'day",
+    "desc": "In a delightful family getaway to Turks and Caicos, Nick Jonas and his wife Priyanka Chopra made precious memories with their daughter Malti Marie as they celebrated her early fourth birthday. They relished sun-soaked pool days and indulged in exquisite meals, with Jonas sharing his heartfelt reflections on the invaluable family moments they cherished.",
+    "img": "https://static.toiimg.com/photo/msid-126536364,imgsize-30988.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nick-jonas-drops-holiday-moments-with-priyanka-chopra-malti-marie-kicks-off-early-celebration-of-daughters-fourth-birthday/articleshow/126536364.cms",
+    "time": "2026-01-15T00:37:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Raja Saab' BO day 6: Telugu shows pick up",
+    "desc": "Prabhas' 'The Raja Saab' is showing moderate performance in theatres, earning approximately ₹124.65 crore in India after six days. While the Telugu version exhibits decent occupancy, Hindi and Tamil showings are weaker. Directed by Maruthi, the film's ambitious fantasy concept is praised, but a loose screenplay hinders its full potential, making its future box office run uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-126536372,imgsize-39174.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-box-office-collection-day-6-telugu-shows-pick-up-prabhas-film-earns-over-rs-5-crore/articleshow/126536372.cms",
+    "time": "2026-01-15T00:32:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhurandhar sees good growth; competes with The Raja Saab",
+    "desc": "'Dhurandhar', starring Ranveer Singh and Akshaye Khanna, continues its phenomenal box office run, nearing its sixth week. The film has shattered records since its December 5 release, now challenging 'The Raja Saab'. After a slight dip, it rebounded strongly, with its total collection estimated at a staggering Rs 813 crore nett, Rs 976.1 crore gross, and Rs 1269.1 crore worldwide.",
+    "img": "https://static.toiimg.com/photo/msid-126536345,imgsize-120502.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-41-ranveer-singh-akshaye-khanna-starrer-gives-tough-competition-to-the-raja-saab/articleshow/126536333.cms",
+    "time": "2026-01-15T00:22:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Vaa Vaathiyaar' BO day 1: Karthi’s film opens strong",
+    "desc": "Karthi's 'Vaa Vaathiyaar' has opened to a decent Rs 1.5 crore on its opening day, a promising start for a weekday release. Despite a slow morning, occupancy improved throughout the day, with night shows performing best. Netizens are praising the MGR-inspired climax, though critics noted a weaker villain. The film is directed by Nalan Kumarasamy.",
+    "img": "https://static.toiimg.com/photo/msid-126536286,imgsize-44362.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vaa-vaathiyaar-box-office-collections-day-1-karthis-film-opens-strong-crosses-rs-1-crore-mark/articleshow/126536286.cms",
+    "time": "2026-01-15T00:08:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir’s family, Gauri, Kiran attend Happy Patel screening",
+    "desc": "Khatarnak Jasoos hosted a star-studded special screening in Mumbai on January 14, drawing several big names from the film industry. Producer Aamir Khan arrived with his partner Gauri Spratt, while his former wife Kiran Rao was also present, making it a rare family reunion under one roof.",
+    "img": "https://static.toiimg.com/photo/msid-126534323,imgsize-83428.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khans-family-partner-gauri-spratt-ex-wife-kiran-rao-children-ira-and-junaid-attend-happy-patel-khatarnak-jasoos-screening/articleshow/126534290.cms",
+    "time": "2026-01-14T22:03:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Honey Singh faces backlash for 'Gaadi mein s*x karo' remarks",
+    "desc": "Yo Yo Honey Singh has once again landed in controversy for the wrong reasons. A video from Nanku and Karun’s Delhi concert has gone viral on social media, in which the rapper-singer is heard making sexually explicit remarks while addressing the audience amid the city’s cold weather.",
+    "img": "https://static.toiimg.com/photo/msid-126534074,imgsize-18510.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yo-yo-honey-singh-faces-backlash-for-gaadi-mein-sex-karo-dilli-ki-thand-mein-remarks-at-delhi-concert-watch-video/articleshow/126534071.cms",
+    "time": "2026-01-14T21:22:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Dev Anand's friend recalls how Raj Kapoor snubbed Vijay Anand after praising 'Guide'",
     "desc": "Filmmaker Raj Kapoor, known as 'The Showman,' once praised Vijay Anand's directorial skills after watching 'Guide' at 6 am, even crying on the phone to Dev Anand. However, at social gatherings, Kapoor feigned ignorance of Vijay, asking about his education and work, leaving the talented director embarrassed.",
     "img": "https://static.toiimg.com/photo/msid-126534031,imgsize-44980.cms",
@@ -261,15 +324,6 @@ const newsData_en = [
     "time": "2026-01-14T15:48:43.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Top 5 South newsmakers of the day",
-    "desc": "South Indian cinema buzzed with activity as Allu Arjun announced his collaboration with Lokesh Kanagaraj for 'AA 23', and 'Drishyam 3' confirmed its theatrical release. Filmmaker Sudha Kongara alleged targeted attacks from Vijay fans, while Ram Charan supported his father Chiranjeevi's film. Actor Devan and wife Dhanya joyfully announced their second pregnancy.",
-    "img": "https://static.toiimg.com/photo/msid-126530079,imgsize-43748.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/allu-arjunlokesh-kanagaraj-film-announcement-drishyam-3-release-date-sudha-kongara-accusing-vijay-fans-top-5-south-newsmakers-of-the-day/articleshow/126530079.cms",
-    "time": "2026-01-14T15:36:14.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Kerala School Kalolsavam 2026 / Celebrating silent spaces of creativity",
     "desc": "For many gathered at the venue, participating in competitions such as short story writing, cartooning, or essay writing, moments of effort and emotion often pass unnoticed, far removed from the glitz and applause of on-stage performances. Yet students prepare for these events with equal diligence, even when their achievements rarely draw public acclaim",
@@ -315,15 +369,6 @@ const newsData_en = [
     "time": "2026-01-14T15:08:19.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kochi Mayor",
-    "desc": "The reality is that the reclaimed stretch of land is no longer usable, as it has been permeated by river water due to biomining at a depth of 3.5 feet. To reclaim it again, we will need to fill up that stretch, says Mayor",
-    "img": "https://th-i.thgim.com/public/incoming/97al0j/article70510523.ece/alternates/LANDSCAPE_1200/Brahmapuram01.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/ground-reality-at-brahmapuram-far-removed-from-rosy-picture-painted-by-previous-council-kochi-mayor/article70508722.ece",
-    "time": "2026-01-14T15:04:25.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Wall Street slips for second session as bank earnings disappoint; oil and gold climb",
     "desc": "Indian markets mirrored global caution as US stocks dipped, driven by mixed bank earnings and rising oil and gold prices. Investors eyed potential disruptions from Iran, while Treasury yields eased. Despite some positive economic signals, elevated equity valuations demand strong corporate growth to sustain current levels.",
@@ -331,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-markets-today-wall-street-slips-for-second-session-as-bank-earnings-disappoint-oil-and-gold-climb/articleshow/126529548.cms",
     "time": "2026-01-14T14:59:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘One Piece’ live-action: Why Karoo's adaptation is tricky",
-    "desc": "As the release of One Piece Season 2 draws near, fans are buzzing with anticipation over a newly unveiled trailer that teases the arrival of fan-favorite characters. Among the chatter is concern for Karoo, the adorable duck sidekick of Nefertari Vivi, whose unique design poses some creative challenges for the team.",
-    "img": "https://static.toiimg.com/photo/msid-126529263,imgsize-955087.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/one-piece-season-2-why-the-inclusion-of-karoo-in-live-action-adaptation-could-be-tricky/articleshow/126529263.cms",
-    "time": "2026-01-14T14:43:39.000Z"
   },
   {
     "cat": "Business",
@@ -360,24 +396,6 @@ const newsData_en = [
     "time": "2026-01-14T14:35:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "4 open-ended Bollywood films and where to watch them on OTT",
-    "desc": "'No Smoking,' 'Andhadhun,' 'Masaan,' and 'Piku.' Known for their ambiguous endings, these films invite you to explore varied interpretations. Find out where you can stream these cinematic masterpieces and immerse yourself in their intriguing stories.",
-    "img": "https://static.toiimg.com/photo/msid-126529177,imgsize-1010467.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/andhadhun-the-lunchbox-masaan-4-open-ended-bollywood-films-and-where-to-watch-them-on-ott/articleshow/126529177.cms",
-    "time": "2026-01-14T14:34:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘The Night Manager’ Season 2: Fun facts about the star cast",
-    "desc": "The highly anticipated second season of 'The Night Manager' has premiered, with new episodes releasing weekly until February 1st. Fans are buzzing about the spy-thriller's return, crediting its stellar cast for its success. Intriguing behind-the-scenes facts about stars like Tom Hiddleston, Olivia Colman, Diego Calva, and Camila Morrone are revealed, adding extra spice to the viewing experience.",
-    "img": "https://static.toiimg.com/photo/msid-126529111,imgsize-1111837.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-night-manager-season-2-fun-facts-about-the-star-cast-you-probably-didnt-know/articleshow/126529111.cms",
-    "time": "2026-01-14T14:29:37.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Srikanth, Prannoy advance; PV Sindhu suffers exit",
     "desc": "Kidambi Srikanth and HS Prannoy reached the men’s singles second round at the India Open 2026 with gritty wins, while 16-year-old Tanvi Sharma impressed despite a narrow loss. Malvika Bansod advanced in women’s singles, but PV Sindhu exited early. Prannoy capitalised on a late entry, while Srikanth relied on experience to prevail.",
@@ -385,33 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/india-open-badminton-tournament-kidambi-srikanth-hs-prannoy-advance-pv-sindhu-suffers-exit/articleshow/126528906.cms",
     "time": "2026-01-14T14:28:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Veteran actor calls Deepika's eight hour shift demand 'chochle'",
-    "desc": "Actor Rajendra Chawla has joined the debate on eight-hour work shifts in the film industry, deeming the demand impractical. He stated that those unable to adapt to the industry's long hours should reconsider their profession, highlighting improved working conditions compared to his early career. Deepika Padukone, however, advocates for an eight-hour workday, emphasizing health and avoiding burnout.",
-    "img": "https://static.toiimg.com/photo/msid-126529000,imgsize-45868.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/agar-aap-yeh-chochle-paalte-rahoge-veteran-actor-rajendra-chawla-reflecting-on-deepika-padukones-eight-hour-shift-row/articleshow/126528954.cms",
-    "time": "2026-01-14T14:22:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Keeping a close watch’: Army chief says Operation Sindoor still ongoing; forces monitoring every enemy move",
-    "desc": "Operation Sindoor, a swift 22-minute joint military strike on nine terror camps in Pakistan, remains active, with India maintaining vigilant surveillance. Army Chief General Upendra Dwivedi highlighted this decisive response to the Pahalgam attack, showcasing India's readiness to protect national interests and sovereignty. The operation also saw veterans contributing to strategic planning.",
-    "img": "https://static.toiimg.com/photo/msid-126528753,imgsize-676555.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/keeping-a-close-watch-army-chief-says-operation-sindoor-still-ongoing-forces-monitoring-every-enemy-move/articleshow/126528654.cms",
-    "time": "2026-01-14T14:09:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay fans troll Sudha Kongara for 'rowdies &amp; goons' remark",
-    "desc": "Director Sudha Kongara faced backlash from Vijay fans after remarking on \"goonda and rowdy\" fanbases. Netizens trolled her with memes and criticism, with some calling her statement \"bougie\" and detrimental to Tamil cinema. While some defended her, many advised Kongara to be more cautious with her words to avoid future controversies.",
-    "img": "https://static.toiimg.com/photo/msid-126528688,imgsize-60738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijay-fans-troll-sudha-kongara-for-rowdies-goons-remark-parasakthi-director-gets-called-out-for-taking-a-bougie-path/articleshow/126528688.cms",
-    "time": "2026-01-14T14:08:16.000Z"
   },
   {
     "cat": "Sports",
@@ -423,24 +414,6 @@ const newsData_en = [
     "time": "2026-01-14T13:56:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "President Murmu receives credentials from US, Austrian and Trinidad &amp; Tobago envoys at Rashtrapati Bhavan",
-    "desc": "President Droupadi Murmu received credentials from the new ambassadors of the United States and Austria, and the High Commissioner of Trinidad and Tobago at Rashtrapati Bhavan. US Ambassador Sergio Gor highlighted the strong relationship between the US and India, emphasizing dialogue to resolve differences. Austrian Ambassador Dr. Robert Zischg expressed his honor and looked forward to deepening bilateral engagement.",
-    "img": "https://static.toiimg.com/photo/msid-126528449,imgsize-1084746.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/president-murmu-receives-credentials-from-us-austrian-and-trinidad-tobago-envoys-at-rashtrapati-bhavan/articleshow/126527439.cms",
-    "time": "2026-01-14T13:43:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why chaos in Iran hurts India, benefits China &amp; Pakistan",
-    "desc": "India watches Iran's protests with unease, fearing a weakened state would disrupt its strategic environment. Iran serves as India's vital western corridor to Central Asia via Chabahar Port and a crucial counterweight to Pakistan's regional influence. A collapse risks jeopardizing connectivity projects and India's multi-alignment policy.",
-    "img": "https://static.toiimg.com/photo/msid-126527868,imgsize-1408327.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-chabahar-to-kashmir-why-chaos-in-iran-hurts-india-benefits-china-pak/articleshow/126527558.cms",
-    "time": "2026-01-14T13:16:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'We have our own ABD': SKY gets pat on the back ahead of T20 WC",
     "desc": "Despite a lean run in 2025, India’s T20 captain Suryakumar Yadav has been backed strongly by Harbhajan Singh, who called him the “No.1 player in T20Is” and tipped him to shine at the World Cup. Harbhajan also expressed confidence in India defending the title, praised Virat Kohli’s impact across formats, and voiced concern over the lack of quality off-spinners in Indian cricket.",
@@ -448,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-have-our-own-ab-de-villiers-suryakumar-yadav-gets-pat-on-the-back-ahead-of-indias-t20-world-cup-campaign/articleshow/126527412.cms",
     "time": "2026-01-14T13:05:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why bail remains elusive — Decoding Supreme Court ruling",
-    "desc": "The Supreme Court denied bail to student activists Umar Khalid and Sharjeel Imam in the 2020 Delhi riots case, citing a \"hierarchy of culpability.\" While five co-accused were granted bail, the court found Khalid and Imam to be \"ideological drivers\" central to the alleged conspiracy's planning and preparation, distinguishing their roles from mere facilitators.",
-    "img": "https://static.toiimg.com/photo/msid-126526922,imgsize-1581576.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/umar-khalid-and-the-uapa-question-why-bail-remains-elusive-inside-supreme-court-ruling/articleshow/126526696.cms",
-    "time": "2026-01-14T12:55:32.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/rumesh-ratnayake-sri-lanka-1985-test-win-fast-bowling-womens-coach-kapil-dev/article70492498.ece",
     "time": "2026-01-09T20:28:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jefferson-Wooden’s plan for world domination centres on ‘Melissa’",
+    "desc": "A switch in the 24-year-old American sprinter’s focus — from competing against others to competing against her best — brought rich rewards in 2025. The reigning sprint queen, who claimed a historic triple crown at the Worlds, wants to establish herself among the greatest ever as she looks forward to a series of major events culminating in Los Angeles 2028",
+    "img": "https://th-i.thgim.com/public/incoming/h1wapr/article70492515.ece/alternates/LANDSCAPE_1200/GettyImages-2217335433.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/melissa-jefferson-wooden-sprint-queen-la-2028-olympics-flo-jo-record-world-championships/article70492488.ece",
+    "time": "2026-01-09T20:25:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sivakarthikeyan opens up on ‘Parasakthi’ censorship; wishes ‘Jana Nayagan’ success",
+    "desc": "In an interaction with the press, the star said that the film’s team had no time to negotiate with the CBFC and had to focus only on ensuring that the changes suggested by the board were implemented properly",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/pvov20/article70492408.ece/alternates/LANDSCAPE_1200/2F3A7594.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/sivakarthikeyan-parasakthi-censorship-cbfc-thalapathy-vijay-jana-nayagan/article70492379.ece",
+    "time": "2026-01-09T18:27:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Watch",
+    "desc": "Actor-politician Vijay’s fans are disappointed after the last-minute postponement of his much-anticipated final film Jana Nayagan. The CBFC refused to grant certification despite the makers complying with 27 cuts, triggering allegations of political interference. The move has once again raised questions about how politics has shadowed Vijay’s films for over a decade.",
+    "img": "https://th-i.thgim.com/public/incoming/870k8t/article70487352.ece/alternates/LANDSCAPE_1200/Jana%20Nayagan%20The%20battle%20for%20release.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-vijay-final-film-jana-nayagan-delayed-a-political-plot-focus-tamil-nadu/article70487366.ece",
+    "time": "2026-01-08T14:46:29.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "SC agrees to take up plea for SOP on freezing, de-freezing bank accounts in cybercrime cases",
+    "desc": "The plea also sought appropriate guidelines to all investigating agencies, including cyber cells, to ensure no bank account gets frozen without a written order and intimation to the account holder within 24 hours of such action",
+    "img": "https://th-i.thgim.com/public/news/national/uttar-pradesh/yz3pc2/article70478495.ece/alternates/LANDSCAPE_1200/iStock-817486028.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/sc-agrees-to-take-up-plea-for-sop-on-freezing-de-freezing-bank-accounts-in-cybercrime-cases/article70478321.ece",
+    "time": "2026-01-06T13:36:36.000Z"
   }
 ];
