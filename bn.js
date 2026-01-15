@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "আগের মত ক্যারিশমা আর নেই! শীঘ্রই অবসর নিতে পারেন ভারতের আরও এক মহাতারকা",
+    "desc": "সীমিত ওভারের ক্রিকেটে গত দুই বছরে তাঁর পারফরম্যান্স সেই মান ধরে রাখতে পারেনি। টি-টোয়েন্টি আন্তর্জাতিক থেকে তিনি ২০২৪ বিশ্বকাপ জয়ের পর অবসর নিয়েছেন। ফলে এখন তাঁর সামনে একমাত্র সাদা বলের ফরম্যাট হিসেবে ওয়ানডেই বাকি আছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/01/Indian-Team-84-2025-01-e798ed9d010eed3ca35b7938799ffe99-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/sports/team-india-star-all-rounder-ravindra-jadeja-s-performance-graph-low-in-recent-time-sup-2497732.html",
+    "time": "2026-01-15T11:02:43.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "৭,৬৫,০০,০০,১৮,০৬,০০০ টাকা! মার্কিনি শুল্ক-ধাক্কার পরেও রেকর্ড বাণিজ্য উদ্বৃত্ত নিয়ে ট্রাম্পের মুখে ঝামা ঘষল...",
+    "desc": "অনায়াসে বিশ্ব বাজারে নিজের গ্লোবাল ডমিনেন্স বজায় রাখা? ব্যাপারটাকে তা বলাই যায় হয়তো। ডোনাল্ড ট্রাম্প চিনের উৎপাদন ক্ষমতা কমিয়ে অন্য বাজারে অর্ডার সরিয়ে নেওয়ার চেষ্টা করলেও ২০২৫ সালে চিন রেকর্ড ট্রেড সারপ্লাস বা বাণিজ্য উদ্বৃত্ত অর্জন করেছে! পরিমাণটা প্রায় ১ লাখ ২০ হাজার কোটি ডলার! ভারতীয় মুদ্রায় ৭,৬৫,০০,০০,১৮,০৬,০০০ টাকা!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/chinas-trade-surplus-chinas-exports-ended-last-year-with-a-growth-and-surplus-to-a-record-1-point-2-trillion-us-dollar-in-2025-escaping-trumps-tariffs_635252.html ",
+    "time": "2026-01-15T10:47:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "বাংলাদেশ ক্রিকেটে গভীর ফাটল! বোর্ড কর্তাদের সঙ্গে সরাসরি লড়াইতে ক্রিকেটাররা, বয়কট বিপিএল",
+    "desc": "ESPNcricinfo-এর প্রাপ্ত তথ্য অনুসারে, বুধবার রাতে কিছু বোর্ড পরিচালক CWA সভাপতি মহম্মদ মিঠুনের সঙ্গে যোগাযোগ করে এই প্রস্তাবটি দেন, নাজমুলকে অর্থ কমিটির চেয়ারম্যান পদ থেকে পদত্যাগ করতে বাধ্য করা হবে, কিন্তু এত কিছুর পরেও মিঠুন বলেন যে ক্রিকেটারদের বয়কটের আহ্বান এখনও বহাল রয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/2026-01-b1c9f5046f2851f6cce9a068c3f8c15d-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/bangladesh-players-boycott-bpl-2026-amid-fight-vs-india-know-inside-story-of-bcb-and-bangladesh-cricketer-revolt-dd-2497717.html",
+    "time": "2026-01-15T10:46:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "দলীয় কার্যক্রমকে ঢাল করে অভিযুক্তদের আড়াল করা যায় না! I-PAC মামলায় বিস্ফোরক সুপ্রিম নোটিস...",
+    "desc": "কপিল সিব্বল ও অভিষেক সিংভি বলেছেন - ইডির আবেদন গ্রহনযোগ্য নয়। ইডি আসলে তদন্তের নামে নির্বাচনের সময় রাজনৈতিক তথ্যে হস্তক্ষেপ করতে চেয়েছিল। কলকাতা হাইকোর্টে শুনানির সময়েও তৃণমূল কংগ্রেস তাদের সদস্যদের আদালতে পৌছতে নির্দেশ দেয়। সে কথা আদালতের কার্যবিবরণীতে উল্লেখ করা হয়েছে",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/ed-stated-that-alleged-person-can-not-hide-in-the-name-of-party-in-ipac-raid-issue-in-supreme-court_635217.html ",
+    "time": "2026-01-15T09:27:25.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "সরস্বতী পুজোর পরের দিনই বাংলার ঘরে ঘরে খাওয়া হয় গোটা সিদ্ধ... কেন এই বিশেষ রীতি, জানুন",
     "desc": "আবার এর পিছনে রয়েছে বৈজ্ঞানিক কারণও৷ এই সময় যেহেতু পক্স হয় তাই গোটা সেদ্ধ খেয়ে শরীর ঠান্ডা রাখা হয়৷ ডাক্তাররাও তাই এই খাবারকে বলেন কমফর্ট ফুড৷ যেহেতু ষষ্ঠী তাই এই সময়কার ৬ রকম মরশুমি সব্জি একসঙ্গে গোটা সেদ্ধ করে খাওয়া হয় বলে একে বলা হয় গোটা সেদ্ধ৷",
@@ -244,15 +280,6 @@ const newsData_bn = [
   },
   {
     "cat": "Politics",
-    "title": "পথকুকুর নিয়ে সুপ্রিম কোর্টের বিগ রিমার্ক! এবার একটা কুকুর কামড়ালেই রাজ্যকে ক্ষতিপূরণ দিতে হবে...",
-    "desc": "সুপ্রিম কোর্ট এবার পরিষ্কার বলে দিচ্ছে, যারা যারা কুকুরকে খাওয়ায়, এবার কিন্তু তাদের নিয়েও ভাবার সময় এসে গিয়েছে। পথকুকুরদের নিয়ে সুপ্রিম কোর্ট নানা রায় দিয়ে চলেছে। এবার সুপ্রিম কোর্ট এ নিয়ে এক যুগান্তকারী কথা বলল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/supreme-court-on-stray-dogs-top-court-says-for-every-dog-bite-heavy-compensation-likely-on-states-supreme-courts-big-remark_634651.html ",
-    "time": "2026-01-13T09:50:46.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'প্রতিটি কুকুরের কামড়ের জন্য...': পথ কুকুর মামলায় বিস্ফোরক হুঁশিয়ারি সুপ্রিম কোর্টের!",
     "desc": "পথ কুকুর মামলায় এবার বড় হুঁশিয়ারি সুপ্রিম কোর্টের। শীর্ষ আদালতের স্পষ্ট বার্তা কুকুরের কামড়ে কোনও শিশু, বৃদ্ধ মানুষ আঘাত পেলে বা মৃত্যু হলে সেক্ষেত্রে সংশ্লিষ্ট রাজ্য সরকারকে বিশাল অঙ্কের ক্ষতিপূরণ দিতে হবে— মঙ্গলবার এই কড়া বার্তা দিল সুপ্রিম কোর্ট।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-13-at-13.55.59-2026-01-8c2b89177a80130606abb45f5dc5f516-3x2.jpeg",
@@ -432,15 +459,6 @@ const newsData_bn = [
     "time": "2026-01-10T14:01:08.000Z"
   },
   {
-    "cat": "World",
-    "title": "১৯৭৯ সালে রাজাদের তাড়িয়ে ইরানি বিপ্লবের রূপকার খামেইনি এখন গণশত্রু! বিদ্রোহী মেয়েরাই শেষ করবে 'মোল্লাতন্ত্র'...",
-    "desc": "ইরানি আইনে সর্বোচ্চ নেতার ছবি পোড়ানো একটি গুরুতর অপরাধ, অন্যদিকে নারীদের ধূমপানও ইরানে দীর্ঘদিন ধরে নিষিদ্ধ করা হয়েছে। এই দুটি কাজ একত্রে করা এবং জনসমক্ষে বাধ্যতামূলক হিজাব আইন অমান্য করার মাধ্যমে বিক্ষোভকারীরা রাষ্ট্রীয় কর্তৃত্ব এবং কঠোর সামাজিক নিয়ন্ত্রণকে সরাসরি চ্যালেঞ্জ জানাচ্ছেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/we-will-start-shooting-too-trump-big-warning-as-iran-protest-intensifies-where-iranian-woman-lightening-cigarette-out-of-khameini-burning-photo_634127.html ",
-    "time": "2026-01-10T12:01:51.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "খাকি উর্দিতে 'ডার্ক ও ডেডলি' রানি! ফেব্রুয়ারি নয়, জানুয়ারিতেই আসছে 'মর্দানি ৩'...",
     "desc": "২৭ ফেব্রুয়ারি রিলিজ করার কথা ছিল মর্দানি ৩-এর। তবে সময়ের আগেই বড়পর্দায় আসছে রানি মুখোপাধ্যায় অভিনীত এই ছবি। রানি আগেই জানিয়েছিলেন যে, এই কিস্তিটি আগের দুটির চেয়ে অনেক বেশি ‘ডার্ক, ডেডলি এবং ব্রুটাল’ অর্থাৎ অন্ধকারাচ্ছন্ন ও হিংস্র হবে।",
@@ -493,15 +511,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/anil-agarwal-had-promised-agni-vedanta-group-chairman-to-donate-75-of-wealth-after-sons-demise-ss-2490307.html",
     "time": "2026-01-10T00:30:55.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "মাদুরোকে তুলে আনাই কফিনে শেষ পেরেক? এবার নিজের দলের লোকেরাই বলে বলে ভোটে হারাচ্ছেন ট্রাম্পকে!",
-    "desc": "ভেনেজুয়েলায় ট্রাম্পের নতুন সামরিক পদক্ষেপের লাগাম টানতে যুদ্ধ ক্ষমতা নিয়ে মার্কিন সিনেটে হওয়া ভোটে হেরেছেন রিপাবলিকানরা। ভেনেজুয়েলায় পরবর্তী সামরিক পদক্ষেপ নেওয়ার ক্ষেত্রে প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের ক্ষমতা সীমিত করতে বৃহস্পতিবার মার্কিন সেনেট একটি প্রস্তাব গ্রহণ করেছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/donald-trump-faces-power-loss-republican-defections-as-war-powers-debate-heats-venezuela-attack-maduro-captured-up_633984.html ",
-    "time": "2026-01-09T15:18:25.000Z"
   },
   {
     "cat": "Politics",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/sports/icc-may-shift-venues-of-t20-world-cup-matches-of-bangladesh-from-india-after-bcbs-request-rdp-2482646.html",
     "time": "2026-01-04T15:43:42.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "US-Venezuela Conflict: ভেনেজুয়েলার প্রেসিডেন্ট মাদুরোকে গ্রেফতার করা নিয়ে এবার মুখ খুলল ভারত! কী অবস্থান দিল্লির, দেখুন ভিডিও",
-    "desc": "আমেরিকা-ভেনেজুয়েলার সংঘাত এবং প্রেসিডেন্ট মাদুরোকে গ্রেফতার করা নিয়ে এবার মুখ খুলল ভারত। এই বিষয় ভারত জানিয়েছে, 'ভেনেজুয়েলায় সাম্প্রতিক ঘটনা গভীর উদ্বেগের বিষয় এবং যুক্তরাষ্ট্রের বাহিনীর হাতে প্রেসিডেন্ট নিকোলাস মাদুরোর আটক হওয়ার পর পরিস্থিতি পর্যবেক্ষণ করা হচ্ছে'। এই ঘটনার প্রতিক্রিয়ায়, বিদেশ মন্ত্রক রবিবার এক বিবৃতিতে বলেছে, “ভেনেজুয়েলায় সাম্প্রতিক ঘটনা গভীর উদ্বেগের বিষয়। আমরা পরিবর্তিত পরিস্থিতি ঘনিষ্ঠভাবে পর্যবেক্ষণ করছি।” MEA বলেছে, ভারত ভেনেজুয়েলার মানুষের উন্নতি এবং নিরাপত্তার পক্ষে এবং সব পক্ষকে আলোচনার মাধ্যমে শান্তিপূর্ণভাবে সমস্যা সমাধানের আহ্বান জানিয়েছে, যাতে ওই অঞ্চলে শান্তি ও স্থিতিশীলতা বজায় থাকে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/10/ydne-2025-10-11T115843.962-2025-10-8be08f68fc0922eb87fd01de94841c9d-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/international/india-speaks-out-about-us-strikes-on-venezuela-and-maduros-arrest-what-mea-says-about-donald-trumps-decision-rdp-2482641.html",
-    "time": "2026-01-04T15:37:55.000Z"
   }
 ];

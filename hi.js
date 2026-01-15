@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "KSCA intends to host other IPL teams at Chinnaswamy if RCB move matches out of Bengaluru",
+    "desc": "Uncertainty continues to surround the hosting of IPL matches in Bengaluru as the Karnataka State Cricket Association (KSCA) awaits clearance from the state government to stage games at the M Chinnaswamy Stadium. Royal Challengers Bengaluru...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ksca-intends-to-host-other-ipl-teams-at-chinnaswamy-if-rcb-move-matches-out-of-bengaluru-2026-01-15-1026045",
+    "time": "2026-01-15T12:29:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh Cricket Board sacks Najmul Islam amid player protest, boycott of BPL",
+    "desc": "The Bangladesh Cricket Board has taken decisive action to defuse a growing crisis by removing Nazmul Islam from his role as chairman of the board’s finance committee. The move follows an escalating protest by players,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-cricket-board-sack-najmul-islam-amid-player-protest-boycott-of-bpl-2026-01-15-1026033",
+    "time": "2026-01-15T11:24:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh players boycott BPL, demand Najmul Islam's resignation; BCB issues statement",
+    "desc": "A fresh administrative crisis has engulfed Bangladesh cricket after the Bangladesh Cricket Board (BCB) moved to formally discipline director M Najmul Islam, whose public comments about national players have sparked an unprecedented confrontation with the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-players-boycott-bpl-demand-najmul-islam-s-resignation-bcb-issues-statement-2026-01-15-1026026",
+    "time": "2026-01-15T11:00:42.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "England's Adil Rashid, Rehan Ahmed unlikely to travel with T20 WC squad due to delay in visas: Report",
     "desc": "England's preparations for the upcoming T20 World Cup are disrupted as the Indian government to issue visas Adil Rashid and Rehan Ahmed, who are of Pakistani heritage. The delay in the visa means both players...",
     "img": "",
@@ -52,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/stupid-decision-internet-calls-out-up-warriorz-coach-abhishek-nayar-for-retiring-out-harleen-deol-on-47-2026-01-14-1025917",
     "time": "2026-01-14T16:46:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Daryl Mitchell continues to haunt India in ODIs, trumps KL Rahul's ton as New Zealand take series into decider",
-    "desc": "Daryl Mitchell continued to haunt India in ODIs as his stellar run with the bat just doesn't seem to stop. The man scored the eighth century of his ODI career, third against India, to help...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/daryl-mitchell-continues-to-haunt-india-in-odis-trumps-kl-rahul-s-ton-as-new-zealand-take-series-into-decider-2026-01-14-1025907",
-    "time": "2026-01-14T15:56:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch U19 World Cup 2026 on TV and streaming in India?",
-    "desc": "The ICC U19 World Cup 2026 will get underway on January 15 (Thursday) as a total of three matches will take place on the opening day. The first match is scheduled to take place between...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-usa-live-when-and-where-to-watch-u19-world-cup-2026-on-tv-and-streaming-in-india-2026-01-14-1025899",
-    "time": "2026-01-14T14:51:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul surpasses Mohammad Azharuddin's tally in ODIs with stunning century in 2nd ODI vs New Zealand",
-    "desc": "The jam-packed stadium at the Niranjan Shah Stadium in Rajkot was expecting Rohit Sharma and Virat Kohli to shine in the second ODI against New Zealand. However, it was KL Rahul who hogged all the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-surpasses-mohammad-azharuddin-s-tally-in-odis-with-stunning-century-in-2nd-odi-vs-new-zealand-2026-01-14-1025865",
-    "time": "2026-01-14T11:34:25.000Z"
   }
 ];

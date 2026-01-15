@@ -1,7 +1,214 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "SIR hearing was underway in Dinajpur; FIR filed",
+    "desc": "An agitated mob vandalized and torched the Goalpokher-II BDO office in North Dinajpur, West Bengal, during a Special Intensive Revision hearing. Around 300 people reportedly destroyed property worth Rs 20 lakh and injured police and staff. This follows similar violence at the Farakka BDO office.",
+    "img": "https://static.toiimg.com/photo/msid-126546174,imgsize-1058161.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/2nd-bdo-office-vandalised-in-bengal-sir-hearing-was-underway-in-dinajpur-fir-filed/articleshow/126546134.cms",
+    "time": "2026-01-15T12:23:02.000Z"
+  },
+  {
     "cat": "Sports",
-    "title": "Did Messi decline 1.4b euros? Al Ittihad chief reveals jaw-dropping Saudi offer",
+    "title": "Laura Wolvaardt named ICC Women's Player of the Month",
+    "desc": "South Africa's captain Laura Wolvaardt has been named ICC Women's Player of the Month for December after a stellar performance. She led her team to series victories against Ireland, scoring three centuries across T20I and ODI formats, including an unbeaten 115 in a T20I and back-to-back ODI centuries. This marks her second Player of the Month award in three months.",
+    "img": "https://static.toiimg.com/photo/msid-126546066,imgsize-125546.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/laura-wolvaardt-named-icc-womens-player-of-the-month/articleshow/126546080.cms",
+    "time": "2026-01-15T12:17:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Serious indictment’ of Mamata: BJP over Supreme Court observation on ED plea in I-PAC raid caseami",
+    "desc": "Supreme court stayed the FIR filed in West Bengal against ED officials who raided the I-PAC office and the residence of its director, Pratik Jain, on January 8, 2026 and directed the State police to protect the CCTV footage of the raids.",
+    "img": "https://th-i.thgim.com/public/incoming/pu9h19/article70512644.ece/alternates/LANDSCAPE_1200/PTI03_11_2025_000341B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/serious-indictment-of-mamata-bjp-over-supreme-court-observation-on-ed-plea-in-i-pac-raid-caseami/article70512625.ece",
+    "time": "2026-01-15T12:13:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shortened ISL gets AFC approval, but Indian clubs lose direct entry to ACL 2 slots",
+    "desc": "Because of the delayed start to the season, Indian clubs will not be able to complete the mandatory 24 matches — across the top-tier league and domestic cup — required for direct entry into AFC club competitions.",
+    "img": "https://static.toiimg.com/photo/msid-126545416,imgsize-44060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/shortened-isl-gets-afc-approval-but-indian-clubs-lose-direct-entry-to-acl-2-slots-what-it-means/articleshow/126545245.cms",
+    "time": "2026-01-15T11:45:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mitchell Starc named ICC Men's Player of the Month",
+    "desc": "Mitchell Starc has been crowned ICC Men's Player of the Month for December, celebrating his stellar Ashes performance. The Australian speedster claimed 16 wickets and amassed 139 runs in December alone, contributing significantly to his team's iconic series victory. Starc's all-round prowess was key, earning him this prestigious award over strong contenders like Justin Greaves and Jacob Duffy.",
+    "img": "https://static.toiimg.com/photo/msid-126545450,imgsize-60032.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mitchell-starc-named-icc-mens-player-of-the-month-after-stellar-ashes-performance/articleshow/126545491.cms",
+    "time": "2026-01-15T11:44:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside ‘Happy Patel’ actor Vir Das’s new Mumbai home",
+    "desc": "In a captivating video by Farah Khan, Vir Das's Mumbai residence offers a delightful glimpse into his personal sanctuary, starkly different from his charismatic public image. The space boasts an artistic flair while exuding a warm, rustic charm, showcasing his collection of nature-inspired artifacts. Fans couldn't help but admire the authentic, cozy atmosphere of his thoughtfully curated home.",
+    "img": "https://static.toiimg.com/photo/msid-126544072,imgsize-1013806.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/happy-patel-actor-vir-dass-new-mumbai-home-a-glimpse-into-his-no-decor-yet-aesthetically-pleasing-space/articleshow/126544072.cms",
+    "time": "2026-01-15T10:50:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Kolkata realtors seek tax relief, revised affordable housing cap; eye demand revival",
+    "desc": "Kolkata real estate developers are urging the Union Budget to recalibrate housing policies, advocating for higher tax benefits for homebuyers and a revised affordable housing definition. They emphasize the need to align policies with rising land and construction costs to revive demand, particularly in the mid-income segment.",
+    "img": "https://static.toiimg.com/photo/msid-126544330,imgsize-430728.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-kolkata-realtors-seek-tax-relief-higher-affordable-housing-cap-eye-demand-revival/articleshow/126544328.cms",
+    "time": "2026-01-15T10:48:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Shashi Tharoor grooves to Taylor Swift's 'The Fate of Ophelia'; wins internet",
+    "desc": "Congress MP Shashi Tharoor delighted netizens by sharing an Instagram reel dancing to Taylor Swift's 'The Fate of Ophelia.' The politician, amidst a mountain of work, showcased a playful side, humorously noting his transformation into a \"Swiftie.\" The charming video, filmed in his study, quickly garnered a massive positive response online, with fans celebrating this unexpected pop culture moment.",
+    "img": "https://static.toiimg.com/photo/msid-126544337,imgsize-4947800.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/watch-shashi-tharoor-grooves-to-taylor-swifts-the-fate-of-ophelia-wins-internet/articleshow/126543773.cms",
+    "time": "2026-01-15T10:46:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajinikanth meets fans outside his residence on Pongal",
+    "desc": "Superstar Rajinikanth delighted fans outside his Chennai home, extending warm Pongal wishes. Dressed traditionally, he emphasized the importance of farmers, stating their happiness ensures everyone's well-being. The actor's gesture added to the festive spirit as Pongal celebrations commenced. Meanwhile, Kamal Haasan also conveyed his greetings, highlighting the festival's cultural significance.",
+    "img": "https://static.toiimg.com/photo/msid-126543201,imgsize-54144.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajnikanth-meets-fans-outside-his-residence-on-pongal-see-pics/articleshow/126543201.cms",
+    "time": "2026-01-15T10:38:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Not doing a lot': India coach throws Nitish Kumar Reddy under the bus",
+    "desc": "India's assistant coach Ryan ten Doeschate acknowledged Nitish Kumar Reddy's struggle to impress despite opportunities, while noting Rohit Sharma's lack of recent match practice. The team might have misjudged conditions, potentially needing an extra spinner. KL Rahul's strong form offers batting order flexibility, and Ravindra Jadeja's bowling is deemed improving despite recent wicket scarcity.",
+    "img": "https://static.toiimg.com/photo/msid-126544056,imgsize-180210.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/not-doing-a-lot-india-coach-throws-nitish-kumar-reddy-under-the-bus-after-second-odi/articleshow/126544016.cms",
+    "time": "2026-01-15T10:30:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Why big Tamil directors are heading to Telugu cinema",
+    "desc": "The landscape of Indian cinema is witnessing a dynamic transformation as renowned Tamil filmmakers such as Atlee and Lokesh Kanagaraj pivot to direct high-profile Telugu films. This shift reflects the changing hierarchy within Tamil cinema, where its established icons are realigning their paths, while Telugu cinema's robust infrastructure and wide-reaching appeal provide an enticing platform for bold, large-scale storytelling.",
+    "img": "https://static.toiimg.com/photo/msid-126542708,imgsize-39730.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/why-big-tamil-directors-are-heading-to-telugu-cinema/articleshow/126542708.cms",
+    "time": "2026-01-15T10:19:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCB sacks director M Nazmul Islam after players boycott BPL match",
+    "desc": "Bangladesh Cricket Board director M Nazmul Islam has been removed from all his duties. This decision came after cricketers demanded his resignation. The controversy erupted over his remarks regarding player remuneration and the country's potential withdrawal from the T20 World Cup. Players threatened to boycott cricket if he did not step down.",
+    "img": "https://static.toiimg.com/photo/msid-126543668,imgsize-46926.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bangladesh-cricket-in-crisis-amid-mustafizur-row-bcb-sacks-director-m-nazmul-islam-after-players-boycott-bpl-match/articleshow/126543648.cms",
+    "time": "2026-01-15T10:15:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Big blow! Washington Sundar racing against time to be fit for T20 World Cup",
+    "desc": "India's T20 World Cup hopes face a significant setback as all-rounder Washington Sundar is battling a serious injury. He is set to miss the upcoming T20 series against New Zealand and faces a race against time for the World Cup. A thorough assessment at the BCCI Centre of Excellence will determine his recovery timeline.",
+    "img": "https://static.toiimg.com/photo/msid-126543837,imgsize-36822.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/washington-sundar-racing-against-time-to-be-fit-for-2026-t20-world-cup/articleshow/126543804.cms",
+    "time": "2026-01-15T10:15:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Agri sector lays out its pitch — expect tech push, climate-smart infrastructure &amp; more",
+    "desc": "As the FY27 Budget nears, agriculture stakeholders are pushing for increased investment in technology, digital systems, and climate-ready infrastructure. Experts advocate for a shift from welfare to growth, emphasizing productivity, rural demand, and resilience. Targeted support for the dairy sector, climate-resilient infrastructure, and digital agriculture are highlighted as crucial for long-term economic expansion and food security.",
+    "img": "https://static.toiimg.com/photo/msid-126543757,imgsize-271762.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-agri-sector-lays-out-its-pitch-expect-tech-push-climate-smart-infrastructure-more/articleshow/126542950.cms",
+    "time": "2026-01-15T10:12:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "IAF responds to Nanda Devi forest fire; Mi-17 V5 helicopter deployed at Joshimath",
+    "desc": "The Indian Air Force swiftly deployed an Mi-17 V5 helicopter to combat a forest fire in Uttarakhand's Nanda Devi Biosphere Reserve. Responding to a state government request, the IAF's Central Air Command engaged in firefighting operations in the rocky terrain. Aerial surveillance confirms the Valley of Flowers and Hemkund Sahib remain safe amidst ongoing efforts.",
+    "img": "https://static.toiimg.com/photo/msid-126543843,imgsize-4552761.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/video-iaf-responds-to-nanda-devi-forest-fire-mi-17-v5-helicopter-deployed-at-joshimath/articleshow/126543529.cms",
+    "time": "2026-01-15T10:11:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Producer Madhu Mantena and Ira Trivedi announce pregnancy",
+    "desc": "Producer Madhu Mantena and Yoga expert, Ira Trivedi announced they are expecting their first child on January 15, 2026. Sharing the news on the auspicious occasion of Makar Sankranti 2026, the couple described the pregnancy as a \"divine gift.\"",
+    "img": "https://static.toiimg.com/photo/msid-126542853,imgsize-31538.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/producer-madhu-mantena-and-ira-trivedi-announce-pregnancy-in-heartfelt-social-media-post-hrithik-roshan-rajkummar-rao-congratulate/articleshow/126542853.cms",
+    "time": "2026-01-15T10:09:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Last chance for Giri, Caruana, Nakamura’: Can chess titans match Gukesh’s vigour?",
+    "desc": "With the Candidates Tournament approaching, seasoned chess titans Hikaru Nakamura, Fabiano Caruana, and Anish Giri face what could be their final realistic shot at the world chess title. Despite their experience, younger players' vigour and complete skillsets pose a significant challenge, making this a pivotal moment for the established stars.",
+    "img": "https://static.toiimg.com/photo/msid-126543649,imgsize-76872.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/last-chance-for-giri-caruana-and-nakamura-can-chess-titans-in-their-30s-match-gukeshs-vigour-at-candidates/articleshow/126543450.cms",
+    "time": "2026-01-15T10:08:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hardik Pandya flies kites with girlfriend Mahieka Sharma in Jaipur – Watch",
+    "desc": "Hardik Pandya's festive kite-flying with Mahieka Sharma in Jaipur went viral, sparking discussions about his fitness. Despite being sidelined from the ongoing ODI series against New Zealand due to bowling workload concerns, Pandya showcased strong all-round form in domestic cricket. He is expected to return for the upcoming T20I series, crucial for India's T20 World Cup preparations.",
+    "img": "https://static.toiimg.com/photo/msid-126543153,imgsize-24738.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/hardik-pandya-celebrates-makar-sankranti-flies-kites-with-girlfriend-mahieka-sharma-in-jaipur-watch/articleshow/126543089.cms",
+    "time": "2026-01-15T09:56:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Foreign players exodus continues ahead of truncated season as new 'economic reality' kicks in",
+    "desc": "11 foreign players have departed their respective ISL clubs in January and more could be on their way out. The truncated 2025-26 season will get underway on February 14, for which a one-time AFC exemption was granted. With revenues and commercials significantly hit, clubs have been forced to take steps to cut costs.",
+    "img": "https://static.toiimg.com/photo/msid-126543116,imgsize-35660.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/isl-foreign-players-exodus-continues-ahead-of-truncated-season-as-new-economic-reality-kicks-in/articleshow/126542998.cms",
+    "time": "2026-01-15T09:48:04.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Markets remain mixed after Trump's Iran remarks; HSI down over 76 points, Kospi gains 1.5%",
+    "desc": "Asian markets saw a mixed close Thursday, influenced by US President Trump's comments on Iran and a sharp drop in oil prices. While Hong Kong and South Korea's indices rose, Japan's Nikkei plunged. US futures remained steady after Wall Street's decline, with Big Tech and bank stocks leading losses, while energy shares offered support.",
+    "img": "https://static.toiimg.com/photo/msid-126542659,imgsize-104856.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-remain-mixed-after-trumps-iran-remarks-hsi-down-over-76-points-kospi-gains-1-5/articleshow/126542509.cms",
+    "time": "2026-01-15T09:45:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC stays FIRs by West Bengal Police against ED over I-PAC raids; issues notice to Mamata",
+    "desc": "The Supreme Court has issued a notice to West Bengal CM Mamata Banerjee and state officials regarding allegations by the ED of interference during raids on I-PAC. The court also restrained the state police from probing the FIR against ED.",
+    "img": "https://static.toiimg.com/photo/msid-126542882,imgsize-1301297.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-stays-firs-by-west-bengal-police-against-ed-over-i-pac-raids-issues-notice-to-mamata-what-top-court-said/articleshow/126542861.cms",
+    "time": "2026-01-15T09:30:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shahid reveals how he wants kids Misha and Zain to grow",
+    "desc": "Shahid Kapoor shields kids Misha and Zain from fame, prioritizing normalcy despite his stardom. In an interview, he shares minimal talks on celebrity life as they grow aware. He avoids the \"star\" label to stay authentic. Next, he stars in Vishal Bhardwaj's O’ Romeo, releasing February 13.",
+    "img": "https://static.toiimg.com/photo/msid-126542884,imgsize-25472.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shahid-kapoor-reveals-how-he-wants-kids-misha-and-zain-to-grow-want-them-to-stay-as-close-to-normalcy/articleshow/126542884.cms",
+    "time": "2026-01-15T09:29:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Bridgerton’ season 5 and 6 subjects revealed",
+    "desc": "Bridgerton's next chapters are unfolding! Jess Brownell, the showrunner, recently teased that Seasons 5 and 6 will center on characters with the initials E and F. While the specific storyline is still shrouded in secrecy, online chatter suggests that Eloise and Francesca Bridgerton are poised to take the limelight.",
+    "img": "https://static.toiimg.com/photo/msid-126542797,imgsize-122170.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-showrunner-reveals-the-subjects-of-season-5-and-season-6-report/articleshow/126542797.cms",
+    "time": "2026-01-15T09:29:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Did Messi decline 1.4B euros? Al Ittihad chief reveals Saudi offer",
     "desc": "Al Ittihad president Anmar Al Haili revealed Lionel Messi rejected a staggering 1.4 billion euro offer per year from the Saudi club. Messi prioritised his family over the immense financial package, opting instead for a move to Inter Miami. Saudi Arabia's ambition to attract top talent remains strong, with Cristiano Ronaldo already a key figure.",
     "img": "https://static.toiimg.com/photo/msid-126542774,imgsize-55220.cms",
     "src": "indiatimes.com",
@@ -81,15 +288,6 @@ const newsData_en = [
     "time": "2026-01-15T08:09:46.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "BCB issues show-cause to director",
-    "desc": "Bangladesh cricket faces turmoil as a board director's controversial remarks about national cricketers sparked a boycott threat. The Bangladesh Cricket Board issued a show-cause notice and expressed regret over the comments, urging players to reconsider their stance. The BPL faced immediate disruption, with match toss delays reported amid the escalating crisis.",
-    "img": "https://static.toiimg.com/photo/msid-126541462,imgsize-76066.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bangladesh-cricket-crisis-deepens-bcb-issues-show-cause-to-director-as-players-boycott-threat-hits-bpl/articleshow/126541450.cms",
-    "time": "2026-01-15T07:59:47.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Connor Storrie recalls pitching himself at Golden Globes",
     "desc": "‘Heated Rivalry’ star Connor Storrie candidly shared his Golden Globe Awards experience, revealing he pitched himself to a director for an upcoming film. Despite the director's unexpected attempt to change the subject, Storrie remains optimistic about the encounter. The actor's recent success with ‘Heated Rivalry,’ a series about two hockey stars, has propelled him into the spotlight.",
@@ -100,7 +298,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Very serious matter, will examine issue: Supreme Court on ED’s Kolkata raids facing ‘obstruction’",
+    "title": "Supreme Court stays Kolkata Police probe into ED officers, says ‘lawlessness’ may creep into other States",
     "desc": "A Bench of Justices Prashant Kumar Mishra and Vipul Pancholi said they intend to issue notice and examine the matter. “This is a very serious matter; we will issue a notice. We have to examine it,” it remarked orally.",
     "img": "https://th-i.thgim.com/public/incoming/6wxyq1/article70512391.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%203.JPG",
     "src": "thehindu.com",
@@ -151,87 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/infrastructure/nine-new-amrit-bharat-express-trains-soon-indian-railways-announces-routes-check-list-and-features/articleshow/126540223.cms",
     "time": "2026-01-15T07:15:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Karan Joshi REVEALS how 'Laalo' changed his life",
-    "desc": "Gujarati film 'Laalo—Krishna Sada Sahaayate's unexpected Rs 100 crore success has significantly impacted actor Karan Joshi's career, earning him serious recognition. Recalling his childhood dream and unpaid experimental theater days, Joshi found peace and fulfillment in acting. Now, he prioritizes heartfelt, challenging roles, aiming to leave a lasting impact with his performances.",
-    "img": "https://static.toiimg.com/photo/msid-126540836,imgsize-45352.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/gujarati/movies/news/karan-joshi-reveals-how-laalo-changed-his-life-says-people-take-me-seriously-now/articleshow/126540845.cms",
-    "time": "2026-01-15T07:14:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Fans shared mixed reactions of new Nanno in 'Girl From Nowhere'",
-    "desc": "With anticipation soaring high for the third season of 'Girl From Nowhere,' titled 'The Reset,' fans are buzzing. However, the replacement of Kitty Chicha Amatayakul with Rebecca Armstrong as Nanno has created a stir. Viewers are left to ponder if this new actress can truly embody the spirit of the strong-willed character that made the series a masterpiece.",
-    "img": "https://static.toiimg.com/photo/msid-126540740,imgsize-26358.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/girl-from-nowhere-3-rebecca-armstrong-joins-as-nanno-recast-gets-mixed-reactions-from-fans/articleshow/126540740.cms",
-    "time": "2026-01-15T07:10:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Triptii praises 'Happy Patel'",
-    "desc": "Khatarnak Jasoos,' produced by Aamir Khan. The film garnered significant praise at a special screening, with actress Triptii Dimri calling it a \"joy from start to finish\" and urging audiences to watch it in cinemas. Co-directed by Kavi Shastri, the movie is set to release on January 16.",
-    "img": "https://static.toiimg.com/photo/msid-126540676,imgsize-18148.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/triptii-dimri-praises-happy-patel-calls-vir-das-first-film-pure-joy-and-shares-a-post/articleshow/126540637.cms",
-    "time": "2026-01-15T07:08:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chris Noth says viral issue blown out of proportion",
-    "desc": "Chris Noth, known for playing Mr. Big, has addressed backlash over a sarcastic social media comment seemingly targeting Sarah Jessica Parker. He called the ensuing discussion a \"tempest in a teapot,\" deeming it a waste of time given more pressing global issues. This comes after Noth faced allegations in 2021, impacting his career and 'Sex and the City' spin-off appearances.",
-    "img": "https://static.toiimg.com/photo/msid-126540606,imgsize-21170.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/chris-noth-addresses-viral-sarah-jessica-parker-comment-it-is-not-worth-all-this-discussion/articleshow/126540606.cms",
-    "time": "2026-01-15T07:06:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "David Harbour gets real about his mental health journey",
-    "desc": "David Harbour opens up about his enduring fight against bipolar disorder, showcasing how comprehensive therapy starting at age 50 has revolutionized both his mental health and acting craft. By bravely facing his history of trauma and addiction, and actively managing his medication, he has significantly lessened his manic bouts, achieving a newfound balance.",
-    "img": "https://static.toiimg.com/photo/msid-126540632,imgsize-27814.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/stranger-things-star-david-harbour-details-intense-psychotherapy-amid-living-with-bipolar-disorder/articleshow/126540596.cms",
-    "time": "2026-01-15T07:06:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "​‘The Bluff': Priyanka Chopra Jonas, Karl Urban starrer’s cast, release date, plot revealed",
-    "desc": "The first trailer of Priyanka Chopra starrer ‘The Bluff’ has officially dropped, where the actress is seen in a new avatar of a pirate queen marked by scars with high-intensity action sequences. After the trailer was released, social media quickly filled with enthusiastic reactions for the film. Here’s all you need to know about ‘The Bluff’s’ cast, release date, plot, and more. By the looks of the trailer, it gives high-stakes action film vibes. ‘The Bluff’ is releasing on Amazon Prime Video on February 25, 2026. This means that PeeCee’s fans won’t have to wait long. Meanwhile, the official trailer of the pirate drama film, ‘The Bluff’, was released on Wednesday, January 14, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-126540538,imgsize-1342532.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-bluff-priyanka-chopra-jonas-karl-urban-starrers-cast-release-date-plot-revealed/photostory/126540538.cms",
-    "time": "2026-01-15T06:58:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ramayana' first look to be unveiled on THIS date",
-    "desc": "Mark your calendars for a thrilling glimpse of Nitesh Tiwari's 'Ramayana'! Rumor has it that the first teaser could be unveiled on Ram Navami, featuring the talented Ranbir Kapoor in the role of Rama and the formidable Yash portraying Ravana.",
-    "img": "https://static.toiimg.com/photo/msid-126540456,imgsize-53044.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-ranbir-kapoor-and-yash-to-unveil-first-look-on-ram-navami/articleshow/126539829.cms",
-    "time": "2026-01-15T06:54:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Zendaya",
-    "desc": "In an inspiring moment in 2015, Zendaya, the talented actress and dedicated philanthropist, conveyed a vital lesson about self-respect and ethics, stating that causing pain to others is never warranted, even in the face of injustice.",
-    "img": "https://static.toiimg.com/photo/msid-126540315,imgsize-23956.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-zendaya-just-because-someone-has-inflicted-hurt-upon-us-it-does-not-give-us-the-right-to-do-the-same/articleshow/126540315.cms",
-    "time": "2026-01-15T06:49:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "SC dismisses plea, asks ‘Jana Nayagan’ makers to move Madras HC",
-    "desc": "The Supreme Court has directed the makers of Thalapathy Vijay's 'Jana Nayagan' to return to the Madras High Court regarding CBFC clearance. The apex court refused to intervene, emphasizing the High Court's division bench should hear the matter. This follows the High Court's stay on a single judge's order for film certification, leaving the movie's release pending.",
-    "img": "https://static.toiimg.com/photo/msid-126539804,imgsize-558092.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-censor-row-supreme-court-rejects-makers-plea-sent-back-to-high-court/articleshow/126539804.cms",
-    "time": "2026-01-15T06:22:39.000Z"
   },
   {
     "cat": "Sports",
@@ -379,7 +496,7 @@ const newsData_en = [
   },
   {
     "cat": "World",
-    "title": "Iran extends order closing its airspace to commercial aircraft",
+    "title": "China’s Foreign Minister urges dialogue and restraint in a phone call with Iranian counterpart",
     "desc": "U.S. President Donald Trump said that he’s been told “on good authority” that plans for executions in Iran have stopped, even as Tehran has indicated fast trials and executions ahead in its crackdown on protesters",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
@@ -423,30 +540,12 @@ const newsData_en = [
     "time": "2026-01-15T01:40:42.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Two-wheeler sales vroom past 2-crore mark in 2025",
-    "desc": "India's two-wheeler sales surpassed two crore units in 2025, a 5% increase from the previous year, though still shy of the 2018 record. Exports surged by over 24% to a new high, boosted by global demand. Hero MotoCorp led domestic sales, while TVS Motor saw the sharpest growth, driven by urban demand and supportive economic policies.",
-    "img": "https://static.toiimg.com/photo/msid-126536580,imgsize-186182.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/two-wheeler-sales-vroom-past-2-crore-mark-in-2025/articleshow/126536573.cms",
-    "time": "2026-01-15T01:22:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Easy to score runs in ODIs? India legend slams Manjrekar for Kohli remark",
     "desc": "Harbhajan Singh slammed Sanjay Manjrekar’s claim that Virat Kohli chose the “easiest format” by sticking to ODIs, saying scoring runs is never easy. Defending Kohli’s impact and legacy, Harbhajan called him a match-winner in any format. Manjrekar’s remarks sparked debate after Kohli’s strong ODI form, including a recent 93 against New Zealand.",
     "img": "https://static.toiimg.com/photo/msid-126528577,imgsize-48654.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/easy-to-score-runs-in-odis-india-legend-slams-sanjay-manjrekar-for-virat-kohli-remark/articleshow/126527968.cms",
-    "time": "2026-01-14T23:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCB says players — not board — will lose money if Bangladesh pulls out from T20 WC",
-    "desc": "Bangladesh Cricket Board's finance chief stated the board won't face financial loss if the team withdraws from the T20 World Cup, attributing potential losses to players' match fees and bonuses. He emphasized that the board's revenue is secured until 2027, dismissing compensation for players.",
-    "img": "https://static.toiimg.com/photo/msid-126530906,imgsize-51136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mustafizur-rahman-row-bcb-says-players-not-board-will-lose-money-if-bangladesh-pulls-out-from-t20-world-cup/articleshow/126530778.cms",
     "time": "2026-01-14T23:30:00.000Z"
   },
   {
@@ -495,33 +594,6 @@ const newsData_en = [
     "time": "2026-01-14T18:02:01.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Very difficult': Gill rues lack of wickets in middle overs after 2nd ODI loss",
-    "desc": "India captain Shubman Gill admitted that his team failed to seize control in the crucial middle overs during their seven-wicket loss to New Zealand in the second ODI at the Niranjan Shah Stadium in Rajkot on Wednesday. Gill felt that the inability to pick up wickets during that phase made defending the total extremely difficult.",
-    "img": "https://static.toiimg.com/photo/msid-126532199,imgsize-134850.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-very-difficult-shubman-gill-rues-lack-of-wickets-in-middle-overs-after-2nd-odi-loss/articleshow/126532070.cms",
-    "time": "2026-01-14T17:42:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi Capitals secure first win of season after scratchy run chase",
-    "desc": "An inexplicable batting collapse in the death overs limited UP Warriorz to a below par 154 for eight. The Meg Lanning-side lost as many as six wickets in the last five overs and managed just 24 runs.",
-    "img": "https://static.toiimg.com/photo/msid-126532236,imgsize-62684.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/wpl-delhi-capitals-secure-first-win-of-season-after-scratchy-run-chase/articleshow/126532197.cms",
-    "time": "2026-01-14T17:40:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "CII pushes green hydrogen mandates with incentives to unlock demand; seeks policy clarity",
-    "desc": "Industry body CII urges the government to implement clear green hydrogen mandates and incentives to boost demand and support India's clean industrial transition. Key sectors like refining and fertilisers can anchor large-scale adoption if policy addresses the cost gap.",
-    "img": "https://static.toiimg.com/photo/msid-126531530,imgsize-794450.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-cii-pushes-green-hydrogen-mandates-with-incentives-to-unlock-demand-seeks-policy-clarity/articleshow/126531376.cms",
-    "time": "2026-01-14T17:28:16.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "UGC brings out new rules against caste discrimination",
     "desc": "Higher education institutions may lose recognition if they violate the regulations; UGC brings OBCs under the ambit of new rules after their exclusion in the draft version evoked criticism; commission drops proposal to impose penalty for false complaint",
@@ -529,24 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/education/ugc-brings-out-new-rules-against-caste-discrimination/article70509660.ece",
     "time": "2026-01-14T17:03:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rahul’s ton in vain as Mitchell powers NZ to 7-wicket win; series tied at 1-1",
-    "desc": "Kiwi batter Daryl Mitchell’s unbeaten 131 eclipsed KL Rahul’s 112 as New Zealand beat India by seven wickets in the second ODI at Rajkot, levelling the series 1-1. Chasing 285, the visitors finished at 286/3. Mitchell and Will Young added 162, while New Zealand’s spinners outbowled India’s on a slow pitch.",
-    "img": "https://static.toiimg.com/photo/msid-126531852,imgsize-279388.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-kl-rahuls-ton-in-vain-as-daryl-mitchell-powers-new-zealand-to-7-wicket-win-series-tied-at-1-1/articleshow/126531318.cms",
-    "time": "2026-01-14T17:01:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Return home': Pakistan's Rizwan asked to leave BBL after 'retired out' call",
-    "desc": "Mohammad Rizwan's 'retired out' decision in the BBL sparked debate in Pakistan, with some calling it disrespectful. Former cricketer Kamran Akmal acknowledged the situation but stressed the need for modern T20 players to adapt their strike rate to evolving league demands.",
-    "img": "https://static.toiimg.com/photo/msid-126531157,imgsize-39172.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/return-home-pakistans-mohammad-rizwan-asked-to-leave-bbl-after-retired-out-call/articleshow/126531080.cms",
-    "time": "2026-01-14T16:53:47.000Z"
   },
   {
     "cat": "Politics",
@@ -558,15 +612,6 @@ const newsData_en = [
     "time": "2026-01-14T16:32:47.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India-China trade: India’s exports to China rise in 2025, deficit climbs to record $116 bn",
-    "desc": "India's exports to China saw a rare uptick in 2025, yet the bilateral trade deficit surged to a record $116.12 billion. Despite this imbalance, overall trade hit an all-time high, showcasing resilience amidst global uncertainties. Newer Indian products are finding a market in China, signaling a potential shift.",
-    "img": "https://static.toiimg.com/photo/msid-126530988,imgsize-783395.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-china-trade-indias-exports-to-china-rise-in-2025-deficit-climbs-to-record-116-bn/articleshow/126530984.cms",
-    "time": "2026-01-14T16:31:24.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Supreme Court to hear producer’s appeal on January 15",
     "desc": "The Bench would hear KVN Productions’ challenge against the decision of a two-judge Bench of the High Court to stay a single judge’s order to issue U/A 16+ certificate to the film, hours after it was passed.",
@@ -574,51 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/sc-to-hear-jana-nayagan-producers-on-jan-15/article70510387.ece",
     "time": "2026-01-14T15:48:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US tariffs to bite in H2 as contract uncertainty clouds outlook; ACMA flags margin stress",
-    "desc": "Indian auto component makers anticipate US tariffs to significantly impact exports from the second half of FY26, with new contracts facing uncertainty. Despite global challenges, the sector saw steady growth in H1 FY26, driven by robust domestic demand. However, rising imports and a widening trade deficit pose concerns.",
-    "img": "https://static.toiimg.com/photo/msid-126529866,imgsize-808421.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/auto-trade-us-tariffs-to-bite-in-h2-as-contract-uncertainty-clouds-outlook-acma-flags-margin-stress/articleshow/126529844.cms",
-    "time": "2026-01-14T15:25:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Wall Street slips for second session as bank earnings disappoint; oil and gold climb",
-    "desc": "Indian markets mirrored global caution as US stocks dipped, driven by mixed bank earnings and rising oil and gold prices. Investors eyed potential disruptions from Iran, while Treasury yields eased. Despite some positive economic signals, elevated equity valuations demand strong corporate growth to sustain current levels.",
-    "img": "https://static.toiimg.com/photo/msid-126529542,imgsize-1442753.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-markets-today-wall-street-slips-for-second-session-as-bank-earnings-disappoint-oil-and-gold-climb/articleshow/126529548.cms",
-    "time": "2026-01-14T14:59:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Not Dhoni or Pant",
-    "desc": "Rahul brought up his eighth ODI hundred in the 49th over by hitting Kyle Jamieson’s full toss for a six. He reached the landmark in 87 balls and remained not out on 112, scoring 11 fours and one six.",
-    "img": "https://static.toiimg.com/photo/msid-126528419,imgsize-44134.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-not-ms-dhoni-or-rishabh-pant-kl-rahul-becomes-first-indian-wicket-keeper-to-achieve-this-feat/articleshow/126528215.cms",
-    "time": "2026-01-14T13:56:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We have our own ABD': SKY gets pat on the back ahead of T20 WC",
-    "desc": "Despite a lean run in 2025, India’s T20 captain Suryakumar Yadav has been backed strongly by Harbhajan Singh, who called him the “No.1 player in T20Is” and tipped him to shine at the World Cup. Harbhajan also expressed confidence in India defending the title, praised Virat Kohli’s impact across formats, and voiced concern over the lack of quality off-spinners in Indian cricket.",
-    "img": "https://static.toiimg.com/photo/msid-126527640,imgsize-64322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-have-our-own-ab-de-villiers-suryakumar-yadav-gets-pat-on-the-back-ahead-of-indias-t20-world-cup-campaign/articleshow/126527412.cms",
-    "time": "2026-01-14T13:05:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ahmedabad déjà vu: Kohli's dismissal mirrors 2023 World Cup final",
-    "desc": "Virat Kohli's dismissal in the second ODI against New Zealand echoed his World Cup final exit, losing his stumps to a delivery close to his body. Despite the early setback, Kohli achieved a significant milestone, surpassing Sachin Tendulkar to become India's highest ODI run-scorer against New Zealand. He now trails only Ricky Ponting globally.",
-    "img": "https://static.toiimg.com/photo/msid-126525718,imgsize-54234.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/inside-edge-bowled-ahmedabad-dj-vu-as-virat-kohlis-dismissal-in-second-odi-vs-nz-mirrors-2023-world-cup-final-watch/articleshow/126525084.cms",
-    "time": "2026-01-14T11:50:29.000Z"
   },
   {
     "cat": "World",
@@ -855,15 +855,6 @@ const newsData_en = [
     "time": "2026-01-10T12:27:03.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Piyush Goyal concludes Brussels trip, expresses confidence about ‘early conclusion’ of FTA talks",
-    "desc": "Mr. Goyal’s visit came just weeks before EU Commission President Ursula von der Leyen and EU Council President Antonio Costa are set to attend India’s Republic Day as chief guests ahead of the EU-India Summit.",
-    "img": "https://th-i.thgim.com/public/incoming/rsjcql/article70494317.ece/alternates/LANDSCAPE_1200/20260109080L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/piyush-goyal-concludes-brussels-trip-expresses-confidence-about-early-conclusion-of-fta-talks/article70494314.ece",
-    "time": "2026-01-10T11:08:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Gill seeks preparation window ahead of Test series",
     "desc": "‘Preparation for me is really big, and I didn’t think that we had that much time to prepare when we came back from Australia, or even after the Asia Cup when we played the West Indies series,’ the India’s Test and ODI captain said",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/melissa-jefferson-wooden-sprint-queen-la-2028-olympics-flo-jo-record-world-championships/article70492488.ece",
     "time": "2026-01-09T20:25:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sivakarthikeyan opens up on ‘Parasakthi’ censorship; wishes ‘Jana Nayagan’ success",
+    "desc": "In an interaction with the press, the star said that the film’s team had no time to negotiate with the CBFC and had to focus only on ensuring that the changes suggested by the board were implemented properly",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/pvov20/article70492408.ece/alternates/LANDSCAPE_1200/2F3A7594.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/sivakarthikeyan-parasakthi-censorship-cbfc-thalapathy-vijay-jana-nayagan/article70492379.ece",
+    "time": "2026-01-09T18:27:35.000Z"
   }
 ];
