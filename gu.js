@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "રાજકોટ વનડેમાં હારનો સૌથી મોટો ગુનેગાર કોણ ? જાણો મેચ બાદ કેપ્ટન ગિલે કોને ગણાવ્યો જવાબદાર",
+    "desc": "ભારત અને ન્યુઝીલેન્ડ વચ્ચેની બીજી વનડેમાં ન્યુઝીલેન્ડે ભારતને 7 વિકેટથી હરાવીને શ્રેણી 1-1થી બરાબર કરી. ભારતીય ટીમની બેટિંગ નબળી દેખાઈ અને બોલિંગ પણ અસરકારક નહોતી. ત્યારે હાર બાદ શુભમન ગિલે ટીમના પરફોર્મન્સને લઈને નિરાશા વ્યક્ત કરી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/shubman-gill-disappointed-after-defeat-in-rajkot-ind-vs-nz-2nd-odi-461728 ",
+    "time": "2026-01-15T05:49:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Amazon અને Flipkart ની Republic Day Sale માં મળશે આ &amp;#039;પૈસા વસૂલ&amp;#039; ડીલ્સ, નહીં ખરીદો તો પસ્તાશો!",
+    "desc": "Republic Day Sale 2026 માં Amazon અને Flipkart બંને પ્લેટફોર્મ પર જબરદસ્ત ઓફર્સનો વરસાદ થઈ રહ્યો છે. iPhone 17 થી લઈને 55 ઈંચ સ્માર્ટ ટીવી, ફ્રીજ અને વોશિંગ મશીન સુધીના ઉત્પાદનો પર ભારે ડિસ્કાઉન્ટ મળી રહ્યું છે. બેંક કાર્ડ ડિસ્કાઉન્ટ, એક્સચેન્જ ઓફર અને EMI વિકલ્પો આ સેલને વધુ ફાયદાકારક બનાવી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/amazon-and-flipkarts-republic-day-sale-will-offer-these-value-for-money-deals-youll-regret-it-if-you-dont-buy-them-461724 ",
+    "time": "2026-01-15T05:26:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "આ સ્ટાર ખેલાડીની ODI કારકિર્દી દાવ પર, ન્યુઝીલેન્ડ સામેની ત્રીજી મેચમાં ફેલ જશે, તો ક્યારેય નહીં મળે તક ? જાણો કારણ",
+    "desc": "ભારતને ન્યૂઝીલેન્ડ સામે બીજી વન ડેમાં કારમી હારનો સામનો કરવો પડ્યો. શ્રેણીની અંતિમ અને નિર્ણાયક મેચ 18 જાન્યુઆરી, રવિવારના રોજ ઇન્દોરમાં રમાશે. આ મેચ ટીમ સ્ટાર ખેલાડી રવિન્દ્ર જાડેજાની કારકિર્દી માટે પણ મહત્વપૂર્ણ સાબિત થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ravindra-jadeja-odi-career-is-at-stake-if-fail-in-3rd-odi-against-new-zealand-will-throw-out-from-team-461720 ",
+    "time": "2026-01-15T05:03:39.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Jio નો એવો પ્લાન જે લીધા પછી રિચાર્જ કરવાનું ભૂલી જશો, ડેટા અને OTT પણ મળશે ફ્રી",
+    "desc": "જો તમે વારંવાર મોબાઈલ રિચાર્જ કરાવવાની માથાકૂટથી પરેશાન છો, તો Jioનો આ એન્યુઅલ (વાર્ષિક) પ્લાન તમારા માટે મોટી રાહત બની શકે છે. 365 દિવસની વેલિડિટી, રોજ 2.5GB ડેટા, અનલિમિટેડ કોલિંગ, 5G અને OTT સબસ્ક્રિપ્શન સાથે આ પ્લાન અત્યારે ખૂબ ચર્ચામાં છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/jio-has-launched-a-plan-that-will-make-you-forget-about-recharging-and-it-also-includes-free-data-and-ott-subscriptions-461718 ",
+    "time": "2026-01-15T04:33:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વનડેમાં કોહલી કેમ રોહિત શર્માથી હંમેશા એક ડગલું આગળ છે? ટીમ ઈન્ડિયાના દિગ્ગજ ક્રિકેટરે જણાવ્યું કારણ",
+    "desc": "એ વાતમાં કોઈ શંકા નથી કે વિરાટ કોહલી અને રોહિત શર્મા આ જમાનાના શ્રેષ્ઠ વનડે ખેલાડીઓ છે, પરંતુ બંને વચ્ચે અમુક એવા તફાવત છે જે આંકડાઓમાં સ્પષ્ટ દેખાય છે. ટીમ ઈન્ડિયાના દિગ્ગજ ક્રિકેટર મોહમ્મદ કૈફે આ બંને વચ્ચેના તફાવતને સમજાવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/why-is-virat-kohli-always-one-step-ahead-of-rohit-sharma-in-odis-the-legendary-cricketer-of-team-india-told-the-reason-461716 ",
+    "time": "2026-01-15T04:16:29.000Z"
+  },
+  {
     "cat": "Business",
     "title": "આજે બેંકો ખુલ્લી છે કે બંધ? RBI એ અનેક શહેરોમાં જાહેર કરી રજા",
     "desc": "આજે 15 જાન્યુઆરીએ અનેક શહેરોમાં બેંકો બંધ રહેશે. તેથી, જો તમે આજે બેંક જવાનું વિચારી રહ્યા હોવ, તો પહેલા બેંક રજાઓ વિશે ચોક્કસ જાણી લો. ચાલો જાણીએ કે 15 જાન્યુઆરીએ કઈ જગ્યાએ અને શા માટે બેંકો બંધ રહેશે.",
@@ -583,14 +628,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/gautami-kapoor-got-angry-over-ram-kapoor-and-sakshi-tanwar-love-making-scene-in-bade-achhe-lagte-hain-460842 ",
     "time": "2026-01-08T07:36:14.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "2 લાખના ડાઉન પેમેન્ટ સાથે Tata Sierra ખરીદો, તો કેટલો આવશે મહિને EMI ? જાણી લો ગણતરી",
-    "desc": "જો તમે પણ ટાટા સિએરા ખરીદવાનું વિચારી રહ્યા છો, તો તમારા માટે એ જાણવું જરૂરી છે કે જો તમે 2 લાખ રૂપિયાના ડાઉન પેમેન્ટ પર આ કાર ખરીદો છો તો તમારે આ કાર પર મહિને કેટલો EMI ભરવો પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/tata-sierra-buy-with-2-lakh-down-payment-know-monthly-emi-plan-460749 ",
-    "time": "2026-01-07T12:16:39.000Z"
   }
 ];

@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "পুরভোট ঘিরে জমজমাট মুম্বই...২০ বছর পরে হাত ধরেছেন ‘ঠাকরে ব্রাদার্স’, একনাথের সঙ্গেই আছে বিজেপি",
+    "desc": "বিজেপির দুর্নীতিতে অভিযুক্ত নেতা নবাব মালিককে সমস্ত গুরুত্বপূর্ণ দায়িত্ব থেকে সরিয়ে দেওয়ার দাবি দা, অজিত পাওয়ারের জাতীয়তাবাদী কংগ্রেস পার্টির অংশটি এককভাবে এগিয়ে যাচ্ছে। তবে, এনসিপি লাভের আশা করছে, বিশেষ করে পুনেতে, যেখানে অবিভক্ত দলটি ২০০৭ থেকে ২০১৭ সাল পর্যন্ত এক দশক ধরে পৌর সংস্থা পরিচালনা করেছিল।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-15-2026-01-18403cca71282bb5cb829d0477a4d5e6-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/mumbai-bmc-elections-2026-polling-to-begin-at-7-am-as-mumbai-votes-to-elect-mayor-after-9-years-sta-2496911.html",
+    "time": "2026-01-15T06:12:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "বিবাহবার্ষিকীর উপহার আনতে পোস্ট অফিসে গিয়েছিলেন অভিনেত্রী, সেখানেই স্বামী দিলেন ডিভোর্স নোটিস!",
+    "desc": "বলিউড অভিনেত্রী সেলিনা জেটলি সম্প্রতি স্বামী পিটার হাগের সঙ্গে সম্পর্কের বিচ্ছেদের ঘোষণা করেছেন, তিনি সোশ্যাল মিডিয়ায় জানিয়েছেন, \"১৫তম বিবাহবার্ষিকীর জন্য অর্ডার করা একটি উপহার নেওয়ার অজুহাতে\" তাঁকে ডিভোর্সের চিঠি দেওয়া হয়েছিল। তিনি আরও জানিয়েছেন যে, সন্তানদের যৌথ হেফাজত পাওয়ার পরেও তাঁকে তাঁর তিন সন্তানের সঙ্গে যোগাযোগ করতে দেওয়া হচ্ছে না।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-15-at-10.05.33-AM-2026-01-0766ebe0868d68d02d93ffab774fa4d4-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/bollywood-actress-and-model-celina-jaitley-divorce-notice-post-office-wedding-anniversary-bengali-news-sal-tc-aa-2495818.html",
+    "time": "2026-01-15T04:39:27.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "অসম ও অরুণাচল প্রদেশের পর্যটনে নতুন মাত্রা, যোগাযোগ ব্যবস্থায় গতি যোগ করে বাণিজ্যে জোয়ার এনেছে বগীবিল সেতু",
     "desc": "শিক্ষার্থী, রোগী, ব্যবসায়ী এবং শ্রমিকদের জন্য এই উন্নত যোগাযোগ ব্যবস্থা ভ্রমণের সময়কেও কমিয়ে দিয়েছে। ক্ষুদ্র ব্যবসাগুলো নতুন বাজার খুঁজে পেয়েছে, কৃষকরা দ্রুত ফসল পরিবহণ করতে পারছেন এবং অত্যাবশ্যকীয় পরিষেবাগুলো আর ভৌগোলিক সীমার মধ্যে সীমাবদ্ধ হয়ে নেই।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/01/TV_5704347_bogibeel_bridge_1-3x2.jpg",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/us-president-wrote-on-social-media-that-after-attack-on-caracas-president-maduro-and-his-wife-captured-and-flown-out-of-country-smc-2481502.html",
     "time": "2026-01-03T10:37:35.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "জ্যান্ত জ্বালিয়ে দিয়েছিল...পুকুরে ঝাঁপ দিয়েও বাঁচা হল না! দীপু দাসের পরে বাংলাদেশে মৃত্যু খোকনের",
-    "desc": "খোকন দাসের স্ত্রী সীমা দাস জানিয়েছেন, তাঁর স্বামী দোকান বন্ধ করে বাড়ি ফেরার পথে আক্রান্ত হন৷ উনি বলেন, ‘‘আমি জানি না কারা এটা করেছে৷ আমরা বিচার চাই৷ আমার স্বামী সাদাসিধে মানুষ ছিলেন৷ কারও কোনও ক্ষতি করেননি৷’’",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ydne-2026-01-03T120559.209-2026-01-3537249a1c4ad75f647c0643d7412d12-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/bangladesh-news-hindu-businessman-who-escaped-by-jumping-into-pond-after-mob-set-him-ablaze-dies-sta-2481156.html",
-    "time": "2026-01-03T07:02:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "খালেদা জিয়ার মৃত্যুতে শূন্যস্থান...বিএনপি-র চেয়ারপার্সন হচ্ছেন তারেক রহমান",
-    "desc": "ওপার বাংলার প্রাক্তন প্রধানমন্ত্রীর প্রয়াণে শোকপ্রকাশ করেছেন এপার বাংলার মুখ্যমন্ত্রী মমতা বন্দ্যোপাধ্যায়। তিনি একটি পোস্টে লিখেছেন, “বাংলাদেশের প্রাক্তন প্রধানমন্ত্রী তথা অন্যতম জননেত্রী বেগম খালেদা জিয়ার প্রয়াণে আমি শোকাহত। তাঁর শোকসন্তপ্ত পরিবার, বন্ধুবান্ধব এবং রাজনৈতিক সহকর্মীদের আমার সমবেদনা।”",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ydne-2026-01-03T113019.039-2026-01-4ac86dbedec425683a84421778301a2a-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/bangladesh-news-bnp-will-choose-tarique-rahman-as-chairperson-of-bnp-here-is-the-recent-update-sta-2481069.html",
-    "time": "2026-01-03T06:02:06.000Z"
   }
 ];

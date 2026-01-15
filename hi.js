@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "England's Adil Rashid, Rehan Ahmed unlikely to travel with T20 WC squad due to delay in visas: Report",
+    "desc": "England's preparations for the upcoming T20 World Cup are disrupted as the Indian government to issue visas Adil Rashid and Rehan Ahmed, who are of Pakistani heritage. The delay in the visa means both players...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-s-adil-rashid-rehan-ahmed-unlikely-to-travel-with-t20-world-cup-squad-due-to-delay-in-visas-report-2026-01-15-1025975",
+    "time": "2026-01-15T05:56:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vaibhav Suryavanshi on cusp of surpassing Virat Kohli's stellar record, aims special personal milestone",
     "desc": "Vaibhav Suryavanshi has been breaking records for fun over the last 12 months with his explosive batting across all age-group cricket. He is already a household name, thanks to his exploits, not only in the...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/asian-games-2026-cricket-schedule-matches-to-be-played-from-september-17-in-t20-format-2026-01-14-1025856",
     "time": "2026-01-14T10:51:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi's extreme pollution forced world number 2 to pull out of India Open, handed 500 USD fine",
-    "desc": "World No. 2 Anders Antonsen has publicly explained his absence from the ongoing India Open 2026, citing environmental concerns in Delhi as the decisive factor behind his withdrawal. The Danish shuttler confirmed that this marks...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/delhi-s-extreme-pollution-forced-world-number-2-to-pull-out-of-india-open-handed-500-usd-fine-2026-01-14-1025841",
-    "time": "2026-01-14T09:17:25.000Z"
   }
 ];
