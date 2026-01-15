@@ -1,5 +1,50 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Big B as Hamza, Vinod Khanna as Rahman Dakait: AI reimagines Dhurandhar",
+    "desc": "AI reimagines the hit film 'Dhurandhar' as an 80s classic, casting Amitabh Bachchan as Hamza Ali Mazari and Vinod Khanna as Rehman Dakait. This alternate casting, featuring icons like Parveen Babi and Sridevi, has ignited internet excitement, offering a nostalgic glimpse into what could have been.",
+    "img": "https://static.toiimg.com/photo/msid-126553033,imgsize-48788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-as-hamza-sridevi-as-yalina-vinod-khanna-as-rahman-dakait-ai-reimagines-dhurandhar-cast/articleshow/126553028.cms",
+    "time": "2026-01-15T20:34:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hema Malini hits back at trolls over ‘not smiling’ video",
+    "desc": "Hema Malini has given a sharp response to online criticism after a video of her from a sports event in Mathura sparked trolling over her expression. The veteran actress was criticised for appearing ‘cold’ and not smiling while distributing medals. Now, she has addressed the backlash in her own understated way.",
+    "img": "https://static.toiimg.com/photo/msid-126552990,imgsize-49630.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hema-malini-hits-back-at-trolls-over-not-smiling-video-says-now-dont-complain-while-posing-for-paps-during-bmc-elections/articleshow/126552941.cms",
+    "time": "2026-01-15T20:07:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Tu accha ladka hai'",
+    "desc": "Dev Anand's close friend, Mohan Churiwala, shared heartwarming anecdotes about the legendary actor's interactions with Shah Rukh Khan. He recalled Dev Anand advising SRK to quit smoking and a delightful encounter in London where Gauri Khan excitedly called her husband upon meeting Dev Anand. SRK himself acknowledged Dev Anand's profound influence on his work ethic.",
+    "img": "https://static.toiimg.com/photo/msid-126552822,imgsize-23840.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dev-anand-had-told-shah-rukh-khan-to-stop-smoking-tu-kitna-achha-ladka-hai-chhod-de/articleshow/126552795.cms",
+    "time": "2026-01-15T19:46:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kartik took a paycut of Rs 15 crore after 'TMMTMTTM' failed: Report",
+    "desc": "Kartik Aaryan reportedly took a Rs 15 crore pay cut for his recent film 'Tu Meri Main Tera Main Tera Tu Meri' after its box office failure. This gesture of support for producer Karan Johar follows a similar move after his film 'Shehzada' underperformed, highlighting his commitment to collaborators.",
+    "img": "https://static.toiimg.com/photo/msid-126552404,imgsize-50368.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kartik-aaryan-took-a-paycut-of-rs-15-crore-after-tu-meri-main-tera-main-tera-tu-meri-failed-at-the-box-office-report/articleshow/126552401.cms",
+    "time": "2026-01-15T19:06:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Big B's GD Navya gives a glimpse into IIM Ahmedabad life",
+    "desc": "Navya Naveli Nanda, granddaughter of Amitabh Bachchan and Jaya Bachchan, has shared a rare and personal peek into her life as a student at the Indian Institute of Management Ahmedabad. Taking to Instagram on Thursday, Navya posted a series of candid pictures from her campus days, offering a glimpse of her life beyond the spotlight.",
+    "img": "https://static.toiimg.com/photo/msid-126552201,imgsize-66088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchans-granddaughter-navya-naveli-nanda-shares-glimpses-of-campus-life-at-iim-ahmedabad-calls-it-happiest-of-times/articleshow/126552010.cms",
+    "time": "2026-01-15T18:53:00.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Skip NH toll, lose NOC: New rule before MLFF rollout",
     "desc": "National highways will now deny No Objection Certificates for vehicle registration, insurance, and ownership transfers if toll fees remain unpaid. This move, coinciding with the upcoming rollout of barrierless tolling, aims to enhance digital toll collection and prevent evasion on key NH stretches.",
@@ -315,24 +360,6 @@ const newsData_en = [
     "time": "2026-01-15T13:37:01.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ravi Mohan starrer drops ‘Bro Code’ title in the new poster",
-    "desc": "Ravi Mohan's debut production, formerly 'Bro Code,' is set for a release amidst a legal dispute over its title. The film is directed by Karthik Yogi and features Ravi Mohan and SJ Suryah in the lead roles. The absence of title in the new poster has sparked speculations.",
-    "img": "https://static.toiimg.com/photo/msid-126547321,imgsize-66140.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ravi-mohan-starrer-drops-bro-code-title-in-the-new-poster-to-release-on-ott-after-theatrical-release/articleshow/126547321.cms",
-    "time": "2026-01-15T13:33:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Biggest controversies in South cinema",
-    "desc": "As 2026 dawns, South Indian cinema finds itself in a whirlwind of controversy. Vijay's highly anticipated film 'Jana Nayagan' is caught up in a web of censorship issues, while 'Parasakthi' faces backlash for allegedly misrepresenting historical narratives.",
-    "img": "https://static.toiimg.com/photo/msid-126546417,imgsize-96134.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijays-jana-nayakan-sivakarthikeyans-parasakthi-yashs-toxic-biggest-controversies-in-south-cinema/articleshow/126546417.cms",
-    "time": "2026-01-15T13:03:37.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Pongal celebrations light up Pudukottai",
     "desc": "Residents of Meivazhi Salai in Tamil Nadu’s Pudukkottai district came together to celebrate the Pongal festival with joy, tradition and community spirit on Thursday. From festive decorations to ritual cooking of Pongal, the harvest festival reflected gratitude, unity and cultural pride.",
@@ -340,15 +367,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/pongal-celebrations-light-up-pudukottai/article70512667.ece",
     "time": "2026-01-15T12:56:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Non-creatives' are running Bollywood now",
-    "desc": "Oscar-winner composer AR Rahman recently shared why he has faced a slowdown in Bollywood over the last eight years, attributing a shift in power to \"non-creative\" dynamics. Reflecting on his journey from an \"outsider\" to learning Urdu for Subhash Ghai's 'Taal', Rahman however remains at peace, refusing to chase industry trends.",
-    "img": "https://static.toiimg.com/photo/msid-126546104,imgsize-23470.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ar-rahman-reflects-on-being-an-outsider-reveals-losing-work-in-bollywood-non-creative-people-have-the-power-now/articleshow/126546104.cms",
-    "time": "2026-01-15T12:44:42.000Z"
   },
   {
     "cat": "Sports",
@@ -450,15 +468,6 @@ const newsData_en = [
     "time": "2026-01-15T10:30:11.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Why big Tamil directors are heading to Telugu cinema",
-    "desc": "The landscape of Indian cinema is witnessing a dynamic transformation as renowned Tamil filmmakers such as Atlee and Lokesh Kanagaraj pivot to direct high-profile Telugu films. This shift reflects the changing hierarchy within Tamil cinema, where its established icons are realigning their paths, while Telugu cinema's robust infrastructure and wide-reaching appeal provide an enticing platform for bold, large-scale storytelling.",
-    "img": "https://static.toiimg.com/photo/msid-126542708,imgsize-39730.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/why-big-tamil-directors-are-heading-to-telugu-cinema/articleshow/126542708.cms",
-    "time": "2026-01-15T10:19:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "BCB sacks director M Nazmul Islam after players boycott BPL match",
     "desc": "Bangladesh Cricket Board director M Nazmul Islam has been removed from all his duties. This decision came after cricketers demanded his resignation. The controversy erupted over his remarks regarding player remuneration and the country's potential withdrawal from the T20 World Cup. Players threatened to boycott cricket if he did not step down.",
@@ -484,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-agri-sector-lays-out-its-pitch-expect-tech-push-climate-smart-infrastructure-more/articleshow/126542950.cms",
     "time": "2026-01-15T10:12:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IAF responds to Nanda Devi forest fire; Mi-17 V5 helicopter deployed at Joshimath",
-    "desc": "The Indian Air Force swiftly deployed an Mi-17 V5 helicopter to combat a forest fire in Uttarakhand's Nanda Devi Biosphere Reserve. Responding to a state government request, the IAF's Central Air Command engaged in firefighting operations in the rocky terrain. Aerial surveillance confirms the Valley of Flowers and Hemkund Sahib remain safe amidst ongoing efforts.",
-    "img": "https://static.toiimg.com/photo/msid-126543843,imgsize-4552761.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/video-iaf-responds-to-nanda-devi-forest-fire-mi-17-v5-helicopter-deployed-at-joshimath/articleshow/126543529.cms",
-    "time": "2026-01-15T10:11:38.000Z"
   },
   {
     "cat": "Sports",
@@ -529,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-remain-mixed-after-trumps-iran-remarks-hsi-down-over-76-points-kospi-gains-1-5/articleshow/126542509.cms",
     "time": "2026-01-15T09:45:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC stays FIRs by West Bengal Police against ED over I-PAC raids; issues notice to Mamata",
-    "desc": "The Supreme Court has issued a notice to West Bengal CM Mamata Banerjee and state officials regarding allegations by the ED of interference during raids on I-PAC. The court also restrained the state police from probing the FIR against ED.",
-    "img": "https://static.toiimg.com/photo/msid-126542882,imgsize-1301297.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sc-stays-firs-by-west-bengal-police-against-ed-over-i-pac-raids-issues-notice-to-mamata-what-top-court-said/articleshow/126542861.cms",
-    "time": "2026-01-15T09:30:03.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/markets/techno-paints-to-file-drhp-for-500-crore-ipo-in-fy27/article70494683.ece",
     "time": "2026-01-10T13:09:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND vs NZ 1st ODI Preview",
+    "desc": "The Men in Blue will be keen on assessing skipper Gill and deputy Shreyas’ return after their injury layoffs; Siraj, too, will have a point to prove; New Zealand will depend on the likes of Conway, Mitchell and Jamieson to guide the youngsters",
+    "img": "https://th-i.thgim.com/public/incoming/i31slc/article70494634.ece/alternates/LANDSCAPE_1200/VIS_3004.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ind-vs-nz-1st-odi-preview-inexperienced-kiwis-need-a-lot-of-things-going-their-way-to-upstage-india/article70494534.ece",
+    "time": "2026-01-10T12:52:57.000Z"
   }
 ];

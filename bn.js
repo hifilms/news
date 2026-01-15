@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "আইপ্যাক কাণ্ডে ইডি অফিসারদের বিরুদ্ধে এফআইআর-এ স্থগিতাদেশ দিল সুপ্রিম কোর্ট!",
+    "desc": "আইপ্যাক কাণ্ডে ইডি অফিসারদের বিরুদ্ধে এফআইআর রুজু করা হয়েছে। ২টি শেক্সপীয়র সরণী থানায় এবং ২টি ইসিপিএস থানায়। সোমবার সেই মামলার শুনানির নির্দেশে সুপ্রিম কোর্ট স্পষ্ট করে জানিয়ে দিল, শেক্সপিয়ার সরণী থানা ও ইলেকট্রনিক কমপ্লেক্স থানায় FIR ওপর স্থগিতাদেশ জারি করা হল। সেই সঙ্গে সব পক্ষকে নোটিসও জারি করল সর্বোচ্চ আদালত।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/supreme-court-2026-01-9db81a48c5b33c97a1c43ea51afe293b-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/supreme-court-on-i-pac-raid-in-west-bengal-gives-strong-directives-on-fir-against-ed-officials-know-what-happened-in-court-today-sanj-2498764.html",
+    "time": "2026-01-15T20:51:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "আসছে বন্দে ভারত স্লিপার! বিখ্যাত এই ট্রেনে নিরাপত্তা ব্যবস্থা কেমন থাকবে? জেনে নিন এখনই",
+    "desc": "ভারতীয় রেল বন্দে ভারত স্লিপার ট্রেন চালু করার মাধ্যমে দূরপাল্লার রেলযাত্রায় এক নতুন অধ্যায়ের সূচনা করতে চলেছে। এটি একটি অত্যাধুনিক, দেশীয়, আধা-উচ্চ-গতির ট্রেন যা উন্নত আরাম, গতি এবং সর্বোপরি বিশ্বমানের নিরাপত্তা প্রদানের জন্য ডিজাইন করা হয়েছে। বন্দে ভারত এক্সপ্রেসের সাফল্যের উপর ভিত্তি করে, এই স্লিপার সংস্করণটি রাতারাতি এবং দীর্ঘ দূরত্বের যাত্রার প্রয়োজনীয়তা মেটাতে এবং একই সঙ্গে সর্বোচ্চ স্তরের যাত্রী নিরাপত্তা ও পরিচালনগত নির্ভরযোগ্যতা নিশ্চিত করার জন্য অত্যন্ত যত্ন সহকারে তৈরি করা হয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/sanj-2026-01-15T091357.390-2026-01-f2517ec7da7ccee3cc36cbdc7b868307-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/vande-bharat-sleeper-know-what-security-system-passengers-will-get-in-this-special-train-of-indian-railways-sanj-2498762.html",
+    "time": "2026-01-15T20:24:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "এসআইয়ের প্রক্রিয়ায় সময়সীমা বাড়াল কমিশন! কবে পর্যন্ত দেওয়া হল বাড়তি সময়? জানুন জরুরি আপডেট",
+    "desc": "কমিশন জানিয়েছে, আগামী ১৯ জানুয়ারি পর্যন্ত অভিযোগ জমা দেওয়া এবং নিষ্পত্তি করা যাবে। আগে ১৫ জানুয়ারি পর্যন্ত অভিযোগ জমা ও নিষ্পত্তির সময়সীমা দিয়েছিল কমিশন। সেই সময়সীমা বাড়ানো হল কমিশনের তরফে। ইতিমধ্যেই মঙ্গলবারই শুনানি প্রক্রিয়া দ্রুত শেষ করতে মুখ্য নির্বাচনী আধিকারিক ছয় দফা নির্দেশ দিয়েছিলেন জেলাশাসক তথা ডিস্ট্রিক্ট ইলেকশন অফিসারদের।",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/11/sir-4-2025-11-57ede55e565ae2fb5caf22d722ab3646-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/west-bengal/west-bengal-sir-election-commission-extends-the-deadline-for-filing-complains-and-hearing-till-19th-january-know-detail-sanj-2498758.html",
+    "time": "2026-01-15T20:05:23.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "বিরাট বা গিল নয়, সুনীল গাভাস্করের প্রশংসা পেলেন অন্য ব্যাটার, রাহুল দ্রাবিড়ের সঙ্গে তুলনা",
     "desc": "তিন ম্যাচের সিরিজের দ্বিতীয় ODI ম্যাচে রাহুল ৯২ বলে ১১২ রানে অপরাজিত থাকেন, তাঁর ইনিংস সাজানো ছিল ১১টি চার ও ১টি ছয় দিয়ে। এর পরেই কেএল রাহুলকে প্রশংসায় ভরিয়ে দিয়েছেন গাভাস্কার। যদিও রাহুলের ইনিংস বুধবার ভারতকে জয় এনে দিতে পারেনি, তবুও গাভাস্কারের কাছ থেকে তিনি প্রশংসা পেয়েছেন।",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/indian-railways-hydrogen-train-will-start-running-from-26th-december-in-haryana-know-details-rdp-2485639.html",
     "time": "2026-01-06T15:16:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "পিয়ার সঙ্গে বিয়ে করে চূড়ান্ত ট্রোলড, মানসিকভাবে ভেঙে পড়েছিলেন পরমব্রত! অবশেষে মুখ খুললেন অভিনেতা...",
-    "desc": "২০২১ সালে অনুপম ও পিয়ার বিচ্ছেদের সময় থেকেই পরমব্রতর সঙ্গে পিয়ার পরকীয়ার গুঞ্জন রটেছিল। যদিও অভিনেতা বারবার সেই দাবি অস্বীকার করেছেন। কিন্তু এরপর বিয়ের পর যে ধরণের কুরুচিকর মন্তব্য ধেয়ে এসেছিল, তা দেখে রীতিমতো স্তম্ভিত হয়ে গিয়েছিলেন অভিনেতা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/parambrata-chatterjee-piya-chakraborty-wedding-trolling-response_633206.html ",
-    "time": "2026-01-06T09:36:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'কেন আমায় বাঁচাল...'? হাসপাতালে শুয়ে ফের মুখ খুললেন দেবলীনা, শেষ মুহূর্তে বাঁচতে কাকে ফোন করেছিলেন? জানুন",
-    "desc": "লাইভে দেবলীনা জানিয়েছেন, ‘আমি অনেক চেষ্টা করলাম, কিন্তু পারলাম না, সব কিছুর একটা সীমা আছে...’। এরপরেই চরম কিছু ঘটানোর সিদ্ধান্ত নেন। যদিও এই মুহূর্তে দেবলীনার শারিরীক অবস্থা স্থিতিশীল। দেবলীনার প্রিয় বন্ধু ও জনপ্রিয় সোশ্যাল মিডিয়া ইনফ্লুয়েন্সার এবং অভিনেতা সায়কের ফেসবুক লাইভে জানিয়েছেন দেবলীনার কথা।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Debolina-Nandy-7-2026-01-be840d5fc989102e4d976631df0e5cdc-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/debolinaa-nandy-admitted-in-hospital-know-her-health-update-again-opens-up-about-her-merital-problem-from-hospital-bed-here-is-details-about-husband-probaho-nandy-sdg-2484349.html",
-    "time": "2026-01-06T05:04:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "জেলেই উমর খালিদ ও শরজিল ইমাম, সুপ্রিম কোর্টে জামিন খারিজ",
-    "desc": "জেলেই উমর খালিদ ও শরজিল ইমাম। উমর খালিদের জামিন খারিজ সুপ্রিম কোর্টের। জামিন খারিজ সমাজকর্মী শরজিল ইমামের। ২০২০ দিল্লি হিংসা মামলায় অভিযুক্ত ২ জন। উমর ও শরজিলকে জামিন দিল না সুপ্রিম কোর্ট। একই মামলায় ৫ সহ-অভিযুক্তের জামিন সুপ্রিম কোর্টের।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/Umar-Khalid-2025-12-201bb60adf2df7e698e27f79adfbe242-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/umar-khalid-not-granted-bail-in-supreme-court-today-rc-2484262.html",
-    "time": "2026-01-05T17:50:25.000Z"
   }
 ];
