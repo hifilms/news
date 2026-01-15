@@ -1,5 +1,59 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "সরস্বতী পুজোর পরের দিনই বাংলার ঘরে ঘরে খাওয়া হয় গোটা সিদ্ধ... কেন এই বিশেষ রীতি, জানুন",
+    "desc": "আবার এর পিছনে রয়েছে বৈজ্ঞানিক কারণও৷ এই সময় যেহেতু পক্স হয় তাই গোটা সেদ্ধ খেয়ে শরীর ঠান্ডা রাখা হয়৷ ডাক্তাররাও তাই এই খাবারকে বলেন কমফর্ট ফুড৷ যেহেতু ষষ্ঠী তাই এই সময়কার ৬ রকম মরশুমি সব্জি একসঙ্গে গোটা সেদ্ধ করে খাওয়া হয় বলে একে বলা হয় গোটা সেদ্ধ৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/New-Project-2026-01-f2c27da9e643444cd03292846ff262a8-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/saraswati-puja-date-and-time-what-is-shital-sasthi-rmj-2497595.html",
+    "time": "2026-01-15T09:03:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "মেডিক্যাল রিপ্রেজেন্টেটিভ থেকে হলে গেলেন ফিল্মে 'কমেডি কিং'! দুর্ঘটনায় বন্ধ হল কথা, হুইলচেয়ারে বন্দি জীবন",
+    "desc": "তিনি মাথা, বুক এবং বাহু ও পায়ে গুরুতর আঘাত পান এবং জীবনের জন্য লড়াই করেন। তিনি প্রায় এক বছর হাসপাতালে চিকিৎসাধীন ছিলেন এবং সুস্থ হয়ে ওঠেন। তবে ১৪ বছর ধরে তিনি হাঁটতে চলতে পারছেন না",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Web-2026-01-15T143216.123-2026-01-9bf89019d7f9f18a098a6c4e891168d7-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/1500-films-actor-who-made-five-generations-laugh-no-speech-for-14-years-living-in-wheelchair-pbd-2497627.html",
+    "time": "2026-01-15T09:02:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "বাবা ছিলেন ইন্দিরা পুত্র সঞ্জয় গান্ধির আইনজীবী, মাত্র ১৯ বছর বয়সে ঘর ছাড়েন অভিনেত্রী, এখন এমন কাজ করেন শুনলে আপনিও হাসবেন!",
+    "desc": "এই নায়িকার বাবা ছিলেন অত্যন্ত প্রভাবশালী আইনজীবী৷ এমার্জেন্সির সময় তিনি সঞ্জয় গান্ধির বিশেষ সব আইনি মামলা লড়তেন নায়িকার বাবা৷ দেরাদুনে ছিল তাঁর বিশাল নাম ডাক৷ তবে বাবা কখনও চাননি সন্তানরা উকিল হোক৷ ফলে মেয়েও স্বপ্ন দেখেছিলেন নায়িকার হওয়ার৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Web-2026-01-15T140721.385-2026-01-9f28e5d0d4af1b2d76d047fadd3207a1-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/actress-father-was-sanjay-gandhi-lawyer-during-emergency-time-now-she-is-well-known-in-bollywood-earns-from-laughter-show-pbd-2497520.html",
+    "time": "2026-01-15T08:37:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "১ লক্ষ ভারতীয় 'টাকায়' আজ কত ইরানি 'রিয়াল' হবে জানেন...? চমকে দেবে সঠিক 'অ্যামাউন্ট'!",
+    "desc": "বিশ্বের অনেক দামি মুদ্রার তুলনায় ইরানের রিয়ালের মূল্য প্রায় শূন্যে নেমে এসেছে। এই প্রসঙ্গেই সোশ্যাল মিডিয়ায় একটি প্রশ্ন ট্রেন্ড করছে, আচ্ছা যদি আজ একজন ভারতীয় ১ লাখ টাকা নিয়ে ইরানে যায়, তাহলে সেই পরিমাণ অর্থের মূল্য সেই দেশে কত হবে?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-15-at-12.10.49-2026-01-f7a2220641d7b98f5e028f3c03e7728f-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/iranian-currency-vs-indian-rupee-do-you-know-how-much-iranian-rials-you-will-get-for-1-lakh-indian-rupees-in-todays-rate-the-exact-amount-is-shocking-know-surprising-fact-sanj-2497281.html",
+    "time": "2026-01-15T07:57:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "মমতা যা করেছেন এটা শুধু চুরি নয়, ডাকাতি! সিবিআই তদন্ত চাই...সুপ্রিম কের্টে ইডি...",
+    "desc": "৬:৩০ তে তল্লাশি শুরু। ১১:৩০ তে ইমেইল করা হয়। এটা কী করে করা হতে পারে? ধামাচাপা দেওয়ার চেষ্টা করছে ইডি। মুখ্যমন্ত্রী জেড প্লাস নিরাপত্তা পান। তাকে অজ্ঞাতপরিচয় ব্যক্তি বলে উল্লেখ করা হয়েছে। তিনি গেলে তো আধিকারিকরা যাবেনই।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/ed-needs-cbi-investigation-on-ipac-raids-issue-as-there-is-massive-massacre-in-raids_635178.html ",
+    "time": "2026-01-15T07:46:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "সুপ্রিম কোর্টে ইডির বেনজির অভিযোগ! মুখ্যমন্ত্রী আমাদের অফিসারের ফোনও তুলে নিয়ে গিয়েছেন...",
+    "desc": "ইডির পক্ষে সলিসিটর জেনারেল (SG) আই-প্যাক (ED raids in I-PAC) তল্লাশির সময় এক শকিং প্যাটার্নে মুখ্যমন্ত্রীর হস্তক্ষেপের অভিযোগ করেছেন। তিনি অভিযোগ করেছেন যে, যখন সংবিধিবদ্ধ সংস্থাগুলো তাদের দায়িত্ব পালন করছিল, তখন মুখ্যমন্ত্রী মমতা বন্দ্যোপাধ্যায় (Mamata Banerjee) ইউনিফর্ম পরা পুলিস অফিসারদের নিয়ে সেখানে ঢুকে পড়েন এবং অভিযানে বাধা সৃষ্টি করেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/in-supreme-court-ed-has-stated-thay-cm-mamata-banerjee-has-snached-the-mobile-of-ed-officer-during-ipac-raids_635168.html ",
+    "time": "2026-01-15T07:18:58.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "পুরভোট ঘিরে জমজমাট মুম্বই...২০ বছর পরে হাত ধরেছেন ‘ঠাকরে ব্রাদার্স’, একনাথের সঙ্গেই আছে বিজেপি",
     "desc": "বিজেপির দুর্নীতিতে অভিযুক্ত নেতা নবাব মালিককে সমস্ত গুরুত্বপূর্ণ দায়িত্ব থেকে সরিয়ে দেওয়ার দাবি দা, অজিত পাওয়ারের জাতীয়তাবাদী কংগ্রেস পার্টির অংশটি এককভাবে এগিয়ে যাচ্ছে। তবে, এনসিপি লাভের আশা করছে, বিশেষ করে পুনেতে, যেখানে অবিভক্ত দলটি ২০০৭ থেকে ২০১৭ সাল পর্যন্ত এক দশক ধরে পৌর সংস্থা পরিচালনা করেছিল।",
@@ -477,15 +531,6 @@ const newsData_bn = [
     "time": "2026-01-09T12:49:05.000Z"
   },
   {
-    "cat": "World",
-    "title": "খামেইনিকে পালাতে হবে! ট্রাম্পের হুংকারে ইরানে যুদ্ধের প্রস্তুতি, রাস্তায় বিদ্রোহীদের আস্ফালন...",
-    "desc": "অশান্ত ইরান। প্রতিবাদী? না, দাঙ্গাবাজ? এ নিয়ে সন্দেহ প্রকাশ করেছেন খোদ খোমেইনি। তিনি এক্সে এ নিয়ে পোস্টও করেছেন। ইরানের অন্তর্লীন সংকটের সঙ্গে নাম জড়িয়ে গিয়েছে ডোনাল্ড ট্রাম্পের। আয়াতোল্লা আলি খোমেইনির বিরুদ্ধে গর্জে উঠেছে দেশ। সেই আগুনে কি হাওয়া দিচ্ছে আমেরিকা?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/iran-unrest-thousands-on-streets-soleimani-statue-down-how-iran-protests-intensified-42-killed-in-protests-ayatollah-ali-khamenei-vs-donald-trump_633917.html ",
-    "time": "2026-01-09T10:22:19.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "ভোররাতে ইনদওরে ভয়াবহ দুর্ঘটনা! মধ্যপ্রদেশের প্রাক্তন স্বরাষ্ট্রমন্ত্রীর মেয়ে-সহ মৃত ৩",
     "desc": "পুলিশ সূত্রে জানা গিয়েছে, মৃতদের নাম প্রেরণা বচ্চন, প্রখর কাসলিওয়াল ও মান সান্ধু। অনুষ্কা শেট্টি নামে এক মহিলা গুরুত্বর আহত। তিনি আশঙ্কাজনক অবস্থায় চিকিৎসাধীন। শুক্রবার ভোরে একটি পার্টি থেকে ফিরছিলেন মধ্যপ্রদেশের প্রাক্তন স্বরাষ্ট্রমন্ত্রী বালা বচ্চনের মেয়েও তাঁর সঙ্গীরা। নিয়ন্ত্রণ হারিয়ে একটি ট্রাক ও প্রেরণাদের গাড়িটি সংঘর্ষ লাগে।",
@@ -853,50 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/international/india-speaks-out-about-us-strikes-on-venezuela-and-maduros-arrest-what-mea-says-about-donald-trumps-decision-rdp-2482641.html",
     "time": "2026-01-04T15:37:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "টি-২০ বিশ্বকাপে বাংলাদেশের ভারতে আশা নিয়ে ঘোর অনিশ্চয়তা ! টুর্নামেন্টের ভেন্যু বদল কি এখন সম্ভব? আইসিসি-র নিয়ম কী বলছে",
-    "desc": "মুস্তাফিজুর রহমানকে আইপিএলে খেলতে না দেওয়ার প্রতিবাদে ভারতে টি-টোয়েন্টি বিশ্বকাপের ম‍্যাচ খেলতে আসবে না, জানিয়ে দিল বাংলাদেশ। সে দেশের অন্তর্বর্তী সরকারের পক্ষ থেকে বাংলাদেশ ক্রিকেট বোর্ডকে এই নির্দেশ দেওয়া হয়েছে। তাদের দেশে আইপিএল সম্প্রচার বন্ধ করার কথাও ভাবছে বাংলাদেশ।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangladesh-Cricket-2026-01-902c350dbeb7beb6c27deb50ef0ff820-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/t20-world-cup-2026-if-bangladesh-cricket-board-appeals-tournament-schedule-and-venue-could-be-changed-what-icc-rules-are-saying-ss-2482108.html",
-    "time": "2026-01-04T04:30:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "অবশেষে কাটল জট, ফেডারেশন নিজেই পরিচালনা করবে আইএসএল! বড় ঘোষণা, দেখুন ভিডিও",
-    "desc": "ভারতীয় ফুটবলের অচল অবস্থা কাটতে চলেছে। অবশেষ জট কাটিয়ে ISL আয়োজন হতে চলেছে। প্রেস বিবৃতি দিয়ে জানালো AIFF। সর্বভারতীয় ফুটবল ফেডারেশনের জরুরি কমিটির বৈঠকে সিদ্ধান্ত নেওয়া হয়েছে যে, দেশের শীর্ষস্তরের পুরুষদের ফুটবল লিগ এবার ফেডারেশন নিজেই পরিচালনা করবে। এআইএফএফ এবং আইএসএল কো-অর্ডিনেশন কমিটির রিপোর্ট খতিয়ে দেখার পর এই সিদ্ধান্ত চূড়ান্ত হয়। লিগ কবে থেকে শুরু হবে, সেই তারিখ আগামী সপ্তাহে আনুষ্ঠানিকভাবে ঘোষণা করা হবে। অনেক দিন ধরে অনেক আলোচনার পরে আইএসএল নিয়ে জট কাটায় অনিশ্চয়তা কাটল ফুটবলারদের।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ISL-2026-2026-01-55087d6a02a803f9cc2b03f9120e1dd7-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/sports/isl-2026-aiff-will-organise-top-tier-football-competition-indian-super-league-rdp-2482010.html",
-    "time": "2026-01-03T18:20:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "আইপিএল থেকে বাদ মুস্তাফিজুর রহমান! দেখুন ভিডিও",
-    "desc": "এবারের আইপিএল থেকে বাদ পড়লেন বাংলাদেশি পেসার মুস্তাফিজুর রহমান৷ বাংলাদেশের সাম্প্রতিক অস্থির পরিস্থিতির পরিপ্রেক্ষিতে এ দিন বিসিসিআই-এর পক্ষ থেকে মুস্তাফিজুরকে বাদ দেওয়ার জন্য এই নির্দেশ দেওয়া হয়৷ এর পরই মুস্তাফিজুরকে ছাড়ার কথা জানিয়ে দেয় কলকাতা নাইট রাইডার্স৷ মুস্তাফিজুরের বদলি হিসেবে অন্য কোনও ক্রিকেটারকে দলে নিতে পারবে কেকেআর৷ আইপিএল-এর মিনি নিলামে ৯ কোটি ২০ লক্ষ টাকায় মুস্তাফিজুরকে কিনেছিল কেকেআর৷ বাংলাদেশের একমাত্র ক্রিকেটার হিসেবে সুযোগ পেয়েছিল মুস্তাফিজুর৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Mustafizur-Rahman-2026-01-f7cbd78a106a9ee9fedcdf91f248d9ff-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/sports/mustafizur-rahman-left-out-of-ipl-2026-after-bcci-orders-kkr-to-exclude-bangladeshi-pacer-dmg-2481775.html",
-    "time": "2026-01-03T12:47:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ভোটের আগেই তৃণমূলে ধাক্কা, তৃণমূল ছেডে় কংগ্রেসে ফিরলেন মৌসম নূর! দেখুন ভিডিও",
-    "desc": "২০১৯ সালে তৃণমূলে যোগ দিয়েছিলেন৷ সাত বছর পর ফের নিজের পুরনো দল কংগ্রেসেই ফিরলেন মৌসম নূর৷ এ দিন দিল্লিতে কংগ্রেস নেতাদের উপস্থিতিতে পুরনো দলে ফেরেন তিনি৷ মৌসম নূর দাবি করেছেন, 'তৃণমূল আমাকে রাজ্যসভার সাংসদ, জেলা সভাপতি করেছিল৷ কয়েক মাস ধরেই পরিবারের মধ্যে একটা আলোচনা চলছিল৷ আমি বরকত সাহেবকে দেখেই রাজনীতিতে এসেছিলাম৷ আমার উদ্দেশ্য ছিল মানুষের পাশে থাকা৷ সেটা তৃণমূলে একরকম ভাবে হচ্ছিল৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Mausam-Noor-2026-01-5c4b0a278aa52feb20a56bb48699321d-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/mausam-noor-rejoins-congress-leaving-tmc-after-seven-years-dmg-2481739.html",
-    "time": "2026-01-03T12:10:30.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "সস্ত্রীক ভেনেজুয়েলার প্রেসিডেন্টকে হেফাজতে নিল মার্কিন সেনা, নিয়ে যাওয়া হল দেশের বাইরে! জানালেন ট্রাম্প",
-    "desc": "এই ঘটনার মাঝেই নিজের এক্স হ্যান্ডলে বিস্ফোরক একটি পোস্ট করেছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। তিনি নিজের এক্স হ্যান্ডল ট্রুথ সোশ্যালে লিখেছেন, \"মার্কিন যুক্তরাষ্ট্রের পক্ষ থেকে বড় হামলা চালানো হয়েছে। এর ফলে ভেনেজুয়েলার প্রেসিডেন্ট নিকোলাস মাদুরো এবং তাঁর স্ত্রী দেশ ছেড়ে পালিয়ে গিয়েছেন।\"",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-03-at-4.06.13-PM-2026-01-b2db93bfedf525dfddd6f774a4fe44a0-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/us-president-wrote-on-social-media-that-after-attack-on-caracas-president-maduro-and-his-wife-captured-and-flown-out-of-country-smc-2481502.html",
-    "time": "2026-01-03T10:37:35.000Z"
   }
 ];

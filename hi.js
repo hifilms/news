@@ -79,14 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-surpasses-mohammad-azharuddin-s-tally-in-odis-with-stunning-century-in-2nd-odi-vs-new-zealand-2026-01-14-1025865",
     "time": "2026-01-14T11:34:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Matches to be played from September 17 in T20 format",
-    "desc": "Japan is set to host the Asian Games later this year from September 19 to October 4. However, a few disciplines, including cricket, will start before the official opening ceremony, according to the schedule released by...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/asian-games-2026-cricket-schedule-matches-to-be-played-from-september-17-in-t20-format-2026-01-14-1025856",
-    "time": "2026-01-14T10:51:52.000Z"
   }
 ];

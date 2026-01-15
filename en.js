@@ -1,39 +1,246 @@
 const newsData_en = [
   {
-    "cat": "Entertainment",
-    "title": "Akhil Sathyan gets a glimpse",
-    "desc": "Filmmaker Akhil Sathyan was astounded by the trailer for Jayasurya's 'Kathanar – The Wild Sorcerer,' calling it unprecedented for Malayalam cinema. He lauded the team for pushing boundaries. Directed by Rojin Thomas, the film features Jayasurya as a legendary priest with supernatural powers. Anushka Shetty also stars in this ambitious project, with the trailer expected soon.",
-    "img": "https://static.toiimg.com/photo/msid-126539539,imgsize-29950.cms",
+    "cat": "Sports",
+    "title": "Did Messi decline 1.4b euros? Al Ittihad chief reveals jaw-dropping Saudi offer",
+    "desc": "Al Ittihad president Anmar Al Haili revealed Lionel Messi rejected a staggering 1.4 billion euro offer per year from the Saudi club. Messi prioritised his family over the immense financial package, opting instead for a move to Inter Miami. Saudi Arabia's ambition to attract top talent remains strong, with Cristiano Ronaldo already a key figure.",
+    "img": "https://static.toiimg.com/photo/msid-126542774,imgsize-55220.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/sarvam-maya-director-is-mind-blown-by-jayasuryas-kathanar-trailer-its-unlike-anything-malayalam-cinema-has-ever-seen/articleshow/126539539.cms",
-    "time": "2026-01-15T06:08:38.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/did-lionel-messi-decline-1-4-billion-euros-al-ittihad-chief-reveals-jaw-dropping-saudi-offer-to-argentine-star/articleshow/126542717.cms",
+    "time": "2026-01-15T09:22:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How family feuds are crippling regional parties across states",
+    "desc": "Once kingmakers, many Indian regional parties now grapple with internal strife and leadership crises. From the RJD's family disputes to the Shiv Sena's split and the NCP's factionalism, these parties face significant challenges. Internal conflicts and succession battles are weakening their once formidable influence across the political landscape.",
+    "img": "https://static.toiimg.com/photo/msid-126542408,imgsize-1141216.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/from-kingmakers-to-kin-wars-how-family-feuds-are-crippling-regional-parties-across-states/articleshow/126542174.cms",
+    "time": "2026-01-15T09:14:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India's fashion appeal changes! Uniqlo, Nike gain ground; M&amp;S, Adidas &amp; others see muted growth",
+    "desc": "India's western fashion market shows a split performance post-pandemic. While some global brands like Adidas and Marks & Spencer face declining sales, Uniqlo and Nike are experiencing significant growth. Experts point to a shift towards functional clothing, especially among Gen Z, influencing brand success and market dynamics.",
+    "img": "https://static.toiimg.com/photo/msid-126542589,imgsize-140737.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-fashion-appeal-changes-uniqlo-nike-gain-ground-ms-adidas-others-see-muted-growth/articleshow/126541812.cms",
+    "time": "2026-01-15T09:08:10.000Z"
   },
   {
     "cat": "Entertainment",
-    "title": "‘Bridgerton’ Season 4: All 8 episode titles revealed",
-    "desc": "Bridgerton fans rejoice! Season 4, premiering January 29, 2026, unveils episode titles and a Cinderella-esque tale. Benedict Bridgerton seeks a mysterious Lady in Silver, revealed as maid Sophie. The season, based on Julia Quinn's 'An Offer from a Gentleman,' promises magic and relatable romance. Part 1 arrives January 29, with Part 2 on February 26.",
-    "img": "https://static.toiimg.com/photo/msid-126539436,imgsize-917592.cms",
+    "title": "Akshay offers to help girl's family with debt",
+    "desc": "In a heartfelt moment during the voting process, Akshay Kumar demonstrated his commitment to social responsibility when he met a distressed young woman at a polling booth. Recognizing her family's financial struggles, he immediately reached out to his security team to offer her assistance.",
+    "img": "https://static.toiimg.com/photo/msid-126541816,imgsize-29166.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-season-4-all-8-episode-titles-revealed-ahead-of-january-29-release/articleshow/126539436.cms",
-    "time": "2026-01-15T05:57:26.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-wins-hearts-at-bmc-polling-booth-offers-to-help-girls-family-with-debt-viral-video/articleshow/126541790.cms",
+    "time": "2026-01-15T08:48:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mandy Moore on friendships amid Ashley Tisdale’s mom group drama",
+    "desc": "Mandy Moore candidly discussed how motherhood reshapes friendships, a sentiment resonating amid Ashley Tisdale's recent essay about a \"toxic mom group.\" Moore spoke of \"mourning\" the evolution of certain friendships, not their loss, as life stages diverge. Her reflections, shared on a podcast, offer a nuanced perspective on changing adult relationships without naming names.",
+    "img": "https://static.toiimg.com/photo/msid-126542152,imgsize-42470.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mandy-moore-reveals-she-lost-touch-with-friends-amid-ashley-tisdales-mom-group-drama/articleshow/126542128.cms",
+    "time": "2026-01-15T08:41:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shabana REVEALS Javed's hidden acting talent",
+    "desc": "Shabana Azmi and Javed Akhtar recently starred together in a jewellery ad, portraying soulmates. Azmi revealed Akhtar is her soulmate, and their natural chemistry surprised many. Akhtar's effortless presence has led to acting offers, while Azmi attributes their strong marriage to best friendship, shared values, and a simple rule for resolving arguments.",
+    "img": "https://static.toiimg.com/photo/msid-126541855,imgsize-33392.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shabana-azmi-reveals-javed-akhtars-hidden-acting-talent-says-he-is-so-effortless-in-front-of-the-camera/articleshow/126542021.cms",
+    "time": "2026-01-15T08:31:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rahul Ravindran hails her 'Eko' role",
+    "desc": "Biana Momin is receiving widespread acclaim for her riveting role in the Malayalam psychological thriller 'Eko'. After a successful run at the box office and a nod from celebrated actor Dhanush, director Rahul Ravindran has praised Momin's performance as 'extraordinary' and 'authentic'.",
+    "img": "https://static.toiimg.com/photo/msid-126541820,imgsize-28298.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/shes-so-unfussily-terrific-after-dhanush-rahul-ravindran-praises-biana-momins-standout-turn-in-eko/articleshow/126541820.cms",
+    "time": "2026-01-15T08:25:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ek Din' first poster out: Sai and Junaid's soft romance begins",
+    "desc": "A new romantic film, 'Ek Din,' starring Sai Pallavi and Junaid Khan, has been announced with its first poster released. The movie, produced by Aamir Khan Productions, is set for a theatrical release on May 1, 2026, with the teaser dropping on January 16, 2026. The fresh pairing and emotional storyline have generated significant fan excitement.",
+    "img": "https://static.toiimg.com/photo/msid-126541619,imgsize-57600.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ek-din-first-poster-out-sai-pallavi-and-junaid-khans-soft-romance-begins-confirms-may-2026-release/articleshow/126541630.cms",
+    "time": "2026-01-15T08:10:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Bluff’: All about Priyanka Chopra’s fierce handcrafted costume",
+    "desc": "Priyanka Chopra's fierce portrayal of 'Bloody Mary' in 'The Bluff' is captivating audiences. The actress revealed her pirate armour was meticulously handcrafted for authenticity, not just aesthetics. Set in the 1700s Cayman Islands, the film promises a realistic pirate depiction, balancing intense action with deep emotional stakes as Ercell fights to protect her family.",
+    "img": "https://static.toiimg.com/photo/msid-126540886,imgsize-1301152.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-bluff-priyanka-chopras-fierce-bloody-mary-armour-is-handcrafted-all-about-the-pirate-warrior-costume/articleshow/126540886.cms",
+    "time": "2026-01-15T08:09:46.000Z"
   },
   {
     "cat": "Sports",
-    "title": "KL Rahul's unbeaten 112 strengthens case for bigger middle-overs role",
+    "title": "BCB issues show-cause to director",
+    "desc": "Bangladesh cricket faces turmoil as a board director's controversial remarks about national cricketers sparked a boycott threat. The Bangladesh Cricket Board issued a show-cause notice and expressed regret over the comments, urging players to reconsider their stance. The BPL faced immediate disruption, with match toss delays reported amid the escalating crisis.",
+    "img": "https://static.toiimg.com/photo/msid-126541462,imgsize-76066.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bangladesh-cricket-crisis-deepens-bcb-issues-show-cause-to-director-as-players-boycott-threat-hits-bpl/articleshow/126541450.cms",
+    "time": "2026-01-15T07:59:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Connor Storrie recalls pitching himself at Golden Globes",
+    "desc": "‘Heated Rivalry’ star Connor Storrie candidly shared his Golden Globe Awards experience, revealing he pitched himself to a director for an upcoming film. Despite the director's unexpected attempt to change the subject, Storrie remains optimistic about the encounter. The actor's recent success with ‘Heated Rivalry,’ a series about two hockey stars, has propelled him into the spotlight.",
+    "img": "https://static.toiimg.com/photo/msid-126541427,imgsize-21676.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/connor-storrie-reveals-how-he-pitched-himself-to-a-director-at-golden-globes-2026-and-the-hilarious-response/articleshow/126541427.cms",
+    "time": "2026-01-15T07:59:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Very serious matter, will examine issue: Supreme Court on ED’s Kolkata raids facing ‘obstruction’",
+    "desc": "A Bench of Justices Prashant Kumar Mishra and Vipul Pancholi said they intend to issue notice and examine the matter. “This is a very serious matter; we will issue a notice. We have to examine it,” it remarked orally.",
+    "img": "https://th-i.thgim.com/public/incoming/6wxyq1/article70512391.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%203.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/i-pac-raids-row-incident-reflects-very-shocking-pattern-ed-tells-supreme-court/article70512386.ece",
+    "time": "2026-01-15T07:49:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Does MrBeast really have ‘negative money’?",
+    "desc": "In a surprising twist, internet mogul MrBeast, whose fortune is around $2.6 billion, disclosed that he has 'negative money' in his bank account. This peculiar situation stems from his strategy of borrowing funds to fuel his ambitious video productions and business expansions, illustrating how wealth doesn't always equate to liquid cash flow.",
+    "img": "https://static.toiimg.com/photo/msid-126541264,imgsize-26832.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/mrbeast-claims-he-has-negative-money-despite-a-usd-2-6-billion-net-worth-heres-what-we-know/articleshow/126541241.cms",
+    "time": "2026-01-15T07:48:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SC refuses to intervene in ‘Jana Nayagan’: Complete timeline",
+    "desc": "Uncertainties loom over the release of Vijay's concluding film, 'Jana Nayagan,' as the Supreme Court has declined to step into a heated debate regarding its censor certification. An upcoming hearing at the Madras High Court on January 20 will address the situation, following a temporary hold on a single judge's decision to provide a U/A certificate.",
+    "img": "https://static.toiimg.com/photo/msid-126541069,imgsize-96134.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalapathy-vijays-jana-nayagan-release-row-timeline-sc-refuses-to-intervene-all-you-need-to-know-about-the-controversy/articleshow/126541069.cms",
+    "time": "2026-01-15T07:39:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Deets inside",
+    "desc": "Filmmaker Tharun Moorthy and superstar Mohanlal are reuniting for a new project, confirmed by producer Ashiq Usman. Filming commences January 23, 2026, following the success of their 2025 blockbuster 'Thudarum'. Speculation suggests shooting in Thodupuzha and a potential reunion with Meera Jasmine. Excitement is high for this promising collaboration.",
+    "img": "https://static.toiimg.com/photo/msid-126539692,imgsize-45258.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mohanlal-to-reunite-with-thudarum-director-tharum-moorthy-shoot-to-start-from-january-23/articleshow/126539692.cms",
+    "time": "2026-01-15T07:28:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "I-Pac raids drama in SC: ED alleges CM barged in, accuses her of theft; Mamata calls it a ‘blatant lie’",
+    "desc": "Solicitor General Tushar Mehta, appearing for the ED, told a bench of Justices Prashant Kumar Mishra and Vipul Pancholi that in the past also, whenever statutory authorities exercised statutory power, Banerjee barged in and interfered.",
+    "img": "https://static.toiimg.com/photo/msid-126541279,imgsize-75780.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/disturbed-by-what-happened-in-calcutta-hc-sc-hears-ed-plea-against-mamata-over-i-pac-raids-calls-allegations-serious/articleshow/126540022.cms",
+    "time": "2026-01-15T07:24:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Nine new Amrit Bharat Express trains soon! Indian railways announces routes — check list and features",
+    "desc": "Nine new Amrit Bharat Express trains are set to expand long-distance rail connectivity, linking West Bengal and Assam with Bihar, Uttar Pradesh, Karnataka, Tamil Nadu, and Maharashtra. These non-air-conditioned trains offer affordable travel with modern amenities, aiming to boost commerce and tourism across the country.",
+    "img": "https://static.toiimg.com/photo/msid-126540851,imgsize-1402889.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/infrastructure/nine-new-amrit-bharat-express-trains-soon-indian-railways-announces-routes-check-list-and-features/articleshow/126540223.cms",
+    "time": "2026-01-15T07:15:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Karan Joshi REVEALS how 'Laalo' changed his life",
+    "desc": "Gujarati film 'Laalo—Krishna Sada Sahaayate's unexpected Rs 100 crore success has significantly impacted actor Karan Joshi's career, earning him serious recognition. Recalling his childhood dream and unpaid experimental theater days, Joshi found peace and fulfillment in acting. Now, he prioritizes heartfelt, challenging roles, aiming to leave a lasting impact with his performances.",
+    "img": "https://static.toiimg.com/photo/msid-126540836,imgsize-45352.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/gujarati/movies/news/karan-joshi-reveals-how-laalo-changed-his-life-says-people-take-me-seriously-now/articleshow/126540845.cms",
+    "time": "2026-01-15T07:14:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Fans shared mixed reactions of new Nanno in 'Girl From Nowhere'",
+    "desc": "With anticipation soaring high for the third season of 'Girl From Nowhere,' titled 'The Reset,' fans are buzzing. However, the replacement of Kitty Chicha Amatayakul with Rebecca Armstrong as Nanno has created a stir. Viewers are left to ponder if this new actress can truly embody the spirit of the strong-willed character that made the series a masterpiece.",
+    "img": "https://static.toiimg.com/photo/msid-126540740,imgsize-26358.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/girl-from-nowhere-3-rebecca-armstrong-joins-as-nanno-recast-gets-mixed-reactions-from-fans/articleshow/126540740.cms",
+    "time": "2026-01-15T07:10:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Triptii praises 'Happy Patel'",
+    "desc": "Khatarnak Jasoos,' produced by Aamir Khan. The film garnered significant praise at a special screening, with actress Triptii Dimri calling it a \"joy from start to finish\" and urging audiences to watch it in cinemas. Co-directed by Kavi Shastri, the movie is set to release on January 16.",
+    "img": "https://static.toiimg.com/photo/msid-126540676,imgsize-18148.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/triptii-dimri-praises-happy-patel-calls-vir-das-first-film-pure-joy-and-shares-a-post/articleshow/126540637.cms",
+    "time": "2026-01-15T07:08:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chris Noth says viral issue blown out of proportion",
+    "desc": "Chris Noth, known for playing Mr. Big, has addressed backlash over a sarcastic social media comment seemingly targeting Sarah Jessica Parker. He called the ensuing discussion a \"tempest in a teapot,\" deeming it a waste of time given more pressing global issues. This comes after Noth faced allegations in 2021, impacting his career and 'Sex and the City' spin-off appearances.",
+    "img": "https://static.toiimg.com/photo/msid-126540606,imgsize-21170.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/chris-noth-addresses-viral-sarah-jessica-parker-comment-it-is-not-worth-all-this-discussion/articleshow/126540606.cms",
+    "time": "2026-01-15T07:06:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "David Harbour gets real about his mental health journey",
+    "desc": "David Harbour opens up about his enduring fight against bipolar disorder, showcasing how comprehensive therapy starting at age 50 has revolutionized both his mental health and acting craft. By bravely facing his history of trauma and addiction, and actively managing his medication, he has significantly lessened his manic bouts, achieving a newfound balance.",
+    "img": "https://static.toiimg.com/photo/msid-126540632,imgsize-27814.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/stranger-things-star-david-harbour-details-intense-psychotherapy-amid-living-with-bipolar-disorder/articleshow/126540596.cms",
+    "time": "2026-01-15T07:06:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "​‘The Bluff': Priyanka Chopra Jonas, Karl Urban starrer’s cast, release date, plot revealed",
+    "desc": "The first trailer of Priyanka Chopra starrer ‘The Bluff’ has officially dropped, where the actress is seen in a new avatar of a pirate queen marked by scars with high-intensity action sequences. After the trailer was released, social media quickly filled with enthusiastic reactions for the film. Here’s all you need to know about ‘The Bluff’s’ cast, release date, plot, and more. By the looks of the trailer, it gives high-stakes action film vibes. ‘The Bluff’ is releasing on Amazon Prime Video on February 25, 2026. This means that PeeCee’s fans won’t have to wait long. Meanwhile, the official trailer of the pirate drama film, ‘The Bluff’, was released on Wednesday, January 14, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-126540538,imgsize-1342532.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-bluff-priyanka-chopra-jonas-karl-urban-starrers-cast-release-date-plot-revealed/photostory/126540538.cms",
+    "time": "2026-01-15T06:58:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ramayana' first look to be unveiled on THIS date",
+    "desc": "Mark your calendars for a thrilling glimpse of Nitesh Tiwari's 'Ramayana'! Rumor has it that the first teaser could be unveiled on Ram Navami, featuring the talented Ranbir Kapoor in the role of Rama and the formidable Yash portraying Ravana.",
+    "img": "https://static.toiimg.com/photo/msid-126540456,imgsize-53044.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-ranbir-kapoor-and-yash-to-unveil-first-look-on-ram-navami/articleshow/126539829.cms",
+    "time": "2026-01-15T06:54:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Zendaya",
+    "desc": "In an inspiring moment in 2015, Zendaya, the talented actress and dedicated philanthropist, conveyed a vital lesson about self-respect and ethics, stating that causing pain to others is never warranted, even in the face of injustice.",
+    "img": "https://static.toiimg.com/photo/msid-126540315,imgsize-23956.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-zendaya-just-because-someone-has-inflicted-hurt-upon-us-it-does-not-give-us-the-right-to-do-the-same/articleshow/126540315.cms",
+    "time": "2026-01-15T06:49:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SC dismisses plea, asks ‘Jana Nayagan’ makers to move Madras HC",
+    "desc": "The Supreme Court has directed the makers of Thalapathy Vijay's 'Jana Nayagan' to return to the Madras High Court regarding CBFC clearance. The apex court refused to intervene, emphasizing the High Court's division bench should hear the matter. This follows the High Court's stay on a single judge's order for film certification, leaving the movie's release pending.",
+    "img": "https://static.toiimg.com/photo/msid-126539804,imgsize-558092.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-censor-row-supreme-court-rejects-makers-plea-sent-back-to-high-court/articleshow/126539804.cms",
+    "time": "2026-01-15T06:22:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul makes case for bigger middle-overs role",
     "desc": "KL Rahul's composed century against New Zealand showcased a newfound clarity and control, a stark contrast to his career's past uncertainties. Batting at number five, he displayed classic ODI prowess, proving old-school techniques still hold value. This assured knock, his first ODI ton since the World Cup, highlights his dedication to establishing a stable role in the team.",
     "img": "https://static.toiimg.com/photo/msid-126539370,imgsize-89794.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/more-than-a-finisher-kl-rahuls-unbeaten-112-strengthens-case-for-bigger-middle-overs-role/articleshow/126539332.cms",
     "time": "2026-01-15T05:52:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Stranger Things’ star Joe Keery feels ‘Lucky’: Here’s why",
-    "desc": "At the Golden Globes, Joe Keery, known for his role in 'Stranger Things,' stole the spotlight not just with his undeniable charm but with an eye-catching style that left many in awe. Aside from his on-screen accolades, Keery has made waves in the music scene as Djo, with his hit single 'End of Beginning' skyrocketing up the charts.",
-    "img": "https://static.toiimg.com/photo/msid-126539330,imgsize-31574.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/stranger-things-star-joe-keery-feels-lucky-shares-emotional-post-after-going-viral-at-golden-globes-2026/articleshow/126539194.cms",
-    "time": "2026-01-15T05:51:10.000Z"
   },
   {
     "cat": "Sports",
@@ -72,6 +279,15 @@ const newsData_en = [
     "time": "2026-01-15T05:39:21.000Z"
   },
   {
+    "cat": "Business",
+    "title": "'Poor planning': Nithin Kamath questions stock market closure during BMC polls; flags 'serious lack of appreciation'",
+    "desc": "Zerodha founder Nithin Kamath criticized the closure of Indian stock exchanges on January 15 for Mumbai's municipal elections, citing poor planning and a lack of appreciation for second-order effects. He argued that such a holiday, driven by local civic polls, undermines global investor confidence. Trading is set to resume on January 16 after the election-related holiday.",
+    "img": "https://static.toiimg.com/photo/msid-126540128,imgsize-398733.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/poor-planning-zerodha-co-founder-nikhil-kamath-questions-stock-market-closure-during-bmc-polls-flags-serious-lack-of-appreciation/articleshow/126538296.cms",
+    "time": "2026-01-15T05:35:14.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "‘Tell Vinesh, I want to wrestle her again’: Yui Susaki reflects on Paris defeat",
     "desc": "Japanese wrestling champion Yui Susaki, a four-time world champion and Olympic gold medalist, expressed her desire to face Indian wrestler Vinesh Phogat again after a surprising defeat. Susaki views the loss as a crucial learning experience, fueling her ambition for future Olympic gold medals and inspiring others with her resilience.",
@@ -79,24 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/toi-exclusive-tell-vinesh-i-want-to-wrestle-her-again-yui-susaki-reflects-on-paris-defeat-to-phogat/articleshow/126538726.cms",
     "time": "2026-01-15T05:34:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "John, Tamannaah, celebs cast their vote",
-    "desc": "In a spirited show of civic engagement, Mumbai's municipal elections attracted a star-studded turnout, with renowned figures like Akshay Kumar and Twinkle Khanna taking time out of their schedules to vote. Acclaimed personalities such as Hema Malini, Suniel Shetty, and Sanya Malhotra joined in, emphasizing the crucial role that every citizen plays in ensuring Mumbai thrives as a vibrant metropolis.",
-    "img": "https://static.toiimg.com/photo/msid-126538498,imgsize-50940.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bmc-elections-2026-john-abraham-suniel-shetty-tamannaah-bhatia-nana-patekar-and-other-celebs-exercise-their-right-to-vote/articleshow/126538498.cms",
-    "time": "2026-01-15T05:20:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Mardaani 3' actress Janki's kite flying moment",
-    "desc": "Actress Janki Bodiwala is capturing attention with a viral video of her flying a kite. Fans are showering her with love online. This comes as anticipation builds for her role in the upcoming film 'Mardaani 3'. Bodiwala previously won a National Award for her performance in the Gujarati film 'Vash'. The film 'Mardaani 3' is set for an early release.",
-    "img": "https://static.toiimg.com/photo/msid-126538721,imgsize-25924.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/gujarati/movies/news/mardaani-3-actress-janki-bodiwalas-kite-flying-moment-fans-fall-in-love-again-watch-video/articleshow/126538696.cms",
-    "time": "2026-01-15T05:15:20.000Z"
   },
   {
     "cat": "Politics",
@@ -108,15 +306,6 @@ const newsData_en = [
     "time": "2026-01-15T05:11:05.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vote for security, clean air, pothole-free roads",
-    "desc": "Veteran actress and MP Hema Malini cast her vote early for the BMC Elections 2026, urging Mumbaikars to participate responsibly for a better city. She highlighted the importance of voting for security, progress, and improved infrastructure. This marks one of her first public appearances since the passing of her husband, Dharmendra, last November.",
-    "img": "https://static.toiimg.com/photo/msid-126538335,imgsize-24656.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bmc-elections-2026-hema-malini-casts-her-vote-tells-citizens-to-be-responsible-and-vote-for-security-progress-clean-air-and-pothole-free-roads/articleshow/126538163.cms",
-    "time": "2026-01-15T05:06:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "World No. 3 Antonsen fined $5,000 after skipping India Open over Delhi air",
     "desc": "Danish badminton player Anders Antonsen withdrew from the India Open for the third consecutive year due to extreme air pollution in Delhi, citing hazardous air quality readings. The world No. 3's decision resulted in a $5,000 fine from the Badminton World Federation. Meanwhile, a monkey was spotted in the stadium stands, drawing attention but not disrupting play.",
@@ -124,24 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/world-no-3-anders-antonsen-fined-5000-after-skipping-india-open-over-extreme-delhi-air/articleshow/126538520.cms",
     "time": "2026-01-15T05:00:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘The Lincoln Lawyer S4': All release date, plot, and more",
-    "desc": "Prepare yourself for the return of 'The Lincoln Lawyer' as Season 4 rolls out on February 5, 2026. In this gripping installment, Mickey Haller is not just battling courtroom challenges but also fighting to prove his innocence after being framed for murder.",
-    "img": "https://static.toiimg.com/photo/msid-126538340,imgsize-670273.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-lincoln-lawyer-season-4-trailer-drops-michael-connelly-struggles-to-prove-his-innocence-amid-new-challenges-watch/articleshow/126538340.cms",
-    "time": "2026-01-15T04:51:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Veer's CRYPTIC post amid breakup rumors with Tara: 'Waqt...'",
-    "desc": "In the wake of his split with Tara Sutaria, Veer Pahariya took to Instagram, posting a mysterious message that suggests a shift in their relationship. This follows the viral clips of Sutaria enjoying a concert with AP Dhillon, sparking a frenzy of rumors online. Fans are now rallying for the duo to patch things up, contributing to the swirling speculation.",
-    "img": "https://static.toiimg.com/photo/msid-126538020,imgsize-32000.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/veer-pahariya-drops-a-cryptic-post-amidst-breakup-rumors-with-tara-sutaria-says-waqt-badalta-zaroor-hai/articleshow/126538020.cms",
-    "time": "2026-01-15T04:29:01.000Z"
   },
   {
     "cat": "Politics",
@@ -153,15 +324,6 @@ const newsData_en = [
     "time": "2026-01-15T04:27:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Bridgerton Season 4': All classic pop covers on episode 1",
-    "desc": "Get ready for the drama to unfold on January 29, 2026, with Bridgerton's anticipated fourth season, centering around Benedict Bridgerton and an intriguing stranger who stirs the pot. This season you'll be treated to orchestral remixes of fan-favorite songs from artists like Coldplay and Usher, creating an innovative soundtrack that enhances the show’s romantic allure.",
-    "img": "https://static.toiimg.com/photo/msid-126538033,imgsize-43554.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-season-4-episode-1-from-pitbull-to-coldplay-the-period-romance-drops-these-classic-pop-covers/articleshow/126538009.cms",
-    "time": "2026-01-15T04:25:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Teen prodigy on Kohli's heels: 14-yr-old Sooryavanshi eyes major milestone",
     "desc": "India's U-19 World Cup campaign kicks off with 14-year-old Vaibhav Sooryavanshi poised to break Virat Kohli's Youth ODI run record. Sooryavanshi, already with 973 runs in 18 innings, needs just six more to surpass Kohli's mark. This prodigious talent is a key player for the favoured Indian squad, aiming for a record sixth title.",
@@ -169,24 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/teen-prodigy-on-virat-kohlis-heels-14-year-old-vaibhav-sooryavanshi-eyes-major-milestone-as-india-begin-u19-world-cup-quest/articleshow/126537966.cms",
     "time": "2026-01-15T04:20:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Feb date confirmed",
-    "desc": "BLACKPINK is set to make a grand return with their third mini-album, 'Deadline,' releasing on February 27, 2026. This marks their first release in over three years, following their 2022 EP 'Born Pink.' The announcement, accompanied by a cryptic teaser, has sent waves of excitement through their dedicated fanbase, eagerly anticipating new music from the global sensation.",
-    "img": "https://static.toiimg.com/photo/msid-126537638,imgsize-41666.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/blackpink-confirms-comeback-announces-february-release-date-for-3rd-ep/articleshow/126537638.cms",
-    "time": "2026-01-15T04:20:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay-Twinkle cast their vote",
-    "desc": "Bollywood stars Akshay Kumar and Twinkle Khanna were among the early voters in the Brihanmumbai Municipal Corporation elections. Akshay urged citizens to vote for the right leaders, calling it their \"remote control\" day. Twinkle expressed that voting provides a sense of control and power. The elections are crucial for local governance across Maharashtra's urban centers.",
-    "img": "https://static.toiimg.com/photo/msid-126537914,imgsize-43580.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bmc-elections-2026-akshay-kumar-and-wife-twinkle-khanna-cast-their-votes-say-real-heros-should-come-and-vote-watch/articleshow/126537645.cms",
-    "time": "2026-01-15T04:17:49.000Z"
   },
   {
     "cat": "Business",
@@ -198,15 +342,6 @@ const newsData_en = [
     "time": "2026-01-15T04:12:55.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'God of War': Ryan Hurst cast in lead as Kratos",
-    "desc": "In an exciting twist for fans of both gaming and television, Ryan Hurst, famed for his roles in 'Sons of Anarchy' and 'The Walking Dead', will portray Kratos in the much-anticipated 'God of War' series. MGM Studios has officially announced the casting, which promises to delve deep into Kratos's tumultuous journey and his complex bond with his son, Atreus.",
-    "img": "https://static.toiimg.com/photo/msid-126537477,imgsize-61334.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/god-of-war-ryan-hurst-to-play-kratos-in-the-upcoming-video-game-adaptation/articleshow/126537477.cms",
-    "time": "2026-01-15T04:04:09.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘The team is suffering’: Kris Srikkanth highlights lack of sixth bowler",
     "desc": "Former India batter Kris Srikkanth has voiced concerns over India's ODI team balance, questioning Axar Patel's continued exclusion. He highlighted Ravindra Jadeja's inconsistent form and the team's need for a reliable sixth bowling option, especially after their recent loss to New Zealand. Srikkanth believes Axar's inclusion would strengthen the bowling attack.",
@@ -214,15 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/the-team-is-suffering-kris-srikkanth-calls-out-axar-patel-snub-as-ravindra-jadeja-struggles-highlight-lack-of-sixth-bowler/articleshow/126537704.cms",
     "time": "2026-01-15T03:52:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Stranger Things’ documentary director addresses ChatGPT rumors",
-    "desc": "In a fascinating twist, whispers circulated that the finale of 'Stranger Things' might have had AI's fingerprints on it after a ChatGPT tab was spotted during a recent documentary. However, Director Martina Radwan swiftly dismissed these theories, asserting there's no proof of artificial intelligence being involved, and praised the episode as a culmination of heartfelt human collaboration and creativity.",
-    "img": "https://static.toiimg.com/photo/msid-126537689,imgsize-35894.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/stranger-things-documentary-director-sets-the-record-straight-on-chatgpt-rumors-heres-what-really-happened-behind-the-finale/articleshow/126537670.cms",
-    "time": "2026-01-15T03:50:55.000Z"
   },
   {
     "cat": "Business",
@@ -234,24 +360,6 @@ const newsData_en = [
     "time": "2026-01-15T03:45:29.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Complexity excites me'",
-    "desc": "Shahid Kapoor has evolved from charming romantic leads to intricately layered, morally ambiguous roles. Embracing authenticity and emotional depth, he thrives on delving into characters plagued by inner turmoil and hidden truths. This transformative journey in his craft reflects a commitment to genuine storytelling. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-126537558,imgsize-62794.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/oromeo-shahid-kapoor-reveals-why-he-keeps-picking-up-gray-characters-says-complexity-excites-me-far-more-today/articleshow/126537558.cms",
-    "time": "2026-01-15T03:36:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tom Hiddleston reveals first Indian film he watched was of SRK",
-    "desc": "During a lively chat about global cinema, Tom Hiddleston fondly reminisced about the first Indian film that captivated him—Shah Rukh Khan's poignant 'Devdas'. He praised the rich narrative style of Indian films and expressed a strong desire to collaborate with the exceptional SS Rajamouli, showcasing his respect for the breadth of talent within Bollywood.",
-    "img": "https://static.toiimg.com/photo/msid-126537175,imgsize-45354.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-hiddleston-reveals-the-first-indian-film-he-watched-was-of-shah-rukh-khan-says-it-was-such-an-extraordinary/articleshow/126537175.cms",
-    "time": "2026-01-15T03:08:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "B'desh cricket in turmoil: Players threaten boycott; BCB disowns director's remarks",
     "desc": "Bangladesh cricket faces turmoil as a BCB director's remarks spark player boycott threats and jeopardize World Cup participation. The board distanced itself from the comments, emphasizing player welfare, while security concerns over playing in India persist. Former players and associations condemned the public criticism, highlighting damage to the sport's image.",
@@ -259,24 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bangladesh-cricket-in-turmoil-players-boycott-threat-as-bcb-disowns-directors-remarks-amid-t20-world-cup-standoff/articleshow/126537338.cms",
     "time": "2026-01-15T03:07:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Bridgerton' season 4 LEAKED online- WATCH",
-    "desc": "Bridgerton's highly anticipated Season 4 has been hit by a significant leak, with crucial plot points from the premiere episode surfacing online. Clips revealing Eloise's return and key moments from the Bridgerton Ball, including Sophie's first appearance and her developing romance with Benedict, have flooded social media.",
-    "img": "https://static.toiimg.com/photo/msid-126537042,imgsize-16072.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-season-4-leaked-online-benedict-and-sophies-first-kiss-and-more-spoiled-after-paris-premiere-watch/articleshow/126536785.cms",
-    "time": "2026-01-15T03:02:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "John Mayer's Mumbai show postponed, to take place in THIS month",
-    "desc": "Mark your calendars! John Mayer's highly anticipated debut performance in Mumbai, originally set for January 22, 2026, has been pushed back to February 11, 2026, at the iconic Mahalaxmi Race Course. The delay comes as organizers have cited unexpected circumstances. But no worries for fans—your existing tickets are still valid and BookMyShow promises a smooth adjustment for all attendees.",
-    "img": "https://static.toiimg.com/photo/msid-126536930,imgsize-44414.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/john-mayers-mumbai-concert-gets-postponed-grammy-winning-singers-gig-is-now-to-take-place-in-this-month-details-inside/articleshow/126536930.cms",
-    "time": "2026-01-15T02:35:55.000Z"
   },
   {
     "cat": "Business",
@@ -315,24 +405,6 @@ const newsData_en = [
     "time": "2026-01-15T02:15:57.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Michael Jackson estate executors seeks $115,000 after motion win",
-    "desc": "The ongoing saga surrounding Michael Jackson's estate took a dramatic turn as the estate's executors sought $115,000 in legal fees after successfully countering a motion from Paris Jackson. In response, Paris's team has accused the executors of greed, asserting they will relentlessly pursue clarity and accountability regarding questionable financial dealings within the estate's management.",
-    "img": "https://static.toiimg.com/photo/msid-126536682,imgsize-47230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-jackson-estate-executors-submit-a-new-document-seeking-usd-115k-as-a-fee-amid-paris-jackson-legal-battle/articleshow/126536682.cms",
-    "time": "2026-01-15T02:04:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay gets fresh CBI summons",
-    "desc": "Actor Vijay has been summoned again by the CBI on January 19 in Delhi regarding the Karur stampede tragedy that claimed 41 lives. He reportedly told the agency his party was responsible. Meanwhile, the Supreme Court will hear a plea for CBFC clearance for Vijay's film 'Jana Nayagan' on January 15, amidst Kamal Haasan's call for film certification reform.",
-    "img": "https://static.toiimg.com/photo/msid-126536759,imgsize-30476.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/karur-stampede-case-vijay-gets-fresh-cbi-summons-jana-nayagan-actor-to-appear-on-january-19/articleshow/126536759.cms",
-    "time": "2026-01-15T01:54:44.000Z"
-  },
-  {
     "cat": "Business",
     "title": "China’s trade surplus hits $1.2 trillion",
     "desc": "China's exports surged to a record $1.2 trillion trade surplus in 2025, defying expectations of a slowdown. This resilience, driven by deeper inroads into markets beyond the US and a shift up the value chain, is expected to continue supporting the economy despite weaker domestic demand and ongoing trade tensions.",
@@ -340,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-tariffs-no-bar-chinas-trade-surplus-hits-1-2-trillion/articleshow/126536714.cms",
     "time": "2026-01-15T01:46:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Talwiinder's net worth: Exploring his wealth Disha link-up rumors",
-    "desc": "All eyes are on singer Talwiinder after a video surfaced of him and actress Disha Patani joyfully holding hands at a recent wedding. This intimate moment quickly went viral, igniting theories about their relationship status. Known for his innovative fusion of Punjabi and Western sounds, Talwiinder is making waves in the industry with a reported net worth of Rs 11.",
-    "img": "https://static.toiimg.com/photo/msid-126536690,imgsize-48872.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/talwiinders-net-worth-exploring-the-singers-wealth-as-he-makes-headlines-with-disha-patani/articleshow/126536690.cms",
-    "time": "2026-01-15T01:45:53.000Z"
   },
   {
     "cat": "Business",
@@ -486,15 +549,6 @@ const newsData_en = [
     "time": "2026-01-14T16:53:47.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Lanning scripts history in Indian league, becomes first Australian to...",
-    "desc": "Meg Lanning became the third player to cross 1,000 runs in WPL history during WPL 2026, reaching the milestone against Delhi Capitals. With 1,050 runs, she is the tournament’s second-highest run-scorer behind Nat Sciver-Brunt. Formerly Delhi Capitals’ captain, Lanning now leads UP Warriorz. The WPL 2026 runs from January 9 to February 5, with the final in Vadodara.",
-    "img": "https://static.toiimg.com/photo/msid-126531006,imgsize-34546.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/wpl-record-meg-lanning-scripts-history-in-indian-league-becomes-first-australian-to-/articleshow/126530706.cms",
-    "time": "2026-01-14T16:34:18.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Marriage halls seek reduction in GST rates, power charges",
     "desc": "The Tamil Nadu Marriage Hall Owners Association, South India Marriage Hall Owners Federation, and All Kalyana Mandapam Owners Association have jointly written to the respective State governments and the Centre seeking a significant reduction in GST rates",
@@ -513,15 +567,6 @@ const newsData_en = [
     "time": "2026-01-14T16:31:24.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Roadmap for next 21 years': Chaubey unveils blueprint for ISL and I-League",
-    "desc": "The AIFF has unveiled a 21-year roadmap for Indian football, drawing from top leagues in Spain, Germany and England. It plans a new governance structure for the ISL and I-League with a powerful governing council and management committee. The bodies will oversee operations, regulation and development, while the AIFF awaits AFC’s decision on continental slots despite a shortened ISL season.",
-    "img": "https://static.toiimg.com/photo/msid-126530463,imgsize-97432.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/roadmap-for-next-21-years-aiff-chief-kalyan-chaubey-borrows-ideas-from-worlds-top-leagues-unveils-blueprint-for-isl-and-i-league/articleshow/126530297.cms",
-    "time": "2026-01-14T15:52:32.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Supreme Court to hear producer’s appeal on January 15",
     "desc": "The Bench would hear KVN Productions’ challenge against the decision of a two-judge Bench of the High Court to stay a single judge’s order to issue U/A 16+ certificate to the film, hours after it was passed.",
@@ -529,15 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/sc-to-hear-jana-nayagan-producers-on-jan-15/article70510387.ece",
     "time": "2026-01-14T15:48:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala School Kalolsavam 2026 / Celebrating silent spaces of creativity",
-    "desc": "For many gathered at the venue, participating in competitions such as short story writing, cartooning, or essay writing, moments of effort and emotion often pass unnoticed, far removed from the glitz and applause of on-stage performances. Yet students prepare for these events with equal diligence, even when their achievements rarely draw public acclaim",
-    "img": "https://th-i.thgim.com/public/incoming/prvo5h/article70510614.ece/alternates/LANDSCAPE_1200/80688_14_1_2026_20_22_13_2_CARTOONS_KKN2.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-school-kalolsavam-2026-celebrating-silent-spaces-of-creativity/article70510423.ece",
-    "time": "2026-01-14T15:27:35.000Z"
   },
   {
     "cat": "Business",
@@ -549,24 +585,6 @@ const newsData_en = [
     "time": "2026-01-14T15:25:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Farmers’ march led by Hanuman Beniwal to Jaipur called off after high-voltage drama",
-    "desc": "Mr. Beniwal, critical of the BJP government in the State, says the dharna at Riyan Badi had sent across a ‘historic message’ to the government to render justice to the people waiting for resolution of their grievances",
-    "img": "https://th-i.thgim.com/public/news/national/tjj2f7/article70510238.ece/alternates/LANDSCAPE_1200/beniwal_march.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rajasthan/farmers-march-led-by-hanuman-beniwal-to-jaipur-called-off-after-high-voltage-drama/article70510205.ece",
-    "time": "2026-01-14T15:17:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Wrong to support those who criticise our nation': BAI rejects hygiene concerns",
-    "desc": "The Badminton Association of India has refuted claims of poor playing conditions at the India Open 2026, calling it a test event for the upcoming World Championships. BAI's general secretary defended the arrangements, attributing player complaints to individual health issues and politics, while Danish shuttlers cited pollution and unhygienic facilities.",
-    "img": "https://static.toiimg.com/photo/msid-126529899,imgsize-31256.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/wrong-to-support-those-who-criticise-our-nation-bai-rejects-pollution-hygiene-concerns-at-india-open-downplays-criticism/articleshow/126529585.cms",
-    "time": "2026-01-14T15:16:26.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Wall Street slips for second session as bank earnings disappoint; oil and gold climb",
     "desc": "Indian markets mirrored global caution as US stocks dipped, driven by mixed bank earnings and rising oil and gold prices. Investors eyed potential disruptions from Iran, while Treasury yields eased. Despite some positive economic signals, elevated equity valuations demand strong corporate growth to sustain current levels.",
@@ -574,24 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-markets-today-wall-street-slips-for-second-session-as-bank-earnings-disappoint-oil-and-gold-climb/articleshow/126529548.cms",
     "time": "2026-01-14T14:59:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Consistency and suitability matter most; here's why",
-    "desc": "A very aggressive small-cap fund can be a good satellite holding for a long-term, high-risk investor. The same fund is a terrible choice as a core holding for someone whose child’s college fees are 8 years away and who panics whenever the market falls 10 per cent.",
-    "img": "https://static.toiimg.com/photo/msid-126520283,imgsize-47290.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/mutual-funds/the-mutual-fund-advisor-what-really-makes-a-mutual-fund-good-its-not-last-years-return/articleshow/126520183.cms",
-    "time": "2026-01-14T14:35:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Srikanth, Prannoy advance; PV Sindhu suffers exit",
-    "desc": "Kidambi Srikanth and HS Prannoy reached the men’s singles second round at the India Open 2026 with gritty wins, while 16-year-old Tanvi Sharma impressed despite a narrow loss. Malvika Bansod advanced in women’s singles, but PV Sindhu exited early. Prannoy capitalised on a late entry, while Srikanth relied on experience to prevail.",
-    "img": "https://static.toiimg.com/photo/msid-126529107,imgsize-141626.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/india-open-badminton-tournament-kidambi-srikanth-hs-prannoy-advance-pv-sindhu-suffers-exit/articleshow/126528906.cms",
-    "time": "2026-01-14T14:28:06.000Z"
   },
   {
     "cat": "Sports",
@@ -610,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-have-our-own-ab-de-villiers-suryakumar-yadav-gets-pat-on-the-back-ahead-of-indias-t20-world-cup-campaign/articleshow/126527412.cms",
     "time": "2026-01-14T13:05:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Govt may raise capex spending 10–15%; private investment remains uneven",
-    "desc": "Experts anticipate the government will prioritize public capital expenditure in the upcoming Union Budget 2026, projecting a 10-15% increase from the current Rs 11.21 lakh crore. This strategic move aims to sustain economic growth momentum, despite cautious private sector investment.",
-    "img": "https://static.toiimg.com/photo/msid-126527095,imgsize-496428.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-govt-may-raise-capex-spending-1015-private-investment-remains-uneven/articleshow/126527037.cms",
-    "time": "2026-01-14T12:35:42.000Z"
   },
   {
     "cat": "Sports",
@@ -700,15 +691,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/children/the-wax-world-of-madame-tussauds/article70449130.ece",
     "time": "2026-01-13T05:30:00.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "South Korea's Lee to head for Japan summit a week after meeting China's Xi",
-    "desc": "The summit in Japan’s Nara City comes amid a growing diplomatic dispute between Beijing and Tokyo, and analysts expect Sanae Takaichi to highlight the stability of three-way ties between the United States, Japan and South Korea",
-    "img": "https://th-i.thgim.com/public/incoming/3wpfb7/article70502814.ece/alternates/LANDSCAPE_1200/Japan_South_Korea_05219.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/south-koreas-lee-to-head-for-japan-summit-a-week-after-meeting-chinas-xi/article70502794.ece",
-    "time": "2026-01-12T17:15:42.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/aryna-sabalenka-advances-to-the-brisbane-international-final-after-beating-karolina-muchova-australian-open-final/article70493639.ece",
     "time": "2026-01-10T04:35:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rumesh Ratnayake",
+    "desc": "The 62-year-old knows a thing or two about famous Sri Lankan victories. He took the wicket that won the island nation its first-ever Test and coached the women to significant overseas T20I series wins and an Asia Cup triumph. He talks about his coaching philosophy, being inspired by the All Blacks, the evolution of the women’s game and his time as a pathbreaking quick",
+    "img": "https://th-i.thgim.com/public/incoming/nlusw3/article70492521.ece/alternates/LANDSCAPE_1200/1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/rumesh-ratnayake-sri-lanka-1985-test-win-fast-bowling-womens-coach-kapil-dev/article70492498.ece",
+    "time": "2026-01-09T20:28:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jefferson-Wooden’s plan for world domination centres on ‘Melissa’",
+    "desc": "A switch in the 24-year-old American sprinter’s focus — from competing against others to competing against her best — brought rich rewards in 2025. The reigning sprint queen, who claimed a historic triple crown at the Worlds, wants to establish herself among the greatest ever as she looks forward to a series of major events culminating in Los Angeles 2028",
+    "img": "https://th-i.thgim.com/public/incoming/h1wapr/article70492515.ece/alternates/LANDSCAPE_1200/GettyImages-2217335433.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/melissa-jefferson-wooden-sprint-queen-la-2028-olympics-flo-jo-record-world-championships/article70492488.ece",
+    "time": "2026-01-09T20:25:26.000Z"
   }
 ];
