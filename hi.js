@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vidarbha beat Karnataka to enter Vijay Hazare final; Aman Mokhade, Darshan Nalkande steal show",
+    "desc": "Aman Mokhade gave himself and Vidarbha the perfect pre-birthday present with a match-winning century as they defeated defending champions Karnataka to reach their second consecutive Vijay Hazare Trophy final. Vidarbha will face the winner of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vidarbha-beat-karnataka-to-enter-vijay-hazare-final-aman-mokhade-darshan-nalkande-steal-show-2026-01-15-1026097",
+    "time": "2026-01-15T18:05:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nat Sciver-Brunt equals major WPL record before Harleen Deol hands UP Warriorz maiden WPL 2026 win",
+    "desc": "England international Nat Sciver-Brunt is in phenomenal form in the ongoing WPL 2026. After missing the last game, owing to a minor injury, the veteran returned to the squad and scored 63 runs off 43...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nat-sciver-brunt-equals-major-wpl-record-before-harleen-deol-hands-up-warriorz-maiden-wpl-2026-win-2026-01-15-1026091",
+    "time": "2026-01-15T17:40:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Naveen-ul-Haq ruled out of T20 World Cup 2026, know what happened",
+    "desc": "Afghanistan’s preparations for a busy T20 calendar have been disrupted by the loss of fast bowler Naveen-ul-Haq, who has been ruled out of both the upcoming three-match T20I series against West Indies and the men’s...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/naveen-ul-haq-ruled-out-of-t20-world-cup-2026-know-what-happened-2026-01-15-1026086",
+    "time": "2026-01-15T16:31:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manchester Super Giants unveil new logo, sign Smriti Mandhana, Meg Lanning; Retain Jos Butler",
+    "desc": "Manchester Originals have officially been rebranded as Manchester Super Giants ahead of the 2026 Hundred season, with the franchise confirming the retention of England internationals Jos Buttler and Sophie Ecclestone. The squad also includes Afghanistan...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/manchester-super-giants-unveil-new-logo-sign-smriti-mandhana-meg-lanning-retain-jos-butler-2026-01-15-1026077",
+    "time": "2026-01-15T15:41:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Stamina has dropped two levels'",
     "desc": "Days after the world number 2 Anders Antonsen withdrew from the India Open Super 750, citing Delhi pollution, former world champion Loh Kean joined the conversation. On Thursday, he displayed his trademark resilience on court,...",
     "img": "",
@@ -10,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "MI-W vs UP-W WPL Match Score Live: Harmanpreet Kaur departs for 16, Mumbai are 3 down",
+    "title": "MI-W vs UP-W WPL Match Score Live: UP Warriorz register their maiden win, beat Mumbai Indians by 7 wickets",
     "desc": "UP Warriorz continue to struggle in the WPL 2026 as they prepare to face Mumbai Indians tonight, still seeking their first win. After three matches, the team has shown glimpses of promise but has lacked...",
     "img": "",
     "src": "indiatvnews.com",
@@ -43,41 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-players-boycott-bpl-demand-najmul-islam-s-resignation-bcb-issues-statement-2026-01-15-1026026",
     "time": "2026-01-15T11:00:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England's Adil Rashid, Rehan Ahmed unlikely to travel with T20 WC squad due to delay in visas: Report",
-    "desc": "England's preparations for the upcoming T20 World Cup are disrupted as the Indian government to issue visas Adil Rashid and Rehan Ahmed, who are of Pakistani heritage. The delay in the visa means both players...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-s-adil-rashid-rehan-ahmed-unlikely-to-travel-with-t20-world-cup-squad-due-to-delay-in-visas-report-2026-01-15-1025975",
-    "time": "2026-01-15T05:56:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Suryavanshi on cusp of surpassing Virat Kohli's stellar record, aims special personal milestone",
-    "desc": "Vaibhav Suryavanshi has been breaking records for fun over the last 12 months with his explosive batting across all age-group cricket. He is already a household name, thanks to his exploits, not only in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-suryavanshi-on-cusp-of-surpassing-virat-kohli-s-stellar-record-aims-special-personal-milestone-2026-01-15-1025950",
-    "time": "2026-01-15T03:30:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BookMyShow crashes within minutes after sale opens due to crazy demand for T20 World Cup clash",
-    "desc": "The second phase of ticket sales for the upcoming T20 World Cup 2026 got underway on Wednesday (January 14). The tickets for the massive India vs Pakistan clash opened for the first time in this...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-bookmyshow-crashes-within-minutes-after-sale-opens-due-to-crazy-demand-for-t20-world-cup-clash-2026-01-15-1025940",
-    "time": "2026-01-15T02:05:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Washington Sundar doubtful for T20 World Cup? Ruled out of T20I series vs New Zealand",
-    "desc": "India all-rounder Washington Sundar has been ruled out of the upcoming five-match T20I series against New Zealand. He sustained a rib injury during the first ODI against New Zealand in Vadodara and walked off the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/washington-sundar-doubtful-for-t20-world-cup-ruled-out-of-t20i-series-vs-new-zealand-2026-01-14-1025928",
-    "time": "2026-01-14T18:24:32.000Z"
   }
 ];

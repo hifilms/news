@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "বিরাট বা গিল নয়, সুনীল গাভাস্করের প্রশংসা পেলেন অন্য ব্যাটার, রাহুল দ্রাবিড়ের সঙ্গে তুলনা",
+    "desc": "তিন ম্যাচের সিরিজের দ্বিতীয় ODI ম্যাচে রাহুল ৯২ বলে ১১২ রানে অপরাজিত থাকেন, তাঁর ইনিংস সাজানো ছিল ১১টি চার ও ১টি ছয় দিয়ে। এর পরেই কেএল রাহুলকে প্রশংসায় ভরিয়ে দিয়েছেন গাভাস্কার। যদিও রাহুলের ইনিংস বুধবার ভারতকে জয় এনে দিতে পারেনি, তবুও গাভাস্কারের কাছ থেকে তিনি প্রশংসা পেয়েছেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2024/05/Sunil-Gavaskar-11-2024-05-8d24c020f6b537e90a123bfe9477d9bd-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/sports/legend-sunil-gavaskar-compares-team-india-batter-with-rahul-dravid-after-hit-ton-against-new-zealand-rdp-2498682.html",
+    "time": "2026-01-15T18:05:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "চোটের জেরে টি২০ বিশ্বকাপে বড় ধাক্কা ভারতের! দল থেকে বাদ যেতে পারেন তারকা অলরাউন্ডার",
+    "desc": "তারকা ভারতীয় অলরাউন্ডার ওয়াশিংটন সুন্দরের বিশ্বকাপ খেলা নিয়ে সংশয়। Cricbuzz-এর এক রিপোর্ট অনুযায়ী, ২৬ বছর বয়সী এই অলরাউন্ডার টি২০ ওয়ার্ল্ড কাপ ২০২৬-এ ভারতের প্রথম ম্যাচের আগে পুরোপুরি ফিট হতে পারবেন না বলে মনে করা হচ্ছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/09/Suryakumar-Yadav-60-2025-09-c749d3ecd2bc3be4991457ca94584b14-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/sports/team-india-star-all-rounder-may-miss-t20-world-cup-due-to-injury-in-india-vs-new-zealand-odi-series-rdp-2498624.html",
+    "time": "2026-01-15T17:27:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "যত কম রোজগারই হোক, ইনকামের ২৫% স্ত্রীকে দিতেই হবে! ডিভোর্সে খোরপোশ এড়ানো অসম্ভব: হাইকোর্ট",
+    "desc": "২০২৪ সালের ডিসেম্বরে সুরেশ চন্দ্র এলাহাবাদ হাইকোর্টে একটি পিটিশন দাখিল করেন। শাহজাহানপুরের ফ্যামিলি কোর্টের অতিরিক্ত প্রিন্সিপাল বিচারক ২০২৪ সালের ২৬ জুলাই ফৌজদারি কার্যবিধি (CrPC) অনুযায়ী যে আদেশ দিয়েছিলেন, তাকে চ্যালেঞ্জ জানানো হয়েছিল। নিম্ন আদালত সুরেশ চন্দ্রের প্রদেয় মাসিক খোরপোশের পরিমাণ ৫০০ টাকা থেকে বাড়িয়ে ৩,০০০ টাকা করার নির্দেশ দিয়েছিল।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/wife-can-claim-25-percent-of-husband-income-as-maintenance_635368.html ",
+    "time": "2026-01-15T15:29:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "তামিম 'ভারতের দালাল'! 'বিতর্কিত' সেই নাজিমূলকে সরাল বাংলাদেশ ক্রিকেট বোর্ড...",
+    "desc": "বিবৃতিতে উল্লেখ, 'বিসিবির কাছে ক্রিকেটারদের স্বার্থই সর্বোচ্চ অগ্রাধিকার। বোর্ডের আশা, এই কঠিন সময়ে সব ক্রিকেটার বাংলাদেশের ক্রিকেটের উন্নতির স্বার্থে পেশাদারিত্ব ও নিষ্ঠার পরিচয় দেবেন। বাংলাদেশ প্রিমিয়ার লিগ (বিপিএল) যাতে নির্বিঘ্নে চলতে পারে, সে দিকে তাঁরা নজর দেবেন'।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/sports/bangladesh-cricket-board-top-official-finally-removed-after-boycott-call-from-players_635366.html ",
+    "time": "2026-01-15T15:22:37.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "টাকা ছাড়া কি ভাল কাজ হয়? গায়ককে 'ব্ল্যাঙ্ক চেক' দেন প্রযোজক, যা গান তৈরি হল...২৮ বছর পরও সুপারহিট",
     "desc": "একটি দৃশ্যে, জ্যাকি শ্রফকে এমনকি দেয়ালের উপর দিয়ে হেঁটে যেতে দেখা যায়। একটি অ্যাকশন দৃশ্যে, তিনি গুন্ডাদের হাত থেকে পালাতে সক্ষম হন, তবুও গুন্ডারা স্বয়ংক্রিয়ভাবে পড়ে যায়। শপথ ছিল প্রথম ছবি যেখানে আলতাফ রাজা অভিনয় করেছিলেন। তার কণ্ঠে সকলেই মুগ্ধ হয়েছিলেন।",
@@ -862,41 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/national/umar-khalid-not-granted-bail-in-supreme-court-today-rc-2484262.html",
     "time": "2026-01-05T17:50:25.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Venezuela's Nicolás Maduro: পরনে জেলের পোশাক..খুঁড়িয়ে হাঁটছেন সামান্য! ভেনেজুয়েলার মাদুরোকে মার্কিন কোর্টে তুলল ট্রাম্প-সরকার",
-    "desc": "প্রসঙ্গত, বিশ্বের সবচেয়ে বড় প্রমাণিত অপরিশোধিত তেলের মজুত রয়েছে ভেনেজুয়েলায়। বৈশ্বিক জ্বালানি খাতের অন্যতম প্রভাবশালী সাময়িকী ‘অয়েল অ্যান্ড গ্যাস জার্নাল’ বলছে, ২০২৩ সালের হিসাব অনুযায়ী ভেনেজুয়েলার মজুত তেলের পরিমাণ ৩০৩ বিলিয়ন ব্যারেল। মজুতের দিক থেকে সৌদি আরবের অবস্থান দ্বিতীয়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ydne-2026-01-05T222731.672-2026-01-715c0834de48ba6135a4bd5f6a1bfab3-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/venezuela-president-nicolas-maduro-in-prison-jumpsuit-appears-to-limp-as-he-is-taken-to-new-york-court-sta-2484250.html",
-    "time": "2026-01-05T16:59:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "বাংলাদেশে বন্ধ আইপিএল-এর সম্প্রচার, দেখুন ভিডিও!",
-    "desc": "মুস্তাফিজুর রহমানকে আইপিএল থেকে বাদ দেওয়ার জের৷ বাংলাদেশে আইপিএল-এর সম্প্রচারের উপরে জারি হল নিষেধাজ্ঞা৷ মুস্তাফিজুর রহমান বিতর্কের পর এই নির্দেশ দিয়েছে বাংলাদেশের অন্তর্বর্তী সরকার৷ এর আগে বাংলাদেশ ক্রিকেট বোর্ড জানিয়ে দিয়েছিল, টি টোয়েন্টি বিশ্বকাপ খেলতে ভারতে দল পাঠাবে না তারা৷ ভারতীয় ক্রিকেট বোর্ডের নির্দেশের পর মুস্তাফিজুর রহমানকে আইপিএল-এর দল থেকে বাদ দেয় কেকেআর৷ এর পরই পাল্টা পদক্ষেপ করে বাংলাদেশ সরকার এবং বাংলাদেশ ক্রিকেট বোর্ড৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Mustafizur-Rahman-2026-01-f7cbd78a106a9ee9fedcdf91f248d9ff-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/sports/bangladesh-bans-ipl-broadcast-after-mustafizur-rahman-controversy-dmg-2484237.html",
-    "time": "2026-01-05T16:08:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "রিয়েলমির ২০০ এমপি ক্যামেরার ফোন আলোড়ন তুলতে আসছে, ব্যাটারি এমন যে ২ দিনের জন্য চার্জার ভুলে যাবেন",
-    "desc": "Realme ৬ জানুয়ারি, ২০২৬ তারিখে ভারতে Realme 16 Pro 5G সিরিজ লঞ্চ করবে। কোম্পানি এই শক্তিশালী স্মার্টফোনের পাশাপাশি Realme Pad 3 5G-ও লঞ্চ করার প্রস্তুতি নিচ্ছে। 16 Pro 5G ই-কমার্স প্ল্যাটফর্ম Flipkart এবং Realme India অনলাইন স্টোরে পাওয়া যাবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Untitled-design-2026-01-05T204954.359-2026-01-97ef27b8dea5d32eec06016bdea86600-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/technology/android-smartphone-realme-16-pro-series-launch-date-india-price-leaked-specs-200mp-camera-sal-tc-aa-2480470.html",
-    "time": "2026-01-05T15:25:55.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "৫টি অসাধারণ সিনেমা, নতুন বছরের চটপট দেখে নিতে পারেন, এই শীতে বাড়িতেই জমে যাবে 'সেলিব্রেশন'",
-    "desc": "কেউ যদি গাড়িপ্রেমী হন এবং এই নববর্ষে বাড়িতে থাকার পরিকল্পনা করেন, তাহলে তাঁর কাছে বিনোদনের প্রচুর বিকল্প রয়েছে। রোম্যান্টিক হোক বা অ্যাকশন-প্যাকড সিনেমা, যে যা-ই পছন্দ করুক না কেন, সবার জন্যই তালিকায় কিছু না কিছু আছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/tv-2026-01-53d63f80d6cc2e8f75a419341c152ac4-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/technology/5-bingeworthy-automotive-movies-to-watch-on-new-years-smj-tc-aa-2478701.html",
-    "time": "2026-01-05T13:33:40.000Z"
   }
 ];

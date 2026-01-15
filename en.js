@@ -1,5 +1,176 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Skip NH toll, lose NOC: New rule before MLFF rollout",
+    "desc": "National highways will now deny No Objection Certificates for vehicle registration, insurance, and ownership transfers if toll fees remain unpaid. This move, coinciding with the upcoming rollout of barrierless tolling, aims to enhance digital toll collection and prevent evasion on key NH stretches.",
+    "img": "https://static.toiimg.com/photo/msid-126550929,imgsize-1216035.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/skip-nh-toll-lose-noc-new-rule-before-mlff-rollout/articleshow/126550858.cms",
+    "time": "2026-01-15T17:49:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Day after being retired out, Harleen Deol guides UPW to victory",
+    "desc": "Harleen Deol's unbeaten 64 guided UP Warriorz to their first WPL 2026 win, defeating defending champions Mumbai Indians by seven wickets. Deol's stellar performance anchored the chase after Mumbai's Nat Sciver-Brunt's 65 had earlier propelled them to 161 for five. UPW sealed the target with seven wickets in hand.",
+    "img": "https://static.toiimg.com/photo/msid-126550798,imgsize-43218.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/wpl-day-after-being-retired-out-harleen-deol-guides-up-warriorz-to-victory/articleshow/126550788.cms",
+    "time": "2026-01-15T17:40:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How much 22K, 24K gold cost in Delhi, Patna &amp; other cities – Check rates",
+    "desc": "Gold prices surged to a new lifetime high of Rs 1,47,300 per 10 grams on Thursday, driven by consistent demand from jewellers and stockists. This marks a Rs 800 increase, extending a five-day winning streak. Overseas, spot gold saw a slight dip to USD 4,614.45 per ounce.",
+    "img": "https://static.toiimg.com/photo/msid-126550762,imgsize-1013112.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-today-check-gold-rate-in-your-city-on-january-15-2026-delhi-mumbai-bangalore-chennai-kolkata-hyderabad-ahmedabad-jaipur-patna/articleshow/126550711.cms",
+    "time": "2026-01-15T17:38:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Honey Singh issues apology after concert clip sparks outrage",
+    "desc": "Rapper and music producer Yo Yo Honey Singh has issued a public apology after a video from his recent stage appearance in Delhi went viral, sparking widespread criticism over a sexually explicit remark. In a video statement shared on his official social media handle, Honey Singh apologised to those who felt offended by his words and acknowledged that his language may have crossed a line.",
+    "img": "https://static.toiimg.com/photo/msid-126550486,imgsize-25376.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yo-yo-honey-singh-issues-apology-after-viral-delhi-concert-clip-sparks-outrage-over-sexually-explicit-remarks-ill-be-more-careful/articleshow/126550461.cms",
+    "time": "2026-01-15T17:22:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'KK didn't smoke or drink, never had heavy food, still got a heart attack'",
+    "desc": "Singer Shaan fondly remembers his close bond with the late KK, revealing they collaborated on over 20 songs, many of which became superhits. Shaan highlighted KK's grounded nature and disciplined, healthy lifestyle, making his sudden passing from a heart attack even more shocking to those who knew him.",
+    "img": "https://static.toiimg.com/photo/msid-126550414,imgsize-65924.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kk-didnt-smoke-or-drink-he-never-had-heavy-food-he-was-the-last-person-you-imagine-having-a-heart-attack-says-singer-shaan/articleshow/126550405.cms",
+    "time": "2026-01-15T17:14:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India–China trade: Exports jump 67% in December on electronics, marine shipments; imports also rise",
+    "desc": "India's exports to China saw a significant 67.35% surge in December, reaching $2.04 billion. This impressive growth was fueled by strong shipments of electronics, marine, and agricultural products, including oil meals and spices. Despite a widening trade deficit, bilateral trade continues to expand, with China remaining a key partner.",
+    "img": "https://static.toiimg.com/photo/msid-126550179,imgsize-873345.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indiachina-trade-exports-jump-67-in-december-on-electronics-marine-shipments-imports-also-rise/articleshow/126550059.cms",
+    "time": "2026-01-15T16:53:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rs 100 crore defamation case filed against Khushi over SKY remarks",
+    "desc": "Social media influencer Faizan Ansari has filed a Rs 100 crore defamation case against actress Khushi Mukherjee on January 13, following her remarks about Indian T20I captain Suryakumar Yadav. The legal action comes after Mukherjee claimed in an earlier interview that Suryakumar “used to message me a lot.”",
+    "img": "https://static.toiimg.com/photo/msid-126550043,imgsize-88656.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rs-100-crore-defamation-case-filed-against-khushi-mukherjee-over-claims-that-suryakumar-yadav-used-to-message-her-a-lot/articleshow/126549964.cms",
+    "time": "2026-01-15T16:43:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "When and where to watch live counting",
+    "desc": "Vote counting for the Brihanmumbai Municipal Corporation (BMC) elections begins today, determining control of Asia's richest civic body after over six years. Exit polls project a strong performance for the ruling Mahayuti alliance, potentially crossing 130 seats, while the Shiv Sena (UBT)–MNS alliance is expected to trail.",
+    "img": "https://static.toiimg.com/photo/msid-126549944,imgsize-1171502.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bmc-election-result-2026-when-and-where-to-watch-live-counting-all-you-need-to-know/articleshow/126549905.cms",
+    "time": "2026-01-15T16:36:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Can’t we presume that voters who survived multiple roll revisions are citizens, Supreme Court poses petitioners’ query to ECI",
+    "desc": "The question from the CJI-led Bench came in the backdrop of discussions over a 1995 Supreme Court case law, which held that a person already enrolled in the voter list should not be asked to prove citizenship",
+    "img": "https://th-i.thgim.com/public/incoming/u29dm9/article70512932.ece/alternates/LANDSCAPE_1200/2026-01-15T030400Z_707839034_RC2E1JAMULC6_RTRMADP_3_TIGER-GLOBAL-WALMART-INDIA-TAX.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/sir-citizenship-election-commission-sc-petitioner-query/article70512859.ece",
+    "time": "2026-01-15T16:30:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BWF breaks silence after bird-dropping chaos, pollution fears rock tournament",
+    "desc": "The Badminton World Federation acknowledged player concerns at the India Open Super 750, citing seasonal challenges like haze and indoor air quality. Despite issues including bird droppings and a monkey sighting, the BWF maintained the Indira Gandhi Sports Complex is a significant upgrade and capable of hosting major events, with insights guiding future improvements.",
+    "img": "https://static.toiimg.com/photo/msid-126549650,imgsize-164702.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/india-open-bwf-breaks-silence-after-bird-dropping-chaos-pollution-fears-rock-tournament/articleshow/126549617.cms",
+    "time": "2026-01-15T16:14:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-US trade: India’s exports to America dip 1.83% in December; imports rise",
+    "desc": "India's merchandise exports to the US declined 1.83% year-on-year to $6.88 billion in December 2025, attributed to higher tariffs imposed by Washington. Despite this, cumulative exports for April-December grew 9.75% to $65.87 billion, with imports also rising. Commerce Secretary Rajesh Agrawal expressed optimism for continued positive export territory.",
+    "img": "https://static.toiimg.com/photo/msid-126549655,imgsize-1030436.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-indias-exports-to-america-dip-1-83-in-december-imports-rise/articleshow/126549658.cms",
+    "time": "2026-01-15T16:14:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bhansali praise inspires her",
+    "desc": "The Smuggler’s Web'. She is actively manifesting a collaboration with filmmaker Sanjay Leela Bhansali, inspired by his past praise for her work. Khanvilkar is showcasing her versatility with diverse roles across platforms, highlighting her commitment to growth and meaningful projects.",
+    "img": "https://static.toiimg.com/photo/msid-126549590,imgsize-33818.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/taskaree-actress-amruta-khanvilkar-reveals-why-sanjay-leela-bhansalis-praise-for-chandramukhi-still-inspires-her/articleshow/126549590.cms",
+    "time": "2026-01-15T16:13:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amrita Rao’s youthful look with Shraddha Kapoor",
+    "desc": "In an exciting turn of events, Amrita Rao is capturing attention online through a fresh advertisement featuring Shraddha Kapoor. At the age of 44, her age-defying looks have left admirers astonished, many expressing that she appears just as enchanting as she did in 'Vivah' back in 2006.",
+    "img": "https://static.toiimg.com/photo/msid-126549371,imgsize-29554.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/url-netizens-react-to-amrita-raos-ageless-look-in-new-ad-campaign-with-shraddha-kapoor-hasnt-aged-since-vivah/articleshow/126549371.cms",
+    "time": "2026-01-15T15:54:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "B'desh cricket crisis: BPL at risk; players demand public apology from BCB director",
+    "desc": "Cricketers' Welfare Association of Bangladesh (CWAB) stated players will return to cricket if BCB director M Najmul Islam issues a public apology and his removal process progresses. Players reconsidered their boycott, citing the impact on national teams and the importance of the Bangladesh Premier League.",
+    "img": "https://static.toiimg.com/photo/msid-126548950,imgsize-51136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bangladesh-cricket-crisis-bpl-at-risk-as-players-demand-public-apology-from-bcb-director-to-return/articleshow/126548926.cms",
+    "time": "2026-01-15T15:42:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chandni Bhabhda on Ananya Panday and Kartik",
+    "desc": "Chandni Bhabhda, a talented content creator celebrated for her spot-on mimicry, has stepped into the cinematic world with her debut in 'Tu Meri Main Tera Main Tera Tu Meri', produced by Dharma Productions. She couldn't help but gush about her time on set with the wonderful Ananya Panday and Kartik Aaryan, highlighting their exemplary professionalism and friendly nature.",
+    "img": "https://static.toiimg.com/photo/msid-126548998,imgsize-60734.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/chandni-bhabhda-talks-about-working-with-sweet-ananya-panday-and-hardworking-kartik-aaryan-in-tu-meri-main-tera-/articleshow/126548998.cms",
+    "time": "2026-01-15T15:42:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Happy Patel: Khatarnak Jasoos' FIRST reviews out",
+    "desc": "Khatarnak Jasoos' is set to release this Friday, January 16. Early reviews from Fatima Sana Sheikh and Triptii Dimri praise the film as a fun, entertaining spy comedy. The movie, starring Vir Das in his directorial debut, also features a notable cameo from Aamir Khan.",
+    "img": "https://static.toiimg.com/photo/msid-126549243,imgsize-57372.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/happy-patel-khatarnak-jasoos-first-reviews-out-fatima-sana-shaikh-triptii-dimri-review-the-vir-das-film-call-it-joy-from-start-to-finish/articleshow/126549218.cms",
+    "time": "2026-01-15T15:42:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Deepak files complaint after being cheated of Rs 2.5 lakh",
+    "desc": "A case has been registered against three persons for allegedly cheating Bollywood actor and filmmaker Deepak Tijori of Rs 2.5 lakh on the pretext of arranging funds for his upcoming film, a police official said on Thursday, as reported by PTI.",
+    "img": "https://static.toiimg.com/photo/msid-126549060,imgsize-24892.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepak-tijori-files-complaint-against-three-after-being-allegedly-cheated-of-rs-2-5-lakh-in-film-funding-scam/articleshow/126549037.cms",
+    "time": "2026-01-15T15:30:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Murder’ of democracy: Opposition claims irregularities in Maharashtra civic polls",
+    "desc": "Polling for 29 municipal corporations across Maharashtra on January 15 drew sharp political reactions, with Mumbai’s high-stakes BMC contest at the centre. Opposition parties alleged voting irregularities, including concerns over indelible ink, voter lists and polling procedures, while election authorities rejected the claims and said complaints were being examined.",
+    "img": "https://th-i.thgim.com/public/news/national/4f73hw/article70512842.ece/alternates/LANDSCAPE_1200/reza%20pahlavi.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/murder-of-democracy-opposition-claims-irregularities-in-maharashtra-civic-polls/article70512843.ece",
+    "time": "2026-01-15T15:21:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Wall Street steadies as Big Tech rebounds on earning results; oil prices slide sharply",
+    "desc": "Wall Street steadied on Thursday as technology stocks rebounded, boosted by strong chip industry signals from TSMC's better-than-expected profits and AI demand. A sharp drop in crude oil prices also eased market concerns, while corporate earnings and encouraging economic data supported the gains.",
+    "img": "https://static.toiimg.com/photo/msid-126548797,imgsize-1465416.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-markets-today-wall-street-steadies-as-big-tech-rebounds-on-earning-results-oil-prices-slide-sharply/articleshow/126548767.cms",
+    "time": "2026-01-15T15:09:10.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Rasha and Abhay in intense dark romance of love",
     "desc": "Abhay Verma and Rasha Thadani debut together in Laikey Laikaa, a dark romance of love, pain, and trust, out summer 2026. Gritty posters show bloody kisses amid ruins. Rasha trained in martial arts; Saurabh Gupta directs this thrilling love-violence mix with producers Bhavna Talwar and Raghav Gupta.",
@@ -19,12 +190,21 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "BJP's maha moment? Exit polls predict Mahayuti sweep in BMC elections; Thackeray union falls flat",
+    "title": "BJP's maha moment? Exit polls predict Mahayuti sweep in BMC elections; Thackeray union likely to fall flat",
     "desc": "Exit polls project a significant victory for the Mahayuti alliance in the BMC polls, with projections indicating they will surpass 130 seats. The Shiv Sena (UBT)–MNS alliance is expected to secure just over 60 seats, falling short of expectations. The elections saw nearly 50% voter turnout across Mumbai and 28 other municipal corporations in Maharashtra.",
     "img": "https://static.toiimg.com/photo/msid-126548534,imgsize-1189735.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/bjps-maha-moment-exit-polls-predict-mahayuti-sweep-in-bmc-elections-thackeray-union-falls-flat/articleshow/126547900.cms",
     "time": "2026-01-15T14:49:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka's manager was called crazy for launching a Bollywood star in Hollywood",
+    "desc": "Priyanka Chopra's manager, Anjula Acharia, revealed that many doubted her ability to break into the American market as a Bollywood star. Despite initial skepticism, Chopra made history with her lead role in 'Quantico,' paving the way for a global career in Hollywood and beyond.",
+    "img": "https://static.toiimg.com/photo/msid-126548526,imgsize-39480.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/people-told-me-i-was-stupid-priyanka-chopras-manager-was-called-crazy-for-launching-a-bollywood-star-in-america/articleshow/126548536.cms",
+    "time": "2026-01-15T14:49:38.000Z"
   },
   {
     "cat": "Sports",
@@ -127,7 +307,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Dhurandhar' crosses Rs 1300 crore worldwide, beats 'Pushpa 2'",
+    "title": "'Dhurandhar' day 42 (LIVE): The film beats 'Pushpa 2', crosses Rs 1300 cr",
     "desc": "Ranveer Singh's spy thriller 'Dhurandhar' continues its impressive box office dominance, surpassing ₹1300 crore worldwide. The film saw a significant jump on Makar Sankranti, outperforming major hits like 'Pushpa 2' and 'Chhaava' on day 41. Despite new releases, 'Dhurandhar' remains a strong contender, with attention now on 'Border 2' to challenge its run.",
     "img": "https://static.toiimg.com/photo/msid-126547466,imgsize-24944.cms",
     "src": "indiatimes.com",
@@ -243,15 +423,6 @@ const newsData_en = [
     "time": "2026-01-15T11:44:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Inside ‘Happy Patel’ actor Vir Das’s new Mumbai home",
-    "desc": "In a captivating video by Farah Khan, Vir Das's Mumbai residence offers a delightful glimpse into his personal sanctuary, starkly different from his charismatic public image. The space boasts an artistic flair while exuding a warm, rustic charm, showcasing his collection of nature-inspired artifacts. Fans couldn't help but admire the authentic, cozy atmosphere of his thoughtfully curated home.",
-    "img": "https://static.toiimg.com/photo/msid-126544072,imgsize-1013806.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/happy-patel-actor-vir-dass-new-mumbai-home-a-glimpse-into-his-no-decor-yet-aesthetically-pleasing-space/articleshow/126544072.cms",
-    "time": "2026-01-15T10:50:23.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Kolkata realtors seek tax relief, revised affordable housing cap; eye demand revival",
     "desc": "Kolkata real estate developers are urging the Union Budget to recalibrate housing policies, advocating for higher tax benefits for homebuyers and a revised affordable housing definition. They emphasize the need to align policies with rising land and construction costs to revive demand, particularly in the mid-income segment.",
@@ -268,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/watch-shashi-tharoor-grooves-to-taylor-swifts-the-fate-of-ophelia-wins-internet/articleshow/126543773.cms",
     "time": "2026-01-15T10:46:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajinikanth meets fans outside his residence on Pongal",
-    "desc": "Superstar Rajinikanth delighted fans outside his Chennai home, extending warm Pongal wishes. Dressed traditionally, he emphasized the importance of farmers, stating their happiness ensures everyone's well-being. The actor's gesture added to the festive spirit as Pongal celebrations commenced. Meanwhile, Kamal Haasan also conveyed his greetings, highlighting the festival's cultural significance.",
-    "img": "https://static.toiimg.com/photo/msid-126543201,imgsize-54144.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajnikanth-meets-fans-outside-his-residence-on-pongal-see-pics/articleshow/126543201.cms",
-    "time": "2026-01-15T10:38:06.000Z"
   },
   {
     "cat": "Sports",
@@ -333,15 +495,6 @@ const newsData_en = [
     "time": "2026-01-15T10:11:38.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Producer Madhu Mantena and Ira Trivedi announce pregnancy",
-    "desc": "Producer Madhu Mantena and Yoga expert, Ira Trivedi announced they are expecting their first child on January 15, 2026. Sharing the news on the auspicious occasion of Makar Sankranti 2026, the couple described the pregnancy as a \"divine gift.\"",
-    "img": "https://static.toiimg.com/photo/msid-126542853,imgsize-31538.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/producer-madhu-mantena-and-ira-trivedi-announce-pregnancy-in-heartfelt-social-media-post-hrithik-roshan-rajkummar-rao-congratulate/articleshow/126542853.cms",
-    "time": "2026-01-15T10:09:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Last chance for Giri, Caruana, Nakamura’: Can chess titans match Gukesh’s vigour?",
     "desc": "With the Candidates Tournament approaching, seasoned chess titans Hikaru Nakamura, Fabiano Caruana, and Anish Giri face what could be their final realistic shot at the world chess title. Despite their experience, younger players' vigour and complete skillsets pose a significant challenge, making this a pivotal moment for the established stars.",
@@ -387,24 +540,6 @@ const newsData_en = [
     "time": "2026-01-15T09:30:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Shahid reveals how he wants kids Misha and Zain to grow",
-    "desc": "Shahid Kapoor shields kids Misha and Zain from fame, prioritizing normalcy despite his stardom. In an interview, he shares minimal talks on celebrity life as they grow aware. He avoids the \"star\" label to stay authentic. Next, he stars in Vishal Bhardwaj's O’ Romeo, releasing February 13.",
-    "img": "https://static.toiimg.com/photo/msid-126542884,imgsize-25472.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shahid-kapoor-reveals-how-he-wants-kids-misha-and-zain-to-grow-want-them-to-stay-as-close-to-normalcy/articleshow/126542884.cms",
-    "time": "2026-01-15T09:29:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Bridgerton’ season 5 and 6 subjects revealed",
-    "desc": "Bridgerton's next chapters are unfolding! Jess Brownell, the showrunner, recently teased that Seasons 5 and 6 will center on characters with the initials E and F. While the specific storyline is still shrouded in secrecy, online chatter suggests that Eloise and Francesca Bridgerton are poised to take the limelight.",
-    "img": "https://static.toiimg.com/photo/msid-126542797,imgsize-122170.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-showrunner-reveals-the-subjects-of-season-5-and-season-6-report/articleshow/126542797.cms",
-    "time": "2026-01-15T09:29:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Did Messi decline 1.4B euros? Al Ittihad chief reveals Saudi offer",
     "desc": "Al Ittihad president Anmar Al Haili revealed Lionel Messi rejected a staggering 1.4 billion euro offer per year from the Saudi club. Messi prioritised his family over the immense financial package, opting instead for a move to Inter Miami. Saudi Arabia's ambition to attract top talent remains strong, with Cristiano Ronaldo already a key figure.",
@@ -412,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/did-lionel-messi-decline-1-4-billion-euros-al-ittihad-chief-reveals-jaw-dropping-saudi-offer-to-argentine-star/articleshow/126542717.cms",
     "time": "2026-01-15T09:22:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How family feuds are crippling regional parties across states",
-    "desc": "Once kingmakers, many Indian regional parties now grapple with internal strife and leadership crises. From the RJD's family disputes to the Shiv Sena's split and the NCP's factionalism, these parties face significant challenges. Internal conflicts and succession battles are weakening their once formidable influence across the political landscape.",
-    "img": "https://static.toiimg.com/photo/msid-126542408,imgsize-1141216.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-kingmakers-to-kin-wars-how-family-feuds-are-crippling-regional-parties-across-states/articleshow/126542174.cms",
-    "time": "2026-01-15T09:14:47.000Z"
   },
   {
     "cat": "Business",
@@ -432,15 +558,6 @@ const newsData_en = [
     "time": "2026-01-15T09:08:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Akshay offers to help girl's family with debt",
-    "desc": "In a heartfelt moment during the voting process, Akshay Kumar demonstrated his commitment to social responsibility when he met a distressed young woman at a polling booth. Recognizing her family's financial struggles, he immediately reached out to his security team to offer her assistance.",
-    "img": "https://static.toiimg.com/photo/msid-126541816,imgsize-29166.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-wins-hearts-at-bmc-polling-booth-offers-to-help-girls-family-with-debt-viral-video/articleshow/126541790.cms",
-    "time": "2026-01-15T08:48:24.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Supreme Court stays Kolkata Police probe into ED officers, says ‘lawlessness’ may creep into other States",
     "desc": "A Bench of Justices Prashant Kumar Mishra and Vipul Pancholi said they intend to issue notice and examine the matter. “This is a very serious matter; we will issue a notice. We have to examine it,” it remarked orally.",
@@ -448,15 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/i-pac-raids-row-incident-reflects-very-shocking-pattern-ed-tells-supreme-court/article70512386.ece",
     "time": "2026-01-15T07:49:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "I-Pac raids drama in SC: ED alleges CM barged in, accuses her of theft; Mamata calls it a ‘blatant lie’",
-    "desc": "Solicitor General Tushar Mehta, appearing for the ED, told a bench of Justices Prashant Kumar Mishra and Vipul Pancholi that in the past also, whenever statutory authorities exercised statutory power, Banerjee barged in and interfered.",
-    "img": "https://static.toiimg.com/photo/msid-126541279,imgsize-75780.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/disturbed-by-what-happened-in-calcutta-hc-sc-hears-ed-plea-against-mamata-over-i-pac-raids-calls-allegations-serious/articleshow/126540022.cms",
-    "time": "2026-01-15T07:24:29.000Z"
   },
   {
     "cat": "Business",
@@ -486,24 +594,6 @@ const newsData_en = [
     "time": "2026-01-15T05:47:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kashmiri parents seek help to bring children back; write to Centre",
-    "desc": "Kashmiri parents are appealing to the Indian government to evacuate over 10,000 Indian nationals, including students, from Iran due to escalating tensions and an internet shutdown. The Indian Embassy has advised all citizens to leave by any available transport, as Iran closes its airspace amid protests.",
-    "img": "https://static.toiimg.com/photo/msid-126539188,imgsize-910739.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/iran-unrest-kashmiri-parents-seek-help-to-bring-children-back-write-to-centre/articleshow/126539172.cms",
-    "time": "2026-01-15T05:43:18.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Are NSE, BSE closed for trading on January 15? Check details",
-    "desc": "The stock market will be closed on January 15th due to Maharashtra municipal corporation elections, with trading suspended across various segments. Equity derivatives contracts originally set to expire on this date will now mature on January 14th.",
-    "img": "https://static.toiimg.com/photo/msid-126539144,imgsize-208776.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-today-for-bmc-elections-are-nse-bse-closed-for-trading-on-january-15-check-details/articleshow/126538796.cms",
-    "time": "2026-01-15T05:40:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Coles dazzles on debut as Sunrisers seal playoff spot",
     "desc": "Sunrisers Eastern Cape sealed a playoff berth with a dominant 63-run bonus-point win over Joburg Super Kings at St George’s Park. Debutant James Coles starred with an unbeaten fifty and two wickets, while Senuran Muthusamy’s spin strangled JSK.",
@@ -513,15 +603,6 @@ const newsData_en = [
     "time": "2026-01-15T05:39:21.000Z"
   },
   {
-    "cat": "Business",
-    "title": "'Poor planning': Nithin Kamath questions stock market closure during BMC polls; flags 'serious lack of appreciation'",
-    "desc": "Zerodha founder Nithin Kamath criticized the closure of Indian stock exchanges on January 15 for Mumbai's municipal elections, citing poor planning and a lack of appreciation for second-order effects. He argued that such a holiday, driven by local civic polls, undermines global investor confidence. Trading is set to resume on January 16 after the election-related holiday.",
-    "img": "https://static.toiimg.com/photo/msid-126540128,imgsize-398733.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/poor-planning-zerodha-co-founder-nikhil-kamath-questions-stock-market-closure-during-bmc-polls-flags-serious-lack-of-appreciation/articleshow/126538296.cms",
-    "time": "2026-01-15T05:35:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Tell Vinesh, I want to wrestle her again’: Yui Susaki reflects on Paris defeat",
     "desc": "Japanese wrestling champion Yui Susaki, a four-time world champion and Olympic gold medalist, expressed her desire to face Indian wrestler Vinesh Phogat again after a surprising defeat. Susaki views the loss as a crucial learning experience, fueling her ambition for future Olympic gold medals and inspiring others with her resilience.",
@@ -529,87 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/toi-exclusive-tell-vinesh-i-want-to-wrestle-her-again-yui-susaki-reflects-on-paris-defeat-to-phogat/articleshow/126538726.cms",
     "time": "2026-01-15T05:34:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Unwanted person gets promoted': RSS chief says Nota not best option; casts vote in NMC",
-    "desc": "Mohan Bhagwat said elections are a mandatory part of democracy and hence, voting is the responsibility of all citizens.He appealed to electors that keeping the public interest in mind, everyone should vote for a suitable candidate during the elections.",
-    "img": "https://static.toiimg.com/photo/msid-126538618,imgsize-119000.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/unwanted-person-gets-promoted-rss-chief-says-nota-not-best-option-casts-vote-in-nmc/articleshow/126538572.cms",
-    "time": "2026-01-15T05:11:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi's moment from Makar Sankranti; feeds cows at his residence — watch",
-    "desc": "In the 39-second clip, PM Modi was seen standing outdoors on a lawn in Lok Kalyan Marg, offering feed to the cows, which were adorned with decorative cloths, keeping with traditional festival practices. The festival marks the Sun’s transition into the zodiac sign of Capricorn (Makar) and is celebrated as a mid-winter harvest festival.",
-    "img": "https://static.toiimg.com/photo/msid-126537939,imgsize-51980.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modis-moment-from-makar-sankranti-feeds-cows-at-his-residence-watch/articleshow/126537462.cms",
-    "time": "2026-01-15T04:27:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Teen prodigy on Kohli's heels: 14-yr-old Sooryavanshi eyes major milestone",
-    "desc": "India's U-19 World Cup campaign kicks off with 14-year-old Vaibhav Sooryavanshi poised to break Virat Kohli's Youth ODI run record. Sooryavanshi, already with 973 runs in 18 innings, needs just six more to surpass Kohli's mark. This prodigious talent is a key player for the favoured Indian squad, aiming for a record sixth title.",
-    "img": "https://static.toiimg.com/photo/msid-126537982,imgsize-41542.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/teen-prodigy-on-virat-kohlis-heels-14-year-old-vaibhav-sooryavanshi-eyes-major-milestone-as-india-begin-u19-world-cup-quest/articleshow/126537966.cms",
-    "time": "2026-01-15T04:20:52.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Are banks closed on January 15 for Uttarayana, Pongal, Makara Sankranti &amp; BMC elections — check list",
-    "desc": "Banks across several Indian states are closed today, January 15, 2026, for various regional festivals and local elections. Residents in Maharashtra, Karnataka, Tamil Nadu, Sikkim, Telangana, Uttar Pradesh, and Andhra Pradesh should note these closures. Plan your banking needs accordingly, as many branches will remain shut for upcoming holidays throughout January.",
-    "img": "https://static.toiimg.com/photo/msid-126537912,imgsize-1433291.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/bank-holiday-today-are-banks-closed-on-january-15-for-uttarayana-pongal-makara-sankranti-bmc-elections-check-list/articleshow/126537694.cms",
-    "time": "2026-01-15T04:12:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘The team is suffering’: Kris Srikkanth highlights lack of sixth bowler",
-    "desc": "Former India batter Kris Srikkanth has voiced concerns over India's ODI team balance, questioning Axar Patel's continued exclusion. He highlighted Ravindra Jadeja's inconsistent form and the team's need for a reliable sixth bowling option, especially after their recent loss to New Zealand. Srikkanth believes Axar's inclusion would strengthen the bowling attack.",
-    "img": "https://static.toiimg.com/photo/msid-126537717,imgsize-161864.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/the-team-is-suffering-kris-srikkanth-calls-out-axar-patel-snub-as-ravindra-jadeja-struggles-highlight-lack-of-sixth-bowler/articleshow/126537704.cms",
-    "time": "2026-01-15T03:52:39.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rates slide 3% after Trump’s Iran remarks; here’s how much Brent and West Texas Intermediate crude cost",
-    "desc": "Global oil markets experienced a sharp sell-off as US President Donald Trump's remarks eased concerns over potential supply disruptions from Iran. Trump stated he was informed that the killing of protesters in Iran had halted, leading to a significant drop in West Texas Intermediate and Brent crude prices.",
-    "img": "https://static.toiimg.com/photo/msid-126537653,imgsize-41978.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-rates-slide-3-after-trumps-iran-remarks-heres-how-much-brent-and-west-texas-intermediate-crude-cost/articleshow/126537520.cms",
-    "time": "2026-01-15T03:45:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "B'desh cricket in turmoil: Players threaten boycott; BCB disowns director's remarks",
-    "desc": "Bangladesh cricket faces turmoil as a BCB director's remarks spark player boycott threats and jeopardize World Cup participation. The board distanced itself from the comments, emphasizing player welfare, while security concerns over playing in India persist. Former players and associations condemned the public criticism, highlighting damage to the sport's image.",
-    "img": "https://static.toiimg.com/photo/msid-126537374,imgsize-205230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bangladesh-cricket-in-turmoil-players-boycott-threat-as-bcb-disowns-directors-remarks-amid-t20-world-cup-standoff/articleshow/126537338.cms",
-    "time": "2026-01-15T03:07:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Infy under US DoJ lens over H-1B classification",
-    "desc": "Infosys is under US Department of Justice investigation for alleged H-1B visa misclassification. The company is cooperating with the probe, which could materially impact its business. This follows previous settlements regarding visa fraud and worker compensation issues in the US.",
-    "img": "https://static.toiimg.com/photo/msid-126537025,imgsize-575901.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/infy-under-us-doj-lens-over-h-1b-classification/articleshow/126537039.cms",
-    "time": "2026-01-15T02:30:54.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Canadian dies in Iran at the hands of the authorities, says Ottawa",
-    "desc": "U.S. President Donald Trump said that he’s been told “on good authority” that plans for executions in Iran have stopped, even as Tehran has indicated fast trials and executions ahead in its crackdown on protesters",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-protests-death-toll-trump-us-live-updates-january-15-2026/article70512073.ece",
-    "time": "2026-01-15T02:29:03.000Z"
   },
   {
     "cat": "Politics",
@@ -673,15 +673,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/education/ugc-brings-out-new-rules-against-caste-discrimination/article70509660.ece",
     "time": "2026-01-14T17:03:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Marriage halls seek reduction in GST rates, power charges",
-    "desc": "The Tamil Nadu Marriage Hall Owners Association, South India Marriage Hall Owners Federation, and All Kalyana Mandapam Owners Association have jointly written to the respective State governments and the Centre seeking a significant reduction in GST rates",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/marriage-halls-seek-reduction-in-gst-rates-power-charges/article70510489.ece",
-    "time": "2026-01-14T16:32:47.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-from-1952-to-today-why-parasakthi-still-divides-tamil-nadu/article70495783.ece",
     "time": "2026-01-10T17:22:09.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Techno Paints to file DRHP for ₹500 crore IPO in FY27",
+    "desc": "The process is expected to be completed in the same financial year, CMD Akuri Srinivas Reddy said on Saturday, announcing the company has roped in cricket legend Sachin Tendulkar as brand ambassador for three years.",
+    "img": "https://th-i.thgim.com/public/business/kaigo9/article70494670.ece/alternates/LANDSCAPE_1200/10.01.2025%20Techno%20Paints%20Sachin.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/techno-paints-to-file-drhp-for-500-crore-ipo-in-fy27/article70494683.ece",
+    "time": "2026-01-10T13:09:36.000Z"
   }
 ];
