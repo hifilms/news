@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Stamina has dropped two levels'",
+    "desc": "Days after the world number 2 Anders Antonsen withdrew from the India Open Super 750, citing Delhi pollution, former world champion Loh Kean joined the conversation. On Thursday, he displayed his trademark resilience on court,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/stamina-has-dropped-two-levels-loh-kean-complains-about-delhi-pollution-after-beating-hs-pranoy-in-india-open-2026-01-15-1026066",
+    "time": "2026-01-15T14:23:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MI-W vs UP-W WPL Match Score Live: Harmanpreet Kaur departs for 16, Mumbai are 3 down",
+    "desc": "UP Warriorz continue to struggle in the WPL 2026 as they prepare to face Mumbai Indians tonight, still seeking their first win. After three matches, the team has shown glimpses of promise but has lacked...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-up-wpl-2026-live-cricket-score-mumbai-indians-vs-up-warriorz-latest-match-updates-scorecard-ball-by-ball-commentary-2026-01-15-1026058",
+    "time": "2026-01-15T13:37:27.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "KSCA intends to host other IPL teams at Chinnaswamy if RCB move matches out of Bengaluru",
     "desc": "Uncertainty continues to surround the hosting of IPL matches in Bengaluru as the Karnataka State Cricket Association (KSCA) awaits clearance from the state government to stage games at the M Chinnaswamy Stadium. Royal Challengers Bengaluru...",
     "img": "",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/washington-sundar-doubtful-for-t20-world-cup-ruled-out-of-t20i-series-vs-new-zealand-2026-01-14-1025928",
     "time": "2026-01-14T18:24:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh cricketers threaten to boycott playing, demand BCB director to resign over controversial statements",
-    "desc": "Bangladesh Cricket and controversy have been going hand in hand over the last week or so, especially ever since they have denied traveling to India for the upcoming T20 World Cup, citing security concerns. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-cricketers-threaten-to-boycott-playing-demand-bcb-director-to-resign-over-controversial-statements-2026-01-14-1025924",
-    "time": "2026-01-14T17:58:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Stupid decision': Internet calls out UP Warriorz coach Abhishek Nayar for retiring out Harleen Deol on 47",
-    "desc": "Ayushi Soni of Gujarat Giants became the first batter to be retired out in the Women's Premier League (WPL) on Tuesday after she scored only 11 runs off 14 balls. However, not many expected the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/stupid-decision-internet-calls-out-up-warriorz-coach-abhishek-nayar-for-retiring-out-harleen-deol-on-47-2026-01-14-1025917",
-    "time": "2026-01-14T16:46:49.000Z"
   }
 ];
