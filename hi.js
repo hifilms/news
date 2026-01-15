@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vaibhav Suryavanshi on cusp of surpassing Virat Kohli's stellar record, aims special personal milestone",
+    "desc": "Vaibhav Suryavanshi has been breaking records for fun over the last 12 months with his explosive batting across all age-group cricket. He is already a household name, thanks to his exploits, not only in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-suryavanshi-on-cusp-of-surpassing-virat-kohli-s-stellar-record-aims-special-personal-milestone-2026-01-15-1025950",
+    "time": "2026-01-15T03:30:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BookMyShow crashes within minutes after sale opens due to crazy demand for T20 World Cup clash",
+    "desc": "The second phase of ticket sales for the upcoming T20 World Cup 2026 got underway on Wednesday (January 14). The tickets for the massive India vs Pakistan clash opened for the first time in this...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-bookmyshow-crashes-within-minutes-after-sale-opens-due-to-crazy-demand-for-t20-world-cup-clash-2026-01-15-1025940",
+    "time": "2026-01-15T02:05:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Washington Sundar doubtful for T20 World Cup? Ruled out of T20I series vs New Zealand",
     "desc": "India all-rounder Washington Sundar has been ruled out of the upcoming five-match T20I series against New Zealand. He sustained a rib injury during the first ODI against New Zealand in Vadodara and walked off the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/delhi-s-extreme-pollution-forced-world-number-2-to-pull-out-of-india-open-handed-500-usd-fine-2026-01-14-1025841",
     "time": "2026-01-14T09:17:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli reigns supreme as number 1 ODI batter, Rohit Sharma drops to third",
-    "desc": "Star India batter Virat Kohli has moved to the top of the ICC ODI batters’ list, claiming the top spot once again in his career. After a bit of struggle, reports claimed that the Australia...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-reigns-supreme-as-number-1-odi-batter-rohit-sharma-drops-to-third-2026-01-14-1025831",
-    "time": "2026-01-14T08:17:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Hardik Pandya not playing 2nd ODI vs New Zealand in Rajkot?",
-    "desc": "India continue their ODI series against New Zealand with the second match scheduled for January 14 at the Niranjan Shah Stadium in Rajkot. The hosts come into the game with a 1–0 lead and an...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-hardik-pandya-not-playing-2nd-odi-vs-new-zealand-in-rajkot-2026-01-14-1025827",
-    "time": "2026-01-14T07:56:29.000Z"
   }
 ];

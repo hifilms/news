@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "অসম ও অরুণাচল প্রদেশের পর্যটনে নতুন মাত্রা, যোগাযোগ ব্যবস্থায় গতি যোগ করে বাণিজ্যে জোয়ার এনেছে বগীবিল সেতু",
+    "desc": "শিক্ষার্থী, রোগী, ব্যবসায়ী এবং শ্রমিকদের জন্য এই উন্নত যোগাযোগ ব্যবস্থা ভ্রমণের সময়কেও কমিয়ে দিয়েছে। ক্ষুদ্র ব্যবসাগুলো নতুন বাজার খুঁজে পেয়েছে, কৃষকরা দ্রুত ফসল পরিবহণ করতে পারছেন এবং অত্যাবশ্যকীয় পরিষেবাগুলো আর ভৌগোলিক সীমার মধ্যে সীমাবদ্ধ হয়ে নেই।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/TV_5704347_bogibeel_bridge_1-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/bogibeel-bridge-in-assam-is-the-epitome-of-strategic-importance-for-defense-and-connectivity-in-northeast-india-arc-2496741.html",
+    "time": "2026-01-15T03:44:17.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "বুনো ফল ভেবেই শুঁড়ে করে খেল 'বোমা'! আহারে ছোট হস্তিশাবক!",
     "desc": "তামিলনাড়ুর সত্যমঙ্গলম টাইগার রিজার্ভে একটি অত্যন্ত দুঃখজনক ঘটনা ঘটেছে। সেখানে দেড় বছর বয়সী একটি হস্তিশাবক ভুল করে একটি হাতে তৈরি বোমায় কামড় দিয়ে মারা গেছে। এই বিস্ফোরকটিকে স্থানীয়ভাবে 'আভুট্টুক্কাই' বলা হয়। জানা গেছে যে, বুনো শুকর তাড়ানোর জন্য এক কৃষক এটি পেতে রেখেছিলেন। এই ঘটনায় একজনকে গ্রেপ্তার করা হয়েছে।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/bangladesh-news-bnp-will-choose-tarique-rahman-as-chairperson-of-bnp-here-is-the-recent-update-sta-2481069.html",
     "time": "2026-01-03T06:02:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Grok'-এর সাহায্যে মহিলাদের অশালীন ছবি! কড়া পদক্ষেপ কেন্দ্রের! ৭২ ঘণ্টার মধ্যে ব্যবস্থা নেওয়ার নির্দেশ এক্সকে",
-    "desc": "ইলন মাস্কের মালিকানাধীন এক্স-এর বিরুদ্ধে এবার কড়া পদক্ষেপের পথে হাঁটতে চলেছে কেন্দ্রীয় সরকার। কৃত্রিম বুদ্ধিমত্তা (AI) টুল ‘গ্রক’-এর অপব্যবহার নিয়ে এক্সকে আনুষ্ঠানিকভাবে নোটিসও পাঠিয়েছে কেন্দ্রীয় তথ্য প্রযুক্তি মন্ত্রক বা 'MeitY'। তথ্যপ্রযুক্তি আইন (IT Act) এবং আইটি রুলস অনুযায়ী নির্ধারিত ‘ডিউ ডিলিজেন্স’ বা আইনগত দায়িত্ব পালনে গুরুতর গাফিলতির অভিযোগ তোলা হয়েছে সংস্থার বিরুদ্ধে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/10/x-handle-6-2025-10-a266f519c027b83f1517fee2831006e8-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/centre-issues-notice-to-x-groks-misuse-for-obscene-content-centre-issues-to-flag-those-contents-smc-2480870.html",
-    "time": "2026-01-02T18:00:39.000Z"
   }
 ];
