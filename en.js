@@ -1,6 +1,60 @@
 const newsData_en = [
   {
     "cat": "Sports",
+    "title": "WPL-4: Radha, Richa, Shreyanka star as RCB maintains perfect run",
+    "desc": "The two batters put on 105 off 66 balls for the fifth wicket after Giants reduce the Bengaluru outfit to 43 for four; the off-spinner claims five while pacer Bell chips in with a three-wicket haul for the winning side",
+    "img": "https://th-i.thgim.com/public/incoming/bqz9u3/article70516302.ece/alternates/LANDSCAPE_1200/PTI01_12_2026_000459A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/wpl-4-radha-richa-shreyanka-star-as-rcb-maintains-perfect-run/article70516303.ece",
+    "time": "2026-01-16T20:50:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Madhu Chopra remembers life in uniform with late husband",
+    "desc": "Ahead of Army Day 2026, Dr Madhu Chopra, mother of actress Priyanka Chopra Jonas, shared a deeply personal throwback that offered a rare glimpse into her life of service with the Indian Army. Posting a photograph of herself and her late husband, Dr Ashok Chopra, dressed in their Army uniforms, Madhu reflected on the years that shaped their family and values.",
+    "img": "https://static.toiimg.com/photo/msid-126592351,imgsize-35864.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopras-mother-madhu-chopra-remembers-life-in-uniform-with-late-husband-dr-ashok-chopra-ahead-of-army-day-2026/articleshow/126592305.cms",
+    "time": "2026-01-16T20:36:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Call of inclusion and unity as RSS, Muslim leaders hold dialogue",
+    "desc": "Former Delhi Lieutenant Governor Najeeb Jung raises questions over denial of bail to activist Umar Khalid in 2020 Delhi riots case while RSS leader Ramlal refutes allegations of a particular section of society that the RSS only supports BJP",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rss-and-muslim-leaders-hold-dialogue-on-unity-inclusion/article70515669.ece",
+    "time": "2026-01-16T20:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "former Kochi Mayor Anilkumar",
+    "desc": "Former Mayor says people are aware of the transformation at the site since 2020 and questions claims that 2.5 lakh tonnes of waste remain to be bio-mined, arguing that scientifically landfilled waste need not be processed again",
+    "img": "https://th-i.thgim.com/public/incoming/vshdol/article70516220.ece/alternates/LANDSCAPE_1200/10018_29_11_2025_18_5_56_1_BRHAMAPURAM13.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/overspending-atbrahmapuramcould-trigger-corruptionformer-kochi-mayor-anilkumar/article70514475.ece",
+    "time": "2026-01-16T19:08:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Narcotics cases on an upward spiral in Kerala",
+    "desc": "In Kochi, the number of cases under the Narcotic Drugs and Psychotropic Substances Act have shot up from 1,268 in 2020 to 6,914 in 2025. The pattern is similar in many other districts in the State. Enforcers are relentless in their hunt, but the peddlers mostly manage to outwit them with innovative means. G. Ragesh details how the outcome is proving detrimental to the young people in the State",
+    "img": "https://th-i.thgim.com/public/incoming/db9dse/article70516394.ece/alternates/LANDSCAPE_1200/17tv%20spotlight%20Drug%20abuse.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/narcotics-cases-on-an-upward-spiral-in-kerala/article70513830.ece",
+    "time": "2026-01-16T19:04:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Scientists call for climate‑resilient model of irrigation and food production",
+    "desc": "The FPS underpinned by a 72% coal-based energy requirement has become one of India’s most carbon‑intensive public support mechanisms, necessitating a fundamental rethink of groundwater‑based irrigation and a broader shift in cropping and dietary patterns to reduce emissions and build resilience",
+    "img": "https://th-i.thgim.com/public/incoming/vzum85/article70515505.ece/alternates/LANDSCAPE_1200/09092025_heavy%20rains%20the%20groundwater%20level%20has%20gone%20up%20%2004.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/scientists-call-for-climate%E2%80%90resilient-model-of-irrigation-and-food-production/article70515302.ece",
+    "time": "2026-01-16T18:32:42.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "It will be great if the next World title match is India v USA — imagine the interest: Irina Krush",
     "desc": "The only American woman to become a Grandmaster, Krush has fond memories of India. In this conversation, she talks about wanting to see Gukesh defend his title against Fabiano Caruana, refusing to give up during the 12 years between her first and final GM norms, teaming with Magnus Carlsen, and looking at the silver lining in her struggles with Covid",
     "img": "https://th-i.thgim.com/public/incoming/1ap25l/article70516341.ece/alternates/LANDSCAPE_1200/GettyImages-1258971082.jpg",
@@ -297,15 +351,6 @@ const newsData_en = [
     "time": "2026-01-16T13:47:45.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Can't differentiate Hindutva from development': CM Fadnavis after Mahayuti’s civic poll sweep; BJP set to form 25 mayors",
-    "desc": "The BJP-led Mahayuti has achieved a significant victory in Maharashtra's municipal elections. Chief Minister Devendra Fadnavis credited the win to the party's development agenda. The alliance secured a majority in numerous municipal corporations, including the Brihanmumbai Municipal Corporation. This outcome reflects public trust in Prime Minister Modi's leadership and the alliance's focus on governance and infrastructure projects.",
-    "img": "https://static.toiimg.com/photo/msid-126570445,imgsize-824376.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cant-differentiate-hindutva-from-development-cm-fadnavis-after-mahayutis-civic-poll-sweep-bjp-set-to-form-25-mayors/articleshow/126569873.cms",
-    "time": "2026-01-16T13:35:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Pakistan's Babar furious at Steve Smith in BBL; video goes viral",
     "desc": "Babar Azam was left furious during a BBL match when teammate Steve Smith refused a simple run to keep strike in the Power Surge. The incident occurred in the 11th over and went viral. Smith later smashed a record 32-run over and scored 100. Babar was dismissed soon after in frustration, but the Sixers won comfortably, with Smith named Player of the Match.",
@@ -315,15 +360,6 @@ const newsData_en = [
     "time": "2026-01-16T13:33:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "GRAP-III reimposed in Delhi-NCR; air quality likely to turn 'severe'",
-    "desc": "Delhi-NCR faces renewed pollution crisis as authorities re-implement GRAP-III restrictions. Non-essential construction, demolition, and mining activities are halted. Vehicular curbs target older diesel and petrol models. Essential services and critical projects are exempted, with schools offering hybrid learning. This move aims to combat the 'severe' air quality forecast.",
-    "img": "https://static.toiimg.com/photo/msid-126568564,imgsize-578649.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/capital-chokes-grap-iii-reimposed-in-delhi-ncr-air-quality-likely-to-turn-severe/articleshow/126568498.cms",
-    "time": "2026-01-16T12:59:22.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "BLACKPINK’s Jennie celebrates her 30th birthday",
     "desc": "K-pop icon Jennie turned 30 in style, hosting a stylishly low-key birthday bash that enchanted her followers online. Dressed to impress, her calm and graceful aura stole the spotlight, symbolizing her leap into a new decade.",
@@ -331,24 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/blackpinks-jennie-celebrates-her-30th-birthday-videos-from-the-celebrations-go-viral-on-social-media/articleshow/126566453.cms",
     "time": "2026-01-16T12:55:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar' X Vecna: 'Stranger Things' villain dances on 'Shararat'",
-    "desc": "Even though 'Stranger Things' has concluded, the internet is abuzz with hilarious AI-generated memes. A recent viral clip features Vecna, the formidable villain, dancing to the Bollywood track 'Shararat,' with Nancy Wheeler and Eleven grooving in lehengas as background dancers. Netizens are thoroughly entertained, dubbing Vecna 'Henry Dakait' and praising his unexpected moves.",
-    "img": "https://static.toiimg.com/photo/msid-126567828,imgsize-84560.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/stranger-things-x-dhurandhar-vecna-dances-on-shararat-netizens-call-him-henry-dakait-watch/articleshow/126567697.cms",
-    "time": "2026-01-16T12:51:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Leave by any means available’: India tells 9,000 citizens in Iran to exit amid escalating situation — Here's what MEA said",
-    "desc": "The Ministry of External Affairs has urged around 9,000 Indian citizens, primarily students in Iran, to depart the country due to recent developments. Advisories have been issued for both those in Iran and those planning to travel there. India is actively monitoring the situation and preparing to assist citizens wishing to return home.",
-    "img": "https://static.toiimg.com/photo/msid-126567924,imgsize-32628.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/leave-by-any-means-available-india-tells-9000-citizens-in-iran-to-exit-amid-escalating-situation-heres-what-mea-said/articleshow/126567510.cms",
-    "time": "2026-01-16T12:51:07.000Z"
   },
   {
     "cat": "Sports",
@@ -540,15 +558,6 @@ const newsData_en = [
     "time": "2026-01-16T08:00:37.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Some Indian cities offer quicker interview slots; check waiting time for Mumbai, Delhi &amp; others",
-    "desc": "US visa interview wait times for Indian applicants show significant variation across cities and visa types. While Hyderabad and Kolkata offer faster appointments for visitor visas, Mumbai and New Delhi face longer delays. Student visa processing is generally quicker, with New Delhi providing the earliest slots. Employment visa availability also differs, with Mumbai showing the shortest wait.",
-    "img": "https://static.toiimg.com/photo/msid-126561592,imgsize-659706.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/us-visa-some-indian-cities-offer-quicker-interview-slots-check-waiting-time-for-mumbai-delhi-others/articleshow/126560800.cms",
-    "time": "2026-01-16T07:55:25.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump threatens to use Insurrection Act to 'put end' to protests in Minneapolis",
     "desc": "Mr. Trump made threat after a federal officer shot a man in the leg in Minneapolis on January 16, after being attacked with a shovel and broom handle. The incident further heightened the sense of fear and anger radiating across the city a week after an immigration agent fatally shot a woman in the head",
@@ -556,15 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-threatens-to-use-insurrection-act-to-put-end-to-protests-in-minneapolis/article70513674.ece",
     "time": "2026-01-16T07:33:42.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Which stocks are the biggest gainers and losers on NSE, BSE today? Check list",
-    "desc": "Indian stock markets opened strong on Friday. Nifty50 and Sensex saw significant gains before paring some of their advances. Investors are adopting a cautious approach. Hopes for India-EU and India-US trade deals are boosting sentiment. Several major companies are set to announce their Q3 earnings today.",
-    "img": "https://static.toiimg.com/photo/msid-126560349,imgsize-63548.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-which-stocks-are-the-biggest-gainers-and-losers-on-nse-bse-january-16-2026-check-list/articleshow/126560073.cms",
-    "time": "2026-01-16T07:19:44.000Z"
   },
   {
     "cat": "World",
