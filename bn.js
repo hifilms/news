@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "হামজা অমিতাভ বচ্চন, রেহমান ডাকাত বিনোদ খান্না ! AI জমিয়ে দিল ধুরন্ধর-এর কাল্পনিক কাস্টিং, বাকিটা দেখে নিন এক ঝলকে",
+    "desc": "যদি ৮০-এর দশকের তারকারা এতে অভিনয় করতেন, তাহলে ধুরন্ধর কেমন দেখতে হত? একজন এআই আর্টিস্ট ১৯৮০-এর দশকের বলিউড স্টাইলে ছবিটির চরিত্রগুলোকে নতুন করে সাজিয়েছেন, এমন ভিজ্যুয়াল তৈরি করেছেন যা সোশ্যাল মিডিয়ায় আলোচনার বিষয় হয়ে উঠেছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/AI-Dhurandhar-Characters-Images-2026-01-de69aae6c020fb5ba86f7f065ad7194b-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/ai-generated-pictures-dhurandhar-amitabh-bachchan-as-hamza-vinod-khanna-as-rehman-dakait-with-sridevi-jackie-shroff-and-others-in-vintage-looks-from-80s-ss-2498964.html",
+    "time": "2026-01-16T06:15:21.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "বেনজির! ভেনেজুয়েলার মাচাদোর নোবেল শান্তি পুরস্কার নিয়ে নিলেন ট্রাম্প, অবিশ্বাস্য...",
+    "desc": "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে নিজের নোবেল শান্তি পুরস্কারের পদক উপহার দিয়েছেন ভেনেজুয়েলার বিরোধী নেতা মারিয়া কোরিনা মাচাদো। গতকাল বৃহস্পতিবার হোয়াইট হাউসে তিনি ট্রাম্পের সঙ্গে সাক্ষাৎ করে নোবেল হাতে তুলে দেন। মাচাদো বলেন, তিনি ট্রাম্পকে তাঁর নোবেল শান্তি পুরস্কারের পদক উপহার দিয়েছেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/donald-trump-accepts-nobel-peace-prize-medal-from-venezuelas-maria-machado_635429.html ",
+    "time": "2026-01-16T04:59:21.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "আইপ্যাক কাণ্ডে ইডি অফিসারদের বিরুদ্ধে এফআইআর-এ স্থগিতাদেশ দিল সুপ্রিম কোর্ট!",
     "desc": "আইপ্যাক কাণ্ডে ইডি অফিসারদের বিরুদ্ধে এফআইআর রুজু করা হয়েছে। ২টি শেক্সপীয়র সরণী থানায় এবং ২টি ইসিপিএস থানায়। সোমবার সেই মামলার শুনানির নির্দেশে সুপ্রিম কোর্ট স্পষ্ট করে জানিয়ে দিল, শেক্সপিয়ার সরণী থানা ও ইলেকট্রনিক কমপ্লেক্স থানায় FIR ওপর স্থগিতাদেশ জারি করা হল। সেই সঙ্গে সব পক্ষকে নোটিসও জারি করল সর্বোচ্চ আদালত।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-severe-cold-wave-alert-in-17-states-for-coming-5-days-due-to-low-pressure-where-there-will-be-heavy-rain-forecast-for-7-8-9-10-januaruy-know-latest-west-bengal-weather-sanj-2485850.html",
     "time": "2026-01-07T03:29:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "১৪ ফেব্রুয়ারি থেকে শুরু হচ্ছে আইএসএল! দেখুন ভিডিও",
-    "desc": "অবশেষে কাটল আইএসএল জট৷ আগামী ১৪ ফেব্রুয়ারি থেকে শুরু হচ্ছে ২০২৬ সালের আইএসএল৷ ১৪টি দলকে নিয়ে হবে এবারের আইএসএল৷ কেন্দ্রীয় সরকারের হস্তক্ষেপে জট কাটল দেশের সর্বোচ্চ লিগের৷ যে ১৪ টি দল এবারের আইএসএলে খেলবে তারা হল মোহনবাগান, ইস্ট বেঙ্গল, মহমেডান, ইন্টার কাশি, মুম্বই সিটি, চেন্নাইয়িন, এসসি দিল্লি, বেঙ্গালুরু, নর্থ ইস্ট, জামশেদপুর, ওড়িশা, কেরালা ব্লাস্টার্স, ইন্টার কাশি এবং এফসি গোয়া।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ISL-2026-2026-01-57d80c60d83fe6d0d4db296bf8b49597-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/sports/isl-2026-to-start-from-14-february-after-sports-ministry-intervention-dmg-2485847.html",
-    "time": "2026-01-06T21:19:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "আর অপেক্ষা নয়, চলতি মাসেই যাত্রা শুরু করবে জল দিয়ে চলা ট্রেন! কটি কামরা, কোন রুটেই বা চলবে?",
-    "desc": "আর অপেক্ষা নয়, এই মাসেই যাত্রা শুরু করবে হাইড্রোজেন ট্রেন। প্রধানমন্ত্রী Narendra Modi এই মাসে এই পরিষেবার উদ্বোধন করবেন বলে আশা করা হচ্ছে। উদ্বোধনী ট্রায়াল রান ২৬ জানুয়ারি হরিয়ানায় হবে বলে জানা গিয়েছে, ৯০ কিলোমিটার দীর্ঘ জিন্দ থেকে সোনিপত রুটে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/train-8-2026-01-4e7a70ec1faeb60155d252c6bb4e4809-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/indian-railways-hydrogen-train-will-start-running-from-26th-december-in-haryana-know-details-rdp-2485639.html",
-    "time": "2026-01-06T15:16:42.000Z"
   }
 ];

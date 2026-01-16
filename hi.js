@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Bangladesh cricketers call off boycott, BPL expected to resume after delay",
+    "desc": "In a major development, the Bangladesh cricketers have withdrawn their boycott of the BPL (Bangladesh Premier League) after the BCB (Bangladesh Cricket Board) and the CWAB (Cricketers' Welfare Association of Bangladesh) reportedly resolved the matter...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-cricketers-call-off-boycott-bpl-expected-to-resume-after-delay-2026-01-16-1026140",
+    "time": "2026-01-16T05:52:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harmanpreet Kaur reflects on Harleen Deol's performance after latter's recent retired out incident",
+    "desc": "After a tough start to the ongoing WPL (Women’s Premier League) 2026 season, UP Warriorz finally managed to register a win. The side took on Mumbai Indians women at the Dr DY Patil Sports Academy...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-reflects-on-harleen-deol-s-performance-after-latter-s-recent-retired-out-incident-2026-01-16-1026117",
+    "time": "2026-01-16T04:08:44.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Aman Mokhade equals world record with stellar performance against Karnataka in Vijay Hazare Trophy",
     "desc": "Vidarbha opener Aman Mokhade has been in sensational form in the ongoing Vijay Hazare Trophy 2025-26. Through his brilliance in the tournament, Mokhade has gone on to equal the record for the quickest to reach...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-up-wpl-2026-live-cricket-score-mumbai-indians-vs-up-warriorz-latest-match-updates-scorecard-ball-by-ball-commentary-2026-01-15-1026058",
     "time": "2026-01-15T13:37:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KSCA intends to host other IPL teams at Chinnaswamy if RCB move matches out of Bengaluru",
-    "desc": "Uncertainty continues to surround the hosting of IPL matches in Bengaluru as the Karnataka State Cricket Association (KSCA) awaits clearance from the state government to stage games at the M Chinnaswamy Stadium. Royal Challengers Bengaluru...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ksca-intends-to-host-other-ipl-teams-at-chinnaswamy-if-rcb-move-matches-out-of-bengaluru-2026-01-15-1026045",
-    "time": "2026-01-15T12:29:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh Cricket Board sacks Najmul Islam amid player protest, boycott of BPL",
-    "desc": "The Bangladesh Cricket Board has taken decisive action to defuse a growing crisis by removing Nazmul Islam from his role as chairman of the board’s finance committee. The move follows an escalating protest by players,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-cricket-board-sack-najmul-islam-amid-player-protest-boycott-of-bpl-2026-01-15-1026033",
-    "time": "2026-01-15T11:24:26.000Z"
   }
 ];

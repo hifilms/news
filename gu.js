@@ -1,12 +1,30 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "અસંભવ: સચિન તેંડુલકરની 100 સદી કરતા પણ વધુ મુશ્કેલ છે આ વર્લ્ડ રેકોર્ડ તોડવો...!!!",
+    "desc": "ક્રિકેટની દુનિયામાં એક વર્લ્ડ રેકોર્ડ એવો છે, જેને તોડવો લગભગ અશક્ય સમાન છે. શ્રીલંકાના દિગ્ગજ ઓફ-સ્પિનર મુથૈયા મુરલીધરને ઇન્ટરનેશનલ ક્રિકેટમાં કુલ 1347 વિકેટ ઝડપી છે. આ વર્લ્ડ રેકોર્ડને તોડવો કોઈપણ બોલર માટે નામુમકિન જેવું જ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/impossible-breaking-this-world-record-is-even-more-difficult-than-sachin-tendulkars-100-centuries-461822 ",
+    "time": "2026-01-16T05:46:09.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "માત્ર 1 રૂપિયામાં મળી રહી છે ફ્લાઇટ ટિકિટ! Indigo લાવ્યું મુસાફરો માટે ગજબની ઓફર",
+    "desc": "પોતાના મુસાફરો માટે એક મોટી ભેટ લઈને આવ્યું છે. એરલાઇને ‘Sail into 2026’ નામે ન્યૂ યર સેલની જાહેરાત કરી છે, જેમાં બાળકો માત્ર 1 રૂપિયામાં મુસાફરી કરી શકશે. જોકે, આ માટે તમારે ટિકિટ સીધી ઇન્ડિગોની વેબસાઇટ અથવા એપ પરથી બુક કરવાની રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/flight-tickets-available-for-just-re-1-indigo-launches-an-amazing-offer-461810 ",
+    "time": "2026-01-16T05:01:52.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ઓપરેશન સિંદૂર પર LeTના કમાન્ડરે સ્વીકાર્યું, &amp;#039;ખુબ મોટો હુમલો હતો, અમે બેસી પણ શકતા નથી&amp;#039;",
     "desc": "ઓપરેશન સિંદૂરે પાકિસ્તાનની કેવી હાલત ખરાબ કરી તે તો હવે તેના પોતાના જ આતંકીઓ સ્વીકારી રહ્યા છે. લશ્કર એ તૈયબાનો ટોપ આતંકી હવે એ વાત સ્વીકારે છે કે તેમના પર ખુબ મોટો હુમલો થયો હતો.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/operation-sindoor-lashkar-e-taiba-commander-abdul-rauf-big-admission-about-muridke-461806 ",
-    "time": "2026-01-16T04:01:19.000Z"
+    "time": "2026-01-16T04:03:55.000Z"
   },
   {
     "cat": "Entertainment",
@@ -351,15 +369,6 @@ const newsData_gu = [
     "time": "2026-01-13T10:48:35.000Z"
   },
   {
-    "cat": "Business",
-    "title": "નોકરિયાત વર્ગને થશે મોટો ફાયદો, 30 હજાર થઈ શકે છે ESICની લિમિટ, જાણો વિગત",
-    "desc": "જો બજેટ 2026મા ESIC ની સેલેરી લિમિટ વધારવાની જાહેરાત થાય છે તો આ મિડલ ક્લાસ કર્મચારીઓ માટે મોટી રાહત હોઈ શકે છે. સ્વાસ્થ્ય ખર્ચમાં બચત થશે અને સામાજિક સુરક્ષાની દ્રષ્ટિએ આ પગલું મહત્વનું સાબિત થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/budget-2026-esic-salary-limit-hike-30000-benefits-employees-exclusive-461554 ",
-    "time": "2026-01-13T08:01:54.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "માતા-પિતાનું ધ્યાન નહીં રાખો તો સરકાર કાપી લેશે પગાર, સીધા પેરન્ટ્સના ખાતામાં જમા થશે રકમ",
     "desc": "તેલંગાણાની કોંગ્રેસ સરકાર દ્વારા વૃદ્ધ માતા-પિતાના કલ્યાણ માટે એક મોટો નિર્ણય લેવામાં આવ્યો છે. જે અંતર્ગત જો સરકારી કર્મચારીઓ તેમના માતા-પિતાની સંભાળ નહીં રાખે, તો તેમના પગારમાંથી 10 ટકાનો કાપ મૂકવામાં આવી શકે છે. જો કર્મચારીઓ સરકારની શરતો પૂરી નહીં કરે, તો તેમને આર્થિક નુકસાન વેઠવું પડશે.",
@@ -369,15 +378,6 @@ const newsData_gu = [
     "time": "2026-01-13T07:57:38.000Z"
   },
   {
-    "cat": "Business",
-    "title": "1 પર 4 બોનસ શેર આપી રહી છે કંપની, સ્ટોકમાં 8 ટકાની તેજી, જાણો રેકોર્ડ ડેટ",
-    "desc": "શેર બજારમાં આજે મંગળવાર, 13 જાન્યુઆરી 2026ના Authum Investment and Infrastructure ના શેર એક્સ-બોનસ ટ્રેડ થઈ રહ્યાં છે. એક્સ ડેટ પર આ સ્ટોકમાં તેજી જોવા મળી રહી છે. જેના કારણે શેરનો ભાવ 52 વીક હાઈ પર પહોંચી ગયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/authum-investment-share-jumps-8-percent-on-ex-bonus-date-check-here-461547 ",
-    "time": "2026-01-13T07:24:34.000Z"
-  },
-  {
     "cat": "World",
     "title": "અમેરિકાએ 100000 વિઝા કર્યા રદ, 8,000 વિદ્યાર્થીઓને ઝટકો: ટ્રમ્પના નિર્ણયની ભારતીયો પર શું થશે અસર?",
     "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પના નિર્દેશ પર વિદેશ વિભાગે 100000 વિઝા રદ કર્યા, જેના કારણે 8,000 વિદ્યાર્થીઓના વિઝા પર નોંધપાત્ર અસર પડી છે.. નવી ઇમિગ્રેશન નીતિ હેઠળના આ નિર્ણયથી ભારતીયો સૌથી વધુ સીધી રીતે પ્રભાવિત થયા છે.",
@@ -385,15 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/us-cancelled-100000-visas-affecting-8000-students-as-well-what-impact-will-trumps-decision-have-on-indians-461548 ",
     "time": "2026-01-13T07:05:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "બાંગ્લાદેશને લાગ્યો મોટો ઝટકો, BCBની માંગ પર ICCએ આપ્યો સ્પષ્ટ આદેશ",
-    "desc": "T20 વર્લ્ડ કપ પહેલા બાંગ્લાદેશને મોટો ઝટકો લાગ્યો છે. આઈસીસીએ સુરક્ષાનો હવાલો આપીને મેચ ભારતની બહાર ખસેડવાની બાંગ્લાદેશની વિનંતીને નકારી કાઢી છે. ICCએ એ પણ સ્પષ્ટ કર્યું છે કે વર્લ્ડ કપ દરમિયાન બાંગ્લાદેશી ખેલાડીઓ પર ભારતમાં કોઈ જોખમ નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/icc-rejects-bangladesh-claim-of-security-issue-in-india-for-t20-world-cup-matches-461546 ",
-    "time": "2026-01-13T06:49:58.000Z"
   },
   {
     "cat": "Politics",
@@ -637,15 +628,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/this-3-hour-horror-film-created-history-by-breaking-records-on-the-first-day-know-this-461039 ",
     "time": "2026-01-09T14:33:45.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "જેને જુઓ તે ખરીદી રહ્યા છે આ SUV, પંચ, બ્રેજા, ક્રેટાને પછાડી બની નંબર વન, જાણો",
-    "desc": "આ ગાડી હંમેશા ભારતીય ગ્રાહકોમાં લોકપ્રિય રહી છે. ડિસેમ્બર 2025માં આ ગાડી દેશની સૌથી વધુ વેચાતી SUV હતી. ગાડી ડિસેમ્બર 2025માં લોકોએ ખુબ પસંદ કરી, તેના વધારે વેચાણના કારણે તેને બધી SUV કારને પાછળ છોડી દીધી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/everyone-is-buying-this-suv-it-has-surpassed-punch-brezza-creta-to-become-number-one-know-this-461033 ",
-    "time": "2026-01-09T13:37:09.000Z"
   },
   {
     "cat": "Entertainment",
