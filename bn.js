@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "নয়া ট্রেন্ডে গা ভাসিয়ে, ১০ বছর আগের ছবি শেয়ার করে 'নস্টালজিক' আলিয়া,২০১৬ কেমন কেটেছিল রণবীর-ঘরনীর? দেখুন ছবি",
+    "desc": "একটা নতুন ট্রেন্ড এসেছে! ইনস্টাগ্রাম ফিড-এ সবাই ১০ বছর আগের অর্থাৎ ২০১৬-র নানা মুহূর্তের ছবি শেয়ার করছেন! এই ট্রেন্ডকে বলা হচ্ছে, '2026 is the new 2016'! নতুনের অজুহাতে পুরনো স্মৃতির অলিগলিতে খানিক ঘুরে বেড়ানো আর কী",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Untitled-2026-01-e973b5f1602e170c77acca97e146e027-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/2026-is-the-new-2016-alia-bhatt-joins-the-2026-is-the-new-2016-trend-with-throwback-pics-rm-2500447.html",
+    "time": "2026-01-16T17:55:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'এদিক-ওদিক কাঁচি না করে জাস্ট HR ডিপার্টমেন্ট থেকে 90% লোক তাড়ালেই যে কোনও কোম্পানি বেঁচে যাবে!'",
+    "desc": "তাঁরা আরও দাবি করেন যে, ছাঁটাই বা বেতন সংক্রান্ত কঠোর সিদ্ধান্তগুলো আসলে উচ্চপদস্থ নির্বাহী বা বোর্ড মেম্বাররা নিয়ে থাকেন। এইচআর কেবল সেই সিদ্ধান্তগুলো বাস্তবায়ন করে। ফলে তারা বলির পাঁঠা হয়ে দাঁড়ান এমন সব কাজের জন্য, যা তাদের নিজেদের সিদ্ধান্ত ছিল না।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/remove-90-percent-of-hr-and-companies-will-run-better-viral-workforce-strategists-post-sparks-corporate-uproar_635640.html ",
+    "time": "2026-01-16T16:00:05.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "স্বামীর বন্ধুর সঙ্গেই প্রেমে মজেছেন আরতি, বীরেন্দ্র সেহওয়াগের ডিভোর্সের গোপন কাহিনিতে জড়িয়ে বিতর্কিত নাম",
     "desc": "আরতি আহলাওয়াত শেওয়াগের সঙ্গে প্রতারণা করছেন এবং বীরেন্দ্র শেওয়াগের ঘনিষ্ঠ বন্ধুদের একজনের সঙ্গে সম্পর্কে জড়িয়ে পড়েছেন। তবে, ২০২৬ সালের জানুয়ারিতে পাওয়া সর্বশেষ যাচাইকৃত প্রতিবেদন অনুসারে, এই দাবিগুলিকে সমর্থন করার জন্য কোনও বিশ্বাসযোগ্য প্রমাণ বা নিশ্চিত খবর নেই।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/what-would-happen-if-icc-does-not-shift-bangladesh-matches-from-india-and-bangladesh-will-not-participate-in-t20-world-cup-rdp-2487318.html",
     "time": "2026-01-07T17:45:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'আমি পিৎজা নই! তিল তিল করে আমায় মেরে ফেলছিল', প্রথম বিয়ে ভাঙা নিয়ে বিস্ফোরক শেফালী শাহ",
-    "desc": "২০০০ সালে পরিচালক বিপুল শাহর সঙ্গে বিবাহবন্ধনে আবদ্ধ হওয়ার আগে শেফালী শাহর প্রথম বিয়ে হয়েছিল অভিনেতা হর্ষ ছায়ার সঙ্গে। সেই বিয়ে ভেঙে বেরিয়ে আসেন অভিনেত্রী, কারণ তাঁর মতে সারাজীবন একা থাকা শ্রেয়, তবুও অসম্মানজনক এবং আনন্দহীন সম্পর্কে থাকা সম্ভব নয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/shefali-shah-opens-up-about-first-marriage-with-harsh-chhaya-and-divorce_633545.html ",
-    "time": "2026-01-07T15:32:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "চা-এর গল্পে অনুপ্রেরণা, পুরুলিয়ার রঘুনাথপুরের উচ্চশিক্ষিত তরুণীর স্বনির্ভরতার গল্প",
-    "desc": "প্রায় ১২ ধরনের ভিন্ন স্বাদের চা নিয়ে এই দোকান এখন শহরের অন্যতম জনপ্রিয় আড্ডাস্থল হয়ে উঠেছে চা প্রেমীদের কাছে। তবে এই চা দোকানের আকর্ষণ শুধু চায়ের স্বাদেই সীমাবদ্ধ নয়, এর পেছনে লুকানো অনুপ্রেরণামূলক গল্পও সমানভাবে মানুষের মন জয় করেছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/HYP_5687314_cropped_07012026_020808_picsart_260107_015624283_w_1-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/purulia-success-story-inspired-by-the-story-of-tea-the-self-reliance-story-of-a-highly-educated-young-woman-from-raghunathpur-purulia-sal-l18-local18-2486036.html",
-    "time": "2026-01-07T15:22:13.000Z"
   }
 ];

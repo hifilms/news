@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "MI London appoint Keiron Pollard as new head coach; Lisa Keightley for women's Hundred",
+    "desc": "MI London have unveiled their leadership group for the upcoming season of the Hundred, appointing Kieron Pollard as men’s head coach and Lisa Keightley to lead the women’s team. The appointments come as the franchise...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mi-london-appoint-keiron-pollard-as-new-head-coach-lisa-keightley-for-women-s-hundred-2026-01-16-1026224",
+    "time": "2026-01-16T18:04:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vishvaraj Jadeja's 165-run onslaught helps Saurashtra beat Punjab in Vijay Hazare semis",
+    "desc": "Saurashtra produced one of the most dominant chases of the Vijay Hazare Trophy as they overhauled Punjab’s 292 with nine wickets to spare at the Centre of Excellence in Bengaluru. The result sealed Saurashtra’s place...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vishvaraj-jadeja-s-165-run-onslaught-helps-saurashtra-beat-punjab-in-vijay-hazare-semis-2026-01-16-1026222",
+    "time": "2026-01-16T17:21:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Aakash Chopra backs BCCI over Mustafizur Rahman row amid India-Bangladesh row",
+    "desc": "Tensions between India and Bangladesh in cricket have escalated in recent weeks, following a series of administrative and sporting decisions that have sparked controversy. The friction began when Kolkata Knight Riders, following instructions from the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/aakash-chopra-backs-bcci-over-mustafizur-rahman-row-amid-india-bangladesh-row-2026-01-16-1026218",
+    "time": "2026-01-16T16:23:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer, Ravi Bishnoi added to India's T20I squad for New Zealand series, Washington Sundar ruled out",
+    "desc": "Washington Sundar has been ruled out of the upcoming T20I series against New Zealand after being diagnosed with a side strain. The injury occurred during the first ODI against New Zealand at the BCA Stadium...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-ravi-bishnoi-added-to-india-s-t20i-squad-for-new-zealand-series-washington-sundar-ruled-out-2026-01-16-1026214",
+    "time": "2026-01-16T15:39:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "FIFA World Cup 2026 turns nightmare for fans after USA freezes visa of 75 countries",
     "desc": "Fans from multiple countries may face major hurdles in attending the 2026 FIFA World Cup in the United States due to a newly imposed visa freeze affecting 75 nations. The pause in visa processing, effective...",
     "img": "",
@@ -10,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "RCB-W vs GG-W WPL Match Score Live: Benglauru are 4 down inside powerplay, shocking start",
+    "title": "RCB-W vs GG-W WPL Match Score Live: Royal Challengers remain unbeaten, register third straight win",
     "desc": "Royal Challengers Bengaluru have stormed into WPL 2026 with two contrasting victories, signalling a strong start to the season. Their campaign began with a last-ball thriller against Mumbai Indians, followed by a dominant win over...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/steve-smith-smacks-four-consecutive-sixes-completes-century-in-just-41-balls-2026-01-16-1026190",
     "time": "2026-01-16T11:33:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Nayar clears air with Harleen Deol following retired out incident in WPL 2026",
-    "desc": "With the ongoing WPL (Women’s Premier League) 2026 mesmerising fans with some brilliant matches, one of the biggest highlights from the tournament so far has been the retired-out fiasco involving UP Warriorz batter Harleen Deol....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-nayar-clears-air-with-harleen-deol-following-retired-out-incident-in-wpl-2026-2026-01-16-1026166",
-    "time": "2026-01-16T08:59:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PNJB vs SAU, Vijay Hazare Trophy Match Score Live: Punjab hope for good start with the bat",
-    "desc": "The stage is set for the second semi-final of the ongoing Vijay Hazare Trophy. The Centre of Excellence ground in Bengaluru sees Saurashtra winning the toss and opting to field first. The two sides will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pnjb-vs-sau-vijay-hazare-trophy-match-score-live-saurashtra-opt-to-field-first-hoping-to-book-final-spot-2026-01-16-1026162",
-    "time": "2026-01-16T08:03:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Reports",
-    "desc": "With the T20 World Cup 2026 rapidly approaching, one of the biggest talking points ahead of the tournament has been the situation surrounding the travel of the Bangladesh cricket team to India. It is worth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-delegation-set-to-travel-for-meeting-with-bcb-regarding-t20-world-cup-row-reports-2026-01-16-1026159",
-    "time": "2026-01-16T07:47:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ian Harvey appointed as Nepal's bowling consultant ahead of T20 World Cup",
-    "desc": "The T20 World Cup 2026 is right around the corner; the marquee tournament is all set to be hosted by India and Sri Lanka and is slated to begin on February 7. Ahead of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ian-harvey-appointed-as-nepal-s-bowling-consultant-ahead-of-t20-world-cup-2026-01-16-1026147",
-    "time": "2026-01-16T07:10:34.000Z"
   }
 ];
