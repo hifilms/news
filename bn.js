@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "ট্রাম্পের ভয়ে কাঁটা হয়ে আছে ইরান? না হলে আমেরিকার ভয়ংকর চাপের মুখেই কেন ৮০০ বিক্ষোভকারীর ফাঁসি...",
+    "desc": "সত্যিই কি তাই? নিজেদের দেশে ফাঁসি রদ করে দিল ইরান? জীবনযাত্রার ব্যয়বৃদ্ধি ঘিরে ইরানে দেশ জুড়ে শুরু হয়েছে বিক্ষোভ-প্রতিবাদ। তার সূত্রেই দমন-প্রতিরোধ, মৃত্যু। আমেরিকা ইরানের উপর বড় রকম নিষেধাজ্ঞা চাপিয়েছে। এর মধ্যেই আমেরিকার দাবি, তাদের ভয়েই ৮০০ ফাঁসি রদ করে দিল ইরান! সত্যি কি তাই?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/iran-halted-800-executions-of-protestors-after-trumps-warning-claims-usa-iran-unrest-irans-economic-protests_635471.html ",
+    "time": "2026-01-16T08:54:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "স্বামীর বন্ধুর সঙ্গেই প্রেমে মজেছেন আরতি, বীরেন্দ্র সেহওয়াগের ডিভোর্সের গোপন কাহিনিতে জড়িয়ে বিতর্কিত নাম",
+    "desc": "আরতি আহলাওয়াত শেওয়াগের সঙ্গে প্রতারণা করছেন এবং বীরেন্দ্র শেওয়াগের ঘনিষ্ঠ বন্ধুদের একজনের সঙ্গে সম্পর্কে জড়িয়ে পড়েছেন। তবে, ২০২৬ সালের জানুয়ারিতে পাওয়া সর্বশেষ যাচাইকৃত প্রতিবেদন অনুসারে, এই দাবিগুলিকে সমর্থন করার জন্য কোনও বিশ্বাসযোগ্য প্রমাণ বা নিশ্চিত খবর নেই।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Virendra-Shewag-and-Aarti-6-2026-01-dc1a23af165742bd7982f146ca865c8c-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/love-is-love-virender-sehwag-s-wife-had-affair-with-his-best-friend-read-to-know-the-truth-dd-2498971.html",
+    "time": "2026-01-16T08:42:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "অবসরের সময়ে কর্মীদের গোল্ডপ্লেটেড রুপোর মেডেল দেয় রেল! জানা গেল, সবটাই নকল, রুপো-সোনা কিছুই নেই...",
+    "desc": "ভারতীয় রেলওয়ে অবসরপ্রাপ্ত কর্মীদের জন্য দেওয়া গোল্ড-প্লেটেড 'রুপো' কয়েনগুলো প্রায় পুরোপুরি তামা দিয়ে তৈরি এবং রুপোর মাত্র সামান্য। এই জালিয়াতি রেলওয়ের ক্রয় প্রক্রিয়া, মান নিয়ন্ত্রণ ও হাজার হাজার কর্মীর বিশ্বাসকে প্রশ্নের মুখে ফেলেছে। যা দশকের পরিশ্রমের সম্মানের চিহ্ন হওয়ার কথা ছিল, তা আজ বিশ্বাসঘাতকতা ও হতাশার প্রতীক হয়ে দাঁড়িয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/fake-honor-gold-plated-silver-coins-scandal-shakes-indian-railways_635439.html ",
+    "time": "2026-01-16T06:56:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "স্ট্রাগলের দিনে ধরা হাত ছাড়েননি, ১১ বছর প্রেম, ধুমধাম করে বিয়ে...এই অভিনেতা-অভিনেত্রীর ভালবাসার গল্প অবাক করবে",
+    "desc": "২০১০ সালে রাজকুমার একটি বিজ্ঞাপনে পত্রলেখাকে দেখে না কি নিজেকে বলেছিলেন, ‘‘আমি একদিন ওকেই বিয়ে করব।’’ পত্রলেখা তাঁকে ‘লাভ সেক্স অউর ধোঁকা’ ছবিতে দেখেছিলেন, একজন সিরিয়াস অভিনেতার বাইরে আর কিছু ভাবেননি, এমন একজন অভিনেতা হিসেবে নয়, যাকে দেখলেই মুগ্ধ হয়ে যেতে হয়। তখনও তিনি বোঝেননি ভাগ্যের অন্য পরিকল্পনা ছিল।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Patralekha-Rajkumar-Love-Story-2026-01-6812619add3918b93dad0860b22ebc0b-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/actor-made-his-struggling-partner-patralekha-his-dream-girl-dated-actress-for-11-years-set-an-example-of-true-love-now-become-parents-ss-2499108.html",
+    "time": "2026-01-16T06:56:46.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "হামজা অমিতাভ বচ্চন, রেহমান ডাকাত বিনোদ খান্না ! AI জমিয়ে দিল ধুরন্ধর-এর কাল্পনিক কাস্টিং, বাকিটা দেখে নিন এক ঝলকে",
     "desc": "যদি ৮০-এর দশকের তারকারা এতে অভিনয় করতেন, তাহলে ধুরন্ধর কেমন দেখতে হত? একজন এআই আর্টিস্ট ১৯৮০-এর দশকের বলিউড স্টাইলে ছবিটির চরিত্রগুলোকে নতুন করে সাজিয়েছেন, এমন ভিজ্যুয়াল তৈরি করেছেন যা সোশ্যাল মিডিয়ায় আলোচনার বিষয় হয়ে উঠেছে।",
@@ -331,15 +367,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/national/union-labour-ministry-orders-online-delivery-apps-to-stop-ten-minutes-delivery-system-dmg-2494901.html",
     "time": "2026-01-13T20:39:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'নাবালক-নাবালিকার মধ্যেও পারস্পরিক সম্মতিতে হওয়া যৌন সম্পর্ককে কখনই ধর্ষণ বলা যাবে না!' নতুন আইন 'রোমিও-জুলিয়েট...'",
-    "desc": "আদালত সমাজে একটি ‘করুণ বৈষম্য’ বা ফাটলের দিকেও আলোকপাত করেছে। একদিকে এমন অনেক শিশু ভিকটিম রয়েছে যারা ভয়, দারিদ্র্য বা সামাজিক লোকলজ্জার কারণে নীরব থাকতে বাধ্য হয়। অন্যদিকে, এমন কিছু মানুষ আছে যারা শিক্ষিত, সামাজিক ও আর্থিকভাবে শক্তিশালী এবং তারা নিজেদের স্বার্থে আইনকে সহজেই ‘ম্যানিপুলেট’ বা প্রভাবিত করতে পারছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/consider-romeo-juliet-clause-in-pocso-to-protect-adolescent-relationships-supreme-court-tells-centre_634800.html ",
-    "time": "2026-01-13T18:07:47.000Z"
   },
   {
     "cat": "World",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/what-bcb-says-on-icc-communication-regarding-t20-world-cup-smj-2486471.html",
     "time": "2026-01-07T08:31:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "পোস্ট অফিসের বদলে গেল পুরো লুক! লাল-সাদা রং আর নয়, ডাকঘর যেন পুরোটাই ক্যাফে!",
-    "desc": "যখনই আপনি পোস্ট অফিসের কথা ভাবেন, তখন চোখের সামনে নিশ্চয়ই সেই চেনা লাল-সাদা রঙের ঐতিহ্যবাহী পোস্ট অফিসের ছবিটাই ভেসে ওঠে। কিন্তু সময় বদলাচ্ছে, আর সেই সঙ্গে বদলাচ্ছে পোস্ট অফিসও—এখন তা তরুণদের মতোই আধুনিক হয়ে উঠছে।সুরাটের সর্দার বল্লভভাই ন্যাশনাল ইনস্টিটিউট অফ টেকনোলজি (SVNIT) ক্যাম্পাসে শহরের প্রথম নেক্সট জেন পোস্ট অফিস চালু হয়েছে। এটি কোনও সাধারণ পোস্ট অফিস নয়, বরং বিশেষভাবে ছাত্রছাত্রীদের জন্য তৈরি করা হয়েছে, যেখানে পুরনো বিশ্বাসযোগ্য পরিষেবার সঙ্গে যুক্ত হয়েছে নতুন চিন্তাধারা। এই পোস্ট অফিসের আদলেই ভবিষ্যতে দেশের বিভিন্ন জায়গায় আরও অনেক পোস্ট অফিস নতুনভাবে ডিজাইন ও উন্নত করা হবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1767768470_image-2026-01-760d2a6e6c37490106cc17edcae588c2-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/post-office-new-look-first-gen-z-modern-infrastructure-sitting-area-cafe-inside-photos-know-more-details-smc-2486180.html",
-    "time": "2026-01-07T07:29:55.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "‘আমাদের অবশ্যই গ্রিনল্যান্ড প্রয়োজন...’, ট্রাম্পের বিরোধিতায় একযোগে বিবৃতি ইউরোপীয় রাষ্ট্রনেতাদের",
-    "desc": "ফ্রান্সের প্রেসিডেন্ট, জার্মানির চ্যান্সেলর, ইতালির প্রধানমন্ত্রী, পোল্যান্ডের প্রধানমন্ত্রী, স্পেনের প্রধানমন্ত্রী, ব্রিটেনের প্রধানমন্ত্রী এবং ডেনমার্কের প্রধানমন্ত্রীর একযোগে জারি করা বিবৃতিতে পরিষ্কার করে বলা হয়েছে, গ্রিনল্যান্ড সেখানকার মানুষের। এটা ডেনমার্ক ও গ্রিনল্যান্ডের জন্য এবং ডেনমার্ক ও গ্রিনল্যান্ড নিয়ে সিদ্ধান্ত শুধুমাত্র তারাই নিতে পারবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Donald-Trump-and-European-Leaders-2026-01-8399c31402e997309b8ec3e9d4528448-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/trump-on-greenland-we-will-not-stop-defending-them-europe-warns-us-after-trumps-greenland-takeover-threat-ss-2486079.html",
-    "time": "2026-01-07T06:19:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "আগামী ৫ দিনেই...! ভাঙবে সব রেকর্ড, শৈত্যপ্রবাহ হুঁশিয়ারি ১৭ রাজ্যে, ভারী বৃষ্টি, দমকা হাওয়া কাঁপাবে কোন কোন রাজ্য? কী হবে বাংলায়? জানিয়ে দিল IMD",
-    "desc": "শৈত্যপ্রবাহের সতর্কতা চরমে! দেশ জুড়ে শীতের মেগা ইনিংস শুরু। দেশে সমস্ত রেকর্ড ভেঙে দেওয়ার জন্য প্রস্তুত চলতি মরশুম। আবহাওয়া বিভাগ আগামী পাঁচ দিনের জন্য বেশ কয়েকটি রাজ্যে শৈত্যপ্রবাহের সতর্কতা জারি করেছে। এর ফলে তীব্র শীত পড়বে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/11/sanj-2025-11-09T213911.398-2025-11-69e107a8b15ace413363cfb74167ee72-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-severe-cold-wave-alert-in-17-states-for-coming-5-days-due-to-low-pressure-where-there-will-be-heavy-rain-forecast-for-7-8-9-10-januaruy-know-latest-west-bengal-weather-sanj-2485850.html",
-    "time": "2026-01-07T03:29:01.000Z"
   }
 ];

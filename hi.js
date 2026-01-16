@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Abhishek Nayar clears air with Harleen Deol following retired out incident in WPL 2026",
+    "desc": "With the ongoing WPL (Women’s Premier League) 2026 mesmerising fans with some brilliant matches, one of the biggest highlights from the tournament so far has been the retired-out fiasco involving UP Warriorz batter Harleen Deol....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-nayar-clears-air-with-harleen-deol-following-retired-out-incident-in-wpl-2026-2026-01-16-1026166",
+    "time": "2026-01-16T08:59:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PNJB vs SAU, Vijay Hazare Trophy Match Score Live: Punjab hope for good start with the bat",
+    "desc": "The stage is set for the second semi-final of the ongoing Vijay Hazare Trophy. The Centre of Excellence ground in Bengaluru sees Saurashtra winning the toss and opting to field first. The two sides will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pnjb-vs-sau-vijay-hazare-trophy-match-score-live-saurashtra-opt-to-field-first-hoping-to-book-final-spot-2026-01-16-1026162",
+    "time": "2026-01-16T08:03:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Reports",
+    "desc": "With the T20 World Cup 2026 rapidly approaching, one of the biggest talking points ahead of the tournament has been the situation surrounding the travel of the Bangladesh cricket team to India. It is worth...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-delegation-set-to-travel-for-meeting-with-bcb-regarding-t20-world-cup-row-reports-2026-01-16-1026159",
+    "time": "2026-01-16T07:47:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ian Harvey appointed as Nepal's bowling consultant ahead of T20 World Cup",
+    "desc": "The T20 World Cup 2026 is right around the corner; the marquee tournament is all set to be hosted by India and Sri Lanka and is slated to begin on February 7. Ahead of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ian-harvey-appointed-as-nepal-s-bowling-consultant-ahead-of-t20-world-cup-2026-01-16-1026147",
+    "time": "2026-01-16T07:10:34.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Bangladesh cricketers call off boycott, BPL expected to resume after delay",
     "desc": "In a major development, the Bangladesh cricketers have withdrawn their boycott of the BPL (Bangladesh Premier League) after the BCB (Bangladesh Cricket Board) and the CWAB (Cricketers' Welfare Association of Bangladesh) reportedly resolved the matter...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/nat-sciver-brunt-equals-major-wpl-record-before-harleen-deol-hands-up-warriorz-maiden-wpl-2026-win-2026-01-15-1026091",
     "time": "2026-01-15T17:40:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Naveen-ul-Haq ruled out of T20 World Cup 2026, know what happened",
-    "desc": "Afghanistan’s preparations for a busy T20 calendar have been disrupted by the loss of fast bowler Naveen-ul-Haq, who has been ruled out of both the upcoming three-match T20I series against West Indies and the men’s...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/naveen-ul-haq-ruled-out-of-t20-world-cup-2026-know-what-happened-2026-01-15-1026086",
-    "time": "2026-01-15T16:31:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manchester Super Giants unveil new logo, sign Smriti Mandhana, Meg Lanning; Retain Jos Butler",
-    "desc": "Manchester Originals have officially been rebranded as Manchester Super Giants ahead of the 2026 Hundred season, with the franchise confirming the retention of England internationals Jos Buttler and Sophie Ecclestone. The squad also includes Afghanistan...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/manchester-super-giants-unveil-new-logo-sign-smriti-mandhana-meg-lanning-retain-jos-butler-2026-01-15-1026077",
-    "time": "2026-01-15T15:41:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Stamina has dropped two levels'",
-    "desc": "Days after the world number 2 Anders Antonsen withdrew from the India Open Super 750, citing Delhi pollution, former world champion Loh Kean joined the conversation. On Thursday, he displayed his trademark resilience on court,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/stamina-has-dropped-two-levels-loh-kean-complains-about-delhi-pollution-after-beating-hs-pranoy-in-india-open-2026-01-15-1026066",
-    "time": "2026-01-15T14:23:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MI-W vs UP-W WPL Match Score Live: UP Warriorz register their maiden win, beat Mumbai Indians by 7 wickets",
-    "desc": "UP Warriorz continue to struggle in the WPL 2026 as they prepare to face Mumbai Indians tonight, still seeking their first win. After three matches, the team has shown glimpses of promise but has lacked...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-up-wpl-2026-live-cricket-score-mumbai-indians-vs-up-warriorz-latest-match-updates-scorecard-ball-by-ball-commentary-2026-01-15-1026058",
-    "time": "2026-01-15T13:37:27.000Z"
   }
 ];
