@@ -1,6 +1,114 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "'Nari Nari Naduma Murari' BO day 2: Film crosses Rs 2 crores",
+    "desc": "'Nari Nari Naduma Murari' is exceeding expectations, showing a remarkable 200% growth on its second day to collect Rs 2.8 crore India net in two days. The film, praised for its family-friendly entertainment, saw strong occupancy throughout Thursday, particularly in afternoon and evening shows. Positive social media buzz highlights its engaging narrative and performances.",
+    "img": "https://static.toiimg.com/photo/msid-126555230,imgsize-59612.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nari-nari-naduma-murari-box-office-collections-day-2-samyukthas-film-crosses-rs-2-crores/articleshow/126555230.cms",
+    "time": "2026-01-16T01:12:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Lara Croft' first look: Sophie Turner leads Tomb Raider's series",
+    "desc": "Sophie Turner debuts as Lara Croft in a new series, channeling the iconic look from the original games. This live-action portrayal follows Shelley Blond's pioneering voice work in 1996 and Angelina Jolie's blockbuster films, continuing Croft's legacy as a brainy daredevil.",
+    "img": "https://static.toiimg.com/photo/msid-126555164,imgsize-616656.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/lara-croft-first-look-sophie-turners-transformation-for-the-upcoming-tomb-raider-series-sets-the-internet-abuzz/articleshow/126555170.cms",
+    "time": "2026-01-16T00:55:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Vaa Vaathiyaar' BO day 2: Karthi film crosses Rs 3 crore mark",
+    "desc": "Karthi's 'Vaa Vaathiyaar' has opened to a steady box office, drawing audiences despite a slow pace. Early estimates show a promising Rs 3.90 crore India net in its first two days. The film, directed by Nalan Kumarasamy, is praised for its rousing commercial entertainer appeal without relying on excessive action, with Karthi lauded for his heartfelt performance.",
+    "img": "https://static.toiimg.com/photo/msid-126555121,imgsize-69078.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vaa-vaathiyaar-box-office-collections-day-2-karthi-film-crosses-rs-3-crore-mark/articleshow/126555121.cms",
+    "time": "2026-01-16T00:40:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Allu Arjun’s Japanese Pushpa 2 dialogue sends Tokyo into frenzy",
+    "desc": "During a vibrant promotional event in Tokyo, Allu Arjun captivated Japanese audiences by reciting a line from 'Pushpa 2' in Japanese. With the film, now titled 'Pushpa Kunrin', scheduled to hit theaters on January 16th, the team is optimistic about matching its phenomenal success in India. This moment truly underscores Arjun's growing international fandom.",
+    "img": "https://static.toiimg.com/photo/msid-126555119,imgsize-23234.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/allu-arjun-reciting-pushpa-2-dialogue-in-japanese-sends-tokyo-promotional-event-into-a-frenzy-watch/articleshow/126555119.cms",
+    "time": "2026-01-16T00:40:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar' ends week 6 with Rs 1,272 crore haul",
+    "desc": "Ranveer Singh and Akshaye Khanna's 'Dhurandhar' continues its impressive box office run, crossing Rs 25 crore in its sixth week. Despite a dip in collections, the film has amassed a staggering Rs 816.60 crore net in India and is nearing the Rs 1,000 crore gross mark, aiming to surpass 'KGF Chapter 2'.",
+    "img": "https://static.toiimg.com/photo/msid-126555129,imgsize-28752.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-42-ranveer-singh-and-akshaye-khanna-starrer-ends-week-6-with-rs-1272-crore-worldwide-haul/articleshow/126555110.cms",
+    "time": "2026-01-16T00:38:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Parasakthi' BO day 6: SK film picks up pace",
+    "desc": "Sivakarthikeyan's 'Parasakthi' is making waves at the box office, crossing the Rs 35 crore mark within six days of its release. The film witnessed a significant surge in collections on its sixth day, outperforming previous figures. Healthy occupancy in Tamil Nadu, especially during afternoon and evening shows, indicates a strong audience connect and promises a continued successful run.",
+    "img": "https://static.toiimg.com/photo/msid-126555056,imgsize-19802.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-box-office-collections-day-6-sivakarthikeyan-film-picks-up-pace-crosses-rs-35-crore-mark/articleshow/126555056.cms",
+    "time": "2026-01-16T00:23:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Raja Saab' BO day 7: Film crosses Rs 130 crore mark",
+    "desc": "Prabhas's 'The Raja Saab' crossed Rs 130 crore net in its first week, showing sustained audience interest despite a slow start. The film saw a steady trend on Day 7, with strong performance in Telugu states, particularly in evening and night shows. Hindi belt occupancy remained low. All eyes are now on the upcoming weekend for further box office gains.",
+    "img": "https://static.toiimg.com/photo/msid-126554969,imgsize-50954.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-box-office-collections-day-7-prabhas-film-crosses-rs-130-crore-mark/articleshow/126554969.cms",
+    "time": "2026-01-16T00:02:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kim Seon-ho: 'Grateful to Indian fans for love and support'",
+    "desc": "South Korean star Kim Seon-ho expresses gratitude for Indian fans' support for his new drama, \"Can This Love Be Translated?\" He hopes the show, featuring a multilingual interpreter and a global celebrity, creates viral moments. Having previously seen his smile go viral, Seon-ho is excited for fans to experience his latest work, promising they won't be disappointed.",
+    "img": "https://static.toiimg.com/photo/msid-126555226,imgsize-55830.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/kim-seon-ho-on-new-korean-drama-can-this-love-be-translated-grateful-to-indian-fans-for-love-and-support/articleshow/126554920.cms",
+    "time": "2026-01-15T23:35:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Expected a better human being in you': Cricketer lashes out at Mary Kom, later deletes video",
+    "desc": "Cricketer Manoj Tiwary expressed deep hurt over Mary Kom's public statements about her ex-husband, Karung Onkholer Kom, highlighting the crucial role of a support system for athletes. Tiwari emphasized the importance of mutual contribution in relationships and voiced concern for Onkholer's mental well-being following the public dispute over alleged financial misconduct.",
+    "img": "https://static.toiimg.com/photo/msid-126549067,imgsize-451196.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/expected-a-better-human-being-in-you-disappointed-cricketer-lashes-out-at-mary-kom-later-deletes-video/articleshow/126548883.cms",
+    "time": "2026-01-15T23:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We ask for forgiveness': Ex-Pakistan players left embarrassed by Farhan's choice",
+    "desc": "Pakistan batter Sahibzada Farhan sparked online ridicule by choosing Ahmed Shehzad over cricketing legends like Sachin Tendulkar and Virender Sehwag in a questionnaire. Farhan cited Shehzad as an inspiration for his own cricket journey. Former Pakistan cricketers Basit Ali and Kamran Akmal expressed disbelief and apologized for Farhan's controversial selection.",
+    "img": "https://static.toiimg.com/photo/msid-126547528,imgsize-177546.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-ask-for-forgiveness-ex-pakistan-players-left-embarrassed-by-sahibzada-farhans-choice-watch/articleshow/126547501.cms",
+    "time": "2026-01-15T23:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arslan snatches Sussanne’s phone, reveals Hrithik on video call",
+    "desc": "Sussanne Khan and Arslan Goni, who began dating in early 2021 and made their relationship public in mid-2022 after Sussanne’s birthday post for Arslan confirmed their status, are once again in the spotlight — this time for an unexpectedly candid airport moment.",
+    "img": "https://static.toiimg.com/photo/msid-126553502,imgsize-42690.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arslan-goni-playfully-snatches-sussanne-khans-phone-at-airport-reveals-hrithik-roshan-on-video-call/articleshow/126553365.cms",
+    "time": "2026-01-15T22:13:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bachchan family, SRK, Madhuri, other A-listers skip BMC polling",
+    "desc": "The Brihanmumbai Municipal Corporation (BMC) elections witnessed a fairly strong presence of Bollywood celebrities, with many well-known faces stepping out to cast their votes. However, the civic exercise also saw several prominent film personalities like Amitabh Bachchan, Jaya Bachchan, and Abhishek Bachchan. Aishwarya Rai Bachchan also appeared to have skipped voting, as did Bollywood superstar Shah Rukh Khan and his family missing from the polling booths this time.",
+    "img": "https://static.toiimg.com/photo/msid-126553084,imgsize-48986.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-abhishek-aishwarya-rai-jaya-shah-rukh-khan-madhuri-dixit-and-other-bollywood-a-listers-skip-bmc-polling-day/articleshow/126553076.cms",
+    "time": "2026-01-15T21:13:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Big B as Hamza, Vinod Khanna as Rahman Dakait: AI reimagines Dhurandhar",
     "desc": "AI reimagines the hit film 'Dhurandhar' as an 80s classic, casting Amitabh Bachchan as Hamza Ali Mazari and Vinod Khanna as Rehman Dakait. This alternate casting, featuring icons like Parveen Babi and Sridevi, has ignited internet excitement, offering a nostalgic glimpse into what could have been.",
     "img": "https://static.toiimg.com/photo/msid-126553033,imgsize-48788.cms",
@@ -99,24 +207,6 @@ const newsData_en = [
     "time": "2026-01-15T16:53:33.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rs 100 crore defamation case filed against Khushi over SKY remarks",
-    "desc": "Social media influencer Faizan Ansari has filed a Rs 100 crore defamation case against actress Khushi Mukherjee on January 13, following her remarks about Indian T20I captain Suryakumar Yadav. The legal action comes after Mukherjee claimed in an earlier interview that Suryakumar “used to message me a lot.”",
-    "img": "https://static.toiimg.com/photo/msid-126550043,imgsize-88656.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rs-100-crore-defamation-case-filed-against-khushi-mukherjee-over-claims-that-suryakumar-yadav-used-to-message-her-a-lot/articleshow/126549964.cms",
-    "time": "2026-01-15T16:43:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "When and where to watch live counting",
-    "desc": "Vote counting for the Brihanmumbai Municipal Corporation (BMC) elections begins today, determining control of Asia's richest civic body after over six years. Exit polls project a strong performance for the ruling Mahayuti alliance, potentially crossing 130 seats, while the Shiv Sena (UBT)–MNS alliance is expected to trail.",
-    "img": "https://static.toiimg.com/photo/msid-126549944,imgsize-1171502.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bmc-election-result-2026-when-and-where-to-watch-live-counting-all-you-need-to-know/articleshow/126549905.cms",
-    "time": "2026-01-15T16:36:40.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Can’t we presume that voters who survived multiple roll revisions are citizens, Supreme Court poses petitioners’ query to ECI",
     "desc": "The question from the CJI-led Bench came in the backdrop of discussions over a 1995 Supreme Court case law, which held that a person already enrolled in the voter list should not be asked to prove citizenship",
@@ -144,24 +234,6 @@ const newsData_en = [
     "time": "2026-01-15T16:14:37.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Bhansali praise inspires her",
-    "desc": "The Smuggler’s Web'. She is actively manifesting a collaboration with filmmaker Sanjay Leela Bhansali, inspired by his past praise for her work. Khanvilkar is showcasing her versatility with diverse roles across platforms, highlighting her commitment to growth and meaningful projects.",
-    "img": "https://static.toiimg.com/photo/msid-126549590,imgsize-33818.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/taskaree-actress-amruta-khanvilkar-reveals-why-sanjay-leela-bhansalis-praise-for-chandramukhi-still-inspires-her/articleshow/126549590.cms",
-    "time": "2026-01-15T16:13:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Amrita Rao’s youthful look with Shraddha Kapoor",
-    "desc": "In an exciting turn of events, Amrita Rao is capturing attention online through a fresh advertisement featuring Shraddha Kapoor. At the age of 44, her age-defying looks have left admirers astonished, many expressing that she appears just as enchanting as she did in 'Vivah' back in 2006.",
-    "img": "https://static.toiimg.com/photo/msid-126549371,imgsize-29554.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/url-netizens-react-to-amrita-raos-ageless-look-in-new-ad-campaign-with-shraddha-kapoor-hasnt-aged-since-vivah/articleshow/126549371.cms",
-    "time": "2026-01-15T15:54:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "B'desh cricket crisis: BPL at risk; players demand public apology from BCB director",
     "desc": "Cricketers' Welfare Association of Bangladesh (CWAB) stated players will return to cricket if BCB director M Najmul Islam issues a public apology and his removal process progresses. Players reconsidered their boycott, citing the impact on national teams and the importance of the Bangladesh Premier League.",
@@ -172,30 +244,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Chandni Bhabhda on Ananya Panday and Kartik",
-    "desc": "Chandni Bhabhda, a talented content creator celebrated for her spot-on mimicry, has stepped into the cinematic world with her debut in 'Tu Meri Main Tera Main Tera Tu Meri', produced by Dharma Productions. She couldn't help but gush about her time on set with the wonderful Ananya Panday and Kartik Aaryan, highlighting their exemplary professionalism and friendly nature.",
-    "img": "https://static.toiimg.com/photo/msid-126548998,imgsize-60734.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/chandni-bhabhda-talks-about-working-with-sweet-ananya-panday-and-hardworking-kartik-aaryan-in-tu-meri-main-tera-/articleshow/126548998.cms",
-    "time": "2026-01-15T15:42:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Happy Patel: Khatarnak Jasoos' FIRST reviews out",
     "desc": "Khatarnak Jasoos' is set to release this Friday, January 16. Early reviews from Fatima Sana Sheikh and Triptii Dimri praise the film as a fun, entertaining spy comedy. The movie, starring Vir Das in his directorial debut, also features a notable cameo from Aamir Khan.",
     "img": "https://static.toiimg.com/photo/msid-126549243,imgsize-57372.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/happy-patel-khatarnak-jasoos-first-reviews-out-fatima-sana-shaikh-triptii-dimri-review-the-vir-das-film-call-it-joy-from-start-to-finish/articleshow/126549218.cms",
     "time": "2026-01-15T15:42:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Deepak files complaint after being cheated of Rs 2.5 lakh",
-    "desc": "A case has been registered against three persons for allegedly cheating Bollywood actor and filmmaker Deepak Tijori of Rs 2.5 lakh on the pretext of arranging funds for his upcoming film, a police official said on Thursday, as reported by PTI.",
-    "img": "https://static.toiimg.com/photo/msid-126549060,imgsize-24892.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepak-tijori-files-complaint-against-three-after-being-allegedly-cheated-of-rs-2-5-lakh-in-film-funding-scam/articleshow/126549037.cms",
-    "time": "2026-01-15T15:30:05.000Z"
   },
   {
     "cat": "Politics",
@@ -216,15 +270,6 @@ const newsData_en = [
     "time": "2026-01-15T15:09:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rasha and Abhay in intense dark romance of love",
-    "desc": "Abhay Verma and Rasha Thadani debut together in Laikey Laikaa, a dark romance of love, pain, and trust, out summer 2026. Gritty posters show bloody kisses amid ruins. Rasha trained in martial arts; Saurabh Gupta directs this thrilling love-violence mix with producers Bhavna Talwar and Raghav Gupta.",
-    "img": "https://static.toiimg.com/photo/msid-126548660,imgsize-89088.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/laikey-laikaa-first-look-rasha-thadani-and-abhay-verma-in-an-intense-dark-romance-of-love-pain-and-trust/articleshow/126548660.cms",
-    "time": "2026-01-15T14:57:49.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. seizes Venezuela-linked tanker ahead of Trump-Machado meeting",
     "desc": "The seizure ​marks the sixth vessel targeted in recent weeks that was either carrying Venezuelan oil or had done so in the past. The officials, speaking on the condition of anonymity, said the seizure took place in the Caribbean",
@@ -232,15 +277,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-seizes-venezuela-linked-tanker-ahead-of-trump-machado-meeting/article70512815.ece",
     "time": "2026-01-15T14:54:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP's maha moment? Exit polls predict Mahayuti sweep in BMC elections; Thackeray union likely to fall flat",
-    "desc": "Exit polls project a significant victory for the Mahayuti alliance in the BMC polls, with projections indicating they will surpass 130 seats. The Shiv Sena (UBT)–MNS alliance is expected to secure just over 60 seats, falling short of expectations. The elections saw nearly 50% voter turnout across Mumbai and 28 other municipal corporations in Maharashtra.",
-    "img": "https://static.toiimg.com/photo/msid-126548534,imgsize-1189735.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjps-maha-moment-exit-polls-predict-mahayuti-sweep-in-bmc-elections-thackeray-union-falls-flat/articleshow/126547900.cms",
-    "time": "2026-01-15T14:49:52.000Z"
   },
   {
     "cat": "Entertainment",
@@ -279,42 +315,6 @@ const newsData_en = [
     "time": "2026-01-15T14:33:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Axis My India predicts clean sweep for BJP-led Mahayuti; Thackeray camp trails",
-    "desc": "Axis My India's exit poll projects a significant win for the BJP-led NDA in the BMC elections, potentially securing 131-151 of 227 seats. The election, held after a nine-year delay, saw a turnout of 46-50% and was marked by controversy over indelible ink allegations.",
-    "img": "https://static.toiimg.com/photo/msid-126548130,imgsize-1117335.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bmc-exit-polls-axis-my-india-predicts-clean-sweep-for-bjp-led-mahayuti-thackeray-camp-trails/articleshow/126548034.cms",
-    "time": "2026-01-15T14:24:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Agatha Christie's Seven Dials': All about plot, characters, and more",
-    "desc": "Agatha Christie's 'Seven Dials' is now available on Netflix! This riveting series transports you to a 1925 English estate, where a glamorous party spirals into chaos following a shocking murder. Channeling her inner detective, Lady Eileen 'Bundle' Brent tackles an intricate conspiracy laden with spies and clandestine organizations, guaranteeing an electrifying reveal that even stuns its actors.",
-    "img": "https://static.toiimg.com/photo/msid-126548050,imgsize-680903.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/agatha-christies-seven-dials-all-about-mia-mckenna-bruce-helena-bonham-carter-starrers-plot-characters-and-more/articleshow/126548050.cms",
-    "time": "2026-01-15T14:21:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Attempted to flee': Coast guard intercepts Pakistani fishing vessel in Arabian Sea",
-    "desc": "An Indian Coast Guard ship intercepted a Pakistani fishing vessel, Al-Madina, with nine crew members, found operating within Indian waters near the International Maritime Boundary Line. The vessel attempted to flee towards Pakistan when challenged but was successfully intercepted and boarded. The boat is now being towed to Porbandar for further investigation.",
-    "img": "https://static.toiimg.com/photo/msid-126547970,imgsize-1204134.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/attempted-to-flee-coast-guard-intercepts-pakistani-fishing-vessel-in-arabian-sea-watch/articleshow/126547973.cms",
-    "time": "2026-01-15T14:12:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Karan says the Oscar campaign for 'Homebound' is like a bottomless pit",
-    "desc": "Karan Johar's 'Homebound,' co-directed with Neeraj Ghaywan, is an Oscar contender for Best International Feature. Johar emphasized it's a passion project, not driven by profit. His business partner, Adar Poonawalla, fully supported the Oscar campaign, prioritizing the film's artistic merit over financial returns, despite the substantial costs involved.",
-    "img": "https://static.toiimg.com/photo/msid-126547896,imgsize-50374.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-says-the-oscar-campaign-for-homebound-is-like-a-bottomless-pit-but-its-a-passion-project-for-them-not-a-monetary-game/articleshow/126547894.cms",
-    "time": "2026-01-15T14:06:54.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Sebi agrees ‘in-principle’ to settlement plea; path clears for long-awaited listing",
     "desc": "The Securities and Exchange Board of India (Sebi) has given in-principle approval to the National Stock Exchange's (NSE) settlement plea in an unfair market access case. This development clears a significant regulatory hurdle for NSE's long-delayed Initial Public Offering (IPO).",
@@ -324,15 +324,6 @@ const newsData_en = [
     "time": "2026-01-15T13:50:21.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Bridgerton' cast fees: THIS is the high-paid character",
-    "desc": "Exciting news from the Bridgerton universe! Reports indicate that Phoebe Dynevor, who plays Daphne, raked in an impressive £400,000 for her role in the first season. Meanwhile, the iconic Julie Andrews, lending her voice to Lady Whistledown, supposedly earned a staggering £1 million.",
-    "img": "https://static.toiimg.com/photo/msid-126547499,imgsize-1227566.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-cast-salaries-revealed-a-surprising-member-takes-home-a-paycheck-of-usd-1-million/articleshow/126547499.cms",
-    "time": "2026-01-15T13:50:09.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "The making of ‘atchu vellam’, an ingredient in sweet Pongal",
     "desc": "Veeramangudi, in Papanasam taluk of Tamil Nadu’s Thanjavur district, is known for its production of the soft and crumbly atchu vellam (jaggery set into cubical wooden moulds). Factories in and around the village produce approximately 245 tonnes of jaggery (7,000 bags of 35 kg each) annually. Of late though, these factories have started closing down due to an attack of yellow leaf disease in the sugarcane crop.",
@@ -340,15 +331,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-the-making-of-atchu-vellam-an-ingredient-in-sweet-pongal/article70512717.ece",
     "time": "2026-01-15T13:42:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Border 2' trailer out: Sunny roars 'hai wo jurrattt?'",
-    "desc": "'Border 2' trailer wowed private viewers with explosive action, emotion, patriotism, and epic dialogues. Varun Dhawan leads army, Diljit Dosanjh flies air force, Ahan Shetty commands navy. Sunny Deol roars as boss with \"Hai jurrattt…\" zinger. Top VFX, sound. Releases Jan 23, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-126547534,imgsize-43784.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-trailer-out-sunny-deol-roars-hai-wo-jurrattt-into-the-battlefield-to-defend-india-with-varun-dhawan-diljit-dosanjh-ahan-shetty/articleshow/126547534.cms",
-    "time": "2026-01-15T13:40:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -385,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/trade-data-exports-grow-1-9-in-december-despite-global-headwinds-trade-gap-edges-up-on-higher-imports/articleshow/126546237.cms",
     "time": "2026-01-15T12:39:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SIR hearing was underway in Dinajpur; FIR filed",
-    "desc": "An agitated mob vandalized and torched the Goalpokher-II BDO office in North Dinajpur, West Bengal, during a Special Intensive Revision hearing. Around 300 people reportedly destroyed property worth Rs 20 lakh and injured police and staff. This follows similar violence at the Farakka BDO office.",
-    "img": "https://static.toiimg.com/photo/msid-126546174,imgsize-1058161.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/2nd-bdo-office-vandalised-in-bengal-sir-hearing-was-underway-in-dinajpur-fir-filed/articleshow/126546134.cms",
-    "time": "2026-01-15T12:23:02.000Z"
   },
   {
     "cat": "Business",
@@ -448,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-kolkata-realtors-seek-tax-relief-higher-affordable-housing-cap-eye-demand-revival/articleshow/126544328.cms",
     "time": "2026-01-15T10:48:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Shashi Tharoor grooves to Taylor Swift's 'The Fate of Ophelia'; wins internet",
-    "desc": "Congress MP Shashi Tharoor delighted netizens by sharing an Instagram reel dancing to Taylor Swift's 'The Fate of Ophelia.' The politician, amidst a mountain of work, showcased a playful side, humorously noting his transformation into a \"Swiftie.\" The charming video, filmed in his study, quickly garnered a massive positive response online, with fans celebrating this unexpected pop culture moment.",
-    "img": "https://static.toiimg.com/photo/msid-126544337,imgsize-4947800.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-shashi-tharoor-grooves-to-taylor-swifts-the-fate-of-ophelia-wins-internet/articleshow/126543773.cms",
-    "time": "2026-01-15T10:46:01.000Z"
   },
   {
     "cat": "Sports",
@@ -583,24 +547,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-on-back-burner-for-few-more-days-ten-doeschate/article70512246.ece",
     "time": "2026-01-15T05:47:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Coles dazzles on debut as Sunrisers seal playoff spot",
-    "desc": "Sunrisers Eastern Cape sealed a playoff berth with a dominant 63-run bonus-point win over Joburg Super Kings at St George’s Park. Debutant James Coles starred with an unbeaten fifty and two wickets, while Senuran Muthusamy’s spin strangled JSK.",
-    "img": "https://static.toiimg.com/photo/msid-126539134,imgsize-47826.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/sa20/sa20-james-coles-dazzles-on-debut-as-sunrisers-eastern-cape-seal-playoff-spot/articleshow/126539136.cms",
-    "time": "2026-01-15T05:39:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Tell Vinesh, I want to wrestle her again’: Yui Susaki reflects on Paris defeat",
-    "desc": "Japanese wrestling champion Yui Susaki, a four-time world champion and Olympic gold medalist, expressed her desire to face Indian wrestler Vinesh Phogat again after a surprising defeat. Susaki views the loss as a crucial learning experience, fueling her ambition for future Olympic gold medals and inspiring others with her resilience.",
-    "img": "https://static.toiimg.com/photo/msid-126538878,imgsize-38936.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/toi-exclusive-tell-vinesh-i-want-to-wrestle-her-again-yui-susaki-reflects-on-paris-defeat-to-phogat/articleshow/126538726.cms",
-    "time": "2026-01-15T05:34:49.000Z"
   },
   {
     "cat": "Politics",
@@ -898,5 +844,59 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ind-vs-nz-1st-odi-preview-inexperienced-kiwis-need-a-lot-of-things-going-their-way-to-upstage-india/article70494534.ece",
     "time": "2026-01-10T12:52:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh players act normal despite controversies, says Shanto",
+    "desc": "Uncertainty looms over Bangladesh's participation in ‌the T20 World Cup following a request by ​the Bangladesh Cricket Board to the International Cricket Council to move their World Cup matches out of India over safety concerns",
+    "img": "https://th-i.thgim.com/public/incoming/hys8nx/article70494536.ece/alternates/LANDSCAPE_1200/IMG_TH20_SHANTO_2_1_5DE115FI.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/bangladesh-players-act-normal-despite-controversies-says-shanto/article70494493.ece",
+    "time": "2026-01-10T12:27:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gill seeks preparation window ahead of Test series",
+    "desc": "‘Preparation for me is really big, and I didn’t think that we had that much time to prepare when we came back from Australia, or even after the Asia Cup when we played the West Indies series,’ the India’s Test and ODI captain said",
+    "img": "https://th-i.thgim.com/public/incoming/4jwszs/article70494285.ece/alternates/LANDSCAPE_1200/VIS_3643.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/gill-seeks-preparation-window-ahead-of-test-series/article70494180.ece",
+    "time": "2026-01-10T10:57:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Aryna Sabalenka advances to the Brisbane International final after beating Muchová",
+    "desc": "Sabalenka, defending Brisbane champion, clinched the semi-final at Pat Rafter Arena on her fourth match point to advance to January 11 final against the winner of a later semi-final between fourth-seeded Jessica Pegula and Marta Kostyuk",
+    "img": "https://th-i.thgim.com/public/incoming/le4s1p/article70493655.ece/alternates/LANDSCAPE_1200/Australia_Tennis_87390.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/aryna-sabalenka-advances-to-the-brisbane-international-final-after-beating-karolina-muchova-australian-open-final/article70493639.ece",
+    "time": "2026-01-10T04:35:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rumesh Ratnayake",
+    "desc": "The 62-year-old knows a thing or two about famous Sri Lankan victories. He took the wicket that won the island nation its first-ever Test and coached the women to significant overseas T20I series wins and an Asia Cup triumph. He talks about his coaching philosophy, being inspired by the All Blacks, the evolution of the women’s game and his time as a pathbreaking quick",
+    "img": "https://th-i.thgim.com/public/incoming/nlusw3/article70492521.ece/alternates/LANDSCAPE_1200/1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/rumesh-ratnayake-sri-lanka-1985-test-win-fast-bowling-womens-coach-kapil-dev/article70492498.ece",
+    "time": "2026-01-09T20:28:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jefferson-Wooden’s plan for world domination centres on ‘Melissa’",
+    "desc": "A switch in the 24-year-old American sprinter’s focus — from competing against others to competing against her best — brought rich rewards in 2025. The reigning sprint queen, who claimed a historic triple crown at the Worlds, wants to establish herself among the greatest ever as she looks forward to a series of major events culminating in Los Angeles 2028",
+    "img": "https://th-i.thgim.com/public/incoming/h1wapr/article70492515.ece/alternates/LANDSCAPE_1200/GettyImages-2217335433.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/melissa-jefferson-wooden-sprint-queen-la-2028-olympics-flo-jo-record-world-championships/article70492488.ece",
+    "time": "2026-01-09T20:25:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sivakarthikeyan opens up on ‘Parasakthi’ censorship; wishes ‘Jana Nayagan’ success",
+    "desc": "In an interaction with the press, the star said that the film’s team had no time to negotiate with the CBFC and had to focus only on ensuring that the changes suggested by the board were implemented properly",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/pvov20/article70492408.ece/alternates/LANDSCAPE_1200/2F3A7594.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/sivakarthikeyan-parasakthi-censorship-cbfc-thalapathy-vijay-jana-nayagan/article70492379.ece",
+    "time": "2026-01-09T18:27:35.000Z"
   }
 ];
