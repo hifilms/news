@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Aman Mokhade equals world record with stellar performance against Karnataka in Vijay Hazare Trophy",
+    "desc": "Vidarbha opener Aman Mokhade has been in sensational form in the ongoing Vijay Hazare Trophy 2025-26. Through his brilliance in the tournament, Mokhade has gone on to equal the record for the quickest to reach...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/aman-mokhade-equals-world-record-with-stellar-performance-against-karnataka-in-vijay-hazare-trophy-2026-01-16-1026110",
+    "time": "2026-01-16T03:02:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ottneil Baartman joins elite company, becomes second ever player to take SA20 hat-trick",
+    "desc": "Paarl Royals registered a brilliant victory in their clash against Pretoria Capitals in the ongoing SA20 2025-26. The two sides locked horns at the SuperSport Park, Centurion, on January 15, and the game saw Capitals...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ottneil-baartman-joins-elite-company-becomes-second-ever-player-to-take-sa20-hat-trick-2026-01-16-1026105",
+    "time": "2026-01-16T01:25:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vidarbha beat Karnataka to enter Vijay Hazare final; Aman Mokhade, Darshan Nalkande steal show",
     "desc": "Aman Mokhade gave himself and Vidarbha the perfect pre-birthday present with a match-winning century as they defeated defending champions Karnataka to reach their second consecutive Vijay Hazare Trophy final. Vidarbha will face the winner of...",
     "img": "",
@@ -70,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-cricket-board-sack-najmul-islam-amid-player-protest-boycott-of-bpl-2026-01-15-1026033",
     "time": "2026-01-15T11:24:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh players boycott BPL, demand Najmul Islam's resignation; BCB issues statement",
-    "desc": "A fresh administrative crisis has engulfed Bangladesh cricket after the Bangladesh Cricket Board (BCB) moved to formally discipline director M Najmul Islam, whose public comments about national players have sparked an unprecedented confrontation with the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-players-boycott-bpl-demand-najmul-islam-s-resignation-bcb-issues-statement-2026-01-15-1026026",
-    "time": "2026-01-15T11:00:42.000Z"
   }
 ];
