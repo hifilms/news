@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "એવી જીત કે રચ્યો ઈતિહાસ; મુંબઈ, પુણે, નાગપુર... દરેક શહેરમાં ભાજપનો લહેરાયો ઝંડો, કોને મળશે જીતનો જશ!",
+    "desc": "BMCથી લઈને નાગપુર સુધી ભાજપને ભવ્ય જીત મળી છે. આ રીતે ભાજપ સ્થાનિક સ્વરાજ્યની ચૂંટણીમાં 'સમૃદ્ધિ એક્સપ્રેસવે' પર તેજ ગતિએ દોડી છે, જ્યારે પ્રથમ વખત ઠાકરે બ્રધર્સનું વર્ચસ્વ BMCમાંથી ખતમ થઈ રહ્યું છે. એટલું જ નહીં, પુણે સહિત અન્ય ઘણા શહેરોમાં પણ ભાજપે પોતાના પ્રદર્શનથી સૌને ચોંકાવી દીધા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/bmc-election-result-2026-nagpur-pune-bjp-makes-history-devendra-fadnavis-461873 ",
+    "time": "2026-01-16T12:21:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ફડણવીસની ગેમ સમજી ન શક્યા ઠાકરે-પવાર! મહારાષ્ટ્ર ચૂંટણીમાં ભાજપે કેવી રીતે જીત મેળવી?",
+    "desc": "મહારાષ્ટ્રની સ્થાનિક સ્વરાજની ચૂંટણીમાં દેવેન્દ્ર ફડણવીસ ભાજપના ચાણક્ય બનીને ઉભર્યા છે. તેમના માઇક્રો મેનેજમેન્ટની સામે ઠાકરે અને પવારના બધા દાવ ફેલ થઈ ગયા. તેમના વચન અને ઈરાદા પર જનતાએ વિશ્વાસ વ્યક્ત કર્યો. ખાસ વાત છે કે તેમાં ફડણવીસની મહેનત જોવા મળી. તેમણે રાજ્યભરમાં સભાઓ કરી. લગભગ પવાર અને ઠાકરે તે સમજી શક્યા નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/why-bjp-led-mahayuti-big-lead-in-29-municipal-corporations-elections-in-maharashtra-461869 ",
+    "time": "2026-01-16T12:09:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "આ ક્રિકેટરને તેના ફોર્મને કારણે ક્યારેય ટીમ ઈન્ડિયામાંથી નથી કરવામાં આવ્યો બહાર, ભારતને જીતાડી ચુક્યો છે બે વર્લ્ડ",
+    "desc": "પોતાના ડેબ્યૂથી લઈને નિવૃત્તિ સુધી, ભારત પાસે એક દિગ્ગજ ક્રિકેટર છે જેને તેના ફોર્મને કારણે ક્યારેય ટીમ ઈન્ડિયામાંથી બહાર કરવામાં આવ્યો નથી. આ ક્રિકેટર ફક્ત ભારતમાં જ નહીં પરંતુ વિશ્વભરના દરેક ક્રિકેટ ચાહકોના દિલ પર રાજ કરે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/this-cricketer-has-never-been-dropped-from-team-india-due-to-his-form-he-has-won-india-two-world-cups-461872 ",
+    "time": "2026-01-16T12:08:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કોણ છે તેજસ્વી ઘોસાલકર? BMC ચૂંટણીમાં શાનદાર જીત બાદ બની શકે છે મુંબઈની આગામી મેયર!",
+    "desc": "તેજસ્વી ઘોસાલકરે મુંબઈના દહિસર વોર્ડ નંબર-2માંથી BMC ચૂંટણી જીતીને મેયર પદની રેસમાં પોતાની સ્થિતિ મજબૂત કરી છે. તેમણે શિવસેના (UBT) છોડીને ભાજપમાં પ્રવેશ કર્યો હતો. 2017માં શિવસેનાની ટિકિટ પર ચૂંટણી જીતનાર તેજસ્વીના પતિ અભિષેકની 2022માં હત્યા કરવામાં આવી હતી, જેનાથી મહારાષ્ટ્રના રાજકારણમાં ભારે ખળભળાટ મચી ગયો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/who-is-tejasvi-ghosalkar-bmc-election-win-dahisar-ward-2-mumbai-mayor-race-bjp-461868 ",
+    "time": "2026-01-16T11:25:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "વેચવું કે ખરીદવું ? રેકોર્ડ ઊંચાઈએ પહોંચ્યા સોના અને ચાંદીના ETFના ભાવ, એક્સપર્ટ પાસેથી જાણો શું કરવું જોઈએ ?",
+    "desc": "સોના અને ચાંદીના ભાવ તેમના રેકોર્ડ હાઈ લેવલની નજીક છે. કોમોડિટી આધારિત ચાંદી અને સોનાના ETFમાં પણ જોરદાર તેજી જોવા મળી છે અને તે રેકોર્ડ ઊંચા સ્તરે ટ્રેડ થઈ રહ્યા છે. શું હવે નફો બુક કરવાનો યોગ્ય સમય છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/should-you-sell-or-buy-gold-and-silver-etf-prices-hit-record-highs-know-what-to-do-from-experts-461867 ",
+    "time": "2026-01-16T11:11:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભવિષ્યની મુશ્કેલી માટે તૈયાર રહેજો ! આવનારા વર્ષોમાં ખતમ થઈ જશે આ 15 નોકરીઓ !",
+    "desc": "AI અને વિવિધ ટેકનોલોજીના યુગમાં, ઘણી નોકરીઓ ધીમે ધીમે અદૃશ્ય થઈ રહી છે. ભવિષ્યમાં, આ નોકરીઓ કરનારાઓની જરૂરિયાત ઘટશે. તેમને બીજી નોકરી ગોતવાની ફરજ પડી શકે છે. રિપોર્ટમાં આ 15 નોકરીઓ પર સૌથી વધારે રિસ્ક દેખાડવામાં આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/be-prepared-for-the-future-these-15-jobs-will-disappear-in-the-coming-years-461859 ",
+    "time": "2026-01-16T09:27:36.000Z"
+  },
+  {
     "cat": "Business",
     "title": "બજેટમાં ખેડૂતોને મળશે ખુશખબર! જાણો ક્યારે ખાતામાં આવશે 22મો હપ્તો",
     "desc": "પીએમ કિસાન યોજનાના 22મા હપ્તાની પ્રતીક્ષા કરતા ખેડૂતોએ હજુ થોડું ધૈર્ય જાળવી રાખવું પડશે. 1 ફેબ્રુઆરીએ રજૂ થનારા સામાન્ય બજેટ બાદ જ ખાતામાં 2-2 હજાર રૂપિયા આવવાની સંભાવના છે. પાછલા વર્ષે પણ ફેબ્રુઆરીના અંતમાં ગપ્તો જારી થયો હતો.",
@@ -448,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/makar-sankranti-school-holiday-14-or-15-january-schools-closed-states-wise-list-461578 ",
     "time": "2026-01-13T10:48:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "માતા-પિતાનું ધ્યાન નહીં રાખો તો સરકાર કાપી લેશે પગાર, સીધા પેરન્ટ્સના ખાતામાં જમા થશે રકમ",
-    "desc": "તેલંગાણાની કોંગ્રેસ સરકાર દ્વારા વૃદ્ધ માતા-પિતાના કલ્યાણ માટે એક મોટો નિર્ણય લેવામાં આવ્યો છે. જે અંતર્ગત જો સરકારી કર્મચારીઓ તેમના માતા-પિતાની સંભાળ નહીં રાખે, તો તેમના પગારમાંથી 10 ટકાનો કાપ મૂકવામાં આવી શકે છે. જો કર્મચારીઓ સરકારની શરતો પૂરી નહીં કરે, તો તેમને આર્થિક નુકસાન વેઠવું પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/if-you-dont-take-care-of-your-elderly-parents-the-government-will-deduct-money-from-your-salary-and-transfer-it-to-your-parents-bank-account-461552 ",
-    "time": "2026-01-13T07:57:38.000Z"
   },
   {
     "cat": "World",

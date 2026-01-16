@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "কোন ব্যাঙ্কে পার্সোনাল লোন সবচেয়ে 'সস্তা'? সিদ্ধান্ত নেওয়ার আগে বিভিন্ন সুদের হার তুলনা করে দেখুন",
+    "desc": "জরুরি আর্থিক প্রয়োজন মেটাতে বর্তমানে পার্সোনাল লোন অন্যতম জনপ্রিয় বিকল্প। তবে জামানত ছাড়াই এই ঋণ পাওয়া গেলেও, ব্যাঙ্কভেদে সুদের হার, EMI এবং অন্যান্য শর্তে বড়সড় পার্থক্য থাকে। তাই লোন নেওয়ার আগে কোন ব্যাঙ্কে কত সুদে পার্সোনাল লোন পাওয়া যাচ্ছে, তা জেনে নেওয়া অত্যন্ত জরুরি। SBI, HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, IDFC First Bank, Bank of Baroda, Yes Bank ও Punjab National Bank–এ পার্সোনাল লোনের সুদ ও শর্তে পার্থক্য রয়েছে। জেনে নিন কোন ব্যাঙ্কে পার্সোনাল লোনে ইন্টারেস্ট কত।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/bank-loan-3-2026-01-65f91f328d8a9938983fc57be6e20dd0-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/big-difference-in-personal-loan-interest-rates-and-terms-revealed-across-banks-which-bank-offers-the-best-cheapest-personal-loan-tib-ws-el-2499621.html",
+    "time": "2026-01-16T10:11:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "কোহলির ODI র‍্যাঙ্কিংয়ে ১ নম্বরে ওঠা নিয়ে বিরাট ভুল করল আইসিসি! শুধরে নিতেই মুকুটে নতুন পালক",
+    "desc": "দারুণ ছন্দে বিরাট কোহলি, ফর্মের জন্য প্রায় পাঁচ বছর পর প্রথমবার ICC ODI র‍্যাঙ্কিংয়ে ১ নম্বর স্থানে দেখা গিয়েছে বিরাটকে। ৩৭ বছর বয়সি বিরাট শেষ ছয়টা ম্যাচে পাঁচবার ৫০ বা তার বেশি রান করেছেন, যার মধ্যে দুটো সেঞ্চুরি আছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/VIRAT-KOHLI-VK-25-2026-01-e9805ea1d5188744173892b31738a4e9-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/icc-commits-big-mistake-on-virat-kohlis-no-1-odi-ranking-fans-pointed-out-and-icc-rectified-the-mistake-rdp-2499650.html",
+    "time": "2026-01-16T10:00:21.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ফের মারণ কম্পন মহাসাগরের তলদেশে! ১০ কিমি গভীরের তীব্র ভূকম্প নিয়ে আসছে ভয়াল সুনামি?",
+    "desc": "২০২৫ সাল ছিল ভূমিকম্পময়। ২০২৬ সালও কি তাই হতে চলেছে? অন্তত তেমনই ইঙ্গিত মিলছে। মার্কিন যুক্তরাষ্ট্রে অনুভূত হল ৬.০ মাত্রার শক্তিশালী ভূমিকম্প। মার্কিন যুক্তরাষ্ট্রের ওরেগন উপকূলে এই শক্তিশালী ভূমিকম্প আঘাত হেনেছে। এই সংক্রান্ত তথ্য দিয়েছে 'জার্মান রিসার্চ সেন্টার ফর জিওসায়েন্সেস'!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/earthquake-of-magnitude-6-point-0-jolts-oregon-coast-in-us-on-thursday-night_635491.html ",
+    "time": "2026-01-16T09:52:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "মুম্বইয়ে কর্পোরেশন ভোটে জেতা তেজস্বীর স্বামীকে ফেসবুক লাইভে গুলির পর গুলি! রক্তচরিত্র...",
+    "desc": "তেজস্বীর স্বামী অভিষেক ঘোসালকর ছিলেন ১ নম্বর ওয়ার্ডের প্রাক্তন কর্পোরেটর। ২০২৪ সালের ফেব্রুয়ারি মাসে এক ভয়াবহ ঘটনার সাক্ষী ছিল গোটা দেশ। বোরিভলি-দহিসার এলাকায় রাজনৈতিক উচ্চাকাঙ্ক্ষী হিসেবে পরিচিত মরিস নরোনহা তাঁর নিজ অফিসে অভিষেককে আমন্ত্রণ জানান। সেখানে একটি ফেসবুক লাইভ চলাকালীন মরিস আচমকাই অভিষেককে লক্ষ্য করে গুলি চালান।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/who-is-tejasvee-ghosalkar-bjp-winner-from-dahisar-whose-husband-was-killed-on-facebook-live_635478.html ",
+    "time": "2026-01-16T09:24:13.000Z"
+  },
+  {
     "cat": "World",
     "title": "ট্রাম্পের ভয়ে কাঁটা হয়ে আছে ইরান? না হলে আমেরিকার ভয়ংকর চাপের মুখেই কেন ৮০০ বিক্ষোভকারীর ফাঁসি...",
     "desc": "সত্যিই কি তাই? নিজেদের দেশে ফাঁসি রদ করে দিল ইরান? জীবনযাত্রার ব্যয়বৃদ্ধি ঘিরে ইরানে দেশ জুড়ে শুরু হয়েছে বিক্ষোভ-প্রতিবাদ। তার সূত্রেই দমন-প্রতিরোধ, মৃত্যু। আমেরিকা ইরানের উপর বড় রকম নিষেধাজ্ঞা চাপিয়েছে। এর মধ্যেই আমেরিকার দাবি, তাদের ভয়েই ৮০০ ফাঁসি রদ করে দিল ইরান! সত্যি কি তাই?",
@@ -862,41 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/bengali-folk-singer-debolinaa-nandy-sister-live-on-her-trauma-rmj-2486716.html",
     "time": "2026-01-07T10:58:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'রেজিস্ট্রি হয়নি তাহলে ওটা কী?' দেবলীনা সই-সাবুদের ছবি 'ভাইরাল'! 'আসল' ঘটনা কী? জানালেন দেবলীনার দিদি",
-    "desc": "সম্প্রতি দেবলীনার পরিবার অভিযোগ করেছেন, তাঁর এবং প্রবাহর রেজিস্ট্রি হয়নি। বলা ভাল, করতে দেওয়া হয়নি। তারপরেই সমাজমাধ্যমে একটি ছবি ছড়িয়ে পড়েছে। যেটি দেখে আপাত ভাবে রেজিস্ট্রির ছবিই মনে হচ্ছে। এরপরে ফের শুরু হয়েছে জল্পনা। এবার আরও একবার ফেসবুক লাইভে এলেন দেবলীনার দিদি। জানালেন সত্যি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Rachana-Thumbnail-Design-11-2026-01-e3534ae6e16ee2a24b489b3c76a54ad8-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/bengali-singer-influencer-debolina-nandy-survives-her-attempt-after-facebook-live-video-possible-mental-harassment-from-husband-family-elder-sister-fb-live-rmj-2486771.html",
-    "time": "2026-01-07T10:36:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "এই শীতে গিজার কেনার আগে কোন কোন বিষয় দেখতে হবে? জেনে রাখুন, অনেক টাকা বাঁচাতে পারবেন খুব সহজেই",
-    "desc": "Geyser Buying Tips- গিজার কেনার সময় যদি একটু বিবেচনা করা যায় তা হলে পরে না টাকার ক্ষতি হয়, না প্রতিদিনের ঝামেলা থাকে। অনেক সময় মানুষ তাড়াহুড়ো করে বা শুধু দাম দেখে গিজার কিনে ফেলে এবং কয়েক মাসের মধ্যেই আফসোস করতে শুরু করে। তাই গিজার কেনার আগে কিছু জরুরি বিষয় ভালভাবে বোঝা খুবই প্রয়োজন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1767777011_Geyser-3-2025-12-e7683077bc09c053c739f3e368ad6310-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/technology/how-to-select-best-geyser-for-budget-capacity-electricity-consumption-home-water-heater-tips-transpg-smj-2486579.html",
-    "time": "2026-01-07T10:23:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বিনা কারণে যখন তখন পেটায়! টক্সিক স্ত্রীকে ডিভোর্স দিতে মরিয়া অভিনেতা ধনুষ থানায়...",
-    "desc": "বিনোদন জগতের পরিচিত মুখ অভিনেতা ধনুষ রাজের পারিবারিক বিবাদ এবার প্রকাশ্য এল। স্ত্রী অর্শিতার বিরুদ্ধে মারধর, মানসিক হেনস্থা এবং খুনের হুমকির অভিযোগ এনে পুলিসের দ্বারস্থ হয়েছেন তিনি। বেঙ্গালুরুর গিরিনগর থানায় এই মর্মে একটি এফআইআর (FIR) দায়ের করা হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/kannada-actor-dhanush-raj-files-fir-against-wife-arshita-for-assault_633425.html ",
-    "time": "2026-01-07T09:13:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "সব হুমকি, হুঁশিয়ারি শেষ! বিশ্বকাপে খেলতে চেয়ে ‘সুর নরম’ বাংলাদেশ বোর্ডের! আইসিসি কড়া হতেই জারিজুরি শেষ!",
-    "desc": "মঙ্গলবারের বৈঠক শেষে বিসিসিআই বা বিসিবির পক্ষ থেকে কোনও আনুষ্ঠানিক বিবৃতি দেওয়া হয়নি। এই বৈঠক আয়োজন করে আইসিসি। এর আগে রবিবার বিসিবি আইসিসিকে চিঠি দিয়ে বাংলাদেশের সব ম্যাচ ভারতের বাইরে সরিয়ে নেওয়ার বিষয়টি বিবেচনা করতে অনুরোধ করেছিল।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/jay-shah-2026-01-329ccbcc6ec7c5a1a859eae2374b50a1-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/what-bcb-says-on-icc-communication-regarding-t20-world-cup-smj-2486471.html",
-    "time": "2026-01-07T08:31:11.000Z"
   }
 ];

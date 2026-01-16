@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "RCB propose INR 4.5 crore plan for crowd control at Chinnaswamy, plan to set AI-based cameras for tracking",
+    "desc": "Royal Challengers Bengaluru have taken a major step toward strengthening matchday security by submitting a formal proposal to upgrade surveillance infrastructure at the M. Chinnaswamy Stadium ahead of the IPL 2026 season. The defending champions...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-propose-inr-4-5-crore-plan-for-crowd-control-at-chinnaswamy-plan-to-set-ai-based-cameras-for-live-tracking-2026-01-16-1026199",
+    "time": "2026-01-16T12:28:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "David Warner breaks Virat Kohli's record with century vs Sydney Sixers in BBL",
+    "desc": "David Warner delivered a devastating performance against the Sydney Sixers in the ongoing Big Bash League, continuing his sensational form this season. The Australian opener has been in sublime touch, topping the run charts with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/david-warner-breaks-virat-kohli-s-record-with-century-vs-sydney-sixers-in-bbl-2026-01-16-1026194",
+    "time": "2026-01-16T12:00:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Steve Smith smacks four consecutive sixes, completes century in just 41 balls",
+    "desc": "Steve Smith put on a stunning show in the ongoing Big Bash League, wreaking havoc against city rivals Sydney Thunder at the Sydney Cricket Ground. The star batter went after pacer Ryan Hadley, plundering 32...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/steve-smith-smacks-four-consecutive-sixes-completes-century-in-just-41-balls-2026-01-16-1026190",
+    "time": "2026-01-16T11:33:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Abhishek Nayar clears air with Harleen Deol following retired out incident in WPL 2026",
     "desc": "With the ongoing WPL (Women’s Premier League) 2026 mesmerising fans with some brilliant matches, one of the biggest highlights from the tournament so far has been the retired-out fiasco involving UP Warriorz batter Harleen Deol....",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/aman-mokhade-equals-world-record-with-stellar-performance-against-karnataka-in-vijay-hazare-trophy-2026-01-16-1026110",
     "time": "2026-01-16T03:02:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ottneil Baartman joins elite company, becomes second ever player to take SA20 hat-trick",
-    "desc": "Paarl Royals registered a brilliant victory in their clash against Pretoria Capitals in the ongoing SA20 2025-26. The two sides locked horns at the SuperSport Park, Centurion, on January 15, and the game saw Capitals...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ottneil-baartman-joins-elite-company-becomes-second-ever-player-to-take-sa20-hat-trick-2026-01-16-1026105",
-    "time": "2026-01-16T01:25:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vidarbha beat Karnataka to enter Vijay Hazare final; Aman Mokhade, Darshan Nalkande steal show",
-    "desc": "Aman Mokhade gave himself and Vidarbha the perfect pre-birthday present with a match-winning century as they defeated defending champions Karnataka to reach their second consecutive Vijay Hazare Trophy final. Vidarbha will face the winner of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vidarbha-beat-karnataka-to-enter-vijay-hazare-final-aman-mokhade-darshan-nalkande-steal-show-2026-01-15-1026097",
-    "time": "2026-01-15T18:05:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nat Sciver-Brunt equals major WPL record before Harleen Deol hands UP Warriorz maiden WPL 2026 win",
-    "desc": "England international Nat Sciver-Brunt is in phenomenal form in the ongoing WPL 2026. After missing the last game, owing to a minor injury, the veteran returned to the squad and scored 63 runs off 43...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nat-sciver-brunt-equals-major-wpl-record-before-harleen-deol-hands-up-warriorz-maiden-wpl-2026-win-2026-01-15-1026091",
-    "time": "2026-01-15T17:40:34.000Z"
   }
 ];
