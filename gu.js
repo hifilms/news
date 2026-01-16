@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "કેન્દ્ર સરકારના કર્મચારીઓ માટે જબરદસ્ત છે આ યોજના, સરકાર પુરૂ કરશે પોતાના ઘરનું સપનું !",
+    "desc": "આ સુવીધા કેન્દ્ર સરકારના કાયમી કર્મચારીઓ માટે ઉપલબ્ધ છે. ચોક્કસ શરતો દ્વારા કામચલાઉ કર્મચારીઓ પણ આ યોજનાનો લાભ લઈ શકે છે. જો કે, કેન્દ્ર સરકારના કર્મચારીએ ઓછામાં ઓછા પાંચ વર્ષ સરકારી સેવા પૂર્ણ કરી હોય તે જરૂરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/this-scheme-is-great-for-central-government-employees-the-government-will-fulfill-their-dream-of-owning-a-house-461881 ",
+    "time": "2026-01-16T13:32:50.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "એવી જીત કે રચ્યો ઈતિહાસ; મુંબઈ, પુણે, નાગપુર... દરેક શહેરમાં ભાજપનો લહેરાયો ઝંડો, કોને મળશે જીતનો જશ!",
     "desc": "BMCથી લઈને નાગપુર સુધી ભાજપને ભવ્ય જીત મળી છે. આ રીતે ભાજપ સ્થાનિક સ્વરાજ્યની ચૂંટણીમાં 'સમૃદ્ધિ એક્સપ્રેસવે' પર તેજ ગતિએ દોડી છે, જ્યારે પ્રથમ વખત ઠાકરે બ્રધર્સનું વર્ચસ્વ BMCમાંથી ખતમ થઈ રહ્યું છે. એટલું જ નહીં, પુણે સહિત અન્ય ઘણા શહેરોમાં પણ ભાજપે પોતાના પ્રદર્શનથી સૌને ચોંકાવી દીધા છે.",
@@ -477,24 +486,6 @@ const newsData_gu = [
     "time": "2026-01-13T12:19:25.000Z"
   },
   {
-    "cat": "Business",
-    "title": "પેન્શન માટે જરૂરી છે આ સર્ટિફિકેટ, હવે ઘરે બેઠા મફતમાં કરી શકો છો સબમિટ",
-    "desc": "પરિપત્ર મુજબ, આ સુવિધા પેન્શનરો માટે શરૂ કરવામાં આવી છે, જેમને ઘરેથી બેંક કે EPFO ​​ઓફિસ જવામાં મુશ્કેલીનો સામનો કરવો પડે છે. જે કર્મચારીઓ સ્માર્ટફોન કે ટેકનોલોજીનો વારંવાર ઉપયોગ કરતા નથી તેમને પણ લાભ મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/this-certificate-is-required-for-pension-now-you-can-submit-it-for-free-from-home-461586 ",
-    "time": "2026-01-13T12:17:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "દુબઈ ભુલી જાઓ... આ દેશમાં મળી રહ્યું છે 200 રૂપિયાથી ઓછામાં 1 ગ્રામ સોનું, નામ જાણીને ચોંકી જશો",
-    "desc": "ભારતમાં સોનાની કિંમત 1.40 લાખ રૂપિયાને વટાવી ગઈ છે. જો કે, દુબઈ હંમેશા તેના સસ્તા સોના માટે જાણીતું રહ્યું છે. જો કે, એક એવો દેશ છે જ્યાં 1 ગ્રામ સોનાની કિંમત ચા કે કોફીના કપ જેટલી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-price-in-venezuela-this-country-beats-dubai-and-india-by-a-huge-margin-461581 ",
-    "time": "2026-01-13T11:25:37.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "14 જ નહીં, 15 જાન્યુઆરીએ પણ રહેશે શાળાઓમાં રજા, જાણો શું છે કારણ",
     "desc": "14 કે 15 જાન્યુઆરી મકરસંક્રાંતિ ક્યારે છે ? આ પ્રશ્ન દરેકને પરેશાન કરી રહ્યો છે. જો તમે પણ આ અંગે મૂંઝવણમાં છો અને જાણવા માંગતા હો કે મકરસંક્રાંતિ કયા દિવસે ઉજવવામાં આવશે, તો આ લેખમાં જાણીશું.",
@@ -727,14 +718,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/this-3-hour-horror-film-created-history-by-breaking-records-on-the-first-day-know-this-461039 ",
     "time": "2026-01-09T14:33:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘બચ્ચન મારા પિતા છે…’, પ્રભાસની ‘ધ રાજા સાબ’ ઓફર થઈ તો અભિનેત્રીએ આપ્યો આ જવાબ",
-    "desc": "\"ધ રાજા સાબ\" માં અભિનેત્રી રિદ્ધિ કુમાર પણ છે, જે પહેલી વાર પ્રભાસ સાથે સ્ક્રીન સ્પેસ શેર કરી રહી છે. ફિલ્મની રિલીઝ પહેલા અભિનેત્રીએ ખુલાસો કર્યો કે જ્યારે તેને આ ભૂમિકા ઓફર કરવામાં આવી ત્યારે તે એક કૌભાંડ જેવું લાગ્યું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/riddhi-kumar-steals-the-spotlight-as-monica-opposite-rebel-star-prabhas-460983 ",
-    "time": "2026-01-09T09:00:00.000Z"
   }
 ];

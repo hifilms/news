@@ -1,7 +1,34 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "RCB propose INR 4.5 crore plan for crowd control at Chinnaswamy, plan to set AI-based cameras for tracking",
+    "title": "FIFA World Cup 2026 turns nightmare for fans after USA freezes visa of 75 countries",
+    "desc": "Fans from multiple countries may face major hurdles in attending the 2026 FIFA World Cup in the United States due to a newly imposed visa freeze affecting 75 nations. The pause in visa processing, effective...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-2026-turns-nightmare-for-fans-after-usa-freezes-visa-of-75-countries-2026-01-16-1026212",
+    "time": "2026-01-16T15:06:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB-W vs GG-W WPL Match Score Live: Benglauru are 4 down inside powerplay, shocking start",
+    "desc": "Royal Challengers Bengaluru have stormed into WPL 2026 with two contrasting victories, signalling a strong start to the season. Their campaign began with a last-ball thriller against Mumbai Indians, followed by a dominant win over...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-w-vs-gg-w-wpl-match-score-live-unbeaten-bengaluru-challenges-gujarat-as-winner-to-take-top-spot-2026-01-16-1026207",
+    "time": "2026-01-16T13:39:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Steve Smith denies single to Babar Azam for his slow knock, Pakistan international left frustrated: Watch",
+    "desc": "Steve Smith and Babar Azam were at the heart of a dramatic and occasionally awkward situation as Sydney Sixers defeated Sydney Thunder by five wickets in the ongoing Big Bash League at the Sydney Cricket...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/steve-smith-denies-single-to-babar-azam-for-his-slow-knock-pakistan-international-left-frustrated-watch-2026-01-16-1026204",
+    "time": "2026-01-16T13:15:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB propose RS 4.5 crore plan for crowd control at Chinnaswamy, plan to set AI-based cameras for tracking",
     "desc": "Royal Challengers Bengaluru have taken a major step toward strengthening matchday security by submitting a formal proposal to upgrade surveillance infrastructure at the M. Chinnaswamy Stadium ahead of the IPL 2026 season. The defending champions...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ian-harvey-appointed-as-nepal-s-bowling-consultant-ahead-of-t20-world-cup-2026-01-16-1026147",
     "time": "2026-01-16T07:10:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh cricketers call off boycott, BPL expected to resume after delay",
-    "desc": "In a major development, the Bangladesh cricketers have withdrawn their boycott of the BPL (Bangladesh Premier League) after the BCB (Bangladesh Cricket Board) and the CWAB (Cricketers' Welfare Association of Bangladesh) reportedly resolved the matter...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-cricketers-call-off-boycott-bpl-expected-to-resume-after-delay-2026-01-16-1026140",
-    "time": "2026-01-16T05:52:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Kaur reflects on Harleen Deol's performance after latter's recent retired out incident",
-    "desc": "After a tough start to the ongoing WPL (Women’s Premier League) 2026 season, UP Warriorz finally managed to register a win. The side took on Mumbai Indians women at the Dr DY Patil Sports Academy...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-reflects-on-harleen-deol-s-performance-after-latter-s-recent-retired-out-incident-2026-01-16-1026117",
-    "time": "2026-01-16T04:08:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aman Mokhade equals world record with stellar performance against Karnataka in Vijay Hazare Trophy",
-    "desc": "Vidarbha opener Aman Mokhade has been in sensational form in the ongoing Vijay Hazare Trophy 2025-26. Through his brilliance in the tournament, Mokhade has gone on to equal the record for the quickest to reach...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/aman-mokhade-equals-world-record-with-stellar-performance-against-karnataka-in-vijay-hazare-trophy-2026-01-16-1026110",
-    "time": "2026-01-16T03:02:49.000Z"
   }
 ];

@@ -1,5 +1,50 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "স্বামীর বন্ধুর সঙ্গেই প্রেমে মজেছেন আরতি, বীরেন্দ্র সেহওয়াগের ডিভোর্সের গোপন কাহিনিতে জড়িয়ে বিতর্কিত নাম",
+    "desc": "আরতি আহলাওয়াত শেওয়াগের সঙ্গে প্রতারণা করছেন এবং বীরেন্দ্র শেওয়াগের ঘনিষ্ঠ বন্ধুদের একজনের সঙ্গে সম্পর্কে জড়িয়ে পড়েছেন। তবে, ২০২৬ সালের জানুয়ারিতে পাওয়া সর্বশেষ যাচাইকৃত প্রতিবেদন অনুসারে, এই দাবিগুলিকে সমর্থন করার জন্য কোনও বিশ্বাসযোগ্য প্রমাণ বা নিশ্চিত খবর নেই।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Virendra-Shewag-and-Aarti-6-2026-01-dc1a23af165742bd7982f146ca865c8c-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/love-is-love-virender-sehwag-s-wife-had-affair-with-his-best-friend-read-to-know-the-truth-dd-2498971.html",
+    "time": "2026-01-16T15:19:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "সচিন,সৌরভ থেকে ধোনি কিংবা সূর্যকুমার যাদব! যে ১০ ভারতীয় তারকা ক্রিকেটার কখনও অনূর্ধ্ব-১৯ বিশ্বকাপ খেলেননি",
+    "desc": "অনূর্ধ্ব-১৯ বিশ্বকাপ সাধারণত ভারতীয় ক্রিকেটে সাফল্যের প্রথম সিঁড়ি হিসেবে ধরা হয়। কিন্তু এমন অনেক কিংবদন্তি ক্রিকেটার রয়েছেন, যাঁরা এই টুর্নামেন্ট না খেলেও বিশ্ব ক্রিকেটে রাজত্ব করেছেন। এই তালিকায় সচিন, গাঙ্গুলি, ধোনি, দ্রাবিড়, সূর্যকুমার যাদব ও হার্দিক পাণ্ডিয়ার মতো বড় নাম রয়েছে, যাঁরা কখনও অনূর্ধ্ব-১৯ বিশ্বকাপ খেলেননি। তবুও নিজেদের কঠোর পরিশ্রমের জোরে তাঁরা টিম ইন্ডিয়ার ‘ম্যাচ উইনার’ হয়ে উঠেছেন।এই প্রবন্ধে আমরা এমন ১০ জন ভারতীয় ক্রিকেটারের কথা জানব, যাঁরা জুনিয়র স্তরে বিশ্বকাপ না খেলেও আন্তর্জাতিক ক্রিকেটে নিজেদের আলাদা পরিচয় গড়ে তুলেছেন এবং আজ কোটি কোটি ভক্তের হৃদয়ে রাজত্ব করছেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1768574896_ms-dhoni-surya-hardik-pandya-2026-01-85cfc6f8fa2b97a3219c172a4f37dca7-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/10-indian-cricketers-ms-dhoni-sachin-tendulkar-sourav-ganguyl-hardik-pandya-suryakumar-yadav-who-never-played-under-19-world-cup-smc-2500286.html",
+    "time": "2026-01-16T15:09:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "৮ লক্ষ টাকা থেকে ১৫ লক্ষ টাকা পর্যন্ত করযোগ্য আয়! পুরনো আয়কর ব্যবস্থা ভাল না কি নতুন?",
+    "desc": "নতুন আয়কর ব্যবস্থা মধ্যবিত্ত শ্রেণীর জন্য কর উল্লেখযোগ্যভাবে হ্রাস করেছে, যার ফলে তাদের ভোগ, সঞ্চয় এবং বিনিয়োগের জন্য আরও অর্থ হাতে রাখার সুযোগ রয়েছে। তবে, কোন ব্যবস্থাটি লাভজনক তা শেষ পর্যন্ত নির্ভর করে একজন ব্যক্তির আর্থিক পরিস্থিতি এবং তার জন্য উপলব্ধ ছাড়ের উপরে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/income-tax-2026-01-4494452db8c67ce461f6364936f804c1-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/new-income-tax-system-reveals-tax-reduction-for-middle-class-rmj-aa-ws-l-2499629.html",
+    "time": "2026-01-16T14:22:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "অনির্বাণের হয়ে ফেডারেশনের কাছে ক্ষমা চাইলেন দেব! ‘ব্যান’ তুলতে মুখ্যমন্ত্রীকে আর্জি মেগাস্টারের...",
+    "desc": "সম্প্রতি রটে গিয়েছিল দেবের নতুন ছবি ‘দেশু ৭’-এ দেখা যাবে অনির্বাণকে। তবে শুক্রবার দেব জানালেন, খবরটি সত্যি নয়। দেব এদিন ফেডারেশনের বিরুদ্ধে না গিয়ে বরং তাদের কাছে অনির্বাণের জন্য অনুরোধ জানান। শুধু তাই নয়, বিষয়টি খতিয়ে দেখার জন্য তিনি মুখ্যমন্ত্রী মমতা বন্দ্যোপাধ্যায়, অভিষেক বন্দ্যোপাধ্যায় এবং স্বরূপ ও অরূপ বিশ্বাসের কাছেও অনুরোধ জানিয়েছেন মেগাস্টার।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/dev-apologizes-to-federation-for-anirban-bhattacharya-requests-cm-mamata-banerjee-to-intervene_635591.html ",
+    "time": "2026-01-16T13:28:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "এক সময়ে তাঁর ভয়ে কাঁপত গোটা মুম্বই!  সেই গ্যাংস্টার অরুণ গাউলির দুই কন্যাই হারলেন BMC পুরভোটে!",
+    "desc": "এক সময়ে তিনি ছিলেন গ্যাংস্টার পরবর্তীতে তিনিই হন রাজনীতিবিদ। কিন্তু, বিএমসি নির্বাচনে সেই 'প্রভাবশালী' রাজনীতিবিদ অরুন গৌলির দুই মেয়েকেই হার স্বীকার করতে হয়েছে। গৌলির দুই মেয়েই তার বাবার তৈরি দল অখিল ভারতীয় সেনার হয়ে নির্বাচনে দাঁড়িয়েছিলেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/9044-2026-01-4924df1f4c276f9e68bdc1a1fd001b44-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/once-a-gangstar-becomes-politicians-sister-faced-defeated-in-bmc-polls-smc-2500096.html",
+    "time": "2026-01-16T13:10:22.000Z"
+  },
+  {
     "cat": "Business",
     "title": "কোন ব্যাঙ্কে পার্সোনাল লোন সবচেয়ে 'সস্তা'? সিদ্ধান্ত নেওয়ার আগে বিভিন্ন সুদের হার তুলনা করে দেখুন",
     "desc": "জরুরি আর্থিক প্রয়োজন মেটাতে বর্তমানে পার্সোনাল লোন অন্যতম জনপ্রিয় বিকল্প। তবে জামানত ছাড়াই এই ঋণ পাওয়া গেলেও, ব্যাঙ্কভেদে সুদের হার, EMI এবং অন্যান্য শর্তে বড়সড় পার্থক্য থাকে। তাই লোন নেওয়ার আগে কোন ব্যাঙ্কে কত সুদে পার্সোনাল লোন পাওয়া যাচ্ছে, তা জেনে নেওয়া অত্যন্ত জরুরি। SBI, HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, IDFC First Bank, Bank of Baroda, Yes Bank ও Punjab National Bank–এ পার্সোনাল লোনের সুদ ও শর্তে পার্থক্য রয়েছে। জেনে নিন কোন ব্যাঙ্কে পার্সোনাল লোনে ইন্টারেস্ট কত।",
@@ -43,15 +88,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/iran-halted-800-executions-of-protestors-after-trumps-warning-claims-usa-iran-unrest-irans-economic-protests_635471.html ",
     "time": "2026-01-16T08:54:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "স্বামীর বন্ধুর সঙ্গেই প্রেমে মজেছেন আরতি, বীরেন্দ্র সেহওয়াগের ডিভোর্সের গোপন কাহিনিতে জড়িয়ে বিতর্কিত নাম",
-    "desc": "আরতি আহলাওয়াত শেওয়াগের সঙ্গে প্রতারণা করছেন এবং বীরেন্দ্র শেওয়াগের ঘনিষ্ঠ বন্ধুদের একজনের সঙ্গে সম্পর্কে জড়িয়ে পড়েছেন। তবে, ২০২৬ সালের জানুয়ারিতে পাওয়া সর্বশেষ যাচাইকৃত প্রতিবেদন অনুসারে, এই দাবিগুলিকে সমর্থন করার জন্য কোনও বিশ্বাসযোগ্য প্রমাণ বা নিশ্চিত খবর নেই।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Virendra-Shewag-and-Aarti-6-2026-01-dc1a23af165742bd7982f146ca865c8c-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/love-is-love-virender-sehwag-s-wife-had-affair-with-his-best-friend-read-to-know-the-truth-dd-2498971.html",
-    "time": "2026-01-16T08:42:24.000Z"
   },
   {
     "cat": "Politics",
@@ -351,15 +387,6 @@ const newsData_bn = [
     "time": "2026-01-14T14:40:11.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "SIR আতঙ্ক আরও বাড়ল, কমিশনের ‘সামান্য’ সন্দেহ থাকলেই ভোটার তালিকায় নাম বাদ! সুপ্রিম কোর্ট থেকে বিগ ব্রেকিং...",
-    "desc": "কমিশনের পক্ষে বর্ষীয়ান আইনজীবী রাকেশ দ্বিবেদী সওয়াল করেন, কোনও বিদেশি নাগরিকের নাম ভোটার তালিকায় থাকা স্পষ্টতই সংবিধান-বিরোধী। তিনি মনে করিয়ে দেন, রাষ্ট্রপতি, প্রধানমন্ত্রী থেকে শুরু করে সুপ্রিম কোর্ট ও হাইকোর্টের বিচারক— সব শীর্ষ পদের জন্যই ভারতীয় নাগরিক হওয়া বাধ্যতামূলক। গণপরিষদ থেকেই নির্বাচন কমিশনকে এই দায়িত্ব দেওয়া হয়েছে যাতে শুধুমাত্র প্রকৃত ভারতীয়রা ভোট দিতে পারেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/in-sir-case-if-there-is-slighest-of-doubt-regarding-any-case-or-identity-proof-he-or-she-will-not-get-citizenship-stated-by-election-commission-in-supreme-court_635023.html ",
-    "time": "2026-01-14T12:39:48.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "মাঝ রাস্তায় সৌমিত্রের 'টুইস্ট'! এখনও মেয়েদের মনে ঝড় তোলে, একবার দেখে নিন 'এভারগ্রিন সং'",
     "desc": "তিন ভুবনের পারে (Beyond Three Worlds) সিনেমাটি ১৯৬০-এর দশকের কলকাতার এক বেকার, উচ্ছৃঙ্খল যুবক মান্টু (সৌমিত্র চট্টোপাধ্যায়) এর গল্প বলে, যিনি তাঁর বন্ধুদের সঙ্গে আড্ডা দেন, তাঁর পরিবারের কোনও কথা শোনেন না৷ দায়িত্ব নেওয়ার কোনও ইচ্ছেই যার নেই৷ যতক্ষণ না তিনি শিক্ষিকা সরসী (তনুজা) এর প্রেমে পড়েন, যার ফলে তিনি তাঁর পথ পরিবর্তন করেন৷ পড়াশোনা করেন এবং জীবনে উদ্দেশ্য খুঁজে পান। প্রেম এবং বুদ্ধি দ্বারা সংস্কারিত একটি ক্লাসিক \"স্ট্রিট লোফার\" প্রদর্শন করে, \"জীবন কি পাবো না\" গানের মাধ্যমে তার রূপান্তর চিহ্নিত করে। তিন ভুবনের পারে হল একটি বাংলা সিনেমা, যা ১৯৬৯ সালে মুক্তি পায়৷ সমরেশ বসুর উপন্যাস থেকে অনুপ্রাণিত এই ছবি৷ মান্না দে-র গাওয়া \"হয়তো তোমার জন্য\" এবং \"জীবন কি পাবো না\" গানগুলি এখনও বাঙালি তরুণদের মধ্যে খুব বিখ্যাত। ছবিটি বাংলা সিনেমার একটি বড় হিট ছিল।",
@@ -448,15 +475,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/business/west-medinipur-news-sugarcane-jaggery-demand-increased-before-makar-sankranti-farmers-happy-to-get-huge-profit-l18-local18-2493423.html",
     "time": "2026-01-13T11:51:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "বাংলাদেশে ২৪ ঘণ্টায় দুই হিন্দুর মৃত্যু! চট্টগ্রামে অটোচালক সমীর দাসকে পিটিয়ে-কুপিয়ে মারল উগ্রপন্থীরা...",
-    "desc": "মাত্র ২৪ ঘণ্টার ব্যবধানে পাবনা ও চট্টগ্রামে দুই হিন্দু ব্যক্তির হিংসাত্মক ও সন্দেহজনক মৃত্যুতে ওপার বাংলা জুড়ে নতুন করে আতঙ্ক ছড়িয়েছে। চট্টগ্রামের দাগনভূঁইঞায় ২৮ বছর বয়সী তরুণ সমীর দাসকে রবিবার রাতে পিটিয়ে মারে একদল উগ্রপন্থী।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/bangladesh-hindu-minority-attacks-proloy-chaki-samir-das-death_634653.html ",
-    "time": "2026-01-13T10:16:59.000Z"
   },
   {
     "cat": "Politics",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/purulia-success-story-inspired-by-the-story-of-tea-the-self-reliance-story-of-a-highly-educated-young-woman-from-raghunathpur-purulia-sal-l18-local18-2486036.html",
     "time": "2026-01-07T15:22:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "আপনার ল্যাপটপেও অন করা আছে এমন সেটিং? তাহলেই কিন্তু ঘটে যেতে পারে বিপদ! হ্যাকারদের খপ্পরে পড়তে পারেন আপনি!",
-    "desc": "আপনি যদি উইন্ডোজ ল্যাপটপ ব্যবহার করেন, তাহলে কিছু সেটিংস নিয়ে অবশ্যই সতর্ক থাকতে হবে। ইউজার এক্সপেরিয়েন্সকে পার্সোনালাইজড ও উন্নত করার অজুহাতে এই সেটিংসগুলো আপনার ব্যক্তিগত ডেটা সংগ্রহ করে। আপনি যদি এগুলো বন্ধ না করেন, তাহলে আপনার ল্যাপটপ বা পিসি লাগাতারভাবে আপনার তথ্য সংগ্রহ করতে থাকবে, যার ফলে নজরদারি বা ডেটা গোপনীয়তা লঙ্ঘনের ঝুঁকি বেড়ে যেতে পারে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1767782297_1767685826_laptop-11-2026-01-41a01647762799b5c68dbfcff4241e5f-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/technology/how-to-be-safe-while-using-laptop-if-these-setting-is-on-hacker-can-spy-on-you-alert-for-windows-know-more-details-about-it-smc-2486846.html",
-    "time": "2026-01-07T12:19:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'প্রবাহ নন্দীর ইনারওয়্যারটাও আমার বোন কিনে এনে দেয়, ওর তিনগুণ রোজগার করে ...' ফেসবুক লাইভে এসে বিস্ফোরক দেবলীনা নন্দীর দিদি",
-    "desc": "সংগীতশিল্পী দেবলীনা নন্দীর জন্য এখন প্রার্থনা করছে গোটা নেটপাড়া। নিজের জীবন নিয়ে চরম সিদ্ধান্ত নিয়ে ফেলেছিলেন তিনি। তারপর থেকেই সমাজমাধ্যম দ্বিধাবিভক্ত। এবার সোশ্যাল মিডিয়া লাইভে এলেন দেবলীনার দিদি। তিনি জানান, সোশ্যাল মিডিয়ায় যে ধরনের কুৎসা করা হচ্ছে দেবলীনাকে নিয়ে, তা দেখে তিনি আরও অসুস্থ হয়ে পড়ছেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-07-at-3.27.12-PM-2026-01-cae78c6b181ae0c3589c20c833d0d538-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/bengali-folk-singer-debolinaa-nandy-sister-live-on-her-trauma-rmj-2486716.html",
-    "time": "2026-01-07T10:58:19.000Z"
   }
 ];
