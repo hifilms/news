@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "હોમ લોન માથાનો દુ:ખાવો બની છે ? આ નાનકડું કામ કરો અને 50 લાખની લોન પર બચાવો 18 લાખ રૂપિયા!",
+    "desc": "મધ્યમવર્ગના લોકો માટે ઘર ખરીદવું એ એક મોટું સપનું હોય છે. પરંતુ ઘર માટે જ્યારે હોમ લોન લેવાય છે ત્યારે તેના હપ્તા ભરતા ભરતા કમર તૂટી જાય છે. પરંતુ એક સ્માર્ટ નિર્ણય તમારું ભવિષ્ય બનાવી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/how-a-simple-prepayment-trick-can-help-you-saving-lots-of-money-check-this-home-loan-thing-461985 ",
+    "time": "2026-01-17T10:49:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "30 ગણાથી વધુ સબસ્ક્રિપ્શન, GMP દેખાડે છે નફો, IPO પર રોકાણકારોનું ભારે રોકાણ",
+    "desc": "આ IPO 13 જાન્યુઆરીના રોજ ખુલ્યો હતો અને 16 જાન્યુઆરીના રોજ એટલે કે ગઈકાલે બંધ થઈ ગયો છે. IPO પર ગ્રે માર્કેટમાં પણ તેજી જોવા મળી રહી છે, જ્યારે આઈપીના લિસ્ટિંગ પર રોકાણકારોને સારો નફો થવાની પણ આશા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/more-than-30-times-subscription-gmp-shows-profit-investors-invest-heavily-in-ipo-461983 ",
+    "time": "2026-01-17T10:32:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "અજિંક્ય રહાણેએ અચાનક લીધો મોટો નિર્ણય, લાંબા સમયથી ટીમ ઈન્ડિયાથી છે બહાર",
+    "desc": "હૈદરાબાદ સામેની રણજી ટ્રોફી મેચ માટે 17 જાન્યુઆરીએ મુંબઈ ટીમની પસંદગી થવાની છે. ત્યારે રહાણેએ રણજી ટ્રોફી મેચોમાંથી પોતાનું નામ પાછું ખેંચી લીધું છે. ત્યારે આ લેખમાં જાણીશું કે, અજિંક્ય રહાણેએ અચાનક કેમ આ નિર્ણય લીધો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ajinkya-rahane-opts-out-of-mumbai-remaining-ranji-trophy-matches-know-reason-461980 ",
+    "time": "2026-01-17T10:05:21.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "WhatsApp કરવા જઈ રહ્યું છે મોટો ફેરફાર, Youtube જેવું આવશે ફીચર",
+    "desc": "WhatsApp વધુ એક મોટો ફેરફાર કરવાની તૈયારી કરી રહ્યું છે. મેસેજિંગ એપ ટૂંક સમયમાં એક ફીચર એડ કરશે, જે માતા-પિતાની ચિંતાઓને દૂર કરશે. આ નવી અપડેટ માતા-પિતાને તેમના બાળકોના WhatsApp એકાઉન્ટ્સ પર વધુ કંટ્રોલ આપશે, જેના કારણે તેઓ તેમની ઓનલાઈન સુરક્ષા અને પ્રાયવસીને વધુ સારી રીતે મેનેજ કરી શકશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/whatsapp-bringing-parental-control-features-to-safeguard-kids-461977 ",
+    "time": "2026-01-17T09:37:37.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "&amp;#039;ગૌતમ ગંભીરે રોહિત શર્માને ODI કેપ્ટન પદેથી હટાવ્યો...&amp;#039; આ ક્રિકેટરે લગાવ્યો મોટો આરોપ",
     "desc": "ભારતના પૂર્વ ક્રિકેટર મનોજ તિવારીએ કોચ ગૌતમ ગંભીર પર મોટો આરોપ લગાવ્યો છે. તેનું માનવું છે કે જો શુભમન ગિલને કેપ્ટન બનાવવો જ હતો તો તે તબક્કવાર થવું જોઈતું હતું, રોહિત શર્માનો કેપ્ટન તરીકે રેકોર્ડ સારો હોવા છતાં અચાનક કેપ્ટન પદ ગિલનું સોંપવું એ આશ્ચર્યજનક હતું.",
@@ -252,15 +288,6 @@ const newsData_gu = [
     "time": "2026-01-15T15:24:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "બીએમસીમાં બની શકે છે ભાજપની સરકાર, 151 બેઠકોનું અનુમાન; જાણો ઠાકરેની સ્થિતિ",
-    "desc": "બૃહન્મુંબઈ મહાનગરપાલિકા (BMC) સહિત 29 મહાનગરપાલિકાઓ માટે ગુરુવારે સાંજે 5:30 વાગ્યે મતદાન પૂર્ણ થયું હતું. હવે એક્ઝિટ પોલના આંકડા સામે આવવા લાગ્યા છે. જાણો મુંબઈમાં કોનું પલ્લું ભારે રહી શકે છે. બીએમસી એક્ઝિટ પોલ અનુસાર, મુંબઈ બીએમસી ચૂંટણીમાં ભાજપ ગઠબંધન સરકાર બનાવે તેવી શક્યતા છે. ભાજપ ગઠબંધનને 131-151 બેઠકો મળવાનો અંદાજ છે, જ્યારે ઠાકરે બંધુઓની શિવસેના અને મનસેને 58-68 બેઠકો મળવાની ધારણા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/bmc-exit-poll-election-results-2026-mumbai-shivsena-bjp-congress-mahayuti-uddhav-raj-thackrey-seats-461763 ",
-    "time": "2026-01-15T14:11:17.000Z"
-  },
-  {
     "cat": "Business",
     "title": "ટ્રમ્પને લાગશે મોટો ઝટકો! દુનિયાની સૌથી મોટી ટ્રેડ ડીલ કરવા જઈ રહ્યું છે ભારત, વેપાર માટે એકસાથે ખુલશે 27 દેશોના દરવાજા",
     "desc": "અમેરિકા તરફથી ટ્રેડ ડીલ માટે ક્યારેક 'હા' તો ક્યારેક 'ના' જેવી સ્થિતિ બનેલી છે. અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ ટ્રેડ ડીલ પર પોતાની મનમાની ઈચ્છી રહ્યા હતા, પરંતુ જ્યારે ભારત સામે તેમની ચાલ નિષ્ફળ ગઈ, ત્યારે તેમણે અધવચ્ચે જ ટ્રેડ ડીલ અટકાવી દીધી હતી.",
@@ -403,24 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-price-prediction-in-2026-gold-prices-are-expected-to-fall-in-a-few-months-find-out-what-the-experts-say-461680 ",
     "time": "2026-01-14T15:03:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "60% થઈ જશે કેન્દ્રીય કર્મચારીઓનો DA, 8મા પગાર પંચ પર શું છે લેટેસ્ટ રિપોર્ટ?",
-    "desc": "એક્સપર્ટ માને છે કે આ ડીએમાં વધારો ભવિષ્યમાં 8મા પગાર પંચ હેઠળ પગાર વધારાને વધુ અસરકારક બનાવી શકે છે. મહત્વનું છે કે, નવા પગાર પંચ લાગુ થતાંની સાથે જ, પેન્શનરો માટે ડીએ અને ડીઆર શૂન્ય (0%) પર ફરીથી સેટ કરવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/da-of-central-employees-will-increase-to-60-percent-what-is-the-latest-report-on-the-8th-pay-commission-461646 ",
-    "time": "2026-01-14T06:34:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "20 જાન્યુઆરીએ ખુલી રહ્યો છે વધુ એક મેઈનબોર્ડ IPO, પ્રાઇસ બેન્ડ છે 124 રૂપિયા, જાણો અન્ય ડિટેલ",
-    "desc": "19 જાન્યુઆરીએ એન્કર રોકાણકારોને શેર ફાળવવામાં આવશે. આ IPOમાં એક લોટમાં 120 શેર હશે, અને રિટેલ રોકાણકારોએ ઓછામાં ઓછા એક લોટ માટે અરજી કરવી પડશે. 10 ટકા શેર રિટેલ રોકાણકારો માટે, 15% NII રોકાણકારો માટે અને 75% QIB રોકાણકારો માટે અનામત રાખવામાં આવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/another-mainboard-ipo-is-opening-on-january-20-price-band-is-rs-124-know-other-details-461641 ",
-    "time": "2026-01-14T05:42:20.000Z"
   },
   {
     "cat": "Entertainment",
@@ -585,15 +594,6 @@ const newsData_gu = [
     "time": "2026-01-11T09:49:16.000Z"
   },
   {
-    "cat": "World",
-    "title": "દુનિયા પર આવશે મોટું સંકટ! શું વર્ષ 2026 માનવ ઇતિહાસનું સૌથી ભયાનક વર્ષ સાબિત થશે?",
-    "desc": "બાબા વેંગાની આ વર્ષ 2026 માટેની ભવિષ્યવાણીઓ દુનિયામાં મોટા ઉલટફેર અને ગંભીર જોખમો તરફ ઈશારો કરી રહી છે. આ દાવાઓ મુજબ, આ વર્ષ તણાવ અને પડકારોથી ભરેલું હોઈ શકે છે, જેની અસર વૈશ્વિક રાજકારણ, પર્યાવરણીય સંતુલન અને ઝડપથી બદલાતી ટેકનોલોજી પર ઊંડી જોવા મળી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/baba-vanga-predictions-2026-a-major-crisis-will-hit-the-world-these-were-baba-vangas-terrifying-predictions-for-2026-461275 ",
-    "time": "2026-01-11T06:58:26.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "X પર હવે નહીં જોવા મળે અશ્લીલ કન્ટેન્ટ: સરકારની કડકાઈ બાદ 600થી વધુ એકાઉન્ટ્સ પર હંટર",
     "desc": "સોશિયલ મીડિયા પ્લેટફોર્મ X (અગાઉનું ટ્વિટર) એ અશ્લીલ અને વાંધાજનક સામગ્રીના મુદ્દે પોતાની ભૂલ સ્વીકારી લીધી છે. સરકારી સૂત્રોના જણાવ્યા અનુસાર, X એ ભારત સરકારને ખાતરી આપી છે કે તે હવેથી દેશના કાયદા મુજબ જ કામ કરશે.",
@@ -664,14 +664,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/without-doing-any-film-this-person-is-the-richest-man-in-bollywood-net-worth-is-133140000000-461065 ",
     "time": "2026-01-10T03:41:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "3 કલાક 10 મિનિટની આ ભયાનક ફિલ્મ, જેણે પહેલા દિવસે રેકોર્ડ તોડ કમાણી કરી રચ્યો ઇતિહાસ, &amp;#039;ધુરંધર&amp;#039;નો ઘમંડ મિનિટોમાં તૂટ્યો, જાણો",
-    "desc": "2026ની પહેલી બ્લોકબસ્ટર ફિલ્મની શોધમાં હતું. \"21\" ને મળેલા નબળા પ્રતિસાદ પછી, લોકોને પ્રભાસની હોરર કોમેડી \"ધ રાજા સાબ\" માટે ઘણી આશાઓ હતી. આ ફિલ્મ 9 જાન્યુઆરીએ વિશ્વભરમાં રિલીઝ થઈ હતી. ફિલ્મની જબરદસ્ત લોકપ્રિયતાને જોતાં, એવું અનુમાન કરવામાં આવ્યું હતું કે તે બોક્સ ઓફિસ પર એટલી બધી કમાણી કરશે કે તે \"ધુરંધર\" નો રેકોર્ડ મિનિટોમાં તોડી શકે છે. બરાબર એવું જ થયું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/this-3-hour-horror-film-created-history-by-breaking-records-on-the-first-day-know-this-461039 ",
-    "time": "2026-01-09T14:33:45.000Z"
   }
 ];

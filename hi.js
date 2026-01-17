@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Italy announce squad for maiden T20 World Cup 2026, former South Africa international picked",
+    "desc": "Italy have announced their 15-member squad for the upcoming T20 World Cup 2026, starting February 7. The Azzuris will open their maiden campaign with a match against Bangladesh on February 9, at the iconic Eden...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/italy-announce-squad-for-maiden-t20-world-cup-2026-former-south-africa-international-picked-2026-01-17-1026301",
+    "time": "2026-01-17T12:17:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Suryavanshi sets new world record with dominant show in U19 World Cup 2026",
+    "desc": "A landmark performance by India’s teenage prodigy Vaibhav Suryavanshi became the defining moment of the Under-19 World Cup 2026 clash against Bangladesh in Bulawayo on Saturday. At just 14 years and 296 days, the youngster...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-suryavanshi-sets-new-world-record-with-dominant-show-in-u19-world-cup-2026-2026-01-17-1026295",
+    "time": "2026-01-17T11:26:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why UP Warriorz wearing special pink and yellow jersey in clash vs Mumbai Indians in WPL 2026?",
+    "desc": "In the WPL match against Mumbai Indians, UP Warriorz align their on-field presence with a broader message around access to education for girls. During their match, the franchise was highlighting the concept of free, flexible,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-up-warriorz-wearing-special-pink-and-yellow-jersey-in-clash-vs-mumbai-indians-in-wpl-2026-2026-01-17-1026291",
+    "time": "2026-01-17T10:51:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No handshake at toss during India vs Bangladesh clash at U19 ODI World Cup 2026",
+    "desc": "An unusual moment preceded the start of the ICC Under-19 World Cup Group A contest between India and Bangladesh in Bulawayo, where formalities at the toss unfolded without the customary exchange of a handshake between...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/no-handshake-at-toss-during-india-vs-bangladesh-clash-at-the-u19-odi-world-cup-2026-2026-01-17-1026284",
+    "time": "2026-01-17T10:24:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Damien Martyn posts heartwarming thank you note for the fans as he returns home from beating Meningitis",
+    "desc": "Former Australia cricketer Damien Martyn had captured many headlines of late as he was admitted to the hospital. It is worth noting that Martyn was taken to the hospital after he fell ill on December...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/damien-martyn-posts-heartwarming-thank-you-note-for-the-fans-as-he-returns-home-from-beating-meningitis-2026-01-17-1026279",
+    "time": "2026-01-17T09:34:38.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vaibhav Suryavanshi surpasses Virat Kohli in elite youth ODI list with positive start against Bangladesh U19",
     "desc": "Star India U19 batter Viabhav Suryavanshi etched his name in history. The batter was in action for India U19 in the ongoing U19 World Cup 2026. The Men in Blue took on Bangladesh U19 at...",
     "img": "",
@@ -19,7 +64,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "IND vs BAN, U19 World Cup Live Cricket Score: Bangladesh deal early blows, Suryavanshi key",
+    "title": "IND vs BAN, U19 World Cup Live Cricket Score: India post 238 runs in first innings; Vaibhav, Kundu star",
     "desc": "Team India continue their ongoing U19 World Cup campaign by taking on Bangladesh U19. The two sides lock horns at the Queens Sports Club, Bulawayo. The Men in Blue registered their first win of the tourmament...",
     "img": "",
     "src": "indiatvnews.com",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/australian-open-2026-dates-top-seeded-players-title-contenders-and-all-you-need-to-know-2026-01-17-1026243",
     "time": "2026-01-17T03:57:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyanka Patil scripts history with stellar five-wicket haul against Gujarat Giants in WPL 2026",
-    "desc": "Game 9 of the ongoing WPL (Women’s Premier League) 2026 saw Gujarat Giants taking on Royal Challengers Bengaluru women at the Dr. DY Patil Sports Academy in Navi Mumbai on January 16. The clash saw...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyanka-patil-scripts-history-with-stellar-five-wicket-haul-against-gujarat-giants-in-wpl-2026-2026-01-17-1026239",
-    "time": "2026-01-17T03:15:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Zimbabwe appoint Courtney Walsh as bowling consultant ahead of T20 World Cup 2026",
-    "desc": "The T20 World Cup 2026 is all set to kick off on February 7. The marquee event is set to be co-hosted by India and Sri Lanka. With the tournament right around the corner, Zimbabwe...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/zimbabwe-appoint-courtney-walsh-as-bowling-consultant-ahead-of-t20-world-cup-2026-2026-01-17-1026232",
-    "time": "2026-01-17T01:47:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MI London appoint Keiron Pollard as new head coach; Lisa Keightley for women's Hundred",
-    "desc": "MI London have unveiled their leadership group for the upcoming season of the Hundred, appointing Kieron Pollard as men’s head coach and Lisa Keightley to lead the women’s team. The appointments come as the franchise...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mi-london-appoint-keiron-pollard-as-new-head-coach-lisa-keightley-for-women-s-hundred-2026-01-16-1026224",
-    "time": "2026-01-16T18:04:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vishvaraj Jadeja's 165-run onslaught helps Saurashtra beat Punjab in Vijay Hazare semis",
-    "desc": "Saurashtra produced one of the most dominant chases of the Vijay Hazare Trophy as they overhauled Punjab’s 292 with nine wickets to spare at the Centre of Excellence in Bengaluru. The result sealed Saurashtra’s place...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vishvaraj-jadeja-s-165-run-onslaught-helps-saurashtra-beat-punjab-in-vijay-hazare-semis-2026-01-16-1026222",
-    "time": "2026-01-16T17:21:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aakash Chopra backs BCCI over Mustafizur Rahman row amid India-Bangladesh row",
-    "desc": "Tensions between India and Bangladesh in cricket have escalated in recent weeks, following a series of administrative and sporting decisions that have sparked controversy. The friction began when Kolkata Knight Riders, following instructions from the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/aakash-chopra-backs-bcci-over-mustafizur-rahman-row-amid-india-bangladesh-row-2026-01-16-1026218",
-    "time": "2026-01-16T16:23:25.000Z"
   }
 ];

@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "একাধিক নারীসঙ্গ, ২ স্ত্রীর সঙ্গে সংসার-ডিভোর্স, ১৮৬২ কোটি টাকার সম্পত্তি, আমির খানের বিলাসবহুল জীবন দেখলে আঁতকে উঠবেন",
+    "desc": "বলিউডের তিন খানের মধ্যে তাকে নিয়ে চর্চার শেষ নেই৷ সম্পর্ক থেকে সম্পত্তি সবেতেই তিনি শিরোনামে৷ ব্যক্তিগত জীবন নিয়ে বারবারই খবরের শিরোনামে উঠে আসেন আমির খান। সূত্রের খবর, আমির খানের মোট সম্পত্তির পরিমাণ ১৮৬২ কোটি টাকা।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1768650127_Created-in-1931-this-choker-featured-platinum-rubies-diamonds-and-elegant-pearls-2026-01-16T081936.176-2026-01-787093bc08fa9d67dbbc34e318e915d4-3x2.png",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/bollywood-actor-aamir-khan-net-worth-inside-bollywood-stars-luxurious-lifestyle-rds-2501647.html",
+    "time": "2026-01-17T12:20:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘রাস্তায় সুন্দরী মেয়ে দেখলেই পুরুষের...,’ ধ*র্ষণের কারণ ব্যাখ্যায় কংগ্রেস MLA-র বেফাঁস মন্তব্য, তুঙ্গে বিতর্ক",
+    "desc": "যদিও বারাইয়ার এই মন্তব্যের পরেই নেতার থেক দূরত্ব বজায় রেখেছে তাঁর দল কংগ্রেস৷ মধ্যপ্রদেশ কংগ্রেস সভাপতি জিতু পাতওয়ারি বলেন, \"কোনও ধর্ষণের পিছনেই কোনও কারণকে কোনওভাবে ব্যাখ্যা করা যায় না। যে ধর্ষণ করে সে অপরাধী। একে জাতি বা ধর্মের সাথে যুক্ত করা যাবে না।\"",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-81-2026-01-e50408883599801685dcac905f6e2c02-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/beautiful-girl-can-distract-a-man-madhya-pradesh-congress-mla-s-bizarre-theory-sparks-controversy-sta-2501218.html",
+    "time": "2026-01-17T10:26:02.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ভারতের কোন 'রাজ্যে' ছোটে সবচেয়ে 'বেশি' বন্দে ভারত ট্রেন জানেন...? শুনলেই চমকে যাবেন!",
     "desc": "আচ্ছা আপনি কি জানেন যে দেশে সবচেয়ে বেশি সংখ্যক বন্দে ভারত ট্রেন কোথায় চলে? মোটেই বাংলা, দিল্লি, উত্তরপ্রদেশ বা গুজরাতে ছোটে না কিন্তু। বরং বিখ্যাত এই ট্রেন সর্ববৃহৎ সংখ্যায় ছোটে দেশের অন্য একটি রাজ্যে। যার নামে চমকে উঠবেন আপনিও!",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/indian-rupee-vs-indonesian-rupiah-do-you-know-how-much-50000-indian-rupees-will-be-in-indonesia-youll-be-shocked-to-know-this-answer-general-knowledge-interesting-currency-fact-sanj-2488660.html",
     "time": "2026-01-08T15:07:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "অমিতাভ বচ্চন উত্তম কুমারের স্মৃতি আগলে আজও যেন অপরূপ সুন্দর কামদুনি গ্রাম",
-    "desc": "জেলার পরিচিত নাম কামদুনি। এই গ্রামের নাম কিছু বছর আগে একটি মর্মান্তিক ঘটনার কারণে উঠে আসলেও, বাস্তবে কামদুনি বহু দশক আগেই ইতিহাসের পাতায় জায়গা করে নিয়েছিল। অমিতাভ বচ্চন উত্তম কুমারের স্মৃতি আগলে আজও যেন অপরূপ সুন্দর কামদুনি গ্রাম।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/HYP_5689736_cropped_08012026_094015_inshot_20260108_093819338__2-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/south-bengal/kamduni-still-seems-to-be-proud-of-its-memories-of-amitabh-bachchan-and-uttam-kumar-l18-rds-local18-2487689.html",
-    "time": "2026-01-08T14:54:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'তুমি থাকো, নজর রাখো... আমি আবার আসছি...' আই-প্যাক প্রধানকে নির্দেশ দিয়ে সেক্টর ফাইভ ছাড়লেন মমতা",
-    "desc": "আইপ্যাকের সল্টলেকের সেক্টর ফাইভের দফতরে বৃহস্পতিবার ভোর থেকে চলছে ইডির তল্লাশি আর তাই ঘিরেও তোলপাড় পরে গিয়েছে সল্টলেক চত্ত্বরে। খবর শুনেই আই-প্যাক প্রধান প্রতীক জৈনের বাড়ি ও পরে IPAC এর দফতরে পৌঁছন খোদ মুখ্যমন্ত্রী মমতা বন্দ্যোপাধ্যায়। বেশ কিছুক্ষণ সেখানে থাকার পর বিকেলে জরুরি কর্মসূচিতে আই-প্যাক অফিস ছাড়লেও 'সেটেলমেন্ট' করতে আবার ফিরে আসছেন বলেই জানিয়ে গেলেন মমতা।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-08-at-16.58.11-2026-01-705cbf9a279b230788e7795dd4a80ab7-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/ed-ipac-office-raid-will-come-back-soon-west-bengal-cm-left-ipac-sector-5-office-giving-important-directions-after-sudden-ed-raid-on-coal-scam-issue-sanj-2488536.html",
-    "time": "2026-01-08T12:28:35.000Z"
   }
 ];
