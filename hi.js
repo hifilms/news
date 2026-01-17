@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Smriti Mandhana's masterclass helps Bengaluru beat Delhi, yet WPL curse lingers",
+    "desc": "The Women’s Premier League continues to tease batters with near-misses, as the wait for a maiden century in the competition goes on. There have now been 10 instances of a player reaching 90 or more...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-s-masterclass-helps-bengaluru-beat-delhi-yet-wpl-curse-lingers-2026-01-17-1026329",
+    "time": "2026-01-17T18:05:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India announce white-ball squad for Australia tour, 31-year-old called up for first time in seven years",
+    "desc": "India have announced their ODI and T20I squad for the upcoming tour to Australia. The series holds massive importance as the current ODI champions start their pursuit for the upcoming T20 World Cup, set to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-announce-white-ball-squad-for-australia-tour-31-year-old-called-up-for-first-time-in-seven-years-2026-01-17-1026327",
+    "time": "2026-01-17T17:14:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh lose seven wickets for 22 runs as India win by 18 runs in U19 World Cup 2026",
+    "desc": "Bangladesh were heading towards a comfortable win over India in the U19 World Cup 2026 before they fumbled and choked at the Queens Sports Club in Bulawayo. The Indian bowlers, particularly Vihaan Malhotra was ruthless...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-lose-seven-wickets-for-22-runs-as-india-win-by-18-runs-in-u19-world-cup-2026-2026-01-17-1026323",
+    "time": "2026-01-17T16:35:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Viran Chamuditha creates history in U19 World Cup, Sri Lanka go berserk vs Japan",
+    "desc": "Sri Lanka opened their Under-19 World Cup 2026 campaign in emphatic fashion as Viran Chamuditha delivered a record-breaking performance against Japan on Saturday, January 17. The right-handed batter produced an innings that reshaped the tournament’s...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/viran-chamuditha-creates-history-in-u19-world-cup-sri-lanka-go-berserk-vs-japan-2026-01-17-1026321",
+    "time": "2026-01-17T15:55:21.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Manchester United dominate Manchester City at Old Trafford to move to top 4 in Premier League table",
     "desc": "Manchester United delivered a statement performance in the Premier League’s headline fixture on January 17, overcoming rivals Manchester City 2‑0 at Old Trafford. The derby victory marked a welcome result for United and their interim...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-up-warriorz-wearing-special-pink-and-yellow-jersey-in-clash-vs-mumbai-indians-in-wpl-2026-2026-01-17-1026291",
     "time": "2026-01-17T10:51:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "No handshake at toss during India vs Bangladesh clash at U19 ODI World Cup 2026",
-    "desc": "An unusual moment preceded the start of the ICC Under-19 World Cup Group A contest between India and Bangladesh in Bulawayo, where formalities at the toss unfolded without the customary exchange of a handshake between...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/no-handshake-at-toss-during-india-vs-bangladesh-clash-at-the-u19-odi-world-cup-2026-2026-01-17-1026284",
-    "time": "2026-01-17T10:24:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Damien Martyn posts heartwarming thank you note for the fans as he returns home from beating Meningitis",
-    "desc": "Former Australia cricketer Damien Martyn had captured many headlines of late as he was admitted to the hospital. It is worth noting that Martyn was taken to the hospital after he fell ill on December...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/damien-martyn-posts-heartwarming-thank-you-note-for-the-fans-as-he-returns-home-from-beating-meningitis-2026-01-17-1026279",
-    "time": "2026-01-17T09:34:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Suryavanshi surpasses Virat Kohli in elite youth ODI list with positive start against Bangladesh U19",
-    "desc": "Star India U19 batter Viabhav Suryavanshi etched his name in history. The batter was in action for India U19 in the ongoing U19 World Cup 2026. The Men in Blue took on Bangladesh U19 at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-suryavanshi-surpasses-virat-kohli-in-elite-youth-odi-list-with-positive-start-against-bangladesh-u19-2026-01-17-1026278",
-    "time": "2026-01-17T09:02:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch Vijay Hazare Trophy final on TV and streaming?",
-    "desc": "The stage is set for the summit clash of the ongoing Vijay Hazare Trophy. Vidarbha will take on Saurashtra in the final as the two teams look to secure the marquee title. It is worth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vidarbha-vs-saurashtra-live-when-and-where-to-watch-vijay-hazare-trophy-final-on-tv-and-streaming-2026-01-17-1026267",
-    "time": "2026-01-17T07:41:32.000Z"
   }
 ];
