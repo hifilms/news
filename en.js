@@ -1,5 +1,131 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "SAD flags threat to Majithia's life inside jail, seeks Punjab Governor's intervention",
+    "desc": "The SAD appealed to Governor Gulab Chand Kataria to issue necessary directions to ensure the security of Majithia, a former Minister, saying it had no faith in the AAP government to take effective steps in this regard",
+    "img": "https://th-i.thgim.com/public/incoming/26pmc9/article70517541.ece/alternates/LANDSCAPE_1200/PTI03_18_2025_000110B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/punjab/sad-flags-threat-to-majithias-life-inside-jail-seeks-punjab-governors-intervention/article70517533.ece",
+    "time": "2026-01-17T03:40:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Absolute modern classic': 'The Girlfriend' director praises 'Ponman'",
+    "desc": "Director Rahul Ravindran lauded the Malayalam film 'Ponman' as an \"absolute modern classic,\" placing its character PP Ajesh among his top fictional creations. The film, praised for its nuanced portrayal of dowry culture and Basil Joseph's compelling performance, has resonated deeply with audiences, with many calling it a standout of the decade.",
+    "img": "https://static.toiimg.com/photo/msid-126601186,imgsize-23336.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/the-girlfriend-director-rahul-ravindran-praises-basil-josephs-ponman-calls-it-an-absolute-modern-classic/articleshow/126601115.cms",
+    "time": "2026-01-17T03:36:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shabana's sweet birthday post for husband Javed Akhtar",
+    "desc": "On this special day, veteran actress Shabana Azmi poured her heart out in a touching birthday tribute to her husband, the legendary screenwriter Javed Akhtar, as he turned 81. She celebrated not only his incredible talents but also their unwavering bond since 1984, expressing her admiration with wishes for vibrant health and exciting new creative adventures.",
+    "img": "https://static.toiimg.com/photo/msid-126601071,imgsize-33712.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shabana-azmi-wishes-javed-akhtar-a-happy-birthday-i-wish-him-good-health/articleshow/126601071.cms",
+    "time": "2026-01-17T03:32:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Inside the whirlwind rise of Australia’s all-rounder",
+    "desc": "Cooper Connolly’s rise has been rapid. From a school classroom phone call notifying of a rookie contract to representing Australia in two U-19 World Cups, leading in one, to playing all three formats, bagging an IPL contract and now T20 World Cup selection, the 22-year-old reflects on family, reinvention, learning in India, batting versatility and the hunger that drives him.",
+    "img": "https://static.toiimg.com/photo/msid-126569560,imgsize-36578.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/cooper-connolly-inside-the-whirlwind-rise-of-australias-22-year-old-all-rounder/articleshow/126567522.cms",
+    "time": "2026-01-17T03:26:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Will Smith’s ‘Pole to Pole’ is here: All you need to know",
+    "desc": "Will Smith embarks on an extraordinary 100-day global expedition from Antarctica to the North Pole for National Geographic's 'Pole to Pole'. This intense journey across seven continents showcases survival, science, and environmental concerns, featuring Smith's personal growth and encounters with diverse cultures and wildlife. The series promises breathtaking visuals and a profound message about our planet's fragility.",
+    "img": "https://static.toiimg.com/photo/msid-126600914,imgsize-25478.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/will-smiths-pole-to-pole-journey-was-unlike-anything-hes-ever-done-all-you-need-to-know-about-this-epic-project/articleshow/126600880.cms",
+    "time": "2026-01-17T03:24:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Government aims to ‘formally recognise’ 1 lakh tribal healers from STs as ‘partners in health services’",
+    "desc": "At the plenary session, the Ministry of Tribal Affairs also signed MoU with the ICMR–Regional Medical Research Centre, Bhubaneswar, to set up India’s first National Tribal Health Observatory, to be known as the Bharat Tribal Health Observatory.",
+    "img": "https://th-i.thgim.com/public/incoming/y45pne/article70517510.ece/alternates/LANDSCAPE_1200/G-zGDSba4AAZ6IM.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/government-aims-to-formally-recognise-1-lakh-tribal-healers-from-sts-as-partners-in-health-services/article70515477.ece",
+    "time": "2026-01-17T03:22:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan batter runs himself out at U19 World Cup – WATCH",
+    "desc": "England U19 secured a dramatic 37-run victory over Pakistan in their ICC Under-19 World Cup 2026 opener. Despite a close contest, Pakistan's chase faltered, ending with a bizarre run-out of Ali Raza that sealed England's win. England posted 210, with Caleb Falconer scoring 66, before bowling Pakistan out for 173.",
+    "img": "https://static.toiimg.com/photo/msid-126600303,imgsize-60936.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/brain-fade-moment-pakistan-batter-runs-himself-out-at-u19-world-cup-watch/articleshow/126600295.cms",
+    "time": "2026-01-17T02:54:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Sarvam Maya' BO day 23: Film crosses Rs 70 crores",
+    "desc": "Nivin Pauly's 'Sarvam Maya' has achieved a remarkable Rs 70.09 crores at the box office, demonstrating sustained popularity even after 23 days. The film garnered Rs 11.5 crores in its third week, with night shows showing strong occupancy. Audiences are praising the performances, particularly Nivin Pauly and debutant Riya Shibu, for their captivating roles in this feel-good supernatural dramedy.",
+    "img": "https://static.toiimg.com/photo/msid-126600171,imgsize-65814.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/sarvam-maya-box-office-collections-day-23-nivin-paulys-film-crosses-rs-70-crores/articleshow/126600171.cms",
+    "time": "2026-01-17T02:50:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Baby Girl' trailer: Nivin Pauly brings mystery and tension",
+    "desc": "Nivin Pauly's upcoming film 'Baby Girl' has released its gripping trailer, hinting at a suspenseful narrative centered around a missing newborn. Pauly portrays a hospital attender with a potentially complex, grey-shaded character, while Lijomol delivers a powerful performance as the distressed mother. The thriller, set for a January 23 release, has generated significant fan excitement.",
+    "img": "https://static.toiimg.com/photo/msid-126599705,imgsize-12208.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/baby-girl-trailer-nivin-pauly-brings-mystery-and-tension-baby-missing-case-drives-the-plot/articleshow/126599705.cms",
+    "time": "2026-01-17T02:30:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dia Mirza rides ‘This Was 2016’ wave with RHTDM nostalgia",
+    "desc": "Dia Mirza reminisced about her debut film, 'Rehna Hai Tere Dil Mein,' by sharing behind-the-scenes photos with co-star R Madhavan. The post coincided with the film's upcoming 25th anniversary, sparking nostalgia among fans who celebrated its enduring music and storyline. The romantic drama has since become a cult favorite.",
+    "img": "https://static.toiimg.com/photo/msid-126599598,imgsize-850063.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dia-mirza-taps-into-the-viral-this-was-2016-trend-reigniting-rehna-hai-tere-dil-mein-nostalgia-with-r-madhavan-ahead-of-its-25-year-milestone/articleshow/126599620.cms",
+    "time": "2026-01-17T02:27:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Punk rock drummer Kenny Morris passes away at 68",
+    "desc": "Pioneering punk and goth rock drummer Kenny Morris has passed away at 68. Known for his work with Siouxsie and the Banshees, Morris was celebrated for his unique drumming style. He also pursued a career in painting, with his art exhibited in Dublin. His friend confirmed his passing, remembering him as a sweet and artistic individual.",
+    "img": "https://static.toiimg.com/photo/msid-126599484,imgsize-25976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/siouxsie-and-the-banshees-drummer-kenny-morris-passes-away-at-68/articleshow/126599484.cms",
+    "time": "2026-01-17T02:11:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Bridgerton’s Luke Thompson has Indian roots?",
+    "desc": "In an exciting revelation, Luke Thompson, who plays Benedict in Bridgerton, shared that he has Indian heritage from his grandmother. This revelation adds depth to his character just as fans eagerly await Season 4, where Benedict embarks on a whimsical romantic journey reminiscent of Cinderella.",
+    "img": "https://static.toiimg.com/photo/msid-126599392,imgsize-17916.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-star-luke-thompson-says-he-is-quarter-indian-reveals-his-connection-to-india/articleshow/126568289.cms",
+    "time": "2026-01-17T02:05:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'TTT' BO day 2: Jiiva’s film sees big jump",
+    "desc": "Jiiva's 'Thalaivar Thambi Thalaimaiyil' is showing strong box office performance, with a significant jump on its second day, earning Rs 2.50 crores. Word-of-mouth appears to be driving audiences, reflected in healthy theatre occupancy, especially during evening and night shows. While praised for performances and humor, the film's later silliness and excessive chaos are noted.",
+    "img": "https://static.toiimg.com/photo/msid-126599292,imgsize-87906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalaivar-thambi-thalaimaiyil-box-office-collections-day-2-jiivas-film-sees-big-jump-collects-rs-3-90-crores/articleshow/126599292.cms",
+    "time": "2026-01-17T02:01:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Joe Keery dismisses 'Conformity Gate'",
+    "desc": "Joe Keery has officially debunked fan theories about a secret ninth episode for Stranger Things Season 5. Addressing 'Conformity Gate' speculation, Keery confirmed with co-star Charlie Heaton that the finale was not an illusion. He stated there is no additional episode, despite fans hoping for more.",
+    "img": "https://static.toiimg.com/photo/msid-126598967,imgsize-726420.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/stranger-things-s5-joe-keery-aka-steve-harington-reacts-to-conformity-gate-says-theres-no-9th-episode/articleshow/126598974.cms",
+    "time": "2026-01-17T01:41:59.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "‘The Rip’: Money, loyalty, and the cost of the badge",
     "desc": "Matt Damon and Ben Affleck star in The Rip, a film about Miami cops facing impossible choices. Their tactical narcotics squad unearths millions in cartel cash. Greed fractures the team amid cartel threats. The story is inspired by a real 2016 bust and dedicated to the writer-director's late son.",
@@ -217,7 +343,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Government raises the TDR offer to the plot owners in water bodies",
+    "title": "Telangana Govt raises TDR offer to plot owners in water bodies",
     "desc": "Plots falling within the FTL or MFL will be compensated with 200% of the built up space equivalent the area surrendered, and lands falling within buffer area will get 300% of the same, according to the new policy",
     "img": "https://th-i.thgim.com/public/incoming/3umev6/article70516234.ece/alternates/LANDSCAPE_1200/DSC_9107.jpg",
     "src": "thehindu.com",
@@ -270,24 +396,6 @@ const newsData_en = [
     "time": "2026-01-16T16:31:37.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sana denies claims that husband ‘brainwashed’ her into quitting films",
-    "desc": "Ek Prem Katha, and the web series Special OPS, has once again spoken out against claims that she was “brainwashed” into quitting Bollywood and changing her life. Sana, who rose to fame after Bigg Boss 6, left the entertainment industry in 2020 at the peak of her career, citing a desire to “serve humanity and follow the orders of my Creator.”",
-    "img": "https://static.toiimg.com/photo/msid-126584548,imgsize-29528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sana-khan-denies-claims-that-husband-mufti-anas-sayed-brainwashed-her-into-quitting-bollywood-i-wanted-peace/articleshow/126584471.cms",
-    "time": "2026-01-16T16:23:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rahman says Chhaava was divisive, but the core of it was to show bravery",
-    "desc": "A.R. Rahman addressed the controversy surrounding Vicky Kaushal's 'Chhaava,' admitting the film was divisive and cashed in on public sentiment. Despite acknowledging the film's polarizing nature and his own initial doubts, Rahman expressed faith in the audience's ability to discern truth from manipulation, calling his association with the film an honor.",
-    "img": "https://static.toiimg.com/photo/msid-126583758,imgsize-59098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ar-rahman-says-vicky-kaushals-chhaava-was-divisive-but-feels-honoured-to-have-scored-for-a-film-based-on-chhatrapati-sambhaji-maharaj/articleshow/126583729.cms",
-    "time": "2026-01-16T16:04:10.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India powers South Asia as world’s fastest-growing region; WEF survey sees momentum intact",
     "desc": "India is poised to lead South Asia as the world's fastest-growing region, even as global economists anticipate a slowdown in 2026. Despite trade headwinds, India's resilient fundamentals and AI adoption are driving optimism, with South Asia emerging as a bright spot for growth.",
@@ -295,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/global-growth-outlook-india-powers-south-asia-as-worlds-fastest-growing-region-wef-survey-sees-momentum-intact/articleshow/126582965.cms",
     "time": "2026-01-16T15:56:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Top 5 Bollywood newsmakers of the day",
-    "desc": "Sunjay Kapur’s Rs 30,000 crore inheritance feud reached the Supreme Court, Junaid Khan’s Ek Din poster faced plagiarism claims, Hema Malini shut trolls with a smile, Dev Anand’s advice to SRK resurfaced, and Kartik Aaryan reportedly took a Rs 15 crore pay cut.",
-    "img": "https://static.toiimg.com/photo/msid-126582755,imgsize-54920.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunjay-kapur-inheritance-feud-escalates-hema-malini-shuts-down-trolls-with-a-smile-dev-anands-smoking-advice-to-shah-rukh-khan-top-5-newsmakers-of-the-day/articleshow/126582755.cms",
-    "time": "2026-01-16T15:54:55.000Z"
   },
   {
     "cat": "Politics",
@@ -333,15 +432,6 @@ const newsData_en = [
     "time": "2026-01-16T15:33:22.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Top 5 South newsmakers of the day",
-    "desc": "The South Indian film industry saw a busy January 16 with the wordless 'Gandhi Talks' teaser, Sun TV challenging a court order on Ilaiyaraaja's images, and Vijay Sethupathi's intense 'Slumdog' first look. Samantha Ruth Prabhu shared festive Sankranti vibes, while Nivin Pauly received significant legal relief after a court found a producer misled them.",
-    "img": "https://static.toiimg.com/photo/msid-126579669,imgsize-40404.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/gandhi-talks-teaser-samantha-ruth-prabhus-festive-moment-nivin-paulys-legal-relief-top-5-south-newsmakers-of-the-day/articleshow/126579669.cms",
-    "time": "2026-01-16T15:28:10.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Wall Street opens higher near record levels; earnings momentum, oil rebound lift sentiment",
     "desc": "US stocks edged higher, nearing record levels as the first week of quarterly earnings season concluded. Selective bank results, including a jump in PNC Financial Services, and a rebound in oil prices supported market sentiment. Investors now anticipate technology and AI-linked company earnings for further direction.",
@@ -349,42 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-markets-today-wall-street-opens-higher-near-record-levels-earnings-momentum-oil-rebound-lift-sentiment/articleshow/126578199.cms",
     "time": "2026-01-16T15:10:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nani's'The Paradise' OTT partner revealed",
-    "desc": "Nani's highly anticipated action drama, 'The Paradise,' is set for a theatrical release on March 26, 2026. Following its cinema run, the film will stream on Netflix in Telugu, Tamil, Hindi, Malayalam, and Kannada. Featuring Mohan Babu as the antagonist and music by Anirudh Ravichander, the socially rooted story promises a compelling watch.",
-    "img": "https://static.toiimg.com/photo/msid-126575245,imgsize-144598.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-paradise-ott-release-date-nani-starrer-to-stream-on-this-platform-following-its-theatrical-release/articleshow/126575245.cms",
-    "time": "2026-01-16T14:42:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kareena drops UNSEEN pregnancy PICS, glimpse of newborn Taimur",
-    "desc": "Kareena Kapoor Khan shared throwback pictures from 2016. The photos show her during her first pregnancy with Taimur Ali Khan Pataudi. She posted a mirror selfie and family moments. Pictures included a Vogue cover and a house party before Taimur's birth. Her grandmother Krishna Raj Kapoor also appeared in a hospital photo. Friends reacted positively to the post.",
-    "img": "https://static.toiimg.com/photo/msid-126574254,imgsize-44862.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kareena-kapoor-khan-drops-unseen-pregnancy-pics-and-glimpse-of-newborn-taimur-as-she-joins-the-2016-trend-netizens-say-everyone-else-can-go-home-see-inside/articleshow/126574034.cms",
-    "time": "2026-01-16T14:28:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Top 10 winners and losers",
-    "desc": "Maharashtra's civic elections saw a significant political shift as the BJP-led Mahayuti alliance secured a dominant victory, particularly in Mumbai's BMC. Devendra Fadnavis and the BJP celebrated substantial gains, ending Shiv Sena's long-held control. Uddhav Thackeray's Sena and the Congress faced major setbacks, while Raj Thackeray's MNS and Sharad Pawar's NCP also saw diminished influence.",
-    "img": "https://static.toiimg.com/photo/msid-126574048,imgsize-1406256.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bmc-and-other-maharashtra-civic-poll-results-2026-top-10-winners-and-losers/articleshow/126572228.cms",
-    "time": "2026-01-16T14:26:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Reliance Industries’ net profit rises 0.56% to Rs 18,645 crore; revenue rises 11% as Jio, O2C drive performance",
-    "desc": "Reliance Industries reported stable earnings for the December quarter, with a marginal profit increase to Rs 18,645 crore on 11% revenue growth to Rs 2.69 lakh crore. Strong performance in Jio and O2C segments drove EBITDA up 6%.",
-    "img": "https://static.toiimg.com/photo/msid-126574037,imgsize-723731.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/ril-q3-results-reliance-industries-net-profit-rises-0-56-to-rs-18645-crore-revenue-rises-11-as-jio-o2c-drive-performance/articleshow/126572738.cms",
-    "time": "2026-01-16T14:25:21.000Z"
   },
   {
     "cat": "Sports",
@@ -414,15 +468,6 @@ const newsData_en = [
     "time": "2026-01-16T12:25:55.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Ramayana is Hindu, I'm Muslim,' says AR Rahman on doing the film's music",
-    "desc": "AR Rahman discusses his collaboration with Hans Zimmer for Nitesh Tiwari's 'Ramayana,' highlighting his respect for Hindu mythology despite being Muslim. He emphasizes the epic's moral core and the importance of seeking wisdom universally. Rahman sees the project as a global message of love, uniting diverse backgrounds.",
-    "img": "https://static.toiimg.com/photo/msid-126566483,imgsize-16830.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-is-hindu-im-muslim-hans-zimmer-is-jewish-says-ar-rahman-as-he-opens-up-on-doing-the-music-for-the-ranbir-kapoor-sai-pallavi-starrer-i-value-all-/articleshow/126566505.cms",
-    "time": "2026-01-16T12:05:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "RCB offer Rs 4.5 crore AI camera plan to retain IPL games in Bengaluru",
     "desc": "RCB have proposed installing 300–350 AI-enabled cameras at the M Chinnaswamy Stadium and offered to fund the Rs 4.5 crore project to improve crowd safety. The move follows last year’s deadly stampede. Partnering with Staqu, RCB hopes to retain IPL matches at the venue, or else may shift home games elsewhere.",
@@ -439,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-india-head-coach-gautam-gambhir-kl-rahul-visits-mahakaleshwar-temple-to-seek-lord-shivas-blessings-watch/articleshow/126564864.cms",
     "time": "2026-01-16T11:21:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "How AI is reimagining the fate of your fav fictional characters",
-    "desc": "Kerala is experiencing a cinematic renaissance, where the magic of AI breathes new life into cherished film figures, offering uplifting twists to their tragic tales. Rather than indulging in grim resolutions, this innovation nurtures narratives, giving characters such as Vishnu from 'Chithram' a renewed chance at happiness and reuniting star-crossed lovers.",
-    "img": "https://static.toiimg.com/photo/msid-126564467,imgsize-68272.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/how-cinephiles-are-rewriting-and-reimagining-the-fate-of-their-favorite-characters-with-ai/articleshow/126564467.cms",
-    "time": "2026-01-16T11:13:09.000Z"
   },
   {
     "cat": "Business",
@@ -574,24 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-standoff-icc-set-to-visit-bangladesh-as-bcb-govt-refuse-to-play-in-india/articleshow/126558226.cms",
     "time": "2026-01-16T05:32:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Baartman's hat-trick fires Paarl Royals into playoffs and top spot",
-    "desc": "Ottneil Baartman’s sensational hat-trick and five-wicket haul powered Paarl Royals to a bonus-point win over Pretoria Capitals, sealing a playoff berth and top spot in the SA20 standings. Sikandar Raza chipped in with key wickets as the Capitals were bowled out for 127, a target the Royals chased comfortably.",
-    "img": "https://static.toiimg.com/photo/msid-126558006,imgsize-58244.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/sa20/sa20-ottneil-baartmans-hat-trick-fires-paarl-royals-into-playoffs-and-top-spot/articleshow/126557898.cms",
-    "time": "2026-01-16T05:16:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nitish Reddy’s lean returns raise doubts over Hardik backup plan",
-    "desc": "Nitish Kumar Reddy, a seam-bowling allrounder, remains a puzzle for the Indian team management despite being seen as a key player. Captain Shubman Gill and others have shown reluctance to give him a significant role, raising questions about his future. Selectors aim to develop him as a backup for Hardik Pandya ahead of the 2027 World Cup.",
-    "img": "https://static.toiimg.com/photo/msid-126557733,imgsize-55758.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/work-in-progress-nitish-reddys-lean-returns-raise-doubts-over-hardik-pandya-backup-plan-for-2027-world-cup/articleshow/126557631.cms",
-    "time": "2026-01-16T04:58:21.000Z"
   },
   {
     "cat": "World",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
     "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
   }
 ];

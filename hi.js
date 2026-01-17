@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shreyanka Patil scripts history with stellar five-wicket haul against Gujarat Giants in WPL 2026",
+    "desc": "Game 9 of the ongoing WPL (Women’s Premier League) 2026 saw Gujarat Giants taking on Royal Challengers Bengaluru women at the Dr. DY Patil Sports Academy in Navi Mumbai on January 16. The clash saw...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyanka-patil-scripts-history-with-stellar-five-wicket-haul-against-gujarat-giants-in-wpl-2026-2026-01-17-1026239",
+    "time": "2026-01-17T03:15:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Zimbabwe appoint Courtney Walsh as bowling consultant ahead of T20 World Cup 2026",
+    "desc": "The T20 World Cup 2026 is all set to kick off on February 7. The marquee event is set to be co-hosted by India and Sri Lanka. With the tournament right around the corner, Zimbabwe...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/zimbabwe-appoint-courtney-walsh-as-bowling-consultant-ahead-of-t20-world-cup-2026-2026-01-17-1026232",
+    "time": "2026-01-17T01:47:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "MI London appoint Keiron Pollard as new head coach; Lisa Keightley for women's Hundred",
     "desc": "MI London have unveiled their leadership group for the upcoming season of the Hundred, appointing Kieron Pollard as men’s head coach and Lisa Keightley to lead the women’s team. The appointments come as the franchise...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rcb-propose-inr-4-5-crore-plan-for-crowd-control-at-chinnaswamy-plan-to-set-ai-based-cameras-for-live-tracking-2026-01-16-1026199",
     "time": "2026-01-16T12:28:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "David Warner breaks Virat Kohli's record with century vs Sydney Sixers in BBL",
-    "desc": "David Warner delivered a devastating performance against the Sydney Sixers in the ongoing Big Bash League, continuing his sensational form this season. The Australian opener has been in sublime touch, topping the run charts with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/david-warner-breaks-virat-kohli-s-record-with-century-vs-sydney-sixers-in-bbl-2026-01-16-1026194",
-    "time": "2026-01-16T12:00:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Steve Smith smacks four consecutive sixes, completes century in just 41 balls",
-    "desc": "Steve Smith put on a stunning show in the ongoing Big Bash League, wreaking havoc against city rivals Sydney Thunder at the Sydney Cricket Ground. The star batter went after pacer Ryan Hadley, plundering 32...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/steve-smith-smacks-four-consecutive-sixes-completes-century-in-just-41-balls-2026-01-16-1026190",
-    "time": "2026-01-16T11:33:03.000Z"
   }
 ];

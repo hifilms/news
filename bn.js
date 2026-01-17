@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "'এবার আমার ভেনেজুয়েলাকে খুব ভাল লাগছে! আমরা তেল নেব’ বললেন ডোনাল্ড ট্রাম্প, অন্তর্বর্তী সরকারের সঙ্গে দারুণ সম্পর্কের দাবি!",
+    "desc": "সামরিক আক্রমণের সুর থেকে সরে এসে ভেনেজুয়েলার অন্তর্বর্তী সরকারের সঙ্গে কাজ করা, দেশটিকে ‘চমৎকার’ বলে উল্লেখ করা এবং বিপুল পরিমাণ তেল গ্রহণে সম্মতির বার্তা—সব মিলিয়ে নোবেল পদক হাতে পাওয়ার পর ভেনেজুয়েলা নীতি নিয়ে ট্রাম্পের অবস্থানে স্পষ্ট পরিবর্তনের ইঙ্গিত মিলছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/trump-2026-01-299293d4b9a2893b342bc059db7a3aa4-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/now-i-like-venezuela-very-much-donald-trump-hints-at-changing-stance-on-venezuela-policy-after-getting-nobel-prize-tib-ws-l-2500519.html",
+    "time": "2026-01-17T02:59:15.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "নয়া ট্রেন্ডে গা ভাসিয়ে, ১০ বছর আগের ছবি শেয়ার করে 'নস্টালজিক' আলিয়া,২০১৬ কেমন কেটেছিল রণবীর-ঘরনীর? দেখুন ছবি",
     "desc": "একটা নতুন ট্রেন্ড এসেছে! ইনস্টাগ্রাম ফিড-এ সবাই ১০ বছর আগের অর্থাৎ ২০১৬-র নানা মুহূর্তের ছবি শেয়ার করছেন! এই ট্রেন্ডকে বলা হচ্ছে, '2026 is the new 2016'! নতুনের অজুহাতে পুরনো স্মৃতির অলিগলিতে খানিক ঘুরে বেড়ানো আর কী",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/sports/chaos-unfolds-at-yuvabharati-around-lionel-messi-repair-started-rmj-ws-l-2487332.html",
     "time": "2026-01-07T18:08:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ভারতে কোনও ভাবই বিশ্বকাপের ম্যাচ খেলবে না বাংলাদেশ! এই প্রতিযোগিতা না খেললে কী পরিণতি হতে পারে?",
-    "desc": "আইসিসি বাংলাদেশের দাবি মানল না এবং বাংলাদেশও আসতে চাইল না, বাংলাদেশ কার্যত তাদের সব গ্রুপ ম্যাচে ওয়াকওভার দেবে। তারা কোনো পয়েন্ট পাবে না এবং গ্রুপ পর্যায়েই বাদ পড়ে যাবে। তবে এর পরে অনেক রকম পরিস্থিতি তৈরি হতে পারে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/37313837-c182-4803-b54f-14c422ca6e17-2026-01-ab986db79d8cd7a2d092a17ddc380cc4-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/what-would-happen-if-icc-does-not-shift-bangladesh-matches-from-india-and-bangladesh-will-not-participate-in-t20-world-cup-rdp-2487318.html",
-    "time": "2026-01-07T17:45:54.000Z"
   }
 ];

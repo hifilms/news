@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "સેટેલાઈટ તસવીરોથી થયો ચોંકાવનારો ખુલાસો, IMDએ કહ્યું- &amp;#039;આગામી 72 કલાક ખુબ ભારે&amp;#039;",
+    "desc": "ઉત્તર ભારત સહિત દેશમાં કડકડતી ઠંડી જોવા મળી રહી છે. આ બધા વચ્ચે સેટેલાઈટથી લેવાયેલી તસવીરોથી એક ચોંકાવનારી વાત સામે આવી છે. હવામાન વિભાગના જણાવ્યાં મુજબ તે પહાડોમાંથી આવતા વાયરાનો સંકેત છે. આ ઉપરાંત ગુજરાત માટે અંબાલાલે શું આગાહી કરી છે તે પણ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/all-india-weather-imd-alert-comma-shaped-layer-of-fog-ambalal-patel-gujarat-weather-forecast-461923 ",
+    "time": "2026-01-17T03:16:01.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "મહારાષ્ટ્રમાં લહેરાયો ભાજપનો ભગવો, મુંબઈમાં 3 દાયકા જૂનો &amp;#039;ઠાકરે કિલ્લો&amp;#039; ધરાશાયી; દિલ્હી, મહારાષ્ટ્ર અને હવે મુંબઈમાં પણ ભાજપ",
     "desc": "મહારાષ્ટ્રમાં ફરી એકવાર ભાજપનો જલવો અકબંધ રહ્યો છે. વિધાનસભાની ચૂંટણીના પરિણામ બાદ મહારાષ્ટ્રના લોકોએ ફરીવાર ભાજપને ખોબલે ખોબલે વોટ આપ્યા છે. BMC, ઉપરાંત પૂણે, નાગપુર, સોલાપુર સહિત મોટા ભાગની મહાનગરપાલિકામાં ભાજપનો ભગવો લહેરાયો છે. 29 કોર્પોરેશનમાંથી 23 કોર્પોરેશન પર ભાજપ અને તેના સાથી પક્ષોએ ભવ્ય જીત મેળવી છે. જ્યારે ઉદ્ધવ અને રાજ ઠાકરેની જોડી નકામી સાબિત થઈ છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -430,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/da-of-central-employees-will-increase-to-60-percent-what-is-the-latest-report-on-the-8th-pay-commission-461646 ",
     "time": "2026-01-14T06:34:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કોરોના બાદ આ વાયરસે ચિંતા વધારી, 120 લોકોને ઘરમાં આઈસોલેટ કરાયા, વાયરસની કોઈ રસી-સારવાર નથી",
-    "desc": "કોરોના બાદ વધુ એક વાયરસે ચિંતા વધારી છે. પશ્ચિમ બંગાળમાં બે નસોમાં નિપાહ વાયરસની પુષ્ટિ થઈ અને હવે તેમના સંપર્કમાં આવેલા 120 લોકો પણ નિગરાણીમાં રાખવામાં આવ્યા છે. જાણો આ વાયરસ કેમ જોખમી ગણાઈ રહ્યો છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/health-alert-india-nipah-virus-120-people-home-isolaton-west-bengal-461631 ",
-    "time": "2026-01-14T05:48:49.000Z"
   },
   {
     "cat": "Business",
