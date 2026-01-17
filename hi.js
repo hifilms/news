@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vaibhav Suryavanshi surpasses Virat Kohli in elite youth ODI list with positive start against Bangladesh U19",
+    "desc": "Star India U19 batter Viabhav Suryavanshi etched his name in history. The batter was in action for India U19 in the ongoing U19 World Cup 2026. The Men in Blue took on Bangladesh U19 at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-suryavanshi-surpasses-virat-kohli-in-elite-youth-odi-list-with-positive-start-against-bangladesh-u19-2026-01-17-1026278",
+    "time": "2026-01-17T09:02:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch Vijay Hazare Trophy final on TV and streaming?",
+    "desc": "The stage is set for the summit clash of the ongoing Vijay Hazare Trophy. Vidarbha will take on Saurashtra in the final as the two teams look to secure the marquee title. It is worth...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vidarbha-vs-saurashtra-live-when-and-where-to-watch-vijay-hazare-trophy-final-on-tv-and-streaming-2026-01-17-1026267",
+    "time": "2026-01-17T07:41:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND vs BAN, U19 World Cup Live Cricket Score: Bangladesh deal early blows, Suryavanshi key",
+    "desc": "Team India continue their ongoing U19 World Cup campaign by taking on Bangladesh U19. The two sides lock horns at the Queens Sports Club, Bulawayo. The Men in Blue registered their first win of the tourmament...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-ban-u19-world-cup-live-cricket-match-score-update-at-queens-sports-club-bulawayo-vaibhav-suryavanshi-ayush-mhatre-1026262",
+    "time": "2026-01-17T06:56:18.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'I do not understand': Mohammed Kaif questions Nitish Kumar Reddy's role in India squad ahead of third NZ ODI",
     "desc": "The stage is set for the third ODI between India and New Zealand. The two sides are slated to take on each other at the Holkar Cricket Stadium, Indore, on January 17. It is worth...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/aakash-chopra-backs-bcci-over-mustafizur-rahman-row-amid-india-bangladesh-row-2026-01-16-1026218",
     "time": "2026-01-16T16:23:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer, Ravi Bishnoi added to India's T20I squad for New Zealand series, Washington Sundar ruled out",
-    "desc": "Washington Sundar has been ruled out of the upcoming T20I series against New Zealand after being diagnosed with a side strain. The injury occurred during the first ODI against New Zealand at the BCA Stadium...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-ravi-bishnoi-added-to-india-s-t20i-squad-for-new-zealand-series-washington-sundar-ruled-out-2026-01-16-1026214",
-    "time": "2026-01-16T15:39:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA World Cup 2026 turns nightmare for fans after USA freezes visa of 75 countries",
-    "desc": "Fans from multiple countries may face major hurdles in attending the 2026 FIFA World Cup in the United States due to a newly imposed visa freeze affecting 75 nations. The pause in visa processing, effective...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-2026-turns-nightmare-for-fans-after-usa-freezes-visa-of-75-countries-2026-01-16-1026212",
-    "time": "2026-01-16T15:06:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB-W vs GG-W WPL Match Score Live: Royal Challengers remain unbeaten, register third straight win",
-    "desc": "Royal Challengers Bengaluru have stormed into WPL 2026 with two contrasting victories, signalling a strong start to the season. Their campaign began with a last-ball thriller against Mumbai Indians, followed by a dominant win over...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-w-vs-gg-w-wpl-match-score-live-unbeaten-bengaluru-challenges-gujarat-as-winner-to-take-top-spot-2026-01-16-1026207",
-    "time": "2026-01-16T13:39:23.000Z"
   }
 ];

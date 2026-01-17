@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "&amp;#039;ગૌતમ ગંભીરે રોહિત શર્માને ODI કેપ્ટન પદેથી હટાવ્યો...&amp;#039; આ ક્રિકેટરે લગાવ્યો મોટો આરોપ",
+    "desc": "ભારતના પૂર્વ ક્રિકેટર મનોજ તિવારીએ કોચ ગૌતમ ગંભીર પર મોટો આરોપ લગાવ્યો છે. તેનું માનવું છે કે જો શુભમન ગિલને કેપ્ટન બનાવવો જ હતો તો તે તબક્કવાર થવું જોઈતું હતું, રોહિત શર્માનો કેપ્ટન તરીકે રેકોર્ડ સારો હોવા છતાં અચાનક કેપ્ટન પદ ગિલનું સોંપવું એ આશ્ચર્યજનક હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/manoj-tiwary-alleges-gautam-gambhir-removed-rohit-sharma-from-odi-captaincy-461959 ",
+    "time": "2026-01-17T07:20:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "હું ગોવિંદાને ક્યારેય માફ નહી કરું... અફેર મામલે સુનિતા આહુજાએ તોડી ચુપ્પી, જાણો શું કહ્યું ગોવિંદા વિશે",
+    "desc": "છેલ્લા ઘણા સમયથી ગોવિંદાના અફેરની ચર્ચાઓ જોરશોરથી ચાલી રહી છે. તેવામાં સુનીતા આહુજાએ ફરીવાર એક મુલાકાતમાં પતિ ગોવિંદાના અફેરની વાત પર આંકરી પ્રતિક્રિયા આપી દીધી છે. આ વખતે સુનીતા આહુજાએ ત્યાં સુધી કહી દીધું છે કે ગોવિંદા તેના દીકરાનું કરિયર બનાવવામાં પણ મદદ નથી કરતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/i-will-never-forgive-govinda-said-sunita-ahuja-breaks-silence-on-63-year-old-govinda-extra-marital-affair-461954 ",
+    "time": "2026-01-17T06:47:50.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "સેટેલાઈટ તસવીરોથી થયો ચોંકાવનારો ખુલાસો, IMDએ કહ્યું- &amp;#039;આગામી 72 કલાક ખુબ ભારે&amp;#039;",
     "desc": "ઉત્તર ભારત સહિત દેશમાં કડકડતી ઠંડી જોવા મળી રહી છે. આ બધા વચ્ચે સેટેલાઈટથી લેવાયેલી તસવીરોથી એક ચોંકાવનારી વાત સામે આવી છે. હવામાન વિભાગના જણાવ્યાં મુજબ તે પહાડોમાંથી આવતા વાયરાનો સંકેત છે. આ ઉપરાંત ગુજરાત માટે અંબાલાલે શું આગાહી કરી છે તે પણ ખાસ જાણો.",
@@ -385,33 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-price-prediction-in-2026-gold-prices-are-expected-to-fall-in-a-few-months-find-out-what-the-experts-say-461680 ",
     "time": "2026-01-14T15:03:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC ODI રેન્કિંગમાં વિરાટ કોહલી ફરી નંબર-1, રોહિત શર્માએ ગુમાવ્યો તાજ",
-    "desc": "વિરાટ કોહલી ફરી એકવાર ICC ODI રેન્કિંગમાં નંબર વન બેટ્સમેન બન્યો છે. તેણે રોહિત શર્મા પાસેથી આ સ્થાન છીનવી લીધું છે. 37 વર્ષની ઉંમરે વિરાટની આ વાપસી એટલા માટે પણ ખાસ છે કારણ કે તે જુલાઈ 2021 પછી પહેલીવાર નંબર-૧ સ્થાન પર પાછો ફર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/virat-kohli-reclaims-the-no-1-spot-in-the-latest-icc-mens-odi-rankings-461664 ",
-    "time": "2026-01-14T09:53:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "આયુષ બદોનીને બદલે નીતીશ રેડ્ડીને કેમ મળ્યું પ્લેઇંગ-11માં સ્થાન ? જાણો શું છે કારણ",
-    "desc": "સુંદર પહેલી વનડેમાં ઈજાગ્રસ્ત થયા બાદ તેની જગ્યાએ આયુષ બદોનીને ટીમમાં સામેલ કરવામાં આવ્યો હતો. તેને પહેલીવાર ટીમમાં સામેલ કરવામાં આવ્યો હતો, પરંતુ તેને પ્લેઇંગ ઇલેવનમાં સામેલ કરવામાં આવ્યો નથી. કોચ ગંભીર અને કેપ્ટન ગિલે નીતિશ રેડ્ડીને તક આપી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-2nd-odi-why-nitish-reddy-replaced-ayush-badoni-in-playing-11-461656 ",
-    "time": "2026-01-14T08:32:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "આયુષ બદોનીને અચાનક ટીમ ઈન્ડિયામાં કેમ મળ્યું સ્થાન ? કોચે કર્યો ખુલાસો",
-    "desc": "ભારત-ન્યૂઝીલેન્ડ શ્રેણી દરમિયાન ટીમ ઈન્ડિયાના મુખ્ય કોચ ગૌતમ ગંભીર ફરી એકવાર ટીકાકારોના ઘેરામાં આવી ગયા છે. તેમની પસંદગી પર સવાલો ઉભા થઈ રહ્યા છે. એવું કહેવામાં આવી રહ્યું છે કે ગંભીરે વ્યક્તિગત પસંદગીના આધારે આયુષ બદોનીને ટીમમાં સામેલ કર્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/why-ayush-badoni-selected-for-team-india-coach-reveals-reason-461647 ",
-    "time": "2026-01-14T06:57:18.000Z"
   },
   {
     "cat": "Business",

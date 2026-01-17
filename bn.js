@@ -1,6 +1,33 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "ভারতের কোন 'রাজ্যে' ছোটে সবচেয়ে 'বেশি' বন্দে ভারত ট্রেন জানেন...? শুনলেই চমকে যাবেন!",
+    "desc": "আচ্ছা আপনি কি জানেন যে দেশে সবচেয়ে বেশি সংখ্যক বন্দে ভারত ট্রেন কোথায় চলে? মোটেই বাংলা, দিল্লি, উত্তরপ্রদেশ বা গুজরাতে ছোটে না কিন্তু। বরং বিখ্যাত এই ট্রেন সর্ববৃহৎ সংখ্যায় ছোটে দেশের অন্য একটি রাজ্যে। যার নামে চমকে উঠবেন আপনিও!",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-17-at-12.32.57-2026-01-40c4784c0e4c859f0b9af1afbfbc7c5e-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/off-beat/vande-bharat-express-which-state-in-india-runs-maximum-number-of-vande-bharat-express-train-not-west-bengal-delhi-or-gujrat-here-is-a-shocking-answer-in-the-correct-name-sanj-2501113.html",
+    "time": "2026-01-17T09:10:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "১৮টি ফ্লপের কলঙ্ক মুছে সুপারস্টার হওয়ার গল্প! ১৯৫৭ সালের সেই ঐতিহাসিক ছবি",
+    "desc": "হিন্দি সিনেমার এমন এক অভিনেতা, যাঁকে আজ আমরা ড্যান্সিং সুপারস্টার নামে চিনি, তাঁর কেরিয়ারের শুরুটা ছিল ভীষণই চ্যালেঞ্জে ভরা। ১৯৫৩ সালে বড় পর্দায় পা রাখার পর দীর্ঘ সময় ধরে তাঁকে বক্স অফিসে ব্যর্থতার মুখে পড়তে হয়েছিল। প্রথম তিন বছরে তিনি একের পর এক বহু ছবিতে কাজ করেন, কিন্তু সাফল্য তখনও তাঁর থেকে বহু দূরে ছিল এবং ১৮টি ছবি একের পর এক ফ্লপ হয়ে যায়।সেই সময়ে যখন বড় বড় তারকারা ইন্ডাস্ট্রিতে রাজত্ব করছিলেন, তখন এই অভিনেতার পক্ষে নিজের আলাদা পরিচয় তৈরি করা কোনও সংগ্রামের থেকে কম ছিল না।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1768636000_33-2026-01-c72619992cd8e9938045ece6895ad7f8-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/shammi-kapoor-gave-18-flop-films-in-3-years-1957-tumsa-nahin-dekha-changed-his-career-became-his-first-1-crore-hit-movie-smc-2501033.html",
+    "time": "2026-01-17T08:13:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit- Agarkar-Gambhir: ‘কাঁধে বন্দুক রেখে অন্য কেউ চালায়’- রোহিতকে সরাতে আগরকরকে সামনে রেখে কলকাঠি নেড়েছিলেন গম্ভীর, মারাত্মক অভিযোগ প্রাক্তনের",
+    "desc": "ওডিআই অধিনায়ক হিসেবে রোহিতের শেষ ম্যাচটি ছিল ২০২৫ সালের চ্যাম্পিয়ন্স ট্রফির ফাইনাল, যেখানে তিনি তার দ্বিতীয় আইসিসি ট্রফি জিতেছিলেন এবং সাদা বলের ক্রিকেটে একাধিক শিরোপা জয়ী একমাত্র ভারতীয় অধিনায়ক হিসেবে এমএস ধোনির সঙ্গে যোগ দিয়েছিলেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Rohit-Sharma-2026-01-e361630fe99852dad428c6f0c88fdb24-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/gambhir-and-rohit-gautam-gambhir-put-to-sword-for-disrespecting-rohit-sharma-fired-the-gun-off-ajit-agarkar-s-shoulder-dd-2500885.html",
+    "time": "2026-01-17T08:08:10.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "অসম, নাগাল্যান্ড, পশ্চিমবঙ্গ একই সাথে আজ রেল পথে জুড়ছে দিল্লির সঙ্গে! কোন কোন ট্রেন? মোদির হাতেই উদ্বোধন",
     "desc": "সীমান্তবর্তী অঞ্চল, তীর্থকেন্দ্র এবং প্রধান শহরগুলোকে সংযুক্ত করার মাধ্যমে ডিব্রুগড়-লখনউ (গোমতী নগর) অমৃত ভারত এক্সপ্রেস পর্যটনকে উৎসাহিত করবে, স্থানীয় বাণিজ্যকে बढ़ावा দেবে, ক্ষুদ্র ব্যবসাকে সমর্থন করবে এবং কর্মসংস্থানের সুযোগ বৃদ্ধি করবে বলে আশা করা হচ্ছে।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-79-2026-01-995329885b5718a47a2d772c9e989d53-3x2.jpg",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/ed-ipac-office-raid-will-come-back-soon-west-bengal-cm-left-ipac-sector-5-office-giving-important-directions-after-sudden-ed-raid-on-coal-scam-issue-sanj-2488536.html",
     "time": "2026-01-08T12:28:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "৮ বছরের ব্যবধান, আমিরের হিট তো শাহরুখের সুপারহিট, দেশপ্রেমের দুই ছবি এখনও বার বার দেখেন দর্শকরা",
-    "desc": "ছবিটির পরিচালক জন ম্যাথিউ ১৯৯২ সালে চিত্রনাট্যের কাজ শুরু করেন। তিনি সাত বছর এই নিয়ে গবেষণা করেন। আমির খান একবার বলেছিলেন যে জন একটি ইংরেজি নাম এবং তিনি বিজ্ঞাপনের ছবি বানান, তাই তিনি আধ ঘণ্টার বেশি সময়ের ছবি বানাতে পারবেন না এটা তাঁর মনে হয়েছিল!",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Chak-De-and-Sarfarosh-2026-01-2dfce303274a03fd525817cbbf998f82-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/uganda-born-shimit-amin-john-matthew-two-director-made-shahrukh-khan-chak-de-india-sarfarosh-movie-both-superhit-won-national-award-beat-sunny-deol-film-ss-2488203.html",
-    "time": "2026-01-08T10:55:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Pongal Gift",
-    "desc": "প্রতিটি পোঙ্গল প্যাকেজের মধ্যে রয়েছে এক কেজি কাঁচা চাল, এক কেজি চিনি এবং একটি আস্ত আখ, পাশাপাশি ৩,০০০ টাকা নগদ সহায়তা। তবে, বিরোধী দলনেতা এডাপ্পাদি পালানিস্বামী (ইপিএস) এবং আরও বেশ কয়েকটি দল দাবি করেছে যে এই পরিমাণ ৩,০০০ টাকা থেকে বাড়িয়ে ৫,০০০ টাকা করা হোক।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Pongal-Gift-in-Tamil-Nadu-2026-01-65076cea3a3c5b560ec842038218b51c-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/pongal-gift-eps-urges-cm-stalin-to-issue-an-order-to-increase-the-pongal-cash-gift-to-rs-5000-ss-2488053.html",
-    "time": "2026-01-08T09:17:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বঙ্গে কনকনে ঠান্ডা আর কতদিন? বড় আপডেট আবহাওয়া দফতরের",
-    "desc": "Weather News Today | বাংলাজুড়ে শীতের কামড়। সামান্য চড়ে কলকাতায় ১১.৬ ডিগ্রিতে পারদ। শনিবার পর্যন্ত জাঁকিয়ে ঠান্ডা দক্ষিণবঙ্গে। সকালে দক্ষিণের জেলায় জেলায় কুয়াশার দাপট। দক্ষিণবঙ্গের ৫ জেলায় শীতল দিনের পরিস্থিতি। হুগলি- দুই ২৪ পরগনা-মুর্শিদাবাদ-নদিয়ায় শীতল দিনের পরিস্থিতি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/winter-1-2026-01-327a3deea0f2debef78d808bd8922916-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/business/how-long-will-the-cold-wave-last-in-bengal-big-weather-department-update-dc-2487916.html",
-    "time": "2026-01-08T07:18:20.000Z"
   }
 ];
