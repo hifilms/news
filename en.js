@@ -1,5 +1,95 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "‘The Rip’: Money, loyalty, and the cost of the badge",
+    "desc": "Matt Damon and Ben Affleck star in The Rip, a film about Miami cops facing impossible choices. Their tactical narcotics squad unearths millions in cartel cash. Greed fractures the team amid cartel threats. The story is inspired by a real 2016 bust and dedicated to the writer-director's late son.",
+    "img": "https://static.toiimg.com/photo/msid-126598182,imgsize-624396.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-rip-plot-explained-ben-affleck-and-matt-damons-brotherhood-goes-under-pressure-in-miamis-moral-grey-zone/articleshow/126598187.cms",
+    "time": "2026-01-17T00:51:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Rahu Ketu' BO day 1: Pulkit, Varun's film opens with Rs 1cr",
+    "desc": "Comedic duo Pulkit Samrat and Varun Sharma's new film 'Rahu Ketu' has hit theatres, but its opening day collection of Rs 1 crore fell short of expectations. The film, featuring a magical notebook that brings unlucky characters to life, faces stiff competition from other releases, including Vir Das' 'Happy Patel,' which opened stronger.",
+    "img": "https://static.toiimg.com/photo/msid-126598011,imgsize-44706.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/rahu-ketu-box-office-collection-day-1-pulkit-samrat-and-varun-sharma-led-comedy-opens-with-rs-1-crore-on-friday/articleshow/126598011.cms",
+    "time": "2026-01-17T00:43:51.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "With Nepal’s largest party divided ahead of polls, EC decides on legitimacy dispute",
+    "desc": "Two factions of Nepali Congress, the country’s oldest party, submitted competing claims to legitimacy, forcing the Election Commission to recognise one camp ahead of the deadline for filing nominations for direct polls; amid Nepal’s shifting political landscape, the EC decides who gets to contest",
+    "img": "https://th-i.thgim.com/public/incoming/82kzuu/article70516309.ece/alternates/LANDSCAPE_1200/Nepal_Gen_Z_Protest_50450.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/with-nepals-largest-party-divided-ahead-of-polls-ec-decides-on-legitimacy-dispute/article70515034.ece",
+    "time": "2026-01-17T00:00:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Nobel Peace Prize inseparable from laureate, award body says after Trump gets medal from Machado",
+    "desc": "“Regardless of what may happen to the medal, the diploma, or ‍the prize money, it is and remains the original laureate who is recorded in history as the recipient of the prize,” the award body said",
+    "img": "https://th-i.thgim.com/public/incoming/h6w9bo/article70517414.ece/alternates/LANDSCAPE_1200/PTI01_16_2026_000025B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/nobel-peace-prize-inseparable-from-laureate-award-body-says-after-trump-gets-medal-from-machado/article70517413.ece",
+    "time": "2026-01-16T23:57:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Gambhir fired the gun from Ajit's shoulder': Ex-India player on Rohit's ODI captaincy removal",
+    "desc": "Manoj Tiwary has criticized Rohit Sharma's removal as ODI captain, suggesting head coach Gautam Gambhir influenced the decision. Tiwary believes selectors disrespected Rohit, who was performing well and led India to an ICC Champions Trophy win. He feels the move lacked cricketing logic and has diminished his interest in ODIs.",
+    "img": "https://static.toiimg.com/photo/msid-126565991,imgsize-66720.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/gautam-gambhir-fired-the-gun-from-ajit-agarkars-shoulder-ex-india-player-on-rohit-sharmas-odi-captaincy-removal/articleshow/126566044.cms",
+    "time": "2026-01-16T23:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Detrimental to his growth': Ex-India coach questions Sooryavanshi playing U19 World Cup",
+    "desc": "Former India coach WV Raman cautioned against overexposing 14-year-old Vaibhav Sooryavanshi at the U-19 level, emphasizing long-term development over immediate success. Despite his IPL debut and strong performances, Raman believes this level might hinder his growth. Meanwhile, India began their U-19 World Cup campaign with a win against the USA, though Sooryavanshi had a quiet outing with the bat.",
+    "img": "https://static.toiimg.com/photo/msid-126568546,imgsize-70842.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/detrimental-to-his-growth-ex-india-coach-questions-vaibhav-sooryavanshi-playing-u19-world-cup/articleshow/126568611.cms",
+    "time": "2026-01-16T23:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranveer is spending all his time with Dua before Dhurandhar 2",
+    "desc": "As Ranveer Singh continues to bask in the unprecedented success of Dhurandhar, the New Year brought with it a far more personal celebration for the actor. Ranveer welcomed 2026 in New York with wife Deepika Padukone and their daughter Dua, and the glimpses from their holiday captured a phase marked by both professional triumph and emotional fulfilment.",
+    "img": "https://static.toiimg.com/photo/msid-126594765,imgsize-32938.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-is-spending-all-his-time-with-dua-before-dhurandhar-2-beti-ke-aane-se-naseeb-badal-jaata-hai/articleshow/126594594.cms",
+    "time": "2026-01-16T22:31:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SIR in Uttar Pradesh",
+    "desc": "Uttar Pradesh has seen the largest number of voters deleted from the first draft of the special intensive revision of electoral rolls. Sreeparna Chakrabarty tracks down a few of the 2.89 crore left out of the list, some of whom migrated out of U.P. and some who have shifted houses within the State. Migrant workers from other States who had been registered in two locations must now choose one",
+    "img": "https://th-i.thgim.com/public/incoming/q8ul6l/article70508226.ece/alternates/LANDSCAPE_1200/25_SPOTLIGHT_SIR_VOTER_LIST%20UTTAR_PRADESH.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/sir-in-uttar-pradesh-the-first-cut-is-the-deepest/article70508197.ece",
+    "time": "2026-01-16T22:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suhana recalls being disappointed after a failed school audition",
+    "desc": "Suhana Khan, daughter of Shah Rukh Khan and Gauri Khan, may have been born into one of Bollywood’s most celebrated families, but her decision to become an actor came from a moment of rejection rather than privilege. In a new interview with Harper’s Bazaar India, Suhana revealed that it was a failed audition during her school days that made her realise how deeply she wanted to act.",
+    "img": "https://static.toiimg.com/photo/msid-126593580,imgsize-57778.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-daughter-suhana-khan-recalls-being-so-upset-and-disappointed-after-a-failed-school-audition-i-cried-alone-in-my-room/articleshow/126593402.cms",
+    "time": "2026-01-16T21:50:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In Jharkhand, a tusker on a rampage",
+    "desc": "A male elephant, which has killed at least 20 people in the Chaibasa and Kolhan forest areas of West Singhbhum district, has become the symbol of the human-wildlife conflict in Jharkhand. A massive operation involving more than 100 forest personnel is under way to track the animal. Amit Bhelari reports on the attacks, which have led to panic in the villages, and the ongoing search",
+    "img": "https://th-i.thgim.com/public/incoming/lz3xis/article70515808.ece/alternates/LANDSCAPE_1200/IMG_7275.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jharkhand/in-jharkhand-a-tusker-on-a-rampage/article70515794.ece",
+    "time": "2026-01-16T21:30:00.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "WPL-4: Radha, Richa, Shreyanka star as RCB maintains perfect run",
     "desc": "The two batters put on 105 off 66 balls for the fifth wicket after Giants reduce the Bengaluru outfit to 43 for four; the off-spinner claims five while pacer Bell chips in with a three-wicket haul for the winning side",
@@ -136,9 +226,9 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "J&K Police",
+    "title": "3 hideouts busted in J&K as part of anti-terror operation",
     "desc": "The police had recovered two M4 empty cartridges, one plastic box containing desi ghee, one polythene packet containing almonds, hand gloves, one cap, one blanket, one tarpaulin sheet, one small pouch and a polythene bag",
-    "img": "https://th-i.thgim.com/public/incoming/jyptwr/article70516198.ece/alternates/LANDSCAPE_1200/PTI04_17_2024_000213A.jpg",
+    "img": "https://th-i.thgim.com/public/latest-news/m72keo/article70516444.ece/alternates/LANDSCAPE_1200/Billawar.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/three-terrorist-hideouts-busted-in-jammu-jk-police/article70515624.ece",
     "time": "2026-01-16T16:54:44.000Z"
@@ -252,15 +342,6 @@ const newsData_en = [
     "time": "2026-01-16T15:28:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Five booked, expelled for assaulting Assamese student at Central university in Madhya Pradesh",
-    "desc": "Annupur SP says no racial slurs were used by the accused or mentioned in the victim’s complaint; says accused were drunk and got into a brawl, as some had earlier lived in the hostel room used by the victim",
-    "img": "https://th-i.thgim.com/public/incoming/elmc5t/article70515739.ece/alternates/LANDSCAPE_1200/481033001_1081616297102457_5144708545797441799_n.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/madhya-pradesh/five-booked-expelled-for-assaulting-assamese-student-at-central-university-in-madhya-pradesh/article70515486.ece",
-    "time": "2026-01-16T15:17:06.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Wall Street opens higher near record levels; earnings momentum, oil rebound lift sentiment",
     "desc": "US stocks edged higher, nearing record levels as the first week of quarterly earnings season concluded. Selective bank results, including a jump in PNC Financial Services, and a rebound in oil prices supported market sentiment. Investors now anticipate technology and AI-linked company earnings for further direction.",
@@ -315,42 +396,6 @@ const newsData_en = [
     "time": "2026-01-16T14:08:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Thank you Maharashtra!’ PM Modi hails civic poll verdict; congratulates NDA workers",
-    "desc": "Prime Minister Narendra Modi congratulated BJP workers and thanked Maharashtra's people for the NDA and Mahayuti's sweeping victory in municipal corporation elections. Chief Minister Devendra Fadnavis attributed the success to a development-focused agenda, highlighting the alliance's strong performance, particularly in the Brihanmumbai Municipal Corporation.",
-    "img": "https://static.toiimg.com/photo/msid-126572566,imgsize-34020.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/thank-you-maharashtra-pm-modi-hails-civic-poll-verdict-congratulates-nda-workers/articleshow/126572049.cms",
-    "time": "2026-01-16T14:08:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vivek Oberoi hails Sunny Deol's ‘Border 2’ trailer",
-    "desc": "Vivek Oberoi praised Sunny Deol's 'Border 2' trailer, quoting its iconic line and hailing the 1997 roar's return. He lauded Varun Dhawan, Diljit Dosanjh, and Ahan Shetty's tribute to armed forces. The sequel, directed by Anurag Singh, releases Jan 23 for Republic Day.",
-    "img": "https://static.toiimg.com/photo/msid-126572175,imgsize-20104.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vivek-oberoi-hails-sunny-deols-border-2-trailer-the-roar-that-echoed-in-1997-is-back/articleshow/126572175.cms",
-    "time": "2026-01-16T14:00:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Prabhas and Sandeep Reddy Vanga's'Spirit' release date revealed",
-    "desc": "The highly anticipated Prabhas and Sandeep Reddy Vanga collaboration, 'Spirit', is set to release on March 5, 2027. This cop action thriller, featuring Triptii Dimri and Vivek Oberoi, promises a fierce and dramatic narrative. The film's release coincides with Eid and Maha Shivratri, hinting at a potentially significant box office impact.",
-    "img": "https://static.toiimg.com/photo/msid-126571810,imgsize-57658.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/spirit-release-date-revealed-the-prabhas-starrer-sandeep-reddy-vanga-directorial-set-to-release-on-this-date/articleshow/126571810.cms",
-    "time": "2026-01-16T13:57:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vikram Prabhu's 'Sirai' OTT release date",
-    "desc": "Vikram Prabhu's 25th film, 'Sirai,' a crime drama, is now available on ZEE5 from January 23rd, following its Christmas theatrical release. The film, marking Suresh Rajakumari's directorial debut, features LK Akshay Kumar in his acting debut and explores an escort cop's involvement in a murder investigation. Vikram Prabhu described it as an emotional and personal project.",
-    "img": "https://static.toiimg.com/photo/msid-126571150,imgsize-50588.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sirai-ott-release-heres-when-and-where-you-can-watch-the-vikram-prabhu-film/articleshow/126571150.cms",
-    "time": "2026-01-16T13:47:45.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Pakistan's Babar furious at Steve Smith in BBL; video goes viral",
     "desc": "Babar Azam was left furious during a BBL match when teammate Steve Smith refused a simple run to keep strike in the Power Surge. The incident occurred in the 11th over and went viral. Smith later smashed a record 32-run over and scored 100. Babar was dismissed soon after in frustration, but the Sixers won comfortably, with Smith named Player of the Match.",
@@ -358,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistans-babar-azam-furious-at-steve-smith-in-bbl-video-goes-viral-watch/articleshow/126567889.cms",
     "time": "2026-01-16T13:33:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "BLACKPINK’s Jennie celebrates her 30th birthday",
-    "desc": "K-pop icon Jennie turned 30 in style, hosting a stylishly low-key birthday bash that enchanted her followers online. Dressed to impress, her calm and graceful aura stole the spotlight, symbolizing her leap into a new decade.",
-    "img": "https://static.toiimg.com/photo/msid-126566453,imgsize-41934.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/blackpinks-jennie-celebrates-her-30th-birthday-videos-from-the-celebrations-go-viral-on-social-media/articleshow/126566453.cms",
-    "time": "2026-01-16T12:55:15.000Z"
   },
   {
     "cat": "Sports",
@@ -396,15 +432,6 @@ const newsData_en = [
     "time": "2026-01-16T11:59:26.000Z"
   },
   {
-    "cat": "Business",
-    "title": "How much 22K, 24K gold cost in Delhi, Mumbai &amp; other cities – Check rates",
-    "desc": "Gold prices experienced a slight dip in domestic markets on Friday as profit-taking emerged after international bullion retreated from record highs. A firmer US dollar contributed to the decline in overseas trade. While most major Indian cities saw a marginal increase in gold prices, Chennai recorded a decrease.",
-    "img": "https://static.toiimg.com/photo/msid-126565577,imgsize-1218102.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-today-check-gold-rate-in-your-city-on-january-16-2026-delhi-mumbai-banglore-chennai-kolkata-hyderabad-ahmedabad-jaipur-patna/articleshow/126565407.cms",
-    "time": "2026-01-16T11:44:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "After Gambhir, Rahul visits Mahakaleshwar to seek blessings",
     "desc": "Ahead of the third ODI against New Zealand, KL Rahul visited the Mahakaleshwar Temple to seek Lord Shiva’s blessings. He offered prayers and worshipped Nandi. Rahul is in strong form after scoring an unbeaten 112 in the second ODI, though India lost and the series is tied 1-1. Coaches Gautam Gambhir and Sitanshu Kotak also attended the Bhasma Aarti.",
@@ -424,30 +451,12 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "What Indian households are doing with their money?",
-    "desc": "Indian households are shifting from traditional savings like gold and cash to market-linked investments such as mutual funds and equities. This trend, accelerated by digital access and financial literacy, sees a significant rise in individual investors, particularly younger demographics and women, seeking inflation-beating returns.",
-    "img": "https://static.toiimg.com/photo/msid-126564666,imgsize-127652.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/fundamental-shift-from-savers-to-investors-what-indian-households-are-doing-with-their-money/articleshow/126562899.cms",
-    "time": "2026-01-16T11:01:36.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "Air India, Singapore Airlines sign deal to offer air travellers more routes, easier connections",
     "desc": "The collaboration also aims to have closer alignment of flight schedules between Air India and SIA to enhance customer convenience; both airlines codeshare on 61 points in 20 countries and territories; SIA holds a 25.1% equity stake in the Air India Group",
     "img": "https://th-i.thgim.com/public/business/Industry/nu6bke/article70514327.ece/alternates/LANDSCAPE_1200/AI-Singapore.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/air-india-singapore-airlines-sign-agreement-to-provide-travellers-more-air-routes-loyalty-benefits/article70514320.ece",
     "time": "2026-01-16T10:59:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Bengaluru metro travellers attention! BMRCL adds seventh train; aims to reduce yellow line peak-hour waits",
-    "desc": "Bengaluru's Yellow Line Metro has enhanced its services by introducing a seventh train, reducing peak hour waiting times to 10 minutes. This upgrade aims to ease congestion for commuters. Additionally, BMRCL has launched mobile-based QR code unlimited travel passes for one, three, and five days, promoting digital ticketing and passenger convenience.",
-    "img": "https://static.toiimg.com/photo/msid-126564433,imgsize-1613883.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/infrastructure/bengaluru-metro-travellers-attention-bmrcl-adds-seventh-train-aims-to-reduce-yellow-line-peak-hour-waits/articleshow/126564166.cms",
-    "time": "2026-01-16T10:54:37.000Z"
   },
   {
     "cat": "Entertainment",
@@ -466,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mustafizur-rahman-row-ive-received-death-threats-bangladesh-players-chief-speaks-out/articleshow/126564201.cms",
     "time": "2026-01-16T10:47:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "MSME exports need credit push; Deloitte seeks funding for critical minerals",
-    "desc": "Deloitte India has advised the government to strengthen trade resilience in the upcoming FY27 Budget. Key recommendations include expanding export credit and concessional financing for MSMEs. The firm also suggests allocating funds for critical mineral exploration and overseas access.",
-    "img": "https://static.toiimg.com/photo/msid-126564305,imgsize-1068659.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-msme-exports-need-credit-push-deloitte-seeks-funding-for-critical-minerals/articleshow/126564290.cms",
-    "time": "2026-01-16T10:45:59.000Z"
   },
   {
     "cat": "Sports",
@@ -540,15 +540,6 @@ const newsData_en = [
     "time": "2026-01-16T08:32:16.000Z"
   },
   {
-    "cat": "Business",
-    "title": "US-Taiwan trade deal: China 'resolutely opposes any agreement'; urges Washington to adhere to one-China principle",
-    "desc": "China has strongly opposed a new trade agreement between Washington and Taipei, which aims to cut tariffs on Taiwanese products and boost US investment. Beijing views the deal as a violation of the one-China principle, while the US hails it as a historic pact to reshore its semiconductor sector and foster economic partnership.",
-    "img": "https://static.toiimg.com/photo/msid-126561336,imgsize-45042.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-taiwan-trade-deal-china-resolutely-opposes-any-agreement-urges-washington-to-adhere-to-one-china-principle/articleshow/126561166.cms",
-    "time": "2026-01-16T08:14:42.000Z"
-  },
-  {
     "cat": "World",
     "title": "Uganda's President Museveni takes commanding lead in early election results",
     "desc": "Results announced by the electoral commission from January 15, vote showed Mr. Museveni with 76.25% of vote based on tallies from nearly half of the polling ⁠stations. Wine trailed with 19.85%, with the remaining vote split among six other candidates",
@@ -574,24 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/four-arab-states-urged-against-us-iran-escalation-official-says/article70513632.ece",
     "time": "2026-01-16T07:06:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why actress Khushi Mukherjee faces Rs 100 crore defamation case",
-    "desc": "A Rs 100 crore defamation suit has been filed against actress Khushi Mukherjee by social media personality Faizan Ansari. Ansari alleges Mukherjee's remarks about T20 captain Suryakumar Yadav were false and damaging. Mukherjee claims her comments were misinterpreted and denies any romantic involvement, stating any past communication was friendly and limited.",
-    "img": "https://static.toiimg.com/photo/msid-126559803,imgsize-46588.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/explained-why-actress-khushi-mukherjee-faces-rs-100-crore-defamation-case-over-suryakumar-yadav-remarks/articleshow/126559773.cms",
-    "time": "2026-01-16T06:50:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Andre De Grasse",
-    "desc": "Canadian Olympic medallist Andre De Grasse, visiting Mumbai as ambassador for the Tata Mumbai Marathon, reflected on his journey from an \"accidental runner\" to a seven-time Olympic medallist. He discussed his iconic race against Usain Bolt, his favourite win at the Pan Am Games, and his ambition to compete in the 2028 Los Angeles Olympics.",
-    "img": "https://static.toiimg.com/photo/msid-126558934,imgsize-247392.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/there-is-no-perfect-race-andre-de-grasse/articleshow/126558892.cms",
-    "time": "2026-01-16T06:12:37.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
     "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
   }
 ];
