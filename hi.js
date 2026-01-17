@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Manchester United dominate Manchester City at Old Trafford to move to top 4 in Premier League table",
+    "desc": "Manchester United delivered a statement performance in the Premier League’s headline fixture on January 17, overcoming rivals Manchester City 2‑0 at Old Trafford. The derby victory marked a welcome result for United and their interim...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/manchester-united-dominates-manchester-city-at-old-trafford-to-move-to-top-4-in-premier-league-table-2026-01-17-1026314",
+    "time": "2026-01-17T14:42:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Chinnaswamy cleared to host IPL matches, subject to all terms and conditions met for 2026 season",
+    "desc": "The Karnataka State Cricket Association (KSCA) has received official approval from the Home Department of the Government of Karnataka to host international and Indian Premier League (IPL) matches at the M. Chinnaswamy Stadium in Bengaluru. However, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/chinnaswamy-cleared-to-host-ipl-matches-after-all-terms-and-conditions-met-for-2026-season-2026-01-17-1026309",
+    "time": "2026-01-17T13:49:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Meg Lanning sets new WPL record, UP Warriorz beat defending champions Mumbai Indians",
+    "desc": "UP Warriorz skipper Meg Lanning etched her name into the WPL record books during the marquee clash against Mumbai Indians at the DY Patil Sports Academy in Navi Mumbai. Coming into the game, Lanning was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/meg-lanning-sets-new-wpl-record-up-warriorz-beat-defending-champions-mumbai-indians-2026-01-17-1026308",
+    "time": "2026-01-17T13:34:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Italy announce squad for maiden T20 World Cup 2026, former South Africa international picked",
     "desc": "Italy have announced their 15-member squad for the upcoming T20 World Cup 2026, starting February 7. The Azzuris will open their maiden campaign with a match against Bangladesh on February 9, at the iconic Eden...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/vidarbha-vs-saurashtra-live-when-and-where-to-watch-vijay-hazare-trophy-final-on-tv-and-streaming-2026-01-17-1026267",
     "time": "2026-01-17T07:41:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND vs BAN, U19 World Cup Live Cricket Score: India post 238 runs in first innings; Vaibhav, Kundu star",
-    "desc": "Team India continue their ongoing U19 World Cup campaign by taking on Bangladesh U19. The two sides lock horns at the Queens Sports Club, Bulawayo. The Men in Blue registered their first win of the tourmament...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-ban-u19-world-cup-live-cricket-match-score-update-at-queens-sports-club-bulawayo-vaibhav-suryavanshi-ayush-mhatre-1026262",
-    "time": "2026-01-17T06:56:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I do not understand': Mohammed Kaif questions Nitish Kumar Reddy's role in India squad ahead of third NZ ODI",
-    "desc": "The stage is set for the third ODI between India and New Zealand. The two sides are slated to take on each other at the Holkar Cricket Stadium, Indore, on January 17. It is worth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/i-do-not-understand-mohammed-kaif-questions-nitish-kumar-reddy-s-role-in-the-squad-ahead-of-third-odi-2026-01-17-1026248",
-    "time": "2026-01-17T04:55:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dates, top-seeded players, title contenders, and all you need to know",
-    "desc": "The stage is set for the upcoming edition of the Australian Open 2026. Many of the world’s best tennis stars will be going head-to-head in hopes of getting their hands on the very first Grand...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/australian-open-2026-dates-top-seeded-players-title-contenders-and-all-you-need-to-know-2026-01-17-1026243",
-    "time": "2026-01-17T03:57:56.000Z"
   }
 ];
