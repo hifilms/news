@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'I do not understand': Mohammed Kaif questions Nitish Kumar Reddy's role in India squad ahead of third NZ ODI",
+    "desc": "The stage is set for the third ODI between India and New Zealand. The two sides are slated to take on each other at the Holkar Cricket Stadium, Indore, on January 17. It is worth...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/i-do-not-understand-mohammed-kaif-questions-nitish-kumar-reddy-s-role-in-the-squad-ahead-of-third-odi-2026-01-17-1026248",
+    "time": "2026-01-17T04:55:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dates, top-seeded players, title contenders, and all you need to know",
+    "desc": "The stage is set for the upcoming edition of the Australian Open 2026. Many of the world’s best tennis stars will be going head-to-head in hopes of getting their hands on the very first Grand...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/australian-open-2026-dates-top-seeded-players-title-contenders-and-all-you-need-to-know-2026-01-17-1026243",
+    "time": "2026-01-17T03:57:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shreyanka Patil scripts history with stellar five-wicket haul against Gujarat Giants in WPL 2026",
     "desc": "Game 9 of the ongoing WPL (Women’s Premier League) 2026 saw Gujarat Giants taking on Royal Challengers Bengaluru women at the Dr. DY Patil Sports Academy in Navi Mumbai on January 16. The clash saw...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rcb-w-vs-gg-w-wpl-match-score-live-unbeaten-bengaluru-challenges-gujarat-as-winner-to-take-top-spot-2026-01-16-1026207",
     "time": "2026-01-16T13:39:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Steve Smith denies single to Babar Azam for his slow knock, Pakistan international left frustrated: Watch",
-    "desc": "Steve Smith and Babar Azam were at the heart of a dramatic and occasionally awkward situation as Sydney Sixers defeated Sydney Thunder by five wickets in the ongoing Big Bash League at the Sydney Cricket...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/steve-smith-denies-single-to-babar-azam-for-his-slow-knock-pakistan-international-left-frustrated-watch-2026-01-16-1026204",
-    "time": "2026-01-16T13:15:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB propose RS 4.5 crore plan for crowd control at Chinnaswamy, plan to set AI-based cameras for tracking",
-    "desc": "Royal Challengers Bengaluru have taken a major step toward strengthening matchday security by submitting a formal proposal to upgrade surveillance infrastructure at the M. Chinnaswamy Stadium ahead of the IPL 2026 season. The defending champions...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-propose-inr-4-5-crore-plan-for-crowd-control-at-chinnaswamy-plan-to-set-ai-based-cameras-for-live-tracking-2026-01-16-1026199",
-    "time": "2026-01-16T12:28:58.000Z"
   }
 ];

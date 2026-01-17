@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "অসম, নাগাল্যান্ড, পশ্চিমবঙ্গ একই সাথে আজ রেল পথে জুড়ছে দিল্লির সঙ্গে! কোন কোন ট্রেন? মোদির হাতেই উদ্বোধন",
+    "desc": "সীমান্তবর্তী অঞ্চল, তীর্থকেন্দ্র এবং প্রধান শহরগুলোকে সংযুক্ত করার মাধ্যমে ডিব্রুগড়-লখনউ (গোমতী নগর) অমৃত ভারত এক্সপ্রেস পর্যটনকে উৎসাহিত করবে, স্থানীয় বাণিজ্যকে बढ़ावा দেবে, ক্ষুদ্র ব্যবসাকে সমর্থন করবে এবং কর্মসংস্থানের সুযোগ বৃদ্ধি করবে বলে আশা করা হচ্ছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-79-2026-01-995329885b5718a47a2d772c9e989d53-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/west-bengal/indian-railways-new-7-amrit-bharat-express-how-delhi-is-connected-with-bengal-assam-and-nagaland-sta-2500592.html",
+    "time": "2026-01-17T05:48:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "শনিবার ব্যাঙ্ক খোলা না বন্ধ? জানুয়ারি মাসের পুরো ছুটির তালিকা জেনে নিন",
+    "desc": "শনিবার ব্যাঙ্ক খোলা না বন্ধ—এই প্রশ্নে প্রায়শই গ্রাহকদের মধ্যে বিভ্রান্তি তৈরি হয়। কারণ ভারতে প্রতি মাসের দ্বিতীয় ও চতুর্থ শনিবার এবং প্রতি রবিবার সমস্ত সরকারি ও বেসরকারি ব্যাঙ্ক বন্ধ থাকে, অন্যদিকে প্রথম, তৃতীয় ও পঞ্চম শনিবার ব্যাঙ্কের কাজকর্ম স্বাভাবিক থাকে। তবে সপ্তাহান্ত ছাড়াও জাতীয় ছুটি, রাজ্যভিত্তিক সরকারি ছুটি ও বিশেষ উৎসবের দিনেও ব্যাঙ্ক বন্ধ থাকতে পারে। ২০২৬ সালের ১৭ জানুয়ারি ব্যাঙ্ক ছুটি, তবে ইউপিআই ও নেট ব্যাঙ্কিং চালু থাকবে। অন্যান্য শহরে ছুটি রাজ্যভিত্তিক। কবে কোথায় জেনে নিন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/reserve-bank-of-india-closed-2026-01-1e9e0a4b71b81deaa31e710bbd8965ca-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/bank-closed-or-open-saturday-bank-holiday-are-banks-open-or-closed-today-on-january-17-2026-check-rbi-holiday-calendar-tib-ws-el-2500603.html",
+    "time": "2026-01-17T05:38:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বারাণসীর কাশী বিশ্বনাথ মন্দির, লখনউ ছুঁয়ে দিল্লি! হাওড়া পেল দিল্লি যাওয়ার দারুণ ট্রেন",
+    "desc": "এই রুটটি ভারতের বেশ কয়েকটি বিখ্যাত পর্যটন এবং তীর্থস্থানগুলির পাশ দিয়ে গেছে। এর মধ্যে রয়েছে দেশের অন্যতম পবিত্র তীর্থস্থান কাশী বিশ্বনাথ মন্দির, ভগবান বুদ্ধের জীবনের সাথে সম্পর্কিত ঐতিহ্যবাহী স্থান মহাবোধি মন্দির, নবাবী ঐতিহ্যের জন্য পরিচিত লখনউ এবং দিল্লি, যেখানে লাল কেল্লা ও কুতুব মিনারের মতো আইকনিক স্মৃতিস্তম্ভ রয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-17-at-10.31.30-2026-01-ee9613a9ba73fa0f3bc8035893aa63f7-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/west-bengal/narendra-modi-amrit-bharat-express-will-connect-howrah-to-delhi-via-kashi-viswanath-temple-sta-2500632.html",
+    "time": "2026-01-17T05:03:09.000Z"
+  },
+  {
     "cat": "World",
     "title": "'এবার আমার ভেনেজুয়েলাকে খুব ভাল লাগছে! আমরা তেল নেব’ বললেন ডোনাল্ড ট্রাম্প, অন্তর্বর্তী সরকারের সঙ্গে দারুণ সম্পর্কের দাবি!",
     "desc": "সামরিক আক্রমণের সুর থেকে সরে এসে ভেনেজুয়েলার অন্তর্বর্তী সরকারের সঙ্গে কাজ করা, দেশটিকে ‘চমৎকার’ বলে উল্লেখ করা এবং বিপুল পরিমাণ তেল গ্রহণে সম্মতির বার্তা—সব মিলিয়ে নোবেল পদক হাতে পাওয়ার পর ভেনেজুয়েলা নীতি নিয়ে ট্রাম্পের অবস্থানে স্পষ্ট পরিবর্তনের ইঙ্গিত মিলছে।",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/business/how-long-will-the-cold-wave-last-in-bengal-big-weather-department-update-dc-2487916.html",
     "time": "2026-01-08T07:18:20.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ডার্ক মোড কি সত্যিই ফোনের ব্যাটারি বাঁচায়? আপনার অজান্তেই চোখের ক্ষতি হচ্ছে না তো? জানুন পুরো সত্য",
-    "desc": "ডার্ক মোড নিয়ে অনেকেরই ধারণা, এটি ব্যাটারি সাশ্রয় করে এবং চোখের জন্য বেশি আরামদায়ক। কিন্তু সত্যিই কি সব ফোন ও সব অ্যাপের ক্ষেত্রে এই ধারণা ঠিক? জেনে নেওয়া যাক ডার্ক মোডের সুবিধা, অসুবিধা এবং আসল সত্য।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1767849674_Dark-mode-1-2026-01-da47fb2684012bff57b7baf119bc982b-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/technology/dark-mode-is-popular-for-saving-battery-and-reducing-eye-strain-but-does-it-really-work-on-every-phone-app-know-advantages-and-disadvantages-transpg-ac-2487711.html",
-    "time": "2026-01-08T06:11:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "রেডি ফর রান! আজই দিল্লি থেকে রওনা দিচ্ছে কলকাতার বন্দে ভারত স্পেশাল..কবে ট্রায়াল?",
-    "desc": "ট্রেনটিতে উচ্চমানের স্যানিটেশন এবং স্বাস্থ্যবিধি বজায় রাখার জন্য আধুনিক জীবাণুমুক্তকরণ প্রযুক্তিও অন্তর্ভুক্ত করা হয়েছে। চালকের কেবিনটি নির্ভুল এবং দক্ষ পরিচালনার জন্য উন্নত কন্ট্রোল দ্বারা সজ্জিত এবং এর অ্যারোডাইনামিক বাহ্যিক নকশা শক্তি দক্ষতা ও স্থিতিশীলতা বাড়ায়। স্বয়ংক্রিয় বাহ্যিক যাত্রিবাহী দরজা যাত্রীদের নিরাপত্তা ও সুবিধা আরও বাড়িয়ে তোলে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ydne-2026-01-08T092538.992-2026-01-7f369bb7f586f6bb376aaf5701e4bdc6-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/indian-railways-vande-bharat-sleeper-train-will-start-its-journey-from-delhi-to-kolkata-today-for-trial-run-sta-2487456.html",
-    "time": "2026-01-08T03:58:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "অনুমতি মিলতেই কাজ শুরু! মেসি ইভেন্ট-এ ক্ষয়ক্ষতির পরে জোরকদমে যুবভারতী সংস্কার",
-    "desc": "এই ঘটনায় তদন্ত নেমে পুলিশের তরফ থেকে মাঠের ফরেনসিক নমুনা সংগ্রহ করা হয়। বছরে শুরু থেকেই মাঠ ঠিক করার অনুমতি পুলিশের তরফ থেকে দেওয়া হয়েছে। আনুমানিক আড়াই কোটি টাকা ক্ষয়ক্ষতি হয়েছে বলেই খবর। ইতিমধ্যেই মাঠের মধ্যে পড়ে থাকা যাবতীয় চেয়ার, জলের বোতল, পাথর সহ সমস্ত সামগ্রী সরিয়ে মাঠ পরিষ্কার করা হয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-07-at-11.28.25-PM-2026-01-661c4de918e79aea1cc8066b3360d15e-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/chaos-unfolds-at-yuvabharati-around-lionel-messi-repair-started-rmj-ws-l-2487332.html",
-    "time": "2026-01-07T18:08:18.000Z"
   }
 ];

@@ -6,7 +6,7 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/all-india-weather-imd-alert-comma-shaped-layer-of-fog-ambalal-patel-gujarat-weather-forecast-461923 ",
-    "time": "2026-01-17T03:16:01.000Z"
+    "time": "2026-01-17T04:06:18.000Z"
   },
   {
     "cat": "Politics",
@@ -387,15 +387,6 @@ const newsData_gu = [
     "time": "2026-01-14T15:03:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "99 લાખ 99 હજાર 999 મૂર્તિઓ... ભારતનું અનોખું મંદિર, જાણો શું છે તેનું રહસ્ય?",
-    "desc": "ત્રિપુરાનું ઉનાકોટી મંદિર 99 લાખ 99 હજાર 999 પથ્થરની મૂર્તિઓ માટે પ્રખ્યાત છે. ભગવાન શિવ, દેવી-દેવતાઓ અને કાલુ કારીગર સાથે જોડાયેલી કથાઓના કારણે આ મંદિર આજે પણ રહસ્ય અને આસ્થાનો અનોખો સંગમ બની રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/mysterious-unakoti-temple-9999999-idols-indias-unique-shrine-and-its-secret-461671 ",
-    "time": "2026-01-14T12:07:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ICC ODI રેન્કિંગમાં વિરાટ કોહલી ફરી નંબર-1, રોહિત શર્માએ ગુમાવ્યો તાજ",
     "desc": "વિરાટ કોહલી ફરી એકવાર ICC ODI રેન્કિંગમાં નંબર વન બેટ્સમેન બન્યો છે. તેણે રોહિત શર્મા પાસેથી આ સ્થાન છીનવી લીધું છે. 37 વર્ષની ઉંમરે વિરાટની આ વાપસી એટલા માટે પણ ખાસ છે કારણ કે તે જુલાઈ 2021 પછી પહેલીવાર નંબર-૧ સ્થાન પર પાછો ફર્યો છે.",
@@ -412,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-2nd-odi-why-nitish-reddy-replaced-ayush-badoni-in-playing-11-461656 ",
     "time": "2026-01-14T08:32:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ખેતરમાં પણ નથી ઉગતું અને થાળીમાં પણ નથી અપાતુ, દેશનું એકમાત્ર શહેર જ્યાં ડુંગળી અને લસણ પર છે સંપૂર્ણ પ્રતિબંધ",
-    "desc": "ભારત એક વૈવિધ્યસભર દેશ છે, જ્યાં દરેક ક્ષેત્રના લોકો રહે છે. કેટલાક શાકાહારી છે, જ્યારે કેટલાક માંસ ખાય છે. ઘણા લોકો લસણ કે ડુંગળી પણ ખાતા નથી. જોકે, મોટાભાગના ભારતીય રસોડામાં ડુંગળીને એક સામાન્ય શાકભાજી માનવામાં આવે છે, અને ઘણા લોકો તેનો વ્યાપક ઉપયોગ કરે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/the-only-city-in-the-country-where-there-is-a-complete-ban-on-onion-and-garlic-461649 ",
-    "time": "2026-01-14T07:52:05.000Z"
   },
   {
     "cat": "Sports",
@@ -468,24 +450,6 @@ const newsData_gu = [
     "time": "2026-01-13T17:59:06.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ફક્ત 1 રન દૂર... તૂટી જશે ક્રિકેટના ભગવાનનો રેકોર્ડ, ન્યુઝીલેન્ડ સામે ઇતિહાસ રચશે વિરાટ કોહલી",
-    "desc": "ટીમ ઇન્ડિયાનો સ્ટાર બેટ્સમેન વિરાટ કોહલી આ દિવસોમાં શાનદાર ફોર્મમાં છે. તેણે ન્યૂઝીલેન્ડ સામેની પહેલી મેચમાં શાનદાર બેટિંગ કરી. તે ફક્ત એક રનથી સચિનનો મોટો રેકોર્ડ તોડી નાખશે. આમ કરીને, તે વનડે ક્રિકેટમાં ન્યૂઝીલેન્ડ સામે આ સિદ્ધિ મેળવનાર નંબર વન ભારતીય બેટ્સમેન બનશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/the-record-of-the-god-of-cricket-will-be-broken-virat-kohli-will-create-history-461602 ",
-    "time": "2026-01-13T15:32:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ઉત્તરાયણ પહેલા DA પર આ રાજ્યોએ લીધો નિર્ણય, કર્મચારીઓ માટે સારા સમાચાર",
-    "desc": "12 જાન્યુઆરીના રોજ, આ રાજ્યની સરકારે તેના કર્મચારીઓ અને પેન્શનરોને ડીએ અને બાકી રકમ ચૂકવવા માટે તેમજ કોન્ટ્રાક્ટર બિલ ચૂકવવા માટે 2600 કરોડ રૂપિયાથી વધુની રકમ જાહેર કરી. તેલંગાણા સરકારે પણ તેના કર્મચારીઓ માટે ડીએમાં વધારો કર્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/these-states-took-decision-on-da-before-uttarayan-good-news-for-employees-461591 ",
-    "time": "2026-01-13T13:18:22.000Z"
-  },
-  {
     "cat": "World",
     "title": "વિશ્વનો એકમાત્ર એવો કયો દેશ છે, જેની ત્રણ રાજધાની છે ? જાણી લો જવાબ",
     "desc": "દુનિયાના દરેક દેશની પોતાની આગવી ઓળખ હોય છે અને તેની રાજધાની તેનું સૌથી મહત્વપૂર્ણ રાજકીય અને વહીવટી કેન્દ્ર હોય છે. દરેક દેશની પોતાની એક રાજધાની હોય છે, જો કે એક દેશ એવો છે, જેની 3 રાજધાની છે.",
@@ -493,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/gk-quiz-which-is-the-only-country-in-the-world-that-has-three-capitals-461588 ",
     "time": "2026-01-13T12:20:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "રોહિત-કોહલી માટે પનોતી બન્યું રાજકોટનું મેદાન, 17 વર્ષથી અધૂરું છે આ એક સપનું",
-    "desc": "ભારત અને ન્યુઝીલેન્ડ વચ્ચેની બીજી વનડે મેચ થોડા કલાકોમાં જ શરૂ થશે. સિરીઝમાં ભારત 1-0થી આગળ છે. બધાની નજર રોહિત શર્મા અને વિરાટ કોહલીના પ્રદર્શન પર છે. છેલ્લી મેચમાં રોહિતે 26 રન બનાવ્યા હતા, જ્યારે વિરાટ કોહલીને ખરાબ નસીબનો સામનો કરવો પડ્યો હતો, તેમણે 93 રન પર પોતાની વિકેટ ગુમાવી દીધી હતી. હવે આગામી મેચ રાજકોટના મેદાનમાં રમાવાની છે, જે વિરાટ અને રોહિત માટે પનોતી સાબિત થયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-2nd-odi-rajkot-rohit-sharma-virat-kohli-century-drought-records-461587 ",
-    "time": "2026-01-13T12:19:25.000Z"
   },
   {
     "cat": "World",
