@@ -1,5 +1,77 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Why Aamir said yes to Dev Anand’s Awwal Number without script",
+    "desc": "Today, Aamir Khan is known as Bollywood’s ultimate perfectionist—an actor who refuses to associate with a film unless he is fully convinced by its script. Over the years, this approach has seen him walk away from several high-profile projects. But early in his career, Aamir once made a rare exception—and that too without even asking for the story.",
+    "img": "https://static.toiimg.com/photo/msid-126628545,imgsize-36248.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dont-ask-the-story-dont-ask-the-money-why-aamir-khan-said-yes-to-dev-anands-awwal-number-without-reading-the-script/articleshow/126628515.cms",
+    "time": "2026-01-17T20:48:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "EU, Mercosur bloc ink major trade deal, reject 'tariffs' and 'isolation'",
+    "desc": "South American and European Union officials on Saturday signed a major trade deal, which they hailed as sending a powerful message at a time of tariff threats, global uncertainty and protectionism. The deal will favor European exports of cars, wine and cheese, while making it easier for South American beef, poultry, sugar, rice, honey and soybeans to enter Europe.",
+    "img": "https://static.toiimg.com/photo/msid-126628083,imgsize-1049766.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/eu-mercosur-bloc-ink-major-trade-deal-reject-tariffs-and-isolation/articleshow/126628024.cms",
+    "time": "2026-01-17T20:19:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Has an Arbitration Council been constituted?",
+    "desc": "What would be the functions of the Arbitration Council of India? Why have there been concerns with respect to institutional impartiality? What are some of the criticisms of the amendments? What does the draft Arbitration and Conciliation (Amendment) Bill, 2024 propose?",
+    "img": "https://th-i.thgim.com/public/incoming/ua9jot/article70520017.ece/alternates/LANDSCAPE_1200/iStock-1483489085.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/has-an-arbitration-council-been-constituted-explained/article70519620.ece",
+    "time": "2026-01-17T20:07:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How Rajesh Khanna almost said no to Sharmila Tagore's Aradhana",
+    "desc": "In 1965, Rajesh Khanna won a prestigious Talent Contest and was signed for a 12-film deal by United Producers, which included G P Sippy, Shakti Samanta and B R Chopra. One of those films was Aradhana—ironically, the very project that would turn him into a phenomenon Hindi cinema had never witnessed before.",
+    "img": "https://static.toiimg.com/photo/msid-126627642,imgsize-38436.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/main-kya-karunga-how-rajesh-khanna-almost-said-no-to-sharmila-tagores-aradhana-the-film-that-made-him-indias-first-superstar/articleshow/126627564.cms",
+    "time": "2026-01-17T20:00:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Akshaye is 10/10, but Ranveer is 100/10': Suniel Shetty on 'Dhurandhar'",
+    "desc": "Blockbuster 'Dhurandhar' continues its phenomenal run, crossing Rs 1300 crore globally. Actor Suniel Shetty lauded director Aditya Dhar's vision and praised the cast, calling Akshaye Khanna 'ten on ten' and Ranveer Singh '100 out of 10'. Shetty highlighted Ranveer's controlled performance as particularly challenging and expressed excitement for his potential in future installments.",
+    "img": "https://static.toiimg.com/photo/msid-126627484,imgsize-40822.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshaye-khanna-is-10/10-ranveer-singh-is-100/10-legendary-says-suniel-shetty-as-he-showers-praise-on-aditya-dhars-dhurandhar/articleshow/126627493.cms",
+    "time": "2026-01-17T19:53:09.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran protests",
+    "desc": "What began as a shopkeepers’ strike transformed into one of the largest anti-government protests the Islamic Republic has seen, triggering a violent state crackdown in which thousands are feared killed; Tehran says Western intelligence agencies hijacked the protest and unleashed ‘domestic terror’",
+    "img": "https://th-i.thgim.com/public/incoming/mf8irg/article70519759.ece/alternates/LANDSCAPE_1200/Iran_Revolution_Anniversary_Economy_26704.jpg-674ee.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-protests-the-revolution-will-not-be-televised/article70519764.ece",
+    "time": "2026-01-17T19:35:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sunita says Govinda hasn’t supported son Yashvardan’s career",
+    "desc": "Govinda’s wife Sunita Ahuja has once again dropped strong hints about trouble in her marriage, suggesting that the actor was allegedly involved with a newcomer and is even being blackmailed. In a recent interaction, Sunita also accused Govinda of not supporting their son Yashvardan Ahuja’s career and revealed that she has advised her son not to follow in his father’s footsteps.",
+    "img": "https://static.toiimg.com/photo/msid-126625516,imgsize-105882.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunita-ahuja-says-govinda-hasnt-supported-son-yashvardans-career-i-told-my-son-not-to-copy-govinda-he-is-like-dharmendra-and-amitabh-bachchan/articleshow/126625390.cms",
+    "time": "2026-01-17T18:39:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Naseerudin Shah is an agnostic maybe,' says his son Vivaan Shah",
+    "desc": "Veteran actor Naseeruddin Shah's personal beliefs on God and religion have remained largely private. His son, Vivaan Shah, recently addressed this, admitting he's unsure if his father is an atheist. Vivaan noted his father's visits to Ajmer Sharif, suggesting he might be agnostic.",
+    "img": "https://static.toiimg.com/photo/msid-126624782,imgsize-57000.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/naseerudin-shah-is-an-agnostic-maybe-says-his-son-vivaan-shah-before-exams-we-always-used-to-go-to-ajmer-sharif/articleshow/126624795.cms",
+    "time": "2026-01-17T18:20:05.000Z"
+  },
+  {
     "cat": "Business",
     "title": "GTRI calls for tariff overhaul; simpler customs to cut costs and lift exports",
     "desc": "A GTRI report urges India to overhaul its import tariff structure and customs administration to boost trade costs, manufacturing competitiveness, and export growth. Recommendations include a gradual move to zero duty on raw materials and a 5% duty on finished goods, alongside simplifying procedures and eliminating inverted duty structures.",
@@ -316,24 +388,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Ajay Devgn starrer 'Dhamaal 4' gets new release date",
-    "desc": "'Dhamaal 4' is set to take the summer by storm with its grand debut on June 12, 2026! The much-anticipated return of Ajay Devgn, Arshad Warsi, and Riteish Deshmukh means we’re in for another round of uproarious fun.",
-    "img": "https://static.toiimg.com/photo/msid-126616436,imgsize-70038.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ajay-devgn-starrer-dhamaal-4-gets-new-release-date-reports/articleshow/126616436.cms",
-    "time": "2026-01-17T13:39:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Smashing Machine OTT India release details",
-    "desc": "In 'The Smashing Machine,' Dwayne Johnson takes on an astonishing and transformative role as MMA icon Mark Kerr. Streaming now in India, the film dives deep into Kerr's captivating journey, tackling themes of addiction and the complexities of his relationship with Emily Blunt.",
-    "img": "https://static.toiimg.com/photo/msid-126616140,imgsize-28476.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-smashing-machine-ott-release-in-india-when-and-where-to-watch-the-dwayne-johnson-starrer-online/articleshow/126616140.cms",
-    "time": "2026-01-17T13:30:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Kangana was denied saree for Ram Janmbhoomi by designer Masaba Gupta",
     "desc": "Kangana Ranaut has hit back at AR Rahman's comments on Bollywood's alleged communal bias, calling him prejudiced. She revealed that Rahman refused to meet her for her directorial 'Emergency,' citing it as a propaganda film. Ranaut also shared a distressing incident where designer Masaba Gupta allegedly denied her a saree for Ram Janmbhoomi, causing her deep humiliation.",
     "img": "https://static.toiimg.com/photo/msid-126616049,imgsize-57538.cms",
@@ -351,24 +405,6 @@ const newsData_en = [
     "time": "2026-01-17T13:15:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Celina Jaitly’s emotional Army Day post amid brother detainment",
-    "desc": "On Army Day, actress Celina Jaitly brought attention to the untold hardships faced by the families of soldiers, sharing her own story of resilience. Her brother, Major Vikrant Kumar Jaitly, has been held in Abu Dhabi for over a year. Alongside an emotional letter from him, she celebrated his illustrious military service.",
-    "img": "https://static.toiimg.com/photo/msid-126615685,imgsize-24558.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/celina-jaitly-makes-emotional-army-day-post-amid-brothers-detainment-families-serve-too-just-without-medals/articleshow/126615685.cms",
-    "time": "2026-01-17T13:15:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'I'm also called Deva': Fadnavis on Uddhav Thackeray's ‘God-willing’ remark; asserts Mumbai mayor will be from Mahayuti",
-    "desc": "Maharashtra CM Devendra Fadnavis wittily responded to Uddhav Thackeray's mayoral aspirations, questioning if 'Deva' referred to him or God. Fadnavis asserted that the Mahayuti alliance, led by BJP and Eknath Shinde, will collectively decide the BMC mayor's selection and tenure, following their victory in the civic body elections.",
-    "img": "https://static.toiimg.com/photo/msid-126615766,imgsize-931536.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/im-also-called-deva-fadnavis-on-uddhav-thackerays-god-willing-remark-asserts-mumbai-mayor-will-be-from-mahayuti/articleshow/126615719.cms",
-    "time": "2026-01-17T13:13:54.000Z"
-  },
-  {
     "cat": "Business",
     "title": "China cuts its U.S. debt holdings to a 17-year low, shifts reserves to gold",
     "desc": "China's holdings of U.S. treasuries fell to $682.6 billion in November last year, down from $688.7 billion in October, the lowest since 2008, according to data released by the U.S. Department of the Treasury on Thursday (January 15, 2026)",
@@ -376,15 +412,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/china-cuts-its-us-debt-holdings-to-a-17-year-low-shifts-reserves-to-gold/article70518744.ece",
     "time": "2026-01-17T13:11:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priya Sachdev files criminal defamation case against Mandhira",
-    "desc": "In a fresh escalation of the ongoing legal battle over late businessman Sunjay Kapur’s estate, his widow Priya Sachdev Kapur has filed a criminal defamation complaint against Sunjay’s sister, Mandhira Kapur Smith, and another individual.",
-    "img": "https://static.toiimg.com/photo/msid-126616122,imgsize-47468.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunjay-kapur-inheritance-row-priya-sachdev-files-criminal-defamation-case-against-mandhira-kapur-smith-amid-estate-dispute/articleshow/126615548.cms",
-    "time": "2026-01-17T13:08:19.000Z"
   },
   {
     "cat": "Business",
@@ -396,15 +423,6 @@ const newsData_en = [
     "time": "2026-01-17T13:05:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Subject to judicial process’: Embassy on Indian crew detained in Iran; seeks ‘consular access’",
-    "desc": "India is actively engaging Iran to secure the release of 16 Indian crew members detained on the MT Valiant Roar since December. New Delhi is pressing for consular access, communication with families, and legal representation, while also ensuring the vessel's provisions. The detention follows Iran's seizure of the tanker for alleged illegal fuel transport.",
-    "img": "https://static.toiimg.com/photo/msid-126615469,imgsize-383740.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/continue-to-press-embassy-on-indian-crew-detained-in-iran-seeks-consular-access/articleshow/126615370.cms",
-    "time": "2026-01-17T13:04:05.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Karan Johar cried before Salman on KKHH set",
     "desc": "Karan Johar recalls intense nerves on Salman Khan’s first day shooting Kuch Kuch Hota Hai. A costume disagreement overwhelmed him, and he cried in Khan’s vanity van. Salman reassured him, agreed to change, and joined the film.",
@@ -414,15 +432,6 @@ const newsData_en = [
     "time": "2026-01-17T12:59:46.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ameesha Patel reacts to ‘Border 2’ trailer",
-    "desc": "Ameesha Patel enthusiastically reacted to Sunny Deol's 'Border 2' trailer, praising his powerful presence and calling him 'HINDUSTAN ki SHAAN'. Her social media shoutout reignited fan memories of their iconic 'Gadar' chemistry. The trailer promises a grand war drama with intense action and emotional depth, set against the 1971 Indo-Pak War.",
-    "img": "https://static.toiimg.com/photo/msid-126614527,imgsize-36272.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ameesha-patel-reacts-to-border-2-trailer-showers-love-on-sunny-deol-kya-baat-hain-tara/articleshow/126614368.cms",
-    "time": "2026-01-17T12:33:23.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "It's now or never for India’s FIFA World Cup push: Ashalata Devi",
     "desc": "The veteran defender pointed out that all three national teams — Under-17, Under-19 and the senior side — have qualified for their respective AFC Asian Championships, making 2026 a potentially defining year for the women’s game in India",
@@ -430,15 +439,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/its-now-or-never-for-indias-fifa-world-cup-push-ashalata-devi/article70518459.ece",
     "time": "2026-01-17T12:15:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Uddhav Thackeray hits out at BJP after BMC loss; PM Modi calls for ‘Asli Poribortan’ in Bengal; &amp; more",
-    "desc": "Uddhav Thackeray vowed to fight back after BMC elections, accusing BJP of betrayal. PM Modi targeted TMC in West Bengal, calling for 'asli poribortan'. India and Bangladesh U-19 captains skipped a handshake amid strained ties. PM Modi also flagged off four new Amrit Bharat Express trains.",
-    "img": "https://static.toiimg.com/photo/msid-126613895,imgsize-589095.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-uddhav-thackeray-hits-out-at-bjp-after-bmc-loss-pm-modi-calls-for-asli-poribortan-in-bengal-more/articleshow/126613430.cms",
-    "time": "2026-01-17T12:08:20.000Z"
   },
   {
     "cat": "Sports",
@@ -846,24 +846,6 @@ const newsData_en = [
     "time": "2026-01-11T09:46:16.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Sabalenka wins Brisbane final amid frosty exchange with Kostyuk",
-    "desc": "It was the third year in a row Sabalanka appeared in the final, and the Belarusian player looked in comfortable surroundings as she closed out a 6-4, 6-3 victory in just 1 hour and 17 minutes at Pat Rafter Arena",
-    "img": "https://th-i.thgim.com/public/incoming/ot6b9a/article70497377.ece/alternates/LANDSCAPE_1200/2026-01-11T085907Z_626966082_UP1EM1B0OYHOB_RTRMADP_3_TENNIS-BRISBANE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/sabalenka-wins-brisbane-final-amid-frosty-exchange-with-kostyuk/article70497375.ece",
-    "time": "2026-01-11T09:32:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kohli, Gill excel as Men in Blue overcome a stutter to go one up",
-    "desc": "Rahul takes the home team past the finish line with an over to spare after Jamieson leads the fightback for the Kiwis; the visiting side fails to capitalise on a solid opening stand; Mitchell continues his merry run against the Indians",
-    "img": "https://th-i.thgim.com/public/incoming/v9yw1e/article70498897.ece/alternates/LANDSCAPE_1200/VIS_5532.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-first-odi-match-report-virat-kohli-rohit-sharma-michael-bracewell-updates/article70497249.ece",
-    "time": "2026-01-11T07:57:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "From 1952 to today: Why ‘Parasakthi’ still divides Tamil Nadu",
     "desc": "A Sivakarthikeyan film has revived debate around the name Parasakthi, echoing a storm first unleashed in 1952. This video revisits how the original Parasakthi challenged religious orthodoxy, reshaped Tamil cinema, and propelled M. Karunanidhi and Sivaji Ganesan into history—while narrowly escaping a ban amid political pressure and public outrage.",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
     "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
   }
 ];
