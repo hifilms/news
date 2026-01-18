@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vidarbha beat Saurashtra in to lift maiden Vijay Hazare Trophy trophy as Atharva Taide slams hundred in final",
+    "desc": "Vidarbha defeated Saurashtra in the final of the Vijay Hazare Trophy 2025/26 as Atharva Taide slammed a scintillating hundred in a 38-run comfortable victory to seal their maiden Vijay Hazare Trophy title on Sunday. Taide slammed a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vidarbha-beat-saurashtra-in-to-lift-maiden-vijay-hazare-trophy-trophy-as-atharva-taide-slams-hundred-in-final-2026-01-19-1026425",
+    "time": "2026-01-18T18:36:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When will Virat Kohli and Rohit Sharma play next match for India after conclusion of IND vs NZ ODI series?",
+    "desc": "Virat Kohli and Rohit Sharma were in action in the recently-concluded ODI series against New Zealand as fans got the chance to watch their favourite cricketers donning the Indian jersey in the three ODIs. India...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/when-will-virat-kohli-and-rohit-sharma-play-next-match-for-india-after-conclusion-of-ind-vs-nz-odi-series-2026-01-18-1026424",
+    "time": "2026-01-18T18:27:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How many centuries Virat Kohli need to break Sachin Tendulkar's world record of international tons?",
     "desc": "Indian icon Virat Kohli continued his Midas touch in ODI cricket as he slammed a stellar hundred in the third match of the series against New Zealand on Sunday, January 18. Kohli hit 124 in...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-hardik-pandya-not-playing-3rd-odi-vs-new-zealand-in-indore-2026-01-18-1026381",
     "time": "2026-01-18T07:42:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand beat India by 41 runs to clinch series",
-    "desc": "India aim to clinch the ODI series against New Zealand as they look to chase down 338 in the series decider at the Holkar Stadium in Indore. The Men in Blue banked on the likes...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-new-zealand-3rd-odi-cricket-match-score-live-today-at-match-holkar-cricket-stadium-virat-kohli-rohit-sharma-shubman-gill-1026378",
-    "time": "2026-01-18T07:15:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "VID vs SAU, Vijay Hazare Trophy Final Match Score Highlights: Vidarbha beat Saurashtra in final by 38 runs",
-    "desc": "Vidarbha and Saurashtra take on each other in the final of the ongoing Vijay Hazare Trophy. The two sides face off at the Centre of Excellence Ground 1 in Bengaluru, and with some stellar performances...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vid-vs-sau-vijay-hazare-trophy-final-match-score-live-vidarbha-takes-on-saurashtra-in-title-clash-2026-01-18-1026376",
-    "time": "2026-01-18T07:06:49.000Z"
   }
 ];

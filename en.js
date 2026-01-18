@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Rahman says people gaslighted him into believing he's not making good music",
+    "desc": "AR Rahman revealed a deliberate strategy to work on 20-30 films between 2019-2025 to connect with a new generation and counter nostalgic perceptions of his music. He emphasized reinventing himself, dropping formulas, and prioritizing future work over past accolades to maintain motivation and a fresh perspective.",
+    "img": "https://static.toiimg.com/photo/msid-126661208,imgsize-37196.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/2-oscars-can-be-a-burden-says-ar-rahman-revealing-that-people-gaslighted-him-into-believing-hes-not-making-good-music-compared-to-his-earlier-work-like-roja/articleshow/126661210.cms",
+    "time": "2026-01-18T19:48:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Advocates cannot seek information under RTI Act for clients' cases: CIC",
+    "desc": "The Madras high court had cautioned that otherwise, \"every practising advocate would invoke the provisions of the RTI Act for getting information on behalf of his client\", which \"does not advance the objects of the scheme of the RTI Act",
+    "img": "https://th-i.thgim.com/public/incoming/xyu3qo/article70523222.ece/alternates/LANDSCAPE_1200/iStock-1352231710.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/advocates-cannot-seek-information-under-rti-act-for-clients-cases-cic/article70522616.ece",
+    "time": "2026-01-18T19:42:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vande Bharat Sleeper ticket cancellation to be costly affair",
+    "desc": "Indian Railways has introduced stricter cancellation charges for its new Vande Bharat Sleeper trains. Passengers face a 25% deduction for cancellations made anytime after booking, escalating to 50% if cancelled between 72 and eight hours before departure. No refunds are offered for cancellations within eight hours of departure, a change from previous norms.",
+    "img": "https://static.toiimg.com/photo/msid-126661169,imgsize-1104426.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/vande-bharat-sleeper-ticket-cancellation-to-be-costly-affair/articleshow/126661131.cms",
+    "time": "2026-01-18T19:38:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' teaser to be attached to 'Border 2? Find out",
+    "desc": "Following its record-breaking success, Aditya Dhar's 'Dhurandhar' is set to release its sequel's teaser with 'Border 2' on January 23. This strategic move aims to remind audiences of 'Dhurandhar 2's Eid 2026 release, capitalizing on the patriotic cinema wave and a similar audience appeal.",
+    "img": "https://static.toiimg.com/photo/msid-126660915,imgsize-39422.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-teaser-to-be-attached-to-sunny-deols-border-2-fans-cant-hold-their-excitement-for-the-ranveer-singh-starrer/articleshow/126660914.cms",
+    "time": "2026-01-18T19:25:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Business sentiment high on stronger demand",
+    "desc": "A CII survey reveals strong business sentiment fueled by robust domestic demand and improved profitability expectations. Nearly two-thirds of surveyed firms reported increased demand for July-September 2025, with a majority anticipating further growth. The industry expects continued momentum, partly attributed to GST rate cuts boosting consumption.",
+    "img": "https://static.toiimg.com/photo/msid-126661002,imgsize-744376.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/cii-survey-business-sentiment-high-on-stronger-demand/articleshow/126660917.cms",
+    "time": "2026-01-18T19:24:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ETNOW kicks off Davos coverage",
+    "desc": "ET NOW is commencing its week-long coverage of the World Economic Forum in Davos, featuring 'Davos Diaries' with global leaders. Simultaneously, 'Budget Yatra' and 'Bharat Yatra 2026' are underway, capturing India's economic aspirations and concerns across multiple cities.",
+    "img": "https://static.toiimg.com/photo/msid-126660908,imgsize-521425.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/etnow-kicks-off-davos-coverage/articleshow/126660887.cms",
+    "time": "2026-01-18T19:21:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "VinFast set to expand, roll out 3 models",
+    "desc": "Vietnamese automaker VinFast is set to launch three new electric vehicle models in India by 2026, starting with a seven-seater MPV. The company plans to significantly expand its showroom network to 75 locations nationwide by next year, focusing on both smaller cities and urban hubs.",
+    "img": "https://static.toiimg.com/photo/msid-126660862,imgsize-886418.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/vinfast-set-to-expand-roll-out-3-models/articleshow/126660844.cms",
+    "time": "2026-01-18T19:17:37.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "New CPI basket won't include free food items",
+    "desc": "Free food grains from the public distribution system, benefiting nearly 80 crore people, will not be part of the new consumer price index basket. A technical panel decided against including these items to align with global practices, citing potential distortionary effects on inflation figures. This decision follows extensive discussions within the statistics ministry.",
+    "img": "https://static.toiimg.com/photo/msid-126660817,imgsize-1071526.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/new-cpi-basket-wont-include-free-food-items/articleshow/126660804.cms",
+    "time": "2026-01-18T19:13:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ICICI chief gets 2-year extension, succession speculation deferred",
+    "desc": "ICICI Bank's board has extended CEO Sandeep Bakhshi's term by two years until October 2028, removing uncertainty and signaling continuity. This decision is viewed positively by analysts, who anticipate continued growth and profitability under his leadership. Bakhshi's tenure has been marked by a significant rise in the bank's stock price and market capitalization.",
+    "img": "https://static.toiimg.com/photo/msid-126660780,imgsize-777482.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/icici-chief-gets-2-year-extension-succession-speculation-deferred/articleshow/126660767.cms",
+    "time": "2026-01-18T19:10:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "HDFC sets wide deposit targets, flags uncertainty",
+    "desc": "HDFC Bank's chief admitted to falling short of deposit growth ambitions, setting wide credit-deposit targets due to an uncertain environment. The bank aims to lower its credit-to-deposit ratio from 98.7% to 92-96% this fiscal year and further to 85-90% by FY27, focusing on sustainable profitability amidst a rate-easing cycle.",
+    "img": "https://static.toiimg.com/photo/msid-126660712,imgsize-30666.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/hdfc-sets-wide-deposit-targets-flags-uncertainty/articleshow/126660680.cms",
+    "time": "2026-01-18T19:06:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Borrowings of NHAI to fall below 2L cr by March",
+    "desc": "National Highways Authority of India's debt is set to drop below Rs 2 lakh crore by March, a significant fall from its 2021-22 peak. This reduction is driven by increased central government funding and successful road monetisation, allowing NHAI to repay substantial amounts. The authority aims for further debt reduction in coming years.",
+    "img": "https://static.toiimg.com/photo/msid-126660666,imgsize-718706.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/lowering-debt-load-borrowings-of-nhai-to-fall-below-2l-cr-by-march/articleshow/126660625.cms",
+    "time": "2026-01-18T19:02:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jaya ji ne parliament mein bola tha..': Sunita doesn't want to be just known as Govinda's wife",
+    "desc": "Sunita Ahuja, now forging her own identity beyond being Govinda's wife, shared her aspirations for personal recognition. Citing Jaya Bachchan's parliamentary assertion of her own name, Sunita emphasized her desire to be known as Sunita Ahuja. She also touched upon Govinda's alleged infidelity, stating she would not forgive him if confirmed.",
+    "img": "https://static.toiimg.com/photo/msid-126660553,imgsize-35308.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jaya-ji-ne-parliament-mein-bola-tha-jab-unko-jaya-amitabh-bachchan-bulaya-gaya-sunita-ahuja-says-shes-not-just-govindas-wife-has-her-own-identity/articleshow/126660450.cms",
+    "time": "2026-01-18T18:58:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Highway builders write to FM, road ministry; seek review of new arbitration norms",
+    "desc": "Highway builders are opposing a government order ending arbitration for disputes exceeding Rs 10 crore. The National Highway Builders Federation has urged the finance minister for sector-specific guidance. They argue this change will negatively impact ongoing projects, lenders, and the banking system. The federation believes this framework discourages investment and delays project execution.",
+    "img": "https://static.toiimg.com/photo/msid-126660510,imgsize-1181644.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/highway-builders-write-to-fm-road-ministry-seek-review-of-new-arbitration-norms/articleshow/126660512.cms",
+    "time": "2026-01-18T18:54:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Final green light for India’s 1st PPP Earth imaging Sat project likely this week",
+    "desc": "India's first private Earth Observation Satellite System (EOSS) project is set to move forward with a concession agreement expected this week. A consortium, including Pixxel Space and others, will build a 12-satellite constellation, investing over Rs 1,200 crore. This initiative aims to boost India's data sovereignty and national security capabilities, reducing reliance on foreign imagery.",
+    "img": "https://static.toiimg.com/photo/msid-126660446,imgsize-1021460.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/final-green-light-for-indias-1st-ppp-earth-imaging-sat-project-likely-this-week/articleshow/126660465.cms",
+    "time": "2026-01-18T18:51:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Collective success is King’s catalyst",
+    "desc": "The leg-spinner is quick to shift focus on team work when individual performances are discussed; she feels being a late entrant to the national side has been a blessing in disguise, is looking forward to her stint at the WPL, passing her knowledge to youngsters",
+    "img": "https://th-i.thgim.com/public/incoming/3kpupo/article70523174.ece/alternates/LANDSCAPE_1200/ALANA.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/collective-success-is-kings-catalyst/article70523175.ece",
+    "time": "2026-01-18T18:32:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&amp;K: Encounter breaks out in Kishtwar, 3 injured soldiers airlifted",
+    "desc": "A fierce gunbattle erupted in Kishtwar's remote forested region, leaving seven security personnel injured as they engaged terrorists. The operation, dubbed \"Operation Trashi-I,\" commenced after a tip-off about two to three militants. Reinforcements, including drones and helicopters, have been deployed to neutralize the threat. This marks the third encounter in the Jammu region this year.",
+    "img": "https://static.toiimg.com/photo/msid-126658560,imgsize-1165400.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-encounter-breaks-out-in-kishtwar-3-injured-soldiers-airlifted/articleshow/126658626.cms",
+    "time": "2026-01-18T18:15:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rajnath",
+    "desc": "Defence Minister Rajnath Singh announced the development of an advanced Nagastra drone, successfully used in Operation Sindoor, and the Bhargavastra counter-drone system. He emphasized the government's focus on increasing private sector contribution to defense manufacturing to 50% or more, highlighting the need for self-reliance in ammunition production.",
+    "img": "https://static.toiimg.com/photo/msid-126658262,imgsize-1487587.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/advanced-version-of-nagastra-drone-used-in-op-sindoor-developed-rajnath/articleshow/126658304.cms",
+    "time": "2026-01-18T18:12:14.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Reliance says JioMart is on track to be No. 2 in quick commerce",
     "desc": "JioMart is poised to become India's second-largest quick commerce player, Reliance announced, highlighting significant growth with 1.6 million daily orders in Q4. The platform expanded its reach to 5,000 pin codes, adding millions of new customers. This surge intensifies competition as rivals like Blinkit and Swiggy Instamart prepare their results, with market share becoming a hotly contested metric.",
@@ -297,15 +450,6 @@ const newsData_en = [
     "time": "2026-01-18T14:10:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Jagan’s faction politics haunting Palnadu, alleges Energy Minister",
-    "desc": "Gottipati Ravi Kumar claims that during its five-year rule, the YSRCP completely devastated the Palnadu region, and now, as the State moves forward on the path of development, they are unable to tolerate the progress",
-    "img": "https://th-i.thgim.com/public/incoming/bl53cs/article70522300.ece/alternates/LANDSCAPE_1200/10215_17_1_2026_21_1_21_1_WHATSAPPIMAGE2026_01_17AT84715PM.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/jagans-faction-politics-haunting-palnadu-alleges-energy-minister/article70519540.ece",
-    "time": "2026-01-18T13:53:14.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Paresh Rawal reacts to AR Rahman's clarification of his 'communal' remark",
     "desc": "Music maestro AR Rahman clarified his recent remarks on the Hindi film industry, expressing deep affection for India and stating he never intended to cause pain. Actor Paresh Rawal publicly supported Rahman, calling him 'our pride,' though his comment drew mixed reactions online, with some questioning its sincerity and others embracing it as genuine.",
@@ -396,33 +540,6 @@ const newsData_en = [
     "time": "2026-01-18T11:59:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Govinda finally addresses speculation about his marriage to Sunita",
-    "desc": "Govinda breaks silence on marriage split rumours with Sunita Ahuja, alleging a \"big conspiracy\" manipulates family. He calls silence \"weakness,\" prays for no misunderstandings, and notes career struggles since 1987 marriage. Kids Tina (2015 debut) and Yashvardhan prep for films.",
-    "img": "https://static.toiimg.com/photo/msid-126642889,imgsize-33806.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-finally-addresses-speculation-about-his-marriage-to-sunita-ahuja-alleges-family-members-are-being-used-in-a-big-conspiracy/articleshow/126642889.cms",
-    "time": "2026-01-18T11:40:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Tere Ishq Mein' OTT release: Details on cast and plot",
-    "desc": "Dhanush and Kriti Sanon's captivating romance drama 'Tere Ishq Mein' has taken the world by storm, raking in an impressive Rs. 161.96 crore globally. Fans can look forward to its highly anticipated streaming debut on OTT, set for January 23, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-126642848,imgsize-557088.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/tere-ishq-mein-ott-release-all-you-need-to-know-about-the-plot-and-cast-ahead-of-the-digital-debut/articleshow/126642848.cms",
-    "time": "2026-01-18T11:39:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Latest Peacock shows to add to your watchlist",
-    "desc": "Peacock's new streaming selection is a rollercoaster of excitement, packed with gripping dramas and dynamic reality shows. Experience the suspense of 'Ponies,' a 1977 spy thriller featuring Emilia Clarke, or dive into the intricate narratives of 'All Her Fault' with Sarah Snook leading the charge.",
-    "img": "https://static.toiimg.com/photo/msid-126642795,imgsize-1914247.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/latest-peacock-shows-to-add-to-your-watchlist-ponies-the-traitors-and-more/articleshow/126642795.cms",
-    "time": "2026-01-18T11:35:59.000Z"
-  },
-  {
     "cat": "Business",
     "title": "What new UAE salary rule means for workers and employers",
     "desc": "The UAE has implemented a new minimum wage per month for private-sector employees in the Emirates, effective January 1, 2026. This policy aims to bolster Emiratisation efforts and strengthen labour standards. Companies must comply by June 30, 2026 or face penalties, marking a significant shift in the nation's labour market.",
@@ -430,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/world/middle-east/dubai-raises-minimum-wages-what-new-uae-salary-rule-means-for-workers-and-employers/articleshow/126641415.cms",
     "time": "2026-01-18T11:35:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Sumadhura Group to invest Rs 6,000 crore on 6 new housing projects in Bengaluru",
-    "desc": "Sumadhura Group is set to invest approximately Rs 6,000 crore in developing six new housing projects across Bengaluru. These projects will offer over 4,000 units, including apartments and residential plots, spread across 90 acres. The company anticipates a total revenue of around Rs 10,000 crore from these upcoming developments.",
-    "img": "https://static.toiimg.com/photo/msid-126642804,imgsize-247620.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/sumadhura-group-to-invest-rs-6000-crore-on-6-new-housing-projects-in-bengaluru/articleshow/126642764.cms",
-    "time": "2026-01-18T11:32:03.000Z"
   },
   {
     "cat": "Sports",
@@ -477,33 +585,6 @@ const newsData_en = [
     "time": "2026-01-18T10:53:40.000Z"
   },
   {
-    "cat": "Business",
-    "title": "What's wrong with Labubu? Workers at Chinese factory exploited; long work &amp; low pay",
-    "desc": "A report by China Labor Watch revealed exploitative practices at a factory producing popular Labubus dolls for Pop Mart. The factory allegedly hired underage workers without proper protections and forced employees to sign blank contracts. Workers also faced unrealistic production targets and excessive overtime, exceeding legal limits significantly.",
-    "img": "https://static.toiimg.com/photo/msid-126642148,imgsize-40230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/whats-wrong-with-labubu-workers-at-chinese-factory-exploited-long-work-low-pay/articleshow/126641752.cms",
-    "time": "2026-01-18T10:51:42.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "CII-BCI rises for 3rd straight quarter to 66.5; firms upbeat on outlook",
-    "desc": "Indian businesses are feeling more optimistic, with the CII Business Confidence Index hitting a five-quarter high. Strong domestic demand, boosted by GST cuts and festive spending, is driving this positive outlook. Firms anticipate further demand growth and robust investment and hiring intentions, signaling continued economic momentum.",
-    "img": "https://static.toiimg.com/photo/msid-126642107,imgsize-170130.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/business-sentiment-cii-bci-rises-for-third-straight-quarter-to-66-5-firms-upbeat-on-demand-capex-outlook/articleshow/126642051.cms",
-    "time": "2026-01-18T10:49:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Equity tax relief, avoiding transaction levy hike &amp; more; here's what market participants want",
-    "desc": "As the Union Budget 2026-2027 approaches, market participants are urging the government to avoid increasing transaction taxes and instead offer relief on long-term capital gains from equity investments. Stakeholders advocate for a higher tax-free exemption limit and a uniform definition of 'long term' to encourage retail investors.",
-    "img": "https://static.toiimg.com/photo/msid-126641775,imgsize-57558.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-equity-tax-relief-avoiding-transaction-levy-hike-more-heres-what-market-participants-want/articleshow/126641627.cms",
-    "time": "2026-01-18T10:27:45.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Smith reveals truth behind Babar Azam 'tantrum' claims as BBL drama erupts",
     "desc": "Steve Smith has dismissed reports of a rift with teammate Babar Azam, clarifying a on-field decision during their Big Bash League match. Smith explained his tactical choice to prioritize a strong Power Surge over a single, which led to his explosive century. The pair were later seen chatting casually, with Smith confirming their good relationship.",
@@ -522,33 +603,6 @@ const newsData_en = [
     "time": "2026-01-18T10:11:18.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India's pharma shipments: Brazil, Nigeria emerge as key export destinations; market expands to $20.48 billion",
-    "desc": "Indian pharmaceutical exports are experiencing robust growth in emerging markets like Brazil and Nigeria, driven by increased healthcare access and demand for generics. Despite global economic headwinds, these nations are becoming crucial destinations, contributing significantly to India's overall pharma export expansion and strengthening its global market position.",
-    "img": "https://static.toiimg.com/photo/msid-126641437,imgsize-133256.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-pharma-shipments-brazil-nigeria-emerge-as-key-export-destinations-market-expands-to-20-48-billion/articleshow/126641271.cms",
-    "time": "2026-01-18T10:05:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ICRA flags focus on debt consolidation; capex push to continue",
-    "desc": "Ahead of the 2026-27 Union Budget, ICRA anticipates a dual focus on medium-term debt reduction and robust capital expenditure. The budget, aligning with the 16th Finance Commission, aims for a fiscal deficit of 4.3% of GDP. Significant infrastructure spending is expected, with capital expenditure projected to rise by 14% to Rs 13.1 trillion, before potential fiscal pressures emerge.",
-    "img": "https://static.toiimg.com/photo/msid-126641430,imgsize-33380.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-outlook-icra-flags-focus-on-debt-consolidation-capital-expenditure-push-to-continue/articleshow/126641391.cms",
-    "time": "2026-01-18T10:02:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Now, Trump tariffs Europe over Greenland: And the winner is China—explained",
-    "desc": "Trump's threat to impose tariffs on European allies over Greenland has reignited debate on his tariff strategy. These tariffs are increasingly seen as harming US jobs, keeping inflation high, straining alliances, and failing to curb China's exports, despite revenue gains.",
-    "img": "https://static.toiimg.com/photo/msid-126641356,imgsize-2619965.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/now-trump-tariffs-europe-over-greenland-and-the-winner-is-chinaexplained/articleshow/126639515.cms",
-    "time": "2026-01-18T09:58:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Jadeja turns flying eagle to dismiss Young",
     "desc": "Ravindra Jadeja produced a sensational flying catch at backward point to dismiss Will Young in the third ODI, swinging momentum India’s way. Diving sharply to his right off Harshit Rana’s bowling, Jadeja ended a key partnership and stunned fans. The moment went viral, highlighting Jadeja’s elite fielding and game-changing impact.",
@@ -556,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-ravindra-jadeja-turns-flying-eagle-to-dismiss-will-young-during-3rd-odi-watch/articleshow/126640947.cms",
     "time": "2026-01-18T09:51:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Mcap of 3 of top-10 most valued firms jumps by Rs 75,855 cr; State Bank, Infosys biggest winners",
-    "desc": "Despite a flat broader market, State Bank of India and Infosys propelled a Rs 75,855 crore gain in the market capitalisation of three top Indian firms. While Reliance Industries and Larsen & Toubro saw significant drops, Infosys's boosted guidance offered a positive outlook for IT stocks. The top ten companies' rankings remained unchanged.",
-    "img": "https://static.toiimg.com/photo/msid-126641064,imgsize-87746.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/market-recap-mcap-of-3-of-top-10-most-valued-firms-jumps-by-rs-75855-cr-sbi-infosys-biggest-winners/articleshow/126641021.cms",
-    "time": "2026-01-18T09:36:09.000Z"
   },
   {
     "cat": "Sports",
@@ -576,24 +621,6 @@ const newsData_en = [
     "time": "2026-01-18T09:31:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "J&amp;K: 3 soldiers injured in encounter between security forces &amp; terrorists in Kishtwar; operations under way",
-    "desc": "Three soldiers were injured in a fierce encounter with suspected foreign terrorists in Jammu and Kashmir's Kishtwar district. The gunfight erupted during a search operation in the Sonnar area, with security forces engaging a group of two to three Jaish-e-Mohammad militants. Reinforcements have been deployed as a large-scale operation to track down the terrorists is underway.",
-    "img": "https://static.toiimg.com/photo/msid-126640734,imgsize-1161779.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jk-encounter-breaks-out-between-security-forces-and-terrorists-in-kishtwar-operations-under-way/articleshow/126640713.cms",
-    "time": "2026-01-18T09:12:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mahayuti’s musical chairs over mayor after BMC win — key takeaways",
-    "desc": "The BJP, which emerged as the single largest party with 89 seats in the 227-member House, still falls short of electing a mayor on its own and depends on the Shinde-led Shiv Sena to cross the halfway mark of 114. Together, the allies command 118 seats, but the question of who controls the mayor’s chair, and for how long, remains unresolved.",
-    "img": "https://static.toiimg.com/photo/msid-126640559,imgsize-73766.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/hotel-politics-returns-to-mumbai-mahayutis-musical-chairs-over-mayor-after-bmc-win-10-things-to-know/articleshow/126639765.cms",
-    "time": "2026-01-18T08:58:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ICC steps in as England's Pakistan-origin players receive visas",
     "desc": "The ICC is streamlining visa processes for Pakistani-origin players and officials traveling to India for the T20 World Cup. Visas for several England and Netherlands players have been cleared, with arrangements for other nations progressing. The ICC aims for all clearances by January 31 to avoid logistical issues.",
@@ -601,33 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-icc-steps-in-as-englands-pakistan-origin-players-receive-visas/articleshow/126640417.cms",
     "time": "2026-01-18T08:48:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How symptoms spill into work, home and relationships",
-    "desc": "Societal conditioning often diminishes women's worth as they age, clashing with the biological realities of perimenopause and menopause. This transition brings profound physical, cognitive, and emotional shifts, yet women are frequently dismissed and unprepared for these changes. Understanding and addressing these symptoms with medical and lifestyle support is crucial for navigating this life stage with dignity and reclaiming autonomy.",
-    "img": "https://static.toiimg.com/photo/msid-126640132,imgsize-723779.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/when-menopause-hits-how-symptoms-spill-into-work-home-and-relationships/articleshow/126640121.cms",
-    "time": "2026-01-18T08:45:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'BJP people's 1st choice': PM Modi hails major BMC win; hits out at Congress in Assam",
-    "desc": "Prime Minister Narendra Modi lauded the BJP's continuous rise, highlighting recent electoral successes in Bihar and Mumbai's BMC elections, where the party secured a historic mandate. He also laid the foundation stone for the Kaziranga Elevated Corridor in Assam, aimed at enhancing wildlife safety and boosting ecotourism. ​PM Modi's remark comes days after BJP pulled off a massive victory in Mumbai's BMC elections, wresting power from the ally-turned-rival Uddhav Thackeray.",
-    "img": "https://static.toiimg.com/photo/msid-126639589,imgsize-130854.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjp-peoples-1st-choice-pm-modi-hails-major-bmc-win-hits-out-at-congress-in-assam/articleshow/126639001.cms",
-    "time": "2026-01-18T07:49:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Bomb on board’: IndiGo’s Delhi–Bagdogra flight makes emergency landing in Lucknow; toilet-paper message triggers alert",
-    "desc": "A Delhi to Bagdogra flight made an emergency landing in Lucknow on Sunday. This happened after a bomb threat was reported. A message claiming a bomb was on board was found in the aircraft's toilet. The flight carried 238 passengers and crew. Security agencies are conducting a thorough search of the aircraft in Lucknow.",
-    "img": "https://static.toiimg.com/photo/msid-126639386,imgsize-25024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mid-air-scare-bengal-bound-indigo-flight-makes-emergency-landing-in-lucknow-search-on/articleshow/126639085.cms",
-    "time": "2026-01-18T07:29:10.000Z"
   },
   {
     "cat": "Entertainment",
