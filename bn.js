@@ -1,5 +1,77 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "নিজের বাড়ি না বাড়ি ভাড়া? সিদ্ধান্ত নিতে সমস্যা? আপনার জন্য রইল '১% ফর্মুলা'",
+    "desc": "ভাড়া বাড়িতে থেকে বাড়িওয়ালার পকেট ভরাবেন, নাকি ব্যাঙ্ক থেকে বড় অঙ্কের ঋণ নিয়ে নিজের স্বপ্নের বাড়ি কিনবেন বা বানাবেন? জীবনের একটা পর্যায়ে এসে এই দ্বিধায় সবাই-ই ভোগেন! এই সিদ্ধান্তটা মোটেই সহজ নয়, কারণ এতে আপনার সারা জীবনের সঞ্চয় জড়িয়ে থাকে। আপনিও যদি এই দোটানায় পড়েন, তা হলে আপনাকে পথ দেখাবে রিয়েল এস্টেট দুনিয়ার চর্চিত '১% রুল'!",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Untitled-2026-01-e00cd08475772348dd7c328fce125ee1-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/buying-vs-renting-house-should-you-rent-a-house-or-buy-your-own-this-1-percent-formula-for-real-estate-will-help-you-rm-2502475.html",
+    "time": "2026-01-18T08:25:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Vande Bharat Express 4.0: বুলেট ট্রেনের সঙ্গে টক্কর! ঘণ্টায় ২৫০ কিলোমিটার গতিবেগে ছুটবে বন্দে ভারত ৪.০...কোন রাজ্য পাবে? কবে?",
+    "desc": "রেল মন্ত্রক ২০৪৭ সালের মধ্যে, স্বাধীনতার শতবর্ষে ৪,৫০০টি বন্দে ভারত ট্রেন চালনা পরিকল্পনা করেছে। রেলের লক্ষ্য হল দেশের গুরুত্বপূর্ণ শহরগুলির মধ্যে দ্রুত, নিরাপদ এবং আধুনিক রেল যোগাযোগ জোরদার করা। বন্দে ভারত ৪.০ কে এই দৃষ্টিভঙ্গির সবচেয়ে উন্নত সংস্করণ হিসাবে বিবেচনা করা হয়। যদি এই পরিকল্পনাটি নির্ধারিত সময়ের মধ্যে সম্পন্ন হয়, তাহলে ভারত উচ্চ-গতির ট্রেনের একটি বৃহৎ নেটওয়ার্ক সহ বিশ্বের প্রথমসারির দেশগুলির সঙ্গে এক তালিকায় স্থান পাবে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-2026-01-18T133901.999-2026-01-2ff6e6475becd20804f962babd7ffd4d-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/vande-bharat-express-4-0-may-go-on-track-from-2027-mumbai-to-ahmedabad-speed-250-km-per-hour-sta-2502463.html",
+    "time": "2026-01-18T08:19:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বিনিয়োগকারীদের জন্য বড় সুযোগ! বড় ব্যাঙ্ককে টেক্কা দিয়ে স্মল ফিনান্স ব্যাঙ্কে FD সুদ বাড়ল, কত জানেন?",
+    "desc": "ইক্যুইটি বাজারের অনিশ্চয়তা আর সুদের হারের ওঠানামার মাঝে ২০২৬ সালের শুরুতে ফের আলোচনায় ফিরছে ফিক্সড ডিপোজিট। বিশেষ করে স্মল ফিনান্স ব্যাঙ্কগুলিতে এফডি-র সুদের হার বাড়ায় রক্ষণশীল বিনিয়োগকারীদের নজর সেদিকেই ঘুরছে। বড় সরকারি ও বেসরকারি ব্যাঙ্ক যেখানে তুলনামূলক কম রিটার্ন দিচ্ছে, সেখানে ছোট ফিনান্স ব্যাঙ্কগুলির এই উচ্চ সুদের অফার নিশ্চিত আয়ের খোঁজে থাকা সঞ্চয়কারীদের কাছে নতুন করে আকর্ষণ তৈরি করেছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/business-2-2026-01-0f03262d91785fdfd9d53d5f4d081e85-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/fd-rates-touch-8-percent-at-small-finance-banks-suryoday-and-shivalik-small-finance-bank-fixed-deposit-interest-increases-tib-ws-el-2502354.html",
+    "time": "2026-01-18T08:06:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ইনদওরে টসে জিতল ভারত! প্রথম একাদশে শুধু এক বদল শুভমনদের",
+    "desc": "ইনদওরে টসভাগ্য সঙ্গ দিল ভারতের। টস জিতে প্রথমে বল করার সিদ্ধান্ত নিলেন শুভমন গিল। দ্বিতীয় ম্যাচে হারের পর এই ম্যাচে জিততে মরিয়া শুভমনরা।আগের দিনের ম্য়াচের দল থেকে এই ম্যাচে প্রথম একাদশে একটি বদল করেছে ভারত। প্রসিদ্ধ কৃষ্ণের বদলে নেওয়া হয়েছে অর্শদীপ সিংহকে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ind-vs-nz-1-2026-01-48ec9a0a2652cc076be5e06cbb758080-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/sports/india-won-the-toss-in-indore-match-against-new-zealand-in-odi-seris-smc-2502459.html",
+    "time": "2026-01-18T08:02:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বড় সিদ্ধান্ত RBI-এর,নয়া নিয়ম কার্যকর হবে ১ জুলাই থেকে,জারি সার্কুলারও, জেনে নিন বিস্তারিত",
+    "desc": "রিজার্ভ ব্যাঙ্ক অব ইন্ডিয়া (RBI) প্রকাশ করেছে সংশোধিত রিজার্ভ ব্যাঙ্ক ইন্টিগ্রেটেড অম্বাডসম্যান স্কিম, ২০২৬। এই প্রকল্পের লক্ষ্য হল ব্যাঙ্ক ও অন্যান্য নিয়ন্ত্রিত প্রতিষ্ঠানের বিরুদ্ধে গ্রাহকদের অভিযোগ দ্রুত ও কার্যকরভাবে নিষ্পত্তি করা। নতুন এই স্কিমটি চলতি বছরের ১ জুলাই থেকে কার্যকর হবে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/12/RBI-2-2025-12-4ea4d9968359865cca954e6bed56eb2d-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/rbi-news-rbis-big-decision-will-come-into-effect-from-july-1-circular-also-issued-rm-2502375.html",
+    "time": "2026-01-18T07:26:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "এই ৪টি সরকারি ব্যাঙ্ক দিচ্ছে সবচেয়ে সস্তা কার লোন—১২ লক্ষ টাকার EMI কত হবে ৪ বছরে?",
+    "desc": "আপনি যদি নতুন গাড়ি কেনার জন্য ১২ লক্ষ টাকা লোন নেওয়ার পরিকল্পনা করে থাকেন এবং সবচেয়ে কম সুদের হারে EMI চান, তাহলে কিছু সরকারি ব্যাঙ্ক (পাবলিক সেক্টর ব্যাঙ্ক) এখনও সবচেয়ে আকর্ষণীয় বিকল্প হিসেবে উঠে আসছে। জানুয়ারি ২০২৬-এ বেশ কয়েকটি শীর্ষ সরকারি ব্যাংক ৭.৪০% থেকে শুরু হওয়া প্রতিযোগিতামূলক গাড়ি ঋণের সুদের হার ঘোষণা করেছে, বিশেষ করে যাদের ক্রেডিট স্কোর ভালো তাদের জন্য। কম সুদের হারে শুধু মাসিক EMI কম হয় না, মোট সুদ পরিশোধেও উল্লেখযোগ্য সাশ্রয় হয়। চলুন জেনে নেওয়া যাক এই ব্যাংকগুলোর বর্তমান সুদের হার।",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/09/car-loan-7-2025-09-f29510bb6f00648e111457fbe30a5454-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/car-loan-know-which-four-govt-banks-give-cheapest-car-loans-know-more-details-smc-2502347.html",
+    "time": "2026-01-18T07:01:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ফেব্রুয়ারিতেই বন্ধ হয়ে যাবে হোয়াটসঅ্যাপ...যদি না করান ‘সিম বাইন্ডিং’! হাতে মাত্র ১৫ দিন সময়",
+    "desc": "সরকার কেন এই সিদ্ধান্ত নিল?সরকার বলছে যে, সাইবার জালিয়াতির ক্রমবর্ধমান ঘটনার প্রেক্ষাপটে এই সিদ্ধান্ত নেওয়া হয়েছে। কিছু লোক ভারতীয় নম্বর সহ সিম কার্ডের অপব্যবহার করে প্রতারণা করে। এছাড়াও, অন্যরা দেশের বাইরে সিম কার্ড নিয়ে গিয়ে বা ইন্টারনেট কলিংয়ের মাধ্যমে প্রতারণা করে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-96-2026-01-517704bbdf254ddab9da0a79279ec271-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/technology/whatsapp-use-problem-sim-binding-new-rule-in-india-february-2026-these-accounts-will-be-shut-down-sta-2502281.html",
+    "time": "2026-01-18T06:53:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Pre-Approved Personal Loan: দিনরাত ফোনে 'প্রি-অ্যাপ্রুভড পার্সোনাল লোন'-এর অফার আসছে? ‘হ্যাঁ’ বলার আগে যে বিষয়গুলো জানতেই হবে",
+    "desc": "দিনরাত ফোনে পার্সোনাল লোন, প্রি-অ্যাপ্রুভড লোন কিংবা এক্সক্লুসিভ কার লোনের নানা অফার নিয়ে ফোন, মেসেজ আসতে থাকে! বলা হয়, কম সুদের হার, ঝটপট হাতে টাকা পাওয়া এবং কম কাগজপত্রের মতো সুবিধার কথা। কিন্তু প্রশ্ন হল—এই সব অফারের ফাঁদে কি আদৌ পড়া উচিৎ?",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/12/personal-loan-4-2025-12-22c12633b7da1f094d1f5506a4bd1859-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/pre-approved-personal-loan-do-you-keep-getting-pre-approved-personal-loan-offers-on-your-phone-before-you-say-yes-be-sure-to-know-these-things-rm-2502330.html",
+    "time": "2026-01-18T06:51:12.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "আমেরিকা-জাপানকে পিছনে ফেলে দিল ভারত! পুরনো ইন্টারনেট ভুলে যান, 5G নিয়ে তৈরি হল বিশ্বের সবচেয়ে বড় রেকর্ড",
     "desc": "এরিকসনের মোবিলিটি রিপোর্ট অনুসারে, ২০৩১ সালের মধ্যে ভারতে ১ বিলিয়ন 5G ব্যবহারকারী হতে পারে, যা দেশের জনসংখ্যার প্রায় ৮০%। বর্তমানে, ভারতে প্রতি স্মার্টফোনে গড় মাসিক ডেটা ব্যবহার ৩৬ জিবি, যা আগামী পাঁচ বছরে ৬৫ জিবিতে উন্নীত হতে পারে। স্পষ্টতই, ভারতে 5G গল্পটি সবে শুরু।",
@@ -826,77 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/debolinaa-nandy-comes-in-a-facebook-live-again-sharing-all-her-difficulties-and-family-her-reply-to-all-ss-2490391.html",
     "time": "2026-01-10T01:51:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘অগ্নিকে প্রতিশ্রুতি দিয়েছিলাম...’ ছেলের মৃত্যুর পর সম্পদের ৭৫ শতাংশ দান করবেন বেদান্ত গ্রুপের চেয়ারম্যান",
-    "desc": "এক্স-এর একটি আবেগঘন পোস্টে অনিল আগরওয়াল বলেন, অগ্নিবেশ এর আগে মার্কিন যুক্তরাষ্ট্রে একটি স্কিইং দুর্ঘটনায় আহত হয়েছিলেন এবং মাউন্ট সিনাই হাসপাতালে চিকিৎসাধীন ছিলেন। পরিবার বলছে যে, তিনি আরোগ্য লাভের দিকে এগিয়ে চলছিলেন এবং চিকিৎসকরাও আশাবাদী ছিলেন, কিন্তু হঠাৎ হৃদরোগে আক্রান্ত হওয়ায় তাঁর শারীরিক অবস্থার অপ্রত্যাশিতভাবে অবনতি ঘটে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Vedanta-Group-Chairman-Son-Dies-2026-01-24e26b9ca7f872f0511772ddbdaff17f-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/anil-agarwal-had-promised-agni-vedanta-group-chairman-to-donate-75-of-wealth-after-sons-demise-ss-2490307.html",
-    "time": "2026-01-10T00:30:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'নিজের দায়িত্ব পালনে মনোনিবেশ করাই উচিত হবে...' উমর খালিদকে মামদানির চিঠি প্রসঙ্গে কড়া বার্তা দিল ভারত",
-    "desc": "তিনি বলেন, \"আমরা আশা করি অন্য গণতন্ত্রে জনপ্রতিনিধিরা বিচার বিভাগের স্বাধীনতার প্রতি শ্রদ্ধাশীল হবেন। ব্যক্তিগত পক্ষপাত প্রকাশ করা পদে থাকা ব্যক্তিদের জন্য শোভনীয় নয়। এই ধরনের মন্তব্য না করে তাদের উপর অর্পিত দায়িত্বের উপর মনোনিবেশ করা ভাল।\"",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-09-at-7.37.50-PM-2026-01-1c1f6f84c76a7691bbab6f680948faba-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/better-to-focus-on-own-responsibilities-india-to-mamdani-over-umar-khalid-remarks-rmj-ws-l-2490118.html",
-    "time": "2026-01-09T14:54:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "এপি ধিলোঁর জন্যই ভাঙল তারা-বীরের প্রেম! বছরের শুরুতেই বি-টাউনে বিচ্ছেদ...",
-    "desc": "সম্প্রতি এপি ধিলোঁর মুম্বই কনসার্টে তারার পারফরম্যান্স এবং বীরের প্রতিক্রিয়া নিয়ে সোশ্যাল মিডিয়ায় শোরগোল পড়েছিল। কিছুদিন কাটতে না কাটতেই বলিউড অভিনেত্রী তারা সুতারিয়া এবং বীর পাহাড়িয়ার বিচ্ছেদের খবর নিয়ে তোলপাড় বলিউড। এপি ধিলোঁ-কে নিয়ে বিতর্ক না অন্য কিছু? কেন আলাদা হলেন তারা সুতারিয়া ও বীর পাহাড়িয়া?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/tara-sutaria-veer-pahariya-reportedly-breakup-news-details-after-apdhillon-controversy_633960.html ",
-    "time": "2026-01-09T13:36:08.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "টাকা পাঠাতে তাড়াহুড়ো? থামুন এক মুহূর্ত! SBI জারি করল সতর্কতা, এই ভুলগুলো একদম করবেন না",
-    "desc": "যদি হঠাৎ কারও ফোন, ভিডিও কল বা মেসেজ আসে এবং সঙ্গে সঙ্গে টাকা পাঠাতে বলে, তাহলে সঙ্গে সঙ্গে সতর্ক হয়ে যান। ভারতীয় স্টেট ব্যাংক (SBI) ডিপফেক স্ক্যাম নিয়ে সাধারণ মানুষকে সতর্ক করে একটি অ্যালার্ট জারি করেছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1767961544_Digital-Arrest-scam-2025-09-e69652673f8d9607c16d34c0caea0299-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/sbi-issue-deepfake-scam-alert-stop-urgent-money-request-avoid-these-mistakes-smc-2490015.html",
-    "time": "2026-01-09T12:49:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ভোররাতে ইনদওরে ভয়াবহ দুর্ঘটনা! মধ্যপ্রদেশের প্রাক্তন স্বরাষ্ট্রমন্ত্রীর মেয়ে-সহ মৃত ৩",
-    "desc": "পুলিশ সূত্রে জানা গিয়েছে, মৃতদের নাম প্রেরণা বচ্চন, প্রখর কাসলিওয়াল ও মান সান্ধু। অনুষ্কা শেট্টি নামে এক মহিলা গুরুত্বর আহত। তিনি আশঙ্কাজনক অবস্থায় চিকিৎসাধীন। শুক্রবার ভোরে একটি পার্টি থেকে ফিরছিলেন মধ্যপ্রদেশের প্রাক্তন স্বরাষ্ট্রমন্ত্রী বালা বচ্চনের মেয়েও তাঁর সঙ্গীরা। নিয়ন্ত্রণ হারিয়ে একটি ট্রাক ও প্রেরণাদের গাড়িটি সংঘর্ষ লাগে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Rachana-Thumbnail-Design-13-2026-01-34b234e5ace7a9be858374d496449f7b-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/indore-truck-car-collision-kills-bala-bachchan-daughter-and-2-others-rmj-ws-l-2489378.html",
-    "time": "2026-01-09T07:14:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "চালক ঘুমিয়ে পড়তেই সর্বনাশ! হাইওয়েতে উল্টে গেল ট্রাক, ভাইরাল ভিডিও দেখলে শিউরে উঠবেন",
-    "desc": "রাজস্থানের ৬২ নম্বর জাতীয় সড়কে একটি ভয়াবহ ঘটনা ঘটেছে। একটি ট্রাক নিয়ন্ত্রণ হারিয়ে উল্টে যায় এবং ট্রাকে থাকা জিনিস রাস্তায় ছড়িয়ে পড়ে। পুরো দুর্ঘটনাটি মোবাইল ফোনে তুলেছে পেছনের একটি গাড়ি, যেখানে দেখা যায় ট্রাকটি বিপজ্জনকভাবে দুলছে এবং অবশেষে মহাসড়কের মাঝখানে দুমড়ে পড়ছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Riya-Das-1200900-2026-01-09T121458.709-2026-01-4472d1844d661670aea6e69671d34a25-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/rajasthan-highway-accident-truck-overturns-after-driver-falls-asleep-video-viral-tc-rds-2489364.html",
-    "time": "2026-01-09T07:03:14.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "২ বিলিয়ন ডলার পরিশোধে ব্যর্থ, সৌদি আরবকে যুদ্ধবিমানের চুক্তির প্রস্তাব দিল পাকিস্তান !",
-    "desc": "রয়টার্সের এক প্রতিবেদন বলছে যে, পাকিস্তান সৌদি আরবের সঙ্গে প্রায় ২ বিলিয়ন ডলারের ঋণ পরিশোধে ব্যর্থ, টাকা মেটানোর জন্য চিনের সঙ্গে যৌথভাবে তৈরি জেএফ-১৭ থান্ডার যুদ্ধবিমান সরবরাহ করতে চাইছে, বিষয়টা সামরিক চুক্তিতে রূপান্তরিত করার জন্য আলোচনা চলছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Pakistan-Saudi-Arabia-Deal-2026-01-762913fafaa2c03342b1488a10aabbc3-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/international/pakistan-saudi-arabia-deal-pakistan-jf-17-fighter-jet-deal-in-exchange-of-debt-repayment-f-35-us-ss-2489213.html",
-    "time": "2026-01-09T06:15:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ডিভোর্স হলেও ছাড়বেন না জয়কে...! ৫ কোটি টাকার খোরপোশের দাবি উঠতেই বোমা ফাটালেন মাহি",
-    "desc": "টেলিভিশন দম্পতি জয় ভানুশালী এবং মাহি ভিজ কয়েকদিন আগে সোশ্যাল মিডিয়ায় একটি যৌথ পোস্টের মাধ্যমে তাদের বিবাহবিচ্ছেদের খবর নিশ্চিত করেছেন। তারা লিখেছেন যে তাদের ১৪ বছরের দাম্পত্য জীবন শেষ হয়ে গেলেও তারা বন্ধুত্ব বজায় রাখবে এবং তাদের সন্তানদের একসঙ্গে বড় করবেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/10/Riya-Das-1200900-24-2025-10-0436810aebd2054303307f6df3be651f-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/mahhi-vij-breaks-silence-on-divorce-with-jay-bhanushali-slams-5-crore-alimony-rumours-rds-2489140.html",
-    "time": "2026-01-09T05:28:57.000Z"
   }
 ];
