@@ -1,5 +1,212 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Metro expansion to ease congestion and reduce pollution, making Delhi more modern: CM Rekha Gupta",
+    "desc": "Under the leadership of Delhi Chief Minister Rekha Gupta, the Delhi Government has taken a major decision to further expand the capital's Metro network. The Government has released its share of funds for the remaining three corridors of Phase IV of the Delhi Metro Rail Transit System (MRTS).",
+    "img": "https://static.toiimg.com/photo/msid-126646404,imgsize-97316.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/metro-expansion-to-ease-congestion-and-reduce-pollution-making-delhi-more-modern-cm-rekha-gupta/articleshow/126646379.cms",
+    "time": "2026-01-18T14:50:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Does he still have the fire?': Rohit's ODI future questioned after flop series",
+    "desc": "Rohit Sharma's recent ODI form has sparked debate about his motivation for the 2027 World Cup. Despite a strong prior run, a lean series against New Zealand has led commentators like Simon Doull and Ravi Shastri to question his hunger. The fragmented ODI calendar is also cited as a potential factor impacting rhythm and desire for the veteran opener.",
+    "img": "https://static.toiimg.com/photo/msid-126645700,imgsize-99288.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/does-he-still-have-the-fire-rohit-sharmas-odi-future-questioned-after-flop-series/articleshow/126645621.cms",
+    "time": "2026-01-18T14:49:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Gowri Ramnarayan",
+    "desc": "“A play comes alive on the stage, not on the page,” she tells a diverse group of aspiring playwrights at The Hindu Lit for Life, emphasising the key ability to visualise rather than narrate stories",
+    "img": "https://th-i.thgim.com/public/news/national/x9qog8/article70521784.ece/alternates/LANDSCAPE_1200/gowri%20ramnarayan.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/lit-for-life/theatre-itself-is-rebellion-gowri-ramnarayan/article70522253.ece",
+    "time": "2026-01-18T14:48:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Despite denial of dues by the Centre, CM Stalin allocates funds for all schemes, says Finance Minister Thangam Thennarasu",
+    "desc": "We pay [a huge amount of funds] in the Goods and Services Tax to the Centre. But the Centre is not devolving proportionate funds to Tamil Nadu, he says after performing the Bhoomi puja for a road over bridge at Tiruthangal",
+    "img": "https://th-i.thgim.com/public/incoming/p6zfm0/article70522559.ece/alternates/LANDSCAPE_1200/Thangam%20Thennarasu.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Madurai/despite-denial-of-dues-by-the-centre-cm-stalin-allocates-funds-for-all-schemes-says-finance-minister-thangam-thennarasu/article70522041.ece",
+    "time": "2026-01-18T14:37:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Team India pitches ‘partner with Bharat’ message; AI and investment in focus",
+    "desc": "Team India is making a strong pitch at Davos, urging global partners to \"subscribe to the future\" by investing in Bharat and collaborating on technology. The India Pavilion highlights investment opportunities, with IT majors showcasing AI advancements. Over 100 Indian CEOs and several state delegations are present, promoting India's economic potential to over 3,000 global leaders.",
+    "img": "https://static.toiimg.com/photo/msid-126645754,imgsize-52094.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/wef-davos-2026-team-india-pitches-partner-with-bharat-message-ai-and-investment-in-focus/articleshow/126645617.cms",
+    "time": "2026-01-18T14:35:46.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Italian PM calls threatened U.S. tariffs over Greenland a ‘mistake’",
+    "desc": "Donald Trump has threatened to impose tariffs of up to 25% on all goods sent to the United States from Denmark, Norway, Sweden, France, Germany, the United Kingdom, the Netherlands and Finland over their objections to his moves",
+    "img": "https://th-i.thgim.com/public/incoming/6wns8p/article70522541.ece/alternates/LANDSCAPE_1200/2026-01-16T123028Z_816081480_RC2B2JAQILF1_RTRMADP_3_USA-TRUMP-GREENLAND-ITALY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/italian-pm-calls-threatened-us-tariffs-over-greenland-a-mistake/article70522556.ece",
+    "time": "2026-01-18T14:27:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The greatest living composer got attacked...'",
+    "desc": "AR Rahman faced backlash for calling the film 'Chhaava' divisive, leading him to issue an apology. Lyricist Varun Grover defended Rahman, criticizing the \"toxic mob\" reaction. Rahman later reiterated his concerns about divisiveness in Bollywood, suggesting a \"power shift\" and potential \"communal thing\" influencing creative decisions.",
+    "img": "https://static.toiimg.com/photo/msid-126645497,imgsize-52560.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/varun-grover-defends-ar-rahman-after-he-drops-video-clarifying-on-his-communal-remark-the-greatest-living-composer-got-attacked-/articleshow/126645477.cms",
+    "time": "2026-01-18T14:25:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chandrababu Naidu",
+    "desc": "Naidu pays tributes to TDP founder N.T. Rama Rao on the occasion of his 30th death anniversary, says the former CM had defined ‘good governance’ and prioritised development while implementing welfare schemes, which set a benchmark back then",
+    "img": "https://th-i.thgim.com/public/incoming/bzaf1m/article70522522.ece/alternates/LANDSCAPE_1200/10745_18_1_2026_17_38_29_1_IMG_20260118_WA0069.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/modi-fully-cooperative-for-developing-andhra-chandrababu-naidu/article70521966.ece",
+    "time": "2026-01-18T14:25:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Massification’ of higher education system has triggered an ‘epidemic’ of distress: Supreme Court order",
+    "desc": "SC issues series of directions, including that vacant faculty positions in both public and private higher education institutions (HEIs) must be filled up within four months; appointments of Vice-Chancellors and Registrars must be made within a month of the posts falling vacant, it says",
+    "img": "https://th-i.thgim.com/public/incoming/60e7rz/article70522714.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%203.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/massification-of-higher-education-system-has-triggered-an-epidemic-of-distress-sc-order/article70522181.ece",
+    "time": "2026-01-18T14:23:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SNL sketch gives Harry Potter’s Harry and Ron a steamy romance inspired by HBO’s ‘Heated Rivalry’",
+    "desc": "A Saturday Night Live sketch has folded Heated Rivalry into pop-culture shorthand, spoofing the HBO hockey romance through a Harry Potter parody packed with innuendo. With Finn Wolfhard, Ben Marshall and a surprise Jason Momoa cameo, the sketch reflects how quickly the series, already renewed for season two, has travelled from niche hit to mainstream reference point.",
+    "img": "https://static.toiimg.com/photo/msid-126646158,imgsize-759084.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/snl-sketch-gives-harry-potters-harry-and-ron-a-steamy-romance-inspired-by-hbos-heated-rivalry/articleshow/126623920.cms",
+    "time": "2026-01-18T14:17:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Millie Bobby Brown and Noah Schnapp's hilarious moment",
+    "desc": "In a light-hearted moment, Millie Bobby Brown reminisced about a side-splitting episode when Noah Schnapp found himself hilariously trapped in a chair for 15 minutes during the filming of 'Stranger Things' season 2, even hilariously broadcasting the ordeal live on Instagram.",
+    "img": "https://static.toiimg.com/photo/msid-126645227,imgsize-674859.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/stranger-things-star-millie-bobby-brown-recalls-a-hilarious-off-screen-moment-with-noah-schnapp-from-season-2/articleshow/126645227.cms",
+    "time": "2026-01-18T14:10:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jagan’s faction politics haunting Palnadu, alleges Energy Minister",
+    "desc": "Gottipati Ravi Kumar claims that during its five-year rule, the YSRCP completely devastated the Palnadu region, and now, as the State moves forward on the path of development, they are unable to tolerate the progress",
+    "img": "https://th-i.thgim.com/public/incoming/bl53cs/article70522300.ece/alternates/LANDSCAPE_1200/10215_17_1_2026_21_1_21_1_WHATSAPPIMAGE2026_01_17AT84715PM.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/jagans-faction-politics-haunting-palnadu-alleges-energy-minister/article70519540.ece",
+    "time": "2026-01-18T13:53:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Paresh Rawal reacts to AR Rahman's clarification of his 'communal' remark",
+    "desc": "Music maestro AR Rahman clarified his recent remarks on the Hindi film industry, expressing deep affection for India and stating he never intended to cause pain. Actor Paresh Rawal publicly supported Rahman, calling him 'our pride,' though his comment drew mixed reactions online, with some questioning its sincerity and others embracing it as genuine.",
+    "img": "https://static.toiimg.com/photo/msid-126644764,imgsize-24390.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/paresh-rawal-reacts-to-ar-rahmans-clarification-of-his-communal-remark-you-are-our-pride/articleshow/126644793.cms",
+    "time": "2026-01-18T13:45:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "EU to fire trade 'bazooka'? Macron urges tough action against Trump tariffs",
+    "desc": "France will ask the EU to activate its anti-coercion instrument against potential US tariffs over Greenland. President Macron stated the threat is unacceptable and Europe will not be intimidated. The tool, a trade 'bazooka,' allows the bloc to curb imports or market access in response to economic coercion.",
+    "img": "https://static.toiimg.com/photo/msid-126644727,imgsize-94106.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/greenland-row-frances-macron-urges-trade-bazooka-action-against-us-tariffs-seeks-activation-of-eu-anti-coercion-instrument/articleshow/126644693.cms",
+    "time": "2026-01-18T13:43:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Investment won’t come to Bengal as long as Trinamool remains in power, says PM Modi",
+    "desc": "“In West Bengal, rioters and mafia have a free run; police are hand in glove with criminals; there is a syndicate tax on all development,” says the Prime Minister at a public meeting in Singur",
+    "img": "https://th-i.thgim.com/public/incoming/m32rmv/article70522238.ece/alternates/LANDSCAPE_1200/20260118159L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/pm-accuses-tmc-of-endangering-national-security-calls-for-ending-maha-jungle-raj-in-bengal/article70522203.ece",
+    "time": "2026-01-18T13:30:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Patent for nutraceutical to manage gut health developed by Kerala University researchers",
+    "desc": "The development of the nutraceutical, PolyNutriBio (PNBio), was a three-year research project taken up by A. Helen, former Head of the Biochemistry department and Maya G. Pillai, Scientist, who has done extensive research on inflammation.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/patent-for-nutraceutical-to-manage-gut-health-developed-by-kerala-university-researchers/article70518840.ece",
+    "time": "2026-01-18T13:26:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Investing in women’s employment is key to future-proof economies, says industry chair",
+    "desc": "Ebru Ozdemir, a prominent figure in the engineering and construction sector, asserts that empowering women in the workforce is the most effective strategy for building a robust, inclusive, and future-ready economy. She emphasizes that gender-focused reskilling and upskilling are vital for the digital age, and integrating women into STEM fields is crucial for tackling global challenges and ensuring sustainable growth.",
+    "img": "https://static.toiimg.com/photo/msid-126643669,imgsize-203716.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/wef-2026-investing-in-womens-employment-is-key-to-future-proof-economies-industry-chair-ebru-ozdemir/articleshow/126643645.cms",
+    "time": "2026-01-18T13:25:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Kurdish forces withdraw from Syria's largest oil field as government forces advance",
+    "desc": "The Kurds' de facto autonomous administration, which controls large parts of the northeast, has said the announcement fell short, while the implementation of a deal to integrate Kurdish forces into the state has been stalled for months",
+    "img": "https://th-i.thgim.com/public/incoming/btpyz3/article70522165.ece/alternates/LANDSCAPE_1200/2026-01-18T130050Z_477038557_RC2I3JAKFXMV_RTRMADP_3_SYRIA-SECURITY-KURDS-CIVILIANS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/kurdish-forces-withdraw-from-syrias-largest-oil-field-as-government-forces-advance/article70522135.ece",
+    "time": "2026-01-18T13:12:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Speeding car mows down labourers; 2 killed, 11 hurt in Jabalpur",
+    "desc": "A speeding, unplated car mowed down labourers during their lunch break, killing two and injuring eleven in Jabalpur on Sunaday. The victims, from Mandla district, were installing road dividers when the horrific incident occurred near Ekta Chowk. Authorities are actively searching for the driver who fled the scene, with one injured person in critical condition.",
+    "img": "https://static.toiimg.com/photo/msid-126644021,imgsize-519173.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mp-speeding-car-mows-down-labourers-2-killed-11-hurt-in-jabalpur/articleshow/126643264.cms",
+    "time": "2026-01-18T12:54:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How long will Modi government live in denial, asks Congress citing World Bank's air pollution report",
+    "desc": "Jairam Ramesh said the Congress has suggested a vast expansion of the National Clean Air Programme (NCAP), both in terms of financial outlays and geographic coverage, with measurement of PM 2.5 levels as the yardstick for performance",
+    "img": "https://th-i.thgim.com/public/incoming/k3khbb/article70522042.ece/alternates/LANDSCAPE_1200/09_JAIRAM_RAMESH_PC_03_01_DELHI.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/how-long-will-modi-government-live-in-denial-asks-congress-citing-world-banks-air-pollution-report/article70522026.ece",
+    "time": "2026-01-18T12:38:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Daryl Mitchell scripts history, becomes the highest ever to…",
+    "desc": "Daryl Mitchell proved a challenge for India in ODIs. His century helped New Zealand post 338. Mitchell's record against India is impressive. He leads in average runs against them. New Zealand's innings saw Mitchell and Glenn Phillips score centuries. This partnership was crucial. India's bowlers took wickets late in the innings. New Zealand finished at 337 for 8.",
+    "img": "https://static.toiimg.com/photo/msid-126643573,imgsize-79554.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/daryl-mitchell-scripts-history-becomes-the-highest-ever-to/articleshow/126643549.cms",
+    "time": "2026-01-18T12:30:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "MAIT seeks customs duty cuts on key electronic components",
+    "desc": "The IT industry body MAIT has urged the government to slash basic customs duty on key electronic components and boost tax incentives in the upcoming Union Budget. This move aims to strengthen domestic manufacturing, improve global competitiveness, and address supply chain vulnerabilities amid rising global uncertainties. MAIT also called for continued support for mobile manufacturing.",
+    "img": "https://static.toiimg.com/photo/msid-126642895,imgsize-185532.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-mait-seeks-customs-duty-cuts-on-key-electronic-components-push-to-boost-domestic-manufacturing/articleshow/126642858.cms",
+    "time": "2026-01-18T12:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir reacts to Mumbai's poor AQI, says, ‘Abhi Kya Kare?'",
+    "desc": "Aamir Khan ran Tata Mumbai Marathon with ex-wife Kiran Rao and kids Junaid, Ira, Azad. Post-run, he quipped “Abhi kya kare?” on Mumbai's poor AQI; Kiran urged collective action. Daughter inspired him via disabled/senior runners' spirit. Cameo in Happy Patel; producing Ek Din, eyeing Phalke biopic, Mahabharata.",
+    "img": "https://static.toiimg.com/photo/msid-126643496,imgsize-22008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-reacts-to-mumbais-poor-aqi-says-abhi-kya-kare/articleshow/126643496.cms",
+    "time": "2026-01-18T12:21:10.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Akhil Sathyan hints his next collaboration with Nivin Pauly",
     "desc": "After the impressive reception of 'Sarvam Maya', director Akhil Sathyan is gearing up for a delightful reunion with the charismatic Nivin Pauly in an upcoming Bollywood-styled romantic comedy. With the comedic flair of Aju Varghese in the mix, the film promises to explore the quirks of love in the mid-thirties.",
@@ -136,8 +343,8 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Upalokayukta registers suo motu case against Tahsildar, others",
-    "desc": "A criminal case has also been registered against 11 persons involved in the alleged scam after a search by the officials showed large scale manipulation of Government land records to facilitate the illegal grant of public land",
+    "title": "Upalokayukta registers suo motu case against tahsildar, others",
+    "desc": "A criminal case has also been registered against 11 persons involved in the alleged scam after a search by officials showed large-scale manipulation of government land records to facilitate the illegal grant of public land",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/karnataka/govt-land-scam-in-nagamangala-upalokayukta-registers-suo-motu-case-against-tahsildar-others/article70521507.ece",
@@ -271,29 +478,11 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "2016 all over again! 25 Malayalam movies that defined the year",
-    "desc": "In 2016, Malayalam cinema experienced a transformative shift, as the year unfolded a tapestry rich with both blockbuster hits and thought-provoking films that appealed to critics and audiences alike. Filmmakers ventured into innovative narratives and character-driven stories, showcasing the power of storytelling beyond star appeal.",
-    "img": "https://static.toiimg.com/photo/msid-126640596,imgsize-33222.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/2016-all-over-again-25-malayalam-movies-that-defined-the-year/articleshow/126640596.cms",
-    "time": "2026-01-18T09:08:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Laxman Utekar on why he choose A R Rahamn for Chhaava's music",
     "desc": "The celebrated composer AR Rahman stirred conversations around the themes of division and power alterations impacting his contributions to Bollywood. In light of this, director Laxman Utekar came to Rahman’s defense for the film 'Chhaava,' asserting that the focus was on crafting a universally appealing narrative rather than sticking to regional stylings.",
     "img": "https://static.toiimg.com/photo/msid-126640540,imgsize-63666.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/laxman-utekar-on-why-he-choose-a-r-rahamn-for-chhaavas-music-he-asked-me-why-do-you-want-to-make-this-film/articleshow/126640540.cms",
-    "time": "2026-01-18T08:59:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Stranger Things' star Finn wolfhard's hosting debut in SNL",
-    "desc": "Finn Wolfhard, beloved for his role on 'Stranger Things,' made his dynamic hosting debut on Saturday Night Live, much to the delight of fans. Joined by his talented former co-stars Gaten Matarazzo and Caleb McLaughlin, Finn brought his unique humor to the forefront, cleverly discussing the quirks of maturing in the industry while poking fun at his patchy facial hair.",
-    "img": "https://static.toiimg.com/photo/msid-126640548,imgsize-716044.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/stranger-things-fame-finn-wolfhard-makes-hosting-debut-in-snl-along-with-caleb-mclaughlin-and-gaten-matarazzo/articleshow/126640548.cms",
     "time": "2026-01-18T08:59:34.000Z"
   },
   {
@@ -379,8 +568,8 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "AR Rahman addresses his ‘communal’ remark: Never wished to cause pain, hope my sincerity is felt",
-    "desc": "His comments come days after an interview in which he noted how less work has been coming to him due to a power shift within the Hindi film industry in recent years and said it could also be due to the “communal thing”",
+    "title": "A.R. Rahman addresses his ‘communal’ remark: Never wished to cause pain, hope my sincerity is felt",
+    "desc": "A.R. Rahman’s comments come days after an interview in which he noted how less work has been coming to him due to a power shift within the Hindi film industry in recent years and said it could also be due to the “communal thing”",
     "img": "https://th-i.thgim.com/public/incoming/yufbaz/article70521422.ece/alternates/LANDSCAPE_1200/PTI10_09_2024_000413A.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/ar-rahman-communal-remark-chhaava-divisive-film-kangana-ranaut-backlash/article70521410.ece",
@@ -415,15 +604,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Former Maharashtra BJP Minister Raj Purohit passes away at 71",
-    "desc": "A well-known figure in Mumbai BJP circles, he had served as the party's city president and a Minister in the Maharashtra government, and was the BJP's chief whip in the Assembly between 2014 and 2019",
-    "img": "https://th-i.thgim.com/public/news/national/inm2nk/article70521365.ece/alternates/LANDSCAPE_1200/Maharashtra%20BJP%20Minister%20Raj%20Purohit.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/former-maharashtra-bjp-minister-raj-purohit-passes-away-at-71/article70521351.ece",
-    "time": "2026-01-18T05:53:56.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'Speak in one voice, maintain discipline': Congress to TN functionaries",
     "desc": "The directive came at a meeting at the party headquarters in the national Capital on chalking out a strategy for the upcoming assembly polls in Tamil Nadu where they “unanimously” entrusted Congress President and leader of opposition on taking decisions. Meanwhile, it is learnt from sources that Rahul Gandhi focused on listening more at the meeting, and left it to Kharge to articulate the directions issued to TN leaders.",
     "img": "https://static.toiimg.com/photo/msid-126638114,imgsize-1999301.cms",
@@ -433,7 +613,7 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "5 new Amrit Bharat Express today! PM Modi flags off 2 trains, 3 more to come — Check timing, stations, routes &amp; more",
+    "title": "PM Modi flags off 5 trains in Assam, Bengal",
     "desc": "Prime Minister Narendra Modi will be inaugrating five new Amrit Bharat Express trains, expanding India's long-distance rail network. These new services aim to enhance travel experience and connectivity for the common man, with key routes connecting various regions including the North-East, North India, and South India.",
     "img": "https://static.toiimg.com/photo/msid-126637997,imgsize-1693853.cms",
     "src": "indiatimes.com",
@@ -448,24 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/rationalise-customs-duty-on-imported-luxury-cars-mercedes-benz-india-ceo/article70521312.ece",
     "time": "2026-01-18T05:22:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "GBS outbreak claims two lives in MP; govt. ramps up detection, treatment",
-    "desc": "Following the detection of over a dozen cases in Manasa town, the authorities have been instructed to establish a control room there, create a special ward for GBS patients at the local government hospital, and make other necessary arrangements to tackle the outbreak",
-    "img": "https://th-i.thgim.com/public/news/national/vgvubi/article70521282.ece/alternates/LANDSCAPE_1200/iStock-2154687684.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/madhya-pradesh/gbs-outbreak-claims-two-lives-in-mp-govt-ramps-up-detection-treatment/article70521244.ece",
-    "time": "2026-01-18T04:54:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Akhilesh",
-    "desc": "We are planning to move the Supreme Court to verify whether the voter list prepared by the Election Commission is valid or the list compiled by the State Election Commission is accurate, says Akhilesh Yadav",
-    "img": "https://th-i.thgim.com/public/incoming/lz1lwv/article70521280.ece/alternates/LANDSCAPE_1200/PTI01_10_2026_000121B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/samajwadi-party-to-move-supreme-court-on-electoral-transparency-akhilesh/article70521273.ece",
-    "time": "2026-01-18T04:53:09.000Z"
   },
   {
     "cat": "Sports",
@@ -484,24 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/sa20/pretoria-capitals-script-historic-comeback-as-sa20-playoff-race-explodes/articleshow/126637079.cms",
     "time": "2026-01-18T04:38:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Prayerful in Prayagraj",
-    "desc": "Ceremonies for the Magh Mela, which began on January 3, have been drawing crores of devotees to the Triveni Sangam for a holy dip; a footfall of 15-20 crore is expected by the culmination of the festival on Mahasivaratri; pilgrims offer prayers amid tight security arrangements and bustling crowds",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/photos/in-frames-prayerful-in-prayagraj/article70521196.ece",
-    "time": "2026-01-18T04:25:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Centurion Aiden Markram lifts DSG back into playoff race",
-    "desc": "Aiden Markram struck a brilliant 108 to keep Durban’s Super Giants alive in the SA20 playoff race, powering them to a bonus-point 58-run win over Paarl Royals at Kingsmead. After DSG slumped to 53/3, Markram and Heinrich Klaasen revived the innings before the bowlers, led by Narine and Harmer, sealed a comprehensive victory.",
-    "img": "https://static.toiimg.com/photo/msid-126636975,imgsize-71716.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/sa20/sa20-centurion-aiden-markram-lifts-durbans-super-giants-back-into-playoff-race/articleshow/126636943.cms",
-    "time": "2026-01-18T04:08:49.000Z"
   },
   {
     "cat": "Business",
@@ -540,15 +684,6 @@ const newsData_en = [
     "time": "2026-01-18T02:48:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "In Haryana, the birth of a son",
-    "desc": "Haryana’s Dhani Bhojraj village witnessed exuberant festivities when a 37-year-old woman gave birth to a boy after 18 years and 10 daughters. Ashna Butani visits the village and finds out how the family’s ‘wish for a son’ is rooted in persistent social taunts and an enduring cultural longing for a male child even as the State’s sex ratio steadily improves",
-    "img": "https://th-i.thgim.com/public/incoming/meq2dy/article70516399.ece/alternates/LANDSCAPE_1200/A2_RVM_4971.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/haryana/in-haryana-the-birth-of-a-son/article70516403.ece",
-    "time": "2026-01-18T02:30:00.000Z"
-  },
-  {
     "cat": "World",
     "title": "One of FBI's 10 most wanted fugitives caught in Mexico",
     "desc": "Alejandro Rosales Castillo had \"a red notice and an arrest warrant for extradition\" and is charged with \"first-degree murder, armed robbery, vehicle theft and kidnapping,\" Mexico's Security Secretary Omar Garcia Harfuch said on social media.",
@@ -558,33 +693,6 @@ const newsData_en = [
     "time": "2026-01-18T01:01:33.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Not even 5% of what Rohit': India coach slammed by ex-teammate",
-    "desc": "Former India cricketer Manoj Tiwary has criticized assistant coach Ryan ten Doeschate's remarks on Rohit Sharma's form, calling them demoralizing. Tiwary highlighted Rohit's extensive achievements, stating ten Doeschate's international record is not even 5% of Sharma's. He urged the coach to reflect on his comments, especially as a member of the support staff.",
-    "img": "https://static.toiimg.com/photo/msid-126614245,imgsize-111322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/not-even-5-of-what-rohit-sharma-has-done-india-coach-slammed-by-ex-teammate/articleshow/126614258.cms",
-    "time": "2026-01-17T23:30:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "EU, Mercosur bloc ink major trade deal, reject 'tariffs' and 'isolation'",
-    "desc": "South American and European Union officials on Saturday signed a major trade deal, which they hailed as sending a powerful message at a time of tariff threats, global uncertainty and protectionism. The deal will favor European exports of cars, wine and cheese, while making it easier for South American beef, poultry, sugar, rice, honey and soybeans to enter Europe.",
-    "img": "https://static.toiimg.com/photo/msid-126628083,imgsize-1049766.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/eu-mercosur-bloc-ink-major-trade-deal-reject-tariffs-and-isolation/articleshow/126628024.cms",
-    "time": "2026-01-17T20:19:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Has an Arbitration Council been constituted?",
-    "desc": "What would be the functions of the Arbitration Council of India? Why have there been concerns with respect to institutional impartiality? What are some of the criticisms of the amendments? What does the draft Arbitration and Conciliation (Amendment) Bill, 2024 propose?",
-    "img": "https://th-i.thgim.com/public/incoming/ua9jot/article70520017.ece/alternates/LANDSCAPE_1200/iStock-1483489085.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/has-an-arbitration-council-been-constituted-explained/article70519620.ece",
-    "time": "2026-01-17T20:07:52.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran protests",
     "desc": "What began as a shopkeepers’ strike transformed into one of the largest anti-government protests the Islamic Republic has seen, triggering a violent state crackdown in which thousands are feared killed; Tehran says Western intelligence agencies hijacked the protest and unleashed ‘domestic terror’",
@@ -592,24 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-protests-the-revolution-will-not-be-televised/article70519764.ece",
     "time": "2026-01-17T19:35:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Water, all the time: Chennai\nmoves to fix piped supply",
-    "desc": "it decided to trial a project to supply 24/7 piped water in the Adyar zone, signalling a significant shift in Chennai’s evolving water management strategy. Chennai has begun the process to replace intermittent supply with a pressurised network, reshaping how the city plans, consumes and governs water",
-    "img": "https://th-i.thgim.com/public/incoming/267i26/article70519855.ece/alternates/LANDSCAPE_1200/DJI_20260116161749_0057_D.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/water-all-the-time-chennai-moves-to-fix-piped-supply/article70519858.ece",
-    "time": "2026-01-17T17:57:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Revanth says meeting Modi will continue in State’s interests",
-    "desc": "Chief Minister vows to complete all pending projects; justifying his frequent visits to New Delhi for funds release saying that the give and take policy with the Centre would continue irrespective of what the Opposition claims",
-    "img": "https://th-i.thgim.com/public/news/national/telangana/kbjcr3/article70519460.ece/alternates/LANDSCAPE_1200/CM%20Revanth%20.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/revanth-says-meeting-modi-will-continue-in-states-interests/article70519457.ece",
-    "time": "2026-01-17T16:05:26.000Z"
   },
   {
     "cat": "Business",
@@ -808,95 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/is-the-government-seeking-phones-source-code-explained/article70506738.ece",
     "time": "2026-01-14T03:00:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kohli 2.0 — free-flowing, exhilarating and still the run(ning)-machine",
-    "desc": "Kohli’s reputation as the ultimate master of the chase is no secret; it’s not that he doesn’t put a price on his wicket anymore, it’s just that he has voluntarily chosen to redefine his approach",
-    "img": "https://th-i.thgim.com/public/sport/qvrul8/article70506792.ece/alternates/LANDSCAPE_1200/KOHLI%20MAIN%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/kohli20-free-flowing-exhilarating-and-still-the-running-machine/article70506759.ece",
-    "time": "2026-01-13T18:03:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Amidst Iran crisis, rice exporters seek Commerce Ministry’s help to clear payments",
-    "desc": "While Iran continues to be one of India’s most significant destinations for basmati rice, the current financial year has seen growing stress on order flows, payment cycles, and shipment schedules, the Indian Rice Exporters Federation says",
-    "img": "https://th-i.thgim.com/public/incoming/98zz8s/article67747380.ece/alternates/LANDSCAPE_1200/IMG_Kenya-begins-cu_G02B_2_1_T2C1CR62.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/amidst-iran-crisis-rice-exporters-seek-commerce-ministrys-help-to-clear-payments/article70505458.ece",
-    "time": "2026-01-13T13:38:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Air India facing UK lawsuit from estates of some deceased in 2025 plane crash",
-    "desc": "The Ahmedabad-London Air India flight, a Boeing 787 Dreamliner with ​242 people on ⁠board, lost height seconds after taking off from Ahmedabad on June 12, 2025 ‌and erupted in a fireball as it hit a ‍medical college hostel",
-    "img": "https://th-i.thgim.com/public/incoming/ffinwp/article70461121.ece/alternates/LANDSCAPE_1200/VIS_2386.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/air-india-facing-uk-lawsuit-from-estates-of-some-deceased-in-2025-plane-crash/article70505314.ece",
-    "time": "2026-01-13T12:33:42.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Will firmly take up apple import duty concerns with Centre, says Himachal CM",
-    "desc": "Chairing a meeting with representatives of orchardists, Chief Minister Sukhvinder Singh Sukhu heard their concern over the Centre’s move of slashing import duty on New Zealand apples from 50% to 25%, which the growers assert would severely impact their livelihoods",
-    "img": "https://th-i.thgim.com/public/news/national/other-states/xhlfm9/article70505141.ece/alternates/LANDSCAPE_1200/Meeting%20with%20orchardists%202.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/will-firmly-take-up-apple-import-duty-concerns-with-centre-says-himachal-cm/article70505144.ece",
-    "time": "2026-01-13T12:19:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "The wax world of Madame Tussauds",
-    "desc": "Profound practice rising through a tumultuous revolution and art employed for years of nomadic lifestyle, Madame Tussauds wax works show a rich legacy of art, politics, and entertainment. What is the world behind its opulent interiors?",
-    "img": "https://th-i.thgim.com/public/children/q2ua64/article70456190.ece/alternates/LANDSCAPE_1200/MTH_Logo.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/children/the-wax-world-of-madame-tussauds/article70449130.ece",
-    "time": "2026-01-13T05:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vijay Hazare Trophy",
-    "desc": "The former benefits from dropped catches while the latter gets back into form with an unbeaten 74; the two take their side to a comfortable win over Mumbai on a rain-affected day; in the other quarterfinal, Harvik’s ton ends Uttar Pradesh’s unbeaten run via VJD method",
-    "img": "https://th-i.thgim.com/public/incoming/dm8dv1/article70501704.ece/alternates/LANDSCAPE_1200/_DSC8927.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/vijay-hazare-trophy-padikkal-karun-power-karanataka-into-semifinals-saurashtra-send-uttar-pradesh-packing/article70501524.ece",
-    "time": "2026-01-12T17:06:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "WPL-4: Harris, Smriti make it a stroll in the park for Royal Challengers",
-    "desc": "The openers make short work of the modest target of 144 as the Bengaluru side notches up its second win on the trot; Deepti and Dottin’s unbroken 93-run partnership for the sixth wicket props up Warriorz from a precarious 50 for five",
-    "img": "https://th-i.thgim.com/public/incoming/agcftn/article70502841.ece/alternates/LANDSCAPE_1200/11908_12_1_2026_22_5_22_4_DSC_7384.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/wpl-match-between-rcb-and-upw-updates-on-january-12-2026/article70501955.ece",
-    "time": "2026-01-12T14:21:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "The village that kept Thyagaraja’s music alive",
-    "desc": "Every January, the quiet temple town of Thiruvaiyaru, in Tamil Nadu’s Thanjavur district, comes alive with music. This annual pilgrimage centres on the Thyagaraja temple. It is here that Saint Thyagaraja attained Jeeva Samadhi. Each year, on the day of his samadhi, musicians assemble to render the Saint’s Pancharatna Kritis in a ritual known as the Thyagaraja Aradhana.",
-    "img": "https://th-i.thgim.com/public/incoming/4wesk7/article70501268.ece/alternates/LANDSCAPE_1200/aradhana.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-the-village-that-kept-thyagarajas-music-alive/article70501266.ece",
-    "time": "2026-01-12T12:05:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Celebrities wear pins protesting ICE on the Golden Globes red carpet",
-    "desc": "Mark Ruffalo, Wanda Sykes, Jean Smart and Natasha Lyonne wore the pins on the red carpet in tribute to Renee Good, who was shot and killed in her car by an Immigration and Customs Enforcement officer this week in Minneapolis",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/54ya56/article70500697.ece/alternates/LANDSCAPE_1200/Mark.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/mark-ruffalo-wanda-sykes-jean-smart-natasha-lyonne-wear-pins-protesting-ice-on-the-golden-globes-red-carpet/article70500644.ece",
-    "time": "2026-01-12T10:18:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Early Oscar Predictions point to ‘One Battle After Another’ leading the charge",
-    "desc": "From Best Picture and the acting races to screenplay, international feature and animation, the Golden Globes have reshaped early Oscar predictions. Here is what those wins translate to as the Oscar race now comes sharply into focus",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/jqmt9d/article70500431.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/golden-globes-2026-early-oscar-predictions-point-to-one-battle-after-another-leading-the-charge/article70500436.ece",
-    "time": "2026-01-12T06:55:59.000Z"
   }
 ];

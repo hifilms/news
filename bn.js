@@ -1,5 +1,77 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "সোনা ফলবে গাছে...! বাড়িতে লাগান এই একটিমাত্র গাছ, ম্যাজিকে করুন লক্ষাধিক টাকা আয়! জানুন বিস্তারিত",
+    "desc": "সোনার থেকেও বেশি দামি। বিশ্বের অন্যতম দামি আম মিয়াজাকি এবার চাইলে আপনি বাড়িতে লাগিয়ে ফেলতে পারেন। জাপান থেকে আসছে চারা। এবার জাপানি আমের চাষ শুরু হতে চলেছে মুর্শিদাবাদে! গরমের মরশুম আসার আগেই শুরু করে দিন কাজের কাজ। বাড়িতে লাগান এই একটিমাত্র গাছ, ব্যাস আর টাকার কথা ভাবতে হবে না। ম্যাজিকে করুন লক্ষাধিক টাকা আয়! জানুন বিস্তারিত",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/iAWdcpDt2CM_2502925.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/business/money-making-tips-plant-this-special-mango-tree-in-your-house-garden-and-get-magic-results-earn-lakhs-of-rupees-in-just-no-time-l18-sanj-2502925.html",
+    "time": "2026-01-18T15:05:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "মাঝরাস্তায় ভয়াবহ দুর্ঘটনার শিকার অভিনেত্রী অহনা দত্ত! দুমড়ে গেল নতুন গাড়ি... কেমন আছেন টেলিনায়িকা?",
+    "desc": "অভিযোগ, সেই সময় সামনের গাড়িটি হঠাতই সজোরে পেছনের দিকে এসে ধাক্কা মারে অহনার গাড়িতে। দীপঙ্কর বারবার হর্ন দিয়ে সতর্ক করার চেষ্টা করলেও সামনের গাড়ির চালক তাতে কর্ণপাত করেননি। ভিডিওতে দেখা যাচ্ছে, সংঘর্ষের তীব্রতায় অহনার নতুন গাড়িটির সামনের অংশ এবং দরজার বেশ কিছুটা জায়গা দুমড়ে-মুচড়ে গিয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/actress-ahona-dutta-has-been-harassed-on-road-new-car-damaged-in-drunk-driving-incident_635956.html ",
+    "time": "2026-01-18T15:04:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "মাছের আঁশ ফেলে দেওয়ার জিনিস মোটেই না, যা করে দেখাচ্ছে গ্রামের মহিলারা..তাজ্জব কাণ্ড!",
+    "desc": "সাধারণত মাছের আঁশ ফেলে দেওয়া হয়। কিছু আঁশ নকল মুক্তা তৈরিতে ব্যবহৃত হয়। তবে বেশিরভাগ মাছের আঁশই ফেলে দেওয়া হয়। গ্রামের মহিলারা ফেলে দেওয়া মাছের আঁশ থেকে বিভিন্ন জিনিস তৈরি করে স্বনির্ভর হচ্ছেন। বর্তমান সময়ে মেয়েদের স্বনির্ভর করে তুলতে নানান ধরনের প্রকল্প গ্রহণ করেছে কেন্দ্র ও রাজ্য সরকার।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/local-1-2026-01-4fe7055fecfc5c6fd3310be27af462d8-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/business/business-idea-women-in-bengal-making-wonderful-magic-with-fish-scale-you-can-never-believe-this-if-you-see-l18-sanj-2502920.html",
+    "time": "2026-01-18T14:51:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "স্বামীর দেওয়া ১০০ টাকার পুঁজিতেই ভাগ্যবদল! রান্নাঘরেই শুরু 'মাশরুম ফার্মিং', জেনে নিন সিক্রেট",
+    "desc": "স্বামীর কাছ থেকে ১০০ টাকা নিয়ে মাশরুম চাষ শুরু করেন। আজ তিনি প্রতিদিন ১ হাজার টাকারও বেশি আয় করেন। বাড়ির মধ্যেই চাষ করে সংসারের হাল ফিরিয়েছেন এবং অন্য মহিলাদের পথ দেখাচ্ছেন এই নারী। সাফল্যের গল্প তাক লাগিয়ে দেবে আপনাকে! শুধু সঠিক ভাবেই এগোতে হবে ধাপে ধাপে। তাহলেই সাফল্য চুমু খাবে পায়ে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/local-2026-01-621de2c493b4d03948d21ae342b16236-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/business/success-story-west-bengal-woman-showing-ways-of-success-by-mashroom-farming-know-how-to-turn-your-money-in-a-home-business-l18-sanj-2502909.html",
+    "time": "2026-01-18T14:34:29.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "'নিপা' আবহে নয়া যম! এক লপ্তে ৩০০০ আক্রান্ত, রাতারাতি শাটডাউনের সিদ্ধান্ত...",
+    "desc": "অ্যামাজন নিশ্চিত করেছে, গত বছর তাদের গুদামে কাজ করা ১০ জন কর্মীর শরীরে টিবি বা যক্ষ্মা ধরা পড়েছে। এটি মূলত ফুসফুসের সংক্রামক এক ব্যাধি যা উনিশ শতকে অত্যন্ত ভয়াবহ মাত্রায় দেখা যেত। যক্ষ্মাকে কেন ভিক্টোরিয়ান রোগ বলা হয়? কারণ ঊনবিংশ শতাব্দীর ইংল্যান্ডে রোগটি মহামারী আকার ধারণ করেছিল।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/outbreak-of-victorian-disease-amazon-confirms-outbreak-of-tb-tuberculosis-at-uk-warehouse-union-calls-for-immediate-closure-shut-down-immediately_635934.html ",
+    "time": "2026-01-18T13:56:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dev's Actress: দেবের সহ-অভিনেত্রী মধ্যমগ্রামের এই খুদে সুন্দরী এখন জেলার গর্ব, জুনিয়র মিস ইন্ডিয়ায় সফল",
+    "desc": "উত্তর ২৪ পরগনা, রুদ্র নারায়ণ রায়: দেবের এই সহ খুদে অভিনেত্রী মধ্যমগ্রাম থেকেই জাতীয় মঞ্চে পেল সাফল্য! অল্প বয়সেই এল বড় সাফল্য। মধ্যমগ্রাম দেবীগড় এলাকার বাসিন্দা, সেন্ট জুডস হাই স্কুলের ক্লাস ওয়ানের ছাত্রী মাত্র ৭ বছরের সুহানি নন্দী এবার নজর কাড়ল সর্বভারতীয় মঞ্চে",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/HYP_5710993_cropped_18012026_135239_img20260118wa0016_watermar_2-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/devs-co-actor-suhani-from-madhyamgram-became-the-runner-up-in-junior-miss-india-sal-l18-local18-2502527.html",
+    "time": "2026-01-18T13:01:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ন্যাপকিনে লেখা 'বোমা আছে, পালাও!' ২২২ যাত্রী নিয়ে মাঝআকাশেই হুড়মুড়িয়ে নামল ইন্ডিগো বিমান... দেখুন সেই রোমহর্ষক ভিডিয়ো...",
+    "desc": "শেষ খবর পাওয়া পর্যন্ত, দীর্ঘ তল্লাশির পর বিমানটি থেকে সন্দেহজনক কিছু উদ্ধার করা হয়নি। তবে কে বা কারা এই চিরকুটটি রেখেছিল এবং এর পেছনে কোনো গভীর ষড়যন্ত্র ছিল কি না, তা খতিয়ে দেখতে তদন্ত শুরু হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/bomb-threat-forces-delhi-bagdogra-indigo-flight-to-make-emergency-landing-in-lucknow_635923.html ",
+    "time": "2026-01-18T12:56:26.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ইনস্টাগ্রাম রিল সেভ করতে গিয়ে বিপদে পড়ছেন? জানুন সঠিক পদ্ধতি",
+    "desc": "ইনস্টাগ্রামে যখন স্ক্রল করেন, তখন যদি কোনও রিল (Reel) আপনার খুব ভাল লাগে, বেশির ভাগকে এটি ফোনে সরাসরি ডাউনলোড করার অপশন দেখতে চান। কিন্তু ইনস্টাগ্রাম সাধারণত অন্য কারও রিল সরাসরি ডাউনলোড করার অনুমতি দেয় না।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Untitled-design-2026-01-18T174054.065-2026-01-672c299993a8595a9f9d47d3cb1a5ec8-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/technology/tech-news-instagram-reels-legally-download-save-tips-bengali-news-sal-2502794.html",
+    "time": "2026-01-18T12:40:15.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "আপনি ফোন ব্যবহার না করলেও ব্যাটারি দ্রুত খালি হচ্ছে? জানুন ব্যাকগ্রাউন্ড কারণগুলো!",
     "desc": "আমরা যখন ফোনটি ব্যবহার করি, তখন এটিতে একটি ব্যাটারি ড্রেন থাকে। ফোনের স্ক্রিনটি সবচেয়ে ব্যাটারি ব্যবহার করে, তবে কখনও কখনও এটি ঘটে যে আমরা ফোনটি ব্যবহার করছি না, তবে এখনও ফোনের ব্যাটারি ছাড় দেওয়া হয়।",
@@ -630,15 +702,6 @@ const newsData_bn = [
     "time": "2026-01-15T03:44:17.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "বুনো ফল ভেবেই শুঁড়ে করে খেল 'বোমা'! আহারে ছোট হস্তিশাবক!",
-    "desc": "তামিলনাড়ুর সত্যমঙ্গলম টাইগার রিজার্ভে একটি অত্যন্ত দুঃখজনক ঘটনা ঘটেছে। সেখানে দেড় বছর বয়সী একটি হস্তিশাবক ভুল করে একটি হাতে তৈরি বোমায় কামড় দিয়ে মারা গেছে। এই বিস্ফোরকটিকে স্থানীয়ভাবে 'আভুট্টুক্কাই' বলা হয়। জানা গেছে যে, বুনো শুকর তাড়ানোর জন্য এক কৃষক এটি পেতে রেখেছিলেন। এই ঘটনায় একজনকে গ্রেপ্তার করা হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/a-baby-elephant-died-in-tamil-nadu-due-to-eating-a-bomb_635121.html ",
-    "time": "2026-01-14T18:03:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘আমরা কেন ক্ষতিপূরণ দেব’- এবার আইসিসিকে সরাসরি চ্যালেঞ্জ ছুঁড়ে দিল বিসিবি, টি টোয়েন্টি বিশ্বকাপ থেকে কি সরেই যাবে বাংলাদেশ",
     "desc": "'কোন কারণ নেই (কেন আমরা ক্ষতিপূরণ দেব না) কারণ এই প্রশ্নটি ওঠা উচিত নয়, আমরা ইতিমধ্যেই তাদের উপর অনেক খরচ করি। যদি আমরা বলতে শুরু করি যে তুমি খারাপ খেলেছ, এখন টাকা ফেরত দাও, তাই না?’’",
@@ -835,68 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/bollywood-dancer-actor-nora-fatehi-relation-rumor-with-footballer-achraf-hakimi-smj-2492479.html",
     "time": "2026-01-12T11:31:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'আমার হৃদয় আজ পরিপূর্ণ...' বোন নূপুর ও স্টেবিন বেনের বিয়েতে আবেগঘন কৃতী শ্যানন",
-    "desc": "সেই ছবি শেয়ার করেছেন তাঁরা দুজনেই। প্রথম ছবিতে স্টেবিন ও নূপুরকে চুম্বনরত অবস্থায় দেখা গিয়েছে। ছবিটি শেয়ার করার সময় স্টেবিন পোস্টটির ক্যাপশন দিয়েছেন, \"সর্বদা এবং চিরকাল...\"। দম্পতি ছবিগুলি পোস্ট করার সঙ্গে সঙ্গে ইন্ডাস্ট্রির বন্ধুরা তাদের অভিনন্দন জানাতে শুরু করেন। কৃতী তাঁর ইনস্টাগ্রাম স্টোরিজে পোস্টটি পুনরায় শেয়ার করেছেন এবং লিখেছেন, \"আমার হৃদয় আজ পূর্ণ! ভালবাসা, সুখ, আশীর্বাদ।\"",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-11-at-6.07.14-PM-1-2026-01-d98b9d661ec4c83214dc23dfa440d257-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/kriti-sanon-says-my-heart-is-full-as-she-shares-nupur-sanon-and-stebin-ben-wedding-picture-rmj-2491626.html",
-    "time": "2026-01-12T06:27:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "টিকিট বুকিংয়ের নিয়মে আজ থেকে বিরাট বদল...! সকাল ৮টা থেকে মধ্যরাত ১২টার মধ্যে টিকিট বুক করতে পারবেন না 'এঁরা', জানুন নতুন নিয়ম",
-    "desc": "ভারতীয় রেলের টিকিট বুকিংয়ের নিয়মে বড় বদল। এর আগেই লক্ষ লক্ষ ভুয়ো আইআরসিটিসি ব্যবহারকারীর অ্যাকাউন্ট ব্লক করেছে রেল। এরপর তৎকাল টিকিট বুকিংয়ের নিয়ম পরিবর্তন করা হয়, রিজার্ভেশনের জন্য একটি নতুন ওটিপি নিয়ম কার্যকর করা হয় রেলের তরফে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-12-at-10.13.25-2026-01-4606d24bbea3f4e6306b38690c0c8de7-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/indian-railways-a-major-change-in-ticket-booking-rules-from-today-these-people-will-not-be-able-to-book-tickets-between-8-am-and-12-am-learn-about-the-new-rules-sanj-2491758.html",
-    "time": "2026-01-12T05:42:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "লতা মঙ্গেশকরের ৪৬ বছরের পুরনো সুপারহিট গান ! অভিনেত্রী এখানে কী বোঝাতে চাইলেন? নায়ক যে পাত্তাই দিলেন না !",
-    "desc": "হিন্দি সিনেমার স্বর্ণযুগের কথা হলে আর নূতন-এর কথা না উঠলে, সেটা তো সম্ভবই না। ওনার সরলতা, গভীরতা আর অভিনয়ের সংবেদনশীলতা অনেক গানকে অমর করে দিয়েছে। ১৯৭০ সালে আসা ফিল্ম 'ইয়াদগার'-এও উনি এমনই একটা গান দিয়েছিলেন। সেই গানটা হল, ‘জিস পথ পে চলা, উস পথ পে মুঝে আঁচল তো বিছানে দে...’, যা আজও সঙ্গীতপ্রেমীদের মনে বিশেষ জায়গা করে রেখেছে। এই গানে দেবানন্দের সঙ্গে অনেক হিট ফিল্ম দেওয়া নূতন নিজের সম্পর্কে বলছেন। কিন্তু মনোজ কুমার সামনে সামনে হাঁটতে থাকেন আর একটুও ভাব প্রকাশ করেন না। ওনার মুখের ভাব, চোখের ভাষা আর সরলতা গানটার আবেগকে পুরোপুরি জীবন্ত করে তোলে। বিয়েতে তো এই গানটা অবশ্যই গাওয়া হয়। আজকের দ্রুতগতির মিউজিক ট্রেন্ডের মধ্যে যখন মানুষ এই গানটা শোনে, তখন তাঁরা পুরনো সময়ের সরলতা আর আবেগের গভীরতার অভাব অনুভব করে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Jis-Path-Pe-Chala-2026-01-624081fe8624282f18002a5f795a9278-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/entertainment/manoj-kumar-nutan-1979-film-yaadgaar-46-years-old-romantic-song-jis-path-pe-chala-sung-by-lata-mangeshkar-ss-2491708.html",
-    "time": "2026-01-12T05:33:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "আচমকা স্টেশনে লুটিয়ে পড়লেন যাত্রী...! পরমুহূর্তেই ছুটে এল RPF, 'মিশন সেবা'-র অধীনে অসুস্থ যাত্রীদের উদ্ধারে বিরাট উদ্যোগ নিল রেল!",
-    "desc": "আরপিএফ 'মিশন সেবা'-এর অধীনে আহতদের উদ্ধার ও চিকিৎসা সহায়তা প্রদান করেছে।মানবিক উদ্যোগ 'মিশন সেবা'-র অধীনে, পূর্ব রেলের হাওড়া এবং শিয়ালদহ ডিভিশনের রেলের সুরক্ষা বাহিনীর (আরপিএফ) কর্মীরা পুরুষ ও মহিলা-সহ পাঁচজন আহত ও অসুস্থ ব্যক্তিকে উদ্ধার করে সময়মতো সহায়তা প্রদান করে রেলের তরফে গুরুতর দায়িত্ব পালন করেছেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/train-37-2026-01-c5326f3a6c4d3805639b2468bfbea507-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/operation-mission-seva-the-passenger-suddenly-collapsed-at-the-station-rpf-immediately-rushed-to-the-save-railways-striving-to-rescue-the-ill-passenger-under-mission-seva-scheme-sanj-2491548.html",
-    "time": "2026-01-12T04:03:10.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "বিক্ষোভে নিহতের সংখ্যা ২০৩-এ পৌঁছতেই 'দাঙ্গাবাজদের' দোষারোপ ইরানের প্রেসিডেন্টের",
-    "desc": "গত ২৮ ডিসেম্বর থেকে ইরানে গণবিক্ষোভ শুরু হয়েছে। প্রাথমিক ভাবে মূল্যবৃদ্ধির বিরুদ্ধে প্রতিবাদ কর্মসূচি শুরু হয়েছিল। ইরানি রিয়ালের ব্যাপক দরপতন, নিত্যপণ্যের অস্বাভাবিক মূল্যবৃদ্ধি এবং অসহনীয় জীবনযাত্রার ব্যয়ের প্রতিবাদে গত ২৮ ডিসেম্বর থেকে ইরানের রাজধানী তেহরানে বিক্ষোভ শুরু হয়। ক্রমে তা সর্বাত্মক বিদ্রোহের আকার নেয়। দেশের বহু শহরে ছড়িয়ে পড়ে উত্তেজনা। আন্দোলন দমনে কঠোর হয়েছে ইরান সরকার। মাঠে নামানো হয়েছে আইনশৃঙ্খলা রক্ষাকারী বাহিনী।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Untitled-2026-01-04e64714beb7627d1f29286ef1f3c2d1-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/iran-irans-president-blames-rioters-as-protest-toll-reaches-203-rm-2491465.html",
-    "time": "2026-01-11T16:44:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বাতিল ফোনেই রয়েছে সোনা! কী ভাবে বার করবেন জানেন? সহজতম পদ্ধতি আবিস্কার করলেন বিজ্ঞানীরা",
-    "desc": "আজকের ডিজিটাল যুগে, প্রতি বছর বিশ্বে লক্ষ লক্ষ টন ইলেকট্রনিক বর্জ্য তৈরি হয়। পুরনো মোবাইল, ল্যাপটপ, রিমোট, আর নষ্ট সার্কিট বোর্ডগুলিকে অনেক সময় অপ্রয়োজনীয় জিনিস মনে করে ফেলে দেওয়া হয়। কিন্তু অনেকেই জানেন না, এই e-waste এর মধ্যে লুকিয়ে আছে সোনা।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1768138382_image-2026-01-c2c98f2465bd803bc66abf3f87307c3c-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/off-beat/there-is-always-little-amount-of-gold-in-mobile-phone-and-many-gadgets-know-the-process-how-you-can-recover-rdp-2491410.html",
-    "time": "2026-01-11T14:50:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "স্ত্রীর গোপন ছবি ঘাঁটাঘাঁটি করা, শেয়ার করার হুমকি দেওয়া নিষ্ঠুরতার সমান: ঝাড়খণ্ড হাই কোর্ট",
-    "desc": "ঝাড়খণ্ডের হাই কোর্ট বলেছে, স্বামীর অনুমতি ছাড়া স্ত্রীর ব্যক্তিগত ছবি দেখা, সেই ছবি সোশ্যাল মিডিয়ায় ছড়িয়ে দেওয়ার হুমকি এবং শারীরিক ও যৌন নির্যাতন হিন্দু বিবাহ বিধি অনুযায়ী অপরাধ হিসেবে গণ্য হবে। ঝাড়খণ্ড হাই কোর্ট বলেছে, এই ধরনের আচরণ স্বামীর দ্বারা স্ত্রীর চরিত্র হননের সমান।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/03/Crime-Relationship-2025-03-93ae720d21582fd9085648cd1cf22149-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/accessing-wifes-personal-photos-and-threatening-her-to-share-them-is-cruelty-says-jharkhand-high-court-rdp-2491252.html",
-    "time": "2026-01-11T10:49:58.000Z"
   }
 ];

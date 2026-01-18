@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "લગ્ન કરેલા કપલને મળશે ટેક્સમાં મોટી રાહત! બજેટમાં જાહેરાત થવાની શક્યતા",
+    "desc": "હાલમાં, ભારતમાં ટેક્સ સિસ્ટમ એવી છે કે પરિણીત હોય કે ન હોવાથી કોઈ ફરક પડતો નથી. પતિ અને પત્ની બંને અલગથી ટેક્સ ચૂકવે છે, અલગ PAN ધરાવે છે, અને અલગ છૂટ અને કપાત મેળવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/married-couples-will-get-big-tax-relief-likely-to-be-announced-in-the-budget-462121 ",
+    "time": "2026-01-18T14:15:47.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "હું દરરોજ પિતા સામે રડતો હતો... ગંભીરના લાડકા હર્ષિત રાણાનું છલકાયું દર્દ, NZ સિરીઝ વચ્ચે સામે આવી દર્દભરી કહાની",
     "desc": "ભારત-ન્યુઝીલેન્ડ વનડે સિરીઝ વચ્ચે હર્ષિત રાણાનો એક ઇન્ટરવ્યુ ચર્ચામાં છે, જેમાં તેણે પોતાના સંઘર્ષની કહાની જણાવી છે. તેણે જણાવ્યું કે, એક સમયે તેને કોઈ પણ ટીમમાં જગ્યા મળતી નહોતી અને તે અંદરથી સાવ તૂટી ગયો હતો. તેણે એવો પણ દાવો કર્યો કે, તે દરરોજ તેના પિતા સામે રડતો હતો.",
@@ -315,15 +324,6 @@ const newsData_gu = [
     "time": "2026-01-16T05:46:09.000Z"
   },
   {
-    "cat": "Business",
-    "title": "માત્ર 1 રૂપિયામાં મળી રહી છે ફ્લાઇટ ટિકિટ! Indigo લાવ્યું મુસાફરો માટે ગજબની ઓફર",
-    "desc": "પોતાના મુસાફરો માટે એક મોટી ભેટ લઈને આવ્યું છે. એરલાઇને ‘Sail into 2026’ નામે ન્યૂ યર સેલની જાહેરાત કરી છે, જેમાં બાળકો માત્ર 1 રૂપિયામાં મુસાફરી કરી શકશે. જોકે, આ માટે તમારે ટિકિટ સીધી ઇન્ડિગોની વેબસાઇટ અથવા એપ પરથી બુક કરવાની રહેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/flight-tickets-available-for-just-re-1-indigo-launches-an-amazing-offer-461810 ",
-    "time": "2026-01-16T05:01:52.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ઘર બેઠા રણવીર સિંહની ધુરંધર ફિલ્મ જોવા થઈ જાવ તૈયાર, જાણો ક્યારે થઈ રહી છે રિલીઝ",
     "desc": "રણવીર સિંહની સ્પાઈ એકશન થ્રિલર ફિલ્મ ધુરંધર સિનેમાઘરોમાં રિલીઝ ત્યારથી ચર્ચામાં છે. આ ફિલ્મ અને તેના દમદાર પાત્રોના લોકો વખાણ કરી રહ્યા છે. આ ફિલ્મ હવે તમે ઘર બેઠા પણ જોઈ શકશો. કારણ કે રણવીર સિંહની ફિલ્મ ઓટીટી પર રિલીઝ થવા માટે તૈયાર છે.",
@@ -466,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/no-need-for-passwords-google-and-microsoft-are-bringing-a-new-login-system-the-whole-game-may-get-stuck-in-india-461439 ",
     "time": "2026-01-12T10:30:32.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "40,000 વર્ષ બાદ ગુફાના &amp;#039;ગુપ્ત ઓરડા&amp;#039;નો દરવાજો ખુલ્યો તો મચ્યો હડકંપ, વૈજ્ઞાનિકોના હોશ ઉડ્યા",
-    "desc": "સ્પેનમાં આવેલા જિબ્રાલ્ટરમાં વેનગાર્ડ ગુફા આવેલી છે જે યુનેસ્કોની વર્લ્ડ હેરિટેજ સાઈટ પણ છે. વૈજ્ઞાનિકોએ એક એવી વસ્તુ શોધી છે જે છેલ્લા 40000 વર્ષથી ગુપ્ત રૂમમાં હતી. જ્યારે તેઓ અંદર ગયા તો અંદરનો નજારો જોઈને આંખો ફાટી ગઈ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/archaeologists-found-40000-years-old-sealed-cave-chamber-revealing-lives-of-worlds-last-neanderthals-461430 ",
-    "time": "2026-01-12T09:24:29.000Z"
   },
   {
     "cat": "Tech",

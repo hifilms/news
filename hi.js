@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why is Michael Bracewell not on field during run chase in IND vs NZ 3rd ODI?",
+    "desc": "New Zealand were handed a blow in the second innings of the third ODI against India as captain Michael Bracewell went off the field in the chase. Bracewell played a bit of a cameo as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-michael-bracewell-not-on-field-during-run-chase-in-ind-vs-nz-3rd-odi-2026-01-18-1026412",
+    "time": "2026-01-18T14:30:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Daryl Mitchell misses Shubman Gill, Babar Azam's record despite stellar knock in IND vs NZ 3rd ODI",
+    "desc": "New Zealand star Daryl Mitchell continued his Midas touch as he slammed his second consecutive century in the ODI series against India. After having hit 84 and an unbeaten 131* in the first two matches,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/daryl-mitchell-misses-shubman-gill-babar-azams-record-despite-stellar-knock-in-ind-vs-nz-3rd-odi-2026-01-18-1026410",
+    "time": "2026-01-18T13:56:38.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Daryl Mitchell surpasses Viv Richards, Ponting as his insane run against India continues",
     "desc": "New Zealand star Daryl Mitchell continued his rich vein of form as he slammed yet another century in the ongoing ODI series against India. Mitchell, who had hit 84 and an unbeaten 131 in the...",
     "img": "",
@@ -28,8 +46,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "New Zealand end strong on 337/8 in Indore decider",
-    "desc": "New Zealand star Daryl Mitchell continued from where he left off in the second ODI as the star batter slammed yet another century in the third ODI of the three-match series against India. With the...",
+    "title": "India in huge trouble as six wickets fall in chase, Kohli holds key",
+    "desc": "India aim to clinch the ODI series against New Zealand as they look to chase down 338 in the series decider at the Holkar Stadium in Indore. The Men in Blue banked on the likes...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-vs-new-zealand-3rd-odi-cricket-match-score-live-today-at-match-holkar-cricket-stadium-virat-kohli-rohit-sharma-shubman-gill-1026378",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/robin-uthappa-questions-ayush-badoni-s-inclusion-in-india-s-squad-ahead-of-third-nz-odi-2026-01-18-1026352",
     "time": "2026-01-18T04:37:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Smriti Mandhana joins elite list with stellar knock against Delhi Capitals women in WPL 2026",
-    "desc": "Game 11 of the ongoing WPL (Women’s Premier League) 2026 saw Royal Challengers Bengaluru women taking on Delhi Capitals women. The clash saw RCB registering a brilliant victory, and it was all thanks to the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-joins-elite-list-with-stellar-knock-against-delhi-capitals-women-in-wpl-2026-2026-01-18-1026342",
-    "time": "2026-01-18T02:44:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Holkar Stadium in Indore play?",
-    "desc": "The stage is set for the third and final ODI of the ongoing multi-format series between India and New Zealand. The two sides will lock horns at the Holkar Stadium in Indore on January 18....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-3rd-odi-pitch-report-how-will-surface-at-holkar-stadium-in-indore-play-2026-01-18-1026338",
-    "time": "2026-01-18T01:50:51.000Z"
   }
 ];
