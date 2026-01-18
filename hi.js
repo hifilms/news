@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Daryl Mitchell surpasses Viv Richards, Ponting as his insane run against India continues",
+    "desc": "New Zealand star Daryl Mitchell continued his rich vein of form as he slammed yet another century in the ongoing ODI series against India. Mitchell, who had hit 84 and an unbeaten 131 in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-3rd-odi-daryl-mitchell-surpasses-viv-richards-ponting-as-his-insane-run-against-india-continues-2026-01-18-1026399",
+    "time": "2026-01-18T11:58:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Daryl Mitchell creates history, becomes first ever player to achieve major record vs India",
+    "desc": "New Zealand star Daryl Mitchell etched his name into the history books as he achieved a massive record in the third ODI against India on Sunday, January 18. With the series on the line at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/daryl-mitchell-creates-history-becomes-first-ever-player-to-achieve-major-record-vs-india-2026-01-18-1026393",
+    "time": "2026-01-18T10:43:53.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is Hardik Pandya not playing 3rd ODI vs New Zealand in Indore?",
     "desc": "India and New Zealand lock horns in the third and final ODI of the ongoing multi-format series. The two sides take on each other at the Holkar Stadium in Indore on January 18. With the...",
     "img": "",
@@ -10,8 +28,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "New Zealand 3 down, India aim to reclaim command",
-    "desc": "The stage is set for the third and final ODI of the ongoing multi-format series between India and New Zealand. The two sides locked horns at the Holkar Stadium in Indore and with the series...",
+    "title": "New Zealand end strong on 337/8 in Indore decider",
+    "desc": "New Zealand star Daryl Mitchell continued from where he left off in the second ODI as the star batter slammed yet another century in the third ODI of the three-match series against India. With the...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-vs-new-zealand-3rd-odi-cricket-match-score-live-today-at-match-holkar-cricket-stadium-virat-kohli-rohit-sharma-shubman-gill-1026378",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-3rd-odi-pitch-report-how-will-surface-at-holkar-stadium-in-indore-play-2026-01-18-1026338",
     "time": "2026-01-18T01:50:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Smriti Mandhana's masterclass helps Bengaluru beat Delhi, yet WPL curse lingers",
-    "desc": "The Women’s Premier League continues to tease batters with near-misses, as the wait for a maiden century in the competition goes on. There have now been 10 instances of a player reaching 90 or more...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-s-masterclass-helps-bengaluru-beat-delhi-yet-wpl-curse-lingers-2026-01-17-1026329",
-    "time": "2026-01-17T18:05:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India announce white-ball squad for Australia tour, 31-year-old called up for first time in seven years",
-    "desc": "India have announced their ODI and T20I squad for the upcoming tour to Australia. The series holds massive importance as the current ODI champions start their pursuit for the upcoming T20 World Cup, set to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-announce-white-ball-squad-for-australia-tour-31-year-old-called-up-for-first-time-in-seven-years-2026-01-17-1026327",
-    "time": "2026-01-17T17:14:44.000Z"
   }
 ];

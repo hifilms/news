@@ -1,5 +1,95 @@
 const newsData_bn = [
   {
+    "cat": "Tech",
+    "title": "আপনি ফোন ব্যবহার না করলেও ব্যাটারি দ্রুত খালি হচ্ছে? জানুন ব্যাকগ্রাউন্ড কারণগুলো!",
+    "desc": "আমরা যখন ফোনটি ব্যবহার করি, তখন এটিতে একটি ব্যাটারি ড্রেন থাকে। ফোনের স্ক্রিনটি সবচেয়ে ব্যাটারি ব্যবহার করে, তবে কখনও কখনও এটি ঘটে যে আমরা ফোনটি ব্যবহার করছি না, তবে এখনও ফোনের ব্যাটারি ছাড় দেওয়া হয়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Untitled-design-2026-01-18T170828.381-2026-01-b22d10cd63ee9be167af098fc712c2a7-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/technology/battery-life-of-smartphone-why-phone-battery-drains-even-when-not-used-reasons-and-fixes-bengali-sal-2502777.html",
+    "time": "2026-01-18T11:50:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "জানুন PPF, NSC ও SCSS-এর সর্বশেষ সুদের হার—জানুয়ারি থেকে মার্চ ২০২৬",
+    "desc": "অর্থ মন্ত্রক আজ (৩১ ডিসেম্বর, ২০২৫) অনুষ্ঠিত ত্রৈমাসিক পর্যালোচনা বৈঠকে পাবলিক প্রভিডেন্ট ফান্ড (PPF), সিনিয়র সিটিজেন সেভিংস স্কিম (SCSS), ন্যাশনাল সেভিংস সার্টিফিকেট (NSC) এবং সুকন্যা সমৃদ্ধি অ্যাকাউন্ট (SSY)–এর সুদের হারে কোনো পরিবর্তন করেনি। পোস্ট অফিস স্কিম নামে পরিচিত এই ছোট সঞ্চয় প্রকল্পগুলোর নতুন সুদের হার জানুয়ারি–মার্চ ত্রৈমাসিকের জন্য প্রযোজ্য হবে…",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ppf-3-new-2026-01-6e99dd114e2bcf4bc348b85ecdc18418-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/have-ppf-nsc-scss-interest-rates-changed-for-january-march-2026-check-latest-rates-of-small-savings-scheme-announced-today-smc-2502391.html",
+    "time": "2026-01-18T11:38:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'বিকশিত ভারতের জন্য পূর্ব ভারতের উন্নয়ন জরুরি', হুগলিতে কেন্দ্রীয় প্রকল্পের উদ্বোধন করে জানালেন মোদি",
+    "desc": "সিঙ্গুরে আজ জোড়া কর্মসূচি প্রধানমন্ত্রী নরেন্দ্র মোদির, সেই মঞ্চে উপস্থিত ছিলেন কেন্দ্রীয় মন্ত্রী সর্বানন্দ সোনোয়াল, ছিলেন রাজ্যের দুই কেন্দ্রীয় মন্ত্রী সুকান্ত মজুমদার এবং শান্তনু ঠাকুর। সিঙ্গুরের মঞ্চ থেকে মোদি এক্সটেন্ডেড পোর্ট গেট সিস্টেমের শিলান্যাস করেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/narendra-modi-1-2026-01-b61c9322dea63273358b54f3cec370bf-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/narendra-modi-speaks-about-balagarh-port-and-flags-off-3-new-amrit-bharat-express-know-what-pm-says-rdp-2502670.html",
+    "time": "2026-01-18T11:22:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "মিউচুয়াল ফান্ডে SIP-তে বিনিয়োগ করেন? জানেন প্রতি মাসে ৪০০০ টাকা করে জমালে ১০ লাখ হতে কতদিন লাগবে?",
+    "desc": "ব্যাঙ্কের সুদ এখন অনেকটা কম, তাই কিছু টাকা বেশি পাওয়ার আশায় অনেকেই এখন মিউচুয়াল ফান্ডে SIP করার কথা ভাবেন। যদিও মিউচুয়াল ফান্ডে বিনিয়োগ ঝুঁকি সাপেক্ষ। মিউচুয়াল ফান্ডে বিনিয়োগের আগে রিটার্ন এবং ঝুঁকি দেখে ১২ থেকে ১৪ শতাংশ পাওয়া যায় এমন ফান্ডে বিনিয়োগ করা উচিত।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/SIP-121-2026-01-e49eff835f6c675a335d9d022d257dab-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/investment-plan-in-mutual-funds-when-you-will-get-10-lakhs-if-you-invest-4000-per-month-in-mutual-fund-sip-rdp-2502708.html",
+    "time": "2026-01-18T10:48:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "স্টেপ-আপ SIP কী? এই সহজ কৌশলেই দ্বিগুণ হতে পারে আপনার অবসর সঞ্চয়",
+    "desc": "বর্তমানে সিস্টেম্যাটিক ইনভেস্টমেন্ট প্ল্যান (SIP) দীর্ঘমেয়াদি বিনিয়োগের অন্যতম নির্ভরযোগ্য বিকল্প হিসেবে ব্যাপকভাবে বিবেচিত হচ্ছে। অনেকেই ভবিষ্যৎ সুরক্ষিত করার জন্য প্রথম চাকরি থেকেই প্রতি মাসে অল্প অল্প করে বিনিয়োগ শুরু করেন। তবে খুব কম মানুষই জানেন যে একটি সহজ SIP কৌশল অবসরকালীন তহবিল প্রায় দ্বিগুণ করে দিতে পারে। এই তুলনামূলকভাবে কম পরিচিত পদ্ধতিটিই হলো স্টেপ-আপ SIP।",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/08/mutual-fund-4-new-2025-08-017f00ec73cb8baed1248000bc992ef4-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/what-is-step-up-sip-how-you-can-save-for-pension-by-sip-know-more-details-smc-2502677.html",
+    "time": "2026-01-18T10:31:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "প্রথমবার 'রাজকুমারি'কে সামনে আনলেন রাজকুমার, কার মতো দেখতে হল মেয়েকে? রাখলেন 'বাঙালি' নাম",
+    "desc": "২০২৫ সালের ১৫ নভেম্বর৷ বলিউড অভিনেতা রাজকুমার রাও এবং পত্রলেখার ঘর আলো করে আসে ফুটফুটে কন্যা সন্তান৷ সম্প্রতি অভিনেতা একরত্তি মেয়ের প্রথম ছবি সোশ্যাল মিডিয়ায় ভক্তদের সঙ্গে শেয়ার করেছেন৷ এবং তারকা দম্পতি তাদের মেয়ের নাম প্রকাশ করেছেন ৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/11/Untitled-design-2025-11-15T100648.397-2025-11-2716977b60447c46c17e0f323a32543c-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/rajkummar-rao-and-patralekha-share-first-photo-of-daughter-name-her-parvati-paul-rao-rds-2502570.html",
+    "time": "2026-01-18T10:23:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "লতা-রফির গান, নায়ক-নায়িকার চূড়ান্ত রোম্যান্স, ৫২ বছর পরও অনবদ্য জুটির কেমিস্ট্রি",
+    "desc": "বিনোদ খান্না ছিলেন তাঁর সময়ের অন্যতম সুপুরুষ নায়ক। তিনি তাঁর ক্যারিয়ারে অনেক হিট এবং ব্লকবাস্টার ছবিতে কাজ করেছেন। তবে ১৯৭৪ সালের \"হাত কি সাফাই\" ছবিতে তাঁর কাজ বিশেষভাবে প্রশংসিত হয়েছিল। ছবির একটি গান সেই সময়ে তুমুল হিট হয়েছিল। সেই গানটি হল, \"ওয়াদা করলে সজনা তেরে বিনা, ম্যায় না রাহুন...\" এই গানটি সেই সময়ে তুমুল হিট ছিল। আজও, বহু বছর পরেও, এটি এখনও প্রিয়। গানটিতে বিনোদ খান্না এবং সিমি গারেওয়াল উপস্থিত ছিলেন। \"হাত কি সাফাই\" ছবিতে হেমা মালিনী, রণধীর কাপুর এবং সিমি গারেওয়ালও গুরুত্বপূর্ণ ভূমিকায় অভিনয় করেছিলেন। এই এভারগ্রিন গানটি মোহাম্মদ রফি এবং লতা মঙ্গেশকর গেয়েছিলেন। সঙ্গীত পরিচালনা করেছিলেন কল্যাণজি-আনন্দজি। আজও, এই গানটি শুনলে মানুষ সেই যুগে ফিরে যায়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/vada-2026-01-378c742f002d0d58735f27f6504d9f36-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/entertainment/viral-social-vinod-khanna-hema-malini-simi-garewal-film-haath-ki-safai-song-wada-karle-sajna-sung-by-mohammed-rafi-lata-mangeshkar-pbd-2502662.html",
+    "time": "2026-01-18T10:20:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "একটার বেশি ক্রেডিট কার্ড থাকলে সিবিল স্কোর বাড়ে না কমে? কী বলছে নিয়ম, জেনে নিন",
+    "desc": "আগে ক্রেডিট কার্ড শুধু payment-এর জন্য ব্যবহার হত, এখন এটা cashback, উপহার এমনকী অনেক সময় বিশেষ অফারের জন্যও ব্যবহার হয়। এই অবস্থায় প্রশ্ন ওঠে, একাধিক card রাখলে কি আপনার সিবিল স্কোরে কি প্রভাব পড়তে পারে?",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/12/credit-card-4-2025-12-80a4e746c9bc09ecc108021cbd53ed12-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/will-more-than-one-credit-card-can-affect-cibil-score-drawbacks-and-benefits-of-more-than-one-credit-card-rdp-2502655.html",
+    "time": "2026-01-18T10:07:40.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "বহুতল শপিং মলে ভয়ংকর আগুন! দাউ দাউ করে জ্বলছে পর পর দোকান, ঝলসে মৃত্যু...",
+    "desc": "বহুতল মলে আগুন! পাকিস্তানের করাচির বহুতল শপিং মলে অগ্নিকাণ্ডে অন্তত পাঁচজন মারা গিয়েছেন। শনিবার রাতে গুল প্লাজা নামের ওই শপিং মলে আগুন লাগে বলে। রবিবার সকালের তথ্য অনুযায়ী, কয়েক ঘণ্টা পেরিয়ে গেলেও আগুন পুরোপুরি নেভানো যায়নি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/massive-fire-in-multi-storey-shopping-mall-pakistan-karachi-gutting-shops-killing-at-least-five-people-dozens-injured_635889.html ",
+    "time": "2026-01-18T10:05:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "আসছে 'জোড়া' ঝঞ্ঝা...! ১৮, ১৯, ২০, ২১ জানুয়ারি ভারী বৃষ্টি, দমকা হাওয়ার হুঁশিয়ারি ১০ রাজ্যে, ১১ রাজ্য কাঁপাবে কুয়াশা, কী হবে বাংলায়? জানিয়ে দিল IMD",
+    "desc": "জানুয়ারির প্রথম দুই সপ্তাহের তুমুল শীতের দাপট শেষে এবার মোড় ঘুরছে আবহাওয়ার। দেশ জুড়ে ব্যাপক ভাবে বদলাচ্ছে আবহাওয়ার মুড। নতুন করে পশ্চিমী ঝঞ্ঝার এন্ট্রি, আর তাতেই একশো আশি ডিগ্রি ঘুরছে দেশের আবহাওয়া। এক নজরে দেখে নেওয়া যাক কোথায় কী হতে চলেছে আগামী ৫ দিন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/sanj-2026-01-14T221028.734-2026-01-a209a9547d7371d87b628e2fe6663e1c-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-18-19-20-21-january-heavy-rainfall-alert-in-10-states-in-next-4-days-due-to-western-disturbances-dense-fog-alert-in-11-states-know-latest-west-bengal-weather-sanj-2502498.html",
+    "time": "2026-01-18T09:19:55.000Z"
+  },
+  {
     "cat": "Business",
     "title": "নিজের বাড়ি না বাড়ি ভাড়া? সিদ্ধান্ত নিতে সমস্যা? আপনার জন্য রইল '১% ফর্মুলা'",
     "desc": "ভাড়া বাড়িতে থেকে বাড়িওয়ালার পকেট ভরাবেন, নাকি ব্যাঙ্ক থেকে বড় অঙ্কের ঋণ নিয়ে নিজের স্বপ্নের বাড়ি কিনবেন বা বানাবেন? জীবনের একটা পর্যায়ে এসে এই দ্বিধায় সবাই-ই ভোগেন! এই সিদ্ধান্তটা মোটেই সহজ নয়, কারণ এতে আপনার সারা জীবনের সঞ্চয় জড়িয়ে থাকে। আপনিও যদি এই দোটানায় পড়েন, তা হলে আপনাকে পথ দেখাবে রিয়েল এস্টেট দুনিয়ার চর্চিত '১% রুল'!",
@@ -630,24 +720,6 @@ const newsData_bn = [
     "time": "2026-01-13T20:39:02.000Z"
   },
   {
-    "cat": "World",
-    "title": "Canada Gold Heist|Who is Arsalan Choudhury? ডাকাত আরসালান! ১৬৭ কোটি টাকার সোনা হাতিয়ে বিদেশে পাড়ি... রূদ্ধশ্বাস তদন্তে নাম ডুবল ভারতের?",
-    "desc": "পুলিস সূত্রে জানা গেছে, আরসালান চৌধুরী, দুবাই থেকে ফিরছিলেন। বিমানবন্দরে পা রাখতেই তাকে গ্রেফতার করা হয়। বর্তমানে তার নির্দিষ্ট কোনও স্থায়ী ঠিকানা নেই বলে জানা গিয়েছে। তার বিরুদ্ধে ৫,০০০ ডলারের বেশি মূল্যের সম্পত্তি চুরি, ডাকাতির অর্থ ও সম্পত্তি দখলে রাখা এবং দণ্ডনীয় অপরাধ ঘটানোর ষড়যন্ত্রে গ্রেফতার করা হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/who-is-arsalan-chaudhary-man-arrested-two-years-after-biggest-gold-heist-of-rs-1805030000-in-second-suspect-believed-to-be-in-india_634798.html ",
-    "time": "2026-01-13T17:28:10.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "কাঠবিড়ালির মতো বাদাম জমিয়ে কোনও লাভ নেই, আর ২০ বছরে সঞ্চয়ের কোনও মূল্যই থাকবে না! বড় গণনা ইলন মাস্কের...",
-    "desc": "টেসলার মাধ্যমে তিনি ইলেকট্রিক গাড়িকে মূলধারায় এনেছেন। স্পেস-এক্সের মাধ্যমে মহাকাশ ভ্রমণকে নতুন রূপ দিয়েছেন। তার ব্যবসাগুলো স্বয়ংচালিত গাড়ি, হিউম্যানয়েড রোবট, ব্রেইন-কম্পিউটার ইন্টারফেস এবং এআই সহকারীর ওপর ব্যাপকভাবে নির্ভরশীল। মাস্কের কাছে এই প্রকল্পগুলো আলাদা কিছু নয়। এগুলো একটি বড় ধাঁধার অংশ যার মূল লক্ষ্য মানুষের শ্রমকে স্বয়ংক্রিয় করে তোলা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/do-not-squirrel-away-money-the-savings-will-be-irrelevant-in-20-years_634791.html ",
-    "time": "2026-01-13T16:34:30.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "বন্ধ হয়ে যাচ্ছে ১০ মিনিটে ডেলিভারি পরিষেবা! কেন এই সিদ্ধান্ত কেন্দ্রের, দেখুন ভিডিও",
     "desc": "এবার বন্ধ হয়ে যাচ্ছে ১০ মিনিটে ডেলিভারির পরিষেবা। গিগ কর্মীদের নিরাপত্তা নিয়ে উদ্বেগের মধ্যে, কেন্দ্রীয় সরকার দ্রুত ই-কমার্স প্ল্যাটফর্মগুলোকে '১০-মিনিট ডেলিভারি' বন্ধ করার নির্দেশ দিয়েছে। ব্লিঙ্কিট, জেপটো, জোমাটো, সুইগি-সহ বড় বড় প্ল্যাটফর্মের সঙ্গে একটি বৈঠক হয়েছে, সেখানেই দ্রুত ডেলিভারি নিয়ে ডেলিভারি কর্মীদের যা দাবি ছিল, তা নিয়ে একটি সিদ্ধান্তে পৌঁছেছে কেন্দ্র। ব্লিঙ্কিট তাদের ব্র্যান্ডিং থেকে ১০-মিনিট ডেলিভারি দেওয়ার ট্যাগলাইবন তুলে নেওয়ার প্রতিশ্রুতি দিয়েছে। অন্যান্য সংস্থাগুলিও সিদ্ধান্ত নিয়েছে এই সংক্রান্ত সময়সীমা তুলে নেবেন। এই পদক্ষেপের লক্ষ্য হল গিগ কর্মীদের জন্য আরও বেশি নিরাপত্তা, সুরক্ষা এবং উন্নত কাজের পরিবেশ নিশ্চিত করা। গিগ কর্মীদের নিরাপত্তার বিষয়টি সংসদের শীতকালীন অধিবেশনেও উঠেছিল, যেখানে আপ সাংসদ রাঘব চাড্ডা যুক্তি দিয়েছিলেন যে ১০-মিনিট সময়সীমা কর্মীদের অবাস্তব লক্ষ্য পূরণের জন্য রাস্তায় ঝুঁকি নিতে বাধ্য করে।",
@@ -826,77 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/accessing-wifes-personal-photos-and-threatening-her-to-share-them-is-cruelty-says-jharkhand-high-court-rdp-2491252.html",
     "time": "2026-01-11T10:49:58.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ফ্রিজ কেন দেওয়ালে ঠেকিয়ে রাখতে নেই? অনেকেই জানেন না, অজান্তে বড় বিপদ ডেকে আনতে পারেন, সাবধান!",
-    "desc": "फ्रिज में विस्फोट कैसे होता है, कंप्रेसर ब्लास्ट के पीछे क्या कारण हैं, पुराने रेफ्रिजरेटर से कितना खतरा है और घर में फ्रिज सुरक्षित रखने के लिए किन सावधानियों का पालन करना जरूरी है. जानें सभी जरूरी टिप्स...",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1768118515_1768111143_fridge-explosion-2-2026-01-77326c69e2a547ea3928e842cbc1f297-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/technology/fridge-explosion-common-nowadays-how-to-be-safe-to-avoid-short-circuit-blast-smj-2491184.html",
-    "time": "2026-01-11T08:16:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বেঙ্গালুরুতে CPRI জয়েন্ট ডিরেক্টরের বাড়িতে তল্লাশি চালিয়ে ৩ স্যুটকেস ভর্তি টাকা উদ্ধার সিবিআই-এর ! নোট গুনতে গুনতে কর্মকর্তাদের ঘাম ঝরতে থাকে",
-    "desc": "বেঙ্গালুরুতে দুর্নীতির বিরুদ্ধে সিবিআইয়ের অভিযান ছিল এক রোমাঞ্চকর ঘটনা। যখন একজন সরকারি কর্মকর্তার বাড়িতে তল্লাশি চালানো হয়, তখন আলমারিতে নয়, তিনটি বড় স্যুটকেসে নগদ টাকা পাওয়া যায়। প্রথমে অনুমান করা হয় যে ঘুষ দাবি করা হয়েছিল লক্ষ লক্ষ টাকা, কিন্তু বাজেয়াপ্ত করা হয়েছে কোটি কোটি টাকা !",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/CBI-Raid-In-Bengaluru-2026-01-470b3c707b90b224e8c2aaee3a2be735-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/cpri-officer-raid-cbi-nets-bangalore-official-with-three-suitcases-of-cash-3-crore-76-lakh-seized-in-9-lakh-5-thousand-bribery-case-ss-2490904.html",
-    "time": "2026-01-11T03:33:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বিয়ের এক বছর না ঘুরতেই বিচ্ছেদের সুর! ভাঙছে তাহসান-রোজার সংসার...",
-    "desc": "বিয়ের এক বছর পূর্ণ হওয়ার আগেই ভাঙনের মুখে জনপ্রিয় গায়ক ও অভিনেতা তাহসান খানের দ্বিতীয় সংসার। ‘আমরা বিচ্ছিন্ন ও আলাদা থাকছি’, মেকআপ আর্টিস্ট রোজার সঙ্গে বিচ্ছেদ নিয়ে মুখ খুললেন তাহসান। কেন দ্বিতীয় স্ত্রীর সঙ্গে দূরত্ব তৈরি হলো তাহসানের?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/bangladeshi-actor-singer-tahsan-khan-confirms-separation-from-wife-roja_634163.html ",
-    "time": "2026-01-10T14:01:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "খাকি উর্দিতে 'ডার্ক ও ডেডলি' রানি! ফেব্রুয়ারি নয়, জানুয়ারিতেই আসছে 'মর্দানি ৩'...",
-    "desc": "২৭ ফেব্রুয়ারি রিলিজ করার কথা ছিল মর্দানি ৩-এর। তবে সময়ের আগেই বড়পর্দায় আসছে রানি মুখোপাধ্যায় অভিনীত এই ছবি। রানি আগেই জানিয়েছিলেন যে, এই কিস্তিটি আগের দুটির চেয়ে অনেক বেশি ‘ডার্ক, ডেডলি এবং ব্রুটাল’ অর্থাৎ অন্ধকারাচ্ছন্ন ও হিংস্র হবে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/yrf-prepones-mardaani-3-release-date-rani-mukerji-poster_634125.html ",
-    "time": "2026-01-10T11:46:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বক্স অফিসে ভুয়ো ব্যবসার রমরমা? টলিউডের 'অস্বাস্থ্যকর' প্রতিযোগিতা নিয়ে বিস্ফোরক অঙ্কুশ!",
-    "desc": "বক্স অফিসে ‘অস্বাস্থ্যকর’ প্রতিযোগিতা নিয়ে বিস্ফোরক দাবি করেছেন অঙ্কুশ। ছবি মুক্তির ঠিক আগেই অনভিপ্রেত এক ঘটনার মুখোমুখি হতে হয়েছে অঙ্কুশ-ঐন্দ্রিলাকে। ছবিটি ২৩ জানুয়ারি অর্থাৎ সরস্বতী পুজোর সময় মুক্তি পাওয়ার কথা থাকলেও তা এগিয়ে আনা হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/ankush-hazra-slams-fake-box-office-trends-cutout-broken_634093.html ",
-    "time": "2026-01-10T10:12:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "পাহাড়ের টানে নতুন বছরের শুরুতেই দার্জিলিংয়ে একতা কাপুর, উর্বশী ঢোলাকিয়া! চুটিয়ে করলেন উপভোগ, ঘুরে দেখলেন উত্তরবঙ্গের এইসব জায়গা",
-    "desc": "নতুন বছরের শুরুতেই পাহাড়ের কোলে ছুটি কাটিয়ে ২০২৬-কে স্বাগত জানালেন টেলিভিশনের জনপ্রিয় অভিনেত্রী উর্বশী ঢোলাকিয়া। ‘কোমোলিকা’ খ্যাত এই অভিনেত্রী প্রযোজক একতা কাপুর ও অভিনেত্রী চারু মেহরার সঙ্গে দার্জিলিং সফরে যান, যেখানে প্রকৃতির মাঝেই কাটান বছরের প্রথম কয়েকটি দিন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ekta-kapoor-darjeeling-tour-2026-01-f628b511b3a5ddb4d432e645ccb1b0e4-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/darjeeling-news-ekta-kapoor-urvashi-dholakia-celebrates-new-year-in-darjeeling-through-short-trip-l18-local18-2490557.html",
-    "time": "2026-01-10T09:38:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "বন্ধ হচ্ছে UTS! আসছে RailwayOne App! ওয়ালেটের টাকা আদৌ পাবেন উপভোক্তারা? নয়া অ্যাপে টিকিট কাটলে মিলবে ছাড়",
-    "desc": "রেলওয়ান অ্যাপে আর-ওয়ালেট (R-Wallet) ব্যবহার করে আনরিজার্ভড টিকিট বুকিং করলে যাত্রীরা ৩ শতাংশ বোনাস ক্যাশব্যাক পান। নতুন সিদ্ধান্ত অনুযায়ী, আর-ওয়ালেট ছাড়াও ইউপিআই, ডেবিট কার্ড, ক্রেডিট কার্ডসহ অন্যান্য সকল ডিজিটাল পেমেন্ট মাধ্যম ব্যবহার করে আনরিজার্ভড টিকিট বুকিং করলে সরাসরি ৩ শতাংশ ছাড় প্রদান করা হবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/HYP_5692093_cropped_09012026_105331_picsart_260109_105110617_w_1-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/technology/uts-will-stop-working-soon-south-eastern-railways-new-year-gift-3-percent-special-discount-on-unreserved-tickets-on-railone-app-l18-sdg-local18-2489381.html",
-    "time": "2026-01-10T03:23:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘বেঁচে গিয়ে যেন বড় ভুল করে ফেলেছি ! আমি সম্পর্ক ভাঙায় বিশ্বাসী নই...’, প্রথমবার মুখ খুললেন দেবলীনা নন্দী",
-    "desc": "দেবলীনা প্রথমেই স্পষ্ট করে দেন যে, অনেকেই তাঁকে প্রশ্ন করেছেন যে, সম্পর্কে অশান্তি থাকলে, কেন তিনি তা ছেড়ে বেরিয়ে আসেননি? দেবলীনার কথায়, ‘‘আমাদের প্রেম করে বিয়ে। প্রবাহর পক্ষ থেকে কী ছিল জানি না, আমার তরফ থেকে তো ভালবাসা ছিল। পাগলের মতো ভালবেসেছি প্রবাহকে। ছেড়ে বেরিয়ে আসা এতটা সহজ নয়।’’",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Debolinaa-Nandy-Facebook-Live-2026-01-e9e2dbe56ff235ded7aba1d8e816ba92-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/debolinaa-nandy-comes-in-a-facebook-live-again-sharing-all-her-difficulties-and-family-her-reply-to-all-ss-2490391.html",
-    "time": "2026-01-10T01:51:23.000Z"
   }
 ];
