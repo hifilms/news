@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Business",
+    "title": "কর্পোরেট চাকরি ছেড়ে ব্যবসা, দম্পতির আয় এখন মাস গেলে কত জানেন? দেখুন বিরাট সাফল্যের সাতকাহন!",
+    "desc": "কর্পোরেট চাকরি ছেড়ে ব্যবসা, জমান এই দম্পতি! ২৫-৩০ হাজার টাকায় শুরু, মাস যেতেই বিরাট লক্ষ্মীলাভ দম্পতির! পথ দেখাচ্ছেন অন্যদের। আরও বেশি সাফল্য পেতে কী করতে চলেছেন তাঁরা? অন্যদেরই বা কী পরামর্শ দিচ্ছেন? কী ভাবে ব্যবসার বুদ্ধি? কী ভাবে কর্পোরেটের স্থায়ী চাকরিকে টাটা বলে চ্যালেঞ্জের মুখে এগোনো? সব বলে দিলেন এই ভিডিওতে। শুনে নিন দম্পতির ব্যবসার সাফল্যের চূড়োয় যাওয়ার গল্প।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/obGnZ_DMgVk_2502936.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/business/business-ideas-they-left-corporate-job-and-tried-their-luck-in-business-and-know-how-much-money-they-are-earning-in-a-month-l18-sanj-2502936.html",
+    "time": "2026-01-18T15:21:16.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "সোনা ফলবে গাছে...! বাড়িতে লাগান এই একটিমাত্র গাছ, ম্যাজিকে করুন লক্ষাধিক টাকা আয়! জানুন বিস্তারিত",
     "desc": "সোনার থেকেও বেশি দামি। বিশ্বের অন্যতম দামি আম মিয়াজাকি এবার চাইলে আপনি বাড়িতে লাগিয়ে ফেলতে পারেন। জাপান থেকে আসছে চারা। এবার জাপানি আমের চাষ শুরু হতে চলেছে মুর্শিদাবাদে! গরমের মরশুম আসার আগেই শুরু করে দিন কাজের কাজ। বাড়িতে লাগান এই একটিমাত্র গাছ, ব্যাস আর টাকার কথা ভাবতে হবে না। ম্যাজিকে করুন লক্ষাধিক টাকা আয়! জানুন বিস্তারিত",
     "img": "https://images.news18.com/static-bengali/uploads/2026/01/iAWdcpDt2CM_2502925.jpg",
@@ -664,15 +673,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/ed-needs-cbi-investigation-on-ipac-raids-issue-as-there-is-massive-massacre-in-raids_635178.html ",
     "time": "2026-01-15T07:46:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "সুপ্রিম কোর্টে ইডির বেনজির অভিযোগ! মুখ্যমন্ত্রী আমাদের অফিসারের ফোনও তুলে নিয়ে গিয়েছেন...",
-    "desc": "ইডির পক্ষে সলিসিটর জেনারেল (SG) আই-প্যাক (ED raids in I-PAC) তল্লাশির সময় এক শকিং প্যাটার্নে মুখ্যমন্ত্রীর হস্তক্ষেপের অভিযোগ করেছেন। তিনি অভিযোগ করেছেন যে, যখন সংবিধিবদ্ধ সংস্থাগুলো তাদের দায়িত্ব পালন করছিল, তখন মুখ্যমন্ত্রী মমতা বন্দ্যোপাধ্যায় (Mamata Banerjee) ইউনিফর্ম পরা পুলিস অফিসারদের নিয়ে সেখানে ঢুকে পড়েন এবং অভিযানে বাধা সৃষ্টি করেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/in-supreme-court-ed-has-stated-thay-cm-mamata-banerjee-has-snached-the-mobile-of-ed-officer-during-ipac-raids_635168.html ",
-    "time": "2026-01-15T07:18:58.000Z"
   },
   {
     "cat": "Politics",

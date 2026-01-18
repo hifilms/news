@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How many centuries Virat Kohli need to break Sachin Tendulkar's world record of international tons?",
+    "desc": "Indian icon Virat Kohli continued his Midas touch in ODI cricket as he slammed a stellar hundred in the third match of the series against New Zealand on Sunday, January 18. Kohli hit 124 in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-many-centuries-virat-kohli-need-to-break-sachin-tendulkars-world-record-of-international-tons-2026-01-18-1026420",
+    "time": "2026-01-18T16:44:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli's stellar ton goes in vain as New Zealand register first-ever ODI series win in India",
+    "desc": "Virat Kohli's brilliant hundred in the third ODI at the Holkar Cricket Stadium went in vain as New Zealand defeated the Men in Blue in the series decider by 41 runs. With this victory, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-s-stellar-ton-goes-in-vain-as-new-zealand-register-first-ever-odi-series-win-in-india-2026-01-18-1026417",
+    "time": "2026-01-18T16:03:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli creates history against New Zealand as he slams 85th international hundred in series decider",
+    "desc": "India icon Virat Kohli added another feather to his illustrious cap as he created history with his century in the third ODI against New Zealand. Kohli slammed his 85th international hundred and his 54th in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-creates-history-against-new-zealand-as-he-slams-85th-international-hundred-in-series-decider-2026-01-18-1026413",
+    "time": "2026-01-18T15:24:36.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is Michael Bracewell not on field during run chase in IND vs NZ 3rd ODI?",
     "desc": "New Zealand were handed a blow in the second innings of the third ODI against India as captain Michael Bracewell went off the field in the chase. Bracewell played a bit of a cameo as...",
     "img": "",
@@ -46,7 +73,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "India in huge trouble as six wickets fall in chase, Kohli holds key",
+    "title": "New Zealand beat India by 41 runs to clinch series",
     "desc": "India aim to clinch the ODI series against New Zealand as they look to chase down 338 in the series decider at the Holkar Stadium in Indore. The Men in Blue banked on the likes...",
     "img": "",
     "src": "indiatvnews.com",
@@ -55,38 +82,11 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "VID vs SAU, Vijay Hazare Trophy Final Match Score Live: Vidarbha takes on Saurashtra in title clash",
+    "title": "VID vs SAU, Vijay Hazare Trophy Final Match Score Highlights: Vidarbha beat Saurashtra in final by 38 runs",
     "desc": "Vidarbha and Saurashtra take on each other in the final of the ongoing Vijay Hazare Trophy. The two sides face off at the Centre of Excellence Ground 1 in Bengaluru, and with some stellar performances...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/vid-vs-sau-vijay-hazare-trophy-final-match-score-live-vidarbha-takes-on-saurashtra-in-title-clash-2026-01-18-1026376",
     "time": "2026-01-18T07:06:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Cry every day': Harshit Rana makes honest confession about early days in his career ahead of third NZ ODI",
-    "desc": "Team India is all set to take on New Zealand in the third ODI of the ongoing multi-format series. The two sides will lock horns at the Holkar Stadium in Indore on January 18. With...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cry-every-day-harshit-rana-makes-honest-confession-about-early-days-in-his-career-ahead-of-third-nz-odi-2026-01-18-1026371",
-    "time": "2026-01-18T06:46:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Consistency is the key': Michael Carrick backs Manchester United to maintain new standards",
-    "desc": "Manchester United stunned the world after they registered a stellar victory against arch-rivals Manchester City. The two sides locked horns in the derby at Old Trafford in Manchester on January 17. It is worth noting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/michael-carrick-backs-manchester-united-to-maintain-new-standards-2026-01-18-1026358",
-    "time": "2026-01-18T05:20:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Robin Uthappa questions Ayush Badoni's inclusion in India's squad ahead of third NZ ODI",
-    "desc": "The stage is set for the third and final ODI of the ongoing series between India and New Zealand. The two sides will lock horns at the Holkar Stadium in Indore on January 18, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/robin-uthappa-questions-ayush-badoni-s-inclusion-in-india-s-squad-ahead-of-third-nz-odi-2026-01-18-1026352",
-    "time": "2026-01-18T04:37:02.000Z"
   }
 ];
