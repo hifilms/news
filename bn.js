@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Tech",
+    "title": "আমেরিকা-জাপানকে পিছনে ফেলে দিল ভারত! পুরনো ইন্টারনেট ভুলে যান, 5G নিয়ে তৈরি হল বিশ্বের সবচেয়ে বড় রেকর্ড",
+    "desc": "এরিকসনের মোবিলিটি রিপোর্ট অনুসারে, ২০৩১ সালের মধ্যে ভারতে ১ বিলিয়ন 5G ব্যবহারকারী হতে পারে, যা দেশের জনসংখ্যার প্রায় ৮০%। বর্তমানে, ভারতে প্রতি স্মার্টফোনে গড় মাসিক ডেটা ব্যবহার ৩৬ জিবি, যা আগামী পাঁচ বছরে ৬৫ জিবিতে উন্নীত হতে পারে। স্পষ্টতই, ভারতে 5G গল্পটি সবে শুরু।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-87-2026-01-1cc876c8b43f0a0003681fdefd5005e2-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/technology/digital-india-5g-network-dominance-400-million-people-are-using-in-just-3-years-us-and-japan-far-behind-of-india-sta-2502260.html",
+    "time": "2026-01-18T05:38:31.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ডিসেম্বরে বিমান বিপর্যয়ের জেরে ২২ কোটি টাকা জরিমানা হল ইন্ডিগোর, সতর্ক করল DGCA",
     "desc": "শনিবার IndiGo-র বিরুদ্ধে পদক্ষেপ করেছে ডাইরেক্টরেট অফ সিভিল এভিয়েশন (DGCA)। ডিসেম্বর ২০২৫-এ দেশজুড়ে বড় আকারে বিমান বিপর্যয়ের ঘটনায় এবার শাস্তির পথে হাঁটল ডিজিসিএ। যেখানে দেশের বিভিন্ন জায়গায় অনেক ফ্লাইট বাতিল বা ডাইভার্ট করা হয়েছিল, আর হাজার হাজার যাত্রী বিমানবন্দরে আটকে পড়েছিলেন।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/mahhi-vij-breaks-silence-on-divorce-with-jay-bhanushali-slams-5-crore-alimony-rumours-rds-2489140.html",
     "time": "2026-01-09T05:28:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "কাঁদতে কাঁদতে ছবির গান লিখেছিলেন গীতিকার, সেই গানই হল সুপারডুপার হিট! আজও লোকের মুখে মুখে ফেরে",
-    "desc": "অনেক বলিউড তারকা কেবল অভিনয়কেই প্রাধান্য দিতেন। তারা চরিত্রের প্রকৃতির দিকে খুব কম মনোযোগ দিতেন। এটি একজন ভালো অভিনেতার বৈশিষ্ট্য। একটি ভূমিকা ইতিবাচক বা নেতিবাচক হতে পারে, কিন্তু অভিনয় তা নয়। অভিনয় কেবল অভিনয়। বলিউডে অ্যাকশন হিরো হিসেবে পরিচিত সানি দেওলও এমন একজন অভিনেতা।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1767894828_sunny-deol-blockbuster-movies-2026-01-97df3da261f65f00813267d3664b197e-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/sunny-deol-raiseds-pakistan-zindabad-slogans-two-times-gadar-ek-prem-katha-kaafila-movie-one-turn-all-time-blockbuster-transpg-pbd-2488926.html",
-    "time": "2026-01-08T18:09:05.000Z"
   }
 ];

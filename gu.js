@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "માત્ર એક ક્લિકમાં તમારું આધાર બનશે &amp;#039;હેક-પ્રૂફ&amp;#039;! જાણો શું છે UIDAIનું લોક-અનલોક ફીચર",
+    "desc": "આજના સમયમાં આધાર કાર્ડ આપણી ઓળખનો સૌથી મોટો દસ્તાવેજ બની ગયો છે. બેંક ખાતું ખોલાવવું હોય, કોઈ સરકારી યોજનાનો લાભ લેવો હોય કે મોબાઈલનું સિમ કાર્ડ લેવું હોય, આ તમામ જગ્યાએ આધારની જરૂર પડે છે. આવા સંજોગોમાં જો આધાર કાર્ડ ખોટા હાથમાં જાય તો મોટું નુકસાન થઈ શકે છે. આ જોખમને ધ્યાનમાં રાખીને, UIDAI આધાર વપરાશકર્તાઓને 'આધાર લોક/અનલોક'ની ખાસ સુવિધા આપી રહ્યું છે. આ ફીચરની મદદથી હવે લોકો પોતે નક્કી કરી શકે છે કે તેમના આધારનો ઉપયોગ ક્યારે અને કેવી રીતે કરવો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/your-aadhaar-will-be-hack-proof-with-just-one-click-learn-about-uidais-lock-unlock-feature-462060 ",
+    "time": "2026-01-18T06:03:28.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "નોકરી છોડો, X પર લખાવાના મળશે કરોડો રૂપિયા ! મસ્કનો મોટો ધમાકો, ફક્ત માનવી પડશે આ શરત",
+    "desc": "સોશિયલ મીડિયા પ્લેટફોર્મ X પર તમારા માટે એક શાનદાર તક છે. એલોન મસ્કની કંપનીએ એક એવી જાહેરાત કરી છે, જેણે કન્ટેન્ટ ક્રિએટર્સ અને લેખકોની દુનિયામાં હલચલ મચાવી દીધી છે. હવે, ફક્ત પોસ્ટ કરીને જ નહીં, પરંતુ પાવરફુલ આર્ટિકલ લખીને પણ કરોડો કમાઈ શકો છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/write-article-on-x-and-become-a-millionaire-elon-musk-462059 ",
+    "time": "2026-01-18T06:00:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ઇન્દોરમાં વરસાદ બગાડશે મેચની મજા ? હવામાન વિભાગે જાહેર કર્યું લેટેસ્ટ અપડેટ",
+    "desc": "ભારત અને ન્યુઝીલેન્ડ વચ્ચે ત્રણ મેચની વનડે શ્રેણીની છેલ્લી મેચ રમાશે. ઇન્દોરમાં કરો યા મરોનો મુકાબલો રમાશે. ત્રણ મેચની વનડે શ્રેણી હાલમાં 1-1થી બરાબર છે. જો ભારત આ વનડે શ્રેણી જીતવા માંગે છે, તો તેણે ઇન્દોરના મેદાન પર કોઈપણ કિંમતે જીતવું પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-vs-new-zealand-3rd-odi-indore-weather-updates-rain-prediction-462056 ",
+    "time": "2026-01-18T05:11:10.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "‘ભારત સાથે સંબંધ તૂટશે તો US માટે મુસીબત થશે’, ટ્રમ્પના સાંસદે કેમ આપ્યું આવું નિવેદન? પાકનો પણ ઉલ્લેખ",
+    "desc": "ભારત અને અમેરિકાના સંબંધો પર અત્યારે આખી દુનિયાની નજર ટકેલી છે. માત્ર ભારતીયો જ નહીં, પરંતુ અમેરિકાના લોકો પણ બંને દેશોને એકબીજા માટે જરૂરી માને છે. આ સંદર્ભમાં અમેરિકી રાષ્ટ્રપતિ ટ્રમ્પની પાર્ટીના નેતા અને કોંગ્રેસના સાંસદે એક મહત્વનું નિવેદન આપ્યું છે, જેમાં તેમણે પાકિસ્તાનનો પણ ઉલ્લેખ કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/if-ties-with-india-are-broken-it-will-be-trouble-for-the-us-why-did-trumps-congressman-make-such-a-statement-462055 ",
+    "time": "2026-01-18T05:05:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કોણ બનશે મુંબઈના મેયર, માયાનગરી પર કોણ રાજ કરશે : મુંબઈમાં સત્તા માટે ખેંચતાણ શરૂ",
+    "desc": "મુંબઈ બીએમસીમાં પહેલીવાર ભાજપનો મેયર બનવા જઈ રહ્યો છે, જે ભગવા દળ માટે સૌથી મોટી ઉપલબ્ધિ માનવામાં આવી રહી છે. ઠાકરે પરિવાર પાસેથી રાજ લઈને હવે ભાજપ મુંબઈ પર રાજ કરશે, પરંતું મેયર માટે પેચ અટક્યો છે",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/who-will-be-mumbai-new-mayor-political-war-started-between-eknath-shinde-and-bjp-462053 ",
+    "time": "2026-01-18T04:30:10.000Z"
+  },
+  {
     "cat": "World",
     "title": "નવા ખતરાએ દુનિયાને ચોંકાવ્યા, માર્ચ-એપ્રિલમાં મોટી આફતની શક્યતા",
     "desc": "બલ્ગેરિયાના અંધ ભવિષ્યવક્તા બાબા વેંગાની વર્ષ 2026 માટેની ભવિષ્યવાણીઓએ દુનિયાભરમાં ફાળ પાડી છે. અગાઉ મોટા દેશો વચ્ચે યુદ્ધની સ્થિતિ સર્જાવાની આગાહીઓ ગયા વર્ષે ડિસેમ્બરમાં જ સામે આવી હતી. આ સાથે જ સોનાના વધતા ભાવને લઈને બાબા વેંગાએ જે કહ્યું હતું, તે પણ અત્યારે સાચું પડતું જણાય છે.",
@@ -234,15 +279,6 @@ const newsData_gu = [
     "time": "2026-01-16T07:39:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ધડાધડ ઘટ્યા સોનાના ભાવ, ઘટીને કેટલે પહોંચ્યું સોનું? ખાસ જાણો આજનો સોના-ચાંદીનો ભાવ",
-    "desc": "સોના અને ચાંદીના ભાવમાં ભારે ઉતાર ચડાવ જોવા મળી રહ્યા છે. શુક્રવારે માર્કેટ ખુલ્યા બાદ ઘરેલુ વાયદા બજારમાં અને તે પહેલા વૈશ્વિક બજારોમાં પણ સોના અને ચાંદીમાં ઘટાડો જોવા મળ્યો હતો. રિટેલ બજારમાં પણ સોનું ચાંદી ગગડ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/gold-rate-today-gold-prices-fell-check-silver-price-aaj-no-sona-chandi-no-bhav-461836 ",
-    "time": "2026-01-16T07:22:28.000Z"
-  },
-  {
     "cat": "World",
     "title": "કોણ છે નિશા વર્મા? અમેરિકી સંસદમાં જેણે વારંવાર પુછ્યા પુરુષોની પ્રેગ્નન્સી સાથે જોડાયેલા સવાલ",
     "desc": "અમેરિકામાં રહેતા ભારતીય મૂળના ડૉક્ટર નિશા વર્મા અત્યારે ભારે ચર્ચામાં છે. અમેરિકી સંસદમાં સુનાવણી દરમિયાન તેમને વારંવાર એક જ સવાલ પૂછવામાં આવ્યો કે \"શું પુરુષો ગર્ભવતી થઈ શકે છે?\" આ સવાલ બાદ રિપબ્લિકન સેનેટર જોશ હોલી અને નિશા વર્મા વચ્ચે ઉગ્ર દલીલો થઈ હતી.",
@@ -250,15 +286,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/who-is-nisha-verma-the-woman-who-was-repeatedly-asked-questions-about-male-pregnancy-in-the-us-congress-461838 ",
     "time": "2026-01-16T07:21:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ઠાકરે બંધુઓને પાડી દેવા ગુજરાતીઓએ BMC ચૂંટણીઓમાં કર્યો &amp;#039;જબરો&amp;#039; ખેલ!",
-    "desc": "મકર સંક્રાંતિ એટલે કે ઉત્તરાયણનો તહેવાર ગુજરાતી પરિવારો સામાન્ય રીતે પોતાના વતનમાં જઈને મનાવતા હોય છે. આ એક વર્ષો જૂની પરંપરા છે. તમે કેન્દ્રીય ગૃહમંત્રી અમિત શાહને પણ આ દિવસે ગુજરાતમાં પતંગ ઉડાવતા જોયા હશે. પરંતુ આ વખતે મુંબઈમાં ઉત્તરાયણના બીજા જ દિવસે BMCની ચૂંટણી હોવાથી ગુજરાતીઓએ મોટી 'ગેમ' કરી દીધી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/bmc-chunav-2026-gujarati-voters-result-how-gujarati-people-living-mumbai-big-factor-for-bjp-461835 ",
-    "time": "2026-01-16T07:01:29.000Z"
   },
   {
     "cat": "Sports",
@@ -396,24 +423,6 @@ const newsData_gu = [
     "time": "2026-01-15T04:33:27.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "વનડેમાં કોહલી કેમ રોહિત શર્માથી હંમેશા એક ડગલું આગળ છે? ટીમ ઈન્ડિયાના દિગ્ગજ ક્રિકેટરે જણાવ્યું કારણ",
-    "desc": "એ વાતમાં કોઈ શંકા નથી કે વિરાટ કોહલી અને રોહિત શર્મા આ જમાનાના શ્રેષ્ઠ વનડે ખેલાડીઓ છે, પરંતુ બંને વચ્ચે અમુક એવા તફાવત છે જે આંકડાઓમાં સ્પષ્ટ દેખાય છે. ટીમ ઈન્ડિયાના દિગ્ગજ ક્રિકેટર મોહમ્મદ કૈફે આ બંને વચ્ચેના તફાવતને સમજાવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/why-is-virat-kohli-always-one-step-ahead-of-rohit-sharma-in-odis-the-legendary-cricketer-of-team-india-told-the-reason-461716 ",
-    "time": "2026-01-15T04:16:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "આજે બેંકો ખુલ્લી છે કે બંધ? RBI એ અનેક શહેરોમાં જાહેર કરી રજા",
-    "desc": "આજે 15 જાન્યુઆરીએ અનેક શહેરોમાં બેંકો બંધ રહેશે. તેથી, જો તમે આજે બેંક જવાનું વિચારી રહ્યા હોવ, તો પહેલા બેંક રજાઓ વિશે ચોક્કસ જાણી લો. ચાલો જાણીએ કે 15 જાન્યુઆરીએ કઈ જગ્યાએ અને શા માટે બેંકો બંધ રહેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/is-the-bank-open-today-are-banks-open-or-closed-today-the-rbi-has-declared-a-holiday-in-several-cities-461706 ",
-    "time": "2026-01-15T03:06:53.000Z"
-  },
-  {
     "cat": "World",
     "title": "અમેરિકાએ 75 દેશો માટે વિઝા પ્રોસેસિંગ પર લગાવી રોક, લિસ્ટમાં બ્રાઝિલ-થાઈલેન્ડ જેવા દેશો પણ સામેલ",
     "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે 75 દેશોના લોકોના અમેરિકા આવવા પર સંપૂર્ણ રીતે પ્રતિબંધ લગાવી દીધો છે. મળતી માહિતી મુજબ, સ્ટેટ ડિપાર્ટમેન્ટ 75 દેશો માટે તમામ વિઝા પ્રોસેસિંગ રોકી રહ્યું છે, જેથી એવા વિદેશી નાગરિકોને દેશમાં આવતા રોકી શકાય જેઓ વેલ્ફેર (કલ્યાણકારી યોજનાઓ) અને પબ્લિક બેનિફિટ્સનો લાભ ઉઠાવશે.",
@@ -421,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/the-us-has-suspended-visa-processing-for-75-countries-including-brazil-and-thailand-461684 ",
     "time": "2026-01-14T16:01:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘ઘરેલું ઉડાન માત્ર 1350 રૂપિયાથી શરૂ’, જાણો એર ઇન્ડિયા એક્સપ્રેસની બમ્પર ડિસ્કાઉન્ટ ઓફર",
-    "desc": "એર ઇન્ડિયા એક્સપ્રેસે તેના સ્થાનિક અને આંતરરાષ્ટ્રીય નેટવર્ક પર ભાડા પર નોંધપાત્ર ડિસ્કાઉન્ટ સાથે મર્યાદિત સમયગાળા માટે \"ટાઇમ ટુ ટ્રાવેલ\" સેલ શરૂ કર્યો છે. આ ઓફર હેઠળ, સ્થાનિક રૂટ પર ટિકિટ 1,350 થી શરૂ થાય છે, જ્યારે આંતરરાષ્ટ્રીય રૂટ પર ભાડું 5,450 થી નક્કી કરવામાં આવ્યું છે, જે મુસાફરોને નોંધપાત્ર રાહત આપે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/domestic-flights-starting-from-just-rs-1350-air-india-express-announces-a-bumper-discount-offer-461683 ",
-    "time": "2026-01-14T15:45:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -522,24 +522,6 @@ const newsData_gu = [
     "time": "2026-01-12T08:55:43.000Z"
   },
   {
-    "cat": "World",
-    "title": "ડોનાલ્ડ ટ્રમ્પનો વિચિત્ર દાવો, આ દેશના &amp;#039;કાર્યવાહક રાષ્ટ્રપતિ&amp;#039; બની બેઠા, Photo શેર કર્યો",
-    "desc": "ડોનાલ્ડ ટ્રમ્પ જ્યારથી અમેરિકાના બીજીવાર રાષ્ટ્રપતિ બન્યા છે ત્યારથી એવા એવા નિર્ણયો લઈ રહ્યા છે કે દુનિયા અચંબિત થઈ જાય છે. હવે વળી પાછો તેમણે એક એવી પોસ્ટ શેર કરી છે કે લોકો દંગ રહી ગયા. અચાનક એક દેશના રાષ્ટ્રપતિ બની બેઠા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/donald-trump-bizarre-claim-listed-himself-as-venezuela-acting-president-world-news-in-gujarati-461386 ",
-    "time": "2026-01-12T04:43:11.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઓઈલ માટે માદુરોને ઘૂંટણિયે લાવ્યા છતાં અમેરિકાને રત્તીભર ફાયદો નહીં? ટ્રમ્પના પ્લાન પર પાણી ફરી વળ્યું!",
-    "desc": "દુનિયામાં સૌથી મોટો ઓઈલ ભંડાર ધરાવતું વેનેઝુએલા હાલ ખુબ ચર્ચામાં છે. માદુરોને પકડ્યા બાદ ટ્રમ્પને એવું લાગ્યું કે લોટરી લાગી ગઈ પરંતુ ટ્રમ્પને અમેરિકાની જ એક ઓઈલ કંપનીએ એવડો મોટો આંચકો આપ્યો કે વાત ન પૂછો. જાણો શું છે મામલો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/exxonmobil-ceo-called-uninvestable-trump-says-he-might-kep-exxon-out-of-venezuela-461371 ",
-    "time": "2026-01-12T03:13:18.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "સલમાન ખાનથી લઈ રશ્મિકા સુધી આ સ્ટાર્સેની લગ્ન પહેલા તુટી ચુકી છે સગાઈ",
     "desc": "બોલીવુડના ઈતિહાસમાં એવી ઘણી હાઈ પ્રોફાઈલ જોડી છે જેમણે પ્રેમમાં પડીને સગાઈ કરી હોય પરંતુ પછી લગ્ન પહેલા જ તેમણે સગાઈ તોડી હોય. આ લિસ્ટમાં સલમાન ખાનથી લઈ નેશનલ ક્રશ રશ્મિકા મંદાનાનું નામ પણ સામેલ છે.",
@@ -619,15 +601,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/meera-plan-on-video-of-arya-and-anu-private-moments-a-big-twist-is-coming-in-tumm-se-tumm-tak-serial-461124 ",
     "time": "2026-01-10T11:19:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "95 KM રેન્જ, 7 વર્ષની વોરંટી... લોન્ચ થયું Suzukiનું પ્રથમ ઈલેક્ટ્રિક સ્કૂટર, જાણો કેટલી છે કિંમત",
-    "desc": "Suzukiએ ભારતમાં તેનું પહેલું ઈલેક્ટ્રિક સ્કૂટર e-Access લોન્ચ કર્યું છે, જે 95 કિમીની રેન્જ ધરાવે છે અને તેની ટોપ સ્પીડ 71 kmph છે. આ સ્કૂટર 7 વર્ષની વોરંટી સાથે આવે છે. ત્યારે આ લેખમાં આ સ્કૂટર્સના ફીચર્સ અને તેની કિંમત વિશે જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/suzuki-first-electric-scooter-e-access-launched-know-price-and-features-461106 ",
-    "time": "2026-01-10T08:27:13.000Z"
   },
   {
     "cat": "Entertainment",

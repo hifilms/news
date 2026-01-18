@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Consistency is the key': Michael Carrick backs Manchester United to maintain new standards",
+    "desc": "Manchester United stunned the world after they registered a stellar victory against arch-rivals Manchester City. The two sides locked horns in the derby at Old Trafford in Manchester on January 17. It is worth noting...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/michael-carrick-backs-manchester-united-to-maintain-new-standards-2026-01-18-1026358",
+    "time": "2026-01-18T05:20:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Robin Uthappa questions Ayush Badoni's inclusion in India's squad ahead of third NZ ODI",
+    "desc": "The stage is set for the third and final ODI of the ongoing series between India and New Zealand. The two sides will lock horns at the Holkar Stadium in Indore on January 18, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/robin-uthappa-questions-ayush-badoni-s-inclusion-in-india-s-squad-ahead-of-third-nz-odi-2026-01-18-1026352",
+    "time": "2026-01-18T04:37:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Smriti Mandhana joins elite list with stellar knock against Delhi Capitals women in WPL 2026",
     "desc": "Game 11 of the ongoing WPL (Women’s Premier League) 2026 saw Royal Challengers Bengaluru women taking on Delhi Capitals women. The clash saw RCB registering a brilliant victory, and it was all thanks to the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/chinnaswamy-cleared-to-host-ipl-matches-after-all-terms-and-conditions-met-for-2026-season-2026-01-17-1026309",
     "time": "2026-01-17T13:49:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Meg Lanning sets new WPL record, UP Warriorz beat defending champions Mumbai Indians",
-    "desc": "UP Warriorz skipper Meg Lanning etched her name into the WPL record books during the marquee clash against Mumbai Indians at the DY Patil Sports Academy in Navi Mumbai. Coming into the game, Lanning was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/meg-lanning-sets-new-wpl-record-up-warriorz-beat-defending-champions-mumbai-indians-2026-01-17-1026308",
-    "time": "2026-01-17T13:34:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Italy announce squad for maiden T20 World Cup 2026, former South Africa international picked",
-    "desc": "Italy have announced their 15-member squad for the upcoming T20 World Cup 2026, starting February 7. The Azzuris will open their maiden campaign with a match against Bangladesh on February 9, at the iconic Eden...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/italy-announce-squad-for-maiden-t20-world-cup-2026-former-south-africa-international-picked-2026-01-17-1026301",
-    "time": "2026-01-17T12:17:21.000Z"
   }
 ];
