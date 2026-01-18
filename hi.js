@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Smriti Mandhana joins elite list with stellar knock against Delhi Capitals women in WPL 2026",
+    "desc": "Game 11 of the ongoing WPL (Women’s Premier League) 2026 saw Royal Challengers Bengaluru women taking on Delhi Capitals women. The clash saw RCB registering a brilliant victory, and it was all thanks to the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-joins-elite-list-with-stellar-knock-against-delhi-capitals-women-in-wpl-2026-2026-01-18-1026342",
+    "time": "2026-01-18T02:44:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Holkar Stadium in Indore play?",
+    "desc": "The stage is set for the third and final ODI of the ongoing multi-format series between India and New Zealand. The two sides will lock horns at the Holkar Stadium in Indore on January 18....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-3rd-odi-pitch-report-how-will-surface-at-holkar-stadium-in-indore-play-2026-01-18-1026338",
+    "time": "2026-01-18T01:50:51.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Smriti Mandhana's masterclass helps Bengaluru beat Delhi, yet WPL curse lingers",
     "desc": "The Women’s Premier League continues to tease batters with near-misses, as the wait for a maiden century in the competition goes on. There have now been 10 instances of a player reaching 90 or more...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/italy-announce-squad-for-maiden-t20-world-cup-2026-former-south-africa-international-picked-2026-01-17-1026301",
     "time": "2026-01-17T12:17:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Suryavanshi sets new world record with dominant show in U19 World Cup 2026",
-    "desc": "A landmark performance by India’s teenage prodigy Vaibhav Suryavanshi became the defining moment of the Under-19 World Cup 2026 clash against Bangladesh in Bulawayo on Saturday. At just 14 years and 296 days, the youngster...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-suryavanshi-sets-new-world-record-with-dominant-show-in-u19-world-cup-2026-2026-01-17-1026295",
-    "time": "2026-01-17T11:26:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why UP Warriorz wearing special pink and yellow jersey in clash vs Mumbai Indians in WPL 2026?",
-    "desc": "In the WPL match against Mumbai Indians, UP Warriorz align their on-field presence with a broader message around access to education for girls. During their match, the franchise was highlighting the concept of free, flexible,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-up-warriorz-wearing-special-pink-and-yellow-jersey-in-clash-vs-mumbai-indians-in-wpl-2026-2026-01-17-1026291",
-    "time": "2026-01-17T10:51:00.000Z"
   }
 ];

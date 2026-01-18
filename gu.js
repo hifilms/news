@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "નવા ખતરાએ દુનિયાને ચોંકાવ્યા, માર્ચ-એપ્રિલમાં મોટી આફતની શક્યતા",
+    "desc": "બલ્ગેરિયાના અંધ ભવિષ્યવક્તા બાબા વેંગાની વર્ષ 2026 માટેની ભવિષ્યવાણીઓએ દુનિયાભરમાં ફાળ પાડી છે. અગાઉ મોટા દેશો વચ્ચે યુદ્ધની સ્થિતિ સર્જાવાની આગાહીઓ ગયા વર્ષે ડિસેમ્બરમાં જ સામે આવી હતી. આ સાથે જ સોનાના વધતા ભાવને લઈને બાબા વેંગાએ જે કહ્યું હતું, તે પણ અત્યારે સાચું પડતું જણાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/baba-vanga-prediction-a-new-threat-in-baba-vangas-predictions-has-caused-shock-possible-in-march-april-462051 ",
+    "time": "2026-01-18T03:45:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ભારત અને બાંગ્લાદેશની મેચ બાદ શું છે પોઈન્ટ્સ ટેબલની સ્થિતિ? ગ્રુપ-Cમાં પાકિસ્તાનની સ્થિતિ ખરાબ",
+    "desc": "અંડર-19 વર્લ્ડ કપ 2026ની પોતાની બીજી મેચમાં ભારતે બાંગ્લાદેશને હરાવીને ગ્રુપ-બીના પોઈન્ટ્સ ટેબલમાં ટોચનું સ્થાન જાળવી રાખ્યું છે. બીજી તરફ, શ્રીલંકાએ જાપાનને મોટા અંતરથી હરાવીને ગ્રુપ-એના ટેબલમાં ઓસ્ટ્રેલિયાને પણ પાછળ છોડી દીધું છે. જો પાકિસ્તાનની વાત કરીએ તો ગ્રુપ-સીમાં તેમની હાલત ઘણી ખરાબ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/u19-world-cup-2026-what-does-the-points-table-look-like-after-the-india-vs-bangladesh-match-pakistan-is-in-a-bad-position-in-group-c-462049 ",
+    "time": "2026-01-18T03:01:49.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "BMCમાં શિંદે જૂથ બન્યું &amp;#039;કિંગમેકર&amp;#039;, હોર્સ ટ્રેડિંગના ડરથી કોર્પોરેટરોને 5 સ્ટાર હોટલમાં ખસેડાયા",
     "desc": "બીએમસી ચૂંટણીમાં શિંદે જૂથને 29 બેઠકો મળી છે, જ્યારે ભાજપ પોતાના દમ પર બહુમતીના આંકડા સુધી પહોંચી શક્યું નથી. રાજકીય સમીકરણોમાં હવે શિંદે સેના જ નિર્ણાયક શક્તિ બની ગઈ છે અને સત્તાની ચાવી તેમના હાથમાં હોવાનું માનવામાં આવે છે.",
@@ -394,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/is-the-bank-open-today-are-banks-open-or-closed-today-the-rbi-has-declared-a-holiday-in-several-cities-461706 ",
     "time": "2026-01-15T03:06:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "રાજકોટનો જૂનો &amp;#039;શાપ&amp;#039; યથાવત.. વિરાટ-રોહિતનો જાદુ ફેલ, મિશેલ-યંગે બતાવ્યો જીતનો ખેલ",
-    "desc": "રાજકોટની ધરતી ટીમ ઈન્ડિયા માટે મોટો પડકાર બની રહી છે. છેલ્લા 6 વર્ષથી ભારતને આ મેદાન પર વન-ડેમાં જીત મળી નથી. ભારત અને ન્યુઝીલેન્ડ વચ્ચેની બીજી વનડેના પરિણામ બાદ પણ આ 'શાપ' યથાવત રહ્યો છે, કારણ કે કિવી ટીમે ભારતને આ મેદાન પર 7 વિકેટે કરારી હાર આપી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/6-year-old-curse-continue-in-rajkot-ind-vs-nz-2nd-odi-daryl-mitchell-winning-century-rahul-hundred-in-vain-461685 ",
-    "time": "2026-01-14T16:16:27.000Z"
   },
   {
     "cat": "World",

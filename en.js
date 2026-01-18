@@ -1,5 +1,113 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "Trump’s 10% tariffs: Macron hits back at ‘unacceptable’ threats; Swedish PM warns, EU ‘will not be blackmailed’",
+    "desc": "European leaders strongly condemned President Trump's proposed tariffs on goods from several European nations, warning of severe damage to transatlantic relations. They emphasized that Greenland's future is not subject to economic coercion and stressed that Arctic security cooperation should not become a trade dispute. European officials vowed a united response to uphold sovereignty.",
+    "img": "https://static.toiimg.com/photo/msid-126636825,imgsize-108876.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/trumps-10-tariffs-macron-hits-back-at-unacceptable-threats-swedish-pm-warns-eu-will-not-be-blackmailed/articleshow/126635704.cms",
+    "time": "2026-01-18T03:52:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Swift and Travis Kelce put a hold of wedding plans?",
+    "desc": "Taylor Swift and Travis Kelce's wedding plans are on hold as the NFL star grapples with a potential retirement decision. Sources indicate this is the couple's first major relationship test, with Swift prioritizing support for Kelce over wedding details. Both are reportedly exploring future ventures together, emphasizing unity.",
+    "img": "https://static.toiimg.com/photo/msid-126636584,imgsize-606758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/taylor-swift-and-travis-kelces-wedding-couple-faces-their-first-major-test-as-career-uncertainty-puts-plans-on-hold-report/articleshow/126636596.cms",
+    "time": "2026-01-18T03:26:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Real Madrid overcome Bernabeu boos to record Arbeloa's first win",
+    "desc": "Real Madrid fans jeered their team but celebrated a 2-0 win against Levante. Kylian Mbappe and Raul Asencio scored for Real Madrid. This victory marks coach Alvaro Arbeloa's first win. Villarreal lost 2-0 to Real Betis, impacting their title challenge. The team showed more energy in the second half. Real Madrid reduced the gap on leaders Barcelona.",
+    "img": "https://static.toiimg.com/photo/msid-126636463,imgsize-60004.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/real-madrid-overcome-bernabeu-boos-to-record-arbeloas-first-win-in-la-liga/articleshow/126636451.cms",
+    "time": "2026-01-18T03:12:36.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "JPMorgan confirms Trump’s assertion that bank CEO Dimon was not offered Fed chair job",
+    "desc": "“There was ​no job offer,\" Mr. Dimon said in a statement. In ⁠an email to Reuters, bank spokesperson Trish Wexler said she should have been \"more vigilant\" in correcting The Wall Street Journal story before ​it was published",
+    "img": "https://th-i.thgim.com/public/incoming/32zm3k/article70521160.ece/alternates/LANDSCAPE_1200/Jamie_Dimon_Under_Pressure.JPEG-096fc.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/jpmorgan-confirms-trumps-assertion-that-bank-ceo-dimon-was-not-offered-fed-chair-job/article70521154.ece",
+    "time": "2026-01-18T03:12:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Where was ‘Agatha Christie's Seven Dials’ filmed",
+    "desc": "Dive into the vivid world of Agatha Christie's 'Seven Dials,' where the charm of 1920s England meets thrilling intrigue. Filmed in the stunning landscapes of Bristol and Bath, with the majestic Westonbirt House at its heart, this three-episode limited series also takes a detour to the breathtaking Ronda in Spain.",
+    "img": "https://static.toiimg.com/photo/msid-126636358,imgsize-44204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/agatha-christies-seven-dials-where-was-the-series-filmed/articleshow/126636348.cms",
+    "time": "2026-01-18T03:00:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ben Affleck, Matt Damon back Teyana Taylor in 2026 crime hit",
+    "desc": "Ben Affleck and Matt Damon are heaping praise on Teyana Taylor, their co-star in the recently released crime thriller 'The Rip.' Industry insiders like Leonardo DiCaprio and Paul Thomas Anderson have also been impressed by Taylor's raw talent and professionalism. Damon specifically highlighted her as \"awesome\" and \"a really, really good person,\" noting her significant ambition and talent.",
+    "img": "https://static.toiimg.com/photo/msid-126635982,imgsize-22388.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/ben-affleck-and-matt-damon-bet-big-on-teyana-taylor-as-the-rip-emerges-as-the-most-talked-about-crime-thriller/articleshow/126635988.cms",
+    "time": "2026-01-18T02:53:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCB breaks silence on U-19 WC incident",
+    "desc": "A controversy arose during the U-19 World Cup match between India and Bangladesh as captains failed to exchange a customary handshake at the toss. The Bangladesh Cricket Board clarified the incident was unintentional, stemming from a lapse in concentration, and emphasized their commitment to sportsmanship amid existing cricketing tensions.",
+    "img": "https://static.toiimg.com/photo/msid-126636255,imgsize-55224.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/handshake-drama-explained-bcb-breaks-silence-on-india-vs-bangladesh-u-19-world-cup-incident/articleshow/126636248.cms",
+    "time": "2026-01-18T02:48:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Happy Patel: Khatarnak Jasoos' bo 2: Crosses Rs 2.75 crores",
+    "desc": "Khatarnak Jasoos' experienced a slow box office opening, earning approximately Rs 1.25 crore on its first day. The film saw a minor increase on its second day, reaching a total of Rs 2.75 crore, with low occupancy reported in Hindi markets.",
+    "img": "https://static.toiimg.com/photo/msid-126636214,imgsize-79660.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/happy-patel-khatarnak-jasoos-box-office-collections-day-2-vir-das-film-holds-decent-crosses-rs-2-75-crores/articleshow/126636220.cms",
+    "time": "2026-01-18T02:43:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In Haryana, the birth of a son",
+    "desc": "Haryana’s Dhani Bhojraj village witnessed exuberant festivities when a 37-year-old woman gave birth to a boy after 18 years and 10 daughters. Ashna Butani visits the village and finds out how the family’s ‘wish for a son’ is rooted in persistent social taunts and an enduring cultural longing for a male child even as the State’s sex ratio steadily improves",
+    "img": "https://th-i.thgim.com/public/incoming/meq2dy/article70516399.ece/alternates/LANDSCAPE_1200/A2_RVM_4971.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/haryana/in-haryana-the-birth-of-a-son/article70516403.ece",
+    "time": "2026-01-18T02:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'TTT' BO day 3: Jiiva’s film shows big jump",
+    "desc": "'Thalaivar Thambi Thalaimaiyil' is a box office hit, raking in ₹8.70 crore in its opening weekend. The film saw significant growth, especially on Saturday, with strong occupancy in Tamil Nadu. Positive word-of-mouth and audience appreciation for its simple story and performances, particularly Jiiva's, are driving its success.",
+    "img": "https://static.toiimg.com/photo/msid-126636049,imgsize-21654.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalaivar-thambi-thalaimaiyil-box-office-collections-day-3-jiivas-film-shows-big-jump-crosses-rs-8-crores/articleshow/126636049.cms",
+    "time": "2026-01-18T02:28:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Sarvam Maya' BO day 24: Rs 71.46 crores and counting",
+    "desc": "Nivin Pauly's horror comedy 'Sarvam Maya' continues its impressive box office run, crossing Rs 70 crores in India. The film garnered approximately Rs 1.31 crore on its 24th day, showcasing strong audience interest with healthy occupancy rates. Praised for its blend of humor and feel-good moments, the movie is a refreshing addition to Malayalam cinema.",
+    "img": "https://static.toiimg.com/photo/msid-126635865,imgsize-34276.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/sarvam-maya-box-office-collections-day-24-nivin-paulys-comeback-film-stays-strong-rs-71-46-crores-and-counting/articleshow/126635865.cms",
+    "time": "2026-01-18T02:04:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Will Agatha Christie’s ‘Seven Dials’ get a season 2?",
+    "desc": "Agatha Christie's 'Seven Dials' miniseries has captivated audiences with its thrilling finale, leaving fans eager for a second season. The adaptation of the 1929 novel, starring Mia McKenna-Bruce as the intrepid Bundle Brent, has garnered praise for its performances and suspenseful plot.",
+    "img": "https://static.toiimg.com/photo/msid-126635336,imgsize-732305.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/agatha-christies-seven-dials-to-have-a-sequel-heres-what-we-know/articleshow/126635302.cms",
+    "time": "2026-01-18T01:42:58.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'Laalo' director Ankit Sakhiya: 'We didn’t really have any budget in mind'",
     "desc": "Defying expectations, 'Laalo – Krishna Sada Sahaayate' achieved a remarkable Rs 120 crore box office success on a modest Rs 1.2 crore budget, proving that passion and crowd-funding can overcome the absence of big stars and producers.",
@@ -172,15 +280,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Quote of the day by Brad Pitt",
-    "desc": "Brad Pitt, an Oscar-winning actor known for his versatility, reflects on personal growth and self-acceptance as he ages. His career, which began with humble beginnings and gained momentum with films like 'Thelma & Louise,' has seen him evolve from emulating others to a deeper understanding of his own identity.",
-    "img": "https://static.toiimg.com/photo/msid-126622533,imgsize-36392.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-brad-pitt-once-you-get-older-you-get-a-little-closer-to-yourself/articleshow/126622484.cms",
-    "time": "2026-01-17T17:19:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Vivek Oberoi suffered injuries, that was the biggest reason he left the industry'",
     "desc": "Vivek Oberoi's career took a backseat due to a life-threatening accident during the shooting of his 2002 film 'Road'. His former trainer revealed that the severe injuries from the incident were a primary reason for his stepping away from acting. Oberoi himself recalled the near-fatal crash involving a camel cart, which narrowly missed him due to his reclined seat.",
     "img": "https://static.toiimg.com/photo/msid-126622393,imgsize-29794.cms",
@@ -216,15 +315,6 @@ const newsData_en = [
     "time": "2026-01-17T17:01:53.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sunny, Bobby to add another floor to Dharmendra's 60 cr home",
-    "desc": "The Deols’ iconic family residence, popularly known as Dharmendra House, is located in Juhu—one of Mumbai’s most upscale neighbourhoods. As per real estate platform NoBroker, the sprawling bungalow is valued at around Rs 60 crore. Now, the landmark property is set to get even bigger. Sunny Deol and Bobby Deol are adding one full floor to the family home.",
-    "img": "https://static.toiimg.com/photo/msid-126621887,imgsize-54136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dharmendra-house-set-for-expansion-sunny-deol-and-bobby-deol-to-add-another-floor-to-rs-60-crore-juhu-bungalow-report/articleshow/126621778.cms",
-    "time": "2026-01-17T16:58:26.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'World peace is at stake': Trump ups Greenland charge; announces 10% tariff on Europe for opposing US control",
     "desc": "President Trump announced a 10% tariff on goods from several European nations, escalating to 25% if Denmark does not agree to sell Greenland by June 1, 2026. He cited security concerns and inadequate \"remuneration\" from allies for decades of US protection, demanding Denmark \"give back\" for past subsidies.",
@@ -253,24 +343,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "'Life-and-death election for them': Uddhav Thackeray alleges coercion, kidnapping in BMC polls; thanks voters for backing Shiv Shakti alliance",
-    "desc": "Shiv Sena (UBT) president Uddhav Thackeray alleged intimidation and coercion by the ruling alliance in the BMC elections, calling it a \"strange\" contest for political survival. Despite the Mahayuti alliance's majority, Thackeray asserted the resilience of his party, thanking voters for their support amidst alleged pressure.",
-    "img": "https://static.toiimg.com/photo/msid-126620924,imgsize-954133.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/life-and-death-election-for-them-uddhav-thackeray-alleges-coercion-kidnapping-in-bmc-polls-thanks-voters-for-backing-shiv-shakti-alliance/articleshow/126620765.cms",
-    "time": "2026-01-17T16:24:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Geeta questions stereotypes after backlash over masturbation",
-    "desc": "Bollywood choreographer Geeta Kapur, popularly known as Geeta Maa, may have turned 52, but she continues to challenge conventions—both on and off the dance floor. Now, she is once again in the spotlight—not for choreography, but for a candid statement on intimacy and self-awareness that sparked widespread debate. After facing backlash for her comment on masturbation, Geeta has spoken at length, questioning why a woman’s age, identity or public image is often used to police her personal feelings and choices.",
-    "img": "https://static.toiimg.com/photo/msid-126620889,imgsize-39800.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/geeta-kapur-questions-stereotypes-after-backlash-over-masturbation-remark-aur-agar-koi-karta-bhi-hai-toh-usme-burai-kya-hai/articleshow/126620785.cms",
-    "time": "2026-01-17T16:21:30.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Revanth says meeting Modi will continue in State’s interests",
     "desc": "Chief Minister vows to complete all pending projects; justifying his frequent visits to New Delhi for funds release saying that the give and take policy with the Centre would continue irrespective of what the Opposition claims",
     "img": "https://th-i.thgim.com/public/news/national/telangana/kbjcr3/article70519460.ece/alternates/LANDSCAPE_1200/CM%20Revanth%20.jpeg",
@@ -286,24 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/history-of-indias-union-budgets-some-budgets-that-became-blueprints-for-institutional-change/articleshow/126619186.cms",
     "time": "2026-01-17T16:00:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Top wholesome family entertainers to watch on Hulu",
-    "desc": "Hulu offers a diverse selection of family-friendly entertainment, from animated adventures like 'The Amazing World of Gumball' and 'Adventure Time' to comedic classics such as 'Mousehunt'. The platform provides options for all ages, ensuring enjoyable movie nights with shows like 'Regular Show', 'Bob's Burgers Movie', 'Teen Titans Go!', and the new animated film 'Finnick 2'.",
-    "img": "https://static.toiimg.com/photo/msid-126620253,imgsize-57914.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/top-wholesome-family-shows-and-movies-to-watch-on-hulu/articleshow/126620196.cms",
-    "time": "2026-01-17T15:59:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay recalls Dimple Kapadia's warning to him on 25th anniversary with Twinkle",
-    "desc": "Akshay Kumar and Twinkle Kapadia are celebrating their 25th anniversary. Akshay shared a humorous anecdote from his mother-in-law about Twinkle's dancing, while Twinkle posted a video of them paragliding, emphasizing their mutual encouragement. Earlier, Twinkle revealed her mother advised a two-year live-in period before marriage.",
-    "img": "https://static.toiimg.com/photo/msid-126620052,imgsize-48626.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-recalls-dimple-kapadias-warning-to-him-when-he-married-twinkle-khanna-goes-paragliding-on-25th-anniversary-video/articleshow/126620071.cms",
-    "time": "2026-01-17T15:50:52.000Z"
   },
   {
     "cat": "Politics",
@@ -369,15 +423,6 @@ const newsData_en = [
     "time": "2026-01-17T13:46:28.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kangana was denied saree for Ram Janmbhoomi by designer Masaba Gupta",
-    "desc": "Kangana Ranaut has hit back at AR Rahman's comments on Bollywood's alleged communal bias, calling him prejudiced. She revealed that Rahman refused to meet her for her directorial 'Emergency,' citing it as a propaganda film. Ranaut also shared a distressing incident where designer Masaba Gupta allegedly denied her a saree for Ram Janmbhoomi, causing her deep humiliation.",
-    "img": "https://static.toiimg.com/photo/msid-126616049,imgsize-57538.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-says-she-was-refused-saree-by-designer-masaba-gupta-to-wear-at-ram-janmbhoomi-as-she-reacts-to-ar-rahmans-communal-remark-i-cried-in-my-car/articleshow/126615559.cms",
-    "time": "2026-01-17T13:23:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sooryavanshi scripts history, becomes youngest ever to…",
     "desc": "Vaibhav Sooryavanshi etched his name in history, becoming the youngest to score a fifty at the Men's U19 World Cup. His brilliant 72 anchored India's innings, crossing 1,000 Youth ODI runs. Despite a late collapse and rain interruptions, India posted 238, with Sooryavanshi's record-breaking knock stealing the show.",
@@ -403,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/trade-realignment-donald-trump-tariffs-push-allies-to-hedge-bets-china-steps-into-gaps-left-by-us/articleshow/126615251.cms",
     "time": "2026-01-17T13:05:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Karan Johar cried before Salman on KKHH set",
-    "desc": "Karan Johar recalls intense nerves on Salman Khan’s first day shooting Kuch Kuch Hota Hai. A costume disagreement overwhelmed him, and he cried in Khan’s vanity van. Salman reassured him, agreed to change, and joined the film.",
-    "img": "https://static.toiimg.com/photo/msid-126615264,imgsize-39130.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-recalls-crying-in-front-of-salman-khan-during-kuch-kuch-hota-hai-shoot-i-got-so-stressed-that-i-started-crying-in-front-of-him/articleshow/126615264.cms",
-    "time": "2026-01-17T12:59:46.000Z"
   },
   {
     "cat": "Sports",
@@ -514,15 +550,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "How AIFF's ISL governing council structure differs from I-League",
-    "desc": "The All India Football Federation (AIFF) has shared a participation framework with ISL and I-League clubs for the much-delayed 2025-26 season in Indian football. The two proposals contrast sharply, and clubs are divided over the structure.",
-    "img": "https://static.toiimg.com/photo/msid-126602871,imgsize-51710.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/news/explained-how-aiffs-isl-governing-council-structure-differs-from-i-league/articleshow/126602836.cms",
-    "time": "2026-01-17T04:57:52.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Why India's opener is batting more cautiously now",
     "desc": "Rohit Sharma's aggressive batting approach, adopted after the 2022 T20 World Cup, has shifted to a more conservative style recently. While his overall average remains strong, his strike rate has seen a dip. Assistant coach Ryan ten Doeschate attributes this to challenging pitches and limited recent match practice, not a conscious change in strategy.",
     "img": "https://static.toiimg.com/photo/msid-126602496,imgsize-44126.cms",
@@ -538,15 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/big-bash-league-steve-smith-blasts-record-32-runs-from-one-over/article70517581.ece",
     "time": "2026-01-17T04:19:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan batter runs himself out at U19 World Cup – WATCH",
-    "desc": "England U19 secured a dramatic 37-run victory over Pakistan in their ICC Under-19 World Cup 2026 opener. Despite a close contest, Pakistan's chase faltered, ending with a bizarre run-out of Ali Raza that sealed England's win. England posted 210, with Caleb Falconer scoring 66, before bowling Pakistan out for 173.",
-    "img": "https://static.toiimg.com/photo/msid-126600303,imgsize-60936.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/brain-fade-moment-pakistan-batter-runs-himself-out-at-u19-world-cup-watch/articleshow/126600295.cms",
-    "time": "2026-01-17T02:54:34.000Z"
   },
   {
     "cat": "World",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
     "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
   }
 ];
