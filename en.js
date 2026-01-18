@@ -1,6 +1,51 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "'Laalo' director Ankit Sakhiya: 'We didn’t really have any budget in mind'",
+    "desc": "Defying expectations, 'Laalo – Krishna Sada Sahaayate' achieved a remarkable Rs 120 crore box office success on a modest Rs 1.2 crore budget, proving that passion and crowd-funding can overcome the absence of big stars and producers.",
+    "img": "https://static.toiimg.com/photo/msid-126633718,imgsize-27626.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/gujarati/movies/news/laalo-director-ankit-sakhiya-we-didnt-really-have-any-budget-in-mind/articleshow/126634897.cms",
+    "time": "2026-01-18T01:10:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Agatha Christie's Seven Dials' Ending explained",
+    "desc": "A 1920s mystery unfolds as Bundle Brent investigates a suspicious death at a house party, uncovering a plot involving secret government deals and a revolutionary new technology. Betrayal runs deep as Bundle confronts a shocking truth about her own family's involvement in the dangerous \"Seven Dials\" organization.",
+    "img": "https://static.toiimg.com/photo/msid-126634941,imgsize-813327.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/agatha-christies-seven-dials-ending-explained-who-killed-gerry-wade-in-this-1920s-classic-murder-mystery/articleshow/126634947.cms",
+    "time": "2026-01-18T01:05:23.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "One of FBI's 10 most wanted fugitives caught in Mexico",
+    "desc": "Alejandro Rosales Castillo had \"a red notice and an arrest warrant for extradition\" and is charged with \"first-degree murder, armed robbery, vehicle theft and kidnapping,\" Mexico's Security Secretary Omar Garcia Harfuch said on social media.",
+    "img": "https://th-i.thgim.com/public/incoming/15ox93/article70521124.ece/alternates/LANDSCAPE_1200/iStock-2103527306.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/one-of-fbis-10-most-wanted-fugitives-caught-in-mexico/article70521120.ece",
+    "time": "2026-01-18T01:01:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar' all-India gross total to hit Rs 1000 cr",
+    "desc": "Despite a slow start to its seventh week, 'Dhurandhar' is making waves at the box office, nearing Rs 1000 crore domestically. The film's impressive week 7 performance places it third for the week, showcasing its enduring appeal. With a global collection exceeding Rs 1278 crore, it's on track to challenge box office giants.",
+    "img": "https://static.toiimg.com/photo/msid-126633671,imgsize-25470.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-44-ranveer-singh-and-akshaye-khanna-starrer-sees-good-growth-on-saturday-as-sequel-gears-up-for-march-19-release/articleshow/126633494.cms",
+    "time": "2026-01-18T00:21:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Not even 5% of what Rohit': India coach slammed by ex-teammate",
+    "desc": "Former India cricketer Manoj Tiwary has criticized assistant coach Ryan ten Doeschate's remarks on Rohit Sharma's form, calling them demoralizing. Tiwary highlighted Rohit's extensive achievements, stating ten Doeschate's international record is not even 5% of Sharma's. He urged the coach to reflect on his comments, especially as a member of the support staff.",
+    "img": "https://static.toiimg.com/photo/msid-126614245,imgsize-111322.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/not-even-5-of-what-rohit-sharma-has-done-india-coach-slammed-by-ex-teammate/articleshow/126614258.cms",
+    "time": "2026-01-17T23:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Why Aamir said yes to Dev Anand’s Awwal Number without script",
     "desc": "Today, Aamir Khan is known as Bollywood’s ultimate perfectionist—an actor who refuses to associate with a film unless he is fully convinced by its script. Over the years, this approach has seen him walk away from several high-profile projects. But early in his career, Aamir once made a rare exception—and that too without even asking for the story.",
     "img": "https://static.toiimg.com/photo/msid-126628545,imgsize-36248.cms",
@@ -180,15 +225,6 @@ const newsData_en = [
     "time": "2026-01-17T16:58:26.000Z"
   },
   {
-    "cat": "World",
-    "title": "Trump announces 10% tariff on eight European countries for opposing U.S. control of Greenland",
-    "desc": "The U.S. President said in a social media post that Denmark, Norway, Sweden, France, Germany, U.K., the Netherlands, and Finland would face the tariff, which would be raised to 25% on June 1 if a deal is not in place",
-    "img": "https://th-i.thgim.com/public/incoming/w7v2vs/article70519751.ece/alternates/LANDSCAPE_1200/AFP_92Z34YC.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-announces-10-tariff-on-eight-european-countries-for-opposing-us-control-of-greenland/article70519734.ece",
-    "time": "2026-01-17T16:45:44.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'World peace is at stake': Trump ups Greenland charge; announces 10% tariff on Europe for opposing US control",
     "desc": "President Trump announced a 10% tariff on goods from several European nations, escalating to 25% if Denmark does not agree to sell Greenland by June 1, 2026. He cited security concerns and inadequate \"remuneration\" from allies for decades of US protection, demanding Denmark \"give back\" for past subsidies.",
@@ -279,15 +315,6 @@ const newsData_en = [
     "time": "2026-01-17T15:37:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "GRAP-IV reimposed in Delhi-NCR; air quality slips to ‘severe’ category",
-    "desc": "Delhi-NCR's air quality has plunged into the 'severe' category, prompting the Commission for Air Quality Management to reimpose GRAP-IV restrictions. This escalation follows the earlier enforcement of GRAP-III. Under Stage IV, older vehicles like BS-III petrol and BS-IV diesel models are banned from plying, with exceptions for essential services. Existing GRAP measures remain in effect.",
-    "img": "https://static.toiimg.com/photo/msid-126619075,imgsize-444144.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pollution-crisis-grap-iv-reimposed-in-delhi-ncr-air-quality-slips-to-severe-category/articleshow/126619054.cms",
-    "time": "2026-01-17T15:16:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ICC under pressure? Bangladesh demands last-minute T20 World Cup switch",
     "desc": "Bangladesh Cricket Board has formally requested the ICC to swap its T20 World Cup 2026 group with Ireland, aiming to play matches in Sri Lanka due to security concerns in India. The ICC delegation visited Dhaka to address these worries and advocate for the original schedule, but the board remains firm on its request.",
@@ -324,33 +351,6 @@ const newsData_en = [
     "time": "2026-01-17T14:50:05.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kangana cryptically talks about Hrithik as she reminisces 2016",
-    "desc": "Kangana Ranaut reminisced about 2016, a year of career highs and personal turmoil following a legal notice from a colleague. She described the period as a 'living hell' after her success became 'poisonous' due to industry divisions and legal battles. Ranaut now reflects that the drama ultimately meant little in the long run.",
-    "img": "https://static.toiimg.com/photo/msid-126618232,imgsize-40322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/one-of-my-colleagues-sent-me-that-controversial-legal-notice-says-kangana-cryptically-talking-about-hrithik-roshan-as-she-joins-the-viral-2026-is-the-new-2016-trend/articleshow/126618214.cms",
-    "time": "2026-01-17T14:40:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Help them refresh': Shiv Sena shifts newly elected corporators to Bandra luxury hotel; Mahayuti eyes mayor post",
-    "desc": "Following a significant win in the BMC elections, Eknath Shinde's Shiv Sena has housed newly elected corporators in a luxury hotel, fueling speculation about their mayoral ambitions. The BJP-Shiv Sena alliance emerged victorious, and discussions regarding the Mayor's post are underway, with a collective decision expected soon.",
-    "img": "https://static.toiimg.com/photo/msid-126617528,imgsize-442159.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/help-them-refresh-shiv-sena-shifts-newly-elected-corporators-to-bandra-luxury-hotel-mahayuti-eyes-mayor-post/articleshow/126617414.cms",
-    "time": "2026-01-17T14:16:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sunny Deol BTS from Border 2 stuns fans viral",
-    "desc": "Sunny Deol has ignited excitement for 'Border 2' with behind-the-scenes photos, showcasing his commanding officer role and hinting at a grand scale. The upcoming war drama, a sequel to the 1997 hit, is slated for a January 23, 2026 release. Fans, including brother Bobby Deol, are eagerly anticipating its patriotic themes and action-packed return.",
-    "img": "https://static.toiimg.com/photo/msid-126617443,imgsize-77618.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deols-strong-yet-vulnerable-avatar-in-bts-photos-from-border-2-win-the-internet-esha-deol-bobby-deol-react/articleshow/126617443.cms",
-    "time": "2026-01-17T14:16:50.000Z"
-  },
-  {
     "cat": "Business",
     "title": "US-China trade: China pares US Treasury exposure to 17-year low; steps up gold accumulation",
     "desc": "China has reduced its US Treasury holdings to a nearly two-decade low, signaling a strategic diversification of its foreign exchange reserves. This move away from dollar assets towards gold and other overseas investments reflects concerns over geopolitical risks and the sustainability of American public debt.",
@@ -358,24 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-china-trade-china-pares-us-treasury-exposure-to-17-year-low-steps-up-gold-accumulation/articleshow/126616797.cms",
     "time": "2026-01-17T14:09:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sunita Ahuja on Govinda's alleged affair: I won't forgive him",
-    "desc": "Speaking out once again on rumours surrounding Govinda’s alleged affair, Sunita Ahuja has said that the past year took a heavy emotional toll on her and their family. In a fresh interview, the actor’s wife addressed the controversy that has followed them for over a year, reiterating that hearing such allegations at this stage of life was deeply distressing despite her repeated attempts to brush aside divorce speculation.",
-    "img": "https://static.toiimg.com/photo/msid-126617284,imgsize-97894.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunita-ahuja-says-she-will-not-forgive-govinda-if-she-gets-confirmation-about-his-alleged-affair-you-cant-do-all-this-at-63/articleshow/126617188.cms",
-    "time": "2026-01-17T14:07:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress leader demands Mumbai unit chief's resignation; gets party notice",
-    "desc": "Mumbai Congress faces internal turmoil after a dismal BMC election performance, its worst ever. Senior leaders are demanding city president Varsha Gaikwad's resignation, citing moral grounds. Despite the setback, party spokespersons defend the outcome, attributing it to adverse circumstances and alleged misuse of power by rivals. The party plans organizational strengthening amidst simmering dissent.",
-    "img": "https://static.toiimg.com/photo/msid-126617109,imgsize-30496.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bmc-polls-setback-ex-mumbai-congress-president-seeks-varsha-gaikwads-resignation-party-issues-show-cause-notice/articleshow/126616761.cms",
-    "time": "2026-01-17T14:01:49.000Z"
   },
   {
     "cat": "Sports",
@@ -529,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/sai-under-fire-difficult-to-see-how-world-championships-can-be-held-here-says-danish-shuttler-blichfeldt/articleshow/126604203.cms",
     "time": "2026-01-17T05:56:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's bowling conundrum: Why Arshdeep Singh is still on the bench",
-    "desc": "New Zealand secured a seven-wicket victory in the second ODI, highlighting concerns over Arshdeep Singh's continued exclusion from India's playing XI. Despite strong performances in previous series, the left-arm pacer has been benched, prompting debate about workload management versus maintaining player rhythm and form.",
-    "img": "https://static.toiimg.com/photo/msid-126603606,imgsize-33946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/indias-bowling-conundrum-why-arshdeep-singh-is-still-on-the-bench/articleshow/126603584.cms",
-    "time": "2026-01-17T05:28:39.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
     "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
   }
 ];
