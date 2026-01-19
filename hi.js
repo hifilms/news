@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Saina Nehwal confirms retirement from competitive badminton, says 'I thought it’s enough, can't push anymore'",
+    "desc": "India's iconic shuttler Saina Nehwal has confirmed her retirement from competitive badminton, saying that she can't push it anymore. The 2012 Olympics bronze medallist, Nehwal, has not played any official match since the 2023 Singapore...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/saina-nehwal-confirms-retirement-from-competitive-badminton-says-i-thought-its-enough-cant-push-anymore-2026-01-19-1026566",
+    "time": "2026-01-19T18:26:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB women create all-time WPL record, become first team to enter playoffs with win over GG",
+    "desc": "Royal Challengers Bengaluru women have created an all-time record in the Women's Premier League after defeating Gujarat Giants in their fifth match of the tournament. Bengaluru put up a brilliant all-round performance in the first match...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-women-create-all-time-wpl-record-become-first-team-to-enter-playoffs-with-win-over-gg-2026-01-19-1026562",
+    "time": "2026-01-19T17:29:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former Test cricketer becomes fourth Sri Lankan player to complete 1000 First-class wickets",
+    "desc": "Former Test cricketer Malinda Pushpakumara achieved a huge milestone in domestic cricket as he completed 1000 wickets in First-class cricket. Pushpakumara has become just the fourth Sri Lankan and third active player to have reached...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-test-cricketer-becomes-fourth-sri-lankan-player-to-complete-1000-first-class-wickets-2026-01-19-1026558",
+    "time": "2026-01-19T16:55:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill to turn up for Punjab in Ranji Trophy after conclusion of ODI series against New Zealand",
+    "desc": "India ODI and Test captain Shubman Gill has decided against taking a rest following the conclusion of the ODI series against New Zealand. With several Indian players featuring in the T20I series against the Kiwis...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-to-turn-up-for-punjab-in-ranji-trophy-after-conclusion-of-odi-series-against-new-zealand-2026-01-19-1026553",
+    "time": "2026-01-19T15:23:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Virat Kohli shatters Ricky Ponting's world record after breaking Tendulkar's feat in IND vs NZ 3rd ODI",
     "desc": "India icon Virat Kohli continued his rich vein of form as he smashed a scintillating century in the third ODI against New Zealand at the Holkar Cricket Stadium in Indore. Kohli almost pulled off a...",
     "img": "",
@@ -10,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Unbeaten Bengaluru take on Giants in first game in Vadodara",
+    "title": "Bengaluru end on 178/6 in 20 overs, Gautami shines with 73",
     "desc": "Undefeated Royal Challengers Bengaluru are taking on Gujarat Giants in their fifth match of the Women's Premier League 2026. The tournament now shifts to the second venue - the BCA Stadium, Kotambi, Vadodara, with the matches...",
     "img": "",
     "src": "indiatvnews.com",
@@ -43,41 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/i-d-be-keen-to-do-that-steve-smith-outlines-his-future-goals-with-australia-after-stellar-bbl-form-2026-01-19-1026507",
     "time": "2026-01-19T09:40:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Very, very good innings': Sunil Gavaskar hails star India pacer after third ODI against New Zealand",
-    "desc": "The three-game ODI series between India and New Zealand came to an end with the Black Caps clinching the series. Taking on the Men in Blue on their turf, New Zealand managed to win the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/very-very-good-innings-sunil-gavaskar-hails-star-india-pacer-after-third-odi-against-new-zealand-2026-01-19-1026502",
-    "time": "2026-01-19T09:02:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Iyer, Rinku IN, 4 players left out: Complete list of changes in India's T20I squad for New Zealand series",
-    "desc": "After a highly competitive ODI series, India and New Zealand will lock horns in the five-match T20I series, starting from January 21. This is the last series for both teams before the T20 World Cup,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/iyer-rinku-in-4-players-left-out-complete-list-of-changes-in-india-s-t20i-squad-for-new-zealand-series-2026-01-19-1026498",
-    "time": "2026-01-19T08:04:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch AFG vs WI T20I series on TV and streaming in India?",
-    "desc": "The stage is set for a three-game T20I series between Afghanistan and the West Indies. The two sides will hope for their best performances in the series with the T20 World Cup right around the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-vs-west-indies-live-when-and-where-to-watch-afg-vs-wi-t20i-series-on-tv-and-streaming-in-india-2026-01-19-1026495",
-    "time": "2026-01-19T08:00:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan's domestic cricket team break 232-year-old world record, defend 40 runs successfully",
-    "desc": "Pakistan TV (PTV) pulled off the lowest successful defence in the history of first-class cricket last week in the ongoing President's Trophy as they broke the 232-year-old world record. They stunningly defended a target of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-s-domestic-cricket-team-break-232-year-old-world-record-defend-40-runs-successfully-2026-01-19-1026485",
-    "time": "2026-01-19T07:00:55.000Z"
   }
 ];
