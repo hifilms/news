@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India to face arch-rivals Pakistan twice on this day! Know all details inside",
+    "desc": "India vs Pakistan fixtures have always been a treat not only for the fans but also for the broadcasters. The arch-rivals don't play bilaterals anymore but they face each other in the Asia Cup and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-to-face-arch-rivals-pakistan-twice-on-this-day-know-all-details-inside-2026-01-19-1026514",
+    "time": "2026-01-19T10:26:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I'd be keen to do that': Steve Smith outlines his future goals with Australia after stellar BBL form",
+    "desc": "Veteran Australia batter Steve Smith has been in incredible form in the shortest format of late. The star batter has been exceptional for Sydney Sixers in the ongoing BBL (Big Bash League) season, and with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/i-d-be-keen-to-do-that-steve-smith-outlines-his-future-goals-with-australia-after-stellar-bbl-form-2026-01-19-1026507",
+    "time": "2026-01-19T09:40:18.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Very, very good innings': Sunil Gavaskar hails star India pacer after third ODI against New Zealand",
     "desc": "The three-game ODI series between India and New Zealand came to an end with the Black Caps clinching the series. Taking on the Men in Blue on their turf, New Zealand managed to win the...",
     "img": "",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-breaks-sachin-tendulkar-s-another-world-record-with-majestic-century-in-indore-2026-01-19-1026470",
     "time": "2026-01-19T05:44:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia announce T20I squad for Pakistan tour, Jack Edwards and Mahli Beardman make the cut",
-    "desc": "Cricket Australia recently came forward and announced their 17-man squad for the upcoming tour of Pakistan. It is worth noting that the Men in Yellow will lock horns with Pakistan across three T20I matches before...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-announce-t20i-squad-for-pakistan-tour-jack-edwards-and-mahli-beardman-make-the-cut-2026-01-19-1026458",
-    "time": "2026-01-19T04:21:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Stats comparison after 85 international centuries",
-    "desc": "Virat Kohli slammed his 54th century in ODI cricket on Sunday in the third and final match of the series against New Zealand. It was the 85th century for him in his illustrious international career...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-vs-sachin-tendulkar-stats-comparison-after-85-international-centuries-2026-01-19-1026453",
-    "time": "2026-01-19T03:52:15.000Z"
   }
 ];

@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ન્યુઝીલેન્ડ સામે કોહલીની ઐતિહાસિક સદી, પણ સાથે જ નોંધાયો સૌથી શરમજનક રેકોર્ડ; &amp;#039;યુનિવર્સ બોસ&amp;#039; ક્રિસ ગેલને છોડ્યો પાછળ",
+    "desc": "ભારત અને ન્યુઝીલેન્ડ વચ્ચે રમાયેલી છેલ્લી વનડે મેચમાં ટીમ ઈન્ડિયાને હારનો સામનો કરવો પડ્યો છે. ભારત અને ન્યુઝીલેન્ડના ક્રિકેટ ઈતિહાસમાં પ્રથમ વખત ન્યુઝીલેન્ડની ટીમે ભારતની ધરતી પર વનડે સિરીઝ જીતવાનું કારનામું કર્યું છે. આ મેચમાં લક્ષ્યનો પીછો કરતી વખતે વિરાટ કોહલીએ એક શર્મનાક રેકોર્ડ પોતાના નામે કર્યો છે. કોહલી હવે ક્રિકેટ જગતમાં આવું કરનાર નંબર 1 ખેલાડી બની ગયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/virat-kohli-unwanted-record-century-in-defeat-india-vs-new-zealand-odi-series-462211 ",
+    "time": "2026-01-19T11:48:52.000Z"
+  },
+  {
     "cat": "Business",
     "title": "હોમ લોન જલ્દી ચુકવવાની સૌથી સ્માર્ટ ફોર્મ્યુલા, રીપેમેન્ટની આ ટ્રિક્સ બદલી દેશે તમારી લાઇફ",
     "desc": "દર મહિને EMI ભરતા-ભરતા તમને લાગે છે કે હોમ લોન તમારા જીવનને કંટ્રોલ કરી રહી છે, તો તમે એકલા નથી. પરંતુ શું ખરેખર 20-25 વર્ષ સુધી EMI આપવો જરૂરી છે? કેટલાક સ્માર્ટ નિર્ણય અને સાચી રણનીતિ અપનાવી તમે આ ભારમાંથી જલ્દી છુટકારો મેળવીશકો છો. આવો તેના વિશે જાણીએ..",
@@ -279,15 +288,6 @@ const newsData_gu = [
     "time": "2026-01-17T09:37:37.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "&amp;#039;ગૌતમ ગંભીરે રોહિત શર્માને ODI કેપ્ટન પદેથી હટાવ્યો...&amp;#039; આ ક્રિકેટરે લગાવ્યો મોટો આરોપ",
-    "desc": "ભારતના પૂર્વ ક્રિકેટર મનોજ તિવારીએ કોચ ગૌતમ ગંભીર પર મોટો આરોપ લગાવ્યો છે. તેનું માનવું છે કે જો શુભમન ગિલને કેપ્ટન બનાવવો જ હતો તો તે તબક્કવાર થવું જોઈતું હતું, રોહિત શર્માનો કેપ્ટન તરીકે રેકોર્ડ સારો હોવા છતાં અચાનક કેપ્ટન પદ ગિલનું સોંપવું એ આશ્ચર્યજનક હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/manoj-tiwary-alleges-gautam-gambhir-removed-rohit-sharma-from-odi-captaincy-461959 ",
-    "time": "2026-01-17T07:20:04.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "હું ગોવિંદાને ક્યારેય માફ નહી કરું... અફેર મામલે સુનિતા આહુજાએ તોડી ચુપ્પી, જાણો શું કહ્યું ગોવિંદા વિશે",
     "desc": "છેલ્લા ઘણા સમયથી ગોવિંદાના અફેરની ચર્ચાઓ જોરશોરથી ચાલી રહી છે. તેવામાં સુનીતા આહુજાએ ફરીવાર એક મુલાકાતમાં પતિ ગોવિંદાના અફેરની વાત પર આંકરી પ્રતિક્રિયા આપી દીધી છે. આ વખતે સુનીતા આહુજાએ ત્યાં સુધી કહી દીધું છે કે ગોવિંદા તેના દીકરાનું કરિયર બનાવવામાં પણ મદદ નથી કરતો.",
@@ -295,15 +295,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/i-will-never-forgive-govinda-said-sunita-ahuja-breaks-silence-on-63-year-old-govinda-extra-marital-affair-461954 ",
     "time": "2026-01-17T06:47:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સેટેલાઈટ તસવીરોથી થયો ચોંકાવનારો ખુલાસો, IMDએ કહ્યું- &amp;#039;આગામી 72 કલાક ખુબ ભારે&amp;#039;",
-    "desc": "ઉત્તર ભારત સહિત દેશમાં કડકડતી ઠંડી જોવા મળી રહી છે. આ બધા વચ્ચે સેટેલાઈટથી લેવાયેલી તસવીરોથી એક ચોંકાવનારી વાત સામે આવી છે. હવામાન વિભાગના જણાવ્યાં મુજબ તે પહાડોમાંથી આવતા વાયરાનો સંકેત છે. આ ઉપરાંત ગુજરાત માટે અંબાલાલે શું આગાહી કરી છે તે પણ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/all-india-weather-imd-alert-comma-shaped-layer-of-fog-ambalal-patel-gujarat-weather-forecast-461923 ",
-    "time": "2026-01-17T04:06:18.000Z"
   },
   {
     "cat": "Business",
@@ -322,15 +313,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/should-you-sell-or-buy-gold-and-silver-etf-prices-hit-record-highs-know-what-to-do-from-experts-461867 ",
     "time": "2026-01-16T11:11:36.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "બજેટમાં ખેડૂતોને મળશે ખુશખબર! જાણો ક્યારે ખાતામાં આવશે 22મો હપ્તો",
-    "desc": "પીએમ કિસાન યોજનાના 22મા હપ્તાની પ્રતીક્ષા કરતા ખેડૂતોએ હજુ થોડું ધૈર્ય જાળવી રાખવું પડશે. 1 ફેબ્રુઆરીએ રજૂ થનારા સામાન્ય બજેટ બાદ જ ખાતામાં 2-2 હજાર રૂપિયા આવવાની સંભાવના છે. પાછલા વર્ષે પણ ફેબ્રુઆરીના અંતમાં ગપ્તો જારી થયો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/pm-kisan-22nd-installment-date-2026-beneficiary-status-check-461858 ",
-    "time": "2026-01-16T09:19:11.000Z"
   },
   {
     "cat": "World",
@@ -529,14 +511,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/maruti-hatchback-swift-to-wagonr-discount-january-2026-461302 ",
     "time": "2026-01-11T09:49:16.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "X પર હવે નહીં જોવા મળે અશ્લીલ કન્ટેન્ટ: સરકારની કડકાઈ બાદ 600થી વધુ એકાઉન્ટ્સ પર હંટર",
-    "desc": "સોશિયલ મીડિયા પ્લેટફોર્મ X (અગાઉનું ટ્વિટર) એ અશ્લીલ અને વાંધાજનક સામગ્રીના મુદ્દે પોતાની ભૂલ સ્વીકારી લીધી છે. સરકારી સૂત્રોના જણાવ્યા અનુસાર, X એ ભારત સરકારને ખાતરી આપી છે કે તે હવેથી દેશના કાયદા મુજબ જ કામ કરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/x-will-no-longer-display-explicit-content-following-government-pressure-action-has-been-taken-against-over-600-accounts-461242 ",
-    "time": "2026-01-11T05:00:07.000Z"
   }
 ];
