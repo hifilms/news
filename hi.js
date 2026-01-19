@@ -46,8 +46,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Bengaluru end on 178/6 in 20 overs, Gautami shines with 73",
-    "desc": "Undefeated Royal Challengers Bengaluru are taking on Gujarat Giants in their fifth match of the Women's Premier League 2026. The tournament now shifts to the second venue - the BCA Stadium, Kotambi, Vadodara, with the matches...",
+    "title": "Bengaluru beat Giants by 61 runs, qualify for playoffs",
+    "desc": "RCB displayed a brilliant performance in their clash against the Gujarat Giants. Asked to bat first, Bengaluru posted a strong total of 178/6 in their 20 overs with Gautami Naik scoring a stellar 73 from...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rcbw-vs-ggw-wpl-2026-live-score-royal-challengers-bengaluru-vs-gujarat-giants-bca-stadium-kotambi-vadodara-latest-match-updates-scorecard-teams-2026-01-19-1026543",

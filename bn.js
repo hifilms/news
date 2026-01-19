@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Sports",
+    "title": "বাতের ব্যথা শেষ করে দিল কেরিয়ার! মাত্র ৩৫ বছর বয়সে জীবনের সব থেকে কঠিন সিদ্ধান্ত নিলেন সাইনা নেহওয়াল",
+    "desc": "সাইনা বলেন, আমার আনুষ্ঠানিকভাবে অবসর ঘোষণা কোনও বড় ব্যাপার নয়। লোকজন ধীরে ধীরে বুঝতে পারবে, সাইনা আর খেলে না। বিশ্ব ব্যাডমিন্টনে ভাল জায়গায় থাকতে হলে রোজ ৮-৯ ঘন্টা প্র্যাকটিস করতে হয়। আমার শরীর আর ২ ঘণ্টার বেশি দিচ্ছে না।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Saina6-2026-01-6428d0593ef7fd5d9c6978a0ee6eee80-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/saina-nehwal-confirms-retirement-she-says-my-body-can-not-push-it-anymore-smj-2504694.html",
+    "time": "2026-01-19T19:09:15.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "মেসি-কাণ্ডে ১০ হাজার টাকার বন্ডে জামিন! ৩৭ দিন পরে জেল থেকে বেরিয়ে শতদ্রু দত্ত বললেন...",
     "desc": "সোমবার দুপুরে ১০ হাজার টাকার ব্যক্তিগত বন্ডে শতদ্রুর জামিন মঞ্জুর করে বিধাননগরআদালত ৷ সন্ধে নাগাদ মুক্তি পান শতদ্রু৷ বেরিয়ে বলেন, ‘‘আমি খুব টায়ার্ড।’’ কার্যত, কোনও মন্তব্য না করেই সাংবাদিকদের সামনে থেকে বেরিয়ে যান মেসি কাণ্ডের মূল অভিযুক্ত৷",
     "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-2026-01-19T204717.238-2026-01-d73d3d4ab07b6c1a0823ba728ba2ed27-3x2.jpg",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/delhi-high-court-give-green-signal-zydus-nivolumab-biosimilar-sale-affordable-cancer-treatment-india-sal-2494369.html",
     "time": "2026-01-13T13:09:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "শীতের মরশুমে শুধু নলেন গুড় নয়, বাজার কাঁপাচ্ছে আখের গুড়ও! হাজার হাজার টাকা লাভের মুখ দেখে আহ্লাদে আটখানা চাষিরা",
-    "desc": "আখের গুড়ের বড় উৎস জঙ্গলমহলের কেশিয়াড়ি ব্লকের সুবর্ণরেখা নদী তীরবর্তী একাধিক গ্রাম। নদীর পলিমাটি ও অনুকূল পরিবেশে এই এলাকায় বহু বছর ধরেই আখ চাষ হয়ে আসছে। শীত নামতেই সেই আখ থেকেই শুরু হয় গুড় তৈরির ব্যস্ততা।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/sugarcan-jaggery-2026-01-42513b9e89a82620dfc99b7a6493ff74-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/west-medinipur-news-sugarcane-jaggery-demand-increased-before-makar-sankranti-farmers-happy-to-get-huge-profit-l18-local18-2493423.html",
-    "time": "2026-01-13T11:51:31.000Z"
   }
 ];

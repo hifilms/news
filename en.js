@@ -1,6 +1,150 @@
 const newsData_en = [
   {
     "cat": "Business",
+    "title": "Silver spot price tops Rs 3L/kg mark",
+    "desc": "Silver prices surged past Rs 3 lakh per kg on the MCX, reaching an all-time high of nearly Rs 3.1 lakh for the March contract. This rally, fueled by a jump in global prices and a weaker rupee, saw international spot silver briefly exceed $94 an ounce.",
+    "img": "https://static.toiimg.com/photo/msid-126718592,imgsize-739330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/silver-spot-price-tops-rs-3l/kg-mark/articleshow/126718500.cms",
+    "time": "2026-01-19T20:20:01.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Eyeing 'organic growth' in southern states: PNB chief",
+    "desc": "Punjab National Bank is prioritizing organic growth in southern states, with no acquisition plans currently on the table. The bank reported strong quarterly profits and anticipates improved net interest margins. Deposit and advance growth remain on track, and PNB expects a dip in gross NPAs below 3% by March.",
+    "img": "https://static.toiimg.com/photo/msid-126718440,imgsize-475510.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/eyeing-organic-growth-in-southern-states-pnb-chief/articleshow/126718290.cms",
+    "time": "2026-01-19T20:17:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJD demands Odisha Mines Minister’s removal after ED raids on his representative",
+    "desc": "State Steel and Mines Minister Bibhuti Bhushan Jena had designated Sunil Patra as his representative for mines department and representative’s active involvement in illegal mining came to the fore during ED’s raid, alleged the regional party",
+    "img": "https://th-i.thgim.com/public/incoming/djg7a5/article70527040.ece/alternates/LANDSCAPE_1200/20260116301L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/odisha/bjd-demands-odisha-mines-ministers-removal-after-ed-raids-on-his-representative/article70525696.ece",
+    "time": "2026-01-19T20:01:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India Inc gears up to deal with sanctions risk",
+    "desc": "India Inc is elevating sanctions risk to a top priority due to global instability and supply chain issues. Companies are increasingly seeking expert help to manage the disruptive impact, as sanctions now directly affect finances, vendors, and reputation.",
+    "img": "https://static.toiimg.com/photo/msid-126717620,imgsize-826421.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-inc-gears-up-to-deal-with-sanctions-risk/articleshow/126717057.cms",
+    "time": "2026-01-19T19:59:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Celebrity fitness trainer on his journey from being watchman to charging in lakhs",
+    "desc": "Celebrity fitness trainer Vinod Channa, who once worked as a watchman, shared his journey from a humble background to training Bollywood's elite. After 15 years of bodybuilding and starting at a Mumbai gym, he moved to Bandra, eventually training stars like Amitabh Bachchan and John Abraham, reaching a peak where he charged Rs 25,000 per hour.",
+    "img": "https://static.toiimg.com/photo/msid-126716474,imgsize-22216.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fitness-trainer-to-john-abraham-amitabh-bachchan-shilpa-shetty-recalls-charging-rs-25000-per-hour-reveals-his-journey-from-being-a-watchman-to-buying-a-gym-worth-rs-15-crore/articleshow/126716404.cms",
+    "time": "2026-01-19T19:57:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "RBI revises priority sector norms to include NCDC",
+    "desc": "The RBI has revised priority sector lending norms, now allowing loans to the National Cooperative Development Corporation to qualify. This aims to expand credit for cooperative societies, especially in agriculture, while simultaneously tightening compliance to prevent double counting of benefits.",
+    "img": "https://static.toiimg.com/photo/msid-126716503,imgsize-967232.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-revises-priority-sector-norms-to-include-ncdc/articleshow/126716439.cms",
+    "time": "2026-01-19T19:50:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Fresh graduates with AI, data skills",
+    "desc": "Tech firms are shifting from volume hiring to skills-led recruitment, narrowing fresher intake to specialized roles. Companies are offering significantly higher packages, ranging from Rs 16 lakh to Rs 55 lakh, for niche positions in AI, data engineering, and cybersecurity, reflecting a growing demand for specialized talent.",
+    "img": "https://static.toiimg.com/photo/msid-126715589,imgsize-42106.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/wanted-fresh-graduates-with-ai-data-skills/articleshow/126715316.cms",
+    "time": "2026-01-19T19:36:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Farooq",
+    "desc": "National Conference president Farooq Abdullah expressed doubt that most Kashmiri Pandits would return to live permanently in the valley, stating they are free to come back. This statement drew sharp criticism from BJP politicians and Pandit groups, who are demanding a separate homeland and assert the 1990s exodus was forced, not voluntary.",
+    "img": "https://static.toiimg.com/photo/msid-126714568,imgsize-938337.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-one-stopped-pandits-from-returning-to-kashmir-farooq/articleshow/126714615.cms",
+    "time": "2026-01-19T19:26:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "IMD forecast raises hopes for snowfall in dry Kashmir",
+    "desc": "Kashmir anticipates much-needed snowfall from Thursday, breaking a prolonged dry spell. The IMD warns of potential landslides and travel disruptions, urging caution. Residents are eagerly awaiting the snow as temperatures remain frigid. Two western disturbances are expected to bring heavy snowfall and rainfall, with peak activity on January 23rd and 27th, offering relief after several dry Decembers and Januarys.",
+    "img": "https://static.toiimg.com/photo/msid-126714356,imgsize-1247058.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/imd-forecast-raises-hopes-for-snowfall-in-dry-kashmir/articleshow/126714381.cms",
+    "time": "2026-01-19T19:22:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&amp;K govt says those seeking separate statehood for Jammu are running Pak agenda",
+    "desc": "Jammu and Kashmir's Deputy Chief Minister Surinder Choudhary denounced demands for Jammu's separate statehood, labeling them a \"Pakistani and ISI agenda\" and accusing proponents of \"playing into Pakistan's hands.\" He asserted that those genuinely believing in India would want Jammu and Kashmir to remain united, a sentiment echoed by National Conference leaders who have historically sacrificed for the region's integrity.",
+    "img": "https://static.toiimg.com/photo/msid-126713830,imgsize-675920.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-govt-says-those-seeking-separate-statehood-for-jammu-are-running-pak-agenda/articleshow/126713819.cms",
+    "time": "2026-01-19T19:16:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Environment ministry panel approves 17 def-linked proposals near China border",
+    "desc": "Defence projects crucial for national security in high-altitude areas near the China border, primarily in Ladakh and Sikkim, received clearance from an environment ministry panel. The National Board for Wildlife's standing committee approved 17 proposals, including border outposts and infrastructure, while emphasizing strict wildlife mitigation and environmental safeguards. The committee also cleared other public utility projects.",
+    "img": "https://static.toiimg.com/photo/msid-126713158,imgsize-1684686.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/environment-ministry-panel-approves-17-def-linked-proposals-near-china-border/articleshow/126713190.cms",
+    "time": "2026-01-19T19:07:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Govt notifies rules for use of Environmental (Protection) Fund",
+    "desc": "The Centre has notified rules for utilizing the Environmental Protection Fund, created from penalties for green law violations. The fund will support pollution control, environmental remediation, clean technology research, and capacity building for environmental bodies. States will receive 75% of collected penalties, with the Centre retaining 25% for green initiatives.",
+    "img": "https://static.toiimg.com/photo/msid-126712880,imgsize-944201.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/govt-notifies-rules-for-use-of-environmental-protection-fund/articleshow/126712914.cms",
+    "time": "2026-01-19T19:04:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Govt brings 4 more sectors under GHG emissions cut regime",
+    "desc": "India has expanded its greenhouse gas emission intensity reduction regime to include petroleum refinery, petrochemicals, textiles, and secondary aluminium sectors. Over 200 industrial units must now meet specific reduction targets by 2026-27, facing penalties for non-compliance. This move aligns with India's net-zero goals and climate action targets.",
+    "img": "https://static.toiimg.com/photo/msid-126712294,imgsize-1382148.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/govt-brings-4-more-sectors-under-ghg-emissions-cut-regime/articleshow/126709560.cms",
+    "time": "2026-01-19T18:58:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Khushi Mukherjee breaks silence on Rs 100 crore defamation case",
+    "desc": "Actress and social media personality Khushi Mukherjee has finally responded after influencer Faizan Ansari claimed to have filed a Rs 100 crore defamation case against her over her remarks about Indian cricketer Suryakumar Yadav. Speaking to the media, Khushi maintained that she has not defamed the Indian T20I captain in any manner, while admitting that her earlier comment may not have been necessary.",
+    "img": "https://static.toiimg.com/photo/msid-126711796,imgsize-78342.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/khushi-mukherjee-breaks-silence-on-rs-100-crore-defamation-case-slams-saste-influencers-i-havent-defamed-suryakumar-yadav-in-any-way/articleshow/126710910.cms",
+    "time": "2026-01-19T18:51:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Javed Akhtar reveals he refused to write 'Border 2' songs: 'Creative bankruptcy'",
+    "desc": "Javed Akhtar refused to write for 'Border 2', calling the reliance on reworked old songs \"intellectual and creative bankruptcy.\" He argued that films belong to their time and new music should be created instead of depending on past glory. Akhtar believes filmmakers should create new nostalgia rather than exploiting existing memories.",
+    "img": "https://static.toiimg.com/photo/msid-126711341,imgsize-96378.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/javed-akhtar-reveals-he-refused-to-write-border-2-songs-make-new-songs-or-accept-that-you-cant-do-the-same-level-of-work/articleshow/126710915.cms",
+    "time": "2026-01-19T18:46:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Fitness trainer on John's diet, how Shilpa Shetty lost post pregnancy weight",
+    "desc": "John Abraham's fitness trainer revealed the actor's extreme dietary discipline, stating his body now reacts negatively to common vegetables like bhindi and baingan due to years of strict adherence. The trainer also highlighted Shilpa Shetty's natural post-pregnancy weight loss, refuting claims of medical intervention.",
+    "img": "https://static.toiimg.com/photo/msid-126708159,imgsize-36378.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/john-abraham-cant-digest-bhindi-baigan-now-says-fitness-trainer-about-his-discipline-opens-up-on-shilpa-shettys-weight-loss-post-pregnancy/articleshow/126707923.cms",
+    "time": "2026-01-19T18:08:13.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "India positioned to benefit, says global expert",
     "desc": "Embracing AI is crucial for survival, according to SandboxAQ CEO Jack Hidary. Companies and governments must adopt AI to thrive, especially in India's vast physical economy. Advanced AI solutions are key to addressing cybersecurity risks and fostering domestic intellectual property creation in sectors like pharmaceuticals.",
     "img": "https://static.toiimg.com/photo/msid-126707660,imgsize-845702.cms",
@@ -92,11 +236,20 @@ const newsData_en = [
   {
     "cat": "Entertainment",
     "title": "Akshay’s escort car meets with accident; rickshaw badly damaged",
-    "desc": "An escort vehicle from Akshay Kumar’s convoy was involved in a collision with an auto-rickshaw on Monday evening. According to reports, Vishwas Nangare Patil, Director General of the Anti-Corruption Bureau, Maharashtra, was present at the accident site and was seen trying to assess the situation. Fortunately, no casualties have been reported so far.",
+    "desc": "An escort vehicle from Akshay Kumar’s convoy was involved in a serious road accident in Mumbai on Monday evening after it reportedly collided with an auto-rickshaw near the actor’s residence in Juhu. According to preliminary reports, at least two people sustained injuries in the incident. Akshay Kumar was not present in the escort car at the time of the accident.",
     "img": "https://static.toiimg.com/photo/msid-126702252,imgsize-46290.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumars-escort-car-meets-with-accident-in-mumbai-auto-rickshaw-badly-damaged-bystanders-help-trapped-man-no-casualties-reported/articleshow/126701901.cms",
     "time": "2026-01-19T17:00:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Priyanka's brother became the collateral damage to her success,' said Madhu Chopra",
+    "desc": "Priyanka Chopra's mother, Madhu Chopra, revealed that her son Siddharth suffered due to Priyanka's early stardom. Madhu's extensive travel to support Priyanka's career meant Siddharth often grew up without significant parental presence. She expressed regret over this, acknowledging him as 'collateral damage' to her daughter's success.",
+    "img": "https://static.toiimg.com/photo/msid-126701962,imgsize-46204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopras-brother-siddharth-chopra-was-the-collateral-damage-to-her-success-revealed-the-actress-mother-madhu-chopra/articleshow/126701835.cms",
+    "time": "2026-01-19T16:56:13.000Z"
   },
   {
     "cat": "Sports",
@@ -106,15 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/make-some-noise-pakistans-ramiz-raja-embarrasses-himself-in-front-of-bangladesh-crowd-watch/articleshow/126699553.cms",
     "time": "2026-01-19T16:35:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US–EU tariff standoff: Treasury chief Scott Bessent warns Europe against Greenland retaliation; dismisses Nobel link as 'canard'",
-    "desc": "America warns European nations against imposing retaliatory tariffs. These tariffs are linked to President Donald Trump's proposed levies on goods from Britain, Denmark, Finland, France, Germany, the Netherlands, Norway, and Sweden. The US views Greenland as a vital strategic asset for national security.",
-    "img": "https://static.toiimg.com/photo/msid-126699405,imgsize-724668.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/useu-tariff-standoff-treasury-chief-scott-bessent-warns-europe-against-greenland-retaliation-dismisses-nobel-link-as-canard/articleshow/126699246.cms",
-    "time": "2026-01-19T16:25:18.000Z"
   },
   {
     "cat": "Entertainment",
@@ -153,15 +297,6 @@ const newsData_en = [
     "time": "2026-01-19T15:42:16.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India–EU Free Trade Agreement: Landmark deal set for signing after 18 years; pact to reshape exports",
-    "desc": "India and the EU are on the verge of sealing a landmark trade deal, marking India’s ninth trade pact in four years as both sides accelerate deal-making amid rising global protectionism. The agreement promises market access gains for Indian goods and services.",
-    "img": "https://static.toiimg.com/photo/msid-126695985,imgsize-76526.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-eu-fta-nears-completion-how-mother-of-all-trade-deals-can-offer-gains-amid-trumps-tariff-uncertainty-explained/articleshow/126694606.cms",
-    "time": "2026-01-19T15:39:29.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'AR Rahman's music belongs to humanity'",
     "desc": "In this candid conversation with ETimes, Shankar Mahadevan opens up about why creators losing rights is the most dangerous collapse point in the music ecosystem, how gatekeeping thrives when power is concentrated, and why music today risks becoming factory output instead of personal expression. He also responds to AR Rahman’s recent remarks on the slowdown of his Bollywood work and explains how Goongoonalo aims to rebuild trust, transparency, and dignity in music-making — without sacrificing commercial relevance.",
@@ -178,15 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/nayanthara-trishas-surprise-reunion-pc-sreeram-slams-misuse-of-state-power-in-jana-nayagan-row-chinmayi-defends-ar-rahman-top-5-south-newsmakers-of-the-day/articleshow/126694162.cms",
     "time": "2026-01-19T15:24:01.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘Unfair &amp; unjustified’: Jaishankar hits out at ‘selectively targeted’ Russian oil tariffs",
-    "desc": "India's External Affairs Minister S Jaishankar held extensive talks with Poland's Deputy Prime Minister Radosław Sikorski, reviewing bilateral cooperation in economy, technology, and defense. Discussions also covered global and regional developments, with both nations emphasizing the need to counter terrorism and selective targeting in trade.",
-    "img": "https://static.toiimg.com/photo/msid-126694100,imgsize-1296171.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indiapoland-ties-jaishankar-reviews-economy-tech-and-defence-cooperation-flags-selective-targeting/articleshow/126694111.cms",
-    "time": "2026-01-19T15:21:24.000Z"
   },
   {
     "cat": "Entertainment",
@@ -223,24 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunjay-kapurs-sister-mandhira-kapur-reacts-to-priya-sachdev-kapurs-defamation-case-on-her-ive-lied-about-nothing/articleshow/126692229.cms",
     "time": "2026-01-19T15:05:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kollam Vigilance Court to pronounce verdict on Unnikrishnan Potti’s bail on Tuesday",
-    "desc": "Though the court may grant bail to Potti in the case involving the gold theft from Dwarapalakas, he will not be released from jail since he is also an accused in the case of gold theft from the door frame",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kollam-vigilance-court-to-pronounce-verdict-on-unnikrishnan-pottis-bail-today/article70526092.ece",
-    "time": "2026-01-19T15:00:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Challenges before Nitin Nabin, as he is poised to take over the BJP",
-    "desc": "The 45-year-old leader has his task cut out, with his immediate challenge being the next round of elections in States including West Bengal, Kerala, Puducherry, Tamil Nadu, and Assam. He may also need to bring in younger leaders to keep the party relevant — without altering its core ideology or base",
-    "img": "https://th-i.thgim.com/public/incoming/tww7rs/article70526244.ece/alternates/LANDSCAPE_1200/20260116346L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/challenges-before-nitin-nabin-as-he-is-poised-to-take-over-the-bjp/article70525512.ece",
-    "time": "2026-01-19T14:56:32.000Z"
   },
   {
     "cat": "Entertainment",
@@ -286,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sapna-bhavani-shares-rare-unseen-photos-of-sushant-singh-rajput-and-ms-dhoni-in-nostalgic-2016-throwback-moment/articleshow/126688796.cms",
     "time": "2026-01-19T14:18:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Simpler tax laws may lift FDI flows; experts flag capital cost relief",
-    "desc": "Tax and economic experts urge the Union Budget to prioritize simpler tax laws and tax neutrality for corporate reorganizations to boost India's FDI appeal. Rationalizing the tax framework and lowering the cost of capital are seen as crucial for attracting sustained foreign investment amidst global uncertainty.",
-    "img": "https://static.toiimg.com/photo/msid-126688227,imgsize-788712.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-simpler-tax-laws-may-lift-fdi-flows-experts-flag-capital-cost-relief/articleshow/126687325.cms",
-    "time": "2026-01-19T14:03:27.000Z"
   },
   {
     "cat": "Entertainment",
@@ -351,15 +450,6 @@ const newsData_en = [
     "time": "2026-01-19T13:24:44.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Karan Aujla announces P-POP CULTURE India run",
-    "desc": "Punjabi music icon Karan Aujla has just ramped up his 2026 India tour, adding five exciting new cities after an incredible surge in ticket sales and fan enthusiasm. The revamped P-POP CULTURE India Tour now covers 12 vibrant locations, with thrilling stadium shows set to redefine the landscape for Punjabi artists in India.",
-    "img": "https://static.toiimg.com/photo/msid-126682777,imgsize-49014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-aujla-announces-p-pop-culture-india-tour-2026-dates-cities-and-full-list-revealed-report/articleshow/126682777.cms",
-    "time": "2026-01-19T13:11:17.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "30-yo Indian Niki Poonacha set for Grand Slam debut at Australian Open",
     "desc": "Indian doubles player Niki Poonacha will make his Grand Slam debut at the Australian Open at age 30, partnering Pruchya Isaro. A late bloomer, Poonacha has risen through the Challenger circuit and earned a wildcard entry. Ranked 144 in doubles, he praised Melbourne’s player-friendly atmosphere and said the experience has motivated him to aim for regular Grand Slam appearances.",
@@ -367,51 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/a-tale-of-late-bloomer-30-year-old-indian-niki-poonacha-set-for-grand-slam-debut-at-australian-open/articleshow/126682596.cms",
     "time": "2026-01-19T13:09:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How BJP is shrinking space for regional parties",
-    "desc": "The Bharatiya Janata Party (BJP) is strategically shrinking the political space for regional parties across India. Recent election results in Maharashtra, Bihar, and Uttar Pradesh demonstrate the BJP's success in weakening rivals through fragmentation, welfare schemes, and narrative control. While regional parties persist, their ability to translate state power into national influence has significantly diminished.",
-    "img": "https://static.toiimg.com/photo/msid-126682951,imgsize-1587217.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/the-squeeze-play-how-bjp-is-shrinking-space-for-regional-parties-decoded/articleshow/126678496.cms",
-    "time": "2026-01-19T13:08:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Fabricated &amp; false': Karnataka DGP after 'compromising' video goes viral; CM Siddaramaiah warns of action",
-    "desc": "Karnataka DGP K Ramachandra Rao faced scrutiny after a video allegedly showing him in a compromising position with women went viral. Rao denied the footage, calling it \"fabricated and false.\" Chief minister Siddaramaiah and other officials promised strict action if wrongdoing was confirmed. Rao stated he would consult his lawyer and clarify the matter with authorities.",
-    "img": "https://static.toiimg.com/photo/msid-126682202,imgsize-302127.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/fabricated-false-karnataka-dgp-after-compromising-video-goes-viral-cm-siddaramaiah-warns-of-action/articleshow/126681939.cms",
-    "time": "2026-01-19T13:00:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bollywood stars who spoke about portion control",
-    "desc": "Bollywood's fitness icons, including Hrithik Roshan, Malaika Arora, and Tara Sutaria, champion portion control for a balanced lifestyle. Roshan showcases visually appealing, balanced meals, while Arora opts for smaller bowls to naturally limit intake. Sutaria emphasizes smart snacking, proving that mindful eating, not deprivation, is key to maintaining health and charisma.",
-    "img": "https://static.toiimg.com/photo/msid-126679420,imgsize-693142.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshan-malaika-arora-tara-sutaria-bollywood-stars-who-spoke-about-portion-control-and-how-they-practice-it/articleshow/126679420.cms",
-    "time": "2026-01-19T12:58:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chandrachur Singh joins 'Bayaan' as corrupt godman",
-    "desc": "In 'Bayaan,' Chandrachur Singh steps into the shoes of a menacing villain opposite Huma Qureshi. This gripping film, which made its debut at the Toronto International Film Festival, tells the story of a dedicated police officer battling against a notorious cult leader under investigation for atrocious acts.",
-    "img": "https://static.toiimg.com/photo/msid-126681438,imgsize-54034.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-bobby-deol-and-jaideep-ahlawat-chandrachur-singh-joins-corrupt-godman-roles-with-bayaan-report/articleshow/126681438.cms",
-    "time": "2026-01-19T12:57:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vir directorial debut to copy Aamir's YouTube PPV strategy",
-    "desc": "Khatarnak Jasoos' theatrical release on Jan 16, 2026. Will they repeat Sitaare Zameen Par's YouTube PPV model from 2025? Vir Das debut likely hits PPV Feb 27 after six weeks. Shot in 31 days, it eyes better revenues than OTT deals.",
-    "img": "https://static.toiimg.com/photo/msid-126680515,imgsize-78934.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/happy-patel-khatarnak-jasoos-vir-das-directorial-debut-to-copy-aamir-khans-youtube-ppv-strategy-for-sitaare-zameen-par-reports/articleshow/126680515.cms",
-    "time": "2026-01-19T12:47:00.000Z"
   },
   {
     "cat": "Sports",
@@ -432,15 +477,6 @@ const newsData_en = [
     "time": "2026-01-19T12:18:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Curiosity about blondes': Teen boy gropes American woman on Delhi metro; family says victim 'overreacting'",
-    "desc": "An American woman experienced sexual harassment on the Delhi Metro when a teenage boy groped her after she agreed to a photo. The boy's mother defended his actions, claiming he was curious about blondes. The incident left the woman deeply disturbed, and her account has sparked condemnation of the family's response and apologies from other Indians.",
-    "img": "https://static.toiimg.com/photo/msid-126678357,imgsize-1313989.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/curiosity-about-blondes-teen-boy-gropes-american-woman-on-delhi-metro-family-says-victim-overreacting/articleshow/126678226.cms",
-    "time": "2026-01-19T12:14:40.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "PSL adopts IPL-style auction; scraps draft system to 'increase transparency'",
     "desc": "The Pakistan Super League will adopt a player auction system from its 11th season, mirroring the Indian Premier League's model. This change, along with an increased franchise purse to USD 1.6 million, aims to boost transparency and competitive balance. Franchises can now retain a maximum of four players, with new teams getting pre-auction picks.",
@@ -448,51 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/psl-adopts-ipl-style-auction-scraps-draft-system-to-increase-transparency/articleshow/126676961.cms",
     "time": "2026-01-19T12:07:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Global growth resilient despite trade and geopolitical risks; top points to know",
-    "desc": "Global growth is projected to remain resilient at 3.3% in 2026 and 3.2% in 2027, buoyed by strong technology and AI-driven investment. Despite easing inflation, risks persist from trade tensions, geopolitical instability, and potential reassessments of AI productivity gains, highlighting a fragile economic balance.",
-    "img": "https://static.toiimg.com/photo/msid-126678149,imgsize-594530.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/imf-world-economic-outlook-report-global-growth-resilient-despite-trade-and-geopolitical-risks-top-points-to-know/articleshow/126678046.cms",
-    "time": "2026-01-19T12:05:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "MBZ's India visit: PM Modi receives UAE president at airport; sign pacts on energy, nuclear reactor, space",
-    "desc": "UAE resident Sheikh Mohamed bin Zayed Al Nahyan received a special welcome from Prime Minister Narendra Modi in New Delhi for a high-level visit. The leaders are set to discuss advancing the India-UAE Comprehensive Strategic Partnership and regional issues, building on recent high-level exchanges and strong bilateral ties.",
-    "img": "https://static.toiimg.com/photo/msid-126678621,imgsize-1416502.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-uae-ties-pm-modi-receives-prez-mbz-at-airport-on-short-2-hr-trip-to-india/articleshow/126677577.cms",
-    "time": "2026-01-19T11:49:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What’s open, what’s closed on Martin Luther King Jr Day 2026 in the US: Banks, schools, post offices, markets, UPS, FedEx, mail and more",
-    "desc": "Americans will observe Martin Luther King Jr Day on January 19, 2026. Many banks, government offices and postal services will close. Financial markets will also be shut. However, ATMs and online banking will function. Retailers and restaurants are expected to remain open. This day honours Dr King's legacy through service and remembrance.",
-    "img": "https://static.toiimg.com/photo/msid-126677510,imgsize-44178.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/us/whats-open-whats-closed-on-martin-luther-king-jr-day-2026-in-the-us-banks-schools-post-offices-markets-ups-fedex-mail-and-more/articleshow/126676811.cms",
-    "time": "2026-01-19T11:40:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Institutional inclusiveness’: Oxfam heaps praise for India’s quota system; terms it way to democratising power",
-    "desc": "Oxfam's latest findings present India's reservation system as an exemplary model for equitable political representation, highlighting the stark contrast with the escalating dominance of the ultra-wealthy globally. By spotlighting quotas for marginalized communities and women, as well as Brazil's participatory budgeting initiatives, the report advocates for empowering everyday citizens and promoting diversified decision-making.",
-    "img": "https://static.toiimg.com/photo/msid-126677298,imgsize-947987.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/institutional-inclusiveness-oxfam-heaps-praise-for-indias-quota-system-terms-it-way-to-democratising-power/articleshow/126677298.cms",
-    "time": "2026-01-19T11:36:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Currency breaches 91 per dollar again; FII outflows, trade jitters bite",
-    "desc": "The rupee weakened for the fourth consecutive session, closing at 90.92 against the US dollar due to sustained foreign fund outflows and global trade uncertainties. Domestic equities also declined, with the Sensex and Nifty falling, further denting investor sentiment amid geopolitical tensions and warnings of new tariffs.",
-    "img": "https://static.toiimg.com/photo/msid-126677297,imgsize-756756.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-fall-currency-breaches-91-per-dollar-again-fii-outflows-trade-jitters-bite/articleshow/126677302.cms",
-    "time": "2026-01-19T11:30:05.000Z"
   },
   {
     "cat": "Entertainment",
@@ -511,15 +502,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/the-chroma-key-to-great-filmmaking-how-green-screen-technology-works/article70473774.ece",
     "time": "2026-01-19T11:09:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What it means for buyers, jewellery shoppers, investors amidst global fluctuations",
-    "desc": "Gold prices in Kuwait stabilised at $4,595 per ounce after a volatile week, closing firmly despite profit-taking. Recent gains were tempered by easing geopolitical tensions and strong US economic data, with the Federal Reserve expected to hold rates steady. Local prices mirror global trends, offering opportunities for buyers and sellers.",
-    "img": "https://static.toiimg.com/photo/msid-126676697,imgsize-593981.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/kuwait-gold-prices-today-explained-what-it-means-for-buyers-jewellery-shoppers-investors-amidst-global-fluctuations/articleshow/126676356.cms",
-    "time": "2026-01-19T11:02:50.000Z"
   },
   {
     "cat": "Sports",
@@ -700,15 +682,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/italian-pm-calls-threatened-us-tariffs-over-greenland-a-mistake/article70522556.ece",
     "time": "2026-01-18T14:27:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Paresh Rawal reacts to AR Rahman's clarification of his 'communal' remark",
-    "desc": "Music maestro AR Rahman clarified his recent remarks on the Hindi film industry, expressing deep affection for India and stating he never intended to cause pain. Actor Paresh Rawal publicly supported Rahman, calling him 'our pride,' though his comment drew mixed reactions online, with some questioning its sincerity and others embracing it as genuine.",
-    "img": "https://static.toiimg.com/photo/msid-126644764,imgsize-24390.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/paresh-rawal-reacts-to-ar-rahmans-clarification-of-his-communal-remark-you-are-our-pride/articleshow/126644793.cms",
-    "time": "2026-01-18T13:45:29.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/indian-hockey-has-thrived-again-and-risen-christopher-ruhr/article70511093.ece",
     "time": "2026-01-14T18:17:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Supreme Court to hear producer’s appeal on January 15",
+    "desc": "The Bench would hear KVN Productions’ challenge against the decision of a two-judge Bench of the High Court to stay a single judge’s order to issue U/A 16+ certificate to the film, hours after it was passed.",
+    "img": "https://th-i.thgim.com/public/incoming/bmfibj/article70510939.ece/alternates/LANDSCAPE_1200/Jana-Nayagan-GEEFDHS0C.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/sc-to-hear-jana-nayagan-producers-on-jan-15/article70510387.ece",
+    "time": "2026-01-14T15:48:43.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Is the government seeking phones’ source code?: Explained",
+    "desc": "What is the issue around the government seeking source code data from companies? What is source code, and why don’t companies want to give access to it? Will keeping the code open for review risk security threats and cyberattacks? What has the government said?",
+    "img": "https://th-i.thgim.com/public/incoming/60jr22/article70506746.ece/alternates/LANDSCAPE_1200/2026-01-13T131933Z_668809866_RC2QUGAJT58P_RTRMADP_3_INDIA-SMARTPHONES.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/is-the-government-seeking-phones-source-code-explained/article70506738.ece",
+    "time": "2026-01-14T03:00:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "The wax world of Madame Tussauds",
+    "desc": "Profound practice rising through a tumultuous revolution and art employed for years of nomadic lifestyle, Madame Tussauds wax works show a rich legacy of art, politics, and entertainment. What is the world behind its opulent interiors?",
+    "img": "https://th-i.thgim.com/public/children/q2ua64/article70456190.ece/alternates/LANDSCAPE_1200/MTH_Logo.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/children/the-wax-world-of-madame-tussauds/article70449130.ece",
+    "time": "2026-01-13T05:30:00.000Z"
   }
 ];
