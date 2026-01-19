@@ -1,6 +1,168 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Nupur's kaleera falls on Kriti at choora ceremony in NEW pics",
+    "desc": "Kriti Sanon glowed at sister Nupur's Udaipur wedding to Stebin Ben. Choora ceremony pics show Kriti joyful as kaleera drops in her hand, sparking marriage buzz. Rumored beau Kabir Bahia posted cozy couple shots. Fans predict Kriti's wedding soon per tradition.",
+    "img": "https://static.toiimg.com/photo/msid-126674142,imgsize-60396.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nupur-sanons-kaleera-falls-on-kriti-sanon-at-choora-ceremony-in-new-photos-from-udaipur-wedding-festivities-with-stebin-ben/articleshow/126674142.cms",
+    "time": "2026-01-19T09:16:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Javed's old statements resurface online amid AR Rahman row",
+    "desc": "Javed Akhtar has weighed in on AR Rahman’s observations about facing workplace obstacles attributed to communal tensions in the film industry. A self-proclaimed atheist, Akhtar took a trip down memory lane to his roots in Awadh, reminiscing about the vibrant Ganga-Jamuni ethos that once characterized the community. Read on to know more.",
+    "img": "https://static.toiimg.com/photo/msid-126673878,imgsize-63678.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/javed-akhtars-old-statements-resurface-online-amid-the-ar-rahman-controversy-i-can-write-rama-and-krishna-aartis/articleshow/126673878.cms",
+    "time": "2026-01-19T09:04:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ashton Kutcher recalls being let go at 178 lbs; Tom Ford now jokes about it",
+    "desc": "In a reflective moment, actor Ashton Kutcher reminisces about his early days in modeling. He shared an eye-opening story about being dismissed by a renowned fashion house for being considered 'overweight' at 178 lbs. Designer Tom Ford, known for his exacting standards, had a specific vision for the runway that Kutcher didn’t quite fit into.",
+    "img": "https://static.toiimg.com/photo/msid-126673580,imgsize-19898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-ranch-star-ashton-kutchers-hilarious-incident-with-tom-ford-when-he-used-to-model-and-then-i-got-fired/articleshow/126673580.cms",
+    "time": "2026-01-19T09:01:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Day of pride’: Nitin Nabin set to file nomination for BJP president; 'Sangathan Parv’ under way",
+    "desc": "Nitin Nabin is poised to become the Bharatiya Janata Party's 12th national president, potentially its youngest. The nomination process unfolds today, with senior leaders backing his bid. This organizational shift, termed Sangathan Parv, signals a renewed focus on youth leadership within the party, aiming for enhanced energy and unity.",
+    "img": "https://static.toiimg.com/photo/msid-126673787,imgsize-692606.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/day-of-pride-nitin-nabin-set-to-file-nomination-for-bjp-president-sangathan-parv-underway/articleshow/126673773.cms",
+    "time": "2026-01-19T08:56:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Family destroyer': Akhilesh Yadav's brother Prateek calls wife Aparna 'bad soul'; to get divorced",
+    "desc": "Prateek Yadav, son of the late Mulayam Singh Yadav, announced his intention to divorce his wife, BJP leader Aparna Bisht Yadav, accusing her of destroying his family relationships and being self-centered. He plans to move court soon, citing his poor mental health and her alleged indifference.",
+    "img": "https://static.toiimg.com/photo/msid-126673711,imgsize-790394.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/family-destroyer-akhilesh-yadavs-brother-prateek-calls-wife-aparna-bad-soul-to-get-divorced/articleshow/126673611.cms",
+    "time": "2026-01-19T08:52:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why Shiv Sena corporators shifted to hotel; who's afraid of whom? asks Shiv Sena (UBT) Raut",
+    "desc": "The Shiv Sena has shifted its 29 members to a hotel in Mumbai, ostensibly for an orientation workshop to make them aware of the functioning of the country's richest civic body, the Brihanmumbai Municipal Corporation (BMC)",
+    "img": "https://th-i.thgim.com/public/incoming/qcpd3e/article70524807.ece/alternates/LANDSCAPE_1200/PTI01_05_2026_000359B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/why-shiv-sena-corporators-shifted-to-hotel-whos-afraid-of-whom-asks-shiv-sena-ubt-raut/article70524757.ece",
+    "time": "2026-01-19T08:40:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Zootopia 2’ earns USD 1.7 billion; surpasses ‘Inside Out 2’",
+    "desc": "Zootopia 2 has achieved a monumental success, becoming the highest-grossing animated film globally with USD 1.7 billion in earnings. This remarkable feat places it ahead of popular titles like Inside Out 2 and The Lion King. The production house celebrated this milestone, crediting the film's deep connection with audiences worldwide and the dedication of its talented filmmaking team.",
+    "img": "https://static.toiimg.com/photo/msid-126673363,imgsize-41910.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zootopia-2-wins-big-in-hollywood-steals-the-highest-grossing-animated-film-title-of-all-time-from-inside-out-2/articleshow/126673363.cms",
+    "time": "2026-01-19T08:36:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shankar Mahadevan REACTS to Rahman's 'people in power' comment",
+    "desc": "AR Rahman's recent reflections on the decline of his Hindi film projects due to 'communal' conflicts and external constraints have stirred significant discussion in the music industry. Artist Shankar Mahadevan has interjected a compelling viewpoint, noting that the destiny of artistic endeavors frequently lies in the hands of non-artistic powers.",
+    "img": "https://static.toiimg.com/photo/msid-126672650,imgsize-36350.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/shankar-mahadevan-responds-to-ar-rahmans-people-in-power-comment-says-i-look-at-it-differently/articleshow/126672650.cms",
+    "time": "2026-01-19T08:32:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "SBI sees $4,000 per capita GNI by 2030; aligns with China, Indonesia",
+    "desc": "India’s climb up the income ladder was slow for decades, taking 60 years to move from low income to lower-middle income. Since then, growth has sharply accelerated, and a likely transition into the upper-middle-income category by around 2030.",
+    "img": "https://static.toiimg.com/photo/msid-126672956,imgsize-100478.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-to-become-upper-middle-income-country-soon-per-capita-income-to-rise-economy-set-to-be-3rd-largest/articleshow/126672553.cms",
+    "time": "2026-01-19T08:26:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Flight operations disrupted as thick fog shrouds Vijayawada and outskirts",
+    "desc": "According to the IMD shallow to moderate fog is likely at isolated pockets over North Coastal Andhra Pradesh and Yanam, while fog or mist is likely at a few places over South Coastal Andhra Pradesh and Rayalaseema on January 20 and 21 as well",
+    "img": "https://th-i.thgim.com/public/incoming/s6omxg/article70524780.ece/alternates/LANDSCAPE_1200/vjkvg-fog%202.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/flight-operations-disrupted-as-thick-fog-shrouds-vijayawada-and-outskirts/article70524431.ece",
+    "time": "2026-01-19T08:21:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Stranger Things’ FINALLY gets a new episode",
+    "desc": "On Saturday Night Live, Finn Wolfhard took the stage alongside Gaten Matarazzo and Caleb McLaughlin to hilariously dissect the latest 'Stranger Things' fan theories and the buzz around potential spin-offs. They crafted a side-splitting skit that whimsically suggested a hidden ninth episode packed with outrageous spin-off ideas, all while effortlessly slipping back into their iconic characters.",
+    "img": "https://static.toiimg.com/photo/msid-126673016,imgsize-19268.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/stranger-things-has-a-new-episode-finn-mike-wolfhard-teases-stranger-things-the-later-years-in-new-snl-sketch/articleshow/126672950.cms",
+    "time": "2026-01-19T08:19:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'face is online'",
+    "desc": "Once a beloved child actress from cherished films like 'Mrs. Doubtfire' and 'Matilda', Mara Wilson has bravely opened up about the horrific misuse of her image in child sexual abuse content online, describing it as a 'living nightmare.",
+    "img": "https://static.toiimg.com/photo/msid-126672758,imgsize-68108.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mrs-doubtfire-actress-mara-wilson-warns-ai-puts-children-at-risk-any-child-whose-face-is-online-/articleshow/126672758.cms",
+    "time": "2026-01-19T08:19:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jesy Nelson, Zion Foster split: Couple to co-parent after breakup",
+    "desc": "Jesy Nelson and fiancé Zion Foster have reportedly ended their engagement, just weeks after revealing their twin daughters' SMA Type 1 diagnosis. While no longer a couple, they are committed to co-parenting their 8-month-old babies. SMA Type 1 is a severe genetic disorder causing progressive muscle weakness, impacting breathing and swallowing in infants.",
+    "img": "https://static.toiimg.com/photo/msid-126672899,imgsize-38346.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/jesy-nelson-and-zion-foster-split-weeks-after-daughters-sma-diagnosis-but-are-united-in-co-parenting-reports/articleshow/126672899.cms",
+    "time": "2026-01-19T08:14:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Dhurandhar’ box office day 46 (LIVE)",
+    "desc": "Aditya Dhar's 'Dhurandhar' continues its remarkable theatrical run, dominating newer releases even on its 46th day. The film achieved a historic milestone on day 40, surpassing 'Pushpa 2' and 'Baahubali 2' in day 4 collections. With impressive week 6 and 7 performances, 'Dhurandhar' is on track to potentially reach Rs 850 crore in India, facing upcoming competition from 'Border 2'.",
+    "img": "https://static.toiimg.com/photo/msid-126672753,imgsize-34614.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-day-46-live-the-ranveer-singh-akshaye-khanna-starrer-has-a-solid-seventh-weekend-crosses-rs-825-crore/articleshow/126672282.cms",
+    "time": "2026-01-19T08:07:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Resort politics brews in Maharashtra; Uddhav Sena's subtle 'poaching' warning — who gets the Mayor's chair?",
+    "desc": "Mumbai's mayoral race is wide open after the BMC elections, with the BJP emerging as the single largest party. While Shiv Sena (UBT) and MNS allied, the BJP's strong performance challenges traditional narratives. The Eknath Shinde-led Sena is eyeing the mayor's post, sparking intense political maneuvering and speculation about power-sharing within the ruling alliance.",
+    "img": "https://static.toiimg.com/photo/msid-126672251,imgsize-1273820.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/resort-politics-brews-in-maharashtra-uddhav-senas-subtle-poaching-warning-who-gets-the-mayors-chair/articleshow/126672069.cms",
+    "time": "2026-01-19T07:43:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Well begun is half done’: Gavaskar dissects India's defeat despite Kohli's brilliance",
+    "desc": "Sunil Gavaskar criticised India's batters for failing to provide solid starts in their ODI series loss to New Zealand. He highlighted the lack of support for Virat Kohli, whose century went in vain. Gavaskar urged younger players to learn pacing and temperament from Kohli, while praising Harshit Rana's lower-order effort.",
+    "img": "https://static.toiimg.com/photo/msid-126672180,imgsize-185024.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/well-begun-is-half-done-sunil-gavaskar-dissects-indias-historic-odi-series-defeat-despite-virat-kohlis-brilliance/articleshow/126671401.cms",
+    "time": "2026-01-19T07:42:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'You cannot deny him the freedom'",
+    "desc": "Composer AR Rahman faced criticism for his remarks on Hindi cinema opportunities and 'communal factors.' Kailas Menon defended Rahman, emphasizing freedom of expression and condemning personal attacks. Rahman later clarified his intentions, stating his music aims to uplift and honor India, his home and inspiration, hoping his sincerity is understood.",
+    "img": "https://static.toiimg.com/photo/msid-126672109,imgsize-57564.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/kailas-menon-defends-ar-rahman-says-those-criticising-music-maestro-are-missing-a-basic-point/articleshow/126672109.cms",
+    "time": "2026-01-19T07:42:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘We didn’t bat long’: Gill's blunt verdict after India's historic ODI series defeat",
+    "desc": "India suffered their first-ever bilateral ODI series defeat at home against New Zealand, with captain Shubman Gill highlighting the inability of batsmen to convert starts into long innings. Fielding lapses also proved costly. Gill, however, sees the loss as clarity rather than crisis, with time to address areas for improvement before the World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-126671125,imgsize-134850.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/we-didnt-bat-long-enough-shubman-gills-blunt-verdict-after-indias-historic-odi-series-defeat-against-new-zealand/articleshow/126671095.cms",
+    "time": "2026-01-19T06:54:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Rashmika opens up about 'Sikandar' saying script was CHANGED",
     "desc": "Rashmika Mandanna revealed 'Sikandar's script underwent significant changes during filming, differing from the initial narration. She acknowledged such alterations are common in filmmaking. The film, which also starred Salman Khan, underperformed at the box office, sparking online discussions about the lead pair's chemistry and the movie's fate.",
     "img": "https://static.toiimg.com/photo/msid-126669773,imgsize-40954.cms",
@@ -18,15 +180,6 @@ const newsData_en = [
     "time": "2026-01-19T05:53:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Karley Scott Collins denies link to Keith Urban; calls speculation 'ridiculous'",
-    "desc": "In a surprising turn of events, the recently finalized divorce of Nicole Kidman and Keith Urban has ignited a media frenzy. Speculations are rampant, particularly around rumors linking Keith to fellow country artist Karley Scott Collins, who has firmly refuted such allegations, labeling them as 'absurd and false.",
-    "img": "https://static.toiimg.com/photo/msid-126669526,imgsize-19034.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/karley-scott-collins-responds-to-link-up-to-keith-urban-says-this-is-absolutely-ridiculous/articleshow/126669526.cms",
-    "time": "2026-01-19T05:45:16.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "BJP MLC Sandip Joshi, close aide of Fadnavis and Gadkari, announces political retirement",
     "desc": "In a letter addressed to well-wishers and posted on his social media handles, the 55-year-old leader said politics had always meant more to him than position or prestige — it was a path of selfless service and dedication",
@@ -37,30 +190,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Kuldeep's form a worry ahead of T20 WC: Modest returns in NZ ODIs highlight fading zing",
+    "title": "Kuldeep's form a worry ahead of T20 WC: Modest returns highlight fading zing",
     "desc": "India's bowlers struggled against New Zealand's centurions, with Kuldeep Yadav's poor form a major concern ahead of the T20 World Cup. Despite past brilliance, Yadav's recent performances have been concerning, raising questions about his current rhythm and effectiveness as the team prepares for the upcoming tournament.",
     "img": "https://static.toiimg.com/photo/msid-126669392,imgsize-176202.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/kuldeep-yadavs-form-a-worry-ahead-of-t20-world-cup-modest-returns-in-nz-odis-highlight-fading-zing-at-crucial-juncture/articleshow/126669377.cms",
     "time": "2026-01-19T05:37:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Tell Me Lies'episode 4 release time, recap, and preview",
-    "desc": "Season 3 of 'Tell Me Lies' delves deeper into Lucy and Stephen's toxic relationship, with old secrets fueling new betrayals. Episode 4, released January 20, escalates the emotional fallout as Lucy seeks an ally and Diana reconnects with Stephen, intensifying group tensions. The series continues its weekly drops, building suspense as past decisions impact present careers and marriages.",
-    "img": "https://static.toiimg.com/photo/msid-126669076,imgsize-833201.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/tell-me-lies-season-3-episode-4-release-time-streaming-schedule-global-timings/articleshow/126669086.cms",
-    "time": "2026-01-19T05:19:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Is ‘His &amp; Hers’ coming back for Season 2?",
-    "desc": "The buzz around a second season of 'His & Hers' is palpable as fans rave about the show's enthralling twists and the mesmerizing performances of Tessa Thompson and Jon Bernthal. Originally crafted as a limited series inspired by Alice Feeney's book, the unforgettable characters and explosive ending left enthusiasts craving further exploration.",
-    "img": "https://static.toiimg.com/photo/msid-126668980,imgsize-25878.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/his-hers-season-2-is-it-happening-what-we-know-so-far-about-the-thrillers-future/articleshow/126668945.cms",
-    "time": "2026-01-19T05:16:28.000Z"
   },
   {
     "cat": "World",
@@ -72,24 +207,6 @@ const newsData_en = [
     "time": "2026-01-19T05:15:23.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Landman Season 2’ finale ending explained: What did the final episode reveal (and what to expect in next season)",
-    "desc": "The 'Landman Season 2' finale saw Tommy Norris fired from M-Tex Oil, leading him to form a new company, CTT Oil Exploration and Cattle, with his son Cooper and T.L. Meanwhile, Cooper narrowly escaped murder charges, and M-Tex faced internal turmoil. The season concluded with Tommy acknowledging future challenges, setting the stage for a more complex Season 3.",
-    "img": "https://static.toiimg.com/photo/msid-126668164,imgsize-47516.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/landman-season-2-finale-ending-explained-what-did-the-final-episode-reveal-and-what-to-expect-in-next-season/articleshow/126668192.cms",
-    "time": "2026-01-19T04:34:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Avatar: Fire and Ash' hits USD 1.3 billion mark",
-    "desc": "Fire and Ash' showed no signs of slowing down, topping the North American box office for the fifth consecutive week over the long holiday weekend, industry estimates showed Sunday. Disney's feel-good animated film 'Zootopia 2' showed its staying power, moving up to third place at USD 12 million over the four-day weekend.",
-    "img": "https://static.toiimg.com/photo/msid-126668111,imgsize-54290.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/avatar-fire-and-ash-rules-over-north-american-box-office-for-fifth-straight-week-hits-usd-1-3-billion-mark/articleshow/126667613.cms",
-    "time": "2026-01-19T04:31:10.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ICC confident approvals on track as 42 Pakistani-origin apply",
     "desc": "The ICC is confident that all T20 World Cup visas for Pakistani origin players, staff, and officials will be secured on time. Despite some recent delays, including for England's spinners, the global body is actively working with Indian missions. Visas for several nations are already processed, with others scheduled soon, aiming for all clearances by January 31.",
@@ -97,33 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-indian-visas-icc-confident-approvals-on-track-as-42-pakistani-origin-players-and-staff-apply/articleshow/126667815.cms",
     "time": "2026-01-19T04:25:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Roger Allers dies at 76; tributes highlight animation legacy",
-    "desc": "Renowned animation director Roger Allers, celebrated for his pivotal role in 'The Lion King,' has passed away at 76. Disney CEO Bob Iger lauded Allers as a visionary whose storytelling prowess defined an era of animation. Allers' extensive career also included contributions to 'The Little Mermaid' and 'Aladdin.",
-    "img": "https://static.toiimg.com/photo/msid-126667956,imgsize-48796.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-lion-king-co-director-roger-allers-passes-away-at-76-fans-and-friends-pay-tribute/articleshow/126667956.cms",
-    "time": "2026-01-19T04:24:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Michelle Pfeiffer and Kurt Russell face grief and wild in 'The Madison'",
-    "desc": "Michelle Pfeiffer and Kurt Russell star in 'The Madison,' a new neo-Western drama set in Montana's wild Madison River valley. The series, premiering March 14, 2026, explores a couple shattered by loss, grappling with deep grief and strained family ties. The first trailer reveals intense emotional turmoil against stunning frontier backdrops, promising raw family drama.",
-    "img": "https://static.toiimg.com/photo/msid-126667806,imgsize-839446.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/kurt-russell-and-michelle-pfeiffer-anchor-a-dark-new-chapter-in-the-yellowstone-universe/articleshow/126667775.cms",
-    "time": "2026-01-19T04:15:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chinmayi REACTS to claims Rahman denied singing 'Maa Tujhe'",
-    "desc": "In a spirited defense, singer Chinmayi Sripaada stood up for the legendary AR Rahman after a journalist accused him of not wanting to perform 'Maa Tujhe Salaam'. Sripaada pointed out that Rahman frequently graces stages with this patriotic anthem, suggesting that perhaps he was under the weather or simply not in the mood that particular day.",
-    "img": "https://static.toiimg.com/photo/msid-126667623,imgsize-47706.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/chinmay-sripaada-strongly-responds-to-claims-alleging-ar-rahman-denied-singing-maa-tujhe-salaam-vande-mataram-in-interview/articleshow/126667623.cms",
-    "time": "2026-01-19T04:12:04.000Z"
   },
   {
     "cat": "Politics",
@@ -171,51 +261,6 @@ const newsData_en = [
     "time": "2026-01-19T03:28:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "All you need to know about Travis Clark’s cheating confession",
-    "desc": "Katie Bates, a familiar face from 'Bringing Up Bates,' is now weathering a storm of personal trials. After tragically losing her third baby, she was dealt another blow with her husband Travis Clark's public admission of infidelity. Facing the fallout, Clark expressed profound remorse over his misplaced actions and the painful breach of trust with his wife.",
-    "img": "https://static.toiimg.com/photo/msid-126667118,imgsize-57154.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bringing-up-bates-star-katie-bates-husband-travis-clark-admits-affair-amidst-pregnancy-loss-heres-what-really-happened/articleshow/126637964.cms",
-    "time": "2026-01-19T03:28:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Justin LIKES 2016 post of him KISSING Selena",
-    "desc": "Justin Bieber's recent 'like' on a 2016 photo of him kissing ex Selena Gomez has sparked fan frenzy amidst a viral throwback trend. This activity, occurring shortly after wife Hailey Bieber shared her own 2016 photos, reignites discussions about the pop star's past relationships. The comment, translating to 'Long live the couple,' has fueled speculation.",
-    "img": "https://static.toiimg.com/photo/msid-126667079,imgsize-15472.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/justin-bieber-likes-2016-post-of-him-kissing-selena-gomez-sparks-fan-frenzy-on-social-media/articleshow/126666580.cms",
-    "time": "2026-01-19T03:26:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bringing up bates couple face fallout after infidelity confession",
-    "desc": "Fans of 'Bringing Up Bates' are stunned after Travis Clark confessed to infidelity just days after his wife Katie Bates announced their pregnancy loss. The couple, who shared a seemingly picture-perfect romance and welcomed two children, had recently celebrated their fourth anniversary. Clark took full blame for breaking his wife's trust, vowing to seek help and accountability.",
-    "img": "https://static.toiimg.com/photo/msid-126666861,imgsize-567958.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/travis-clarks-heartfelt-tribute-to-katie-bates-just-before-shocking-affair-confession/articleshow/126666873.cms",
-    "time": "2026-01-19T03:13:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Zac Efron makes rare public appearance at patriots playoff game",
-    "desc": "Zac Efron made a rare public appearance at Gillette Stadium on January 18, cheering on the New England Patriots during their playoff game against the Houston Texans. The actor posed for photos with owner Robert Kraft, even sporting a Super Bowl ring, adding Hollywood flair to the snowy Foxborough scene.",
-    "img": "https://static.toiimg.com/photo/msid-126666762,imgsize-420211.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zac-efron-surprises-fans-with-rare-outing-at-patriots-texans-clash-game/articleshow/126666774.cms",
-    "time": "2026-01-19T03:08:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vir says 'Happy Patel' budget is less than catering cost of 'Dhurandhar'",
-    "desc": "Khatarnak Jasoos', Vir Das delivers a comedic spin on the spy genre, offering a refreshing contrast to the high-octane action of films like 'Pathaan'. With a wink, Das pointed out that their budget barely scratched the surface compared to the catering costs of major blockbusters.",
-    "img": "https://static.toiimg.com/photo/msid-126666595,imgsize-31526.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vir-das-says-the-happy-patel-khatarnak-jasoos-budget-is-less-than-the-catering-cost-of-dhurandhar/articleshow/126666595.cms",
-    "time": "2026-01-19T03:04:09.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "How should India tackle child trafficking?",
     "desc": "What is the Palermo Protocol? How does the Bhartiya Nyaya Sanhita, 2023 define trafficking? How does the Constitution of India protect children from exploitation? How has the Supreme Court reacted? Why is a strong Centre-State relationship important for countering exploitation?",
@@ -234,49 +279,13 @@ const newsData_en = [
     "time": "2026-01-19T02:50:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kourtney Kardashian’s journey to ‘3 years sobriety’’",
-    "desc": "Celebrating a remarkable journey, Kourtney Kardashian opened up on Instagram Stories about achieving three years of sobriety. Embracing a lifestyle change, she now enjoys gin mocktails in place of traditional cocktails. This milestone comes just after her sister Khloé's bold update about her own life choices, reflecting a family trend towards personal evolution.",
-    "img": "https://static.toiimg.com/photo/msid-126666218,imgsize-26206.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/kourtney-kardashian-reveals-shes-3-years-sober-inside-her-journey-towards-sobriety/articleshow/126665779.cms",
-    "time": "2026-01-19T02:37:08.000Z"
-  },
-  {
     "cat": "Politics",
-    "title": "Operation Trashi-I: Gunfight breaks out in J&amp;K’s Kishtwar; 8 Army personnel injured",
+    "title": "Operation Trashi-I: Paratrooper killed in encounter with terrorists in J&amp;K’s Kishtwar; 8 Army personnel injured",
     "desc": "A fierce gun battle in Kishtwar's remote forests left eight Army personnel injured on Sunday. Security forces engaged two to three suspected foreign terrorists during a search operation. Reinforcements have been deployed, and a massive hunt is underway to neutralize the militants. This marks the third encounter in the Jammu region this year, with intensified operations ahead of Republic Day.",
-    "img": "https://static.toiimg.com/photo/msid-126666127,imgsize-1802734.cms",
+    "img": "https://static.toiimg.com/photo/msid-126666018,imgsize-1208954.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/operation-trashi-i-gunfight-breaks-out-in-jks-kishtwar-8-army-personnel-injured/articleshow/126666018.cms",
     "time": "2026-01-19T02:32:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Allu Arjun's Japanese fan breaks down as he recognizes her",
-    "desc": "The Rule' left fans in awe as he charmingly delivered lines in Japanese. A touching clip of an emotional Japanese admirer who was moved to tears after meeting the South Indian superstar became an internet sensation, earning widespread acclaim for Allu's thoughtful gesture.",
-    "img": "https://static.toiimg.com/photo/msid-126665911,imgsize-45218.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/allu-arjuns-japanese-fan-bursts-into-tears-as-the-superstar-recognizes-her-at-the-pushpa-2-tokyo-event-watch/articleshow/126665911.cms",
-    "time": "2026-01-19T02:19:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘A Knight of the Seven Kingdoms’ reframes Westeros with honour",
-    "desc": "The highly anticipated 'A Knight of the Seven Kingdoms' premieres today, January 19, offering a prequel to 'Game of Thrones.' Set nearly a century before the Iron Throne wars, the series follows the unlikely duo of hedge knight Ser Duncan the Tall and young Prince Aegon Targaryen. Their adventures, rooted in George R.R.",
-    "img": "https://static.toiimg.com/photo/msid-126665648,imgsize-479958.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/a-knight-of-the-seven-kingdoms-airs-today-as-hbo-max-trades-power-plays-for-heart/articleshow/126665647.cms",
-    "time": "2026-01-19T01:46:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "betrayal turns mission upside down",
-    "desc": "The Night Manager Season 2's fourth episode delivered a shocking twist as Richard Roper, presumed dead, reappears alive and well. This revelation shatters Jonathan Pine's mission, exposing a complex plot involving Teddy dos Santos and a manipulated past. Pine's trust in his allies is tested as he confronts the consequences of a long-held secret.",
-    "img": "https://static.toiimg.com/photo/msid-126665597,imgsize-739921.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-night-manager-season-2-episode-4-turns-the-mission-inside-out-as-betrayal-and-bloodlines-push-the-operation-into-free-fall/articleshow/126665604.cms",
-    "time": "2026-01-19T01:40:53.000Z"
   },
   {
     "cat": "World",
@@ -286,24 +295,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/guatemala-gang-violence-prison-takeover-emergency-declared-several-killed-january-19-2026/article70524088.ece",
     "time": "2026-01-19T01:12:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Tom Cruise",
-    "desc": "Hollywood star Tom Cruise shares his wisdom on overcoming fear. He emphasizes continuous effort and taking small steps to achieve goals. Cruise, known for performing his own stunts, believes facing the unknown is key. His advice encourages people to keep working through challenges. This approach has inspired many, reflecting his own career journey.",
-    "img": "https://static.toiimg.com/photo/msid-126665210,imgsize-52220.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-tom-cruise-dont-be-so-worried-if-you-are-afraid-just-keep-working-through-it/articleshow/126665196.cms",
-    "time": "2026-01-19T00:57:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar' ends seventh weekend with Rs 8.5 crore haul",
-    "desc": "Aditya Dhar's 'Dhurandhar', starring Ranveer Singh and Akshaye Khanna, concluded its seventh weekend with a strong Rs 8.5 crore, reversing an earlier slowdown. The film has achieved one of the highest seventh-week performances ever, now standing second on the all-time list. With a staggering Rs 825.1 crore net collection, 'Dhurandhar' is on track to join the Rs 1,000 crore club.",
-    "img": "https://static.toiimg.com/photo/msid-126665107,imgsize-24100.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-45-ranveer-singh-and-akshaye-khanna-continue-impressive-run-with-rs-8-5-crore-seventh-weekend-haul/articleshow/126664996.cms",
-    "time": "2026-01-19T00:43:32.000Z"
   },
   {
     "cat": "Sports",
@@ -396,6 +387,15 @@ const newsData_en = [
     "time": "2026-01-18T21:26:33.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "Rahman says people gaslighted him into believing he's not making good music",
+    "desc": "AR Rahman revealed a deliberate strategy to work on 20-30 films between 2019-2025 to connect with a new generation and counter nostalgic perceptions of his music. He emphasized reinventing himself, dropping formulas, and prioritizing future work over past accolades to maintain motivation and a fresh perspective.",
+    "img": "https://static.toiimg.com/photo/msid-126661208,imgsize-37196.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/2-oscars-can-be-a-burden-says-ar-rahman-revealing-that-people-gaslighted-him-into-believing-hes-not-making-good-music-compared-to-his-earlier-work-like-roja/articleshow/126661210.cms",
+    "time": "2026-01-18T19:48:50.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Advocates cannot seek information under RTI Act for clients' cases: CIC",
     "desc": "The Madras high court had cautioned that otherwise, \"every practising advocate would invoke the provisions of the RTI Act for getting information on behalf of his client\", which \"does not advance the objects of the scheme of the RTI Act",
@@ -468,13 +468,13 @@ const newsData_en = [
     "time": "2026-01-18T19:06:28.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Borrowings of NHAI to fall below 2L cr by March",
-    "desc": "National Highways Authority of India's debt is set to drop below Rs 2 lakh crore by March, a significant fall from its 2021-22 peak. This reduction is driven by increased central government funding and successful road monetisation, allowing NHAI to repay substantial amounts. The authority aims for further debt reduction in coming years.",
-    "img": "https://static.toiimg.com/photo/msid-126660666,imgsize-718706.cms",
+    "cat": "Entertainment",
+    "title": "'Jaya ji ne parliament mein bola tha..': Sunita doesn't want to be just known as Govinda's wife",
+    "desc": "Sunita Ahuja, now forging her own identity beyond being Govinda's wife, shared her aspirations for personal recognition. Citing Jaya Bachchan's parliamentary assertion of her own name, Sunita emphasized her desire to be known as Sunita Ahuja. She also touched upon Govinda's alleged infidelity, stating she would not forgive him if confirmed.",
+    "img": "https://static.toiimg.com/photo/msid-126660553,imgsize-35308.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/lowering-debt-load-borrowings-of-nhai-to-fall-below-2l-cr-by-march/articleshow/126660625.cms",
-    "time": "2026-01-18T19:02:56.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jaya-ji-ne-parliament-mein-bola-tha-jab-unko-jaya-amitabh-bachchan-bulaya-gaya-sunita-ahuja-says-shes-not-just-govindas-wife-has-her-own-identity/articleshow/126660450.cms",
+    "time": "2026-01-18T18:58:11.000Z"
   },
   {
     "cat": "Politics",
@@ -522,15 +522,6 @@ const newsData_en = [
     "time": "2026-01-18T18:12:14.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Reliance says JioMart is on track to be No. 2 in quick commerce",
-    "desc": "JioMart is poised to become India's second-largest quick commerce player, Reliance announced, highlighting significant growth with 1.6 million daily orders in Q4. The platform expanded its reach to 5,000 pin codes, adding millions of new customers. This surge intensifies competition as rivals like Blinkit and Swiggy Instamart prepare their results, with market share becoming a hotly contested metric.",
-    "img": "https://static.toiimg.com/photo/msid-126657875,imgsize-8936.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/reliance-says-jiomart-is-on-track-to-be-no-2-in-quick-commerce/articleshow/126657765.cms",
-    "time": "2026-01-18T18:08:33.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Kerala Kalolsavam 2026",
     "desc": "Kannur won the Gold Cup, scoring 1,028 points, with defending champion Thrissur securing runner-up position with 1,023 points. Kozhikode finishes third with 1,017 points. BSS Gurkulam, Alathur, retains the title for best school with 238 points",
@@ -540,13 +531,13 @@ const newsData_en = [
     "time": "2026-01-18T17:47:35.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Tata Motors flags pressure on entry-level EVs; wants PM E-DRIVE support for fleet segment",
-    "desc": "Tata Motors is urging the government to consider targeted incentives for entry-level electric vehicles and fleet electric cars in the upcoming Union Budget. The company believes these measures, alongside existing support, are crucial for boosting EV adoption and reducing environmental impact, especially as entry-level EVs face significant price pressure.",
-    "img": "https://static.toiimg.com/photo/msid-126655075,imgsize-10850.cms",
+    "cat": "Entertainment",
+    "title": "SRK's King set for release on Christmas 2026?",
+    "desc": "Shah Rukh Khan's highly anticipated film 'King', directed by Siddharth Anand, is reportedly set for a Christmas 2026 release. The ensemble cast includes Deepika Padukone and Abhishek Bachchan. The decision to avoid an earlier date was made to ensure a significant gap from the 'Ramayana' film, allowing both projects ample box office breathing room. An official announcement is expected soon.",
+    "img": "https://static.toiimg.com/photo/msid-126653862,imgsize-35364.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-tata-motors-flags-pressure-on-entry-level-evs-wants-pm-e-drive-support-for-fleet-segment/articleshow/126654987.cms",
-    "time": "2026-01-18T17:40:18.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-abhishek-bachchan-deepika-padukone-starrer-king-set-for-release-in-christmas-2026-makers-to-make-official-announcement-soon-report/articleshow/126653770.cms",
+    "time": "2026-01-18T17:23:50.000Z"
   },
   {
     "cat": "Sports",
@@ -556,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/disappointing-shubman-gills-brutal-verdict-after-indias-historic-odi-series-loss-at-home/articleshow/126653753.cms",
     "time": "2026-01-18T17:22:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Parle’s sales grow in FY25; profitability hit by intense competition",
-    "desc": "Parle Products saw revenue rise in FY25 but profitability declined amid fierce competition. Britannia Industries remained the largest biscuit maker. Mondelez India Foods also experienced a revenue drop. The Indian biscuit market is valued at over a lakh crore and is projected to grow significantly. Regional players are also expanding their reach.",
-    "img": "https://static.toiimg.com/photo/msid-126653523,imgsize-174108.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-biscuit-market-parles-sales-grow-in-fy25-profitability-hit-by-intense-competition/articleshow/126653442.cms",
-    "time": "2026-01-18T17:18:22.000Z"
   },
   {
     "cat": "Sports",
@@ -583,6 +565,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/india-invited-to-sit-on-trumps-board-of-peace-for-gaza/article70523013.ece",
     "time": "2026-01-18T17:07:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kriti Sanon poses with rumoured boyfriend Kabir at Nupur's wedding: PICS",
+    "desc": "Kriti Sanon and Kabir Bahia's rumoured romance is gaining traction after they were spotted together at Nupur Sanon's wedding festivities in Udaipur. Kabir shared photos from the event, including a striking picture with Kriti, who wore a teal gown reportedly designed by her sister. Their joint appearance fuels ongoing speculation about their relationship.",
+    "img": "https://static.toiimg.com/photo/msid-126652359,imgsize-62300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kriti-sanon-poses-with-rumoured-boyfriend-kabir-bahia-as-he-drops-pics-from-nupur-sanon-stebin-bens-wedding-the-brides-reaction-is-priceless-see-insde/articleshow/126651625.cms",
+    "time": "2026-01-18T17:02:41.000Z"
   },
   {
     "cat": "Sports",
@@ -612,6 +603,15 @@ const newsData_en = [
     "time": "2026-01-18T16:26:05.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "'No more old players, today it's corporate': Hariharan, Leslie Lewis react to AR Rahman",
+    "desc": "AR Rahman's recent comments about a potential 'communal thing' affecting his work have sparked reactions from musicians Hariharan and Leslie Lewis. They emphasize the need for artistic sensibility in decision-making roles, lamenting the shift towards corporate thinking over creative judgment in the industry.",
+    "img": "https://static.toiimg.com/photo/msid-126649990,imgsize-34862.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/no-more-old-players-today-its-corporate-hariharan-leslie-lewis-react-to-ar-rahmans-comment-on-getting-less-work-in-bollywood-and-the-communal-remark/articleshow/126649936.cms",
+    "time": "2026-01-18T16:17:09.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Media bodies seek new chairperson for Press Council of India",
     "desc": "‘The term of the 14th Council ended more than a year ago, but the full 15th Council is yet to be formed, and the post of chairman has not been filled,’ several media associations say in a joint statement",
@@ -630,15 +630,6 @@ const newsData_en = [
     "time": "2026-01-18T16:03:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Tamil Nadu government institutes literary award for works in seven Indian languages",
-    "desc": "In the first phase, the best literary works in Tamil, Telugu, Kannada, Malayalam, Odia, Bengali, and Marathi will receive the Semmozhi Literary Award every year. The award will carry a cash prize of ₹5 lakh for each language, Chief Minister M.K. Stalin says at the valediction of Chennai International Book Fair 2026",
-    "img": "https://th-i.thgim.com/public/incoming/jcvn8y/article70524145.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-01-19%20at%2008.35.28%201.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/tamil-nadu-government-institutes-literary-award-for-works-in-seven-indian-languages/article70522529.ece",
-    "time": "2026-01-18T15:54:10.000Z"
-  },
-  {
     "cat": "World",
     "title": "Poland Deputy PM Sikorski",
     "desc": "Ahead of a meeting with External Affairs Minister S. Jaishankar, the Polish Foreign Minister and Deputy Prime Minister says his country is ‘pleased’ with Indian reduction in Russian oil purchases, and hopes for an EU-India FTA next week",
@@ -646,24 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/borders-should-not-be-decided-by-tanks-or-terrorists-poland-deputy-pm-sikorski/article70522432.ece",
     "time": "2026-01-18T15:42:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Noida techie's death: FIR lodged against two builders; family alleges negligence over lack of barricades",
-    "desc": "A software engineer's tragic death in a water-filled pit after his car skidded off a Greater Noida road has led to an FIR against two developers. The victim's family claims their pleas for safety measures at the accident-prone site were ignored. Despite rescue efforts, dense fog hampered visibility, officials stated, as residents protested demanding justice and safety improvements.",
-    "img": "https://static.toiimg.com/photo/msid-126647985,imgsize-595016.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/noida-techies-death-fir-lodged-against-two-builders-family-alleges-negligence-over-lack-of-barricades/articleshow/126647967.cms",
-    "time": "2026-01-18T15:31:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SNDP Yogam, NSS take tentative steps to cooperation",
-    "desc": "The thaw in relations, which has been gradually taking shape since the Global Ayyappa Sangamam in September last year, spills into the public domain, driven by their shared opposition to Leader of the Opposition V.D. Satheesan",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/sndp-yogam-nss-take-tentative-steps-to-cooperation/article70522400.ece",
-    "time": "2026-01-18T15:13:54.000Z"
   },
   {
     "cat": "Sports",
@@ -691,6 +664,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/italian-pm-calls-threatened-us-tariffs-over-greenland-a-mistake/article70522556.ece",
     "time": "2026-01-18T14:27:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Paresh Rawal reacts to AR Rahman's clarification of his 'communal' remark",
+    "desc": "Music maestro AR Rahman clarified his recent remarks on the Hindi film industry, expressing deep affection for India and stating he never intended to cause pain. Actor Paresh Rawal publicly supported Rahman, calling him 'our pride,' though his comment drew mixed reactions online, with some questioning its sincerity and others embracing it as genuine.",
+    "img": "https://static.toiimg.com/photo/msid-126644764,imgsize-24390.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/paresh-rawal-reacts-to-ar-rahmans-clarification-of-his-communal-remark-you-are-our-pride/articleshow/126644793.cms",
+    "time": "2026-01-18T13:45:29.000Z"
   },
   {
     "cat": "World",
@@ -721,57 +703,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "New Zealand batter Mitchell equals Babar, closes in on Kohli's record",
-    "desc": "Daryl Mitchell reached another milestone during the third ODI against India, equalling Babar Azam and Pathum Nissanka for the most 50-plus ODI scores since 2023, with only Virat Kohli ahead. Walking in at 5 for 2, Mitchell played a calm 45 off 50 balls, rebuilding New Zealand’s innings after early losses and guiding them past 90 with controlled batting.",
-    "img": "https://static.toiimg.com/photo/msid-126642225,imgsize-54226.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-new-zealand-batter-daryl-mitchell-equals-babar-azam-closes-in-on-virat-kohlis-elusive-record/articleshow/126641793.cms",
-    "time": "2026-01-18T11:15:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sabalenka stumbles, Zverev wobbles as day one delivers drama",
-    "desc": "The Australian Open has commenced with top players Aryna Sabalenka and Alexander Zverev facing early challenges. The tournament saw record attendance on its opening day. Venus Williams made history as the oldest woman to compete. Carlos Alcaraz is set to begin his campaign to complete his Grand Slam collection. Several seeded players advanced smoothly, while some faced early exits.",
-    "img": "https://static.toiimg.com/photo/msid-126642407,imgsize-124192.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/australian-open-aryna-sabalenka-stumbles-alexander-zverev-wobbles-as-day-one-delivers-drama/articleshow/126642414.cms",
-    "time": "2026-01-18T11:09:21.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Riding cycles of over Rs 10 lakh, India braces for historic chapter with Pune Grand Tour 2026",
     "desc": "India enters a new era in professional cycling with the inaugural Pune Grand Tour, the country’s first UCI 2.2 multi-stage road race. Featuring 171 riders from 35 countries, it is scheduled from January 19 to 23. The five-day event puts India on the global professional cycling map.",
     "img": "https://static.toiimg.com/photo/msid-126642216,imgsize-84920.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/riding-cycles-of-over-rs-10-lakh-india-braces-for-historic-chapter-with-pune-grand-tour-2026/articleshow/126642150.cms",
     "time": "2026-01-18T10:55:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Smith reveals truth behind Babar Azam 'tantrum' claims as BBL drama erupts",
-    "desc": "Steve Smith has dismissed reports of a rift with teammate Babar Azam, clarifying a on-field decision during their Big Bash League match. Smith explained his tactical choice to prioritize a strong Power Surge over a single, which led to his explosive century. The pair were later seen chatting casually, with Smith confirming their good relationship.",
-    "img": "https://static.toiimg.com/photo/msid-126641512,imgsize-91466.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/steve-smith-reveals-truth-behind-babar-azam-tantrum-claims-as-bbl-drama-erupts/articleshow/126641525.cms",
-    "time": "2026-01-18T10:11:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Scary scenes! Ball girl collapses; match stopped at Australian Open",
-    "desc": "A ball girl's collapse due to heat briefly halted an Australian Open match, with players Zeynep Sonmez and Ekaterina Alexandrova offering immediate assistance. Despite the interruption and rising temperatures, Sonmez secured a significant career victory. This incident highlights the challenges of extreme weather at the tournament, with further heat expected.",
-    "img": "https://static.toiimg.com/photo/msid-126641554,imgsize-32170.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/scary-scenes-ball-girl-collapses-match-stopped-at-australian-open/articleshow/126641532.cms",
-    "time": "2026-01-18T10:11:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC steps in as England's Pakistan-origin players receive visas",
-    "desc": "The ICC is streamlining visa processes for Pakistani-origin players and officials traveling to India for the T20 World Cup. Visas for several England and Netherlands players have been cleared, with arrangements for other nations progressing. The ICC aims for all clearances by January 31 to avoid logistical issues.",
-    "img": "https://static.toiimg.com/photo/msid-126640420,imgsize-35364.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-icc-steps-in-as-englands-pakistan-origin-players-receive-visas/articleshow/126640417.cms",
-    "time": "2026-01-18T08:48:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -826,6 +763,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/one-of-fbis-10-most-wanted-fugitives-caught-in-mexico/article70521120.ece",
     "time": "2026-01-18T01:01:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Akshaye is 10/10, but Ranveer is 100/10': Suniel Shetty on 'Dhurandhar'",
+    "desc": "Blockbuster 'Dhurandhar' continues its phenomenal run, crossing Rs 1300 crore globally. Actor Suniel Shetty lauded director Aditya Dhar's vision and praised the cast, calling Akshaye Khanna 'ten on ten' and Ranveer Singh '100 out of 10'. Shetty highlighted Ranveer's controlled performance as particularly challenging and expressed excitement for his potential in future installments.",
+    "img": "https://static.toiimg.com/photo/msid-126627484,imgsize-40822.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshaye-khanna-is-10/10-ranveer-singh-is-100/10-legendary-says-suniel-shetty-as-he-showers-praise-on-aditya-dhars-dhurandhar/articleshow/126627493.cms",
+    "time": "2026-01-17T19:53:09.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +844,59 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/nobel-peace-prize-inseparable-from-laureate-award-body-says-after-trump-gets-medal-from-machado/article70517413.ece",
     "time": "2026-01-16T23:57:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "WPL-4: Radha, Richa, Shreyanka star as RCB maintains perfect run",
+    "desc": "The two batters put on 105 off 66 balls for the fifth wicket after Giants reduce the Bengaluru outfit to 43 for four; the off-spinner claims five while pacer Bell chips in with a three-wicket haul for the winning side",
+    "img": "https://th-i.thgim.com/public/incoming/bqz9u3/article70516302.ece/alternates/LANDSCAPE_1200/PTI01_12_2026_000459A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/wpl-4-radha-richa-shreyanka-star-as-rcb-maintains-perfect-run/article70516303.ece",
+    "time": "2026-01-16T20:50:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "It will be great if the next World title match is India v USA — imagine the interest: Irina Krush",
+    "desc": "The only American woman to become a Grandmaster, Krush has fond memories of India. In this conversation, she talks about wanting to see Gukesh defend his title against Fabiano Caruana, refusing to give up during the 12 years between her first and final GM norms, teaming with Magnus Carlsen, and looking at the silver lining in her struggles with Covid",
+    "img": "https://th-i.thgim.com/public/incoming/1ap25l/article70516341.ece/alternates/LANDSCAPE_1200/GettyImages-1258971082.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/irina-krush-interview-global-chess-league-india-memories/article70516346.ece",
+    "time": "2026-01-16T18:21:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What the Alcaraz-Ferrero split reveals about tennis’ player-coach dynamic",
+    "desc": "The mania around the high-profile breakup shows the evolving nature of the athlete-confidant alliance in an individualistic sport. Coaches used to be support acts to the star. But with on-court coaching now fully legal at all levels, they have moved from backstage to front and centre",
+    "img": "https://th-i.thgim.com/public/incoming/ukm72u/article70516321.ece/alternates/LANDSCAPE_1200/GettyImages-1704083529.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/carlos-alcaraz-juan-carlos-ferrero-split-evolution-of-tennis-coaching/article70516333.ece",
+    "time": "2026-01-16T18:14:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Air India, Singapore Airlines sign deal to offer air travellers more routes, easier connections",
+    "desc": "The collaboration also aims to have closer alignment of flight schedules between Air India and SIA to enhance customer convenience; both airlines codeshare on 61 points in 20 countries and territories; SIA holds a 25.1% equity stake in the Air India Group",
+    "img": "https://th-i.thgim.com/public/business/Industry/nu6bke/article70514327.ece/alternates/LANDSCAPE_1200/AI-Singapore.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/air-india-singapore-airlines-sign-agreement-to-provide-travellers-more-air-routes-loyalty-benefits/article70514320.ece",
+    "time": "2026-01-16T10:59:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Greenland is a territory of Denmark, says Russia, slams ‘double standards’ of Western powers",
+    "desc": "Moscow ⁠said this week that it was ‌unacceptable for ‌the West to keep claiming ‍that Russia and China ‍threatened Greenland, and said that the crisis over the territory showed the double standards ⁠of Western powers",
+    "img": "https://th-i.thgim.com/public/incoming/6ay47a/article70514281.ece/alternates/LANDSCAPE_1200/Greenland_In_Their_Words_68214.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/greenland-is-danish-territory-says-russia/article70514279.ece",
+    "time": "2026-01-16T10:21:51.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Uganda's President Museveni takes commanding lead in early election results",
+    "desc": "Results announced by the electoral commission from January 15, vote showed Mr. Museveni with 76.25% of vote based on tallies from nearly half of the polling ⁠stations. Wine trailed with 19.85%, with the remaining vote split among six other candidates",
+    "img": "https://th-i.thgim.com/public/incoming/wt8oc8/article70513891.ece/alternates/LANDSCAPE_1200/2026-01-13T170023Z_9906309_RC2F0JA98KHZ_RTRMADP_3_UGANDA-ELECTION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/ugandas-president-museveni-takes-commanding-lead-in-early-election-results/article70513837.ece",
+    "time": "2026-01-16T08:00:37.000Z"
   }
 ];

@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "লতা মঙ্গেশকর-অমিত কুমারের হিট গান, সব ‘কাপল’-দেরই ফেভারিট, প্রেমে পড়ে গিয়েছিলেন নায়ক-নায়িকাও",
+    "desc": "যখন কেউ প্রেমে পড়ে, তখন সুন্দর স্বপ্ন দেখে। আপনি হয়তো দেখেছেন, কিন্তু জীবনের দৌড়ঝাঁপে সেই স্বপ্নগুলো কোথাও যেন হারিয়ে যায়। এই ব্যস্ততার মধ্যে একটা গান গত ৪৬ বছর ধরে কাপলদের রোম্যান্টিক স্বপ্ন দেখতে শেখাচ্ছে। আমরা ১৯৮১ সালে মুক্তি পাওয়া ফিল্ম ‘লভ স্টোরি’-র গান ‘দেখো ম্যানে দেখা হ্যায় এক সপনা’-র কথা বলছি, যেটা লতা মঙ্গেশবকর আর অমিত কুমার গেয়েছিলেন। এর লিরিক্স আনন্দ বক্সী লিখেছিলেন। বলা হয়, ফিল্মের লিড স্টার বিজেতা পন্ডিত আর কুমার গৌরব বাস্তব জীবনেও একে অপরের প্রেমে পড়ে গিয়েছিলেন। তাঁরা বিয়ে করতে চেয়েছিলেন, কিন্তু কুমার গৌরবের বাবা রাজেন্দ্র কুমার এই বিয়ের বিরুদ্ধে ছিলেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Kumar-Gaurav-Song-2026-01-f21ad4fd2a9bd6b794da3fafbc030ba4-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/entertainment/love-story-lata-mangeshkar-amit-kumar-song-dekho-maine-dekha-hai-ye-ek-sapna-featuring-kumar-gaurav-vijeta-pandit-ss-2503610.html",
+    "time": "2026-01-19T08:35:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বন্দে ভারত স্লিপার ট্রেনে টিকিট বাতিল মানেই বড় লোকসান! জানুন নতুন কড়া নিয়ম",
+    "desc": "বন্দে ভারত স্লিপার ট্রেন চালুর আগে যাত্রীদের জন্য জারি হল গুরুত্বপূর্ণ নির্দেশিকা। কনফার্ম টিকিট বাতিলের ক্ষেত্রে রিফান্ড সংক্রান্ত নিয়মে বড়সড় পরিবর্তন আনছে ভারতীয় রেলওয়ে। নতুন ব্যবস্থায় নির্দিষ্ট সময়ের পরে টিকিট ক্যানসেল করলে যাত্রীদের আর কোনও অর্থ ফেরত মিলবে না, ফলে যাত্রার পরিকল্পনার আগে এই নিয়মগুলি জানা অত্যন্ত জরুরি হয়ে উঠেছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/vande-bharat-sleeper-2026-01-fdfcd417c099c268f96356f2b25c731d-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/no-refunds-for-canceling-confirmed-tickets-learn-these-rules-for-vande-bharat-sleeper-trains-major-change-in-refund-for-ticket-cancellation-tib-ws-l-2503620.html",
+    "time": "2026-01-19T08:28:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "কম্পিটিশনে দেদার বিয়ার, জেতার নেশায় চিরঘুমেই চলে গেলেন ২ সফটওয়্যার ইঞ্জিনিয়ার! সর্বনাশী সুরা...",
+    "desc": "পুলিসের দেওয়া তথ্য অনুযায়ী, সংক্রান্তি উদযাপন করতে ছয় বন্ধু মিলে কে.ভি. পাল্লি মণ্ডলের বান্দাভাড্ডিপল্লী গ্রামে একত্রিত হয়েছিলেন। উৎসবের মেজাজে চলা এই পার্টির এক পর্যায়ে দুই সফটওয়্যার পেশাদার, ৩৪ বছর বয়সী মণিকুমার এবং ২৬ বছর বয়সী পুষ্পরাজ, একে অপরের সাথে মদ্যপানের প্রতিযোগিতায় মেতে ওঠেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/two-software-techies-die-after-binge-drinking-with-friends-in-sankranti-party_636086.html ",
+    "time": "2026-01-19T08:19:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ভারতীয় দলের অন্দরে নতুন সমীকরণ নাকি! সিনিয়র তারকার ফ্লপ শো ঢাকতে অল আউট ঝাঁপালেন শুভমান",
+    "desc": "রোহিতের কথা বলতে গেলে, অস্ট্রেলিয়ার বিরুদ্ধে তিন ম্যাচের সিরিজে ২০০ জনেরও বেশি রান করে তিনি সিরিজ সেরা খেলোয়াড়ের খেতাব জিতেছিলেন। এরপর, তিনি দক্ষিণ আফ্রিকার বিপক্ষে দুটি অর্ধশতক এবং বিজয় হাজারে ট্রফিতে মুম্বইয়ের হয়ে ১৫৫ রানের একটি ইনিংস করেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Shubhman-Gill-2026-01-77682f4319cf84c40773a04c05c7db63-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/ind-vs-nz-shubman-gill-defends-star-indian-batsman-for-not-scoring-runs-back-during-lean-patch-against-new-zealand-dd-2503294.html",
+    "time": "2026-01-19T07:03:36.000Z"
+  },
+  {
     "cat": "World",
     "title": "স্পেনে ভয়াবহ ট্রেন দুর্ঘটনা ! প্রচণ্ড গতিতে লাইনচ্যুত যাত্রিবাহী ট্রেন, চালক-সহ মৃত্যু ২১ জনের",
     "desc": "রবিবার সন্ধ্যাবেলা, মালাগা থেকে মাদ্রিদের উদ্দেশে আসছিল ওই হাই-স্পিড ট্রেনটি। ট্রেনে ছিলেন প্রায় ৩০০ যাত্রী। কর্ডোবা শহরের কাছে, লাইনচ্যুত হয়ে পাশের ট্র্যাকে চলে যায় সেটি। ওই ট্র্যাক দিয়েই মাদ্রিদের দিক থেকে আসছিল আরেকটি ট্রেন। সেইসময়ই মুখোমুখি সংঘর্ষ হয় দুটি ট্রেনের।",
@@ -630,15 +666,6 @@ const newsData_bn = [
     "time": "2026-01-15T10:46:30.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "দলীয় কার্যক্রমকে ঢাল করে অভিযুক্তদের আড়াল করা যায় না! I-PAC মামলায় বিস্ফোরক সুপ্রিম নোটিস...",
-    "desc": "কপিল সিব্বল ও অভিষেক সিংভি বলেছেন - ইডির আবেদন গ্রহনযোগ্য নয়। ইডি আসলে তদন্তের নামে নির্বাচনের সময় রাজনৈতিক তথ্যে হস্তক্ষেপ করতে চেয়েছিল। কলকাতা হাইকোর্টে শুনানির সময়েও তৃণমূল কংগ্রেস তাদের সদস্যদের আদালতে পৌছতে নির্দেশ দেয়। সে কথা আদালতের কার্যবিবরণীতে উল্লেখ করা হয়েছে",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/ed-stated-that-alleged-person-can-not-hide-in-the-name-of-party-in-ipac-raid-issue-in-supreme-court_635217.html ",
-    "time": "2026-01-15T09:27:25.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "সরস্বতী পুজোর পরের দিনই বাংলার ঘরে ঘরে খাওয়া হয় গোটা সিদ্ধ... কেন এই বিশেষ রীতি, জানুন",
     "desc": "আবার এর পিছনে রয়েছে বৈজ্ঞানিক কারণও৷ এই সময় যেহেতু পক্স হয় তাই গোটা সেদ্ধ খেয়ে শরীর ঠান্ডা রাখা হয়৷ ডাক্তাররাও তাই এই খাবারকে বলেন কমফর্ট ফুড৷ যেহেতু ষষ্ঠী তাই এই সময়কার ৬ রকম মরশুমি সব্জি একসঙ্গে গোটা সেদ্ধ করে খাওয়া হয় বলে একে বলা হয় গোটা সেদ্ধ৷",
@@ -673,15 +700,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/iranian-currency-vs-indian-rupee-do-you-know-how-much-iranian-rials-you-will-get-for-1-lakh-indian-rupees-in-todays-rate-the-exact-amount-is-shocking-know-surprising-fact-sanj-2497281.html",
     "time": "2026-01-15T07:57:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "মমতা যা করেছেন এটা শুধু চুরি নয়, ডাকাতি! সিবিআই তদন্ত চাই...সুপ্রিম কের্টে ইডি...",
-    "desc": "৬:৩০ তে তল্লাশি শুরু। ১১:৩০ তে ইমেইল করা হয়। এটা কী করে করা হতে পারে? ধামাচাপা দেওয়ার চেষ্টা করছে ইডি। মুখ্যমন্ত্রী জেড প্লাস নিরাপত্তা পান। তাকে অজ্ঞাতপরিচয় ব্যক্তি বলে উল্লেখ করা হয়েছে। তিনি গেলে তো আধিকারিকরা যাবেনই।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/ed-needs-cbi-investigation-on-ipac-raids-issue-as-there-is-massive-massacre-in-raids_635178.html ",
-    "time": "2026-01-15T07:46:50.000Z"
   },
   {
     "cat": "Politics",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/bangladesh-news-awami-leagues-leader-arrested-in-student-protest-dies-in-police-custody-sta-2493012.html",
     "time": "2026-01-12T15:01:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "কোনও RAC নেই, কোনও VIP Quota নেই...হাওড়া-গুয়াহাটি বন্দে ভারত স্লিপার ট্রেনের কী নিয়ম জানেন? ভাড়াই বা কত?",
-    "desc": "বন্দে ভারত স্লিপার ট্রেনে মোট ১১টি কোচ থাকবে। এর মধ্যে রয়েছে পাঁচটি ৩টি এসি কোচ, চারটি ২টি এসি কোচ এবং একটি ১টি এসি কোচ। ট্রেনটিতে মোট ৮২৩টি বার্থ থাকবে, যার মধ্যে ৩টি এসি কোচে ৬১১টি, ২টি এসি কোচে ১৮৮টি এবং ১টি এসি কোচে ২৪টি আসন থাকবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ydne-2026-01-12T194309.692-2026-01-70fe6b41aad92955576b4f16ae67be95-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/vande-bharat-sleeper-howrah-to-kamakhya-no-rac-no-vip-quota-what-is-the-train-fare-of-3ac-2ac-coaches-sta-2492741.html",
-    "time": "2026-01-12T14:14:38.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "অপ্রয়োজনেই ব্লুটুথ অন? মুহূর্তে খালি হতে পারে ব্যাঙ্ক অ্যাকাউন্ট!",
-    "desc": "এছাড়া, পরের বার ইয়ারফোন বা স্পিকার কানেক্ট করার সময় আবার ব্লুটুথ চালু করতে হয় না। কিন্তু জানলে অবাক হবেন, সবসময় ব্লুটুথ চালু রাখলে আপনার ব্যাঙ্ক অ্যাকাউন্টও ফাঁকা হয়ে যেতে পারে। স্ক্যামাররা এই সুযোগের সুযোগ নিয়ে আপনাকে বড়সড় ক্ষতির মুখে ফেলতে পারে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1768223259_Bluetooth-2026-01-d27b20fb32cd5ec4da2b5657a23514c5-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/technology/does-your-mobile-bluetooth-on-for-no-reason-hackers-can-access-personal-data-in-public-how-to-safe-smc-2492772.html",
-    "time": "2026-01-12T13:24:34.000Z"
   }
 ];

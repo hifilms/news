@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "હોમ લોન જલ્દી ચુકવવાની સૌથી સ્માર્ટ ફોર્મ્યુલા, રીપેમેન્ટની આ ટ્રિક્સ બદલી દેશે તમારી લાઇફ",
+    "desc": "દર મહિને EMI ભરતા-ભરતા તમને લાગે છે કે હોમ લોન તમારા જીવનને કંટ્રોલ કરી રહી છે, તો તમે એકલા નથી. પરંતુ શું ખરેખર 20-25 વર્ષ સુધી EMI આપવો જરૂરી છે? કેટલાક સ્માર્ટ નિર્ણય અને સાચી રણનીતિ અપનાવી તમે આ ભારમાંથી જલ્દી છુટકારો મેળવીશકો છો. આવો તેના વિશે જાણીએ..",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/smartest-formula-for-paying-off-your-home-loan-quickly-these-repayment-tricks-can-change-your-life-462196 ",
+    "time": "2026-01-19T09:19:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "એવી કઈ વસ્તુ છે, જે છે તમારી પણ ઉપયોગ કરે છે કોઈ બીજું ? જાણી લો જવાબ",
+    "desc": "એવી કઈ વસ્તુ છે, જે તમારી છે પણ તેનો ઉપયોગ કોઈ બીજું કરે છે ? ત્યારે આ લેખમાં અમે તમને આ પ્રશ્નનો જવાબ આપીશું અને સાથે જ આવા બીજા અન્ય કેટલાક પ્રશ્નો અને જવાબો જણાવીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/gk-quiz-do-you-know-what-is-that-thing-which-is-yours-but-used-by-others-462192 ",
+    "time": "2026-01-19T08:33:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "બોર્ડર ફિલ્મ આ ઓટીટી પ્લેટફોર્મ પર થઈ રહી છે સ્ટ્રીમ, દેશભક્તિની યાદ કરી લો તાજી",
+    "desc": "દેશભક્તિની ફિલ્મો માટે 90 નો દાયકો ગોલ્ડન એરા હતો. જેમાં સૌથી બેસ્ટ ફિલ્મ હતી બોર્ડર. ગણતરીના દિવસોમાં બોર્ડર 2 ફિલ્મ રિલીઝ થવાની છે ત્યારે મેકર્સે સની દેઓલની દમદાર ફિલ્મ બોર્ડર ઓટીટી પર સ્ટ્રીન કરી દીધી છે. જેથી ચાહકો ફરી એકવાર દેશભક્તિની યાદો તાજી કરી શકે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/sunny-deol-patriotic-film-border-on-ott-amazon-prime-462182 ",
+    "time": "2026-01-19T06:50:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રોહિત શર્મા ODIમાંથી પણ લેશે નિવૃત્તિ ? ન્યુઝીલેન્ડ સામેના ફ્લોપ શો બાદ ઉભા થયા સવાલ",
+    "desc": "ન્યુઝીલેન્ડ સામેની ODI શ્રેણીમાં રોહિત શર્માનું પ્રદર્શન નિરાશાજનક રહ્યું. સારી શરૂઆત છતાં તે ત્રણ મેચમાં તેને મોટા સ્કોરમાં રૂપાંતરિત કરવામાં નિષ્ફળ ગયો અને શ્રેણીનો અંત અડધી સદી વિના કર્યો. તેના ફોર્મ અને ભવિષ્યને લઈને સોશિયલ મીડિયા પર નિવૃત્તિ અંગે ચર્ચાઓ શરૂ થઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rohit-sharma-odi-retirement-speculation-after-ind-vs-nz-odi-series-defeat-462181 ",
+    "time": "2026-01-19T06:41:39.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "હર્ષિત રાણા શાનદાર રમી રહ્યો હતો, ત્યાં કોચ ગંભીરનો એક મેસેજ અને પડી વિકેટ, જાણો શું છે સમગ્ર ઘટના",
     "desc": "ઇન્દોરના હોલ્કર સ્ટેડિયમમાં રમાયેલી મેચમાં સ્ટાર બેટ્સમેન વિરાટ કોહલી અને હર્ષિત રાણાએ 99 રનની શાનદાર ભાગીદારી નોંધાવી. જ્યાં સુધી આ બંને રમી રહ્યા હતા, ત્યાં સુધી લાખો ભારતીય ચાહકોની આશા જીવંત હતી. બધું બરાબર ચાલી રહ્યું હતું, ત્યાં કોચ ગંભીરનો એક મેસેજ અને મેચની દિશા બદલાઈ ગઈ.",
@@ -270,24 +306,6 @@ const newsData_gu = [
     "time": "2026-01-17T04:06:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "મહારાષ્ટ્રમાં લહેરાયો ભાજપનો ભગવો, મુંબઈમાં 3 દાયકા જૂનો &amp;#039;ઠાકરે કિલ્લો&amp;#039; ધરાશાયી; દિલ્હી, મહારાષ્ટ્ર અને હવે મુંબઈમાં પણ ભાજપ",
-    "desc": "મહારાષ્ટ્રમાં ફરી એકવાર ભાજપનો જલવો અકબંધ રહ્યો છે. વિધાનસભાની ચૂંટણીના પરિણામ બાદ મહારાષ્ટ્રના લોકોએ ફરીવાર ભાજપને ખોબલે ખોબલે વોટ આપ્યા છે. BMC, ઉપરાંત પૂણે, નાગપુર, સોલાપુર સહિત મોટા ભાગની મહાનગરપાલિકામાં ભાજપનો ભગવો લહેરાયો છે. 29 કોર્પોરેશનમાંથી 23 કોર્પોરેશન પર ભાજપ અને તેના સાથી પક્ષોએ ભવ્ય જીત મેળવી છે. જ્યારે ઉદ્ધવ અને રાજ ઠાકરેની જોડી નકામી સાબિત થઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/maharashtra-municipal-election-results-bjp-wins-bmc-thackeray-fort-collapsed-461905 ",
-    "time": "2026-01-16T17:12:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મહારાષ્ટ્રમાં કોંગ્રેસે બચાવી લાજ ! ભગવા લહેર વચ્ચે આ નગરપાલિકામાંથી રાહુલ ગાંધીને મળ્યા સારા સમાચાર",
-    "desc": "મહારાષ્ટ્રમાં ભગવા લહેરથી ઠાકરે અને પવાર છાવણીમાં તેમજ કોંગ્રેસમાં નિરાશા ફેલાઈ ગઈ છે. જોકે, પાર્ટી નેતા રાહુલ ગાંધીને મહારાષ્ટ્રમાંથી કેટલાક સારા સમાચાર મળ્યા છે. ભાજપના પ્રદેશ પ્રમુખની અજાણતા મદદને કારણે, કોંગ્રેસે જંગી જીત મેળવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/amidst-the-saffron-wave-in-maharashtra-congress-got-good-news-from-this-municipality-461895 ",
-    "time": "2026-01-16T15:53:07.000Z"
-  },
-  {
     "cat": "Business",
     "title": "કેન્દ્ર સરકારના કર્મચારીઓ માટે જબરદસ્ત છે આ યોજના, સરકાર પુરૂ કરશે પોતાના ઘરનું સપનું !",
     "desc": "આ સુવીધા કેન્દ્ર સરકારના કાયમી કર્મચારીઓ માટે ઉપલબ્ધ છે. ચોક્કસ શરતો દ્વારા કામચલાઉ કર્મચારીઓ પણ આ યોજનાનો લાભ લઈ શકે છે. જો કે, કેન્દ્ર સરકારના કર્મચારીએ ઓછામાં ઓછા પાંચ વર્ષ સરકારી સેવા પૂર્ણ કરી હોય તે જરૂરી છે.",
@@ -295,15 +313,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/this-scheme-is-great-for-central-government-employees-the-government-will-fulfill-their-dream-of-owning-a-house-461881 ",
     "time": "2026-01-16T13:32:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "આ ક્રિકેટરને તેના ફોર્મને કારણે ક્યારેય ટીમ ઈન્ડિયામાંથી નથી કરવામાં આવ્યો બહાર, ભારતને જીતાડી ચુક્યો છે બે વર્લ્ડ",
-    "desc": "પોતાના ડેબ્યૂથી લઈને નિવૃત્તિ સુધી, ભારત પાસે એક દિગ્ગજ ક્રિકેટર છે જેને તેના ફોર્મને કારણે ક્યારેય ટીમ ઈન્ડિયામાંથી બહાર કરવામાં આવ્યો નથી. આ ક્રિકેટર ફક્ત ભારતમાં જ નહીં પરંતુ વિશ્વભરના દરેક ક્રિકેટ ચાહકોના દિલ પર રાજ કરે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/this-cricketer-has-never-been-dropped-from-team-india-due-to-his-form-he-has-won-india-two-world-cups-461872 ",
-    "time": "2026-01-16T12:08:20.000Z"
   },
   {
     "cat": "Business",
@@ -331,15 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/how-does-india-safely-evacuate-its-citizens-during-wartime-461854 ",
     "time": "2026-01-16T08:51:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ત્રીજી વનડેમાં આ ખૂંખાર ક્રિકેટરને મોકો આપવો જરૂરી, નહીં તો હાથમાંથી નીકળી જશે સિરીઝ!",
-    "desc": "ભારત અને ન્યુઝીલેન્ડ વચ્ચે ત્રણ મેચની વનડે ઇન્ટરનેશનલ સિરીઝનો ત્રીજો અને અંતિમ મુકાબલો ઈન્દોરના હોલકર સ્ટેડિયમમાં રવિવાર, 18 જાન્યુઆરીએ રમાશે. ન્યુઝીલેન્ડ સામે વડોદરામાં રમાયેલ પ્રથમ મુકાબલો ભારતે 4 વિકેટે જીત્યો હતો. જ્યારે રાજકોટમાં રમાયેલ બીજી મેચમાં ન્યુઝીલેન્ડ વળતો પ્રહાર કરતા ભારતને 7 વિકેટે હરાવ્યું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/its-crucial-to-give-this-formidable-cricketer-a-chance-in-the-third-odi-otherwise-the-series-will-slip-away-461842 ",
-    "time": "2026-01-16T08:25:29.000Z"
   },
   {
     "cat": "Entertainment",
@@ -538,14 +538,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/x-will-no-longer-display-explicit-content-following-government-pressure-action-has-been-taken-against-over-600-accounts-461242 ",
     "time": "2026-01-11T05:00:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "&amp;#039;મિર્ઝાપુર ધ ફિલ્મ&amp;#039;માં ફરી જોવા મળશે આ પાત્ર, પહેલી સીઝનમાં થયું હતું મોત",
-    "desc": "તમે પહેલાથી જ જાણો છો કે મિર્ઝાપુર પર આધારિત એક ફિલ્મ બનવા જઈ રહી છે. પરંતુ આ ફિલ્મમાં એક પાત્રનું પાછુ આવશે જેનું સિઝન 1 માં મૃત્યુ થયું હતું. પાત્રે પોતે જ તેની વાપસીની જાહેરાત કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/this-character-will-be-seen-again-in-mirzapur-the-film-he-died-in-the-first-season-461190 ",
-    "time": "2026-01-10T15:40:03.000Z"
   }
 ];

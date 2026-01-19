@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Very, very good innings': Sunil Gavaskar hails star India pacer after third ODI against New Zealand",
+    "desc": "The three-game ODI series between India and New Zealand came to an end with the Black Caps clinching the series. Taking on the Men in Blue on their turf, New Zealand managed to win the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/very-very-good-innings-sunil-gavaskar-hails-star-india-pacer-after-third-odi-against-new-zealand-2026-01-19-1026502",
+    "time": "2026-01-19T09:02:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Iyer, Rinku IN, 4 players left out: Complete list of changes in India's T20I squad for New Zealand series",
+    "desc": "After a highly competitive ODI series, India and New Zealand will lock horns in the five-match T20I series, starting from January 21. This is the last series for both teams before the T20 World Cup,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/iyer-rinku-in-4-players-left-out-complete-list-of-changes-in-india-s-t20i-squad-for-new-zealand-series-2026-01-19-1026498",
+    "time": "2026-01-19T08:04:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch AFG vs WI T20I series on TV and streaming in India?",
+    "desc": "The stage is set for a three-game T20I series between Afghanistan and the West Indies. The two sides will hope for their best performances in the series with the T20 World Cup right around the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-vs-west-indies-live-when-and-where-to-watch-afg-vs-wi-t20i-series-on-tv-and-streaming-in-india-2026-01-19-1026495",
+    "time": "2026-01-19T08:00:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan's domestic cricket team break 232-year-old world record, defend 40 runs successfully",
+    "desc": "Pakistan TV (PTV) pulled off the lowest successful defence in the history of first-class cricket last week in the ongoing President's Trophy as they broke the 232-year-old world record. They stunningly defended a target of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-s-domestic-cricket-team-break-232-year-old-world-record-defend-40-runs-successfully-2026-01-19-1026485",
+    "time": "2026-01-19T07:00:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Which team will replace Bangladesh if they opt out of T20 World Cup 2026?",
+    "desc": "The situation between India and Bangladesh regarding the T20 World Cup 2026 has been a major talking point in the world of sports of late. Due to the political tensions between the two countries, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/which-team-will-replace-bangladesh-if-they-opt-out-of-t20-world-cup-2026-2026-01-19-1026480",
+    "time": "2026-01-19T06:41:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Childish statement': Manoj Tiwary weighs in on India-Bangladesh controversy ahead of T20 World Cup 2026",
     "desc": "The T20 World Cup 2026 is looming on the horizon; the marquee event is all set to kick off on February 7 and will be co-hosted by India and Sri Lanka. With the event approaching,...",
     "img": "",
@@ -34,59 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-vs-sachin-tendulkar-stats-comparison-after-85-international-centuries-2026-01-19-1026453",
     "time": "2026-01-19T03:52:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'No one supported him': Former India cricketer points out lack of support for Virat Kohli after third ODI loss",
-    "desc": "The third and final ODI of the ongoing multi-format series between India and New Zealand was won by the visitors. The two sides locked horns in the third ODI at the Holkar Stadium in Indore...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/no-one-supported-him-former-india-cricketer-points-out-lack-of-support-for-virat-kohli-after-third-odi-loss-2026-01-19-1026441",
-    "time": "2026-01-19T02:35:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pape Gueye propels Senegal to AFCON win against Morocco in controversial summit clash",
-    "desc": "The AFCON final saw Senegal take on Morocco. The two sides locked horns at the Prince Moulay Abdellah Stadium on January 19, and the final will go down as one of the most controversial finals...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/pape-gueye-propels-senegal-to-afcon-win-against-morocco-in-controversial-summit-clash-2026-01-19-1026433",
-    "time": "2026-01-19T01:33:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vidarbha beat Saurashtra in to lift maiden Vijay Hazare Trophy trophy as Atharva Taide slams hundred in final",
-    "desc": "Vidarbha defeated Saurashtra in the final of the Vijay Hazare Trophy 2025/26 as Atharva Taide slammed a scintillating hundred in a 38-run comfortable victory to seal their maiden Vijay Hazare Trophy title on Sunday. Taide slammed a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vidarbha-beat-saurashtra-in-to-lift-maiden-vijay-hazare-trophy-trophy-as-atharva-taide-slams-hundred-in-final-2026-01-19-1026425",
-    "time": "2026-01-18T18:36:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When will Virat Kohli and Rohit Sharma play next match for India after conclusion of IND vs NZ ODI series?",
-    "desc": "Virat Kohli and Rohit Sharma were in action in the recently-concluded ODI series against New Zealand as fans got the chance to watch their favourite cricketers donning the Indian jersey in the three ODIs. India...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/when-will-virat-kohli-and-rohit-sharma-play-next-match-for-india-after-conclusion-of-ind-vs-nz-odi-series-2026-01-18-1026424",
-    "time": "2026-01-18T18:27:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How many centuries Virat Kohli need to break Sachin Tendulkar's world record of international tons?",
-    "desc": "Indian icon Virat Kohli continued his Midas touch in ODI cricket as he slammed a stellar hundred in the third match of the series against New Zealand on Sunday, January 18. Kohli hit 124 in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-many-centuries-virat-kohli-need-to-break-sachin-tendulkars-world-record-of-international-tons-2026-01-18-1026420",
-    "time": "2026-01-18T16:44:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli's stellar ton goes in vain as New Zealand register first-ever ODI series win in India",
-    "desc": "Virat Kohli's brilliant hundred in the third ODI at the Holkar Cricket Stadium went in vain as New Zealand defeated the Men in Blue in the series decider by 41 runs. With this victory, the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-s-stellar-ton-goes-in-vain-as-new-zealand-register-first-ever-odi-series-win-in-india-2026-01-18-1026417",
-    "time": "2026-01-18T16:03:30.000Z"
   }
 ];
