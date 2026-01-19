@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Childish statement': Manoj Tiwary weighs in on India-Bangladesh controversy ahead of T20 World Cup 2026",
+    "desc": "The T20 World Cup 2026 is looming on the horizon; the marquee event is all set to kick off on February 7 and will be co-hosted by India and Sri Lanka. With the event approaching,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/childish-statement-manoj-tiwary-weighs-in-on-india-bangladesh-controversy-ahead-of-t20-world-cup-2026-2026-01-19-1026475",
+    "time": "2026-01-19T06:04:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli breaks Sachin Tendulkar's another world record with majestic century in Indore",
+    "desc": "New Zealand defeated India on Sunday to win the ODI series in India for the first time in history, despite Virat Kohli showcasing his class yet again in a run-chase with his 54th century in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-breaks-sachin-tendulkar-s-another-world-record-with-majestic-century-in-indore-2026-01-19-1026470",
+    "time": "2026-01-19T05:44:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia announce T20I squad for Pakistan tour, Jack Edwards and Mahli Beardman make the cut",
+    "desc": "Cricket Australia recently came forward and announced their 17-man squad for the upcoming tour of Pakistan. It is worth noting that the Men in Yellow will lock horns with Pakistan across three T20I matches before...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-announce-t20i-squad-for-pakistan-tour-jack-edwards-and-mahli-beardman-make-the-cut-2026-01-19-1026458",
+    "time": "2026-01-19T04:21:55.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Stats comparison after 85 international centuries",
     "desc": "Virat Kohli slammed his 54th century in ODI cricket on Sunday in the third and final match of the series against New Zealand. It was the 85th century for him in his illustrious international career...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-s-stellar-ton-goes-in-vain-as-new-zealand-register-first-ever-odi-series-win-in-india-2026-01-18-1026417",
     "time": "2026-01-18T16:03:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli creates history against New Zealand as he slams 85th international hundred in series decider",
-    "desc": "India icon Virat Kohli added another feather to his illustrious cap as he created history with his century in the third ODI against New Zealand. Kohli slammed his 85th international hundred and his 54th in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-creates-history-against-new-zealand-as-he-slams-85th-international-hundred-in-series-decider-2026-01-18-1026413",
-    "time": "2026-01-18T15:24:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Michael Bracewell not on field during run chase in IND vs NZ 3rd ODI?",
-    "desc": "New Zealand were handed a blow in the second innings of the third ODI against India as captain Michael Bracewell went off the field in the chase. Bracewell played a bit of a cameo as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-michael-bracewell-not-on-field-during-run-chase-in-ind-vs-nz-3rd-odi-2026-01-18-1026412",
-    "time": "2026-01-18T14:30:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Daryl Mitchell misses Shubman Gill, Babar Azam's record despite stellar knock in IND vs NZ 3rd ODI",
-    "desc": "New Zealand star Daryl Mitchell continued his Midas touch as he slammed his second consecutive century in the ODI series against India. After having hit 84 and an unbeaten 131* in the first two matches,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/daryl-mitchell-misses-shubman-gill-babar-azams-record-despite-stellar-knock-in-ind-vs-nz-3rd-odi-2026-01-18-1026410",
-    "time": "2026-01-18T13:56:38.000Z"
   }
 ];

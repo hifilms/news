@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "স্পেনে ভয়াবহ ট্রেন দুর্ঘটনা ! প্রচণ্ড গতিতে লাইনচ্যুত যাত্রিবাহী ট্রেন, চালক-সহ মৃত্যু ২১ জনের",
+    "desc": "রবিবার সন্ধ্যাবেলা, মালাগা থেকে মাদ্রিদের উদ্দেশে আসছিল ওই হাই-স্পিড ট্রেনটি। ট্রেনে ছিলেন প্রায় ৩০০ যাত্রী। কর্ডোবা শহরের কাছে, লাইনচ্যুত হয়ে পাশের ট্র্যাকে চলে যায় সেটি। ওই ট্র্যাক দিয়েই মাদ্রিদের দিক থেকে আসছিল আরেকটি ট্রেন। সেইসময়ই মুখোমুখি সংঘর্ষ হয় দুটি ট্রেনের।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Spain-Andalusia-Train-Accident-2026-01-7e405975a367de954e1392ff082a5285-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/train-collision-in-southern-spain-21-killed-over-70-injured-after-two-trains-collide-in-southern-spains-andalusia-ss-2503205.html",
+    "time": "2026-01-19T05:33:54.000Z"
+  },
+  {
     "cat": "Business",
     "title": "কর্পোরেট চাকরি ছেড়ে ব্যবসা, দম্পতির আয় এখন মাস গেলে কত জানেন? দেখুন বিরাট সাফল্যের সাতকাহন!",
     "desc": "কর্পোরেট চাকরি ছেড়ে ব্যবসা, জমান এই দম্পতি! ২৫-৩০ হাজার টাকায় শুরু, মাস যেতেই বিরাট লক্ষ্মীলাভ দম্পতির! পথ দেখাচ্ছেন অন্যদের। আরও বেশি সাফল্য পেতে কী করতে চলেছেন তাঁরা? অন্যদেরই বা কী পরামর্শ দিচ্ছেন? কী ভাবে ব্যবসার বুদ্ধি? কী ভাবে কর্পোরেটের স্থায়ী চাকরিকে টাটা বলে চ্যালেঞ্জের মুখে এগোনো? সব বলে দিলেন এই ভিডিওতে। শুনে নিন দম্পতির ব্যবসার সাফল্যের চূড়োয় যাওয়ার গল্প।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/technology/does-your-mobile-bluetooth-on-for-no-reason-hackers-can-access-personal-data-in-public-how-to-safe-smc-2492772.html",
     "time": "2026-01-12T13:24:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "অনেক চেষ্টা করেও রাখঢাক করা গেল না! নোরা ফতেহির ফুটবলার বয়ফ্রেন্ড কে, অবশেষে সবটাই জানাজানি হয়ে গেল",
-    "desc": "নোরা কিংবা হাকিমি—দু’জনের কেউই এখনও এই গুঞ্জন নিয়ে কোনও কথা বলেননি। তবে অনলাইনে আলোচনা ক্রমশ বাড়ছেই। নোরার সাম্প্রতিক মরক্কো সফরের পর থেকেই এই জল্পনা শুরু হয়। চলতি আফ্রিকা কাপ অব নেশনস (AFCON) চলাকালীন তাঁকে সেখানে একটি ম্যাচ উপভোগ করতে দেখা যায়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Nora3-2026-01-fd851e6c66a0848768a494febf368156-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/bollywood-dancer-actor-nora-fatehi-relation-rumor-with-footballer-achraf-hakimi-smj-2492479.html",
-    "time": "2026-01-12T11:31:44.000Z"
   }
 ];
