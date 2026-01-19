@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "ટ્રમ્પના બોર્ડ ઓફ પીસમાં સ્થાઈ સભ્ય બનવા માટે ભારતને ચુકવવા પડશે 9070 કરોડ !",
+    "desc": "ટ્રમ્પ આ બોર્ડના અધ્યક્ષ રહેશે. જો ભારત આમંત્રણ સ્વીકારે છે, તો તે ત્રણ વર્ષ માટે બોર્ડનું સભ્ય બનશે. જો કે, જો કોઈ દેશ સભ્ય રહેવા માંગે છે, તો તેણે નાણાકીય રીતે પણ યોગદાન આપવું પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/india-will-have-to-pay-9070-crores-to-become-a-permanent-member-of-trump-board-of-peace-462229 ",
+    "time": "2026-01-19T14:07:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભાજપને મળ્યા નવા રાષ્ટ્રીય અધ્યક્ષ, આવતીકાલે સવારે 11 વાગ્યે સંભાળશે પદ",
+    "desc": "ભાજપ મુખ્યાલય ખાતે રાષ્ટ્રીય અધ્યક્ષની ચૂંટણી માટેની પ્રક્રિયા ચાલી રહી છે. નીતિન નબીનના નામાંકન બાદ, આવતીકાલે સવારે 11 વાગ્યે ભાજપ મુખ્યાલય ખાતે 700 પ્રતિનિધિઓ એકઠા થશે. વડા પ્રધાન મોદી પણ હાજર રહેશે. નીતિન નબીનની ચૂંટણીની ઔપચારિક જાહેરાત સાંજે 6 વાગ્યે તેમની હાજરીમાં કરવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/nitin-naveen-elected-unopposed-as-the-new-national-president-of-bjp-will-take-over-the-post-at-11-am-tomorrow-462227 ",
+    "time": "2026-01-19T13:50:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "8th Pay Commission શા માટે હોલ્ટ પર રાખવામાં આવ્યું? પગાર વધારા અને બાકી રકમ પર ICRAનો મોટો દાવો, સમજો ગણિત",
+    "desc": "કેન્દ્રીય કર્મચારીઓ માટે 8મું પગાર પંચ, જે જાન્યુઆરી 2026માં લાગુ થવાનું હતું, તેમાં વિલંબ થઈ રહ્યો છે. ICRAના અહેવાલ મુજબ, કમિશનનો અહેવાલ રજૂ કરવામાં 15-18 મહિના લાગી શકે છે. આનાથી નાણાકીય વર્ષ 2028માં સરકારી તિજોરી પર નોંધપાત્ર દબાણ આવી શકે છે, કારણ કે જો પાછલી અસરથી લાગુ કરવામાં આવે તો પગાર ખર્ચ 40-50% વધી શકે છે, અને કર્મચારીઓને નોંધપાત્ર બાકી રકમ મળશે. આ વિલંબ બજેટ 2026-27 અને ભવિષ્યની નાણાકીય પરિસ્થિતિને અસર કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/why-was-the-8th-pay-commission-put-on-hold-icra-big-claim-on-salary-increment-and-arrears-understand-the-math-462218 ",
+    "time": "2026-01-19T13:27:46.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ન્યુઝીલેન્ડ સામે કોહલીની ઐતિહાસિક સદી, પણ સાથે જ નોંધાયો સૌથી શરમજનક રેકોર્ડ; &amp;#039;યુનિવર્સ બોસ&amp;#039; ક્રિસ ગેલને છોડ્યો પાછળ",
     "desc": "ભારત અને ન્યુઝીલેન્ડ વચ્ચે રમાયેલી છેલ્લી વનડે મેચમાં ટીમ ઈન્ડિયાને હારનો સામનો કરવો પડ્યો છે. ભારત અને ન્યુઝીલેન્ડના ક્રિકેટ ઈતિહાસમાં પ્રથમ વખત ન્યુઝીલેન્ડની ટીમે ભારતની ધરતી પર વનડે સિરીઝ જીતવાનું કારનામું કર્યું છે. આ મેચમાં લક્ષ્યનો પીછો કરતી વખતે વિરાટ કોહલીએ એક શર્મનાક રેકોર્ડ પોતાના નામે કર્યો છે. કોહલી હવે ક્રિકેટ જગતમાં આવું કરનાર નંબર 1 ખેલાડી બની ગયો છે.",
@@ -304,15 +331,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/this-scheme-is-great-for-central-government-employees-the-government-will-fulfill-their-dream-of-owning-a-house-461881 ",
     "time": "2026-01-16T13:32:50.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "વેચવું કે ખરીદવું ? રેકોર્ડ ઊંચાઈએ પહોંચ્યા સોના અને ચાંદીના ETFના ભાવ, એક્સપર્ટ પાસેથી જાણો શું કરવું જોઈએ ?",
-    "desc": "સોના અને ચાંદીના ભાવ તેમના રેકોર્ડ હાઈ લેવલની નજીક છે. કોમોડિટી આધારિત ચાંદી અને સોનાના ETFમાં પણ જોરદાર તેજી જોવા મળી છે અને તે રેકોર્ડ ઊંચા સ્તરે ટ્રેડ થઈ રહ્યા છે. શું હવે નફો બુક કરવાનો યોગ્ય સમય છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/should-you-sell-or-buy-gold-and-silver-etf-prices-hit-record-highs-know-what-to-do-from-experts-461867 ",
-    "time": "2026-01-16T11:11:36.000Z"
   },
   {
     "cat": "World",

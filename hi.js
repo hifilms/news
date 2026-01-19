@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Virat Kohli shatters Ricky Ponting's world record after breaking Tendulkar's feat in IND vs NZ 3rd ODI",
+    "desc": "India icon Virat Kohli continued his rich vein of form as he smashed a scintillating century in the third ODI against New Zealand at the Holkar Cricket Stadium in Indore. Kohli almost pulled off a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-shatters-ricky-pontings-world-record-after-breaking-tendulkars-feat-in-ind-vs-nz-3rd-odi-2026-01-19-1026546",
+    "time": "2026-01-19T14:00:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Unbeaten Bengaluru take on Giants in first game in Vadodara",
+    "desc": "Undefeated Royal Challengers Bengaluru are taking on Gujarat Giants in their fifth match of the Women's Premier League 2026. The tournament now shifts to the second venue - the BCA Stadium, Kotambi, Vadodara, with the matches...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcbw-vs-ggw-wpl-2026-live-score-royal-challengers-bengaluru-vs-gujarat-giants-bca-stadium-kotambi-vadodara-latest-match-updates-scorecard-teams-2026-01-19-1026543",
+    "time": "2026-01-19T13:41:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Novak Djokovic creates history, becomes first player to achieve major record with 100th win at Australian Open",
+    "desc": "Serb legend Novak Djokovic brushed aside the Pedro Martinez challenge as he registered a thumping win in the first round of the Australian Open 2026. In his quest for his record-breaking 25th Grand Slam, Djokovic...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-creates-history-becomes-first-player-to-achieve-major-record-with-100th-win-at-australian-open-2026-01-19-1026535",
+    "time": "2026-01-19T12:56:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India to face arch-rivals Pakistan twice on this day! Know all details inside",
     "desc": "India vs Pakistan fixtures have always been a treat not only for the fans but also for the broadcasters. The arch-rivals don't play bilaterals anymore but they face each other in the Asia Cup and...",
     "img": "",
@@ -52,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pakistan-s-domestic-cricket-team-break-232-year-old-world-record-defend-40-runs-successfully-2026-01-19-1026485",
     "time": "2026-01-19T07:00:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Which team will replace Bangladesh if they opt out of T20 World Cup 2026?",
-    "desc": "The situation between India and Bangladesh regarding the T20 World Cup 2026 has been a major talking point in the world of sports of late. Due to the political tensions between the two countries, the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/which-team-will-replace-bangladesh-if-they-opt-out-of-t20-world-cup-2026-2026-01-19-1026480",
-    "time": "2026-01-19T06:41:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Childish statement': Manoj Tiwary weighs in on India-Bangladesh controversy ahead of T20 World Cup 2026",
-    "desc": "The T20 World Cup 2026 is looming on the horizon; the marquee event is all set to kick off on February 7 and will be co-hosted by India and Sri Lanka. With the event approaching,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/childish-statement-manoj-tiwary-weighs-in-on-india-bangladesh-controversy-ahead-of-t20-world-cup-2026-2026-01-19-1026475",
-    "time": "2026-01-19T06:04:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli breaks Sachin Tendulkar's another world record with majestic century in Indore",
-    "desc": "New Zealand defeated India on Sunday to win the ODI series in India for the first time in history, despite Virat Kohli showcasing his class yet again in a run-chase with his 54th century in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-breaks-sachin-tendulkar-s-another-world-record-with-majestic-century-in-indore-2026-01-19-1026470",
-    "time": "2026-01-19T05:44:50.000Z"
   }
 ];

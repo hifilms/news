@@ -1,5 +1,50 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "৯০ মিনিট ধরে মৃত্যুর জন্য অপেক্ষা! নয়ডার ইঞ্জিনিয়ার মৃত্যু কাণ্ডে SIT তদন্তের নির্দেশ, উচ্চপদস্থ কর্তাকে সরালেন যোগী আদিত্যনাথ",
+    "desc": "নিজের বাড়ি থেকে মাত্র কয়েক মিনিট দূরে ছিলেন ওই ইঞ্জিনিয়ার৷ অফিস থেকে নিজে গাড়ি চালিয়ে বাড়ি ফিরছিলেন৷ রাতে ঘন কুয়াশা থাকায় বুঝতে না পেরে প্রথমে রাস্তার ধারের একটি নর্দমার পাঁচিয়ে ধাক্কা মারে তাঁর এসইউভি গাড়ি৷ তারপর তা একটি বিল্ডিংয়ের জন্য খুঁড়ে রাখা ২০ ফুট গভীর জলভর্তি গর্তে পড়ে যায়৷ ওখানে যে ওত গভীর ও বড় গর্ত রয়েছে, সে বিষয়ে কোনও বোর্ড, কোনও রিফ্লেক্টর সেখানে রাখা ছিল না৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-2026-01-19T193012.153-2026-01-d9e32b79ef4ee6dc02fd622ee85c0fa5-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/noida-engineer-death-case-up-cm-yogi-adityanath-orders-sit-probe-into-techies-death-noida-ceo-removed-sta-2504410.html",
+    "time": "2026-01-19T14:55:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "এসআইআর মামলায় মাধ্যমিকের অ্যাডমিট নিয়ে বড় পর্যবেক্ষণ সুপ্রিম কোর্টের! দেখুন ভিডিও",
+    "desc": "মাধ্যমিকের অ্যাডমিট কার্ডকেও এসআইআর-এর প্রামাণ্য নথি হিসেবে গণ্য করা উচিত বলে পর্যবেক্ষণে জানাল সুপ্রিম কোর্ট৷ এ দিন বাংলার এসআইআর মামলায় এই গুরুত্বপূর্ণ পর্যবেক্ষণ দেয় প্রধান বিচারপতির বেঞ্চ৷ জাতীয় নির্বাচন কমিশন আগেই জানিয়েছিল, মাধ্যমিক বা সমতুল পরীক্ষার সার্টিফিকেটকে নথি হিসেবে গণ্য করলেও মাধ্যমিকের অ্যাডমিট কার্ডকে নথি হিসেবে গণ্য করা হবে না৷ এ দিন আদালতে বিষয়টি তোলেন আইনজীবী কল্যাণ বন্দ্যোপাধ্যায়৷ এর পরই নিজের মাধ্যমিকের অ্যাডমিট কার্ড নিয়ে নিজের পর্যবেক্ষণ জানান বিচারপতি জয়মাল্য বাগচি৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-19-at-17.12.54-1-2026-01-71c2989d7add41fdf7c8703352c7e1c6-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/supreme-court-makes-important-observation-on-madyamik-admit-card-in-sir-case-dmg-2504444.html",
+    "time": "2026-01-19T14:40:31.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "সেল্ফ, কিক সব ফেল! ঠান্ডায় বারবার চেষ্টা করেও স্টার্ট নিচ্ছে না বাইক,স্কুটি? ৪ টিপস জানলেই কেল্লাফতে, একবার স্টার্ট দিলেই ছুটবে গাড়ি",
+    "desc": "বার বার স্টার্ট দিয়েও চালু হচ্ছে না বাইক, স্কুটি৷ বেশি শীতে বাইক এবং স্কুটি স্টার্ট দেওয়ার সময় এই সমস্যার সম্মুখীন হয়েছেন বেশিরভাগ চালক৷ সেল্ফ ও কিক—দু ধরনের স্টার্টই অনেক সময় কাজ করা বন্ধ করে দেয়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/2026-01-adb6d7b4671ac3f6e15328ebe469d26c-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/technology/bike-tips-and-tricks-self-and-kick-start-is-not-working-in-winter-hack-to-start-motorcycle-ank-2504449.html",
+    "time": "2026-01-19T14:39:38.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ট্রাম্পকে নোবেল শান্তি পুরস্কার পদক হস্তান্তর মাচাদোর! পিছনে জটিল যুক্তি",
+    "desc": "সেই নোবেল শান্তি পদকই মাচাদো তাঁর কাছে ছেড়ে গেছেন বলে দাবি করেছেন ট্রাম্প। মাচাদোর এই উদ্যোগকে তিনি 'পারস্পরিক শ্রদ্ধার এক অসাধারণ নিদর্শন' বলে উল্লেখ করেছেন। যদিও নোবেল কমিটি সঙ্গে সঙ্গে এ প্রসঙ্গে বিবৃতি জারি করে জানিয়েছে, পুরস্কারের এভাবে হাতবদল আইন-সম্মত নয় বা প্রতীকীও হতে পারে না।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ddd-2026-01-06160b451e6297020511d19980cfb814.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/international/maria-machado-presents-donald-trump-her-nobel-peace-prize-but-what-happened-pbd-2504479.html",
+    "time": "2026-01-19T14:30:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dev-Subhashree: 'অতীত নিয়ে বাঁচতে চাই না', দেবকে সঙ্গে নিয়েই রাজ-রুক্মিণীকে কৃতজ্ঞতা শুভশ্রীর...",
+    "desc": "১০ বছর পর এক মঞ্চে দেব-শুভশ্রী, বড় ধামাকার আগে রাজ-রুক্মিণীকে বিশেষ ধন্যবাদ জানালেন নায়িকা। লাইভে শুভশ্রী অত্যন্ত স্পষ্ট ভাষায় জানান, তিনি বা দেব কেউই অতীত নিয়ে পড়ে থাকতে চান না। ফ্যানেদের অনুরোধ করেন, দয়া করে আমাদের সঙ্গীদের নিয়ে কোনো কুরুচিকর মন্তব্য বা ব্যক্তিগত আক্রমণ করবেন না।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/dev-subhashree-on-past-relationship-and-partners-raj-rukmini_636243.html ",
+    "time": "2026-01-19T14:24:48.000Z"
+  },
+  {
     "cat": "Business",
     "title": "টেডি বিয়ার, সাবান...! বসিরহাটের মহিলারা অবসর সময়ে তৈরি করছেন কতকিছু, বিক্রি হচ্ছে মেলা-অনলাইনে, লাভ হচ্ছে অঢেল",
     "desc": "শাড়ি, ব্যাগ, টেডি বিয়ার, গলার হার, সাবান থেকে শুরু করে নানা রঙের ঘর সাজানোর সামগ্রী—সবকিছুতেই ফুটে উঠছে তাদের নিপুণ হাতের ছোঁয়া। বাড়ির মেয়ে ও বধূরা একত্রে কাজ করে সারা বছর এই সব উপকরণ তৈরি করছেন।",
@@ -853,50 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/business/west-medinipur-news-sugarcane-jaggery-demand-increased-before-makar-sankranti-farmers-happy-to-get-huge-profit-l18-local18-2493423.html",
     "time": "2026-01-13T11:51:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'প্রতিটি কুকুরের কামড়ের জন্য...': পথ কুকুর মামলায় বিস্ফোরক হুঁশিয়ারি সুপ্রিম কোর্টের!",
-    "desc": "পথ কুকুর মামলায় এবার বড় হুঁশিয়ারি সুপ্রিম কোর্টের। শীর্ষ আদালতের স্পষ্ট বার্তা কুকুরের কামড়ে কোনও শিশু, বৃদ্ধ মানুষ আঘাত পেলে বা মৃত্যু হলে সেক্ষেত্রে সংশ্লিষ্ট রাজ্য সরকারকে বিশাল অঙ্কের ক্ষতিপূরণ দিতে হবে— মঙ্গলবার এই কড়া বার্তা দিল সুপ্রিম কোর্ট।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-13-at-13.55.59-2026-01-8c2b89177a80130606abb45f5dc5f516-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/supreme-court-on-street-dogs-for-every-dog-bite-we-are-likely-to-impose-supreme-court-in-big-remark-on-stray-dogs-case-sanj-2493761.html",
-    "time": "2026-01-13T09:12:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ঘরেই বানান ভোজ্য তেল, মাসে আয় করুন মোটা টাকা, মাত্র ৫০ হাজার টাকায় শুরু করুন এই ব্যবসা",
-    "desc": "খাঁটি ও দেশীয় ভোজ্য তেলের ক্রমবর্ধমান চাহিদা এই ক্ষুদ্র ব্যবসাকে অত্যন্ত লাভজনক করে তুলেছে। মাত্র ৫০,০০০ টাকা থেকে শুরু করে সরষে, চিনাবাদাম, তিল বা নারকেলের মতো ভোজ্য তেল উৎপাদন করে মহিলারা তাঁদের নিজস্ব ব্যবসা শুরু করতে পারেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Riya-Das-1200900-2026-01-13T125057.102-2026-01-a2ef26987e8e4445ae22d11a945cd55d-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/success-story-edible-oil-business-from-home-best-work-for-females-low-investment-business-government-tc-rds-2493581.html",
-    "time": "2026-01-13T07:43:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ইন্ডিগোর নতুন এয়ারবাস A321 XLR এথেন্সে ওড়ার জন্য প্রস্তুত, কলকাতার যাত্রীরা ভায়া দিল্লি ও মুম্বই টিকিট বুক করছেন",
-    "desc": "ইন্ডিগো সম্প্রতি তার ফ্লিটে একটি এয়ারবাস A321XLR যুক্ত করেছে, যা এয়ারবাস A321neo-এর একটি দূরপাল্লার সংস্করণ। যা ভারতের কোনও বিমানসংস্থার জন্য প্রথম ৷ কর্মকর্তারা ঘোষণা করেছেন যে, এটি ২৩ জানুয়ারি, ২০২৬ থেকে মুম্বই থেকে এথেন্স এবং ২৪ জানুয়ারি, ২০২৬ থেকে দিল্লি থেকে এথেন্স পর্যন্ত নন-স্টপ পরিষেবা প্রদান করবে, উভয় রুটে সপ্তাহে তিনটি করে ফ্লাইট থাকবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/A321XLR-2026-01-be0bc06179649c89d018a5c8122edbe2-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/indigos-airbus-a321-xlr-to-athens-ready-for-take-off-non-stop-services-from-mumbai-to-athens-starting-january-23-and-delhi-to-athens-from-january-24-ss-2493320.html",
-    "time": "2026-01-13T04:55:26.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ফোর্ড-শ্রেণীর বিমানবাহী জাহাজ, বিশ্বের অন্যতম শক্তিশালী, এই ১ ট্রিলিয়ন ডলারের জলযানে ২৫ বছর ধরে জ্বালানির প্রয়োজন নেই !",
-    "desc": "যখন এই ১০০,০০০ টনের দানব সমুদ্রের ঢেউয়ের মধ্য দিয়ে প্রায় উড়ে যায়, তখন শত্রু জাতির রাডার কাঁপে এবং স্যাটেলাইটগুলি এর উপর স্থির থাকে। এটিকে সমুদ্রে একটি অজেয় দুর্গ বলা ভুল হবে না, কারণ এটিকে রক্ষা করার জন্য মোতায়েন করা ক্ষেপণাস্ত্র এবং লেজার বন্দুকগুলি এমনকি, একটি পাখিকেও উড়তে বাধা দেয়। এটি কেবল একটি জাহাজ নয়, বরং আমেরিকার গর্বের প্রতীক, এমন একটি কীর্তি যা বর্তমানে বিশ্বের অন্য কোনও সামরিক বাহিনী চ্যালেঞ্জ করার সাহস করে না।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Ford-Class-Carrier-2026-01-d3eec4c16c22f3c4607a46e94c668401-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/international/gerald-r-ford-class-carrier-us-navy-13b-dollar-warship-worlds-most-powerful-nuclear-carrier-ruling-the-seas-ss-2493270.html",
-    "time": "2026-01-13T04:10:20.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "আগুন জ্বলছে ইরানে, ৯০ ঘণ্টা ব্ল্যাক আউট, হুহু করে মরছে মানুষ! পরিস্থিতির উপরে নজর রাখছে ভারত...প্রবাসীদের প্রতি বার্তা",
-    "desc": "অন্যদিকে, ভারতীয় বিদেশমন্ত্রক ইরানে বসবাসকারী ভারতীয়দের উদ্দেশ্যে জানিয়েছে, তাঁরা যেন অপ্রয়োজনে বাইরে না বের হন৷ সোমবার বিদেশ সচিব বিক্রম মিস্রি বলেন, ‘‘আমরা ইরানের পরিস্থিতির উপর নজর রাখছি... আমাদের ইরানে প্রবাসী ভারতীয়দের একটি উল্লেখযোগ্য সম্প্রদায় রয়েছে এবং ভারতীয় শিক্ষার্থীরাও রয়েছেন।’’",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ydne-2026-01-12T230527.112-2026-01-d1191b6d2ed40c7b72972c74e6c58189-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/international/iran-protest-situation-india-warns-citizens-not-to-venture-out-in-iran-amid-deadly-protests-were-watching-sta-2493193.html",
-    "time": "2026-01-12T17:48:01.000Z"
   }
 ];
