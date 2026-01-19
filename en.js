@@ -1,5 +1,149 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Search operations resume to hunt down terrorists in Kishtwar",
+    "desc": "Multiple teams of the army, police, and paramilitary forces, supported by drones and sniffer dogs, are combing the area while maintaining a tight security cordon to ensure that the terrorists are not able to escape",
+    "img": "https://th-i.thgim.com/public/incoming/ivw3mr/article70524201.ece/alternates/LANDSCAPE_1200/20260118326L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/security-forces-search-operations-kishtwar-terrorists-encounter/article70524197.ece",
+    "time": "2026-01-19T04:03:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "SEC lock in Qualifier 1 spot, end MI Cape Town’s playoff hopes",
+    "desc": "Sunrisers Eastern Cape sealed top spot and a Qualifier 1 berth with a seven-wicket win over MI Cape Town, knocking the latter out of playoff contention. Chris Green starred on debut with 3/29 before Quinton de Kock and Matthew Breetzke powered the chase, ensuring the Orange Army finished in the top two.",
+    "img": "https://static.toiimg.com/photo/msid-126667343,imgsize-138210.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/sa20/sa20-sunrisers-eastern-cape-lock-in-qualifier-1-spot-end-mi-cape-towns-playoff-hopes/articleshow/126667265.cms",
+    "time": "2026-01-19T03:40:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The return of division talk in J&K and why it’s dangerous",
+    "desc": "On September 15, 1950, at Lake Success, the temporary home of the United Nations between 1946 and 1951, the United Nations Security Council (UNSC) received a report on Jammu and Kashmir from Owen Dixon, former Chief Justice of Australia",
+    "img": "https://th-i.thgim.com/public/incoming/vt1cxo/article70524161.ece/alternates/LANDSCAPE_1200/HP12967.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/the-return-of-division-talk-in-jk-and-why-its-dangerous/article70524154.ece",
+    "time": "2026-01-19T03:32:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Big records India’s run-machine set in IND vs NZ ODIs",
+    "desc": "Virat Kohli's magnificent 124 in the series decider against New Zealand, though in a losing effort, cemented his legendary status. This 54th ODI century, his seventh against the Kiwis, saw him rewrite multiple records, including most international hundreds against them and highest runs at No.3 in ODIs. Despite India's loss, Kohli's consistent brilliance shone through.",
+    "img": "https://static.toiimg.com/photo/msid-126667136,imgsize-62410.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohli-keeps-taking-giant-strides-all-the-big-records-indias-run-machine-set-in-ind-vs-nz-odis/articleshow/126667107.cms",
+    "time": "2026-01-19T03:28:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All you need to know about Travis Clark’s cheating confession",
+    "desc": "Katie Bates, a familiar face from 'Bringing Up Bates,' is now weathering a storm of personal trials. After tragically losing her third baby, she was dealt another blow with her husband Travis Clark's public admission of infidelity. Facing the fallout, Clark expressed profound remorse over his misplaced actions and the painful breach of trust with his wife.",
+    "img": "https://static.toiimg.com/photo/msid-126667118,imgsize-57154.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bringing-up-bates-star-katie-bates-husband-travis-clark-admits-affair-amidst-pregnancy-loss-heres-what-really-happened/articleshow/126637964.cms",
+    "time": "2026-01-19T03:28:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Justin LIKES 2016 post of him KISSING Selena",
+    "desc": "Justin Bieber's recent 'like' on a 2016 photo of him kissing ex Selena Gomez has sparked fan frenzy amidst a viral throwback trend. This activity, occurring shortly after wife Hailey Bieber shared her own 2016 photos, reignites discussions about the pop star's past relationships. The comment, translating to 'Long live the couple,' has fueled speculation.",
+    "img": "https://static.toiimg.com/photo/msid-126667079,imgsize-15472.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/justin-bieber-likes-2016-post-of-him-kissing-selena-gomez-sparks-fan-frenzy-on-social-media/articleshow/126666580.cms",
+    "time": "2026-01-19T03:26:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bringing up bates couple face fallout after infidelity confession",
+    "desc": "Fans of 'Bringing Up Bates' are stunned after Travis Clark confessed to infidelity just days after his wife Katie Bates announced their pregnancy loss. The couple, who shared a seemingly picture-perfect romance and welcomed two children, had recently celebrated their fourth anniversary. Clark took full blame for breaking his wife's trust, vowing to seek help and accountability.",
+    "img": "https://static.toiimg.com/photo/msid-126666861,imgsize-567958.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/travis-clarks-heartfelt-tribute-to-katie-bates-just-before-shocking-affair-confession/articleshow/126666873.cms",
+    "time": "2026-01-19T03:13:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Zac Efron makes rare public appearance at patriots playoff game",
+    "desc": "Zac Efron made a rare public appearance at Gillette Stadium on January 18, cheering on the New England Patriots during their playoff game against the Houston Texans. The actor posed for photos with owner Robert Kraft, even sporting a Super Bowl ring, adding Hollywood flair to the snowy Foxborough scene.",
+    "img": "https://static.toiimg.com/photo/msid-126666762,imgsize-420211.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zac-efron-surprises-fans-with-rare-outing-at-patriots-texans-clash-game/articleshow/126666774.cms",
+    "time": "2026-01-19T03:08:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vir says 'Happy Patel' budget is less than catering cost of 'Dhurandhar'",
+    "desc": "Khatarnak Jasoos', Vir Das delivers a comedic spin on the spy genre, offering a refreshing contrast to the high-octane action of films like 'Pathaan'. With a wink, Das pointed out that their budget barely scratched the surface compared to the catering costs of major blockbusters.",
+    "img": "https://static.toiimg.com/photo/msid-126666595,imgsize-31526.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vir-das-says-the-happy-patel-khatarnak-jasoos-budget-is-less-than-the-catering-cost-of-dhurandhar/articleshow/126666595.cms",
+    "time": "2026-01-19T03:04:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How should India tackle child trafficking?",
+    "desc": "What is the Palermo Protocol? How does the Bhartiya Nyaya Sanhita, 2023 define trafficking? How does the Constitution of India protect children from exploitation? How has the Supreme Court reacted? Why is a strong Centre-State relationship important for countering exploitation?",
+    "img": "https://th-i.thgim.com/public/incoming/niswyy/article70523094.ece/alternates/LANDSCAPE_1200/iStock-1183706131.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/how-should-india-tackle-child-trafficking-explained/article70523068.ece",
+    "time": "2026-01-19T03:00:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Virat bhai always a plus, but...': Gill after Kohli's ton fails to save India",
+    "desc": "Despite a 41-run series-deciding loss to New Zealand, Indian captain Shubman Gill acknowledged Virat Kohli's stellar 54th ODI century as a significant positive. Gill admitted the team needs improvement in several areas, highlighting the valuable contributions of Harshit Rana and Nitish Kumar Reddy as the focus shifts towards future combinations and the World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-126666458,imgsize-53912.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-bhai-always-a-plus-but-shubman-gill-reflects-after-kohlis-54th-odi-ton-fails-to-save-india/articleshow/126666437.cms",
+    "time": "2026-01-19T02:50:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kourtney Kardashian’s journey to ‘3 years sobriety’’",
+    "desc": "Celebrating a remarkable journey, Kourtney Kardashian opened up on Instagram Stories about achieving three years of sobriety. Embracing a lifestyle change, she now enjoys gin mocktails in place of traditional cocktails. This milestone comes just after her sister Khloé's bold update about her own life choices, reflecting a family trend towards personal evolution.",
+    "img": "https://static.toiimg.com/photo/msid-126666218,imgsize-26206.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/kourtney-kardashian-reveals-shes-3-years-sober-inside-her-journey-towards-sobriety/articleshow/126665779.cms",
+    "time": "2026-01-19T02:37:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Operation Trashi-I: Gunfight breaks out in J&amp;K’s Kishtwar; 8 Army personnel injured",
+    "desc": "A fierce gun battle in Kishtwar's remote forests left eight Army personnel injured on Sunday. Security forces engaged two to three suspected foreign terrorists during a search operation. Reinforcements have been deployed, and a massive hunt is underway to neutralize the militants. This marks the third encounter in the Jammu region this year, with intensified operations ahead of Republic Day.",
+    "img": "https://static.toiimg.com/photo/msid-126666127,imgsize-1802734.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/operation-trashi-i-gunfight-breaks-out-in-jks-kishtwar-8-army-personnel-injured/articleshow/126666018.cms",
+    "time": "2026-01-19T02:32:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Allu Arjun's Japanese fan breaks down as he recognizes her",
+    "desc": "The Rule' left fans in awe as he charmingly delivered lines in Japanese. A touching clip of an emotional Japanese admirer who was moved to tears after meeting the South Indian superstar became an internet sensation, earning widespread acclaim for Allu's thoughtful gesture.",
+    "img": "https://static.toiimg.com/photo/msid-126665911,imgsize-45218.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/allu-arjuns-japanese-fan-bursts-into-tears-as-the-superstar-recognizes-her-at-the-pushpa-2-tokyo-event-watch/articleshow/126665911.cms",
+    "time": "2026-01-19T02:19:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘A Knight of the Seven Kingdoms’ reframes Westeros with honour",
+    "desc": "The highly anticipated 'A Knight of the Seven Kingdoms' premieres today, January 19, offering a prequel to 'Game of Thrones.' Set nearly a century before the Iron Throne wars, the series follows the unlikely duo of hedge knight Ser Duncan the Tall and young Prince Aegon Targaryen. Their adventures, rooted in George R.R.",
+    "img": "https://static.toiimg.com/photo/msid-126665648,imgsize-479958.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/a-knight-of-the-seven-kingdoms-airs-today-as-hbo-max-trades-power-plays-for-heart/articleshow/126665647.cms",
+    "time": "2026-01-19T01:46:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "betrayal turns mission upside down",
+    "desc": "The Night Manager Season 2's fourth episode delivered a shocking twist as Richard Roper, presumed dead, reappears alive and well. This revelation shatters Jonathan Pine's mission, exposing a complex plot involving Teddy dos Santos and a manipulated past. Pine's trust in his allies is tested as he confronts the consequences of a long-held secret.",
+    "img": "https://static.toiimg.com/photo/msid-126665597,imgsize-739921.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-night-manager-season-2-episode-4-turns-the-mission-inside-out-as-betrayal-and-bloodlines-push-the-operation-into-free-fall/articleshow/126665604.cms",
+    "time": "2026-01-19T01:40:53.000Z"
+  },
+  {
     "cat": "World",
     "title": "Gang violence in Guatemala kills seven police officers after inmates take over prisons",
     "desc": "The attacks on police in and around Guatemala City came after hundreds of anti-riot police stormed Renovacion prison in Escuintla, about 76 km southwest of the capital, to free nine guards who had been taken hostage there",
@@ -426,7 +570,7 @@ const newsData_en = [
     "cat": "Politics",
     "title": "Tamil Nadu government institutes literary award for works in seven Indian languages",
     "desc": "In the first phase, the best literary works in Tamil, Telugu, Kannada, Malayalam, Odia, Bengali, and Marathi will receive the Semmozhi Literary Award every year. The award will carry a cash prize of ₹5 lakh for each language, Chief Minister M.K. Stalin says at the valediction of Chennai International Book Fair 2026",
-    "img": "https://th-i.thgim.com/public/incoming/ng7bt2/article70522850.ece/alternates/LANDSCAPE_1200/BVR_4361.JPG",
+    "img": "https://th-i.thgim.com/public/incoming/jcvn8y/article70524145.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-01-19%20at%2008.35.28%201.jpeg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/chennai/tamil-nadu-government-institutes-literary-award-for-works-in-seven-indian-languages/article70522529.ece",
     "time": "2026-01-18T15:54:10.000Z"
@@ -486,15 +630,6 @@ const newsData_en = [
     "time": "2026-01-18T15:13:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Metro expansion to ease congestion and reduce pollution, making Delhi more modern: CM Rekha Gupta",
-    "desc": "Under the leadership of Delhi Chief Minister Rekha Gupta, the Delhi Government has taken a major decision to further expand the capital's Metro network. The Government has released its share of funds for the remaining three corridors of Phase IV of the Delhi Metro Rail Transit System (MRTS).",
-    "img": "https://static.toiimg.com/photo/msid-126646404,imgsize-97316.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/metro-expansion-to-ease-congestion-and-reduce-pollution-making-delhi-more-modern-cm-rekha-gupta/articleshow/126646379.cms",
-    "time": "2026-01-18T14:50:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Does he still have the fire?': Rohit's ODI future questioned after flop series",
     "desc": "Rohit Sharma's recent ODI form has sparked debate about his motivation for the 2027 World Cup. Despite a strong prior run, a lean series against New Zealand has led commentators like Simon Doull and Ravi Shastri to question his hunger. The fragmented ODI calendar is also cited as a potential factor impacting rhythm and desire for the veteran opener.",
@@ -522,15 +657,6 @@ const newsData_en = [
     "time": "2026-01-18T14:37:30.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Team India pitches ‘partner with Bharat’ message; AI and investment in focus",
-    "desc": "Team India is making a strong pitch at Davos, urging global partners to \"subscribe to the future\" by investing in Bharat and collaborating on technology. The India Pavilion highlights investment opportunities, with IT majors showcasing AI advancements. Over 100 Indian CEOs and several state delegations are present, promoting India's economic potential to over 3,000 global leaders.",
-    "img": "https://static.toiimg.com/photo/msid-126645754,imgsize-52094.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/wef-davos-2026-team-india-pitches-partner-with-bharat-message-ai-and-investment-in-focus/articleshow/126645617.cms",
-    "time": "2026-01-18T14:35:46.000Z"
-  },
-  {
     "cat": "World",
     "title": "Italian PM calls threatened U.S. tariffs over Greenland a ‘mistake’",
     "desc": "Donald Trump has threatened to impose tariffs of up to 25% on all goods sent to the United States from Denmark, Norway, Sweden, France, Germany, the United Kingdom, the Netherlands and Finland over their objections to his moves",
@@ -541,66 +667,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'The greatest living composer got attacked...'",
-    "desc": "AR Rahman faced backlash for calling the film 'Chhaava' divisive, leading him to issue an apology. Lyricist Varun Grover defended Rahman, criticizing the \"toxic mob\" reaction. Rahman later reiterated his concerns about divisiveness in Bollywood, suggesting a \"power shift\" and potential \"communal thing\" influencing creative decisions.",
-    "img": "https://static.toiimg.com/photo/msid-126645497,imgsize-52560.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/varun-grover-defends-ar-rahman-after-he-drops-video-clarifying-on-his-communal-remark-the-greatest-living-composer-got-attacked-/articleshow/126645477.cms",
-    "time": "2026-01-18T14:25:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Chandrababu Naidu",
-    "desc": "Naidu pays tributes to TDP founder N.T. Rama Rao on the occasion of his 30th death anniversary, says the former CM had defined ‘good governance’ and prioritised development while implementing welfare schemes, which set a benchmark back then",
-    "img": "https://th-i.thgim.com/public/incoming/bzaf1m/article70522522.ece/alternates/LANDSCAPE_1200/10745_18_1_2026_17_38_29_1_IMG_20260118_WA0069.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/modi-fully-cooperative-for-developing-andhra-chandrababu-naidu/article70521966.ece",
-    "time": "2026-01-18T14:25:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "SNL sketch gives Harry Potter’s Harry and Ron a steamy romance inspired by HBO’s ‘Heated Rivalry’",
-    "desc": "A Saturday Night Live sketch has folded Heated Rivalry into pop-culture shorthand, spoofing the HBO hockey romance through a Harry Potter parody packed with innuendo. With Finn Wolfhard, Ben Marshall and a surprise Jason Momoa cameo, the sketch reflects how quickly the series, already renewed for season two, has travelled from niche hit to mainstream reference point.",
-    "img": "https://static.toiimg.com/photo/msid-126646158,imgsize-759084.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/snl-sketch-gives-harry-potters-harry-and-ron-a-steamy-romance-inspired-by-hbos-heated-rivalry/articleshow/126623920.cms",
-    "time": "2026-01-18T14:17:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Millie Bobby Brown and Noah Schnapp's hilarious moment",
-    "desc": "In a light-hearted moment, Millie Bobby Brown reminisced about a side-splitting episode when Noah Schnapp found himself hilariously trapped in a chair for 15 minutes during the filming of 'Stranger Things' season 2, even hilariously broadcasting the ordeal live on Instagram.",
-    "img": "https://static.toiimg.com/photo/msid-126645227,imgsize-674859.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/stranger-things-star-millie-bobby-brown-recalls-a-hilarious-off-screen-moment-with-noah-schnapp-from-season-2/articleshow/126645227.cms",
-    "time": "2026-01-18T14:10:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Paresh Rawal reacts to AR Rahman's clarification of his 'communal' remark",
     "desc": "Music maestro AR Rahman clarified his recent remarks on the Hindi film industry, expressing deep affection for India and stating he never intended to cause pain. Actor Paresh Rawal publicly supported Rahman, calling him 'our pride,' though his comment drew mixed reactions online, with some questioning its sincerity and others embracing it as genuine.",
     "img": "https://static.toiimg.com/photo/msid-126644764,imgsize-24390.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/paresh-rawal-reacts-to-ar-rahmans-clarification-of-his-communal-remark-you-are-our-pride/articleshow/126644793.cms",
     "time": "2026-01-18T13:45:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "EU to fire trade 'bazooka'? Macron urges tough action against Trump tariffs",
-    "desc": "France will ask the EU to activate its anti-coercion instrument against potential US tariffs over Greenland. President Macron stated the threat is unacceptable and Europe will not be intimidated. The tool, a trade 'bazooka,' allows the bloc to curb imports or market access in response to economic coercion.",
-    "img": "https://static.toiimg.com/photo/msid-126644727,imgsize-94106.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/greenland-row-frances-macron-urges-trade-bazooka-action-against-us-tariffs-seeks-activation-of-eu-anti-coercion-instrument/articleshow/126644693.cms",
-    "time": "2026-01-18T13:43:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Investing in women’s employment is key to future-proof economies, says industry chair",
-    "desc": "Ebru Ozdemir, a prominent figure in the engineering and construction sector, asserts that empowering women in the workforce is the most effective strategy for building a robust, inclusive, and future-ready economy. She emphasizes that gender-focused reskilling and upskilling are vital for the digital age, and integrating women into STEM fields is crucial for tackling global challenges and ensuring sustainable growth.",
-    "img": "https://static.toiimg.com/photo/msid-126643669,imgsize-203716.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/wef-2026-investing-in-womens-employment-is-key-to-future-proof-economies-industry-chair-ebru-ozdemir/articleshow/126643645.cms",
-    "time": "2026-01-18T13:25:00.000Z"
   },
   {
     "cat": "World",
@@ -621,24 +693,6 @@ const newsData_en = [
     "time": "2026-01-18T12:30:11.000Z"
   },
   {
-    "cat": "Business",
-    "title": "MAIT seeks customs duty cuts on key electronic components",
-    "desc": "The IT industry body MAIT has urged the government to slash basic customs duty on key electronic components and boost tax incentives in the upcoming Union Budget. This move aims to strengthen domestic manufacturing, improve global competitiveness, and address supply chain vulnerabilities amid rising global uncertainties. MAIT also called for continued support for mobile manufacturing.",
-    "img": "https://static.toiimg.com/photo/msid-126642895,imgsize-185532.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-mait-seeks-customs-duty-cuts-on-key-electronic-components-push-to-boost-domestic-manufacturing/articleshow/126642858.cms",
-    "time": "2026-01-18T12:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aamir reacts to Mumbai's poor AQI, says, ‘Abhi Kya Kare?'",
-    "desc": "Aamir Khan ran Tata Mumbai Marathon with ex-wife Kiran Rao and kids Junaid, Ira, Azad. Post-run, he quipped “Abhi kya kare?” on Mumbai's poor AQI; Kiran urged collective action. Daughter inspired him via disabled/senior runners' spirit. Cameo in Happy Patel; producing Ek Din, eyeing Phalke biopic, Mahabharata.",
-    "img": "https://static.toiimg.com/photo/msid-126643496,imgsize-22008.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-reacts-to-mumbais-poor-aqi-says-abhi-kya-kare/articleshow/126643496.cms",
-    "time": "2026-01-18T12:21:10.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Terrible comments': Veteran domestic cricketer lambasts India coach",
     "desc": "Former cricketer Priyank Panchal slammed assistant coach Ryan ten Doeschate's remarks on Rohit Sharma and Nitish Kumar Reddy, questioning foreign coaches' grasp of Indian cricket dynamics. Panchal argued that a lack of cultural understanding and respect, especially from coaches with less impressive backgrounds, leads to such missteps, sparking debate on communication and sensitivity within the team.",
@@ -646,15 +700,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/terrible-comments-veteran-domestic-cricketer-lambasts-india-coach/articleshow/126642912.cms",
     "time": "2026-01-18T11:59:08.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What new UAE salary rule means for workers and employers",
-    "desc": "The UAE has implemented a new minimum wage per month for private-sector employees in the Emirates, effective January 1, 2026. This policy aims to bolster Emiratisation efforts and strengthen labour standards. Companies must comply by June 30, 2026 or face penalties, marking a significant shift in the nation's labour market.",
-    "img": "https://static.toiimg.com/photo/msid-126642800,imgsize-35956.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/dubai-raises-minimum-wages-what-new-uae-salary-rule-means-for-workers-and-employers/articleshow/126641415.cms",
-    "time": "2026-01-18T11:35:00.000Z"
   },
   {
     "cat": "Sports",
@@ -783,15 +828,6 @@ const newsData_en = [
     "time": "2026-01-18T01:01:33.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Akshaye is 10/10, but Ranveer is 100/10': Suniel Shetty on 'Dhurandhar'",
-    "desc": "Blockbuster 'Dhurandhar' continues its phenomenal run, crossing Rs 1300 crore globally. Actor Suniel Shetty lauded director Aditya Dhar's vision and praised the cast, calling Akshaye Khanna 'ten on ten' and Ranveer Singh '100 out of 10'. Shetty highlighted Ranveer's controlled performance as particularly challenging and expressed excitement for his potential in future installments.",
-    "img": "https://static.toiimg.com/photo/msid-126627484,imgsize-40822.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshaye-khanna-is-10/10-ranveer-singh-is-100/10-legendary-says-suniel-shetty-as-he-showers-praise-on-aditya-dhars-dhurandhar/articleshow/126627493.cms",
-    "time": "2026-01-17T19:53:09.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran protests",
     "desc": "What began as a shopkeepers’ strike transformed into one of the largest anti-government protests the Islamic Republic has seen, triggering a violent state crackdown in which thousands are feared killed; Tehran says Western intelligence agencies hijacked the protest and unleashed ‘domestic terror’",
@@ -810,15 +846,6 @@ const newsData_en = [
     "time": "2026-01-17T15:00:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kangana was denied saree for Ram Janmbhoomi by designer Masaba Gupta",
-    "desc": "Kangana Ranaut has hit back at AR Rahman's comments on Bollywood's alleged communal bias, calling him prejudiced. She revealed that Rahman refused to meet her for her directorial 'Emergency,' citing it as a propaganda film. Ranaut also shared a distressing incident where designer Masaba Gupta allegedly denied her a saree for Ram Janmbhoomi, causing her deep humiliation.",
-    "img": "https://static.toiimg.com/photo/msid-126616049,imgsize-57538.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-says-she-was-refused-saree-by-designer-masaba-gupta-to-wear-at-ram-janmbhoomi-as-she-reacts-to-ar-rahmans-communal-remark-i-cried-in-my-car/articleshow/126615559.cms",
-    "time": "2026-01-17T13:23:51.000Z"
-  },
-  {
     "cat": "Business",
     "title": "China cuts its U.S. debt holdings to a 17-year low, shifts reserves to gold",
     "desc": "China's holdings of U.S. treasuries fell to $682.6 billion in November last year, down from $688.7 billion in October, the lowest since 2008, according to data released by the U.S. Department of the Treasury on Thursday (January 15, 2026)",
@@ -835,24 +862,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/its-now-or-never-for-indias-fifa-world-cup-push-ashalata-devi/article70518459.ece",
     "time": "2026-01-17T12:15:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kangana calls AR Rahman most prejudiced and hateful man",
-    "desc": "AR Rahman's comments on the Hindi film industry being 'communal' and calling 'Chhaava' divisive have sparked debate. Kangana Ranaut responded, revealing Rahman refused to score her film 'Emergency,' calling it 'propaganda.' Rahman, in a BBC interview, hinted at power shifts and a potential 'communal thing' influencing industry decisions.",
-    "img": "https://static.toiimg.com/photo/msid-126613564,imgsize-35926.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/not-come-across-a-man-more-prejudiced-hateful-than-you-kangana-ranaut-says-ar-rahman-refused-to-meet-her-for-emergency-called-it-a-propaganda-film/articleshow/126613366.cms",
-    "time": "2026-01-17T11:56:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Javed Akhtar reacts to AR Rahman's 'communal' remark",
-    "desc": "AR Rahman's recent comments about fewer Bollywood opportunities and a potential communal reason have sparked industry debate. Veteran screenwriter Javed Akhtar and Shobhaa De have expressed disbelief, suggesting fear of Rahman's stature, not communal bias, keeps people away. Rahman himself hinted at a power shift favoring non-creative individuals, leading to indirect exclusion.",
-    "img": "https://static.toiimg.com/photo/msid-126612359,imgsize-43658.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/javed-akhtar-reacts-to-ar-rahmans-communal-remark-shobhaa-de-calls-it-a-dangerous-comment/articleshow/126612308.cms",
-    "time": "2026-01-17T11:10:36.000Z"
   },
   {
     "cat": "World",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/nobel-peace-prize-inseparable-from-laureate-award-body-says-after-trump-gets-medal-from-machado/article70517413.ece",
     "time": "2026-01-16T23:57:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "WPL-4: Radha, Richa, Shreyanka star as RCB maintains perfect run",
-    "desc": "The two batters put on 105 off 66 balls for the fifth wicket after Giants reduce the Bengaluru outfit to 43 for four; the off-spinner claims five while pacer Bell chips in with a three-wicket haul for the winning side",
-    "img": "https://th-i.thgim.com/public/incoming/bqz9u3/article70516302.ece/alternates/LANDSCAPE_1200/PTI01_12_2026_000459A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/wpl-4-radha-richa-shreyanka-star-as-rcb-maintains-perfect-run/article70516303.ece",
-    "time": "2026-01-16T20:50:00.000Z"
   }
 ];

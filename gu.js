@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "ભારે હિમવર્ષા અને વરસાદ... આજથી બદલાઈ જશે હવામાન, આવી રહી છે કુદરતી આફત !",
+    "desc": "આજે હિમાલય વિસ્તારમાં એક પાવરફુલ પશ્ચિમી વિક્ષેપ સક્રિય થઈ રહ્યો છે, જેના કારણે પર્વતીય વિસ્તારોમાં ભારે હિમવર્ષા થઈ રહી છે, જ્યારે તેની અસર મેદાની વિસ્તારોમાં પણ અનુભવાશે. હવામાન વિભાગે આગાહી કરી છે કે પશ્ચિમી વિક્ષેપ દિલ્હી, રાજસ્થાન અને પંજાબના ઘણા વિસ્તારોમાં નોંધપાત્ર વરસાદ લાવી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/weather-western-disturbance-active-snowfall-and-rain-in-delhi-punjab-rajasthan-462159 ",
+    "time": "2026-01-19T03:31:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વિદર્ભે રચ્યો ઇતિહાસ... સૌરાષ્ટ્રને હરાવીને પ્રથમ વખત જીતી વિજય હજારે ટ્રોફી",
+    "desc": "વિદર્ભ વિજય હજારે ટ્રોફીનો નવો ચેમ્પિયન બન્યો છે. વિદર્ભે સૌરાષ્ટ્રને 38 રનથી હરાવીને પ્રથમ વખત વિજય હજારે ટ્રોફી જીતી છે. જીતનો હીરો અથર્વ તાયડે હતો, જેણે મેચ વિનર સદી ફટકારી હતી અને ટીમની જીતમાં મહત્વપૂર્ણ યોગદાન આપ્યું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/vht-2026-vidarbha-win-vijay-hazare-trophy-for-1st-time-beating-saurashtra-in-final-462153 ",
+    "time": "2026-01-19T03:01:45.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ગાઝા પીસ બોર્ડમાં ભારત પણ ભજવશે ખાસ ભૂમિકા, અમેરિકાના રાષ્ટ્રપતિ ટ્રમ્પનું આવ્યું આમંત્રણ",
     "desc": "ઈઝરાયેલ અને હમાસ વચ્ચેના યુદ્ધનો અંત લાવી ગાઝામાં શાંતિ સ્થાપવા માટે બનાવવામાં આવી રહેલા 'પીસ બોર્ડ'માં ભારતને સામેલ કરવાના પ્રયાસો થઈ રહ્યા છે. અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ભારતને પણ આમાં સામેલ થવા માટે આમંત્રણ મોકલ્યું છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -315,15 +333,6 @@ const newsData_gu = [
     "time": "2026-01-16T07:21:46.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "અસંભવ: સચિન તેંડુલકરની 100 સદી કરતા પણ વધુ મુશ્કેલ છે આ વર્લ્ડ રેકોર્ડ તોડવો...!!!",
-    "desc": "ક્રિકેટની દુનિયામાં એક વર્લ્ડ રેકોર્ડ એવો છે, જેને તોડવો લગભગ અશક્ય સમાન છે. શ્રીલંકાના દિગ્ગજ ઓફ-સ્પિનર મુથૈયા મુરલીધરને ઇન્ટરનેશનલ ક્રિકેટમાં કુલ 1347 વિકેટ ઝડપી છે. આ વર્લ્ડ રેકોર્ડને તોડવો કોઈપણ બોલર માટે નામુમકિન જેવું જ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/impossible-breaking-this-world-record-is-even-more-difficult-than-sachin-tendulkars-100-centuries-461822 ",
-    "time": "2026-01-16T05:46:09.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ઘર બેઠા રણવીર સિંહની ધુરંધર ફિલ્મ જોવા થઈ જાવ તૈયાર, જાણો ક્યારે થઈ રહી છે રિલીઝ",
     "desc": "રણવીર સિંહની સ્પાઈ એકશન થ્રિલર ફિલ્મ ધુરંધર સિનેમાઘરોમાં રિલીઝ ત્યારથી ચર્ચામાં છે. આ ફિલ્મ અને તેના દમદાર પાત્રોના લોકો વખાણ કરી રહ્યા છે. આ ફિલ્મ હવે તમે ઘર બેઠા પણ જોઈ શકશો. કારણ કે રણવીર સિંહની ફિલ્મ ઓટીટી પર રિલીઝ થવા માટે તૈયાર છે.",
@@ -340,15 +349,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/india-has-issued-an-advisory-for-its-citizens-living-in-israel-amid-regional-tensions-461779 ",
     "time": "2026-01-15T17:47:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ક્રિકેટમાં આવી રહ્યો છે અનોખો નિયમ, બેટ્સમેન નહીં કરે ફીલ્ડિંગ... બદલાઈ જશે BBLની તસ્વીર!",
-    "desc": "બિગ બેશ લીગ (BBL) 2026-27 સીઝનથી 'Designated Hitter Fielder' નિયમ લાગુ કરશે, જેના હેઠળ એક ખેલાડી ફક્ત બેટિંગ અને બીજો ખેલાડી ફક્ત ફીલ્ડિંગ કરશે. આનાથી સિનિયર અને દિગ્ગજ ખેલાડીઓને ઈજાથી બચાવવામાં અને લીગમાં લાંબા સમય સુધી ટકી રહેવામાં મદદ મળશે. રિકી પોન્ટિંગ અને ગ્લેન મેક્સવેલે આ નિર્ણયનું સમર્થન કર્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/big-bash-league-2026-designated-hitter-fielder-rule-explained-461778 ",
-    "time": "2026-01-15T17:21:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -547,14 +547,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/meera-plan-on-video-of-arya-and-anu-private-moments-a-big-twist-is-coming-in-tumm-se-tumm-tak-serial-461124 ",
     "time": "2026-01-10T11:19:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ખિચડી પછી વધુ એક કોમેડી ટીવી શો ની બની ફિલ્મ, આ તારીખે રિલીઝ થશે ભાભી જી ઘર પર હૈ મુવી",
-    "desc": "ટીવીનો હાઈએસ્ટ રેટેડ શો ભાભીજી ઘર પર હૈ હવે મોટા પડદે આવવા માટે તૈયાર છે. આ શો પર હવે એક ફિલ્મ બની છે. આ ફિલ્મની રિલીઝ ડેટ પણ જાહેર કરી દેવામાં આવી છે. આ ફિલ્મ આવતા મહિને રિલીઝ થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/bhabiji-ghar-par-hain-film-release-date-popular-comedy-film-bhabiji-ghar-par-hain-trailer-461083 ",
-    "time": "2026-01-10T06:43:15.000Z"
   }
 ];

@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Stats comparison after 85 international centuries",
+    "desc": "Virat Kohli slammed his 54th century in ODI cricket on Sunday in the third and final match of the series against New Zealand. It was the 85th century for him in his illustrious international career...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-vs-sachin-tendulkar-stats-comparison-after-85-international-centuries-2026-01-19-1026453",
+    "time": "2026-01-19T03:52:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'No one supported him': Former India cricketer points out lack of support for Virat Kohli after third ODI loss",
+    "desc": "The third and final ODI of the ongoing multi-format series between India and New Zealand was won by the visitors. The two sides locked horns in the third ODI at the Holkar Stadium in Indore...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/no-one-supported-him-former-india-cricketer-points-out-lack-of-support-for-virat-kohli-after-third-odi-loss-2026-01-19-1026441",
+    "time": "2026-01-19T02:35:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pape Gueye propels Senegal to AFCON win against Morocco in controversial summit clash",
+    "desc": "The AFCON final saw Senegal take on Morocco. The two sides locked horns at the Prince Moulay Abdellah Stadium on January 19, and the final will go down as one of the most controversial finals...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/pape-gueye-propels-senegal-to-afcon-win-against-morocco-in-controversial-summit-clash-2026-01-19-1026433",
+    "time": "2026-01-19T01:33:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vidarbha beat Saurashtra in to lift maiden Vijay Hazare Trophy trophy as Atharva Taide slams hundred in final",
     "desc": "Vidarbha defeated Saurashtra in the final of the Vijay Hazare Trophy 2025/26 as Atharva Taide slammed a scintillating hundred in a 38-run comfortable victory to seal their maiden Vijay Hazare Trophy title on Sunday. Taide slammed a...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/daryl-mitchell-misses-shubman-gill-babar-azams-record-despite-stellar-knock-in-ind-vs-nz-3rd-odi-2026-01-18-1026410",
     "time": "2026-01-18T13:56:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Daryl Mitchell surpasses Viv Richards, Ponting as his insane run against India continues",
-    "desc": "New Zealand star Daryl Mitchell continued his rich vein of form as he slammed yet another century in the ongoing ODI series against India. Mitchell, who had hit 84 and an unbeaten 131 in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-3rd-odi-daryl-mitchell-surpasses-viv-richards-ponting-as-his-insane-run-against-india-continues-2026-01-18-1026399",
-    "time": "2026-01-18T11:58:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Daryl Mitchell creates history, becomes first ever player to achieve major record vs India",
-    "desc": "New Zealand star Daryl Mitchell etched his name into the history books as he achieved a massive record in the third ODI against India on Sunday, January 18. With the series on the line at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/daryl-mitchell-creates-history-becomes-first-ever-player-to-achieve-major-record-vs-india-2026-01-18-1026393",
-    "time": "2026-01-18T10:43:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Hardik Pandya not playing 3rd ODI vs New Zealand in Indore?",
-    "desc": "India and New Zealand lock horns in the third and final ODI of the ongoing multi-format series. The two sides take on each other at the Holkar Stadium in Indore on January 18. With the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-hardik-pandya-not-playing-3rd-odi-vs-new-zealand-in-indore-2026-01-18-1026381",
-    "time": "2026-01-18T07:42:22.000Z"
   }
 ];
