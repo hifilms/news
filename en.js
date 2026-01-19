@@ -1,5 +1,131 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Gang violence in Guatemala kills seven police officers after inmates take over prisons",
+    "desc": "The attacks on police in and around Guatemala City came after hundreds of anti-riot police stormed Renovacion prison in Escuintla, about 76 km southwest of the capital, to free nine guards who had been taken hostage there",
+    "img": "https://th-i.thgim.com/public/incoming/f0wabh/article70524089.ece/alternates/LANDSCAPE_1200/2026-01-19T001603Z_979440800_RC2L3JAZB0AK_RTRMADP_3_GUATEMALA-PRISON.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/guatemala-gang-violence-prison-takeover-emergency-declared-several-killed-january-19-2026/article70524088.ece",
+    "time": "2026-01-19T01:12:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Tom Cruise",
+    "desc": "Hollywood star Tom Cruise shares his wisdom on overcoming fear. He emphasizes continuous effort and taking small steps to achieve goals. Cruise, known for performing his own stunts, believes facing the unknown is key. His advice encourages people to keep working through challenges. This approach has inspired many, reflecting his own career journey.",
+    "img": "https://static.toiimg.com/photo/msid-126665210,imgsize-52220.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-tom-cruise-dont-be-so-worried-if-you-are-afraid-just-keep-working-through-it/articleshow/126665196.cms",
+    "time": "2026-01-19T00:57:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar' ends seventh weekend with Rs 8.5 crore haul",
+    "desc": "Aditya Dhar's 'Dhurandhar', starring Ranveer Singh and Akshaye Khanna, concluded its seventh weekend with a strong Rs 8.5 crore, reversing an earlier slowdown. The film has achieved one of the highest seventh-week performances ever, now standing second on the all-time list. With a staggering Rs 825.1 crore net collection, 'Dhurandhar' is on track to join the Rs 1,000 crore club.",
+    "img": "https://static.toiimg.com/photo/msid-126665107,imgsize-24100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-45-ranveer-singh-and-akshaye-khanna-continue-impressive-run-with-rs-8-5-crore-seventh-weekend-haul/articleshow/126664996.cms",
+    "time": "2026-01-19T00:43:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vir Das-starrer earns Rs 1.5 cr",
+    "desc": "Khatarnak Jasoos' has stirred a pot of mixed reviews. While some praise its clever wit and Aamir Khan's savvy production, others have yet to be convinced. The film collected Rs 1.5 crore on its third day alone, totaling an impressive Rs 4.35 crore thus far.",
+    "img": "https://static.toiimg.com/photo/msid-126665007,imgsize-79190.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/happy-patel-khatarnak-jasoos-box-office-collection-day-3-vir-das-starrer-comedy-film-earns-rs-1-5-crore-on-first-sunday/articleshow/126665007.cms",
+    "time": "2026-01-19T00:34:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Babar flops again as BBL nightmare deepens, proving Smith's call spot on",
+    "desc": "Babar Azam's Big Bash League struggles persisted with another low score for Sydney Sixers against Brisbane Heat. Despite the team's crucial win, Babar's form and strike rate remain a concern, highlighted by a recent incident with Steve Smith. The Sixers secured a playoff spot, but questions linger over the Pakistani star's tempo.",
+    "img": "https://static.toiimg.com/photo/msid-126644678,imgsize-156666.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/babar-azam-flops-again-as-bbl-nightmare-deepens-proving-steve-smiths-call-spot-on/articleshow/126644768.cms",
+    "time": "2026-01-18T23:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Bhabhi bol': Rana recalls how Kohli pulled his leg after meeting Anushka",
+    "desc": "Harshit Rana recounted a funny moment with Virat Kohli and Anushka Sharma. This happened after India won the 2025 Champions Trophy. Rana met Anushka Sharma for the first time and called her 'ma'am'. Kohli playfully corrected him, asking him to call her 'Bhabhi'. The story highlights Kohli's humorous side and ability to keep the team atmosphere light.",
+    "img": "https://static.toiimg.com/photo/msid-126644482,imgsize-134902.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/bhabhi-bol-inko-harshit-rana-recalls-how-virat-kohli-pulled-his-leg-after-meeting-anushka-sharma-watch/articleshow/126644478.cms",
+    "time": "2026-01-18T23:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In 2023 too, -40 was good enough for NEET PG",
+    "desc": "Medical community outrage erupts as NEET PG 2025 cut-off for reserved categories drops to zero percentile, equivalent to a minus 40 score. This zero percentile qualification, previously seen in 2023, is now a recurring issue. Critics argue this move, driven by commercial interests, effectively reserves seats for the wealthy in private colleges, compromising educational standards.",
+    "img": "https://static.toiimg.com/photo/msid-126664297,imgsize-595770.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/in-2023-too-40-was-good-enough-for-neet-pg/articleshow/126663852.cms",
+    "time": "2026-01-18T22:45:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How India got its first woman PM this day in 1966",
+    "desc": "Indira Gandhi made history on January 19, 1966, becoming India's first woman Prime Minister after a closely contested election within the Congress Parliamentary Party. Defeating Morarji Desai in a four-hour drama, her victory marked a significant shift in party leadership battles and ushered in a new era for Indian politics. The nation celebrated this momentous personal and political triumph.",
+    "img": "https://static.toiimg.com/photo/msid-126663283,imgsize-553678.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/how-india-got-its-first-woman-pm-this-day-in-1966/articleshow/126663187.cms",
+    "time": "2026-01-18T22:32:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TMC taunts PM  Modi over Singur silence",
+    "desc": "Bengal's industries minister Shashi Panja criticized PM Modi for not announcing any projects for Singur during his rally, leaving state BJP members disappointed. The TMC also countered BJP's claims of an industry exodus, highlighting a new Rs 500-crore warehouse project approved for Singur.",
+    "img": "https://static.toiimg.com/photo/msid-126663092,imgsize-905505.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tmc-taunts-pm-modi-over-singur-silence/articleshow/126662994.cms",
+    "time": "2026-01-18T22:28:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "IndiGo to inform if it can fly 2k flights daily",
+    "desc": "IndiGo faces a critical deadline this week to confirm its ability to operate over 2,000 daily flights under new, stricter pilot duty rules. Failure to comply could lead to flight cuts, averting a repeat of last December's disruptions. The airline is conducting dry runs to assess its readiness as authorities closely monitor the situation.",
+    "img": "https://static.toiimg.com/photo/msid-126662220,imgsize-694877.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/indigo-to-inform-if-it-can-fly-2k-flights-daily/articleshow/126662186.cms",
+    "time": "2026-01-18T22:06:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Jungle raj’ must end for growth: PM Modi in West Bengal; attacks TMC govt",
+    "desc": "Prime Minister Narendra Modi launched a sharp attack on the Trinamool Congress government in West Bengal, calling for an end to \"maha jungle raj\" to restore law and order and attract investment. He accused the TMC of facilitating infiltration and blocking central welfare schemes, framing the upcoming assembly elections as a choice between \"jungle raj\" and BJP's \"sushasan\" (good governance).",
+    "img": "https://static.toiimg.com/photo/msid-126662171,imgsize-1352906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jungle-raj-must-end-for-growth-pm-modi-in-west-bengal-attacks-tmc-govt/articleshow/126662158.cms",
+    "time": "2026-01-18T22:03:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Uttarakhand to Kashmir, Himalayan forests are catching fire out of season",
+    "desc": "Himalayan forests are experiencing an unprecedented winter fire season, breaking decades of predictable patterns. Uttarakhand has recorded the highest number of fire alerts nationwide since November 1, with December emerging as a particularly active month. Scientists attribute this alarming trend to climate variability intensifying natural fire cycles, indicating a significant ecological shift.",
+    "img": "https://static.toiimg.com/photo/msid-126661848,imgsize-766126.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/when-winter-burns-uttarakhand-to-kashmir-himalayan-forests-are-catching-fire-out-of-season/articleshow/126661834.cms",
+    "time": "2026-01-18T21:37:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "From back office to cutting edge, India emerges as hub for GCCs",
+    "desc": "The availability of a large, cheaper English-speaking IT workforce led foreign firms to begin setting up subsidiaries in the country 40 years ago. Today, multinational companies have deepened their presence in this multi-billion dollar oasis in the job market, with at least one Global Capability Centre being established every week. From playing a supporting role, GCCs are now shaping the business",
+    "img": "https://th-i.thgim.com/public/news/cities/Delhi/vnotfx/article70522020.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/from-back-office-to-cutting-edge-india-emerges-as-hub-for-gccs/article70522005.ece",
+    "time": "2026-01-18T21:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lawyers can't use RTI for cases they are handling",
+    "desc": "The Central Information Commission (CIC) ruled that advocates cannot use the RTI Act to obtain case details for clients, citing a Madras High Court judgment. The CIC emphasized that such usage defeats the RTI Act's core objectives and could be exploited to promote legal practice, not for genuine citizen information access.",
+    "img": "https://static.toiimg.com/photo/msid-126661754,imgsize-449053.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cic-lawyers-cant-use-rti-for-cases-they-are-handling/articleshow/126661746.cms",
+    "time": "2026-01-18T21:26:33.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Rahman says people gaslighted him into believing he's not making good music",
     "desc": "AR Rahman revealed a deliberate strategy to work on 20-30 films between 2019-2025 to connect with a new generation and counter nostalgic perceptions of his music. He emphasized reinventing himself, dropping formulas, and prioritizing future work over past accolades to maintain motivation and a fresh perspective.",
@@ -297,6 +423,15 @@ const newsData_en = [
     "time": "2026-01-18T16:03:46.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "Tamil Nadu government institutes literary award for works in seven Indian languages",
+    "desc": "In the first phase, the best literary works in Tamil, Telugu, Kannada, Malayalam, Odia, Bengali, and Marathi will receive the Semmozhi Literary Award every year. The award will carry a cash prize of ₹5 lakh for each language, Chief Minister M.K. Stalin says at the valediction of Chennai International Book Fair 2026",
+    "img": "https://th-i.thgim.com/public/incoming/ng7bt2/article70522850.ece/alternates/LANDSCAPE_1200/BVR_4361.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/tamil-nadu-government-institutes-literary-award-for-works-in-seven-indian-languages/article70522529.ece",
+    "time": "2026-01-18T15:54:10.000Z"
+  },
+  {
     "cat": "World",
     "title": "Poland Deputy PM Sikorski",
     "desc": "Ahead of a meeting with External Affairs Minister S. Jaishankar, the Polish Foreign Minister and Deputy Prime Minister says his country is ‘pleased’ with Indian reduction in Russian oil purchases, and hopes for an EU-India FTA next week",
@@ -423,15 +558,6 @@ const newsData_en = [
     "time": "2026-01-18T14:25:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Massification’ of higher education system has triggered an ‘epidemic’ of distress: Supreme Court order",
-    "desc": "SC issues series of directions, including that vacant faculty positions in both public and private higher education institutions (HEIs) must be filled up within four months; appointments of Vice-Chancellors and Registrars must be made within a month of the posts falling vacant, it says",
-    "img": "https://th-i.thgim.com/public/incoming/60e7rz/article70522714.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%203.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/massification-of-higher-education-system-has-triggered-an-epidemic-of-distress-sc-order/article70522181.ece",
-    "time": "2026-01-18T14:23:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "SNL sketch gives Harry Potter’s Harry and Ron a steamy romance inspired by HBO’s ‘Heated Rivalry’",
     "desc": "A Saturday Night Live sketch has folded Heated Rivalry into pop-culture shorthand, spoofing the HBO hockey romance through a Harry Potter parody packed with innuendo. With Finn Wolfhard, Ben Marshall and a surprise Jason Momoa cameo, the sketch reflects how quickly the series, already renewed for season two, has travelled from niche hit to mainstream reference point.",
@@ -486,15 +612,6 @@ const newsData_en = [
     "time": "2026-01-18T13:12:35.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Speeding car mows down labourers; 2 killed, 11 hurt in Jabalpur",
-    "desc": "A speeding, unplated car mowed down labourers during their lunch break, killing two and injuring eleven in Jabalpur on Sunaday. The victims, from Mandla district, were installing road dividers when the horrific incident occurred near Ekta Chowk. Authorities are actively searching for the driver who fled the scene, with one injured person in critical condition.",
-    "img": "https://static.toiimg.com/photo/msid-126644021,imgsize-519173.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mp-speeding-car-mows-down-labourers-2-killed-11-hurt-in-jabalpur/articleshow/126643264.cms",
-    "time": "2026-01-18T12:54:38.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Daryl Mitchell scripts history, becomes the highest ever to…",
     "desc": "Daryl Mitchell proved a challenge for India in ODIs. His century helped New Zealand post 338. Mitchell's record against India is impressive. He leads in average runs against them. New Zealand's innings saw Mitchell and Glenn Phillips score centuries. This partnership was crucial. India's bowlers took wickets late in the innings. New Zealand finished at 337 for 8.",
@@ -520,15 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-reacts-to-mumbais-poor-aqi-says-abhi-kya-kare/articleshow/126643496.cms",
     "time": "2026-01-18T12:21:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akhil Sathyan hints his next collaboration with Nivin Pauly",
-    "desc": "After the impressive reception of 'Sarvam Maya', director Akhil Sathyan is gearing up for a delightful reunion with the charismatic Nivin Pauly in an upcoming Bollywood-styled romantic comedy. With the comedic flair of Aju Varghese in the mix, the film promises to explore the quirks of love in the mid-thirties.",
-    "img": "https://static.toiimg.com/photo/msid-126643291,imgsize-34964.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/akhil-sathyan-and-nivin-pauly-to-team-up-after-sarvam-maya-for-a-romantic-comedy/articleshow/126643291.cms",
-    "time": "2026-01-18T12:12:52.000Z"
   },
   {
     "cat": "Sports",
@@ -574,15 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/riding-cycles-of-over-rs-10-lakh-india-braces-for-historic-chapter-with-pune-grand-tour-2026/articleshow/126642150.cms",
     "time": "2026-01-18T10:55:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Bengal ready to topple TMC's maha-jungleraj': PM Modi rips into Mamata govt at Singur rally; watch",
-    "desc": "Prime Minister Narendra Modi, addressing a rally in Singur, West Bengal, urged voters to end the 15-year \"mega-jungleraj\" of the Mamata Banerjee government. He launched development projects worth over Rs 830 crore and flagged off three Amrit Bharat trains. Modi accused the state government of obstructing central schemes and highlighted West Bengal's potential for development.",
-    "img": "https://static.toiimg.com/photo/msid-126642185,imgsize-870258.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bengal-ready-to-topple-tmcs-mega-jungleraj-pm-modi-rips-into-mamata-govt-at-singur-rally-watch/articleshow/126642172.cms",
-    "time": "2026-01-18T10:53:40.000Z"
   },
   {
     "cat": "Sports",
@@ -657,15 +756,6 @@ const newsData_en = [
     "time": "2026-01-18T05:55:29.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Got the benefit of ... ': Ayush Badoni opens up on maiden India call-up",
-    "desc": "Delhi cricketer Ayush Badoni's career took a turn after focusing on bowling, transforming him into an all-rounder and earning him a maiden India call-up. The 26-year-old was added to the ODI squad against New Zealand, hoping for an opportunity to make an impact at the international level.",
-    "img": "https://static.toiimg.com/photo/msid-126638234,imgsize-43252.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ayush-badoni-opens-up-on-maiden-india-call-up-india-vs-new-zealand/articleshow/126638214.cms",
-    "time": "2026-01-18T05:55:13.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Mercedes-Benz India CEO",
     "desc": "This customs duty can be rationalised and brought under one slab...Only 5-8% of the cars we sell in India are facing customs duty and import duty. So, rationalising it, reducing it will make it simpler and help to grow, help get more taxes and get even better cars on the roads, says Santosh Iyer, Mercedes-Benz India MD and CEO",
@@ -673,15 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/rationalise-customs-duty-on-imported-luxury-cars-mercedes-benz-india-ceo/article70521312.ece",
     "time": "2026-01-18T05:22:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Falling bird's nest debris halts India Open semifinal",
-    "desc": "India Open badminton tournament marred by administrative blunders. A women's doubles semifinal was halted as bird's nest debris fell onto the court, following earlier incidents of bird droppings. Players have raised concerns about unhygienic conditions and venue readiness, questioning the event's suitability for a premier BWF tournament.",
-    "img": "https://static.toiimg.com/photo/msid-126637333,imgsize-38920.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/another-day-another-embarrassment-falling-birds-nest-debris-halts-india-open-semifinal/articleshow/126637354.cms",
-    "time": "2026-01-18T04:44:33.000Z"
   },
   {
     "cat": "World",
@@ -817,86 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/wpl-4-radha-richa-shreyanka-star-as-rcb-maintains-perfect-run/article70516303.ece",
     "time": "2026-01-16T20:50:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "It will be great if the next World title match is India v USA — imagine the interest: Irina Krush",
-    "desc": "The only American woman to become a Grandmaster, Krush has fond memories of India. In this conversation, she talks about wanting to see Gukesh defend his title against Fabiano Caruana, refusing to give up during the 12 years between her first and final GM norms, teaming with Magnus Carlsen, and looking at the silver lining in her struggles with Covid",
-    "img": "https://th-i.thgim.com/public/incoming/1ap25l/article70516341.ece/alternates/LANDSCAPE_1200/GettyImages-1258971082.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/irina-krush-interview-global-chess-league-india-memories/article70516346.ece",
-    "time": "2026-01-16T18:21:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What the Alcaraz-Ferrero split reveals about tennis’ player-coach dynamic",
-    "desc": "The mania around the high-profile breakup shows the evolving nature of the athlete-confidant alliance in an individualistic sport. Coaches used to be support acts to the star. But with on-court coaching now fully legal at all levels, they have moved from backstage to front and centre",
-    "img": "https://th-i.thgim.com/public/incoming/ukm72u/article70516321.ece/alternates/LANDSCAPE_1200/GettyImages-1704083529.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/tennis/carlos-alcaraz-juan-carlos-ferrero-split-evolution-of-tennis-coaching/article70516333.ece",
-    "time": "2026-01-16T18:14:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Air India, Singapore Airlines sign deal to offer air travellers more routes, easier connections",
-    "desc": "The collaboration also aims to have closer alignment of flight schedules between Air India and SIA to enhance customer convenience; both airlines codeshare on 61 points in 20 countries and territories; SIA holds a 25.1% equity stake in the Air India Group",
-    "img": "https://th-i.thgim.com/public/business/Industry/nu6bke/article70514327.ece/alternates/LANDSCAPE_1200/AI-Singapore.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/air-india-singapore-airlines-sign-agreement-to-provide-travellers-more-air-routes-loyalty-benefits/article70514320.ece",
-    "time": "2026-01-16T10:59:02.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Greenland is a territory of Denmark, says Russia, slams ‘double standards’ of Western powers",
-    "desc": "Moscow ⁠said this week that it was ‌unacceptable for ‌the West to keep claiming ‍that Russia and China ‍threatened Greenland, and said that the crisis over the territory showed the double standards ⁠of Western powers",
-    "img": "https://th-i.thgim.com/public/incoming/6ay47a/article70514281.ece/alternates/LANDSCAPE_1200/Greenland_In_Their_Words_68214.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/greenland-is-danish-territory-says-russia/article70514279.ece",
-    "time": "2026-01-16T10:21:51.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Uganda's President Museveni takes commanding lead in early election results",
-    "desc": "Results announced by the electoral commission from January 15, vote showed Mr. Museveni with 76.25% of vote based on tallies from nearly half of the polling ⁠stations. Wine trailed with 19.85%, with the remaining vote split among six other candidates",
-    "img": "https://th-i.thgim.com/public/incoming/wt8oc8/article70513891.ece/alternates/LANDSCAPE_1200/2026-01-13T170023Z_9906309_RC2F0JA98KHZ_RTRMADP_3_UGANDA-ELECTION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/ugandas-president-museveni-takes-commanding-lead-in-early-election-results/article70513837.ece",
-    "time": "2026-01-16T08:00:37.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump threatens to use Insurrection Act to 'put end' to protests in Minneapolis",
-    "desc": "Mr. Trump made threat after a federal officer shot a man in the leg in Minneapolis on January 16, after being attacked with a shovel and broom handle. The incident further heightened the sense of fear and anger radiating across the city a week after an immigration agent fatally shot a woman in the head",
-    "img": "https://th-i.thgim.com/public/incoming/iq4673/article70513793.ece/alternates/LANDSCAPE_1200/APTOPIX_Immigration_Enforcement_Minnesota_67327.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-threatens-to-use-insurrection-act-to-put-end-to-protests-in-minneapolis/article70513674.ece",
-    "time": "2026-01-16T07:33:42.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Four Arab states urged against U.S.-Iran escalation, official says",
-    "desc": "Saudi Arabia, Qatar, Oman and Egypt had conveyed to the U.S. that any attack would have consequences for the wider region in terms of both security and economics that would ultimately impact the United States ​itself",
-    "img": "https://th-i.thgim.com/public/incoming/49vw3d/article70513701.ece/alternates/LANDSCAPE_1200/AP01_14_2026_000668B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/four-arab-states-urged-against-us-iran-escalation-official-says/article70513632.ece",
-    "time": "2026-01-16T07:06:52.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. seizes sixth sanctioned tanker it says has ties to Venezuela in Trump's effort to control its oil",
-    "desc": "“U.S. Coast Guard boarded the tanker, Veronica. The ship had previously passed through Venezuelan waters and was operating in defiance of President Donald Trump's established quarantine of sanctioned vessels in the Caribbean,” says Homeland Security Secretary",
-    "img": "https://th-i.thgim.com/public/incoming/r8umo5/article70513270.ece/alternates/LANDSCAPE_1200/Trump_08855.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-seizes-sixth-sanctioned-tanker-it-says-has-ties-to-venezuela-in-trumps-effort-to-control-its-oil/article70513231.ece",
-    "time": "2026-01-16T03:24:51.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.N. Security Council discusses Iran’s deadly protests after U.S. request",
-    "desc": "U.N. Secretary-General António Guterres “urges maximum restraint at this sensitive moment and calls on all actors to refrain from any actions that could lead to further loss of life or ignite a wider regional escalation”",
-    "img": "https://th-i.thgim.com/public/incoming/iy9vno/article70513235.ece/alternates/LANDSCAPE_1200/2026-01-15T211352Z_1260178697_RC2X1JAJGAMR_RTRMADP_3_IRAN-ECONOMY-PROTESTS-UN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/un-security-council-discusses-irans-deadly-protests-after-us-request/article70513203.ece",
-    "time": "2026-01-16T03:09:46.000Z"
   }
 ];
