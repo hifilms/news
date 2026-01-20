@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Really happy': Smriti Mandhana opens up on her side's performance after record breaking start to WPL season",
+    "desc": "Game 12 of the ongoing WPL (Women’s Premier League) 2026 saw Royal Challengers Bengaluru women taking on Gujarat Giants. The two sides locked horns at the Kotambi Stadium in Vadodara on January 19. The game...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/really-happy-smriti-mandhana-opens-up-on-her-side-s-performance-after-record-breaking-start-to-wpl-season-2026-01-20-1026570",
+    "time": "2026-01-20T01:14:21.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Saina Nehwal confirms retirement from competitive badminton, says 'I thought it’s enough, can't push anymore'",
     "desc": "India's iconic shuttler Saina Nehwal has confirmed her retirement from competitive badminton, saying that she can't push it anymore. The 2012 Olympics bronze medallist, Nehwal, has not played any official match since the 2023 Singapore...",
     "img": "",

@@ -1,5 +1,212 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Govinda's nephew BREAKS SILENCE on actor's rift rumors with Sunita",
+    "desc": "In a heartfelt moment, Vinay Anand, nephew of the iconic Govinda, shared his warm sentiments for his uncle and aunt, Sunita Ahuja, amid swirling divorce speculations. He also highlighted the promising journey that lies ahead for Govinda's son, Yashvardhan, while expressing genuine concern over his uncle's recent health challenges, underscoring the importance of family unity.",
+    "img": "https://static.toiimg.com/photo/msid-126738278,imgsize-40254.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govindas-nephew-vinay-anand-breaks-silence-on-actors-divorce-rumors-with-wife-sunita-ahuja-says-would-gently-tell-my-mama-to-pay/articleshow/126738278.cms",
+    "time": "2026-01-20T00:53:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'MSVG' BO day 7: Chiranjeevi rules Sankranthi",
+    "desc": "Megastar Chiranjeevi's 'Mana Shankara Vara Prasad Garu' has achieved a phenomenal first week at the box office, raking in ₹157.75 crore net in India. The film's strong performance, with no significant drops, also saw ₹35.25 crore from overseas, making it Chiranjeevi's highest-grossing movie in North America. The family entertainer is praised for its fun appeal and Chiranjeevi's performance.",
+    "img": "https://static.toiimg.com/photo/msid-126738722,imgsize-44546.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/mana-shankara-vara-prasad-garu-box-office-collections-day-7-chiranjeevi-rules-sankranthi-film-crosses-rs-220-crore-worldwide/articleshow/126738722.cms",
+    "time": "2026-01-20T00:51:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Red, White &amp; Royal Wedding’ begins filmingin London",
+    "desc": "Production has begun on 'Red, White & Royal Wedding,' with stars Nicholas Galitzine and Taylor Zakhar Perez confirming the sequel focuses on Prince Henry's sister's nuptials, not their own. Filming is underway in London, with Jamie Babbit directing and a script from Gemma Burgess, Matthew López, and Casey McQuiston.",
+    "img": "https://static.toiimg.com/photo/msid-126738519,imgsize-728327.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/red-white-royal-wedding-begins-filming-nicholas-galitzine-and-taylor-zakhar-perez-tease-whats-next/articleshow/126738634.cms",
+    "time": "2026-01-20T00:47:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Parasakthi' BO day 10: Film nears Rs 50 crore mark",
+    "desc": "Sivakarthikeyan's 'Parasakthi' has achieved a respectable Rs 49.45 crore in its first ten days, nearing the Rs 50 crore milestone. Despite a slight weekday dip, the film saw a strong weekend push. However, social media buzz reveals mixed reactions, with some criticizing the screenplay and historical representation, while others question casting choices.",
+    "img": "https://static.toiimg.com/photo/msid-126737331,imgsize-93600.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-box-office-collections-day-10-sivakarthikeyan-film-nears-rs-50-crore-mark/articleshow/126737331.cms",
+    "time": "2026-01-20T00:30:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar' sets record for highest week 7 collections",
+    "desc": "'Dhurandhar' starring Ranveer Singh and Akshaye Khanna has achieved a new box office record for seventh-week collections, surpassing 'Stree 2'. Despite a dip in daily earnings, the film's impressive net collection of Rs 826.41 crore solidifies its status as the highest-grossing single-language release, inching closer to the Rs 1,000 crore milestone.",
+    "img": "https://static.toiimg.com/photo/msid-126737175,imgsize-28174.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-46-ranveer-singh-and-akshaye-khanna-starrer-sets-record-for-highest-week-7-collections/articleshow/126734530.cms",
+    "time": "2026-01-20T00:25:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Film witnesses HEAVY dip",
+    "desc": "Khatarnak Jasoos' has stirred the pot, receiving a mix of accolades and critiques for its nuanced humor. Even on a limited budget, it managed to charm audiences and pull in Rs 4.75 crore by the fourth day of its release. Read on.",
+    "img": "https://static.toiimg.com/photo/msid-126736554,imgsize-28774.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/happy-patel-khatarnak-jasoos-box-office-collection-day-4-vir-das-starrer-and-aamir-khan-backed-film-witnesses-heavy-dip/articleshow/126736554.cms",
+    "time": "2026-01-20T00:23:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Raja Saab' BO day 11: Prabhas film crosses Rs 140 crore",
+    "desc": "Prabhas's 'The Raja Saab' has surpassed Rs 140 crore at the Indian box office, despite a slow start and declining collections. Earning approximately Rs 1.15 crore on its eleventh day, the film's overall net collection now stands at Rs 140.50 crore. Online reactions reveal mixed opinions, with many criticizing the film's execution and performances, highlighting a challenging theatrical run.",
+    "img": "https://static.toiimg.com/photo/msid-126736277,imgsize-30640.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-box-office-collections-day-11-prabhas-film-crosses-rs-140-crore-low-occupancy-continues/articleshow/126736277.cms",
+    "time": "2026-01-20T00:14:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nitin Nabin sole candidate in fray for BJP president’s post, all set to take over today",
+    "desc": "Nitin Nabin is set to become the BJP's national president, emerging as the sole candidate with widespread backing from top party leaders, including PM Modi. This marks a historic moment as the party's president has always been a consensus choice.",
+    "img": "https://static.toiimg.com/photo/msid-126734115,imgsize-1371273.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nitin-nabin-sole-candidate-in-fray-for-bjp-presidents-post-all-set-to-take-over-today/articleshow/126733995.cms",
+    "time": "2026-01-19T23:38:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'No matter who you are': Rohit's 'real hunger' questioned after poor series",
+    "desc": "Rohit Sharma’s poor run continued with an 11-run dismissal in the deciding ODI against New Zealand on Sunday, raising questions about his form and motivation. Now playing only ODIs, Rohit struggled throughout the series, prompting Simon Doull to question whether the 2027 World Cup is too distant to drive him. Doull also cited limited ODI cricket as a factor. Virat Kohli topped the series with 240 runs.",
+    "img": "https://static.toiimg.com/photo/msid-126690955,imgsize-156174.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-matter-who-you-are-rohit-sharmas-real-hunger-questioned-after-poor-india-vs-new-zealand-series/articleshow/126689636.cms",
+    "time": "2026-01-19T23:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "HC refuses to suspend Sengar jail term in custody death case",
+    "desc": "The Delhi High Court denied suspended jail term for expelled BJP leader Kuldeep Singh Sengar in the custodial death case of the Unnao rape survivor's father. The court cited the grave nature of the offense, Sengar's criminal history, and the trial court's findings, emphasizing that the delay in trial was partly due to Sengar's legal team's actions.",
+    "img": "https://static.toiimg.com/photo/msid-126733020,imgsize-1009135.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/hc-refuses-to-suspend-sengar-jail-term-in-custody-death-case/articleshow/126732828.cms",
+    "time": "2026-01-19T23:20:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC seeks govt stand on AC rail fare cut for acid attack survivors",
+    "desc": "The Supreme Court has asked the government to respond to a Public Interest Litigation seeking concessional AC train fares for acid attack survivors. The NGO 'Atijeevan Society' argues that survivors, often from weaker economic backgrounds, need AC travel for frequent medical treatments but cannot afford it.",
+    "img": "https://static.toiimg.com/photo/msid-126732212,imgsize-925293.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-seeks-govt-stand-on-ac-rail-fare-cut-for-acid-attack-survivors/articleshow/126732113.cms",
+    "time": "2026-01-19T23:09:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Palaash returns to cinema after cancelled wedding with Smriti",
+    "desc": "After keeping a relatively low profile in recent weeks, composer and filmmaker Palaash Muchhal is returning his focus to professional commitments. The filmmaker is set to begin work on his next directorial project, marking a clear shift back to cinema after a period of heightened public attention.",
+    "img": "https://static.toiimg.com/photo/msid-126730690,imgsize-59582.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/palaash-muchhal-returns-to-cinema-after-cancelled-wedding-with-smriti-mandhana-shreyas-talpade-to-star-in-next-film/articleshow/126730452.cms",
+    "time": "2026-01-19T22:50:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bangladesh lets China envoy go close to Chicken’s Neck",
+    "desc": "Chinese Ambassador Yao Wen visited a Teesta project area in Bangladesh, signaling China's keenness to implement the Teesta Master Plan. This visit occurs amidst strained India-Bangladesh relations and follows discussions on development cooperation, including the Teesta project and a proposed friendship hospital.",
+    "img": "https://static.toiimg.com/photo/msid-126729428,imgsize-624212.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bangladesh-lets-china-envoy-go-close-to-chickens-neck/articleshow/126729206.cms",
+    "time": "2026-01-19T22:30:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘I don’t think there is any communal bias'",
+    "desc": "Director Imtiaz Ali, who has collaborated extensively with Oscar-winning composer AR Rahman on films such as Rockstar, Tamasha, Highway, and most recently Amar Singh Chamkila, has come out in support of the musician amid the ongoing controversy surrounding his recent remarks.",
+    "img": "https://static.toiimg.com/photo/msid-126729123,imgsize-57362.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/imtiaz-ali-says-ar-rahmans-remarks-were-misconstrued-i-dont-think-there-is-any-communal-bias-in-the-film-industry/articleshow/126728442.cms",
+    "time": "2026-01-19T22:30:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "EC to showcase SIR as step to strengthen electoral process",
+    "desc": "India is hosting the International Conference on Democracy and Election Management in January 2026, bringing together nearly 100 delegates from 70 countries. The Election Commission will showcase its intensive electoral roll revision initiative, despite opposition concerns. The event will feature discussions on global electoral issues, best practices, and the launch of the ECINET digital platform.",
+    "img": "https://static.toiimg.com/photo/msid-126728921,imgsize-1446999.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ec-to-showcase-sir-as-step-to-strengthen-electoral-process/articleshow/126728677.cms",
+    "time": "2026-01-19T22:26:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CBI quizzes TVK chief for second time in stampede case",
+    "desc": "TVK chief Vijay was questioned for seven hours by the CBI regarding the Karur stampede case, marking his second appearance. He was asked about rally permissions and adherence to guidelines. Vijay reportedly cited inadequate crowd control and police bottlenecks as contributing factors to the incident that claimed 41 lives.",
+    "img": "https://static.toiimg.com/photo/msid-126727579,imgsize-1173999.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cbi-quizzes-tvk-chief-for-second-time-in-stampede-case/articleshow/126727401.cms",
+    "time": "2026-01-19T22:17:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CISF to kick off 25-day cyclothon on Jan 28; 130 to take part",
+    "desc": "A contingent of 130 CISF personnel, including 65 women, will embark on a 6,553-km coastal cycling expedition across India's mainland coastline for 25 days starting January 28. This initiative aims to raise awareness about coastal security threats and foster national unity, coinciding with the 150th anniversary of 'Vande Mataram'.",
+    "img": "https://static.toiimg.com/photo/msid-126727100,imgsize-1291433.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cisf-to-kick-off-25-day-cyclothon-on-jan-28-130-to-take-part/articleshow/126726510.cms",
+    "time": "2026-01-19T22:11:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India, UAE to elevate ties with strategic defence partnership",
+    "desc": "India and UAE solidified their strategic defense partnership with a new letter of intent, alongside agreements on space collaboration and LNG purchase. The visit also saw commitments to double bilateral trade to $200 billion by 2032 and explore significant infrastructure development in Gujarat.",
+    "img": "https://static.toiimg.com/photo/msid-126725203,imgsize-66180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-uae-to-elevate-ties-with-strategic-defence-partnership/articleshow/126724844.cms",
+    "time": "2026-01-19T21:49:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How do you really get into Bollywood? Celebs reveal",
+    "desc": "Is there a formula to entering Hindi cinema, or is it a mix of timing, talent, and sheer survival? In this ETimes exclusive, director-producer Nivedita Basu, actor-producer Parvin Dabas, and emerging actor Ruchi Gujjar break down the myths, realities, and emotional costs of finding a foothold in Bollywood.",
+    "img": "https://static.toiimg.com/photo/msid-126723425,imgsize-91944.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/how-do-you-really-get-into-bollywood-nivedita-basu-parvin-dabas-and-ruchi-gujjar-decode-the-long-road-to-the-industry-exclusive/articleshow/126723234.cms",
+    "time": "2026-01-19T21:46:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "As Poland courts Pakistan, India advises zero tolerance for terror",
+    "desc": "India's External Affairs Minister S. Jaishankar urged Poland to adopt a zero-tolerance stance on terrorism, advising against supporting terrorist infrastructure in India's vicinity. He also voiced India's displeasure over what he termed \"selective targeting\" by European nations regarding the Russia-Ukraine war and trade relations with Russia, deeming it unfair and unjustified.",
+    "img": "https://static.toiimg.com/photo/msid-126723767,imgsize-1336205.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/eam-to-poland-stop-fuelling-terror-infra/articleshow/126723661.cms",
+    "time": "2026-01-19T21:35:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "1 man listed as dad of 389, another of 310: SIR detected WB errors, says EC",
+    "desc": "The Supreme Court has directed the Election Commission to display lists of voters facing 'logical discrepancy' notices in West Bengal offices and granted them 10 extra days to submit proof. The court also ordered the state to provide manpower and ensure law and order for the special intensive revision drive.",
+    "img": "https://static.toiimg.com/photo/msid-126723555,imgsize-1484335.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/1-man-listed-as-dad-of-389-another-of-310-sir-detected-wb-errors-says-ec/articleshow/126723573.cms",
+    "time": "2026-01-19T21:33:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "List WB voters with ‘logical discrepancy’: SC to poll panel",
+    "desc": "The Supreme Court has ordered the Election Commission to display lists of West Bengal voters facing \"logical discrepancy\" notices in panchayat and block offices, granting them an additional 10 days to submit proof of credentials. The court also directed the state to provide manpower and ensure law and order for the special intensive revision drive.",
+    "img": "https://static.toiimg.com/photo/msid-126723199,imgsize-743936.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/list-wb-voters-with-logical-discrepancy-sc-to-poll-panel/articleshow/126723217.cms",
+    "time": "2026-01-19T21:27:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "DGCA exemptions end on Feb 10, IndiGo may cut more flights",
+    "desc": "IndiGo may reduce flights after February 10 as a DGCA exemption for new flight-duty rules expires. The airline plans a \"short-term network readjustment,\" potentially shifting some A320 routes to ATR aircraft to avoid major disruptions. Affected passengers will be informed and offered refunds or alternative flights.",
+    "img": "https://static.toiimg.com/photo/msid-126722812,imgsize-694466.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/dgca-exemptions-end-on-feb-10-indigo-may-cut-more-flights/articleshow/126722651.cms",
+    "time": "2026-01-19T21:19:49.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Silver spot price tops Rs 3L/kg mark",
     "desc": "Silver prices surged past Rs 3 lakh per kg on the MCX, reaching an all-time high of nearly Rs 3.1 lakh for the March contract. This rally, fueled by a jump in global prices and a weaker rupee, saw international spot silver briefly exceed $94 an ounce.",
@@ -61,60 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/wanted-fresh-graduates-with-ai-data-skills/articleshow/126715316.cms",
     "time": "2026-01-19T19:36:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Farooq",
-    "desc": "National Conference president Farooq Abdullah expressed doubt that most Kashmiri Pandits would return to live permanently in the valley, stating they are free to come back. This statement drew sharp criticism from BJP politicians and Pandit groups, who are demanding a separate homeland and assert the 1990s exodus was forced, not voluntary.",
-    "img": "https://static.toiimg.com/photo/msid-126714568,imgsize-938337.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-one-stopped-pandits-from-returning-to-kashmir-farooq/articleshow/126714615.cms",
-    "time": "2026-01-19T19:26:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IMD forecast raises hopes for snowfall in dry Kashmir",
-    "desc": "Kashmir anticipates much-needed snowfall from Thursday, breaking a prolonged dry spell. The IMD warns of potential landslides and travel disruptions, urging caution. Residents are eagerly awaiting the snow as temperatures remain frigid. Two western disturbances are expected to bring heavy snowfall and rainfall, with peak activity on January 23rd and 27th, offering relief after several dry Decembers and Januarys.",
-    "img": "https://static.toiimg.com/photo/msid-126714356,imgsize-1247058.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/imd-forecast-raises-hopes-for-snowfall-in-dry-kashmir/articleshow/126714381.cms",
-    "time": "2026-01-19T19:22:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "J&amp;K govt says those seeking separate statehood for Jammu are running Pak agenda",
-    "desc": "Jammu and Kashmir's Deputy Chief Minister Surinder Choudhary denounced demands for Jammu's separate statehood, labeling them a \"Pakistani and ISI agenda\" and accusing proponents of \"playing into Pakistan's hands.\" He asserted that those genuinely believing in India would want Jammu and Kashmir to remain united, a sentiment echoed by National Conference leaders who have historically sacrificed for the region's integrity.",
-    "img": "https://static.toiimg.com/photo/msid-126713830,imgsize-675920.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jk-govt-says-those-seeking-separate-statehood-for-jammu-are-running-pak-agenda/articleshow/126713819.cms",
-    "time": "2026-01-19T19:16:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Environment ministry panel approves 17 def-linked proposals near China border",
-    "desc": "Defence projects crucial for national security in high-altitude areas near the China border, primarily in Ladakh and Sikkim, received clearance from an environment ministry panel. The National Board for Wildlife's standing committee approved 17 proposals, including border outposts and infrastructure, while emphasizing strict wildlife mitigation and environmental safeguards. The committee also cleared other public utility projects.",
-    "img": "https://static.toiimg.com/photo/msid-126713158,imgsize-1684686.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/environment-ministry-panel-approves-17-def-linked-proposals-near-china-border/articleshow/126713190.cms",
-    "time": "2026-01-19T19:07:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Govt notifies rules for use of Environmental (Protection) Fund",
-    "desc": "The Centre has notified rules for utilizing the Environmental Protection Fund, created from penalties for green law violations. The fund will support pollution control, environmental remediation, clean technology research, and capacity building for environmental bodies. States will receive 75% of collected penalties, with the Centre retaining 25% for green initiatives.",
-    "img": "https://static.toiimg.com/photo/msid-126712880,imgsize-944201.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/govt-notifies-rules-for-use-of-environmental-protection-fund/articleshow/126712914.cms",
-    "time": "2026-01-19T19:04:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Govt brings 4 more sectors under GHG emissions cut regime",
-    "desc": "India has expanded its greenhouse gas emission intensity reduction regime to include petroleum refinery, petrochemicals, textiles, and secondary aluminium sectors. Over 200 industrial units must now meet specific reduction targets by 2026-27, facing penalties for non-compliance. This move aligns with India's net-zero goals and climate action targets.",
-    "img": "https://static.toiimg.com/photo/msid-126712294,imgsize-1382148.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/govt-brings-4-more-sectors-under-ghg-emissions-cut-regime/articleshow/126709560.cms",
-    "time": "2026-01-19T18:58:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -271,15 +424,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Mysterious 'boiling' of water reported in Arabian sea; probe under way",
-    "desc": "Unusual churning and bubbling of seawater off the Gujarat coast have alarmed authorities and fishermen. Videos show vast stretches of the sea appearing to boil, prompting concerns of gas seepage, geological activity, or pipeline leaks. Maritime authorities are investigating the phenomenon, with fishing vessels advised to exercise extreme caution.",
-    "img": "https://static.toiimg.com/photo/msid-126698541,imgsize-212868.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/gujarat-mysterious-boiling-of-water-reported-in-arabian-sea-probe-under-way/articleshow/126698396.cms",
-    "time": "2026-01-19T16:16:45.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "SIT’s interim report shows need for exhaustive probe into Sabarimala temple administration for 20-odd years, says Kerala HC",
     "desc": "The Division Bench, after examining the summary of the chemical analysis done by the VSSC, said that the apprehensions expressed by it earlier stood prima facie reinforced. SIT directed to submit a comprehensive probe status report by February 9, the day of hearing",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -307,24 +451,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Top 5 South newsmakers of the day",
-    "desc": "Nayanthara and Trisha's reunion sparks fan excitement. PC Sreeram criticizes state power misuse in the Jana Nayagan censorship row. Chinmayi defends AR Rahman against allegations. Teasers for Varun Tej's Korean Kanakaraju and Nabha Natesh's Nagabandham also garnered attention. These events highlight a busy day in the South Indian film industry.",
-    "img": "https://static.toiimg.com/photo/msid-126694162,imgsize-46428.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/nayanthara-trishas-surprise-reunion-pc-sreeram-slams-misuse-of-state-power-in-jana-nayagan-row-chinmayi-defends-ar-rahman-top-5-south-newsmakers-of-the-day/articleshow/126694162.cms",
-    "time": "2026-01-19T15:24:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kriti shares Nupur's pre-wedding moments",
-    "desc": "Kriti Sanon shared unseen pics from sister Nupur's wedding in \"Shaadi Dump Part 1,\" capturing colorful haldi, sangeet, hugs, dances, mehendi, and kaleera rituals. Pet statues honored dogs Disco, Phoebe, Zoey at the Mumbai reception. Emotional posts hailed Stebin Ben; she's set for Cocktail 2 with Shahid, Rashmika.",
-    "img": "https://static.toiimg.com/photo/msid-126694081,imgsize-71888.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kriti-sanon-shares-nupur-sanons-pre-wedding-moments-in-shaadi-dump-part-1-see-photos/articleshow/126694081.cms",
-    "time": "2026-01-19T15:20:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Sutapa joins 2026 is the new 2016 trend and remembers Irrfan",
     "desc": "Sutapa Sikdar, wife of the late Irrfan Khan, shared a touching Instagram post reminiscing about 2016, a year filled with cherished moments with her husband. She recalled significant events like meeting Tom Hanks and attending the Inferno premiere, highlighting how Irrfan's presence made those times complete. The post serves as a heartfelt tribute to the actor's enduring legacy.",
     "img": "https://static.toiimg.com/photo/msid-126693518,imgsize-61166.cms",
@@ -340,114 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/scotland-to-replace-bangladesh-for-t20-world-cup-fresh-updates-emerge-amid-alternative-venue-talks/articleshow/126692292.cms",
     "time": "2026-01-19T15:09:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sunjay's sister Mandhira reacts to defamation case filed by Priya Sachdev",
-    "desc": "Priya Sachdev has sued Sunjay Kapur's sister, Mandhira Kapur, for defamation, alleging false claims spread online. Mandhira denies defamation, stating her comments reflect the truth about a family dispute over a Rs 30,000 crore estate. She asserts her mother's rightful claim and criticizes Priya's alleged actions regarding the inheritance.",
-    "img": "https://static.toiimg.com/photo/msid-126692836,imgsize-43152.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunjay-kapurs-sister-mandhira-kapur-reacts-to-priya-sachdev-kapurs-defamation-case-on-her-ive-lied-about-nothing/articleshow/126692229.cms",
-    "time": "2026-01-19T15:05:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hilarious and wholesome moments from all seasons of ‘Stranger Things’",
-    "desc": "Behind-the-scenes glimpses from 'Stranger Things' reveal a mix of playful antics and heartfelt goodbyes. From Millie Bobby Brown's humorous fan moment with Sadie Sink and Noah Schnapp to the cast's emotional farewells during Season 5 filming, these off-screen moments offer a heartwarming look at the show's camaraderie and the actors' deep connection to their characters.",
-    "img": "https://static.toiimg.com/photo/msid-126690529,imgsize-1211863.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/from-pranks-to-tears-hilarious-and-wholesome-bts-moments-from-all-seasons-of-stranger-things/articleshow/126690529.cms",
-    "time": "2026-01-19T14:50:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AAP MLA denies remarks against Sikh gurus; seeks unedited assembly video footage",
-    "desc": "Delhi assembly's leader of opposition, Atishi, vehemently denied allegations of making derogatory remarks against Sikh Gurus. Responding to a notice from the privileges committee, she stated she never uttered insensitive words against Guru Tegh Bahadur. Atishi requested unedited video footage and the original complaint to address the unsubstantiated claims.",
-    "img": "https://static.toiimg.com/photo/msid-126691505,imgsize-496659.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/atishi-video-row-aap-mla-denies-remarks-against-sikh-gurus-seeks-unedited-assembly-video-footage/articleshow/126691418.cms",
-    "time": "2026-01-19T14:49:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika finally responds to wedding rumours with Vijay",
-    "desc": "Vijay Deverakonda and Rashmika Mandanna face wedding buzz for February 26 in Udaipur after their October 2025 engagement. Rashmika told Prema, “Four years of rumors—I'll speak when it's time.\" They vacationed in Rome; intimate palace wedding ahead.",
-    "img": "https://static.toiimg.com/photo/msid-126689618,imgsize-38994.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rashmika-mandanna-finally-responds-to-wedding-rumours-with-vijay-deverakonda-the-truth-is/articleshow/126689618.cms",
-    "time": "2026-01-19T14:25:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Destitute to the extreme': Supreme Court raps Centre over delay in SOPs for homeless with mental illness; grants last opportunity",
-    "desc": "The Supreme Court has granted the Centre a final chance to develop standard operating procedures for rehabilitating homeless individuals with psychosocial disabilities. Describing them as extremely vulnerable, the court emphasized the need for effective implementation of these SOPs. The bench urged the Centre to submit draft procedures by February 9, highlighting the critical nature of this sensitive issue.",
-    "img": "https://static.toiimg.com/photo/msid-126689384,imgsize-915007.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/destitute-to-the-extreme-supreme-court-raps-centre-over-delay-in-sops-for-homeless-with-mental-illness-grants-last-opportunity/articleshow/126689211.cms",
-    "time": "2026-01-19T14:22:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sapna shares RARE unseen photos of Sushant and Dhoni",
-    "desc": "Sapna Bhavani shared rare 2016 pics of laughing Sushant Singh Rajput with MS Dhoni and Ziva, spilling fun secrets amid the '2026 is new 2016' trend. She styled Dhoni, bonded with his family. Sushant starred in his biopic; tragically died in 2020, ruled suicide.",
-    "img": "https://static.toiimg.com/photo/msid-126688796,imgsize-56718.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sapna-bhavani-shares-rare-unseen-photos-of-sushant-singh-rajput-and-ms-dhoni-in-nostalgic-2016-throwback-moment/articleshow/126688796.cms",
-    "time": "2026-01-19T14:18:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Here is why Rajkummar Rao and Patralekhaa included ‘Paul’ in their daughter's name",
-    "desc": "Rajkummar Rao and Patralekhaa have revealed their daughter's name as Parvati Paul Rao, a beautiful blend of both parents' identities. The couple welcomed their baby girl on their fourth wedding anniversary, November 15th, sharing their immense joy with fans. This heartwarming announcement follows a trend of celebrity baby reveals in 2025.",
-    "img": "https://static.toiimg.com/photo/msid-126686958,imgsize-62834.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/here-is-why-rajkummar-rao-and-patralekhaa-included-paul-in-their-daughter-parvati-paul-raos-name/articleshow/126686691.cms",
-    "time": "2026-01-19T13:54:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bollywood actors who stay fit with early dinners",
-    "desc": "Shifting the focus to health, Bollywood icons such as Akshay Kumar, Kareena Kapoor Khan, Anushka Sharma, and Shilpa Shetty are vocal about their nightly habits, promoting the practice of early dinners. These stars choose to dine by 6 or 7 PM, which they believe leads to superior digestive health, restful nights, and a more robust metabolism.",
-    "img": "https://static.toiimg.com/photo/msid-126685910,imgsize-533146.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-kareena-kapoor-anushka-sharma-bollywood-actors-who-stay-fit-with-early-dinners/articleshow/126685910.cms",
-    "time": "2026-01-19T13:44:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "AR Rahman's daughters react to his 'communal' remark controversy",
-    "desc": "Music maestro AR Rahman faced backlash for his remarks on Bollywood's 'communal' undercurrent and 'Chhaava' film. His daughters, Khatija and Raheema, publicly supported him by endorsing composer Kailas Menon's plea to \"disagree, don’t disgrace.\" Menon defended Rahman's right to express personal feelings, condemning the abuse and character assassination he received.",
-    "img": "https://static.toiimg.com/photo/msid-126685934,imgsize-65516.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ar-rahmans-daughters-react-to-his-communal-remark-controversy-as-malayalam-composer-comes-out-in-his-support-you-can-disagree-with-him-but-cant-deny-him-/articleshow/126685995.cms",
-    "time": "2026-01-19T13:44:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nayanthara and Trisha Krishnan twin in black in VIRAL yacht pics",
-    "desc": "Internet ablaze as Nayanthara and Trisha Krishnan share stunning sunset photos from a yacht, sparking joy among fans. Previously rumored to be estranged, the actresses' heartwarming reunion on social media has fueled hopes that any past differences are now resolved, with followers eagerly anticipating a renewed friendship.",
-    "img": "https://static.toiimg.com/photo/msid-126684993,imgsize-32870.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/nayanthara-and-trisha-krishnan-twin-in-black-end-years-of-speculation-with-viral-sunset-yacht-photos/articleshow/126684993.cms",
-    "time": "2026-01-19T13:37:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "DMK or TVK? Decoding Congress's alliance dilemma ahead of Tamil Nadu assembly elections",
-    "desc": "should it maintain its long-standing alliance with the DMK or consider a fresh partnership with the charismatic actor Vijay's TVK? Tensions within the party flared after the DMK turned down a proposed power-sharing deal, leading to lessons on 'coalition dharma'.",
-    "img": "https://static.toiimg.com/photo/msid-126689179,imgsize-700440.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dmk-or-tvk-congresss-decision-dilemma-ahead-of-tamil-nadu-assembly-elections/articleshow/126678409.cms",
-    "time": "2026-01-19T13:27:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "To take charge January 20; PM Modi to attend event",
-    "desc": "Nitin Nabin has been elected unopposed as the national president of the Bharatiya Janata Party, set to formally take charge on January 20. His uncontested election, at 45 years old, signifies a generational leadership shift within the party. The smooth transition highlights the BJP's internal consensus and procedural discipline ahead of future elections.",
-    "img": "https://static.toiimg.com/photo/msid-126684529,imgsize-749688.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nitin-nabin-elected-national-bjp-president-unopposed-to-take-charge-january-20-pm-modi-to-attend-event/articleshow/126684522.cms",
-    "time": "2026-01-19T13:24:44.000Z"
   },
   {
     "cat": "Sports",
@@ -610,15 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-says-it-will-be-done-on-getting-russian-threat-away-from-greenland/article70524316.ece",
     "time": "2026-01-19T05:15:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC confident approvals on track as 42 Pakistani-origin apply",
-    "desc": "The ICC is confident that all T20 World Cup visas for Pakistani origin players, staff, and officials will be secured on time. Despite some recent delays, including for England's spinners, the global body is actively working with Indian missions. Visas for several nations are already processed, with others scheduled soon, aiming for all clearances by January 31.",
-    "img": "https://static.toiimg.com/photo/msid-126668016,imgsize-30106.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-indian-visas-icc-confident-approvals-on-track-as-42-pakistani-origin-players-and-staff-apply/articleshow/126667815.cms",
-    "time": "2026-01-19T04:25:11.000Z"
   },
   {
     "cat": "Sports",
@@ -862,15 +871,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-on-back-burner-for-few-more-days-ten-doeschate/article70512246.ece",
     "time": "2026-01-15T05:47:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Christopher Ruhr",
-    "desc": "The ace German player reflects his bond with the country where he has had career-defining moments; he is enjoying sharing space with young players at HIL and is keen to see the game boom in Asian countries",
-    "img": "https://th-i.thgim.com/public/sport/rgpf3c/article70511095.ece/alternates/LANDSCAPE_1200/RUHR%201%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/indian-hockey-has-thrived-again-and-risen-christopher-ruhr/article70511093.ece",
-    "time": "2026-01-14T18:17:20.000Z"
   },
   {
     "cat": "Entertainment",
