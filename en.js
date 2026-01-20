@@ -1,5 +1,248 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Nitin Nabin becomes BJP's youngest chief — 10 things to know",
+    "desc": "The BJP on Monday declared Nabin as its sole candidate for the post after the nomination and scrutiny process concluded without any rival contenders. This cleared the path for his unopposed election as the party’s 12th national president. In a late-night statement, BJP National Returning Officer K. Laxman said that only Nabin’s name remained after the completion of nominations and the withdrawal window, confirming his election by consensus.",
+    "img": "https://static.toiimg.com/photo/msid-126763338,imgsize-1731566.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/from-party-worker-to-president-nitin-nabin-takes-charge-as-youngest-bjp-chief-10-things-to-know/articleshow/126757934.cms",
+    "time": "2026-01-20T06:16:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI plans central contract overhaul as Virat, Rohit likely to drop from top tier",
+    "desc": "The BCCI is considering a major overhaul of its central contracts, potentially scrapping the Grade A+ category. This move could see senior players like Virat Kohli and Rohit Sharma, now focusing on ODIs, placed in Grade B. The proposed three-tier system aims to align contracts with workload and format involvement.",
+    "img": "https://static.toiimg.com/photo/msid-126762992,imgsize-185024.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-more-a-category-bcci-plans-central-contract-overhaul-as-kohli-rohit-likely-to-drop-a-tier/articleshow/126762945.cms",
+    "time": "2026-01-20T06:13:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Batter to reach BCCI CoE today; getting closer to regaining full fitness",
+    "desc": "Tilak Varma is closing in on full fitness and will report to the BCCI’s Centre of Excellence for assessment. Ruled out of the first three T20Is against New Zealand, the India No. 3 could return for the fourth match. Team India's ODI vice-captain Shreyas Iyer has been added as cover meanwhile.",
+    "img": "https://static.toiimg.com/photo/msid-126762947,imgsize-25908.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/tilak-varma-fitness-update-indias-t20i-no-3-to-reach-bcci-coe-today-getting-closer-to-regaining-full-fitness/articleshow/126762677.cms",
+    "time": "2026-01-20T06:13:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Markets trade mostly in red; Nikkei sheds 1%, HSI remains flat",
+    "desc": "Asian markets opened lower Tuesday amid renewed trade tensions and political developments in Japan. Investors reacted to US President Trump's tariff threats and a potential parliamentary dissolution in Japan, which boosted government bond yields. Attention now shifts to US corporate earnings and inflation data ahead of the Federal Reserve's meeting.",
+    "img": "https://static.toiimg.com/photo/msid-126762296,imgsize-113436.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-trade-mostly-in-red-nikkei-sheds-1-hsi-remains-flat/articleshow/126759454.cms",
+    "time": "2026-01-20T06:04:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Punjab government approves modernisation of bus terminals in five districts",
+    "desc": "Punjab is set to modernize its major bus terminals in Ludhiana, Jalandhar, Sangrur, Patiala, and Bathinda through a Public Private Partnership. This initiative aims to significantly enhance passenger facilities, safety, and overall efficiency at these vital transport hubs. The upgrades will focus on improved waiting areas, sanitation, accessibility, and integrated commercial spaces, ensuring better connectivity for millions daily.",
+    "img": "https://static.toiimg.com/photo/msid-126762565,imgsize-201214.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/punjab-government-approves-modernisation-of-bus-terminals-in-five-districts/articleshow/126762346.cms",
+    "time": "2026-01-20T06:03:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Poison axes 40th anniversary tour after pay row",
+    "desc": "Poison's highly anticipated 40th-anniversary tour has been abruptly cancelled, reportedly due to a significant financial dispute. Singer Bret Michaels allegedly demanded an exorbitant sum, vastly exceeding his bandmates' combined earnings. This financial impasse led to the tour's dissolution, leaving fans disappointed after years of anticipation and hints from the band.",
+    "img": "https://static.toiimg.com/photo/msid-126762172,imgsize-38204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/poison-40th-anniversary-tour-cancelled-bret-michaels-blamed-as-he-requested-for-600-times-his-salary-report/articleshow/126762172.cms",
+    "time": "2026-01-20T06:03:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tobacco puts 1 in 10 at oral cancer risk among Nicobarese in India",
+    "desc": "A study on Car Nicobar Island revealed that nearly 10% of Nicobarese adults have oral lesions potentially leading to cancer, primarily linked to high smokeless tobacco and alcohol consumption. Researchers found these concerning rates concentrated within this specific community, highlighting urgent needs for targeted screening and cessation programs.",
+    "img": "https://static.toiimg.com/photo/msid-126762120,imgsize-179350.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tobacco-puts-1-in-10-at-oral-cancer-risk-among-nicobarese-in-india/articleshow/126761800.cms",
+    "time": "2026-01-20T06:01:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ICMR steps in as cases rise across India",
+    "desc": "The Indian Council of Medical Research is fast-tracking an experimental RNA-based antiviral therapy for Chikungunya, inviting Indian companies to develop and manufacture it. Developed by ICMR's National Institute of Virology, the therapy showed complete viral suppression in pre-clinical studies by targeting essential viral genes.",
+    "img": "https://static.toiimg.com/photo/msid-126761285,imgsize-127283.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/hope-against-chikungunya-icmr-steps-in-as-cases-rise-across-india/articleshow/126761072.cms",
+    "time": "2026-01-20T05:51:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshay's car accident: Auto driver seeks compensation",
+    "desc": "An accident involving Akshay Kumar's security convoy in Juhu, Mumbai, late Monday night left an autorickshaw driver seriously injured. A speeding Mercedes reportedly collided with the auto, which then hit one of the actor's escort vehicles. Police have registered a case against the Mercedes driver, while Akshay and his wife Twinkle Khanna have yet to comment.",
+    "img": "https://static.toiimg.com/photo/msid-126761284,imgsize-25942.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumars-vehicle-involved-in-accident-injured-auto-driver-asks-for-compensation-medical-treatment/articleshow/126757703.cms",
+    "time": "2026-01-20T05:51:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Greater Noida Authority orders road safety overhaul after techie's death",
+    "desc": "Greater Noida Industrial Development Authority Chief Executive Officer N.G. Ravi Kumar directed officials to identify and promptly fill all potholes on or near roads and to mark accident-prone “black spots” without delay, according to an official statement issued on January 19, 2026",
+    "img": "https://th-i.thgim.com/public/incoming/aif4rj/article70528173.ece/alternates/LANDSCAPE_1200/20260119092L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/greater-noida-authority-orders-road-safety-overhaul-after-techies-death/article70528164.ece",
+    "time": "2026-01-20T05:48:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Alcohol, sugary drinks stay cheap in India as WHO flags weak taxes in South-East Asia",
+    "desc": "The WHO warns that alcohol and sugar-sweetened beverages are becoming more affordable in India due to weak tax designs, failing to curb consumption despite strong health links. This public-health failure is leading to rising rates of liver disease, diabetes, and other chronic illnesses, particularly among younger populations.",
+    "img": "https://static.toiimg.com/photo/msid-126759590,imgsize-25230.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/alcohol-sugary-drinks-stay-cheap-in-india-as-who-flags-weak-taxes-in-south-east-asia/articleshow/126758935.cms",
+    "time": "2026-01-20T05:28:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How ‘Make for Vidarbha’ keeps this team going",
+    "desc": "Vidarbha's Aman Mokhade was named Player of the Tournament for his 814 runs in the Vijay Hazare Trophy, attributing his success to channeling frustration from last season. This achievement highlights Vidarbha's unique approach of nurturing talent from a young age, a process that has led to their domestic cricket dominance.",
+    "img": "https://static.toiimg.com/photo/msid-126759307,imgsize-307160.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vijay-hazare-trophy-how-make-for-vidarbha-keeps-this-team-going/articleshow/126759352.cms",
+    "time": "2026-01-20T05:26:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sushi, silence on menu as athletes are trained in ‘Japanese ways’",
+    "desc": "Indian athletes are being prepared for the Asian Games in Japan by learning Japanese culture, cuisine, and etiquette. SAI is introducing vegetarian sushi and onigiri at its centers, though athletes are reportedly hesitant. While efforts are made to include Indian food, athletes are encouraged to adapt to local dishes for better acclimatisation.",
+    "img": "https://static.toiimg.com/photo/msid-126758563,imgsize-11396.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/asian-games-sushi-silence-on-menu-as-athletes-are-trained-in-japanese-ways/articleshow/126758559.cms",
+    "time": "2026-01-20T05:16:04.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.N. has coexisted with other bodies, spokesperson says on Trump's Gaza Board of Peace",
+    "desc": "“We would have to see in terms of details what the Board of Peace becomes as it actually is established to know what sort of relationship we would have with it,” said a U.N. spokesperson",
+    "img": "https://th-i.thgim.com/public/incoming/7hhfp9/article70528099.ece/alternates/LANDSCAPE_1200/2236941216.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/un-has-coexisted-with-other-bodies-spokesperson-says-on-trumps-gaza-board-of-peace/article70528048.ece",
+    "time": "2026-01-20T05:12:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Katie Thurston shares mother’s breast cancer diagnosis",
+    "desc": "Former 'Bachelorette' star Katie Thurston is facing a devastating blow as her mother has been diagnosed with breast cancer, nearly a year after Katie herself battled the disease. Thurston, who underwent treatment for stage 3 triple-positive ductal carcinoma, is now leaning on family support and online communities. Her personal journey underscores the importance of proactive breast health checks for everyone.",
+    "img": "https://static.toiimg.com/photo/msid-126758009,imgsize-730250.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/katie-thurston-shares-heartbreaking-news-of-her-mothers-breast-cancer-diagnosis-after-her-own-battle/articleshow/126757847.cms",
+    "time": "2026-01-20T05:08:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Governor R N Ravi walks out; alleges 'national anthem insulted'",
+    "desc": "Tamil Nadu Governor RN Ravi staged a walkout from the state assembly, citing disrespect for the National Anthem and his microphone being switched off. Raj Bhavan alleged the speech ignored critical issues like Dalit atrocities. This marks a repeat of a similar incident last year, intensifying political tensions ahead of upcoming elections.",
+    "img": "https://static.toiimg.com/photo/msid-126757323,imgsize-821613.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/national-anthem-again-insulted-tamil-nadu-governor-r-n-ravi-walks-out-of-assembly-skips-customary-address/articleshow/126757117.cms",
+    "time": "2026-01-20T05:00:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM Gupta",
+    "desc": "Delhi residents will soon dial a single emergency number, 112, to access police, fire, ambulance, and disaster management services simultaneously. This unified system, ERSS 2.0, will also allow alerts via a mobile app, emergency button, SMS, and online platforms, automatically detecting caller locations for faster response.",
+    "img": "https://static.toiimg.com/photo/msid-126757489,imgsize-44778.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/delhi-to-launch-unified-emergency-helpline-112-for-faster-response-cm-gupta/articleshow/126757258.cms",
+    "time": "2026-01-20T04:59:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Fans call for Virat-Anushka casting in rom-com",
+    "desc": "Virat Kohli and Anushka Sharma's latest ad film has fans captivated by their undeniable chemistry, sparking desires for a Bollywood rom-com. Their enduring partnership, which began on an ad set in 2013, continues to shine. This comes as the couple recently invested in a lavish Alibaug property, following their move to the UK for family life.",
+    "img": "https://static.toiimg.com/photo/msid-126756759,imgsize-18274.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-and-anushka-sharma-woo-fans-with-sizzling-chemistry-in-ad-shoot-netizens-say-better-than-a-bollywood-romance/articleshow/126752165.cms",
+    "time": "2026-01-20T04:53:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What next for Jadeja, Rohit? Veteran stars had a poor ODI outing vs NZ",
+    "desc": "India's ODI home series loss to New Zealand has put veteran players Ravindra Jadeja and Rohit Sharma under scrutiny. Jadeja's wicketless streak and batting struggles raise concerns, while Rohit's future in the 2027 World Cup is debated despite recent good form, impacting younger talent like Yashasvi Jaiswal.",
+    "img": "https://static.toiimg.com/photo/msid-126756418,imgsize-91662.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/what-next-for-ravindra-jadeja-rohit-sharma-veteran-stars-had-a-poor-odi-outing-vs-new-zealand/articleshow/126755693.cms",
+    "time": "2026-01-20T04:47:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' teaser receives 'A' rating from CBFC",
+    "desc": "The Revenge' has released its teaser, now sporting an 'A' certificate from the CBFC. The 1 minute 48-second glimpse promises intense thrills and will debut in theaters with 'Border 2'. The much-anticipated sequel to the record-setting 'Dhurandhar' is scheduled for a March 19, 2026 premiere.",
+    "img": "https://static.toiimg.com/photo/msid-126755795,imgsize-22964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-teaser-receives-a-rating-from-cbfc-runtime-details-are-out/articleshow/126755795.cms",
+    "time": "2026-01-20T04:42:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "JSK hold nerve in Paarl, set up eliminator rematch with Royals",
+    "desc": "A late Leus du Plooy onslaught and a dominant spin display powered Joburg Super Kings into the Betway SA20 playoffs with a bonus-point 45-run win over Paarl Royals. Du Plooy’s unbeaten 54 off 27 transformed the game before Prenelan Subrayen and Imran Tahir shared five wickets to bowl Royals out for 122.",
+    "img": "https://static.toiimg.com/photo/msid-126755733,imgsize-48176.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/sa20/sa20-jsk-hold-nerve-in-paarl-set-up-eliminator-rematch-with-royals/articleshow/126755263.cms",
+    "time": "2026-01-20T04:40:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Dhurandhar 2’: Sara Arjun reveals THIS about the sequel",
+    "desc": "Aditya Dhar's 'Dhurandhar' has achieved immense success, with its sequel slated for March 2026. Actress Sara Arjun, who plays Yalina Jamali, promises 'Dhurandhar Part 2' will amplify the action and story, exceeding audience expectations. She reveals Yalina's character arc will explore her true strength and emotional journey, making her pain more justified.",
+    "img": "https://static.toiimg.com/photo/msid-126754513,imgsize-41570.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singhs-dhurandhar-2-sara-arjun-says-the-audience-can-expect-a-lot-more-of-everything-in-the-sequel/articleshow/126754486.cms",
+    "time": "2026-01-20T04:24:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All you need to know about Nicola Peltz admist the Beckham family feud",
+    "desc": "Brooklyn Beckham has publicly declared he and wife Nicola Peltz will not reconcile with his parents, Victoria and David Beckham. He alleges his parents have repeatedly sabotaged him and spread lies to protect their image. The couple has maintained distance from the Beckham family since their 2022 marriage, citing ongoing issues.",
+    "img": "https://static.toiimg.com/photo/msid-126754154,imgsize-43532.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/here-is-all-you-need-to-know-about-nicola-peltz-brooklyn-beckhams-wife-amid-family-feud/articleshow/126754154.cms",
+    "time": "2026-01-20T04:22:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How poor fielding, middle-overs failures triggered India's series loss",
+    "desc": "India's recent series losses, particularly against an inexperienced New Zealand, have intensified scrutiny on head coach Gautam Gambhir. Despite a Champions Trophy win, the team has faltered in Test and ODI formats, raising questions ahead of the T20 World Cup. Gambhir's tenure has seen mixed results, with some strategic decisions proving beneficial.",
+    "img": "https://static.toiimg.com/photo/msid-126753508,imgsize-44590.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/too-many-loopholes-to-fix-how-poor-fielding-and-middle-overs-failures-triggered-indias-first-odi-series-loss-to-new-zealand/articleshow/126753409.cms",
+    "time": "2026-01-20T04:11:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Summer House' stars Kyle Cooke and Amanda Batula split after 10 years",
+    "desc": "Summer House stars Kyle Cooke and Amanda Batula have announced their amicable split after four years of marriage. The couple, who documented their romance on the show, revealed the decision on Instagram, citing individual growth. Tensions had been brewing, with the Season 10 trailer hinting at relationship strain and rumors of separation surfacing in late 2025.",
+    "img": "https://static.toiimg.com/photo/msid-126753237,imgsize-820716.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/summer-house-stars-kyle-cooke-and-amanda-batula-end-their-marriage-after-a-decade-in-the-spotlight/articleshow/126753265.cms",
+    "time": "2026-01-20T04:07:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Steal’ OTT release: All you need to know",
+    "desc": "Get ready for the edge-of-your-seat thriller 'Steal,' featuring Sophie Turner as Zara, whose mundane office life is shattered on January 21, 2026, when armed assailants invade her space. As she grapples with betrayal and urgent dilemmas, Zara and her friend must embark on a perilous journey to survive.",
+    "img": "https://static.toiimg.com/photo/msid-126752710,imgsize-23372.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/steal-ott-release-plot-release-date-streaming-platform-know-all-about-sophie-turners-heist-thriller/articleshow/126752446.cms",
+    "time": "2026-01-20T04:00:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Andy Flower",
+    "desc": "Andy Flower, a decorated coach, discusses his new role with London Spirit in The Hundred, expressing excitement for the challenge. He highlights the importance of preparation for the upcoming auction and reflects on The Hundred's impact on English cricket, noting its success in attracting new demographics and its potential for growth.",
+    "img": "https://static.toiimg.com/photo/msid-126752240,imgsize-31034.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/coaching-all-three-formats-is-a-tough-task-andy-flower/articleshow/126751898.cms",
+    "time": "2026-01-20T03:53:50.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "SRK's pics with Katy and Lee Jung-Jae go viral",
     "desc": "Bollywood superstar Shah Rukh Khan recently graced an international awards show, sparking a frenzy online with his photos alongside global icons Katy Perry and 'Squid Game' star Lee Jung-jae. The viral images captured the stars mingling, with Khan also seen interacting with Turkish actress Hande Ercel. Meanwhile, anticipation builds for Khan's upcoming film 'King'.",
@@ -19,7 +262,7 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Maharashtra signs investment MoUs worth ₹14.5 lakh cr on day 1",
+    "title": "EU leaders take stage in Davos as Donald Trump rocks global order",
     "desc": "From India, at least four Union Ministers— Ashwini Vaishnaw, Shivraj Singh Chouhan, Pralhad Joshi, and K Rammohan Naidu — as well as six Chief Ministers are expected to be there, along with over 100 top CEOs from the country",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
@@ -28,7 +271,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘Tough questions will be asked’: Rahane reveals reasons behind India's ODI woes under Gambhir",
+    "title": "‘Tough questions will be asked’: Rahane reveals reasons behind India's ODI woes",
     "desc": "Ajinkya Rahane criticises excessive team changes and lack of clarity under Gautam Gambhir, citing India's recent ODI series losses. He stresses the need for player security and honest conversations as the team prepares for the 2027 World Cup. Rahane believes a scheduling break offers a chance for management to reset and back the right combination.",
     "img": "https://static.toiimg.com/photo/msid-126749796,imgsize-48638.cms",
     "src": "indiatimes.com",
@@ -50,7 +293,7 @@ const newsData_en = [
     "desc": "Mark your calendars, music aficionados! Global superstar Kanye West, embracing the name Ye, is on the verge of gracing India with a spectacular live performance in April 2026. Although details are still under wraps, whispers from the industry suggest that this solo concert might just be the largest ever held in the country.",
     "img": "https://static.toiimg.com/photo/msid-126749039,imgsize-16266.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kanye-west-performing-in-india-heres-whats-really-happening/articleshow/126748785.cms",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/kanye-west-performing-in-india-heres-whats-really-happening/articleshow/126748785.cms",
     "time": "2026-01-20T03:12:58.000Z"
   },
   {
@@ -135,87 +378,6 @@ const newsData_en = [
     "time": "2026-01-20T01:34:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Brooklyn issues statement on Beckham family feud",
-    "desc": "Brooklyn Beckham has broken his silence on alleged family rifts, claiming his parents David and Victoria have long controlled narratives and tried to sabotage his marriage to Nicola Peltz. He detailed wedding day 'lies' and alleged pressure to sign away rights, stating he no longer wishes to reconcile with his family.",
-    "img": "https://static.toiimg.com/photo/msid-126739347,imgsize-22930.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brooklyn-beckham-breaks-silence-on-rift-with-david-and-victoria-beckham-my-parents-have-been-trying-endlessly-to-ruin-my-relationship/articleshow/126737844.cms",
-    "time": "2026-01-20T01:25:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'TTT' BO day 5: Jiiva’s film shows no signs of stopping",
-    "desc": "Jiiva's latest film, 'Thalaivar Thambi Thalaimaiyil,' is making waves at the box office, raking in over Rs 16.45 crore in its first five days. Directed by Nithish Sahadev, the movie has seen strong weekend collections and a decent weekday performance, indicating good audience reception. The film blends drama and humor, proving to be a popular festive watch.",
-    "img": "https://static.toiimg.com/photo/msid-126740048,imgsize-23960.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalaivar-thambi-thalaimaiyil-box-office-collections-day-5-jiivas-film-shows-no-signs-of-stopping-crosses-rs-16-crores/articleshow/126740048.cms",
-    "time": "2026-01-20T01:10:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Govinda's nephew BREAKS SILENCE on actor's rift rumors with Sunita",
-    "desc": "In a heartfelt moment, Vinay Anand, nephew of the iconic Govinda, shared his warm sentiments for his uncle and aunt, Sunita Ahuja, amid swirling divorce speculations. He also highlighted the promising journey that lies ahead for Govinda's son, Yashvardhan, while expressing genuine concern over his uncle's recent health challenges, underscoring the importance of family unity.",
-    "img": "https://static.toiimg.com/photo/msid-126738278,imgsize-40254.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govindas-nephew-vinay-anand-breaks-silence-on-actors-divorce-rumors-with-wife-sunita-ahuja-says-would-gently-tell-my-mama-to-pay/articleshow/126738278.cms",
-    "time": "2026-01-20T00:53:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'MSVG' BO day 7: Chiranjeevi rules Sankranthi",
-    "desc": "Megastar Chiranjeevi's 'Mana Shankara Vara Prasad Garu' has achieved a phenomenal first week at the box office, raking in ₹157.75 crore net in India. The film's strong performance, with no significant drops, also saw ₹35.25 crore from overseas, making it Chiranjeevi's highest-grossing movie in North America. The family entertainer is praised for its fun appeal and Chiranjeevi's performance.",
-    "img": "https://static.toiimg.com/photo/msid-126738722,imgsize-44546.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/mana-shankara-vara-prasad-garu-box-office-collections-day-7-chiranjeevi-rules-sankranthi-film-crosses-rs-220-crore-worldwide/articleshow/126738722.cms",
-    "time": "2026-01-20T00:51:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Red, White &amp; Royal Wedding’ begins filmingin London",
-    "desc": "Production has begun on 'Red, White & Royal Wedding,' with stars Nicholas Galitzine and Taylor Zakhar Perez confirming the sequel focuses on Prince Henry's sister's nuptials, not their own. Filming is underway in London, with Jamie Babbit directing and a script from Gemma Burgess, Matthew López, and Casey McQuiston.",
-    "img": "https://static.toiimg.com/photo/msid-126738519,imgsize-728327.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/red-white-royal-wedding-begins-filming-nicholas-galitzine-and-taylor-zakhar-perez-tease-whats-next/articleshow/126738634.cms",
-    "time": "2026-01-20T00:47:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Parasakthi' BO day 10: Film nears Rs 50 crore mark",
-    "desc": "Sivakarthikeyan's 'Parasakthi' has achieved a respectable Rs 49.45 crore in its first ten days, nearing the Rs 50 crore milestone. Despite a slight weekday dip, the film saw a strong weekend push. However, social media buzz reveals mixed reactions, with some criticizing the screenplay and historical representation, while others question casting choices.",
-    "img": "https://static.toiimg.com/photo/msid-126737331,imgsize-93600.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-box-office-collections-day-10-sivakarthikeyan-film-nears-rs-50-crore-mark/articleshow/126737331.cms",
-    "time": "2026-01-20T00:30:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar' sets record for highest week 7 collections",
-    "desc": "'Dhurandhar' starring Ranveer Singh and Akshaye Khanna has achieved a new box office record for seventh-week collections, surpassing 'Stree 2'. Despite a dip in daily earnings, the film's impressive net collection of Rs 826.41 crore solidifies its status as the highest-grossing single-language release, inching closer to the Rs 1,000 crore milestone.",
-    "img": "https://static.toiimg.com/photo/msid-126737175,imgsize-28174.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-46-ranveer-singh-and-akshaye-khanna-starrer-sets-record-for-highest-week-7-collections/articleshow/126734530.cms",
-    "time": "2026-01-20T00:25:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Film witnesses HEAVY dip",
-    "desc": "Khatarnak Jasoos' has stirred the pot, receiving a mix of accolades and critiques for its nuanced humor. Even on a limited budget, it managed to charm audiences and pull in Rs 4.75 crore by the fourth day of its release. Read on.",
-    "img": "https://static.toiimg.com/photo/msid-126736554,imgsize-28774.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/happy-patel-khatarnak-jasoos-box-office-collection-day-4-vir-das-starrer-and-aamir-khan-backed-film-witnesses-heavy-dip/articleshow/126736554.cms",
-    "time": "2026-01-20T00:23:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Raja Saab' BO day 11: Prabhas film crosses Rs 140 crore",
-    "desc": "Prabhas's 'The Raja Saab' has surpassed Rs 140 crore at the Indian box office, despite a slow start and declining collections. Earning approximately Rs 1.15 crore on its eleventh day, the film's overall net collection now stands at Rs 140.50 crore. Online reactions reveal mixed opinions, with many criticizing the film's execution and performances, highlighting a challenging theatrical run.",
-    "img": "https://static.toiimg.com/photo/msid-126736277,imgsize-30640.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-box-office-collections-day-11-prabhas-film-crosses-rs-140-crore-low-occupancy-continues/articleshow/126736277.cms",
-    "time": "2026-01-20T00:14:15.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Nitin Nabin sole candidate in fray for BJP president’s post, all set to take over today",
     "desc": "Nitin Nabin is set to become the BJP's national president, emerging as the sole candidate with widespread backing from top party leaders, including PM Modi. This marks a historic moment as the party's president has always been a consensus choice.",
@@ -297,51 +459,6 @@ const newsData_en = [
     "time": "2026-01-19T22:11:45.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India, UAE to elevate ties with strategic defence partnership",
-    "desc": "India and UAE solidified their strategic defense partnership with a new letter of intent, alongside agreements on space collaboration and LNG purchase. The visit also saw commitments to double bilateral trade to $200 billion by 2032 and explore significant infrastructure development in Gujarat.",
-    "img": "https://static.toiimg.com/photo/msid-126725203,imgsize-66180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-uae-to-elevate-ties-with-strategic-defence-partnership/articleshow/126724844.cms",
-    "time": "2026-01-19T21:49:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "As Poland courts Pakistan, India advises zero tolerance for terror",
-    "desc": "India's External Affairs Minister S. Jaishankar urged Poland to adopt a zero-tolerance stance on terrorism, advising against supporting terrorist infrastructure in India's vicinity. He also voiced India's displeasure over what he termed \"selective targeting\" by European nations regarding the Russia-Ukraine war and trade relations with Russia, deeming it unfair and unjustified.",
-    "img": "https://static.toiimg.com/photo/msid-126723767,imgsize-1336205.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/eam-to-poland-stop-fuelling-terror-infra/articleshow/126723661.cms",
-    "time": "2026-01-19T21:35:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "1 man listed as dad of 389, another of 310: SIR detected WB errors, says EC",
-    "desc": "The Supreme Court has directed the Election Commission to display lists of voters facing 'logical discrepancy' notices in West Bengal offices and granted them 10 extra days to submit proof. The court also ordered the state to provide manpower and ensure law and order for the special intensive revision drive.",
-    "img": "https://static.toiimg.com/photo/msid-126723555,imgsize-1484335.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/1-man-listed-as-dad-of-389-another-of-310-sir-detected-wb-errors-says-ec/articleshow/126723573.cms",
-    "time": "2026-01-19T21:33:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "List WB voters with ‘logical discrepancy’: SC to poll panel",
-    "desc": "The Supreme Court has ordered the Election Commission to display lists of West Bengal voters facing \"logical discrepancy\" notices in panchayat and block offices, granting them an additional 10 days to submit proof of credentials. The court also directed the state to provide manpower and ensure law and order for the special intensive revision drive.",
-    "img": "https://static.toiimg.com/photo/msid-126723199,imgsize-743936.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/list-wb-voters-with-logical-discrepancy-sc-to-poll-panel/articleshow/126723217.cms",
-    "time": "2026-01-19T21:27:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "DGCA exemptions end on Feb 10, IndiGo may cut more flights",
-    "desc": "IndiGo may reduce flights after February 10 as a DGCA exemption for new flight-duty rules expires. The airline plans a \"short-term network readjustment,\" potentially shifting some A320 routes to ATR aircraft to avoid major disruptions. Affected passengers will be informed and offered refunds or alternative flights.",
-    "img": "https://static.toiimg.com/photo/msid-126722812,imgsize-694466.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dgca-exemptions-end-on-feb-10-indigo-may-cut-more-flights/articleshow/126722651.cms",
-    "time": "2026-01-19T21:19:49.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Silver spot price tops Rs 3L/kg mark",
     "desc": "Silver prices surged past Rs 3 lakh per kg on the MCX, reaching an all-time high of nearly Rs 3.1 lakh for the March contract. This rally, fueled by a jump in global prices and a weaker rupee, saw international spot silver briefly exceed $94 an ounce.",
@@ -396,15 +513,6 @@ const newsData_en = [
     "time": "2026-01-19T19:36:03.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India positioned to benefit, says global expert",
-    "desc": "Embracing AI is crucial for survival, according to SandboxAQ CEO Jack Hidary. Companies and governments must adopt AI to thrive, especially in India's vast physical economy. Advanced AI solutions are key to addressing cybersecurity risks and fostering domestic intellectual property creation in sectors like pharmaceuticals.",
-    "img": "https://static.toiimg.com/photo/msid-126707660,imgsize-845702.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/ai-or-die-moment-for-companies-and-governments-india-positioned-to-benefit-says-global-expert/articleshow/126707358.cms",
-    "time": "2026-01-19T18:02:17.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "WPL-4: Gautami, bowlers ensure RCB becomes first team to seal playoffs spot",
     "desc": "The No. 4 batter stitches together handy partnerships of 60 and 69 with Smriti and Richa, respectively; Sayali scalps three while fellow medium-pacer de Klerk chips in with a couple; Gardner’s all-round show not enough for Giants",
@@ -430,15 +538,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-tells-norway-his-greenland-threats-linked-to-nobel-prize-snub/article70525673.ece",
     "time": "2026-01-19T17:51:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Sebi proposes ‘Significant Indices’ framework; aims to tighten governance of index providers",
-    "desc": "The Securities and Exchange Board of India is proposing new rules for 'Significant Indices'. These are indices used by mutual funds with over Rs 20,000 crore in assets. The move aims to boost governance and transparency in the market. Index providers will need to register with Sebi. Public comments are invited until January 30.",
-    "img": "https://static.toiimg.com/photo/msid-126706482,imgsize-604456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/markets-regulation-sebi-proposes-significant-indices-framework-aims-to-tighten-governance-of-index-providers/articleshow/126706491.cms",
-    "time": "2026-01-19T17:47:39.000Z"
   },
   {
     "cat": "Politics",
@@ -523,30 +622,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "At 40, Wawrinka finds joy and fight in Melbourne as farewell looms",
-    "desc": "Stan Wawrinka enjoyed an emotional win in what is set to be his final Australian Open, beating Laslo Djere in four sets to reach the next round. The 40-year-old, playing on a wildcard, fed off strong crowd support to claim his first Melbourne victory in five years. Ranked 139, Wawrinka said the love from fans continues to fuel his fight.",
-    "img": "https://static.toiimg.com/photo/msid-126680457,imgsize-77746.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/australian-open-at-40-stan-wawrinka-finds-joy-and-fight-in-melbourne-as-farewell-looms/articleshow/126679700.cms",
-    "time": "2026-01-19T12:46:29.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "BCB denies ICC deadline, reiterates demand for alternative venue",
     "desc": "The Bangladesh Cricket Board has denied reports that the ICC set a January 21 deadline for a T20 World Cup decision, saying no timeline was given. Bangladesh has again asked for an alternative venue, citing security and pride. Talks continue amid conflicting claims, with the ICC reluctant to change schedules and Bangladesh pushing for a venue or group swap.",
     "img": "https://static.toiimg.com/photo/msid-126678434,imgsize-53314.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-row-bcb-denies-january-21-icc-deadline-reiterates-demand-for-alternative-venue/articleshow/126678295.cms",
     "time": "2026-01-19T12:18:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PSL adopts IPL-style auction; scraps draft system to 'increase transparency'",
-    "desc": "The Pakistan Super League will adopt a player auction system from its 11th season, mirroring the Indian Premier League's model. This change, along with an increased franchise purse to USD 1.6 million, aims to boost transparency and competitive balance. Franchises can now retain a maximum of four players, with new teams getting pre-auction picks.",
-    "img": "https://static.toiimg.com/photo/msid-126677142,imgsize-62280.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/psl-adopts-ipl-style-auction-scraps-draft-system-to-increase-transparency/articleshow/126676961.cms",
-    "time": "2026-01-19T12:07:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -568,30 +649,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Players walk off, Panenka missed, and Senegal lift AFCON final title",
-    "desc": "Senegal won the AFCON final after a night of chaos in Rabat. Players walked off in protest after a late VAR penalty for Morocco, fans clashed with security, and the match was delayed. Morocco missed a Panenka, saved by Edouard Mendy, before Pape Gueye scored in extra time to seal a 1-0 win and Senegal’s second title.",
-    "img": "https://static.toiimg.com/photo/msid-126676533,imgsize-133034.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/drama-at-afcon-final-players-walk-off-panenka-missed-and-senegal-lift-trophy-watch/articleshow/126675452.cms",
-    "time": "2026-01-19T10:55:45.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Raised among doctors &amp; professors, Mokhade leads Vidarbha to VHT glory",
     "desc": "Vidarbha's Aman Mokhade etched his name in history by scoring 814 runs, becoming the third player to breach the 800-run mark in the Vijay Hazare Trophy. Inspired by net sessions with Virat Kohli and MS Dhoni, Mokhade's stellar performance led Vidarbha to their maiden title. His father's unwavering support was crucial in his cricketing journey.",
     "img": "https://static.toiimg.com/photo/msid-126676031,imgsize-29970.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/raised-among-doctors-and-professors-aman-mokhade-leads-vidarbha-to-vijay-hazare-glory-exclusive/articleshow/126675947.cms",
     "time": "2026-01-19T10:35:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC deadline puts B'desh T20 WC spot under threat; this team next in line",
-    "desc": "Bangladesh's participation in the T20 World Cup remains uncertain as the ICC set a January 21 deadline for confirmation. Citing security concerns, the Bangladesh Cricket Board requested matches be moved to Sri Lanka, with Scotland potentially replacing them if they withdraw. Discussions are ongoing, with a group swap also considered.",
-    "img": "https://static.toiimg.com/photo/msid-126675264,imgsize-51136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mustafizur-rahman-row-icc-deadline-puts-bangladeshs-t20-world-cup-spot-under-threat-this-team-emerge-as-possible-replacement/articleshow/126675249.cms",
-    "time": "2026-01-19T10:22:03.000Z"
   },
   {
     "cat": "World",
@@ -604,39 +667,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘Well begun is half done’: Gavaskar dissects India's defeat despite Kohli's brilliance",
-    "desc": "Sunil Gavaskar criticised India's batters for failing to provide solid starts in their ODI series loss to New Zealand. He highlighted the lack of support for Virat Kohli, whose century went in vain. Gavaskar urged younger players to learn pacing and temperament from Kohli, while praising Harshit Rana's lower-order effort.",
-    "img": "https://static.toiimg.com/photo/msid-126672180,imgsize-185024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/well-begun-is-half-done-sunil-gavaskar-dissects-indias-historic-odi-series-defeat-despite-virat-kohlis-brilliance/articleshow/126671401.cms",
-    "time": "2026-01-19T07:42:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘We didn’t bat long’: Gill's blunt verdict after India's historic ODI series defeat",
-    "desc": "India suffered their first-ever bilateral ODI series defeat at home against New Zealand, with captain Shubman Gill highlighting the inability of batsmen to convert starts into long innings. Fielding lapses also proved costly. Gill, however, sees the loss as clarity rather than crisis, with time to address areas for improvement before the World Cup.",
-    "img": "https://static.toiimg.com/photo/msid-126671125,imgsize-134850.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/we-didnt-bat-long-enough-shubman-gills-blunt-verdict-after-indias-historic-odi-series-defeat-against-new-zealand/articleshow/126671095.cms",
-    "time": "2026-01-19T06:54:50.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Tennis Australia defends prize money amid player complaints",
     "desc": "The Australian Open hiked prize money ​to A$111.5 million ($74.56 million) for the current tournament, bringing it ahead of last year’s French Open ($65.42 million) and Wimbledon ($71.60 million) but short of the U.S. Open’s purse ($90 million)",
     "img": "https://th-i.thgim.com/public/incoming/jwuyos/article70476664.ece/alternates/LANDSCAPE_1200/AP02_04_2021_000012B.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/tennis/tennis-australia-defends-prize-money-amid-player-complaints/article70524404.ece",
     "time": "2026-01-19T05:53:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kuldeep's form a worry ahead of T20 WC: Modest returns highlight fading zing",
-    "desc": "India's bowlers struggled against New Zealand's centurions, with Kuldeep Yadav's poor form a major concern ahead of the T20 World Cup. Despite past brilliance, Yadav's recent performances have been concerning, raising questions about his current rhythm and effectiveness as the team prepares for the upcoming tournament.",
-    "img": "https://static.toiimg.com/photo/msid-126669392,imgsize-176202.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/kuldeep-yadavs-form-a-worry-ahead-of-t20-world-cup-modest-returns-in-nz-odis-highlight-fading-zing-at-crucial-juncture/articleshow/126669377.cms",
-    "time": "2026-01-19T05:37:38.000Z"
   },
   {
     "cat": "World",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-on-back-burner-for-few-more-days-ten-doeschate/article70512246.ece",
     "time": "2026-01-15T05:47:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Supreme Court to hear producer’s appeal on January 15",
-    "desc": "The Bench would hear KVN Productions’ challenge against the decision of a two-judge Bench of the High Court to stay a single judge’s order to issue U/A 16+ certificate to the film, hours after it was passed.",
-    "img": "https://th-i.thgim.com/public/incoming/bmfibj/article70510939.ece/alternates/LANDSCAPE_1200/Jana-Nayagan-GEEFDHS0C.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/sc-to-hear-jana-nayagan-producers-on-jan-15/article70510387.ece",
-    "time": "2026-01-14T15:48:43.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Is the government seeking phones’ source code?: Explained",
-    "desc": "What is the issue around the government seeking source code data from companies? What is source code, and why don’t companies want to give access to it? Will keeping the code open for review risk security threats and cyberattacks? What has the government said?",
-    "img": "https://th-i.thgim.com/public/incoming/60jr22/article70506746.ece/alternates/LANDSCAPE_1200/2026-01-13T131933Z_668809866_RC2QUGAJT58P_RTRMADP_3_INDIA-SMARTPHONES.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/is-the-government-seeking-phones-source-code-explained/article70506738.ece",
-    "time": "2026-01-14T03:00:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "The wax world of Madame Tussauds",
-    "desc": "Profound practice rising through a tumultuous revolution and art employed for years of nomadic lifestyle, Madame Tussauds wax works show a rich legacy of art, politics, and entertainment. What is the world behind its opulent interiors?",
-    "img": "https://th-i.thgim.com/public/children/q2ua64/article70456190.ece/alternates/LANDSCAPE_1200/MTH_Logo.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/children/the-wax-world-of-madame-tussauds/article70449130.ece",
-    "time": "2026-01-13T05:30:00.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Centre proposes smartphone makers give source code in security overhaul",
-    "desc": "The plan is part of Prime Minister Narendra Modi's efforts to boost the security of user data as online fraud and data breaches increase in the world's second-largest smartphone market, with nearly 750 million phones",
-    "img": "https://th-i.thgim.com/public/news/national/zfwzrk/article70497391.ece/alternates/LANDSCAPE_1200/iStock-1225585631.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/india-proposes-forcing-smartphone-makers-to-give-source-code-in-security-overhaul/article70497338.ece",
-    "time": "2026-01-11T09:46:16.000Z"
   }
 ];

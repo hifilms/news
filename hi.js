@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "David Miller faces race against time to be fit for T20 World Cup after sustaining injury in SA20 clash",
+    "desc": "In what could be a major blow for South Africa, veteran batter David Miller had to leave the field in game 30 of the ongoing SA20 season due to a suspected groin injury. The clash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/david-miller-faces-race-against-time-to-be-fit-for-t20-world-cup-after-sustaining-injury-in-sa20-clash-2026-01-20-1026619",
+    "time": "2026-01-20T06:09:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Joburg Super Kings book SA20 playoffs ticket after convincing victory against Paarl Royals",
+    "desc": "SA20 franchise Joburg Super Kings booked their place in the tournament playoffs after a brilliant win against Paarl Royals, their win meant that while Super Kings will move through into the tournament, Durban Super Giants...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/joburg-super-kings-book-sa20-playoffs-ticket-after-convincing-victory-against-paarl-royals-2026-01-20-1026610",
+    "time": "2026-01-20T05:28:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Brahim Diaz issues apology to fans after missed penalty in AFCON final",
+    "desc": "The AFCON 2025-26 final quickly became one of the most controversial football games of all time. Senegal took on Morocco in the summit clash of the tournament, and the clash saw Senegal walk out of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/brahim-diaz-issues-apology-to-fans-after-missed-penalty-in-afcon-final-2026-01-20-1026595",
+    "time": "2026-01-20T04:07:44.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Known for their strategy': Ajinkya Rahane gives his take on New Zealand's performance after ODI series win",
     "desc": "The Indian team succumbed to a hefty loss against New Zealand in the ODI leg of the ongoing multi-format series between the two teams. The two teams faced off across three ODI matches, and after...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-shatters-ricky-pontings-world-record-after-breaking-tendulkars-feat-in-ind-vs-nz-3rd-odi-2026-01-19-1026546",
     "time": "2026-01-19T14:00:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bengaluru beat Giants by 61 runs, qualify for playoffs",
-    "desc": "RCB displayed a brilliant performance in their clash against the Gujarat Giants. Asked to bat first, Bengaluru posted a strong total of 178/6 in their 20 overs with Gautami Naik scoring a stellar 73 from...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcbw-vs-ggw-wpl-2026-live-score-royal-challengers-bengaluru-vs-gujarat-giants-bca-stadium-kotambi-vadodara-latest-match-updates-scorecard-teams-2026-01-19-1026543",
-    "time": "2026-01-19T13:41:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Novak Djokovic creates history, becomes first player to achieve major record with 100th win at Australian Open",
-    "desc": "Serb legend Novak Djokovic brushed aside the Pedro Martinez challenge as he registered a thumping win in the first round of the Australian Open 2026. In his quest for his record-breaking 25th Grand Slam, Djokovic...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-creates-history-becomes-first-player-to-achieve-major-record-with-100th-win-at-australian-open-2026-01-19-1026535",
-    "time": "2026-01-19T12:56:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India to face arch-rivals Pakistan twice on this day! Know all details inside",
-    "desc": "India vs Pakistan fixtures have always been a treat not only for the fans but also for the broadcasters. The arch-rivals don't play bilaterals anymore but they face each other in the Asia Cup and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-to-face-arch-rivals-pakistan-twice-on-this-day-know-all-details-inside-2026-01-19-1026514",
-    "time": "2026-01-19T10:26:20.000Z"
   }
 ];

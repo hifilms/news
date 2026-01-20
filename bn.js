@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "এবার চিনকে টার্গেট করল আইএস! বাঁচল না কাবুলের সবচেয়ে নিরাপদ জায়গাও...বিস্ফোরণে উড়ে গেল রেস্তোরাঁ! ৭ জনের মৃত্যু",
+    "desc": "স্থানীয় প্রশাসন সূত্রে জানা গিয়েছে, এই হামলায় চিনের নাগরিকদের নিশানা করা হয়েছিল৷ আফগানিস্তানের রাজধানীর সবচেয়ে নিরাপদ এলাকাগুলির মধ্যে একটি হিসেবে বিবেচিত হয় এই শাহর-ই-নও৷ অনেক বিদেশিদের আবাসস্থল হিসেবে পরিচিত গুলফারোশি স্ট্রিটের একটি হোটেলে বিস্ফোরণটি ঘটে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-2026-01-20T110558.122-2026-01-538b111d6b8afa96f36e25ba231d4608-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/afganistan-kabul-blast-7-people-died-chinese-people-targeted-is-took-responsibility-of-the-attack-sta-2504928.html",
+    "time": "2026-01-20T05:38:09.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "বাতের ব্যথা শেষ করে দিল কেরিয়ার! মাত্র ৩৫ বছর বয়সে জীবনের সব থেকে কঠিন সিদ্ধান্ত নিলেন সাইনা নেহওয়াল",
     "desc": "সাইনা বলেন, আমার আনুষ্ঠানিকভাবে অবসর ঘোষণা কোনও বড় ব্যাপার নয়। লোকজন ধীরে ধীরে বুঝতে পারবে, সাইনা আর খেলে না। বিশ্ব ব্যাডমিন্টনে ভাল জায়গায় থাকতে হলে রোজ ৮-৯ ঘন্টা প্র্যাকটিস করতে হয়। আমার শরীর আর ২ ঘণ্টার বেশি দিচ্ছে না।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/national/10-minutes-delivery-service-will-be-stopped-as-per-govt-of-india-orders-due-to-safety-and-security-of-delivery-boys-rdp-2494740.html",
     "time": "2026-01-13T15:34:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ক্যানসার চিকিৎসার খরচ কমাতে বড় রায়, সস্তা নিভোলুম্যাব বিক্রির অনুমতি দিল দিল্লি হাইকোর্ট",
-    "desc": "সাশ্রয়ী চিকিৎসার পথে বড় স্বস্তির রায় দিল দিল্লি হাইকোর্ট। মার্কিন ওষুধ প্রস্তুতকারক সংস্থা ব্রিস্টল মায়ার্স স্কুইব (BMS)-এর উদ্ভাবিত বহুল ব্যবহৃত ক্যানসারের ওষুধ নিভোলুম্যাব (Nivolumab)-এর সস্তা বায়োসিমিলার ভারতে বিক্রির অনুমতি পেল ভারতীয় ফার্মাসিউটিক্যাল সংস্থা জাইডাস লাইফসায়েন্সেস।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Untitled-design-2026-01-13T180131.040-2026-01-97f313430b8a2a231f02318ee0fe79ab-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/delhi-high-court-give-green-signal-zydus-nivolumab-biosimilar-sale-affordable-cancer-treatment-india-sal-2494369.html",
-    "time": "2026-01-13T13:09:20.000Z"
   }
 ];

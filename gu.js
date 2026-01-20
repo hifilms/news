@@ -1,12 +1,21 @@
 const newsData_gu = [
   {
-    "cat": "Business",
-    "title": "ઇન્કમ ટેક્સ એક્ટમાં થવા જઈ રહ્યા છે મોટા ફેરફાર; ટેક્સ સ્લેબથી લઈને HRA સુધી શું બદલાશે?",
-    "desc": "Budget 2026 ને લઈને આ વખતે ભારે ઉત્સાહ જોવા મળી રહ્યો છે. સરકાર આવકવેરા અધિનિયમ (Income Tax Act), 1961 માં ફેરફાર કરીને નવો 'ઇન્કમ ટેક્સ એક્ટ, 2025' લાગુ કરવાની તૈયારી કરી રહી છે. ચાલો જાણીએ આ વખતે બજેટમાં શું ખાસ હોઈ શકે છે.",
+    "cat": "Politics",
+    "title": "જ્યારે મોદી CM હતા ત્યારે પટનાથી ગુજરાત જતા નીતિન નબીન: ભાજપના નવા અધ્યક્ષનો કિસ્સો",
+    "desc": "નીતિન નબીન ભાજપના રાષ્ટ્રીય અધ્યક્ષ બનવાથી એક વાત સ્પષ્ટ થઈ ગઈ છે કે પીએમ નરેન્દ્ર મોદી પોતાના વિશ્વાસુઓને ક્યારેય ભૂલતા નથી. બહુ ઓછા લોકો જાણતા હશે કે નીતિનને ભલે તાજેતરના વર્ષોમાં મોટી જવાબદારીઓ સોંપવામાં આવી હોય, પરંતુ મોદી તેમને લગભગ બે દાયકાથી ઓળખે છે. હા, જ્યારે મોદી ગુજરાતના સીએમ હતા ત્યારે પટનાથી નીતિન નબીન તેમને મળવા જતા હતા.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/budget-2026-changes-are-coming-to-the-income-tax-act-from-tax-rates-to-hra-find-out-what-all-is-going-to-change-462258 ",
-    "time": "2026-01-20T03:52:31.000Z"
+    "url": " http://zeenews.india.com/gujarati/india/when-narendra-modi-was-the-chief-minister-nitin-naveen-the-new-bjp-president-used-to-fly-from-patna-to-gujarat-a-story-about-him-462268 ",
+    "time": "2026-01-20T05:14:11.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ફુલ ટેંકમાં 800 KM ચાલશે, આ છે દેશની સૌથી સસ્તી ડિસ્ક બ્રેકવાળી બાઇક, જાણો કિંમત અને ફીચર્સ",
+    "desc": "જો તમે નવી બાઇક ખરીદવાનો પ્લાન કરી રહ્યાં છો અને તમારૂ બજેટ 80000 આસપાસ છે તો આજે અમે તમને એક બાઇક વિશે માહિતી આપીશું. આ બાઇક ડિસ્ક બ્રેક સાથે આવે છે અને માઇલેજમાં નંબર વન છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/tvs-star-city-plus-disc-brake-bikes-features-powertrain-mileage-details-know-before-buying-here-462266 ",
+    "time": "2026-01-20T05:08:27.000Z"
   },
   {
     "cat": "Politics",
@@ -15,7 +24,16 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/karnataka-dgp-viral-video-ips-k-ramchandra-rao-suspended-462256 ",
-    "time": "2026-01-20T03:45:11.000Z"
+    "time": "2026-01-20T04:15:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ઇન્કમ ટેક્સ એક્ટમાં થવા જઈ રહ્યા છે મોટા ફેરફાર; ટેક્સ સ્લેબથી લઈને HRA સુધી શું બદલાશે?",
+    "desc": "Budget 2026 ને લઈને આ વખતે ભારે ઉત્સાહ જોવા મળી રહ્યો છે. સરકાર આવકવેરા અધિનિયમ (Income Tax Act), 1961 માં ફેરફાર કરીને નવો 'ઇન્કમ ટેક્સ એક્ટ, 2025' લાગુ કરવાની તૈયારી કરી રહી છે. ચાલો જાણીએ આ વખતે બજેટમાં શું ખાસ હોઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/budget-2026-changes-are-coming-to-the-income-tax-act-from-tax-rates-to-hra-find-out-what-all-is-going-to-change-462258 ",
+    "time": "2026-01-20T03:52:31.000Z"
   },
   {
     "cat": "World",
@@ -324,15 +342,6 @@ const newsData_gu = [
     "time": "2026-01-17T10:32:13.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "અજિંક્ય રહાણેએ અચાનક લીધો મોટો નિર્ણય, લાંબા સમયથી ટીમ ઈન્ડિયાથી છે બહાર",
-    "desc": "હૈદરાબાદ સામેની રણજી ટ્રોફી મેચ માટે 17 જાન્યુઆરીએ મુંબઈ ટીમની પસંદગી થવાની છે. ત્યારે રહાણેએ રણજી ટ્રોફી મેચોમાંથી પોતાનું નામ પાછું ખેંચી લીધું છે. ત્યારે આ લેખમાં જાણીશું કે, અજિંક્ય રહાણેએ અચાનક કેમ આ નિર્ણય લીધો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ajinkya-rahane-opts-out-of-mumbai-remaining-ranji-trophy-matches-know-reason-461980 ",
-    "time": "2026-01-17T10:05:21.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "WhatsApp કરવા જઈ રહ્યું છે મોટો ફેરફાર, Youtube જેવું આવશે ફીચર",
     "desc": "WhatsApp વધુ એક મોટો ફેરફાર કરવાની તૈયારી કરી રહ્યું છે. મેસેજિંગ એપ ટૂંક સમયમાં એક ફીચર એડ કરશે, જે માતા-પિતાની ચિંતાઓને દૂર કરશે. આ નવી અપડેટ માતા-પિતાને તેમના બાળકોના WhatsApp એકાઉન્ટ્સ પર વધુ કંટ્રોલ આપશે, જેના કારણે તેઓ તેમની ઓનલાઈન સુરક્ષા અને પ્રાયવસીને વધુ સારી રીતે મેનેજ કરી શકશે.",
@@ -349,15 +358,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/i-will-never-forgive-govinda-said-sunita-ahuja-breaks-silence-on-63-year-old-govinda-extra-marital-affair-461954 ",
     "time": "2026-01-17T06:47:50.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "કેન્દ્ર સરકારના કર્મચારીઓ માટે જબરદસ્ત છે આ યોજના, સરકાર પુરૂ કરશે પોતાના ઘરનું સપનું !",
-    "desc": "આ સુવીધા કેન્દ્ર સરકારના કાયમી કર્મચારીઓ માટે ઉપલબ્ધ છે. ચોક્કસ શરતો દ્વારા કામચલાઉ કર્મચારીઓ પણ આ યોજનાનો લાભ લઈ શકે છે. જો કે, કેન્દ્ર સરકારના કર્મચારીએ ઓછામાં ઓછા પાંચ વર્ષ સરકારી સેવા પૂર્ણ કરી હોય તે જરૂરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/this-scheme-is-great-for-central-government-employees-the-government-will-fulfill-their-dream-of-owning-a-house-461881 ",
-    "time": "2026-01-16T13:32:50.000Z"
   },
   {
     "cat": "World",
@@ -547,14 +547,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/indian-idol-season-3-winner-prashant-tamang-died-at-the-age-of-43-461307 ",
     "time": "2026-01-11T10:09:10.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "સ્વિફ્ટથી લઈને વેગનઆર સુધી... મારુતિની આ 5 કારની કિંમતોમાં ઘટાડો",
-    "desc": "મારુતિ સુઝુકીએ એરેના ડીલરશીપ પર વેચાતી કાર માટે જાન્યુઆરી 2026ના ડિસ્કાઉન્ટની જાહેરાત કરી છે. કંપની તેની હેચબેક પર 45,000 સુધીનું ડિસ્કાઉન્ટ આપી રહી છે. હેચબેકની યાદીમાં S-Presso, Alto K10, WagonR, Celerio અને Swiftનો સમાવેશ થાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/maruti-hatchback-swift-to-wagonr-discount-january-2026-461302 ",
-    "time": "2026-01-11T09:49:16.000Z"
   }
 ];
