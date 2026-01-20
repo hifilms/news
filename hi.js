@@ -1,8 +1,35 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Who is Will Malajczuk, the Australian batter who smashed the fastest-ever century in U-19 World Cup history?",
+    "desc": "Australian star opener Will Malajczuk etched his name into the history books as she slammed the fastest-ever century in the U19 World Cup during his team's clash against Japan U19 on Tuesday, January 20. Malajczuk smashed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/who-is-will-malajczuk-the-australian-batter-who-smashed-the-fastest-ever-century-in-u-19-world-cup-history-2026-01-20-1026735",
+    "time": "2026-01-20T18:01:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ishan Kishan returns, Iyer to miss out; India's probable Playing XI for IND vs NZ 1st T20I",
+    "desc": "The T20 World Cup 2026 is approaching the horizon, and India have one final T20I assignment to fine-tune their combinations before the global showpiece kicks off on February 7. The Suryakumar Yadav-led Indian team will be...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-returns-iyer-to-miss-out-indias-probable-playing-xi-for-ind-vs-nz-1st-t20i-2026-01-20-1026724",
+    "time": "2026-01-20T16:05:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and Where to watch UEFA Champions League clash on TV and stream online in India?",
+    "desc": "European football returns to the Santiago Bernabeu on Wednesday night as Real Madrid resume their Champions League campaign with a crucial league-stage encounter against Monaco. It is the penultimate fixture in this phase of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/real-madrid-vs-monaco-when-and-where-to-watch-uefa-champions-league-clash-on-tv-and-stream-online-in-india-2026-01-20-1026719",
+    "time": "2026-01-20T15:29:46.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Suryakumar Yadav addresses concerns regarding form, states his batting number",
-    "desc": "India captain Suryakumar Yadav has struggled to find rhythm in international cricket. He has scored only 44 runs in the last four matches and following this, the veteran has been put under the spotlight. His...",
+    "desc": "India captain Suryakumar Yadav has struggled to find rhythm in international cricket. He has scored only 34 runs in the last four matches and following this, the veteran has been put under the spotlight. His...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-addresses-concerns-regarding-form-states-his-batting-number-2026-01-20-1026717",
@@ -52,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/wpl-2026-how-can-delhi-capitals-still-qualify-for-playoffs-after-one-win-in-four-matches-2026-01-20-1026691",
     "time": "2026-01-20T12:36:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Ishan Kishan play in IND vs NZ 1st T20I? Captain Suryakumar Yadav reveals ahead of opener in Nagpur",
-    "desc": "India are set to face New Zealand in a five-match T20I series with the first contest being played on Wednesday, January 21, at the Vidarbha Cricket Association Stadium, Nagpur. The series will be the final...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-ishan-kishan-play-in-ind-vs-nz-1st-t20i-captain-suryakumar-yadav-reveals-ahead-of-opener-in-nagpur-2026-01-20-1026690",
-    "time": "2026-01-20T12:35:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Stefanos Tsitsipas finds new girlfriend as Greek star moves on from Paula Badosa",
-    "desc": "Greek Tennis star Stefanos Tsitsipas seemed to have moved on from Paula Badosa, as the tennis star has reportedly found a new girlfriend. As per media reports, Tsitsipas is dating the USA's Kristen Thoms, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/stefanos-tsitsipas-finds-new-girlfriend-as-greek-star-moves-on-from-paula-badosa-2026-01-20-1026684",
-    "time": "2026-01-20T12:01:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav set to become third Indian cricketer after Kohli, Rohit to register major record",
-    "desc": "India T20I captain Suryakumar Yadav is only 212 runs short of becoming the third Indian cricketer, after Virat Kohli and Rohit Sharma, to complete 3000 or more runs in T20I cricket history. The veteran batter...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-set-to-become-third-indian-cricketer-after-virat-kohli-rohit-sharma-to-register-major-record-2026-01-20-1026677",
-    "time": "2026-01-20T11:42:31.000Z"
   }
 ];
