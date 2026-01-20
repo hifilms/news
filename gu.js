@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "ઝવેરી બજારમાં આજે તેજીનો વંટોળ; અમદાવાદમાં આજે સોના-ચાંદીએ તમામ રેકોર્ડ તોડ્યા, ઐતિહાસિક ઉછાળો",
+    "desc": "આજે ફરી સોના-ચાંદીના ભાવમાં ઐતિહાસિક વધારો જોવા મળ્યો છે. સોનાના ભાવમાં એક જ દિવસમાં અંદાજિત 6 હજારનો વધારો જોવા મળ્યો છે. આજે 10 ગ્રામ 24 કેરેટ સોનાનો ભાવ 152800 રૂપિયાએ પહોંચ્યો છે. જ્યારે 1 કિલો ચાંદીનો ભાવ 325000 રૂપિયાએ પહોંચ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-silver-prices-record-high-january-2026-ahmedabad-market-update-462311 ",
+    "time": "2026-01-20T11:39:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "રૂપિયા તૈયાર રાખો... આવી રહ્યો છે કમાણીનો શાનદાર મોકો! આવી રહ્યો છે સૌથી ચર્ચીત કંપનીનો IPO, જાણો ડિટેલ",
+    "desc": "PhonePeને બજાર નિયમનકાર સિક્યોરિટીઝ એન્ડ એક્સચેન્જ બોર્ડ ઓફ ઈન્ડિયા (SEBI) તરફથી પ્રારંભિક જાહેર ઓફર (IPO) લાવવા માટે મંજૂરી મળી ગઈ છે અને કંપની ટૂંક સમયમાં તેના દસ્તાવેજો ફાઇલ કરશે. ચાલો કંપનીના આગળના પ્લાન વિશે જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/phonepe-gets-sebi-nod-for-india-second-largest-fintech-ipo-likely-to-seek-15-billion-dollar-valuation-know-462310 ",
+    "time": "2026-01-20T11:32:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ના રવિવાર કે ના કોઈ જાહેર રજા... છતાં 27 જાન્યુઆરી બંધ રહેશે તમામ બેંકો, જાણો શું છે કારણ",
+    "desc": "બેંક કર્મચારી યુનિયનોએ 27 જાન્યુઆરીએ હડતાળનું એલાન કર્યું છે. 5 ડે વર્કને લઈને હડતાળની જાહેરાત કરી છે, જો આ માંગણી પુરી થાય છે, તો બેંકિંગ ક્ષેત્રમાં મોટા ફેરફારો જોવા મળી શકે છે. જો કે, દર અઠવાડિયે બે દિવસની રજા લાગુ કરવા માટે RBIની મંજૂરી જરૂરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/bank-closed-in-27th-january-know-why-bank-employees-to-strike-462305 ",
+    "time": "2026-01-20T10:31:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આજથી નબીન મારા બોસ, હું તેમનો કાર્યકર્તા; આપણે ત્યાં અધ્યક્ષ બદલાઈ છે, આદર્શ નહીંઃ પીએમ મોદી",
+    "desc": "પીએમ મોદીએ કહ્યુ, 'ભાજપ એક સંસ્કાર છે. ભાજપ એક પરિવાર છે. આપણે અહીં મેમ્બરશિપથી વધુ રિલેશનશિપ હોય છે. ભાજપ એક એવી પરંપરા છે જે પદથી નહીં પ્રક્રિયાથી ચાલે છે. આપણે ત્યાં પદભાર એક વ્યવસ્થા છે અને કાર્યભાર જીવનભરની જવાબદારી છે. આપણે ત્યાં અધ્યક્ષ બદલાઈ છે પરંતુ આદર્શ બદલાતા નથી.'",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pm-narendra-modi-congrats-new-bjp-chief-nitin-nabin-he-is-my-boss-i-am-party-karyakarta-462286 ",
+    "time": "2026-01-20T10:02:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "અટલ બિહારી વાજપેયીથી નીતિન નવીન સુધી... BJPના રાષ્ટ્રીય અધ્યક્ષોની યાદી અને પદભાર સમયે કોની કેટલી ઉંમર?",
+    "desc": "બિહારના યુવા નેતા નીતિન નવીને અંદાજે 45 વર્ષની ઉંમરે BJP ના રાષ્ટ્રીય અધ્યક્ષ તરીકેનો પદભાર સંભાળી લીધો છે. આ સાથે જ નીતિન નવીન BJP ના રાષ્ટ્રીય અધ્યક્ષની જવાબદારી સંભાળનારા સૌથી યુવા નેતાઓમાં સામેલ થઈ ગયા છે. નીતિન નવીન પહેલા BJP ના 11 દિગ્ગજ નેતાઓ આ જવાબદારી સંભાળી ચૂક્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/atal-bihari-vajpayee-to-nitin-nabin-how-old-were-they-when-they-assumed-the-post-of-bjp-national-president-462295 ",
+    "time": "2026-01-20T09:39:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "નીતિન નવીન કઈ જાતિમાંથી આવે છે? જાણો બિહારમાં કેટલી છે તેમની સંખ્યા",
+    "desc": "નવા નિયુક્ત ભાજપના રાષ્ટ્રીય અધ્યક્ષ નીતિન નવીનને આપવામાં આવેલા \"સિંહા\" શીર્ષકને કારણે, લોકો ઘણીવાર તેમને \"સિંહ\", જેનો અર્થ રાજપૂત થાય છે તે સમજવાની ભૂલ કરે છે. બિહારમાં કેટલીક કુર્મી અને ઓબીસી જાતિઓએ પણ \"સિંહા\" શીર્ષકનો ઉપયોગ કરવાનું શરૂ કર્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/which-caste-does-nitin-naveen-belong-to-know-how-many-of-them-are-there-in-bihar-462294 ",
+    "time": "2026-01-20T09:31:32.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "BCCI સેન્ટ્રલ કોન્ટ્રાક્ટમાં થશે મોટો ફેરફાર, વિરાટ કોહલી અને રોહિત શર્માનું ડિમોશન પાક્કું !",
     "desc": "ભારતીય ક્રિકેટ બોર્ડ ખેલાડીઓ માટે વાર્ષિક સેન્ટ્રલ કોન્ટ્રાક્ટ સિસ્ટમમાં મોટો ફેરફાર કરવાની તૈયારી કરી રહ્યું છે. આ મોટા ફેરફારની સૌથી વધુ અસર ટીમ ઈન્ડિયાના સ્ટાર ખેલાડીઓ ખાસ કરીને વિરાટ કોહલી અને રોહિત શર્મા પર પડી શકે છે.",
@@ -34,15 +88,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/shubman-gill-hints-multiple-change-in-indian-cricket-odi-team-462287 ",
     "time": "2026-01-20T08:13:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આજથી નબીન મારા બોસ, હું તેમનો કાર્યકર્તા; આપણે ત્યાં અધ્યક્ષ બદલાઈ છે, આદર્શ નહીંઃ પીએમ મોદી",
-    "desc": "પીએમ મોદીએ કહ્યુ, 'ભાજપ એક સંસ્કાર છે. ભાજપ એક પરિવાર છે. આપણે અહીં મેમ્બરશિપથી વધુ રિલેશનશિપ હોય છે. ભાજપ એક એવી પરંપરા છે જે પદથી નહીં પ્રક્રિયાથી ચાલે છે. આપણે ત્યાં પદભાર એક વ્યવસ્થા છે અને કાર્યભાર જીવનભરની જવાબદારી છે. આપણે ત્યાં અધ્યક્ષ બદલાઈ છે પરંતુ આદર્શ બદલાતા નથી.'",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pm-narendra-modi-congrats-new-bjp-chief-nitin-nabin-he-is-my-boss-i-am-party-karyakarta-462286 ",
-    "time": "2026-01-20T08:13:07.000Z"
   },
   {
     "cat": "Politics",
@@ -261,24 +306,6 @@ const newsData_gu = [
     "time": "2026-01-18T17:51:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "આઠમી અજાયબી! 32 નહીં આ છોકરાના મોઢામાં છે પુરા 94 દાંત, વીડિયો જોયા પછી તમને નહીં આવે વિશ્વાસ",
-    "desc": "આપણે બધા શાળામાં જીવવિજ્ઞાનના પાઠ્યપુસ્તકોમાં વાંચીએ છીએ કે માણસને 32 દાંત હોય છે. જોકે, સોશિયલ મીડિયા પર 94 દાંતવાળા એક યુવાનનો વીડિયો વાયરલ થઈ રહ્યો છે. આ વીડિયો જોયા પછી તમને તમારી આંખો પર વિશ્વાસ નહીં આવે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/eighth-wonder-this-boy-has-94-teeth-in-his-mouth-not-32-you-wont-believe-it-after-watching-the-video-462132 ",
-    "time": "2026-01-18T16:09:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ભારત છોડીને ભાગી જનાર એકમાત્ર મુઘલ સમ્રાટ, જાણો કોણે હરાવ્યો હતો?",
-    "desc": "મુઘલ સામ્રાજ્યના બીજો સમ્રાટ એકમાત્ર એવા બાદશાહ હતો, જેને ભારત છોડીને દેશનિકાલ જવાની ફરજ પડી હતી. તેને અફઘાન યોદ્ધા શેરશાહ સુરી દ્વારા યુદ્ધમાં હારનો સામનો કરવો પડ્યો હતો અને તેને એક જગ્યાએથી બીજી જગ્યાએ ભટકવાની ફરજ પડી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/the-only-mughal-emperor-who-fled-india-know-who-defeated-him-462131 ",
-    "time": "2026-01-18T15:49:09.000Z"
-  },
-  {
     "cat": "Business",
     "title": "લગ્ન કરેલા કપલને મળશે ટેક્સમાં મોટી રાહત! બજેટમાં જાહેરાત થવાની શક્યતા",
     "desc": "હાલમાં, ભારતમાં ટેક્સ સિસ્ટમ એવી છે કે પરિણીત હોય કે ન હોવાથી કોઈ ફરક પડતો નથી. પતિ અને પત્ની બંને અલગથી ટેક્સ ચૂકવે છે, અલગ PAN ધરાવે છે, અને અલગ છૂટ અને કપાત મેળવે છે.",
@@ -376,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/farah-khan-upcoming-reality-show-the-50-contestant-list-of-the-show-the-50-462021 ",
     "time": "2026-01-17T13:23:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "30 ગણાથી વધુ સબસ્ક્રિપ્શન, GMP દેખાડે છે નફો, IPO પર રોકાણકારોનું ભારે રોકાણ",
-    "desc": "આ IPO 13 જાન્યુઆરીના રોજ ખુલ્યો હતો અને 16 જાન્યુઆરીના રોજ એટલે કે ગઈકાલે બંધ થઈ ગયો છે. IPO પર ગ્રે માર્કેટમાં પણ તેજી જોવા મળી રહી છે, જ્યારે આઈપીના લિસ્ટિંગ પર રોકાણકારોને સારો નફો થવાની પણ આશા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/more-than-30-times-subscription-gmp-shows-profit-investors-invest-heavily-in-ipo-461983 ",
-    "time": "2026-01-17T10:32:13.000Z"
   },
   {
     "cat": "Tech",
@@ -511,15 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/gk-quiz-which-is-the-only-country-in-the-world-that-has-three-capitals-461588 ",
     "time": "2026-01-13T12:20:55.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "અમેરિકાએ 100000 વિઝા કર્યા રદ, 8,000 વિદ્યાર્થીઓને ઝટકો: ટ્રમ્પના નિર્ણયની ભારતીયો પર શું થશે અસર?",
-    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પના નિર્દેશ પર વિદેશ વિભાગે 100000 વિઝા રદ કર્યા, જેના કારણે 8,000 વિદ્યાર્થીઓના વિઝા પર નોંધપાત્ર અસર પડી છે.. નવી ઇમિગ્રેશન નીતિ હેઠળના આ નિર્ણયથી ભારતીયો સૌથી વધુ સીધી રીતે પ્રભાવિત થયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/us-cancelled-100000-visas-affecting-8000-students-as-well-what-impact-will-trumps-decision-have-on-indians-461548 ",
-    "time": "2026-01-13T07:05:21.000Z"
   },
   {
     "cat": "Tech",
