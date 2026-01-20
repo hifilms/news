@@ -1,5 +1,86 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "BCCI સેન્ટ્રલ કોન્ટ્રાક્ટમાં થશે મોટો ફેરફાર, વિરાટ કોહલી અને રોહિત શર્માનું ડિમોશન પાક્કું !",
+    "desc": "ભારતીય ક્રિકેટ બોર્ડ ખેલાડીઓ માટે વાર્ષિક સેન્ટ્રલ કોન્ટ્રાક્ટ સિસ્ટમમાં મોટો ફેરફાર કરવાની તૈયારી કરી રહ્યું છે. આ મોટા ફેરફારની સૌથી વધુ અસર ટીમ ઈન્ડિયાના સ્ટાર ખેલાડીઓ ખાસ કરીને વિરાટ કોહલી અને રોહિત શર્મા પર પડી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bcci-is-likely-to-remove-a-plus-category-in-central-contract-kohli-rohit-to-demoted-462292 ",
+    "time": "2026-01-20T09:26:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "3 કિલો ચાંદી... 25 લાખનો ખર્ચ અને એક વર્ષની મહેનત: જયપુરનું આ લગ્ન કાર્ડ જોઈને તમે ચોંકી જશો",
+    "desc": "જયપુરના એક ઝવેરીએ પોતાની દીકરીના લગ્ન માટે એક એવું નિમંત્રણ પત્ર બનાવ્યું છે જે અત્યારે ભારે ચર્ચામાં છે. એક પિતાએ પોતાની દીકરીના લગ્ન માટે 3 કિલો ચાંદી અને 25 લાખ રૂપિયાના ખર્ચે, પૂરા એક વર્ષની મહેનત બાદ આ અનોખું ઇન્વિટેશન કાર્ડ તૈયાર કરાવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/3-kg-of-silver-a-cost-of-25-lakh-rupees-and-a-year-of-hard-work-you-see-this-wedding-invitation-from-jaipur-462291 ",
+    "time": "2026-01-20T09:24:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP ના રાષ્ટ્રીય અધ્યક્ષ નીતિન નબીનને કેટલો પગાર મળશે? પાર્ટીમાં કઈ-કઈ સુવિધા મળશે, જાણો વિગત",
+    "desc": "ભાજપના નવા રાષ્ટ્રીય અધ્યક્ષ નીતિન નબીને પાર્ટીની કમાન સંભાળી લીધી છે. બિહારથી આવતા 45 વર્ષીય નીતિન નબીન પાંચ વખત ધારાસભ્ય રહી ચુક્યા છે. હવે બધાના મનમાં સવાલ થઈ રહ્યો છે કે આખરે ભાજપના રાષ્ટ્રીય અધ્યક્ષને કેટલો પગાર મળે છે, તેમને કઈ-કઈ સુવિધા મળે છે. જાણો દરેક વિગત...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-salary-will-national-president-of-bjp-party-new-president-nitin-nabin-after-jp-nadda-receive-facilities-462290 ",
+    "time": "2026-01-20T09:20:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "આગામી ODI સિરીઝમાં ટીમ ઈન્ડિયામાંથી ગાયબ થશે ઘણા ચહેરા, કેપ્ટન ગિલે આપ્યો સંકેત",
+    "desc": "ટીમ ઈન્ડિયાએ પહેલી મેચ જીતવા છતાં ન્યૂઝીલેન્ડ સામે ત્રણ મેચની વનડે શ્રેણી 2-1થી હારી ગઈ. આ ન્યૂઝીલેન્ડનો ભારતમાં અત્યાર સુધીનો પહેલો શ્રેણી વિજય છે. આ હાર બાદ હવે આગામી ODI સિરીઝમાં ટીમ ઈન્ડિયામાં ફેરફાર જોવા મળી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/shubman-gill-hints-multiple-change-in-indian-cricket-odi-team-462287 ",
+    "time": "2026-01-20T08:13:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આજથી નબીન મારા બોસ, હું તેમનો કાર્યકર્તા; આપણે ત્યાં અધ્યક્ષ બદલાઈ છે, આદર્શ નહીંઃ પીએમ મોદી",
+    "desc": "પીએમ મોદીએ કહ્યુ, 'ભાજપ એક સંસ્કાર છે. ભાજપ એક પરિવાર છે. આપણે અહીં મેમ્બરશિપથી વધુ રિલેશનશિપ હોય છે. ભાજપ એક એવી પરંપરા છે જે પદથી નહીં પ્રક્રિયાથી ચાલે છે. આપણે ત્યાં પદભાર એક વ્યવસ્થા છે અને કાર્યભાર જીવનભરની જવાબદારી છે. આપણે ત્યાં અધ્યક્ષ બદલાઈ છે પરંતુ આદર્શ બદલાતા નથી.'",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pm-narendra-modi-congrats-new-bjp-chief-nitin-nabin-he-is-my-boss-i-am-party-karyakarta-462286 ",
+    "time": "2026-01-20T08:13:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કોણ છે વાયરલ વીડિયોને કારણે સસ્પેન્ડ થયેલા DGP રામચંદ્ર રાવ? ગોલ્ડ સ્મગલિંગમાં જેલમાં છે અભિનેત્રી પુત્રી",
+    "desc": "કર્ણાટકમાં એક વરિષ્ઠ IPS અને DGP રેન્કના અધિકારીને સોશિયલ મીડિયા પર એક વાંધાજનક વીડિયો વાયરલ થયા બાદ સસ્પેન્ડ કરવામાં આવ્યા છે. આ વીડિયોમાં તેઓ પોતાની ઓફિસમાં મહિલાઓ સાથે અયોગ્ય વર્તન કરતા જોવા મળે છે. તેમની પુત્રી રાણ્યા રાવ પણ હાલમાં સોનાની દાણચોરીના કેસમાં જેલમાં છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/who-is-dgp-ramachandra-rao-suspended-over-a-viral-video-his-actress-daughter-is-in-jail-for-gold-smuggling-462280 ",
+    "time": "2026-01-20T07:29:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "અશ્લીલ વીડિયો વાયરલ થયા બાદ DGP રેન્કના અધિકારી સસ્પેન્ડ, ઓફિસમાં આપત્તિજનક હરકતનો આરોપ",
+    "desc": "કર્ણાટકના વરિષ્ઠ IPS અધિકારી અને નાગરિક અધિકાર પ્રવર્તનના DGP રામચંદ્ર રાવને સોશિયલ મીડિયા પર એક વાંધાજનક વીડિયો વાયરલ થયા બાદ સસ્પેન્ડ કરવામાં આવ્યા છે. જો કે, રાવે આ આરોપોને સંપૂર્ણપણે ખોટા અને વીડિયોને નકલી ગણાવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/karnataka-dgp-viral-video-ips-k-ramchandra-rao-suspended-462256 ",
+    "time": "2026-01-20T07:01:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "15 લાખનું રોકાણ અને એક શાનદાર આઈડિયા: Zeptoની નોકરી છોડી 3 મિત્રોએ ઉભી કરી 1800 કરોડની કંપની",
+    "desc": "ત્રણ મિત્રો Zeptoમાં એક્ઝિક્યુટિવ તરીકે કામ કરતા હતા. નોકરી દરમિયાન જ તેમને કંઈક અલગ કરવાનો વિચાર આવ્યો અને આજે તેમણે જે કરી બતાવ્યું છે તે સ્ટાર્ટઅપ જગત માટે એક મિસાલ બની ગયું છે. તેમની આ કહાની વર્ષ 2024થી શરૂ થાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/with-15-lakh-rupees-and-an-idea-he-resigned-from-his-job-at-zepto-and-built-a-company-worth-1800-crore-rupees-462279 ",
+    "time": "2026-01-20T06:54:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "&amp;#039;ગંભીર હાય-હાય...&amp;#039; કોચની હૂટિંગ જોઈ ગુસ્સે થયો કોહલી અને પછી...",
+    "desc": "ભારતીય ક્રિકેટ ટીમની ન્યૂઝીલેન્ડ સામેની ODI શ્રેણીમાં હાર બાદ ઇન્દોરમાં દર્શકોએ મુખ્ય કોચ ગૌતમ ગંભીર વિરુદ્ધ \"હાય-હાય\" ના નારા લગાવ્યા હતા. આ ઘટનાથી માત્ર મેનેજમેન્ટ જ નહીં, પરંતુ મેદાન પર હાજર સિનિયર ખેલાડીઓ પણ આશ્ચર્યચકિત થઈ ગયા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/indore-crowd-furious-at-gautam-gambhir-holkar-stadium-virat-kohli-angry-462278 ",
+    "time": "2026-01-20T06:53:54.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "જ્યારે મોદી CM હતા ત્યારે પટનાથી ગુજરાત જતા નીતિન નબીન: ભાજપના નવા અધ્યક્ષનો કિસ્સો",
     "desc": "નીતિન નબીન ભાજપના રાષ્ટ્રીય અધ્યક્ષ બનવાથી એક વાત સ્પષ્ટ થઈ ગઈ છે કે પીએમ નરેન્દ્ર મોદી પોતાના વિશ્વાસુઓને ક્યારેય ભૂલતા નથી. બહુ ઓછા લોકો જાણતા હશે કે નીતિનને ભલે તાજેતરના વર્ષોમાં મોટી જવાબદારીઓ સોંપવામાં આવી હોય, પરંતુ મોદી તેમને લગભગ બે દાયકાથી ઓળખે છે. હા, જ્યારે મોદી ગુજરાતના સીએમ હતા ત્યારે પટનાથી નીતિન નબીન તેમને મળવા જતા હતા.",
@@ -16,15 +97,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/tvs-star-city-plus-disc-brake-bikes-features-powertrain-mileage-details-know-before-buying-here-462266 ",
     "time": "2026-01-20T05:08:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "અશ્લીલ વીડિયો વાયરલ થયા બાદ DGP રેન્કના અધિકારી સસ્પેન્ડ, ઓફિસમાં આપત્તિજનક હરકતનો આરોપ",
-    "desc": "કર્ણાટકના વરિષ્ઠ IPS અધિકારી અને નાગરિક અધિકાર પ્રવર્તનના DGP રામચંદ્ર રાવને સોશિયલ મીડિયા પર એક વાંધાજનક વીડિયો વાયરલ થયા બાદ સસ્પેન્ડ કરવામાં આવ્યા છે. જો કે, રાવે આ આરોપોને સંપૂર્ણપણે ખોટા અને વીડિયોને નકલી ગણાવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/karnataka-dgp-viral-video-ips-k-ramchandra-rao-suspended-462256 ",
-    "time": "2026-01-20T04:15:19.000Z"
   },
   {
     "cat": "Business",
@@ -279,15 +351,6 @@ const newsData_gu = [
     "time": "2026-01-18T06:00:44.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ઇન્દોરમાં વરસાદ બગાડશે મેચની મજા ? હવામાન વિભાગે જાહેર કર્યું લેટેસ્ટ અપડેટ",
-    "desc": "ભારત અને ન્યુઝીલેન્ડ વચ્ચે ત્રણ મેચની વનડે શ્રેણીની છેલ્લી મેચ રમાશે. ઇન્દોરમાં કરો યા મરોનો મુકાબલો રમાશે. ત્રણ મેચની વનડે શ્રેણી હાલમાં 1-1થી બરાબર છે. જો ભારત આ વનડે શ્રેણી જીતવા માંગે છે, તો તેણે ઇન્દોરના મેદાન પર કોઈપણ કિંમતે જીતવું પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-vs-new-zealand-3rd-odi-indore-weather-updates-rain-prediction-462056 ",
-    "time": "2026-01-18T05:11:10.000Z"
-  },
-  {
     "cat": "World",
     "title": "‘ભારત સાથે સંબંધ તૂટશે તો US માટે મુસીબત થશે’, ટ્રમ્પના સાંસદે કેમ આપ્યું આવું નિવેદન? પાકનો પણ ઉલ્લેખ",
     "desc": "ભારત અને અમેરિકાના સંબંધો પર અત્યારે આખી દુનિયાની નજર ટકેલી છે. માત્ર ભારતીયો જ નહીં, પરંતુ અમેરિકાના લોકો પણ બંને દેશોને એકબીજા માટે જરૂરી માને છે. આ સંદર્ભમાં અમેરિકી રાષ્ટ્રપતિ ટ્રમ્પની પાર્ટીના નેતા અને કોંગ્રેસના સાંસદે એક મહત્વનું નિવેદન આપ્યું છે, જેમાં તેમણે પાકિસ્તાનનો પણ ઉલ્લેખ કર્યો છે.",
@@ -297,15 +360,6 @@ const newsData_gu = [
     "time": "2026-01-18T05:05:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "કોણ બનશે મુંબઈના મેયર, માયાનગરી પર કોણ રાજ કરશે : મુંબઈમાં સત્તા માટે ખેંચતાણ શરૂ",
-    "desc": "મુંબઈ બીએમસીમાં પહેલીવાર ભાજપનો મેયર બનવા જઈ રહ્યો છે, જે ભગવા દળ માટે સૌથી મોટી ઉપલબ્ધિ માનવામાં આવી રહી છે. ઠાકરે પરિવાર પાસેથી રાજ લઈને હવે ભાજપ મુંબઈ પર રાજ કરશે, પરંતું મેયર માટે પેચ અટક્યો છે",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/who-will-be-mumbai-new-mayor-political-war-started-between-eknath-shinde-and-bjp-462053 ",
-    "time": "2026-01-18T04:30:10.000Z"
-  },
-  {
     "cat": "World",
     "title": "નવા ખતરાએ દુનિયાને ચોંકાવ્યા, માર્ચ-એપ્રિલમાં મોટી આફતની શક્યતા",
     "desc": "બલ્ગેરિયાના અંધ ભવિષ્યવક્તા બાબા વેંગાની વર્ષ 2026 માટેની ભવિષ્યવાણીઓએ દુનિયાભરમાં ફાળ પાડી છે. અગાઉ મોટા દેશો વચ્ચે યુદ્ધની સ્થિતિ સર્જાવાની આગાહીઓ ગયા વર્ષે ડિસેમ્બરમાં જ સામે આવી હતી. આ સાથે જ સોનાના વધતા ભાવને લઈને બાબા વેંગાએ જે કહ્યું હતું, તે પણ અત્યારે સાચું પડતું જણાય છે.",
@@ -313,15 +367,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/baba-vanga-prediction-a-new-threat-in-baba-vangas-predictions-has-caused-shock-possible-in-march-april-462051 ",
     "time": "2026-01-18T03:45:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ભારત અને બાંગ્લાદેશની મેચ બાદ શું છે પોઈન્ટ્સ ટેબલની સ્થિતિ? ગ્રુપ-Cમાં પાકિસ્તાનની સ્થિતિ ખરાબ",
-    "desc": "અંડર-19 વર્લ્ડ કપ 2026ની પોતાની બીજી મેચમાં ભારતે બાંગ્લાદેશને હરાવીને ગ્રુપ-બીના પોઈન્ટ્સ ટેબલમાં ટોચનું સ્થાન જાળવી રાખ્યું છે. બીજી તરફ, શ્રીલંકાએ જાપાનને મોટા અંતરથી હરાવીને ગ્રુપ-એના ટેબલમાં ઓસ્ટ્રેલિયાને પણ પાછળ છોડી દીધું છે. જો પાકિસ્તાનની વાત કરીએ તો ગ્રુપ-સીમાં તેમની હાલત ઘણી ખરાબ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/u19-world-cup-2026-what-does-the-points-table-look-like-after-the-india-vs-bangladesh-match-pakistan-is-in-a-bad-position-in-group-c-462049 ",
-    "time": "2026-01-18T03:01:49.000Z"
   },
   {
     "cat": "Entertainment",

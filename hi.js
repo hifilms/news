@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Nathan Ellis ruled out of BBL knockouts after sustaining injury against Brisbane Heat",
+    "desc": "BBL (Big Bash League) franchise Hobart Hurricanes have been dealt a major blow ahead of the knockout stages of the tournament. Star bowler Nathan Ellis has been ruled out of the knockouts of the competition...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nathan-ellis-ruled-out-of-bbl-knockouts-after-sustaining-injury-against-brisbane-heat-2026-01-20-1026652",
+    "time": "2026-01-20T09:14:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli, Rohit Sharma may earn demotion in BCCI's annual contract: Report",
+    "desc": "Virat Kohli and Rohit Sharma could face a downgrade in the BCCI’s annual central contract list for the 2026–27 season. With both senior batters having retired from T20Is in 2024 and Test cricket in 2025,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-rohit-sharma-may-earn-demotion-in-bcci-s-annual-contract-chief-selector-ajit-agarkar-proposes-changes-report-2026-01-20-1026646",
+    "time": "2026-01-20T08:23:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "R Ashwin gives advice to veteran India all-rounder after latter's subpar form against New Zealand",
+    "desc": "The three-game ODI series between India and New Zealand came to an end with the Black Caps winning the second and third ODIs and clinching the series. There were several performances from the series that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-gives-advice-to-veteran-india-all-rounder-after-latter-s-subpar-form-against-new-zealand-2026-01-20-1026644",
+    "time": "2026-01-20T08:21:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Michael Bracewell doubtful for India T20Is after sustaining calf injury",
+    "desc": "The ODI leg of the ongoing multi-format series between India and New Zealand came to an end. After the three ODIs, the Black Caps could be dealing with a major blow, as all-rounder Michael Bracewell’s...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/michael-bracewell-doubtful-for-india-t20is-after-sustaining-calf-injury-2026-01-20-1026633",
+    "time": "2026-01-20T07:09:39.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "David Miller faces race against time to be fit for T20 World Cup after sustaining injury in SA20 clash",
     "desc": "In what could be a major blow for South Africa, veteran batter David Miller had to leave the field in game 30 of the ongoing SA20 season due to a suspected groin injury. The clash...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/saina-nehwal-confirms-retirement-from-competitive-badminton-says-i-thought-its-enough-cant-push-anymore-2026-01-19-1026566",
     "time": "2026-01-19T18:26:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB women create all-time WPL record, become first team to enter playoffs with win over GG",
-    "desc": "Royal Challengers Bengaluru women have created an all-time record in the Women's Premier League after defeating Gujarat Giants in their fifth match of the tournament. Bengaluru put up a brilliant all-round performance in the first match...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-women-create-all-time-wpl-record-become-first-team-to-enter-playoffs-with-win-over-gg-2026-01-19-1026562",
-    "time": "2026-01-19T17:29:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former Test cricketer becomes fourth Sri Lankan player to complete 1000 First-class wickets",
-    "desc": "Former Test cricketer Malinda Pushpakumara achieved a huge milestone in domestic cricket as he completed 1000 wickets in First-class cricket. Pushpakumara has become just the fourth Sri Lankan and third active player to have reached...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-test-cricketer-becomes-fourth-sri-lankan-player-to-complete-1000-first-class-wickets-2026-01-19-1026558",
-    "time": "2026-01-19T16:55:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill to turn up for Punjab in Ranji Trophy after conclusion of ODI series against New Zealand",
-    "desc": "India ODI and Test captain Shubman Gill has decided against taking a rest following the conclusion of the ODI series against New Zealand. With several Indian players featuring in the T20I series against the Kiwis...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-to-turn-up-for-punjab-in-ranji-trophy-after-conclusion-of-odi-series-against-new-zealand-2026-01-19-1026553",
-    "time": "2026-01-19T15:23:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli shatters Ricky Ponting's world record after breaking Tendulkar's feat in IND vs NZ 3rd ODI",
-    "desc": "India icon Virat Kohli continued his rich vein of form as he smashed a scintillating century in the third ODI against New Zealand at the Holkar Cricket Stadium in Indore. Kohli almost pulled off a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-shatters-ricky-pontings-world-record-after-breaking-tendulkars-feat-in-ind-vs-nz-3rd-odi-2026-01-19-1026546",
-    "time": "2026-01-19T14:00:04.000Z"
   }
 ];
