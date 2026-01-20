@@ -1,6 +1,204 @@
 const newsData_en = [
   {
     "cat": "Sports",
+    "title": "An ideal dress rehearsal for the Men in Blue and Black Caps",
+    "desc": "With barely three weeks to go for the T20 World Cup, both sides will want to dot their i’s and cross their t’s; home skipper Suryakumar confirms Kishan will bat at the crucial No. 3 spot",
+    "img": "https://th-i.thgim.com/public/incoming/b4loj7/article70529834.ece/alternates/LANDSCAPE_1200/08Nets.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-t20i-series-preview/article70529851.ece",
+    "time": "2026-01-20T15:10:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Politics over demolition and clearing drive in Varanasi — what's the controversy",
+    "desc": "A political storm brews over Varanasi's Manikarnika Ghat, with opposition parties accusing the BJP government of damaging ancient heritage during a beautification drive. Claims of destroyed idols and temples have surfaced, while authorities deny wrongdoing, stating the work protects heritage and corrects neglect. FIRs have been filed against those allegedly spreading misinformation.",
+    "img": "https://static.toiimg.com/photo/msid-126808478,imgsize-416864.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/manikarnika-ghat-row-politics-over-demolition-and-clearing-drive-in-varanasi-whats-the-controversy/articleshow/126789982.cms",
+    "time": "2026-01-20T15:05:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AM Group to build $25 billion GW scale AI compute hub in Uttar Pradesh",
+    "desc": "The project, announced at the World Economic Forum 2026 in Davos, involves a total investment of approximately $25 billion. This hub is designed to handle global AI workloads and will be one of the largest investments in India's digital infrastructure to date.",
+    "img": "https://static.toiimg.com/photo/msid-126820560,imgsize-145908.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/am-group-to-build-25-billion-gw-scale-ai-compute-hub-in-uttar-pradesh/articleshow/126820298.cms",
+    "time": "2026-01-20T15:03:14.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "UAE president accepts U.S. invitation to join 'Board of Peace'",
+    "desc": "The oil-rich UAE is a top U.S. ally in the region and one of the few Arab nations with official ties to Israel after signing the Abraham Accords during Donald Trump’s first term in 2020",
+    "img": "https://th-i.thgim.com/public/incoming/en81zp/article70530140.ece/alternates/LANDSCAPE_1200/2025-05-15T182906Z_1632265895_RC2GIEAO16BM_RTRMADP_3_USA-TRUMP-GULF-EMIRATES.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/uae-president-accepts-us-invitation-to-join-board-of-peace/article70530133.ece",
+    "time": "2026-01-20T14:48:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pawan Kalyan's ex-wife Renu Desai slams trolls",
+    "desc": "“I don’t have a father, mother, elder brother or husband to protect me. All the hate I calmly share with Devi and Mahadev.” She vows to fight dog killings despite personal attacks, recalling her fiery showdown and trolls dragging her kids into it.",
+    "img": "https://static.toiimg.com/photo/msid-126816089,imgsize-155732.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/pawan-kalyans-ex-wife-renu-desai-slams-trolls-saying-dont-have-husband-to-protect-me-after-press-meet-clash/articleshow/126816089.cms",
+    "time": "2026-01-20T14:34:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Kareena admitted to having a crush on Akshaye",
+    "desc": "Akshaye Khanna's recent success with 'Dhurandhar' has reignited memories of his past appeal. Kareena Kapoor once confessed to having a significant crush on him as a teenager, even while accompanying her sister Karisma to film sets.",
+    "img": "https://static.toiimg.com/photo/msid-126816206,imgsize-183772.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-kareena-kapoor-admitted-to-having-a-crush-on-akshaye-khanna-as-a-teenager-i-would-literally-blush-from-head-to-toe/articleshow/126815984.cms",
+    "time": "2026-01-20T14:34:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I would like to bat the same way': Surya on his poor form",
+    "desc": "India's T20I captain Suryakumar Yadav is confident for the upcoming series against New Zealand. He plans to stick to his aggressive style of play. Injuries to Tilak Varma and Washington Sundar have created opportunities for other players. Ravi Bishnoi and Shreyas Iyer have been included in the squad. The first T20I is on January 20.",
+    "img": "https://static.toiimg.com/photo/msid-126814034,imgsize-208982.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/i-would-like-to-bat-the-same-way-suryakumar-yadav-on-his-poor-form-ahead-of-1st-t20i-vs-new-zealand/articleshow/126813852.cms",
+    "time": "2026-01-20T14:18:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Not Iyer! India captain reveals Tilak's replacement in playing XI",
+    "desc": "India captain Suryakumar Yadav said Ishan Kishan will bat at No. 3 ahead of Shreyas Iyer in the New Zealand T20 series as he is part of India’s T20 World Cup squad and a like-for-like replacement for injured Tilak Varma. Iyer will be considered at No. 5. Suryakumar stressed flexibility in batting roles and prioritised team success over individual form.",
+    "img": "https://static.toiimg.com/photo/msid-126813048,imgsize-133874.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-not-shreyas-iyer-india-captain-suryakumar-yadav-reveals-tilak-varmas-replacement-in-playing-xi/articleshow/126812210.cms",
+    "time": "2026-01-20T14:12:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre sanctions 50-bed AYUSH hospital for Tenali, says A.P. Minister",
+    "desc": "Nadendla Manohar says the sanction of an AYUSH hospital for Tenali is a matter of pride and keeping future requirements in mind, the possibility of establishing a nursing college on the campus is also being explored",
+    "img": "https://th-i.thgim.com/public/incoming/nus4c0/article70530151.ece/alternates/LANDSCAPE_1200/10745_20_1_2026_19_33_5_1_IMG_20260120_WA0104.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/centre-sanctions-50-bed-ayush-hospital-for-tenali-says-ap-minister/article70529630.ece",
+    "time": "2026-01-20T14:05:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Zakir Khan confirms long term break from comedy",
+    "desc": "Zakir Khan announced a 3-5 year comedy hiatus till 2028-30 for health recovery during his Hyderabad Papa Yaar show, citing a decade of grueling tours. He confirmed via Instagram from Dubai, limiting his India tour to select cities till June 20 before a long break.",
+    "img": "https://static.toiimg.com/photo/msid-126812061,imgsize-157780.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/zakir-khan-confirms-long-term-break-from-comedy-over-health-reasons-final-shows-set-for-june-2026/articleshow/126812061.cms",
+    "time": "2026-01-20T14:03:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Northeast monsoon retreats from Tamil Nadu; weather system to likely bring rain from January 23",
+    "desc": "The NE monsoon withdrew from the State on January 19, 2026. Nippy weather is to persist for two days. The prevailing upper air circulation over the Southeast Bay of Bengal will bring rainfall to the region.",
+    "img": "https://th-i.thgim.com/public/incoming/6j7tw7/article70529793.ece/alternates/LANDSCAPE_1200/10214_16_12_2025_16_38_18_2__SAT65821.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/northeast-monsoon-retreats-from-tamil-nadu-weather-system-to-likely-bring-rain-from-january-23-2026/article70529486.ece",
+    "time": "2026-01-20T13:57:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "David had THIS reaction to Brooklyn's BOMBSHELL post",
+    "desc": "David Beckham remained tight-lipped when questioned about son Brooklyn's recent social media outburst alleging parental control and attempts to sabotage his marriage. Brooklyn's claims, which have fueled years of feud rumors, suggest a deep rift since his 2022 wedding. While some praise his 'truth-telling,' others criticize 'nepobaby tantrums.' The family has yet to publicly respond.",
+    "img": "https://static.toiimg.com/photo/msid-126808775,imgsize-263754.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/david-beckham-had-this-reaction-to-son-brooklyn-beckhams-bombshell-post-watch/articleshow/126804262.cms",
+    "time": "2026-01-20T13:42:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Archana reveals her relationship with Parmeet started as a one night stand",
+    "desc": "Archana Puran Singh and Parmeet Sethi revealed their relationship began as a \"one-night stand\" and a \"fling\" after both had recently ended other relationships. Despite their initial intentions for a casual affair, they quickly became inseparable, proving rebound relationships can last. Their early days were marked by romantic gestures and humorous missteps, including Parmeet accidentally taking his ex-girlfriend's name.",
+    "img": "https://static.toiimg.com/photo/msid-126808489,imgsize-130606.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/archana-puran-singh-and-parmeet-sethis-relationship-started-off-as-a-one-night-stand-we-are-proof-that-rebound-relationships-can-work/articleshow/126807301.cms",
+    "time": "2026-01-20T13:39:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Not Gukesh or Erigaisi! After Carlsen, Indian GM confirmed for Norway Chess",
+    "desc": "Indian GM R Praggnanandhaa has confirmed his third appearance at Norway Chess, becoming the second announced participant after Magnus Carlsen. The 2026 Candidates qualifier and world No. 4 previously won the event in 2022 and defeated Carlsen in 2024. Organisers praised his consistency and ambition, while hopes remain for D Gukesh and Arjun Erigaisi to join the field.",
+    "img": "https://static.toiimg.com/photo/msid-126807473,imgsize-274136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/not-d-gukesh-or-arjun-erigaisi-after-magnus-carlsen-indian-grandmaster-confirmed-for-norway-chess-2026/articleshow/126802444.cms",
+    "time": "2026-01-20T13:34:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Any higher education regulator must oversee Article 15(5) implementation, says Congress",
+    "desc": "Referring to the Viksit Bharat Shiksha Adhishthan Bill, 2025, which seeks to establish a single regulator for higher education and was introduced in the Lok Sabha on December 15, 2025, Jairam Ramesh said such a body must have a clear mandate to ensure the implementation of Article 15(5).",
+    "img": "https://th-i.thgim.com/public/incoming/4j566b/article70529466.ece/alternates/LANDSCAPE_1200/TH08-PTI-India-GE9FDP50F.6.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/any-higher-education-regulator-must-oversee-article-155-implementation-says-congress/article70529251.ece",
+    "time": "2026-01-20T13:34:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil Nadu govt. urges Centre to withdraw VB-G RAM-G and enhance funds for MGNREGS",
+    "desc": "It says the discontinuation of MGNREGS not only hinders development in rural areas but also aggravates the financial strain on the State. Owing to VB-G RAM-G, the financial burden on Tamil Nadu will further increase by approximately ₹5,000 crore a year, according to the Governor’s address to the Assembly",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-govt-urges-centre-to-withdraw-vb-g-ram-g-and-enhance-funds-for-mgnregs/article70528858.ece",
+    "time": "2026-01-20T13:28:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Ball daal apna chup chap aur peeche ja': Rohit Sharma to Kuldeep Yadav",
+    "desc": "Former captain Rohit Sharma offered advice to spinner Kuldeep Yadav for the upcoming T20 World Cup. Sharma suggested Yadav focus on his bowling and refrain from frequent appeals. This comes as the team considers selection between Yadav and Varun Chakaravarthy. Yadav is part of India's squad for the T20 World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-126805837,imgsize-332688.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ball-daal-apna-chup-chap-aur-peeche-ja-rohit-sharmas-blunt-advice-to-kuldeep-yadav-ahead-of-t20-world-cup/articleshow/126805636.cms",
+    "time": "2026-01-20T13:20:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Marriage isn’t the End of the road’: Manju Warrier",
+    "desc": "In her role as ambassador for the Kerala Women's Commission, Manju Warrier delivered a stirring message to women, urging them to follow their passions and dreams. She reminded her audience that tying the knot isn't the end of their journey.",
+    "img": "https://static.toiimg.com/photo/msid-126803045,imgsize-252784.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/manju-warrier-sends-across-powerful-message-at-kerala-womens-commission-campaign-marriage-isnt-the-end-of-the-road/articleshow/126803045.cms",
+    "time": "2026-01-20T13:04:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Deepika Padukone reveals Dua's custom Santa gift box",
+    "desc": "Deepika and Ranveer keep baby Dua private since revealing her face in 2025. Deepika shared a cute Santa box for Dua on Instagram. Grandmother Anju showed Dua's name in mehendi and donated hair for her 3-month birthday. Deepika next stars with SRK in 'King' and Allu Arjun in Atlee's film.",
+    "img": "https://static.toiimg.com/photo/msid-126802509,imgsize-283502.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-reveals-duas-custom-santa-gift-box-shares-rare-photo/articleshow/126802509.cms",
+    "time": "2026-01-20T12:47:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tovino Thomas' 'Pallichattambi' gets a release date",
+    "desc": "Mark your calendars for summer as Tovino Thomas embarks on an exhilarating journey in 'Pallichattambi,' hitting screens this summer! Under the direction of Dijo Jose Antony, viewers can expect a captivating glimpse into the 1950s-60s era, alongside Thomas’s dynamic transformation. With a star-laden lineup and a diverse language presentation, the anticipation for this cinematic delight is skyrocketing!",
+    "img": "https://static.toiimg.com/photo/msid-126801957,imgsize-422512.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/pallichattambi-tovino-thomas-shares-intense-motion-poster-confirms-summer-release-date/articleshow/126801957.cms",
+    "time": "2026-01-20T12:45:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "GRAP IV restrictions revoked; decision after slight improvement",
+    "desc": "Delhi-NCR's air quality has seen improvement, leading the Commission for Air Quality Management to revoke GRAP-IV restrictions just three days after their re-imposition. While the 'severe+' category triggered the ban, stages I, II, and III of GRAP remain active. This move offers some relief from the stringent pollution control measures.",
+    "img": "https://static.toiimg.com/photo/msid-126800783,imgsize-510340.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/delhi-air-pollution-grap-iv-restrictions-revoked-decision-after-slight-improvement/articleshow/126800453.cms",
+    "time": "2026-01-20T12:33:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka's brother Siddharth impresses Vikas with one of the best meals",
+    "desc": "Dr. Madhu Chopra hosted Chef Vikas Khanna for a lunch cooked by Priyanka's brother Siddharth, who wowed him with nostalgic dishes like Gajjar Halwa, Daal Bukhara, and Makki Roti. Vikas raved on Instagram about the heartfelt meal. Madhu thanked him warmly. Vikas judges MasterChef India Season 9.",
+    "img": "https://static.toiimg.com/photo/msid-126800547,imgsize-216946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopras-brother-siddharth-chopra-impresses-vikas-khanna-with-one-of-the-best-meals-the-chef-pens-a-note/articleshow/126800547.cms",
+    "time": "2026-01-20T12:29:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "KL to play for Karnataka; NKR confirms availability for Andhra",
     "desc": "KL Rahul will return to Ranji Trophy action for Karnataka against Punjab from January 29, while Nitish Kumar Reddy has confirmed availability for Andhra Pradesh’s remaining group games. Shubman Gill and Ravindra Jadeja are also set for domestic outings. Meanwhile, Rishabh Pant is likely to miss the second leg of the tournament due to injury and he may head to the CoE in coming days.",
     "img": "https://static.toiimg.com/photo/msid-126800060,imgsize-310494.cms",
@@ -10,7 +208,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "West Bengal districts erupt in protest; demonstrators allege 'harassment,' forces deployed",
+    "title": "SIR 'harassment': West Bengal districts erupt in protest; forces deployed",
     "desc": "Protests erupted in West Bengal districts over alleged harassment during electoral roll revision, with roads blocked and tyres set ablaze. The Supreme Court stressed transparency in the process, while demonstrators claim genuine voters are being unfairly targeted with \"logical discrepancies\" notices. Authorities have increased force deployment in affected areas.",
     "img": "https://static.toiimg.com/photo/msid-126799496,imgsize-445044.cms",
     "src": "indiatimes.com",
@@ -34,6 +232,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/fashion-statement-at-australian-open-naomi-osaka-enters-court-in-veil-hat-and-parasol-watch/articleshow/126795923.cms",
     "time": "2026-01-20T12:11:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "China criticises US tariffs at World Economic Forum; promises wider opening of economy",
+    "desc": "China used its platform at the World Economic Forum in Davos to warn that trade and tariff wars help no one and risk deepening global economic tensions. Vice-Premier He Lifeng called for cooperation over isolation, saying China would open its economy further and focus on boosting domestic demand, even as global trade disputes escalate under US President Donald Trump’s expanded tariff policies.",
+    "img": "https://static.toiimg.com/photo/msid-126802253,imgsize-246154.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/no-winners-china-criticises-us-tariffs-at-world-economic-forum-promises-wider-opening-of-economy/articleshow/126797531.cms",
+    "time": "2026-01-20T12:03:05.000Z"
   },
   {
     "cat": "Entertainment",
@@ -199,51 +406,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "What Pooja Hegde learned from working with the biggest stars",
-    "desc": "Pooja Hegde credits early South Indian film success and working with top stars for her adaptability in the pan-India film industry. She learned discipline, professionalism, and audience appeal from seasoned actors, while also seeking depth in character-driven roles. Hegde navigates stardom's pressures with resilience, balancing commercial appeal and acting talent.",
-    "img": "https://static.toiimg.com/photo/msid-126786765,imgsize-167412.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/what-pooja-hegde-learned-from-working-with-the-biggest-stars-in-indian-cinema/articleshow/126690010.cms",
-    "time": "2026-01-20T10:31:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC to examine Karnataka HC’s decision to quash KCOCA against BJP MLA in murder case",
-    "desc": "KCOCA can be invoked provided the offence has a minimum punishment of three years, a condition that the HC had cited while giving relief to the BJP leader; to this the SC asked, “what would happen to Section 307 of the IPC” which does not specify a minimum punishment against murder",
-    "img": "https://th-i.thgim.com/public/incoming/67j2w5/article70528920.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%203.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/sc-to-examine-karnataka-hcs-decision-to-quash-kcoca-against-bjp-mla-in-murder-case/article70528695.ece",
-    "time": "2026-01-20T10:31:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chris Pratt requested to be strapped in chair for 'Mercy'",
-    "desc": "Chris Pratt has taken method acting to new heights for his role in 'Mercy,' a gripping futuristic thriller where he plays a detective put on trial by an AI for his wife's murder. In preparation, he insisted on being physically restrained in an execution-style chair, a move designed to authentically reflect his character's overwhelming feelings of entrapment and despair.",
-    "img": "https://static.toiimg.com/photo/msid-126785718,imgsize-31926.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/chris-pratt-reveals-why-he-requested-to-be-physically-strapped-down-in-executioners-chair-for-mercy-i-couldnt-scratch-my-face/articleshow/126785718.cms",
-    "time": "2026-01-20T10:24:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bhavana says audiences are more open-minded",
-    "desc": "Actor Bhavana Menon views the controversial intimate scenes in Yash's 'Toxic' teaser as mere cinema, reflecting a changing audience mindset. While promoting her film 'Anomie', she stated that good films will be accepted. The teaser faced criticism and complaints for alleged objectification and violation of public decency.",
-    "img": "https://static.toiimg.com/photo/msid-126783231,imgsize-37004.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/bhavana-menon-comments-on-intimate-scene-in-geetu-mohandas-helmed-toxic-teaser-starring-yash-i-see-all-this-as-a-cinema/articleshow/126783231.cms",
-    "time": "2026-01-20T10:17:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ellie Goulding shares rare glimpse with Beau Minniear at Louvre",
-    "desc": "In an enchanting moment shared with her fans, singer Ellie Goulding gave a glimpse into her personal world by posting an adorable video from her Louvre visit with partner Beau Minniear. Just weeks after revealing their exciting news of expecting a second child, Goulding playfully remarked on how Minniear stole her attention from the artworks, highlighting their loving connection.",
-    "img": "https://static.toiimg.com/photo/msid-126784249,imgsize-29436.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/ellie-goulding-jokes-she-got-distracted-by-beau-minniear-during-their-sweet-paris-date-at-the-louvre-amid-pregnancy-news/articleshow/126784249.cms",
-    "time": "2026-01-20T10:14:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Bollywood pins January hope on Sunny Deol’s Border 2",
     "desc": "Bollywood's 'January jinx' persists with lukewarm box office performances, contrasting sharply with Telugu cinema's early successes. All eyes are now on Sunny Deol's 'Border 2', releasing this Republic Day weekend. The film aims to break the trend, leveraging its star power, franchise legacy, and a strong director to potentially reclaim the month for Hindi cinema.",
     "img": "https://static.toiimg.com/photo/msid-126784335,imgsize-88696.cms",
@@ -259,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/world/middle-east/omans-new-auto-insurance-rules-insurers-to-pay-drivers-for-delayed-car-repairs/articleshow/126782571.cms",
     "time": "2026-01-20T10:11:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Probably the scariest thing that ever happened to me’",
-    "desc": "In a candid throwback, Jodie Foster reminisced about a frightful incident while shooting 'Napoleon and Samantha'. She vividly described a moment when a lion aggressively shook her, causing painful puncture marks on her skin. Surprisingly, this dramatic encounter went undocumented as filming had stopped at that moment.",
-    "img": "https://static.toiimg.com/photo/msid-126783836,imgsize-32754.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/probably-the-scariest-thing-that-ever-happened-to-me-jodie-foster-recalls-how-a-lion-almost-mauled-her/articleshow/126783836.cms",
-    "time": "2026-01-20T10:09:58.000Z"
   },
   {
     "cat": "Business",
@@ -288,24 +441,6 @@ const newsData_en = [
     "time": "2026-01-20T10:04:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Police files case against speeding driver in Akshay security crash",
-    "desc": "Juhu Police nabbed speeding Mercedes driver Radheshyam Rai after he rear-ended an auto-rickshaw, flipping it into Akshay Kumar's security car on Monday night. Two injured, including the auto driver in serious condition. Videos show rescue chaos. Driver's brother seeks medical aid and compensation. Akshay silent.",
-    "img": "https://static.toiimg.com/photo/msid-126782831,imgsize-26816.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mumbai-police-files-case-against-speeding-driver-in-akshay-kumar-security-crash/articleshow/126782831.cms",
-    "time": "2026-01-20T09:58:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranya' stepfather, Ramachandra Rao accused in obscene video scandal",
-    "desc": "Kannada actress Ranya Rao's gold smuggling arrest last year has resurfaced with a new controversy involving her stepfather, DGP Ramachandra Rao. A viral video allegedly shows the IPS officer in intimate situations within his official office, leading to his suspension and an ongoing inquiry.",
-    "img": "https://static.toiimg.com/photo/msid-126782503,imgsize-32746.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/actress-ranya-raos-stepfather-dgp-rank-ips-officer-ramachandra-rao-accused-in-obscene-video-scandal-reports/articleshow/126782524.cms",
-    "time": "2026-01-20T09:57:07.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Industry seeks GST-style simplification in customs duty; urges speeding up and simplification of clearences",
     "desc": "Indian businesses anticipate a GST-like overhaul of customs duties in Budget 2026, seeking rationalized rates, fewer slabs, and a single-window clearance system. Key demands include streamlined AEO certification and a formal charter for DRI investigations, aiming to resolve Rs 1.52 lakh crore stuck in customs disputes.",
@@ -322,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/crowd-chants-gautam-gambhir-haye-haye-virat-kohli-reacts-watch/articleshow/126781925.cms",
     "time": "2026-01-20T09:51:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "What Brooklyn revealed about Victoria Beckham’s ‘inappropriate’ dance",
-    "desc": "Brooklyn Peltz Beckham has openly addressed the swirling family controversy, recounting an awkward incident during his wedding when his mother, Victoria, seemingly usurped his first dance with wife Nicola. Furthermore, he shares concerns about his parents' attempts to drive a wedge between them, even suggesting they encouraged him to withdraw from the relationship entirely.",
-    "img": "https://static.toiimg.com/photo/msid-126780661,imgsize-40580.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brooklyn-peltz-beckham-calls-out-victoria-beckhams-very-inappropriate-dance-at-his-wedding-with-nicola-peltz-beckham/articleshow/126780585.cms",
-    "time": "2026-01-20T09:38:03.000Z"
   },
   {
     "cat": "Politics",
@@ -369,24 +495,6 @@ const newsData_en = [
     "time": "2026-01-20T09:14:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Akhilesh links rising gold, silver prices to BJP's ‘new economic concept of corruption’",
-    "desc": "Akhilesh Yadav alleged the surge in the prices of precious metals had serious social consequences, leading to a rise in incidents of theft, burglary, robbery, and snatching in homes, neighbourhoods, shops and markets, and requiring additional security forces",
-    "img": "https://th-i.thgim.com/public/incoming/wrfqhh/article70528617.ece/alternates/LANDSCAPE_1200/20260110155L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/akhilesh-links-rising-gold-silver-prices-to-bjps-new-economic-concept-of-corruption/article70528575.ece",
-    "time": "2026-01-20T09:11:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Starfleet Academy: William Shatner jokes about new series; open to returning",
-    "desc": "In a lighthearted jab at the new Star Trek series 'Starfleet Academy,' iconic actor William Shatner, who famously portrayed Captain Kirk, took to social media to share his thoughts. He humorously questioned why intergalactic medical advancements hadn't solved the issue of hyperopia by the 32nd century, suggesting the budget could be better spent on essentials like eyewear.",
-    "img": "https://static.toiimg.com/photo/msid-126769980,imgsize-17488.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/william-shatner-says-hes-ready-to-assume-command-addresses-criticism-around-star-trek-starfleet-academy/articleshow/126769980.cms",
-    "time": "2026-01-20T09:10:33.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Dhurandhar' box office day 47 (LIVE)",
     "desc": "Aditya Dhar's 'Dhurandhar' continues its record-breaking box office run, entering its seventh week with a strong performance. The film has achieved an extraordinary milestone in Mysore, nearing Rs 70 crore nett, a feat comparable only to 'Sholay' among Hindi films. Despite a slight dip on its seventh Monday, 'Dhurandhar' has amassed Rs 826.94 crore, demonstrating remarkable consistency.",
@@ -396,15 +504,6 @@ const newsData_en = [
     "time": "2026-01-20T08:55:58.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Gael Monfils bows out in epic farewell at Australian Open after 20th campaign",
-    "desc": "French tennis showman Gael Monfils concluded his illustrious career at the Australian Open, bowing out in a thrilling first-round match. Despite a valiant effort against a younger opponent, the 39-year-old's signature flair and resilience captivated fans until the very end. Monfils, a crowd favorite for nearly two decades, received a standing ovation for his unforgettable contributions to the sport.",
-    "img": "https://static.toiimg.com/photo/msid-126776830,imgsize-119772.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/gael-monfils-bows-out-in-epic-farewell-at-australian-open-after-20th-campaign/articleshow/126776904.cms",
-    "time": "2026-01-20T08:55:02.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Salesforce targets last-mile challenge in enterprise AI adoption",
     "desc": "Salesforce is enhancing its AI approach for businesses. Companies are finding it hard to use generative AI reliably. Salesforce is combining flexible AI with strict rules. This ensures systems work perfectly for critical tasks. The focus is shifting to real business results. 2026 is seen as a key year for enterprise AI adoption. The goal is to deliver consistent value.",
@@ -412,78 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/salesforce-targets-last-mile-challenge-in-enterprise-ai-adoption/articleshow/126775831.cms",
     "time": "2026-01-20T08:44:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Tushar Ahluwalia raises $12 million for AI venture out of stealth",
-    "desc": "Tushar Ahluwalia's new AI startup, GeneralMind, has secured $12 million in early-stage funding just months after launching. The company offers an autonomous workflow automation platform for enterprises, integrating with legacy ERP systems to automate repetitive operational tasks. Several major listed enterprises are already utilizing GeneralMind's technology.",
-    "img": "https://static.toiimg.com/photo/msid-126775319,imgsize-51100.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/tushar-ahluwalia-raises-12-million-for-ai-venture-out-of-stealth/articleshow/126775220.cms",
-    "time": "2026-01-20T08:36:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Mobile companies seek 'protection' from restrictions imposed by China; why it’s important",
-    "desc": "Indian mobile companies, citing China's export curbs, are urging the government to slash import duties on components like PCBs and wearables. They seek reduced tariffs on capital goods and machinery for mobile and battery manufacturing to lower production costs and boost domestic capacity. This move aims to enhance India's self-reliance and export competitiveness.",
-    "img": "https://static.toiimg.com/photo/msid-126774595,imgsize-124988.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-mobile-companies-seek-protection-from-restrictions-imposed-by-china-why-its-important/articleshow/126774462.cms",
-    "time": "2026-01-20T08:28:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "HRV Pharma, Haleos Labs partner to develop, manufacture orphan and niche APIs",
-    "desc": "HRV Pharma and Haleos Labs have joined forces in a multi-year strategic partnership to fast-track the development and manufacturing of specialized active pharmaceutical ingredients (APIs) for rare diseases and niche therapies. This collaboration leverages HRV's global market access and Haleos' manufacturing expertise to introduce 5-7 new high-value molecules annually, targeting underserved patient populations worldwide.",
-    "img": "https://static.toiimg.com/photo/msid-126774353,imgsize-146153.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/hrv-pharma-haleos-labs-partner-to-develop-manufacture-orphan-and-niche-apis/articleshow/126774180.cms",
-    "time": "2026-01-20T08:25:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "T.N. Assembly: Total breakdown of law and order under DMK’s rule, alleges Palaniswami",
-    "desc": "On Governor’s walkout, the AIADMK leader said, “During the Governor’s address, only his speech should go on record. However, the Chief Minister also made his own remarks in it. This is a violation of established convention.”",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/kpswq8/article70528186.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-01-20%20at%2010.14.18%20AM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-assembly-total-breakdown-of-law-and-order-under-dmks-rule-alleges-palaniswami/article70528353.ece",
-    "time": "2026-01-20T07:59:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Trump’s Greenland push: US President would 100% tariff EU nations; ‘no comment’ on seizing by force",
-    "desc": "President Trump threatened to impose tariffs on European nations if a deal for Greenland isn't reached, stating he would \"100%\" proceed. He also linked his stance to the Nobel Peace Prize decision, claiming Denmark cannot protect Greenland. Greenland's Prime Minister asserted the territory's right to self-determination.",
-    "img": "https://static.toiimg.com/photo/msid-126772043,imgsize-81600.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/trumps-greenland-push-us-president-would-100-tariff-eu-nations-no-comment-on-seizing-by-force/articleshow/126769882.cms",
-    "time": "2026-01-20T07:58:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Even if marriage never legally existed, maintenance can still follow: Supreme Court",
-    "desc": "The Supreme Court has ruled that a spouse in a void marriage is eligible to seek permanent alimony and interim maintenance under Sections 25 and 24 of the Hindu Marriage Act, even if the marriage is declared null under Section 11.",
-    "img": "https://static.toiimg.com/photo/msid-126771418,imgsize-43530.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/legal/news/even-if-marriage-never-legally-existed-maintenance-can-still-follow-supreme-court/articleshow/126769572.cms",
-    "time": "2026-01-20T07:50:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "full schedule, squads, timings and live streaming info",
-    "desc": "Team India faces New Zealand in a crucial five-match T20I series, serving as the final World Cup preparation. All eyes are on captain Suryakumar Yadav, whose leadership success contrasts with recent batting concerns. This home series is a vital dress rehearsal for the defending champions, with Suryakumar's form a key subplot.",
-    "img": "https://static.toiimg.com/photo/msid-126770991,imgsize-75770.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-vs-new-zealand-t20is-ind-vs-nz-full-schedule-squads-timings-and-live-streaming-info/articleshow/126770954.cms",
-    "time": "2026-01-20T07:45:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Luxury housing soars, affordable homes lag; industry pushes for tax relief, rental income support",
-    "desc": "Real estate leaders are urging the Union Budget 2026 to revive affordable and rental housing, citing an uneven growth skewed towards luxury developments. They recommend policy changes like tax holidays, updated affordable housing definitions, and incentives for rental projects to foster broad-based sector growth and boost consumption.",
-    "img": "https://static.toiimg.com/photo/msid-126770688,imgsize-772739.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-for-real-estate-luxury-housing-soars-affordable-homes-lag-industry-pushes-for-tax-relief-rental-income-support/articleshow/126770611.cms",
-    "time": "2026-01-20T07:42:00.000Z"
   },
   {
     "cat": "Politics",
@@ -505,48 +532,12 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Too risky? Why India should not join Trump’s $1 billion ‘Board of Peace’; GTRI flags key issues",
-    "desc": "India faces a strategic dilemma as the US invites it to join the Gaza Peace Board, a US-led initiative for post-war reconstruction. A GTRI report urges caution, citing concerns over political imbalance, bypassing UN norms, and potential commercial interests overshadowing Palestinian rights. The report highlights risks to India's credibility.",
-    "img": "https://static.toiimg.com/photo/msid-126769433,imgsize-673944.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/too-risky-why-india-should-not-join-trumps-1-billion-board-of-peace-gtri-flags-key-issues/articleshow/126764405.cms",
-    "time": "2026-01-20T07:05:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Army raises objection with Bengal Governor over Mamata’s remarks on Fort William officer",
-    "desc": "According to a senior official at the Lok Bhavan, two Army generals from Fort William, the command headquarters, met Governor Bose last week and submitted a communication, which reportedly objected to Bengal CM Mamata Banerjee’s claims",
-    "img": "https://th-i.thgim.com/public/incoming/w2etcx/article70528292.ece/alternates/LANDSCAPE_1200/TH13-Shiv-SahayG31FEEU85.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/army-raises-objection-with-bengal-governor-over-mamatas-remarks-on-fort-william-officer/article70528238.ece",
-    "time": "2026-01-20T06:47:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Roads kill, bridges kill, fires kill’: Rahul Gandhi reacts to Noida techie death; levels ‘TINA’ charge at govt",
-    "desc": "Rahul Gandhi's 'TINA' jibe, meaning 'There Is No Accountability,' targeted the government following a techie's tragic death in a Greater Noida pit. The 27-year-old engineer's family claims repeated warnings about the accident-prone site were ignored. Authorities have filed an FIR against developers and formed an SIT to investigate the incident and rescue delays.",
-    "img": "https://static.toiimg.com/photo/msid-126764819,imgsize-351062.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/roads-kill-bridges-kill-fires-kill-rahul-gandhi-reacts-to-noida-techie-death-levels-tina-charge-at-govt/articleshow/126764645.cms",
-    "time": "2026-01-20T06:44:59.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "EU leaders take stage in Davos as Donald Trump rocks global order",
     "desc": "Trump is set to dominate the week at the Swiss ski resort, with a U.S. delegation already on the ground to promote an American agenda that has unsettled the global order cherished by the WEF",
     "img": "https://th-i.thgim.com/public/incoming/1qnwn7/article70528305.ece/alternates/LANDSCAPE_1200/2026-01-19T123451Z_141988878_RC2C4JASKB03_RTRMADP_3_DAVOS-MEETING.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/wef-2026-eu-leaders-take-stage-in-davos-as-donald-trump-rocks-global-order/article70528294.ece",
     "time": "2026-01-20T06:44:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nitin Nabin becomes BJP's youngest chief — 10 things to know",
-    "desc": "Bharatiya Janata Party (BJP) leader Nitin Nabin on Tuesday assumed charge as the party's new national president, marking a key transition in the ruling party's organisational leadership. The swearing-in ceremony was attended by Prime Minister Narendra Modi along with several senior party leaders. BJP chief ministers, national office-bearers, state unit presidents and members of the party’s national executive were also present at the event held in the national capital.",
-    "img": "https://static.toiimg.com/photo/msid-126763338,imgsize-1731566.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-party-worker-to-president-nitin-nabin-takes-charge-as-youngest-bjp-chief-10-things-to-know/articleshow/126757934.cms",
-    "time": "2026-01-20T06:16:03.000Z"
   },
   {
     "cat": "Sports",
@@ -567,49 +558,22 @@ const newsData_en = [
     "time": "2026-01-20T06:13:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Punjab government approves modernisation of bus terminals in five districts",
-    "desc": "Punjab is set to modernize its major bus terminals in Ludhiana, Jalandhar, Sangrur, Patiala, and Bathinda through a Public Private Partnership. This initiative aims to significantly enhance passenger facilities, safety, and overall efficiency at these vital transport hubs. The upgrades will focus on improved waiting areas, sanitation, accessibility, and integrated commercial spaces, ensuring better connectivity for millions daily.",
-    "img": "https://static.toiimg.com/photo/msid-126762565,imgsize-201214.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/punjab-government-approves-modernisation-of-bus-terminals-in-five-districts/articleshow/126762346.cms",
-    "time": "2026-01-20T06:03:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tobacco puts 1 in 10 at oral cancer risk among Nicobarese in India",
-    "desc": "A study on Car Nicobar Island revealed that nearly 10% of Nicobarese adults have oral lesions potentially leading to cancer, primarily linked to high smokeless tobacco and alcohol consumption. Researchers found these concerning rates concentrated within this specific community, highlighting urgent needs for targeted screening and cessation programs.",
-    "img": "https://static.toiimg.com/photo/msid-126762120,imgsize-179350.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tobacco-puts-1-in-10-at-oral-cancer-risk-among-nicobarese-in-india/articleshow/126761800.cms",
-    "time": "2026-01-20T06:01:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ICMR steps in as cases rise across India",
-    "desc": "The Indian Council of Medical Research is fast-tracking an experimental RNA-based antiviral therapy for Chikungunya, inviting Indian companies to develop and manufacture it. Developed by ICMR's National Institute of Virology, the therapy showed complete viral suppression in pre-clinical studies by targeting essential viral genes.",
-    "img": "https://static.toiimg.com/photo/msid-126761285,imgsize-127283.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/hope-against-chikungunya-icmr-steps-in-as-cases-rise-across-india/articleshow/126761072.cms",
-    "time": "2026-01-20T05:51:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Greater Noida Authority orders road safety overhaul after techie's death",
-    "desc": "Greater Noida Industrial Development Authority Chief Executive Officer N.G. Ravi Kumar directed officials to identify and promptly fill all potholes on or near roads and to mark accident-prone “black spots” without delay, according to an official statement issued on January 19, 2026",
-    "img": "https://th-i.thgim.com/public/incoming/aif4rj/article70528173.ece/alternates/LANDSCAPE_1200/20260119092L.jpg",
+    "cat": "World",
+    "title": "Trump believes Greenland is essential for golden dome shield, says U.S. Treasury Secretary ​Scott Bessent",
+    "desc": "Addressing the European ‍Parliament, European Union's foreign ​policy chief Kaja ‌Kallas, said, the ⁠tariffs threatened by U.S. President Donald ​Trump ⁠on goods from European countries would undermine the ‌prosperity of ‌both the EU and ‍the U.S.",
+    "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/greater-noida-authority-orders-road-safety-overhaul-after-techies-death/article70528164.ece",
-    "time": "2026-01-20T05:48:17.000Z"
+    "url": "https://www.thehindu.com/news/international/greenland-takeover-donald-trump-european-union-tariffs-live-updates-january-20-2026/article70528152.ece",
+    "time": "2026-01-20T05:57:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Alcohol, sugary drinks stay cheap in India as WHO flags weak taxes in South-East Asia",
-    "desc": "The WHO warns that alcohol and sugar-sweetened beverages are becoming more affordable in India due to weak tax designs, failing to curb consumption despite strong health links. This public-health failure is leading to rising rates of liver disease, diabetes, and other chronic illnesses, particularly among younger populations.",
-    "img": "https://static.toiimg.com/photo/msid-126759590,imgsize-25230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/alcohol-sugary-drinks-stay-cheap-in-india-as-who-flags-weak-taxes-in-south-east-asia/articleshow/126758935.cms",
-    "time": "2026-01-20T05:28:51.000Z"
+    "cat": "Business",
+    "title": "Maharashtra signs investment MoUs worth ₹14.5 lakh crore on first day at Davos",
+    "desc": "Congress question the reason behind going abroad to ink deals with Indian companies; the State said these MoUs are across sectors and underscore strong global confidence in Maharashtra’s consumer markets, infrastructure readiness, and long-term growth fundamentals",
+    "img": "https://th-i.thgim.com/public/incoming/hhaf08/article70528142.ece/alternates/LANDSCAPE_1200/PTI01_20_2026_000038B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/wef-2026-maharashtra-signs-investment-mous-worth-145-lakh-crore-on-first-day-at-davos/article70528137.ece",
+    "time": "2026-01-20T05:29:10.000Z"
   },
   {
     "cat": "World",
@@ -621,33 +585,6 @@ const newsData_en = [
     "time": "2026-01-20T05:12:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Governor R N Ravi walks out; alleges 'national anthem insulted'",
-    "desc": "Tamil Nadu Governor RN Ravi staged a walkout from the state assembly, citing disrespect for the National Anthem and his microphone being switched off. Raj Bhavan alleged the speech ignored critical issues like Dalit atrocities. This marks a repeat of a similar incident last year, intensifying political tensions ahead of upcoming elections.",
-    "img": "https://static.toiimg.com/photo/msid-126757323,imgsize-821613.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/national-anthem-again-insulted-tamil-nadu-governor-r-n-ravi-walks-out-of-assembly-skips-customary-address/articleshow/126757117.cms",
-    "time": "2026-01-20T05:00:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CM Gupta",
-    "desc": "Delhi residents will soon dial a single emergency number, 112, to access police, fire, ambulance, and disaster management services simultaneously. This unified system, ERSS 2.0, will also allow alerts via a mobile app, emergency button, SMS, and online platforms, automatically detecting caller locations for faster response.",
-    "img": "https://static.toiimg.com/photo/msid-126757489,imgsize-44778.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-to-launch-unified-emergency-helpline-112-for-faster-response-cm-gupta/articleshow/126757258.cms",
-    "time": "2026-01-20T04:59:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What next for Jadeja, Rohit? Veteran stars had a poor ODI outing vs NZ",
-    "desc": "India's ODI home series loss to New Zealand has put veteran players Ravindra Jadeja and Rohit Sharma under scrutiny. Jadeja's wicketless streak and batting struggles raise concerns, while Rohit's future in the 2027 World Cup is debated despite recent good form, impacting younger talent like Yashasvi Jaiswal.",
-    "img": "https://static.toiimg.com/photo/msid-126756418,imgsize-91662.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/what-next-for-ravindra-jadeja-rohit-sharma-veteran-stars-had-a-poor-odi-outing-vs-new-zealand/articleshow/126755693.cms",
-    "time": "2026-01-20T04:47:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How poor fielding, middle-overs failures triggered India's series loss",
     "desc": "India's recent series losses, particularly against an inexperienced New Zealand, have intensified scrutiny on head coach Gautam Gambhir. Despite a Champions Trophy win, the team has faltered in Test and ODI formats, raising questions ahead of the T20 World Cup. Gambhir's tenure has seen mixed results, with some strategic decisions proving beneficial.",
@@ -655,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/too-many-loopholes-to-fix-how-poor-fielding-and-middle-overs-failures-triggered-indias-first-odi-series-loss-to-new-zealand/articleshow/126753409.cms",
     "time": "2026-01-20T04:11:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Andy Flower",
-    "desc": "Andy Flower, a decorated coach, discusses his new role with London Spirit in The Hundred, expressing excitement for the challenge. He highlights the importance of preparation for the upcoming auction and reflects on The Hundred's impact on English cricket, noting its success in attracting new demographics and its potential for growth.",
-    "img": "https://static.toiimg.com/photo/msid-126752240,imgsize-31034.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/coaching-all-three-formats-is-a-tough-task-andy-flower/articleshow/126751898.cms",
-    "time": "2026-01-20T03:53:50.000Z"
   },
   {
     "cat": "Business",
@@ -675,24 +603,6 @@ const newsData_en = [
     "time": "2026-01-20T03:48:24.000Z"
   },
   {
-    "cat": "Business",
-    "title": "EU nears historic trade deal with India, says president Ursula von der Leyen",
-    "desc": "From India, at least four Union Ministers— Ashwini Vaishnaw, Shivraj Singh Chouhan, Pralhad Joshi, and K Rammohan Naidu — as well as six Chief Ministers are expected to be there, along with over 100 top CEOs from the country",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/world-economic-forum-2026-in-davos-live-updates-on-january-20/article70527889.ece",
-    "time": "2026-01-20T03:43:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Tough questions will be asked’: Rahane reveals reasons behind India's ODI woes",
-    "desc": "Ajinkya Rahane criticises excessive team changes and lack of clarity under Gautam Gambhir, citing India's recent ODI series losses. He stresses the need for player security and honest conversations as the team prepares for the 2027 World Cup. Rahane believes a scheduling break offers a chance for management to reset and back the right combination.",
-    "img": "https://static.toiimg.com/photo/msid-126749796,imgsize-48638.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/tough-questions-will-be-asked-ajinkya-rahane-reveals-the-reasons-behind-indias-odi-woes-under-gautam-gambhir/articleshow/126749494.cms",
-    "time": "2026-01-20T03:22:09.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Why SIR verification needs to be completely digitised",
     "desc": "SIR 2.0, aimed at updating electoral rolls, has caused confusion and distress among voters. Despite the ECINet’s ability to handle data entry, verification, cross-checks, and audit trails, the process has relied heavily on paper-based forms, summons, and hearings",
@@ -700,24 +610,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/why-sir-verification-needs-to-be-completely-digitised/article70525723.ece",
     "time": "2026-01-20T03:00:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nitin Nabin sole candidate in fray for BJP president’s post, all set to take over today",
-    "desc": "Nitin Nabin is set to become the BJP's national president, emerging as the sole candidate with widespread backing from top party leaders, including PM Modi. This marks a historic moment as the party's president has always been a consensus choice.",
-    "img": "https://static.toiimg.com/photo/msid-126734115,imgsize-1371273.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nitin-nabin-sole-candidate-in-fray-for-bjp-presidents-post-all-set-to-take-over-today/articleshow/126733995.cms",
-    "time": "2026-01-19T23:38:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJD demands Odisha Mines Minister’s removal after ED raids on his representative",
-    "desc": "State Steel and Mines Minister Bibhuti Bhushan Jena had designated Sunil Patra as his representative for mines department and representative’s active involvement in illegal mining came to the fore during ED’s raid, alleged the regional party",
-    "img": "https://th-i.thgim.com/public/incoming/djg7a5/article70527040.ece/alternates/LANDSCAPE_1200/20260116301L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/odisha/bjd-demands-odisha-mines-ministers-removal-after-ed-raids-on-his-representative/article70525696.ece",
-    "time": "2026-01-19T20:01:35.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +790,113 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/jpmorgan-confirms-trumps-assertion-that-bank-ceo-dimon-was-not-offered-fed-chair-job/article70521154.ece",
     "time": "2026-01-18T03:12:03.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "One of FBI's 10 most wanted fugitives caught in Mexico",
+    "desc": "Alejandro Rosales Castillo had \"a red notice and an arrest warrant for extradition\" and is charged with \"first-degree murder, armed robbery, vehicle theft and kidnapping,\" Mexico's Security Secretary Omar Garcia Harfuch said on social media.",
+    "img": "https://th-i.thgim.com/public/incoming/15ox93/article70521124.ece/alternates/LANDSCAPE_1200/iStock-2103527306.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/one-of-fbis-10-most-wanted-fugitives-caught-in-mexico/article70521120.ece",
+    "time": "2026-01-18T01:01:33.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran protests",
+    "desc": "What began as a shopkeepers’ strike transformed into one of the largest anti-government protests the Islamic Republic has seen, triggering a violent state crackdown in which thousands are feared killed; Tehran says Western intelligence agencies hijacked the protest and unleashed ‘domestic terror’",
+    "img": "https://th-i.thgim.com/public/incoming/mf8irg/article70519759.ece/alternates/LANDSCAPE_1200/Iran_Revolution_Anniversary_Economy_26704.jpg-674ee.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-protests-the-revolution-will-not-be-televised/article70519764.ece",
+    "time": "2026-01-17T19:35:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Samsung’s HARMAN is building the NextGen of connected cars from India",
+    "desc": "Nitin Gadkari, Union Minister for Road Transport and Highways, recently spoke about the transformative potential of Vehicle-to-Vehicle (V2V), a technology for autonomous driving in India. HARMAN claims the company is already at the heart of V2V as well as V2X ( vehicle to everything) and India is truly driving it",
+    "img": "https://th-i.thgim.com/public/business/alp7q7/article70519324.ece/alternates/LANDSCAPE_1200/Krishna%20Kumar%20Managing%20Director%20and%20Automotive%20Head%20HARMAN%20India.%F0%9F%91%86%F0%9F%8F%BB.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/samsungs-harman-is-building-the-nextgen-of-connected-cars-from-india/article70518734.ece",
+    "time": "2026-01-17T15:00:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "China cuts its U.S. debt holdings to a 17-year low, shifts reserves to gold",
+    "desc": "China's holdings of U.S. treasuries fell to $682.6 billion in November last year, down from $688.7 billion in October, the lowest since 2008, according to data released by the U.S. Department of the Treasury on Thursday (January 15, 2026)",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/china-cuts-its-us-debt-holdings-to-a-17-year-low-shifts-reserves-to-gold/article70518744.ece",
+    "time": "2026-01-17T13:11:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "It's now or never for India’s FIFA World Cup push: Ashalata Devi",
+    "desc": "The veteran defender pointed out that all three national teams — Under-17, Under-19 and the senior side — have qualified for their respective AFC Asian Championships, making 2026 a potentially defining year for the women’s game in India",
+    "img": "https://th-i.thgim.com/public/incoming/pp7z03/article70518564.ece/alternates/LANDSCAPE_1200/2026-01-12T224413Z_1449313109_RC2GWIAVQMPP_RTRMADP_3_USA-WORLDCUP-DRONES.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/its-now-or-never-for-indias-fifa-world-cup-push-ashalata-devi/article70518459.ece",
+    "time": "2026-01-17T12:15:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Steve Smith blasts record 32 runs from one over",
+    "desc": "It helped the Sixers to a five-wicket win at the Sydney Cricket Ground and stole the limelight from long-time Australia teammate Warner, who whacked an unbeaten 110 off 65 balls to set Smith’s side 190 to win",
+    "img": "https://th-i.thgim.com/public/incoming/uc0z1l/article70517585.ece/alternates/LANDSCAPE_1200/VIS_0586.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/big-bash-league-steve-smith-blasts-record-32-runs-from-one-over/article70517581.ece",
+    "time": "2026-01-17T04:19:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "WPL-4: Radha, Richa, Shreyanka star as RCB maintains perfect run",
+    "desc": "The two batters put on 105 off 66 balls for the fifth wicket after Giants reduce the Bengaluru outfit to 43 for four; the off-spinner claims five while pacer Bell chips in with a three-wicket haul for the winning side",
+    "img": "https://th-i.thgim.com/public/incoming/bqz9u3/article70516302.ece/alternates/LANDSCAPE_1200/PTI01_12_2026_000459A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/wpl-4-radha-richa-shreyanka-star-as-rcb-maintains-perfect-run/article70516303.ece",
+    "time": "2026-01-16T20:50:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "It will be great if the next World title match is India v USA — imagine the interest: Irina Krush",
+    "desc": "The only American woman to become a Grandmaster, Krush has fond memories of India. In this conversation, she talks about wanting to see Gukesh defend his title against Fabiano Caruana, refusing to give up during the 12 years between her first and final GM norms, teaming with Magnus Carlsen, and looking at the silver lining in her struggles with Covid",
+    "img": "https://th-i.thgim.com/public/incoming/1ap25l/article70516341.ece/alternates/LANDSCAPE_1200/GettyImages-1258971082.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/irina-krush-interview-global-chess-league-india-memories/article70516346.ece",
+    "time": "2026-01-16T18:21:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What the Alcaraz-Ferrero split reveals about tennis’ player-coach dynamic",
+    "desc": "The mania around the high-profile breakup shows the evolving nature of the athlete-confidant alliance in an individualistic sport. Coaches used to be support acts to the star. But with on-court coaching now fully legal at all levels, they have moved from backstage to front and centre",
+    "img": "https://th-i.thgim.com/public/incoming/ukm72u/article70516321.ece/alternates/LANDSCAPE_1200/GettyImages-1704083529.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/carlos-alcaraz-juan-carlos-ferrero-split-evolution-of-tennis-coaching/article70516333.ece",
+    "time": "2026-01-16T18:14:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Air India, Singapore Airlines sign deal to offer air travellers more routes, easier connections",
+    "desc": "The collaboration also aims to have closer alignment of flight schedules between Air India and SIA to enhance customer convenience; both airlines codeshare on 61 points in 20 countries and territories; SIA holds a 25.1% equity stake in the Air India Group",
+    "img": "https://th-i.thgim.com/public/business/Industry/nu6bke/article70514327.ece/alternates/LANDSCAPE_1200/AI-Singapore.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/air-india-singapore-airlines-sign-agreement-to-provide-travellers-more-air-routes-loyalty-benefits/article70514320.ece",
+    "time": "2026-01-16T10:59:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Supreme Court to hear producer’s appeal on January 15",
+    "desc": "The Bench would hear KVN Productions’ challenge against the decision of a two-judge Bench of the High Court to stay a single judge’s order to issue U/A 16+ certificate to the film, hours after it was passed.",
+    "img": "https://th-i.thgim.com/public/incoming/bmfibj/article70510939.ece/alternates/LANDSCAPE_1200/Jana-Nayagan-GEEFDHS0C.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/sc-to-hear-jana-nayagan-producers-on-jan-15/article70510387.ece",
+    "time": "2026-01-14T15:48:43.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Is the government seeking phones’ source code?: Explained",
+    "desc": "What is the issue around the government seeking source code data from companies? What is source code, and why don’t companies want to give access to it? Will keeping the code open for review risk security threats and cyberattacks? What has the government said?",
+    "img": "https://th-i.thgim.com/public/incoming/60jr22/article70506746.ece/alternates/LANDSCAPE_1200/2026-01-13T131933Z_668809866_RC2QUGAJT58P_RTRMADP_3_INDIA-SMARTPHONES.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/is-the-government-seeking-phones-source-code-explained/article70506738.ece",
+    "time": "2026-01-14T03:00:00.000Z"
   }
 ];
