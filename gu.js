@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "ઇન્કમ ટેક્સ એક્ટમાં થવા જઈ રહ્યા છે મોટા ફેરફાર; ટેક્સ સ્લેબથી લઈને HRA સુધી શું બદલાશે?",
+    "desc": "Budget 2026 ને લઈને આ વખતે ભારે ઉત્સાહ જોવા મળી રહ્યો છે. સરકાર આવકવેરા અધિનિયમ (Income Tax Act), 1961 માં ફેરફાર કરીને નવો 'ઇન્કમ ટેક્સ એક્ટ, 2025' લાગુ કરવાની તૈયારી કરી રહી છે. ચાલો જાણીએ આ વખતે બજેટમાં શું ખાસ હોઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/budget-2026-changes-are-coming-to-the-income-tax-act-from-tax-rates-to-hra-find-out-what-all-is-going-to-change-462258 ",
+    "time": "2026-01-20T03:52:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "અશ્લીલ વીડિયો વાયરલ થયા બાદ DGP રેન્કના અધિકારી સસ્પેન્ડ, ઓફિસમાં આપત્તિજનક હરકતનો આરોપ",
+    "desc": "કર્ણાટકના વરિષ્ઠ IPS અધિકારી અને નાગરિક અધિકાર પ્રવર્તનના DGP રામચંદ્ર રાવને સોશિયલ મીડિયા પર એક વાંધાજનક વીડિયો વાયરલ થયા બાદ સસ્પેન્ડ કરવામાં આવ્યા છે. જો કે, રાવે આ આરોપોને સંપૂર્ણપણે ખોટા અને વીડિયોને નકલી ગણાવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/karnataka-dgp-viral-video-ips-k-ramchandra-rao-suspended-462256 ",
+    "time": "2026-01-20T03:45:11.000Z"
+  },
+  {
     "cat": "World",
     "title": "ગ્રીનલેન્ડ પર સૈન્ય હુમલો કરશે અમેરિકા? ટ્રમ્પનો જવાબ જાણીને હોશ ઉડી જશે",
     "desc": "અમેરિકા રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ગ્રીનલેન્ડ પર કબજો કરવાની પોતાની ઈચ્છા સ્પષ્ટ કરી દીધી છે. તેમણે ઘણી વખત પોતાના વિરોધીઓ, ખાસ કરીને યુરોપિયન દેશોને ચેતવણી આપી છે કે, જો તેઓ તેમની માંગણીઓનો વિરોધ કરશે, તો તેમના પર વધારાનો ટેરિફ લગાડવામાં આવશે.",
@@ -288,15 +306,6 @@ const newsData_gu = [
     "time": "2026-01-18T03:01:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BMCમાં શિંદે જૂથ બન્યું &amp;#039;કિંગમેકર&amp;#039;, હોર્સ ટ્રેડિંગના ડરથી કોર્પોરેટરોને 5 સ્ટાર હોટલમાં ખસેડાયા",
-    "desc": "બીએમસી ચૂંટણીમાં શિંદે જૂથને 29 બેઠકો મળી છે, જ્યારે ભાજપ પોતાના દમ પર બહુમતીના આંકડા સુધી પહોંચી શક્યું નથી. રાજકીય સમીકરણોમાં હવે શિંદે સેના જ નિર્ણાયક શક્તિ બની ગઈ છે અને સત્તાની ચાવી તેમના હાથમાં હોવાનું માનવામાં આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/shinde-faction-becomes-kingmaker-in-bmc-councilors-shifted-to-5-star-hotel-for-fear-of-horse-trading-462037 ",
-    "time": "2026-01-17T14:44:41.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "બિગ બોસને ટક્કર મારે તેવો રિયાલિટી શો લઈને આવી રહી છે ફરાહ ખાન, જાણો ક્યારથી થશે શરુ?",
     "desc": "જો તમે બિગ બોસ જોવાના શોખીન છો તો તમને મજા પડી જાય તેવો રિયાલિટી શો ટુંક સમયમાં જોવા મળશે. આ રિયાલિટી શો ફરાહ ખાન લઈને આવી રહી છે અને તેના વિશે કહેવાય રહ્યું છે કે આ શો બિગ બોસ અને ખતરોં કે ખિલાડીને પણ ટક્કર મારે તેવો છે.",
@@ -304,15 +313,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/farah-khan-upcoming-reality-show-the-50-contestant-list-of-the-show-the-50-462021 ",
     "time": "2026-01-17T13:23:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "હોમ લોન માથાનો દુ:ખાવો બની છે ? આ નાનકડું કામ કરો અને 50 લાખની લોન પર બચાવો 18 લાખ રૂપિયા!",
-    "desc": "મધ્યમવર્ગના લોકો માટે ઘર ખરીદવું એ એક મોટું સપનું હોય છે. પરંતુ ઘર માટે જ્યારે હોમ લોન લેવાય છે ત્યારે તેના હપ્તા ભરતા ભરતા કમર તૂટી જાય છે. પરંતુ એક સ્માર્ટ નિર્ણય તમારું ભવિષ્ય બનાવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/how-a-simple-prepayment-trick-can-help-you-saving-lots-of-money-check-this-home-loan-thing-461985 ",
-    "time": "2026-01-17T10:49:43.000Z"
   },
   {
     "cat": "Business",

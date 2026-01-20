@@ -1,6 +1,159 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "SRK's pics with Katy and Lee Jung-Jae go viral",
+    "desc": "Bollywood superstar Shah Rukh Khan recently graced an international awards show, sparking a frenzy online with his photos alongside global icons Katy Perry and 'Squid Game' star Lee Jung-jae. The viral images captured the stars mingling, with Khan also seen interacting with Turkish actress Hande Ercel. Meanwhile, anticipation builds for Khan's upcoming film 'King'.",
+    "img": "https://static.toiimg.com/photo/msid-126751818,imgsize-44650.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-photos-with-katy-perry-and-squid-game-star-lee-jung-jae-go-viral-after-awards-show-pics-inside/articleshow/126747467.cms",
+    "time": "2026-01-20T03:48:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-UAE energy ties boost: ADNOC and HPCL seal $2.5 billion gas deal; New Delhi to receive half a million tonnes of LNG annually",
+    "desc": "India and the UAE have inked a significant energy pact, with ADNOC Gas agreeing to supply Hindustan Petroleum with over $2.5 billion worth of liquefied natural gas annually for ten years. This deal positions India as ADNOC Gas's largest customer.",
+    "img": "https://static.toiimg.com/photo/msid-126751420,imgsize-4882.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-uae-energy-ties-boost-adnoc-and-hpcl-seal-2-5-billion-gas-deal-new-delhi-to-receive-half-a-million-tonnes-of-lng-annually/articleshow/126748736.cms",
+    "time": "2026-01-20T03:43:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Maharashtra signs investment MoUs worth ₹14.5 lakh cr on day 1",
+    "desc": "From India, at least four Union Ministers— Ashwini Vaishnaw, Shivraj Singh Chouhan, Pralhad Joshi, and K Rammohan Naidu — as well as six Chief Ministers are expected to be there, along with over 100 top CEOs from the country",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/world-economic-forum-2026-in-davos-live-updates-on-january-20/article70527889.ece",
+    "time": "2026-01-20T03:43:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Tough questions will be asked’: Rahane reveals reasons behind India's ODI woes under Gambhir",
+    "desc": "Ajinkya Rahane criticises excessive team changes and lack of clarity under Gautam Gambhir, citing India's recent ODI series losses. He stresses the need for player security and honest conversations as the team prepares for the 2027 World Cup. Rahane believes a scheduling break offers a chance for management to reset and back the right combination.",
+    "img": "https://static.toiimg.com/photo/msid-126749796,imgsize-48638.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/tough-questions-will-be-asked-ajinkya-rahane-reveals-the-reasons-behind-indias-odi-woes-under-gautam-gambhir/articleshow/126749494.cms",
+    "time": "2026-01-20T03:22:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Timothy Busfield to be edited out of latest film project",
+    "desc": "In a shocking turn of events, actor Timothy Busfield is embroiled in serious allegations of child sexual abuse, prompting his withdrawal from numerous productions. The upcoming film 'You Deserve Each Other' will undergo digital alterations to exclude his scenes. Facing multiple charges, Busfield turned himself in to law enforcement in New Mexico and is now waiting for trial proceedings.",
+    "img": "https://static.toiimg.com/photo/msid-126749196,imgsize-34958.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/timothy-busfields-career-takes-a-hit-actor-dropped-from-you-deserve-each-other-heres-what-we-know/articleshow/126749196.cms",
+    "time": "2026-01-20T03:18:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kanye West performing in India? All you need to know",
+    "desc": "Mark your calendars, music aficionados! Global superstar Kanye West, embracing the name Ye, is on the verge of gracing India with a spectacular live performance in April 2026. Although details are still under wraps, whispers from the industry suggest that this solo concert might just be the largest ever held in the country.",
+    "img": "https://static.toiimg.com/photo/msid-126749039,imgsize-16266.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kanye-west-performing-in-india-heres-whats-really-happening/articleshow/126748785.cms",
+    "time": "2026-01-20T03:12:58.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Why SIR verification needs to be completely digitised",
+    "desc": "SIR 2.0, aimed at updating electoral rolls, has caused confusion and distress among voters. Despite the ECINet’s ability to handle data entry, verification, cross-checks, and audit trails, the process has relied heavily on paper-based forms, summons, and hearings",
+    "img": "https://th-i.thgim.com/public/incoming/2apqe1/article70526832.ece/alternates/LANDSCAPE_1200/PTI01_19_2026_000221A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/why-sir-verification-needs-to-be-completely-digitised/article70525723.ece",
+    "time": "2026-01-20T03:00:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Easier said than done’: Kohli's brother hits back as star slams another ton",
+    "desc": "Virat Kohli's stellar 124 against New Zealand, despite India's series loss, drew praise from his brother, Vikas Kohli. This century, part of Kohli's 240 runs in the series, silenced critics like Sanjay Manjrekar who questioned his ODI commitment. Kohli's recent form, including multiple centuries, underscores his continued dominance in the format.",
+    "img": "https://static.toiimg.com/photo/msid-126747205,imgsize-62410.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/easier-said-than-done-virat-kohlis-brother-hits-back-at-sanjay-manjrekar-as-star-silences-critics-with-another-century/articleshow/126747180.cms",
+    "time": "2026-01-20T02:51:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dunk and Egg are so much like us...'",
+    "desc": "Peter Claffey and Dexter Sol Ansell, stars of 'A Knight of the Seven Kingdoms,' discuss their effortless chemistry as Ser Duncan the Tall and Egg. They reveal how their real personalities influenced the beloved characters, with Claffey embracing his nerves and Ansell bringing humor and confidence. The duo also shared their favorite pairings from the 'Game of Thrones' universe.",
+    "img": "https://static.toiimg.com/photo/msid-126745772,imgsize-40248.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/a-knight-of-the-seven-kingdoms-stars-peter-claffey-and-dexter-sol-ansell-on-becoming-game-of-thrones-new-lovable-duo-dunk-and-egg-are-so-much-like-us-in-real-life-exclusive/articleshow/126743467.cms",
+    "time": "2026-01-20T02:30:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Joe Keery, Sabrina Carpenter dating rumors: Timeline",
+    "desc": "Joe Keery and Sabrina Carpenter are fueling dating rumors with playful concert interactions and recent sightings. Their Austin City Limits appearances, including a pink handcuff exchange, went viral. Further public appearances and social media hints have intensified speculation, though both stars remain private about their personal lives, leaving fans eager for confirmation.",
+    "img": "https://static.toiimg.com/photo/msid-126745642,imgsize-696906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/joe-keery-and-sabrina-carpenter-fuel-dating-buzz-after-viral-concert-moment-and-nyc-sightings/articleshow/126745666.cms",
+    "time": "2026-01-20T02:28:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SRK takes away fan’s phone during on-stage selfie moment",
+    "desc": "At the Joy Awards in Riyadh, Bollywood icon Shah Rukh Khan showcased his professionalism by kindly intercepting a fan's phone, preventing an impromptu selfie on stage. While some critics perceived this as a display of arrogance, loyal fans rushed to his defense, pointing out that he was simply following event guidelines to allow official photographers to capture the moment.",
+    "img": "https://static.toiimg.com/photo/msid-126743841,imgsize-25660.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-takes-away-fans-phone-during-on-stage-selfie-moment-at-joy-awards-internet-reacts-following-protocol/articleshow/126743841.cms",
+    "time": "2026-01-20T02:12:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘A Knight of the Seven Kingdoms’ timeline explained",
+    "desc": "Westeros unfolds a new chapter with 'A Knight of the Seven Kingdoms', a thrilling prequel that takes us back nearly a century before the iconic 'Game of Thrones'. Based on the acclaimed 'Dunk and Egg' tales, it unveils the unique friendship between the affable yet destitute Ser Duncan the Tall and his undercover royal squire, Aegon Targaryen.",
+    "img": "https://static.toiimg.com/photo/msid-126744224,imgsize-54998.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/a-knight-of-the-seven-kingdoms-timeline-explained-where-it-fits-between-house-of-the-dragon-and-game-of-thrones/articleshow/126743750.cms",
+    "time": "2026-01-20T02:09:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I love Vijay, I am his biggest fan: Director Sudha Kongara",
+    "desc": "Director Sudha Kongara clarified the 'Parasakthi' release controversy, emphasizing her immense admiration for actor Vijay. She stated there was no competition, only respect, and that her film's release timing was for a festival window. Kongara expressed sympathy for Vijay's 'Jana Nayagan' facing censor issues, reiterating her fan status and love for the star.",
+    "img": "https://static.toiimg.com/photo/msid-126743602,imgsize-42664.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-director-sudha-kongara-calls-vijay-the-biggest-star-clears-jana-nayagan-clash-rumours/articleshow/126743602.cms",
+    "time": "2026-01-20T02:05:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "From Rhaenyra to Daenerys",
+    "desc": "From Rhaenyra's civil war to Aegon V's unlikely rise and Daenerys's quest for the Iron Throne, the Targaryen dynasty's legacy is forged in fire, blood, and incest. Their ambitious reign, marked by dragonriders and internal conflict, spans centuries, with each generation facing unique challenges and shaping the future of Westeros.",
+    "img": "https://static.toiimg.com/photo/msid-126742431,imgsize-520707.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/house-targaryen-bloodline-explained-from-rhaenyra-to-daenerys-heres-all-about-fire-blood-and-destiny/articleshow/126742442.cms",
+    "time": "2026-01-20T01:42:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'10 blissful years': Asin and Rahul Sharma mark 10 years of marriage",
+    "desc": "Actress Asin and entrepreneur Rahul Sharma celebrated a decade of marriage with heartfelt messages and shared unseen photos. Rahul's startup-inspired note lauded Asin as a \"co-founder\" of their life, while Asin marked the occasion with intimate family moments. Fans lauded their bond, reminiscing about Asin's successful film career.",
+    "img": "https://static.toiimg.com/photo/msid-126741614,imgsize-56276.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/asin-and-rahul-sharma-mark-10-years-of-marriage-unseen-wedding-snap-goes-viral/articleshow/126741614.cms",
+    "time": "2026-01-20T01:34:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Brooklyn issues statement on Beckham family feud",
+    "desc": "Brooklyn Beckham has broken his silence on alleged family rifts, claiming his parents David and Victoria have long controlled narratives and tried to sabotage his marriage to Nicola Peltz. He detailed wedding day 'lies' and alleged pressure to sign away rights, stating he no longer wishes to reconcile with his family.",
+    "img": "https://static.toiimg.com/photo/msid-126739347,imgsize-22930.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brooklyn-beckham-breaks-silence-on-rift-with-david-and-victoria-beckham-my-parents-have-been-trying-endlessly-to-ruin-my-relationship/articleshow/126737844.cms",
+    "time": "2026-01-20T01:25:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'TTT' BO day 5: Jiiva’s film shows no signs of stopping",
+    "desc": "Jiiva's latest film, 'Thalaivar Thambi Thalaimaiyil,' is making waves at the box office, raking in over Rs 16.45 crore in its first five days. Directed by Nithish Sahadev, the movie has seen strong weekend collections and a decent weekday performance, indicating good audience reception. The film blends drama and humor, proving to be a popular festive watch.",
+    "img": "https://static.toiimg.com/photo/msid-126740048,imgsize-23960.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalaivar-thambi-thalaimaiyil-box-office-collections-day-5-jiivas-film-shows-no-signs-of-stopping-crosses-rs-16-crores/articleshow/126740048.cms",
+    "time": "2026-01-20T01:10:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Govinda's nephew BREAKS SILENCE on actor's rift rumors with Sunita",
     "desc": "In a heartfelt moment, Vinay Anand, nephew of the iconic Govinda, shared his warm sentiments for his uncle and aunt, Sunita Ahuja, amid swirling divorce speculations. He also highlighted the promising journey that lies ahead for Govinda's son, Yashvardhan, while expressing genuine concern over his uncle's recent health challenges, underscoring the importance of family unity.",
     "img": "https://static.toiimg.com/photo/msid-126738278,imgsize-40254.cms",
@@ -73,6 +226,15 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
+    "title": "Pakistan halts T20 WC preparation as it backs Bangladesh over India travel",
+    "desc": "Pakistan has halted preparations for the T20 World Cup 2026, backing Bangladesh's refusal to play in India due to security concerns. Islamabad has indicated it may withdraw if the issue isn't resolved, following Bangladesh's withdrawal from the IPL. The ICC is reluctant to shift Bangladesh's matches, potentially leading to Scotland's replacement.",
+    "img": "https://static.toiimg.com/photo/msid-126700196,imgsize-49206.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mustafizur-rahman-row-pakistan-halts-t20-world-cup-preparation-as-it-backs-bangladesh-over-india-travel/articleshow/126699514.cms",
+    "time": "2026-01-19T23:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'No matter who you are': Rohit's 'real hunger' questioned after poor series",
     "desc": "Rohit Sharma’s poor run continued with an 11-run dismissal in the deciding ODI against New Zealand on Sunday, raising questions about his form and motivation. Now playing only ODIs, Rohit struggled throughout the series, prompting Simon Doull to question whether the 2027 World Cup is too distant to drive him. Doull also cited limited ODI cricket as a factor. Virat Kohli topped the series with 240 runs.",
     "img": "https://static.toiimg.com/photo/msid-126690955,imgsize-156174.cms",
@@ -99,15 +261,6 @@ const newsData_en = [
     "time": "2026-01-19T23:09:44.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Palaash returns to cinema after cancelled wedding with Smriti",
-    "desc": "After keeping a relatively low profile in recent weeks, composer and filmmaker Palaash Muchhal is returning his focus to professional commitments. The filmmaker is set to begin work on his next directorial project, marking a clear shift back to cinema after a period of heightened public attention.",
-    "img": "https://static.toiimg.com/photo/msid-126730690,imgsize-59582.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/palaash-muchhal-returns-to-cinema-after-cancelled-wedding-with-smriti-mandhana-shreyas-talpade-to-star-in-next-film/articleshow/126730452.cms",
-    "time": "2026-01-19T22:50:21.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Bangladesh lets China envoy go close to Chicken’s Neck",
     "desc": "Chinese Ambassador Yao Wen visited a Teesta project area in Bangladesh, signaling China's keenness to implement the Teesta Master Plan. This visit occurs amidst strained India-Bangladesh relations and follows discussions on development cooperation, including the Teesta project and a proposed friendship hospital.",
@@ -115,15 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/bangladesh-lets-china-envoy-go-close-to-chickens-neck/articleshow/126729206.cms",
     "time": "2026-01-19T22:30:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘I don’t think there is any communal bias'",
-    "desc": "Director Imtiaz Ali, who has collaborated extensively with Oscar-winning composer AR Rahman on films such as Rockstar, Tamasha, Highway, and most recently Amar Singh Chamkila, has come out in support of the musician amid the ongoing controversy surrounding his recent remarks.",
-    "img": "https://static.toiimg.com/photo/msid-126729123,imgsize-57362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/imtiaz-ali-says-ar-rahmans-remarks-were-misconstrued-i-dont-think-there-is-any-communal-bias-in-the-film-industry/articleshow/126728442.cms",
-    "time": "2026-01-19T22:30:41.000Z"
   },
   {
     "cat": "Politics",
@@ -160,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/india-uae-to-elevate-ties-with-strategic-defence-partnership/articleshow/126724844.cms",
     "time": "2026-01-19T21:49:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "How do you really get into Bollywood? Celebs reveal",
-    "desc": "Is there a formula to entering Hindi cinema, or is it a mix of timing, talent, and sheer survival? In this ETimes exclusive, director-producer Nivedita Basu, actor-producer Parvin Dabas, and emerging actor Ruchi Gujjar break down the myths, realities, and emotional costs of finding a foothold in Bollywood.",
-    "img": "https://static.toiimg.com/photo/msid-126723425,imgsize-91944.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/how-do-you-really-get-into-bollywood-nivedita-basu-parvin-dabas-and-ruchi-gujjar-decode-the-long-road-to-the-industry-exclusive/articleshow/126723234.cms",
-    "time": "2026-01-19T21:46:06.000Z"
   },
   {
     "cat": "Politics",
@@ -243,15 +378,6 @@ const newsData_en = [
     "time": "2026-01-19T19:59:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Celebrity fitness trainer on his journey from being watchman to charging in lakhs",
-    "desc": "Celebrity fitness trainer Vinod Channa, who once worked as a watchman, shared his journey from a humble background to training Bollywood's elite. After 15 years of bodybuilding and starting at a Mumbai gym, he moved to Bandra, eventually training stars like Amitabh Bachchan and John Abraham, reaching a peak where he charged Rs 25,000 per hour.",
-    "img": "https://static.toiimg.com/photo/msid-126716474,imgsize-22216.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fitness-trainer-to-john-abraham-amitabh-bachchan-shilpa-shetty-recalls-charging-rs-25000-per-hour-reveals-his-journey-from-being-a-watchman-to-buying-a-gym-worth-rs-15-crore/articleshow/126716404.cms",
-    "time": "2026-01-19T19:57:11.000Z"
-  },
-  {
     "cat": "Business",
     "title": "RBI revises priority sector norms to include NCDC",
     "desc": "The RBI has revised priority sector lending norms, now allowing loans to the National Cooperative Development Corporation to qualify. This aims to expand credit for cooperative societies, especially in agriculture, while simultaneously tightening compliance to prevent double counting of benefits.",
@@ -268,33 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/wanted-fresh-graduates-with-ai-data-skills/articleshow/126715316.cms",
     "time": "2026-01-19T19:36:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Khushi Mukherjee breaks silence on Rs 100 crore defamation case",
-    "desc": "Actress and social media personality Khushi Mukherjee has finally responded after influencer Faizan Ansari claimed to have filed a Rs 100 crore defamation case against her over her remarks about Indian cricketer Suryakumar Yadav. Speaking to the media, Khushi maintained that she has not defamed the Indian T20I captain in any manner, while admitting that her earlier comment may not have been necessary.",
-    "img": "https://static.toiimg.com/photo/msid-126711796,imgsize-78342.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/khushi-mukherjee-breaks-silence-on-rs-100-crore-defamation-case-slams-saste-influencers-i-havent-defamed-suryakumar-yadav-in-any-way/articleshow/126710910.cms",
-    "time": "2026-01-19T18:51:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Javed Akhtar reveals he refused to write 'Border 2' songs: 'Creative bankruptcy'",
-    "desc": "Javed Akhtar refused to write for 'Border 2', calling the reliance on reworked old songs \"intellectual and creative bankruptcy.\" He argued that films belong to their time and new music should be created instead of depending on past glory. Akhtar believes filmmakers should create new nostalgia rather than exploiting existing memories.",
-    "img": "https://static.toiimg.com/photo/msid-126711341,imgsize-96378.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/javed-akhtar-reveals-he-refused-to-write-border-2-songs-make-new-songs-or-accept-that-you-cant-do-the-same-level-of-work/articleshow/126710915.cms",
-    "time": "2026-01-19T18:46:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Fitness trainer on John's diet, how Shilpa Shetty lost post pregnancy weight",
-    "desc": "John Abraham's fitness trainer revealed the actor's extreme dietary discipline, stating his body now reacts negatively to common vegetables like bhindi and baingan due to years of strict adherence. The trainer also highlighted Shilpa Shetty's natural post-pregnancy weight loss, refuting claims of medical intervention.",
-    "img": "https://static.toiimg.com/photo/msid-126708159,imgsize-36378.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/john-abraham-cant-digest-bhindi-baigan-now-says-fitness-trainer-about-his-discipline-opens-up-on-shilpa-shettys-weight-loss-post-pregnancy/articleshow/126707923.cms",
-    "time": "2026-01-19T18:08:13.000Z"
   },
   {
     "cat": "Business",
@@ -378,33 +477,6 @@ const newsData_en = [
     "time": "2026-01-19T17:09:54.000Z"
   },
   {
-    "cat": "Business",
-    "title": "China–India trade dispute: Beijing seeks WTO panel against India’s auto, battery and EV incentives after talks fail",
-    "desc": "China has escalated its trade dispute with India. It has asked the World Trade Organisation to form a panel. This is against India's incentive schemes for automobiles, batteries, and electric vehicles. Bilateral talks failed to resolve the issue. China claims India's schemes discriminate against its goods.",
-    "img": "https://static.toiimg.com/photo/msid-126702468,imgsize-773547.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/chinaindia-trade-dispute-beijing-seeks-wto-panel-against-indias-auto-battery-and-ev-incentives-after-talks-fail/articleshow/126702440.cms",
-    "time": "2026-01-19T17:01:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay’s escort car meets with accident; rickshaw badly damaged",
-    "desc": "An escort vehicle from Akshay Kumar’s convoy was involved in a serious road accident in Mumbai on Monday evening after it reportedly collided with an auto-rickshaw near the actor’s residence in Juhu. According to preliminary reports, at least two people sustained injuries in the incident. Akshay Kumar was not present in the escort car at the time of the accident.",
-    "img": "https://static.toiimg.com/photo/msid-126702252,imgsize-46290.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumars-escort-car-meets-with-accident-in-mumbai-auto-rickshaw-badly-damaged-bystanders-help-trapped-man-no-casualties-reported/articleshow/126701901.cms",
-    "time": "2026-01-19T17:00:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Priyanka's brother became the collateral damage to her success,' said Madhu Chopra",
-    "desc": "Priyanka Chopra's mother, Madhu Chopra, revealed that her son Siddharth suffered due to Priyanka's early stardom. Madhu's extensive travel to support Priyanka's career meant Siddharth often grew up without significant parental presence. She expressed regret over this, acknowledging him as 'collateral damage' to her daughter's success.",
-    "img": "https://static.toiimg.com/photo/msid-126701962,imgsize-46204.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopras-brother-siddharth-chopra-was-the-collateral-damage-to-her-success-revealed-the-actress-mother-madhu-chopra/articleshow/126701835.cms",
-    "time": "2026-01-19T16:56:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Pakistan's Raja embarrasses himself in front of B'desh crowd",
     "desc": "Former Pakistan captain Ramiz Raja faced an awkward moment during the toss of a BPL 2025–26 match when his call to “make some noise” was met with near silence. The clip went viral on social media, drawing mixed reactions. While some mocked the moment, others defended Raja, citing poor acoustics or early crowd turnout. Raja quickly moved on and continues as a prominent voice in the league.",
@@ -412,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/make-some-noise-pakistans-ramiz-raja-embarrasses-himself-in-front-of-bangladesh-crowd-watch/articleshow/126699553.cms",
     "time": "2026-01-19T16:35:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Top 5 Bollywood newsmakers of the day",
-    "desc": "Ms Gori slams Parul Gulati's defense of Karan Aujla's marriage loyalty. 'Race 4' skips Akshaye Khanna. Neha Kakkar takes work break post-trolling. Rahman's daughters back him vs hate. Rashmika dodges Vijay Deverakonda wedding rumors, saying she'll speak when ready.",
-    "img": "https://static.toiimg.com/photo/msid-126699292,imgsize-31074.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ar-rahmans-daughters-defend-him-rashmika-mandanna-responds-to-wedding-with-vijay-deverakonda-akshaye-khanna-not-approached-for-race-4-top-5-newsmakers-of-the-day/articleshow/126699292.cms",
-    "time": "2026-01-19T16:23:45.000Z"
   },
   {
     "cat": "Politics",
@@ -439,24 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/kallis-klusener-jonty-rhodes-and-everyone-else-test-match-where-entire-south-african-team-was-awarded-player-of-the-match/articleshow/126692790.cms",
     "time": "2026-01-19T15:42:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'AR Rahman's music belongs to humanity'",
-    "desc": "In this candid conversation with ETimes, Shankar Mahadevan opens up about why creators losing rights is the most dangerous collapse point in the music ecosystem, how gatekeeping thrives when power is concentrated, and why music today risks becoming factory output instead of personal expression. He also responds to AR Rahman’s recent remarks on the slowdown of his Bollywood work and explains how Goongoonalo aims to rebuild trust, transparency, and dignity in music-making — without sacrificing commercial relevance.",
-    "img": "https://static.toiimg.com/photo/msid-126695406,imgsize-55002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shankar-mahadevan-ar-rahmans-music-belongs-to-humanity-talent-has-no-religion-at-goongoonalo-we-stand-firmly-for-equality-exclusive/articleshow/126695046.cms",
-    "time": "2026-01-19T15:39:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sutapa joins 2026 is the new 2016 trend and remembers Irrfan",
-    "desc": "Sutapa Sikdar, wife of the late Irrfan Khan, shared a touching Instagram post reminiscing about 2016, a year filled with cherished moments with her husband. She recalled significant events like meeting Tom Hanks and attending the Inferno premiere, highlighting how Irrfan's presence made those times complete. The post serves as a heartfelt tribute to the actor's enduring legacy.",
-    "img": "https://static.toiimg.com/photo/msid-126693518,imgsize-61166.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sutapa-sikdar-joins-2026-is-the-new-2016-trend-and-remembers-late-husband-irrfan-khan-in-an-emotional-post/articleshow/126693639.cms",
-    "time": "2026-01-19T15:15:14.000Z"
   },
   {
     "cat": "Sports",
@@ -559,33 +604,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Dewald Brevis, Liam Livingstone and Marizanne Kapp headline London Spirit’s 2026 signings",
-    "desc": "London Spirit have announced eight international signings as their first recruits for The Hundred 2026. The list includes returning favourites Charlie Dean, Grace Harris and Jamie Overton, alongside marquee names such as Dewald Brevis, Liam Livingstone, Marizanne Kapp and Adam Zampa.",
-    "img": "https://static.toiimg.com/photo/msid-126674999,imgsize-37862.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/dewald-brevis-liam-livingstone-and-marizanne-kapp-headline-london-spirits-2026-signings/articleshow/126674921.cms",
-    "time": "2026-01-19T09:54:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Barclays and Nike unveiled as London Spirit’s first commercial partners",
-    "desc": "London Spirit have unveiled Barclays as their first-ever principal partner and Nike as official kit supplier, marking a major commercial milestone for the franchise. The announcements coincide with the launch of a refreshed brand identity that blends the modern appeal of The Hundred with the heritage of Lord’s, underlining Spirit’s ambition to grow the game and its fan base.",
-    "img": "https://static.toiimg.com/photo/msid-126674772,imgsize-25742.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/barclays-and-nike-unveiled-as-london-spirits-first-commercial-partners/articleshow/126674571.cms",
-    "time": "2026-01-19T09:45:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Dhurandhar’ box office day 46 (LIVE)",
-    "desc": "Aditya Dhar's 'Dhurandhar' continues its remarkable theatrical run, dominating newer releases even on its 46th day. The film achieved a historic milestone on day 40, surpassing 'Pushpa 2' and 'Baahubali 2' in day 4 collections. With impressive week 6 and 7 performances, 'Dhurandhar' is on track to potentially reach Rs 850 crore in India, facing upcoming competition from 'Border 2'.",
-    "img": "https://static.toiimg.com/photo/msid-126672753,imgsize-34614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-day-46-live-the-ranveer-singh-akshaye-khanna-starrer-has-a-solid-seventh-weekend-crosses-rs-825-crore/articleshow/126672282.cms",
-    "time": "2026-01-19T08:07:53.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "‘Well begun is half done’: Gavaskar dissects India's defeat despite Kohli's brilliance",
     "desc": "Sunil Gavaskar criticised India's batters for failing to provide solid starts in their ODI series loss to New Zealand. He highlighted the lack of support for Virat Kohli, whose century went in vain. Gavaskar urged younger players to learn pacing and temperament from Kohli, while praising Harshit Rana's lower-order effort.",
     "img": "https://static.toiimg.com/photo/msid-126672180,imgsize-185024.cms",
@@ -628,15 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-says-it-will-be-done-on-getting-russian-threat-away-from-greenland/article70524316.ece",
     "time": "2026-01-19T05:15:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Records India’s run-machine set in IND vs NZ ODIs",
-    "desc": "Virat Kohli's magnificent 124 in the series decider against New Zealand, though in a losing effort, cemented his legendary status. This 54th ODI century, his seventh against the Kiwis, saw him rewrite multiple records, including most international hundreds against them and highest runs at No.3 in ODIs. Despite India's loss, Kohli's consistent brilliance shone through.",
-    "img": "https://static.toiimg.com/photo/msid-126667136,imgsize-62410.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohli-keeps-taking-giant-strides-all-the-big-records-indias-run-machine-set-in-ind-vs-nz-odis/articleshow/126667107.cms",
-    "time": "2026-01-19T03:28:16.000Z"
   },
   {
     "cat": "World",
@@ -810,24 +819,6 @@ const newsData_en = [
     "time": "2026-01-17T04:19:32.000Z"
   },
   {
-    "cat": "World",
-    "title": "With Nepal’s largest party divided ahead of polls, EC decides on legitimacy dispute",
-    "desc": "Two factions of Nepali Congress, the country’s oldest party, submitted competing claims to legitimacy, forcing the Election Commission to recognise one camp ahead of the deadline for filing nominations for direct polls; amid Nepal’s shifting political landscape, the EC decides who gets to contest",
-    "img": "https://th-i.thgim.com/public/incoming/82kzuu/article70516309.ece/alternates/LANDSCAPE_1200/Nepal_Gen_Z_Protest_50450.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/with-nepals-largest-party-divided-ahead-of-polls-ec-decides-on-legitimacy-dispute/article70515034.ece",
-    "time": "2026-01-17T00:00:00.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Nobel Peace Prize inseparable from laureate, award body says after Trump gets medal from Machado",
-    "desc": "“Regardless of what may happen to the medal, the diploma, or ‍the prize money, it is and remains the original laureate who is recorded in history as the recipient of the prize,” the award body said",
-    "img": "https://th-i.thgim.com/public/incoming/h6w9bo/article70517414.ece/alternates/LANDSCAPE_1200/PTI01_16_2026_000025B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/nobel-peace-prize-inseparable-from-laureate-award-body-says-after-trump-gets-medal-from-machado/article70517413.ece",
-    "time": "2026-01-16T23:57:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "WPL-4: Radha, Richa, Shreyanka star as RCB maintains perfect run",
     "desc": "The two batters put on 105 off 66 balls for the fifth wicket after Giants reduce the Bengaluru outfit to 43 for four; the off-spinner claims five while pacer Bell chips in with a three-wicket haul for the winning side",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/children/the-wax-world-of-madame-tussauds/article70449130.ece",
     "time": "2026-01-13T05:30:00.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Centre proposes smartphone makers give source code in security overhaul",
+    "desc": "The plan is part of Prime Minister Narendra Modi's efforts to boost the security of user data as online fraud and data breaches increase in the world's second-largest smartphone market, with nearly 750 million phones",
+    "img": "https://th-i.thgim.com/public/news/national/zfwzrk/article70497391.ece/alternates/LANDSCAPE_1200/iStock-1225585631.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/india-proposes-forcing-smartphone-makers-to-give-source-code-in-security-overhaul/article70497338.ece",
+    "time": "2026-01-11T09:46:16.000Z"
   }
 ];

@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Known for their strategy': Ajinkya Rahane gives his take on New Zealand's performance after ODI series win",
+    "desc": "The Indian team succumbed to a hefty loss against New Zealand in the ODI leg of the ongoing multi-format series between the two teams. The two teams faced off across three ODI matches, and after...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/known-for-their-strategy-ajinkya-rahane-gives-his-take-on-new-zealand-s-performance-after-odi-series-win-2026-01-20-1026579",
+    "time": "2026-01-20T02:25:15.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Really happy': Smriti Mandhana opens up on her side's performance after record breaking start to WPL season",
     "desc": "Game 12 of the ongoing WPL (Women’s Premier League) 2026 saw Royal Challengers Bengaluru women taking on Gujarat Giants. The two sides locked horns at the Kotambi Stadium in Vadodara on January 19. The game...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-to-face-arch-rivals-pakistan-twice-on-this-day-know-all-details-inside-2026-01-19-1026514",
     "time": "2026-01-19T10:26:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I'd be keen to do that': Steve Smith outlines his future goals with Australia after stellar BBL form",
-    "desc": "Veteran Australia batter Steve Smith has been in incredible form in the shortest format of late. The star batter has been exceptional for Sydney Sixers in the ongoing BBL (Big Bash League) season, and with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/i-d-be-keen-to-do-that-steve-smith-outlines-his-future-goals-with-australia-after-stellar-bbl-form-2026-01-19-1026507",
-    "time": "2026-01-19T09:40:18.000Z"
   }
 ];
