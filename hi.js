@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "For first-ever time! Mumbai Indians hit record low in WPL after loss to Delhi Capitals",
+    "desc": "Mumbai Indians suffered another heartbreaking defeat in the ongoing Women's Premier League 2026 as the defending champions lost their fourth game out of six matches on Tuesday, January 20. The Harmanpreet Kaur-led side faced troubles with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/for-first-ever-time-mumbai-indians-hit-record-low-in-wpl-after-loss-to-delhi-capitals-2026-01-20-1026737",
+    "time": "2026-01-20T18:28:55.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Who is Will Malajczuk, the Australian batter who smashed the fastest-ever century in U-19 World Cup history?",
     "desc": "Australian star opener Will Malajczuk etched his name into the history books as she slammed the fastest-ever century in the U19 World Cup during his team's clash against Japan U19 on Tuesday, January 20. Malajczuk smashed...",
     "img": "",
@@ -70,14 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/perth-scorchers-surpass-mumbai-indians-record-with-win-over-sydney-sixers-qualify-for-bbl-final-2026-01-20-1026699",
     "time": "2026-01-20T13:19:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How can Delhi Capitals still qualify for playoffs after one win in four matches?",
-    "desc": "Delhi Capitals are staring at an uphill task in the Women’s Premier League (WPL) 2026 as the league phase reaches its midway point. With just one victory from four outings, the Jemimah Rodrigues-led side finds...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wpl-2026-how-can-delhi-capitals-still-qualify-for-playoffs-after-one-win-in-four-matches-2026-01-20-1026691",
-    "time": "2026-01-20T12:36:59.000Z"
   }
 ];

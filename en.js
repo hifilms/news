@@ -1,5 +1,104 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Anup Jalota advises AR Rahman to convert back to Hinduism",
+    "desc": "AR Rahman recently sparked a heated debate after suggesting that shifts in political power may have impacted his relationship with Hindi cinema. The Oscar-winning composer hinted that he may not be getting enough work and later referred to it as a “communal thing,” triggering strong reactions from across the industry. Now, singer Anup Jalota has weighed in, making it clear that he does not agree with Rahman’s assessment.",
+    "img": "https://static.toiimg.com/photo/msid-126868661,imgsize-213098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dobara-hindu-ho-jaayein-anup-jalota-advises-ar-rahman-to-convert-back-to-hinduism-and-test-his-luck-after-his-communal-remark/articleshow/126868392.cms",
+    "time": "2026-01-20T21:06:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee feels geopolitical heat, breaches 91 level against $",
+    "desc": "The Indian rupee dipped to a one-month low against the dollar on Tuesday, closing at 90.98. This marks the fifth consecutive session of weakening, fueled by escalating geopolitical tensions and a downturn in domestic equity markets. Despite efforts to prevent a record low, persistent dollar demand and global uncertainty continue to pressure the currency.",
+    "img": "https://static.toiimg.com/photo/msid-126868742,imgsize-51592.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-feels-geopolitical-heat-breaches-91-level-against-/articleshow/126868634.cms",
+    "time": "2026-01-20T21:04:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Chinese Wok owner to take over Burger King operator",
+    "desc": "Inspira Global, owner of Chinese Wok, is acquiring Restaurant Brands Asia (RBA), the operator of Burger King India. This significant deal sees Everstone Capital exiting RBA with a Rs 460 crore stake sale. Inspira plans substantial capital infusion, aiming to bolster its presence in the fast-growing quick-service restaurant sector and expand its brand portfolio.",
+    "img": "https://static.toiimg.com/photo/msid-126868462,imgsize-49192.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/chinese-wok-owner-to-take-over-burger-king-operator/articleshow/126868388.cms",
+    "time": "2026-01-20T21:02:24.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "India among Russia's top foreign trade partners: PM Mishustin",
+    "desc": "In the financial year 2024–25, total India-Russia trade reached an all-time high of about $68.7 billion, up sharply from roughly $13 billion in 2021, marking nearly a five - to six- fold increase over four years.",
+    "img": "https://th-i.thgim.com/public/incoming/byv2qb/article70531082.ece/alternates/LANDSCAPE_1200/AP12_24_2025_000449B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/india-among-russias-top-foreign-trade-partners-pm-mishustin/article70531079.ece",
+    "time": "2026-01-20T20:46:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "DMK’s allies criticise Governor; AMMK, PMK critique T.N. government’s prepared address to House",
+    "desc": "K. Selvaperunthagai, president of the Tamil Nadu Congress Committee, said the Governor’s action amounted to an insult to the Indian Constitution, the dignity of the Legislature, and the democratically elected Members of the Legislative Assembly",
+    "img": "https://th-i.thgim.com/public/incoming/74295n/article70531078.ece/alternates/LANDSCAPE_1200/4871_20_1_2026_14_43_43_1_DSC1923.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/dmks-allies-criticise-governor-ammk-pmk-critique-tn-governments-prepared-address-to-house/article70529745.ece",
+    "time": "2026-01-20T20:27:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sunil praises Kapil’s evolution, dislikes Sunil’s female chars",
+    "desc": "Comedian Sunil Pal, known for his blunt and controversial opinions, recently spoke about the changing landscape of Indian comedy and the need to evolve with time. During a recent podcast, Pal was asked about comedians who have faded away and those who continue to remain relevant.",
+    "img": "https://static.toiimg.com/photo/msid-126861922,imgsize-135640.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunil-pal-praises-kapil-sharmas-evolution-calls-johny-lever-an-inspiration-says-he-once-threw-up-watching-sunil-grovers-female-characters/articleshow/126861608.cms",
+    "time": "2026-01-20T20:13:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&amp;K: Op Trashi-I enters Day 3; hideout busted, few detained",
+    "desc": "Operation Trashi-I in Kishtwar's Chatroo region enters its third day, with security forces intensifying searches and aerial surveillance. A terrorist hideout was discovered, and locals were detained for questioning. The operation follows the death of Army Special Forces Commando Havildar Gajendra Singh during an earlier gun battle.",
+    "img": "https://static.toiimg.com/photo/msid-126858305,imgsize-1834281.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-op-trashi-i-enters-day-3-hideout-busted-few-detained/articleshow/126858358.cms",
+    "time": "2026-01-20T19:42:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Jio BlackRock AMC attracts 10 lakh investors, 18% first-time participants",
+    "desc": "The joint venture between Jio Financial Services and BlackRock has also seen strong participation from investors beyond major metros, with 40% of its retail investors coming from B-30 cities, significantly higher than the industry average of 28%",
+    "img": "https://th-i.thgim.com/public/incoming/yj471u/article70531049.ece/alternates/LANDSCAPE_1200/611657345_17904575829338525_1156330191537205293_n.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/jio-blackrock-amc-attracts-10-lakh-investors-18-first-time-participants/article70530860.ece",
+    "time": "2026-01-20T19:33:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When RGV said Rahman did not compose Oscar winning 'Jai Ho', Sukhwinder did",
+    "desc": "AR Rahman's recent 'communal' remark sparked debate, but an old Ram Gopal Varma interview about 'Jai Ho' has resurfaced. Varma claimed Sukhwinder Singh composed the iconic track, not Rahman. However, Sukhwinder Singh has since denied composing the song, stating he only sang it, contradicting Varma's viral account.",
+    "img": "https://static.toiimg.com/photo/msid-126853466,imgsize-279936.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-ram-gopal-varma-claimed-that-the-oscar-winning-song-jai-ho-was-not-composed-by-ar-rahman-but-sukhwinder-singh-who-got-rs-5-lakhs-for-it-the-singer-denied-it/articleshow/126847916.cms",
+    "time": "2026-01-20T19:04:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Not hesitant to commit to alliance with DMK, but discussions must begin, says Congress leader Girish Chodankar",
+    "desc": "Congress leader participates in the executive committee meeting of Tamil Nadu Congress Committee to discuss the preparatory work for the election campaign and the public rallies involving party leaders Mallikarjun Kharge, Rahul Gandhi and Priyanka Gandhi",
+    "img": "https://th-i.thgim.com/public/incoming/xwe9at/article70531024.ece/alternates/LANDSCAPE_1200/1559_20_1_2026_14_34_9_1_CNGA4.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/not-hesitant-to-commit-to-alliance-with-dmk-but-discussions-must-begin-says-congress-leader-girish-chodankar/article70529205.ece",
+    "time": "2026-01-20T18:53:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suniel Shetty's son Ahan calls Sunny Deol a 'father figure'",
+    "desc": "Ahan Shetty has expressed heartfelt admiration for Sunny Deol, calling the veteran actor a “father figure” in his life. Ahan, who will be seen sharing screen space with Sunny Deol in Border 2, said the respect he holds for the senior star also comes from the deep regard his father, Suniel Shetty, has for him. The film is slated to release in theatres on January 23.",
+    "img": "https://static.toiimg.com/photo/msid-126849510,imgsize-277304.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shettys-son-ahan-shetty-calls-sunny-deol-a-father-figure-ahead-of-border-2-release-my-father-calls-sunny-sir-sunny-paa/articleshow/126849299.cms",
+    "time": "2026-01-20T18:32:32.000Z"
+  },
+  {
     "cat": "World",
     "title": "Ursula von der Leyen",
     "desc": "President of the European Council, Antonio Costa and Ms. von der Leyen will be in India from January 25 to 27 to grace the Republic Day celebrations as chief guests and hold summit talks with Prime Minister Narendra Modi",
@@ -64,7 +163,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "SIR order was legislative, approach liberal, EC tells Supreme Court",
+    "title": "SIR order was legislative, approach liberal, Election Commission tells Supreme Court",
     "desc": "Countering attacks that the SIR did not have any statutory backing and the poll panel invented the procedure out of “thin air”, the EC said Article 324 provided it with the freedom to prepare the electoral roll",
     "img": "https://th-i.thgim.com/public/incoming/2idsej/article70530811.ece/alternates/LANDSCAPE_1200/PTI01_20_2026_000407A.jpg",
     "src": "thehindu.com",
@@ -100,7 +199,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Congress flags reports of journalists being summoned in J&K over ‘routine reporting’",
+    "title": "Summoning of journalists in J&K is a concern, says Congress",
     "desc": "AICC in-charge for Jammu and Kashmir, Syed Naseer Hussain, said a democratic society could not function if “the basic act of asking questions is treated as an act of defiance”. Congress flags reports of journalists being summoned in J&K over “routine reporting”",
     "img": "https://th-i.thgim.com/public/incoming/aogr66/article70530740.ece/alternates/LANDSCAPE_1200/12205_25_6_2025_17_38_42_5_26_CONGRESS_SGR_25_06_2025.JPG",
     "src": "thehindu.com",
@@ -315,24 +414,6 @@ const newsData_en = [
     "time": "2026-01-20T13:20:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Marriage isn’t the End of the road’: Manju Warrier",
-    "desc": "In her role as ambassador for the Kerala Women's Commission, Manju Warrier delivered a stirring message to women, urging them to follow their passions and dreams. She reminded her audience that tying the knot isn't the end of their journey.",
-    "img": "https://static.toiimg.com/photo/msid-126803045,imgsize-252784.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/manju-warrier-sends-across-powerful-message-at-kerala-womens-commission-campaign-marriage-isnt-the-end-of-the-road/articleshow/126803045.cms",
-    "time": "2026-01-20T13:04:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tovino Thomas' 'Pallichattambi' gets a release date",
-    "desc": "Mark your calendars for summer as Tovino Thomas embarks on an exhilarating journey in 'Pallichattambi,' hitting screens this summer! Under the direction of Dijo Jose Antony, viewers can expect a captivating glimpse into the 1950s-60s era, alongside Thomas’s dynamic transformation. With a star-laden lineup and a diverse language presentation, the anticipation for this cinematic delight is skyrocketing!",
-    "img": "https://static.toiimg.com/photo/msid-126801957,imgsize-422512.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/pallichattambi-tovino-thomas-shares-intense-motion-poster-confirms-summer-release-date/articleshow/126801957.cms",
-    "time": "2026-01-20T12:45:34.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "GRAP IV restrictions revoked; decision after slight improvement",
     "desc": "Delhi-NCR's air quality has seen improvement, leading the Commission for Air Quality Management to revoke GRAP-IV restrictions just three days after their re-imposition. While the 'severe+' category triggered the ban, stages I, II, and III of GRAP remain active. This move offers some relief from the stringent pollution control measures.",
@@ -349,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/kl-rahul-to-play-for-karnataka-in-ranji-trophy-nitish-kumar-reddy-confirms-availability-for-andhra-pradesh/articleshow/126799307.cms",
     "time": "2026-01-20T12:25:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SIR 'harassment': West Bengal districts erupt in protest; forces deployed",
-    "desc": "Protests erupted in West Bengal districts over alleged harassment during electoral roll revision, with roads blocked and tyres set ablaze. The Supreme Court stressed transparency in the process, while demonstrators claim genuine voters are being unfairly targeted with \"logical discrepancies\" notices. Authorities have increased force deployment in affected areas.",
-    "img": "https://static.toiimg.com/photo/msid-126799496,imgsize-445044.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sir-chaos-west-bengal-districts-erupt-in-protest-demonstrators-allege-harassment-forces-deployed/articleshow/126797012.cms",
-    "time": "2026-01-20T12:21:23.000Z"
   },
   {
     "cat": "Entertainment",
@@ -378,15 +450,6 @@ const newsData_en = [
     "time": "2026-01-20T12:11:23.000Z"
   },
   {
-    "cat": "Business",
-    "title": "China criticises US tariffs at World Economic Forum; promises wider opening of economy",
-    "desc": "China used its platform at the World Economic Forum in Davos to warn that trade and tariff wars help no one and risk deepening global economic tensions. Vice-Premier He Lifeng called for cooperation over isolation, saying China would open its economy further and focus on boosting domestic demand, even as global trade disputes escalate under US President Donald Trump’s expanded tariff policies.",
-    "img": "https://static.toiimg.com/photo/msid-126802253,imgsize-246154.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/no-winners-china-criticises-us-tariffs-at-world-economic-forum-promises-wider-opening-of-economy/articleshow/126797531.cms",
-    "time": "2026-01-20T12:03:05.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Dhoom' actress Rimi is a real estate agent in Dubai; opened up on botox, fillers",
     "desc": "Actress Rimi Sen, known for hits like 'Dhoom', has transitioned to real estate in Dubai. She praised Dubai's welcoming environment and business-friendly policies, contrasting them with India's complexities. Sen also addressed plastic surgery rumors, clarifying she's only had fillers and botox, and expressed openness to facelifts post-50.",
@@ -394,33 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhoom-actress-rimi-sen-is-now-a-real-estate-agent-in-dubai-looks-unrecognisable-in-latest-viral-video-heres-what-she-had-said-about-plastic-surgery-rumours/articleshow/126795578.cms",
     "time": "2026-01-20T11:51:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Laalo’ actor Shruhad says he is a Krishna devotee",
-    "desc": "Actor Shruhad Goswami, a real-life Krishna devotee, shared how the film 'Laalo – Krishna Sada Sahaayate' deepened his faith, with God appearing as a friend. Co-star Karan Joshi also opened up about overcoming self-doubt, emphasizing that giving up is never an option despite life's challenges.",
-    "img": "https://static.toiimg.com/photo/msid-126794246,imgsize-314448.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/gujarati/movies/news/laalo-actor-shruhad-goswami-says-he-is-a-krishna-devotee-shares-faith-behind-gods-portrayal-in-film/articleshow/126794528.cms",
-    "time": "2026-01-20T11:51:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Huma Qureshi is a naughty co-star': Shreyas Talpade",
-    "desc": "Shreyas Talpade discusses his portrayal of the over-enthusiastic salesman Sikander in 'Single Salma', highlighting the character's endearing nature and progressive outlook. He also shares his delightful experience working with co-star Huma Qureshi, praising her acting prowess and playful on-set antics. Talpade emphasizes the importance of authenticity, both on and off-screen, as a key takeaway from the role.",
-    "img": "https://static.toiimg.com/photo/msid-126794584,imgsize-217394.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/huma-qureshi-is-a-naughty-co-star-shreyas-talpade-reveals-his-single-salma-co-star-made-him-laugh-even-in-angry-scenes-exclusive/articleshow/126792102.cms",
-    "time": "2026-01-20T11:39:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Decision at right time': DK Shivakumar's brother namedrops Rahul Gandhi in CM row; Siddaramaiah puts it to 'high command’",
-    "desc": "Speculation over the Karnataka chief minister post continues. DK Shivakumar's brother said that Rahul Gandhi assured a decision would be made at an \"appropriate time\". Shivakumar is reportedly exercising restraint for party unity. The upcoming legislative session may offer clarity. Meanwhile, Chief Minister Siddaramaiah remains open to discussions in New Delhi.",
-    "img": "https://static.toiimg.com/photo/msid-126792644,imgsize-747970.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/decision-at-right-time-dk-shivakumars-brother-namedrops-rahul-gandhi-in-cm-row-siddaramaiah-puts-it-to-high-command/articleshow/126792453.cms",
-    "time": "2026-01-20T11:23:25.000Z"
   },
   {
     "cat": "Sports",
@@ -448,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/from-sania-mix-ups-to-sporting-immortality-farewell-saina-nehwal-indias-trailblazer/articleshow/126787048.cms",
     "time": "2026-01-20T11:04:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'A deal is a deal': EU chief pushes back as Trump threatens 100% tariffs over Greenland; calls punitive measures a 'mistake'",
-    "desc": "EU chief Ursula von der Leyen warned the US against imposing tariffs on European allies over Greenland, calling it a \"mistake\" that could damage partnerships. She emphasized that existing trade deals must be honored and offered increased European investment and cooperation on Arctic security, urging Europe to adapt to global changes.",
-    "img": "https://static.toiimg.com/photo/msid-126790227,imgsize-707991.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/a-deal-is-a-deal-eu-chief-pushes-back-as-trump-threatens-100-tariffs-over-greenland-calls-punitive-measures-a-mistake/articleshow/126790052.cms",
-    "time": "2026-01-20T11:01:40.000Z"
   },
   {
     "cat": "Business",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/air-india-singapore-airlines-sign-agreement-to-provide-travellers-more-air-routes-loyalty-benefits/article70514320.ece",
     "time": "2026-01-16T10:59:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Supreme Court to hear producer’s appeal on January 15",
-    "desc": "The Bench would hear KVN Productions’ challenge against the decision of a two-judge Bench of the High Court to stay a single judge’s order to issue U/A 16+ certificate to the film, hours after it was passed.",
-    "img": "https://th-i.thgim.com/public/incoming/bmfibj/article70510939.ece/alternates/LANDSCAPE_1200/Jana-Nayagan-GEEFDHS0C.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/sc-to-hear-jana-nayagan-producers-on-jan-15/article70510387.ece",
-    "time": "2026-01-14T15:48:43.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Is the government seeking phones’ source code?: Explained",
-    "desc": "What is the issue around the government seeking source code data from companies? What is source code, and why don’t companies want to give access to it? Will keeping the code open for review risk security threats and cyberattacks? What has the government said?",
-    "img": "https://th-i.thgim.com/public/incoming/60jr22/article70506746.ece/alternates/LANDSCAPE_1200/2026-01-13T131933Z_668809866_RC2QUGAJT58P_RTRMADP_3_INDIA-SMARTPHONES.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/is-the-government-seeking-phones-source-code-explained/article70506738.ece",
-    "time": "2026-01-14T03:00:00.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Centre proposes smartphone makers give source code in security overhaul",
-    "desc": "The plan is part of Prime Minister Narendra Modi's efforts to boost the security of user data as online fraud and data breaches increase in the world's second-largest smartphone market, with nearly 750 million phones",
-    "img": "https://th-i.thgim.com/public/news/national/zfwzrk/article70497391.ece/alternates/LANDSCAPE_1200/iStock-1225585631.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/india-proposes-forcing-smartphone-makers-to-give-source-code-in-security-overhaul/article70497338.ece",
-    "time": "2026-01-11T09:46:16.000Z"
   }
 ];
