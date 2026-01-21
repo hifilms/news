@@ -1,5 +1,194 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "How much 22K, 24K gold cost in Delhi, Mumbai &amp; other cities – Check rates",
+    "desc": "Gold futures reached a new all-time high on Wednesday, driven by a sharp rally in global prices as investors sought safe-haven assets amidst escalating trade war tensions and geopolitical uncertainty. Silver also continued its upward trend, scaling fresh record highs on the MCX. International gold prices breached the USD 4,800-per-ounce mark.",
+    "img": "https://static.toiimg.com/photo/msid-126979009,imgsize-730112.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-today-check-gold-rate-in-your-city-on-january-21-2026-delhi-mumbai-bangalore-chennai-kolkata-hyderabad-ahmedabad-jaipur-patna/articleshow/126978006.cms",
+    "time": "2026-01-21T11:33:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Moment when IAF plane 'force landed' in UP",
+    "desc": "An Indian Air Force trainer aircraft crash-landed in Prayagraj after an engine failure mid-air. The aircraft deployed an emergency parachute, allowing for a safe force-landing in an uninhabited area, with both pilots unharmed. This incident follows another aviation emergency earlier this month involving a regional connectivity flight.",
+    "img": "https://static.toiimg.com/photo/msid-126978523,imgsize-4636521.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/caught-on-cam-moment-when-iaf-plane-force-landed-in-up/articleshow/126978169.cms",
+    "time": "2026-01-21T11:31:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jackie Shroff eyes film with son Tiger soon",
+    "desc": "Veteran star Jackie Shroff revealed his long-held dream to collaborate with his son, Tiger Shroff, on film. Although both made appearances in 'Singham Again,' their roles kept them apart. Jackie underlined the necessity for a strong, engaging narrative that would unite them, a sentiment Tiger shares as he looks forward to the day they can finally act together.",
+    "img": "https://static.toiimg.com/photo/msid-126975187,imgsize-212212.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jackie-shroff-hopes-to-share-screen-with-son-tiger-shroff-i-want-it-to-happen-very-soon/articleshow/126975187.cms",
+    "time": "2026-01-21T11:09:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'Drawn to new ideas': Deepinder Goyal resigns as CEO of Zomato parent company Eternal",
+    "desc": "Zomato's parent company Eternal Limited CEO Deepinder Goyal is stepping down from his role, subject to shareholder approval, to pursue high-risk, experimental ideas outside the public company. He will transition to Vice Chairman on the board, with Albinder Dhindsa named as his successor.",
+    "img": "https://static.toiimg.com/photo/msid-126974073,imgsize-501326.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/drawn-to-set-of-new-ideas-deepinder-goyal-to-step-down-as-zomato-ceo-names-albinder-dhindsa-as-replacement/articleshow/126974073.cms",
+    "time": "2026-01-21T11:03:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "19 innings, no fifty: Is 'lap shot' behind SKY’s lean patch? Ex-cricketer decodes",
+    "desc": "Former pacer Varun Aaron believes Suryakumar Yadav's recent T20I struggles stem from shot selection and difficulty with slower deliveries. Aaron suggests batting Suryakumar at number four, similar to his IPL role, to improve his consistency and address concerns ahead of the T20 World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-126973316,imgsize-333004.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/19-innings-218-runs-no-fifty-is-the-lap-shot-behind-suryakumar-yadavs-lean-patch-former-cricketer-decodes/articleshow/126971191.cms",
+    "time": "2026-01-21T11:01:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Bangladesh court sets February 9 for charge framing",
+    "desc": "The case relates to allegations that Sheikh Hasina and several others took part in a virtual meeting of a group called the 'Joy Bangla Brigade', during which they allegedly plotted to overthrow the Muhammad Yunus-led interim government",
+    "img": "https://th-i.thgim.com/public/incoming/lh1xmj/article70533152.ece/alternates/LANDSCAPE_1200/2025-11-17T010305Z_710571786_RC2PZ3AIMVYV_RTRMADP_3_BANGLADESH-POLITICS-HASINA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/sedition-case-against-ousted-pm-hasina-bangladesh-court-sets-february-9-for-charge-framing/article70533112.ece",
+    "time": "2026-01-21T11:00:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mitchell dethrones Kohli to claim No.1 ODI ranking; Rohit slips to fourth",
+    "desc": "Daryl Mitchell has ascended to the top of the men's ODI batting rankings, surpassing Virat Kohli after a stellar series against India. Mitchell's consecutive centuries powered New Zealand's victory and earned him the No. 1 spot with 845 rating points. Ibrahim Zadran also climbed to third, while Glenn Phillips reached 20th.",
+    "img": "https://static.toiimg.com/photo/msid-126971613,imgsize-1050385.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/daryl-mitchell-dethrones-virat-kohli-to-claim-no-1-odi-ranking-as-rohit-sharma-slips-to-fourth/articleshow/126971316.cms",
+    "time": "2026-01-21T10:43:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Singer Saindhavi on music, films and life",
+    "desc": "Carnatic music performances at Chennai’s sabhas during the Margazhi season, and performing at actor Vijay’s ‘Jana Nayagan’ musical event in Malaysia. In an interview with ‘The Hindu’ for the ‘This Changed My Life’ video podcast, this popular singer talks about adapting to the needs of modern audiences. She also talks about her relationship with popular music composer GV Prakash after their official divorce in 2025, and how they co-parent their young daughter, Anvi.",
+    "img": "https://th-i.thgim.com/public/incoming/178ex8/article70533109.ece/alternates/LANDSCAPE_1200/Saindhavi-2.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-singer-saindhavi-on-music-films-and-life/article70533102.ece",
+    "time": "2026-01-21T10:41:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Dubai gold prices hit record high, surge Dh50 per gram in 2026: Should you buy now or wait?",
+    "desc": "Gold prices in the UAE are soaring in early 2026, mirroring global rallies driven by geopolitical unease and safe-haven demand. Dubai's gold market sees record highs, with 24-carat gold reaching AED 573.75 per gram. This surge reflects international financial trends, impacting local jewellery souks and attracting investors seeking stability amid market volatility.",
+    "img": "https://static.toiimg.com/photo/msid-126971033,imgsize-1080960.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/dubai-gold-prices-hit-record-high-surge-dh50-per-gram-in-2026-should-you-buy-now-or-wait/articleshow/126969430.cms",
+    "time": "2026-01-21T10:36:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "India’s solar sector is well positioned to handle U.S. exit from ISA: The Climate Economy",
+    "desc": "The United States of America had announced it would be pulling out of several international climate organisations, including the International Solar Alliance (ISA). This rang alarm bells. Will this have a big impact on India? Will the cost of solar power rise in India? Will jobs be affected? We look at the economics of it.",
+    "img": "https://th-i.thgim.com/public/incoming/w89w10/article70533062.ece/alternates/LANDSCAPE_1200/Climate%20Economy%20Thumbnail.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/indias-solar-sector-is-well-positioned-to-handle-us-exit-from-isa-the-climate-economy/article70533060.ece",
+    "time": "2026-01-21T10:30:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Affordability, tax rationalisation &amp; more; here's what the sector wants",
+    "desc": "The real estate sector is anticipating Budget 2026 to bring policy continuity, targeted fiscal measures, and long-pending reforms. Industry leaders are seeking measures to address housing affordability, boost urban growth, improve capital access, and expedite regulatory approvals to sustain market confidence and long-term investment.",
+    "img": "https://static.toiimg.com/photo/msid-126969927,imgsize-125312.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-real-estate-expectations-affordability-tax-rationalisation-more-heres-what-the-sector-wants/articleshow/126966559.cms",
+    "time": "2026-01-21T10:23:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar' box office day 48 (LIVE)",
+    "desc": "'Dhurandhar' continues its record-breaking streak, now surpassing 'Stree 2' for the 7th-week box office record. The film's phenomenal run has seen it top charts for multiple weeks, solidifying its status as an All-Time Blockbuster with a worldwide collection exceeding Rs 1285 crore.",
+    "img": "https://static.toiimg.com/photo/msid-126969756,imgsize-241504.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-48-live-the-ranveer-singh-akshaye-khanna-starrer-shatters-7th-week-record-of-stree-2-slows-down-with-sunny-deols-border-2-advance-bookings-picking-up/articleshow/126968275.cms",
+    "time": "2026-01-21T10:21:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Pata nahi kab khelne ko milega': Samson breaks silence on missed chances",
+    "desc": "Sanju Samson, India's first-choice keeper for the 2026 T20 World Cup, reflects on his decade-long journey marked by failures and successes. Having returned to his preferred opening role, Samson emphasizes his fearless approach and the importance of his bond with captain Suryakumar Yadav. He remains driven by a hunger to contribute positively.",
+    "img": "https://static.toiimg.com/photo/msid-126969193,imgsize-76414.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/pata-nahi-kab-khelne-ko-milega-sanju-samson-breaks-silence-on-missed-chances-and-constant-insecurity-watch/articleshow/126968795.cms",
+    "time": "2026-01-21T10:19:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan offers to host Bangladesh's T20 WC matches amid standoff with India",
+    "desc": "Pakistan has offered to host Bangladesh's T20 World Cup matches, backing Dhaka's refusal to play in India due to security concerns. The ICC is set to decide Bangladesh's participation amid ongoing talks. Bangladesh insists on shifting venues, while the ICC prefers the original schedule. This standoff follows recent IPL-related directives impacting Bangladeshi players.",
+    "img": "https://static.toiimg.com/photo/msid-126967271,imgsize-301216.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/mustafizur-rahman-row-pakistan-offers-to-host-bangladeshs-t20-world-cup-matches-amid-venue-standoff-with-india/articleshow/126967978.cms",
+    "time": "2026-01-21T10:14:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When Sachin's childhood idol became first to be disqualified from Grand Slam",
+    "desc": "At the 1990 Australian Open, tennis icon John McEnroe was disqualified from his fourth-round match, becoming the first player in the Open Era to be defaulted from a Grand Slam for triple court violations. This infamous incident occurred on January 21, marking a significant moment in tennis history.",
+    "img": "https://static.toiimg.com/photo/msid-126968189,imgsize-194368.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/australian-open-when-sachin-tendulkars-childhood-idol-became-the-first-to-be-disqualified-from-a-grand-slam/articleshow/126966491.cms",
+    "time": "2026-01-21T10:14:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "O’Romeo trailer: Shahid embarks on murderous rampage",
+    "desc": "Shahid Kapoor’s ‘O’Romeo’ trailer dropped Wednesday, blending Vishal Bhardwaj’s Mumbai Western with gore. He plays Haseen Ustara, falling for Triptii Dimri’s Afsha amid gang wars. Cast includes Avinash Tiwary, Disha Patani. Fourth Shahid-Vishal collab. Releases Feb 13 vs ‘Tu Yaa Main’.",
+    "img": "https://static.toiimg.com/photo/msid-126968825,imgsize-126652.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/oromeo-trailer-out-shahid-kapoor-embarks-on-murderous-rampage-as-a-bloody-anti-hero-in-vishal-bhardwajs-action-drama/articleshow/126968825.cms",
+    "time": "2026-01-21T10:14:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bhumi Pednekar draws praise for restraint",
+    "desc": "In the captivating teaser for 'Daldal', Bhumi Pednekar assumes the role of DCP Rita Ferreira, navigating the murky waters of a crime thriller set against the vibrant backdrop of Mumbai. The film expertly crafts suspense, showcasing the emotional strain on those embroiled in the hunt for a serial killer.",
+    "img": "https://static.toiimg.com/photo/msid-126968481,imgsize-261000.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/daldal-trailer-shows-bhumi-pednekar-plays-a-gritty-cop-caught-in-a-dark-and-intense-crime-thriller-watch/articleshow/126968481.cms",
+    "time": "2026-01-21T10:13:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tamannaah Bhatia’s Spain workout proves simple strength works",
+    "desc": "Tamannaah Bhatia's dynamic training sessions in Spain highlights the power of functional fitness. With a spotlight on controlled squats and simple running drills, her regimen requires no fancy equipment. Fitness experts emphasize that building lower-body strength isn’t just for looks; it’s essential for everyday movements, enhancing balance, and preventing injuries.",
+    "img": "https://static.toiimg.com/photo/msid-126967402,imgsize-184800.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raid-actress-tamannaah-bhatias-spain-workout-shows-why-simple-strength-still-works/articleshow/126967402.cms",
+    "time": "2026-01-21T10:05:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What is Union Budget? Meaning, importance and process explained",
+    "desc": "India's Union Budget, a crucial financial blueprint, is set for presentation on February 1. This annual statement, mandated by the Constitution, details government receipts and expenditures. The Lok Sabha holds primary authority over its passage, with the Rajya Sabha offering recommendations. The budget significantly impacts resource allocation, economic direction, and citizen finances.",
+    "img": "https://static.toiimg.com/photo/msid-126967658,imgsize-880540.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/what-is-union-budget-meaning-importance-and-process-explained/articleshow/126966056.cms",
+    "time": "2026-01-21T10:04:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Cabinet extends Atal Pension Yojana till FY31; funding support to continue for outreach &amp; gap needs",
+    "desc": "The Union Cabinet has approved the continuation of the Atal Pension Yojana until FY 2030-31. This decision includes extended government funding for promotional and developmental activities. The move aims to strengthen old-age income security for unorganised sector workers.",
+    "img": "https://static.toiimg.com/photo/msid-126966155,imgsize-483699.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/pension-boost-cabinet-extends-atal-pension-yojana-till-fy31-funding-support-to-continue-for-outreach-gap-needs/articleshow/126965646.cms",
+    "time": "2026-01-21T09:52:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "The go-to director for Telugu cinema’s senior stars",
+    "desc": "Filmmaker Anil Ravipudi is redefining success for veteran Telugu stars by crafting roles that embrace their age, not fight it. His recent hits like 'Bhagavanth Kesari,' 'Sankranthiki Vasthunam,' and 'Mana Shankaar Varu Prasad Garu' prove that mature actors can deliver box-office triumphs by blending star power with relatable narratives and clean humor, captivating audiences across generations.",
+    "img": "https://static.toiimg.com/photo/msid-126965677,imgsize-21400.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/anil-ravipudi-the-go-to-director-for-telugu-cinemas-senior-stars/articleshow/126965561.cms",
+    "time": "2026-01-21T09:51:28.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "what we know so far",
     "desc": "The uncovered pit, fed by rainwater and drains and lying just off a well-developed road with no barricades and an almost 90-degree turn, had become a serious hazard long before the crash that claimed Yuvraj Mehta’s life.",
@@ -7,15 +196,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/uttar-pradesh/noida-techie-death-what-we-know-so-far/article70532552.ece",
     "time": "2026-01-21T09:17:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'Make in India' boost: Customs duty on electronics increased to 20%; govt aims to boost locally manufactured goods",
-    "desc": "India has boosted domestic electronics manufacturing by revising customs duties. The government increased the duty on flat panel displays to 20% while lowering it on key components to 5%. This move aims to strengthen local production, mirroring the success seen in the smartphone sector, and foster a self-reliant display manufacturing ecosystem.",
-    "img": "https://static.toiimg.com/photo/msid-126960672,imgsize-196742.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/make-in-india-boost-customs-duty-on-electronics-increased-to-20-govt-aims-to-boost-locally-manufactured-goods/articleshow/126958204.cms",
-    "time": "2026-01-21T09:05:34.000Z"
   },
   {
     "cat": "Politics",
@@ -97,15 +277,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-in-conversation-with-comedian-abish-mathew/article70532594.ece",
     "time": "2026-01-21T07:46:42.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Here are the top 10 gainers and losers on NSE, BSE",
-    "desc": "Indian stock markets traded mostly lower on Wednesday, with benchmark indices Sensex and Nifty experiencing significant early declines due to geopolitical tensions and foreign fund outflows. While both indices pared some losses by midday, they remained in the red. Global markets also showed weakness, with Asian equities mostly down and US markets closing sharply lower overnight.",
-    "img": "https://static.toiimg.com/photo/msid-126950974,imgsize-93070.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-here-are-the-top-10-gainers-and-losers-on-nse-bse-january-21-2026-check-list/articleshow/126948189.cms",
-    "time": "2026-01-21T07:41:45.000Z"
   },
   {
     "cat": "Sports",
@@ -243,15 +414,6 @@ const newsData_en = [
     "time": "2026-01-21T06:26:56.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Who slid into the DMs of 'Heated Rivalry' Star François Arnaud?",
-    "desc": "In a delightful revelation from the glamorous world of Hollywood, 'Heated Rivalry' star François Arnaud opened up on 'Watch What Happens Live' about a memorable encounter with Oscar-winning actress Helen Hunt. She took the initiative to slide into his Instagram DMs, showering him with praise for his striking work in the acclaimed LGBTQ+ hockey drama.",
-    "img": "https://static.toiimg.com/photo/msid-126941214,imgsize-219092.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/heated-rivalry-star-franois-arnaud-reveals-the-actress-who-slid-into-his-dms/articleshow/126941033.cms",
-    "time": "2026-01-21T06:18:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Bachchan’s brainchild draws Waugh, Maxwell, Dwyer",
     "desc": "With cricket set to return to the Olympics, the European T20 Premier League, backed by the cricket's governing body ICC, aims to transform associate cricket by bringing elite global stars to Europe. Backed by Bollywood actor Abhishek Bachchan and featuring names like Steve Waugh, Mitchell Santner and Glenn Maxwell, ETPL offers exposure, credibility and development opportunities across Scotland, Ireland and the Netherlands.",
@@ -279,15 +441,6 @@ const newsData_en = [
     "time": "2026-01-21T06:12:11.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sabrina Carpenter to perform at the Grammy Awards 2026",
-    "desc": "Sabrina Carpenter is ready to set the Grammy Awards 2026 alight as the first confirmed performer. This will be her second turn on the iconic stage, following her show-stopping debut in 2025. With six nominations to her name, including the coveted Album of the Year, Carpenter is a force to be reckoned with.",
-    "img": "https://static.toiimg.com/photo/msid-126939983,imgsize-261330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/grammy-awards-2026-sabrina-carpenter-set-to-perform-at-musics-biggest-night/articleshow/126939983.cms",
-    "time": "2026-01-21T06:09:55.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "13,479 ft of stupidity: Haryana man pastes 'Gurjar' sticker on BRO milestone in Ladakh; video sparks outrage",
     "desc": "A tourist from Haryana has ignited public fury after defacing a Border Roads Organisation milestone at Ladakh's Fotu La Pass by pasting a caste sticker. The act, captured on video, has been widely condemned as vandalism and irresponsible behaviour in a sensitive border region, prompting calls for strict action against the individual.",
@@ -295,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/13479-ft-of-stupidity-haryana-man-pastes-gurjar-sticker-on-bro-milestone-in-ladakh-video-sparks-outrage/articleshow/126938835.cms",
     "time": "2026-01-21T06:09:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jennifer Lawrence reveals her wildest nicknames!",
-    "desc": "Jennifer Lawrence hilariously revealed her wildest nicknames on a recent podcast, including 'Floffin' and 'Nitro,' stemming from her energetic childhood. Friends also playfully call her 'Ken' from the Barbie movie. These quirky labels highlight her enduring, relatable personality amidst her busy life as a mother and Hollywood star.",
-    "img": "https://static.toiimg.com/photo/msid-126940086,imgsize-539188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-lawrence-spills-her-most-unhinged-nicknames-and-its-peak-j-law-chaos/articleshow/126940112.cms",
-    "time": "2026-01-21T06:09:02.000Z"
   },
   {
     "cat": "Politics",
@@ -322,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/saina-nehwal-exclusive-those-goosebumps-will-never-fade-2012-olympic-glory-and-an-emotional-goodbye/articleshow/126937549.cms",
     "time": "2026-01-21T05:59:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Border 2' crosses Rs 6 crore in advance bookings",
-    "desc": "Sunny Deol's 'Border 2' is off to a strong start, crossing Rs 6 crore in advance bookings on its first day. The patriotic film, releasing for the Republic Day weekend, has sold over 1.05 lakh tickets. Distributors are ensuring an aggressive release, especially in North India, with single screens exclusively dedicated to the movie for two weeks.",
-    "img": "https://static.toiimg.com/photo/msid-126934448,imgsize-411306.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-advance-booking-day-1-sunny-deol-starrer-off-to-a-good-start-crosses-rs-6-crore-mark-ahead-of-republic-day-weekend/articleshow/126934004.cms",
-    "time": "2026-01-21T05:52:48.000Z"
   },
   {
     "cat": "Politics",
@@ -360,15 +495,6 @@ const newsData_en = [
     "time": "2026-01-21T05:27:46.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Priyanka Chopra shares her milestones with 2016 trend",
-    "desc": "Priyanka Chopra Jonas reminisced about her monumental year in 2016, a period of immense personal and professional growth. She shared highlights including receiving the Padma Shri, her international breakthrough with 'Quantico', 'Baywatch' filming, and her first American magazine cover. The actress also celebrated her first People's Choice Award, attending the White House Correspondents' Dinner, and gracing the Oscars.",
-    "img": "https://static.toiimg.com/photo/msid-126933073,imgsize-279782.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-joins-the-2016-trend-flexes-her-major-achievement-fans-react-woman-had-her-best-year/articleshow/126933073.cms",
-    "time": "2026-01-21T05:17:49.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Markets mostly in red ahead of Trump's Davos speech; Nikkei falls 280 points, HSI flat",
     "desc": "Asian markets tumbled Wednesday, mirroring a sharp US sell-off and escalating geopolitical tensions. Investors grew anxious as US foreign policy concerns and a Danish pension fund's exit from Treasuries unsettled global bond markets. Gold, however, reached an all-time high amid the growing unease and potential for further market disruptions.",
@@ -385,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/etimes/trending/mark-carney-net-worth-2026-how-rich-is-the-canadian-pm-truth-about-his-wealth-that-is-turning-heads/articleshow/126924547.cms",
     "time": "2026-01-21T04:54:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'No sense': Pakistan questioned for halting WC prep in support of B'desh",
-    "desc": "Reports claiming Pakistan has halted T20 World Cup 2026 preparations in support of Bangladesh have been dismissed by former cricketers. Kamran Akmal called the idea illogical, stressing no official PCB or government statement exists. Basit Ali said any decision depends on the government and noted broadcasters would oppose withdrawal, especially due to the India–Pakistan match. The issue stems from Bangladesh’s refusal to play in India over security concerns.",
-    "img": "https://static.toiimg.com/photo/msid-126927272,imgsize-302948.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/makes-no-sense-former-cricketer-questions-reports-of-pakistan-halting-t20-world-cup-prep-in-support-of-bangladesh/articleshow/126923535.cms",
-    "time": "2026-01-21T04:30:41.000Z"
   },
   {
     "cat": "Politics",
@@ -415,16 +532,7 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "'Grow baby, grow' is U.S. G20 priority, says Bessent",
-    "desc": "U.S. President Donald Trump is expected to dominate the week-long gathering of global elites at the Swiss ski resort, putting the transatlantic alliance to the test with his push to take over the Danish autonomous territory",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/world-economic-forum-2026-davos-trump-live-updates-january-2026/article70531974.ece",
-    "time": "2026-01-21T04:03:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "A new low for rupee! Currency falls 23 paise in early trade; reaches 91.20 against US dollar",
+    "title": "A new low for rupee! Currency falls over 60 paise; reaches 91.74 against US dollar",
     "desc": "The Indian rupee hit a new low of 91.20 against the US dollar on Wednesday, extending its downward trend. This depreciation is attributed to strong dollar demand from metal importers, continued foreign fund outflows, and geopolitical uncertainties. The domestic stock market's sluggish performance also contributed to the rupee's decline.",
     "img": "https://static.toiimg.com/photo/msid-126921487,imgsize-1351521.cms",
     "src": "indiatimes.com",
@@ -443,7 +551,7 @@ const newsData_en = [
   {
     "cat": "Business",
     "title": "Nifty50 trades below 25,100; BSE Sensex down over 690 points",
-    "desc": "Indian equity benchmarks Nifty50 and BSE Sensex opened lower on Wednesday, mirroring global weakness driven by escalating US-Europe trade tensions and Trump's policies. Analysts anticipate a short-term technical rebound due to oversold conditions, advising caution and a wait-and-watch approach for stability.",
+    "desc": "In a dynamic turn of events on Wednesday, the Indian stock markets, represented by Nifty50 and Sensex, ended in the red. Profit booking was the order of the day as weak global signals and a wary market mood prevailed. Banking, financial services, and automotive stocks faced significant declines, although a few major companies offered some relief.",
     "img": "https://static.toiimg.com/photo/msid-126915145,imgsize-481472.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-january-21-2026-dalal-street-indian-equities-global-markets-donald-trump-tariffs/articleshow/126914358.cms",
@@ -459,24 +567,6 @@ const newsData_en = [
     "time": "2026-01-21T03:47:42.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Why do we praise Rohit and Dhoni?'",
-    "desc": "India’s ODI series loss to New Zealand has put captain Shubman Gill’s leadership under scrutiny. Former spinner R Ashwin said India lacked clarity in using bowling resources during crucial middle overs. Comparing Gill to Rohit Sharma and MS Dhoni, Ashwin felt India failed to apply timely pressure, questioned Kuldeep Yadav’s limited use, and suggested Gill appeared cautious under pressure with no clear backup plan.",
-    "img": "https://static.toiimg.com/photo/msid-126920508,imgsize-284740.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/why-do-we-praise-rohit-sharma-and-ms-dhoni-shubman-gills-captaincy-under-fire-after-ind-vs-nz-odi-series-loss/articleshow/126918546.cms",
-    "time": "2026-01-21T03:40:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Meet Arunachal, undaunted despite crushing defeats",
-    "desc": "Bihar's record-breaking 574/6 against Arunachal Pradesh in the Vijay Hazare Trophy highlights cricket's burgeoning presence in the latter state. Despite a recent entry into domestic cricket, Arunachal's players like Nabam Abo and Techi Doria are dedicated to improving, seeking professional training and advocating for a dedicated stadium to foster future talent and elevate their game.",
-    "img": "https://static.toiimg.com/photo/msid-126919584,imgsize-211068.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/meet-arunachal-undaunted-despite-crushing-defeats/articleshow/126918882.cms",
-    "time": "2026-01-21T03:32:35.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Wall Street tumbles! Dow sheds 850 points, S&amp;P 500 slips 2% — Here's how Trump's Greenland bid impacted US stocks",
     "desc": "Global markets experienced a significant downturn Tuesday, with US indices suffering their worst day in three months following President Trump's new tariff threats against Europe. This sparked a broad sell-off, pushing gold higher and impacting Bitcoin. Indian markets also mirrored the global decline, with both Nifty and Sensex falling over 1%.",
@@ -484,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/wall-street-tumbles-dow-sheds-850-points-sp-500-slips-2-heres-how-trumps-greenland-bid-impacted-us-stocks/articleshow/126912505.cms",
     "time": "2026-01-21T03:28:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI likely to drop A+ category; question mark over Virat, Rohit grades",
-    "desc": "Indian cricket's elite players face a potential hierarchy shift as the BCCI considers scrapping the Grade A+ category for the 2025-26 season. This move could impact stalwarts like Virat Kohli and Rohit Sharma, with discussions underway regarding revised pay structures and player placements across A, B, and C grades.",
-    "img": "https://static.toiimg.com/photo/msid-126915454,imgsize-62212.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-likely-to-drop-a-category-in-new-central-contracts-question-mark-over-virat-kohli-rohit-sharma-grades/articleshow/126914711.cms",
-    "time": "2026-01-21T03:02:19.000Z"
   },
   {
     "cat": "World",
@@ -522,15 +603,6 @@ const newsData_en = [
     "time": "2026-01-21T02:18:26.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Union minister rules out trade talks at WEF; assures New Delhi's engagement on other fronts",
-    "desc": "Union Minister Ashwini Vaishnaw clarified that the World Economic Forum in Davos serves as a platform for idea exchange, not formal trade negotiations. India is actively engaged with global economies on various fronts, and its economic growth and renewable energy initiatives are key discussion points at the event.",
-    "img": "https://static.toiimg.com/photo/msid-126908360,imgsize-471653.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-in-davos-union-minister-rules-out-trade-talks-at-wef-assures-new-delhis-engagement-on-other-fronts/articleshow/126904478.cms",
-    "time": "2026-01-21T02:06:41.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "The darker side of Madras in the 1860s",
     "desc": "Prison life today is often spoken of in hushed terms, where those inside manage to get what they want, from narcotics to deadly weapons. It is interesting that it was no different in the 1860s.",
@@ -541,7 +613,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "On the approach, outlook of Tamil Nadu’s Scheduled Caste leaders in late 1940s",
+    "title": "On the approach and outlook of Tamil Nadu’s Scheduled Caste leaders in late 1940s",
     "desc": "In the 1946 elections to various provinces, the Congress demonstrated its superiority over the Scheduled Castes Federation (SCF) founded by B.R. Ambedkar. In the erstwhile Madras Presidency, the party bagged 27 out of 30 seats allotted to SCs.",
     "img": "https://th-i.thgim.com/public/incoming/u8f5av/article70530808.ece/alternates/LANDSCAPE_1200/HP87687.jpg",
     "src": "thehindu.com",
@@ -556,24 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/chennai/iconic-annual-tourism-trade-fair-at-chennai-island-grounds-turns-50/article70530279.ece",
     "time": "2026-01-21T00:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Are you sure?'",
-    "desc": "Bangladesh captain Litton Das questioned his team’s T20 World Cup participation after Rangpur Riders’ BPL exit, criticising slow pitches and saying, “Are you sure we are going to play in the World Cup?” He confirmed the BCB has not discussed the issue with him. The uncertainty follows Bangladesh rejecting ICC conditions to play in India, amid an unresolved venue dispute and a looming February 7 tournament start.",
-    "img": "https://static.toiimg.com/photo/msid-126831703,imgsize-200036.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/are-you-sure-bangladesh-captain-litton-das-makes-shocking-t20-world-cup-admission/articleshow/126831259.cms",
-    "time": "2026-01-20T23:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'You'll struggle to remember': Manjrekar after India's ODI series defeat",
-    "desc": "Sanjay Manjrekar defended coach Gautam Gambhir after India’s ODI series loss to New Zealand, urging fans not to overreact. He said bilateral ODIs hold little value today and are often forgotten quickly. Manjrekar stressed that only World Cups truly matter in 50-over cricket and that poor results in smaller series can help teams reset before major tournaments.",
-    "img": "https://static.toiimg.com/photo/msid-126840555,imgsize-54292.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/youll-struggle-to-remember-sanjay-manjrekar-explains-world-cup-theory-after-indias-odi-series-defeat-to-new-zealand/articleshow/126837798.cms",
-    "time": "2026-01-20T23:30:00.000Z"
   },
   {
     "cat": "World",
@@ -612,24 +666,6 @@ const newsData_en = [
     "time": "2026-01-20T22:53:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CAT quashes CBIC charges against Sameer Wankhede",
-    "desc": "The Central Administrative Tribunal has cleared IRS officer Sameer Wankhede of disciplinary charges. The tribunal found the charges framed by the Central Board of Indirect Taxes and Customs to be retaliatory. It observed that the action appeared to be an attempt to stall Wankhede's promotion.",
-    "img": "https://static.toiimg.com/photo/msid-126883443,imgsize-16168.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cat-quashes-cbic-charges-against-sameer-wankhede/articleshow/126883009.cms",
-    "time": "2026-01-20T22:43:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Will ensure senior US officials visit India regularly",
-    "desc": "US Ambassador Sergio Gor pledged regular visits by senior US officials to India to elevate their partnership. This follows a productive visit by Senator Steve Daines, who met with Indian ministers and business leaders. Daines advocated for Montana's pulse crop farmers, urging favorable provisions in future trade agreements with India, the world's largest consumer.",
-    "img": "https://static.toiimg.com/photo/msid-126882685,imgsize-1020072.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/us-ambassador-sergio-gor-will-ensure-senior-us-officials-visit-india-regularly/articleshow/126882218.cms",
-    "time": "2026-01-20T22:38:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India Women to travel to South Africa for five-match T20I series",
     "desc": "The series will open with two matches at Durban's Kingsmead on April 17 and 19 before moving to the DP World Wanderers Stadium in Johannesburg for the third and fourth T20Is on April 22 and 25",
@@ -637,33 +673,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/india-women-to-travel-to-south-africa-for-five-match-t20i-series/article70531219.ece",
     "time": "2026-01-20T22:38:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold tops 1.5L/10gm, silver above Rs 3L/kg",
-    "desc": "Gold and silver prices surged to record highs on Tuesday, both domestically and internationally. This surge was attributed to an uncertain political and economic climate, a weaker dollar, and increasing industrial demand for silver. Analysts suggest that potential interest rate cuts by the US Federal Reserve could further fuel this upward trend in bullion prices.",
-    "img": "https://static.toiimg.com/photo/msid-126869283,imgsize-891665.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-tops-1-5l/10gm-silver-above-rs-3l/kg/articleshow/126869025.cms",
-    "time": "2026-01-20T21:07:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee feels geopolitical heat, breaches 91 level against $",
-    "desc": "The Indian rupee dipped to a one-month low against the dollar on Tuesday, closing at 90.98. This marks the fifth consecutive session of weakening, fueled by escalating geopolitical tensions and a downturn in domestic equity markets. Despite efforts to prevent a record low, persistent dollar demand and global uncertainty continue to pressure the currency.",
-    "img": "https://static.toiimg.com/photo/msid-126868742,imgsize-51592.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-feels-geopolitical-heat-breaches-91-level-against-/articleshow/126868634.cms",
-    "time": "2026-01-20T21:04:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Chinese Wok owner to take over Burger King operator",
-    "desc": "Inspira Global, owner of Chinese Wok, is acquiring Restaurant Brands Asia (RBA), the operator of Burger King India. This significant deal sees Everstone Capital exiting RBA with a Rs 460 crore stake sale. Inspira plans substantial capital infusion, aiming to bolster its presence in the fast-growing quick-service restaurant sector and expand its brand portfolio.",
-    "img": "https://static.toiimg.com/photo/msid-126868462,imgsize-49192.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/chinese-wok-owner-to-take-over-burger-king-operator/articleshow/126868388.cms",
-    "time": "2026-01-20T21:02:24.000Z"
   },
   {
     "cat": "World",
@@ -691,15 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/jio-blackrock-amc-attracts-10-lakh-investors-18-first-time-participants/article70530860.ece",
     "time": "2026-01-20T19:33:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Not hesitant to commit to alliance with DMK, but discussions must begin, says Congress leader Girish Chodankar",
-    "desc": "Congress leader participates in the executive committee meeting of Tamil Nadu Congress Committee to discuss the preparatory work for the election campaign and the public rallies involving party leaders Mallikarjun Kharge, Rahul Gandhi and Priyanka Gandhi",
-    "img": "https://th-i.thgim.com/public/incoming/xwe9at/article70531024.ece/alternates/LANDSCAPE_1200/1559_20_1_2026_14_34_9_1_CNGA4.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/not-hesitant-to-commit-to-alliance-with-dmk-but-discussions-must-begin-says-congress-leader-girish-chodankar/article70529205.ece",
-    "time": "2026-01-20T18:53:16.000Z"
   },
   {
     "cat": "World",
@@ -891,12 +891,12 @@ const newsData_en = [
     "time": "2026-01-19T05:53:00.000Z"
   },
   {
-    "cat": "World",
-    "title": "Trump says ‘it will be done’ on getting ‘Russian threat’ away from Greenland",
-    "desc": "“NATO has been telling Denmark, for 20 years, that “you have to get ​Russian threat away from Greenland.” ⁠Unfortunately, Denmark has been unable to do anything about it,” Mr. Trump wrote in a post on ​the social media ⁠website he owns called Truth Social",
-    "img": "https://th-i.thgim.com/public/incoming/9a5irj/article70524323.ece/alternates/LANDSCAPE_1200/EU-warns-againsGRAFF5HN7.3.jpg.jpg",
+    "cat": "Sports",
+    "title": "Collective success is King’s catalyst",
+    "desc": "The leg-spinner is quick to shift focus on team work when individual performances are discussed; she feels being a late entrant to the national side has been a blessing in disguise, is looking forward to her stint at the WPL, passing her knowledge to youngsters",
+    "img": "https://th-i.thgim.com/public/incoming/3kpupo/article70523174.ece/alternates/LANDSCAPE_1200/ALANA.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-says-it-will-be-done-on-getting-russian-threat-away-from-greenland/article70524316.ece",
-    "time": "2026-01-19T05:15:23.000Z"
+    "url": "https://www.thehindu.com/sport/collective-success-is-kings-catalyst/article70523175.ece",
+    "time": "2026-01-18T18:32:50.000Z"
   }
 ];

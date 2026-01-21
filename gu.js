@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "3.25 સુધી ફિટમેન્ટ ફોર્મ્યુલા,  5% ઈન્ક્રીમેન્ટ.... આઠમાં પગાર પંચમાં મળશે ભેટ?",
+    "desc": "ફેડરેશન ઓફ નેશનલ પોસ્ટલ ઓર્ગેનાઇઝેશન એટલે કે એફએનપીઓનું કહેવું છે કે સંગઠને 3.0થી 3.25 સુધી અલગ-અલગ ફિટમેન્ટ ફેક્ટરનું સૂચન કર્યું છે. આ સિવાય એફએનપીઓએ વર્તમાન 3 ટકા વાર્ષિક પગાર વધારાને વધારી 5 ટકા કરવાની માગ કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-fitment-factor-above-3-and-5-percent-annual-increment-demand-raised-462415 ",
+    "time": "2026-01-21T10:29:53.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "EPFO 3.0: બેંક એકાઉન્ટની જેમ ઉપાડી શકશો PFના પૈસા! AIથી 24 કલાકમાં ક્લેમ થશે સેટલ",
     "desc": "એવું લાગે છે કે EPFO એ તેના સભ્યોને સમયાંતરે સરપ્રાઈઝ આપવાની યોજના બનાવી રાખી છે. લિબરલાઈઝ્ડ વિડ્રોઅલ નિયમોની જાહેરાત અને UPI-લિંક્ડ સુવિધા શરૂ કરવાના પ્રસ્તાવ બાદ, EPFO હવે વધુ સારા સુધારા સાથે EPFO 3.0 લોન્ચ કરવાની તૈયારી કરી રહ્યું છે. જાણો તેમાં કઈ સુવિધાઓ હશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -279,15 +288,6 @@ const newsData_gu = [
     "time": "2026-01-19T11:48:52.000Z"
   },
   {
-    "cat": "Business",
-    "title": "હોમ લોન જલ્દી ચુકવવાની સૌથી સ્માર્ટ ફોર્મ્યુલા, રીપેમેન્ટની આ ટ્રિક્સ બદલી દેશે તમારી લાઇફ",
-    "desc": "દર મહિને EMI ભરતા-ભરતા તમને લાગે છે કે હોમ લોન તમારા જીવનને કંટ્રોલ કરી રહી છે, તો તમે એકલા નથી. પરંતુ શું ખરેખર 20-25 વર્ષ સુધી EMI આપવો જરૂરી છે? કેટલાક સ્માર્ટ નિર્ણય અને સાચી રણનીતિ અપનાવી તમે આ ભારમાંથી જલ્દી છુટકારો મેળવીશકો છો. આવો તેના વિશે જાણીએ..",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/smartest-formula-for-paying-off-your-home-loan-quickly-these-repayment-tricks-can-change-your-life-462196 ",
-    "time": "2026-01-19T09:19:16.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "બોર્ડર ફિલ્મ આ ઓટીટી પ્લેટફોર્મ પર થઈ રહી છે સ્ટ્રીમ, દેશભક્તિની યાદ કરી લો તાજી",
     "desc": "દેશભક્તિની ફિલ્મો માટે 90 નો દાયકો ગોલ્ડન એરા હતો. જેમાં સૌથી બેસ્ટ ફિલ્મ હતી બોર્ડર. ગણતરીના દિવસોમાં બોર્ડર 2 ફિલ્મ રિલીઝ થવાની છે ત્યારે મેકર્સે સની દેઓલની દમદાર ફિલ્મ બોર્ડર ઓટીટી પર સ્ટ્રીન કરી દીધી છે. જેથી ચાહકો ફરી એકવાર દેશભક્તિની યાદો તાજી કરી શકે.",
@@ -520,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/from-salman-khan-to-rashmika-mandanna-these-stars-broke-engagements-before-marriage-461370 ",
     "time": "2026-01-12T02:54:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "AIનું તોફાન પણ નહીં હચમચાવી શકે આ નોકરીઓના પાયા, 2026માં આ નોકરીઓની રહેશે ખૂબ માંગ",
-    "desc": "આર્ટિફિશિયલ ઇન્ટેલિજન્સ (AI) અને ઝડપથી બદલાતી ટેકનોલોજીએ નોકરી બજારમાં નોંધપાત્ર પરિવર્તન લાવ્યું છે. ઘણી કંપનીઓ હવે કામ ઝડપી અને સસ્તું બનાવવા માટે AIનો ઉપયોગ કરી રહી છે. આના કારણે ભવિષ્યમાં મશીનો માનવ નોકરીઓ છીનવી લેશે તેવી આશંકા છે. આ દરમિયાન, LinkedInના \"Jobs on the Rise 2026\" રિપોર્ટે કારકિર્દીની સંભાવનાઓ માટે નવી આશા જગાવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/these-peoples-jobs-will-not-go-away-due-to-ai-these-jobs-will-be-in-high-demand-in-2026-461337 ",
-    "time": "2026-01-11T14:21:18.000Z"
   },
   {
     "cat": "Entertainment",

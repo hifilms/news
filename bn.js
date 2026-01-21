@@ -1,5 +1,68 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "টানা ৯০ মিনিট প্রাণ বাঁচানোর 'বৃথা' চেষ্টা ইঞ্জিনিয়ার যুবকের, শেষ মুহূর্ত ধরা পড়ল ভিডিওতে",
+    "desc": "গত শনিবার গভীর রাতে অফিস থেকে বাড়ি ফেরার পথে জল ভর্তি ওই গর্তে পড়ে যায় ২৭ বছর বয়সি সফটওয়্যার ইঞ্জিনিয়ার তরুণ মেহতার গাড়ি৷ মৃতের পরিবারের অভিযোগ, সময় মতো উদ্ধারকাজ শুরু না হওয়ায় জলে ডুবে মৃত্যু হয় ওই যুবরাজের৷ এই পরেই মৃত ইঞ্জিনিয়ারের বাবার অভিযোগের ভিত্তিতে উইশটাউন প্ল্যানার্স এবং লোটাস গ্রিনস নামে আরও একটি সংস্থার বিরুদ্ধে এফআইআর দায়ের করে পুলিশ৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/car1-2026-01-5a63dcbd04f4241bf69e90bf021bd40b.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/noida-car-accident-video-how-the-young-boy-struggled-for-90-minutes-to-save-his-life-pbd-2507420.html",
+    "time": "2026-01-21T11:48:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "এক বছর আগে রুপোয় ১ লাখ বিনিয়োগ...এখন বেড়ে কত টাকা হয়েছে জানেন? রেকর্ড রিটার্ন",
+    "desc": "২০ জানুয়ারি, ২০২৬ তারিখের তথ্য অনুযায়ী, তীব্র বৈশ্বিক অনিশ্চয়তা, ক্রমবর্ধমান শিল্প চাহিদা এবং সরবরাহ-পক্ষের সীমাবদ্ধতার কারণে ভারতে রূপার দাম প্রতি কেজিতে প্রায় ৩,২০,০০০ টাকায় পৌঁছেছে। বর্তমান দামে, একই ১.১৮ কেজি রূপার দাম এখন প্রায় ৩.৭৭ লক্ষ টাকা হবে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-21-at-17.00.55-1-2026-01-463841e9cdc839862bef251c8419077e-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/silver-price-if-someone-has-invested-1-lakh-rupees-in-2025-how-much-he-has-gained-in-2026-sta-2507314.html",
+    "time": "2026-01-21T11:38:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ভিক্টোরিয়া মেমোরিয়ালে অনুষ্ঠিত বিশেষ অনুষ্ঠান, থাকছেন ডোনা-রাঘব-ইমন সহ আরও অনেকে",
+    "desc": "২৩ জানুয়ারি এবছর সরস্বতী পুজো। সকাল থেকেই পুজোর ব্যাস্ততা সেড়ে বিকেল ৪টেয় ভিক্টোরিয়া মেমোরিয়ালয়ের মূল সিঁড়ি জুড়ে হবে এক অন্য আরাধনা। দেশ মাতৃকার আরাধনা, এ দেশের এক ব্যাতিক্রমী বীর সেনানী নেতাজি সুভাষচন্দ্র বসুর জন্মজয়ন্তী উদযাপন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Web-2026-01-21T164344.134-2026-01-d53e1546b8a8b9394aa93be1a82f7700-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/netaji-jayanti-2026-special-program-at-victoria-memorial-with-dona-ganguly-iman-chakraborty-and-others-pbd-2507256.html",
+    "time": "2026-01-21T11:14:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাংলাদেশে এখন সোনা-রুপোর দাম কত জানেন? ভারতের চেয়ে কম না বেশি..যা বলছে তথ্য",
+    "desc": "আজ, বুধবার ২১ জানুয়ারি ২২ ক্যারেট সোনার দাম ১৪,৭১০ টাকা হয়েছে ৷ ১৮ ক্যারেটের দাম ১৪,০৯১ টাকা হয়েছে ৷ ১ কেজি রুপোর দাম হয়েছে ৩,২৫,০৬৩ টাকা হয়েছে ৷ সোনা ও রুপো কেনার সময়ে উপরে দেওয়া দামের সঙ্গে আরও ৩ শতাংশ GST যুক্ত হবে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-21-at-16.00.57-2026-01-2bf6f5f090b27a7e4684e51ac9e037e5-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/knowledge-story-do-you-know-what-is-the-silver-price-and-gold-price-in-bangladesh-sta-2507253.html",
+    "time": "2026-01-21T10:38:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ট্রেনিং-এর সময় প্রেমে পড়েন নৌবাহিনীর মার্শালের, একেবারে হিন্দি ফিল্মের মতো সুনীতা উইলিয়ামসের লাভ স্টোরি!",
+    "desc": "প্রথমে তাঁরা বন্ধু হয়ে ওঠেন। তারপর প্রেম হয়। তবে, দুজনেই বিয়েতে কোনও তাড়াহুড়ো করেননি। বেশ কয়েক বছর বন্ধুত্ব এবং তারপর সম্পর্কে থাকার পর, তারা বিয়ে করার সিদ্ধান্ত নেন। নব্বইয়ের দশকের শেষের দিকে তাদের বিয়ে হয়",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Web-2026-01-21T141721.467-2026-01-4fb25477323325c87de0e3eba298eea3-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/international/sunita-williams-retires-from-nasa-after-27-years-who-is-her-husband-know-their-love-story-pbd-2-2507053.html",
+    "time": "2026-01-21T09:51:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "৭৪-এর রাধামণি আম্মা! ১১টা গাড়ি চালানোর লাইসেন্স, বাস-ট্রেন-ট্রাক বাঁহাতের খেল... শাড়ি পরে রোলস রয়েস চালিয়ে দুবাই কাঁপাচ্ছেন...",
+    "desc": "তিনি ১৯৮১ সালে চার চাকার লাইসেন্স এবং ১৯৮৪ সালে ভারী যানবাহনের লাইসেন্স পান। সেই সময়ে কেরালায় কোনও নারীর পক্ষে ভারী যানবাহন চালানো ছিল কল্পনার বাইরে। তিনি জানান, সেই সময় এই ধরণের লাইসেন্স পাওয়া মোটেও সহজ ছিল না। এমনকি নিজের নামে কেরালার প্রথম হেভি ভেহিকল ড্রাইভিং স্কুল প্রতিষ্ঠা করতে তাকে আইনি লড়াইও লড়তে হয়েছিল।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/watch-vdo-of-74-year-old-indian-woman-drives-trucks-rolls-royce-in-dubai-has-11-licences_636669.html ",
+    "time": "2026-01-21T09:41:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "কেরিয়ারের সব থেকে বড় দুঃসংবাদ পেতে চলেছে মহম্মদ শামি! বোর্ড দেবে বড় ধাক্কা, আর বেশি দেরি নেই",
+    "desc": "কয়েকটি রিপোর্টে এবার দাবি করা হচ্ছে, শীর্ষ বিভাগ A+ তুলে দেওয়ার কথা ভাবছে ভারতীয় ক্রিকেট বোর্ড। ফলে সেক্ষেত্রে কেন্দ্রীয় চুক্তি শুধুমাত্র তিনটি স্তরে সীমাবদ্ধ থাকবে। আর বেশি ম্যাচ না খেলার কারণে একাধিক তারকা ক্রিকেটারের এবার চুক্তি থেকে বাদ পড়ার সম্ভাবনা রয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/10/shami-2-2025-10-fdfc2ae309035244c17abaaf7059dde3-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/team-india-pacer-mohammed-shami-likely-to-be-dropped-from-bcci-central-contracts-smj-2507115.html",
+    "time": "2026-01-21T09:39:39.000Z"
+  },
+  {
     "cat": "World",
     "title": "‘পৃথিবীর বুক থেকে মুছে দেবে...,’ইরানকে ফের হুমকি! ট্রাম্প বললেন, ‘আমার যদি কিছু হয়..’",
     "desc": "এই বাক বিতণ্ডা শুরু হয় ট্রাম্পের একটি সাম্প্রতিক সাক্ষাৎকারের পর থেকে৷ সেখানে ট্রাম্প বলেছিলেন,‘‘ (উনি) একজন অসুস্থ মানুষ যাঁর উচিত তাঁর দেশ সঠিকভাবে পরিচালনা করা এবং মানুষ হত্যা বন্ধ করা’’ এবং ‘‘ইরানে নতুন নেতৃত্ব খোঁজার সময় এসেছে’’ বলে বর্ণনা করেছিলেন।",
@@ -241,15 +304,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/no-refunds-for-canceling-confirmed-tickets-learn-these-rules-for-vande-bharat-sleeper-trains-major-change-in-refund-for-ticket-cancellation-tib-ws-l-2503620.html",
     "time": "2026-01-19T08:28:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "কম্পিটিশনে দেদার বিয়ার, জেতার নেশায় চিরঘুমেই চলে গেলেন ২ সফটওয়্যার ইঞ্জিনিয়ার! সর্বনাশী সুরা...",
-    "desc": "পুলিসের দেওয়া তথ্য অনুযায়ী, সংক্রান্তি উদযাপন করতে ছয় বন্ধু মিলে কে.ভি. পাল্লি মণ্ডলের বান্দাভাড্ডিপল্লী গ্রামে একত্রিত হয়েছিলেন। উৎসবের মেজাজে চলা এই পার্টির এক পর্যায়ে দুই সফটওয়্যার পেশাদার, ৩৪ বছর বয়সী মণিকুমার এবং ২৬ বছর বয়সী পুষ্পরাজ, একে অপরের সাথে মদ্যপানের প্রতিযোগিতায় মেতে ওঠেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/two-software-techies-die-after-binge-drinking-with-friends-in-sankranti-party_636086.html ",
-    "time": "2026-01-19T08:19:56.000Z"
   },
   {
     "cat": "Sports",
@@ -844,59 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/actress-father-was-sanjay-gandhi-lawyer-during-emergency-time-now-she-is-well-known-in-bollywood-earns-from-laughter-show-pbd-2497520.html",
     "time": "2026-01-15T08:37:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "১ লক্ষ ভারতীয় 'টাকায়' আজ কত ইরানি 'রিয়াল' হবে জানেন...? চমকে দেবে সঠিক 'অ্যামাউন্ট'!",
-    "desc": "বিশ্বের অনেক দামি মুদ্রার তুলনায় ইরানের রিয়ালের মূল্য প্রায় শূন্যে নেমে এসেছে। এই প্রসঙ্গেই সোশ্যাল মিডিয়ায় একটি প্রশ্ন ট্রেন্ড করছে, আচ্ছা যদি আজ একজন ভারতীয় ১ লাখ টাকা নিয়ে ইরানে যায়, তাহলে সেই পরিমাণ অর্থের মূল্য সেই দেশে কত হবে?",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-15-at-12.10.49-2026-01-f7a2220641d7b98f5e028f3c03e7728f-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/iranian-currency-vs-indian-rupee-do-you-know-how-much-iranian-rials-you-will-get-for-1-lakh-indian-rupees-in-todays-rate-the-exact-amount-is-shocking-know-surprising-fact-sanj-2497281.html",
-    "time": "2026-01-15T07:57:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "পুরভোট ঘিরে জমজমাট মুম্বই...২০ বছর পরে হাত ধরেছেন ‘ঠাকরে ব্রাদার্স’, একনাথের সঙ্গেই আছে বিজেপি",
-    "desc": "বিজেপির দুর্নীতিতে অভিযুক্ত নেতা নবাব মালিককে সমস্ত গুরুত্বপূর্ণ দায়িত্ব থেকে সরিয়ে দেওয়ার দাবি দা, অজিত পাওয়ারের জাতীয়তাবাদী কংগ্রেস পার্টির অংশটি এককভাবে এগিয়ে যাচ্ছে। তবে, এনসিপি লাভের আশা করছে, বিশেষ করে পুনেতে, যেখানে অবিভক্ত দলটি ২০০৭ থেকে ২০১৭ সাল পর্যন্ত এক দশক ধরে পৌর সংস্থা পরিচালনা করেছিল।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-15-2026-01-18403cca71282bb5cb829d0477a4d5e6-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/mumbai-bmc-elections-2026-polling-to-begin-at-7-am-as-mumbai-votes-to-elect-mayor-after-9-years-sta-2496911.html",
-    "time": "2026-01-15T06:12:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বিবাহবার্ষিকীর উপহার আনতে পোস্ট অফিসে গিয়েছিলেন অভিনেত্রী, সেখানেই স্বামী দিলেন ডিভোর্স নোটিস!",
-    "desc": "বলিউড অভিনেত্রী সেলিনা জেটলি সম্প্রতি স্বামী পিটার হাগের সঙ্গে সম্পর্কের বিচ্ছেদের ঘোষণা করেছেন, তিনি সোশ্যাল মিডিয়ায় জানিয়েছেন, \"১৫তম বিবাহবার্ষিকীর জন্য অর্ডার করা একটি উপহার নেওয়ার অজুহাতে\" তাঁকে ডিভোর্সের চিঠি দেওয়া হয়েছিল। তিনি আরও জানিয়েছেন যে, সন্তানদের যৌথ হেফাজত পাওয়ার পরেও তাঁকে তাঁর তিন সন্তানের সঙ্গে যোগাযোগ করতে দেওয়া হচ্ছে না।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-15-at-10.05.33-AM-2026-01-0766ebe0868d68d02d93ffab774fa4d4-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/bollywood-actress-and-model-celina-jaitley-divorce-notice-post-office-wedding-anniversary-bengali-news-sal-tc-aa-2495818.html",
-    "time": "2026-01-15T04:39:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "অসম ও অরুণাচল প্রদেশের পর্যটনে নতুন মাত্রা, যোগাযোগ ব্যবস্থায় গতি যোগ করে বাণিজ্যে জোয়ার এনেছে বগীবিল সেতু",
-    "desc": "শিক্ষার্থী, রোগী, ব্যবসায়ী এবং শ্রমিকদের জন্য এই উন্নত যোগাযোগ ব্যবস্থা ভ্রমণের সময়কেও কমিয়ে দিয়েছে। ক্ষুদ্র ব্যবসাগুলো নতুন বাজার খুঁজে পেয়েছে, কৃষকরা দ্রুত ফসল পরিবহণ করতে পারছেন এবং অত্যাবশ্যকীয় পরিষেবাগুলো আর ভৌগোলিক সীমার মধ্যে সীমাবদ্ধ হয়ে নেই।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/TV_5704347_bogibeel_bridge_1-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/bogibeel-bridge-in-assam-is-the-epitome-of-strategic-importance-for-defense-and-connectivity-in-northeast-india-arc-2496741.html",
-    "time": "2026-01-15T03:44:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘আমরা কেন ক্ষতিপূরণ দেব’- এবার আইসিসিকে সরাসরি চ্যালেঞ্জ ছুঁড়ে দিল বিসিবি, টি টোয়েন্টি বিশ্বকাপ থেকে কি সরেই যাবে বাংলাদেশ",
-    "desc": "'কোন কারণ নেই (কেন আমরা ক্ষতিপূরণ দেব না) কারণ এই প্রশ্নটি ওঠা উচিত নয়, আমরা ইতিমধ্যেই তাদের উপর অনেক খরচ করি। যদি আমরা বলতে শুরু করি যে তুমি খারাপ খেলেছ, এখন টাকা ফেরত দাও, তাই না?’’",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/bangladesh-cricket-team-2026-01-377bcffd6da727cdfe44daaf06be87ae-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/icc-t20-world-cup-2026-bcb-claims-it-will-not-suffer-financially-if-skip-t20-world-cup-players-will-lose-money-dd-2496590.html",
-    "time": "2026-01-14T17:46:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ভারতের অনেক ক্রিকেটার অনেক ট্রফি পেয়েছেন, তবে মাত্র ৪ জন টি২০ বিশ্বকাপ এবং বড়দের বিশ্বকাপ জিতেছেন",
-    "desc": "২৫-এর বেশি ভারতীয় ক্রিকেটার টি২০ বিশ্বকাপ জিততে পেরেছেন, আর ৫০-এর বেশি ভারতীয় ক্রিকেটার U19 World Cup জিতেছেন, কিন্তু মাত্র ৪ জন খেলোয়াড় আছেন যারা ভারতের হয়ে U19 World Cup আর T২০ World Cup দুটোই জিততে পেরেছেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1768408675_Virat-Kohli-IND-2026-01-e7e5f96ac4e6bc0edbc6b09c19bc5ba0-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/world-cup-cricket-facts-4-indian-cricketers-who-won-u19-world-cup-and-t20-world-cup-rdp-2496579.html",
-    "time": "2026-01-14T17:31:29.000Z"
   }
 ];

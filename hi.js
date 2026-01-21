@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "ICC warns Bangladesh with replacement threat for T20 World Cup 2026, offers one day to announce final decision",
+    "desc": "The International Cricket Council has moved closer to a decisive resolution in its standoff with the Bangladesh Cricket Board over Bangladesh’s refusal to travel to India for the 2026 T20 World Cup. An ICC board...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-warns-bangladesh-with-replacement-threat-for-t20-world-cup-2026-offers-one-day-to-announce-final-decision-2026-01-21-1026870",
+    "time": "2026-01-21T12:30:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Norman Gifford, oldest-ever captain in ODI history, passes away aged 85",
+    "desc": "Former England and Worcestershire spinner Norman Gifford has passed away aged 85 due to prolonged illness. Gifford was a crucial member for Worcestershire in their 1964 and 1965 County Championship-winning campaigns. He led the club to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/norman-gifford-oldest-ever-captain-in-odi-history-passes-away-aged-85-2026-01-21-1026864",
+    "time": "2026-01-21T12:05:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "It will be strange to watch T20 World Cup from home, I have been part of every edition: Rohit Sharma",
+    "desc": "Following India’s historic triumph over South Africa in the 2024 T20 World Cup final, senior stars Rohit Sharma, Virat Kohli, and Ravindra Jadeja announced their retirement from the T20I format. With the next edition of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/it-will-be-strange-to-watch-t20-world-cup-from-home-i-have-been-part-of-every-edition-rohit-sharma-2026-01-21-1026866",
+    "time": "2026-01-21T12:04:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will RCB play IPL 2026 matches at Chinnaswamy Stadium? KSCA chief Venkatesh Prasad reveals details",
+    "desc": "Karnataka State Cricket Association (KSCA) chief Venkatesh Prasad, on January 21, addressed the concerns regarding the M Chinnaswamy Stadium’s availability for IPL 2026. In a press conference in Bengaluru, the former cricketer revealed that the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-rcb-play-ipl-2026-matches-at-chinnaswamy-stadium-ksca-chief-venkatesh-prasad-reveals-details-2026-01-21-1026847",
+    "time": "2026-01-21T10:50:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Test captain returns, star pacers not picked as Sri Lanka name ODI squad for England series",
+    "desc": "Sri Lanka have announced their squad for the upcoming ODI series against England as Test captain Dhananjaya de Silva makes a return for the three-match series that kicks off on January 22. Along with de Silva,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/test-captain-returns-star-pacers-not-picked-as-sri-lanka-name-odi-squad-for-england-series-2026-01-21-1026845",
+    "time": "2026-01-21T10:41:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at VCA Stadium in Nagpur play?",
+    "desc": "After a disappointing 2-1 ODI series defeat to New Zealand, India would eye for a comeback in the upcoming five-match T20I series, starting January 21 at the Vidharbha Cricket Association Stadium in Nagpur. With the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-1st-t20i-pitch-report-how-will-surface-at-vca-stadium-in-nagpur-play-2026-01-21-1026839",
+    "time": "2026-01-21T10:24:57.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Daryl Mitchell trumps Virat Kohli to become top batter in ICC ODI rankings after blockbuster India series",
     "desc": "New Zealand batter Daryl Mitchell is the new number one batter in the latest ICC ODI rankings. He smashed centuries in the second and third ODIs against India and was expected to overtake Virat Kohli...",
     "img": "",
@@ -25,59 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pcb-writes-to-icc-supporting-bangladesh-s-stance-in-t20-world-cup-2026-controversy-2026-01-21-1026783",
     "time": "2026-01-21T05:12:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch IND vs NZ T20I series on TV and streaming?",
-    "desc": "The five-match T20I series between India and New Zealand is all set to get underway today at the VCA Stadium in Nagpur. This series is the final chance for both teams to fine-tune their lineups...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-new-zealand-live-telecast-when-and-where-to-watch-ind-vs-nz-t20i-series-on-tv-and-streaming-2026-01-21-1026762",
-    "time": "2026-01-21T02:57:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kylian Mbappe stars as Real Madrid smash Monaco for a six in UEFA Champions League clash",
-    "desc": "As many as 73,599 football fans witnessed utter domination at Estadio Bernabéu in Spain as Real Madrid thrashed Monaco in the UEFA Champions League clash to boost their chances of making it to the final 16....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/kylian-mbappe-stars-as-real-madrid-smash-monaco-for-a-six-in-uefa-champions-league-clash-2026-01-21-1026753",
-    "time": "2026-01-21T02:02:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "For first-ever time! Mumbai Indians hit record low in WPL after loss to Delhi Capitals",
-    "desc": "Mumbai Indians suffered another heartbreaking defeat in the ongoing Women's Premier League 2026 as the defending champions lost their fourth game out of six matches on Tuesday, January 20. The Harmanpreet Kaur-led side faced troubles with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/for-first-ever-time-mumbai-indians-hit-record-low-in-wpl-after-loss-to-delhi-capitals-2026-01-20-1026737",
-    "time": "2026-01-20T18:28:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is Will Malajczuk, the Australian batter who smashed the fastest-ever century in U-19 World Cup history?",
-    "desc": "Australian star opener Will Malajczuk etched his name into the history books as she slammed the fastest-ever century in the U19 World Cup during his team's clash against Japan U19 on Tuesday, January 20. Malajczuk smashed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/who-is-will-malajczuk-the-australian-batter-who-smashed-the-fastest-ever-century-in-u-19-world-cup-history-2026-01-20-1026735",
-    "time": "2026-01-20T18:01:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ishan Kishan returns, Iyer to miss out; India's probable Playing XI for IND vs NZ 1st T20I",
-    "desc": "The T20 World Cup 2026 is approaching the horizon, and India have one final T20I assignment to fine-tune their combinations before the global showpiece kicks off on February 7. The Suryakumar Yadav-led Indian team will be...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-returns-iyer-to-miss-out-indias-probable-playing-xi-for-ind-vs-nz-1st-t20i-2026-01-20-1026724",
-    "time": "2026-01-20T16:05:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and Where to watch UEFA Champions League clash on TV and stream online in India?",
-    "desc": "European football returns to the Santiago Bernabeu on Wednesday night as Real Madrid resume their Champions League campaign with a crucial league-stage encounter against Monaco. It is the penultimate fixture in this phase of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/real-madrid-vs-monaco-when-and-where-to-watch-uefa-champions-league-clash-on-tv-and-stream-online-in-india-2026-01-20-1026719",
-    "time": "2026-01-20T15:29:46.000Z"
   }
 ];
