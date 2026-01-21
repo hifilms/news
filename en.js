@@ -1,5 +1,203 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Border 2 producer responds to Akhtar’s ‘creative bankruptcy’ remark",
+    "desc": "Sunny Deol starrer Border 2 is gearing up for its January 23 theatrical release. However, the film has found itself at the centre of a debate over creativity versus legacy. The controversy erupted after veteran lyricist Javed Akhtar criticised the recreation of classic songs. Producer Bhushan Kumar has now clarified why retaining Sandese Aate Hain was non-negotiable for the sequel.",
+    "img": "https://static.toiimg.com/photo/msid-127028364,imgsize-276172.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-producer-bhushan-kumar-responds-to-javed-akhtars-creative-bankruptcy-remark-sandese-aate-hain-was-non-negotiable/articleshow/127028053.cms",
+    "time": "2026-01-21T17:48:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek's fireworks power India to commanding T20I win over New Zealand",
+    "desc": "India defeated New Zealand by 48 runs in the first T20 International. Abhishek Sharma scored 84 runs off 35 balls. Rinku Singh added 44 runs. New Zealand's Glenn Phillips scored 78 runs. India's bowling secured the win. Abhishek Sharma's performance was key to India's dominance.",
+    "img": "https://static.toiimg.com/photo/msid-127028325,imgsize-107614.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/abhishek-sharmas-fireworks-power-india-to-commanding-t20i-win-over-new-zealand/articleshow/127028260.cms",
+    "time": "2026-01-21T17:47:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top 5 Bollywood news of the day",
+    "desc": "On January 21, 2026, Bollywood buzzed with Salman Khan's Delhi HC notice over Chinese AI personality rights clash. Nayla Al Khaja defended AR Rahman amid 'Chhaava' backlash, Sara Arjun addressed her 20-year age gap with Ranveer Singh in 'Dhurandhar'. Ahan Shetty dismissed actor rivalries; Vishal Bhardwaj responded to allegations.",
+    "img": "https://static.toiimg.com/photo/msid-127027955,imgsize-183360.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-faces-notice-over-personality-rights-nayla-al-khaja-defends-ar-rahman-sara-arjun-on-20-year-age-gap-with-ranveer-singh-in-dhurandhar-top-5-news-of-the-day/articleshow/127027955.cms",
+    "time": "2026-01-21T17:44:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "CAG flags capacity gaps, calls for stronger PAIs and tech-led audits",
+    "desc": "India's top auditor has urged strengthening local government audit bodies to boost transparency and quality at the grassroots. A national workshop highlighted challenges and best practices, focusing on improving audit frameworks, technology adoption, and capacity building for local fund audit directors. The aim is to ensure better oversight and public fund utilization.",
+    "img": "https://static.toiimg.com/photo/msid-127025800,imgsize-961806.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/local-audit-push-cag-flags-capacity-gaps-calls-for-stronger-pais-and-tech-led-audits/articleshow/127025824.cms",
+    "time": "2026-01-21T17:29:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Emraan revealed why he married Parveen",
+    "desc": "The Smuggler’s Web,' also opened up about his decade-long friendship with wife Parveen Shahani before marriage. He revealed that seeing each other's true selves, including flaws and strengths, solidified their decision to build a life together. Hashmi's performance in the smuggling-themed series is currently drawing significant praise.",
+    "img": "https://static.toiimg.com/photo/msid-127024946,imgsize-164428.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-emraan-hashmi-revealed-why-he-married-parveen-shahani-she-saw-my-idiosyncrasies-and-issues/articleshow/127024972.cms",
+    "time": "2026-01-21T17:22:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why are landless tribals and farmers protesting in Maharashtra?",
+    "desc": "Thousands of farmers and tribals from areas like Vasai, and the tehsils of Palghar, including Charoti, Manor, Wada, Vikramgad, Talasari, and Mokhed, participated in the “long march” protest led by Communist Party of India (Marxist) from Charoti to Palghar Collector office covering about 60 km on foot. The protest started on January 19, 2026, and continued on January 20, 2026 at the Palghar Collector office, where the demonstrators will stay till all the demands are fulfilled. What are their demands?",
+    "img": "https://th-i.thgim.com/public/news/national/q9y9p7/article70535053.ece/alternates/LANDSCAPE_1200/phalgar%20.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/why-are-landless-tribals-and-farmers-protesting-in-maharashtra-the-hindu-explains/article70535054.ece",
+    "time": "2026-01-21T17:13:56.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "At Davos, Trump rules out force in Greenland",
+    "desc": "In his nearly 70-minute-long address at the World Economic Forum in Davos, U.S. President Donald Trump on Wednesday (January 21, 2026) pushed for his bid to acquire Greenland. Seeking immediate negotiations on the matter, he asserted that U.S. control of Greenland would not be a “threat to NATO”.",
+    "img": "https://th-i.thgim.com/public/news/national/d9rvc5/article70535033.ece/alternates/LANDSCAPE_1200/us%20india%204.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/at-davos-trump-rules-out-force-in-greenland/article70535034.ece",
+    "time": "2026-01-21T17:10:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Victoria's 'Ugly Betty' cameo resurfaces amid feud",
+    "desc": "Brooklyn Beckham has leveled serious allegations against parents Victoria and David, claiming his mother 'hijacked' his first dance and acted 'inappropriately' at his wedding. He also accused her of cancelling his wife's dress and causing pre-wedding friction.",
+    "img": "https://static.toiimg.com/photo/msid-127023026,imgsize-121044.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/victoria-beckhams-ugly-betty-cameo-upstaging-the-bride-resurfaces-amid-son-brooklyn-beckham-wedding-allegations-watch/articleshow/127016050.cms",
+    "time": "2026-01-21T17:08:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "‘Geopolitical tensions point to elevated risks, policy uncertainty’",
+    "desc": "But current state of economy provides ground for optimism going forward with the GDP growth estimates for 2025-26 indicating that India will remain the fastest-growing major economy in the world, RBI officials write in Jan. bulletin",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/geopolitical-tensions-point-to-elevated-risks-policy-uncertainty/article70534149.ece",
+    "time": "2026-01-21T17:03:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When 'blood spread at crease' and Ganguly used all 11 players as bowlers in Test",
+    "desc": "The 2002 Antigua Test between India and West Indies is remembered for Anil Kumble's courageous bowling with a broken jaw. Beyond this, it marked a rare occasion where all eleven Indian players bowled in an innings. The match, which ended in a draw, also saw Ajay Ratra become the youngest wicketkeeper to score a Test century at the time.",
+    "img": "https://static.toiimg.com/photo/msid-127018938,imgsize-207570.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sachin-laxman-dravid-jaffer-and-everyone-else-when-blood-spread-at-crease-and-ganguly-used-all-11-players-as-bowler-in-test/articleshow/127013540.cms",
+    "time": "2026-01-21T16:41:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi govt to increase its sewage treatment capacity to 1,500 MGD by 2028: CM Gupta",
+    "desc": "Delhi aims to boost its sewage treatment capacity to 1,500 MGD by 2028 to clean the Yamuna River. The government will complete drone surveys of drains by January and connect all unauthorized colonies to the sewerage network by 2028. Coordination with Haryana and Uttar Pradesh is deemed essential for the river's cleanup.",
+    "img": "https://static.toiimg.com/photo/msid-127018988,imgsize-44778.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/delhi-govt-to-increase-its-sewage-treatment-capacity-to-1500-mgd-by-2028-cm-gupta/articleshow/127018851.cms",
+    "time": "2026-01-21T16:37:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "SBI MF to take at least 10% of Adani Group's biggest rupee bond issue, bankers say",
+    "desc": "Adani Power ​is looking to ⁠raise 28.60 billion rupees through a two-year option and 26.90 billion rupees via a three-year note. SBI MF will buy 4.50 billion rupees and three billion rupees of ‌these papers as the anchor investor, a banker said",
+    "img": "https://th-i.thgim.com/public/incoming/ht8mm1/article70534932.ece/alternates/LANDSCAPE_1200/Adani-EnterprisGL5F4CCOT.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/sbi-mf-to-take-at-least-10-of-adani-groups-biggest-rupee-bond-issue-bankers-say/article70534918.ece",
+    "time": "2026-01-21T16:31:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What is Europe’s ‘trade bazooka’? How it could hit US",
+    "desc": "The European Union is considering using its powerful 'trade bazooka' against the US following President Trump's remarks on Greenland. This economic tool, the Anti-Coercion Instrument, allows for retaliation against undue economic pressure. While a significant deterrent, its activation is slow, and EU members are wary of sparking a transatlantic trade war given the massive $2 trillion trade volume.",
+    "img": "https://static.toiimg.com/photo/msid-127016156,imgsize-1239550.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/trump-tariff-war-what-is-europes-trade-bazooka-how-it-could-hit-us/articleshow/127016106.cms",
+    "time": "2026-01-21T16:17:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Controversy erupts in U.P. over notice to religious leader over use of ‘Shankaracharya’ title",
+    "desc": "The tug of war between the authorities and Mr. Saraswati started during the Magh Mela, an annual month-long religious fair in which devotees assemble at the Triveni Sangam, the confluence of the rivers Ganga, Yamuna, and the mythical Saraswati, for a holy dip",
+    "img": "https://th-i.thgim.com/public/incoming/2e69ai/article70534838.ece/alternates/LANDSCAPE_1200/PTI01_20_2026_000251B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/controversy-erupts-in-up-over-notice-to-religious-leader-over-use-of-shankaracharya-title/article70534114.ece",
+    "time": "2026-01-21T16:17:29.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "EU lawmakers stall U.S. trade deal in protest over Greenland",
+    "desc": "The ​proposals require approval by ⁠the parliament and EU governments. Many lawmakers have complained that the trade deal is lopsided, with the EU required to cut most import ‌duties while the U.S. sticks to a broad ‌rate of 15%.",
+    "img": "https://th-i.thgim.com/public/incoming/yj0ml5/article70534833.ece/alternates/LANDSCAPE_1200/2026-01-21T081305Z_1839280829_RC2A3JA3WKCE_RTRMADP_3_USA-EUROZONE-LAGARDE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/eu-lawmakers-stall-us-trade-deal-in-protest-over-greenland/article70534803.ece",
+    "time": "2026-01-21T16:07:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanskar Saraswat, Arsh Mohammad chase the big stage",
+    "desc": "Indian badminton's rising stars, Sanskar Saraswat and Arsh Mohammad, are making waves. Saraswat, a singles focus player, secured a Guwahati Super 100 title and aims for the top 80 globally. Mohammad, a doubles specialist, overcame an ACL injury to win senior national bronze and targets the top 100 doubles ranking, dreaming of Olympic glory.",
+    "img": "https://static.toiimg.com/photo/msid-127009664,imgsize-308024.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/from-junior-ranks-to-big-dreams-sanskar-saraswat-arsh-mohammad-chase-the-big-stage/articleshow/127006657.cms",
+    "time": "2026-01-21T16:02:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshay Kumar reveals what Twinkle does when she's angry",
+    "desc": "Akshay Kumar returns to television with 'The Wheel of Fortune', featuring Riteish and Genelia Deshmukh. In a promo, Akshay humorously shares how he knows his wife Twinkle Khanna is upset when her side of the bed is wet, showcasing his self-deprecating hosting style.",
+    "img": "https://static.toiimg.com/photo/msid-127013969,imgsize-322526.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-reveals-what-twinkle-khanna-does-when-shes-angry-on-him-mere-side-ka-bistar-geela-hota-hai-paani-fer-diya-hota-hai/articleshow/127013925.cms",
+    "time": "2026-01-21T16:01:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "UAE filmmaker defends AR Rahman amid backlash",
+    "desc": "Music composer AR Rahman recently found himself at the centre of a social media storm following remarks he made during an interview. The backlash erupted after Rahman described Chhaava as a “divisive” film and suggested that a “communal” shift in Bollywood’s power dynamics had resulted in him getting less work over the past eight years. While his comments drew criticism online, the composer issued a clarification reaffirming his love for India. Now, UAE filmmaker Nayla Al Khaja has publicly come out in his support.",
+    "img": "https://static.toiimg.com/photo/msid-127013385,imgsize-306902.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/uae-filmmaker-nayla-al-khaja-defends-ar-rahman-amid-backlash-over-chhaava-and-communal-remark-national-treasures-deserve-respect-not-noise/articleshow/127013064.cms",
+    "time": "2026-01-21T15:58:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Around 3.26 crore Uttar Pradesh voters could get SIR hearing notices",
+    "desc": "Of these 3.26 crore people, the names of nearly 1.04 crore could not be mapped to the 2003 voter lists when the last SIR had been conducted, while 2.22 crore had “logical discrepancies” in mapping",
+    "img": "https://th-i.thgim.com/public/incoming/br26l4/article70534779.ece/alternates/LANDSCAPE_1200/22_SPOTLIGHT_SIR_VOTER_LIST%20UTTAR_PRADESH.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/around-326-crore-uttar-pradesh-voters-could-get-sir-hearing-notices/article70534043.ece",
+    "time": "2026-01-21T15:52:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Can This Love Be Translated' COPIED 'Fan'?",
+    "desc": "A new K-drama, 'Can This Love Be Translated,' is captivating audiences with a dramatic rooftop fall scene. While fans praise its cinematic brilliance, many Bollywood viewers are pointing out a striking resemblance to the ending of Shah Rukh Khan's film 'Fan.' This has sparked discussions online about the scene's originality and the global reach of Indian cinema.",
+    "img": "https://static.toiimg.com/photo/msid-127008592,imgsize-279604.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/can-this-love-be-translated-scene-withgo-youn-jung-copied-from-shah-rukh-khans-fan-watch/articleshow/126948439.cms",
+    "time": "2026-01-21T15:43:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vishal Bhardwaj reveals why Shahid's O Romeo took 10 years",
+    "desc": "Shahid Kapoor's 'O Romeo' trailer launched Tuesday, with director Vishal Bhardwaj revealing a 10-year delay due to creative blocks, possessiveness, and budget hikes backed by Sajid Nadiadwala. Shahid and Triptii Dimri's chemistry shines amid Mumbai grit. Reunites Bhardwaj-Shahid duo; releases Feb 13, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-127011604,imgsize-189198.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vishal-bhardwaj-reveals-why-shahid-kapoors-o-romeo-took-10-years-3-saal-tak-maine-isko-/articleshow/127011604.cms",
+    "time": "2026-01-21T15:43:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top 5 South newsmakers of the day",
+    "desc": "South cinema saw major updates on January 21. The title teaser for Vishal and Sundar C's film 'Purushan' was released. Actor Hiran Chatterjee married for the second time in Varanasi. AMMA cleared its general secretary Kukku Parameswaran in a controversy. Mrunal Thakur completed shooting for 'Dacoit'. Krithi Shetty is set to play Chiranjeevi's daughter in an upcoming film.",
+    "img": "https://static.toiimg.com/photo/msid-127010298,imgsize-477486.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishal-and-sundar-cs-purushan-title-teaser-hiran-chatterjees-second-wedding-amma-clears-kukku-parameswaran-top-5-south-newsmakers-of-the-day/articleshow/127010298.cms",
+    "time": "2026-01-21T15:37:45.000Z"
+  },
+  {
     "cat": "World",
     "title": "‘Will not yield’ to Trump’s pressure: Starmer on Greenland and Chagos",
     "desc": "Donald Trump has threatened a 10% (escalating to 25% in June 2026) additional tariff on the U.K. and seven EU countries in order to effect the transfer of Greenland, a semi-autonomous Danish territory, to the U.S.",
@@ -25,15 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-markets-today-wall-street-steadies-after-sharp-sell-off-trump-rules-out-force-over-greenland/articleshow/127005983.cms",
     "time": "2026-01-21T15:04:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Clash between tourists and drivers clouds Munnar’s image as safe destination",
-    "desc": "In a recent incident, a clash occurred between a group of tourists from Karunagappally in Kollam and local taxi drivers over the former’s attempt to take photograph on a parked MUV at the hill station",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/clash-between-tourists-and-drivers-clouds-munnars-image-as-safe-destination/article70533874.ece",
-    "time": "2026-01-21T14:44:33.000Z"
   },
   {
     "cat": "Entertainment",
@@ -79,33 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/im-already-married-to-her-in-my-heart-says-aamir-khan-as-he-moves-in-with-girlfriend-gauri-spratt-at-a-plush-new-home-in-mumbai/articleshow/127001588.cms",
     "time": "2026-01-21T14:27:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ED freezes ₹1.3-crore assets of Unnikrishnan Potti, prime accused in Sabarimala gold theft case",
-    "desc": "A preliminary investigation by the agency reveals that sacred gold-clad artefacts of the Sabarimala temple, including Dwarapalaka idol components, peedams (pedestals) and sanctum sanctorum door frame panels, were deliberately misrepresented in official records as mere “copper plates” and unauthorisedly removed from the temple premises during 2019–2025",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/ed-freezes-13-crore-assets-of-unnikrishnan-potti-prime-accused-in-sabarimala-gold-theft-case/article70533734.ece",
-    "time": "2026-01-21T14:23:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Holiday travel surge saw 1 crore rail passengers in just 12 days",
-    "desc": "From Jan.7 to 18, passenger traffic rose by around 10 lakh compared to same period last year; Secunderabad station handled over 2 lakh passengers a day, far exceeding its usual daily average of 1.3 lakh",
-    "img": "https://th-i.thgim.com/public/incoming/f478ij/article70534138.ece/alternates/LANDSCAPE_1200/IMG_20260110_152503.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/holiday-travel-surge-saw-1-crore-rail-passengers-in-just-12-days/article70533379.ece",
-    "time": "2026-01-21T14:12:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Election Commission has widest discretion, but its deviations for SIR cannot be 'untrammelled, unregulated': Supreme Court",
-    "desc": "A special revision may involve serious consequences in the civil rights of a person who is already a voter, CJI Surya Kant says to the ECI’s counsel, ‘So, why should we not expect you to have a procedure that is transparent?’",
-    "img": "https://th-i.thgim.com/public/incoming/yxqhhl/article70534031.ece/alternates/LANDSCAPE_1200/TH20-KDR-SIR-orGBDFFCOMO.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/election-commission-has-widest-discretion-but-its-deviations-for-sir-cannot-be-untrammelled-unregulated-supreme-court/article70533465.ece",
-    "time": "2026-01-21T14:11:21.000Z"
   },
   {
     "cat": "Entertainment",
@@ -154,15 +316,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Here's how Child artist Vedhika secured a role in 'Chatha Pacha'",
-    "desc": "Child artist Vedhika Sreekumar secured the role of Rosa in 'Chatha Pacha' after impressing director Adhvaith Nayar with a confident viral Instagram reel. Her natural charm and emotional grasp, evident even in a test shot, led to her casting, showcasing a new avenue for talent discovery from social media to the big screen.",
-    "img": "https://static.toiimg.com/photo/msid-126992278,imgsize-360534.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/chatha-pacha-child-artist-vedhika-sreekumar-secured-role-in-adhvaith-nayars-directorial-with-a-viral-reel/articleshow/126992278.cms",
-    "time": "2026-01-21T13:14:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Bhajan clubbing hits Chennai",
     "desc": "Introducing a night club-like atmosphere, minus the alcohol, bhajan clubbing is catching on in many Indian cities, including in Delhi, Kolkata and Bengaluru, as well as the US. Participants skew towards Gen-Z, who enjoy the sense of community it brings. Members of the Good Deeds Club in Chennai recently conducted a ‘bhajan clubbing’ event, with singers Sai Vignesh and Saindhavi entertaining the crowd with spiritual tracks.",
     "img": "https://th-i.thgim.com/public/incoming/7sbgxk/article70533680.ece/alternates/LANDSCAPE_1200/BHAJAN%20CLUBBING.png",
@@ -178,15 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-saif-ali-khans-beautiful-home-in-qatar-worth-rs-15-crore-the-actor-reveals-his-favourite-spot-where-he-loves-spending-time/articleshow/126991529.cms",
     "time": "2026-01-21T13:12:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ishan on ‘Chatha Pacha’: We trained thrice a day for four months",
-    "desc": "'Chatha Pacha' is set to hit the big screens on January 22. In an exclusive interview with TOI, 'Chatha Pacha' actor Ishan Shoukath talks about the film, his role, the intensive training he and his co-stars Arjun Ashokan, Roshan Mathew, and Vishak Nair, underwent to step into the ring. Read on.",
-    "img": "https://static.toiimg.com/photo/msid-126989547,imgsize-452456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/ishan-shoukath-on-chatha-pacha-we-trained-thrice-a-day-for-four-months-it-was-very-intensive-training-but-even-prepared-me-for-future-roles-exclusive/articleshow/126989547.cms",
-    "time": "2026-01-21T13:02:38.000Z"
   },
   {
     "cat": "Business",
@@ -205,33 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/bangladesh-face-t20-world-cup-exit-icc-rejects-venue-shift-request-moves-towards-replacement/articleshow/126980223.cms",
     "time": "2026-01-21T12:41:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Border 2 release date, cast, runtime info",
-    "desc": "Marking its return after thirty years, 'Border 2' aims to stir a newfound sense of patriotism by spotlighting the courageous stories that emerged during the 1971 Indo-Pak War. This dramatic portrayal will intertwine the contributions of the Army, Navy, and Air Force, bringing to life valorous tales that deserve the spotlight.",
-    "img": "https://static.toiimg.com/photo/msid-126985972,imgsize-380770.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-sunny-deol-varun-dhawan-diljit-dosanjh-starrers-release-date-cast-runtime-advance-booking-details-story-explained/articleshow/126985972.cms",
-    "time": "2026-01-21T12:31:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Taylor Swift",
-    "desc": "Taylor Swift, the celebrated 14-time Grammy winner, is more than just a musical icon; she serves as a beacon of personal growth. In a revealing 2019 interview, she articulated that true moving on isn't about forgiving or forgetting; it's about fostering a sense of indifference for the sake of self-preservation.",
-    "img": "https://static.toiimg.com/photo/msid-126974082,imgsize-199622.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/quote-of-the-day-by-taylor-swift-you-dont-have-to-forgive-and-you-dont-have-to-forget-to-move-on/articleshow/126974082.cms",
-    "time": "2026-01-21T12:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jana Nayagan makers",
-    "desc": "Madras High Court reserved orders on a CBFC appeal regarding 'Jana Nayagan' certification. The film's release is indefinitely postponed. Producers cited 'Dhurandhar 2' as precedent for announcing release dates before certification. The Supreme Court previously declined to intervene, directing the matter to the High Court.",
-    "img": "https://static.toiimg.com/photo/msid-126983482,imgsize-206460.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-makers-cite-dhurandhar-2-when-asked-about-announcing-the-release-date-before-obtaining-cbfc-certification-reports/articleshow/126983482.cms",
-    "time": "2026-01-21T12:19:39.000Z"
   },
   {
     "cat": "Politics",
@@ -259,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/caught-on-cam-moment-when-iaf-plane-force-landed-in-up/articleshow/126978169.cms",
     "time": "2026-01-21T11:31:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jackie Shroff eyes film with son Tiger soon",
-    "desc": "Veteran star Jackie Shroff revealed his long-held dream to collaborate with his son, Tiger Shroff, on film. Although both made appearances in 'Singham Again,' their roles kept them apart. Jackie underlined the necessity for a strong, engaging narrative that would unite them, a sentiment Tiger shares as he looks forward to the day they can finally act together.",
-    "img": "https://static.toiimg.com/photo/msid-126975187,imgsize-212212.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jackie-shroff-hopes-to-share-screen-with-son-tiger-shroff-i-want-it-to-happen-very-soon/articleshow/126975187.cms",
-    "time": "2026-01-21T11:09:11.000Z"
   },
   {
     "cat": "Business",
@@ -378,33 +486,6 @@ const newsData_en = [
     "time": "2026-01-21T10:14:21.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "O’Romeo trailer: Shahid embarks on murderous rampage",
-    "desc": "Shahid Kapoor’s ‘O’Romeo’ trailer dropped Wednesday, blending Vishal Bhardwaj’s Mumbai Western with gore. He plays Haseen Ustara, falling for Triptii Dimri’s Afsha amid gang wars. Cast includes Avinash Tiwary, Disha Patani. Fourth Shahid-Vishal collab. Releases Feb 13 vs ‘Tu Yaa Main’.",
-    "img": "https://static.toiimg.com/photo/msid-126968825,imgsize-126652.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/oromeo-trailer-out-shahid-kapoor-embarks-on-murderous-rampage-as-a-bloody-anti-hero-in-vishal-bhardwajs-action-drama/articleshow/126968825.cms",
-    "time": "2026-01-21T10:14:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bhumi Pednekar draws praise for restraint",
-    "desc": "In the captivating teaser for 'Daldal', Bhumi Pednekar assumes the role of DCP Rita Ferreira, navigating the murky waters of a crime thriller set against the vibrant backdrop of Mumbai. The film expertly crafts suspense, showcasing the emotional strain on those embroiled in the hunt for a serial killer.",
-    "img": "https://static.toiimg.com/photo/msid-126968481,imgsize-261000.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/daldal-trailer-shows-bhumi-pednekar-plays-a-gritty-cop-caught-in-a-dark-and-intense-crime-thriller-watch/articleshow/126968481.cms",
-    "time": "2026-01-21T10:13:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tamannaah Bhatia’s Spain workout proves simple strength works",
-    "desc": "Tamannaah Bhatia's dynamic training sessions in Spain highlights the power of functional fitness. With a spotlight on controlled squats and simple running drills, her regimen requires no fancy equipment. Fitness experts emphasize that building lower-body strength isn’t just for looks; it’s essential for everyday movements, enhancing balance, and preventing injuries.",
-    "img": "https://static.toiimg.com/photo/msid-126967402,imgsize-184800.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raid-actress-tamannaah-bhatias-spain-workout-shows-why-simple-strength-still-works/articleshow/126967402.cms",
-    "time": "2026-01-21T10:05:15.000Z"
-  },
-  {
     "cat": "Business",
     "title": "What is Union Budget? Meaning, importance and process explained",
     "desc": "India's Union Budget, a crucial financial blueprint, is set for presentation on February 1. This annual statement, mandated by the Constitution, details government receipts and expenditures. The Lok Sabha holds primary authority over its passage, with the Rajya Sabha offering recommendations. The budget significantly impacts resource allocation, economic direction, and citizen finances.",
@@ -421,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/pension-boost-cabinet-extends-atal-pension-yojana-till-fy31-funding-support-to-continue-for-outreach-gap-needs/articleshow/126965646.cms",
     "time": "2026-01-21T09:52:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "The go-to director for Telugu cinema’s senior stars",
-    "desc": "Filmmaker Anil Ravipudi is redefining success for veteran Telugu stars by crafting roles that embrace their age, not fight it. His recent hits like 'Bhagavanth Kesari,' 'Sankranthiki Vasthunam,' and 'Mana Shankaar Varu Prasad Garu' prove that mature actors can deliver box-office triumphs by blending star power with relatable narratives and clean humor, captivating audiences across generations.",
-    "img": "https://static.toiimg.com/photo/msid-126965677,imgsize-21400.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/anil-ravipudi-the-go-to-director-for-telugu-cinemas-senior-stars/articleshow/126965561.cms",
-    "time": "2026-01-21T09:51:28.000Z"
   },
   {
     "cat": "Politics",
@@ -504,15 +576,6 @@ const newsData_en = [
     "time": "2026-01-21T07:39:36.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Supreme Court",
-    "desc": "The central question before the Supreme Court was whether a wife’s failure to cohabit with her husband and comply with a decree for restitution of conjugal rights, without sufficient reason, by itself attracts the disqualification under Section 125(4) CrPC, denying her maintenance.",
-    "img": "https://static.toiimg.com/photo/msid-126948799,imgsize-399012.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/legal/news/husband-cannot-evade-maintenance-obligation-solely-for-disobeying-restitution-decree-supreme-court-why-the-ruling-is-important/articleshow/126948292.cms",
-    "time": "2026-01-21T07:25:26.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Enriching progress of India': PM Modi greets Manipur, Meghalaya and Tripura on Statehood day; states formed in 1972",
     "desc": "Prime Minister Narendra Modi extended warm greetings to Manipur, Meghalaya, and Tripura on their Statehood Days, celebrating their rich cultures, scenic beauty, and developmental contributions. He lauded Manipur's passion for sports and nature, Meghalaya's vibrant culture, and Tripura's blend of tradition and progress, wishing them continued growth and prosperity.",
@@ -567,24 +630,6 @@ const newsData_en = [
     "time": "2026-01-21T06:16:22.000Z"
   },
   {
-    "cat": "Business",
-    "title": "AU Small Finance Bank net up 26% to Rs 667 crore",
-    "desc": "AU Small Finance Bank posted a robust Rs 667.66 crore net profit for the December 2025 quarter, a 26.3% jump year-on-year. This growth was fueled by strong core earnings and reduced credit costs, despite higher operating expenses. The bank also announced key leadership changes, including new director appointments and a deputy CEO continuation.",
-    "img": "https://static.toiimg.com/photo/msid-126940498,imgsize-13634.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/au-small-finance-bank-net-up-26-to-rs-667-crore/articleshow/126940251.cms",
-    "time": "2026-01-21T06:13:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Man City suffer Bodo/Glimt shock; Arsenal and Madrid cruise",
-    "desc": "Tuesday’s Champions League action delivered major upsets and dominant wins. Manchester City lost 3–1 to Bodo/Glimt, and PSG fell 2–1 to Sporting CP. Arsenal stayed perfect with a 3–1 win over Inter, securing a top-two finish, while Real Madrid thrashed Monaco 6–1. Tottenham also boosted their top-eight hopes with a 2–0 victory over Dortmund.",
-    "img": "https://static.toiimg.com/photo/msid-126940012,imgsize-78508.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/champions-league/top-stories/champions-league-manchester-city-suffer-setback-against-bodo/glimt-arsenal-and-real-madrid-cruise/articleshow/126939293.cms",
-    "time": "2026-01-21T06:12:11.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "13,479 ft of stupidity: Haryana man pastes 'Gurjar' sticker on BRO milestone in Ladakh; video sparks outrage",
     "desc": "A tourist from Haryana has ignited public fury after defacing a Border Roads Organisation milestone at Ladakh's Fotu La Pass by pasting a caste sticker. The act, captured on video, has been widely condemned as vandalism and irresponsible behaviour in a sensitive border region, prompting calls for strict action against the individual.",
@@ -612,24 +657,6 @@ const newsData_en = [
     "time": "2026-01-21T05:59:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India-Pakistan conflict: Congress takes jibe at PM Modi over 'good friend' Trump's remarks; claims 'count now 70'",
-    "desc": "The Congress party has sharply criticized Prime Minister Narendra Modi following US President Donald Trump's repeated claims of single-handedly resolving the India-Pakistan conflict last year. Trump asserted he prevented a nuclear escalation, saving millions of lives, a claim India has consistently refuted, stating no third-party mediation was involved.",
-    "img": "https://static.toiimg.com/photo/msid-126937845,imgsize-780221.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-pakistan-conflict-congress-takes-jibe-at-pm-modi-over-good-friend-trumps-remarks-claims-count-now-70/articleshow/126937649.cms",
-    "time": "2026-01-21T05:50:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Border 2’ star Ahan Shetty’s childhood pics with dad Suniel Shetty",
-    "desc": "Childhood photos are known to treasure a rare magic. They melt away the polished celeb vibe and show you the real kid underneath. ‘Border 2’ star Ahan Shetty's old snaps are doing just that—pulling us back to a time before red carpets, when he was all wide-eyed innocence and pure cuteness. Let's dive deep into this throwback, reliving Ahan Shetty's childhood moments with his father Sunil Shetty, sister, and mother, amid the ‘Border 2’ release buzz.",
-    "img": "https://static.toiimg.com/photo/msid-126935284,imgsize-871358.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-star-ahan-shettys-childhood-album-adorable-pics-with-father-suniel-shetty-will-melt-your-heart/photostory/126935284.cms",
-    "time": "2026-01-21T05:30:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "PCB backs B'desh in venue standoff, writes to ICC ahead of crucial meet",
     "desc": "Pakistan Cricket Board has formally backed Bangladesh's decision to avoid playing matches in India for the 2026 T20 World Cup. This move comes as the International Cricket Council prepares to meet and decide on Bangladesh's participation. Bangladesh cited political and security concerns for their stance. The ICC has so far maintained that the tournament schedule will not change.",
@@ -639,24 +666,6 @@ const newsData_en = [
     "time": "2026-01-21T05:27:46.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Markets mostly in red ahead of Trump's Davos speech; Nikkei falls 280 points, HSI flat",
-    "desc": "Asian markets tumbled Wednesday, mirroring a sharp US sell-off and escalating geopolitical tensions. Investors grew anxious as US foreign policy concerns and a Danish pension fund's exit from Treasuries unsettled global bond markets. Gold, however, reached an all-time high amid the growing unease and potential for further market disruptions.",
-    "img": "https://static.toiimg.com/photo/msid-126931147,imgsize-515504.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-mostly-in-red-ahead-of-trumps-davos-speech-nikkei-falls-280-points-hsi-flat/articleshow/126930702.cms",
-    "time": "2026-01-21T05:14:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "No hassle over ‘logical discrepancies’: CM Mamata backs new SC directives on SIR; urges officials to ease voter hearings",
-    "desc": "West Bengal Chief Minister Mamata Banerjee has directed district magistrates to prevent voter inconvenience during electoral roll revisions, emphasizing adherence to Supreme Court orders. She stressed accepting all valid documents and making alternative arrangements for hearings. The Chief Minister also highlighted that state development programs must not be disrupted during this process.",
-    "img": "https://static.toiimg.com/photo/msid-126926747,imgsize-941592.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-hassle-over-logical-discrepancies-cm-mamata-backs-new-sc-directives-on-sir-urges-officials-to-ease-voter-hearings/articleshow/126926614.cms",
-    "time": "2026-01-21T04:26:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India’s leading vaulters stranded: Fined by the railways for carrying ‘poles’",
     "desc": "National record holder Dev Meena and his teammates were delayed for hours at Panvel station, missing their train to Bhopal. Railway officials demanded a penalty for their pole vault equipment, deeming them 'steel pipes'. Despite explaining their athlete status, the team paid a fine and incurred extra travel costs, causing significant inconvenience.",
@@ -664,24 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/indias-leading-vaulters-stranded-fined-by-the-railways-for-carrying-poles/articleshow/126922250.cms",
     "time": "2026-01-21T03:56:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Vande Bharat Sleeper littered hours after inaugural run; video goes viral",
-    "desc": "India's first Vande Bharat sleeper train, designed for faster overnight travel, faced immediate criticism after a video emerged showing litter scattered across a coach shortly after its inaugural run. The incident sparked widespread social media commentary on the lack of civic sense among some passengers.",
-    "img": "https://static.toiimg.com/photo/msid-126921698,imgsize-462550.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-vande-bharat-sleeper-littered-hours-after-inaugural-run-video-goes-viral/articleshow/126921549.cms",
-    "time": "2026-01-21T03:47:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Why do we praise Rohit and Dhoni?'",
-    "desc": "India’s ODI series loss to New Zealand has put captain Shubman Gill’s leadership under scrutiny. Former spinner R Ashwin said India lacked clarity in using bowling resources during crucial middle overs. Comparing Gill to Rohit Sharma and MS Dhoni, Ashwin felt India failed to apply timely pressure, questioned Kuldeep Yadav’s limited use, and suggested Gill appeared cautious under pressure with no clear backup plan.",
-    "img": "https://static.toiimg.com/photo/msid-126920508,imgsize-284740.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/why-do-we-praise-rohit-sharma-and-ms-dhoni-shubman-gills-captaincy-under-fire-after-ind-vs-nz-odi-series-loss/articleshow/126918546.cms",
-    "time": "2026-01-21T03:40:02.000Z"
   },
   {
     "cat": "World",
@@ -882,21 +873,30 @@ const newsData_en = [
     "time": "2026-01-19T17:57:48.000Z"
   },
   {
-    "cat": "World",
-    "title": "Trump tells Norway his Greenland threats linked to Nobel Prize snub",
-    "desc": "Trump has intensified his push to wrest sovereignty over Greenland from fellow NATO member Denmark, threatening punitive tariffs on ​countries which stand in his way and prompting the European Union to weigh hitting back with its own measures",
-    "img": "https://th-i.thgim.com/public/incoming/lxd9tc/article70526932.ece/alternates/LANDSCAPE_1200/Greenland-Denmark-US-Timeline_96890.jpg",
+    "cat": "Entertainment",
+    "title": "The Pink Panther franchise through the years",
+    "desc": "What comes to your mind when you hear ‘Pink Panther’? For some of you, it could be the nostalgic cartoons you probably watched growing up. It could be the movies with Steve Martin. Or it could be that iconic saxophone music. Either way, ‘The Pink Panther’ has etched a place in people’s hearts for generations. Let’s trace the history of this evergreen franchise.",
+    "img": "https://th-i.thgim.com/public/incoming/vqnaeu/article70481314.ece/alternates/LANDSCAPE_1200/7949319178_26988ab5f2_b.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-tells-norway-his-greenland-threats-linked-to-nobel-prize-snub/article70525673.ece",
-    "time": "2026-01-19T17:51:46.000Z"
+    "url": "https://www.thehindu.com/entertainment/painting-the-town-pink-the-pink-panther-franchise-through-the-years/article70481358.ece",
+    "time": "2026-01-19T11:21:51.000Z"
   },
   {
-    "cat": "World",
-    "title": "Trump’s Gaza plan: France ‘won’t join’, Canada ‘won’t pay’",
-    "desc": "The Board of Peace’s charter “goes beyond the sole framework of Gaza”, a source close to French President Emmanuel Macron said; “Canada will not pay for a seat on the board, nor has that been requested of Canada at this time,” a government source said.",
-    "img": "https://th-i.thgim.com/public/incoming/ruwff/article70526854.ece/alternates/LANDSCAPE_1200/2026-01-06T144128Z_2007563459_RC2PVIALQOEB_RTRMADP_3_UKRAINE-CRISIS-COALITION.JPG",
+    "cat": "Tech",
+    "title": "The ‘chroma key’ to  great filmmaking: How green screen technology works",
+    "desc": "Have you ever watched a film with some special add-ons and wondered, ‘How do they do that?’. Well, the answer lies in a screen of a very specific colour. Let’s explore the magic of chroma keying. Lights, camera, action!",
+    "img": "https://th-i.thgim.com/public/incoming/3a5idy/article70473764.ece/alternates/LANDSCAPE_1200/3028956788_5629cf5193_o.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/france-to-decline-canada-not-paying-trump-peace-board-invite-sources/article70526785.ece",
-    "time": "2026-01-19T17:14:42.000Z"
+    "url": "https://www.thehindu.com/entertainment/movies/the-chroma-key-to-great-filmmaking-how-green-screen-technology-works/article70473774.ece",
+    "time": "2026-01-19T11:09:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tennis Australia defends prize money amid player complaints",
+    "desc": "The Australian Open hiked prize money ​to A$111.5 million ($74.56 million) for the current tournament, bringing it ahead of last year’s French Open ($65.42 million) and Wimbledon ($71.60 million) but short of the U.S. Open’s purse ($90 million)",
+    "img": "https://th-i.thgim.com/public/incoming/jwuyos/article70476664.ece/alternates/LANDSCAPE_1200/AP02_04_2021_000012B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/tennis-australia-defends-prize-money-amid-player-complaints/article70524404.ece",
+    "time": "2026-01-19T05:53:00.000Z"
   }
 ];
