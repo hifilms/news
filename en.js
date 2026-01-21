@@ -1,5 +1,140 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "L'Oreal to pump 3.5k cr in 1st AI-powered global tech hub",
+    "desc": "Beauty giant L'Oreal is establishing its inaugural AI-powered global beauty tech innovation hub in Hyderabad, investing 350 million euros by 2030. This first-of-its-kind facility will focus on next-generation AI beauty innovations, creating approximately 2,000 advanced tech jobs and integrating with L'Oreal's global tech network.",
+    "img": "https://static.toiimg.com/photo/msid-127052315,imgsize-1077357.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/loreal-to-pump-3-5k-cr-in-1st-ai-powered-global-tech-hub/articleshow/127052216.cms",
+    "time": "2026-01-21T21:06:20.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Cabinet approves Rs 5,000cr equity infusion for Sidbi",
+    "desc": "The Union cabinet has approved Rs 5,000 crore in equity support for Sidbi to boost credit flow to small businesses. This infusion, spread over three years, aims to enable Sidbi to offer competitive loans to MSMEs. The initiative is projected to create 1.1 crore jobs and add 25.7 lakh new MSME beneficiaries by 2027-28.",
+    "img": "https://static.toiimg.com/photo/msid-127051353,imgsize-65106.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/cabinet-approves-5000cr-equity-infusion-for-sidbi/articleshow/127051072.cms",
+    "time": "2026-01-21T20:54:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Bachchan wouldn't allow anyone from the industry at his home after 8pm'",
+    "desc": "Actor Raja Bundela lauded Amitabh Bachchan's unwavering discipline, recounting an incident where Big B ensured a Goa shoot proceeded despite forgotten continuity shoes. Bachchan personally arranged for their overnight delivery via bus and early flight, showcasing his commitment. Bundela also highlighted Bachchan's strict work-life balance, avoiding industry gossip and maintaining family time.",
+    "img": "https://static.toiimg.com/photo/msid-127047173,imgsize-218426.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-wouldnt-allow-anyone-from-the-industry-at-his-home-after-8pm-kept-that-balance-between-work-and-family-life-says-his-co-star/articleshow/127047068.cms",
+    "time": "2026-01-21T20:18:22.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iranian state TV issues first official death toll from recent protests, saying 3,117 were killed",
+    "desc": "The comments by Foreign Minister Abbas Araghchi, who saw his invitation to the World Economic Forum in Davos rescinded over the killings, came as a U.S. aircraft carrier group moved west toward the Middle East from Asia",
+    "img": "https://th-i.thgim.com/public/incoming/cj9zl3/article70535294.ece/alternates/LANDSCAPE_1200/Iran_Protests_Death_Toll_48846.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iranian-state-tv-issues-first-official-death-toll-from-recent-protests-saying-3117-were-killed/article70535246.ece",
+    "time": "2026-01-21T20:08:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Archana and Parmeet recall eloping to marry overnight",
+    "desc": "After 35 years of togetherness, Archana Puran Singh and Parmeet Sethi revisited their impulsive decision to elope and get married. The duo opened up candidly about their love story in their new YouTube talk series Pyaar Dosti Hai.",
+    "img": "https://static.toiimg.com/photo/msid-127043420,imgsize-284986.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/archana-puran-singh-and-parmeet-sethi-recall-eloping-to-marry-overnight-due-to-parental-disapproval-we-didnt-want-to-wait/articleshow/127043163.cms",
+    "time": "2026-01-21T19:44:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yuzvendra Chahal, RJ Mahvash unfollow each other on social media?",
+    "desc": "Eagle-eyed fans noticed Indian cricketer Yuzvendra Chahal and influencer RJ Mahvash have unfollowed each other on Instagram, reigniting dating rumours that surfaced after Chahal's divorce. Despite previously denying a romantic relationship and stating they were just friends who supported each other through tough times, the social media unfollowing has sparked renewed speculation and online discussion.",
+    "img": "https://static.toiimg.com/photo/msid-127042666,imgsize-190994.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yuzvendra-chahal-rj-mahvash-unfollow-each-other-on-social-media-eagle-eyed-netizens-think-so-see-inside/articleshow/127042444.cms",
+    "time": "2026-01-21T19:37:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Census to count ‘near endangered’ Kashmir Markhor population to begin in Feb",
+    "desc": "A census to count the elusive Kashmir Markhor, the world's largest wild mountain goat, will commence in early February. The Wildlife Trust of India, in collaboration with the J&K wildlife department, will conduct the survey in Kazinag National Park and other sanctuaries. This initiative aims to gather crucial data for conservation efforts of the 'near threatened' species.",
+    "img": "https://static.toiimg.com/photo/msid-127040215,imgsize-970421.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/census-to-count-near-endangered-kashmir-markhor-population-to-begin-in-feb/articleshow/127040013.cms",
+    "time": "2026-01-21T19:16:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sajad Lone questions Jammu-Kashmir unity, advocates cordial split",
+    "desc": "Peoples Conference chief Sajad Gani Lone advocated for the separation of Jammu and Kashmir, arguing it would not lead to animosity. He questioned Kashmir's disproportionate burden in safeguarding secularism and highlighted alleged hatred from Jammu, suggesting an 'amicable divorce' amid ongoing discrimination claims.",
+    "img": "https://static.toiimg.com/photo/msid-127039451,imgsize-642954.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sajad-lone-questions-jammu-kashmir-unity-advocates-cordial-split/articleshow/127039504.cms",
+    "time": "2026-01-21T19:11:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Greatest composer'",
+    "desc": "Filmmaker Ram Gopal Varma has clarified his earlier viral interview regarding the 'Jai Ho' song, stating he was misquoted and taken out of context. Varma emphasized that AR Rahman is the greatest composer and a kind human being, never one to take credit. He expressed hope this puts an end to the negativity surrounding the issue.",
+    "img": "https://static.toiimg.com/photo/msid-127038780,imgsize-274228.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-clarifies-his-statement-about-ar-rahman-not-composing-the-oscar-winning-song-jai-ho-calls-him-greatest-composer-and-the-nicest-human-being-netizens-react/articleshow/127036282.cms",
+    "time": "2026-01-21T19:07:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ahead of key Ladakh meet, Buddhist group meets MoS Home, opposes statehood demand",
+    "desc": "A delegation from Zanskar, Kargil, met with Union Minister Nityanand Rai to oppose Ladakh's statehood demand, seeking instead a separate autonomous council for their region. They also requested the formal operationalization of Zanskar as a new district. This comes ahead of crucial talks between the home ministry and Ladakhi representatives focused on statehood and the Sixth Schedule.",
+    "img": "https://static.toiimg.com/photo/msid-127038888,imgsize-766798.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ahead-of-key-ladakh-meet-buddhist-group-meets-mos-home-opposes-statehood-demand/articleshow/127038874.cms",
+    "time": "2026-01-21T19:07:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rajasthan approves draft Bill to restrict property transfer in ‘disturbed areas’ to address communal tension",
+    "desc": "Law Minister Jogaram Patel said after the Cabinet meeting in Jaipur that the areas affected by violence, mob unrest, or “improper clustering” — with a change in demographic profile — could be declared as disturbed",
+    "img": "https://th-i.thgim.com/public/incoming/3iog2a/article70535237.ece/alternates/LANDSCAPE_1200/DSC_6696.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-approves-draft-bill-to-restrict-property-transfer-in-disturbed-areas-to-address-communal-tension/article70533972.ece",
+    "time": "2026-01-21T19:07:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Omar invokes Jinnah’s two-nation theory to taunt calls for separate Jammu state",
+    "desc": "Jammu and Kashmir Chief Minister Omar Abdullah accused BJP MLAs of promoting Muhammad Ali Jinnah’s two-nation theory by demanding a separate Jammu state. He argued their ambition would lead to a religiously divided region. BJP leader Sunil Sharma denied these claims, stating his focus is on public service, not personal ambition.",
+    "img": "https://static.toiimg.com/photo/msid-127038440,imgsize-1050309.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/omar-invokes-jinnahs-two-nation-theory-to-taunt-calls-for-separate-jammu-state/articleshow/127038477.cms",
+    "time": "2026-01-21T19:03:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&amp;K: Op Trashi-I enters Day 4, hunt for ultras intensified",
+    "desc": "Operation Trashi-I continues for the fourth day in Kishtwar's dense forests, with security forces intensifying their search for fleeing terrorists. Following an ambush that wounded eight soldiers and claimed one life, additional forces have been deployed. Meanwhile, enhanced security checks are underway across several districts ahead of Republic Day, focusing on foreign nationals.",
+    "img": "https://static.toiimg.com/photo/msid-127037731,imgsize-1641965.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-op-trashi-i-enters-day-4-hunt-for-ultras-intensified/articleshow/127037781.cms",
+    "time": "2026-01-21T18:57:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Probe ordered into college student’s suicide in Doda, professor suspended",
+    "desc": "A committee has been formed to investigate the alleged suicide of a 20-year-old student in Doda after she was barred from her semester exam. The student reportedly jumped into the Chenab River after her mobile phone was confiscated and she was warned of disciplinary action. An assistant professor has been suspended pending the inquiry.",
+    "img": "https://static.toiimg.com/photo/msid-127036436,imgsize-1210193.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-probe-ordered-into-college-students-suicide-in-doda-professor-suspended/articleshow/127036554.cms",
+    "time": "2026-01-21T18:48:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Manoj Muntashir rejects AR Rahman’s communal bias claim",
+    "desc": "Lyricist and poet Manoj Muntashir has taken a firm stand against AR Rahman’s recent remarks on alleged communal bias in the Hindi film industry. In a recent interview, Manoj strongly refuted the claim, pointing to India’s biggest superstars and the industry’s long-standing inclusiveness.",
+    "img": "https://static.toiimg.com/photo/msid-127033321,imgsize-196880.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manoj-muntashir-rejects-ar-rahmans-communal-bias-claim-indias-biggest-superstars-are-salman-khan-shah-rukh-khan-and-aamir-khan/articleshow/127032712.cms",
+    "time": "2026-01-21T18:24:48.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Border 2 producer responds to Akhtar’s ‘creative bankruptcy’ remark",
     "desc": "Sunny Deol starrer Border 2 is gearing up for its January 23 theatrical release. However, the film has found itself at the centre of a debate over creativity versus legacy. The controversy erupted after veteran lyricist Javed Akhtar criticised the recreation of classic songs. Producer Bhushan Kumar has now clarified why retaining Sandese Aate Hain was non-negotiable for the sequel.",
@@ -91,6 +226,15 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
+    "title": "Lancet experts call for a ‘citizen-centric’ healthcare delivery and use of technology",
+    "desc": "The commission said with “WHO facing serious difficulties and the U.S. Government in retreat from global health”, India can be “an even stronger voice for the Global South and promote a more equitable distribution of power in a multipolar global order”",
+    "img": "https://th-i.thgim.com/public/incoming/gjnogf/article70534947.ece/alternates/LANDSCAPE_1200/DSC_1304.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/health/lancet-experts-call-for-citizen-centric-healthcare-pitch-for-indias-role-in-global-south/article70534218.ece",
+    "time": "2026-01-21T16:39:01.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Delhi govt to increase its sewage treatment capacity to 1,500 MGD by 2028: CM Gupta",
     "desc": "Delhi aims to boost its sewage treatment capacity to 1,500 MGD by 2028 to clean the Yamuna River. The government will complete drone surveys of drains by January and connect all unauthorized colonies to the sewerage network by 2028. Coordination with Haryana and Uttar Pradesh is deemed essential for the river's cleanup.",
     "img": "https://static.toiimg.com/photo/msid-127018988,imgsize-44778.cms",
@@ -163,7 +307,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Around 3.26 crore Uttar Pradesh voters could get SIR hearing notices",
+    "title": "Around 3.26 crore U.P. voters could get SIR hearing notices",
     "desc": "Of these 3.26 crore people, the names of nearly 1.04 crore could not be mapped to the 2003 voter lists when the last SIR had been conducted, while 2.22 crore had “logical discrepancies” in mapping",
     "img": "https://th-i.thgim.com/public/incoming/br26l4/article70534779.ece/alternates/LANDSCAPE_1200/22_SPOTLIGHT_SIR_VOTER_LIST%20UTTAR_PRADESH.jpg",
     "src": "thehindu.com",
@@ -225,15 +369,6 @@ const newsData_en = [
     "time": "2026-01-21T15:04:33.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sara Arjun reacts to 20 year old age gap with Ranveer Singh",
-    "desc": "Sara Arjun defended her casting with Ranveer Singh in the hit film Dhurandhar, despite the 20-year age gap backlash on social media. In an interview, she embraced differing opinions, saying, “Everyone has their own view—I live and let live.” She praised Ranveer as an unmatched, team-focused co-star. The Aditya Dhar-directed spy thriller, 2025’s top grosser at over Rs 1300 crore, sequel out March 19, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-127003639,imgsize-137306.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-star-sara-arjun-reacts-to-20-year-old-age-gap-with-ranveer-singh-says-everyone-has-their-opinion/articleshow/127003639.cms",
-    "time": "2026-01-21T14:41:58.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Uttarakhand CMO says services available in 23 languages; AI support enabled",
     "desc": "Uttarakhand's Uniform Civil Code services are now accessible in all 22 constitutionally recognized Indian languages, alongside English. Applicants can leverage AI assistance for guidance and registration, ensuring a smooth process. This multilingual platform, developed by ITDA, aims to simplify access to UCC rules and documentation, reflecting the government's commitment to ease of use and technological advancement.",
@@ -270,15 +405,6 @@ const newsData_en = [
     "time": "2026-01-21T14:27:31.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vishal and Sundar C's reunion titled'Purushan', title teaser out",
-    "desc": "Director Sundar C is back with Vishal for a new commercial entertainer titled 'Purushan'. The first-look teaser hints at a humorous, mass-packed film with Vishal in multiple roles, serving 'Tea and Justice'. This reunion with composer Hip Hop Tamizha Adhi follows their successful 'Aambala', promising a familiar blend of comedy and action for audiences.",
-    "img": "https://static.toiimg.com/photo/msid-126996903,imgsize-480576.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishal-and-sundar-c-reunite-for-purushan-first-look-teaser-promises-a-masala-riot/articleshow/126996903.cms",
-    "time": "2026-01-21T13:52:16.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Investing in a child’s name: How mutual fund accounts for minors work, rules to know, and tax impact explained",
     "desc": "Parents can invest in mutual funds for minors, with the child as the sole holder, managed by a guardian. Upon turning 18, control fully transfers to the child. While beneficial for disciplined long-term savings, parents lose control post-majority. Tax implications differ before and after the child becomes an adult.",
@@ -297,22 +423,13 @@ const newsData_en = [
     "time": "2026-01-21T13:45:50.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Panchayat 5 NEW poster features Jitendra Kumar, Neena Gupta",
-    "desc": "The beloved village drama 'Panchayat' is officially confirmed for Season 5, with a new poster igniting fan excitement. Writing has commenced, and shooting is anticipated by year-end or early next year, with a potential release around May-June 2026. Expect new political dynamics and deeper character arcs following the recent Pradhan election, with the core cast returning.",
-    "img": "https://static.toiimg.com/photo/msid-126995402,imgsize-272724.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/panchayat-season-5-confirmed-phuleras-favourite-village-drama-to-return-with-new-twists/articleshow/126995402.cms",
-    "time": "2026-01-21T13:43:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mithila Palkar on Vir Das’ acting tip for ‘Happy Patel’",
-    "desc": "Khatarnak Jasoos. He advised blocking out comedy timing worries and focusing on lines alone. This boosted her confidence immensely. In an interview, she shared his words: \"Don't overthink; say the lines, comedy will follow.\" Feeling guided, she thrived riffing with him.",
-    "img": "https://static.toiimg.com/photo/msid-126992778,imgsize-276758.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mithila-palkar-on-vir-das-acting-tip-for-happy-patel-i-knew-i-was-in-safe-hands/articleshow/126992778.cms",
-    "time": "2026-01-21T13:17:09.000Z"
+    "cat": "Sports",
+    "title": "Abhishek’s six-hitting blitz helps Men in Blue go one up",
+    "desc": "The opener smashes a 35-ball 84 with eight maximums while Rinku cuts loose at the death to take the home team to 238; Black Caps lose the plot once Phillips falls after a swashbuckling knock",
+    "img": "https://th-i.thgim.com/public/incoming/nf6px9/article70535104.ece/alternates/LANDSCAPE_1200/017.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-first-t20i-january-21-2026/article70534080.ece",
+    "time": "2026-01-21T13:23:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -441,15 +558,6 @@ const newsData_en = [
     "time": "2026-01-21T10:30:46.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Affordability, tax rationalisation &amp; more; here's what the sector wants",
-    "desc": "The real estate sector is anticipating Budget 2026 to bring policy continuity, targeted fiscal measures, and long-pending reforms. Industry leaders are seeking measures to address housing affordability, boost urban growth, improve capital access, and expedite regulatory approvals to sustain market confidence and long-term investment.",
-    "img": "https://static.toiimg.com/photo/msid-126969927,imgsize-125312.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-real-estate-expectations-affordability-tax-rationalisation-more-heres-what-the-sector-wants/articleshow/126966559.cms",
-    "time": "2026-01-21T10:23:40.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Dhurandhar' box office day 48 (LIVE)",
     "desc": "'Dhurandhar' continues its record-breaking streak, now surpassing 'Stree 2' for the 7th-week box office record. The film's phenomenal run has seen it top charts for multiple weeks, solidifying its status as an All-Time Blockbuster with a worldwide collection exceeding Rs 1285 crore.",
@@ -495,15 +603,6 @@ const newsData_en = [
     "time": "2026-01-21T10:04:29.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Cabinet extends Atal Pension Yojana till FY31; funding support to continue for outreach &amp; gap needs",
-    "desc": "The Union Cabinet has approved the continuation of the Atal Pension Yojana until FY 2030-31. This decision includes extended government funding for promotional and developmental activities. The move aims to strengthen old-age income security for unorganised sector workers.",
-    "img": "https://static.toiimg.com/photo/msid-126966155,imgsize-483699.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/pension-boost-cabinet-extends-atal-pension-yojana-till-fy31-funding-support-to-continue-for-outreach-gap-needs/articleshow/126965646.cms",
-    "time": "2026-01-21T09:52:38.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Will hunt you down': TMC's Manirul Islam browbeats EC over SIR; threatens to 'teach a lesson'",
     "desc": "Manirul Islam, threatening the Election Commission, is not his first brush with controversy, as the Farakka MLA was accused of leading a mob to the Block Development Office (BDO) in his constituency and ransacking the space, leaving officials injured. After the incident, BJP MLA Gouri Sankar attacked Mamata Banerjee for instigating her party cadres across the state to commit riots and violence.",
@@ -529,24 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/wpl-rcb-players-take-morning-walk-on-indian-road-video-goes-viral/articleshow/126955736.cms",
     "time": "2026-01-21T08:38:50.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Budget 2026 MSMEs &amp; startups wishlist: Industry bodies seek liquidity relief; call for easier compliance",
-    "desc": "Industry bodies are urging the Union Budget 2026 to prioritize MSMEs and startups, focusing on liquidity, cost reduction, and export promotion. Key demands include faster refunds, simplified compliance, and improved access to credit to foster entrepreneurship and sustainable growth amid funding and regulatory challenges.",
-    "img": "https://static.toiimg.com/photo/msid-126956320,imgsize-634858.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-msmes-startups-wishlist-industry-bodies-seek-liquidity-relief-call-for-easier-compliance/articleshow/126955188.cms",
-    "time": "2026-01-21T08:27:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold price skyrocket to new record! Yellow metal surges over Rs 3,200 to cross Rs 1.53 lakh — Should you buy or sell?",
-    "desc": "Gold prices hit a record high on Wednesday, with silver trading near its all-time peak. Investors flocked to these safe-haven assets amidst escalating geopolitical tensions and trade uncertainties. The surge was fueled by a US Supreme Court decision and tariff threats, driving domestic and international markets higher. Experts advise a cautious 'buy-on-dips' approach.",
-    "img": "https://static.toiimg.com/photo/msid-126955095,imgsize-53648.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-skyrocket-to-new-record-yellow-metal-surges-over-rs-3200-to-cross-rs-1-53-lakh-should-you-buy-or-sell/articleshow/126953079.cms",
-    "time": "2026-01-21T08:17:19.000Z"
   },
   {
     "cat": "Sports",
@@ -576,15 +657,6 @@ const newsData_en = [
     "time": "2026-01-21T07:39:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Enriching progress of India': PM Modi greets Manipur, Meghalaya and Tripura on Statehood day; states formed in 1972",
-    "desc": "Prime Minister Narendra Modi extended warm greetings to Manipur, Meghalaya, and Tripura on their Statehood Days, celebrating their rich cultures, scenic beauty, and developmental contributions. He lauded Manipur's passion for sports and nature, Meghalaya's vibrant culture, and Tripura's blend of tradition and progress, wishing them continued growth and prosperity.",
-    "img": "https://static.toiimg.com/photo/msid-126947376,imgsize-1079694.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/enriching-progress-of-india-pm-modi-greets-manipur-meghalaya-and-tripura-on-statehood-day-states-formed-in-1972/articleshow/126947017.cms",
-    "time": "2026-01-21T07:19:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘We want to play’: B'desh batter voices players' plea as standoff deepens",
     "desc": "Bangladesh cricketers express a strong desire to participate in the upcoming T20 World Cup. Star batter Najmul Hossain Shanto highlighted the players' eagerness to compete on the global stage. This comes as the Bangladesh Cricket Board maintains its stance against playing matches in India. The International Cricket Council Board is set to make a final decision on the matter soon.",
@@ -603,15 +675,6 @@ const newsData_en = [
     "time": "2026-01-21T06:50:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Will continue working bilaterally': Spanish President Sánchez to visit India; strategic partnership, EU trade talks on agenda",
-    "desc": "Spanish foreign minister Jose Manuel Albares announced President Pedro Sánchez's upcoming visit to India, aiming to elevate bilateral ties to a strategic partnership. Both nations are keen on strengthening cooperation across various sectors, including trade, technology, and culture, with Albares expressing optimism for an EU-India Free Trade Agreement and highlighting successful collaborations like Airbus-Tata.",
-    "img": "https://static.toiimg.com/photo/msid-126944737,imgsize-1067887.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/will-continue-working-bilaterally-spanish-president-snchez-to-visit-india-strategic-partnership-eu-trade-talks-on-agenda/articleshow/126944238.cms",
-    "time": "2026-01-21T06:47:24.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. Supreme Court does not issue ruling on Trump's tariffs",
     "desc": "Donald Trump said ​he does not know ‌how the ​Supreme Court will rule on the legality of his global tariffs, but said Washington might have to ​repay hundreds of ⁠billions of dollars in tariffs if it lost the ​case",
@@ -628,24 +691,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/european-t20-premier-league-bollywoods-flair-former-and-current-cricket-legends-and-a-hockey-great-headline-new-league/articleshow/126938220.cms",
     "time": "2026-01-21T06:16:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "13,479 ft of stupidity: Haryana man pastes 'Gurjar' sticker on BRO milestone in Ladakh; video sparks outrage",
-    "desc": "A tourist from Haryana has ignited public fury after defacing a Border Roads Organisation milestone at Ladakh's Fotu La Pass by pasting a caste sticker. The act, captured on video, has been widely condemned as vandalism and irresponsible behaviour in a sensitive border region, prompting calls for strict action against the individual.",
-    "img": "https://static.toiimg.com/photo/msid-126939033,imgsize-399954.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/13479-ft-of-stupidity-haryana-man-pastes-gurjar-sticker-on-bro-milestone-in-ladakh-video-sparks-outrage/articleshow/126938835.cms",
-    "time": "2026-01-21T06:09:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Don’t close Punjab Kesari press: Supreme Court to Punjab",
-    "desc": "The Supreme Court has permitted Punjab Kesari to resume operations at one of its printing presses, which had been shut down by the state pollution control board. The court expressed less concern for a hotel run by the group but emphasized that the printing press should not be closed, despite allegations of liquor bottles being found there.",
-    "img": "https://static.toiimg.com/photo/msid-126938925,imgsize-1654008.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dont-close-punjab-kesari-press-supreme-court-to-punjab/articleshow/126938617.cms",
-    "time": "2026-01-21T05:59:44.000Z"
   },
   {
     "cat": "Sports",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/un-has-coexisted-with-other-bodies-spokesperson-says-on-trumps-gaza-board-of-peace/article70528048.ece",
     "time": "2026-01-20T05:12:24.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Why SIR verification needs to be completely digitised",
-    "desc": "SIR 2.0, aimed at updating electoral rolls, has caused confusion and distress among voters. Despite the ECINet’s ability to handle data entry, verification, cross-checks, and audit trails, the process has relied heavily on paper-based forms, summons, and hearings",
-    "img": "https://th-i.thgim.com/public/incoming/2apqe1/article70526832.ece/alternates/LANDSCAPE_1200/PTI01_19_2026_000221A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/why-sir-verification-needs-to-be-completely-digitised/article70525723.ece",
-    "time": "2026-01-20T03:00:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "WPL-4: Gautami, bowlers ensure RCB becomes first team to seal playoffs spot",
-    "desc": "The No. 4 batter stitches together handy partnerships of 60 and 69 with Smriti and Richa, respectively; Sayali scalps three while fellow medium-pacer de Klerk chips in with a couple; Gardner’s all-round show not enough for Giants",
-    "img": "https://th-i.thgim.com/public/incoming/i5iit4/article70526931.ece/alternates/LANDSCAPE_1200/TH20-GAUTAMI.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/wpl-4-gautami-bowlers-ensure-rcb-becomes-first-team-to-seal-playoffs-spot/article70526938.ece",
-    "time": "2026-01-19T17:57:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "The Pink Panther franchise through the years",
-    "desc": "What comes to your mind when you hear ‘Pink Panther’? For some of you, it could be the nostalgic cartoons you probably watched growing up. It could be the movies with Steve Martin. Or it could be that iconic saxophone music. Either way, ‘The Pink Panther’ has etched a place in people’s hearts for generations. Let’s trace the history of this evergreen franchise.",
-    "img": "https://th-i.thgim.com/public/incoming/vqnaeu/article70481314.ece/alternates/LANDSCAPE_1200/7949319178_26988ab5f2_b.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/painting-the-town-pink-the-pink-panther-franchise-through-the-years/article70481358.ece",
-    "time": "2026-01-19T11:21:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "The ‘chroma key’ to  great filmmaking: How green screen technology works",
-    "desc": "Have you ever watched a film with some special add-ons and wondered, ‘How do they do that?’. Well, the answer lies in a screen of a very specific colour. Let’s explore the magic of chroma keying. Lights, camera, action!",
-    "img": "https://th-i.thgim.com/public/incoming/3a5idy/article70473764.ece/alternates/LANDSCAPE_1200/3028956788_5629cf5193_o.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/the-chroma-key-to-great-filmmaking-how-green-screen-technology-works/article70473774.ece",
-    "time": "2026-01-19T11:09:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tennis Australia defends prize money amid player complaints",
-    "desc": "The Australian Open hiked prize money ​to A$111.5 million ($74.56 million) for the current tournament, bringing it ahead of last year’s French Open ($65.42 million) and Wimbledon ($71.60 million) but short of the U.S. Open’s purse ($90 million)",
-    "img": "https://th-i.thgim.com/public/incoming/jwuyos/article70476664.ece/alternates/LANDSCAPE_1200/AP02_04_2021_000012B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/tennis/tennis-australia-defends-prize-money-amid-player-complaints/article70524404.ece",
-    "time": "2026-01-19T05:53:00.000Z"
   }
 ];
