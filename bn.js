@@ -1,12 +1,30 @@
 const newsData_bn = [
   {
     "cat": "World",
-    "title": "গ্রিনল্যান্ডে মার্কিন সামরিক বিমান ! বাহিনী মোতয়েন ডেনমার্কেরও, গোটা পরিস্থিতি এখন কোনদিকে?",
+    "title": "‘পৃথিবীর বুক থেকে মুছে দেবে...,’ইরানকে ফের হুমকি! ট্রাম্প বললেন, ‘আমার যদি কিছু হয়..’",
+    "desc": "এই বাক বিতণ্ডা শুরু হয় ট্রাম্পের একটি সাম্প্রতিক সাক্ষাৎকারের পর থেকে৷ সেখানে ট্রাম্প বলেছিলেন,‘‘ (উনি) একজন অসুস্থ মানুষ যাঁর উচিত তাঁর দেশ সঠিকভাবে পরিচালনা করা এবং মানুষ হত্যা বন্ধ করা’’ এবং ‘‘ইরানে নতুন নেতৃত্ব খোঁজার সময় এসেছে’’ বলে বর্ণনা করেছিলেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-2026-01-21T132347.591-2026-01-684370aeaa92243eacee6edc85366f8a-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/international/donald-trump-says-america-will-wipe-out-iran-if-it-he-is-in-amy-life-threat-from-them-us-iran-tensions-sta-2506779.html",
+    "time": "2026-01-21T08:05:24.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "গ্রিনল্যান্ডে মার্কিন সামরিক বিমান ! বাহিনী মোতায়েন ডেনমার্কেরও, গোটা পরিস্থিতি এখন কোনদিকে?",
     "desc": "গত কয়েক দিন ধরে গ্রিনল্যান্ডে আরও বেশি সেনা মোতায়েন করতে শুরু করেছে ডেনমার্ক। সোমবারও বাহিনী পাঠানো হয়েছে সেখানে। এই পরিস্থিতিতে আমেরিকা সামরিক বিমান পাঠানোর সিদ্ধান্ত নেওয়ায় কূটনৈতিক উত্তেজনা আরও বৃদ্ধি পেয়েছে বলে মনে করা হচ্ছে।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/01/US-Deploy-Aircraft-at-Greenland-2026-01-347d732fbee53f70defe03d36a0db165-3x2.jpg",
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/international/us-sends-military-aircraft-to-greenland-as-denmark-boosts-troop-presence-update-on-this-ss-2506358.html",
-    "time": "2026-01-21T03:50:13.000Z"
+    "time": "2026-01-21T07:42:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "এলাহী 'ভোজ' তো...! হাওড়া-কামাখ্যা বন্দে ভারত স্লিপারের 'মেনুতে' কী কী থাকছে জানেন? চমকে দেবে তালিকা!",
+    "desc": "বন্দেভারতের প্রথম স্লিপার ট্রেনে পরিবেশিত খাবারেও দুই রাজ্যের স্বাদই চোখে পড়বে। নতুন স্লিপার ট্রেনের যে মেনু প্রকাশ্যে এসেছে, জানা গিয়েছে, তাতে থাকবে পশ্চিমবঙ্গ এবং অসম— এই দুই রাজ্যেরই ঐতিহ্যশালী সব পদ আর লোভনীয় সব খাবারদাবার।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-21-at-11.35.02-1-2026-01-d9781bd7f5a78d3d9bead6fac2ee3f43-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/vande-bharat-sleeper-menu-what-a-lavish-feast-do-you-know-whats-on-the-menu-of-the-howrah-kamakhya-vande-bharat-sleeper-train-the-list-will-surprise-you-for-sure-sanj-2506701.html",
+    "time": "2026-01-21T06:57:09.000Z"
   },
   {
     "cat": "Entertainment",
@@ -702,15 +720,6 @@ const newsData_bn = [
     "time": "2026-01-16T06:15:21.000Z"
   },
   {
-    "cat": "World",
-    "title": "বেনজির! ভেনেজুয়েলার মাচাদোর নোবেল শান্তি পুরস্কার নিয়ে নিলেন ট্রাম্প, অবিশ্বাস্য...",
-    "desc": "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে নিজের নোবেল শান্তি পুরস্কারের পদক উপহার দিয়েছেন ভেনেজুয়েলার বিরোধী নেতা মারিয়া কোরিনা মাচাদো। গতকাল বৃহস্পতিবার হোয়াইট হাউসে তিনি ট্রাম্পের সঙ্গে সাক্ষাৎ করে নোবেল হাতে তুলে দেন। মাচাদো বলেন, তিনি ট্রাম্পকে তাঁর নোবেল শান্তি পুরস্কারের পদক উপহার দিয়েছেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/donald-trump-accepts-nobel-peace-prize-medal-from-venezuelas-maria-machado_635429.html ",
-    "time": "2026-01-16T04:59:21.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "আইপ্যাক কাণ্ডে ইডি অফিসারদের বিরুদ্ধে এফআইআর-এ স্থগিতাদেশ দিল সুপ্রিম কোর্ট!",
     "desc": "আইপ্যাক কাণ্ডে ইডি অফিসারদের বিরুদ্ধে এফআইআর রুজু করা হয়েছে। ২টি শেক্সপীয়র সরণী থানায় এবং ২টি ইসিপিএস থানায়। সোমবার সেই মামলার শুনানির নির্দেশে সুপ্রিম কোর্ট স্পষ্ট করে জানিয়ে দিল, শেক্সপিয়ার সরণী থানা ও ইলেকট্রনিক কমপ্লেক্স থানায় FIR ওপর স্থগিতাদেশ জারি করা হল। সেই সঙ্গে সব পক্ষকে নোটিসও জারি করল সর্বোচ্চ আদালত।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/world-cup-cricket-facts-4-indian-cricketers-who-won-u19-world-cup-and-t20-world-cup-rdp-2496579.html",
     "time": "2026-01-14T17:31:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "অভাব আর একাকীত্বই কাড়ল প্রাণ! নিভৃতে বিদায় নিলেন মহালয়ার জনপ্রিয় অভিনেতা অমল চৌধুরী...",
-    "desc": "দূরদর্শনের সেই অট্টহাসি আজ স্তব্ধ; অভাবের কাছে হার মানলেন প্রবীণ শিল্পী অমল চৌধুরী। বুধবার উত্তর ২৪ পরগনার অশোকনগরের নিজ বাসভবন থেকে তাঁর নিথর দেহ উদ্ধার করা হয়। সময়ের নিয়মে স্পটলাইটের আলো যত ম্লান হয়েছে, অমলবাবুর জীবনে ততই জাঁকিয়ে বসেছিল অর্থকষ্ট। বুধবার তাঁর ঘর থেকে কোনো সাড়া না পেয়ে স্থানীয় কাউন্সিলর অরূপ দাসের উপস্থিতিতে পুলিশ দরজা ভেঙে তাঁর দেহ উদ্ধার করে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/amal-asur-amal-chowdhury-doordarshan-actor-passes-away-ashoknagar_635105.html ",
-    "time": "2026-01-14T16:19:09.000Z"
   }
 ];

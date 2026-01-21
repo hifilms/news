@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Daryl Mitchell trumps Virat Kohli to become top batter in ICC ODI rankings after blockbuster India series",
+    "desc": "New Zealand batter Daryl Mitchell is the new number one batter in the latest ICC ODI rankings. He smashed centuries in the second and third ODIs against India and was expected to overtake Virat Kohli...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/daryl-mitchell-trumps-virat-kohli-to-become-top-batter-in-icc-odi-rankings-after-blockbuster-india-series-2026-01-21-1026819",
+    "time": "2026-01-21T08:12:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England announce playing XI for first ODI vs Sri Lanka, recall opening batter after 776 days",
+    "desc": "England have named their playing XI for the first ODI of the three-match series against Sri Lanka starting on January 22. The match will be played at the R Premadasa Stadium in Colombo, the venue...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-announce-playing-xi-for-first-odi-vs-sri-lanka-recall-opening-batter-after-776-days-2026-01-21-1026815",
+    "time": "2026-01-21T08:02:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "PCB writes to ICC supporting Bangladesh's stance in T20 World Cup 2026 controversy",
     "desc": "The International Cricket Council (ICC) is set to take a final call today on Bangladesh's participation in the T20 World Cup 2026, scheduled to get underway on February 7. A day before the development, the...",
     "img": "",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/real-madrid-vs-monaco-when-and-where-to-watch-uefa-champions-league-clash-on-tv-and-stream-online-in-india-2026-01-20-1026719",
     "time": "2026-01-20T15:29:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav addresses concerns regarding form, states his batting number",
-    "desc": "India captain Suryakumar Yadav has struggled to find rhythm in international cricket. He has scored only 34 runs in the last four matches and following this, the veteran has been put under the spotlight. His...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-addresses-concerns-regarding-form-states-his-batting-number-2026-01-20-1026717",
-    "time": "2026-01-20T15:04:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Litton Das calls 'not safe' to answer Bangladesh's travel plans for T20 World Cup 2026 amid turmoil",
-    "desc": "Bangladesh captain Litton Das reacted sharply today as he stopped a journalist midway through the question as he was asking about the ongoing impasse in the lead-up to the T20 World Cup. For the unversed,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/litton-das-calls-not-safe-to-answer-bangladesh-s-travel-plans-for-t20-world-cup-2026-amid-turmoil-2026-01-20-1026713",
-    "time": "2026-01-20T14:41:01.000Z"
   }
 ];
