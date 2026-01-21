@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When and where to watch IND vs NZ T20I series on TV and streaming?",
+    "desc": "The five-match T20I series between India and New Zealand is all set to get underway today at the VCA Stadium in Nagpur. This series is the final chance for both teams to fine-tune their lineups...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-new-zealand-live-telecast-when-and-where-to-watch-ind-vs-nz-t20i-series-on-tv-and-streaming-2026-01-21-1026762",
+    "time": "2026-01-21T02:57:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kylian Mbappe stars as Real Madrid smash Monaco for a six in UEFA Champions League clash",
+    "desc": "As many as 73,599 football fans witnessed utter domination at Estadio Bernabéu in Spain as Real Madrid thrashed Monaco in the UEFA Champions League clash to boost their chances of making it to the final 16....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/kylian-mbappe-stars-as-real-madrid-smash-monaco-for-a-six-in-uefa-champions-league-clash-2026-01-21-1026753",
+    "time": "2026-01-21T02:02:47.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "For first-ever time! Mumbai Indians hit record low in WPL after loss to Delhi Capitals",
     "desc": "Mumbai Indians suffered another heartbreaking defeat in the ongoing Women's Premier League 2026 as the defending champions lost their fourth game out of six matches on Tuesday, January 20. The Harmanpreet Kaur-led side faced troubles with...",
     "img": "",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-to-visit-south-africa-in-another-preparatory-series-ahead-of-t20-world-cup-2026-2026-01-20-1026711",
     "time": "2026-01-20T14:34:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is Deeya Yadav? 16-year-old sets new record in WPL history",
-    "desc": "The spotlight at the DY Patil Stadium in Navi Mumbai turned firmly toward youth as Delhi Capitals introduced a teenage debutant for their Women’s Premier League clash against Mumbai Indians on Tuesday. With the tournament...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/who-is-deeya-yadav-16-year-old-sets-new-record-in-wpl-history-2026-01-20-1026710",
-    "time": "2026-01-20T14:26:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Perth Scorchers surpass Mumbai Indians' record with win over Sydney Sixers, qualify for BBL final",
-    "desc": "Perth Scorchers stunned the star-studded Sydney Sixers side with Babar Azam, Mitchell Starc and Steve Smith in the qualifier clash of the Big Bash League (BBL) to qualify for the final of the tournament. They...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/perth-scorchers-surpass-mumbai-indians-record-with-win-over-sydney-sixers-qualify-for-bbl-final-2026-01-20-1026699",
-    "time": "2026-01-20T13:19:24.000Z"
   }
 ];

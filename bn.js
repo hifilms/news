@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "গ্রিনল্যান্ডে মার্কিন সামরিক বিমান ! বাহিনী মোতয়েন ডেনমার্কেরও, গোটা পরিস্থিতি এখন কোনদিকে?",
+    "desc": "গত কয়েক দিন ধরে গ্রিনল্যান্ডে আরও বেশি সেনা মোতায়েন করতে শুরু করেছে ডেনমার্ক। সোমবারও বাহিনী পাঠানো হয়েছে সেখানে। এই পরিস্থিতিতে আমেরিকা সামরিক বিমান পাঠানোর সিদ্ধান্ত নেওয়ায় কূটনৈতিক উত্তেজনা আরও বৃদ্ধি পেয়েছে বলে মনে করা হচ্ছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/US-Deploy-Aircraft-at-Greenland-2026-01-347d732fbee53f70defe03d36a0db165-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/international/us-sends-military-aircraft-to-greenland-as-denmark-boosts-troop-presence-update-on-this-ss-2506358.html",
+    "time": "2026-01-21T03:50:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "আমাদের মেয়ে কেঁদে চোখ ফুলিয়েছে, ওর জন্য আমার খুব খারাপ লাগছে",
+    "desc": "সূত্রের খবর, প্রাক্তন স্ত্রী অনিন্দিতা চট্টোপাধ্যায়ের সঙ্গে অনেক দিন ধরে সমস্যা চলছিল তাঁর। হিরণ এবং অনিন্দিতার এক কন্যাসন্তান রয়েছে। অনিন্দিতা মারাত্মক অভিযোগ করেছেন, '২০০০ সালে তাদের বিয়ে হয়েছে গত বছর ২৫ বছর পূর্ণ হয়েছে। কিন্তু আইনত কোনও ডিভোর্স হয়নি এবং ডিভোর্সের মামলাও চলছে না। সেক্ষেত্রে প্রথম স্ত্রী থাকতে আইন অনুযায়ী কি করে হিরণ আরেকবার বিয়ে করেন?' তাদের ১৯ বছরের একটা মেয়ে রয়েছে। মেয়ের থেকে দ্বিতীয় স্ত্রী মাত্র দু বছরের বড়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-21-at-8.48.43-AM-2026-01-c7699fe02fa10aed3e77436d2b8e79bd.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/short-videos/entertainment/actor-mla-hiran-chatterjee-second-marriage-his-first-wife-feels-bad-about-their-daughter-pbd-2506400.html",
+    "time": "2026-01-21T03:38:21.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "তিন-তিনটি পশ্চিমী ঝঞ্ঝার হুঁশিয়ারি...! ২২, ২৩, ২৪, ২৫ জানুয়ারি ভারী বৃষ্টি-ঝড় কাঁপাবে ৯ রাজ্য,  কী হবে বাংলায়? জানিয়ে দিল IMD",
     "desc": "উত্তর ভারতে ঠান্ডার তীব্রতা কমে যেতেই ভারতীয় আবহাওয়া বিভাগ (IMD) বৃষ্টির সতর্কতা জারি করেছে। ২২ থেকে ২৫ জানুয়ারির মধ্যে উত্তর প্রদেশ এবং হিমাচল প্রদেশ-সহ নয়টি রাজ্যে ভারী বৃষ্টির সতর্কতা জারি করা হয়েছে। বৃষ্টির কারণে, উত্তর ভারতের অনেক রাজ্যে তাপমাত্রা কমে যেতে পারে।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/world-cup-cricket-facts-4-indian-cricketers-who-won-u19-world-cup-and-t20-world-cup-rdp-2496579.html",
     "time": "2026-01-14T17:31:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "অভাব আর একাকীত্বই কাড়ল প্রাণ! নিভৃতে বিদায় নিলেন মহালয়ার জনপ্রিয় অভিনেতা অমল চৌধুরী...",
-    "desc": "দূরদর্শনের সেই অট্টহাসি আজ স্তব্ধ; অভাবের কাছে হার মানলেন প্রবীণ শিল্পী অমল চৌধুরী। বুধবার উত্তর ২৪ পরগনার অশোকনগরের নিজ বাসভবন থেকে তাঁর নিথর দেহ উদ্ধার করা হয়। সময়ের নিয়মে স্পটলাইটের আলো যত ম্লান হয়েছে, অমলবাবুর জীবনে ততই জাঁকিয়ে বসেছিল অর্থকষ্ট। বুধবার তাঁর ঘর থেকে কোনো সাড়া না পেয়ে স্থানীয় কাউন্সিলর অরূপ দাসের উপস্থিতিতে পুলিশ দরজা ভেঙে তাঁর দেহ উদ্ধার করে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/amal-asur-amal-chowdhury-doordarshan-actor-passes-away-ashoknagar_635105.html ",
-    "time": "2026-01-14T16:19:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "রঘুনাথপুরের হকারদের জন্য দারুণ খবর! সামান্য কিছু নথি থাকলেই মিলবে ৫০ হাজার টাকা লোন, পরিশোধের ক্ষেত্রেও রয়েছে দুর্দান্ত ক্যাশব্যাকের সুবিধা",
-    "desc": "ফুটপাথের ক্ষুদ্র ব্যবসায়ীদের আর্থিকভাবে স্বাবলম্বী করে তুলতে এক প্রশংসনীয় উদ্যোগ গ্রহণ করেছে পুরুলিয়ার রঘুনাথপুর পৌরসভা। পৌরসভার উদ্যোগে চালু হয়েছে 'হকার লোন প্রকল্প', যার মাধ্যমে ফুটপাথে ব্যবসা করা ক্ষুদ্র ও অস্থায়ী ব্যবসায়ীরা সহজ শর্তে আর্থিক সহায়তা পাওয়ার সুযোগ পাবেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/hawker-loan-2026-01-9b8e55f2e045c7d3541e3c01cdd0006e-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/purulia-hawker-loan-raghunathpur-municipality-launched-hawker-loan-scheme-for-footpath-small-business-know-details-l18-local18-2495475.html",
-    "time": "2026-01-14T14:40:11.000Z"
   }
 ];
