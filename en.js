@@ -1,8 +1,188 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Bachchan’s brainchild draws Waugh, Maxwell, Dwyer",
+    "desc": "With cricket set to return to the Olympics, the European T20 Premier League, backed by the cricket's governing body ICC, aims to transform associate cricket by bringing elite global stars to Europe. Backed by Bollywood actor Abhishek Bachchan and featuring names like Steve Waugh, Mitchell Santner and Glenn Maxwell, ETPL offers exposure, credibility and development opportunities across Scotland, Ireland and the Netherlands.",
+    "img": "https://static.toiimg.com/photo/msid-126940844,imgsize-284102.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/european-t20-premier-league-bollywoods-flair-former-and-current-cricket-legends-and-a-hockey-great-headline-new-league/articleshow/126938220.cms",
+    "time": "2026-01-21T06:16:22.000Z"
+  },
+  {
     "cat": "Business",
-    "title": "Nifty50 opens below 25,200; BSE Sensex down over 200 points",
-    "desc": "Weighed down by weak global cues, Indian equity benchmarks Nifty50 and BSE Sensex, opened in red on Wednesday after over 1% declines in the Tuesday session. While Nifty50 was below 25,200, BSE Sensex dropped over 200 points.",
+    "title": "AU Small Finance Bank net up 26% to Rs 667 crore",
+    "desc": "AU Small Finance Bank posted a robust Rs 667.66 crore net profit for the December 2025 quarter, a 26.3% jump year-on-year. This growth was fueled by strong core earnings and reduced credit costs, despite higher operating expenses. The bank also announced key leadership changes, including new director appointments and a deputy CEO continuation.",
+    "img": "https://static.toiimg.com/photo/msid-126940498,imgsize-13634.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/au-small-finance-bank-net-up-26-to-rs-667-crore/articleshow/126940251.cms",
+    "time": "2026-01-21T06:13:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Man City suffer Bodo/Glimt shock; Arsenal and Madrid cruise",
+    "desc": "Tuesday’s Champions League action delivered major upsets and dominant wins. Manchester City lost 3–1 to Bodo/Glimt, and PSG fell 2–1 to Sporting CP. Arsenal stayed perfect with a 3–1 win over Inter, securing a top-two finish, while Real Madrid thrashed Monaco 6–1. Tottenham also boosted their top-eight hopes with a 2–0 victory over Dortmund.",
+    "img": "https://static.toiimg.com/photo/msid-126940012,imgsize-78508.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/champions-league/top-stories/champions-league-manchester-city-suffer-setback-against-bodo/glimt-arsenal-and-real-madrid-cruise/articleshow/126939293.cms",
+    "time": "2026-01-21T06:12:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "13,479 ft of stupidity: Haryana man pastes 'Gurjar' sticker on BRO milestone in Ladakh; video sparks outrage",
+    "desc": "A tourist from Haryana has ignited public fury after defacing a Border Roads Organisation milestone at Ladakh's Fotu La Pass by pasting a caste sticker. The act, captured on video, has been widely condemned as vandalism and irresponsible behaviour in a sensitive border region, prompting calls for strict action against the individual.",
+    "img": "https://static.toiimg.com/photo/msid-126939033,imgsize-399954.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/13479-ft-of-stupidity-haryana-man-pastes-gurjar-sticker-on-bro-milestone-in-ladakh-video-sparks-outrage/articleshow/126938835.cms",
+    "time": "2026-01-21T06:09:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Don’t close Punjab Kesari press: Supreme Court to Punjab",
+    "desc": "The Supreme Court has permitted Punjab Kesari to resume operations at one of its printing presses, which had been shut down by the state pollution control board. The court expressed less concern for a hotel run by the group but emphasized that the printing press should not be closed, despite allegations of liquor bottles being found there.",
+    "img": "https://static.toiimg.com/photo/msid-126938925,imgsize-1654008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/dont-close-punjab-kesari-press-supreme-court-to-punjab/articleshow/126938617.cms",
+    "time": "2026-01-21T05:59:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Those goosebumps will never fade’ — Olympic glory &amp; emotional goodbye",
+    "desc": "Emotional Saina Nehwal announced her retirement from badminton, citing a chronic knee condition that prevents her from competing at the highest level. The 2012 London Olympics bronze medalist, India's first in badminton, expressed gratitude for the love and support received throughout her illustrious career. She remains optimistic about India's future Olympic gold medal prospects in various sports.",
+    "img": "https://static.toiimg.com/photo/msid-126938562,imgsize-49644.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/saina-nehwal-exclusive-those-goosebumps-will-never-fade-2012-olympic-glory-and-an-emotional-goodbye/articleshow/126937549.cms",
+    "time": "2026-01-21T05:59:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Border 2' crosses Rs 6 crore in advance bookings",
+    "desc": "Sunny Deol's 'Border 2' is off to a strong start, crossing Rs 6 crore in advance bookings on its first day. The patriotic film, releasing for the Republic Day weekend, has sold over 1.05 lakh tickets. Distributors are ensuring an aggressive release, especially in North India, with single screens exclusively dedicated to the movie for two weeks.",
+    "img": "https://static.toiimg.com/photo/msid-126934448,imgsize-411306.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-advance-booking-day-1-sunny-deol-starrer-off-to-a-good-start-crosses-rs-6-crore-mark-ahead-of-republic-day-weekend/articleshow/126934004.cms",
+    "time": "2026-01-21T05:52:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India-Pakistan conflict: Congress takes jibe at PM Modi over 'good friend' Trump's remarks; claims 'count now 70'",
+    "desc": "The Congress party has sharply criticized Prime Minister Narendra Modi following US President Donald Trump's repeated claims of single-handedly resolving the India-Pakistan conflict last year. Trump asserted he prevented a nuclear escalation, saving millions of lives, a claim India has consistently refuted, stating no third-party mediation was involved.",
+    "img": "https://static.toiimg.com/photo/msid-126937845,imgsize-780221.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-pakistan-conflict-congress-takes-jibe-at-pm-modi-over-good-friend-trumps-remarks-claims-count-now-70/articleshow/126937649.cms",
+    "time": "2026-01-21T05:50:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Border 2’ star Ahan Shetty’s childhood pics with dad Suniel Shetty",
+    "desc": "Childhood photos are known to treasure a rare magic. They melt away the polished celeb vibe and show you the real kid underneath. ‘Border 2’ star Ahan Shetty's old snaps are doing just that—pulling us back to a time before red carpets, when he was all wide-eyed innocence and pure cuteness. Let's dive deep into this throwback, reliving Ahan Shetty's childhood moments with his father Sunil Shetty, sister, and mother, amid the ‘Border 2’ release buzz.",
+    "img": "https://static.toiimg.com/photo/msid-126935284,imgsize-871358.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-star-ahan-shettys-childhood-album-adorable-pics-with-father-suniel-shetty-will-melt-your-heart/photostory/126935284.cms",
+    "time": "2026-01-21T05:30:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PCB backs B'desh in venue standoff, writes to ICC ahead of crucial meet",
+    "desc": "Pakistan Cricket Board has formally backed Bangladesh's decision to avoid playing matches in India for the 2026 T20 World Cup. This move comes as the International Cricket Council prepares to meet and decide on Bangladesh's participation. Bangladesh cited political and security concerns for their stance. The ICC has so far maintained that the tournament schedule will not change.",
+    "img": "https://static.toiimg.com/photo/msid-126934605,imgsize-79116.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-pakistan-cricket-board-backs-bangladesh-in-venue-standoff-writes-to-icc-ahead-of-crucial-meet/articleshow/126933978.cms",
+    "time": "2026-01-21T05:27:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka Chopra shares her milestones with 2016 trend",
+    "desc": "Priyanka Chopra Jonas reminisced about her monumental year in 2016, a period of immense personal and professional growth. She shared highlights including receiving the Padma Shri, her international breakthrough with 'Quantico', 'Baywatch' filming, and her first American magazine cover. The actress also celebrated her first People's Choice Award, attending the White House Correspondents' Dinner, and gracing the Oscars.",
+    "img": "https://static.toiimg.com/photo/msid-126933073,imgsize-279782.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-joins-the-2016-trend-flexes-her-major-achievement-fans-react-woman-had-her-best-year/articleshow/126933073.cms",
+    "time": "2026-01-21T05:17:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Markets mostly in red ahead of Trump's Davos speech; Nikkei falls 280 points, HSI flat",
+    "desc": "Asian markets tumbled Wednesday, mirroring a sharp US sell-off and escalating geopolitical tensions. Investors grew anxious as US foreign policy concerns and a Danish pension fund's exit from Treasuries unsettled global bond markets. Gold, however, reached an all-time high amid the growing unease and potential for further market disruptions.",
+    "img": "https://static.toiimg.com/photo/msid-126931147,imgsize-515504.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-mostly-in-red-ahead-of-trumps-davos-speech-nikkei-falls-280-points-hsi-flat/articleshow/126930702.cms",
+    "time": "2026-01-21T05:14:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Truth about Canadian PM's wealth that is turning heads",
+    "desc": "The Canadian PM's wealth stems from his extensive career in global finance and central banking. His financial standing is modest compared to global elites. Carney's transition to Prime Minister of Canada highlights a shift towards public service. Discussions around his wealth focus on transparency and his qualifications.",
+    "img": "https://static.toiimg.com/photo/msid-126930078,imgsize-349002.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/etimes/trending/mark-carney-net-worth-2026-how-rich-is-the-canadian-pm-truth-about-his-wealth-that-is-turning-heads/articleshow/126924547.cms",
+    "time": "2026-01-21T04:54:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Angry fans call Taylor-Blake 'MEAN GIRLS'",
+    "desc": "Taylor Swift faces significant social media backlash following the unsealing of court documents revealing her text messages with Blake Lively concerning the 'It Ends With Us' lawsuit. Fans are calling them 'mean girls,' accusing them of undermining director Justin Baldoni's influence and seeking creative control.",
+    "img": "https://static.toiimg.com/photo/msid-126924305,imgsize-222822.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/taylor-swift-and-blake-lively-called-mean-girls-disappointed-fans-accuse-two-of-stealing-justin-baldonis-movie/articleshow/126920914.cms",
+    "time": "2026-01-21T04:39:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'No sense': Pakistan questioned for halting WC prep in support of B'desh",
+    "desc": "Reports claiming Pakistan has halted T20 World Cup 2026 preparations in support of Bangladesh have been dismissed by former cricketers. Kamran Akmal called the idea illogical, stressing no official PCB or government statement exists. Basit Ali said any decision depends on the government and noted broadcasters would oppose withdrawal, especially due to the India–Pakistan match. The issue stems from Bangladesh’s refusal to play in India over security concerns.",
+    "img": "https://static.toiimg.com/photo/msid-126927272,imgsize-302948.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/makes-no-sense-former-cricketer-questions-reports-of-pakistan-halting-t20-world-cup-prep-in-support-of-bangladesh/articleshow/126923535.cms",
+    "time": "2026-01-21T04:30:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No hassle over ‘logical discrepancies’: CM Mamata backs new SC directives on SIR; urges officials to ease voter hearings",
+    "desc": "West Bengal Chief Minister Mamata Banerjee has directed district magistrates to prevent voter inconvenience during electoral roll revisions, emphasizing adherence to Supreme Court orders. She stressed accepting all valid documents and making alternative arrangements for hearings. The Chief Minister also highlighted that state development programs must not be disrupted during this process.",
+    "img": "https://static.toiimg.com/photo/msid-126926747,imgsize-941592.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-hassle-over-logical-discrepancies-cm-mamata-backs-new-sc-directives-on-sir-urges-officials-to-ease-voter-hearings/articleshow/126926614.cms",
+    "time": "2026-01-21T04:26:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'Our refineries are robust!': India can process Venezuelean crude oil when available; here's what IOCL chairman said",
+    "desc": "Indian Oil Corporation is ready to process Venezuelan crude if supplies resume, recalling past imports. The company's robust refineries can handle the oil, according to its chairman. This comes amid geopolitical shifts and India's strong economic growth, which attracts global business interest. IOCL continues to invest in the energy sector.",
+    "img": "https://static.toiimg.com/photo/msid-126926068,imgsize-177918.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/our-refineries-are-robust-india-can-process-venezuelean-crude-oil-when-available-heres-what-iocl-chairman-said/articleshow/126924075.cms",
+    "time": "2026-01-21T04:22:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Katie Bates breaks silence after husband admits to cheating",
+    "desc": "Bringing Up Bates star Katie Bates has broken her silence after husband Travis Clark admitted to infidelity. She expressed gratitude for support, stating Travis is reflecting and she supports his transparency. The couple is seeking counsel for their family, prioritizing their two young children while Katie hopes for marriage restoration.",
+    "img": "https://static.toiimg.com/photo/msid-126924145,imgsize-310182.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/katie-bates-breaks-silence-after-husband-travis-clark-admits-to-cheating-writes-i-support-his-decision-for-/articleshow/126924145.cms",
+    "time": "2026-01-21T04:08:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "A new low for rupee! Currency falls 23 paise in early trade; reaches 91.20 against US dollar",
+    "desc": "The Indian rupee hit a new low of 91.20 against the US dollar on Wednesday, extending its downward trend. This depreciation is attributed to strong dollar demand from metal importers, continued foreign fund outflows, and geopolitical uncertainties. The domestic stock market's sluggish performance also contributed to the rupee's decline.",
+    "img": "https://static.toiimg.com/photo/msid-126921487,imgsize-1351521.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/a-new-low-for-rupee-currency-falls-23-paise-in-early-trade-reaches-91-20-against-us-dollar/articleshow/126921055.cms",
+    "time": "2026-01-21T03:57:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India’s leading vaulters stranded: Fined by the railways for carrying ‘poles’",
+    "desc": "National record holder Dev Meena and his teammates were delayed for hours at Panvel station, missing their train to Bhopal. Railway officials demanded a penalty for their pole vault equipment, deeming them 'steel pipes'. Despite explaining their athlete status, the team paid a fine and incurred extra travel costs, causing significant inconvenience.",
+    "img": "https://static.toiimg.com/photo/msid-126922440,imgsize-43130.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/indias-leading-vaulters-stranded-fined-by-the-railways-for-carrying-poles/articleshow/126922250.cms",
+    "time": "2026-01-21T03:56:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Nifty50 trades below 25,100; BSE Sensex down over 690 points",
+    "desc": "Indian equity benchmarks Nifty50 and BSE Sensex opened lower on Wednesday, mirroring global weakness driven by escalating US-Europe trade tensions and Trump's policies. Analysts anticipate a short-term technical rebound due to oversold conditions, advising caution and a wait-and-watch approach for stability.",
     "img": "https://static.toiimg.com/photo/msid-126915145,imgsize-481472.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-january-21-2026-dalal-street-indian-equities-global-markets-donald-trump-tariffs/articleshow/126914358.cms",
@@ -118,7 +298,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "India’s T20 WC prep enters home stretch: NZ series offers final chance to test formations",
+    "title": "India’s WC prep enters home stretch: NZ series offers final chance to test formations",
     "desc": "India face a resurgent New Zealand in a T20 series, a crucial test for the T20 World Cup squad. Captain Suryakumar Yadav seeks to regain form amidst batting concerns, while Ishan Kishan is set to bat at number three. New Zealand, buoyed by recent successes, aims for a T20 hat-trick against India.",
     "img": "https://static.toiimg.com/photo/msid-126912833,imgsize-75770.cms",
     "src": "indiatimes.com",
@@ -217,48 +397,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "‘The Rookie’ season 8 episode 3 locks in gritty momentum",
-    "desc": "The Rookie's Season 8 Episode 3, 'The Red Place,' delivered gripping storylines, including a cold case homicide solved by John Nolan and a tense kidnapping rescue by Lucy Chen and Celina Juarez. The episode also featured Nyla Harper and Angela Lopez pursuing a clever killer, and rookie Miles Penn encountering a past connection, all masterfully woven together.",
-    "img": "https://static.toiimg.com/photo/msid-126901651,imgsize-277553.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-rookie-season-8-episode-3-delivers-high-impact-stakes-reshuffles-it-prime-time-playbook/articleshow/126901618.cms",
-    "time": "2026-01-21T01:13:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'AOR' BO day 6: Film crosses Rs 36 crore",
     "desc": "Naveen Polishetty's 'Anaganaga Oka Raju' is performing strongly, crossing Rs 60 crore worldwide in six days. The film garnered ₹36.50 crore net in India, with a notable Rs 2.55 crore on its sixth day. Despite mixed audience reactions, praising Polishetty's comedic timing but critiquing the screenplay, the movie maintains healthy occupancy, especially in evening and night shows.",
     "img": "https://static.toiimg.com/photo/msid-126901102,imgsize-367620.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/anaganaga-oka-raju-box-office-collections-day-6-naveen-polishetty-film-crosses-rs-36-crore/articleshow/126901102.cms",
     "time": "2026-01-21T01:12:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'TTT' BO day 6: Jiiva film adds Rs 1.15 crore",
-    "desc": "'Thalaivar Thambi Thalaimaiyil' is maintaining a steady pace at the box office, completing six days with approximately Rs 17.65 crore net. The film, starring Jiiva, has seen consistent collections, with Sunday being a strong performer. Positive audience reactions and social media buzz are contributing to its sustained run, making it a potential Pongal winner.",
-    "img": "https://static.toiimg.com/photo/msid-126898570,imgsize-145072.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalaivar-thambi-thalaimaiyil-box-office-collections-day-6-jiiva-film-stays-steady-adds-rs-1-15-crore/articleshow/126898570.cms",
-    "time": "2026-01-21T00:51:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Happy Patel' box office Day 5: Film struggles to survive",
-    "desc": "Khatarnak Jasoos', has seen a slow rise at the box office, raking in Rs 5.07 crore over its first five days. While some critics have applauded its clever humor and acknowledged Aamir Khan's commitment to supporting unconventional cinema, the film's attendance has been less than stellar, peaking at an 8.",
-    "img": "https://static.toiimg.com/photo/msid-126897184,imgsize-192778.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/happy-patel-khatarnak-jasoos-box-office-collection-day-5-vir-das-starrer-struggles-to-survive-on-its-first-tuesday/articleshow/126897184.cms",
-    "time": "2026-01-21T00:45:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar' inches closer to Rs 1,300 crore mark",
-    "desc": "'Dhurandhar' continues its impressive box office run, holding strong even in its seventh week. The spy thriller, starring Ranveer Singh and Akshaye Khanna, has defied expectations by maintaining a steady graph and setting a new record for highest seventh-week collections for a Hindi film. Despite a dip, it leads over other releases.",
-    "img": "https://static.toiimg.com/photo/msid-126897101,imgsize-189788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-47-ranveer-singh-and-akshaye-khanna-starrer-inches-closer-to-rs-1300-crore-mark/articleshow/126893709.cms",
-    "time": "2026-01-21T00:37:03.000Z"
   },
   {
     "cat": "Politics",
@@ -268,24 +412,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/chennai/iconic-annual-tourism-trade-fair-at-chennai-island-grounds-turns-50/article70530279.ece",
     "time": "2026-01-21T00:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Parasakthi' BO day 11: SK film close to Rs 50 crore",
-    "desc": "Sivakarthikeyan's 'Parasakthi' is nearing the Rs 50 crore mark, collecting Rs 49.76 crore in its first 11 days. Despite a significant drop in daily collections, especially on day 10 and 11, the film maintains a steady, albeit slow, pace. Director Sudha Kongara expressed admiration for Vijay and discussed the film's challenging release, including censor board issues.",
-    "img": "https://static.toiimg.com/photo/msid-126895358,imgsize-407830.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-box-office-collections-day-11-sivakarthikeyan-film-close-to-rs-50-crore-collections-slow-down/articleshow/126895358.cms",
-    "time": "2026-01-21T00:24:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Raja Saab' BO day 12: Prabhas film crashes",
-    "desc": "Prabhas's 'Raja Saab' opened with a massive Rs 100.60 crore worldwide, but its initial success quickly waned. By day 12, collections plummeted to a mere Rs 73 lakh, indicating a significant loss of audience interest.",
-    "img": "https://static.toiimg.com/photo/msid-126892544,imgsize-232832.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-box-office-collections-day-12-prabhas-film-crashes-fails-to-earn-even-rs-1-crore/articleshow/126892544.cms",
-    "time": "2026-01-21T00:01:21.000Z"
   },
   {
     "cat": "Sports",
@@ -403,33 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/police-summonses-to-journos-a-new-low-say-jk-parties/articleshow/126876134.cms",
     "time": "2026-01-20T22:02:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Voluntary contributions to BJP up 54% to Rs 6,125cr in 2024-25",
-    "desc": "The BJP's voluntary contributions surged by 54% to Rs 6,125 crore in 2024-25, significantly exceeding the Rs 1,686 crore earned via electoral bonds in the previous year. This increase, driven by a near three-fold rise in corporate donations, offset the loss of anonymous funding.",
-    "img": "https://static.toiimg.com/photo/msid-126871670,imgsize-977187.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/voluntary-contributions-to-bjp-up-54-to-rs-6125cr-in-2024-25/articleshow/126871455.cms",
-    "time": "2026-01-20T21:27:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Government advises kin of Indian officials in Bangladesh to return",
-    "desc": "In response to escalating anti-India protests and potential violence in Bangladesh, India has advised families of its diplomats and officials stationed there to return home. This precautionary measure aims to ensure safety, though all Indian missions and posts in Bangladesh remain fully operational. The situation is temporary and will be reassessed.",
-    "img": "https://static.toiimg.com/photo/msid-126870446,imgsize-1284848.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/govt-advises-kin-of-indian-officials-in-bangladesh-to-return/articleshow/126870249.cms",
-    "time": "2026-01-20T21:17:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Study",
-    "desc": "A groundbreaking genetic study in Kerala has identified a more aggressive Mpox variant, Clade Ib, linked to international travel and ongoing human-to-human spread. Researchers found distinct mutations indicating the virus is evolving and adapting, suggesting faster transmission than older strains. This discovery underscores the urgent need for heightened surveillance and public health preparedness across India.",
-    "img": "https://static.toiimg.com/photo/msid-126869909,imgsize-519111.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/monkey-pox-strain-links-kerala-cases-to-foreign-travel-study/articleshow/126869621.cms",
-    "time": "2026-01-20T21:12:22.000Z"
   },
   {
     "cat": "Business",
@@ -603,24 +702,6 @@ const newsData_en = [
     "time": "2026-01-20T15:59:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "FCV tobacco farmers urge Centre to review hike in cigarette tax",
-    "desc": "The ‘sudden tax shock’ is likely to contract demand for legal cigarettes, leading to lower auction prices of tobacco, weak buyer participation, unsold stocks and growing distress among farmers, says Federation of All India Farmers’ Associations",
-    "img": "https://th-i.thgim.com/public/incoming/kyom7i/article70530546.ece/alternates/LANDSCAPE_1200/10745_20_1_2026_19_34_9_1_IMG_20260120_WA0105.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/fcv-tobacco-farmers-urge-centre-to-review-hike-in-cigarette-tax/article70529887.ece",
-    "time": "2026-01-20T15:44:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ex-CAPF officials file contempt plea against Home Secretary for not implementing Supreme Court order",
-    "desc": "The top couordered progressive reduction of the IPS deputation in CAPFs up to the level of IGs in the next two years and sought a time-bound review of cadre and service rules in six months",
-    "img": "https://th-i.thgim.com/public/incoming/x7s29z/article70530521.ece/alternates/LANDSCAPE_1200/PTI06_10_2025_000205A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/ex-capf-officials-file-contempt-plea-against-home-secretary-for-not-implementing-supreme-court-order/article70529897.ece",
-    "time": "2026-01-20T15:40:46.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "An ideal dress rehearsal for the Men in Blue and Black Caps",
     "desc": "With barely three weeks to go for the T20 World Cup, both sides will want to dot their i’s and cross their t’s; home skipper Suryakumar confirms Kishan will bat at the crucial No. 3 spot",
@@ -640,30 +721,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'I would like to bat the same way': Surya on his poor form",
-    "desc": "India's T20I captain Suryakumar Yadav is confident for the upcoming series against New Zealand. He plans to stick to his aggressive style of play. Injuries to Tilak Varma and Washington Sundar have created opportunities for other players. Ravi Bishnoi and Shreyas Iyer have been included in the squad. The first T20I is on January 20.",
-    "img": "https://static.toiimg.com/photo/msid-126814034,imgsize-208982.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/i-would-like-to-bat-the-same-way-suryakumar-yadav-on-his-poor-form-ahead-of-1st-t20i-vs-new-zealand/articleshow/126813852.cms",
-    "time": "2026-01-20T14:18:26.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Not Iyer! India captain reveals Tilak's replacement in playing XI",
     "desc": "India captain Suryakumar Yadav said Ishan Kishan will bat at No. 3 ahead of Shreyas Iyer in the New Zealand T20 series as he is part of India’s T20 World Cup squad and a like-for-like replacement for injured Tilak Varma. Iyer will be considered at No. 5. Suryakumar stressed flexibility in batting roles and prioritised team success over individual form.",
     "img": "https://static.toiimg.com/photo/msid-126813048,imgsize-133874.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-not-shreyas-iyer-india-captain-suryakumar-yadav-reveals-tilak-varmas-replacement-in-playing-xi/articleshow/126812210.cms",
     "time": "2026-01-20T14:12:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Not Gukesh or Erigaisi! After Carlsen, Indian GM confirmed for Norway Chess",
-    "desc": "Indian GM R Praggnanandhaa has confirmed his third appearance at Norway Chess, becoming the second announced participant after Magnus Carlsen. The 2026 Candidates qualifier and world No. 4 previously won the event in 2022 and defeated Carlsen in 2024. Organisers praised his consistency and ambition, while hopes remain for D Gukesh and Arjun Erigaisi to join the field.",
-    "img": "https://static.toiimg.com/photo/msid-126807473,imgsize-274136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/not-d-gukesh-or-arjun-erigaisi-after-magnus-carlsen-indian-grandmaster-confirmed-for-norway-chess-2026/articleshow/126802444.cms",
-    "time": "2026-01-20T13:34:19.000Z"
   },
   {
     "cat": "Sports",
@@ -682,24 +745,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/kl-rahul-to-play-for-karnataka-in-ranji-trophy-nitish-kumar-reddy-confirms-availability-for-andhra-pradesh/articleshow/126799307.cms",
     "time": "2026-01-20T12:25:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Fire outside stadium with Babar, Smith playing",
-    "desc": "A small fire outside Perth’s Optus Stadium caused brief panic during a BBL 2025–26 Qualifier between Perth Scorchers and Sydney Sixers. Thick smoke near a gate drew attention, but the match continued. Security acted swiftly, the fire was controlled, no injuries were reported, and fans were reassured by BBL officials.",
-    "img": "https://static.toiimg.com/photo/msid-126792065,imgsize-296904.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/horror-in-australia-fire-outside-bbl-stadium-with-babar-azam-steve-smith-playing-watch/articleshow/126790352.cms",
-    "time": "2026-01-20T11:17:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We will not accept': Bangladesh rejects ICC's 'unreasonable' conditions",
-    "desc": "Bangladesh has rejected \"unreasonable conditions\" from the ICC for the T20 World Cup 2026 in India, citing venue concerns and the exclusion of Mustafizur Rahman from the IPL. Despite talks, Bangladesh's participation remains uncertain as the ICC insists on the original schedule, assuring security.",
-    "img": "https://static.toiimg.com/photo/msid-126791238,imgsize-361870.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-will-not-accept-bangladesh-sports-adviser-rejects-iccs-unreasonable-conditions/articleshow/126790889.cms",
-    "time": "2026-01-20T11:09:54.000Z"
   },
   {
     "cat": "Sports",
@@ -729,15 +774,6 @@ const newsData_en = [
     "time": "2026-01-20T10:48:10.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Want to play like him': Pandya's special message leaves RCB player emotional",
-    "desc": "Hardik Pandya sent a special video message to RCB's Gautami Naik after her match-winning fifty in the WPL. Naik, who considers Pandya her idol, was overjoyed by the gesture. Pandya congratulated her on her maiden half-century and urged her to stay disciplined and enjoy the game. RCB continued their winning streak, remaining unbeaten.",
-    "img": "https://static.toiimg.com/photo/msid-126787034,imgsize-27762.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/want-to-play-like-him-hardik-pandyas-special-message-leaves-rcb-player-emotional-watch/articleshow/126786279.cms",
-    "time": "2026-01-20T10:33:52.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "On ‘Idols’, Ozzy Osbourne and Lollapalooza India 2026",
     "desc": "Ahead of his first show in Mumbai this weekend, the English punk-rock musician talks about his latest album ‘Idols’, infuence of the late ‘Prince of Darkness’ on his style, and the problem with rock and roll taking itself too seriously",
@@ -745,15 +781,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/yungblud-interview-on-idols-ozzy-osbourne-and-lollapalooza-india-2026/article70528545.ece",
     "time": "2026-01-20T10:04:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Santner",
-    "desc": "New Zealand captain Mitchell Santner is confident Daryl Mitchell will translate his stellar ODI form into the T20 series against India. Mitchell's recent centuries against the hosts highlight his prowess, and Santner believes he can control the middle overs. This tour is crucial preparation for the upcoming T20 World Cup, offering valuable experience against a top team in familiar conditions.",
-    "img": "https://static.toiimg.com/photo/msid-126778848,imgsize-35668.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/want-daryl-mitchell-to-replicate-his-odi-performance-in-t20is-mitchell-santner/articleshow/126778836.cms",
-    "time": "2026-01-20T09:16:33.000Z"
   },
   {
     "cat": "Sports",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-says-it-will-be-done-on-getting-russian-threat-away-from-greenland/article70524316.ece",
     "time": "2026-01-19T05:15:23.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Gang violence in Guatemala kills seven police officers after inmates take over prisons",
-    "desc": "The attacks on police in and around Guatemala City came after hundreds of anti-riot police stormed Renovacion prison in Escuintla, about 76 km southwest of the capital, to free nine guards who had been taken hostage there",
-    "img": "https://th-i.thgim.com/public/incoming/f0wabh/article70524089.ece/alternates/LANDSCAPE_1200/2026-01-19T001603Z_979440800_RC2L3JAZB0AK_RTRMADP_3_GUATEMALA-PRISON.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/guatemala-gang-violence-prison-takeover-emergency-declared-several-killed-january-19-2026/article70524088.ece",
-    "time": "2026-01-19T01:12:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Collective success is King’s catalyst",
-    "desc": "The leg-spinner is quick to shift focus on team work when individual performances are discussed; she feels being a late entrant to the national side has been a blessing in disguise, is looking forward to her stint at the WPL, passing her knowledge to youngsters",
-    "img": "https://th-i.thgim.com/public/incoming/3kpupo/article70523174.ece/alternates/LANDSCAPE_1200/ALANA.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/collective-success-is-kings-catalyst/article70523175.ece",
-    "time": "2026-01-18T18:32:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Taide’s timely ton sets up Vidarbha’s maiden Hazare Trophy triumph",
-    "desc": "After Taide (128, 118b, 15x4, 3x6) helped set up a target of 318, Desai’s Saurashtra could only reach 279 as Vidarbha came up with an excellent bowling effort to disprove the accepted maxim that chasing teams invariably won",
-    "img": "https://th-i.thgim.com/public/sport/r5sq5m/article70523102.ece/alternates/LANDSCAPE_1200/TH19VID.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/taides-timely-ton-sets-up-vidarbhas-maiden-hazare-trophy-triumph/article70523049.ece",
-    "time": "2026-01-18T17:14:55.000Z"
   }
 ];

@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "PCB writes to ICC supporting Bangladesh's stance in T20 World Cup 2026 controversy",
+    "desc": "The International Cricket Council (ICC) is set to take a final call today on Bangladesh's participation in the T20 World Cup 2026, scheduled to get underway on February 7. A day before the development, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pcb-writes-to-icc-supporting-bangladesh-s-stance-in-t20-world-cup-2026-controversy-2026-01-21-1026783",
+    "time": "2026-01-21T05:12:21.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When and where to watch IND vs NZ T20I series on TV and streaming?",
     "desc": "The five-match T20I series between India and New Zealand is all set to get underway today at the VCA Stadium in Nagpur. This series is the final chance for both teams to fine-tune their lineups...",
     "img": "",
@@ -70,14 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/litton-das-calls-not-safe-to-answer-bangladesh-s-travel-plans-for-t20-world-cup-2026-amid-turmoil-2026-01-20-1026713",
     "time": "2026-01-20T14:41:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India to visit South Africa in another preparatory series ahead of T20 World Cup 2026",
-    "desc": "India women's team will be visiting South Africa for another preparatory series before the start of the T20 World Cup 2026 in June, as they will be visiting South Africa for a five-match T20I series...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-to-visit-south-africa-in-another-preparatory-series-ahead-of-t20-world-cup-2026-2026-01-20-1026711",
-    "time": "2026-01-20T14:34:38.000Z"
   }
 ];
