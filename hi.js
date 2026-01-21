@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Abhishek Sharma creates world record, shatters Andre Russell's feat during IND vs NZ 1st T20I",
+    "desc": "India star batter Abhishek Sharma etched his name into the history books during the first T20I between India and New Zealand at the Vidarbha Cricket Association Stadium, Nagpur, on Wednesday, January 21. Abhishek turned on his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-creates-world-record-shatters-andre-russells-feat-during-ind-vs-nz-1st-t20i-2026-01-21-1026901",
+    "time": "2026-01-21T15:10:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryakumar Yadav becomes fourth Indian cricketer to register major T20 milestone; joins Kohli, Rohit, Dhawan",
+    "desc": "India captain Suryakumar Yadav faced heavy scrutiny over his form ahead of the first T20I against New Zealand at the VCA Stadium in Nagpur. The Mumbai batter, however, remained unfazed, stating that he has been...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-becomes-fourth-indian-cricketer-to-register-major-t20-milestone-joins-kohli-rohit-dhawan-2026-01-21-1026892",
+    "time": "2026-01-21T14:20:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Shreyas Iyer not playing in IND vs NZ 1st T20I despite being Tilak Varma's replacement? Check here",
+    "desc": "With the T20 World Cup title defence approaching, India take on New Zealand in their final assignment before the global showpiece tournament. The Men in Blue face the Kiwis in a five-match series with the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-shreyas-iyer-not-playing-in-ind-vs-nz-1st-t20i-despite-being-tilak-varmas-replacement-check-here-2026-01-21-1026890",
+    "time": "2026-01-21T13:58:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryakumar Yadav breaks Babar Azam's major record in first T20I against New Zealand in Nagpur",
+    "desc": "India captain Suryakumar Yadav became the fourth Indian to feature in 100 or more T20 internationals, joining Rohit Sharma, Virat Kohli and Hardik Pandya. The milestone came during the first T20I against New Zealand at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-breaks-babar-azam-s-major-record-in-first-t20i-against-new-zealand-in-nagpur-2026-01-21-1026889",
+    "time": "2026-01-21T13:53:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Kuldeep Yadav not playing 1st T20I vs New Zealand in Nagpur?",
+    "desc": "India have benched star spinner Kuldeep Yadav in the first T20I against New Zealand at the VCA Stadium in Nagpur. He warmed the bench in the series against South Africa as well, since Varun Chakravarthy...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-kuldeep-yadav-not-playing-1st-t20i-vs-new-zealand-in-nagpur-2026-01-21-1026885",
+    "time": "2026-01-21T13:24:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Tilak Varma not playing 1st T20I vs New Zealand in Nagpur?",
+    "desc": "Young India batter Tilak Varma has been ruled out of the first three T20Is of the five-match series against New Zealand. He recently underwent surgery for testicular torsion and is expected to be back in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-tilak-varma-not-playing-1st-t20i-vs-new-zealand-in-nagpur-2026-01-21-1026876",
+    "time": "2026-01-21T13:07:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India finish at 238/7 after Rinku's late fireworks in Nagpur",
+    "desc": "India registered their highest-ever score against New Zealand in T20I cricket as the Men in Blue posted 238/7 in the first T20I at the Vidarbha Cricket Association Stadium, Nagpur. Abhishek Sharma starred with a brilliant 35-ball...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-1st-t20i-live-cricket-score-india-vs-new-zealand-vidarbha-cricket-association-stadium-latest-match-updates-scorecard-teams-playing-xis-2026-01-21-1026877",
+    "time": "2026-01-21T12:48:10.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ICC warns Bangladesh with replacement threat for T20 World Cup 2026, offers one day to announce final decision",
     "desc": "The International Cricket Council has moved closer to a decisive resolution in its standoff with the Bangladesh Cricket Board over Bangladesh’s refusal to travel to India for the 2026 T20 World Cup. An ICC board...",
     "img": "",
@@ -25,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/it-will-be-strange-to-watch-t20-world-cup-from-home-i-have-been-part-of-every-edition-rohit-sharma-2026-01-21-1026866",
     "time": "2026-01-21T12:04:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will RCB play IPL 2026 matches at Chinnaswamy Stadium? KSCA chief Venkatesh Prasad reveals details",
-    "desc": "Karnataka State Cricket Association (KSCA) chief Venkatesh Prasad, on January 21, addressed the concerns regarding the M Chinnaswamy Stadium’s availability for IPL 2026. In a press conference in Bengaluru, the former cricketer revealed that the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-rcb-play-ipl-2026-matches-at-chinnaswamy-stadium-ksca-chief-venkatesh-prasad-reveals-details-2026-01-21-1026847",
-    "time": "2026-01-21T10:50:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Test captain returns, star pacers not picked as Sri Lanka name ODI squad for England series",
-    "desc": "Sri Lanka have announced their squad for the upcoming ODI series against England as Test captain Dhananjaya de Silva makes a return for the three-match series that kicks off on January 22. Along with de Silva,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/test-captain-returns-star-pacers-not-picked-as-sri-lanka-name-odi-squad-for-england-series-2026-01-21-1026845",
-    "time": "2026-01-21T10:41:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at VCA Stadium in Nagpur play?",
-    "desc": "After a disappointing 2-1 ODI series defeat to New Zealand, India would eye for a comeback in the upcoming five-match T20I series, starting January 21 at the Vidharbha Cricket Association Stadium in Nagpur. With the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-1st-t20i-pitch-report-how-will-surface-at-vca-stadium-in-nagpur-play-2026-01-21-1026839",
-    "time": "2026-01-21T10:24:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Daryl Mitchell trumps Virat Kohli to become top batter in ICC ODI rankings after blockbuster India series",
-    "desc": "New Zealand batter Daryl Mitchell is the new number one batter in the latest ICC ODI rankings. He smashed centuries in the second and third ODIs against India and was expected to overtake Virat Kohli...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/daryl-mitchell-trumps-virat-kohli-to-become-top-batter-in-icc-odi-rankings-after-blockbuster-india-series-2026-01-21-1026819",
-    "time": "2026-01-21T08:12:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England announce playing XI for first ODI vs Sri Lanka, recall opening batter after 776 days",
-    "desc": "England have named their playing XI for the first ODI of the three-match series against Sri Lanka starting on January 22. The match will be played at the R Premadasa Stadium in Colombo, the venue...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-announce-playing-xi-for-first-odi-vs-sri-lanka-recall-opening-batter-after-776-days-2026-01-21-1026815",
-    "time": "2026-01-21T08:02:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PCB writes to ICC supporting Bangladesh's stance in T20 World Cup 2026 controversy",
-    "desc": "The International Cricket Council (ICC) is set to take a final call today on Bangladesh's participation in the T20 World Cup 2026, scheduled to get underway on February 7. A day before the development, the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pcb-writes-to-icc-supporting-bangladesh-s-stance-in-t20-world-cup-2026-controversy-2026-01-21-1026783",
-    "time": "2026-01-21T05:12:21.000Z"
   }
 ];

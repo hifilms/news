@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "શું બાબા વેંગાની ભવિષ્યવાણી સાચી પડી? સોના-ચાંદીના ભાવમાં તોફાની તેજી, જાણો હજુ કેટલો વધશે ભાવ!",
+    "desc": "બલ્ગેરિયન ભવિષ્યવેક્તા દ્વારા સોનાના ભાવ વિશે કરવામાં આવેલી ભવિષ્યવાણીને લઈ ખૂબ જ ચર્ચા થઈ રહી છે. કારણ કે, સોના અને ચાંદીના ભાવ સમયની સાથે વધી રહ્યા છે. સોનાના ભાવ વિશે બાબા વેંગાની ભવિષ્યવાણીઓ લોકોની વચ્ચે વધુને વધુ લોકપ્રિય બની રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/baba-vanga-gold-price-prediction-2026-baba-vanga-prediction-is-her-gold-price-forecast-coming-true-gold-silver-rate-hike-462434 ",
+    "time": "2026-01-21T14:13:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "બાંગ્લાદેશને અલ્ટીમેટમ... ICCએ વોટિંગથી લીધો મોટો નિર્ણય, હવે પાકિસ્તાનની નીકળશે હેકડી",
+    "desc": "જો બાંગ્લાદેશ ભારત નહીં જાય, તો ICC બોર્ડે તેને બદલવા માટે બુધવારે મતદાન કર્યું છે. એવું સમજાય છે કે ICCએ BCBને બાંગ્લાદેશ સરકારને એમ કહેવા માટે જણાવ્યું છે કે, જો બાંગ્લાદેશ 2026 T20 વર્લ્ડ કપમાં તેની મેચો રમવા માટે ભારત આવવાનો ઇનકાર કરે છે, તો ટૂર્નામેન્ટમાં તેની જગ્યાએ બીજી ટીમને સામેલ કરવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-controversy-icc-gives-ultimatum-to-bangladesh-pakistan-will-be-humiliated-462431 ",
+    "time": "2026-01-21T13:19:33.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "3.25 સુધી ફિટમેન્ટ ફોર્મ્યુલા,  5% ઈન્ક્રીમેન્ટ.... આઠમાં પગાર પંચમાં મળશે ભેટ?",
     "desc": "ફેડરેશન ઓફ નેશનલ પોસ્ટલ ઓર્ગેનાઇઝેશન એટલે કે એફએનપીઓનું કહેવું છે કે સંગઠને 3.0થી 3.25 સુધી અલગ-અલગ ફિટમેન્ટ ફેક્ટરનું સૂચન કર્યું છે. આ સિવાય એફએનપીઓએ વર્તમાન 3 ટકા વાર્ષિક પગાર વધારાને વધારી 5 ટકા કરવાની માગ કરી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -268,15 +286,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/nitin-naveen-elected-unopposed-as-the-new-national-president-of-bjp-will-take-over-the-post-at-11-am-tomorrow-462227 ",
     "time": "2026-01-19T13:50:18.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "8th Pay Commission શા માટે હોલ્ટ પર રાખવામાં આવ્યું? પગાર વધારા અને બાકી રકમ પર ICRAનો મોટો દાવો, સમજો ગણિત",
-    "desc": "કેન્દ્રીય કર્મચારીઓ માટે 8મું પગાર પંચ, જે જાન્યુઆરી 2026માં લાગુ થવાનું હતું, તેમાં વિલંબ થઈ રહ્યો છે. ICRAના અહેવાલ મુજબ, કમિશનનો અહેવાલ રજૂ કરવામાં 15-18 મહિના લાગી શકે છે. આનાથી નાણાકીય વર્ષ 2028માં સરકારી તિજોરી પર નોંધપાત્ર દબાણ આવી શકે છે, કારણ કે જો પાછલી અસરથી લાગુ કરવામાં આવે તો પગાર ખર્ચ 40-50% વધી શકે છે, અને કર્મચારીઓને નોંધપાત્ર બાકી રકમ મળશે. આ વિલંબ બજેટ 2026-27 અને ભવિષ્યની નાણાકીય પરિસ્થિતિને અસર કરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/why-was-the-8th-pay-commission-put-on-hold-icra-big-claim-on-salary-increment-and-arrears-understand-the-math-462218 ",
-    "time": "2026-01-19T13:27:46.000Z"
   },
   {
     "cat": "Sports",

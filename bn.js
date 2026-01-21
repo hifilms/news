@@ -1,5 +1,68 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "সরে দাঁড়ালেন জ্যোমাটো তথা Eternal-এর  সিইও দীপেন্দর! নতুন কে পদে আসছেন?",
+    "desc": "দীপেন্দর গয়াল Eternal-এর চিফ এক্সিকিউটিভ অফিসার (CEO) পদ থেকে ইস্তফা দিয়েছেন। সংস্থার পক্ষ থেকে বুধবার জানানো হয়েছে, তাঁর পদত্যাগ ১ ফেব্রুয়ারি থেকে কার্যকর হবে। নতুন করে Eternal-এর গ্রুপ সিইও হিসেবে দায়িত্ব নেবেন অলবিন্দর ধিন্দসা (অ্যালবি)।",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/12/Zomato-Owner-2025-12-0361e1ee1f547f127ea05795abf6bc71-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/eternel-ceo-dipender-goyal-resigns-from-ceo-post-who-come-to-this-post-know-more-details-about-it-smc-2507765.html",
+    "time": "2026-01-21T15:22:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'দেহব্যবসা করেই কামিয়েছি...!' বাথরুম থেকে টাকার পাহাড় বেরতেই সাফ জবাব বলি নায়িকার, পরিণতি হয়েছিল ভয়ঙ্কর",
+    "desc": "মালা সিনহার কেরিয়ার তখন মধ্যগগণে৷ ১৯৭৮ সালে। আচমকা একদিন আয়কর দফতরের কর্মকর্তারা মালা সিনহার বাড়িতে হানা দেন। অভিযান চালানোর পর চক্ষু চড়কগাছ হয় কর্মকর্তাদের৷ অভিনেত্রীর বাথরুমের দেওয়াল থেকে ১২ লক্ষ টাকা উদ্ধার হয়। যা নিমেষে শোরগোল ফেলে দেয় ইন্ডাস্ট্রিতে৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Riya-Das-1200900-2026-01-21T201445.455-2026-01-52c224af58322c626f6d2171f89c2e36-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/this-famous-bollywood-actress-career-flop-after-one-statement-in-court-income-tax-officer-found-12-lakh-rupees-in-her-bathroom-rds-2507702.html",
+    "time": "2026-01-21T15:11:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'এই বিয়ে আমরা অনেক আগেই করেছি, গত পাঁচ বছর একসঙ্গে আছি...' বিস্ফোরক পোস্ট হিরণের দ্বিতীয় স্ত্রীর",
+    "desc": "এবার সমাজমাধ্যমে মুখ খুললেন ঋতিকা গিরি। তিনি বলেন, 'এই বিয়ে আমরা অনেক আগেই করেছি, গত পাঁচ বছর একসঙ্গে আছি।' তাঁর দাবি, হিরণের প্রথম স্ত্রী বয়স সম্পর্কে ভুল তথ্য দিয়েছেন। পাশাপাশিও এও জানান, তাঁকে ডিভোর্স নোটিস পাঠানো হয়েছিল।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-21-at-7.57.56-PM-2026-01-5f0c29f80e1a339aeab2f8bce6be3762-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/hiran-faces-controversy-over-second-marriage-ex-wife-makes-allegations-rmj-2-ws-l-2507704.html",
+    "time": "2026-01-21T14:47:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "তুমুল বিতর্ক, প্রথম স্ত্রীর 'ভয়ঙ্কর' অভিযোগ 'ডিভোর্স না করেই বিয়ে'! তারপরেই কি সব ছবি মুছে ফেললেন হিরণ?",
+    "desc": "মারাত্মক অভিযোগ করেন হিরণের প্রাক্তন স্ত্রী অনিন্দিতা। জানান, '২০০০ সালে তাঁদের বিয়ে হয়েছে। গত বছর ২৫ বছর পূর্ণ হয়েছে। কিন্তু আইনত কোনও ডিভোর্স হয়নি এবং ডিভোর্সের মামলাও চলছে না। সেক্ষেত্রে প্রথম স্ত্রী থাকতে আইন অনুযায়ী কী করে হিরণ আরেকবার বিয়ে করেন?' তাদের ১৯ বছরের একটা মেয়ে রয়েছে। মেয়ের থেকে দ্বিতীয় স্ত্রী মাত্র দুই বছরের বড়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-21-at-6.37.22-PM-1-2026-01-e4809efb82e05d4a628c680e0df9baa7-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/actor-politician-hiran-chatterjee-removed-photos-from-instagram-rmj-2507511.html",
+    "time": "2026-01-21T13:55:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘তুমিই আমার মা, তুমিই আমার বাবা’, হিরণের দ্বিতীয় বিয়ের পরেই ইঙ্গিতপূর্ণ পোস্ট কন্যা নিয়াসার",
+    "desc": "এই সব কিছুর মাঝে কয়েক সেকেন্ডের একটি ভিডিয়ো ভাগ করে নিয়েছেন হিরণের কন্যা নিয়াসা চট্টোপাধ্যায়। যেখানে দেখা যাচ্ছে মা অনিন্দিতা পোষ্যের সঙ্গে সময় কাটাচ্ছেন নিয়াসা। নিয়াসা লেখেন, “বহুদিন হল আমরা দু’জনেই আছি। ভালবাসা দিয়ে প্রতিটা ভূমিকা পালন করছ তুমি। তুমিই আমার মা, তুমিই বাবা। তুমি আমার পথপ্রদর্শক। সবকিছুর জন্য ধন্যবাদ। তুমিই আমার হিরো মা।”",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-21-at-3.28.39-PM-2026-01-75a502ea301b42b1287e579d98a0468e-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/hiran-faces-controversy-over-second-marriage-ex-wife-makes-allegations-rmj-ws-l-2507567.html",
+    "time": "2026-01-21T13:27:00.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "মোবাইলের চার্জিং পোর্টের পাশে ছোট্ট ছিদ্র থাকে কেন জানেন? ৯৯.৯৯% মানুষই সঠিক উত্তর দিতে পারবেন না!",
+    "desc": "কিছু অ্যাডভান্স স্মার্টফোনে এই ছোট্ট ছিদ্রটি সেকেন্ডারি মাইক্রোফোনেরও অংশ হতে পারে। এর কাজ হল অপ্রয়োজনীয় শব্দ কমানো। এটি বাতাসের শব্দ, ট্রাফিকের আওয়াজ এবং আশপাশের কোলাহল নিজে থেকেই ফিল্টার করে দেয়, ফলে আপনার কণ্ঠস্বর আরও পরিষ্কার ও স্পষ্টভাবে অপর প্রান্তের মানুষের কাছে পৌঁছে যায়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/12/1766908611_1766893183_image-2025-12-4689f150ac0d8aeec15c5d16584e9022-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/technology/do-you-know-what-is-the-purpose-of-small-hole-near-speaker-in-smartphone-many-people-have-no-idea-about-it-smc-2507565.html",
+    "time": "2026-01-21T13:21:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sourav's Biopic Shooting: সৌরভের বাড়ির অন্দরের আনাচকানাচও বাদ যাচ্ছে না, বলিউড ডিরেক্টর এবার যা করছেন, দেখুন ভিডিও",
+    "desc": "সৌরভের বায়োপিকের শ্যুটিং শুরু! শুভ মহারৎ কবে? বায়োপিকে সৌরভের নায়িকার ভূমিকায় বাঙালি মুখ!কয়েকদিন ধরেই কলকাতায় পরিচালক বিক্রমাদিত্য মোটওয়ানি। সৌরভ গঙ্গোপাধ্যায়ের বায়োপিকের খুঁটিনাটি নিয়ে চলছে জোরকদমে কাজ। উদ্দেশ্য, ‘দাদা’র বেহালার বাড়ির আনাচকানাচ খুঁটিয়ে দেখা। ভারতীয় ক্রিকেটে আগ্রাসনের জন্ম দেওয়া অধিনায়ক সৌরভের বায়োপিক ঘিরে আগ্রহ সব মহলেই৷ সংবাদ মাধ্যমের খবর অনুসারে মুম্বইয়ের স্টুডিওতে ‘দাদা’র বাড়ি তৈরি হবে। তাই বলিউডের বিখ্যাত ডিরেক্টর বিক্রম ছবি তুলে নিয়ে যাচ্ছেন।” সব ঠিক থাকলে মার্চ মাস থেকে শুরু হবে শ্যুটিং। সিনেমায় থাকবে কলকাতা, মুম্বই, লন্ডন-সহ নানা জায়গা৷ দেখুন বাংলা নিউজ ভিডিও (Watch bangla news video)৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/sourav-ganguly-biopic-2026-01-6575a93883e6667f9c8d63b40ad066e4-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/sports/sourav-s-biopic-shooting-bollywood-director-vikramaditya-motwani-is-visiting-all-the-places-in-kolkata-including-dada-s-behala-residence-dd-2507509.html",
+    "time": "2026-01-21T13:05:02.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "টানা ৯০ মিনিট প্রাণ বাঁচানোর 'বৃথা' চেষ্টা ইঞ্জিনিয়ার যুবকের, শেষ মুহূর্ত ধরা পড়ল ভিডিওতে",
     "desc": "গত শনিবার গভীর রাতে অফিস থেকে বাড়ি ফেরার পথে জল ভর্তি ওই গর্তে পড়ে যায় ২৭ বছর বয়সি সফটওয়্যার ইঞ্জিনিয়ার তরুণ মেহতার গাড়ি৷ মৃতের পরিবারের অভিযোগ, সময় মতো উদ্ধারকাজ শুরু না হওয়ায় জলে ডুবে মৃত্যু হয় ওই যুবরাজের৷ এই পরেই মৃত ইঞ্জিনিয়ারের বাবার অভিযোগের ভিত্তিতে উইশটাউন প্ল্যানার্স এবং লোটাস গ্রিনস নামে আরও একটি সংস্থার বিরুদ্ধে এফআইআর দায়ের করে পুলিশ৷",
@@ -747,15 +810,6 @@ const newsData_bn = [
     "time": "2026-01-16T09:52:36.000Z"
   },
   {
-    "cat": "World",
-    "title": "ট্রাম্পের ভয়ে কাঁটা হয়ে আছে ইরান? না হলে আমেরিকার ভয়ংকর চাপের মুখেই কেন ৮০০ বিক্ষোভকারীর ফাঁসি...",
-    "desc": "সত্যিই কি তাই? নিজেদের দেশে ফাঁসি রদ করে দিল ইরান? জীবনযাত্রার ব্যয়বৃদ্ধি ঘিরে ইরানে দেশ জুড়ে শুরু হয়েছে বিক্ষোভ-প্রতিবাদ। তার সূত্রেই দমন-প্রতিরোধ, মৃত্যু। আমেরিকা ইরানের উপর বড় রকম নিষেধাজ্ঞা চাপিয়েছে। এর মধ্যেই আমেরিকার দাবি, তাদের ভয়েই ৮০০ ফাঁসি রদ করে দিল ইরান! সত্যি কি তাই?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/iran-halted-800-executions-of-protestors-after-trumps-warning-claims-usa-iran-unrest-irans-economic-protests_635471.html ",
-    "time": "2026-01-16T08:54:39.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "স্ট্রাগলের দিনে ধরা হাত ছাড়েননি, ১১ বছর প্রেম, ধুমধাম করে বিয়ে...এই অভিনেতা-অভিনেত্রীর ভালবাসার গল্প অবাক করবে",
     "desc": "২০১০ সালে রাজকুমার একটি বিজ্ঞাপনে পত্রলেখাকে দেখে না কি নিজেকে বলেছিলেন, ‘‘আমি একদিন ওকেই বিয়ে করব।’’ পত্রলেখা তাঁকে ‘লাভ সেক্স অউর ধোঁকা’ ছবিতে দেখেছিলেন, একজন সিরিয়াস অভিনেতার বাইরে আর কিছু ভাবেননি, এমন একজন অভিনেতা হিসেবে নয়, যাকে দেখলেই মুগ্ধ হয়ে যেতে হয়। তখনও তিনি বোঝেননি ভাগ্যের অন্য পরিকল্পনা ছিল।",
@@ -844,59 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/business/share-market-share-market-holidays-2026-bse-nse-closed-on-these-days-tc-rmj-aa-ws-l-2497683.html",
     "time": "2026-01-15T13:29:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "দেব-শুভশ্রীর ছবিতে ভিলেন 'নিষিদ্ধ' অনির্বাণ! ফেডারেশনের সঙ্গে সরাসরি যুদ্ধে মেগাস্টার?",
-    "desc": "এবার কি সরাসরি সংঘাতে দেব ও ফেডারেশন? বেশ কয়েকদিন ধরেই তাঁদের মতের মিল হচ্ছিল না। তবে এবার যে অভিনেতাকে ব্যান করে রেখেছে ফেডারেশন, সেই অভিনেতাকেই পরের ছবিতে কাস্ট করছেন দেব, এমনটাই খবর। যদিও আগেও অনির্বাণকে কাস্ট করার ইচ্ছে জানিয়েছিলেন দেব।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/dev-casts-anirban-bhattacharya-direct-clash-with-federation-new-movie-with-subhashree_635310.html ",
-    "time": "2026-01-15T12:36:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "আগের মত ক্যারিশমা আর নেই! শীঘ্রই অবসর নিতে পারেন ভারতের আরও এক মহাতারকা",
-    "desc": "সীমিত ওভারের ক্রিকেটে গত দুই বছরে তাঁর পারফরম্যান্স সেই মান ধরে রাখতে পারেনি। টি-টোয়েন্টি আন্তর্জাতিক থেকে তিনি ২০২৪ বিশ্বকাপ জয়ের পর অবসর নিয়েছেন। ফলে এখন তাঁর সামনে একমাত্র সাদা বলের ফরম্যাট হিসেবে ওয়ানডেই বাকি আছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/01/Indian-Team-84-2025-01-e798ed9d010eed3ca35b7938799ffe99-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/team-india-star-all-rounder-ravindra-jadeja-s-performance-graph-low-in-recent-time-sup-2497732.html",
-    "time": "2026-01-15T11:02:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "বাংলাদেশ ক্রিকেটে গভীর ফাটল! বোর্ড কর্তাদের সঙ্গে সরাসরি লড়াইতে ক্রিকেটাররা, বয়কট বিপিএল",
-    "desc": "ESPNcricinfo-এর প্রাপ্ত তথ্য অনুসারে, বুধবার রাতে কিছু বোর্ড পরিচালক CWA সভাপতি মহম্মদ মিঠুনের সঙ্গে যোগাযোগ করে এই প্রস্তাবটি দেন, নাজমুলকে অর্থ কমিটির চেয়ারম্যান পদ থেকে পদত্যাগ করতে বাধ্য করা হবে, কিন্তু এত কিছুর পরেও মিঠুন বলেন যে ক্রিকেটারদের বয়কটের আহ্বান এখনও বহাল রয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/2026-01-b1c9f5046f2851f6cce9a068c3f8c15d-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/bangladesh-players-boycott-bpl-2026-amid-fight-vs-india-know-inside-story-of-bcb-and-bangladesh-cricketer-revolt-dd-2497717.html",
-    "time": "2026-01-15T10:46:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "সরস্বতী পুজোর পরের দিনই বাংলার ঘরে ঘরে খাওয়া হয় গোটা সিদ্ধ... কেন এই বিশেষ রীতি, জানুন",
-    "desc": "আবার এর পিছনে রয়েছে বৈজ্ঞানিক কারণও৷ এই সময় যেহেতু পক্স হয় তাই গোটা সেদ্ধ খেয়ে শরীর ঠান্ডা রাখা হয়৷ ডাক্তাররাও তাই এই খাবারকে বলেন কমফর্ট ফুড৷ যেহেতু ষষ্ঠী তাই এই সময়কার ৬ রকম মরশুমি সব্জি একসঙ্গে গোটা সেদ্ধ করে খাওয়া হয় বলে একে বলা হয় গোটা সেদ্ধ৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/New-Project-2026-01-f2c27da9e643444cd03292846ff262a8-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/saraswati-puja-date-and-time-what-is-shital-sasthi-rmj-2497595.html",
-    "time": "2026-01-15T09:03:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "মেডিক্যাল রিপ্রেজেন্টেটিভ থেকে হলে গেলেন ফিল্মে 'কমেডি কিং'! দুর্ঘটনায় বন্ধ হল কথা, হুইলচেয়ারে বন্দি জীবন",
-    "desc": "তিনি মাথা, বুক এবং বাহু ও পায়ে গুরুতর আঘাত পান এবং জীবনের জন্য লড়াই করেন। তিনি প্রায় এক বছর হাসপাতালে চিকিৎসাধীন ছিলেন এবং সুস্থ হয়ে ওঠেন। তবে ১৪ বছর ধরে তিনি হাঁটতে চলতে পারছেন না",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Web-2026-01-15T143216.123-2026-01-9bf89019d7f9f18a098a6c4e891168d7-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/1500-films-actor-who-made-five-generations-laugh-no-speech-for-14-years-living-in-wheelchair-pbd-2497627.html",
-    "time": "2026-01-15T09:02:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বাবা ছিলেন ইন্দিরা পুত্র সঞ্জয় গান্ধির আইনজীবী, মাত্র ১৯ বছর বয়সে ঘর ছাড়েন অভিনেত্রী, এখন এমন কাজ করেন শুনলে আপনিও হাসবেন!",
-    "desc": "এই নায়িকার বাবা ছিলেন অত্যন্ত প্রভাবশালী আইনজীবী৷ এমার্জেন্সির সময় তিনি সঞ্জয় গান্ধির বিশেষ সব আইনি মামলা লড়তেন নায়িকার বাবা৷ দেরাদুনে ছিল তাঁর বিশাল নাম ডাক৷ তবে বাবা কখনও চাননি সন্তানরা উকিল হোক৷ ফলে মেয়েও স্বপ্ন দেখেছিলেন নায়িকার হওয়ার৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Web-2026-01-15T140721.385-2026-01-9f28e5d0d4af1b2d76d047fadd3207a1-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/actress-father-was-sanjay-gandhi-lawyer-during-emergency-time-now-she-is-well-known-in-bollywood-earns-from-laughter-show-pbd-2497520.html",
-    "time": "2026-01-15T08:37:51.000Z"
   }
 ];
