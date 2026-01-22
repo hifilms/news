@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ગૌતમ ગંભીરની એક ચાલ અને પલટાઈ ગઈ મેચ, ટીમ ઈન્ડિયાને મળ્યો નવો ફિનિશર",
+    "desc": "બુધવારે નાગપુરમાં રમાયેલી ન્યૂઝીલેન્ડ સામેની પહેલી T20 મેચમાં કોચ ગૌતમ ગંભીરના એક ચાલે મેચનું પાસું ફેરવી દીધું. ભારતીય ટીમે ન્યૂઝીલેન્ડને 48 રનથી હરાવ્યું. ટીમ ઈન્ડિયાએ પાંચ મેચની ટી20 આંતરરાષ્ટ્રીય શ્રેણીમાં 1-0થી લીડ મેળવી લીધી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rinku-singh-team-india-finisher-match-winning-performance-in-nagpur-t20-462483 ",
+    "time": "2026-01-22T06:27:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "16મી ઓવરમાં એવું તે શું થયું કે અક્ષર પટેલને અધવચ્ચે જ છોડવી પડી બોલિંગ, જાણો સમગ્ર ઘટના",
+    "desc": "5 મેચની T20 શ્રેણીની પહેલી મેચ નાગપુરમાં રમાઈ હતી. આ મેચ ભારતે 48 રને જીતી લીધી હતી. જોકે, મેચ દરમિયાન ભારત માટે એક ખરાબ સમાચાર સામે આવ્યા હતા. ટીમ ઈન્ડિયાનો વાઈસ કેપ્ટન ઈજાગ્રસ્ત થયો છે. જેના કારણે કેપ્ટન અને કોચનું ટેન્શન વધ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/team-india-suffers-setback-ahead-of-t20-world-cup-axar-patel-injured-462477 ",
+    "time": "2026-01-22T05:20:04.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "મહારાષ્ટ્રમાં અહીં શિંદેએ ચૂપચાપ મોટો ખેલ પાડી દીધો, ભાજપની મજબૂત સ્થિતિ છતાં સપનું રોળાયું",
     "desc": "મહારાષ્ટ્રના રાજકારણમાં નવા નવા સમીકરણો અને યુતિ જોવા મળી રહ્યા છે. જેને જોતા એવું લાગે કે પિક્ચર અભી બાકી છે. હવે કલ્યાણ ડોંબિવલી મહાનગરપાલિકામાં મહાયુતિની સામે ચૂંટણી લડેલા રાજ ઠાકરેના પક્ષે હવે શિવસેનાને ટેકો જાહેર કરી દીધો છે. ભાજપનું સપનું કેમ રોળાયું? ખાસ જાણો.",
@@ -261,15 +279,6 @@ const newsData_gu = [
     "time": "2026-01-20T05:08:27.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ઇન્કમ ટેક્સ એક્ટમાં થવા જઈ રહ્યા છે મોટા ફેરફાર; ટેક્સ સ્લેબથી લઈને HRA સુધી શું બદલાશે?",
-    "desc": "Budget 2026 ને લઈને આ વખતે ભારે ઉત્સાહ જોવા મળી રહ્યો છે. સરકાર આવકવેરા અધિનિયમ (Income Tax Act), 1961 માં ફેરફાર કરીને નવો 'ઇન્કમ ટેક્સ એક્ટ, 2025' લાગુ કરવાની તૈયારી કરી રહી છે. ચાલો જાણીએ આ વખતે બજેટમાં શું ખાસ હોઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/budget-2026-changes-are-coming-to-the-income-tax-act-from-tax-rates-to-hra-find-out-what-all-is-going-to-change-462258 ",
-    "time": "2026-01-20T03:52:31.000Z"
-  },
-  {
     "cat": "World",
     "title": "ગ્રીનલેન્ડ પર સૈન્ય હુમલો કરશે અમેરિકા? ટ્રમ્પનો જવાબ જાણીને હોશ ઉડી જશે",
     "desc": "અમેરિકા રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ગ્રીનલેન્ડ પર કબજો કરવાની પોતાની ઈચ્છા સ્પષ્ટ કરી દીધી છે. તેમણે ઘણી વખત પોતાના વિરોધીઓ, ખાસ કરીને યુરોપિયન દેશોને ચેતવણી આપી છે કે, જો તેઓ તેમની માંગણીઓનો વિરોધ કરશે, તો તેમના પર વધારાનો ટેરિફ લગાડવામાં આવશે.",
@@ -295,24 +304,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/rohit-sharma-virat-kohli-next-odi-match-schedule-2026-462242 ",
     "time": "2026-01-19T16:33:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ટ્રમ્પના બોર્ડ ઓફ પીસમાં સ્થાઈ સભ્ય બનવા માટે ભારતને ચુકવવા પડશે 9070 કરોડ !",
-    "desc": "ટ્રમ્પ આ બોર્ડના અધ્યક્ષ રહેશે. જો ભારત આમંત્રણ સ્વીકારે છે, તો તે ત્રણ વર્ષ માટે બોર્ડનું સભ્ય બનશે. જો કે, જો કોઈ દેશ સભ્ય રહેવા માંગે છે, તો તેણે નાણાકીય રીતે પણ યોગદાન આપવું પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/india-will-have-to-pay-9070-crores-to-become-a-permanent-member-of-trump-board-of-peace-462229 ",
-    "time": "2026-01-19T14:07:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ભાજપને મળ્યા નવા રાષ્ટ્રીય અધ્યક્ષ, આવતીકાલે સવારે 11 વાગ્યે સંભાળશે પદ",
-    "desc": "ભાજપ મુખ્યાલય ખાતે રાષ્ટ્રીય અધ્યક્ષની ચૂંટણી માટેની પ્રક્રિયા ચાલી રહી છે. નીતિન નબીનના નામાંકન બાદ, આવતીકાલે સવારે 11 વાગ્યે ભાજપ મુખ્યાલય ખાતે 700 પ્રતિનિધિઓ એકઠા થશે. વડા પ્રધાન મોદી પણ હાજર રહેશે. નીતિન નબીનની ચૂંટણીની ઔપચારિક જાહેરાત સાંજે 6 વાગ્યે તેમની હાજરીમાં કરવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/nitin-naveen-elected-unopposed-as-the-new-national-president-of-bjp-will-take-over-the-post-at-11-am-tomorrow-462227 ",
-    "time": "2026-01-19T13:50:18.000Z"
   },
   {
     "cat": "Sports",
@@ -358,15 +349,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/volkswagen-taigun-discounts-rs-1-04-lakh-in-january-2026-462173 ",
     "time": "2026-01-19T05:19:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વિદર્ભે રચ્યો ઇતિહાસ... સૌરાષ્ટ્રને હરાવીને પ્રથમ વખત જીતી વિજય હજારે ટ્રોફી",
-    "desc": "વિદર્ભ વિજય હજારે ટ્રોફીનો નવો ચેમ્પિયન બન્યો છે. વિદર્ભે સૌરાષ્ટ્રને 38 રનથી હરાવીને પ્રથમ વખત વિજય હજારે ટ્રોફી જીતી છે. જીતનો હીરો અથર્વ તાયડે હતો, જેણે મેચ વિનર સદી ફટકારી હતી અને ટીમની જીતમાં મહત્વપૂર્ણ યોગદાન આપ્યું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/vht-2026-vidarbha-win-vijay-hazare-trophy-for-1st-time-beating-saurashtra-in-final-462153 ",
-    "time": "2026-01-19T03:01:45.000Z"
   },
   {
     "cat": "Tech",

@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Babar Azam leaves Sydney Sixers ahead of Challenger clash in BBL amid calls to drop him",
+    "desc": "Babar Azam will not be available for the Sydney Sixers in the Challenger clash in the Big Bash League (BBL) against Hobart Hurricanes. He has been recalled to join Pakistan's national camp ahead of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-leaves-sydney-sixers-ahead-of-challenger-clash-in-bbl-amid-calls-to-drop-him-2026-01-22-1026976",
+    "time": "2026-01-22T06:06:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Glenn Phillips lauds Abhishek Sharma for 84-run knock in 1st T20I, says 'need luck while bowling to him'",
+    "desc": "Glenn Phillips was the star player for New Zealand in the losing cause in the first T20I against India at the VCA Stadium in Nagpur. He smashed 78 runs off 40 balls with four fours...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-lauds-abhishek-sharma-for-84-run-knock-in-1st-t20i-says-need-luck-while-bowling-to-him-2026-01-22-1026966",
+    "time": "2026-01-22T05:12:33.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "RCB want 'grey areas' to be addressed before playing IPL 2026 matches at Chinnaswamy Stadium in Bengaluru",
     "desc": "Royal Challengers Bengaluru (RCB) have made it clear that they are eager to play at the Chinnaswamy Stadium in the upcoming Indian Premier League (IPL) season. However, the franchise wants 'grey areas' to be addressed...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bcb-hopes-for-miracle-on-t20-world-cup-row-board-president-to-talk-to-government-one-last-time-2026-01-21-1026911",
     "time": "2026-01-21T16:56:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Woman bypasses security to approach Rohit Sharma in Indore, reveals reason in video",
-    "desc": "A security lapse outside the Indian team hotel in Indore has sparked widespread discussion after an unexpected incident involving former India captain Rohit Sharma during the recently concluded ODI series against New Zealand. The episode...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/woman-bypasses-security-to-approach-rohit-sharma-in-indore-reveals-reason-in-video-watch-2026-01-21-1026905",
-    "time": "2026-01-21T15:42:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma creates world record, shatters Andre Russell's feat during IND vs NZ 1st T20I",
-    "desc": "India star batter Abhishek Sharma etched his name into the history books during the first T20I between India and New Zealand at the Vidarbha Cricket Association Stadium, Nagpur, on Wednesday, January 21. Abhishek turned on his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-creates-world-record-shatters-andre-russells-feat-during-ind-vs-nz-1st-t20i-2026-01-21-1026901",
-    "time": "2026-01-21T15:10:08.000Z"
   }
 ];

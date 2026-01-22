@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "একাধিক পুরুষের 'ক্রাশ'! কিন্তু বিবাহিত পুরুষের সঙ্গে গোপনে বিয়ে, বলিউডের সবচেয়ে 'ধনী' নায়িকা, ৪৬০০ কোটির মালকিন, কে বলুন তো?",
+    "desc": "নব্বইয়ের দশকের জনপ্রিয় নায়িকা তিনি৷ পাশাপাশি আইআরএস অফিসারের মেয়েও৷ যার এক গাল হাসি আর চোখের চাহনি রাতের ঘুম কেড়ে নিয়েছিল অগণিত ভক্তদের৷ এমনকি সলমন খানও তাকে চাইতেন মনে-প্রাণে৷ তবে কোনও তারকার গলায় মালা না দিয়ে কেরিয়ারের শীর্ষেএকজন বিবাহিত পুরুষকে বিয়ে করেছিলেন তিনি, আজও বলিউডের সবচেয়ে ধনী এই নায়িকা৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/08/Untitled-design-2025-08-23T103625.613-2025-08-96ded14b4337d9a2b5d74afaae16c58a-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/this-bollywood-actress-had-hide-marriage-with-businessman-because-she-was-afraid-of-losing-her-career-rds-2508090.html",
+    "time": "2026-01-22T05:26:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘অনিন্দিতা সব জানত...’, হিরণের দ্বিতীয় স্ত্রী হৃতিকা এমনটা বলার পর এবার তাঁকে কী বার্তা অনিন্দিতার?",
+    "desc": "অনিন্দিতার অভিযোগ, ইনস্টাগ্রামে প্রকাশিত বিয়ে সংক্রান্ত বিষয়কে কেন্দ্র করেই এই মামলা। তাঁর দাবি, হিরণ ও হৃতিকা নিজেরাই বিয়ের কথা স্বীকার করেছেন, যা আইনত অবৈধ। ডিভোর্সের কোনও নোটিস তাঁকে পাঠানো হয়নি এবং আইনজীবীর পাঠানো নোটিসেও বিবাহবিচ্ছেদের উল্লেখ নেই বলে অভিযোগ।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Ritika-Giri-and-Hiraan-Marriage-2026-01-3c3e5b2f91e01c061ac0bb0a71e073bb-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/hiran-chatterjee-first-wife-anindita-chatterjee-message-to-his-second-wife-ritika-giri-ss-2508059.html",
+    "time": "2026-01-22T05:13:44.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "কোণঠাসা বাংলাদেশ ! ক্রিকেটারদের অস্তিত্বের সঙ্কট, টি টোয়েন্টি বিশ্বকাপ নিয়ে সিদ্ধান্ত জানাবে BCB",
     "desc": "টি-টোয়েন্টি বিশ্বকাপে কোণঠাসা বাংলাদেশ। আইসিসির সভায় বুধবার ভোটাভুটিতে হেরে গিয়েছে তারা। বিশ্ব ক্রিকেটের নিয়ামক সংস্থা জানিয়ে দিয়েছে, ভারতেই বিশ্বকাপ খেলতে হবে বাংলাদেশকে। এক দিন সময় দেওয়া হয়েছে তাদের। অর্থাৎ, আজ, বৃহস্পতিবারই সিদ্ধান্ত জানাতে হবে। কী সিদ্ধান্ত নেবে বাংলাদেশ?",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/national/supreme-court-on-i-pac-raid-in-west-bengal-gives-strong-directives-on-fir-against-ed-officials-know-what-happened-in-court-today-sanj-2498764.html",
     "time": "2026-01-15T20:51:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "আসছে বন্দে ভারত স্লিপার! বিখ্যাত এই ট্রেনে নিরাপত্তা ব্যবস্থা কেমন থাকবে? জেনে নিন এখনই",
-    "desc": "ভারতীয় রেল বন্দে ভারত স্লিপার ট্রেন চালু করার মাধ্যমে দূরপাল্লার রেলযাত্রায় এক নতুন অধ্যায়ের সূচনা করতে চলেছে। এটি একটি অত্যাধুনিক, দেশীয়, আধা-উচ্চ-গতির ট্রেন যা উন্নত আরাম, গতি এবং সর্বোপরি বিশ্বমানের নিরাপত্তা প্রদানের জন্য ডিজাইন করা হয়েছে। বন্দে ভারত এক্সপ্রেসের সাফল্যের উপর ভিত্তি করে, এই স্লিপার সংস্করণটি রাতারাতি এবং দীর্ঘ দূরত্বের যাত্রার প্রয়োজনীয়তা মেটাতে এবং একই সঙ্গে সর্বোচ্চ স্তরের যাত্রী নিরাপত্তা ও পরিচালনগত নির্ভরযোগ্যতা নিশ্চিত করার জন্য অত্যন্ত যত্ন সহকারে তৈরি করা হয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/sanj-2026-01-15T091357.390-2026-01-f2517ec7da7ccee3cc36cbdc7b868307-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/vande-bharat-sleeper-know-what-security-system-passengers-will-get-in-this-special-train-of-indian-railways-sanj-2498762.html",
-    "time": "2026-01-15T20:24:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "এসআইয়ের প্রক্রিয়ায় সময়সীমা বাড়াল কমিশন! কবে পর্যন্ত দেওয়া হল বাড়তি সময়? জানুন জরুরি আপডেট",
-    "desc": "কমিশন জানিয়েছে, আগামী ১৯ জানুয়ারি পর্যন্ত অভিযোগ জমা দেওয়া এবং নিষ্পত্তি করা যাবে। আগে ১৫ জানুয়ারি পর্যন্ত অভিযোগ জমা ও নিষ্পত্তির সময়সীমা দিয়েছিল কমিশন। সেই সময়সীমা বাড়ানো হল কমিশনের তরফে। ইতিমধ্যেই মঙ্গলবারই শুনানি প্রক্রিয়া দ্রুত শেষ করতে মুখ্য নির্বাচনী আধিকারিক ছয় দফা নির্দেশ দিয়েছিলেন জেলাশাসক তথা ডিস্ট্রিক্ট ইলেকশন অফিসারদের।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/11/sir-4-2025-11-57ede55e565ae2fb5caf22d722ab3646-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/west-bengal/west-bengal-sir-election-commission-extends-the-deadline-for-filing-complains-and-hearing-till-19th-january-know-detail-sanj-2498758.html",
-    "time": "2026-01-15T20:05:23.000Z"
   }
 ];
