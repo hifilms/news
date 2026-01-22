@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "কোণঠাসা বাংলাদেশ ! ক্রিকেটারদের অস্তিত্বের সঙ্কট, টি টোয়েন্টি বিশ্বকাপ নিয়ে সিদ্ধান্ত জানাবে BCB",
+    "desc": "টি-টোয়েন্টি বিশ্বকাপে কোণঠাসা বাংলাদেশ। আইসিসির সভায় বুধবার ভোটাভুটিতে হেরে গিয়েছে তারা। বিশ্ব ক্রিকেটের নিয়ামক সংস্থা জানিয়ে দিয়েছে, ভারতেই বিশ্বকাপ খেলতে হবে বাংলাদেশকে। এক দিন সময় দেওয়া হয়েছে তাদের। অর্থাৎ, আজ, বৃহস্পতিবারই সিদ্ধান্ত জানাতে হবে। কী সিদ্ধান্ত নেবে বাংলাদেশ?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangladesh-Cricket-ICC-T20-World-Cup-2026-01-ec5eca9a6477beeb0b747bde65e745a3-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/sports/bangladesh-cricket-participation-icc-t20-world-cup-bcb-team-venue-updates-latest-news-ss-2507950.html",
+    "time": "2026-01-22T03:31:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "SIP বন্ধ করছেন ? বড় ভুল করছেন না তো ? এসআইপি বন্ধ করার সঠিক সময় জেনে নিন",
+    "desc": "বেশিরভাগ বিনিয়োগকারী দীর্ঘমেয়াদি লক্ষ্য নিয়ে SIP শুরু করেন, কিন্তু বাজারের ওঠানামা বা ব্যক্তিগত আর্থিক চাপে মাঝপথেই বন্ধ করে দেন। কিন্তু SIP বন্ধ করা কি সবসময় ভুল? জেনে নিন SIP বন্ধ করার সঠিক সময় ও সঠিক সিদ্ধান্ত।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/SIP-109-2026-01-2eb90d67c9a4a3d14f4774db11bdae62-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/sip-stopped-are-you-making-a-big-mistake-know-the-right-time-to-stop-sip-dc-2507953.html",
+    "time": "2026-01-22T03:21:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "এলাহী 'ভোজ' তো...! হাওড়া-কামাখ্যা বন্দে ভারত স্লিপারের 'মেনুতে' কী কী থাকছে জানেন? চমকে দেবে তালিকা!",
+    "desc": "বন্দেভারতের প্রথম স্লিপার ট্রেনে পরিবেশিত খাবারেও দুই রাজ্যের স্বাদই চোখে পড়বে। নতুন স্লিপার ট্রেনের যে মেনু প্রকাশ্যে এসেছে, জানা গিয়েছে, তাতে থাকবে পশ্চিমবঙ্গ এবং অসম— এই দুই রাজ্যেরই ঐতিহ্যশালী সব পদ আর লোভনীয় সব খাবারদাবার।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-21-at-11.35.02-1-2026-01-d9781bd7f5a78d3d9bead6fac2ee3f43-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/vande-bharat-sleeper-menu-what-a-lavish-feast-do-you-know-whats-on-the-menu-of-the-howrah-kamakhya-vande-bharat-sleeper-train-the-list-will-surprise-you-for-sure-sanj-2506701.html",
+    "time": "2026-01-22T02:09:04.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "বিজেপি-র সর্বভারতীয় সভাপতি হয়েই বাংলায় আসছেন নীতিন নবীন! দেখুন ভিডিও",
     "desc": "বিজেপি-র সর্বভারতীয় সভাপতি হিসেবে দায়িত্ব নিয়েই বাংলায় আসছেন নীতিন নবীন৷ আগামী ২৭ এবং ২৮ জানুয়ারি রাজ্য সফরে আসছেন নীতিন নবীন৷ রাজ্য সফরে শুরু করে প্রথমে ভোটমুখী বাংলাতেই আসছেন বিজেপি-র নতুন সর্বভারতীয় সভাপতি৷ বাংলায় এসে নির্বাচনের প্রস্তুতি এবং রণকৌশল নিয়ে রাজ্য নেতৃত্বের সঙ্গে তিনি আলোচনায় বসবেন৷ এর পর বর্ধমান-দুর্গাপুরে একটি জনসভাও করবেন তিনি৷ সর্বভারতীয় সভাপতি হিসেবে সেটিই হবে নীতিন নবীনের প্রথম জনসভা৷",
@@ -178,15 +205,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/international/us-sends-military-aircraft-to-greenland-as-denmark-boosts-troop-presence-update-on-this-ss-2506358.html",
     "time": "2026-01-21T07:42:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "এলাহী 'ভোজ' তো...! হাওড়া-কামাখ্যা বন্দে ভারত স্লিপারের 'মেনুতে' কী কী থাকছে জানেন? চমকে দেবে তালিকা!",
-    "desc": "বন্দেভারতের প্রথম স্লিপার ট্রেনে পরিবেশিত খাবারেও দুই রাজ্যের স্বাদই চোখে পড়বে। নতুন স্লিপার ট্রেনের যে মেনু প্রকাশ্যে এসেছে, জানা গিয়েছে, তাতে থাকবে পশ্চিমবঙ্গ এবং অসম— এই দুই রাজ্যেরই ঐতিহ্যশালী সব পদ আর লোভনীয় সব খাবারদাবার।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-21-at-11.35.02-1-2026-01-d9781bd7f5a78d3d9bead6fac2ee3f43-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/vande-bharat-sleeper-menu-what-a-lavish-feast-do-you-know-whats-on-the-menu-of-the-howrah-kamakhya-vande-bharat-sleeper-train-the-list-will-surprise-you-for-sure-sanj-2506701.html",
-    "time": "2026-01-21T06:57:09.000Z"
   },
   {
     "cat": "Entertainment",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/west-bengal/west-bengal-sir-election-commission-extends-the-deadline-for-filing-complains-and-hearing-till-19th-january-know-detail-sanj-2498758.html",
     "time": "2026-01-15T20:05:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "বিরাট বা গিল নয়, সুনীল গাভাস্করের প্রশংসা পেলেন অন্য ব্যাটার, রাহুল দ্রাবিড়ের সঙ্গে তুলনা",
-    "desc": "তিন ম্যাচের সিরিজের দ্বিতীয় ODI ম্যাচে রাহুল ৯২ বলে ১১২ রানে অপরাজিত থাকেন, তাঁর ইনিংস সাজানো ছিল ১১টি চার ও ১টি ছয় দিয়ে। এর পরেই কেএল রাহুলকে প্রশংসায় ভরিয়ে দিয়েছেন গাভাস্কার। যদিও রাহুলের ইনিংস বুধবার ভারতকে জয় এনে দিতে পারেনি, তবুও গাভাস্কারের কাছ থেকে তিনি প্রশংসা পেয়েছেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2024/05/Sunil-Gavaskar-11-2024-05-8d24c020f6b537e90a123bfe9477d9bd-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/legend-sunil-gavaskar-compares-team-india-batter-with-rahul-dravid-after-hit-ton-against-new-zealand-rdp-2498682.html",
-    "time": "2026-01-15T18:05:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "চোটের জেরে টি২০ বিশ্বকাপে বড় ধাক্কা ভারতের! দল থেকে বাদ যেতে পারেন তারকা অলরাউন্ডার",
-    "desc": "তারকা ভারতীয় অলরাউন্ডার ওয়াশিংটন সুন্দরের বিশ্বকাপ খেলা নিয়ে সংশয়। Cricbuzz-এর এক রিপোর্ট অনুযায়ী, ২৬ বছর বয়সী এই অলরাউন্ডার টি২০ ওয়ার্ল্ড কাপ ২০২৬-এ ভারতের প্রথম ম্যাচের আগে পুরোপুরি ফিট হতে পারবেন না বলে মনে করা হচ্ছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/09/Suryakumar-Yadav-60-2025-09-c749d3ecd2bc3be4991457ca94584b14-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/team-india-star-all-rounder-may-miss-t20-world-cup-due-to-injury-in-india-vs-new-zealand-odi-series-rdp-2498624.html",
-    "time": "2026-01-15T17:27:23.000Z"
   }
 ];

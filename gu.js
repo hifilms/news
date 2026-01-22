@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "મહારાષ્ટ્રમાં અહીં શિંદેએ ચૂપચાપ મોટો ખેલ પાડી દીધો, ભાજપની મજબૂત સ્થિતિ છતાં સપનું રોળાયું",
+    "desc": "મહારાષ્ટ્રના રાજકારણમાં નવા નવા સમીકરણો અને યુતિ જોવા મળી રહ્યા છે. જેને જોતા એવું લાગે કે પિક્ચર અભી બાકી છે. હવે કલ્યાણ ડોંબિવલી મહાનગરપાલિકામાં મહાયુતિની સામે ચૂંટણી લડેલા રાજ ઠાકરેના પક્ષે હવે શિવસેનાને ટેકો જાહેર કરી દીધો છે. ભાજપનું સપનું કેમ રોળાયું? ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/maharashtra-elections-kalyan-dombivali-municipal-corporation-mns-how-support-eknath-shinde-shivsena-462467 ",
+    "time": "2026-01-22T03:33:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ઓટીટી પર જોવા જેવી બેસ્ટ હોરર ફિલ્મો અને સીરીઝ, જોયા પછી ઘરમાં એકલા રહેવામાં બીક લાગશે",
+    "desc": "જો તમને હોરર, થ્રિલર, સસ્પેન્સ ફિલ્મો કે વેબ સીરીઝ જોવાનો શોખ હોય તો આજે તમને 5 એવી ફિલ્મો અને વેબ સીરીઝ વિશે જણાવીએ જેના વિશે ચર્ચા ઓછી થઈ છે પરંતુ આ ફિલ્મો બેસ્ટ છે. તમને ઘર બેઠા આ ફિલ્મો ઓટીટી પ્લેટફોર્મ પર ફ્રી જોવા મળશે. રુંવાડા ઊભા થઈ જાય તેવા થ્રીલનો અનુભવ કરવો હોય તો ચેક કરી લો આ લિસ્ટ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/top-5-films-and-web-series-on-ott-best-hindi-horror-film-on-netflix-462468 ",
+    "time": "2026-01-22T03:28:43.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "મહેલ જેવું ઘર, સ્ક્વિડ ગેમ જેવું એરિના... ફરાહ ખાનના &amp;#039;The 50&amp;#039; હાઉસની પહેલી ઝલક જોઈને ચોંકી જશો",
     "desc": "નવા રિયાલિટી શો 'The 50'ના આલીશાન ઘરની પહેલી ઝલક સામે આવી છે. બુધવારે નિર્માતાઓએ એક વીડિયો જાહેર કર્યો છે, જેમાં ફરાહ ખાન દ્વારા હોસ્ટ કરવામાં આવનાર શો 'The 50'ના ભવ્ય મહેલની ઝલક જોવા મળી છે.",
@@ -520,14 +538,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/tata-sales-report-breakup-december-2025-nexon-on-top-know-about-punch-curve-other-models-461419 ",
     "time": "2026-01-12T08:55:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "સલમાન ખાનથી લઈ રશ્મિકા સુધી આ સ્ટાર્સેની લગ્ન પહેલા તુટી ચુકી છે સગાઈ",
-    "desc": "બોલીવુડના ઈતિહાસમાં એવી ઘણી હાઈ પ્રોફાઈલ જોડી છે જેમણે પ્રેમમાં પડીને સગાઈ કરી હોય પરંતુ પછી લગ્ન પહેલા જ તેમણે સગાઈ તોડી હોય. આ લિસ્ટમાં સલમાન ખાનથી લઈ નેશનલ ક્રશ રશ્મિકા મંદાનાનું નામ પણ સામેલ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/from-salman-khan-to-rashmika-mandanna-these-stars-broke-engagements-before-marriage-461370 ",
-    "time": "2026-01-12T02:54:17.000Z"
   }
 ];

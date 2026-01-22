@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "RCB want 'grey areas' to be addressed before playing IPL 2026 matches at Chinnaswamy Stadium in Bengaluru",
+    "desc": "Royal Challengers Bengaluru (RCB) have made it clear that they are eager to play at the Chinnaswamy Stadium in the upcoming Indian Premier League (IPL) season. However, the franchise wants 'grey areas' to be addressed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-want-grey-areas-to-be-addressed-before-playing-ipl-2026-matches-at-chinnaswamy-stadium-in-bengaluru-2026-01-22-1026954",
+    "time": "2026-01-22T03:34:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh sports advisor to meet Litton Das and his team after ICC ultimatum on T20 World Cup row",
+    "desc": "Bangladesh sports advisor, Asif Nazrul, will meet the national cricketers today to brief them about the prevailing situation regarding Bangladesh's participation in the upcoming T20 World Cup. The impasse didn't break on Wednesday when the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-sports-advisor-to-meet-litton-das-and-his-team-after-icc-ultimatum-on-t20-world-cup-row-2026-01-22-1026940",
+    "time": "2026-01-22T02:02:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arshdeep Singh thrashes Shaheen Afridi's all-time record in T20Is, Know details",
+    "desc": "India's left-arm pacer Arshdeep Singh returned with figures of 1/31 in his four overs as the men in blue defended a mammoth total of 238 runs comfortably against New Zealand on Wednesday to take a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-thrashes-shaheen-afridi-s-all-time-record-in-t20is-know-details-2026-01-22-1026935",
+    "time": "2026-01-22T01:32:27.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why Axar Patel walked off field mid-way during his over in IND vs NZ 1st T20I? Check here",
     "desc": "India were hit with a concern when star all-rounder Axar Patel walked off the field mid-way during his final over in the first T20I against New Zealand at the Vidarbha Cricket Association Stadium, Nagpur, on...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-creates-world-record-shatters-andre-russells-feat-during-ind-vs-nz-1st-t20i-2026-01-21-1026901",
     "time": "2026-01-21T15:10:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav becomes fourth Indian cricketer to register major T20 milestone; joins Kohli, Rohit, Dhawan",
-    "desc": "India captain Suryakumar Yadav faced heavy scrutiny over his form ahead of the first T20I against New Zealand at the VCA Stadium in Nagpur. The Mumbai batter, however, remained unfazed, stating that he has been...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-becomes-fourth-indian-cricketer-to-register-major-t20-milestone-joins-kohli-rohit-dhawan-2026-01-21-1026892",
-    "time": "2026-01-21T14:20:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Shreyas Iyer not playing in IND vs NZ 1st T20I despite being Tilak Varma's replacement? Check here",
-    "desc": "With the T20 World Cup title defence approaching, India take on New Zealand in their final assignment before the global showpiece tournament. The Men in Blue face the Kiwis in a five-match series with the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-shreyas-iyer-not-playing-in-ind-vs-nz-1st-t20i-despite-being-tilak-varmas-replacement-check-here-2026-01-21-1026890",
-    "time": "2026-01-21T13:58:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav breaks Babar Azam's major record in first T20I against New Zealand in Nagpur",
-    "desc": "India captain Suryakumar Yadav became the fourth Indian to feature in 100 or more T20 internationals, joining Rohit Sharma, Virat Kohli and Hardik Pandya. The milestone came during the first T20I against New Zealand at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-breaks-babar-azam-s-major-record-in-first-t20i-against-new-zealand-in-nagpur-2026-01-21-1026889",
-    "time": "2026-01-21T13:53:19.000Z"
   }
 ];
