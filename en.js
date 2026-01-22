@@ -1,6 +1,177 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Supreme Court rejects privacy plea, allows ED to access I-PAC man's phone",
+    "desc": "The Supreme Court refused to stop the ED from accessing information from an I-PAC functionary's seized mobile phone, despite pleas of privacy violation. The court stated it knows how to protect innocent citizens. This comes as ED faced interruptions in Kolkata during a search, unlike in Delhi.",
+    "img": "https://static.toiimg.com/photo/msid-127197476,imgsize-783613.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/supreme-court-rejects-privacy-plea-allows-ed-to-access-i-pac-mans-phone/articleshow/127197218.cms",
+    "time": "2026-01-22T20:57:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gukesh beats Nguyen; Arjun shocked by Fedoseev",
+    "desc": "Gukesh's timely victory ahead of the first rest day on Thursday (January 22, 2026) put him on three points out of a possible five and the Indian ace went up to joint fourth spot behind three leaders",
+    "img": "https://th-i.thgim.com/public/incoming/n4hw0x/article70539791.ece/alternates/LANDSCAPE_1200/PTI01_16_2025_000374A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/tata-steel-masters-gukesh-beats-nguyen-arjun-shocked-by-fedoseev/article70539787.ece",
+    "time": "2026-01-22T20:53:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Engineer shoots wife accidentally; distressed by death, he kills self",
+    "desc": "Tragedy struck in Ahmedabad as Congress MP Shaktisinh Gohil's nephew, Yashrajsinh Gohil, allegedly shot his wife Rajeshwari accidentally with a licensed revolver. Devastated by her death, he then reportedly took his own life. Police are investigating the incident, which occurred late Wednesday night in their apartment.",
+    "img": "https://static.toiimg.com/photo/msid-127196461,imgsize-662902.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/engineer-shoots-wife-accidentally-distressed-by-death-he-kills-self/articleshow/127196330.cms",
+    "time": "2026-01-22T20:45:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Bank depositors' role in funding credit growth on decline: RBI data",
+    "desc": "India's banks are seeing their deposit base struggle to keep up with surging commercial credit demand. While bank credit still dominates, its share in funding is shrinking as non-bank sources like NBFCs and bond markets gain prominence. This indicates a significant shift in how businesses are financed, with banks facing increasing pressure.",
+    "img": "https://static.toiimg.com/photo/msid-127194394,imgsize-905668.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/bank-depositors-role-in-funding-credit-growth-on-decline-rbi-data/articleshow/127194146.cms",
+    "time": "2026-01-22T20:13:20.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US Regulator Seeks to Bypass Indian Govt to Serve Adani Summons",
+    "desc": "US regulators are seeking court permission to email summons directly to Indian billionaire Gautam Adani and an executive, after India twice refused to serve them. The SEC alleges fraud and a bribery scheme. Adani Group denies the claims, vowing to fight them. India cited procedural issues and questioned the SEC's authority for the rejections.",
+    "img": "https://static.toiimg.com/photo/msid-127193455,imgsize-481473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/us-regulator-seeks-to-bypass-indian-govt-to-serve-adani-summons/articleshow/127193308.cms",
+    "time": "2026-01-22T20:01:17.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "India ‘disregarded’ friendly advice on controlling Hasina’s government: Former Awami ally G.M. Quader",
+    "desc": "Mr. Quader said his party is not receiving support from the current administration because of its past association with the Awami League and accused the country’s interim government of lacking sincerity in delivering an inclusive election",
+    "img": "https://th-i.thgim.com/public/incoming/ivwosn/article70539771.ece/alternates/LANDSCAPE_1200/IMG-20260122-WA0042.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/india-disregarded-friendly-advice-on-controlling-hasinas-government-former-awami-ally-gm-quader/article70539336.ece",
+    "time": "2026-01-22T19:54:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dev Anand didn’t lie about Zeenat's relationship with Raj Kapoor",
+    "desc": "Years after Dev Anand’s autobiography Romancing with Life stirred controversy over his account of falling in love with Zeenat Aman, one of his closest friends, Mohan Churiwala, has reopened the conversation. Mohan questioned why Zeenat chose to refute Dev Anand’s claims only years after his death and not when he was alive.",
+    "img": "https://static.toiimg.com/photo/msid-127192485,imgsize-54994.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dev-anand-didnt-lie-about-zeenat-amans-relationship-with-raj-kapoor-she-should-have-confronted-him-when-he-was-alive-says-mohan-churiwala/articleshow/127192099.cms",
+    "time": "2026-01-22T19:51:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "IndiGo profit dives 78% in December quarter over flight disruptions",
+    "desc": "IndiGo's net profit plummeted 78% to Rs 549 crore in the December quarter, impacted by Rs 577 crore in operational disruptions and Rs 1,000 crore from labour code provisions. Despite flight cuts and fare caps, total income rose 6.7% to Rs 24,541 crore, with the airline carrying 12.4 crore passengers in 2025.",
+    "img": "https://static.toiimg.com/photo/msid-127192274,imgsize-579688.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indigo-profit-dives-78-in-december-quarter-over-flight-disruptions/articleshow/127192005.cms",
+    "time": "2026-01-22T19:43:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Timothée’s Oscars record to Rani's candid admission",
+    "desc": "On January 22, 2026, the entertainment world was buzzing with excitement as Timothée Chalamet and Emma Stone made waves at the Oscars, marking significant milestones in their careers. In a show of solidarity, veteran actor Kanwarjit Paintal supported Deepika Padukone's push for more humane working hours while Jaaved Jaaferi weighed in on AR Rahman's recent comments about the industry.",
+    "img": "https://static.toiimg.com/photo/msid-127190389,imgsize-33714.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/top-5-entertainment-news-from-timothe-chalamets-oscars-record-to-rani-mukerjis-candid-admission-here-are-the-top-buzzing-stories-of-the-day/articleshow/127190389.cms",
+    "time": "2026-01-22T19:28:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "General Atlantic bets on Balaji Wafers, to buy minority stake",
+    "desc": "US private equity firm General Atlantic is acquiring a minority stake in Indian snack food maker Balaji Wafers for over Rs 2,000 crore. This investment values the Rajkot-based company at approximately Rs 35,000 crore. The deal aims to support Balaji Wafers' expansion, innovation, and professional team development as it targets an IPO in five years.",
+    "img": "https://static.toiimg.com/photo/msid-127190131,imgsize-806118.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/general-atlantic-bets-on-balaji-wafers-to-buy-minority-stake/articleshow/127189699.cms",
+    "time": "2026-01-22T19:13:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Walmart to cut 10 percent stake in PhonePe IPO",
+    "desc": "Fintech giant PhonePe is preparing for its stock market debut, aiming to raise Rs 12,000 crore. Major investors Tiger Global and Microsoft are fully exiting their stakes as Walmart, the majority owner, reduces its shareholding. This move marks the first Indian venture from Walmart to go public, following a confidential IPO filing last September.",
+    "img": "https://static.toiimg.com/photo/msid-127189403,imgsize-1766976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/walmart-to-cut-10-percent-stake-in-phonepe-ipo/articleshow/127189041.cms",
+    "time": "2026-01-22T19:05:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "EU keeps preferential tariff list for Indian goods for 3 years",
+    "desc": "India's exports to the EU will continue to enjoy preferential tariffs on a specific list of products until December 2028, following a renotification by the European Union. While some benefits have been reduced, this extension offers continued support. Furthermore, a potential India-EU Free Trade Agreement, expected soon, is poised to boost several labor-intensive sectors.",
+    "img": "https://static.toiimg.com/photo/msid-127188801,imgsize-428262.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/eu-keeps-preferential-tariff-list-for-indian-goods-for-3-years/articleshow/127188569.cms",
+    "time": "2026-01-22T18:58:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rani calls her daughter 'reincarnation' of Yash Chopra",
+    "desc": "As Rani Mukerji commemorates three decades in the film industry, she sheds light on her husband, Aditya Chopra's unpretentious personality, noting how he has never viewed his father's illustrious legacy as a weight to bear. In a heartfelt moment, she described their daughter Adira as possibly a reincarnation of the legendary Yash Chopra, commending her budding flair for storytelling.",
+    "img": "https://static.toiimg.com/photo/msid-127187483,imgsize-38562.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rani-mukerji-calls-her-daughter-adira-reincarnation-of-yash-chopra-says-husband-aditya-chopra-avoided-legacy-baggage/articleshow/127187483.cms",
+    "time": "2026-01-22T18:51:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Government tells missions to push exports",
+    "desc": "Indian missions are being instructed by the PMO and commerce department to prioritize trade engagement with all countries, regardless of current export size. This strategic shift aims to diversify India's export basket and import sources, with embassies tasked with identifying and pursuing opportunities in markets of all scales to build future growth.",
+    "img": "https://static.toiimg.com/photo/msid-127188277,imgsize-740648.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/government-tells-missions-to-push-exports/articleshow/127187718.cms",
+    "time": "2026-01-22T18:48:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chalamet, Stone, 'Sinners' set new records",
+    "desc": "The 98th Academy Awards nominations have shattered records! Timothée Chalamet and Emma Stone achieved significant milestones, while 'Sinners' made history with a record 16 nominations. Ruth E. Carter became the most nominated Black woman, and Wagner Moura marked a first for Brazilian actors in the Best Actor category. International cinema also shone with notable nods.",
+    "img": "https://static.toiimg.com/photo/msid-127186648,imgsize-80338.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-nominations-timothee-chalamet-emma-stone-sinners-and-more-shatter-records-at-academy-awards/articleshow/127184055.cms",
+    "time": "2026-01-22T18:38:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No immediate threat, but Gambhir under scrutiny",
+    "desc": "Coaches are ranked on the basis of what their outfits achieve in terms of victories and silverware. In his year and a half in charge, the spunky former opener has had reasonable trysts with both these necessities, but has also courted a fair amount of failure, some of which the pundits have attributed to a lack of consistency in team selection",
+    "img": "https://th-i.thgim.com/public/incoming/if3bwk/article70539708.ece/alternates/LANDSCAPE_1200/GAMBHIR%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/no-immediate-threat-but-gambhir-under-scrutiny/article70539703.ece",
+    "time": "2026-01-22T18:32:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "10 soldiers killed, 11 injured as armoured carrier skids off mountain road in Jammu &amp; Kashmir’s Doda",
+    "desc": "Ten brave Army soldiers lost their lives and eleven were injured when their troop carrier veered off a treacherous mountain road in Doda, Jammu & Kashmir, plunging into a deep gorge. The vehicle was en route to a counterterrorism operation. This tragic incident highlights the persistent dangers faced by military personnel in the region's challenging terrain.",
+    "img": "https://static.toiimg.com/photo/msid-127186113,imgsize-899500.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/10-soldiers-killed-11-injured-as-armoured-carrier-skids-off-mountain-road-in-jammu-kashmirs-doda/articleshow/127185916.cms",
+    "time": "2026-01-22T18:32:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Gag order issued in Kumar Sanu’s Rs 50 crore defamation suit",
+    "desc": "The Bombay High Court on Wednesday granted interim relief to Bollywood playback singer Kumar Sanu in his Rs 50 crore defamation suit against his ex-wife Rita Bhattacharya. Justice Milind Jadhav passed a gag order restraining Bhattacharya and certain independent media houses from writing, speaking, posting or publishing any allegedly defamatory, false or slanderous statements about the singer or his family across any platform.",
+    "img": "https://static.toiimg.com/photo/msid-127185880,imgsize-53136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rs-50-crore-defamation-case-kumar-sanu-gets-interim-relief-as-bombay-high-court-issues-gag-order-against-ex-wife-rita-bhattacharya/articleshow/127185536.cms",
+    "time": "2026-01-22T18:29:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mata Vaishno Devi MBBS students offered seats in govt medical colleges in Jammu &amp; Kashmir",
+    "desc": "J&K Board of Professional Entrance Examinations will adjust 50 MBBS students from the derecognized SMVDIME into seven government medical colleges. These supernumerary seats will be allocated based on NEET-UG merit and student preferences. Counselling is scheduled for Saturday, with provisions for authorized representatives.",
+    "img": "https://static.toiimg.com/photo/msid-127185486,imgsize-806009.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mata-vaishno-devi-mbbs-students-offered-seats-in-govt-medical-colleges-in-jammu-kashmir/articleshow/127185353.cms",
+    "time": "2026-01-22T18:25:39.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "IMD predicts heavy snow in Jammu &amp; Kashmir this week, 232 expectant moms hospitalised in Kulgam",
     "desc": "Heavy snowfall is expected in Kashmir Valley and Pir Panjal regions starting Friday. Two western disturbances will impact the weather for nearly a week. Authorities are preparing for the harsh winter spell. Moderate to heavy rainfall and snowfall are forecast for south and north Kashmir. High-altitude areas may receive significant snow. Farmers are advised to postpone agricultural activities.",
     "img": "https://static.toiimg.com/photo/msid-127184900,imgsize-378772.cms",
@@ -279,24 +450,6 @@ const newsData_en = [
     "time": "2026-01-22T15:04:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "The Amit Shah playbook: Rebuilding NDA in Tamil Nadu",
-    "desc": "In election-bound Tamil Nadu, Union Home Minister Amit Shah has pulled off what many thought was unthinkable—bringing together sworn rivals, the AIADMK and its splinter group, the AMMK. In doing so, he has not only rebuilt a fractured NDA in Tamil Nadu but also strengthened it ahead of the elections. How did this happen?",
-    "img": "https://th-i.thgim.com/public/incoming/ce9h7d/article70538597.ece/alternates/LANDSCAPE_1200/The%20NDA%20reunion%20Why%20%20it%20matters.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-the-amit-shah-playbook-rebuilding-nda-in-tamil-nadu-focus-tamil-nadu/article70538942.ece",
-    "time": "2026-01-22T15:03:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Binoy Viswam",
-    "desc": "In an open letter to the Prime Minister, the CPI State secretary says Modi should explain how the man-made tragedy was allowed to happen at Indore in Madhya Pradesh, where a ‘triple-engine administration’ is in power",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/modi-should-explain-indore-tragedy-binoy-viswam/article70538686.ece",
-    "time": "2026-01-22T15:02:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Who has the highest batting average in Test history? Short answer: It’s not Bradman",
     "desc": "Born 105 years ago, Andy Ganteaume etched his name in cricket history with a solitary Test century for the West Indies. His debut 112 against England in 1948, in front of his home crowd, remains his only international innings. This remarkable feat propelled him to a Test batting average of 112, surpassing even Sir Don Bradman's legendary record.",
@@ -450,24 +603,6 @@ const newsData_en = [
     "time": "2026-01-22T13:38:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kejriwal, Mann roll out 'Mukh Mantri Sehat Yojna'; free cashless treatment up to Rs 10 lakh",
-    "desc": "Punjab Chief Minister Bhagwant Mann and AAP supremo Arvind Kejriwal launched the 'Mukh Mantri Sehat Yojna', offering free cashless medical treatment up to Rs 10 lakh to all 65 lakh families in the state. This universal healthcare cover, accessible to residents with Aadhaar and voter cards, includes over 2,500 procedures at government and select private hospitals.",
-    "img": "https://static.toiimg.com/photo/msid-127159502,imgsize-969116.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/punjab-kejriwal-mann-roll-out-mukh-mantri-sehat-yojna-free-cashless-treatment-up-to-rs-10-lakh/articleshow/127159179.cms",
-    "time": "2026-01-22T13:32:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Raqesh Bapat loses his temper, gets into heated clash with Anushree Mane",
-    "desc": "Bigg Boss Marathi 6 sees rising tensions. Raqesh Bapat confronts Anushree Mane about her contribution to household chores. The argument escalates into a loud face-off with both contestants refusing to back down. Housemates are left stunned by the confrontation. The show features a mix of contestants and promises more drama.",
-    "img": "https://static.toiimg.com/photo/msid-127158957,imgsize-20684.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/tv/news/marathi/bigg-boss-marathi-6-raqesh-bapat-loses-his-cool-in-explosive-fight-with-anushree-mane/articleshow/127158449.cms",
-    "time": "2026-01-22T13:31:29.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Can NRIs in UAE buy property on behalf of a friend in India? Legal ways to do so",
     "desc": "NRIs in the UAE cannot legally pay property deposits for friends in India due to Indian foreign exchange laws. Attempting to do so risks serious violations of FEMA, leading to investigations by the Enforcement Directorate and hefty penalties. Buyers must use authorised channels like the RBI's LRS or local UAE financing for compliant transactions.",
@@ -486,60 +621,6 @@ const newsData_en = [
     "time": "2026-01-22T13:25:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Court acquits Arvind Kejriwal in ED summons case",
-    "desc": "A Delhi court has acquitted former Chief Minister Arvind Kejriwal in two cases filed by the Enforcement Directorate. These cases stemmed from his failure to appear before the agency in connection with the Delhi excise policy probe. The ED had sought action against Kejriwal for not complying with multiple summons issued under the Prevention of Money Laundering Act.",
-    "img": "https://static.toiimg.com/photo/msid-127156383,imgsize-20160.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-excise-policy-probe-court-acquits-arvind-kejriwal-in-ed-summons-case/articleshow/127155161.cms",
-    "time": "2026-01-22T13:20:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rani reveals parents wanted her to get married 'at young age'",
-    "desc": "As Rani Mukerji celebrates three decades in the film industry, she candidly shares how acting was never on her radar. Her aspirations leaned more towards a conventional marriage, and her parents, particularly her father, envisioned a different future for her—one devoid of the spotlight. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-127156509,imgsize-25588.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rani-mukerji-reveals-her-parents-wanted-her-to-get-married-at-a-very-young-age-says-i-think-they-saw-through-my-brother/articleshow/127156509.cms",
-    "time": "2026-01-22T13:12:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mohan G’s 'Draupathi 2' faces international ban",
-    "desc": "Director Mohan G's upcoming film 'Draupathi 2' has reportedly been banned in Qatar and other Islamic nations due to its portrayal of historical events, specifically allusions to atrocities by Mughal kings. This international setback follows earlier controversies surrounding the film's content and statements made by the director. Despite the bans, the film's domestic release in Tamil Nadu remains on track.",
-    "img": "https://static.toiimg.com/photo/msid-127156187,imgsize-63410.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mohan-gs-draupathi-2-faces-international-ban-qatar-blocks-film-following-dhurandhar-reports/articleshow/127156187.cms",
-    "time": "2026-01-22T13:04:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "when and where to watch",
-    "desc": "Dhanush and Kriti Sanon's romance, 'Tere Ishk Mein', is nearing its OTT release on Netflix, with an in-app listing suggesting January 23. The film enjoyed a strong theatrical run, earning over Rs 160 crore worldwide. However, a legal dispute over alleged intellectual property violations by Eros International casts a shadow over its digital debut.",
-    "img": "https://static.toiimg.com/photo/msid-127155787,imgsize-34672.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tere-ishk-mein-ott-when-and-where-to-watch-dhanush-and-kriti-sanon-starrer-romantic-drama-online/articleshow/127155787.cms",
-    "time": "2026-01-22T13:00:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi-NCR air pollution: GRAP Stage-III curbs revoked; quality likely to stay moderate to poor",
-    "desc": "Air quality in Delhi-NCR has improved significantly. The Commission for Air Quality Management has lifted Stage-III restrictions under the Graded Response Action Plan. This means some construction and demolition activities can resume. However, measures under Stage-I and Stage-II remain in effect. Citizens are urged to follow guidelines to maintain better air quality.",
-    "img": "https://static.toiimg.com/photo/msid-127154544,imgsize-546404.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-ncr-air-pollution-grap-stage-iii-curbs-revoked-quality-likely-to-stay-moderate-to-poor/articleshow/127154433.cms",
-    "time": "2026-01-22T12:45:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rani Mukerji to star in spy verse or 'Dhoom' series?",
-    "desc": "In a lively exchange with Karan Johar, Rani Mukerji confidently championed her own cinematic realm in response to questions about her role in Aditya Chopra's action-packed Dhoom series. She proudly pointed to her 'Mardaani' trilogy, celebrating it as a trailblazing, female-driven cop narrative that often gets overshadowed by the usual male-centric blockbusters.",
-    "img": "https://static.toiimg.com/photo/msid-127151715,imgsize-76944.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-recalls-asking-rani-mukerji-if-she-will-ever-be-in-the-spy-verse-or-the-dhoom-franchise-i-have/articleshow/127151715.cms",
-    "time": "2026-01-22T12:24:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sriram Balaji wins, Yuki Bhambri exits mixed doubles at Australian Open",
     "desc": "Indian players Sriram Balaji and Yuki Bhambri secured wins in the Australian Open men's doubles first round. Balaji and his partner defeated a French-Aussie duo. Bhambri and his partner also advanced. However, Indian-American Nishesh Basavareddy was knocked out in the men's singles second round. Yuki Bhambri and Nicole Melichar-Martinez exited the mixed doubles in the first round.",
@@ -556,15 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/the-security-risk-situation-in-india-has-not-changed-bangladesh-remains-defiant-says-no-t20-world-cup-matches-in-india/articleshow/127151428.cms",
     "time": "2026-01-22T12:12:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "10 Army personnel killed as vehicle plunges into gorge in J&amp;K; two more builders arrested over Noida techie's death &amp; more",
-    "desc": "Ten Army personnel were killed and 11 injured in Doda, Jammu and Kashmir, after their vehicle fell into a gorge. In Noida, two more builders were arrested over a software engineer's death in a construction pit. Meanwhile, a Meitei man was shot dead by suspected Kuki militants in Manipur.",
-    "img": "https://static.toiimg.com/photo/msid-127150973,imgsize-679677.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-10-army-personnel-killed-as-vehicle-plunges-into-gorge-in-jk-two-more-builders-arrested-over-noida-techies-death-more/articleshow/127150685.cms",
-    "time": "2026-01-22T12:07:25.000Z"
   },
   {
     "cat": "Sports",
@@ -592,15 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/linkin-park-interview-dave-farrell-on-getting-the-band-back-together-and-finally-coming-to-india/article70537116.ece",
     "time": "2026-01-22T11:35:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Taken up strongly’: Trespassing and vandalism at Indian embassy in Croatia— what MEA said",
-    "desc": "India has strongly condemned the trespassing and vandalism at its embassy in Zagreb, Croatia, by anti-India elements. The Ministry of External Affairs has urged Croatian authorities to hold the perpetrators accountable, emphasising the inviolability of diplomatic premises under the Vienna Convention. This incident follows a similar event at the Indian Consulate in Seattle last year.",
-    "img": "https://static.toiimg.com/photo/msid-127148488,imgsize-29630.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/taken-up-strongly-trespassing-and-vandalism-at-indian-embassy-in-croatia-what-mea-said/articleshow/127147837.cms",
-    "time": "2026-01-22T11:33:03.000Z"
   },
   {
     "cat": "World",
@@ -685,24 +748,6 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Nearly 60% of Indian businesses confident in scaling AI responsibly, have mature frameworks",
-    "desc": "Responsible Artificial Intelligence (AI) is rapidly becoming a business imperative for Indian enterprises, moving beyond ethical intent to a strategic priority linked with trust, governance, and long-term value creation, according to Nasscom's State of Responsible AI in India 2025 report.",
-    "img": "https://static.toiimg.com/photo/msid-127131349,imgsize-694265.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/nearly-60-of-indian-businesses-confident-in-scaling-ai-responsibly-have-mature-frameworks-nasscom-report/articleshow/127131033.cms",
-    "time": "2026-01-22T08:59:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Are tariffs biggest threat to Indian economy? Gita Gopinath does not think so – what she said",
-    "desc": "Former IMF deputy managing director Gita Gopinath highlighted pollution as a greater threat to India's economic growth than trade tariffs. She emphasized its significant human and economic costs, citing millions of deaths annually and a substantial impact on GDP. Gopinath urged for 'war footing' action to address pollution, stressing its importance for investor confidence and national development.",
-    "img": "https://static.toiimg.com/photo/msid-127127038,imgsize-623466.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/are-tariffs-biggest-threat-to-indian-economy-gita-gopinath-does-not-think-so-what-she-said/articleshow/127102231.cms",
-    "time": "2026-01-22T08:38:42.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "Spending abroad by Indians falls to two-year low as foreign education outgo plummets",
     "desc": "Analysis of data on the outward remittances under the RBI’s Liberalised Remittances Scheme (LRS), shows that the other driver of the fall in overall remittances in November 2025 was a fall in the amount spent on foreign travel",
     "img": "https://th-i.thgim.com/public/incoming/of1b8a/article70537102.ece/alternates/LANDSCAPE_1200/iStock-1090869028.jpg",
@@ -718,15 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/japan-pauses-restart-of-worlds-biggest-nuclear-plant/article70537074.ece",
     "time": "2026-01-22T08:27:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ETFs see steep 20% drop; what’s causing the sudden drop?",
-    "desc": "Indian silver ETFs experienced a significant sell-off, dropping up to 20% as investors exited amid precious metal volatility. This correction erased previous premiums, with funds trading below net asset values. The sharp decline in ETFs contrasted with more modest price drops in global and domestic silver markets.",
-    "img": "https://static.toiimg.com/photo/msid-127125325,imgsize-974329.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/silver-market-jitters-etfs-see-steep-20-drop-whats-causing-the-sudden-drop/articleshow/127124650.cms",
-    "time": "2026-01-22T08:10:21.000Z"
   },
   {
     "cat": "Entertainment",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/sedition-case-against-ousted-pm-hasina-bangladesh-court-sets-february-9-for-charge-framing/article70533112.ece",
     "time": "2026-01-21T11:00:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Singer Saindhavi on music, films and life",
-    "desc": "Carnatic music performances at Chennai’s sabhas during the Margazhi season, and performing at actor Vijay’s ‘Jana Nayagan’ musical event in Malaysia. In an interview with ‘The Hindu’ for the ‘This Changed My Life’ video podcast, this popular singer talks about adapting to the needs of modern audiences. She also talks about her relationship with popular music composer GV Prakash after their official divorce in 2025, and how they co-parent their young daughter, Anvi.",
-    "img": "https://th-i.thgim.com/public/incoming/178ex8/article70533109.ece/alternates/LANDSCAPE_1200/Saindhavi-2.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-singer-saindhavi-on-music-films-and-life/article70533102.ece",
-    "time": "2026-01-21T10:41:52.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "India’s solar sector is well positioned to handle U.S. exit from ISA: The Climate Economy",
-    "desc": "The United States of America had announced it would be pulling out of several international climate organisations, including the International Solar Alliance (ISA). This rang alarm bells. Will this have a big impact on India? Will the cost of solar power rise in India? Will jobs be affected? We look at the economics of it.",
-    "img": "https://th-i.thgim.com/public/incoming/w89w10/article70533062.ece/alternates/LANDSCAPE_1200/Climate%20Economy%20Thumbnail.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/indias-solar-sector-is-well-positioned-to-handle-us-exit-from-isa-the-climate-economy/article70533060.ece",
-    "time": "2026-01-21T10:30:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Allcargo Global elevates founder’s son Vaishnav Shetty to deputy managing director post in leadership succession",
-    "desc": "The appointment has been approved by the Board of Directors and comes at a critical juncture of Allcargo Group’s ongoing restructuring exercise, under which its businesses are being reorganised into four independent and focused entities",
-    "img": "https://th-i.thgim.com/public/incoming/pq6j9n/article70532737.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-01-21%20at%2013.26.36.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/allcargo-global-elevates-founders-son-vaishnav-shetty-to-deputy-managing-director-post-in-leadership-succession/article70532590.ece",
-    "time": "2026-01-21T08:44:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In conversation with comedian Abish Mathew",
-    "desc": "Nearly two decades into his career as a stand-up comedian, Abish Mathew, is releasing his second one-hour special, Finish. He talks abou his family’s influence in his comedy, his Son of Abish series, tips for upcoming comics, and more",
-    "img": "https://th-i.thgim.com/public/incoming/regw8p/article70532589.ece/alternates/LANDSCAPE_1200/abish%20mathew%20thumbnail.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-in-conversation-with-comedian-abish-mathew/article70532594.ece",
-    "time": "2026-01-21T07:46:42.000Z"
   }
 ];
