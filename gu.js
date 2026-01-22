@@ -1,6 +1,60 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "પ્રથમ T20માં જીત છતાં બદલાઈ જશે ટીમ ઈન્ડિયાની પ્લેઈંગ-11 ! જાણો શું છે કારણ",
+    "desc": "ભારત અને ન્યૂઝીલેન્ડ વચ્ચે 23 જાન્યુઆરીએ રાયપુરમાં બીજી ટી20 મેચ રમાશે. પ્રથમ મેચમાં શાનદાર જીત છતાં આ મેચમાં ટીમ ઈન્ડિયાની પ્લેઈંગ-11 બદલાવ જોવા મળી શકે છે, આ પાછળનું કારણ શું છે અને કોને ટીમમાં તક મળશે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-2nd-t20-team-india-probable-playing-11-axar-patel-ravi-bishnoi-462500 ",
+    "time": "2026-01-22T08:41:54.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "લોકો ઉડવા લાગશે, દુનિયા હલી જશે! ! 7 સેકન્ડની ભવિષ્યવાણી જેણે બધાને સ્તબ્ધ કરી દીધા; 12 ઓગસ્ટે શું થશે?",
+    "desc": "સોશિયલ મીડિયા પર ઘણી પોસ્ટ વાયરલ થઈ રહી છે, જેમાં દાવો કરવામાં આવી રહ્યો છે કે 12 ઓગસ્ટે પૃથ્વી પર 7 સેકેન્ડ માટે એક વિનાશકારી ઘટના ઘટશે. દુનિયા હલવા લાગશે અને લોકો હવામાં ઉડવા લાગશે. સવાલ છે કે શું ખરેખર આવું થવાનું છે. જાણો આ ડરામણી ભવિષ્યવાણીનું સત્ય શું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/viral-video-claims-earth-losing-gravity-for-7-seconds-on-12-august-2026-fact-check-know-the-truth-462496 ",
+    "time": "2026-01-22T08:18:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "જીવન-મરણ વચ્ચે ઝોલા ખાઈ રહ્યો છે આ ક્રિકેટર ! બંને કિડની ફેલ... કોચે CM મમતા બેનર્જી પાસે માંગી મદદ",
+    "desc": "બંગાળના કોચ અને પૂર્વ ભારતીય ક્રિકેટર લક્ષ્મી રતન શુક્લાએ ગંભીર બીમારી સામે ઝઝૂમી રહેલા રાજ્યના યુવા ક્રિકેટર આકાશ બિશ્વાસની સારવાર માટે મુખ્યમંત્રી મમતા બેનર્જીને આર્થિક મદદ કરવા અપીલ કરી છે. આકાશની બંને કિડની ફેલ થઈ ચૂકી છે અને હવે ટ્રાન્સપ્લાન્ટ એકમાત્ર વિકલ્પ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bengal-cricketer-akash-biswas-both-kidneys-failed-coach-seeks-help-from-cm-462491 ",
+    "time": "2026-01-22T07:29:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મહારાષ્ટ્રમાં અહીં શિંદેએ ચૂપચાપ મોટો ખેલ પાડી દીધો, ભાજપની મજબૂત સ્થિતિ છતાં સપનું રોળાયું",
+    "desc": "મહારાષ્ટ્રના રાજકારણમાં નવા નવા સમીકરણો અને યુતિ જોવા મળી રહ્યા છે. જેને જોતા એવું લાગે કે પિક્ચર અભી બાકી છે. હવે કલ્યાણ ડોંબિવલી મહાનગરપાલિકામાં મહાયુતિની સામે ચૂંટણી લડેલા રાજ ઠાકરેના પક્ષે હવે શિવસેનાને ટેકો જાહેર કરી દીધો છે. ભાજપનું સપનું કેમ રોળાયું? ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/maharashtra-elections-kalyan-dombivali-municipal-corporation-mns-how-support-eknath-shinde-shivsena-462467 ",
+    "time": "2026-01-22T07:15:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ટીમ ઈન્ડિયાની જીતના 3 હીરો, પ્રથમ T20માં ન્યુઝીલેન્ડને આપ્યો જોરદાર ઝટકો",
+    "desc": "નાગપુરમાં રમાયેલી પ્રથમ T20માં ભારતે ન્યૂઝીલેન્ડને 48 રનથી હરાવ્યું હતું. આ સાથે ભારતે 5 મેચની શ્રેણીમાં 1-0ની લીડ પણ મેળવી લીધી છે. પ્રથમ બેટિંગ કરતા ભારતે 238 રન બનાવ્યા હતા. જવાબમાં ન્યૂઝીલેન્ડ 190 રન જ બનાવી શક્યું હતું. ભારતની જીતમાં આ 3 ખેલાડીઓેએ મહત્વપૂર્ણ ભૂમિકા ભજવી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-1st-t20-nagpur-team-india-3-match-winner-cricketers-462487 ",
+    "time": "2026-01-22T06:57:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "આવી રહ્યો છે મોસ્ટ અવેટેડ IPO, વેચવામાં આવશે 5.06 કરોડ શેર, સેપીની પાસે જમા કરાવ્યા પેપર",
+    "desc": "આ આઈપીઓ સંપૂર્ણ રીતે ઓફર ફોર સેલ (OFS) હશે, એટલે કે તેમાં કંપની કોઈ નવા શેર જારી કરશે નહીં. 21 જાન્યુઆરીએ દાખલ દસ્તાવેજ પ્રમાણે કુલ 5.06 કરોડ ઈક્વિટી શેર વર્તમાન શેરધારકો વેચશે અને તેમાંથી મળનાર તમામ રકમ તેની પાસે જશે. કંપનીની પાસે કોઈ નવા પૈસા આવશે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/phonepe-ipo-refiles-papers-to-sebi-walmart-to-cut-9-percent-stake-as-microsoft-know-details-all-462485 ",
+    "time": "2026-01-22T06:44:46.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ગૌતમ ગંભીરની એક ચાલ અને પલટાઈ ગઈ મેચ, ટીમ ઈન્ડિયાને મળ્યો નવો ફિનિશર",
     "desc": "બુધવારે નાગપુરમાં રમાયેલી ન્યૂઝીલેન્ડ સામેની પહેલી T20 મેચમાં કોચ ગૌતમ ગંભીરના એક ચાલે મેચનું પાસું ફેરવી દીધું. ભારતીય ટીમે ન્યૂઝીલેન્ડને 48 રનથી હરાવ્યું. ટીમ ઈન્ડિયાએ પાંચ મેચની ટી20 આંતરરાષ્ટ્રીય શ્રેણીમાં 1-0થી લીડ મેળવી લીધી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -16,15 +70,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/team-india-suffers-setback-ahead-of-t20-world-cup-axar-patel-injured-462477 ",
     "time": "2026-01-22T05:20:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મહારાષ્ટ્રમાં અહીં શિંદેએ ચૂપચાપ મોટો ખેલ પાડી દીધો, ભાજપની મજબૂત સ્થિતિ છતાં સપનું રોળાયું",
-    "desc": "મહારાષ્ટ્રના રાજકારણમાં નવા નવા સમીકરણો અને યુતિ જોવા મળી રહ્યા છે. જેને જોતા એવું લાગે કે પિક્ચર અભી બાકી છે. હવે કલ્યાણ ડોંબિવલી મહાનગરપાલિકામાં મહાયુતિની સામે ચૂંટણી લડેલા રાજ ઠાકરેના પક્ષે હવે શિવસેનાને ટેકો જાહેર કરી દીધો છે. ભાજપનું સપનું કેમ રોળાયું? ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/maharashtra-elections-kalyan-dombivali-municipal-corporation-mns-how-support-eknath-shinde-shivsena-462467 ",
-    "time": "2026-01-22T03:33:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -322,24 +367,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/sunny-deol-patriotic-film-border-on-ott-amazon-prime-462182 ",
     "time": "2026-01-19T06:50:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "રોહિત શર્મા ODIમાંથી પણ લેશે નિવૃત્તિ ? ન્યુઝીલેન્ડ સામેના ફ્લોપ શો બાદ ઉભા થયા સવાલ",
-    "desc": "ન્યુઝીલેન્ડ સામેની ODI શ્રેણીમાં રોહિત શર્માનું પ્રદર્શન નિરાશાજનક રહ્યું. સારી શરૂઆત છતાં તે ત્રણ મેચમાં તેને મોટા સ્કોરમાં રૂપાંતરિત કરવામાં નિષ્ફળ ગયો અને શ્રેણીનો અંત અડધી સદી વિના કર્યો. તેના ફોર્મ અને ભવિષ્યને લઈને સોશિયલ મીડિયા પર નિવૃત્તિ અંગે ચર્ચાઓ શરૂ થઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rohit-sharma-odi-retirement-speculation-after-ind-vs-nz-odi-series-defeat-462181 ",
-    "time": "2026-01-19T06:41:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "હર્ષિત રાણા શાનદાર રમી રહ્યો હતો, ત્યાં કોચ ગંભીરનો એક મેસેજ અને પડી વિકેટ, જાણો શું છે સમગ્ર ઘટના",
-    "desc": "ઇન્દોરના હોલ્કર સ્ટેડિયમમાં રમાયેલી મેચમાં સ્ટાર બેટ્સમેન વિરાટ કોહલી અને હર્ષિત રાણાએ 99 રનની શાનદાર ભાગીદારી નોંધાવી. જ્યાં સુધી આ બંને રમી રહ્યા હતા, ત્યાં સુધી લાખો ભારતીય ચાહકોની આશા જીવંત હતી. બધું બરાબર ચાલી રહ્યું હતું, ત્યાં કોચ ગંભીરનો એક મેસેજ અને મેચની દિશા બદલાઈ ગઈ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/virat-kohli-and-harshit-rana-partnership-breaks-after-gautam-gambhir-sends-message-462176 ",
-    "time": "2026-01-19T05:57:08.000Z"
   },
   {
     "cat": "Tech",

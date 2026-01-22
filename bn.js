@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "নাশকতার ছক কষছে পাক জঙ্গিরা! তাদের মাথা গুঁড়িয়ে দিতে প্রস্তুত ভারতীয় সেনাও! মুনির-মাসুদের ষড়যন্ত্র ফাঁস? বিগ ব্রেকিং...",
+    "desc": "গোয়েন্দা সংস্থাগুলির কাছ থেকে প্রজাতন্ত্র দিবসে বা তার আগে একটি সম্মিলিত সন্ত্রাসী হামলার খবর মিলেছে গতকাল বুধবারই। সেই খবর পাওয়ার পর বুধবারই দিল্লি জুড়ে হাই অ্যালার্ট জারি হয়েছে। এই সম্ভাব্য হামলার কোড নেম দেওয়া হয়েছে '২৬-২৬'!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/26-26-r-day-strike-pak-punjabi-gangster-backed-terrorists-terror-attack-on-26-jan-terror-attack-on-republic-day-26-26-terror-attack-pakistan-isi-jaish_636881.html ",
+    "time": "2026-01-22T09:24:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'আমি তো ইতিমধ্যে গৌরীর সঙ্গে বিবাহিত...' প্রেমিকাকে নিয়ে আচমকাই বোমা ফাটালেন আমির খান... বলিপাড়ায় হুল্লোড়",
+    "desc": "সম্প্রতি মুম্বইয়ে একটি অনুষ্ঠানে এসে গৌরীর সঙ্গে সম্পর্কের প্রসঙ্গে আমির বলেন, ‘‘গৌরী ও আমি দু’জনেই এই সম্পর্কে সিরিয়াস। আমরা একসঙ্গেই আছি। বলা ভাল, মনে মনে আমি ইতিমধ্যেই গৌরীর সঙ্গে বিবাহিত।’’ তবে আইনি বা সামাজিকভাবে তাঁরা বিয়ে করবেন কি না, সে বিষয়ে এখনও সিদ্ধান্ত নেননি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1768650108_Aamir-Khan-4-2026-01-ef951ffd32aebe99a008607219beb720-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/aamir-khan-says-he-is-already-married-to-girlfriend-gauri-rmj-2508496.html",
+    "time": "2026-01-22T09:11:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "নয়ডার টেকি যুবরাজ কাঁদতে কাঁদতে ডুবে মরে গেল! জ্ঞানেশ কুমারের মেয়ে বলেই কি DM মেধা রূপমকে ছাড় যোগী আদিত্যনাথের?",
+    "desc": "যুবরাজ মেহতার ময়নাতদন্তের রিপোর্টে মৃত্যুর কারণ হিসেবে 'অ্যাস্ফেক্সিয়া' বা দমবন্ধ হওয়া এবং কার্ডিয়াক অ্যারেস্টের কথা উল্লেখ করা হয়েছে। নয়ডা শহরের নাকের ডগায় পর্যাপ্ত নিরাপত্তা ব্যবস্থা না থাকা এবং চোখের সামনে একজন তরুণের মৃত্যু আধুনিক উদ্ধার ব্যবস্থার কঙ্কালসার রূপটিই ফুটিয়ে তুলেছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/noida-software-techie-yuvraj-mehta-death-enquiry-up-police-yodi-adityanath-sit-gyanesh-kumar-dm-medha-rupam-saourav-bhardwaj_636880.html ",
+    "time": "2026-01-22T09:11:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "বাংলাদেশ বিশ্বকাপ থেকে নাম তুলে নিলে পাকিস্তান কী করবে? সব ছক কষে নিয়েছে বাংলাদেশের 'ভাইজান'!",
+    "desc": "জিও নিউজের মতে, বাংলাদেশ যদি তাদের অবস্থানে অনড় থাকে এবং টুর্নামেন্টে অংশ না নেওয়ার সিদ্ধান্ত নেয়, তা হলে পাকিস্তানও এই প্রতিযোগিতা বয়কট করতে পারে। তবে এই নিয়ে ফয়সালা আজই হয়ে যাবে বলে মনে করা হচ্ছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ICC-2026-01-658aa5d34f6710f84ed6062b4ce4561e-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/report-claims-that-pakistan-may-boycott-the-t20-world-cup-2026-if-bangladesh-request-to-shift-their-matches-out-of-india-is-nt-accepted-smj-2508424.html",
+    "time": "2026-01-22T08:59:13.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "একাধিক পুরুষের 'ক্রাশ'! কিন্তু বিবাহিত পুরুষের সঙ্গে গোপনে বিয়ে, বলিউডের সবচেয়ে 'ধনী' নায়িকা, ৪৬০০ কোটির মালকিন, কে বলুন তো?",
     "desc": "নব্বইয়ের দশকের জনপ্রিয় নায়িকা তিনি৷ পাশাপাশি আইআরএস অফিসারের মেয়েও৷ যার এক গাল হাসি আর চোখের চাহনি রাতের ঘুম কেড়ে নিয়েছিল অগণিত ভক্তদের৷ এমনকি সলমন খানও তাকে চাইতেন মনে-প্রাণে৷ তবে কোনও তারকার গলায় মালা না দিয়ে কেরিয়ারের শীর্ষেএকজন বিবাহিত পুরুষকে বিয়ে করেছিলেন তিনি, আজও বলিউডের সবচেয়ে ধনী এই নায়িকা৷",
@@ -862,41 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/big-difference-in-personal-loan-interest-rates-and-terms-revealed-across-banks-which-bank-offers-the-best-cheapest-personal-loan-tib-ws-el-2499621.html",
     "time": "2026-01-16T10:11:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "কোহলির ODI র‍্যাঙ্কিংয়ে ১ নম্বরে ওঠা নিয়ে বিরাট ভুল করল আইসিসি! শুধরে নিতেই মুকুটে নতুন পালক",
-    "desc": "দারুণ ছন্দে বিরাট কোহলি, ফর্মের জন্য প্রায় পাঁচ বছর পর প্রথমবার ICC ODI র‍্যাঙ্কিংয়ে ১ নম্বর স্থানে দেখা গিয়েছে বিরাটকে। ৩৭ বছর বয়সি বিরাট শেষ ছয়টা ম্যাচে পাঁচবার ৫০ বা তার বেশি রান করেছেন, যার মধ্যে দুটো সেঞ্চুরি আছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/VIRAT-KOHLI-VK-25-2026-01-e9805ea1d5188744173892b31738a4e9-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/icc-commits-big-mistake-on-virat-kohlis-no-1-odi-ranking-fans-pointed-out-and-icc-rectified-the-mistake-rdp-2499650.html",
-    "time": "2026-01-16T10:00:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "স্ট্রাগলের দিনে ধরা হাত ছাড়েননি, ১১ বছর প্রেম, ধুমধাম করে বিয়ে...এই অভিনেতা-অভিনেত্রীর ভালবাসার গল্প অবাক করবে",
-    "desc": "২০১০ সালে রাজকুমার একটি বিজ্ঞাপনে পত্রলেখাকে দেখে না কি নিজেকে বলেছিলেন, ‘‘আমি একদিন ওকেই বিয়ে করব।’’ পত্রলেখা তাঁকে ‘লাভ সেক্স অউর ধোঁকা’ ছবিতে দেখেছিলেন, একজন সিরিয়াস অভিনেতার বাইরে আর কিছু ভাবেননি, এমন একজন অভিনেতা হিসেবে নয়, যাকে দেখলেই মুগ্ধ হয়ে যেতে হয়। তখনও তিনি বোঝেননি ভাগ্যের অন্য পরিকল্পনা ছিল।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Patralekha-Rajkumar-Love-Story-2026-01-6812619add3918b93dad0860b22ebc0b-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/actor-made-his-struggling-partner-patralekha-his-dream-girl-dated-actress-for-11-years-set-an-example-of-true-love-now-become-parents-ss-2499108.html",
-    "time": "2026-01-16T06:56:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "হামজা অমিতাভ বচ্চন, রেহমান ডাকাত বিনোদ খান্না ! AI জমিয়ে দিল ধুরন্ধর-এর কাল্পনিক কাস্টিং, বাকিটা দেখে নিন এক ঝলকে",
-    "desc": "যদি ৮০-এর দশকের তারকারা এতে অভিনয় করতেন, তাহলে ধুরন্ধর কেমন দেখতে হত? একজন এআই আর্টিস্ট ১৯৮০-এর দশকের বলিউড স্টাইলে ছবিটির চরিত্রগুলোকে নতুন করে সাজিয়েছেন, এমন ভিজ্যুয়াল তৈরি করেছেন যা সোশ্যাল মিডিয়ায় আলোচনার বিষয় হয়ে উঠেছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/AI-Dhurandhar-Characters-Images-2026-01-de69aae6c020fb5ba86f7f065ad7194b-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/ai-generated-pictures-dhurandhar-amitabh-bachchan-as-hamza-vinod-khanna-as-rehman-dakait-with-sridevi-jackie-shroff-and-others-in-vintage-looks-from-80s-ss-2498964.html",
-    "time": "2026-01-16T06:15:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "আইপ্যাক কাণ্ডে ইডি অফিসারদের বিরুদ্ধে এফআইআর-এ স্থগিতাদেশ দিল সুপ্রিম কোর্ট!",
-    "desc": "আইপ্যাক কাণ্ডে ইডি অফিসারদের বিরুদ্ধে এফআইআর রুজু করা হয়েছে। ২টি শেক্সপীয়র সরণী থানায় এবং ২টি ইসিপিএস থানায়। সোমবার সেই মামলার শুনানির নির্দেশে সুপ্রিম কোর্ট স্পষ্ট করে জানিয়ে দিল, শেক্সপিয়ার সরণী থানা ও ইলেকট্রনিক কমপ্লেক্স থানায় FIR ওপর স্থগিতাদেশ জারি করা হল। সেই সঙ্গে সব পক্ষকে নোটিসও জারি করল সর্বোচ্চ আদালত।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/supreme-court-2026-01-9db81a48c5b33c97a1c43ea51afe293b-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/supreme-court-on-i-pac-raid-in-west-bengal-gives-strong-directives-on-fir-against-ed-officials-know-what-happened-in-court-today-sanj-2498764.html",
-    "time": "2026-01-15T20:51:30.000Z"
   }
 ];

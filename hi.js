@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When and where to watch SL vs ENG ODI series on TV and streaming?",
+    "desc": "The three-match ODI series between Sri Lanka and England is set to commence today at the R Premadasa Stadium in Colombo. The timing of the series can be questioned, as it is being played with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-vs-england-live-when-and-where-to-watch-sl-vs-eng-odi-series-on-tv-and-streaming-2026-01-22-1026989",
+    "time": "2026-01-22T07:10:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Babar Azam leaves Sydney Sixers ahead of Challenger clash in BBL amid calls to drop him",
     "desc": "Babar Azam will not be available for the Sydney Sixers in the Challenger clash in the Big Bash League (BBL) against Hobart Hurricanes. He has been recalled to join Pakistan's national camp ahead of the...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-make-light-work-of-new-zealand-with-thumping-win-in-first-t20i-in-nagpur-2026-01-21-1026915",
     "time": "2026-01-21T17:14:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCB hopes for 'miracle' on T20 World Cup row, board president to talk to government 'one last time'",
-    "desc": "The Bangladesh Cricket Board president Aminul Islam is hoping for a miracle from the International Cricket Council over the team's participation in the T20 World Cup 2026 after. This comes as the ICC, during its...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcb-hopes-for-miracle-on-t20-world-cup-row-board-president-to-talk-to-government-one-last-time-2026-01-21-1026911",
-    "time": "2026-01-21T16:56:40.000Z"
   }
 ];
