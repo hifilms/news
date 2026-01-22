@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Adar Poonawalla confirms RCB interest, promises 'strong and competitive bid' to own franchise",
+    "desc": "Adar Poonawalla, Chief Executive Officer of Serum Institute, has signalled his intention to make a major move in the Indian Premier League (IPL) market, revealing plans to submit a “strong and competitive” bid for the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/adar-poonawalla-confirms-rcb-interest-promises-strong-and-competitive-bid-to-own-franchise-2026-01-22-1027084",
+    "time": "2026-01-22T15:15:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Africa make changes to T20 World Cup 2026 squad, two star cricketers included; Miller remains doubtful",
+    "desc": "South Africa’s T20 World Cup squad has seen key changes ahead of the tournament in Sri Lanka and India next month, with Ryan Rickelton and Tristan Stubbs now confirmed to travel. Tony de Zorzi, Donovan...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-make-changes-to-t20-world-cup-2026-squad-two-star-cricketers-included-david-miller-remains-doubtful-2026-01-22-1027077",
+    "time": "2026-01-22T14:16:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "UP-W vs GG-W WPL Match Score Live: Gujarat struggle to establish momentum, Devine holds key",
+    "desc": "UP Warriorz and Gujarat Giants both sit on two wins each, but their current momentum differs sharply. The Meg Lanning-led side has bounced back with consecutive victories over Mumbai Indians in Navi Mumbai and now...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gg-vs-up-wpl-2026-live-cricket-score-up-warriorz-vs-gujarat-giants-bca-stadium-kotambi-latest-match-updates-scorecard-teams-playing-xi-2026-01-22-1027070",
+    "time": "2026-01-22T13:27:36.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why are Scotland picked as Bangladesh's replacement for T20 World Cup 2026 in India?",
     "desc": "Scotland are set to be named as Bangladesh’s replacement for the upcoming T20 World Cup 2026 after the BCB refused to travel to India for the tournament. The standoff stems from a long‑running dispute between...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-leaves-sydney-sixers-ahead-of-challenger-clash-in-bbl-amid-calls-to-drop-him-2026-01-22-1026976",
     "time": "2026-01-22T06:06:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Glenn Phillips lauds Abhishek Sharma for 84-run knock in 1st T20I, says 'need luck while bowling to him'",
-    "desc": "Glenn Phillips was the star player for New Zealand in the losing cause in the first T20I against India at the VCA Stadium in Nagpur. He smashed 78 runs off 40 balls with four fours...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-lauds-abhishek-sharma-for-84-run-knock-in-1st-t20i-says-need-luck-while-bowling-to-him-2026-01-22-1026966",
-    "time": "2026-01-22T05:12:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB want 'grey areas' to be addressed before playing IPL 2026 matches at Chinnaswamy Stadium in Bengaluru",
-    "desc": "Royal Challengers Bengaluru (RCB) have made it clear that they are eager to play at the Chinnaswamy Stadium in the upcoming Indian Premier League (IPL) season. However, the franchise wants 'grey areas' to be addressed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-want-grey-areas-to-be-addressed-before-playing-ipl-2026-matches-at-chinnaswamy-stadium-in-bengaluru-2026-01-22-1026954",
-    "time": "2026-01-22T03:34:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh sports advisor to meet Litton Das and his team after ICC ultimatum on T20 World Cup row",
-    "desc": "Bangladesh sports advisor, Asif Nazrul, will meet the national cricketers today to brief them about the prevailing situation regarding Bangladesh's participation in the upcoming T20 World Cup. The impasse didn't break on Wednesday when the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-sports-advisor-to-meet-litton-das-and-his-team-after-icc-ultimatum-on-t20-world-cup-row-2026-01-22-1026940",
-    "time": "2026-01-22T02:02:26.000Z"
   }
 ];

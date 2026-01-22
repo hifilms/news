@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "গুটখা, পান মশালা, তামাকজাত দ্রব্যে নিষেধাজ্ঞা জারি করল বাংলার পড়শি রাজ্য, জনস্বাস্থ্যের কথা মাথায় রেখে বড় সিদ্ধান্ত",
+    "desc": "Odisha- সুপ্রিম কোর্টের জারি করা নির্দেশের সঙ্গে সামঞ্জস্য রেখে এবং জনস্বাস্থ্য সুরক্ষার লক্ষ্যে ওড়িশা সরকার রাজ্যজুড়ে তামাক ও নিকোটিনযুক্ত সব ধরনের পণ্যের ওপর নিষেধাজ্ঞা আরোপ করেছে। এর মধ্যে গুটখা, পান মসলা, জর্দা, খৈনি-সহ একাধিক পণ্য অন্তর্ভুক্ত হয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/cg-2026-01-70caa58a043047c5d00b967ab2ccd969-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/odisha-government-has-imposed-a-statewide-ban-on-all-tobacco-and-nicotine-containing-products-smj-2508997.html",
+    "time": "2026-01-22T15:15:16.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "সরস্বতী পুজোর মন্ত্র মিশবে আজানের সুরে! সুপ্রিম কোর্টের ঐতিহাসিক রায়ে একই জায়গায় নমাজ ও বসন্ত পঞ্চমীর উদযাপন...",
     "desc": "বৃহস্পতিবার প্রধান বিচারপতি সূর্যকান্ত, বিচারপতি জয়মাল্য বাগচী এবং বিচারপতি বিপুল এম পাঞ্চোলির ডিভিশন বেঞ্চ এই সংবেদনশীল মামলাটির শুনানি শেষ করে। আদালত সাফ জানিয়েছে, বসন্ত পঞ্চমীর পুজো এবং জুম্মার নামাজ—উভয়ই যাতে নির্বিঘ্নে সম্পন্ন হয়, তার দায়িত্ব প্রশাসনকে নিতে হবে।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/dev-apologizes-to-federation-for-anirban-bhattacharya-requests-cm-mamata-banerjee-to-intervene_635591.html ",
     "time": "2026-01-16T13:28:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "এক সময়ে তাঁর ভয়ে কাঁপত গোটা মুম্বই!  সেই গ্যাংস্টার অরুণ গাউলির দুই কন্যাই হারলেন BMC পুরভোটে!",
-    "desc": "এক সময়ে তিনি ছিলেন গ্যাংস্টার পরবর্তীতে তিনিই হন রাজনীতিবিদ। কিন্তু, বিএমসি নির্বাচনে সেই 'প্রভাবশালী' রাজনীতিবিদ অরুন গৌলির দুই মেয়েকেই হার স্বীকার করতে হয়েছে। গৌলির দুই মেয়েই তার বাবার তৈরি দল অখিল ভারতীয় সেনার হয়ে নির্বাচনে দাঁড়িয়েছিলেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/9044-2026-01-4924df1f4c276f9e68bdc1a1fd001b44-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/once-a-gangstar-becomes-politicians-sister-faced-defeated-in-bmc-polls-smc-2500096.html",
-    "time": "2026-01-16T13:10:22.000Z"
   }
 ];
