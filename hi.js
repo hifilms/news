@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How will surface at SVNS International Stadium in Raipur play?",
+    "desc": "India defeated New Zealand by 48 runs in the first T20I of the five-match series. It was once again Abhishek Sharma who stole the show with his blistering batting, smacking 84 runs off 35 balls....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-2nd-t20i-pitch-report-how-will-surface-at-svns-international-stadium-in-raipur-play-2026-01-22-1027101",
+    "time": "2026-01-22T17:58:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Casemiro announces decision to leave Manchester United after POTM performance against City",
+    "desc": "Casemiro has announced that he will leave Manchester United at the end of the current season. The Brazilian midfielder shared the decision on social media, making clear that the choice was driven by reflection and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/casemiro-announce-decision-to-leave-manchester-united-after-potm-performance-against-city-2026-01-22-1027094",
+    "time": "2026-01-22T17:06:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Adar Poonawalla confirms RCB interest, promises 'strong and competitive bid' to own franchise",
     "desc": "Adar Poonawalla, Chief Executive Officer of Serum Institute, has signalled his intention to make a major move in the Indian Premier League (IPL) market, revealing plans to submit a “strong and competitive” bid for the...",
     "img": "",
@@ -19,7 +37,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "UP-W vs GG-W WPL Match Score Live: Gujarat struggle to establish momentum, Devine holds key",
+    "title": "UP-W vs GG-W WPL Match Score Live: Gujarat thrash UP Warriorz with 45-run win",
     "desc": "UP Warriorz and Gujarat Giants both sit on two wins each, but their current momentum differs sharply. The Meg Lanning-led side has bounced back with consecutive victories over Mumbai Indians in Navi Mumbai and now...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-flops-miserably-in-ranji-return-against-saurashtra-sarfaraz-khan-stars-2026-01-22-1027014",
     "time": "2026-01-22T09:29:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch SL vs ENG ODI series on TV and streaming?",
-    "desc": "The three-match ODI series between Sri Lanka and England is set to commence today at the R Premadasa Stadium in Colombo. The timing of the series can be questioned, as it is being played with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-vs-england-live-when-and-where-to-watch-sl-vs-eng-odi-series-on-tv-and-streaming-2026-01-22-1026989",
-    "time": "2026-01-22T07:10:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Babar Azam leaves Sydney Sixers ahead of Challenger clash in BBL amid calls to drop him",
-    "desc": "Babar Azam will not be available for the Sydney Sixers in the Challenger clash in the Big Bash League (BBL) against Hobart Hurricanes. He has been recalled to join Pakistan's national camp ahead of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-leaves-sydney-sixers-ahead-of-challenger-clash-in-bbl-amid-calls-to-drop-him-2026-01-22-1026976",
-    "time": "2026-01-22T06:06:32.000Z"
   }
 ];

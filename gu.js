@@ -333,15 +333,6 @@ const newsData_gu = [
     "time": "2026-01-20T08:13:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "કોણ છે વાયરલ વીડિયોને કારણે સસ્પેન્ડ થયેલા DGP રામચંદ્ર રાવ? ગોલ્ડ સ્મગલિંગમાં જેલમાં છે અભિનેત્રી પુત્રી",
-    "desc": "કર્ણાટકમાં એક વરિષ્ઠ IPS અને DGP રેન્કના અધિકારીને સોશિયલ મીડિયા પર એક વાંધાજનક વીડિયો વાયરલ થયા બાદ સસ્પેન્ડ કરવામાં આવ્યા છે. આ વીડિયોમાં તેઓ પોતાની ઓફિસમાં મહિલાઓ સાથે અયોગ્ય વર્તન કરતા જોવા મળે છે. તેમની પુત્રી રાણ્યા રાવ પણ હાલમાં સોનાની દાણચોરીના કેસમાં જેલમાં છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/who-is-dgp-ramachandra-rao-suspended-over-a-viral-video-his-actress-daughter-is-in-jail-for-gold-smuggling-462280 ",
-    "time": "2026-01-20T07:29:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "&amp;#039;ગંભીર હાય-હાય...&amp;#039; કોચની હૂટિંગ જોઈ ગુસ્સે થયો કોહલી અને પછી...",
     "desc": "ભારતીય ક્રિકેટ ટીમની ન્યૂઝીલેન્ડ સામેની ODI શ્રેણીમાં હાર બાદ ઇન્દોરમાં દર્શકોએ મુખ્ય કોચ ગૌતમ ગંભીર વિરુદ્ધ \"હાય-હાય\" ના નારા લગાવ્યા હતા. આ ઘટનાથી માત્ર મેનેજમેન્ટ જ નહીં, પરંતુ મેદાન પર હાજર સિનિયર ખેલાડીઓ પણ આશ્ચર્યચકિત થઈ ગયા હતા.",
@@ -466,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/geeta-kapoor-bold-statement-about-intimacy-geeta-kapoor-reply-on-personal-life-controversy-461839 ",
     "time": "2026-01-16T07:39:40.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "કોણ છે નિશા વર્મા? અમેરિકી સંસદમાં જેણે વારંવાર પુછ્યા પુરુષોની પ્રેગ્નન્સી સાથે જોડાયેલા સવાલ",
-    "desc": "અમેરિકામાં રહેતા ભારતીય મૂળના ડૉક્ટર નિશા વર્મા અત્યારે ભારે ચર્ચામાં છે. અમેરિકી સંસદમાં સુનાવણી દરમિયાન તેમને વારંવાર એક જ સવાલ પૂછવામાં આવ્યો કે \"શું પુરુષો ગર્ભવતી થઈ શકે છે?\" આ સવાલ બાદ રિપબ્લિકન સેનેટર જોશ હોલી અને નિશા વર્મા વચ્ચે ઉગ્ર દલીલો થઈ હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/who-is-nisha-verma-the-woman-who-was-repeatedly-asked-questions-about-male-pregnancy-in-the-us-congress-461838 ",
-    "time": "2026-01-16T07:21:46.000Z"
   },
   {
     "cat": "Entertainment",
