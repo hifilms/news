@@ -1,5 +1,203 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'TTT' BO day 7: Jiiva film nears Rs 20 crore mark",
+    "desc": "Jiiva's comedy drama 'Thalaivar Thambi Thalaimaiyil' is enjoying a steady box office run, nearing the Rs 20 crore mark after its first week. The film, directed by Nithish Sahadev, explores themes of male ego, with actress Prathana Nathan highlighting her character's pivotal role and her approach to selecting roles that resonate with her instincts.",
+    "img": "https://static.toiimg.com/photo/msid-127077758,imgsize-158574.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalaivar-thambi-thalaimaiyil-box-office-collections-day-7-jiiva-film-nears-rs-20-crore-mark-occupancy-holds-decent/articleshow/127077758.cms",
+    "time": "2026-01-22T00:59:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Parasakthi' BO day 12: SK film slows down more",
+    "desc": "'Parasakthi' has crossed the Rs 50 crore mark in its 12-day theatrical run, though collections have seen a slowdown. The film earned approximately Rs 26 lakhs on its twelfth day, with Tamil occupancy around 13.11 percent. Actor Sivakarthikeyan, who also stars in the film, shared his producer philosophy and discussed his upcoming project, 'Thaai Kizhavi'.",
+    "img": "https://static.toiimg.com/photo/msid-127074818,imgsize-175594.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-box-office-collections-day-12-sivakarthikeyan-film-slows-down-more-total-crosses-rs-50-crore/articleshow/127074818.cms",
+    "time": "2026-01-22T00:30:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar' slows down ahead of 'Border 2' release",
+    "desc": "Ranveer Singh and Akshaye Khanna's spy thriller 'Dhurandhar' is nearing the end of its successful theatrical run, showing a slight dip in its seventh week. Despite this, the film has maintained strong collections, reaching an impressive Rs 829.4 crore net. Facing competition, its box office journey continues as it eyes further milestones.",
+    "img": "https://static.toiimg.com/photo/msid-127074210,imgsize-218080.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-48-ranveer-singh-and-akshaye-khanna-starrer-slows-down-ahead-of-border-2-release/articleshow/127073730.cms",
+    "time": "2026-01-22T00:22:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Raja Saab' BO day 12: Horror film crosses Rs 141 crores",
+    "desc": "Prabhas' horror-comedy 'The Raja Saab' is experiencing a slow box office run, with collections dipping significantly after its initial surge. Despite a worldwide gross of Rs 203 crores, including Rs 34 crores from overseas, theatre occupancy remains low, particularly for the Hindi version. The Telugu market is single-handedly sustaining the film's performance.",
+    "img": "https://static.toiimg.com/photo/msid-127071937,imgsize-410030.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-box-office-collections-day-12-prabhas-film-crosses-rs-141-crores/articleshow/127071937.cms",
+    "time": "2026-01-22T00:03:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lizelle Lee fined for Code of Conduct breach in WPL",
+    "desc": "\"Lee admitted to a Level 1 offence under Article 2.2 of the Code of Conduct, which relates to the abuse of cricket equipment during the match. For Level 1 breaches, the match referee's decision is final and binding,\" a WPL release stated",
+    "img": "https://th-i.thgim.com/public/incoming/j0851m/article70535924.ece/alternates/LANDSCAPE_1200/PTI01_17_2026_000514B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/lizelle-lee-fined-for-code-of-conduct-breach-in-wpl/article70535468.ece",
+    "time": "2026-01-21T23:35:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We needed someone…': Rohit explains why Iyer missed T20 World Cup",
+    "desc": "Rohit Sharma admits watching the T20 World Cup from home will be strange. He shares insights into his captaincy, highlighting difficult selection choices. Sharma explains that balancing the team often required tough calls. He emphasizes open communication and building trust within the squad. Sharma expresses confidence in the current Indian team's stability and understanding.",
+    "img": "https://static.toiimg.com/photo/msid-126984294,imgsize-295096.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-needed-someone-rohit-sharma-explains-why-shreyas-iyer-missed-t20-world-cup/articleshow/126983578.cms",
+    "time": "2026-01-21T23:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Trust set up without my informed consent, revoke it: Sunjay’s mom",
+    "desc": "Rani Kapur has filed a plea in the Delhi High Court seeking the cancellation of the Rani Kapur Family Trust. She alleges the trust, which holds a stake in Sona Comstar, was created and operated without her knowledge or consent while she was medically unwell.",
+    "img": "https://static.toiimg.com/photo/msid-127067942,imgsize-652943.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/trust-set-up-without-my-informed-consent-revoke-it-sunjays-mom/articleshow/127067728.cms",
+    "time": "2026-01-21T23:20:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Display West Bengal discrepancies, unmapped list by Jan 24: EC",
+    "desc": "Following a Supreme Court directive, the Election Commission has instructed the Bengal CEO to display names of electors with 'logical discrepancies' and 'unmapped' status by January 24. People in these categories can submit documents via authorized representatives, with authorities ensuring smooth proceedings and no law and order issues.",
+    "img": "https://static.toiimg.com/photo/msid-127065262,imgsize-1447089.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/display-west-bengal-discrepancies-unmapped-list-by-jan-24-ec/articleshow/127064919.cms",
+    "time": "2026-01-21T22:55:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "World must show zero tolerance for terror, EAM tells Spain counterpart",
+    "desc": "India and Spain have pledged to strengthen international cooperation against terrorism, with External Affairs Minister S Jaishankar emphasizing a \"zero tolerance\" approach. The two nations reviewed bilateral ties, including trade, defense, and culture, and discussed regional developments. Spain also acceded to India's Indo-Pacific Oceans Initiative.",
+    "img": "https://static.toiimg.com/photo/msid-127064023,imgsize-990454.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/world-must-show-zero-tolerance-for-terror-eam-tells-spain-counterpart/articleshow/127063802.cms",
+    "time": "2026-01-21T22:47:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meghan Trainor says surrogacy was the safest path to baby No. 3",
+    "desc": "Meghan Trainor has opened up about the deeply personal decision to expand her family through surrogacy, using her experience to challenge the judgement and stigma often attached to it. Trainor revealed that surrogacy was not part of their original plan, but became necessary after repeated consultations with doctors.",
+    "img": "https://static.toiimg.com/photo/msid-127061793,imgsize-240578.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/after-past-pregnancy-trauma-meghan-trainor-says-surrogacy-was-the-safest-path-to-baby-no-3-we-are-forever-grateful/articleshow/127061493.cms",
+    "time": "2026-01-21T22:34:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India in 1st league of AI nations, not a follower",
+    "desc": "India's IT Minister Ashwini Vaishnaw challenged the notion of India being a secondary AI power, asserting its front-rank status by emphasizing large-scale deployment over massive models. He highlighted the country's focus on practical AI applications and a shared compute facility to drive economic value and ROI, rather than solely on building frontier models.",
+    "img": "https://static.toiimg.com/photo/msid-127060914,imgsize-814957.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/vaishnaw-india-in-1st-league-of-ai-nations-not-a-follower/articleshow/127060699.cms",
+    "time": "2026-01-21T22:23:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC asks panel to decide fate of ‘Aravali Zoo Safari’ plan",
+    "desc": "The Supreme Court has directed the Central Empowered Committee (CEC) to decide the fate of Haryana's proposed mega Aravali Zoo Safari Project. The court will await the CEC's report on the project's environmental and ecological feasibility, continuing the interim stay on work.",
+    "img": "https://static.toiimg.com/photo/msid-127060250,imgsize-986373.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-asks-panel-to-decide-fate-of-aravali-zoo-safari-plan/articleshow/127060183.cms",
+    "time": "2026-01-21T22:19:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "EWS flat 'fraud': SC notices to Haryana govt, builder",
+    "desc": "The Supreme Court has summoned responses from the Haryana government and Mahira Buildwell concerning allegations of cheating homebuyers in an affordable housing project under the Pradhan Mantri Awas Yojana. Homebuyers claim the developer used fraudulent means, including forged bank guarantees, and has completed minimal construction, siphoning off funds.",
+    "img": "https://static.toiimg.com/photo/msid-127059917,imgsize-1483764.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ews-flat-fraud-sc-notices-to-haryana-govt-builder/articleshow/127059598.cms",
+    "time": "2026-01-21T22:15:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Activist in jail for 7 years sans trial, SC steps in to hasten proceedings",
+    "desc": "The Supreme Court will order an expedited hearing for lawyer-activist Surendra Gadling in the 2016 Surajgarh arson case, acknowledging his seven-year incarceration without trial. The court will also address the appointment of a judge to the special court and the transfer of evidence from the NIA court.",
+    "img": "https://static.toiimg.com/photo/msid-127058963,imgsize-1302024.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/activist-in-jail-for-7-yrs-sans-trial-sc-steps-in-to-hasten-proceedings/articleshow/127058692.cms",
+    "time": "2026-01-21T22:07:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC to set up expert panel on Aravalis, tells states to stop illegal mining 'at all costs'",
+    "desc": "The Supreme Court has ordered Delhi, Haryana, and Rajasthan to halt illegal mining in the Aravali hills, citing irreversible ecological damage. A new expert body will be formed to conduct a scientific examination of the ranges to ensure their structural and ecological integrity, with states tasked to stop all illicit mining until then.",
+    "img": "https://static.toiimg.com/photo/msid-127058374,imgsize-1621862.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-to-set-up-expert-panel-on-aravalis-tells-states-to-stop-illegal-mining-at-all-costs/articleshow/127058080.cms",
+    "time": "2026-01-21T22:01:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "If Surya loses case, I will file a Rs 500 crore case: Khushi",
+    "desc": "After Suryakumar Yadav’s fan and social media influencer Faizan Ansari claimed to have filed a Rs 100 crore defamation case, Khushi Mukherjee has once again found herself at the centre of the controversy over her remarks about the Indian cricketer.",
+    "img": "https://static.toiimg.com/photo/msid-127057458,imgsize-241226.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/if-suryakumar-yadav-loses-the-defamation-case-i-will-file-a-rs-500-crore-case-khushi-mukherjee-escalates-controversy/articleshow/127056845.cms",
+    "time": "2026-01-21T21:57:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Power ministry's draft policy moots automatic revisions of tariff",
+    "desc": "The draft National Electricity Policy 2026 proposes annual tariff resets, including automatic index-linked revisions, to ensure the financial health of power utilities. It aims to limit cross-subsidies for manufacturing and railways, while promoting competition in distribution and phasing out monopolies. The policy also emphasizes renewable energy, storage, and cybersecurity.",
+    "img": "https://static.toiimg.com/photo/msid-127056018,imgsize-1170784.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/power-ministrys-draft-policy-moots-automatic-revisions-of-tariff/articleshow/127055685.cms",
+    "time": "2026-01-21T21:41:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "5 traffic offences in a year could bar you from driving",
+    "desc": "Habitual traffic offenders face a new penalty as the road transport ministry has amended rules to disqualify driving licenses for five or more offenses in a year. This provision, effective January 1, aims to curb errant drivers, though experts raise concerns about enforcement and potential challenges to recorded offenses.",
+    "img": "https://static.toiimg.com/photo/msid-127055193,imgsize-788885.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/5-traffic-offences-in-a-year-could-bar-you-from-driving/articleshow/127055072.cms",
+    "time": "2026-01-21T21:35:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "65 student suicides at IITs in 5 yrs, alumni group calls for accountability",
+    "desc": "A recent IIT-Kanpur student suicide highlights a disturbing mental health crisis across premier Indian technical institutes, with over a dozen student deaths annually for five years. Alumni and student bodies point to intense academic pressure, isolation, and exclusion as key factors.",
+    "img": "https://static.toiimg.com/photo/msid-127054689,imgsize-277559.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/65-student-suicides-at-iits-in-5-yrs-alumni-group-calls-for-accountability/articleshow/127054283.cms",
+    "time": "2026-01-21T21:27:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Outward remittances fall to two-year low in Nov",
+    "desc": "Outward remittances by resident Indians under the Liberalised Remittance Scheme saw a significant drop in November 2025, reaching a two-year low. This decline was attributed to a decrease in education-related travel and seasonal factors. Total outflows fell by approximately 18% from October, with travel expenses easing considerably.",
+    "img": "https://static.toiimg.com/photo/msid-127053200,imgsize-1270627.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/outward-remittances-fall-to-two-year-low-in-nov/articleshow/127053067.cms",
+    "time": "2026-01-21T21:15:01.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold trades near $4.9k/oz, silver at $95/oz",
+    "desc": "Gold and silver prices are surging to all-time highs, driven by geopolitical uncertainties, trade disruptions, and a global supply-demand imbalance for silver. The weakening rupee further fuels these gains in the domestic market, with gold exceeding Rs 1.5 lakh/10gm and silver surpassing Rs 3.2 lakh/kg.",
+    "img": "https://static.toiimg.com/photo/msid-127052949,imgsize-1112615.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-trades-near-4-9k/oz-silver-at-95/oz/articleshow/127052773.cms",
+    "time": "2026-01-21T21:11:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How FM can simplify TCS to ease cash flow pressure",
+    "desc": "India's Tax Collected at Source (TCS) has evolved from an anti-evasion measure to a real-time monitoring tool, now impacting everyday taxpayers. Recent changes aim to ease cash flow for salaried individuals by allowing TCS adjustment against monthly deductions, while others await refunds or adjust against advance tax.",
+    "img": "https://static.toiimg.com/photo/msid-127052689,imgsize-1073828.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/how-fm-can-simplify-tcs-to-ease-cash-flow-pressure/articleshow/127052518.cms",
+    "time": "2026-01-21T21:09:18.000Z"
+  },
+  {
     "cat": "Business",
     "title": "L'Oreal to pump 3.5k cr in 1st AI-powered global tech hub",
     "desc": "Beauty giant L'Oreal is establishing its inaugural AI-powered global beauty tech innovation hub in Hyderabad, investing 350 million euros by 2030. This first-of-its-kind facility will focus on next-generation AI beauty innovations, creating approximately 2,000 advanced tech jobs and integrating with L'Oreal's global tech network.",
@@ -117,15 +315,6 @@ const newsData_en = [
     "time": "2026-01-21T18:57:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Probe ordered into college student’s suicide in Doda, professor suspended",
-    "desc": "A committee has been formed to investigate the alleged suicide of a 20-year-old student in Doda after she was barred from her semester exam. The student reportedly jumped into the Chenab River after her mobile phone was confiscated and she was warned of disciplinary action. An assistant professor has been suspended pending the inquiry.",
-    "img": "https://static.toiimg.com/photo/msid-127036436,imgsize-1210193.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-probe-ordered-into-college-students-suicide-in-doda-professor-suspended/articleshow/127036554.cms",
-    "time": "2026-01-21T18:48:21.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Manoj Muntashir rejects AR Rahman’s communal bias claim",
     "desc": "Lyricist and poet Manoj Muntashir has taken a firm stand against AR Rahman’s recent remarks on alleged communal bias in the Hindi film industry. In a recent interview, Manoj strongly refuted the claim, pointing to India’s biggest superstars and the industry’s long-standing inclusiveness.",
@@ -234,15 +423,6 @@ const newsData_en = [
     "time": "2026-01-21T16:39:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Delhi govt to increase its sewage treatment capacity to 1,500 MGD by 2028: CM Gupta",
-    "desc": "Delhi aims to boost its sewage treatment capacity to 1,500 MGD by 2028 to clean the Yamuna River. The government will complete drone surveys of drains by January and connect all unauthorized colonies to the sewerage network by 2028. Coordination with Haryana and Uttar Pradesh is deemed essential for the river's cleanup.",
-    "img": "https://static.toiimg.com/photo/msid-127018988,imgsize-44778.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-govt-to-increase-its-sewage-treatment-capacity-to-1500-mgd-by-2028-cm-gupta/articleshow/127018851.cms",
-    "time": "2026-01-21T16:37:03.000Z"
-  },
-  {
     "cat": "Business",
     "title": "SBI MF to take at least 10% of Adani Group's biggest rupee bond issue, bankers say",
     "desc": "Adani Power ​is looking to ⁠raise 28.60 billion rupees through a two-year option and 26.90 billion rupees via a three-year note. SBI MF will buy 4.50 billion rupees and three billion rupees of ‌these papers as the anchor investor, a banker said",
@@ -316,30 +496,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Can This Love Be Translated' COPIED 'Fan'?",
+    "title": "'Can This Love Be Translated' copied SRK's 'Fan'?",
     "desc": "A new K-drama, 'Can This Love Be Translated,' is captivating audiences with a dramatic rooftop fall scene. While fans praise its cinematic brilliance, many Bollywood viewers are pointing out a striking resemblance to the ending of Shah Rukh Khan's film 'Fan.' This has sparked discussions online about the scene's originality and the global reach of Indian cinema.",
-    "img": "https://static.toiimg.com/photo/msid-127008592,imgsize-279604.cms",
+    "img": "https://static.toiimg.com/photo/msid-127009211,imgsize-270012.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/korean/can-this-love-be-translated-scene-withgo-youn-jung-copied-from-shah-rukh-khans-fan-watch/articleshow/126948439.cms",
     "time": "2026-01-21T15:43:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vishal Bhardwaj reveals why Shahid's O Romeo took 10 years",
-    "desc": "Shahid Kapoor's 'O Romeo' trailer launched Tuesday, with director Vishal Bhardwaj revealing a 10-year delay due to creative blocks, possessiveness, and budget hikes backed by Sajid Nadiadwala. Shahid and Triptii Dimri's chemistry shines amid Mumbai grit. Reunites Bhardwaj-Shahid duo; releases Feb 13, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-127011604,imgsize-189198.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vishal-bhardwaj-reveals-why-shahid-kapoors-o-romeo-took-10-years-3-saal-tak-maine-isko-/articleshow/127011604.cms",
-    "time": "2026-01-21T15:43:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Top 5 South newsmakers of the day",
-    "desc": "South cinema saw major updates on January 21. The title teaser for Vishal and Sundar C's film 'Purushan' was released. Actor Hiran Chatterjee married for the second time in Varanasi. AMMA cleared its general secretary Kukku Parameswaran in a controversy. Mrunal Thakur completed shooting for 'Dacoit'. Krithi Shetty is set to play Chiranjeevi's daughter in an upcoming film.",
-    "img": "https://static.toiimg.com/photo/msid-127010298,imgsize-477486.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishal-and-sundar-cs-purushan-title-teaser-hiran-chatterjees-second-wedding-amma-clears-kukku-parameswaran-top-5-south-newsmakers-of-the-day/articleshow/127010298.cms",
-    "time": "2026-01-21T15:37:45.000Z"
   },
   {
     "cat": "World",
@@ -369,15 +531,6 @@ const newsData_en = [
     "time": "2026-01-21T15:04:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Uttarakhand CMO says services available in 23 languages; AI support enabled",
-    "desc": "Uttarakhand's Uniform Civil Code services are now accessible in all 22 constitutionally recognized Indian languages, alongside English. Applicants can leverage AI assistance for guidance and registration, ensuring a smooth process. This multilingual platform, developed by ITDA, aims to simplify access to UCC rules and documentation, reflecting the government's commitment to ease of use and technological advancement.",
-    "img": "https://static.toiimg.com/photo/msid-127002590,imgsize-729220.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/one-year-of-ucc-uttarakhand-cmo-says-services-available-in-23-languages-ai-support-enabled/articleshow/127001834.cms",
-    "time": "2026-01-21T14:40:37.000Z"
-  },
-  {
     "cat": "Business",
     "title": "EU–Mercosur trade pact: Parliament sends deal to EU court, farmers celebrate while exporters flag risks",
     "desc": "The European Parliament has referred the EU-Mercosur free trade agreement to the bloc's top court, casting legal uncertainty over the recently signed pact. This move, celebrated by some farming groups, follows concerns about agricultural imports and environmental standards.",
@@ -396,15 +549,6 @@ const newsData_en = [
     "time": "2026-01-21T14:37:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'I'm already married to her in my heart,' says Aamir as he moves in with Gauri",
-    "desc": "Aamir Khan and Gauri Spratt have moved in together in Mumbai, confirming their serious and committed relationship. While marriage isn't an immediate plan, Khan expressed deep emotional commitment, stating he already feels married to Gauri. Gauri, a mother of one, is now professionally involved with his production house, further intertwining their lives.",
-    "img": "https://static.toiimg.com/photo/msid-127001632,imgsize-232290.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/im-already-married-to-her-in-my-heart-says-aamir-khan-as-he-moves-in-with-girlfriend-gauri-spratt-at-a-plush-new-home-in-mumbai/articleshow/127001588.cms",
-    "time": "2026-01-21T14:27:31.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Investing in a child’s name: How mutual fund accounts for minors work, rules to know, and tax impact explained",
     "desc": "Parents can invest in mutual funds for minors, with the child as the sole holder, managed by a guardian. Upon turning 18, control fully transfers to the child. While beneficial for disciplined long-term savings, parents lose control post-majority. Tax implications differ before and after the child becomes an adult.",
@@ -412,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/mutual-funds/investing-in-a-childs-name-how-mutual-fund-accounts-for-minors-work-rules-to-know-and-tax-impact-explained/articleshow/126996535.cms",
     "time": "2026-01-21T13:49:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vishal Bhardwaj on Hussain Ustara’s daughter's allegations on O'Romeo",
-    "desc": "The trailer launch of 'O’Romeo' saw director Vishal Bhardwaj address a legal notice from Hussain Ustara's daughter, Sanobar Sheikh, who objected to her father's alleged misrepresentation. Bhardwaj clarified the film is adapted from Hussain Zaidi's 'Mafia Queens of Mumbai,' asserting no personal permission was needed as it's based on published work. Sheikh maintains her father was not a gangster.",
-    "img": "https://static.toiimg.com/photo/msid-126996326,imgsize-168212.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vishal-bhardwaj-responds-to-hussain-ustaras-daughters-allegations-regarding-shahid-kapoor-starrer-oromeo-i-do-not-think-i-need-to-take-permission-/articleshow/126996223.cms",
-    "time": "2026-01-21T13:45:50.000Z"
   },
   {
     "cat": "Sports",
@@ -441,15 +576,6 @@ const newsData_en = [
     "time": "2026-01-21T13:13:02.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Inside Saif Ali Khan's home in Qatar worth Rs 15 crore",
-    "desc": "Saif Ali Khan has offered a glimpse into his sea-facing apartment in Qatar, a 'home away from home' located at The Residences at The St. Regis Marsa Arabia. The two-bedroom apartment, reportedly purchased a year ago, blends understated luxury with quiet comfort, prioritizing livability and everyday ease. Saif's favorite spot is the balcony, offering breathtaking sea views.",
-    "img": "https://static.toiimg.com/photo/msid-126991910,imgsize-135680.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-saif-ali-khans-beautiful-home-in-qatar-worth-rs-15-crore-the-actor-reveals-his-favourite-spot-where-he-loves-spending-time/articleshow/126991529.cms",
-    "time": "2026-01-21T13:12:17.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Recycling industry seeks open scrap trade; flags tariff risks to circular economy",
     "desc": "Recycling industry leaders urged policymakers to prioritize open markets and ease cross-border scrap movement in the Union Budget 2026, deeming it critical for a resilient circular economy. Global market access for recycled materials is seen as the biggest enabler for investment and sustainability amidst rising protectionism.",
@@ -466,42 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/bangladesh-face-t20-world-cup-exit-icc-rejects-venue-shift-request-moves-towards-replacement/articleshow/126980223.cms",
     "time": "2026-01-21T12:41:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Issue over speech? Karnataka Governor refuses to address joint session; Siddaramaiah government reaches out",
-    "desc": "Karnataka governor Thaawarchand Gehlot has refused to deliver the customary address to the legislature, adding to a recent trend of gubernatorial disputes. This follows similar incidents in Kerala and Tamil Nadu, where governors clashed with state governments over speech content and assembly proceedings. The Karnataka government is set to meet the governor to understand his reasons.",
-    "img": "https://static.toiimg.com/photo/msid-126983582,imgsize-144960.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/issue-over-speech-karnataka-governor-refuses-to-address-joint-session-siddaramaiah-government-reaches-out/articleshow/126983076.cms",
-    "time": "2026-01-21T12:03:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How much 22K, 24K gold cost in Delhi, Mumbai &amp; other cities – Check rates",
-    "desc": "Gold futures reached a new all-time high on Wednesday, driven by a sharp rally in global prices as investors sought safe-haven assets amidst escalating trade war tensions and geopolitical uncertainty. Silver also continued its upward trend, scaling fresh record highs on the MCX. International gold prices breached the USD 4,800-per-ounce mark.",
-    "img": "https://static.toiimg.com/photo/msid-126979009,imgsize-730112.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-today-check-gold-rate-in-your-city-on-january-21-2026-delhi-mumbai-bangalore-chennai-kolkata-hyderabad-ahmedabad-jaipur-patna/articleshow/126978006.cms",
-    "time": "2026-01-21T11:33:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Moment when IAF plane 'force landed' in UP",
-    "desc": "An Indian Air Force trainer aircraft crash-landed in Prayagraj after an engine failure mid-air. The aircraft deployed an emergency parachute, allowing for a safe force-landing in an uninhabited area, with both pilots unharmed. This incident follows another aviation emergency earlier this month involving a regional connectivity flight.",
-    "img": "https://static.toiimg.com/photo/msid-126978523,imgsize-4636521.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/caught-on-cam-moment-when-iaf-plane-force-landed-in-up/articleshow/126978169.cms",
-    "time": "2026-01-21T11:31:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'Drawn to new ideas': Deepinder Goyal resigns as CEO of Zomato parent company Eternal",
-    "desc": "Zomato's parent company Eternal Limited CEO Deepinder Goyal is stepping down from his role, subject to shareholder approval, to pursue high-risk, experimental ideas outside the public company. He will transition to Vice Chairman on the board, with Albinder Dhindsa named as his successor.",
-    "img": "https://static.toiimg.com/photo/msid-126993069,imgsize-501326.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/drawn-to-set-of-new-ideas-deepinder-goyal-to-step-down-as-zomato-ceo-names-albinder-dhindsa-as-replacement/articleshow/126974073.cms",
-    "time": "2026-01-21T11:03:41.000Z"
   },
   {
     "cat": "Sports",
@@ -538,15 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-singer-saindhavi-on-music-films-and-life/article70533102.ece",
     "time": "2026-01-21T10:41:52.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Dubai gold prices hit record high, surge Dh50 per gram in 2026: Should you buy now or wait?",
-    "desc": "Gold prices in the UAE are soaring in early 2026, mirroring global rallies driven by geopolitical unease and safe-haven demand. Dubai's gold market sees record highs, with 24-carat gold reaching AED 573.75 per gram. This surge reflects international financial trends, impacting local jewellery souks and attracting investors seeking stability amid market volatility.",
-    "img": "https://static.toiimg.com/photo/msid-126971033,imgsize-1080960.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/dubai-gold-prices-hit-record-high-surge-dh50-per-gram-in-2026-should-you-buy-now-or-wait/articleshow/126969430.cms",
-    "time": "2026-01-21T10:36:08.000Z"
   },
   {
     "cat": "World",
@@ -592,24 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/australian-open-when-sachin-tendulkars-childhood-idol-became-the-first-to-be-disqualified-from-a-grand-slam/articleshow/126966491.cms",
     "time": "2026-01-21T10:14:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What is Union Budget? Meaning, importance and process explained",
-    "desc": "India's Union Budget, a crucial financial blueprint, is set for presentation on February 1. This annual statement, mandated by the Constitution, details government receipts and expenditures. The Lok Sabha holds primary authority over its passage, with the Rajya Sabha offering recommendations. The budget significantly impacts resource allocation, economic direction, and citizen finances.",
-    "img": "https://static.toiimg.com/photo/msid-126967658,imgsize-880540.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/what-is-union-budget-meaning-importance-and-process-explained/articleshow/126966056.cms",
-    "time": "2026-01-21T10:04:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Will hunt you down': TMC's Manirul Islam browbeats EC over SIR; threatens to 'teach a lesson'",
-    "desc": "Manirul Islam, threatening the Election Commission, is not his first brush with controversy, as the Farakka MLA was accused of leading a mob to the Block Development Office (BDO) in his constituency and ransacking the space, leaving officials injured. After the incident, BJP MLA Gouri Sankar attacked Mamata Banerjee for instigating her party cadres across the state to commit riots and violence.",
-    "img": "https://static.toiimg.com/photo/msid-126958014,imgsize-160434.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/will-hunt-you-down-tmcs-manirul-islam-browbeats-eci-over-sir-threatens-to-teach-a-lesson/articleshow/126952935.cms",
-    "time": "2026-01-21T08:46:00.000Z"
   },
   {
     "cat": "Business",
@@ -664,15 +727,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-want-to-play-star-bangladesh-batter-voices-players-plea-as-t20-world-cup-standoff-deepens/articleshow/126945024.cms",
     "time": "2026-01-21T06:56:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Medvedev survives four-set scare; Alcaraz, Sabalenka advance",
-    "desc": "Top stars advanced at the Australian Open, with Daniil Medvedev, Carlos Alcaraz, Aryna Sabalenka and Coco Gauff reaching the third round. Medvedev battled past Quentin Halys in four sets, while Alcaraz overcame Yannick Hanfmann in straight sets. Sabalenka cruised past Bai Zhuoxuan, and Gauff delivered a dominant win over Olga Danilovic. Elina Svitolina and Andrey Rublev also progressed to the round of 32.",
-    "img": "https://static.toiimg.com/photo/msid-126944854,imgsize-289302.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/australian-open-daniil-medvedev-survives-four-set-scare-carlos-alcaraz-aryna-sabalenka-and-coco-gauff-advance/articleshow/126942796.cms",
-    "time": "2026-01-21T06:50:31.000Z"
   },
   {
     "cat": "World",
@@ -844,59 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/markets/rupee-falls-7-paise-to-settle-at-record-low-of-9097-against-us-dollar/article70528966.ece",
     "time": "2026-01-20T10:50:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Season two of hit Netflix series ‘Kohrra’ set for Netflix premiere",
-    "desc": "‘Kohrra’ Season 2 follows the sharp-witted assistant Sub-Inspector Amarpal Garundi, played by Barun Sobti, as he steps into the hot seat at the Dalerpura Police Station, teaming up with the fierce Dhanwant Kaur, played by Mona Singh",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/p32bh9/article70528946.ece/alternates/LANDSCAPE_1200/Kohrra.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/kohrra-season-2-netflix-premiere-mona-singh-kohrra-mona-singh-release-date/article70528313.ece",
-    "time": "2026-01-20T10:48:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "On ‘Idols’, Ozzy Osbourne and Lollapalooza India 2026",
-    "desc": "Ahead of his first show in Mumbai this weekend, the English punk-rock musician talks about his latest album ‘Idols’, infuence of the late ‘Prince of Darkness’ on his style, and the problem with rock and roll taking itself too seriously",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/9ufrle/article70528588.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/music/yungblud-interview-on-idols-ozzy-osbourne-and-lollapalooza-india-2026/article70528545.ece",
-    "time": "2026-01-20T10:04:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gael Monfils exits to standing ovation on Australian Open farewell",
-    "desc": "The 39-year-old, one of the most colourful and popular players in men’s tennis, battled all the way but Australian qualifier Dane Sweeny prevailed 6-7 (3/7), 7-5, 6-4, 7-5 in an epic lasting nearly four hours",
-    "img": "https://th-i.thgim.com/public/incoming/jbvypd/article70528629.ece/alternates/LANDSCAPE_1200/2026-01-20T062329Z_1303329285_UP1EM1K0HR3JW_RTRMADP_3_TENNIS-AUSOPEN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/tennis/gael-monfils-exits-to-standing-ovation-on-australian-open-farewell/article70528622.ece",
-    "time": "2026-01-20T09:14:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "EU leaders take stage in Davos as Donald Trump rocks global order",
-    "desc": "Trump is set to dominate the week at the Swiss ski resort, with a U.S. delegation already on the ground to promote an American agenda that has unsettled the global order cherished by the WEF",
-    "img": "https://th-i.thgim.com/public/incoming/1qnwn7/article70528305.ece/alternates/LANDSCAPE_1200/2026-01-19T123451Z_141988878_RC2C4JASKB03_RTRMADP_3_DAVOS-MEETING.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/wef-2026-eu-leaders-take-stage-in-davos-as-donald-trump-rocks-global-order/article70528294.ece",
-    "time": "2026-01-20T06:44:30.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump believes Greenland is essential for golden dome shield, says U.S. Treasury Secretary ​Scott Bessent",
-    "desc": "Addressing the European ‍Parliament, European Union's foreign ​policy chief Kaja ‌Kallas, said, the ⁠tariffs threatened by U.S. President Donald ​Trump ⁠on goods from European countries would undermine the ‌prosperity of ‌both the EU and ‍the U.S.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/greenland-takeover-donald-trump-european-union-tariffs-live-updates-january-20-2026/article70528152.ece",
-    "time": "2026-01-20T05:57:10.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.N. has coexisted with other bodies, spokesperson says on Trump's Gaza Board of Peace",
-    "desc": "“We would have to see in terms of details what the Board of Peace becomes as it actually is established to know what sort of relationship we would have with it,” said a U.N. spokesperson",
-    "img": "https://th-i.thgim.com/public/incoming/7hhfp9/article70528099.ece/alternates/LANDSCAPE_1200/2236941216.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/un-has-coexisted-with-other-bodies-spokesperson-says-on-trumps-gaza-board-of-peace/article70528048.ece",
-    "time": "2026-01-20T05:12:24.000Z"
   }
 ];
