@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why are Scotland picked as Bangladesh's replacement for T20 World Cup 2026 in India?",
+    "desc": "Scotland are set to be named as Bangladesh’s replacement for the upcoming T20 World Cup 2026 after the BCB refused to travel to India for the tournament. The standoff stems from a long‑running dispute between...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-are-scotland-picked-as-bangladesh-s-replacement-for-t20-world-cup-2026-in-india-2026-01-22-1027052",
+    "time": "2026-01-22T11:54:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh boycott T20 World Cup 2026 in India, ICC names replacement",
+    "desc": "The Bangladesh Cricket Board has announced that the national team will not travel to India for the 2026 T20 World Cup in India. The decision was taken on January 22 following an internal board meeting....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-boycott-t20-world-cup-2026-in-india-icc-name-replacement-2026-01-22-1027037",
+    "time": "2026-01-22T11:02:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Novak Djokovic chases major Grand Slam record after beating Francesco Maestrelli in Australia Open",
+    "desc": "Novak Djokovic continued his measured march through the Australian Open on Thursday, moving into the third round with a straight-sets victory that mixed near-flawless control with a brief, rare lapse. The Serbian defeated Francesco Maestrelli...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-chases-major-grand-slam-record-after-beating-francesco-maestrelli-in-australia-open-2026-01-22-1027027",
+    "time": "2026-01-22T10:25:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Fixing allegation hit Bangladesh cricket again, after Sylhet Titans advisor claims BPL 'match was sold'",
+    "desc": "The Bangladesh Premier League (BPL) was thrust back into controversy after a senior figure from one of its teams publicly alleged match-fixing, just hours after a decisive playoff defeat ended the franchise’s campaign. The accusation came...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/fixing-allegation-hit-bangladesh-cricket-again-after-sylhet-titans-advisor-claims-bpl-match-was-sold-2026-01-22-1027017",
+    "time": "2026-01-22T09:47:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill flops miserably in Ranji return against Saurashtra, Sarfaraz Khan stars",
+    "desc": "India captain Shubman Gill failed to establish his authority against Saurashtra in the Ranji Trophy clash at Niranjan Shah Stadium Ground C in Rajkot. After being dropped from the T20I squad, the 26-year-old returned to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-flops-miserably-in-ranji-return-against-saurashtra-sarfaraz-khan-stars-2026-01-22-1027014",
+    "time": "2026-01-22T09:29:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When and where to watch SL vs ENG ODI series on TV and streaming?",
     "desc": "The three-match ODI series between Sri Lanka and England is set to commence today at the R Premadasa Stadium in Colombo. The timing of the series can be questioned, as it is being played with...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-sports-advisor-to-meet-litton-das-and-his-team-after-icc-ultimatum-on-t20-world-cup-row-2026-01-22-1026940",
     "time": "2026-01-22T02:02:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arshdeep Singh thrashes Shaheen Afridi's all-time record in T20Is, Know details",
-    "desc": "India's left-arm pacer Arshdeep Singh returned with figures of 1/31 in his four overs as the men in blue defended a mammoth total of 238 runs comfortably against New Zealand on Wednesday to take a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-thrashes-shaheen-afridi-s-all-time-record-in-t20is-know-details-2026-01-22-1026935",
-    "time": "2026-01-22T01:32:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why Axar Patel walked off field mid-way during his over in IND vs NZ 1st T20I? Check here",
-    "desc": "India were hit with a concern when star all-rounder Axar Patel walked off the field mid-way during his final over in the first T20I against New Zealand at the Vidarbha Cricket Association Stadium, Nagpur, on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-axar-patel-walked-off-field-mid-way-during-his-over-in-ind-vs-nz-1st-t20i-check-here-2026-01-22-1026927",
-    "time": "2026-01-21T18:33:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How many centuries Abhishek Sharma need to break Rohit Sharma's national record of most T20I tons?",
-    "desc": "Abhishek Sharma has made a strong impact since breaking into international cricket, quickly establishing himself as a force to be reckoned with in the shortest format. The young opener has been outstanding in T20Is, amassing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-many-centuries-abhishek-sharma-need-to-break-rohit-sharma-s-national-record-of-most-t20i-tons-2026-01-21-1026922",
-    "time": "2026-01-21T18:09:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shivam Dube misses hat-trick chance vs New Zealand, who is only Indian player to do so in T20Is?",
-    "desc": "In the final over of the first T20I against New Zealand, Shivam Dube struck twice in successive deliveries, dismissing Daryl Mitchell and Kristian Clarke. The all-rounder came close to completing a hat-trick, but Kyle Jamieson...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shivam-dube-misses-hat-trick-chance-vs-new-zealand-who-is-only-indian-player-to-do-so-in-t20is-2026-01-21-1026917",
-    "time": "2026-01-21T17:37:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India make light work of New Zealand with thumping win in first T20I in Nagpur",
-    "desc": "India registered a thumping victory in the first T20I of their five-match series against New Zealand at the Vidarbha Cricket Association Stadium, Nagpur. The Men in Blue displayed a complete team performance with both batters...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-make-light-work-of-new-zealand-with-thumping-win-in-first-t20i-in-nagpur-2026-01-21-1026915",
-    "time": "2026-01-21T17:14:06.000Z"
   }
 ];

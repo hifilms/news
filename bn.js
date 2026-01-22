@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "সরস্বতী পুজোর মন্ত্র মিশবে আজানের সুরে! সুপ্রিম কোর্টের ঐতিহাসিক রায়ে একই জায়গায় নমাজ ও বসন্ত পঞ্চমীর উদযাপন...",
+    "desc": "বৃহস্পতিবার প্রধান বিচারপতি সূর্যকান্ত, বিচারপতি জয়মাল্য বাগচী এবং বিচারপতি বিপুল এম পাঞ্চোলির ডিভিশন বেঞ্চ এই সংবেদনশীল মামলাটির শুনানি শেষ করে। আদালত সাফ জানিয়েছে, বসন্ত পঞ্চমীর পুজো এবং জুম্মার নামাজ—উভয়ই যাতে নির্বিঘ্নে সম্পন্ন হয়, তার দায়িত্ব প্রশাসনকে নিতে হবে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/supreme-court-allows-hindu-muslim-to-offer-prayers-at-bhojsala-on-basant-panchami-but-what-was-the-dispute_636888.html ",
+    "time": "2026-01-22T10:21:24.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "নাশকতার ছক কষছে পাক জঙ্গিরা! তাদের মাথা গুঁড়িয়ে দিতে প্রস্তুত ভারতীয় সেনাও! মুনির-মাসুদের ষড়যন্ত্র ফাঁস? বিগ ব্রেকিং...",
     "desc": "গোয়েন্দা সংস্থাগুলির কাছ থেকে প্রজাতন্ত্র দিবসে বা তার আগে একটি সম্মিলিত সন্ত্রাসী হামলার খবর মিলেছে গতকাল বুধবারই। সেই খবর পাওয়ার পর বুধবারই দিল্লি জুড়ে হাই অ্যালার্ট জারি হয়েছে। এই সম্ভাব্য হামলার কোড নেম দেওয়া হয়েছে '২৬-২৬'!",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/once-a-gangstar-becomes-politicians-sister-faced-defeated-in-bmc-polls-smc-2500096.html",
     "time": "2026-01-16T13:10:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "কোন ব্যাঙ্কে পার্সোনাল লোন সবচেয়ে 'সস্তা'? সিদ্ধান্ত নেওয়ার আগে বিভিন্ন সুদের হার তুলনা করে দেখুন",
-    "desc": "জরুরি আর্থিক প্রয়োজন মেটাতে বর্তমানে পার্সোনাল লোন অন্যতম জনপ্রিয় বিকল্প। তবে জামানত ছাড়াই এই ঋণ পাওয়া গেলেও, ব্যাঙ্কভেদে সুদের হার, EMI এবং অন্যান্য শর্তে বড়সড় পার্থক্য থাকে। তাই লোন নেওয়ার আগে কোন ব্যাঙ্কে কত সুদে পার্সোনাল লোন পাওয়া যাচ্ছে, তা জেনে নেওয়া অত্যন্ত জরুরি। SBI, HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, IDFC First Bank, Bank of Baroda, Yes Bank ও Punjab National Bank–এ পার্সোনাল লোনের সুদ ও শর্তে পার্থক্য রয়েছে। জেনে নিন কোন ব্যাঙ্কে পার্সোনাল লোনে ইন্টারেস্ট কত।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/bank-loan-3-2026-01-65f91f328d8a9938983fc57be6e20dd0-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/big-difference-in-personal-loan-interest-rates-and-terms-revealed-across-banks-which-bank-offers-the-best-cheapest-personal-loan-tib-ws-el-2499621.html",
-    "time": "2026-01-16T10:11:42.000Z"
   }
 ];

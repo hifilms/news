@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "શું નવી ટેક્સ રિઝીમના સ્લેબ ફરી બદલાશે? ટેક્સપેયર્સને ખરેખર શું અપેક્ષાઓ રાખવી જોઈએ? જાણો",
+    "desc": "હંમેશાની જેમ આ વખતે પણ ટેક્સપેયર્સને બજેટ 2026થી ઘણી અપેક્ષાઓ છે. ઘણા લોકો ઈનકમ ટેક્સ રેટમાં ઘટાડો, સ્લેબને સરળ બનાવવા અને જૂની ટેક્સ સિસ્ટમની જેમ ડિડક્શનના સંભવિત વિસ્તરણની અપેક્ષાઓ રાખી રહ્યા છે. ત્યારે બજેટ 2026 અંગે નિષ્ણાતોએ શું કહ્યું છે. ચાલો જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/budget-2026-new-tax-regime-slabs-to-change-again-what-should-expect-462528 ",
+    "time": "2026-01-22T12:02:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "બાંગ્લાદેશે T20 વર્લ્ડ કપનો કર્યો બહિષ્કાર, હવે આ ટીમને મળશે તક !",
+    "desc": "બાંગ્લાદેશ સરકારે સુરક્ષા અને રાજકીય તણાવનો હવાલો આપીને આગામી T20 વર્લ્ડ કપનો બહિષ્કાર કરવાની સત્તાવાર જાહેરાત કરી છે. આ પગલાથી ICC માટે ટુર્નામેન્ટના શેડ્યૂલ અને એશિયન ટીમોની ભાગીદારી પર પ્રશ્નો ઉભા થયા છે. ત્યારે બાંગ્લાદેશ બહાર થતાં સ્કોટલેન્ડનું કિસ્મત ચમકી શકે છે. તેને T20 વર્લ્ડ કપ માટે એન્ટ્રી મળી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bangladesh-boycott-t20-world-cup-2026-icc-bcb-462522 ",
+    "time": "2026-01-22T11:33:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ટ્રેનમાં મુસાફરી દરમિયાન કેટલી બોટલ દારૂ લઈ જઈ શકાય ? જાણો શું છે રેલવેનો નિયમ",
+    "desc": "ટ્રેનોને જાહેર પરિવહનનું માધ્યમ માનવામાં આવે છે, જેમાં એકસાથે લાખો લોકો મુસાફરી કરે છે. તેથી મુસાફરોની સુવિધા અને સલામતી માટે રેલવેએ દારૂ અંગે કડક નિયમો બનાવ્યા છે. ત્યારે આ લેખમાં જાણીશું કે, ટ્રેનમાં મુસાફરી દરમિયાન દારૂ લઈ જઈ શકાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/how-much-alcohol-is-allowed-in-indian-trains-know-the-rules-462519 ",
+    "time": "2026-01-22T10:54:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&amp;amp;K: ડોડામાં દર્દનાક અકસ્માત, સેનાનું વાહન ઊંડી ખીણમાં ખાબક્યું, 10 જવાન શહીદ થયા",
+    "desc": "જમ્મુ અને કાશ્મીરથી અત્યંત આઘાતજનક સમાચાર આવ્યા છે. જ્યાં ડોડા જિલ્લામાં સેનાનું એક વાહન બેકાબૂ થઈને ખીણમાં ખાબકતા 10 જવાનોના ઘટનાસ્થળે જ મોત નિપજ્યા છે. જ્યારે કેટલાક જવાનો ઘાયલ થયા છે જેમને સારવાર અર્થે હોસ્પિટલમાં ખસેડવામાં આવ્યા છે. જાણો વિગતવાર માહિતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-breaking-army-vehicle-met-with-an-accident-in-khani-top-area-of-bhaderwah-jammu-kashmir-462512 ",
+    "time": "2026-01-22T10:40:50.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "પ્રથમ T20માં જીત છતાં બદલાઈ જશે ટીમ ઈન્ડિયાની પ્લેઈંગ-11 ! જાણો શું છે કારણ",
     "desc": "ભારત અને ન્યૂઝીલેન્ડ વચ્ચે 23 જાન્યુઆરીએ રાયપુરમાં બીજી ટી20 મેચ રમાશે. પ્રથમ મેચમાં શાનદાર જીત છતાં આ મેચમાં ટીમ ઈન્ડિયાની પ્લેઈંગ-11 બદલાવ જોવા મળી શકે છે, આ પાછળનું કારણ શું છે અને કોને ટીમમાં તક મળશે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -279,24 +315,6 @@ const newsData_gu = [
     "time": "2026-01-20T07:29:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "અશ્લીલ વીડિયો વાયરલ થયા બાદ DGP રેન્કના અધિકારી સસ્પેન્ડ, ઓફિસમાં આપત્તિજનક હરકતનો આરોપ",
-    "desc": "કર્ણાટકના વરિષ્ઠ IPS અધિકારી અને નાગરિક અધિકાર પ્રવર્તનના DGP રામચંદ્ર રાવને સોશિયલ મીડિયા પર એક વાંધાજનક વીડિયો વાયરલ થયા બાદ સસ્પેન્ડ કરવામાં આવ્યા છે. જો કે, રાવે આ આરોપોને સંપૂર્ણપણે ખોટા અને વીડિયોને નકલી ગણાવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/karnataka-dgp-viral-video-ips-k-ramchandra-rao-suspended-462256 ",
-    "time": "2026-01-20T07:01:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "15 લાખનું રોકાણ અને એક શાનદાર આઈડિયા: Zeptoની નોકરી છોડી 3 મિત્રોએ ઉભી કરી 1800 કરોડની કંપની",
-    "desc": "ત્રણ મિત્રો Zeptoમાં એક્ઝિક્યુટિવ તરીકે કામ કરતા હતા. નોકરી દરમિયાન જ તેમને કંઈક અલગ કરવાનો વિચાર આવ્યો અને આજે તેમણે જે કરી બતાવ્યું છે તે સ્ટાર્ટઅપ જગત માટે એક મિસાલ બની ગયું છે. તેમની આ કહાની વર્ષ 2024થી શરૂ થાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/with-15-lakh-rupees-and-an-idea-he-resigned-from-his-job-at-zepto-and-built-a-company-worth-1800-crore-rupees-462279 ",
-    "time": "2026-01-20T06:54:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "&amp;#039;ગંભીર હાય-હાય...&amp;#039; કોચની હૂટિંગ જોઈ ગુસ્સે થયો કોહલી અને પછી...",
     "desc": "ભારતીય ક્રિકેટ ટીમની ન્યૂઝીલેન્ડ સામેની ODI શ્રેણીમાં હાર બાદ ઇન્દોરમાં દર્શકોએ મુખ્ય કોચ ગૌતમ ગંભીર વિરુદ્ધ \"હાય-હાય\" ના નારા લગાવ્યા હતા. આ ઘટનાથી માત્ર મેનેજમેન્ટ જ નહીં, પરંતુ મેદાન પર હાજર સિનિયર ખેલાડીઓ પણ આશ્ચર્યચકિત થઈ ગયા હતા.",
@@ -331,15 +349,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/trump-greenland-annexation-military-force-no-comment-tensions-462246 ",
     "time": "2026-01-19T17:41:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "બાપ રે! એક ભૂલ અને ટોલ થઈ જશે બમણો, ફાસ્ટેગનો આ નિયમ દરેક ડ્રાઇવરેને જાણવો જ જોઈએ",
-    "desc": "કોઈ હાઇવે પર મુસાફરી કરતા વાહનચાલકો માટે હવે ફાસ્ટેગ ફરજિયાત છે. જો તમારા વાહનમાં ફાસ્ટેગ નથી, તો તમે મુશ્કેલીમાં મુકાઈ શકો છો. તમારી ટોલના ડબલ પૈસા પણ આપવા પડી શકે છે. જાણો સરકારનો નવો ફાસ્ટેગ પેમેન્ટનો નિયમ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/one-mistake-and-the-toll-will-be-doubled-every-driver-must-know-this-fastag-new-rule-462241 ",
-    "time": "2026-01-19T16:37:58.000Z"
   },
   {
     "cat": "Sports",
@@ -466,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/ranveer-singh-film-dhurandhar-ott-release-netflix-dhurandhar-box-office-collection-461794 ",
     "time": "2026-01-16T02:16:11.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈઝરાયેલ પ્રવાસ અંગે ભારતની કડક સૂચના, નાગરિકોને સતર્ક રહેવા જણાવ્યું; જાણો કેમ",
-    "desc": "વિદેશ મંત્રાલયની એડવાઈઝરીમાં જણાવાયું છે કે, આ પ્રદેશની વર્તમાન સ્થિતિને ધ્યાનમાં રાખીને હાલમાં ઈઝરાયેલમાં રહેતા તમામ ભારતીય નાગરિકોને સતર્ક રહેવા અને ઈઝરાયેલના સત્તાવાળાઓ તેમજ 'હોમ ફ્રન્ટ કમાન્ડ' દ્વારા જાહેર કરવામાં આવેલી સુરક્ષા માર્ગદર્શિકા અને પ્રોટોકોલનું ચુસ્તપણે પાલન કરવાની સલાહ આપવામાં આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/india-has-issued-an-advisory-for-its-citizens-living-in-israel-amid-regional-tensions-461779 ",
-    "time": "2026-01-15T17:47:04.000Z"
   },
   {
     "cat": "Entertainment",
