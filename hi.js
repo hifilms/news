@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How many runs does Suryakumar Yadav need to break Rohit Sharma's record for most T20I runs for India?",
+    "desc": "India captain Suryakumar Yadav was under the scanner after following his poor run of form in T20I cricket. He was struggling to get going and following which, questions were raised about his spot in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-many-runs-does-suryakumar-yadav-need-to-break-rohit-sharma-s-record-for-most-t20i-runs-for-india-2026-01-23-1027243",
+    "time": "2026-01-23T18:10:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India break Pakistan's record in spectacular win over New Zealand in Raipur",
+    "desc": "India produced a record-setting performance in the second of the five-game T20I series against New Zealand at the Raipur stadium, delivering one of the most dominant run chases ever seen among full-member nations. Tasked with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-break-pakistan-s-record-in-spectacular-win-over-new-zealand-in-raipur-2026-01-23-1027241",
+    "time": "2026-01-23T17:38:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ishan Kishan, Suryakumar Yadav go berserk as India thrash New Zealand in Raipur",
+    "desc": "Chasing 209 runs could have been tricky for India, despite the dew, as Matt Henry and Jacob Duffy could have posed a serious threat. In fact, they did so, as Sanju Samso departed for six runs...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-suryakumar-yadav-go-berserk-as-india-thrash-new-zealand-in-raipur-2026-01-23-1027239",
+    "time": "2026-01-23T16:57:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Irfan Pathan shakes hands with Pakistan players in friendly game after backing India's no-handshake stand",
+    "desc": "A post-match moment involving former India all-rounder Irfan Pathan and Pakistan veteran Shoaib Malik has sparked intense debate on social media, following a friendly contest in Jeddah that carried unexpected political undertones. The incident occurred...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/irfan-pathan-shakes-hands-with-pakistan-players-in-friendly-game-after-backing-india-s-no-handshake-stand-during-asia-cup-2026-01-23-1027237",
+    "time": "2026-01-23T16:39:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hardik Pandya surpasses Virat Kohli in T20Is, only Rohit Sharma ahead in race",
+    "desc": "Hardik Pandya added another landmark to his international career during the second T20I against New Zealand, moving past Virat Kohli to become India’s second-most capped player in men’s T20Is. The all-rounder’s appearance in the match...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-surpasses-virat-kohli-in-t20is-only-rohit-sharma-ahead-in-race-2026-01-23-1027236",
+    "time": "2026-01-23T15:59:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Delhi Capitals suffer twin blow, two cricketers ruled out of WPL 2026; franchise announces replacement",
     "desc": "Delhi Capitals have announced squad changes for the remainder of the ongoing Women’s Premier League (WPL) 2026 following injury setbacks to two players. Deeya Yadav and Mamatha Madiwala have both been ruled out of the...",
     "img": "",
@@ -34,50 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/icc-contemplating-strict-action-against-bangladesh-over-boycott-of-t20-world-cup-2026-2026-01-23-1027212",
     "time": "2026-01-23T12:44:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhimanyu Easwaran's bizarre run-out controversy: 3 instances when players got out in similar fashion",
-    "desc": "Bengal’s Ranji Trophy campaign witnessed an unusual turning point on Thursday when captain Abhimanyu Easwaran was dismissed in circumstances that surprised players and spectators alike. The incident unfolded during Bengal’s sixth-round fixture against Services, abruptly...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhimanyu-easwaran-s-bizarre-run-out-controversy-3-instances-when-players-got-out-in-similar-fashion-2026-01-23-1027206",
-    "time": "2026-01-23T12:25:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Cricket is finished': Distraught Bangladesh players react against BCB with T20 World Cup dream over",
-    "desc": "Bangladesh cricketers seemed helpless on Thursday as they left the team hotel after meeting the sports advisor Asif Nazrul. There was a sense of resignation on their faces as the fate seemed sealed by their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cricket-is-finished-distraught-bangladesh-players-react-against-bcb-with-t20-world-cup-dream-over-2026-01-23-1027199",
-    "time": "2026-01-23T11:24:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan announce squad for Australia series, yet to confirm team for T20 World Cup 2026",
-    "desc": "Pakistan have announced a 16-member squad for the three-match T20I series against Australia, starting January 29. Star batter Babar Azam has retained his spot in the squad, despite a very disappointing Big Bash League (BBL)...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-announce-squad-for-australia-series-yet-to-confirm-team-for-t20-world-cup-2026-2026-01-23-1027198",
-    "time": "2026-01-23T11:10:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill flops again in Ranji Trophy clash vs Saurashtra as Punjab on verge of massive defeat",
-    "desc": "After registering a duck in the first innings of the Ranji Trophy clash against Saurashtra, India captain Shubman Gill promoted himself up in the order to number four. He expected to return back to his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-flops-again-in-ranji-trophy-clash-vs-saurashtra-as-punjab-on-verge-of-massive-defeat-2026-01-23-1027192",
-    "time": "2026-01-23T10:29:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia bundle Sri Lanka out for 58 runs, Will Byrom stars with five-wicket haul",
-    "desc": "Australia and Sri Lanka locked horns today in their final league stage game of the ongoing U19 World Cup at the Namibia Cricket Ground in Windhoek. After opting to bowl first, things happened very quickly...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/u19-world-cup-2026-australia-bundle-sri-lanka-out-for-58-runs-will-byrom-stars-with-five-wicket-haul-2026-01-23-1027190",
-    "time": "2026-01-23T10:09:20.000Z"
   }
 ];

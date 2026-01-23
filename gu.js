@@ -1,12 +1,21 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "વર્લ્ડ કપ પહેલાં શુભ સંકેત... -સૂર્યા-કિશનની તોફાની બેટિંગથી ન્યૂઝીલેન્ડ પરાસ્ત, ભારતની સતત બીજી જીત",
+    "desc": "શહીદ વીર નારાયણ સિંહ ઈન્ટરનેશનલ સ્ટેડિયમમાં ભારતીય કેપ્ટન સૂર્યકુમાર યાદવે ટોસ જીતીને ન્યુઝીલેન્ડને બેટિંગ માટે આમંત્રણ આપ્યું હતું. ન્યુઝીલેન્ડે પ્રથમ બેટિંગ કરતા ભારતીય ટીમને 209 રનનો ટાર્ગેટ આપ્યો હતો. ન્યુઝીલેન્ડે આપેલા પહાડ જેવા ટાર્ગેટના જવાબમાં ટીમ ઈન્ડિયા જબરદસ્ત અંદાજમાં પોતાની બીજી T20 મેચ પણ જીતવામાં સફળ રહી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-vs-new-zealand-t20-series-suryakumar-yadav-ishan-kishan-storm-india-wins-second-match-raipur-462698 ",
+    "time": "2026-01-23T17:34:15.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "અલવિદા રાજૂ બારોટ: ગુજરાતી રંગભૂમિએ એક બહુમુખી પ્રતિભા ધરાવતા કલાકાર ગુમાવ્યા, હૃદયરોગના હુમલાથી નિધન",
     "desc": "ગુજરાતી રંગભૂમિના દિગ્ગજ કલાકાર રાજૂ બારોટનું ઉત્તરાખંડમાં હૃદયરોગના હુમલાને કારણે નિધન થયું છે. તેમના અચાનક અવસાનથી ગુજરાતી કલા જગતમાં શોકની લહેર વ્યાપી ગઈ છે. દાયકાઓ સુધી રંગમંચને જીવંત રાખનાર આ તેજસ્વી કલાકારના જવાથી ગુજરાતી નાટ્ય સૃષ્ટિએ એક અનમોલ રત્ન ગુમાવ્યું છે, જેની ખોટ હંમેશા વર્તાશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/gujarati-theatre-artist-raju-barot-passes-away-462685 ",
-    "time": "2026-01-23T15:02:47.000Z"
+    "time": "2026-01-23T15:50:45.000Z"
   },
   {
     "cat": "Business",
@@ -385,15 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/shubman-gill-hints-multiple-change-in-indian-cricket-odi-team-462287 ",
     "time": "2026-01-20T08:13:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "&amp;#039;ગંભીર હાય-હાય...&amp;#039; કોચની હૂટિંગ જોઈ ગુસ્સે થયો કોહલી અને પછી...",
-    "desc": "ભારતીય ક્રિકેટ ટીમની ન્યૂઝીલેન્ડ સામેની ODI શ્રેણીમાં હાર બાદ ઇન્દોરમાં દર્શકોએ મુખ્ય કોચ ગૌતમ ગંભીર વિરુદ્ધ \"હાય-હાય\" ના નારા લગાવ્યા હતા. આ ઘટનાથી માત્ર મેનેજમેન્ટ જ નહીં, પરંતુ મેદાન પર હાજર સિનિયર ખેલાડીઓ પણ આશ્ચર્યચકિત થઈ ગયા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/indore-crowd-furious-at-gautam-gambhir-holkar-stadium-virat-kohli-angry-462278 ",
-    "time": "2026-01-20T06:53:54.000Z"
   },
   {
     "cat": "Tech",

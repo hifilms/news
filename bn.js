@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "Smriti Mandhana-Palash Muchhal: বিয়ের মণ্ডপেই ‘অন্য নারীর সঙ্গে ধরা’! পলাশ মুচ্ছলকে ঘিরে চাঞ্চল্যকর অভিযোগ",
+    "desc": "একজন প্রযোজক ও অভিনেতা বিদ্যান মেনে পুলিশে অভিযোগ করেছে, পলাশকে বিয়ের অনুষ্ঠান চলাকালীন অন্যান্য নারীর সঙ্গে এক বিছানায় ধরা পড়ার পর ভারতীয় মহিলা ক্রিকেটারদের বন্ধুদের হাতে মার খেতে হয়েছে। তিনি এই দৃশ্যকে “ভয়ানক” বলে অভিহিত করেছেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/12/Smriti-2025-12-f8b25e704f969a6a617ba68724ec43e7-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/india-team-batter-smriti-mandhana-wedding-called-off-music-director-palash-muchhal-accused-of-cheating-and-blackmail-controversy-sal-2510007.html",
+    "time": "2026-01-23T16:52:46.000Z"
+  },
+  {
     "cat": "Business",
     "title": "সোনার দামের নেপথ্যেও তাঁরই 'খেল'? ট্রাম্পের দ্বিতীয় মেয়াদে স্বর্ণ মূল্যে ৭০ শতাংশ লাফ! থামবে নাকি আরও বাড়বে?",
     "desc": "ডোনাল্ড ট্রাম্প দ্বিতীয়বার আমেরিকার প্রেসিডেন্ট হিসেবে দায়িত্ব নেওয়ার পর বিশ্ববাজারে টানা ঊর্ধ্বমুখী সোনার দাম। দ্বিতীয় মেয়াদ শুরুর এক বছরের মধ্যেই আন্তর্জাতিক বাজারে সোনার দর বেড়েছে ৭০ শতাংশেরও বেশি। মঙ্গলবার প্রথমবারের জন্য প্রতি আউন্সে ৪,৭০০ ডলারের সীমা পেরিয়েছে সোনা। বৈশ্বিক বাণিজ্যিক অনিশ্চয়তা, শুল্ক যুদ্ধের আশঙ্কা এবং ডলারের দুর্বলতার জেরে বিনিয়োগকারীরা ঝুঁকিপূর্ণ সম্পদ ছেড়ে সোনা ও রুপোর মতো নিরাপদ সম্পদের দিকে ঝুঁকছেন। এই পরিস্থিতিতে আন্তর্জাতিক বাজারের প্রভাব ভারতের স্থানীয় বাজারেও পড়তে পারে বলে মনে করছেন বিশেষজ্ঞরা।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/gambhir-and-rohit-gautam-gambhir-put-to-sword-for-disrespecting-rohit-sharma-fired-the-gun-off-ajit-agarkar-s-shoulder-dd-2500885.html",
     "time": "2026-01-17T08:08:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "অসম, নাগাল্যান্ড, পশ্চিমবঙ্গ একই সাথে আজ রেল পথে জুড়ছে দিল্লির সঙ্গে! কোন কোন ট্রেন? মোদির হাতেই উদ্বোধন",
-    "desc": "সীমান্তবর্তী অঞ্চল, তীর্থকেন্দ্র এবং প্রধান শহরগুলোকে সংযুক্ত করার মাধ্যমে ডিব্রুগড়-লখনউ (গোমতী নগর) অমৃত ভারত এক্সপ্রেস পর্যটনকে উৎসাহিত করবে, স্থানীয় বাণিজ্যকে बढ़ावा দেবে, ক্ষুদ্র ব্যবসাকে সমর্থন করবে এবং কর্মসংস্থানের সুযোগ বৃদ্ধি করবে বলে আশা করা হচ্ছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-79-2026-01-995329885b5718a47a2d772c9e989d53-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/west-bengal/indian-railways-new-7-amrit-bharat-express-how-delhi-is-connected-with-bengal-assam-and-nagaland-sta-2500592.html",
-    "time": "2026-01-17T05:48:02.000Z"
   }
 ];
