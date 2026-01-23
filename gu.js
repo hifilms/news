@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "Entertainment",
+    "title": "અલવિદા રાજૂ બારોટ: ગુજરાતી રંગભૂમિએ એક બહુમુખી પ્રતિભા ધરાવતા કલાકાર ગુમાવ્યા, હૃદયરોગના હુમલાથી નિધન",
+    "desc": "ગુજરાતી રંગભૂમિના દિગ્ગજ કલાકાર રાજૂ બારોટનું ઉત્તરાખંડમાં હૃદયરોગના હુમલાને કારણે નિધન થયું છે. તેમના અચાનક અવસાનથી ગુજરાતી કલા જગતમાં શોકની લહેર વ્યાપી ગઈ છે. દાયકાઓ સુધી રંગમંચને જીવંત રાખનાર આ તેજસ્વી કલાકારના જવાથી ગુજરાતી નાટ્ય સૃષ્ટિએ એક અનમોલ રત્ન ગુમાવ્યું છે, જેની ખોટ હંમેશા વર્તાશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/gujarati-theatre-artist-raju-barot-passes-away-462685 ",
+    "time": "2026-01-23T15:02:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "એક જ દિવસમાં 50 % ઘટી જશે ચાંદીના ભાવ ? જાણો 1980ના ક્રેશ વિશે",
+    "desc": "સોના સાથે ચાંદીના ભાવમાં પણ ભારે વધારે જોવા મળી રહ્યો છે, રોકાણકારોને હવે ચાંદીના ભાવમાં વધારો જોતા 1980ની તે દિવસની યાદ આવી રહી છે, જ્યારે ભાવમાં એક જ દિવસમાં 50 ટકાનો ઘટાડો નોંધાયો હતો. જાણો તે સમગ્ર ઘટના વિશે",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-silver-prices-fall-by-50-percent-in-a-single-day-know-about-the-crash-of-1980-462682 ",
+    "time": "2026-01-23T14:16:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પતિની લાશ પાસે બેસીને પત્નીએ જોઈ ગંદી ફિલ્મો, આખી રાત કરતી રહી... સવારે કર્યો મોટો કાંડ",
+    "desc": "પતિ-પત્નિના સબંધો પર એક હચમચાવી નાખે તેની ઘટના સામે આવી છે, પત્નિએ પતિને પહેલા મારી નાખ્યો અને તેની ડેડબોડી પાસે બેસીને આખી રાત ગંદી ફિલ્મો જોતી રહી. સવાર પડતાની સાથે જે ગામના લોકોએ પોલીસને બોલાવી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/wife-watched-dirty-movies-while-sitting-near-husbands-dead-body-made-a-big-scandal-in-the-morning-462680 ",
+    "time": "2026-01-23T13:54:34.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "અનિલ અંબાણી અને રિલાયન્સ ગ્રુપને સુપ્રીમ કોર્ટે ફટકારી નોટિસ, જાણો સમગ્ર મામલો",
+    "desc": "સુપ્રીમ કોર્ટે શુક્રવારે અનિલ અંબાણી અને અનિલ ધીરુભાઈ અંબાણી ગ્રુપ (ADAG)ને એક જાહેર હિતની અરજી (PIL) પર નવી નોટિસ ફટકારી છે. કોર્ટે CBI અને એન્ફોર્સમેન્ટ ડિરેક્ટોરેટ (ED)ને કથિત છેતરપિંડીની તપાસ પર 10 દિવસની અંદર સીલબંધ કવરમાં સ્ટેટસ રિપોર્ટ દાખલ કરવાનો પણ નિર્દેશ આપ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/supreme-court-issues-notice-to-anil-ambani-and-reliance-group-know-the-entire-matter-462675 ",
+    "time": "2026-01-23T12:51:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "આ વિકેન્ડમાં ઓટીટી પર રિલીઝ થશે બ્લોકબસ્ટર ફિલ્મો, જોવા મળશે ઈશ્ક અને એકશન એકસાથે",
     "desc": "આ વિકેન્ડ જાન્યુઆરી મહિનાનું લોન્ગ વીકેન્ડ છે કારણ કે આ વખતે શનિ-રવિ સાથે સોમવારે પણ રજા આવી રહી છે. જો આ રજાઓમાં તમે ઘર બેઠા મનોરંજન મેળવવા માંગો છો તો ફટાફટ ચેક કરી લો ઓટીટી પર રિલીઝ થનારી દમદાર ફિલ્મોનું લિસ્ટ. આ ફિલ્મો તમારી રજાની મજા બમણી કરી દેશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -304,15 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-fitment-factor-above-3-and-5-percent-annual-increment-demand-raised-462415 ",
     "time": "2026-01-21T10:29:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "EPFO 3.0: બેંક એકાઉન્ટની જેમ ઉપાડી શકશો PFના પૈસા! AIથી 24 કલાકમાં ક્લેમ થશે સેટલ",
-    "desc": "એવું લાગે છે કે EPFO એ તેના સભ્યોને સમયાંતરે સરપ્રાઈઝ આપવાની યોજના બનાવી રાખી છે. લિબરલાઈઝ્ડ વિડ્રોઅલ નિયમોની જાહેરાત અને UPI-લિંક્ડ સુવિધા શરૂ કરવાના પ્રસ્તાવ બાદ, EPFO હવે વધુ સારા સુધારા સાથે EPFO 3.0 લોન્ચ કરવાની તૈયારી કરી રહ્યું છે. જાણો તેમાં કઈ સુવિધાઓ હશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/epfo-3-0-you-will-be-able-to-withdraw-pf-money-like-from-a-bank-account-claims-will-be-settled-in-24-hours-using-ai-462384 ",
-    "time": "2026-01-21T07:10:12.000Z"
   },
   {
     "cat": "World",

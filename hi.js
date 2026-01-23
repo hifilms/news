@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Delhi Capitals suffer twin blow, two cricketers ruled out of WPL 2026; franchise announces replacement",
+    "desc": "Delhi Capitals have announced squad changes for the remainder of the ongoing Women’s Premier League (WPL) 2026 following injury setbacks to two players. Deeya Yadav and Mamatha Madiwala have both been ruled out of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-suffer-blow-two-cricketers-ruled-out-of-wpl-2026-franchise-announces-replacement-2026-01-23-1027229",
+    "time": "2026-01-23T14:45:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Axar Patel not playing 2nd T20I vs New Zealand in Raipur?",
+    "desc": "India were forced to bench Axar Patel for the second T20I against New Zealand at the SVNS International Stadium in Raipur. The all-rounder suffered a blow on his left hand in the first T20I and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-axar-patel-not-playing-2nd-t20i-vs-new-zealand-in-raipur-2026-01-23-1027219",
+    "time": "2026-01-23T13:35:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Jasprit Bumrah not playing for India vs New Zealand in 2nd T20I in Raipur?",
+    "desc": "The second T20I between India and New Zealand is being played today at the Shaheed Veer Narayan Singh International Stadium, Raipur. India skipper Suryakumar Yadav won the toss and opted to bowl first, while also confirming...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-jasprit-bumrah-not-playing-for-india-vs-new-zealand-in-2nd-t20i-in-raipur-2026-01-23-1027215",
+    "time": "2026-01-23T13:14:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC contemplating strict action against Bangladesh over boycott of T20 World Cup 2026",
+    "desc": "ICC Chairman Jay Shah is contemplating strict action against Bangladesh for refusing to travel to India for the T20 World Cup 2026. They want their matches to be shifted to Sri Lanka, which the ICC...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-contemplating-strict-action-against-bangladesh-over-boycott-of-t20-world-cup-2026-2026-01-23-1027212",
+    "time": "2026-01-23T12:44:04.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Abhimanyu Easwaran's bizarre run-out controversy: 3 instances when players got out in similar fashion",
     "desc": "Bengal’s Ranji Trophy campaign witnessed an unusual turning point on Thursday when captain Abhimanyu Easwaran was dismissed in circumstances that surprised players and spectators alike. The incident unfolded during Bengal’s sixth-round fixture against Services, abruptly...",
     "img": "",
@@ -43,50 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/u19-world-cup-2026-australia-bundle-sri-lanka-out-for-58-runs-will-byrom-stars-with-five-wicket-haul-2026-01-23-1027190",
     "time": "2026-01-23T10:09:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Head to Head record ahead of Australian Open 2026 clash",
-    "desc": "World number one Carlos Alcaraz has been on fire in the ongoing Australian Open 2026. With three stellar victories in the first three rounds of the competition, Alcaraz has now set up a clash with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-vs-tommy-paul-head-to-head-record-ahead-of-australian-open-2026-clash-2026-01-23-1027183",
-    "time": "2026-01-23T09:24:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India to face Pakistan in U19 World Cup 2026 on this day? Details here",
-    "desc": "The league phase of the ongoing U19 World Cup in Zimbabwe and Namibia is set to conclude on Saturday (January 24) with the match between India and New Zealand. India have already qualified for the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-to-face-pakistan-in-u19-world-cup-2026-on-this-day-details-here-2026-01-23-1027171",
-    "time": "2026-01-23T08:09:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia's injury woes compound as Nathan Ellis faces race against time to get fit for T20 World Cup 2026",
-    "desc": "In the ever-increasing woes for Hobart Hurricanes, the franchise’s skipper, Nathan Ellis, has been ruled out of the remainder of the ongoing BBL (Big Bash League) season after he sustained a hamstring injury against Brisbane...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-s-injury-woes-compound-as-nathan-ellis-faces-race-against-time-to-get-fit-for-t20-world-cup-2026-2026-01-23-1027170",
-    "time": "2026-01-23T08:04:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Prashant Veer, CSK's Rs 14.2 crore recruit for IPL 2026, gets injured in Ranji Trophy: Know details",
-    "desc": "Prashant Veer of Uttar Pradesh suffered a shoulder injury on the opening day of the Ranji Trophy clash against Jharkhand. For the unversed, Veer is IPL's costliest uncapped buy with Chennai Super Kings splurging a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/prashant-veer-csk-s-rs-14-2-crore-recruit-for-ipl-2026-gets-injured-in-ranji-trophy-know-details-2026-01-23-1027162",
-    "time": "2026-01-23T07:30:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nick Kyrgios opens up on his future after first-round men's doubles exit from Australian Open 2026",
-    "desc": "Nick Kyrgios, alongside his doubles partner Thanasi Kokkinakis, was eliminated from the first round of the men’s doubles of the Australian Open 2026. The duo took on Jason Kubler and Marc Polmans in the first...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/nick-kyrgios-opens-up-on-his-future-after-first-round-men-s-doubles-exit-from-australian-open-2026-2026-01-23-1027153",
-    "time": "2026-01-23T06:49:02.000Z"
   }
 ];
