@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "IND vs NZ, Raipur, weather report: Will rain spoil 2nd T20I of the multi-format series?",
+    "desc": "The stage is set for the 2nd T20I of the ongoing series between India and New Zealand. The two sides will take on each other at the Shaheed Veer Narayan Singh International Stadium, Raipur, on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-raipur-weather-report-will-rain-spoil-2nd-t20i-of-the-upcoming-multi-format-series-2026-01-23-1027144",
+    "time": "2026-01-23T05:34:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Adam Milne ruled out of T20 World Cup 2026, New Zealand name Kyle Jamieson as replacement",
+    "desc": "New Zealand Cricket has been dealt a major blow ahead of the T20 World Cup 2026, as star bowler Adam Milne has been ruled out of the upcoming World Cup after sustaining a hamstring injury....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/adam-milne-ruled-out-of-t20-world-cup-2026-new-zealand-name-kyle-jamieson-as-replacement-2026-01-23-1027132",
+    "time": "2026-01-23T04:15:12.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'I've got plenty more to give': David Warner signs one-year extension with Sydney Thunder",
     "desc": "In a major development for the BBL (Big Bash League) franchise Sydney Thunder, former Australian international David Warner has signed a one-year extension with the franchise after his stellar performances in the ongoing BBL season....",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/gg-vs-up-wpl-2026-live-cricket-score-up-warriorz-vs-gujarat-giants-bca-stadium-kotambi-latest-match-updates-scorecard-teams-playing-xi-2026-01-22-1027070",
     "time": "2026-01-22T13:27:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are Scotland picked as Bangladesh's replacement for T20 World Cup 2026 in India?",
-    "desc": "Scotland are set to be named as Bangladesh’s replacement for the upcoming T20 World Cup 2026 after the BCB refused to travel to India for the tournament. The standoff stems from a long‑running dispute between...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-are-scotland-picked-as-bangladesh-s-replacement-for-t20-world-cup-2026-in-india-2026-01-22-1027052",
-    "time": "2026-01-22T11:54:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh boycott T20 World Cup 2026 in India, ICC names replacement",
-    "desc": "The Bangladesh Cricket Board has announced that the national team will not travel to India for the 2026 T20 World Cup in India. The decision was taken on January 22 following an internal board meeting....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-boycott-t20-world-cup-2026-in-india-icc-name-replacement-2026-01-22-1027037",
-    "time": "2026-01-22T11:02:45.000Z"
   }
 ];

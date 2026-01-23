@@ -1,5 +1,185 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Replacement call looms as ICC deadline ends with Bangladesh defiant",
+    "desc": "Bangladesh's Cricket Board has missed the ICC's deadline, leading to their likely exclusion from the T20 World Cup. Despite internal talks, no official communication was sent to the ICC, paving the way for Scotland to replace them. The government cited security concerns and political reasons for the decision, deeming India unsafe for players.",
+    "img": "https://static.toiimg.com/photo/msid-127241443,imgsize-50766.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-replacement-call-looms-as-icc-deadline-ends-with-bangladesh-defiant/articleshow/127241215.cms",
+    "time": "2026-01-23T06:18:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Bollywood took India to world, but Sachin took Indian sport to world'",
+    "desc": "Apollo Tyres MD Neeraj Kanwar reflects on the company’s landmark Indian cricket jersey sponsorship, dismissing superstition around the deal and underlining Apollo’s long-term vision. From Manchester United to Sachin Tendulkar and the men and women in blue, Kanwar explains why Indian cricket has become India’s biggest global brand and soft power.",
+    "img": "https://static.toiimg.com/photo/msid-127240400,imgsize-44090.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bombay-sport-exchange-bollywood-took-india-to-the-world-but-sachin-took-indian-sport-to-the-world-apollo-tyres-md-neeraj-kanwar/articleshow/127239534.cms",
+    "time": "2026-01-23T06:07:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mammootty-Adoor Gopalakrishnan’s film titled ‘Padayaatra’",
+    "desc": "Get ready for a major comeback! Superstar Mammootty is joining forces again with the brilliant director Adoor Gopalakrishnan for a new film called 'Padayaatra'. This is a huge deal, as it's their first collaboration in 32 years! Mammootty himself spilled the beans, even sharing the title poster and the rest of the cast. Here's everything you need to know about the film.",
+    "img": "https://static.toiimg.com/photo/msid-127239234,imgsize-83498.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mammootty-adoor-gopalakrishnans-film-titled-padayaatra-meet-the-cast-and-crew/articleshow/127239234.cms",
+    "time": "2026-01-23T05:57:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Harry Styles releases first single ‘Aperture’ from upcoming album",
+    "desc": "Harry Styles has taken the music scene by storm with the release of 'Aperture,' a stunning lead single from his upcoming album 'Kiss All the Time. Disco, Occasionally.' Available from January 23, this track showcases a more chill tempo and a lo-fi techno sound, signaling a fresh direction for Styles after nearly three years away from solo work.",
+    "img": "https://static.toiimg.com/photo/msid-127238211,imgsize-.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/harry-styles-releases-first-single-aperture-from-upcoming-album/articleshow/127238211.cms",
+    "time": "2026-01-23T05:41:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jamieson in, Milne out: NZ forced into late bowling change ahead of T20 World Cup",
+    "desc": "New Zealand's T20 World Cup campaign faces a setback as pace bowler Adam Milne is out with a torn hamstring. Kyle Jamieson, already in India with the squad, has been drafted in as his replacement. Coach Rob Walter expressed disappointment for Milne but confidence in Jamieson's seamless integration, highlighting his skills and experience.",
+    "img": "https://static.toiimg.com/photo/msid-127237800,imgsize-169698.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/kyle-jamieson-in-adam-milne-out-new-zealand-forced-into-late-bowling-change-ahead-of-t20-world-cup/articleshow/127237778.cms",
+    "time": "2026-01-23T05:37:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Low Vitamin D may worsen Dengue outcomes, global study raises questions for India",
+    "desc": "In the Colombian study, researchers analysed blood samples from nearly 100 laboratory-confirmed dengue patients, classified by disease severity, and compared them with healthy individuals. They measured serum vitamin D levels along with miRNA-155, a molecule that regulates immune and inflammatory responses. Patients with milder dengue had higher vitamin D levels, while those with warning signs or severe disease showed significant deficiency.",
+    "img": "https://static.toiimg.com/photo/msid-127237386,imgsize-29330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/low-vitamin-d-may-worsen-dengue-outcomes-global-study-raises-questions-for-india/articleshow/127236738.cms",
+    "time": "2026-01-23T05:32:46.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "The Hindu Editorial",
+    "desc": "The ‘Board of Peace’ initiative, linked to the Trump administration’s Gaza peace plan, has raised questions over its structure, legitimacy and sidelining of Palestinian leadership. New Delhi now faces a complex choice balancing principle, diplomacy and regional pressure.",
+    "img": "https://th-i.thgim.com/public/incoming/i06x0g/article70541133.ece/alternates/LANDSCAPE_1200/edit%20-%20bangladesh2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-the-hindu-editorial-on-india-and-donald-trumps-board-of-peace/article70541147.ece",
+    "time": "2026-01-23T05:31:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Are banks closed for 4 days from today? Check state-wise list",
+    "desc": "Plan your banking ahead! Indian banks will be closed for a four-day holiday from January 23rd to 26th. This includes state-specific holidays like Netaji Subhas Chandra Bose's birthday and Saraswati Puja, the fourth Saturday, Sunday, and Republic Day. While branches are shut, digital services like online banking and ATMs remain accessible for your financial needs.",
+    "img": "https://static.toiimg.com/photo/msid-127237109,imgsize-1545779.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/january-2026-bank-holidays-bank-shut-basant-panchmi-republic-day-january-24-january-25-check-states-dates-list/articleshow/127235138.cms",
+    "time": "2026-01-23T05:30:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Lagan Laagi Re’ song: Jigardan brings magic",
+    "desc": "The upcoming Gujarati film 'Lagan Laagi Re' is generating buzz with a new making-of video for its song 'Ame Karishu Prem'. Featuring singer Jigardan Gadhavi and composer Bhargav, the sneak peek hints at a warm, romantic narrative. Actress Aarohi Patel shared the clip, highlighting the film's February 6, 2026 release.",
+    "img": "https://static.toiimg.com/photo/msid-127236627,imgsize-26434.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/gujarati/music/lagan-laagi-re-song-jigardan-gadhavi-brings-magic-ame-karishu-prem-making-glimpse-wins-hearts/articleshow/127236522.cms",
+    "time": "2026-01-23T05:23:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Sinners' vs 'One Battle After Another': Who will have the last laugh?",
+    "desc": "The countdown to the 98th Academy Awards is on, igniting fierce competition among contenders like 'Sinners' and 'One Battle After Another.' 'Sinners' has made headlines with its record-breaking 16 nominations, drawing viewers in with its enthralling supernatural thriller plot. Close behind, 'One Battle After Another' has garnered 13 nominations, earning accolades for its incisive political storytelling.",
+    "img": "https://static.toiimg.com/photo/msid-127235394,imgsize-51984.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sinners-vs-one-battle-after-another-which-film-could-be-the-biggest-oscar-winner-in-2026/articleshow/127235312.cms",
+    "time": "2026-01-23T05:08:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "FIR against Gurpatwant Singh Pannun for threatening to create unrest in Delhi ahead of Republic Day",
+    "desc": "“The action was initiated after Pannun released a video message on social media in which he allegedly threatened to disturb peace and law and order in Delhi before the Republic Day celebrations on January 26” says police",
+    "img": "https://th-i.thgim.com/public/incoming/lswj87/article70541042.ece/alternates/LANDSCAPE_1200/IMG_Gurpatwant_Singh_Pan_2_1_TUD1JS2B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/fir-against-gurpatwant-singh-pannun-for-threatening-to-create-unrest-in-city-ahead-of-republic-day/article70541021.ece",
+    "time": "2026-01-23T05:06:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Unorthodox pacer set for full-circle moment in Raipur",
+    "desc": "Jasprit Bumrah is set to complete a decade in international cricket, marking a transformative era in Indian pace bowling. His unorthodox action and ability to deliver crucial yorkers have consistently defied expectations since his 2013 IPL debut. Bumrah's impact spans all formats, particularly in T20s, where his economical bowling and knack for match-winning spells have made him indispensable.",
+    "img": "https://static.toiimg.com/photo/msid-127235170,imgsize-321312.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/a-decade-of-jasprit-bumrah-sorcery-unorthodox-pacer-set-for-full-circle-moment-against-new-zealand-in-raipur/articleshow/127234948.cms",
+    "time": "2026-01-23T05:04:58.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee continues to rise! Currency recovers 17 paise to reach 91.41 against US dollar",
+    "desc": "The Indian Rupee strengthened today against the US Dollar. This rise follows a softening of tariff threats between the US and Europe. Traders noted improved investor sentiment. However, the Rupee still faces pressure from foreign fund outflows. Experts suggest a period of consolidation and possible recovery. The 92.00 level is a key resistance point.",
+    "img": "https://static.toiimg.com/photo/msid-127234073,imgsize-127597.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-continues-to-rise-currency-against-us-dollar-on-january-23-2026/articleshow/127233538.cms",
+    "time": "2026-01-23T05:04:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pretorius, Viljoen star as Paarl Royals end JSK campaign",
+    "desc": "Lhuan-dre Pretorius’ timely half-century and a vintage new-ball spell from Hardus Viljoen powered Paarl Royals to a 36-run win over Joburg Super Kings in the SA20 Eliminator. After posting 210/5, the Royals dismantled JSK’s chase early to set up a Qualifier 2 showdown with Sunrisers Eastern Cape.",
+    "img": "https://static.toiimg.com/photo/msid-127234301,imgsize-69146.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/sa20/sa20-lhuan-dre-pretorius-hardus-viljoen-star-as-paarl-royals-end-jsk-campaign/articleshow/127234087.cms",
+    "time": "2026-01-23T04:54:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh says won’t play in India, virtually out of T20 World Cup",
+    "desc": "Bangladesh will not participate in the T20 World Cup in India. The Bangladesh government cited genuine security risks for the decision. The International Cricket Council had previously rejected Bangladesh's concerns. Bangladesh now plans to propose playing the tournament in Sri Lanka. The Bangladesh Cricket Board president is seeking a middle path with the ICC.",
+    "img": "https://static.toiimg.com/photo/msid-127232513,imgsize-205230.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bangladesh-says-wont-play-in-india-virtually-out-of-t20-world-cup/articleshow/127232458.cms",
+    "time": "2026-01-23T04:35:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dashing opener instrumental in India’s T20I dominance",
+    "desc": "Abhishek Sharma's destructive T20I batting, characterised by aggressive intent and timing, has been pivotal for India's success, especially in high-scoring matches. His partnership with Sanju Samson, which has a strong track record, is being rekindled to replicate past fireworks ahead of the T20 World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-127232569,imgsize-137402.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/abhishek-sharma-calls-the-shots-dashing-opener-instrumental-in-indias-t20i-dominance-post-2024-world-cup-triumph/articleshow/127232270.cms",
+    "time": "2026-01-23T04:34:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'Happy to save'!: Trump's first reaction to TikTok deal; here's what he said about Chinese President Xi Jinping",
+    "desc": "Donald Trump celebrated a new deal for TikTok's US operations, now a majority American-owned joint venture, crediting himself for \"saving\" the platform. The agreement, which sees ByteDance retain a minority stake, aims to address national security concerns and avoid a ban for its 200 million American users.",
+    "img": "https://static.toiimg.com/photo/msid-127231495,imgsize-805940.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/happy-to-save-trumps-first-reaction-to-tiktok-deal-heres-what-he-said-about-chinese-president-xi-jinping/articleshow/127230060.cms",
+    "time": "2026-01-23T04:21:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chris Pratt reveals accidental nickname from before his acting debut",
+    "desc": "Before hitting Hollywood, Chris Pratt, then a restaurant worker, was nicknamed 'Christo' due to a worn-out name tag. He seriously considered adopting this moniker professionally, even preferring it at one point. Despite the widespread adoption of 'Christo' among colleagues, Pratt ultimately stuck with his birth name, though he humorously suggests it's never too late to reconsider.",
+    "img": "https://static.toiimg.com/photo/msid-127229666,imgsize-34454.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/chris-pratt-or-christo-mercy-star-reveals-he-almost-didnt-go-by-his-birth-name-everyone-called-me-christo-for-a-long-time/articleshow/127229666.cms",
+    "time": "2026-01-23T03:59:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘He was forced’: Ex-cricketer’s claim reignites debate over Kohli’s Test exit",
+    "desc": "Former India batter Manoj Tiwary has sparked a debate, claiming Virat Kohli was \"forced\" to retire from Test cricket. Tiwary refuted suggestions that Kohli abandoned the toughest format for easier ones, asserting an atmosphere was created leading to his departure. Meanwhile, Kohli continues to shine in ODIs, recently scoring a century against New Zealand.",
+    "img": "https://static.toiimg.com/photo/msid-127229652,imgsize-43952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-was-forced-manoj-tiwarys-explosive-claim-reignites-debate-over-virat-kohlis-test-exit/articleshow/127229517.cms",
+    "time": "2026-01-23T03:58:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Border 2’ early review: Fans call it 'Pure goosebumps film'",
+    "desc": "Early reactions to 'Border 2' are flooding in, with many praising its patriotic fervor, intense action, and emotional depth. Viewers are highlighting director Anurag Singh's powerful vision and standout performances from Sunny Deol, Varun Dhawan, Ahan Shetty, and Diljit Dosanjh. However, some critics found the film repetitive and disappointing, sparking a lively debate.",
+    "img": "https://static.toiimg.com/photo/msid-127229312,imgsize-57432.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-early-twitter-reviews-sunny-deol-and-diljit-dosanjh-get-loud-cheers-fans-call-it-pure-goosebumps-film/articleshow/127228650.cms",
+    "time": "2026-01-23T03:52:28.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Nifty50, BSE Sensex flat; earnings season in focus",
     "desc": "Indian equity benchmarks, Nifty50 and BSE Sensex, opened flat in trade on Friday. While Nifty50 was near 25,250, BSE Sensex was down 50 points. At 9:17 AM, Nifty50 was trading at 25,263.15, down 27 points or 0.11%.",
@@ -7,6 +187,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-january-23-2026-dalal-street-indian-equities-global-markets-donald-trump-tariffs-greenland/articleshow/127226875.cms",
     "time": "2026-01-23T03:49:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sam Spector spills beans about ‘The Traitors’ style",
+    "desc": "Styling maestro Sam Spector takes us on a journey into the enchanting world of 'The Traitors,' where he meticulously designs bold, theatrical outfits. Inspired by Scotland's breathtaking landscapes and its storied past, Spector cleverly incorporates elements such as textured tweed and faux moss, adorned with exquisite hand-placed jewels.",
+    "img": "https://static.toiimg.com/photo/msid-127228977,imgsize-95662.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-traitors-stylist-sam-spector-on-tweed-tartan-and-bringing-castle-style-home-inside-his-creative-fashion-vision/articleshow/127228863.cms",
+    "time": "2026-01-23T03:49:04.000Z"
   },
   {
     "cat": "Entertainment",
@@ -46,7 +235,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘They didn’t ask’ — Bangladesh cricketers on what happened in the meeting",
+    "title": "‘They didn’t ask’ — Bangladesh cricketers on what happened in WC meeting",
     "desc": "Bangladesh's participation in the ICC T20 World Cup 2026 is in jeopardy as the national team refused to travel to India due to security concerns. Despite players' willingness to play, the government has decided against it, citing the ICC's failure to address their grievances. Scotland is reportedly being considered as a replacement.",
     "img": "https://static.toiimg.com/photo/msid-127224643,imgsize-77300.cms",
     "src": "indiatimes.com",
@@ -162,15 +351,6 @@ const newsData_en = [
     "time": "2026-01-23T00:37:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'The Raja Saab' BO day 14: Prabhas film drops further",
-    "desc": "Prabhas's 'The Raja Saab' is struggling significantly at the box office, with collections plummeting to just Rs 51 lakhs on its 14th day. The film has garnered a total of Rs 142.71 crore in India, but occupancy remains critically low across Telugu and Hindi markets. Mixed online reactions highlight issues with the storyline and execution, suggesting a tough road ahead.",
-    "img": "https://static.toiimg.com/photo/msid-127213940,imgsize-49386.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-box-office-collections-day-14-prabhas-film-drops-further-earns-just-rs-51-lakhs/articleshow/127213940.cms",
-    "time": "2026-01-23T00:31:09.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Vadasery’s temple jewellery: a craft caught between heritage and high gold, silver prices",
     "desc": "Temple jewellery continues to survive with its distinctive manufacturing method and rich antiquity. But the artisans of Vadasery in Nagercoil, who practise the craft, are buffeted by the drop in demand with gold and silver prices going up",
@@ -178,24 +358,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/vadasery-temple-jewellery-a-craft-caught-between-heritage-and-high-gold-silver-prices/article70537176.ece",
     "time": "2026-01-23T00:31:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Chatha Pacha' BO day 1: Film collects Rs 3.30 cr",
-    "desc": "The Ring of Rowdies' debuted with a respectable Rs 3.30 crore net on its opening day. While early reviews are mixed, praising its action and visuals, some critics point to weak writing. The movie saw a significant surge in occupancy during night shows, indicating growing audience interest.",
-    "img": "https://static.toiimg.com/photo/msid-127212463,imgsize-42748.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/chatha-pacha-box-office-collections-day-1-roshan-mathew-and-arjun-ashokan-film-opens-decent-mints-rs-3-30-cr/articleshow/127212463.cms",
-    "time": "2026-01-23T00:10:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar' earns Rs 13.9 cr ahead of 'Border 2' release",
-    "desc": "'Dhurandhar' starring Ranveer Singh and Akshaye Khanna has completed its seventh week, achieving its lowest collection yet at Rs 1.1 crore but still surpassing Rs 1 crore. The film has set a new record for week 7 earnings, reaching a total of Rs 13.9 crore. Its impressive Rs 830.",
-    "img": "https://static.toiimg.com/photo/msid-127211476,imgsize-23194.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-49-ranveer-singh-and-akshaye-khanna-starrer-ends-week-7-with-rs-13-9-crore-haul-amid-border-2-takeover/articleshow/127211043.cms",
-    "time": "2026-01-22T23:54:36.000Z"
   },
   {
     "cat": "Politics",
@@ -270,15 +432,6 @@ const newsData_en = [
     "time": "2026-01-22T22:32:46.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Aanand L Rai reacts to Rs 84 crore lawsuit over Raanjhanaa IP row",
-    "desc": "Filmmaker Aanand L Rai has responded to the Rs 84 crore lawsuit filed by Eros International Media Ltd, which has accused him of intellectual property violations linked to his 2013 film Raanjhanaa. Calling it a routine business dispute, Rai downplayed the controversy and said it was best left to lawyers.",
-    "img": "https://static.toiimg.com/photo/msid-127204258,imgsize-32132.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anyone-can-say-anything-aanand-l-rai-reacts-to-rs-84-crore-lawsuit-over-raanjhanaa-ip-row/articleshow/127204083.cms",
-    "time": "2026-01-22T22:29:11.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Meitei visiting Kuki fiancee shot dead on camera",
     "desc": "A Meitei man visiting his Kuki fiancée in Churachandpur was abducted and shot dead on camera, sparking protests and an NIA probe. Graphic footage of the killing circulated widely. The incident occurred amidst ongoing ethnic tensions between Meitei and Kuki-Zo communities in Manipur, highlighting the fragile peace in the region.",
@@ -317,20 +470,11 @@ const newsData_en = [
   {
     "cat": "Politics",
     "title": "Basant Panchami, Friday prayers in separate areas of MP's Bhojshala today: SC",
-    "desc": "The Supreme Court has expedited the legal dispute over the Bhojshala Saraswati Temple cum Maulana Kamal Maula Mosque in Dhar, Madhya Pradesh. The court lifted its stay on the case pending with the MP High Court and decoupled it from the Places of Worship Act.",
+    "desc": "The Supreme Court has expedited the Bhojshala Saraswati Temple cum Maulana Kamal Maula Mosque dispute. Both Hindu and Muslim communities can now offer prayers simultaneously in demarcated areas. The court has lifted its stay on the Madhya Pradesh High Court proceedings. The ASI report will be unsealed and shared with both sides.",
     "img": "https://static.toiimg.com/photo/msid-127201591,imgsize-2024022.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/basant-panchami-friday-prayers-in-separate-areas-of-mps-bhojshala-today-sc/articleshow/127201382.cms",
     "time": "2026-01-22T21:55:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'AR Rahman doesn’t understand Hindi': Rabbi Shergill",
-    "desc": "Singer Rabbi Shergill, best known for Bulla Ki Jaana and Tere Bin, has shared a candid view on working with Oscar-winning composer AR Rahman. While praising Rahman’s musical brilliance, Shergill said that lyrics often become “secondary” in Rahman’s compositions, largely because Hindi is not the composer’s primary language.",
-    "img": "https://static.toiimg.com/photo/msid-127199319,imgsize-38112.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ar-rahman-doesnt-understand-hindi-rabbi-shergill-says-poetry-took-a-backseat-in-rahmans-compositions/articleshow/127198444.cms",
-    "time": "2026-01-22T21:29:17.000Z"
   },
   {
     "cat": "Politics",
@@ -405,15 +549,6 @@ const newsData_en = [
     "time": "2026-01-22T19:54:11.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Dev Anand didn’t lie about Zeenat's relationship with Raj Kapoor",
-    "desc": "Years after Dev Anand’s autobiography Romancing with Life stirred controversy over his account of falling in love with Zeenat Aman, one of his closest friends, Mohan Churiwala, has reopened the conversation. Mohan questioned why Zeenat chose to refute Dev Anand’s claims only years after his death and not when he was alive.",
-    "img": "https://static.toiimg.com/photo/msid-127192485,imgsize-54994.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dev-anand-didnt-lie-about-zeenat-amans-relationship-with-raj-kapoor-she-should-have-confronted-him-when-he-was-alive-says-mohan-churiwala/articleshow/127192099.cms",
-    "time": "2026-01-22T19:51:19.000Z"
-  },
-  {
     "cat": "Business",
     "title": "IndiGo profit dives 78% in December quarter over flight disruptions",
     "desc": "IndiGo's net profit plummeted 78% to Rs 549 crore in the December quarter, impacted by Rs 577 crore in operational disruptions and Rs 1,000 crore from labour code provisions. Despite flight cuts and fare caps, total income rose 6.7% to Rs 24,541 crore, with the airline carrying 12.4 crore passengers in 2025.",
@@ -421,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/indigo-profit-dives-78-in-december-quarter-over-flight-disruptions/articleshow/127192005.cms",
     "time": "2026-01-22T19:43:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Timothée’s Oscars record to Rani's candid admission",
-    "desc": "On January 22, 2026, the entertainment world was buzzing with excitement as Timothée Chalamet and Emma Stone made waves at the Oscars, marking significant milestones in their careers. In a show of solidarity, veteran actor Kanwarjit Paintal supported Deepika Padukone's push for more humane working hours while Jaaved Jaaferi weighed in on AR Rahman's recent comments about the industry.",
-    "img": "https://static.toiimg.com/photo/msid-127190389,imgsize-33714.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/top-5-entertainment-news-from-timothe-chalamets-oscars-record-to-rani-mukerjis-candid-admission-here-are-the-top-buzzing-stories-of-the-day/articleshow/127190389.cms",
-    "time": "2026-01-22T19:28:15.000Z"
   },
   {
     "cat": "Business",
@@ -459,15 +585,6 @@ const newsData_en = [
     "time": "2026-01-22T18:58:44.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rani calls her daughter 'reincarnation' of Yash Chopra",
-    "desc": "As Rani Mukerji commemorates three decades in the film industry, she sheds light on her husband, Aditya Chopra's unpretentious personality, noting how he has never viewed his father's illustrious legacy as a weight to bear. In a heartfelt moment, she described their daughter Adira as possibly a reincarnation of the legendary Yash Chopra, commending her budding flair for storytelling.",
-    "img": "https://static.toiimg.com/photo/msid-127187483,imgsize-38562.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rani-mukerji-calls-her-daughter-adira-reincarnation-of-yash-chopra-says-husband-aditya-chopra-avoided-legacy-baggage/articleshow/127187483.cms",
-    "time": "2026-01-22T18:51:30.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Government tells missions to push exports",
     "desc": "Indian missions are being instructed by the PMO and commerce department to prioritize trade engagement with all countries, regardless of current export size. This strategic shift aims to diversify India's export basket and import sources, with embassies tasked with identifying and pursuing opportunities in markets of all scales to build future growth.",
@@ -495,15 +612,6 @@ const newsData_en = [
     "time": "2026-01-22T18:32:40.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Gag order issued in Kumar Sanu’s Rs 50 crore defamation suit",
-    "desc": "The Bombay High Court on Wednesday granted interim relief to Bollywood playback singer Kumar Sanu in his Rs 50 crore defamation suit against his ex-wife Rita Bhattacharya. Justice Milind Jadhav passed a gag order restraining Bhattacharya and certain independent media houses from writing, speaking, posting or publishing any allegedly defamatory, false or slanderous statements about the singer or his family across any platform.",
-    "img": "https://static.toiimg.com/photo/msid-127185880,imgsize-53136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rs-50-crore-defamation-case-kumar-sanu-gets-interim-relief-as-bombay-high-court-issues-gag-order-against-ex-wife-rita-bhattacharya/articleshow/127185536.cms",
-    "time": "2026-01-22T18:29:48.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Mata Vaishno Devi MBBS students offered seats in govt medical colleges in Jammu &amp; Kashmir",
     "desc": "J&K Board of Professional Entrance Examinations will adjust 50 MBBS students from the derecognized SMVDIME into seven government medical colleges. These supernumerary seats will be allocated based on NEET-UG merit and student preferences. Counselling is scheduled for Saturday, with provisions for authorized representatives.",
@@ -511,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/mata-vaishno-devi-mbbs-students-offered-seats-in-govt-medical-colleges-in-jammu-kashmir/articleshow/127185353.cms",
     "time": "2026-01-22T18:25:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IMD predicts heavy snow in Jammu &amp; Kashmir this week, 232 expectant moms hospitalised in Kulgam",
-    "desc": "Heavy snowfall is expected in Kashmir Valley and Pir Panjal regions starting Friday. Two western disturbances will impact the weather for nearly a week. Authorities are preparing for the harsh winter spell. Moderate to heavy rainfall and snowfall are forecast for south and north Kashmir. High-altitude areas may receive significant snow. Farmers are advised to postpone agricultural activities.",
-    "img": "https://static.toiimg.com/photo/msid-127184900,imgsize-378772.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/imd-predicts-heavy-snow-in-jammu-kashmir-this-week-232-expectant-moms-hospitalised-in-kulgam/articleshow/127184961.cms",
-    "time": "2026-01-22T18:19:45.000Z"
   },
   {
     "cat": "Sports",
@@ -648,24 +747,6 @@ const newsData_en = [
     "time": "2026-01-22T15:22:11.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Wall Street extends rebound as Trump eases tariff stance; global equities steady",
-    "desc": "US equities climbed on Thursday, recovering losses as President Trump eased tariff threats linked to Greenland. Major indices saw gains, extending a relief rally sparked by his softer tone at the World Economic Forum. Despite the rebound, indices remain lower for the week following earlier tariff concerns.",
-    "img": "https://static.toiimg.com/photo/msid-127168842,imgsize-1464393.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-markets-today-wall-street-extends-rebound-as-trump-eases-tariff-stance-global-equities-steady/articleshow/127168774.cms",
-    "time": "2026-01-22T15:19:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rickelton, Stubbs replace injured De Zorzi &amp; Ferreira; Miller doubtful",
-    "desc": "South Africa's T20 World Cup hopes face a blow with key players Tony de Zorzi and Donovan Ferreira ruled out due to injuries. Ryan Rickelton and Tristan Stubbs have been drafted into the squad as replacements. Meanwhile, captain David Miller's participation is uncertain after an adductor injury, with Rubin Hermann on standby for the West Indies series.",
-    "img": "https://static.toiimg.com/photo/msid-127166917,imgsize-130016.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-ryan-rickelton-tristan-stubbs-replace-injured-tony-de-zorzi-donovan-ferreira-david-miller-doubtful/articleshow/127167031.cms",
-    "time": "2026-01-22T15:04:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Who has the highest batting average in Test history? Short answer: It’s not Bradman",
     "desc": "Born 105 years ago, Andy Ganteaume etched his name in cricket history with a solitary Test century for the West Indies. His debut 112 against England in 1948, in front of his home crowd, remains his only international innings. This remarkable feat propelled him to a Test batting average of 112, surpassing even Sir Don Bradman's legendary record.",
@@ -673,15 +754,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/who-has-the-highest-batting-average-in-test-history-short-answer-its-not-don-bradman/articleshow/127166701.cms",
     "time": "2026-01-22T14:58:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'If he takes off, India take off': Shastri, Pietersen backs Abhishek to dominate T20 WC",
-    "desc": "Former India coach Ravi Shastri believes young batter Abhishek Sharma is key to India's T20 World Cup success, stating, \"If he takes off, India take off.\" Ex-England star Kevin Pietersen also lauded Abhishek as a \"proper star\" and highlighted South Africa's Dewald Brevis as another impactful player for the upcoming tournament.",
-    "img": "https://static.toiimg.com/photo/msid-127166262,imgsize-109886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/if-he-takes-off-india-take-off-ravi-shastri-kevin-pietersen-backs-abhishek-sharma-to-dominate-t20-world-cup/articleshow/127165947.cms",
-    "time": "2026-01-22T14:51:21.000Z"
   },
   {
     "cat": "Sports",
@@ -709,24 +781,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-pakistan-backs-trumps-board-of-peace-intiative-at-davos/article70538684.ece",
     "time": "2026-01-22T14:26:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US economy clocks 4.4% growth in Q3; fastest pace in two years",
-    "desc": "The US economy experienced its fastest growth in two years during the July-September quarter, fueled by strong consumer spending and a surge in exports. Despite this robust GDP expansion, job creation remained subdued, and persistent concerns over the high cost of living continue to impact public confidence.",
-    "img": "https://static.toiimg.com/photo/msid-127163494,imgsize-1226237.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/consumer-spending-impact-us-economy-clocks-4-4-growth-in-q3-fastest-pace-in-two-years/articleshow/127163399.cms",
-    "time": "2026-01-22T14:19:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Taking Indian coaching to the world': Ashwin praises Ganguly's SA20 impact",
-    "desc": "Sourav Ganguly has made a remarkable debut as head coach, steering Pretoria Capitals to the SA20 final in his inaugural season. The Keshav Maharaj-led side secured their spot after a dominant win, with Dewald Brevis starring with the bat. Ganguly's leadership is drawing praise, highlighting the global potential of Indian coaches.",
-    "img": "https://static.toiimg.com/photo/msid-127160862,imgsize-1021687.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/taking-indian-coaching-to-the-world-r-ashwin-praises-sourav-gangulys-sa20-impact/articleshow/127160753.cms",
-    "time": "2026-01-22T13:55:44.000Z"
   },
   {
     "cat": "Sports",
@@ -765,15 +819,6 @@ const newsData_en = [
     "time": "2026-01-22T12:12:01.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "PCB investigates financial scam involving Babar,Rizwan; losses could exceed millions",
-    "desc": "Several prominent Pakistani cricketers, including Babar Azam and Shaheen Shah Afridi, are reportedly victims of a massive financial scam. A businessman, who had sponsored PSL franchises, allegedly fled the country after promising profits that never materialized. Players, who invested personal and family funds, now face losing millions, with total investments potentially exceeding one billion rupees.",
-    "img": "https://static.toiimg.com/photo/msid-127148720,imgsize-271190.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pcb-investigates-financial-scam-involving-babar-azam-mohammad-rizwan-losses-could-exceed-millions/articleshow/127148875.cms",
-    "time": "2026-01-22T12:02:08.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Dave Farrell on getting the band back together and finally coming to India",
     "desc": "Ahead of Linkin Park’s their long-awaited first concerts in India this weekend, veteran bassist Dave ‘Phoenix’ Farrell reflects on the band’s second life, emerging from the ashes, recruiting new faces and the long road back on tour",
@@ -792,15 +837,6 @@ const newsData_en = [
     "time": "2026-01-22T11:30:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Won't play in India': Bangladesh out of T20 World Cup? BCB remains defiant",
-    "desc": "Bangladesh Cricket Board has confirmed its non-participation in the T20 World Cup, refusing to travel to India due to the Mustafizur Rahman issue and rejected venue change requests. The BCB cited security concerns and national pride, stating they will continue to fight for their position.",
-    "img": "https://static.toiimg.com/photo/msid-127148479,imgsize-47846.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/wont-play-in-india-bangladesh-out-of-t20-world-cup-bcb-remains-defiant-despite-iccs-ultimatum/articleshow/127145672.cms",
-    "time": "2026-01-22T11:22:27.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump launches ‘Board of Peace’ at Davos",
     "desc": "A group of leaders and senior officials from 19 countries — including Mr. Trump's allies from Argentina and Hungary — gathered on stage with Mr. Trump to put their names to the founding charter of the body.",
@@ -817,33 +853,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/indigo-q3-profits-earnings-updates/article70537501.ece",
     "time": "2026-01-22T11:12:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Men's tennis leans on 38-year-old Djokovic as Sinner–Alcaraz era tightens grip",
-    "desc": "Men's tennis looks to 38-year-old Novak Djokovic to challenge the dominance of Jannik Sinner and Carlos Alcaraz. Djokovic's win at the Australian Open shows his continued ability to compete. Other top players acknowledge Sinner and Alcaraz are on another level. The hope remains that even the best can be beaten on any given day.",
-    "img": "https://static.toiimg.com/photo/msid-127144448,imgsize-117306.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/mens-tennis-leans-on-38-year-old-novak-djokovic-as-the-jannik-sinnercarlos-alcaraz-era-tightens-its-grip/articleshow/127144461.cms",
-    "time": "2026-01-22T11:00:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India, Australia beware! Pakistan tipped as dark horse for U19 WC title win",
-    "desc": "While India and Australia are favoured for the 2026 ICC Under-19 World Cup, former South Africa spinner Paul Adams highlights Pakistan as a strong contender. Pakistan's recent Under-19 Asia Cup triumph, where they convincingly defeated India, signals their formidable presence and potential to challenge traditional powerhouses in the tournament.",
-    "img": "https://static.toiimg.com/photo/msid-127139539,imgsize-61560.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/u-19-world-cup-india-australia-beware-paul-adams-names-pakistan-as-dark-horse-for-title-exclusive/articleshow/127138406.cms",
-    "time": "2026-01-22T10:10:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Chup chaap ball daal': Rohit Sharma's 'appeal' warning to India spinner",
-    "desc": "Rohit Sharma lauded Tilak Varma's composure and big-match temperament, highlighting his potential for the T20 World Cup. Sharma also humorously advised Kuldeep Yadav to focus on bowling rather than appealing excessively. Both players are crucial for India's title defense campaign.",
-    "img": "https://static.toiimg.com/photo/msid-127137891,imgsize-38166.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/chup-chaap-ball-daal-rohit-sharmas-appeal-warning-to-india-spinner/articleshow/127137404.cms",
-    "time": "2026-01-22T10:01:02.000Z"
   },
   {
     "cat": "Business",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/chennais-alternation-jazz-festival-set-to-celebrate-artists-from-the-city-on-january-31/article70529344.ece",
     "time": "2026-01-22T06:35:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee recovers 15 paise from all-time low to 91.50 against U.S. dollar in early trade",
-    "desc": "Forex traders said investors' sentiments improved after President Trump announced in Davos on January 21, 2026 that he was scrapping his planned tariffs on eight European nations in an effort to force U.S. control over Greenland",
-    "img": "https://th-i.thgim.com/public/incoming/kd09uj/article70536531.ece/alternates/LANDSCAPE_1200/iStock-1440478093%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/rupee-recovers-15-paise-from-all-time-low-to-9150-against-us-dollar-in-early-trade/article70536512.ece",
-    "time": "2026-01-22T04:58:21.000Z"
   }
 ];
