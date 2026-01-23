@@ -1,5 +1,50 @@
 const newsData_bn = [
   {
+    "cat": "Tech",
+    "title": "গুগলে কোন 'জিনিস' সার্চ করলে আপনার 'জেল' হতে পারে জানেন...? চমকাবেন উত্তরে!",
+    "desc": "বাচ্চা থেকে বুড়ো, যদি কারও কিছু জিজ্ঞাসা করার বা শেখার প্রয়োজন হয়, তারা সঙ্গে সঙ্গে গুগলে তা এক মিনিটেই সার্চ সিস্টেমের মাধ্যমে অনুসন্ধান করে নিতে পারেন। আসলে দ্রুততার জীবনে এবং প্রযুক্তির এই আধুনিক যুগে, এটি কয়েক সেকেন্ডের ব্যাপার। কিন্তু জানেন কী যেই সার্চ ইঞ্জিনটিকে এতো ভরসা করে বেস্ট বানিয়ে বসেছেন, সেই গুগলেই কিছু জিনিস অনুসন্ধান করা আপনার জন্য বিরাট ঝুঁকিপূর্ণ হতে পারে। মুহূর্তে জীবনে নেমে আসতে পারে কালো অন্ধকার।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-23-at-17.02.09-2026-01-948d0eace3d6330ebe6ca5cea7c89185-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/off-beat/google-do-you-know-what-things-if-you-search-for-on-google-can-land-you-in-jail-you-will-be-surprised-by-the-right-answer-be-alert-before-you-searching-again-on-popular-search-engine-sanj-2509852.html",
+    "time": "2026-01-23T12:22:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "রেকর্ড 'পতন' ভারতীয় মুদ্রার! বিদেশি লগ্নি প্রত্যাহার বাড়তেই এই হাল? ১ ডলার এখন কত টাকা জানেন!",
+    "desc": "ভয়াবহ ধস ভারতীয় মুদ্রার। সেনসেক্সের ৩০টি শেয়ারের মধ্যে ২৪টিই দিনের শেষে লাল চিহ্নে বন্ধ হয়েছে। আদানি পোর্টস, ইটারনাল, ইন্ডিগো, অ্যাক্সিস ব্যাঙ্ক এবং পাওয়ারগ্রিডের মতো শেয়ারে সর্বাধিক বিক্রি দেখা যায়, কোনও কোনও ক্ষেত্রে পতন হয়েছে সর্বোচ্চ ৭.৫২ শতাংশ পর্যন্ত।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/pf-2026-01-36a57cb105d5e1d7820323474510353f-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/indian-rupee-hits-record-low-of-91-point-97-against-us-dollar-amid-fpi-outflows-usd-inr-exchange-rate-sensex-decline-today-tib-ws-el-2509850.html",
+    "time": "2026-01-23T12:20:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "টানা পাঁচ দিন বন্ধ ব্যাঙ্ক, চরম হয়রানির আশঙ্কা! দেখুন ভিডিও",
+    "desc": "মাসের শেষে টানা ব্যাঙ্ক বন্ধে হয়রানির আশঙ্কা৷ আজ, শুক্রবার থেকে টানা পাঁচ দিন বন্ধ থাকবে ব্যাঙ্ক৷ আজ ২৩ জানুয়ারি নেতাজি সুভাষচন্দ্র বসুর জন্মদিন এবং সরস্বতী পুজো উপলক্ষে বন্ধ থাকবে ব্যাঙ্ক৷ শনি, রবিবার ব্যাঙ্কের সাপ্তাহিক ছুটি থাকবে৷ সোমবার ২৬ জানুয়ারি প্রজাতন্ত্র দিবসের ছুটিতে ব্যাঙ্ক বন্ধ৷ এর পর মঙ্গলবার ২৭ জানুয়ারি দেশজুড়ে ব্যাঙ্ক ধর্মঘটের ডাক দেওয়া হয়েছে৷ মঙ্গলবার এটিএম-ও বন্ধ থাকার কথা৷ ফলে পাঁচ দিন ধরে চরম হয়রানির মুখে পড়তে চলেছেন সাধারণ মানুষ৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1768741241_1768552694_Bank-Employees-to-Go-on-Nationwide-Strike-on-January-27-Banks-to-Remain-Closed-for-4-Consecutive-Days-2-2026-01-edc35574fbbcdbce8b1a8c5993a4f409-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/business/banks-to-remain-closed-for-five-days-customers-to-face-harassment-dmg-2509847.html",
+    "time": "2026-01-23T11:58:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বছরে পাঁচটি 'কেস' খেলেই বাতিল হবে বাইক-গাড়ির ড্রাইভিং লাইসেন্স? ট্রাফিক আইন আরও কড়া করল কেন্দ্র",
+    "desc": "নতুন বছরে ট্র্যাফিক আইন আরও কড়া করতে চলেছে কেন্দ্র। এবার বছরে পাঁচ বা তার বেশিবার ট্র্যাফিক আইন ভাঙলে চালকের ড্রাইভিং লাইসেন্স সাময়িকভাবে বাতিল হতে পারে। এমনই বিধান কার্যকর হতে চলেছে সদ্য সংশোধিত মোটর ভেহিকেল রুলসে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/kolkata-201-2026-01-40b802090a4dde160c295ae4fb75cc23-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/new-traffic-rules-more-strict-now-if-you-have-booked-for-5-cases-in-one-year-your-licence-can-be-invalid-or-suspended-now-more-details-smc-2509720.html",
+    "time": "2026-01-23T11:12:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "তৈরি নিম্নচাপ, আসছে ঝঞ্ঝা...! ২৩, ২৪, ২৫, ২৬, ২৭ জানুয়ারি ভারী বৃষ্টি, ঝড় কাঁপাবে ৯ রাজ্য, শীত-শিলাবৃষ্টির কামড় কোন কোন রাজ্যে? কী হবে বাংলায়? জানিয়ে দিল IMD",
+    "desc": "বৃষ্টি ও ঠান্ডার সাঁড়াশি আক্রমণ আসতে চলেছে দেশ জুড়ে? আবহাওয়া দফতর ইতিমধ্যেই একটি সতর্কতা জারি করেছে। আবহাওয়া দফতরের মতে, আগামী ৫ দিন দেশের বিভিন্ন রাজ্যে বজ্রপাত ও বৃষ্টিপাতের আশঙ্কা রয়েছে বলে ইঙ্গিত আইএমডি-র। এর ফলে ঠান্ডা আগামী কয়েকদিনে আরও কয়েকগুন বাড়বে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/11/sanj-2025-11-09T213911.398-2025-11-69e107a8b15ace413363cfb74167ee72-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-23-24-25-26-27-january-heavy-rainfall-alert-along-with-thunderstorm-and-lightning-in-9-states-hailstorm-and-coldwave-to-hit-several-know-latest-west-bengal-weather-sanj-2509644.html",
+    "time": "2026-01-23T09:33:50.000Z"
+  },
+  {
     "cat": "Business",
     "title": "বন্ধন ব্যাঙ্কের মোট ব্যবসা ১১ শতাংশ বেড়ে ৩ লক্ষ কোটিরও বেশি, তৃতীয় ত্রৈমাসিকের রিপোর্ট কী বলছে, দেখে নিন",
     "desc": "অর্থবর্ষ ২০২৫‑২৬ ‑এর তৃতীয় ত্রৈমাসিকে বন্ধন ব্যাঙ্কের মোট ব্যবসা ১১% বৃদ্ধি পেয়েছে ৷ মোট আমানত এক বছরে ১১% বৃদ্ধি পেয়ে দাঁড়িয়েছে ৷ যা ১.৫৭ লক্ষ কোটি টাকা ৷ মোট আমানতের মধ্যে খুচরো আমানতের অংশ ৭২% ৷ CRAR অনুপাত দাঁড়িয়েছে ১৭.৮% ৷ মোট ঋণ পোর্টফোলিও এক বছরে প্রায় ১০% বৃদ্ধি পেয়ে হয়েছে ১.৪৫ লক্ষ কোটি টাকা ৷",
@@ -853,50 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/west-bengal/narendra-modi-amrit-bharat-express-will-connect-howrah-to-delhi-via-kashi-viswanath-temple-sta-2500632.html",
     "time": "2026-01-17T05:03:09.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "'এবার আমার ভেনেজুয়েলাকে খুব ভাল লাগছে! আমরা তেল নেব’ বললেন ডোনাল্ড ট্রাম্প, অন্তর্বর্তী সরকারের সঙ্গে দারুণ সম্পর্কের দাবি!",
-    "desc": "সামরিক আক্রমণের সুর থেকে সরে এসে ভেনেজুয়েলার অন্তর্বর্তী সরকারের সঙ্গে কাজ করা, দেশটিকে ‘চমৎকার’ বলে উল্লেখ করা এবং বিপুল পরিমাণ তেল গ্রহণে সম্মতির বার্তা—সব মিলিয়ে নোবেল পদক হাতে পাওয়ার পর ভেনেজুয়েলা নীতি নিয়ে ট্রাম্পের অবস্থানে স্পষ্ট পরিবর্তনের ইঙ্গিত মিলছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/trump-2026-01-299293d4b9a2893b342bc059db7a3aa4-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/now-i-like-venezuela-very-much-donald-trump-hints-at-changing-stance-on-venezuela-policy-after-getting-nobel-prize-tib-ws-l-2500519.html",
-    "time": "2026-01-17T02:59:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "নয়া ট্রেন্ডে গা ভাসিয়ে, ১০ বছর আগের ছবি শেয়ার করে 'নস্টালজিক' আলিয়া,২০১৬ কেমন কেটেছিল রণবীর-ঘরনীর? দেখুন ছবি",
-    "desc": "একটা নতুন ট্রেন্ড এসেছে! ইনস্টাগ্রাম ফিড-এ সবাই ১০ বছর আগের অর্থাৎ ২০১৬-র নানা মুহূর্তের ছবি শেয়ার করছেন! এই ট্রেন্ডকে বলা হচ্ছে, '2026 is the new 2016'! নতুনের অজুহাতে পুরনো স্মৃতির অলিগলিতে খানিক ঘুরে বেড়ানো আর কী",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Untitled-2026-01-e973b5f1602e170c77acca97e146e027-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/2026-is-the-new-2016-alia-bhatt-joins-the-2026-is-the-new-2016-trend-with-throwback-pics-rm-2500447.html",
-    "time": "2026-01-16T17:55:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "স্বামীর বন্ধুর সঙ্গেই প্রেমে মজেছেন আরতি, বীরেন্দ্র সেহওয়াগের ডিভোর্সের গোপন কাহিনিতে জড়িয়ে বিতর্কিত নাম",
-    "desc": "আরতি আহলাওয়াত শেওয়াগের সঙ্গে প্রতারণা করছেন এবং বীরেন্দ্র শেওয়াগের ঘনিষ্ঠ বন্ধুদের একজনের সঙ্গে সম্পর্কে জড়িয়ে পড়েছেন। তবে, ২০২৬ সালের জানুয়ারিতে পাওয়া সর্বশেষ যাচাইকৃত প্রতিবেদন অনুসারে, এই দাবিগুলিকে সমর্থন করার জন্য কোনও বিশ্বাসযোগ্য প্রমাণ বা নিশ্চিত খবর নেই।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Virendra-Shewag-and-Aarti-6-2026-01-dc1a23af165742bd7982f146ca865c8c-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/love-is-love-virender-sehwag-s-wife-had-affair-with-his-best-friend-read-to-know-the-truth-dd-2498971.html",
-    "time": "2026-01-16T15:19:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "সচিন,সৌরভ থেকে ধোনি কিংবা সূর্যকুমার যাদব! যে ১০ ভারতীয় তারকা ক্রিকেটার কখনও অনূর্ধ্ব-১৯ বিশ্বকাপ খেলেননি",
-    "desc": "অনূর্ধ্ব-১৯ বিশ্বকাপ সাধারণত ভারতীয় ক্রিকেটে সাফল্যের প্রথম সিঁড়ি হিসেবে ধরা হয়। কিন্তু এমন অনেক কিংবদন্তি ক্রিকেটার রয়েছেন, যাঁরা এই টুর্নামেন্ট না খেলেও বিশ্ব ক্রিকেটে রাজত্ব করেছেন। এই তালিকায় সচিন, গাঙ্গুলি, ধোনি, দ্রাবিড়, সূর্যকুমার যাদব ও হার্দিক পাণ্ডিয়ার মতো বড় নাম রয়েছে, যাঁরা কখনও অনূর্ধ্ব-১৯ বিশ্বকাপ খেলেননি। তবুও নিজেদের কঠোর পরিশ্রমের জোরে তাঁরা টিম ইন্ডিয়ার ‘ম্যাচ উইনার’ হয়ে উঠেছেন।এই প্রবন্ধে আমরা এমন ১০ জন ভারতীয় ক্রিকেটারের কথা জানব, যাঁরা জুনিয়র স্তরে বিশ্বকাপ না খেলেও আন্তর্জাতিক ক্রিকেটে নিজেদের আলাদা পরিচয় গড়ে তুলেছেন এবং আজ কোটি কোটি ভক্তের হৃদয়ে রাজত্ব করছেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1768574896_ms-dhoni-surya-hardik-pandya-2026-01-85cfc6f8fa2b97a3219c172a4f37dca7-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/10-indian-cricketers-ms-dhoni-sachin-tendulkar-sourav-ganguyl-hardik-pandya-suryakumar-yadav-who-never-played-under-19-world-cup-smc-2500286.html",
-    "time": "2026-01-16T15:09:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "৮ লক্ষ টাকা থেকে ১৫ লক্ষ টাকা পর্যন্ত করযোগ্য আয়! পুরনো আয়কর ব্যবস্থা ভাল না কি নতুন?",
-    "desc": "নতুন আয়কর ব্যবস্থা মধ্যবিত্ত শ্রেণীর জন্য কর উল্লেখযোগ্যভাবে হ্রাস করেছে, যার ফলে তাদের ভোগ, সঞ্চয় এবং বিনিয়োগের জন্য আরও অর্থ হাতে রাখার সুযোগ রয়েছে। তবে, কোন ব্যবস্থাটি লাভজনক তা শেষ পর্যন্ত নির্ভর করে একজন ব্যক্তির আর্থিক পরিস্থিতি এবং তার জন্য উপলব্ধ ছাড়ের উপরে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/income-tax-2026-01-4494452db8c67ce461f6364936f804c1-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/new-income-tax-system-reveals-tax-reduction-for-middle-class-rmj-aa-ws-l-2499629.html",
-    "time": "2026-01-16T14:22:28.000Z"
   }
 ];

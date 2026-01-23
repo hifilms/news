@@ -1,12 +1,48 @@
 const newsData_gu = [
   {
-    "cat": "Politics",
-    "title": "તારીખની જાહેરાત ! આ દિવસે ખુલશે ચારધામમાંથી એક બદ્રીનાથ ધામના કપાટ, જાણો ક્યારથી શરૂ થશે યાત્રા",
-    "desc": "ઉત્તરાખંડના સૌથી મોટા આસ્થા કેન્દ્ર ગણાતા બદ્રીનાથ ધામના દરવાજા ખોલવાની તારીખ જાહેર કરવામાં આવી છે. વસંત પંચમીના શુભ પ્રસંગે, તેહરી જિલ્લાના નરેન્દ્ર નગર સ્થિત રાજવી દરબારમાં શાસ્ત્રો અને પંચાંગ ગણતરીઓ પછી, બદ્રીનાથ ધામના દરવાજા ખોલવાની તારીખ જાહેર કરવામાં આવી છે.",
+    "cat": "Entertainment",
+    "title": "આ વિકેન્ડમાં ઓટીટી પર રિલીઝ થશે બ્લોકબસ્ટર ફિલ્મો, જોવા મળશે ઈશ્ક અને એકશન એકસાથે",
+    "desc": "આ વિકેન્ડ જાન્યુઆરી મહિનાનું લોન્ગ વીકેન્ડ છે કારણ કે આ વખતે શનિ-રવિ સાથે સોમવારે પણ રજા આવી રહી છે. જો આ રજાઓમાં તમે ઘર બેઠા મનોરંજન મેળવવા માંગો છો તો ફટાફટ ચેક કરી લો ઓટીટી પર રિલીઝ થનારી દમદાર ફિલ્મોનું લિસ્ટ. આ ફિલ્મો તમારી રજાની મજા બમણી કરી દેશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/the-doors-of-badrinath-dham-will-open-on-this-date-know-when-the-yatra-will-start-462643 ",
-    "time": "2026-01-23T09:09:18.000Z"
+    "url": " http://zeenews.india.com/gujarati/entertainment/ott-release-january-2026-last-week-hindi-block-buster-film-watch-on-ott-this-weekend-462662 ",
+    "time": "2026-01-23T11:53:29.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "હવે ઇલેક્ટ્રિક વાહનોમાંથી પણ આવશે એન્જિનનો અવાજ, સરકાર લાવી રહી છે નવો નિયમ",
+    "desc": "આર્ટિફિશિયલ વ્હીકલ એલર્ટિંગ સિસ્ટમ (AVAS) એક એવી ટેકનોલોજી છે, જે ઇલેક્ટ્રિક વાહન જ્યારે ધીમી ગતિએ ચાલતું હોય ત્યારે એક આર્ટિફિશિયલ અવાજ પેદા કરે છે. આ નિયમ ટુ-વ્હીલર, થ્રી-વ્હીલર અને ફોર-વ્હીલર એમ તમામ શ્રેણીના ઇલેક્ટ્રિક વાહનો પર સમાન રીતે લાગુ થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/electric-vehicles-avas-system-mandatory-india-2026-pedestrian-safety-462661 ",
+    "time": "2026-01-23T11:52:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "28 જાન્યુઆરીએ ખુલી રહ્યો છે આ IPO, પ્રાઇસ બેન્ડ છે 123, ગ્રે માર્કેટ અત્યારથી તેજી !",
+    "desc": "IPOનું કુલ કદ 54 લાખ શેરનું છે, જેની કિંમત 62.64 રૂપિયાથી 66.42 કરોડ રૂપિયાની વચ્ચે છે. આ IPO BSE SME પ્લેટફોર્મ પર લિસ્ટેડ થશે. રોકાણકારો માટે લોટ સાઈઝ 1,000 શેર છે, અને ઓછામાં ઓછું રોકાણ લગભગ 1.23 લાખ રૂપિયાથી શરૂ થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/this-ipo-is-opening-on-january-28-price-band-is-rs-123-grey-market-is-booming-from-now-on-462659 ",
+    "time": "2026-01-23T11:35:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "બાંગ્લાદેશ ટુર્નામેન્ટમાંથી બહાર, જાણો હવે કઈ ટીમ લેશે સ્થાન અને શું બદલાશે શેડ્યૂલ?",
+    "desc": "ICC ટી20 વર્લ્ડ કપ 2026ની પહેલી મેચ 7 ફેબ્રુઆરીએ યોજાવાની છે. આ પહેલા બાંગ્લાદેશની ટીમ ટુર્નામેન્ટમાંથી બહાર થઈ ગઈ છે. હવે પ્રશ્ન એ છે કે શું ટુર્નામેન્ટના શેડ્યૂલમાં કોઈ ફેરફાર કરવામાં આવશે કે પછી મેચો નિર્ધારિત સમય અને તારીખે રમાશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/icc-t20-world-cup-2026-schedule-bangladesh-out-scotland-entry-schedule-updates-462657 ",
+    "time": "2026-01-23T11:23:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "હાઈ લા! ગણતરીના કલાકોમાં 40 વર્ષ જૂનો લોખંડનો મજબૂત પુલ ગાયબ થઈ ગયો, તપાસમાં ચોંકાવનારો ખુલાસો",
+    "desc": "સામાન્ય રીતે કોઈના ઘરમાંથી સોનું ચોરાય, ચાંદી કે અન્ય વસ્તુઓની ચોરી થાય, વાહન ચોરાય, પૈસા ચોરાય પરંતુ વર્ષોથી અસ્તિત્વ ધરાવતો આખે આખો પુલ ચોરાઈ જાય એ કેવું? તમને આ જાણીને નવાઈ લાગશે પરંતુ આવું બન્યું છે. જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/shocking-heavy-iron-bridge-stolen-within-hours-in-korba-district-chhattisgarh-462650 ",
+    "time": "2026-01-23T10:11:42.000Z"
   },
   {
     "cat": "Tech",
@@ -15,7 +51,16 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/5-cars-under-rs-6-lakh-for-max-mileage-perfect-for-city-driving-462641 ",
-    "time": "2026-01-23T09:07:45.000Z"
+    "time": "2026-01-23T09:41:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "તારીખની જાહેરાત ! આ દિવસે ખુલશે ચારધામમાંથી એક બદ્રીનાથ ધામના કપાટ, જાણો ક્યારથી શરૂ થશે યાત્રા",
+    "desc": "ઉત્તરાખંડના સૌથી મોટા આસ્થા કેન્દ્ર ગણાતા બદ્રીનાથ ધામના દરવાજા ખોલવાની તારીખ જાહેર કરવામાં આવી છે. વસંત પંચમીના શુભ પ્રસંગે, તેહરી જિલ્લાના નરેન્દ્ર નગર સ્થિત રાજવી દરબારમાં શાસ્ત્રો અને પંચાંગ ગણતરીઓ પછી, બદ્રીનાથ ધામના દરવાજા ખોલવાની તારીખ જાહેર કરવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/the-doors-of-badrinath-dham-will-open-on-this-date-know-when-the-yatra-will-start-462643 ",
+    "time": "2026-01-23T09:09:18.000Z"
   },
   {
     "cat": "Tech",
@@ -279,15 +324,6 @@ const newsData_gu = [
     "time": "2026-01-21T06:20:30.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સોના અને ચાંદીના ભાવમાં ભારે ઉછાળો, ગોલ્ડ 154628 રૂપિયા અને ચાંદી 325326 પર પહોંચી",
-    "desc": "સવારે 9:30 વાગ્યે, MCX પર ફેબ્રુઆરીના સોનાના વાયદા બજાર 1,54,628 રૂપિયા પ્રતિ 10 ગ્રામના નવા રેકોર્ડ સ્તરે પહોંચ્યા હતા. આ દરમિયાન, માર્ચ મહિનામાં ચાંદીના વાયદા પણ 0.51% વધીને 3,25,326 રૂપિયા પ્રતિ કિલોગ્રામ પર ટ્રેડ થઈ રહ્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-surge-gold-reaches-rs-154628-and-silver-reaches-rs-325326-462378 ",
-    "time": "2026-01-21T05:58:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "2 વર્ષ બાદ ઈશાન કિશનની T20માં થશે વાપસી, કેપ્ટને કર્યું કન્ફર્મ... આ ખેલાડી થશે બહાર",
     "desc": "ન્યૂઝીલેન્ડ સામેની પહેલી T20 માટે ઈશાન કિશનની ભારતીય ટીમમાં વાપસી થશે અને ત્રીજા નંબરે બેટિંગ કરશે. કેપ્ટન સૂર્યકુમાર યાદવે સ્પષ્ટ કર્યું કે તિલક વર્માની ગેરહાજરીમાં ઈશાન શ્રેષ્ઠ વિકલ્પ છે. ઘરેલુ ક્રિકેટમાં પોતાના પ્રભાવશાળી પ્રદર્શનને કારણે ઈશાને ભારતીય ટીમમાં પોતાનું સ્થાન ફરીથી સ્થાપિત કર્યું છે.",
@@ -297,15 +333,6 @@ const newsData_gu = [
     "time": "2026-01-21T05:37:43.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ટેરિફ ગેમમાં ફસાયેલા રહ્યા ટ્રમ્પ, ભારતે કરી નાખ્યો ખેલ... થવા જઈ રહી છે સૌથી મોટી ડીલ!",
-    "desc": "ડોનાલ્ડ ટ્રમ્પ ટેરિફ બોમ્બ ફોડવામાં વ્યસ્ત છે, ત્યારે ભારત સતત નવા વેપાર કરારો પૂર્ણ કરવા માટે કામ કરી રહ્યું છે. હવે, ભારત-EU FTA અંગે નોંધપાત્ર સંકેતો બહાર આવ્યા છે, જેમાં યુરોપિયન યુનિયનના પ્રમુખ ઉર્સુલા વોન ડેર લેયેને તેને અત્યાર સુધીનો સૌથી મોટો સોદો ગણાવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/trump-remains-trapped-in-the-tariff-game-india-has-played-the-game-the-biggest-deal-is-about-to-happen-462374 ",
-    "time": "2026-01-21T05:09:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "કંગના રનૌતે વર્ષ 2016 ને કહ્યું નરક જેવું... 10 વર્ષ પછી ફરી &amp;#039;સિલી એક્સ&amp;#039; ઋત્વિક સાથેના વિવાદને છંછેડ્યો",
     "desc": "બોલીવુડ ક્વીન કંગના રનૌતે પણ વર્ષ 2016 નો ટ્રેંડ ફોલો કર્યો છે. જો કે કંગના કોઈ ટ્રેંડ ફોલો કરે અને તેની ચર્ચા ન થાય તેવું શક્ય નથી. કંગનાએ વર્ષ 2016 ના ફોટો શેર કરી ખળભળાટ મચાવી દીધો છે. કારણ કે આ સમયે એવો હતો જ્યારે તેના અને ઋત્વિક રોશનના અફેરની ચર્ચાઓ ચરમસીમાએ હતી.",
@@ -313,15 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/kangana-ranaut-posted-2016-photos-said-life-was-hell-called-hrithik-roshan-was-a-silly-ex-462363 ",
     "time": "2026-01-21T03:44:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ખાલી ગાળથી SC/ST એક્ટ નહીં લાગે, ઇરાદો સાબિત કરવો જરૂરી... સુપ્રીમ કોર્ટનો મોટો ચુકાદો",
-    "desc": "કોર્ટે જણાવ્યું હતું કે ફરિયાદીનું જાતિના આધારે અપમાન કરવાનો સ્પષ્ટ ઇરાદો હોવો જોઈએ. પટના હાઈકોર્ટના નિર્ણયને પડકારતા, સુપ્રીમ કોર્ટે આ કેસમાં FIR અને ચાર્જશીટમાં જાતિ આધારિત અપમાનનો અભાવ હોવા પર ભાર મૂક્યો હતો. SC/ST કાયદાની કલમ 3(1)ની જોગવાઈઓનો પુનરોચ્ચાર કરતા, કોર્ટે જણાવ્યું હતું કે ફક્ત અપમાનજનક ભાષાનો ઉપયોગ ગુનો નથી બનતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/sc-st-act-will-not-apply-just-by-swearing-intention-must-be-proven-supreme-court-big-decision-462314 ",
-    "time": "2026-01-20T12:51:58.000Z"
   },
   {
     "cat": "Sports",
@@ -484,23 +502,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/jio-has-launched-a-plan-that-will-make-you-forget-about-recharging-and-it-also-includes-free-data-and-ott-subscriptions-461718 ",
     "time": "2026-01-15T04:33:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "44 વર્ષીય અભિનેત્રીને એનિવર્સરી પર પતિ આપ્યા ડિવોર્સ પેપર્સ, પહેલીવાર શેર કરી દુઃખ ભરી લાઈફ સ્ટોરી",
-    "desc": "બોલીવુડ અભિનેત્રી સેલિના જેટલીએ ઈંસ્ટાગ્રામ પર એક પોસ્ટ શેર કરી પોતાની દુ:ખ ભરી લાઈફ સ્ટોરી વિશે જણાવ્યું છે. તેણે જણાવ્યું કે તેના પતિએ એનીવર્સરી પર ગિફ્ટમાં ડિવોર્સ નોટિસ ફટકારી હતી. સાથે જ જણાવ્યું કે તેને ઓસ્ટ્રિયાથી બહાર નીકળવા પાડોશીઓની મદદ લેવી પડી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/husband-gave-divorce-papers-on-anniversary-first-time-celina-jaitley-shared-painful-life-story-461630 ",
-    "time": "2026-01-14T03:03:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "શું તમારા આધાર કાર્ડ પર કોઈ વ્યક્તિએ તો નથી લઈ લીધીને લોન ? મોબાઈલથી મીનિટમાં કરો ચેક, અવગણશો તો થઈ શકે છે મોટું નુકસાન",
-    "desc": "ડિજિટલ સુવિધાના આ યુગમાં, આધાર કાર્ડ આપણી ઓળખનો સૌથી મહત્વપૂર્ણ દસ્તાવેજ બની ગયો છે. બેંકિંગથી લઈને મોબાઈલ કનેક્શન અને સરકારી સેવાઓ સુધી, તે દરેક જગ્યાએ જરૂરી છે. પરંતુ જેમ જેમ આધારનો ઉપયોગ ઝડપથી વધ્યો છે, તેમ તેમ દુરુપયોગના કિસ્સાઓ પણ એટલી જ ઝડપી ગતિએ સામે આવી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/has-someone-taken-a-loan-on-your-aadhaar-card-check-in-minutes-from-your-mobile-461496 ",
-    "time": "2026-01-12T15:45:27.000Z"
   }
 ];
