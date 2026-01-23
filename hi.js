@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'I've got plenty more to give': David Warner signs one-year extension with Sydney Thunder",
+    "desc": "In a major development for the BBL (Big Bash League) franchise Sydney Thunder, former Australian international David Warner has signed a one-year extension with the franchise after his stellar performances in the ongoing BBL season....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/i-ve-got-plenty-more-to-give-david-warner-signs-one-year-extension-with-sydney-thunder-2026-01-23-1027119",
+    "time": "2026-01-23T03:00:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Got to watch out for him': Ravi Shastri heaps massive praise on star India batter ahead of T20 World Cup 2026",
+    "desc": "The stage is set for the T20 World Cup 2026. The marquee tournament is all set to be co-hosted by India and Sri Lanka and is slated to kick off on February 7. With the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/got-to-watch-out-for-him-ravi-shastri-heaps-massive-praise-on-star-india-batter-ahead-of-t20-world-cup-2026-2026-01-23-1027116",
+    "time": "2026-01-23T02:37:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Paarl Royals eliminate Joburg Super Kings out of SA20, set up Qualifier clash with Sunrisers Eastern Cape",
+    "desc": "The Eliminator clash of the ongoing SA20 2025 saw Paarl Royals taking on Joburg Super Kings. The two sides locked horns at the SuperSport Park, Centurion, on January 22, and the clash saw Royals coming...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/paarl-royals-eliminate-joburg-super-kings-out-of-sa20-set-up-qualifier-clash-with-sunrisers-eastern-cape-2026-01-23-1027110",
+    "time": "2026-01-23T01:29:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How will surface at SVNS International Stadium in Raipur play?",
     "desc": "India defeated New Zealand by 48 runs in the first T20I of the five-match series. It was once again Abhishek Sharma who stole the show with his blistering batting, smacking 84 runs off 35 balls....",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-boycott-t20-world-cup-2026-in-india-icc-name-replacement-2026-01-22-1027037",
     "time": "2026-01-22T11:02:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Novak Djokovic chases major Grand Slam record after beating Francesco Maestrelli in Australia Open",
-    "desc": "Novak Djokovic continued his measured march through the Australian Open on Thursday, moving into the third round with a straight-sets victory that mixed near-flawless control with a brief, rare lapse. The Serbian defeated Francesco Maestrelli...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-chases-major-grand-slam-record-after-beating-francesco-maestrelli-in-australia-open-2026-01-22-1027027",
-    "time": "2026-01-22T10:25:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Fixing allegation hit Bangladesh cricket again, after Sylhet Titans advisor claims BPL 'match was sold'",
-    "desc": "The Bangladesh Premier League (BPL) was thrust back into controversy after a senior figure from one of its teams publicly alleged match-fixing, just hours after a decisive playoff defeat ended the franchise’s campaign. The accusation came...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/fixing-allegation-hit-bangladesh-cricket-again-after-sylhet-titans-advisor-claims-bpl-match-was-sold-2026-01-22-1027017",
-    "time": "2026-01-22T09:47:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill flops miserably in Ranji return against Saurashtra, Sarfaraz Khan stars",
-    "desc": "India captain Shubman Gill failed to establish his authority against Saurashtra in the Ranji Trophy clash at Niranjan Shah Stadium Ground C in Rajkot. After being dropped from the T20I squad, the 26-year-old returned to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-flops-miserably-in-ranji-return-against-saurashtra-sarfaraz-khan-stars-2026-01-22-1027014",
-    "time": "2026-01-22T09:29:11.000Z"
   }
 ];

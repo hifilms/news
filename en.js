@@ -1,5 +1,131 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "Nifty50, BSE Sensex flat; earnings season in focus",
+    "desc": "Indian equity benchmarks, Nifty50 and BSE Sensex, opened flat in trade on Friday. While Nifty50 was near 25,250, BSE Sensex was down 50 points. At 9:17 AM, Nifty50 was trading at 25,263.15, down 27 points or 0.11%.",
+    "img": "https://static.toiimg.com/photo/msid-127227035,imgsize-110334.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-january-23-2026-dalal-street-indian-equities-global-markets-donald-trump-tariffs-greenland/articleshow/127226875.cms",
+    "time": "2026-01-23T03:49:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Elle’ OTT release date and where to watch",
+    "desc": "Fans of Elle Woods rejoice! A prequel series, 'Elle,' is set to explore the iconic character's high school years before her Harvard Law journey. Premiering July 1 on Prime Video, the show promises a nostalgic yet fresh look at Elle's defining moments. The streamer has already greenlit a second season, showcasing strong confidence in the project.",
+    "img": "https://static.toiimg.com/photo/msid-127227869,imgsize-26222.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/legally-blonde-prequel-series-all-about-elle-ott-release-date-and-where-to-watch/articleshow/127227869.cms",
+    "time": "2026-01-23T03:36:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Where to watch this years Oscar nomination films",
+    "desc": "The 2026 Oscar nominations are out, with 'Sinners' leading with 16 nods. Timothée Chalamet makes history as the youngest with three acting nominations. This year celebrates numerous firsts across diverse films like 'One Battle After Another' and 'Marty Supreme'. Audiences can find these acclaimed movies on platforms like HBO Max, Prime Video, and Netflix.",
+    "img": "https://static.toiimg.com/photo/msid-127226649,imgsize-34158.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/where-to-watch-2026-oscar-nominated-films-from-sinners-to-kpop-demon-hunters/articleshow/127226649.cms",
+    "time": "2026-01-23T03:29:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sunny Deol rubbishes 'Border 2' delay buzz",
+    "desc": "Amidst rumors of 'Border 2' facing release day delays, lead actor Sunny Deol shared a cheerful behind-the-scenes video, assuring fans of a smooth premiere. While some reports cited potential technical issues with film delivery, trade sources have dismissed these concerns, confirming the war drama is set to release as scheduled.",
+    "img": "https://static.toiimg.com/photo/msid-127227184,imgsize-25452.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-sunny-deol-celebrates-release-amid-delay-and-cancellation-buzz-actor-says-no-worries-no-stress-watch/articleshow/127223239.cms",
+    "time": "2026-01-23T03:26:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All the ‘great’ films The Academy snubbed",
+    "desc": "The buzz surrounding the 98th Academy Awards reached a fever pitch as film enthusiasts took to social media to lament the omission of noteworthy titles. Despite nominations for 'Sinners' and 'Hamnet,' the Academy snubbed impactful works like 'Materialists,' 'Die My Love,' and 'Eddington.",
+    "img": "https://static.toiimg.com/photo/msid-127225035,imgsize-47210.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/2026-oscar-30-great-movies-that-got-snubbed-materialists-to-roofman-movies-that-got-overlooked/articleshow/127224478.cms",
+    "time": "2026-01-23T02:59:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘They didn’t ask’ — Bangladesh cricketers on what happened in the meeting",
+    "desc": "Bangladesh's participation in the ICC T20 World Cup 2026 is in jeopardy as the national team refused to travel to India due to security concerns. Despite players' willingness to play, the government has decided against it, citing the ICC's failure to address their grievances. Scotland is reportedly being considered as a replacement.",
+    "img": "https://static.toiimg.com/photo/msid-127224643,imgsize-77300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/world-cup-dream-ends-they-didnt-ask-bangladesh-cricketers-reveal-what-happened-in-the-meeting/articleshow/127224208.cms",
+    "time": "2026-01-23T02:55:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Srinagar snowfall disrupts flight services; IndiGo issues advisory",
+    "desc": "In an advisory to passengers, the airline said the suspension could lead to extended wait times, both onboard aircraft and at the airport, as weather conditions continued to affect operations. It added that boarding formalities may be completed in advance so that flights can depart immediately once clearance is granted.",
+    "img": "https://static.toiimg.com/photo/msid-127223088,imgsize-39276.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/srinagar-snowfall-disrupts-flight-services-indigo-issues-advisory/articleshow/127222033.cms",
+    "time": "2026-01-23T02:36:34.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Markets rise as US-EU ties ease; HSI jumps 150 points, Kospi flat",
+    "desc": "Asian markets rose Friday, buoyed by strong US economic data and easing geopolitical tensions. Dollar weakness boosted safe-haven assets like gold and silver, while emerging markets saw significant inflows. Investor confidence returned to riskier assets amid positive US economic indicators and diplomatic progress between the US and Europe.",
+    "img": "https://static.toiimg.com/photo/msid-127222475,imgsize-172968.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-rise-as-us-eu-ties-ease-hsi-jumps-200-points-kospi-flat/articleshow/127220689.cms",
+    "time": "2026-01-23T02:33:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The human cost behind every delivery",
+    "desc": "The Union government’s directive to quick-commerce platforms to drop the concept of 10-minute deliveries owing to the excessive stress it puts delivery personnel under has been welcomed by gig workers, but they say it is just the tip of the iceberg. Low pay, inadequate incentives, poor safety measures and mistreatment at work all threaten their livelihoods, writes Harish Gilai",
+    "img": "https://th-i.thgim.com/public/incoming/os90ru/article70539495.ece/alternates/LANDSCAPE_1200/VSP22_Gig%20workers%204.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/the-human-cost-behind-every-delivery/article70539430.ece",
+    "time": "2026-01-23T01:59:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "BTS World Tour Arirang tickets SOLD OUT in hours",
+    "desc": "BTS' 'Arirang' world tour tickets vanished within hours, igniting unprecedented fan frenzy. This marks their grand return post-military service, with an expanded 81-show itinerary across continents. Industry experts predict a monumental \"billion-dollar comeback\" for the K-pop titans, fueled by concerts, merchandise, and new music.",
+    "img": "https://static.toiimg.com/photo/msid-127217203,imgsize-58326.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/bts-world-tour-arirang-tickets-sold-out-within-hours-as-k-pop-stars-gear-up-for-billion-dollar-comeback/articleshow/127217169.cms",
+    "time": "2026-01-23T01:56:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How Colin Egglesfield pulled through his cancer journey",
+    "desc": "Actor Colin Egglesfield, celebrated for his performance in 'Something Borrowed,' has emerged victorious once again, this time conquering prostate cancer—his third diagnosis. Detected early in 2024, Egglesfield opted for surgery, forgoing chemotherapy and radiation after successfully battling testicular cancer twice. His journey inspires countless individuals, as he emphasizes the importance of cherishing each moment and cultivating joy from within.",
+    "img": "https://static.toiimg.com/photo/msid-127219076,imgsize-54598.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/colin-egglesfield-opens-up-about-his-cancer-journey-the-urgency-of-life-is-always-right-now/articleshow/127218997.cms",
+    "time": "2026-01-23T01:42:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Your captain is Hindu': Ex-India cricketer warns Bangladesh over shifting T20 WC matches",
+    "desc": "Former cricketer Atul Wassan urged Bangladesh to resolve tensions with India regarding the T20 World Cup 2026, suggesting Litton Das's captaincy as a bridge. He dismissed the BCB's request to shift matches as logistically impossible and impractical, emphasizing India's robust security. The ICC confirmed matches will remain in India, despite the BCB's continued stance.",
+    "img": "https://static.toiimg.com/photo/msid-127178045,imgsize-86100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/your-captain-is-hindu-ex-india-cricketer-warns-bangladesh-over-shifting-t20-wc-matches/articleshow/127177347.cms",
+    "time": "2026-01-23T01:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "built on trust, broken by fraud",
+    "desc": "Promising high returns and low risk, Ponzi schemes are quietly draining household savings across Telangana and beyond. Behind polished apps, corporate facades and reassuring payouts lies a carefully engineered cycle of trust, timing and collapse. Lavpreet Kaur examines how such frauds flourish amid regulatory gaps",
+    "img": "https://th-i.thgim.com/public/incoming/egq7iu/article70539704.ece/alternates/LANDSCAPE_1200/Ponzi%20Deposite%20copy.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/the-ponzi-playbook-in-telangana-built-on-trust-broken-by-fraud/article70539700.ece",
+    "time": "2026-01-23T01:29:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'TTT' BO day 8: Jiiva film collects Rs 66 lakhs",
+    "desc": "Jiiva's 'Thalaivar Thambi Thalaimaiyil' shows a slight dip on Day 8, collecting Rs 66 lakhs to reach a total of Rs 19.46 crore. Despite a normal post-first-week slowdown, the film is performing well for its scale, nearing the Rs 20 crore mark. Positive audience reviews highlight its engaging narrative and humor.",
+    "img": "https://static.toiimg.com/photo/msid-127217987,imgsize-17276.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalaivar-thambi-thalaimaiyil-box-office-collections-day-8-jiiva-film-slows-a-bit-collects-rs-66-lakhs/articleshow/127217987.cms",
+    "time": "2026-01-23T01:28:42.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'Parasakthi' BO day 13: Film collects only Rs 33 lakhs",
     "desc": "Sivakarthikeyan's 'Parasakthi' experienced a significant box office dip on its 13th day, earning just Rs 33 lakhs and bringing its total to Rs 50.98 crore. Tamil Nadu occupancy remained low at 13.14 percent. Social media buzz highlights the film's powerful, thought-provoking nature, though some viewers found it slow-paced.",
@@ -79,6 +205,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/makhana-to-microchips-republic-day-to-showcase-indias-story-of-growth/articleshow/127210467.cms",
     "time": "2026-01-22T23:39:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh cite India's CT 'privilege'; accuse ICC of double standards",
+    "desc": "Bangladesh Cricket Board accuses ICC of double standards after its request to move T20 World Cup matches out of India was rejected. The BCB cited safety concerns, contrasting the ICC's past flexibility in allowing India to play the 2025 Champions Trophy at a neutral venue.",
+    "img": "https://static.toiimg.com/photo/msid-127178080,imgsize-51322.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-row-bangladesh-cite-indias-champions-trophy-privilege-accuses-icc-of-double-standards/articleshow/127176709.cms",
+    "time": "2026-01-22T23:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -342,15 +477,6 @@ const newsData_en = [
     "time": "2026-01-22T18:48:58.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Chalamet, Stone, 'Sinners' set new records",
-    "desc": "The 98th Academy Awards nominations have shattered records! Timothée Chalamet and Emma Stone achieved significant milestones, while 'Sinners' made history with a record 16 nominations. Ruth E. Carter became the most nominated Black woman, and Wagner Moura marked a first for Brazilian actors in the Best Actor category. International cinema also shone with notable nods.",
-    "img": "https://static.toiimg.com/photo/msid-127186648,imgsize-80338.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-nominations-timothee-chalamet-emma-stone-sinners-and-more-shatter-records-at-academy-awards/articleshow/127184055.cms",
-    "time": "2026-01-22T18:38:30.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "No immediate threat, but Gambhir under scrutiny",
     "desc": "Coaches are ranked on the basis of what their outfits achieve in terms of victories and silverware. In his year and a half in charge, the spunky former opener has had reasonable trysts with both these necessities, but has also courted a fair amount of failure, some of which the pundits have attributed to a lack of consistency in team selection",
@@ -396,15 +522,6 @@ const newsData_en = [
     "time": "2026-01-22T18:19:45.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Op Trashi-I Day 5: Gunfight erupts in Singhpora; searches continue",
-    "desc": "Security forces engaged in an intense gun battle with terrorists in Kishtwar's Chatroo belt, continuing Operation Trashi-I. Searches were also intensified in border areas and localities with a high concentration of foreign nationals as a precautionary measure ahead of Republic Day.",
-    "img": "https://static.toiimg.com/photo/msid-127184373,imgsize-1025476.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/op-trashi-i-day-5-gunfight-erupts-in-singhpora-searches-continue/articleshow/127184215.cms",
-    "time": "2026-01-22T18:14:24.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "WPL-4: Devine’s all-round skills to the fore as Giants wallop Warriorz",
     "desc": "The Kiwi all-rounder scores an unbeaten 50 off 42 balls to lift the Gujarat side to 153 on a slow track and follows it up with a couple of wickets; Rajeshwari runs through the lower middle-order as the UP side folds up for 108",
@@ -432,15 +549,6 @@ const newsData_en = [
     "time": "2026-01-22T17:48:52.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Timothée sets record with third acting nod",
-    "desc": "Timothée Chalamet has made waves in the film industry with his remarkable nomination trifecta for the 98th Academy Awards, thanks to his standout role as Marty Mauser in 'Marty Supreme'. At only 30, he claims the title of the youngest male actor to earn this prestigious recognition. Read on to know more.",
-    "img": "https://static.toiimg.com/photo/msid-127181168,imgsize-46512.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-timothe-chalamet-makes-history-becomes-youngest-male-actor-with-three-acting-nominations/articleshow/127181168.cms",
-    "time": "2026-01-22T17:42:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sri Lanka seal 19-run win over England in opening ODI",
     "desc": "Sri Lanka's spinners turned the screws to script a hard-fought 19-run victory over England in the opening one-day international at Colombo's R. Premadasa Stadium on Thursday. But once the 117-run stand was broken, Sri Lanka dried up the runs and England faltered with the bat, being bowled out for 252 in the final over.",
@@ -466,24 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/the-limits-of-household-stability/article70537666.ece",
     "time": "2026-01-22T17:00:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'KPop Demon Hunters' makes Oscar HISTORY with 2 noms",
-    "desc": "Netflix's 'KPop Demon Hunters' has achieved a historic Oscar double nomination for Best Animated Feature and Best Original Song, 'Golden'. This marks a significant milestone for Korean-Canadian director Maggie Kang and the first K-Pop song to earn an Academy Award nod. The film, about music-powered superheroes, also swept the Golden Globes and garnered Grammy nominations, proving its global appeal.",
-    "img": "https://static.toiimg.com/photo/msid-127177621,imgsize-40032.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/kpop-demon-hunters-makes-history-at-oscars-golden-becomes-first-k-pop-song-to-receive-academy-award-nomination/articleshow/127175579.cms",
-    "time": "2026-01-22T17:00:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Sinners' makes HISTORY with 16 nominations",
-    "desc": "In a groundbreaking achievement, Ryan Coogler's 'Sinners,' a vampire thriller featuring Michael B. Jordan, has dominated the 98th Academy Awards with an unprecedented 16 nominations. The film is making waves in major categories like Best Picture and Best Director, surpassing all previous records and marking a monumental milestone for the film industry and its visionary creators.",
-    "img": "https://static.toiimg.com/photo/msid-127177193,imgsize-47378.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-ryan-cooglers-sinners-makes-history-breaks-record-with-16-nominations-at-the-98th-academy-awards/articleshow/127177193.cms",
-    "time": "2026-01-22T16:58:16.000Z"
   },
   {
     "cat": "Business",
@@ -522,15 +612,6 @@ const newsData_en = [
     "time": "2026-01-22T16:46:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Complaint filed against Palaash over Rs 40 lakh cheating case",
-    "desc": "A 34-year-old actor and producer has approached the police in Maharashtra’s Sangli district, alleging that he was cheated of Rs 40 lakh by composer and filmmaker Palaash Muchhal. Police confirmed on Thursday that no First Information Report (FIR) has been registered so far in the matter.",
-    "img": "https://static.toiimg.com/photo/msid-127175935,imgsize-62078.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/complaint-filed-against-palaash-muchhal-in-sangli-over-rs-40-lakh-cheating-case-by-actor-producer-police-begin-preliminary-probe/articleshow/127175752.cms",
-    "time": "2026-01-22T16:41:55.000Z"
-  },
-  {
     "cat": "World",
     "title": "France’s Navy intercepts an oil tanker in the Mediterranean sailing from Russia",
     "desc": "“We are determined to uphold international law and to ensure the effective enforcement of sanctions,\" French President Emmanuel Macron said in a post about the interception, with a photo showing a French helicopter hovering over a ship.",
@@ -549,33 +630,6 @@ const newsData_en = [
     "time": "2026-01-22T16:20:15.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'We used to have 8-hour shifts'",
-    "desc": "Deepika Padukone’s call for an 8-hour work shift has once again pushed the spotlight on long and exhausting work hours in the entertainment industry. As opinions remain divided, veteran actor Kanwarjit Paintal has spoken candidly about how the culture of extended shifts has taken a toll on actors, especially those without star power.",
-    "img": "https://static.toiimg.com/photo/msid-127172863,imgsize-36942.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kanwarjit-paintal-backs-deepika-padukones-8-hour-work-shift-demand-in-our-old-time-we-used-to-have-8-hour-shifts/articleshow/127172111.cms",
-    "time": "2026-01-22T16:07:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anushka hails Rani's 'Mardaani 3' trailer; says, 'Always...'",
-    "desc": "The much-anticipated trailer for Rani Mukerji's 'Mardaani 3' has captured hearts across the audience, prompting Anushka Sharma to express her heartfelt praise for both the film and Rani's powerful portrayal. In this thrilling sequel, Mukerji returns as the fierce IPS officer Shivani Shivaji Roy, confronting the harrowing reality of child trafficking.",
-    "img": "https://static.toiimg.com/photo/msid-127172100,imgsize-29314.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anushka-sharma-hails-rani-mukerjis-mardaani-3-trailer-says-always-admired-your-work/articleshow/127172100.cms",
-    "time": "2026-01-22T16:02:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Top 5 South newsmakers of the day",
-    "desc": "South cinema mourns the passing of playback legend S. Janaki's son, Murali Krishna, and Malayalam actor Kamal Roy. Meanwhile, AR Rahman faces plagiarism claims over a classic song, while Mahesh Babu shares a loving birthday wish for wife Namrata. The film 'Draupathi 2' has been banned in Qatar due to controversy.",
-    "img": "https://static.toiimg.com/photo/msid-127170002,imgsize-122074.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/s-janakis-son-demise-kamal-roy-passes-away-draupathi-2-qatar-ban-top-5-south-newsmakers-of-the-day/articleshow/127170002.cms",
-    "time": "2026-01-22T15:35:42.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran warns 'finger on trigger' as Trump says it wants talks",
     "desc": "The prospect of immediate American action against Tehran appears to have receded over the last week, with both sides insisting on giving diplomacy a chance even as U.S. media report President Trump is still studying options",
@@ -583,15 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-warns-finger-on-trigger-as-trump-says-it-wants-talks/article70538757.ece",
     "time": "2026-01-22T15:34:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Uttar Pradesh voters may get to skip SIR hearings, send representatives instead",
-    "desc": "Voters would have the option of uploading their documents on EC website and then send their representative with an authorisation letter, which can include local booth level agents (BLAs) appointed by political parties; an order to this effect might be issued this week, as per sources",
-    "img": "https://th-i.thgim.com/public/incoming/u1fdsm/article70539065.ece/alternates/LANDSCAPE_1200/07_SPOTLIGHT_SIR_VOTER_LIST%20UTTAR_PRADESH.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-voters-may-get-to-skip-sir-hearings-send-representatives-instead/article70538282.ece",
-    "time": "2026-01-22T15:33:32.000Z"
   },
   {
     "cat": "Business",
@@ -693,15 +738,6 @@ const newsData_en = [
     "time": "2026-01-22T13:47:34.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India-EU trade: GSP suspension raises tariffs on 87% of exports; here's what GTRI report says",
-    "desc": "India's exports to the EU face significantly higher import tariffs from January 1, 2026, as the EU suspends GSP benefits for 87% of Indian goods. This withdrawal ends preferential access, impacting price-sensitive sectors like garments and coinciding with the EU's Carbon Border Adjustment Mechanism, creating a double pressure on exporters.",
-    "img": "https://static.toiimg.com/photo/msid-127160052,imgsize-1457221.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-eu-trade-gsp-suspension-raises-tariffs-on-87-of-exports-heres-what-gtri-report-say/articleshow/127159888.cms",
-    "time": "2026-01-22T13:43:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Kerala suffers collapse as Chandigarh calls the shots on day one",
     "desc": "The home team loses eight wickets for 44 runs to be bundled out for 139 in the first innings; Arjun and Vohra help the visiting side gain a three-run lead at stumps, with nine wickets in hand",
@@ -711,15 +747,6 @@ const newsData_en = [
     "time": "2026-01-22T13:38:15.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Can NRIs in UAE buy property on behalf of a friend in India? Legal ways to do so",
-    "desc": "NRIs in the UAE cannot legally pay property deposits for friends in India due to Indian foreign exchange laws. Attempting to do so risks serious violations of FEMA, leading to investigations by the Enforcement Directorate and hefty penalties. Buyers must use authorised channels like the RBI's LRS or local UAE financing for compliant transactions.",
-    "img": "https://static.toiimg.com/photo/msid-127158577,imgsize-96896.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/can-nris-in-uae-buy-property-on-behalf-of-a-friend-in-india-legal-ways-to-do-so/articleshow/127150542.cms",
-    "time": "2026-01-22T13:29:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "CRICKET",
     "desc": "Skipper Suryakumar’s flicker of form will have delighted the think-tank; Samson will hope to make his move to the top of the order count; chance for Kishan to also get cracking; the Kiws meanwhile need a much better all-round performance",
@@ -727,15 +754,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/cricket-india-will-aim-to-fine-tune-its-arsenal-in-the-second-t20i-against-new-zealand/article70537988.ece",
     "time": "2026-01-22T13:25:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sriram Balaji wins, Yuki Bhambri exits mixed doubles at Australian Open",
-    "desc": "Indian players Sriram Balaji and Yuki Bhambri secured wins in the Australian Open men's doubles first round. Balaji and his partner defeated a French-Aussie duo. Bhambri and his partner also advanced. However, Indian-American Nishesh Basavareddy was knocked out in the men's singles second round. Yuki Bhambri and Nicole Melichar-Martinez exited the mixed doubles in the first round.",
-    "img": "https://static.toiimg.com/photo/msid-127152008,imgsize-103462.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/sriram-balaji-wins-yuki-bhambri-exits-mixed-doubles-at-australian-open/articleshow/127151935.cms",
-    "time": "2026-01-22T12:22:48.000Z"
   },
   {
     "cat": "Sports",
@@ -754,15 +772,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pcb-investigates-financial-scam-involving-babar-azam-mohammad-rizwan-losses-could-exceed-millions/articleshow/127148875.cms",
     "time": "2026-01-22T12:02:08.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Education sector seeks skilling push, digital access and student-centric financing",
-    "desc": "Education leaders are urging Budget 2026 to boost skilling, digital infrastructure, and higher education financing. They emphasize outcome-focused spending, particularly in rural areas, to solidify India's global education hub ambitions. Key calls include incentivizing 'Last-Mile Skilling,' improving classroom impact through digital tools, and implementing student-centric financing models for higher education.",
-    "img": "https://static.toiimg.com/photo/msid-127148770,imgsize-811814.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-expectations-2026-education-sector-seeks-skilling-push-digital-access-and-student-centric-financing/articleshow/127148705.cms",
-    "time": "2026-01-22T11:49:42.000Z"
   },
   {
     "cat": "Entertainment",
@@ -837,15 +846,6 @@ const newsData_en = [
     "time": "2026-01-22T10:01:02.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Gill's Ranji return ends in a two-ball duck; Jadeja's batting woes continue",
-    "desc": "The Ranji Trophy clash between Punjab and Saurashtra saw senior India players Shubman Gill and Ravindra Jadeja endure forgettable outings on a day of falling wickets. Gill was dismissed for a duck, while Jadeja managed only 7 runs. Saurashtra was bowled out for 172, with Punjab struggling at 87 for 5 by the end of Day 1.",
-    "img": "https://static.toiimg.com/photo/msid-127137215,imgsize-90476.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shubman-gills-ranji-return-ends-in-a-two-ball-duck-ravindra-jadejas-batting-woes-continue/articleshow/127137351.cms",
-    "time": "2026-01-22T09:55:27.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Spending abroad by Indians falls to two-year low as foreign education outgo plummets",
     "desc": "Analysis of data on the outward remittances under the RBI’s Liberalised Remittances Scheme (LRS), shows that the other driver of the fall in overall remittances in November 2025 was a fall in the amount spent on foreign travel",
@@ -891,12 +891,12 @@ const newsData_en = [
     "time": "2026-01-22T06:35:35.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Pakistan disappointed but won’t withdraw from T20 World Cup",
-    "desc": "Pakistan expressed disappointment as the International Cricket Council rejected Bangladesh's request to move T20 World Cup matches from India, despite Pakistan backing Bangladesh's stance in principle. However, Pakistan has clarified that withdrawing from the tournament is not an option, as they are already scheduled to play at a neutral venue.",
-    "img": "https://static.toiimg.com/photo/msid-127111223,imgsize-124552.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/icc-rejects-bangladesh-plea-pakistan-disappointed-but-wont-withdraw-from-t20-world-cup/articleshow/127111001.cms",
-    "time": "2026-01-22T06:11:27.000Z"
+    "cat": "Business",
+    "title": "Rupee recovers 15 paise from all-time low to 91.50 against U.S. dollar in early trade",
+    "desc": "Forex traders said investors' sentiments improved after President Trump announced in Davos on January 21, 2026 that he was scrapping his planned tariffs on eight European nations in an effort to force U.S. control over Greenland",
+    "img": "https://th-i.thgim.com/public/incoming/kd09uj/article70536531.ece/alternates/LANDSCAPE_1200/iStock-1440478093%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/rupee-recovers-15-paise-from-all-time-low-to-9150-against-us-dollar-in-early-trade/article70536512.ece",
+    "time": "2026-01-22T04:58:21.000Z"
   }
 ];

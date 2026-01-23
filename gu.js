@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "ઓસ્કાર નોમિનેશનમાં છવાઈ ગઈ હોરર થ્રિલર ફિલ્મ સિનર્સ, ઘરે બેઠા OTT પર જુઓ આ દમદાર ફિલ્મ",
+    "desc": "ઓસ્કાર 2026 નું ફાઈનલ નોમિનેશન લિસ્ટ જાહેર થયું છે અને આ લિસ્ટમાં આ વર્ષે 2025 માં રિલીઝ થયેલી હોરર થ્રિલર ફિલ્મ સિનર્સ છવાઈ ગઈ છે. સિનર્સ ફિલ્મને અલગ અલગ કેટેગરીમાં 16 નોમિનેશન મળ્યા છે. આ દમદાર ફિલ્મ જો તમારે પણ જોવી હોય તો ઓટીટી પ્લેટફોર્મ પર જોઈ શકો છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/horror-film-sinners-got-16-nominations-hollywood-horror-thriller-sinners-on-ott-in-india-462594 ",
+    "time": "2026-01-23T03:14:58.000Z"
+  },
+  {
     "cat": "Business",
     "title": "EPFOની મોટી તૈયારી, PF ખાતાધારકો માટે બદલાવા જઈ રહ્યું છે ઘણુ બધુ",
     "desc": "EPFOના સભ્યો આ વર્ષે એપ્રિલ સુધીમાં UPI દ્વારા પોતાના પ્રોવિડન્ટ ફંડ (PF)માંથી ઉપાડ કરી શકશે અને તે રકમ સીધી તેમના બેન્ક ખાતામાં જમા થઈ જશે. આ યોજનામાં સભ્યોનો સભ્યોની અમુક લઘુત્તમ રકમ ખાતામાં સુરક્ષિત રહેશે.",
@@ -439,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/i-will-never-forgive-govinda-said-sunita-ahuja-breaks-silence-on-63-year-old-govinda-extra-marital-affair-461954 ",
     "time": "2026-01-17T06:47:50.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "યુદ્ધ સમયે ભારત કેવી રીતે પોતાના નાગરિકોને સુરક્ષિત બહાર કાઢે છે? જાણો ક્યારે-ક્યારે ચલાવવામાં આવ્યા રેસ્ક્યુ",
-    "desc": "અમેરિકા અને ઈરાન વચ્ચે યુદ્ધની સ્થિતિ હાલ પૂરતી ટળી ગઈ છે. અમેરિકાએ જણાવ્યું છે કે હાલમાં તે કોઈ હુમલો કરશે નહીં. પરંતુ જો અમેરિકા ઈરાન પર હુમલો કરી દેત, તો ત્યાં રહી રહેલા ભારતીયોનું શું થાત?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/how-does-india-safely-evacuate-its-citizens-during-wartime-461854 ",
-    "time": "2026-01-16T08:51:37.000Z"
   },
   {
     "cat": "Entertainment",
