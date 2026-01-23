@@ -1,5 +1,176 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Sindhu, Lakshya lose in quarterfinals; Indian challenge ends in Indonesia Masters",
+    "desc": "Sindhu, a two-time Olympic medallist, lost to top seed and world number four Chen Yu Fei of China 13-21 17-21 in the quarterfinal contest that lasted 42 minutes to bow out of the Super 500 event",
+    "img": "https://th-i.thgim.com/public/incoming/joq07x/article70544197.ece/alternates/LANDSCAPE_1200/PTI01_14_2026_000566A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/sindhu-lakshya-lose-in-quarterfinals-indian-challenge-ends-in-indonesia-masters/article70544195.ece",
+    "time": "2026-01-23T21:04:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Risk of PM/CM removal bill being misused: Legal experts",
+    "desc": "A proposed anti-corruption bill faces criticism from legal experts who warn that linking the removal of PMs, CMs, or ministers to 30 days of arrest on serious charges could be politically misused. Concerns were raised that this provision might override popular will, with some suggesting \"framing of charges\" as a more appropriate threshold for removal.",
+    "img": "https://static.toiimg.com/photo/msid-127331433,imgsize-485321.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/risk-of-pm/cm-removal-bill-being-misused-legal-experts/articleshow/127330947.cms",
+    "time": "2026-01-23T20:45:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "DMK hostile to Tamil culture, on its way out: PM Modi says in Tamil Nadu",
+    "desc": "Prime Minister Modi declared the countdown has begun for the DMK government's end in Tamil Nadu, calling for a \"double-engine\" NDA government. He accused the DMK of being hostile to Tamil culture and leading a \"corruption, mafia, crime\" regime. Modi emphasized the NDA's unity to free Tamil Nadu and transform it into a developed, corruption-free state.",
+    "img": "https://static.toiimg.com/photo/msid-127329940,imgsize-446629.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/dmk-hostile-to-tamil-culture-on-its-way-out-pm-modi-says-in-tamil-nadu/articleshow/127329701.cms",
+    "time": "2026-01-23T20:26:58.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Mphasis",
+    "desc": "Mphasis CEO Nitin Rakesh assured investors that Blackstone's stake sale is a standard part of its investment cycle, not a reflection of poor performance. Blackstone, holding over 60% since 2016, plans to sell up to 1.8 crore shares via open market transactions, subject to market conditions. This move signals a natural exit strategy for the private equity firm.",
+    "img": "https://static.toiimg.com/photo/msid-127328138,imgsize-734585.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/blackstone-stake-sale-natural-cycle-mphasis/articleshow/127328029.cms",
+    "time": "2026-01-23T20:03:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Need well-designed scrappage policy",
+    "desc": "Ashok Leyland's MD highlights the urgent need for a robust vehicle scrappage policy to modernize India's truck fleet. This initiative is crucial for reducing pollution and logistics expenses, as the average age of trucks has significantly increased, impacting operational efficiency and costs.",
+    "img": "https://static.toiimg.com/photo/msid-127327560,imgsize-1292319.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/leyland-need-well-designed-scrappage-policy/articleshow/127327337.cms",
+    "time": "2026-01-23T19:53:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-EU trade deal in 4 days: Textile minister",
+    "desc": "Textile Minister Giriraj Singh anticipates a trade deal with the EU within four days, highlighting stable garment export growth despite global economic challenges. He attributed this resilience to market diversification, with exports reaching Rs 1,01,000 crore in April-December 2025. Singh also refuted claims by Rahul Gandhi regarding US tariffs crippling the sector.",
+    "img": "https://static.toiimg.com/photo/msid-127326428,imgsize-718668.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-eu-trade-deal-in-4-days-textile-minister/articleshow/127326279.cms",
+    "time": "2026-01-23T19:38:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Priyanka-Lara got cars and flats, I got a bouquet’",
+    "desc": "Aditi Govitrikar, the first Indian woman to win the Mrs World title in 2001, has opened up about the unequal recognition she received despite making history on the global stage. In a recent interview, the model, actor, physician and psychologist compared her experience with that of Lara Dutta and Priyanka Chopra, who were crowned Miss Universe 2000 and Miss World 2000, respectively.",
+    "img": "https://static.toiimg.com/photo/msid-127326122,imgsize-62664.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditi-govitrikar-recalls-mrs-world-2001-snub-priyanka-chopra-and-lara-dutta-got-cars-and-flats-i-got-a-bouquet/articleshow/127325800.cms",
+    "time": "2026-01-23T19:37:37.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Garment exporters stay bullish",
+    "desc": "Indian apparel exporters face US tariff challenges, with some like Shishir Kapoor unaffected due to their premium clientele. Others, however, are pivoting to Europe and the UK, seeking new trade agreements and diversifying markets. Despite geopolitical hurdles, companies are adapting by focusing on new product lines and exploring emerging markets like Russia and Australia.",
+    "img": "https://static.toiimg.com/photo/msid-127326031,imgsize-1603759.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/us-tariffs-garment-exporters-stay-bullish/articleshow/127325817.cms",
+    "time": "2026-01-23T19:32:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh appeal can't be heard by ICC's DRC; Scotland to be named as replacement by January 24",
+    "desc": "Even as the ICC has kept Scotland on stand-by, the BCB under Aminul Islam Bulbul, after being completely cornered, decided to use its last resort — approach the DRC headed by Englishman Michael Beloff (Kings Counsel)",
+    "img": "https://th-i.thgim.com/public/incoming/zcbev9/article70544144.ece/alternates/LANDSCAPE_1200/th21-t20wc-bangG6JFFBP8A.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/bangladesh-appeal-cant-be-heard-by-iccs-drc-scotland-to-be-named-as-replacement-by-january-24/article70544129.ece",
+    "time": "2026-01-23T19:30:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "11.6k cr pay day at PSU insurers, RBI",
+    "desc": "The Centre has approved a Rs 11,640-crore payout for employees of public sector general insurers, RBI, and Nabard, covering wage and pension resets. State-owned general insurers will receive the largest share of Rs 8,170 crore. This comes as three PSU insurers face solvency concerns, potentially leading to budgetary capital infusion and speculation about consolidation or stake sales.",
+    "img": "https://static.toiimg.com/photo/msid-127325576,imgsize-792850.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/11-6k-cr-pay-day-at-psu-insurers-rbi/articleshow/127325364.cms",
+    "time": "2026-01-23T19:26:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "At $1.2bn, Juspay first unicorn of the year",
+    "desc": "Mumbai-based payments infrastructure startup Juspay has achieved unicorn status, securing $50 million from WestBridge Capital at a $1.2 billion valuation. This funding round, including a secondary component for early investors and employees, marks the company's significant growth. Juspay, powering global merchants and banks, processes over 300 million daily transactions, underscoring its robust business model and market traction.",
+    "img": "https://static.toiimg.com/photo/msid-127325166,imgsize-162412.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/at-1-2bn-juspay-first-unicorn-of-the-year/articleshow/127324910.cms",
+    "time": "2026-01-23T19:20:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Sebi sends notices to PwC, EY execs over insider trades in 2022 Yes Bank share sale",
+    "desc": "Market watchdog Sebi is probing alleged insider trading in Yes Bank shares during a $1.1 billion deal in July 2022. Notices have been issued to executives from PwC, EY, Carlyle Group, and Advent International, along with their relatives and a former Yes Bank board member. Investigations reveal potential misuse of unpublished price-sensitive information for illegal gains.",
+    "img": "https://static.toiimg.com/photo/msid-127324616,imgsize-620470.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-sends-notices-to-pwc-ey-execs-over-insider-trades-in-2022-yes-bank-share-sale/articleshow/127324497.cms",
+    "time": "2026-01-23T19:16:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Linkin Park’s debut tour of India kicks off with a performance in Bengaluru",
+    "desc": "The American rock band took the stage as part of the From Zero World Tour. While fans and the band missed the original lead singer Chester Bennington, the act was a power-packed performance with chart toppers Numb and In The End",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/linkin-parks-debut-tour-of-india-kicks-off-with-a-performance-in-bengaluru/article70532992.ece",
+    "time": "2026-01-23T19:07:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee nears 92/$, RBI eases liquidity, forex kitty swells",
+    "desc": "The rupee hit a new low against the dollar, prompting the RBI to intervene by selling dollars. Simultaneously, the central bank injected liquidity into the banking system and conducted a dollar-rupee swap, which boosted forex reserves to over $700 billion. These actions demonstrate a delicate balancing act by policymakers.",
+    "img": "https://static.toiimg.com/photo/msid-127323532,imgsize-905815.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/all-in-a-day-rupee-nears-92/-rbi-eases-liquidity-forex-kitty-swells/articleshow/127323311.cms",
+    "time": "2026-01-23T19:03:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Varun touches Sunny Deol’s feet at Border 2 screening",
+    "desc": "Varun Dhawan and Sunny Deol shared a heartwarming moment as they arrived for the Mumbai screening of their film Border 2. Varun reached the venue first, and as Sunny arrived, the two actors exchanged smiles before greeting each other warmly.",
+    "img": "https://static.toiimg.com/photo/msid-127323050,imgsize-38552.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/watch-varun-dhawan-touches-sunny-deols-feet-at-border-2-screening-duo-share-warm-hug/articleshow/127322870.cms",
+    "time": "2026-01-23T19:00:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Sensex slips to 81.5k points, lowest level in 3.5 months",
+    "desc": "Dalal Street witnessed a significant downturn on Friday as the Sensex plunged 770 points and the Nifty slid 241 points. Investor sentiment was dampened by a weakening rupee and substantial foreign fund selling, driven by geopolitical concerns. This selling pressure resulted in a loss of Rs 6.9 lakh crore for investors.",
+    "img": "https://static.toiimg.com/photo/msid-127323143,imgsize-1079302.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-slips-to-81-5k-points-lowest-level-in-3-5-months/articleshow/127322939.cms",
+    "time": "2026-01-23T18:58:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Sizzling silver surges past $100/Oz",
+    "desc": "Silver reached an unprecedented $100 per ounce for the first time, while gold neared $5,000 per ounce. This surge is driven by geopolitical uncertainties, a declining dollar, and strong industrial demand for silver, particularly from EV, semiconductor, and solar sectors. Analysts also cite a historic short squeeze in silver and China's export controls as contributing factors.",
+    "img": "https://static.toiimg.com/photo/msid-127322680,imgsize-494298.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/in-metals-we-trust-sizzling-silver-surges-past-100/oz/articleshow/127322439.cms",
+    "time": "2026-01-23T18:53:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ishaan on film getting snubbed from Oscars 2026",
+    "desc": "Despite being India's official selection for the 98th Academy Awards, 'Homebound' did not secure a nomination. Following the Oscar snub, lead actor Ishaan Khatter shared a heartfelt note on Instagram, expressing his deep affection and gratitude for the film. He lauded director Neeraj Ghaywan and the entire team, emphasizing the movie's profound impact and hopeful message.",
+    "img": "https://static.toiimg.com/photo/msid-127319718,imgsize-23708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/homebound-ishaan-khatter-expresses-his-feelings-as-film-gets-snubbed-from-oscars-2026-race-praises-neeraj-ghaywan/articleshow/127319718.cms",
+    "time": "2026-01-23T18:33:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Indian seafarers are most abandoned in the world again",
+    "desc": "Indian sailors faced the worst abandonment in 2025. Over 1,100 Indian seafarers were left stranded on ships. This marks a significant increase from previous years. Many were left without pay and unable to return home. The International Transport Workers’ Federation is working to recover wages. This situation highlights serious issues in the maritime industry.",
+    "img": "https://static.toiimg.com/photo/msid-127319644,imgsize-913200.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/indian-seafarers-are-most-abandoned-in-the-world-again/articleshow/127319128.cms",
+    "time": "2026-01-23T18:26:40.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Op Trashi-I: Pak terrorist killed in Jammu &amp; Kashmir’s Kathua",
     "desc": "Security forces neutralized a top Jaish-e-Mohammad terrorist, Usman, in Kathua's Billawar during Operation Trashi-I. This operation, now in its sixth day, has seen intense combing operations and the discovery of a terrorist hideout. The ongoing hunt for more militants continues despite challenging conditions, marking a significant breakthrough for security forces.",
@@ -324,24 +495,6 @@ const newsData_en = [
     "time": "2026-01-23T14:44:23.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Emilia Clarke broke rib filming Ponies scenes",
-    "desc": "During her time working on 'Ponies,' Emilia Clarke experienced a surprising twist when she fractured a rib while filming a sequence filled with high-stakes seduction. She humorously recounted having to explain the bizarre circumstances surrounding her injury to a bemused doctor.",
-    "img": "https://static.toiimg.com/photo/msid-127295212,imgsize-47308.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/emilia-clarke-reveals-she-broke-a-rib-during-intimate-scenes-in-ponies-three-men-in-a-number-of-hours/articleshow/127295212.cms",
-    "time": "2026-01-23T14:44:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Karan Johar extends support to Varun amid trolling",
-    "desc": "Filmmaker Karan Johar defended Varun Dhawan against social media trolls who questioned his suitability for patriotic roles. Johar expressed confidence that Dhawan's performance in the recently released 'Border 2' will silence critics. The film, which opened today, sees Dhawan portraying PVC Colonel Hoshiar Singh Dahiya, a role that has garnered mixed initial reactions.",
-    "img": "https://static.toiimg.com/photo/msid-127294663,imgsize-54088.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-karan-johar-extends-support-to-varun-dhawan-amid-trolling-says-you-can-troll-an-artist-for-his-smile-but/articleshow/127294663.cms",
-    "time": "2026-01-23T14:43:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "When Pakistan's Hanif Mohammad batted four days to save Test",
     "desc": "Hanif Mohammad's monumental 337 against the West Indies in 1958 secured Pakistan's first Test draw. He batted for 970 minutes, showcasing incredible patience and resilience to save his team from defeat after following on. This innings remains the longest in Test cricket history by time.",
@@ -378,24 +531,6 @@ const newsData_en = [
     "time": "2026-01-23T14:32:01.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Yuzi Chahal drops CRYPTIC post after unfollowing RJ Mahvash",
-    "desc": "The intrigue surrounding cricketer Yuzvendra Chahal and radio personality RJ Mahvash has reached new heights after they both unfollowed each other on Instagram. Chahal cryptically hinted at self-sufficiency with a post about not needing to justify oneself, while Mahvash emphasized the importance of personal boundaries.",
-    "img": "https://static.toiimg.com/photo/msid-127291122,imgsize-48570.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yuzvendra-chahal-drops-cryptic-post-after-unfollowing-rj-mahvash-on-social-media-not-everyone-deserves-your-explanation/articleshow/127291122.cms",
-    "time": "2026-01-23T14:09:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "UDF demands public apology from Ganesh Kumar for ‘disparaging’ Oommen Chandy",
-    "desc": "Congress leader Chandy Oomen appeared to open old wounds last week when he told a UDF meeting at Ganesh Kumar’s constituency in Pathanapuram that the Minister had wronged his father in the solar scam case",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/udf-demands-public-apology-from-ganesh-kumar-for-disparaging-oommen-chandy/article70542764.ece",
-    "time": "2026-01-23T14:08:03.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "‘Won’t bow to Delhi’s arrogance’: Stalin rejects Modi’s ‘double engine in Tamil Nadu' pitch  — who said what",
     "desc": "Tamil Nadu CM M.K. Stalin rejected Prime Minister Narendra Modi's 'double engine' government pitch, asserting the state has achieved growth independently. Stalin accused the BJP of betraying Tamil Nadu and highlighted the growth in non-'double engine' states. Modi, in turn, criticized the DMK government as 'Corruption, Mafia, Crime' and accused them of misgovernance and vote-bank politics.",
@@ -421,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/id-pick-him-any-day-former-cricketer-chooses-rishabh-pant-over-sanju-samson-in-t20is/articleshow/127289763.cms",
     "time": "2026-01-23T13:59:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Indian Oil diversifies crude basket, taps Angola, Brazil and UAE amid Russia pullback: Report",
-    "desc": "Indian Oil Corporation is buying more crude oil from countries like Brazil. This move reduces dependence on Russian oil. Refiners are sourcing from the Middle East, Africa, and Latin America. This diversification strategy expands supplier options. India aims to secure diverse oil supplies for its needs.",
-    "img": "https://static.toiimg.com/photo/msid-127288679,imgsize-571874.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indian-oil-diversifies-crude-basket-taps-angola-brazil-and-uae-amid-russia-pullback-report/articleshow/127288690.cms",
-    "time": "2026-01-23T13:39:57.000Z"
   },
   {
     "cat": "Business",
@@ -459,24 +585,6 @@ const newsData_en = [
     "time": "2026-01-23T12:46:47.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India sells US Treasuries &amp; buys gold; holdings drop to 5-year low",
-    "desc": "RBI is not among the largest holders of US government debt, with its exposure at about a quarter of China’s nearly $683 billion holdings. Even so, India’s selling has added fresh momentum to discussions about the place of US sovereign bonds in global investment portfolios.",
-    "img": "https://static.toiimg.com/photo/msid-127258211,imgsize-160278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/decoupling-from-dollar-india-sells-us-treasuries-buys-gold-holdings-drop-to-5-year-low/articleshow/127256599.cms",
-    "time": "2026-01-23T12:30:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How much 22K, 24K gold cost in Delhi, Chennai &amp; other cities – Check rates",
-    "desc": "Gold and silver futures reached record highs on Friday, driven by investor demand for safe-haven assets. A weaker US dollar and anticipated Federal Reserve interest rate cuts further fueled the rally. Geopolitical tensions and economic uncertainty also contributed to the surge in bullion prices.",
-    "img": "https://static.toiimg.com/photo/msid-127278005,imgsize-1218339.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/check-gold-rate-in-your-city-on-january-23-2026-in-delhi-mumbai-bangalore-chennai-kolkata-hyderabad-ahmedabad-jaipur-and-patna/articleshow/127278018.cms",
-    "time": "2026-01-23T12:03:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Iva Jovic leans on Djokovic advice to script breakthrough Australian Open run",
     "desc": "Young tennis star Iva Jovic has reached the Australian Open fourth round. She defeated seventh seed Jasmine Paolini. Jovic received advice from her idol Novak Djokovic. This is her first time reaching the second week of a major tournament. She will now face Yulia Putintseva for a quarterfinal spot.",
@@ -493,15 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sarfaraz-khan-sends-strong-message-to-gautam-gambhir-with-dominant-ranji-trophy-double-hundred/articleshow/127271584.cms",
     "time": "2026-01-23T11:14:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "China's visa rules: Indians looking to visit Beijing face longer wait and more rejections; here's why",
-    "desc": "Indian travelers face a more stringent visa process for China, with new online pre-approval stages and increased scrutiny of financial documents leading to longer processing times and higher rejection rates. Despite these hurdles, interest in diverse Chinese destinations beyond traditional tourist hubs is growing, fueled by improved flight connectivity.",
-    "img": "https://static.toiimg.com/photo/msid-127228274,imgsize-2870224.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/chinas-tight-rule-for-indian-travellers-online-visa-application-requirement-rejections-more-wait-gets-longer/articleshow/127223396.cms",
-    "time": "2026-01-23T10:52:48.000Z"
   },
   {
     "cat": "Sports",
@@ -522,15 +621,6 @@ const newsData_en = [
     "time": "2026-01-23T10:36:02.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India gets another Industry 4.0 centre as WEF expands global network",
-    "desc": "The World Economic Forum is establishing five new Centres for the Fourth Industrial Revolution, including one in Andhra Pradesh, India. These centers will foster collaboration between governments, industry, and experts to develop policy frameworks and pilot projects for emerging technologies.",
-    "img": "https://static.toiimg.com/photo/msid-127268384,imgsize-471550.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-gets-another-industry-4-0-centre-as-wef-expands-global-network/articleshow/127268293.cms",
-    "time": "2026-01-23T10:35:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ex-India cricketer calls for Shubman Gill's removal as ODI captain",
     "desc": "Former India batter Manoj Tiwary advocates for Rohit Sharma's immediate return as ODI captain, citing Shubman Gill's recent struggles. Tiwary believes Rohit's proven leadership is crucial for the upcoming World Cup, suggesting a significantly higher chance of victory under his command compared to Gill's. He questioned the timing of the captaincy change.",
@@ -547,15 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/markets/adani-group-completes-full-takeover-of-ians-news-agency/article70541841.ece",
     "time": "2026-01-23T09:35:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court asks lawyer to apologise to Jharkhand HC — what it said",
-    "desc": "The Supreme Court has directed a Jharkhand lawyer to offer an unconditional apology to the High Court for a viral courtroom exchange where he allegedly told a judge, \"Don't cross the limit.\" The top court urged the High Court to consider the apology sympathetically, acknowledging the lawyer's remorse and the potential impact of live-streamed proceedings on careers.",
-    "img": "https://static.toiimg.com/photo/msid-127262782,imgsize-41192.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/viral-courtroom-exchange-supreme-court-asks-lawyer-to-apologise-to-jharkhand-hc-what-it-said/articleshow/127259606.cms",
-    "time": "2026-01-23T09:07:56.000Z"
   },
   {
     "cat": "Sports",
@@ -576,15 +657,6 @@ const newsData_en = [
     "time": "2026-01-23T08:41:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'To expand like Gujarat': PM Modi's big prediction on BJP's rise in Kerala",
-    "desc": "Addressing a large BJP rally at the Putharikandam Maidan, PM Modi said the party’s rise in Kerala would mirror its early growth in Gujarat, where it began by winning control of a single city nearly four decades ago. He recalled that before 1987, the BJP was a marginal force in Gujarat and received little attention.",
-    "img": "https://static.toiimg.com/photo/msid-127255614,imgsize-44098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/to-expand-like-gujarat-pm-modis-big-prediction-on-bjps-rise-in-kerala/articleshow/127253800.cms",
-    "time": "2026-01-23T08:32:21.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Calum Scott on his new album Avenoir, his concerts in India and more",
     "desc": "In India to perform in Delhi and at Lollapalooza Mumbai, English singer-songwriter Calum Scott reflects on exploring different genres for Avenoir, preparing for an extensive world tour, and being excited for the new Harry Styles album",
@@ -592,15 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/calum-scott-on-his-new-album-avenoir-his-concerts-in-india-and-more/article70537272.ece",
     "time": "2026-01-23T08:28:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi says state ready to bid farewell to ‘corrupt’ DMK; Stalin hits back",
-    "desc": "Prime Minister Narendra Modi launched the NDA's campaign in Tamil Nadu, asserting voters are ready to oust the \"corrupt\" DMK government. Chief Minister M.K. Stalin countered, accusing the NDA of betraying the state and highlighting pending demands, including financial aid and NEET exemption.",
-    "img": "https://static.toiimg.com/photo/msid-127252029,imgsize-1022952.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-polls-pm-modi-says-state-ready-to-bid-farewell-to-corrupt-dmk-stalin-hits-back/articleshow/127250931.cms",
-    "time": "2026-01-23T08:19:16.000Z"
   },
   {
     "cat": "Entertainment",
@@ -835,68 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-sobhita-dhulipala-interview-cheekatilo-suresh-babu-daggubati/article70536933.ece",
     "time": "2026-01-22T07:30:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Cambodia will send 73 online scam suspects to South Korea",
-    "desc": "Cybercrime has flourished in Southeast Asia, particularly in Cambodia and Myanmar, as trafficked foreign nationals were employed to run romance and cryptocurrency scams, often recruited with false job offers and then forced to work in conditions of near-slavery",
-    "img": "https://th-i.thgim.com/public/incoming/kcrl5m/article70536908.ece/alternates/LANDSCAPE_1200/South_Korea_Cambodia_Cybercrime_94359.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/cambodia-will-send-73-online-scam-suspects-to-south-korea/article70536867.ece",
-    "time": "2026-01-22T07:08:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chennai’s AlterNation Jazz Festival set to celebrate artists from the city on January 31",
-    "desc": "The first edition of AlterNation’s jazz festival is all set to make your head bob with artists from the city taking the stage with acts including Jatayu, Many Things, Suman Sridhar and The Black Mamba, and the Tuesday Jazzers",
-    "img": "https://th-i.thgim.com/public/life-and-style/bxglic/article70536757.ece/alternates/LANDSCAPE_1200/Copy%20of%20JATAYU%20-4360.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/music/chennais-alternation-jazz-festival-set-to-celebrate-artists-from-the-city-on-january-31/article70529344.ece",
-    "time": "2026-01-22T06:35:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee recovers 15 paise from all-time low to 91.50 against U.S. dollar in early trade",
-    "desc": "Forex traders said investors' sentiments improved after President Trump announced in Davos on January 21, 2026 that he was scrapping his planned tariffs on eight European nations in an effort to force U.S. control over Greenland",
-    "img": "https://th-i.thgim.com/public/incoming/kd09uj/article70536531.ece/alternates/LANDSCAPE_1200/iStock-1440478093%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/rupee-recovers-15-paise-from-all-time-low-to-9150-against-us-dollar-in-early-trade/article70536512.ece",
-    "time": "2026-01-22T04:58:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lizelle Lee fined for Code of Conduct breach in WPL",
-    "desc": "\"Lee admitted to a Level 1 offence under Article 2.2 of the Code of Conduct, which relates to the abuse of cricket equipment during the match. For Level 1 breaches, the match referee's decision is final and binding,\" a WPL release stated",
-    "img": "https://th-i.thgim.com/public/incoming/j0851m/article70535924.ece/alternates/LANDSCAPE_1200/PTI01_17_2026_000514B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/lizelle-lee-fined-for-code-of-conduct-breach-in-wpl/article70535468.ece",
-    "time": "2026-01-21T23:35:42.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iranian state TV issues first official death toll from recent protests, saying 3,117 were killed",
-    "desc": "The comments by Foreign Minister Abbas Araghchi, who saw his invitation to the World Economic Forum in Davos rescinded over the killings, came as a U.S. aircraft carrier group moved west toward the Middle East from Asia",
-    "img": "https://th-i.thgim.com/public/incoming/cj9zl3/article70535294.ece/alternates/LANDSCAPE_1200/Iran_Protests_Death_Toll_48846.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iranian-state-tv-issues-first-official-death-toll-from-recent-protests-saying-3117-were-killed/article70535246.ece",
-    "time": "2026-01-21T20:08:51.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "At Davos, Trump rules out force in Greenland",
-    "desc": "In his nearly 70-minute-long address at the World Economic Forum in Davos, U.S. President Donald Trump on Wednesday (January 21, 2026) pushed for his bid to acquire Greenland. Seeking immediate negotiations on the matter, he asserted that U.S. control of Greenland would not be a “threat to NATO”.",
-    "img": "https://th-i.thgim.com/public/news/national/d9rvc5/article70535033.ece/alternates/LANDSCAPE_1200/us%20india%204.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/at-davos-trump-rules-out-force-in-greenland/article70535034.ece",
-    "time": "2026-01-21T17:10:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘Geopolitical tensions point to elevated risks, policy uncertainty’",
-    "desc": "But current state of economy provides ground for optimism going forward with the GDP growth estimates for 2025-26 indicating that India will remain the fastest-growing major economy in the world, RBI officials write in Jan. bulletin",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/geopolitical-tensions-point-to-elevated-risks-policy-uncertainty/article70534149.ece",
-    "time": "2026-01-21T17:03:59.000Z"
   }
 ];
