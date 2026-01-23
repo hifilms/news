@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "તારીખની જાહેરાત ! આ દિવસે ખુલશે ચારધામમાંથી એક બદ્રીનાથ ધામના કપાટ, જાણો ક્યારથી શરૂ થશે યાત્રા",
+    "desc": "ઉત્તરાખંડના સૌથી મોટા આસ્થા કેન્દ્ર ગણાતા બદ્રીનાથ ધામના દરવાજા ખોલવાની તારીખ જાહેર કરવામાં આવી છે. વસંત પંચમીના શુભ પ્રસંગે, તેહરી જિલ્લાના નરેન્દ્ર નગર સ્થિત રાજવી દરબારમાં શાસ્ત્રો અને પંચાંગ ગણતરીઓ પછી, બદ્રીનાથ ધામના દરવાજા ખોલવાની તારીખ જાહેર કરવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/the-doors-of-badrinath-dham-will-open-on-this-date-know-when-the-yatra-will-start-462643 ",
+    "time": "2026-01-23T09:09:18.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "₹6 લાખથી ઓછી કિંમતમાં સૌથી વધુ માઇલેજ આપનારી કાર, સિટી ડ્રાઇવિંગ માટે પરફેક્ટ",
+    "desc": "₹6 લાખથી ઓછા બજેટમાં વધુ માઇલેજ આપનારી કારમાં ટાટા ટિયાગો, હ્યુન્ડઈ ગ્રાન્ડ i10 નિઓસ, વેગનઆર સામેલ છે. આ કાર ઓછી કિંમત, સારી માઇલેજ અને શહેરમાં આરામદાયક ડ્રાઇવિંગ માટે બેસ્ટ છે, જેનાથી પેટ્રોલ પર ઓછો ખર્ચ રહે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/5-cars-under-rs-6-lakh-for-max-mileage-perfect-for-city-driving-462641 ",
+    "time": "2026-01-23T09:07:45.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "પેરેન્ટ્સ માટે ખુશખબર! બાળકોના WhatsApp પર મળશે પૂરું કંટ્રોલ, જાણો કેવી રીતે કામ કરશે આ નવું ફીચર",
+    "desc": "WhatsApp બાળકોની સુરક્ષાને લઈને એક મોટું પગલું ભરવા જઈ રહ્યું છે. નવા Beta અપડેટમાં Parental Control અને Secondary Account ફીચરના સંકેત મળ્યા છે, જેનાથી માતા-પિતા બાળકોના WhatsApp ઉપયોગ પર સંપૂર્ણ નજર અને નિયંત્રણ રાખી શકશે. જાણો આ ફીચર કેવી રીતે કામ કરશે અને બાળકો માટે શું ફેરફાર આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/good-news-for-parents-youll-get-complete-control-over-your-childrens-whatsapp-activity-462637 ",
+    "time": "2026-01-23T08:15:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ટ્રેનમાં મોબાઈલ ચોરાઈ જાય તો શું કરવું? સરકારની આ એપ આવશે ખુબ જ કામ, જાણી લો વિગતો",
+    "desc": "ટ્રેનમાં મુસાફરી દરમિયાન મોબાઈલ ખોવાઈ ગયો? હવે ગભરાવાની જરૂર નથી. સરકારની Sanchar Saathi એપથી મિનિટોમાં ફોન બ્લોક કરો અને ચોર માટે ફોનને સાવ નકામો બનાવી દો, સાથે જ તમારા ડેટા અને પૈસાને પણ સુરક્ષિત રાખો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/what-should-you-do-if-your-mobile-phone-is-stolen-in-the-train-this-government-app-will-work-know-the-details-462626 ",
+    "time": "2026-01-23T07:09:23.000Z"
+  },
+  {
     "cat": "Business",
     "title": "સોના-ચાંદીના ભાવ કઈ રીતે નક્કી થાય? ભારતમાં કોણ નક્કી કરે રેટ, 2026માં કેટલે પહોંચશે સોનું? ખાસ જાણો",
     "desc": "સોના અને ચાંદીના ભાવમાં છેલ્લા કેટલાક સમયથી ભારે ઉથલ પાથલ જોવા મળી રહી છે. ભાવમાં જબરદસ્ત વધારો નોંધાઈ રહ્યો છે. રોજેરોજ ભાવમાં નવા રેકોર્ડ બની રહ્યા છે. ત્યારે એ જાણવું જરૂરી છે કે સોના અને ચાંદીના ભાવ કઈ રીતે નક્કી થાય છે અને આગામી 2026નું વર્ષ કેવી કેવું રહેશે તે ખાસ જાણો.",
@@ -288,24 +324,6 @@ const newsData_gu = [
     "time": "2026-01-20T12:51:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "અટલ બિહારી વાજપેયીથી નીતિન નવીન સુધી... BJPના રાષ્ટ્રીય અધ્યક્ષોની યાદી અને પદભાર સમયે કોની કેટલી ઉંમર?",
-    "desc": "બિહારના યુવા નેતા નીતિન નવીને અંદાજે 45 વર્ષની ઉંમરે BJP ના રાષ્ટ્રીય અધ્યક્ષ તરીકેનો પદભાર સંભાળી લીધો છે. આ સાથે જ નીતિન નવીન BJP ના રાષ્ટ્રીય અધ્યક્ષની જવાબદારી સંભાળનારા સૌથી યુવા નેતાઓમાં સામેલ થઈ ગયા છે. નીતિન નવીન પહેલા BJP ના 11 દિગ્ગજ નેતાઓ આ જવાબદારી સંભાળી ચૂક્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/atal-bihari-vajpayee-to-nitin-nabin-how-old-were-they-when-they-assumed-the-post-of-bjp-national-president-462295 ",
-    "time": "2026-01-20T09:39:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "નીતિન નવીન કઈ જાતિમાંથી આવે છે? જાણો બિહારમાં કેટલી છે તેમની સંખ્યા",
-    "desc": "નવા નિયુક્ત ભાજપના રાષ્ટ્રીય અધ્યક્ષ નીતિન નવીનને આપવામાં આવેલા \"સિંહા\" શીર્ષકને કારણે, લોકો ઘણીવાર તેમને \"સિંહ\", જેનો અર્થ રાજપૂત થાય છે તે સમજવાની ભૂલ કરે છે. બિહારમાં કેટલીક કુર્મી અને ઓબીસી જાતિઓએ પણ \"સિંહા\" શીર્ષકનો ઉપયોગ કરવાનું શરૂ કર્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/which-caste-does-nitin-naveen-belong-to-know-how-many-of-them-are-there-in-bihar-462294 ",
-    "time": "2026-01-20T09:31:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "BCCI સેન્ટ્રલ કોન્ટ્રાક્ટમાં થશે મોટો ફેરફાર, વિરાટ કોહલી અને રોહિત શર્માનું ડિમોશન પાક્કું !",
     "desc": "ભારતીય ક્રિકેટ બોર્ડ ખેલાડીઓ માટે વાર્ષિક સેન્ટ્રલ કોન્ટ્રાક્ટ સિસ્ટમમાં મોટો ફેરફાર કરવાની તૈયારી કરી રહ્યું છે. આ મોટા ફેરફારની સૌથી વધુ અસર ટીમ ઈન્ડિયાના સ્ટાર ખેલાડીઓ ખાસ કરીને વિરાટ કોહલી અને રોહિત શર્મા પર પડી શકે છે.",
@@ -313,24 +331,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/bcci-is-likely-to-remove-a-plus-category-in-central-contract-kohli-rohit-to-demoted-462292 ",
     "time": "2026-01-20T09:26:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "3 કિલો ચાંદી... 25 લાખનો ખર્ચ અને એક વર્ષની મહેનત: જયપુરનું આ લગ્ન કાર્ડ જોઈને તમે ચોંકી જશો",
-    "desc": "જયપુરના એક ઝવેરીએ પોતાની દીકરીના લગ્ન માટે એક એવું નિમંત્રણ પત્ર બનાવ્યું છે જે અત્યારે ભારે ચર્ચામાં છે. એક પિતાએ પોતાની દીકરીના લગ્ન માટે 3 કિલો ચાંદી અને 25 લાખ રૂપિયાના ખર્ચે, પૂરા એક વર્ષની મહેનત બાદ આ અનોખું ઇન્વિટેશન કાર્ડ તૈયાર કરાવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/3-kg-of-silver-a-cost-of-25-lakh-rupees-and-a-year-of-hard-work-you-see-this-wedding-invitation-from-jaipur-462291 ",
-    "time": "2026-01-20T09:24:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP ના રાષ્ટ્રીય અધ્યક્ષ નીતિન નબીનને કેટલો પગાર મળશે? પાર્ટીમાં કઈ-કઈ સુવિધા મળશે, જાણો વિગત",
-    "desc": "ભાજપના નવા રાષ્ટ્રીય અધ્યક્ષ નીતિન નબીને પાર્ટીની કમાન સંભાળી લીધી છે. બિહારથી આવતા 45 વર્ષીય નીતિન નબીન પાંચ વખત ધારાસભ્ય રહી ચુક્યા છે. હવે બધાના મનમાં સવાલ થઈ રહ્યો છે કે આખરે ભાજપના રાષ્ટ્રીય અધ્યક્ષને કેટલો પગાર મળે છે, તેમને કઈ-કઈ સુવિધા મળે છે. જાણો દરેક વિગત...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/what-salary-will-national-president-of-bjp-party-new-president-nitin-nabin-after-jp-nadda-receive-facilities-462290 ",
-    "time": "2026-01-20T09:20:25.000Z"
   },
   {
     "cat": "Sports",
@@ -502,32 +502,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/has-someone-taken-a-loan-on-your-aadhaar-card-check-in-minutes-from-your-mobile-461496 ",
     "time": "2026-01-12T15:45:27.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "સરકાર અને Appleની ડબલ ચેતવણી! iPhone યુઝર્સ તાત્કાલિક કરે આ એક કામ, નહીંતર ફોન થઈ શકે છે હેક",
-    "desc": "Apple iPhoneનો ઉપયોગ કરો છો, તો તમારે તાત્કાલિક એક કામ કરી લેવું જોઈએ, નહીંતર ભારે નુકસાનનો સામનો કરવો પડી શકે છે. સરકારી એજન્સી CERT-In અને એપલે તેમના યુઝર્સને એલર્ટ કર્યા છે. ચાલો જાણીએ કે આ એલર્ટ શા માટે જારી કરવામાં આવ્યું છે અને એલર્ટ અને કેવી રીતે ઠીક કરવું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/iphone-security-risk-update-apple-cert-warns-how-to-update-ios-26-461449 ",
-    "time": "2026-01-12T11:12:57.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "પાસવર્ડની જરૂર પડશે નહીં! ગૂગલ અને માઇક્રોસોફ્ટ લાવી રહ્યા છે એક નવી લોગિન સિસ્ટમ, ભારતમાં અટવાઈ શકે છે આખો ખેલ",
-    "desc": "પાસવર્ડ ભૂલી જવું સામાન્ય બાબત છે, પરંતુ સમસ્યા એ છે કે તમે સલામતી માટે તેને લખી શકતા નથી. તેથી, તમે તમારા ફોન અથવા ટેબ્લેટને તમારો પાસવર્ડ બનાવી શકો છો. પાસકી એક રસપ્રદ લોગિન સિસ્ટમ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/no-need-for-passwords-google-and-microsoft-are-bringing-a-new-login-system-the-whole-game-may-get-stuck-in-india-461439 ",
-    "time": "2026-01-12T10:30:32.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "બાપરે... 7.31 લાખની આ SUVએ ભૂક્કા કાઢ્યા, ટાટા પંચ પણ ટકી ન શકી, લોકોએ ખરીદવા પડાપડી કરી",
-    "desc": "ટાટા કંપનીએ પોતાની કારોના વેચાણના આંકડા જાહેર કર્યા છે. જેમાં ડિસેમ્બર 2025માં કઈ કાર કેટલી વેચાઈ તે માહિતી છે. આ માહિતી મુજબ કઈ કારે ટોપ પોઝિશન મેળવી છે તે જાણીને આંખો પહોળી થઈ જશે કારણ કે તેના વાર્ષિક વેચાણમાં 43 ટકાનો વધારો નોંધાયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/tata-sales-report-breakup-december-2025-nexon-on-top-know-about-punch-curve-other-models-461419 ",
-    "time": "2026-01-12T08:55:43.000Z"
   }
 ];

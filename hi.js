@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India to face Pakistan in U19 World Cup 2026 on this day? Details here",
+    "desc": "The league phase of the ongoing U19 World Cup in Zimbabwe and Namibia is set to conclude on Saturday (January 24) with the match between India and New Zealand. India have already qualified for the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-to-face-pakistan-in-u19-world-cup-2026-on-this-day-details-here-2026-01-23-1027171",
+    "time": "2026-01-23T08:09:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia's injury woes compound as Nathan Ellis faces race against time to get fit for T20 World Cup 2026",
+    "desc": "In the ever-increasing woes for Hobart Hurricanes, the franchise’s skipper, Nathan Ellis, has been ruled out of the remainder of the ongoing BBL (Big Bash League) season after he sustained a hamstring injury against Brisbane...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-s-injury-woes-compound-as-nathan-ellis-faces-race-against-time-to-get-fit-for-t20-world-cup-2026-2026-01-23-1027170",
+    "time": "2026-01-23T08:04:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Prashant Veer, CSK's Rs 14.2 crore recruit for IPL 2026, gets injured in Ranji Trophy: Know details",
+    "desc": "Prashant Veer of Uttar Pradesh suffered a shoulder injury on the opening day of the Ranji Trophy clash against Jharkhand. For the unversed, Veer is IPL's costliest uncapped buy with Chennai Super Kings splurging a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/prashant-veer-csk-s-rs-14-2-crore-recruit-for-ipl-2026-gets-injured-in-ranji-trophy-know-details-2026-01-23-1027162",
+    "time": "2026-01-23T07:30:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nick Kyrgios opens up on his future after first-round men's doubles exit from Australian Open 2026",
+    "desc": "Nick Kyrgios, alongside his doubles partner Thanasi Kokkinakis, was eliminated from the first round of the men’s doubles of the Australian Open 2026. The duo took on Jason Kubler and Marc Polmans in the first...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/nick-kyrgios-opens-up-on-his-future-after-first-round-men-s-doubles-exit-from-australian-open-2026-2026-01-23-1027153",
+    "time": "2026-01-23T06:49:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "IND vs NZ, Raipur, weather report: Will rain spoil 2nd T20I of the multi-format series?",
     "desc": "The stage is set for the 2nd T20I of the ongoing series between India and New Zealand. The two sides will take on each other at the Shaheed Veer Narayan Singh International Stadium, Raipur, on...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-2nd-t20i-pitch-report-how-will-surface-at-svns-international-stadium-in-raipur-play-2026-01-22-1027101",
     "time": "2026-01-22T17:58:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Casemiro announces decision to leave Manchester United after POTM performance against City",
-    "desc": "Casemiro has announced that he will leave Manchester United at the end of the current season. The Brazilian midfielder shared the decision on social media, making clear that the choice was driven by reflection and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/casemiro-announce-decision-to-leave-manchester-united-after-potm-performance-against-city-2026-01-22-1027094",
-    "time": "2026-01-22T17:06:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Adar Poonawalla confirms RCB interest, promises 'strong and competitive bid' to own franchise",
-    "desc": "Adar Poonawalla, Chief Executive Officer of Serum Institute, has signalled his intention to make a major move in the Indian Premier League (IPL) market, revealing plans to submit a “strong and competitive” bid for the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/adar-poonawalla-confirms-rcb-interest-promises-strong-and-competitive-bid-to-own-franchise-2026-01-22-1027084",
-    "time": "2026-01-22T15:15:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Africa make changes to T20 World Cup 2026 squad, two star cricketers included; Miller remains doubtful",
-    "desc": "South Africa’s T20 World Cup squad has seen key changes ahead of the tournament in Sri Lanka and India next month, with Ryan Rickelton and Tristan Stubbs now confirmed to travel. Tony de Zorzi, Donovan...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-make-changes-to-t20-world-cup-2026-squad-two-star-cricketers-included-david-miller-remains-doubtful-2026-01-22-1027077",
-    "time": "2026-01-22T14:16:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "UP-W vs GG-W WPL Match Score Live: Gujarat thrash UP Warriorz with 45-run win",
-    "desc": "UP Warriorz and Gujarat Giants both sit on two wins each, but their current momentum differs sharply. The Meg Lanning-led side has bounced back with consecutive victories over Mumbai Indians in Navi Mumbai and now...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gg-vs-up-wpl-2026-live-cricket-score-up-warriorz-vs-gujarat-giants-bca-stadium-kotambi-latest-match-updates-scorecard-teams-playing-xi-2026-01-22-1027070",
-    "time": "2026-01-22T13:27:36.000Z"
   }
 ];
