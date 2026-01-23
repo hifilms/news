@@ -1,5 +1,221 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'Parasakthi' BO day 13: Film collects only Rs 33 lakhs",
+    "desc": "Sivakarthikeyan's 'Parasakthi' experienced a significant box office dip on its 13th day, earning just Rs 33 lakhs and bringing its total to Rs 50.98 crore. Tamil Nadu occupancy remained low at 13.14 percent. Social media buzz highlights the film's powerful, thought-provoking nature, though some viewers found it slow-paced.",
+    "img": "https://static.toiimg.com/photo/msid-127215541,imgsize-32010.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-box-office-collections-day-13-sivakarthikeyan-film-collects-only-rs-33-lakhs-occupancy-drops/articleshow/127215541.cms",
+    "time": "2026-01-23T00:57:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How V.O. Chidambaram Pillai earned the title  ‘Sekkizhutha Chemmal’",
+    "desc": "VOC was arrested on the charge of sedition on March 12, 1908. A British jailer noticed his hands bleeding from the harsh labour of separating coir and spinning rope in the Coimbatore prison. Hence, he advised him to work at the oil press instead. VOC accepted the suggestion and pulled the oil press himself, a task normally reserved for bulls",
+    "img": "https://th-i.thgim.com/public/incoming/z1qm0e/article70537289.ece/alternates/LANDSCAPE_1200/CB06_V.O._Chidambaram_Pillai_1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/how-vo-chidambaram-pillai-earned-the-title-sekkizhutha-chemmal/article70537156.ece",
+    "time": "2026-01-23T00:46:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Border 2' eyes Rs 20 crore mark in advance bookings",
+    "desc": "Anticipation is high for 'Border 2' as it releases today, January 23rd, aiming for a strong Republic Day weekend. Early estimates show impressive advance bookings exceeding Rs 12 crore, with strong ticket sales across various formats. The film is poised for a significant opening, potentially challenging 'Gadar 2's historic success and aiming for one of 2026's highest debuts.",
+    "img": "https://static.toiimg.com/photo/msid-127214805,imgsize-30440.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-advance-box-office-report-day-1-sunny-deol-starrer-eyes-rs-20-crore-mark-ahead-of-theatrical-debut/articleshow/127212727.cms",
+    "time": "2026-01-23T00:42:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "When E.V.K. Sampath hit the headlines in Tamil Nadu",
+    "desc": "Sampath, nephew of E.V. Ramasamy, enjoyed a special relationship with DMK founder C.N. Annadurai. Before other DMK leaders, he realised the futility of pursuing the demand for a Dravida Nadu. He quit the DMK in 1961 and founded a party, which he merged with the Congress. Sampath’s birth centenary falls on March 6, 2026.",
+    "img": "https://th-i.thgim.com/public/incoming/f87orz/article70538277.ece/alternates/LANDSCAPE_1200/EVKS%20Sambath%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/whenevksampath-hit-the-headlines-in-tamil-nadu/article70538245.ece",
+    "time": "2026-01-23T00:37:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Raja Saab' BO day 14: Prabhas film drops further",
+    "desc": "Prabhas's 'The Raja Saab' is struggling significantly at the box office, with collections plummeting to just Rs 51 lakhs on its 14th day. The film has garnered a total of Rs 142.71 crore in India, but occupancy remains critically low across Telugu and Hindi markets. Mixed online reactions highlight issues with the storyline and execution, suggesting a tough road ahead.",
+    "img": "https://static.toiimg.com/photo/msid-127213940,imgsize-49386.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-box-office-collections-day-14-prabhas-film-drops-further-earns-just-rs-51-lakhs/articleshow/127213940.cms",
+    "time": "2026-01-23T00:31:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vadasery’s temple jewellery: a craft caught between heritage and high gold, silver prices",
+    "desc": "Temple jewellery continues to survive with its distinctive manufacturing method and rich antiquity. But the artisans of Vadasery in Nagercoil, who practise the craft, are buffeted by the drop in demand with gold and silver prices going up",
+    "img": "https://th-i.thgim.com/public/incoming/uuig6n/article70537403.ece/alternates/LANDSCAPE_1200/2315_22_1_2026_15_38_7_2_NAGERCOIL4.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/vadasery-temple-jewellery-a-craft-caught-between-heritage-and-high-gold-silver-prices/article70537176.ece",
+    "time": "2026-01-23T00:31:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Chatha Pacha' BO day 1: Film collects Rs 3.30 cr",
+    "desc": "The Ring of Rowdies' debuted with a respectable Rs 3.30 crore net on its opening day. While early reviews are mixed, praising its action and visuals, some critics point to weak writing. The movie saw a significant surge in occupancy during night shows, indicating growing audience interest.",
+    "img": "https://static.toiimg.com/photo/msid-127212463,imgsize-42748.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/chatha-pacha-box-office-collections-day-1-roshan-mathew-and-arjun-ashokan-film-opens-decent-mints-rs-3-30-cr/articleshow/127212463.cms",
+    "time": "2026-01-23T00:10:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar' earns Rs 13.9 cr ahead of 'Border 2' release",
+    "desc": "'Dhurandhar' starring Ranveer Singh and Akshaye Khanna has completed its seventh week, achieving its lowest collection yet at Rs 1.1 crore but still surpassing Rs 1 crore. The film has set a new record for week 7 earnings, reaching a total of Rs 13.9 crore. Its impressive Rs 830.",
+    "img": "https://static.toiimg.com/photo/msid-127211476,imgsize-23194.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-49-ranveer-singh-and-akshaye-khanna-starrer-ends-week-7-with-rs-13-9-crore-haul-amid-border-2-takeover/articleshow/127211043.cms",
+    "time": "2026-01-22T23:54:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Makhana to microchips, Republic Day to showcase India's story of growth",
+    "desc": "Republic Day tableaux are taking shape at Delhi Cantonment, showcasing India's past, present, and aspirations, with a special focus on the 150th anniversary of Vande Mataram. Around 30 displays, featuring military might, cultural legacies, and technological advancements, will be presented on Kartavya Path by 2,500 artistes.",
+    "img": "https://static.toiimg.com/photo/msid-127210834,imgsize-1504116.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/makhana-to-microchips-republic-day-to-showcase-indias-story-of-growth/articleshow/127210467.cms",
+    "time": "2026-01-22T23:39:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Stop the World Cup': Pakistan urged to boycott T20 WC in support of Bangladesh",
+    "desc": "Former Pakistan captain Rashid Latif urged the PCB to boycott the T20 World Cup, supporting Bangladesh's security concerns. He believes Pakistan should challenge the cricket power structure by withdrawing, as their participation is crucial to the tournament's success. Latif questioned the ICC's dismissal of Bangladesh's relocation request, emphasizing the potential for sanctions but stressing the importance of taking a stand.",
+    "img": "https://static.toiimg.com/photo/msid-127170658,imgsize-1426207.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/stop-the-world-cup-pakistan-urged-to-boycott-t20-wc-in-support-of-bangladesh/articleshow/127156207.cms",
+    "time": "2026-01-22T23:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A mob lynching in Odisha and deepening mistrust between communities",
+    "desc": "On January 14, a man was beaten to death in Odisha’s Balasore district on suspicion of his involvement in what is now being called cattle trafficking by the police. Satyasundar Barik visits the family to piece together the events of that day, and examine how cattle trading is emerging as a flashpoint, deepening mistrust between majority and minority communities",
+    "img": "https://th-i.thgim.com/public/incoming/apo54/article70537422.ece/alternates/LANDSCAPE_1200/90092_21_1_2026_17_59_16_3_MOB_LYNCHING_7.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/odisha/killed-for-a-cow-a-mob-lynching-in-odisha-and-deepening-mistrust-between-communities/article70537387.ece",
+    "time": "2026-01-22T23:26:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "EAM Jaishankar meets envoys from EU countries",
+    "desc": "External Affairs Minister S Jaishankar met EU ambassadors, emphasizing that stronger India-EU trade, mobility, and security ties will stabilize the global order. He highlighted cooperation on resilient supply chains and public goods like HADR and anti-piracy operations. The upcoming summit is expected to finalize an FTA, a defense partnership, and a mobility agreement.",
+    "img": "https://static.toiimg.com/photo/msid-127208461,imgsize-121392.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/eam-jaishankar-meets-envoys-from-eu-countries/articleshow/127208015.cms",
+    "time": "2026-01-22T23:07:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Triple talaq-halala FIR puts focus on legal grey area",
+    "desc": "An FIR in UP details a woman's alleged gang-rape under the guise of 'halala' after an instant triple talaq. The law banning triple talaq has been invoked, alongside provisions for rape and other offenses. This case highlights the legal grey area surrounding halala, a practice not recognized by Indian statutory law.",
+    "img": "https://static.toiimg.com/photo/msid-127207267,imgsize-1319945.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/triple-talaq-halala-fir-puts-focus-on-legal-grey-area/articleshow/127206877.cms",
+    "time": "2026-01-22T22:53:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Patent rejected for MNC’s cancer drug, generics to follow",
+    "desc": "The Indian Patent Office has rejected AbbVie's patent application for its cancer drug Venetoclax, citing a lack of inventive step and no enhancement in therapeutic efficacy. This decision, if upheld, could allow for the entry of more affordable generic versions of the drug into the Indian market.",
+    "img": "https://static.toiimg.com/photo/msid-127206387,imgsize-674370.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/patent-rejected-for-mncs-cancer-drug-generics-to-follow/articleshow/127206094.cms",
+    "time": "2026-01-22T22:46:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Apart from refunds, how will you compensate flyers?",
+    "desc": "Delhi High Court has asked IndiGo to explain how it will compensate passengers affected by mass flight cancellations last December. The court noted that refunds are not the same as compensation. IndiGo is offering Rs 10,000 vouchers to some passengers. The court wants a detailed affidavit on compensation plans. Authorities have taken steps to prevent future disruptions.",
+    "img": "https://static.toiimg.com/photo/msid-127205134,imgsize-695962.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/hc-apart-from-refunds-how-will-you-compensate-flyers/articleshow/127204742.cms",
+    "time": "2026-01-22T22:32:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aanand L Rai reacts to Rs 84 crore lawsuit over Raanjhanaa IP row",
+    "desc": "Filmmaker Aanand L Rai has responded to the Rs 84 crore lawsuit filed by Eros International Media Ltd, which has accused him of intellectual property violations linked to his 2013 film Raanjhanaa. Calling it a routine business dispute, Rai downplayed the controversy and said it was best left to lawyers.",
+    "img": "https://static.toiimg.com/photo/msid-127204258,imgsize-32132.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anyone-can-say-anything-aanand-l-rai-reacts-to-rs-84-crore-lawsuit-over-raanjhanaa-ip-row/articleshow/127204083.cms",
+    "time": "2026-01-22T22:29:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Meitei visiting Kuki fiancee shot dead on camera",
+    "desc": "A Meitei man visiting his Kuki fiancée in Churachandpur was abducted and shot dead on camera, sparking protests and an NIA probe. Graphic footage of the killing circulated widely. The incident occurred amidst ongoing ethnic tensions between Meitei and Kuki-Zo communities in Manipur, highlighting the fragile peace in the region.",
+    "img": "https://static.toiimg.com/photo/msid-127204133,imgsize-1189906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/meitei-visiting-kuki-fiancee-shot-dead-on-camera/articleshow/127203749.cms",
+    "time": "2026-01-22T22:22:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lula discusses strategic ties with PM Modi, to visit in February",
+    "desc": "Brazilian President Luiz Inacio Lula da Silva will visit India from February 19-21 to strengthen the strategic partnership and discuss bilateral cooperation for the Global South. The leaders pledged to work together for UNSC reforms and peace in Gaza, with Lula also expected to attend the AI summit and a later BRICS summit.",
+    "img": "https://static.toiimg.com/photo/msid-127202867,imgsize-745452.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/lula-discusses-strategic-ties-with-pm-modi-to-visit-in-february/articleshow/127202651.cms",
+    "time": "2026-01-22T22:12:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India condemns SFJ vandalism in Zagreb",
+    "desc": "India has strongly condemned the vandalism of its embassy in Zagreb by the Sikhs for Justice group, which attempted to replace the Tricolour with a \"Khalistan flag.\" New Delhi has officially raised the matter with Croatian authorities, demanding justice for the perpetrators and emphasizing the inviolability of diplomatic premises.",
+    "img": "https://static.toiimg.com/photo/msid-127202339,imgsize-679690.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-condemns-sfj-vandalism-in-zagreb/articleshow/127202122.cms",
+    "time": "2026-01-22T22:06:23.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump sues JPMorgan for $5 billion, alleges the bank closed his accounts for political reasons",
+    "desc": "Mr. Trump alleges he tried to raise the issue personally with Mr. Dimon after the bank started to close his accounts, and that Mr. Dimon assured Mr. Trump he would figure out what was happening",
+    "img": "https://th-i.thgim.com/public/incoming/oo2j7w/article70539927.ece/alternates/LANDSCAPE_1200/2026-01-22T132948Z_450910037_RC2D6JAVQVNX_RTRMADP_3_DAVOS-MEETING-TRUMP.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-sues-jpmorgan-for-5-billion-alleges-the-bank-closed-his-accounts-for-political-reasons/article70539926.ece",
+    "time": "2026-01-22T21:59:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Basant Panchami, Friday prayers in separate areas of MP's Bhojshala today: SC",
+    "desc": "The Supreme Court has expedited the legal dispute over the Bhojshala Saraswati Temple cum Maulana Kamal Maula Mosque in Dhar, Madhya Pradesh. The court lifted its stay on the case pending with the MP High Court and decoupled it from the Places of Worship Act.",
+    "img": "https://static.toiimg.com/photo/msid-127201591,imgsize-2024022.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/basant-panchami-friday-prayers-in-separate-areas-of-mps-bhojshala-today-sc/articleshow/127201382.cms",
+    "time": "2026-01-22T21:55:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'AR Rahman doesn’t understand Hindi': Rabbi Shergill",
+    "desc": "Singer Rabbi Shergill, best known for Bulla Ki Jaana and Tere Bin, has shared a candid view on working with Oscar-winning composer AR Rahman. While praising Rahman’s musical brilliance, Shergill said that lyrics often become “secondary” in Rahman’s compositions, largely because Hindi is not the composer’s primary language.",
+    "img": "https://static.toiimg.com/photo/msid-127199319,imgsize-38112.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ar-rahman-doesnt-understand-hindi-rabbi-shergill-says-poetry-took-a-backseat-in-rahmans-compositions/articleshow/127198444.cms",
+    "time": "2026-01-22T21:29:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sajjan Kumar acquitted in a 1984 riots case",
+    "desc": "A Delhi court acquitted former Congress MP Sajjan Kumar in a 1984 anti-Sikh riot case, citing insufficient evidence. The judge emphasized the need for proof beyond a reasonable doubt, noting a lack of reliable testimony placing Kumar at the scene or proving his instigation. Kumar remains incarcerated due to life sentences in other riot-related convictions.",
+    "img": "https://static.toiimg.com/photo/msid-127199769,imgsize-951617.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sajjan-kumar-acquitted-in-a-1984-riots-case/articleshow/127199362.cms",
+    "time": "2026-01-22T21:29:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "MHA notifies Census 2027 schedule, lists 33 questions",
+    "desc": "India's upcoming Census 2027 will collect detailed household information, including building materials, amenities like water and sanitation, and ownership status. For the first time since 1931, caste details will be gathered. The houselisting and housing phase runs April-September 2026, with population enumeration in February 2027.",
+    "img": "https://static.toiimg.com/photo/msid-127200160,imgsize-1691511.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mha-notifies-census-2027-schedule-lists-33-questions/articleshow/127198133.cms",
+    "time": "2026-01-22T21:10:30.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Supreme Court rejects privacy plea, allows ED to access I-PAC man's phone",
     "desc": "The Supreme Court refused to stop the ED from accessing information from an I-PAC functionary's seized mobile phone, despite pleas of privacy violation. The court stated it knows how to protect innocent citizens. This comes as ED faced interruptions in Kolkata during a search, unlike in Delhi.",
@@ -207,15 +423,6 @@ const newsData_en = [
     "time": "2026-01-22T17:54:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Don't air internal issues in public: Congress warns Punjab leaders; no 'group activity' to be tolerated",
-    "desc": "Congress has issued a strong directive to its Punjab leaders, demanding an end to public displays of internal discord and factionalism. Party president Mallikarjun Kharge and Rahul Gandhi emphasized unity for the 2027 assembly elections, assuring no immediate leadership changes. Leaders must raise concerns internally, not through media, to present a united front for victory.",
-    "img": "https://static.toiimg.com/photo/msid-127182096,imgsize-1064751.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dont-air-internal-issues-in-public-congress-warns-punjab-leaders-no-group-activity-to-be-tolerated/articleshow/127182144.cms",
-    "time": "2026-01-22T17:49:21.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sophie Devine stars as Gujarat Giants crush UP Warriorz by 45 runs",
     "desc": "Sophie Devine's stellar all-round performance, featuring an unbeaten 50 and two wickets, powered Gujarat Giants to a dominant 45-run victory over UP Warriorz. After posting 153/8, the Giants' disciplined bowling attack, spearheaded by Rajeshwari Gayakwad's three wickets, restricted UP to 108, ending a three-match losing streak and propelling Gujarat to second in the WPL standings.",
@@ -232,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-timothe-chalamet-makes-history-becomes-youngest-male-actor-with-three-acting-nominations/articleshow/127181168.cms",
     "time": "2026-01-22T17:42:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Is CM so helpless': Bombay HC raps Maharashtra government; Sena minister's son evades arrest",
-    "desc": "The Bombay High Court sharply questioned the Maharashtra government's adherence to the rule of law, asking if the Chief Minister was too \"helpless\" to act against a minister whose son has evaded arrest for weeks. The court's remarks came after the police failed to apprehend the minister's son following the rejection of his pre-arrest bail plea.",
-    "img": "https://static.toiimg.com/photo/msid-127181448,imgsize-751932.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/is-cm-so-helpless-bombay-hc-raps-maharashtra-government-sena-ministers-son-evades-arrest/articleshow/127181472.cms",
-    "time": "2026-01-22T17:41:44.000Z"
   },
   {
     "cat": "Sports",
@@ -333,15 +531,6 @@ const newsData_en = [
     "time": "2026-01-22T16:41:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Strong momentum in partnership': PM Modi speaks to Brazilian President Lula; invites him to India",
-    "desc": "Prime Minister Narendra Modi held a productive phone call with Brazilian President Luiz Inacio Lula da Silva, emphasizing the crucial role of their nations in advancing the Global South's interests. Both leaders expressed optimism about scaling new heights in their strategic partnership and anticipate further collaboration, with President Lula expected to visit India soon.",
-    "img": "https://static.toiimg.com/photo/msid-127172452,imgsize-38576.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/strong-momentum-in-partnership-pm-modi-speaks-to-brazilian-president-lula-invites-him-to-india/articleshow/127171933.cms",
-    "time": "2026-01-22T16:34:41.000Z"
-  },
-  {
     "cat": "World",
     "title": "France’s Navy intercepts an oil tanker in the Mediterranean sailing from Russia",
     "desc": "“We are determined to uphold international law and to ensure the effective enforcement of sanctions,\" French President Emmanuel Macron said in a post about the interception, with a photo showing a French helicopter hovering over a ship.",
@@ -405,15 +594,6 @@ const newsData_en = [
     "time": "2026-01-22T15:33:32.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "KJo REACTS to 'Homebound' getting SNUBBED at 2026 Oscars",
-    "desc": "Despite not receiving a nomination for the 98th Academy Awards, India's contender 'Homebound' shines as a testament to storytelling. Producer Karan Johar celebrated the vision of director Neeraj Ghaywan, highlighting the film's poignant examination of friendship in the face of caste discrimination and the pandemic. Premiering at Cannes and hitting theaters in September 2025, it continues to inspire discussions.",
-    "img": "https://static.toiimg.com/photo/msid-127169045,imgsize-37580.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-reacts-to-homebound-getting-snubbed-at-2026-oscars-says-thank-you/articleshow/127169045.cms",
-    "time": "2026-01-22T15:29:55.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Delhi High Court asks IndiGo to file affidavit on refund, compensation",
     "desc": "The counsel for the low-cost air carrier told a Bench of Chief Justice D.K. Upadhyaya and Justice Tejas Karia that refund for the cancelled flights had been processed, and compensation was also being offered in terms of the civil aviation requirements for cancellation of flights",
@@ -430,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-markets-today-wall-street-extends-rebound-as-trump-eases-tariff-stance-global-equities-steady/articleshow/127168774.cms",
     "time": "2026-01-22T15:19:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'World’s biggest flop family': Assam CM Himanta takes dig at Gandhis; claims he is 'victim' of Rahul-Priyanka rift",
-    "desc": "Assam CM Himanta Biswa Sarma claims he was a \"victim\" of a rift between Rahul and Priyanka Gandhi during his Congress tenure. He also accused Assam Congress president Gaurav Gogoi and his wife of having links with Pakistan's ISI, emphasizing national security concerns.",
-    "img": "https://static.toiimg.com/photo/msid-127167001,imgsize-631731.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/worlds-biggest-flop-family-assam-cm-himanta-takes-dig-at-gandhis-claims-he-is-victim-of-rahul-priyanka-rift/articleshow/127166473.cms",
-    "time": "2026-01-22T15:14:48.000Z"
   },
   {
     "cat": "Sports",
@@ -477,15 +648,6 @@ const newsData_en = [
     "time": "2026-01-22T14:49:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Richard Rishi led ‘Draupathi 2': Cast, crew, plot, controversies",
-    "desc": "The song 'Aasma' from Mrunal Thakur and Siddhant Chaturvedi's film 'Do Deewane Seher Mein' has been released, showcasing a realistic portrayal of budding romance. Sung by Jubin Nautiyal and Neeti Mohan, the track aims to evoke emotional resonance. The film, directed by Ravi Udyawar, is set for a theatrical release on February 20, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-127164033,imgsize-241506.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/draupathi-2-review-richard-rishi-led-draupathi-2-cast-crew-plot-controversies-of-mohan-g-helmed-period-drama-revealed/articleshow/127164033.cms",
-    "time": "2026-01-22T14:42:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Adar Poonawalla plans 'strong and competitive bid' to buy IPL franchise",
     "desc": "Serum Institute of India CEO Adar Poonawalla is preparing a strong bid to acquire the Indian Premier League's Royal Challengers Bengaluru franchise. This follows Diageo's decision to put RCB up for sale after their maiden IPL title win in 2025. The franchise, a fan favorite, has a rich history and has seen legendary players grace its ranks.",
@@ -513,33 +675,6 @@ const newsData_en = [
     "time": "2026-01-22T14:19:46.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rani breaks down as KJo reads daughter’s letter for her",
-    "desc": "Rani Mukerji celebrated 30 years in Bollywood with a special event where Karan Johar read a heartfelt letter from her daughter, Adira. The note humorously touched upon shared qualities, including a short temper. Meanwhile, the trailer for 'Mardaani 3' reveals Rani's character, ACP Shivani Roy, investigating the disappearance of young girls, facing a dangerous beggar-mafia queen.",
-    "img": "https://static.toiimg.com/photo/msid-127162949,imgsize-28470.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rani-mukerji-breaks-down-as-karan-johar-reads-daughter-adiras-emotional-letter-for-best-mother-in-the-world-on-30-year-career-milestone/articleshow/127163005.cms",
-    "time": "2026-01-22T14:14:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Roving and fishing enquiry': Election Commission defends SIR in Supreme Court —what it said",
-    "desc": "The Election Commission defended its Special Intensive Revision of electoral rolls in Bihar before the Supreme Court, calling the process fair and lawful. Senior advocate Rakesh Dwivedi argued that the exercise, last conducted nearly 20 years ago, was necessary due to demographic changes and stricter citizenship requirements. The court is hearing petitions challenging the revision's legality.",
-    "img": "https://static.toiimg.com/photo/msid-127162953,imgsize-78588.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/roving-and-fishing-enquiry-election-commission-defends-sir-in-supreme-court-what-it-said/articleshow/127161604.cms",
-    "time": "2026-01-22T13:58:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Full list of nominees",
-    "desc": "As the Oscar 2026 nominations draw near, the competition is fierce, celebrating the finest films of 2025. Get ready for an exhilarating showdown for Best Picture, Best Director, and the coveted acting honors. The glamorous 98th Academy Awards will take place at the iconic Dolby Theatre on March 15th, with the hilarious Conan O'Brien back to host the evening.",
-    "img": "https://static.toiimg.com/photo/msid-127157816,imgsize-24652.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscar-2026-nominations-full-list-of-nominees-for-the-98th-academy-awards/articleshow/127157816.cms",
-    "time": "2026-01-22T13:55:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Taking Indian coaching to the world': Ashwin praises Ganguly's SA20 impact",
     "desc": "Sourav Ganguly has made a remarkable debut as head coach, steering Pretoria Capitals to the SA20 final in his inaugural season. The Keshav Maharaj-led side secured their spot after a dominant win, with Dewald Brevis starring with the bat. Ganguly's leadership is drawing praise, highlighting the global potential of Indian coaches.",
@@ -547,15 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/taking-indian-coaching-to-the-world-r-ashwin-praises-sourav-gangulys-sa20-impact/articleshow/127160753.cms",
     "time": "2026-01-22T13:55:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Actor hails Vir Das’s debut",
-    "desc": "Hrithik Roshan took to social media to rave about Vir Das' first film as a director, 'Happy Patel,' dubbing it a hilarious and fast-paced spy comedy. Roshan highlighted the film’s unique combination of whimsical moments and thrilling momentum.",
-    "img": "https://static.toiimg.com/photo/msid-127160681,imgsize-25082.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshan-cheers-vir-das-debut-happy-patel-calls-it-so-much-fun-to-watch/articleshow/127160681.cms",
-    "time": "2026-01-22T13:53:44.000Z"
   },
   {
     "cat": "Sports",
@@ -567,15 +693,6 @@ const newsData_en = [
     "time": "2026-01-22T13:47:34.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' censor row: Era Saravanan claims hurdles are deliberate",
-    "desc": "Director Era Saravanan claims 'Jana Nayagan' faces deliberate censorship hurdles, not due to director H. Vinoth's content. The film, an adaptation of 'Bhagavanth Kesari', is facing delays due to legal, political, and potential election-related issues. Trade experts suggest a February release is crucial to avoid clashing with the 2026 Tamil Nadu State Elections.",
-    "img": "https://static.toiimg.com/photo/msid-127160069,imgsize-74460.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-censor-row-era-saravanan-claims-hurdles-are-deliberate-and-planned-stands-by-h-vinoths-approach/articleshow/127160069.cms",
-    "time": "2026-01-22T13:45:03.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India-EU trade: GSP suspension raises tariffs on 87% of exports; here's what GTRI report says",
     "desc": "India's exports to the EU face significantly higher import tariffs from January 1, 2026, as the EU suspends GSP benefits for 87% of Indian goods. This withdrawal ends preferential access, impacting price-sensitive sectors like garments and coinciding with the EU's Carbon Border Adjustment Mechanism, creating a double pressure on exporters.",
@@ -583,15 +700,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/india-eu-trade-gsp-suspension-raises-tariffs-on-87-of-exports-heres-what-gtri-report-say/articleshow/127159888.cms",
     "time": "2026-01-22T13:43:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nicole Kidman’s Antarctica trip with daughters",
-    "desc": "Nicole Kidman has ticked off a major bucket list item by visiting all seven continents, with her daughters Sunday Rose and Faith Margaret joining her on this thrilling voyage to Antarctica. This expedition comes on the heels of her recent divorce from Keith Urban, serving as a refreshing new beginning as she prepares for an exciting work lineup.",
-    "img": "https://static.toiimg.com/photo/msid-127159519,imgsize-36582.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/nicole-kidman-enjoys-once-in-a-lifetime-antarctica-getaway-with-daughters-after-legal-split-from-keith-urban/articleshow/127159519.cms",
-    "time": "2026-01-22T13:39:20.000Z"
   },
   {
     "cat": "Sports",
@@ -712,15 +820,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Bangladesh players meet officials as BCB hopes for a 'miracle'",
-    "desc": "Bangladesh cricketers met with sports officials to discuss their T20 World Cup participation after the ICC rejected a request to move matches from India. The team's attendance hinges on a final decision regarding security concerns, with Scotland poised to replace them if they withdraw.",
-    "img": "https://static.toiimg.com/photo/msid-127142498,imgsize-47942.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-row-bangladesh-players-meet-officials-as-bcb-hopes-for-a-miracle/articleshow/127142016.cms",
-    "time": "2026-01-22T10:41:13.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "India, Australia beware! Pakistan tipped as dark horse for U19 WC title win",
     "desc": "While India and Australia are favoured for the 2026 ICC Under-19 World Cup, former South Africa spinner Paul Adams highlights Pakistan as a strong contender. Pakistan's recent Under-19 Asia Cup triumph, where they convincingly defeated India, signals their formidable presence and potential to challenge traditional powerhouses in the tournament.",
     "img": "https://static.toiimg.com/photo/msid-127139539,imgsize-61560.cms",
@@ -799,104 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/icc-rejects-bangladesh-plea-pakistan-disappointed-but-wont-withdraw-from-t20-world-cup/articleshow/127111001.cms",
     "time": "2026-01-22T06:11:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee recovers 15 paise from all-time low to 91.50 against U.S. dollar in early trade",
-    "desc": "Forex traders said investors' sentiments improved after President Trump announced in Davos on January 21, 2026 that he was scrapping his planned tariffs on eight European nations in an effort to force U.S. control over Greenland",
-    "img": "https://th-i.thgim.com/public/incoming/kd09uj/article70536531.ece/alternates/LANDSCAPE_1200/iStock-1440478093%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/rupee-recovers-15-paise-from-all-time-low-to-9150-against-us-dollar-in-early-trade/article70536512.ece",
-    "time": "2026-01-22T04:58:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lizelle Lee fined for Code of Conduct breach in WPL",
-    "desc": "\"Lee admitted to a Level 1 offence under Article 2.2 of the Code of Conduct, which relates to the abuse of cricket equipment during the match. For Level 1 breaches, the match referee's decision is final and binding,\" a WPL release stated",
-    "img": "https://th-i.thgim.com/public/incoming/j0851m/article70535924.ece/alternates/LANDSCAPE_1200/PTI01_17_2026_000514B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/lizelle-lee-fined-for-code-of-conduct-breach-in-wpl/article70535468.ece",
-    "time": "2026-01-21T23:35:42.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iranian state TV issues first official death toll from recent protests, saying 3,117 were killed",
-    "desc": "The comments by Foreign Minister Abbas Araghchi, who saw his invitation to the World Economic Forum in Davos rescinded over the killings, came as a U.S. aircraft carrier group moved west toward the Middle East from Asia",
-    "img": "https://th-i.thgim.com/public/incoming/cj9zl3/article70535294.ece/alternates/LANDSCAPE_1200/Iran_Protests_Death_Toll_48846.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iranian-state-tv-issues-first-official-death-toll-from-recent-protests-saying-3117-were-killed/article70535246.ece",
-    "time": "2026-01-21T20:08:51.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "At Davos, Trump rules out force in Greenland",
-    "desc": "In his nearly 70-minute-long address at the World Economic Forum in Davos, U.S. President Donald Trump on Wednesday (January 21, 2026) pushed for his bid to acquire Greenland. Seeking immediate negotiations on the matter, he asserted that U.S. control of Greenland would not be a “threat to NATO”.",
-    "img": "https://th-i.thgim.com/public/news/national/d9rvc5/article70535033.ece/alternates/LANDSCAPE_1200/us%20india%204.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/at-davos-trump-rules-out-force-in-greenland/article70535034.ece",
-    "time": "2026-01-21T17:10:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘Geopolitical tensions point to elevated risks, policy uncertainty’",
-    "desc": "But current state of economy provides ground for optimism going forward with the GDP growth estimates for 2025-26 indicating that India will remain the fastest-growing major economy in the world, RBI officials write in Jan. bulletin",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/geopolitical-tensions-point-to-elevated-risks-policy-uncertainty/article70534149.ece",
-    "time": "2026-01-21T17:03:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "SBI MF to take at least 10% of Adani Group's biggest rupee bond issue, bankers say",
-    "desc": "Adani Power ​is looking to ⁠raise 28.60 billion rupees through a two-year option and 26.90 billion rupees via a three-year note. SBI MF will buy 4.50 billion rupees and three billion rupees of ‌these papers as the anchor investor, a banker said",
-    "img": "https://th-i.thgim.com/public/incoming/ht8mm1/article70534932.ece/alternates/LANDSCAPE_1200/Adani-EnterprisGL5F4CCOT.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/sbi-mf-to-take-at-least-10-of-adani-groups-biggest-rupee-bond-issue-bankers-say/article70534918.ece",
-    "time": "2026-01-21T16:31:33.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "EU lawmakers stall U.S. trade deal in protest over Greenland",
-    "desc": "The ​proposals require approval by ⁠the parliament and EU governments. Many lawmakers have complained that the trade deal is lopsided, with the EU required to cut most import ‌duties while the U.S. sticks to a broad ‌rate of 15%.",
-    "img": "https://th-i.thgim.com/public/incoming/yj0ml5/article70534833.ece/alternates/LANDSCAPE_1200/2026-01-21T081305Z_1839280829_RC2A3JA3WKCE_RTRMADP_3_USA-EUROZONE-LAGARDE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/eu-lawmakers-stall-us-trade-deal-in-protest-over-greenland/article70534803.ece",
-    "time": "2026-01-21T16:07:30.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "‘Will not yield’ to Trump’s pressure: Starmer on Greenland and Chagos",
-    "desc": "Donald Trump has threatened a 10% (escalating to 25% in June 2026) additional tariff on the U.K. and seven EU countries in order to effect the transfer of Greenland, a semi-autonomous Danish territory, to the U.S.",
-    "img": "https://th-i.thgim.com/public/incoming/7w2ot8/article70534583.ece/alternates/LANDSCAPE_1200/Britain_Chinese_Embassy_42778.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/will-not-yield-to-trumps-pressure-starmer-on-greenland-and-chagos/article70534421.ece",
-    "time": "2026-01-21T15:25:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek’s six-hitting blitz helps Men in Blue go one up",
-    "desc": "The opener smashes a 35-ball 84 with eight maximums while Rinku cuts loose at the death to take the home team to 238; Black Caps lose the plot once Phillips falls after a swashbuckling knock",
-    "img": "https://th-i.thgim.com/public/incoming/nf6px9/article70535104.ece/alternates/LANDSCAPE_1200/017.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-first-t20i-january-21-2026/article70534080.ece",
-    "time": "2026-01-21T13:23:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bhajan clubbing hits Chennai",
-    "desc": "Introducing a night club-like atmosphere, minus the alcohol, bhajan clubbing is catching on in many Indian cities, including in Delhi, Kolkata and Bengaluru, as well as the US. Participants skew towards Gen-Z, who enjoy the sense of community it brings. Members of the Good Deeds Club in Chennai recently conducted a ‘bhajan clubbing’ event, with singers Sai Vignesh and Saindhavi entertaining the crowd with spiritual tracks.",
-    "img": "https://th-i.thgim.com/public/incoming/7sbgxk/article70533680.ece/alternates/LANDSCAPE_1200/BHAJAN%20CLUBBING.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-bhajan-clubbing-hits-chennai/article70533669.ece",
-    "time": "2026-01-21T13:13:02.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Bangladesh court sets February 9 for charge framing",
-    "desc": "The case relates to allegations that Sheikh Hasina and several others took part in a virtual meeting of a group called the 'Joy Bangla Brigade', during which they allegedly plotted to overthrow the Muhammad Yunus-led interim government",
-    "img": "https://th-i.thgim.com/public/incoming/lh1xmj/article70533152.ece/alternates/LANDSCAPE_1200/2025-11-17T010305Z_710571786_RC2PZ3AIMVYV_RTRMADP_3_BANGLADESH-POLITICS-HASINA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/sedition-case-against-ousted-pm-hasina-bangladesh-court-sets-february-9-for-charge-framing/article70533112.ece",
-    "time": "2026-01-21T11:00:03.000Z"
   }
 ];
