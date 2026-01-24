@@ -1,5 +1,131 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Congress questions Maharashtra government’s investment claims at Davos",
+    "desc": "CM claims MoUs worth ₹30 lakh cr signed, but Congress says 70% to 80% of companies involved are not even listed; investment claims from last two years not resulted in industrial activity or jobs on the ground",
+    "img": "https://th-i.thgim.com/public/news/national/qjbs90/article70545239.ece/alternates/LANDSCAPE_1200/atul%20londhe%20congress.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/congress-questions-maharashtra-governments-investment-claims-at-davos/article70543165.ece",
+    "time": "2026-01-24T03:43:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Palaash caught red-handed? Lawyer reacts",
+    "desc": "Filmmaker Palaash Muchhal faces serious allegations from actor-producer Vidnyan Mane, including cheating during wedding celebrations and a Rs 40 lakh fraud related to film investment. Mane claims Muchhal was caught with another woman at his wedding, leading to a confrontation with cricketers. Muchhal's lawyer has denied the claims, questioning the evidence and the timing of the accusations.",
+    "img": "https://static.toiimg.com/photo/msid-127358738,imgsize-40426.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/palaash-muchhal-caught-red-handed-at-wedding-to-smriti-mandhana-lawyer-reacts-to-cheating-allegations-what-is-the-evidence/articleshow/127356247.cms",
+    "time": "2026-01-24T03:39:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Palash Muchhal was caught with another woman in bed': Mandhana's friend",
+    "desc": "Actor-producer Vidnyan Mane has accused singer-composer Palaash Muchhal of infidelity and financial misconduct, leading to a police complaint in Sangli, Maharashtra. Mane alleges Muchhal was caught with another woman during wedding festivities and claims he was cheated of over Rs 40 lakh in a film project. Muchhal has denied all accusations, calling them baseless and factually incorrect.",
+    "img": "https://static.toiimg.com/photo/msid-127357490,imgsize-38140.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/palash-muchhal-was-caught-red-handed-with-another-woman-in-bed-smriti-mandhanas-childhood-friend/articleshow/127357436.cms",
+    "time": "2026-01-24T03:20:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nicole Polizzi reveals diagnosis of cancerous cells in her cervix",
+    "desc": "In a heartfelt revelation, Nicole Polizzi, the beloved star of 'Jersey Shore,' opened up about her recent diagnosis of cervical cancer following years of unsettling pap smear results. After undergoing a thorough colposcopy and biopsy, she learned about the presence of cancerous cells and is now anxiously awaiting further tests, including a possible cone biopsy.",
+    "img": "https://static.toiimg.com/photo/msid-127357393,imgsize-884595.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jersey-shore-alum-nicole-snooki-polizzi-diagnosed-with-cancer-says-its-sad-and-scary/articleshow/127357393.cms",
+    "time": "2026-01-24T03:19:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Revealed! Why Suryakumar Yadav was angry at Ishan Kishan",
+    "desc": "Suryakumar Yadav lauded Ishan Kishan's fearless batting after India's seven-wicket win over New Zealand. Kishan's aggressive 76 and Yadav's 82 powered a remarkable chase, reflecting the team's desired free-flowing approach. Despite bowling struggles, the team restricted New Zealand to a manageable total.",
+    "img": "https://static.toiimg.com/photo/msid-127356032,imgsize-100970.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/revealed-why-suryakumar-yadav-was-angry-at-ishan-kishan-during-2nd-t20i/articleshow/127355958.cms",
+    "time": "2026-01-24T02:57:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "MMTC-PAMP pushes for duty parity for refiners",
+    "desc": "India's precious metal refiners are urging the government to address duty disparities that disadvantage local operations compared to imported refined bullion. MMTC-PAMP highlights a mismatch in import duties, particularly through the SEPA route, impacting domestic refiners' competitiveness. The industry seeks policy support, including input-related benefits and wider duty differentials, to bolster India's refining capacity and global standing.",
+    "img": "https://static.toiimg.com/photo/msid-127355892,imgsize-88148.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-metal-sector-expectations-mmtc-pamp-pushes-for-duty-parity-for-refiners/articleshow/127354109.cms",
+    "time": "2026-01-24T02:57:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Can I do it or not?'",
+    "desc": "Ishan Kishan's powerful 76 off 32 balls marked a triumphant return to the Indian jersey after a two-year hiatus. He rediscovered his form through domestic cricket, answering his own doubts about his capability to perform at the international level. Kishan's confident mindset and strategic approach were key to chasing a daunting target.",
+    "img": "https://static.toiimg.com/photo/msid-127354420,imgsize-65668.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/the-question-that-brought-ishan-kishan-back-can-i-do-it-or-not/articleshow/127354336.cms",
+    "time": "2026-01-24T02:34:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Trucks carrying loose loads to be hard topped; govt to notify rule soon",
+    "desc": "The government will soon mandate mechanized covering for trucks carrying loose materials to prevent items from falling onto roads. This update to the Truck Body Code, aimed at improving safety and compliance with Supreme Court orders, will also include requirements for AC driver cabins and advanced driver assistance systems.",
+    "img": "https://static.toiimg.com/photo/msid-127351454,imgsize-1343088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/trucks-carrying-loose-loads-to-be-hard-topped-govt-to-notify-rule-soon/articleshow/127351267.cms",
+    "time": "2026-01-24T01:47:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "IAF's Sarang helicopter team to perform at Singapore airshow",
+    "desc": "The Indian Air Force's Sarang helicopter display team will perform at the Singapore Airshow 2026, joining renowned international aerobatic teams. The event, held from February 3-9, will feature eight aerial displays by six air forces and showcase advanced military and commercial aircraft, including the debut of Australia's F-35A Lightning II.",
+    "img": "https://static.toiimg.com/photo/msid-127351400,imgsize-20964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/iafs-sarang-helicopter-team-to-perform-at-singapore-airshow/articleshow/127351423.cms",
+    "time": "2026-01-24T01:45:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tech disruptions reshaping nature of warfare, says CDS",
+    "desc": "Chief of Defence Staff Gen Anil Chauhan highlighted India's evolving security landscape, shaped by rapid technological advancements like AI and big data. He warned of \"cognitive colonialism\" through information warfare and stressed self-reliance and societal resilience to safeguard sovereignty in a changing world.",
+    "img": "https://static.toiimg.com/photo/msid-127350942,imgsize-376330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tech-disruptions-reshaping-nature-of-warfare-says-cds/articleshow/127350720.cms",
+    "time": "2026-01-24T01:35:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Chatha Pacha' BO day 2: Film crosses Rs 5 crores",
+    "desc": "'Chatha Pacha' has made a strong debut at the box office, raking in over Rs 5 crores net in India by Day 2. The film, starring Roshan Mathew and Arjun Ashokan, is particularly resonating with young audiences and WWE fans due to its unique costume wrestling theme. Despite mixed reviews, its energetic action and novel concept are drawing crowds.",
+    "img": "https://static.toiimg.com/photo/msid-127350420,imgsize-89260.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/chatha-pacha-box-office-collections-day-2-roshan-mathew-film-shows-strong-start-crosses-rs-5-crores/articleshow/127350420.cms",
+    "time": "2026-01-24T01:34:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "First separate budgets of city corporations to focus on parks, lakes and welfare funds",
+    "desc": "One of the focus areas in this year’s budgets will be municipal bonds, which allow urban local bodies to raise long-term funds directly from the market for capital-intensive infrastructure works such as roads, drains, parks and lakes.",
+    "img": "https://th-i.thgim.com/public/incoming/480pn2/article70543305.ece/alternates/LANDSCAPE_1200/High-command-toGMQFFPL6U.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/first-separate-budgets-of-city-corporations-to-focus-on-parks-lakes-and-welfare-funds/article70539130.ece",
+    "time": "2026-01-24T01:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Animal soldiers’ to join 6k military personnel at R-Day parade; S400 to be displayed, EU contingent to participate",
+    "desc": "Republic Day parade features a unique contingent of 'animal soldiers' including Bactrian camels and Zanskar ponies. For the first time, the S-400 air defence system and drone shakti will be showcased. The event highlights indigenous military might, women's participation, and a flypast celebrating recent victories.",
+    "img": "https://static.toiimg.com/photo/msid-127350071,imgsize-1396086.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bactrian-camels-to-zanskar-ponies-animal-soldiers-to-join-6k-military-personnel-at-r-day-parade-s400-to-be-displayed-eu-contingent-to-participate/articleshow/127350004.cms",
+    "time": "2026-01-24T01:25:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anne Hathaway attends Valentino's funeral",
+    "desc": "Rome bid a final farewell to legendary designer Valentino Garavani, 93, at a solemn funeral service. Fashion luminaries and Hollywood stars gathered to honor the \"last emperor\" of Italian fashion, whose creations adorned royalty and A-listers for decades. His signature red was a poignant tribute as mourners remembered his enduring legacy of beauty and style.",
+    "img": "https://static.toiimg.com/photo/msid-127349712,imgsize-35488.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/anne-hathaway-heartbroken-over-valentinos-demise-actress-reacts-to-clip-from-fashion-icons-rome-funeral/articleshow/127347853.cms",
+    "time": "2026-01-24T01:18:32.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'Parasakthi' BO day 14: Film rakes in only Rs 21 lakhs",
     "desc": "Sivakarthikeyan's 'Parasakthi' is experiencing a significant box office dip, with collections dropping to Rs 21 lakhs on day 14, bringing the total to Rs 51.29 crores. The film's second week saw a substantial decline in earnings. Despite mixed online reviews, the period drama, directed by Sudha Kongara, explores the anti-Hindi agitations of the 1960s.",
@@ -270,15 +396,6 @@ const newsData_en = [
     "time": "2026-01-23T20:45:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "DMK hostile to Tamil culture, on its way out: PM Modi says in Tamil Nadu",
-    "desc": "Prime Minister Modi declared the countdown has begun for the DMK government's end in Tamil Nadu, calling for a \"double-engine\" NDA government. He accused the DMK of being hostile to Tamil culture and leading a \"corruption, mafia, crime\" regime. Modi emphasized the NDA's unity to free Tamil Nadu and transform it into a developed, corruption-free state.",
-    "img": "https://static.toiimg.com/photo/msid-127329940,imgsize-446629.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dmk-hostile-to-tamil-culture-on-its-way-out-pm-modi-says-in-tamil-nadu/articleshow/127329701.cms",
-    "time": "2026-01-23T20:26:58.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Mphasis",
     "desc": "Mphasis CEO Nitin Rakesh assured investors that Blackstone's stake sale is a standard part of its investment cycle, not a reflection of poor performance. Blackstone, holding over 60% since 2016, plans to sell up to 1.8 crore shares via open market transactions, subject to market conditions. This move signals a natural exit strategy for the private equity firm.",
@@ -414,24 +531,6 @@ const newsData_en = [
     "time": "2026-01-23T18:33:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Indian seafarers are most abandoned in the world again",
-    "desc": "Indian sailors faced the worst abandonment in 2025. Over 1,100 Indian seafarers were left stranded on ships. This marks a significant increase from previous years. Many were left without pay and unable to return home. The International Transport Workers’ Federation is working to recover wages. This situation highlights serious issues in the maritime industry.",
-    "img": "https://static.toiimg.com/photo/msid-127319644,imgsize-913200.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indian-seafarers-are-most-abandoned-in-the-world-again/articleshow/127319128.cms",
-    "time": "2026-01-23T18:26:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Op Trashi-I: Pak terrorist killed in Jammu &amp; Kashmir’s Kathua",
-    "desc": "Security forces neutralized a top Jaish-e-Mohammad terrorist, Usman, in Kathua's Billawar during Operation Trashi-I. This operation, now in its sixth day, has seen intense combing operations and the discovery of a terrorist hideout. The ongoing hunt for more militants continues despite challenging conditions, marking a significant breakthrough for security forces.",
-    "img": "https://static.toiimg.com/photo/msid-127318176,imgsize-1025146.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/op-trashi-i-pak-terrorist-killed-in-jammu-kashmirs-kathua/articleshow/127318018.cms",
-    "time": "2026-01-23T18:14:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "At four, I watched Kosteniuk become World champion; I felt I needed that crown: Assaubayeva",
     "desc": "The youngest woman to claim the World Blitz Championship, Assaubayeva has ambitions of winning the prestigious classical title. In this chat, she talks about her beginnings in chess, what achieving the GM title meant to her, why she enjoys playing in India, what she thinks of D. Gukesh and Arjun Erigiaisi, and where Kazakhstan chess is headed",
@@ -439,15 +538,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/at-four-i-watched-kosteniuk-become-world-champion-i-felt-i-needed-that-crown-assaubayeva/article70544087.ece",
     "time": "2026-01-23T18:12:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Snow &amp; winds bring chaos to J&amp;K: Roads blocked, flights paused, power hit, schools shut",
-    "desc": "Jammu and Kashmir was battered by heavy snowfall and fierce winds reaching 155kmph, causing widespread disruption. Highways were blocked, flights cancelled, schools shut, and power supply severely impacted. The Vaishno Devi pilgrimage was suspended as snow blanketed the Trikuta Hills. Authorities are bracing for further weather challenges.",
-    "img": "https://static.toiimg.com/photo/msid-127317721,imgsize-1204165.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/snow-winds-bring-chaos-to-jk-roads-blocked-flights-paused-power-hit-schools-shut/articleshow/127317390.cms",
-    "time": "2026-01-23T18:10:01.000Z"
   },
   {
     "cat": "Sports",
@@ -558,15 +648,6 @@ const newsData_en = [
     "time": "2026-01-23T16:52:04.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Dhoom' actress Rimi Sen’s net worth",
-    "desc": "Actress Rimi Sen, known for hits like 'Dhoom', has transitioned to a successful career in real estate in Dubai. She revealed on a podcast that she left Bollywood as she found real estate to be a more stable business, stating, \"Real estate stable business hai. Bollywood ka nasha khatam hogaya, real estate ka nasha chadh chuka hai.\"",
-    "img": "https://static.toiimg.com/photo/msid-127308363,imgsize-22292.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhoom-actress-rimi-sens-net-worth-stands-at-rs-8085-crore-shes-now-a-real-estate-agent-in-dubai/articleshow/127307523.cms",
-    "time": "2026-01-23T16:45:38.000Z"
-  },
-  {
     "cat": "Business",
     "title": "White metal breaches $100 an ounce for first time; Donald Trump policy jitters fuel safe-haven rush",
     "desc": "Silver prices soared to an unprecedented all-time high of $100 an ounce on Friday, driven by investor demand for safe-haven assets amidst US policy uncertainty. The precious metal's surge is also attributed to its industrial applications and tight supply, with gold also trading near record levels.",
@@ -583,24 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/suryakumar-yadavs-heartwarming-moment-after-ishan-kishans-dismissal-steals-the-spotlight/articleshow/127307200.cms",
     "time": "2026-01-23T16:42:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jujutsu Kaisen 3 Ep 4 goes viral due to ‘Kill Bill’ reference",
-    "desc": "Jujutsu Kaisen Season 3's latest episode, \"Perfect Preparation,\" has captivated fans with its intense action and a striking Kill Bill reference during Maki's confrontation with the Zen'in clan. The episode's black-and-white visual shift and nearly two-minute fight sequence have drawn widespread praise, with many viewers hailing it as a cinematic masterpiece and a potential episode of the year.",
-    "img": "https://static.toiimg.com/photo/msid-127306180,imgsize-41664.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/anime/jujutsu-kaisen-season-3-episode-4-goes-viral-fans-spot-kill-bill-reference-as-maki-steals-the-show/articleshow/127305592.cms",
-    "time": "2026-01-23T16:24:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Farah Khan offers role to Shahid's wife Mira in her film",
-    "desc": "During a lively vlog shoot, the talented filmmaker Farah Khan couldn't help but admire Mira Rajput Kapoor's captivating beauty. In a light-hearted moment, she jokingly suggested casting Mira in her next film, only for Mira, Shahid Kapoor's lovely wife, to gracefully decline the unexpected spotlight. Read on to know more.",
-    "img": "https://static.toiimg.com/photo/msid-127304554,imgsize-43190.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-offers-a-role-to-shahid-kapoors-wife-mira-rajput-in-her-film-says-you-can-become-a-heroine/articleshow/127304554.cms",
-    "time": "2026-01-23T16:12:14.000Z"
   },
   {
     "cat": "Sports",
@@ -639,24 +702,6 @@ const newsData_en = [
     "time": "2026-01-23T15:25:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ajay Devgn drops post for ‘Ranpati Shivray Swari Agra’ trailer",
-    "desc": "The historical drama 'Ranpati Shivray Swari Agra,' detailing a crucial chapter of Chhatrapati Shivaji Maharaj's life, is set for a worldwide release on January 30, 2026. Actor Ajay Devgn amplified the film's reach by promoting its trailer on Instagram, generating significant online buzz and excitement among audiences eager to witness the epic tale.",
-    "img": "https://static.toiimg.com/photo/msid-127297985,imgsize-116756.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/ranpati-shivray-swari-agra-trailer-creates-buzz-ajay-devgn-promotes-marathi-film-ahead-of-january-30-release/articleshow/127297614.cms",
-    "time": "2026-01-23T15:07:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Wall Street drifts lower into quieter close; tariff walk-backs cap volatility",
-    "desc": "US stocks edged lower on Friday, concluding a turbulent week marked by tariff threats and reversals. Investors adopted a cautious stance amid limited clarity on trade and geopolitical signals. Markets were on track to end a second straight week with modest losses after sharp swings earlier in the week.",
-    "img": "https://static.toiimg.com/photo/msid-127297727,imgsize-1406121.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-markets-today-wall-street-drifts-lower-into-quieter-close-tariff-walk-backs-cap-volatility/articleshow/127297722.cms",
-    "time": "2026-01-23T15:05:57.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Authorities deny ‘sudden stoppage’ of water from KC Canal",
     "desc": "Farmers need to follow the Irrigation Advisory Board guidelines, they say, adding that the advisory against taking up rabi cultivation along the 0-150 km stretch of the canal after January 15 has been communicated in advance to the farmers",
@@ -682,15 +727,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/the-great-escape-at-bridgetown-when-pakistans-hanif-mohammad-batted-four-days-to-save-an-epic-test/articleshow/127292481.cms",
     "time": "2026-01-23T14:42:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Minister claims record water transfer from Handri-Neeva project",
-    "desc": "Thanks to capacity enhancements during the earlier term of the TDP and the present coalition dispensation, the project has delivered 40.109 tmc ft of water to the reservoirs and tanks across the Rayalaseema districts in 190 days, says Nimmala Ramanaidu",
-    "img": "https://th-i.thgim.com/public/incoming/cjyi3m/article70543249.ece/alternates/LANDSCAPE_1200/TDP%20Palakollu%20MLA%20Nimmala%20Ramanaidu%20%205.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/minister-claims-record-water-transfer-from-handri-neeva-project/article70542795.ece",
-    "time": "2026-01-23T14:33:54.000Z"
   },
   {
     "cat": "Entertainment",
@@ -783,15 +819,6 @@ const newsData_en = [
     "time": "2026-01-23T10:36:02.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Ex-India cricketer calls for Shubman Gill's removal as ODI captain",
-    "desc": "Former India batter Manoj Tiwary advocates for Rohit Sharma's immediate return as ODI captain, citing Shubman Gill's recent struggles. Tiwary believes Rohit's proven leadership is crucial for the upcoming World Cup, suggesting a significantly higher chance of victory under his command compared to Gill's. He questioned the timing of the captaincy change.",
-    "img": "https://static.toiimg.com/photo/msid-127267983,imgsize-114824.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ex-india-cricketer-calls-for-shubman-gills-removal-as-odi-captain/articleshow/127267419.cms",
-    "time": "2026-01-23T10:30:34.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Adani Group completes full takeover of IANS news agency",
     "desc": "“AMG Media Networks Ltd, the media arm of the group's flagship firm Adani Enterprises, has entered into a share purchase agreement to acquire the remaining stake in IANS India Private Limited,” according to a stock exchange filing by the company",
@@ -837,15 +864,6 @@ const newsData_en = [
     "time": "2026-01-23T08:17:19.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Exclusive",
-    "desc": "Bangladesh Cricket Board has again written to the ICC seeking arbitration through its independent dispute resolution committee after the world body refused to shift their T20 World Cup matches from India. Citing security concerns, the BCB has maintained it will not travel unless matches are moved to Sri Lanka. The standoff, however, was triggered by Mustafizur Rahman’s removal from the IPL over security issues.",
-    "img": "https://static.toiimg.com/photo/msid-127250667,imgsize-75732.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/t20-world-cup-bcb-writes-another-letter-to-icc-seeks-intervention-of-independent-dispute-resolution-committee/articleshow/127250273.cms",
-    "time": "2026-01-23T07:45:35.000Z"
-  },
-  {
     "cat": "World",
     "title": "The Hindu Editorial",
     "desc": "The ‘Board of Peace’ initiative, linked to the Trump administration’s Gaza peace plan, has raised questions over its structure, legitimacy and sidelining of Palestinian leadership. New Delhi now faces a complex choice balancing principle, diplomacy and regional pressure.",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/tata-steel-masters-gukesh-beats-nguyen-arjun-shocked-by-fedoseev/article70539787.ece",
     "time": "2026-01-22T20:53:20.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "India ‘disregarded’ friendly advice on controlling Hasina’s government: Former Awami ally G.M. Quader",
-    "desc": "Mr. Quader said his party is not receiving support from the current administration because of its past association with the Awami League and accused the country’s interim government of lacking sincerity in delivering an inclusive election",
-    "img": "https://th-i.thgim.com/public/incoming/ivwosn/article70539771.ece/alternates/LANDSCAPE_1200/IMG-20260122-WA0042.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/india-disregarded-friendly-advice-on-controlling-hasinas-government-former-awami-ally-gm-quader/article70539336.ece",
-    "time": "2026-01-22T19:54:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "No immediate threat, but Gambhir under scrutiny",
-    "desc": "Coaches are ranked on the basis of what their outfits achieve in terms of victories and silverware. In his year and a half in charge, the spunky former opener has had reasonable trysts with both these necessities, but has also courted a fair amount of failure, some of which the pundits have attributed to a lack of consistency in team selection",
-    "img": "https://th-i.thgim.com/public/incoming/if3bwk/article70539708.ece/alternates/LANDSCAPE_1200/GAMBHIR%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/no-immediate-threat-but-gambhir-under-scrutiny/article70539703.ece",
-    "time": "2026-01-22T18:32:50.000Z"
   }
 ];

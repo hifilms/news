@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "New Zealand's Zak Foulkes registers unwanted record after 2nd T20I loss against India",
+    "desc": "The Indian team registered a dominant win over New Zealand in the second T20I of the ongoing five-game series. The two sides locked horns at the Shaheed Veer Narayan Singh International Stadium, Raipur, on January...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-s-zak-foulkes-registers-unwanted-record-after-2nd-t20i-loss-against-india-2026-01-24-1027253",
+    "time": "2026-01-24T02:34:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sunrisers Eastern Cape join Perth Scorchers in elite list, defeat Paarl Royals to secure SA20 final berth",
+    "desc": "The stage is set for the final of the ongoing SA20 2025-26. Sunrisers Eastern Cape will be taking on Pretoria Capitals in the summit clash of the tournament at Newlands, Cape Town, on January 25....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-eastern-cape-join-perth-scorchers-in-elite-list-defeat-paarl-royals-to-secure-sa20-final-berth-2026-01-24-1027249",
+    "time": "2026-01-24T01:34:44.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How many runs does Suryakumar Yadav need to break Rohit Sharma's record for most T20I runs for India?",
     "desc": "India captain Suryakumar Yadav was under the scanner after following his poor run of form in T20I cricket. He was struggling to get going and following which, questions were raised about his spot in the...",
     "img": "",
@@ -70,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-jasprit-bumrah-not-playing-for-india-vs-new-zealand-in-2nd-t20i-in-raipur-2026-01-23-1027215",
     "time": "2026-01-23T13:14:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC contemplating strict action against Bangladesh over boycott of T20 World Cup 2026",
-    "desc": "ICC Chairman Jay Shah is contemplating strict action against Bangladesh for refusing to travel to India for the T20 World Cup 2026. They want their matches to be shifted to Sri Lanka, which the ICC...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-contemplating-strict-action-against-bangladesh-over-boycott-of-t20-world-cup-2026-2026-01-23-1027212",
-    "time": "2026-01-23T12:44:04.000Z"
   }
 ];
