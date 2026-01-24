@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mohammed Shami sends message to BCCI selectors with five-wicket haul in Ranji Trophy",
+    "desc": "Ace pacer Mohammed Shami stole the show in Bengal’s Ranji Trophy clash against Services at the Bengal Cricket Academy Ground in Kalyani. The ace pacer dismissed opener SG Rohilla, Ravi Chauhan, Rajat Paliwal, Vineet Dhankhar...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammed-shami-sends-message-to-bcci-selectors-with-five-wicket-haul-in-ranji-trophy-2026-01-24-1027317",
+    "time": "2026-01-24T12:17:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Novak Djokovic rewrites history, becomes first player to achieve major Grand Slam record in Australia Open",
+    "desc": "Novak Djokovic etched his name further into tennis history on January 24, 2026, when he became the first player to achieve 400 match wins in Grand Slam tournaments. The Serbian star secured this monumental milestone...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-rewrites-history-becomes-first-player-to-achieve-major-grand-slam-record-in-australia-open-2026-01-24-1027309",
+    "time": "2026-01-24T11:38:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh officially removed from T20 World Cup 2026, Scotland replaced them in Group C",
+    "desc": "Bangladesh have been officially removed from the tournament after the ICC confirmed Scotland as their replacement, following internal deliberations held in Dubai. The decision was communicated to the Bangladesh Cricket Board through formal correspondence sent...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-officially-removed-from-t20-world-cup-2026-scotland-replaced-them-in-group-c-2026-01-24-1027306",
+    "time": "2026-01-24T11:17:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Naomi Osaka pulls out of Australian Open 2026, reveals reason",
+    "desc": "Naomi Osaka’s Australian Open campaign came to an abrupt end on Saturday after the former world No 1 withdrew ahead of her scheduled third-round appearance in Melbourne, citing an abdominal injury connected to physical changes...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/naomi-osaka-pulls-out-of-australian-open-2026-reveals-reason-2026-01-24-1027298",
+    "time": "2026-01-24T10:21:48.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When and where to watch SA20 2025-26 final in India?",
     "desc": "Pretoria Capitals and Sunrisers Eastern Cape are all set to take on each other in the final of the ongoing SA20 2025-26. It is worth noting that the two sides will take on each other...",
     "img": "",
@@ -10,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "IND vs NZ, U19 World Cup Live Cricket Score: Rain stops play in Bulawayo, India remain dominant with the ball",
+    "title": "IND vs NZ, U19 World Cup Live Cricket Score: New Zealand bundled for 135 runs in first innings",
     "desc": "The stage is set for the 24th game of the ongoing U19 World Cup 2026. India U19 takes on New Zealand U19 in the tournament at the Queen Sports Club in Bulawayo. Coming on the...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-joins-stellar-list-with-exceptional-performance-against-new-zealand-in-second-t20i-2026-01-24-1027258",
     "time": "2026-01-24T04:04:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand's Zak Foulkes registers unwanted record after 2nd T20I loss against India",
-    "desc": "The Indian team registered a dominant win over New Zealand in the second T20I of the ongoing five-game series. The two sides locked horns at the Shaheed Veer Narayan Singh International Stadium, Raipur, on January...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-s-zak-foulkes-registers-unwanted-record-after-2nd-t20i-loss-against-india-2026-01-24-1027253",
-    "time": "2026-01-24T02:34:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunrisers Eastern Cape join Perth Scorchers in elite list, defeat Paarl Royals to secure SA20 final berth",
-    "desc": "The stage is set for the final of the ongoing SA20 2025-26. Sunrisers Eastern Cape will be taking on Pretoria Capitals in the summit clash of the tournament at Newlands, Cape Town, on January 25....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sunrisers-eastern-cape-join-perth-scorchers-in-elite-list-defeat-paarl-royals-to-secure-sa20-final-berth-2026-01-24-1027249",
-    "time": "2026-01-24T01:34:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How many runs does Suryakumar Yadav need to break Rohit Sharma's record for most T20I runs for India?",
-    "desc": "India captain Suryakumar Yadav was under the scanner after following his poor run of form in T20I cricket. He was struggling to get going and following which, questions were raised about his spot in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-many-runs-does-suryakumar-yadav-need-to-break-rohit-sharma-s-record-for-most-t20i-runs-for-india-2026-01-23-1027243",
-    "time": "2026-01-23T18:10:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India break Pakistan's record in spectacular win over New Zealand in Raipur",
-    "desc": "India produced a record-setting performance in the second of the five-game T20I series against New Zealand at the Raipur stadium, delivering one of the most dominant run chases ever seen among full-member nations. Tasked with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-break-pakistan-s-record-in-spectacular-win-over-new-zealand-in-raipur-2026-01-23-1027241",
-    "time": "2026-01-23T17:38:10.000Z"
   }
 ];

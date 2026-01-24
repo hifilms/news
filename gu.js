@@ -1,5 +1,68 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "બજેટ હંમેશા 1 ફેબ્રુઆરીએ કેમ રજૂ કરવામાં આવે છે? જાણો તેની પાછળનું કારણ",
+    "desc": "આગામી રવિવાર એટલે કે 1 ફેબ્રુઆરીએ દેશનું બજેટ રજૂ થશે. કેન્દ્રીય નાણામંત્રી નિર્મલા સીતારમણ લોકસભામાં બજેટ રજૂ કરશે. તેવામાં આવો જાણીએ બજેટ કેમ હંમેશા 1 ફેબ્રુઆરીએ રજૂ કરવામાં આવે છે અને તેની પાછળ શું કારણ છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/budget-2026-why-presented-on-1-february-history-mutual-fund-xpectations-know-the-details-462781 ",
+    "time": "2026-01-24T11:59:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "લેવલ 1થી લેવલ 18 સુધીના સરકારી કર્મચારીઓ માટે મોટી અપડેટ, Salaryમાં થઈ શકે છે મોટા ફેરફાર",
+    "desc": "સરકારી કર્મચારીઓને જે સમયની વર્ષોથી રાહ હતી તે નજીક આવી રહ્યો છે, ત્યારે સરકારી કર્મચારીઓના પગારમાં વધારો થશે, જો કે તેની અસર કયા કર્મચારીને કેટલી થશે અને લેવલ 1થી લઈ લેવલ 18 સુધીના વિવિધ કર્મચારીઓના સેલેરીમાં વધારાની ગણતરી ઉદાહરણ સહિત દર્શાવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-big-update-for-government-employees-from-level-1-to-level-18-big-changes-can-be-made-in-salary-462777 ",
+    "time": "2026-01-24T11:25:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "15 મહિના બાદ ફિફ્ટી, ડગઆઉટમાં પહોંચતા જ સૂર્યા આ વ્યક્તિને લાગ્યો પગે, વીડિયો થયો વાયરલ",
+    "desc": "ભારત અને ન્યુઝીલેન્ડ વચ્ચે T20 શ્રેણી ચાલી રહી છે. બીજી મેચમાં ભારતીય ટીમે શાનદાર જીત મેળવી. ભાપતીય કેપ્ટન સૂર્યકુમાર યાદવ શાનદાર ઇનિંગ રમીને ફોર્મમાં પાછો ફર્યો છે. જો કે, સૌથી વધુ ચર્ચાનો વિષય એ છે કે ધમાકેદાર વાપસી બાદ સૂર્યા કોને પગે લાગ્યો અને કેમ ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/suryakumar-yadav-touches-feet-of-throwdown-specialist-raghu-after-hitting-fifty-462774 ",
+    "time": "2026-01-24T11:25:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "વૈજ્ઞાનિકોનું મોટું એલર્ટ: ભારતની ધરતીમાં પડશે તિરાડ, હવે બદલાઈ જશે એશિયાનો નકશો ?",
+    "desc": "ભારતના અનેક ભાગોમાં વારંવાર ભૂકંપના ઝટકા અનુભવાય છે, તેના માટે જમીનના પેટાળમાં રહેલી પ્લેટો જવાબદાર છે, અનેક પ્લેટો એક્ટિવ હોય છે, જ્યારે અનેક પ્લેટોમાં કોઈ હલચલ થતી નથી, ત્યારે ભારતના ઉત્તર ભાગમાં ફરી પ્લેટોને હલવાના કારણે વધારે ભૂકંપ આવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/scientists-big-alert-india-soil-will-crack-will-the-map-of-asia-change-now-462767 ",
+    "time": "2026-01-24T10:43:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICCએ બાંગ્લાદેશને T20 વર્લ્ડ કપમાંથી કર્યું બહાર, આ ટીમની એન્ટ્રી",
+    "desc": "બાંગ્લાદેશ સત્તાવાર રીતે T20 વર્લ્ડ કપમાંથી બહાર થઈ ગયું છે. ક્રિકબઝના અહેવાલ અનુસાર, ભારત અને શ્રીલંકામાં 7 ફેબ્રુઆરીથી શરૂ થનારા T20 વર્લ્ડ કપ 2026માં સ્કોટલેન્ડે બાંગ્લાદેશનું સ્થાન લીધું છે. આંતરરાષ્ટ્રીય ક્રિકેટ પરિષદ (ICC)એ બે દિવસ પહેલા બાંગ્લાદેશ ક્રિકેટ બોર્ડને અલ્ટીમેટમ આપ્યું હતુ, હવે તેને સત્તાવાર રીતે બહાર કરવામાં આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-icc-replace-bangladesh-with-scotland-462765 ",
+    "time": "2026-01-24T10:34:33.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "શું બ્રાઝિલના આ ભવિષ્યવક્તાની ભવિષ્યવાણીઓ સાચી પડી રહી છે? ડરામણી છે ભવિષ્યવાણીઓ",
+    "desc": "હાલ જે ઘટનાઓ જોવા મળી છે જેમાં ઈરાનના વિરોધ પ્રદર્શનો અને વેનેઝુએલામાં આર્થિક અને રાજનીતિક સંકટ સામેલ છે તેને બ્રાઝિલના ભવિષ્યવક્તા કે જેઓ લિવિંગ નાસ્ત્રેદમસ તરીકે પણ ઓળખાય છે તેમની 2025-2026ની ભવિષ્યવાણીઓ સાથે જોડવામાં આવી રહી છે. જાણો શું છે વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/athos-salome-predictions-for-2026-are-the-prophecies-coming-true-iran-protests-to-venezuela-crisis-462760 ",
+    "time": "2026-01-24T09:38:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "આવી રહ્યો છે દિગ્ગજ રોકાણકારોની કંપનીનો IPO, શાહરૂખ-સલમાનથી લઈ સચિને પણ તેમાં કર્યું છે રોકાણ",
+    "desc": "લક્ઝરી ફેશન ઈ-કોમર્સ અને ઓમ્ની-ચેનલ પ્લેટફોર્મ કંપનીના IPOમાં કોઈપણ હાલના શેરધારક તરફથી ઓફર ફોર સેલ (OFS) શામેલ નથી. સરળ શબ્દોમાં કહીએ તો, IPOમાંથી એકત્ર કરાયેલી સંપૂર્ણ રકમનો ઉપયોગ કંપનીના વ્યવસાયને વિસ્તૃત કરવા માટે સીધી રીતે કરવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/the-ipo-of-a-company-owned-by-big-investors-is-coming-from-shahrukh-salman-to-sachin-tendulkar-have-also-invested-in-it-462759 ",
+    "time": "2026-01-24T09:36:08.000Z"
+  },
+  {
     "cat": "World",
     "title": "ભારતે ખુલ્લેઆમ ઈરાનને UNમાં આ મુદ્દે આપ્યું સમર્થન, પાકિસ્તાનનો પણ સપોર્ટ, પશ્ચિમી દેશો સ્તબ્ધ",
     "desc": "વૈશ્વિક મંચ પર ભારતે કઈક એવું કર્યું છે જે ચર્ચાને એરણે છે. અચાનક ભારતનું આ બદલાયેલું વર્તન દુનિયા માટે જાણે આશ્ચર્યનું કારણ બની રહ્યું છે. ભારતે ખુલ્લેઆમ ઈરાનને સપોર્ટ કરતા કયા પ્રસ્તાવ પર વિરુદ્ધમાં મતદાન કર્યું તે ખાસ જાણો.",
@@ -306,15 +369,6 @@ const newsData_gu = [
     "time": "2026-01-22T13:03:20.000Z"
   },
   {
-    "cat": "Business",
-    "title": "શું નવી ટેક્સ રિઝીમના સ્લેબ ફરી બદલાશે? ટેક્સપેયર્સને ખરેખર શું અપેક્ષાઓ રાખવી જોઈએ? જાણો",
-    "desc": "હંમેશાની જેમ આ વખતે પણ ટેક્સપેયર્સને બજેટ 2026થી ઘણી અપેક્ષાઓ છે. ઘણા લોકો ઈનકમ ટેક્સ રેટમાં ઘટાડો, સ્લેબને સરળ બનાવવા અને જૂની ટેક્સ સિસ્ટમની જેમ ડિડક્શનના સંભવિત વિસ્તરણની અપેક્ષાઓ રાખી રહ્યા છે. ત્યારે બજેટ 2026 અંગે નિષ્ણાતોએ શું કહ્યું છે. ચાલો જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/budget-2026-new-tax-regime-slabs-to-change-again-what-should-expect-462528 ",
-    "time": "2026-01-22T12:02:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "બાંગ્લાદેશે T20 વર્લ્ડ કપનો કર્યો બહિષ્કાર, હવે આ ટીમને મળશે તક !",
     "desc": "બાંગ્લાદેશ સરકારે સુરક્ષા અને રાજકીય તણાવનો હવાલો આપીને આગામી T20 વર્લ્ડ કપનો બહિષ્કાર કરવાની સત્તાવાર જાહેરાત કરી છે. આ પગલાથી ICC માટે ટુર્નામેન્ટના શેડ્યૂલ અને એશિયન ટીમોની ભાગીદારી પર પ્રશ્નો ઉભા થયા છે. ત્યારે બાંગ્લાદેશ બહાર થતાં સ્કોટલેન્ડનું કિસ્મત ચમકી શકે છે. તેને T20 વર્લ્ડ કપ માટે એન્ટ્રી મળી શકે છે.",
@@ -376,33 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-1st-t20-nagpur-team-india-3-match-winner-cricketers-462487 ",
     "time": "2026-01-22T06:57:52.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "આવી રહ્યો છે મોસ્ટ અવેટેડ IPO, વેચવામાં આવશે 5.06 કરોડ શેર, સેપીની પાસે જમા કરાવ્યા પેપર",
-    "desc": "આ આઈપીઓ સંપૂર્ણ રીતે ઓફર ફોર સેલ (OFS) હશે, એટલે કે તેમાં કંપની કોઈ નવા શેર જારી કરશે નહીં. 21 જાન્યુઆરીએ દાખલ દસ્તાવેજ પ્રમાણે કુલ 5.06 કરોડ ઈક્વિટી શેર વર્તમાન શેરધારકો વેચશે અને તેમાંથી મળનાર તમામ રકમ તેની પાસે જશે. કંપનીની પાસે કોઈ નવા પૈસા આવશે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/phonepe-ipo-refiles-papers-to-sebi-walmart-to-cut-9-percent-stake-as-microsoft-know-details-all-462485 ",
-    "time": "2026-01-22T06:44:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ગૌતમ ગંભીરની એક ચાલ અને પલટાઈ ગઈ મેચ, ટીમ ઈન્ડિયાને મળ્યો નવો ફિનિશર",
-    "desc": "બુધવારે નાગપુરમાં રમાયેલી ન્યૂઝીલેન્ડ સામેની પહેલી T20 મેચમાં કોચ ગૌતમ ગંભીરના એક ચાલે મેચનું પાસું ફેરવી દીધું. ભારતીય ટીમે ન્યૂઝીલેન્ડને 48 રનથી હરાવ્યું. ટીમ ઈન્ડિયાએ પાંચ મેચની ટી20 આંતરરાષ્ટ્રીય શ્રેણીમાં 1-0થી લીડ મેળવી લીધી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rinku-singh-team-india-finisher-match-winning-performance-in-nagpur-t20-462483 ",
-    "time": "2026-01-22T06:27:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "16મી ઓવરમાં એવું તે શું થયું કે અક્ષર પટેલને અધવચ્ચે જ છોડવી પડી બોલિંગ, જાણો સમગ્ર ઘટના",
-    "desc": "5 મેચની T20 શ્રેણીની પહેલી મેચ નાગપુરમાં રમાઈ હતી. આ મેચ ભારતે 48 રને જીતી લીધી હતી. જોકે, મેચ દરમિયાન ભારત માટે એક ખરાબ સમાચાર સામે આવ્યા હતા. ટીમ ઈન્ડિયાનો વાઈસ કેપ્ટન ઈજાગ્રસ્ત થયો છે. જેના કારણે કેપ્ટન અને કોચનું ટેન્શન વધ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-india-suffers-setback-ahead-of-t20-world-cup-axar-patel-injured-462477 ",
-    "time": "2026-01-22T05:20:04.000Z"
   },
   {
     "cat": "Entertainment",
@@ -484,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/write-article-on-x-and-become-a-millionaire-elon-musk-462059 ",
     "time": "2026-01-18T06:00:44.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "‘ભારત સાથે સંબંધ તૂટશે તો US માટે મુસીબત થશે’, ટ્રમ્પના સાંસદે કેમ આપ્યું આવું નિવેદન? પાકનો પણ ઉલ્લેખ",
-    "desc": "ભારત અને અમેરિકાના સંબંધો પર અત્યારે આખી દુનિયાની નજર ટકેલી છે. માત્ર ભારતીયો જ નહીં, પરંતુ અમેરિકાના લોકો પણ બંને દેશોને એકબીજા માટે જરૂરી માને છે. આ સંદર્ભમાં અમેરિકી રાષ્ટ્રપતિ ટ્રમ્પની પાર્ટીના નેતા અને કોંગ્રેસના સાંસદે એક મહત્વનું નિવેદન આપ્યું છે, જેમાં તેમણે પાકિસ્તાનનો પણ ઉલ્લેખ કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/if-ties-with-india-are-broken-it-will-be-trouble-for-the-us-why-did-trumps-congressman-make-such-a-statement-462055 ",
-    "time": "2026-01-18T05:05:42.000Z"
   },
   {
     "cat": "Entertainment",
