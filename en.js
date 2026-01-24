@@ -1,6 +1,96 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Ailing wife in rickshaw van, 70-yr-old in Odisha cycles 600km to hospital &amp; back",
+    "desc": "A 70-year-old man, Babu Lohar, pedalled his rickshaw van 300km to Cuttack with his ailing wife for medical treatment, refusing help. After two months, he is now making the arduous journey back home, showcasing immense devotion and highlighting the struggles of the poor in accessing healthcare and transport.",
+    "img": "https://static.toiimg.com/photo/msid-127427824,imgsize-1109055.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ailing-wife-in-rickshaw-van-70-yr-old-in-odisha-cycles-600km-to-hospital-back/articleshow/127427716.cms",
+    "time": "2026-01-24T20:57:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Get rid of issues you faced in govt offices, PM Modi tells 61k recruits",
+    "desc": "Prime Minister Narendra Modi urged over 61,000 newly-recruited personnel to recall their past difficulties with government offices and ensure citizens do not face similar issues. He emphasized their role in implementing reforms and upholding the motto 'Citizen is akin to God' to strengthen ease of living and doing business.",
+    "img": "https://static.toiimg.com/photo/msid-127427084,imgsize-605257.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/get-rid-of-issues-you-faced-in-govt-offices-pm-modi-tells-61k-recruits/articleshow/127426753.cms",
+    "time": "2026-01-24T20:38:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arun Govil disagrees with AR Rahman's communal remark: 'SRK, Aamir Salman...'",
+    "desc": "AR Rahman's recent remarks about facing less work in Hindi cinema due to non-creative decision-makers and potential communal bias have sparked industry debate. Actor Arun Govil refuted these claims, stating the film industry has always been free of communal bias, citing successful Muslim actors as evidence.",
+    "img": "https://static.toiimg.com/photo/msid-127425819,imgsize-27284.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-salman-khan-aamir-khan-they-are-all-stars-says-ramayan-actor-arun-govil-as-he-disagrees-with-ar-rahmans-communal-remark/articleshow/127425666.cms",
+    "time": "2026-01-24T20:20:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India votes against UN resolution censuring Iran",
+    "desc": "India voted against a UN Human Rights Council resolution condemning Iran's protest crackdown, extending a fact-finding mission. This move, aligning with China and Pakistan, signals India's commitment to non-interference and its strategic interests, particularly concerning the Chabahar port. Iran's envoy lauded India's 'principled and firm support' against what he termed an 'unjust' resolution.",
+    "img": "https://static.toiimg.com/photo/msid-127425934,imgsize-1348800.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-votes-against-un-resolution-censuring-iran/articleshow/127425477.cms",
+    "time": "2026-01-24T20:12:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court judge slams collegium for transfer on government nudge",
+    "desc": "Supreme Court Justice Ujjal Bhuyan voiced strong dissent over the collegium's decision to transfer Justice Atul Sreedharan, citing executive influence. He argued that such transfers, especially when prompted by the central government, compromise judicial independence and the integrity of the collegium system. Justice Bhuyan emphasized the judiciary's reliance on public faith.",
+    "img": "https://static.toiimg.com/photo/msid-127425330,imgsize-332643.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/supreme-court-judge-slams-collegium-for-transfer-on-govt-nudge/articleshow/127424979.cms",
+    "time": "2026-01-24T20:03:25.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Board of Peace",
+    "desc": "Donald Trump says the board he proposed to oversee the reconstruction of war-devastated Gaza could become ‘one of the most consequential bodies ever created’, but a majority of the countries invited have stayed away from the signing ceremony in Davos",
+    "img": "https://th-i.thgim.com/public/incoming/3cae6q/article70544148.ece/alternates/LANDSCAPE_1200/2026-01-22T105045Z_1877874493_RC2A6JAU4GJN_RTRMADP_3_DAVOS-MEETING.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/board-of-peace-the-chairmans-circle/article70544149.ece",
+    "time": "2026-01-24T19:54:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Irrfan was offered 'Airlift' first, here's why he suggested Akshay",
+    "desc": "Director Raja Krishna Menon initially approached Irrfan Khan for the lead role in 'Airlift'. However, Irrfan suggested Akshay Kumar, believing the film required a larger budget. Menon then met with Akshay, who enthusiastically agreed to star in the critically acclaimed film after a 40-minute narration.",
+    "img": "https://static.toiimg.com/photo/msid-127424075,imgsize-96690.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/irrfan-was-offered-airlift-first-but-heres-why-he-suggested-akshay-kumars-name-for-the-film-you-wont-get-the-budget/articleshow/127423797.cms",
+    "time": "2026-01-24T19:47:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "KJo lied to Rishi Kapoor when he went to attend Aditya-Rani's wedding",
+    "desc": "Filmmaker Karan Johar revealed intimate details about his friendship with Rani Mukerji and her husband, Aditya Chopra, during a recent conversation. Johar described Chopra as a near-mythical figure, admitting he still feels intimidated by him. He also shared a humorous anecdote about lying to Rishi Kapoor about Rani and Aditya's secret wedding in Italy.",
+    "img": "https://static.toiimg.com/photo/msid-127421916,imgsize-30956.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-lied-to-rishi-kapoor-as-he-went-to-attend-rani-mukerji-aditya-chopras-wedding-in-italy-he-caught-me-and-asked-me-why/articleshow/127421804.cms",
+    "time": "2026-01-24T19:14:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "2,241 Army JCOs get honorary officer ranks for long, selfless service",
+    "desc": "Ahead of Republic Day, the government has approved honorary commissioned ranks for 2,241 Junior Commissioned Officers in the Indian Army. This honour, recognizing decades of selfless service and leadership, includes 437 elevated to honorary captain and 1,804 to honorary lieutenant.",
+    "img": "https://static.toiimg.com/photo/msid-127420470,imgsize-1441820.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/2241-army-jcos-get-honorary-officer-ranks-for-long-selfless-service/articleshow/127420154.cms",
+    "time": "2026-01-24T18:53:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Omar Abdullah’s close aide gets cabinet minister rank",
+    "desc": "Jammu and Kashmir Lt Governor Manoj Sinha has granted Nasir Aslam Wani, an advisor to CM Omar Abdullah, the rank and privileges of a cabinet minister. This decision comes after Wani, a former legislator, was appointed as an advisor in October 2024 but lacked formal status. The move ensures Wani receives a consolidated salary, rent-free accommodation, and transport facilities.",
+    "img": "https://static.toiimg.com/photo/msid-127418103,imgsize-545757.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/omar-abdullahs-close-aide-gets-cabinet-minister-rank/articleshow/127418052.cms",
+    "time": "2026-01-24T18:20:31.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Jailed Jammu &amp; Kashmir MP Engineer Rashid gets interim bail to attend budget session in custody",
     "desc": "A Delhi court granted interim bail to J&K MP Sheikh Abdul Rashid, allowing him to attend Parliament's budget session under armed escort. Rashid, jailed since 2019 on UAPA charges, recently defeated Omar Abdullah in the Lok Sabha polls. This limited relief permits him to participate in parliamentary proceedings while remaining in custody, a move welcomed by his party.",
     "img": "https://static.toiimg.com/photo/msid-127417732,imgsize-531533.cms",
@@ -477,15 +567,6 @@ const newsData_en = [
     "time": "2026-01-24T11:01:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "UGC anti-discrimination rules 2026: A bid for inclusion or risk of bias? Explained",
-    "desc": "Heads of universities and colleges are no longer just administrators; they are now the first line of accountability in preventing and responding to discrimination. New structures, new reporting mechanisms, and strict timelines are written into the rulebook, backed by the threat of serious penalties for non-compliance. Yet, as has often been the case with regulations aimed at correcting long-standing social inequities, the real questions lie beneath the stated intent.",
-    "img": "https://static.toiimg.com/photo/msid-127388943,imgsize-100582.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ugc-controversy-anti-discrimination-rules-2026-a-bid-for-inclusion-or-risk-of-bias-caste-upper-reservation-explained/articleshow/127388090.cms",
-    "time": "2026-01-24T10:52:14.000Z"
-  },
-  {
     "cat": "Business",
     "title": "U.S. Treasury Secretary hints at possible tariff relief for India as Russian oil imports drop",
     "desc": "Indian purchases by ​their refineries of ⁠Russian oil have collapsed. So that is a success. The tariffs are still on, ‌25% tariffs for Russian oil ‌are still on. I would imagine there ‍is a path to take them off, says U.S. Treasury Secretary ‍Scott Bessent",
@@ -495,15 +576,6 @@ const newsData_en = [
     "time": "2026-01-24T10:50:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Unjust to voters, unfair to democracy': Amartya Sen says 'SIR in Bengal done in hurry'",
-    "desc": "Nobel laureate Amartya Sen voiced concerns over West Bengal's Special Intensive Revision of electoral rolls, saying the exercise is \"being done in a hurry,\" further calling it an unjust to voters and a threat to democratic participation. He highlighted personal challenges with documentation and warned that the underprivileged and minority communities are most at risk of exclusion.",
-    "img": "https://static.toiimg.com/photo/msid-127390308,imgsize-791873.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/unjust-to-voters-unfair-to-democracy-amartya-sen-says-sir-in-bengal-done-in-hurry/articleshow/127388828.cms",
-    "time": "2026-01-24T10:48:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Samson in trouble? Ex-India batter questions keeper's place after Kishan heroics",
     "desc": "Former India batter Aakash Chopra questions Sanju Samson's T20I spot against New Zealand, citing repeated dismissals. Despite India's series lead, Samson's struggles, particularly his driving shots, are concerning. With Ishan Kishan in form and the T20 World Cup approaching, Samson faces mounting pressure to perform, even on his home ground.",
@@ -511,33 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/sanju-samson-in-trouble-ex-india-batter-questions-keepers-place-after-ishan-kishan-heroics/articleshow/127388275.cms",
     "time": "2026-01-24T10:47:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ricki Hendrick welcomes baby Romi, first child",
-    "desc": "In a heartfelt moment for the reality TV community, Ricki Hendrick, the beloved daughter of Emily Maynard Johnson from 'The Bachelorette,' has introduced her first child to the world, a precious girl named Romi. The 20-year-old delighted fans by sharing intimate hospital snapshots on Instagram, capturing the emotion as her parents met their granddaughter for the very first time.",
-    "img": "https://static.toiimg.com/photo/msid-127387420,imgsize-105314.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-bachelorette-alum-emily-maynard-johnsons-daughter-ricki-hendrick-welcomes-baby-girl-romi-best-day-ever/articleshow/127387420.cms",
-    "time": "2026-01-24T10:37:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When and where to watch Rani Mukerji’s film",
-    "desc": "'Mardaani 3', starring Rani Mukerji as tough cop Shivani Shivaji Roy, releases in theatres on January 30, 2026. Produced by Yash Raj Films and directed by Abhiraj Minawala, the film streams on Netflix from March 27 after a 56-day theatrical run, exploring human trafficking and introducing the villain Amma, played by Mallika Prasad.",
-    "img": "https://static.toiimg.com/photo/msid-127387716,imgsize-20864.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mardaani-3-ott-release-announced-when-and-where-to-watch-rani-mukerjis-cop-thriller-action-film-after-its-theatrical-release-on-january-30/articleshow/127387716.cms",
-    "time": "2026-01-24T10:32:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranbir silicone dad-bod suit video",
-    "desc": "In 'Animal', Ranbir Kapoor's astonishing performance as a more mature and heavier character sees the use of a masterfully designed silicone fat suit. This innovative prosthetic not only replicates the natural movement of skin but also grounds the film in a striking realism that resonated with audiences, propelling its box office triumph.",
-    "img": "https://static.toiimg.com/photo/msid-127386272,imgsize-24126.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-starrer-viral-animal-bts-revealing-how-silicone-fat-suit-created-the-iconic-dad-bod-look-resurfaces-watch/articleshow/127386272.cms",
-    "time": "2026-01-24T10:14:23.000Z"
   },
   {
     "cat": "Sports",
@@ -567,15 +612,6 @@ const newsData_en = [
     "time": "2026-01-24T09:54:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Tharoor is not a big part': Another Congress MP's sharp remark; Trivandrum MP says will speak to party",
-    "desc": "Congress MP Imran Masood stated Shashi Tharoor is \"not a big part\" of the party, intensifying the rift. Tharoor skipped a crucial Kerala poll meeting for a literature festival, defending his stance on Operation Sindoor and stating concerns should be raised internally.",
-    "img": "https://static.toiimg.com/photo/msid-127384849,imgsize-1049583.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tharoor-is-not-a-big-part-another-congress-mps-sharp-remark-trivandrum-mp-says-will-speak-to-party/articleshow/127383418.cms",
-    "time": "2026-01-24T09:49:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Osaka withdraws from Australian Open 2026",
     "desc": "Naomi Osaka withdrew from the Australian Open before her third-round match due to an undisclosed injury. She said stopping was heartbreaking but necessary to avoid further damage. Her run drew attention for a viral fashion entrance and a tense second-round win over Sorana Cirstea, which ended with a cold exchange and brief on-court disagreement over Osaka’s celebrations.",
@@ -594,15 +630,6 @@ const newsData_en = [
     "time": "2026-01-24T09:03:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Didn't violate Congress position': Shashi Tharoor breaks silence amid rift buzz; defends stand on Operation Sindoor",
-    "desc": "Congress MP Shashi Tharoor has clarified his stance on party lines. He stated his only public disagreement was on Operation Sindoor and India's counterterrorism position. Tharoor emphasized national interest above political differences. His remarks follow reports of internal party friction and his absence from a key meeting. He recalled past events and leaders' views on national security.",
-    "img": "https://static.toiimg.com/photo/msid-127380483,imgsize-1433164.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/didnt-violate-congress-position-shashi-tharoor-breaks-silence-amid-rift-buzz-defends-stand-on-operation-sindoor/articleshow/127376992.cms",
-    "time": "2026-01-24T08:07:53.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Music composer Bharadwaj interview: My success story",
     "desc": "In an interview to ‘The Hindu’ for the ‘This Changed my Life’ podcast, music composer Bharadwaj looks back at the time when he entered the film industry. He also talks about his experiences of working with director Saran and actor Ajith Kumar, with whom he forged a superhit combination, and why he currently loves music composer Anirudh.",
@@ -610,15 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-music-composer-bharadwaj-interview-my-success-story-ar-rahman-ilaiyaraaja/article70545564.ece",
     "time": "2026-01-24T07:48:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Air India cancels all flights from New York, New Jersey on January 25-26; details",
-    "desc": "Air India has cancelled all flights to and from New York and Newark on January 25 and 26 due to a severe winter storm forecast. The airline cited safety concerns for passengers and crew as the storm is expected to bring heavy snowfall and icy conditions to the US East Coast.",
-    "img": "https://static.toiimg.com/photo/msid-127374747,imgsize-502207.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/us-winter-storm-air-india-cancels-all-flights-from-new-york-new-jersey-on-january-25-26-details/articleshow/127374661.cms",
-    "time": "2026-01-24T07:24:40.000Z"
   },
   {
     "cat": "World",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/india-disregarded-friendly-advice-on-controlling-hasinas-government-former-awami-ally-gm-quader/article70539336.ece",
     "time": "2026-01-22T19:54:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "No immediate threat, but Gambhir under scrutiny",
-    "desc": "Coaches are ranked on the basis of what their outfits achieve in terms of victories and silverware. In his year and a half in charge, the spunky former opener has had reasonable trysts with both these necessities, but has also courted a fair amount of failure, some of which the pundits have attributed to a lack of consistency in team selection",
-    "img": "https://th-i.thgim.com/public/incoming/if3bwk/article70539708.ece/alternates/LANDSCAPE_1200/GAMBHIR%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/no-immediate-threat-but-gambhir-under-scrutiny/article70539703.ece",
-    "time": "2026-01-22T18:32:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "WPL-4: Devine’s all-round skills to the fore as Giants wallop Warriorz",
-    "desc": "The Kiwi all-rounder scores an unbeaten 50 off 42 balls to lift the Gujarat side to 153 on a slow track and follows it up with a couple of wickets; Rajeshwari runs through the lower middle-order as the UP side folds up for 108",
-    "img": "https://th-i.thgim.com/public/incoming/u1wq3w/article70539644.ece/alternates/LANDSCAPE_1200/TH23-GG.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/wpl-4-devines-all-round-skills-to-the-fore-as-giants-wallop-warriorz/article70539648.ece",
-    "time": "2026-01-22T17:58:01.000Z"
   }
 ];
