@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "BCCI announces India women's squad for Australia Test and India A squad for ACC Rising Stars Asia Cup",
+    "desc": "India women is all set to take on Australia in a multi-format series. The two sides will lock horns across three T20Is, three ODIs, and a single Test match. With the white-ball squads already announced,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-announces-india-women-s-squad-for-australia-test-and-india-a-squad-for-acc-rising-stars-asia-cup-2026-01-24-1027271",
+    "time": "2026-01-24T06:13:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch BBL 2025-26 final in India?",
+    "desc": "The stage is set for the final of the BBL (Big Bash League) 2025-26. Perth Scorchers will be locking horns with Sydney Sixers in the summit clash of the tournament. The two sides will lock...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/perth-scorchers-vs-sydney-sixers-live-when-and-where-to-watch-bbl-2025-26-final-in-india-2026-01-24-1027267",
+    "time": "2026-01-24T05:28:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ishan Kishan joins stellar list with exceptional performance against New Zealand in second T20I",
+    "desc": "Team India put forth an exceptional performance in the second T20I of the ongoing five-game series against New Zealand. The two sides locked horns in Raipur on January 23, and the clash saw the Black...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-joins-stellar-list-with-exceptional-performance-against-new-zealand-in-second-t20i-2026-01-24-1027258",
+    "time": "2026-01-24T04:04:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "New Zealand's Zak Foulkes registers unwanted record after 2nd T20I loss against India",
     "desc": "The Indian team registered a dominant win over New Zealand in the second T20I of the ongoing five-game series. The two sides locked horns at the Shaheed Veer Narayan Singh International Stadium, Raipur, on January...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-surpasses-virat-kohli-in-t20is-only-rohit-sharma-ahead-in-race-2026-01-23-1027236",
     "time": "2026-01-23T15:59:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi Capitals suffer twin blow, two cricketers ruled out of WPL 2026; franchise announces replacement",
-    "desc": "Delhi Capitals have announced squad changes for the remainder of the ongoing Women’s Premier League (WPL) 2026 following injury setbacks to two players. Deeya Yadav and Mamatha Madiwala have both been ruled out of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-suffer-blow-two-cricketers-ruled-out-of-wpl-2026-franchise-announces-replacement-2026-01-23-1027229",
-    "time": "2026-01-23T14:45:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Axar Patel not playing 2nd T20I vs New Zealand in Raipur?",
-    "desc": "India were forced to bench Axar Patel for the second T20I against New Zealand at the SVNS International Stadium in Raipur. The all-rounder suffered a blow on his left hand in the first T20I and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-axar-patel-not-playing-2nd-t20i-vs-new-zealand-in-raipur-2026-01-23-1027219",
-    "time": "2026-01-23T13:35:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Jasprit Bumrah not playing for India vs New Zealand in 2nd T20I in Raipur?",
-    "desc": "The second T20I between India and New Zealand is being played today at the Shaheed Veer Narayan Singh International Stadium, Raipur. India skipper Suryakumar Yadav won the toss and opted to bowl first, while also confirming...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-jasprit-bumrah-not-playing-for-india-vs-new-zealand-in-2nd-t20i-in-raipur-2026-01-23-1027215",
-    "time": "2026-01-23T13:14:53.000Z"
   }
 ];

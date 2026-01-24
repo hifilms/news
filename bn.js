@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "নিরামিষ ভোজেই যাত্রা সেরে নিল বন্দে ভারত স্লিপার, খাবার বিতর্ক এড়াতে তৎপর রেল",
+    "desc": "যদিও রেলের পক্ষ থেকে এই বিতর্ক এড়িয়ে যাওয়া হয়েছে। পূর্ব ও উত্তর-পূর্ব সীমান্ত রেলের পক্ষ থেকে জানানো হয়েছে, ‘‘আমরা খাবারের বিষয় দেখি না। প্রিমিয়াম ট্রেনের অন বোর্ড ক্যাটারিং ব্যবস্থা দেখে IRCTC ৷ তারা যে খাবার স্থির করে দিয়েছে, সেটাই পরিবেশন করা হয় অন বোর্ড।’’",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Vande-Bharat-Sleeper-Veg-Food-2026-01-48d1488a716725cc8b46354db6c268b7-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/vande-bharat-sleeper-train-veg-menu-list-why-there-is-no-non-vegetarian-food-as-of-now-ss-2510280.html",
+    "time": "2026-01-24T06:07:58.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "আত্মঘাতী বিস্ফোরণে বিয়েবাড়িতে রক্তস্রোত! প্রভাবশালী নেতার বাড়িতে মৃত বহু...",
+    "desc": "অতিথি বেশে সুইসাইড বোম্বার হিসাবে বিয়েবাড়িতে প্রবেশ। ভয়ংকর বিস্ফোরণে সাতজনের মৃত্যু এবং ২৫ জন গুরুতর আহত হয়েছে। বিস্ফোরণের পর এলাকা ভেঙে পড়ে এবং উদ্ধারকাজে জটিলতা তৈরি হয়। পুলিস এবং নিরাপত্তা বাহিনী হামলাকারীদের খুঁজে বের করার জন্য অভিযান চালাচ্ছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/seven-people-were-killed-and-25-injured-when-a-suicide-bomber-detonated-an-explosive-vest-among-guests-at-a-wedding-ceremony_637205.html ",
+    "time": "2026-01-24T05:18:09.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Smriti Mandhana-Palash Muchhal: বিয়ের মণ্ডপেই ‘অন্য নারীর সঙ্গে ধরা’! পলাশ মুচ্ছলকে ঘিরে চাঞ্চল্যকর অভিযোগ",
     "desc": "একজন প্রযোজক ও অভিনেতা বিদ্যান মেনে পুলিশে অভিযোগ করেছে, পলাশকে বিয়ের অনুষ্ঠান চলাকালীন অন্যান্য নারীর সঙ্গে এক বিছানায় ধরা পড়ার পর ভারতীয় মহিলা ক্রিকেটারদের বন্ধুদের হাতে মার খেতে হয়েছে। তিনি এই দৃশ্যকে “ভয়ানক” বলে অভিহিত করেছেন।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/off-beat/vande-bharat-express-which-state-in-india-runs-maximum-number-of-vande-bharat-express-train-not-west-bengal-delhi-or-gujrat-here-is-a-shocking-answer-in-the-correct-name-sanj-2501113.html",
     "time": "2026-01-17T09:10:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "১৮টি ফ্লপের কলঙ্ক মুছে সুপারস্টার হওয়ার গল্প! ১৯৫৭ সালের সেই ঐতিহাসিক ছবি",
-    "desc": "হিন্দি সিনেমার এমন এক অভিনেতা, যাঁকে আজ আমরা ড্যান্সিং সুপারস্টার নামে চিনি, তাঁর কেরিয়ারের শুরুটা ছিল ভীষণই চ্যালেঞ্জে ভরা। ১৯৫৩ সালে বড় পর্দায় পা রাখার পর দীর্ঘ সময় ধরে তাঁকে বক্স অফিসে ব্যর্থতার মুখে পড়তে হয়েছিল। প্রথম তিন বছরে তিনি একের পর এক বহু ছবিতে কাজ করেন, কিন্তু সাফল্য তখনও তাঁর থেকে বহু দূরে ছিল এবং ১৮টি ছবি একের পর এক ফ্লপ হয়ে যায়।সেই সময়ে যখন বড় বড় তারকারা ইন্ডাস্ট্রিতে রাজত্ব করছিলেন, তখন এই অভিনেতার পক্ষে নিজের আলাদা পরিচয় তৈরি করা কোনও সংগ্রামের থেকে কম ছিল না।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1768636000_33-2026-01-c72619992cd8e9938045ece6895ad7f8-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/shammi-kapoor-gave-18-flop-films-in-3-years-1957-tumsa-nahin-dekha-changed-his-career-became-his-first-1-crore-hit-movie-smc-2501033.html",
-    "time": "2026-01-17T08:13:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit- Agarkar-Gambhir: ‘কাঁধে বন্দুক রেখে অন্য কেউ চালায়’- রোহিতকে সরাতে আগরকরকে সামনে রেখে কলকাঠি নেড়েছিলেন গম্ভীর, মারাত্মক অভিযোগ প্রাক্তনের",
-    "desc": "ওডিআই অধিনায়ক হিসেবে রোহিতের শেষ ম্যাচটি ছিল ২০২৫ সালের চ্যাম্পিয়ন্স ট্রফির ফাইনাল, যেখানে তিনি তার দ্বিতীয় আইসিসি ট্রফি জিতেছিলেন এবং সাদা বলের ক্রিকেটে একাধিক শিরোপা জয়ী একমাত্র ভারতীয় অধিনায়ক হিসেবে এমএস ধোনির সঙ্গে যোগ দিয়েছিলেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Rohit-Sharma-2026-01-e361630fe99852dad428c6f0c88fdb24-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/gambhir-and-rohit-gautam-gambhir-put-to-sword-for-disrespecting-rohit-sharma-fired-the-gun-off-ajit-agarkar-s-shoulder-dd-2500885.html",
-    "time": "2026-01-17T08:08:10.000Z"
   }
 ];

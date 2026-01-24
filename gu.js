@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "IPL 2026 પહેલા ધોનીની ટીમને મોટો ઝટકો, સૌથી મોંઘો અનકેપ્ડ ખેલાડી અચાનક બહાર, જાણો શું છે કારણ",
+    "desc": "આગામી IPL સિઝન શરૂ થવાના થોડા મહિના પહેલા જ પાંચ વખતની ચેમ્પિયન ચેન્નાઈ સુપર કિંગ્સને મોટો ઝટકો લાગ્યો છે. IPL ઓક્શનમાં 14.2 કરોડમાં ખરીદેલા એક ખેલાડીને અચાનક ઈજા થઈ છે. જેના કારણે CSKની મુશ્કેલીઓ વધી ગઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/csk-suffer-major-blow-ahead-of-ipl-2026-uncapped-player-prashant-veer-injured-462728 ",
+    "time": "2026-01-24T05:51:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ઈશાન કિશનનો કમાલ, T20માં બનાવ્યો અનોખો રેકોર્ડ, આવું કરનાર પ્રથમ ભારતીય બન્યો",
+    "desc": "ટીમ ઈન્ડિયાના ખતરનાક વિકેટકીપર બેટ્સમેન ઈશાન કિશને શુક્રવારે ન્યૂઝીલેન્ડ સામેની બીજી ટી20 મેચમાં ધમાકેદાર બેટિંગ કરી. ઈશાને 32 બોલમાં 76 રનની શાનદાર ઈનિંગ રમી. જેમાં 11 ચોગ્ગા અને છગ્ગાનો સમાવેશ થાય છે. આ દરમિયાન ઈશાન કિશનના નામે એક રેકોર્ડ પણ નોંધાયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ishan-kishan-unique-record-in-t20-complete-fifty-in-powerplay-as-a-non-opener-462724 ",
+    "time": "2026-01-24T05:18:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Post Office ધાંસૂ સ્કીમ..... ઘર બેઠા દર મહિને ₹20500 ની કમાણી, જાણો વિગત",
+    "desc": "Post Office Schemes ન માત્ર Risk Free રોકાણ માટે, પરંતુ સરકાર દ્વારા આપવામાં આવી રહેલા શાનદાર વ્યાજ માટે પણ પોપુલર છે. નિવૃત્તિ બાદ જીવન કોઈ નાણાકીય મુશ્કેલી વગર પસાર થાય તે માટે પણ પોસ્ટ ઓફિસમાં રેગુલર આવક યોજના ઉપલબ્ધ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/post-office-best-scheme-invest-in-senior-citizen-saving-scss-get-20500-rupee-monthly-462723 ",
+    "time": "2026-01-24T05:02:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "18 વર્ષની આતુરતાનો અંત! અમેરિકાના ઘમંડના ભૂક્કા કાઢશે આ ડીલ, ભારતને શું થશે ફાયદો? ખાસ જાણો",
+    "desc": "એકબાજુ જ્યાં અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ અનેક દેશો પર ટેરિફનો ડંડો વિંઝવા માંડ્યા છે અને ભારત ઉપર પણ 50 ટકા ટેરિફ લગાવેલો છે ત્યારે હવે ભારત માટે અન્ય બજારો શોધવા જરૂરી થઈ ગયા છે. આ કડીમાં ભારત અને ઈયુ વચ્ચે થનારા મુક્ત વેપાર કરાર પર બધાની નજર છે. આ ડીલથી ભારતને શું ફાયદો થશે, ટેક્સટાઈલ મંત્રી ગિરિરાજ સિંહનું જે નિવેદન આવ્યું છે તે પણ જાણવા જેવું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/union-minister-giriraj-singh-big-claim-about-india-eu-deal-what-will-india-benefit-from-it-462718 ",
+    "time": "2026-01-24T04:07:13.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "સોનાના ભાવ ઘટ્યા, ચાંદી પણ સસ્તી થઈ, ઘટેલા ભાવે ખરીદી કરવી હોય તો રેટ ખાસ જાણો",
     "desc": "સોના ચાંદીના ભાવ આ અઠવાડિયે પણ સતત ઉતાર ચડાવવાળા જોવા મળ્યા. જો કે શુક્રવારે સાંજે બંને કિંમતી ધાતુઓમાં કડાકો જોવા મળ્યો. લગ્નગાળા અને પ્રસંગોની સીઝનમાં સોનું અને ચાંદી જે રીતે ઉછાળા મારી રહ્યું છે તે જોતા ખરીદનારાઓમાં ચિંતા પેસેલી છે. સોના-ચાંદીના લેટેસ્ટ ભાવ ખાસ જાણો.",
@@ -351,15 +387,6 @@ const newsData_gu = [
     "time": "2026-01-21T13:19:33.000Z"
   },
   {
-    "cat": "Business",
-    "title": "3.25 સુધી ફિટમેન્ટ ફોર્મ્યુલા,  5% ઈન્ક્રીમેન્ટ.... આઠમાં પગાર પંચમાં મળશે ભેટ?",
-    "desc": "ફેડરેશન ઓફ નેશનલ પોસ્ટલ ઓર્ગેનાઇઝેશન એટલે કે એફએનપીઓનું કહેવું છે કે સંગઠને 3.0થી 3.25 સુધી અલગ-અલગ ફિટમેન્ટ ફેક્ટરનું સૂચન કર્યું છે. આ સિવાય એફએનપીઓએ વર્તમાન 3 ટકા વાર્ષિક પગાર વધારાને વધારી 5 ટકા કરવાની માગ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-fitment-factor-above-3-and-5-percent-annual-increment-demand-raised-462415 ",
-    "time": "2026-01-21T10:29:53.000Z"
-  },
-  {
     "cat": "World",
     "title": "દાવોસ જઈ રહ્યા હતા ડોનાલ્ડ ટ્રમ્પ, અચાનક આકાશમાં શું થયું કે લેવો પડ્યો યુ-ટર્ન",
     "desc": "યુએસ રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ સ્વિટ્ઝર્લૅન્ડના દાવોસ ખાતે વર્લ્ડ ઇકોનોમિક ફોરમમાં હાજરી આપવા જઈ રહ્યા હતા, ત્યારે પ્લેને ઉડાન ભર્યા બાદ અચાનક તેમાં ખામી સર્જાતા યુ-ટર્ન લેવો પડ્યો હતો. આ અંગે વ્હાઈટ હાઉસે માહિતી આપી હતી.",
@@ -385,24 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/kangana-ranaut-posted-2016-photos-said-life-was-hell-called-hrithik-roshan-was-a-silly-ex-462363 ",
     "time": "2026-01-21T03:44:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI સેન્ટ્રલ કોન્ટ્રાક્ટમાં થશે મોટો ફેરફાર, વિરાટ કોહલી અને રોહિત શર્માનું ડિમોશન પાક્કું !",
-    "desc": "ભારતીય ક્રિકેટ બોર્ડ ખેલાડીઓ માટે વાર્ષિક સેન્ટ્રલ કોન્ટ્રાક્ટ સિસ્ટમમાં મોટો ફેરફાર કરવાની તૈયારી કરી રહ્યું છે. આ મોટા ફેરફારની સૌથી વધુ અસર ટીમ ઈન્ડિયાના સ્ટાર ખેલાડીઓ ખાસ કરીને વિરાટ કોહલી અને રોહિત શર્મા પર પડી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/bcci-is-likely-to-remove-a-plus-category-in-central-contract-kohli-rohit-to-demoted-462292 ",
-    "time": "2026-01-20T09:26:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "આગામી ODI સિરીઝમાં ટીમ ઈન્ડિયામાંથી ગાયબ થશે ઘણા ચહેરા, કેપ્ટન ગિલે આપ્યો સંકેત",
-    "desc": "ટીમ ઈન્ડિયાએ પહેલી મેચ જીતવા છતાં ન્યૂઝીલેન્ડ સામે ત્રણ મેચની વનડે શ્રેણી 2-1થી હારી ગઈ. આ ન્યૂઝીલેન્ડનો ભારતમાં અત્યાર સુધીનો પહેલો શ્રેણી વિજય છે. આ હાર બાદ હવે આગામી ODI સિરીઝમાં ટીમ ઈન્ડિયામાં ફેરફાર જોવા મળી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/shubman-gill-hints-multiple-change-in-indian-cricket-odi-team-462287 ",
-    "time": "2026-01-20T08:13:34.000Z"
   },
   {
     "cat": "Tech",
