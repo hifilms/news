@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "৭২ ঘণ্টা আগে টিকিট 'ক্যানসেল' করলেই...! বন্দে ভারত স্লিপার আর অমৃত ভারত ট্রেনের টিকিট বাতিলের নিয়মে বিরাট চমক! সহজ ভাষায় বুঝে নিন 'সিস্টেম'!",
+    "desc": "রেলের নতুন বিজ্ঞপ্তি অনুযায়ী, ট্রেন ছাড়ার ৭২ ঘণ্টা আগে টিকিট বাতিল করলে কেটে নেওয়া হবে ভাড়ার ২৫ শতাংশ। যদি টিকিট যাত্রা শুরুর ৭২ ঘণ্টা থেকে ৮ ঘণ্টার মধ্যে বাতিল করা হয়, তবে যাত্রীরা ভাড়ার ৫০ শতাংশ ফেরত পাবেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-24-at-19.16.50-2026-01-2a84679b6ff65d338d43c1218abf235f-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/vande-bharat-sleeper-and-amrit-bharat-a-big-surprise-in-the-ticket-cancellation-rules-for-vande-bharat-sleeper-and-amrit-bharat-trains-understand-the-whole-system-in-simple-terms-sanj-2511049.html",
+    "time": "2026-01-24T14:14:37.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "নিরামিষ ভোজেই যাত্রা সেরে নিল বন্দে ভারত স্লিপার, খাবার বিতর্ক এড়াতে তৎপর রেল",
     "desc": "যদিও রেলের পক্ষ থেকে এই বিতর্ক এড়িয়ে যাওয়া হয়েছে। পূর্ব ও উত্তর-পূর্ব সীমান্ত রেলের পক্ষ থেকে জানানো হয়েছে, ‘‘আমরা খাবারের বিষয় দেখি না। প্রিমিয়াম ট্রেনের অন বোর্ড ক্যাটারিং ব্যবস্থা দেখে IRCTC ৷ তারা যে খাবার স্থির করে দিয়েছে, সেটাই পরিবেশন করা হয় অন বোর্ড।’’",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/beautiful-girl-can-distract-a-man-madhya-pradesh-congress-mla-s-bizarre-theory-sparks-controversy-sta-2501218.html",
     "time": "2026-01-17T10:26:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ভারতের কোন 'রাজ্যে' ছোটে সবচেয়ে 'বেশি' বন্দে ভারত ট্রেন জানেন...? শুনলেই চমকে যাবেন!",
-    "desc": "আচ্ছা আপনি কি জানেন যে দেশে সবচেয়ে বেশি সংখ্যক বন্দে ভারত ট্রেন কোথায় চলে? মোটেই বাংলা, দিল্লি, উত্তরপ্রদেশ বা গুজরাতে ছোটে না কিন্তু। বরং বিখ্যাত এই ট্রেন সর্ববৃহৎ সংখ্যায় ছোটে দেশের অন্য একটি রাজ্যে। যার নামে চমকে উঠবেন আপনিও!",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-17-at-12.32.57-2026-01-40c4784c0e4c859f0b9af1afbfbc7c5e-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/off-beat/vande-bharat-express-which-state-in-india-runs-maximum-number-of-vande-bharat-express-train-not-west-bengal-delhi-or-gujrat-here-is-a-shocking-answer-in-the-correct-name-sanj-2501113.html",
-    "time": "2026-01-17T09:10:19.000Z"
   }
 ];

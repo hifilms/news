@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "ICC officially ejects Bangladesh from T20 World Cup 2026, issues statement",
+    "desc": "In a significant development ahead of the T20 World Cup 2026, the International Cricket Council (ICC) has confirmed that Scotland will replace Bangladesh in the tournament. The decision was officially communicated on Saturday after Bangladesh’s...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-officially-ejects-bangladesh-from-t20-world-cup-2026-issues-statement-2026-01-24-1027336",
+    "time": "2026-01-24T14:29:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Which team will replace Pakistan if they pull out of T20 World Cup 2026 to support Bangladesh?",
+    "desc": "Pakistan's participation in the 2026 T20 World Cup is uncertain as the Pakistan Cricket Board (PCB) awaits instructions from the government, according to chairman Mohsin Naqvi. Naqvi emphasised that the PCB would follow the government's...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/which-team-will-replace-pakistan-if-they-pull-out-of-t20-world-cup-2026-to-support-bangladesh-2026-01-24-1027333",
+    "time": "2026-01-24T14:09:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan to boycott T20 World Cup 2026 to support Bangladesh? Mohsin Naqvi reveals",
+    "desc": "The future of Pakistan's participation in the 2026 T20 World Cup remains uncertain, with the country's cricket board waiting for clear instructions from the government before making a final decision. Pakistan Cricket Board (PCB) chairman...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-to-boycott-t20-world-cup-2026-to-support-bangladesh-mohsin-naqvi-reveals-2026-01-24-1027329",
+    "time": "2026-01-24T13:42:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC to punish Bangladesh with major financial blow after T20 World Cup 2026 withdrawal, know details",
+    "desc": "The Bangladesh Cricket Board (BCB) is set to face significant financial fallout following its exclusion from the 2026 T20 World Cup. The decision by the International Cricket Council (ICC) to remove Bangladesh and replace it...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-to-punish-bangladesh-with-major-financial-blow-after-t20-world-cup-2026-withdrawal-know-details-2026-01-24-1027324",
+    "time": "2026-01-24T13:13:33.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mohammed Shami sends message to BCCI selectors with five-wicket haul in Ranji Trophy",
     "desc": "Ace pacer Mohammed Shami stole the show in Bengal’s Ranji Trophy clash against Services at the Bengal Cricket Academy Ground in Kalyani. The ace pacer dismissed opener SG Rohilla, Ravi Chauhan, Rajat Paliwal, Vineet Dhankhar...",
     "img": "",
@@ -46,47 +82,11 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "IND vs NZ, U19 World Cup Live Cricket Score: New Zealand bundled for 135 runs in first innings",
+    "title": "IND vs NZ, U19 World Cup Live Cricket Score: India beat New Zealand by seven wickets",
     "desc": "The stage is set for the 24th game of the ongoing U19 World Cup 2026. India U19 takes on New Zealand U19 in the tournament at the Queen Sports Club in Bulawayo. Coming on the...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-vs-new-zealand-u19-world-cup-live-cricket-match-score-update-at-queens-sports-club-bulawayo-vaibhav-suryavanshi-ayush-mhatre-1027279",
     "time": "2026-01-24T06:57:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jannik Sinner overcomes heat and cramps to defeat Eliot Spizzirri, advances to Australian Open fourth round",
-    "desc": "World number two Jannik Sinner once again proved why he is one of the best tennis players in the world. Taking on the USA’s Eliot Spizzirri in the ongoing Australian Open 2026 third round, Sinner...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jannik-sinner-overcomes-heat-and-cramps-to-defeat-eliot-spizzirri-advances-to-australian-open-fourth-round-2026-01-24-1027278",
-    "time": "2026-01-24T06:47:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI announces India women's squad for Australia Test and India A squad for ACC Rising Stars Asia Cup",
-    "desc": "India women is all set to take on Australia in a multi-format series. The two sides will lock horns across three T20Is, three ODIs, and a single Test match. With the white-ball squads already announced,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-announces-india-women-s-squad-for-australia-test-and-india-a-squad-for-acc-rising-stars-asia-cup-2026-01-24-1027271",
-    "time": "2026-01-24T06:13:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch BBL 2025-26 final in India?",
-    "desc": "The stage is set for the final of the BBL (Big Bash League) 2025-26. Perth Scorchers will be locking horns with Sydney Sixers in the summit clash of the tournament. The two sides will lock...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/perth-scorchers-vs-sydney-sixers-live-when-and-where-to-watch-bbl-2025-26-final-in-india-2026-01-24-1027267",
-    "time": "2026-01-24T05:28:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ishan Kishan joins stellar list with exceptional performance against New Zealand in second T20I",
-    "desc": "Team India put forth an exceptional performance in the second T20I of the ongoing five-game series against New Zealand. The two sides locked horns in Raipur on January 23, and the clash saw the Black...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-joins-stellar-list-with-exceptional-performance-against-new-zealand-in-second-t20i-2026-01-24-1027258",
-    "time": "2026-01-24T04:04:09.000Z"
   }
 ];

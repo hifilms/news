@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "પાકિસ્તાન પણ કરશે T20 વર્લ્ડ કપનો બહિષ્કાર? બાંગ્લાદેશને બહાર થવાથી નકવીએ ICCને આપી ધમકી",
+    "desc": "PCBના ચેરમેન મોહસીન નકવીએ જણાવ્યું હતું કે ICCએ બાંગ્લાદેશ સાથે અન્યાય કર્યો છે અને બેવડા ધોરણો અપનાવવામાં આવી રહ્યા છે. તેમણે સ્પષ્ટપણે કહ્યું હતું કે બાંગ્લાદેશે કોઈપણ કિંમતે વર્લ્ડ કપ રમવો જોઈએ, અને પાકિસ્તાન સરકાર આ બાબતે અંતિમ નિર્ણય લેશે. નકવીએ એમ પણ કહ્યું હતું કે પાકિસ્તાન ICC કરતાં તેની સરકાર પર વધુ વિશ્વાસ કરે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/will-pakistan-also-boycott-the-t20-world-cup-naqvi-threatens-icc-over-bangladeshs-exit-462813 ",
+    "time": "2026-01-24T14:41:35.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "અમેરિકામાં સેંકડો લોકોના મોતનો ખતરો, 8,000થી વધુ ફ્લાઇટ્સ રદ, કારણ ઈરાન પર સંભવિત હુમલો નથી પણ છે વધુ ગંભીર",
+    "desc": "થોડા કલાકો પહેલા, યુ.એસ.માં 8,000 થી વધુ ફ્લાઇટ્સ રદ કરવામાં આવી હતી, જેના કારણે ખળભળાટ મચી ગયો હતો. આ નિર્ણય એક મોટી આપત્તિને ટાળવા માટે લેવામાં આવ્યો હતો, જેની અસર સમગ્ર યુ.એસ. પર થવાની ધારણા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/hundreds-of-people-in-america-at-risk-of-death-more-than-8000-flights-canceled-462803 ",
+    "time": "2026-01-24T13:48:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "શાહરુખ ખાનની ધમાકેદાર એક્શન થ્રિલર ફિલ્મ King ની રિલીઝ ડેટ ફાઈનલ, જુઓ Video",
+    "desc": "વર્ષ 2026 ની મોસ્ટ અવેટેડ ફિલ્મ કિંગની રિલીઝ ડેટનું એલાન કરી દેવામાં આવ્યું છે. શાહરુખ ખાન આ ફિલ્મમાં ધમાકેદાર એકશન કરતો જોવા મળશે. આ ફિલ્મનો એક વીડિયો શેર કરવામાં આવ્યો છે. જે રિલીઝ થયાની સાથે વાયરલ થયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/king-release-date-announce-shah-rukh-khan-film-king-releasing-on-24-dec-2026-462796 ",
+    "time": "2026-01-24T13:26:36.000Z"
+  },
+  {
     "cat": "Business",
     "title": "બજેટ હંમેશા 1 ફેબ્રુઆરીએ કેમ રજૂ કરવામાં આવે છે? જાણો તેની પાછળનું કારણ",
     "desc": "આગામી રવિવાર એટલે કે 1 ફેબ્રુઆરીએ દેશનું બજેટ રજૂ થશે. કેન્દ્રીય નાણામંત્રી નિર્મલા સીતારમણ લોકસભામાં બજેટ રજૂ કરશે. તેવામાં આવો જાણીએ બજેટ કેમ હંમેશા 1 ફેબ્રુઆરીએ રજૂ કરવામાં આવે છે અને તેની પાછળ શું કારણ છે?",
@@ -333,15 +360,6 @@ const newsData_gu = [
     "time": "2026-01-23T03:14:58.000Z"
   },
   {
-    "cat": "Business",
-    "title": "EPFOની મોટી તૈયારી, PF ખાતાધારકો માટે બદલાવા જઈ રહ્યું છે ઘણુ બધુ",
-    "desc": "EPFOના સભ્યો આ વર્ષે એપ્રિલ સુધીમાં UPI દ્વારા પોતાના પ્રોવિડન્ટ ફંડ (PF)માંથી ઉપાડ કરી શકશે અને તે રકમ સીધી તેમના બેન્ક ખાતામાં જમા થઈ જશે. આ યોજનામાં સભ્યોનો સભ્યોની અમુક લઘુત્તમ રકમ ખાતામાં સુરક્ષિત રહેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/epfo-3-0-upi-withdrawal-new-rules-pf-account-holders-updates-462556 ",
-    "time": "2026-01-22T15:14:19.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "રાહુલ અને પ્રિયંકા ગાંધી વચ્ચેના ઝઘડાનો હું શિકાર બન્યો, ભાઈ-બહેન પર આ રાજ્યના મુખ્યમંત્રીનો મોટો દાવો",
     "desc": "આસામના મુખ્યમંત્રી હિમંત બિસ્વા સરમાએ દાવો કર્યો છે કે, તેઓ પોતે રાહુલ અને પ્રિયંકાની વચ્ચે ચાલી રહેલ આંતરિક ઝઘડાનો શિકાર બન્યા છે. પૂર્વ કોંગ્રેસ નેતા હિમંત બિસ્વા સરમાએ કહ્યું કે, ગાંધી પરિવારમાં બધુ બરાબર નથી અને તાજેતરના રાજકીય નિર્ણયોમાં આના સંકેતો સ્પષ્ટપણે દેખાય છે.",
@@ -421,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/bengal-cricketer-akash-biswas-both-kidneys-failed-coach-seeks-help-from-cm-462491 ",
     "time": "2026-01-22T07:29:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ટીમ ઈન્ડિયાની જીતના 3 હીરો, પ્રથમ T20માં ન્યુઝીલેન્ડને આપ્યો જોરદાર ઝટકો",
-    "desc": "નાગપુરમાં રમાયેલી પ્રથમ T20માં ભારતે ન્યૂઝીલેન્ડને 48 રનથી હરાવ્યું હતું. આ સાથે ભારતે 5 મેચની શ્રેણીમાં 1-0ની લીડ પણ મેળવી લીધી છે. પ્રથમ બેટિંગ કરતા ભારતે 238 રન બનાવ્યા હતા. જવાબમાં ન્યૂઝીલેન્ડ 190 રન જ બનાવી શક્યું હતું. ભારતની જીતમાં આ 3 ખેલાડીઓેએ મહત્વપૂર્ણ ભૂમિકા ભજવી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-1st-t20-nagpur-team-india-3-match-winner-cricketers-462487 ",
-    "time": "2026-01-22T06:57:52.000Z"
   },
   {
     "cat": "Entertainment",
@@ -547,15 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/geeta-kapoor-bold-statement-about-intimacy-geeta-kapoor-reply-on-personal-life-controversy-461839 ",
     "time": "2026-01-16T07:39:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ઘર બેઠા રણવીર સિંહની ધુરંધર ફિલ્મ જોવા થઈ જાવ તૈયાર, જાણો ક્યારે થઈ રહી છે રિલીઝ",
-    "desc": "રણવીર સિંહની સ્પાઈ એકશન થ્રિલર ફિલ્મ ધુરંધર સિનેમાઘરોમાં રિલીઝ ત્યારથી ચર્ચામાં છે. આ ફિલ્મ અને તેના દમદાર પાત્રોના લોકો વખાણ કરી રહ્યા છે. આ ફિલ્મ હવે તમે ઘર બેઠા પણ જોઈ શકશો. કારણ કે રણવીર સિંહની ફિલ્મ ઓટીટી પર રિલીઝ થવા માટે તૈયાર છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/ranveer-singh-film-dhurandhar-ott-release-netflix-dhurandhar-box-office-collection-461794 ",
-    "time": "2026-01-16T02:16:11.000Z"
   },
   {
     "cat": "Tech",
