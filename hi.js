@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Bangladesh issue statement after being replaced by Scotland for T20 World Cup 2026",
+    "desc": "The International Cricket Council (ICC) replaced Scotland with Bangladesh for the upcoming T20 World Cup 2026, starting February 7. After Mustafizur Rahman was released by Kolkata Knight Riders for IPL 2026, Bangladesh cited security as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-issue-statement-after-being-replaced-by-scotland-for-t20-world-cup-2026-2026-01-24-1027345",
+    "time": "2026-01-24T18:09:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Delhi Capitals surpass Mumbai Indians following win over RCB, check full points table",
+    "desc": "With just two wins in four matches, Delhi Capitals were in a state of bother in the ongoing Women’s Premier League. The Jemimah Rodrigues-led side, however, made a strong return to the tournament with back-to-back...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wpl-2026-delhi-capitals-surpass-mumbai-indians-following-win-over-rcb-check-full-points-table-2026-01-24-1027344",
+    "time": "2026-01-24T17:21:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "5 instances teams opted out of ICC tournaments",
+    "desc": "After the Bangladesh Cricket Board (BCB) officially opted out of the 2026 T20 World Cup, citing security concerns, the International Cricket Council (ICC) replaced them with Scotland for the marquee tournament, starting February 7. Following...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-pull-out-of-t20-world-cup-2026-5-instances-teams-opted-out-of-icc-tournaments-2026-01-24-1027340",
+    "time": "2026-01-24T16:16:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India to play Pakistan on February 1 amid T20 World Cup 2026 controversy, know match details",
+    "desc": "India secured a dominant finish in the group stages of the U19 World Cup, claiming their third straight win to top Group B. With a flawless record in the round-robin stage, the five-time champions are...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-to-play-pakistan-on-february-1-amid-t20-world-cup-2026-controversy-know-match-details-2026-01-24-1027338",
+    "time": "2026-01-24T15:31:35.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ICC officially ejects Bangladesh from T20 World Cup 2026, issues statement",
     "desc": "In a significant development ahead of the T20 World Cup 2026, the International Cricket Council (ICC) has confirmed that Scotland will replace Bangladesh in the tournament. The decision was officially communicated on Saturday after Bangladesh’s...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-rewrites-history-becomes-first-player-to-achieve-major-grand-slam-record-in-australia-open-2026-01-24-1027309",
     "time": "2026-01-24T11:38:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh officially removed from T20 World Cup 2026, Scotland replaced them in Group C",
-    "desc": "Bangladesh have been officially removed from the tournament after the ICC confirmed Scotland as their replacement, following internal deliberations held in Dubai. The decision was communicated to the Bangladesh Cricket Board through formal correspondence sent...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-officially-removed-from-t20-world-cup-2026-scotland-replaced-them-in-group-c-2026-01-24-1027306",
-    "time": "2026-01-24T11:17:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Naomi Osaka pulls out of Australian Open 2026, reveals reason",
-    "desc": "Naomi Osaka’s Australian Open campaign came to an abrupt end on Saturday after the former world No 1 withdrew ahead of her scheduled third-round appearance in Melbourne, citing an abdominal injury connected to physical changes...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/naomi-osaka-pulls-out-of-australian-open-2026-reveals-reason-2026-01-24-1027298",
-    "time": "2026-01-24T10:21:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch SA20 2025-26 final in India?",
-    "desc": "Pretoria Capitals and Sunrisers Eastern Cape are all set to take on each other in the final of the ongoing SA20 2025-26. It is worth noting that the two sides will take on each other...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pretoria-capitals-vs-sunrisers-eastern-cape-live-when-and-where-to-watch-sa20-2025-26-final-in-india-2026-01-24-1027292",
-    "time": "2026-01-24T09:11:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND vs NZ, U19 World Cup Live Cricket Score: India beat New Zealand by seven wickets",
-    "desc": "The stage is set for the 24th game of the ongoing U19 World Cup 2026. India U19 takes on New Zealand U19 in the tournament at the Queen Sports Club in Bulawayo. Coming on the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-new-zealand-u19-world-cup-live-cricket-match-score-update-at-queens-sports-club-bulawayo-vaibhav-suryavanshi-ayush-mhatre-1027279",
-    "time": "2026-01-24T06:57:25.000Z"
   }
 ];
