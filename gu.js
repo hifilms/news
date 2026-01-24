@@ -1,5 +1,68 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "ભારતે ખુલ્લેઆમ ઈરાનને UNમાં આ મુદ્દે આપ્યું સમર્થન, પાકિસ્તાનનો પણ સપોર્ટ, પશ્ચિમી દેશો સ્તબ્ધ",
+    "desc": "વૈશ્વિક મંચ પર ભારતે કઈક એવું કર્યું છે જે ચર્ચાને એરણે છે. અચાનક ભારતનું આ બદલાયેલું વર્તન દુનિયા માટે જાણે આશ્ચર્યનું કારણ બની રહ્યું છે. ભારતે ખુલ્લેઆમ ઈરાનને સપોર્ટ કરતા કયા પ્રસ્તાવ પર વિરુદ્ધમાં મતદાન કર્યું તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/india-votes-against-un-rights-council-resolution-censuring-iran-protest-crackdown-news-in-gujarati-462747 ",
+    "time": "2026-01-24T08:44:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "&amp;#039;બેડરૂમમાં અન્ય યુવતી સાથે રંગેહાથ પકડાયો હતો પલાશ, મહિલા ક્રિકેટરોએ ચખાડ્યો મેથીપાક&amp;#039;, સ્મૃતિના મિત્રનો મોટો ખુલાસો",
+    "desc": "સંગીતકાર પલાશ મુછલ અને ભારતીય ક્રિકેટ સ્ટાર સ્મૃતિ મંધાના 23 નવેમ્બરના રોજ લગ્ન કરવાના હતા. બધી તૈયારીઓ પૂર્ણ થઈ ગઈ હતી, પરંતુ અચાનક લગ્ન અટકાવવામાં આવ્યા અને બાદમાં બ્રેકઅપની જાહેરાત કરી હતી. ત્યારે હવે આ મામલે એક મોટો ખુલાસો થયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/smriti-mandhana-friend-reveals-palaash-muchhal-caught-red-handed-with-another-girl-462746 ",
+    "time": "2026-01-24T08:36:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ભારતમાં 10 ગ્રામ સોનું દોઢ લાખ પાર, એક્સપર્ટ્સની ચેતવણી- &amp;#039;પિક્ચર અભી બાકી હૈ દોસ્ત&amp;#039;!",
+    "desc": "સોનું હાલ ભયંકર સ્તરે જોવા મળી રહ્યું છે. ભાવ જોઈને એમ થાય કે હજુ કેટલે પહોંચશે? પરંતુ નિષ્ણાંતો જે કહી રહ્યા છે તે જોતા આ તો હજુ ટ્રેલર છે...પિક્ચર હજુ બાકી છે એમ લાગે. શું કહે છે એક્સપર્ટ્સ તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-price-predictions-why-globally-central-bank-increasing-their-gold-reserve-silver-rally-462740 ",
+    "time": "2026-01-24T07:47:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રેકોર્ડબ્રેક ઇનિંગ છતાં ઈશાન કિશન થશે બહાર... પ્લેઈંગ-11માં આ ખેલાડી લેશે તેનું સ્થાન",
+    "desc": "ઈશાન કિશને બીજી ટી20માં ન્યૂઝીલેન્ડ સામે ધમાકેદાર બેટિંગ કરતા 32 બોલમાં 76 રન બનાવ્યા હતા. તેમ છતાં આ ખેલાડી ભારતીય ટીમની પ્લેઈંગ-11માંથી બહાર થઈ શકે છે, ત્યારે આ લેખમાં જાણીશું કે ઈશાન કિશનનું સ્થાન કોણ લેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ishan-kishan-may-be-dropped-from-playing-xi-despite-record-breaking-innings-know-why-462738 ",
+    "time": "2026-01-24T07:21:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "સની દેઓલની ફિલ્મે તોડ્યો ધુરંધર ફિલ્મનો રેકોર્ડ, પહેલા દિવસે કરી છપ્પરફાડ કમાણી, મેકર્સે શેર કરી જાણકારી",
+    "desc": "વર્ષ 2025 ની બ્લોક બસ્ટર ફિલ્મ ધુરંધરનો રેકોર્ડ સની દેઓલની ફિલ્મ બોર્ડર 2 એ તોડી નાખ્યો છે. બોર્ડર 2 ફિલ્મએ પહેલા દિવસે છપ્પરફાડ કમાણી કરી લીધી છે. બોર્ડર 2 ને ધુરંધર કરતાં પણ વધારે મોટી ઓપનિંગ મળી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/border-2-box-first-office-collection-sunny-deol-broke-dhurandhar-opening-record-462737 ",
+    "time": "2026-01-24T07:13:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "મિચેલ સેન્ટનરની આ ભૂલ પડી ગઈ ભારે... એક સમયે હાવી હતી ન્યુઝીલેન્ડની ટીમ, ભારતે 6 રનમાં જ ગુમાવી હતી બે વિકેટ",
+    "desc": "બીજી T20માં ભારતની ઈનિંગની શરૂઆત ખૂબ જ ખરાબ રહી હતી. ન્યૂઝીલેન્ડે ભારતની બે વિકેટ માત્ર છ રનમાં જ પાડી દીધી હતી, ત્યારબાદ કેપ્ટન મિચેલ સેન્ટનરે એક ભૂલ કરી જેનાથી મેચની આખી પલટાઈ ગઈ અને ન્યૂઝીલેન્ડનો હારનો સામનો કરવો પડ્યો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-turning-point-mitchell-santner-gave-third-over-to-zakary-foulkes-replacing-matt-henry-462733 ",
+    "time": "2026-01-24T06:35:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM મોદીનું આહ્વાન, BJP નો પ્લાન.... આવા યુવાઓની ફોજ તૈયાર કરી રહ્યું છે ભાજપ",
+    "desc": "ભારતીય જનતા પાર્ટી પીએમ મોદીના વિઝનને સાકાર કરવા અને ભવિષ્યનું નેતૃત્વ તૈયાર કરવા માટે એક મહત્વપૂર્ણ પહેલ કરી રહી છે. તે હેઠળ દેશભરમાંથી 25થી 40 વર્ષ ઉંમર વર્ગના 1000 ઉદીપ્તમાન કાર્યકર્તાઓની પસંદગી કરી તેને ત્રણ વર્ષ તાલીમ આપવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/bjp-youth-leaders-udiptmaan-karyakarta-pm-modi-politics-vision-future-political-leaders-india-462732 ",
+    "time": "2026-01-24T06:35:12.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "IPL 2026 પહેલા ધોનીની ટીમને મોટો ઝટકો, સૌથી મોંઘો અનકેપ્ડ ખેલાડી અચાનક બહાર, જાણો શું છે કારણ",
     "desc": "આગામી IPL સિઝન શરૂ થવાના થોડા મહિના પહેલા જ પાંચ વખતની ચેમ્પિયન ચેન્નાઈ સુપર કિંગ્સને મોટો ઝટકો લાગ્યો છે. IPL ઓક્શનમાં 14.2 કરોડમાં ખરીદેલા એક ખેલાડીને અચાનક ઈજા થઈ છે. જેના કારણે CSKની મુશ્કેલીઓ વધી ગઈ છે.",
@@ -306,15 +369,6 @@ const newsData_gu = [
     "time": "2026-01-22T07:29:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "મહારાષ્ટ્રમાં અહીં શિંદેએ ચૂપચાપ મોટો ખેલ પાડી દીધો, ભાજપની મજબૂત સ્થિતિ છતાં સપનું રોળાયું",
-    "desc": "મહારાષ્ટ્રના રાજકારણમાં નવા નવા સમીકરણો અને યુતિ જોવા મળી રહ્યા છે. જેને જોતા એવું લાગે કે પિક્ચર અભી બાકી છે. હવે કલ્યાણ ડોંબિવલી મહાનગરપાલિકામાં મહાયુતિની સામે ચૂંટણી લડેલા રાજ ઠાકરેના પક્ષે હવે શિવસેનાને ટેકો જાહેર કરી દીધો છે. ભાજપનું સપનું કેમ રોળાયું? ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/maharashtra-elections-kalyan-dombivali-municipal-corporation-mns-how-support-eknath-shinde-shivsena-462467 ",
-    "time": "2026-01-22T07:15:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ટીમ ઈન્ડિયાની જીતના 3 હીરો, પ્રથમ T20માં ન્યુઝીલેન્ડને આપ્યો જોરદાર ઝટકો",
     "desc": "નાગપુરમાં રમાયેલી પ્રથમ T20માં ભારતે ન્યૂઝીલેન્ડને 48 રનથી હરાવ્યું હતું. આ સાથે ભારતે 5 મેચની શ્રેણીમાં 1-0ની લીડ પણ મેળવી લીધી છે. પ્રથમ બેટિંગ કરતા ભારતે 238 રન બનાવ્યા હતા. જવાબમાં ન્યૂઝીલેન્ડ 190 રન જ બનાવી શક્યું હતું. ભારતની જીતમાં આ 3 ખેલાડીઓેએ મહત્વપૂર્ણ ભૂમિકા ભજવી હતી.",
@@ -369,24 +423,6 @@ const newsData_gu = [
     "time": "2026-01-21T16:06:19.000Z"
   },
   {
-    "cat": "Business",
-    "title": "શું બાબા વેંગાની ભવિષ્યવાણી સાચી પડી? સોના-ચાંદીના ભાવમાં તોફાની તેજી, જાણો હજુ કેટલો વધશે ભાવ!",
-    "desc": "બલ્ગેરિયન ભવિષ્યવેક્તા દ્વારા સોનાના ભાવ વિશે કરવામાં આવેલી ભવિષ્યવાણીને લઈ ખૂબ જ ચર્ચા થઈ રહી છે. કારણ કે, સોના અને ચાંદીના ભાવ સમયની સાથે વધી રહ્યા છે. સોનાના ભાવ વિશે બાબા વેંગાની ભવિષ્યવાણીઓ લોકોની વચ્ચે વધુને વધુ લોકપ્રિય બની રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/baba-vanga-gold-price-prediction-2026-baba-vanga-prediction-is-her-gold-price-forecast-coming-true-gold-silver-rate-hike-462434 ",
-    "time": "2026-01-21T14:13:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "બાંગ્લાદેશને અલ્ટીમેટમ... ICCએ વોટિંગથી લીધો મોટો નિર્ણય, હવે પાકિસ્તાનની નીકળશે હેકડી",
-    "desc": "જો બાંગ્લાદેશ ભારત નહીં જાય, તો ICC બોર્ડે તેને બદલવા માટે બુધવારે મતદાન કર્યું છે. એવું સમજાય છે કે ICCએ BCBને બાંગ્લાદેશ સરકારને એમ કહેવા માટે જણાવ્યું છે કે, જો બાંગ્લાદેશ 2026 T20 વર્લ્ડ કપમાં તેની મેચો રમવા માટે ભારત આવવાનો ઇનકાર કરે છે, તો ટૂર્નામેન્ટમાં તેની જગ્યાએ બીજી ટીમને સામેલ કરવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-controversy-icc-gives-ultimatum-to-bangladesh-pakistan-will-be-humiliated-462431 ",
-    "time": "2026-01-21T13:19:33.000Z"
-  },
-  {
     "cat": "World",
     "title": "દાવોસ જઈ રહ્યા હતા ડોનાલ્ડ ટ્રમ્પ, અચાનક આકાશમાં શું થયું કે લેવો પડ્યો યુ-ટર્ન",
     "desc": "યુએસ રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ સ્વિટ્ઝર્લૅન્ડના દાવોસ ખાતે વર્લ્ડ ઇકોનોમિક ફોરમમાં હાજરી આપવા જઈ રહ્યા હતા, ત્યારે પ્લેને ઉડાન ભર્યા બાદ અચાનક તેમાં ખામી સર્જાતા યુ-ટર્ન લેવો પડ્યો હતો. આ અંગે વ્હાઈટ હાઉસે માહિતી આપી હતી.",
@@ -394,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/trump-plane-enroute-to-wef-davos-makes-u-turn-after-minor-technical-issue-462379 ",
     "time": "2026-01-21T06:20:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "2 વર્ષ બાદ ઈશાન કિશનની T20માં થશે વાપસી, કેપ્ટને કર્યું કન્ફર્મ... આ ખેલાડી થશે બહાર",
-    "desc": "ન્યૂઝીલેન્ડ સામેની પહેલી T20 માટે ઈશાન કિશનની ભારતીય ટીમમાં વાપસી થશે અને ત્રીજા નંબરે બેટિંગ કરશે. કેપ્ટન સૂર્યકુમાર યાદવે સ્પષ્ટ કર્યું કે તિલક વર્માની ગેરહાજરીમાં ઈશાન શ્રેષ્ઠ વિકલ્પ છે. ઘરેલુ ક્રિકેટમાં પોતાના પ્રભાવશાળી પ્રદર્શનને કારણે ઈશાને ભારતીય ટીમમાં પોતાનું સ્થાન ફરીથી સ્થાપિત કર્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-1st-t20-ishan-kishan-will-return-to-t20-after-2-years-462376 ",
-    "time": "2026-01-21T05:37:43.000Z"
   },
   {
     "cat": "Entertainment",
@@ -468,15 +495,6 @@ const newsData_gu = [
     "time": "2026-01-18T05:05:42.000Z"
   },
   {
-    "cat": "World",
-    "title": "નવા ખતરાએ દુનિયાને ચોંકાવ્યા, માર્ચ-એપ્રિલમાં મોટી આફતની શક્યતા",
-    "desc": "બલ્ગેરિયાના અંધ ભવિષ્યવક્તા બાબા વેંગાની વર્ષ 2026 માટેની ભવિષ્યવાણીઓએ દુનિયાભરમાં ફાળ પાડી છે. અગાઉ મોટા દેશો વચ્ચે યુદ્ધની સ્થિતિ સર્જાવાની આગાહીઓ ગયા વર્ષે ડિસેમ્બરમાં જ સામે આવી હતી. આ સાથે જ સોનાના વધતા ભાવને લઈને બાબા વેંગાએ જે કહ્યું હતું, તે પણ અત્યારે સાચું પડતું જણાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/baba-vanga-prediction-a-new-threat-in-baba-vangas-predictions-has-caused-shock-possible-in-march-april-462051 ",
-    "time": "2026-01-18T03:45:06.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "બિગ બોસને ટક્કર મારે તેવો રિયાલિટી શો લઈને આવી રહી છે ફરાહ ખાન, જાણો ક્યારથી થશે શરુ?",
     "desc": "જો તમે બિગ બોસ જોવાના શોખીન છો તો તમને મજા પડી જાય તેવો રિયાલિટી શો ટુંક સમયમાં જોવા મળશે. આ રિયાલિટી શો ફરાહ ખાન લઈને આવી રહી છે અને તેના વિશે કહેવાય રહ્યું છે કે આ શો બિગ બોસ અને ખતરોં કે ખિલાડીને પણ ટક્કર મારે તેવો છે.",
@@ -520,15 +538,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/ranveer-singh-film-dhurandhar-ott-release-netflix-dhurandhar-box-office-collection-461794 ",
     "time": "2026-01-16T02:16:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "90s માં ટીવી પર સૌથી વધુ લોકપ્રિય થયો હતો આ કોમેડી શો, આજે પણ યુટ્યૂબ પર ખૂબ જોવે છે લોકો",
-    "desc": "90s નો સમય ટેલીવિઝન માટે ખાસ માનવામાં આવતો હતો. તે સમયે ટીવી ફક્ત મનોરંજનનું માધ્યમ નહીં પરંતુ પરિવારને એક કરનાર માધ્યમ હતું. તે સમયે ટીવી પર એવા શો આવતા જેને પરિવારના લોકો સાથે બેસીને માણતા હતા. તેમાંથી કેટલાક શો તો આજે પણ લોકોને પ્રિય છે. આજે તમને આવા જ એક લોકપ્રિય શો વિશે જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/popular-comedy-tv-serial-dekh-bhai-dekh-90s-popular-comedy-tv-serial-461740 ",
-    "time": "2026-01-15T08:44:15.000Z"
   },
   {
     "cat": "Tech",

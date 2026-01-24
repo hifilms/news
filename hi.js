@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When and where to watch SA20 2025-26 final in India?",
+    "desc": "Pretoria Capitals and Sunrisers Eastern Cape are all set to take on each other in the final of the ongoing SA20 2025-26. It is worth noting that the two sides will take on each other...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pretoria-capitals-vs-sunrisers-eastern-cape-live-when-and-where-to-watch-sa20-2025-26-final-in-india-2026-01-24-1027292",
+    "time": "2026-01-24T09:11:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND vs NZ, U19 World Cup Live Cricket Score: Rain stops play in Bulawayo, India remain dominant with the ball",
+    "desc": "The stage is set for the 24th game of the ongoing U19 World Cup 2026. India U19 takes on New Zealand U19 in the tournament at the Queen Sports Club in Bulawayo. Coming on the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-new-zealand-u19-world-cup-live-cricket-match-score-update-at-queens-sports-club-bulawayo-vaibhav-suryavanshi-ayush-mhatre-1027279",
+    "time": "2026-01-24T06:57:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jannik Sinner overcomes heat and cramps to defeat Eliot Spizzirri, advances to Australian Open fourth round",
+    "desc": "World number two Jannik Sinner once again proved why he is one of the best tennis players in the world. Taking on the USA’s Eliot Spizzirri in the ongoing Australian Open 2026 third round, Sinner...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jannik-sinner-overcomes-heat-and-cramps-to-defeat-eliot-spizzirri-advances-to-australian-open-fourth-round-2026-01-24-1027278",
+    "time": "2026-01-24T06:47:57.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "BCCI announces India women's squad for Australia Test and India A squad for ACC Rising Stars Asia Cup",
     "desc": "India women is all set to take on Australia in a multi-format series. The two sides will lock horns across three T20Is, three ODIs, and a single Test match. With the white-ball squads already announced,...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-break-pakistan-s-record-in-spectacular-win-over-new-zealand-in-raipur-2026-01-23-1027241",
     "time": "2026-01-23T17:38:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ishan Kishan, Suryakumar Yadav go berserk as India thrash New Zealand in Raipur",
-    "desc": "Chasing 209 runs could have been tricky for India, despite the dew, as Matt Henry and Jacob Duffy could have posed a serious threat. In fact, they did so, as Sanju Samso departed for six runs...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-suryakumar-yadav-go-berserk-as-india-thrash-new-zealand-in-raipur-2026-01-23-1027239",
-    "time": "2026-01-23T16:57:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Irfan Pathan shakes hands with Pakistan players in friendly game after backing India's no-handshake stand",
-    "desc": "A post-match moment involving former India all-rounder Irfan Pathan and Pakistan veteran Shoaib Malik has sparked intense debate on social media, following a friendly contest in Jeddah that carried unexpected political undertones. The incident occurred...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/irfan-pathan-shakes-hands-with-pakistan-players-in-friendly-game-after-backing-india-s-no-handshake-stand-during-asia-cup-2026-01-23-1027237",
-    "time": "2026-01-23T16:39:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya surpasses Virat Kohli in T20Is, only Rohit Sharma ahead in race",
-    "desc": "Hardik Pandya added another landmark to his international career during the second T20I against New Zealand, moving past Virat Kohli to become India’s second-most capped player in men’s T20Is. The all-rounder’s appearance in the match...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-surpasses-virat-kohli-in-t20is-only-rohit-sharma-ahead-in-race-2026-01-23-1027236",
-    "time": "2026-01-23T15:59:06.000Z"
   }
 ];

@@ -1,6 +1,213 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "'Border 2' box office collection day 2 (LIVE)",
+    "desc": "'Border 2' has opened strongly, earning Rs 30 crore on its first day, with early Saturday collections reaching Rs 7.1 crore. Despite facing challenges like heavy rainfall and delayed print distribution in some areas, the film ranks among the top openers of the past year.",
+    "img": "https://static.toiimg.com/photo/msid-127381674,imgsize-57676.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-2-live-the-sunny-deol-diljit-dosanjh-varun-dhawan-starrer-expected-to-see-growth-on-saturday-after-a-good-opening-day-number/articleshow/127381652.cms",
+    "time": "2026-01-24T09:03:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Consultations within party favoured joining NDA, claims Sabu Jacob",
+    "desc": "“Committees had entrusted the party president with making an appropriate decision. During the consultations, 80% supported joining the NDA, a few favoured the UDF, but none wanted to align with the LDF,” says Sabu Jacob",
+    "img": "https://th-i.thgim.com/public/incoming/m2cfh/article70545757.ece/alternates/LANDSCAPE_1200/07hyngg_%20Sabu%20M.%20Jacob%20%2001.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/consultations-within-party-favoured-joining-nda-claims-sabu-jacob/article70545673.ece",
+    "time": "2026-01-24T08:58:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Roshan Meka's 'Champion' OTT release details",
+    "desc": "Roshan Meka's latest film, 'Champion', is making a swift transition to digital platforms, arriving on Netflix on January 29th, just five weeks after its theatrical release. This early OTT debut suggests the makers are aiming to broaden viewership and mitigate losses following a lukewarm box office performance.",
+    "img": "https://static.toiimg.com/photo/msid-127380997,imgsize-1327909.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/champion-ott-release-when-and-where-to-watch-roshan-meka-starrer-period-drama-online/articleshow/127380997.cms",
+    "time": "2026-01-24T08:58:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sophie Turner says she won't watch 'Knights Of The Seven Kingdoms'",
+    "desc": "Sophie Turner, who portrayed Sansa Stark, revealed she won't be watching the upcoming 'Knights of the Seven Kingdoms' spinoff due to 'crazy anxiety' associated with the 'Game of Thrones' universe. While she supports the new cast, Turner feels her time with the franchise has concluded, stating her 'watch has ended' after a fulfilling experience.",
+    "img": "https://static.toiimg.com/photo/msid-127380085,imgsize-22012.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/sophie-turner-says-she-wont-be-watching-knight-of-the-seven-kingdoms-but-ill-be-rooting-for-you/articleshow/127380085.cms",
+    "time": "2026-01-24T08:41:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dev Patel's 'The Peasant' builds set for finale",
+    "desc": "Dev Patel's ambitious debut as a director, 'The Peasant,' is in its final stretch, bustling with activity at Film City, Mumbai. This gripping 14th-century Indian tale of vengeance, which sees Patel both starring in and co-creating, recently completed an intensive month of filming in the verdant landscapes of Madhya Pradesh.",
+    "img": "https://static.toiimg.com/photo/msid-127378650,imgsize-158932.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dev-patel-starrer-the-peasant-builds-massive-feudal-set-in-mumbai-for-final-schedule-reports/articleshow/127378650.cms",
+    "time": "2026-01-24T08:21:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Actor arrested after bullets hit building",
+    "desc": "In a startling turn of events, Bollywood figure Kamaal Rashid Khan found himself in custody in Mumbai after purportedly discharging his firearm within a residential complex. Authorities indicated that the actor was engaged in the maintenance of his weapon when it unexpectedly fired, sending bullets astray into an adjacent building, driven by strong winds.",
+    "img": "https://static.toiimg.com/photo/msid-127378714,imgsize-28792.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kamaal-rashid-khan-arrest-update-actor-claims-he-fired-rounds-at-a-tree-while-cleaning-his-licensed-gun-report/articleshow/127378714.cms",
+    "time": "2026-01-24T08:19:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Border 2 missed out beating Dhurandahr's Day 1 global collection",
+    "desc": "Sunny Deol's 'Border 2' has launched strongly, grossing Rs 41 crore worldwide on its opening day. While a significant start, it narrowly missed surpassing 'Dhurandhar's' Day 1 global record of Rs 41.5 crore. 'Dhurandhar,' starring Ranveer Singh, continues its historic box office run, nearing Rs 831 crore in India and USD 21 million in North America, showcasing remarkable audience retention.",
+    "img": "https://static.toiimg.com/photo/msid-127378123,imgsize-52396.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/sunny-deols-border-2-narrowly-missed-out-beating-ranveer-singhs-dhurandahrs-day-1-worldwide-collection/articleshow/127378123.cms",
+    "time": "2026-01-24T08:11:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cruz Beckham shares message on social media with Victoria’s song",
+    "desc": "Youngest Beckham son, Cruz, has fueled family drama with cryptic social media posts. Following Brooklyn's accusations against parents David and Victoria, Cruz shared a story featuring his mother's song, \"I’m Not Such an Innocent Girl.\" This follows his previous 'likes' on posts mocking Brooklyn's wedding claims, intensifying the public feud.",
+    "img": "https://static.toiimg.com/photo/msid-127378152,imgsize-662142.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/cruz-beckhams-shares-victoria-beckhams-not-such-an-innocent-girl-on-cryptic-post-amid-family-feud/articleshow/127378152.cms",
+    "time": "2026-01-24T08:11:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Didn't violate Congress position': Shashi Tharoor breaks silence amid rift buzz; defends stand on Operation Sindoor",
+    "desc": "Congress MP Shashi Tharoor has clarified his stance on party lines. He stated his only public disagreement was on Operation Sindoor and India's counterterrorism position. Tharoor emphasized national interest above political differences. His remarks follow reports of internal party friction and his absence from a key meeting. He recalled past events and leaders' views on national security.",
+    "img": "https://static.toiimg.com/photo/msid-127380483,imgsize-1433164.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/didnt-violate-congress-position-shashi-tharoor-breaks-silence-amid-rift-buzz-defends-stand-on-operation-sindoor/articleshow/127376992.cms",
+    "time": "2026-01-24T08:07:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ramesh Sippy left London to make 'Sholay'",
+    "desc": "Ramesh Sippy's journey to helm the legendary 'Sholay' was marked by a blend of familial obligation and bold ambition. He paused his education to help breathe new life into his father GP Sippy's floundering film venture. Faced with numerous challenges, it was GP's unwavering belief in Ramesh that ultimately propelled 'Sholay' to monumental heights, reshaping the landscape of Indian filmmaking.",
+    "img": "https://static.toiimg.com/photo/msid-127376263,imgsize-51296.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/how-ramesh-sippy-left-his-studies-to-make-sholay-and-save-his-fathers-film-career-survival-became-the-priority/articleshow/127376263.cms",
+    "time": "2026-01-24T08:05:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kumar Sanu welcomes HC's relief in Rs 50 crore suit",
+    "desc": "The Bombay High Court has granted singer Kumar Sanu interim relief, restraining his ex-wife Rita Bhattacharya from making defamatory statements. In a Rs 50 crore defamation suit, the court noted a \"clear personal tirade\" and prohibited Bhattacharya and media houses from publishing false remarks. Sanu expressed gratitude for the protection of his dignity and reputation.",
+    "img": "https://static.toiimg.com/photo/msid-127377271,imgsize-20350.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kumar-sanu-welcomes-bombay-hc-relief-against-ex-wife-rita-bhattacharya-in-rs-50-crore-defamation-case-says-statements-affected-my-reputation-and-family-dignity/articleshow/127374501.cms",
+    "time": "2026-01-24T07:59:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Even BJP government has adopted Tamil Nadu’s schemes, says CM Stalin",
+    "desc": "The Chief Minister said the State’s Health and Family Welfare Department had won the U.N. Interagency Task Force Awards (UNIATF) for 2024 in the category of Ministries of Health for its flagship scheme, Makkalai Thedi Maruthuvam",
+    "img": "https://th-i.thgim.com/public/incoming/pesup2/article70545664.ece/alternates/LANDSCAPE_1200/Makkalai%20Thedi%20Maruthuvam-02.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/even-bjp-government-has-adopted-tamil-nadus-schemes-says-cm-stalin/article70545668.ece",
+    "time": "2026-01-24T07:57:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Music composer Bharadwaj interview: My success story",
+    "desc": "In an interview to ‘The Hindu’ for the ‘This Changed my Life’ podcast, music composer Bharadwaj looks back at the time when he entered the film industry. He also talks about his experiences of working with director Saran and actor Ajith Kumar, with whom he forged a superhit combination, and why he currently loves music composer Anirudh.",
+    "img": "https://th-i.thgim.com/public/incoming/ojaxkv/article70545567.ece/alternates/LANDSCAPE_1200/bharadwaj.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-music-composer-bharadwaj-interview-my-success-story-ar-rahman-ilaiyaraaja/article70545564.ece",
+    "time": "2026-01-24T07:48:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rozlyn khan hospitalised in Mumbai after Delhi trip",
+    "desc": "Actress Rozlyn Khan was hospitalised in Mumbai after returning from Delhi due to fatigue and high fever. The stage 4 breast cancer survivor said she feels “strong some days, weak on others.” She urged patience with healing. Recently, Rozlyn criticised Vidyut Jamwal’s viral video and is known for her modelling and acting work.",
+    "img": "https://static.toiimg.com/photo/msid-127375752,imgsize-22800.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rozlyn-khan-hospitalised-in-mumbai-after-delhi-trip-stage-4-cancer-warrior-opens-up-about-her-health-struggles-report/articleshow/127375752.cms",
+    "time": "2026-01-24T07:45:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Air India cancels all flights from New York, New Jersey on January 25-26; details",
+    "desc": "Air India has cancelled all flights to and from New York and Newark on January 25 and 26 due to a severe winter storm forecast. The airline cited safety concerns for passengers and crew as the storm is expected to bring heavy snowfall and icy conditions to the US East Coast.",
+    "img": "https://static.toiimg.com/photo/msid-127374747,imgsize-502207.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/us-winter-storm-air-india-cancels-all-flights-from-new-york-new-jersey-on-january-25-26-details/articleshow/127374661.cms",
+    "time": "2026-01-24T07:24:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Grimes reveals UNUSUAL ability of her kids with Elon Musk",
+    "desc": "Singer Grimes shared an \"unusual\" observation about her children with ex Elon Musk, noting their \"unmatched\" pure aura. She revealed one child once inexplicably commanded a flock of crows, a trait she found \"hilarious\" given her father also has a crow following. Grimes also discussed their approach to screen time, prioritizing art and slower-paced content.",
+    "img": "https://static.toiimg.com/photo/msid-127366334,imgsize-775402.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/elon-musks-ex-girlfriend-grimes-reveals-unusual-ability-of-their-children/articleshow/127366334.cms",
+    "time": "2026-01-24T07:19:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyadarshan's memoir to feature Mohanlal: All you need to know",
+    "desc": "Filmmaker Priyadarshan is penning his memoir, aiming for a 2027 release, coinciding with his 100th film. Having completed his 97th movie, 'Haiwaan', he's also working on his 98th. The legendary director plans to dedicate the final chapter to actor Mohanlal, who starred in his debut and is expected to feature in his milestone 100th film.",
+    "img": "https://static.toiimg.com/photo/msid-127371650,imgsize-85642.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/priyadarshan-reveals-that-his-memoir-concludes-with-mohanlal-wanted-my-book-to-end-with-him/articleshow/127371650.cms",
+    "time": "2026-01-24T06:52:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshay and Riteish tease Farah over her viral vlogs",
+    "desc": "Akshay Kumar and Riteish Deshmukh teased Farah Khan about her viral YouTube vlogs, joking she’s earning big by “cooking food and people’s minds.” Farah hilariously responded on social media, “Kameeanon!!!” The filmmaker, who recently featured Nakuul Mehta in her vlog, hinted at a directorial comeback soon after her kids go to college.",
+    "img": "https://static.toiimg.com/photo/msid-127372352,imgsize-38780.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-and-riteish-deshmukh-tease-farah-khan-over-her-viral-youtube-vlogs-filmmaker-responds-saying-kameeanon/articleshow/127372352.cms",
+    "time": "2026-01-24T06:50:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How Christian Bale transformed movie roles up",
+    "desc": "Christian Bale was born on January 30, 1974, in Haverfordwest, Pembrokeshire, Wales. Renowned for extreme physical transformations, he reshapes his body, voice, and mannerisms to fully inhabit characters. His fearless commitment has earned him widespread acclaim, including one Academy Award, two Golden Globe Awards, and multiple BAFTA nominations, cementing his reputation as one of the most dedicated actors of his generation.",
+    "img": "https://static.toiimg.com/photo/msid-127369260,imgsize-186108.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/how-christian-bale-transformed-himself-beyond-recognition-for-movie-roles/photostory/127369260.cms",
+    "time": "2026-01-24T06:45:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "KL Rahul sweet gesture for his and Athiya's daughter Evaarah",
+    "desc": "Cricketer KL Rahul revealed his viral 'whistle celebration' was a heartwarming tribute to his daughter Evaarah, who sucks her fingers. This personal gesture, initially a mystery to fans, highlights the profound impact of fatherhood on his life. Off the field, Rahul also playfully promoted his brother-in-law Ahan Shetty's film 'Border 2' on social media, generating significant buzz.",
+    "img": "https://static.toiimg.com/photo/msid-127371303,imgsize-54948.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kl-rahul-reveals-the-sweet-gesture-for-his-and-athiya-shettys-daughter-evaarah/articleshow/127371303.cms",
+    "time": "2026-01-24T06:42:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Suryakumar Yadav's No. 3 sacrifice revived Sarfaraz Khan",
+    "desc": "Suryakumar Yadav's selfless act of sacrificing his No. 3 batting spot for Sarfaraz Khan in the Syed Mushtaq Ali T20 Trophy has been credited by Sarfaraz for his remarkable turnaround in form. This gesture, along with valuable advice, reignited Sarfaraz's confidence, leading to a stellar white-ball season and an IPL contract.",
+    "img": "https://static.toiimg.com/photo/msid-127371251,imgsize-38524.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/thank-you-surya-how-suryakumar-yadavs-no-3-sacrifice-revived-sarfaraz-khan/articleshow/127371031.cms",
+    "time": "2026-01-24T06:36:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How Ranbir turned Alia into a “Non-Gossiper”",
+    "desc": "In a candid revelation, Alia Bhatt shared how Ranbir Kapoor's unwavering positivity has transformed her outlook, steering her away from her previous habits of gossiping. She noted his consistent kindness and refusal to speak ill of others, a quality she finds inspirational and has embraced herself.They wilk be seen together in Sanjay Leela Bhansali's Love and War.",
+    "img": "https://static.toiimg.com/photo/msid-127370522,imgsize-48484.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/how-ranbir-kapoor-turned-alia-bhatt-into-a-non-gossiper/articleshow/127370522.cms",
+    "time": "2026-01-24T06:28:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jannik Sinner battles cramp, heat to reach fourth round",
+    "desc": "The Italian limped over to his players' box in desperation ​midway through the match and was told by coach Darren Cahill to walk through the rest of the third set if necessary to get to a break",
+    "img": "https://th-i.thgim.com/public/incoming/bjyvwb/article70545490.ece/alternates/LANDSCAPE_1200/2026-01-24T061057Z_1078411355_UP1EM1O0CY315_RTRMADP_3_TENNIS-AUSOPEN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/australian-open-2026-jannik-sinner-battles-cramp-heat-to-reach-fourth-round/article70545481.ece",
+    "time": "2026-01-24T06:27:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Varun Dhawan clocks his career best day 1 collection with Border 2",
     "desc": "Varun Dhawan achieves his career's biggest opening day with 'Border 2', raking in a massive Rs 30 crore nett. This patriotic action drama surpasses his previous best, 'Kalank', and solidifies his position as a commercial powerhouse. The film's success is attributed to nostalgia, genre appeal, and Varun's added youthfulness to the ensemble cast.",
     "img": "https://static.toiimg.com/photo/msid-127369764,imgsize-53426.cms",
@@ -16,15 +223,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-will-treat-any-attack-as-all-out-war-trump-us-armada-official/article70545461.ece",
     "time": "2026-01-24T06:12:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "The story of Operation Chengiz Khan depicted in the film",
-    "desc": "JP Dutta’s 1997 classic ‘Border’ gets a sequel in 2026 with ‘Border 2’, directed by Anurag Singh. Based on Operation Chengiz Khan, which sparked the 1971 Indo-Pak war, the film stars Sunny Deol, Varun Dhawan, Diljit Dosanjh, and Ahan Shetty in key roles, exploring India’s powerful wartime response.",
-    "img": "https://static.toiimg.com/photo/msid-127369174,imgsize-26182.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-the-real-story-of-operation-chengiz-khan-depicted-insunny-deol-and-varun-dhawans-war-drama-explained/articleshow/127369174.cms",
-    "time": "2026-01-24T06:07:10.000Z"
   },
   {
     "cat": "Sports",
@@ -45,15 +243,6 @@ const newsData_en = [
     "time": "2026-01-24T05:56:29.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sunny Deol’s Border 2 takes a strong start in North America",
-    "desc": "Sunny Deol's Border 2 has surprised with a robust North American opening, nearing USD 500K on Day 1, a territory usually less receptive to his films. Domestically, it earned a muscular Rs 30 crore, though slightly below trade expectations, possibly due to technical glitches. This dual-market success suggests broader appeal, with the Republic Day weekend crucial for its performance.",
-    "img": "https://static.toiimg.com/photo/msid-127366720,imgsize-104380.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/sunny-deols-border-2takes-a-strong-start-in-north-america-eyes-ranveer-singhs-dhurandhar-day-1-benchmark/articleshow/127366720.cms",
-    "time": "2026-01-24T05:42:55.000Z"
-  },
-  {
     "cat": "Business",
     "title": "EU-India trade deal: European Union VP Kaja Kallas arrives in Delhi",
     "desc": "EU Vice-President Kaja Kallas arrived in New Delhi for her first official visit, aiming to strengthen the India-EU Strategic Partnership. The visit precedes the 16th India-EU Summit and coincides with advanced negotiations for a Free Trade Agreement, highlighting deepening cooperation in security, defense, and trade.",
@@ -63,33 +252,6 @@ const newsData_en = [
     "time": "2026-01-24T05:30:32.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "KRK ADMITS to firing gun; police seize weapon",
-    "desc": "Actor Kamaal R Khan, known as KRK, has been arrested by Mumbai Police in connection with a firing incident in Oshiwara. Identified as the prime suspect, Khan reportedly admitted to firing two shots from his licensed gun at a residential building on January 18. Police recovered bullets from the scene and seized the weapon.",
-    "img": "https://static.toiimg.com/photo/msid-127366000,imgsize-34962.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kamaal-rashid-khans-admits-to-firing-gun-police-seize-weapon-in-oshiwara-firing-case/articleshow/127364729.cms",
-    "time": "2026-01-24T05:24:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Love Me Love Me' trailer: Teen romance drama teases love triangle",
-    "desc": "Exciting news for romance enthusiasts! The highly anticipated trailer for 'Love Me Love Me' is finally here, illuminating the sultry narrative inspired by Stefania S's novel. With a star-studded cast featuring Mia Jenkins, Pepe Barroso Silva, and Luca Melucci, this film delves into June's emotional journey as she relocates to Milan following her brother's untimely demise.",
-    "img": "https://static.toiimg.com/photo/msid-127365588,imgsize-33630.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/love-me-love-me-trailer-mia-jenkins-pepe-barroso-silva-and-luca-melucci-tease-a-hot-new-teen-summer-romance/articleshow/127365588.cms",
-    "time": "2026-01-24T05:20:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Border 2 scores 2nd biggest January opening for Bollywood",
-    "desc": "Border 2 has kicked off with a staggering Rs 30 crore opening, securing its place as the second-best January launch in Bollywood history, just behind the phenomenal Pathaan. While the audience sentiment differs from SRK's triumphant return, the success of Sunny Deol’s war drama is clearly a result of robust pre-release excitement and widespread appeal.",
-    "img": "https://static.toiimg.com/photo/msid-127365213,imgsize-68822.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/sunny-deols-border-2scores-2nd-biggest-january-opening-after-shah-rukh-khans-pathaanin-bollywood/articleshow/127365213.cms",
-    "time": "2026-01-24T05:18:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Home' venue concerns posing fresh challenge for IPL franchises",
     "desc": "Royal Challengers Bangalore faces venue uncertainty due to difficulties adhering to new Standard Operational Procedures, prompting a search for alternate grounds. This situation arises as the franchise is currently up for sale, raising concerns for potential investors. Rajasthan Royals also grapples with similar issues, highlighting a broader problem with stakeholder relations impacting the IPL.",
@@ -97,15 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/home-venue-concerns-posing-fresh-challenge-for-ipl-franchises/articleshow/127365425.cms",
     "time": "2026-01-24T05:14:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "KV Vijesh passes away at 49; Theatre activist, film lyricist",
-    "desc": "Renowned theatre activist, acting trainer, and lyricist KV Vijesh passed away at 49. He collapsed during a drama training session at Sacred Heart College, Thevara. Vijesh, known for his relatable Malayalam lyrics and contributions to films like 'Thakarachenda', dedicated his life to theatre, impacting many through his training initiatives and workshops.",
-    "img": "https://static.toiimg.com/photo/msid-127364243,imgsize-27240.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/theatre-icon-and-film-lyricist-kv-vijesh-passes-away-at-49-after-collapsing-during-training-report/articleshow/127364243.cms",
-    "time": "2026-01-24T05:00:12.000Z"
   },
   {
     "cat": "Entertainment",
@@ -135,24 +288,6 @@ const newsData_en = [
     "time": "2026-01-24T04:36:51.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Luv's film set to begin in March 2026",
-    "desc": "Director Luv Ranjan has confirmed that the highly anticipated biopic on former Indian cricket captain Sourav Ganguly will commence filming in March 2026. This marks a significant genre shift for Ranjan, known for his romantic comedies, as he ventures into a biographical sports drama. The film's ensemble cast, including Kumud Mishra, further adds to the growing excitement for this project.",
-    "img": "https://static.toiimg.com/photo/msid-127362306,imgsize-17020.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sourav-ganguly-biopic-update-luv-ranjans-film-set-to-begin-in-march-2026/articleshow/127362371.cms",
-    "time": "2026-01-24T04:31:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Scorpions bassist Francis Buchholz passes away at 75 from cancer",
-    "desc": "Legendary Scorpions bassist Francis Buchholz has passed away at 75 after a battle with cancer. His family confirmed his peaceful departure, surrounded by loved ones. Buchholz, a pivotal member from 1973 to 1992, was instrumental in iconic hits like 'Rock You Like a Hurricane' and 'Still Loving You.",
-    "img": "https://static.toiimg.com/photo/msid-127361770,imgsize-61456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/francis-buchholz-former-scorpions-bassist-passes-away-at-75-after-cancer-battle-report/articleshow/127361770.cms",
-    "time": "2026-01-24T04:23:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Organisers",
     "desc": "Extreme heat halts play at the Australian Open on outside courts. Jannik Sinner's match was briefly delayed before continuing under a closed roof. Madison Keys and Jessica Pegula advanced in the women's singles. Novak Djokovic and Iga Swiatek are also in action. Players are contending with high temperatures throughout the day.",
@@ -169,15 +304,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/Hyderabad/retired-ips-officer-served-notice-over-allegations-against-sit-chief/article70543822.ece",
     "time": "2026-01-24T04:16:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yvonne Lime passes away at 90",
-    "desc": "Yvonne Limne Fedderson, a beloved veteran actress known for her unforgettable performances in 'The Rainmaker' and as a co-star to Elvis Presley, has sadly passed away at the age of 90. As a co-founder of the non-profit Childhelp alongside fellow actress Sara O'Meara, she spent years championing the cause of vulnerable children.",
-    "img": "https://static.toiimg.com/photo/msid-127360927,imgsize-29184.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-rainmaker-star-yvonne-lime-passes-away-at-age-90-reports/articleshow/127360927.cms",
-    "time": "2026-01-24T04:13:15.000Z"
   },
   {
     "cat": "Sports",
@@ -198,15 +324,6 @@ const newsData_en = [
     "time": "2026-01-24T03:43:06.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Palaash caught red-handed? Lawyer reacts",
-    "desc": "Filmmaker Palaash Muchhal faces serious allegations from actor-producer Vidnyan Mane, including cheating during wedding celebrations and a Rs 40 lakh fraud related to film investment. Mane claims Muchhal was caught with another woman at his wedding, leading to a confrontation with cricketers. Muchhal's lawyer has denied the claims, questioning the evidence and the timing of the accusations.",
-    "img": "https://static.toiimg.com/photo/msid-127358738,imgsize-40426.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/palaash-muchhal-caught-red-handed-at-wedding-to-smriti-mandhana-lawyer-reacts-to-cheating-allegations-what-is-the-evidence/articleshow/127356247.cms",
-    "time": "2026-01-24T03:39:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Palash Muchhal was caught with another woman in bed': Mandhana's friend",
     "desc": "Actor-producer Vidnyan Mane has accused singer-composer Palaash Muchhal of infidelity and financial misconduct, leading to a police complaint in Sangli, Maharashtra. Mane alleges Muchhal was caught with another woman during wedding festivities and claims he was cheated of over Rs 40 lakh in a film project. Muchhal has denied all accusations, calling them baseless and factually incorrect.",
@@ -214,15 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/palash-muchhal-was-caught-red-handed-with-another-woman-in-bed-smriti-mandhanas-childhood-friend/articleshow/127357436.cms",
     "time": "2026-01-24T03:20:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nicole Polizzi reveals diagnosis of cancerous cells in her cervix",
-    "desc": "In a heartfelt revelation, Nicole Polizzi, the beloved star of 'Jersey Shore,' opened up about her recent diagnosis of cervical cancer following years of unsettling pap smear results. After undergoing a thorough colposcopy and biopsy, she learned about the presence of cancerous cells and is now anxiously awaiting further tests, including a possible cone biopsy.",
-    "img": "https://static.toiimg.com/photo/msid-127357393,imgsize-884595.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jersey-shore-alum-nicole-snooki-polizzi-diagnosed-with-cancer-says-its-sad-and-scary/articleshow/127357393.cms",
-    "time": "2026-01-24T03:19:30.000Z"
   },
   {
     "cat": "Sports",
@@ -279,15 +387,6 @@ const newsData_en = [
     "time": "2026-01-24T01:35:29.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Chatha Pacha' BO day 2: Film crosses Rs 5 crores",
-    "desc": "'Chatha Pacha' has made a strong debut at the box office, raking in over Rs 5 crores net in India by Day 2. The film, starring Roshan Mathew and Arjun Ashokan, is particularly resonating with young audiences and WWE fans due to its unique costume wrestling theme. Despite mixed reviews, its energetic action and novel concept are drawing crowds.",
-    "img": "https://static.toiimg.com/photo/msid-127350420,imgsize-89260.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/chatha-pacha-box-office-collections-day-2-roshan-mathew-film-shows-strong-start-crosses-rs-5-crores/articleshow/127350420.cms",
-    "time": "2026-01-24T01:34:02.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "First separate budgets of city corporations to focus on parks, lakes and welfare funds",
     "desc": "One of the focus areas in this year’s budgets will be municipal bonds, which allow urban local bodies to raise long-term funds directly from the market for capital-intensive infrastructure works such as roads, drains, parks and lakes.",
@@ -304,33 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/bactrian-camels-to-zanskar-ponies-animal-soldiers-to-join-6k-military-personnel-at-r-day-parade-s400-to-be-displayed-eu-contingent-to-participate/articleshow/127350004.cms",
     "time": "2026-01-24T01:25:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anne Hathaway attends Valentino's funeral",
-    "desc": "Rome bid a final farewell to legendary designer Valentino Garavani, 93, at a solemn funeral service. Fashion luminaries and Hollywood stars gathered to honor the \"last emperor\" of Italian fashion, whose creations adorned royalty and A-listers for decades. His signature red was a poignant tribute as mourners remembered his enduring legacy of beauty and style.",
-    "img": "https://static.toiimg.com/photo/msid-127349712,imgsize-35488.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/anne-hathaway-heartbroken-over-valentinos-demise-actress-reacts-to-clip-from-fashion-icons-rome-funeral/articleshow/127347853.cms",
-    "time": "2026-01-24T01:18:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Parasakthi' BO day 14: Film rakes in only Rs 21 lakhs",
-    "desc": "Sivakarthikeyan's 'Parasakthi' is experiencing a significant box office dip, with collections dropping to Rs 21 lakhs on day 14, bringing the total to Rs 51.29 crores. The film's second week saw a substantial decline in earnings. Despite mixed online reviews, the period drama, directed by Sudha Kongara, explores the anti-Hindi agitations of the 1960s.",
-    "img": "https://static.toiimg.com/photo/msid-127348632,imgsize-55968.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-box-office-collections-day-14-sivakarthikeyan-film-slows-down-rakes-in-only-rs-21-lakhs/articleshow/127348632.cms",
-    "time": "2026-01-24T01:02:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Border 2' scores Rs 30 crore box office debut",
-    "desc": "'Border 2' has made a powerful debut at the box office, exceeding expectations with an impressive Rs 30 crore net collection on its opening day. The war drama, starring Sunny Deol, secured a significant Rs 17 crore in advance bookings, positioning it among the highest first-day collections in Bollywood history.",
-    "img": "https://static.toiimg.com/photo/msid-127346831,imgsize-44560.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collections-day-1-sunny-deol-starrer-earns-rs-30-crore-ranks-among-bollywoods-highest-opening-day-collections/articleshow/127344737.cms",
-    "time": "2026-01-24T00:31:59.000Z"
   },
   {
     "cat": "Politics",
@@ -468,15 +540,6 @@ const newsData_en = [
     "time": "2026-01-23T21:49:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Anil, ADAG get fresh SC notice as PIL alleges fraud",
-    "desc": "The Supreme Court has ordered the CBI and ED to share their investigation findings on alleged financial fraud by the Anil Dhirubhai Ambani Group. Noting no appearance from Anil Ambani or ADAG despite notice, the court issued fresh summons, emphasizing a forensic audit revealed fund siphoning.",
-    "img": "https://static.toiimg.com/photo/msid-127335142,imgsize-753625.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/anil-adag-get-fresh-sc-notice-as-pil-alleges-fraud/articleshow/127334861.cms",
-    "time": "2026-01-23T21:45:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sri Lanka gets the better of England in the opening ODI",
     "desc": "England overcame the early loss of Zak Crawley, who made a disappointing return to 50-over format after more than two years when he nicked Asitha Fernando behind wickets after scoring just 6 runs in his comeback game",
@@ -484,24 +547,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/sri-lanka-gets-the-better-of-england-in-the-opening-odi/article70544202.ece",
     "time": "2026-01-23T21:32:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Upset over Rahul 'snub', Tharoor skips poll meet with Cong brass, goes for lit fest instead",
-    "desc": "Congress MP Shashi Tharoor missed a crucial Kerala leadership meeting, reportedly due to a perceived snub from Rahul Gandhi. While the party strategizes for the 2026 state polls and mends ties with allies, Tharoor's absence fuels speculation about his standing. Party leaders deny any internal discord, emphasizing unity for upcoming elections.",
-    "img": "https://static.toiimg.com/photo/msid-127334209,imgsize-1115369.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/upset-over-rahul-snub-tharoor-skips-poll-meet-with-cong-brass-goes-for-lit-fest-instead/articleshow/127333973.cms",
-    "time": "2026-01-23T21:31:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court notice to Tamil Nadu, Centre on plea for ASI takeover of temple",
-    "desc": "The Supreme Court has asked the Centre and Tamil Nadu government to respond to a plea seeking ASI control of Thirupparankundram Lord Murugan temple. The petition also requests the permanent lighting of a lamp atop a stone pillar for 24 hours daily.",
-    "img": "https://static.toiimg.com/photo/msid-127333848,imgsize-715105.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/supreme-court-notice-to-tamil-nadu-centre-on-plea-for-asi-takeover-of-temple/articleshow/127333701.cms",
-    "time": "2026-01-23T21:27:35.000Z"
   },
   {
     "cat": "Sports",
@@ -520,15 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/sindhu-lakshya-lose-in-quarterfinals-indian-challenge-ends-in-indonesia-masters/article70544195.ece",
     "time": "2026-01-23T21:04:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Bangladesh does not deserve a govt aligned with radicals'",
-    "desc": "Tarique Rahman's return as BNP chairman is viewed critically, citing his exile and alleged corruption. The article questions the legitimacy of upcoming elections due to the ban on the Awami League, attributing it to fear of their popularity. It also highlights the government's failure to protect minorities and its appeasement of extremist forces, impacting India-Bangladesh relations.",
-    "img": "https://static.toiimg.com/photo/msid-127333370,imgsize-753563.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bangladesh-does-not-deserve-a-govt-aligned-with-radicals/articleshow/127331988.cms",
-    "time": "2026-01-23T21:01:02.000Z"
   },
   {
     "cat": "Business",
@@ -605,8 +641,8 @@ const newsData_en = [
   {
     "cat": "Entertainment",
     "title": "Linkin Park’s debut tour of India kicks off with a performance in Bengaluru",
-    "desc": "The American rock band took the stage as part of the From Zero World Tour. While fans and the band missed the original lead singer Chester Bennington, the act was a power-packed performance with chart toppers Numb and In The End",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "desc": "The American rock band took the stage as part of the From Zero World Tour. The standalone gig was a power-packed performance with songs from the band'’ new album, and chart toppers Numb and In The End",
+    "img": "https://th-i.thgim.com/public/news/cities/bangalore/rvvvdi/article70545422.ece/alternates/LANDSCAPE_1200/PG_LP_BLR_23JAN10.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/bangalore/linkin-parks-debut-tour-of-india-kicks-off-with-a-performance-in-bengaluru/article70532992.ece",
     "time": "2026-01-23T19:07:30.000Z"
@@ -757,30 +793,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Curated road trips, fast-tracked visas await FIFA World Cup fans",
-    "desc": "The US joins Mexico and Canada to host the FIFA World Cup, the games in the US will begin with the hosts taking on Paraguay in a Group D match in Los Angeles on June 12, day after the tournament kicks off in Mexico City. That will set football (soccer for Americans) rolling across 11 cities for the next one month.",
-    "img": "https://static.toiimg.com/photo/msid-127301418,imgsize-21930.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/curated-road-trips-fast-tracked-visas-await-fifa-world-cup-fans/articleshow/127301064.cms",
-    "time": "2026-01-23T15:41:54.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Sarfaraz’s double ton helps Mumbai extend domination",
     "desc": "The middle-order batter braves a wrist injury and puts on 154 for the sixth wicket with Suved as the visitor ends up with a mammoth total of 560; Rahul and Himateja’s unbroken 100-run stand lifts Hyderabad to 138 for two",
     "img": "https://th-i.thgim.com/public/incoming/8ebr13/article70543622.ece/alternates/LANDSCAPE_1200/vjkvg-hyd%2014.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-sarfarazs-double-ton-helps-mumbai-extend-domination/article70543627.ece",
     "time": "2026-01-23T15:34:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Thousands in Bengal receive SIR notices over ‘unusually high number’ of children linked to electors",
-    "desc": "West Bengal Congress president Subhankar Sarkar flags ‘arbitrary’ threshold setting by the Election Commission and points out that the number of electors with six or more electors linked to them as children stood at 2,06,056, whereas, if the threshold is raised to 10, the number was only 8,682",
-    "img": "https://th-i.thgim.com/public/incoming/xprlfl/article70543544.ece/alternates/LANDSCAPE_1200/PTI01_14_2026_000284A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/thousands-in-bengal-receive-sir-notices-over-unusually-high-number-of-children-linked-to-electors/article70542612.ece",
-    "time": "2026-01-23T15:25:25.000Z"
   },
   {
     "cat": "Sports",
@@ -819,15 +837,6 @@ const newsData_en = [
     "time": "2026-01-23T14:06:24.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'I'd pick him any day': Former cricketer chooses Pant over Samson in T20Is",
-    "desc": "Former New Zealand wicketkeeper Ian Smith questioned India's decision to omit Rishabh Pant from their T20 World Cup squad, stating a player of his caliber should be a guaranteed selection. Smith believes Pant's match-winning ability makes him indispensable, even over Sanju Samson, highlighting the modern T20 trend of wicketkeeper-batters batting higher up the order.",
-    "img": "https://static.toiimg.com/photo/msid-127290681,imgsize-1185195.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/id-pick-him-any-day-former-cricketer-chooses-rishabh-pant-over-sanju-samson-in-t20is/articleshow/127289763.cms",
-    "time": "2026-01-23T13:59:51.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India’s TV audience to touch 1 billion by 2029: IIM report",
     "desc": "The report, ‘Future of TV in India’, states that India’s rapid economic growth, rising disposable incomes and improving literacy levels are reshaping content consumption patterns; a major finding of the study is a strong link between rising internet penetration and television audience growth",
@@ -853,15 +862,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/t20-world-cup-row-bcbs-drc-move-hits-dead-end-scotland-all-set-to-replace-bangladesh/articleshow/127281969.cms",
     "time": "2026-01-23T12:46:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Last time Bangladesh was involved in an ICC event row, it led to a team replacement",
-    "desc": "Bangladesh Cricket Board has refused to send its team to the ICC T20 World Cup 2026 in India, citing a lack of justice from the ICC. The global governing body rejected Bangladesh's venue shift request and has issued an ultimatum. Scotland is now the frontrunner to replace Bangladesh in the tournament.",
-    "img": "https://static.toiimg.com/photo/msid-127268511,imgsize-124392.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-drama-last-time-bangladesh-was-at-the-centre-of-an-icc-event-row-it-led-to-a-team-replacement/articleshow/127267527.cms",
-    "time": "2026-01-23T10:36:02.000Z"
   },
   {
     "cat": "Business",
