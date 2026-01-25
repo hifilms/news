@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "মুম্বইয়ে বাঙালি মেজাজ! অনুরাগ বসুর বাড়ির সরস্বতী পুজোয় একঝাঁক বলিউড তারকারা, একসঙ্গে এলেন সারা–আদিত্য",
+    "desc": "মুম্বইয়ে বাঙালি মেজাজ! প্রতিবছর পরিচালক অনুরাগ বসুর বাড়িতে জমজমাট সরস্বতী পুজোর আয়োজন করা হয়৷ সেখানে পুজোর পুরোহিত হিসেবে দেখা যায় সঙ্গীত পরিচালক প্রীতমকে৷ উপস্থিত থাকেন একঝাঁক বলিউড তারকারা৷ এবার সেখানে একসঙ্গে এলেন সারা–আদিত্য, কার্তিক আরিয়ান সহ আরও অনেকে",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Director-Anurag-Basu-shares-moods-and-moments-from-his-starry-but-intimate-Saraswati-Puja-celebr-2026-01-7dd03dbbfdd8afd39338cbdaf4698a79.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/entertainment/saraswati-puja-2026-celebration-at-director-anurag-basu-house-lots-of-bollywood-celebrities-gather-there-pbd-2511556.html",
+    "time": "2026-01-25T09:29:48.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "৬৮৫টি রাস্তা বন্ধ! জল নেই! বিদ্যুৎ নেই, অন্ধকারে মাইলের পর মাইল জ্যাম! মারণ বরফে ৪৮০০...",
     "desc": "প্রবল তুষারপাতে কার্যত বিপর্যস্ত হিমাচল প্রদেশের শৈলশহর। বরফে ঢেকে গিয়েছে রাস্তাঘাট, থমকে যান চলাচল। ঘণ্টার পর ঘণ্টা ধরে দাঁড়িয়ে অসংখ্য গাড়ি। পর্যটকদের ভিড়ে উপচে পড়ছে হোটেলগুলি। এই মুহূর্তে সবচেয়ে বেশি দুর্ভোগে হিমাচলের জনপ্রিয় পর্যটনকেন্দ্র মানালি।",
@@ -772,15 +781,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/will-more-than-one-credit-card-can-affect-cibil-score-drawbacks-and-benefits-of-more-than-one-credit-card-rdp-2502655.html",
     "time": "2026-01-18T10:07:40.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "বহুতল শপিং মলে ভয়ংকর আগুন! দাউ দাউ করে জ্বলছে পর পর দোকান, ঝলসে মৃত্যু...",
-    "desc": "বহুতল মলে আগুন! পাকিস্তানের করাচির বহুতল শপিং মলে অগ্নিকাণ্ডে অন্তত পাঁচজন মারা গিয়েছেন। শনিবার রাতে গুল প্লাজা নামের ওই শপিং মলে আগুন লাগে বলে। রবিবার সকালের তথ্য অনুযায়ী, কয়েক ঘণ্টা পেরিয়ে গেলেও আগুন পুরোপুরি নেভানো যায়নি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/massive-fire-in-multi-storey-shopping-mall-pakistan-karachi-gutting-shops-killing-at-least-five-people-dozens-injured_635889.html ",
-    "time": "2026-01-18T10:05:13.000Z"
   },
   {
     "cat": "Politics",

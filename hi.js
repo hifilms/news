@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Red-hot India look to seal series in Guwahati against New Zealand",
+    "desc": "India are in red-hot form in their final series ahead of the T20 World Cup 2026 as their batters have fired in both games. They did extremely well batting first in the series opener in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-3rd-t20i-live-cricket-score-india-vs-new-zealand-latest-match-updates-barsapara-cricket-stadium-guwahati-scorecard-teams-playing-xis-2026-01-25-1027421",
+    "time": "2026-01-25T12:19:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Perth Scorchers break CSK, MI's world record, win BBL 15 after beating Sydney Sixers in final",
+    "desc": "Perth Scorchers have become the champions of the Big Bash League 2025/26 after beating Sydney Sixers in the final of the 15th season on Sunday, January 25. Scorchers chased down a meagre total of 133...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/perth-scorchers-break-csk-mis-world-record-win-bbl-15-after-beating-sydney-sixers-in-final-2026-01-25-1027419",
+    "time": "2026-01-25T11:49:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Novak Djokovic breaks Roger Federer record, receives walkover to enter Australian Open quarterfinal",
+    "desc": "Novak Djokovic has reached the Australian Open 2026 quarterfinals after receiving a walkover in the round of 16 clash against Jakub Mensik, who pulled out of the tournament due to an injury. Mensik had famously stunned...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/novak-djokovic-breaks-roger-federer-record-receives-walkover-to-enter-australian-open-quarterfinal-2026-01-25-1027416",
+    "time": "2026-01-25T11:14:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCB confirms it won't challenge ICC's decision for removing Bangladesh from T20 World Cup 2026",
+    "desc": "The Bangladesh Cricket Board (BCB) media committee chairman, Amzad Hossain, has confirmed that the board is not going to challenge the International Cricket Council (ICC)'s decision to remove its team from the upcoming T20 World...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcb-confirms-it-wont-challenge-iccs-decision-for-removing-bangladesh-from-t20-world-cup-2026-2026-01-25-1027410",
+    "time": "2026-01-25T10:33:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Carlos Alcaraz breezes past Tommy Paul in straight sets, advances to Australian Open quarter-finals",
+    "desc": "Spanish tennis superstar Carlos Alcaraz continued his unbeaten run in the ongoing Australian Open 2026 and has made it to the quarter-final stage of the competition. Alcaraz took on world number 19 Tommy Paul in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-breezes-past-tommy-paul-in-straight-sets-advances-to-australian-open-quarter-finals-2026-01-25-1027405",
+    "time": "2026-01-25T09:31:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Way too early': R Ashwin comes to star India batter's defence amid struggle with form ahead of third NZ T20I",
     "desc": "Team India has been in brilliant form in the ongoing T20I series against New Zealand. The two sides have locked horns across two T20Is so far, and both matches have been won by the Men...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-guwahati-weather-report-will-rain-spoil-3rd-t20i-of-the-multi-format-series-2026-01-25-1027367",
     "time": "2026-01-25T03:41:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Barsapara Cricket Stadium in Guwahati play?",
-    "desc": "The stage is set for the third T20I of the ongoing five-game series between India and New Zealand. The two sides will lock horns next at the Barsapara Stadium in Guwahati on January 25. It...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-3rd-t20i-pitch-report-how-will-surface-at-barsapara-cricket-stadium-in-guwahati-play-2026-01-25-1027358",
-    "time": "2026-01-25T02:33:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cricket Scotland officially accept invitation to compete in T20 World Cup 2026 after Bangladesh's removal",
-    "desc": "The ICC (International Cricket Council) recently announced that Scotland will replace Bangladesh in the upcoming T20 World Cup 2026, following Bangladesh's removal from the tournament as they refused to travel to India due to security...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cricket-scotland-officially-accept-invitation-to-compete-in-t20-world-cup-2026-after-bangladesh-s-removal-2026-01-25-1027353",
-    "time": "2026-01-25T01:32:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh issue statement after being replaced by Scotland for T20 World Cup 2026",
-    "desc": "The International Cricket Council (ICC) replaced Scotland with Bangladesh for the upcoming T20 World Cup 2026, starting February 7. After Mustafizur Rahman was released by Kolkata Knight Riders for IPL 2026, Bangladesh cited security as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-issue-statement-after-being-replaced-by-scotland-for-t20-world-cup-2026-2026-01-24-1027345",
-    "time": "2026-01-24T18:09:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi Capitals surpass Mumbai Indians following win over RCB, check full points table",
-    "desc": "With just two wins in four matches, Delhi Capitals were in a state of bother in the ongoing Women’s Premier League. The Jemimah Rodrigues-led side, however, made a strong return to the tournament with back-to-back...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wpl-2026-delhi-capitals-surpass-mumbai-indians-following-win-over-rcb-check-full-points-table-2026-01-24-1027344",
-    "time": "2026-01-24T17:21:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "5 instances teams opted out of ICC tournaments",
-    "desc": "After the Bangladesh Cricket Board (BCB) officially opted out of the 2026 T20 World Cup, citing security concerns, the International Cricket Council (ICC) replaced them with Scotland for the marquee tournament, starting February 7. Following...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-pull-out-of-t20-world-cup-2026-5-instances-teams-opted-out-of-icc-tournaments-2026-01-24-1027340",
-    "time": "2026-01-24T16:16:15.000Z"
   }
 ];

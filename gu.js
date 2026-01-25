@@ -1,6 +1,60 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "38 સિક્સર, 466 રન... BBLમાં ન્યુઝીલેન્ડના આ બેટ્સમેને મચાવી તબાહી; ફાઈનલમાં પણ વિસ્ફોટક ઈનિંગ",
+    "desc": "સિડની સિક્સર્સ સામે પર્થના ઓપ્ટસ સ્ટેડિયમમાં રમાયેલી ફાઇનલમાં ફિન એલને માત્ર 22 બોલમાં 36 રનની તાબડતોબ ઇનિંગ રમી. 163.64ના સ્ટ્રાઈક રેટથી બેટિંગ કરતા તેણે શરૂઆતથી જ એટેકિંગ મોડ અપનાવ્યું હતું અને સિક્સર્સને મેચમાંથી બહાર કરી દીધી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/finn-allen-incredible-batting-in-bbl-15-final-as-perth-scorchers-beat-sydney-sixers-in-final-to-clinch-6th-title-462885 ",
+    "time": "2026-01-25T12:28:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "2 દિવસમાં IPO 100% ભરાઈ ગયો આ IPO, ગ્રે માર્કેટે વધાર્યું ટેન્શન, રોકાણ કરવા હજી છે તક",
+    "desc": "આ કંપનીના IPOને સારો પ્રતિસાદ મળ્યો છે. કંપનીનો IPO પહેલા બે દિવસમાં સંપૂર્ણ રીતે સબસ્ક્રાઇબ થયો હતો. આ SME IPO પહેલા દિવસે 1.36 વખત સબસ્ક્રાઇબ થયો હતો. રિટેલ કેટેગરીમાં IPO 1.18 વખત સબસ્ક્રાઇબ થયો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/ipo-100-percent-filled-in-2-days-this-ipo-gray-market-increased-tension-there-is-still-an-opportunity-to-invest-462876 ",
+    "time": "2026-01-25T12:00:09.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ગ્રીનલેન્ડની રાજધાની Nuukમાં અચાનક વીજળી ગુલ, ટ્રમ્પે નથી કર્યો હુમલો; તો પછી શું હતું કારણ?",
+    "desc": "ડોનાલ્ડ ટ્રમ્પના કારણે ગ્રીનલેન્ડ સતત લાઈમલાઈટમાં છે. ગ્રીનલેન્ડ પર કબજો કરવાની ખુલ્લી ધમકીથી ચિંતામાં રહેલા લોકોના ધબકારા ત્યારે વધી ગયા જ્યારે અચાનક રાજધાની અને આસપાસના વિસ્તારોમાં વીજળી ગુલ થઈ ગઈ. હિમવર્ષા કે તોફાનનું કોઈ એલર્ટ નહોતું, તેથી કેટલાક લોકો કોઈ અઘટિત ઘટનાની આશંકાથી ફફડી ઉઠ્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/donald-trump-greenland-controversy-us-fact-check-not-trump-greenland-capital-nuuk-sees-city-wide-power-outage-462875 ",
+    "time": "2026-01-25T11:58:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ધનશ્રી અને આરજે મહવશ બાદ ચહલની જિંદગીમાં નવી હસીનાની એન્ટ્રી? હવે આ યુવતી સાથે જોવા મળ્યો સ્ટાર સ્પિનર",
+    "desc": "યુઝવેન્દ્ર ચહલ સતત પોતાની પર્સનલ લાઈફને લઈને ચર્ચામાં રહે છે. ધનશ્રી વર્મા સાથેના છૂટાછેડા બાદ યુઝવેન્દ્ર આરજે મહવશને ડેટ કરી રહ્યો હોવાની ચર્ચા થઈ રહી હતી અને હવે તેને અનફોલો કર્યા બાદ ચહલ એક નવી હસીના સાથે જોવા મળ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/yuzvendra-chahal-spotted-with-shefali-bagga-after-unfollowing-rj-mahvash-personal-life-rumors-462872 ",
+    "time": "2026-01-25T11:09:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "સંજુ સેમસન માટે છેલ્લી તક... ટીમમાં આ બેટ્સમેનની વાપસી સાથે કપાશે પત્તુ",
+    "desc": "ભારતીય વિકેટકીપર સંજુ સેમસન હાલમાં ટીમમાંથી બહાર થવાના ભયનો સામનો કરી રહ્યો છે. ટી20 વર્લ્ડ કપ પહેલા તેણે પોતાનું ફોર્મ ગુમાવી દીધું છે. ત્યારે જો ટીમમાં આ ખેલાડીની વાપસી થશે, તો સંજુનું પત્તુ કપાઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/last-chance-for-sanju-samson-as-tilak-varma-is-returning-in-squad-462871 ",
+    "time": "2026-01-25T10:56:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પદ્મ પુરસ્કાર 2026 : આ 3 ગુજરાતીઓને મળશે પદ્મશ્રી સન્માન, જુઓ લિસ્ટ",
+    "desc": "પદ્મ પુરસ્કારો 2026 માટેની પ્રારંભિક યાદી સામે આવી છે, જેમાં સાહિત્ય, શિક્ષણ, સમાજ સેવા, આરોગ્ય, કલા અને જાહેર કલ્યાણમાં વર્ષોથી નોંધપાત્ર યોગદાન આપનારા ઘણા વ્યક્તિઓના નામનો સમાવેશ થાય છે. જોકે, સરકાર દ્વારા હજુ સુધી સત્તાવાર યાદી જાહેર કરવામાં આવી નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/padma-awards-2026-preliminary-list-announced-3-gujaratis-to-get-padma-shri-462867 ",
+    "time": "2026-01-25T09:58:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "પાકિસ્તાન ક્રિકેટનું અસ્તિત્વ ખતરામાં... T20 વર્લ્ડ કપ છોડશે તો ICC લગાવશે કડક પ્રતિબંધો",
     "desc": "પાકિસ્તાન ક્રિકેટ બોર્ડ (PCB)એ તાજેતરમાં બાંગ્લાદેશને ટેકો આપ્યો હતો અને ભારતમાં T20 વર્લ્ડ કપ ન રમવાના તેના નિર્ણયને યોગ્ય ઠેરવ્યો હતો. વધુમાં પાકિસ્તાને પોતે T20 વર્લ્ડ કપ અંગે અનેક ધમકીઓ આપી હતી, જેનાથી આંતરરાષ્ટ્રીય ક્રિકેટ પરિષદ (ICC) નારાજ છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -225,15 +279,6 @@ const newsData_gu = [
     "time": "2026-01-24T05:51:53.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ઈશાન કિશનનો કમાલ, T20માં બનાવ્યો અનોખો રેકોર્ડ, આવું કરનાર પ્રથમ ભારતીય બન્યો",
-    "desc": "ટીમ ઈન્ડિયાના ખતરનાક વિકેટકીપર બેટ્સમેન ઈશાન કિશને શુક્રવારે ન્યૂઝીલેન્ડ સામેની બીજી ટી20 મેચમાં ધમાકેદાર બેટિંગ કરી. ઈશાને 32 બોલમાં 76 રનની શાનદાર ઈનિંગ રમી. જેમાં 11 ચોગ્ગા અને છગ્ગાનો સમાવેશ થાય છે. આ દરમિયાન ઈશાન કિશનના નામે એક રેકોર્ડ પણ નોંધાયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ishan-kishan-unique-record-in-t20-complete-fifty-in-powerplay-as-a-non-opener-462724 ",
-    "time": "2026-01-24T05:18:15.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Post Office ધાંસૂ સ્કીમ..... ઘર બેઠા દર મહિને ₹20500 ની કમાણી, જાણો વિગત",
     "desc": "Post Office Schemes ન માત્ર Risk Free રોકાણ માટે, પરંતુ સરકાર દ્વારા આપવામાં આવી રહેલા શાનદાર વ્યાજ માટે પણ પોપુલર છે. નિવૃત્તિ બાદ જીવન કોઈ નાણાકીય મુશ્કેલી વગર પસાર થાય તે માટે પણ પોસ્ટ ઓફિસમાં રેગુલર આવક યોજના ઉપલબ્ધ છે.",
@@ -259,15 +304,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/latest-gold-rate-ibja-rates-gold-prices-fallen-ilver-has-also-become-cheaper-sona-chandi-na-bhav-462715 ",
     "time": "2026-01-24T03:06:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વર્લ્ડ કપ પહેલાં શુભ સંકેત... -સૂર્યા-કિશનની તોફાની બેટિંગથી ન્યૂઝીલેન્ડ પરાસ્ત, ભારતની સતત બીજી જીત",
-    "desc": "શહીદ વીર નારાયણ સિંહ ઈન્ટરનેશનલ સ્ટેડિયમમાં ભારતીય કેપ્ટન સૂર્યકુમાર યાદવે ટોસ જીતીને ન્યુઝીલેન્ડને બેટિંગ માટે આમંત્રણ આપ્યું હતું. ન્યુઝીલેન્ડે પ્રથમ બેટિંગ કરતા ભારતીય ટીમને 209 રનનો ટાર્ગેટ આપ્યો હતો. ન્યુઝીલેન્ડે આપેલા પહાડ જેવા ટાર્ગેટના જવાબમાં ટીમ ઈન્ડિયા જબરદસ્ત અંદાજમાં પોતાની બીજી T20 મેચ પણ જીતવામાં સફળ રહી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-vs-new-zealand-t20-series-suryakumar-yadav-ishan-kishan-storm-india-wins-second-match-raipur-462698 ",
-    "time": "2026-01-23T17:34:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -378,24 +414,6 @@ const newsData_gu = [
     "time": "2026-01-23T07:09:23.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સોના-ચાંદીના ભાવ કઈ રીતે નક્કી થાય? ભારતમાં કોણ નક્કી કરે રેટ, 2026માં કેટલે પહોંચશે સોનું? ખાસ જાણો",
-    "desc": "સોના અને ચાંદીના ભાવમાં છેલ્લા કેટલાક સમયથી ભારે ઉથલ પાથલ જોવા મળી રહી છે. ભાવમાં જબરદસ્ત વધારો નોંધાઈ રહ્યો છે. રોજેરોજ ભાવમાં નવા રેકોર્ડ બની રહ્યા છે. ત્યારે એ જાણવું જરૂરી છે કે સોના અને ચાંદીના ભાવ કઈ રીતે નક્કી થાય છે અને આગામી 2026નું વર્ષ કેવી કેવું રહેશે તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-silver-rate-explainer-how-and-who-determine-the-gold-silver-rate-in-india-what-experts-say-462612 ",
-    "time": "2026-01-23T06:05:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સોના-ચાંદીને હવે ભૂલી જજો…આ ધાતુ બનશે સૌથી મોટો ખજાનો, જાણો કઈ રીતે વધી છે ડિમાન્ડ?",
-    "desc": "આ વર્ષે સોના અને ચાંદીના ભાવમાં નોંધપાત્ર વધારો થયો છે. ઘણા લોકો સારા વળતર માટે તેમાં ભારે રોકાણ કરી રહ્યા છે. ઘણા રોકાણકારો માને છે કે સોનું અને ચાંદી ભવિષ્યની ધાતુ છે. જોકે, એક નિષ્ણાત કહે છે કે ભવિષ્યની ધાતુ સોનું કે ચાંદી નથી, પરંતુ તાંબુ છે. નિષ્ણાત કહે છે કે તાંબુ એ ધાતુ છે જે ભવિષ્યનું નિર્માણ કરી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/copper-etf-copper-is-no-longer-just-a-metal-but-has-become-a-strategic-asset-know-how-indians-can-invest-462610 ",
-    "time": "2026-01-23T05:27:33.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ઓસ્કાર નોમિનેશનમાં છવાઈ ગઈ હોરર થ્રિલર ફિલ્મ સિનર્સ, ઘરે બેઠા OTT પર જુઓ આ દમદાર ફિલ્મ",
     "desc": "ઓસ્કાર 2026 નું ફાઈનલ નોમિનેશન લિસ્ટ જાહેર થયું છે અને આ લિસ્ટમાં આ વર્ષે 2025 માં રિલીઝ થયેલી હોરર થ્રિલર ફિલ્મ સિનર્સ છવાઈ ગઈ છે. સિનર્સ ફિલ્મને અલગ અલગ કેટેગરીમાં 16 નોમિનેશન મળ્યા છે. આ દમદાર ફિલ્મ જો તમારે પણ જોવી હોય તો ઓટીટી પ્લેટફોર્મ પર જોઈ શકો છો.",
@@ -439,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/how-much-alcohol-is-allowed-in-indian-trains-know-the-rules-462519 ",
     "time": "2026-01-22T10:54:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "J&amp;amp;K: ડોડામાં દર્દનાક અકસ્માત, સેનાનું વાહન ઊંડી ખીણમાં ખાબક્યું, 10 જવાન શહીદ થયા",
-    "desc": "જમ્મુ અને કાશ્મીરથી અત્યંત આઘાતજનક સમાચાર આવ્યા છે. જ્યાં ડોડા જિલ્લામાં સેનાનું એક વાહન બેકાબૂ થઈને ખીણમાં ખાબકતા 10 જવાનોના ઘટનાસ્થળે જ મોત નિપજ્યા છે. જ્યારે કેટલાક જવાનો ઘાયલ થયા છે જેમને સારવાર અર્થે હોસ્પિટલમાં ખસેડવામાં આવ્યા છે. જાણો વિગતવાર માહિતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/big-breaking-army-vehicle-met-with-an-accident-in-khani-top-area-of-bhaderwah-jammu-kashmir-462512 ",
-    "time": "2026-01-22T10:40:50.000Z"
   },
   {
     "cat": "World",
