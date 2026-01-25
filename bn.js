@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "৬৮৫টি রাস্তা বন্ধ! জল নেই! বিদ্যুৎ নেই, অন্ধকারে মাইলের পর মাইল জ্যাম! মারণ বরফে ৪৮০০...",
+    "desc": "প্রবল তুষারপাতে কার্যত বিপর্যস্ত হিমাচল প্রদেশের শৈলশহর। বরফে ঢেকে গিয়েছে রাস্তাঘাট, থমকে যান চলাচল। ঘণ্টার পর ঘণ্টা ধরে দাঁড়িয়ে অসংখ্য গাড়ি। পর্যটকদের ভিড়ে উপচে পড়ছে হোটেলগুলি। এই মুহূর্তে সবচেয়ে বেশি দুর্ভোগে হিমাচলের জনপ্রিয় পর্যটনকেন্দ্র মানালি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/heavy-snowfall-shuts-685-roads-disrupts-nearly-4800-power-distribution-across-himachal-pradesh_637319.html ",
+    "time": "2026-01-25T08:35:06.000Z"
+  },
+  {
     "cat": "Business",
     "title": "৭২ ঘণ্টা আগে টিকিট 'ক্যানসেল' করলেই...! বন্দে ভারত স্লিপার আর অমৃত ভারত ট্রেনের টিকিট বাতিলের নিয়মে বিরাট চমক! সহজ ভাষায় বুঝে নিন 'সিস্টেম'!",
     "desc": "রেলের নতুন বিজ্ঞপ্তি অনুযায়ী, ট্রেন ছাড়ার ৭২ ঘণ্টা আগে টিকিট বাতিল করলে কেটে নেওয়া হবে ভাড়ার ২৫ শতাংশ। যদি টিকিট যাত্রা শুরুর ৭২ ঘণ্টা থেকে ৮ ঘণ্টার মধ্যে বাতিল করা হয়, তবে যাত্রীরা ভাড়ার ৫০ শতাংশ ফেরত পাবেন।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/bollywood-actor-aamir-khan-net-worth-inside-bollywood-stars-luxurious-lifestyle-rds-2501647.html",
     "time": "2026-01-17T12:20:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘রাস্তায় সুন্দরী মেয়ে দেখলেই পুরুষের...,’ ধ*র্ষণের কারণ ব্যাখ্যায় কংগ্রেস MLA-র বেফাঁস মন্তব্য, তুঙ্গে বিতর্ক",
-    "desc": "যদিও বারাইয়ার এই মন্তব্যের পরেই নেতার থেক দূরত্ব বজায় রেখেছে তাঁর দল কংগ্রেস৷ মধ্যপ্রদেশ কংগ্রেস সভাপতি জিতু পাতওয়ারি বলেন, \"কোনও ধর্ষণের পিছনেই কোনও কারণকে কোনওভাবে ব্যাখ্যা করা যায় না। যে ধর্ষণ করে সে অপরাধী। একে জাতি বা ধর্মের সাথে যুক্ত করা যাবে না।\"",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-81-2026-01-e50408883599801685dcac905f6e2c02-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/beautiful-girl-can-distract-a-man-madhya-pradesh-congress-mla-s-bizarre-theory-sparks-controversy-sta-2501218.html",
-    "time": "2026-01-17T10:26:02.000Z"
   }
 ];

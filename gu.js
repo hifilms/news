@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "પાકિસ્તાન ક્રિકેટનું અસ્તિત્વ ખતરામાં... T20 વર્લ્ડ કપ છોડશે તો ICC લગાવશે કડક પ્રતિબંધો",
+    "desc": "પાકિસ્તાન ક્રિકેટ બોર્ડ (PCB)એ તાજેતરમાં બાંગ્લાદેશને ટેકો આપ્યો હતો અને ભારતમાં T20 વર્લ્ડ કપ ન રમવાના તેના નિર્ણયને યોગ્ય ઠેરવ્યો હતો. વધુમાં પાકિસ્તાને પોતે T20 વર્લ્ડ કપ અંગે અનેક ધમકીઓ આપી હતી, જેનાથી આંતરરાષ્ટ્રીય ક્રિકેટ પરિષદ (ICC) નારાજ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/icc-warning-pakistan-t20-world-cup-2026-crisis-pcb-462859 ",
+    "time": "2026-01-25T07:22:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ઘરે બેઠા જોવા મળશે બોર્ડર 2, જાણો કયા ઓટીટી પ્લેટફોર્મ પર રિલીઝ થશે સની દેઓલની ધાંસૂ ફિલ્મ",
+    "desc": "સની દેઓલની ફિલ્મ બોર્ડર 2 સિનેમા ઘરોમાં ધુમ મચાવી રહી છે. થિયેટર્સમાં સફળ પ્રદર્શન પછી આ ફિલ્મના ઓનલાઈન સ્ટ્રીમિંગ અંગે પણ ચર્ચા થઈ રહી છે. બોર્ડર 2 ફિલ્મ તમે ઘર બેઠા કેવી રીતે જોઈ શકશો ચાલો તમને જણાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/border-2-ott-release-update-sunny-deol-border-2-film-on-netflix-soon-462858 ",
+    "time": "2026-01-25T07:07:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "બાંગ્લાદેશ બહાર થતાં ICCએ જાહેર કર્યું વર્લ્ડ કપ 2026નું નવું શેડ્યૂલ, સ્કોટલેન્ડનો આ ગ્રુપમાં સમાવેશ",
     "desc": "T20 વર્લ્ડ કપ 2026માંથી બાંગ્લાદેશ બહાર થતાં માટે ICCએ એક નવું શેડ્યૂલ બહાર પાડ્યું છે, જેમાં સ્કોટલેન્ડને ટુર્નામેન્ટમાં સ્થાન આપવામાં આવ્યું છે. નવા શેડ્યૂલમાં ફક્ત એક જ રિપ્લેસમેન્ટ ટીમનો સમાવેશ થાય છે, જ્યારે બાકીનું શેડ્યૂલ યથાવત છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -315,15 +333,6 @@ const newsData_gu = [
     "time": "2026-01-23T11:35:16.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "બાંગ્લાદેશ ટુર્નામેન્ટમાંથી બહાર, જાણો હવે કઈ ટીમ લેશે સ્થાન અને શું બદલાશે શેડ્યૂલ?",
-    "desc": "ICC ટી20 વર્લ્ડ કપ 2026ની પહેલી મેચ 7 ફેબ્રુઆરીએ યોજાવાની છે. આ પહેલા બાંગ્લાદેશની ટીમ ટુર્નામેન્ટમાંથી બહાર થઈ ગઈ છે. હવે પ્રશ્ન એ છે કે શું ટુર્નામેન્ટના શેડ્યૂલમાં કોઈ ફેરફાર કરવામાં આવશે કે પછી મેચો નિર્ધારિત સમય અને તારીખે રમાશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/icc-t20-world-cup-2026-schedule-bangladesh-out-scotland-entry-schedule-updates-462657 ",
-    "time": "2026-01-23T11:23:03.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "હાઈ લા! ગણતરીના કલાકોમાં 40 વર્ષ જૂનો લોખંડનો મજબૂત પુલ ગાયબ થઈ ગયો, તપાસમાં ચોંકાવનારો ખુલાસો",
     "desc": "સામાન્ય રીતે કોઈના ઘરમાંથી સોનું ચોરાય, ચાંદી કે અન્ય વસ્તુઓની ચોરી થાય, વાહન ચોરાય, પૈસા ચોરાય પરંતુ વર્ષોથી અસ્તિત્વ ધરાવતો આખે આખો પુલ ચોરાઈ જાય એ કેવું? તમને આ જાણીને નવાઈ લાગશે પરંતુ આવું બન્યું છે. જાણો વિગતો.",
@@ -556,15 +565,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/i-will-never-forgive-govinda-said-sunita-ahuja-breaks-silence-on-63-year-old-govinda-extra-marital-affair-461954 ",
     "time": "2026-01-17T06:47:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ગીતા કપૂરે રિલેશનશીપ વિશે કહ્યું &amp;#039;હું કુંવારી નથી...&amp;#039; શા માટે જીવે છે બેચલર લાઈફ કર્યો ખુલાસો",
-    "desc": "52 વર્ષીય કોરિયોગ્રાફર ગીતા કપૂરે તાજેતરમાં એક ઈંટરવ્યુમાં ઈંટીમસીને લઈને એવી વાત કરી છે કે સોશિયલ મીડિયા પર સતત તેની જ ચર્ચા થઈ રહી છે. પહેલીવાર ગીતા કપૂરે રિલેશનશીપ વિશે આટલા બોલ્ડ અંદાજમાં વાત કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/geeta-kapoor-bold-statement-about-intimacy-geeta-kapoor-reply-on-personal-life-controversy-461839 ",
-    "time": "2026-01-16T07:39:40.000Z"
   },
   {
     "cat": "Tech",

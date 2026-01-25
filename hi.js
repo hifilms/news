@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Way too early': R Ashwin comes to star India batter's defence amid struggle with form ahead of third NZ T20I",
+    "desc": "Team India has been in brilliant form in the ongoing T20I series against New Zealand. The two sides have locked horns across two T20Is so far, and both matches have been won by the Men...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/way-too-early-r-ashwin-comes-to-star-india-batter-s-defence-amid-struggle-with-form-ahead-of-third-nz-t20i-2026-01-25-1027401",
+    "time": "2026-01-25T08:38:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan announce squad for T20 World Cup 2026, Salman Ali Agha to lead with Babar Azam in the mix",
+    "desc": "The PCB (Pakistan Cricket Board) took centre stage and announced Pakistan's 15-member squad for the upcoming edition of the T20 World Cup 2026. Salman Ali Agha will be leading the side in the tournament, with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-announce-squad-for-t20-world-cup-2026-salman-ali-agha-to-lead-with-babar-azam-in-the-mix-2026-01-25-1027392",
+    "time": "2026-01-25T07:02:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Report",
+    "desc": "The T20 World Cup 2026 is all set to kick off on February 7. The marquee tournament is slated to be held in India and Sri Lanka, and even before the beginning of the tournament,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-warns-pakistan-of-severe-repercussions-over-t20-world-cup-2026-boycott-conundrum-report-2026-01-25-1027390",
+    "time": "2026-01-25T06:55:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Carlos Alcaraz's Australian Open clash halted due to medical emergency; Check details",
     "desc": "World number one Carlos Alcaraz took on world number 19 Tommy Paul in round four of the ongoing Australian Open 2026. The stars locked horns on January 25, and the game was stopped midway through...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-pull-out-of-t20-world-cup-2026-5-instances-teams-opted-out-of-icc-tournaments-2026-01-24-1027340",
     "time": "2026-01-24T16:16:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India to play Pakistan on February 1 amid T20 World Cup 2026 controversy, know match details",
-    "desc": "India secured a dominant finish in the group stages of the U19 World Cup, claiming their third straight win to top Group B. With a flawless record in the round-robin stage, the five-time champions are...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-to-play-pakistan-on-february-1-amid-t20-world-cup-2026-controversy-know-match-details-2026-01-24-1027338",
-    "time": "2026-01-24T15:31:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC officially ejects Bangladesh from T20 World Cup 2026, issues statement",
-    "desc": "In a significant development ahead of the T20 World Cup 2026, the International Cricket Council (ICC) has confirmed that Scotland will replace Bangladesh in the tournament. The decision was officially communicated on Saturday after Bangladesh’s...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-officially-ejects-bangladesh-from-t20-world-cup-2026-issues-statement-2026-01-24-1027336",
-    "time": "2026-01-24T14:29:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Which team will replace Pakistan if they pull out of T20 World Cup 2026 to support Bangladesh?",
-    "desc": "Pakistan's participation in the 2026 T20 World Cup is uncertain as the Pakistan Cricket Board (PCB) awaits instructions from the government, according to chairman Mohsin Naqvi. Naqvi emphasised that the PCB would follow the government's...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/which-team-will-replace-pakistan-if-they-pull-out-of-t20-world-cup-2026-to-support-bangladesh-2026-01-24-1027333",
-    "time": "2026-01-24T14:09:28.000Z"
   }
 ];

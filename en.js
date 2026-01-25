@@ -1,5 +1,203 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "India-US partnership: US Congressional delegation 'just wrapped a productive meeting' with EAM Jaishankar",
+    "desc": "India's External Affairs Minister S Jaishankar met with a US Congressional delegation in New Delhi. Discussions covered India-US relations, the Indo-Pacific, and the Ukraine conflict. The US Ambassador to India also participated. Both sides expressed a desire to strengthen bilateral ties and enhance cooperation. This diplomatic outreach occurs amid ongoing trade talks between the two nations.",
+    "img": "https://static.toiimg.com/photo/msid-127464366,imgsize-1025690.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-partnership-us-congressional-delegation-just-wrapped-a-productive-meeting-with-eam-jaishankar/articleshow/127463331.cms",
+    "time": "2026-01-25T09:04:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Who is'Karathey Babu' actressDaudee Jiwal?",
+    "desc": "The teaser for 'Karathey Babu' has generated significant buzz, introducing Daudee Jiwal, daughter of former DGP Shankar Jiwal, in her official Tamil cinema debut. The political drama, directed by Ganesh K. Babu and starring Ravi Mohan, hints at an intense narrative, with fans eager to decipher its political undertones and Ravi Mohan's antagonist role.",
+    "img": "https://static.toiimg.com/photo/msid-127463762,imgsize-80874.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/who-is-daudee-jiwal-karathey-babu-actress-steals-the-spotlight-in-the-teaser/articleshow/127463762.cms",
+    "time": "2026-01-25T08:53:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tejashwi Yadav named RJD working president in father Lalu's presence; sister Rohini flags 'conspiracy'",
+    "desc": "​The appointment coincided with visible signs of internal disquiet within the party. Hours ahead of the RJD’s national executive meeting in Patna on Sunday, Lalu Prasad’s daughter Rohini Acharya alleged that the party’s control had slipped into the “hands of infiltrators and conspirators” whose sole aim, she claimed, was to destroy “Laluvad”.",
+    "img": "https://static.toiimg.com/photo/msid-127462692,imgsize-89696.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tejashwi-yadav-named-rjd-working-president-in-father-lalus-presence-sister-rohini-flags-conspiracy/articleshow/127461573.cms",
+    "time": "2026-01-25T08:37:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Odia music composer Abhijit Majumdar passes away at the age of 54",
+    "desc": "Odia music composer Abhijit Majumdar, a highly influential figure in Ollywood cinema, has passed away at 54. Battling multiple health issues since September 2025, his condition worsened Saturday night, leading to his demise. Majumdar, who composed over 700 songs, shaped generations of Odia music and his loss is deeply mourned by the industry.",
+    "img": "https://static.toiimg.com/photo/msid-127462480,imgsize-20016.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/bengali/movies/news/odia-music-composer-abhijit-majumdar-passes-away-at-the-age-of-54/articleshow/127462480.cms",
+    "time": "2026-01-25T08:29:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What students and parents expect beyond schemes and slogans",
+    "desc": "Can the state reduce the private burden families carry to make education work? Parents and students expect spending that strengthens classrooms—teachers, foundational learning, and a credible path towards 6% of GDP. They also look for digital access beyond fibre, advanced learning beyond metros, paid work pathways, and affordability through scholarships and safer loans, with counselling treated as core infrastructure.",
+    "img": "https://static.toiimg.com/photo/msid-127461874,imgsize-141050.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-what-students-and-parents-expect-beyond-schemes-and-slogans/articleshow/127461478.cms",
+    "time": "2026-01-25T08:16:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mercy' director reveals Chris Pratt's unique, emotional role",
+    "desc": "Chris Pratt ventures into uncharted territory with his role in 'Mercy,' a sci-fi thriller where he portrays a vulnerable, broken man, a departure from his usual action-packed performances. Director Timur Bekmambetov praised Pratt's surprising versatility, highlighting the film's emotional depth alongside thrilling elements. The movie sees Pratt's detective facing an AI judge, demanding a compelling performance.",
+    "img": "https://static.toiimg.com/photo/msid-127461562,imgsize-68866.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mercy-director-timur-bekmambetov-talks-making-film-with-chris-pratt-says-he-played-this-for-the-first-time/articleshow/127461562.cms",
+    "time": "2026-01-25T08:15:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Romeo and Cruz Beckham step out in Paris amid family feud",
+    "desc": "Amidst family turmoil, Romeo and Cruz Beckham enjoyed a romantic Parisian double date, showcasing love and style. This contrasts sharply with their elder brother Brooklyn's recent public accusations against their parents, David and Victoria, regarding wedding disputes and family control.",
+    "img": "https://static.toiimg.com/photo/msid-127461667,imgsize-751386.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/romeo-bechkam-and-cruz-beckham-spotted-paris-amid-the-family-feud-between-brooklyn-and-victoria-beckham/articleshow/127461675.cms",
+    "time": "2026-01-25T08:13:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Morgan Freeman",
+    "desc": "At 88, legendary actor Morgan Freeman drives home the idea that courage unlocks life's greatest challenges, asserting that fear often stands in our way. Reflecting on his own remarkable ascent to Hollywood, he emphasizes the importance of unwavering determination. His resonant reminder, 'Man, the bus runs every day,' indicates that opportunities are frequently closer than we think.",
+    "img": "https://static.toiimg.com/photo/msid-127461279,imgsize-29738.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-morgan-freeman-courage-is-the-key-to-life-itself-/articleshow/127461279.cms",
+    "time": "2026-01-25T08:09:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "David and Victoria Beckham hold onto family memories amid familial rift",
+    "desc": "A resurfaced 2006 family photoshoot highlights the Beckham's past unity, contrasting with current headlines about eldest son Brooklyn's estrangement. Brooklyn publicly accused his parents of disrespecting his wife and pushing 'Brand Beckham,' refusing reconciliation despite their pleas. While David and Victoria focus on healing and supporting their other children, the family faces a public rift.",
+    "img": "https://static.toiimg.com/photo/msid-127461087,imgsize-826622.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/david-beckham-and-victoria-beckham-cling-to-family-memories-amid-the-feud-with-brooklyn-beckham/articleshow/127461080.cms",
+    "time": "2026-01-25T08:08:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "US Prez Donald Trump to avoid Super Bowl because of Bad Bunny, Green Day",
+    "desc": "US President Donald Trump has made headlines by opting out of this year's Super Bowl festivities, pointing to the lineup featuring performers like Bad Bunny and Green Day as his major grievance. Describing their selections as 'terrible choices' that foster 'hatred', Trump highlighted his confusion over Bad Bunny’s inclusion, stating he had never heard of the artist before.",
+    "img": "https://static.toiimg.com/photo/msid-127460192,imgsize-45100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/us-president-donald-trump-says-he-wont-attend-super-bowl-2026-cites-bad-bunny-and-green-day-as-reason/articleshow/127460192.cms",
+    "time": "2026-01-25T08:07:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Palash Muchhal deletes pics with Smriti Mandhana except THIS post",
+    "desc": "Singer Palash Muchhal has deleted most Instagram posts of his romance with Smriti Mandhana following wedding cancellation amid cheating allegations. He has filed a Rs 10 crore defamation lawsuit against Vidnyan Mane, who accused him of fraud and infidelity. A birthday video remains on his profile.",
+    "img": "https://static.toiimg.com/photo/msid-127460835,imgsize-625161.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/palash-muchhal-deleted-all-photos-with-smriti-mandhana-except-this-post-following-their-wedding-cancellation-watch/articleshow/127460849.cms",
+    "time": "2026-01-25T07:56:04.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India's crude basket: More Middle East, less Russia; after Trump's sanctions, what's next for Moscow's oil shipments?",
+    "desc": "India is shifting its crude oil sourcing, reducing Russian imports due to compliance risks while increasing shipments from the Middle East. Despite a decline, Russian crude remains a significant, albeit more selective, part of India's energy mix, driven by its economic advantages and refinery margins.",
+    "img": "https://static.toiimg.com/photo/msid-127460284,imgsize-419900.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-crude-basket-more-middle-east-less-russia-after-trumps-sanctions-whats-next-for-moscows-oil-shipments/articleshow/127457093.cms",
+    "time": "2026-01-25T07:54:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jason Momoa shines in'Supergirl: Woman of Tomorrow' teaser",
+    "desc": "Woman of Tomorrow.' This long-awaited role fulfills Momoa's comic book dream, with James Gunn confirming years of pitching. The film, set after the Superman reboot, features Milly Alcock's Kara Zor-El on a quest that brings her into conflict with Lobo.",
+    "img": "https://static.toiimg.com/photo/msid-127460633,imgsize-691093.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/supergirl-woman-of-tomorrow-teaser-jason-momoas-lobo-reveal-creates-a-buzz-among-fans-with-his-anti-hero-role/articleshow/127459990.cms",
+    "time": "2026-01-25T07:48:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "With Bangladesh replaced by Scotland, Pakistan unveil T20 World Cup squad",
+    "desc": "Pakistan has unveiled their 15-man squad for the ICC Men’s T20 World Cup 2026, captained by Salman Agha. The 2009 champions, featuring Babar Azam and a strong pace attack led by Shaheen Shah Afridi and Naseem Shah, will face co-hosts India in Group A. Their campaign begins against the Netherlands on February 7 in Colombo.",
+    "img": "https://static.toiimg.com/photo/msid-127459729,imgsize-42022.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/babar-azam-shaheen-afridi-return-as-pakistan-announce-t20-world-cup-2026-squad/articleshow/127459658.cms",
+    "time": "2026-01-25T07:35:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Maren Morris reunites with ex Ryan Hurd for new music",
+    "desc": "Country star Maren Morris has reunited with her ex-husband, Ryan Hurd, in the recording studio, sparking speculation about new music two years after their divorce. The former couple, who first connected through songwriting, shared a photo hinting at a potential collaboration, showcasing their continued amicable relationship centered on co-parenting their son.",
+    "img": "https://static.toiimg.com/photo/msid-127459411,imgsize-1024883.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/maren-morris-reunites-with-ex-ryan-hurd-heres-what-we-know/articleshow/127459456.cms",
+    "time": "2026-01-25T07:29:26.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Pakistan, Bangladesh Foreign Ministers commit to build closer ties",
+    "desc": "“The two leaders also exchanged views on the current regional and international developments and underscored the importance of sustained engagement to advance shared interests and promote regional peace and prosperity,” says statement by the Foreign Office",
+    "img": "https://th-i.thgim.com/public/incoming/5euqe6/article70549095.ece/alternates/LANDSCAPE_1200/iStock-1143362099.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/pakistan-bangladesh-foreign-ministers-commit-to-build-closer-ties/article70549074.ece",
+    "time": "2026-01-25T07:22:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ishan Kishan's fearless return",
+    "desc": "Ishan Kishan's triumphant return to the Indian squad, marked by a match-winning 76 off 32 balls, highlights his unwavering belief during a two-year hiatus. His stellar domestic performance, including leading Jharkhand to a title, paved the way for this impactful comeback. With the T20 World Cup approaching, Kishan's form offers India crucial momentum and potential batting order adjustments.",
+    "img": "https://static.toiimg.com/photo/msid-127458344,imgsize-65668.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/from-contract-snub-to-comeback-king-ishan-kishans-fearless-return-powers-india/articleshow/127458352.cms",
+    "time": "2026-01-25T07:07:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Patriot' poster: Fans decode HIDDEN morse code",
+    "desc": "The makers of 'Patriot' unveiled Nayanthara's character poster, sparking fan excitement. A hidden Morse code within the poster revealed a significant date, April 23, adding to the intrigue. The film, directed by Mahesh Narayanan, reunites Mammootty and Mohanlal after nearly two decades and promises an intense narrative with its tagline, \"Dissent is patriotic.\"",
+    "img": "https://static.toiimg.com/photo/msid-127458044,imgsize-11104.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/patriot-first-poster-nayantharas-character-revealed-fans-decode-hidden-morse-code/articleshow/127458044.cms",
+    "time": "2026-01-25T07:04:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dakota Johnson and Role Model's PDA add to romance rumors",
+    "desc": "Hollywood star Dakota Johnson and singer Role Model are reportedly a couple, spotted holding hands after a dinner date in Los Angeles. This follows multiple sightings since December, fueling romance rumors. The news comes after Johnson's reported split from Chris Martin and Role Model's past relationship with Emma Chamberlain.",
+    "img": "https://static.toiimg.com/photo/msid-127457308,imgsize-67016.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dakota-johnson-and-role-model-are-dating-their-cozy-dinner-night-and-pda-add-to-romance-rumors/articleshow/127457308.cms",
+    "time": "2026-01-25T06:49:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bruce Lee's 'Warrior' to be removed from this OTT platform in Feb",
+    "desc": "Bruce Lee's vision comes alive in 'Warrior,' a period drama set in 1870s San Francisco's Tong Wars. After a stint on Netflix, the acclaimed series is leaving the platform on February 16th. Fans can now find the show exclusively on HBO Max, its original streaming home, though a fourth season is confirmed to be unlikely.",
+    "img": "https://static.toiimg.com/photo/msid-127456844,imgsize-27540.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bruce-lees-3-season-action-series-warrior-to-leave-a-major-platform-soon-to-return-to-hbo-again/articleshow/127456780.cms",
+    "time": "2026-01-25T06:38:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Surya storms back into form; India get timely T20 WC boost",
+    "desc": "Suryakumar Yadav silenced critics with a blistering unbeaten 82, his first fifty in 23 innings, showcasing a revitalized approach. He focused on new scoring zones and shut out external noise, drawing strength from his wife's advice. Crucial dropped catches also aided his return to form, easing pressure ahead of the T20 World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-127456775,imgsize-45194.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/suryakumar-yadav-storms-back-into-form-india-get-timely-t20-world-cup-boost/articleshow/127456793.cms",
+    "time": "2026-01-25T06:36:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Police from three States begin search for missing currency",
+    "desc": "Maharashtra and Karnataka police are cooperating with Goa police to crack a case of the theft of two container trucks which were carrying between ₹400 crore and ₹1,000 crore on the Karnataka-Goa border on the night of October 25.",
+    "img": "https://th-i.thgim.com/public/news/national/xi49ic/article70549002.ece/alternates/LANDSCAPE_1200/Screenshot%202026-01-25%20114955.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/police-from-three-states-begin-search-for-missing-currency/article70548970.ece",
+    "time": "2026-01-25T06:25:11.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "'India is not safe for us': BCB's final word as they say 'accept ICC's decision'",
     "desc": "Bangladesh has accepted the ICC's decision to replace its national team with Scotland in the upcoming T20 World Cup. The Bangladesh Cricket Board cited government advice regarding safety concerns in India as the reason for their refusal to travel. Despite repeated efforts and alternative proposals, the ICC did not agree to relocate Bangladesh's matches.",
@@ -21,7 +219,7 @@ const newsData_en = [
     "cat": "Business",
     "title": "US snow storm cancelled your flight? Here's what you need to know",
     "desc": "A powerful winter storm has caused widespread US air travel disruptions, leading to over 13,000 flight cancellations and impacting major airports. Airlines are waiving change fees and offering rebooking options, but compensation for meals or lodging during weather-related cancellations is not guaranteed.",
-    "img": "https://static.toiimg.com/photo/msid-127454490,imgsize-62032.cms",
+    "img": "https://static.toiimg.com/photo/msid-127456157,imgsize-160526.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-snow-storm-cancelled-your-flight-heres-what-you-need-to-know/articleshow/127453142.cms",
     "time": "2026-01-25T06:04:12.000Z"
@@ -70,6 +268,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-traitors-makers-condemn-online-harassment-as-season-4-heats-up/articleshow/127453708.cms",
     "time": "2026-01-25T05:36:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Leighton Meester reveals secret behind marriage with Adam Brody",
+    "desc": "genuinely liking each other. Meester revealed that accepting each other's imperfections and a willingness to work on oneself are key. Their shared professional journey, including collaborations on films and shows, has also seemingly strengthened their bond over the years.",
+    "img": "https://static.toiimg.com/photo/msid-127453526,imgsize-41428.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/leighton-meester-shares-the-simple-secret-behind-her-12-year-marriage-with-adam-brody-says-i-wish-i-had-the-answer/articleshow/127453526.cms",
+    "time": "2026-01-25T05:34:45.000Z"
   },
   {
     "cat": "Politics",
@@ -126,15 +333,6 @@ const newsData_en = [
     "time": "2026-01-25T04:33:37.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "A$AP Rocky says dating matters, even with kids",
-    "desc": "Hollywood's power couple, A$AP Rocky and Rihanna, are keeping their romance alive with dates and fun activities, even after welcoming three children. Rocky revealed they still play games and go on outings, proving their bond remains strong. Despite marriage rumors, the couple, who met during the pandemic, emphasizes their deep connection and readiness for family life.",
-    "img": "https://static.toiimg.com/photo/msid-127450396,imgsize-33508.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/while-raising-three-kids-aap-rocky-and-rihanna-focus-on-romanticizing-their-relationship-youve-got-to-still-date/articleshow/127450396.cms",
-    "time": "2026-01-25T04:31:47.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Voter a Bhagya Vidhata': PM Modi greets citizens on  National Voters’ Day",
     "desc": "National Voters’ Day is observed annually on January 25 to mark the foundation day of the Election Commission of India (ECI), established in 1950. The day aims to recognise voters, encourage youth participation, reinforce democratic values, and promote universal adult suffrage. In a post on X, the Prime Minister said National Voters’ Day is about “further deepening our faith in the democratic values of our nation”.",
@@ -142,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/voter-a-bhagya-vidhata-pm-modi-greets-citizens-on-national-voters-day/articleshow/127449028.cms",
     "time": "2026-01-25T04:23:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Border 2': Mona Singh says, 'Thank you for all the love'",
-    "desc": "'Border 2' is captivating audiences and igniting fervent debates about its themes. Mona Singh, one of the film’s stars, took to social media to show appreciation for the love poured in by fans, offering a peek into her experiences with co-stars such as Sunny Deol.",
-    "img": "https://static.toiimg.com/photo/msid-127449756,imgsize-51434.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-win-hearts-mona-singh-turns-emotional-says-thank-you-for-all-the-love/articleshow/127449756.cms",
-    "time": "2026-01-25T04:20:45.000Z"
   },
   {
     "cat": "Sports",
@@ -180,15 +369,6 @@ const newsData_en = [
     "time": "2026-01-25T03:59:22.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Brooks Nader denies Ben Affleck romance rumors",
-    "desc": "Model Brooks Nader has firmly denied rumors linking her to Ben Affleck, dismissing claims of a budding romance. The reality TV star, who recently split from Gleb Savchenko, clarified on social media that she has never met Affleck. Nader, previously married, has a history of navigating celebrity gossip, prioritizing her personal life over tabloid speculation.",
-    "img": "https://static.toiimg.com/photo/msid-127447905,imgsize-644539.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ben-affleck-and-brooks-nader-are-dating-model-shuts-down-the-rumours-never-met-him/articleshow/127447918.cms",
-    "time": "2026-01-25T03:37:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Amid cheating claims, Palash Muchhal deletes all Smriti Mandhana photos",
     "desc": "Music composer Palash Muchhal faces renewed cheating allegations from actor-producer Vidnyan Mane, a friend of Smriti Mandhana. Mane claims Muchhal was caught with another woman during pre-wedding festivities, leading to a physical confrontation with cricketers. Muchhal has denied these claims, initiating a Rs 10 crore defamation suit against Mane. Several Instagram posts featuring Mandhana have also been removed.",
@@ -196,24 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/amid-cheating-claims-palash-muchhal-deletes-all-smriti-mandhana-photos/articleshow/127447836.cms",
     "time": "2026-01-25T03:36:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Channing Tatum feels parenting is ‘hard’",
-    "desc": "Actor Channing Tatum, promoting his new film 'Josephine', opened up about the challenges of fatherhood. He shared that parenting his 12-year-old daughter, Everly, is a daily struggle, requiring him to be both tough and a 'soft buddy'. Tatum also admitted to feeling uncool in his daughter's eyes, despite her seeing his movies.",
-    "img": "https://static.toiimg.com/photo/msid-127447195,imgsize-29622.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/channing-tatum-reflects-on-fatherhood-challenges-feels-parenting-is-hard/articleshow/127447195.cms",
-    "time": "2026-01-25T03:24:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Meet the inspiration behind ‘Battle of Galwan’",
-    "desc": "Prepare for an emotional journey as Salman Khan stars in 'Battle of Galwan,' a film that tells the gripping tale of the 2020 confrontation at Galwan Valley. Centered around the heroic actions of Colonel Bikkumalla Santosh Babu MVC and the sacrifice of 20 valiant Indian soldiers, this cinematic piece aims to honor their legacy.",
-    "img": "https://static.toiimg.com/photo/msid-127446191,imgsize-45808.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/who-inspired-salman-khans-battle-of-galwan-character-all-you-need-to-know-about-b-santosh-babu/articleshow/127446191.cms",
-    "time": "2026-01-25T03:01:53.000Z"
   },
   {
     "cat": "Business",
@@ -243,24 +405,6 @@ const newsData_en = [
     "time": "2026-01-25T02:52:17.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "5 addictive OTT crime thrillers of January 2026",
-    "desc": "​January 2026 certainly seems to be off to a great start, with some really addictive crime thrillers coming up on OTT that promise plenty of Hindi punch along with loads of English edge. Each one is expertly woven with heart-stopping action and those twist-in-the-gut moments when you are left doubting everybody on the screen. Whether gritty Indian realism or suave international intrigue is your thing, these might just make the winter nights cozier.​",
-    "img": "https://static.toiimg.com/photo/msid-127123084,imgsize-519321.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/5-addictive-ott-crime-thrillers-of-january-2026/photostory/127123084.cms",
-    "time": "2026-01-25T02:26:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Harry Styles Rome haircut turns into a surprise Vatican moment",
-    "desc": "Pop icon Harry Styles recounted his unexpected presence at Pope Leo XIV's conclave election in Rome, explaining he was drawn by the crowd's chants after a haircut. Fans spotted the singer in St. Peter's Square, blending into the historic moment, a story resurfacing amid buzz for his new single 'Aperture'.",
-    "img": "https://static.toiimg.com/photo/msid-127444354,imgsize-937917.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/harry-styles-reveals-how-he-accidentally-created-a-papal-moment-with-his-pope-leo-xivs-conclave-appearance/articleshow/127444369.cms",
-    "time": "2026-01-25T02:22:46.000Z"
-  },
-  {
     "cat": "Business",
     "title": "US Fed set to keep rates steady as officials defend independence",
     "desc": "The US Federal Reserve is widely expected to keep interest rates unchanged when it meets in the coming week, holding firm despite President Donald Trump's pressure to slash levels as it guards against threats to its independence. - External pressure - The Fed meets eight times a year to consider interest rate levels, and Michael Pearce of Oxford Economics said the dilemma it faces has eased.",
@@ -268,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-fed-set-to-keep-rates-steady-as-officials-defend-independence/articleshow/127444298.cms",
     "time": "2026-01-25T02:21:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aneet Padda's fangirl comment: Old post on Chalamet resurfaces",
-    "desc": "Actress Aneet Padda's old social media comment to Timothée Chalamet has resurfaced, revealing her fangirl past. Seven years ago, a then-teenaged Padda playfully urged Chalamet to confess his love. Meanwhile, Padda is busy with brand endorsements and has exciting projects like 'Shakti Shalini' in the pipeline following her 'Saiyaara' success.",
-    "img": "https://static.toiimg.com/photo/msid-127443842,imgsize-21118.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saiyaara-star-aneet-padda-goes-viral-as-an-old-comment-resurfaces-and-reveals-she-is-a-huge-timothee-chalamet-fan/articleshow/127443842.cms",
-    "time": "2026-01-25T02:15:57.000Z"
   },
   {
     "cat": "Politics",
@@ -333,24 +468,6 @@ const newsData_en = [
     "time": "2026-01-25T01:30:37.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Chatha Pacha' BO day 3: Film collects Rs 2.15 crores",
-    "desc": "The Ring of Rowdies' has garnered a positive reception at the box office, accumulating Rs 7.65 crores in its opening three days. Despite a slight dip on day two, the film showed a steady performance, particularly with strong night show occupancy on Sunday. Early estimates suggest a promising run ahead.",
-    "img": "https://static.toiimg.com/photo/msid-127440776,imgsize-59814.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/chatha-pacha-box-office-collections-day-3-roshan-mathew-film-holds-steady-collects-rs-2-15-crores/articleshow/127440776.cms",
-    "time": "2026-01-25T01:05:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Sarvam Maya' BO day 28: Nivin Pauly film collects Rs 38 lakhs",
-    "desc": "Nivin Pauly's horror-comedy 'Sarvam Maya' continues to draw crowds in theatres, even with its OTT release on JioHotstar set for January 30. The film has achieved a remarkable Rs 145.3 Cr worldwide. The story follows an atheist priest who encounters a quirky ghost, leading to unexpected bonds and humorous situations.",
-    "img": "https://static.toiimg.com/photo/msid-127439938,imgsize-59142.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/sarvam-maya-box-office-collections-day-28-nivin-pauly-film-collects-rs-38-lakhs-ott-announcement-fails-to-slow-run/articleshow/127439938.cms",
-    "time": "2026-01-25T00:47:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Blackmail cricket world': PCB chief Naqvi under fire over pullout remarks",
     "desc": "Former India cricketer Atul Wassan slammed PCB chief Mohsin Naqvi’s remarks on possibly skipping the 2026 T20 World Cup, calling it “foolish bravado.” He said dragging politics into cricket hurts players, not administrators. Wassan felt Pakistan was backing Bangladesh for political mileage. His comments followed Naqvi’s criticism of the ICC after Bangladesh were replaced by Scotland for refusing to follow the tournament schedule.",
@@ -360,15 +477,6 @@ const newsData_en = [
     "time": "2026-01-25T00:30:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Parasakthi' BO day 15: SK film collects only Rs 22 lakhs",
-    "desc": "Sivakarthikeyan's 'Parasakthi' is struggling at the box office, with daily collections dwindling significantly. Despite a strong cast and director, the film has garnered Rs 82.75 Cr worldwide, but recent figures show a clear slowdown. While OTT rights are secured, the theatrical run is facing an uphill battle, indicating no signs of revival.",
-    "img": "https://static.toiimg.com/photo/msid-127439015,imgsize-121660.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-box-office-collections-day-15-sivakarthikeyans-film-collects-only-rs-22-lakhs-no-sign-of-comeback/articleshow/127439015.cms",
-    "time": "2026-01-25T00:28:11.000Z"
-  },
-  {
     "cat": "World",
     "title": "What lies behind Trump’s Greenland moves?",
     "desc": "Why does the U.S. want Greenland? What has been the U.S. President’s recent rhetoric on the Arctic territory? Is there a comedown of sorts on tariffs? On the security aspect, isn’t Greenland protected by NATO? What is Greenland rich in besides reserves of oil and natural gas?",
@@ -376,15 +484,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/what-lies-behind-trumps-greenland-moves-explained/article70547395.ece",
     "time": "2026-01-25T00:20:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Raja Saab' BO day 16: Prabhas film collects Rs 23 lakhs",
-    "desc": "Prabhas's horror comedy 'The Raja Saab' is experiencing a significant box office slowdown, with collections plummeting on its 16th day. Despite a worldwide gross of Rs 205.26 Cr, the film's domestic performance, particularly in Hindi and Malayalam, has been disappointing. Online reviews reflect audience dissatisfaction with the writing and direction.",
-    "img": "https://static.toiimg.com/photo/msid-127437927,imgsize-16626.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-box-office-collections-day-16-prabhas-film-struggles-collects-only-rs-23-lakhs/articleshow/127437927.cms",
-    "time": "2026-01-25T00:04:42.000Z"
   },
   {
     "cat": "Politics",
@@ -448,15 +547,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-focuses-on-higher-mining-revenue-targets-in-financial-year-end/article70546569.ece",
     "time": "2026-01-24T20:21:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Arun Govil disagrees with AR Rahman's communal remark: 'SRK, Aamir Salman...'",
-    "desc": "AR Rahman's recent remarks about facing less work in Hindi cinema due to non-creative decision-makers and potential communal bias have sparked industry debate. Actor Arun Govil refuted these claims, stating the film industry has always been free of communal bias, citing successful Muslim actors as evidence.",
-    "img": "https://static.toiimg.com/photo/msid-127425819,imgsize-27284.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-salman-khan-aamir-khan-they-are-all-stars-says-ramayan-actor-arun-govil-as-he-disagrees-with-ar-rahmans-communal-remark/articleshow/127425666.cms",
-    "time": "2026-01-24T20:20:32.000Z"
   },
   {
     "cat": "Politics",
@@ -666,24 +756,6 @@ const newsData_en = [
     "time": "2026-01-24T15:21:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kerala CEO",
-    "desc": "Rathan U. Kelkar said in the previous revisions, physical verification was mostly undertaken only when objections were raised. “Now, officials are visiting homes and checking records in all cases. Naturally, this caused some initial concern among people,” he said.",
-    "img": "https://th-i.thgim.com/public/incoming/34j3pt/article70547454.ece/alternates/LANDSCAPE_1200/NH20RathanKelkar02.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/people-might-not-have-anticipated-sir-would-be-more-cumbersome-than-routine-revisions-rathan-kelkar/article70546624.ece",
-    "time": "2026-01-24T15:20:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala to have more than 22% of its population aged above 60 by 2036, says new RBI report",
-    "desc": "Kerala has topped the list for State-wise share of population aged above 60 for some years now. From 16.5% of its population aged above 60 in 2021, Kerala will have 18.7% in the category in 2026 and 22.8% by 2036",
-    "img": "https://th-i.thgim.com/public/incoming/uypcu/article70548758.ece/alternates/LANDSCAPE_1200/IMG_elder_2_1_AMFEGUKC.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-to-have-more-than-22-of-its-population-aged-above-60-by-2036-says-new-rbi-report/article70546620.ece",
-    "time": "2026-01-24T15:13:09.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ranji Trophy",
     "desc": "“At the end of the day, he went and played. He scored those runs, and he should take all the accolades. I am very thankful that he took my name, but it was not required.”",
@@ -730,15 +802,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Djokovic becomes first player to reach 400 Grand Slam wins, equals Federer's AO record",
-    "desc": "Novak Djokovic etched his name further in tennis history at the Australian Open, achieving his 400th Grand Slam singles victory. He also matched Roger Federer's record for most Australian Open match wins. Despite a brief scare and a fall in the third set, Djokovic showcased his resilience, saving set points and ultimately clinching the win.",
-    "img": "https://static.toiimg.com/photo/msid-127400462,imgsize-135720.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/novak-djokovic-becomes-first-player-to-reach-400-grand-slam-wins-equals-roger-federers-australian-open-record/articleshow/127400377.cms",
-    "time": "2026-01-24T13:50:19.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'Let Pakistan PM come': PCB chief warns ICC after B'desh's T20 WC call",
     "desc": "PCB chairman Mohsin Naqvi said Pakistan’s participation in the T20 World Cup will depend on the government’s decision after Bangladesh were replaced by Scotland. He stated that Prime Minister Shahbaz Sharif will take the final call once he returns. Naqvi criticised the ICC for unfairly treating Bangladesh, questioned selective decision-making, and stressed that the PCB follows only government directives, leaving Pakistan’s participation uncertain.",
     "img": "https://static.toiimg.com/photo/msid-127398114,imgsize-54342.cms",
@@ -765,33 +828,6 @@ const newsData_en = [
     "time": "2026-01-24T12:22:52.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IND vs PAK bilateral series possible? BCCI reveals ultimate condition",
-    "desc": "India are unlikely to play a bilateral series with Pakistan anytime soon. BCCI Vice-President Rajeev Shukla says the board will follow the Indian government’s guidance. “I don't think it's possible to have bilateral tours in the current situation,” he added. India last played Pakistan in 2012-13 and now follows a “third soil” policy for matches. Tensions increased after Operation Sindoor in 2025, and security concerns remain high, recalling the 2009 attack on the Sri Lankan team in Lahore.",
-    "img": "https://static.toiimg.com/photo/msid-127394432,imgsize-87066.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-vs-pakistan-bilateral-series-possible-bcci-reveals-ultimate-condition/articleshow/127393780.cms",
-    "time": "2026-01-24T12:18:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "NSE takes financial literacy drive to Kolkata Book Fair; sets up 14-day awareness pavilion",
-    "desc": "The National Stock Exchange has launched an investor awareness pavilion at the International Kolkata Book Fair, aiming to boost financial literacy. This initiative features interactive tools and workshops to educate the public about securities markets.",
-    "img": "https://static.toiimg.com/photo/msid-127394114,imgsize-670923.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/investor-connect-nse-takes-financial-literacy-drive-to-kolkata-book-fair-sets-up-14-day-awareness-pavilion/articleshow/127394049.cms",
-    "time": "2026-01-24T12:09:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why Scotland are chosen as Bangladesh's replacement",
-    "desc": "Bangladesh have been officially replaced by Scotland in the T20 World Cup after the ICC ruled that BCB’s demands did not align with its policy. ICC CEO Sanjog Gupta informed the Board and invited Scotland, citing their strong recent performances and No.14 ranking. Scotland, seen as the most deserving associate team, will play in Group C with matches in Kolkata and Mumbai.",
-    "img": "https://static.toiimg.com/photo/msid-127388574,imgsize-77850.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/bangladesh-out-of-t20-world-cup-why-scotland-are-chosen-as-replacement/articleshow/127388010.cms",
-    "time": "2026-01-24T11:01:20.000Z"
-  },
-  {
     "cat": "Business",
     "title": "U.S. Treasury Secretary hints at possible tariff relief for India as Russian oil imports drop",
     "desc": "Indian purchases by ​their refineries of ⁠Russian oil have collapsed. So that is a success. The tariffs are still on, ‌25% tariffs for Russian oil ‌are still on. I would imagine there ‍is a path to take them off, says U.S. Treasury Secretary ‍Scott Bessent",
@@ -799,33 +835,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/us-treasury-secretary-hints-at-possible-tariff-relief-for-india-as-russian-oil-imports-drop/article70545926.ece",
     "time": "2026-01-24T10:50:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh out of T20 World Cup; Scotland named replacement",
-    "desc": "The ICC has officially replaced Bangladesh with Scotland for the men’s T20 World Cup 2026, starting February 7 in India and Sri Lanka. Scotland will play in Group C with Italy, Nepal, West Indies and England. The move follows Bangladesh’s refusal to tour India over security concerns, which the ICC rejected after risk assessments found no direct threat.",
-    "img": "https://static.toiimg.com/photo/msid-127386064,imgsize-50628.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/scotland-replace-bangladesh-at-t20-world-cup-2026-all-you-need-to-know/articleshow/127384055.cms",
-    "time": "2026-01-24T10:07:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MS Dhoni begins IPL 2026 preparations as CSK legend returns to the nets",
-    "desc": "Chennai Super Kings icon MS Dhoni is back in the nets, preparing for his 17th IPL season in 2026. Despite a challenging 2025 for CSK and a rare lean patch with the bat, the legendary captain, who led India to World Cup glory, is gearing up for another campaign. His enduring presence and leadership remain vital for the franchise.",
-    "img": "https://static.toiimg.com/photo/msid-127385146,imgsize-67410.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ms-dhoni-begins-ipl-2026-preparations-as-csk-legend-returns-to-the-nets-watch/articleshow/127384994.cms",
-    "time": "2026-01-24T09:54:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Border 2' box office collection day 2 (LIVE)",
-    "desc": "'Border 2' has opened strongly, earning Rs 30 crore on its first day, with early Saturday collections reaching Rs 7.1 crore. Despite facing challenges like heavy rainfall and delayed print distribution in some areas, the film ranks among the top openers of the past year.",
-    "img": "https://static.toiimg.com/photo/msid-127381674,imgsize-57676.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-2-live-the-sunny-deol-diljit-dosanjh-varun-dhawan-starrer-expected-to-see-growth-on-saturday-after-a-good-opening-day-number/articleshow/127381652.cms",
-    "time": "2026-01-24T09:03:18.000Z"
   },
   {
     "cat": "Entertainment",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/sri-lanka-gets-the-better-of-england-in-the-opening-odi/article70544202.ece",
     "time": "2026-01-23T21:32:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit on 13-year ICC title drought",
-    "desc": "The former captain, who currently plays in the ODIs only, said the team management headlined by him and former head coach Rahul Dravid wanted to remove the fear by giving everyone freedom and clarity in their roles",
-    "img": "https://th-i.thgim.com/public/incoming/vx5i7x/article70544199.ece/alternates/LANDSCAPE_1200/6744_19_1_2026_9_27_19_1_111_RVM_1718.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/fear-of-failure-might-have-crept-into-all-of-us-rohit-on-13-year-icc-title-drought/article70544198.ece",
-    "time": "2026-01-23T21:19:51.000Z"
   }
 ];
