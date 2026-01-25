@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "'India is not safe for us': BCB's final word as they say 'accept ICC's decision'",
+    "desc": "Bangladesh has accepted the ICC's decision to replace its national team with Scotland in the upcoming T20 World Cup. The Bangladesh Cricket Board cited government advice regarding safety concerns in India as the reason for their refusal to travel. Despite repeated efforts and alternative proposals, the ICC did not agree to relocate Bangladesh's matches.",
+    "img": "https://static.toiimg.com/photo/msid-127455762,imgsize-49112.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-is-not-safe-for-us-bangladesh-cricket-boards-final-word-as-they-say-accept-iccs-decision/articleshow/127455785.cms",
+    "time": "2026-01-25T06:15:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi urges eligible youth to register as voters during Mann Ki Baat",
+    "desc": "Speaking during the 130th episode of his monthly radio programme Mann Ki Baat, Modi highlighted the significance of the upcoming Republic Day and the constitutional values it represents. He also drew attention to the importance of January 25, which is observed as National Voters’ Day, describing it as a key occasion in the democratic calendar.",
+    "img": "https://static.toiimg.com/photo/msid-127455094,imgsize-63066.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-urges-eligible-youth-to-register-as-voters-during-mann-ki-baat/articleshow/127454930.cms",
+    "time": "2026-01-25T06:14:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US snow storm cancelled your flight? Here's what you need to know",
+    "desc": "A powerful winter storm has caused widespread US air travel disruptions, leading to over 13,000 flight cancellations and impacting major airports. Airlines are waiving change fees and offering rebooking options, but compensation for meals or lodging during weather-related cancellations is not guaranteed.",
+    "img": "https://static.toiimg.com/photo/msid-127454490,imgsize-62032.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-snow-storm-cancelled-your-flight-heres-what-you-need-to-know/articleshow/127453142.cms",
+    "time": "2026-01-25T06:04:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi urges active voter participation in 130th Mann Ki Baat address",
+    "desc": "Prime Minister Narendra Modi addressed the 130th Mann Ki Baat on January 25, 2026, coinciding with National Voters' Day and the eve of Republic Day. He urged first-time voters to participate actively and highlighted the decade-long success of the Start-up India initiative, emphasizing the need for quality and excellence in Indian manufacturing and innovation.",
+    "img": "https://static.toiimg.com/photo/msid-127454932,imgsize-554093.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-urges-active-voter-participation-in-130th-mann-ki-baat-address-top-quotes/articleshow/127454815.cms",
+    "time": "2026-01-25T05:59:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Vedanta urges policy push for low-grade iron ore beneficiation",
+    "desc": "India sits on massive low-grade iron ore inventory – estimated at over 300 million tonnes at mine heads – that remains underutilised due to high upfront costs for beneficiation plants and supporting infrastructure, says Sesa Goa CEO Navin Jaju",
+    "img": "https://th-i.thgim.com/public/incoming/c8fi67/article70548956.ece/alternates/LANDSCAPE_1200/2025-07-09T071606Z_1471416140_RC2UIFAYJ32O_RTRMADP_3_VICEROY-RESEARCH-VEDANTA-RESOURCES.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/budget-2026-vedanta-urges-policy-push-for-low-grade-iron-ore-beneficiation/article70548954.ece",
+    "time": "2026-01-25T05:56:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh’s absence from T20 World Cup a sad moment for the game: World Cricketers' Association",
+    "desc": "Rather than allowing division or exclusion to take ‌hold, we call on the game’s leaders to work ‌with all stakeholders, including Governing Bodies, leagues and players, to unite the sport, not divide it..., says World Cricketers' Association (WCA) chief executive Tom Moffat",
+    "img": "https://th-i.thgim.com/public/incoming/3avhw8/article70548927.ece/alternates/LANDSCAPE_1200/Sri_Lanka_Bangladesh_Cricket_28471.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/bangladeshs-absence-from-t20-world-cup-a-sad-moment-for-the-game-world-cricketers-association/article70548915.ece",
+    "time": "2026-01-25T05:42:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yuzvendra Chahal spotted with Shefali Bagga",
+    "desc": "In a surprising turn of events, Yuzvendra Chahal, the well-known Indian cricketer, was seen with Shefali Bagga, a familiar face from 'Bigg Boss 13,' stirring the pot on social media. Just days prior, Chahal and his supposed girlfriend RJ Mahvash had unfollowed each other, with her later sharing enigmatic thoughts about 'life adjustments' and embracing 'tranquility.",
+    "img": "https://static.toiimg.com/photo/msid-127453789,imgsize-40764.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yuzvendra-chahal-and-shefali-bagga-spotted-together-days-after-rumored-partner-rj-mahvash-unfollows-cricketer/articleshow/127453789.cms",
+    "time": "2026-01-25T05:39:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Traitors’: Makers call out cyberbullying in season 4",
+    "desc": "Producers of 'The Traitors' Season 4 have issued a strong statement against cyberbullying and harassment targeting contestants. Amidst intense gameplay and online backlash, particularly involving Lisa Rinna and Colton Underwood, the show emphasizes that in-game actions should not translate to real-world abuse. The message urges viewers to maintain respect for the cast members.",
+    "img": "https://static.toiimg.com/photo/msid-127453784,imgsize-904424.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-traitors-makers-condemn-online-harassment-as-season-4-heats-up/articleshow/127453708.cms",
+    "time": "2026-01-25T05:36:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Removing Mughals from textbooks is nonsense, history must be continuous: Historian Romila Thapar",
+    "desc": "“The kinds of things that are happening, where, for example, chunks of history are being thrown out of the syllabus, or we are told we don’t need to study them, are nonsense. History is a continuous process. It is an evolution of people and cultures, of ways of behaviour and ways of thinking,\" says Ms. Thapar",
+    "img": "https://th-i.thgim.com/public/incoming/byro2s/article70548911.ece/alternates/LANDSCAPE_1200/Romila%20Thapar.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/removing-mughals-from-textbooks-is-nonsense-history-must-be-continuous-historian-romila-thapar/article70548860.ece",
+    "time": "2026-01-25T05:31:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Pakistan misguided Bangladesh': India's World Cup-winner",
+    "desc": "Former India all-rounder Madan Lal backed the ICC's decision to replace Bangladesh with Scotland for the 2026 T20 World Cup, deeming it justified and timely. He suggested external influence led to Bangladesh's withdrawal, calling it a significant mistake that opens opportunities for Scotland.",
+    "img": "https://static.toiimg.com/photo/msid-127453033,imgsize-106236.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistan-misguided-bangladesh-indias-world-cup-winner-slams-bcb-calls-it-a-big-opportunity-for-scotland/articleshow/127452967.cms",
+    "time": "2026-01-25T05:22:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shahid Afridi drags India–Pakistan angle, attacks ICC",
+    "desc": "Shahid Afridi criticises the ICC for its perceived double standards after Bangladesh was removed from the 2026 T20 World Cup. He contrasts this with India's security concerns being accommodated for the 2025 Champions Trophy, highlighting a lack of fairness in global cricket governance.",
+    "img": "https://static.toiimg.com/photo/msid-127451646,imgsize-40176.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/t20-world-cup-row-shahid-afridi-drags-indiapakistan-angle-says-icc-should-build-bridges-not-burn-them/articleshow/127451542.cms",
+    "time": "2026-01-25T04:53:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Fans ride tractors to theatres for 'Border 2'",
+    "desc": "The excitement surrounding 'Border 2' is palpable, especially in Uttar Pradesh where cinema-goers turned heads with a lively procession of colorful tractors en route to the theaters. This war drama, starring the charismatic Sunny Deol, has already captured a staggering Rs 35 crore in its second day of release.",
+    "img": "https://static.toiimg.com/photo/msid-127451283,imgsize-33986.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-sunny-deol-starrer-builds-excitement-as-fans-rally-in-tractors-to-enjoy-the-film-watch/articleshow/127451283.cms",
+    "time": "2026-01-25T04:51:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Trump admin's push for domestic rare earth production, US govt to get 10% stake in USA Rare Earth",
+    "desc": "The US government is investing $1.6 billion in USA Rare Earth, acquiring a 10% stake to support a local mine and magnet production facility. This move aims to bolster domestic rare earth production, with the company also securing $1 billion in private funding. The investment includes government shares and warrants, priced near the company's recent trading levels.",
+    "img": "https://static.toiimg.com/photo/msid-127451333,imgsize-132378.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/trump-admins-push-for-domestic-rare-earth-production-us-govt-to-get-10-stake-in-usa-rare-earth/articleshow/127447673.cms",
+    "time": "2026-01-25T04:47:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "6 new OTT releases to watch this week, ahead of Republic Day",
+    "desc": "This Republic Day week brings a thrilling lineup of OTT releases across Hindi, English, and South Indian cinema. From the gritty smuggling world of 'Taskaree' and the pulse-racing heist of 'Steal' to the emotional depth of 'Sirai' and the suspense of 'Cheekatilo', there's something for every mood.",
+    "img": "https://static.toiimg.com/photo/msid-127447252,imgsize-780681.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/6-new-ott-releases-to-watch-this-week-ahead-of-republic-day/articleshow/127125718.cms",
+    "time": "2026-01-25T04:33:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "A$AP Rocky says dating matters, even with kids",
+    "desc": "Hollywood's power couple, A$AP Rocky and Rihanna, are keeping their romance alive with dates and fun activities, even after welcoming three children. Rocky revealed they still play games and go on outings, proving their bond remains strong. Despite marriage rumors, the couple, who met during the pandemic, emphasizes their deep connection and readiness for family life.",
+    "img": "https://static.toiimg.com/photo/msid-127450396,imgsize-33508.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/while-raising-three-kids-aap-rocky-and-rihanna-focus-on-romanticizing-their-relationship-youve-got-to-still-date/articleshow/127450396.cms",
+    "time": "2026-01-25T04:31:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Voter a Bhagya Vidhata': PM Modi greets citizens on  National Voters’ Day",
+    "desc": "National Voters’ Day is observed annually on January 25 to mark the foundation day of the Election Commission of India (ECI), established in 1950. The day aims to recognise voters, encourage youth participation, reinforce democratic values, and promote universal adult suffrage. In a post on X, the Prime Minister said National Voters’ Day is about “further deepening our faith in the democratic values of our nation”.",
+    "img": "https://static.toiimg.com/photo/msid-127449724,imgsize-46102.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/voter-a-bhagya-vidhata-pm-modi-greets-citizens-on-national-voters-day/articleshow/127449028.cms",
+    "time": "2026-01-25T04:23:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Border 2': Mona Singh says, 'Thank you for all the love'",
+    "desc": "'Border 2' is captivating audiences and igniting fervent debates about its themes. Mona Singh, one of the film’s stars, took to social media to show appreciation for the love poured in by fans, offering a peek into her experiences with co-stars such as Sunny Deol.",
+    "img": "https://static.toiimg.com/photo/msid-127449756,imgsize-51434.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-win-hearts-mona-singh-turns-emotional-says-thank-you-for-all-the-love/articleshow/127449756.cms",
+    "time": "2026-01-25T04:20:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'ICC gave Bangladesh warning'",
+    "desc": "Virat Kohli's childhood coach, Rajkumar Sharma, supports the ICC's decision to replace Bangladesh with Scotland in the T20 World Cup 2026. This follows Bangladesh's refusal to participate as scheduled, citing security concerns that the ICC and independent assessments found unsubstantiated. The ICC's move aims to maintain tournament integrity and avoid setting problematic precedents.",
+    "img": "https://static.toiimg.com/photo/msid-127449983,imgsize-79084.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/t20-world-cup-row-icc-gave-bangladesh-warning-virat-kohlis-coach-slams-bangladesh/articleshow/127449949.cms",
+    "time": "2026-01-25T04:20:41.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Jewellery sector seeks duty rationalisation, reforms and GST cuts",
     "desc": "India's gems and jewellery industry is pushing for GST cuts, customs reforms, and policy changes in the Union Budget 2026-2027 to boost exports and competitiveness. Key demands include rationalizing GST on gold and silver jewellery to 1.25% and operationalizing the Tourist GST Refund scheme to attract foreign buyers.",
@@ -25,6 +187,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ben-affleck-and-brooks-nader-are-dating-model-shuts-down-the-rumours-never-met-him/articleshow/127447918.cms",
     "time": "2026-01-25T03:37:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Amid cheating claims, Palash Muchhal deletes all Smriti Mandhana photos",
+    "desc": "Music composer Palash Muchhal faces renewed cheating allegations from actor-producer Vidnyan Mane, a friend of Smriti Mandhana. Mane claims Muchhal was caught with another woman during pre-wedding festivities, leading to a physical confrontation with cricketers. Muchhal has denied these claims, initiating a Rs 10 crore defamation suit against Mane. Several Instagram posts featuring Mandhana have also been removed.",
+    "img": "https://static.toiimg.com/photo/msid-127447851,imgsize-90576.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/amid-cheating-claims-palash-muchhal-deletes-all-smriti-mandhana-photos/articleshow/127447836.cms",
+    "time": "2026-01-25T03:36:44.000Z"
   },
   {
     "cat": "Entertainment",
@@ -315,24 +486,6 @@ const newsData_en = [
     "time": "2026-01-24T19:54:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Irrfan was offered 'Airlift' first, here's why he suggested Akshay",
-    "desc": "Director Raja Krishna Menon initially approached Irrfan Khan for the lead role in 'Airlift'. However, Irrfan suggested Akshay Kumar, believing the film required a larger budget. Menon then met with Akshay, who enthusiastically agreed to star in the critically acclaimed film after a 40-minute narration.",
-    "img": "https://static.toiimg.com/photo/msid-127424075,imgsize-96690.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/irrfan-was-offered-airlift-first-but-heres-why-he-suggested-akshay-kumars-name-for-the-film-you-wont-get-the-budget/articleshow/127423797.cms",
-    "time": "2026-01-24T19:47:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "KJo lied to Rishi Kapoor when he went to attend Aditya-Rani's wedding",
-    "desc": "Filmmaker Karan Johar revealed intimate details about his friendship with Rani Mukerji and her husband, Aditya Chopra, during a recent conversation. Johar described Chopra as a near-mythical figure, admitting he still feels intimidated by him. He also shared a humorous anecdote about lying to Rishi Kapoor about Rani and Aditya's secret wedding in Italy.",
-    "img": "https://static.toiimg.com/photo/msid-127421916,imgsize-30956.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-lied-to-rishi-kapoor-as-he-went-to-attend-rani-mukerji-aditya-chopras-wedding-in-italy-he-caught-me-and-asked-me-why/articleshow/127421804.cms",
-    "time": "2026-01-24T19:14:24.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Minister Satya Kumar Yadav",
     "desc": "The Minister said that within a short period, AIIMS-Mangalagiri have gained the trust of patients and said that out of the total 26 AIIMS in the country, 19 were operational and the remaining were in various stages of construction",
@@ -387,15 +540,6 @@ const newsData_en = [
     "time": "2026-01-24T17:56:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Palash files defamation case of Rs 10 crore on Vidnyan after cheating allegations",
-    "desc": "Music composer Palash Muchhal has filed a ₹10 crore defamation case against Sangli-based producer Vidnyan Mane. Mane had accused Muchhal of duping him of ₹40 lakh in a film project and also alleged he cheated on cricketer Smriti Mandhana. Mane claimed Muchhal promised profits and a role in his film 'Nazaria', but the project was never completed.",
-    "img": "https://static.toiimg.com/photo/msid-127415004,imgsize-29964.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/palash-muchhal-files-defamation-case-of-rs-10-crore-on-vidnyan-mane-after-his-accusations-of-cheating-on-smriti-mandhana-and-being-caught-red-handed-in-bed-with-another-woman/articleshow/127414926.cms",
-    "time": "2026-01-24T17:38:34.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Migrant worker from Beldanga ‘died by suicide’ in Jharkhand, says West Bengal Police",
     "desc": "Violence erupted at Beldanga in Murshidabad on January 16 over the death of 30-year-old migrant worker Alauddin Sheikh; a large number of people took to the streets by blocking railway tracks and national highway for several hours",
@@ -441,15 +585,6 @@ const newsData_en = [
     "time": "2026-01-24T16:50:14.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Singer of SRK's popular song got paid only Rs10,000: 'A-list singers get Rs 3 crore",
-    "desc": "Playback singer Krishna Beura revealed a stark pay disparity in Bollywood, stating he was paid as little as Rs 10,000 or nothing for hit songs. He highlighted the absence of a minimum wage for singers, noting that only top-tier artists command substantial fees, while those who demand fair compensation risk losing work.",
-    "img": "https://static.toiimg.com/photo/msid-127411772,imgsize-44506.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/singer-of-shah-rukh-khans-chak-de-india-song-maula-mere-opens-up-on-pay-disparity-he-got-paid-rs-10000-says-a-list-singers-charge-rs-3-crore-per-song/articleshow/127410778.cms",
-    "time": "2026-01-24T16:49:23.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "India's youth must remain prepared to take on every challenge: Rajnath",
     "desc": "The Defence Minister described NCC cadets as the nation’s second line of defence and urged them to contribute to Modi-led government’s vision of making India a developed nation by 2047, while addressing a gathering of cadets in Delhi Cantonment",
@@ -478,15 +613,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "77th R-Day parade: MHA tableau to showcase India’s new criminal laws, tech-driven justice reforms",
-    "desc": "In a vibrant display at the Republic Day parade, the Union Home Ministry will unveil a captivating tableau that symbolizes the transformation of India's justice system. Say goodbye to outdated colonial laws; the spotlight will be on the innovative Bharatiya Nyaya Sanhita, Bharatiya Nagarik Suraksha Sanhita, and Bharatiya Sakhsya Adhiniyam.",
-    "img": "https://static.toiimg.com/photo/msid-127409006,imgsize-731686.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/77th-r-day-parade-mha-tableau-to-showcase-indias-new-criminal-laws-tech-driven-justice-reforms/articleshow/127408742.cms",
-    "time": "2026-01-24T16:05:16.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "RT-PCR tests conducted on bats at Kolkata zoo",
     "desc": "Samples have recently been collected from bat populations in Madhyamgram, Barasat and Basirhat in West Bengal; Alipore Zoo remains the only facility in Kolkata that houses a bat enclosure, prompting health authorities to include it in the surveillance drive",
     "img": "https://th-i.thgim.com/public/incoming/tg0pg/article70547075.ece/alternates/LANDSCAPE_1200/20251214186L.jpg",
@@ -502,15 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/u19-world-cup-ayush-mhatre-stars-as-india-outpower-new-zealand-to-stay-unbeaten/articleshow/127404598.cms",
     "time": "2026-01-24T15:59:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CEC",
-    "desc": "Chief Election Commissioner Gyanesh Kumar highlighted the success of Bihar's special intensive revision process, leading to zero appeals and record 67% turnout. He emphasized the Election Commission's dynamic approach to ensuring electoral integrity and accessibility, while urging youth to combat misinformation and announcing a new youth-centric program.",
-    "img": "https://static.toiimg.com/photo/msid-127408312,imgsize-720416.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/young-voters-must-counter-misinformation-and-false-narratives-cec/articleshow/127408362.cms",
-    "time": "2026-01-24T15:59:07.000Z"
   },
   {
     "cat": "Business",
@@ -529,15 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/punjab/akali-dal-plans-to-start-campaigns-early-for-2027-punjab-assembly-polls/article70546218.ece",
     "time": "2026-01-24T15:53:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sports nurture discipline, confidence among children: Delhi CM",
-    "desc": "Delhi CM Rekha Gupta, during her address at DPS's vibrant sports day, celebrated the integral role of sports in nurturing essential life skills in students. She inspired them to strive for balance between academic excellence and athletic participation, emphasizing how their dedication can resonate positively within their families and society.",
-    "img": "https://static.toiimg.com/photo/msid-127407983,imgsize-692920.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sports-nurture-discipline-confidence-among-children-delhi-cm/articleshow/127407907.cms",
-    "time": "2026-01-24T15:48:38.000Z"
   },
   {
     "cat": "Sports",
@@ -585,15 +693,6 @@ const newsData_en = [
     "time": "2026-01-24T15:12:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Will find solution to human-elephant conflict: HDK to people of Hassan",
-    "desc": "Former Prime Minister H.D Deve Gowda says he wishes to ensure an Indian Institute of Technology (IIT) is sanctioned for Hassan, and that both the IIT and Hassan Airport are inaugurated together by Prime Minister Narendra Modi",
-    "img": "https://th-i.thgim.com/public/incoming/np8wz7/article70546694.ece/alternates/LANDSCAPE_1200/9911_24_1_2026_17_58_53_3_1114.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/will-find-solution-to-human-elephant-conflict-hdk-to-people-of-hassan/article70546487.ece",
-    "time": "2026-01-24T14:45:36.000Z"
-  },
-  {
     "cat": "Business",
     "title": "‘Will completely devour it’: Trump threatens 100% tariffs if Canada makes deal with China; warns ‘governor’ Carney",
     "desc": "US President Donald Trump delivered a pointed ultimatum to Canada, threatening to impose 100% tariffs on Canadian goods should Prime Minister Mark Carney pursue partnerships with China. \"If Governor Carney thinks he is going to make Canada a “Drop Off Port” for China to send goods and products into the United States, he is sorely mistaken,\" said Trump on Truth Social.",
@@ -621,15 +720,6 @@ const newsData_en = [
     "time": "2026-01-24T14:16:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Seema on Salman's support during amicable divorce with Sohail",
-    "desc": "Seema Jajdeh revealed her amicable divorce from Sohail Khan, attributing it to growing apart after marrying young. She highlighted the unwavering support from Sohail's family, including Salman Khan, throughout their separation and her subsequent depression. Seema emphasized their continued family bond for their children's sake.",
-    "img": "https://static.toiimg.com/photo/msid-127401838,imgsize-38304.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/seema-sajdeh-opens-up-on-amicable-divorce-with-sohail-khan-recalls-salman-khan-and-the-familys-support-during-that-time-you-guys-may-separate-or-not-/articleshow/127401823.cms",
-    "time": "2026-01-24T14:11:08.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ICC replaces Bangladesh with Scotland; all eyes on Pakistan now",
     "desc": "The ICC has confirmed that Bangladesh will not take part in the T20 World Cup after the BCB refused to play under the published schedule. Scotland have been officially named as their replacement and will compete in Group C alongside England, Italy, Nepal and West Indies. The announcement was made on Saturday, bringing clarity to weeks of uncertainty over Bangladesh’s participation in the tournament.",
@@ -646,15 +736,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/novak-djokovic-becomes-first-player-to-reach-400-grand-slam-wins-equals-roger-federers-australian-open-record/articleshow/127400377.cms",
     "time": "2026-01-24T13:50:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "RGV on Rahman's communal comment: 'Industry is all about money'",
-    "desc": "AR Rahman's recent comments about a perceived communal shift in Bollywood and the film 'Chhaava' have sparked debate. Director Ram Gopal Varma, while acknowledging Rahman's personal experiences, stated his belief that the film industry primarily prioritizes financial success over an individual's background, citing SP Balasubrahmanyam's career as an example.",
-    "img": "https://static.toiimg.com/photo/msid-127400397,imgsize-32600.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-doesnt-agree-with-ar-rahmans-communal-comment-film-industry-is-only-about-money-when-sp-balasubrahmanyam-was-taken-for-maine-pyar-kiya-/articleshow/127400223.cms",
-    "time": "2026-01-24T13:47:21.000Z"
   },
   {
     "cat": "Sports",
@@ -703,24 +784,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Heat break turns the tide as Bhambri, Goransson storm into last 16",
-    "desc": "Yuki Bhambri and Andre Goransson staged a comeback to defeat Santiago Gonzalez and David Pel 4-6, 7-6 (5), 6-3 in the Australian Open men's doubles. Play was halted for nearly four hours due to the heat rule, after which the tenth seeds found their rhythm. They advanced to face Brazil's Luz and Matos in the round of 16.",
-    "img": "https://static.toiimg.com/photo/msid-127393574,imgsize-906648.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/australian-open-heat-break-turns-the-tide-as-yuki-bhambri-andre-goransson-storm-into-last-16/articleshow/127393363.cms",
-    "time": "2026-01-24T12:04:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Heat, cramps and chaos: Sinner survives Melbourne furnace to reach fourth round",
-    "desc": "Jannik Sinner battled severe heat and cramping at the Australian Open, struggling against Eliot Spizzirri before a heat-induced roof closure and break allowed him to recover. He ultimately secured a tough 4-6, 6-3, 6-4, 6-4 victory. Meanwhile, veteran Stan Wawrinka's impressive run ended as he was defeated by Taylor Fritz.",
-    "img": "https://static.toiimg.com/photo/msid-127392593,imgsize-80300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/heat-cramps-and-chaos-jannik-sinner-survives-melbourne-furnace-to-reach-fourth-round/articleshow/127392653.cms",
-    "time": "2026-01-24T11:47:03.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Why Scotland are chosen as Bangladesh's replacement",
     "desc": "Bangladesh have been officially replaced by Scotland in the T20 World Cup after the ICC ruled that BCB’s demands did not align with its policy. ICC CEO Sanjog Gupta informed the Board and invited Scotland, citing their strong recent performances and No.14 ranking. Scotland, seen as the most deserving associate team, will play in Group C with matches in Kolkata and Mumbai.",
     "img": "https://static.toiimg.com/photo/msid-127388574,imgsize-77850.cms",
@@ -736,15 +799,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/us-treasury-secretary-hints-at-possible-tariff-relief-for-india-as-russian-oil-imports-drop/article70545926.ece",
     "time": "2026-01-24T10:50:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Samson in trouble? Ex-India batter questions keeper's place after Kishan heroics",
-    "desc": "Former India batter Aakash Chopra questions Sanju Samson's T20I spot against New Zealand, citing repeated dismissals. Despite India's series lead, Samson's struggles, particularly his driving shots, are concerning. With Ishan Kishan in form and the T20 World Cup approaching, Samson faces mounting pressure to perform, even on his home ground.",
-    "img": "https://static.toiimg.com/photo/msid-127388382,imgsize-211956.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/sanju-samson-in-trouble-ex-india-batter-questions-keepers-place-after-ishan-kishan-heroics/articleshow/127388275.cms",
-    "time": "2026-01-24T10:47:15.000Z"
   },
   {
     "cat": "Sports",
@@ -810,33 +864,6 @@ const newsData_en = [
     "time": "2026-01-24T06:12:04.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Fast-tracked visas await 2026 T20 World Cup fans",
-    "desc": "World Cup 2026 attendees can expect faster US visas. Brand USA is facilitating the process for ticket holders. Curated experiences like road trips on Route 66 are planned. Indian travelers will find familiar communities in host cities like New Jersey and New York. AI tools will assist in planning multi-city itineraries for the event.",
-    "img": "https://static.toiimg.com/photo/msid-127368742,imgsize-21418.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/fast-tracked-visas-await-2026-t20-world-cup-fans/articleshow/127368767.cms",
-    "time": "2026-01-24T06:00:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "EU-India trade deal: European Union VP Kaja Kallas arrives in Delhi",
-    "desc": "EU Vice-President Kaja Kallas arrived in New Delhi for her first official visit, aiming to strengthen the India-EU Strategic Partnership. The visit precedes the 16th India-EU Summit and coincides with advanced negotiations for a Free Trade Agreement, highlighting deepening cooperation in security, defense, and trade.",
-    "img": "https://static.toiimg.com/photo/msid-127366548,imgsize-966657.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/eu-india-trade-deal-european-union-vp-kaja-kallas-arrives-in-delhi/articleshow/127363962.cms",
-    "time": "2026-01-24T05:30:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Revealed! Why Suryakumar Yadav was angry at Ishan Kishan",
-    "desc": "Suryakumar Yadav lauded Ishan Kishan's fearless batting after India's seven-wicket win over New Zealand. Kishan's aggressive 76 and Yadav's 82 powered a remarkable chase, reflecting the team's desired free-flowing approach. Despite bowling struggles, the team restricted New Zealand to a manageable total.",
-    "img": "https://static.toiimg.com/photo/msid-127356032,imgsize-100970.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/revealed-why-suryakumar-yadav-was-angry-at-ishan-kishan-during-2nd-t20i/articleshow/127355958.cms",
-    "time": "2026-01-24T02:57:49.000Z"
-  },
-  {
     "cat": "World",
     "title": "Ukraine, Russia hold first direct talks on latest U.S. peace plan",
     "desc": "The U.S. initially drafted a plan to end the conflict that was heavily criticised in Kyiv and western Europe for being too close to Russia's line, while later proposals were criticised by Moscow for floating the idea of European peacekeepers",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/fear-of-failure-might-have-crept-into-all-of-us-rohit-on-13-year-icc-title-drought/article70544198.ece",
     "time": "2026-01-23T21:19:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sindhu, Lakshya lose in quarterfinals; Indian challenge ends in Indonesia Masters",
-    "desc": "Sindhu, a two-time Olympic medallist, lost to top seed and world number four Chen Yu Fei of China 13-21 17-21 in the quarterfinal contest that lasted 42 minutes to bow out of the Super 500 event",
-    "img": "https://th-i.thgim.com/public/incoming/joq07x/article70544197.ece/alternates/LANDSCAPE_1200/PTI01_14_2026_000566A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/sindhu-lakshya-lose-in-quarterfinals-indian-challenge-ends-in-indonesia-masters/article70544195.ece",
-    "time": "2026-01-23T21:04:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh appeal can't be heard by ICC's DRC; Scotland to be named as replacement by January 24",
-    "desc": "Even as the ICC has kept Scotland on stand-by, the BCB under Aminul Islam Bulbul, after being completely cornered, decided to use its last resort — approach the DRC headed by Englishman Michael Beloff (Kings Counsel)",
-    "img": "https://th-i.thgim.com/public/sport/tennis/p2t4mc/article70545230.ece/alternates/LANDSCAPE_1200/MichaelBeloff.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/bangladesh-appeal-cant-be-heard-by-iccs-drc-scotland-to-be-named-as-replacement-by-january-24/article70544129.ece",
-    "time": "2026-01-23T19:30:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Linkin Park’s debut tour of India kicks off with a performance in Bengaluru",
-    "desc": "The American rock band took the stage as part of the From Zero World Tour. The standalone gig was a power-packed performance with songs from the band'’ new album, and chart toppers Numb and In The End",
-    "img": "https://th-i.thgim.com/public/news/cities/bangalore/rvvvdi/article70545422.ece/alternates/LANDSCAPE_1200/PG_LP_BLR_23JAN10.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/linkin-parks-debut-tour-of-india-kicks-off-with-a-performance-in-bengaluru/article70532992.ece",
-    "time": "2026-01-23T19:07:30.000Z"
   }
 ];

@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Carlos Alcaraz's Australian Open clash halted due to medical emergency; Check details",
+    "desc": "World number one Carlos Alcaraz took on world number 19 Tommy Paul in round four of the ongoing Australian Open 2026. The stars locked horns on January 25, and the game was stopped midway through...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-s-australian-open-clash-halted-due-to-medical-emergency-check-details-2026-01-25-1027380",
+    "time": "2026-01-25T05:30:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "IND vs NZ, Guwahati, weather report: Will rain spoil 3rd T20I of the multi-format series?",
     "desc": "India and New Zealand continue their ongoing five-game T20I series by taking on each other in the third T20I. The two sides will take on each other at the Barsapara Stadium in Guwahati on January...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/which-team-will-replace-pakistan-if-they-pull-out-of-t20-world-cup-2026-to-support-bangladesh-2026-01-24-1027333",
     "time": "2026-01-24T14:09:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan to boycott T20 World Cup 2026 to support Bangladesh? Mohsin Naqvi reveals",
-    "desc": "The future of Pakistan's participation in the 2026 T20 World Cup remains uncertain, with the country's cricket board waiting for clear instructions from the government before making a final decision. Pakistan Cricket Board (PCB) chairman...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-to-boycott-t20-world-cup-2026-to-support-bangladesh-mohsin-naqvi-reveals-2026-01-24-1027329",
-    "time": "2026-01-24T13:42:40.000Z"
   }
 ];
