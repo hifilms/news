@@ -1,7 +1,25 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Red-hot India look to seal series in Guwahati against New Zealand",
+    "title": "Why are Varun Chakravarthy and Arshdeep Singh not playing in IND vs NZ 3rd T20I? Revealed",
+    "desc": "Varun Chakravarthy and Arshdeep Singh missed out as India take on New Zealand in the third T20I of the five-match series at the Barsapara Cricket Stadium, Guwahati on Sunday, January 25. The red-hot Indian team look...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-are-varun-chakravarthy-and-arshdeep-singh-not-playing-in-ind-vs-nz-3rd-t20i-revealed-2026-01-25-1027434",
+    "time": "2026-01-25T13:57:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma, Harmanpreet Kaur to be conferred with Padma Awards",
+    "desc": "Former India captain Rohit Sharma and current women's team skipper Harmanpreet Kaur are among the nine sportspersons who will be receiving Padma Awards for the year 2026, a press release from the Ministry of Home Affairs...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-harmanpreet-kaur-to-be-conferred-with-padma-awards-2026-01-25-1027427",
+    "time": "2026-01-25T12:51:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India keep New Zealand to 153/9 as bowlers star in Guwahati",
     "desc": "India are in red-hot form in their final series ahead of the T20 World Cup 2026 as their batters have fired in both games. They did extremely well batting first in the series opener in...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/icc-warns-pakistan-of-severe-repercussions-over-t20-world-cup-2026-boycott-conundrum-report-2026-01-25-1027390",
     "time": "2026-01-25T06:55:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Carlos Alcaraz's Australian Open clash halted due to medical emergency; Check details",
-    "desc": "World number one Carlos Alcaraz took on world number 19 Tommy Paul in round four of the ongoing Australian Open 2026. The stars locked horns on January 25, and the game was stopped midway through...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-s-australian-open-clash-halted-due-to-medical-emergency-check-details-2026-01-25-1027380",
-    "time": "2026-01-25T05:30:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND vs NZ, Guwahati, weather report: Will rain spoil 3rd T20I of the multi-format series?",
-    "desc": "India and New Zealand continue their ongoing five-game T20I series by taking on each other in the third T20I. The two sides will take on each other at the Barsapara Stadium in Guwahati on January...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-guwahati-weather-report-will-rain-spoil-3rd-t20i-of-the-multi-format-series-2026-01-25-1027367",
-    "time": "2026-01-25T03:41:49.000Z"
   }
 ];
