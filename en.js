@@ -1,5 +1,131 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'Menopause made me feel like a phone with a faulty charger'",
+    "desc": "Author and former actor Twinkle Khanna, who is also the wife of Akshay Kumar, has spoken candidly about her health and wellness journey as she navigates menopause. Taking to Instagram on Sunday, Twinkle shared make-up-free pictures from her home and penned a long, honest note about ageing, fitness and Hormone Replacement Therapy (HRT).",
+    "img": "https://static.toiimg.com/photo/msid-127501629,imgsize-48088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/twinkle-khanna-opens-up-about-ageing-health-journey-and-hrt-at-52-menopause-made-me-feel-like-a-phone-with-a-faulty-charger/articleshow/127501535.cms",
+    "time": "2026-01-25T20:29:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Bond market funds 76% of states' deficit, up from 50% in FY17",
+    "desc": "Indian states' fiscal deficits are widening slightly, with market borrowing now funding the majority of their needs. Funding patterns are becoming more disciplined, with longer-term securities and lower borrowing costs. However, demographic shifts are creating distinct fiscal challenges and opportunities for younger versus older states.",
+    "img": "https://static.toiimg.com/photo/msid-127501395,imgsize-1042814.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/bond-market-funds-76-of-states-deficit-up-from-50-in-fy17/articleshow/127501220.cms",
+    "time": "2026-01-25T20:19:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘One of the perpetrators was my father’s friend’",
+    "desc": "Aditi Govitrikar, the first Indian woman to win the Mrs World title in 2001, has spoken candidly about facing abusive experiences at a very young age. In a recent interview, the actor and model reflected on safety, childhood trauma, and how those moments shaped her instincts and resilience over the years.",
+    "img": "https://static.toiimg.com/photo/msid-127500078,imgsize-29516.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditi-govitrikar-opens-up-about-childhood-abuse-public-transport-survival-says-one-of-the-perpetrators-was-my-fathers-friend/articleshow/127499944.cms",
+    "time": "2026-01-25T19:56:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Consumer industry captains seek more tax cuts to support demand",
+    "desc": "India's consumer goods chiefs are urging the government for tax cuts and measures to boost middle-class purchasing power to sustain consumption recovery. They seek support for local industries against volatile commodity prices and stable input costs, aiming to prevent price hikes for consumers. Increased disposable incomes and infrastructure investments are also key demands.",
+    "img": "https://static.toiimg.com/photo/msid-127500341,imgsize-681418.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/consumer-industry-captains-seek-more-tax-cuts-to-support-demand/articleshow/127500125.cms",
+    "time": "2026-01-25T19:56:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "FPIs seek review of taxes faced by them, say some face double taxation",
+    "desc": "Foreign investors are urging a review of India's tax policies, particularly capital gains, citing high trading costs and potential double taxation. They argue that the reintroduction of long-term capital gains tax, coupled with difficulties in claiming foreign tax credits, makes India less attractive. Concerns also include computation issues and refund delays, contributing to significant FPI outflows.",
+    "img": "https://static.toiimg.com/photo/msid-127499976,imgsize-856382.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/fpis-seek-review-of-taxes-faced-by-them-say-some-face-double-taxation/articleshow/127499774.cms",
+    "time": "2026-01-25T19:48:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Key sectors eye zero-duty EU access",
+    "desc": "India and the EU are poised to announce a free trade agreement, with domestic industries pushing for zero-duty access in sectors like textiles and leather to better compete with nations like Bangladesh and Vietnam. While the auto sector seeks protection against Chinese EVs, mobility-related easing for professionals is also anticipated.",
+    "img": "https://static.toiimg.com/photo/msid-127499561,imgsize-428410.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/key-sectors-eye-zero-duty-eu-access/articleshow/127499411.cms",
+    "time": "2026-01-25T19:41:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India’s air superiority during Operation Sindoor made Pakistan call for truce: European think-tank",
+    "desc": "A European military analysis reveals India achieved air superiority during Operation Sindoor. This 88-hour operation in May 2025 forced Pakistan to seek a ceasefire. The report highlights the effectiveness of India's integrated air defence system. It also notes the loss of an Indian Rafale fighter jet. The conflict involved advanced aircraft and sophisticated air defence networks.",
+    "img": "https://static.toiimg.com/photo/msid-127498867,imgsize-552576.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/indias-air-superiority-during-operation-sindoor-made-pakistan-call-for-truce-european-think-tank/articleshow/127498896.cms",
+    "time": "2026-01-25T19:29:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rhinos roamed Western Ghats foothills 3,500 years ago: Study",
+    "desc": "Archaeologists discovered Indian rhino bone fragments at a neolithic site near Coimbatore, dating back approximately 3,500 years. This finding suggests rhinos once roamed the Western Ghats, expanding their known historical range beyond current habitats in Assam and the north-eastern plains.",
+    "img": "https://static.toiimg.com/photo/msid-127498626,imgsize-2036316.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rhinos-roamed-western-ghats-foothills-3500-years-ago-study/articleshow/127498550.cms",
+    "time": "2026-01-25T19:26:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Astronaut Shukla gets Ashok Chakra for historic ISS mission; Prez clears VSM for Col Sofia Qureshi who helped counter false Pak narratives during Op Sindoor",
+    "desc": "Group Captain Shubhanshu Shukla, India's first astronaut to reach the ISS, has been awarded the Ashok Chakra for his historic 18-day mission and extensive scientific experiments. This prestigious honour, announced on the eve of Republic Day, recognizes his exceptional courage and service. Shukla is also a leading candidate for India's Gaganyaan mission.",
+    "img": "https://static.toiimg.com/photo/msid-127498320,imgsize-567125.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/astronaut-shukla-gets-ashok-chakra-for-historic-iss-mission-prez-clears-vsm-for-col-sofia-qureshi-who-helped-counter-false-pak-narratives-during-op-sindoor/articleshow/127497973.cms",
+    "time": "2026-01-25T19:20:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Shibu Soren is and will forever remain 'Bharat Ratna': Jharkhand CM on Padma Bhushan to father",
+    "desc": "A statement from the Jharkhand Mukti Morcha said Shibu Soren should have been conferred with Bharat Ratna, and not Padma Bhushan, and said the demand for Bharat Ratna for him would continue to be raised",
+    "img": "https://th-i.thgim.com/public/incoming/ulti0g/article70550877.ece/alternates/LANDSCAPE_1200/PTI01_11_2026_000539B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jharkhand/shibu-soren-is-and-will-forever-remain-bharat-ratna-jharkhand-cm-on-padma-bhushan-to-father/article70550847.ece",
+    "time": "2026-01-25T19:15:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Poonch man arrested for offensive online post",
+    "desc": "Poonch Police apprehended a 60-year-old man for allegedly posting inflammatory social media content that threatened public order and communal harmony. The accused's offensive post reportedly caused widespread resentment among a particular community. Authorities have initiated legal proceedings and issued an advisory warning citizens against similar online actions.",
+    "img": "https://static.toiimg.com/photo/msid-127497388,imgsize-502506.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/poonch-man-arrested-for-offensive-online-post/articleshow/127497408.cms",
+    "time": "2026-01-25T19:01:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhurandhar actor R Madhavan reacts to Padma Shri honour",
+    "desc": "R Madhavan has expressed “gratitude and humility” after being named a Padma Shri awardee. Taking to Instagram, the actor dedicated the prestigious honour to his family, mentors, well-wishers and the public, acknowledging that their support and belief have been central to his journey.",
+    "img": "https://static.toiimg.com/photo/msid-127497245,imgsize-24548.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-actor-r-madhavan-reacts-to-padma-shri-honour-says-it-is-beyond-my-wildest-dreams/articleshow/127497160.cms",
+    "time": "2026-01-25T18:58:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "From Gulmarg snow slopes, Omar seeks re-merger of union territory of Ladakh with Jammu &amp; Kashmir",
+    "desc": "J&K CM Omar Abdullah called for Ladakh's re-merger with the state, welcoming the BJP's rejection of further bifurcation. He also opposed dividing Jammu, attributing such theories to BJP legislators and their Kashmiri allies. The statements follow a debate on J&K's future after the abrogation of Article 370.",
+    "img": "https://static.toiimg.com/photo/msid-127497180,imgsize-741834.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/from-gulmarg-snow-slopes-omar-seeks-re-merger-of-union-territory-of-ladakh-with-jammu-kashmir/articleshow/127497007.cms",
+    "time": "2026-01-25T18:57:24.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Russia captures another village in northeastern Ukraine, Defence Ministry says",
+    "desc": "Ukraine’s DeepState military blog, which uses open-source reports to track ‌the positions of both armies, ‌made no mention of the village in a report on January 23, but ‍said Russian forces “are continuing their pressure in the Vovchansk area.”",
+    "img": "https://th-i.thgim.com/public/incoming/60scob/article70550831.ece/alternates/LANDSCAPE_1200/2026-01-19T173557Z_1715354956_RC2D4JA3IE37_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KHARKIV.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/russia-captures-another-village-in-northeastern-ukraine-defence-ministry-says/article70550142.ece",
+    "time": "2026-01-25T18:21:20.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Relentless Saina pushes limits, shows the way for Gen Next",
     "desc": "The badminton ace bows out of the international aren aon her own terms after a storied career, whose seeds were sown at the Philippines Open in 2006; the 2012 London Olympics bronze medallist held the door open long enough for others to walk in",
@@ -244,15 +370,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Religious ecstasy marks ‘Ratha Saptami’ in Tirumala",
-    "desc": "Traffic mismanagement dents the festive spirit, with pilgrims facing lot of hardship following blocking of all arterial roads leading to the mada streets and prolonged snarls consequent to haphazard parking of vehicles on the ORR",
-    "img": "https://th-i.thgim.com/public/incoming/6yp3xn/article70550062.ece/alternates/LANDSCAPE_1200/9604_25_1_2026_11_15_11_1_IMG_20260125_WA0010.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/religious-ecstasy-marks-ratha-saptami-in-tirumala/article70549690.ece",
-    "time": "2026-01-25T14:14:42.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "President Droupadi Murmu celebrates citizens’ role in nation-building on Republic Day eve– Top quotes",
     "desc": "President Droupadi Murmu, on the Republic Day's eve, lauded India's democratic ideals, national heroes like Netaji Bose, and citizen contributions. She highlighted women's achievements, farmer's role, tribal empowerment, economic growth, and digital India's success. The address underscored collective efforts in building a stronger, self-reliant nation, inspiring national pride and unity.",
     "img": "https://static.toiimg.com/photo/msid-127479290,imgsize-66308.cms",
@@ -477,15 +594,6 @@ const newsData_en = [
     "time": "2026-01-25T10:08:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Karnataka's Anke Gowda to be awarded Padma Shri for creating India's largest free-access library",
-    "desc": "Gowda, a former bus conductor from Karnataka, founded Pustakamane with the aim of making books accessible to people from remote and marginalised communities. Over the years, the initiative has grown into a vast repository of more than two million books in over 20 languages, including rare manuscripts and historical texts.",
-    "img": "https://static.toiimg.com/photo/msid-127466124,imgsize-44004.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/karnatakas-anke-gowda-to-be-awarded-padma-shri-for-creating-indias-largest-free-access-library/articleshow/127465891.cms",
-    "time": "2026-01-25T10:07:08.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "BCB says 'wanted to play' but govt said no to India travel",
     "desc": "Bangladesh has been removed from the ICC Men's T20 World Cup 2026 after the government refused to grant clearance for the team to travel to India due to security concerns. Despite BCB's attempts to relocate matches, the ICC upheld the original fixtures, leading to Scotland's replacement.",
@@ -502,24 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/why-were-india-allowed-former-pakistan-coach-blasts-icc-after-bangladesh-world-cup-exit/articleshow/127466319.cms",
     "time": "2026-01-25T09:48:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Evil, corrupt forces won't rule': TVK chief Vijay targets DMK, AIADMK ahead of 2026 polls; unveils party symbol 'whistle'",
-    "desc": "TVK chief Vijay on Sunday said that the party has strength and resolves to defeat 'evil and corrupt' forces ahead of Tamil Nadu elections which are scheduled in 2026. During the part meeting, he also launched his party symbol 'whistle'. Vijay who launched the party in 2024 sets TVK as an alternative rival to DMK and AIADMK.",
-    "img": "https://static.toiimg.com/photo/msid-127465855,imgsize-619804.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evil-corrupt-forces-wont-rule-tvk-chief-vijay-targets-dmk-aiadmk-ahead-of-2026-polls-unveils-party-symbol-whistle/articleshow/127465389.cms",
-    "time": "2026-01-25T09:36:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nitin Nabin warns of ‘divisive forces’; calls on cadre to prepare for 2027 polls",
-    "desc": "BJP chief Nitin Nabin urged Uttar Pradesh party workers to gear up for the 2027 Assembly elections, warning against divisive forces. Highlighting Chief Minister Yogi Adityanath's work in preserving traditions and driving development, Nabin emphasized strengthening booth-level organization to counter opposition. He expressed confidence in a BJP victory, citing progress under Prime Minister Modi's leadership.",
-    "img": "https://static.toiimg.com/photo/msid-127465916,imgsize-32290.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/first-up-visit-as-bjp-chief-nitin-nabin-warns-of-divisive-forces-calls-on-cadre-to-prepare-for-2027-polls/articleshow/127465639.cms",
-    "time": "2026-01-25T09:29:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -567,15 +657,6 @@ const newsData_en = [
     "time": "2026-01-25T08:28:29.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Palash's unrecognisable old photos with SRK, BIG B",
-    "desc": "Old pictures of Music Composer Palash Muchhal with Bollywood legends like Shah Rukh Khan, Amitabh Bachchan, Salman Khan and Shilpa Shetty have come up again in the current cheating scandal and the growing number of civil suits being filed against him.",
-    "img": "https://static.toiimg.com/photo/msid-127461791,imgsize-76722.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-cheating-allegations-and-legal-tussle-palash-muchhal-looks-almost-unrecognisable-in-old-photos-with-shah-rukh-khan-amitabh-bachchan-salman-khan/photostory/127461791.cms",
-    "time": "2026-01-25T08:19:47.000Z"
-  },
-  {
     "cat": "Business",
     "title": "What students and parents expect beyond schemes and slogans",
     "desc": "Can the state reduce the private burden families carry to make education work? Parents and students expect spending that strengthens classrooms—teachers, foundational learning, and a credible path towards 6% of GDP. They also look for digital access beyond fibre, advanced learning beyond metros, paid work pathways, and affordability through scholarships and safer loans, with counselling treated as core infrastructure.",
@@ -604,15 +685,6 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "US snow storm cancelled your flight? Here's what you need to know",
-    "desc": "A powerful winter storm has caused widespread US air travel disruptions, leading to over 13,000 flight cancellations and impacting major airports. Airlines are waiving change fees and offering rebooking options, but compensation for meals or lodging during weather-related cancellations is not guaranteed.",
-    "img": "https://static.toiimg.com/photo/msid-127456157,imgsize-160526.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-snow-storm-cancelled-your-flight-heres-what-you-need-to-know/articleshow/127453142.cms",
-    "time": "2026-01-25T06:04:12.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "Vedanta urges policy push for low-grade iron ore beneficiation",
     "desc": "India sits on massive low-grade iron ore inventory – estimated at over 300 million tonnes at mine heads – that remains underutilised due to high upfront costs for beneficiation plants and supporting infrastructure, says Sesa Goa CEO Navin Jaju",
     "img": "https://th-i.thgim.com/public/incoming/c8fi67/article70548956.ece/alternates/LANDSCAPE_1200/2025-07-09T071606Z_1471416140_RC2UIFAYJ32O_RTRMADP_3_VICEROY-RESEARCH-VEDANTA-RESOURCES.JPG",
@@ -630,24 +702,6 @@ const newsData_en = [
     "time": "2026-01-25T05:42:06.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Trump admin's push for domestic rare earth production, US govt to get 10% stake in USA Rare Earth",
-    "desc": "The US government is investing $1.6 billion in USA Rare Earth, acquiring a 10% stake to support a local mine and magnet production facility. This move aims to bolster domestic rare earth production, with the company also securing $1 billion in private funding. The investment includes government shares and warrants, priced near the company's recent trading levels.",
-    "img": "https://static.toiimg.com/photo/msid-127451333,imgsize-132378.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/trump-admins-push-for-domestic-rare-earth-production-us-govt-to-get-10-stake-in-usa-rare-earth/articleshow/127447673.cms",
-    "time": "2026-01-25T04:47:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Jewellery sector seeks duty rationalisation, reforms and GST cuts",
-    "desc": "India's gems and jewellery industry is pushing for GST cuts, customs reforms, and policy changes in the Union Budget 2026-2027 to boost exports and competitiveness. Key demands include rationalizing GST on gold and silver jewellery to 1.25% and operationalizing the Tourist GST Refund scheme to attract foreign buyers.",
-    "img": "https://static.toiimg.com/photo/msid-127447312,imgsize-137148.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-jewellery-sector-seeks-duty-rationalisation-reforms-and-gst-cuts/articleshow/127444748.cms",
-    "time": "2026-01-25T04:00:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Aryna Sabalenka holds off next-gen talent Mboko to reach quarterfinals",
     "desc": "Twice champion Sabalenka crushed Mboko in ‌a 31-minute first set in the early match ​at Rod Laver Arena but gave up a 4-1 lead in the second as the 17th seed mounted an impressive comeback",
@@ -655,24 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/tennis/australian-open-2026-tennis-championship-january-25-2026/article70548674.ece",
     "time": "2026-01-25T02:52:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US Fed set to keep rates steady as officials defend independence",
-    "desc": "The US Federal Reserve is widely expected to keep interest rates unchanged when it meets in the coming week, holding firm despite President Donald Trump's pressure to slash levels as it guards against threats to its independence. - External pressure - The Fed meets eight times a year to consider interest rate levels, and Michael Pearce of Oxford Economics said the dilemma it faces has eased.",
-    "img": "https://static.toiimg.com/photo/msid-127444370,imgsize-30576.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-fed-set-to-keep-rates-steady-as-officials-defend-independence/articleshow/127444298.cms",
-    "time": "2026-01-25T02:21:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rare pics from Dharmendra and Amitabh Bachchan's film",
-    "desc": "Ever flipped through old Sholay behind-the-scenes pics and felt like you were right there in the dust with them? You haven't grinned at Amitabh and Dharmendra cracking jokes between takes. These shots do more than show a shoot. They pull you into the sweaty chaos of talented folks coming together, laughing, grinding, and figuring it out day by day. Back in the 70s, before it became Bollywood's biggest legend, Sholay was just real people being real. No filters, no egos. What’s your favorite moment from those iconic frames?",
-    "img": "https://static.toiimg.com/photo/msid-127106430,imgsize-551606.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/sholay-rare-pics-from-dharmendra-and-amitabh-bachchan-starrer-reveal-life-on-set-before-the-film-became-iconic/photostory/127106430.cms",
-    "time": "2026-01-25T02:05:10.000Z"
   },
   {
     "cat": "World",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/baby-girl-movie-review-nivin-pauly-lijomol-jose-starrer-fails-to-work-due-to-dated-approach/article70543043.ece",
     "time": "2026-01-23T14:32:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND vs NZ 2nd T20I",
-    "desc": "The two add 122 off just 48 balls after the early dismissals of the openers to take the game away from the Kiwis; Dube chips in with a cameo as the host chases down 209 with consummate ease",
-    "img": "https://th-i.thgim.com/public/incoming/ywh27s/article70543966.ece/alternates/LANDSCAPE_1200/11908_23_1_2026_22_35_32_4_DSC_1104.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-second-t20-international-updates-january-23-2026/article70543033.ece",
-    "time": "2026-01-23T14:06:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India’s TV audience to touch 1 billion by 2029: IIM report",
-    "desc": "The report, ‘Future of TV in India’, states that India’s rapid economic growth, rising disposable incomes and improving literacy levels are reshaping content consumption patterns; a major finding of the study is a strong link between rising internet penetration and television audience growth",
-    "img": "https://th-i.thgim.com/public/incoming/73wmpb/article70542642.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U2H7E1NDF_R1589554809_2_2943b9f0-0206-489c-a78b-9dde6f712c0a.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/report-by-iim-ahmedabad-says-tv-audience-in-india-to-touch-1-billion-by-2029/article70542340.ece",
-    "time": "2026-01-23T13:00:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Adani Group completes full takeover of IANS news agency",
-    "desc": "“AMG Media Networks Ltd, the media arm of the group's flagship firm Adani Enterprises, has entered into a share purchase agreement to acquire the remaining stake in IANS India Private Limited,” according to a stock exchange filing by the company",
-    "img": "https://th-i.thgim.com/public/incoming/wnx7ie/article70541912.ece/alternates/LANDSCAPE_1200/2026-01-23T083803Z_1155955645_RC2H9BANEGIK_RTRMADP_3_ADANI-ENTR-STOCKS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/adani-group-completes-full-takeover-of-ians-news-agency/article70541841.ece",
-    "time": "2026-01-23T09:35:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Fujii Kaze’s India connection ahead of Lollapalooza 2026: ‘India is my spiritual hometown’",
-    "desc": "Before taking the Lollapalooza stage in Mumbai this weekend, J-pop artist Fujii Kaze traces a personal arc getting The Beatles treatment in Uttarakhand, reciting bhajans and mantras with family, and a musical career built on inward growth",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/ytncih/article70541614.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/music/fujii-kazes-india-connection-ahead-of-lollapalooza-2026-india-is-my-spiritual-hometown/article70538156.ece",
-    "time": "2026-01-23T08:41:55.000Z"
   }
 ];

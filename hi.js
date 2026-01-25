@@ -65,7 +65,7 @@ const newsData_hi = [
   {
     "cat": "Sports",
     "title": "India hunt down 154 in 10 overs to seal series in Guwahati",
-    "desc": "India are in red-hot form in their final series ahead of the T20 World Cup 2026 as their batters have fired in both games. They did extremely well batting first in the series opener in...",
+    "desc": "India put up a stellar performance in the third T20I against New Zealand at the Barsapara Cricket Stadium, Guwahati, with both the bowlers and batters punishing New Zealand. The bowlers set the win up after restricting...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-3rd-t20i-live-cricket-score-india-vs-new-zealand-latest-match-updates-barsapara-cricket-stadium-guwahati-scorecard-teams-playing-xis-2026-01-25-1027421",
