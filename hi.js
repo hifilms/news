@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "IND vs NZ, Guwahati, weather report: Will rain spoil 3rd T20I of the multi-format series?",
+    "desc": "India and New Zealand continue their ongoing five-game T20I series by taking on each other in the third T20I. The two sides will take on each other at the Barsapara Stadium in Guwahati on January...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-guwahati-weather-report-will-rain-spoil-3rd-t20i-of-the-multi-format-series-2026-01-25-1027367",
+    "time": "2026-01-25T03:41:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Barsapara Cricket Stadium in Guwahati play?",
+    "desc": "The stage is set for the third T20I of the ongoing five-game series between India and New Zealand. The two sides will lock horns next at the Barsapara Stadium in Guwahati on January 25. It...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-3rd-t20i-pitch-report-how-will-surface-at-barsapara-cricket-stadium-in-guwahati-play-2026-01-25-1027358",
+    "time": "2026-01-25T02:33:55.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Cricket Scotland officially accept invitation to compete in T20 World Cup 2026 after Bangladesh's removal",
     "desc": "The ICC (International Cricket Council) recently announced that Scotland will replace Bangladesh in the upcoming T20 World Cup 2026, following Bangladesh's removal from the tournament as they refused to travel to India due to security...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pakistan-to-boycott-t20-world-cup-2026-to-support-bangladesh-mohsin-naqvi-reveals-2026-01-24-1027329",
     "time": "2026-01-24T13:42:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC to punish Bangladesh with major financial blow after T20 World Cup 2026 withdrawal, know details",
-    "desc": "The Bangladesh Cricket Board (BCB) is set to face significant financial fallout following its exclusion from the 2026 T20 World Cup. The decision by the International Cricket Council (ICC) to remove Bangladesh and replace it...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-to-punish-bangladesh-with-major-financial-blow-after-t20-world-cup-2026-withdrawal-know-details-2026-01-24-1027324",
-    "time": "2026-01-24T13:13:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohammed Shami sends message to BCCI selectors with five-wicket haul in Ranji Trophy",
-    "desc": "Ace pacer Mohammed Shami stole the show in Bengal’s Ranji Trophy clash against Services at the Bengal Cricket Academy Ground in Kalyani. The ace pacer dismissed opener SG Rohilla, Ravi Chauhan, Rajat Paliwal, Vineet Dhankhar...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammed-shami-sends-message-to-bcci-selectors-with-five-wicket-haul-in-ranji-trophy-2026-01-24-1027317",
-    "time": "2026-01-24T12:17:41.000Z"
   }
 ];

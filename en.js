@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "Jewellery sector seeks duty rationalisation, reforms and GST cuts",
+    "desc": "India's gems and jewellery industry is pushing for GST cuts, customs reforms, and policy changes in the Union Budget 2026-2027 to boost exports and competitiveness. Key demands include rationalizing GST on gold and silver jewellery to 1.25% and operationalizing the Tourist GST Refund scheme to attract foreign buyers.",
+    "img": "https://static.toiimg.com/photo/msid-127447312,imgsize-137148.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-jewellery-sector-seeks-duty-rationalisation-reforms-and-gst-cuts/articleshow/127444748.cms",
+    "time": "2026-01-25T04:00:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Stubbs hopes to make it three-in-four for SEC vs PC",
+    "desc": "Sunrisers Eastern Cape captain Tristan Stubbs, who has had a mediocre return since the highs of 2024, is keen to find form in the SA20 final against the Pretoria Capitals. Having been called up to the T20 World Cup squad as an injury replacement, Stubbs has personal and team goals to achieve at Newlands in Cape Town.",
+    "img": "https://static.toiimg.com/photo/msid-127448925,imgsize-158946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/sa20/sa20-final-with-a-point-to-prove-tristan-stubbs-hopes-to-make-it-three-in-four-for-sunrisers-eastern-cape/articleshow/127448254.cms",
+    "time": "2026-01-25T03:59:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Brooks Nader denies Ben Affleck romance rumors",
+    "desc": "Model Brooks Nader has firmly denied rumors linking her to Ben Affleck, dismissing claims of a budding romance. The reality TV star, who recently split from Gleb Savchenko, clarified on social media that she has never met Affleck. Nader, previously married, has a history of navigating celebrity gossip, prioritizing her personal life over tabloid speculation.",
+    "img": "https://static.toiimg.com/photo/msid-127447905,imgsize-644539.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ben-affleck-and-brooks-nader-are-dating-model-shuts-down-the-rumours-never-met-him/articleshow/127447918.cms",
+    "time": "2026-01-25T03:37:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Channing Tatum feels parenting is ‘hard’",
+    "desc": "Actor Channing Tatum, promoting his new film 'Josephine', opened up about the challenges of fatherhood. He shared that parenting his 12-year-old daughter, Everly, is a daily struggle, requiring him to be both tough and a 'soft buddy'. Tatum also admitted to feeling uncool in his daughter's eyes, despite her seeing his movies.",
+    "img": "https://static.toiimg.com/photo/msid-127447195,imgsize-29622.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/channing-tatum-reflects-on-fatherhood-challenges-feels-parenting-is-hard/articleshow/127447195.cms",
+    "time": "2026-01-25T03:24:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meet the inspiration behind ‘Battle of Galwan’",
+    "desc": "Prepare for an emotional journey as Salman Khan stars in 'Battle of Galwan,' a film that tells the gripping tale of the 2020 confrontation at Galwan Valley. Centered around the heroic actions of Colonel Bikkumalla Santosh Babu MVC and the sacrifice of 20 valiant Indian soldiers, this cinematic piece aims to honor their legacy.",
+    "img": "https://static.toiimg.com/photo/msid-127446191,imgsize-45808.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/who-inspired-salman-khans-battle-of-galwan-character-all-you-need-to-know-about-b-santosh-babu/articleshow/127446191.cms",
+    "time": "2026-01-25T03:01:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Investors’ expectations from Union Budget 2026",
+    "desc": "The government should definitely make a uniform policy for accredited investors but with fewer norms. And before angel investors, the government should look at F&Os as they are even riskier and more speculative. Angel investing drives capital formation.",
+    "img": "https://static.toiimg.com/photo/msid-127405075,imgsize-66610.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/investors-expectations-from-union-budget-2026/articleshow/127404991.cms",
+    "time": "2026-01-25T03:00:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Aryna Sabalenka holds off next-gen talent Mboko to reach quarterfinals",
+    "desc": "Twice champion Sabalenka crushed Mboko in ‌a 31-minute first set in the early match ​at Rod Laver Arena but gave up a 4-1 lead in the second as the 17th seed mounted an impressive comeback",
+    "img": "https://th-i.thgim.com/public/incoming/3c5g0l/article70548677.ece/alternates/LANDSCAPE_1200/2026-01-25T021229Z_1496605380_UP1EM1P064S5E_RTRMADP_3_TENNIS-AUSOPEN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/australian-open-2026-tennis-championship-january-25-2026/article70548674.ece",
+    "time": "2026-01-25T02:52:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Jadeja's 'attack kar' mantra powered Parth Bhut against Shubman Gill",
+    "desc": "Ravindra Jadeja's constant encouragement proved pivotal as Saurashtra's Parth Bhut dominated Shubman Gill, taking 10 wickets in their Ranji Trophy win over Punjab. Bhut, inspired by Jadeja, credited his hero's guidance for his match-winning performance and fulfilling a childhood dream of playing alongside him.",
+    "img": "https://static.toiimg.com/photo/msid-127445807,imgsize-56304.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/how-ravindra-jadejas-attack-kar-mantra-powered-parth-bhut-against-shubman-gill-exclusive/articleshow/127445295.cms",
+    "time": "2026-01-25T02:52:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "5 addictive OTT crime thrillers of January 2026",
+    "desc": "​January 2026 certainly seems to be off to a great start, with some really addictive crime thrillers coming up on OTT that promise plenty of Hindi punch along with loads of English edge. Each one is expertly woven with heart-stopping action and those twist-in-the-gut moments when you are left doubting everybody on the screen. Whether gritty Indian realism or suave international intrigue is your thing, these might just make the winter nights cozier.​",
+    "img": "https://static.toiimg.com/photo/msid-127123084,imgsize-519321.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/5-addictive-ott-crime-thrillers-of-january-2026/photostory/127123084.cms",
+    "time": "2026-01-25T02:26:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Harry Styles Rome haircut turns into a surprise Vatican moment",
+    "desc": "Pop icon Harry Styles recounted his unexpected presence at Pope Leo XIV's conclave election in Rome, explaining he was drawn by the crowd's chants after a haircut. Fans spotted the singer in St. Peter's Square, blending into the historic moment, a story resurfacing amid buzz for his new single 'Aperture'.",
+    "img": "https://static.toiimg.com/photo/msid-127444354,imgsize-937917.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/harry-styles-reveals-how-he-accidentally-created-a-papal-moment-with-his-pope-leo-xivs-conclave-appearance/articleshow/127444369.cms",
+    "time": "2026-01-25T02:22:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US Fed set to keep rates steady as officials defend independence",
+    "desc": "The US Federal Reserve is widely expected to keep interest rates unchanged when it meets in the coming week, holding firm despite President Donald Trump's pressure to slash levels as it guards against threats to its independence. - External pressure - The Fed meets eight times a year to consider interest rate levels, and Michael Pearce of Oxford Economics said the dilemma it faces has eased.",
+    "img": "https://static.toiimg.com/photo/msid-127444370,imgsize-30576.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-fed-set-to-keep-rates-steady-as-officials-defend-independence/articleshow/127444298.cms",
+    "time": "2026-01-25T02:21:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aneet Padda's fangirl comment: Old post on Chalamet resurfaces",
+    "desc": "Actress Aneet Padda's old social media comment to Timothée Chalamet has resurfaced, revealing her fangirl past. Seven years ago, a then-teenaged Padda playfully urged Chalamet to confess his love. Meanwhile, Padda is busy with brand endorsements and has exciting projects like 'Shakti Shalini' in the pipeline following her 'Saiyaara' success.",
+    "img": "https://static.toiimg.com/photo/msid-127443842,imgsize-21118.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saiyaara-star-aneet-padda-goes-viral-as-an-old-comment-resurfaces-and-reveals-she-is-a-huge-timothee-chalamet-fan/articleshow/127443842.cms",
+    "time": "2026-01-25T02:15:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Meet the barbies powering India’s unicorn boom",
+    "desc": "A new wave of Indian entrepreneurs, dubbed BARBIE founders, are returning from abroad to build successful startups. These individuals, who pursued undergraduate degrees overseas, are outperforming IIT and BITS alumni in creating unicorns. Their global exposure and often family business leverage contribute to their success, particularly in consumer-focused ventures.",
+    "img": "https://static.toiimg.com/photo/msid-127442186,imgsize-838605.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/meet-the-barbies-powering-indias-unicorn-boom/articleshow/127442010.cms",
+    "time": "2026-01-25T02:06:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Too young for a memoir? Not anymore",
+    "desc": "Young Indian writers are redefining memoirs, moving beyond traditional life stories of achievement. Millennials and GenZs are sharing their experiences of growing up queer, disabled, or navigating political violence and personal challenges, finding hope and connection in these mid-journey narratives.",
+    "img": "https://static.toiimg.com/photo/msid-127443426,imgsize-986965.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/too-young-for-a-memoir-not-anymore/articleshow/127443397.cms",
+    "time": "2026-01-25T02:05:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rare pics from Dharmendra and Amitabh Bachchan's film",
+    "desc": "Ever flipped through old Sholay behind-the-scenes pics and felt like you were right there in the dust with them? You haven't grinned at Amitabh and Dharmendra cracking jokes between takes. These shots do more than show a shoot. They pull you into the sweaty chaos of talented folks coming together, laughing, grinding, and figuring it out day by day. Back in the 70s, before it became Bollywood's biggest legend, Sholay was just real people being real. No filters, no egos. What’s your favorite moment from those iconic frames?",
+    "img": "https://static.toiimg.com/photo/msid-127106430,imgsize-551606.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/sholay-rare-pics-from-dharmendra-and-amitabh-bachchan-starrer-reveal-life-on-set-before-the-film-became-iconic/photostory/127106430.cms",
+    "time": "2026-01-25T02:05:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Toothpick! Twiggy! Why does thin-shaming get a free pass?",
+    "desc": "The author recounts a lifetime of casual body policing and \"thin shaming\" despite cultural ideals of thinness. She details the constant, often well-intentioned but hurtful, comments and assumptions about her naturally thin physique, highlighting the double standard in body commentary.",
+    "img": "https://static.toiimg.com/photo/msid-127443026,imgsize-891431.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/toothpick-twiggy-why-does-thin-shaming-get-a-free-pass/articleshow/127442841.cms",
+    "time": "2026-01-25T01:57:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Border 2' box office collections Day 2",
+    "desc": "Sunny Deol's 'Border 2' has made a strong debut, earning Rs 65 crore in its first two days. The war drama is projected to reach Rs 70 crore by its third day, solidifying its position as Sunny Deol's fourth highest-grossing film. The movie's success highlights Deol's continued box office appeal.",
+    "img": "https://static.toiimg.com/photo/msid-127443138,imgsize-25452.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collections-day-2-sunny-deol-starrer-inches-toward-70-crore-mark-becomes-his-4th-highest-earner/articleshow/127443177.cms",
+    "time": "2026-01-25T01:56:44.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Wake up from hibernation and activate SIR war rooms, Abhishek tells Trinamool MPs",
     "desc": "The TMC leader Abhishek Banerjee said the work relating to SIR will have to be done by party workers during the day and in the evening, a film highlighting the achievements of Mamata Banerjee’s government will be screened",
@@ -117,6 +270,15 @@ const newsData_en = [
     "time": "2026-01-24T20:38:20.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "Rajasthan focuses on higher mining revenue targets in financial year-end",
+    "desc": "Director of Mines Mahaveer Prasad Meena said a revenue collection of ₹7,451.63 crore had been reported till January 21, which had recorded an increase of ₹627 crore over the amount of ₹6,824.54 crore collected in the same period during the financial year 2024-25.",
+    "img": "https://th-i.thgim.com/public/incoming/6wfu8x/article70548704.ece/alternates/LANDSCAPE_1200/11_DSC_4758.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-focuses-on-higher-mining-revenue-targets-in-financial-year-end/article70546569.ece",
+    "time": "2026-01-24T20:21:00.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Arun Govil disagrees with AR Rahman's communal remark: 'SRK, Aamir Salman...'",
     "desc": "AR Rahman's recent remarks about facing less work in Hindi cinema due to non-creative decision-makers and potential communal bias have sparked industry debate. Actor Arun Govil refuted these claims, stating the film industry has always been free of communal bias, citing successful Muslim actors as evidence.",
@@ -169,6 +331,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-lied-to-rishi-kapoor-as-he-went-to-attend-rani-mukerji-aditya-chopras-wedding-in-italy-he-caught-me-and-asked-me-why/articleshow/127421804.cms",
     "time": "2026-01-24T19:14:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Minister Satya Kumar Yadav",
+    "desc": "The Minister said that within a short period, AIIMS-Mangalagiri have gained the trust of patients and said that out of the total 26 AIIMS in the country, 19 were operational and the remaining were in various stages of construction",
+    "img": "https://th-i.thgim.com/public/incoming/j58nrs/article70548767.ece/alternates/LANDSCAPE_1200/Union-govt.-relGVNFEFRP8.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/government-will-extend-full-support-for-development-of-aiims-minister-satya-kumar-yadav/article70546969.ece",
+    "time": "2026-01-24T18:55:07.000Z"
   },
   {
     "cat": "Politics",
@@ -232,15 +403,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/west-bengal/migrant-worker-from-beldanga-died-by-suicide-in-jharkhand-says-west-bengal-police/article70547335.ece",
     "time": "2026-01-24T17:34:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Tom Holland",
-    "desc": "Tom Holland, the current face of Spider-Man, believes change is beneficial. He navigates fame as a balancing act. Holland stays aware of public opinion but does not let it influence his personal identity. His career began in 2012, and he has since made a significant impact in Hollywood, particularly with Marvel films. Fans eagerly await updates on his upcoming projects.",
-    "img": "https://static.toiimg.com/photo/msid-127414536,imgsize-40224.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-tom-holland-people-always-say-you-shouldnt-change-but-i-think-change-is-good/articleshow/127414397.cms",
-    "time": "2026-01-24T17:31:17.000Z"
   },
   {
     "cat": "Business",
@@ -408,7 +570,7 @@ const newsData_en = [
     "cat": "Politics",
     "title": "Kerala to have more than 22% of its population aged above 60 by 2036, says new RBI report",
     "desc": "Kerala has topped the list for State-wise share of population aged above 60 for some years now. From 16.5% of its population aged above 60 in 2021, Kerala will have 18.7% in the category in 2026 and 22.8% by 2036",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "img": "https://th-i.thgim.com/public/incoming/uypcu/article70548758.ece/alternates/LANDSCAPE_1200/IMG_elder_2_1_AMFEGUKC.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/kerala-to-have-more-than-22-of-its-population-aged-above-60-by-2036-says-new-rbi-report/article70546620.ece",
     "time": "2026-01-24T15:13:09.000Z"
@@ -421,24 +583,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-sarfaraz-deserves-another-chance-to-play-for-india-mohammad-azharuddin/article70546996.ece",
     "time": "2026-01-24T15:12:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Bombs hurled at police van': EPS slams DMK govt, says law &amp; order reduced to 'laughing stock' in Tamil Nadu",
-    "desc": "AIADMK general secretary Edappadi K Palaniswami (EPS) launched a sharp attack on the DMK government and Tamil Nadu Chief Minister M K Stalin alleging that “law and order has been reduced to a laughing stock,” in the state following a country-made bomb attack on a police vehicle on the Trichy–Chennai highway.",
-    "img": "https://static.toiimg.com/photo/msid-127404447,imgsize-31664.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bombs-hurled-at-police-van-eps-slams-dmk-govt-says-law-order-reduced-to-laughing-stock-in-tamil-nadu/articleshow/127402377.cms",
-    "time": "2026-01-24T14:54:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kylie Jenner and Timothée Chalamet’s combined net worth",
-    "desc": "Hollywood's power couple, Kylie Jenner and Timothée Chalamet, are more than just a romance; they are moguls. Jenner, a beauty and business empire builder, boasts a $700 million net worth, largely from Kylie Cosmetics. Chalamet, a critically acclaimed actor, has amassed $25 million through his successful film career. Their combined financial prowess is significant.",
-    "img": "https://static.toiimg.com/photo/msid-127393179,imgsize-36958.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/kylie-jenner-and-timothe-chalamet-combined-net-worth-behind-usd-725-million-financial-empire-of-the-hollywood-couple/articleshow/127393179.cms",
-    "time": "2026-01-24T14:54:00.000Z"
   },
   {
     "cat": "Politics",
@@ -457,15 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/will-completely-devour-it-trump-threatens-100-tariffs-if-canada-makes-deal-with-china-warns-governor-carney/articleshow/127403218.cms",
     "time": "2026-01-24T14:33:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Diljit says he did not have money to watch 'Border'",
-    "desc": "‘Border 2’ has opened strongly at the box office, earning Rs 30 crore on its first day. Star Diljit Dosanjh shared a personal anecdote about being unable to afford tickets for the original ‘Border’ in 1997. He also expressed admiration for the real-life hero, Flying Officer Nirmal Jit Singh Sekhon, whose character he portrays in the sequel.",
-    "img": "https://static.toiimg.com/photo/msid-127402614,imgsize-32620.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amidst-border-2-success-diljit-dosanjh-gets-emotional-and-reveals-he-did-not-have-money-to-watch-border-little-did-i-know-/articleshow/127402554.cms",
-    "time": "2026-01-24T14:23:49.000Z"
   },
   {
     "cat": "Business",
@@ -504,15 +639,6 @@ const newsData_en = [
     "time": "2026-01-24T14:02:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Remember the 11pm panic of forgetting a map for school? Here’s what parenting looks like in 2026",
-    "desc": "Indian parenting has transformed. Gone are the days of strict rules and fear. Today, parents prioritize dialogue and understanding. Children are more expressive and seek emotional support. This shift creates a new dynamic in homes. Parents navigate technology and independence. The focus is on building relationships through communication and empathy. This evolution shapes childhood and adulthood.",
-    "img": "https://static.toiimg.com/photo/msid-127400722,imgsize-1136293.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/remember-the-11pm-panic-of-forgetting-a-map-for-school-heres-what-parenting-looks-like-in-2026/articleshow/127398155.cms",
-    "time": "2026-01-24T13:52:30.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Djokovic becomes first player to reach 400 Grand Slam wins, equals Federer's AO record",
     "desc": "Novak Djokovic etched his name further in tennis history at the Australian Open, achieving his 400th Grand Slam singles victory. He also matched Roger Federer's record for most Australian Open match wins. Despite a brief scare and a fall in the third set, Djokovic showcased his resilience, saving set points and ultimately clinching the win.",
@@ -549,24 +675,6 @@ const newsData_en = [
     "time": "2026-01-24T13:04:07.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Shah Rukh Khan announces 'King' release date with a new teaser",
-    "desc": "Shah Rukh Khan unveiled the release date for his upcoming action-packed film 'King' with a thrilling teaser, announcing its arrival on December 24, 2026. The film, featuring a star-studded cast including Deepika Padukone and Suhana Khan, is strategically positioned for a Christmas release to ensure ample space from the anticipated 'Ramayana' film, allowing both projects to thrive.",
-    "img": "https://static.toiimg.com/photo/msid-127397260,imgsize-25716.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-abhishek-bachchan-deepika-padukone-starrer-king-set-to-release-on-this-date-the-actor-drops-action-packed-teaser-netizens-react-watch-video/articleshow/127397351.cms",
-    "time": "2026-01-24T13:00:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kareena refused ‘kekda’ move in Soniya song",
-    "desc": "A resurfaced clip reveals Kareena Kapoor's playful refusal of 'crab-style' dancing during 'You Are My Soniya' filming, prompting a shift in choreography. Meanwhile, the 'Bole Chudiyan' shoot faced budget chaos, with Karan Johar fainting and Yash Johar tearing up the initial budget, forcing the team to proceed with limited resources.",
-    "img": "https://static.toiimg.com/photo/msid-127396722,imgsize-39982.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kareena-kapoor-refused-kekda-style-dancing-in-you-are-my-soniya-from-kabhi-khushi-kabhie-gham-karan-johar-reveals/articleshow/127396722.cms",
-    "time": "2026-01-24T12:54:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "What led ICC to remove Bangladesh from the T20 World Cup",
     "desc": "The ICC has replaced Bangladesh with Scotland in the 2026 T20 World Cup after the Bangladesh Cricket Board refused to travel to India. Despite extensive dialogue and a deadline, the BCB maintained its objections over security assessments, a stance the ICC deemed an unhealthy precedent. The decision was finalized after the BCB failed to confirm participation.",
@@ -574,15 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/explained-what-led-icc-to-remove-bangladesh-from-the-t20-world-cup/articleshow/127394669.cms",
     "time": "2026-01-24T12:22:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "KRK remanded to police custody till January 27",
-    "desc": "A Bandra court remanded KRK to police custody till January 27 for the Oshiwara firing case. He claimed it was accidental while cleaning his licensed gun. Police recovered two bullets from Nalanda building after the January 18 incident. No injuries reported; KRK cooperating with probe.",
-    "img": "https://static.toiimg.com/photo/msid-127394778,imgsize-30030.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/krk-remanded-to-police-custody-till-january-27-in-oshiwara-firing-case-report/articleshow/127394778.cms",
-    "time": "2026-01-24T12:19:52.000Z"
   },
   {
     "cat": "Sports",
@@ -649,15 +748,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Heroic Australian Open farewell for Stan Wawrinka in loss to Taylor Fritz",
-    "desc": "Stan Wawrinka's illustrious Australian Open journey concluded in the third round after a challenging four-set loss to Taylor Fritz. The 40-year-old Swiss veteran, in his final career season, bowed out at John Cain Arena, marking a poignant farewell to the tournament he won in 2014. Despite a strong second-set response, Wawrinka couldn't overcome the physical demands and Fritz's resurgence.",
-    "img": "https://static.toiimg.com/photo/msid-127385915,imgsize-107134.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/heroic-australian-open-farewell-for-stan-wawrinka-in-loss-to-taylor-fritz/articleshow/127386062.cms",
-    "time": "2026-01-24T10:07:53.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Bangladesh out of T20 World Cup; Scotland named replacement",
     "desc": "The ICC has officially replaced Bangladesh with Scotland for the men’s T20 World Cup 2026, starting February 7 in India and Sri Lanka. Scotland will play in Group C with Italy, Nepal, West Indies and England. The move follows Bangladesh’s refusal to tour India over security concerns, which the ICC rejected after risk assessments found no direct threat.",
     "img": "https://static.toiimg.com/photo/msid-127386064,imgsize-50628.cms",
@@ -673,15 +763,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ms-dhoni-begins-ipl-2026-preparations-as-csk-legend-returns-to-the-nets-watch/articleshow/127384994.cms",
     "time": "2026-01-24T09:54:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Osaka withdraws from Australian Open 2026",
-    "desc": "Naomi Osaka withdrew from the Australian Open before her third-round match due to an undisclosed injury. She said stopping was heartbreaking but necessary to avoid further damage. Her run drew attention for a viral fashion entrance and a tense second-round win over Sorana Cirstea, which ended with a cold exchange and brief on-court disagreement over Osaka’s celebrations.",
-    "img": "https://static.toiimg.com/photo/msid-127383720,imgsize-109816.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/tennis-queen-naomi-osaka-withdraws-from-australian-open-2026-heres-why/articleshow/127383343.cms",
-    "time": "2026-01-24T09:33:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -745,15 +826,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/eu-india-trade-deal-european-union-vp-kaja-kallas-arrives-in-delhi/articleshow/127363962.cms",
     "time": "2026-01-24T05:30:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "12 more companies to enter the IPO street! Sebi gives approval to Hella Infra Market, Oswal Cables &amp; more",
-    "desc": "India's capital markets regulator, Sebi, has greenlit IPO plans for twelve companies, including Infra.Market's parent, Hella Infra Market, and luxury fashion platform Pernia's Pop-Up Shop. These firms, which filed draft papers between June and October, received Sebi's nod between January 19-23, paving the way for their public offerings.",
-    "img": "https://static.toiimg.com/photo/msid-127363092,imgsize-43320.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/12-more-companies-to-enter-the-ipo-street-sebi-gives-approval-to-hella-infra-market-oswal-cables-more/articleshow/127359719.cms",
-    "time": "2026-01-24T04:42:44.000Z"
   },
   {
     "cat": "Sports",
@@ -826,77 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/bangalore/linkin-parks-debut-tour-of-india-kicks-off-with-a-performance-in-bengaluru/article70532992.ece",
     "time": "2026-01-23T19:07:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "At four, I watched Kosteniuk become World champion; I felt I needed that crown: Assaubayeva",
-    "desc": "The youngest woman to claim the World Blitz Championship, Assaubayeva has ambitions of winning the prestigious classical title. In this chat, she talks about her beginnings in chess, what achieving the GM title meant to her, why she enjoys playing in India, what she thinks of D. Gukesh and Arjun Erigiaisi, and where Kazakhstan chess is headed",
-    "img": "https://th-i.thgim.com/public/incoming/gvfq79/article70544082.ece/alternates/LANDSCAPE_1200/Bibisara.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/at-four-i-watched-kosteniuk-become-world-champion-i-felt-i-needed-that-crown-assaubayeva/article70544087.ece",
-    "time": "2026-01-23T18:12:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "No-limits Mahuchikh looks to reassert her aerial dominance",
-    "desc": "The Ukrainian high jumper has begun 2026 with her best clearance since setting the world record in 2024. This bodes well for the reigning Olympic champion, who had a disappointing end to 2025, losing her World title and being outshone by rival Nicola Olyslagers. Mahuchikh’s eyes this year are set firmly on making March’s World Indoor Championships her own",
-    "img": "https://th-i.thgim.com/public/incoming/1okzw5/article70544042.ece/alternates/LANDSCAPE_1200/GettyImages-2232410728.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/no-limits-mahuchikh-looks-to-reassert-her-aerial-dominance/article70544063.ece",
-    "time": "2026-01-23T18:01:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sarfaraz’s double ton helps Mumbai extend domination",
-    "desc": "The middle-order batter braves a wrist injury and puts on 154 for the sixth wicket with Suved as the visitor ends up with a mammoth total of 560; Rahul and Himateja’s unbroken 100-run stand lifts Hyderabad to 138 for two",
-    "img": "https://th-i.thgim.com/public/incoming/8ebr13/article70543622.ece/alternates/LANDSCAPE_1200/vjkvg-hyd%2014.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-sarfarazs-double-ton-helps-mumbai-extend-domination/article70543627.ece",
-    "time": "2026-01-23T15:34:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Baby Girl’ movie review: Nivin Pauly-Lijomol Jose starrer fails to work due to dated approach",
-    "desc": "With the story of a newborn’s disappearance from a hospital losing momentum by the halfway mark, the rest of the film plods along with the aid of the emotional drama and a few convenient contrivance.",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/d0fwqx/article70543037.ece/alternates/LANDSCAPE_1200/Nivin%20Pauly.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/baby-girl-movie-review-nivin-pauly-lijomol-jose-starrer-fails-to-work-due-to-dated-approach/article70543043.ece",
-    "time": "2026-01-23T14:32:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND vs NZ 2nd T20I",
-    "desc": "The two add 122 off just 48 balls after the early dismissals of the openers to take the game away from the Kiwis; Dube chips in with a cameo as the host chases down 209 with consummate ease",
-    "img": "https://th-i.thgim.com/public/incoming/ywh27s/article70543966.ece/alternates/LANDSCAPE_1200/11908_23_1_2026_22_35_32_4_DSC_1104.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-second-t20-international-updates-january-23-2026/article70543033.ece",
-    "time": "2026-01-23T14:06:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India’s TV audience to touch 1 billion by 2029: IIM report",
-    "desc": "The report, ‘Future of TV in India’, states that India’s rapid economic growth, rising disposable incomes and improving literacy levels are reshaping content consumption patterns; a major finding of the study is a strong link between rising internet penetration and television audience growth",
-    "img": "https://th-i.thgim.com/public/incoming/73wmpb/article70542642.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U2H7E1NDF_R1589554809_2_2943b9f0-0206-489c-a78b-9dde6f712c0a.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/report-by-iim-ahmedabad-says-tv-audience-in-india-to-touch-1-billion-by-2029/article70542340.ece",
-    "time": "2026-01-23T13:00:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Adani Group completes full takeover of IANS news agency",
-    "desc": "“AMG Media Networks Ltd, the media arm of the group's flagship firm Adani Enterprises, has entered into a share purchase agreement to acquire the remaining stake in IANS India Private Limited,” according to a stock exchange filing by the company",
-    "img": "https://th-i.thgim.com/public/incoming/wnx7ie/article70541912.ece/alternates/LANDSCAPE_1200/2026-01-23T083803Z_1155955645_RC2H9BANEGIK_RTRMADP_3_ADANI-ENTR-STOCKS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/adani-group-completes-full-takeover-of-ians-news-agency/article70541841.ece",
-    "time": "2026-01-23T09:35:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Fujii Kaze’s India connection ahead of Lollapalooza 2026: ‘India is my spiritual hometown’",
-    "desc": "Before taking the Lollapalooza stage in Mumbai this weekend, J-pop artist Fujii Kaze traces a personal arc getting The Beatles treatment in Uttarakhand, reciting bhajans and mantras with family, and a musical career built on inward growth",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/ytncih/article70541614.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/music/fujii-kazes-india-connection-ahead-of-lollapalooza-2026-india-is-my-spiritual-hometown/article70538156.ece",
-    "time": "2026-01-23T08:41:55.000Z"
   }
 ];
