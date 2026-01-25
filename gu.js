@@ -1,12 +1,12 @@
 const newsData_gu = [
   {
-    "cat": "Politics",
-    "title": "27 દેશો અને 22 ટ્રિલિયન ડોલરની તાકત, યુરોપની &amp;#039;પાવર લેડી&amp;#039; દિલ્હીમાં હાજર... એવું શું ખાસ છે કે ટ્રમ્પ અને જિનપિંગ બંને છે હેરાન?",
-    "desc": "ભારત સૌથી મોટા કરાર પર હસ્તાક્ષર કરવા જઈ રહ્યું છે. ભારત અને યુરોપિયન યુનિયન વચ્ચે મધર ઓફ પર ડીલ પર સાઈન થવાની છે. આ વેપાર કરારથી ભારત યુરોપિયન દેશોમાં વેપારને ઝડપી બનાવશે. જેના કારણે ભારત વધારે માલની સપ્લાય કરી શકશે.",
+    "cat": "Business",
+    "title": "8મા પગાર પંચમાં ઓછામાં ઓછો ₹58,500 થશે પગાર, કેન્દ્ર સરકારના કર્મચારીઓ માટે મહત્વપૂર્ણ સમાચાર",
+    "desc": "કેન્દ્ર સરકારના કર્મચારીઓની સર્વોચ્ચ પ્રતિનિધિ સંસ્થા, નેશનલ કાઉન્સિલ ઓફ જોઈન્ટ કન્સલ્ટેટિવ ​​મશીનરી (NC JCM), સ્ટાફ સાઇડ, એ તેના મેમોરેન્ડમનો મુસદ્દો તૈયાર કરવાની પ્રક્રિયા શરૂ કરી દીધી છે. ડ્રાફ્ટિંગ કમિટીની એક મહત્વપૂર્ણ બેઠક 25 ફેબ્રુઆરી, 2026ના રોજ નવી દિલ્હીમાં બોલાવવામાં આવી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/europe-power-lady-is-present-in-delhi-what-is-so-special-that-both-trump-and-jinping-are-surprised-462893 ",
-    "time": "2026-01-25T14:40:53.000Z"
+    "url": " http://zeenews.india.com/gujarati/business/the-minimum-salary-in-the-8th-pay-commission-will-be-rs-58500-important-news-for-central-government-employees-462897 ",
+    "time": "2026-01-25T15:37:47.000Z"
   },
   {
     "cat": "Politics",
@@ -15,7 +15,16 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/rohit-sharma-gets-padma-shri-while-gujarat-honours-these-people-see-list-462891 ",
-    "time": "2026-01-25T13:45:43.000Z"
+    "time": "2026-01-25T15:31:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "27 દેશો અને 22 ટ્રિલિયન ડોલરની તાકત, યુરોપની &amp;#039;પાવર લેડી&amp;#039; દિલ્હીમાં હાજર... એવું શું ખાસ છે કે ટ્રમ્પ અને જિનપિંગ બંને છે હેરાન?",
+    "desc": "ભારત સૌથી મોટા કરાર પર હસ્તાક્ષર કરવા જઈ રહ્યું છે. ભારત અને યુરોપિયન યુનિયન વચ્ચે મધર ઓફ પર ડીલ પર સાઈન થવાની છે. આ વેપાર કરારથી ભારત યુરોપિયન દેશોમાં વેપારને ઝડપી બનાવશે. જેના કારણે ભારત વધારે માલની સપ્લાય કરી શકશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/europe-power-lady-is-present-in-delhi-what-is-so-special-that-both-trump-and-jinping-are-surprised-462893 ",
+    "time": "2026-01-25T14:40:53.000Z"
   },
   {
     "cat": "Sports",
@@ -288,15 +297,6 @@ const newsData_gu = [
     "time": "2026-01-24T06:35:12.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IPL 2026 પહેલા ધોનીની ટીમને મોટો ઝટકો, સૌથી મોંઘો અનકેપ્ડ ખેલાડી અચાનક બહાર, જાણો શું છે કારણ",
-    "desc": "આગામી IPL સિઝન શરૂ થવાના થોડા મહિના પહેલા જ પાંચ વખતની ચેમ્પિયન ચેન્નાઈ સુપર કિંગ્સને મોટો ઝટકો લાગ્યો છે. IPL ઓક્શનમાં 14.2 કરોડમાં ખરીદેલા એક ખેલાડીને અચાનક ઈજા થઈ છે. જેના કારણે CSKની મુશ્કેલીઓ વધી ગઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/csk-suffer-major-blow-ahead-of-ipl-2026-uncapped-player-prashant-veer-injured-462728 ",
-    "time": "2026-01-24T05:51:53.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Post Office ધાંસૂ સ્કીમ..... ઘર બેઠા દર મહિને ₹20500 ની કમાણી, જાણો વિગત",
     "desc": "Post Office Schemes ન માત્ર Risk Free રોકાણ માટે, પરંતુ સરકાર દ્વારા આપવામાં આવી રહેલા શાનદાર વ્યાજ માટે પણ પોપુલર છે. નિવૃત્તિ બાદ જીવન કોઈ નાણાકીય મુશ્કેલી વગર પસાર થાય તે માટે પણ પોસ્ટ ઓફિસમાં રેગુલર આવક યોજના ઉપલબ્ધ છે.",
@@ -378,15 +378,6 @@ const newsData_gu = [
     "time": "2026-01-23T11:52:03.000Z"
   },
   {
-    "cat": "Business",
-    "title": "28 જાન્યુઆરીએ ખુલી રહ્યો છે આ IPO, પ્રાઇસ બેન્ડ છે 123, ગ્રે માર્કેટ અત્યારથી તેજી !",
-    "desc": "IPOનું કુલ કદ 54 લાખ શેરનું છે, જેની કિંમત 62.64 રૂપિયાથી 66.42 કરોડ રૂપિયાની વચ્ચે છે. આ IPO BSE SME પ્લેટફોર્મ પર લિસ્ટેડ થશે. રોકાણકારો માટે લોટ સાઈઝ 1,000 શેર છે, અને ઓછામાં ઓછું રોકાણ લગભગ 1.23 લાખ રૂપિયાથી શરૂ થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/this-ipo-is-opening-on-january-28-price-band-is-rs-123-grey-market-is-booming-from-now-on-462659 ",
-    "time": "2026-01-23T11:35:16.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "હાઈ લા! ગણતરીના કલાકોમાં 40 વર્ષ જૂનો લોખંડનો મજબૂત પુલ ગાયબ થઈ ગયો, તપાસમાં ચોંકાવનારો ખુલાસો",
     "desc": "સામાન્ય રીતે કોઈના ઘરમાંથી સોનું ચોરાય, ચાંદી કે અન્ય વસ્તુઓની ચોરી થાય, વાહન ચોરાય, પૈસા ચોરાય પરંતુ વર્ષોથી અસ્તિત્વ ધરાવતો આખે આખો પુલ ચોરાઈ જાય એ કેવું? તમને આ જાણીને નવાઈ લાગશે પરંતુ આવું બન્યું છે. જાણો વિગતો.",
@@ -439,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/horror-film-sinners-got-16-nominations-hollywood-horror-thriller-sinners-on-ott-in-india-462594 ",
     "time": "2026-01-23T03:14:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "રાહુલ અને પ્રિયંકા ગાંધી વચ્ચેના ઝઘડાનો હું શિકાર બન્યો, ભાઈ-બહેન પર આ રાજ્યના મુખ્યમંત્રીનો મોટો દાવો",
-    "desc": "આસામના મુખ્યમંત્રી હિમંત બિસ્વા સરમાએ દાવો કર્યો છે કે, તેઓ પોતે રાહુલ અને પ્રિયંકાની વચ્ચે ચાલી રહેલ આંતરિક ઝઘડાનો શિકાર બન્યા છે. પૂર્વ કોંગ્રેસ નેતા હિમંત બિસ્વા સરમાએ કહ્યું કે, ગાંધી પરિવારમાં બધુ બરાબર નથી અને તાજેતરના રાજકીય નિર્ણયોમાં આના સંકેતો સ્પષ્ટપણે દેખાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/himanta-biswa-sarma-claims-victim-of-rahul-priyanka-rift-congress-internal-conflict-462554 ",
-    "time": "2026-01-22T14:42:49.000Z"
   },
   {
     "cat": "World",

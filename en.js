@@ -1,5 +1,185 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Relentless Saina pushes limits, shows the way for Gen Next",
+    "desc": "The badminton ace bows out of the international aren aon her own terms after a storied career, whose seeds were sown at the Philippines Open in 2006; the 2012 London Olympics bronze medallist held the door open long enough for others to walk in",
+    "img": "https://th-i.thgim.com/public/incoming/5zee8q/article70550781.ece/alternates/LANDSCAPE_1200/Saina-New.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/relentless-saina-pushes-limits-shows-the-way-for-gen-next/article70550779.ece",
+    "time": "2026-01-25T18:03:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Amaravati Bill’ will be introduced in Budget session of Parliament, says Chief Minister Chandrababu Naidu",
+    "desc": "During the Telugu Desam Parliamentary Party meeting, he advises MPs to make efforts to mobilise additional funds from the Centre, desist from picking up conflicts with Telangana on irrigation projects, and refrain from acting in a way that dents alliance’s objectives",
+    "img": "https://th-i.thgim.com/public/incoming/amaw98/article70550802.ece/alternates/LANDSCAPE_1200/a5901919-9fd5-4cd0-b83b-3b07be61604e.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/amaravati-bill-will-be-introduced-in-budget-session-of-parliament-says-chief-minister-chandrababu-naidu/article70550218.ece",
+    "time": "2026-01-25T17:54:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pant, Jaiswal, Shardul to miss Mumbai vs Delhi match",
+    "desc": "India's Test vice-captain Rishabh Pant, opener Yashasvi Jaiswal, and allrounder Shardul Thakur will miss Mumbai's Ranji Trophy match against Delhi due to injuries and illness. Pant is recovering from a side strain, Jaiswal from stomach pain after food poisoning, and Thakur from a calf injury. Mumbai has already qualified for the quarterfinals.",
+    "img": "https://static.toiimg.com/photo/msid-127493298,imgsize-1081036.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ranji-trophy-rishabh-pant-yashasvi-jaiswal-shardul-thakur-to-miss-mumbai-vs-delhi-match/articleshow/127491858.cms",
+    "time": "2026-01-25T17:51:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sunny makes first public appearance with Esha and Ahana",
+    "desc": "Sunny Deol shared a rare public moment with his step-sisters Esha Deol and Ahana Deol on Sunday as the trio attended the screening of Border 2 in Mumbai. Before entering the venue, Sunny, Esha and Ahana paused to pose for the paparazzi, smiling warmly for the cameras.",
+    "img": "https://static.toiimg.com/photo/msid-127492878,imgsize-63634.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deol-makes-first-public-appearance-with-esha-deol-and-ahana-deol-after-dharmendras-passing-surprises-fans-at-gaiety-galaxy/articleshow/127492745.cms",
+    "time": "2026-01-25T17:45:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Still can't get a 50 off 12 balls': Yuvraj's playful jab for Abhishek Sharma",
+    "desc": "Yuvraj Singh acknowledged Abhishek Sharma's rapid T20I fifty, a feat just shy of his own record. Sharma's aggressive batting propelled India's powerplay score, showcasing his fearless approach and strategic thinking. This explosive performance marks him as a significant emerging talent for India's T20 World Cup aspirations.",
+    "img": "https://static.toiimg.com/photo/msid-127492529,imgsize-212710.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/still-cant-get-a-50-off-12-balls-yuvraj-singhs-playful-jab-for-abhishek-sharma/articleshow/127492438.cms",
+    "time": "2026-01-25T17:41:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former BCCI president IS Bindra passes away at 84",
+    "desc": "Former BCCI president and veteran cricket administrator Inderjit Singh Bindra passed away at his New Delhi residence on Sunday at the age of 84. His health deteriorated suddenly after lunch, and he died around 6.30 pm. The last rites of Bindra, a key figure in Indian cricket administration, will be performed at the Lodhi crematorium on Monday.",
+    "img": "https://static.toiimg.com/photo/msid-127492590,imgsize-42102.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/former-bcci-president-is-bindra-passes-away-at-84/articleshow/127491972.cms",
+    "time": "2026-01-25T17:38:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.K. plans to create ‘British FBI’ to bring national investigations under single police force",
+    "desc": "The National Police Service will bring under the same umbrella the work of existing agencies dealing with terrorism and crime, police helicopters and policing of the roads, and regional organised crime units in England and Wales",
+    "img": "https://th-i.thgim.com/public/incoming/1ou9wo/article70550723.ece/alternates/LANDSCAPE_1200/Britain_Police_04432.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/uk-plans-to-create-british-fbi-to-bring-national-investigations-under-single-police-force/article70549837.ece",
+    "time": "2026-01-25T17:04:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Over 10,000 flights cancelled on Sunday as snow batters major hubs",
+    "desc": "A severe winter storm has triggered widespread flight cancellations across the US, impacting over 10,000 flights on Sunday alone. Major airports in Dallas, Charlotte, Philadelphia, Atlanta, and New York are experiencing significant disruptions. Airlines are advising passengers to check their status and explore rebooking options, with refunds guaranteed if the trip is no longer desired.",
+    "img": "https://static.toiimg.com/photo/msid-127488800,imgsize-7004.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/winter-storm-grounds-us-air-travel-over-10000-flights-cancelled-on-sunday-as-snow-batters-major-hubs/articleshow/127487622.cms",
+    "time": "2026-01-25T17:00:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India rewrite T20I history vs New Zealand in 3rd T20I with fastest-ever…",
+    "desc": "India's batters showcased explosive intent, achieving their fastest-ever team fifty in just 3.1 overs against New Zealand. Abhishek Sharma's blistering 14-ball half-century and Suryakumar Yadav's quickfire fifty powered India to a dominant eight-wicket victory, securing the series. This aggressive batting display signals a new era for Indian T20 cricket.",
+    "img": "https://static.toiimg.com/photo/msid-127489684,imgsize-173510.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-rewrite-t20i-history-vs-new-zealand-in-3rd-t20i-with-fastest-ever/articleshow/127489808.cms",
+    "time": "2026-01-25T16:57:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Pak-India Business Council urges dialogue as it extends Republic Day greetings to India",
+    "desc": "The Pak-India Business Council urged both nations to resume dialogue to resolve outstanding issues, extending greetings ahead of India's Republic Day. Chairman Noor Muhammad Kasuri highlighted India's development and the potential for collaborative growth, emphasizing peace, prosperity, and strengthened regional ties for the Global South.",
+    "img": "https://static.toiimg.com/photo/msid-127493679,imgsize-604887.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/pak-india-business-council-urges-dialogue-as-it-extends-republic-day-greetings-to-india/articleshow/127490035.cms",
+    "time": "2026-01-25T16:55:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Assembly election is a battle to defeat forces out to destroy Tamil culture, says CM Stalin",
+    "desc": "Only the DMK has the spine and courage to question the BJP-led government at the Centre that has betrayed the interests of Tamil Nadu, the DMK president says, speaking at an event organised to mark the Linguistic Martyrs’ Memorial Day at Kancheepuram",
+    "img": "https://th-i.thgim.com/public/incoming/esqk2b/article70550671.ece/alternates/LANDSCAPE_1200/STALIN%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/assembly-election-is-a-battle-to-defeat-forces-out-to-destroy-tamil-culture-says-cm-stalin/article70550670.ece",
+    "time": "2026-01-25T16:51:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India demolish NZ, chase down 154 in 10 overs to pocket series",
+    "desc": "India crushed New Zealand by eight wickets in the third T20I to seal the series 3-0. Bumrah’s 3/17, backed by Hardik, Bishnoi, and Rana, restricted New Zealand to 153/9. In reply, Abhishek Sharma’s 68 off 20 and Suryakumar Yadav’s 57 off 26 powered India to 155/2 in just 10 overs, completing a commanding win.",
+    "img": "https://static.toiimg.com/photo/msid-127488645,imgsize-54608.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/3rd-t20i-india-demolish-new-zealand-chase-down-154-in-10-overs-to-pocket-series/articleshow/127475287.cms",
+    "time": "2026-01-25T16:31:54.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "France detains Indian captain of suspected shadow fleet tanker",
+    "desc": "The vessel named Grinch was seized in the Mediterranean on Thursday (January 22, 2026), then diverted to anchor off the French port city, on suspicion of being part of the ​shadow fleet that lets Russia export oil ⁠despite sanctions",
+    "img": "https://th-i.thgim.com/public/incoming/c20yrv/article70550568.ece/alternates/LANDSCAPE_1200/G_Rc7XzWgAAsvsW.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/france-detains-indian-captain-of-suspected-shadow-fleet-tanker/article70550560.ece",
+    "time": "2026-01-25T16:12:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma scripts history with fastest-ever fifty vs NZ, joins elite club",
+    "desc": "Abhishek Sharma etched his name in the record books with a blistering 14-ball fifty, the joint third-fastest in men's T20Is against a Full Member nation. His fearless counter-attack, including a rapid 53-run partnership with Ishan Kishan, set the tone for India's comfortable chase. This historic knock followed a mixed series start, showcasing Sharma's growing reputation as a formidable top-order batter.",
+    "img": "https://static.toiimg.com/photo/msid-127487142,imgsize-160780.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/abhishek-sharma-scripts-history-with-fastest-ever-fifty-vs-new-zealand-joins-elite-club/articleshow/127487240.cms",
+    "time": "2026-01-25T16:08:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Inconsistency is permanent': Samson's golden duck triggers flood of fan reactions",
+    "desc": "Sanju Samson's T20I struggles persisted as he was dismissed for a golden duck on the first ball against New Zealand. His recent lean patch, with scores of 10, 6, and 0, has intensified discussions about India's opening combination. Meanwhile, India's bowlers, led by Ravi Bishnoi and Jasprit Bumrah, restricted New Zealand to 153 for 9.",
+    "img": "https://static.toiimg.com/photo/msid-127486750,imgsize-25892.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-inconsistency-is-permanent-sanju-samsons-golden-duck-triggers-flood-of-fan-reactions/articleshow/127486611.cms",
+    "time": "2026-01-25T16:02:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Govinda's son to make DEBUT in Sajid Khan's horror film",
+    "desc": "After a hiatus, renowned filmmaker Sajid Khan is diving back into the director's chair with his gripping new horror film, 'Hundred'. This project marks the Bollywood debut of Yashwardhan Ahuja, the son of legendary actor Govinda, who will star alongside the talented Nitanshi Goel. Filming has kicked off in the bustling Mumbai Film City, igniting excitement among fans.",
+    "img": "https://static.toiimg.com/photo/msid-127485448,imgsize-122734.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govindas-son-yashvardhan-ahuja-to-make-debut-in-sajid-khans-horror-film-nitanshi-goel-to-play-the-female-lead/articleshow/127485448.cms",
+    "time": "2026-01-25T15:39:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "IMD warns of fresh disturbance; over 800 roads blocked",
+    "desc": "The Met department has warned that weather conditions in Himachal Pradesh may worsen from Monday due to a fresh western disturbance, with heavy snowfall likely in higher reaches. Alerts have been issued as snowfall has already disrupted daily life, shutting over 800 roads and affecting power supply across several districts. Cold wave conditions continue in many parts of the state.",
+    "img": "https://static.toiimg.com/photo/msid-127486131,imgsize-294010.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/himachal-braces-for-more-snow-imd-warns-of-fresh-disturbance-over-800-roads-blocked/articleshow/127485750.cms",
+    "time": "2026-01-25T15:39:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Elathur constituency in Kozhikode likely to witness a three-cornered battle",
+    "desc": "Despite the CPI(M)’s strong grassroots presence, the seat has been allotted to the NCP within the LDF since its inception in 2008. The Congress, encouraged by gains in local body polls, is keen to contest Elathur directly this time, while the BJP’s growing presence in select pockets adds another layer of complexity",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/elathur-constituency-in-kozhikode-shaping-up-for-a-three-cornered-battle/article70550045.ece",
+    "time": "2026-01-25T15:36:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Anantapur’s water conservation efforts earn Prime Minister’s praise",
+    "desc": "He highlights how community participation and local initiative can revive even the most water-stressed regions; it reinforces the State’s commitment to water security, one of the 10 core principles under the Swarna Andhra Vision, says Chief Minister Chandrababu Naidu",
+    "img": "https://th-i.thgim.com/public/incoming/mc2x4m/article70550398.ece/alternates/LANDSCAPE_1200/DSC_2076.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/anantapurs-water-conservation-efforts-earn-prime-ministers-praise/article70549956.ece",
+    "time": "2026-01-25T15:32:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Virat Kohli and Anushka Sharma perform puja at London home",
+    "desc": "Virat Kohli and Anushka Sharma have been spending time away from the noise of fame at their London home. Known for fiercely guarding their privacy, the star couple recently offered a rare glimpse into their personal world — rooted in faith, calm and togetherness.",
+    "img": "https://static.toiimg.com/photo/msid-127483803,imgsize-41836.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-and-anushka-sharma-perform-puja-at-london-home-fans-get-a-rare-glimpse-into-their-spiritual-life/articleshow/127483714.cms",
+    "time": "2026-01-25T15:04:22.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Two-child norm and maternity leave: Big win for working mothers in SC",
     "desc": "The court set aside the decision of the division bench of Madras High Court, which had denied maternity leave to a government school teacher by applying the State’s two child norm policy, rather than as a right connected to motherhood and reproductive dignity.",
@@ -7,6 +187,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/legal/news/two-child-norm-and-maternity-leave-big-win-for-working-mothers-in-sc/articleshow/127478885.cms",
     "time": "2026-01-25T15:00:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranvir Shorey reveals why he said yes to Khosla Ka Ghosla 2",
+    "desc": "In an eagerly awaited comeback, Ranvir Shorey reprises his role as Balwant 'Bunty' Khosla in 'Khosla Ka Ghosla 2', alongside the stellar Anupam Kher and Boman Irani. Shorey expressed gratitude towards these seasoned actors, deeming them as the 'cornerstones' of his return. He also shared insights into the challenging dynamics of the film industry, navigating egos and rivalries.",
+    "img": "https://static.toiimg.com/photo/msid-127482632,imgsize-31874.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranvir-shorey-reveals-why-he-said-yes-to-khosla-ka-ghosla-2-says-i-didnt-want-to-be/articleshow/127482632.cms",
+    "time": "2026-01-25T14:48:32.000Z"
   },
   {
     "cat": "Sports",
@@ -63,6 +252,15 @@ const newsData_en = [
     "time": "2026-01-25T14:14:42.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "President Droupadi Murmu celebrates citizens’ role in nation-building on Republic Day eve– Top quotes",
+    "desc": "President Droupadi Murmu, on the Republic Day's eve, lauded India's democratic ideals, national heroes like Netaji Bose, and citizen contributions. She highlighted women's achievements, farmer's role, tribal empowerment, economic growth, and digital India's success. The address underscored collective efforts in building a stronger, self-reliant nation, inspiring national pride and unity.",
+    "img": "https://static.toiimg.com/photo/msid-127479290,imgsize-66308.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/address-to-the-nation-president-droupadi-murmu-celebrates-citizens-role-in-nation-building-on-republic-day-eve-top-quotes/articleshow/127479428.cms",
+    "time": "2026-01-25T14:11:22.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "'Impact matters more than runs': Rohit breaks down India's key players for T20 WC",
     "desc": "Rohit Sharma lauded Suryakumar Yadav's crucial role in the Indian cricket team. Sharma highlighted Yadav's consistent performance and unique batting style as vital for the team's strength. He also commended Abhishek Sharma's smart and impactful opening batting. These players are set to be key for India's upcoming T20 World Cup campaign.",
@@ -90,24 +288,6 @@ const newsData_en = [
     "time": "2026-01-25T13:47:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "M.V. Jayarajan raises concern over high number of applications for enrolment, correction",
-    "desc": "CPI(M) State secretariat says while most districts have recorded around 1.5 lakh applications, districts such as Kannur, Kozhikode, Malappuram, Palakkad, Thrissur, Ernakulam, Kottayam and Thiruvananthapuram have recorded more than two lakh applications, with some nearing six lakh",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-sir-mv-jayarajan-raises-concern-over-high-number-of-applications-for-enrolment-correction/article70549462.ece",
-    "time": "2026-01-25T13:39:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Centre focused on ‘Ram’ reference, not workers’ rights in new rural jobs law: Karnataka Minister",
-    "desc": "The Centre has had no conversation with the States before or after bringing the new rural employment law - Viksit Bharat- Guarantee for Rozgar and Ajeevika Mission (Gramin) Act 2025, Karnataka Rural Development Minister Priyank Kharge tellsThe Hindu in an interview.",
-    "img": "https://th-i.thgim.com/public/incoming/90gq8h/article70549850.ece/alternates/LANDSCAPE_1200/10258_18_1_2026_18_41_58_4_KALABURAGI_ZILLA_PANCHAYAT_4.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/centre-focused-on-ram-reference-not-workers-rights-in-newrural-jobs-law-karnataka-minister/article70549513.ece",
-    "time": "2026-01-25T13:37:05.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Mukesh reacts to ARR’s remarks, 'You shouldn’t complain anymore'",
     "desc": "Oscar-winning composer AR Rahman recently stirred controversy with his comments about his experience working in the Hindi film industry. Speaking about receiving fewer work offers in Bollywood, Rahman said that over the past eight years, a shift in power dynamics and “communal” factors — referring to religion, regional identity and industry politics — may have influenced the kind of opportunities he received. Now, veteran actor Mukesh Rishi has weighed in on the matter. Speaking to IANS, the popular 90s actor offered a perspective on changing times in the industry.",
@@ -115,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mukesh-rishi-reacts-to-ar-rahmans-communal-remarks-when-god-has-given-you-so-much-you-shouldnt-complain-anymore/articleshow/127478521.cms",
     "time": "2026-01-25T13:35:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "DMK unlikely to offer more seats to Secular Progressive Alliance constituents as it seeks to take in new allies",
-    "desc": "The DMK leadership is in no mood to concede either a share in power or an increase in the number of seats for the Congress. “We will allot the same number of seats that were given to the Congress in the 2021 Assembly election,” says a senior DMK leader",
-    "img": "https://th-i.thgim.com/public/incoming/spx3ch/article70549769.ece/alternates/LANDSCAPE_1200/08_JAIRAM_RAMESH_PC_03_01_DELHI.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-unlikely-to-offer-more-seats-to-secular-progressive-alliance-constituents-as-it-seeks-to-take-in-new-allies/article70549719.ece",
-    "time": "2026-01-25T13:35:37.000Z"
   },
   {
     "cat": "Sports",
@@ -169,24 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/odia-singer-abhijit-majumdar-passes-away-cause-of-death-tributes-funeral-and-other-details/articleshow/127475681.cms",
     "time": "2026-01-25T12:45:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Siddaramaiah scoffs at JD(S) coming to power in Karnataka",
-    "desc": "Mr. Siddaramaiah questioned how the JD(S) could realistically secure power, when it had won only 17 seats in the last Assembly elections, while the Congress had secured 136 seats — a number that has since risen to 140.",
-    "img": "https://th-i.thgim.com/public/incoming/umemej/article70549613.ece/alternates/LANDSCAPE_1200/Assembly%203.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/siddaramaiah-scoffs-at-jds-coming-to-power-in-karnataka/article70549424.ece",
-    "time": "2026-01-25T12:42:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Election Commission signals nationwide SIR, Karnataka response remains uncertain",
-    "desc": "Following ECI’s remarks that the SIR of electoral rolls would be implemented across the country, Karnataka Chief Electoral Officer Anbukumar, when asked whether the exercise would be undertaken in the State, said, “We will see.”",
-    "img": "https://th-i.thgim.com/public/incoming/we9nw6/article70549528.ece/alternates/LANDSCAPE_1200/DSC_7041.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/election-commission-signals-nationwide-sir-karnataka-response-remains-uncertain/article70549409.ece",
-    "time": "2026-01-25T12:03:53.000Z"
   },
   {
     "cat": "Entertainment",
@@ -235,15 +388,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Rajeswaran Revathi and Arnav Paparkar exit Australian Open first round",
-    "desc": "Indian teenagers Maaya Rajeswaran Revathi and Arnav Vijay Paparkar faced early exits in the Australian Open junior singles. Maaya lost to Russia's Anna Pushkareva, struggling with her second serve. Arnav was defeated by Indian-American Vihaan Reddy, despite having a stronger serve. In doubles, Arnav and Roshan Santosh also fell to the top seeds.",
-    "img": "https://static.toiimg.com/photo/msid-127471559,imgsize-140454.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/maaya-rajeswaran-revathi-and-arnav-paparkar-exit-australian-open-first-round/articleshow/127471680.cms",
-    "time": "2026-01-25T11:24:26.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Carlos Alcaraz's serve comes of age as he eyes maiden Australian Open title",
     "desc": "Carlos Alcaraz is showcasing a significantly improved serve at the Australian Open, mirroring Novak Djokovic's efficiency. Having worked on his service motion, Alcaraz reached the quarterfinals, demonstrating a smoother, more consistent delivery. He faces Alex De Minaur next, while American Learner Tien, the youngest quarterfinalist since 2015, takes on Alexander Zverev.",
     "img": "https://static.toiimg.com/photo/msid-127471278,imgsize-83548.cms",
@@ -286,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/your-american-dreams-might-have-to-wait-indians-face-increased-us-visa-refusals-over-social-media-checks/articleshow/127468905.cms",
     "time": "2026-01-25T10:41:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'You can't separate politics from sport': South Africa legend on Bangladesh T20 World Cup exit",
-    "desc": "Jonty Rhodes acknowledged the unavoidable collision of politics and cricket after Bangladesh's dramatic exit from the 2026 T20 World Cup. The Bangladesh Cricket Board's refusal to tour India over security concerns led to their replacement by Scotland. Rhodes, drawing on his apartheid-era experiences, highlighted how sport and politics often intertwine, despite administrators' best efforts.",
-    "img": "https://static.toiimg.com/photo/msid-127468899,imgsize-129640.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/you-cant-separate-politics-from-sport-south-africa-legend-on-bangladesh-t20-world-cup-exit/articleshow/127468895.cms",
-    "time": "2026-01-25T10:39:38.000Z"
   },
   {
     "cat": "Sports",
@@ -369,24 +504,6 @@ const newsData_en = [
     "time": "2026-01-25T09:48:52.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'I'm upset': Djokovic after Sabalenka breaks his Grand Slam record",
-    "desc": "Aryna Sabalenka reached the Australian Open quarterfinals after beating Victoria Mboko 6-1, 7-6. She dominated the match and won her 20th straight Grand Slam tiebreak, breaking Novak Djokovic’s Open Era record. Djokovic reacted jokingly, saying, \"I'm upset right now.\" Sabalenka, a two-time Australian Open champion, continues her strong run as other top seeds also competed for quarterfinal spots.",
-    "img": "https://static.toiimg.com/photo/msid-127466064,imgsize-37254.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/im-upset-right-now-novak-djokovic-after-aryna-sabalenka-breaks-his-elusive-grand-slam-record/articleshow/127465404.cms",
-    "time": "2026-01-25T09:42:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Khushbu lauds 'Sirai', calls it a must-watch",
-    "desc": "Actress Khushbu has lauded Vikram Prabhu's performance in the content-driven film 'Sirai', calling it a 'silent blockbuster' and a must-watch. Despite a modest opening in December 2025, the film achieved box-office success through positive word-of-mouth. Khushbu praised the film's tight direction, perfect casting, and Vikram Prabhu's restrained yet bold portrayal, highlighting its impact even on OTT.",
-    "img": "https://static.toiimg.com/photo/msid-127466038,imgsize-35118.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/khushbu-lauds-sirai-praises-vikram-prabhus-performance-rates-the-content-driven-film-a-must-watch/articleshow/127466038.cms",
-    "time": "2026-01-25T09:39:04.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Evil, corrupt forces won't rule': TVK chief Vijay targets DMK, AIADMK ahead of 2026 polls; unveils party symbol 'whistle'",
     "desc": "TVK chief Vijay on Sunday said that the party has strength and resolves to defeat 'evil and corrupt' forces ahead of Tamil Nadu elections which are scheduled in 2026. During the part meeting, he also launched his party symbol 'whistle'. Vijay who launched the party in 2024 sets TVK as an alternative rival to DMK and AIADMK.",
@@ -406,21 +523,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Border 2' Day 3 box office LIVE: No signs of slowing down",
-    "desc": "Sunny Deol's latest venture, 'Border 2', is taking the cinematic world by storm, enchanting viewers since its release during the Republic Day festivities. With an impressive box office haul topping Rs 80 crore and a remarkable Rs 30 crore on opening day alone, this war epic pays homage to its legendary predecessor while delivering a gripping tale of patriotism.",
+    "title": "Surpasses Dhurandhar; know how",
+    "desc": "Sunny Deol's 'Border 2' is a box office sensation, drawing massive crowds since its Republic Day week release. The war drama has already crossed Rs 113.77 crore in its opening weekend, shattering previous records. Directed by Anurag Singh, the film revisits the 1971 India-Pakistan War, showcasing diverse heroics. Read on.",
     "img": "https://static.toiimg.com/photo/msid-127464792,imgsize-47880.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-day-3-box-office-collection-live-sunny-deol-and-varun-dhawan-film-shows-no-signs-of-slowing-down/articleshow/127464792.cms",
     "time": "2026-01-25T09:16:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "After Bangladesh exit, Scotland say 'ready to play', prepare immediate India arrival",
-    "desc": "Cricket Scotland has accepted an invitation from the ICC to replace Bangladesh in the upcoming T20 World Cup in India. The team is preparing to travel immediately to acclimatize and compete on the global stage. This unexpected opportunity arises after Bangladesh's withdrawal due to security concerns.",
-    "img": "https://static.toiimg.com/photo/msid-127464616,imgsize-124990.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/after-bangladesh-exit-scotland-say-ready-to-play-prepare-immediate-india-arrival/articleshow/127464140.cms",
-    "time": "2026-01-25T09:08:55.000Z"
   },
   {
     "cat": "Business",
@@ -432,15 +540,6 @@ const newsData_en = [
     "time": "2026-01-25T09:04:01.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Who is'Karathey Babu' actressDaudee Jiwal?",
-    "desc": "The teaser for 'Karathey Babu' has generated significant buzz, introducing Daudee Jiwal, daughter of former DGP Shankar Jiwal, in her official Tamil cinema debut. The political drama, directed by Ganesh K. Babu and starring Ravi Mohan, hints at an intense narrative, with fans eager to decipher its political undertones and Ravi Mohan's antagonist role.",
-    "img": "https://static.toiimg.com/photo/msid-127463762,imgsize-80874.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/who-is-daudee-jiwal-karathey-babu-actress-steals-the-spotlight-in-the-teaser/articleshow/127463762.cms",
-    "time": "2026-01-25T08:53:52.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How India-EU trade pact will cut costs, boost trade — explained",
     "desc": "The India-EU free trade agreement is poised to boost trade and lower costs, according to GTRI. The pact leverages the distinct strengths of both economies, with India excelling in labor-intensive production and the EU in capital goods and technology. This synergy is expected to expand trade rather than harm domestic industries, benefiting producers and consumers alike.",
@@ -450,15 +549,6 @@ const newsData_en = [
     "time": "2026-01-25T08:50:09.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Tejashwi Yadav named RJD working president in father Lalu's presence; sister Rohini flags 'conspiracy'",
-    "desc": "​The appointment coincided with visible signs of internal disquiet within the party. Hours ahead of the RJD’s national executive meeting in Patna on Sunday, Lalu Prasad’s daughter Rohini Acharya alleged that the party’s control had slipped into the “hands of infiltrators and conspirators” whose sole aim, she claimed, was to destroy “Laluvad”.",
-    "img": "https://static.toiimg.com/photo/msid-127462692,imgsize-89696.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tejashwi-yadav-named-rjd-working-president-in-father-lalus-presence-sister-rohini-flags-conspiracy/articleshow/127461573.cms",
-    "time": "2026-01-25T08:37:23.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sunny Deol meets Param Vir Chakra hero’s family",
     "desc": "Sunny Deol, star of the upcoming 'Border 2,' recently met the family of Param Vir Chakra recipient Nirmal Jit Singh Sekhon, whose bravery is depicted in the film. Deol shared his profound experience, calling it a privilege. He also visited the INS Vikrant, accompanied by singers and producers, expressing immense pride and respect for the Indian Navy.",
@@ -466,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deol-meets-family-of-param-vir-chakra-hero-nirmal-jit-singh-sekhon-as-border-2-continues-to-impress-audiences/articleshow/127462552.cms",
     "time": "2026-01-25T08:30:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Odia music composer Abhijit Majumdar passes away at the age of 54",
-    "desc": "Odia music composer Abhijit Majumdar, a highly influential figure in Ollywood cinema, has passed away at 54. Battling multiple health issues since September 2025, his condition worsened Saturday night, leading to his demise. Majumdar, who composed over 700 songs, shaped generations of Odia music and his loss is deeply mourned by the industry.",
-    "img": "https://static.toiimg.com/photo/msid-127462480,imgsize-20016.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/bengali/movies/news/odia-music-composer-abhijit-majumdar-passes-away-at-the-age-of-54/articleshow/127462480.cms",
-    "time": "2026-01-25T08:29:30.000Z"
   },
   {
     "cat": "Entertainment",
@@ -504,24 +585,6 @@ const newsData_en = [
     "time": "2026-01-25T08:16:38.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Mercy' director reveals Chris Pratt's unique, emotional role",
-    "desc": "Chris Pratt ventures into uncharted territory with his role in 'Mercy,' a sci-fi thriller where he portrays a vulnerable, broken man, a departure from his usual action-packed performances. Director Timur Bekmambetov praised Pratt's surprising versatility, highlighting the film's emotional depth alongside thrilling elements. The movie sees Pratt's detective facing an AI judge, demanding a compelling performance.",
-    "img": "https://static.toiimg.com/photo/msid-127461562,imgsize-68866.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mercy-director-timur-bekmambetov-talks-making-film-with-chris-pratt-says-he-played-this-for-the-first-time/articleshow/127461562.cms",
-    "time": "2026-01-25T08:15:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Romeo and Cruz Beckham step out in Paris amid family feud",
-    "desc": "Amidst family turmoil, Romeo and Cruz Beckham enjoyed a romantic Parisian double date, showcasing love and style. This contrasts sharply with their elder brother Brooklyn's recent public accusations against their parents, David and Victoria, regarding wedding disputes and family control.",
-    "img": "https://static.toiimg.com/photo/msid-127461667,imgsize-751386.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/romeo-bechkam-and-cruz-beckham-spotted-paris-amid-the-family-feud-between-brooklyn-and-victoria-beckham/articleshow/127461675.cms",
-    "time": "2026-01-25T08:13:11.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India's crude basket: More Middle East, less Russia; after Trump's sanctions, what's next for Moscow's oil shipments?",
     "desc": "India is shifting its crude oil sourcing, reducing Russian imports due to compliance risks while increasing shipments from the Middle East. Despite a decline, Russian crude remains a significant, albeit more selective, part of India's energy mix, driven by its economic advantages and refinery margins.",
@@ -540,15 +603,6 @@ const newsData_en = [
     "time": "2026-01-25T07:22:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM Modi urges eligible youth to register as voters during Mann Ki Baat",
-    "desc": "Speaking during the 130th episode of his monthly radio programme Mann Ki Baat, Modi highlighted the significance of the upcoming Republic Day and the constitutional values it represents. He also drew attention to the importance of January 25, which is observed as National Voters’ Day, describing it as a key occasion in the democratic calendar.",
-    "img": "https://static.toiimg.com/photo/msid-127455094,imgsize-63066.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-urges-eligible-youth-to-register-as-voters-during-mann-ki-baat/articleshow/127454930.cms",
-    "time": "2026-01-25T06:14:06.000Z"
-  },
-  {
     "cat": "Business",
     "title": "US snow storm cancelled your flight? Here's what you need to know",
     "desc": "A powerful winter storm has caused widespread US air travel disruptions, leading to over 13,000 flight cancellations and impacting major airports. Airlines are waiving change fees and offering rebooking options, but compensation for meals or lodging during weather-related cancellations is not guaranteed.",
@@ -558,15 +612,6 @@ const newsData_en = [
     "time": "2026-01-25T06:04:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM Modi urges active voter participation in 130th Mann Ki Baat address",
-    "desc": "Prime Minister Narendra Modi addressed the 130th Mann Ki Baat on January 25, 2026, coinciding with National Voters' Day and the eve of Republic Day. He urged first-time voters to participate actively and highlighted the decade-long success of the Start-up India initiative, emphasizing the need for quality and excellence in Indian manufacturing and innovation.",
-    "img": "https://static.toiimg.com/photo/msid-127454932,imgsize-554093.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-urges-active-voter-participation-in-130th-mann-ki-baat-address-top-quotes/articleshow/127454815.cms",
-    "time": "2026-01-25T05:59:29.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Vedanta urges policy push for low-grade iron ore beneficiation",
     "desc": "India sits on massive low-grade iron ore inventory – estimated at over 300 million tonnes at mine heads – that remains underutilised due to high upfront costs for beneficiation plants and supporting infrastructure, says Sesa Goa CEO Navin Jaju",
@@ -574,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/budget/budget-2026-vedanta-urges-policy-push-for-low-grade-iron-ore-beneficiation/article70548954.ece",
     "time": "2026-01-25T05:56:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Imran Khan shares he auditioned for 'Delhi 6' but...",
-    "desc": "After a ten-year hiatus, Imran Khan is back on screen and reminisces about his journey, revealing that he auditioned for Rakeysh Omprakash Mehra's ambitious project 'Delhi 6' back in 2006-2007. At that time, the filmmakers chose a more established star due to budgetary constraints, a choice that left him feeling crushed.",
-    "img": "https://static.toiimg.com/photo/msid-127454552,imgsize-109488.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/imran-khan-reveals-he-auditioned-for-delhi-6-but-the-makers-didnt-want-to-put-the-money-on-a-new-untested-unproven-person/articleshow/127454552.cms",
-    "time": "2026-01-25T05:53:14.000Z"
   },
   {
     "cat": "Sports",
@@ -601,15 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/trump-admins-push-for-domestic-rare-earth-production-us-govt-to-get-10-stake-in-usa-rare-earth/articleshow/127447673.cms",
     "time": "2026-01-25T04:47:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Voter a Bhagya Vidhata': PM Modi greets citizens on  National Voters’ Day",
-    "desc": "National Voters’ Day is observed annually on January 25 to mark the foundation day of the Election Commission of India (ECI), established in 1950. The day aims to recognise voters, encourage youth participation, reinforce democratic values, and promote universal adult suffrage. In a post on X, the Prime Minister said National Voters’ Day is about “further deepening our faith in the democratic values of our nation”.",
-    "img": "https://static.toiimg.com/photo/msid-127449724,imgsize-46102.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/voter-a-bhagya-vidhata-pm-modi-greets-citizens-on-national-voters-day/articleshow/127449028.cms",
-    "time": "2026-01-25T04:23:12.000Z"
   },
   {
     "cat": "Business",
@@ -664,24 +691,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/board-of-peace-the-chairmans-circle/article70544149.ece",
     "time": "2026-01-24T19:54:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Cuba looks to expand economic ties with India across biotech, renewables and tourism, envoy says",
-    "desc": "Cuba seeks to bolster economic ties with India across various sectors including agro-industry, biotech, healthcare, IT, renewable energy, sports, and tourism. The nation, a pioneer in biopharma, is also transitioning to renewable energy, presenting collaboration opportunities. Cuba offers land use for businesses and electronic visas, alongside significant tourism infrastructure.",
-    "img": "https://static.toiimg.com/photo/msid-127416409,imgsize-577535.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/cuba-looks-to-expand-economic-ties-with-india-across-biotech-renewables-and-tourism-envoy-says/articleshow/127415877.cms",
-    "time": "2026-01-24T17:56:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India’s maritime sector seen drawing Rs 80 lakh crore investment; Vizhinjam to emerge as global hub, says Sonowal",
-    "desc": "India's maritime sector is poised for a massive Rs 80 lakh crore investment, aiming to reclaim nautical supremacy and create over 1.5 crore jobs. Union Minister Sarbananda Sonowal highlighted Vizhinjam port's transformation into a global transshipment hub, underscoring unprecedented progress in the sector under PM Modi's leadership.",
-    "img": "https://static.toiimg.com/photo/msid-127412935,imgsize-667163.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-maritime-sector-seen-drawing-rs-80-lakh-crore-investment-vizhinjam-to-emerge-as-global-hub-says-sonowal/articleshow/127412758.cms",
-    "time": "2026-01-24T17:09:04.000Z"
   },
   {
     "cat": "World",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/fujii-kazes-india-connection-ahead-of-lollapalooza-2026-india-is-my-spiritual-hometown/article70538156.ece",
     "time": "2026-01-23T08:41:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Calum Scott on his new album Avenoir, his concerts in India and more",
-    "desc": "In India to perform in Delhi and at Lollapalooza Mumbai, English singer-songwriter Calum Scott reflects on exploring different genres for Avenoir, preparing for an extensive world tour, and being excited for the new Harry Styles album",
-    "img": "https://th-i.thgim.com/public/life-and-style/tah1v4/article70541694.ece/alternates/LANDSCAPE_1200/SHOT_06_0025_v1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/music/calum-scott-on-his-new-album-avenoir-his-concerts-in-india-and-more/article70537272.ece",
-    "time": "2026-01-23T08:28:32.000Z"
   }
 ];

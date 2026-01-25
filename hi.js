@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "IS Bindra, former BCCI president and PCA head, passes away aged 84",
+    "desc": "Inderjit Singh Bindra, former president of the Board of Control for Cricket in India (BCCI), passed away on Sunday, January 21. He was 84 and is survived by a son and a daughter. Bindra was a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/is-bindra-former-bcci-president-and-pca-head-passes-away-aged-84-2026-01-25-1027450",
+    "time": "2026-01-25T18:21:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Stubbs, Breeztke star in nail-biter as Sunrisers Eastern Cape clinch SA20 for third time",
+    "desc": "Tristan Stubbs and Matthew Breetzke put up a brilliant batting effort in a nail-biting SA20 final against Pretoria Capitals as Sunrisers Eastern Cape clinched the title for the third time on Sunday, January 25. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/stubbs-breeztke-star-in-nail-biter-as-sunrisers-eastern-cape-clinch-sa20-for-third-time-2026-01-25-1027449",
+    "time": "2026-01-25T18:06:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why were Haris Rauf and Mohammad Rizwan not picked in Pakistan's T20 World Cup 2026 squad? Check actual reason",
+    "desc": "Pakistan announced their squad for the upcoming T20 World Cup 2026 on Sunday, January 25, despite their participation in the tournament being uncertain. The Men in Green named Babar Azam in the squad, while the likes...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-were-haris-rauf-and-mohammad-rizwan-not-picked-in-pakistans-t20-world-cup-2026-squad-check-actual-reason-2026-01-25-1027442",
+    "time": "2026-01-25T16:37:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India make mockery of New Zealand as Abhishek Sharma, Suryakumar Yadav star in series win in Guwahati",
+    "desc": "India mauled New Zealand down in the third T20I at the Barsapara Cricket Stadium, Guwahati, as the Men in Blue chased down 154 in just 10 overs to win the third match and the series...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-make-mockery-of-new-zealand-as-abhishek-sharma-suryakumar-yadav-star-in-series-win-in-guwahati-2026-01-25-1027440",
+    "time": "2026-01-25T16:15:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma creates history vs New Zealand with 14-ball fifty, falls just short of mentor Yuvraj Singh",
+    "desc": "Star India opener Abhishek Sharma has achieved a historic milestone for India during the third T20I between India and New Zealand at the Barsapara Cricket Stadium, Guwahati. The deadly left-handed bowler played a jaw-dropping knock...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-creates-history-vs-new-zealand-with-14-ball-fifty-falls-just-short-of-mentor-yuvraj-singh-2026-01-25-1027438",
+    "time": "2026-01-25T15:59:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why are Varun Chakravarthy and Arshdeep Singh not playing in IND vs NZ 3rd T20I? Revealed",
     "desc": "Varun Chakravarthy and Arshdeep Singh missed out as India take on New Zealand in the third T20I of the five-match series at the Barsapara Cricket Stadium, Guwahati on Sunday, January 25. The red-hot Indian team look...",
     "img": "",
@@ -19,7 +64,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "India keep New Zealand to 153/9 as bowlers star in Guwahati",
+    "title": "India hunt down 154 in 10 overs to seal series in Guwahati",
     "desc": "India are in red-hot form in their final series ahead of the T20 World Cup 2026 as their batters have fired in both games. They did extremely well batting first in the series opener in...",
     "img": "",
     "src": "indiatvnews.com",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/novak-djokovic-breaks-roger-federer-record-receives-walkover-to-enter-australian-open-quarterfinal-2026-01-25-1027416",
     "time": "2026-01-25T11:14:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCB confirms it won't challenge ICC's decision for removing Bangladesh from T20 World Cup 2026",
-    "desc": "The Bangladesh Cricket Board (BCB) media committee chairman, Amzad Hossain, has confirmed that the board is not going to challenge the International Cricket Council (ICC)'s decision to remove its team from the upcoming T20 World...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcb-confirms-it-wont-challenge-iccs-decision-for-removing-bangladesh-from-t20-world-cup-2026-2026-01-25-1027410",
-    "time": "2026-01-25T10:33:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Carlos Alcaraz breezes past Tommy Paul in straight sets, advances to Australian Open quarter-finals",
-    "desc": "Spanish tennis superstar Carlos Alcaraz continued his unbeaten run in the ongoing Australian Open 2026 and has made it to the quarter-final stage of the competition. Alcaraz took on world number 19 Tommy Paul in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-breezes-past-tommy-paul-in-straight-sets-advances-to-australian-open-quarter-finals-2026-01-25-1027405",
-    "time": "2026-01-25T09:31:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Way too early': R Ashwin comes to star India batter's defence amid struggle with form ahead of third NZ T20I",
-    "desc": "Team India has been in brilliant form in the ongoing T20I series against New Zealand. The two sides have locked horns across two T20Is so far, and both matches have been won by the Men...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/way-too-early-r-ashwin-comes-to-star-india-batter-s-defence-amid-struggle-with-form-ahead-of-third-nz-t20i-2026-01-25-1027401",
-    "time": "2026-01-25T08:38:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan announce squad for T20 World Cup 2026, Salman Ali Agha to lead with Babar Azam in the mix",
-    "desc": "The PCB (Pakistan Cricket Board) took centre stage and announced Pakistan's 15-member squad for the upcoming edition of the T20 World Cup 2026. Salman Ali Agha will be leading the side in the tournament, with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-announce-squad-for-t20-world-cup-2026-salman-ali-agha-to-lead-with-babar-azam-in-the-mix-2026-01-25-1027392",
-    "time": "2026-01-25T07:02:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Report",
-    "desc": "The T20 World Cup 2026 is all set to kick off on February 7. The marquee tournament is slated to be held in India and Sri Lanka, and even before the beginning of the tournament,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-warns-pakistan-of-severe-repercussions-over-t20-world-cup-2026-boycott-conundrum-report-2026-01-25-1027390",
-    "time": "2026-01-25T06:55:20.000Z"
   }
 ];
