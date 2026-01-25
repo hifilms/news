@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Cricket Scotland officially accept invitation to compete in T20 World Cup 2026 after Bangladesh's removal",
+    "desc": "The ICC (International Cricket Council) recently announced that Scotland will replace Bangladesh in the upcoming T20 World Cup 2026, following Bangladesh's removal from the tournament as they refused to travel to India due to security...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cricket-scotland-officially-accept-invitation-to-compete-in-t20-world-cup-2026-after-bangladesh-s-removal-2026-01-25-1027353",
+    "time": "2026-01-25T01:32:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Bangladesh issue statement after being replaced by Scotland for T20 World Cup 2026",
     "desc": "The International Cricket Council (ICC) replaced Scotland with Bangladesh for the upcoming T20 World Cup 2026, starting February 7. After Mustafizur Rahman was released by Kolkata Knight Riders for IPL 2026, Bangladesh cited security as...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mohammed-shami-sends-message-to-bcci-selectors-with-five-wicket-haul-in-ranji-trophy-2026-01-24-1027317",
     "time": "2026-01-24T12:17:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Novak Djokovic rewrites history, becomes first player to achieve major Grand Slam record in Australia Open",
-    "desc": "Novak Djokovic etched his name further into tennis history on January 24, 2026, when he became the first player to achieve 400 match wins in Grand Slam tournaments. The Serbian star secured this monumental milestone...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-rewrites-history-becomes-first-player-to-achieve-major-grand-slam-record-in-australia-open-2026-01-24-1027309",
-    "time": "2026-01-24T11:38:10.000Z"
   }
 ];

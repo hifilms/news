@@ -1,6 +1,105 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Wake up from hibernation and activate SIR war rooms, Abhishek tells Trinamool MPs",
+    "desc": "The TMC leader Abhishek Banerjee said the work relating to SIR will have to be done by party workers during the day and in the evening, a film highlighting the achievements of Mamata Banerjee’s government will be screened",
+    "img": "https://th-i.thgim.com/public/incoming/vahm7p/article70548657.ece/alternates/LANDSCAPE_1200/11th-SHIV-TrinaGJ9FE68TF.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/wake-up-from-hibernation-and-activate-sir-war-rooms-abhishek-tells-trinamool-mps/article70547087.ece",
+    "time": "2026-01-25T01:30:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Chatha Pacha' BO day 3: Film collects Rs 2.15 crores",
+    "desc": "The Ring of Rowdies' has garnered a positive reception at the box office, accumulating Rs 7.65 crores in its opening three days. Despite a slight dip on day two, the film showed a steady performance, particularly with strong night show occupancy on Sunday. Early estimates suggest a promising run ahead.",
+    "img": "https://static.toiimg.com/photo/msid-127440776,imgsize-59814.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/chatha-pacha-box-office-collections-day-3-roshan-mathew-film-holds-steady-collects-rs-2-15-crores/articleshow/127440776.cms",
+    "time": "2026-01-25T01:05:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Sarvam Maya' BO day 28: Nivin Pauly film collects Rs 38 lakhs",
+    "desc": "Nivin Pauly's horror-comedy 'Sarvam Maya' continues to draw crowds in theatres, even with its OTT release on JioHotstar set for January 30. The film has achieved a remarkable Rs 145.3 Cr worldwide. The story follows an atheist priest who encounters a quirky ghost, leading to unexpected bonds and humorous situations.",
+    "img": "https://static.toiimg.com/photo/msid-127439938,imgsize-59142.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/sarvam-maya-box-office-collections-day-28-nivin-pauly-film-collects-rs-38-lakhs-ott-announcement-fails-to-slow-run/articleshow/127439938.cms",
+    "time": "2026-01-25T00:47:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Blackmail cricket world': PCB chief Naqvi under fire over pullout remarks",
+    "desc": "Former India cricketer Atul Wassan slammed PCB chief Mohsin Naqvi’s remarks on possibly skipping the 2026 T20 World Cup, calling it “foolish bravado.” He said dragging politics into cricket hurts players, not administrators. Wassan felt Pakistan was backing Bangladesh for political mileage. His comments followed Naqvi’s criticism of the ICC after Bangladesh were replaced by Scotland for refusing to follow the tournament schedule.",
+    "img": "https://static.toiimg.com/photo/msid-127414633,imgsize-60284.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/blackmail-the-whole-cricketing-world-pcb-chief-mohsin-naqvi-under-fire-over-t20-world-cup-pullout-remarks/articleshow/127413953.cms",
+    "time": "2026-01-25T00:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Parasakthi' BO day 15: SK film collects only Rs 22 lakhs",
+    "desc": "Sivakarthikeyan's 'Parasakthi' is struggling at the box office, with daily collections dwindling significantly. Despite a strong cast and director, the film has garnered Rs 82.75 Cr worldwide, but recent figures show a clear slowdown. While OTT rights are secured, the theatrical run is facing an uphill battle, indicating no signs of revival.",
+    "img": "https://static.toiimg.com/photo/msid-127439015,imgsize-121660.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-box-office-collections-day-15-sivakarthikeyans-film-collects-only-rs-22-lakhs-no-sign-of-comeback/articleshow/127439015.cms",
+    "time": "2026-01-25T00:28:11.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "What lies behind Trump’s Greenland moves?",
+    "desc": "Why does the U.S. want Greenland? What has been the U.S. President’s recent rhetoric on the Arctic territory? Is there a comedown of sorts on tariffs? On the security aspect, isn’t Greenland protected by NATO? What is Greenland rich in besides reserves of oil and natural gas?",
+    "img": "https://th-i.thgim.com/public/incoming/lvgpg6/article70548640.ece/alternates/LANDSCAPE_1200/2026-01-23T010312Z_921133338_RC2T5JADQO5K_RTRMADP_3_USA-EUROPE-DILEMMAS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/what-lies-behind-trumps-greenland-moves-explained/article70547395.ece",
+    "time": "2026-01-25T00:20:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Raja Saab' BO day 16: Prabhas film collects Rs 23 lakhs",
+    "desc": "Prabhas's horror comedy 'The Raja Saab' is experiencing a significant box office slowdown, with collections plummeting on its 16th day. Despite a worldwide gross of Rs 205.26 Cr, the film's domestic performance, particularly in Hindi and Malayalam, has been disappointing. Online reviews reflect audience dissatisfaction with the writing and direction.",
+    "img": "https://static.toiimg.com/photo/msid-127437927,imgsize-16626.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-box-office-collections-day-16-prabhas-film-struggles-collects-only-rs-23-lakhs/articleshow/127437927.cms",
+    "time": "2026-01-25T00:04:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The hope for peace to prevail",
+    "desc": "Amid the recent violence in neighbouring Bangladesh, Indian families who had migrated to Bihar’s north-eastern district of Kishanganj in the 1960s, are concerned about family members who decided to stay back. Amarnath Tewary tells the stories of the migrants, who speak about the struggles of displacement and loss, as they now navigate worry",
+    "img": "https://th-i.thgim.com/public/incoming/vgrixd/article70539344.ece/alternates/LANDSCAPE_1200/6744_21_1_2026_18_22_53_1_IMG_1273.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/the-hope-for-peace-to-prevail-indian-migrants-kishanganj/article70539333.ece",
+    "time": "2026-01-25T00:00:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'India is beautiful from space…I saw how light connects people in the subcontinent'",
+    "desc": "After 12 years away, an astronaut returns to India, surrounded by the echoes of her father's stories and the warmth of family bonds. This is her inaugural trip to Kerala, a land her father called enchanting.",
+    "img": "https://static.toiimg.com/photo/msid-127411987,imgsize-1125575.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-is-beautiful-from-spacei-saw-how-light-connects-people-in-the-subcontinent/articleshow/127411685.cms",
+    "time": "2026-01-24T23:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "High court",
+    "desc": "The Delhi High Court ruled that blood pressure issues in military officers cannot be dismissed as mere lifestyle disorders to deny disability pensions. The court emphasized that medical boards must thoroughly examine individual cases and provide clear reasoning, rejecting the Union government's challenge to an Armed Forces Tribunal order. This decision upholds the entitlement of a retired IAF officer.",
+    "img": "https://static.toiimg.com/photo/msid-127429102,imgsize-967076.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cannot-dismiss-blood-pressure-as-a-lifestyle-disease-and-deny-disability-pension-to-military-officer-high-court/articleshow/127428957.cms",
+    "time": "2026-01-24T21:25:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Woman lives 25 years with a donor heart",
+    "desc": "Preeti Unhale, 51, has become India's longest-living heart transplant survivor, marking 25 years with a donor heart on January 23, 2026. Facing a critical condition in 2000, she underwent the life-saving procedure at AIIMS, demonstrating remarkable resilience and adherence to lifelong medical discipline.",
+    "img": "https://static.toiimg.com/photo/msid-127428833,imgsize-641127.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/silver-lining-woman-lives-25-yrs-with-a-donor-heart/articleshow/127428528.cms",
+    "time": "2026-01-24T21:15:53.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Ailing wife in rickshaw van, 70-yr-old in Odisha cycles 600km to hospital &amp; back",
     "desc": "A 70-year-old man, Babu Lohar, pedalled his rickshaw van 300km to Cuttack with his ailing wife for medical treatment, refusing help. After two months, he is now making the arduous journey back home, showcasing immense devotion and highlighting the struggles of the poor in accessing healthcare and transport.",
     "img": "https://static.toiimg.com/photo/msid-127427824,imgsize-1109055.cms",
@@ -39,7 +138,7 @@ const newsData_en = [
     "cat": "Politics",
     "title": "Supreme Court judge slams collegium for transfer on government nudge",
     "desc": "Supreme Court Justice Ujjal Bhuyan voiced strong dissent over the collegium's decision to transfer Justice Atul Sreedharan, citing executive influence. He argued that such transfers, especially when prompted by the central government, compromise judicial independence and the integrity of the collegium system. Justice Bhuyan emphasized the judiciary's reliance on public faith.",
-    "img": "https://static.toiimg.com/photo/msid-127425330,imgsize-332643.cms",
+    "img": "https://static.toiimg.com/photo/msid-127438367,imgsize-852752.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/supreme-court-judge-slams-collegium-for-transfer-on-govt-nudge/articleshow/127424979.cms",
     "time": "2026-01-24T20:03:25.000Z"
@@ -48,7 +147,7 @@ const newsData_en = [
     "cat": "World",
     "title": "Board of Peace",
     "desc": "Donald Trump says the board he proposed to oversee the reconstruction of war-devastated Gaza could become ‘one of the most consequential bodies ever created’, but a majority of the countries invited have stayed away from the signing ceremony in Davos",
-    "img": "https://th-i.thgim.com/public/incoming/3cae6q/article70544148.ece/alternates/LANDSCAPE_1200/2026-01-22T105045Z_1877874493_RC2A6JAU4GJN_RTRMADP_3_DAVOS-MEETING.JPG",
+    "img": "https://th-i.thgim.com/public/incoming/d3h8hk/article70544148.ece/alternates/LANDSCAPE_1200/2026-01-22T105045Z_1877874493_RC2A6JAU4GJN_RTRMADP_3_DAVOS-MEETING.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/board-of-peace-the-chairmans-circle/article70544149.ece",
     "time": "2026-01-24T19:54:00.000Z"
@@ -79,6 +178,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/2241-army-jcos-get-honorary-officer-ranks-for-long-selfless-service/articleshow/127420154.cms",
     "time": "2026-01-24T18:53:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India bears special responsibility to preserve, share principles of compassion, non-violence: Rijiju",
+    "desc": "“Under the leadership of Prime Minister Narendra Modi, India has undertaken a ‘proactive responsibility’ in providing an international platform for Buddhist monks, gurus, scholars, and thinkers, reinforcing the nation’s enduring commitment to peace and harmony,” Mr. Rijiju said",
+    "img": "https://th-i.thgim.com/public/incoming/m5dgbd/article70547722.ece/alternates/LANDSCAPE_1200/20260124387L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kiren-rijjiju-global-buddhist-summit-india-buddhist-values-of-compassion/article70547720.ece",
+    "time": "2026-01-24T18:37:00.000Z"
   },
   {
     "cat": "Politics",
@@ -282,7 +390,7 @@ const newsData_en = [
     "cat": "World",
     "title": "Trump threatens Canada with 100% tariffs over its new trade deal with China",
     "desc": "Trump said in a social media post that if Canadian Prime Minister Mark Carney “thinks he is going to make Canada a Drop Off Port for China to send goods and products into the United States, he is sorely mistaken”",
-    "img": "https://th-i.thgim.com/public/incoming/9lu273/article70547084.ece/alternates/LANDSCAPE_1200/2026-01-23T010312Z_921133338_RC2T5JADQO5K_RTRMADP_3_USA-EUROPE-DILEMMAS.JPG",
+    "img": "https://th-i.thgim.com/public/incoming/wqj1wt/article70547084.ece/alternates/LANDSCAPE_1200/2026-01-23T010312Z_921133338_RC2T5JADQO5K_RTRMADP_3_USA-EUROPE-DILEMMAS.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-threatens-canada-with-100-tariffs-over-its-new-trade-deal-with-china/article70547044.ece",
     "time": "2026-01-24T15:21:18.000Z"
@@ -459,15 +567,6 @@ const newsData_en = [
     "time": "2026-01-24T12:54:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'SIR turned into weapon': Rahul attacks BJP, says EC key accomplice in 'vote chori' conspiracy",
-    "desc": "Congress leader Rahul Gandhi alleged a \"strategic vote chori\" in Gujarat under the guise of Special Intensive Revision (SIR), accusing the Election Commission of complicity. He claimed that the EC has become a \"chief accomplice in this vote chori conspiracy\". The Gujarat Congress unit also alleged widespread rigging, claiming that millions of objections were filed to target specific communities.",
-    "img": "https://static.toiimg.com/photo/msid-127398333,imgsize-27856.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sir-turned-into-weapon-rahul-attacks-bjp-says-ec-key-accomplice-in-vote-chori-conspiracy/articleshow/127395942.cms",
-    "time": "2026-01-24T12:38:33.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "What led ICC to remove Bangladesh from the T20 World Cup",
     "desc": "The ICC has replaced Bangladesh with Scotland in the 2026 T20 World Cup after the Bangladesh Cricket Board refused to travel to India. Despite extensive dialogue and a deadline, the BCB maintained its objections over security assessments, a stance the ICC deemed an unhealthy precedent. The decision was finalized after the BCB failed to confirm participation.",
@@ -513,15 +612,6 @@ const newsData_en = [
     "time": "2026-01-24T12:04:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Scotland replaces Bangladesh in T20 World Cup; Air India cancels New York flights due to winter storm &amp; more",
-    "desc": "Scotland replaces Bangladesh in the Men's T20 World Cup 2026 due to Bangladesh's travel commitment issues. Meanwhile, Air India cancelled New York flights amid a US winter storm. The US hinted at removing tariffs on Indian oil imports from Russia, while Russia launched drone and missile attacks on Ukraine during peace talks.",
-    "img": "https://static.toiimg.com/photo/msid-127393053,imgsize-668133.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-scotland-replaces-bangladesh-in-t20-world-cup-air-india-cancels-all-flights-from-new-york-due-to-winter-storm-more/articleshow/127392831.cms",
-    "time": "2026-01-24T11:53:21.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Heat, cramps and chaos: Sinner survives Melbourne furnace to reach fourth round",
     "desc": "Jannik Sinner battled severe heat and cramping at the Australian Open, struggling against Eliot Spizzirri before a heat-induced roof closure and break allowed him to recover. He ultimately secured a tough 4-6, 6-3, 6-4, 6-4 victory. Meanwhile, veteran Stan Wawrinka's impressive run ended as he was defeated by Taylor Fritz.",
@@ -529,33 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/heat-cramps-and-chaos-jannik-sinner-survives-melbourne-furnace-to-reach-fourth-round/articleshow/127392653.cms",
     "time": "2026-01-24T11:47:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vikram and daughter named in new financial fraud case",
-    "desc": "Vikram Bhatt and daughter Krishna booked by Versova Police for allegedly cheating a businessman of Rs 13.5 crore with false film investment promises. EOW probes the fraud. Separately, Vikram and wife Shwetambari arrested in Udaipur’s Rs 30 crore scam after pitching big returns on a biopic to Dr. Ajay Murdia.",
-    "img": "https://static.toiimg.com/photo/msid-127391643,imgsize-20302.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vikram-bhatt-and-daughter-named-in-new-financial-fraud-case-accused-of-cheating-rs-13-5-crore-report/articleshow/127391643.cms",
-    "time": "2026-01-24T11:31:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anil Ravipudi says pan-Indian stars should return to ‘smaller films’",
-    "desc": "Filmmaker Anil Ravipudi passionately encourages pan-Indian icons to strike a harmonious balance between high-budget extravaganzas and intimate regional narratives. Drawing comparisons between the box office triumph of his film featuring Chiranjeevi and Prabhas's 'The Raja Saab', he argues that diversifying projects can not only invigorate the industry but also safeguard theatres from extinction, unveiling the rich promise of regional storytelling.",
-    "img": "https://static.toiimg.com/photo/msid-127390353,imgsize-25058.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/mana-shankara-vara-prasad-garu-director-anil-ravipudi-says-pan-indian-stars-should-return-to-smaller-films-as-prabhas-the-raja-saab-fails-at-box-office/articleshow/127390353.cms",
-    "time": "2026-01-24T11:16:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ezra Sosa admits having a ‘breakdown’ in ‘DWTS' Tour opening",
-    "desc": "Dancing pro Ezra Sosa confessed to a 'breakdown' during the 'Dancing With the Stars' tour's opening night in Ohio due to performance errors. Fans, however, rallied around him, assuring him they noticed no mistakes and praised his talent. Sosa, known for his charisma and advocacy, previously reached the season 34 finals with partner Jordan Chiles.",
-    "img": "https://static.toiimg.com/photo/msid-127389653,imgsize-68924.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/ezra-sosa-admits-to-having-a-breakdown-in-dancing-with-the-stars-tour-opening-im-genuinely-so-upset-with-myself/articleshow/127389653.cms",
-    "time": "2026-01-24T11:03:32.000Z"
   },
   {
     "cat": "Sports",
@@ -691,15 +754,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/12-more-companies-to-enter-the-ipo-street-sebi-gives-approval-to-hella-infra-market-oswal-cables-more/articleshow/127359719.cms",
     "time": "2026-01-24T04:42:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Palash Muchhal was caught with another woman in bed': Mandhana's friend",
-    "desc": "Actor-producer Vidnyan Mane has accused singer-composer Palaash Muchhal of infidelity and financial misconduct, leading to a police complaint in Sangli, Maharashtra. Mane alleges Muchhal was caught with another woman during wedding festivities and claims he was cheated of over Rs 40 lakh in a film project. Muchhal has denied all accusations, calling them baseless and factually incorrect.",
-    "img": "https://static.toiimg.com/photo/msid-127357490,imgsize-38140.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/palash-muchhal-was-caught-red-handed-with-another-woman-in-bed-smriti-mandhanas-childhood-friend/articleshow/127357436.cms",
-    "time": "2026-01-24T03:20:14.000Z"
   },
   {
     "cat": "Sports",
@@ -844,59 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/fujii-kazes-india-connection-ahead-of-lollapalooza-2026-india-is-my-spiritual-hometown/article70538156.ece",
     "time": "2026-01-23T08:41:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Calum Scott on his new album Avenoir, his concerts in India and more",
-    "desc": "In India to perform in Delhi and at Lollapalooza Mumbai, English singer-songwriter Calum Scott reflects on exploring different genres for Avenoir, preparing for an extensive world tour, and being excited for the new Harry Styles album",
-    "img": "https://th-i.thgim.com/public/life-and-style/tah1v4/article70541694.ece/alternates/LANDSCAPE_1200/SHOT_06_0025_v1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/music/calum-scott-on-his-new-album-avenoir-his-concerts-in-india-and-more/article70537272.ece",
-    "time": "2026-01-23T08:28:32.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "The Hindu Editorial",
-    "desc": "The ‘Board of Peace’ initiative, linked to the Trump administration’s Gaza peace plan, has raised questions over its structure, legitimacy and sidelining of Palestinian leadership. New Delhi now faces a complex choice balancing principle, diplomacy and regional pressure.",
-    "img": "https://th-i.thgim.com/public/incoming/i06x0g/article70541133.ece/alternates/LANDSCAPE_1200/edit%20-%20bangladesh2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-the-hindu-editorial-on-india-and-donald-trumps-board-of-peace/article70541147.ece",
-    "time": "2026-01-23T05:31:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Davos meeting concludes after Trump steals limelight, amidst caution against geopolitical conflict, AI risks",
-    "desc": "Canadian PM Mark Carney said middle powers like Canada, who had prospered through the era of an “American hegemon” needed to realise that a new reality had set in and that “compliance” would not shelter them from major power aggression",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/world-economic-forum-2026-davos-live-updates-january-23/article70540869.ece",
-    "time": "2026-01-23T03:49:05.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump sues JPMorgan for $5 billion, alleges the bank closed his accounts for political reasons",
-    "desc": "Mr. Trump alleges he tried to raise the issue personally with Mr. Dimon after the bank started to close his accounts, and that Mr. Dimon assured Mr. Trump he would figure out what was happening",
-    "img": "https://th-i.thgim.com/public/incoming/oo2j7w/article70539927.ece/alternates/LANDSCAPE_1200/2026-01-22T132948Z_450910037_RC2D6JAVQVNX_RTRMADP_3_DAVOS-MEETING-TRUMP.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-sues-jpmorgan-for-5-billion-alleges-the-bank-closed-his-accounts-for-political-reasons/article70539926.ece",
-    "time": "2026-01-22T21:59:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gukesh beats Nguyen; Arjun shocked by Fedoseev",
-    "desc": "Gukesh's timely victory ahead of the first rest day on Thursday (January 22, 2026) put him on three points out of a possible five and the Indian ace went up to joint fourth spot behind three leaders",
-    "img": "https://th-i.thgim.com/public/incoming/n4hw0x/article70539791.ece/alternates/LANDSCAPE_1200/PTI01_16_2025_000374A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/tata-steel-masters-gukesh-beats-nguyen-arjun-shocked-by-fedoseev/article70539787.ece",
-    "time": "2026-01-22T20:53:20.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "India ‘disregarded’ friendly advice on controlling Hasina’s government: Former Awami ally G.M. Quader",
-    "desc": "Mr. Quader said his party is not receiving support from the current administration because of its past association with the Awami League and accused the country’s interim government of lacking sincerity in delivering an inclusive election",
-    "img": "https://th-i.thgim.com/public/incoming/ivwosn/article70539771.ece/alternates/LANDSCAPE_1200/IMG-20260122-WA0042.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/india-disregarded-friendly-advice-on-controlling-hasinas-government-former-awami-ally-gm-quader/article70539336.ece",
-    "time": "2026-01-22T19:54:11.000Z"
   }
 ];
