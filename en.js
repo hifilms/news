@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "How to make ESOPs more valuable for startup staff",
+    "desc": "India's startup ecosystem faces challenges with ESOP taxation, creating liquidity issues for employees. While a 2020 tax deferral aimed to help, it's limited to a small fraction of eligible startups. Expanding this benefit to all recognized startups and unlisted companies is crucial for making ESOPs a true wealth-creation tool.",
+    "img": "https://static.toiimg.com/photo/msid-127575190,imgsize-461609.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/how-to-make-esops-more-valuable-for-startup-staff/articleshow/127575068.cms",
+    "time": "2026-01-26T21:03:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Farah says except for Aishwarya nobody is a natural beauty",
+    "desc": "Filmmaker Farah Khan, while promoting a skincare product, humorously attributed her glowing skin to the brand after her cook praised her natural beauty. She then candidly stated that, apart from Aishwarya Rai, few actresses in the industry are naturally beautiful.",
+    "img": "https://static.toiimg.com/photo/msid-127574936,imgsize-33968.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-jokes-aishwarya-rai-ko-chhodke-shayad-hi-koi-naturally-beautiful-hoga-as-dilip-asks-her-about-her-glowing-skin/articleshow/127574864.cms",
+    "time": "2026-01-26T21:00:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Report",
+    "desc": "Technology reigns supreme as the top paymaster in 2026, with AI and digitisation driving demand for tech roles. Software development, product management, and data engineering are leading the charge. Interestingly, senior-level salaries are surging in Tier-2 cities, challenging metro dominance. Overall salary growth is projected at 9% this year.",
+    "img": "https://static.toiimg.com/photo/msid-127574955,imgsize-1019190.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/ai-sends-tech-to-top-of-pay-charts-report/articleshow/127574844.cms",
+    "time": "2026-01-26T20:58:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'Dollar assets gain favour among India's wealthy as Rupee depreciates'",
+    "desc": "Wealthy Indians are increasingly diversifying into dollar-denominated assets, with GIFT City emerging as a preferred route to hedge against rupee depreciation. While equities remain popular, real assets, boosted by AIFs, REITs, and InvITs, form the largest investment bucket. Despite global headwinds, HNIs and UHNIs remain bullish on India's growth, though GDP growth expectations have moderated.",
+    "img": "https://static.toiimg.com/photo/msid-127574719,imgsize-588406.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/dollar-assets-gain-favour-among-indias-wealthy-as-rupee-depreciates/articleshow/127574585.cms",
+    "time": "2026-01-26T20:52:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Weight of mfg &amp; electricity set to rise in new IIP series, mining to fall",
+    "desc": "The Index of Industrial Production (IIP) is set for a significant overhaul with a new base year of 2022-23 and a shift to a chain-based series. This update will increase the weight of electricity and manufacturing sectors while decreasing mining's share, reflecting evolving production patterns. The new methodology aims to better capture dynamic economic changes.",
+    "img": "https://static.toiimg.com/photo/msid-127574420,imgsize-884663.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/weight-of-mfg-electricity-set-to-rise-in-new-iip-series-mining-to-fall/articleshow/127574296.cms",
+    "time": "2026-01-26T20:44:38.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "In a first, gold breaches $5k/Oz, silver $110/Oz",
+    "desc": "Gold surged past $5,000 an ounce for the first time, driven by geopolitical uncertainty and a flight from traditional assets. Dollar weakness and concerns over US monetary policy further fueled demand for the precious metal, which has seen a significant rally this year.",
+    "img": "https://static.toiimg.com/photo/msid-127574184,imgsize-993552.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/in-a-1st-gold-breaches-5k/oz-silver-110/oz/articleshow/127574082.cms",
+    "time": "2026-01-26T20:39:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Government gets proposals to push divestment amid weak show",
+    "desc": "The government is exploring new ways to increase privatization and use the money for infrastructure. Industry bodies and NITI Aayog suggest creating a wealth fund. However, past efforts have faced challenges. While some reforms are moving forward, political will is needed to revive the privatization program. Progress on asset monetization also remains slow.",
+    "img": "https://static.toiimg.com/photo/msid-127573961,imgsize-345896.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/government-gets-proposals-to-push-divestment-amid-weak-show/articleshow/127573664.cms",
+    "time": "2026-01-26T20:28:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Salman Khan revealed why he rejected 'Chak De! India'",
+    "desc": "Salman Khan revealed why he declined the lead role in Shah Rukh Khan's 'Chak De! India'. He felt his then-popular image of doing commercial entertainers clashed with the film's serious, performance-driven narrative. Salman believed his fans would expect a different kind of role, not suited for the film's genre at that time.",
+    "img": "https://static.toiimg.com/photo/msid-127573180,imgsize-60676.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-salman-khan-revealed-why-he-rejected-chak-de-india-even-shah-rukh-khan-should-be-a-part-of-few-great-films/articleshow/127573012.cms",
+    "time": "2026-01-26T20:16:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In Republic Day messages, Trump hails historic bond, Xi talks of dragon-elephant tango",
+    "desc": "Global leaders, including US President Trump and China's Xi Jinping, extended Republic Day greetings to India. Trump emphasized the bond between the world's oldest and largest democracies, while Xi highlighted India-China as \"good neighbours, friends and partners.\" King Charles III also lauded the enduring India-UK partnership, noting shared values and deepening cooperation.",
+    "img": "https://static.toiimg.com/photo/msid-127572550,imgsize-897861.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/in-republic-day-messages-trump-hails-historic-bond-xi-talks-of-dragon-elephant-tango/articleshow/127572061.cms",
+    "time": "2026-01-26T19:48:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India, EU finalise FTA, deal set to be announced today",
+    "desc": "India and the European Union have finalized a comprehensive free trade agreement after 18 years of talks, poised to boost trade and investment. The deal, expected to be announced Tuesday, aims for significant tariff reductions on most goods, with India gaining market access for textiles and leather, while offering concessions on automobiles and wines. Implementation is anticipated by early 2027.",
+    "img": "https://static.toiimg.com/photo/msid-127571129,imgsize-1069709.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-eu-finalise-fta-deal-set-to-be-announced-today/articleshow/127570923.cms",
+    "time": "2026-01-26T19:21:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Badshah says buying Rolls-Royce Cullinan Series II worth Rs 12.45 was 'impulsive'",
+    "desc": "Rapper Badshah, who recently acquired a Rolls-Royce Cullinan Series II, admitted the purchase was impulsive and the initial thrill was short-lived. He expressed a desire to own the best technology, prioritizing relationships over material possessions while remaining mindful of costs. Badshah also shared an anecdote from his civil engineering days about questioning societal perceptions of wealth.",
+    "img": "https://static.toiimg.com/photo/msid-127569588,imgsize-64022.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/badshah-says-buying-rolls-royce-cullinan-series-ii-worth-rs-12-45-crore-also-owned-by-shah-rukh-khan-mukesh-ambani-was-an-impulsive-decision-the-high-lasted-for-/articleshow/127569357.cms",
+    "time": "2026-01-26T18:52:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi CM Rekha Gupta lays foundation stone for slum development projects",
+    "desc": "\"The previous governments spread fear that the BJP would stop free electricity and water, but these slum dwellers can now live peacefully. We are committed to providing them a good and quality life,\" Gupta told reporters.",
+    "img": "https://static.toiimg.com/photo/msid-127569416,imgsize-1072220.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/republic-day-delhi-cm-rekha-gupta-lays-foundation-stone-for-slum-development-projects/articleshow/127569334.cms",
+    "time": "2026-01-26T18:46:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bradman cap fetches record price at auction",
+    "desc": "Back in Bradman’s day the baggy green cap was awarded for each series they played – a contrast to the present day where only one is handed out on Test debut. Bradman’s cap was bought for A$479,700, including the buyer’s premium, at auction.",
+    "img": "https://th-i.thgim.com/public/incoming/i1du3m/article70554216.ece/alternates/LANDSCAPE_1200/MDF39881.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/bradman-cap-fetches-record-price-at-auction/article70554206.ece",
+    "time": "2026-01-26T18:42:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sciver-Brunt hits WPL’s first ton as MI beats RCB",
+    "desc": "The Mumbai Indians star, a befitting holder of the milestone, brought it up off 57 balls in the 20th over, taking the two-time champion to 199 for four against Royal Challengers Bengaluru at the Kotambi Stadium",
+    "img": "https://th-i.thgim.com/public/incoming/pygznc/article70554207.ece/alternates/LANDSCAPE_1200/PTI01_26_2026_000745A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/wpl-mi-vs-rcb-match-january-26-2026/article70554205.ece",
+    "time": "2026-01-26T18:35:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PIO civil servant gets flak on X for negotiating Chagos deal",
+    "desc": "A British civil servant of Indian origin, Dr. Francis Vijay Narasimhan Rangarajan, faces social media backlash over the controversial Chagos deal. He led negotiations to transfer sovereignty of the Chagos Archipelago to Mauritius, retaining use of the Diego Garcia base. Critics, including former politicians, have voiced strong opposition to the agreement.",
+    "img": "https://static.toiimg.com/photo/msid-127570428,imgsize-384052.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pio-civil-servant-gets-flak-on-x-for-negotiating-chagos-deal/articleshow/127568529.cms",
+    "time": "2026-01-26T18:34:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "where fearlessness meets consistency",
+    "desc": "The thrill-a-minute opening batter has proved to be unstoppable in the shortest format, especially in recent times. His ability to go ballistic from ball one while being among the runs regularly has made him an X-factor in the India T20I set-up",
+    "img": "https://th-i.thgim.com/public/sport/nz4p0p/article70554157.ece/alternates/LANDSCAPE_1200/ABHISHEK.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/abhishek-where-fearlessnessmeets-consistency/article70554149.ece",
+    "time": "2026-01-26T18:30:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "British nationals charged with ‘targeting’ Pakistan dissidents in UK",
+    "desc": "Three British nationals have been charged with targeting two prominent Pakistani dissidents in the UK, supporters of jailed former PM Imran Khan. The men allegedly conspired to assault journalist Adil Raja and former Khan advisor Mirza Shahzad Akbar on December 24th. One suspect also faces charges for attempted arson at Akbar's home on New Year's Eve.",
+    "img": "https://static.toiimg.com/photo/msid-127568336,imgsize-836861.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/british-nationals-charged-with-targeting-pakistan-dissidents-in-uk/articleshow/127568150.cms",
+    "time": "2026-01-26T18:27:32.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "UK report",
     "desc": "UK intelligence warns of global food and water crises by the 2030s due to ecosystem collapse, potentially sparking conflict. Himalayan river decline could escalate tensions between China, India, and Pakistan, risking nuclear war. The report highlights threats to UK food security and calls for ecosystem protection and restoration.",
@@ -234,15 +387,6 @@ const newsData_en = [
     "time": "2026-01-26T13:29:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "After a gap of over 10 years, India marks Republic Day in Yemen",
-    "desc": "For the first time in over a decade, India celebrated Republic Day in Yemen with the Indian community and embassy staff. Other diplomatic missions in the US, Singapore, Japan, and Sri Lanka also marked the occasion with flag unfurling ceremonies and participation from the Indian diaspora. US Secretary of State Marco Rubio extended greetings, highlighting the strong bilateral partnership.",
-    "img": "https://static.toiimg.com/photo/msid-127552870,imgsize-1246016.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/after-a-gap-of-over-10-years-india-marks-republic-day-in-yemen/articleshow/127552145.cms",
-    "time": "2026-01-26T13:15:12.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Border 2 producer says Akshaye's cameo was not added later",
     "desc": "In a recent statement, the creators of 'Border 2' emphasized that Akshaye Khanna's brief yet impactful appearance was intricately woven into the storyline from the get-go. Director Anurag Singh confirmed that the scene, filmed last December, serves as a heartfelt nod to the beloved 1997 classic, rather than a response to Khanna's newfound social media fame.",
@@ -259,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ranji-trophy-bihar-return-to-elite-group/articleshow/127551999.cms",
     "time": "2026-01-26T13:03:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India flexes might on 77th Republic Day parade; UAE scraps Pakistan airport deal &amp; more",
-    "desc": "India marked its 77th Republic Day with a grand parade showcasing military might and cultural diversity. Meanwhile, the UAE reportedly scrapped its airport management deal with Pakistan following the UAE President's India visit. In other news, a Bangladesh court sentenced three police officers to death for protest-related killings, and IndiGo cancelled flights to four Central Asian cities due to regional developments.",
-    "img": "https://static.toiimg.com/photo/msid-127550577,imgsize-1183870.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-india-flexes-might-on-77th-republic-day-parade-uae-scraps-pakistan-airport-deal-more/articleshow/127550299.cms",
-    "time": "2026-01-26T12:32:27.000Z"
   },
   {
     "cat": "Entertainment",
@@ -295,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanth-gifts-gold-chain-to-madurai-fan-selling-rs-5-parottas-invites-him-to-his-chennai-residence-watch/articleshow/127548998.cms",
     "time": "2026-01-26T12:02:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "January 26, 1950: Revisiting India’s first Republic Day — the parade and those who watched history unfold",
-    "desc": "India celebrated its 77th Republic Day with a grand parade on Kartavya Path, showcasing military might and cultural diversity. The event marked the EU's first military parade participation outside Europe, reflecting India's growing global ties. The celebrations honored the nation's journey since becoming a sovereign democratic republic on January 26, 1950.",
-    "img": "https://static.toiimg.com/photo/msid-127546797,imgsize-623162.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/january-26-1950-revisiting-indias-first-republic-day-the-parade-and-those-who-watched-history-unfold/articleshow/127546174.cms",
-    "time": "2026-01-26T11:28:55.000Z"
   },
   {
     "cat": "Entertainment",
@@ -342,15 +468,6 @@ const newsData_en = [
     "time": "2026-01-26T11:04:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "One vote, unequal weight: Kothnur has just 10.9k elections, RR Nagar nearly 50k",
-    "desc": "Bengaluru's new municipal structure reveals significant voter disparities across wards, with some representing over 49,000 electors while others have just over 10,000. This imbalance undermines democratic representation and could lead to unequal access to civic services and political influence. The delimitation process, based on 2011 census population figures, has resulted in these inequities.",
-    "img": "https://static.toiimg.com/photo/msid-127545125,imgsize-.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/one-vote-unequal-weight-kothnur-has-just-10-9k-elections-rr-nagar-nearly-50k/articleshow/127545125.cms",
-    "time": "2026-01-26T11:01:56.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "SRK says 'our country teaches us there is strength and unity in diversity'",
     "desc": "Shah Rukh Khan celebrated India's Republic Day with a heartfelt message on unity. His upcoming film 'King,' marking his first collaboration with daughter Suhana Khan and director Siddharth Anand, has generated immense buzz. The film's first look and December 24, 2025 release date, set against a major Hollywood release, have fueled fan excitement and speculation about SRK's evolving on-screen persona.",
@@ -387,24 +504,6 @@ const newsData_en = [
     "time": "2026-01-26T10:26:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mohanlal congratulates Mammootty on Padma Bhushan win",
-    "desc": "Malayalam superstar Mammootty has been honored with the prestigious Padma Bhushan award. His close colleague Mohanlal expressed immense delight, affectionately calling him 'Ichakka' and extending heartfelt congratulations. This recognition celebrates Mammootty's significant contributions to the arts, marking a proud moment for the industry and the nation.",
-    "img": "https://static.toiimg.com/photo/msid-127543845,imgsize-56308.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mohanlal-congratulates-mammootty-on-padma-bhushan-win-ichakka-absolutely-delighted/articleshow/127543845.cms",
-    "time": "2026-01-26T10:23:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Esha Deol posts about Dharmendra’s Padma Vibhushan award",
-    "desc": "Legendary actor Dharmendra has received the illustrious Padma Vibhushan Award, a testament to his remarkable contributions to cinema. Esha Deol, his daughter, took to social media to proudly acknowledge this milestone, inviting fans to support her brother Sunny Deol's latest film, 'Border 2', and commending the entire ensemble's exceptional performances.",
-    "img": "https://static.toiimg.com/photo/msid-127543684,imgsize-32614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/esha-deol-celebrates-dharmendras-posthumous-padma-vibhushan-honor-urges-fans-to-watch-sunny-deol-starrer-border-2/articleshow/127543684.cms",
-    "time": "2026-01-26T10:20:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Call that India must take': Ex-cricketer questions Samson's place after golden duck",
     "desc": "Aakash Chopra highlighted Ishan Kishan's strong T20I form against New Zealand, contrasting it with Sanju Samson's struggles. Kishan's consistent performances and Samson's recent dismissals raise questions about India's wicketkeeper-batter choice, especially with Tilak Varma's potential return.",
@@ -421,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-row-icc-india-aur-pakistan-ke-bina-tournament-nahi-karwa-sakti-kamran-akmal-fires-warning/articleshow/127542943.cms",
     "time": "2026-01-26T10:03:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sunny Deol wished he could play an instrument or even sing",
-    "desc": "Known as a powerhouse on-screen, Sunny Deol recently unveiled a surprising side to his persona—a passion for music! He harbors a dream to either play an instrument or lend his voice to melodies. Although he enjoys exploring different genres, he admits that Hindustani classical, ghazals, and heavy metal pose a real challenge.",
-    "img": "https://static.toiimg.com/photo/msid-127542481,imgsize-104380.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deol-wished-he-could-play-an-instrument-or-even-sing/articleshow/127542481.cms",
-    "time": "2026-01-26T09:57:39.000Z"
   },
   {
     "cat": "Sports",
@@ -468,15 +558,6 @@ const newsData_en = [
     "time": "2026-01-26T09:23:20.000Z"
   },
   {
-    "cat": "Business",
-    "title": "What's the outlook for Nifty for Budget 2026 week? Check list of top stock recommendations",
-    "desc": "Sudeep Shah, Head of SBI Securities recommends buying Hindustan Unilever, and Ashok Leyland as top stock picks. He shares his view on Nifty, Bank Nifty for the Budget 2026 trading week starting January 27, 2026:",
-    "img": "https://static.toiimg.com/photo/msid-127540005,imgsize-90922.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stocks-to-buy-this-week-january-27-to-february-01-stock-recommendations-hindustan-unilever-ashok-leyland/articleshow/127539811.cms",
-    "time": "2026-01-26T09:02:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Rivals will be destroyed’: Ex-cricketer warns world as India look unbeatable",
     "desc": "Former India all-rounder Irfan Pathan believes the current Indian T20 side is \"almost impossible to beat\" following their dominant series win against New Zealand. Pathan highlighted the team's fearless, ultra-aggressive batting approach, which he feels intimidates rivals and leaves them with \"no margin for error\" ahead of the 2026 T20 World Cup.",
@@ -504,15 +585,6 @@ const newsData_en = [
     "time": "2026-01-26T07:49:43.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Asian markets slip as yen surge drags Japan equities; tariff worries weigh on sentiment",
-    "desc": "Asian markets mostly dipped, led by Japan's Nikkei, as a stronger yen hit exporters like Toyota. Currency volatility and US trade policy uncertainty kept investors cautious ahead of the Federal Reserve's decision. Meanwhile, US futures saw a slight dip amid tariff concerns, and commodities like gold and silver surged as investors sought safe havens.",
-    "img": "https://static.toiimg.com/photo/msid-127535957,imgsize-815261.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-slip-as-yen-surge-drags-japan-equities-tariff-worries-weigh-on-sentiment/articleshow/127535988.cms",
-    "time": "2026-01-26T07:43:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Carrying father's dream, inspired by Gayle: Nitish Sudini eyes MLC",
     "desc": "Vikram Reddy Sudini's unfulfilled cricket dream found new life through his son, Nitish. The 18-year-old made history by becoming the first USA player to score an Under-19 World Cup century, remaining unbeaten on 117 against New Zealand. This achievement fulfilled his father's long-held aspiration, with Nitish now aiming to represent the USA senior team.",
@@ -523,7 +595,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Border 2' box office collection day 4 (LIVE)",
+    "title": "'Border 2' box office collection day 4",
     "desc": "Border 2 is performing exceptionally well at the box office. The film has collected over Rs 128 crore in just four days. It saw a massive jump on Sunday, mirroring the success of Gadar 2. The movie is expected to benefit further from the Republic Day holiday. Audiences are showing immense enthusiasm for the film.",
     "img": "https://static.toiimg.com/photo/msid-127532971,imgsize-72978.cms",
     "src": "indiatimes.com",
@@ -538,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/shreyas-iyer-to-stay-with-india-t20i-team-as-tilak-varmas-return-delayed/articleshow/127533119.cms",
     "time": "2026-01-26T06:49:18.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Direct equity buying by investors moderate, households route savings via mutual funds: NSE report",
-    "desc": "While direct participation by individual investors in the equity market has moderated after record inflows in 2024, Indian households have continued to channel their savings into equities through mutual funds, highlighting sustained confidence in equities as a long-term wealth creation avenue, according to a report by the National Stock Exchange (NSE).",
-    "img": "https://static.toiimg.com/photo/msid-127532624,imgsize-1429244.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/direct-equity-buying-by-investors-moderate-households-route-savings-via-mutual-funds-nse-report/articleshow/127532455.cms",
-    "time": "2026-01-26T06:45:00.000Z"
   },
   {
     "cat": "Sports",
@@ -574,24 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/people-gave-me-six-months-jasprit-bumrah-reflects-on-a-stellar-10-year-international-journey/articleshow/127530065.cms",
     "time": "2026-01-26T05:52:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "EB-5 visa: How investors can secure a US green card through investment",
-    "desc": "The EB-5 Immigrant Investor Program offers a green card through a minimum $800,000 investment in US job-creating projects. This pathway allows investors, their spouses, and children under 21 to gain permanent residency without employer sponsorship. Additional costs and strict source of funds scrutiny apply, with tax planning advised.",
-    "img": "https://static.toiimg.com/photo/msid-127530105,imgsize-456387.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/eb-5-visa-how-investors-can-secure-a-us-green-card-through-investment/articleshow/127530071.cms",
-    "time": "2026-01-26T05:49:47.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Indian Consulate in Seattle hosts business forum",
-    "desc": "Investment opportunities in India's AI, ag-tech, quantum, and healthcare sectors were highlighted at a Seattle business forum. This event precedes Washington State's largest trade mission to India, aiming to strengthen economic ties. The forum also showcased Indian export products, including premium pomegranates and ODOP items.",
-    "img": "https://static.toiimg.com/photo/msid-127527355,imgsize-1066863.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indian-consulate-in-seattle-hosts-business-forum-ahead-of-visit-by-trade-mission-from-washington-state/articleshow/127527136.cms",
-    "time": "2026-01-26T04:50:06.000Z"
   },
   {
     "cat": "Sports",
@@ -810,15 +855,6 @@ const newsData_en = [
     "time": "2026-01-23T22:55:59.000Z"
   },
   {
-    "cat": "World",
-    "title": "U.S. imposes sanctions on Iran 'shadow fleet' over protest crackdown",
-    "desc": "The Treasury Department took aim at nine vessels and their respective owners or management firms, which U.S. officials said \"collectively transported hundreds of millions of dollars' worth of Iranian oil and petroleum products to foreign markets”",
-    "img": "https://th-i.thgim.com/public/incoming/7p9fgc/article70544325.ece/alternates/LANDSCAPE_1200/Iran_US_Explainer_76279.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-imposes-sanctions-on-iran-shadow-fleet-over-protest-crackdown/article70544321.ece",
-    "time": "2026-01-23T22:08:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sri Lanka gets the better of England in the opening ODI",
     "desc": "England overcame the early loss of Zak Crawley, who made a disappointing return to 50-over format after more than two years when he nicked Asitha Fernando behind wickets after scoring just 6 runs in his comeback game",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/bangalore/linkin-parks-debut-tour-of-india-kicks-off-with-a-performance-in-bengaluru/article70532992.ece",
     "time": "2026-01-23T19:07:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "At four, I watched Kosteniuk become World champion; I felt I needed that crown: Assaubayeva",
-    "desc": "The youngest woman to claim the World Blitz Championship, Assaubayeva has ambitions of winning the prestigious classical title. In this chat, she talks about her beginnings in chess, what achieving the GM title meant to her, why she enjoys playing in India, what she thinks of D. Gukesh and Arjun Erigiaisi, and where Kazakhstan chess is headed",
-    "img": "https://th-i.thgim.com/public/incoming/gvfq79/article70544082.ece/alternates/LANDSCAPE_1200/Bibisara.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/at-four-i-watched-kosteniuk-become-world-champion-i-felt-i-needed-that-crown-assaubayeva/article70544087.ece",
-    "time": "2026-01-23T18:12:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "No-limits Mahuchikh looks to reassert her aerial dominance",
-    "desc": "The Ukrainian high jumper has begun 2026 with her best clearance since setting the world record in 2024. This bodes well for the reigning Olympic champion, who had a disappointing end to 2025, losing her World title and being outshone by rival Nicola Olyslagers. Mahuchikh’s eyes this year are set firmly on making March’s World Indoor Championships her own",
-    "img": "https://th-i.thgim.com/public/incoming/1okzw5/article70544042.ece/alternates/LANDSCAPE_1200/GettyImages-2232410728.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/no-limits-mahuchikh-looks-to-reassert-her-aerial-dominance/article70544063.ece",
-    "time": "2026-01-23T18:01:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sarfaraz’s double ton helps Mumbai extend domination",
-    "desc": "The middle-order batter braves a wrist injury and puts on 154 for the sixth wicket with Suved as the visitor ends up with a mammoth total of 560; Rahul and Himateja’s unbroken 100-run stand lifts Hyderabad to 138 for two",
-    "img": "https://th-i.thgim.com/public/incoming/8ebr13/article70543622.ece/alternates/LANDSCAPE_1200/vjkvg-hyd%2014.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-sarfarazs-double-ton-helps-mumbai-extend-domination/article70543627.ece",
-    "time": "2026-01-23T15:34:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Baby Girl’ movie review: Nivin Pauly-Lijomol Jose starrer fails to work due to dated approach",
-    "desc": "With the story of a newborn’s disappearance from a hospital losing momentum by the halfway mark, the rest of the film plods along with the aid of the emotional drama and a few convenient contrivance.",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/d0fwqx/article70543037.ece/alternates/LANDSCAPE_1200/Nivin%20Pauly.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/baby-girl-movie-review-nivin-pauly-lijomol-jose-starrer-fails-to-work-due-to-dated-approach/article70543043.ece",
-    "time": "2026-01-23T14:32:01.000Z"
   }
 ];
