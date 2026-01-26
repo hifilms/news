@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Defending champion Madison Keys crashes out of Australian Open 2026 with straight sets defeat",
+    "desc": "The Australian Open 2026 campaign ended in heartbreaking fashion for defending champion Madison Keys. Taking on world number six Jessica Pegula in the fourth round of the tournament, Keys sustained a 6-3, 6-4 defeat as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/defending-champion-madison-keys-crashes-out-of-australian-open-2026-with-straight-sets-defeat-2026-01-26-1027473",
+    "time": "2026-01-26T03:59:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dewald Brevis joins Yasir Khan to etch name in history with stellar century in SA20 final",
+    "desc": "The SA20 final saw Pretoria Capitals taking on Sunrisers Eastern Cape. The two sides locked horns at the Newlands, Cape Town, on January 25, and the clash ended in a heartbreaking defeat for Capitals as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dewald-brevis-joins-yasir-khan-to-etch-name-in-history-with-stellar-century-in-sa20-final-2026-01-26-1027469",
+    "time": "2026-01-26T02:47:28.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Team India script history, register name in elite list with sensational third T20I win against New Zealand",
     "desc": "The Indian team put forth an incredible performance in the third T20I of the ongoing five-game series against New Zealand. The two sides took on each other at the Barsapara Stadium in Guwahati on January...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-harmanpreet-kaur-to-be-conferred-with-padma-awards-2026-01-25-1027427",
     "time": "2026-01-25T12:51:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India hunt down 154 in 10 overs to seal series in Guwahati",
-    "desc": "India put up a stellar performance in the third T20I against New Zealand at the Barsapara Cricket Stadium, Guwahati, with both the bowlers and batters punishing New Zealand. The bowlers set the win up after restricting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-3rd-t20i-live-cricket-score-india-vs-new-zealand-latest-match-updates-barsapara-cricket-stadium-guwahati-scorecard-teams-playing-xis-2026-01-25-1027421",
-    "time": "2026-01-25T12:19:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Perth Scorchers break CSK, MI's world record, win BBL 15 after beating Sydney Sixers in final",
-    "desc": "Perth Scorchers have become the champions of the Big Bash League 2025/26 after beating Sydney Sixers in the final of the 15th season on Sunday, January 25. Scorchers chased down a meagre total of 133...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/perth-scorchers-break-csk-mis-world-record-win-bbl-15-after-beating-sydney-sixers-in-final-2026-01-25-1027419",
-    "time": "2026-01-25T11:49:58.000Z"
   }
 ];
