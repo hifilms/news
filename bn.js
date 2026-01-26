@@ -1,5 +1,50 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "ভারতীয় '১০০০' টাকার 'মূল্য' গ্রিনল্যান্ডে কত হয় জানেন...? শিওর, চমকাবেন উত্তর শুনলেই!",
+    "desc": "গ্রিনল্যান্ড বিশ্বের সবচেয়ে সুন্দর জায়গাগুলির মধ্যে একটি। ট্রাম্প সম্প্রতি এই দেশটির সংযুক্তির ইঙ্গিত দিয়েছেন যা ঘিরে নতুন করে আলোচনার কেন্দ্রে এখন 'সবুজ দেশ'। আজ এই প্রতিবেদনে এই প্রসঙ্গে চলুন জেনে নেওয়া যাক গ্রিনল্যান্ড বেড়াতে গেলে ভারতীয় কোনও পর্যটক কী ভাবে অর্থ ব্যয় করবেন। আচ্ছা বলুন তো, সেই দেশে গেলে ভারতীয় ১,০০০ টাকার মূল্য কত হয়ে যায়?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-26-at-16.44.11-2026-01-eb54ae18d076d81b786c1a071aae47e0-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/indian-rupee-vs-greenland-currency-how-much-will-be-indias-1000-rupees-in-greenland-you-will-be-shocked-to-know-the-correct-answer-you-never-ever-can-guess-it-for-sure-check-out-this-trending-gk-sanj-2513308.html",
+    "time": "2026-01-26T14:37:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ধর্মেন্দ্রকে মরণোত্তর পদ্মবিভূষণ সম্মান, দেখুন ভিডিও!",
+    "desc": "মরণোত্তর পদ্মবিভূষণ সম্মান পেতে চলেছেন অভিনেতা ধর্মেন্দ্র৷ রবিবার কেন্দ্রীয় সরকারের পক্ষ থেকে এই ঘোষণা করা হয়েছে৷ কেরলের প্রাক্তন মুখ্যমন্ত্রী ভি এস অচ্যুতানন্দনকেও মরণোত্তর পদ্ম বিভূষণ সম্মান দেওয়ার সিদ্ধান্ত নিয়েছে কেন্দ্রীয় সরকার৷ সোমবার পদ্ম পুরস্কারের যে তালিকা প্রকাশিত হয়েছে, তাতেই প্রয়াত ধর্মেন্দ্র এবং ভি এস অচ্যুতানন্দনকে দেশের দ্বিতীয় সর্বোচ্চ নাগরিক সম্মানে ভূষিত করার কথা ঘোষণা করা হয়েছে৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/11/dharmendra-004-2025-11-4b21aee4248fd40e50bf8ae2e1f72d8d-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/entertainment/actor-dharmendra-to-be-honoured-with-padma-vibhushan-posthumously-dmg-2513324.html",
+    "time": "2026-01-26T14:24:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বদল হচ্ছে বন্দে ভারত স্লিপারের মেনু! কী কী থাকছে তালিকায়?",
+    "desc": "বন্দে ভারত স্লিপারের মেনুতে নেই আমিষ পদ। শুধুই নিরামিষ। এ নিয়ে জোর বিতর্ক। উঠেছে বাঙালি খাদ্যাভাষে আঘাতের অভিযোগও। তাই কি বন্দে ভারত স্লিপারের মেনুতে যোগ হচ্ছে আমিষ। রেলমন্ত্রী তেমনই আশ্বাস দিয়েছেন বলে দাবি সুকান্ত মজুমদারের।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Vande-Bharat-Sleeper-Vegetarian-food-2026-01-4d93b854e1ce56665938cfb206643007-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/vande-bharat-sleeper-non-veg-menu-whats-in-the-chart-sal-2513290.html",
+    "time": "2026-01-26T13:53:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "পুলিশের জাদুকরি চশমায় কী বিশেষত্ব? হাই-টেক চশমা ভিড়ের মাঝেও অপরাধীদের খুঁজে বের করবে মুহূর্তেই!",
+    "desc": "দেশের রাজধানী দিল্লিতে প্রজাতন্ত্র দিবসের নিরাপত্তাকে অভেদ্য করে তুলতে এবার দেখা যাচ্ছে ‘স্মার্ট পুলিশিং’-এর এক অনন্য রূপ। দিল্লি পুলিশের বহরে যুক্ত হয়েছে এক ধরনের ‘জাদুকরি’ কালো চশমা, যা শুধু রোদ থেকে চোখ বাঁচানোর জন্য নয়, বরং সন্ত্রাসী ও ভয়ংকর অপরাধীদের জন্য হয়ে উঠবে কালস্বরূপ।প্রথমবার ব্যবহৃত এই এআই চশমার সবচেয়ে বড় বৈশিষ্ট্য হলো—সামনে দিয়ে যাঁরাই হেঁটে যান, তাদের প্রত্যেকের পরিচয় চোখের পলকেই শনাক্ত করতে পারে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1769433094_AI-Glasses-2026-01-f446790bc8620fb2e4084a429f27023e-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/technology/delhi-police-deploy-ai-glasses-to-identify-criminals-in-seconds-republic-day-security-gets-high-tech-smc-2513241.html",
+    "time": "2026-01-26T13:24:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "একধাক্কায় অর্ধেক হবে BMW, Audi ও Mercedes গাড়ির দাম! আপনার বাজেটের মধ্যে পাবেন বিলাশবহুল 'শখের' গাড়ি",
+    "desc": "ইইউর সাথে এফটিএ দেশীয় গাড়ি কোম্পানিগুলির ক্ষতি রোধ করার জন্য পাঁচ বছরের জন্য বৈদ্যুতিক গাড়ির উপর কর ছাড় স্থগিত করেছে। ফলস্বরূপ, বিএমডব্লিউ আইএক্স, মার্সিডিজ ইকিউই/ইকিউএস, অডি ই-ট্রন এবং পোর্শে টেক্যানের মতো ইউরোপীয় বৈদ্যুতিক গাড়ির দামও ৩৫ থেকে ৫০ শতাংশ কমানো যেতে পারে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Web-2026-01-26T183916.540-2026-01-76c1e8f2156fea7432e71a714e5cec16-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/now-you-can-buy-luxury-cars-like-bmw-audi-mercedes-at-almost-half-price-huge-price-down-after-special-pact-with-european-union-pbd-2513039.html",
+    "time": "2026-01-26T13:09:50.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "রাতারাতি নেটদুনিয়ার সেনসেশন আশি বছরের বৃদ্ধ! চেনেন এই ‘ফণীবাবু Viral’কে?",
     "desc": "ফনীবাবু, জীবন সংগ্রামে বহু ওঠাপড়া, ভালো মন্দের মাঝেও নিজের পরিবারের প্রতি তিনি ছিলেন দায়বদ্ধ। আর তাই, বহু কষ্টে তিলতিল করে জমিজমা, নিজস্ব বাড়ি সবই তার পরিবারের জন্য করেছেন। কিন্তু মজার বিষয় হলো, বর্তমানে বয়স জনিত কারণে পরিবার, প্রতিবেশী সবার কাছেই সে হয়ে গেছেন বোঝা। এরপরই...",
@@ -234,15 +279,6 @@ const newsData_bn = [
     "time": "2026-01-22T10:21:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "নাশকতার ছক কষছে পাক জঙ্গিরা! তাদের মাথা গুঁড়িয়ে দিতে প্রস্তুত ভারতীয় সেনাও! মুনির-মাসুদের ষড়যন্ত্র ফাঁস? বিগ ব্রেকিং...",
-    "desc": "গোয়েন্দা সংস্থাগুলির কাছ থেকে প্রজাতন্ত্র দিবসে বা তার আগে একটি সম্মিলিত সন্ত্রাসী হামলার খবর মিলেছে গতকাল বুধবারই। সেই খবর পাওয়ার পর বুধবারই দিল্লি জুড়ে হাই অ্যালার্ট জারি হয়েছে। এই সম্ভাব্য হামলার কোড নেম দেওয়া হয়েছে '২৬-২৬'!",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/26-26-r-day-strike-pak-punjabi-gangster-backed-terrorists-terror-attack-on-26-jan-terror-attack-on-republic-day-26-26-terror-attack-pakistan-isi-jaish_636881.html ",
-    "time": "2026-01-22T09:24:53.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'আমি তো ইতিমধ্যে গৌরীর সঙ্গে বিবাহিত...' প্রেমিকাকে নিয়ে আচমকাই বোমা ফাটালেন আমির খান... বলিপাড়ায় হুল্লোড়",
     "desc": "সম্প্রতি মুম্বইয়ে একটি অনুষ্ঠানে এসে গৌরীর সঙ্গে সম্পর্কের প্রসঙ্গে আমির বলেন, ‘‘গৌরী ও আমি দু’জনেই এই সম্পর্কে সিরিয়াস। আমরা একসঙ্গেই আছি। বলা ভাল, মনে মনে আমি ইতিমধ্যেই গৌরীর সঙ্গে বিবাহিত।’’ তবে আইনি বা সামাজিকভাবে তাঁরা বিয়ে করবেন কি না, সে বিষয়ে এখনও সিদ্ধান্ত নেননি।",
@@ -250,15 +286,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/aamir-khan-says-he-is-already-married-to-girlfriend-gauri-rmj-2508496.html",
     "time": "2026-01-22T09:11:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "নয়ডার টেকি যুবরাজ কাঁদতে কাঁদতে ডুবে মরে গেল! জ্ঞানেশ কুমারের মেয়ে বলেই কি DM মেধা রূপমকে ছাড় যোগী আদিত্যনাথের?",
-    "desc": "যুবরাজ মেহতার ময়নাতদন্তের রিপোর্টে মৃত্যুর কারণ হিসেবে 'অ্যাস্ফেক্সিয়া' বা দমবন্ধ হওয়া এবং কার্ডিয়াক অ্যারেস্টের কথা উল্লেখ করা হয়েছে। নয়ডা শহরের নাকের ডগায় পর্যাপ্ত নিরাপত্তা ব্যবস্থা না থাকা এবং চোখের সামনে একজন তরুণের মৃত্যু আধুনিক উদ্ধার ব্যবস্থার কঙ্কালসার রূপটিই ফুটিয়ে তুলেছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/noida-software-techie-yuvraj-mehta-death-enquiry-up-police-yodi-adityanath-sit-gyanesh-kumar-dm-medha-rupam-saourav-bhardwaj_636880.html ",
-    "time": "2026-01-22T09:11:14.000Z"
   },
   {
     "cat": "Sports",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/buying-vs-renting-house-should-you-rent-a-house-or-buy-your-own-this-1-percent-formula-for-real-estate-will-help-you-rm-2502475.html",
     "time": "2026-01-18T08:25:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Vande Bharat Express 4.0: বুলেট ট্রেনের সঙ্গে টক্কর! ঘণ্টায় ২৫০ কিলোমিটার গতিবেগে ছুটবে বন্দে ভারত ৪.০...কোন রাজ্য পাবে? কবে?",
-    "desc": "রেল মন্ত্রক ২০৪৭ সালের মধ্যে, স্বাধীনতার শতবর্ষে ৪,৫০০টি বন্দে ভারত ট্রেন চালনা পরিকল্পনা করেছে। রেলের লক্ষ্য হল দেশের গুরুত্বপূর্ণ শহরগুলির মধ্যে দ্রুত, নিরাপদ এবং আধুনিক রেল যোগাযোগ জোরদার করা। বন্দে ভারত ৪.০ কে এই দৃষ্টিভঙ্গির সবচেয়ে উন্নত সংস্করণ হিসাবে বিবেচনা করা হয়। যদি এই পরিকল্পনাটি নির্ধারিত সময়ের মধ্যে সম্পন্ন হয়, তাহলে ভারত উচ্চ-গতির ট্রেনের একটি বৃহৎ নেটওয়ার্ক সহ বিশ্বের প্রথমসারির দেশগুলির সঙ্গে এক তালিকায় স্থান পাবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-2026-01-18T133901.999-2026-01-2ff6e6475becd20804f962babd7ffd4d-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/vande-bharat-express-4-0-may-go-on-track-from-2027-mumbai-to-ahmedabad-speed-250-km-per-hour-sta-2502463.html",
-    "time": "2026-01-18T08:19:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বিনিয়োগকারীদের জন্য বড় সুযোগ! বড় ব্যাঙ্ককে টেক্কা দিয়ে স্মল ফিনান্স ব্যাঙ্কে FD সুদ বাড়ল, কত জানেন?",
-    "desc": "ইক্যুইটি বাজারের অনিশ্চয়তা আর সুদের হারের ওঠানামার মাঝে ২০২৬ সালের শুরুতে ফের আলোচনায় ফিরছে ফিক্সড ডিপোজিট। বিশেষ করে স্মল ফিনান্স ব্যাঙ্কগুলিতে এফডি-র সুদের হার বাড়ায় রক্ষণশীল বিনিয়োগকারীদের নজর সেদিকেই ঘুরছে। বড় সরকারি ও বেসরকারি ব্যাঙ্ক যেখানে তুলনামূলক কম রিটার্ন দিচ্ছে, সেখানে ছোট ফিনান্স ব্যাঙ্কগুলির এই উচ্চ সুদের অফার নিশ্চিত আয়ের খোঁজে থাকা সঞ্চয়কারীদের কাছে নতুন করে আকর্ষণ তৈরি করেছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/business-2-2026-01-0f03262d91785fdfd9d53d5f4d081e85-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/fd-rates-touch-8-percent-at-small-finance-banks-suryoday-and-shivalik-small-finance-bank-fixed-deposit-interest-increases-tib-ws-el-2502354.html",
-    "time": "2026-01-18T08:06:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ইনদওরে টসে জিতল ভারত! প্রথম একাদশে শুধু এক বদল শুভমনদের",
-    "desc": "ইনদওরে টসভাগ্য সঙ্গ দিল ভারতের। টস জিতে প্রথমে বল করার সিদ্ধান্ত নিলেন শুভমন গিল। দ্বিতীয় ম্যাচে হারের পর এই ম্যাচে জিততে মরিয়া শুভমনরা।আগের দিনের ম্য়াচের দল থেকে এই ম্যাচে প্রথম একাদশে একটি বদল করেছে ভারত। প্রসিদ্ধ কৃষ্ণের বদলে নেওয়া হয়েছে অর্শদীপ সিংহকে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ind-vs-nz-1-2026-01-48ec9a0a2652cc076be5e06cbb758080-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/india-won-the-toss-in-indore-match-against-new-zealand-in-odi-seris-smc-2502459.html",
-    "time": "2026-01-18T08:02:06.000Z"
   }
 ];

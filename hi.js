@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Charith Asalanka hits back at Harry Brook over 'worst pitch' controversy in 2nd ODI",
+    "desc": "Sri Lanka captain Charith Asalanka has pushed back against criticism from England’s camp over the surface used for the second ODI at the R Premadasa Stadium, suggesting that the match itself did not support claims...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/charith-asalanka-hits-back-at-harry-brook-over-worst-pitch-controversy-in-2nd-odi-2026-01-26-1027550",
+    "time": "2026-01-26T14:53:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "West Indies announce T20 World Cup 2026 squad; Evin Lewis, Alzarri Joseph ruled out",
+    "desc": "West Indies have finalised their 15-player squad for the upcoming T20 World Cup, with a mix of seasoned campaigners and emerging talent set to take the field. Among the new faces is 25-year-old Guyanese batter...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-announce-t20-world-cup-2026-squad-evin-lewis-alzarri-joseph-ruled-out-2026-01-26-1027549",
+    "time": "2026-01-26T14:28:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rayudu, Yusuf Pathan in middle",
+    "desc": "Delhi Warriorz will host Dubai Royals in the opening game of the World Legends Pro T20 League 2026 at the 1919 Sportz Cricket Stadium in Goa. In the opening game itself, some marquee cricketers, such...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/delhi-warriors-vs-dubai-royals-world-legends-pro-t20-league-2026-live-today-in-goa-shikhar-dhawan-harbhajan-singh-irfan-pathan-1027542",
+    "time": "2026-01-26T13:35:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PCB chief Mohsin Naqvi meets Shehbaz Sharif to discuss T20 World Cup participation, know what happened",
+    "desc": "Following Bangladesh’s withdrawal from the T20 World Cup 2026 over security concerns, Pakistan have openly discussed the possibility of taking a similar stand in solidarity with the Bangla Tigers. Earlier, PCB chairman Mohsin Naqvi criticised...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pcb-chief-mohsin-naqvi-meets-pm-nawaz-sharif-to-discuss-t20-world-cup-participation-know-what-happened-2026-01-26-1027535",
+    "time": "2026-01-26T12:42:35.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pakistan threaten to boycott India match in T20 World Cup 2026, may suffer consequences",
     "desc": "Pakistan may skip their high-profile T20 World Cup 2026 match against India as a gesture of solidarity with Bangladesh. The fixture is scheduled for February 15 and is set to be played in Colombo after...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/india-s-australian-open-challenge-ends-as-yuki-bhambri-faces-exit-from-men-s-doubles-2026-01-26-1027502",
     "time": "2026-01-26T07:59:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Head to Head record ahead of Australian Open 2026 clash",
-    "desc": "The stage is set for the quarter-final stage of the ongoing Australian Open 2026. The legendary Novak Djokovic will be taking on world number five Lorenzo Musetti in one of the quarter-final clashes. The two...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-vs-lorenzo-musetti-head-to-head-record-ahead-of-australian-open-2026-clash-2026-01-26-1027496",
-    "time": "2026-01-26T07:27:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Only natural': Harbhajan Singh gives his take on Sanju Samson's future after consistent subpar outings",
-    "desc": "The Indian team clinched their ongoing five-game series against New Zealand. The Men in Blue managed to register a dominant victory in the third T20I of the series, which was played at the Barsapara Stadium...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/only-natural-harbhajan-singh-gives-his-take-on-sanju-samson-s-future-after-consistent-subpar-outings-2026-01-26-1027487",
-    "time": "2026-01-26T06:21:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Not getting carried away': Michael Carrick backs Manchester United to stay grounded after stunning win",
-    "desc": "Manchester United has undergone a resurgence under new interim coach Michael Carrick. After Ruben Amorim’s sacking, Carrick has propelled United to wins against Manchester City and now Arsenal as well. The arch-rivals locked horns in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/not-getting-carried-away-michael-carrick-backs-manchester-united-to-stay-grounded-after-stunning-win-2026-01-26-1027480",
-    "time": "2026-01-26T04:48:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Defending champion Madison Keys crashes out of Australian Open 2026 with straight sets defeat",
-    "desc": "The Australian Open 2026 campaign ended in heartbreaking fashion for defending champion Madison Keys. Taking on world number six Jessica Pegula in the fourth round of the tournament, Keys sustained a 6-3, 6-4 defeat as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/defending-champion-madison-keys-crashes-out-of-australian-open-2026-with-straight-sets-defeat-2026-01-26-1027473",
-    "time": "2026-01-26T03:59:04.000Z"
   }
 ];

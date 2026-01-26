@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "UGCના નવા નિયમ શું છે જેના કારણે મચી ગયો છે હંગામો? કમિશનને આ ફેરફારની કેમ પડી જરૂર ?",
+    "desc": "નવા UGC નિયમના વિરોધમાં બરેલી સિટી મેજિસ્ટ્રેટ અલંકાર અગ્નિહોત્રીએ રાજીનામું આપ્યું છે. લોકોએ તેની વિરુદ્ધ સુપ્રીમ કોર્ટમાં PIL પણ દાખલ કરી છે. અરજીમાં તેની કેટલીક જોગવાઈઓને ગેરબંધારણીય જાહેર કરવાની માંગ કરવામાં આવી છે. સોશિયલ મીડિયા પર પણ તેનો જોરદાર વિરોધ થઈ રહ્યો છે. તો ચાલો જાણીએ કે આ નિયમ શું છે અને UGCની જરૂર કેમ પડી?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-is-the-new-ugc-rule-that-has-created-a-ruckus-why-did-the-commission-need-this-change-462999 ",
+    "time": "2026-01-26T14:29:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "બજેટમાં મિડિલ ક્લાસને લાગી શકે છે ઝટકો, સરકારનું આ બાબતો પર ફોકસ !",
+    "desc": "2026નું કેન્દ્રીય બજેટ નજીક આવતાની સાથે જ પગારદાર અને મધ્યમ વર્ગના કરદાતાઓની અપેક્ષાઓ ફરી વધી છે. ફુગાવા, વધતા EMI અને દૈનિક ખર્ચ વચ્ચે, લોકો ઇચ્છે છે કે સરકાર આ વખતે નોંધપાત્ર આવકવેરામાં રાહત આપે, જેનાથી તેમનો રોકડ પ્રવાહ વધે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/the-middle-class-may-face-a-setback-in-the-budget-government-focus-on-these-things-462997 ",
+    "time": "2026-01-26T14:03:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "એક વર્ષમાં કેટલી વાર કરી શકો છો આયુષ્માન કાર્ડનો ઉપયોગ, જાણો શું છે નિયમો?",
+    "desc": "આયુષ્માન ભારત યોજના હેઠળ સારવાર અનેક લોકો કરાવે લોકો જાણવા માગે છે કે આ કાર્ડનો ઉપયોગ વર્ષમાં કેટલીવાર કરી શકાય છે. અનેક લાભાર્થીઓ વર્ષમાં ઘણી વખત સારવાર મેળવી પડે છે. તેના માટે સરકારે આ કાર્ડ ધારકોને રાહત પણ આપી છે, તો ચાલો જાણીએ કે વર્ષમાં કેટલીવાર સારવાર કરી શકાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/how-many-times-can-you-use-ayushman-card-in-a-year-know-what-are-the-rules-462982 ",
+    "time": "2026-01-26T12:55:07.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "સંજુ સેમસન માટે સારા સમાચાર, ખરાબ ફોર્મ છતાં ટીમમાંથી નહીં થાય બહાર, જાણો શું છે કારણ",
     "desc": "ભારત અને ન્યુઝીલેન્ડ વચ્ચે પાંચ મેચની ટી20 શ્રેણીની ચોથી મેચ 28 જાન્યુઆરીએ વિશાખાપટ્ટનમમાં રમાશે. આ મેચ પહેલા તિલક વર્માની ઈજા અંગે એક અપડેટ સામે આવ્યું છે, જે સંજુ સેમસન માટે એક તક લઈને આવ્યું છે.",
@@ -351,15 +378,6 @@ const newsData_gu = [
     "time": "2026-01-24T09:38:49.000Z"
   },
   {
-    "cat": "Business",
-    "title": "આવી રહ્યો છે દિગ્ગજ રોકાણકારોની કંપનીનો IPO, શાહરૂખ-સલમાનથી લઈ સચિને પણ તેમાં કર્યું છે રોકાણ",
-    "desc": "લક્ઝરી ફેશન ઈ-કોમર્સ અને ઓમ્ની-ચેનલ પ્લેટફોર્મ કંપનીના IPOમાં કોઈપણ હાલના શેરધારક તરફથી ઓફર ફોર સેલ (OFS) શામેલ નથી. સરળ શબ્દોમાં કહીએ તો, IPOમાંથી એકત્ર કરાયેલી સંપૂર્ણ રકમનો ઉપયોગ કંપનીના વ્યવસાયને વિસ્તૃત કરવા માટે સીધી રીતે કરવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/the-ipo-of-a-company-owned-by-big-investors-is-coming-from-shahrukh-salman-to-sachin-tendulkar-have-also-invested-in-it-462759 ",
-    "time": "2026-01-24T09:36:08.000Z"
-  },
-  {
     "cat": "World",
     "title": "ભારતે ખુલ્લેઆમ ઈરાનને UNમાં આ મુદ્દે આપ્યું સમર્થન, પાકિસ્તાનનો પણ સપોર્ટ, પશ્ચિમી દેશો સ્તબ્ધ",
     "desc": "વૈશ્વિક મંચ પર ભારતે કઈક એવું કર્યું છે જે ચર્ચાને એરણે છે. અચાનક ભારતનું આ બદલાયેલું વર્તન દુનિયા માટે જાણે આશ્ચર્યનું કારણ બની રહ્યું છે. ભારતે ખુલ્લેઆમ ઈરાનને સપોર્ટ કરતા કયા પ્રસ્તાવ પર વિરુદ્ધમાં મતદાન કર્યું તે ખાસ જાણો.",
@@ -367,15 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/india-votes-against-un-rights-council-resolution-censuring-iran-protest-crackdown-news-in-gujarati-462747 ",
     "time": "2026-01-24T08:44:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ભારતમાં 10 ગ્રામ સોનું દોઢ લાખ પાર, એક્સપર્ટ્સની ચેતવણી- &amp;#039;પિક્ચર અભી બાકી હૈ દોસ્ત&amp;#039;!",
-    "desc": "સોનું હાલ ભયંકર સ્તરે જોવા મળી રહ્યું છે. ભાવ જોઈને એમ થાય કે હજુ કેટલે પહોંચશે? પરંતુ નિષ્ણાંતો જે કહી રહ્યા છે તે જોતા આ તો હજુ ટ્રેલર છે...પિક્ચર હજુ બાકી છે એમ લાગે. શું કહે છે એક્સપર્ટ્સ તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-price-predictions-why-globally-central-bank-increasing-their-gold-reserve-silver-rally-462740 ",
-    "time": "2026-01-24T07:47:57.000Z"
   },
   {
     "cat": "Entertainment",
@@ -394,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/bjp-youth-leaders-udiptmaan-karyakarta-pm-modi-politics-vision-future-political-leaders-india-462732 ",
     "time": "2026-01-24T06:35:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સોનાના ભાવ ઘટ્યા, ચાંદી પણ સસ્તી થઈ, ઘટેલા ભાવે ખરીદી કરવી હોય તો રેટ ખાસ જાણો",
-    "desc": "સોના ચાંદીના ભાવ આ અઠવાડિયે પણ સતત ઉતાર ચડાવવાળા જોવા મળ્યા. જો કે શુક્રવારે સાંજે બંને કિંમતી ધાતુઓમાં કડાકો જોવા મળ્યો. લગ્નગાળા અને પ્રસંગોની સીઝનમાં સોનું અને ચાંદી જે રીતે ઉછાળા મારી રહ્યું છે તે જોતા ખરીદનારાઓમાં ચિંતા પેસેલી છે. સોના-ચાંદીના લેટેસ્ટ ભાવ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/latest-gold-rate-ibja-rates-gold-prices-fallen-ilver-has-also-become-cheaper-sona-chandi-na-bhav-462715 ",
-    "time": "2026-01-24T03:06:18.000Z"
   },
   {
     "cat": "Entertainment",

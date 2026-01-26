@@ -1,21 +1,138 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Agriculture scientists and innovative farmers get Padma Shri boost for their pioneering efforts",
+    "desc": "In a grand tribute to innovation in agriculture, nine distinguished individuals have been honored with the Padma Shri. Among them are esteemed scientists and passionate farmers, recognized for their impactful work ranging from the creation of superior rice strains and genome-editing breakthroughs to the promotion of unique cultivation methods such as Makhana farming.",
+    "img": "https://static.toiimg.com/photo/msid-127558585,imgsize-1395887.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/agriculture-scientists-and-innovative-farmers-get-padma-shri-boost-for-their-pioneering-efforts/articleshow/127558359.cms",
+    "time": "2026-01-26T15:10:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Colonial mindset’: Padma Shri row over cow dung, urine remarks; Sridhar Vembu backs IIT Madras director",
+    "desc": "A political row erupted on social media after the Congress questioned IIT Madras director V Kamakoti's Padma Shri award, linking it to research on cow dung and urine. Zoho founder Sridhar Vembu strongly defended Kamakoti, highlighting his deep tech expertise and the scientific potential of traditional substances, criticizing a \"slavish colonial mindset.\"",
+    "img": "https://static.toiimg.com/photo/msid-127557803,imgsize-56304.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/colonial-mindset-padma-shri-row-over-cow-dung-urine-remarks-sridhar-vembu-backs-iit-madras-director/articleshow/127557236.cms",
+    "time": "2026-01-26T14:54:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PCB considers boycotting India match in support of Bangladesh",
+    "desc": "Pakistan's T20 World Cup participation hangs in the balance, with a decision on playing against co-hosts India delayed until at least Friday. Discussions are underway regarding a potential boycott in solidarity with Bangladesh, who were removed from the tournament. Prime Minister Shehbaz Sharif has directed the cricket board to explore all options.",
+    "img": "https://static.toiimg.com/photo/msid-127556158,imgsize-60004.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-row-pakistan-pm-shahbaz-sharif-asks-pcb-to-keep-all-options-open-india-match-boycott-considered/articleshow/127555610.cms",
+    "time": "2026-01-26T14:20:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Manoj Bajpayee almost lost his role in 'Bandit Queen'",
+    "desc": "Manoj Bajpayee reminisces about his debut in Shekhar Kapoor's 1994 film 'Bandit Queen,' marking 32 years since its release. He recounts how his photograph was chosen from a lot by Kapoor and how the role of Vikram Malla, initially cast with Nirmal Pandey and later considered for Naseeruddin Shah, ultimately came back to him.",
+    "img": "https://static.toiimg.com/photo/msid-127555251,imgsize-43254.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/32-years-of-bandit-queen-manoj-bajpayee-almost-lost-his-role-to-naseeruddin-shah-i-was-out-of-it-because-exclusive/articleshow/127555102.cms",
+    "time": "2026-01-26T14:00:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Waheeda Rahman reacts to AR Rahman's 'communal' remark",
+    "desc": "Veteran actress Waheeda Rehman has chosen to distance herself from the controversy surrounding AR Rahman's remarks on alleged communal bias in Bollywood. She believes such minor issues occur everywhere and prefers to focus on peace and happiness. Rehman also suggested that career fluctuations and industry changes might influence such statements.",
+    "img": "https://static.toiimg.com/photo/msid-127554791,imgsize-36852.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/waheeda-rahman-reacts-to-ar-rahmans-communal-remark-apni-shaanti-se-raho-yeh-mulk-hai-humaara/articleshow/127554588.cms",
+    "time": "2026-01-26T13:52:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Govinda claims 'Writers make Krushna Abhishek mock me on TV'",
+    "desc": "Renowned actor Govinda has voiced his concerns about how his nephew Krushna Abhishek's television scripts frequently lead to what he perceives as disrespectful portrayals. In a heartfelt response, Krushna praised his uncle’s enduring star power and distinctive viewpoints. This exchange draws attention to the complexities within their family dynamics while tying into Govinda's latest public narratives.",
+    "img": "https://static.toiimg.com/photo/msid-127554379,imgsize-40776.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-makes-startling-claim-saying-writers-make-krushna-abhishek-mock-me-on-television/articleshow/127554379.cms",
+    "time": "2026-01-26T13:50:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Andhra Pradesh Speaker proposes Right to Recall, no work no pay for MLAs",
+    "desc": "Speaking at the 77th Republic Day celebrations at the State Assembly, Ayyanna Patrudu calls for a minimum of 60 sitting days a year to restore the dignity of legislatures, while Legislative Council Chairman Koyye Moshenu Raju hails the Constitution as the greatest guiding text",
+    "img": "https://th-i.thgim.com/public/incoming/pav8ex/article70553329.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-01-26%20at%2018.25.55.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-speaker-proposes-right-to-recall-no-work-no-pay-for-mlas/article70553003.ece",
+    "time": "2026-01-26T13:43:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Menopause is not generous,’ says Twinkle on women's health in her 50s",
+    "desc": "Twinkle Khanna candidly shared her experience with menopause, detailing how Hormone Replacement Therapy and lifestyle changes have improved her well-being. She also highlighted the mutual encouragement in her 25-year marriage to Akshay Kumar, emphasizing their support for each other's endeavors.",
+    "img": "https://static.toiimg.com/photo/msid-127554079,imgsize-32220.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/menopause-is-not-that-generous-says-twinkle-khanna-as-she-opens-up-about-womens-health-in-her-50s-shares-tips-to-deal-with-it/articleshow/127553849.cms",
+    "time": "2026-01-26T13:39:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Insult to Maharashtra’: Oppn slams Padma Bhushan for Koshiyari; ex-governor shrugs off criticism",
+    "desc": "Opposition leaders slammed the Centre's decision to award Padma Bhushan to former Maharashtra Governor Bhagat Singh Koshiyari, citing his alleged role in toppling the MVA government and insulting state icons. However, CM Devendra Fadnavis defended the award, highlighting Koshiyari's societal contributions and work for development.",
+    "img": "https://static.toiimg.com/photo/msid-127553890,imgsize-951332.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/insult-to-maharashtra-oppn-slams-padma-bhushan-for-koshiyari-ex-governor-shrugs-off-criticism/articleshow/127553921.cms",
+    "time": "2026-01-26T13:34:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Booed, abused, but still here: Hardik Pandya's decade in Indian cricket",
+    "desc": "Hardik Pandya's decade in Indian cricket has been a journey of impact and resilience, marked by explosive starts, physical setbacks, and leadership roles. From a costly debut over to crucial World Cup final performances, his career showcases volatility, scrutiny, and a consistent ability to influence games with both bat and ball.",
+    "img": "https://static.toiimg.com/photo/msid-127553369,imgsize-126242.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/booed-abused-but-still-here-hardik-pandyas-decade-in-indian-cricket/articleshow/127551199.cms",
+    "time": "2026-01-26T13:29:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "After a gap of over 10 years, India marks Republic Day in Yemen",
+    "desc": "For the first time in over a decade, India celebrated Republic Day in Yemen with the Indian community and embassy staff. Other diplomatic missions in the US, Singapore, Japan, and Sri Lanka also marked the occasion with flag unfurling ceremonies and participation from the Indian diaspora. US Secretary of State Marco Rubio extended greetings, highlighting the strong bilateral partnership.",
+    "img": "https://static.toiimg.com/photo/msid-127552870,imgsize-1246016.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/after-a-gap-of-over-10-years-india-marks-republic-day-in-yemen/articleshow/127552145.cms",
+    "time": "2026-01-26T13:15:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Border 2 producer says Akshaye's cameo was not added later",
+    "desc": "In a recent statement, the creators of 'Border 2' emphasized that Akshaye Khanna's brief yet impactful appearance was intricately woven into the storyline from the get-go. Director Anurag Singh confirmed that the scene, filmed last December, serves as a heartfelt nod to the beloved 1997 classic, rather than a response to Khanna's newfound social media fame.",
+    "img": "https://static.toiimg.com/photo/msid-127552101,imgsize-27312.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-producer-bhushan-kumar-reveals-akshaye-khannas-cameo-was-not-added-due-to-dhurandhar-success-was-already/articleshow/127552101.cms",
+    "time": "2026-01-26T13:15:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bihar return to Elite group",
+    "desc": "Bihar secured a dominant 568-run victory over Manipur in the Plate final, earning a promotion back to the Ranji Trophy Elite Group. Piyush Singh's unbeaten double century and strong bowling performances from Suraj Kashyap and Himanshu Singh were instrumental in their crushing win.",
+    "img": "https://static.toiimg.com/photo/msid-127552244,imgsize-36280.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ranji-trophy-bihar-return-to-elite-group/articleshow/127551999.cms",
+    "time": "2026-01-26T13:03:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Punjab farmers take out tractor marches demanding withdrawal of Electricity (Amendment) Bill",
+    "desc": "The demonstrations were organised to demand the withdrawal of the Electricity (Amendment) Bill 2025, the Seeds Bill 2025, repeal of labour codes, restoration of the Mahatma Gandhi National Rural Employment Guarantee Act and legal guarantee for minimum support price on crops",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/punjab/punjab-farmers-take-out-tractor-marches-demanding-withdrawal-of-electricity-amendment-bill/article70552903.ece",
+    "time": "2026-01-26T12:44:56.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "India flexes might on 77th Republic Day parade; UAE scraps Pakistan airport deal &amp; more",
     "desc": "India marked its 77th Republic Day with a grand parade showcasing military might and cultural diversity. Meanwhile, the UAE reportedly scrapped its airport management deal with Pakistan following the UAE President's India visit. In other news, a Bangladesh court sentenced three police officers to death for protest-related killings, and IndiGo cancelled flights to four Central Asian cities due to regional developments.",
     "img": "https://static.toiimg.com/photo/msid-127550577,imgsize-1183870.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-india-flexes-might-on-77th-republic-day-parade-uae-scraps-pakistan-airport-deal-more/articleshow/127550299.cms",
     "time": "2026-01-26T12:32:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Uranium, trade pact on agenda; comes days after China pivot",
-    "desc": "Canadian Prime Minister Mark Carney is slated to visit India in early March to sign significant deals on uranium, energy, minerals, AI, education, and culture. This visit aims to diversify Canada's alliances and reset bilateral relations, with formal CEPA negotiations also set to commence. Both nations are prioritizing these agreements amid a changing global order and U.S. trade pressures.",
-    "img": "https://static.toiimg.com/photo/msid-127550074,imgsize-41450.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/canada-pm-mark-carney-likely-to-visit-india-in-march-uranium-trade-pact-on-agenda-comes-days-after-china-pivot/articleshow/127549913.cms",
-    "time": "2026-01-26T12:31:10.000Z"
   },
   {
     "cat": "Entertainment",
@@ -297,33 +414,6 @@ const newsData_en = [
     "time": "2026-01-26T09:01:31.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Is Travis Scott really in Christopher Nolan’s ‘The Odyssey’?",
-    "desc": "Rapper Travis Scott has reportedly joined Christopher Nolan's upcoming epic, 'The Odyssey,' with a trailer during the AFC Championship game sparking widespread discussion. While his role's extent remains undisclosed, this collaboration follows Scott's contribution to Nolan's 'Tenet.' The film, a grand adaptation of the Greek myth, boasts a star-studded cast and is set for a July release.",
-    "img": "https://static.toiimg.com/photo/msid-127539798,imgsize-33386.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/is-rapper-travis-scott-really-in-christopher-nolans-the-odyssey-heres-the-truth-about-the-collab-you-need-to-know/articleshow/127539731.cms",
-    "time": "2026-01-26T08:58:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Colonel Rajeev Bharwan (Retd.) on defence-based films",
-    "desc": "Retired Army Officer Colonel Rajeev Bharwan critiques the commercialization of patriotic films, emphasizing that authenticity and genuine intent are paramount. He argues that films should focus on the real sacrifices of soldiers rather than relying on cinematic embellishments.",
-    "img": "https://static.toiimg.com/photo/msid-127539545,imgsize-82440.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/colonel-rajeev-bharwan-retd-on-defence-based-films-intent-should-be-to-straighten-the-spine-of-countrymen-not-money-making/articleshow/127538998.cms",
-    "time": "2026-01-26T08:53:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Moms’ day out: What’s cooking b/w Taylor’s and Travis’ moms?",
-    "desc": "Taylor Swift and Travis Kelce's mothers, Andrea Swift and Donna Kelce, were spotted together at the Sundance Film Festival, sparking buzz about their growing bond. This outing follows a previous dinner with Patrick Mahomes' mother, signaling a close relationship between the families as the couple's June wedding approaches. Details about the Rhode Island ceremony are being finalized.",
-    "img": "https://static.toiimg.com/photo/msid-127538735,imgsize-75534.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/taylor-swift-and-travis-kelces-moms-make-rare-joint-appearance-at-sundance-film-festival-whats-brewing/articleshow/127538661.cms",
-    "time": "2026-01-26T08:37:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Rivals will be destroyed’: Ex-cricketer warns world as India look unbeatable",
     "desc": "Former India all-rounder Irfan Pathan believes the current Indian T20 side is \"almost impossible to beat\" following their dominant series win against New Zealand. Pathan highlighted the team's fearless, ultra-aggressive batting approach, which he feels intimidates rivals and leaves them with \"no margin for error\" ahead of the 2026 T20 World Cup.",
@@ -333,15 +423,6 @@ const newsData_en = [
     "time": "2026-01-26T08:28:53.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Lokesh shares an update on his film with Aamir Khan",
-    "desc": "Director Lokesh Kanagraj has announced that his hopes for a superhero film with Aamir Khan have sadly not materialized as discussions have wrapped up. As a longtime follower of Khan's cinematic journey, Kanagraj revealed they had numerous meetings to consider the project's potential. Despite this setback, he is still looking forward to the possibility of working together down the line.",
-    "img": "https://static.toiimg.com/photo/msid-127538098,imgsize-42654.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lokesh-kangaraj-shares-an-update-on-his-film-with-aamir-khan/articleshow/127538098.cms",
-    "time": "2026-01-26T08:27:39.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Army’s 'phased battle array', IAF flypast and cultural diversity take centre stage — key takeaways from 77th Republic Day",
     "desc": "India celebrates its 77th Republic Day on Monday, with nationwide events marking the adoption of the Constitution and highlighting the country’s cultural and military heritage. Celebrations of the 77th Republic Day at the Kartvya Path were based on the theme of the 150th Anniversary of the national song, Vande Mataram, a timeless mantra that awakened the spirit of Swadeshi, self-reliance, and freedom in India's national consciousness.",
@@ -349,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/armys-phased-battle-array-iaf-flypast-and-cultural-diversity-take-centre-stage-key-takeaways-from-77th-republic-day/articleshow/127535657.cms",
     "time": "2026-01-26T08:25:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Border 2': Sunny, Ahan surprise fans with a visit to Gaiety",
-    "desc": "Fans were over the moon when Bollywood legends Sunny Deol and Ahan Shetty made an unexpected visit to the iconic Gaiety Galaxy cinema in Mumbai to mark the phenomenal box office performance of 'Border 2', which has raked in more than Rs 120 crore. The duo interacted with the captivated audience, sharing their appreciation for their overwhelming support.",
-    "img": "https://static.toiimg.com/photo/msid-127537009,imgsize-24336.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-sunny-deol-and-ahan-shetty-surprise-fans-with-a-visit-to-mumbais-gaiety-galaxy-crowd-goes-berserk/articleshow/127537009.cms",
-    "time": "2026-01-26T08:14:56.000Z"
   },
   {
     "cat": "Entertainment",
@@ -441,15 +513,6 @@ const newsData_en = [
     "time": "2026-01-26T06:38:12.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "New Zealand players inspect Abhishek Sharma's bat – WATCH",
-    "desc": "India secured an eight-wicket victory over New Zealand, clinching the T20I series 3-0. Abhishek Sharma's rapid 14-ball fifty and Suryakumar Yadav's attacking half-century powered India's chase, completing the target in just 10 overs. This dominant performance highlighted India's batting prowess and sealed a memorable series win.",
-    "img": "https://static.toiimg.com/photo/msid-127531906,imgsize-36990.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/new-zealand-players-inspect-abhishek-sharmas-bat-after-brutal-knock-watch/articleshow/127531798.cms",
-    "time": "2026-01-26T06:25:13.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "PM Modi dons maroon-yellow Rajasthani safa with zari motifs",
     "desc": "Prime Minister Narendra Modi's red Rajasthani turban, adorned with golden-yellow streaks, captivated onlookers at the 77th Republic Day parade. This distinctive headwear, a recurring signature, symbolizes India's rich cultural tapestry and regional heritage. Paired with a navy kurta-pyjama and light blue Nehru jacket, his attire blended formal elegance with cultural pride, complementing the grandeur of the national celebration.",
@@ -457,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/republic-day-2026-pm-modi-dons-red-yellow-bandhej-safa-as-he-leads-celebrations-in-delhi/articleshow/127530209.cms",
     "time": "2026-01-26T06:20:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "DRI busts mephedrone factory in Satara, seizes drugs worth ₹55 crore",
-    "desc": "“The seizure included 11.848 kg of the drug in liquid form, 9.326 kg in semi-liquid form, and 738 grams in crystalline form, along with 71.5 kg of raw material capable of yielding another 15 kg of mepehdrone, collectively worth about ₹55 crore,” says official",
-    "img": "https://th-i.thgim.com/public/news/national/6ccc5g/article70552003.ece/alternates/LANDSCAPE_1200/iStock-1153503786.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/dri-busts-mephedrone-factory-in-satara-seizes-drugs-worth-55-crore/article70551966.ece",
-    "time": "2026-01-26T06:09:43.000Z"
   },
   {
     "cat": "Sports",
@@ -522,15 +576,6 @@ const newsData_en = [
     "time": "2026-01-26T04:00:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "What makes Sunrisers a sporting dynasty",
-    "desc": "Sunrisers Eastern Cape pulled off a sensational last-over heist to beat Pretoria Capitals by six wickets and win the fourth edition of the SA20. It was their third title, having also finished runners-up last year. From the auction to structure, SEC are, undoubtedly, T20 franchise cricket's sporting dynasty.",
-    "img": "https://static.toiimg.com/photo/msid-127524530,imgsize-153246.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/sa20/sa20-what-makes-sunrisers-eastern-cape-a-sporting-dynasty-a-well-balanced-team/articleshow/127523836.cms",
-    "time": "2026-01-26T03:59:59.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'We remain vigilant to developments around Iran': IndiGo cancels flights to four cities till Jan 28",
     "desc": "IndiGo has cancelled flights to Tbilisi, Almaty, Tashkent, and Baku until January 28 due to regional developments around Iran. The airline cited a review of the security situation and emphasized passenger safety as its highest priority. This decision follows widespread unrest in Iran, with protests escalating against the country's leadership.",
@@ -549,15 +594,6 @@ const newsData_en = [
     "time": "2026-01-26T03:23:04.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘Not going to challenge’: BCB accepts ICC call as B'desh bow out quietly of T20 WC",
-    "desc": "The Bangladesh Cricket Board has accepted the ICC's decision to replace them with Scotland in the T20 World Cup after the government refused to clear the team for travel to India due to security concerns. The BCB stated they cannot participate in the current fixture and will not pursue arbitration.",
-    "img": "https://static.toiimg.com/photo/msid-127522409,imgsize-328918.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-are-not-going-to-challenge-bcb-accepts-icc-call-as-bangladesh-bow-out-of-t20-world-cup/articleshow/127522214.cms",
-    "time": "2026-01-26T03:14:18.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Are Sensex, Nifty open for trading on January 26?",
     "desc": "Indian stock and commodity markets were closed on January 26 for Republic Day, marking the second holiday of 2026. Trading will resume on January 27. A total of 16 market holidays are scheduled for 2026, including national and religious observances.",
@@ -574,69 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/how-ink-art-and-india-came-together-in-the-constitution/articleshow/127519825.cms",
     "time": "2026-01-26T02:25:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "9,550 kg of explosives seized in Rajasthan, man arrested; Central agencies likely to get involved",
-    "desc": "Besides ammonium nitrate, police also seized a large quantity of explosive accessories, including nine cartons of detonators, 12 cartons and 15 bundles of blue fuse wire, and 12 cartons and five bundles of red fuse wire, officials said",
-    "img": "https://th-i.thgim.com/public/incoming/7ehubc/article70551716.ece/alternates/LANDSCAPE_1200/20251231239L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rajasthan/9550-kg-of-explosives-seized-in-rajasthan-man-arrested-central-agencies-likely-to-get-involved/article70551711.ece",
-    "time": "2026-01-26T02:18:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'A historic bond': US extends greetings to India on 77th Republic Day",
-    "desc": "Marco Rubio said the US looks forward to \"working together to advance our shared objectives in the year ahead\" and mentioned the Quad to assert the significance of the India-US relationship for the Indo-Pacific region. The national capital has been placed on high alert on the occasion of the 77th Republic Day, with intensified security checks underway across the Delhi-NCR region.",
-    "img": "https://static.toiimg.com/photo/msid-127518788,imgsize-32318.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/a-historic-bond-us-extends-greetings-to-india-on-77th-republic-day/articleshow/127517871.cms",
-    "time": "2026-01-26T02:10:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "92-yr-old green activist among Padma winners",
-    "desc": "Kerala's Kollakkayil Devaki Amma, along with other 'unsung heroes' like Gambir Singh Yonzone and Hally War, has been recognized with Padma awards for their significant environmental conservation efforts. Amma transformed sandy land into a green sanctuary, while others established national parks and revitalized living root bridges, showcasing dedication to nature.",
-    "img": "https://static.toiimg.com/photo/msid-127518998,imgsize-420052.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/92-yr-old-green-activist-among-padma-winners/articleshow/127518908.cms",
-    "time": "2026-01-26T02:00:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kargil hero among 2,241 JCOs to get honorary officer rank",
-    "desc": "Kargil war hero Subedar Major Sanjay Kumar, a Param Vir Chakra recipient, has been elevated to honorary captain for his distinguished service. He is among 2,241 JCOs receiving honorary commissioned ranks on Republic Day. This recognition highlights the crucial, often overlooked, contributions of senior non-commissioned officers who form the backbone of the Army.",
-    "img": "https://static.toiimg.com/photo/msid-127518751,imgsize-741524.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kargil-hero-among-2241-jcos-to-get-honorary-officer-rank/articleshow/127518662.cms",
-    "time": "2026-01-26T01:55:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Jammu &amp; Kashmir police tops gallantry list, Maharashtra second",
-    "desc": "On the eve of Republic Day, the government announced 982 service medals for police, fire, home guards, civil defence, and correctional services. Jammu and Kashmir led in gallantry awards, with 125 Medals of Gallantry, 101 President's Medals for Distinguished Service, and 756 Medals for Meritorious Service conferred.",
-    "img": "https://static.toiimg.com/photo/msid-127518481,imgsize-1211358.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jammu-kashmir-police-tops-gallantry-list-maharashtra-second/articleshow/127518396.cms",
-    "time": "2026-01-26T01:49:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Hinterland's 'unsung heroes' on Padma rolls",
-    "desc": "The government recognized 84 districts, including ten new ones, for Padma awards, highlighting hinterland talents. Notable recipients include folk musician Taga Ram Bheel and environmentalist Hally War. Maharashtra leads with 15 awardees, followed by Tamil Nadu and West Bengal. The selection process involved over 39,000 nominations, emphasizing diverse representation.",
-    "img": "https://static.toiimg.com/photo/msid-127518308,imgsize-741576.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/hinterlands-unsung-heroes-on-padma-rolls/articleshow/127517968.cms",
-    "time": "2026-01-26T01:40:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The road that ended in a tragedy",
-    "desc": "On a dark fog-ridden January night in Greater Noida, a water-filled construction pit — unmarked and unfenced — became a fatal trap. Yuvraj Mehta, a 27-year-old techie, accidentally drove into it and died. The incident has become more than a personal tragedy, turning into an indictment of a city built — and sold — faster than ground realities can keep pace, finds Shrimansi Kaushik. Residents say neglect and institutional apathy have turned urban spaces into landscapes of loss",
-    "img": "https://th-i.thgim.com/public/incoming/u2gxlr/article70545993.ece/alternates/LANDSCAPE_1200/NOIDA%20ACCIDENT%20CASE_21_01_2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/noida-techie-death-the-road-that-ended-spotlight/article70545978.ece",
-    "time": "2026-01-26T00:15:00.000Z"
   },
   {
     "cat": "World",
@@ -666,42 +639,6 @@ const newsData_en = [
     "time": "2026-01-25T20:19:36.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Consumer industry captains seek more tax cuts to support demand",
-    "desc": "India's consumer goods chiefs are urging the government for tax cuts and measures to boost middle-class purchasing power to sustain consumption recovery. They seek support for local industries against volatile commodity prices and stable input costs, aiming to prevent price hikes for consumers. Increased disposable incomes and infrastructure investments are also key demands.",
-    "img": "https://static.toiimg.com/photo/msid-127500341,imgsize-681418.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/consumer-industry-captains-seek-more-tax-cuts-to-support-demand/articleshow/127500125.cms",
-    "time": "2026-01-25T19:56:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "FPIs seek review of taxes faced by them, say some face double taxation",
-    "desc": "Foreign investors are urging a review of India's tax policies, particularly capital gains, citing high trading costs and potential double taxation. They argue that the reintroduction of long-term capital gains tax, coupled with difficulties in claiming foreign tax credits, makes India less attractive. Concerns also include computation issues and refund delays, contributing to significant FPI outflows.",
-    "img": "https://static.toiimg.com/photo/msid-127499976,imgsize-856382.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/fpis-seek-review-of-taxes-faced-by-them-say-some-face-double-taxation/articleshow/127499774.cms",
-    "time": "2026-01-25T19:48:36.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Key sectors eye zero-duty EU access",
-    "desc": "India and the EU are poised to announce a free trade agreement, with domestic industries pushing for zero-duty access in sectors like textiles and leather to better compete with nations like Bangladesh and Vietnam. While the auto sector seeks protection against Chinese EVs, mobility-related easing for professionals is also anticipated.",
-    "img": "https://static.toiimg.com/photo/msid-127499561,imgsize-428410.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/key-sectors-eye-zero-duty-eu-access/articleshow/127499411.cms",
-    "time": "2026-01-25T19:41:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Shibu Soren is and will forever remain 'Bharat Ratna': Jharkhand CM on Padma Bhushan to father",
-    "desc": "A statement from the Jharkhand Mukti Morcha said Shibu Soren should have been conferred with Bharat Ratna, and not Padma Bhushan, and said the demand for Bharat Ratna for him would continue to be raised",
-    "img": "https://th-i.thgim.com/public/incoming/ulti0g/article70550877.ece/alternates/LANDSCAPE_1200/PTI01_11_2026_000539B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jharkhand/shibu-soren-is-and-will-forever-remain-bharat-ratna-jharkhand-cm-on-padma-bhushan-to-father/article70550847.ece",
-    "time": "2026-01-25T19:15:13.000Z"
-  },
-  {
     "cat": "World",
     "title": "Russia captures another village in northeastern Ukraine, Defence Ministry says",
     "desc": "Ukraine’s DeepState military blog, which uses open-source reports to track ‌the positions of both armies, ‌made no mention of the village in a report on January 23, but ‍said Russian forces “are continuing their pressure in the Vovchansk area.”",
@@ -720,15 +657,6 @@ const newsData_en = [
     "time": "2026-01-25T18:03:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Amaravati Bill’ will be introduced in Budget session of Parliament, says Chief Minister Chandrababu Naidu",
-    "desc": "During the Telugu Desam Parliamentary Party meeting, he advises MPs to make efforts to mobilise additional funds from the Centre, desist from picking up conflicts with Telangana on irrigation projects, and refrain from acting in a way that dents alliance’s objectives",
-    "img": "https://th-i.thgim.com/public/incoming/amaw98/article70550802.ece/alternates/LANDSCAPE_1200/a5901919-9fd5-4cd0-b83b-3b07be61604e.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/amaravati-bill-will-be-introduced-in-budget-session-of-parliament-says-chief-minister-chandrababu-naidu/article70550218.ece",
-    "time": "2026-01-25T17:54:06.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.K. plans to create ‘British FBI’ to bring national investigations under single police force",
     "desc": "The National Police Service will bring under the same umbrella the work of existing agencies dealing with terrorism and crime, police helicopters and policing of the roads, and regional organised crime units in England and Wales",
@@ -736,15 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/uk-plans-to-create-british-fbi-to-bring-national-investigations-under-single-police-force/article70549837.ece",
     "time": "2026-01-25T17:04:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Assembly election is a battle to defeat forces out to destroy Tamil culture, says CM Stalin",
-    "desc": "Only the DMK has the spine and courage to question the BJP-led government at the Centre that has betrayed the interests of Tamil Nadu, the DMK president says, speaking at an event organised to mark the Linguistic Martyrs’ Memorial Day at Kancheepuram",
-    "img": "https://th-i.thgim.com/public/incoming/esqk2b/article70550671.ece/alternates/LANDSCAPE_1200/STALIN%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/assembly-election-is-a-battle-to-defeat-forces-out-to-destroy-tamil-culture-says-cm-stalin/article70550670.ece",
-    "time": "2026-01-25T16:51:39.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +817,86 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-imposes-sanctions-on-iran-shadow-fleet-over-protest-crackdown/article70544321.ece",
     "time": "2026-01-23T22:08:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sri Lanka gets the better of England in the opening ODI",
+    "desc": "England overcame the early loss of Zak Crawley, who made a disappointing return to 50-over format after more than two years when he nicked Asitha Fernando behind wickets after scoring just 6 runs in his comeback game",
+    "img": "https://th-i.thgim.com/public/incoming/vqfxiz/article70544277.ece/alternates/LANDSCAPE_1200/TH23-CITY-INSTAGVIFFPFK7.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/sri-lanka-gets-the-better-of-england-in-the-opening-odi/article70544202.ece",
+    "time": "2026-01-23T21:32:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit on 13-year ICC title drought",
+    "desc": "The former captain, who currently plays in the ODIs only, said the team management headlined by him and former head coach Rahul Dravid wanted to remove the fear by giving everyone freedom and clarity in their roles",
+    "img": "https://th-i.thgim.com/public/incoming/vx5i7x/article70544199.ece/alternates/LANDSCAPE_1200/6744_19_1_2026_9_27_19_1_111_RVM_1718.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/fear-of-failure-might-have-crept-into-all-of-us-rohit-on-13-year-icc-title-drought/article70544198.ece",
+    "time": "2026-01-23T21:19:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sindhu, Lakshya lose in quarterfinals; Indian challenge ends in Indonesia Masters",
+    "desc": "Sindhu, a two-time Olympic medallist, lost to top seed and world number four Chen Yu Fei of China 13-21 17-21 in the quarterfinal contest that lasted 42 minutes to bow out of the Super 500 event",
+    "img": "https://th-i.thgim.com/public/incoming/joq07x/article70544197.ece/alternates/LANDSCAPE_1200/PTI01_14_2026_000566A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/sindhu-lakshya-lose-in-quarterfinals-indian-challenge-ends-in-indonesia-masters/article70544195.ece",
+    "time": "2026-01-23T21:04:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh appeal can't be heard by ICC's DRC; Scotland to be named as replacement by January 24",
+    "desc": "Even as the ICC has kept Scotland on stand-by, the BCB under Aminul Islam Bulbul, after being completely cornered, decided to use its last resort — approach the DRC headed by Englishman Michael Beloff (Kings Counsel)",
+    "img": "https://th-i.thgim.com/public/sport/tennis/p2t4mc/article70545230.ece/alternates/LANDSCAPE_1200/MichaelBeloff.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/bangladesh-appeal-cant-be-heard-by-iccs-drc-scotland-to-be-named-as-replacement-by-january-24/article70544129.ece",
+    "time": "2026-01-23T19:30:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Linkin Park’s debut tour of India kicks off with a performance in Bengaluru",
+    "desc": "The American rock band took the stage as part of the From Zero World Tour. The standalone gig was a power-packed performance with songs from the band'’ new album, and chart toppers Numb and In The End",
+    "img": "https://th-i.thgim.com/public/news/cities/bangalore/rvvvdi/article70545422.ece/alternates/LANDSCAPE_1200/PG_LP_BLR_23JAN10.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/linkin-parks-debut-tour-of-india-kicks-off-with-a-performance-in-bengaluru/article70532992.ece",
+    "time": "2026-01-23T19:07:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "At four, I watched Kosteniuk become World champion; I felt I needed that crown: Assaubayeva",
+    "desc": "The youngest woman to claim the World Blitz Championship, Assaubayeva has ambitions of winning the prestigious classical title. In this chat, she talks about her beginnings in chess, what achieving the GM title meant to her, why she enjoys playing in India, what she thinks of D. Gukesh and Arjun Erigiaisi, and where Kazakhstan chess is headed",
+    "img": "https://th-i.thgim.com/public/incoming/gvfq79/article70544082.ece/alternates/LANDSCAPE_1200/Bibisara.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/at-four-i-watched-kosteniuk-become-world-champion-i-felt-i-needed-that-crown-assaubayeva/article70544087.ece",
+    "time": "2026-01-23T18:12:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No-limits Mahuchikh looks to reassert her aerial dominance",
+    "desc": "The Ukrainian high jumper has begun 2026 with her best clearance since setting the world record in 2024. This bodes well for the reigning Olympic champion, who had a disappointing end to 2025, losing her World title and being outshone by rival Nicola Olyslagers. Mahuchikh’s eyes this year are set firmly on making March’s World Indoor Championships her own",
+    "img": "https://th-i.thgim.com/public/incoming/1okzw5/article70544042.ece/alternates/LANDSCAPE_1200/GettyImages-2232410728.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/no-limits-mahuchikh-looks-to-reassert-her-aerial-dominance/article70544063.ece",
+    "time": "2026-01-23T18:01:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sarfaraz’s double ton helps Mumbai extend domination",
+    "desc": "The middle-order batter braves a wrist injury and puts on 154 for the sixth wicket with Suved as the visitor ends up with a mammoth total of 560; Rahul and Himateja’s unbroken 100-run stand lifts Hyderabad to 138 for two",
+    "img": "https://th-i.thgim.com/public/incoming/8ebr13/article70543622.ece/alternates/LANDSCAPE_1200/vjkvg-hyd%2014.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-sarfarazs-double-ton-helps-mumbai-extend-domination/article70543627.ece",
+    "time": "2026-01-23T15:34:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Baby Girl’ movie review: Nivin Pauly-Lijomol Jose starrer fails to work due to dated approach",
+    "desc": "With the story of a newborn’s disappearance from a hospital losing momentum by the halfway mark, the rest of the film plods along with the aid of the emotional drama and a few convenient contrivance.",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/d0fwqx/article70543037.ece/alternates/LANDSCAPE_1200/Nivin%20Pauly.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/baby-girl-movie-review-nivin-pauly-lijomol-jose-starrer-fails-to-work-due-to-dated-approach/article70543043.ece",
+    "time": "2026-01-23T14:32:01.000Z"
   }
 ];
