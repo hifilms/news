@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Team India script history, register name in elite list with sensational third T20I win against New Zealand",
+    "desc": "The Indian team put forth an incredible performance in the third T20I of the ongoing five-game series against New Zealand. The two sides took on each other at the Barsapara Stadium in Guwahati on January...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/team-india-script-history-register-name-in-elite-list-with-sensational-third-t20i-win-against-new-zealand-2026-01-26-1027461",
+    "time": "2026-01-26T01:30:18.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "IS Bindra, former BCCI president and PCA head, passes away aged 84",
     "desc": "Inderjit Singh Bindra, former president of the Board of Control for Cricket in India (BCCI), passed away on Sunday, January 21. He was 84 and is survived by a son and a daughter. Bindra was a...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/perth-scorchers-break-csk-mis-world-record-win-bbl-15-after-beating-sydney-sixers-in-final-2026-01-25-1027419",
     "time": "2026-01-25T11:49:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Novak Djokovic breaks Roger Federer record, receives walkover to enter Australian Open quarterfinal",
-    "desc": "Novak Djokovic has reached the Australian Open 2026 quarterfinals after receiving a walkover in the round of 16 clash against Jakub Mensik, who pulled out of the tournament due to an injury. Mensik had famously stunned...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/novak-djokovic-breaks-roger-federer-record-receives-walkover-to-enter-australian-open-quarterfinal-2026-01-25-1027416",
-    "time": "2026-01-25T11:14:54.000Z"
   }
 ];
