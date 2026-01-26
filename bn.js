@@ -1,6 +1,33 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "ঠাকুরদা ছিলেন হোটেলের ওয়েটার, বাবা অ্যাকশন হিরো, বলিউডে নিজের ভাগ্য পরীক্ষা করছেন আহান",
+    "desc": "বাবা হিরো, ছেলেও নিজেও হিরো হতে চান৷ তবে বললেই তো আর হবে না৷ কারণ বলিউড এমন এক জায়গা যেখানে ভক্তদের মন জয় করতে পারলেই তবে টিকে থাকা যাবে৷ না হলে বেশি দিন দৌড়ে টিকতে পারবেন না৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1769333438_Ahan-Shetty-career-highlights-2026-01-ebbe8ed658b6df3a4c09138437eb8ecf-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/his-grandfather-was-a-waiter-father-was-an-action-hero-now-he-is-trying-his-career-in-bollywood-transpg-pbd-2511553.html",
+    "time": "2026-01-26T08:32:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "কালনায় জোড়া পদ্ম,পদ্মশ্রী পাচ্ছেন সাহিত্যিক রবিলাল টুডু ও তাঁতশিল্পী জ্যোতিষ দেবনাথ, আনন্দে আত্মহারা বর্ধমান",
+    "desc": "২০২৬ সালের সাধারণতন্ত্র দিবসের প্রাক্কালে বড়সড় উপহার পেল পূর্ব বর্ধমান জেলা। কেন্দ্রীয় সরকারের ঘোষিত তালিকায় এবার পদ্মশ্রী পাচ্ছেন বাংলার ১১ জন কৃতি, যার মধ্যে কালনারই দুই গুণীজন রয়েছেন। তাঁরা হলেন সাঁওতালি সাহিত্যের নক্ষত্র রবিলাল টুডু এবং মসলিন-জামদানি শিল্পের জাদুকর জ্যোতিষ দেবনাথ",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/HYP_5726423_cropped_26012026_101218_picsart_260126_075532223_w_1-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/padma-shri-award-double-padma-shri-for-kalna-writer-rabilal-tudu-and-weaver-jyotish-debnath-honoured-burdwan-rejoices-l18-rm-local18-2512292.html",
+    "time": "2026-01-26T08:22:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "বিয়ের প্রতিশ্রুতি দিয়ে গৃহ সহায়িকার সঙ্গে সহবাস, দিনের পর দিন ধর্ষণের অভিযোগে গ্রেফতার ‘ধুরন্ধর’ অভিনেতা নাদিম খান !",
+    "desc": "নাদিমের বিরুদ্ধে তাঁর গৃহপরিচারিকার অভিযোগ, অভিনেতা নাকি গত ১০ বছর ধরে এ ভাবেই তাঁকে যৌন নির্যাতন করেছেন। প্রত্যেক সহবাসের আগে অভিনেতা নাকি আশ্বাস দিতেন, তিনি অভিযোগকারিণীকে বিয়ে করবেন। ভয় দেখিয়ে জোর করে সহবাসের অভিযোগও রয়েছে অভিযুক্তের বিরুদ্ধে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Dhurandhar-Actor-Nadeem-Khan-Arrest-2026-01-60c1a7827f4ab3385301d4c39ec8168c-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/nadeem-khan-arrest-dhurandhar-actor-nadeem-khan-held-for-raping-domestic-help-on-promise-of-marriage-in-mumbai-ss-2512379.html",
+    "time": "2026-01-26T07:23:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "রাজকীয়ভাবেই হল মধুমিতার রিসেপশন... পোশাক থেকে খাওয়া-দাওয়া, আয়োজনে ছিল চমকের পর চমক",
     "desc": "খাওয়ার আয়োজন ছিল এলাহী। ছিল ফুচকা। কনে নিজেও ফুচকা খেয়েছেন। ছিল গন্ধরাজ ঘোল, আমপোড়া শরবত, ডাবের জল। ছিল গোল্ডেন প্রন, ফিশ ফ্রাই, কাবাব, গন্ধরাজ চিকেন, কড়াইশুঁটির কচুরি, সাদা ভাত, ফুলকপির রোস্ট, বাসন্তী পোলাও, পাতুড়ি, চিংড়ির মালাইকারি কাতলা, গোলবাড়ির কষা মাংস, মিষ্টিও ছিল রকমারি।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-26-at-10.00.29-AM-2026-01-082c1ef788e80a2d107a9f5c4563c335-3x2.jpeg",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/technology/digital-india-5g-network-dominance-400-million-people-are-using-in-just-3-years-us-and-japan-far-behind-of-india-sta-2502260.html",
     "time": "2026-01-18T05:38:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ডিসেম্বরে বিমান বিপর্যয়ের জেরে ২২ কোটি টাকা জরিমানা হল ইন্ডিগোর, সতর্ক করল DGCA",
-    "desc": "শনিবার IndiGo-র বিরুদ্ধে পদক্ষেপ করেছে ডাইরেক্টরেট অফ সিভিল এভিয়েশন (DGCA)। ডিসেম্বর ২০২৫-এ দেশজুড়ে বড় আকারে বিমান বিপর্যয়ের ঘটনায় এবার শাস্তির পথে হাঁটল ডিজিসিএ। যেখানে দেশের বিভিন্ন জায়গায় অনেক ফ্লাইট বাতিল বা ডাইভার্ট করা হয়েছিল, আর হাজার হাজার যাত্রী বিমানবন্দরে আটকে পড়েছিলেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Indias-First-A321-XLR-2026-01-054e77e7d4c7d564b73ec953e42d76bc-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/dgca-fines-rs-22-crore-and-issues-warning-to-ceo-as-dgca-takes-strict-action-against-indigo-for-flight-disruptions-rdp-2501906.html",
-    "time": "2026-01-17T17:10:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ফ্যান ভাত খেয়ে ক্রস কান্ট্রিতে দেশের প্রতিনিধিত্ব, জাতীয় স্তরে খেলতে চলেছে পুরুলিয়ার গঙ্গাধর, দেখুন",
-    "desc": "আগামী ২৪ জানুয়ারি ঝাড়খণ্ডের রাঁচির প্রভাত তারা ময়দানে ৬০ তম ন্যাশনাল ক্রসকান্ট্রি প্রতিযোগিতায় খেলতে চলেছে সে। ওয়েস্টবেঙ্গল অ্যাথলেটিক্স অ্যাসোসিয়েশন ইতিমধ্যেই জানিয়ে দিয়েছে, ওই প্রতিযোগিতায় দুই কিলোমিটার দৌড়ে বাংলার হয়ে প্রতিনিধিত্ব করবে গঙ্গাধর। অভাব অনটনের মধ্যে এই জাতীয় স্তরে খেলা তার জীবনে অনেকখানি প্রভাব ফেলতে চলেছে। ‌দিনমজুরি করে ‌কোনওরকমে সংসার চালান গঙ্গাধরের মা ফুচি মাহাতো। গঙ্গাধরের নেই কোনও স্পোর্টস সু। ‌ কী ভাবে এতখানি আর্থিক টানাপোড়েনের মধ্যে দিয়ে রাঁচিতে রাজ্যের হয়ে সে খেলতে যাবে সেই নিয়েই দুশ্চিন্তায় ভুগছে গঙ্গাধর ও তার পরিবার। কারণ রাজ্য অ্যাথলেটিক্স অ্যাসোসিয়েশনের তরফে স্পষ্ট জানিয়ে দেওয়া হয়েছে রাঁচি যাওয়ার ট্রেনের টিকিট, যাতায়াত, থাকা-খাওয়ার যাবতীয় খরচই বহন করতে হবে সংশ্লিষ্ট অ্যাথলিটকেই। দেখুন বাংলা নিউজ ভিডিও৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/success-2026-01-059fe7a1d51796029be56b23b6e89e12-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/sports/class-10-student-gangadhar-from-purulia-is-going-to-participate-in-cross-country-at-the-national-level-feeding-only-on-rice-and-potato-dd-2501744.html",
-    "time": "2026-01-17T12:47:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "একাধিক নারীসঙ্গ, ২ স্ত্রীর সঙ্গে সংসার-ডিভোর্স, ১৮৬২ কোটি টাকার সম্পত্তি, আমির খানের বিলাসবহুল জীবন দেখলে আঁতকে উঠবেন",
-    "desc": "বলিউডের তিন খানের মধ্যে তাকে নিয়ে চর্চার শেষ নেই৷ সম্পর্ক থেকে সম্পত্তি সবেতেই তিনি শিরোনামে৷ ব্যক্তিগত জীবন নিয়ে বারবারই খবরের শিরোনামে উঠে আসেন আমির খান। সূত্রের খবর, আমির খানের মোট সম্পত্তির পরিমাণ ১৮৬২ কোটি টাকা।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1768650127_Created-in-1931-this-choker-featured-platinum-rubies-diamonds-and-elegant-pearls-2026-01-16T081936.176-2026-01-787093bc08fa9d67dbbc34e318e915d4-3x2.png",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/bollywood-actor-aamir-khan-net-worth-inside-bollywood-stars-luxurious-lifestyle-rds-2501647.html",
-    "time": "2026-01-17T12:20:40.000Z"
   }
 ];

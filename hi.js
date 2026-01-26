@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former India cricketer heaps praise on Suryakumar Yadav for stellar knock against New Zealand in third T20I",
+    "desc": "Star India skipper Suryakumar Yadav seems to have found his form once more. After a brilliant knock in the second T20I of the series, he followed it up by scoring 57* runs in 26 deliveries...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-heaps-praise-on-suryakumar-yadav-for-stellar-knock-against-new-zealand-in-third-t20i-2026-01-26-1027512",
+    "time": "2026-01-26T08:58:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It wasn't ideal': Sydney Sixers coach questions BBL finals' schedule after heartbreaking defeat against Perth",
+    "desc": "The BBL (Big Bash League) 2025-26 was won by Perth Scorchers. The side took on Sydney Sixers in the summit clash of the tournament at the Perth Stadium on January 25. The clash saw Sixers...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/it-wasn-t-ideal-sydney-sixers-coach-questions-bbl-finals-schedule-after-heartbreaking-defeat-against-perth-2026-01-26-1027506",
+    "time": "2026-01-26T08:31:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's Australian Open challenge ends as Yuki Bhambri faces exit from men's doubles",
+    "desc": "The Australian Open 2026 dream for the Indian contingent officially came to an end after 33-year-old Yuki Bhambri and his partner Andre Goransson were eliminated from the third round of the men’s doubles category. It...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/india-s-australian-open-challenge-ends-as-yuki-bhambri-faces-exit-from-men-s-doubles-2026-01-26-1027502",
+    "time": "2026-01-26T07:59:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Head to Head record ahead of Australian Open 2026 clash",
+    "desc": "The stage is set for the quarter-final stage of the ongoing Australian Open 2026. The legendary Novak Djokovic will be taking on world number five Lorenzo Musetti in one of the quarter-final clashes. The two...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-vs-lorenzo-musetti-head-to-head-record-ahead-of-australian-open-2026-clash-2026-01-26-1027496",
+    "time": "2026-01-26T07:27:17.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Only natural': Harbhajan Singh gives his take on Sanju Samson's future after consistent subpar outings",
     "desc": "The Indian team clinched their ongoing five-game series against New Zealand. The Men in Blue managed to register a dominant victory in the third T20I of the series, which was played at the Barsapara Stadium...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/is-bindra-former-bcci-president-and-pca-head-passes-away-aged-84-2026-01-25-1027450",
     "time": "2026-01-25T18:21:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Stubbs, Breeztke star in nail-biter as Sunrisers Eastern Cape clinch SA20 for third time",
-    "desc": "Tristan Stubbs and Matthew Breetzke put up a brilliant batting effort in a nail-biting SA20 final against Pretoria Capitals as Sunrisers Eastern Cape clinched the title for the third time on Sunday, January 25. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/stubbs-breeztke-star-in-nail-biter-as-sunrisers-eastern-cape-clinch-sa20-for-third-time-2026-01-25-1027449",
-    "time": "2026-01-25T18:06:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why were Haris Rauf and Mohammad Rizwan not picked in Pakistan's T20 World Cup 2026 squad? Check actual reason",
-    "desc": "Pakistan announced their squad for the upcoming T20 World Cup 2026 on Sunday, January 25, despite their participation in the tournament being uncertain. The Men in Green named Babar Azam in the squad, while the likes...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-were-haris-rauf-and-mohammad-rizwan-not-picked-in-pakistans-t20-world-cup-2026-squad-check-actual-reason-2026-01-25-1027442",
-    "time": "2026-01-25T16:37:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India make mockery of New Zealand as Abhishek Sharma, Suryakumar Yadav star in series win in Guwahati",
-    "desc": "India mauled New Zealand down in the third T20I at the Barsapara Cricket Stadium, Guwahati, as the Men in Blue chased down 154 in just 10 overs to win the third match and the series...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-make-mockery-of-new-zealand-as-abhishek-sharma-suryakumar-yadav-star-in-series-win-in-guwahati-2026-01-25-1027440",
-    "time": "2026-01-25T16:15:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma creates history vs New Zealand with 14-ball fifty, falls just short of mentor Yuvraj Singh",
-    "desc": "Star India opener Abhishek Sharma has achieved a historic milestone for India during the third T20I between India and New Zealand at the Barsapara Cricket Stadium, Guwahati. The deadly left-handed bowler played a jaw-dropping knock...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-creates-history-vs-new-zealand-with-14-ball-fifty-falls-just-short-of-mentor-yuvraj-singh-2026-01-25-1027438",
-    "time": "2026-01-25T15:59:50.000Z"
   }
 ];

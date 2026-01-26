@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "કોચ ગૌતમ ગંભીરનો એક નિર્ણય અને T20માં ધૂમ મચાવી રહી છે ટીમ ઈન્ડિયા",
+    "desc": "ભારતીય ટીમ છેલ્લા કેટલાક સમયથી T20માં જે રીતે પ્રદર્શન કરી રહી છે, તેનાથી વિરોધી ટીમોમાં ડર પેદા થયો છે. ભારતીય બેટ્સમેનોની આક્રમકતા સામે બોલિંગ કરવામાં વિદેશીઓ થર થર ધ્રુજવા લાગે છે. ટીમમાં આ ફેરફાર કોચ ગંભીરના એક નિર્ણય પછી જોવા મળી રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/gautam-gambhir-change-india-t20-team-and-now-become-dangerous-ind-vs-nz-series-462953 ",
+    "time": "2026-01-26T09:26:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ટ્રમ્પના ટેરિફથી ભારતના કયા સેક્ટરને સૌથી વધુ થઈ છે અસર ? જુઓ સરકારી આંકડા",
+    "desc": "અમેરિકા અને ભારત વચ્ચે વેપાર કરાર પર વાતચીત હાલમાં અટકી પડી છે. અમેરિકાએ ભારતીય માલ પર 50 ટકા ટેક્સ લગાવ્યો છે, જ્યારે રશિયન ક્રૂડ ઓઇલ આયાત પર 25 ટકા ટેક્સ લગાવ્યો છે. જાણો આનાથી કયા ક્ષેત્રને સૌથી વધુ નુકસાન થયું છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/which-sector-of-india-has-been-most-affected-by-trump-tariffs-see-government-statistics-462950 ",
+    "time": "2026-01-26T09:08:55.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ચીનમાં પણ બાંગ્લાદેશ જેવું કરવાનો થયો હતો પ્રયત્ન? જિનપિંગને હટાવવા મરણિયા બન્યા હતા આ લોકો",
+    "desc": "શું ભારતના પાડોશમાં જ સત્તા ઉથલાવવાનો પ્રયત્ન થયો હતો એ પણ ચીન જેવા શક્તિશાળી દેશમાં? જિનપિંગને હટાવવા માટે પ્રયત્નો થયા હતા એવું સામે આવતા જ વૈશ્વિક રાજકારણમાં ખળભળાટ મચ્યો છે. બેઈજિંગની જિંગશી હોટલમાં 18 જાન્યુઆરીએ જિનપિંગને પકડવાનું ષડયંત્ર રચાયું હોવાનો દાવો થતા હડકંપ મચી ગયો છે. જાણો શું છે વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/big-claim-chinese-generals-try-to-oust-president-xi-jinping-through-coup-462947 ",
+    "time": "2026-01-26T08:15:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "T20 વર્લ્ડ કપ પહેલા ભારતને લાગશે મોટો ઝટકો... આ મેચ વિનર ખેલાડી થશે બહાર ! આ ખેલાડીનું ચમકશે કિસ્મત",
+    "desc": "T20 વર્લ્ડ કપ 2026 માટે તૈયારીઓ પૂર્ણ થઈ ગઈ છે. આ મેગા ઇવેન્ટ 7 ફેબ્રુઆરીથી શરૂ થશે, પરંતુ તે પહેલા ટીમ ઈન્ડિયાને મોટો ઝટકો લાગી શકે છે. મેચ વિનર ખેલાડી ઈજાને કારણે વર્લ્ડ કપમાંથી બહાર થઈ શકે છે. આ ખેલાડીના રિપ્લેસમેન્ટ અંગે ચર્ચાઓ શરૂ થઈ ગઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/big-blow-to-team-india-washington-sundar-may-be-out-of-t20-world-cup-2026-462941 ",
+    "time": "2026-01-26T07:22:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "યશસ્વી જયસ્વાલને મળી સજા ! સિલેક્ટર્સે ટીમમાંથી અચાનક કેમ કર્યો બહાર ?",
+    "desc": "યશસ્વી જયસ્વાલનો મુંબઈ ટીમમાં સમાવેશ કરવામાં આવ્યો નથી. મુંબઈની દિલ્હી સામેની છેલ્લી રણજી ટ્રોફી મેચ 29 જાન્યુઆરીએ યોજાવાની છે. જયસ્વાલ આ મેચમાં રમશે નહીં. તે ટી20 ટીમમાં પણ નથી. તેમ છતાં સ્થાનિક સિઝનમાંથી તેના બહાર થવા પાછળનું કારણ હવે સામે આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/why-yashasvi-jaiswal-not-selected-in-mumbai-team-for-ranji-trophy-match-know-reason-462937 ",
+    "time": "2026-01-26T06:43:11.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "ધુરંધર ફિલ્મના આ એક્ટર પર લાગ્યો કામવાળીનું શારીરિક શોષણ કર્યાનો ગંભીર આરોપ, પોલીસે કરી કાર્યવાહી",
     "desc": "ધુરંધર ફિલ્મના એક્ટર નદીમ ખાન પર ગંભીર આરોપ લાગ્યા છે. તેની કામવાળીએ આરોપ લગાવ્યો છે કે એક્ટર લગ્ન કરવાની વાત કરી છેલ્લા 10 વર્ષથી તેનું શારીરિક શોષણ કરે છે. આ મામલે પોલીસ કાર્યવાહી થઈ હોવાની વાત પણ સામે આવી છે.",
@@ -297,15 +342,6 @@ const newsData_gu = [
     "time": "2026-01-24T08:44:03.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "&amp;#039;બેડરૂમમાં અન્ય યુવતી સાથે રંગેહાથ પકડાયો હતો પલાશ, મહિલા ક્રિકેટરોએ ચખાડ્યો મેથીપાક&amp;#039;, સ્મૃતિના મિત્રનો મોટો ખુલાસો",
-    "desc": "સંગીતકાર પલાશ મુછલ અને ભારતીય ક્રિકેટ સ્ટાર સ્મૃતિ મંધાના 23 નવેમ્બરના રોજ લગ્ન કરવાના હતા. બધી તૈયારીઓ પૂર્ણ થઈ ગઈ હતી, પરંતુ અચાનક લગ્ન અટકાવવામાં આવ્યા અને બાદમાં બ્રેકઅપની જાહેરાત કરી હતી. ત્યારે હવે આ મામલે એક મોટો ખુલાસો થયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/smriti-mandhana-friend-reveals-palaash-muchhal-caught-red-handed-with-another-girl-462746 ",
-    "time": "2026-01-24T08:36:50.000Z"
-  },
-  {
     "cat": "Business",
     "title": "ભારતમાં 10 ગ્રામ સોનું દોઢ લાખ પાર, એક્સપર્ટ્સની ચેતવણી- &amp;#039;પિક્ચર અભી બાકી હૈ દોસ્ત&amp;#039;!",
     "desc": "સોનું હાલ ભયંકર સ્તરે જોવા મળી રહ્યું છે. ભાવ જોઈને એમ થાય કે હજુ કેટલે પહોંચશે? પરંતુ નિષ્ણાંતો જે કહી રહ્યા છે તે જોતા આ તો હજુ ટ્રેલર છે...પિક્ચર હજુ બાકી છે એમ લાગે. શું કહે છે એક્સપર્ટ્સ તે ખાસ જાણો.",
@@ -367,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/gujarati-theatre-artist-raju-barot-passes-away-462685 ",
     "time": "2026-01-23T15:50:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "એક જ દિવસમાં 50 % ઘટી જશે ચાંદીના ભાવ ? જાણો 1980ના ક્રેશ વિશે",
-    "desc": "સોના સાથે ચાંદીના ભાવમાં પણ ભારે વધારે જોવા મળી રહ્યો છે, રોકાણકારોને હવે ચાંદીના ભાવમાં વધારો જોતા 1980ની તે દિવસની યાદ આવી રહી છે, જ્યારે ભાવમાં એક જ દિવસમાં 50 ટકાનો ઘટાડો નોંધાયો હતો. જાણો તે સમગ્ર ઘટના વિશે",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/will-silver-prices-fall-by-50-percent-in-a-single-day-know-about-the-crash-of-1980-462682 ",
-    "time": "2026-01-23T14:16:28.000Z"
   },
   {
     "cat": "Politics",
@@ -522,15 +549,6 @@ const newsData_gu = [
     "time": "2026-01-20T05:08:27.000Z"
   },
   {
-    "cat": "World",
-    "title": "ગ્રીનલેન્ડ પર સૈન્ય હુમલો કરશે અમેરિકા? ટ્રમ્પનો જવાબ જાણીને હોશ ઉડી જશે",
-    "desc": "અમેરિકા રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ગ્રીનલેન્ડ પર કબજો કરવાની પોતાની ઈચ્છા સ્પષ્ટ કરી દીધી છે. તેમણે ઘણી વખત પોતાના વિરોધીઓ, ખાસ કરીને યુરોપિયન દેશોને ચેતવણી આપી છે કે, જો તેઓ તેમની માંગણીઓનો વિરોધ કરશે, તો તેમના પર વધારાનો ટેરિફ લગાડવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/trump-greenland-annexation-military-force-no-comment-tensions-462246 ",
-    "time": "2026-01-19T17:41:47.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "બોર્ડર ફિલ્મ આ ઓટીટી પ્લેટફોર્મ પર થઈ રહી છે સ્ટ્રીમ, દેશભક્તિની યાદ કરી લો તાજી",
     "desc": "દેશભક્તિની ફિલ્મો માટે 90 નો દાયકો ગોલ્ડન એરા હતો. જેમાં સૌથી બેસ્ટ ફિલ્મ હતી બોર્ડર. ગણતરીના દિવસોમાં બોર્ડર 2 ફિલ્મ રિલીઝ થવાની છે ત્યારે મેકર્સે સની દેઓલની દમદાર ફિલ્મ બોર્ડર ઓટીટી પર સ્ટ્રીન કરી દીધી છે. જેથી ચાહકો ફરી એકવાર દેશભક્તિની યાદો તાજી કરી શકે.",
@@ -576,15 +594,6 @@ const newsData_gu = [
     "time": "2026-01-17T09:37:37.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "હું ગોવિંદાને ક્યારેય માફ નહી કરું... અફેર મામલે સુનિતા આહુજાએ તોડી ચુપ્પી, જાણો શું કહ્યું ગોવિંદા વિશે",
-    "desc": "છેલ્લા ઘણા સમયથી ગોવિંદાના અફેરની ચર્ચાઓ જોરશોરથી ચાલી રહી છે. તેવામાં સુનીતા આહુજાએ ફરીવાર એક મુલાકાતમાં પતિ ગોવિંદાના અફેરની વાત પર આંકરી પ્રતિક્રિયા આપી દીધી છે. આ વખતે સુનીતા આહુજાએ ત્યાં સુધી કહી દીધું છે કે ગોવિંદા તેના દીકરાનું કરિયર બનાવવામાં પણ મદદ નથી કરતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/i-will-never-forgive-govinda-said-sunita-ahuja-breaks-silence-on-63-year-old-govinda-extra-marital-affair-461954 ",
-    "time": "2026-01-17T06:47:50.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Amazon અને Flipkart ની Republic Day Sale માં મળશે આ &amp;#039;પૈસા વસૂલ&amp;#039; ડીલ્સ, નહીં ખરીદો તો પસ્તાશો!",
     "desc": "Republic Day Sale 2026 માં Amazon અને Flipkart બંને પ્લેટફોર્મ પર જબરદસ્ત ઓફર્સનો વરસાદ થઈ રહ્યો છે. iPhone 17 થી લઈને 55 ઈંચ સ્માર્ટ ટીવી, ફ્રીજ અને વોશિંગ મશીન સુધીના ઉત્પાદનો પર ભારે ડિસ્કાઉન્ટ મળી રહ્યું છે. બેંક કાર્ડ ડિસ્કાઉન્ટ, એક્સચેન્જ ઓફર અને EMI વિકલ્પો આ સેલને વધુ ફાયદાકારક બનાવી રહ્યા છે.",
@@ -592,14 +601,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/amazon-and-flipkarts-republic-day-sale-will-offer-these-value-for-money-deals-youll-regret-it-if-you-dont-buy-them-461724 ",
     "time": "2026-01-15T05:26:23.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Jio નો એવો પ્લાન જે લીધા પછી રિચાર્જ કરવાનું ભૂલી જશો, ડેટા અને OTT પણ મળશે ફ્રી",
-    "desc": "જો તમે વારંવાર મોબાઈલ રિચાર્જ કરાવવાની માથાકૂટથી પરેશાન છો, તો Jioનો આ એન્યુઅલ (વાર્ષિક) પ્લાન તમારા માટે મોટી રાહત બની શકે છે. 365 દિવસની વેલિડિટી, રોજ 2.5GB ડેટા, અનલિમિટેડ કોલિંગ, 5G અને OTT સબસ્ક્રિપ્શન સાથે આ પ્લાન અત્યારે ખૂબ ચર્ચામાં છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/jio-has-launched-a-plan-that-will-make-you-forget-about-recharging-and-it-also-includes-free-data-and-ott-subscriptions-461718 ",
-    "time": "2026-01-15T04:33:27.000Z"
   }
 ];
