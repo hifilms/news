@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "ધુરંધર ફિલ્મના આ એક્ટર પર લાગ્યો કામવાળીનું શારીરિક શોષણ કર્યાનો ગંભીર આરોપ, પોલીસે કરી કાર્યવાહી",
+    "desc": "ધુરંધર ફિલ્મના એક્ટર નદીમ ખાન પર ગંભીર આરોપ લાગ્યા છે. તેની કામવાળીએ આરોપ લગાવ્યો છે કે એક્ટર લગ્ન કરવાની વાત કરી છેલ્લા 10 વર્ષથી તેનું શારીરિક શોષણ કરે છે. આ મામલે પોલીસ કાર્યવાહી થઈ હોવાની વાત પણ સામે આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/serious-accusation-against-dhurandhar-film-actor-nadeem-khan-physical-abuse-of-house-maid-462935 ",
+    "time": "2026-01-26T06:18:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પરેડમાં આન, બાન, શાનથી લહેરાયો ઓપરેશન સિંદૂરનો ઝંડો, હથિયારોનો દમ જોઈ દુશ્મનો પાણી પાણી",
+    "desc": "દેશ આજે 77મો ગણતંત્ર દિવસ ઉજવી રહ્યો છે. કર્તવ્ય પથ પર ચાલી રહેલી પરેડમાં દેશની આન બાન શાન જોવા મળી રહી છે. ઓપરેશન સિંદૂરમાં વપરાયેલા હથિયારો પણ ભારત ગર્વભેર પ્રદર્શિત કરી રહ્યું છે. જેમાં ઓપરેશન સિંદૂરનો ઝંડો લહેરાતો જોવા મળ્યો. પીએમ મોદી આ જોઈને ગદગદ થઈ ગયા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/republic-day-parade-2026-operation-sindoor-european-military-analysis-462933 ",
+    "time": "2026-01-26T06:07:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "આ ખેલાડી પર લટકતી તલવાર ! T20 વર્લ્ડ કપ આવતા આવતા પ્લેઇંગ-11માંથી કપાશે પત્તુ",
+    "desc": "ટીમ ઈન્ડિયાનો વિકેટકીપર-બેટ્સમેન સંજુ સેમસન T20 વર્લ્ડ કપ 2026 પહેલા ખરાબ ફોર્મમાં છે. રવિવારે ગુવાહાટીમાં ન્યૂઝીલેન્ડ સામેની ત્રીજી T20 આંતરરાષ્ટ્રીય મેચમાં સેમસન પહેલા જ બોલ પર આઉટ થયો હતો. ત્યારે હવે પ્લેઇંગ-11માં તેના સ્થાન પર લટકતી તલવાર છે, ગમે ત્યારે તેનું પત્તુ કપાઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-t20-series-sanju-samson-flop-show-continues-ahead-of-t20-world-cup-2026-462930 ",
+    "time": "2026-01-26T05:48:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ઘર ખરીદવા માટે યોગ્ય ઉંમર કઈ છે? અહીં દૂર થશે તમારી મૂંઝવણ, મળી જશે દરેક સવાલનો જવાબ",
+    "desc": "ઘર ખરીદવાની યોગ્ય ઉંમર કઈ હોવી જોઈએ? જો તમે પણ આ સવાલનો જવાબ શોધી રહ્યાં છો તો તમારે પરેશાન થવાની જરૂર નથી. અમે તમને એક સટીક જવાબ આપી રહ્યાં છીએ. ત્યારબાદ તમે કોઈ ગૂંચવણ વગર નિર્ણય લઈ શકશો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/what-is-the-best-age-to-buy-a-house-this-story-will-put-an-end-to-your-dilemma-462929 ",
+    "time": "2026-01-26T05:39:49.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "India-EU Trade Deal: 70% સુધી ઘટી જશે ટેરિફ, સસ્તી થઈ જશે આ લક્ઝરી કાર, ભારતીયોને થશે ફાયદો!",
+    "desc": "ભારત-યુરોપિયન યુનિયન મુક્ત વ્યાપાર સમજુતિ એક મોટા મોડ પર પહોંચી ગઈ છે. યુરોપથી આયાત થતી કારો પર ભારત સરકાર ટેક્સ ઘટાડી 40 ટકા કરી શકે છે. સરકારના આ નિર્ણય બાદ Volkswagen, Mercedes-Benz જેવી ઓટોમોબાઇલ કંપનીઓ માટે ભારતીય બજારના દરવાજા ખુલી જશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/india-eu-trade-deal-bring-relief-on-cars-tariff-reduce-to-40-percent-in-country-462926 ",
+    "time": "2026-01-26T05:01:12.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "આઝાદીના આટલા વર્ષો બાદ આ 41 ગામડા પહેલીવાર ઉજવશે ગણતંત્ર દિવસ, કારણ છે ચોંકાવનારું",
     "desc": "દેશવાસીઓ આજે હર્ષોલ્લાસ સાથે 77માં ગણતંત્ર દિવસની ઉજવણી કરી રહ્યા છે. કર્તવ્ય પથ પર ભારત પોતાનો દમ દેખાડશે. ત્યારે શું તમે જાણો છો કે 41 ગામડાઓ એવા છે જે આઝાદીના આટલા વર્ષો પછી પણ પહેલીવાર ગણતંત્ર દિવસની ઉજવણી કરશે. ખાસ જાણો.",
@@ -270,15 +315,6 @@ const newsData_gu = [
     "time": "2026-01-24T07:47:57.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "રેકોર્ડબ્રેક ઇનિંગ છતાં ઈશાન કિશન થશે બહાર... પ્લેઈંગ-11માં આ ખેલાડી લેશે તેનું સ્થાન",
-    "desc": "ઈશાન કિશને બીજી ટી20માં ન્યૂઝીલેન્ડ સામે ધમાકેદાર બેટિંગ કરતા 32 બોલમાં 76 રન બનાવ્યા હતા. તેમ છતાં આ ખેલાડી ભારતીય ટીમની પ્લેઈંગ-11માંથી બહાર થઈ શકે છે, ત્યારે આ લેખમાં જાણીશું કે ઈશાન કિશનનું સ્થાન કોણ લેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ishan-kishan-may-be-dropped-from-playing-xi-despite-record-breaking-innings-know-why-462738 ",
-    "time": "2026-01-24T07:21:53.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "સની દેઓલની ફિલ્મે તોડ્યો ધુરંધર ફિલ્મનો રેકોર્ડ, પહેલા દિવસે કરી છપ્પરફાડ કમાણી, મેકર્સે શેર કરી જાણકારી",
     "desc": "વર્ષ 2025 ની બ્લોક બસ્ટર ફિલ્મ ધુરંધરનો રેકોર્ડ સની દેઓલની ફિલ્મ બોર્ડર 2 એ તોડી નાખ્યો છે. બોર્ડર 2 ફિલ્મએ પહેલા દિવસે છપ્પરફાડ કમાણી કરી લીધી છે. બોર્ડર 2 ને ધુરંધર કરતાં પણ વધારે મોટી ઓપનિંગ મળી છે.",
@@ -286,15 +322,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/border-2-box-first-office-collection-sunny-deol-broke-dhurandhar-opening-record-462737 ",
     "time": "2026-01-24T07:13:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "મિચેલ સેન્ટનરની આ ભૂલ પડી ગઈ ભારે... એક સમયે હાવી હતી ન્યુઝીલેન્ડની ટીમ, ભારતે 6 રનમાં જ ગુમાવી હતી બે વિકેટ",
-    "desc": "બીજી T20માં ભારતની ઈનિંગની શરૂઆત ખૂબ જ ખરાબ રહી હતી. ન્યૂઝીલેન્ડે ભારતની બે વિકેટ માત્ર છ રનમાં જ પાડી દીધી હતી, ત્યારબાદ કેપ્ટન મિચેલ સેન્ટનરે એક ભૂલ કરી જેનાથી મેચની આખી પલટાઈ ગઈ અને ન્યૂઝીલેન્ડનો હારનો સામનો કરવો પડ્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-turning-point-mitchell-santner-gave-third-over-to-zakary-foulkes-replacing-matt-henry-462733 ",
-    "time": "2026-01-24T06:35:55.000Z"
   },
   {
     "cat": "Politics",
@@ -358,15 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/wife-watched-dirty-movies-while-sitting-near-husbands-dead-body-made-a-big-scandal-in-the-morning-462680 ",
     "time": "2026-01-23T13:54:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "અનિલ અંબાણી અને રિલાયન્સ ગ્રુપને સુપ્રીમ કોર્ટે ફટકારી નોટિસ, જાણો સમગ્ર મામલો",
-    "desc": "સુપ્રીમ કોર્ટે શુક્રવારે અનિલ અંબાણી અને અનિલ ધીરુભાઈ અંબાણી ગ્રુપ (ADAG)ને એક જાહેર હિતની અરજી (PIL) પર નવી નોટિસ ફટકારી છે. કોર્ટે CBI અને એન્ફોર્સમેન્ટ ડિરેક્ટોરેટ (ED)ને કથિત છેતરપિંડીની તપાસ પર 10 દિવસની અંદર સીલબંધ કવરમાં સ્ટેટસ રિપોર્ટ દાખલ કરવાનો પણ નિર્દેશ આપ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/supreme-court-issues-notice-to-anil-ambani-and-reliance-group-know-the-entire-matter-462675 ",
-    "time": "2026-01-23T12:51:47.000Z"
   },
   {
     "cat": "Entertainment",

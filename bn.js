@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "রাজকীয়ভাবেই হল মধুমিতার রিসেপশন... পোশাক থেকে খাওয়া-দাওয়া, আয়োজনে ছিল চমকের পর চমক",
+    "desc": "খাওয়ার আয়োজন ছিল এলাহী। ছিল ফুচকা। কনে নিজেও ফুচকা খেয়েছেন। ছিল গন্ধরাজ ঘোল, আমপোড়া শরবত, ডাবের জল। ছিল গোল্ডেন প্রন, ফিশ ফ্রাই, কাবাব, গন্ধরাজ চিকেন, কড়াইশুঁটির কচুরি, সাদা ভাত, ফুলকপির রোস্ট, বাসন্তী পোলাও, পাতুড়ি, চিংড়ির মালাইকারি কাতলা, গোলবাড়ির কষা মাংস, মিষ্টিও ছিল রকমারি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-26-at-10.00.29-AM-2026-01-082c1ef788e80a2d107a9f5c4563c335-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/madhumita-debmalya-royal-reception-features-bengali-touch-and-grand-feast-rmj-ws-l-2512215.html",
+    "time": "2026-01-26T04:44:08.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ক্রিকেটে অসামান্য অবদান! পদ্মশ্রীতে ভূষিত করা হচ্ছে রোহিত শর্মা এবং হরমনপ্রীতকে!",
     "desc": "ক্রিকেট বিশ্বে তিনি পরিচিত হিটম্যান নামে। এবার সেই হিটম্যান রোহিত শর্মাকেই অনন্য সম্মান পদ্মশ্রীতে ভূষিত করতে চলেছে ভারত সরকার। এছাড়াও, আগামিকাল গণতন্ত্র দিবসের দিন ক্রিকেটে অনবদ্য অবদানের জন্য রোহিতের পাশাপাশি বিশ্বকাপে মহিলা ক্রিকেট দলের অধিনায়ক হরমনপ্রীত কউরকেও সম্মানিত করা হবে।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/bollywood-actor-aamir-khan-net-worth-inside-bollywood-stars-luxurious-lifestyle-rds-2501647.html",
     "time": "2026-01-17T12:20:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘রাস্তায় সুন্দরী মেয়ে দেখলেই পুরুষের...,’ ধ*র্ষণের কারণ ব্যাখ্যায় কংগ্রেস MLA-র বেফাঁস মন্তব্য, তুঙ্গে বিতর্ক",
-    "desc": "যদিও বারাইয়ার এই মন্তব্যের পরেই নেতার থেক দূরত্ব বজায় রেখেছে তাঁর দল কংগ্রেস৷ মধ্যপ্রদেশ কংগ্রেস সভাপতি জিতু পাতওয়ারি বলেন, \"কোনও ধর্ষণের পিছনেই কোনও কারণকে কোনওভাবে ব্যাখ্যা করা যায় না। যে ধর্ষণ করে সে অপরাধী। একে জাতি বা ধর্মের সাথে যুক্ত করা যাবে না।\"",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-81-2026-01-e50408883599801685dcac905f6e2c02-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/beautiful-girl-can-distract-a-man-madhya-pradesh-congress-mla-s-bizarre-theory-sparks-controversy-sta-2501218.html",
-    "time": "2026-01-17T10:26:02.000Z"
   }
 ];

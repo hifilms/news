@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Only natural': Harbhajan Singh gives his take on Sanju Samson's future after consistent subpar outings",
+    "desc": "The Indian team clinched their ongoing five-game series against New Zealand. The Men in Blue managed to register a dominant victory in the third T20I of the series, which was played at the Barsapara Stadium...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/only-natural-harbhajan-singh-gives-his-take-on-sanju-samson-s-future-after-consistent-subpar-outings-2026-01-26-1027487",
+    "time": "2026-01-26T06:21:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Not getting carried away': Michael Carrick backs Manchester United to stay grounded after stunning win",
+    "desc": "Manchester United has undergone a resurgence under new interim coach Michael Carrick. After Ruben Amorim’s sacking, Carrick has propelled United to wins against Manchester City and now Arsenal as well. The arch-rivals locked horns in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/not-getting-carried-away-michael-carrick-backs-manchester-united-to-stay-grounded-after-stunning-win-2026-01-26-1027480",
+    "time": "2026-01-26T04:48:18.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Defending champion Madison Keys crashes out of Australian Open 2026 with straight sets defeat",
     "desc": "The Australian Open 2026 campaign ended in heartbreaking fashion for defending champion Madison Keys. Taking on world number six Jessica Pegula in the fourth round of the tournament, Keys sustained a 6-3, 6-4 defeat as...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-creates-history-vs-new-zealand-with-14-ball-fifty-falls-just-short-of-mentor-yuvraj-singh-2026-01-25-1027438",
     "time": "2026-01-25T15:59:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are Varun Chakravarthy and Arshdeep Singh not playing in IND vs NZ 3rd T20I? Revealed",
-    "desc": "Varun Chakravarthy and Arshdeep Singh missed out as India take on New Zealand in the third T20I of the five-match series at the Barsapara Cricket Stadium, Guwahati on Sunday, January 25. The red-hot Indian team look...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-are-varun-chakravarthy-and-arshdeep-singh-not-playing-in-ind-vs-nz-3rd-t20i-revealed-2026-01-25-1027434",
-    "time": "2026-01-25T13:57:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma, Harmanpreet Kaur to be conferred with Padma Awards",
-    "desc": "Former India captain Rohit Sharma and current women's team skipper Harmanpreet Kaur are among the nine sportspersons who will be receiving Padma Awards for the year 2026, a press release from the Ministry of Home Affairs...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-harmanpreet-kaur-to-be-conferred-with-padma-awards-2026-01-25-1027427",
-    "time": "2026-01-25T12:51:58.000Z"
   }
 ];
