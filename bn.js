@@ -1,6 +1,51 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "রাতারাতি নেটদুনিয়ার সেনসেশন আশি বছরের বৃদ্ধ! চেনেন এই ‘ফণীবাবু Viral’কে?",
+    "desc": "ফনীবাবু, জীবন সংগ্রামে বহু ওঠাপড়া, ভালো মন্দের মাঝেও নিজের পরিবারের প্রতি তিনি ছিলেন দায়বদ্ধ। আর তাই, বহু কষ্টে তিলতিল করে জমিজমা, নিজস্ব বাড়ি সবই তার পরিবারের জন্য করেছেন। কিন্তু মজার বিষয় হলো, বর্তমানে বয়স জনিত কারণে পরিবার, প্রতিবেশী সবার কাছেই সে হয়ে গেছেন বোঝা। এরপরই...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/phonibabu-viral-movie-announcement-raju-majumder-subhashis-mukherjee_637510.html ",
+    "time": "2026-01-26T12:39:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "দেশমাতৃকার বন্দনায় কলকাতা! পরাক্রম দিবসে নেতাজিকে শ্রদ্ধা ডোনা-ইমন-রাঘবদের…",
+    "desc": "নৃত্য পরিকল্পনায় ছিলেন বিশিষ্ট ওড়িশি নৃত্য শিল্পী ডোনা গঙ্গোপাধ্যায়, সঙ্গে ছিলেন রঘুনাথ দাস ও দীক্ষা মন্জরীর ছাত্র -ছাত্রীরা, গানে রাঘব চট্টোপাধ্যায়,ইমন চক্রবর্তী ও তাঁর মিউজিক আকাদেমির ছাত্র -ছাত্রীরা, আরশাদ আলি খান, দূর্ণিবার সাহা, আরফিন রানা, আরাত্রিকা সিনহা, সঙ্গীত পরিচালনায় ছিলেন নীলাঞ্জন ঘোষ। অনুষ্ঠানে উপস্থিত ছিলেন দেশের মাননীয় উপরাষ্ট্রপতি সি.পি. রাধাকৃষ্ণণ, পশ্চিমবঙ্গের রাজ্যপাল মাননীয় সিভি আনন্দ বোস প্রমুখ।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/netaji-birth-anniversary-victoria-memorial-parakram-diwas-cultural-event_637507.html ",
+    "time": "2026-01-26T12:17:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "হিট সিনেমার সুপারহিট গান, একবার শুনলেই ফিরবে পুরনো দিনের স্মৃতি, নতুন আইটেম সং-এর সঙ্গে দিব্যি পাল্লা দেবে 'বিবি পায়রা পায়রা', শুনুন",
+    "desc": "১৯৮৮ সালের জনপ্রিয় ‘দেবীবরণ’ ছবির সুপারহিট আইটেম গান ‘বিবি পায়রা’। ১৯৮৮ সালে বক্স অফিসের সমস্ত রেকর্ড ভেঙে দিয়েছিল ‘দেবীবরণ’ (Debibaran) ছবিটি। তবে শুধু এই ছবি নয়, ‘বিবি পায়রা’ গানটিও তুমুল জনপ্রিয় হয়। এই গানে পাপিয়া অধিকারীর পারফরম্যান্স তাক লাগিয়ে দিয়েছিল সেই সময়ে। এই গানটি গেয়েছিলেন আশা ভোঁসলে, যা এখনও হিট৷ দুর্গাপুজোর প্যান্ডেলে এই গান না বাজলে যেন পুজোর আমেজই আসে না৷ শুনে নিন এই জনপ্রিয় বাংলা গান৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Web-2026-01-26T172726.328-2026-01-4975215150c882e43f9f8ae3202a7c84-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/entertainment/famous-bengali-song-bibi-payera-payera-from-the-film-debiboron-is-superhit-casting-papiya-adhikari-sung-by-asha-bhosle-pbd-2513060.html",
+    "time": "2026-01-26T12:03:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "গান গাইতে গিয়ে হঠাৎ থামানো হল মিমি চক্রবর্তীকে, অভিযোগ নায়িকার, দেখুন ভিডিও",
+    "desc": "লগ্নজিতা স্নিগ্ধজিতের পর এবার সীমান্ত শহর বনগাঁয় এসে হেনস্তার অভিযোগ অভিনেত্রী মিমি চক্রবর্তীর, মিথ্যা অভিযোগের পাল্টা দাবি ক্লাব সদস্যদের। রবিবার বনগাঁর নয়াগোপালগঞ্জে যুবক সংঘের পরিচালনায় আয়োজিত বাৎসরিক অনুষ্ঠানে অংশ নিতে এসে এই হেনস্তার অভিযোগ তুললেন অভিনেত্রী মিমি চক্রবর্তী। ঘটনাকে কেন্দ্র করে ইতিমধ্যেই চাঞ্চল্য ছড়িয়েছে এলাকায়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/3-2026-01-8e461a18e1cb6684466ac635e2f99e4f.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/short-videos/entertainment/actress-mimi-chakraborty-was-on-stage-to-perform-but-was-stopped-to-sing-after-sometime-she-complains-of-harassment-pbd-2513030.html",
+    "time": "2026-01-26T11:11:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "স্কুলের মধ্যে গোবিন্দার দুর্দান্ত ডান্স ! বলিউডের সুপারহিট গানে অভিনেতার নাচ দেখে উচ্ছ্বসিত পড়ুয়ারা",
+    "desc": "বলিউডের ‘চিচি‘ মানে গোবিন্দা বড় পর্দা থেকে দূরে এখন ছোট শহরের কালচারাল ইভেন্টে নিজের ঝলক দেখাচ্ছেন। উত্তর প্রদেশের প্রতাপগড়-এ আয়োজিত দুটি আলাদা স্কুলের অ্যানুয়াল ডে-তে গোবিন্দা গেস্ট হয়ে গিয়েছিলেন। সেখানে তাঁর পুরনো স্টাইল ফ্যানদের মুগ্ধ করে দেয়। ‘ব্ল্যাক অ্যান্ড হোয়াইট’ আউটফিটে গোবিন্দা যখন মঞ্চে এলেন, তখন ভিড় তাঁর সিগনেচার ডান্সের ডিমান্ড করতে শুরু করে। ফ্যানদের অনুরোধের সম্মান জানিয়ে গোবিন্দা তার সুপারহিট গান 'কিসি ডিস্কো মে জায়ে' তে দারুণ ডান্স করেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Govinda-Bollywood-Dance-Viral-2026-01-4c706ad027aed293d9dcf27925c761d0-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/entertainment/bollywood-govinda-recreated-dance-on-superhit-song-kisi-disco-mai-jayein-watch-video-ss-2512916.html",
+    "time": "2026-01-26T10:41:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "ঠাকুরদা ছিলেন হোটেলের ওয়েটার, বাবা অ্যাকশন হিরো, বলিউডে নিজের ভাগ্য পরীক্ষা করছেন আহান",
     "desc": "বাবা হিরো, ছেলেও নিজেও হিরো হতে চান৷ তবে বললেই তো আর হবে না৷ কারণ বলিউড এমন এক জায়গা যেখানে ভক্তদের মন জয় করতে পারলেই তবে টিকে থাকা যাবে৷ না হলে বেশি দিন দৌড়ে টিকতে পারবেন না৷",
     "img": "https://images.news18.com/static-bengali/uploads/2026/01/1769333438_Ahan-Shetty-career-highlights-2026-01-ebbe8ed658b6df3a4c09138437eb8ecf-3x2.jpg",
@@ -853,50 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/sports/india-won-the-toss-in-indore-match-against-new-zealand-in-odi-seris-smc-2502459.html",
     "time": "2026-01-18T08:02:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বড় সিদ্ধান্ত RBI-এর,নয়া নিয়ম কার্যকর হবে ১ জুলাই থেকে,জারি সার্কুলারও, জেনে নিন বিস্তারিত",
-    "desc": "রিজার্ভ ব্যাঙ্ক অব ইন্ডিয়া (RBI) প্রকাশ করেছে সংশোধিত রিজার্ভ ব্যাঙ্ক ইন্টিগ্রেটেড অম্বাডসম্যান স্কিম, ২০২৬। এই প্রকল্পের লক্ষ্য হল ব্যাঙ্ক ও অন্যান্য নিয়ন্ত্রিত প্রতিষ্ঠানের বিরুদ্ধে গ্রাহকদের অভিযোগ দ্রুত ও কার্যকরভাবে নিষ্পত্তি করা। নতুন এই স্কিমটি চলতি বছরের ১ জুলাই থেকে কার্যকর হবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/RBI-2-2025-12-4ea4d9968359865cca954e6bed56eb2d-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/rbi-news-rbis-big-decision-will-come-into-effect-from-july-1-circular-also-issued-rm-2502375.html",
-    "time": "2026-01-18T07:26:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "এই ৪টি সরকারি ব্যাঙ্ক দিচ্ছে সবচেয়ে সস্তা কার লোন—১২ লক্ষ টাকার EMI কত হবে ৪ বছরে?",
-    "desc": "আপনি যদি নতুন গাড়ি কেনার জন্য ১২ লক্ষ টাকা লোন নেওয়ার পরিকল্পনা করে থাকেন এবং সবচেয়ে কম সুদের হারে EMI চান, তাহলে কিছু সরকারি ব্যাঙ্ক (পাবলিক সেক্টর ব্যাঙ্ক) এখনও সবচেয়ে আকর্ষণীয় বিকল্প হিসেবে উঠে আসছে। জানুয়ারি ২০২৬-এ বেশ কয়েকটি শীর্ষ সরকারি ব্যাংক ৭.৪০% থেকে শুরু হওয়া প্রতিযোগিতামূলক গাড়ি ঋণের সুদের হার ঘোষণা করেছে, বিশেষ করে যাদের ক্রেডিট স্কোর ভালো তাদের জন্য। কম সুদের হারে শুধু মাসিক EMI কম হয় না, মোট সুদ পরিশোধেও উল্লেখযোগ্য সাশ্রয় হয়। চলুন জেনে নেওয়া যাক এই ব্যাংকগুলোর বর্তমান সুদের হার।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/09/car-loan-7-2025-09-f29510bb6f00648e111457fbe30a5454-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/car-loan-know-which-four-govt-banks-give-cheapest-car-loans-know-more-details-smc-2502347.html",
-    "time": "2026-01-18T07:01:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ফেব্রুয়ারিতেই বন্ধ হয়ে যাবে হোয়াটসঅ্যাপ...যদি না করান ‘সিম বাইন্ডিং’! হাতে মাত্র ১৫ দিন সময়",
-    "desc": "সরকার কেন এই সিদ্ধান্ত নিল?সরকার বলছে যে, সাইবার জালিয়াতির ক্রমবর্ধমান ঘটনার প্রেক্ষাপটে এই সিদ্ধান্ত নেওয়া হয়েছে। কিছু লোক ভারতীয় নম্বর সহ সিম কার্ডের অপব্যবহার করে প্রতারণা করে। এছাড়াও, অন্যরা দেশের বাইরে সিম কার্ড নিয়ে গিয়ে বা ইন্টারনেট কলিংয়ের মাধ্যমে প্রতারণা করে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-96-2026-01-517704bbdf254ddab9da0a79279ec271-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/technology/whatsapp-use-problem-sim-binding-new-rule-in-india-february-2026-these-accounts-will-be-shut-down-sta-2502281.html",
-    "time": "2026-01-18T06:53:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Pre-Approved Personal Loan: দিনরাত ফোনে 'প্রি-অ্যাপ্রুভড পার্সোনাল লোন'-এর অফার আসছে? ‘হ্যাঁ’ বলার আগে যে বিষয়গুলো জানতেই হবে",
-    "desc": "দিনরাত ফোনে পার্সোনাল লোন, প্রি-অ্যাপ্রুভড লোন কিংবা এক্সক্লুসিভ কার লোনের নানা অফার নিয়ে ফোন, মেসেজ আসতে থাকে! বলা হয়, কম সুদের হার, ঝটপট হাতে টাকা পাওয়া এবং কম কাগজপত্রের মতো সুবিধার কথা। কিন্তু প্রশ্ন হল—এই সব অফারের ফাঁদে কি আদৌ পড়া উচিৎ?",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/personal-loan-4-2025-12-22c12633b7da1f094d1f5506a4bd1859-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/pre-approved-personal-loan-do-you-keep-getting-pre-approved-personal-loan-offers-on-your-phone-before-you-say-yes-be-sure-to-know-these-things-rm-2502330.html",
-    "time": "2026-01-18T06:51:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "আমেরিকা-জাপানকে পিছনে ফেলে দিল ভারত! পুরনো ইন্টারনেট ভুলে যান, 5G নিয়ে তৈরি হল বিশ্বের সবচেয়ে বড় রেকর্ড",
-    "desc": "এরিকসনের মোবিলিটি রিপোর্ট অনুসারে, ২০৩১ সালের মধ্যে ভারতে ১ বিলিয়ন 5G ব্যবহারকারী হতে পারে, যা দেশের জনসংখ্যার প্রায় ৮০%। বর্তমানে, ভারতে প্রতি স্মার্টফোনে গড় মাসিক ডেটা ব্যবহার ৩৬ জিবি, যা আগামী পাঁচ বছরে ৬৫ জিবিতে উন্নীত হতে পারে। স্পষ্টতই, ভারতে 5G গল্পটি সবে শুরু।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-87-2026-01-1cc876c8b43f0a0003681fdefd5005e2-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/technology/digital-india-5g-network-dominance-400-million-people-are-using-in-just-3-years-us-and-japan-far-behind-of-india-sta-2502260.html",
-    "time": "2026-01-18T05:38:31.000Z"
   }
 ];

@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pakistan threaten to boycott India match in T20 World Cup 2026, may suffer consequences",
+    "desc": "Pakistan may skip their high-profile T20 World Cup 2026 match against India as a gesture of solidarity with Bangladesh. The fixture is scheduled for February 15 and is set to be played in Colombo after...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-threaten-to-boycott-india-match-in-t20-world-cup-2026-may-suffer-consequences-2026-01-26-1027526",
+    "time": "2026-01-26T11:10:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Where to watch marquee event live on TV and online in India?",
+    "desc": "Cricket’s nostalgia circuit takes a new turn as a fresh T20 property launches in Goa. The World Legends Pro T20 League will make its debut on Monday, January 26, with every fixture staged at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/world-legends-pro-t20-league-2026-where-to-watch-marquee-event-live-on-tv-and-online-in-india-2026-01-26-1027520",
+    "time": "2026-01-26T10:29:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer to continue for remainder of New Zealand series, Tilak Varma ruled out",
+    "desc": "In a major development for the Indian team, star batter Shreyas Iyer will be staying with the Men in Blue for the remainder of the T20I series. It is worth noting that Iyer was brought...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-to-continue-for-remainder-of-new-zealand-series-tilak-varma-ruled-out-2026-01-26-1027515",
+    "time": "2026-01-26T09:55:28.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer heaps praise on Suryakumar Yadav for stellar knock against New Zealand in third T20I",
     "desc": "Star India skipper Suryakumar Yadav seems to have found his form once more. After a brilliant knock in the second T20I of the series, he followed it up by scoring 57* runs in 26 deliveries...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/defending-champion-madison-keys-crashes-out-of-australian-open-2026-with-straight-sets-defeat-2026-01-26-1027473",
     "time": "2026-01-26T03:59:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dewald Brevis joins Yasir Khan to etch name in history with stellar century in SA20 final",
-    "desc": "The SA20 final saw Pretoria Capitals taking on Sunrisers Eastern Cape. The two sides locked horns at the Newlands, Cape Town, on January 25, and the clash ended in a heartbreaking defeat for Capitals as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dewald-brevis-joins-yasir-khan-to-etch-name-in-history-with-stellar-century-in-sa20-final-2026-01-26-1027469",
-    "time": "2026-01-26T02:47:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Team India script history, register name in elite list with sensational third T20I win against New Zealand",
-    "desc": "The Indian team put forth an incredible performance in the third T20I of the ongoing five-game series against New Zealand. The two sides took on each other at the Barsapara Stadium in Guwahati on January...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/team-india-script-history-register-name-in-elite-list-with-sensational-third-t20i-win-against-new-zealand-2026-01-26-1027461",
-    "time": "2026-01-26T01:30:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IS Bindra, former BCCI president and PCA head, passes away aged 84",
-    "desc": "Inderjit Singh Bindra, former president of the Board of Control for Cricket in India (BCCI), passed away on Sunday, January 21. He was 84 and is survived by a son and a daughter. Bindra was a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/is-bindra-former-bcci-president-and-pca-head-passes-away-aged-84-2026-01-25-1027450",
-    "time": "2026-01-25T18:21:33.000Z"
   }
 ];
