@@ -1,6 +1,150 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "UK report",
+    "desc": "UK intelligence warns of global food and water crises by the 2030s due to ecosystem collapse, potentially sparking conflict. Himalayan river decline could escalate tensions between China, India, and Pakistan, risking nuclear war. The report highlights threats to UK food security and calls for ecosystem protection and restoration.",
+    "img": "https://static.toiimg.com/photo/msid-127568029,imgsize-1015347.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/decline-of-himalayan-rivers-could-trigger-nuclear-war-uk-report/articleshow/127567910.cms",
+    "time": "2026-01-26T18:21:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kalaburagi Next Foundation launched to drive district’s holistic development",
+    "desc": "Rural Development and Panchayat Raj, IT-BT Minister and Kalaburagi district in-charge Priyank Kharge on Monday launched the Kalaburagi Next Foundation, a government-supported public charitable trust aimed at promoting inclusive and sustainable development of the district through public participation and corporate collaboration.",
+    "img": "https://th-i.thgim.com/public/incoming/s8iw79/article70553787.ece/alternates/LANDSCAPE_1200/10258_26_1_2026_19_49_24_2_KLB_KALABURAGI_NEXT_LOGO_2.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/kalaburagi-next-foundation-launched-to-drive-districts-holistic-development/article70553437.ece",
+    "time": "2026-01-26T18:20:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kashmir peaceful, ready to welcome visitors: Deputy CM",
+    "desc": "Jammu and Kashmir Deputy Chief Minister Surinder Choudhary stated that Pakistan's efforts to disrupt tourism in the region have failed. He urged people to visit Kashmir, emphasizing its peaceful atmosphere and readiness to welcome visitors, while also honoring the victims of a past terror attack.",
+    "img": "https://static.toiimg.com/photo/msid-127567502,imgsize-1744024.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kashmir-peaceful-ready-to-welcome-visitors-deputy-cm/articleshow/127567406.cms",
+    "time": "2026-01-26T18:09:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kashmir braces for heavy snowfall after last week’s spell",
+    "desc": "Jammu and Kashmir is preparing for more heavy snowfall. A western disturbance is expected to bring snow starting Monday evening. This could affect flights and the Jammu-Srinagar highway. Moderate to heavy snowfall is forecast for most of Kashmir and higher Jammu regions on Tuesday. Light rain and higher-reach snow are possible Wednesday.",
+    "img": "https://static.toiimg.com/photo/msid-127567285,imgsize-1115459.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kashmir-braces-for-heavy-snowfall-after-last-weeks-spell/articleshow/127567195.cms",
+    "time": "2026-01-26T18:05:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Insensitive and insulting’: BJP says Rahul Gandhi declined to wear Assamese Gamosa; Congress counters",
+    "desc": "The BJP has criticized Rahul Gandhi for allegedly not wearing an Assamese 'Gamosa' at a Republic Day reception, with Assam's CM demanding an apology. Congress countered by questioning why Defence Minister Rajnath Singh wasn't also asked to wear it, accusing the BJP of trivial politics and highlighting alleged disrespect towards their leaders at the parade.",
+    "img": "https://static.toiimg.com/photo/msid-127567290,imgsize-943809.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/insensitive-and-insulting-bjp-says-rahul-gandhi-declined-to-wear-assamese-gamosa-congress-counters/articleshow/127567076.cms",
+    "time": "2026-01-26T18:04:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Train to Pahalgam faces backlash; NC, PDP ask railway minister to rethink",
+    "desc": "A proposed railway line from Bijbehara to Pahalgam in Jammu and Kashmir is facing strong opposition from local residents and political figures. Concerns are mounting over the project's impact on vast agricultural and apple orchard lands, threatening livelihoods. Leaders are urging the central government to reconsider the plan, citing existing infrastructure and the project's perceived lack of benefit.",
+    "img": "https://static.toiimg.com/photo/msid-127567069,imgsize-1829644.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/train-to-pahalgam-faces-backlash-nc-pdp-ask-railway-minister-to-rethink/articleshow/127566903.cms",
+    "time": "2026-01-26T18:01:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Census 2027",
+    "desc": "Opposition parties such as the Congress and Samajwadi Party had questioned BJP-led Union government over absence of expanded caste column in the questionnaire of the first phase of Census published last week; however, officials say caste will be enumerated only in the second and final phase",
+    "img": "https://th-i.thgim.com/public/incoming/24q7jy/article70554132.ece/alternates/LANDSCAPE_1200/6744_26_11_2025_13_39_45_1_04_RVM_1129.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/census-2027-caste-methodology-yet-to-be-decided-clarity-likely-by-july/article70553682.ece",
+    "time": "2026-01-26T17:43:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "After tax return data leak, US Treasury terminates consulting firm Booz Allen Hamilton contracts",
+    "desc": "The US Treasury Department has terminated 31 contracts with Booz Allen Hamilton, totaling $21 million in obligations. This action follows the conviction of a former contractor linked to the firm for leaking sensitive IRS tax data, including President Trump's. The Treasury cited the firm's failure to implement adequate safeguards for confidential taxpayer information.",
+    "img": "https://static.toiimg.com/photo/msid-127565721,imgsize-690376.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/after-tax-return-data-leak-us-treasury-terminates-consulting-firm-booz-allen-hamilton-contracts/articleshow/127565517.cms",
+    "time": "2026-01-26T17:34:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Failed’ NDA was restored out of compulsion and blackmail, says  Tamil Nadu CM Stalin",
+    "desc": "This is merely a cosmetic attempt to give the alliance a fresh build-up. Parties have joined the NDA owing to pressure from Central government agencies, he says at ‘Vellum Tamizh Pengal’ delta zone-level DMK women’s wing conference",
+    "img": "https://th-i.thgim.com/public/incoming/cdi7x1/article70554065.ece/alternates/LANDSCAPE_1200/DMK%20-%20Thanjavur%2014.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/failedndawas-restored-out-of-compulsion-blackmail-stalin/article70553431.ece",
+    "time": "2026-01-26T17:29:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi thanks leaders of France, Bhutan, Cyprus for Republic Day greetings",
+    "desc": "“Thank you my dear friend President Emmanuel Macron for your warm wishes on India’s 77th Republic Day. I look forward to welcoming you in India soon and further deepening and diversifying the India-France strategic partnership,” Mr. Modi said in response to French President Emmanuel Macron’s wishes",
+    "img": "https://th-i.thgim.com/public/incoming/p0uct/article70554079.ece/alternates/LANDSCAPE_1200/IMG_75th_Republic_Day_pa_2_1_J9CAU675.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pm-modi-thanks-leaders-of-france-bhutan-cyprus-for-republic-day-greetings/article70554022.ece",
+    "time": "2026-01-26T17:04:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Stagger station revamp to prioritise funding of rail corridors, govt panel tells railways",
+    "desc": "An inter-ministerial panel has advised Indian Railways to stagger station redevelopment projects, prioritizing funding for programmatic corridors. The panel also recommended linking station development expenditure to revenue generation, including user charges, and suggested rolling out Integrated Station Facility Managers to maximize income from station assets.",
+    "img": "https://static.toiimg.com/photo/msid-127564099,imgsize-60220.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/stagger-station-revamp-to-prioritise-funding-of-rail-corridors-govt-panel-tells-railways/articleshow/127563713.cms",
+    "time": "2026-01-26T17:03:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "1,059 days on, WPL gets its first hundred — Nat Sciver-Brunt makes it",
+    "desc": "Nat Sciver-Brunt etched her name in WPL history, smashing the tournament's inaugural century with an unbeaten 100 against Royal Challengers Bengaluru. This remarkable feat propelled her to the top of the season's run charts and solidified her status as a dominant force in women's cricket. Her stellar performance anchored Mumbai Indians' innings, setting a formidable target.",
+    "img": "https://static.toiimg.com/photo/msid-127563528,imgsize-36488.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/1059-days-on-wpl-gets-its-first-hundred-nat-sciver-brunt-makes-it/articleshow/127563381.cms",
+    "time": "2026-01-26T16:54:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshay, Sunny, Mohanlal &amp; more: Celebs drop Republic day wishes",
+    "desc": "India celebrated its 77th Republic Day with national pride, honoring soldiers and the Constitution. Celebrities like Akshay Kumar, Suniel Shetty, Anil Kapoor, Mohanlal, Kamal Haasan, Sunny Deol, and Ram Charan shared heartfelt wishes online, emphasizing unity, responsibility, and the nation's strength. Their messages highlighted the importance of democratic values and a progressive future for India.",
+    "img": "https://static.toiimg.com/photo/msid-127563563,imgsize-36790.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-sunny-deol-suniel-shetty-mohanlal-chiranjeevi-share-patriotic-wishes-on-republic-day/articleshow/127562628.cms",
+    "time": "2026-01-26T16:53:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Protesters march towards Mumbai, refuse to stop without meeting CM",
+    "desc": "Delegation to meet Ministers and officials in Mumbai on January 27; at the heart of the protest is the high rate of rejections of land ownership claims under the Forest Rights Act, and other issues pertaining to its implementation",
+    "img": "https://th-i.thgim.com/public/news/cities/mumbai/n7bgea/article70553812.ece/alternates/LANDSCAPE_1200/G_kdIH8WgAAqYLY.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/mumbai/long-march-to-mumbai-protesters-march-towards-mumbai-refuse-to-stop-without-meeting-cm/article70553800.ece",
+    "time": "2026-01-26T15:55:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Orry takes another dig at Sara Ali Khan, netizens call it 'pathetic'",
+    "desc": "Influencer Orry has publicly targeted actress Sara Ali Khan and her mother, Amrita Singh, with recent social media jabs. After a veiled dig in an Instagram Reel, Orry directly mocked Sara's career, sparking widespread criticism online for his \"vile\" and \"pathetic\" behavior.",
+    "img": "https://static.toiimg.com/photo/msid-127560259,imgsize-32386.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/orry-takes-another-dig-at-sara-ali-khan-netizens-call-it-pathetic/articleshow/127560112.cms",
+    "time": "2026-01-26T15:51:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BMRCL begins beautification drive under Pink Line on Bannerghatta Road",
+    "desc": "BMRCL has confirmed that the much-anticipated Pink Line corridor will be opened in phases by September 2026. The 7.5-km elevated section from Tavarekere to Kalena Agrahara, running along Bannerghatta Road, is expected to be commissioned by March 2026",
+    "img": "https://th-i.thgim.com/public/incoming/5hvr82/article70553767.ece/alternates/LANDSCAPE_1200/_KMK2077.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/bmrcl-begins-beautification-drive-under-pink-line-on-bannerghatta-road/article70549393.ece",
+    "time": "2026-01-26T15:37:16.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Agriculture scientists and innovative farmers get Padma Shri boost for their pioneering efforts",
     "desc": "In a grand tribute to innovation in agriculture, nine distinguished individuals have been honored with the Padma Shri. Among them are esteemed scientists and passionate farmers, recognized for their impactful work ranging from the creation of superior rice strains and genome-editing breakthroughs to the promotion of unique cultivation methods such as Makhana farming.",
     "img": "https://static.toiimg.com/photo/msid-127558585,imgsize-1395887.cms",
@@ -118,15 +262,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Punjab farmers take out tractor marches demanding withdrawal of Electricity (Amendment) Bill",
-    "desc": "The demonstrations were organised to demand the withdrawal of the Electricity (Amendment) Bill 2025, the Seeds Bill 2025, repeal of labour codes, restoration of the Mahatma Gandhi National Rural Employment Guarantee Act and legal guarantee for minimum support price on crops",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/punjab/punjab-farmers-take-out-tractor-marches-demanding-withdrawal-of-electricity-amendment-bill/article70552903.ece",
-    "time": "2026-01-26T12:44:56.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "India flexes might on 77th Republic Day parade; UAE scraps Pakistan airport deal &amp; more",
     "desc": "India marked its 77th Republic Day with a grand parade showcasing military might and cultural diversity. Meanwhile, the UAE reportedly scrapped its airport management deal with Pakistan following the UAE President's India visit. In other news, a Bangladesh court sentenced three police officers to death for protest-related killings, and IndiGo cancelled flights to four Central Asian cities due to regional developments.",
     "img": "https://static.toiimg.com/photo/msid-127550577,imgsize-1183870.cms",
@@ -151,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-censor-row-will-vijay-starrer-emerge-with-unanimous-order-or-split-verdict-exploring-what-lies-ahead/articleshow/127550254.cms",
     "time": "2026-01-26T12:25:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "A.P. govt. restored stability, rebuilt confidence after a lack of direction for years: Governor",
-    "desc": "Speaking in the Republic Day celebrations in Amaravati, Governor Abdul Nazeer says Amaravati was being developed with renewed vigour, having secured financial closures for key projects including the N5 and E3 roads and the Governor’s Residence Complex",
-    "img": "https://th-i.thgim.com/public/incoming/4sdzo1/article70552805.ece/alternates/LANDSCAPE_1200/DSC_0779.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/governor-of-andhra-pradesh-praises-state-for-working-on-clear-path/article70552017.ece",
-    "time": "2026-01-26T12:16:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -223,15 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/one-vote-unequal-weight-kothnur-has-just-10-9k-elections-rr-nagar-nearly-50k/articleshow/127545125.cms",
     "time": "2026-01-26T11:01:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "77th R-Day: Donald Trump extends greetings on Republic Day; hails India-US ties as a ‘historic bond’ of world’s largest democracies",
-    "desc": "US President Donald Trump extended heartfelt greetings to India on its 77th Republic Day, highlighting the \"historic partnership\" between the world's oldest and largest democracies. Secretary of State Marco Rubio and Ambassador Sergio Gor also conveyed wishes, emphasizing strong cooperation across various sectors and the symbolic presence of US-made aircraft at the parade.",
-    "img": "https://static.toiimg.com/photo/msid-127545632,imgsize-948712.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/77th-r-day-donald-trump-extends-greetings-on-republic-day-hails-india-us-ties-as-a-historic-bond-of-worlds-largest-democracies/articleshow/127545354.cms",
-    "time": "2026-01-26T10:57:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -324,51 +441,6 @@ const newsData_en = [
     "time": "2026-01-26T09:56:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Disha and Talwiinder just make their relationship official?",
-    "desc": "In a moment that has stirred gossip columns, Bollywood star Disha Patani and Punjabi crooner Talwiinder made their relationship public at the vibrant Lollapalooza India festival in Mumbai, showing up hand-in-hand. This charming display comes on the heels of earlier whispers about their romance, sparked by a video of the couple at a wedding in Udaipur cuddling closely.",
-    "img": "https://static.toiimg.com/photo/msid-127541870,imgsize-27928.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-disha-patani-and-talwiinder-just-make-their-relationship-official-rumored-couple-arrive-hand-in-hand-at-mumbai-event/articleshow/127541870.cms",
-    "time": "2026-01-26T09:54:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘We all benefit’: EU chief says ‘successful India makes world more stable’, after attending Republic Day parade",
-    "desc": "European Commission president Ursula von der Leyen stated that a successful India contributes to global stability, prosperity, and security. She, along with European Council president Antonio Costa, were the first joint EU leaders to attend India's Republic Day parade as chief guests. Their visit precedes an India-EU summit focused on trade, security, and strategic cooperation.",
-    "img": "https://static.toiimg.com/photo/msid-127542533,imgsize-1338933.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/we-all-benefit-eu-chief-says-successful-india-makes-world-more-stable-after-attending-republic-day-parade/articleshow/127539257.cms",
-    "time": "2026-01-26T09:54:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Bharat Gatha’: All about the Republic Day 2026 tableau",
-    "desc": "This Republic Day, the spotlight was on Indian cinema with Sanjay Leela Bhansali's breathtaking 'Bharat Gatha' installation, which paid homage to the country's vibrant storytelling tradition. From the profound insights of ancient texts to the nostalgia of classic film techniques, this exhibition, accompanied by Shreya Ghoshal's enchanting vocals, beautifully illustrated cinema's journey as a cornerstone of India's cultural identity.",
-    "img": "https://static.toiimg.com/photo/msid-127541657,imgsize-112598.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bharat-gatha-sanjay-leela-bhansali-and-shreya-ghoshal-unite-for-ib-ministrys-republic-day-2026-tableau/articleshow/127541469.cms",
-    "time": "2026-01-26T09:37:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ED attaches assets worth ₹1,986.48 crore in PACL case",
-    "desc": "“Accused entities and individuals operated an illegal collective investment scheme, fraudulently mobilising more than ₹60,000 crore from lakhs of investors across India under the guise of the sale and development of agricultural land,” says ED",
-    "img": "https://th-i.thgim.com/public/news/national/qptq5d/article70552494.ece/alternates/LANDSCAPE_1200/ED.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/ed-attaches-assets-worth-198648-crore-in-pacl-case/article70552299.ece",
-    "time": "2026-01-26T09:36:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "₹10,000 crore development projects taken up in Mysuru district along with guarantee schemes: Minister H. C. Mahadevappa",
-    "desc": "The projects listed by Minister for Social Welfare H.C. Mahadevappa included the proposed construction of a hospital on the lines of NIMHANS and a de-addiction centre at a cost of ₹100 crore in the district",
-    "img": "https://th-i.thgim.com/public/incoming/7t38g0/article70552489.ece/alternates/LANDSCAPE_1200/5964_26_1_2026_13_13_27_1_RDAY2.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/10000-crore-development-projects-taken-up-in-mysuru-district-along-with-guarantee-schemes-minister-h-c-mahadevappa/article70552252.ece",
-    "time": "2026-01-26T09:34:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sports fraternity says 'let us honour our Constitution'",
     "desc": "Members of the Indian sports fraternity extended Republic Day greetings on social media, emphasizing the importance of the Constitution, unity, and national duty. Athletes and sports bodies shared messages on platforms like X and Instagram, celebrating India's 77th Republic Day and expressing pride in their nation.",
@@ -405,15 +477,6 @@ const newsData_en = [
     "time": "2026-01-26T09:02:31.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Who is Nadeem Khan? Actor who is accused of sexual assault",
-    "desc": "Mumbai Police have taken actor Nadeem Khan into custody following serious allegations of rape from a former domestic employee. The accuser claims that Khan, popular for his portrayal in 'Dhurandhar', misled her with promises of marriage over ten years ago before allegedly renouncing his intentions. The case has now moved to Malvani police, where the initial incident reportedly took place.",
-    "img": "https://static.toiimg.com/photo/msid-127539588,imgsize-19204.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/who-is-nadeem-khan-dhurandhar-actor-who-is-accused-of-sexually-assaulting-his-domestic-help-under-the-pretext-of-marriage/articleshow/127539588.cms",
-    "time": "2026-01-26T09:01:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Rivals will be destroyed’: Ex-cricketer warns world as India look unbeatable",
     "desc": "Former India all-rounder Irfan Pathan believes the current Indian T20 side is \"almost impossible to beat\" following their dominant series win against New Zealand. Pathan highlighted the team's fearless, ultra-aggressive batting approach, which he feels intimidates rivals and leaves them with \"no margin for error\" ahead of the 2026 T20 World Cup.",
@@ -421,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/whoever-comes-against-them-will-be-completely-destroyed-irfan-pathan-warns-world-as-india-look-unbeatable-ahead-of-t20-world-cup/articleshow/127538199.cms",
     "time": "2026-01-26T08:28:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Army’s 'phased battle array', IAF flypast and cultural diversity take centre stage — key takeaways from 77th Republic Day",
-    "desc": "India celebrates its 77th Republic Day on Monday, with nationwide events marking the adoption of the Constitution and highlighting the country’s cultural and military heritage. Celebrations of the 77th Republic Day at the Kartvya Path were based on the theme of the 150th Anniversary of the national song, Vande Mataram, a timeless mantra that awakened the spirit of Swadeshi, self-reliance, and freedom in India's national consciousness.",
-    "img": "https://static.toiimg.com/photo/msid-127536441,imgsize-130452.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/armys-phased-battle-array-iaf-flypast-and-cultural-diversity-take-centre-stage-key-takeaways-from-77th-republic-day/articleshow/127535657.cms",
-    "time": "2026-01-26T08:25:53.000Z"
   },
   {
     "cat": "Entertainment",
@@ -468,15 +522,6 @@ const newsData_en = [
     "time": "2026-01-26T07:29:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BrahMos to S-400: Weapon systems from Operation Sindoor take centre stage at Republic Day parade",
-    "desc": "India's Republic Day 2026 parade showcased its military might, highlighting the success of Operation Sindoor, a counterterror action that neutralized over 100 terrorists and enemy soldiers. The display featured advanced weapons platforms like the BrahMos missile and S-400 air defence system, emphasizing combat readiness and technological prowess in multi-domain warfare.",
-    "img": "https://static.toiimg.com/photo/msid-127534732,imgsize-1145946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/brahmos-to-s-400-weapon-systems-from-operation-sindoor-take-centre-stage-at-republic-day-parade/articleshow/127533634.cms",
-    "time": "2026-01-26T07:21:48.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Border 2' box office collection day 4 (LIVE)",
     "desc": "Border 2 is performing exceptionally well at the box office. The film has collected over Rs 128 crore in just four days. It saw a massive jump on Sunday, mirroring the success of Gadar 2. The movie is expected to benefit further from the Republic Day holiday. Audiences are showing immense enthusiasm for the film.",
@@ -513,13 +558,13 @@ const newsData_en = [
     "time": "2026-01-26T06:38:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM Modi dons maroon-yellow Rajasthani safa with zari motifs",
-    "desc": "Prime Minister Narendra Modi's red Rajasthani turban, adorned with golden-yellow streaks, captivated onlookers at the 77th Republic Day parade. This distinctive headwear, a recurring signature, symbolizes India's rich cultural tapestry and regional heritage. Paired with a navy kurta-pyjama and light blue Nehru jacket, his attire blended formal elegance with cultural pride, complementing the grandeur of the national celebration.",
-    "img": "https://static.toiimg.com/photo/msid-127531576,imgsize-976615.cms",
+    "cat": "Sports",
+    "title": "New Zealand players inspect Abhishek Sharma's bat – WATCH",
+    "desc": "India secured an eight-wicket victory over New Zealand, clinching the T20I series 3-0. Abhishek Sharma's rapid 14-ball fifty and Suryakumar Yadav's attacking half-century powered India's chase, completing the target in just 10 overs. This dominant performance highlighted India's batting prowess and sealed a memorable series win.",
+    "img": "https://static.toiimg.com/photo/msid-127531906,imgsize-36990.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/republic-day-2026-pm-modi-dons-red-yellow-bandhej-safa-as-he-leads-celebrations-in-delhi/articleshow/127530209.cms",
-    "time": "2026-01-26T06:20:01.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/new-zealand-players-inspect-abhishek-sharmas-bat-after-brutal-knock-watch/articleshow/127531798.cms",
+    "time": "2026-01-26T06:25:13.000Z"
   },
   {
     "cat": "Sports",
@@ -549,15 +594,6 @@ const newsData_en = [
     "time": "2026-01-26T04:50:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India showcases military might, growth story — top developments",
-    "desc": "President Droupadi Murmu and Prime Minister Narendra Modi presided over the main ceremony at Kartavya Path in the national capital. The President of the European Council, Antonio Costa, and the President of the European Commission, Ursula von der Leyen, also attended the celebrations as chief guests. Kartavya Path, which runs from Rashtrapati Bhavan to the National War Memorial, was extensively decorated to reflect India’s journey over the years.",
-    "img": "https://static.toiimg.com/photo/msid-127533813,imgsize-97014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/republic-day-parade-india-to-showcase-military-might-growth-story-top-developments/articleshow/127525006.cms",
-    "time": "2026-01-26T04:23:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Gukesh slumps to another defeat against Giri",
     "desc": "On what turned out to be a tough day for Indians, Arjun Erigaisi found himself on the receiving end against Yagiz Kaan Erdogmus of Turkiye who played a remarkable game to beat the world No. 5 and the top seeded",
@@ -567,49 +603,22 @@ const newsData_en = [
     "time": "2026-01-26T04:08:27.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India–EU FTA: New Delhi likely to cut car import tariffs from 110% to 40%",
-    "desc": "India is set to significantly slash import duties on European cars, potentially to 40% from over 100%, as a free trade agreement with the EU nears conclusion. This move opens India's auto market, benefiting European brands like BMW and Volkswagen, while protecting domestic electric vehicle production initially. The deal aims to boost trade and diversify supply chains.",
-    "img": "https://static.toiimg.com/photo/msid-127522352,imgsize-447894.cms",
+    "cat": "Sports",
+    "title": "What makes Sunrisers a sporting dynasty",
+    "desc": "Sunrisers Eastern Cape pulled off a sensational last-over heist to beat Pretoria Capitals by six wickets and win the fourth edition of the SA20. It was their third title, having also finished runners-up last year. From the auction to structure, SEC are, undoubtedly, T20 franchise cricket's sporting dynasty.",
+    "img": "https://static.toiimg.com/photo/msid-127524530,imgsize-153246.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indiaeu-fta-new-delhi-likely-to-cut-car-import-tariffs-from-110-to-40-report/articleshow/127522125.cms",
-    "time": "2026-01-26T04:00:00.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/sa20/sa20-what-makes-sunrisers-eastern-cape-a-sporting-dynasty-a-well-balanced-team/articleshow/127523836.cms",
+    "time": "2026-01-26T03:59:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'We remain vigilant to developments around Iran': IndiGo cancels flights to four cities till Jan 28",
-    "desc": "IndiGo has cancelled flights to Tbilisi, Almaty, Tashkent, and Baku until January 28 due to regional developments around Iran. The airline cited a review of the security situation and emphasized passenger safety as its highest priority. This decision follows widespread unrest in Iran, with protests escalating against the country's leadership.",
-    "img": "https://static.toiimg.com/photo/msid-127522794,imgsize-584284.cms",
+    "cat": "Sports",
+    "title": "‘Not going to challenge’: BCB accepts ICC call as B'desh bow out quietly of T20 WC",
+    "desc": "The Bangladesh Cricket Board has accepted the ICC's decision to replace them with Scotland in the T20 World Cup after the government refused to clear the team for travel to India due to security concerns. The BCB stated they cannot participate in the current fixture and will not pursue arbitration.",
+    "img": "https://static.toiimg.com/photo/msid-127522409,imgsize-328918.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/we-remain-vigilant-to-developments-around-iran-indigo-cancels-flights-to-four-cities-till-jan-28/articleshow/127522570.cms",
-    "time": "2026-01-26T03:49:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Who are this year’s chief guests?",
-    "desc": "India celebrates its 77th Republic Day with a grand parade on Kartavya Path, showcasing military might and cultural diversity. European Commission president Ursula von der Leyen and European Council president António Costa are this years chief guests, highlighting a deepening strategic partnership. Discussions on a crucial free trade agreement and a new security pact are underway, underscoring strong India-EU ties.",
-    "img": "https://static.toiimg.com/photo/msid-127522854,imgsize-952979.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-marks-77th-republic-day-who-are-this-years-chief-guests/articleshow/127522597.cms",
-    "time": "2026-01-26T03:23:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Are Sensex, Nifty open for trading on January 26?",
-    "desc": "Indian stock and commodity markets were closed on January 26 for Republic Day, marking the second holiday of 2026. Trading will resume on January 27. A total of 16 market holidays are scheduled for 2026, including national and religious observances.",
-    "img": "https://static.toiimg.com/photo/msid-127521631,imgsize-1120767.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-are-sensex-nifty-open-for-trading-on-january-26/articleshow/127521617.cms",
-    "time": "2026-01-26T02:58:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How ink, art and India came together in the Constitution",
-    "desc": "India's Constitution, now 76 years old, uniquely begins with art, not just law. 22 hand-drawn illustrations by Nandalal Bose and his team visually represent the spirit of each part, transforming the legal document into a tapestry of India's civilisational essence.",
-    "img": "https://static.toiimg.com/photo/msid-127519851,imgsize-721797.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/how-ink-art-and-india-came-together-in-the-constitution/articleshow/127519825.cms",
-    "time": "2026-01-26T02:25:22.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-are-not-going-to-challenge-bcb-accepts-icc-call-as-bangladesh-bow-out-of-t20-world-cup/articleshow/127522214.cms",
+    "time": "2026-01-26T03:14:18.000Z"
   },
   {
     "cat": "World",
@@ -628,15 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-judge-blocks-trump-administrations-push-to-end-legal-status-of-migrants/article70551005.ece",
     "time": "2026-01-25T21:06:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Bond market funds 76% of states' deficit, up from 50% in FY17",
-    "desc": "Indian states' fiscal deficits are widening slightly, with market borrowing now funding the majority of their needs. Funding patterns are becoming more disciplined, with longer-term securities and lower borrowing costs. However, demographic shifts are creating distinct fiscal challenges and opportunities for younger versus older states.",
-    "img": "https://static.toiimg.com/photo/msid-127501395,imgsize-1042814.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/bond-market-funds-76-of-states-deficit-up-from-50-in-fy17/articleshow/127501220.cms",
-    "time": "2026-01-25T20:19:36.000Z"
   },
   {
     "cat": "World",

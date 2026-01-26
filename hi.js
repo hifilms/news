@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mohun Bagan vs East Bengal likely on May 3, AIFF in hunt for broadcasters with league starting on Feb 14",
+    "desc": "The Indian Super League is set to return with a shortened 2025–26 season beginning on February 14, with defending champions Mohun Bagan Super Giant opening their campaign at Salt Lake Stadium against Kerala Blasters. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/mohun-bagan-vs-east-bengal-likely-on-may-3-aiff-in-hunt-for-broadcasters-with-league-starting-on-feb-14-2026-01-26-1027566",
+    "time": "2026-01-26T17:49:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Karnataka change captain mid Ranji Trophy; KL Rahul, Prasidh Krishna return for Punjab game",
+    "desc": "Karnataka have opted for a leadership reshuffle ahead of a decisive phase in their Ranji Trophy 2025–26 campaign, naming Devdutt Padikkal as captain for their upcoming fixture against Punjab. The match will be played at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/karnataka-change-captain-mid-ranji-trophy-kl-rahul-prasidh-krishna-return-for-punjab-game-2026-01-26-1027562",
+    "time": "2026-01-26T17:02:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nat Sciver-Brunt becomes first cricketer ever to achieve landmark feat in WPL",
+    "desc": "Mumbai Indians all-rounder Nat Sciver-Brunt created history as she became the first cricketer ever to score a ton in the Women’s Premier League (WPL). The England international went berserk against Royal Challengers Bengaluru in Vadodara,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nat-sciver-brunt-becomes-first-cricketer-ever-to-achieve-landmark-feat-in-wpl-2026-01-26-1027554",
+    "time": "2026-01-26T15:37:21.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Charith Asalanka hits back at Harry Brook over 'worst pitch' controversy in 2nd ODI",
     "desc": "Sri Lanka captain Charith Asalanka has pushed back against criticism from England’s camp over the surface used for the second ODI at the R Premadasa Stadium, suggesting that the match itself did not support claims...",
     "img": "",
@@ -19,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Rayudu, Yusuf Pathan in middle",
+    "title": "Chadwick Walton's ton help Delhi beat Dubai",
     "desc": "Delhi Warriorz will host Dubai Royals in the opening game of the World Legends Pro T20 League 2026 at the 1919 Sportz Cricket Stadium in Goa. In the opening game itself, some marquee cricketers, such...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-to-continue-for-remainder-of-new-zealand-series-tilak-varma-ruled-out-2026-01-26-1027515",
     "time": "2026-01-26T09:55:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer heaps praise on Suryakumar Yadav for stellar knock against New Zealand in third T20I",
-    "desc": "Star India skipper Suryakumar Yadav seems to have found his form once more. After a brilliant knock in the second T20I of the series, he followed it up by scoring 57* runs in 26 deliveries...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-heaps-praise-on-suryakumar-yadav-for-stellar-knock-against-new-zealand-in-third-t20i-2026-01-26-1027512",
-    "time": "2026-01-26T08:58:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'It wasn't ideal': Sydney Sixers coach questions BBL finals' schedule after heartbreaking defeat against Perth",
-    "desc": "The BBL (Big Bash League) 2025-26 was won by Perth Scorchers. The side took on Sydney Sixers in the summit clash of the tournament at the Perth Stadium on January 25. The clash saw Sixers...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/it-wasn-t-ideal-sydney-sixers-coach-questions-bbl-finals-schedule-after-heartbreaking-defeat-against-perth-2026-01-26-1027506",
-    "time": "2026-01-26T08:31:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's Australian Open challenge ends as Yuki Bhambri faces exit from men's doubles",
-    "desc": "The Australian Open 2026 dream for the Indian contingent officially came to an end after 33-year-old Yuki Bhambri and his partner Andre Goransson were eliminated from the third round of the men’s doubles category. It...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/india-s-australian-open-challenge-ends-as-yuki-bhambri-faces-exit-from-men-s-doubles-2026-01-26-1027502",
-    "time": "2026-01-26T07:59:45.000Z"
   }
 ];
