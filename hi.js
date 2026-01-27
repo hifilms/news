@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "New Zealand make late changes to squad for last two T20Is, 2 players sent home",
+    "desc": "New Zealand have released Kristian Clarke and Tim Robinson from their squad ahead of the fourth T20I of the five-match series against India. With the conclusion of the SA20 and the Big Bash League over...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-make-late-changes-to-squad-for-last-two-t20is-2-players-sent-home-2026-01-27-1027616",
+    "time": "2026-01-27T06:11:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Disappointed with T20 World Cup snub, West Indies cricketer hints at retirement from international cricket",
+    "desc": "West Indies opening batter Evin Lewis has hinted at retirement from international cricket after being dropped from the T20 World Cup squad. West Indies announced their 15-member squad for the upcoming mega event in India...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/disappointed-with-t20-world-cup-snub-west-indies-cricketer-evin-lewis-hints-at-retirement-2026-01-27-1027604",
+    "time": "2026-01-27T04:40:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Italy, ranked 29th in ICC T20I rankings, upset Ireland ahead of T20 World Cup 2026",
     "desc": "Italy stunned Ireland for the first time in the shortest format of the game on Monday, January 26, chasing down the target of 155 runs. Grant Stewart was the hero for them as he smashed...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/west-indies-announce-t20-world-cup-2026-squad-evin-lewis-alzarri-joseph-ruled-out-2026-01-26-1027549",
     "time": "2026-01-26T14:28:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chadwick Walton's ton help Delhi beat Dubai",
-    "desc": "Delhi Warriorz will host Dubai Royals in the opening game of the World Legends Pro T20 League 2026 at the 1919 Sportz Cricket Stadium in Goa. In the opening game itself, some marquee cricketers, such...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/delhi-warriors-vs-dubai-royals-world-legends-pro-t20-league-2026-live-today-in-goa-shikhar-dhawan-harbhajan-singh-irfan-pathan-1027542",
-    "time": "2026-01-26T13:35:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PCB chief Mohsin Naqvi meets Shehbaz Sharif to discuss T20 World Cup participation, know what happened",
-    "desc": "Following Bangladesh’s withdrawal from the T20 World Cup 2026 over security concerns, Pakistan have openly discussed the possibility of taking a similar stand in solidarity with the Bangla Tigers. Earlier, PCB chairman Mohsin Naqvi criticised...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pcb-chief-mohsin-naqvi-meets-pm-nawaz-sharif-to-discuss-t20-world-cup-participation-know-what-happened-2026-01-26-1027535",
-    "time": "2026-01-26T12:42:35.000Z"
   }
 ];

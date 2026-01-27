@@ -1,5 +1,86 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "બજેટમાં TDSનું ટેન્શન થશે ખતમ, &amp;#039;ટેક્સ ગૂંચવણો&amp;#039;માંથી રાહત મળશે?",
+    "desc": "કેન્દ્રીય બજેટ રજૂ થવામાં હવે ગણતરીના દિવસો બાકી છે. 1 ફેબ્રુઆરી, રવિવારે નાણામંત્રી બજેટ રજૂ કરશે. બજેટ પહેલા વિવિધ ક્ષેત્ર સરકાર પાસે મહત્વની આશા રાખી બેઠા છે. આજે અમે તમને બજેટમાં કયા મોટા નિર્ણયો લેવાની સંભાવના છે, તેની માહિતી આપીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/budget-2026-custom-duty-overhaul-and-tds-simplification-top-the-industry-wishlist-463046 ",
+    "time": "2026-01-27T06:20:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભારત-EU વચ્ચે થઈ ગઈ &amp;#039;મધર ઓફ ઓલ ડીલ્સ&amp;#039; PM મોદીએ ગણાવી ઐતિહાસિક, જાણો શું ફાયદા ગણાવ્યા",
+    "desc": "પીએમ મોદીએ ભારત એનર્જી વીક 2026ના ઉદ્ઘાટન સમારોહમાં આ અંગે વાત કરતા કહ્યું કે ઘણા સમયથી પેન્ડિંગ એવા આ ભારત અને યુરોપીયન યુનિયન વચ્ચેની મુક્ત વેપાર સંધિને દુનિયાભરમાં પહેલેથી જ મધર ઓફ ઓલ ડીલ્સ તરીકે ગણાવવામાં આવી રહી છે. તેમણે વીડિયો કોન્ફરન્સિંગ દ્વારા સમારોહમાં ભાગ લીધો. વધુ વિગતો માટે વાંચો અહેવાલ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/india-eu-fta-pm-modi-said-big-agreement-sign-between-european-union-and-india-mother-of-all-deals-463041 ",
+    "time": "2026-01-27T06:05:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "નેટ સાયવર-બ્રન્ટે રચ્યો ઇતિહાસ... WPLમાં આવું કરનાર પ્રથમ બેટ્સમેન બની",
+    "desc": "ઇંગ્લેન્ડની સ્ટાર ઓલરાઉન્ડર નેટ સાયવર-બ્રન્ટે 26 જાન્યુઆરીએ ઈતિહાસ રચ્યો. મુંબઈ ઇન્ડિયન્સ વતી રમતા તેણીએ વડોદરાના કોટંબી સ્ટેડિયમ ખાતે WPL 2026ની 16મી મેચમાં રોયલ ચેલેન્જર્સ બેંગ્લોર સામે સદી ફટકારી. આ સાથે નેટ સાયવર-બ્રન્ટ WPLમાં સદી ફટકારનાર પ્રથમ ખેલાડી બની છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/nat-sciver-brunt-created-history-become-first-player-to-hit-century-in-wpl-2026-463043 ",
+    "time": "2026-01-27T05:52:28.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "WhatsApp માટે આપવા પડશે પૈસા! ખરીદવું પડશે સબ્સક્રિપ્શન, બાકી...",
+    "desc": "વોટ્સએપનો ઉપયોગ કરનાર યુઝર્સ માટે મોટા સમાચાર છે, તાજેતરમાં તે વાતની જાણકારી સામે આવી કે એપના વર્ઝન 2.26.3.9 ના કોડમાં કેટલાક નવા સ્ટ્રિંગ્સ મળ્યા છે, જે પેડ સબ્સક્રિપ્શન તરફ ઇશારો કરી રહ્યાં છે. તેનો મતલબ છે કે જલ્દી એપ ચલાવવી ફ્રી રહેશે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/whatsapp-working-on-ad-free-subscription-you-have-to-pay-else-you-need-to-see-ad-on-status-463042 ",
+    "time": "2026-01-27T05:44:34.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ચપટી વગાડતા જ મળી જશે ખોવાયેલું વોલેટ અને ચાવી! Appleનું નવું AirTag ભારતમાં લોન્ચ, હવે વધુ દૂરથી આપશે સિગ્નલ",
+    "desc": "એપલે એરટેગની નવી જનરેશન 2 ભારતમાં લોન્ચ કરી દીધી છે. લાંબી બ્લૂટૂથ રેન્જ, 50% વધુ લાઉડ સ્પીકર અને નવી અલ્ટ્રા વાઇડબેન્ડ ચિપ સાથે, હવે તમારી ચાવીઓ અથવા વૉલેટ શોધવાનું કામ પહેલા કરતાં વધુ સરળ બની જશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/find-your-lost-wallet-and-keys-in-a-jiffy-apples-new-airtag-launched-in-india-463040 ",
+    "time": "2026-01-27T05:25:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "આજે દેશભરમાં બેંકોમાં હડતાળ... જાણો કઈ બેંકો રહેશે ચાલુ અને કઈ રહેશે બંધ",
+    "desc": "યુનાઈટેડ ફોરમ ઓફ બેંક યુનિયન્સ (UFBU)એ આજે દેશવ્યાપી બેંક હડતાળની જાહેરાત કરી છે, જેના કારણે બેંકિંગ કામગીરી પર અસર થવાની સંભાવના છે. ત્યારે આ લેખમાં જાણીશું કે, કઈ બેંકો બંધ રહેશે અને કઈ ચાલુ રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/bank-strike-today-which-banks-are-affected-check-details-463036 ",
+    "time": "2026-01-27T05:23:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "બાંગ્લાદેશની ફરી થશે T20 World Cupમાં એન્ટ્રી? PCBની ધમકી પર ICC લેશે કડક એક્શન!",
+    "desc": "T20 વર્લ્ડ કપ 2027ના આયોજનમાં હવે થોડાક જ દિવસો બાકી રહ્યા છે, અને તેના પહેલા વિવાદ શમવાના કોઈ સંકેત દેખાતા નથી. ICC અને BCB વચ્ચે વિવાદ ચાલી રહ્યો છે, અને બાંગ્લાદેશની ટીમ હવે વર્લ્ડ કપમાં રમશે નહીં. પાકિસ્તાન ક્રિકેટ બોર્ડે પણ હસ્તક્ષેપ કર્યો છે અને ટુર્નામેન્ટનો બહિષ્કાર કરવાની ધમકી આપી છે. આ તેમના માટે ભારે સાબિત થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/will-bangladesh-make-a-return-to-the-t20-world-cup-will-the-icc-take-strict-action-against-the-pcb-for-its-threats-463030 ",
+    "time": "2026-01-27T04:32:57.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "જંગી યુદ્ધ જહાજો, 350 ફાઈટર જેટ, 3500 મિસાઈલો... ઈરાન પર હુમલાનું કાઉન્ટડાઉન શરૂ, કેવી છે અમેરિકાની તૈયારી?",
+    "desc": "ઈરાન અને અમેરિકા વચ્ચે તણાવ વધી રહ્યો છે, અને અમેરિકાએ ઈરાન પર હુમલાની તૈયારીઓ પૂર્ણ કરી લીધી છે. અમેરિકાના જંગી યુદ્ધ જહાજો અને ફાઇટર જેટ્સે ઈરાનને ઘેરી લીધું છે અને હુમલાનું કાઉન્ટડાઉન શરૂ કરી દીધું છે, બસ નૌકાદળ ટ્રમ્પના સંકેતની રાહ જોઈ રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/the-countdown-to-an-attack-on-iran-is-underway-but-how-prepared-is-the-us-463033 ",
+    "time": "2026-01-27T04:30:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોનાના ભાવમાં તાબડતોડ બંપર ઉછાળો, ભાવવધારાના કારણો અને સોનું હાલ ખરીદવું કે નહીં? ખાસ જાણો",
+    "desc": "સોના અને ચાંદીના ભાવમાં છેલ્લા કેટલાક સમયથી જે ઉતાર ચડાવ જોવા મળ્યા છે તે જોઈને એમ થાય કે આખરે આટલા ભાવ કેમ વધી રહ્યા છે? કિંમતી ધાતુઓના લેટેસ્ટ રેટ જાણવાની સાથે એ પણ જાણો કે આ ભાવ વધવા પાછળનું કારણ શું છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-price-surged-reasons-for-the-price-hike-and-whether-to-buy-gold-now-or-not-aaj-no-sona-no-bhav-463029 ",
+    "time": "2026-01-27T04:11:32.000Z"
+  },
+  {
     "cat": "World",
     "title": "ટ્રમ્પની ધમકી બાદ ખામેનઈ ગાયબ! શું અમેરિકાના ડરથી બંકરમાં સંતાયા ઈરાની સુપ્રીમ લીડર?",
     "desc": "જે દિવસથી ટ્રમ્પે ખામેનઈને ચેતવણી આપી છે કે ઈરાનમાં હવે નવી સત્તાનો સમય આવી ગયો છે. તે દિવસથી ખામેનેઈ જાહેરમાં દેખાયા નથી. આજે એક અઠવાડિયા કરતા વધુ સમય થઈ ગયો છે. ટ્રંપે સત્તા બદલવાની ધમકી આપતા જ મિડલ ઈસ્ટમાં પોતાના યુદ્ધ જહાજ રવાના કરી દીધા છે. તો શું ખામેનેઈ અમેરિકાની હુમલાના ભયથી બંકરમાં સંતાઈ ગયા છે. કેમ કે, દુનિયાભરમાં હાલ એ ક સવાલ થઈ રહ્યો છે કે ખામેનેઈ ક્યાં ગાયબ થયા છે.",
@@ -315,24 +396,6 @@ const newsData_gu = [
     "time": "2026-01-25T04:45:17.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "છેતરપિંડીના આરોપો બાદ પલાશ મુચ્છલનો વળતો પ્રહાર; આ વ્યક્તિ વિરુદ્ધ 10 કરોડનો માનહાનિનો કેસ",
-    "desc": "અભિનેતા અને પ્રોડ્યુસર વિદ્યાન માનેએ ભારતીય ક્રિકેટર સ્મૃતિ મંધાનાના ભૂતપૂર્વ મંગેતર પલાશ મુછલ પર છેતરપિંડીના ગંભીર આરોપો લગાવ્યા છે. ત્યારબાદ પલાશ પણ એક્શનમાં આવી ગયા છે. તેમણે વિદ્યાન સામે ₹10 કરોડનો માનહાનિનો દાવો દાખલ કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/palash-muchhal-files-10-crore-defamation-suit-against-marathi-actor-vidnyan-mane-for-false-cheating-462844 ",
-    "time": "2026-01-25T04:19:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "પાકિસ્તાન પણ કરશે T20 વર્લ્ડ કપનો બહિષ્કાર? બાંગ્લાદેશને બહાર થવાથી નકવીએ ICCને આપી ધમકી",
-    "desc": "PCBના ચેરમેન મોહસીન નકવીએ જણાવ્યું હતું કે ICCએ બાંગ્લાદેશ સાથે અન્યાય કર્યો છે અને બેવડા ધોરણો અપનાવવામાં આવી રહ્યા છે. તેમણે સ્પષ્ટપણે કહ્યું હતું કે બાંગ્લાદેશે કોઈપણ કિંમતે વર્લ્ડ કપ રમવો જોઈએ, અને પાકિસ્તાન સરકાર આ બાબતે અંતિમ નિર્ણય લેશે. નકવીએ એમ પણ કહ્યું હતું કે પાકિસ્તાન ICC કરતાં તેની સરકાર પર વધુ વિશ્વાસ કરે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/will-pakistan-also-boycott-the-t20-world-cup-naqvi-threatens-icc-over-bangladeshs-exit-462813 ",
-    "time": "2026-01-24T14:41:35.000Z"
-  },
-  {
     "cat": "World",
     "title": "અમેરિકામાં સેંકડો લોકોના મોતનો ખતરો, 8,000થી વધુ ફ્લાઇટ્સ રદ, કારણ ઈરાન પર સંભવિત હુમલો નથી પણ છે વધુ ગંભીર",
     "desc": "થોડા કલાકો પહેલા, યુ.એસ.માં 8,000 થી વધુ ફ્લાઇટ્સ રદ કરવામાં આવી હતી, જેના કારણે ખળભળાટ મચી ગયો હતો. આ નિર્ણય એક મોટી આપત્તિને ટાળવા માટે લેવામાં આવ્યો હતો, જેની અસર સમગ્ર યુ.એસ. પર થવાની ધારણા છે.",
@@ -349,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/king-release-date-announce-shah-rukh-khan-film-king-releasing-on-24-dec-2026-462796 ",
     "time": "2026-01-24T13:26:36.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "બજેટ હંમેશા 1 ફેબ્રુઆરીએ કેમ રજૂ કરવામાં આવે છે? જાણો તેની પાછળનું કારણ",
-    "desc": "આગામી રવિવાર એટલે કે 1 ફેબ્રુઆરીએ દેશનું બજેટ રજૂ થશે. કેન્દ્રીય નાણામંત્રી નિર્મલા સીતારમણ લોકસભામાં બજેટ રજૂ કરશે. તેવામાં આવો જાણીએ બજેટ કેમ હંમેશા 1 ફેબ્રુઆરીએ રજૂ કરવામાં આવે છે અને તેની પાછળ શું કારણ છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/budget-2026-why-presented-on-1-february-history-mutual-fund-xpectations-know-the-details-462781 ",
-    "time": "2026-01-24T11:59:21.000Z"
   },
   {
     "cat": "Politics",
@@ -495,15 +549,6 @@ const newsData_gu = [
     "time": "2026-01-21T16:06:19.000Z"
   },
   {
-    "cat": "World",
-    "title": "દાવોસ જઈ રહ્યા હતા ડોનાલ્ડ ટ્રમ્પ, અચાનક આકાશમાં શું થયું કે લેવો પડ્યો યુ-ટર્ન",
-    "desc": "યુએસ રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ સ્વિટ્ઝર્લૅન્ડના દાવોસ ખાતે વર્લ્ડ ઇકોનોમિક ફોરમમાં હાજરી આપવા જઈ રહ્યા હતા, ત્યારે પ્લેને ઉડાન ભર્યા બાદ અચાનક તેમાં ખામી સર્જાતા યુ-ટર્ન લેવો પડ્યો હતો. આ અંગે વ્હાઈટ હાઉસે માહિતી આપી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/trump-plane-enroute-to-wef-davos-makes-u-turn-after-minor-technical-issue-462379 ",
-    "time": "2026-01-21T06:20:30.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "કંગના રનૌતે વર્ષ 2016 ને કહ્યું નરક જેવું... 10 વર્ષ પછી ફરી &amp;#039;સિલી એક્સ&amp;#039; ઋત્વિક સાથેના વિવાદને છંછેડ્યો",
     "desc": "બોલીવુડ ક્વીન કંગના રનૌતે પણ વર્ષ 2016 નો ટ્રેંડ ફોલો કર્યો છે. જો કે કંગના કોઈ ટ્રેંડ ફોલો કરે અને તેની ચર્ચા ન થાય તેવું શક્ય નથી. કંગનાએ વર્ષ 2016 ના ફોટો શેર કરી ખળભળાટ મચાવી દીધો છે. કારણ કે આ સમયે એવો હતો જ્યારે તેના અને ઋત્વિક રોશનના અફેરની ચર્ચાઓ ચરમસીમાએ હતી.",
@@ -565,14 +610,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/whatsapp-bringing-parental-control-features-to-safeguard-kids-461977 ",
     "time": "2026-01-17T09:37:37.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Amazon અને Flipkart ની Republic Day Sale માં મળશે આ &amp;#039;પૈસા વસૂલ&amp;#039; ડીલ્સ, નહીં ખરીદો તો પસ્તાશો!",
-    "desc": "Republic Day Sale 2026 માં Amazon અને Flipkart બંને પ્લેટફોર્મ પર જબરદસ્ત ઓફર્સનો વરસાદ થઈ રહ્યો છે. iPhone 17 થી લઈને 55 ઈંચ સ્માર્ટ ટીવી, ફ્રીજ અને વોશિંગ મશીન સુધીના ઉત્પાદનો પર ભારે ડિસ્કાઉન્ટ મળી રહ્યું છે. બેંક કાર્ડ ડિસ્કાઉન્ટ, એક્સચેન્જ ઓફર અને EMI વિકલ્પો આ સેલને વધુ ફાયદાકારક બનાવી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/amazon-and-flipkarts-republic-day-sale-will-offer-these-value-for-money-deals-youll-regret-it-if-you-dont-buy-them-461724 ",
-    "time": "2026-01-15T05:26:23.000Z"
   }
 ];

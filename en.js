@@ -1,7 +1,169 @@
 const newsData_en = [
   {
     "cat": "Sports",
-    "title": "‘Pakistan is provoking Bangladesh’: BCCI VP hits out as PCB delays T20 World Cup call",
+    "title": "Scotland confident visas will clear for T20 WC in India despite Pak-origin player in squad",
+    "desc": "Cricket Scotland's CEO is confident players will reach India for the T20 World Cup despite visa delays, especially for Pakistan-origin pacer Safyaan Sharif. The ICC and BCCI are working to expedite the process for all 20 teams, with Scotland's opening match on February 7th. Scotland is also preparing backup visa applications.",
+    "img": "https://static.toiimg.com/photo/msid-127601367,imgsize-155626.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/just-a-matter-of-time-scotland-confident-visas-will-clear-for-t20-world-cup-in-india-despite-pakistan-origin-player-in-squad/articleshow/127600689.cms",
+    "time": "2026-01-27T06:14:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Matt Damon recalls working with Clint Eastwood",
+    "desc": "Matt Damon shared his unforgettable experience working with Clint Eastwood on 'Invictus,' where the director's swift direction, often just one take, surprised him. Damon recalled extensive preparation for a challenging South African accent, only for Eastwood to declare 'Cut. Print. Move on.' immediately. This contrasted with 'Hereafter,' where patience was key with a child actor.",
+    "img": "https://static.toiimg.com/photo/msid-127600913,imgsize-45964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-rip-star-matt-damon-shares-that-clint-eastwood-was-strict-on-set-telling-him-you-wanna-waste-everybodys-time/articleshow/127600913.cms",
+    "time": "2026-01-27T06:11:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mammootty thanks nation for the Padma Bhushan honor",
+    "desc": "Superstar Mammootty received the Padma Bhushan for his artistic contributions, marking his second Padma Award. He also clinched the Kerala State Film Award for Best Actor for 'Bramayugam'. Fans anticipate his upcoming projects, including 'Patriot' with Mohanlal and Adoor Gopalakrishnan's 'Padayaatra', his fourth collaboration with the acclaimed director.",
+    "img": "https://static.toiimg.com/photo/msid-127599892,imgsize-64614.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/my-gratitude-to-the-motherland-mammootty-reflects-on-padma-bhushan-win/articleshow/127599892.cms",
+    "time": "2026-01-27T06:07:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Steal' ending explained: The shocking mastermind behind it all",
+    "desc": "A shocking crypto heist in the series 'Steal' saw office colleagues Zara and Luke caught in a web of deceit. The mastermind behind the £4 billion plot was revealed to be Darren, a seemingly trustworthy financial cop. Zara, rejecting a payoff, escapes with Luke, leaving viewers to ponder the series' true villains and unresolved mysteries.",
+    "img": "https://static.toiimg.com/photo/msid-127600288,imgsize-793288.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/steal-ending-explained-who-was-the-true-architect-behind-the-4-billion-pound-robbery/articleshow/127600266.cms",
+    "time": "2026-01-27T05:55:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘American Idol Season 9’: All you need to know",
+    "desc": "Mark your calendars for the highly anticipated return of 'American Idol Season 9' on January 26, 2026, at 8 p.m. ET! Once again, the charismatic Ryan Seacrest will guide us through a fresh lineup of talent alongside judges Lionel Richie, Luke Bryan, and the amazing Carrie Underwood.",
+    "img": "https://static.toiimg.com/photo/msid-127600075,imgsize-87448.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/american-idol-season-9-release-date-host-judges-and-how-to-watch-live-worldwide/articleshow/127599178.cms",
+    "time": "2026-01-27T05:52:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amid 'Border 2' success, Bhushan Kumar confirms 'Border 3'",
+    "desc": "The highly anticipated war film 'Border 2' has roared into theaters with an impressive Rs 200 crore collected across its extended weekend. Producer Bhushan Kumar is thrilled to share that a sequel, 'Border 3', is officially on the horizon, with Anurag Singh returning to the director's chair.",
+    "img": "https://static.toiimg.com/photo/msid-127599990,imgsize-66728.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bhushan-kumar-reacts-to-border-3-buzz-confirms-sunny-deol-led-franchise-will-move-forward-with-director-anurag-singh/articleshow/127599050.cms",
+    "time": "2026-01-27T05:50:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Wednesday' Season 3 filming begins as expected release window revealed",
+    "desc": "Get ready for more macabre fun! 'Wednesday' Season 3, filming in Ireland from February 2026, is slated for a Summer 2027 release. Jenna Ortega returns as the titular character, joined by familiar faces and the exciting addition of Eva Green as Aunt Ophelia. Expect family secrets, perilous quests, and a potential comeback for Principal Weems.",
+    "img": "https://static.toiimg.com/photo/msid-127600006,imgsize-653363.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/wednesday-season-3-filming-begins-cast-updates-and-expected-release-window-revealed/articleshow/127600017.cms",
+    "time": "2026-01-27T05:50:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Court documents reveal studio emails on Baldoni; trial nears",
+    "desc": "In a surprising turn of events, studio executives were caught in leaked emails calling actor Justin Baldoni a 'moron' over his remarks during promotional interviews for 'It Ends With Us.' The correspondence expresses discontent with Baldoni's comments, which some interpreted as references to sexual assault in a film scene.",
+    "img": "https://static.toiimg.com/photo/msid-127599320,imgsize-17740.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/studio-executives-call-justin-baldoni-moron-in-new-emails-cite-one-of-his-promo-interviews-as-reason-reports/articleshow/127599320.cms",
+    "time": "2026-01-27T05:44:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Are public sector banks open for customers?",
+    "desc": "Public sector bank operations face nationwide disruption Tuesday as unions strike for a five-day work week. Conciliation talks failed, leading to the strike after banks were already closed for the weekend and Republic Day. This is expected to impact branch services for three consecutive days.",
+    "img": "https://static.toiimg.com/photo/msid-127598803,imgsize-693594.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/bank-strike-today-are-public-sector-banks-open-for-customers/articleshow/127595746.cms",
+    "time": "2026-01-27T05:29:44.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. official denies report Border Patrol commander Gregory Bovino ousted",
+    "desc": "The comments follow an article by The Atlantic magazine which reported that Mr. Bovino had been removed from his role as Border Patrol commander at large and will return to his previous department job in California",
+    "img": "https://th-i.thgim.com/public/incoming/udutov/article70555330.ece/alternates/LANDSCAPE_1200/Immigration_Enforcement_Minnesota_98359.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-official-denies-report-border-patrol-commander-gregory-bovino-ousted/article70555245.ece",
+    "time": "2026-01-27T05:28:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Just getting started’: Hardik shares nostalgic video on 10-yr India journey",
+    "desc": "Indian all-rounder Hardik Pandya celebrated a decade in international cricket, marking the milestone with an emotional message on Instagram. He expressed gratitude for his journey, emphasising that his career is far from over and that he is just beginning his true path. Pandya highlighted his growth as a cricketer and a man while serving his country.",
+    "img": "https://static.toiimg.com/photo/msid-127598334,imgsize-66534.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-am-only-just-getting-started-hardik-pandya-reflects-on-decade-long-india-journey-with-nostalgic-video-montage/articleshow/127598219.cms",
+    "time": "2026-01-27T05:22:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock market recommendations for January 27, 2026",
+    "desc": "According to Somil Mehta, Head - Alternate Research, Capital Market Strategy, Mirae Asset Sharekhan, the top stock to buy today on January 27, 2026 is: Coal India. Coforge, and Fortis Healthcare are sell calls. Let’s take a look:",
+    "img": "https://static.toiimg.com/photo/msid-127596693,imgsize-61944.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-january-27-2026-coal-india-coforge-fortis-healthcare-stocks-to-buy-or-sell-today/articleshow/127595188.cms",
+    "time": "2026-01-27T04:53:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sly Dunbar, reggae legend passes away at 73",
+    "desc": "Reggae legend Sly Dunbar, one half of the iconic Sly & Robbie duo, has passed away at 73. Found unresponsive at his Kingston home, Dunbar was a pivotal figure in shaping global reggae music. His innovative drumming and production work with artists like Madonna and The Rolling Stones left an indelible mark on the industry.",
+    "img": "https://static.toiimg.com/photo/msid-127596401,imgsize-102716.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/reggae-drummer-sly-dunbar-passes-away-at-73/articleshow/127596401.cms",
+    "time": "2026-01-27T04:48:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Didn’t have much control over my lengths last season: Ravi Bishnoi",
+    "desc": "Ravi Bishnoi made a surprising comeback to the Indian T20I side, replacing Washington Sundar and Varun Chakravarthy. He delivered an impressive performance in his return match, taking two crucial wickets and showcasing his pace and accuracy. Bishnoi attributed his success to focused work on his bowling lengths during his time away from the national team.",
+    "img": "https://static.toiimg.com/photo/msid-127596294,imgsize-173646.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/didnt-have-much-control-over-my-lengths-last-season-ravi-bishnoi-seizes-a-rare-opportunity/articleshow/127596291.cms",
+    "time": "2026-01-27T04:45:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India’s pace ace remains the safest bet in T20Is",
+    "desc": "Jasprit Bumrah showcased his exceptional control and wicket-taking ability in the T20 against New Zealand, delivering a match-winning performance. Despite being used in varied roles, Bumrah's spell of 4-0-17-3 restricted the opposition and earned him Player of the Match. The bowler also reflected on his decade-long international career.",
+    "img": "https://static.toiimg.com/photo/msid-127595580,imgsize-185246.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/jasprit-bumrah-insurance-indias-pace-ace-remains-the-safest-bet-in-t20is/articleshow/127595435.cms",
+    "time": "2026-01-27T04:31:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP alleges arson bid at 'Bharat Mata' pandal in West Bengal; police suspect short-circuit",
+    "desc": "TMC goons in the area set the pandal on fire late Saturday night and fled, but timely action by local people and our supporters prevented further damage. Police took no action so far, alleges Union Minister Sukanta Majumdar",
+    "img": "https://th-i.thgim.com/public/incoming/7jfs76/article70555206.ece/alternates/LANDSCAPE_1200/80717_6_5_2024_17_40_34_4_SUKANT5AMAJUMDERPRESSMEET4.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/bjp-alleges-arson-bid-at-bharat-mata-pandal-in-west-bengal-police-suspect-short-circuit/article70555194.ece",
+    "time": "2026-01-27T04:29:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bareilly Magistrate suspended for indiscipline, faces inquiry amid resignation row",
+    "desc": "Mr. Agnihotri, a 2019-batch Provincial Civil Service officer, had tendered his resignation on Republic Day, citing deep disagreement with government policies, especially the new UGC regulations, which he claimed could foment caste-based discontent and vitiate the academic environment",
+    "img": "https://th-i.thgim.com/public/incoming/yt7o7t/article70555191.ece/alternates/LANDSCAPE_1200/TH26-A-LakshmanG4JFG975E.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/bareilly-magistrate-suspended-for-indiscipline-faces-inquiry-amid-resignation-row/article70555150.ece",
+    "time": "2026-01-27T04:22:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jana Nayagan director on working with Vijay's final film",
+    "desc": "In a gripping turn of events, Vijay's eagerly awaited swan song, 'Jana Nayagan,' is entangled in a legal battle, with a pivotal decision from the Madras High Court expected later today, January 27. Director H Vinoth, in his effusive praise, hinted that collaborating with Vijay was akin to soaking in the brilliance of 84 films at once.",
+    "img": "https://static.toiimg.com/photo/msid-127594843,imgsize-50524.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-director-on-working-with-thalapathy-vijay-for-his-final-film-he-is-a-complete-star-actor/articleshow/127594843.cms",
+    "time": "2026-01-27T04:22:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Pakistan is provoking Bangladesh’: BCCI VP hits out as PCB delays T20 WC call",
     "desc": "BCCI vice-president Rajeev Shukla accused Pakistan of instigating Bangladesh's refusal to play T20 World Cup matches in India, leading to Scotland's inclusion in the tournament. Shukla asserted Bangladesh was assured of security, but Pakistan's \"intervention\" and \"misleading\" tactics aggravated the situation. This comes amid Pakistan's own deliberation over participating in the tournament.",
     "img": "https://static.toiimg.com/photo/msid-127593987,imgsize-75112.cms",
     "src": "indiatimes.com",
@@ -61,6 +223,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/bangladeshs-last-minute-replacement-scotland-name-squad-for-t20-world-cup-2026/articleshow/127591970.cms",
     "time": "2026-01-27T03:19:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "‘Europe financing war against themselves’: India-EU FTA, ‘mother of all trade deals’, draws US ire",
+    "desc": "US treasury secretary Scott Bessent targeted the India-EU trade deal, alleging Europe indirectly funds Russia's war by buying refined oil from India, which originates from Russian crude. He pointed out what he called burden-sharing imbalance, contrasting with US tariffs on India for similar trade. The deal aims for broad tariff reductions on goods and services.",
+    "img": "https://static.toiimg.com/photo/msid-127596843,imgsize-1472884.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/europe-financing-war-against-themselves-india-eu-mother-of-all-trade-deals-draws-us-ire/articleshow/127590019.cms",
+    "time": "2026-01-27T03:13:17.000Z"
   },
   {
     "cat": "World",
@@ -133,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/cha-eunwoo-issues-apology-amid-tax-evasion-controversy-i-will-look-upon-myself-with-even-greater-strictness/articleshow/127588965.cms",
     "time": "2026-01-27T02:21:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Victoria conferred with Legion of Honour; Brooklyn takes a dig",
-    "desc": "Victoria Beckham escaped the bitterness of a family feud with a trip to Paris on Monday to receive an award from the culture ministry for her contribution to the fashion and entertainment industries. The Order of the Arts and Letters is reserved for figures judged to have contributed to France's cultural life and is separate to the more prestigious Legion of Honour (\"Legion d'honneur\"), the state's top award.",
-    "img": "https://static.toiimg.com/photo/msid-127587745,imgsize-36374.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/victoria-beckham-conferred-with-legion-of-honour-david-shares-touching-post-brooklyn-takes-a-dig-pics/articleshow/127580500.cms",
-    "time": "2026-01-27T01:51:26.000Z"
   },
   {
     "cat": "Politics",
@@ -324,15 +486,6 @@ const newsData_en = [
     "time": "2026-01-26T22:19:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "7 dead, 21 missing",
-    "desc": "A devastating fire engulfed a Kolkata warehouse complex early Monday, claiming at least seven lives and leaving 21 workers missing. Trapped inside units laden with combustible decoration materials and food supplies, the victims were sleeping when the blaze erupted. Firefighters battled for hours, but the inferno's intensity and smoldering debris continue to hinder rescue efforts.",
-    "img": "https://static.toiimg.com/photo/msid-127577714,imgsize-809905.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/fire-at-kolkata-warehouse-7-dead-21-missing/articleshow/127577403.cms",
-    "time": "2026-01-26T21:57:51.000Z"
-  },
-  {
     "cat": "World",
     "title": "Venezuela releases dozens of prisoners in 2 days, hundreds more still detained",
     "desc": "According to human rights groups, prisoners released this weekend included an opposition activist, a human rights lawyer and a journalism student who was imprisoned in March after he published complaints about his hometown’s sewage system and was charged with “inciting hatred.”",
@@ -367,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/how-to-make-esops-more-valuable-for-startup-staff/articleshow/127575068.cms",
     "time": "2026-01-26T21:03:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Farah says except for Aishwarya nobody is a natural beauty",
-    "desc": "Filmmaker Farah Khan, while promoting a skincare product, humorously attributed her glowing skin to the brand after her cook praised her natural beauty. She then candidly stated that, apart from Aishwarya Rai, few actresses in the industry are naturally beautiful.",
-    "img": "https://static.toiimg.com/photo/msid-127574936,imgsize-33968.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-jokes-aishwarya-rai-ko-chhodke-shayad-hi-koi-naturally-beautiful-hoga-as-dilip-asks-her-about-her-glowing-skin/articleshow/127574864.cms",
-    "time": "2026-01-26T21:00:54.000Z"
   },
   {
     "cat": "Business",
@@ -432,24 +576,6 @@ const newsData_en = [
     "time": "2026-01-26T20:25:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "When Salman Khan revealed why he rejected 'Chak De! India'",
-    "desc": "Salman Khan revealed why he declined the lead role in Shah Rukh Khan's 'Chak De! India'. He felt his then-popular image of doing commercial entertainers clashed with the film's serious, performance-driven narrative. Salman believed his fans would expect a different kind of role, not suited for the film's genre at that time.",
-    "img": "https://static.toiimg.com/photo/msid-127573180,imgsize-60676.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-salman-khan-revealed-why-he-rejected-chak-de-india-even-shah-rukh-khan-should-be-a-part-of-few-great-films/articleshow/127573012.cms",
-    "time": "2026-01-26T20:16:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "In Republic Day messages, Trump hails historic bond, Xi talks of dragon-elephant tango",
-    "desc": "Global leaders, including US President Trump and China's Xi Jinping, extended Republic Day greetings to India. Trump emphasized the bond between the world's oldest and largest democracies, while Xi highlighted India-China as \"good neighbours, friends and partners.\" King Charles III also lauded the enduring India-UK partnership, noting shared values and deepening cooperation.",
-    "img": "https://static.toiimg.com/photo/msid-127572550,imgsize-897861.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/in-republic-day-messages-trump-hails-historic-bond-xi-talks-of-dragon-elephant-tango/articleshow/127572061.cms",
-    "time": "2026-01-26T19:48:13.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Madhya Pradesh village ‘declares’ social, economic boycott of families whose members marry by choice; probe on",
     "desc": "The man lists out further restrictions on the families, including the supply of milk or any other products, leasing their fields for farming, and any priests, barbers or any other service provider giving services to those families.",
@@ -457,15 +583,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-village-declares-social-economic-boycott-of-families-whose-members-marry-by-choice-probe-on/article70553147.ece",
     "time": "2026-01-26T19:04:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Badshah says buying Rolls-Royce Cullinan Series II worth Rs 12.45 was 'impulsive'",
-    "desc": "Rapper Badshah, who recently acquired a Rolls-Royce Cullinan Series II, admitted the purchase was impulsive and the initial thrill was short-lived. He expressed a desire to own the best technology, prioritizing relationships over material possessions while remaining mindful of costs. Badshah also shared an anecdote from his civil engineering days about questioning societal perceptions of wealth.",
-    "img": "https://static.toiimg.com/photo/msid-127569588,imgsize-64022.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/badshah-says-buying-rolls-royce-cullinan-series-ii-worth-rs-12-45-crore-also-owned-by-shah-rukh-khan-mukesh-ambani-was-an-impulsive-decision-the-high-lasted-for-/articleshow/127569357.cms",
-    "time": "2026-01-26T18:52:22.000Z"
   },
   {
     "cat": "Sports",
@@ -549,15 +666,6 @@ const newsData_en = [
     "time": "2026-01-26T16:54:31.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Akshay, Sunny, Mohanlal &amp; more: Celebs drop Republic day wishes",
-    "desc": "India celebrated its 77th Republic Day with national pride, honoring soldiers and the Constitution. Celebrities like Akshay Kumar, Suniel Shetty, Anil Kapoor, Mohanlal, Kamal Haasan, Sunny Deol, and Ram Charan shared heartfelt wishes online, emphasizing unity, responsibility, and the nation's strength. Their messages highlighted the importance of democratic values and a progressive future for India.",
-    "img": "https://static.toiimg.com/photo/msid-127563563,imgsize-36790.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-sunny-deol-suniel-shetty-mohanlal-chiranjeevi-share-patriotic-wishes-on-republic-day/articleshow/127562628.cms",
-    "time": "2026-01-26T16:53:08.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Protesters march towards Mumbai, refuse to stop without meeting CM",
     "desc": "Delegation to meet Ministers and officials in Mumbai on January 27; at the heart of the protest is the high rate of rejections of land ownership claims under the Forest Rights Act, and other issues pertaining to its implementation",
@@ -565,15 +673,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/mumbai/long-march-to-mumbai-protesters-march-towards-mumbai-refuse-to-stop-without-meeting-cm/article70553800.ece",
     "time": "2026-01-26T15:55:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Orry takes another dig at Sara Ali Khan, netizens call it 'pathetic'",
-    "desc": "Influencer Orry has publicly targeted actress Sara Ali Khan and her mother, Amrita Singh, with recent social media jabs. After a veiled dig in an Instagram Reel, Orry directly mocked Sara's career, sparking widespread criticism online for his \"vile\" and \"pathetic\" behavior.",
-    "img": "https://static.toiimg.com/photo/msid-127560259,imgsize-32386.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/orry-takes-another-dig-at-sara-ali-khan-netizens-call-it-pathetic/articleshow/127560112.cms",
-    "time": "2026-01-26T15:51:47.000Z"
   },
   {
     "cat": "Politics",
@@ -592,24 +691,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-row-pakistan-pm-shahbaz-sharif-asks-pcb-to-keep-all-options-open-india-match-boycott-considered/articleshow/127555610.cms",
     "time": "2026-01-26T14:20:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Waheeda Rahman reacts to AR Rahman's 'communal' remark",
-    "desc": "Veteran actress Waheeda Rehman has chosen to distance herself from the controversy surrounding AR Rahman's remarks on alleged communal bias in Bollywood. She believes such minor issues occur everywhere and prefers to focus on peace and happiness. Rehman also suggested that career fluctuations and industry changes might influence such statements.",
-    "img": "https://static.toiimg.com/photo/msid-127554791,imgsize-36852.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/waheeda-rahman-reacts-to-ar-rahmans-communal-remark-apni-shaanti-se-raho-yeh-mulk-hai-humaara/articleshow/127554588.cms",
-    "time": "2026-01-26T13:52:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Menopause is not generous,’ says Twinkle on women's health in her 50s",
-    "desc": "Twinkle Khanna candidly shared her experience with menopause, detailing how Hormone Replacement Therapy and lifestyle changes have improved her well-being. She also highlighted the mutual encouragement in her 25-year marriage to Akshay Kumar, emphasizing their support for each other's endeavors.",
-    "img": "https://static.toiimg.com/photo/msid-127554079,imgsize-32220.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/menopause-is-not-that-generous-says-twinkle-khanna-as-she-opens-up-about-womens-health-in-her-50s-shares-tips-to-deal-with-it/articleshow/127553849.cms",
-    "time": "2026-01-26T13:39:11.000Z"
   },
   {
     "cat": "Sports",
@@ -649,15 +730,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "One-handed magic in Melbourne: Musetti enters the Sincaraz challenger debate",
-    "desc": "Lorenzo Musetti, ranked world No. 5, advanced to his fourth major quarter-final at the Australian Open with a strong performance against Taylor Fritz. He now faces a significant challenge in a generational clash against Novak Djokovic, aiming to disrupt the established order in men's tennis.",
-    "img": "https://static.toiimg.com/photo/msid-127544058,imgsize-103976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/one-handed-magic-in-melbourne-lorenzo-musetti-enters-the-sincaraz-challenger-debate/articleshow/127544079.cms",
-    "time": "2026-01-26T10:26:41.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'Call that India must take': Ex-cricketer questions Samson's place after golden duck",
     "desc": "Aakash Chopra highlighted Ishan Kishan's strong T20I form against New Zealand, contrasting it with Sanju Samson's struggles. Kishan's consistent performances and Samson's recent dismissals raise questions about India's wicketkeeper-batter choice, especially with Tilak Varma's potential return.",
     "img": "https://static.toiimg.com/photo/msid-127542462,imgsize-25892.cms",
@@ -667,30 +739,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Kamran Akmal",
-    "desc": "Pakistan's T20 World Cup 2026 participation is under scrutiny following Bangladesh's exclusion. PCB chairman Mohsin Naqvi will meet the squad amidst growing concerns. Former cricketer Kamran Akmal stressed Pakistan's necessity in the global event, urging against politics in cricket and highlighting the financial impact of their potential absence.",
-    "img": "https://static.toiimg.com/photo/msid-127542944,imgsize-84296.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-row-icc-india-aur-pakistan-ke-bina-tournament-nahi-karwa-sakti-kamran-akmal-fires-warning/articleshow/127542943.cms",
-    "time": "2026-01-26T10:03:18.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "‘Not taking lightly’: Gavaskar says India are already in T20 World Cup mode",
     "desc": "Sunil Gavaskar views India's T20I series win against New Zealand as crucial preparation for their World Cup defense. He highlighted the team's depth and focus on range-hitting, even with players yet to bat significantly. Gavaskar also praised Abhishek Sharma's rapid half-century and Suryakumar Yadav's timely knock.",
     "img": "https://static.toiimg.com/photo/msid-127542531,imgsize-159234.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/not-taking-anything-lightly-sunil-gavaskar-says-india-are-already-in-t20-world-cup-mode/articleshow/127542310.cms",
     "time": "2026-01-26T09:56:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Rivals will be destroyed’: Ex-cricketer warns world as India look unbeatable",
-    "desc": "Former India all-rounder Irfan Pathan believes the current Indian T20 side is \"almost impossible to beat\" following their dominant series win against New Zealand. Pathan highlighted the team's fearless, ultra-aggressive batting approach, which he feels intimidates rivals and leaves them with \"no margin for error\" ahead of the 2026 T20 World Cup.",
-    "img": "https://static.toiimg.com/photo/msid-127538308,imgsize-223960.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/whoever-comes-against-them-will-be-completely-destroyed-irfan-pathan-warns-world-as-india-look-unbeatable-ahead-of-t20-world-cup/articleshow/127538199.cms",
-    "time": "2026-01-26T08:28:53.000Z"
   },
   {
     "cat": "Entertainment",
@@ -703,30 +757,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘There’s thought behind the power’: Mark Chapman lauds Abhishek Sharma",
-    "desc": "New Zealand's Mark Chapman lauded Abhishek Sharma's explosive six-hitting, attributing it to sharp awareness and planning rather than just aggression. Sharma's blistering form, including a 14-ball fifty, has provided valuable lessons for New Zealand ahead of the T20 World Cup, highlighting areas for improvement in their own game.",
-    "img": "https://static.toiimg.com/photo/msid-127536361,imgsize-77212.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/theres-thought-behind-the-power-mark-chapman-lauds-abhishek-sharma-as-kiwis-look-to-learn-ahead-of-t20-world-cup/articleshow/127535573.cms",
-    "time": "2026-01-26T07:49:43.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Carrying father's dream, inspired by Gayle: Nitish Sudini eyes MLC",
     "desc": "Vikram Reddy Sudini's unfulfilled cricket dream found new life through his son, Nitish. The 18-year-old made history by becoming the first USA player to score an Under-19 World Cup century, remaining unbeaten on 117 against New Zealand. This achievement fulfilled his father's long-held aspiration, with Nitish now aiming to represent the USA senior team.",
     "img": "https://static.toiimg.com/photo/msid-127534853,imgsize-49326.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/carrying-his-fathers-dream-inspired-by-chris-gayle-nitish-reddy-sudini-eyes-mlc-exclusive/articleshow/127534823.cms",
     "time": "2026-01-26T07:29:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Border 2' box office collection day 4",
-    "desc": "Border 2 is performing exceptionally well at the box office. The film has collected over Rs 128 crore in just four days. It saw a massive jump on Sunday, mirroring the success of Gadar 2. The movie is expected to benefit further from the Republic Day holiday. Audiences are showing immense enthusiasm for the film.",
-    "img": "https://static.toiimg.com/photo/msid-127532971,imgsize-72978.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-4-live-the-sunny-deol-varun-dhawan-film-expected-to-maintain-momentum-on-republic-day-after-a-massive-sunday-crosses-rs-120-crore/articleshow/127532971.cms",
-    "time": "2026-01-26T06:56:55.000Z"
   },
   {
     "cat": "Sports",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-threatens-canada-with-100-tariffs-over-its-new-trade-deal-with-china/article70547044.ece",
     "time": "2026-01-24T15:21:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ranji Trophy",
-    "desc": "“At the end of the day, he went and played. He scored those runs, and he should take all the accolades. I am very thankful that he took my name, but it was not required.”",
-    "img": "https://th-i.thgim.com/public/incoming/bp0gaz/article70547008.ece/alternates/LANDSCAPE_1200/vjkvg-hyd%2017.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-sarfaraz-deserves-another-chance-to-play-for-india-mohammad-azharuddin/article70546996.ece",
-    "time": "2026-01-24T15:12:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PCB chief Naqvi says Pakistan govt will decide on T20 World Cup participation after Bangladesh exit",
-    "desc": "Our PM (Shahbaz Sharif) is out of the country. When he comes, we will take advice from him. The decision by the government will be final and binding, and if they say no, then they (ICC) may invite any other team, says PCB chairman Mohsin Naqvi",
-    "img": "https://th-i.thgim.com/public/incoming/wweok2/article70546327.ece/alternates/LANDSCAPE_1200/Pakistan_Tri-Series_Cricket_77059.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/pcb-chief-naqvi-says-pakistan-govt-will-decide-on-t20-world-cup-participation-after-bangladesh-exit/article70546298.ece",
-    "time": "2026-01-24T13:04:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "U.S. Treasury Secretary hints at possible tariff relief for India as Russian oil imports drop",
-    "desc": "Indian purchases by ​their refineries of ⁠Russian oil have collapsed. So that is a success. The tariffs are still on, ‌25% tariffs for Russian oil ‌are still on. I would imagine there ‍is a path to take them off, says U.S. Treasury Secretary ‍Scott Bessent",
-    "img": "https://th-i.thgim.com/public/incoming/lnh550/article70545957.ece/alternates/LANDSCAPE_1200/2026-01-21T112124Z_2084180953_RC2M5JA5RBUD_RTRMADP_3_DAVOS-MEETING-DEUTSCHE-BANK-BESSENT.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/us-treasury-secretary-hints-at-possible-tariff-relief-for-india-as-russian-oil-imports-drop/article70545926.ece",
-    "time": "2026-01-24T10:50:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Music composer Bharadwaj interview: My success story",
-    "desc": "In an interview to ‘The Hindu’ for the ‘This Changed my Life’ podcast, music composer Bharadwaj looks back at the time when he entered the film industry. He also talks about his experiences of working with director Saran and actor Ajith Kumar, with whom he forged a superhit combination, and why he currently loves music composer Anirudh.",
-    "img": "https://th-i.thgim.com/public/incoming/ojaxkv/article70545567.ece/alternates/LANDSCAPE_1200/bharadwaj.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-music-composer-bharadwaj-interview-my-success-story-ar-rahman-ilaiyaraaja/article70545564.ece",
-    "time": "2026-01-24T07:48:54.000Z"
   }
 ];
