@@ -1,12 +1,21 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "એવું શું થયું કે ભારતીય દારૂ કંપનીઓના શેર તૂટ્યા? જાણો કારણ",
+    "desc": "ભારત અને યુરોપિયન યુનિયન (EU) વચ્ચે આજે એક ઐતિહાસિક કરાર પર હસ્તાક્ષર થયા. આ નવા મુક્ત વેપાર કરાર (FTA)થી ભારતમાં આયાત થતી યુરોપિયન વાઇન નોંધપાત્ર રીતે સસ્તી થશે. ભારતીય દારૂ કંપનીઓના શેર આજે ઘટ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/what-happened-that-caused-the-shares-of-indian-liquor-companies-to-fall-know-the-reason-463073 ",
+    "time": "2026-01-27T12:28:41.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "India-EU વચ્ચે થઈ ઐતિહાસિક ડીલ, લક્ઝરી કારોના ભાવમાં થશે ધરખમ ઘટાડો, જાણો કઈ કઈ વસ્તુઓ થશે સસ્તી",
     "desc": "જે પળની રાહ જોવાઈ રહી હતી તે આવી ગઈ અને ભારત અને યુરોપીયન યુનિયન વચ્ચે આખરે મધર ઓફ ઓલ ડીલ્સ થઈ ગઈ. 18 વર્ષોના લાંબા ઈન્તેજાર બાદ આ ઘડી આવી છે. વિશ્વની બે મોટી શક્તિઓ વચ્ચે વેપાર અંગે મોટો કરાર થયો છે. આ સાથે જ 200 કરોડનું બજાર અને દુનિયાની 25 ટકા જીડીપી એક સાથે આવશે. આ સાથે ભારતમાં કઈ કઈ વસ્તુઓ સસ્તી થશે તે પણ ખાસ જાણો.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/india-eu-fta-mother-of-all-deals-what-will-india-get-from-this-deal-what-will-be-cheaper-463063 ",
-    "time": "2026-01-27T09:09:10.000Z"
+    "time": "2026-01-27T09:34:47.000Z"
   },
   {
     "cat": "Tech",
@@ -421,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/border-2-ott-release-update-sunny-deol-border-2-film-on-netflix-soon-462858 ",
     "time": "2026-01-25T07:07:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "બાંગ્લાદેશ બહાર થતાં ICCએ જાહેર કર્યું વર્લ્ડ કપ 2026નું નવું શેડ્યૂલ, સ્કોટલેન્ડનો આ ગ્રુપમાં સમાવેશ",
-    "desc": "T20 વર્લ્ડ કપ 2026માંથી બાંગ્લાદેશ બહાર થતાં માટે ICCએ એક નવું શેડ્યૂલ બહાર પાડ્યું છે, જેમાં સ્કોટલેન્ડને ટુર્નામેન્ટમાં સ્થાન આપવામાં આવ્યું છે. નવા શેડ્યૂલમાં ફક્ત એક જ રિપ્લેસમેન્ટ ટીમનો સમાવેશ થાય છે, જ્યારે બાકીનું શેડ્યૂલ યથાવત છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/updated-schedule-for-icc-t20-world-cup-2026-bangladesh-exit-and-scotland-entry-462854 ",
-    "time": "2026-01-25T06:00:01.000Z"
   },
   {
     "cat": "World",

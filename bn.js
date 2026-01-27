@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "World",
+    "title": "'ইউনূস সুদখোর, খুনি, বিশ্বাসঘাতক!' তীব্র আক্রমণ শেখ হাসিনার, ভোটের আগেই খেলা ঘুরবে বাংলাদেশে?",
+    "desc": "ভারতে নির্বাসনে থাকা বাংলাদেশের প্রাক্তন প্রধানমন্ত্রী ও আওয়ামি লিগ নেত্রী শেখ হাসিনা তাঁর ভাষণে অন্তর্বর্তী প্রশাসনের প্রধান মহম্মদ ইউনূসের বিরুদ্ধে তীব্র আক্রমণ শানিয়েছেন। ইউনুসকে তিনি “খুনি ফ্যাসিস্ট, সুদখোর, অর্থপাচারকারী, ডাকাত ও বিশ্বাসঘাতক” বলে আখ্যা দেন। পাশাপাশি আওয়ামি লিগ সমর্থকদের ঐক্যবদ্ধ হয়ে গণতন্ত্র পুনরুদ্ধারের আহ্বান জানান।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/hasina-on-yunus-1-2026-01-8fd6d142bfb7dbb727a6e12987e3507d-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/usurer-traitor-sheikh-hasina-fierce-attack-on-interim-head-muhammad-yunus-bangladesh-polls-2026-to-restore-democracy-tib-ws-l-2514719.html",
+    "time": "2026-01-27T12:29:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "রাস্তায় ১০ সেকেন্ড দূরে দাঁড়িয়েছিল যম, নাচতে নাচতে ছুটে আসা তিনের শিশুকে থেঁতলে দিল সাউন্ডবক্স! ভয়াল VDO...",
+    "desc": "ফুটেজে আরও দেখা যায়, স্পিকারটি পড়ে যাওয়ার পর আশেপাশে থাকা মানুষজন ভয়ে ও আতঙ্কে চিৎকার শুরু করেন। কিন্তু আশ্চর্যের বিষয় হল, যার অসাবধানতার কারণে স্পিকারটি পড়ল, সেই ব্যক্তিটি একবারও পেছনে না তাকিয়েই ঘটনাস্থল থেকে সরে যান।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/3-year-old-girl-dies-in-vikhroli-after-loudspeaker-collapse-due-to-negligence-cctv-footage-goes-viral_637618.html ",
+    "time": "2026-01-27T09:54:47.000Z"
+  },
+  {
+    "cat": "World",
     "title": "ধ্বংসের জন্য মরিয়া হয়ে উঠেছে ইউরোপ, যুদ্ধের টাকা জোগাড়েই এই বাণিজ্য চুক্তি! ভারতের সঙ্গে ডিল সই হতেই তেলেবেগুনে ট্রাম্প...",
     "desc": "ভারত এবং ইউরোপীয় ইউনিয়নের মধ্যে এই চুক্তিটি গত কয়েক দশকের মধ্যে অন্যতম গুরুত্বপূর্ণ অর্থনৈতিক ঘটনা। এর লক্ষ্য হলো দুই অঞ্চলের মধ্যে পণ্য ও পরিষেবার আদান-প্রদান সহজতর করা, শুল্ক কমানো এবং বিনিয়োগ বৃদ্ধি করা। বিশেষ করে প্রতিরক্ষা, ডিজিটাল প্রযুক্তি এবং কর্মীদের যাতায়াতের (Mobility) ক্ষেত্রে এই চুক্তি ঐতিহাসিক মোড় ঘোরাতে পারে বলে মনে করা হচ্ছে।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -295,15 +313,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/odisha-government-has-imposed-a-statewide-ban-on-all-tobacco-and-nicotine-containing-products-smj-2508997.html",
     "time": "2026-01-22T15:15:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "সরস্বতী পুজোর মন্ত্র মিশবে আজানের সুরে! সুপ্রিম কোর্টের ঐতিহাসিক রায়ে একই জায়গায় নমাজ ও বসন্ত পঞ্চমীর উদযাপন...",
-    "desc": "বৃহস্পতিবার প্রধান বিচারপতি সূর্যকান্ত, বিচারপতি জয়মাল্য বাগচী এবং বিচারপতি বিপুল এম পাঞ্চোলির ডিভিশন বেঞ্চ এই সংবেদনশীল মামলাটির শুনানি শেষ করে। আদালত সাফ জানিয়েছে, বসন্ত পঞ্চমীর পুজো এবং জুম্মার নামাজ—উভয়ই যাতে নির্বিঘ্নে সম্পন্ন হয়, তার দায়িত্ব প্রশাসনকে নিতে হবে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/supreme-court-allows-hindu-muslim-to-offer-prayers-at-bhojsala-on-basant-panchami-but-what-was-the-dispute_636888.html ",
-    "time": "2026-01-22T10:21:24.000Z"
   },
   {
     "cat": "Entertainment",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/entertainment/viral-social-vinod-khanna-hema-malini-simi-garewal-film-haath-ki-safai-song-wada-karle-sajna-sung-by-mohammed-rafi-lata-mangeshkar-pbd-2502662.html",
     "time": "2026-01-18T10:20:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "একটার বেশি ক্রেডিট কার্ড থাকলে সিবিল স্কোর বাড়ে না কমে? কী বলছে নিয়ম, জেনে নিন",
-    "desc": "আগে ক্রেডিট কার্ড শুধু payment-এর জন্য ব্যবহার হত, এখন এটা cashback, উপহার এমনকী অনেক সময় বিশেষ অফারের জন্যও ব্যবহার হয়। এই অবস্থায় প্রশ্ন ওঠে, একাধিক card রাখলে কি আপনার সিবিল স্কোরে কি প্রভাব পড়তে পারে?",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/credit-card-4-2025-12-80a4e746c9bc09ecc108021cbd53ed12-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/will-more-than-one-credit-card-can-affect-cibil-score-drawbacks-and-benefits-of-more-than-one-credit-card-rdp-2502655.html",
-    "time": "2026-01-18T10:07:40.000Z"
   }
 ];
