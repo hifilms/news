@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "ধ্বংসের জন্য মরিয়া হয়ে উঠেছে ইউরোপ, যুদ্ধের টাকা জোগাড়েই এই বাণিজ্য চুক্তি! ভারতের সঙ্গে ডিল সই হতেই তেলেবেগুনে ট্রাম্প...",
+    "desc": "ভারত এবং ইউরোপীয় ইউনিয়নের মধ্যে এই চুক্তিটি গত কয়েক দশকের মধ্যে অন্যতম গুরুত্বপূর্ণ অর্থনৈতিক ঘটনা। এর লক্ষ্য হলো দুই অঞ্চলের মধ্যে পণ্য ও পরিষেবার আদান-প্রদান সহজতর করা, শুল্ক কমানো এবং বিনিয়োগ বৃদ্ধি করা। বিশেষ করে প্রতিরক্ষা, ডিজিটাল প্রযুক্তি এবং কর্মীদের যাতায়াতের (Mobility) ক্ষেত্রে এই চুক্তি ঐতিহাসিক মোড় ঘোরাতে পারে বলে মনে করা হচ্ছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/team-trump-claims-europe-is-funding-war-against-itself-through-the-india-eu-trade-deal-mother-of-all-trade-deals-triggering-fresh-debate-on-global-trade-geopolitics-and-transatlantic-relations ",
+    "time": "2026-01-27T08:32:33.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "‘পদ্মশ্রী’ পেয়ে কাকে ‘মিস’ করলেন প্রসেনজিৎ?",
     "desc": "গতকাল, রবিবারই এসেছে সুখবর৷ পদ্মশ্রী পেয়েছেন অভিনেতা প্রসেনজিৎ চট্টোপাধ্যায়৷ পদ্মশ্রী সম্মান পাওয়ার পর পরিচালক ঋতুপর্ণ ঘোষকে স্মৃতিচারণ করলেন অভিনেতা৷ দেশের অন্যতম সেরা সম্মান পাওয়ার পরদিনেই বিশেষভাবে সক্ষম ছাত্র-ছাত্রীদের সঙ্গে সময় কাটালেন পর্দার কাকাবাবু৷ প্রজাতন্ত্র দিবসের সকালে তাঁর দেখা মিলল ঋতাভরী চক্রবর্তীর আইডিয়াল স্কুল অফ ডেফ (Ideal school for Deaf)-এ। বিশেষভাবে সক্ষম ছাত্র-ছাত্রীদের সঙ্গেই প্রজাতন্ত্র দিবস উদযাপন করলেন নায়ক৷ প্রসেনজিতের সঙ্গেই উপস্থিত ছিলেন অভিনেত্রী ঋতাভরী চক্রবর্তীও৷ পর্দার তারকাকে সামনে পেয়ে খুশি সকলে। প্রসেনজিৎ এবং ঋতাভরী স্কুলের কচিকাঁচাদের সঙ্গে রিপাবলিক ডে সেলিব্রেট করলেন। ছোটদের আবদার মেনে সকলের সঙ্গে ছবিও তুললেন প্রসেনজিৎ চট্টোপাধ্যায়।",
@@ -610,15 +619,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/technology/iphone-18-pro-leaks-under-display-face-id-unch-hole-display-to-a-variable-aperture-camera-what-to-expect-from-apple-2026-flagship-tc-ac-aa-2503382.html",
     "time": "2026-01-20T10:36:28.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump's 200% Tariffs: এবার একেবারে একলাফে ২০০% শুল্ক! কেন এই সংঘাত? কী কী জিনিসের দাম বাড়ছে?",
-    "desc": "দেখতে-দেখতে গোটা বিশ্বই আমেরিকার রোষানলে পড়ছে। এবার ডোনাল্ড ট্রাম্পের কোপে পড়ল ছবির দেশ কবিতার দেশ ফ্রান্স! মার্কিন প্রেসিডেন্ট স্পষ্ট জানিয়ে দিলেন, এবার তিনি ফরাসি পণ্যের উপর ২০০ শতাংশ শুল্ক চাপাবেন। কেন তাঁর এমন খেয়ালি আচরণ? কী অপরাধ ফ্রান্সের?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/trumps-tariffs-trumps-threatens-200-percent-tariff-on-france-after-macron-questions-him-on-gaza-board-of-peace-trump-shares-macrons-message_636418.html ",
-    "time": "2026-01-20T10:16:36.000Z"
   },
   {
     "cat": "World",

@@ -1,5 +1,86 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "India-EU વચ્ચે થઈ ઐતિહાસિક ડીલ, લક્ઝરી કારોના ભાવમાં થશે ધરખમ ઘટાડો, જાણો કઈ કઈ વસ્તુઓ થશે સસ્તી",
+    "desc": "જે પળની રાહ જોવાઈ રહી હતી તે આવી ગઈ અને ભારત અને યુરોપીયન યુનિયન વચ્ચે આખરે મધર ઓફ ઓલ ડીલ્સ થઈ ગઈ. 18 વર્ષોના લાંબા ઈન્તેજાર બાદ આ ઘડી આવી છે. વિશ્વની બે મોટી શક્તિઓ વચ્ચે વેપાર અંગે મોટો કરાર થયો છે. આ સાથે જ 200 કરોડનું બજાર અને દુનિયાની 25 ટકા જીડીપી એક સાથે આવશે. આ સાથે ભારતમાં કઈ કઈ વસ્તુઓ સસ્તી થશે તે પણ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/india-eu-fta-mother-of-all-deals-what-will-india-get-from-this-deal-what-will-be-cheaper-463063 ",
+    "time": "2026-01-27T09:09:10.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "FASTag યુઝર્સ સાવધાન! 1 ફેબ્રુઆરીથી બદલાઈ રહ્યો છે ટોલ ટેક્સ સાથે જોડાયેલો મોટો નિયમ, હવે ટોલ પર મુશ્કેલી થશે ઓછી",
+    "desc": "NHAIએ 1 ફેબ્રુઆરી, 2026થી કાર, જીપ અને વાન માટે FASTags જાહેર કરતી વખતે લાગુ પડતી આ કાર્યવાહી નાબૂદ કરી છે. આ નિર્ણયથી FASTags મેળવવા અને એક્ટિવ કરવામાં વિલંબ ઓછો થશે અને વપરાશકર્તાઓની ફરિયાદો ઓછી થશે તેવી અપેક્ષા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/fastag-users-beware-a-major-rule-related-to-toll-tax-is-changing-from-february-1-now-there-will-be-less-trouble-at-toll-463069 ",
+    "time": "2026-01-27T09:08:38.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "એપલ બનાવી રહ્યું છે એક એવું ડિવાઈસ, જે સ્માર્ટફોનને છોડી શકે છે પાછળ !",
+    "desc": "એપલ એક એવા ડિવાઈસ પર કામ કરી રહ્યું છે જેમાં ન તો સ્ક્રીન હશે કે ન તો ફોન જેવું ઇન્ટરફેસ. AI પિન નામનું આ ગેજેટ વોઇસ અને આર્ટિફિશિયલ ઇન્ટેલિજન્સનો ઉપયોગ કરીને કામ કરશે. ત્યારે આ નવું ગેજેટ કેવું હશે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/apple-ai-pin-device-can-replace-smartphone-know-full-details-463066 ",
+    "time": "2026-01-27T09:00:27.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Vivoએ ચુપચાપ લોન્ચ કર્યો નવો X200T, કિંમત અને ફીચર્સ જોઈને યુઝર્સ રહી ગયા હેરાન, જાણો પૂરી વિગત",
+    "desc": "Vivo એ ભારતમાં Vivo X200T ને ચૂપચાપ લોન્ચ કરી દીધો છે, જેમાં શક્તિશાળી Dimensity 9400+ પ્રોસેસર, મોટી 6200mAh બેટરી અને પ્રીમિયમ Zeiss કેમેરાની સાથે આવે છે. કિંમત ફ્લેગશિપ કરતા ઓછી છે, પરંતુ તેની સુવિધાઓ કોઈપણ હાઇ-એન્ડ ફોનને ટક્કર આપે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/vivo-has-quietly-launched-the-new-x200t-and-users-are-surprised-by-its-price-and-features-463064 ",
+    "time": "2026-01-27T08:57:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભારત-EU વચ્ચેની ડીલને PM મોદીએ ઐતિહાસિક ગણાવી, જાણો શું ફાયદા ગણાવ્યા",
+    "desc": "પીએમ મોદીએ ભારત એનર્જી વીક 2026ના ઉદ્ઘાટન સમારોહમાં આ અંગે વાત કરતા કહ્યું કે ઘણા સમયથી પેન્ડિંગ એવા આ ભારત અને યુરોપીયન યુનિયન વચ્ચેની મુક્ત વેપાર સંધિને દુનિયાભરમાં પહેલેથી જ મધર ઓફ ઓલ ડીલ્સ તરીકે ગણાવવામાં આવી રહી છે. તેમણે વીડિયો કોન્ફરન્સિંગ દ્વારા સમારોહમાં ભાગ લીધો. વધુ વિગતો માટે વાંચો અહેવાલ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/india-eu-fta-pm-modi-said-big-agreement-sign-between-european-union-and-india-mother-of-all-deals-463041 ",
+    "time": "2026-01-27T08:21:36.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "દુનિયાનું એક એવું ગામ, જ્યાં નથી કોઈનો જન્મ થતો કે નથી કોઈ મરતું !",
+    "desc": "દુનિયાનું છેલ્લું ગામ જે ઉત્તર ધ્રુવથી લગભગ 1300 કિલોમીટર દૂર આવેલું છે. આ સ્થળની ખાસિયત માત્ર તેનું હવામાન જ નહીં, પરંતુ તેના નિયમો, લોકો અને જીવનશૈલી પણ છે, જે તેને વિશ્વના સૌથી અનોખા ગામડાઓમાંનું એક બનાવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/this-village-in-europe-where-birth-and-death-are-not-allowed-know-why-463050 ",
+    "time": "2026-01-27T07:40:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભારત-EU ડીલથી ટ્રમ્પને કેમ મરચા લાગ્યા? જાણો શું છે તેના ફાયદા-નુકસાન",
+    "desc": "ભારત અને યુરોપિયન યુનિયન વચ્ચે થયેલી મધર ઓફ ઓલ ડીલ્સે વૈશ્વિક રાજનીતિમાં હલચલ મચાવી દીધી છે. અમેરિકાએ આ સમજુતિ પર વિરોધ વ્યક્ત કરતા કહ્યું કે યુરોપ, ભારત દ્વારા રશિયન તેલ ખરીદી અજાણતા રશિયા-યુક્રેન યુદ્ધનું ફન્ડિંગ કરી રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/india-european-union-fta-deal-benefits-us-warns-europe-india-eu-trade-deal-463058 ",
+    "time": "2026-01-27T07:39:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ગુજરાતના ખેડૂતો...PM કિસાનના 22માં હપ્તા પહેલા ફટાફટ ચેક કરો યાદીમાં તમારા ગામનું નામ છે કે નહીં",
+    "desc": "દેશના ખેડૂતો કાગડોળે કિસાન સન્માન નિધિના 22માં હપ્તાની રાહ જોઈ રહ્યા છે. ત્યારે આ ઈન્તેજારનો જલદી અંત આવી શકે છે. પરંતુ તે પહેલા તમારા ગામનું નામ લિસ્ટમાં છે કે નહીં તે ખાસ ચેક કરી લો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/agriculture/pm-kisan-samman-nidhi-22nd-installment-how-to-check-beneficiary-list-village-wise-463057 ",
+    "time": "2026-01-27T07:32:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "આખરે ન્યુઝીલેન્ડે બદલી ટીમ... સતત ત્રણ હાર બાદ આ બે ખેલાડીઓનું કપાયું પત્તુ, સ્ટાર ખેલાડીની એન્ટ્રી",
+    "desc": "ભારત સામેની પહેલી ત્રણ ટી20 મેચમાં ન્યૂઝીલેન્ડનો કારમો પરાજય થયો હતો. તેણે આગામી બે મેચ માટે પોતાની ટીમમાં મહત્વપૂર્ણ ફેરફાર કર્યા છે. જેમાં એક એક સ્ટાર પ્લેયરની એન્ટ્રી થઈ છે. જ્યારે બે ખેલાડીઓને બહાર કરવામાં આવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/new-zealand-announced-major-squad-changes-remaining-india-t20-series-463056 ",
+    "time": "2026-01-27T07:21:26.000Z"
+  },
+  {
     "cat": "Business",
     "title": "બજેટમાં TDSનું ટેન્શન થશે ખતમ, &amp;#039;ટેક્સ ગૂંચવણો&amp;#039;માંથી રાહત મળશે?",
     "desc": "કેન્દ્રીય બજેટ રજૂ થવામાં હવે ગણતરીના દિવસો બાકી છે. 1 ફેબ્રુઆરી, રવિવારે નાણામંત્રી બજેટ રજૂ કરશે. બજેટ પહેલા વિવિધ ક્ષેત્ર સરકાર પાસે મહત્વની આશા રાખી બેઠા છે. આજે અમે તમને બજેટમાં કયા મોટા નિર્ણયો લેવાની સંભાવના છે, તેની માહિતી આપીશું.",
@@ -7,15 +88,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/budget-2026-custom-duty-overhaul-and-tds-simplification-top-the-industry-wishlist-463046 ",
     "time": "2026-01-27T06:20:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ભારત-EU વચ્ચે થઈ ગઈ &amp;#039;મધર ઓફ ઓલ ડીલ્સ&amp;#039; PM મોદીએ ગણાવી ઐતિહાસિક, જાણો શું ફાયદા ગણાવ્યા",
-    "desc": "પીએમ મોદીએ ભારત એનર્જી વીક 2026ના ઉદ્ઘાટન સમારોહમાં આ અંગે વાત કરતા કહ્યું કે ઘણા સમયથી પેન્ડિંગ એવા આ ભારત અને યુરોપીયન યુનિયન વચ્ચેની મુક્ત વેપાર સંધિને દુનિયાભરમાં પહેલેથી જ મધર ઓફ ઓલ ડીલ્સ તરીકે ગણાવવામાં આવી રહી છે. તેમણે વીડિયો કોન્ફરન્સિંગ દ્વારા સમારોહમાં ભાગ લીધો. વધુ વિગતો માટે વાંચો અહેવાલ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/india-eu-fta-pm-modi-said-big-agreement-sign-between-european-union-and-india-mother-of-all-deals-463041 ",
-    "time": "2026-01-27T06:05:22.000Z"
   },
   {
     "cat": "Sports",
@@ -333,15 +405,6 @@ const newsData_gu = [
     "time": "2026-01-25T10:56:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "પદ્મ પુરસ્કાર 2026 : આ 3 ગુજરાતીઓને મળશે પદ્મશ્રી સન્માન, જુઓ લિસ્ટ",
-    "desc": "પદ્મ પુરસ્કારો 2026 માટેની પ્રારંભિક યાદી સામે આવી છે, જેમાં સાહિત્ય, શિક્ષણ, સમાજ સેવા, આરોગ્ય, કલા અને જાહેર કલ્યાણમાં વર્ષોથી નોંધપાત્ર યોગદાન આપનારા ઘણા વ્યક્તિઓના નામનો સમાવેશ થાય છે. જોકે, સરકાર દ્વારા હજુ સુધી સત્તાવાર યાદી જાહેર કરવામાં આવી નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/padma-awards-2026-preliminary-list-announced-3-gujaratis-to-get-padma-shri-462867 ",
-    "time": "2026-01-25T09:58:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "પાકિસ્તાન ક્રિકેટનું અસ્તિત્વ ખતરામાં... T20 વર્લ્ડ કપ છોડશે તો ICC લગાવશે કડક પ્રતિબંધો",
     "desc": "પાકિસ્તાન ક્રિકેટ બોર્ડ (PCB)એ તાજેતરમાં બાંગ્લાદેશને ટેકો આપ્યો હતો અને ભારતમાં T20 વર્લ્ડ કપ ન રમવાના તેના નિર્ણયને યોગ્ય ઠેરવ્યો હતો. વધુમાં પાકિસ્તાને પોતે T20 વર્લ્ડ કપ અંગે અનેક ધમકીઓ આપી હતી, જેનાથી આંતરરાષ્ટ્રીય ક્રિકેટ પરિષદ (ICC) નારાજ છે.",
@@ -369,33 +432,6 @@ const newsData_gu = [
     "time": "2026-01-25T06:00:01.000Z"
   },
   {
-    "cat": "Business",
-    "title": "એલર્ટ! ટ્રાફિક ચલણ કે ટોલ ટેક્સ નહીં ભરો તો હાઈ-વે પર ડ્રાઈવિંગ ભૂલી જજો, શું છે સરકારનો નવો નિયમ?",
-    "desc": "કેન્દ્ર સરકાર અકસ્માતો અટકાવવા માટે ડ્રાઇવિંગ નિયમો કડક બનાવવાની તૈયારી કરી રહી છે, અને બજેટ સત્રમાં એક મોટો પ્રસ્તાવ રજૂ કરવામાં આવશે. જો આ પ્રસ્તાવ પસાર થશે, તો બેદરકારીથી વાહન ચલાવનારાઓને તેનું પરિણામ ભોગવવા તૈયાર રહેવું પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/if-you-dont-pay-traffic-fines-or-toll-taxes-forget-about-driving-on-national-highways-what-is-the-governments-new-rule-462853 ",
-    "time": "2026-01-25T05:46:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "થઈ જાઓ તૈયાર... IND vs PAK મેચની તારીખ થઈ ગઈ ફાઈનલ, 6 દિવસ બાદ જોવા મળશે હાઇ-વોલ્ટેજ મુકાબલો",
-    "desc": "2026 T20 વર્લ્ડ કપ 7 ફેબ્રુઆરીથી શરૂ થશે અને તૈયારીઓ પૂર્ણ થઈ ગઈ છે. ભારત અને પાકિસ્તાન વચ્ચે 15 ફેબ્રુઆરીએ મેચ યોજાવાની છે, પરંતુ તે પહેલાં બંને દેશો વચ્ચે ક્રિકેટના મેદાન પર ટક્કર થશે. આ મેચ અંડર-19 વર્લ્ડ કપ 2026ના સુપર સિક્સ તબક્કામાં રમાશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/u19-world-cup-2026-super-six-group-2-india-vs-pakistan-match-on-1st-february-462848 ",
-    "time": "2026-01-25T05:04:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICCએ બાંગ્લાદેશની &amp;#039;હવા&amp;#039; કાઢી! હવે પાકિસ્તાનના નાટક શરૂ, બહાર થશે તો આ દેશને મળશે એન્ટ્રી, સામે આવ્યું નવું અપડેટ",
-    "desc": "T20 વર્લ્ડ કપ 2026 પહેલા પાકિસ્તાને પોતાના નિવેદનથી ખળભળાટ મચાવી દીધો છે. પાકિસ્તાને વર્લ્ડ કપમાં ભાગ લેવાનો નિર્ણય પોતાના વડાપ્રધાન પર છોડી દીધો છે. હવે સવાલ એ થાય છે કે જો પાકિસ્તાન વર્લ્ડકપમાંથી બહાર થઈ જાય છે, તો તેનું સ્થાન કઈ ટીમ લેશે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-if-pakistan-is-eliminated-which-country-will-get-a-chance-know-what-is-the-new-update-462846 ",
-    "time": "2026-01-25T04:45:17.000Z"
-  },
-  {
     "cat": "World",
     "title": "અમેરિકામાં સેંકડો લોકોના મોતનો ખતરો, 8,000થી વધુ ફ્લાઇટ્સ રદ, કારણ ઈરાન પર સંભવિત હુમલો નથી પણ છે વધુ ગંભીર",
     "desc": "થોડા કલાકો પહેલા, યુ.એસ.માં 8,000 થી વધુ ફ્લાઇટ્સ રદ કરવામાં આવી હતી, જેના કારણે ખળભળાટ મચી ગયો હતો. આ નિર્ણય એક મોટી આપત્તિને ટાળવા માટે લેવામાં આવ્યો હતો, જેની અસર સમગ્ર યુ.એસ. પર થવાની ધારણા છે.",
@@ -412,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/king-release-date-announce-shah-rukh-khan-film-king-releasing-on-24-dec-2026-462796 ",
     "time": "2026-01-24T13:26:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "વૈજ્ઞાનિકોનું મોટું એલર્ટ: ભારતની ધરતીમાં પડશે તિરાડ, હવે બદલાઈ જશે એશિયાનો નકશો ?",
-    "desc": "ભારતના અનેક ભાગોમાં વારંવાર ભૂકંપના ઝટકા અનુભવાય છે, તેના માટે જમીનના પેટાળમાં રહેલી પ્લેટો જવાબદાર છે, અનેક પ્લેટો એક્ટિવ હોય છે, જ્યારે અનેક પ્લેટોમાં કોઈ હલચલ થતી નથી, ત્યારે ભારતના ઉત્તર ભાગમાં ફરી પ્લેટોને હલવાના કારણે વધારે ભૂકંપ આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/scientists-big-alert-india-soil-will-crack-will-the-map-of-asia-change-now-462767 ",
-    "time": "2026-01-24T10:43:08.000Z"
   },
   {
     "cat": "World",

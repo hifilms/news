@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "ICC's massive U-turn set to shock Pakistan amid T20 World Cup boycott row, Bangladesh on standby",
+    "desc": "The International Cricket Council (ICC) doesn't seem to be in the mood to witness anymore drama ahead of the T20 World Cup 2026. They have already removed Bangladesh from the mega event, replacing them with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-s-massive-u-turn-set-to-shock-pakistan-amid-t20-world-cup-boycott-row-bangladesh-on-standby-2026-01-27-1027629",
+    "time": "2026-01-27T07:25:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "New Zealand make late changes to squad for last two T20Is, 2 players sent home",
     "desc": "New Zealand have released Kristian Clarke and Tim Robinson from their squad ahead of the fourth T20I of the five-match series against India. With the conclusion of the SA20 and the Big Bash League over...",
     "img": "",
@@ -70,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/nat-sciver-brunt-becomes-first-cricketer-ever-to-achieve-landmark-feat-in-wpl-2026-01-26-1027554",
     "time": "2026-01-26T15:37:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Charith Asalanka hits back at Harry Brook over 'worst pitch' controversy in 2nd ODI",
-    "desc": "Sri Lanka captain Charith Asalanka has pushed back against criticism from England’s camp over the surface used for the second ODI at the R Premadasa Stadium, suggesting that the match itself did not support claims...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/charith-asalanka-hits-back-at-harry-brook-over-worst-pitch-controversy-in-2nd-odi-2026-01-26-1027550",
-    "time": "2026-01-26T14:53:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "West Indies announce T20 World Cup 2026 squad; Evin Lewis, Alzarri Joseph ruled out",
-    "desc": "West Indies have finalised their 15-player squad for the upcoming T20 World Cup, with a mix of seasoned campaigners and emerging talent set to take the field. Among the new faces is 25-year-old Guyanese batter...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-announce-t20-world-cup-2026-squad-evin-lewis-alzarri-joseph-ruled-out-2026-01-26-1027549",
-    "time": "2026-01-26T14:28:24.000Z"
   }
 ];
