@@ -1,5 +1,50 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Arun Govil reacts to Dipika Chikhlia’s remark on Ramayana",
+    "desc": "Veteran actor Arun Govil is set to return to the world of Ramayana, this time in a new avatar. The actor will be seen essaying the role of King Dashrath in Nitesh Tiwari’s much-awaited epic, a casting choice that has sparked conversation among fans of the original TV classic.",
+    "img": "https://static.toiimg.com/photo/msid-127652452,imgsize-55618.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arun-govil-reacts-to-dipika-chikhlias-out-of-context-remark-on-him-playing-dashrath-in-ranbir-kapoors-ramayana/articleshow/127652288.cms",
+    "time": "2026-01-27T20:31:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Salman made peace with Arijit just months before retirement",
+    "desc": "It was one of those Weekend Ka Vaar moments that stayed with fans. During Bigg Boss 19, a light-hearted joke by comedian Ravi Gupta unexpectedly led Salman Khan to address his long-rumoured fallout with Arijit Singh. When Ravi quipped that he was nervous because he “looks like Arijit Singh,” Salman laughed — and then surprised everyone with an honest confession.",
+    "img": "https://static.toiimg.com/photo/msid-127650936,imgsize-36994.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-salman-khan-made-peace-with-arijit-singh-just-months-before-the-singers-retirement-announcement-jo-misunderstanding-thi-meri-side-se-thi/articleshow/127650839.cms",
+    "time": "2026-01-27T19:52:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Border 2’ director Anurag says trolls owe Varun an apology",
+    "desc": "Director Anurag Singh has defended Varun Dhawan against pre-release criticism for 'Border 2', urging detractors to apologize now that the film is a success. Singh highlighted how social media often amplifies negativity, but stressed that genuine work, like Dhawan's performance, ultimately silences critics. He believes actors are unfairly judged, and personal attacks are damaging, but good work prevails.",
+    "img": "https://static.toiimg.com/photo/msid-127648118,imgsize-45696.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-director-anurag-singh-says-trolls-owe-varun-dhawan-an-apology-if-people-are-submitting-apology-letters/articleshow/127648118.cms",
+    "time": "2026-01-27T18:59:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Mujhe laga Suniel Shetty se toh main better hoon’: Parmeet",
+    "desc": "Before television fame and films, Parmeet Sethi’s journey began with failure. His garment export business collapsed, pushing him to rethink his future. In a recent vlog, Parmeet recalled how a moment at home changed everything. When a producer visited to sign Archana Puran Singh for a film, Parmeet was left fascinated by the world of cinema. That was when he decided to try acting. “I only had to sell myself, and that I knew how to do,” he said.",
+    "img": "https://static.toiimg.com/photo/msid-127648230,imgsize-45392.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mujhe-laga-suniel-shetty-se-toh-main-better-hoon-parmeet-sethi-recalls-his-overconfidence-says-today-i-feel-so-embarrassed/articleshow/127648066.cms",
+    "time": "2026-01-27T18:59:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Who is Koel Roy? Everything to know about Arijit’s second wife",
+    "desc": "Arijit Singh has announced his retirement from playback singing, effective January 27, 2026, a move that has surprised fans globally. While stepping away from Bollywood films, the acclaimed artist will continue with live performances and independent music. His personal life, including his marriage to childhood friend Koel Roy and a previous marriage, has been kept private.",
+    "img": "https://static.toiimg.com/photo/msid-127647637,imgsize-46234.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/who-is-koel-roy-everything-to-know-about-arijit-singhs-second-wife/articleshow/127647637.cms",
+    "time": "2026-01-27T18:53:59.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Sophie Devine holds her nerve as Gujarat edge Delhi in thrilling WPL clash",
     "desc": "Gujarat Giants secured a thrilling three-run victory over Delhi Capitals in the WPL 2026, with Sophie Devine defending nine runs in the final over. Beth Mooney's 58 and Anushka Sharma's 39 powered Gujarat's 174, a total Delhi narrowly missed despite late efforts from Sneh Rana and Niki Prasad.",
@@ -70,6 +115,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/nashik-to-mumbai-long-march-likely-to-be-withdrawn-on-january-28-after-assurance-from-cm-fadnavis/article70558043.ece",
     "time": "2026-01-27T17:10:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Prime Minister lauds ‘ambitious’ trade deal with European Union",
+    "desc": "‘Historic’ FTA a boost to investment between India and the European Union, says Modi; pact brings together Indian services and skills with European capital and innovations, says EU chief; deal ‘opens a whole new world’, says Union Home Minister",
+    "img": "https://th-i.thgim.com/public/incoming/lqv6kl/article70558123.ece/alternates/LANDSCAPE_1200/20260127280L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/india-has-concluded-a-historic-fta-with-the-eu-pm-modi/article70558020.ece",
+    "time": "2026-01-27T17:06:08.000Z"
   },
   {
     "cat": "Sports",
@@ -270,15 +324,6 @@ const newsData_en = [
     "time": "2026-01-27T14:00:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Atlee calls Deepika Padukone his lucky star",
-    "desc": "Director Atlee has revealed Deepika Padukone is his 'lucky charm' for his ambitious pan-Indian film 'AA22xA6', starring alongside Allu Arjun. The project, described as grand and tech-heavy, promises a unique portrayal of Padukone post-pregnancy. With an ensemble cast including Kajol and Janhvi Kapoor, the film is generating significant buzz for its scale and cultural fusion.",
-    "img": "https://static.toiimg.com/photo/msid-127629825,imgsize-25920.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/aa22xa6-atlee-calls-deepika-padukone-his-lucky-star-and-the-most-ambitious-film-builds-buzz/articleshow/127629825.cms",
-    "time": "2026-01-27T13:53:46.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Svitolina scorches Gauff in Melbourne heat, sets up Sabalenka semi-final clash",
     "desc": "Elina Svitolina delivered a scorching performance at the Australian Open, defeating world No. 3 Coco Gauff 6-1, 6-2 to reach her first semi-final in Melbourne. The dominant win also propels the 31-year-old Ukrainian back into the top-10 rankings. Svitolina will now face top seed Aryna Sabalenka in a highly anticipated clash.",
@@ -295,33 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-censor-drama-samantha-ruth-prabhus-rashtrapati-moment-nayantharas-tribute-to-mammootty-top-5-south-newsmakers-of-the-day/articleshow/127629460.cms",
     "time": "2026-01-27T13:50:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When and where to watch 2026 BAFTA noms",
-    "desc": "Mark your calendars for the 2026 BAFTA Film Awards nominations, set to be unveiled live from London on January 27th. The event will be skillfully hosted by the dynamic duo David Jonsson and Aimee Lou Wood, and you can catch all the action streaming on BAFTA's YouTube and X.",
-    "img": "https://static.toiimg.com/photo/msid-127629170,imgsize-26616.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/when-and-where-to-watch-the-2026-bafta-film-awards-nominations/articleshow/127629170.cms",
-    "time": "2026-01-27T13:44:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nayanthara's wish for Padma Bhushan awardee Mammootty",
-    "desc": "Nayanthara has extended her congratulations to veteran actor Mammootty for being named a Padma Bhushan awardee. Her tribute, shared on social media, highlights his rare, real, and remarkable contributions to cinema. This recognition celebrates Mammootty's extensive career and enduring impact. Nayanthara's message underscores her deep respect for his artistry and legacy.",
-    "img": "https://static.toiimg.com/photo/msid-127629286,imgsize-78796.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/rare-real-remarkable-nayantharas-late-wish-for-padma-bhushan-awardee-mammootty/articleshow/127629286.cms",
-    "time": "2026-01-27T13:43:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Samantha Ruth Prabhu shares proud moment at Rashtrapati Bhavan",
-    "desc": "Samantha Ruth Prabhu attended the Republic Day At-Home Reception at Rashtrapati Bhavan, a moment she described as a dream once too big to imagine. The actress shared her gratitude for a country that allowed her hard work and perseverance to lead her to such national recognition. Her presence highlighted her journey from a worker bee to a celebrated national figure.",
-    "img": "https://static.toiimg.com/photo/msid-127629032,imgsize-65948.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/dreams-like-this-once-felt-too-big-samantha-ruth-prabhu-shares-proud-moment-at-rashtrapati-bhavan/articleshow/127629032.cms",
-    "time": "2026-01-27T13:40:20.000Z"
   },
   {
     "cat": "Sports",
@@ -370,8 +388,8 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "India and EU conclude talks on ‘mother of all deals’, ending negotiations that started in 2007",
-    "desc": "The conclusion of negotiations on the FTA marks the end of a two-decades-old process, after talks were first launched in 2007. Talks were resumed in 2022 with both sides agreeing to exclude issues on which agreement had been elusive.",
+    "title": "‘Mother of all deals’: India and EU finalise FTA",
+    "desc": "European wines, luxury cars to become cheaper as trade talks conclude after almost two decades; Modi calls it historic pact, while Ursula says it will reduce strategic dependence amid global turmoil; Officials say document will undergo legal scrubbing before it can be ratified by European Parliament",
     "img": "https://th-i.thgim.com/public/incoming/d29a0h/article70556778.ece/alternates/LANDSCAPE_1200/20260127188L.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/india-and-eu-conclude-talks-on-mother-of-all-deals-ending-negotiations-that-started-in-2007/article70556539.ece",
@@ -532,7 +550,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Border 2' box office collection day 5 (LIVE)",
+    "title": "'Border 2' box office collection day 5",
     "desc": "Border 2 has achieved exceptional box office success over its opening weekend, driven by strong performances on Saturday, Sunday, and Republic Day. The film garnered a massive Rs 59 crore on Monday, with mass belts and Tier-2/Tier-3 centers showing extraordinary results, leading to a total collection of Rs 179.23 crore in just five days.",
     "img": "https://static.toiimg.com/photo/msid-127608394,imgsize-57676.cms",
     "src": "indiatimes.com",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/calum-scott-on-his-new-album-avenoir-his-concerts-in-india-and-more/article70537272.ece",
     "time": "2026-01-23T08:28:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Davos meeting concludes after Trump steals limelight, amidst caution against geopolitical conflict, AI risks",
-    "desc": "Canadian PM Mark Carney said middle powers like Canada, who had prospered through the era of an “American hegemon” needed to realise that a new reality had set in and that “compliance” would not shelter them from major power aggression",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/world-economic-forum-2026-davos-live-updates-january-23/article70540869.ece",
-    "time": "2026-01-23T03:49:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dave Farrell on getting the band back together and finally coming to India",
-    "desc": "Ahead of Linkin Park’s their long-awaited first concerts in India this weekend, veteran bassist Dave ‘Phoenix’ Farrell reflects on the band’s second life, emerging from the ashes, recruiting new faces and the long road back on tour",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/2jw618/article70537349.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/music/linkin-park-interview-dave-farrell-on-getting-the-band-back-together-and-finally-coming-to-india/article70537116.ece",
-    "time": "2026-01-22T11:35:09.000Z"
   }
 ];
