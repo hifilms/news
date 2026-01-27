@@ -1,5 +1,176 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "IAF releases video of Rafale armed with beyond-visual-range Meteor missile, silences sceptics",
+    "desc": "The Indian Air Force released a video showcasing its fighter jets armed with advanced missiles like Meteor and BrahMos, silencing critics who doubted India's possession of the beyond-visual-range Meteor missile. The footage featured Rafale, Sukhoi, and Tejas jets, confirming the missile's presence and capabilities for air-to-air combat.",
+    "img": "https://static.toiimg.com/photo/msid-127586224,imgsize-447681.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/op-sindoor-iaf-releases-video-of-rafale-armed-with-beyond-visual-range-meteor-missile-silences-sceptics/articleshow/127586218.cms",
+    "time": "2026-01-27T01:18:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "At R-Day parade, India showcases 'Sindoor' valour, as DRDO missile, Bhairav battalion make debut",
+    "desc": "India's military might, including lethal weapon systems and fighter jets from Operation Sindoor, captivated crowds on Kartavya Path during the 77th Republic Day parade. The event showcased advanced missile systems, air defence capabilities, and a unique 'Battle Array Format' with an aerial component, highlighting India's defence prowess to European dignitaries.",
+    "img": "https://static.toiimg.com/photo/msid-127586026,imgsize-1831072.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/at-r-day-parade-india-showcases-sindoor-valour-as-drdo-missile-bhairav-battalion-make-debut/articleshow/127585929.cms",
+    "time": "2026-01-27T01:13:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhurandhar' grosses historic Rs 1000cr ahead of OTT debut",
+    "desc": "Ranveer Singh's 'Dhurandhar' has shattered box office records, becoming the first Hindi-only film to surpass Rs 1,000 crore in India within 53 days. Ahead of its Netflix debut on January 30, the film is making waves. Meanwhile, preparations for the sequel, 'Dhurandhar 2', are underway, with teasers already receiving certifications.",
+    "img": "https://static.toiimg.com/photo/msid-127585023,imgsize-25008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-53-ranveer-singh-starrer-creates-history-grosses-rs-1000-crore-in-india-amid-border-2-wave/articleshow/127583220.cms",
+    "time": "2026-01-27T00:51:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Agri scientists, farmers among Padma winners",
+    "desc": "Nine individuals from the farm and allied sectors, including prominent agricultural scientists Ashok Kumar Singh and Gopal Ji Trivedi, have been honored with the Padma Shri. Their contributions range from developing numerous rice varieties and genome-edited crops to promoting makhana cultivation and innovative farming techniques, significantly boosting farm growth and farmer livelihoods across India.",
+    "img": "https://static.toiimg.com/photo/msid-127584871,imgsize-616859.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/agri-scientists-farmers-among-padma-winners/articleshow/127584792.cms",
+    "time": "2026-01-27T00:42:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Successful India benefits world",
+    "desc": "European Commission President Ursula von der Leyen stated that a successful India contributes to global stability and prosperity. The presence of EU leaders at India's Republic Day parade highlighted the strengthening India-EU partnership and commitment to shared values, with a new security and defense pact expected to be signed.",
+    "img": "https://static.toiimg.com/photo/msid-127584583,imgsize-1257891.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ursula-von-der-leyen-successful-india-benefits-world/articleshow/127584367.cms",
+    "time": "2026-01-27T00:32:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kedarnath, Badrinath and 47 affiliated temples considering a ban on entry of non-Hindus",
+    "desc": "Following a proposal to restrict non-Hindus at Haridwar's Kumbh ghats, the Badrinath Kedarnath Temple Committee is considering a similar move at its shrines. Citing tradition and constitutional rights, the committee chairman stated the decision aims to preserve religious practices, welcoming those who respect their faith.",
+    "img": "https://static.toiimg.com/photo/msid-127583509,imgsize-1774217.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kedarnath-badrinath-and-47-affiliated-temples-considering-a-ban-on-entry-of-non-hindus/articleshow/127583345.cms",
+    "time": "2026-01-27T00:08:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Border 2' earns Rs 56 cr on Monday; crosses 200 cr mark",
+    "desc": "Sunny Deol's 'Border 2' has set the box office ablaze with its staggering opening, surpassing Rs 50 crore on Monday alone. Riding high on the Republic Day weekend momentum, the film has not only achieved exemplary daily earnings but also amassed a colossal net of Rs 177 crore in just four days.",
+    "img": "https://static.toiimg.com/photo/msid-127582876,imgsize-36952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collections-day-4-sunny-deol-starrer-scores-rs-56-crore-haul-on-republic-day-grosses-rs-239-crore-worldwide/articleshow/127582534.cms",
+    "time": "2026-01-26T23:59:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "On Padma rolls is man who 'exposed' UPA on Ishrat case",
+    "desc": "A former MHA officer, RVS Mani, instrumental in exposing contradictory affidavits in the Ishrat Jahan case, has been honored with the Padma Shri. Mani claimed political interference led to the revision of the initial affidavit, which cited intelligence reports confirming Jahan's terror links. The second affidavit downplayed the intelligence, a move later confirmed by then Home Minister Rajnath Singh.",
+    "img": "https://static.toiimg.com/photo/msid-127583031,imgsize-632832.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/on-padma-rolls-is-man-who-exposed-upa-on-ishrat-case/articleshow/127582921.cms",
+    "time": "2026-01-26T23:58:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Coldest Republic Day in 5 years, rain likely today",
+    "desc": "Delhi experienced its coldest Republic Day since 2021, with temperatures dipping to 4.2°C at Safdarjung and 3.6°C in parts of the city, triggering cold wave conditions. Clear skies and northwesterly winds contributed to the chill. Light to moderate rain and thunderstorms are expected today, with a yellow alert issued.",
+    "img": "https://static.toiimg.com/photo/msid-127581989,imgsize-525498.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/coldest-republic-day-in-5-years-rain-likely-today/articleshow/127581861.cms",
+    "time": "2026-01-26T23:33:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Wrists working, runs flowing — how Suryakumar Yadav found form again",
+    "desc": "Suryakumar Yadav's recent form with two consecutive fifties has silenced doubts ahead of the T20 World Cup. After a lean patch, a crucial innings in Raipur saw him bat with patience, assessing conditions before unleashing his signature strokeplay. This resurgence provides vital reassurance for the Indian team management.",
+    "img": "https://static.toiimg.com/photo/msid-127544541,imgsize-41552.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-wrists-working-runs-flowing-how-suryakumar-yadav-found-form-again/articleshow/127544137.cms",
+    "time": "2026-01-26T23:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Purdue campus talks gather pace; UK, Canadian univs signal interest",
+    "desc": "India's higher education is opening up to global players, with Purdue University's campus plans in advanced talks. Following policy shifts, British and Canadian institutions are also showing keen interest. This move, building on existing foreign university presences, aims to bring top-tier engineering and technology programs to India, allowing students to earn international degrees locally.",
+    "img": "https://static.toiimg.com/photo/msid-127581696,imgsize-617387.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/purdue-campus-talks-gather-pace-uk-canadian-univs-signal-interest/articleshow/127581101.cms",
+    "time": "2026-01-26T23:14:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Aggressive low bids put NHAI in a fix, trend may impact quality",
+    "desc": "Highway construction agencies are facing a challenge as contractors aggressively bid up to 48% below estimated project costs, raising concerns about work quality. This trend, driven by fewer projects and increased competition, forces contractors to quote low to keep resources engaged, potentially impacting the sector's long-term health and project standards.",
+    "img": "https://static.toiimg.com/photo/msid-127580198,imgsize-1354581.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/aggressive-low-bids-put-nhai-in-a-fix-trend-may-impact-quality/articleshow/127580065.cms",
+    "time": "2026-01-26T22:48:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress says Modi government not serious about caste count in Census 2027",
+    "desc": "Congress has questioned the Modi government's intent regarding the caste enumeration in Census 2027, citing that the 'houselisting' questionnaire omits 'OBC' as an option. The party demands immediate consultations with political parties, states, and civil society before finalizing the caste census details.",
+    "img": "https://static.toiimg.com/photo/msid-127579816,imgsize-916613.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/congress-says-modi-government-not-serious-about-caste-count-in-census-2027/articleshow/127579721.cms",
+    "time": "2026-01-26T22:40:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress brass may meet Shashi Tharoor to settle issues",
+    "desc": "Congress leadership is planning to meet senior leader Shashi Tharoor following his absence from a crucial Kerala election strategy meeting. Tharoor, who cited personal issues and unhappiness with the party, will be invited for discussions to address his grievances. The party aims to ensure unity for the upcoming state elections, recognizing Tharoor's electoral influence.",
+    "img": "https://static.toiimg.com/photo/msid-127579276,imgsize-1168158.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/congress-brass-may-meet-shashi-tharoor-to-settle-issues/articleshow/127579207.cms",
+    "time": "2026-01-26T22:27:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Use gender-neutral terms, courts told",
+    "desc": "Delhi High Court has adopted gender-neutral terminology in court documents, replacing father's/husband's name with parent's/spouse's name. This change, inspired by a district judge's suggestion, aims to empower women and reflect modern family structures. The move will impact judicial officers' personal files, staff ID cards, and various official forms.",
+    "img": "https://static.toiimg.com/photo/msid-127578947,imgsize-1339202.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/use-gender-neutral-terms-courts-told/articleshow/127578800.cms",
+    "time": "2026-01-26T22:19:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "7 dead, 21 missing",
+    "desc": "A devastating fire engulfed a Kolkata warehouse complex early Monday, claiming at least seven lives and leaving 21 workers missing. Trapped inside units laden with combustible decoration materials and food supplies, the victims were sleeping when the blaze erupted. Firefighters battled for hours, but the inferno's intensity and smoldering debris continue to hinder rescue efforts.",
+    "img": "https://static.toiimg.com/photo/msid-127577714,imgsize-809905.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/fire-at-kolkata-warehouse-7-dead-21-missing/articleshow/127577403.cms",
+    "time": "2026-01-26T21:57:51.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Venezuela releases dozens of prisoners in 2 days, hundreds more still detained",
+    "desc": "According to human rights groups, prisoners released this weekend included an opposition activist, a human rights lawyer and a journalism student who was imprisoned in March after he published complaints about his hometown’s sewage system and was charged with “inciting hatred.”",
+    "img": "https://th-i.thgim.com/public/incoming/5s545s/article70554370.ece/alternates/LANDSCAPE_1200/Venezuela_Prisoners_51783.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/venezuela-releases-dozens-of-prisoners-in-2-days-hundreds-more-still-detained/article70554366.ece",
+    "time": "2026-01-26T21:48:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "PVR INOX to sell snacks business to Marico",
+    "desc": "PVR INOX is divesting its premium snacking business, 4700BC, to FMCG major Marico for Rs 226.8 crore in an all-cash deal. This strategic move aims to reduce debt and sharpen the company's focus on its core cinema operations. The transaction is expected to be finalized within 30 days.",
+    "img": "https://static.toiimg.com/photo/msid-127575581,imgsize-819246.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/pvr-inox-to-sell-snacks-business-to-marico/articleshow/127575488.cms",
+    "time": "2026-01-26T21:14:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Axis Bank net profit up 3% in Oct-Dec on strong loan growth",
+    "desc": "Axis Bank reported a 3% year-on-year net profit increase to Rs 6,490 crore in the December quarter, driven by robust loan growth and higher fee income. Net interest income rose 5% to Rs 14,287 crore, fueled by a 14% surge in advances, particularly in corporate and SME segments.",
+    "img": "https://static.toiimg.com/photo/msid-127575390,imgsize-522896.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/axis-bank-net-profit-up-3-in-oct-dec-on-strong-loan-growth/articleshow/127575334.cms",
+    "time": "2026-01-26T21:10:03.000Z"
+  },
+  {
     "cat": "Business",
     "title": "How to make ESOPs more valuable for startup staff",
     "desc": "India's startup ecosystem faces challenges with ESOP taxation, creating liquidity issues for employees. While a 2020 tax deferral aimed to help, it's limited to a small fraction of eligible startups. Expanding this benefit to all recognized startups and unlisted companies is crucial for making ESOPs a true wealth-creation tool.",
@@ -172,42 +343,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Kashmir peaceful, ready to welcome visitors: Deputy CM",
-    "desc": "Jammu and Kashmir Deputy Chief Minister Surinder Choudhary stated that Pakistan's efforts to disrupt tourism in the region have failed. He urged people to visit Kashmir, emphasizing its peaceful atmosphere and readiness to welcome visitors, while also honoring the victims of a past terror attack.",
-    "img": "https://static.toiimg.com/photo/msid-127567502,imgsize-1744024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kashmir-peaceful-ready-to-welcome-visitors-deputy-cm/articleshow/127567406.cms",
-    "time": "2026-01-26T18:09:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kashmir braces for heavy snowfall after last week’s spell",
-    "desc": "Jammu and Kashmir is preparing for more heavy snowfall. A western disturbance is expected to bring snow starting Monday evening. This could affect flights and the Jammu-Srinagar highway. Moderate to heavy snowfall is forecast for most of Kashmir and higher Jammu regions on Tuesday. Light rain and higher-reach snow are possible Wednesday.",
-    "img": "https://static.toiimg.com/photo/msid-127567285,imgsize-1115459.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kashmir-braces-for-heavy-snowfall-after-last-weeks-spell/articleshow/127567195.cms",
-    "time": "2026-01-26T18:05:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Insensitive and insulting’: BJP says Rahul Gandhi declined to wear Assamese Gamosa; Congress counters",
-    "desc": "The BJP has criticized Rahul Gandhi for allegedly not wearing an Assamese 'Gamosa' at a Republic Day reception, with Assam's CM demanding an apology. Congress countered by questioning why Defence Minister Rajnath Singh wasn't also asked to wear it, accusing the BJP of trivial politics and highlighting alleged disrespect towards their leaders at the parade.",
-    "img": "https://static.toiimg.com/photo/msid-127567290,imgsize-943809.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/insensitive-and-insulting-bjp-says-rahul-gandhi-declined-to-wear-assamese-gamosa-congress-counters/articleshow/127567076.cms",
-    "time": "2026-01-26T18:04:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Train to Pahalgam faces backlash; NC, PDP ask railway minister to rethink",
-    "desc": "A proposed railway line from Bijbehara to Pahalgam in Jammu and Kashmir is facing strong opposition from local residents and political figures. Concerns are mounting over the project's impact on vast agricultural and apple orchard lands, threatening livelihoods. Leaders are urging the central government to reconsider the plan, citing existing infrastructure and the project's perceived lack of benefit.",
-    "img": "https://static.toiimg.com/photo/msid-127567069,imgsize-1829644.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/train-to-pahalgam-faces-backlash-nc-pdp-ask-railway-minister-to-rethink/articleshow/127566903.cms",
-    "time": "2026-01-26T18:01:15.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Census 2027",
     "desc": "Opposition parties such as the Congress and Samajwadi Party had questioned BJP-led Union government over absence of expanded caste column in the questionnaire of the first phase of Census published last week; however, officials say caste will be enumerated only in the second and final phase",
     "img": "https://th-i.thgim.com/public/incoming/24q7jy/article70554132.ece/alternates/LANDSCAPE_1200/6744_26_11_2025_13_39_45_1_04_RVM_1129.JPG",
@@ -241,15 +376,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/pm-modi-thanks-leaders-of-france-bhutan-cyprus-for-republic-day-greetings/article70554022.ece",
     "time": "2026-01-26T17:04:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Stagger station revamp to prioritise funding of rail corridors, govt panel tells railways",
-    "desc": "An inter-ministerial panel has advised Indian Railways to stagger station redevelopment projects, prioritizing funding for programmatic corridors. The panel also recommended linking station development expenditure to revenue generation, including user charges, and suggested rolling out Integrated Station Facility Managers to maximize income from station assets.",
-    "img": "https://static.toiimg.com/photo/msid-127564099,imgsize-60220.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/stagger-station-revamp-to-prioritise-funding-of-rail-corridors-govt-panel-tells-railways/articleshow/127563713.cms",
-    "time": "2026-01-26T17:03:40.000Z"
   },
   {
     "cat": "Sports",
@@ -295,24 +421,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/karnataka/bmrcl-begins-beautification-drive-under-pink-line-on-bannerghatta-road/article70549393.ece",
     "time": "2026-01-26T15:37:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Agriculture scientists and innovative farmers get Padma Shri boost for their pioneering efforts",
-    "desc": "In a grand tribute to innovation in agriculture, nine distinguished individuals have been honored with the Padma Shri. Among them are esteemed scientists and passionate farmers, recognized for their impactful work ranging from the creation of superior rice strains and genome-editing breakthroughs to the promotion of unique cultivation methods such as Makhana farming.",
-    "img": "https://static.toiimg.com/photo/msid-127558585,imgsize-1395887.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/agriculture-scientists-and-innovative-farmers-get-padma-shri-boost-for-their-pioneering-efforts/articleshow/127558359.cms",
-    "time": "2026-01-26T15:10:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Colonial mindset’: Padma Shri row over cow dung, urine remarks; Sridhar Vembu backs IIT Madras director",
-    "desc": "A political row erupted on social media after the Congress questioned IIT Madras director V Kamakoti's Padma Shri award, linking it to research on cow dung and urine. Zoho founder Sridhar Vembu strongly defended Kamakoti, highlighting his deep tech expertise and the scientific potential of traditional substances, criticizing a \"slavish colonial mindset.\"",
-    "img": "https://static.toiimg.com/photo/msid-127557803,imgsize-56304.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/colonial-mindset-padma-shri-row-over-cow-dung-urine-remarks-sridhar-vembu-backs-iit-madras-director/articleshow/127557236.cms",
-    "time": "2026-01-26T14:54:46.000Z"
   },
   {
     "cat": "Sports",
@@ -367,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/menopause-is-not-that-generous-says-twinkle-khanna-as-she-opens-up-about-womens-health-in-her-50s-shares-tips-to-deal-with-it/articleshow/127553849.cms",
     "time": "2026-01-26T13:39:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Insult to Maharashtra’: Oppn slams Padma Bhushan for Koshiyari; ex-governor shrugs off criticism",
-    "desc": "Opposition leaders slammed the Centre's decision to award Padma Bhushan to former Maharashtra Governor Bhagat Singh Koshiyari, citing his alleged role in toppling the MVA government and insulting state icons. However, CM Devendra Fadnavis defended the award, highlighting Koshiyari's societal contributions and work for development.",
-    "img": "https://static.toiimg.com/photo/msid-127553890,imgsize-951332.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/insult-to-maharashtra-oppn-slams-padma-bhushan-for-koshiyari-ex-governor-shrugs-off-criticism/articleshow/127553921.cms",
-    "time": "2026-01-26T13:34:22.000Z"
   },
   {
     "cat": "Sports",
@@ -459,24 +558,6 @@ const newsData_en = [
     "time": "2026-01-26T11:04:34.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Brooklyn Beckham and Nicola Peltz combined net worth",
-    "desc": "As family dynamics unfold, the spotlight shines brightly on Brooklyn Beckham and Nicola Peltz, whose combined fortune of $60 million is generating buzz. Brooklyn's diverse ventures add $10 million to the pot, while Nicola, backed by the wealth of billionaire Nelson Peltz, showcases an impressive $50 million. Their affluent background only heightens the intrigue surrounding the couple's financial narrative.",
-    "img": "https://static.toiimg.com/photo/msid-127542757,imgsize-712225.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brooklyn-beckham-and-nicola-peltz-combined-net-worth-a-look-at-their-usd-60-million-financial-empire/articleshow/127542757.cms",
-    "time": "2026-01-26T11:04:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "SRK says 'our country teaches us there is strength and unity in diversity'",
-    "desc": "Shah Rukh Khan celebrated India's Republic Day with a heartfelt message on unity. His upcoming film 'King,' marking his first collaboration with daughter Suhana Khan and director Siddharth Anand, has generated immense buzz. The film's first look and December 24, 2025 release date, set against a major Hollywood release, have fueled fan excitement and speculation about SRK's evolving on-screen persona.",
-    "img": "https://static.toiimg.com/photo/msid-127545055,imgsize-33134.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-says-our-country-teaches-us-there-is-strength-and-unity-in-diversity/articleshow/127545055.cms",
-    "time": "2026-01-26T10:51:53.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Private space firms seek procurement push, critical infrastructure status for sector",
     "desc": "India's burgeoning private space sector urges the government to boost public procurement and recognize space assets as critical infrastructure. This move aims to unlock financing, reduce capital costs, and accelerate the growth of domestic companies in satellites, launch vehicles, and data services, positioning India as a global space leader.",
@@ -538,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/off-the-field/republic-day-sports-fraternity-says-let-us-honour-our-constitution/articleshow/127540855.cms",
     "time": "2026-01-26T09:34:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Sensex, Nifty slide over 4% in January amid FPI sell-off, rupee weakness and global risks",
-    "desc": "Indian equity indices Sensex and Nifty have seen significant declines in January, exceeding 4%, driven by consistent foreign fund outflows and a weakening rupee. Geopolitical tensions, tariff concerns, and muted corporate earnings have further pressured the market, leading to a cautious start to the year.",
-    "img": "https://static.toiimg.com/photo/msid-127541192,imgsize-1357624.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-nifty-slide-over-4-in-january-amid-fpi-sell-off-rupee-weakness-and-global-risks/articleshow/127540749.cms",
-    "time": "2026-01-26T09:27:08.000Z"
   },
   {
     "cat": "Sports",
@@ -646,15 +718,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/tata-steel-masters-gukesh-slumps-to-another-defeat-against-giri/article70551800.ece",
     "time": "2026-01-26T04:08:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What makes Sunrisers a sporting dynasty",
-    "desc": "Sunrisers Eastern Cape pulled off a sensational last-over heist to beat Pretoria Capitals by six wickets and win the fourth edition of the SA20. It was their third title, having also finished runners-up last year. From the auction to structure, SEC are, undoubtedly, T20 franchise cricket's sporting dynasty.",
-    "img": "https://static.toiimg.com/photo/msid-127524530,imgsize-153246.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/sa20/sa20-what-makes-sunrisers-eastern-cape-a-sporting-dynasty-a-well-balanced-team/articleshow/127523836.cms",
-    "time": "2026-01-26T03:59:59.000Z"
   },
   {
     "cat": "Sports",
@@ -835,68 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/tennis/australian-open-2026-jannik-sinner-battles-cramp-heat-to-reach-fourth-round/article70545481.ece",
     "time": "2026-01-24T06:27:43.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran will treat any attack as 'all-out war against us,' says senior official",
-    "desc": "“This military buildup - we hope it is not intended for real confrontation - but our military is ready for the worst-case scenario. This is why everything is on high ​alert in Iran,” the official said",
-    "img": "https://th-i.thgim.com/public/incoming/3cyxdj/article70545467.ece/alternates/LANDSCAPE_1200/2026-01-22T135022Z_1564480101_RC2B6JAZP6TI_RTRMADP_3_SAFRICA-PROTEST-USA-EMBASSY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-will-treat-any-attack-as-all-out-war-trump-us-armada-official/article70545461.ece",
-    "time": "2026-01-24T06:12:04.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Ukraine, Russia hold first direct talks on latest U.S. peace plan",
-    "desc": "The U.S. initially drafted a plan to end the conflict that was heavily criticised in Kyiv and western Europe for being too close to Russia's line, while later proposals were criticised by Moscow for floating the idea of European peacekeepers",
-    "img": "https://th-i.thgim.com/public/incoming/hztrp/article70544331.ece/alternates/LANDSCAPE_1200/2026-01-23T193143Z_913083105_RC217JA1H0DX_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-EMIRATES-TALKS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/ukraine-russia-hold-first-direct-talks-on-latest-us-peace-plan/article70544329.ece",
-    "time": "2026-01-23T22:55:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lanka gets the better of England in the opening ODI",
-    "desc": "England overcame the early loss of Zak Crawley, who made a disappointing return to 50-over format after more than two years when he nicked Asitha Fernando behind wickets after scoring just 6 runs in his comeback game",
-    "img": "https://th-i.thgim.com/public/incoming/vqfxiz/article70544277.ece/alternates/LANDSCAPE_1200/TH23-CITY-INSTAGVIFFPFK7.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/sri-lanka-gets-the-better-of-england-in-the-opening-odi/article70544202.ece",
-    "time": "2026-01-23T21:32:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit on 13-year ICC title drought",
-    "desc": "The former captain, who currently plays in the ODIs only, said the team management headlined by him and former head coach Rahul Dravid wanted to remove the fear by giving everyone freedom and clarity in their roles",
-    "img": "https://th-i.thgim.com/public/incoming/vx5i7x/article70544199.ece/alternates/LANDSCAPE_1200/6744_19_1_2026_9_27_19_1_111_RVM_1718.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/fear-of-failure-might-have-crept-into-all-of-us-rohit-on-13-year-icc-title-drought/article70544198.ece",
-    "time": "2026-01-23T21:19:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sindhu, Lakshya lose in quarterfinals; Indian challenge ends in Indonesia Masters",
-    "desc": "Sindhu, a two-time Olympic medallist, lost to top seed and world number four Chen Yu Fei of China 13-21 17-21 in the quarterfinal contest that lasted 42 minutes to bow out of the Super 500 event",
-    "img": "https://th-i.thgim.com/public/incoming/joq07x/article70544197.ece/alternates/LANDSCAPE_1200/PTI01_14_2026_000566A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/sindhu-lakshya-lose-in-quarterfinals-indian-challenge-ends-in-indonesia-masters/article70544195.ece",
-    "time": "2026-01-23T21:04:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh appeal can't be heard by ICC's DRC; Scotland to be named as replacement by January 24",
-    "desc": "Even as the ICC has kept Scotland on stand-by, the BCB under Aminul Islam Bulbul, after being completely cornered, decided to use its last resort — approach the DRC headed by Englishman Michael Beloff (Kings Counsel)",
-    "img": "https://th-i.thgim.com/public/sport/tennis/p2t4mc/article70545230.ece/alternates/LANDSCAPE_1200/MichaelBeloff.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/bangladesh-appeal-cant-be-heard-by-iccs-drc-scotland-to-be-named-as-replacement-by-january-24/article70544129.ece",
-    "time": "2026-01-23T19:30:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Linkin Park’s debut tour of India kicks off with a performance in Bengaluru",
-    "desc": "The American rock band took the stage as part of the From Zero World Tour. The standalone gig was a power-packed performance with songs from the band'’ new album, and chart toppers Numb and In The End",
-    "img": "https://th-i.thgim.com/public/news/cities/bangalore/rvvvdi/article70545422.ece/alternates/LANDSCAPE_1200/PG_LP_BLR_23JAN10.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/linkin-parks-debut-tour-of-india-kicks-off-with-a-performance-in-bengaluru/article70532992.ece",
-    "time": "2026-01-23T19:07:30.000Z"
   }
 ];
