@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "প্লেব্যাক গান আর গাইবেন না অরিজিৎ সিং! কী হবে? ভক্তদের বিস্ময়ের ঘোর কাটছে না! ঠিক শুনছেন?",
+    "desc": "Arijit Singh| চলচ্চিত্র জগতের জন্য বড় চমক। জনপ্রিয় গায়ক অরিজিৎ সিং সিনেমার প্লেব্যাক গায়ক হিসেবে অবসর নেওয়ার ঘোষণা করলেন। মঙ্গলবার, ২৭ জানুয়ারি, নিজের ব্যক্তিগত সোশ্যাল মিডিয়া অ্যাকাউন্টে এক আবেগঘন পোস্টের মাধ্যমে এই সিদ্ধান্তের কথা জানান ৩৮ বছর বয়সি শিল্পী। প্লেব্যাক ছাড়লেন গায়ক অরিজিৎ সিং, পোস্ট দেখে স্তম্ভিত গুণমুগ্ধরা | Bangla News অরিজিৎ সিং ২৭ জানুয়ারি সোশ্যাল মিডিয়ায় প্লেব্যাক গায়ক হিসেবে অবসর ঘোষণা করলেন। ভক্তরা বিস্মিত ও ভবিষ্যতের সংগীত যাত্রার জন্য শুভেচ্ছা জানিয়েছেন!",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/08/WhatsApp-Image-2025-08-14-at-6.09.10-PM-2025-08-041a68cffc5d9d293d51bfabe1f37d69-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/entertainment/bangla-hindi-popular-singer-arijit-singh-announces-retirement-from-playback-songs-fans-surprised-tib-ws-l-2515123.html",
+    "time": "2026-01-27T16:52:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "অনলাইনে অশ্লীলতা ঠেকাতে বিধিনিষেধ তৈরির কথা ভাবছে কেন্দ্র, কী কী থাকতে পারে সেই নিয়মে?",
+    "desc": "একটি ইংরেজি সংবাদমাধ্যমে প্রকাশিত রিপোর্ট অনুযায়ী, কেন্দ্র সরকার অনলাইন কনটেন্টে অশ্লীলতা নিয়ে খসড়া নিয়ম চালুর কথা ভাবছে। এই খসড়া IT (Digital Code) Rules, ২০২৬-এ কিছু বিধিনিষেধ চালু করবে – ধর্ম বা সম্প্রদায়ের উপর আক্রমণ, উস্কানি দেওয়া, মিথ্যা ও ইঙ্গিতপূর্ণ মন্তব্য ইত্যাদি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/06/phone-28-2025-06-af4315aad0f2dbf12f30fcb3d04225ed-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/govt-of-india-to-bring-draft-it-rules-for-tacklling-obscene-content-what-are-inside-the-rules-rdp-2515030.html",
+    "time": "2026-01-27T15:31:33.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "‘স্বামী নয়, চিতায় আগুন দেবে আমার ৩ বছরের মেয়ে...’,চোখে জল আনা চিঠি লিখে রেখে নিজেকে শেষ করলেন শিক্ষিকা",
     "desc": "বলেছেন যে তাঁর ৫.৫ লিটার দুধের দাম মেটানো বাকি ছিল, সেই টাকা যেন তাঁর পার্স থেকে নিয়ে নেওয়া হয়। সোমবার রাতে সেহান গ্রামে তাঁর ভাড়া বাড়িতে ৩০ বছর বয়সি প্রিয়া ভারতীর ঝুলন্ত দেহ পাওয়া যায়।",
@@ -639,15 +657,6 @@ const newsData_bn = [
     "time": "2026-01-20T12:46:48.000Z"
   },
   {
-    "cat": "World",
-    "title": "এত বাড় বেড়ে সেই ভারতেরই ভাত খেয়ে বাঁচতে হবে ইউনূসের বাংলাদেশকে! ২ লক্ষ টন চাল আনতে উদ্যোগী ঢাকা...",
-    "desc": "খারিফ ও রবি মরশুমে ধান উৎপাদনে ঘাটতির কারণে বাংলাদেশের অভ্যন্তরীণ বাজারে চালের দাম উল্লেখযোগ্যভাবে বেড়েছে। পরিস্থিতি সামাল দিতে গত বছর আগস্টে ৫ লক্ষ এবং নভেম্বর মাসে আরও ১ লক্ষ মেট্রিক টন চাল আমদানির অনুমতি দিয়েছিল বাংলাদেশ সরকার। এবার তৃতীয় দফায় আরও ২ লক্ষ মেট্রিক টন চাল আমদানির সবুজ সংকেত দেওয়া হল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/bangladesh-is-finally-going-to-import-rice-from-india-through-hili-border-as-there-are-scarcity-of-rice_636479.html ",
-    "time": "2026-01-20T12:26:05.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "বিনা প্রতিদ্বন্দ্বিতায় পদে, BJPর সর্বকনিষ্ঠ সভাপতির দায়িত্বে ৪৫ বছরের নিতিন ‍",
     "desc": "এদিনের অনুষ্ঠানে উপস্থিত ছিলেন প্রধানমন্ত্রী নরেন্দ্র মোদি, বিদায়ী বিজেপি সভাপতি জেপি নাড্ডা, প্রতিরক্ষামন্ত্রী রাজনাথ সিং, বিদেশমন্ত্রী এস জয়শঙ্কর এবং বেশ কয়েকজন কেন্দ্রীয় মন্ত্রী সহ বিজেপির জ্যেষ্ঠ নেতারা। নতুন দায়িত্ব পাওয়ার পরে তাঁকে শুভেচ্ছা জানান প্রধানমন্ত্রী নরেন্দ্র মোদিও৷",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/technology/battery-life-of-smartphone-why-phone-battery-drains-even-when-not-used-reasons-and-fixes-bengali-sal-2502777.html",
     "time": "2026-01-18T11:50:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "জানুন PPF, NSC ও SCSS-এর সর্বশেষ সুদের হার—জানুয়ারি থেকে মার্চ ২০২৬",
-    "desc": "অর্থ মন্ত্রক আজ (৩১ ডিসেম্বর, ২০২৫) অনুষ্ঠিত ত্রৈমাসিক পর্যালোচনা বৈঠকে পাবলিক প্রভিডেন্ট ফান্ড (PPF), সিনিয়র সিটিজেন সেভিংস স্কিম (SCSS), ন্যাশনাল সেভিংস সার্টিফিকেট (NSC) এবং সুকন্যা সমৃদ্ধি অ্যাকাউন্ট (SSY)–এর সুদের হারে কোনো পরিবর্তন করেনি। পোস্ট অফিস স্কিম নামে পরিচিত এই ছোট সঞ্চয় প্রকল্পগুলোর নতুন সুদের হার জানুয়ারি–মার্চ ত্রৈমাসিকের জন্য প্রযোজ্য হবে…",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ppf-3-new-2026-01-6e99dd114e2bcf4bc348b85ecdc18418-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/have-ppf-nsc-scss-interest-rates-changed-for-january-march-2026-check-latest-rates-of-small-savings-scheme-announced-today-smc-2502391.html",
-    "time": "2026-01-18T11:38:10.000Z"
   }
 ];

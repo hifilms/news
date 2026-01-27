@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sophie Devine spoils DC's party yet again as GG secure nail-biter in WPL 2026",
+    "desc": "Just like she did in their first meeting in WPL 2026, Gujarat Giants veteran all-rounder Sophie Devine denied Delhi Capitals a famous win yet again and this time at the BCA Stadium, Kotambi, Vadodara, on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sophie-devine-spoils-dcs-party-yet-again-as-gg-secure-nail-biter-in-wpl-2026-2026-01-27-1027725",
+    "time": "2026-01-27T18:28:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rahul Dravid decodes reason for India's poor run of form in Test cricket lately",
+    "desc": "Former India captain and head coach Rahul Dravid has raised concerns over the preparation of modern Indian batters in Test cricket, pointing to the packed international calendar as a key factor behind recent struggles in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rahul-dravid-decodes-reason-for-india-s-poor-run-of-form-in-test-cricket-lately-2026-01-27-1027723",
+    "time": "2026-01-27T18:10:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What is it and why is it extremely vital in IPL?",
+    "desc": "As Indian Premier League franchises shift focus from the auction room to squad management, attention has turned to the Registered Available Player Pool, commonly known as the RAPP. While not widely discussed among fans, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-release-rapp-sheet-what-is-it-and-why-is-it-extremely-vital-in-ipl-2026-01-27-1027716",
+    "time": "2026-01-27T17:30:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India hammer Zimbabwe before clash against Pakistan in U19 World Cup",
+    "desc": "India Under-19 continued their commanding march in the ongoing U19 World Cup 2026 by overpowering hosts Zimbabwe with a massive 204-run victory in their opening Super Six fixture at the Queen’s Sports Club in Bulawayo...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-hammer-zimbabwe-before-clash-against-pakistan-in-u19-world-cup-2026-01-27-1027714",
+    "time": "2026-01-27T17:11:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When will Novak Djokovic and Jannik Sinner play their quarterfinals at Australian Open 2026? Check timings",
+    "desc": "Serb legend Novak Djokovic and two-time defending Australian Open champion Jannik Sinner will be in action on Wednesday, January 28, in their respective quarterfinals as they keep their bid for the title alive. Djokovic, a 10-time...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/when-will-novak-djokovic-and-jannik-sinner-play-their-quarterfinals-at-australian-open-2026-check-timings-2026-01-27-1027711",
+    "time": "2026-01-27T16:49:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Africa look to chase 174 to take series lead in Parl",
+    "desc": "South Africa lock horns against the West Indies in a three-match T20I series at home as they look to fine-tune their final preparations for the T20 World Cup 2026. The Proteas lost the five-match T20I...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sa-vs-wi-1st-t20i-live-cricket-score-south-africa-vs-west-indies-boland-park-paarl-latest-match-updates-teams-playing-xis-scorecard-2026-01-27-1027708",
+    "time": "2026-01-27T15:46:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former PCB secretary questions Board's 'purpose' for Pakistan's potential T20 World Cup pull out",
     "desc": "Former Pakistan players and ex-Pakistan Cricket Board officials have questioned their board over a potential pullout from the T20 World Cup 2026 in support of Bangladesh. Pakistan chairman Mohsin Naqvi had threatened to withdraw from the...",
     "img": "",
@@ -28,65 +82,11 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Giants look for strong start after being inserted in",
+    "title": "Gujarat Giants beat Delhi Capitals by three runs as Devine stars",
     "desc": "Gujarat Giants are up against the Delhi Capitals in the 17th match of the Women's Premier League 2026 at the BCA Stadium, Kotambi, Vadodara. The race for the playoffs has been red-hot with four teams vying...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/gg-vs-dc-wpl-2025-live-cricket-score-gujarat-giants-vs-delhi-capitals-bca-stadium-kotambi-vadodara-latest-match-updates-scorecard-playing-xis-2026-01-27-1027687",
     "time": "2026-01-27T14:01:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gayle, Cook open for Maharashtra",
-    "desc": "Match 3 of the ongoing World Legends Pro T20 League 2026 will take place between the Maharashtra Tycoons and the Rajasthan Lions at the 1919 Sportz Cricket Stadium in Goa. The match will feature multiple...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/maharashtra-tycoons-vs-rajasthan-lions-world-legends-pro-t20-league-2026-live-today-in-goa-chris-gayle-suresh-raina-dinesh-karthik-dale-steyn-cook-1027685",
-    "time": "2026-01-27T13:37:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jos Buttler becomes second England cricketer to achieve legendary feet, set to surpass James Anderson",
-    "desc": "England keeper‑batter Jos Buttler has reached a rare milestone in his international career, becoming only the second player in England history to feature in 400 international matches across Tests, ODIs and T20Is. Buttler achieved the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-becomes-second-england-cricketer-to-achieve-legendary-feet-set-to-surpass-james-anderson-to-become-number-1-2026-01-27-1027681",
-    "time": "2026-01-27T13:13:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Formula 1 legend no longer bedridden after 2013 ski accident",
-    "desc": "In a major health update on Michael Schumacher, the Formula One legend is no longer bedridden, the Daily Mail reported. Schumacher, who suffered a horrific crash while skiing in December 2013, has reportedly shown rare...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/formula-1/michael-schumacher-health-update-formula-1-legend-no-longer-bedridden-after-2013-ski-accident-2026-01-27-1027678",
-    "time": "2026-01-27T12:49:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is he? Know all about the RCB prodigy",
-    "desc": "Vihaan Malhotra delivered a standout performance in the U19 World Cup 2026 match against Zimbabwe, remaining unbeaten on 109 from 107 balls at the Queens Sports Club in Bulawayo. Led by Ayush Mhatre, India made...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vihaan-malhotra-smacks-century-in-u19-world-cup-who-is-he-know-all-about-the-rcb-prodigy-2026-01-27-1027672",
-    "time": "2026-01-27T12:10:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Carlos Alcaraz equals Bjorn Borg, Rafael Nadal's historic record as he enters in maiden Australian Open semis",
-    "desc": "Spanish sensation Carlos Alcaraz has equalled a historic record jointly held by legends Bjorn Borg, Rafael Nadal, and Boris Becker as he made his way into the Australian Open semifinals for the first time in his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-equals-bjorn-borg-rafael-nadals-historic-record-as-he-enters-in-maiden-australian-open-semis-2026-01-27-1027669",
-    "time": "2026-01-27T11:52:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Man Utd's Patrick Dogru ruled out for 10 weeks after stunner against Arsenal in Premier League",
-    "desc": "Manchester United are preparing to cope without Patrick Dorgu for an extended period after the young forward suffered a hamstring injury that is expected to sideline him for around 10 weeks, as The Athletic reported....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/man-utd-s-patrick-dogru-ruled-out-for-10-weeks-after-stunner-against-arsenal-in-premier-league-2026-01-27-1027663",
-    "time": "2026-01-27T11:36:35.000Z"
   }
 ];

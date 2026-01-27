@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "અરિજિત સિંહે પ્લેબેક સિંગિંગમાંથી કેમ લીધો સંન્યાસ, સલમાન ખાન માટે ગાયું છેલ્લું ગીત? જાણો",
+    "desc": "અરિજિત સિંહે છેલ્લા 15 વર્ષના કરિયરમાં એવા અનેક ગીતો આપ્યા છે જે ફેન્સ સતત સાંભળતા રહે છે. જો કે, હવે અરિજીત સિંહના અવાજને પસંદ કરનારાઓના દિલ તૂટવાના છે, કારણ કે બોલિવૂડના ફેવરિટ સિંગરે પ્લેબેક સિંગિંગમાંથી રિટાયરમેન્ટની જાહેરાત કરી દીધી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/arijit-singh-retirement-reason-arijit-singh-announces-retirement-from-playback-singing-last-song-for-salman-khan-463095 ",
+    "time": "2026-01-27T18:04:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "પહેલા દિવસે જ સંપૂર્ણપણે ભરાઈ ગયો આ IPO, પ્રાઇસ બેન્ડ છે ₹64, જાણો GMP",
+    "desc": "આ આખો IPO એક નવા શેરનો છે, એટલે કે ઓફર ફોર સેલ નથી, અને કુલ 28 લાખ નવા શેર જાહેર કરવામાં આવી રહ્યા છે. 30 જાન્યુઆરીએ ફાળવણી થવાની ધારણા છે, જ્યારે શેર 1 ફેબ્રુઆરીએ સફળ રોકાણકારોના ડીમેટ ખાતામાં જમા થવાની ધારણા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/this-ipo-was-completely-filled-on-the-first-day-itself-the-price-band-is-rs-64-know-gmp-463088 ",
+    "time": "2026-01-27T15:56:52.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "ATMમાંથી પૈસા કપાયા ગયા પણ મળ્યા નહીં? તરત કરો આ કામ, આ રીતે પાછા મળશે પૂરા પૈસા",
     "desc": "મશીનમાંથી પૈસા ઉપાડવાનો પ્રયાસ કરતી વખતે તમારા ખાતામાંથી પૈસા ઉપડી જવાનો અનુભવ થવો સામાન્ય છે, પરંતુ રોકડ ATMમાંથી બહાર આવતી નથી. તો તમારે તમારા પૈસા પાછા કેવી રીતે મેળવવા, બેંક ફરિયાદ કેવી રીતે નોંધાવવી અને RBIના નિયમો અનુસાર તમને મળતા ડિસ્કાઉન્ટ વિશે જાણો.",
@@ -370,15 +388,6 @@ const newsData_gu = [
   },
   {
     "cat": "Politics",
-    "title": "પદ્મ એવોર્ડસની જાહેરાત: રોહિત શર્માને પદ્મશ્રી, જ્યારે ગુજરાતને આ લોકોને સન્માન, જુઓ લિસ્ટ",
-    "desc": "પ્રજાસત્તાક દિવસની પૂર્વ સંધ્યાએ પદ્મ પુરસ્કારોની જાહેરાત કરવામાં આવી છે. આ વર્ષે 113 લોકોને પદ્મશ્રી, 5ને પદ્મ વિભૂષણ અને 13ને પદ્મ વિભૂષણથી સન્માનિત કરવામાં આવ્યા છે. રોહિત શર્માને પણ પદ્મ શ્રીથી સન્માનિત કરવામાં આવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/rohit-sharma-gets-padma-shri-while-gujarat-honours-these-people-see-list-462891 ",
-    "time": "2026-01-25T15:31:04.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "27 દેશો અને 22 ટ્રિલિયન ડોલરની તાકત, યુરોપની &amp;#039;પાવર લેડી&amp;#039; દિલ્હીમાં હાજર... એવું શું ખાસ છે કે ટ્રમ્પ અને જિનપિંગ બંને છે હેરાન?",
     "desc": "ભારત સૌથી મોટા કરાર પર હસ્તાક્ષર કરવા જઈ રહ્યું છે. ભારત અને યુરોપિયન યુનિયન વચ્ચે મધર ઓફ પર ડીલ પર સાઈન થવાની છે. આ વેપાર કરારથી ભારત યુરોપિયન દેશોમાં વેપારને ઝડપી બનાવશે. જેના કારણે ભારત વધારે માલની સપ્લાય કરી શકશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -394,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/finn-allen-incredible-batting-in-bbl-15-final-as-perth-scorchers-beat-sydney-sixers-in-final-to-clinch-6th-title-462885 ",
     "time": "2026-01-25T12:28:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "2 દિવસમાં IPO 100% ભરાઈ ગયો આ IPO, ગ્રે માર્કેટે વધાર્યું ટેન્શન, રોકાણ કરવા હજી છે તક",
-    "desc": "આ કંપનીના IPOને સારો પ્રતિસાદ મળ્યો છે. કંપનીનો IPO પહેલા બે દિવસમાં સંપૂર્ણ રીતે સબસ્ક્રાઇબ થયો હતો. આ SME IPO પહેલા દિવસે 1.36 વખત સબસ્ક્રાઇબ થયો હતો. રિટેલ કેટેગરીમાં IPO 1.18 વખત સબસ્ક્રાઇબ થયો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/ipo-100-percent-filled-in-2-days-this-ipo-gray-market-increased-tension-there-is-still-an-opportunity-to-invest-462876 ",
-    "time": "2026-01-25T12:00:09.000Z"
   },
   {
     "cat": "World",
@@ -637,14 +637,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/write-article-on-x-and-become-a-millionaire-elon-musk-462059 ",
     "time": "2026-01-18T06:00:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "બિગ બોસને ટક્કર મારે તેવો રિયાલિટી શો લઈને આવી રહી છે ફરાહ ખાન, જાણો ક્યારથી થશે શરુ?",
-    "desc": "જો તમે બિગ બોસ જોવાના શોખીન છો તો તમને મજા પડી જાય તેવો રિયાલિટી શો ટુંક સમયમાં જોવા મળશે. આ રિયાલિટી શો ફરાહ ખાન લઈને આવી રહી છે અને તેના વિશે કહેવાય રહ્યું છે કે આ શો બિગ બોસ અને ખતરોં કે ખિલાડીને પણ ટક્કર મારે તેવો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/farah-khan-upcoming-reality-show-the-50-contestant-list-of-the-show-the-50-462021 ",
-    "time": "2026-01-17T13:23:12.000Z"
   }
 ];
