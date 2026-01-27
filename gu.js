@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "ATMમાંથી પૈસા કપાયા ગયા પણ મળ્યા નહીં? તરત કરો આ કામ, આ રીતે પાછા મળશે પૂરા પૈસા",
+    "desc": "મશીનમાંથી પૈસા ઉપાડવાનો પ્રયાસ કરતી વખતે તમારા ખાતામાંથી પૈસા ઉપડી જવાનો અનુભવ થવો સામાન્ય છે, પરંતુ રોકડ ATMમાંથી બહાર આવતી નથી. તો તમારે તમારા પૈસા પાછા કેવી રીતે મેળવવા, બેંક ફરિયાદ કેવી રીતે નોંધાવવી અને RBIના નિયમો અનુસાર તમને મળતા ડિસ્કાઉન્ટ વિશે જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/money-was-deducted-from-atm-but-not-received-this-way-you-will-get-the-money-back-in-full-463085 ",
+    "time": "2026-01-27T14:45:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "UGC વિવાદ પર મોદી સરકારનું પહેલું નિવેદન, જાણો સરકારે શું કહ્યું",
+    "desc": "ધર્મેન્દ્ર પ્રધાને કહ્યું કે કોઈની સાથે કોઈ ભેદભાવ કરવામાં આવશે નહીં અને કોઈને તેનો દુરુપયોગ કરવાની મંજૂરી આપવામાં આવશે નહીં. તેમનું નિવેદન મહત્વપૂર્ણ છે કારણ કે હાલમાં UGC નિયમો અંગે દેશવ્યાપી ચર્ચા ચાલી રહી છે. એવું કહેવામાં આવી રહ્યું છે કે આનાથી ભાજપ માટે મુશ્કેલીઓ વધી શકે છે, જેની મજબૂત વોટ બેંક ઉચ્ચ જાતિ સમુદાય રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/modi-government-first-statement-on-ugc-controversy-know-what-the-government-said-463077 ",
+    "time": "2026-01-27T13:46:19.000Z"
+  },
+  {
     "cat": "Business",
     "title": "એવું શું થયું કે ભારતીય દારૂ કંપનીઓના શેર તૂટ્યા? જાણો કારણ",
     "desc": "ભારત અને યુરોપિયન યુનિયન (EU) વચ્ચે આજે એક ઐતિહાસિક કરાર પર હસ્તાક્ષર થયા. આ નવા મુક્ત વેપાર કરાર (FTA)થી ભારતમાં આયાત થતી યુરોપિયન વાઇન નોંધપાત્ર રીતે સસ્તી થશે. ભારતીય દારૂ કંપનીઓના શેર આજે ઘટ્યા છે.",
@@ -628,14 +646,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/farah-khan-upcoming-reality-show-the-50-contestant-list-of-the-show-the-50-462021 ",
     "time": "2026-01-17T13:23:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "WhatsApp કરવા જઈ રહ્યું છે મોટો ફેરફાર, Youtube જેવું આવશે ફીચર",
-    "desc": "WhatsApp વધુ એક મોટો ફેરફાર કરવાની તૈયારી કરી રહ્યું છે. મેસેજિંગ એપ ટૂંક સમયમાં એક ફીચર એડ કરશે, જે માતા-પિતાની ચિંતાઓને દૂર કરશે. આ નવી અપડેટ માતા-પિતાને તેમના બાળકોના WhatsApp એકાઉન્ટ્સ પર વધુ કંટ્રોલ આપશે, જેના કારણે તેઓ તેમની ઓનલાઈન સુરક્ષા અને પ્રાયવસીને વધુ સારી રીતે મેનેજ કરી શકશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/whatsapp-bringing-parental-control-features-to-safeguard-kids-461977 ",
-    "time": "2026-01-17T09:37:37.000Z"
   }
 ];

@@ -1,5 +1,50 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "‘স্বামী নয়, চিতায় আগুন দেবে আমার ৩ বছরের মেয়ে...’,চোখে জল আনা চিঠি লিখে রেখে নিজেকে শেষ করলেন শিক্ষিকা",
+    "desc": "বলেছেন যে তাঁর ৫.৫ লিটার দুধের দাম মেটানো বাকি ছিল, সেই টাকা যেন তাঁর পার্স থেকে নিয়ে নেওয়া হয়। সোমবার রাতে সেহান গ্রামে তাঁর ভাড়া বাড়িতে ৩০ বছর বয়সি প্রিয়া ভারতীর ঝুলন্ত দেহ পাওয়া যায়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/New-Project-1-2026-01-aefbf55f4d682c0e5af1f4151e686aeb-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/bihar-teacher-ended-her-life-leaving-a-last-note-arc-2514953.html",
+    "time": "2026-01-27T14:31:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "টি-২০ বিশ্বকাপে ব্যাটার বুমরাহের বিশ্বরেকর্ড! যা আজ পর্যন্ত কেউ পারেনি, এই নজির অনেকেই জানেন না",
+    "desc": "গত টি-২০ বিশ্বকাপে তারকা ফাস্ট বোলার জসপ্রীত বুমরাহ টুর্নামেন্ট জুড়ে নজরকাড়া বোলিং করেছিলেন। গুরুত্বপূর্ণ ম্যাচগুলোতে তিনি নিয়মিত উইকেট তুলে নিয়ে প্রতিপক্ষ দলের উপর চাপ সৃষ্টি করেছিলেন। তার ধারাবাহিক পারফরম্যান্স ভারতকে চ্যাম্পিয়ন হতে বড় সাহায্য করে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2024/06/BUMRAH-19-2024-06-417be12aa9fd99f9ea06f142184cef20-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/no-one-can-break-this-world-record-of-jasprit-bumrah-in-the-t20-world-cup-sup-2514952.html",
+    "time": "2026-01-27T14:27:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "২০২৬ সালেও নারী কেবল পণ্য! ভরা মঞ্চে শ্লীলতাহানি মৌনির, প্রতিবাদে বিস্ফোরক শুভশ্রী...",
+    "desc": "সম্প্রতি হরিয়ানার কর্নালে এক স্টেজ পারফরম্যান্স করতে গিয়ে চরম অশালীন আচরণের মুখে পড়েন মৌনী। ঘটনার প্রতিবাদে মুখ খোলেন শুভশ্রীও। মৌনিকে সাহসী যোদ্ধা আখ্যা দিয়ে তিনি আরও বলেন, \"তুমি সমস্ত লাঞ্ছিত নারীর প্রতিনিধি হয়ে প্রতিবাদ করেছ। তোমার এই শক্তি অটুট থাকুক।\"",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/subhashree-ganguly-supports-mouni-roy-harassment-incident_637738.html ",
+    "time": "2026-01-27T14:21:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "টি-২০ ক্রিকেটে বিশ্বের কোনও ব্যাটার যা পারেনি, এমন জোড়া বিশ্বরেকর্ড এবার অভিষেক শর্মার দখলে",
+    "desc": "নিউজিল্যান্ডের বিরুদ্ধে তৃতীয় টি–টোয়েন্টি ম্যাচে দুর্দান্ত ব্যাটিং করেন অভিষেক শর্মা। ১৫৪ রানের লক্ষ্য তাড়া করতে নেমে ভারতের হয়ে ইনিংস ওপেন করেন তিনি। মাত্র ২০ বল খেলে অপরাজিত ৬৮ রান করে দলকে সহজ জয় এনে দেন এই বাঁহাতি ব্যাটার।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Abhishek-Sharma-43-2026-01-a6b55f6953fd624f026aff2f183edaf0-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/abhishek-sharma-breaks-world-record-becomes-the-highest-run-scorer-in-men-s-t20-match-without-facing-a-dot-ball-in-ind-vs-nz-3rd-t20-sup-2514827.html",
+    "time": "2026-01-27T13:21:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "মানুষের জন্য তৈরি রাস্তাঘাট দখল করে যত্রতত্র ভগবান বসে গেলে বিপদ! এই জবরদখল মানা যায় না: হাইকোর্ট",
+    "desc": "আদালত আবেদনকারী শরতের পক্ষে রায় দিয়ে জানায় যে, যেহেতু মূর্তিটি পাবলিক রোডের উপর, তাই তিনি এটি সরানোর দাবি করার পূর্ণ অধিকার রাখেন। আদালত কর্তৃপক্ষকে নির্দেশ দেয় যে, ওই অবৈধ কাঠামো সরানোর জন্য তারা যে আইনি প্রক্রিয়া শুরু করেছে, তা যেন দ্রুত কার্যকর করা হয়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/madras-hc-orders-removal-of-christian-shrine-of-mother-velankanni-in-chennai-rules-against-religious-encroachment-on-public-roads_637701.html ",
+    "time": "2026-01-27T13:18:57.000Z"
+  },
+  {
     "cat": "World",
     "title": "'ইউনূস সুদখোর, খুনি, বিশ্বাসঘাতক!' তীব্র আক্রমণ শেখ হাসিনার, ভোটের আগেই খেলা ঘুরবে বাংলাদেশে?",
     "desc": "ভারতে নির্বাসনে থাকা বাংলাদেশের প্রাক্তন প্রধানমন্ত্রী ও আওয়ামি লিগ নেত্রী শেখ হাসিনা তাঁর ভাষণে অন্তর্বর্তী প্রশাসনের প্রধান মহম্মদ ইউনূসের বিরুদ্ধে তীব্র আক্রমণ শানিয়েছেন। ইউনুসকে তিনি “খুনি ফ্যাসিস্ট, সুদখোর, অর্থপাচারকারী, ডাকাত ও বিশ্বাসঘাতক” বলে আখ্যা দেন। পাশাপাশি আওয়ামি লিগ সমর্থকদের ঐক্যবদ্ধ হয়ে গণতন্ত্র পুনরুদ্ধারের আহ্বান জানান।",
@@ -853,50 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/have-ppf-nsc-scss-interest-rates-changed-for-january-march-2026-check-latest-rates-of-small-savings-scheme-announced-today-smc-2502391.html",
     "time": "2026-01-18T11:38:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'বিকশিত ভারতের জন্য পূর্ব ভারতের উন্নয়ন জরুরি', হুগলিতে কেন্দ্রীয় প্রকল্পের উদ্বোধন করে জানালেন মোদি",
-    "desc": "সিঙ্গুরে আজ জোড়া কর্মসূচি প্রধানমন্ত্রী নরেন্দ্র মোদির, সেই মঞ্চে উপস্থিত ছিলেন কেন্দ্রীয় মন্ত্রী সর্বানন্দ সোনোয়াল, ছিলেন রাজ্যের দুই কেন্দ্রীয় মন্ত্রী সুকান্ত মজুমদার এবং শান্তনু ঠাকুর। সিঙ্গুরের মঞ্চ থেকে মোদি এক্সটেন্ডেড পোর্ট গেট সিস্টেমের শিলান্যাস করেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/narendra-modi-1-2026-01-b61c9322dea63273358b54f3cec370bf-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/narendra-modi-speaks-about-balagarh-port-and-flags-off-3-new-amrit-bharat-express-know-what-pm-says-rdp-2502670.html",
-    "time": "2026-01-18T11:22:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "মিউচুয়াল ফান্ডে SIP-তে বিনিয়োগ করেন? জানেন প্রতি মাসে ৪০০০ টাকা করে জমালে ১০ লাখ হতে কতদিন লাগবে?",
-    "desc": "ব্যাঙ্কের সুদ এখন অনেকটা কম, তাই কিছু টাকা বেশি পাওয়ার আশায় অনেকেই এখন মিউচুয়াল ফান্ডে SIP করার কথা ভাবেন। যদিও মিউচুয়াল ফান্ডে বিনিয়োগ ঝুঁকি সাপেক্ষ। মিউচুয়াল ফান্ডে বিনিয়োগের আগে রিটার্ন এবং ঝুঁকি দেখে ১২ থেকে ১৪ শতাংশ পাওয়া যায় এমন ফান্ডে বিনিয়োগ করা উচিত।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/SIP-121-2026-01-e49eff835f6c675a335d9d022d257dab-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/investment-plan-in-mutual-funds-when-you-will-get-10-lakhs-if-you-invest-4000-per-month-in-mutual-fund-sip-rdp-2502708.html",
-    "time": "2026-01-18T10:48:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "স্টেপ-আপ SIP কী? এই সহজ কৌশলেই দ্বিগুণ হতে পারে আপনার অবসর সঞ্চয়",
-    "desc": "বর্তমানে সিস্টেম্যাটিক ইনভেস্টমেন্ট প্ল্যান (SIP) দীর্ঘমেয়াদি বিনিয়োগের অন্যতম নির্ভরযোগ্য বিকল্প হিসেবে ব্যাপকভাবে বিবেচিত হচ্ছে। অনেকেই ভবিষ্যৎ সুরক্ষিত করার জন্য প্রথম চাকরি থেকেই প্রতি মাসে অল্প অল্প করে বিনিয়োগ শুরু করেন। তবে খুব কম মানুষই জানেন যে একটি সহজ SIP কৌশল অবসরকালীন তহবিল প্রায় দ্বিগুণ করে দিতে পারে। এই তুলনামূলকভাবে কম পরিচিত পদ্ধতিটিই হলো স্টেপ-আপ SIP।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/08/mutual-fund-4-new-2025-08-017f00ec73cb8baed1248000bc992ef4-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/what-is-step-up-sip-how-you-can-save-for-pension-by-sip-know-more-details-smc-2502677.html",
-    "time": "2026-01-18T10:31:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "প্রথমবার 'রাজকুমারি'কে সামনে আনলেন রাজকুমার, কার মতো দেখতে হল মেয়েকে? রাখলেন 'বাঙালি' নাম",
-    "desc": "২০২৫ সালের ১৫ নভেম্বর৷ বলিউড অভিনেতা রাজকুমার রাও এবং পত্রলেখার ঘর আলো করে আসে ফুটফুটে কন্যা সন্তান৷ সম্প্রতি অভিনেতা একরত্তি মেয়ের প্রথম ছবি সোশ্যাল মিডিয়ায় ভক্তদের সঙ্গে শেয়ার করেছেন৷ এবং তারকা দম্পতি তাদের মেয়ের নাম প্রকাশ করেছেন ৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/11/Untitled-design-2025-11-15T100648.397-2025-11-2716977b60447c46c17e0f323a32543c-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/rajkummar-rao-and-patralekha-share-first-photo-of-daughter-name-her-parvati-paul-rao-rds-2502570.html",
-    "time": "2026-01-18T10:23:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "লতা-রফির গান, নায়ক-নায়িকার চূড়ান্ত রোম্যান্স, ৫২ বছর পরও অনবদ্য জুটির কেমিস্ট্রি",
-    "desc": "বিনোদ খান্না ছিলেন তাঁর সময়ের অন্যতম সুপুরুষ নায়ক। তিনি তাঁর ক্যারিয়ারে অনেক হিট এবং ব্লকবাস্টার ছবিতে কাজ করেছেন। তবে ১৯৭৪ সালের \"হাত কি সাফাই\" ছবিতে তাঁর কাজ বিশেষভাবে প্রশংসিত হয়েছিল। ছবির একটি গান সেই সময়ে তুমুল হিট হয়েছিল। সেই গানটি হল, \"ওয়াদা করলে সজনা তেরে বিনা, ম্যায় না রাহুন...\" এই গানটি সেই সময়ে তুমুল হিট ছিল। আজও, বহু বছর পরেও, এটি এখনও প্রিয়। গানটিতে বিনোদ খান্না এবং সিমি গারেওয়াল উপস্থিত ছিলেন। \"হাত কি সাফাই\" ছবিতে হেমা মালিনী, রণধীর কাপুর এবং সিমি গারেওয়ালও গুরুত্বপূর্ণ ভূমিকায় অভিনয় করেছিলেন। এই এভারগ্রিন গানটি মোহাম্মদ রফি এবং লতা মঙ্গেশকর গেয়েছিলেন। সঙ্গীত পরিচালনা করেছিলেন কল্যাণজি-আনন্দজি। আজও, এই গানটি শুনলে মানুষ সেই যুগে ফিরে যায়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/vada-2026-01-378c742f002d0d58735f27f6504d9f36-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/entertainment/viral-social-vinod-khanna-hema-malini-simi-garewal-film-haath-ki-safai-song-wada-karle-sajna-sung-by-mohammed-rafi-lata-mangeshkar-pbd-2502662.html",
-    "time": "2026-01-18T10:20:53.000Z"
   }
 ];

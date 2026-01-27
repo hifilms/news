@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former PCB secretary questions Board's 'purpose' for Pakistan's potential T20 World Cup pull out",
+    "desc": "Former Pakistan players and ex-Pakistan Cricket Board officials have questioned their board over a potential pullout from the T20 World Cup 2026 in support of Bangladesh. Pakistan chairman Mohsin Naqvi had threatened to withdraw from the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-pcb-secretary-questions-boards-purpose-for-pakistans-potential-t20-world-cup-pull-out-2026-01-27-1027704",
+    "time": "2026-01-27T15:18:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch SA vs WI T20I series on TV and streaming?",
+    "desc": "Less than 48 hours after the conclusion of the SA20 final, seven players are set to return to international action as South Africa and West Indies prepare to clash in a T20 series. Originally scheduled...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-vs-sri-lanka-live-when-and-where-to-watch-sa-vs-wi-t20i-series-on-tv-and-streaming-2026-01-27-1027691",
+    "time": "2026-01-27T14:27:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MT up against RL in World Legends Pro T20 League",
+    "desc": "The third match of the World Legends Pro T20 League 2026 will see the Maharashtra Tycoons take on the Rajasthan Lions at Goa’s 1919 Sportz Cricket Stadium. The clash promises star power, featuring cricketing greats...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/maharashtra-tycoons-vs-rajasthan-lions-live-cricket-score-mt-up-against-rl-in-world-legends-pro-t20-league-2026-01-27-1027688",
+    "time": "2026-01-27T14:02:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Giants look for strong start after being inserted in",
+    "desc": "Gujarat Giants are up against the Delhi Capitals in the 17th match of the Women's Premier League 2026 at the BCA Stadium, Kotambi, Vadodara. The race for the playoffs has been red-hot with four teams vying...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gg-vs-dc-wpl-2025-live-cricket-score-gujarat-giants-vs-delhi-capitals-bca-stadium-kotambi-vadodara-latest-match-updates-scorecard-playing-xis-2026-01-27-1027687",
+    "time": "2026-01-27T14:01:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gayle, Cook open for Maharashtra",
+    "desc": "Match 3 of the ongoing World Legends Pro T20 League 2026 will take place between the Maharashtra Tycoons and the Rajasthan Lions at the 1919 Sportz Cricket Stadium in Goa. The match will feature multiple...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/maharashtra-tycoons-vs-rajasthan-lions-world-legends-pro-t20-league-2026-live-today-in-goa-chris-gayle-suresh-raina-dinesh-karthik-dale-steyn-cook-1027685",
+    "time": "2026-01-27T13:37:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jos Buttler becomes second England cricketer to achieve legendary feet, set to surpass James Anderson",
+    "desc": "England keeper‑batter Jos Buttler has reached a rare milestone in his international career, becoming only the second player in England history to feature in 400 international matches across Tests, ODIs and T20Is. Buttler achieved the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-becomes-second-england-cricketer-to-achieve-legendary-feet-set-to-surpass-james-anderson-to-become-number-1-2026-01-27-1027681",
+    "time": "2026-01-27T13:13:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Formula 1 legend no longer bedridden after 2013 ski accident",
+    "desc": "In a major health update on Michael Schumacher, the Formula One legend is no longer bedridden, the Daily Mail reported. Schumacher, who suffered a horrific crash while skiing in December 2013, has reportedly shown rare...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/formula-1/michael-schumacher-health-update-formula-1-legend-no-longer-bedridden-after-2013-ski-accident-2026-01-27-1027678",
+    "time": "2026-01-27T12:49:04.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Who is he? Know all about the RCB prodigy",
     "desc": "Vihaan Malhotra delivered a standout performance in the U19 World Cup 2026 match against Zimbabwe, remaining unbeaten on 109 from 107 balls at the Queens Sports Club in Bulawayo. Led by Ayush Mhatre, India made...",
     "img": "",
@@ -25,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/man-utd-s-patrick-dogru-ruled-out-for-10-weeks-after-stunner-against-arsenal-in-premier-league-2026-01-27-1027663",
     "time": "2026-01-27T11:36:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC keeps Bangladesh media on hold after rejecting accreditation for T20 World Cup 2026 in India",
-    "desc": "The International Cricket Council has initiated a revision of its media accreditation framework for journalists from Bangladesh planning to cover the upcoming T20 World Cup in India, following Bangladesh’s decision to withdraw its national team...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-keeps-bangladesh-media-on-hold-after-rejecting-accreditation-for-t20-world-cup-2026-in-india-2026-01-27-1027655",
-    "time": "2026-01-27T10:55:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Elina Svitolina stuns Coco Gauff to reach maiden semifinals at Melbourne Park",
-    "desc": "Elina Svitolina stunned American third seed Coco Gauff in the quarterfinals of the Australian Open 2026 to make her way into the semifinals of the tournament for the first time on Tuesday, January 27. Ukrainian 12th...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/australian-open-2026-elina-svitolina-stuns-coco-gauff-to-reach-maiden-semifinals-at-melbourne-park-2026-01-27-1027653",
-    "time": "2026-01-27T10:42:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia T20 World Cup-winning pacer announces retirement from professional cricket",
-    "desc": "Australian fast bowler Kane Richardson has called time on his professional cricket career at the age of 34. He wore the Australian jersey in both limited-overs formats, appearing in 25 ODIs and 36 T20Is. His...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-t20-world-cup-winning-pacer-announces-retirement-from-professional-cricket-2026-01-27-1027649",
-    "time": "2026-01-27T10:21:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC's massive U-turn set to shock Pakistan amid T20 World Cup boycott row, Bangladesh on standby",
-    "desc": "The International Cricket Council (ICC) doesn't seem to be in the mood to witness anymore drama ahead of the T20 World Cup 2026. They have already removed Bangladesh from the mega event, replacing them with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-s-massive-u-turn-set-to-shock-pakistan-amid-t20-world-cup-boycott-row-bangladesh-on-standby-2026-01-27-1027629",
-    "time": "2026-01-27T07:25:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand make late changes to squad for last two T20Is, 2 players sent home",
-    "desc": "New Zealand have released Kristian Clarke and Tim Robinson from their squad ahead of the fourth T20I of the five-match series against India. With the conclusion of the SA20 and the Big Bash League over...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-make-late-changes-to-squad-for-last-two-t20is-2-players-sent-home-2026-01-27-1027616",
-    "time": "2026-01-27T06:11:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Disappointed with T20 World Cup snub, West Indies cricketer hints at retirement from international cricket",
-    "desc": "West Indies opening batter Evin Lewis has hinted at retirement from international cricket after being dropped from the T20 World Cup squad. West Indies announced their 15-member squad for the upcoming mega event in India...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/disappointed-with-t20-world-cup-snub-west-indies-cricketer-evin-lewis-hints-at-retirement-2026-01-27-1027604",
-    "time": "2026-01-27T04:40:50.000Z"
   }
 ];
