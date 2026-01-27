@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Italy, ranked 29th in ICC T20I rankings, upset Ireland ahead of T20 World Cup 2026",
+    "desc": "Italy stunned Ireland for the first time in the shortest format of the game on Monday, January 26, chasing down the target of 155 runs. Grant Stewart was the hero for them as he smashed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/italy-ranked-29th-in-icc-t20i-rankings-upset-ireland-ahead-of-t20-world-cup-2026-2026-01-27-1027591",
+    "time": "2026-01-27T03:14:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Scotland, Bangladesh's replacement in T20 World Cup 2026, announce 15-member squad for mega event",
+    "desc": "Scotland, the last-minute entrants to the T20 World Cup, have announced their 15-member squad. They replaced Bangladesh in the tournament over the weekend after the ICC made the move official on Saturday (January 24). Bangladesh...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/scotland-bangladesh-s-replacement-in-t20-world-cup-2026-announce-15-member-squad-for-mega-event-2026-01-27-1027581",
+    "time": "2026-01-27T02:06:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What kind of sanctions can ICC impose on Pakistan if they boycott India clash or entire T20 World Cup 2026?",
+    "desc": "There is no end to the drama in the cricketing world, with less than two weeks to go for the T20 World Cup. The mega event is scheduled to take place in India and Sri...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-kind-of-sanctions-can-icc-impose-on-pakistan-if-they-boycott-india-clash-or-entire-t20-world-cup-2026-2026-01-27-1027576",
+    "time": "2026-01-27T01:38:12.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mohun Bagan vs East Bengal likely on May 3, AIFF in hunt for broadcasters with league starting on Feb 14",
     "desc": "The Indian Super League is set to return with a shortened 2025–26 season beginning on February 14, with defending champions Mohun Bagan Super Giant opening their campaign at Salt Lake Stadium against Kerala Blasters. The...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pcb-chief-mohsin-naqvi-meets-pm-nawaz-sharif-to-discuss-t20-world-cup-participation-know-what-happened-2026-01-26-1027535",
     "time": "2026-01-26T12:42:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan threaten to boycott India match in T20 World Cup 2026, may suffer consequences",
-    "desc": "Pakistan may skip their high-profile T20 World Cup 2026 match against India as a gesture of solidarity with Bangladesh. The fixture is scheduled for February 15 and is set to be played in Colombo after...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-threaten-to-boycott-india-match-in-t20-world-cup-2026-may-suffer-consequences-2026-01-26-1027526",
-    "time": "2026-01-26T11:10:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch marquee event live on TV and online in India?",
-    "desc": "Cricket’s nostalgia circuit takes a new turn as a fresh T20 property launches in Goa. The World Legends Pro T20 League will make its debut on Monday, January 26, with every fixture staged at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/world-legends-pro-t20-league-2026-where-to-watch-marquee-event-live-on-tv-and-online-in-india-2026-01-26-1027520",
-    "time": "2026-01-26T10:29:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer to continue for remainder of New Zealand series, Tilak Varma ruled out",
-    "desc": "In a major development for the Indian team, star batter Shreyas Iyer will be staying with the Men in Blue for the remainder of the T20I series. It is worth noting that Iyer was brought...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-to-continue-for-remainder-of-new-zealand-series-tilak-varma-ruled-out-2026-01-26-1027515",
-    "time": "2026-01-26T09:55:28.000Z"
   }
 ];

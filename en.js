@@ -1,5 +1,185 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "‘Pakistan is provoking Bangladesh’: BCCI VP hits out as PCB delays T20 World Cup call",
+    "desc": "BCCI vice-president Rajeev Shukla accused Pakistan of instigating Bangladesh's refusal to play T20 World Cup matches in India, leading to Scotland's inclusion in the tournament. Shukla asserted Bangladesh was assured of security, but Pakistan's \"intervention\" and \"misleading\" tactics aggravated the situation. This comes amid Pakistan's own deliberation over participating in the tournament.",
+    "img": "https://static.toiimg.com/photo/msid-127593987,imgsize-75112.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistan-is-provoking-bangladesh-bcci-vp-rajeev-shukla-hits-out-as-pcb-delays-t20-world-cup-decision/articleshow/127593718.cms",
+    "time": "2026-01-27T03:58:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Accused involved in hurling country bomb on police team killed in encounter in Perambalur",
+    "desc": "“Alaguraja attacked Sub Inspector Shankar with a weapon, causing injury to the latter. The Inspector opened one round of fire on Alaguraja in an act of defence. Alaguraja died on the way to the hospital,” says police",
+    "img": "https://th-i.thgim.com/public/news/national/mbnz4t/article70555135.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-01-27%20at%208.44.52%20AM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/accused-involved-in-hurling-country-bomb-on-police-team-killed-in-encounter-in-perambalur/article70555084.ece",
+    "time": "2026-01-27T03:52:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Tell Me Lies' season 3 episode 5 release time",
+    "desc": "Get ready for 'Tell Me Lies' Season 3 Episode 5, \"I'd Like to Hold Her Head Under Water,\" dropping January 27, 2026, on Hulu and Disney+. This installment dives deeper into Lucy and Stephen's toxic relationship, with Lucy's fabricated assault story set to explode. Expect escalating betrayals and raw confrontations as the dual timelines intensify the drama.",
+    "img": "https://static.toiimg.com/photo/msid-127593491,imgsize-673177.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/tell-me-lies-season-3-episode-5-release-time-date-and-what-to-expect-next/articleshow/127593504.cms",
+    "time": "2026-01-27T03:49:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Is Marcello Hernández really dating Sabrina Carpenter?",
+    "desc": "In a recent statement, Marcello Hernández put the dating speculation surrounding him and Sabrina Carpenter to rest, emphasizing that their bond is strictly as friends and collaborators. He also shared that his heart belongs to architect Ana Amelia Batlle Cabral. The confusion arose after a humorous SNL sketch and a playful concert appearance led fans to jump to conclusions.",
+    "img": "https://static.toiimg.com/photo/msid-127592861,imgsize-38890.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/is-marcello-hernndez-dating-sabrina-carpenter-the-snl-star-finally-spills-the-beans/articleshow/127592803.cms",
+    "time": "2026-01-27T03:37:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Swift not happy about text reveal in Blake Lively's case",
+    "desc": "Taylor Swift is reportedly unhappy after her private text messages concerning Blake Lively's legal dispute with Justin Baldoni were unsealed. The messages, which appear to show Swift offering support to Lively regarding the 'It Ends With Us' script, have left the singer feeling exposed. Lively is suing Baldoni for sexual harassment, while he countersued for defamation.",
+    "img": "https://static.toiimg.com/photo/msid-127592654,imgsize-34984.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/taylor-swift-not-happy-with-unsealed-texts-to-blake-lively-amid-justin-baldoni-legal-drama-report/articleshow/127592654.cms",
+    "time": "2026-01-27T03:33:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bella Hadid and Adan Banuelos quietly split after two years",
+    "desc": "Supermodel Bella Hadid and equestrian Adan Banuelos have ended their two-year romance. The couple, who blended high fashion with ranch life, reportedly called it quits recently after a tumultuous period. Their relationship, which began in late 2023, was characterized by down-to-earth moments and shared business ventures.",
+    "img": "https://static.toiimg.com/photo/msid-127592567,imgsize-605982.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bella-hadid-and-adan-banuelos-quietly-end-two-year-romance-fans-heartbroken/articleshow/127592571.cms",
+    "time": "2026-01-27T03:29:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh's last-minute replacement, Scotland, name squad for T20 World Cup",
+    "desc": "Scotland has announced their 15-member squad for the ICC Men's T20 World Cup 2026, set to begin on February 7 in India and Sri Lanka. The European side secured a spot after Bangladesh withdrew, and they are now preparing to compete in their seventh T20 World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-127592011,imgsize-124990.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/bangladeshs-last-minute-replacement-scotland-name-squad-for-t20-world-cup-2026/articleshow/127591970.cms",
+    "time": "2026-01-27T03:19:35.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump's about-face in Minnesota after Pretti's death latest in pattern of sudden shifts",
+    "desc": "About-face comes after the January 24 shooting death of Alex Pretti by federal agents raised doubts, including from some Republicans, over how the Trump administration has gone about aggressively deporting migrants and confronting protesters opposed to the policy.",
+    "img": "https://th-i.thgim.com/public/incoming/7bizg8/article70555082.ece/alternates/LANDSCAPE_1200/Immigration_Enforcement_Minnesota_62258.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trumps-about-face-in-minnesota-after-prettis-death-latest-in-pattern-of-sudden-shifts/article70555052.ece",
+    "time": "2026-01-27T03:01:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Feel for Bangladesh players’: Scotland admit T20 WC entry was ‘far from ideal’",
+    "desc": "Cricket Scotland's CEO expressed sympathy for Bangladesh after their ICC Men's T20 World Cup 2026 replacement, acknowledging the unusual circumstances. Bangladesh were removed for refusing to play under the published schedule, a request the ICC denied due to security assurances. Scotland, ranked 14th, step in, despite their own qualification campaign not going as planned.",
+    "img": "https://static.toiimg.com/photo/msid-127591053,imgsize-119158.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-do-feel-for-bangladesh-players-scotland-admit-t20-world-cup-entry-was-far-from-ideal-but-happy-to-step-in/articleshow/127590756.cms",
+    "time": "2026-01-27T02:59:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Proud girl dad’ MGK shares rare glimpses of his daughters",
+    "desc": "Machine Gun Kelly, the dynamic rapper known for his high-energy performances, reveals his softer side as a devoted dad. While touring, he delights fans with tender moments of his daughters, Saga and Casie, mixing exhilarating concert clips with affectionate glimpses of family time.",
+    "img": "https://static.toiimg.com/photo/msid-127590445,imgsize-47498.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/mgk-shares-sweet-photo-of-baby-saga-blade-bonding-with-daughter-casie-in-rare-family-moment/articleshow/127590381.cms",
+    "time": "2026-01-27T02:49:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rampant Sabalenka sweeps past Jovic into Australian Open semi-finals",
+    "desc": "Top seed Aryna Sabalenka stormed into the Australian Open semi-finals, overpowering American teenager Iva Jovic 6-3, 6-0. The Belarusian's dominant performance, despite scorching heat, sets her up for a potential third Melbourne title. Jovic's impressive run ended against the formidable world number one, who showcased her powerful game.",
+    "img": "https://static.toiimg.com/photo/msid-127590068,imgsize-51812.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/rampant-aryna-sabalenka-sweeps-past-jovic-into-australian-open-semi-finals/articleshow/127590138.cms",
+    "time": "2026-01-27T02:43:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Black law’: Bareilly city magistrate resigns over new UGC rules; claims he was 'held hostage at DM's home'",
+    "desc": "Alankar Agnihotri, a 2019-batch Provincial Civil Service officer, sent his resignation by e-mail to Uttar Pradesh Governor Anandiben Patel and Bareilly District Magistrate Avinash Singh, the officials told news agency PTI. The new rules notified by the UGC on January 13 -- the Promotion of Equity in Higher Education Institutions Regulations, 2026 -- have sparked widespread criticism from general category students who argue that the framework could lead to discrimination against them.",
+    "img": "https://static.toiimg.com/photo/msid-127589330,imgsize-75320.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/black-law-bareilly-city-magistrate-resigns-over-new-ugc-rules-claims-he-was-held-hostage-at-dms-home/articleshow/127587576.cms",
+    "time": "2026-01-27T02:43:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quinton Aaron on life support after sudden collapse",
+    "desc": "Actor Quinton Aaron, famed for 'The Blind Side', is critically ill on life support after a sudden collapse at home due to a severe blood infection. His wife shared his struggle, noting small signs of recovery. A GoFundMe has been launched to aid his extensive medical expenses and recovery, as fans rally with prayers for the resilient star.",
+    "img": "https://static.toiimg.com/photo/msid-127589744,imgsize-466845.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-blind-side-star-quinton-aaron-on-life-support-after-sudden-collapse-fans-rally-as-actor-fights-severe-infection/articleshow/127589768.cms",
+    "time": "2026-01-27T02:35:25.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Activists say at least 6,126 people killed in Iran's crackdown on nationwide protests",
+    "desc": "The new figures came from the U.S.-based Human Rights Activists News Agency, which has been accurate in multiple rounds of unrest in Iran. The group verifies each death with a network of activists on the ground in Iran.",
+    "img": "https://th-i.thgim.com/public/incoming/r1da4j/article70555051.ece/alternates/LANDSCAPE_1200/2026-01-26T164041Z_155465085_RC221JA1NN3W_RTRMADP_3_IRAN-ECONOMY-PROTESTS-UN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/irans-crackdown-on-nationwide-protests-death-toll-updates/article70555045.ece",
+    "time": "2026-01-27T02:24:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cha Eunwoo apologizes for tax evasion controversy",
+    "desc": "In the midst of his military duties, K-pop sensation Cha Eunwoo has taken to social media to address allegations of tax evasion. He conveyed his heartfelt apologies for any distress caused and committed to collaborating with authorities investigating a company believed to have been established to circumvent tax obligations, allegedly linked to his parents.",
+    "img": "https://static.toiimg.com/photo/msid-127588965,imgsize-41934.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/cha-eunwoo-issues-apology-amid-tax-evasion-controversy-i-will-look-upon-myself-with-even-greater-strictness/articleshow/127588965.cms",
+    "time": "2026-01-27T02:21:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Victoria conferred with Legion of Honour; Brooklyn takes a dig",
+    "desc": "Victoria Beckham escaped the bitterness of a family feud with a trip to Paris on Monday to receive an award from the culture ministry for her contribution to the fashion and entertainment industries. The Order of the Arts and Letters is reserved for figures judged to have contributed to France's cultural life and is separate to the more prestigious Legion of Honour (\"Legion d'honneur\"), the state's top award.",
+    "img": "https://static.toiimg.com/photo/msid-127587745,imgsize-36374.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/victoria-beckham-conferred-with-legion-of-honour-david-shares-touching-post-brooklyn-takes-a-dig-pics/articleshow/127580500.cms",
+    "time": "2026-01-27T01:51:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vande Mataram front and centre at Republic Day",
+    "desc": "Republic Day celebrations prominently featured the 150th anniversary of 'Vande Mataram,' with performances and tableaux across states. The national song's significance was highlighted, becoming a focal point for political discourse, particularly between the BJP and TMC ahead of West Bengal's assembly polls. Gujarat and Chhattisgarh, among others, showcased tributes to the patriotic anthem.",
+    "img": "https://static.toiimg.com/photo/msid-127587878,imgsize-82892.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/vande-mataram-front-and-centre-at-republic-day/articleshow/127587743.cms",
+    "time": "2026-01-27T01:50:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Is an archaeological marvel hiding near Chandigarh?",
+    "desc": "Sirhind, once a significant historical hub, now lies neglected with its ancient monuments crumbling and forgotten. Despite its rich past, from the era of Prithviraj Chauhan to Guru Gobind Singh's sons, the town has faded from public consciousness. Archaeological exploration and preservation efforts are minimal, leaving its historical treasures buried and overlooked.",
+    "img": "https://static.toiimg.com/photo/msid-127587256,imgsize-1000182.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/is-an-archaeological-marvel-hiding-near-chandigarh/articleshow/127587205.cms",
+    "time": "2026-01-27T01:44:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Once again, Congress spars with BJP over its netas' seating",
+    "desc": "Congress leaders Mallikarjun Kharge and Rahul Gandhi's seating at the Republic Day parade sparked a row, with the BJP accusing the Congress of entitlement. The Congress countered, calling it \"petty politicking\" and an insult to the Constitution. This controversy echoes past seating disputes and a recent incident at the Red Fort.",
+    "img": "https://static.toiimg.com/photo/msid-127586885,imgsize-1375524.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/once-again-congress-spars-with-bjp-over-its-netas-seating/articleshow/127586822.cms",
+    "time": "2026-01-27T01:30:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "From leading contingents to bike daredevilry, women steal the show atRepublic Day parade",
+    "desc": "Women military personnel shone at the 77th Republic Day parade, leading contingents, showcasing skills, and participating in key ceremonial events. From Flight Lieutenant Akshita Dhankar unfurling the flag to Captain Harshita Yadav leading an animal contingent and Captain Samira Z Buttar commanding a tableau, women made significant contributions.",
+    "img": "https://static.toiimg.com/photo/msid-127586472,imgsize-1783100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/from-leading-contingents-to-bike-daredevilry-women-steal-the-show-atrepublic-day-parade/articleshow/127586464.cms",
+    "time": "2026-01-27T01:23:33.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "IAF releases video of Rafale armed with beyond-visual-range Meteor missile, silences sceptics",
     "desc": "The Indian Air Force released a video showcasing its fighter jets armed with advanced missiles like Meteor and BrahMos, silencing critics who doubted India's possession of the beyond-visual-range Meteor missile. The footage featured Rafale, Sukhoi, and Tejas jets, confirming the missile's presence and capabilities for air-to-air combat.",
@@ -87,6 +267,15 @@ const newsData_en = [
     "img": "https://static.toiimg.com/photo/msid-127544541,imgsize-41552.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-wrists-working-runs-flowing-how-suryakumar-yadav-found-form-again/articleshow/127544137.cms",
+    "time": "2026-01-26T23:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MS Dhoni starts preparations ahead of IPL; CSK share practice video",
+    "desc": "MS Dhoni has commenced batting practice for the upcoming IPL season, with CSK sharing a video of his drills. Despite Ruturaj Gaikwad's form, Dhoni remains a key player as CSK targets a sixth title. His role is under scrutiny following a modest 2025 season and the arrival of Sanju Samson.",
+    "img": "https://static.toiimg.com/photo/msid-127559281,imgsize-86568.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ms-dhoni-starts-preparations-ahead-of-ipl-csk-share-practice-video-watch/articleshow/127558307.cms",
     "time": "2026-01-26T23:30:00.000Z"
   },
   {
@@ -234,6 +423,15 @@ const newsData_en = [
     "time": "2026-01-26T20:28:19.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "Actor Mimi Chakraborty alleges harassment during stage performance, lodges police complaint",
+    "desc": "The club authorities further alleged misconduct by the actress’s security personnel, claiming that her bodyguards forcibly removed women members of the club who were present on the stage to felicitate her at the start of the programme",
+    "img": "https://th-i.thgim.com/public/incoming/k8e14e/article70049790.ece/alternates/LANDSCAPE_1200/PTI02_15_2024_000248A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/kolkata/actor-mimi-chakraborty-alleges-harassment-during-stage-performance-lodges-police-complaint/article70554257.ece",
+    "time": "2026-01-26T20:25:00.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "When Salman Khan revealed why he rejected 'Chak De! India'",
     "desc": "Salman Khan revealed why he declined the lead role in Shah Rukh Khan's 'Chak De! India'. He felt his then-popular image of doing commercial entertainers clashed with the film's serious, performance-driven narrative. Salman believed his fans would expect a different kind of role, not suited for the film's genre at that time.",
@@ -253,12 +451,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "India, EU finalise FTA, deal set to be announced today",
-    "desc": "India and the European Union have finalized a comprehensive free trade agreement after 18 years of talks, poised to boost trade and investment. The deal, expected to be announced Tuesday, aims for significant tariff reductions on most goods, with India gaining market access for textiles and leather, while offering concessions on automobiles and wines. Implementation is anticipated by early 2027.",
-    "img": "https://static.toiimg.com/photo/msid-127571129,imgsize-1069709.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-eu-finalise-fta-deal-set-to-be-announced-today/articleshow/127570923.cms",
-    "time": "2026-01-26T19:21:52.000Z"
+    "title": "Madhya Pradesh village ‘declares’ social, economic boycott of families whose members marry by choice; probe on",
+    "desc": "The man lists out further restrictions on the families, including the supply of milk or any other products, leasing their fields for farming, and any priests, barbers or any other service provider giving services to those families.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-village-declares-social-economic-boycott-of-families-whose-members-marry-by-choice-probe-on/article70553147.ece",
+    "time": "2026-01-26T19:04:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -268,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/badshah-says-buying-rolls-royce-cullinan-series-ii-worth-rs-12-45-crore-also-owned-by-shah-rukh-khan-mukesh-ambani-was-an-impulsive-decision-the-high-lasted-for-/articleshow/127569357.cms",
     "time": "2026-01-26T18:52:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi CM Rekha Gupta lays foundation stone for slum development projects",
-    "desc": "\"The previous governments spread fear that the BJP would stop free electricity and water, but these slum dwellers can now live peacefully. We are committed to providing them a good and quality life,\" Gupta told reporters.",
-    "img": "https://static.toiimg.com/photo/msid-127569416,imgsize-1072220.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/republic-day-delhi-cm-rekha-gupta-lays-foundation-stone-for-slum-development-projects/articleshow/127569334.cms",
-    "time": "2026-01-26T18:46:07.000Z"
   },
   {
     "cat": "Sports",
@@ -297,15 +486,6 @@ const newsData_en = [
     "time": "2026-01-26T18:35:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PIO civil servant gets flak on X for negotiating Chagos deal",
-    "desc": "A British civil servant of Indian origin, Dr. Francis Vijay Narasimhan Rangarajan, faces social media backlash over the controversial Chagos deal. He led negotiations to transfer sovereignty of the Chagos Archipelago to Mauritius, retaining use of the Diego Garcia base. Critics, including former politicians, have voiced strong opposition to the agreement.",
-    "img": "https://static.toiimg.com/photo/msid-127570428,imgsize-384052.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pio-civil-servant-gets-flak-on-x-for-negotiating-chagos-deal/articleshow/127568529.cms",
-    "time": "2026-01-26T18:34:01.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "where fearlessness meets consistency",
     "desc": "The thrill-a-minute opening batter has proved to be unstoppable in the shortest format, especially in recent times. His ability to go ballistic from ball one while being among the runs regularly has made him an X-factor in the India T20I set-up",
@@ -313,24 +493,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/abhishek-where-fearlessnessmeets-consistency/article70554149.ece",
     "time": "2026-01-26T18:30:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "British nationals charged with ‘targeting’ Pakistan dissidents in UK",
-    "desc": "Three British nationals have been charged with targeting two prominent Pakistani dissidents in the UK, supporters of jailed former PM Imran Khan. The men allegedly conspired to assault journalist Adil Raja and former Khan advisor Mirza Shahzad Akbar on December 24th. One suspect also faces charges for attempted arson at Akbar's home on New Year's Eve.",
-    "img": "https://static.toiimg.com/photo/msid-127568336,imgsize-836861.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/british-nationals-charged-with-targeting-pakistan-dissidents-in-uk/articleshow/127568150.cms",
-    "time": "2026-01-26T18:27:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "UK report",
-    "desc": "UK intelligence warns of global food and water crises by the 2030s due to ecosystem collapse, potentially sparking conflict. Himalayan river decline could escalate tensions between China, India, and Pakistan, risking nuclear war. The report highlights threats to UK food security and calls for ecosystem protection and restoration.",
-    "img": "https://static.toiimg.com/photo/msid-127568029,imgsize-1015347.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/decline-of-himalayan-rivers-could-trigger-nuclear-war-uk-report/articleshow/127567910.cms",
-    "time": "2026-01-26T18:21:11.000Z"
   },
   {
     "cat": "Politics",
@@ -433,39 +595,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Manoj Bajpayee almost lost his role in 'Bandit Queen'",
-    "desc": "Manoj Bajpayee reminisces about his debut in Shekhar Kapoor's 1994 film 'Bandit Queen,' marking 32 years since its release. He recounts how his photograph was chosen from a lot by Kapoor and how the role of Vikram Malla, initially cast with Nirmal Pandey and later considered for Naseeruddin Shah, ultimately came back to him.",
-    "img": "https://static.toiimg.com/photo/msid-127555251,imgsize-43254.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/32-years-of-bandit-queen-manoj-bajpayee-almost-lost-his-role-to-naseeruddin-shah-i-was-out-of-it-because-exclusive/articleshow/127555102.cms",
-    "time": "2026-01-26T14:00:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Waheeda Rahman reacts to AR Rahman's 'communal' remark",
     "desc": "Veteran actress Waheeda Rehman has chosen to distance herself from the controversy surrounding AR Rahman's remarks on alleged communal bias in Bollywood. She believes such minor issues occur everywhere and prefers to focus on peace and happiness. Rehman also suggested that career fluctuations and industry changes might influence such statements.",
     "img": "https://static.toiimg.com/photo/msid-127554791,imgsize-36852.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/waheeda-rahman-reacts-to-ar-rahmans-communal-remark-apni-shaanti-se-raho-yeh-mulk-hai-humaara/articleshow/127554588.cms",
     "time": "2026-01-26T13:52:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Govinda claims 'Writers make Krushna Abhishek mock me on TV'",
-    "desc": "Renowned actor Govinda has voiced his concerns about how his nephew Krushna Abhishek's television scripts frequently lead to what he perceives as disrespectful portrayals. In a heartfelt response, Krushna praised his uncle’s enduring star power and distinctive viewpoints. This exchange draws attention to the complexities within their family dynamics while tying into Govinda's latest public narratives.",
-    "img": "https://static.toiimg.com/photo/msid-127554379,imgsize-40776.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-makes-startling-claim-saying-writers-make-krushna-abhishek-mock-me-on-television/articleshow/127554379.cms",
-    "time": "2026-01-26T13:50:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Andhra Pradesh Speaker proposes Right to Recall, no work no pay for MLAs",
-    "desc": "Speaking at the 77th Republic Day celebrations at the State Assembly, Ayyanna Patrudu calls for a minimum of 60 sitting days a year to restore the dignity of legislatures, while Legislative Council Chairman Koyye Moshenu Raju hails the Constitution as the greatest guiding text",
-    "img": "https://th-i.thgim.com/public/incoming/pav8ex/article70553329.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-01-26%20at%2018.25.55.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-speaker-proposes-right-to-recall-no-work-no-pay-for-mlas/article70553003.ece",
-    "time": "2026-01-26T13:43:32.000Z"
   },
   {
     "cat": "Entertainment",
@@ -486,15 +621,6 @@ const newsData_en = [
     "time": "2026-01-26T13:29:46.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Border 2 producer says Akshaye's cameo was not added later",
-    "desc": "In a recent statement, the creators of 'Border 2' emphasized that Akshaye Khanna's brief yet impactful appearance was intricately woven into the storyline from the get-go. Director Anurag Singh confirmed that the scene, filmed last December, serves as a heartfelt nod to the beloved 1997 classic, rather than a response to Khanna's newfound social media fame.",
-    "img": "https://static.toiimg.com/photo/msid-127552101,imgsize-27312.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-producer-bhushan-kumar-reveals-akshaye-khannas-cameo-was-not-added-due-to-dhurandhar-success-was-already/articleshow/127552101.cms",
-    "time": "2026-01-26T13:15:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Bihar return to Elite group",
     "desc": "Bihar secured a dominant 568-run victory over Manipur in the Plate final, earning a promotion back to the Ranji Trophy Elite Group. Piyush Singh's unbeaten double century and strong bowling performances from Suraj Kashyap and Himanshu Singh were instrumental in their crushing win.",
@@ -505,48 +631,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Varun gets SLAMMED by Mumbai Metro authority for THIS",
-    "desc": "Actor Varun Dhawan faced criticism from Maha Mumbai Metro authorities after a video surfaced showing him doing pull-ups on overhead grab handles during his commute. The metro operator warned that such actions are punishable under the Metro Railways Act, 2002, potentially leading to penalties or imprisonment.",
-    "img": "https://static.toiimg.com/photo/msid-127550019,imgsize-39322.cms",
+    "title": "5 times Taylor Swift and Travis Kelce slayed — together",
+    "desc": "sometimes sweet, sometimes silly, always real. Fans of the couple go into some sort of a frenzy, and it’s not hard to see why.Taylor in the stands, or Travis on stage — whatever the setting, their moments together are more than just celebrity sightings. They’re like little explosions of support and affection, the kind of thing people screenshot and send to their friends. The world gets to watch two huge personalities, each with their own world, finding a way to fit together in the spotlight. Here are five times they really nailed it.",
+    "img": "https://static.toiimg.com/photo/msid-127542377,imgsize-67200.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/varun-dhawan-gets-slammed-by-authority-for-performing-stunts-inside-mumbai-metro-acts-like-these-are-punishable/articleshow/127550019.cms",
-    "time": "2026-01-26T12:29:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' censor: Exploring what lies ahead for Vijay's film",
-    "desc": "Thalapathy Vijay's 'Jana Nayagan' faces a crucial verdict on January 27th from the Madras High Court regarding its censor certificate. A split decision could lead to a third judge's review, prolonging the legal battle. While a split is possible, legal observers anticipate a unanimous order, bringing much-needed clarity for fans and the production team after weeks of suspense.",
-    "img": "https://static.toiimg.com/photo/msid-127550254,imgsize-34858.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-censor-row-will-vijay-starrer-emerge-with-unanimous-order-or-split-verdict-exploring-what-lies-ahead/articleshow/127550254.cms",
-    "time": "2026-01-26T12:25:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajinikanth gifts gold chain to Madurai fan selling Rs 5 parottas",
-    "desc": "Superstar Rajinikanth honored Madurai's Rs. 5 parotta seller, Rajini Sekar, by gifting him a gold chain and inviting him to his Chennai home. Sekar's dedication to serving the poor despite rising costs caught the actor's attention. Rajinikanth praised Sekar's noble act, highlighting the pride such fans bring to their idols.",
-    "img": "https://static.toiimg.com/photo/msid-127548998,imgsize-68994.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanth-gifts-gold-chain-to-madurai-fan-selling-rs-5-parottas-invites-him-to-his-chennai-residence-watch/articleshow/127548998.cms",
-    "time": "2026-01-26T12:02:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Celina Jaitly pens emotional letter to her kids on Republic Day 2026",
-    "desc": "On Republic Day 2026, actress Celina Jaitly shared a heartbreaking letter to her three sons amid a bitter divorce from Peter Haag. Alleging severe abuse and financial coercion, Jaitly revealed she has been denied access to her children in Austria, expressing deep fears over the erasure of their Indian identity.",
-    "img": "https://static.toiimg.com/photo/msid-127546149,imgsize-81102.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/celina-jaitly-pens-emotional-republic-day-2026-letter-to-her-kids-amid-divorce-battle-with-peter-haag-i-havent-heard-your-voices-for-ages/articleshow/127546149.cms",
-    "time": "2026-01-26T11:19:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Who is Prathamesh Kadam? Influencer passes away, creators mourn",
-    "desc": "Prathamesh Kadam, the beloved Marathi influencer known for his lighthearted reels alongside his mother, has tragically left us. His friend broke the heartbreaking news, which has left the content creation world stunned. While details surrounding his passing are unclear, reports indicate he may have been fighting cancer. A farewell ceremony was held in Malad, Mumbai.",
-    "img": "https://static.toiimg.com/photo/msid-127545961,imgsize-27164.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/who-is-prathamesh-kadam-influencer-passes-away-leaving-fans-and-content-creators-mourning-his-loss/articleshow/127545961.cms",
-    "time": "2026-01-26T11:10:33.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/5-times-taylor-swift-and-travis-kelce-slayed-together/photostory/127542377.cms",
+    "time": "2026-01-26T12:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -556,24 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/clock-ticking-for-sanju-samson-can-he-fix-his-batting-issues-before-t20-world-cup/articleshow/127545617.cms",
     "time": "2026-01-26T11:04:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Private space firms seek procurement push, critical infrastructure status for sector",
-    "desc": "India's burgeoning private space sector urges the government to boost public procurement and recognize space assets as critical infrastructure. This move aims to unlock financing, reduce capital costs, and accelerate the growth of domestic companies in satellites, launch vehicles, and data services, positioning India as a global space leader.",
-    "img": "https://static.toiimg.com/photo/msid-127544908,imgsize-781133.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-expectations-private-space-firms-seek-procurement-push-critical-infrastructure-status-for-sector/articleshow/127544649.cms",
-    "time": "2026-01-26T10:44:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Top expectations from FM Niramala Sitharaman’s ninth Budget",
-    "desc": "Finance minister Nirmala Sitharaman's upcoming Union Budget is anticipated to bring significant tax reforms and a customs duty overhaul. Focus is also on economic growth support amidst global uncertainty and a clear strategy to lower India's debt-to-GDP ratio. Taxpayers hope for income tax relief, while businesses seek clarity on the new tax regime.",
-    "img": "https://static.toiimg.com/photo/msid-127542884,imgsize-1085020.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-tax-reforms-customs-rationalisation-and-fiscal-reset-on-the-agenda/articleshow/127542048.cms",
-    "time": "2026-01-26T10:31:43.000Z"
   },
   {
     "cat": "Sports",
@@ -610,24 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/not-taking-anything-lightly-sunil-gavaskar-says-india-are-already-in-t20-world-cup-mode/articleshow/127542310.cms",
     "time": "2026-01-26T09:56:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sports fraternity says 'let us honour our Constitution'",
-    "desc": "Members of the Indian sports fraternity extended Republic Day greetings on social media, emphasizing the importance of the Constitution, unity, and national duty. Athletes and sports bodies shared messages on platforms like X and Instagram, celebrating India's 77th Republic Day and expressing pride in their nation.",
-    "img": "https://static.toiimg.com/photo/msid-127541224,imgsize-106132.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/republic-day-sports-fraternity-says-let-us-honour-our-constitution/articleshow/127540855.cms",
-    "time": "2026-01-26T09:34:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ratnakar Shetty",
-    "desc": "Cricket fraternity mourns the loss of IS Bindra, a pivotal figure in Indian cricket administration. Veteran administrator Prof Ratnakar Shetty lauded Bindra's immense contributions, including strengthening Asian cricket ties, successfully hosting World Cups, and leading the BCCI's fight for broadcasting rights. Bindra also played a crucial role in the IPL's inception and guiding its early stages.",
-    "img": "https://static.toiimg.com/photo/msid-127540998,imgsize-40710.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-was-lucky-to-have-a-top-administrator-like-is-bindra-ratnakar-shetty/articleshow/127540946.cms",
-    "time": "2026-01-26T09:23:20.000Z"
   },
   {
     "cat": "Sports",
@@ -685,48 +739,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Isne game change kar di hai': Why India’s title defence needs Abhishek Sharma",
-    "desc": "Abhishek Sharma’s explosive rise has reshaped India’s T20 blueprint. With a strike rate touching 200, fear factor in the powerplay and consistency to match intent, the left-hander has become indispensable to India’s T20 World Cup title defence. Beyond numbers, it is the psychological impact he creates that gives India a decisive edge.",
-    "img": "https://static.toiimg.com/photo/msid-127532541,imgsize-184604.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/isne-hindustan-ki-game-change-kar-di-hai-why-indias-t20-world-cup-title-defence-needs-abhishek-sharma-as-much-as-jasprit-bumrah-hardik-pandya/articleshow/127532177.cms",
-    "time": "2026-01-26T06:38:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand players inspect Abhishek Sharma's bat – WATCH",
-    "desc": "India secured an eight-wicket victory over New Zealand, clinching the T20I series 3-0. Abhishek Sharma's rapid 14-ball fifty and Suryakumar Yadav's attacking half-century powered India's chase, completing the target in just 10 overs. This dominant performance highlighted India's batting prowess and sealed a memorable series win.",
-    "img": "https://static.toiimg.com/photo/msid-127531906,imgsize-36990.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/new-zealand-players-inspect-abhishek-sharmas-bat-after-brutal-knock-watch/articleshow/127531798.cms",
-    "time": "2026-01-26T06:25:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'People gave me six months': Jasprit Bumrah opens up on 10-year career",
-    "desc": "India secured the T20I series with two games remaining. Jasprit Bumrah stated his focus is on team contribution, not ball preference. He delivered a strong performance with three wickets. Abhishek Sharma and Suryakumar Yadav led the chase with powerful batting. Bumrah also marked ten years in international cricket, reflecting on his journey.",
-    "img": "https://static.toiimg.com/photo/msid-127530232,imgsize-59468.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/people-gave-me-six-months-jasprit-bumrah-reflects-on-a-stellar-10-year-international-journey/articleshow/127530065.cms",
-    "time": "2026-01-26T05:52:54.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Gukesh slumps to another defeat against Giri",
     "desc": "On what turned out to be a tough day for Indians, Arjun Erigaisi found himself on the receiving end against Yagiz Kaan Erdogmus of Turkiye who played a remarkable game to beat the world No. 5 and the top seeded",
     "img": "https://th-i.thgim.com/public/incoming/noxwp/article70551809.ece/alternates/LANDSCAPE_1200/G_NhguEWUAAdDw6.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/tata-steel-masters-gukesh-slumps-to-another-defeat-against-giri/article70551800.ece",
     "time": "2026-01-26T04:08:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Not going to challenge’: BCB accepts ICC call as B'desh bow out quietly of T20 WC",
-    "desc": "The Bangladesh Cricket Board has accepted the ICC's decision to replace them with Scotland in the T20 World Cup after the government refused to clear the team for travel to India due to security concerns. The BCB stated they cannot participate in the current fixture and will not pursue arbitration.",
-    "img": "https://static.toiimg.com/photo/msid-127522409,imgsize-328918.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-are-not-going-to-challenge-bcb-accepts-icc-call-as-bangladesh-bow-out-of-t20-world-cup/articleshow/127522214.cms",
-    "time": "2026-01-26T03:14:18.000Z"
   },
   {
     "cat": "World",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-music-composer-bharadwaj-interview-my-success-story-ar-rahman-ilaiyaraaja/article70545564.ece",
     "time": "2026-01-24T07:48:54.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Indonesia landslip kills eight, more than 80 missing",
-    "desc": "The disaster comes after tropical storms and intense monsoon rains late last year triggered flooding and landslides that killed around 1,200 people and displaced more than 240,000 in Indonesia’s Sumatra island, according to official figures.",
-    "img": "https://th-i.thgim.com/public/incoming/e0ufct/article70547083.ece/alternates/LANDSCAPE_1200/2026-01-24T120656Z_265955083_RC2O7JA7I6EQ_RTRMADP_3_INDONESIA-LANDSLIDE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/indonesia-landslide-death-toll-january-24-2026/article70545568.ece",
-    "time": "2026-01-24T07:06:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jannik Sinner battles cramp, heat to reach fourth round",
-    "desc": "The Italian limped over to his players' box in desperation ​midway through the match and was told by coach Darren Cahill to walk through the rest of the third set if necessary to get to a break",
-    "img": "https://th-i.thgim.com/public/incoming/bjyvwb/article70545490.ece/alternates/LANDSCAPE_1200/2026-01-24T061057Z_1078411355_UP1EM1O0CY315_RTRMADP_3_TENNIS-AUSOPEN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/tennis/australian-open-2026-jannik-sinner-battles-cramp-heat-to-reach-fourth-round/article70545481.ece",
-    "time": "2026-01-24T06:27:43.000Z"
   }
 ];
