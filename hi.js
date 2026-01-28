@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Should Ishan Kishan open with Abhishek Sharma today in 4th T20I?",
+    "desc": "India and New Zealand will face each other today in the fourth T20I in Visakhapatnam. With the series already sealed, it is time for India to fine-tune their combination ahead of the T20 World Cup....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-should-ishan-kishan-open-with-abhishek-sharma-today-in-4th-t20i-2026-01-28-1027750",
+    "time": "2026-01-28T03:20:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryakumar Yadav surpasses Virat Kohli as captain, targets Rohit Sharma next in special T20I record",
+    "desc": "Suryakumar Yadav has a flawless record in T20Is as captain so far. He was appointed at the helm of the team in July 2024, a month after India won the T20 World Cup in June...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-surpasses-virat-kohli-as-captain-targets-rohit-sharma-next-in-special-t20i-record-2026-01-28-1027743",
+    "time": "2026-01-28T02:38:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gujarat Giants race ahead in playoff race, RCB still favourites for final",
+    "desc": "Gujarat Giants and Delhi Capitals played out a thriller in the 17th match of the ongoing Women's Premier League (WPL) season at the BCA Stadium, Kotambi in Vadodara on Tuesday. The match went down to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wpl-2026-points-table-gujarat-giants-race-ahead-in-playoff-race-rcb-still-favourites-for-final-2026-01-28-1027734",
+    "time": "2026-01-28T01:41:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sophie Devine spoils DC's party yet again as GG secure nail-biter in WPL 2026",
     "desc": "Just like she did in their first meeting in WPL 2026, Gujarat Giants veteran all-rounder Sophie Devine denied Delhi Capitals a famous win yet again and this time at the BCA Stadium, Kotambi, Vadodara, on...",
     "img": "",
@@ -46,7 +73,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "South Africa look to chase 174 to take series lead in Parl",
+    "title": "South Africa hammer West Indies, win by 9 wickets",
     "desc": "South Africa lock horns against the West Indies in a three-match T20I series at home as they look to fine-tune their final preparations for the T20 World Cup 2026. The Proteas lost the five-match T20I...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/former-pcb-secretary-questions-boards-purpose-for-pakistans-potential-t20-world-cup-pull-out-2026-01-27-1027704",
     "time": "2026-01-27T15:18:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch SA vs WI T20I series on TV and streaming?",
-    "desc": "Less than 48 hours after the conclusion of the SA20 final, seven players are set to return to international action as South Africa and West Indies prepare to clash in a T20 series. Originally scheduled...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-vs-sri-lanka-live-when-and-where-to-watch-sa-vs-wi-t20i-series-on-tv-and-streaming-2026-01-27-1027691",
-    "time": "2026-01-27T14:27:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MT up against RL in World Legends Pro T20 League",
-    "desc": "The third match of the World Legends Pro T20 League 2026 will see the Maharashtra Tycoons take on the Rajasthan Lions at Goa’s 1919 Sportz Cricket Stadium. The clash promises star power, featuring cricketing greats...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/maharashtra-tycoons-vs-rajasthan-lions-live-cricket-score-mt-up-against-rl-in-world-legends-pro-t20-league-2026-01-27-1027688",
-    "time": "2026-01-27T14:02:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gujarat Giants beat Delhi Capitals by three runs as Devine stars",
-    "desc": "Gujarat Giants are up against the Delhi Capitals in the 17th match of the Women's Premier League 2026 at the BCA Stadium, Kotambi, Vadodara. The race for the playoffs has been red-hot with four teams vying...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gg-vs-dc-wpl-2025-live-cricket-score-gujarat-giants-vs-delhi-capitals-bca-stadium-kotambi-vadodara-latest-match-updates-scorecard-playing-xis-2026-01-27-1027687",
-    "time": "2026-01-27T14:01:42.000Z"
   }
 ];

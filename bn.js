@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "অরিজিৎ সিং আর ফিল্মে গাইবেন না মেনে নিতে পারছেন না রাজ চক্রবর্তী",
+    "desc": "বলিউডের সবচেয়ে জনপ্রিয় কণ্ঠ অরিজিত সিং যেন এক হতাশার গান। একটি ভাঙা হৃদয় বা রাতের একান্ত মুহূর্তে আপনার স্মৃতিতে ঢুকে পড়তে তাঁর কণ্ঠই যেন স্বতঃস্ফূর্তভাবে বাজে। বেশ সাধারন এক মুর্শিদাবাদি ছেলে থেকে দেশের অন্যতম প্রিয় গায়ক হওয়া পর্যন্ত তাঁর যাত্রা অনন্য। তবু গত দুই দশকে কোটি কোটি মানুষের কষ্ট, ভালোবাসা ও অপেক্ষার সুর হয়ে উঠলেও, সম্প্রতি নিজেই থেমে দাঁড়ানোর সিদ্ধান্ত নিলেন তিনি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/arrr-2026-01-b0f50e79a3e6a578ad1967a890f06200.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/short-videos/entertainment/arijit-singh-quits-playback-singing-bengali-director-raj-chakraborty-cannot-accept-this-news-pbd-2515357.html",
+    "time": "2026-01-28T03:19:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "প্লেব্যাক গান আর গাইবেন না অরিজিৎ সিং! কী হবে? ভক্তদের বিস্ময়ের ঘোর কাটছে না! ঠিক শুনছেন?",
     "desc": "Arijit Singh| চলচ্চিত্র জগতের জন্য বড় চমক। জনপ্রিয় গায়ক অরিজিৎ সিং সিনেমার প্লেব্যাক গায়ক হিসেবে অবসর নেওয়ার ঘোষণা করলেন। মঙ্গলবার, ২৭ জানুয়ারি, নিজের ব্যক্তিগত সোশ্যাল মিডিয়া অ্যাকাউন্টে এক আবেগঘন পোস্টের মাধ্যমে এই সিদ্ধান্তের কথা জানান ৩৮ বছর বয়সি শিল্পী। প্লেব্যাক ছাড়লেন গায়ক অরিজিৎ সিং, পোস্ট দেখে স্তম্ভিত গুণমুগ্ধরা | Bangla News অরিজিৎ সিং ২৭ জানুয়ারি সোশ্যাল মিডিয়ায় প্লেব্যাক গায়ক হিসেবে অবসর ঘোষণা করলেন। ভক্তরা বিস্মিত ও ভবিষ্যতের সংগীত যাত্রার জন্য শুভেচ্ছা জানিয়েছেন!",
     "img": "https://images.news18.com/static-bengali/uploads/2025/08/WhatsApp-Image-2025-08-14-at-6.09.10-PM-2025-08-041a68cffc5d9d293d51bfabe1f37d69-3x2.jpeg",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/technology/tech-news-instagram-reels-legally-download-save-tips-bengali-news-sal-2502794.html",
     "time": "2026-01-18T12:40:15.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "আপনি ফোন ব্যবহার না করলেও ব্যাটারি দ্রুত খালি হচ্ছে? জানুন ব্যাকগ্রাউন্ড কারণগুলো!",
-    "desc": "আমরা যখন ফোনটি ব্যবহার করি, তখন এটিতে একটি ব্যাটারি ড্রেন থাকে। ফোনের স্ক্রিনটি সবচেয়ে ব্যাটারি ব্যবহার করে, তবে কখনও কখনও এটি ঘটে যে আমরা ফোনটি ব্যবহার করছি না, তবে এখনও ফোনের ব্যাটারি ছাড় দেওয়া হয়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Untitled-design-2026-01-18T170828.381-2026-01-b22d10cd63ee9be167af098fc712c2a7-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/technology/battery-life-of-smartphone-why-phone-battery-drains-even-when-not-used-reasons-and-fixes-bengali-sal-2502777.html",
-    "time": "2026-01-18T11:50:00.000Z"
   }
 ];

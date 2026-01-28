@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "ભૂક્કા કાઢશે ચાંદી, આગામી 3 મહિનામાં ભાવ ઉછળીને અકલ્પનીય સ્તરે પહોંચશે, રિપોર્ટમાં ચોંકાવનારો દાવો",
+    "desc": "સોના અને ચાંદીના ભાવ દિવસેને દિવસે આકાશે આંબી રહ્યા છે. સોના કરતા પણ ચાંદી વધુ ચોંકાવી રહી છે. એક રિપોર્ટમાં ચાંદીના ભાવ આગામી 3 મહિનામાં બંપર ઉછળે તેવા સંકેત અપાયા છે. ત્યારે ચાંદીના ભાવ વધવાના કારણો શું હોઈ શકે અને હાલ શું ભાવ છે તથા રિપોર્ટમાં જે ભાવ પર સંભાવના વ્યક્ત કરાઈ છે તે જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/silver-rate-explainer-about-citi-report-shows-that-price-may-increase-upto-4-lakh-in-next-3-months-463119 ",
+    "time": "2026-01-28T03:40:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "અરિજીત સિંહના કરિયરમાં પણ થયા છે હાઈ વોલ્ટેજ ડ્રામા, આ 4 ઘટનામાં અરિજિત આવ્યો વિવાદમાં",
+    "desc": "બોલીવુડના લોકપ્રિય પ્લેબેક સિંગર અરિજિત સિંહે ફિલ્મી ગીતો ગાવામાં નિવૃત્તિ જાહેર કરી દીધી છે. આ વાતની પુષ્ટિ તેણે સોશિયલ મીડિયા પોસ્ટ દ્વારા કરી છે. અરિજિત સિંહ બોલીવુડના લોકપ્રિય ગાયક છે જો કે તેના કરિયરમાં પણ વિવાદો થયા છે. તેમાં પણ 4 ઘટના એવી છે જેમાં અરિજિત સિંહ પર લોકોનો ગુસ્સો ફુટ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/arijit-singh-career-controversies-salman-arijit-fight-arijit-singh-retirement-463118 ",
+    "time": "2026-01-28T03:14:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ચાર ધામમાં ગેરહિન્દુઓના પ્રવેશ પર મોટો નિર્ણય, જાણો શું કહ્યું મંદિર સમિતિએ",
+    "desc": "ઉત્તરાખંડમાં ચાર ધામો અંગેની પરિસ્થિતિ BKTCએ સ્પષ્ટ કરી છે. આ ઘર્મના લોકોને પણ હિન્દુઓ સાથે પ્રવેશ આપવામાં આવશે. વક્ફ બોર્ડના વડા શાદાબ શમ્સે આ નિર્ણયને ટેકો આપતા કહ્યું કે, જે લોકો શ્રદ્ધા રાખતા નથી તેમનો ત્યાં શું કામ છે?\"",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-decision-on-entry-of-non-hindus-into-char-dham-know-what-the-temple-committee-said-463111 ",
+    "time": "2026-01-28T03:05:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "2013 થી શરુ થયેલી અરિજિત સિંહની સુરીલી સફર પુરી, આ દેશભક્તિનું ગીત બન્યું અરિજિતના કરિયરનું છેલ્લું ગીત",
+    "desc": "કરોડો દિલો પર પોતાના અવાજના દમ પર રાજ કરતાં અરિજિત સિંહએ અચાનક લોકોને મોટો આંચકો આપ્યો છે. અરિજિત સિંહએ પ્લેબેક સિંગિંગ છોડવાનો નિર્ણય કર્યો છે. આ ખબર સામે આવ્યા પછી અરિજિત સિંહ વિશે ચર્ચાઓ તેજ થઈ ગઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/arijit-singh-retirement-arijit-singh-career-starting-days-and-last-song-of-arijit-singh-463110 ",
+    "time": "2026-01-28T02:40:27.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "અરિજિત સિંહે પ્લેબેક સિંગિંગમાંથી કેમ લીધો સંન્યાસ, સલમાન ખાન માટે ગાયું છેલ્લું ગીત? જાણો",
     "desc": "અરિજિત સિંહે છેલ્લા 15 વર્ષના કરિયરમાં એવા અનેક ગીતો આપ્યા છે જે ફેન્સ સતત સાંભળતા રહે છે. જો કે, હવે અરિજીત સિંહના અવાજને પસંદ કરનારાઓના દિલ તૂટવાના છે, કારણ કે બોલિવૂડના ફેવરિટ સિંગરે પ્લેબેક સિંગિંગમાંથી રિટાયરમેન્ટની જાહેરાત કરી દીધી છે.",
@@ -385,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/the-minimum-salary-in-the-8th-pay-commission-will-be-rs-58500-important-news-for-central-government-employees-462897 ",
     "time": "2026-01-25T15:37:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "27 દેશો અને 22 ટ્રિલિયન ડોલરની તાકત, યુરોપની &amp;#039;પાવર લેડી&amp;#039; દિલ્હીમાં હાજર... એવું શું ખાસ છે કે ટ્રમ્પ અને જિનપિંગ બંને છે હેરાન?",
-    "desc": "ભારત સૌથી મોટા કરાર પર હસ્તાક્ષર કરવા જઈ રહ્યું છે. ભારત અને યુરોપિયન યુનિયન વચ્ચે મધર ઓફ પર ડીલ પર સાઈન થવાની છે. આ વેપાર કરારથી ભારત યુરોપિયન દેશોમાં વેપારને ઝડપી બનાવશે. જેના કારણે ભારત વધારે માલની સપ્લાય કરી શકશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/europe-power-lady-is-present-in-delhi-what-is-so-special-that-both-trump-and-jinping-are-surprised-462893 ",
-    "time": "2026-01-25T14:40:53.000Z"
   },
   {
     "cat": "Sports",

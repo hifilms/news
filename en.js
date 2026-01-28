@@ -1,5 +1,149 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Ruthless India keen to extend domination against New Zealand",
+    "desc": "India's T20 World Cup preparations are on track with a dominant series win against New Zealand. Suryakumar Yadav's side has showcased ruthless batting, with Abhishek Sharma and the captain himself finding form. While the batting order shows depth, Sanju Samson faces pressure. Bowlers like Bumrah and Bishnoi have impressed, setting a strong tone for the upcoming tournament.",
+    "img": "https://static.toiimg.com/photo/msid-127673579,imgsize-45432.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ruthless-india-keen-to-extend-domination-against-new-zealand-as-abhishek-suryakumar-ishan-boost-t20-world-cup-push/articleshow/127673529.cms",
+    "time": "2026-01-28T03:45:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Virat-Anushka SPOTTED on day out in London: PIC",
+    "desc": "Virat Kohli and Anushka Sharma were recently spotted in London, enjoying a quiet outing after a busy period. The power couple, who have been dividing their time between India and the UK to raise their children away from the spotlight, were seen in winter wear, delighting fans with a selfie.",
+    "img": "https://static.toiimg.com/photo/msid-127670653,imgsize-25400.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-and-anushka-sharma-spotted-on-day-out-in-london-pose-with-fan-for-a-selfie-pic/articleshow/127670629.cms",
+    "time": "2026-01-28T03:16:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alan Rickman’s widow says he had “so much more to give”",
+    "desc": "Alan Rickman's widow, Rima Horton, reflects on his passing from pancreatic cancer a decade ago. She revealed he lived for six months post-diagnosis, prioritizing a pain-free departure and controlling his final arrangements. Horton emphasized his desire to avoid pity, highlighting his immense talent and the void left by his untimely death.",
+    "img": "https://static.toiimg.com/photo/msid-127672156,imgsize-1404344.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/harry-potter-fame-alan-rickmans-widow-rima-horton-says-he-had-so-much-more-to-give-a-decade-after-his-demise/articleshow/127672156.cms",
+    "time": "2026-01-28T03:13:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Bad for our cricket, don’t spoil ties’: Ex-Pakistan stars warn PCB against T20 WC boycott",
+    "desc": "Former Pakistan cricketers and officials are urging the PCB to participate in the T20 World Cup, warning against a boycott in solidarity with Bangladesh. They emphasise prioritising Pakistan's cricketing interests and maintaining good relations with the International Cricket Council and member boards. Concerns are raised about potential logistical and financial repercussions.",
+    "img": "https://static.toiimg.com/photo/msid-127671656,imgsize-93086.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/bad-for-our-cricket-dont-spoil-ties-with-icc-former-pakistan-stars-warn-pcb-against-t20-world-cup-boycott-over-bangladesh/articleshow/127671480.cms",
+    "time": "2026-01-28T03:03:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rybakina defeats Swiatek to book Australian Open semi-final spot",
+    "desc": "Fifth seed Elena Rybakina defeated world number two Iga Swiatek 7-5, 6-1 to reach the Australian Open semi-finals. The victory ended Swiatek's bid for a career Grand Slam, as she continues to seek a title at Melbourne Park. Rybakina, in strong form, advanced to her fourth Grand Slam semi-final.",
+    "img": "https://static.toiimg.com/photo/msid-127671567,imgsize-146666.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/elena-rybakina-defeats-iga-swiatek-to-book-australian-open-semi-final-spot/articleshow/127671458.cms",
+    "time": "2026-01-28T03:03:22.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "What’s happening in Syria’s Kurdish regions?",
+    "desc": "How was the Democratic Autonomous Administration of North and East Syria or Rojava established? Why did the Shaara-Abdi agreement fall through? Why does Turkiye support the Syrian government forces? What has been the U.S.’s position? What does the ceasefire agreement demand?",
+    "img": "https://th-i.thgim.com/public/incoming/m2od0s/article70558127.ece/alternates/LANDSCAPE_1200/2026-01-27T151135Z_1219213048_RC2N9JATM1A7_RTRMADP_3_SYRIA-SECURITY-KURDS-RAQQA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/whats-happening-in-syrias-kurdish-regions-explained/article70557110.ece",
+    "time": "2026-01-28T03:00:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Dirty Dancing’ returns with a sequel after 40 years",
+    "desc": "Jennifer Grey is once again stepping into the shoes of Baby in an upcoming 'Dirty Dancing' sequel, which is gearing up for production. While Jennifer is thrilled to dive into Baby's journey, she humbly reflects on the unique chemistry she shared with the late Patrick Swayze.",
+    "img": "https://static.toiimg.com/photo/msid-127671074,imgsize-1620309.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dirty-dancing-returns-with-a-sequel-after-40-years-jennifer-grey-to-reprise-her-iconic-role/articleshow/127671074.cms",
+    "time": "2026-01-28T02:53:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Why Taylor Swift is ditching the Grammys 2026?",
+    "desc": "It seems Taylor Swift will be a no-show at the 2026 Grammy Awards, following the announcement that her latest album, 'The Life of a Showgirl,' released in October 2025, didn't make the eligibility deadline. This absence follows her dazzling performance at the 2025 event.",
+    "img": "https://static.toiimg.com/photo/msid-127670761,imgsize-28786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/grammys-2026-why-taylor-swift-would-not-be-dancing-at-the-front-row/articleshow/127670693.cms",
+    "time": "2026-01-28T02:46:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor-Travis wedding: Graham says there are so many NDAs",
+    "desc": "Graham Norton remains tight-lipped about Taylor Swift and Travis Kelce's wedding, citing NDAs after his co-host probed for details. Swift previously hinted at his invitation on his show, praising Kelce's elaborate proposal. While wedding plans are underway, potential timelines are flexible, with the couple prioritizing privacy amidst fan speculation.",
+    "img": "https://static.toiimg.com/photo/msid-127670627,imgsize-782662.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/taylor-swifttravis-kelce-wedding-is-graham-norton-invited-heres-all-we-know/articleshow/127670649.cms",
+    "time": "2026-01-28T02:43:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mohanlal fans put up banners against my film'",
+    "desc": "Director Vinayan clarifies misconceptions surrounding his debut film 'Superstar', which featured a lookalike of Mohanlal. He reveals the film originated from a successful play and was never intended to offend the superstar. Vinayan asserts that Mohanlal himself showed no animosity towards the film, despite fan reactions fueled by those close to the actor.",
+    "img": "https://static.toiimg.com/photo/msid-127670169,imgsize-53642.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/people-close-to-mohanlal-turned-fans-against-me-vinayan-on-his-debut-film-superstar/articleshow/127670169.cms",
+    "time": "2026-01-28T02:38:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Very proud of ancestral roots in Goa': European Council chief Antonio Costa flaunts OCI card—watch",
+    "desc": "European Council President Antonio Costa expressed pride in his Goan roots, highlighting his personal connection to India as the EU and India concluded an ambitious free trade agreement. This historic moment marks a new chapter in their relations, strengthening ties in trade, security, and people-to-people connections.",
+    "img": "https://static.toiimg.com/photo/msid-127670785,imgsize-3810222.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/very-proud-of-ancestral-roots-in-goa-european-council-chief-antonio-costa-flaunts-oci-cardwatch/articleshow/127669969.cms",
+    "time": "2026-01-28T02:31:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mexican President asks BTS for more shows",
+    "desc": "Around the world, hundreds of thousands of fans of K-pop megastars BTS are nursing disappointment after failing to secure a ticket for their highly-anticipated comeback tour. So moved was she by the disappointment of the unlucky many, she said she wrote to South Korea's President Lee Jae Myung to ask that he \"bring the acclaimed K-pop artists more often\" to her country.",
+    "img": "https://static.toiimg.com/photo/msid-127668574,imgsize-38626.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/mexican-president-reaches-out-to-bts-on-sold-out-arirang-tour-1-million-people-want-tickets-but-there-are-only-150000/articleshow/127667400.cms",
+    "time": "2026-01-28T02:15:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Startup edges closer to launch of its inflatable Space habitat",
+    "desc": "Bengaluru-based Akashlabdhi is nearing the launch of India's first inflatable space habitat, AntarikshHAB, after successful key tests in Switzerland. A scaled-down version will launch in July, demonstrating deployment, controlled re-entry, and recovery for crucial data on survivability and responsible space operations.",
+    "img": "https://static.toiimg.com/photo/msid-127669181,imgsize-1360178.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/first-for-india-startup-edges-closer-to-launch-of-its-inflatable-space-habitat/articleshow/127669003.cms",
+    "time": "2026-01-28T02:13:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock recommendations for January 28, 2026",
+    "desc": "According to Mehul Kothari, DVP - Technical Research, Anand Rathi Shares and Stock Brokers, the top stocks to buy today (January 28, 2026) are Chennai Petroleum, Oil India, and Punjab National Bank (PNB). Let’s take a look:",
+    "img": "https://static.toiimg.com/photo/msid-127640699,imgsize-61198.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-january-28-2026-chennai-petroleum-oil-india-punjab-national-bank-best-stocks-to-buy-today/articleshow/127640541.cms",
+    "time": "2026-01-28T02:00:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Blind Side’ fame Quinton Aaron’s health update",
+    "desc": "Actor Quinton Aaron, famed for 'The Blind Side', is critically ill in the ICU after a sudden medical emergency. He lost feeling in his legs and collapsed at home, later diagnosed with a severe blood infection and a spinal cyst. His former co-star Jae Head shared the worrying news, urging prayers and support for Aaron and his family.",
+    "img": "https://static.toiimg.com/photo/msid-127668230,imgsize-36138.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-blind-sides-fame-quinton-aarons-health-update-former-costar-jae-head-shares-he-is-in-pretty-bad-shape/articleshow/127668166.cms",
+    "time": "2026-01-28T01:53:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Report",
+    "desc": "Angelina Jolie is reportedly planning a significant move abroad once her youngest children reach adulthood, seeking a fresh start away from American shores. Driven by a desire for privacy, peace, and a sense of \"humanity\" she feels is lacking, Jolie is shedding properties and preparing for a new chapter.",
+    "img": "https://static.toiimg.com/photo/msid-127667497,imgsize-555928.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/angelina-jolie-to-leave-american-shores-with-kids-heres-what-we-know/articleshow/127667315.cms",
+    "time": "2026-01-28T01:37:57.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'Send Help' producer Zainab Azizi: 'Want film with Preeti Zinta'",
     "desc": "Producer Zainab Azizi reveals the 'delicious twist' behind casting Rachel McAdams in Sam Raimi's dark survival story, 'Send Help.' Azizi also shares her admiration for Bollywood icons like Shah Rukh Khan and her aspiration to produce a Hollywood-Bollywood crossover with close friend Preity Zinta, aiming to bring Desi flair to global cinema.",
@@ -72,6 +216,15 @@ const newsData_en = [
     "time": "2026-01-27T23:44:00.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "'One bad day can undo everything': Dravid cautions Team India, reflects on 2023 WC pain",
+    "desc": "Former India coach Rahul Dravid believes India is a strong contender to win the upcoming T20 World Cup. He praises the team's current approach and their consistent performance. Dravid also credits Rohit Sharma for transforming India's white-ball cricket. He emphasizes that despite their strength, T20 cricket demands peak performance on the day.",
+    "img": "https://static.toiimg.com/photo/msid-127635471,imgsize-79688.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/one-bad-day-can-undo-everything-rahul-dravid-cautions-team-india-reflects-on-2023-wc-pain/articleshow/127635039.cms",
+    "time": "2026-01-27T23:30:00.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Shilpa’s AmmaKai draws massive queues over free breakfast",
     "desc": "Shilpa Shetty’s newly launched restaurant AmmaKai grabbed eyeballs on January 26 after announcing a free breakfast to mark Republic Day. The first-come, first-served offer saw people lining up outside the Bandra outlet as early as 7 am, much before the restaurant opened. Videos of long queues quickly went viral, with several content creators capturing the crowd waiting patiently for a free meal.",
@@ -99,42 +252,6 @@ const newsData_en = [
     "time": "2026-01-27T20:31:18.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "When Salman made peace with Arijit just months before retirement",
-    "desc": "It was one of those Weekend Ka Vaar moments that stayed with fans. During Bigg Boss 19, a light-hearted joke by comedian Ravi Gupta unexpectedly led Salman Khan to address his long-rumoured fallout with Arijit Singh. When Ravi quipped that he was nervous because he “looks like Arijit Singh,” Salman laughed — and then surprised everyone with an honest confession.",
-    "img": "https://static.toiimg.com/photo/msid-127650936,imgsize-36994.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-salman-khan-made-peace-with-arijit-singh-just-months-before-the-singers-retirement-announcement-jo-misunderstanding-thi-meri-side-se-thi/articleshow/127650839.cms",
-    "time": "2026-01-27T19:52:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Border 2’ director Anurag says trolls owe Varun an apology",
-    "desc": "Director Anurag Singh has defended Varun Dhawan against pre-release criticism for 'Border 2', urging detractors to apologize now that the film is a success. Singh highlighted how social media often amplifies negativity, but stressed that genuine work, like Dhawan's performance, ultimately silences critics. He believes actors are unfairly judged, and personal attacks are damaging, but good work prevails.",
-    "img": "https://static.toiimg.com/photo/msid-127648118,imgsize-45696.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-director-anurag-singh-says-trolls-owe-varun-dhawan-an-apology-if-people-are-submitting-apology-letters/articleshow/127648118.cms",
-    "time": "2026-01-27T18:59:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Mujhe laga Suniel Shetty se toh main better hoon’: Parmeet",
-    "desc": "Before television fame and films, Parmeet Sethi’s journey began with failure. His garment export business collapsed, pushing him to rethink his future. In a recent vlog, Parmeet recalled how a moment at home changed everything. When a producer visited to sign Archana Puran Singh for a film, Parmeet was left fascinated by the world of cinema. That was when he decided to try acting. “I only had to sell myself, and that I knew how to do,” he said.",
-    "img": "https://static.toiimg.com/photo/msid-127648230,imgsize-45392.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mujhe-laga-suniel-shetty-se-toh-main-better-hoon-parmeet-sethi-recalls-his-overconfidence-says-today-i-feel-so-embarrassed/articleshow/127648066.cms",
-    "time": "2026-01-27T18:59:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Who is Koel Roy? Everything to know about Arijit’s second wife",
-    "desc": "Arijit Singh has announced his retirement from playback singing, effective January 27, 2026, a move that has surprised fans globally. While stepping away from Bollywood films, the acclaimed artist will continue with live performances and independent music. His personal life, including his marriage to childhood friend Koel Roy and a previous marriage, has been kept private.",
-    "img": "https://static.toiimg.com/photo/msid-127647637,imgsize-46234.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/who-is-koel-roy-everything-to-know-about-arijit-singhs-second-wife/articleshow/127647637.cms",
-    "time": "2026-01-27T18:53:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sophie Devine holds her nerve as Gujarat edge Delhi in thrilling WPL clash",
     "desc": "Gujarat Giants secured a thrilling three-run victory over Delhi Capitals in the WPL 2026, with Sophie Devine defending nine runs in the final over. Beth Mooney's 58 and Anushka Sharma's 39 powered Gujarat's 174, a total Delhi narrowly missed despite late efforts from Sneh Rana and Niki Prasad.",
@@ -160,24 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/harry-brook-and-joe-root-centuries-lead-england-to-2-1-odi-series-win-over-sri-lanka/articleshow/127644454.cms",
     "time": "2026-01-27T18:00:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "His net worth, assets",
-    "desc": "Renowned playback singer Arijit Singh has announced his retirement from new playback assignments, citing a desire to explore music independently. Despite this, he will complete pending commitments. Singh, who boasts a net worth of Rs 414 crore, received the Padma Shri in 2025 for his significant contributions to music.",
-    "img": "https://static.toiimg.com/photo/msid-127642449,imgsize-27614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/arijit-singh-steps-away-from-playback-singing-inside-his-net-worth-plush-house-and-assets/articleshow/127642449.cms",
-    "time": "2026-01-27T17:32:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mamta steps down as Maha Mandleshwar of the Kinnar Akhada",
-    "desc": "Mamta Kulkarni has once again taken a decision that has surprised many. The former Bollywood actor has announced that she is stepping down as Maha Mandleshwar of the Kinnar Akhada, saying her spiritual journey no longer requires positions, titles or formal recognition.",
-    "img": "https://static.toiimg.com/photo/msid-127642862,imgsize-26930.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mamta-kulkarni-steps-down-as-maha-mandleshwar-of-the-kinnar-akhada-says-her-spiritual-journey-now-needs-silence-not-titles/articleshow/127642394.cms",
-    "time": "2026-01-27T17:31:55.000Z"
   },
   {
     "cat": "Politics",
@@ -232,15 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/white-paper-released-to-ensure-safe-and-trusted-ai-ecosystem-through-techno-legal-framework/articleshow/127640495.cms",
     "time": "2026-01-27T16:56:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Orry breaks silence on fallout with Sara and Ibrahim",
-    "desc": "Orhan Awatramani, popularly known as Orry, has been dominating showbiz conversations lately for his unfiltered social media posts and open digs at former friends Sara Ali Khan and Ibrahim Ali Khan. The influencer has made little effort to hide the growing tension, and now, in a recent interaction, he has addressed the feud head-on.",
-    "img": "https://static.toiimg.com/photo/msid-127640038,imgsize-55994.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/orry-breaks-silence-on-fallout-with-sara-ali-khan-and-ibrahim-ali-khan-says-only-amrita-singhs-apology-can-fix-it/articleshow/127639825.cms",
-    "time": "2026-01-27T16:45:52.000Z"
   },
   {
     "cat": "Politics",
@@ -324,15 +414,6 @@ const newsData_en = [
     "time": "2026-01-27T15:40:09.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Political motives force NSS to step back from alliance with SNDP",
-    "desc": "Explaining the decision to withdraw, NSS general secretary G. Sukuaran Nair said the organisation stepped back after realising that a political agenda lay behind the move. He maintains that his call for unity between the two major Hindu community organisations was sincere, but said it later became evident that those who raised the issue of unity were driven by political considerations",
-    "img": "https://th-i.thgim.com/public/incoming/eyeooc/article70557763.ece/alternates/LANDSCAPE_1200/80687_27_1_2026_20_0_16_3_IMG_20260127_195717.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/political-motives-force-nss-to-step-back-from-alliance-with-sndp/article70556993.ece",
-    "time": "2026-01-27T15:24:46.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India-EU FTA: Was Donald Trump a 'unifier' behind 'mother of all deals'",
     "desc": "India and the European Union have concluded negotiations for a landmark free trade agreement, described as the \"mother of all deals.\" Union commerce minister Piyush Goyal dismissed any US role in the pact, emphasising its independent nature. The agreement, expected to be implemented by 2026, aims to boost trade and investment between the two economic powerhouses.",
@@ -405,15 +486,6 @@ const newsData_en = [
     "time": "2026-01-27T12:59:52.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Aye! Who's screaming DK, DK': Siddaramaiah loses cool as youth Congress leaders chant DKS slogans",
-    "desc": "Karnataka chief minister Siddaramaiah lost his temper at a rally when Youth Congress workers chanted slogans for deputy CM DK Shivakumar. Despite his requests for quiet, the disruptions continued, overshadowing the protest against a new rural employment scheme. This incident highlights the ongoing power struggle between the two leaders within the state Congress.",
-    "img": "https://static.toiimg.com/photo/msid-127627038,imgsize-1009468.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/aye-whos-screaming-dk-dk-siddaramaiah-loses-cool-as-youth-congress-leaders-chant-dks-slogans-watch/articleshow/127619343.cms",
-    "time": "2026-01-27T12:53:30.000Z"
-  },
-  {
     "cat": "Business",
     "title": "‘Mother of all deals’: India and EU finalise FTA",
     "desc": "European wines, luxury cars to become cheaper as trade talks conclude after almost two decades; Modi calls it historic pact, while Ursula says it will reduce strategic dependence amid global turmoil; Officials say document will undergo legal scrubbing before it can be ratified by European Parliament",
@@ -432,15 +504,6 @@ const newsData_en = [
     "time": "2026-01-27T12:52:47.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Halwa ceremony held at North Block as preparations near completion",
-    "desc": "Finance minister Nirmala Sitharaman initiated the final preparations for the Union Budget 2026-27 with the traditional Halwa Ceremony. This event signifies the commencement of a strict lock-in period for officials involved in budget compilation, ensuring utmost confidentiality. The budget will be presented on February 1st, with digital access available via a mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-127626689,imgsize-98632.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-halwa-ceremony-held-at-north-block-as-preparations-near-completion/articleshow/127625635.cms",
-    "time": "2026-01-27T12:44:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Jos Buttler scripts history, becomes only the second player to…",
     "desc": "Jos Buttler achieved a significant milestone, becoming the second England player to play 400 international matches during the third ODI against Sri Lanka. The wicketkeeper-batter has amassed over 12,000 international runs, solidifying his status as a key white-ball player. Buttler is also slated to participate in the ICC Men's T20 World Cup 2026.",
@@ -448,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jos-buttler-scripts-history-becomes-only-the-second-player-to/articleshow/127622434.cms",
     "time": "2026-01-27T12:12:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'It's been chaos': NZ bowling coach on facing Abhishek, Surya, Ishan",
-    "desc": "New Zealand's bowlers are struggling against India's aggressive top order, with Abhishek Sharma, Ishan Kishan, and Suryakumar Yadav scoring at a high strike rate. Bowling coach Jacob Oram urged his players to embrace the challenge and learn to counter the Indian batters, comparing their hitting to Sanath Jayasuriya's style.",
-    "img": "https://static.toiimg.com/photo/msid-127620046,imgsize-45432.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/its-been-chaos-new-zealand-bowling-coach-on-facing-abhishek-sharma-suryakumar-yadav-and-ishan-kishan/articleshow/127619123.cms",
-    "time": "2026-01-27T11:20:02.000Z"
   },
   {
     "cat": "Sports",
@@ -469,30 +523,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'He deserves another chance': Ex-India captain's strong message to Agarkar over Sarfaraz",
-    "desc": "Sarfaraz Khan is making a strong case for a return to the Indian team with exceptional domestic performances after a period of transformation. His recent prolific run-scoring, including a 227 in the Ranji Trophy, has garnered attention. Encouragement from former captain Mohammad Azharuddin, who praised his attacking intent and desire to learn, further bolsters his prospects for another opportunity.",
-    "img": "https://static.toiimg.com/photo/msid-127616945,imgsize-77202.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-deserves-another-chance-ex-india-captain-sends-strong-message-to-ajit-agarkar-over-sarfaraz-khan/articleshow/127617017.cms",
-    "time": "2026-01-27T10:45:56.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'Politics should be eradicated': Ex-Pakistan cricketer issues blunt warning",
     "desc": "Former Pakistan spinner Saqlain Mushtaq has strongly criticized the intrusion of politics into cricket, asserting it harms both the sport and humanity. He emphasized cricket's role in fostering unity, lamenting the prolonged absence of India-Pakistan bilateral series. Mushtaq believes politics is detrimental, turning cricket into a battleground instead of entertainment.",
     "img": "https://static.toiimg.com/photo/msid-127615604,imgsize-171816.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/politics-should-be-eradicated-former-pakistan-cricketer-issues-blunt-warning-to-world-cricket/articleshow/127615647.cms",
     "time": "2026-01-27T10:14:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Can't accommodate ... ': ICC on 80–90 Bangladeshi applications",
-    "desc": "The ICC is revising its media accreditation for Bangladeshi journalists after the team's withdrawal from the T20 World Cup due to security concerns. Several journalists reported rejections, prompting the ICC to rework the process. The Bangladesh Cricket Board is seeking clarification from the ICC on the accreditation changes.",
-    "img": "https://static.toiimg.com/photo/msid-127613231,imgsize-79370.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/cant-accommodate-icc-on-8090-bangladeshi-media-accreditation-applications-for-t20-world-cup/articleshow/127613180.cms",
-    "time": "2026-01-27T09:34:37.000Z"
   },
   {
     "cat": "Entertainment",
@@ -502,15 +538,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/Delhi/tracing-the-seven-sisters-across-land-and-time/article70348345.ece",
     "time": "2026-01-27T08:37:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Border 2' box office collection day 5",
-    "desc": "Border 2 has achieved exceptional box office success over its opening weekend, driven by strong performances on Saturday, Sunday, and Republic Day. The film garnered a massive Rs 59 crore on Monday, with mass belts and Tier-2/Tier-3 centers showing extraordinary results, leading to a total collection of Rs 179.23 crore in just five days.",
-    "img": "https://static.toiimg.com/photo/msid-127608394,imgsize-57676.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-5-live-the-sunny-deol-varun-dhawan-starrer-may-see-drop-on-tuesday-after-a-massive-republic-day-inches-towards-rs-180-crore/articleshow/127608394.cms",
-    "time": "2026-01-27T08:26:45.000Z"
   },
   {
     "cat": "World",
@@ -637,15 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/uk-plans-to-create-british-fbi-to-bring-national-investigations-under-single-police-force/article70549837.ece",
     "time": "2026-01-25T17:04:16.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "France detains Indian captain of suspected shadow fleet tanker",
-    "desc": "The vessel named Grinch was seized in the Mediterranean on Thursday (January 22, 2026), then diverted to anchor off the French port city, on suspicion of being part of the ​shadow fleet that lets Russia export oil ⁠despite sanctions",
-    "img": "https://th-i.thgim.com/public/incoming/c20yrv/article70550568.ece/alternates/LANDSCAPE_1200/G_Rc7XzWgAAsvsW.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/france-detains-indian-captain-of-suspected-shadow-fleet-tanker/article70550560.ece",
-    "time": "2026-01-25T16:12:04.000Z"
   },
   {
     "cat": "Business",
@@ -837,15 +855,6 @@ const newsData_en = [
     "time": "2026-01-23T08:28:32.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Davos meeting concludes after Trump steals limelight, amidst caution against geopolitical conflict, AI risks",
-    "desc": "Canadian PM Mark Carney said middle powers like Canada, who had prospered through the era of an “American hegemon” needed to realise that a new reality had set in and that “compliance” would not shelter them from major power aggression",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/world-economic-forum-2026-davos-live-updates-january-23/article70540869.ece",
-    "time": "2026-01-23T03:49:05.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Dave Farrell on getting the band back together and finally coming to India",
     "desc": "Ahead of Linkin Park’s their long-awaited first concerts in India this weekend, veteran bassist Dave ‘Phoenix’ Farrell reflects on the band’s second life, emerging from the ashes, recruiting new faces and the long road back on tour",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-singer-saindhavi-on-music-films-and-life/article70533102.ece",
     "time": "2026-01-21T10:41:52.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Why SIR verification needs to be completely digitised",
-    "desc": "SIR 2.0, aimed at updating electoral rolls, has caused confusion and distress among voters. Despite the ECINet’s ability to handle data entry, verification, cross-checks, and audit trails, the process has relied heavily on paper-based forms, summons, and hearings",
-    "img": "https://th-i.thgim.com/public/incoming/2apqe1/article70526832.ece/alternates/LANDSCAPE_1200/PTI01_19_2026_000221A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/why-sir-verification-needs-to-be-completely-digitised/article70525723.ece",
-    "time": "2026-01-20T03:00:00.000Z"
   }
 ];
