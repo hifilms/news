@@ -1,12 +1,48 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "કેન્દ્ર સરકારના કર્મચારીઓ અને પેન્શનરો માટે મોટા સમાચાર, પગારમાં થઈ શકે છે ઐતિહાસિક વધારો, જાણો",
+    "desc": "કેન્દ્રીય કર્મચારીઓ અને પેન્શનરોને છેલ્લા થોડા સમયથી અસંતોષ છે, હવે તેઓ કહી રહ્યા છે કે એક નાનો વધારો નહીં, પરંતુ ઈતિહાસનો સૌથી મોટો પગાર વધારો અને પેન્શન વધારો કરવામાં આવે. યુનિયનો પણ તેને લઈને પોતાનો અસંતોષ વ્યક્ત કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-news-for-central-government-employees-and-pensioners-there-may-be-a-historic-increase-in-salaries-463151 ",
+    "time": "2026-01-28T09:09:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ચોથી T20માં આ સ્ટાર ખેલાડી થશે બહાર, શ્રેયસ ઐયરની એન્ટ્રી પાક્કી, જાણો કેવી હશે ભારતની પ્લેઈંગ-11",
+    "desc": "ભારત અને ન્યુઝીલેન્ડ વચ્ચે આજે વિશાખાપટ્ટનમમાં ચોથી T20 મેચ રમાશે. 5 મેચોની સિરીઝમાં ભારતે 3-0થી સિરીઝ પર કબજો કરી લીધો છે, ત્યારે ચોથી મેચમાં આજે ભારતની પ્લેઈંગમાં કેટલાક ફેરફાર જોવા મળી શકે છે. ત્યારે આ લેખમાં જાણીશું કે, પ્લેઈંગ 11માં કોને તક મળી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-4th-t20-team-india-probable-playing-11-shreyas-iyer-axar-patel-hardik-pandya-463145 ",
+    "time": "2026-01-28T08:28:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "એક્ટર કરન વાહી આ સુંદર અભિનેત્રી સાથે કરશે લગ્ન, જોરશોરથી શરુ થઈ આ ક્યુટ કપલના અફેરની ચર્ચા",
+    "desc": "ટીવીના 2 પોપ્યુલર કલાકારો એકબીજાના ગળાડૂબ પ્રેમમાં છે અને ટુંક સમયમાં લગ્ન કરવાના છે તેવી ચર્ચાઓ જોરશોરથી થી રહી છે. આ કલાકારોમાંથી એક્ટર છે કરન વાહી. ટીવી સ્ટાર કરન વાહીના લગ્નની ચર્ચા તેજ થઈ છે. આ એક્ટર પોતાની સુંદર કો સ્ટારના પ્રેમમાં છે અને તે લગ્ન કરવાના છે તેવી વાત સામે આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/actor-karan-wahi-marriage-rumors-jennifer-winget-second-marriage-with-tv-star-463143 ",
+    "time": "2026-01-28T08:17:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વડોદરામાં નશામાં ધૂત પૂર્વ ભારતીય ક્રિકેટરે સર્જ્યો અકસ્માત, ત્રણ કારને મારી ટક્કર, પોલીસે કરી ધરપકડ",
+    "desc": "પૂર્વ ભારતીય ક્રિકેટર જેકબ માર્ટિનની વડોદરામાં દારૂ પીને ગાડી ચલાવવા બદલ ધરપકડ કરવામાં આવી હતી. તેની એસયુવીએ અકોટા વિસ્તારમાં પાર્ક કરેલી ત્રણ કારને ટક્કર મારી હતી. પોલીસે વાહન જપ્ત કર્યું હતું અને આઈપીસીની કલમો હેઠળ ગુનો દાખલ કર્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/former-indian-cricketer-jacob-martin-arrested-for-drunk-driving-case-vadodara-463141 ",
+    "time": "2026-01-28T07:31:14.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "શરદ પવારની છત્રછાયામાંથી બહાર નીકળી અજિત પવાર કઈ રીતે બન્યા મહારાષ્ટ્રના રાજકારણના &amp;#039;દાદા&amp;#039;",
     "desc": "શરદ પવારની આંગળી પકડીને રાજકારણમાં પ્રવેશેલા અજિત પવારના જીવનમાં એવું તે શું થયું કે તેમણે પિતા સમાન કાકા સામે બળવો પોકાર્યો અને અલગ વાટ પકડી લીધી? છવાર ડેપ્યુટી સીએમ બનેલા અજિત પવારના જીવનની આ ઘટના વિશે જાણવા જેવું છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/how-ajit-pawar-emerged-from-sharad-pawar-shadow-and-became-the-dada-of-maharashtra-politics-463134 ",
-    "time": "2026-01-28T06:07:11.000Z"
+    "time": "2026-01-28T06:40:32.000Z"
   },
   {
     "cat": "Politics",
@@ -297,15 +333,6 @@ const newsData_gu = [
     "time": "2026-01-26T17:36:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "UGCના નવા નિયમ શું છે જેના કારણે મચી ગયો છે હંગામો? કમિશનને આ ફેરફારની કેમ પડી જરૂર ?",
-    "desc": "નવા UGC નિયમના વિરોધમાં બરેલી સિટી મેજિસ્ટ્રેટ અલંકાર અગ્નિહોત્રીએ રાજીનામું આપ્યું છે. લોકોએ તેની વિરુદ્ધ સુપ્રીમ કોર્ટમાં PIL પણ દાખલ કરી છે. અરજીમાં તેની કેટલીક જોગવાઈઓને ગેરબંધારણીય જાહેર કરવાની માંગ કરવામાં આવી છે. સોશિયલ મીડિયા પર પણ તેનો જોરદાર વિરોધ થઈ રહ્યો છે. તો ચાલો જાણીએ કે આ નિયમ શું છે અને UGCની જરૂર કેમ પડી?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/what-is-the-new-ugc-rule-that-has-created-a-ruckus-why-did-the-commission-need-this-change-462999 ",
-    "time": "2026-01-26T14:29:05.000Z"
-  },
-  {
     "cat": "Business",
     "title": "બજેટમાં મિડિલ ક્લાસને લાગી શકે છે ઝટકો, સરકારનું આ બાબતો પર ફોકસ !",
     "desc": "2026નું કેન્દ્રીય બજેટ નજીક આવતાની સાથે જ પગારદાર અને મધ્યમ વર્ગના કરદાતાઓની અપેક્ષાઓ ફરી વધી છે. ફુગાવા, વધતા EMI અને દૈનિક ખર્ચ વચ્ચે, લોકો ઇચ્છે છે કે સરકાર આ વખતે નોંધપાત્ર આવકવેરામાં રાહત આપે, જેનાથી તેમનો રોકડ પ્રવાહ વધે.",
@@ -313,15 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/the-middle-class-may-face-a-setback-in-the-budget-government-focus-on-these-things-462997 ",
     "time": "2026-01-26T14:03:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "એક વર્ષમાં કેટલી વાર કરી શકો છો આયુષ્માન કાર્ડનો ઉપયોગ, જાણો શું છે નિયમો?",
-    "desc": "આયુષ્માન ભારત યોજના હેઠળ સારવાર અનેક લોકો કરાવે લોકો જાણવા માગે છે કે આ કાર્ડનો ઉપયોગ વર્ષમાં કેટલીવાર કરી શકાય છે. અનેક લાભાર્થીઓ વર્ષમાં ઘણી વખત સારવાર મેળવી પડે છે. તેના માટે સરકારે આ કાર્ડ ધારકોને રાહત પણ આપી છે, તો ચાલો જાણીએ કે વર્ષમાં કેટલીવાર સારવાર કરી શકાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/how-many-times-can-you-use-ayushman-card-in-a-year-know-what-are-the-rules-462982 ",
-    "time": "2026-01-26T12:55:07.000Z"
   },
   {
     "cat": "Sports",
@@ -349,15 +367,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/gautam-gambhir-change-india-t20-team-and-now-become-dangerous-ind-vs-nz-series-462953 ",
     "time": "2026-01-26T09:26:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ટ્રમ્પના ટેરિફથી ભારતના કયા સેક્ટરને સૌથી વધુ થઈ છે અસર ? જુઓ સરકારી આંકડા",
-    "desc": "અમેરિકા અને ભારત વચ્ચે વેપાર કરાર પર વાતચીત હાલમાં અટકી પડી છે. અમેરિકાએ ભારતીય માલ પર 50 ટકા ટેક્સ લગાવ્યો છે, જ્યારે રશિયન ક્રૂડ ઓઇલ આયાત પર 25 ટકા ટેક્સ લગાવ્યો છે. જાણો આનાથી કયા ક્ષેત્રને સૌથી વધુ નુકસાન થયું છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/which-sector-of-india-has-been-most-affected-by-trump-tariffs-see-government-statistics-462950 ",
-    "time": "2026-01-26T09:08:55.000Z"
   },
   {
     "cat": "World",
@@ -403,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-t20-series-sanju-samson-flop-show-continues-ahead-of-t20-world-cup-2026-462930 ",
     "time": "2026-01-26T05:48:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ઘર ખરીદવા માટે યોગ્ય ઉંમર કઈ છે? અહીં દૂર થશે તમારી મૂંઝવણ, મળી જશે દરેક સવાલનો જવાબ",
-    "desc": "ઘર ખરીદવાની યોગ્ય ઉંમર કઈ હોવી જોઈએ? જો તમે પણ આ સવાલનો જવાબ શોધી રહ્યાં છો તો તમારે પરેશાન થવાની જરૂર નથી. અમે તમને એક સટીક જવાબ આપી રહ્યાં છીએ. ત્યારબાદ તમે કોઈ ગૂંચવણ વગર નિર્ણય લઈ શકશો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/what-is-the-best-age-to-buy-a-house-this-story-will-put-an-end-to-your-dilemma-462929 ",
-    "time": "2026-01-26T05:39:49.000Z"
   },
   {
     "cat": "Tech",
@@ -655,14 +655,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/volkswagen-taigun-discounts-rs-1-04-lakh-in-january-2026-462173 ",
     "time": "2026-01-19T05:19:31.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "નોકરી છોડો, X પર લખાવાના મળશે કરોડો રૂપિયા ! મસ્કનો મોટો ધમાકો, ફક્ત માનવી પડશે આ શરત",
-    "desc": "સોશિયલ મીડિયા પ્લેટફોર્મ X પર તમારા માટે એક શાનદાર તક છે. એલોન મસ્કની કંપનીએ એક એવી જાહેરાત કરી છે, જેણે કન્ટેન્ટ ક્રિએટર્સ અને લેખકોની દુનિયામાં હલચલ મચાવી દીધી છે. હવે, ફક્ત પોસ્ટ કરીને જ નહીં, પરંતુ પાવરફુલ આર્ટિકલ લખીને પણ કરોડો કમાઈ શકો છો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/write-article-on-x-and-become-a-millionaire-elon-musk-462059 ",
-    "time": "2026-01-18T06:00:44.000Z"
   }
 ];

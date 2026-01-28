@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "বুদ্ধি করে খেলছে পাকিস্তান! ভারতকে 'বদনাম' করার ফন্দি তৈরি! ১০ ফেব্রুয়ারি টি-২০ বিশ্বকাপে এবার যা হবে, ভাবতে পারবেন না",
+    "desc": "সংশ্লিষ্ট মহল অবশ্য মনে করছে, পাকিস্তান এবার অন্য ফন্দি এঁটে ফেলেছে। তারা যে কোনওভাবে ১০ ফেব্রয়ারি ভারতের সঙ্গে টি-২০ বিশ্বকাপের ম্যাচ বয়কট করার ষড়ষন্ত্র করছে! তবে সেই কাজটা এত সহজে তারা আর করতে পারবে না।",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/09/Pakistan-2025-09-0dea45a9e6a149351ca4c1fdf0ed7e8f-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/pcb-and-pakistan-may-ban-india-match-in-t20-world-cup-2026-smj-2516122.html",
+    "time": "2026-01-28T09:30:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "মাঠে ফুটবল, মনে সচেতনতা! বাঁকুড়ায় জমাটি টুর্নামেন্টে ‘সেফ ড্রাইভ সেভ লাইফ’-এর বার্তা, বাহবা দিচ্ছেন সবাই",
+    "desc": "ফুটবল মাঠ থেকে এবার জীবন বাঁচানোর ডাক! পথ নিরাপত্তা নিশ্চিত করতে বাঁকুড়ায় আয়োজিত হল এক বিশেষ ফুটবল টুর্নামেন্ট। ‘সেফ ড্রাইভ সেভ লাইফ’ স্লোগানকে সঙ্গী করে খেলার মাঠ থেকে সাধারণ মানুষকে সচেতন করার এই অভিনব প্রয়াস নজর কেড়েছে জেলাবাসীর।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/safe-drive-save-life-football-tournament-2026-01-b7b7a94ddcc9c3506ecb980dd1a5302a-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/sports/bankura-football-tournament-chatna-police-arranged-safe-drive-save-life-football-tournament-for-awareness-l18-local18-2515653.html",
+    "time": "2026-01-28T07:53:56.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "মা ছিলেন তাঁর শিক্ষা গুরু, প্রথম বিয়ে টেকেনি অরিজিতের, দ্বিতীয় স্ত্রী-সন্তানদের নিয়ে সুখের সংসার গায়কের, দেখুন পারিবারিক ছবি",
     "desc": "সোশ্যাল মিডিয়ায় ব্যক্তিগত ছবি খুব কম পোস্ট করেন অরিজিৎ সিং৷ কাজের জগতে ব্যস্ত এই গায়কের জীবনে মা ছিলেন সব থেকে গুরুত্বপূর্ণ ব্যক্তি৷ করোনাকালে মাকে হারান তিনি৷ স্ত্রী-সন্তানদের পাশাপাশি পরিবারে রয়েছেন আরও আপনজন৷ দেখুন অরিজিতের পারিবারিক ফোটো অ্যালবাম৷",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/actress-ahona-dutta-has-been-harassed-on-road-new-car-damaged-in-drunk-driving-incident_635956.html ",
     "time": "2026-01-18T15:04:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "মাছের আঁশ ফেলে দেওয়ার জিনিস মোটেই না, যা করে দেখাচ্ছে গ্রামের মহিলারা..তাজ্জব কাণ্ড!",
-    "desc": "সাধারণত মাছের আঁশ ফেলে দেওয়া হয়। কিছু আঁশ নকল মুক্তা তৈরিতে ব্যবহৃত হয়। তবে বেশিরভাগ মাছের আঁশই ফেলে দেওয়া হয়। গ্রামের মহিলারা ফেলে দেওয়া মাছের আঁশ থেকে বিভিন্ন জিনিস তৈরি করে স্বনির্ভর হচ্ছেন। বর্তমান সময়ে মেয়েদের স্বনির্ভর করে তুলতে নানান ধরনের প্রকল্প গ্রহণ করেছে কেন্দ্র ও রাজ্য সরকার।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/local-1-2026-01-4fe7055fecfc5c6fd3310be27af462d8-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/business/business-idea-women-in-bengal-making-wonderful-magic-with-fish-scale-you-can-never-believe-this-if-you-see-l18-sanj-2502920.html",
-    "time": "2026-01-18T14:51:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "স্বামীর দেওয়া ১০০ টাকার পুঁজিতেই ভাগ্যবদল! রান্নাঘরেই শুরু 'মাশরুম ফার্মিং', জেনে নিন সিক্রেট",
-    "desc": "স্বামীর কাছ থেকে ১০০ টাকা নিয়ে মাশরুম চাষ শুরু করেন। আজ তিনি প্রতিদিন ১ হাজার টাকারও বেশি আয় করেন। বাড়ির মধ্যেই চাষ করে সংসারের হাল ফিরিয়েছেন এবং অন্য মহিলাদের পথ দেখাচ্ছেন এই নারী। সাফল্যের গল্প তাক লাগিয়ে দেবে আপনাকে! শুধু সঠিক ভাবেই এগোতে হবে ধাপে ধাপে। তাহলেই সাফল্য চুমু খাবে পায়ে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/local-2026-01-621de2c493b4d03948d21ae342b16236-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/business/success-story-west-bengal-woman-showing-ways-of-success-by-mashroom-farming-know-how-to-turn-your-money-in-a-home-business-l18-sanj-2502909.html",
-    "time": "2026-01-18T14:34:29.000Z"
   }
 ];

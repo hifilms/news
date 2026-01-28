@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Novak Djokovic gets walkover in Australian Open quarterfinal after losing 2 sets, breaks Federer's record",
+    "desc": "Serbian superstar Novak Djokovic today survived a major scare against Italy's Lorenzo Musetti, who pulled out of the Australian Open quarterfinal due to a groin injury. Musetti had won the first two sets in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-gets-walkover-in-australian-open-quarterfinal-after-losing-2-sets-breaks-federer-s-record-2026-01-28-1027800",
+    "time": "2026-01-28T07:15:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh accuses ICC of unfair scheduling after getting knocked out of U19 World Cup 2026",
+    "desc": "Bangladesh continue to be at loggerheads with the International Cricket Council. They pulled out of the T20 World Cup after the ICC rejected their request to move their matches out of India. Now, Bangladesh have...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-accuses-icc-of-unfair-scheduling-after-getting-knocked-out-of-u19-world-cup-2026-2026-01-28-1027795",
+    "time": "2026-01-28T06:52:18.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Should Ishan Kishan open with Abhishek Sharma today in 4th T20I?",
     "desc": "India and New Zealand will face each other today in the fourth T20I in Visakhapatnam. With the series already sealed, it is time for India to fine-tune their combination ahead of the T20 World Cup....",
     "img": "",
@@ -61,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-hammer-zimbabwe-before-clash-against-pakistan-in-u19-world-cup-2026-01-27-1027714",
     "time": "2026-01-27T17:11:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When will Novak Djokovic and Jannik Sinner play their quarterfinals at Australian Open 2026? Check timings",
-    "desc": "Serb legend Novak Djokovic and two-time defending Australian Open champion Jannik Sinner will be in action on Wednesday, January 28, in their respective quarterfinals as they keep their bid for the title alive. Djokovic, a 10-time...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/when-will-novak-djokovic-and-jannik-sinner-play-their-quarterfinals-at-australian-open-2026-check-timings-2026-01-27-1027711",
-    "time": "2026-01-27T16:49:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Africa hammer West Indies, win by 9 wickets",
-    "desc": "South Africa lock horns against the West Indies in a three-match T20I series at home as they look to fine-tune their final preparations for the T20 World Cup 2026. The Proteas lost the five-match T20I...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sa-vs-wi-1st-t20i-live-cricket-score-south-africa-vs-west-indies-boland-park-paarl-latest-match-updates-teams-playing-xis-scorecard-2026-01-27-1027708",
-    "time": "2026-01-27T15:46:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former PCB secretary questions Board's 'purpose' for Pakistan's potential T20 World Cup pull out",
-    "desc": "Former Pakistan players and ex-Pakistan Cricket Board officials have questioned their board over a potential pullout from the T20 World Cup 2026 in support of Bangladesh. Pakistan chairman Mohsin Naqvi had threatened to withdraw from the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-pcb-secretary-questions-boards-purpose-for-pakistans-potential-t20-world-cup-pull-out-2026-01-27-1027704",
-    "time": "2026-01-27T15:18:44.000Z"
   }
 ];
