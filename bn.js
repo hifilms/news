@@ -1,5 +1,95 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "মারণ তুষারঝড়ে ৪ দিন ছোট্ট প্রভুর মৃতদেহের পাশেই থাকল পোষ্য কুকুর! মৃত্যুর চোখে চোখ রেখে কেন?",
+    "desc": "পোষ্যের সঙ্গে তার প্রভুর সম্পর্কের রসায়নের নানারকম আশ্চর্য ঘটনা আমরা যুগ যুগ ধরেই শুনে আসছি। এবার সামনে এল সেরকমই এক ছবি। পোষ্য বসে বসে পাহারা দিল তার প্রভুর মরদেহ (Pet dog guards bodies of owner)। টানা চার দিন। আশ্চর্য ঘটনা। কোথায় ঘটল? কেন?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/pet-dog-guards-bodies-of-owner-13-year-old-piyush-kumar-for-4-days-amid-snow-in-himachals-chamba-himachal-pradesh-snowfall_637972.html ",
+    "time": "2026-01-28T12:07:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "\"পুরো চুল কাটার পর নিজেকে নগ্ন মনে হচ্ছিল\" নারীত্ব নিয়ে অকপট ফতিমা সানা শেখ",
+    "desc": "ফতিমা সানা শেখ 'দঙ্গল'-এ কাজ করার অভিজ্ঞতা নিয়ে কথা বলেন। তিনি বলেন যে প্রশিক্ষণ এতটাই তীব্র ছিল যে গীতা ফোগাট এবং ববিতা ফোগাটকে আর কিছু জিজ্ঞাসা করার প্রয়োজন ছিল না। তবে, যখন তিনি তাঁদের দেখেছিলেন, তখন তাঁর মনে হয়েছিল, \"আমাকে তাঁদের মতোই দেখতে হতে হবে।\"",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Web-2026-01-28T173141.405-2026-01-42950afbe4018705b17cd33446b9ad6e-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/actress-fatima-sana-shaikh-says-how-she-felt-when-her-hair-was-cut-for-dangal-movie-tc-pbd-2516523.html",
+    "time": "2026-01-28T12:04:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "সময় দিল কমিশন, SIR সংঘাতে এবার দিল্লিতে মমতা, থাকছেন ১৬ প্রতিনিধিও...",
+    "desc": "SIR-র প্রতিবাদে জানাতে আজ, বুধবারই দিল্লি যাওয়ার কথা ছিল মমতার। ঠিক ছিল, সিঙ্গুরে সভা করেই দিল্লির উদ্দেশ্য়ে রওনা দেবেন তিনি। কিন্তু সকালে বিমান দুর্ঘটনায় নিহত হন মহারাষ্ট্রের উপমুখ্যমন্ত্রী অজিত পওয়ার। এরপর নবান্ন থেকে মুখ্যমন্ত্রীর দিল্লির সফর স্থগিতের কথা জানানো হয়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/ec-gives-time-to-cm-mamata-banerjee-to-discuss-sir-in-bengal_637971.html ",
+    "time": "2026-01-28T11:57:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ট্যুরিস্টদের হট ফেভারিট, জিয়াগঞ্জে অরিজিৎ সিং-এর বাড়ি, এতটা সাধারণ আপনি ভাবতেও পারবেন না, রইল ছবি",
+    "desc": "যখনই অরিজিৎ সিং কাজ থেকে অবসর পান, তিনি মুর্শিদাবাদে তাঁর বাড়িতে ফিরে আসেন। তিনি তাঁর বেশিরভাগ সময় সেখানেই কাটান। তিনি তাঁর বাড়িটি সুন্দরভাবে সাজিয়েছেন। তাঁর ১২ বছরের ক্যারিয়ারে, অরিজিৎ সিং ২৩৪টিরও বেশি ছবিতে গান গেয়েছেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.34.06-PM-2026-01-25d92e8aecf8894ed34cbe87affe327b-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/arijit-singh-news-update-famous-singer-with-very-simple-lifestyle-pictures-of-his-house-at-jiaganj-pbd-2516548.html",
+    "time": "2026-01-28T11:35:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ajit Pawar’s Death: বিমান দুর্ঘটনায় অজিত পওয়ারের মৃত্যুতে স্তব্ধ দেশ! শোকজ্ঞাপন করে কী বললেন কঙ্গনা?",
+    "desc": "তাঁর মৃত্যুর খবর শুনে স্তম্ভিত বিজেপি সাংসদ তথা অভিনেত্রী কঙ্গনা রানাওয়াত। কঙ্গনা লোকসভা অধিবেশন শেষে বাইরে বেরিয়ে জানান, তিনি এখনও এই খবর বিশ্বাস করতে পারছেন না। ANI একটি ভিডিও শেয়ার করেছে। কঙ্গনার কথায়, ‘‘এমন কিছু যে ঘটেছে, তা-ই জানতাম না। মনের অবস্থা বলে বোঝানো যাবে না। ধাতস্থ হতে সময় লাগবে।’’",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.54.13-PM-2026-01-a5a61c6eb78a83ef93bf029673ef6669-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/kangna-on-ajit-pawar-sudden-death-latest-news-rmj-2516385.html",
+    "time": "2026-01-28T10:52:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বিগ বিগ ফাইন্ডিং! মৃত্যুর ঠিক আগে, জীবনের শেষ ছবি! সাড়া ফেলা সেই ছবিতে বিমানের ভিতরে অজিতের পাশে...",
+    "desc": "অজিত পাওয়ার একটি চার্টার্ড বিমানে (Learjet 45) মুম্বই থেকে বারামতিতে যাচ্ছিলেন। বুধবার সকাল পৌনে ৯টা নাগাদ বারামতি বিমানবন্দরের কাছে অবতরণের সময় বিমানটি ভেঙে পড়ে এবং আগুন ধরে যায়। মারা যান ডেপুটি সিএম অজিত। শোকে মুহ্যমান মহারাষ্ট্র। ঘোষিত হয়েছে ছুটিও। আর সেই আবহে সামনে এল একটি ছবি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/last-image-of-ajit-pawar-ajit-pawar-plane-crash-updates-ajit-pawar-dies-in-plane-crash-maharashtra-last-image-of-ajit-pawar-found-in-aircraft_637948.html ",
+    "time": "2026-01-28T10:33:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'১০০% নিরাপদ' হয়েও আকাশে আচমকাই ভ্যানিশ! ১৬ বছর পুরনো পওয়ারের এই ১৪২ কোটির জেট? পরেরপর সব চাঞ্চল্যকর তথ্য...",
+    "desc": "মহারাষ্ট্রের উপমুখ্যমন্ত্রী এবং ন্যাশনালিস্ট কংগ্রেস পার্টির (এনসিপি) সিনিয়ার নেতা অজিত পওয়ারকে নিয়ে উড়ে যাওয়া বোম্বার্ডিয়ার লিয়ারজেট ৪৫ বিজনেস জেটটি বুধবার ২৮ জানুয়ারি বারামতি বিমানবন্দরে বিধ্বস্ত হয়ে জরুরি অবতরণ করে। বিমানে থাকা ৫ জনই নিহত হয়েছেন। এখন প্রশ্ন '১০০% নিরাপদ' বিমান কীভাবে ভেঙে পড়ল?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/ajit-pawar-plane-crash-know-the-bombardier-learjet-45-details-and-safety-record_637936.html ",
+    "time": "2026-01-28T10:16:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "কে এই শম্ভাবী পাঠক? ছিলেন অজিত পওয়ারের বিমানের প্লেনের পাইলট...দুর্ঘটনায় মৃত্যু তাঁরও",
+    "desc": "এনসিপি প্রধান পাওয়ার, তাঁর ব্যক্তিগত নিরাপত্তা কর্মকর্তা বিদিপ যাদব, দুই পাইলট - সুমিত কাপুর এবং শম্ভাবী পাঠক - এবং একজন পরিচারিকা দুর্ঘটনায় মারা গেছেন। আগামী মাসে পুণে এলাকার জেলা পরিষদ নির্বাচন৷ তার আগে পওয়ারের চারটি গুরুত্বপূর্ণ সভা ছিল এলাকায়৷ সেই সমস্ত জনসভায় যোগ দেওয়ার কথা ছিল পওয়ারের।এনসিপি প্রধান পাওয়ার, তাঁর ব্যক্তিগত নিরাপত্তা কর্মকর্তা বিদিপ যাদব, দুই পাইলট - সুমিত কাপুর এবং শম্ভাবী পাঠক - এবং একজন পরিচারিকা দুর্ঘটনায় মারা গেছেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ydne-2026-01-28T153701.984-2026-01-9e59a8ae28b903f722f91c446246d767-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/ajit-pawar-plane-crash-death-who-is-the-pilot-shambhavi-pathak-know-in-details-sta-2515988.html",
+    "time": "2026-01-28T10:11:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "কাঁঠাল নয়, পাতা বেচেই কপাল ফিরল আনোয়ার আলির! অভিনব ‘বিজনেস আইডিয়া’ তাক লাগাচ্ছে গোটা জেলায়",
+    "desc": "ফেলে দেওয়া কাঁঠাল পাতাই এখন লক্ষ্মীলাভের উৎস! উত্তর ২৪ পরগনার আনোয়ার আলি দেখালেন উপার্জনের এক অভাবনীয় দিশা। কাঁঠাল নয়, শুধু পাতা বিক্রি করেই কীভাবে অঢেল লাভ করা সম্ভব? জানুন এই সফল উদ্যোক্তার ব্যবসায়িক মডেল সম্পর্কে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/jackfruit-leaf-business-idea-2026-01-85c3b54cee8b60ffe3408ec89a4021e3-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/north-24-parganas-business-idea-jackfruit-leaf-selling-success-business-north-24-parganas-man-earning-huge-l18-local18-2515762.html",
+    "time": "2026-01-28T09:57:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বিমান দুর্ঘটনায় মৃত্যুতে বুধেই সরকারি ছুটি! ৩ দিনের রাষ্ট্রীয় শোক, অর্ধনমিত থাকবে জাতীয় পতাকা এবং...",
+    "desc": "অজিত পাওয়ার একটি চার্টার্ড বিমানে (Learjet 45) মুম্বই থেকে বারামতিতে যাচ্ছিলেন। বুধবার সকাল পৌনে ৯টা নাগাদ বারামতি বিমানবন্দরের কাছে অবতরণের সময় বিমানটি ভেঙে পড়ে এবং এতে আগুন ধরে যায়। মারা যান ডেপুটি সিএম অজিত। শোকে মুহ্যমান মহারাষ্ট্র।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/maharashtra-declares-public-holiday-today-3-day-mourning-after-deputy-cm-ajit-pawar-dies-in-plane-crash_637931.html ",
+    "time": "2026-01-28T09:51:59.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "বুদ্ধি করে খেলছে পাকিস্তান! ভারতকে 'বদনাম' করার ফন্দি তৈরি! ১০ ফেব্রুয়ারি টি-২০ বিশ্বকাপে এবার যা হবে, ভাবতে পারবেন না",
     "desc": "সংশ্লিষ্ট মহল অবশ্য মনে করছে, পাকিস্তান এবার অন্য ফন্দি এঁটে ফেলেছে। তারা যে কোনওভাবে ১০ ফেব্রয়ারি ভারতের সঙ্গে টি-২০ বিশ্বকাপের ম্যাচ বয়কট করার ষড়ষন্ত্র করছে! তবে সেই কাজটা এত সহজে তারা আর করতে পারবে না।",
@@ -295,15 +385,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/entertainment/saraswati-puja-2026-celebration-at-director-anurag-basu-house-lots-of-bollywood-celebrities-gather-there-pbd-2511556.html",
     "time": "2026-01-25T09:29:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "৬৮৫টি রাস্তা বন্ধ! জল নেই! বিদ্যুৎ নেই, অন্ধকারে মাইলের পর মাইল জ্যাম! মারণ বরফে ৪৮০০...",
-    "desc": "প্রবল তুষারপাতে কার্যত বিপর্যস্ত হিমাচল প্রদেশের শৈলশহর। বরফে ঢেকে গিয়েছে রাস্তাঘাট, থমকে যান চলাচল। ঘণ্টার পর ঘণ্টা ধরে দাঁড়িয়ে অসংখ্য গাড়ি। পর্যটকদের ভিড়ে উপচে পড়ছে হোটেলগুলি। এই মুহূর্তে সবচেয়ে বেশি দুর্ভোগে হিমাচলের জনপ্রিয় পর্যটনকেন্দ্র মানালি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/heavy-snowfall-shuts-685-roads-disrupts-nearly-4800-power-distribution-across-himachal-pradesh_637319.html ",
-    "time": "2026-01-25T08:35:06.000Z"
   },
   {
     "cat": "Business",
@@ -817,86 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/banks-may-shut-for-4-days-as-employees-call-for-strike-demanding-five-day-week-sbhp-transpg-sta-2504086.html",
     "time": "2026-01-19T11:49:39.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "মেলা শুরুর প্রথম সপ্তাহেই ধামাকা বীরভূমে! বিক্রিবাটা ১ কোটি টাকা, কামাল করছে গরদ, কেটিয়া, মসলিন...!",
-    "desc": "মেলা শুরুর সাত দিনের মধ্যেই বিক্রির অঙ্ক ছুঁয়েছে প্রায় ১ কোটি টাকার কাছাকাছি। রাজ্য খাদি ও গ্রামীণ শিল্প পর্ষদ এবং ক্ষুদ্র, ছোট ও মাঝারি উদ্যোগ ও বস্ত্র দফতরের যৌথ উদ্যোগে বোলপুর শান্তিনিকেতনের ডাকবাংলো ময়দানে এই মেলা আয়োজন করা হয়েছে বলে জানা যায়",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/khadi-mela-2026-01-4f720271addd7a744bc82addf231f110-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/birbhum-khadi-mela-goods-worth-rs-1-crore-sold-in-first-week-from-birbhum-khadi-mela-l18-local18-2503654.html",
-    "time": "2026-01-19T10:53:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'বাবা, আমি মরতে চাই না, বাঁচাও!' নয়ডার যুবরাজের আর্তি থেমে গেল ২ ঘণ্টায়, এত চেষ্টা করেও কেন বাঁচানো গেল না ইঞ্জিনিয়ারকে?",
-    "desc": "গ্রেটার নয়ডায় নির্মীয়মাণ একটি প্রকল্পস্থলে জলভরা গভীর গর্তে গাড়ি পড়ে যাওয়ার ঘটনায় মৃত্যু হয়েছে ২৭ বছরের সফটওয়্যার ইঞ্জিনিয়ার Yuvraj Mehta-র। নিয়ন্ত্রণ হারিয়ে তাঁর গাড়ি ওই গর্তে পড়ে যায়। ঘটনার পর ছেলেকে বাঁচাতে না পারার অসহায়তা ও জনতার নিষ্ক্রিয়তা নিয়েই ক্ষোভ উগরে দেন শোকস্তব্ধ বাবা।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/noida-techie-12-2026-01-9b4b6428b4a13770b83ed5118de66967-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/yuvraj-mehta-death-in-noida-sector-150-exposes-administrative-negligence-three-departments-80-employees-dysfunctional-system-helpless-father-noida-prince-suffered-two-hours-tib-ws-el-2503962.html",
-    "time": "2026-01-19T10:24:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "লতা মঙ্গেশকর-অমিত কুমারের হিট গান, সব ‘কাপল’-দেরই ফেভারিট, প্রেমে পড়ে গিয়েছিলেন নায়ক-নায়িকাও",
-    "desc": "যখন কেউ প্রেমে পড়ে, তখন সুন্দর স্বপ্ন দেখে। আপনি হয়তো দেখেছেন, কিন্তু জীবনের দৌড়ঝাঁপে সেই স্বপ্নগুলো কোথাও যেন হারিয়ে যায়। এই ব্যস্ততার মধ্যে একটা গান গত ৪৬ বছর ধরে কাপলদের রোম্যান্টিক স্বপ্ন দেখতে শেখাচ্ছে। আমরা ১৯৮১ সালে মুক্তি পাওয়া ফিল্ম ‘লভ স্টোরি’-র গান ‘দেখো ম্যানে দেখা হ্যায় এক সপনা’-র কথা বলছি, যেটা লতা মঙ্গেশবকর আর অমিত কুমার গেয়েছিলেন। এর লিরিক্স আনন্দ বক্সী লিখেছিলেন। বলা হয়, ফিল্মের লিড স্টার বিজেতা পন্ডিত আর কুমার গৌরব বাস্তব জীবনেও একে অপরের প্রেমে পড়ে গিয়েছিলেন। তাঁরা বিয়ে করতে চেয়েছিলেন, কিন্তু কুমার গৌরবের বাবা রাজেন্দ্র কুমার এই বিয়ের বিরুদ্ধে ছিলেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Kumar-Gaurav-Song-2026-01-f21ad4fd2a9bd6b794da3fafbc030ba4-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/entertainment/love-story-lata-mangeshkar-amit-kumar-song-dekho-maine-dekha-hai-ye-ek-sapna-featuring-kumar-gaurav-vijeta-pandit-ss-2503610.html",
-    "time": "2026-01-19T08:35:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বন্দে ভারত স্লিপার ট্রেনে টিকিট বাতিল মানেই বড় লোকসান! জানুন নতুন কড়া নিয়ম",
-    "desc": "বন্দে ভারত স্লিপার ট্রেন চালুর আগে যাত্রীদের জন্য জারি হল গুরুত্বপূর্ণ নির্দেশিকা। কনফার্ম টিকিট বাতিলের ক্ষেত্রে রিফান্ড সংক্রান্ত নিয়মে বড়সড় পরিবর্তন আনছে ভারতীয় রেলওয়ে। নতুন ব্যবস্থায় নির্দিষ্ট সময়ের পরে টিকিট ক্যানসেল করলে যাত্রীদের আর কোনও অর্থ ফেরত মিলবে না, ফলে যাত্রার পরিকল্পনার আগে এই নিয়মগুলি জানা অত্যন্ত জরুরি হয়ে উঠেছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/vande-bharat-sleeper-2026-01-fdfcd417c099c268f96356f2b25c731d-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/no-refunds-for-canceling-confirmed-tickets-learn-these-rules-for-vande-bharat-sleeper-trains-major-change-in-refund-for-ticket-cancellation-tib-ws-l-2503620.html",
-    "time": "2026-01-19T08:28:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ভারতীয় দলের অন্দরে নতুন সমীকরণ নাকি! সিনিয়র তারকার ফ্লপ শো ঢাকতে অল আউট ঝাঁপালেন শুভমান",
-    "desc": "রোহিতের কথা বলতে গেলে, অস্ট্রেলিয়ার বিরুদ্ধে তিন ম্যাচের সিরিজে ২০০ জনেরও বেশি রান করে তিনি সিরিজ সেরা খেলোয়াড়ের খেতাব জিতেছিলেন। এরপর, তিনি দক্ষিণ আফ্রিকার বিপক্ষে দুটি অর্ধশতক এবং বিজয় হাজারে ট্রফিতে মুম্বইয়ের হয়ে ১৫৫ রানের একটি ইনিংস করেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Shubhman-Gill-2026-01-77682f4319cf84c40773a04c05c7db63-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/ind-vs-nz-shubman-gill-defends-star-indian-batsman-for-not-scoring-runs-back-during-lean-patch-against-new-zealand-dd-2503294.html",
-    "time": "2026-01-19T07:03:36.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "স্পেনে ভয়াবহ ট্রেন দুর্ঘটনা ! প্রচণ্ড গতিতে লাইনচ্যুত যাত্রিবাহী ট্রেন, চালক-সহ মৃত্যু ২১ জনের",
-    "desc": "রবিবার সন্ধ্যাবেলা, মালাগা থেকে মাদ্রিদের উদ্দেশে আসছিল ওই হাই-স্পিড ট্রেনটি। ট্রেনে ছিলেন প্রায় ৩০০ যাত্রী। কর্ডোবা শহরের কাছে, লাইনচ্যুত হয়ে পাশের ট্র্যাকে চলে যায় সেটি। ওই ট্র্যাক দিয়েই মাদ্রিদের দিক থেকে আসছিল আরেকটি ট্রেন। সেইসময়ই মুখোমুখি সংঘর্ষ হয় দুটি ট্রেনের।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Spain-Andalusia-Train-Accident-2026-01-7e405975a367de954e1392ff082a5285-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/train-collision-in-southern-spain-21-killed-over-70-injured-after-two-trains-collide-in-southern-spains-andalusia-ss-2503205.html",
-    "time": "2026-01-19T05:33:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "কর্পোরেট চাকরি ছেড়ে ব্যবসা, দম্পতির আয় এখন মাস গেলে কত জানেন? দেখুন বিরাট সাফল্যের সাতকাহন!",
-    "desc": "কর্পোরেট চাকরি ছেড়ে ব্যবসা, জমান এই দম্পতি! ২৫-৩০ হাজার টাকায় শুরু, মাস যেতেই বিরাট লক্ষ্মীলাভ দম্পতির! পথ দেখাচ্ছেন অন্যদের। আরও বেশি সাফল্য পেতে কী করতে চলেছেন তাঁরা? অন্যদেরই বা কী পরামর্শ দিচ্ছেন? কী ভাবে ব্যবসার বুদ্ধি? কী ভাবে কর্পোরেটের স্থায়ী চাকরিকে টাটা বলে চ্যালেঞ্জের মুখে এগোনো? সব বলে দিলেন এই ভিডিওতে। শুনে নিন দম্পতির ব্যবসার সাফল্যের চূড়োয় যাওয়ার গল্প।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/obGnZ_DMgVk_2502936.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/business/business-ideas-they-left-corporate-job-and-tried-their-luck-in-business-and-know-how-much-money-they-are-earning-in-a-month-l18-sanj-2502936.html",
-    "time": "2026-01-18T15:21:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "সোনা ফলবে গাছে...! বাড়িতে লাগান এই একটিমাত্র গাছ, ম্যাজিকে করুন লক্ষাধিক টাকা আয়! জানুন বিস্তারিত",
-    "desc": "সোনার থেকেও বেশি দামি। বিশ্বের অন্যতম দামি আম মিয়াজাকি এবার চাইলে আপনি বাড়িতে লাগিয়ে ফেলতে পারেন। জাপান থেকে আসছে চারা। এবার জাপানি আমের চাষ শুরু হতে চলেছে মুর্শিদাবাদে! গরমের মরশুম আসার আগেই শুরু করে দিন কাজের কাজ। বাড়িতে লাগান এই একটিমাত্র গাছ, ব্যাস আর টাকার কথা ভাবতে হবে না। ম্যাজিকে করুন লক্ষাধিক টাকা আয়! জানুন বিস্তারিত",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/iAWdcpDt2CM_2502925.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/business/money-making-tips-plant-this-special-mango-tree-in-your-house-garden-and-get-magic-results-earn-lakhs-of-rupees-in-just-no-time-l18-sanj-2502925.html",
-    "time": "2026-01-18T15:05:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "মাঝরাস্তায় ভয়াবহ দুর্ঘটনার শিকার অভিনেত্রী অহনা দত্ত! দুমড়ে গেল নতুন গাড়ি... কেমন আছেন টেলিনায়িকা?",
-    "desc": "অভিযোগ, সেই সময় সামনের গাড়িটি হঠাতই সজোরে পেছনের দিকে এসে ধাক্কা মারে অহনার গাড়িতে। দীপঙ্কর বারবার হর্ন দিয়ে সতর্ক করার চেষ্টা করলেও সামনের গাড়ির চালক তাতে কর্ণপাত করেননি। ভিডিওতে দেখা যাচ্ছে, সংঘর্ষের তীব্রতায় অহনার নতুন গাড়িটির সামনের অংশ এবং দরজার বেশ কিছুটা জায়গা দুমড়ে-মুচড়ে গিয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/actress-ahona-dutta-has-been-harassed-on-road-new-car-damaged-in-drunk-driving-incident_635956.html ",
-    "time": "2026-01-18T15:04:15.000Z"
   }
 ];

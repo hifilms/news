@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sarfaraz Khan reflects on India snub, says 'can't do anything'; speaks on CSK call",
+    "desc": "Sarfaraz Khan is choosing perspective over frustration as he continues his domestic grind, even with national selection seemingly out of reach for the moment. Despite a prolific run in first-class cricket over the past year,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sarfaraz-khan-reflects-on-india-snub-says-can-t-do-anything-speaks-on-csk-call-2026-01-28-1027853",
+    "time": "2026-01-28T12:11:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Check head-to-head stats ahead of Australian Open 2026 semifinal",
+    "desc": "Right then, it's official. Serb icon Novak Djokovic will be up against Italian superstar Jannik Sinner in the Australian Open 2026 semifinal. Ever since the draw was made, there was an excitement to watch these...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-vs-jannik-sinner-h2h-record-check-head-to-head-stats-ahead-of-australian-open-2026-semifinal-2026-01-28-1027851",
+    "time": "2026-01-28T12:02:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma wants India to play both Varun Chakravarthy, Kuldeep Yadav in T20 World Cup",
+    "desc": "After Varun Chakravarthy firmly established his authority in the shortest format of the game, Kuldeep Yadav’s game time decreased significantly, as the team management increasingly preferred to field a second spinner in the form of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-wants-india-to-play-both-varun-chakravarthy-kuldeep-yadav-in-t20-world-cup-2026-01-28-1027847",
+    "time": "2026-01-28T11:35:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jannik Sinner marches into Australian Open 2026 semifinals, sets up clash with Novak Djokovic",
+    "desc": "Two-time defending champion Jannik Sinner stormed into the semifinals of the Australian Open 2026 after beating Ben Shelton in straight sets 6-3, 6-4, 6-4 on Wednesday, January 28. Sinner put up a masterclass to down the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-marches-into-australian-open-2026-semifinals-sets-up-clash-with-novak-djokovic-2026-01-28-1027840",
+    "time": "2026-01-28T11:03:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at ACA-VDCA Cricket Stadium in Visakhapatnam play?",
+    "desc": "India have been a force to reckon with in the shortest format of the game. They have caused havoc in the ongoing five-match T20I series against New Zealand and the goal will be to keep...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-4th-t20i-pitch-report-how-will-surface-at-aca-vdca-cricket-stadium-in-visakhapatnam-play-2026-01-28-1027832",
+    "time": "2026-01-28T10:31:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia set to announce new all-format captain after Alyssa Healy's retirement announcement",
+    "desc": "Australia are all set to announce their new all-format captain after the retirement announcement of Alyssa Healy. As per a report in 7Cricket, Sophie Molineux is set to be named the all-format captain. Earlier this month,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-set-to-announce-new-all-format-captain-after-alyssa-healy-retirement-announcement-2026-01-28-1027830",
+    "time": "2026-01-28T10:21:46.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Novak Djokovic gets walkover in Australian Open quarterfinal after losing 2 sets, breaks Federer's record",
     "desc": "Serbian superstar Novak Djokovic today survived a major scare against Italy's Lorenzo Musetti, who pulled out of the Australian Open quarterfinal due to a groin injury. Musetti had won the first two sets in the...",
     "img": "",
@@ -25,59 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-should-ishan-kishan-open-with-abhishek-sharma-today-in-4th-t20i-2026-01-28-1027750",
     "time": "2026-01-28T03:20:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav surpasses Virat Kohli as captain, targets Rohit Sharma next in special T20I record",
-    "desc": "Suryakumar Yadav has a flawless record in T20Is as captain so far. He was appointed at the helm of the team in July 2024, a month after India won the T20 World Cup in June...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-surpasses-virat-kohli-as-captain-targets-rohit-sharma-next-in-special-t20i-record-2026-01-28-1027743",
-    "time": "2026-01-28T02:38:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gujarat Giants race ahead in playoff race, RCB still favourites for final",
-    "desc": "Gujarat Giants and Delhi Capitals played out a thriller in the 17th match of the ongoing Women's Premier League (WPL) season at the BCA Stadium, Kotambi in Vadodara on Tuesday. The match went down to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wpl-2026-points-table-gujarat-giants-race-ahead-in-playoff-race-rcb-still-favourites-for-final-2026-01-28-1027734",
-    "time": "2026-01-28T01:41:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sophie Devine spoils DC's party yet again as GG secure nail-biter in WPL 2026",
-    "desc": "Just like she did in their first meeting in WPL 2026, Gujarat Giants veteran all-rounder Sophie Devine denied Delhi Capitals a famous win yet again and this time at the BCA Stadium, Kotambi, Vadodara, on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sophie-devine-spoils-dcs-party-yet-again-as-gg-secure-nail-biter-in-wpl-2026-2026-01-27-1027725",
-    "time": "2026-01-27T18:28:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rahul Dravid decodes reason for India's poor run of form in Test cricket lately",
-    "desc": "Former India captain and head coach Rahul Dravid has raised concerns over the preparation of modern Indian batters in Test cricket, pointing to the packed international calendar as a key factor behind recent struggles in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rahul-dravid-decodes-reason-for-india-s-poor-run-of-form-in-test-cricket-lately-2026-01-27-1027723",
-    "time": "2026-01-27T18:10:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What is it and why is it extremely vital in IPL?",
-    "desc": "As Indian Premier League franchises shift focus from the auction room to squad management, attention has turned to the Registered Available Player Pool, commonly known as the RAPP. While not widely discussed among fans, the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-release-rapp-sheet-what-is-it-and-why-is-it-extremely-vital-in-ipl-2026-01-27-1027716",
-    "time": "2026-01-27T17:30:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India hammer Zimbabwe before clash against Pakistan in U19 World Cup",
-    "desc": "India Under-19 continued their commanding march in the ongoing U19 World Cup 2026 by overpowering hosts Zimbabwe with a massive 204-run victory in their opening Super Six fixture at the Queen’s Sports Club in Bulawayo...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-hammer-zimbabwe-before-clash-against-pakistan-in-u19-world-cup-2026-01-27-1027714",
-    "time": "2026-01-27T17:11:04.000Z"
   }
 ];

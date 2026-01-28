@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "T20 વર્લ્ડ કપ પહેલા પેટ કમિન્સે છોડી ક્રિકેટ ? વીડિયો થયો વાયરલ, જાણો શું છે હકીકત",
+    "desc": "પેટ કમિન્સનો સ્ટેન્ડ-અપ કોમેડી કરતો વીડિયો સોશિયલ મીડિયામાં વાયરલ થયો હતો, જેના કારણે નિવૃત્તિની ચર્ચા થઈ રહી છે. ત્યારે આ વીડિયો પાછળની હકીકત શું છે અને પેટ કમિન્સની નિવૃત્તિ અંગેનું સત્ય શું છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/did-pat-cummins-quit-cricket-truth-behind-the-viral-video-463164 ",
+    "time": "2026-01-28T12:02:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "એક જ દિવસમાં બીજી મોટી પ્લેન દુર્ઘટના! 10 મિનિટ હવામાં ગોથા ખાતું રહ્યું વિમાન, કોંગ્રેસના દિગ્ગજ નેતા માંડ માંડ બચ્યા",
+    "desc": "મહારાષ્ટ્રના ડેપ્યુટી સીએમ અજિત પવારના વિમાન દુર્ઘટનામાં મૃત્યુના સમાચારથી સમગ્ર દેશમાં શોકની લહેર ફેલાઈ ગઈ છે. આ દરમિયાન રાજસ્થાનની રાજધાની જયપુરથી પણ એક ગંભીર ઘટના સામે આવી છે. બુધવારે જયપુર ઈન્ટરનેશનલ એરપોર્ટ પર એર ઇન્ડિયાના વિમાનનું પહેલું લેન્ડિંગ નિષ્ફળ રહ્યું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/air-india-jaipur-airport-landing-failure-passengers-safe-sukjinder-randhawa-463162 ",
+    "time": "2026-01-28T11:47:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "લાલ, લીલો કે પીળો નહીં... પરંતુ હંમેશા સફેદ જ કેમ હોય છે વિમાનનો રંગ ?",
+    "desc": "દરેક વ્યક્તિ જીવનમાં એકવાર તો વિમાનમાં બેસવાનું સપનું જોતો હોય છે. પરંતુ બધા લોકો આ સપનું પૂરું કરી શકતા નથી. જો કે, મોટાભાગના લોકોએ વિમાનને જોયું તો હશે જે, ત્યારે શું તમારા મનમાં ક્યારેય સવાલ આવ્યો કે, વિમાન કેમ સફેદ રંગનું જ હોય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/why-is-the-color-of-plane-always-white-know-the-reason-463161 ",
+    "time": "2026-01-28T11:19:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "અજિત પવારના ચાર્ટર પ્લેન ઉડવનાર પાઈલટ શાંભવી પાઠક કોણ હતી? જાણો ટ્રેનિંગથી કોકપિટ સુધીની સફર",
+    "desc": "આ વિમાનનું નેતૃત્વ પાઇલટ-ઇન-કમાન્ડ સુમિત કપૂર પાસે હતું, જ્યારે શાંભવી પાઠક કો-પાઇલટની ભૂમિકામાં હતા. સુમિત કપૂર એક અનુભવી કોમર્શિયલ પાઇલટ હોવાનું કહેવાય છે, જ્યારે શાંભવી પણ આ ફિલ્ડમાં ઝડપથી પ્રગતિ કરી રહી હતી. ચાલો અહીં આ બે પાઇલટ્સ વિશે વધુ જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/who-was-captain-shambhavi-pathak-pilot-of-maharashtra-deputy-cm-ajit-pawar-private-plane-that-crashed-in-baramati-463159 ",
+    "time": "2026-01-28T10:49:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "6,6,6,6,6,6,6,6,6...બોલરોની આવી ધોલાઈ ક્યારે નહીં જોઈ હોય, આ સ્ટાર ખેલાડીએ 66 બોલમાં ફટકાર્યા 136 રન",
+    "desc": "ઈંગ્લેન્ડ અને શ્રીલંકા વચ્ચે ચાલી રહેલી 3 મેચોની વનડે સિરીઝની છેલ્લી મેચમાં ઈંગ્લેન્ડના કેપ્ટન હેરી બ્રુકે ધમાકેદાર બેટિંગ કરતા માત્ર 66 બોલમાં 136 રનની અણનમ ઈનિંગ રમી હતી, આ દરમિયાન તેણે છગ્ગાનો વરસાદ કર્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/england-vs-sri-lanka-3rd-odi-harry-brook-smashed-century-463158 ",
+    "time": "2026-01-28T10:48:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શરદ પવારની છત્રછાયામાંથી બહાર નીકળી અજિત પવાર કઈ રીતે બન્યા મહારાષ્ટ્રના રાજકારણના &amp;#039;દાદા&amp;#039;",
+    "desc": "શરદ પવારની આંગળી પકડીને રાજકારણમાં પ્રવેશેલા અજિત પવારના જીવનમાં એવું તે શું થયું કે તેમણે પિતા સમાન કાકા સામે બળવો પોકાર્યો અને અલગ વાટ પકડી લીધી? છવાર ડેપ્યુટી સીએમ બનેલા અજિત પવારના જીવનની આ ઘટના વિશે જાણવા જેવું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/how-ajit-pawar-emerged-from-sharad-pawar-shadow-and-became-the-dada-of-maharashtra-politics-463134 ",
+    "time": "2026-01-28T10:15:45.000Z"
+  },
+  {
     "cat": "Business",
     "title": "કેન્દ્ર સરકારના કર્મચારીઓ અને પેન્શનરો માટે મોટા સમાચાર, પગારમાં થઈ શકે છે ઐતિહાસિક વધારો, જાણો",
     "desc": "કેન્દ્રીય કર્મચારીઓ અને પેન્શનરોને છેલ્લા થોડા સમયથી અસંતોષ છે, હવે તેઓ કહી રહ્યા છે કે એક નાનો વધારો નહીં, પરંતુ ઈતિહાસનો સૌથી મોટો પગાર વધારો અને પેન્શન વધારો કરવામાં આવે. યુનિયનો પણ તેને લઈને પોતાનો અસંતોષ વ્યક્ત કર્યો છે.",
@@ -34,15 +88,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/former-indian-cricketer-jacob-martin-arrested-for-drunk-driving-case-vadodara-463141 ",
     "time": "2026-01-28T07:31:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "શરદ પવારની છત્રછાયામાંથી બહાર નીકળી અજિત પવાર કઈ રીતે બન્યા મહારાષ્ટ્રના રાજકારણના &amp;#039;દાદા&amp;#039;",
-    "desc": "શરદ પવારની આંગળી પકડીને રાજકારણમાં પ્રવેશેલા અજિત પવારના જીવનમાં એવું તે શું થયું કે તેમણે પિતા સમાન કાકા સામે બળવો પોકાર્યો અને અલગ વાટ પકડી લીધી? છવાર ડેપ્યુટી સીએમ બનેલા અજિત પવારના જીવનની આ ઘટના વિશે જાણવા જેવું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/how-ajit-pawar-emerged-from-sharad-pawar-shadow-and-became-the-dada-of-maharashtra-politics-463134 ",
-    "time": "2026-01-28T06:40:32.000Z"
   },
   {
     "cat": "Politics",
@@ -171,15 +216,6 @@ const newsData_gu = [
     "time": "2026-01-27T12:28:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India-EU વચ્ચે થઈ ઐતિહાસિક ડીલ, લક્ઝરી કારોના ભાવમાં થશે ધરખમ ઘટાડો, જાણો કઈ કઈ વસ્તુઓ થશે સસ્તી",
-    "desc": "જે પળની રાહ જોવાઈ રહી હતી તે આવી ગઈ અને ભારત અને યુરોપીયન યુનિયન વચ્ચે આખરે મધર ઓફ ઓલ ડીલ્સ થઈ ગઈ. 18 વર્ષોના લાંબા ઈન્તેજાર બાદ આ ઘડી આવી છે. વિશ્વની બે મોટી શક્તિઓ વચ્ચે વેપાર અંગે મોટો કરાર થયો છે. આ સાથે જ 200 કરોડનું બજાર અને દુનિયાની 25 ટકા જીડીપી એક સાથે આવશે. આ સાથે ભારતમાં કઈ કઈ વસ્તુઓ સસ્તી થશે તે પણ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/india-eu-fta-mother-of-all-deals-what-will-india-get-from-this-deal-what-will-be-cheaper-463063 ",
-    "time": "2026-01-27T09:34:47.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "FASTag યુઝર્સ સાવધાન! 1 ફેબ્રુઆરીથી બદલાઈ રહ્યો છે ટોલ ટેક્સ સાથે જોડાયેલો મોટો નિયમ, હવે ટોલ પર મુશ્કેલી થશે ઓછી",
     "desc": "NHAIએ 1 ફેબ્રુઆરી, 2026થી કાર, જીપ અને વાન માટે FASTags જાહેર કરતી વખતે લાગુ પડતી આ કાર્યવાહી નાબૂદ કરી છે. આ નિર્ણયથી FASTags મેળવવા અને એક્ટિવ કરવામાં વિલંબ ઓછો થશે અને વપરાશકર્તાઓની ફરિયાદો ઓછી થશે તેવી અપેક્ષા છે.",
@@ -207,15 +243,6 @@ const newsData_gu = [
     "time": "2026-01-27T08:57:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ભારત-EU વચ્ચેની ડીલને PM મોદીએ ઐતિહાસિક ગણાવી, જાણો શું ફાયદા ગણાવ્યા",
-    "desc": "પીએમ મોદીએ ભારત એનર્જી વીક 2026ના ઉદ્ઘાટન સમારોહમાં આ અંગે વાત કરતા કહ્યું કે ઘણા સમયથી પેન્ડિંગ એવા આ ભારત અને યુરોપીયન યુનિયન વચ્ચેની મુક્ત વેપાર સંધિને દુનિયાભરમાં પહેલેથી જ મધર ઓફ ઓલ ડીલ્સ તરીકે ગણાવવામાં આવી રહી છે. તેમણે વીડિયો કોન્ફરન્સિંગ દ્વારા સમારોહમાં ભાગ લીધો. વધુ વિગતો માટે વાંચો અહેવાલ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/india-eu-fta-pm-modi-said-big-agreement-sign-between-european-union-and-india-mother-of-all-deals-463041 ",
-    "time": "2026-01-27T08:21:36.000Z"
-  },
-  {
     "cat": "World",
     "title": "દુનિયાનું એક એવું ગામ, જ્યાં નથી કોઈનો જન્મ થતો કે નથી કોઈ મરતું !",
     "desc": "દુનિયાનું છેલ્લું ગામ જે ઉત્તર ધ્રુવથી લગભગ 1300 કિલોમીટર દૂર આવેલું છે. આ સ્થળની ખાસિયત માત્ર તેનું હવામાન જ નહીં, પરંતુ તેના નિયમો, લોકો અને જીવનશૈલી પણ છે, જે તેને વિશ્વના સૌથી અનોખા ગામડાઓમાંનું એક બનાવે છે.",
@@ -223,24 +250,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/this-village-in-europe-where-birth-and-death-are-not-allowed-know-why-463050 ",
     "time": "2026-01-27T07:40:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ભારત-EU ડીલથી ટ્રમ્પને કેમ મરચા લાગ્યા? જાણો શું છે તેના ફાયદા-નુકસાન",
-    "desc": "ભારત અને યુરોપિયન યુનિયન વચ્ચે થયેલી મધર ઓફ ઓલ ડીલ્સે વૈશ્વિક રાજનીતિમાં હલચલ મચાવી દીધી છે. અમેરિકાએ આ સમજુતિ પર વિરોધ વ્યક્ત કરતા કહ્યું કે યુરોપ, ભારત દ્વારા રશિયન તેલ ખરીદી અજાણતા રશિયા-યુક્રેન યુદ્ધનું ફન્ડિંગ કરી રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/india-european-union-fta-deal-benefits-us-warns-europe-india-eu-trade-deal-463058 ",
-    "time": "2026-01-27T07:39:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ગુજરાતના ખેડૂતો...PM કિસાનના 22માં હપ્તા પહેલા ફટાફટ ચેક કરો યાદીમાં તમારા ગામનું નામ છે કે નહીં",
-    "desc": "દેશના ખેડૂતો કાગડોળે કિસાન સન્માન નિધિના 22માં હપ્તાની રાહ જોઈ રહ્યા છે. ત્યારે આ ઈન્તેજારનો જલદી અંત આવી શકે છે. પરંતુ તે પહેલા તમારા ગામનું નામ લિસ્ટમાં છે કે નહીં તે ખાસ ચેક કરી લો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/agriculture/pm-kisan-samman-nidhi-22nd-installment-how-to-check-beneficiary-list-village-wise-463057 ",
-    "time": "2026-01-27T07:32:08.000Z"
   },
   {
     "cat": "Sports",
@@ -457,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/last-chance-for-sanju-samson-as-tilak-varma-is-returning-in-squad-462871 ",
     "time": "2026-01-25T10:56:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "પાકિસ્તાન ક્રિકેટનું અસ્તિત્વ ખતરામાં... T20 વર્લ્ડ કપ છોડશે તો ICC લગાવશે કડક પ્રતિબંધો",
-    "desc": "પાકિસ્તાન ક્રિકેટ બોર્ડ (PCB)એ તાજેતરમાં બાંગ્લાદેશને ટેકો આપ્યો હતો અને ભારતમાં T20 વર્લ્ડ કપ ન રમવાના તેના નિર્ણયને યોગ્ય ઠેરવ્યો હતો. વધુમાં પાકિસ્તાને પોતે T20 વર્લ્ડ કપ અંગે અનેક ધમકીઓ આપી હતી, જેનાથી આંતરરાષ્ટ્રીય ક્રિકેટ પરિષદ (ICC) નારાજ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/icc-warning-pakistan-t20-world-cup-2026-crisis-pcb-462859 ",
-    "time": "2026-01-25T07:22:20.000Z"
   },
   {
     "cat": "Entertainment",
