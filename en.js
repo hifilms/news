@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Anurag Basu reveals Arijit Singh’s next dream after retirement",
+    "desc": "Filmmaker Anurag Basu has shared a rare detail about Arijit Singh’s upcoming career move, days after the singer announced that he is stepping away from playback singing. The update comes amid widespread reactions to Arijit’s surprise decision, which left fans and the industry in shock.",
+    "img": "https://static.toiimg.com/photo/msid-127723464,imgsize-48390.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anurag-basu-reveals-arijit-singhs-next-dream-after-calling-off-playback-singing-he-asked-me-to-make-him-an-assistant-in-barfi/articleshow/127723371.cms",
+    "time": "2026-01-28T17:35:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Wanted guys to take responsibility': SKY rues after India’s 50-run loss",
+    "desc": "India captain Suryakumar Yadav said the team deliberately chose to chase and play with six batters to test itself under pressure after a 50-run loss to New Zealand. He called it a learning experience ahead of the World Cup. New Zealand posted 215, while India were bowled out for 165 despite strong knocks from Shivam Dube and Rinku Singh.",
+    "img": "https://static.toiimg.com/photo/msid-127722264,imgsize-95760.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/wanted-guys-to-take-responsibility-skipper-suryakumar-yadav-rues-after-indias-50-run-loss-to-new-zealand/articleshow/127722333.cms",
+    "time": "2026-01-28T17:30:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shivam Dube's fireworks not enough as NZ floor India by 50 runs",
+    "desc": "Shivam Dube blazed away with a fifty of the highest quality, but his lone assault was not enough to save India from a 50-run defeat against New Zealand in the fourth T20I on Wednesday. Chasing a daunting 216, India were bowled out for 165, despite Dube’s superb 65 off 23 balls (3 fours, 7 sixes), as the visitors pulled the series back to 3-1.",
+    "img": "https://static.toiimg.com/photo/msid-127722878,imgsize-71660.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-4th-t20i-shivam-dubes-fireworks-not-enough-as-new-zealand-floor-india-by-50-runs/articleshow/127722465.cms",
+    "time": "2026-01-28T17:24:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Patient group seeks public scrutiny of India-EU FTA ahead of signing",
+    "desc": "A patient advocacy group has urged the Indian government to publicly disclose the full text of the EU free trade agreement before signing. They caution that the pact's strong intellectual property provisions could compromise access to affordable medicines, impacting millions globally who rely on Indian generic production.",
+    "img": "https://static.toiimg.com/photo/msid-127721918,imgsize-1531156.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/patient-group-seeks-public-scrutiny-of-india-eu-fta-ahead-of-signing/articleshow/127721979.cms",
+    "time": "2026-01-28T17:08:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Wild animal attacks claim 685 human lives in Tamil Nadu in 10 years",
+    "desc": "The conflict situation is a cause of serious concern in Western Ghats districts such as Kanniyakumari, Tirunelveli, Virudhunagar, Madurai, Theni, Dindigul, Coimbatore and the Nilgiris and in three Eastern Ghats districts — Erode, Krishnagiri and Dharmapuri",
+    "img": "https://th-i.thgim.com/public/incoming/y49cj2/article70562511.ece/alternates/LANDSCAPE_1200/29cb_wilson-01.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/wild-animal-attacks-claim-685-human-lives-in-tamil-nadu-in-10-years/article70561472.ece",
+    "time": "2026-01-28T17:03:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC provisionally suspends USA batter Aaron Jones over alleged fixing",
+    "desc": "The ICC has provisionally suspended USA batter Aaron Jones over alleged fixing during the BIM10 league in 2023–24. He faces five anti-corruption charges, including failing to report a corrupt approach and not cooperating with investigations. Jones, part of USA’s T20 World Cup 2024 squad, has 14 days to respond and is banned from all cricket for now.",
+    "img": "https://static.toiimg.com/photo/msid-127721225,imgsize-37452.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-provisionally-suspends-usa-batter-aaron-jones-over-alleged-fixing/articleshow/127720761.cms",
+    "time": "2026-01-28T16:54:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Did EC give data to show SIR was necessary and imminent, petitioners ask SC",
+    "desc": "Pleas against SIR say people from marginalised communities depend on their status as a voter to exercise core civil rights and failure to provide a document causes a fear of ‘being thrown out as a foreigner’",
+    "img": "https://th-i.thgim.com/public/incoming/aiv2ln/article70562458.ece/alternates/LANDSCAPE_1200/02th-KDR-Can-sGP0F8GM1B.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/did-ec-give-data-to-show-sir-was-necessary-and-imminent-petitioners-ask-sc/article70561942.ece",
+    "time": "2026-01-28T16:44:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "FIR filed against Ranveer Singh over Kantara Daiva mimicry",
+    "desc": "An FIR has been registered against Ranveer Singh at the High Grounds Police Station in Bengaluru for allegedly insulting Hindu religious sentiments and the Chavundi Daiva tradition of coastal Karnataka. The case was filed on Wednesday.",
+    "img": "https://static.toiimg.com/photo/msid-127718714,imgsize-9584.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fir-filed-against-ranveer-singh-over-kantara-daiva-mimicry-in-bengaluru-for-referring-to-chavundi-daiva-as-a-female-ghost/articleshow/127718440.cms",
+    "time": "2026-01-28T16:12:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Still no Gukesh! After Carlsen and Pragg, Norway Chess reveals new participant",
+    "desc": "Norway Chess has confirmed Germany’s top player Vincent Keymer as a participant for the 2026 event, alongside Magnus Carlsen and R Praggnanandhaa. Keymer will make his debut after a rapid rise to World No. 4. Praggnanandhaa returns for a third time, while fans still await confirmation of reigning world champion D Gukesh and Arjun Erigaisi.",
+    "img": "https://static.toiimg.com/photo/msid-127717639,imgsize-65652.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/still-no-d-gukesh-after-magnus-carlsen-and-r-praggnanandhaa-norway-chess-reveals-new-participant-for-2026-event/articleshow/127716994.cms",
+    "time": "2026-01-28T15:55:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'No security threat here': Bangladesh questions India's move to recall diplomats' families",
+    "desc": "Bangladesh’s foreign affairs Adviser Md Touhid Hossain on Wednesday said that there was “no reason” for India to recall the family members of its diplomats from Dhaka. This comes after New Delhi cited precautionary safety concerns amid rising extremist activity ahead of the country’s general elections scheduled for February 2026.",
+    "img": "https://static.toiimg.com/photo/msid-127717287,imgsize-966716.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-security-threat-here-bangladesh-questions-indias-move-to-recall-diplomats-families/articleshow/127717395.cms",
+    "time": "2026-01-28T15:50:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'$1 million a month': Nicola Peltz's shocking allowance from billionaire father revealed",
+    "desc": "Nicola Peltz has access to extraordinary wealth, with her father, billionaire Nelson Peltz, granting her a jaw-dropping monthly allowance of $1 million. This figure vastly outshines the support that can be seen in the Beckham household, where Brooklyn seems determined to carve out his own legacy away from his parents' shadow.",
+    "img": "https://static.toiimg.com/photo/msid-127716683,imgsize-42268.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/1-million-a-month-nicola-peltzs-shocking-allowance-from-billionaire-father-revealed/articleshow/127716683.cms",
+    "time": "2026-01-28T15:47:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Was Arijit unhappy singing for Border 2? Producer responds",
+    "desc": "“I am calling it off. It was a wonderful journey,” said Arijit Singh on Tuesday as he announced that he will not be taking up any new playback singing assignments. The announcement led to widespread speculation, with social media quickly linking his decision to a song from Border 2.",
+    "img": "https://static.toiimg.com/photo/msid-127717075,imgsize-36954.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/was-arijit-singh-unhappy-after-being-forced-to-sing-ghar-kab-aaoge-for-border-2-producer-bhushan-kumar-responds/articleshow/127716784.cms",
+    "time": "2026-01-28T15:45:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top 5 South newsmakers of the day",
+    "desc": "South cinema buzzed with activity as Mansoor Ali Khan criticized CBFC over 'Jana Nayagan' delays, while Rahul Sankrityan denied AI use for 'RanaBaali' teaser. Shruti Haasan's striking first look for 'Aakasamlo Oka Tara' also grabbed attention. Directors Lokesh Kanagaraj and Vignesh Karthick shared insights on creative choices and censorship challenges.",
+    "img": "https://static.toiimg.com/photo/msid-127716632,imgsize-49036.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mansoor-ali-khan-slams-cbfc-over-jana-nayagan-delay-rahul-sankrityan-denies-ranabaali-ai-claims-shruti-haasans-aakasamlo-oka-tara-first-look-top-5-south-newsmakers-of-the-day/articleshow/127716632.cms",
+    "time": "2026-01-28T15:39:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ISL gets tentative fixtures but relegation remains a question mark",
+    "desc": "The 2025-26 season of the Indian Super League (ISL) will get underway on February 14 with a double-header in Kolkata and Goa. As the hunt for a broadcaster and commercial partner continues, it remains unclear if the truncated season will witness relegation by the end of it.",
+    "img": "https://static.toiimg.com/photo/msid-127715949,imgsize-282290.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/news/isl-gets-tentative-fixtures-but-relegation-remains-a-question-mark/articleshow/127715865.cms",
+    "time": "2026-01-28T15:26:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "‘Just about dotting Is, crossing the Ts’: India-US trade deal may be ‘finalised any day now’: Report",
+    "desc": "​The India-US trade deal aims to more than double two way trade from the current level of $191 billion to $500 billion by 2030. Initial discussions on the agreement were announced during Prime Minister Modi’s visit to Washington in February 2025.",
+    "img": "https://static.toiimg.com/photo/msid-127715809,imgsize-41282.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/just-about-dotting-is-crossing-the-ts-india-us-trade-deal-may-be-finalised-any-day-now-report/articleshow/127715709.cms",
+    "time": "2026-01-28T15:26:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Probe ordered into livestreaming of tiff between doctors and BJP MLA in Udhampur",
+    "desc": "Several doctors object to theProbe ordered into livestreaming of tiff between doctors and BJP MLA in Udhampur, which evoked sharp reactions from netizens online; Deputy CM Surinder Choudhary warns of action against employees ‘ignoring elected representatives’",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/probe-ordered-into-livestreaming-of-tiff-between-doctors-and-bjp-mla-in-udhampur/article70561647.ece",
+    "time": "2026-01-28T15:26:20.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "S&amp;P 500 crosses 7,000 for first time; tech stocks, AI optimism keep Wall Street buoyant",
+    "desc": "Indian markets are buzzing as the S&P 500 crossed 7,000 for the first time, fueled by AI optimism and strong tech earnings. Investors are betting on future monetary easing, with Nvidia leading the charge. Gold prices also hit new highs, while overseas markets showed mixed performance.",
+    "img": "https://static.toiimg.com/photo/msid-127715581,imgsize-1284863.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-markets-today-sp-500-crosses-7000-for-first-time-tech-stocks-ai-optimism-keep-wall-street-buoyant/articleshow/127715528.cms",
+    "time": "2026-01-28T15:18:28.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Pandya steals the show with a bullseye during 4th T20I",
     "desc": "Hardik Pandya stole the spotlight in the fourth T20I against New Zealand with a brilliant direct-hit run-out of captain Mitchell Santner in Visakhapatnam. The moment came in the 18th over and halted New Zealand’s late momentum. Despite strong knocks from Tim Seifert and Devon Conway, India stayed competitive through sharp bowling and energetic fielding, with Pandya’s effort proving a key turning point.",
@@ -7,6 +160,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-hardik-pandya-steals-the-show-with-a-bullseye-during-4th-t20i-watch/articleshow/127714456.cms",
     "time": "2026-01-28T15:13:10.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S.-Iran tensions escalate as Trump says ‘time is running’ out for Tehran",
+    "desc": "“A massive Armada is heading to Iran. It is moving quickly, with great power, enthusiasm, and purpose. It is a larger fleet, headed by the great Aircraft Carrier Abraham Lincoln, than that sent to Venezuela,” Mr. Trump wrote in a social media post.",
+    "img": "https://th-i.thgim.com/public/incoming/n9ir3f/article70562045.ece/alternates/LANDSCAPE_1200/Trump_79441.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-threatens-attack-on-iran/article70562039.ece",
+    "time": "2026-01-28T15:10:02.000Z"
   },
   {
     "cat": "Politics",
@@ -25,6 +187,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arijit-singhs-directorial-debut-is-set-to-star-nawazuddin-siddiquis-daughter-shora-report/articleshow/127713538.cms",
     "time": "2026-01-28T14:48:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Virat Kohli's old tweet about Arijit Singh goes viral",
+    "desc": "Singer Arijit Singh has announced his departure from playback singing to focus on Indian classical music and his own compositions, a decision that has surprised fans and filmmakers. The move has drawn parallels to cricketer Virat Kohli's past retirement, with fans highlighting their shared status at the peak of their careers.",
+    "img": "https://static.toiimg.com/photo/msid-127713862,imgsize-35038.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohlis-old-tweet-about-arijit-singh-goes-viral-as-he-announces-retirement-from-playback-singing-im-short-of-words/articleshow/127713853.cms",
+    "time": "2026-01-28T14:47:23.000Z"
   },
   {
     "cat": "Politics",
@@ -55,15 +226,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "NIA raids nine locations in Kerala as part of probe against PFI",
-    "desc": "Case registered by National Investigation Agency in September 2022 accusing PFI of criminal conspiracy and acts to spread the idea of violent jihad in India with the aim of dismembering and taking over the country",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/nia-raids-nine-locations-in-kerala-as-part-of-probe-against-pfi/article70561453.ece",
-    "time": "2026-01-28T14:24:49.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Ajit Pawar's sudden death leaves leadership vacuum",
     "desc": "The sudden demise of NCP chief Ajit Pawar has cast a shadow over Maharashtra's political landscape, igniting questions about the future of his party. Analysts predict a leadership crisis and uncertainty regarding the potential merger of NCP factions and their future alliance with Sharad Pawar.",
     "img": "https://static.toiimg.com/photo/msid-127712399,imgsize-712834.cms",
@@ -82,30 +244,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "sky show steals the spotlight",
-    "desc": "An aerobatic display by UK pilots and a meticulously choreographed drone show turned the opening day of Wings India 2026 into a spectacle; from high-speed aerial manoeuvres to illuminated formations tracing India’s aviation story, the sky above Begumpet became a living canvas, blending technology, precision and narrative to close day one on a dramatic note",
-    "img": "https://th-i.thgim.com/public/incoming/8yflmk/article70561696.ece/alternates/LANDSCAPE_1200/PTI01_28_2026_000252A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Hyderabad/wings-india-2026-day-one-sky-show-steals-the-spotlight/article70561391.ece",
-    "time": "2026-01-28T14:15:35.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "B’luru firm, Embraer subsidiary tie up for MRO &amp; manufacturing",
     "desc": "Bengaluru-based Axiscades Technologies has partnered with Portugal's OGMA, an Embraer subsidiary, to expand aerospace manufacturing and MRO services in India. This collaboration will focus on providing maintenance and lifecycle support for Embraer aircraft and other platforms, aiming to build indigenous capabilities and meet global standards for defense and civil aviation.",
     "img": "https://static.toiimg.com/photo/msid-127711972,imgsize-.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/bluru-firm-embraer-subsidiary-tie-up-for-mro-manufacturing/articleshow/127711972.cms",
     "time": "2026-01-28T14:14:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CITU appeals to Mysuru residents to support Feb. 12 bandh",
-    "desc": "The strike demands the repeal of the four Labour Codes and the withdrawal of the VB G RAM G Act 2025, SHANTI Act 2025, Seed Act 2025, and Sabka Suraksha Sabka Bheema Act 2025, along with secure, decent employment and statutory minimum wages",
-    "img": "https://th-i.thgim.com/public/incoming/uqf3k3/article70561690.ece/alternates/LANDSCAPE_1200/5964_28_1_2026_18_38_56_1_CITUPRESSMEET.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/citu-appeals-to-mysuru-residents-to-support-feb-12-bandh/article70561275.ece",
-    "time": "2026-01-28T14:08:45.000Z"
   },
   {
     "cat": "Entertainment",
@@ -261,15 +405,6 @@ const newsData_en = [
     "time": "2026-01-28T12:52:52.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Prakriti Kakar and Vijay Anand to host Mumbai reception today",
-    "desc": "Following their enchanting nuptials in Rajasthan and a delightful get-together in Delhi, the talented singer Prakriti Kakar and the savvy entrepreneur Vijay Anand are ready to host a spectacular Mumbai reception at the St. Regis. This event marks a chance to celebrate their love with an even broader array of friends and family.",
-    "img": "https://static.toiimg.com/photo/msid-127706256,imgsize-58480.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/prakriti-kakar-and-husband-vijay-anand-to-host-mumbai-reception-today-singer-to-wear-this-for-the-event/articleshow/127706256.cms",
-    "time": "2026-01-28T12:45:01.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Ajit Pawar's death: Fadnavis-Shinde reach Pawar residence in Baramati; console wife",
     "desc": "Maharashtra Deputy Chief Minister Ajit Pawar tragically died in a plane crash while attempting to land in Baramati. Chief Minister Devendra Fadnavis, Governor Acharya Devvrat, and Deputy CM Eknath Shinde visited Pawar's family to offer condolences. Prime Minister Narendra Modi also expressed his grief and spoke to NCP chief Sharad Pawar.",
@@ -288,24 +423,6 @@ const newsData_en = [
     "time": "2026-01-28T12:21:30.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Border 2 BTS clip reveals how Ahan's Navy scene shot in pool",
-    "desc": "A behind-the-scenes clip from 'Border 2' shows Ahan Shetty filming a Navy sequence in a swimming pool, drawing mixed reactions online. While some fans praised his acting, others mocked the setup. Directed by Anurag Singh, 'Border 2' stars Sunny Deol, Varun Dhawan, Diljit Dosanjh, and Ahan Shetty.",
-    "img": "https://static.toiimg.com/photo/msid-127704882,imgsize-25686.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-bts-clip-reveals-how-ahan-shettys-navy-scene-was-shot-in-a-swimming-pool-fans-praise-his-acting-watch-video/articleshow/127704882.cms",
-    "time": "2026-01-28T12:15:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'War 2' actor Hrithik has THIS to say about 'Border 2'",
-    "desc": "In a burst of enthusiasm for the action genre, Bollywood heartthrob Hrithik Roshan took to Instagram to share his admiration for Sunny Deol's 'Border 2'. This post comes hot on the heels of his praise for Ranveer Singh in 'Dhurandhar', where he emphasized the film's compelling narrative amidst the backdrop of political chaos.",
-    "img": "https://static.toiimg.com/photo/msid-127704312,imgsize-41924.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/war-2-actor-hrithik-roshan-has-this-to-say-about-sunny-deols-border-2-says-loved/articleshow/127704312.cms",
-    "time": "2026-01-28T12:14:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Novak Djokovic is playing on house money at the Australian Open",
     "desc": "Novak Djokovic reached the Australian Open semifinals. His opponent, Lorenzo Musetti, retired hurt while leading two sets to love. Djokovic will now face Jannik Sinner in the last four. Sinner has won their last five encounters. Djokovic acknowledges Sinner as the favourite but is motivated for the match.",
@@ -322,33 +439,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/a-knight-of-the-seven-kingdoms-series-review-a-hedge-knight-shows-westeros-how-to-trim-the-fat/article70560741.ece",
     "time": "2026-01-28T12:00:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shruti Haasan's 'Aakasamlo Oka Tara' FIRST LOOK out",
-    "desc": "Shruti Haasan's first look from Dulquer Salmaan's upcoming film 'Aakasamlo Oka Tara' has been revealed. She plays a scientific teacher. The movie is a feel-good drama set in rural India. It features Satvika Veeravalli in the lead. The film is slated for a Summer 2026 release. It will be a multi-lingual pan-Indian project.",
-    "img": "https://static.toiimg.com/photo/msid-127703660,imgsize-54884.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/shruti-haasans-aakasamlo-oka-tara-first-look-out-on-her-birthday-salaar-actress-joins-dulquer-salmaans-next/articleshow/127703660.cms",
-    "time": "2026-01-28T11:57:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rohit Shetty adds Rs 4.57 crore SUV to his collection",
-    "desc": "Rohit Shetty has added a ₹4.57 crore GMC Hummer EV to his luxury car collection. Known for his high-octane action films, the powerful SUV fits his style perfectly. His lineup already includes a Mustang, Range Rover, AMG G63, and Urus. He’s currently filming a project inspired by Rakesh Maria’s life.",
-    "img": "https://static.toiimg.com/photo/msid-127703294,imgsize-25306.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rohit-shetty-adds-rs-4-57-crore-electric-suv-to-his-collection-spotted-driving-in-mumbai/articleshow/127703294.cms",
-    "time": "2026-01-28T11:49:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Border 2': Shashank addresses Varun's 'tedhi smile'",
-    "desc": "Varun Dhawan's performance in the blockbuster 'Border 2' is earning praise, including from filmmaker Shashank Khaitan, who lauded his sincerity despite earlier criticism of his \"tedhi smile.\" The war drama, a spiritual sequel to the 1997 film, has already surpassed ₹200 crore at the Indian box office within five days of its January 23, 2026 release.",
-    "img": "https://static.toiimg.com/photo/msid-127702516,imgsize-25340.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-shashank-khaitan-hails-varun-dhawans-performance-addresses-his-tedhi-smile-saying-you-might-have/articleshow/127702516.cms",
-    "time": "2026-01-28T11:44:16.000Z"
   },
   {
     "cat": "Entertainment",
@@ -387,15 +477,6 @@ const newsData_en = [
     "time": "2026-01-28T11:04:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Supriya Sule breaks down for her 'dada'; a bond beyond the NCP split",
-    "desc": "Supriya Sule broke down in tears upon learning of her cousin Ajit Pawar's death in a plane crash near Baramati. The tragedy occurred as Pawar was traveling to address rallies, casting a shadow over the recent political rift within the Pawar family and raising questions about the future of his NCP faction.",
-    "img": "https://static.toiimg.com/photo/msid-127699805,imgsize-1412847.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ajit-pawar-death-supriya-sule-breaks-down-for-her-dada-a-bond-beyond-the-ncp-split/articleshow/127699179.cms",
-    "time": "2026-01-28T10:55:11.000Z"
-  },
-  {
     "cat": "Business",
     "title": "What five years of data shows about India’s defence spending",
     "desc": "India's defence budget is set for a steady rise in FY26, projected at Rs 6.81 lakh crore, continuing a five-year upward trend. The focus is shifting towards modernization and capital expenditure, with a significant portion earmarked for domestic procurement.",
@@ -432,24 +513,6 @@ const newsData_en = [
     "time": "2026-01-28T10:27:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Ajit Pawar killed in Baramati plane crash — Who else was on board",
-    "desc": "A chartered Learjet 45 crashed at Baramati airport on Wednesday morning. Maharashtra deputy chief minister Ajit Pawar was among the five people on board who died. The flight had departed Mumbai earlier. It lost control during landing and caught fire. Investigations into the cause are underway. The victims included Pawar's security officer, an aircraft attendant, and the pilots.",
-    "img": "https://static.toiimg.com/photo/msid-127697380,imgsize-1047149.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ajit-pawar-killed-in-baramati-plane-crash-who-else-was-on-board/articleshow/127690519.cms",
-    "time": "2026-01-28T10:21:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Runway not in sight, no landing readback, then flames': Sequence of events that led to Ajit Pawar's plane crash in Baramati",
-    "desc": "Maharashtra deputy chief minister Ajit Pawar's aircraft crashed near Baramati airport shortly after being cleared to land, killing all five on board. The aircraft, registered VI-SSK, had initiated a go-around earlier due to the runway not being in sight. Flames were observed near the runway threshold moments after the landing clearance.",
-    "img": "https://static.toiimg.com/photo/msid-127697260,imgsize-1156727.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/runway-not-in-sight-no-landing-readback-then-flames-sequence-of-events-that-led-to-ajit-pawars-plane-crash-in-baramati/articleshow/127694918.cms",
-    "time": "2026-01-28T10:15:26.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Budget 2026-27: Industry seeks jobs, infrastructure and export push—FICCI survey",
     "desc": "Indian businesses are optimistic about economic growth, with nearly 80% expecting expansion despite global headwinds. Industry leaders are urging the government to prioritize job creation, infrastructure, and export promotion in the upcoming budget. Key proposals include boosting domestic manufacturing, enhancing defence capabilities, and simplifying customs procedures to bolster international trade and investor confidence.",
@@ -466,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bangladesh-born-team-owner-tamim-rahman-gets-sentenced-in-sri-lanka-match-fixing-case/articleshow/127696309.cms",
     "time": "2026-01-28T10:07:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Dada' to supporters, heir to Pawar politics: 5 turning points of 'workaholic' Ajit Pawar's life",
-    "desc": "Ajit Pawar, a formidable Maharashtra politician and six-time Deputy Chief Minister, tragically died in a plane crash. Known for his sharp instincts and administrative prowess, Pawar consistently pursued the top job but never attained it.",
-    "img": "https://static.toiimg.com/photo/msid-127696203,imgsize-931965.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ajit-pawar-death-news-ncp-dada-to-supporters-heir-to-pawar-politics-5-turning-points-of-workaholic-pawar-life/articleshow/127695282.cms",
-    "time": "2026-01-28T10:00:02.000Z"
   },
   {
     "cat": "Sports",
@@ -495,33 +549,6 @@ const newsData_en = [
     "time": "2026-01-28T09:47:43.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India-EU FTA: Why is the trade deal significant? Explained in 5 charts",
-    "desc": "India and the European Union have finalized a Free Trade Agreement. This pact will progressively lower tariffs on most goods. Indian consumers will see lower prices on items like chocolates and cars. Indian exporters will gain duty-free access to the EU market. The agreement also covers services and intellectual property rights.",
-    "img": "https://static.toiimg.com/photo/msid-127688017,imgsize-1531156.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-eu-fta-why-is-the-trade-deal-significant-explained-in-5-charts/articleshow/127687527.cms",
-    "time": "2026-01-28T09:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Animals in a zoo’: Players unite against privacy invasion at Australian Open",
-    "desc": "Coco Gauff's post-match frustration at the Australian Open has ignited a unified player protest against perceived invasions of privacy. Players, including Serena Williams and Iga Swiatek, are speaking out against constant off-court surveillance, likening it to being \"animals in the zoo\" and emphasising the need for personal space away from public view.",
-    "img": "https://static.toiimg.com/photo/msid-127693940,imgsize-83528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/animals-in-a-zoo-players-unite-against-privacy-invasion-at-australian-open/articleshow/127693924.cms",
-    "time": "2026-01-28T09:28:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Happy to have a walk and swim'",
-    "desc": "Former Australian cricketer Damien Martyn is recovering well after a severe meningitis bout that led to a coma. He expressed gratitude for being able to walk and swim again, highlighting the fragility of life. Martyn's journey from a life-threatening illness to regaining basic abilities has garnered widespread support from the sporting community.",
-    "img": "https://static.toiimg.com/photo/msid-127693164,imgsize-148118.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/damien-martyn-shares-recovery-update-happy-to-have-a-walk-and-swim/articleshow/127693086.cms",
-    "time": "2026-01-28T09:09:17.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India flex T20 WC muscle as SKY storms back into top 10",
     "desc": "India's T20 World Cup preparations are bolstered as captain Suryakumar Yadav re-enters the top 10 batting rankings. He joins Abhishek Sharma and Tilak Varma, giving India three batters in the elite group. Several other Indian players also saw significant jumps in the rankings, showcasing the team's strong batting depth ahead of the global tournament.",
@@ -529,24 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/peaking-on-time-india-flex-t20-world-cup-muscle-as-suryakumar-yadav-storms-back-into-icc-top-10/articleshow/127691987.cms",
     "time": "2026-01-28T08:51:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold prices rise 3%, silver adds over Rs 21,000 — Should you buy now, or wait?",
-    "desc": "Gold and silver prices surged to record highs on Wednesday, driven by safe-haven demand amid geopolitical tensions and a weakening US dollar. The rally occurred just before the US Federal Reserve's policy announcement, with investors anticipating potential interest rate changes. Analysts suggest continued volatility but see strong support for both precious metals.",
-    "img": "https://static.toiimg.com/photo/msid-127689846,imgsize-54384.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-prices-rise-3-silver-adds-over-rs-21000-should-you-buy-now-or-wait/articleshow/127686003.cms",
-    "time": "2026-01-28T08:16:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'There’s lots of firepower': Graeme Smith backs South Africa’s T20 WC depth",
-    "desc": "South Africa, T20 World Cup 2024 runners-up, are poised for success with strong recent form and growing squad depth. Former captain Graeme Smith highlights Tristan Stubbs' crucial match-winning potential, especially after his impactful SA20 final performance. Familiarity with subcontinental conditions and batting firepower bolster their chances, though bowling combinations will be key.",
-    "img": "https://static.toiimg.com/photo/msid-127689232,imgsize-41146.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/theres-lots-of-firepower-graeme-smith-backs-south-africas-t20-world-cup-depth/articleshow/127689003.cms",
-    "time": "2026-01-28T08:05:04.000Z"
   },
   {
     "cat": "Entertainment",
@@ -560,38 +569,11 @@ const newsData_en = [
   {
     "cat": "Entertainment",
     "title": "'Border 2' box office collection day 6 (LIVE)",
-    "desc": "Border 2 has achieved a significant milestone crossing the Rs 200 crore mark. The film enjoyed a successful four-day extended weekend, boosted by its patriotic theme and Republic Day release. Opening with Rs 30 crore, it saw substantial growth, especially on Sunday and Monday, earning over Rs 50 crore on each of those days.",
+    "desc": "'Border 2' has achieved a significant milestone crossing the Rs 200 crore mark. The film enjoyed a successful four-day extended weekend, boosted by its patriotic theme and Republic Day release. However, it started seeing a decline from Tuesday onwards.",
     "img": "https://static.toiimg.com/photo/msid-127686788,imgsize-68860.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-6-live-the-sunny-deol-varun-dhawan-film-breaks-the-january-jinx-touches-rs-200-crore-in-india-slows-down-after-republic-day-ahaan-shetty/articleshow/127686297.cms",
     "time": "2026-01-28T07:27:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘I was on my way home’: Djokovic survives scare to reach Aus Open semis",
-    "desc": "Novak Djokovic narrowly avoided an Australian Open exit after opponent Lorenzo Musetti retired injured while leading by two sets. Djokovic, admitting immense luck, was outplayed before Musetti's thigh issue forced his withdrawal. This dramatic turn keeps Djokovic's record 25th Grand Slam pursuit alive and marks his 103rd Melbourne win, surpassing Federer.",
-    "img": "https://static.toiimg.com/photo/msid-127686689,imgsize-135070.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/i-was-on-my-way-home-extremely-lucky-novak-djokovic-survives-scare-to-reach-australian-open-semis/articleshow/127686590.cms",
-    "time": "2026-01-28T07:24:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Markets mixed as dollar weakens, investors await Fed decision",
-    "desc": "Asian markets showed a mixed performance today, with South Korea's Kospi hitting a record high driven by tech stocks. Japan's Nikkei, however, dipped due to exporter losses and yen fluctuations. Investors are keenly awaiting the US Federal Reserve's interest rate decision, anticipating no immediate changes but seeking clues on future rate cuts.",
-    "img": "https://static.toiimg.com/photo/msid-127685815,imgsize-707972.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-mixed-as-dollar-weakens-investors-await-fed-decision/articleshow/127684576.cms",
-    "time": "2026-01-28T07:10:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Will gold, silver touch new highs in coming days? Here’s the outlook",
-    "desc": "Gold and silver prices are likely to see volatility in the coming days, says Maneesh Sharma, AVP - Commodities & Currencies, Anand Rathi Shares and Stock Brokers. He shares his outlook for gold and silver prices in the coming days:",
-    "img": "https://static.toiimg.com/photo/msid-127641120,imgsize-67610.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-india-where-is-gold-silver-rate-headed-on-january-28-2026-mcx-gold-futures-outlook/articleshow/127641055.cms",
-    "time": "2026-01-28T05:45:00.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/linkin-park-interview-dave-farrell-on-getting-the-band-back-together-and-finally-coming-to-india/article70537116.ece",
     "time": "2026-01-22T11:35:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sobhita Dhulipala interview",
+    "desc": "Sobhita Dhulipala and producer Suresh Babu Daggubati discuss their new Telugu crime thriller, Cheekatilo, and what it takes for an film to stand out in the digital space. Cheekatilo streams on Prime Video from January 23.",
+    "img": "https://th-i.thgim.com/public/incoming/2fdfgd/article70536936.ece/alternates/LANDSCAPE_1200/sobhita%20dhulipala.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-sobhita-dhulipala-interview-cheekatilo-suresh-babu-daggubati/article70536933.ece",
+    "time": "2026-01-22T07:30:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chennai’s AlterNation Jazz Festival set to celebrate artists from the city on January 31",
+    "desc": "The first edition of AlterNation’s jazz festival is all set to make your head bob with artists from the city taking the stage with acts including Jatayu, Many Things, Suman Sridhar and The Black Mamba, and the Tuesday Jazzers",
+    "img": "https://th-i.thgim.com/public/life-and-style/bxglic/article70536757.ece/alternates/LANDSCAPE_1200/Copy%20of%20JATAYU%20-4360.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/music/chennais-alternation-jazz-festival-set-to-celebrate-artists-from-the-city-on-january-31/article70529344.ece",
+    "time": "2026-01-22T06:35:35.000Z"
   }
 ];

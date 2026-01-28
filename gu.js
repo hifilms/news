@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "વાતચીત કરો અથવા ભીષણ હુમલા માટે તૈયાર રહો... ટ્રમ્પની ઈરાનને અંતિમ ચેતવણી; સહમત તો થયું ઈરાન પણ મૂકી આ શરત",
+    "desc": "અમેરિકાના રાષ્ટ્રપતિ ટ્રમ્પે કહ્યું હતું કે, તેમને ઉમ્મીદ છે કે ઈરાન જલ્દી જ વાતચીતના ટેબલ પર આવશે અને એક ન્યાયપૂર્ણ અને સંતુલિત સમજૂતી પર વાતચીત કરશે. પરમાણુ હથિયાર વગરની એવી સમજૂતી જે તમામ પક્ષો માટે શ્રેષ્ઠ હોય. સમય ઝડપથી વીતી રહ્યો છે અને પરિસ્થિતિ નિર્ણાયક વળાંક પર છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/trump-warns-iran-negotiate-or-face-attack-midnight-hammer-463199 ",
+    "time": "2026-01-28T16:46:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પ્રમોદ મહાજનથી અજિત પવાર સુધી... મહારાષ્ટ્રની રાજનીતિના સમીકરણો બદલી નાખનારા અકાળ અવસાન",
+    "desc": "મહારાષ્ટ્રના નાયબ મુખ્યમંત્રી અજિત પવારનું દુ:ખદ અવસાન મહારાષ્ટ્રના રાજકારણમાં અણધારી ઘટનાઓની યાદ અપાવે છે. આવી અણધારી ઘટનાઓએ વારંવાર સત્તાના સમીકરણો બદલ્યા છે. છેલ્લા બે દાયકામાં ઘણા મોટા નેતાઓના અકાળે અવસાન થયા છે, જેના કારણે પાર્ટીઓ અને રાજ્ય નવા પડકારોનો સામનો કરી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/maharashtra-politics-major-leaders-demise-ajit-pawar-pramod-mahajan-gopinath-munde-463198 ",
+    "time": "2026-01-28T16:17:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;જય શ્રીરામ&amp;#039; ભાઈને કર્યો મેસેજ, પિતાના કહેવાથી ફ્લાઇટ એટેન્ડન્ટ બની, અજીત પવાર સાથે જીવ ગુમાવનારી પિંકીની કહાની",
+    "desc": "NCP નેતા અજિત પવારની સાથે ઉડાન ભરી રહેલી ફ્લાઇટ એટેન્ડન્ટ પિંકી માલીનું વિમાન દુર્ઘટનામાં મોત થયું છે. પિંકીની ચોથી ફ્લાઇટ હતી અને મોડલિંગ અને એવિએશનમાંથી એવિએશન ક્ષેત્ર પિતા શિવકુમાર માલીના પ્રોત્સાહનથી પસંદ કર્યું હતું. પરિવારનું કહેવું છે કે પિંકીની ઉડાન પર તેને ગર્વ હતો. દુર્ઘટનાની રાત્રે પિંકીએ પરિવારને બારામતી અને નાંદેડની યાત્રાની જાણકારી આપી હતી. માલીનો પરિવાર જૌનપુરનો રહેવાસી છે. દુર્ઘટના બાદ પરિવાર પર આભ ફાટ્યું છે અને તંત્ર દ્વારા સહાયતાનું આશ્વાસન આપવામાં આવ્યું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/liked-modeling-became-a-flight-attendant-on-father-advice-story-of-pinky-who-lost-her-life-with-ajit-pawar-plane-crash-463184 ",
+    "time": "2026-01-28T15:48:07.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "જિયો હોટસ્ટારે લોન્ચ કર્યા નવા મંથલી પ્લાન, સબ્સક્રિપ્શનમાં મોટા ફેરફાર, 80 રુપિયામાં મળશે ઘણું બધું",
     "desc": "જો તમે જિયો હોટસ્ટાર પર આવેલી ફિલ્મો અને વેબ સીરીઝ જોવા માંગો છો તો તેના માટે બેસ્ટ સમય છે. કારણ કે જિયો હોટસ્ટારએ યુઝર્સ માટે સૌથી સસ્તા મંથલી પ્લાન લોન્ચ કરી દીધા છે. જેમાં તમે ખૂબ ઓછા ખર્ચે જિયો હોટસ્ટારનું સબ્સક્રિપ્શન લઈ શકો છો.",
@@ -133,24 +160,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/rupani-madhavrao-scindia-sanjay-gandhi-these-five-leaders-before-ajit-pawar-also-lost-their-plane-crashes-463132 ",
     "time": "2026-01-28T05:52:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;quot;વેખરાયેલો કાટમાળ, દૂર-દૂર સુધી માત્ર ધુમાડો...જ્યાં વિમાન ક્રેશ થયું, ત્યાંનો સામે આવ્યો VIDEO",
-    "desc": "બારામતીમાં અજિત પવારનું વિમાન ક્રેશ થયું હતું. વિમાન સંપૂર્ણપણે બળીને ખાખ થઈ ગયું હતું, અને તેનો કાટમાળ લેન્ડિંગ સ્ટ્રીપથી થોડી દૂર મળી આવ્યો હતો. આ સૂચવે છે કે વિમાન લેન્ડિંગ દરમિયાન ક્રેશ થયું હતું. આ દુર્ઘટનામાં 5 લોકોના મોત થયા હતા. દુર્ઘટના સ્થળનો એક વીડિયો પણ સામે આવ્યો છે, જેમાં નજર પડે ત્યાં સુધી ધુમાડો જ ધુમાડો દેખાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ajit-pawar-plane-crash-in-baramati-maharashtra-politics-video-emerges-from-the-site-where-ajit-pawars-plane-crashed-463126 ",
-    "time": "2026-01-28T05:32:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ઉપરાછાપરી વેસ્ટર્ન ડિસ્ટર્બન્સ ભૂક્કા બોલાવશે, શિયાળામાં વરસાદ-કરા પડશે, ગુજરાતમાં પણ આવશે હવામાનમાં પલટો",
-    "desc": "ભારતીય હવામાન વિજ્ઞાન વિભાગ દ્વારા બુધવારે ભર શિયાળે વરસાદ અને કરા પડવાની શક્યતા વ્યક્ત કરાઈ છે. વેસ્ટર્ન ડિસ્ટર્બન્સ એક્ટિવ હોવાના કરાણે દેશના કેટલાક વિસ્તારોમાં હવામાનમાં પલટો આવી શકે છે. ગુજરાતની શું સ્થિતિ રહેશે તે અને વધુ વિગતો માટે વાંચો અહેવાલ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/imd-weather-forecast-rainfall-snow-warning-check-gujarat-weather-update-ambalal-patel-prediction-463127 ",
-    "time": "2026-01-28T05:16:03.000Z"
   },
   {
     "cat": "Business",
@@ -466,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/yuzvendra-chahal-spotted-with-shefali-bagga-after-unfollowing-rj-mahvash-personal-life-rumors-462872 ",
     "time": "2026-01-25T11:09:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "સંજુ સેમસન માટે છેલ્લી તક... ટીમમાં આ બેટ્સમેનની વાપસી સાથે કપાશે પત્તુ",
-    "desc": "ભારતીય વિકેટકીપર સંજુ સેમસન હાલમાં ટીમમાંથી બહાર થવાના ભયનો સામનો કરી રહ્યો છે. ટી20 વર્લ્ડ કપ પહેલા તેણે પોતાનું ફોર્મ ગુમાવી દીધું છે. ત્યારે જો ટીમમાં આ ખેલાડીની વાપસી થશે, તો સંજુનું પત્તુ કપાઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/last-chance-for-sanju-samson-as-tilak-varma-is-returning-in-squad-462871 ",
-    "time": "2026-01-25T10:56:00.000Z"
   },
   {
     "cat": "Entertainment",

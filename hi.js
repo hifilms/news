@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Undefeated Australia storm into U19 World Cup 2026 semifinals after beating West Indies",
+    "desc": "Australia have made it to the semifinals of the U19 World Cup 2026 after defeating West Indies in their last Super Six match of the tournament at the Harare Sports Club, Harare. Led by a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/undefeated-australia-storm-into-u19-world-cup-2026-semifinals-after-beating-west-indies-2026-01-28-1027911",
+    "time": "2026-01-28T18:29:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Aaron Jones charged for breaching CWI, ICC's anti-corruption code, handed immediate ban",
+    "desc": "USA batter Aaron Jones has been provisionally suspended from all forms of cricket after being charged by the International Cricket Council with multiple violations of its Anti-Corruption Code. The 31-year-old has been handed an immediate...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/aaron-jones-charged-for-breaching-cwi-icc-s-anti-corruption-code-handed-immediate-ban-2026-01-28-1027909",
+    "time": "2026-01-28T18:22:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Where to watch UEFA Champions League clash on TV and stream online in India?",
+    "desc": "Benfica will host Real Madrid at Estádio da Luz in Lisbon on Wednesday as both clubs meet in the final matchday of the 2025–26 UEFA Champions League league phase. This fixture carries significant weight as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/real-madrid-vs-benfica-where-to-watch-uefa-champions-league-clash-on-tv-and-stream-online-in-india-2026-01-28-1027903",
+    "time": "2026-01-28T17:50:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryakumar Yadav reveals reason behind playing six batters in 4th T20I vs New Zealand, speaks on 50-run defeat",
+    "desc": "India suffered a hammering 50-run defeat in the fourth T20I against New Zealand at the ACA-VDCA Cricket Stadium in Visakhapatnam. Ishan Kishan, who picked up a niggle in the third T20I of the series, was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-reveals-reason-behind-playing-six-batters-in-4th-t20i-vs-new-zealand-reflects-on-50-run-defeat-2026-01-28-1027902",
+    "time": "2026-01-28T17:33:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India go down to New Zealand in fourth T20I as Shivam Dube's knock goes in vain",
+    "desc": "India lost the fourth T20I against New Zealand at the ACA-VDCA Cricket Stadium, Visakhapatnam, on Wednesday as most of their batters failed while chasing 216 against the Kiwis. With India's top-order failing, Shivam Dube tried...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-go-down-to-new-zealand-in-fourth-t20i-as-shivam-dubes-knock-goes-in-vain-2026-01-28-1027898",
+    "time": "2026-01-28T17:06:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh, Netherlands qualify for Women's T20 World Cup 2026 in England",
+    "desc": "Bangladesh and the Netherlands have booked their spots at the 2026 Women’s T20 World Cup following commanding displays at the qualifying tournament in Nepal. The victories mark a historic achievement for the Netherlands, who will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-netherlands-qualify-for-women-s-t20-world-cup-2026-in-england-2026-01-28-1027896",
+    "time": "2026-01-28T16:58:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why are 18 matches in UEFA Champions League set to begin at same time?",
+    "desc": "European football’s premier club competition, the UEFA Champions League, has scheduled all 18 of its final league‑phase matches to kick off simultaneously, an unusual sight for fans and broadcasters alike. This decisive matchday marks the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-are-18-matches-in-uefa-champions-league-set-to-begin-at-same-time-2026-01-28-1027891",
+    "time": "2026-01-28T15:36:53.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Suryakumar Yadav makes gains in ICC rankings after returning to form, Hardik, Dube also rise",
     "desc": "India T20 captain Suryakumar Yadav made strong strides in the ICC rankings as per the latest update on Wednesday, January 28. Following his strong half-centuries in the ongoing T20I series against New Zealand, SKY gained...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-varun-chakravarthy-not-playing-4th-t20i-vs-new-zealand-in-visakhapatnam-2026-01-28-1027873",
     "time": "2026-01-28T13:36:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajasthan Royals up for sale? 4 groups line up to buy IPL franchise after RR valued over billion",
-    "desc": "The Rajasthan Royals have moved a step closer to a potential ownership change, with the franchise’s current owners shortlisting four bidding groups to advance in the next phase of the sale process. As per reports,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-up-for-sale-4-groups-line-up-to-buy-ipl-franchise-after-rr-valued-over-billion-2026-01-28-1027867",
-    "time": "2026-01-28T13:18:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Ishan Kishan not playing 4th T20I against New Zealand in Visakhapatnam?",
-    "desc": "Arshdeep Singh replaced Ishan Kishan in India’s playing XI for the fourth T20I against New Zealand at the ACA-VDCA Cricket Stadium in Visakhapatnam. Explaining the reason, captain Suryakumar Yadav mentioned that the keeper-batter picked up...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-ishan-kishan-not-playing-4th-t20i-against-new-zealand-in-visakhapatnam-2026-01-28-1027864",
-    "time": "2026-01-28T13:11:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India look to chase 216 in Vizag for a 4-0 lead",
-    "desc": "India opted to bowl first against New Zealand in the fourth T20I at the ACA-VDCA Cricket Stadium, Visakhapatnam. The Men in Blue are missing Ishan Kishan from their team for the fourth clash due to a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-4th-t20i-live-cricket-score-india-vs-new-zealand-aca-vdca-cricket-stadium-visakhapatnam-latest-match-updates-scorecard-teams-playing-xis-2026-01-28-1027862",
-    "time": "2026-01-28T12:47:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sarfaraz Khan reflects on India snub, says 'can't do anything'; speaks on CSK call",
-    "desc": "Sarfaraz Khan is choosing perspective over frustration as he continues his domestic grind, even with national selection seemingly out of reach for the moment. Despite a prolific run in first-class cricket over the past year,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sarfaraz-khan-reflects-on-india-snub-says-can-t-do-anything-speaks-on-csk-call-2026-01-28-1027853",
-    "time": "2026-01-28T12:11:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Check head-to-head stats ahead of Australian Open 2026 semifinal",
-    "desc": "Right then, it's official. Serb icon Novak Djokovic will be up against Italian superstar Jannik Sinner in the Australian Open 2026 semifinal. Ever since the draw was made, there was an excitement to watch these...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-vs-jannik-sinner-h2h-record-check-head-to-head-stats-ahead-of-australian-open-2026-semifinal-2026-01-28-1027851",
-    "time": "2026-01-28T12:02:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma wants India to play both Varun Chakravarthy, Kuldeep Yadav in T20 World Cup",
-    "desc": "After Varun Chakravarthy firmly established his authority in the shortest format of the game, Kuldeep Yadav’s game time decreased significantly, as the team management increasingly preferred to field a second spinner in the form of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-wants-india-to-play-both-varun-chakravarthy-kuldeep-yadav-in-t20-world-cup-2026-01-28-1027847",
-    "time": "2026-01-28T11:35:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jannik Sinner marches into Australian Open 2026 semifinals, sets up clash with Novak Djokovic",
-    "desc": "Two-time defending champion Jannik Sinner stormed into the semifinals of the Australian Open 2026 after beating Ben Shelton in straight sets 6-3, 6-4, 6-4 on Wednesday, January 28. Sinner put up a masterclass to down the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-marches-into-australian-open-2026-semifinals-sets-up-clash-with-novak-djokovic-2026-01-28-1027840",
-    "time": "2026-01-28T11:03:30.000Z"
   }
 ];
