@@ -2,7 +2,7 @@ const newsData_hi = [
   {
     "cat": "Sports",
     "title": "Undefeated Australia storm into U19 World Cup 2026 semifinals after beating West Indies",
-    "desc": "Australia have made it to the semifinals of the U19 World Cup 2026 after defeating West Indies in their last Super Six match of the tournament at the Harare Sports Club, Harare. Led by a...",
+    "desc": "Australia have made it to the semifinals of the U19 World Cup 2026 after defeating West Indies in their last Super Six match in Group 1 at the Harare Sports Club, Harare. Led by a...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/undefeated-australia-storm-into-u19-world-cup-2026-semifinals-after-beating-west-indies-2026-01-28-1027911",

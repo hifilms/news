@@ -1,6 +1,33 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "BLACKPINK's Rose REVEALS if she is dating; 'If I say no...'",
+    "desc": "Rose, the dazzling star of BLACKPINK, recently opened up about her romantic life, saying, \"Denying would feel so dishonest.\" While she cherishes her privacy to protect those closest to her from the harsh glare of fame, she recounted a hilarious moment when she donned a grandmother disguise to escape the public eye.",
+    "img": "https://static.toiimg.com/photo/msid-127732705,imgsize-32852.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/blackpinks-rose-finally-reveals-if-she-is-dating-anyone-shares-how-she-diguised-as-old-lady-to-go-out-with-her-ex/articleshow/127732705.cms",
+    "time": "2026-01-28T20:24:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Why Salman Khan deserved more love",
+    "desc": "In a career spanning over three decades, Salman Khan has become synonymous with swagger, mass appeal, and larger-than-life heroism. From action-packed blockbusters to whistle-worthy punchlines, his stardom has often been powered by spectacle. Yet, hidden beneath the loud triumphs is a film that dared to be soft, vulnerable, and deeply human — Tubelight (2017).",
+    "img": "https://static.toiimg.com/photo/msid-127731797,imgsize-30774.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/revisiting-tubelight-why-salman-khans-most-tender-performance-deserved-more-love/articleshow/127731630.cms",
+    "time": "2026-01-28T20:02:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "It’s scary to think where India will be in five years’ time: Sarah Taylor",
+    "desc": "Former England wicketkeeper Sarah Taylor, the fielding coach of Giants in WPL-4, says that the Women in Blue are making rapid strides due to the exposure they are getting; feels that the franchise leagues have made women’s cricket more exciting and competitive",
+    "img": "https://th-i.thgim.com/public/incoming/8zgruq/article70562663.ece/alternates/LANDSCAPE_1200/SARAH%20TAYLOR.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/sarah-taylor-interview-its-scary-to-think-where-india-will-be-in-five-years-time/article70562661.ece",
+    "time": "2026-01-28T18:44:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Anurag Basu reveals Arijit Singh’s next dream after retirement",
     "desc": "Filmmaker Anurag Basu has shared a rare detail about Arijit Singh’s upcoming career move, days after the singer announced that he is stepping away from playback singing. The update comes amid widespread reactions to Arijit’s surprise decision, which left fans and the industry in shock.",
     "img": "https://static.toiimg.com/photo/msid-127723464,imgsize-48390.cms",
@@ -55,7 +82,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Did EC give data to show SIR was necessary and imminent, petitioners ask SC",
+    "title": "Petitioners ask Supreme Court whether Election Commission gave data to show SIR was needed",
     "desc": "Pleas against SIR say people from marginalised communities depend on their status as a voter to exercise core civil rights and failure to provide a document causes a fear of ‘being thrown out as a foreigner’",
     "img": "https://th-i.thgim.com/public/incoming/aiv2ln/article70562458.ece/alternates/LANDSCAPE_1200/02th-KDR-Can-sGP0F8GM1B.3.jpg.jpg",
     "src": "thehindu.com",
@@ -414,15 +441,6 @@ const newsData_en = [
     "time": "2026-01-28T12:37:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Abhijeet Ghoshal on Arijit Singh’s playback exit",
-    "desc": "Playback singer Arijit Singh has announced his departure from playback singing, a move lauded by fellow artist Abhijeet Ghoshal as a courageous evolution. Ghoshal believes this decision will allow Singh to pursue his passion for classical and contemporary music, a path made possible by the rise of independent music.",
-    "img": "https://static.toiimg.com/photo/msid-127705290,imgsize-111988.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/abhijeet-ghoshal-on-arijit-singhs-playback-exit-independent-music-will-now-be-seen-very-differently-exclusive/articleshow/127704531.cms",
-    "time": "2026-01-28T12:21:30.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Novak Djokovic is playing on house money at the Australian Open",
     "desc": "Novak Djokovic reached the Australian Open semifinals. His opponent, Lorenzo Musetti, retired hurt while leading two sets to love. Djokovic will now face Jannik Sinner in the last four. Sinner has won their last five encounters. Djokovic acknowledges Sinner as the favourite but is motivated for the match.",
@@ -441,15 +459,6 @@ const newsData_en = [
     "time": "2026-01-28T12:00:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Armaan Mallik reacts to Arijit Singh's retirement",
-    "desc": "Playback singer Arijit Singh has announced his retirement from new playback singing assignments, surprising fans and colleagues. While clarifying he's not leaving music entirely, his decision has prompted heartfelt reactions from industry peers like Armaan Malik and Amaal Mallik, who expressed respect and gratitude for his contributions to film music.",
-    "img": "https://static.toiimg.com/photo/msid-127702669,imgsize-34008.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/armaan-mallik-reacts-to-arijit-singhs-retirement-from-playback-singing-the-soul-knows-when-its-time-to-change-direction/articleshow/127702072.cms",
-    "time": "2026-01-28T11:40:05.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Will Budget 2026 provide clarity on cryptocurrency taxation, simplify compliance?",
     "desc": "India's booming crypto market, awaits clarity in Union Budget 2026. Following stringent measures in Budget 2025, including a 30% flat tax and 1% TDS, experts urge for nuanced rules on loss set-offs and asset classification. While some anticipate reforms, others foresee continued aggressive taxation, emphasizing compliance.",
@@ -457,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/will-budget-2026-provide-clarity-on-cryptocurrency-taxation-simplify-compliance/articleshow/127700692.cms",
     "time": "2026-01-28T11:28:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "What happened in 26 minutes and 5 unanswered questions",
-    "desc": "A Learjet 45 carrying Maharashtra's deputy chief minister Ajit Pawar crashed near Baramati runway after multiple landing attempts amid poor visibility. The aircraft burst into flames shortly after receiving landing clearance, raising questions about potential system failure, communication breakdown, or mechanical issues during the final approach.",
-    "img": "https://static.toiimg.com/photo/msid-127701186,imgsize-1373577.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ajit-pawar-plane-crash-what-happened-in-26-minutes-and-5-unanswered-questions/articleshow/127700900.cms",
-    "time": "2026-01-28T11:17:46.000Z"
   },
   {
     "cat": "Entertainment",
@@ -819,24 +819,6 @@ const newsData_en = [
     "time": "2026-01-23T21:32:51.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Rohit on 13-year ICC title drought",
-    "desc": "The former captain, who currently plays in the ODIs only, said the team management headlined by him and former head coach Rahul Dravid wanted to remove the fear by giving everyone freedom and clarity in their roles",
-    "img": "https://th-i.thgim.com/public/incoming/vx5i7x/article70544199.ece/alternates/LANDSCAPE_1200/6744_19_1_2026_9_27_19_1_111_RVM_1718.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/fear-of-failure-might-have-crept-into-all-of-us-rohit-on-13-year-icc-title-drought/article70544198.ece",
-    "time": "2026-01-23T21:19:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sindhu, Lakshya lose in quarterfinals; Indian challenge ends in Indonesia Masters",
-    "desc": "Sindhu, a two-time Olympic medallist, lost to top seed and world number four Chen Yu Fei of China 13-21 17-21 in the quarterfinal contest that lasted 42 minutes to bow out of the Super 500 event",
-    "img": "https://th-i.thgim.com/public/incoming/joq07x/article70544197.ece/alternates/LANDSCAPE_1200/PTI01_14_2026_000566A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/sindhu-lakshya-lose-in-quarterfinals-indian-challenge-ends-in-indonesia-masters/article70544195.ece",
-    "time": "2026-01-23T21:04:20.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Linkin Park’s debut tour of India kicks off with a performance in Bengaluru",
     "desc": "The American rock band took the stage as part of the From Zero World Tour. The standalone gig was a power-packed performance with songs from the band'’ new album, and chart toppers Numb and In The End",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/chennais-alternation-jazz-festival-set-to-celebrate-artists-from-the-city-on-january-31/article70529344.ece",
     "time": "2026-01-22T06:35:35.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Why SIR verification needs to be completely digitised",
+    "desc": "SIR 2.0, aimed at updating electoral rolls, has caused confusion and distress among voters. Despite the ECINet’s ability to handle data entry, verification, cross-checks, and audit trails, the process has relied heavily on paper-based forms, summons, and hearings",
+    "img": "https://th-i.thgim.com/public/incoming/2apqe1/article70526832.ece/alternates/LANDSCAPE_1200/PTI01_19_2026_000221A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/why-sir-verification-needs-to-be-completely-digitised/article70525723.ece",
+    "time": "2026-01-20T03:00:00.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "The ‘chroma key’ to  great filmmaking: How green screen technology works",
+    "desc": "Have you ever watched a film with some special add-ons and wondered, ‘How do they do that?’. Well, the answer lies in a screen of a very specific colour. Let’s explore the magic of chroma keying. Lights, camera, action!",
+    "img": "https://th-i.thgim.com/public/incoming/3a5idy/article70473764.ece/alternates/LANDSCAPE_1200/3028956788_5629cf5193_o.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/the-chroma-key-to-great-filmmaking-how-green-screen-technology-works/article70473774.ece",
+    "time": "2026-01-19T11:09:14.000Z"
   }
 ];
