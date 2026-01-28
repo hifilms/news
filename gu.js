@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "જિયો હોટસ્ટારે લોન્ચ કર્યા નવા મંથલી પ્લાન, સબ્સક્રિપ્શનમાં મોટા ફેરફાર, 80 રુપિયામાં મળશે ઘણું બધું",
+    "desc": "જો તમે જિયો હોટસ્ટાર પર આવેલી ફિલ્મો અને વેબ સીરીઝ જોવા માંગો છો તો તેના માટે બેસ્ટ સમય છે. કારણ કે જિયો હોટસ્ટારએ યુઝર્સ માટે સૌથી સસ્તા મંથલી પ્લાન લોન્ચ કરી દીધા છે. જેમાં તમે ખૂબ ઓછા ખર્ચે જિયો હોટસ્ટારનું સબ્સક્રિપ્શન લઈ શકો છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/jio-hotstar-latest-monthly-plans-hotstar-ott-subscription-plans-start-from-79-rupees-463183 ",
+    "time": "2026-01-28T15:05:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શું છે ડેપ્યુટી સીએમને અંતિમ વિદાય આપવાનો પ્રોટોકોલ, જાણો મહારાષ્ટ્રમાં કેટલા અલગ છે રાજકીય સન્માનના નિયમો?",
+    "desc": "મહારાષ્ટ્રમાંથી મોટા સમાચાર સામે આવ્યા છે. આજે સવારે ડેપ્યુટી સીએમ અજિત પવારનું પ્લેન ક્રેશ થયું છે. આ દુર્ઘટનામાં મહારાષ્ટ્રના ડેપ્યુટી સીએમ અને NCPના અજિત પવારનું દુઃખદ અવસાન થયું છે. ત્યારે ચાલો જાણીએ કે, નાયબ મુખ્યમંત્રીને અંતિમ વિદાય આપવાનો સત્તાવાર પ્રોટોકોલ શું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/maharashtra-news-ajit-pawar-death-plane-crash-deputy-cm-funeral-protocol-details-463171 ",
+    "time": "2026-01-28T13:32:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મહારાષ્ટ્રમાં મોટું રાજકીય સંકટ: અજિત પવારનું અવસાન ફડણવીસ માટે મોટો ઝટકો? જાણો કેમ",
+    "desc": "અજિત પવારને ગુમાવવા મુખ્યમંત્રી દેવેન્દ્ર ફડણવીસના ચહેરા સ્પષ્ટપણે જોઈ શકાય છે કે અજિત પવારનું મૃત્યુ કેવી રીતે તેમના માટે વ્યક્તિગત ખોટ છે. માત્ર પારિવારિક સંબંધો અને મજબૂત દોસ્તી જ નહીં, પરંતુ સરકારમાં પણ અજિત પવારે મહત્વપૂર્ણ ભૂમિકા ભજવી હતી. આવનારા સમયમાં મહારાષ્ટ્રની રાજનીતિમાં કેટલીક મુશ્કેલી અથવા તો ઉથલપાથલ મચી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/why-ajit-pawar-death-big-loss-to-cm-devendra-fadnavis-maharashtra-politics-ajit-pawar-plane-crash-463168 ",
+    "time": "2026-01-28T12:44:41.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "T20 વર્લ્ડ કપ પહેલા પેટ કમિન્સે છોડી ક્રિકેટ ? વીડિયો થયો વાયરલ, જાણો શું છે હકીકત",
     "desc": "પેટ કમિન્સનો સ્ટેન્ડ-અપ કોમેડી કરતો વીડિયો સોશિયલ મીડિયામાં વાયરલ થયો હતો, જેના કારણે નિવૃત્તિની ચર્ચા થઈ રહી છે. ત્યારે આ વીડિયો પાછળની હકીકત શું છે અને પેટ કમિન્સની નિવૃત્તિ અંગેનું સત્ય શું છે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -153,15 +180,6 @@ const newsData_gu = [
     "time": "2026-01-28T03:14:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ચાર ધામમાં ગેરહિન્દુઓના પ્રવેશ પર મોટો નિર્ણય, જાણો શું કહ્યું મંદિર સમિતિએ",
-    "desc": "ઉત્તરાખંડમાં ચાર ધામો અંગેની પરિસ્થિતિ BKTCએ સ્પષ્ટ કરી છે. આ ઘર્મના લોકોને પણ હિન્દુઓ સાથે પ્રવેશ આપવામાં આવશે. વક્ફ બોર્ડના વડા શાદાબ શમ્સે આ નિર્ણયને ટેકો આપતા કહ્યું કે, જે લોકો શ્રદ્ધા રાખતા નથી તેમનો ત્યાં શું કામ છે?\"",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/big-decision-on-entry-of-non-hindus-into-char-dham-know-what-the-temple-committee-said-463111 ",
-    "time": "2026-01-28T03:05:56.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "2013 થી શરુ થયેલી અરિજિત સિંહની સુરીલી સફર પુરી, આ દેશભક્તિનું ગીત બન્યું અરિજિતના કરિયરનું છેલ્લું ગીત",
     "desc": "કરોડો દિલો પર પોતાના અવાજના દમ પર રાજ કરતાં અરિજિત સિંહએ અચાનક લોકોને મોટો આંચકો આપ્યો છે. અરિજિત સિંહએ પ્લેબેક સિંગિંગ છોડવાનો નિર્ણય કર્યો છે. આ ખબર સામે આવ્યા પછી અરિજિત સિંહ વિશે ચર્ચાઓ તેજ થઈ ગઈ છે.",
@@ -196,15 +214,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/money-was-deducted-from-atm-but-not-received-this-way-you-will-get-the-money-back-in-full-463085 ",
     "time": "2026-01-27T14:45:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "UGC વિવાદ પર મોદી સરકારનું પહેલું નિવેદન, જાણો સરકારે શું કહ્યું",
-    "desc": "ધર્મેન્દ્ર પ્રધાને કહ્યું કે કોઈની સાથે કોઈ ભેદભાવ કરવામાં આવશે નહીં અને કોઈને તેનો દુરુપયોગ કરવાની મંજૂરી આપવામાં આવશે નહીં. તેમનું નિવેદન મહત્વપૂર્ણ છે કારણ કે હાલમાં UGC નિયમો અંગે દેશવ્યાપી ચર્ચા ચાલી રહી છે. એવું કહેવામાં આવી રહ્યું છે કે આનાથી ભાજપ માટે મુશ્કેલીઓ વધી શકે છે, જેની મજબૂત વોટ બેંક ઉચ્ચ જાતિ સમુદાય રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/modi-government-first-statement-on-ugc-controversy-know-what-the-government-said-463077 ",
-    "time": "2026-01-27T13:46:19.000Z"
   },
   {
     "cat": "Business",
@@ -646,14 +655,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/sunny-deol-patriotic-film-border-on-ott-amazon-prime-462182 ",
     "time": "2026-01-19T06:50:28.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "આ કાર પર ભારે ડિસ્કાઉન્ટ, બેઝ વેરિએન્ટ પર થશે ₹1.04 લાખની બચત, કંપનીની શાનદાર ઓફર",
-    "desc": "Volkswagen જાન્યુઆરી 2026મા પોતાની કોમ્પેક્ટ SUV Taigun પર શાનદાર ડિસ્કાઉન્ટ આપી રહી છે. એન્ટ્રી-લેવલ કમ્ફર્ટલાઇન MT પર 1.04 લાખ રૂપિયા સુધીની છૂટ મળી રહી છે. 5-સ્ટાર સેફ્ટી અને સ્પોર્ટી લુકની સાથે Taigun આ સમયે ખરીદવા માટે સારો વિકલ્પ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/volkswagen-taigun-discounts-rs-1-04-lakh-in-january-2026-462173 ",
-    "time": "2026-01-19T05:19:31.000Z"
   }
 ];

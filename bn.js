@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "রিয়ালিটি শো-তে 'ফেল', সেই অরিজিৎ সিং গানের জগতে জনপ্রিয়তার শিখরে! তালিকায় এমন আর কারা?",
+    "desc": "এমন অনেক প্রতিযোগী রয়েছেন যাঁরা ফাইনালে পৌঁছনোর আগেই এলিমিনেশন, প্রত্যাখ্যান বা বিপর্যয়ের মুখোমুখি হয়েছেন। কিন্তু এই শিল্পীরা ব্যর্থতাগুলিকে সিঁড়িতে পরিণত করেছেন এবং আবেগ এবং কঠোর পরিশ্রমের মাধ্যমে সঙ্গীত জগতে বিজয়ীদের চেয়েও বড় নাম তৈরি করেছেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Arijit-Singh-in-Indian-Idol-2026-01-e5cdbf62c5f03f30debdcb3039c7b947-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/arijit-singh-and-many-other-singers-who-faced-rejection-on-reality-shows-but-dominated-the-music-industry-rc-2516798.html",
+    "time": "2026-01-28T14:51:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "কাকা শরদের সঙ্গে মিটিয়েছিলেন দূরত্ব! কে এই সুনেত্রা পওয়ার? অজিত পাওয়ারের উত্তরাধিকারী কি তিনিই?",
+    "desc": "শরদ পওয়ারের ভাইপো হিসেবে রাজনীতির হাতেখড়ি হলেও অজিত পওয়ার নিজের স্বতন্ত্র পরিচয় তৈরি করেছিলেন। তাঁর স্ত্রী সুনেত্রা পওয়ার বর্তমানে রাজ্যসভার সাংসদ। সাম্প্রতিক অতীতে শরদ পওয়ারের সঙ্গে অজিত পওয়ারের দূরত্ব বাড়লে সেই দূরত্ব কমানোর কারিগর সুনেত্রা, এমনটাই বিশিষ্ট মহলের দাবি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/ajit-pawar-death-family-tree-wife-sunetra-pawar-sons_638013.html ",
+    "time": "2026-01-28T14:07:31.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "মারণ তুষারঝড়ে ৪ দিন ছোট্ট প্রভুর মৃতদেহের পাশেই থাকল পোষ্য কুকুর! মৃত্যুর চোখে চোখ রেখে কেন?",
     "desc": "পোষ্যের সঙ্গে তার প্রভুর সম্পর্কের রসায়নের নানারকম আশ্চর্য ঘটনা আমরা যুগ যুগ ধরেই শুনে আসছি। এবার সামনে এল সেরকমই এক ছবি। পোষ্য বসে বসে পাহারা দিল তার প্রভুর মরদেহ (Pet dog guards bodies of owner)। টানা চার দিন। আশ্চর্য ঘটনা। কোথায় ঘটল? কেন?",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/dev-subhashree-on-past-relationship-and-partners-raj-rukmini_636243.html ",
     "time": "2026-01-19T14:24:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "টেডি বিয়ার, সাবান...! বসিরহাটের মহিলারা অবসর সময়ে তৈরি করছেন কতকিছু, বিক্রি হচ্ছে মেলা-অনলাইনে, লাভ হচ্ছে অঢেল",
-    "desc": "শাড়ি, ব্যাগ, টেডি বিয়ার, গলার হার, সাবান থেকে শুরু করে নানা রঙের ঘর সাজানোর সামগ্রী—সবকিছুতেই ফুটে উঠছে তাদের নিপুণ হাতের ছোঁয়া। বাড়ির মেয়ে ও বধূরা একত্রে কাজ করে সারা বছর এই সব উপকরণ তৈরি করছেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/fair-2026-01-07ffc28b626e29884ec7f27ca92127d6-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/north-24-parganas-money-making-tips-basirhat-women-making-handicraft-products-they-earning-huge-l18-local18-2504031.html",
-    "time": "2026-01-19T12:41:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "টানা ৪ দিন বন্ধ থাকতে পারে ব্যাঙ্ক! চলতি সপ্তাহ থেকেই...খুলবে সেই পরের সপ্তাহের মাঝামাঝি",
-    "desc": "কাজের সময়, বেতন কাঠামো পরিষ্কার না হলে এই দাবি পূরণ করা সহজ হবে না। যদিও গ্রাহকরা সাময়িক অসুবিধার সম্মুখীন হতে পারেন, ইউনিয়নগুলি যুক্তি দিচ্ছে যে চাকরিজীবন ও পরিবারের মধ্যে ভারসাম্য এবং দীর্ঘমেয়াদী দক্ষতার জন্য এই পদক্ষেপ অপরিহার্য।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-2026-01-19T171512.807-2026-01-94c007e1341b4b353be9de51595e9456-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/banks-may-shut-for-4-days-as-employees-call-for-strike-demanding-five-day-week-sbhp-transpg-sta-2504086.html",
-    "time": "2026-01-19T11:49:39.000Z"
   }
 ];

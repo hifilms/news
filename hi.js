@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Suryakumar Yadav makes gains in ICC rankings after returning to form, Hardik, Dube also rise",
+    "desc": "India T20 captain Suryakumar Yadav made strong strides in the ICC rankings as per the latest update on Wednesday, January 28. Following his strong half-centuries in the ongoing T20I series against New Zealand, SKY gained...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-makes-gains-in-icc-rankings-after-returning-to-form-hardik-dube-also-rise-2026-01-28-1027888",
+    "time": "2026-01-28T15:17:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When will star all-rounder return to India's Playing XI? Suryakumar Yadav opens up",
+    "desc": "Axar Patel missed out again as India take on New Zealand in the fourth T20I of the five-match series at the ACA-VDCA Cricket Stadium, Visakhapatnam. Red-hot India have already sealed the series as they have...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/axar-patel-update-when-will-star-all-rounder-return-to-indias-playing-xi-suryakumar-yadav-opens-up-2026-01-28-1027878",
+    "time": "2026-01-28T14:26:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Varun Chakravarthy not playing 4th T20I vs New Zealand in Visakhapatnam?",
+    "desc": "India have once again left Varun Chakravarthy out of the playing XI for the fourth T20I against New Zealand at Visakhapatnam’s ACA-VDCA Stadium. The spinner took three wickets across the first two T20Is, but since...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-varun-chakravarthy-not-playing-4th-t20i-vs-new-zealand-in-visakhapatnam-2026-01-28-1027873",
+    "time": "2026-01-28T13:36:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajasthan Royals up for sale? 4 groups line up to buy IPL franchise after RR valued over billion",
+    "desc": "The Rajasthan Royals have moved a step closer to a potential ownership change, with the franchise’s current owners shortlisting four bidding groups to advance in the next phase of the sale process. As per reports,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-up-for-sale-4-groups-line-up-to-buy-ipl-franchise-after-rr-valued-over-billion-2026-01-28-1027867",
+    "time": "2026-01-28T13:18:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Ishan Kishan not playing 4th T20I against New Zealand in Visakhapatnam?",
+    "desc": "Arshdeep Singh replaced Ishan Kishan in India’s playing XI for the fourth T20I against New Zealand at the ACA-VDCA Cricket Stadium in Visakhapatnam. Explaining the reason, captain Suryakumar Yadav mentioned that the keeper-batter picked up...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-ishan-kishan-not-playing-4th-t20i-against-new-zealand-in-visakhapatnam-2026-01-28-1027864",
+    "time": "2026-01-28T13:11:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India look to chase 216 in Vizag for a 4-0 lead",
+    "desc": "India opted to bowl first against New Zealand in the fourth T20I at the ACA-VDCA Cricket Stadium, Visakhapatnam. The Men in Blue are missing Ishan Kishan from their team for the fourth clash due to a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-4th-t20i-live-cricket-score-india-vs-new-zealand-aca-vdca-cricket-stadium-visakhapatnam-latest-match-updates-scorecard-teams-playing-xis-2026-01-28-1027862",
+    "time": "2026-01-28T12:47:38.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sarfaraz Khan reflects on India snub, says 'can't do anything'; speaks on CSK call",
     "desc": "Sarfaraz Khan is choosing perspective over frustration as he continues his domestic grind, even with national selection seemingly out of reach for the moment. Despite a prolific run in first-class cricket over the past year,...",
     "img": "",
@@ -34,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-marches-into-australian-open-2026-semifinals-sets-up-clash-with-novak-djokovic-2026-01-28-1027840",
     "time": "2026-01-28T11:03:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at ACA-VDCA Cricket Stadium in Visakhapatnam play?",
-    "desc": "India have been a force to reckon with in the shortest format of the game. They have caused havoc in the ongoing five-match T20I series against New Zealand and the goal will be to keep...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-4th-t20i-pitch-report-how-will-surface-at-aca-vdca-cricket-stadium-in-visakhapatnam-play-2026-01-28-1027832",
-    "time": "2026-01-28T10:31:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia set to announce new all-format captain after Alyssa Healy's retirement announcement",
-    "desc": "Australia are all set to announce their new all-format captain after the retirement announcement of Alyssa Healy. As per a report in 7Cricket, Sophie Molineux is set to be named the all-format captain. Earlier this month,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-set-to-announce-new-all-format-captain-after-alyssa-healy-retirement-announcement-2026-01-28-1027830",
-    "time": "2026-01-28T10:21:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Novak Djokovic gets walkover in Australian Open quarterfinal after losing 2 sets, breaks Federer's record",
-    "desc": "Serbian superstar Novak Djokovic today survived a major scare against Italy's Lorenzo Musetti, who pulled out of the Australian Open quarterfinal due to a groin injury. Musetti had won the first two sets in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-gets-walkover-in-australian-open-quarterfinal-after-losing-2-sets-breaks-federer-s-record-2026-01-28-1027800",
-    "time": "2026-01-28T07:15:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh accuses ICC of unfair scheduling after getting knocked out of U19 World Cup 2026",
-    "desc": "Bangladesh continue to be at loggerheads with the International Cricket Council. They pulled out of the T20 World Cup after the ICC rejected their request to move their matches out of India. Now, Bangladesh have...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-accuses-icc-of-unfair-scheduling-after-getting-knocked-out-of-u19-world-cup-2026-2026-01-28-1027795",
-    "time": "2026-01-28T06:52:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Should Ishan Kishan open with Abhishek Sharma today in 4th T20I?",
-    "desc": "India and New Zealand will face each other today in the fourth T20I in Visakhapatnam. With the series already sealed, it is time for India to fine-tune their combination ahead of the T20 World Cup....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-should-ishan-kishan-open-with-abhishek-sharma-today-in-4th-t20i-2026-01-28-1027750",
-    "time": "2026-01-28T03:20:39.000Z"
   }
 ];
