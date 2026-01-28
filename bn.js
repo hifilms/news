@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "মা ছিলেন তাঁর শিক্ষা গুরু, প্রথম বিয়ে টেকেনি অরিজিতের, দ্বিতীয় স্ত্রী-সন্তানদের নিয়ে সুখের সংসার গায়কের, দেখুন পারিবারিক ছবি",
+    "desc": "সোশ্যাল মিডিয়ায় ব্যক্তিগত ছবি খুব কম পোস্ট করেন অরিজিৎ সিং৷ কাজের জগতে ব্যস্ত এই গায়কের জীবনে মা ছিলেন সব থেকে গুরুত্বপূর্ণ ব্যক্তি৷ করোনাকালে মাকে হারান তিনি৷ স্ত্রী-সন্তানদের পাশাপাশি পরিবারে রয়েছেন আরও আপনজন৷ দেখুন অরিজিতের পারিবারিক ফোটো অ্যালবাম৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Web-2026-01-28T114905.470-2026-01-0bd4bd358a8eaff0638fe3738999e0d9-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/arijit-singh-quits-playback-singing-arijit-singh-love-life-he-married-twice-keeps-his-family-life-very-secret-family-photo-pbd-2515668.html",
+    "time": "2026-01-28T06:19:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "\"আমি প্লেব্যাক ছাড়ছি কারণ\"....এবার স্পষ্ট হল কেন করিয়ারের শীর্ষে এমন সিদ্ধান্ত নিলেন অরিজিৎ সিং",
+    "desc": "আপাতত তাঁর হাতে বেশ কয়েকটি প্লেব্যাকের কাজ রয়েছে৷ সেগুলো সব শেষ করবেন তিনি, জানিয়েছেন অরিজিৎ৷ এগুলো শেষ হলে আর তাঁকে প্লেব্যাকে পাওয়া যাবে না৷ এটা স্পষ্ট৷ ফলে বলিউডে যে তাঁর সুরেলা কন্ঠ শোনা যাবে না, তা তো একপ্রকার পরিষ্কার হয়ে গেছে৷ অরিজিৎ-এর এই ঘোষণার পরেই প্রতিক্রিয়ার ঝড় উঠেছে৷ তাহলে তিনিও কী বলিউডের রাজনীতির শিকার?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Web-2026-01-28T103945.740-2026-01-77f4788594d9ef49314d11e364c142ac-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/arijit-singh-quits-playback-singing-he-says-there-is-not-a-single-reason-know-why-he-has-taken-is-step-at-peak-of-his-career-pbd-2515514.html",
+    "time": "2026-01-28T05:50:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "অরিজিৎ সিং আর ফিল্মে গাইবেন না মেনে নিতে পারছেন না রাজ চক্রবর্তী",
     "desc": "বলিউডের সবচেয়ে জনপ্রিয় কণ্ঠ অরিজিত সিং যেন এক হতাশার গান। একটি ভাঙা হৃদয় বা রাতের একান্ত মুহূর্তে আপনার স্মৃতিতে ঢুকে পড়তে তাঁর কণ্ঠই যেন স্বতঃস্ফূর্তভাবে বাজে। বেশ সাধারন এক মুর্শিদাবাদি ছেলে থেকে দেশের অন্যতম প্রিয় গায়ক হওয়া পর্যন্ত তাঁর যাত্রা অনন্য। তবু গত দুই দশকে কোটি কোটি মানুষের কষ্ট, ভালোবাসা ও অপেক্ষার সুর হয়ে উঠলেও, সম্প্রতি নিজেই থেমে দাঁড়ানোর সিদ্ধান্ত নিলেন তিনি।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/01/arrr-2026-01-b0f50e79a3e6a578ad1967a890f06200.jpg",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/business/success-story-west-bengal-woman-showing-ways-of-success-by-mashroom-farming-know-how-to-turn-your-money-in-a-home-business-l18-sanj-2502909.html",
     "time": "2026-01-18T14:34:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dev's Actress: দেবের সহ-অভিনেত্রী মধ্যমগ্রামের এই খুদে সুন্দরী এখন জেলার গর্ব, জুনিয়র মিস ইন্ডিয়ায় সফল",
-    "desc": "উত্তর ২৪ পরগনা, রুদ্র নারায়ণ রায়: দেবের এই সহ খুদে অভিনেত্রী মধ্যমগ্রাম থেকেই জাতীয় মঞ্চে পেল সাফল্য! অল্প বয়সেই এল বড় সাফল্য। মধ্যমগ্রাম দেবীগড় এলাকার বাসিন্দা, সেন্ট জুডস হাই স্কুলের ক্লাস ওয়ানের ছাত্রী মাত্র ৭ বছরের সুহানি নন্দী এবার নজর কাড়ল সর্বভারতীয় মঞ্চে",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/HYP_5710993_cropped_18012026_135239_img20260118wa0016_watermar_2-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/devs-co-actor-suhani-from-madhyamgram-became-the-runner-up-in-junior-miss-india-sal-l18-local18-2502527.html",
-    "time": "2026-01-18T13:01:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ইনস্টাগ্রাম রিল সেভ করতে গিয়ে বিপদে পড়ছেন? জানুন সঠিক পদ্ধতি",
-    "desc": "ইনস্টাগ্রামে যখন স্ক্রল করেন, তখন যদি কোনও রিল (Reel) আপনার খুব ভাল লাগে, বেশির ভাগকে এটি ফোনে সরাসরি ডাউনলোড করার অপশন দেখতে চান। কিন্তু ইনস্টাগ্রাম সাধারণত অন্য কারও রিল সরাসরি ডাউনলোড করার অনুমতি দেয় না।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Untitled-design-2026-01-18T174054.065-2026-01-672c299993a8595a9f9d47d3cb1a5ec8-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/technology/tech-news-instagram-reels-legally-download-save-tips-bengali-news-sal-2502794.html",
-    "time": "2026-01-18T12:40:15.000Z"
   }
 ];
