@@ -1,6 +1,96 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "'Send Help' producer Zainab Azizi: 'Want film with Preeti Zinta'",
+    "desc": "Producer Zainab Azizi reveals the 'delicious twist' behind casting Rachel McAdams in Sam Raimi's dark survival story, 'Send Help.' Azizi also shares her admiration for Bollywood icons like Shah Rukh Khan and her aspiration to produce a Hollywood-Bollywood crossover with close friend Preity Zinta, aiming to bring Desi flair to global cinema.",
+    "img": "https://static.toiimg.com/photo/msid-127666035,imgsize-29876.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/send-help-producer-zainab-azizi-im-a-huge-shah-rukh-khan-salman-khan-and-aishwarya-rai-fan-want-to-produce-film-with-preeti-zinta/articleshow/127664690.cms",
+    "time": "2026-01-28T01:06:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Chatha Pacha' BO day 6: Film earns Rs 62 lakhs",
+    "desc": "The Ring of Rowdies' has garnered approximately Rs 12.62 crore in its initial six days, showing a strong opening despite a typical weekday dip. Mammootty's impactful cameo as Walter, a childhood hero returning with an older Kochi slang, is a significant highlight, adding surprise and depth to the narrative.",
+    "img": "https://static.toiimg.com/photo/msid-127665647,imgsize-53286.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/chatha-pacha-box-office-collections-day-6-mammootty-cameo-draws-attention-film-earns-rs-62-lakhs/articleshow/127665647.cms",
+    "time": "2026-01-28T00:59:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Parasakthi' BO day 18: SK film sees no recovery",
+    "desc": "Sivakarthikeyan's latest film, 'Parasakthi,' is experiencing a significant box office slowdown, collecting a mere Rs 3 lakhs on its 18th day. Despite a worldwide gross of Rs 84.53 crore, the film's theatrical run is nearing its end with declining collections. The movie features a strong cast including Atharvaa and is directed by Sudha Kongara.",
+    "img": "https://static.toiimg.com/photo/msid-127664876,imgsize-38138.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-box-office-collections-day-18-sivakarthikeyan-film-sees-no-recovery-earns-only-rs-3-lakhs/articleshow/127664876.cms",
+    "time": "2026-01-28T00:39:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Daredevil: Born Again 2’ teaser is all things gritty and engaging",
+    "desc": "A new teaser for Daredevil Born Again Season 2 has arrived. It shows intense street fights and moral dilemmas in Hell's Kitchen. Wilson Fisk is now Mayor and hunts Daredevil. Matt Murdock fights back from the shadows. The season features survival and takedowns. Key cast members return. The show launches March 24 on Disney+. It promises an all-out war.",
+    "img": "https://static.toiimg.com/photo/msid-127664948,imgsize-1125434.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/daredevil-born-again-season-2-teaser-of-the-charlie-cox-signals-at-high-stakes-street-level-escalation/articleshow/127664943.cms",
+    "time": "2026-01-28T00:38:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Raja Saab' BO day 19: Prabhas film drops again",
+    "desc": "Prabhas's 'The Raja Saab' is experiencing a significant box office slowdown, with day 19 collections dipping to just Rs 34 lakhs in India. Despite a Rs 206.36 crore worldwide gross, the film's performance, especially in Hindi and Malayalam, falls short of expectations. The horror-comedy's narrative struggles to balance its visual spectacle with engaging storytelling, leading to a lukewarm reception.",
+    "img": "https://static.toiimg.com/photo/msid-127664129,imgsize-28734.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-box-office-collections-day-19-prabhas-film-drops-again-collects-just-rs-34-lakhs/articleshow/127664129.cms",
+    "time": "2026-01-28T00:21:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Border 2' sees HUGE drop; earns Rs 19.5cr on Day 5",
+    "desc": "'Border 2' experienced a significant box office dip on its first Tuesday, collecting approximately Rs 19.5 crore after a massive Republic Day haul. Despite a strong opening and an impressive Rs 59 crore on Monday, the film's occupancy dropped considerably. However, with a current net collection of Rs 196.50 crore and a worldwide total of Rs 270.",
+    "img": "https://static.toiimg.com/photo/msid-127664046,imgsize-15398.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collections-day-5-sunny-deol-starrer-sees-huge-drop-in-numbers-on-tuesday-earns-just-rs-19-5-crore/articleshow/127663841.cms",
+    "time": "2026-01-28T00:18:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Never been stronger’: Ursula von der Leyen hails Europe–India ties at presidential banquet",
+    "desc": "European Commission President Ursula von der Leyen declared Europe-India political ties are stronger than ever, highlighted by a new Free Trade Agreement and Security and Defence Partnership. This collaboration signals a commitment to dialogue and cooperation amidst global uncertainty, aiming to bolster economic growth and strategic stability for both regions. The agreements mark a significant advancement in bilateral relations.",
+    "img": "https://static.toiimg.com/photo/msid-127663487,imgsize-128022.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/never-been-stronger-ursula-von-der-leyen-hails-europeindia-ties-at-presidential-banquet/articleshow/127663346.cms",
+    "time": "2026-01-28T00:09:15.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump says will 'de-escalate' in Minneapolis after shooting backlash",
+    "desc": "Trump said Bovino was \"very good, but he's a pretty out there kind of a guy\", while saying of his shake-up in Minneapolis, \"I don't think it's a pullback, it's a little bit of a change.\"",
+    "img": "https://th-i.thgim.com/public/incoming/jijtjd/article70559165.ece/alternates/LANDSCAPE_1200/Trump_66739.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-says-will-de-escalate-a-little-bit-in-minneapolis/article70558495.ece",
+    "time": "2026-01-27T23:44:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shilpa’s AmmaKai draws massive queues over free breakfast",
+    "desc": "Shilpa Shetty’s newly launched restaurant AmmaKai grabbed eyeballs on January 26 after announcing a free breakfast to mark Republic Day. The first-come, first-served offer saw people lining up outside the Bandra outlet as early as 7 am, much before the restaurant opened. Videos of long queues quickly went viral, with several content creators capturing the crowd waiting patiently for a free meal.",
+    "img": "https://static.toiimg.com/photo/msid-127659854,imgsize-79894.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shilpa-shettys-restaurant-ammakai-draws-massive-queues-over-free-breakfast-sparks-freebie-culture-debate-online/articleshow/127659754.cms",
+    "time": "2026-01-27T22:43:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arijit cites multiple reasons for quitting playback singing",
+    "desc": "Popular Bollywood singer Arijit Singh, who wooed generations with his soulful voice in songs like Tum Hi Ho, Kesariya and Channa Mereya, left fans stunned after announcing that he will no longer take up new assignments as a playback vocalist. While calling time on one chapter of his career, Arijit made it clear that he is not stepping away from music itself.",
+    "img": "https://static.toiimg.com/photo/msid-127654986,imgsize-23602.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arijit-singh-says-hes-not-done-with-music-cites-multiple-reasons-for-quitting-playback-singing-going-back-to-indian-classical-music/articleshow/127654901.cms",
+    "time": "2026-01-27T21:33:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Arun Govil reacts to Dipika Chikhlia’s remark on Ramayana",
     "desc": "Veteran actor Arun Govil is set to return to the world of Ramayana, this time in a new avatar. The actor will be seen essaying the role of King Dashrath in Nitesh Tiwari’s much-awaited epic, a casting choice that has sparked conversation among fans of the original TV classic.",
     "img": "https://static.toiimg.com/photo/msid-127652452,imgsize-55618.cms",
@@ -171,15 +261,6 @@ const newsData_en = [
     "time": "2026-01-27T16:29:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Arijit announces retirement; Internet reacts, 'End of an era'",
-    "desc": "Renowned playback singer Arijit Singh has declared he will no longer take on new playback assignments, leaving fans and industry peers in a state of disbelief. While the news has led to an outpouring of sorrow from many, others are excitedly speculating about the possibility of Singh delving into independent music.",
-    "img": "https://static.toiimg.com/photo/msid-127638107,imgsize-47250.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/arijit-singh-announces-retirement-as-playback-vocalist-internet-says-the-singer-be-like-achcha-chalta-hoon-duaon-me/articleshow/127638107.cms",
-    "time": "2026-01-27T16:29:03.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Not just 'mother of all deals': FTA with EU and 7 other trade pacts signed by India since 2021",
     "desc": "India has inked its eighth Free Trade Agreement since 2021 with the European Union, a landmark deal hailed as the 'mother of all deals'. This pact, finalized during the Republic Day celebrations, significantly expands market access for Indian exports across numerous sectors to 27 EU nations, promising enhanced trade and economic ties.",
@@ -252,24 +333,6 @@ const newsData_en = [
     "time": "2026-01-27T15:24:46.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'KPop Demon Hunters’ snubbed at BAFTAs 2026? Here’s why",
-    "desc": "In a surprising twist, the much-acclaimed Korean animated spectacle 'KPop Demon Hunters,' which wowed audiences and snagged nominations at the Golden Globes and Oscars, has been overlooked for the BAFTA 2026 awards. Its massive popularity on Netflix couldn't bridge the gap created by its direct-to-streaming debut in the UK, a path that curiously limited its eligibility.",
-    "img": "https://static.toiimg.com/photo/msid-127634555,imgsize-86680.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bafta-awards-2026-heres-why-kpop-demon-hunters-failed-to-secure-a-nomination/articleshow/127634555.cms",
-    "time": "2026-01-27T15:22:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Last Rites—India release info",
-    "desc": "Last Rites' makes its highly-anticipated debut on JioHotstar in India on February 13, 2026, bringing chilling multilingual dub options for viewers. Under the masterful direction of Michael Chaves, this film delves into the eerie Smurl Haunting and poignantly concludes the saga of the beloved Warrens.",
-    "img": "https://static.toiimg.com/photo/msid-127634298,imgsize-80796.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-conjuring-last-rites-official-in-india-when-and-where-to-watch-the-franchise/articleshow/127634298.cms",
-    "time": "2026-01-27T15:11:04.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India-EU FTA: Was Donald Trump a 'unifier' behind 'mother of all deals'",
     "desc": "India and the European Union have concluded negotiations for a landmark free trade agreement, described as the \"mother of all deals.\" Union commerce minister Piyush Goyal dismissed any US role in the pact, emphasising its independent nature. The agreement, expected to be implemented by 2026, aims to boost trade and investment between the two economic powerhouses.",
@@ -279,15 +342,6 @@ const newsData_en = [
     "time": "2026-01-27T14:56:21.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Paris Hilton opens up on late ADHD diagnosis",
-    "desc": "Paris Hilton courageously shared her late-in-life revelations of ADHD and Rejection Sensitive Dysphoria, discussing how these challenges heightened her emotional turmoil. However, she now sees them as her 'superpower,' fueling her business ventures and promoting a message of acceptance and understanding in the discourse on mental health.",
-    "img": "https://static.toiimg.com/photo/msid-127631383,imgsize-59834.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/like-a-demon-in-your-mind-paris-hilton-reveals-late-adhd-diagnosis-and-emotional-struggles/articleshow/127631383.cms",
-    "time": "2026-01-27T14:54:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Drunk driving': Former Indian cricketer rams into parked cars",
     "desc": "Former India cricketer Jacob Martin was arrested early Tuesday after his SUV crashed into three parked cars in Vadodara. Police allege Martin, 53, was driving under the influence of alcohol when he lost control of his vehicle. The incident, which caused significant damage, has led to a case being registered against the ex-batsman.",
@@ -295,24 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/drunk-driving-former-indian-cricketer-rams-into-parked-cars/articleshow/127632039.cms",
     "time": "2026-01-27T14:36:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Archana recalls doing C-grade, cheap films when Parmeet's career didn't take off",
-    "desc": "Archana Puran Singh and Parmeet Sethi revealed their marriage faced challenges due to contrasting career choices. Archana took on 'C-grade' films for financial stability, while Parmeet patiently waited for lead roles, fearing career missteps. Their differing career stages and Archana's adaptability were key to navigating this difficult period.",
-    "img": "https://static.toiimg.com/photo/msid-127631867,imgsize-23230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/archana-puran-singh-says-she-did-c-grade-cheap-films-to-support-parmeet-sethis-career-but-i-retained-by-dignity/articleshow/127631636.cms",
-    "time": "2026-01-27T14:25:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Farhan-backed Manipuri film 'Boong' gets nominated",
-    "desc": "The Manipuri film 'Boong' has made waves by securing a BAFTA nomination for Best Children's and Family Film, a remarkable milestone for Indian cinema. Under the banner of Farhan Akhtar’s Excel Entertainment, this coming-of-age tale, directed by Lakshmipriya Devi, narrates the touching journey of a young boy striving to reunite with his father.",
-    "img": "https://static.toiimg.com/photo/msid-127628735,imgsize-58426.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bafta-awards-2026-farhan-akhtar-backed-manipuri-film-boong-gets-nominated-in-best-childrens-and-family-film-category/articleshow/127628735.cms",
-    "time": "2026-01-27T14:06:53.000Z"
   },
   {
     "cat": "Sports",
@@ -331,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/elina-svitolina-scorches-coco-gauff-in-melbourne-heat-sets-up-aryna-sabalenka-semi-final-clash/articleshow/127629778.cms",
     "time": "2026-01-27T13:52:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Top 5 South newsmakers of the day",
-    "desc": "South cinema buzzed with activity as Vijay's 'Jana Nayagan' faced censor hurdles, Samantha Ruth Prabhu experienced a 'Rashtrapati moment' at a presidential reception, and Nayanthara honored Mammootty's Padma Bhushan. The trailer for silent film 'Gandhi Talks' impressed, while filmmaker Atlee hailed Deepika Padukone as his 'lucky charm'.",
-    "img": "https://static.toiimg.com/photo/msid-127635701,imgsize-80456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-censor-drama-samantha-ruth-prabhus-rashtrapati-moment-nayantharas-tribute-to-mammootty-top-5-south-newsmakers-of-the-day/articleshow/127629460.cms",
-    "time": "2026-01-27T13:50:07.000Z"
   },
   {
     "cat": "Sports",
@@ -423,24 +450,6 @@ const newsData_en = [
     "time": "2026-01-27T12:12:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Can Vijay's TVK convert fan frenzy into votes?",
-    "desc": "Actor Vijay's foray into Tamil Nadu politics with his party TVK mirrors past celebrity transitions, but his decision to quit films entirely sets him apart. While his fan base is large and organized, the success of TVK hinges on converting this popularity into votes, a challenge that has tripped up other stars.",
-    "img": "https://static.toiimg.com/photo/msid-127623112,imgsize-855573.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-assembly-election-can-vijays-tvk-convert-fan-frenzy-into-votestamil-nadu-assembly-election-can-vijays-tvk-convert-fan-frenzy-into-votes/articleshow/127623112.cms",
-    "time": "2026-01-27T12:11:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'Turmoil in global environment': PM Modi's 'double engine' pitch after India-EU 'historic' FTA",
-    "desc": "Prime Minister Narendra Modi announced a historic free trade agreement between India and the European Union, emphasizing a \"double engine\" growth approach amid global turmoil. This \"biggest free trade agreement\" aims to provide stability and common prosperity, unlocking new opportunities for India's labor-intensive products and service sectors.",
-    "img": "https://static.toiimg.com/photo/msid-127622022,imgsize-860604.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/turmoil-in-global-environment-pm-modis-double-engine-pitch-after-india-eu-historic-fta/articleshow/127619774.cms",
-    "time": "2026-01-27T11:48:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'It's been chaos': NZ bowling coach on facing Abhishek, Surya, Ishan",
     "desc": "New Zealand's bowlers are struggling against India's aggressive top order, with Abhishek Sharma, Ishan Kishan, and Suryakumar Yadav scoring at a high strike rate. Bowling coach Jacob Oram urged his players to embrace the challenge and learn to counter the Indian batters, comparing their hitting to Sanath Jayasuriya's style.",
@@ -450,15 +459,6 @@ const newsData_en = [
     "time": "2026-01-27T11:20:02.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India-EU FTA: Which liquor brands could get cheaper with the ‘mother of all deals’",
-    "desc": "India and the European Union have finalized a \"historic\" free trade agreement, significantly reducing import duties on European wines, whiskies, and beers. This pact, concluded after 18 years of negotiations, aims to lower retail prices for premium brands and boost trade between the two economic blocs. The deal also grants India preferential access for its labor-intensive exports.",
-    "img": "https://static.toiimg.com/photo/msid-127619726,imgsize-1503348.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-eu-fta-which-liquor-brands-could-get-cheaper-with-the-mother-of-all-deals/articleshow/127619151.cms",
-    "time": "2026-01-27T11:14:55.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "The day Djokovic broke Federer–Nadal duopoly — and began rewriting tennis history",
     "desc": "Eighteen years ago, a 20-year-old Novak Djokovic achieved his first Grand Slam title at the Australian Open, ending the Federer-Nadal dominance. This victory marked the start of his record-breaking career, now spanning almost two decades and 24 major titles. Still competing at 38, Djokovic continues to chase further historical achievements.",
@@ -466,33 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/the-day-novak-djokovic-broke-the-federernadal-duopoly-and-began-rewriting-tennis-history/articleshow/127618381.cms",
     "time": "2026-01-27T11:11:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How plans and demands make it to FM Sitharaman's Bahikhata?",
-    "desc": "Union Finance Minister Nirmala Sitharaman is preparing to present the Budget 2026, a comprehensive financial blueprint for the nation. This intricate process, spanning months, involves extensive consultations with ministries, states, and diverse stakeholders. The budget outlines economic performance and future aspirations, guiding the country's fiscal path.",
-    "img": "https://static.toiimg.com/photo/msid-127618414,imgsize-2864721.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/making-of-budget-2026-how-plans-and-demands-make-it-to-fm-sitharamans-bahikhata/articleshow/127611419.cms",
-    "time": "2026-01-27T10:56:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Pension changes, insurance reforms, tax relief &amp; more",
-    "desc": "Ahead of the Union Budget 2026, the State Bank of India has proposed tax reforms to boost household savings and ease compliance. Recommendations include aligning bank deposit interest tax with capital gains, reducing fixed deposit lock-in periods, and removing or raising TDS thresholds.",
-    "img": "https://static.toiimg.com/photo/msid-127618120,imgsize-57558.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-banking-expectations-pension-changes-insurance-reforms-tax-relief-more/articleshow/127616202.cms",
-    "time": "2026-01-27T10:51:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India-EU trade deal sealed: Why won't FTA be signed today? Check how long will it take to make agreement official",
-    "desc": "India and the European Union have concluded talks for a free trade agreement. This landmark deal promises expanded market access for Indian exports and lower tariffs for EU goods. The agreement will now undergo legal review and ratification. Formal signing is anticipated later this year, with implementation likely in early 2027.",
-    "img": "https://static.toiimg.com/photo/msid-127617846,imgsize-1144327.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-eu-trade-deal-sealed-why-wont-fta-be-signed-today-check-how-long-will-it-take-to-make-agreement-official/articleshow/127608606.cms",
-    "time": "2026-01-27T10:48:04.000Z"
   },
   {
     "cat": "Sports",
@@ -513,15 +486,6 @@ const newsData_en = [
     "time": "2026-01-27T10:14:23.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Adani Group enters MoU with Brazil's Embraer to set up regional aircraft manufacturing facility",
-    "desc": "Adani Group and Embraer have partnered to explore setting up a regional aircraft manufacturing facility in India, boosting the nation's indigenous manufacturing push in civil aviation. This collaboration aims to establish a Final Assembly Line for Embraer's regional jets, addressing growing demand for connectivity to smaller cities and positioning India as a hub for regional aircraft production.",
-    "img": "https://static.toiimg.com/photo/msid-127608225,imgsize-521987.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/aviation-push-adani-group-enters-mou-with-brazils-embraer-to-set-up-regional-aircraft-manufacturing-facility/articleshow/127607958.cms",
-    "time": "2026-01-27T09:44:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Can't accommodate ... ': ICC on 80–90 Bangladeshi applications",
     "desc": "The ICC is revising its media accreditation for Bangladeshi journalists after the team's withdrawal from the T20 World Cup due to security concerns. Several journalists reported rejections, prompting the ICC to rework the process. The Bangladesh Cricket Board is seeking clarification from the ICC on the accreditation changes.",
@@ -540,15 +504,6 @@ const newsData_en = [
     "time": "2026-01-27T08:37:13.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India, EU seal ‘mother of all FTAs’: 96% trade to go tariff-free; small cars and dairy stay protected",
-    "desc": "India and the European Union finalized a comprehensive Free Trade Agreement, set to eliminate tariffs on 96% of exports over time. This deal grants zero-duty access for Indian textiles, marine products, and leather goods to the EU, while strategically phasing market opening for European cars and wine.",
-    "img": "https://static.toiimg.com/photo/msid-127609493,imgsize-1458662.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-eu-seal-mother-of-all-ftas-96-trade-to-go-tariff-free-small-cars-and-dairy-stay-protected/articleshow/127609363.cms",
-    "time": "2026-01-27T08:34:34.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Border 2' box office collection day 5",
     "desc": "Border 2 has achieved exceptional box office success over its opening weekend, driven by strong performances on Saturday, Sunday, and Republic Day. The film garnered a massive Rs 59 crore on Monday, with mass belts and Tier-2/Tier-3 centers showing extraordinary results, leading to a total collection of Rs 179.23 crore in just five days.",
@@ -556,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-5-live-the-sunny-deol-varun-dhawan-starrer-may-see-drop-on-tuesday-after-a-massive-republic-day-inches-towards-rs-180-crore/articleshow/127608394.cms",
     "time": "2026-01-27T08:26:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Just quit ...’: Rahul opens up on injuries, mental battles &amp; cricket's next chapter",
-    "desc": "KL Rahul acknowledges his career hasn't fully met expectations but has found stability as India's reliable No. 5 ODI batter. He discussed retirement pragmatically, highlighting the mental toll of injuries as the toughest challenge. Rahul emphasised a balanced perspective, especially after becoming a father, seeing life beyond cricket. He's now set for domestic duty with Karnataka.",
-    "img": "https://static.toiimg.com/photo/msid-127607966,imgsize-61912.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/just-quit-when-the-time-comes-kl-rahul-opens-up-on-injuries-mental-battles-and-crickets-next-chapter/articleshow/127607884.cms",
-    "time": "2026-01-27T08:08:59.000Z"
   },
   {
     "cat": "World",
@@ -700,15 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/france-detains-indian-captain-of-suspected-shadow-fleet-tanker/article70550560.ece",
     "time": "2026-01-25T16:12:04.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Pakistan, Bangladesh Foreign Ministers commit to build closer ties",
-    "desc": "“The two leaders also exchanged views on the current regional and international developments and underscored the importance of sustained engagement to advance shared interests and promote regional peace and prosperity,” says statement by the Foreign Office",
-    "img": "https://th-i.thgim.com/public/incoming/5euqe6/article70549095.ece/alternates/LANDSCAPE_1200/iStock-1143362099.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/pakistan-bangladesh-foreign-ministers-commit-to-build-closer-ties/article70549074.ece",
-    "time": "2026-01-25T07:22:01.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +835,68 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/calum-scott-on-his-new-album-avenoir-his-concerts-in-india-and-more/article70537272.ece",
     "time": "2026-01-23T08:28:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Davos meeting concludes after Trump steals limelight, amidst caution against geopolitical conflict, AI risks",
+    "desc": "Canadian PM Mark Carney said middle powers like Canada, who had prospered through the era of an “American hegemon” needed to realise that a new reality had set in and that “compliance” would not shelter them from major power aggression",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/world-economic-forum-2026-davos-live-updates-january-23/article70540869.ece",
+    "time": "2026-01-23T03:49:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dave Farrell on getting the band back together and finally coming to India",
+    "desc": "Ahead of Linkin Park’s their long-awaited first concerts in India this weekend, veteran bassist Dave ‘Phoenix’ Farrell reflects on the band’s second life, emerging from the ashes, recruiting new faces and the long road back on tour",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/2jw618/article70537349.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/music/linkin-park-interview-dave-farrell-on-getting-the-band-back-together-and-finally-coming-to-india/article70537116.ece",
+    "time": "2026-01-22T11:35:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sobhita Dhulipala interview",
+    "desc": "Sobhita Dhulipala and producer Suresh Babu Daggubati discuss their new Telugu crime thriller, Cheekatilo, and what it takes for an film to stand out in the digital space. Cheekatilo streams on Prime Video from January 23.",
+    "img": "https://th-i.thgim.com/public/incoming/2fdfgd/article70536936.ece/alternates/LANDSCAPE_1200/sobhita%20dhulipala.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-sobhita-dhulipala-interview-cheekatilo-suresh-babu-daggubati/article70536933.ece",
+    "time": "2026-01-22T07:30:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chennai’s AlterNation Jazz Festival set to celebrate artists from the city on January 31",
+    "desc": "The first edition of AlterNation’s jazz festival is all set to make your head bob with artists from the city taking the stage with acts including Jatayu, Many Things, Suman Sridhar and The Black Mamba, and the Tuesday Jazzers",
+    "img": "https://th-i.thgim.com/public/life-and-style/bxglic/article70536757.ece/alternates/LANDSCAPE_1200/Copy%20of%20JATAYU%20-4360.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/music/chennais-alternation-jazz-festival-set-to-celebrate-artists-from-the-city-on-january-31/article70529344.ece",
+    "time": "2026-01-22T06:35:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bhajan clubbing hits Chennai",
+    "desc": "Introducing a night club-like atmosphere, minus the alcohol, bhajan clubbing is catching on in many Indian cities, including in Delhi, Kolkata and Bengaluru, as well as the US. Participants skew towards Gen-Z, who enjoy the sense of community it brings. Members of the Good Deeds Club in Chennai recently conducted a ‘bhajan clubbing’ event, with singers Sai Vignesh and Saindhavi entertaining the crowd with spiritual tracks.",
+    "img": "https://th-i.thgim.com/public/incoming/7sbgxk/article70533680.ece/alternates/LANDSCAPE_1200/BHAJAN%20CLUBBING.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-bhajan-clubbing-hits-chennai/article70533669.ece",
+    "time": "2026-01-21T13:13:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Singer Saindhavi on music, films and life",
+    "desc": "Carnatic music performances at Chennai’s sabhas during the Margazhi season, and performing at actor Vijay’s ‘Jana Nayagan’ musical event in Malaysia. In an interview with ‘The Hindu’ for the ‘This Changed My Life’ video podcast, this popular singer talks about adapting to the needs of modern audiences. She also talks about her relationship with popular music composer GV Prakash after their official divorce in 2025, and how they co-parent their young daughter, Anvi.",
+    "img": "https://th-i.thgim.com/public/incoming/178ex8/article70533109.ece/alternates/LANDSCAPE_1200/Saindhavi-2.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-singer-saindhavi-on-music-films-and-life/article70533102.ece",
+    "time": "2026-01-21T10:41:52.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Why SIR verification needs to be completely digitised",
+    "desc": "SIR 2.0, aimed at updating electoral rolls, has caused confusion and distress among voters. Despite the ECINet’s ability to handle data entry, verification, cross-checks, and audit trails, the process has relied heavily on paper-based forms, summons, and hearings",
+    "img": "https://th-i.thgim.com/public/incoming/2apqe1/article70526832.ece/alternates/LANDSCAPE_1200/PTI01_19_2026_000221A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/why-sir-verification-needs-to-be-completely-digitised/article70525723.ece",
+    "time": "2026-01-20T03:00:00.000Z"
   }
 ];
