@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "‘Players upgrade… I can’t be the same’: 'Smarter' Shivam Dube sends warning to bowlers",
+    "desc": "Shivam Dube showcased a significant T20 evolution with a blistering 65 off 23 balls against New Zealand. He attributed his enhanced performance to consistent opportunities, a sharper mindset, and increased comfort against pace. Dube emphasized his growth through experience, aiming to be a smarter player with each match, focusing on dominating rather than milestones.",
+    "img": "https://static.toiimg.com/photo/msid-127754746,imgsize-76854.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/players-upgrade-i-cant-be-the-same-as-i-was-smarter-shivam-dube-sends-warning-to-bowlers-ahead-of-t20-world-cup/articleshow/127754609.cms",
+    "time": "2026-01-29T04:22:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Where they stand now",
+    "desc": "Kim Kardashian has finally addressed her past friendship with Larsa Pippen, clarifying that while they've grown apart due to life changes and distance, there's no animosity. Speaking on her sister's podcast, Kim expressed love for Larsa and her children, noting their kids still attend school together.",
+    "img": "https://static.toiimg.com/photo/msid-127753684,imgsize-42852.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/where-kim-kardashian-and-larsa-pippen-stand-after-their-rumored-feud-all-you-need-to-know/articleshow/127753640.cms",
+    "time": "2026-01-29T03:54:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "‘Sour grapes?’ Piyush Goyal hits back at Congress for calling India-EU FTA deal 'hugely-hyped'",
+    "desc": "Commerce minister Piyush Goyal fiercely defended the India-EU free trade agreement, calling it a landmark win-win deal. He dismissed Congress leader Jairam Ramesh's criticisms as politically motivated and disconnected from economic realities, highlighting the pact's potential for growth and employment. Goyal emphasized proactive engagement on sensitive issues like CBAM and intellectual property.",
+    "img": "https://static.toiimg.com/photo/msid-127753317,imgsize-996531.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/sour-grapes-piyush-goyal-hits-back-at-congress-for-calling-india-eu-fta-deal-hugely-hyped/articleshow/127751532.cms",
+    "time": "2026-01-29T03:44:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘No footwork’: Gavaskar’s brutal takedown of Samson after another missed chance",
+    "desc": "Sanju Samson's batting woes persisted in the New Zealand T20Is, drawing sharp criticism from Sunil Gavaskar. The former captain highlighted Samson's lack of footwork against spin, a recurring technical issue. With scores of 10, 6, 0, and now 24, Samson faces mounting pressure to secure his spot ahead of the T20 World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-127753042,imgsize-220436.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/no-footwork-at-all-sunil-gavaskars-brutal-takedown-of-sanju-samson-after-another-missed-chance/articleshow/127752913.cms",
+    "time": "2026-01-29T03:36:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "A$AP Rocky's son once got him in trouble with Rihanna",
+    "desc": "Rapper A$AP Rocky shared a funny anecdote about his two-year-old son, Riot, who \"snitched\" on him to Rihanna for leaving without saying goodbye. He also revealed his older son, RZA, used to bully Riot. Rocky expressed gratitude for his three children, including their new baby daughter, Rocki, and emphasized keeping his relationship with Rihanna vibrant.",
+    "img": "https://static.toiimg.com/photo/msid-127752660,imgsize-938479.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/aap-rockys-two-year-old-son-once-snitched-him-to-rihanna-heres-what-happened/articleshow/127752660.cms",
+    "time": "2026-01-29T03:27:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ted Lasso' Season 4 set for summer return; Fans react",
+    "desc": "Ted Lasso is returning for a fourth season this summer, with new photos revealing Jason Sudeikis coaching a second-division women's team in Kansas. While fans are excited, many criticize the decision, deeming Season 3's ending perfect and calling the new season a 'cash grab.' Original cast members are back, joined by new faces.",
+    "img": "https://static.toiimg.com/photo/msid-127752537,imgsize-25266.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/ted-lasso-season-4-jason-sudeikis-starrer-announces-summer-2026-debut-unhappy-fans-say-show-wrapped-up-perfectly-in-season-3/articleshow/127750733.cms",
+    "time": "2026-01-29T03:22:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "After Ranveer's exit, Farhan focuses on 'Jee Le Zaraa'",
+    "desc": "Filmmaker Farhan Akhtar is prioritizing his dream project, 'Jee Le Zaraa,' starring Priyanka Chopra, Katrina Kaif, and Alia Bhatt, amidst the search for Ranveer Singh's replacement in 'Don 3.' While script finalization for 'Jee Le Zaraa' is complete, aligning the leading ladies' busy schedules poses a challenge, with a potential 2026 shoot contingent on date availability.",
+    "img": "https://static.toiimg.com/photo/msid-127752064,imgsize-53296.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-ranveer-singhs-exit-from-don-3-farhan-akhtar-focuses-on-jee-le-zaraa-starring-priyanka-chopra-katrina-kaif-and-alia-bhatt/articleshow/127751779.cms",
+    "time": "2026-01-29T03:10:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘I find it disrespectful’: Novak Djokovic fires back at journalist — Watch",
+    "desc": "Tennis legend Novak Djokovic, aiming for a record 25th Grand Slam, expressed frustration at being perceived as 'chasing' younger rivals. He emphasised his own historical dominance, stating he is creating his own legacy rather than being in pursuit. Despite an unconventional path to the semifinals, Djokovic remains a strong contender.",
+    "img": "https://static.toiimg.com/photo/msid-127751740,imgsize-159910.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/i-find-it-disrespectful-novak-djokovic-fires-back-at-journalist-chasing-jannik-and-carlos-in-which-sense-watch/articleshow/127751706.cms",
+    "time": "2026-01-29T03:03:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Can the ED file writ petitions before Courts?",
+    "desc": "What high-profile case is at the centre of the challenge against the Enforcement Directorate’s jurisdiction? What has been the Kerala government’s defence? Why is the outcome of this case significant for the balance of power between Central and State authorities in India?",
+    "img": "https://th-i.thgim.com/public/incoming/ynmlmb/article70562507.ece/alternates/LANDSCAPE_1200/80688_2_7_2022_20_1_21_1_03TVTRSATHEESHSAN_KKN1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/can-the-ed-file-writ-petitions-before-courts-explained/article70560835.ece",
+    "time": "2026-01-29T03:00:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-EU FTA: Will Turkish goods enter India under the newly signed trade deal?",
+    "desc": "Turkiye cannot leverage tariff concessions under the new India-EU free trade agreement for its exports to India. Officials clarified that the pact strictly applies to goods originating within the EU, meaning Turkish products, even if shipped via EU ports, do not qualify for preferential treatment.",
+    "img": "https://static.toiimg.com/photo/msid-127751670,imgsize-1458662.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-eu-fta-will-turkish-goods-enter-india-under-the-newly-signed-trade-deal/articleshow/127749117.cms",
+    "time": "2026-01-29T02:59:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Here's why Kim Kardashian removed Meghan and Harry's pic",
+    "desc": "Kim Kardashian took a moment to explain the absence of Meghan and Harry's photos from social media following Kris Jenner's big 70th celebration. Instead of dramatic speculation, the truth is rooted in respect for Remembrance Day.",
+    "img": "https://static.toiimg.com/photo/msid-127750741,imgsize-85676.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/kim-kardashian-breaks-silence-on-removing-meghan-markle-and-prince-harry-photos-from-kris-jenners-birthday-party/articleshow/127750695.cms",
+    "time": "2026-01-29T02:39:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Marc Anthony to welcome EIGHTH child",
+    "desc": "Exciting times are ahead for singer Marc Anthony as he embarks on another adventure in fatherhood, eagerly awaiting the arrival of his eighth child with wife Nadia Ferreira. Marking three wonderful years together, the couple joyfully announced their news on social media, revealing that their son Marco will soon take on the role of a big brother.",
+    "img": "https://static.toiimg.com/photo/msid-127750244,imgsize-30888.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/marc-anthony-to-welcome-eighth-child-singer-announces-26-year-old-wife-nadia-ferreiras-pregnancy-david-beckham-congratulates-couple/articleshow/127749307.cms",
+    "time": "2026-01-29T02:26:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jessica Mulroney and Meghan Markle are on 'positive terms'",
+    "desc": "Meghan Markle and Jessica Mulroney's friendship, believed to have ended in 2020, is reportedly on positive terms, according to Jessica's ex-husband, Ben Mulroney. He stated it's Jessica's story to tell but indicated a cordial relationship between the Duchess and the stylist. Their close bond was previously highlighted in the Netflix docuseries and at the royal wedding.",
+    "img": "https://static.toiimg.com/photo/msid-127749637,imgsize-2412896.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/jessica-mulroneys-ex-husband-reveals-friendship-status-with-meghan-markle-says-theyre-on-positive-terms/articleshow/127749637.cms",
+    "time": "2026-01-29T02:12:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock recommendations for January 29, 2026",
+    "desc": "According to Aakash K Hindocha, Deputy Vice President - WM Research, Nuvama Professional Clients Group, the top buy calls for today are: Coal India, Jindal Steel, and HCL Technologies. Here’s his view on Nifty, Bank Nifty, and the top stock picks for January 29, 2026:",
+    "img": "https://static.toiimg.com/photo/msid-127720576,imgsize-77164.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-january-29-2026-coal-india-jindal-steel-hcl-technologies-best-stocks-to-buy-today/articleshow/127720414.cms",
+    "time": "2026-01-29T02:00:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Angelina Jolie, Brad Pitt’s son Pax makes a rare appearance",
+    "desc": "Pax Jolie-Pitt, the son of Angelina Jolie and Brad Pitt, stole the spotlight with a rare sighting at the Sundance Film Festival, igniting chatter about his potential role in the world of cinema. The 22-year-old has dabbled in his mother's film endeavors and was spotted engaging with industry professionals.",
+    "img": "https://static.toiimg.com/photo/msid-127748932,imgsize-33204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/all-about-angelina-jolie-and-brad-pitts-son-pax-makes-a-rare-appearance-at-the-sundance-film-festival/articleshow/127748850.cms",
+    "time": "2026-01-29T01:52:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Marriage is more than just two people",
+    "desc": "Actress Archana Kavi found profound happiness in her marriage to Rick Varghese, not just gaining a husband but a loving family. She shared an emotional social media post detailing the acceptance and affection she receives from her in-laws, likening it to being a daughter.",
+    "img": "https://static.toiimg.com/photo/msid-127748848,imgsize-48716.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/this-is-every-girls-dream-archana-kavi-on-marriage-shares-emotional-note-about-in-laws/articleshow/127748848.cms",
+    "time": "2026-01-29T01:52:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Reports",
+    "desc": "Comedian Rob Schneider and his wife, TV producer Patricia, are parting ways after a fifteen-year journey together. Patricia took the step to file for divorce in Arizona, stating that the marriage is 'irretrievably broken.' As they navigate this challenging transition, the couple is reportedly working through custody details for their two daughters.",
+    "img": "https://static.toiimg.com/photo/msid-127748930,imgsize-52670.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rob-schneider-and-wife-patricia-file-for-divorce-after-15-years-of-marriage-reports/articleshow/127748045.cms",
+    "time": "2026-01-29T01:52:07.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'Velpari': Shankar's dream project budget tightened",
     "desc": "Director Shankar's ambitious 'Velpari' project has finally secured a producer after years of delays. Despite past budget overruns, a major production house is set to bankroll the three-part fantasy historical film, based on Su Venkatesan’s novel. Strict budget and schedule conditions have been imposed on Shankar, who is currently in pre-production for the epic tale of the legendary Tamil ruler.",
@@ -63,6 +216,15 @@ const newsData_en = [
     "time": "2026-01-29T00:42:44.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "'Not feeling supported and respected': Yuvraj Singh discloses why he left cricket",
+    "desc": "Yuvraj Singh revealed that he retired from cricket in 2019 because he stopped enjoying the game and felt a lack of respect and support. Speaking on a podcast, he said he had nothing left to prove mentally or physically. Yuvraj also recalled early doubts about his talent but said he no longer takes them personally.",
+    "img": "https://static.toiimg.com/photo/msid-127719362,imgsize-31906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/not-feeling-supported-and-respected-yuvraj-singh-makes-shocking-revelation-discloses-why-he-left-cricket/articleshow/127718931.cms",
+    "time": "2026-01-29T00:30:00.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Nominees, streaming details revealed",
     "desc": "The 2026 Grammy Awards are set for a star-studded return, featuring performances by Sabrina Carpenter and Justin Bieber, including all Best New Artist nominees. Kendrick Lamar leads with nine nominations. Trevor Noah hosts for his final time, promising a night of history-making moments and exciting results for music's biggest night.",
@@ -81,13 +243,22 @@ const newsData_en = [
     "time": "2026-01-28T23:47:02.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Hailey Bieber’s sister Alaia charged with assault",
-    "desc": "Hailey Bieber's sister, Alaia Baldwin Aronow, faces misdemeanor charges including assault and battery, nearly two years after a 2024 nightclub incident. Allegations involve a confrontation with staff, including throwing a tampon and physical altercations. Her legal team expresses confidence in a positive outcome as her arraignment approaches.",
-    "img": "https://static.toiimg.com/photo/msid-127743566,imgsize-25270.cms",
+    "cat": "Sports",
+    "title": "Bangladesh says 'no security risks'; clears shooting team for India travel",
+    "desc": "Bangladesh's shooting team has been cleared to compete in the Asian Rifle and Pistol Championships in India, despite the nation recently citing security concerns to withdraw its cricket team from the T20 World Cup. The government believes the indoor shooting event poses no significant security risks. The championship is scheduled from February 2 to 14 in New Delhi.",
+    "img": "https://static.toiimg.com/photo/msid-127716451,imgsize-47128.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hailey-biebers-sister-alaia-baldwin-aronow-charged-with-assault-battery-two-years-after-arrest-attorneys-confident-of-positive-resolution/articleshow/127742201.cms",
-    "time": "2026-01-28T23:42:39.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/bangladesh-says-no-security-risks-clears-shooting-team-for-india-travel-amid-t20-world-cup-row/articleshow/127715598.cms",
+    "time": "2026-01-28T23:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Once accusing PCB of unpaid dues, former Pak head coach joins new PSL franchise",
+    "desc": "Jason Gillespie has been appointed head coach of the new Hyderabad franchise in the PSL, marking his return to Pakistan cricket after resigning as national Test coach in 2024. His appointment comes amid a dispute with the PCB over unpaid dues, which the board has denied. Gillespie had earlier cited poor communication and management decisions as reasons for his resignation.",
+    "img": "https://static.toiimg.com/photo/msid-127711936,imgsize-43944.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/once-accusing-pcb-of-unpaid-dues-former-pakistan-head-coach-jason-gillespie-joins-new-psl-franchise/articleshow/127711190.cms",
+    "time": "2026-01-28T23:30:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -99,33 +270,6 @@ const newsData_en = [
     "time": "2026-01-28T22:49:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Hera Pheri without Babu Rao will be a disaster",
-    "desc": "Hera Pheri remains one of Bollywood’s most iconic franchises, with Akshay Kumar, Suniel Shetty and Paresh Rawal creating characters that continue to live on in pop culture. Ever since the third instalment was announced, however, the film has been mired in controversy. Now, Paresh Rawal has firmly stated that Hera Pheri 3 will definitely be made, while also shedding light on the technical issues delaying the project.",
-    "img": "https://static.toiimg.com/photo/msid-127741063,imgsize-28754.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/paresh-rawal-says-hera-pheri-without-babu-rao-will-be-a-disaster-cites-rift-between-akshay-kumar-and-producer-for-delay/articleshow/127740834.cms",
-    "time": "2026-01-28T22:48:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Vijay is not afraid of anything’: SA Chandrasekhar",
-    "desc": "As Jana Nayagan continues to face uncertainty over its theatrical release, filmmaker SA Chandrasekhar, father of Thalapathy Vijay, addressed the repeated delays while speaking to the media earlier in the day. Reacting to the latest legal developments, Chandrasekhar made it clear that Vijay remains undeterred and ready to face every challenge ahead.",
-    "img": "https://static.toiimg.com/photo/msid-127739008,imgsize-31372.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijay-is-not-afraid-of-anything-sa-chandrasekhar-breaks-silence-on-jana-nayagan-release-delay/articleshow/127738687.cms",
-    "time": "2026-01-28T22:22:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘KPop Demon Hunters’ sets record with 20.5 BILLION mins viewed",
-    "desc": "K-Pop Demon Hunters has shattered streaming records, becoming the most-watched movie of 2025 with an astonishing 20.5 billion minutes viewed in the US. This Oscar-nominated animated hit, featuring a K-pop group battling demons, also saw its hit song 'Golden' nominated for an Oscar and multiple Grammys, captivating audiences of all ages.",
-    "img": "https://static.toiimg.com/photo/msid-127737489,imgsize-43068.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/oscar-nominated-kpop-demon-hunters-becomes-most-streamed-film-of-2025-with-20-5-billion-minutes-viewed/articleshow/127736614.cms",
-    "time": "2026-01-28T22:06:32.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Federal Reserve keeps interest rates unchanged even as Trump continues to insist they be lowered",
     "desc": "A key issue facing the Fed rate-setting committee is how long it will remain on hold; they remain split between those officials opposed to further cuts until inflation comes down and those who want to lower rates to further support hiring",
@@ -133,51 +277,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/federal-reserve-keeps-interest-rates-unchanged-even-as-trump-continues-to-insist-they-be-lowered/article70562913.ece",
     "time": "2026-01-28T22:04:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mahesh Bhatt recalls Arijit Singh recording Tum Hi Ho",
-    "desc": "Two days after Arijit Singh announced that he is calling off playback singing, filmmaker Mahesh Bhatt has shared a deeply personal reflection on the singer’s journey, taking everyone back to the moment when a young Arijit first sang Tum Hi Ho during the making of Aashiqui 2.",
-    "img": "https://static.toiimg.com/photo/msid-127737109,imgsize-41990.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mahesh-bhatt-recalls-arijit-singh-recording-tum-hi-ho-for-aashiqui-2-after-his-retirement-a-shy-self-effacing-young-man-/articleshow/127737014.cms",
-    "time": "2026-01-28T21:57:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Justin Bieber returns to Grammy stage after 4 yrs",
-    "desc": "Global sensation Justin Bieber is returning to the stage at the Grammy Awards 2026 after a hiatus, thrilling fans with his first major performance since 2022. He's nominated for Album of the Year and other categories. The star-studded event also features Sabrina Carpenter, Clipse, and Pharrell Williams, alongside a special showcase for Best New Artist nominees.",
-    "img": "https://static.toiimg.com/photo/msid-127736291,imgsize-49934.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/grammy-awards-2026-justin-bieber-to-perform-live-after-four-year-hiatus/articleshow/127733902.cms",
-    "time": "2026-01-28T21:43:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Prakriti–Vijay wedding reception: Sisters Akriti-Sukriti shine",
-    "desc": "Singer Prakriti Kakar is officially married. The singer tied the knot with entrepreneur Vijay Anand in an intimate yet regal ceremony held at Fort Barwara in Rajasthan. The couple, on Wednesday, hosted a lavish reception that saw several celebrities in attendance.",
-    "img": "https://static.toiimg.com/photo/msid-127735648,imgsize-122300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/prakriti-kakarvijay-anand-wedding-reception-sisters-akriti-kakar-and-sukriti-kakar-elnaaz-norouzi-aaliyah-kashyap-shine/articleshow/127735568.cms",
-    "time": "2026-01-28T21:32:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nicki Minaj calls herself Trump's 'No. 1 fan'",
-    "desc": "Rapper Nicki Minaj has publicly declared herself President Trump's \"No. 1 fan,\" vowing to support him despite criticism. Trump, in turn, lauded Minaj as \"the greatest\" and announced a new savings initiative for children, with Minaj reportedly investing significantly. This program aims to provide financial support for young Americans' futures.",
-    "img": "https://static.toiimg.com/photo/msid-127735172,imgsize-32976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/nicki-minaj-calls-herself-donald-trumps-no-1-fan-says-hateful-posts-motivates-me-to-support-him-more/articleshow/127733993.cms",
-    "time": "2026-01-28T21:18:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "BLACKPINK's Rose REVEALS if she is dating; 'If I say no...'",
-    "desc": "Rose, the dazzling star of BLACKPINK, recently opened up about her romantic life, saying, \"Denying would feel so dishonest.\" While she cherishes her privacy to protect those closest to her from the harsh glare of fame, she recounted a hilarious moment when she donned a grandmother disguise to escape the public eye.",
-    "img": "https://static.toiimg.com/photo/msid-127732705,imgsize-32852.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/blackpinks-rose-finally-reveals-if-she-is-dating-anyone-shares-how-she-diguised-as-old-lady-to-go-out-with-her-ex/articleshow/127732705.cms",
-    "time": "2026-01-28T20:24:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -333,18 +432,9 @@ const newsData_en = [
     "time": "2026-01-28T15:10:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kerala’s ruling front and the opposition offer starkly different views of the government in the House",
-    "desc": "Mr. Satheesan sought to paint the picture of a Kerala in decline under ten years of LDF rule, and the government was anti-minority and pro-BJP. Mr. Vijayan said Congress’s lies would not pass muster with voters, and the party’s elected representatives were vulnerable to poaching by the BJP, since it had no clear line against Hindutva and minority communalism",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/keralas-ruling-front-and-the-opposition-offer-starkly-different-views-of-the-government-in-the-house/article70561384.ece",
-    "time": "2026-01-28T14:52:15.000Z"
-  },
-  {
     "cat": "Business",
     "title": "ONGC, Reliance Industries ink MoU for sharing deepwater resources on India’s east coast",
-    "desc": "Speaking to the press at the sidelines of the India Energy Week Wednesday, Director (Exploration) at ONGC O.P. Sinha said the deal would not be limited to KG Basin and could be extended to other avenues as well.",
+    "desc": "Speaking to the press at the sidelines of the India Energy Week on January 28, Director (Exploration) at ONGC O.P. Sinha, said the deal would not be limited to the KG Basin and could be extended to other avenues as well.",
     "img": "https://th-i.thgim.com/public/incoming/raofiw/article70561643.ece/alternates/LANDSCAPE_1200/G_vAWzxW0AAFdxE.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/ongc-reliance-industries-ink-mou-for-sharing-deepwater-resources-on-indias-east-coast/article70561253.ece",
@@ -406,15 +496,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Delhi's stand-in-captain Doseja seeks inspiration from Kohli's tips",
-    "desc": "​​In what has been a disappointing Ranji season for Delhi, they’ve been winless after six matches and are out of the race for a berth in the knockouts, Doseja’s emergence has been the lone bright spark for them.",
-    "img": "https://static.toiimg.com/photo/msid-127705886,imgsize-30258.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ranji-trophy-delhis-stand-in-captain-ayush-doseja-seeks-inspiration-from-virat-kohlis-tips/articleshow/127705491.cms",
-    "time": "2026-01-28T12:55:39.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Novak Djokovic is playing on house money at the Australian Open",
     "desc": "Novak Djokovic reached the Australian Open semifinals. His opponent, Lorenzo Musetti, retired hurt while leading two sets to love. Djokovic will now face Jannik Sinner in the last four. Sinner has won their last five encounters. Djokovic acknowledges Sinner as the favourite but is motivated for the match.",
     "img": "https://static.toiimg.com/photo/msid-127704227,imgsize-28262.cms",
@@ -460,39 +541,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Bangladesh-born team owner gets sentenced in match-fixing case",
-    "desc": "A Sri Lankan court handed a suspended prison sentence to Tamim Rahman, owner of the Dambulla Thunders, for match-fixing. Rahman, a British national, admitted to attempting to influence a player and arranging bets during the domestic T20 league. He received a four-year jail term, suspended for five years, and a hefty fine.",
-    "img": "https://static.toiimg.com/photo/msid-127696637,imgsize-13556.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bangladesh-born-team-owner-tamim-rahman-gets-sentenced-in-sri-lanka-match-fixing-case/articleshow/127696309.cms",
-    "time": "2026-01-28T10:07:52.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Swiatek supports Gauff’s call for balance",
     "desc": "While Gauff said “conversations needs to be had” about the seemingly limitless access-all-areas cameras that track players from the locker room to the court, Swiatek asked are we like animals in the zoo where they are observed everywhere",
     "img": "https://th-i.thgim.com/public/incoming/ri3h9u/article70560451.ece/alternates/LANDSCAPE_1200/Australia_Tennis_91611.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/tennis/privacy-debate-swiatek-supports-gauffs-call-for-balance/article70560418.ece",
     "time": "2026-01-28T09:55:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Hey Pakistan, don't come, you'll be thrashed': WC-winner warns Naqvi",
-    "desc": "Former India opener Krishnamachari Srikkanth has urged Pakistan to skip the T20 World Cup after PCB chief Mohsin Naqvi hinted at a potential withdrawal. Naqvi's remarks, made in solidarity with Bangladesh, drew a sharp response from Srikkanth, who warned Pakistan they would be comprehensively thrashed if they toured India.",
-    "img": "https://static.toiimg.com/photo/msid-127695469,imgsize-70422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/hey-pakistan-dont-come-youll-be-thrashed-india-world-cup-winner-warns-mohsin-naqvi/articleshow/127695504.cms",
-    "time": "2026-01-28T09:47:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India flex T20 WC muscle as SKY storms back into top 10",
-    "desc": "India's T20 World Cup preparations are bolstered as captain Suryakumar Yadav re-enters the top 10 batting rankings. He joins Abhishek Sharma and Tilak Varma, giving India three batters in the elite group. Several other Indian players also saw significant jumps in the rankings, showcasing the team's strong batting depth ahead of the global tournament.",
-    "img": "https://static.toiimg.com/photo/msid-127692049,imgsize-69226.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/peaking-on-time-india-flex-t20-world-cup-muscle-as-suryakumar-yadav-storms-back-into-icc-top-10/articleshow/127691987.cms",
-    "time": "2026-01-28T08:51:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -502,24 +556,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/bafta-nominations-2026-one-battle-after-another-and-sinners-lead-a-polarised-field/article70560093.ece",
     "time": "2026-01-28T07:29:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Border 2' box office collection day 6 (LIVE)",
-    "desc": "'Border 2' has achieved a significant milestone crossing the Rs 200 crore mark. The film enjoyed a successful four-day extended weekend, boosted by its patriotic theme and Republic Day release. However, it started seeing a decline from Tuesday onwards.",
-    "img": "https://static.toiimg.com/photo/msid-127686788,imgsize-68860.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-6-live-the-sunny-deol-varun-dhawan-film-breaks-the-january-jinx-touches-rs-200-crore-in-india-slows-down-after-republic-day-ahaan-shetty/articleshow/127686297.cms",
-    "time": "2026-01-28T07:27:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson's T20 World Cup spot hangs by a thread",
-    "desc": "Team India faces a top-order selection dilemma for the T20 World Cup, with Sanju Samson's recent lean form raising concerns. Despite past investment, his struggles as an opener persist, while Ishan Kishan shines in his comeback. Experts urge patience, warning against disruptive team changes, but continued failures could force another tough call.",
-    "img": "https://static.toiimg.com/photo/msid-127679690,imgsize-57760.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sanju-samsons-t20-world-cup-spot-hangs-by-a-thread/articleshow/127679638.cms",
-    "time": "2026-01-28T05:44:06.000Z"
   },
   {
     "cat": "World",
@@ -747,15 +783,6 @@ const newsData_en = [
     "time": "2026-01-24T06:27:43.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Sri Lanka gets the better of England in the opening ODI",
-    "desc": "England overcame the early loss of Zak Crawley, who made a disappointing return to 50-over format after more than two years when he nicked Asitha Fernando behind wickets after scoring just 6 runs in his comeback game",
-    "img": "https://th-i.thgim.com/public/incoming/vqfxiz/article70544277.ece/alternates/LANDSCAPE_1200/TH23-CITY-INSTAGVIFFPFK7.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/sri-lanka-gets-the-better-of-england-in-the-opening-odi/article70544202.ece",
-    "time": "2026-01-23T21:32:51.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Linkin Park’s debut tour of India kicks off with a performance in Bengaluru",
     "desc": "The American rock band took the stage as part of the From Zero World Tour. The standalone gig was a power-packed performance with songs from the band'’ new album, and chart toppers Numb and In The End",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
     "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
   }
 ];

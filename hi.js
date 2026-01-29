@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Bangladesh's shooting delegation set to travel to India for Asian Air Gun Championship amid T20 WC controversy",
+    "desc": "The Bangladesh government has authorised its shooters to travel to India for next month's Asian Air Gun Championship. It is worth noting that the tournament will be held at the Dr Karni Singh Range from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/bangladesh-s-shooting-delegation-set-to-travel-to-india-for-asian-air-gun-championship-amid-t20-wc-controversy-2026-01-29-1027940",
+    "time": "2026-01-29T04:04:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia women announce squads for multi-format India series, Healy set to feature in final assignment",
+    "desc": "The stage is set for the upcoming multi-format series between Australia women and India women. The Women in Blue will be touring Australia for three T20Is, three ODIs, and an only Test match. It is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-women-announce-squads-for-multi-format-india-series-healy-set-to-feature-in-final-assignment-2026-01-29-1027927",
+    "time": "2026-01-29T02:18:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sophie Molineux announced as Australia women's new all-format captain",
     "desc": "Cricket Australia recently came forward and announced that 28-year-old bowling all-rounder Sophie Molineux will be the new all-format captain of the Australia women’s side. Molineux will be succeeding Alyssa Healy in the role. She will...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/why-are-18-matches-in-uefa-champions-league-set-to-begin-at-same-time-2026-01-28-1027891",
     "time": "2026-01-28T15:36:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav makes gains in ICC rankings after returning to form, Hardik, Dube also rise",
-    "desc": "India T20 captain Suryakumar Yadav made strong strides in the ICC rankings as per the latest update on Wednesday, January 28. Following his strong half-centuries in the ongoing T20I series against New Zealand, SKY gained...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-makes-gains-in-icc-rankings-after-returning-to-form-hardik-dube-also-rise-2026-01-28-1027888",
-    "time": "2026-01-28T15:17:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When will star all-rounder return to India's Playing XI? Suryakumar Yadav opens up",
-    "desc": "Axar Patel missed out again as India take on New Zealand in the fourth T20I of the five-match series at the ACA-VDCA Cricket Stadium, Visakhapatnam. Red-hot India have already sealed the series as they have...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/axar-patel-update-when-will-star-all-rounder-return-to-indias-playing-xi-suryakumar-yadav-opens-up-2026-01-28-1027878",
-    "time": "2026-01-28T14:26:02.000Z"
   }
 ];
