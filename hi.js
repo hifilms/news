@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Paul Stirling shatters Rohit Sharma's world record, Ireland beat UAE by 57 runs",
+    "desc": "A long-standing milestone in T20Is has changed hands, marking the end of Rohit Sharma’s tenure atop one of the format’s most enduring records. The former India captain, who retired from T20Is after lifting the 2024...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/paul-stirling-shatters-rohit-sharma-s-world-record-ireland-beat-uae-by-57-runs-2026-01-29-1028077",
+    "time": "2026-01-29T18:23:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How can UP Warriorz still qualify for WPL 2026 playoffs after defeat to RCB?",
+    "desc": "Despite an eight-wicket bashing against Royal Challengers Bengaluru in their penultimate league game of the WPL 2026 campaign, UP Warriorz are still in contention to progress to the semi-final. Against RCB, the middle order batters...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-can-up-warriorz-still-qualify-for-wpl-2026-playoffs-after-defeat-to-rcb-2026-01-29-1028071",
+    "time": "2026-01-29T17:48:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "After IPL final in 2025, RCB qualify for second WPL final after thrashing UP Warriorz in Vadodara",
+    "desc": "Royal Challengers Bengaluru booked a place in their second Women’s Premier League (WPL) final after beating UP Warriorz by eight wickets. Coming into the match after consecutive losses, the Smriti Mandhana-led side faced the risk...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/after-ipl-final-in-2025-rcb-qualify-for-second-wpl-final-after-thrashing-up-warriorz-in-vadodara-2026-01-29-1028066",
+    "time": "2026-01-29T17:14:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mayank Yadav set to return in T20 World Cup warm-ups, Tilak Varma, Riyan Parag set to be cleared soon",
+    "desc": "Ace pacer Mayank Yadav is likely to make his return through India A in the upcoming T20 World Cup warm-up fixtures. According to the initial schedule, India A will take on the USA on February...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mayank-yadav-set-to-return-in-t20-world-cup-warm-ups-tilak-varma-riyan-parag-set-to-be-cleared-soon-2026-01-29-1028061",
+    "time": "2026-01-29T16:28:17.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is Kamindu Mendis dropped from T20 World Cup 2026? Sri Lanka captain Dasun Shanaka answers",
     "desc": "Sri Lanka’s squad selection for their T20I series against England has sparked discussion ahead of the T20 World Cup, with questions raised about the choices made by the new selection committee led by Pramodya Wickramasinghe....",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-vs-alexander-zverev-head-to-head-record-check-detailed-stats-ahead-of-australian-open-semis-2026-01-29-1028034",
     "time": "2026-01-29T12:57:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sarfaraz Khan, Musheer wear masks during Ranji Trophy match between Mumbai vs Delhi at BKC",
-    "desc": "Several Mumbai players had to wear masks while fielding during their Ranji Trophy match against Delhi at the Sharad Pawar Cricket Academy in Mumbai’s BKC. Sarfaraz Khan, Musheer Khan and Himanshu Singh were among those...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sarfaraz-khan-musheer-wear-masks-during-ranji-trophy-match-between-mumbai-vs-delhi-at-bkc-2026-01-29-1028028",
-    "time": "2026-01-29T12:04:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why did Elina Svitolina skip pre-match photo, post-match handshake vs Aryna Sabalenka in Australian Open?",
-    "desc": "Aryna Sabalenka defeated Elina Svitolina 6-2, 6-3 to progress to her fourth-straight Australian Open final. The match was rather an easy affair for the Belarus international and she will now face the winner of Jessica...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-did-elina-svitolina-skip-pre-match-photo-post-match-handshake-vs-aryna-sabalenka-in-australian-open-2026-01-29-1028018",
-    "time": "2026-01-29T11:15:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aryna Sabalenka storms into her fourth consecutive Australian Open final, beats Elina Svitolina",
-    "desc": "Aryna Sabalenka's golden run in the Australian Open continued as she stormed into her fourth consecutive final of the Grand Slam event, becoming only the third player to do so in the Open Era after...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/aryna-sabalenka-storms-into-her-fourth-consecutive-australian-open-final-beats-elina-svitolina-2026-01-29-1028009",
-    "time": "2026-01-29T10:30:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Didn't feel respected': Yuvraj Singh reveals why he retired from international cricket in June 2019",
-    "desc": "Yuvraj Singh is one of the legends in Indian cricket, having played a massive role in India winning the T20 World Cup in 2007 and the ODI World Cup in 2011. In fact, he was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/not-feeling-respected-yuvraj-singh-reveals-why-he-retired-from-international-cricket-in-june-2019-2026-01-29-1028000",
-    "time": "2026-01-29T10:02:35.000Z"
   }
 ];

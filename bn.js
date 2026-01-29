@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "কলকাতায় ফিরেই হাইকোর্টের দারস্থ হিরণ চট্টোপাধ্যায়, আগাম জামিনের আর্জি",
+    "desc": "সম্প্রতি বারাণসীর এক ঘাটে নিজের দ্বিতীয় বিয়ের ছবি পোস্ট করেন হিরণ চট্টোপাধ্যায়। তারপরই স্বামীর বিরুদ্ধে সরব হন তাঁর প্রথম স্ত্রী অনিন্দিতা। অভিযোগ, ডিভোর্স না দিয়েই নাকি ফের বিয়ে করেছেন বিধায়ক। তা নিয়ে তুমুল চর্চা শুরু হয় সোশ্যাল মিডিয়ায়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Web-2026-01-29T234546.214-2026-01-01d5dd6c552213a412eaa9fe8c4fb913-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/bjp-mla-hiraan-chatterjee-second-marriage-controversy-urges-for-anticipatory-bail-at-high-count-pbd-2518368.html",
+    "time": "2026-01-29T18:22:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Zee 24 Ghanta Binodone Sera 24: বোকাবাক্সে বাজিমাত! টেলিভিশনে সেরা শো 'দিদি নম্বর ১'....",
+    "desc": "২৯ জানুয়ারি, বৃহস্পতিবার 'রেড লেটার ডে' বাংলার বিনোদনে। পর্দা উঠল মেগা অ্যাওয়ার্ড শো 'জি ২৪ ঘণ্টা বিনোদনে সেরা ২৪' (Zee 24 Ghanta Binodone Sera 24)-এর। মোট ২৪টি বিভাগে দেওয়া হল সম্মাননা। স্রেফ অভিনেতা-অভিনেত্রীরা নন. পুরস্কৃত করা হল ক্যামেরার",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/didi-no-1-wins-best-non-fiction-show-award-in-zee-24-ghanta-binodone-sera-24_638224.html ",
+    "time": "2026-01-29T18:12:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "থিয়েটার থেকে সিনেমার যাত্রায় দুই মহারথীর বিজয়রথ! সোহিনী সেনগুপ্ত ও ব্রাত্য বসু- কোন সেরার পুরস্কার পেলেন?",
+    "desc": "'জি ২৪ ঘণ্টা বিনোদনে সেরা ২৪' হোস্ট করছে অভিনেতা রুদ্রনীল ঘোষ, পরিচালক সৃজিত মুখোপাধ্যায় ও মডেল-অভিনেত্রী সৌরসেনী মৈত্র। রীতিমতো এদিন দুপুর থেকেই তাঁরা একেবারে রিহার্সাল সেরেছেন। তৈরি হয়েছেন মেগা শোয়ের জন্য়। সেরা সিনেমার সঙ্গেই সেরা অভিনেতা/অভিনেত্রী, সেরা পরিচালকের মনোনয়ন জমা পড়ে গিয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/zee-24-ghanta-binodone-sera-24-best-actor-and-supporting-actor-male-and-female_638223.html ",
+    "time": "2026-01-29T17:52:29.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ইলিশ-চিংড়ি-পমফ্রেট ধরার ট্রলার তৈরির খরচই কোটি টাকা! জানুন সামুদ্রিক মৎস্য ব্যবসার লাভ-ক্ষতির অঙ্ক",
     "desc": "সমুদ্রে ইলিশ, চিংড়ি বা পমফ্রেট ধরার ট্রলার তৈরি বেশ ব্যয়বহুল। কাঠের দাম থেকে শুরু করে আধুনিক যন্ত্রপাতির খরচ আকাশছোঁয়া। কিন্তু ঝুঁকি নিয়ে গভীর সমুদ্রে ভাগ্য সহায় হলে লাভের অঙ্ক ছাড়িয়ে যায় সব হিসেব। ট্রলার ব্যবসার খরচ ও উপার্জনের বিস্তারিত জানুন।",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/international/us-sends-military-aircraft-to-greenland-as-denmark-boosts-troop-presence-update-on-this-ss-2506358.html",
     "time": "2026-01-21T07:42:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "আমাদের মেয়ে কেঁদে চোখ ফুলিয়েছে, ওর জন্য আমার খুব খারাপ লাগছে",
-    "desc": "সূত্রের খবর, প্রাক্তন স্ত্রী অনিন্দিতা চট্টোপাধ্যায়ের সঙ্গে অনেক দিন ধরে সমস্যা চলছিল তাঁর। হিরণ এবং অনিন্দিতার এক কন্যাসন্তান রয়েছে। অনিন্দিতা মারাত্মক অভিযোগ করেছেন, '২০০০ সালে তাদের বিয়ে হয়েছে গত বছর ২৫ বছর পূর্ণ হয়েছে। কিন্তু আইনত কোনও ডিভোর্স হয়নি এবং ডিভোর্সের মামলাও চলছে না। সেক্ষেত্রে প্রথম স্ত্রী থাকতে আইন অনুযায়ী কি করে হিরণ আরেকবার বিয়ে করেন?' তাদের ১৯ বছরের একটা মেয়ে রয়েছে। মেয়ের থেকে দ্বিতীয় স্ত্রী মাত্র দু বছরের বড়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-21-at-8.48.43-AM-2026-01-c7699fe02fa10aed3e77436d2b8e79bd.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/short-videos/entertainment/actor-mla-hiran-chatterjee-second-marriage-his-first-wife-feels-bad-about-their-daughter-pbd-2506400.html",
-    "time": "2026-01-21T03:38:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "তিন-তিনটি পশ্চিমী ঝঞ্ঝার হুঁশিয়ারি...! ২২, ২৩, ২৪, ২৫ জানুয়ারি ভারী বৃষ্টি-ঝড় কাঁপাবে ৯ রাজ্য,  কী হবে বাংলায়? জানিয়ে দিল IMD",
-    "desc": "উত্তর ভারতে ঠান্ডার তীব্রতা কমে যেতেই ভারতীয় আবহাওয়া বিভাগ (IMD) বৃষ্টির সতর্কতা জারি করেছে। ২২ থেকে ২৫ জানুয়ারির মধ্যে উত্তর প্রদেশ এবং হিমাচল প্রদেশ-সহ নয়টি রাজ্যে ভারী বৃষ্টির সতর্কতা জারি করা হয়েছে। বৃষ্টির কারণে, উত্তর ভারতের অনেক রাজ্যে তাপমাত্রা কমে যেতে পারে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/11/sanj-2025-11-25T190454.149-2025-11-9c71ed0bce9d5a905bdc5af954059071-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-heavy-rainfall-wind-thunderstorm-alert-in-9-states-for-22-23-24-and-25-january-due-to-three-western-disturbance-massive-weather-change-to-follow-know-latest-west-bengal-weather-sanj-2506307.html",
-    "time": "2026-01-20T18:57:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "দ্বিতীয়বার বিয়ে অভিনেতা হিরণ চট্টোপাধ্যায়ের, বিস্ফোরক প্রতিক্রিয়া প্রথম স্ত্রী অনিন্দিতার",
-    "desc": "দ্বিতীয় বার বিয়ে করলেন বিজেপি বিধায়ক-অভিনেতা হিরণ চট্টোপাধ্যায়। মঙ্গলবার নিজেই বিয়ের বিভিন্ন ছবি ভাগ করে নিয়েছেন সমাজমাধ্যমে। পাত্রীর নাম ঋতিকা গিরি। সমাজমাধ্যম ঘেঁটে জানা গিয়েছে, বেশ অনেক দিন ধরেই সম্পর্কে ছিলেন হিরণ ও ঋতিকা। কিন্তু সেভাবে প্রকাশ্যে তা নিয়ে আলোচনা হয়েছিল, এমন নয়। রাজনীতিতে যোগদান করার পর থেকে তিনি মূলত খড়্গপুরেই থাকতেন। হিরণের দ্বিতীয় বিয়ের পর বিস্ফোরক প্রথম স্ত্রী অনিন্দিতা!",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-20-at-8.13.24-PM-2026-01-cebeaf3e3205396170c0d80b9a496feb-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/entertainment/hiran-chatterjee-bjp-actor-second-wedding-anindita-explosive-comment-sal-2506240.html",
-    "time": "2026-01-20T16:08:30.000Z"
   }
 ];
