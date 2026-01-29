@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "ইলিশ-চিংড়ি-পমফ্রেট ধরার ট্রলার তৈরির খরচই কোটি টাকা! জানুন সামুদ্রিক মৎস্য ব্যবসার লাভ-ক্ষতির অঙ্ক",
+    "desc": "সমুদ্রে ইলিশ, চিংড়ি বা পমফ্রেট ধরার ট্রলার তৈরি বেশ ব্যয়বহুল। কাঠের দাম থেকে শুরু করে আধুনিক যন্ত্রপাতির খরচ আকাশছোঁয়া। কিন্তু ঝুঁকি নিয়ে গভীর সমুদ্রে ভাগ্য সহায় হলে লাভের অঙ্ক ছাড়িয়ে যায় সব হিসেব। ট্রলার ব্যবসার খরচ ও উপার্জনের বিস্তারিত জানুন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/fishing-trawler-price-2026-01-aab84e72a3fe1e2e25b1fb2d4035d797-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/fishing-trawler-price-fishing-trawler-construction-cost-and-profit-margin-l18-local18-2517160.html",
+    "time": "2026-01-29T12:42:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "কাকা শরদের ছায়া থেকে বেরিয়েছিলেন... হয়ে উঠেছিলেন সবার ‘দাদা’! কেমন ছিল অজিত পওয়ারের রাজনৈতিক জীবন?",
+    "desc": "ন্যাশনালিস্ট কংগ্রেস পার্টির শীর্ষ নেতা তিনি। এনডিএ সরকারের শরিক। উপমুখ্যমন্ত্রী হিসাবে সব থেকে বেশি দিন গদিতে। ১৯৫৯ সালে ২২ জুলাই জন্ম অজিত অন্তরাও পওয়ারের৷ বাবার নাম অন্তরাও এবং মা আশাতাই পওয়ার৷ শরদ পওয়ারের বড় ভাই ছিলেন অজিত পওয়ারের বাবা৷ অর্থাৎ, ন্যাশনালিস্ট কংগ্রেস পার্টি, এনসিপি-র প্রতিষ্ঠাতা শরদ পওয়ারের নিজের ভাইপো হলেন অজিত পওয়ার৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1769686137_ajit-2026-01-4de586f004ca56fb5e7b85ee7981a73d-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/ajit-pawar-dies-in-plane-crash-a-look-back-at-his-career-and-legacy-rmj-2518039.html",
+    "time": "2026-01-29T11:51:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "যুবরাজ সিংয়ের অবসরের কারণ নিয়ে চাঞ্চল্যকর স্বীকারোক্তি...‘আমি নিজেকে সম্মানিত বোধ করিনি’",
+    "desc": "সানিয়া মির্জার ইউটিউব চ্যানেলে যুবরাজ বলেন, ‘‘আমি আমার খেলা উপভোগ করছিলাম না। আমার মনে হচ্ছিল, যখন আমি ক্রিকেট খেলা উপভোগই করছি না, তখন কেন খেলছি? আমি নিজেকে সমর্থিত মনে করছিলাম না। আমি নিজেকে সম্মানিত মনে করছিলাম না।’’",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Yuvraj-Singh-Interview-2026-01-0fed297a4f62068d74542eed1a58f579-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/yuvraj-singhs-interview-his-stunning-confession-on-why-he-retired-i-did-not-feel-respected-ss-aa-2517889.html",
+    "time": "2026-01-29T10:36:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "২৯, ৩০, ৩১ জানুয়ারি...! ভারী বৃষ্টি কাঁপাবে ৪ রাজ্য, শীতের শিরশিরানি বাড়বে কোন কোন রাজ্যে? কী হবে বাংলায়? জানিয়ে দিল IMD",
+    "desc": "ভারী বৃষ্টিপাতের কারণে সকালের তাপমাত্রা ২ থেকে ৩ ডিগ্রি কমে যাবে, যার ফলে আবার কাঁপুনি শুরু হবে। রাজস্থান, জম্মু ও কাশ্মীর, লাদাখ এবং হিমাচল প্রদেশেও বৃষ্টিপাতের সম্ভাবনা রয়েছে। ভারী বৃষ্টিপাতের পাশাপাশি, ঘণ্টায় ৪০ কিলোমিটার বেগে বাতাস বইবে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/11/sanj-2025-11-25T190454.149-2025-11-9c71ed0bce9d5a905bdc5af954059071-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-heavy-rainfall-alert-along-with-thunderstorm-and-lightning-to-hit-4-states-in-next-three-days-cold-alert-in-which-states-check-latest-west-bengal-weather-sanj-2517766.html",
+    "time": "2026-01-29T09:41:25.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Identify Ajit Pawar's Body: বীভৎস ভাবে পুড়ে যাওয়া দলা-পাকানো দেহ! আগুনধোঁয়ার ধ্বংসস্তূপের মধ্যেও অজিত পওয়ারকে চিনিয়ে দিল এই ছোট্ট জিনিসটি...",
     "desc": "একটি চার্টার্ড বিমানে মুম্বই থেকে বারামতিতে যাচ্ছিলেন অজিত পাওয়ার। বুধবার সকাল পৌনে ৯টা নাগাদ বারামতি বিমানবন্দরের কাছে অবতরণের সময় বিমানটি ভেঙে পড়ে, আগুন ধরে যায়। মারা যান মহারাষ্ট্রের ডেপুটি সিএম অজিত পওয়ার। নিজের গড়ে একাধিক জনসভা ছিল তাঁর, কিন্তু জনসভায় আর যোগ দেওয়া হল না তাঁর। অবতরণের আগেই আগুন ধরে যায় বিমানে।",
@@ -862,41 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/entertainment/hiran-chatterjee-bjp-actor-second-wedding-anindita-explosive-comment-sal-2506240.html",
     "time": "2026-01-20T16:08:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'দিনের পর দিন মানসিক অত্যাচার করেছে, লজ্জায় কিছু বলিনি', ডিভোর্স না দিয়েই দ্বিতীয় বিয়ে! বিস্ফোরক প্রথম স্ত্রী অনিন্দিতা...",
-    "desc": "বিজেপি বিধায়ক তথা অভিনেতা হিরণ চট্টোপাধ্যায়ের দ্বিতীয় বিয়ের ছবি প্রকাশ্যে আসতেই তোলপাড় টলিউড ও রাজনৈতিক মহল। বেনারসের ঘাটে মডেল ঋতিকা গিরির সঙ্গে হিরণের বিয়ের ছবি যখন সমাজমাধ্যমে ভাইরাল, তখন একরাশ হতাশা আর ক্ষোভ উগরে দিলেন অভিনেতার প্রথম স্ত্রী অনিন্দিতা চট্টোপাধ্যায়। তাঁর দাবি, আইনি বিচ্ছেদ ছাড়াই হিরণ এই কাজ করেছেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/hiran-chatterjee-wife-anindita-claims-marriage-without-divorce-controversy_636490.html ",
-    "time": "2026-01-20T13:20:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "দুর্ঘটনার কবলে অভিনেতা অক্ষয় কুমারের গাড়ি! বেপরোয়া চালানোর অভিযোগে গ্রেফতার চালক",
-    "desc": "সোমবার রাতে জুহু এলাকায় একাধিক গাড়ির সংঘর্ষে অক্ষয় কুমারের নিরাপত্তা বহরের গাড়ি জড়িয়ে পড়ে। মুম্বই পুলিশের দাবি, দুটি গাড়ি ও একটি অটো-রিকশার মধ্যে সংঘর্ষে দু’জন আহত হন। অভিযোগ, একটি মার্সিডিজ গাড়ি পেছন থেকে একটি ইনোভাকে ধাক্কা দিলে সেটি নিয়ন্ত্রণ হারিয়ে অটো-রিকশার উপর উঠে যায়। পরে উল্টে যাওয়া অটোটি গিয়ে ধাক্কা মারে অক্ষয় কুমারের নিরাপত্তা বহরের গাড়িতে। দুর্ঘটনার একাধিক ভিডিও ইতিমধ্যেই সোশ্যাল মিডিয়ায় ছড়িয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/akshay-kumar-car-accident-2026-01-6b2ffaadb8fc57298be079a28119ee12-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/actor-akshay-kumar-security-convoy-car-accident-arrest-at-juhu-police-station-driver-arrested-for-reckless-driving-tib-ws-l-2505992.html",
-    "time": "2026-01-20T12:46:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বিনা প্রতিদ্বন্দ্বিতায় পদে, BJPর সর্বকনিষ্ঠ সভাপতির দায়িত্বে ৪৫ বছরের নিতিন ‍",
-    "desc": "এদিনের অনুষ্ঠানে উপস্থিত ছিলেন প্রধানমন্ত্রী নরেন্দ্র মোদি, বিদায়ী বিজেপি সভাপতি জেপি নাড্ডা, প্রতিরক্ষামন্ত্রী রাজনাথ সিং, বিদেশমন্ত্রী এস জয়শঙ্কর এবং বেশ কয়েকজন কেন্দ্রীয় মন্ত্রী সহ বিজেপির জ্যেষ্ঠ নেতারা। নতুন দায়িত্ব পাওয়ার পরে তাঁকে শুভেচ্ছা জানান প্রধানমন্ত্রী নরেন্দ্র মোদিও৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-2026-01-20T131319.262-2026-01-4f5d396ccd0b4226e0d50b0e40ae5b62-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/bjp-national-president-nitin-nabin-took-charge-as-chief-of-the-party-modi-congratulate-sta-2505895.html",
-    "time": "2026-01-20T11:55:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "জানেন নিতিন নবীন কে? মাত্র ২৬ বছর বয়সে রাজনীতিতে, দুর্দান্ত সংগঠক! মাটির রাজনীতি করে উঠে আসা...রইল বিজেপির অন্দরে তাঁর উত্থান কাহিনি",
-    "desc": "প্রতিরক্ষামন্ত্রী রাজনাথ সিং-ও তাঁর ভবিষ্যৎ পরিকল্পনা প্রবণ, স্বপ্নদর্শী, পরিশ্রমী কর্মী৷ প্রধানমন্ত্রী মোদি বলেন, ‘‘পৃথিবীর বৃহত্তম রাজনৈতিক দল ভারতীয় জনতা পার্টির প্রেসিডেন্ট হিসাবে দায়িত্বগ্রহণ করার জন্য নিতিন নবীনকে আমি অভিনন্দন জানাই৷ দলের সংগঠনকে আরও মজবুত করার জন্য আমি অতীতের সব সভাপতিদেরও ধন্যবাদ জানাই৷’’",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-2026-01-20T123315.414-2026-01-992a069414ae8c2851c268ebd4d5d13e-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/nitin-nabin-bjp-new-national-president-took-charge-from-tueday-here-is-his-journey-sta-2505736.html",
-    "time": "2026-01-20T11:44:53.000Z"
   }
 ];

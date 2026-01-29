@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sarfaraz Khan, Musheer wear masks during Ranji Trophy match between Mumbai vs Delhi at BKC",
+    "desc": "Several Mumbai players had to wear masks while fielding during their Ranji Trophy match against Delhi at the Sharad Pawar Cricket Academy in Mumbai’s BKC. Sarfaraz Khan, Musheer Khan and Himanshu Singh were among those...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sarfaraz-khan-musheer-wear-masks-during-ranji-trophy-match-between-mumbai-vs-delhi-at-bkc-2026-01-29-1028028",
+    "time": "2026-01-29T12:04:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why did Elina Svitolina skip pre-match photo, post-match handshake vs Aryna Sabalenka in Australian Open?",
+    "desc": "Aryna Sabalenka defeated Elina Svitolina 6-2, 6-3 to progress to her fourth-straight Australian Open final. The match was rather an easy affair for the Belarus international and she will now face the winner of Jessica...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-did-elina-svitolina-skip-pre-match-photo-post-match-handshake-vs-aryna-sabalenka-in-australian-open-2026-01-29-1028018",
+    "time": "2026-01-29T11:15:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Aryna Sabalenka storms into her fourth consecutive Australian Open final, beats Elina Svitolina",
+    "desc": "Aryna Sabalenka's golden run in the Australian Open continued as she stormed into her fourth consecutive final of the Grand Slam event, becoming only the third player to do so in the Open Era after...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/aryna-sabalenka-storms-into-her-fourth-consecutive-australian-open-final-beats-elina-svitolina-2026-01-29-1028009",
+    "time": "2026-01-29T10:30:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Didn't feel respected': Yuvraj Singh reveals why he retired from international cricket in June 2019",
+    "desc": "Yuvraj Singh is one of the legends in Indian cricket, having played a massive role in India winning the T20 World Cup in 2007 and the ODI World Cup in 2011. In fact, he was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/not-feeling-respected-yuvraj-singh-reveals-why-he-retired-from-international-cricket-in-june-2019-2026-01-29-1028000",
+    "time": "2026-01-29T10:02:35.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Novak Djokovic slams journalist for Sinner-Alcaraz comment ahead of Australian Open semi-final bout",
     "desc": "Veteran tennis superstar Novak Djokovic has made it to yet another Grand Slam semi-final. Thanks to two back-to-back walkovers, Djokovic has made it to the Australian Open 2026 semi-final and is set to take on...",
     "img": "",
@@ -28,7 +64,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "When and where to watch SA vs WI T20I series on TV and streaming?",
+    "title": "When and where to watch PAK vs AUS T20I series on TV and streaming?",
     "desc": "The stage is set for the upcoming T20I series between Pakistan and Australia. The two sides will take on each other in the first T20I of the series at the Gaddafi Stadium, Lahore, on January...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shivam-dube-equals-rohit-sharma-in-elite-list-with-squashbuckling-knock-against-new-zealand-in-fourth-t20i-2026-01-29-1027953",
     "time": "2026-01-29T05:20:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh's shooting delegation set to travel to India for Asian Air Gun Championship amid T20 WC controversy",
-    "desc": "The Bangladesh government has authorised its shooters to travel to India for next month's Asian Air Gun Championship. It is worth noting that the tournament will be held at the Dr Karni Singh Range from...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/bangladesh-s-shooting-delegation-set-to-travel-to-india-for-asian-air-gun-championship-amid-t20-wc-controversy-2026-01-29-1027940",
-    "time": "2026-01-29T04:04:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia women announce squads for multi-format India series, Healy set to feature in final assignment",
-    "desc": "The stage is set for the upcoming multi-format series between Australia women and India women. The Women in Blue will be touring Australia for three T20Is, three ODIs, and an only Test match. It is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-women-announce-squads-for-multi-format-india-series-healy-set-to-feature-in-final-assignment-2026-01-29-1027927",
-    "time": "2026-01-29T02:18:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sophie Molineux announced as Australia women's new all-format captain",
-    "desc": "Cricket Australia recently came forward and announced that 28-year-old bowling all-rounder Sophie Molineux will be the new all-format captain of the Australia women’s side. Molineux will be succeeding Alyssa Healy in the role. She will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sophie-molineux-announced-as-australia-women-s-new-all-format-captain-2026-01-29-1027918",
-    "time": "2026-01-29T01:21:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Undefeated Australia storm into U19 World Cup 2026 semifinals after beating West Indies",
-    "desc": "Australia have made it to the semifinals of the U19 World Cup 2026 after defeating West Indies in their last Super Six match in Group 1 at the Harare Sports Club, Harare. Led by a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/undefeated-australia-storm-into-u19-world-cup-2026-semifinals-after-beating-west-indies-2026-01-28-1027911",
-    "time": "2026-01-28T18:29:06.000Z"
   }
 ];
