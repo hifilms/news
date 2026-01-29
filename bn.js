@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "ফের ভেঙে পড়ল বিমান, নেতা-সহ বহু মৃত্যু! ল্যান্ডিংয়ের ঠিক আগে রেডার থেকে হঠাৎই উধাও! কেন? ঘনাচ্ছে ঘোর রহস্য...",
+    "desc": "'বিচক্র্যাফ্ট ১৯০০' সাতেনা ফ্লাইটের পরিচালিত এক বিমান। ওসানায় অবতরণের কথা ছিল এর। কিন্তু নির্ধারিত সময়ের কয়েক মিনিট আগেই দুপুর ১২টা ৫ মিনিটে হঠাৎই এয়ার ট্রাফিক কন্ট্রোলের সঙ্গে যোগাযোগ বিচ্ছিন্ন হয়ে যায় এর। তারপর? সে এক ভয়ংকর কাণ্ড। শব্দ, আগুন, ধোঁয়া, আর্তি, রক্ত, মৃত্যু!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/plane-crashes-in-colombia-killing-15-after-aircraft-disappears-mid-flight-beechcraft-1900_638096.html ",
+    "time": "2026-01-29T06:33:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "চতুর্থ টি২০-তে হারের পর গম্ভীরের ‘ফেভারিট’ এই ক্রিকেটারই এখন সবচেয়ে বড় ভিলেন ! হতাশ ফ্যানরা",
+    "desc": "ম্যাচ হেরে এদিন অদ্ভুত ব্যাখ্যাও দিয়েছেন ভারত অধিনায়ক সূর্যকুমার যাদব। তাঁর কথা শুনে মনে হল, বিশাখাপত্তনমে নিউজিল্যান্ড ভারতকে হারায়নি। ভারত ইচ্ছা করেই হেরেছে। সূর্যের মতে, তাঁরা চ্যালেঞ্জ নিতে চেয়েছিলেন। তাই এ ভাবে খেলেছেন। নইলে অন্য ভাবে খেলত ভারত।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/AP26028616706427-2026-01-b963d1f911395651364163a96d3522c9-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/ind-vs-nz-4th-t20-match-team-india-fans-gets-angry-over-harshit-rana-and-ravi-bishnoi-for-conceding-93-runs-ss-2517068.html",
+    "time": "2026-01-29T05:28:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'গুড মর্নিং, চিনি...'! বারামতী দুর্ঘটনার আগেই প্রিয় দাদীকে Whatsapp! ক্যাপ্টেন শম্ভাবী পাঠকের দিদাকে পাঠানো শেষ বার্তায় কী ছিল জানেন?",
+    "desc": "বর্তমানে গোয়ালিয়রেই থাকেন শম্ভাবীর দাদি মীরা পাঠক। নাতনি হারিয়ে কার্যত ভগ্নহৃদয়। দুমড়ে-মুচড়ে যাওয়া সেই মন নিয়েই জানালেন, দুর্ঘটনার কয়েক ঘণ্টা আগে, বুধবার সকাল ৬:৩৬ মিনিটে, শম্ভাবী একটি মেসেজ পাঠান দিদাকে। এর কিছুক্ষণ পরেই বিমানে উঠে উড়ে যান শম্ভাবী। আর ফেরেননি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-29-at-09.44.06-2026-01-c935d34eb1aa217624f87dca7ae07a6e-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/captain-shambhavi-pathak-a-whatsapp-message-to-her-beloved-grandmother-just-before-the-baramati-accident-do-you-know-what-was-in-captain-shambhavi-pathaks-last-message-to-her-grandmother-sanj-2517036.html",
+    "time": "2026-01-29T04:48:34.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "রিয়ালিটি শো-তে 'ফেল', সেই অরিজিৎ সিং গানের জগতে জনপ্রিয়তার শিখরে! তালিকায় এমন আর কারা?",
     "desc": "এমন অনেক প্রতিযোগী রয়েছেন যাঁরা ফাইনালে পৌঁছনোর আগেই এলিমিনেশন, প্রত্যাখ্যান বা বিপর্যয়ের মুখোমুখি হয়েছেন। কিন্তু এই শিল্পীরা ব্যর্থতাগুলিকে সিঁড়িতে পরিণত করেছেন এবং আবেগ এবং কঠোর পরিশ্রমের মাধ্যমে সঙ্গীত জগতে বিজয়ীদের চেয়েও বড় নাম তৈরি করেছেন।",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/national/supreme-court-makes-important-observation-on-madyamik-admit-card-in-sir-case-dmg-2504444.html",
     "time": "2026-01-19T14:40:31.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "সেল্ফ, কিক সব ফেল! ঠান্ডায় বারবার চেষ্টা করেও স্টার্ট নিচ্ছে না বাইক,স্কুটি? ৪ টিপস জানলেই কেল্লাফতে, একবার স্টার্ট দিলেই ছুটবে গাড়ি",
-    "desc": "বার বার স্টার্ট দিয়েও চালু হচ্ছে না বাইক, স্কুটি৷ বেশি শীতে বাইক এবং স্কুটি স্টার্ট দেওয়ার সময় এই সমস্যার সম্মুখীন হয়েছেন বেশিরভাগ চালক৷ সেল্ফ ও কিক—দু ধরনের স্টার্টই অনেক সময় কাজ করা বন্ধ করে দেয়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/2026-01-adb6d7b4671ac3f6e15328ebe469d26c-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/technology/bike-tips-and-tricks-self-and-kick-start-is-not-working-in-winter-hack-to-start-motorcycle-ank-2504449.html",
-    "time": "2026-01-19T14:39:38.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ট্রাম্পকে নোবেল শান্তি পুরস্কার পদক হস্তান্তর মাচাদোর! পিছনে জটিল যুক্তি",
-    "desc": "সেই নোবেল শান্তি পদকই মাচাদো তাঁর কাছে ছেড়ে গেছেন বলে দাবি করেছেন ট্রাম্প। মাচাদোর এই উদ্যোগকে তিনি 'পারস্পরিক শ্রদ্ধার এক অসাধারণ নিদর্শন' বলে উল্লেখ করেছেন। যদিও নোবেল কমিটি সঙ্গে সঙ্গে এ প্রসঙ্গে বিবৃতি জারি করে জানিয়েছে, পুরস্কারের এভাবে হাতবদল আইন-সম্মত নয় বা প্রতীকীও হতে পারে না।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ddd-2026-01-06160b451e6297020511d19980cfb814.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/international/maria-machado-presents-donald-trump-her-nobel-peace-prize-but-what-happened-pbd-2504479.html",
-    "time": "2026-01-19T14:30:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dev-Subhashree: 'অতীত নিয়ে বাঁচতে চাই না', দেবকে সঙ্গে নিয়েই রাজ-রুক্মিণীকে কৃতজ্ঞতা শুভশ্রীর...",
-    "desc": "১০ বছর পর এক মঞ্চে দেব-শুভশ্রী, বড় ধামাকার আগে রাজ-রুক্মিণীকে বিশেষ ধন্যবাদ জানালেন নায়িকা। লাইভে শুভশ্রী অত্যন্ত স্পষ্ট ভাষায় জানান, তিনি বা দেব কেউই অতীত নিয়ে পড়ে থাকতে চান না। ফ্যানেদের অনুরোধ করেন, দয়া করে আমাদের সঙ্গীদের নিয়ে কোনো কুরুচিকর মন্তব্য বা ব্যক্তিগত আক্রমণ করবেন না।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/dev-subhashree-on-past-relationship-and-partners-raj-rukmini_636243.html ",
-    "time": "2026-01-19T14:24:48.000Z"
   }
 ];

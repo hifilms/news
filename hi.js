@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'He plays that high-risk game: Ajinkya Rahane advises India to prepare around star batter ahead of T20 WC 2026",
+    "desc": "The stage is set for the T20 World Cup 2026. The marquee tournament is slated to be held in India and Sri Lanka and will kick off on February 7. Ahead of the tournament, it...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/he-plays-that-high-risk-game-ajinkya-rahane-advises-india-to-prepare-around-star-batter-ahead-of-t20-wc-2026-2026-01-29-1027961",
+    "time": "2026-01-29T06:21:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shivam Dube equals Rohit Sharma in elite list with squashbuckling knock against New Zealand in fourth T20I",
+    "desc": "The fourth T20I of the ongoing series between India and New Zealand saw the visitors register a brilliant victory. The two sides locked horns at the Dr Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam, on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shivam-dube-equals-rohit-sharma-in-elite-list-with-squashbuckling-knock-against-new-zealand-in-fourth-t20i-2026-01-29-1027953",
+    "time": "2026-01-29T05:20:14.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Bangladesh's shooting delegation set to travel to India for Asian Air Gun Championship amid T20 WC controversy",
     "desc": "The Bangladesh government has authorised its shooters to travel to India for next month's Asian Air Gun Championship. It is worth noting that the tournament will be held at the Dr Karni Singh Range from...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-go-down-to-new-zealand-in-fourth-t20i-as-shivam-dubes-knock-goes-in-vain-2026-01-28-1027898",
     "time": "2026-01-28T17:06:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh, Netherlands qualify for Women's T20 World Cup 2026 in England",
-    "desc": "Bangladesh and the Netherlands have booked their spots at the 2026 Women’s T20 World Cup following commanding displays at the qualifying tournament in Nepal. The victories mark a historic achievement for the Netherlands, who will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-netherlands-qualify-for-women-s-t20-world-cup-2026-in-england-2026-01-28-1027896",
-    "time": "2026-01-28T16:58:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are 18 matches in UEFA Champions League set to begin at same time?",
-    "desc": "European football’s premier club competition, the UEFA Champions League, has scheduled all 18 of its final league‑phase matches to kick off simultaneously, an unusual sight for fans and broadcasters alike. This decisive matchday marks the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-are-18-matches-in-uefa-champions-league-set-to-begin-at-same-time-2026-01-28-1027891",
-    "time": "2026-01-28T15:36:53.000Z"
   }
 ];

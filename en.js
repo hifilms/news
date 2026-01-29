@@ -1,7 +1,169 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "‘Bridgerton Season 4’ cast salaries: All you need to know",
+    "desc": "Fans are buzzing about 'Bridgerton Season 4' cast salaries, with Julie Andrews reportedly earning a staggering £1 million as Lady Whistledown. Leading actors like Jonathan Bailey and Nicola Coughlan are also commanding substantial per-episode fees, reflecting the show's immense popularity and the stars' growing importance. Newcomers like Yerin Ha are set to earn well too.",
+    "img": "https://static.toiimg.com/photo/msid-127760636,imgsize-111668.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-season-4-cast-salaries-the-highest-paid-actor-earns-1-million-pounds-its-not-the-star-you-might-expect/articleshow/127760154.cms",
+    "time": "2026-01-29T06:35:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Emotions are felt rather than spoken'",
+    "desc": "Aditi Rao Hydari’s silent film 'Gandhi Talks' marks a bold yet natural creative step. Co-starring Vijay Sethupathi and Arvind Swami, the film explores emotion through silence with A.R. Rahman’s music as its voice. Directed by Kishor Pandurang Belekar, the drama releases worldwide on January 30, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-127760577,imgsize-26154.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditi-rao-hydari-on-her-silent-film-gandhi-talks-with-vijay-sethupati-and-arvind-swamy-emotions-are-felt-rather-than-spoken/articleshow/127760577.cms",
+    "time": "2026-01-29T06:33:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Sentenced to Be a Hero’ episode 4: Release time and plot details",
+    "desc": "In the thrilling new chapter of 'Sentenced to Be a Hero,' Episode 4 invites us into the enigmatic Murid Fortress. XYlo and his crew confront shocking revelations about Goddess Teoritta and the tangled web of ambitions within the military and temple.",
+    "img": "https://static.toiimg.com/photo/msid-127760076,imgsize-1171088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/anime/sentenced-to-be-a-hero-episode-4-release-time-schedule-and-what-to-expect/articleshow/127760076.cms",
+    "time": "2026-01-29T06:31:32.000Z"
+  },
+  {
     "cat": "Sports",
-    "title": "‘Players upgrade… I can’t be the same’: 'Smarter' Shivam Dube sends warning to bowlers",
+    "title": "‘Mujhe Virat jaisa banna hai’: Vihaan Malhotra — academic ace, crisis man &amp; future Kohli teammate",
+    "desc": "Nine-year-old Vihaan Malhotra's dream to play with Virat Kohli has materialised as he was bought by Royal Challengers Bengaluru for Rs 30 lakh in the IPL 2026 auction. The 19-year-old, India's only centurion in the ongoing U-19 World Cup, has transformed into an all-dimensional player, impressing with his batting, bowling, and fielding.",
+    "img": "https://static.toiimg.com/photo/msid-127760042,imgsize-44480.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mujhe-virat-kohli-jaisa-banna-hai-meet-vihaan-malhotra-academic-ace-crisis-man-and-future-kohli-teammate-exclusive/articleshow/127759723.cms",
+    "time": "2026-01-29T06:28:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'We failed our customers': Why IndiGo CEO says December disruptions lasted only 'three days'",
+    "desc": "IndiGo CEO Pieter Elbers addressed recent flight disruptions. He stated the airline failed customers for three days but stressed this should not overshadow 20 years of legacy. Operations stabilized within nine days. The DGCA imposed penalties following widespread cancellations and delays affecting over three lakh passengers. IndiGo carried 124 million passengers last year, operating over 2,200 flights daily.",
+    "img": "https://static.toiimg.com/photo/msid-127760716,imgsize-553200.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/we-failed-our-customers-why-indigo-ceo-says-december-disruptions-lasted-only-three-days/articleshow/127759040.cms",
+    "time": "2026-01-29T06:28:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee returns to red! Currency falls to 92 per US Dollar",
+    "desc": "The rupee hit a record low of 92.00 against the US dollar on Thursday morning due to sustained greenback demand and a cautious global market. Heightened geopolitical tensions and rising crude oil prices, exacerbated by US warnings to Iran, are pressuring emerging market currencies. Domestic equities also opened lower, reflecting investor caution.",
+    "img": "https://static.toiimg.com/photo/msid-127759642,imgsize-34240.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-returns-to-red-currency-falls-to-92-per-us-dollar/articleshow/127759288.cms",
+    "time": "2026-01-29T06:17:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suniel reveals he’ll watch Border 2 only after it crosses Rs 500 cr",
+    "desc": "Suniel Shetty revealed he hasn’t watched 'Border 2', starring his son Ahan Shetty, despite attending the premiere. The actor made an emotional vow to see it only after it crosses ₹500 crore worldwide. He hopes to celebrate the milestone by watching it with Ahan, family, and co-stars Sunny Deol and Varun Dhawan.",
+    "img": "https://static.toiimg.com/photo/msid-127759353,imgsize-16978.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shetty-reveals-hell-watch-border-2-only-after-it-crosses-rs-500-crore-i-had-kept-a-mannat-for-ahan/articleshow/127759353.cms",
+    "time": "2026-01-29T06:13:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India–EU FTA: A calculated leap beyond comfort zones",
+    "desc": "The FTA demonstrates India’s willingness to move beyond its comfort zone by committing to deep market access, predictable rules, and modern trade disciplines, while still protecting sensitive sectors such as dairy and select agricultural products.",
+    "img": "https://static.toiimg.com/photo/msid-127759092,imgsize-72068.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indiaeu-fta-a-calculated-leap-beyond-comfort-zones/articleshow/127759035.cms",
+    "time": "2026-01-29T06:04:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ashutosh Rana backs Deepika Padukone in the 8-hour shift demand",
+    "desc": "Veteran actor Ashutosh Rana has voiced his support for Deepika Padukone's demand for an eight-hour work shift in the film industry. Rana believes that exceeding this limit negatively impacts an artist's creative process and the overall quality of work. He emphasized the importance of pre-production clarity and efficient planning to achieve desired results within the stipulated time.",
+    "img": "https://static.toiimg.com/photo/msid-127759061,imgsize-27850.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ashutosh-rana-supports-deepika-padukone-in-the-8-hour-shift-demand-says-it-affects-the-quality-of-your-work/articleshow/127758711.cms",
+    "time": "2026-01-29T06:03:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jeethu Joseph says authenticity trumps style",
+    "desc": "Get ready for 'Drishyam 3' as Mohanlal returns to theatres worldwide on April 2, 2026. Director Jeethu Joseph revealed the film delves into Georgekutty's life four and a half years later, set in rural Idukki. Joseph explained his preference for authentic visuals over stylish ones, ensuring the story's integrity. Filmed across Thodupuzha, Vagamon, and Ernakulam, Mohanlal has completed his scenes.",
+    "img": "https://static.toiimg.com/photo/msid-127758059,imgsize-109066.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/jeethu-joseph-on-mohanlals-drishyam-3-a-story-set-in-rural-idukki-cant-look-like-a-scandinavian-thriller/articleshow/127758059.cms",
+    "time": "2026-01-29T05:45:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bridgerton RECAP; Taylor Swift-led soundtrack unveiled",
+    "desc": "Get ready for a new season of 'Bridgerton' as it returns to Netflix on January 29th. This installment focuses on Benedict Bridgerton's search for love, featuring a Cinderella-esque storyline. The soundtrack will include covers of Taylor Swift's \"Enchanted,\" Olivia Rodrigo's \"Bad Idea Right,\" and more, promising a captivating viewing experience.",
+    "img": "https://static.toiimg.com/photo/msid-127757871,imgsize-28818.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-season-4-cast-give-recap-ahead-of-series-premiere-taylor-swift-olivia-rodrigo-soundtrack-revealed/articleshow/127757695.cms",
+    "time": "2026-01-29T05:39:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Washington fitness test likely on Feb 4 as selectors delay T20 WC contingency plans",
+    "desc": "Washington Sundar's T20 World Cup participation hangs in the balance as he faces a crucial fitness test on February 4th. Recovering from a side strain sustained on January 11th, his availability remains uncertain. The team management is awaiting medical updates before considering backup options, with potential replacements like Riyan Parag in contention.",
+    "img": "https://static.toiimg.com/photo/msid-127757866,imgsize-51492.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/washington-sundar-fitness-test-likely-on-feb-4-as-selectors-delay-t20-world-cup-contingency-plans/articleshow/127757819.cms",
+    "time": "2026-01-29T05:36:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Delhi HC rejects Sameer Wankhende's defamation plea",
+    "desc": "The Delhi High Court has dismissed a petition filed by IRS officer Sameer Wankhede. Wankhede had sought to remove scenes from the web series 'The Ba***ds of Bollywood'. He alleged defamation through his portrayal in the show. The court's decision means the series can continue without changes. The series marks Aryan Khan's directorial debut.",
+    "img": "https://static.toiimg.com/photo/msid-127757807,imgsize-38428.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/delhi-hc-rejects-sameer-wankhendes-defamation-plea-against-shah-rukh-khan-aryan-khans-the-bads-of-bollywood/articleshow/127757625.cms",
+    "time": "2026-01-29T05:35:34.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "No good roads, no toll: When Supreme Court backed commuters, upheld toll suspension",
+    "desc": "Dismissing a batch of appeals filed by the National Highways Authority of India (NHAI) and its concessionaire, a Constitution Bench led by Chief Justice B.R. Gavai, along with Justice K. Vinod Chandran and Justice N.V. Anjaria, upheld the Kerala High Court’s decision to suspend toll collection for four weeks on a congested stretch of National Highway between Ernakulam and Mannuthy.",
+    "img": "https://static.toiimg.com/photo/msid-127757607,imgsize-178324.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/legal/news/no-good-roads-no-toll-when-supreme-court-backed-commuters-upheld-toll-suspension/articleshow/127757499.cms",
+    "time": "2026-01-29T05:30:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harassment accused, out on bail, accompanies team to World Cup qualifiers",
+    "desc": "An Equestrian Federation of India (EFI) executive member, accused of sexual harassment and out on bail, has travelled to Jordan for World Cup qualifiers as manager-cum-coach. The International Tent Pegging Federation (ITPF) has written to EFI seeking an explanation for his inclusion, following a parent's safety concerns for junior riders.",
+    "img": "https://static.toiimg.com/photo/msid-127756616,imgsize-16126.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/harassment-accused-out-on-bail-accompanies-team-to-world-cup-qualifiers/articleshow/127756520.cms",
+    "time": "2026-01-29T05:07:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rahul seeks early start to talks on TN seat sharing as Kanimozhi calls on him",
+    "desc": "Congress urged DMK to begin delayed seat-sharing talks for the upcoming Tamil Nadu elections during a meeting between Rahul Gandhi and Kanimozhi. While expressing respect, the DMK was encouraged to engage with the Congress committee, which has been awaiting discussions for two months. The Congress has reportedly proposed 41 seats, a demand the DMK is hesitant to meet.",
+    "img": "https://static.toiimg.com/photo/msid-127756091,imgsize-47492.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rahul-seeks-early-start-to-talks-on-tn-seat-sharing-as-kanimozhi-calls-on-him/articleshow/127756164.cms",
+    "time": "2026-01-29T04:55:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Soul Mate' release date, plot, and all you need to know",
+    "desc": "K-pop star Ok Taecyeon and Japanese actor Hayato Isomura's LGBTQ+ drama 'Soul Mate' is set to premiere on May 14. The series chronicles the decade-long journey of a Korean boxer and a troubled young man whose chance encounter blossoms into a profound bond, helping them heal each other's pain and loneliness across Berlin, Seoul, and Tokyo.",
+    "img": "https://static.toiimg.com/photo/msid-127754423,imgsize-60890.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/soul-mate-ok-taecyeon-and-hayato-isomura-drama-release-date-plot-cast-and-everything-you-need-to-know/articleshow/127753350.cms",
+    "time": "2026-01-29T04:37:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Barbara Corcoran's hilarious reason for faking her death",
+    "desc": "Real estate mogul Barbara Corcoran pulled off an unforgettable birthday surprise for her 70th by hosting her own 'funeral.' For ten suspenseful minutes, she lay inside a coffin as her friends shared tearful tributes, believing they were honoring her memory.",
+    "img": "https://static.toiimg.com/photo/msid-127754801,imgsize-974579.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/shark-tank-star-barbara-corcoran-reveals-why-she-faked-her-death-and-its-all-things-hilarious/articleshow/127754801.cms",
+    "time": "2026-01-29T04:24:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Players upgrade… I can’t be the same’: 'Smarter' Dube sends warning to bowlers",
     "desc": "Shivam Dube showcased a significant T20 evolution with a blistering 65 off 23 balls against New Zealand. He attributed his enhanced performance to consistent opportunities, a sharper mindset, and increased comfort against pace. Dube emphasized his growth through experience, aiming to be a smarter player with each match, focusing on dominating rather than milestones.",
     "img": "https://static.toiimg.com/photo/msid-127754746,imgsize-76854.cms",
     "src": "indiatimes.com",
@@ -16,6 +178,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/english/where-kim-kardashian-and-larsa-pippen-stand-after-their-rumored-feud-all-you-need-to-know/articleshow/127753640.cms",
     "time": "2026-01-29T03:54:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Nifty50 trades below 25,200; BSE Sensex plunges over 500 points",
+    "desc": "Indian equity benchmarks Nifty50 and BSE Sensex opened lower on Thursday amid weak global cues. Despite a subdued Wall Street performance and unchanged US Federal Reserve interest rates, gold continued its record-setting run. Foreign portfolio investors were net buyers, with domestic institutional investors providing stronger support.",
+    "img": "https://static.toiimg.com/photo/msid-127750747,imgsize-82718.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-january-29-2026-dalal-street-indian-equities-global-markets-india-eu-fta/articleshow/127750574.cms",
+    "time": "2026-01-29T03:48:12.000Z"
   },
   {
     "cat": "Business",
@@ -136,30 +307,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Marriage is more than just two people",
-    "desc": "Actress Archana Kavi found profound happiness in her marriage to Rick Varghese, not just gaining a husband but a loving family. She shared an emotional social media post detailing the acceptance and affection she receives from her in-laws, likening it to being a daughter.",
-    "img": "https://static.toiimg.com/photo/msid-127748848,imgsize-48716.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/this-is-every-girls-dream-archana-kavi-on-marriage-shares-emotional-note-about-in-laws/articleshow/127748848.cms",
-    "time": "2026-01-29T01:52:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Reports",
     "desc": "Comedian Rob Schneider and his wife, TV producer Patricia, are parting ways after a fifteen-year journey together. Patricia took the step to file for divorce in Arizona, stating that the marriage is 'irretrievably broken.' As they navigate this challenging transition, the couple is reportedly working through custody details for their two daughters.",
     "img": "https://static.toiimg.com/photo/msid-127748930,imgsize-52670.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rob-schneider-and-wife-patricia-file-for-divorce-after-15-years-of-marriage-reports/articleshow/127748045.cms",
     "time": "2026-01-29T01:52:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Velpari': Shankar's dream project budget tightened",
-    "desc": "Director Shankar's ambitious 'Velpari' project has finally secured a producer after years of delays. Despite past budget overruns, a major production house is set to bankroll the three-part fantasy historical film, based on Su Venkatesan’s novel. Strict budget and schedule conditions have been imposed on Shankar, who is currently in pre-production for the epic tale of the legendary Tamil ruler.",
-    "img": "https://static.toiimg.com/photo/msid-127748211,imgsize-47372.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/velpari-update-shankars-dream-project-gets-backing-with-tight-budget-limits-reports/articleshow/127748211.cms",
-    "time": "2026-01-29T01:34:09.000Z"
   },
   {
     "cat": "World",
@@ -172,48 +325,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Chatha Pacha' BO day 7: Mammootty’s film sees drop",
-    "desc": "The Ring of Rowdies' shows a declining box office trend, collecting Rs 46 lakhs on its seventh day. Despite a decent first week totaling Rs 12.75 crore, recent days saw significant drops. Positive social media buzz highlights strong performances, particularly from Vishak Nair, and impressive technical aspects, though audience turnout remains a concern.",
-    "img": "https://static.toiimg.com/photo/msid-127747364,imgsize-68058.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/chatha-pacha-box-office-collections-day-7-mammoottys-film-sees-drop-just-rs-46-lakhs-earned/articleshow/127747364.cms",
-    "time": "2026-01-29T01:10:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Henry Cavill unveils FIRST LOOK of 'Highlander'",
-    "desc": "Henry Cavill has unveiled his first look as Connor MacLeod in the upcoming 'Highlander' reboot, sharing striking images from filming locations in Hong Kong and New York. This marks Cavill's return to a sword-wielding role after 'The Witcher'. The film, directed by Stahelski, sees Cavill as an ancient immortal warrior drawn back into a deadly battle.",
-    "img": "https://static.toiimg.com/photo/msid-127747122,imgsize-28758.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/henry-cavill-shares-highlander-first-look-gives-fans-glimpse-of-reboot-by-john-wick-director-chad-stahelski/articleshow/127745433.cms",
-    "time": "2026-01-29T01:04:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Border 2' box office collection day 6",
     "desc": "The patriotic drama 'Border 2' is dominating the box office, nearing Rs 300 crore globally. After a stellar opening, the film has amassed over Rs 213 crore net in India within six days. Despite a weekday dip, its powerful narrative and action sequences continue to draw audiences, promising further milestones.",
     "img": "https://static.toiimg.com/photo/msid-127746978,imgsize-44560.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-6-the-sunny-deol-varun-dhawan-ahan-shetty-film-eyes-rs-300-crore-worldwide/articleshow/127746918.cms",
     "time": "2026-01-29T00:59:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Parasakthi' BO day 19: SK film collects just Rs 2 lakhs",
-    "desc": "Sivakarthikeyan's 'Parasakthi' has seen a significant drop in box office collections, earning a mere Rs 2 lakhs on its 19th day. Despite a strong opening and decent performance in the first two weeks, the film's momentum has waned, with many theaters now experiencing empty seats. The movie has garnered Rs 84.55 crore worldwide, with Tamil Nadu being its primary market.",
-    "img": "https://static.toiimg.com/photo/msid-127746838,imgsize-73234.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-box-office-collections-day-19-sivakarthikeyan-film-collects-just-rs-2-lakhs/articleshow/127746838.cms",
-    "time": "2026-01-29T00:57:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Raja Saab' BO day 20: Film collects 206.75 cr worldwide",
-    "desc": "Prabhas' horror-comedy 'The Raja Saab' is nearing the end of its theatrical run, collecting a meager Rs 34 lakhs worldwide on its 20th day. The film has amassed Rs 206.75 crore globally, with Telugu collections leading.",
-    "img": "https://static.toiimg.com/photo/msid-127746215,imgsize-87514.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-box-office-collections-day-20-prabhas-horror-comedy-collects-206-75-cr-worldwide/articleshow/127746215.cms",
-    "time": "2026-01-29T00:42:44.000Z"
   },
   {
     "cat": "Sports",
@@ -223,24 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/not-feeling-supported-and-respected-yuvraj-singh-makes-shocking-revelation-discloses-why-he-left-cricket/articleshow/127718931.cms",
     "time": "2026-01-29T00:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nominees, streaming details revealed",
-    "desc": "The 2026 Grammy Awards are set for a star-studded return, featuring performances by Sabrina Carpenter and Justin Bieber, including all Best New Artist nominees. Kendrick Lamar leads with nine nominations. Trevor Noah hosts for his final time, promising a night of history-making moments and exciting results for music's biggest night.",
-    "img": "https://static.toiimg.com/photo/msid-127744036,imgsize-106416.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/grammy-awards-2026-nominees-performers-host-when-and-where-to-stream-musics-biggest-night/articleshow/127742542.cms",
-    "time": "2026-01-28T23:51:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Stranger Things' conspiracy theories explored",
-    "desc": "The intrigue surrounding Vecna's decision to spare Nancy in Stranger Things Season 4 is generating a storm of fan theories. Some believe he saw lurking potential in her as a strategic accomplice, while others think he found joy in her psychological suffering.",
-    "img": "https://static.toiimg.com/photo/msid-127692803,imgsize-33598.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/stranger-things-conspiracy-theories-why-did-vecna-leave-nancy-alive-fan-theories-that-fit-the-puzzle-right/articleshow/127692439.cms",
-    "time": "2026-01-28T23:47:02.000Z"
   },
   {
     "cat": "Sports",
@@ -261,15 +360,6 @@ const newsData_en = [
     "time": "2026-01-28T23:30:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Zendaya asked Sydney to keep distance from Tom?",
-    "desc": "Whispers suggest a rift between 'Euphoria' stars Zendaya and Sydney Sweeney, fueled by unverified claims of discomfort over Tom Holland's interactions with Sweeney on set. Amidst wedding preparations for Zendaya and Holland, these rumours precede the highly anticipated Season 3 premiere.",
-    "img": "https://static.toiimg.com/photo/msid-127739137,imgsize-41014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zendaya-asked-sydney-sweeney-to-keep-her-distance-from-tom-holland-ahead-of-euphoria-season-3-release/articleshow/127739059.cms",
-    "time": "2026-01-28T22:49:12.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Federal Reserve keeps interest rates unchanged even as Trump continues to insist they be lowered",
     "desc": "A key issue facing the Fed rate-setting committee is how long it will remain on hold; they remain split between those officials opposed to further cuts until inflation comes down and those who want to lower rates to further support hiring",
@@ -277,15 +367,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/federal-reserve-keeps-interest-rates-unchanged-even-as-trump-continues-to-insist-they-be-lowered/article70562913.ece",
     "time": "2026-01-28T22:04:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Why Salman Khan deserved more love",
-    "desc": "In a career spanning over three decades, Salman Khan has become synonymous with swagger, mass appeal, and larger-than-life heroism. From action-packed blockbusters to whistle-worthy punchlines, his stardom has often been powered by spectacle. Yet, hidden beneath the loud triumphs is a film that dared to be soft, vulnerable, and deeply human — Tubelight (2017).",
-    "img": "https://static.toiimg.com/photo/msid-127731797,imgsize-30774.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/revisiting-tubelight-why-salman-khans-most-tender-performance-deserved-more-love/articleshow/127731630.cms",
-    "time": "2026-01-28T20:02:40.000Z"
   },
   {
     "cat": "Politics",
@@ -369,15 +450,6 @@ const newsData_en = [
     "time": "2026-01-28T15:55:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'No security threat here': Bangladesh questions India's move to recall diplomats' families",
-    "desc": "Bangladesh’s foreign affairs Adviser Md Touhid Hossain on Wednesday said that there was “no reason” for India to recall the family members of its diplomats from Dhaka. This comes after New Delhi cited precautionary safety concerns amid rising extremist activity ahead of the country’s general elections scheduled for February 2026.",
-    "img": "https://static.toiimg.com/photo/msid-127717287,imgsize-966716.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-security-threat-here-bangladesh-questions-indias-move-to-recall-diplomats-families/articleshow/127717395.cms",
-    "time": "2026-01-28T15:50:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ISL gets tentative fixtures but relegation remains a question mark",
     "desc": "The 2025-26 season of the Indian Super League (ISL) will get underway on February 14 with a double-header in Kolkata and Goa. As the hunt for a broadcaster and commercial partner continues, it remains unclear if the truncated season will witness relegation by the end of it.",
@@ -385,33 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/news/isl-gets-tentative-fixtures-but-relegation-remains-a-question-mark/articleshow/127715865.cms",
     "time": "2026-01-28T15:26:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘Just about dotting Is, crossing the Ts’: India-US trade deal may be ‘finalised any day now’: Report",
-    "desc": "​The India-US trade deal aims to more than double two way trade from the current level of $191 billion to $500 billion by 2030. Initial discussions on the agreement were announced during Prime Minister Modi’s visit to Washington in February 2025.",
-    "img": "https://static.toiimg.com/photo/msid-127715809,imgsize-41282.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/just-about-dotting-is-crossing-the-ts-india-us-trade-deal-may-be-finalised-any-day-now-report/articleshow/127715709.cms",
-    "time": "2026-01-28T15:26:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Probe ordered into livestreaming of tiff between doctors and BJP MLA in Udhampur",
-    "desc": "Several doctors object to theProbe ordered into livestreaming of tiff between doctors and BJP MLA in Udhampur, which evoked sharp reactions from netizens online; Deputy CM Surinder Choudhary warns of action against employees ‘ignoring elected representatives’",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/probe-ordered-into-livestreaming-of-tiff-between-doctors-and-bjp-mla-in-udhampur/article70561647.ece",
-    "time": "2026-01-28T15:26:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "S&amp;P 500 crosses 7,000 for first time; tech stocks, AI optimism keep Wall Street buoyant",
-    "desc": "Indian markets are buzzing as the S&P 500 crossed 7,000 for the first time, fueled by AI optimism and strong tech earnings. Investors are betting on future monetary easing, with Nvidia leading the charge. Gold prices also hit new highs, while overseas markets showed mixed performance.",
-    "img": "https://static.toiimg.com/photo/msid-127715581,imgsize-1284863.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-markets-today-sp-500-crosses-7000-for-first-time-tech-stocks-ai-optimism-keep-wall-street-buoyant/articleshow/127715528.cms",
-    "time": "2026-01-28T15:18:28.000Z"
   },
   {
     "cat": "Sports",
@@ -460,15 +505,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "After playing with Kohli and Rohit, Sarfaraz opens up on Dhoni association",
-    "desc": "Sarfaraz Khan expressed excitement about playing alongside MS Dhoni at CSK in IPL 2026 after previously featuring with Virat Kohli and Rohit Sharma. Bought for Rs 75 lakh, the in-form Mumbai batter reflected on his recent double century, recovery from a tough injury layoff, and his focus on improving in white-ball cricket with the aim of representing India.",
-    "img": "https://static.toiimg.com/photo/msid-127710291,imgsize-21860.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/after-playing-with-virat-kohli-and-rohit-sharma-sarfaraz-khan-opens-up-on-ms-dhoni-association-at-csk-very-lucky/articleshow/127709686.cms",
-    "time": "2026-01-28T13:45:59.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Inspired by Kapil Dev, how a Chandigarh coach produced two world-class all-rounders",
     "desc": "From Kapil Dev to Yuvraj Singh and now Amanjot Kaur, Chandigarh has produced three World Cup-winning all-rounders. At the heart of the city’s latest success story is coach Nagesh Gupta, who nurtured Amanjot and Kashvee Gautam from raw bowlers into elite seam-bowling all-rounders, blending skill, resilience and a long-term vision.",
     "img": "https://static.toiimg.com/photo/msid-127709387,imgsize-38010.cms",
@@ -493,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/from-basketball-great-kobe-bryant-to-entire-football-team-remembering-deadly-air-tragedies-in-sports-history/articleshow/127700492.cms",
     "time": "2026-01-28T13:05:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Novak Djokovic is playing on house money at the Australian Open",
-    "desc": "Novak Djokovic reached the Australian Open semifinals. His opponent, Lorenzo Musetti, retired hurt while leading two sets to love. Djokovic will now face Jannik Sinner in the last four. Sinner has won their last five encounters. Djokovic acknowledges Sinner as the favourite but is motivated for the match.",
-    "img": "https://static.toiimg.com/photo/msid-127704227,imgsize-28262.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/novak-djokovic-is-playing-on-house-money-at-the-australian-open/articleshow/127702494.cms",
-    "time": "2026-01-28T12:05:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -756,15 +783,6 @@ const newsData_en = [
     "time": "2026-01-24T13:04:07.000Z"
   },
   {
-    "cat": "Business",
-    "title": "U.S. Treasury Secretary hints at possible tariff relief for India as Russian oil imports drop",
-    "desc": "Indian purchases by ​their refineries of ⁠Russian oil have collapsed. So that is a success. The tariffs are still on, ‌25% tariffs for Russian oil ‌are still on. I would imagine there ‍is a path to take them off, says U.S. Treasury Secretary ‍Scott Bessent",
-    "img": "https://th-i.thgim.com/public/incoming/lnh550/article70545957.ece/alternates/LANDSCAPE_1200/2026-01-21T112124Z_2084180953_RC2M5JA5RBUD_RTRMADP_3_DAVOS-MEETING-DEUTSCHE-BANK-BESSENT.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/us-treasury-secretary-hints-at-possible-tariff-relief-for-india-as-russian-oil-imports-drop/article70545926.ece",
-    "time": "2026-01-24T10:50:42.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Music composer Bharadwaj interview: My success story",
     "desc": "In an interview to ‘The Hindu’ for the ‘This Changed my Life’ podcast, music composer Bharadwaj looks back at the time when he entered the film industry. He also talks about his experiences of working with director Saran and actor Ajith Kumar, with whom he forged a superhit combination, and why he currently loves music composer Anirudh.",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
   }
 ];
