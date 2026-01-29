@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sophie Molineux announced as Australia women's new all-format captain",
+    "desc": "Cricket Australia recently came forward and announced that 28-year-old bowling all-rounder Sophie Molineux will be the new all-format captain of the Australia women’s side. Molineux will be succeeding Alyssa Healy in the role. She will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sophie-molineux-announced-as-australia-women-s-new-all-format-captain-2026-01-29-1027918",
+    "time": "2026-01-29T01:21:49.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Undefeated Australia storm into U19 World Cup 2026 semifinals after beating West Indies",
     "desc": "Australia have made it to the semifinals of the U19 World Cup 2026 after defeating West Indies in their last Super Six match in Group 1 at the Harare Sports Club, Harare. Led by a...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/axar-patel-update-when-will-star-all-rounder-return-to-indias-playing-xi-suryakumar-yadav-opens-up-2026-01-28-1027878",
     "time": "2026-01-28T14:26:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Varun Chakravarthy not playing 4th T20I vs New Zealand in Visakhapatnam?",
-    "desc": "India have once again left Varun Chakravarthy out of the playing XI for the fourth T20I against New Zealand at Visakhapatnam’s ACA-VDCA Stadium. The spinner took three wickets across the first two T20Is, but since...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-varun-chakravarthy-not-playing-4th-t20i-vs-new-zealand-in-visakhapatnam-2026-01-28-1027873",
-    "time": "2026-01-28T13:36:13.000Z"
   }
 ];
