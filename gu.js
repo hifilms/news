@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "1 ફેબ્રુઆરીથી બદલાઈ જશે આ 5 મોટા નિયમો, LPG થી લઈને FASTag સુધી શું પડશે અસર?",
+    "desc": "1 ફેબ્રુઆરી 2026થી દેશભરમાં ઘણા મહત્વપૂર્ણ નિયમોમાં ફેરફાર થવાની તૈયારીમાં છે. બજેટના દિવસે અમલમાં આવનારા આ ફેરફારોમાં LPG સિલિન્ડરના ભાવ, પાન-મસાલા અને સિગારેટ પરનો ટેક્ષ, FASTag નિયમો અને બેંક રજાઓનો સમાવેશ થાય છે. આ નિયમો સામાન્ય લોકોના ખિસ્સા અને રોજિંદા જીવન પર સીધી અસર કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/rule-change-five-major-rules-will-change-from-1st-february-what-will-be-affected-from-lpg-to-fastag-and-more-463246 ",
+    "time": "2026-01-29T08:39:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "બસ હવે બહુ થયું ! આ ખેલાડી પ્લેઈંગ-11માંથી થશે બહાર, છેલ્લી 15 ઈનિંગમાં રહ્યો છે ફ્લોપ",
+    "desc": "T20 વર્લ્ડ કપ 2026 માટે ટીમ ઈન્ડિયા સંપૂર્ણપણે તૈયાર છે. 7 ફેબ્રુઆરીથી આ ટુર્નામેન્ટ શરૂ થઈ રહી છે, પરંતુ આ મેગા ઇવેન્ટ પહેલા ભારતીય ટીમનો એક સ્ટાર બેટ્સમેન ખરાબ ફોર્મમાં ચાલી રહ્યો છે, જેના કારણે તે પ્લેઇંગ ઇલેવનમાંથી બહાર થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-sanju-samson-can-dropped-team-india-playing-11-463240 ",
+    "time": "2026-01-29T08:26:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "બોલીવુડ સ્ટાર્સ કરતાં પણ વધારે છે અરિજીત સિંહની નેટવર્થ, લાઈવ કોન્સર્ટનો ચાર્જ હોય છે કરોડોમાં",
+    "desc": "જ્યારથી અરિજીત સિંહએ જાહેર કર્યું છે કે તે હવેથી ફિલ્મી ગીતો નહીં કરે ત્યારથી અરિજીત સિંહ ચર્ચામાં છે. અરિજીત સિંહ પોપ્યુલર સિંગર છે પરંતુ તે લાઈમલાઈટથી દુર રહે છે. તેથી તેની લાઈફસ્ટાઈલ વિશે ખૂબ ઓછા લોકો જાણે છે. તો ચાલો આજે તમને જણાવીએ અરિજીત સિંહની લક્ઝરી લાઈફસ્ટાઈલ વિશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/arijit-singh-one-song-fee-arijit-live-show-cost-lifestyle-and-net-worth-of-singer-arijit-singh-463232 ",
+    "time": "2026-01-29T07:17:14.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "T20 વર્લ્ડ કપ પહેલા ક્રિકેટ જગતમાં ભૂકંપ ! મેચ ફિક્સિંગમાં ફસાયો સ્ટાર ક્રિકેટર, ICCએ કર્યો સસ્પેન્ડ",
     "desc": "ICC અને ક્રિકેટ વેસ્ટ ઈન્ડિઝ (CWI)એ એક આંતરરાષ્ટ્રીય ક્રિકેટરને મેચ ફિક્સિંગના પાંચ ગંભીર આરોપોમાં દોષિત ઠેરવ્યો છે. આરોપો લાગ્યા બાદ તેને તાત્કાલિક તમામ પ્રકારની ક્રિકેટમાંથી સસ્પેન્ડ કરી દેવામાં આવ્યો છે. આ ખેલાડી 2026ના T20 વર્લ્ડ કપ માટેની તૈયારીઓનો ભાગ હતો, પરંતુ હવે તે ટીમની પસંદગીમાંથી બહાર થઈ ગયો છે.",
@@ -151,15 +178,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/england-vs-sri-lanka-3rd-odi-harry-brook-smashed-century-463158 ",
     "time": "2026-01-28T10:48:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "શરદ પવારની છત્રછાયામાંથી બહાર નીકળી અજિત પવાર કઈ રીતે બન્યા મહારાષ્ટ્રના રાજકારણના &amp;#039;દાદા&amp;#039;",
-    "desc": "શરદ પવારની આંગળી પકડીને રાજકારણમાં પ્રવેશેલા અજિત પવારના જીવનમાં એવું તે શું થયું કે તેમણે પિતા સમાન કાકા સામે બળવો પોકાર્યો અને અલગ વાટ પકડી લીધી? છવાર ડેપ્યુટી સીએમ બનેલા અજિત પવારના જીવનની આ ઘટના વિશે જાણવા જેવું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/how-ajit-pawar-emerged-from-sharad-pawar-shadow-and-became-the-dada-of-maharashtra-politics-463134 ",
-    "time": "2026-01-28T10:15:45.000Z"
   },
   {
     "cat": "Business",
@@ -396,15 +414,6 @@ const newsData_gu = [
     "time": "2026-01-26T17:36:07.000Z"
   },
   {
-    "cat": "Business",
-    "title": "બજેટમાં મિડિલ ક્લાસને લાગી શકે છે ઝટકો, સરકારનું આ બાબતો પર ફોકસ !",
-    "desc": "2026નું કેન્દ્રીય બજેટ નજીક આવતાની સાથે જ પગારદાર અને મધ્યમ વર્ગના કરદાતાઓની અપેક્ષાઓ ફરી વધી છે. ફુગાવા, વધતા EMI અને દૈનિક ખર્ચ વચ્ચે, લોકો ઇચ્છે છે કે સરકાર આ વખતે નોંધપાત્ર આવકવેરામાં રાહત આપે, જેનાથી તેમનો રોકડ પ્રવાહ વધે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/the-middle-class-may-face-a-setback-in-the-budget-government-focus-on-these-things-462997 ",
-    "time": "2026-01-26T14:03:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "સંજુ સેમસન માટે સારા સમાચાર, ખરાબ ફોર્મ છતાં ટીમમાંથી નહીં થાય બહાર, જાણો શું છે કારણ",
     "desc": "ભારત અને ન્યુઝીલેન્ડ વચ્ચે પાંચ મેચની ટી20 શ્રેણીની ચોથી મેચ 28 જાન્યુઆરીએ વિશાખાપટ્ટનમમાં રમાશે. આ મેચ પહેલા તિલક વર્માની ઈજા અંગે એક અપડેટ સામે આવ્યું છે, જે સંજુ સેમસન માટે એક તક લઈને આવ્યું છે.",
@@ -457,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/serious-accusation-against-dhurandhar-film-actor-nadeem-khan-physical-abuse-of-house-maid-462935 ",
     "time": "2026-01-26T06:18:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "આ ખેલાડી પર લટકતી તલવાર ! T20 વર્લ્ડ કપ આવતા આવતા પ્લેઇંગ-11માંથી કપાશે પત્તુ",
-    "desc": "ટીમ ઈન્ડિયાનો વિકેટકીપર-બેટ્સમેન સંજુ સેમસન T20 વર્લ્ડ કપ 2026 પહેલા ખરાબ ફોર્મમાં છે. રવિવારે ગુવાહાટીમાં ન્યૂઝીલેન્ડ સામેની ત્રીજી T20 આંતરરાષ્ટ્રીય મેચમાં સેમસન પહેલા જ બોલ પર આઉટ થયો હતો. ત્યારે હવે પ્લેઇંગ-11માં તેના સ્થાન પર લટકતી તલવાર છે, ગમે ત્યારે તેનું પત્તુ કપાઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-t20-series-sanju-samson-flop-show-continues-ahead-of-t20-world-cup-2026-462930 ",
-    "time": "2026-01-26T05:48:10.000Z"
   },
   {
     "cat": "Tech",
@@ -646,14 +646,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/tvs-star-city-plus-disc-brake-bikes-features-powertrain-mileage-details-know-before-buying-here-462266 ",
     "time": "2026-01-20T05:08:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "બોર્ડર ફિલ્મ આ ઓટીટી પ્લેટફોર્મ પર થઈ રહી છે સ્ટ્રીમ, દેશભક્તિની યાદ કરી લો તાજી",
-    "desc": "દેશભક્તિની ફિલ્મો માટે 90 નો દાયકો ગોલ્ડન એરા હતો. જેમાં સૌથી બેસ્ટ ફિલ્મ હતી બોર્ડર. ગણતરીના દિવસોમાં બોર્ડર 2 ફિલ્મ રિલીઝ થવાની છે ત્યારે મેકર્સે સની દેઓલની દમદાર ફિલ્મ બોર્ડર ઓટીટી પર સ્ટ્રીન કરી દીધી છે. જેથી ચાહકો ફરી એકવાર દેશભક્તિની યાદો તાજી કરી શકે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/sunny-deol-patriotic-film-border-on-ott-amazon-prime-462182 ",
-    "time": "2026-01-19T06:50:28.000Z"
   }
 ];

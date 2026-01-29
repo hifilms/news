@@ -1,5 +1,77 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "Identify Ajit Pawar's Body: বীভৎস ভাবে পুড়ে যাওয়া দলা-পাকানো দেহ! আগুনধোঁয়ার ধ্বংসস্তূপের মধ্যেও অজিত পওয়ারকে চিনিয়ে দিল এই ছোট্ট জিনিসটি...",
+    "desc": "একটি চার্টার্ড বিমানে মুম্বই থেকে বারামতিতে যাচ্ছিলেন অজিত পাওয়ার। বুধবার সকাল পৌনে ৯টা নাগাদ বারামতি বিমানবন্দরের কাছে অবতরণের সময় বিমানটি ভেঙে পড়ে, আগুন ধরে যায়। মারা যান মহারাষ্ট্রের ডেপুটি সিএম অজিত পওয়ার। নিজের গড়ে একাধিক জনসভা ছিল তাঁর, কিন্তু জনসভায় আর যোগ দেওয়া হল না তাঁর। অবতরণের আগেই আগুন ধরে যায় বিমানে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/identify-ajit-pawars-body-wristwatch-sitting-position-help-cops-identify-ajits-body-baramati-plane-crash-ajit-pawar-plane-crash-ajit-pawar-dies-in-plane-crash_638113.html ",
+    "time": "2026-01-29T08:17:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "শেষ মূহুর্তে কী হয়েছিল? জানতে ভরসা সেই ককপিট ভয়েস রেকর্ডার",
+    "desc": "অজিত পওয়ারের বিমান দুর্ঘটনার ২৪ ঘণ্টা পেরিয়ে গিয়েছে। এর মধ্যে দুর্ঘটনার আগে একাধিক প্রান্ত থেকে চার্টাড বিমানটির ভিডিও ভাইরাল হয়েছে। মাটিতে আছড়ে পড়ার আগে, বিমানটি যেভাবে নেমে আসছিল, তা নিয়ে পাইলটদের মধ্যেও নানা প্রশ্ন উঠেছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/TV_5732039_baramati_flight_accident_1.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/ajit-pawar-flight-crash-what-happened-at-the-last-moment-trust-that-cockpit-voice-recorder-sal-2516975.html",
+    "time": "2026-01-29T08:02:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "প্লেব্যাক থেকে বিরতি, এবার কি জিয়াগঞ্জের স্টুডিও থেকেই..., অরিজিতের পরের অধ্যায়ে বিরাট চমক!",
+    "desc": "মুম্বইয়ের বিলাসী জীবন ছেড়ে বেশিরভাগ সময় তাই সে কাটাতো তাঁর প্রিয় শহরে। রাত হলেই সময় কাটান তার নিজের হাতে করে গোড়ে তোলা স্টুডিওতেই। কিন্তু মাত্র ৩৯ বছর বয়সে 'প্লেব্যাক সিঙ্গিং' -এর দুনিয়াকে বিদায় জানানোর সিদ্ধান্তকে কিছুতেই মেনে নিতে পারছেন না জিয়াগঞ্জবাসী তথা তাঁর প্রিয় শ্রোতারা।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/HYP_5731891_cropped_29012026_011035_inshot_20260129_011006544__2-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/what-next-for-arijit-singh-after-his-playback-exit-l18-rds-local18-2516967.html",
+    "time": "2026-01-29T07:53:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "চর্বি ঝরানোর জন্য আদর্শ...‘ইন্টারভাল ওয়ার্কিং’ সপ্তাহেই গলিয়ে দেবে মেদ! কোন হাঁটা কীসের জন্য ভাল জানুন",
+    "desc": "স্পিড ওয়াকিং হল ব্রিস্ক ওয়াকের আরেকটু উন্নত ভার্সন। এর জন্য সঠিক ভঙ্গি বজায় রাখা, জোরে জোরে হাত নাড়ানো এবং একটি স্থির ছন্দ বজায় রাখা প্রয়োজন। দ্রুত হাঁটা হৃদস্পন্দন বাড়ায়, ফুসফুসের ক্ষমতা উন্নত করে এবং ধৈর্য তৈরি করে। যাঁরা দৌড়নোর প্রভাব ছাড়াই একটি চ্যালেঞ্জিং কার্ডিও ওয়ার্কআউট চান তাঁদের জন্য এটি আদর্শ।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ydne-2026-01-29T125554.780-2026-01-84b746df1474627fb2719c2f4a5a2495-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/life-style/walking-workouts-simple-steps-to-improve-health-and-fitness-what-is-effective-way-to-loose-weight-sta-2517307.html",
+    "time": "2026-01-29T07:33:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "\\বিমান দুর্ঘটনায় মৃত্যু অজিত পওয়ারের, বারামতীতেই বেলা ১১টায় শেষকৃত্য সম্পন্ন... দেখুন ভিডিও",
+    "desc": "মহারাষ্ট্রের উপ-মুখ্যমন্ত্রী অজিত পওয়ারের শেষকৃত্য হল আজ বৃহস্পতিবার সকাল ১১টায়। বারামতীর বিদ্যা প্রতিষ্ঠান গ্রাউন্ডে তাঁর শেষকৃত‍্য সম্পন্ন হবে। তাঁর মরদেহ বারামতির কাটেওয়াড়ির বাসভবনে রাখা হবে। তারপরে অ্যাম্বুলেন্সে করে নিয়ে যাওয়া হবে জিডি মাদগুলকার অডিটোরিয়ামে। বুধবার উপমুখ্যমন্ত্রী ও এনসিপি নেতা অজিত পাওয়ারের বিমান দুর্ঘটনার কবলে পড়ে। বারামতীতে ঘটে যাওয়া এই বিমান দুর্ঘটনায় অজিত পাওয়ারের সঙ্গে আরও চারজনের মৃত্যু হয়েছে। দুর্ঘটনাটি এতটাই ভয়াবহ ছিল যে একের পর এক বিস্ফোরণের শব্দ শোনা যায়। বিমানটি সম্পূর্ণভাবে পুড়ে ছাই হয়ে যায়। এই দুর্ঘটনায় সব দেহই মারাত্মকভাবে দগ্ধ হয়েছিল।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-28-at-10.36.33-2026-01-d355d672878b852a9befc6fc901b6f32-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/ajit-pawar-plane-accident-baramati-funeral-today-at-11-am-rmj-ws-l-2517446.html",
+    "time": "2026-01-29T07:32:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'গুড মর্নিং, চিনি...'! বারামতী দুর্ঘটনার আগেই প্রিয় দাদীকে Whatsapp! ক্যাপ্টেন শাম্ভাবী পাঠকের দিদাকে পাঠানো শেষ বার্তায় কী ছিল জানেন?",
+    "desc": "বর্তমানে গোয়ালিয়রেই থাকেন শম্ভাবীর দাদি মীরা পাঠক। নাতনি হারিয়ে কার্যত ভগ্নহৃদয়। দুমড়ে-মুচড়ে যাওয়া সেই মন নিয়েই জানালেন, দুর্ঘটনার কয়েক ঘণ্টা আগে, বুধবার সকাল ৬:৩৬ মিনিটে, শম্ভাবী একটি মেসেজ পাঠান দিদাকে। এর কিছুক্ষণ পরেই বিমানে উঠে উড়ে যান শম্ভাবী। আর ফেরেননি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-29-at-09.44.06-2026-01-c935d34eb1aa217624f87dca7ae07a6e-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/captain-shambhavi-pathak-a-whatsapp-message-to-her-beloved-grandmother-just-before-the-baramati-accident-do-you-know-what-was-in-captain-shambhavi-pathaks-last-message-to-her-grandmother-sanj-2517036.html",
+    "time": "2026-01-29T07:19:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "কে এই শাম্ভবী পাঠক? ছিলেন অজিত পওয়ারের বিমানের প্লেনের পাইলট...দুর্ঘটনায় মৃত্যু তাঁরও",
+    "desc": "এনসিপি প্রধান পাওয়ার, তাঁর ব্যক্তিগত নিরাপত্তা কর্মকর্তা বিদিপ যাদব, দুই পাইলট - সুমিত কাপুর এবং শম্ভাবী পাঠক - এবং একজন পরিচারিকা দুর্ঘটনায় মারা গেছেন। আগামী মাসে পুণে এলাকার জেলা পরিষদ নির্বাচন৷ তার আগে পওয়ারের চারটি গুরুত্বপূর্ণ সভা ছিল এলাকায়৷ সেই সমস্ত জনসভায় যোগ দেওয়ার কথা ছিল পওয়ারের।এনসিপি প্রধান পাওয়ার, তাঁর ব্যক্তিগত নিরাপত্তা কর্মকর্তা বিদিপ যাদব, দুই পাইলট - সুমিত কাপুর এবং শম্ভাবী পাঠক - এবং একজন পরিচারিকা দুর্ঘটনায় মারা গেছেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ydne-2026-01-28T153701.984-2026-01-9e59a8ae28b903f722f91c446246d767-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/ajit-pawar-plane-crash-death-who-is-the-pilot-shambhavi-pathak-know-in-details-sta-2515988.html",
+    "time": "2026-01-29T07:06:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "চিকি‍ৎসক হওয়ার স্বপ্ন বড় বালাই! বিশেষ চাহিদাসম্পন্ন পড়ুয়াদের কোটায় MBBS কোর্সে সুযোগ পাওয়ার জন্য নিজেই নিজের পা কেটে ফেললেন যুবক!",
+    "desc": "সুরজ তাঁর বান্ধবীকে পুরো পরিকল্পনাটি জানিয়েছিলেন। ওই তরুণী পুলিশকে জানান যে ঘটনার আগে থেকেই সুরজ অন্যায়ভাবে বিশেষ চাহিদাসম্পন্ন পড়ুয়ার শংসাপত্র পাওয়ার চেষ্টা করছিলেন। যেহেতু এই শংসাপত্র পেতে পুলিশ রিপোর্ট বাধ্যতামূলক, তাই সুরজ তাঁর আক্রমণের বিষয়ে অভিযোগ দায়ের করেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/New-Project-2026-01-564c7329473748f84def77417124617b-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/uttar-pradesh-student-chopped-off-his-own-leg-to-get-a-chance-in-special-quota-in-mbbs-course-arc-2517351.html",
+    "time": "2026-01-29T07:05:17.000Z"
+  },
+  {
     "cat": "World",
     "title": "ফের ভেঙে পড়ল বিমান, নেতা-সহ বহু মৃত্যু! ল্যান্ডিংয়ের ঠিক আগে রেডার থেকে হঠাৎই উধাও! কেন? ঘনাচ্ছে ঘোর রহস্য...",
     "desc": "'বিচক্র্যাফ্ট ১৯০০' সাতেনা ফ্লাইটের পরিচালিত এক বিমান। ওসানায় অবতরণের কথা ছিল এর। কিন্তু নির্ধারিত সময়ের কয়েক মিনিট আগেই দুপুর ১২টা ৫ মিনিটে হঠাৎই এয়ার ট্রাফিক কন্ট্রোলের সঙ্গে যোগাযোগ বিচ্ছিন্ন হয়ে যায় এর। তারপর? সে এক ভয়ংকর কাণ্ড। শব্দ, আগুন, ধোঁয়া, আর্তি, রক্ত, মৃত্যু!",
@@ -16,15 +88,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/ind-vs-nz-4th-t20-match-team-india-fans-gets-angry-over-harshit-rana-and-ravi-bishnoi-for-conceding-93-runs-ss-2517068.html",
     "time": "2026-01-29T05:28:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'গুড মর্নিং, চিনি...'! বারামতী দুর্ঘটনার আগেই প্রিয় দাদীকে Whatsapp! ক্যাপ্টেন শম্ভাবী পাঠকের দিদাকে পাঠানো শেষ বার্তায় কী ছিল জানেন?",
-    "desc": "বর্তমানে গোয়ালিয়রেই থাকেন শম্ভাবীর দাদি মীরা পাঠক। নাতনি হারিয়ে কার্যত ভগ্নহৃদয়। দুমড়ে-মুচড়ে যাওয়া সেই মন নিয়েই জানালেন, দুর্ঘটনার কয়েক ঘণ্টা আগে, বুধবার সকাল ৬:৩৬ মিনিটে, শম্ভাবী একটি মেসেজ পাঠান দিদাকে। এর কিছুক্ষণ পরেই বিমানে উঠে উড়ে যান শম্ভাবী। আর ফেরেননি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-29-at-09.44.06-2026-01-c935d34eb1aa217624f87dca7ae07a6e-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/captain-shambhavi-pathak-a-whatsapp-message-to-her-beloved-grandmother-just-before-the-baramati-accident-do-you-know-what-was-in-captain-shambhavi-pathaks-last-message-to-her-grandmother-sanj-2517036.html",
-    "time": "2026-01-29T04:48:34.000Z"
   },
   {
     "cat": "Entertainment",
@@ -106,15 +169,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/ajit-pawar-plane-crash-know-the-bombardier-learjet-45-details-and-safety-record_637936.html ",
     "time": "2026-01-28T10:16:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "কে এই শম্ভাবী পাঠক? ছিলেন অজিত পওয়ারের বিমানের প্লেনের পাইলট...দুর্ঘটনায় মৃত্যু তাঁরও",
-    "desc": "এনসিপি প্রধান পাওয়ার, তাঁর ব্যক্তিগত নিরাপত্তা কর্মকর্তা বিদিপ যাদব, দুই পাইলট - সুমিত কাপুর এবং শম্ভাবী পাঠক - এবং একজন পরিচারিকা দুর্ঘটনায় মারা গেছেন। আগামী মাসে পুণে এলাকার জেলা পরিষদ নির্বাচন৷ তার আগে পওয়ারের চারটি গুরুত্বপূর্ণ সভা ছিল এলাকায়৷ সেই সমস্ত জনসভায় যোগ দেওয়ার কথা ছিল পওয়ারের।এনসিপি প্রধান পাওয়ার, তাঁর ব্যক্তিগত নিরাপত্তা কর্মকর্তা বিদিপ যাদব, দুই পাইলট - সুমিত কাপুর এবং শম্ভাবী পাঠক - এবং একজন পরিচারিকা দুর্ঘটনায় মারা গেছেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ydne-2026-01-28T153701.984-2026-01-9e59a8ae28b903f722f91c446246d767-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/ajit-pawar-plane-crash-death-who-is-the-pilot-shambhavi-pathak-know-in-details-sta-2515988.html",
-    "time": "2026-01-28T10:11:43.000Z"
   },
   {
     "cat": "Business",
@@ -844,59 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/nitin-nabin-bjp-new-national-president-took-charge-from-tueday-here-is-his-journey-sta-2505736.html",
     "time": "2026-01-20T11:44:53.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ডায়নামিক আইল্যান্ডে বড় বদল! ক্যামেরায় বিপ্লব ও আন্ডার ডিসপ্লে ফেস আইডি—নতুন চমক iPhone 18 Pro-তে",
-    "desc": "iPhone 18 Pro-এর সাম্প্রতিক লিক ভিডিওটি ফ্রন্ট পেজ টেক ইউটিউব পেজের জন প্রোসারের কাছ থেকে এসেছে, যেখানে তিনি iPhone 18 Pro-এর ডিসপ্লে, ডিজাইন এবং ক্যামেরার স্পেসিফিকেশন সম্পর্কে কথা বলেছেন যা অ্যাপল সম্ভবত লঞ্চ করতে পারে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/iphone-18-6-2026-01-14e9a9836daa113fe522004a5d8e4705-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/technology/iphone-18-pro-leaks-under-display-face-id-unch-hole-display-to-a-variable-aperture-camera-what-to-expect-from-apple-2026-flagship-tc-ac-aa-2503382.html",
-    "time": "2026-01-20T10:36:28.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "এবার চিনকে টার্গেট করল আইএস! বাঁচল না কাবুলের সবচেয়ে নিরাপদ জায়গাও...বিস্ফোরণে উড়ে গেল রেস্তোরাঁ! ৭ জনের মৃত্যু",
-    "desc": "স্থানীয় প্রশাসন সূত্রে জানা গিয়েছে, এই হামলায় চিনের নাগরিকদের নিশানা করা হয়েছিল৷ আফগানিস্তানের রাজধানীর সবচেয়ে নিরাপদ এলাকাগুলির মধ্যে একটি হিসেবে বিবেচিত হয় এই শাহর-ই-নও৷ অনেক বিদেশিদের আবাসস্থল হিসেবে পরিচিত গুলফারোশি স্ট্রিটের একটি হোটেলে বিস্ফোরণটি ঘটে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-2026-01-20T110558.122-2026-01-538b111d6b8afa96f36e25ba231d4608-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/afganistan-kabul-blast-7-people-died-chinese-people-targeted-is-took-responsibility-of-the-attack-sta-2504928.html",
-    "time": "2026-01-20T05:38:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "বাতের ব্যথা শেষ করে দিল কেরিয়ার! মাত্র ৩৫ বছর বয়সে জীবনের সব থেকে কঠিন সিদ্ধান্ত নিলেন সাইনা নেহওয়াল",
-    "desc": "সাইনা বলেন, আমার আনুষ্ঠানিকভাবে অবসর ঘোষণা কোনও বড় ব্যাপার নয়। লোকজন ধীরে ধীরে বুঝতে পারবে, সাইনা আর খেলে না। বিশ্ব ব্যাডমিন্টনে ভাল জায়গায় থাকতে হলে রোজ ৮-৯ ঘন্টা প্র্যাকটিস করতে হয়। আমার শরীর আর ২ ঘণ্টার বেশি দিচ্ছে না।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Saina6-2026-01-6428d0593ef7fd5d9c6978a0ee6eee80-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/saina-nehwal-confirms-retirement-she-says-my-body-can-not-push-it-anymore-smj-2504694.html",
-    "time": "2026-01-19T19:09:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "মেসি-কাণ্ডে ১০ হাজার টাকার বন্ডে জামিন! ৩৭ দিন পরে জেল থেকে বেরিয়ে শতদ্রু দত্ত বললেন...",
-    "desc": "সোমবার দুপুরে ১০ হাজার টাকার ব্যক্তিগত বন্ডে শতদ্রুর জামিন মঞ্জুর করে বিধাননগরআদালত ৷ সন্ধে নাগাদ মুক্তি পান শতদ্রু৷ বেরিয়ে বলেন, ‘‘আমি খুব টায়ার্ড।’’ কার্যত, কোনও মন্তব্য না করেই সাংবাদিকদের সামনে থেকে বেরিয়ে যান মেসি কাণ্ডের মূল অভিযুক্ত৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-2026-01-19T204717.238-2026-01-d73d3d4ab07b6c1a0823ba728ba2ed27-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/messi-case-update-shatadru-dutta-is-out-of-jail-after-37-days-after-he-got-bail-on-monday-afternoon-sta-2504572.html",
-    "time": "2026-01-19T15:23:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "৯০ মিনিট ধরে মৃত্যুর জন্য অপেক্ষা! নয়ডার ইঞ্জিনিয়ার মৃত্যু কাণ্ডে SIT তদন্তের নির্দেশ, উচ্চপদস্থ কর্তাকে সরালেন যোগী আদিত্যনাথ",
-    "desc": "নিজের বাড়ি থেকে মাত্র কয়েক মিনিট দূরে ছিলেন ওই ইঞ্জিনিয়ার৷ অফিস থেকে নিজে গাড়ি চালিয়ে বাড়ি ফিরছিলেন৷ রাতে ঘন কুয়াশা থাকায় বুঝতে না পেরে প্রথমে রাস্তার ধারের একটি নর্দমার পাঁচিয়ে ধাক্কা মারে তাঁর এসইউভি গাড়ি৷ তারপর তা একটি বিল্ডিংয়ের জন্য খুঁড়ে রাখা ২০ ফুট গভীর জলভর্তি গর্তে পড়ে যায়৷ ওখানে যে ওত গভীর ও বড় গর্ত রয়েছে, সে বিষয়ে কোনও বোর্ড, কোনও রিফ্লেক্টর সেখানে রাখা ছিল না৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-2026-01-19T193012.153-2026-01-d9e32b79ef4ee6dc02fd622ee85c0fa5-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/noida-engineer-death-case-up-cm-yogi-adityanath-orders-sit-probe-into-techies-death-noida-ceo-removed-sta-2504410.html",
-    "time": "2026-01-19T14:55:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "এসআইআর মামলায় মাধ্যমিকের অ্যাডমিট নিয়ে বড় পর্যবেক্ষণ সুপ্রিম কোর্টের! দেখুন ভিডিও",
-    "desc": "মাধ্যমিকের অ্যাডমিট কার্ডকেও এসআইআর-এর প্রামাণ্য নথি হিসেবে গণ্য করা উচিত বলে পর্যবেক্ষণে জানাল সুপ্রিম কোর্ট৷ এ দিন বাংলার এসআইআর মামলায় এই গুরুত্বপূর্ণ পর্যবেক্ষণ দেয় প্রধান বিচারপতির বেঞ্চ৷ জাতীয় নির্বাচন কমিশন আগেই জানিয়েছিল, মাধ্যমিক বা সমতুল পরীক্ষার সার্টিফিকেটকে নথি হিসেবে গণ্য করলেও মাধ্যমিকের অ্যাডমিট কার্ডকে নথি হিসেবে গণ্য করা হবে না৷ এ দিন আদালতে বিষয়টি তোলেন আইনজীবী কল্যাণ বন্দ্যোপাধ্যায়৷ এর পরই নিজের মাধ্যমিকের অ্যাডমিট কার্ড নিয়ে নিজের পর্যবেক্ষণ জানান বিচারপতি জয়মাল্য বাগচি৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-19-at-17.12.54-1-2026-01-71c2989d7add41fdf7c8703352c7e1c6-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/supreme-court-makes-important-observation-on-madyamik-admit-card-in-sir-case-dmg-2504444.html",
-    "time": "2026-01-19T14:40:31.000Z"
   }
 ];

@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Novak Djokovic slams journalist for Sinner-Alcaraz comment ahead of Australian Open semi-final bout",
+    "desc": "Veteran tennis superstar Novak Djokovic has made it to yet another Grand Slam semi-final. Thanks to two back-to-back walkovers, Djokovic has made it to the Australian Open 2026 semi-final and is set to take on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-slams-journalist-for-sinner-alcaraz-comment-ahead-of-australian-open-semi-final-bout-2026-01-29-1027998",
+    "time": "2026-01-29T09:20:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Something fantastic': Jose Mourinho opens up after SL Benfica topples Real Madrid in Champions League clash",
+    "desc": "SL Benfica registered an emphatic victory against 15-time Champions League winners Real Madrid. The two sides locked horns in the Champions League clash on January 29, and the game saw Benfica register a brilliant win...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/jose-mourinho-opens-up-after-sl-benfica-topples-real-madrid-in-champions-league-clash-2026-01-29-1027990",
+    "time": "2026-01-29T08:32:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "T20 World Cup 2026 warm up matches schedule confirmed, two Indian teams to play",
+    "desc": "The upcoming edition of the T20 World Cup 2026 will commence on February 7 in India and Sri Lanka. A few teams will be in action in the build-up to the tournament as a total...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-2026-warm-up-matches-schedule-confirmed-two-indian-teams-to-play-2026-01-29-1027984",
+    "time": "2026-01-29T08:11:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch SA vs WI T20I series on TV and streaming?",
+    "desc": "The stage is set for the upcoming T20I series between Pakistan and Australia. The two sides will take on each other in the first T20I of the series at the Gaddafi Stadium, Lahore, on January...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-vs-australia-live-when-and-where-to-watch-sa-vs-wi-t20i-series-on-tv-and-streaming-2026-01-29-1027978",
+    "time": "2026-01-29T07:38:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'He plays that high-risk game: Ajinkya Rahane advises India to prepare around star batter ahead of T20 WC 2026",
     "desc": "The stage is set for the T20 World Cup 2026. The marquee tournament is slated to be held in India and Sri Lanka and will kick off on February 7. Ahead of the tournament, it...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/undefeated-australia-storm-into-u19-world-cup-2026-semifinals-after-beating-west-indies-2026-01-28-1027911",
     "time": "2026-01-28T18:29:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aaron Jones charged for breaching CWI, ICC's anti-corruption code, handed immediate ban",
-    "desc": "USA batter Aaron Jones has been provisionally suspended from all forms of cricket after being charged by the International Cricket Council with multiple violations of its Anti-Corruption Code. The 31-year-old has been handed an immediate...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/aaron-jones-charged-for-breaching-cwi-icc-s-anti-corruption-code-handed-immediate-ban-2026-01-28-1027909",
-    "time": "2026-01-28T18:22:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch UEFA Champions League clash on TV and stream online in India?",
-    "desc": "Benfica will host Real Madrid at Estádio da Luz in Lisbon on Wednesday as both clubs meet in the final matchday of the 2025–26 UEFA Champions League league phase. This fixture carries significant weight as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/real-madrid-vs-benfica-where-to-watch-uefa-champions-league-clash-on-tv-and-stream-online-in-india-2026-01-28-1027903",
-    "time": "2026-01-28T17:50:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav reveals reason behind playing six batters in 4th T20I vs New Zealand, speaks on 50-run defeat",
-    "desc": "India suffered a hammering 50-run defeat in the fourth T20I against New Zealand at the ACA-VDCA Cricket Stadium in Visakhapatnam. Ishan Kishan, who picked up a niggle in the third T20I of the series, was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-reveals-reason-behind-playing-six-batters-in-4th-t20i-vs-new-zealand-reflects-on-50-run-defeat-2026-01-28-1027902",
-    "time": "2026-01-28T17:33:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India go down to New Zealand in fourth T20I as Shivam Dube's knock goes in vain",
-    "desc": "India lost the fourth T20I against New Zealand at the ACA-VDCA Cricket Stadium, Visakhapatnam, on Wednesday as most of their batters failed while chasing 216 against the Kiwis. With India's top-order failing, Shivam Dube tried...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-go-down-to-new-zealand-in-fourth-t20i-as-shivam-dubes-knock-goes-in-vain-2026-01-28-1027898",
-    "time": "2026-01-28T17:06:05.000Z"
   }
 ];
