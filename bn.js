@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "\"মিথ্য বারবার বললে তা TRP হয়, সত্য হয় না!\" বনগাঁর ঘটনায় তন্ময় শাস্ত্রী গ্রেফতারের পর বিস্ফোরক মিমি চক্রবর্তী",
+    "desc": "অভিনেত্রী জোর গলায় আবার বলেন যে তাঁকে নিয়ে দেরি করে যাওয়ার যে অভিযোগ উঠছে তা পুরোপুরি রটনা৷ তারকারা 'লেট' করেন, এটি একটি প্রচলিত ধারণা, যা তাঁর ক্ষেত্রে কখনও ঠিক নয়৷ তিনি নারীদের অসম্মান করার জন্য বারবার প্রতিবাদ করেছেন এবং নিজের ক্ষেত্রে তিনি যে মিথ্যের বিরুদ্ধে লড়বেন, সেটাই স্বাভাবিক৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/09/mimi-2025-09-8ae78f84e8ead72b3ee3ce506a7c1f5d-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/actress-mimi-chakraborty-says-that-she-has-always-fought-for-dignity-and-truth-after-tanay-shastri-arrest-pbd-2518409.html",
+    "time": "2026-01-29T19:12:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "সেরা ক্রিয়েটর-ইনফ্লুয়েন্সার হিসেবে সম্মানিত শমীক অধিকারী...",
+    "desc": "বাংলা সংস্কৃতি এবং বিনোদন জগতের সেরাদের সম্মানিত করতে ‘জি ২৪ ঘণ্টা’ আয়োজন করেছিল তাদের বার্ষিক ফ্ল্যাগশিপ অনুষ্ঠান ‘বিনোদনে সেরা ২৪’। চলচ্চিত্র, ওটিটি, টেলিভিশন এবং সঙ্গীতের পাশাপাশি এ বছর ডিজিটাল জগতের সৃজনশীল প্রতিভাদেরও বিশেষ গুরুত্ব দেওয়া হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/shamik-adhikary-got-best-influencer-award-in-binodone-sera-24_638228.html ",
+    "time": "2026-01-29T18:58:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "কলকাতায় ফিরেই হাইকোর্টের দারস্থ হিরণ চট্টোপাধ্যায়, আগাম জামিনের আর্জি",
     "desc": "সম্প্রতি বারাণসীর এক ঘাটে নিজের দ্বিতীয় বিয়ের ছবি পোস্ট করেন হিরণ চট্টোপাধ্যায়। তারপরই স্বামীর বিরুদ্ধে সরব হন তাঁর প্রথম স্ত্রী অনিন্দিতা। অভিযোগ, ডিভোর্স না দিয়েই নাকি ফের বিয়ে করেছেন বিধায়ক। তা নিয়ে তুমুল চর্চা শুরু হয় সোশ্যাল মিডিয়ায়।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/01/Web-2026-01-29T234546.214-2026-01-01d5dd6c552213a412eaa9fe8c4fb913-3x2.jpg",
@@ -747,15 +765,6 @@ const newsData_bn = [
     "time": "2026-01-21T15:48:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "দ্বিতীয় বিয়ে হিরণের, বাবার ‘নতুন জীবন’ দেখে মা-কেই ‘আসল হিরো’র তকমা মেয়ে নিয়াসার...",
-    "desc": "বারাণসীর ঘাটে হিরণ চট্টোপাধ্যায়ের দ্বিতীয় বিয়ের ছবি প্রকাশ্যে আসতেই টলিউড ও রাজনৈতিক মহলে শুরু হয়েছে তীব্র শোরগোল। একদিকে প্রথম স্ত্রী অনিন্দিতার আইনি পদক্ষেপের হুঁশিয়ারি, অন্যদিকে বাবার বিয়ের আবহে মা-কে নিয়ে মেয়ে নিয়াসার আবেগঘন পোস্ট— সব মিলিয়ে পরিস্থিতি ক্রমেই জটিল হচ্ছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/hiran-chatterjee-marriage-controversy-daughter-naisa-post-anindita-allegations_636777.html ",
-    "time": "2026-01-21T15:42:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "মাখোমাখো প্রেম, বিয়েও প্রায় ঠিক! তবুও জাদেজা-মাধুরীর বিয়ে ভাঙল কেন? একটাই কারণ, শুনলে অবাক হবেন",
     "desc": "প্রেম এগোচ্ছিল ঠিকঠাক। প্রায় বিয়ে পাকা হয়েছিল দুজনের। ১৯৯৯ সাল নাগাদ জাদেজার নাম জড়িয়ে যায় ম্যাচ ফিক্সিং-এ। তার পর থেকেই দুজনের মধ্যে দূরত্ব তৈরি হতে থাকে। অনেকে জানেন না, একটা সময় মাধুরীর সঙ্গে জাদেজার বিয়ে প্রায় পাকা হয়ে গিয়েছিল।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/international/donald-trump-says-america-will-wipe-out-iran-if-it-he-is-in-amy-life-threat-from-them-us-iran-tensions-sta-2506779.html",
     "time": "2026-01-21T08:05:24.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "গ্রিনল্যান্ডে মার্কিন সামরিক বিমান ! বাহিনী মোতায়েন ডেনমার্কেরও, গোটা পরিস্থিতি এখন কোনদিকে?",
-    "desc": "গত কয়েক দিন ধরে গ্রিনল্যান্ডে আরও বেশি সেনা মোতায়েন করতে শুরু করেছে ডেনমার্ক। সোমবারও বাহিনী পাঠানো হয়েছে সেখানে। এই পরিস্থিতিতে আমেরিকা সামরিক বিমান পাঠানোর সিদ্ধান্ত নেওয়ায় কূটনৈতিক উত্তেজনা আরও বৃদ্ধি পেয়েছে বলে মনে করা হচ্ছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/US-Deploy-Aircraft-at-Greenland-2026-01-347d732fbee53f70defe03d36a0db165-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/international/us-sends-military-aircraft-to-greenland-as-denmark-boosts-troop-presence-update-on-this-ss-2506358.html",
-    "time": "2026-01-21T07:42:45.000Z"
   }
 ];
