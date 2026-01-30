@@ -1,7 +1,16 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Spanish superstar looks to make way towards maiden AO title",
+    "title": "Quinton de Kock achieves major T20 milestone, propels South Africa to stellar win in 2nd WI T20I",
+    "desc": "South Africa and the West Indies continued their ongoing T20I series by taking on each other in the second T20I. The two sides locked horns at the SuperSport Park in Centurion on January 29. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/quinton-de-kock-achieves-major-t20-milestone-propels-south-africa-to-stellar-win-in-2nd-wi-t20i-2026-01-30-1028115",
+    "time": "2026-01-30T05:22:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Alcaraz clinches second set, Zverev in trouble",
     "desc": "Spain's very own Carlos Alcaraz is all set to take on Germany's Alexander Zverev in the first semi-final of the ongoing Australian Open 2026. The two stars have been in good form of late in...",
     "img": "",
     "src": "indiatvnews.com",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-kamindu-mendis-dropped-from-t20-world-cup-2026-sri-lanka-captain-dasun-shanaka-answers-2026-01-29-1028057",
     "time": "2026-01-29T15:29:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Senegal coach Pape Thiaw banned after AFCON final chaos vs Morocco",
-    "desc": "The Confederation of African Football has handed down a series of punishments following a chaotic Africa Cup of Nations final between Senegal and Morocco, issuing fines and suspensions that together amount to close to £1m. At...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/senegal-coach-pape-thiaw-banned-after-afcon-final-chaos-vs-morocco-2026-01-29-1028052",
-    "time": "2026-01-29T14:48:19.000Z"
   }
 ];
