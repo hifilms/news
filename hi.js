@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Did Virat Kohli deactivate his Instagram account? Fans raise questions after ace batter's profile vanishes",
+    "desc": "In a move that has sent shockwaves across world cricket and the world of social media, the Instagram account of legendary India batter Virat Kohli has become inaccessible. As of January 30, Kohli’s account, which...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/did-virat-kohli-deactivate-his-instagram-account-fans-raise-questions-after-ace-batter-s-profile-vanishes-2026-01-30-1028083",
+    "time": "2026-01-30T01:43:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Paul Stirling shatters Rohit Sharma's world record, Ireland beat UAE by 57 runs",
     "desc": "A long-standing milestone in T20Is has changed hands, marking the end of Rohit Sharma’s tenure atop one of the format’s most enduring records. The former India captain, who retired from T20Is after lifting the 2024...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/up-vs-rcb-wpl-2025-live-cricket-score-up-warriorz-vs-royal-challengers-bengaluru-bca-stadium-vadodara-latest-match-updates-scorecard-playing-xi-2026-01-29-1028038",
     "time": "2026-01-29T13:17:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Check detailed stats ahead of Australian Open semis",
-    "desc": "Carlos Alcaraz and Alexander Zverev will face off in the first semifinal of the Australian Open on Friday (January 30). This is the first time the two players are facing each other at a Grand Slam...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-vs-alexander-zverev-head-to-head-record-check-detailed-stats-ahead-of-australian-open-semis-2026-01-29-1028034",
-    "time": "2026-01-29T12:57:17.000Z"
   }
 ];

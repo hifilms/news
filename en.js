@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Colleges within schools",
+    "desc": "From just a couple of government colleges in 1966, the year Haryana was formed, the State now has 186. The policy of every school graduate having access to a college within 20 km propelled Haryana into number-driven growth over the past five years. On ground though, Ashok Kumar finds that many colleges are run from school buildings, there are few courses on offer, and an acute shortage of teaching staff leaves students at a disadvantage",
+    "img": "https://th-i.thgim.com/public/incoming/57pvzz/article70556133.ece/alternates/LANDSCAPE_1200/05_STUDENTS_FINAL_YEAR_COLLEGE_SONIPAT.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/haryana/colleges-within-schools/article70556120.ece",
+    "time": "2026-01-30T01:27:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Suvendu Adhikari visits fire affected warehouse, says many are still missing",
+    "desc": "The Leader of Opposition said that when he reached the area, he found that Section 163(2) BNSS was issued, banning the Assembly of five or more persons within a 100-metre radius of the incident site",
+    "img": "https://th-i.thgim.com/public/incoming/luu10y/article70567817.ece/alternates/LANDSCAPE_1200/80717_29_1_2026_18_35_39_3_290129SUVENDUADHIKARI2.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/suvendu-adhikari-visits-fire-affected-warehouse-says-many-are-still-missing/article70566800.ece",
+    "time": "2026-01-30T01:25:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Gandhi Talks' Twitter review: Netizens praise the silent film",
+    "desc": "The much-anticipated silent film 'Gandhi Talks' has premiered to positive early reviews, with audiences praising its fresh, dialogue-free cinematic experience. Starring Vijay Sethupathi and Aditi Rao Hydari, the movie intricately weaves the stories of a job-seeker and a struggling businessman. A.R. Rahman's music is highlighted as a crucial element, enhancing the emotional depth and performances.",
+    "img": "https://static.toiimg.com/photo/msid-127788780,imgsize-67144.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/gandhi-talks-twitter-review-vijay-sethupathi-and-aditi-rao-hydari-shine-in-this-silent-film/articleshow/127788758.cms",
+    "time": "2026-01-30T01:20:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Virat Kohli Insta disappears; fans flood Anushka Sharma’s posts",
+    "desc": "Cricket fans are buzzing on Anushka Sharma's social media, curious about the sudden absence of Virat Kohli's Instagram account. Theories of a possible break or temporary suspension are swirling, prompting many to express their worries and implore the actress to encourage her husband to rejoin the digital landscape. So far, neither Kohli nor Sharma has commented on this intriguing situation.",
+    "img": "https://static.toiimg.com/photo/msid-127788726,imgsize-28504.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-leaves-social-media-netizens-flood-anushka-sharmas-comment-section-laut-aao-kohliji/articleshow/127788726.cms",
+    "time": "2026-01-30T01:15:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Patriot’ trivia: Connection with 1998 film ‘Harikrishnans’",
+    "desc": "Malayalam cinema's beloved 'Harikrishnans' trio – Mammootty, Mohanlal, and Kunchacko Boban – reunites in the upcoming spy thriller 'Patriot'. While the film's genre and narrative differ significantly from the 1998 hit, the on-screen chemistry of the stars is reigniting fan excitement. The movie promises a fresh cinematic experience with a stellar cast.",
+    "img": "https://static.toiimg.com/photo/msid-127788656,imgsize-68786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/how-patriot-is-connected-to-the-1998-mohanlalmammootty-classic-harikrishnans/articleshow/127788571.cms",
+    "time": "2026-01-30T00:53:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All you need to know about ‘Bridgerton Season 5’",
+    "desc": "Fans of 'Bridgerton' have reason to celebrate as the hit period drama has been officially renewed for Seasons 5 and 6. Production for Season 5 is slated to begin in March 2026, with a Spring 2027 premiere anticipated. Eloise Bridgerton is strongly hinted to take center stage in the upcoming seasons, promising more romance and scandal.",
+    "img": "https://static.toiimg.com/photo/msid-127788619,imgsize-1124192.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-season-5-confirmed-eloise-era-takes-shape-as-filming-locks-in-for-2026/articleshow/127788610.cms",
+    "time": "2026-01-30T00:46:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bridgerton S4 Part 2 trailer drops online",
+    "desc": "Bridgerton Season 4, Part 2's trailer unveils Benedict's emotional turmoil as he grapples with his feelings for Sophie, the maid, and the mysterious Lady in Silver. Their class divide creates significant hurdles, especially after Benedict proposed a secret arrangement. Meanwhile, Violet Bridgerton re-evaluates her son's life and her own romantic prospects. Anthony and Kate also return with their baby.",
+    "img": "https://static.toiimg.com/photo/msid-127788518,imgsize-112494.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-season-4-part-2-teaser-trailer-benedict-bridgerton-and-sophie-baek-are-torn-between-love-and-class-anthony-and-kate-return/articleshow/127788415.cms",
+    "time": "2026-01-30T00:29:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Chatha Pacha' BO day 8: Week one ends strong",
+    "desc": "The Ring of Rowdies' experienced a noticeable dip on its eighth day, earning just Rs 42 lakhs. The film's total collection now stands at Rs 13.77 crore. Despite a drop in occupancy, the weekend ahead offers a crucial opportunity for the action flick to regain momentum.",
+    "img": "https://static.toiimg.com/photo/msid-127788490,imgsize-87086.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/chatha-pacha-box-office-collections-day-8-roshan-mathew-film-mints-rs-42-lakhs-week-one-ends-strong/articleshow/127788490.cms",
+    "time": "2026-01-30T00:27:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Border 2' box office collection day 7",
+    "desc": "The war drama 'Border 2' has achieved a significant milestone, crossing Rs 300 crore worldwide within its first week of release. Despite a strong opening and impressive weekend collections, the film experienced a drop in weekday earnings but continues to maintain its pace at the box office.",
+    "img": "https://static.toiimg.com/photo/msid-127788473,imgsize-62964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-7-the-sunny-deol-varun-dhawan-diljit-dosanjhs-film-earns-over-rs-300-crore-worldwide/articleshow/127788468.cms",
+    "time": "2026-01-30T00:23:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Parasakthi' BO day 20: Sivakarthikeyan's film drops more",
+    "desc": "Despite positive social media buzz and praise for its meaningful narrative and strong performances, Sivakarthikeyan's period drama 'Parasakthi' is experiencing a significant box office slump. The film's daily collections have dwindled, with recent figures barely reaching lakhs, indicating a potential early end to its theatrical run. The movie, however, continues to be lauded for its social relevance and historical depiction.",
+    "img": "https://static.toiimg.com/photo/msid-127788417,imgsize-40986.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-box-office-collections-day-20-sivakarthikeyans-film-drops-more-mints-rs-5-lakhs/articleshow/127788417.cms",
+    "time": "2026-01-30T00:13:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Raja Saab' BO day 21: Horror comedy film stuck at 35 lakhs",
+    "desc": "Despite a star-studded cast including Prabhas, 'Raja Saab' continues its sluggish box office run, earning a mere Rs 35 lakhs on its 21st day. While worldwide collections stand at Rs 207.15 crore, daily figures are dwindling, with the Telugu version showing a significant drop. Audience disappointment is palpable, citing a lack of expected fantasy, horror, and comedy elements.",
+    "img": "https://static.toiimg.com/photo/msid-127788355,imgsize-113240.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-box-office-collections-day-21-prabhas-horror-comedy-film-stuck-at-35-lakhs/articleshow/127788355.cms",
+    "time": "2026-01-29T23:57:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Nahi khelenge'- Former Pakistan captain floats India match boycott plan",
+    "desc": "Former Pakistan captain Rashid Latif has withdrawn his call for a full T20 World Cup boycott, stating the opportune moment has passed. He now suggests Pakistan could refuse to play India, a decision he insists must come from the government. Latif believes a boycott now would lack impact after Bangladesh's exclusion.",
+    "img": "https://static.toiimg.com/photo/msid-127781054,imgsize-154298.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/t20-world-cup-row-nahi-khelenge-former-pakistan-captain-floats-india-match-boycott-plan/articleshow/127781076.cms",
+    "time": "2026-01-29T23:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar' OTT release CENSORED; fans react",
+    "desc": "Following its successful theatrical run, 'Dhurandhar' debuted on Netflix with a censored version, sparking fan outrage. Viewers are criticizing the streaming platform for muting dialogues, censoring abusive language, and allegedly trimming approximately 10 minutes from the film, questioning the logic of censoring an 'A' rated movie on an OTT platform.",
+    "img": "https://static.toiimg.com/photo/msid-127788198,imgsize-19134.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-ott-release-censored-fans-fume-over-muted-dialogues-10-min-cuts-say-animal-and-kabir-singh-have-no-cuts/articleshow/127785739.cms",
+    "time": "2026-01-29T23:23:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Harry Styles, Charli XCX turn presenters",
+    "desc": "Music's biggest night is set for February 1st, with Harry Styles, Charli XCX, and Chappell Roan among the star-studded presenters. Lady Gaga and Justin Bieber are slated for performances, alongside all Best New Artist nominees. Tributes to D'Angelo, Roberta Flack, and Ozzy Osbourne are planned. Kendrick Lamar leads nominations, with Trevor Noah hosting for the final time.",
+    "img": "https://static.toiimg.com/photo/msid-127787938,imgsize-32838.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/grammy-awards-2026-harry-styles-charli-xcx-chappell-roan-teyana-taylor-join-list-of-presenters/articleshow/127786456.cms",
+    "time": "2026-01-29T22:42:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hrithik's sister Sunaina on battle with alcohol addiction",
+    "desc": "Sunaina Roshan, sister of Bollywood star Hrithik Roshan, recently shared a deeply personal video on social media, opening up about her long battle with addiction. In the video, Sunaina spoke candidly about struggling with alcohol, junk food, and sweets, and how acknowledging the problem became a turning point in her life.",
+    "img": "https://static.toiimg.com/photo/msid-127786236,imgsize-60812.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshans-sister-sunaina-roshan-opens-up-about-battle-with-addiction-says-admitting-the-problem-changed-everything/articleshow/127786179.cms",
+    "time": "2026-01-29T22:11:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Wuthering Heights' opens to GREAT reviews",
+    "desc": "The atmosphere at the 'Wuthering Heights' premiere is electric, thanks to Margot Robbie and Jacob Elordi's sizzling chemistry. Early feedback highlights Emerald Fennell's fearless interpretation as a 'red-hot' and 'intricately twisted' masterpiece, set to deliver a fervent and heartbreakingly immersive viewing journey.",
+    "img": "https://static.toiimg.com/photo/msid-127785847,imgsize-30416.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/wuthering-heights-early-twitter-reviews-margot-robbie-and-jacob-elordi-starrer-hailed-as-twisted-scorching-hot-soul-destroying-story/articleshow/127785775.cms",
+    "time": "2026-01-29T22:03:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rani Mukerji reacts to AR Rahman’s ‘communal’ remark",
+    "desc": "Rani Mukerji, who is gearing up to reprise her role as Shivani Shivaji Roy in Mardaani 3, has weighed in on AR Rahman’s recent remark suggesting that Bollywood has become “communal.” In a recent interview, the actress firmly dismissed the claim, calling the Hindi film industry one of the most inclusive spaces she has experienced.",
+    "img": "https://static.toiimg.com/photo/msid-127785813,imgsize-38610.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rani-mukerji-reacts-to-ar-rahmans-communal-remark-on-bollywood-its-the-most-secular-place-to-be-here-merit-matters/articleshow/127785804.cms",
+    "time": "2026-01-29T21:31:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Can 'call censor board' for Jana Nayagan row",
+    "desc": "In a bold move, actor and politician Ravi Kishan has stepped forward to tackle the censorship hurdles affecting Thalapathy Vijay's movie 'Jana Nayagan'. He encourages filmmakers to approach him directly so he can engage the Censor Board in case of any delays. Furthermore, Kishan intends to bring this issue to Parliament, championing a streamlined film certification process.",
+    "img": "https://static.toiimg.com/photo/msid-127785698,imgsize-32156.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/amid-thalapathy-vijays-jana-nayagan-cbfc-issue-ravi-kishan-says-i-can-definitely-call-the-censor-board/articleshow/127785698.cms",
+    "time": "2026-01-29T20:58:26.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Rose Byrne named Hasty Pudding Woman of the Year",
     "desc": "Australian actress Rose Byrne, fresh from critical acclaim for \"If I Had Legs I'd Kick You,\" has been named Harvard's Hasty Pudding Woman of the Year. She will be celebrated on February 13th with a parade and a traditional roast. Byrne joins a prestigious list of past honorees, with Michael Keaton also recognized as Man of the Year.",
@@ -18,13 +180,13 @@ const newsData_en = [
     "time": "2026-01-29T20:38:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ahaan and Aneet knew audiences may not come for ‘two new faces’",
-    "desc": "Ahaan Panday, who emerged as one of the promising debutants for his performance in Mohit Suri’s Saiyaara, recently reflected on shaping his character, Krish Kapoor, and the quiet, grounded mindset he shared with co-star Aneet Padda while filming the romantic drama.",
-    "img": "https://static.toiimg.com/photo/msid-127785552,imgsize-29862.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saiyaara-stars-ahaan-panday-and-aneet-padda-knew-audiences-may-not-come-for-two-new-faces-even-if-two-people-felt-something-/articleshow/127785540.cms",
-    "time": "2026-01-29T20:12:57.000Z"
+    "cat": "Politics",
+    "title": "No place for Panneerselvam in AIADMK, says Palaniswami",
+    "desc": "Mr. Panneerselvam was removed for betraying the party, the AIADMK general secretary says; in his sharpest attack on TVK leader Vijay, Mr. Palaniswami asks, “After the Karur stampede, Mr. Vijay could not even visit the families of the deceased. Then, what is the meaning of running a political party?”",
+    "img": "https://th-i.thgim.com/public/incoming/lon9wm/article70566747.ece/alternates/LANDSCAPE_1200/9868_29_1_2026_18_6_24_1_ADMK_OMALUR.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-rejects-the-offer-of-panneerselvam-to-re-join-aiadmk/article70565220.ece",
+    "time": "2026-01-29T20:06:36.000Z"
   },
   {
     "cat": "Sports",
@@ -36,15 +198,6 @@ const newsData_en = [
     "time": "2026-01-29T18:34:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Twinkle explains why her dating advice to Aarav, Nitara differs",
-    "desc": "Twinkle Khanna has long championed honesty over idealism—especially when it comes to parenting. The author-columnist recently spoke about embracing fallibility as a parent, navigating the generational gap with her children, and why therapy should not be reduced to social media soundbites.",
-    "img": "https://static.toiimg.com/photo/msid-127784224,imgsize-56102.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/twinkle-khanna-explains-why-her-dating-advice-to-aarav-and-nitara-is-poles-apart-my-son-is-very-soft-hearted-she-has-to-be-less-aggressive/articleshow/127784162.cms",
-    "time": "2026-01-29T18:31:21.000Z"
-  },
-  {
     "cat": "World",
     "title": "Democrats block government funding package in Senate as negotiations continue to avert shutdown",
     "desc": "Still, with no agreement and an uncertain path ahead, the standoff threatened to plunge the country into another shutdown just two months after Democrats blocked a spending bill over expiring federal health care subsidies, a dispute that closed the government for 43 days as Republicans refused to negotiate.",
@@ -52,15 +205,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/democrats-block-government-funding-package-in-senate-as-negotiations-continue-to-avert-shutdown/article70567455.ece",
     "time": "2026-01-29T18:27:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Palaniswami rejects Panneerselvam’s offer to rejoin AIADMK",
-    "desc": "“There is no place for Mr. Panneerselvam in the party,” the AIADMK general secretary says; In his sharpest attack on TVK leader Vijay, Mr. Palaniswami says, “After the Karur stampede, Mr. Vijay could not even visit the families of the deceased. Then, what is the meaning of running a political party?”",
-    "img": "https://th-i.thgim.com/public/incoming/lon9wm/article70566747.ece/alternates/LANDSCAPE_1200/9868_29_1_2026_18_6_24_1_ADMK_OMALUR.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-rejects-the-offer-of-panneerselvam-to-re-join-aiadmk/article70565220.ece",
-    "time": "2026-01-29T18:23:05.000Z"
   },
   {
     "cat": "Entertainment",
@@ -88,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/centre-to-test-rbi-enabled-digital-food-coupons-for-free-rations/articleshow/127783489.cms",
     "time": "2026-01-29T17:58:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India should prioritise trade opportunities over tariffs, says World Bank chief Ajay Banga",
-    "desc": "World Bank President Ajay Banga advised India to prioritize trade expansion over tariffs. He highlighted India's extensive trade agreements, including the recent India-European Union free trade deal. Global trade has grown significantly, with emerging markets like India playing a crucial role. This new pact will create a vast market connecting India and the EU.",
-    "img": "https://static.toiimg.com/photo/msid-127783161,imgsize-746873.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-should-prioritise-trade-opportunities-over-tariffs-says-world-bank-chief-ajay-banga/articleshow/127783170.cms",
-    "time": "2026-01-29T17:44:42.000Z"
   },
   {
     "cat": "Sports",
@@ -135,24 +270,6 @@ const newsData_en = [
     "time": "2026-01-29T17:22:23.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Baba Azmi dismisses AR Rahman's claim of communal divide",
-    "desc": "AR Rahman recently found himself at the centre of a storm after hinting that he may have lost work in Bollywood over the past eight years due to growing communal undercurrents. His remarks triggered sharp reactions across the industry and social media, drawing criticism from some and cautious disagreement from others. While Rahman later issued a clarification and apology, the debate around polarization in the film industry continued to simmer.",
-    "img": "https://static.toiimg.com/photo/msid-127782552,imgsize-36718.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/baba-azmi-dismisses-ar-rahmans-claim-of-communal-divide-in-bollywood-you-dont-see-who-wrote-the-songs-muslim-or-hindu-in-lagaan/articleshow/127782488.cms",
-    "time": "2026-01-29T17:19:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anil Sharma urges Arijit to return to playback singing",
-    "desc": "Filmmaker Anil Sharma has urged Arijit Singh to reconsider his retirement from playback singing. Singh recently announced his decision on social media, citing boredom as a primary reason after a successful career. Sharma, along with many others, hopes the acclaimed singer will return to the industry soon, emphasizing the impact of his voice on cinema and audiences.",
-    "img": "https://static.toiimg.com/photo/msid-127782131,imgsize-34962.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/gadar-2-filmmaker-anil-sharma-urges-arijit-singh-to-return-to-playback-singing-says-aur-bhi-bahut-se-songs-janta-ko-chaiye-tumse/articleshow/127782131.cms",
-    "time": "2026-01-29T17:17:16.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Economic Survey calls for fiscal flexibility for the Centre, cautions States against worsening finances",
     "desc": "The Economic Survey argued that, while the Centre has managed to substantially improve its fiscal deficit ratios since the COVID-19 pandemic, the States have seen their finances worsen over this period due to falling revenue and higher spending on unconditional cash transfers",
@@ -187,15 +304,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/budget/cutting-carbon-emissions-should-not-be-top-priority-economic-survey/article70566500.ece",
     "time": "2026-01-29T16:22:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Why Parineeti Chopra doesn’t follow Saina Nehwal on Instagram",
-    "desc": "Parineeti Chopra earned praise for her performance in the biopic drama Saina, where she portrayed badminton champion Saina Nehwal. However, several social media users recently noticed that while Saina follows Parineeti on Instagram, the actor does not follow her back. The observation sparked online chatter, prompting Saina to finally address the matter.",
-    "img": "https://static.toiimg.com/photo/msid-127780979,imgsize-46814.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/why-parineeti-chopra-doesnt-follow-saina-nehwal-on-instagram-we-never-became-friends-says-badminton-star/articleshow/127780939.cms",
-    "time": "2026-01-29T16:09:40.000Z"
   },
   {
     "cat": "Tech",
@@ -243,15 +351,6 @@ const newsData_en = [
     "time": "2026-01-29T15:54:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Shahid talks about reuniting with Nana Patekar in 'O'Romeo'",
-    "desc": "Shahid Kapoor and the iconic Nana Patekar are gearing up for an exciting collaboration in the soon-to-be-released film 'O' Romeo', helmed by Vishal Bhardwaj. Kapoor showered Patekar with accolades, referring to him as a 'remarkable actor' while teasing their 'incredibly captivating' chemistry that promises to set the screen on fire.",
-    "img": "https://static.toiimg.com/photo/msid-127780632,imgsize-26390.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shahid-kapoor-opens-up-about-reuniting-with-nana-patekar-in-oromeo-says-we-have-some-entertaining-scenes-together/articleshow/127780632.cms",
-    "time": "2026-01-29T15:54:15.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Travel operators seek relocation of toll plazas at Bengaluru entry points",
     "desc": "In a letter addressed to Deputy Chief Minister D. K. Shivakumar recently, the association said that the residents of both Bengaluru Urban and Rural districts are being forced to pay toll charges even for short-distance daily travel into the city for work, education, healthcare and business.",
@@ -270,15 +369,6 @@ const newsData_en = [
     "time": "2026-01-29T15:29:07.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Stocks hover near records as Big Tech earnings diverge; gold extends blistering rally",
-    "desc": "Indian markets mirrored global trends as US stocks traded near record highs amidst mixed tech earnings. Microsoft dipped despite strong results, while Meta surged. Gold continued its extraordinary rally, driven by safe-haven demand amid global uncertainties. Overseas markets saw gains, with South Korea's Kospi hitting a new peak.",
-    "img": "https://static.toiimg.com/photo/msid-127780331,imgsize-1463801.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-markets-today-stocks-hover-near-records-as-big-tech-earnings-diverge-gold-extends-blistering-rally/articleshow/127780338.cms",
-    "time": "2026-01-29T15:28:55.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Serena Williams could return to WTA Tour later this year",
     "desc": "Tennis world buzzes with excitement over Serena Williams' potential WTA Tour return later this year. After officially retiring in September 2022, speculation intensified following reports of her re-entry into the testing pool. Fellow players like Elina Svitolina and Aryna Sabalenka expressed enthusiasm for the legendary champion's comeback.",
@@ -286,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/serena-williams-could-return-to-wta-tour-later-this-year/articleshow/127780233.cms",
     "time": "2026-01-29T15:28:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Can Border 2 beat Dhurandhar’s record-breaking run?",
-    "desc": "With this, Sunny Deol's Border 2 has emerged as one of the strongest performers of the year so far, smashing multiple box office records in its opening week. The big question now is whether the film can sustain its momentum and eventually challenge the massive lifetime numbers of Ranveer Singh’s Dhurandhar.",
-    "img": "https://static.toiimg.com/photo/msid-127780255,imgsize-61100.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/can-sunny-deols-border-2-beat-ranveer-singhs-dhurandhars-record-breaking-run-manoj-desai-says-weekends-go-housefull-exclusive/articleshow/127780066.cms",
-    "time": "2026-01-29T15:25:31.000Z"
   },
   {
     "cat": "Politics",
@@ -324,24 +405,6 @@ const newsData_en = [
     "time": "2026-01-29T15:18:33.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Charting a course for ports",
-    "desc": "Ports in the country handled 1,593.04 million tonne per annum traffic in fiscal 2025, clocking a compound annual growth rate (CAGR) of ~4% over last five fiscals. Meanwhile, port capacity increased to 2,762 million tonne.",
-    "img": "https://static.toiimg.com/photo/msid-127780140,imgsize-131580.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-charting-a-course-for-ports-two-areas-fm-can-address-to-bolster-the-sector/articleshow/127780078.cms",
-    "time": "2026-01-29T15:18:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Top 5 South newsmakers of the day",
-    "desc": "South cinema saw major updates. The 'Jana Nayagan' makers may withdraw their censor case. Jr NTR received landmark legal protection from the Delhi High Court. 'Salaar 2' is confirmed to be in development. Mohanlal's 'L366' first look has generated excitement. Viral hoardings in Varanasi hint at a potential release date for a Mahesh Babu starrer.",
-    "img": "https://static.toiimg.com/photo/msid-127779976,imgsize-126470.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/delhi-hc-protects-jr-ntrs-personality-rights-jana-nayagan-makers-to-withdraw-censor-case-mohanlals-l-366-first-look-top-5-south-newsmakers-of-the-day/articleshow/127779976.cms",
-    "time": "2026-01-29T15:18:17.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sabalenka storms into Australian Open final after 6-2, 6-3 win over Svitolina",
     "desc": "Aryna Sabalenka dominated Elina Svitolina in the Australian Open semi-finals, securing a 6-2, 6-3 victory to reach her fourth consecutive title match. She will face Elena Rybakina, who defeated Jessica Pegula, in a rematch of the 2023 final. Both players expressed confidence heading into the championship match.",
@@ -351,24 +414,6 @@ const newsData_en = [
     "time": "2026-01-29T15:12:03.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Silver breaches Rs 4 lakh/kg, gold hits record Rs 1.83 lakh/10g as global safe-haven demand surges",
-    "desc": "Silver prices in Delhi surged past Rs 4 lakh per kg, while gold hit a record Rs 1.83 lakh per 10 grams. This rally, driven by geopolitical tensions and economic uncertainty, saw silver outperform gold due to strong industrial demand and a weakening US dollar. Global gold demand also reached a record high, fueled by investment.",
-    "img": "https://static.toiimg.com/photo/msid-127779904,imgsize-720138.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/silver-breaches-rs-4-lakh/kg-gold-hits-record-rs-1-83-lakh/10g-as-global-safe-haven-demand-surges/articleshow/127779918.cms",
-    "time": "2026-01-29T15:06:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala Budget 2026-27: Allocation for Aswasakiranam project hiked to ₹100 crore",
-    "desc": "₹3 crore has been earmarked for commencing ‘Anpu Veedu’ scheme, which envisages establishment of care homes for the intellectually challenged at the block level. Day care facility and respite care facilities will be provided through the scheme",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-budget-2026-27-allocation-for-aswasakiranam-project-hiked-to-100-crore/article70566292.ece",
-    "time": "2026-01-29T15:03:27.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'All is good': Shashi Tharoor meets Mallikarjun Kharge, Rahul Gandhi",
     "desc": "Congress president Mallikarjun Kharge and LoP Rahul Gandhi met with Shashi Tharoor to address internal concerns ahead of the Kerala assembly polls. The \"constructive and positive\" discussion aimed to quell speculation and ensure party unity. Tharoor emphasized moving forward together, dismissing discussions about a chief ministerial face.",
@@ -376,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/all-is-good-shashi-tharoor-meets-mallikarjun-kharge-rahul-gandhi-inside-details-of-nearly-2-hour-meeting/articleshow/127779651.cms",
     "time": "2026-01-29T14:50:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman-Aishwarya was a 'violent love story', says producer: She was dignified",
-    "desc": "Producer Shailendra Singh recalled Aishwarya Rai Bachchan's early career, where she earned a modest Rs 5000 for her first three advertisements. He also touched upon her past relationship with Salman Khan, describing it as a \"violent love story.\" Singh also shared the incident that led to the end of his friendship with Salman Khan.",
-    "img": "https://static.toiimg.com/photo/msid-127779322,imgsize-21184.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aishwarya-rai-salman-khan-was-a-violent-love-story-shes-dignified-says-producer-reveals-she-took-rs-5000-for-three-ads-in-modelling-days/articleshow/127779293.cms",
-    "time": "2026-01-29T14:29:58.000Z"
   },
   {
     "cat": "Sports",
@@ -405,15 +441,6 @@ const newsData_en = [
     "time": "2026-01-29T14:08:51.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rajesh Khanna yelled at God, couldn't take failure",
-    "desc": "Rajesh Khanna and Dimple Kapadia's marriage, though surprising, ended in separation after two daughters, with Kapadia admitting her youth and inability to understand Khanna's superstar life. Khanna also revealed his emotional struggles with career failures. Despite living apart for decades, they remained legally married.",
-    "img": "https://static.toiimg.com/photo/msid-127778826,imgsize-35576.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajesh-khanna-yelled-at-god-when-he-had-seven-flops-dimple-kapadia-came-running-success-hit-me-i-couldnt-take-failure/articleshow/127778755.cms",
-    "time": "2026-01-29T14:06:25.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Join us to regain old glory': Vijay's father gives alliance offer to Congress; party says 'we have Rahul boost'",
     "desc": "Vijay's father, SA Chandrasekhar, urged Congress to ally with his son's TVK for the Tamil Nadu assembly polls, believing it would restore the party's past prominence. However, the state Congress chief dismissed the informal proposal, stating the party doesn't require external support. Vijay himself has indicated TVK's strength to contest independently.",
@@ -421,24 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/join-us-to-regain-old-glory-vijays-father-gives-alliance-offer-to-congress-party-says-we-have-rahul-boost/articleshow/127778540.cms",
     "time": "2026-01-29T14:03:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Centre tags coking coal as critical &amp; strategic mineral to drive self-reliance in steel sector",
-    "desc": "India has declared coking coal a critical and strategic mineral. This move aims to cut reliance on imports for steel production. Faster approvals and improved ease of doing business are expected. The government seeks to boost domestic exploration and mining. This reform supports the National Steel Policy and Aatmanirbhar Bharat vision. It encourages private investment and job creation.",
-    "img": "https://static.toiimg.com/photo/msid-127778400,imgsize-716305.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/centre-tags-coking-coal-as-critical-strategic-mineral-to-drive-self-reliance-in-steel-sector/articleshow/127778405.cms",
-    "time": "2026-01-29T13:47:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mamta Kulkarni on Rahman's communal remark: 'Aamir made tea in my house'",
-    "desc": "Mamta Kulkarni reminisces about the 1990s Bollywood, highlighting a time of deep camaraderie. She recalled Aamir Khan using her home to change and make tea during 'Baazi' shoots, a stark contrast to today's industry. Kulkarni emphasized the absence of religious divides among actors then, advocating for unity in the arts.",
-    "img": "https://static.toiimg.com/photo/msid-127778309,imgsize-35268.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mamta-kulkarni-refutes-ar-rahmans-communal-remark-says-aamir-khan-made-tea-in-my-kitchen-changed-in-my-bedroom-recalling-camaraderie-in-the-industry/articleshow/127778297.cms",
-    "time": "2026-01-29T13:45:13.000Z"
   },
   {
     "cat": "Politics",
@@ -457,33 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ranji-trophy-pollution-disrupts-play-players-forced-to-wear-masks-in-mumbai-vs-delhi-match/articleshow/127777645.cms",
     "time": "2026-01-29T13:30:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ahead of ‘Bridgerton’ Season 4, visit these key moments",
-    "desc": "The grand ballrooms of ‘Bridgerton’ are set to welcome audiences once again as a fresh chapter approaches. With new romances waiting in the wings, it’s the perfect moment to revisit the moments that ignited passions, fuelled scandals, and reshaped the lives of the Bridgerton family forever.",
-    "img": "https://static.toiimg.com/photo/msid-127774928,imgsize-21816.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-season-4-key-moments-shocking-revelations-love-stories-to-revisit-from-previous-seasons/photostory/127774928.cms",
-    "time": "2026-01-29T13:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Salman Khan was fuming after Vivek Oberoi's press conference'",
-    "desc": "Producer Shailendra Singh reveals Salman Khan's intense anger following Vivek Oberoi's 2003 press conference, which involved Aishwarya Rai. Singh advised Salman to act, not react, suggesting Salman later ensured Oberoi's career stalled. He also described Salman as a good-hearted individual often caught in unfortunate circumstances.",
-    "img": "https://static.toiimg.com/photo/msid-127777736,imgsize-39106.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-was-fuming-after-vivek-oberois-press-conference-regarding-aishwarya-rai-reveals-the-dabangg-actors-friend-and-producer/articleshow/127777569.cms",
-    "time": "2026-01-29T13:18:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'L-366' first look: Mohanlal teases fans in a gritty new cop avatar",
-    "desc": "Mohanlal has unveiled the first look of his upcoming film 'L-366', reuniting with 'Thudarum' director Tarun Moorthy. The poster features the superstar in a gritty cop avatar, holding shoes and exuding a stern demeanor, hinting at a powerful and meaningful role. The film boasts a strong technical team, with a screenplay by Ratheesh Ravi and cinematography by Shaji Kumar.",
-    "img": "https://static.toiimg.com/photo/msid-127777697,imgsize-73968.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/l-366-first-look-unveiled-mohanlal-teases-fans-in-a-gritty-new-cop-avatar-reunites-with-thudarum-director-tarun-moorthy/articleshow/127777697.cms",
-    "time": "2026-01-29T13:18:31.000Z"
   },
   {
     "cat": "Sports",
@@ -550,15 +532,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "John looks unrecognisable in latest PICS, fans concerned",
-    "desc": "John Abraham's recent clean-shaven appearance has sent social media into a frenzy, with many fans struggling to recognize the actor. While some expressed concern and speculated about his health or a potential movie role, others defended his natural aging process. His latest photos showcase a salt-and-pepper look, sparking widespread discussion about his transformation.",
-    "img": "https://static.toiimg.com/photo/msid-127771452,imgsize-24646.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yeh-kya-hai-john-abraham-looks-unrecognisable-in-latest-pics-in-a-clean-shaven-look-shocked-fans-concerned-about-his-health/articleshow/127770861.cms",
-    "time": "2026-01-29T10:17:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "‘Paatal Lok’ investigates the heart of a nation while ‘Kohrra’ is a relationship drama",
     "desc": "The writer-director along with actors Mona Singh and Barun Sobti speak about the second season of ‘Kohrra’, Mona’s experience of going through intense workshops, Barun’s performance coming from his faith in the writing, how Sudip makes a restrained show amid declining attention spans, and more",
     "img": "https://th-i.thgim.com/public/entertainment/movies/ge4igo/article70564952.ece/alternates/LANDSCAPE_1200/Kohrra%201.jpg",
@@ -601,24 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/why-wait-parthiv-patel-wants-ishan-kishan-in-sanju-samson-out-for-final-ind-vs-nz-t20i/articleshow/127765788.cms",
     "time": "2026-01-29T08:24:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Border 2' box office collection day 7",
-    "desc": "Sunny Deol's patriotic fervor continues to dominate the box office. 'Border 2' has achieved a massive opening, raking in ₹213 crore in its first week, fueled by strong Republic Day sentiment. While not matching 'Gadar 2's' record-breaking pace, the film's success highlights Deol's enduring appeal, especially in mass centers and single screens.",
-    "img": "https://static.toiimg.com/photo/msid-127761810,imgsize-85108.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-7-live-the-sunny-deol-varun-dhawan-ahan-shetty-film-begins-to-slow-down-after-rs-200-crore-lags-behind-gadar-2/articleshow/127761810.cms",
-    "time": "2026-01-29T07:45:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tickets booked, decision pending: 'Pakistan plan WC departure amid boycott cloud'",
-    "desc": "Pakistan's T20 World Cup participation hangs in the balance as the team is booked to depart for Colombo Monday, despite ongoing uncertainty. PCB chief Mohsin Naqvi is expected to make a final decision before the flight, following discussions with the Prime Minister and other stakeholders. Players are urged to remain focused amidst the administrative deliberations.",
-    "img": "https://static.toiimg.com/photo/msid-127761909,imgsize-70422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/tickets-booked-decision-pending-pakistan-plan-t20-world-cup-departure-amid-boycott-cloud-report/articleshow/127761905.cms",
-    "time": "2026-01-29T07:04:12.000Z"
   },
   {
     "cat": "Sports",
@@ -682,6 +637,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/eu-fta-puts-india-on-a-level-playing-field-against-competitors-in-labour-intensive-sectors-chief-negotiator/article70561289.ece",
     "time": "2026-01-28T13:47:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PRIYA trial links teen B12 intake to long-term health in babies",
+    "desc": "Vitamin B12 could be a ‘regulator of regulators’ that controls enzymes involved in gene expression; based on the finding, experts said the national policy should include vitamin B12 supplements to improve the nutritional status of adolescents and women of reproductive age",
+    "img": "https://th-i.thgim.com/public/sci-tech/science/l20z63/article70561345.ece/alternates/LANDSCAPE_1200/raghavendra-v-konkathi-LMhBpSI2-rM-unsplash.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/priya-trial-links-teen-b12-intake-to-long-term-health-in-babies/article70561481.ece",
+    "time": "2026-01-28T13:38:11.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/bangalore/linkin-parks-debut-tour-of-india-kicks-off-with-a-performance-in-bengaluru/article70532992.ece",
     "time": "2026-01-23T19:07:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Baby Girl’ movie review: Nivin Pauly-Lijomol Jose starrer fails to work due to dated approach",
+    "desc": "With the story of a newborn’s disappearance from a hospital losing momentum by the halfway mark, the rest of the film plods along with the aid of the emotional drama and a few convenient contrivance.",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/d0fwqx/article70543037.ece/alternates/LANDSCAPE_1200/Nivin%20Pauly.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/baby-girl-movie-review-nivin-pauly-lijomol-jose-starrer-fails-to-work-due-to-dated-approach/article70543043.ece",
+    "time": "2026-01-23T14:32:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Fujii Kaze’s India connection ahead of Lollapalooza 2026: ‘India is my spiritual hometown’",
+    "desc": "Before taking the Lollapalooza stage in Mumbai this weekend, J-pop artist Fujii Kaze traces a personal arc getting The Beatles treatment in Uttarakhand, reciting bhajans and mantras with family, and a musical career built on inward growth",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/ytncih/article70541614.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/music/fujii-kazes-india-connection-ahead-of-lollapalooza-2026-india-is-my-spiritual-hometown/article70538156.ece",
+    "time": "2026-01-23T08:41:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Calum Scott on his new album Avenoir, his concerts in India and more",
+    "desc": "In India to perform in Delhi and at Lollapalooza Mumbai, English singer-songwriter Calum Scott reflects on exploring different genres for Avenoir, preparing for an extensive world tour, and being excited for the new Harry Styles album",
+    "img": "https://th-i.thgim.com/public/life-and-style/tah1v4/article70541694.ece/alternates/LANDSCAPE_1200/SHOT_06_0025_v1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/music/calum-scott-on-his-new-album-avenoir-his-concerts-in-india-and-more/article70537272.ece",
+    "time": "2026-01-23T08:28:32.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
   }
 ];
