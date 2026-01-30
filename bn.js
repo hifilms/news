@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "হঠাৎ উধাও হয়েছিল, ফিরেও এল আবার ! বিরাট কোহলির ইনস্টাগ্রাম অ্যাকাউন্ট ফের ‘অ্যাক্টিভ’",
+    "desc": "সকাল থেকেই বিরাট কোহলির ইনস্টাগ্রাম অ্যাকাউন্ট নিয়ে কী যে ঘটছে, তা বোঝার উপায় নেই ৷ হঠাৎই উধাও হয়েছিল বিরাট কোহলির ইনস্টাগ্রাম অ্যাকাউন্ট ! সকাল থেকেই শোরগোল পড়ে যায় সোশ্যাল মিডিয়ায় খুঁজে পাওয়া যাচ্ছে না বিরাটের ইনস্টা অ্যাকাউন্ট ৷ আজ, শুক্রবার ভোর থেকেই দেখা যাচ্ছিল না বিরাটের ইনস্টা প্রোফাইল। যা নিয়ে তৈরি হয়েছিল চরম ধোঁয়াশা। কিন্তু কিছু সময় যেতে না যেতেই ফের ‘অ্যাক্টিভ’ বিরাটের প্রোফাইল ৷ সোশ্যাল মিডিয়ায় আবার ফিরে এলেন কিং কোহলি ৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Virat-Kohli-Reactivates-Instagram-Account-2026-01-470622621100b6fe31a382a05f4b494d-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/sports/virat-kohli-deactivates-instagram-account-puzzled-fans-ask-anushka-sharma-know-more-details-smc-2519022.html",
+    "time": "2026-01-30T09:21:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "৭৮তম মৃত্যুবার্ষিকীতে রাজঘাটে মহাত্মা গান্ধিকে শ্রদ্ধা জ্ঞাপন প্রধানমন্ত্রী নরেন্দ্র মোদির! কী বললেন?",
+    "desc": "শুক্রবার সকালে নরেন্দ্র মোদি দিল্লির রাজঘাটে গিয়ে পুষ্পার্ঘ্য অর্পণ করে জাতির জনক মহাত্মা গান্ধিকে শ্রদ্ধা জানান। প্রার্থনাসভায় উপস্থিত ছিলেন রাষ্ট্রপতি দ্রৌপদী মূর্মূ ও উপরাষ্ট্রপতি সি পি রাধাকৃষ্ণন। প্রধানমন্ত্রীর সঙ্গে রাজঘাটে উপস্থিত ছিলেন প্রতিরক্ষা মন্ত্রী রাজনাথ সিং, প্রতিরক্ষা মন্ত্রকের প্রতিমন্ত্রী সঞ্জয় শেঠ এবং কেন্দ্রীয় মন্ত্রী মনোহর লাল খট্টর-সহ একাধিক কেন্দ্রীয় মন্ত্রী।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/narendra-modi-mahatma-gandhi-2026-01-6310186c6664f692fc6ec8f20b453ce5-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/modi-pays-homage-at-rajghat-on-mahatma-gandhis-78th-death-anniversary-smc-2518995.html",
+    "time": "2026-01-30T09:14:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "সরকারি দফতরে মেনস্ট্রুয়াল লিভ চালু হল কর্ণাটকে! কারা পাবেন, কী ভাবে কার্যকর হবে এই ছুটি?",
+    "desc": "মেনস্ট্রুয়াল লিভ নীতি চালু হওয়ার পর নীরবে বদলাচ্ছে সরকারি দফতরের কাজের সংস্কৃতি। হাজিরা খাতা, অনলাইন লিভ সিস্টেম এবং অফিসের দৈনন্দিন কথোপকথনে ধীরে ধীরে জায়গা করে নিচ্ছে এই নতুন নিয়ম, যা বহু মহিলা কর্মীর কাছে স্বস্তির পাশাপাশি স্বীকৃতির বার্তাও দিচ্ছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/menstrual-leave-2026-01-0ac8d2ce994b0a8f648127bb3a8ea2f9-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/ladies-will-have-menstrual-leave-in-karnataka-govt-offices-know-who-is-eligible-office-holiday-policy-tib-ws-l-2518809.html",
+    "time": "2026-01-30T07:58:08.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "\"মিথ্য বারবার বললে তা TRP হয়, সত্য হয় না!\" বনগাঁর ঘটনায় তন্ময় শাস্ত্রী গ্রেফতারের পর বিস্ফোরক মিমি চক্রবর্তী",
     "desc": "অভিনেত্রী জোর গলায় আবার বলেন যে তাঁকে নিয়ে দেরি করে যাওয়ার যে অভিযোগ উঠছে তা পুরোপুরি রটনা৷ তারকারা 'লেট' করেন, এটি একটি প্রচলিত ধারণা, যা তাঁর ক্ষেত্রে কখনও ঠিক নয়৷ তিনি নারীদের অসম্মান করার জন্য বারবার প্রতিবাদ করেছেন এবং নিজের ক্ষেত্রে তিনি যে মিথ্যের বিরুদ্ধে লড়বেন, সেটাই স্বাভাবিক৷",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/knowledge-story-do-you-know-what-is-the-silver-price-and-gold-price-in-bangladesh-sta-2507253.html",
     "time": "2026-01-21T10:38:47.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ট্রেনিং-এর সময় প্রেমে পড়েন নৌবাহিনীর মার্শালের, একেবারে হিন্দি ফিল্মের মতো সুনীতা উইলিয়ামসের লাভ স্টোরি!",
-    "desc": "প্রথমে তাঁরা বন্ধু হয়ে ওঠেন। তারপর প্রেম হয়। তবে, দুজনেই বিয়েতে কোনও তাড়াহুড়ো করেননি। বেশ কয়েক বছর বন্ধুত্ব এবং তারপর সম্পর্কে থাকার পর, তারা বিয়ে করার সিদ্ধান্ত নেন। নব্বইয়ের দশকের শেষের দিকে তাদের বিয়ে হয়",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Web-2026-01-21T141721.467-2026-01-4fb25477323325c87de0e3eba298eea3-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/international/sunita-williams-retires-from-nasa-after-27-years-who-is-her-husband-know-their-love-story-pbd-2-2507053.html",
-    "time": "2026-01-21T09:51:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "কেরিয়ারের সব থেকে বড় দুঃসংবাদ পেতে চলেছে মহম্মদ শামি! বোর্ড দেবে বড় ধাক্কা, আর বেশি দেরি নেই",
-    "desc": "কয়েকটি রিপোর্টে এবার দাবি করা হচ্ছে, শীর্ষ বিভাগ A+ তুলে দেওয়ার কথা ভাবছে ভারতীয় ক্রিকেট বোর্ড। ফলে সেক্ষেত্রে কেন্দ্রীয় চুক্তি শুধুমাত্র তিনটি স্তরে সীমাবদ্ধ থাকবে। আর বেশি ম্যাচ না খেলার কারণে একাধিক তারকা ক্রিকেটারের এবার চুক্তি থেকে বাদ পড়ার সম্ভাবনা রয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/10/shami-2-2025-10-fdfc2ae309035244c17abaaf7059dde3-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/team-india-pacer-mohammed-shami-likely-to-be-dropped-from-bcci-central-contracts-smj-2507115.html",
-    "time": "2026-01-21T09:39:39.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "‘পৃথিবীর বুক থেকে মুছে দেবে...,’ইরানকে ফের হুমকি! ট্রাম্প বললেন, ‘আমার যদি কিছু হয়..’",
-    "desc": "এই বাক বিতণ্ডা শুরু হয় ট্রাম্পের একটি সাম্প্রতিক সাক্ষাৎকারের পর থেকে৷ সেখানে ট্রাম্প বলেছিলেন,‘‘ (উনি) একজন অসুস্থ মানুষ যাঁর উচিত তাঁর দেশ সঠিকভাবে পরিচালনা করা এবং মানুষ হত্যা বন্ধ করা’’ এবং ‘‘ইরানে নতুন নেতৃত্ব খোঁজার সময় এসেছে’’ বলে বর্ণনা করেছিলেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangla-News-2026-01-21T132347.591-2026-01-684370aeaa92243eacee6edc85366f8a-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/international/donald-trump-says-america-will-wipe-out-iran-if-it-he-is-in-amy-life-threat-from-them-us-iran-tensions-sta-2506779.html",
-    "time": "2026-01-21T08:05:24.000Z"
   }
 ];
