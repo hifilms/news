@@ -1,5 +1,86 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Singer Madhushree REACTS to Arijit's post: 'Great decision'",
+    "desc": "Acclaimed vocalist Madhushree has expressed her admiration for Arijit Singh's bold choice to leave playback singing behind, describing it as a brave decision amid his successful career. She reflects on how he might resonate with legends like Lata Mangeshkar, who also sought new artistic horizons after reaching their saturation point.",
+    "img": "https://static.toiimg.com/photo/msid-127809709,imgsize-32850.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/singer-madhushree-of-kabhi-neem-neem-fame-reacts-to-arijit-singhs-retirement-announcement-says-its-a-great-decision/articleshow/127809709.cms",
+    "time": "2026-01-30T20:24:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sunetra Pawar set to be first woman Deputy Chief Minister of Maharashtra",
+    "desc": "CM says government will support NCP decision; Parth Pawar likely to replace his mother as a Rajya Sabha MP; reunification not a priority, says NCP leader Chhagan Bhujbal, even as some NCP-SP leaders push for it",
+    "img": "https://th-i.thgim.com/public/incoming/6jp80l/article70571991.ece/alternates/LANDSCAPE_1200/11908_29_1_2026_14_29_20_5_DSC_2491.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/sunetra-pawar-to-be-the-first-woman-deputy-chief-minister-of-maharashtra/article70571341.ece",
+    "time": "2026-01-30T19:56:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sanjay Mishra on Arijit’s retirement: 'It becomes lonely'",
+    "desc": "In a recent interview, seasoned actor Sanjay Mishra, while advocating for his upcoming movie 'Vadh 2', weighed in on the news of Arijit Singh stepping back from playback singing. Mishra expressed that such moves are crucial for artists who need to navigate the highs of fame and seek authentic happiness.",
+    "img": "https://static.toiimg.com/photo/msid-127809514,imgsize-60382.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanjay-mishra-responds-to-arijit-singhs-retirement-from-playback-singing-says-heart-is-so-small-it-becomes-lonely/articleshow/127809514.cms",
+    "time": "2026-01-30T19:47:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A soldier few know, a record few can match: Brigadier Henry Bhaskar’s journey through two wars and beyond",
+    "desc": "A frontline officer in the 1965 and 1971 wars, Brigadier Bhaskar went on to become the first chairman of the Chittagong Port Trust in newly liberated Bangladesh after leading Indian troops into the strategic harbour city",
+    "img": "https://th-i.thgim.com/public/incoming/z83ba0/article70571983.ece/alternates/LANDSCAPE_1200/DSC2351.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/a-soldier-few-know-a-record-few-can-match-brigadier-henry-bhaskars-journey-through-two-wars-and-beyond/article70569402.ece",
+    "time": "2026-01-30T19:40:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "2-day conclave will focus on inclusive tourism",
+    "desc": "Policymakers, industry leaders, designers, economists, accessibility practitioners, and travellers will share the stage on the first day as it will bring together policy intent, expert perspectives, lived experience, and design practice to debate on the central question of what it will take to make tourism truly inclusive.",
+    "img": "https://th-i.thgim.com/public/news/national/g35gtm/article70571397.ece/alternates/LANDSCAPE_1200/KFA%20Logo%20Final-02.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-for-all-conclave-on-inclusive-tourism-begins-january-31/article70571333.ece",
+    "time": "2026-01-30T19:35:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "When the sea became a shared responsibility for scientists and people living along the coast",
+    "desc": "Over the past two decades, INCOIS’s Wave Monitoring Along Nearshore (WAMAN) buoy network has been transforming India’s coastal forecasting by combining science with community trust. With 17 nearshore buoys and active local participation, WAMAN delivers real-time wave data that strengthens early warnings, supports fishers and ports, and ensures long-term, sustainable ocean observation",
+    "img": "https://th-i.thgim.com/public/incoming/2atzn4/article70571981.ece/alternates/LANDSCAPE_1200/IMG_incois_1_2_1_CPER2LU9.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/when-the-sea-became-a-shared-responsibility-for-scientists-and-people-living-along-the-coast/article70569836.ece",
+    "time": "2026-01-30T19:34:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alia Bhatt admits wanting to quit social media at times",
+    "desc": "Alia Bhatt has spoken candidly about how motherhood has reshaped her life, mindset and sense of privacy. In a recent interview, the actor reflected on the emotional shift she experienced after welcoming her daughter Raha with husband Ranbir Kapoor in 2022.",
+    "img": "https://static.toiimg.com/photo/msid-127809436,imgsize-65332.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-admits-wanting-to-quit-social-media-at-times-my-photo-album-is-full-of-raha/articleshow/127809414.cms",
+    "time": "2026-01-30T19:33:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Catherine O'Hara, 'Home Alone' actress, passes away",
+    "desc": "With deep sadness, we announce the passing of the beloved Canadian actress Catherine O'Hara at the age of 71, following a short illness. Renowned for her unforgettable performances in iconic films like 'Home Alone' and the hit series 'Schitt's Creek,' Catherine's talent blossomed over an impressive career that spanned five decades.",
+    "img": "https://static.toiimg.com/photo/msid-127809071,imgsize-64192.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/catherine-ohara-home-alone-and-schitts-creek-actress-passes-away-at-71/articleshow/127809071.cms",
+    "time": "2026-01-30T19:06:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Did Rajat Bedi take DIG at Hrithik's 'Koi Mil Gaya' in new ad?",
+    "desc": "In a cheeky new advertisement, Rajat Bedi, famed for his performance in 'The Ba***ds of Bollywoods', seems to be playfully poking fun at 'Koi Mil Gaya'. The spot features him embodying a menacing villain striving to attain the title of 'ultimate villain', cleverly alluding to extraterrestrials, aversion to sunlight, and a quirky character named 'Neela Khajur', echoing the beloved Jadoo.",
+    "img": "https://static.toiimg.com/photo/msid-127808035,imgsize-28326.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-rajat-bedi-take-multiple-digs-at-hrithik-roshans-koi-mil-gaya-in-his-latest-ad-says-theres-still-time-to-reach-your-prime/articleshow/127808035.cms",
+    "time": "2026-01-30T18:27:01.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "It’s not very nice to change the country you represent: WGM Sara Khadem on leaving Iran for Spain",
     "desc": "The 28-year-old was forced out of Iran after playing in the 2022 World Rapid and Blitz Championships without wearing a headscarf. She talks about her courageous decision, her life in Spain, the quality of chess in both countries, her experience of competing in the Global Chess League, and dealing with her son’s cheeky Spanish",
@@ -79,15 +160,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/tennis/australian-open-2026-tennis-championship-mens-semifinal/article70569640.ece",
     "time": "2026-01-30T17:20:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sunetra Pawar to be the first woman Deputy Chief Minister of Maharashtra",
-    "desc": "CM says government will support NCP decision; Parth Pawar likely to replace his mother as a Rajya Sabha MP; reunification not a priority, says a group of NCP leaders, even as NCP-SP leaders push for it",
-    "img": "https://th-i.thgim.com/public/incoming/k0456c/article70571544.ece/alternates/LANDSCAPE_1200/DSC_8444.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/sunetra-pawar-to-be-the-first-woman-deputy-chief-minister-of-maharashtra/article70571341.ece",
-    "time": "2026-01-30T17:18:43.000Z"
   },
   {
     "cat": "Politics",
@@ -205,15 +277,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/chinas-coast-guard-patrolled-japan-held-islands-almost-daily-last-year-as-tensions-flare/article70571585.ece",
     "time": "2026-01-30T16:03:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Kerala for All’ conclave on inclusive tourism begins January 31",
-    "desc": "Policymakers, industry leaders, designers, economists, accessibility practitioners, and travellers will share the stage on the first day as it will bring together policy intent, expert perspectives, lived experience, and design practice to debate on the central question of what it will take to make tourism truly inclusive.",
-    "img": "https://th-i.thgim.com/public/news/national/g35gtm/article70571397.ece/alternates/LANDSCAPE_1200/KFA%20Logo%20Final-02.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-for-all-conclave-on-inclusive-tourism-begins-january-31/article70571333.ece",
-    "time": "2026-01-30T16:03:10.000Z"
   },
   {
     "cat": "Entertainment",
@@ -559,39 +622,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Ram Charan–Upasana to welcome their twin babies on THIS date",
-    "desc": "Tollywood is abuzz with reports that Ram Charan and Upasana Kamineni are expecting twins, with a speculated delivery date of January 31, 2026. Preparations are underway for a grand welcome, and Ram Charan is reportedly planning a break from his film 'Peddi' to be with his wife. Fans are showering the couple with blessings.",
-    "img": "https://static.toiimg.com/photo/msid-127801828,imgsize-41690.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ram-charanupasana-to-welcome-their-twin-babies-on-this-date-peddi-actor-to-take-break-from-movie-work-for-his-wife/articleshow/127801828.cms",
-    "time": "2026-01-30T12:54:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Dhurandhar' was edited for OTT without Aditya Dhar's consent: Report",
     "desc": "The blockbuster film 'Dhurandhar' has faced controversy with its OTT release on Netflix, with fans disappointed by a reportedly censored version. While one report claims Netflix made edits without director approval, another suggests the filmmakers submitted an unaltered version compliant with streamer mandates. Meanwhile, 'Dhurandhar 2' is slated for an Eid 2026 release.",
     "img": "https://static.toiimg.com/photo/msid-127801654,imgsize-24944.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singhsdhurandhar-was-edited-for-ott-reduced-by-nine-minutes-without-aditya-dhars-consent-report/articleshow/127801364.cms",
     "time": "2026-01-30T12:50:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi condoles deaths in Anandapur mishap; announces Rs 2 lakh ex-gratia",
-    "desc": "A devastating fire in Kolkata's Anandapur area has claimed at least 11 lives, with many still missing. Prime Minister Modi announced ex-gratia payments for victims. Investigations reveal potential fire safety lapses at the godowns, with authorities probing the exact cause and legal action planned against owners. Relatives anxiously await news.",
-    "img": "https://static.toiimg.com/photo/msid-127801343,imgsize-619376.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kolkata-godown-fire-pm-modi-condoles-deaths-in-anandapur-mishap-announces-rs-2-lakh-ex-gratia/articleshow/127801271.cms",
-    "time": "2026-01-30T12:35:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' censor: CBFC moves SC against Vijay's film",
-    "desc": "The CBFC has approached the Supreme Court regarding the censor row for Thalapathy Vijay's film 'Jana Nayagan', pushing its release further. After a single judge favored producers for immediate certification, the CBFC challenged this, leading the Madras High Court's division bench to order a fresh hearing. The film's release is now entirely dependent on court outcomes.",
-    "img": "https://static.toiimg.com/photo/msid-127801178,imgsize-112698.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-censor-row-cbfc-moves-supreme-court-thalapathy-vijays-film-release-to-be-pushed-further/articleshow/127801178.cms",
-    "time": "2026-01-30T12:32:27.000Z"
   },
   {
     "cat": "World",
@@ -630,15 +666,6 @@ const newsData_en = [
     "time": "2026-01-30T12:19:02.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Aishwarya Rajesh alleges harassment by a photographer",
-    "desc": "Actress Aishwarya Rajesh has revealed a disturbing early career experience where a photographer allegedly asked her to strip. She recounted feeling overwhelmed but managed to leave the situation by asking for her brother's permission. Rajesh also shared an incident of being publicly reprimanded by a director, highlighting the challenges faced by women in the film industry.",
-    "img": "https://static.toiimg.com/photo/msid-127800830,imgsize-58952.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/aishwarya-rajesh-alleges-harassment-by-a-photographer-shares-shocking-early-career-experience/articleshow/127800830.cms",
-    "time": "2026-01-30T12:17:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Not the end of the road for Manpreet, others: Hockey India",
     "desc": "The Federation could be looking at working a way out to allow an honourable exit to the players, specially Manpreet, by including them for the Asian Games making it clear it would be their farewell event",
@@ -646,15 +673,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/hockey/not-the-end-of-the-road-for-manpreet-others-hockey-india/article70570007.ece",
     "time": "2026-01-30T12:09:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Twenty AIIMS join hands to create pan-India health research consortium",
-    "desc": "Directors of 20 AIIMS institutions have signed an MoU to establish a Pan-India collaborative research consortium. This initiative aims to strengthen biomedical and clinical research by pooling expertise, infrastructure, and patient data for joint projects and multicentric studies. The consortium will focus on national health priorities, including AI in healthcare and affordable therapies.",
-    "img": "https://static.toiimg.com/photo/msid-127800088,imgsize-737013.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/twenty-aiims-join-hands-to-create-pan-india-health-research-consortium/articleshow/127800065.cms",
-    "time": "2026-01-30T11:48:49.000Z"
   },
   {
     "cat": "World",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/budget/economic-survey-2025-26-cea-recommends-rationalising-tax-on-debt-assets/article70566726.ece",
     "time": "2026-01-29T15:18:33.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Voice-first AI systems in native languages to make large populations digitally inclusive: Economic Survey",
-    "desc": "India top contributor to global AI research; AI may trigger herding behaviour in financial markets; Investors may get amplified shocks as social media broadcast micro-data; AI to make substantial contributions to revenue growth; AI impact on global trade; India is witnessing a surge in AI data centres, yet it is still a tip of the ice-berg story",
-    "img": "https://th-i.thgim.com/public/news/national/z02zo/article70566426.ece/alternates/LANDSCAPE_1200/iStock-1494104649.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/voice-first-ai-systems-in-native-languages-to-make-large-populations-digitally-inclusive-economic-survey/article70566118.ece",
-    "time": "2026-01-29T14:08:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RANJI TROPHY",
-    "desc": "The visitor suffers early setback before the second-wicket century steadies proceedings thanks mainly due to the host pacers straying in length; play called off due to poor visibility caused by dusty conditions during the extended half-hour",
-    "img": "https://th-i.thgim.com/public/incoming/45gwtt/article70565855.ece/alternates/LANDSCAPE_1200/11908_18_10_2024_18_32_22_3_DSC_7161.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-avasthis-incisive-spell-swings-it-mumbais-way-after-sangwans-ton-for-delhi/article70565762.ece",
-    "time": "2026-01-29T12:56:29.000Z"
   }
 ];
