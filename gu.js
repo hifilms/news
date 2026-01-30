@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "જર્મની, ઑસ્ટ્રિયા અને સ્વિટ્ઝર્લૅન્ડમાં ભારતીય શોનો માણો આનંદ, ઝી એન્ટરટેઈનમેન્ટ કરી ભાગીદારીની જાહેરાત",
+    "desc": "ઝી ટીવીના મનોરંજન કાર્યક્રમો હવે યુરોપમાં તેની પહોંચ વિસ્તારવા માટે તૈયાર છે. ઝી એન્ટરટેઈનમેન્ટ યુકેએ લાઈવ ફાસ્ટ ચેનલના લોન્ચ સાથે ભાગીદારી કરી છે, જે ત્રણ દેશોના દર્શકોને જર્મન સબટાઈટલ સાથે ભારતીય શો જોવાની મંજૂરી આપશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/enjoy-indian-shows-in-germany-austria-and-switzerland-zee-entertainment-announces-partnership-463395 ",
+    "time": "2026-01-30T15:46:22.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "સુપ્રીમના સ્ટે બાદ UGC પર ભાજપનું પહેલું નિવેદન, જાણો શું કહ્યું ?",
     "desc": "દેશમાં સવર્ણ સમાજના ભારે વિરોધ બાદ સુપ્રીમ કોર્ટે આ નિર્ણય પર હાલ પુરતો સ્ટે મુક્યો છે, અને સરકારને માર્ચ મહિનાની તારીખ આપી છે, ત્યારે આજે ભાજપના નેતાને પુછવામાં આવતા તેમને UGC પર જવાબ આપ્યો હતો.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -502,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/new-zealand-announced-major-squad-changes-remaining-india-t20-series-463056 ",
     "time": "2026-01-27T07:21:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "નેટ સાયવર-બ્રન્ટે રચ્યો ઇતિહાસ... WPLમાં આવું કરનાર પ્રથમ બેટ્સમેન બની",
-    "desc": "ઇંગ્લેન્ડની સ્ટાર ઓલરાઉન્ડર નેટ સાયવર-બ્રન્ટે 26 જાન્યુઆરીએ ઈતિહાસ રચ્યો. મુંબઈ ઇન્ડિયન્સ વતી રમતા તેણીએ વડોદરાના કોટંબી સ્ટેડિયમ ખાતે WPL 2026ની 16મી મેચમાં રોયલ ચેલેન્જર્સ બેંગ્લોર સામે સદી ફટકારી. આ સાથે નેટ સાયવર-બ્રન્ટ WPLમાં સદી ફટકારનાર પ્રથમ ખેલાડી બની છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/nat-sciver-brunt-created-history-become-first-player-to-hit-century-in-wpl-2026-463043 ",
-    "time": "2026-01-27T05:52:28.000Z"
   },
   {
     "cat": "Tech",

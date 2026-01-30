@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "' #TakeBackYourSanyaas...এটা মেনে নেওয়া যায় না' অরিজিতের শেষ অপ্রকাশিত গান 'ইশক কা ফিভার'-গাইছেন বিশাল ভরদ্বাজ, ভাইরাল ভিডিও",
+    "desc": "গত কয়েক দিন ধরে সমাজমাধ্যমে তুলকালাম! বিষয়টা কী? অরিজিৎ সিং নিজে ঘোষণা করেছেন, তিনি আর ছবিতে গান গাইবেন না অর্থাৎ প্লেব্যাক থেকে অবসর নিলেন 'অ্যায় দিল হ্যায় মুশকিল' তারকা! খবর শুনেই আকাশ ভেঙে পড়ল ভক্ত মহলের বুকে",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/2026-01-cf3db3bcf42167b6171cf419725aa191-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/arijit-singh-takebackyoursanyaas-this-is-unfair-take-back-your-sanyaas-vishal-bhardwajs-appeal-to-arijit-singh-rm-2519673.html",
+    "time": "2026-01-30T18:34:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বাংলাদেশ সীমান্তের কাছে রেল যোগাযোগ বাড়াচ্ছে কেন্দ্র, চালু হচ্ছে চার- চারটি লাইন...! কী প্রভাব পড়বে ভারত-বাংলাদেশ সম্পর্কে?",
+    "desc": "উত্তর ২৪ পরগনা, নদিয়া ও সংলগ্ন এলাকার চার- চারটি নতুন লাইন প্রকল্পকে পুনরায় চালু করার উদ্যোগ নিল কেন্দ্রীয় রেল মন্ত্রক। এই নতুন লাইন প্রকল্পগুলোর মধ্যে রয়েছে বনগাঁ – পোড়া মহেশতলা (২০ কিমি) নতুন লাইন প্রকল্প, বনগাঁ – চাঁদবাজার (১১.৫ কিমি) নতুন লাইন প্রকল্প, চাঁদবাজার – বাগদা (১৩.৮ কিমি) নতুন লাইন প্রকল্প এবং রানাঘাট (আড়ংঘাটা) – দত্তফুলিয়া (৮.১৭ কিমি) নতুন লাইন প্রকল্প।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-30-at-22.05.36-1-2026-01-fb18633478aa58073105f401cc61b6b5-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/west-bengal/indian-railways-4-lines-to-reopen-in-india-bnagladesh-border-area-know-what-impact-to-follow-on-india-bangladesh-relation-economically-and-socially-sanj-2518901.html",
+    "time": "2026-01-30T16:55:23.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "‘অজিত পওয়ারের শেষ ইচ্ছে..,’ ফের এক হচ্ছে NCP? মহারাষ্ট্রের উপ মুখ্যমন্ত্রী পদে অজিত-স্ত্রী সুনেত্রার নাম",
     "desc": "এর মাঝেই আলোচনায় এসেছে এনসিপি-র দুই গোষ্ঠীর ফের একত্রিত হয়ে যাওয়ার কথা৷ এনসিপি-র অন্দর সূত্রের খবর, এনসিপি ‘মার্জার’ই নাকি ছিল অজিত পওয়ারের শেষ ইচ্ছে৷ গত ডিসেম্বর-জানুয়ারি ধরে শরদ পওয়ারের সঙ্গে দফায় দফায় তিনি বৈঠক করেছিলেন বলেও জানা গিয়েছে৷",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/technology/do-you-know-what-is-the-purpose-of-small-hole-near-speaker-in-smartphone-many-people-have-no-idea-about-it-smc-2507565.html",
     "time": "2026-01-21T13:21:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sourav's Biopic Shooting: সৌরভের বাড়ির অন্দরের আনাচকানাচও বাদ যাচ্ছে না, বলিউড ডিরেক্টর এবার যা করছেন, দেখুন ভিডিও",
-    "desc": "সৌরভের বায়োপিকের শ্যুটিং শুরু! শুভ মহারৎ কবে? বায়োপিকে সৌরভের নায়িকার ভূমিকায় বাঙালি মুখ!কয়েকদিন ধরেই কলকাতায় পরিচালক বিক্রমাদিত্য মোটওয়ানি। সৌরভ গঙ্গোপাধ্যায়ের বায়োপিকের খুঁটিনাটি নিয়ে চলছে জোরকদমে কাজ। উদ্দেশ্য, ‘দাদা’র বেহালার বাড়ির আনাচকানাচ খুঁটিয়ে দেখা। ভারতীয় ক্রিকেটে আগ্রাসনের জন্ম দেওয়া অধিনায়ক সৌরভের বায়োপিক ঘিরে আগ্রহ সব মহলেই৷ সংবাদ মাধ্যমের খবর অনুসারে মুম্বইয়ের স্টুডিওতে ‘দাদা’র বাড়ি তৈরি হবে। তাই বলিউডের বিখ্যাত ডিরেক্টর বিক্রম ছবি তুলে নিয়ে যাচ্ছেন।” সব ঠিক থাকলে মার্চ মাস থেকে শুরু হবে শ্যুটিং। সিনেমায় থাকবে কলকাতা, মুম্বই, লন্ডন-সহ নানা জায়গা৷ দেখুন বাংলা নিউজ ভিডিও (Watch bangla news video)৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/sourav-ganguly-biopic-2026-01-6575a93883e6667f9c8d63b40ad066e4-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/sports/sourav-s-biopic-shooting-bollywood-director-vikramaditya-motwani-is-visiting-all-the-places-in-kolkata-including-dada-s-behala-residence-dd-2507509.html",
-    "time": "2026-01-21T13:05:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "টানা ৯০ মিনিট প্রাণ বাঁচানোর 'বৃথা' চেষ্টা ইঞ্জিনিয়ার যুবকের, শেষ মুহূর্ত ধরা পড়ল ভিডিওতে",
-    "desc": "গত শনিবার গভীর রাতে অফিস থেকে বাড়ি ফেরার পথে জল ভর্তি ওই গর্তে পড়ে যায় ২৭ বছর বয়সি সফটওয়্যার ইঞ্জিনিয়ার তরুণ মেহতার গাড়ি৷ মৃতের পরিবারের অভিযোগ, সময় মতো উদ্ধারকাজ শুরু না হওয়ায় জলে ডুবে মৃত্যু হয় ওই যুবরাজের৷ এই পরেই মৃত ইঞ্জিনিয়ারের বাবার অভিযোগের ভিত্তিতে উইশটাউন প্ল্যানার্স এবং লোটাস গ্রিনস নামে আরও একটি সংস্থার বিরুদ্ধে এফআইআর দায়ের করে পুলিশ৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/car1-2026-01-5a63dcbd04f4241bf69e90bf021bd40b.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/noida-car-accident-video-how-the-young-boy-struggled-for-90-minutes-to-save-his-life-pbd-2507420.html",
-    "time": "2026-01-21T11:48:26.000Z"
   }
 ];
