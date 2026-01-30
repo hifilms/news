@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "বিনামূল্যে স্যানিটারি প্যাড...দিতেই হবে স্কুলকে, কড়া নির্দেশ দিয়ে দিল সুপ্রিম কোর্ট! জানাল, ‘মেনস্ট্রুয়াল হেলথ সাংবিধানিক মৌলিক অধিকার’",
+    "desc": "২০২৪ সালের ১০ ডিসেম্বর আদালতে একটি জনস্বার্থ মামলা দায়ের করেছিলেন জয়া ঠাকুর নামে এক মহিলা৷ তাঁর আবেদনে তিনি জানিয়েছিলেন, সারা ভারতজুড়ে সমস্ত সরকারি এবং সরকার মদতপুষ্ট স্কুলে ক্লাস ৬-১২ শ্রেণীর ছাত্রীদের জন্য কেন্দ্রীয় সরকারি মেনস্ট্রুয়াল হাইজিন পলিসি কার্যকর করতে হবে৷ সেই আবেদনের প্রেক্ষিতে শুক্রবার উপরোক্ত নির্দেশগুলি দেয় সুপ্রিম কোর্ট৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-30-at-17.44.46-1-2026-01-6622b2d4007f0aeb5fe10bdbb4b0f3f4-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/education-career/supreme-court-on-menstrual-health-says-every-school-shculd-provide-free-sanitary-napkin-to-the-girls-sta-2519308.html",
+    "time": "2026-01-30T12:28:16.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "গুগলে ২৪ ঘণ্টায় 'কতবার' Search করা হয় জানেন...? চমকে দেবে 'স্ট্যাটিস্টিক্স'!",
+    "desc": "আপনি কি কখনও ভেবে দেখেছেন যে গুগলে দিনে ঠিক কতবার সার্চ করা হয়? যদি আপনি কখনও এই নিয়ে অনুসন্ধান করে থাকেন, বা ভেবে থাকেন তাহলে চলুন আজ এই প্রতিবেদনটিতে আপনাকে শেয়ার করব সেই অবাক করা তথ্য।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-30-at-15.28.12-2026-01-fbc8ff4d228d1cb3fc52b83126046bab-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/off-beat/google-search-do-you-know-how-many-times-google-is-searched-in-24-hours-how-many-times-we-google-search-in-a-day-you-never-can-guess-it-the-statistics-will-surprise-you-for-sure-sanj-2519172.html",
+    "time": "2026-01-30T11:09:35.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "হঠাৎ উধাও হয়েছিল, ফিরেও এল আবার ! বিরাট কোহলির ইনস্টাগ্রাম অ্যাকাউন্ট ফের ‘অ্যাক্টিভ’",
     "desc": "সকাল থেকেই বিরাট কোহলির ইনস্টাগ্রাম অ্যাকাউন্ট নিয়ে কী যে ঘটছে, তা বোঝার উপায় নেই ৷ হঠাৎই উধাও হয়েছিল বিরাট কোহলির ইনস্টাগ্রাম অ্যাকাউন্ট ! সকাল থেকেই শোরগোল পড়ে যায় সোশ্যাল মিডিয়ায় খুঁজে পাওয়া যাচ্ছে না বিরাটের ইনস্টা অ্যাকাউন্ট ৷ আজ, শুক্রবার ভোর থেকেই দেখা যাচ্ছিল না বিরাটের ইনস্টা প্রোফাইল। যা নিয়ে তৈরি হয়েছিল চরম ধোঁয়াশা। কিন্তু কিছু সময় যেতে না যেতেই ফের ‘অ্যাক্টিভ’ বিরাটের প্রোফাইল ৷ সোশ্যাল মিডিয়ায় আবার ফিরে এলেন কিং কোহলি ৷",
@@ -412,15 +430,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/usurer-traitor-sheikh-hasina-fierce-attack-on-interim-head-muhammad-yunus-bangladesh-polls-2026-to-restore-democracy-tib-ws-l-2514719.html",
     "time": "2026-01-27T12:29:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "রাস্তায় ১০ সেকেন্ড দূরে দাঁড়িয়েছিল যম, নাচতে নাচতে ছুটে আসা তিনের শিশুকে থেঁতলে দিল সাউন্ডবক্স! ভয়াল VDO...",
-    "desc": "ফুটেজে আরও দেখা যায়, স্পিকারটি পড়ে যাওয়ার পর আশেপাশে থাকা মানুষজন ভয়ে ও আতঙ্কে চিৎকার শুরু করেন। কিন্তু আশ্চর্যের বিষয় হল, যার অসাবধানতার কারণে স্পিকারটি পড়ল, সেই ব্যক্তিটি একবারও পেছনে না তাকিয়েই ঘটনাস্থল থেকে সরে যান।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/3-year-old-girl-dies-in-vikhroli-after-loudspeaker-collapse-due-to-negligence-cctv-footage-goes-viral_637618.html ",
-    "time": "2026-01-27T09:54:47.000Z"
   },
   {
     "cat": "World",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/netaji-jayanti-2026-special-program-at-victoria-memorial-with-dona-ganguly-iman-chakraborty-and-others-pbd-2507256.html",
     "time": "2026-01-21T11:14:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাংলাদেশে এখন সোনা-রুপোর দাম কত জানেন? ভারতের চেয়ে কম না বেশি..যা বলছে তথ্য",
-    "desc": "আজ, বুধবার ২১ জানুয়ারি ২২ ক্যারেট সোনার দাম ১৪,৭১০ টাকা হয়েছে ৷ ১৮ ক্যারেটের দাম ১৪,০৯১ টাকা হয়েছে ৷ ১ কেজি রুপোর দাম হয়েছে ৩,২৫,০৬৩ টাকা হয়েছে ৷ সোনা ও রুপো কেনার সময়ে উপরে দেওয়া দামের সঙ্গে আরও ৩ শতাংশ GST যুক্ত হবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-21-at-16.00.57-2026-01-2bf6f5f090b27a7e4684e51ac9e037e5-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/knowledge-story-do-you-know-what-is-the-silver-price-and-gold-price-in-bangladesh-sta-2507253.html",
-    "time": "2026-01-21T10:38:47.000Z"
   }
 ];

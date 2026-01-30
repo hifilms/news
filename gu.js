@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "બજેટ પૂર્વે કેમ યોજાય છે &amp;#039;હલવા સેરેમની&amp;#039;? જ્યારે એકવાર તોડવી પડી હતી આ પરંપરા, જાણો શું હતું કારણ?",
+    "desc": "આ વર્ષે દેશનું બજેટ રવિવારના દિવસે રજૂ થવા જઈ રહ્યું છે, પરંતુ બજેટ પહેલા હલવા સેરેમની ખૂબ જ ખાસ હોય છે. ચાલો જાણીએ કે, ક્યા વર્ષે આ સેરેમની મનાવવામાં આવી ન હતી અને તેની પાછળના કારણો શું હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/budget-2026-halwa-ceremony-history-and-significance-463379 ",
+    "time": "2026-01-30T12:37:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "અચાનક ફુગ્ગો ફૂટ્યો... 85000 રૂપિયા સસ્તી થઈ ચાંદી, સોનાનો ભાવ પણ થયો ક્રેશ !",
+    "desc": "ચાંદી અને સોનાના ભાવમાં તીવ્ર ઘટાડો થયો છે. ચાંદી તેના સર્વકાલીન ઉચ્ચતમ સ્તરથી 85000 રૂપિયાનો ઘટાડો થયો છે, જ્યારે સોનામાં 25000 રૂપિયાથી વધુનો ઘટાડો થયો છે. જાણો સોના અને ચાંદીના ભાવમાં આટલો ઘટાડો કેમ થયો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/suddenly-the-bubble-burst-silver-became-cheaper-by-rs-85000-gold-prices-also-crashed-463376 ",
+    "time": "2026-01-30T12:07:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "અજિત પવાર 14 મિટિંગ કરીને શું કરી રહ્યા હતા તૈયારી? ભાજપને સાથે રાખી બનાવ્યો પ્લાન... હવે સામે આવી આખી કહાની",
+    "desc": "અજિત પવારના અવસાન બાદ એક તરફ તે ચર્ચા ચાલી રહી છે કે, નવા ડેપ્યુટી સીએમ કોન બનશે, NCPનું નેતૃત્વ કોણ કરશે? આ વચ્ચે જાણવા મળ્યું છે કે, અજિત દાદા 1-2 નહીં, પરંતુ 14 મહત્વપૂર્ણ મિટિંગ કરી એક મોટો પ્લાન બનાવી રહ્યા હતા. ભાજપ લીડરશિપને પણ વિશ્વાસમાં લીધું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/ajit-pawar-14-meetings-on-ncp-unification-bjp-was-informed-inside-story-463374 ",
+    "time": "2026-01-30T11:49:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "અનુપમાના &amp;#039;ઘુમા-ઘુમાકર મારુંગી&amp;#039; ડાયલોગથી સોશિયલ મીડિયા પર આવ્યું વાવાઝોડું, તમે પણ ફટાફટ જોઈ લો Video",
+    "desc": "અનુપમા ટીવી સીરિયલમાં એક પછી એક ટ્વિસ્ટ આવતા જ રહે છે. જો કે આ શોની એક મજા છે કે થોડા થોડા સમયે અનુપમાના એવા એવા ડાયલોગ વાયરલ થાય છે કે જેને લઈ સોશિયલ મીડિયા પર રીલ્સનો ટ્રેડ શરુ થાય છે. આવો જ એક ડાયલોગ હાલ ઈંટરનેટ પર છવાયો છે. તો ફટાફટ તમે પણ આ ડાયલોગ સાંભળો. અનુપમાનો આ ડાયલોગ સાંભળી તમારા કાનમાંથી પણ લોહી નીકળી જશે..",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/anupama-dialogue-video-viral-social-media-trend-anupama-new-dialogue-monologue-463366 ",
+    "time": "2026-01-30T10:53:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "FASTag માં ગરબડ ગોટાળો : 18 લાખ લોકોને ટોલ ટેક્સના રૂપિયા પરત કર્યા, શું તમારા ખાતામાં આવ્યા પૈસા?",
+    "desc": "તમારી ગાડી ઘરે હોય અને ટોલ ટેક્સ કપાઈ ગયું હોય તેવું બન્યુ છે? શું તમે FASTag એલર્ટ ઓન કર્યું છે, તો જાણી લો કે NHAI એ 18 લાખ લોકોને ટોલ ટેક્સના રૂપિયા પરત કર્યા છે, એવું કેમ કર્યું તે જાણો...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/fastag-payment-error-alert-nhai-return-toll-tax-payment-of-18-lakhs-vehicles-463362 ",
+    "time": "2026-01-30T09:56:08.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "પોપટલાલના લગ્ન બાબતે ગુસ્સે થયા લોકો, શું ચાલે છે TRPનો ખેલ ? તારક મહેતાના અભિનેતાએ ટ્રોલિંગ પર તોડ્યું મૌન",
     "desc": "તારક મહેતા કા ઉલ્ટા ચશ્મા શોમાં પોપટલાલના લગ્નનો ટ્રેક દર્શકોમાં ખૂબ જ ચર્ચાનો વિષય બન્યો છે. શ્યામ પાઠક એટેલે પોપટલાલે કહ્યું કે લગ્ન હંમેશા દર્શકોને ઉત્સાહિત કરે છે, અને તેઓ આ વખતે પણ લગ્ન થશે કે નહીં તે જોવા માટે ઉત્સુક હોય છે. શ્યામે તેમના નફરત કરનારાઓને પણ જવાબ આપ્યો છે.",
@@ -279,15 +324,6 @@ const newsData_gu = [
     "time": "2026-01-28T13:32:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "મહારાષ્ટ્રમાં મોટું રાજકીય સંકટ: અજિત પવારનું અવસાન ફડણવીસ માટે મોટો ઝટકો? જાણો કેમ",
-    "desc": "અજિત પવારને ગુમાવવા મુખ્યમંત્રી દેવેન્દ્ર ફડણવીસના ચહેરા સ્પષ્ટપણે જોઈ શકાય છે કે અજિત પવારનું મૃત્યુ કેવી રીતે તેમના માટે વ્યક્તિગત ખોટ છે. માત્ર પારિવારિક સંબંધો અને મજબૂત દોસ્તી જ નહીં, પરંતુ સરકારમાં પણ અજિત પવારે મહત્વપૂર્ણ ભૂમિકા ભજવી હતી. આવનારા સમયમાં મહારાષ્ટ્રની રાજનીતિમાં કેટલીક મુશ્કેલી અથવા તો ઉથલપાથલ મચી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/why-ajit-pawar-death-big-loss-to-cm-devendra-fadnavis-maharashtra-politics-ajit-pawar-plane-crash-463168 ",
-    "time": "2026-01-28T12:44:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "T20 વર્લ્ડ કપ પહેલા પેટ કમિન્સે છોડી ક્રિકેટ ? વીડિયો થયો વાયરલ, જાણો શું છે હકીકત",
     "desc": "પેટ કમિન્સનો સ્ટેન્ડ-અપ કોમેડી કરતો વીડિયો સોશિયલ મીડિયામાં વાયરલ થયો હતો, જેના કારણે નિવૃત્તિની ચર્ચા થઈ રહી છે. ત્યારે આ વીડિયો પાછળની હકીકત શું છે અને પેટ કમિન્સની નિવૃત્તિ અંગેનું સત્ય શું છે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -295,15 +331,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/did-pat-cummins-quit-cricket-truth-behind-the-viral-video-463164 ",
     "time": "2026-01-28T12:02:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "એક જ દિવસમાં બીજી મોટી પ્લેન દુર્ઘટના! 10 મિનિટ હવામાં ગોથા ખાતું રહ્યું વિમાન, કોંગ્રેસના દિગ્ગજ નેતા માંડ માંડ બચ્યા",
-    "desc": "મહારાષ્ટ્રના ડેપ્યુટી સીએમ અજિત પવારના વિમાન દુર્ઘટનામાં મૃત્યુના સમાચારથી સમગ્ર દેશમાં શોકની લહેર ફેલાઈ ગઈ છે. આ દરમિયાન રાજસ્થાનની રાજધાની જયપુરથી પણ એક ગંભીર ઘટના સામે આવી છે. બુધવારે જયપુર ઈન્ટરનેશનલ એરપોર્ટ પર એર ઇન્ડિયાના વિમાનનું પહેલું લેન્ડિંગ નિષ્ફળ રહ્યું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/air-india-jaipur-airport-landing-failure-passengers-safe-sukjinder-randhawa-463162 ",
-    "time": "2026-01-28T11:47:33.000Z"
   },
   {
     "cat": "Sports",
@@ -396,15 +423,6 @@ const newsData_gu = [
     "time": "2026-01-27T18:04:24.000Z"
   },
   {
-    "cat": "Business",
-    "title": "પહેલા દિવસે જ સંપૂર્ણપણે ભરાઈ ગયો આ IPO, પ્રાઇસ બેન્ડ છે ₹64, જાણો GMP",
-    "desc": "આ આખો IPO એક નવા શેરનો છે, એટલે કે ઓફર ફોર સેલ નથી, અને કુલ 28 લાખ નવા શેર જાહેર કરવામાં આવી રહ્યા છે. 30 જાન્યુઆરીએ ફાળવણી થવાની ધારણા છે, જ્યારે શેર 1 ફેબ્રુઆરીએ સફળ રોકાણકારોના ડીમેટ ખાતામાં જમા થવાની ધારણા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/this-ipo-was-completely-filled-on-the-first-day-itself-the-price-band-is-rs-64-know-gmp-463088 ",
-    "time": "2026-01-27T15:56:52.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "ATMમાંથી પૈસા કપાયા ગયા પણ મળ્યા નહીં? તરત કરો આ કામ, આ રીતે પાછા મળશે પૂરા પૈસા",
     "desc": "મશીનમાંથી પૈસા ઉપાડવાનો પ્રયાસ કરતી વખતે તમારા ખાતામાંથી પૈસા ઉપડી જવાનો અનુભવ થવો સામાન્ય છે, પરંતુ રોકડ ATMમાંથી બહાર આવતી નથી. તો તમારે તમારા પૈસા પાછા કેવી રીતે મેળવવા, બેંક ફરિયાદ કેવી રીતે નોંધાવવી અને RBIના નિયમો અનુસાર તમને મળતા ડિસ્કાઉન્ટ વિશે જાણો.",
@@ -412,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/money-was-deducted-from-atm-but-not-received-this-way-you-will-get-the-money-back-in-full-463085 ",
     "time": "2026-01-27T14:45:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "એવું શું થયું કે ભારતીય દારૂ કંપનીઓના શેર તૂટ્યા? જાણો કારણ",
-    "desc": "ભારત અને યુરોપિયન યુનિયન (EU) વચ્ચે આજે એક ઐતિહાસિક કરાર પર હસ્તાક્ષર થયા. આ નવા મુક્ત વેપાર કરાર (FTA)થી ભારતમાં આયાત થતી યુરોપિયન વાઇન નોંધપાત્ર રીતે સસ્તી થશે. ભારતીય દારૂ કંપનીઓના શેર આજે ઘટ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/what-happened-that-caused-the-shares-of-indian-liquor-companies-to-fall-know-the-reason-463073 ",
-    "time": "2026-01-27T12:28:41.000Z"
   },
   {
     "cat": "Tech",
@@ -664,14 +673,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/horror-film-sinners-got-16-nominations-hollywood-horror-thriller-sinners-on-ott-in-india-462594 ",
     "time": "2026-01-23T03:14:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ઓટીટી પર જોવા જેવી બેસ્ટ હોરર ફિલ્મો અને સીરીઝ, જોયા પછી ઘરમાં એકલા રહેવામાં બીક લાગશે",
-    "desc": "જો તમને હોરર, થ્રિલર, સસ્પેન્સ ફિલ્મો કે વેબ સીરીઝ જોવાનો શોખ હોય તો આજે તમને 5 એવી ફિલ્મો અને વેબ સીરીઝ વિશે જણાવીએ જેના વિશે ચર્ચા ઓછી થઈ છે પરંતુ આ ફિલ્મો બેસ્ટ છે. તમને ઘર બેઠા આ ફિલ્મો ઓટીટી પ્લેટફોર્મ પર ફ્રી જોવા મળશે. રુંવાડા ઊભા થઈ જાય તેવા થ્રીલનો અનુભવ કરવો હોય તો ચેક કરી લો આ લિસ્ટ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/top-5-films-and-web-series-on-ott-best-hindi-horror-film-on-netflix-462468 ",
-    "time": "2026-01-22T03:28:43.000Z"
   }
 ];
