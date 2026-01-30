@@ -1,6 +1,33 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "‘অজিত পওয়ারের শেষ ইচ্ছে..,’ ফের এক হচ্ছে NCP? মহারাষ্ট্রের উপ মুখ্যমন্ত্রী পদে অজিত-স্ত্রী সুনেত্রার নাম",
+    "desc": "এর মাঝেই আলোচনায় এসেছে এনসিপি-র দুই গোষ্ঠীর ফের একত্রিত হয়ে যাওয়ার কথা৷ এনসিপি-র অন্দর সূত্রের খবর, এনসিপি ‘মার্জার’ই নাকি ছিল অজিত পওয়ারের শেষ ইচ্ছে৷ গত ডিসেম্বর-জানুয়ারি ধরে শরদ পওয়ারের সঙ্গে দফায় দফায় তিনি বৈঠক করেছিলেন বলেও জানা গিয়েছে৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ydne-2026-01-30T204910.253-2026-01-2b639a7b3a504a876e3891d25f1a9533-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/ajit-pawar-demise-after-scenario-sunetra-pawar-to-become-maharashtras-deputy-chief-minister-ncp-sources-sta-2519526.html",
+    "time": "2026-01-30T15:20:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "মুখ থুবড়ে পড়ল সোনার দাম! ফ্রান্স-ব্রিটেনের GDP-র সমান টাকা মুছে গেল মুহূর্তে! আরও সস্তা হবে হলুদ ধাতু?",
+    "desc": "শুক্রবার, ভারতে বড় পতন ঘটল সোনা এবং রুপোর দামে। এক ধাক্কায় সোনার দাম প্রায় ৩.৫ শতাংশ কমে গেছে আর রুপোর দাম প্রায় ৫ শতাংশ কমেছে। মুম্বইতে, ২৪ ক্যারাট সোনার দাম ১,৭৮,৮৬০ টাকা প্রতি ১০ গ্রাম-এ নেমে এসেছে, আর ২২-carat gold-এর দাম ১,৬৩,৯৬০ টাকা প্রতি ১০ গ্রাম।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/gold-price-3-2026-01-cfee804df64fed09bf3954d8d492764b-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/why-gold-price-crashed-wealth-equal-to-uk-france-gdp-gone-within-a-moment-future-price-of-gold-rdp-2519520.html",
+    "time": "2026-01-30T15:14:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বাজেটের আগেই বিরাট খবর ভারতের অর্থনীতির! সার্ভে বলছে, ভারত এই মুহূর্তে পৃথিবীর সবচেয়ে শক্তিশালী...",
+    "desc": "বহুদিন ধরেই শোনা যাচ্ছে, ভারত ক্রমশ এক শক্তিশালী অর্থনীতি হয়ে উঠছে বিশ্বে। যত দিন যাচ্ছে, তত এটা আরও স্পষ্ট হচ্ছে। গতকাল ২৯ জানুয়ারি সংসদে পেশ হল ইকনমিক সার্ভে। আগামী অর্থবর্ষে কোন দিকে এগোবে ভারত, তার আভাস দেওয়া হয়েছে এতে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/economic-survey-pre-budget-economic-survey-powerful-message-of-indias-growth-worlds-fastest-growing-major-economy_638352.html ",
+    "time": "2026-01-30T14:49:44.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "বিনামূল্যে স্যানিটারি প্যাড...দিতেই হবে স্কুলকে, কড়া নির্দেশ দিয়ে দিল সুপ্রিম কোর্ট! জানাল, ‘মেনস্ট্রুয়াল হেলথ সাংবিধানিক মৌলিক অধিকার’",
     "desc": "২০২৪ সালের ১০ ডিসেম্বর আদালতে একটি জনস্বার্থ মামলা দায়ের করেছিলেন জয়া ঠাকুর নামে এক মহিলা৷ তাঁর আবেদনে তিনি জানিয়েছিলেন, সারা ভারতজুড়ে সমস্ত সরকারি এবং সরকার মদতপুষ্ট স্কুলে ক্লাস ৬-১২ শ্রেণীর ছাত্রীদের জন্য কেন্দ্রীয় সরকারি মেনস্ট্রুয়াল হাইজিন পলিসি কার্যকর করতে হবে৷ সেই আবেদনের প্রেক্ষিতে শুক্রবার উপরোক্ত নির্দেশগুলি দেয় সুপ্রিম কোর্ট৷",
     "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-30-at-17.44.46-1-2026-01-6622b2d4007f0aeb5fe10bdbb4b0f3f4-3x2.jpeg",
@@ -412,15 +439,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/abhishek-sharma-breaks-world-record-becomes-the-highest-run-scorer-in-men-s-t20-match-without-facing-a-dot-ball-in-ind-vs-nz-3rd-t20-sup-2514827.html",
     "time": "2026-01-27T13:21:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "মানুষের জন্য তৈরি রাস্তাঘাট দখল করে যত্রতত্র ভগবান বসে গেলে বিপদ! এই জবরদখল মানা যায় না: হাইকোর্ট",
-    "desc": "আদালত আবেদনকারী শরতের পক্ষে রায় দিয়ে জানায় যে, যেহেতু মূর্তিটি পাবলিক রোডের উপর, তাই তিনি এটি সরানোর দাবি করার পূর্ণ অধিকার রাখেন। আদালত কর্তৃপক্ষকে নির্দেশ দেয় যে, ওই অবৈধ কাঠামো সরানোর জন্য তারা যে আইনি প্রক্রিয়া শুরু করেছে, তা যেন দ্রুত কার্যকর করা হয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/madras-hc-orders-removal-of-christian-shrine-of-mother-velankanni-in-chennai-rules-against-religious-encroachment-on-public-roads_637701.html ",
-    "time": "2026-01-27T13:18:57.000Z"
   },
   {
     "cat": "World",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/national/noida-car-accident-video-how-the-young-boy-struggled-for-90-minutes-to-save-his-life-pbd-2507420.html",
     "time": "2026-01-21T11:48:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "এক বছর আগে রুপোয় ১ লাখ বিনিয়োগ...এখন বেড়ে কত টাকা হয়েছে জানেন? রেকর্ড রিটার্ন",
-    "desc": "২০ জানুয়ারি, ২০২৬ তারিখের তথ্য অনুযায়ী, তীব্র বৈশ্বিক অনিশ্চয়তা, ক্রমবর্ধমান শিল্প চাহিদা এবং সরবরাহ-পক্ষের সীমাবদ্ধতার কারণে ভারতে রূপার দাম প্রতি কেজিতে প্রায় ৩,২০,০০০ টাকায় পৌঁছেছে। বর্তমান দামে, একই ১.১৮ কেজি রূপার দাম এখন প্রায় ৩.৭৭ লক্ষ টাকা হবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-21-at-17.00.55-1-2026-01-463841e9cdc839862bef251c8419077e-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/silver-price-if-someone-has-invested-1-lakh-rupees-in-2025-how-much-he-has-gained-in-2026-sta-2507314.html",
-    "time": "2026-01-21T11:38:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ভিক্টোরিয়া মেমোরিয়ালে অনুষ্ঠিত বিশেষ অনুষ্ঠান, থাকছেন ডোনা-রাঘব-ইমন সহ আরও অনেকে",
-    "desc": "২৩ জানুয়ারি এবছর সরস্বতী পুজো। সকাল থেকেই পুজোর ব্যাস্ততা সেড়ে বিকেল ৪টেয় ভিক্টোরিয়া মেমোরিয়ালয়ের মূল সিঁড়ি জুড়ে হবে এক অন্য আরাধনা। দেশ মাতৃকার আরাধনা, এ দেশের এক ব্যাতিক্রমী বীর সেনানী নেতাজি সুভাষচন্দ্র বসুর জন্মজয়ন্তী উদযাপন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Web-2026-01-21T164344.134-2026-01-d53e1546b8a8b9394aa93be1a82f7700-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/netaji-jayanti-2026-special-program-at-victoria-memorial-with-dona-ganguly-iman-chakraborty-and-others-pbd-2507256.html",
-    "time": "2026-01-21T11:14:06.000Z"
   }
 ];

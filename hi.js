@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Gujarat Giants end 40-match streak in WPL after opting to bat against Mumbai Indians",
+    "desc": "Gujarat Giants and Mumbai Indians today locked horns in the 19th match of the ongoing Women's Premier League (WPL) season. It is the penultimate match of the league stage, which will also decide the second...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gujarat-giants-end-40-match-streak-in-wpl-after-opting-to-bat-against-mumbai-indians-2026-01-30-1028215",
+    "time": "2026-01-30T15:21:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Novak Djokovic ends semifinal curse, qualifies for Australian Open final with stunning win over Jannik Sinner",
+    "desc": "Novak Djokovic stunned Jannik Sinner in a four-hour marathon to make it to the final of the Australian Open. The 38-year-old Serbian player gave his best shot in the knockout clash as he came back...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-ends-semifinal-curse-qualifies-for-australian-open-final-with-stunning-win-over-jannik-sinner-2026-01-30-1028209",
+    "time": "2026-01-30T14:32:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MI-W vs GG-W WPL 2025 Live Cricket Score: Mumbai Indians and Gujarat Giants battle to seal spot in Eliminator",
+    "desc": "The Women’s Premier League league stage is nearing its conclusion, and the battle for the final playoff spots remains unresolved. With Royal Challengers Bengaluru already assured of a place in the final, attention turns to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-gg-wpl-2025-live-cricket-score-mumbai-indians-vs-gujarat-giants-latest-match-updates-scorecard-playing-xi-harmanpreet-sciver-brunt-mooney-2026-01-30-1028201",
+    "time": "2026-01-30T13:44:39.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Real Madrid fix another date with Benfica, PSG to play Monaco in Champions League knockout round",
     "desc": "Europe’s elite now know the hurdles standing between them and the Champions League round of 16, with Friday’s playoff draw shaping a dramatic route through the revamped competition. While eight clubs have already secured direct...",
     "img": "",
@@ -37,16 +64,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Carlos Alcaraz stuns Alexander Zverev, defeats him in stunning five-set clash to reach Australian Open final",
-    "desc": "Spain’s Carlos Alcaraz has reached his first-ever Australian Open final. The world number one looked untouchable throughout his semi-final bout against Germany’s Alexander Zverev. The two stars locked horns at the Rod Laver Arena on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-stuns-alexander-zverev-defeats-him-in-stunning-five-set-clash-to-reach-australian-open-final-2026-01-30-1028132",
-    "time": "2026-01-30T09:41:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sinner secures lead in third set, Djokovic chases again",
+    "title": "Novak Djokovic beats Jannik Sinner to qualify for final",
     "desc": "Jannik Sinner is playing elite tennis in the second semifinal against Novak Djokovic, and the Italian won the opening set comfortably 6-3. Djokovic seemed to have found his groove in the second half of the...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/very-explosive-ravi-shastri-makes-bold-claim-around-team-india-ahead-of-t20-world-cup-2026-2026-01-30-1028145",
     "time": "2026-01-30T08:10:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Head-to-head, where to watch, and all you need to know ahead of AO final",
-    "desc": "The stage is set for the women’s final of the Australian Open 2026. Belarus’ Aryna Sabalenka will lock horns with Kazakhstan’s Elena Rybakina. The two stars will take on each other at the Rod Laver...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/aryna-sabalenka-vs-elena-rybakina-head-to-head-where-to-watch-and-all-you-need-to-know-ahead-of-ao-final-2026-01-30-1028137",
-    "time": "2026-01-30T07:10:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Quinton de Kock achieves major T20 milestone, propels South Africa to stellar win in 2nd WI T20I",
-    "desc": "South Africa and the West Indies continued their ongoing T20I series by taking on each other in the second T20I. The two sides locked horns at the SuperSport Park in Centurion on January 29. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/quinton-de-kock-achieves-major-t20-milestone-propels-south-africa-to-stellar-win-in-2nd-wi-t20i-2026-01-30-1028115",
-    "time": "2026-01-30T05:22:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Alcaraz defeats Zverev, reaches maiden AO final",
-    "desc": "Spain's very own Carlos Alcaraz is all set to take on Germany's Alexander Zverev in the first semi-final of the ongoing Australian Open 2026. The two stars have been in good form of late in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-vs-alexander-zverev-live-score-spanish-superstar-looks-to-make-way-towards-maiden-title-1028100",
-    "time": "2026-01-30T03:13:14.000Z"
   }
 ];
