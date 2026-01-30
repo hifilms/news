@@ -1,7 +1,34 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Did Virat Kohli deactivate his Instagram account? Fans raise questions after ace batter's profile vanishes",
+    "title": "Spanish superstar looks to make way towards maiden AO title",
+    "desc": "Spain's very own Carlos Alcaraz is all set to take on Germany's Alexander Zverev in the first semi-final of the ongoing Australian Open 2026. The two stars have been in good form of late in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-vs-alexander-zverev-live-score-spanish-superstar-looks-to-make-way-towards-maiden-title-1028100",
+    "time": "2026-01-30T03:13:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Royal Challengers Bengaluru women equal elite record with stellar victory against UP Warriorz",
+    "desc": "Royal Challengers Bengaluru women put in a brilliant performance against UP Warriorz in the ongoing WPL (Women’s Premier League) 2026. The two sides locked horns in the 18th game of the tournament at the Kotambi...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/royal-challengers-bengaluru-women-equal-elite-record-with-stellar-victory-against-up-warriorz-2026-01-30-1028096",
+    "time": "2026-01-30T02:58:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "New Zealand add in-form pacer as travelling reserve ahead of T20 World Cup 2026 due to injury shake up",
+    "desc": "The stage is set for the upcoming edition of the T20 World Cup 2026. The marquee tournament is slated to be held in India and Sri Lanka and will kick off on February 7. Ahead...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-add-in-form-pacer-as-travelling-reserve-ahead-of-t20-world-cup-2026-due-to-injury-shake-up-2026-01-30-1028089",
+    "time": "2026-01-30T02:23:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli's Instagram account restored after brief disappearance",
     "desc": "In a move that has sent shockwaves across world cricket and the world of social media, the Instagram account of legendary India batter Virat Kohli has become inaccessible. As of January 30, Kohli’s account, which...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/senegal-coach-pape-thiaw-banned-after-afcon-final-chaos-vs-morocco-2026-01-29-1028052",
     "time": "2026-01-29T14:48:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan end eight-year drought against Australia, win 1st T20I by 22 runs to take 1-0 lead",
-    "desc": "Pakistan defeated Australia in the first T20I of the three-match series by 22 runs to take a 1-0 lead. It was a comprehensive performance from the home team as Australia missed some of their key...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-end-eight-year-drought-against-australia-win-1st-t20i-by-22-runs-to-take-1-0-lead-2026-01-29-1028051",
-    "time": "2026-01-29T14:45:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Phoebe Litchfield not playing vs Royal Challengers Bengaluru in WPL 2026?",
-    "desc": "Flamboyant UP Warriorz batter Phoebe Litchfield has been ruled out of the remainder of the Women’s Premier League 2026. The Australia international suffered a quad injury, as CA’s statement confirmed and has returned home for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-phoebe-litchfield-not-playing-vs-royal-challengers-bengaluru-in-wpl-2026-2026-01-29-1028045",
-    "time": "2026-01-29T14:01:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "UP-W vs RCB-W WPL 2025 Live Cricket Score: UP Warriorz battle to stay alive, RCB seek final spot",
-    "desc": "UP Warriorz find themselves staring at another difficult chapter in the WPL, with their slide continuing since a third-place finish in 2023. Despite sweeping changes over time, including a reshaped squad, a new head coach...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/up-vs-rcb-wpl-2025-live-cricket-score-up-warriorz-vs-royal-challengers-bengaluru-bca-stadium-vadodara-latest-match-updates-scorecard-playing-xi-2026-01-29-1028038",
-    "time": "2026-01-29T13:17:18.000Z"
   }
 ];

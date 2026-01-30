@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ક્યાં ગયા કિંગ કોહલી? ઇન્સ્ટાગ્રામ પરથી વિરાટનું એકાઉન્ટ ગુમ થતા સોશિયલ મીડિયા પર ગભરાહટ!",
+    "desc": "ભારતીય ટીમના સ્ટાર ખેલાડી વિરાટ કોહલી ઇન્સ્ટાગ્રામ પર સૌથી વધુ ફોલોઅર્સ ધરાવતો ભારતીય બેટ્સમેન છે. આ મહાન ભારતીય ક્રિકેટ ખેલાડીનું એકાઉન્ટ અચાનક ગુમ થઈ ગયું છે. જી હા...આનાથી સોશિયલ મીડિયા પર ચાહકોમાં ખળભળાટ મચી ગયો છે. દરેક વ્યક્તિ વિચારી રહી છે કે વિરાટ કોહલીના એકાઉન્ટનું શું થયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/virat-kohli-returns-to-instagram-ending-panic-among-274-million-followers-463325 ",
+    "time": "2026-01-30T04:10:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "જો હમણા લોકસભા ચૂંટણી યોજાય તો ભાજપને કેટલી સીટો મળે? ચોંકાવનારો છે આંકડો",
+    "desc": "દેશ દુનિયામાં અનેક એવી ઘટનાઓ જોવા મળી રહી છે જેની અસર દેશના સામાન્ય લોકો ઉપર પણ જોવા મળી રહી છે. ત્યારે જો હાલ લોકસભા ચૂંટણી થાય તો શું પરિસ્થિતિ રહે? એનડીએને કેટલી સીટો મળે અને ભાજપની સીટો વધે કે ઘટે? ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/cvoter-survey-survey-findings-if-lok-sabha-election-happened-today-how-many-seats-bjp-can-get-463323 ",
+    "time": "2026-01-30T03:50:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ઓટીટીના દર્શકોનો ઈંતેઝાર ખતમ, રણવીર સિંહની બ્લોકબસ્ટર ફિલ્મ ધુરંધર OTT પર રિલીઝ",
+    "desc": "રણવીર સિંહની ફિલ્મ ધુરંધર ઓટીટી પર ક્યારે રિલીઝ થશે તે વાતની રાહ જોતા લોકોને હવે રાહ જોવાની જરૂર નથી. કારણ કે આ ફિલ્મ હવે ઓટીટી પર આવી ચુકી છે. જો કે ઓટીટી પર રિલીઝ થયેલી ફિલ્મમાં થોડા ફેરફાર કરવામાં આવ્યા છે. આ ફેરફાર શું છે ચાલો જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-release-on-ott-ranveer-singh-superhit-film-dhurandhar-now-streaming-on-netflix-463312 ",
+    "time": "2026-01-30T02:24:58.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ચાંદીમાં એવું તો શું થયું કે અચાનક સોના જેવી ચમક આવી! ગરીબોનું સોનું ગણાતી ચાંદી આજે અમીરોની પણ પહોંચ બહાર ગઈ",
     "desc": "સોના અને ચાંદીના ભાવમાં સતત ભાવવધારો થઈ રહ્યો છે. 10 ગ્રામ સોનાનો ભાવ પહોંચ્યો 1 લાખ 83 હજારને પાર તો 1 કિલો ચાંદીનો ભાવ પહોંચ્યો 4 લાખ 10 હજારને પાર. હજુ પણ ભાવ વધવાની શક્યતા",
@@ -664,14 +691,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/farah-khan-the-50-reality-show-house-first-look-squid-game-vibes-2026-462440 ",
     "time": "2026-01-21T16:06:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "કંગના રનૌતે વર્ષ 2016 ને કહ્યું નરક જેવું... 10 વર્ષ પછી ફરી &amp;#039;સિલી એક્સ&amp;#039; ઋત્વિક સાથેના વિવાદને છંછેડ્યો",
-    "desc": "બોલીવુડ ક્વીન કંગના રનૌતે પણ વર્ષ 2016 નો ટ્રેંડ ફોલો કર્યો છે. જો કે કંગના કોઈ ટ્રેંડ ફોલો કરે અને તેની ચર્ચા ન થાય તેવું શક્ય નથી. કંગનાએ વર્ષ 2016 ના ફોટો શેર કરી ખળભળાટ મચાવી દીધો છે. કારણ કે આ સમયે એવો હતો જ્યારે તેના અને ઋત્વિક રોશનના અફેરની ચર્ચાઓ ચરમસીમાએ હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/kangana-ranaut-posted-2016-photos-said-life-was-hell-called-hrithik-roshan-was-a-silly-ex-462363 ",
-    "time": "2026-01-21T03:44:01.000Z"
   }
 ];
