@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Lisa Keightley weighs in on Mumbai Indians women's struggles in ongoing WPL season",
+    "desc": "The ongoing WPL (Women’s Premier League) season has been quite the roller coaster ride for defending champions Mumbai Indians women. With eight matches played, the side has only managed to win three and has lost...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lisa-keightley-weighs-in-on-mumbai-indians-women-s-struggles-in-ongoing-wpl-season-2026-01-31-1028258",
+    "time": "2026-01-31T05:33:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "New South Wales, Sydney Sixers set to part ways with coach Greg Shipperd",
     "desc": "In a major development for Australian domestic side, New South Wales and BBL (Big Bash League) franchise Sydney Sixers, both teams have announced that they would be parting ways with decorated coach Greg Shipperd. It...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/tilak-varma-sundar-injury-update-will-the-indian-players-get-fit-on-time-for-t20-world-cup-2026-2026-01-30-1028223",
     "time": "2026-01-30T16:08:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Greenfield International Stadium in Trivandrum play?",
-    "desc": "After three consecutive wins, India suffered a crushing 50-run defeat to New Zealand in the fourth T20I in Visakhapatnam. The Suryakumar Yadav-led side conducted a couple of experiments with the playing XI and it backfired...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-5th-t20i-pitch-report-how-will-surface-at-greenfield-international-stadium-in-trivandrum-play-2026-01-30-1028217",
-    "time": "2026-01-30T15:36:52.000Z"
   }
 ];

@@ -1,5 +1,194 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "C.J. Roy death: Full coverage of Confident Group chairperson’s death during I-T raids",
+    "desc": "A compilation of The Hindu’s coverage on the death of Confident Group chairperson, who allegedly shot himself to death on January 30, 2026, even as I-T search operations were ongoing at his Bengaluru office premises",
+    "img": "https://th-i.thgim.com/public/incoming/irtgpz/article70573209.ece/alternates/LANDSCAPE_1200/IMG_Untitled_design__31__2_1_JVFGSSR7.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/cj-roy-confident-group-chairman-death-it-raids-karnataka-package/article70573206.ece",
+    "time": "2026-01-31T06:19:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nikkhil Advani clarifies ‘Freedom At Midnight 2’ ending",
+    "desc": "Nikkhil Advani explains his creative choice to keep Mahatma Gandhi's assassin unnamed in 'Freedom At Midnight 2'. He reveals the decision stemmed from portraying the event through the eyes of DIG Delhi DW Mehra and Sardar Vallabhbhai Patel, who viewed the perpetrator as a 'ghost' or 'shadow'. The series, based on the novel, delves into India's post-partition turmoil.",
+    "img": "https://static.toiimg.com/photo/msid-127814890,imgsize-28962.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/freedom-at-midnight-2-ending-explained-nikhil-advani-reveals-nathuram-godse-was-a-nameless-person-in-the-series/articleshow/127814890.cms",
+    "time": "2026-01-31T06:13:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Catherine O’Hara was the best part of any scene",
+    "desc": "Because of that innate grasp on her craft, unwillingness to settle into nostalgia and uncanny ability to invent herself anew with each project, her characters would impact multiple generations of film, television and comedy fans",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/f7t6wu/article70573273.ece/alternates/LANDSCAPE_1200/Catherine.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/catherine-ohara-was-the-best-part-of-any-scene-home-alone-actor/article70573243.ece",
+    "time": "2026-01-31T06:00:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Dhurandhar’ OTT version is identical to theatrical release",
+    "desc": "Upon the digital launch of 'Dhurandhar', fans found themselves engrossed in a heated discourse regarding possible edits, with feedback highlighting a condensed film duration and quieter exchanges. Nevertheless, fresh insights reveal that the streaming edition matches the original format seen in cinemas. Read on to know more about in detail.",
+    "img": "https://static.toiimg.com/photo/msid-127814778,imgsize-32430.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-ott-version-is-identical-to-theatrical-format-streaming-platform-released-it-exactly-as-provided-by-the-studio/articleshow/127814778.cms",
+    "time": "2026-01-31T05:58:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-US trade deal: Piyush Goyal shares update; ‘every country has to…’",
+    "desc": "India's Commerce Minister Piyush Goyal expressed no disappointment over delays in the India-US trade deal, emphasizing that each nation prioritizes its interests. He confirmed ongoing friendly negotiations, suggesting a potential conclusion this year. Goyal highlighted India's commitment to fair trade and safeguarding its economic sensitivities, even as it pursues other FTAs.",
+    "img": "https://static.toiimg.com/photo/msid-127814274,imgsize-92822.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-piyush-goyal-shares-update-every-country-has-to/articleshow/127814298.cms",
+    "time": "2026-01-31T05:46:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Thalapathy Vijay breaks the silence on ‘Jana Nayagan’ delay",
+    "desc": "Politician-actor Vijay has addressed the delay of his film 'Jana Nayagan'. He expressed regret for the producer's hardship due to his political entry. Vijay also spoke about his admiration for Shah Rukh Khan, calling him a role model. The film 'Jana Nayagan' is a political entertainer featuring a star-studded cast and music by Anirudh Ravichander.",
+    "img": "https://static.toiimg.com/photo/msid-127814573,imgsize-35778.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalapathy-vijay-breaks-the-silence-on-jana-nayagan-delay-opens-up-on-shah-rukh-khans-influence-in-his-life/articleshow/127814573.cms",
+    "time": "2026-01-31T05:41:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "The unlikely architect who changed Indian badminton forever",
+    "desc": "Saina Nehwal's impact on Indian badminton transcends her retirement. She emerged as a trailblazer, challenging global dominance and transforming the sport's landscape. Her journey, marked by numerous firsts and a World No. 1 ranking, inspired a generation and paved the way for future champions, making badminton a household name.",
+    "img": "https://static.toiimg.com/photo/msid-127814333,imgsize-50606.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/saina-nehwal-the-unlikely-architect-who-changed-indian-badminton-forever/articleshow/127814332.cms",
+    "time": "2026-01-31T05:17:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sunny Deol cuts the cake celebrating ‘Border 2’",
+    "desc": "Sunny Deol celebrated the phenomenal success of 'Border 2' with his team, cutting a cake and sharing sweets. The war drama, released ahead of Republic Day 2026, has already crossed Rs 230 crore in just 8 days. Deol expressed heartfelt gratitude to the audience for their overwhelming love and support, acknowledging the film's reach to their hearts.",
+    "img": "https://static.toiimg.com/photo/msid-127814218,imgsize-27260.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-sunny-deol-celebrates-the-movies-success-with-cake-music-and-more-watch/articleshow/127814218.cms",
+    "time": "2026-01-31T05:13:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Will NSE, BSE remain open for trading on Sunday?",
+    "desc": "Indian stock markets will operate on Sunday, February 1, 2026, for the Union Budget presentation, a rare occurrence. Both BSE and NSE confirmed normal trading hours, with only specialized sessions like T+0 settlement suspended. This marks the first Sunday Budget presentation since 2000, while the year's holiday schedule remains unchanged.",
+    "img": "https://static.toiimg.com/photo/msid-127814177,imgsize-2652349.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-on-february-1-will-nse-bse-remain-open-for-trading-on-sunday/articleshow/127814199.cms",
+    "time": "2026-01-31T05:08:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cracks on campus",
+    "desc": "Students from the general category or upper castes believe that the UGC’s 2026 regulations, introduced mainly to address caste discrimination on campuses, will create a divide and villainise them. They worry about several of its provisions, including the lack of protection against false complaints. While the Supreme Court has stayed the regulations, anger has not yet subsided, report Abhinay Lakshman and Mayank Kumar",
+    "img": "https://th-i.thgim.com/public/incoming/kxluwk/article70571626.ece/alternates/LANDSCAPE_1200/STUDENT%20PROTEST%20UGC%20DU%20DELHI%202026_28_01_6.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/education/colleges/2026-ugc-equity-rules-cracks-on-campus/article70571618.ece",
+    "time": "2026-01-31T05:00:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nitish Kumar recommends CBI probe",
+    "desc": "The decision came a day after the parents of the girl met Bihar Director General of Police (DGP) Vinay Kumar at his residence alleging that the state police was trying to hush up the matter",
+    "img": "https://th-i.thgim.com/public/incoming/17bmpo/article70573150.ece/alternates/LANDSCAPE_1200/20260119249L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/patna-neet-aspirant-death-case-nitish-kumar-recommends-cbi-probe/article70573132.ece",
+    "time": "2026-01-31T04:58:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sania Mirza",
+    "desc": "Sania Mirza lauded Carlos Alcaraz's champion mentality after his comeback win over Alexander Zverev, acknowledging the controversy surrounding a medical timeout. She also highlighted Aryna Sabalenka's dominance, comparing her to Serena Williams and Maria Sharapova, and discussed the challenging final against Elena Rybakina.",
+    "img": "https://static.toiimg.com/photo/msid-127814210,imgsize-48112.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/aryna-sabalenka-a-mix-of-serena-williams-and-maria-sharapova-sania-mirza/articleshow/127814107.cms",
+    "time": "2026-01-31T04:56:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Adani agrees to receive legal notice in U.S. SEC civil fraud case, to respond in 90 days",
+    "desc": "In a Brooklyn federal court filing, the SEC and lawyers for Mr. Gautam and Mr. Sagar Adani stated they would accept service of the regulator’s legal papers, removing the need for a Judge’s ruling on service methods",
+    "img": "https://th-i.thgim.com/public/incoming/ee02t4/article68891524.ece/alternates/LANDSCAPE_1200/Adani_Bribery_Indictment_86639.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/adani-agrees-to-receive-legal-notice-in-us-sec-civil-fraud-case-to-respond-in-90-days/article70573137.ece",
+    "time": "2026-01-31T04:52:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranveer Singh’s 5 most powerful scenes from the Aditya Dhar film",
+    "desc": "​Ranveer Singh, the man who dances through blockbusters, goes dead serious in ‘Dhurandhar’. This two-part spy thriller dropped late last year, and it’s got everyone talking. He plays Hamza, a raw intelligence guy tangled in Karachi’s gang wars and real-life terror scars like 26/11. Fans can’t stop sharing clips of his top scenes, where his eyes do all the heavy lifting. These moments hit you right in the gut, blending fury, heartbreak, and that classic Ranveer Singh spark. And now with OTT debut, these scenes are getting all the more love.​",
+    "img": "https://static.toiimg.com/photo/msid-127814020,imgsize-589414.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/dhurandhar-ott-release-ranveer-singhs-5-most-powerful-scenes-from-the-aditya-dhar-film/photostory/127814020.cms",
+    "time": "2026-01-31T04:43:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Catherine O’Hara passes away:Dan Levy pays heartfelt tribute",
+    "desc": "Beloved Canadian actress Catherine O’Hara, renowned for her iconic role as Moira Rose in 'Schitt's Creek,' passed away on January 30, 2026, at age 71. Her representative confirmed her death after a short illness. O'Hara's career spanned decades, earning her an Emmy and leaving an indelible mark on comedy and drama.",
+    "img": "https://static.toiimg.com/photo/msid-127813935,imgsize-854548.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/catherine-ohara-passes-away-at-71-schitts-creek-co-star-dan-levy-pays-heartfelt-tribute/articleshow/127813936.cms",
+    "time": "2026-01-31T04:38:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Deepika Padukone describes her perfect day with Ranveer Singh",
+    "desc": "Deepika Padukone has unveiled her fantasy day with hubby Ranveer Singh in the vibrant city of Abu Dhabi. The couple would kick off with a refreshing swim at the picturesque Corniche Beach, followed by an artistic stroll through the breathtaking Louvre.",
+    "img": "https://static.toiimg.com/photo/msid-127813897,imgsize-21834.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-says-we-both-love-art-and-architecture-talks-about-spending-a-day-with-ranveer-singh/articleshow/127813897.cms",
+    "time": "2026-01-31T04:35:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Shehbaz Sharif, Asim Munir 'quitely' visited countries to seek loans for Pakistan; paid with 'lowered self-esteem'",
+    "desc": "Pakistan's prime minister Shehbaz Sharif revealed a difficult truth. He and Army Chief Asim Munir sought billions in loans from friendly nations. This was done quietly to bridge the country's external financing gap. Sharif acknowledged the compromises involved in seeking such aid. China was a key supporter. Pakistan has a history of relying on the IMF for financial support.",
+    "img": "https://static.toiimg.com/photo/msid-127814557,imgsize-831447.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/pakistan/shehbaz-sharif-asim-munir-quitely-visited-countries-to-seek-loans-for-pakistan-paid-with-lowered-self-esteem/articleshow/127813645.cms",
+    "time": "2026-01-31T04:35:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Unfortunately, Ajit left us before that': Sharad Pawar makes big NCP merger revelation",
+    "desc": "Sharad Pawar revealed merger talks between NCP factions were advanced before Ajit Pawar's death, aiming to fulfill his nephew's wish. He denied prior knowledge of Sunetra Pawar's potential deputy CM role, stating decisions are made in Mumbai without his consultation. Pawar also dismissed speculation about joining the NDA.",
+    "img": "https://static.toiimg.com/photo/msid-127814235,imgsize-796627.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/i-am-not-even-aware-sharad-pawar-says-he-has-no-information-on-sunetra-pawar-becoming-maharashtra-dy-cm/articleshow/127813578.cms",
+    "time": "2026-01-31T04:25:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Regime in tough spot as every Iranian has been affected by economic collapse, says Scott Anderson",
+    "desc": "Journalist and writer Scott Anderson says, unlike during earlier protests in Iran, the regime can no longer play one group off against another, because everyone is suffering; the economic collapse, food and water crises, and high unemployment rate cannot all be blamed on foreign saboteurs, he adds",
+    "img": "https://th-i.thgim.com/public/news/national/qbzxsf/article70570601.ece/alternates/LANDSCAPE_1200/Scott%20Anderson.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/regime-in-tough-spot-iran-protests-economic-collapse-scott-anderson/article70570603.ece",
+    "time": "2026-01-31T04:24:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Border 2' marches towards Rs 350 crore mark worldwide",
+    "desc": "Sunny Deol's 'Border 2' continues its box office dominance, crossing Rs 300 crore worldwide within its first week. Despite a slight dip on weekdays, the film collected Rs 11 crore on its eighth day, heading towards the Rs 350 crore mark. The war drama has garnered Rs 235.25 crore net in India and Rs 322.5 crore globally.",
+    "img": "https://static.toiimg.com/photo/msid-127813809,imgsize-36952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-8-the-sunny-deol-varun-dhawan-ahan-shettys-film-heads-toward-the-rs-350-crore-mark-worldwide/articleshow/127813816.cms",
+    "time": "2026-01-31T04:23:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Food makers may have to keep daily production logs; stricter storage rules proposed",
+    "desc": "New rules are proposed by FSSAI to boost food safety and traceability. Food manufacturers will now record daily production and ingredients. This aims to track contamination and substandard items. Stricter storage rules like FIFO and FEFO will also be enforced. These changes will improve consumer confidence in the food market.",
+    "img": "https://static.toiimg.com/photo/msid-127813729,imgsize-185257.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/food-makers-may-have-to-keep-daily-production-logs-stricter-storage-rules-proposed/articleshow/127813111.cms",
+    "time": "2026-01-31T04:17:14.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Sam Curran hat-trick powers England to 11-run DLS victory over Sri Lanka",
     "desc": "England defeated Sri Lanka by 11 runs in the opening T20I. Sam Curran took a hat-trick, and Phil Salt scored 46 runs. The win gives England a 1-0 lead in the series. Sri Lanka's batting collapsed after a strong start. The match served as preparation for the T20 World Cup.",
@@ -153,69 +342,6 @@ const newsData_en = [
     "time": "2026-01-31T00:56:04.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Taylor Swift–Travis Kelce wedding buzz heats up",
-    "desc": "Taylor Swift and Travis Kelce's romance, which began in 2023, has led to their engagement. While Kylie Kelce remains coy about wedding details, whispers suggest a summer 2026 event in Rhode Island. Travis's NFL future and their shared love for live music hint at a unique celebration blending their worlds.",
-    "img": "https://static.toiimg.com/photo/msid-127812516,imgsize-650969.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swifttravis-kelce-wedding-buzz-grows-as-kylie-kelce-says-this-about-the-big-day/articleshow/127812514.cms",
-    "time": "2026-01-31T00:39:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Valathu Vashathe Kallan' BO day 1: Crosses Rs 1 crore",
-    "desc": "Jeethu Joseph's latest, 'Valathu Vashathe Kallan,' starring Biju Menon and Joju George, has opened to a promising Rs 1.1 crore India net. The film blends crime and twists, with a strong first half praised for its narrative and character depth.",
-    "img": "https://static.toiimg.com/photo/msid-127812496,imgsize-45096.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/valathu-vashathe-kallan-box-office-collections-day-1-jeethu-joseph-film-gets-good-push-crosses-rs-1-crore/articleshow/127812496.cms",
-    "time": "2026-01-31T00:36:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Border 2’ bo: Deol’s film leads with Rs 235 crore",
-    "desc": "The war epic 'Border 2' has achieved a remarkable feat, crossing the Rs 200 crore mark within its first week. Early estimates suggest an Rs 11 crore collection on its 8th day, pushing the total earnings to an impressive Rs 235.25 crores. Despite facing competition from 'Mardaani 3', the film continues to draw audiences, with Jaipur showing strong occupancy.",
-    "img": "https://static.toiimg.com/photo/msid-127812475,imgsize-29508.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-8-sunny-deol-led-film-crosses-rs-230-crore-completes-1-week-in-theatres/articleshow/127812475.cms",
-    "time": "2026-01-31T00:28:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Mayasabha' BO day 1: Film makes only Rs 12 lakhs",
-    "desc": "Rahi Anil Barve's fantasy thriller 'Mayasabha' opened to a dismal Rs 12 lakh on its first day, overshadowed by strong competition from 'Mardaani 3' and 'Gandhi Talks'. Despite a unique concept and known actors, the film struggled to attract audiences. Critics acknowledge the director's craft but note a lack of emotional connection, leaving viewers with appreciation rather than deep engagement.",
-    "img": "https://static.toiimg.com/photo/msid-127812452,imgsize-102154.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mayasabha-box-office-collections-day-1-jaaved-jaaferi-film-gets-tough-fight-makes-only-rs-12-lakhs/articleshow/127812452.cms",
-    "time": "2026-01-31T00:15:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Conspiracy theories that have fans glued",
-    "desc": "Get ready for another thrilling heist as 'Berlin', the 'Money Heist' prequel, returns for Season 2 on May 15, 2026. This time, Andres de Fonollosa and his charismatic crew are heading to Seville, Spain, for their most ambitious job yet.",
-    "img": "https://static.toiimg.com/photo/msid-127808746,imgsize-36778.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/berlin-season-2-fan-theories-predict-this-as-money-heist-star-pedro-alonso-and-the-crew-return/articleshow/127797136.cms",
-    "time": "2026-01-30T23:58:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Mardaani 3' BO day 1: Thriller opens with over Rs 3 crores",
-    "desc": "Mardaani 3 has kicked off its box office run with a respectable Rs 3.80 crore opening day. Rani Mukerji shines as the formidable cop Shivani Shivaji Roy, earning widespread praise for her powerful performance. The film, directed by Abhiraj Minawala, saw increasing audience occupancy throughout its first day, indicating a promising start for the franchise.",
-    "img": "https://static.toiimg.com/photo/msid-127812363,imgsize-40318.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mardaani-3-box-office-collections-day-1-rani-mukerjis-thriller-starts-steady-opens-with-over-rs-3-crores/articleshow/127812363.cms",
-    "time": "2026-01-30T23:54:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Cracks on campus",
-    "desc": "Students from the general category or upper castes believe that the UGC’s 2026 regulations, introduced mainly to address caste discrimination on campuses, will create a divide and villainise them. They worry about several of its provisions, including the lack of protection against false complaints. While the Supreme Court has stayed the regulations, anger has not yet subsided, report Abhinay Lakshman and Mayank Kumar",
-    "img": "https://th-i.thgim.com/public/incoming/kxluwk/article70571626.ece/alternates/LANDSCAPE_1200/STUDENT%20PROTEST%20UGC%20DU%20DELHI%202026_28_01_6.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/education/colleges/2026-ugc-equity-rules-cracks-on-campus/article70571618.ece",
-    "time": "2026-01-30T23:37:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "BCB reveals Shakib's roadmap for next ICC tournament",
     "desc": "Bangladesh Cricket Board is planning Shakib Al Hasan's return to the national team. The veteran all-rounder could play in the upcoming series against Pakistan. Batting coach Mohammad Ashraful believes Shakib should aim for the 2027 ODI World Cup. Shakib's personal security and legal issues are being addressed. His comeback is a significant development for Bangladesh cricket.",
@@ -234,24 +360,6 @@ const newsData_en = [
     "time": "2026-01-30T22:57:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sonam Kapoor flaunts baby bump, second pregnancy glow",
-    "desc": "Sonam Kapoor was recently spotted at an event, proudly flaunting her adorable baby bump. The mom-to-be looked radiant and calm as she posed for the cameras, clearly glowing in this special phase of her life.",
-    "img": "https://static.toiimg.com/photo/msid-127812087,imgsize-31924.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonam-kapoor-flaunts-baby-bump-at-event-mom-to-be-glows-as-she-poses-for-cameras/articleshow/127812059.cms",
-    "time": "2026-01-30T22:44:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Flipperachi's Fa9la from Dhurandhar enters Guinness World Records",
-    "desc": "Bahraini rapper Flipperachi has officially entered the Guinness World Records after his song Fa9la (pronounced Faasla), featured in Ranveer Singh’s blockbuster Dhurandhar, topped the Arabia Charts with the highest number of billboards. The achievement has propelled the artist into the spotlight in India, where the track has gone viral alongside Akshaye Khanna’s now-iconic entry sequence in the film.",
-    "img": "https://static.toiimg.com/photo/msid-127811087,imgsize-23678.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bahraini-rapper-flipperachi-enters-guinness-world-records-as-fa9la-from-dhurandhar-tops-arabia-billboard-charts/articleshow/127810683.cms",
-    "time": "2026-01-30T22:22:25.000Z"
-  },
-  {
     "cat": "Business",
     "title": "EU-India FTA to be implemented in 2026 itself, labour intensive sectors to benefit: Piyush Goyal",
     "desc": "Commerce Minister says India only negotiating FTAs with developed countries, no question of rethink on RCEP; while the EU indicated the FTA sent a political message to the U.S., Mr. Goyal said India’s only message was its growth story",
@@ -259,15 +367,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/eu-india-fta-will-be-implemented-this-year-labour-intensive-sectors-to-benefit-piyush-goyal/article70570649.ece",
     "time": "2026-01-30T20:07:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sunetra Pawar set to be first woman Deputy Chief Minister of Maharashtra",
-    "desc": "CM says government will support NCP decision; Parth Pawar likely to replace his mother as a Rajya Sabha MP; reunification not a priority, says NCP leader Chhagan Bhujbal, even as some NCP-SP leaders push for it",
-    "img": "https://th-i.thgim.com/public/incoming/6jp80l/article70571991.ece/alternates/LANDSCAPE_1200/11908_29_1_2026_14_29_20_5_DSC_2491.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/sunetra-pawar-to-be-the-first-woman-deputy-chief-minister-of-maharashtra/article70571341.ece",
-    "time": "2026-01-30T19:56:44.000Z"
   },
   {
     "cat": "Politics",
@@ -280,30 +379,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "2-day conclave will focus on inclusive tourism",
-    "desc": "Policymakers, industry leaders, designers, economists, accessibility practitioners, and travellers will share the stage on the first day as it will bring together policy intent, expert perspectives, lived experience, and design practice to debate on the central question of what it will take to make tourism truly inclusive.",
-    "img": "https://th-i.thgim.com/public/news/national/g35gtm/article70571397.ece/alternates/LANDSCAPE_1200/KFA%20Logo%20Final-02.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-for-all-conclave-on-inclusive-tourism-begins-january-31/article70571333.ece",
-    "time": "2026-01-30T19:35:53.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "When the sea became a shared responsibility for scientists and people living along the coast",
     "desc": "Over the past two decades, INCOIS’s Wave Monitoring Along Nearshore (WAMAN) buoy network has been transforming India’s coastal forecasting by combining science with community trust. With 17 nearshore buoys and active local participation, WAMAN delivers real-time wave data that strengthens early warnings, supports fishers and ports, and ensures long-term, sustainable ocean observation",
     "img": "https://th-i.thgim.com/public/incoming/2atzn4/article70571981.ece/alternates/LANDSCAPE_1200/IMG_incois_1_2_1_CPER2LU9.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/telangana/when-the-sea-became-a-shared-responsibility-for-scientists-and-people-living-along-the-coast/article70569836.ece",
     "time": "2026-01-30T19:34:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Regime in tough spot as every Iranian has been affected by economic collapse, says Scott Anderson",
-    "desc": "Journalist and writer Scott Anderson says, unlike during earlier protests in Iran, the regime can no longer play one group off against another, because everyone is suffering; the economic collapse, food and water crises, and high unemployment rate cannot all be blamed on foreign saboteurs, he adds",
-    "img": "https://th-i.thgim.com/public/news/national/qbzxsf/article70570601.ece/alternates/LANDSCAPE_1200/Scott%20Anderson.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/regime-in-tough-spot-iran-protests-economic-collapse-scott-anderson/article70570603.ece",
-    "time": "2026-01-30T18:40:11.000Z"
   },
   {
     "cat": "Sports",
@@ -441,15 +522,6 @@ const newsData_en = [
     "time": "2026-01-30T16:22:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "My Take 5 (Edition 63): The week that was in international affairs",
-    "desc": "Syria sees conflict between Damascus and Kurds, with a new integration deal announced. India and the EU finalize a major trade agreement after 18 years. Russia-Ukraine war negotiations continue with sticking points. China's top general is purged, raising questions about military leadership. The EU backs Morocco's autonomy plan for the Sahara.",
-    "img": "https://static.toiimg.com/photo/msid-127805427,imgsize-793511.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/my-take-5-edition-63-the-week-that-was-in-international-affairs/articleshow/127805483.cms",
-    "time": "2026-01-30T16:13:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Lad slams fifth ton of the season to put Mumbai in command vs Delhi",
     "desc": "Siddhesh Lad's stellar form continues as he notched his fifth century of the season, fourth in a row, crossing 700 runs. His unbeaten 102, alongside Suved Parkar's 53, guided Mumbai to a lead against Delhi. Lad's remarkable comeback and consistent performance raise hopes for a national call-up.",
@@ -505,30 +577,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Djokovic edges Sinner in five-set thriller to reach 38th major final",
-    "desc": "Novak Djokovic overcame Jannik Sinner in a thrilling five-set Australian Open semi-final, reaching his 38th major final. Despite recent struggles and doubts about his form, the 38-year-old showcased his resilience and experience on Rod Laver Arena. Djokovic's victory marked his return to a Grand Slam final for the first time since Wimbledon 2024.",
-    "img": "https://static.toiimg.com/photo/msid-127804645,imgsize-88270.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/novak-djokovic-edges-jannik-sinner-in-five-set-thriller-to-reach-38th-major-final/articleshow/127804670.cms",
-    "time": "2026-01-30T15:20:57.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Djokovic stares at history, ends Sinner streak to book AO final spot",
     "desc": "Novak Djokovic battled past Jannik Sinner in a marathon five-setter, reaching his 11th Australian Open final after a match that stretched past midnight. The Serbian legend, at 38, is now one win away from an unprecedented 11th title and a record 25th Grand Slam. He faces Carlos Alcaraz in a highly anticipated rematch.",
     "img": "https://static.toiimg.com/photo/msid-127804500,imgsize-33258.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/6-3-3-6-6-4-4-6-4-6-djokovic-novak-stares-at-history-after-beating-jannik-sinner-in-australian-open-semi-final/articleshow/127804410.cms",
     "time": "2026-01-30T15:09:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Alcaraz overcomes Zverev in longest AO semi-final to face Djokovic",
-    "desc": "Carlos Alcaraz staged a remarkable comeback in a five-hour Australian Open semi-final, battling severe cramps to defeat Alexander Zverev. Despite appearing on the brink of defeat, the young Spaniard, fueled by crowd support, fought back from a deficit in the fifth set to secure his maiden Melbourne Park final. He will now face Novak Djokovic for the title.",
-    "img": "https://static.toiimg.com/photo/msid-127804493,imgsize-80664.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/carlos-alcaraz-overcomes-alexander-zverev-in-longest-australian-open-semi-final-to-face-novak-djokovic/articleshow/127804522.cms",
-    "time": "2026-01-30T15:08:51.000Z"
   },
   {
     "cat": "Business",
@@ -574,24 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/the-extra-test-when-four-pitches-were-used-for-4-innings-in-a-match/articleshow/127803066.cms",
     "time": "2026-01-30T14:26:08.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "B'luru real estate tycoon found dead: Cops suspect suicide; I-T had raided his office",
-    "desc": "Real estate magnate CJ Roy, founder of Confident Group, was discovered deceased at his Bengaluru office on Friday, sustaining bullet injuries from his licensed firearm. Authorities suspect suicide, with the final cause of death pending a post-mortem examination. The incident occurred shortly after the Income Tax Department reportedly conducted searches at his premises.",
-    "img": "https://static.toiimg.com/photo/msid-127803245,imgsize-13484.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/real-estate-tycoon-cj-roy-found-dead-cops-suspect-suicide-i-t-had-raided-his-office/articleshow/127803101.cms",
-    "time": "2026-01-30T13:51:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Experts urge sustained capex rise; focus on R&amp;D, local output",
-    "desc": "As India's Union Budget approaches, defence spending is under scrutiny. Experts advocate for a substantial, sustained hike in defence capital expenditure, emphasizing domestic manufacturing and technological advancement. While geopolitical tensions necessitate increased spending, the focus must be on strategic calibration rather than indiscriminate increases to bolster national security and industrial capabilities.",
-    "img": "https://static.toiimg.com/photo/msid-127802459,imgsize-1410668.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-why-defence-spending-is-back-in-sharp-focusand-how-experts-want-the-money-spent/articleshow/127801527.cms",
-    "time": "2026-01-30T13:22:08.000Z"
   },
   {
     "cat": "Business",
@@ -673,15 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/at-least-170-civilians-killed-in-myanmar-air-strikes-during-election-un/article70570016.ece",
     "time": "2026-01-30T11:29:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What the Economic Survey sets up for Budget Sunday",
-    "desc": "​The Survey revises India’s potential growth rate upwards to 7 percent, reflecting years of sustained public investment, infrastructure expansion, logistics reform and financial sector clean up. High frequency indicators show firming investment momentum and resilient consumption. Core inflation remains subdued, signalling that supply side improvements are finally anchoring prices rather than monetary tightening alone.",
-    "img": "https://static.toiimg.com/photo/msid-127798538,imgsize-104630.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/from-stability-to-strategic-indispensability-what-the-economic-survey-sets-up-for-budget-sunday/articleshow/127798473.cms",
-    "time": "2026-01-30T10:56:00.000Z"
   },
   {
     "cat": "World",
@@ -844,33 +871,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/kerala-budget-2026-money-for-bridges-roads-highways/article70564553.ece",
     "time": "2026-01-29T08:41:42.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S.-Iran tensions escalate as Trump says ‘time is running’ out for Tehran",
-    "desc": "“A massive Armada is heading to Iran. It is moving quickly, with great power, enthusiasm, and purpose. It is a larger fleet, headed by the great Aircraft Carrier Abraham Lincoln, than that sent to Venezuela,” Mr. Trump wrote in a social media post.",
-    "img": "https://th-i.thgim.com/public/incoming/n9ir3f/article70562045.ece/alternates/LANDSCAPE_1200/Trump_79441.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-threatens-attack-on-iran/article70562039.ece",
-    "time": "2026-01-29T03:04:36.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Bessent says disappointed by EU-India deal; South Korea must ratify trade deal",
-    "desc": "Bessent said the deal made it clear why Brussels had balked at joining Washington's decision to impose 25% tariffs on India last ‌year as part of a push to reduce its purchases of ‌Russian oil",
-    "img": "https://th-i.thgim.com/public/incoming/44ou54/article70563653.ece/alternates/LANDSCAPE_1200/Trump_88404.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/bessent-says-disappointed-by-eu-india-deal-south-korea-must-ratify-trade-deal/article70563645.ece",
-    "time": "2026-01-29T01:45:56.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Federal Reserve keeps interest rates unchanged even as Trump continues to insist they be lowered",
-    "desc": "A key issue facing the Fed rate-setting committee is how long it will remain on hold; they remain split between those officials opposed to further cuts until inflation comes down and those who want to lower rates to further support hiring",
-    "img": "https://th-i.thgim.com/public/incoming/q5m9t5/article70562914.ece/alternates/LANDSCAPE_1200/Federal_Reserve_Powell_80793.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/federal-reserve-keeps-interest-rates-unchanged-even-as-trump-continues-to-insist-they-be-lowered/article70562913.ece",
-    "time": "2026-01-28T22:39:51.000Z"
   },
   {
     "cat": "Sports",
