@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "কোনও দিন বাবার পদবি নিইনি, কাউকে বিয়ে করিনি...মনের গোপন কুঠুরির ঝাঁপি উজাড় করলেন টাবু",
+    "desc": "টাবু এমন একটি পরিবার থেকে এসেছেন যেখানে শৈল্পিক ধারার মানুষদের বংশধরদের সংখ্যা অনেক বেশি। তার বড় বোন ফরাহ ১৯৮০-এর দশকে চলচ্চিত্রে অভিনয় করেছিলেন এবং তিনি শাবানা আজমির আত্মীয়ও। তবুও, তিনি নিজেই স্বীকার করেছেন যে টাবু তার শৈশবকালে স্পটলাইট থেকে অনেক দূরে ছিলেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/New-Project-4-2026-01-649e95d95592f97be02ec5379bac302b-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/tabu-the-famous-bollywood-actress-explained-why-she-has-not-married-arc-2521048.html",
+    "time": "2026-01-31T17:23:57.000Z"
+  },
+  {
     "cat": "Business",
     "title": "কে সেই ব্যক্তি, যার কারণে ফেটে গেল সোনা-রুপোর বুদবুদ? মুখ থুবড়ে পড়ল দাম",
     "desc": "শুক্রবার, ৩০ জানুয়ারি, সোনা ও রুপোর বিনিয়োগকারীদের জন্য যেন এক দুঃস্বপ্ন ডেকে এনেছিল।দিনের শুরু থেকেই সোনা ও রুপোর দামে পতন লক্ষ্য করা গিয়েছিল, এবং যেই নামের ঘোষণা আসল, তার পরেই বিশ্বজুড়ে এই দুই মূল্যবান ধাতুর দাম পড়ে যায়।অনেক বিনিয়োগকারী লক্ষ বা কোটি টাকা হারে ক্ষতির সম্মুখীন হন।",
@@ -421,15 +430,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/business/north-24-parganas-business-idea-jackfruit-leaf-selling-success-business-north-24-parganas-man-earning-huge-l18-local18-2515762.html",
     "time": "2026-01-28T09:57:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বিমান দুর্ঘটনায় মৃত্যুতে বুধেই সরকারি ছুটি! ৩ দিনের রাষ্ট্রীয় শোক, অর্ধনমিত থাকবে জাতীয় পতাকা এবং...",
-    "desc": "অজিত পাওয়ার একটি চার্টার্ড বিমানে (Learjet 45) মুম্বই থেকে বারামতিতে যাচ্ছিলেন। বুধবার সকাল পৌনে ৯টা নাগাদ বারামতি বিমানবন্দরের কাছে অবতরণের সময় বিমানটি ভেঙে পড়ে এবং এতে আগুন ধরে যায়। মারা যান ডেপুটি সিএম অজিত। শোকে মুহ্যমান মহারাষ্ট্র।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/maharashtra-declares-public-holiday-today-3-day-mourning-after-deputy-cm-ajit-pawar-dies-in-plane-crash_637931.html ",
-    "time": "2026-01-28T09:51:59.000Z"
   },
   {
     "cat": "Sports",

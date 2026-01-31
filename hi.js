@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India create T20I world record against New Zealand after blistering batting in series",
+    "desc": "India have shattered a major world record during their fifth and final T20I of the series against New Zealand after a jaw-dropping batting display. Well led by Ishan Kishan, the Men in Blue piled up...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-create-t20i-world-record-against-new-zealand-after-blistering-batting-in-series-2026-01-31-1028346",
+    "time": "2026-01-31T18:06:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ishan Kishan or Sanju Samson, who will open? Suryakumar Yadav answers ahead of T20 World Cup 2026",
+    "desc": "Ishan Kishan was the standout performer in the fifth T20I against New Zealand at the Greenfield International Stadium in Thiruvananthapuram. Slotted in at No.3, the southpaw produced a blistering knock, registering his maiden T20I hundred....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-or-sanju-samson-who-will-open-suryakumar-yadav-answers-ahead-of-t20-world-cup-2026-2026-01-31-1028345",
+    "time": "2026-01-31T18:03:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Where to watch Australian Open final live on TV and stream online in India?",
+    "desc": "The Australian Open 2026 final sets the stage for another defining chapter in the modern men’s game as Carlos Alcaraz and Novak Djokovic prepare to collide in Melbourne’s Rod Laver Arena. It is a matchup...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-vs-novak-djokovic-where-to-watch-australian-open-final-live-on-tv-and-stream-online-in-india-2026-01-31-1028341",
+    "time": "2026-01-31T17:29:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India maul New Zealand in final T20I as Sanju Samson's form remains major concern ahead of T20 World Cup 2026",
+    "desc": "India handed New Zealand a drubbing in their final T20I assignment before the T20 World Cup 2026, with almost all boxes seemingly ticked off by the Men in Blue. Led by a brilliant show from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-maul-new-zealand-in-final-t20i-as-sanju-samsons-form-remain-major-concern-ahead-of-t20-world-cup-2026-2026-01-31-1028338",
+    "time": "2026-01-31T16:58:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Check new timing and where to watch WWE PLE live on TV and stream online in India?",
+    "desc": "The Road to WrestleMania officially begins with Royal Rumble 2026, an event that promises a blend of spectacle, uncertainty and career-defining moments. For the first time, WWE stages its most unpredictable premium live event in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/royal-rumble-2026-check-new-timing-and-where-to-watch-wwe-ple-live-on-tv-and-stream-online-in-india-2026-01-31-1028334",
+    "time": "2026-01-31T16:18:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India register new record against New Zealand; Ishan Kishan, Suryakumar go berserk",
+    "desc": "Indian batters had a gala time with the bat in the fifth T20I against New Zealand at the Greenfield International Stadium in Thiruvananthapuram. The surface, which initially looked a bit sluggish in the first couple...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-5th-t20i-india-register-new-record-against-new-zealand-ishan-kishan-suryakumar-go-berserk-2026-01-31-1028333",
+    "time": "2026-01-31T15:36:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Suryakumar Yadav breaks major world record as India skipper stars in IND vs NZ 5th T20I",
     "desc": "India captain Suryakumar Yadav shattered a huge world record as he put up a strong performance in the fifth T20I between India and New Zealand at the Greenfield International Stadium, Thiruvananthapuram on Saturday, January 31. Suryakumar...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/dont-worry-samson-is-playing-suryakumar-addresses-trivandrum-crowd-as-he-forgets-playing-xi-in-5th-t20i-2026-01-31-1028319",
     "time": "2026-01-31T13:51:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Kuldeep Yadav not playing 5th T20I vs New Zealand in Trivandrum?",
-    "desc": "India have left Kuldeep Yadav out of the playing XI for the fifth T20I against New Zealand at the Greenfield International Stadium in Thiruvananthapuram, bringing Varun Chakaravarthy back into the side. The mystery spinner from...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-kuldeep-yadav-not-playing-5th-t20i-vs-new-zealand-in-trivandrum-2026-01-31-1028316",
-    "time": "2026-01-31T13:23:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India put up mammoth 271/5 against New Zealand in Trivandrum",
-    "desc": "India face New Zealand in their last match ahead of the start of the T20 World Cup 2026. With the series in the bag, India will want a couple of last boxes to be ticked...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-5th-t20i-live-cricket-score-india-vs-new-zealand-greenfield-international-stadium-thiruvananthapuram-latest-match-updates-scorecard-teams-2026-01-31-1028313",
-    "time": "2026-01-31T12:46:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Africa get massive boost ahead of T20 World Cup 2026, star player 'medically cleared' for action",
-    "desc": "David Miller will take his place in South Africa’s squad for the 2026 T20 World Cup after being medically cleared from a groin injury sustained during the SA20. The setback forced him to miss Paarl...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-get-massive-boost-ahead-of-t20-world-cup-2026-star-player-medically-cleared-for-action-2026-01-31-1028311",
-    "time": "2026-01-31T12:31:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How much did Elena Rybakina and Aryna Sabalenka get for showdown clash?",
-    "desc": "Elena Sabalenka stunned the World No.1 Aryna Sabalenka in the final of the Australian Open 2026 to win her career's second Grand Slam. The 2022 Wimbledon champion defeated the former two-time Australian Open champion 6-4,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/australian-open-2026-prize-money-how-much-did-elena-rybakina-and-aryna-sabalenka-get-for-showdown-clash-2026-01-31-1028306",
-    "time": "2026-01-31T12:02:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aryna Sabalenka loses her calm before defeat to Elena Rybakina in Australian Open final, breaks into tears",
-    "desc": "Elena Rybakina delivered a stunning reversal on the sport’s biggest stage, overturning a decisive final-set deficit to defeat world number one Aryna Sabalenka and capture her first Australian Open title. The victory added another painful...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/aryna-sabalenka-loses-her-calm-before-defeat-to-elena-rybakina-in-australian-open-final-breaks-into-tears-2026-01-31-1028303",
-    "time": "2026-01-31T11:50:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Matheesha Pathirana changes release point ahead of T20 World Cup 2026",
-    "desc": "Sri Lanka left the opening T20I against England with a loss on the scoreboard, but their fast bowlers, led by Matheesha Pathirana, offered a glimpse of promise ahead of a major tournament year. On a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/matheesha-pathirana-changes-release-point-ahead-of-t20-world-cup-2026-2026-01-31-1028299",
-    "time": "2026-01-31T11:13:31.000Z"
   }
 ];
