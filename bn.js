@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "বন্দে ভারত স্লিপারের জনপ্রিয়তা তুঙ্গে, আগামী মাসের প্রথম ১০ দিন অবধি বুকিং সম্পূর্ণ! এসি ফার্স্ট ক্লাস থেকে এসি 3-টিয়ার, কোথায় কত?",
+    "desc": "হাওড়া-কামাখ্যা, হাওড়া-বন্দে ভারত স্লিপার এক্সপ্রেসের জনপ্রিয়তা আকাশ ছুঁয়ে ফেলল। গত ছয় দিনে গড় যাত্রীসংখ্যা প্রায় ১২৮%। আগামী পাঁচ দিনের জন্য যাত্রীসংখ্যা ইতিমধ্যেই ১০০% ছাড়িয়ে গেছে। যাত্রী উৎসাহ বাড়াতে রেলের স্লোগান, \"আগে কখনও না পাওয়া আরামের অভিজ্ঞতা নিন – এখনই বন্দে ভারত স্লিপার ট্রেনের টিকিট বুক করুন\"।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Vande-Bharat-Sleeper-2026-01-ccb5d103d0e7f0002f66264e6626f5cd-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/west-bengal/vande-bharat-sleeper-bookings-are-completely-full-until-the-first-10-days-of-february-month-from-ac-first-class-to-ac-3-tier-what-are-the-fares-for-each-sanj-2519801.html",
+    "time": "2026-01-31T07:55:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "উপ মুখ্যমন্ত্রী পদে অজিত পওয়ার পত্নী! ‘সুনেত্রার সঙ্গে কথা হয়নি,’ তবে আর একত্রীকরণ হচ্ছে না NCP-র? শরদের কথায় জল্পনা",
+    "desc": "শরদ পওয়ার জানান, শপথগ্রহণের অনুষ্ঠান যে স্থির হয়েছে, তা তাঁদের জানা ছিল না৷ তবে তিনি বলেন, এনসিপির দুই গোষ্ঠীর ফের এক হয়ে যাওয়া সদ্য প্রয়াত অজিত পওয়ারের দীর্ঘদিনের ইচ্ছে ছিল৷ গত কয়েক মাস ধরেই তাঁদের মধ্যে এবিষয়ে আলোচনা, বৈঠক হচ্ছিল৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ydne-2026-01-31T113221.745-2026-01-4aa709e62358f47a45f85e38ec66188c-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/ncp-merger-update-no-talks-with-sunetra-but-they-have-the-right-to-decide-sharad-pawar-on-ncp-oath-taking-sta-2520161.html",
+    "time": "2026-01-31T06:38:04.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "' #TakeBackYourSanyaas...এটা মেনে নেওয়া যায় না' অরিজিতের শেষ অপ্রকাশিত গান 'ইশক কা ফিভার'-গাইছেন বিশাল ভরদ্বাজ, ভাইরাল ভিডিও",
     "desc": "গত কয়েক দিন ধরে সমাজমাধ্যমে তুলকালাম! বিষয়টা কী? অরিজিৎ সিং নিজে ঘোষণা করেছেন, তিনি আর ছবিতে গান গাইবেন না অর্থাৎ প্লেব্যাক থেকে অবসর নিলেন 'অ্যায় দিল হ্যায় মুশকিল' তারকা! খবর শুনেই আকাশ ভেঙে পড়ল ভক্ত মহলের বুকে",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/actor-politician-hiran-chatterjee-removed-photos-from-instagram-rmj-2507511.html",
     "time": "2026-01-21T13:55:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘তুমিই আমার মা, তুমিই আমার বাবা’, হিরণের দ্বিতীয় বিয়ের পরেই ইঙ্গিতপূর্ণ পোস্ট কন্যা নিয়াসার",
-    "desc": "এই সব কিছুর মাঝে কয়েক সেকেন্ডের একটি ভিডিয়ো ভাগ করে নিয়েছেন হিরণের কন্যা নিয়াসা চট্টোপাধ্যায়। যেখানে দেখা যাচ্ছে মা অনিন্দিতা পোষ্যের সঙ্গে সময় কাটাচ্ছেন নিয়াসা। নিয়াসা লেখেন, “বহুদিন হল আমরা দু’জনেই আছি। ভালবাসা দিয়ে প্রতিটা ভূমিকা পালন করছ তুমি। তুমিই আমার মা, তুমিই বাবা। তুমি আমার পথপ্রদর্শক। সবকিছুর জন্য ধন্যবাদ। তুমিই আমার হিরো মা।”",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-21-at-3.28.39-PM-2026-01-75a502ea301b42b1287e579d98a0468e-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/hiran-faces-controversy-over-second-marriage-ex-wife-makes-allegations-rmj-ws-l-2507567.html",
-    "time": "2026-01-21T13:27:00.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "মোবাইলের চার্জিং পোর্টের পাশে ছোট্ট ছিদ্র থাকে কেন জানেন? ৯৯.৯৯% মানুষই সঠিক উত্তর দিতে পারবেন না!",
-    "desc": "কিছু অ্যাডভান্স স্মার্টফোনে এই ছোট্ট ছিদ্রটি সেকেন্ডারি মাইক্রোফোনেরও অংশ হতে পারে। এর কাজ হল অপ্রয়োজনীয় শব্দ কমানো। এটি বাতাসের শব্দ, ট্রাফিকের আওয়াজ এবং আশপাশের কোলাহল নিজে থেকেই ফিল্টার করে দেয়, ফলে আপনার কণ্ঠস্বর আরও পরিষ্কার ও স্পষ্টভাবে অপর প্রান্তের মানুষের কাছে পৌঁছে যায়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/1766908611_1766893183_image-2025-12-4689f150ac0d8aeec15c5d16584e9022-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/technology/do-you-know-what-is-the-purpose-of-small-hole-near-speaker-in-smartphone-many-people-have-no-idea-about-it-smc-2507565.html",
-    "time": "2026-01-21T13:21:26.000Z"
   }
 ];

@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "સાધ્વી પ્રેમ બાઇસા કેસમાં નવો વળાંક, હવે પિતાની ભૂમિકા સામે ઉભા થયા સવાલ, કહાની જાણીને ચોંકી જશો",
+    "desc": "29 જાન્યુઆરીના રોજ રાજસ્થાનના જોધપુરમાં કથાકાર સાધ્વી પ્રેમ બાઇસાના શંકાસ્પદ મોતનો મામલો દિવસેને દિવસે વધુ જટિલ બનતો જાય છે. મૃત્યુ પછીની ઇન્સ્ટાગ્રામ પોસ્ટ, તેમના પિતા અને ગુરુ વીરમનાથના બદલાતા નિવેદનો અને ભક્તોના ગંભીર આરોપોએ સમગ્ર ઘટના પર પ્રશ્નો ઉભા કર્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/sadhvi-prem-baisa-death-mystery-jodhpur-viral-video-rajasthan-463449 ",
+    "time": "2026-01-31T09:25:07.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "છેલ્લી T20માં બદલાઈ જશે ટીમ ઈન્ડિયાની પ્લેઈંગ-11, આ 2 સ્ટાર પ્લેયરની થશે વાપસી, જાણો કોણ થશે બહાર",
     "desc": "ભારતીય ટીમ આજે પાંચમી T20 મેચમાં ન્યુઝીલેન્ડ સામે રમશે. આ મેચ માટે પ્લેઇંગ 11માં કેટલાક મોટા ફેરફારો થઈ શકે છે. ત્યારે છેલ્લી મેચમાં કોને તક મળે છે અને કોનું પત્તુ કપાશે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -387,15 +396,6 @@ const newsData_gu = [
     "time": "2026-01-28T16:46:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "પ્રમોદ મહાજનથી અજિત પવાર સુધી... મહારાષ્ટ્રની રાજનીતિના સમીકરણો બદલી નાખનારા અકાળ અવસાન",
-    "desc": "મહારાષ્ટ્રના નાયબ મુખ્યમંત્રી અજિત પવારનું દુ:ખદ અવસાન મહારાષ્ટ્રના રાજકારણમાં અણધારી ઘટનાઓની યાદ અપાવે છે. આવી અણધારી ઘટનાઓએ વારંવાર સત્તાના સમીકરણો બદલ્યા છે. છેલ્લા બે દાયકામાં ઘણા મોટા નેતાઓના અકાળે અવસાન થયા છે, જેના કારણે પાર્ટીઓ અને રાજ્ય નવા પડકારોનો સામનો કરી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/maharashtra-politics-major-leaders-demise-ajit-pawar-pramod-mahajan-gopinath-munde-463198 ",
-    "time": "2026-01-28T16:17:39.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "જિયો હોટસ્ટારે લોન્ચ કર્યા નવા મંથલી પ્લાન, સબ્સક્રિપ્શનમાં મોટા ફેરફાર, 80 રુપિયામાં મળશે ઘણું બધું",
     "desc": "જો તમે જિયો હોટસ્ટાર પર આવેલી ફિલ્મો અને વેબ સીરીઝ જોવા માંગો છો તો તેના માટે બેસ્ટ સમય છે. કારણ કે જિયો હોટસ્ટારએ યુઝર્સ માટે સૌથી સસ્તા મંથલી પ્લાન લોન્ચ કરી દીધા છે. જેમાં તમે ખૂબ ઓછા ખર્ચે જિયો હોટસ્ટારનું સબ્સક્રિપ્શન લઈ શકો છો.",
@@ -457,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/former-indian-cricketer-jacob-martin-arrested-for-drunk-driving-case-vadodara-463141 ",
     "time": "2026-01-28T07:31:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "આ ડિલથી ગુજરાતને થશે સૌથી વધારે ફાયદો, આ સેક્ટરોમાં આવશે રોનક ! જાણો રોજગારની તકો ક્યાં વધશે",
-    "desc": "ભારત અને યુરોપિયન યુનિયન (EU) વચ્ચે મુક્ત વેપાર કરાર (FTA) હાલમાં વિશ્વભરમાં ચર્ચામાં છે. બંને પક્ષોએ આ ઐતિહાસિક કરારને મધર ઓફ ઓલ ડિલ ગણાવ્યો છે. એવું માનવામાં આવે છે કે આ સોદો યુએસ પ્રમુખ ડોનાલ્ડ ટ્રમ્પની કડક ટેરિફ નીતિના પાયાને હચમચાવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/india-eu-trade-deal-gujarat-will-benefit-the-most-from-this-deal-sector-will-it-benefit-know-where-employment-opportunities-will-increase-463124 ",
-    "time": "2026-01-28T04:39:53.000Z"
   },
   {
     "cat": "Entertainment",
@@ -601,15 +592,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/india-eu-trade-deal-bring-relief-on-cars-tariff-reduce-to-40-percent-in-country-462926 ",
     "time": "2026-01-26T05:01:12.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ગ્રીનલેન્ડની રાજધાની Nuukમાં અચાનક વીજળી ગુલ, ટ્રમ્પે નથી કર્યો હુમલો; તો પછી શું હતું કારણ?",
-    "desc": "ડોનાલ્ડ ટ્રમ્પના કારણે ગ્રીનલેન્ડ સતત લાઈમલાઈટમાં છે. ગ્રીનલેન્ડ પર કબજો કરવાની ખુલ્લી ધમકીથી ચિંતામાં રહેલા લોકોના ધબકારા ત્યારે વધી ગયા જ્યારે અચાનક રાજધાની અને આસપાસના વિસ્તારોમાં વીજળી ગુલ થઈ ગઈ. હિમવર્ષા કે તોફાનનું કોઈ એલર્ટ નહોતું, તેથી કેટલાક લોકો કોઈ અઘટિત ઘટનાની આશંકાથી ફફડી ઉઠ્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/donald-trump-greenland-controversy-us-fact-check-not-trump-greenland-capital-nuuk-sees-city-wide-power-outage-462875 ",
-    "time": "2026-01-25T11:58:57.000Z"
   },
   {
     "cat": "Entertainment",

@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Australian Open 2026 women's final Live score: Sabalenka-Rybakina clash to script history",
+    "desc": "The stage is set for the women's final of the ongoing Australian Open 2026. World number one Aryna Sabalenka will lock horns with world number five Elena Rybakina in the summit clash of the tournament....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/australian-open-2026-women-s-final-live-score-sabalenka-aims-to-reclaim-title-against-in-form-rybakina-1028274",
+    "time": "2026-01-31T08:24:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pat Cummins ruled out of T20 World Cup 2026 as Australia announce final 15 for marquee event",
+    "desc": "Cricket Australia announced their final 15 for the upcoming T20 World Cup 2026. The marquee event is all set to be co-hosted by India and Sri Lanka and will begin on February 17. It is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pat-cummins-ruled-out-of-t20-world-cup-2026-as-australia-announce-final-15-for-marquee-event-2026-01-31-1028270",
+    "time": "2026-01-31T07:33:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Head-to-head, where to watch, and all you need to know ahead of AO final",
+    "desc": "Legendary Serbian tennis star Novak Djokovic will be going up against world number one Carlos Alcaraz in the men’s final of the Australian Open 2026. The two stars went through incredible semi-final clashes against Jannik...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-vs-carlos-alcaraz-head-to-head-where-to-watch-and-all-you-need-to-know-ahead-of-ao-final-2026-01-31-1028265",
+    "time": "2026-01-31T06:35:30.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Lisa Keightley weighs in on Mumbai Indians women's struggles in ongoing WPL season",
     "desc": "The ongoing WPL (Women’s Premier League) season has been quite the roller coaster ride for defending champions Mumbai Indians women. With eight matches played, the side has only managed to win three and has lost...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/uae-announce-15-member-squad-for-t20-world-cup-2026-legendary-india-cricketer-to-coach-2026-01-30-1028227",
     "time": "2026-01-30T17:15:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sam Curran creates history, becomes only second England bowler to pick hattrick in T20Is",
-    "desc": "Sam Curran turned around his otherwise tough day with the ball with a hat-trick in the first T20I against Sri Lanka today in Pallekele. He went for 20 runs in an over earlier in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sam-curran-creates-history-becomes-only-second-england-bowler-to-pick-hattrick-in-t20is-2026-01-30-1028225",
-    "time": "2026-01-30T16:50:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Novak Djokovic breaks 54-year-old record, sets date with Carlos Alcaraz in Australian Open final",
-    "desc": "Novak Djokovic added another landmark to his extraordinary career in Melbourne, becoming the oldest man in the Open Era to reach the Australian Open final after a dramatic five-set victory over Jannik Sinner. He broke Ken...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-breaks-54-year-old-record-sets-date-with-carlos-alcaraz-in-australian-open-final-2026-01-30-1028224",
-    "time": "2026-01-30T16:17:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tilak Varma, Sundar injury update: Will the Indian players get fit on time for T20 World Cup 2026?",
-    "desc": "Only eight days after left for the T20 World Cup 2026 to get underway and Team India are still hoping for two of their key players - Washington Sundar and Tilak Varma - to regain...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tilak-varma-sundar-injury-update-will-the-indian-players-get-fit-on-time-for-t20-world-cup-2026-2026-01-30-1028223",
-    "time": "2026-01-30T16:08:16.000Z"
   }
 ];
