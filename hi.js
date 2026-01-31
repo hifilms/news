@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "New South Wales, Sydney Sixers set to part ways with coach Greg Shipperd",
+    "desc": "In a major development for Australian domestic side, New South Wales and BBL (Big Bash League) franchise Sydney Sixers, both teams have announced that they would be parting ways with decorated coach Greg Shipperd. It...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-south-wales-sydney-sixers-set-to-part-ways-with-coach-greg-shipperd-2026-01-31-1028249",
+    "time": "2026-01-31T04:19:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Carlos Alcaraz provides update on his fitness ahead of Australian Open 2026 final against Novak Djokovic",
+    "desc": "The stage is set for the final of the ongoing Australian Open 2026. The men’s final will see world number one Carlos Alcaraz taking on the legendary Novak Djokovic. The two stars will lock horns...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-provides-update-on-his-fitness-ahead-of-australian-open-2026-final-against-novak-djokovic-2026-01-31-1028242",
+    "time": "2026-01-31T02:38:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "IND vs NZ, Thiruvananthapuram, weather report: Will rain spoil 5th T20I of the multi-format series?",
     "desc": "The stage is set for the fifth and final T20I of the ongoing series between India and New Zealand. The two sides will lock horns in the fifth T20I at the Greenfield International Stadium in...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-5th-t20i-pitch-report-how-will-surface-at-greenfield-international-stadium-in-trivandrum-play-2026-01-30-1028217",
     "time": "2026-01-30T15:36:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gujarat Giants end 40-match streak in WPL after opting to bat against Mumbai Indians",
-    "desc": "Gujarat Giants and Mumbai Indians today locked horns in the 19th match of the ongoing Women's Premier League (WPL) season. It is the penultimate match of the league stage, which will also decide the second...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gujarat-giants-end-40-match-streak-in-wpl-after-opting-to-bat-against-mumbai-indians-2026-01-30-1028215",
-    "time": "2026-01-30T15:21:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Novak Djokovic ends semifinal curse, qualifies for Australian Open final with stunning win over Jannik Sinner",
-    "desc": "Novak Djokovic stunned Jannik Sinner in a four-hour marathon to make it to the final of the Australian Open. The 38-year-old Serbian player gave his best shot in the knockout clash as he came back...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-ends-semifinal-curse-qualifies-for-australian-open-final-with-stunning-win-over-jannik-sinner-2026-01-30-1028209",
-    "time": "2026-01-30T14:32:05.000Z"
   }
 ];

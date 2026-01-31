@@ -1,5 +1,122 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Sam Curran hat-trick powers England to 11-run DLS victory over Sri Lanka",
+    "desc": "England defeated Sri Lanka by 11 runs in the opening T20I. Sam Curran took a hat-trick, and Phil Salt scored 46 runs. The win gives England a 1-0 lead in the series. Sri Lanka's batting collapsed after a strong start. The match served as preparation for the T20 World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-127813580,imgsize-27148.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/1st-t20i-sam-curran-hat-trick-powers-england-to-11-run-dls-victory-over-sri-lanka/articleshow/127813566.cms",
+    "time": "2026-01-31T03:53:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ray J shares promising health update, says “I feel better…”",
+    "desc": "Singer Ray J, who recently revealed a critical health scare with his heart functioning at only 25%, has shared a positive update. Following hospitalization for pneumonia, he now feels \"better\" after a \"miracle\" doctor's visit. Despite ongoing legal matters, Ray J's focus appears to be shifting towards his family as he recovers.",
+    "img": "https://static.toiimg.com/photo/msid-127813455,imgsize-738702.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/ray-j-shares-promising-health-update-after-heart-scare-says-i-feel-better/articleshow/127813455.cms",
+    "time": "2026-01-31T03:31:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India to buy oil from Venezuela instead of Russia? US pitch to counter 25% tariffs",
+    "desc": "The US has permitted India to resume Venezuelan oil purchases, aiming to reduce its reliance on Russian crude. This move is part of a broader US strategy to redirect India's energy imports away from Russia amidst growing pressure and trade costs. India is set to significantly cut Russian crude imports in the coming months, diversifying its supply sources.",
+    "img": "https://static.toiimg.com/photo/msid-127813421,imgsize-1129122.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-to-buy-oil-from-venezuela-instead-of-russia-us-pitch-to-counter-25-tariffs/articleshow/127813250.cms",
+    "time": "2026-01-31T03:22:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Nahi khelenge': Ex-Pakistan star's explosive take on India-Pakistan World Cup final",
+    "desc": "Former Pakistan cricketer Rashid Latif feels Pakistan acted late on the T20 World Cup 2026 issue. The Pakistan Cricket Board awaits government clearance for participation. Latif suggests the window for a significant protest has closed. Pakistan's squad departure is scheduled, indicating participation. A final decision is expected soon.",
+    "img": "https://static.toiimg.com/photo/msid-127813404,imgsize-41276.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/nahi-khelenge-ex-pakistan-stars-explosive-take-on-india-pakistan-world-cup-final/articleshow/127813406.cms",
+    "time": "2026-01-31T03:19:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Mardaani 3’ update: What happens with Shivani Roy in the end",
+    "desc": "Rani Mukerji returns as Inspector Shivani Roy in 'Mardaani 3', tackling a child trafficking ring. Her investigation uncovers a sinister plot involving illegal cancer treatment trials. After a confrontation, the antagonist is killed, and Shivani ensures the children's safety, though a key ally suffers a tragic fate due to the experimental treatment.",
+    "img": "https://static.toiimg.com/photo/msid-127813269,imgsize-15612.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rani-mukerjis-mardaani-3-ending-explained-the-final-face-off-between-senior-inspector-shivani-roy-and-amma-explained/articleshow/127813269.cms",
+    "time": "2026-01-31T03:05:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Major setback for Pakistan ahead of virtual knockout vs India in U-19 World Cup",
+    "desc": "Pakistan's Under-19 World Cup hopes face a blow as wicketkeeper-batter Mohammad Shayan is ruled out due to a fractured nose. This setback comes ahead of their crucial virtual knockout match against India, which will decide the final semi-finalist. Afghanistan and England have already secured their spots in the final four.",
+    "img": "https://static.toiimg.com/photo/msid-127813236,imgsize-47226.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/major-setback-for-pakistan-ahead-of-virtual-knockout-vs-india-in-u-19-world-cup/articleshow/127813218.cms",
+    "time": "2026-01-31T02:56:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cardi B gushes over newborn bliss with Stefon Diggs",
+    "desc": "Cardi B and Stefon Diggs welcomed their newborn son on November 4, 2025, during a Monday Night Football game. The rapper shared her joy, calling the baby her \"cuddle buddy\" and hinting at a \"cute\" name, while Diggs affectionately dubbed him \"Baby Brim.\" This addition expands their blended family as Cardi balances motherhood with her upcoming tour.",
+    "img": "https://static.toiimg.com/photo/msid-127813221,imgsize-836054.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/cardi-b-cant-stop-gushing-over-newborn-bliss-as-she-balances-tour-prep-with-boyfriend-stefon-diggs/articleshow/127813226.cms",
+    "time": "2026-01-31T02:54:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranveer Singh is being considered to lead Shankar’s next project",
+    "desc": "Following the massive success of 'Dhurandhar', Ranveer Singh is reportedly being considered for director Shankar's ambitious historical project, 'Velpari'. Based on S. Venkatesan's novel, the film chronicles the life of the ancient Tamil ruler Vēl Pāri. Singh, along with Tamil star Vikram, is rumored to be in contention for lead roles in this highly anticipated, big-budget endeavor.",
+    "img": "https://static.toiimg.com/photo/msid-127812941,imgsize-30542.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/velpari-buzz-ranveer-singh-and-vikram-to-join-director-shankars-dream-project-report/articleshow/127812941.cms",
+    "time": "2026-01-31T02:37:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Operation Trashi-I Day 14: Security forces 're-establish' contact with terrorists in J&amp;K's Dolgam",
+    "desc": "Security forces re-established contact with terrorists early Saturday in Dolgam, Jammu and Kashmir, initiating Operation Trashi-I. This follows an intensified anti-terror operation in Kishtwar against Jaish terrorists, which saw internet services suspended. Previous encounters in Kishtwar, despite challenging terrain and casualties, resulted in militants evading capture.",
+    "img": "https://static.toiimg.com/photo/msid-127813045,imgsize-1045643.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/operation-trashi-i-day-14-security-forces-re-establish-contact-with-terrorists-in-jks-dolgam/articleshow/127812928.cms",
+    "time": "2026-01-31T02:34:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sreenivasan’s 40th day: Family visits old age home",
+    "desc": "On the 40th day of filmmaker Sreenivasan's passing, his family visited Bethlehem Geriatric Care Home, bringing joy to residents. Vineeth and Dhyan spent time with elders, and Vineeth fulfilled a bedridden mother's wish by singing. The heartwarming visit, shared online, earned widespread praise for the family's compassion and social responsibility.",
+    "img": "https://static.toiimg.com/photo/msid-127812968,imgsize-80954.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/sreenivasans-family-visits-old-age-home-vineeth-sings-for-bedridden-mother-dhyan-joins-with-family/articleshow/127812968.cms",
+    "time": "2026-01-31T02:22:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Here’s how depression shaped Lady Gaga’s ‘Chromatica’",
+    "desc": "In 'Chromatica', Lady Gaga dives deep into the tumultuous waters of mental health, crafting an album that pulses with both agony and jubilation. This vibrant dance record becomes a lifeline for anyone facing their own battles, illustrating how Gaga's journey through pain has blossomed into a celebration of hope.",
+    "img": "https://static.toiimg.com/photo/msid-127812954,imgsize-55144.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/how-depression-shaped-lady-gagas-chromatica-inside-the-making-of-the-album-and-her-mental-health-journey/articleshow/127812933.cms",
+    "time": "2026-01-31T02:17:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Fast Forever’ locks March 2028 as final ‘Fast &amp; Furious’ lap",
+    "desc": "Vin Diesel announced the 'Fast and Furious' franchise's grand finale, 'Fast Forever,' will hit theaters on March 17, 2028. Diesel shared the news on Instagram, honoring the legacy and the late Paul Walker. The film picks up after 'Fast X' and promises a heartfelt conclusion to the 25-year saga.",
+    "img": "https://static.toiimg.com/photo/msid-127812832,imgsize-760025.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/vin-diesel-confirms-fast-forever-as-the-final-lap-for-fast-furious-releasing-in-2028/articleshow/127812837.cms",
+    "time": "2026-01-31T01:47:34.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump says Iran wants deal, U.S. 'armada' larger than in Venezuela raid",
+    "desc": "When asked if he had given Iran a deadline to make a deal on its nuclear program, ballistic missiles and other issues, Mr. Trump said “yeah I have” but added that “only they know for sure” what it was",
+    "img": "https://th-i.thgim.com/public/incoming/rg3mss/article70570171.ece/alternates/LANDSCAPE_1200/Trump_07207.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-says-iran-wants-deal-us-armada-larger-than-in-venezuela-raid/article70572160.ece",
+    "time": "2026-01-31T01:44:52.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "BJP MLA confronts U.P. Minister over delayed water projects in Mahoba, video went viral",
     "desc": "After the video of the incident went viral, the Samajwadi Party (SP) president Akhilesh Yadav targeted the BJP government, alleging that BJP ministers or MLAs are busy making money and grabbing land, with none of them are working for the public or for development needs.",
@@ -99,13 +216,13 @@ const newsData_en = [
     "time": "2026-01-30T23:37:59.000Z"
   },
   {
-    "cat": "World",
-    "title": "Trump says Iran wants deal, U.S. 'armada' larger than in Venezuela raid",
-    "desc": "When asked if he had given Iran a deadline to make a deal on its nuclear program, ballistic missiles and other issues, Mr. Trump said “yeah I have” but added that “only they know for sure” what it was",
-    "img": "https://th-i.thgim.com/public/incoming/rg3mss/article70570171.ece/alternates/LANDSCAPE_1200/Trump_07207.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-says-iran-wants-deal-us-armada-larger-than-in-venezuela-raid/article70572160.ece",
-    "time": "2026-01-30T23:29:33.000Z"
+    "cat": "Sports",
+    "title": "BCB reveals Shakib's roadmap for next ICC tournament",
+    "desc": "Bangladesh Cricket Board is planning Shakib Al Hasan's return to the national team. The veteran all-rounder could play in the upcoming series against Pakistan. Batting coach Mohammad Ashraful believes Shakib should aim for the 2027 ODI World Cup. Shakib's personal security and legal issues are being addressed. His comeback is a significant development for Bangladesh cricket.",
+    "img": "https://static.toiimg.com/photo/msid-127805856,imgsize-118406.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-t20-world-cup-exit-bcb-reveals-shakib-al-hasans-roadmap-for-next-icc-tournament/articleshow/127805790.cms",
+    "time": "2026-01-30T23:30:00.000Z"
   },
   {
     "cat": "Politics",
@@ -135,24 +252,6 @@ const newsData_en = [
     "time": "2026-01-30T22:22:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Catherine O’Hara dies at 71: Celebs pay heartfelt tributes",
-    "desc": "The passing of Catherine O’Hara at 71 has left the film and television industry in mourning, with an outpouring of tributes from her friends and collaborators across decades. The legendary actor, celebrated for her unmatched comic brilliance in Home Alone, Schitt’s Creek, Beetlejuice and several other iconic projects, passed away on Friday in Los Angeles after a brief illness.",
-    "img": "https://static.toiimg.com/photo/msid-127809946,imgsize-27842.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/catherine-ohara-passes-away-at-71-macaulay-culkin-meryl-streep-michael-keaton-and-others-pay-heartfelt-tributes/articleshow/127809928.cms",
-    "time": "2026-01-30T21:35:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Singer Madhushree REACTS to Arijit's post: 'Great decision'",
-    "desc": "Acclaimed vocalist Madhushree has expressed her admiration for Arijit Singh's bold choice to leave playback singing behind, describing it as a brave decision amid his successful career. She reflects on how he might resonate with legends like Lata Mangeshkar, who also sought new artistic horizons after reaching their saturation point.",
-    "img": "https://static.toiimg.com/photo/msid-127809709,imgsize-32850.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/singer-madhushree-of-kabhi-neem-neem-fame-reacts-to-arijit-singhs-retirement-announcement-says-its-a-great-decision/articleshow/127809709.cms",
-    "time": "2026-01-30T20:24:47.000Z"
-  },
-  {
     "cat": "Business",
     "title": "EU-India FTA to be implemented in 2026 itself, labour intensive sectors to benefit: Piyush Goyal",
     "desc": "Commerce Minister says India only negotiating FTAs with developed countries, no question of rethink on RCEP; while the EU indicated the FTA sent a political message to the U.S., Mr. Goyal said India’s only message was its growth story",
@@ -169,15 +268,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/maharashtra/sunetra-pawar-to-be-the-first-woman-deputy-chief-minister-of-maharashtra/article70571341.ece",
     "time": "2026-01-30T19:56:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sanjay Mishra on Arijit’s retirement: 'It becomes lonely'",
-    "desc": "In a recent interview, seasoned actor Sanjay Mishra, while advocating for his upcoming movie 'Vadh 2', weighed in on the news of Arijit Singh stepping back from playback singing. Mishra expressed that such moves are crucial for artists who need to navigate the highs of fame and seek authentic happiness.",
-    "img": "https://static.toiimg.com/photo/msid-127809514,imgsize-60382.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanjay-mishra-responds-to-arijit-singhs-retirement-from-playback-singing-says-heart-is-so-small-it-becomes-lonely/articleshow/127809514.cms",
-    "time": "2026-01-30T19:47:24.000Z"
   },
   {
     "cat": "Politics",
@@ -207,24 +297,6 @@ const newsData_en = [
     "time": "2026-01-30T19:34:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Alia Bhatt admits wanting to quit social media at times",
-    "desc": "Alia Bhatt has spoken candidly about how motherhood has reshaped her life, mindset and sense of privacy. In a recent interview, the actor reflected on the emotional shift she experienced after welcoming her daughter Raha with husband Ranbir Kapoor in 2022.",
-    "img": "https://static.toiimg.com/photo/msid-127809436,imgsize-65332.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-admits-wanting-to-quit-social-media-at-times-my-photo-album-is-full-of-raha/articleshow/127809414.cms",
-    "time": "2026-01-30T19:33:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Catherine O'Hara, 'Home Alone' actress, passes away",
-    "desc": "With deep sadness, we announce the passing of the beloved Canadian actress Catherine O'Hara at the age of 71, following a short illness. Renowned for her unforgettable performances in iconic films like 'Home Alone' and the hit series 'Schitt's Creek,' Catherine's talent blossomed over an impressive career that spanned five decades.",
-    "img": "https://static.toiimg.com/photo/msid-127809071,imgsize-64192.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/catherine-ohara-home-alone-and-schitts-creek-actress-passes-away-at-71/articleshow/127809071.cms",
-    "time": "2026-01-30T19:06:02.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Regime in tough spot as every Iranian has been affected by economic collapse, says Scott Anderson",
     "desc": "Journalist and writer Scott Anderson says, unlike during earlier protests in Iran, the regime can no longer play one group off against another, because everyone is suffering; the economic collapse, food and water crises, and high unemployment rate cannot all be blamed on foreign saboteurs, he adds",
@@ -232,15 +304,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/regime-in-tough-spot-iran-protests-economic-collapse-scott-anderson/article70570603.ece",
     "time": "2026-01-30T18:40:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Did Rajat Bedi take DIG at Hrithik's 'Koi Mil Gaya' in new ad?",
-    "desc": "In a cheeky new advertisement, Rajat Bedi, famed for his performance in 'The Ba***ds of Bollywoods', seems to be playfully poking fun at 'Koi Mil Gaya'. The spot features him embodying a menacing villain striving to attain the title of 'ultimate villain', cleverly alluding to extraterrestrials, aversion to sunlight, and a quirky character named 'Neela Khajur', echoing the beloved Jadoo.",
-    "img": "https://static.toiimg.com/photo/msid-127808035,imgsize-28326.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-rajat-bedi-take-multiple-digs-at-hrithik-roshans-koi-mil-gaya-in-his-latest-ad-says-theres-still-time-to-reach-your-prime/articleshow/127808035.cms",
-    "time": "2026-01-30T18:27:01.000Z"
   },
   {
     "cat": "Sports",
@@ -268,15 +331,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/has-manchester-united-found-its-mr-right-in-michael-carrick/article70571901.ece",
     "time": "2026-01-30T18:07:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chahal reacts to AI Kis Kisko Pyaar Karoon 3 posters",
-    "desc": "AI-generated posters of Kis Kisko Pyaar Karoon 3 featuring Yuzvendra Chahal began circulating widely on social media. The visuals cheekily placed the cricketer alongside Dhanashree Verma, RJ Mahvash, and Bigg Boss 13 contestant Shefali Bagga, mirroring the multiple-romance chaos associated with the Kapil Sharma franchise.",
-    "img": "https://static.toiimg.com/photo/msid-127807526,imgsize-64406.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yuzvendra-chahal-reacts-to-viral-ai-kis-kisko-pyaar-karoon-3-posters-featuring-dhanashree-verma-rj-mahvash-and-shefali-bagga/articleshow/127807403.cms",
-    "time": "2026-01-30T17:58:01.000Z"
   },
   {
     "cat": "Sports",
@@ -360,24 +414,6 @@ const newsData_en = [
     "time": "2026-01-30T17:12:40.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vishal Bhardwaj calls Arijit'S retirement news 'UNFAIR'",
-    "desc": "Vishal Bhardwaj, the visionary filmmaker, made an emotional appeal to Arijit Singh, asking him to think twice about his retirement from playback singing. Describing the decision as 'disheartening,' Bhardwaj recently posted a nostalgic video of their collaboration for 'O'Romeo,' conveying his heartfelt disappointment. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-127806026,imgsize-51486.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/vishal-bhardwaj-calls-arijit-singhs-retirement-announcement-unfair-and-unacceptable-urges-take-back-your-sanyaas/articleshow/127806026.cms",
-    "time": "2026-01-30T16:53:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Amaal Mallik reacts to AR Rahman’s communal remark",
-    "desc": "AR Rahman’s remark about 'communal bias' in Bollywood has opened up a larger conversation within the industry. While adding his voice to the debate, singer-composer Amaal Mallik said he understands the concern Rahman was raising, he disagreed with framing it as a communal issue. Several prominent industry figures, including Rani Mukerji, Kangana Ranaut, Javed Akhtar, and Manoj Muntashir, have also publicly opposed Rahman’s remark.",
-    "img": "https://static.toiimg.com/photo/msid-127806098,imgsize-37040.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amaal-mallik-reacts-to-ar-rahmans-communal-bias-claim-this-is-not-his-insecurity-he-is-only-showing-the-tip-of-the-iceberg/articleshow/127805962.cms",
-    "time": "2026-01-30T16:52:06.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "2-year Central deputation at SP/DIG level must for IPS officers to be eligible for senior posts: MHA",
     "desc": "The MHA writes to States that a minimum of two years of Central experience at SP/DIG or equivalent level will be mandatory for empanelment of IPS officers at IG/equivalent level at the Centre from the 2011 batch onwards.",
@@ -432,15 +468,6 @@ const newsData_en = [
     "time": "2026-01-30T16:03:31.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Internet crowns Ranveer-Akshaye as ‘peak’",
-    "desc": "Since Dhurandhar's theatrical release, a section of audiences had argued that Akshaye Khanna’s antagonist, Rehman Dakait, emerged as the film’s strongest character, even overshadowing Ranveer Singh. However, following its OTT debut, online conversations have shifted, with many viewers now hailing both actors’ performances as career peaks.",
-    "img": "https://static.toiimg.com/photo/msid-127805302,imgsize-25180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-ott-release-internet-crowns-ranveer-singh-and-akshaye-khannas-performances-as-peak/articleshow/127805184.cms",
-    "time": "2026-01-30T16:02:02.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Niva Bupa CEO",
     "desc": "Niva Bupa CEO Krishnan Ramachandran highlights a key issue in India's health insurance market. He explains that loss-making corporate group policies are cross-subsidised by retail health insurance. This practice, rather than high acquisition costs, is impacting retail insurance penetration.",
@@ -457,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/indias-final-t20-test-ishan-kishan-and-sanju-samson-battle-for-wicketkeeper-batter-role/articleshow/127805073.cms",
     "time": "2026-01-30T15:57:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'NCP has to take decision; will stand with them': Devendra Fadnavis on Ajit Pawar successor",
-    "desc": "Maharashtra chief minister Devendra Fadnavis stated that the NCP will decide its next leader following Ajit Pawar's demise, with the government and BJP supporting their choice. Fadnavis will oversee the state budget process, which Pawar was set to present. Reports suggest Sunetra Pawar may succeed her husband as legislative party leader and deputy chief minister.",
-    "img": "https://static.toiimg.com/photo/msid-127805113,imgsize-82602.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ncp-has-to-take-decision-will-stand-with-them-devendra-fadnavis-on-ajit-pawar-successor/articleshow/127804753.cms",
-    "time": "2026-01-30T15:53:58.000Z"
   },
   {
     "cat": "Sports",
@@ -493,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/novak-djokovic-edges-jannik-sinner-in-five-set-thriller-to-reach-38th-major-final/articleshow/127804670.cms",
     "time": "2026-01-30T15:20:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "New India Q3 profit up 29% to Rs 826 cr; Health segment drives 48% of business",
-    "desc": "New India Assurance reported a 28.86% rise in net profit to Rs 826 crore for the December quarter, driven by higher investment income and steady premium growth. Despite one-time wage-related provisions impacting underwriting results, the company's robust investment income and strong premium collections, particularly in health and personal accident, bolstered its financial performance.",
-    "img": "https://static.toiimg.com/photo/msid-127804571,imgsize-1050422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/new-india-q3-profit-up-29-to-rs-826-cr-health-segment-drives-48-of-business/articleshow/127804430.cms",
-    "time": "2026-01-30T15:12:21.000Z"
   },
   {
     "cat": "Sports",
@@ -594,15 +603,6 @@ const newsData_en = [
     "time": "2026-01-30T13:15:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "The agony of being Zverev in the age of Carlos Alcaraz",
-    "desc": "Most non-athletes wouldn’t last in a cage, ring, or court with a professional. But even amongst professional athletes, there’s a rare breed that has access to a metaphorical place their less hallowed peers wish they could reach. They operate at a level that even fellow professionals fail to comprehend. It’s both mental and physical.",
-    "img": "https://static.toiimg.com/photo/msid-127802079,imgsize-133618.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/australian-open-2026-the-agony-of-being-alexander-zverev-in-the-age-of-carlos-alcaraz/articleshow/127802136.cms",
-    "time": "2026-01-30T13:10:32.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran FM Araghchi says no meetings planned with U.S.",
     "desc": "No meeting plan has been set between us and the Americans. We are ready for fair and just negotiations, but preparations are needed, both in terms of the form and subject of the discussions and the venue, says Iran's Foreign Minister Abbas Araghchi",
@@ -610,15 +610,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-fm-araghchi-says-no-meetings-planned-with-us/article70570470.ece",
     "time": "2026-01-30T13:09:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "USA announce squad for T20 World Cup 2026",
-    "desc": "This will be the USA's second T20 World Cup appearance, having earned a direct qualification on the back of an impressive Super 8 stage finish back in the 2024 edition, which included a win over Pakistan.",
-    "img": "https://static.toiimg.com/photo/msid-127801924,imgsize-163926.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/usa-announce-squad-for-t20-world-cup-2026/articleshow/127801895.cms",
-    "time": "2026-01-30T12:55:29.000Z"
   },
   {
     "cat": "World",
@@ -637,15 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/the-rise-and-fall-of-gen-zhang-youxia/article70570054.ece",
     "time": "2026-01-30T12:29:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What GG, MI, DC and UPW need to reach playoffs",
-    "desc": "Grace Harris's stellar all-round show propelled Royal Challengers Bengaluru to the top, securing a direct WPL final berth. The playoff race intensifies with Gujarat Giants, Mumbai Indians, and Delhi Capitals vying for two spots. UP Warriorz face a daunting challenge, needing massive wins and favorable results to advance.",
-    "img": "https://static.toiimg.com/photo/msid-127799501,imgsize-233618.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/wpl-qualification-scenarios-what-gg-mi-dc-and-upw-need-to-reach-playoffs/articleshow/127799515.cms",
-    "time": "2026-01-30T12:27:47.000Z"
   },
   {
     "cat": "Sports",
@@ -694,30 +676,12 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Did you know when the Budget went bilingual?",
-    "desc": "As Finance Minister Nirmala Sitharaman prepares to present the Union Budget, the document's evolution from a colonial-era English text to an accessible public instrument is highlighted. Key milestones include the introduction of Hindi alongside English in 1955 and the transition to a paperless digital presentation in 2021, reflecting India's changing governance and communication.",
-    "img": "https://static.toiimg.com/photo/msid-127798735,imgsize-68740.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-did-you-know-when-the-budget-went-bilingual/articleshow/127796630.cms",
-    "time": "2026-01-30T10:56:25.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "What the Economic Survey sets up for Budget Sunday",
     "desc": "​The Survey revises India’s potential growth rate upwards to 7 percent, reflecting years of sustained public investment, infrastructure expansion, logistics reform and financial sector clean up. High frequency indicators show firming investment momentum and resilient consumption. Core inflation remains subdued, signalling that supply side improvements are finally anchoring prices rather than monetary tightening alone.",
     "img": "https://static.toiimg.com/photo/msid-127798538,imgsize-104630.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/from-stability-to-strategic-indispensability-what-the-economic-survey-sets-up-for-budget-sunday/articleshow/127798473.cms",
     "time": "2026-01-30T10:56:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's coach objected to senior player's exclusion over 'indiscipline'; offered to resign",
-    "desc": "Chief coach Craig Fulton reportedly threatened to resign over Manpreet Singh's exclusion from core hockey probables on disciplinary grounds, viewing it as \"external interference.\" Fulton advocated for the veteran midfielder's inclusion, citing his fitness and mentorship role. Hockey India officials, however, maintained Manpreet sought rest, leading to his omission.",
-    "img": "https://static.toiimg.com/photo/msid-127797596,imgsize-32724.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/indias-coach-objected-to-senior-players-exclusion-over-indiscipline-offered-to-resign/articleshow/127797319.cms",
-    "time": "2026-01-30T10:21:15.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/bessent-says-disappointed-by-eu-india-deal-south-korea-must-ratify-trade-deal/article70563645.ece",
     "time": "2026-01-29T01:45:56.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Federal Reserve keeps interest rates unchanged even as Trump continues to insist they be lowered",
+    "desc": "A key issue facing the Fed rate-setting committee is how long it will remain on hold; they remain split between those officials opposed to further cuts until inflation comes down and those who want to lower rates to further support hiring",
+    "img": "https://th-i.thgim.com/public/incoming/q5m9t5/article70562914.ece/alternates/LANDSCAPE_1200/Federal_Reserve_Powell_80793.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/federal-reserve-keeps-interest-rates-unchanged-even-as-trump-continues-to-insist-they-be-lowered/article70562913.ece",
+    "time": "2026-01-28T22:39:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "It’s scary to think where India will be in five years’ time: Sarah Taylor",
+    "desc": "Former England wicketkeeper Sarah Taylor, the fielding coach of Giants in WPL-4, says that the Women in Blue are making rapid strides due to the exposure they are getting; feels that the franchise leagues have made women’s cricket more exciting and competitive",
+    "img": "https://th-i.thgim.com/public/incoming/8zgruq/article70562663.ece/alternates/LANDSCAPE_1200/SARAH%20TAYLOR.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/sarah-taylor-interview-its-scary-to-think-where-india-will-be-in-five-years-time/article70562661.ece",
+    "time": "2026-01-28T21:19:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘A Knight of the Seven Kingdoms’ series review: A Hedge Knight shows Westeros how to trim the fat",
+    "desc": "By trusting us to keep up with a story that stays small and moves cleanly, ‘A Knight of the Seven Kingdoms’ sidesteps the franchise’s usual lore-hoarding instincts and ends up feeling lighter, smarter, and oddly refreshed",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/6quthk/article70560722.ece/alternates/LANDSCAPE_1200/Screenshot%202026-01-28%20163357.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/a-knight-of-the-seven-kingdoms-series-review-a-hedge-knight-shows-westeros-how-to-trim-the-fat/article70560741.ece",
+    "time": "2026-01-28T12:00:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Swiatek supports Gauff’s call for balance",
+    "desc": "While Gauff said “conversations needs to be had” about the seemingly limitless access-all-areas cameras that track players from the locker room to the court, Swiatek asked are we like animals in the zoo where they are observed everywhere",
+    "img": "https://th-i.thgim.com/public/incoming/ri3h9u/article70560451.ece/alternates/LANDSCAPE_1200/Australia_Tennis_91611.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/privacy-debate-swiatek-supports-gauffs-call-for-balance/article70560418.ece",
+    "time": "2026-01-28T09:55:41.000Z"
   }
 ];
