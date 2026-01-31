@@ -1,5 +1,41 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "AR Rahman wins Tamil Nadu State Award, expresses gratitude",
+    "desc": "Oscar-winning composer A R Rahman has been conferred the Tamil Nadu State Award for Best Music Director for his work in Mani Ratnam’s historical epic Ponniyin Selvan – I. The recognition adds yet another milestone to Rahman’s celebrated career, which spans decades and includes state, national and international honours.",
+    "img": "https://static.toiimg.com/photo/msid-127828007,imgsize-21804.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ar-rahman-wins-tamil-nadu-state-award-for-ponniyin-selvan-i-composer-expresses-gratitude-amid-communal-bias-controversy/articleshow/127827991.cms",
+    "time": "2026-01-31T20:50:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anurag calls Dhurandhar a ‘courageous film’, defends Toxic teaser",
+    "desc": "Talking about the recently released film Dhurandhar, Anurag Kashyap praised its intent while also expressing reservations about certain creative choices. “This is a good example of a courageous mainstream film. I liked the film, but I didn’t like some of the ideologies,” he said. Kashyap also addressed the outrage surrounding the teaser of the Kannada film Toxic, calling it an extremely brave attempt.",
+    "img": "https://static.toiimg.com/photo/msid-127827705,imgsize-27918.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anurag-kashyap-calls-dhurandhar-a-courageous-mainstream-film-defends-yashs-toxic-teaser-calling-films-propaganda-is-also-propaganda/articleshow/127827663.cms",
+    "time": "2026-01-31T19:36:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why have the new UGC regulations been stayed?",
+    "desc": "Why have there been protests? How have the regulations defined caste-based discrimination? Why were new regulations introduced? What was the main thrust of the 2026 regulations on grievance redressal mechanisms as opposed to the 2012 ones?",
+    "img": "https://th-i.thgim.com/public/incoming/bgwuwv/article70575588.ece/alternates/LANDSCAPE_1200/6607_29_1_2026_15_4_41_1_IMG_20260129_145441.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/education/why-have-the-new-ugc-regulations-been-stayed-explained/article70575322.ece",
+    "time": "2026-01-31T19:03:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shailendra says he paid Rs 4 crore to Big B for Johnny Walker",
+    "desc": "Producer Shailendra Singh, known for backing National Award-winning films like Page 3 and Traffic Signal, has opened up about a long-standing dispute involving Amitabh Bachchan and filmmaker Shoojit Sircar over the unreleased film Shoebite. Singh claimed he had originally developed the story under the title Johnny Walker, which was later renamed Shoebite, and accused Shoojit of reselling the project to UTV’s Ronnie Screwvala despite him having already paid Bachchan an advance of Rs 4 crore.",
+    "img": "https://static.toiimg.com/photo/msid-127827172,imgsize-47426.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shailendra-singh-says-he-paid-rs-4-crore-to-amitabh-bachchan-for-johnny-walker-i-lost-my-film-and-shoojit-sircar-forever/articleshow/127827086.cms",
+    "time": "2026-01-31T18:51:59.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "'Chicken's Neck' corridor is India's land, no one dare touch it, says Amit Shah",
     "desc": "Union Home Minister Amit Shah on Friday hit out at the INDI Alliance over attempts to seek bail for those who raised slogans about cutting the \"chicken neck corridor,\" saying their efforts failed as the Supreme Court rejected the bail pleas and that such intentions against India would never succeed.",
@@ -342,15 +378,6 @@ const newsData_en = [
     "time": "2026-01-31T14:29:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Expectations from Union Budget run high in poll-bound Kerala",
-    "desc": "The report of the 16th Finance Commission, likely to be tabled in Parliament, pushes up expectations as the State is anticipating a better deal than it received under the 15th panel. In January, Kerala had presented a hefty wish list to the Union Minister, which included a ₹21,000-crore ‘special fiscal correction package’ assistance for establishing a Defence R&D Corridor and a Rare Earth Corridor and an an additional borrowing space of 0.5% of Gross State Domestic product",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/expectations-from-union-budget-run-high-in-poll-bound-kerala/article70574607.ece",
-    "time": "2026-01-31T14:22:26.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Neelam Kothari denies 90s link-up rumours with Govinda",
     "desc": "Govinda and Neelam Kothari’s on-screen romance in films such as Ilzaam and Love 86 (1986) sparked massive popularity in the late 80s and early 90s. Their chemistry soon led to rumours about a real-life relationship, especially after Govinda openly admitted his feelings for Neelam in a past interview. While the actor spoke candidly about being deeply attracted to her, Neelam has repeatedly dismissed the speculation over the years, calling it media-created gossip.",
@@ -367,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/etimes/trending/from-hollywood-to-silicon-valley-how-ashton-kutcher-secretly-built-a-billion-dollar-tech-investment-empire/articleshow/127818687.cms",
     "time": "2026-01-31T14:03:47.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How Budget 2026 can improve ease of paying taxes",
-    "desc": "Budget 2026 should prioritize reforms in withholding taxes, dispute resolution, and customs procedures to enhance ease of doing business. Simplifying TDS, addressing tax dispute pendency, and accelerating customs automation are crucial for reducing complexity, building trust, and boosting investments.",
-    "img": "https://static.toiimg.com/photo/msid-127817689,imgsize-55266.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/how-budget-2026-can-improve-ease-of-paying-taxes/articleshow/127817719.cms",
-    "time": "2026-01-31T14:00:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -450,42 +468,6 @@ const newsData_en = [
     "time": "2026-01-31T13:01:17.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Cardi b and Stefon Diggs combined net worth",
-    "desc": "Cardi B and NFL star Stefon Diggs are a high-profile couple whose combined net worth is estimated at USD 160 million. While Cardi B leads financially through her music and business ventures, Diggs’ NFL career has also contributed significantly to their growing wealth and public prominence.",
-    "img": "https://static.toiimg.com/photo/msid-127816451,imgsize-54228.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/cardi-b-and-stefon-diggs-combined-net-worth-inside-the-usd-160-million-fortune-of-the-power-couple/articleshow/127816451.cms",
-    "time": "2026-01-31T12:50:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aditi Rao RESPONDS to Arijit's exit from playback singing",
-    "desc": "Aditi Rao Hydari expressed her deep admiration for Arijit Singh following his retirement from playback singing, stating she will miss his voice immensely. Hydari believes a true artist like Singh will always find a way to create music, whether for the public or in solitude. Singh recently sang for Hydari's film 'Gandhi Talks'.",
-    "img": "https://static.toiimg.com/photo/msid-127820278,imgsize-35734.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditi-rao-hydari-responds-to-arijit-singhs-exit-from-playback-singing-says-anything-can-happen/articleshow/127820278.cms",
-    "time": "2026-01-31T12:44:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sunetra Pawar sworn in as Maharashtra deputy CM; Epstein files show controversial Prince Andrew photo &amp; more",
-    "desc": "Sunetra Pawar was sworn in as Maharashtra's deputy CM, days after her husband's death. Meanwhile, Epstein files revealed photos of Prince Andrew. Baloch separatists attacked Pakistan's Balochistan, killing officials. India faces a policy contradiction on air pollution deaths, and Amit Shah criticized Mamata Banerjee's governance.",
-    "img": "https://static.toiimg.com/photo/msid-127820169,imgsize-40742.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-sunetra-pawar-sworn-in-as-maharashtra-deputy-cm-epstein-files-show-controversial-prince-andrew-photo-more/articleshow/127820021.cms",
-    "time": "2026-01-31T12:33:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Wives who stepped in after powerful husbands to continue political legacy",
-    "desc": "Sunetra Pawar has been sworn in as Maharashtra's Deputy Chief Minister, succeeding her late husband Ajit Pawar. Elected NCP legislature party leader, she will assume his portfolios, excluding finance. This move echoes historical instances of women stepping into politics to uphold family legacies after their husbands' passing.",
-    "img": "https://static.toiimg.com/photo/msid-127820152,imgsize-635521.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sunetra-pawar-sworn-in-as-maharashtra-deputy-cm-wives-who-stepped-in-after-powerful-husbands-to-continue-political-legacy/articleshow/127819735.cms",
-    "time": "2026-01-31T12:32:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How much did Rybakina, Sabalenka earn after Australian Open 2026 final?",
     "desc": "Elena Rybakina defeated world number one Aryna Sabalenka 6-4, 4-6, 6-4 to win her first Australian Open title and second Grand Slam. The victory avenged her 2023 loss and earned her $4.15 million (Rs 37.77 crore). Sabalenka received $2.15 million (Rs 19.56 crore). Rybakina showed composure under pressure, sealed the win with an ace, and benefited from the tournament’s increased prize pool.",
@@ -502,24 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-crash-5-trillion-lost-in-market-cap-what-led-to-the-spectacular-fall-is-the-bull-run-over/articleshow/127819419.cms",
     "time": "2026-01-31T12:26:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Mi, Sunetra Ajit Pawar, pratigya karte ki … ': 'Clock' ticks on in a changed NCP",
-    "desc": "With Sunetra Pawar, Ajit Pawar’s wife and a Rajya Sabha member, sworn in as deputy CM on Saturday, stepping into the role held by her husband, the state has formally entered a new and uncertain phase, shaped by the vacuum left by Dada’s death. Sunetra Pawar’s elevation may have filled the immediate constitutional vacuum, but it has also foregrounded larger, unresolved questions about the NCP’s future, the ruling Mahayuti alliance’s stability, and the direction the state’s politics will take in the absence of one of its most influential power brokers.",
-    "img": "https://static.toiimg.com/photo/msid-127822524,imgsize-963509.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mi-sunetra-ajit-pawar-pratigya-karte-ki-clock-ticks-on-in-a-changed-ncp/articleshow/127819466.cms",
-    "time": "2026-01-31T12:12:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Ajit Dada amar rahe': Sunetra Pawar takes oath as Maharashtra deputy CM 3 days after husband's death",
-    "desc": "Sunetra Pawar has been sworn in as Maharashtra's deputy chief minister, stepping into the role previously held by her husband, Ajit Pawar, following his tragic passing. She will assume his responsibilities, excluding the finance portfolio. This significant political transition occurred after her unanimous election as the NCP legislative party leader.",
-    "img": "https://static.toiimg.com/photo/msid-127819340,imgsize-28596.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ajit-dada-amar-rahe-sunetra-pawar-takes-oath-as-maharashtra-deputy-cm-3-days-after-husbands-death/articleshow/127819230.cms",
-    "time": "2026-01-31T11:44:26.000Z"
   },
   {
     "cat": "Business",
@@ -567,15 +531,6 @@ const newsData_en = [
     "time": "2026-01-31T11:08:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Sonam Wangchuk taken to AIIMS in Jodhpur after stomach pain complain; report to be submitted in SC by Feb 2",
-    "desc": "Jailed activist Sonam Wangchuk underwent a medical examination at AIIMS Jodhpur following a Supreme Court directive. The court is reviewing his detention under the NSA, with his wife challenging the grounds. Wangchuk, reportedly suffering from stomach ailments, has raised concerns about his health, prompting the specialist examination.",
-    "img": "https://static.toiimg.com/photo/msid-127818557,imgsize-204350.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sonam-wangchuk-taken-to-aiims-in-jodhpur-after-stomach-pain-complain-report-to-be-submitted-in-sc-by-feb-2/articleshow/127818435.cms",
-    "time": "2026-01-31T11:07:56.000Z"
-  },
-  {
     "cat": "Business",
     "title": "From no mention in Constitution to Sunday presentation — 10 lesser-known facts",
     "desc": "India's Union Budget, a key economic event, holds many fascinating historical details. The Constitution calls it the 'Annual Financial Statement'. This year's budget presentation on a Sunday is a first. From colonial-era evening timings to the shift to February 1, traditions have evolved. The 'bahi khata' now symbolizes Indian identity. The railway budget is now integrated.",
@@ -612,15 +567,6 @@ const newsData_en = [
     "time": "2026-01-31T10:09:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM Modi to visit Punjab on Feb 1, rename Adampur airport after Guru Ravidas",
-    "desc": "Prime Minister will visit Adampur airport, where he will unveil the new name of the Airport as 'Sri Guru Ravidas Ji Airport, Adampur. He will also inaugurate the Terminal Building at Halwara Airport in Ludhiana, Punjab.",
-    "img": "https://static.toiimg.com/photo/msid-127817679,imgsize-1029274.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-to-visit-punjab-on-feb-1-rename-adampur-airport-after-guru-ravidas/articleshow/127817649.cms",
-    "time": "2026-01-31T10:04:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Criticism doesn’t matter’: Bhaker not setting medal goals for Asian C'ship",
     "desc": "Olympic medallist Manu Bhaker says criticism no longer affects her as she prepares for the Asian Rifle/Pistol Championship in Delhi. The 23-year-old credits maturity, experience, and public support since her two Paris 2024 bronze medals for her positive mindset. Competing at home excites rather than pressures her. Feeling fit and focused, Bhaker has avoided medal expectations, instead setting personal performance standards.",
@@ -646,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/not-my-day-but-i-gave-everything-jannik-sinner-reacts-after-novak-djokovic-ends-australian-open-run/articleshow/127817430.cms",
     "time": "2026-01-31T09:43:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Education sector bets on skilling, digital infra and teacher upskilling",
-    "desc": "As the Union Budget 2026–27 nears, education stakeholders are urging focused policy and financial support to boost learning, employability, and workforce readiness. With rising allocations, expectations are high for AI-led learning, climate education, skilling, and teacher development, aiming to solidify India's global talent hub ambitions.",
-    "img": "https://static.toiimg.com/photo/msid-127817277,imgsize-960442.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-education-sector-bets-on-skilling-digital-infra-and-teacher-upskilling/articleshow/127817257.cms",
-    "time": "2026-01-31T09:26:36.000Z"
   },
   {
     "cat": "Business",
@@ -727,15 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/adani-agrees-to-receive-legal-notice-in-us-sec-civil-fraud-case-to-respond-in-90-days/article70573137.ece",
     "time": "2026-01-31T04:52:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranveer Singh’s 5 most powerful scenes from the Aditya Dhar film",
-    "desc": "​Ranveer Singh, the man who dances through blockbusters, goes dead serious in ‘Dhurandhar’. This two-part spy thriller dropped late last year, and it’s got everyone talking. He plays Hamza, a raw intelligence guy tangled in Karachi’s gang wars and real-life terror scars like 26/11. Fans can’t stop sharing clips of his top scenes, where his eyes do all the heavy lifting. These moments hit you right in the gut, blending fury, heartbreak, and that classic Ranveer Singh spark. And now with OTT debut, these scenes are getting all the more love.​",
-    "img": "https://static.toiimg.com/photo/msid-127814020,imgsize-589414.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/dhurandhar-ott-release-ranveer-singhs-5-most-powerful-scenes-from-the-aditya-dhar-film/photostory/127814020.cms",
-    "time": "2026-01-31T04:43:56.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +826,77 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-sues-irs-treasury-for-10-billion-over-leaked-tax-information/article70569381.ece",
     "time": "2026-01-30T09:29:33.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Man arrested for posing as FBI agent to free Luigi Mangione from prison",
+    "desc": "Brooklyn federal prosecutors on Wednesday (January 28, 2026) accused Mark Anderson, 36, of Mankato, Minnesota, of showing up at the Metropolitan Detention Centre and ​telling prison staff that he was an ⁠FBI agent with paperwork signed by a judge authorizing the release of an inmate",
+    "img": "https://th-i.thgim.com/public/incoming/8hqoxu/article70569324.ece/alternates/LANDSCAPE_1200/2026-01-23T150928Z_912556709_RC22JIAGO8TV_RTRMADP_3_UNITEDHEALTH-CEO-MANGIONE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/man-arrested-for-posing-as-fbi-agent-to-free-luigi-mangione-from-prison/article70569301.ece",
+    "time": "2026-01-30T08:15:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "25 years in films, and how ‘Dhruva Natchathiram’ became a lesson in management",
+    "desc": "This February, Gautham Menon completes 25 years in the industry. The Tamil filmmaker talks about his memorable journey, how music has played a vital role in it and why fans can look forward to ‘Dhruva Natchathiram’ soon",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/1ugxs0/article70560495.ece/alternates/LANDSCAPE_1200/GVM%2015.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/gautham-menon-interview-25-years-in-films-and-how-dhruva-natchathiram-became-a-lesson-in-management/article70559515.ece",
+    "time": "2026-01-30T05:25:58.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "The world’s first handheld scientific calculator",
+    "desc": "On February 1, 1972 — just a day before a year was completed from the official go-ahead for the product — HP-35 was made available to the world. Now recognised as the world’s first scientific pocket calculator, the gadget revolutionised the way we looked at handheld equipment. A.S.Ganesh punches some keys to give you the tale of these number crunchers…",
+    "img": "https://th-i.thgim.com/public/incoming/adas7p/article70541286.ece/alternates/LANDSCAPE_1200/01istb%20HP-35.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/children/the-worlds-first-handheld-scientific-calculator/article70541279.ece",
+    "time": "2026-01-30T05:21:52.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Oil hovers near multi-month highs as Trump considers Iran strike",
+    "desc": "U.S. ​President Donald Trump urged Iran on January 28, 2026 to come to the table and make a deal on nuclear weapons or face a U.S. attack, drawing a threat from Tehran to strike back hard",
+    "img": "https://th-i.thgim.com/public/incoming/6klhkt/article70568704.ece/alternates/LANDSCAPE_1200/2026-01-30T015308Z_1663083504_RC2XFFATXIH8_RTRMADP_3_USA-TRUMP-IRS-LAWSUIT.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/oil-hovers-near-multi-month-highs-as-trump-considers-iran-strike/article70568696.ece",
+    "time": "2026-01-30T03:27:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Samson — extraordinarily gifted, frustratingly inconsistent",
+    "desc": "He hasn’t had a single score of substance in the ongoing series against the Kiwis; Kishan’s own sustained telling touch, coupled with the Kerala batter’s fumbling returns, have opened up a race that didn’t seem possible even a month back",
+    "img": "https://th-i.thgim.com/public/sport/xd0kw/article70567477.ece/alternates/LANDSCAPE_1200/Samson%20-%20Getty%2030.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/samson-extraordinarily-gifted-frustratingly-inconsistent/article70567390.ece",
+    "time": "2026-01-29T18:34:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Economic Survey calls for fiscal flexibility for the Centre, cautions States against worsening finances",
+    "desc": "The Economic Survey argued that, while the Centre has managed to substantially improve its fiscal deficit ratios since the COVID-19 pandemic, the States have seen their finances worsen over this period due to falling revenue and higher spending on unconditional cash transfers",
+    "img": "https://th-i.thgim.com/public/incoming/1jl73c/article70567374.ece/alternates/LANDSCAPE_1200/20260129361L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/economic-survey-calls-for-fiscal-flexibility-for-the-centre-cautions-states-against-worsening-finances/article70565806.ece",
+    "time": "2026-01-29T17:09:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Has health spending by the Centre increased?",
+    "desc": "As per data from the Reserve Bank of India, allocations for health and family welfare as a percentage of GDP by all States and Union Territories have increased from 2017-18. In contrast, the Union government’s spending on health, which increased moderately during the pandemic, has decreased post-pandemic",
+    "img": "https://th-i.thgim.com/public/incoming/dbbgui/article70567366.ece/alternates/LANDSCAPE_1200/URBAN%20HEALTH%20PRIMARY%20HEALTH%20CENTRE%20HOSPITAL%20DMK%20MK%20STALIN%20CORPORATION_05.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/has-health-spending-by-the-centre-increased/article70567351.ece",
+    "time": "2026-01-29T17:08:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Economic Survey",
+    "desc": "The Survey in its past iterations has framed climate change as a global risk that threatens food production, livelihoods and has called upon countries - at various times - to “support” developing countries such as India to transition away from fossil fuel",
+    "img": "https://th-i.thgim.com/public/newsletter/the-evening-wrap/3e6b25/article70567215.ece/alternates/LANDSCAPE_1200/iStock-511198768.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/cutting-carbon-emissions-should-not-be-top-priority-economic-survey/article70566500.ece",
+    "time": "2026-01-29T16:22:17.000Z"
   }
 ];

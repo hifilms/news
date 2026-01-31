@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "What is career Grand Slam in tennis as Carlos Alcaraz bids to create history at Australian Open? Check here",
+    "desc": "Spain superstar Carlos Alcaraz faces Serb icon Novak Djokovic in the final of the Australian Open 2026 with eyes set on the Rod Laver Arena for the final battle of the Grand Slam on Sunday,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/what-is-career-grand-slam-in-tennis-as-carlos-alcaraz-bids-to-create-history-at-australian-open-check-here-2026-02-01-1028351",
+    "time": "2026-01-31T18:35:30.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India create T20I world record against New Zealand after blistering batting in series",
     "desc": "India have shattered a major world record during their fifth and final T20I of the series against New Zealand after a jaw-dropping batting display. Well led by Ishan Kishan, the Men in Blue piled up...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-becomes-2nd-indian-cricketer-to-register-major-milestone-with-century-vs-new-zealand-2026-01-31-1028325",
     "time": "2026-01-31T14:52:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Don't worry, Samson is playing': Suryakumar addresses Trivandrum crowd as he forgets playing XI in 5th T20I",
-    "desc": "India face New Zealand in their final T20I of the series before the T20 World Cup 2026 kicks in from February 7. With the series already in the bag and not much to prove for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dont-worry-samson-is-playing-suryakumar-addresses-trivandrum-crowd-as-he-forgets-playing-xi-in-5th-t20i-2026-01-31-1028319",
-    "time": "2026-01-31T13:51:16.000Z"
   }
 ];
