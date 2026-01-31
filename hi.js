@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "IND vs NZ, Thiruvananthapuram, weather report: Will rain spoil 5th T20I of the multi-format series?",
+    "desc": "The stage is set for the fifth and final T20I of the ongoing series between India and New Zealand. The two sides will lock horns in the fifth T20I at the Greenfield International Stadium in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-thiruvananthapuram-weather-report-will-rain-spoil-5th-t20i-of-the-multi-format-series-2026-01-31-1028239",
+    "time": "2026-01-31T01:39:14.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How can Mumbai Indians still qualify for WPL 2026 playoffs after defeat to Gujarat Giants?",
     "desc": "Gujarat Giants finally broke the curse, beating Mumbai Indians for the first time since the inception of the Women’s Premier League (WPL). The Harmanpreet Kaur-led side enjoyed an 8- 0 record until a thrilling 11-run...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-ends-semifinal-curse-qualifies-for-australian-open-final-with-stunning-win-over-jannik-sinner-2026-01-30-1028209",
     "time": "2026-01-30T14:32:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MI-W vs GG-W WPL 2025 Live Cricket Score: Mumbai Indians and Gujarat Giants battle to seal spot in Eliminator",
-    "desc": "The Women’s Premier League league stage is nearing its conclusion, and the battle for the final playoff spots remains unresolved. With Royal Challengers Bengaluru already assured of a place in the final, attention turns to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mi-vs-gg-wpl-2025-live-cricket-score-mumbai-indians-vs-gujarat-giants-latest-match-updates-scorecard-playing-xi-harmanpreet-sciver-brunt-mooney-2026-01-30-1028201",
-    "time": "2026-01-30T13:44:39.000Z"
   }
 ];
