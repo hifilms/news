@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "৪৬ বছরে ঘটেনি! ৩০ শতাংশ কমে গেল রুপোর দাম, হুড়মুড়িয়ে পড়ল সোনাও,  কতটা সস্তা দুই ধাতু?",
+    "desc": "১৯৮০-র দশকের পর থেকে একদিনে সবচেয়ে বড় পতনে ঘটেছে সোনা এবং রুপোর দামে। রুপোর দাম প্রতি কেজিতে প্রায় প্রায় ৩০% কমে ৩,০০,০০০ টাকার নীচে নেমে গিয়েছে। সোনার দামও কমে প্রতি ১০ গ্রাম ১,৫০,০০০-র কাছাকাছি চলে এসেছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1769168101_1768236709_Gold-Silver-1-2026-01-8123b6602c20822e7f656036d32c855a-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/gold-price-and-silver-price-dropped-again-silver-price-is-30-per-cent-low-from-the-top-gold-and-silver-price-drop-rdp-2520627.html",
+    "time": "2026-01-31T11:15:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Home Loan থেকে Mutual Fund-এ বিরাট ঘোষণা! কতটা হতে পারে মধ্যবিত্তের স্বপ্নপূরণ? অপেক্ষার আর কয়েক ঘণ্টা!",
+    "desc": "রাত পোহালেই কেন্দ্রের বাজেট। কেন্দ্রীয় বাজেট ২০২৬ পেশ হতে চলেছে রবিবার। এই বছর ১ ফেব্রুয়ারি রবিবার পেশ হতে চলেছে এই বছরের বাজেট। কেন্দ্রীয় অর্থমন্ত্রী নির্মলা সীতারমন বাজেট পেশ করবেন। ইতিমধ্যেই সাধারণ মানুষের মধ্যে বাজেট ঘিরে অনেকের মনেই প্রত্যাশা রয়েছে। কোন কোন আশা পূরণ করতে পারে সরকার?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/nirmala-sitharaman-union-budget-2026-01-536aabaa5fe8d98868c0896a0bc7ff91-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/what-middle-class-expect-from-union-budget-know-more-details-smc-2520672.html",
+    "time": "2026-01-31T11:15:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "বাংলাদেশের বিতর্কের মধ্যেই বিশ্বকাপ নিয়ে নয়া ঝামেলায় ICC! ক্রিকেটারদের সংগঠনের সঙ্গে সংঘাত",
+    "desc": "এক রিপোর্ট অনুযায়ী, WCA দাবি করেছে যে স্কোয়াড পার্টিসিপেশন টার্মসের একটি ভার্সন ICC প্লেয়ারদের কাছে পাঠিয়েছে, যা \"২০২৪ সালে দুই পক্ষের সই করা চুক্তির সঙ্গে মিলছে না\"। WCA আরও দাবি করেছে, নতুন ভার্সনটা আরও 'শোষণমূলক'।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangladesh-Cricket-ICC-T20-World-Cup-2026-01-ec5eca9a6477beeb0b747bde65e745a3-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/amid-bangladesh-and-pakistan-issues-icc-faces-new-problems-before-t20-world-cup-2026-rdp-2520605.html",
+    "time": "2026-01-31T10:36:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাজেট ২০২৬: সোনার দাম আকাশছোঁয়া, কত টাকার সোনার গয়না কিনলে আপনাকে দেখাতেই হবে প্যান-আধার? জেনে নিন",
+    "desc": "এখন সমস্যা কেন সৃষ্টি হয়েছে?২০১৬ সালে, ভারতের ১০ গ্রামের সোনার দাম প্রায় ২৫,০০০ থেকে ৩২,০০০ টাকা এর মধ্যে ছিল। সেই সময়ে, ২ লাখ টাকার সোনার ক্রয়ের জন্য PAN কার্ড দেওয়ার নিয়ম যথাযথ মনে হয়েছিল।কিন্তু গত ৮–৯ বছরের মধ্যে সোনার দাম ব্যাপকভাবে বৃদ্ধি পেয়েছে। আজকাল, ১০ গ্রামের সোনার দাম প্রায় ১,৬৫,০০০ টাকার কাছাকাছি, এবং বাজার পরিস্থিতি অনুযায়ী এটি ২ লাখ টাকার সীমা স্পর্শ করতে পারে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1769753767_gold-price-m-2026-01-e355921bc43086b58b6bf96794e94735-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/budget-2026-gold-price-impact-on-budget-government-may-increase-rupees-2-lakh-buying-limit-to-show-pan-aadhar-smc-2520421.html",
+    "time": "2026-01-31T09:44:42.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "বন্দে ভারত স্লিপারের জনপ্রিয়তা তুঙ্গে, আগামী মাসের প্রথম ১০ দিন অবধি বুকিং সম্পূর্ণ! এসি ফার্স্ট ক্লাস থেকে এসি 3-টিয়ার, কোথায় কত?",
     "desc": "হাওড়া-কামাখ্যা, হাওড়া-বন্দে ভারত স্লিপার এক্সপ্রেসের জনপ্রিয়তা আকাশ ছুঁয়ে ফেলল। গত ছয় দিনে গড় যাত্রীসংখ্যা প্রায় ১২৮%। আগামী পাঁচ দিনের জন্য যাত্রীসংখ্যা ইতিমধ্যেই ১০০% ছাড়িয়ে গেছে। যাত্রী উৎসাহ বাড়াতে রেলের স্লোগান, \"আগে কখনও না পাওয়া আরামের অভিজ্ঞতা নিন – এখনই বন্দে ভারত স্লিপার ট্রেনের টিকিট বুক করুন\"।",
@@ -862,41 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/cricketer-ajay-jadeja-crush-on-madhuri-dixit-one-controversy-ended-their-rumoured-romance-smj-2507780.html",
     "time": "2026-01-21T15:28:50.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "সরে দাঁড়ালেন জ্যোমাটো তথা Eternal-এর  সিইও দীপেন্দর! নতুন কে পদে আসছেন?",
-    "desc": "দীপেন্দর গয়াল Eternal-এর চিফ এক্সিকিউটিভ অফিসার (CEO) পদ থেকে ইস্তফা দিয়েছেন। সংস্থার পক্ষ থেকে বুধবার জানানো হয়েছে, তাঁর পদত্যাগ ১ ফেব্রুয়ারি থেকে কার্যকর হবে। নতুন করে Eternal-এর গ্রুপ সিইও হিসেবে দায়িত্ব নেবেন অলবিন্দর ধিন্দসা (অ্যালবি)।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/Zomato-Owner-2025-12-0361e1ee1f547f127ea05795abf6bc71-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/eternel-ceo-dipender-goyal-resigns-from-ceo-post-who-come-to-this-post-know-more-details-about-it-smc-2507765.html",
-    "time": "2026-01-21T15:22:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'দেহব্যবসা করেই কামিয়েছি...!' বাথরুম থেকে টাকার পাহাড় বেরতেই সাফ জবাব বলি নায়িকার, পরিণতি হয়েছিল ভয়ঙ্কর",
-    "desc": "মালা সিনহার কেরিয়ার তখন মধ্যগগণে৷ ১৯৭৮ সালে। আচমকা একদিন আয়কর দফতরের কর্মকর্তারা মালা সিনহার বাড়িতে হানা দেন। অভিযান চালানোর পর চক্ষু চড়কগাছ হয় কর্মকর্তাদের৷ অভিনেত্রীর বাথরুমের দেওয়াল থেকে ১২ লক্ষ টাকা উদ্ধার হয়। যা নিমেষে শোরগোল ফেলে দেয় ইন্ডাস্ট্রিতে৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Riya-Das-1200900-2026-01-21T201445.455-2026-01-52c224af58322c626f6d2171f89c2e36-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/this-famous-bollywood-actress-career-flop-after-one-statement-in-court-income-tax-officer-found-12-lakh-rupees-in-her-bathroom-rds-2507702.html",
-    "time": "2026-01-21T15:11:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'এই বিয়ে আমরা অনেক আগেই করেছি, গত পাঁচ বছর একসঙ্গে আছি...' বিস্ফোরক পোস্ট হিরণের দ্বিতীয় স্ত্রীর",
-    "desc": "এবার সমাজমাধ্যমে মুখ খুললেন ঋতিকা গিরি। তিনি বলেন, 'এই বিয়ে আমরা অনেক আগেই করেছি, গত পাঁচ বছর একসঙ্গে আছি।' তাঁর দাবি, হিরণের প্রথম স্ত্রী বয়স সম্পর্কে ভুল তথ্য দিয়েছেন। পাশাপাশিও এও জানান, তাঁকে ডিভোর্স নোটিস পাঠানো হয়েছিল।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-21-at-7.57.56-PM-2026-01-5f0c29f80e1a339aeab2f8bce6be3762-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/hiran-faces-controversy-over-second-marriage-ex-wife-makes-allegations-rmj-2-ws-l-2507704.html",
-    "time": "2026-01-21T14:47:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "তুমুল বিতর্ক, প্রথম স্ত্রীর 'ভয়ঙ্কর' অভিযোগ 'ডিভোর্স না করেই বিয়ে'! তারপরেই কি সব ছবি মুছে ফেললেন হিরণ?",
-    "desc": "মারাত্মক অভিযোগ করেন হিরণের প্রাক্তন স্ত্রী অনিন্দিতা। জানান, '২০০০ সালে তাঁদের বিয়ে হয়েছে। গত বছর ২৫ বছর পূর্ণ হয়েছে। কিন্তু আইনত কোনও ডিভোর্স হয়নি এবং ডিভোর্সের মামলাও চলছে না। সেক্ষেত্রে প্রথম স্ত্রী থাকতে আইন অনুযায়ী কী করে হিরণ আরেকবার বিয়ে করেন?' তাদের ১৯ বছরের একটা মেয়ে রয়েছে। মেয়ের থেকে দ্বিতীয় স্ত্রী মাত্র দুই বছরের বড়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-21-at-6.37.22-PM-1-2026-01-e4809efb82e05d4a628c680e0df9baa7-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/actor-politician-hiran-chatterjee-removed-photos-from-instagram-rmj-2507511.html",
-    "time": "2026-01-21T13:55:10.000Z"
   }
 ];
