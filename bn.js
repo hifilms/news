@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Business",
+    "title": "কে সেই ব্যক্তি, যার কারণে ফেটে গেল সোনা-রুপোর বুদবুদ? মুখ থুবড়ে পড়ল দাম",
+    "desc": "শুক্রবার, ৩০ জানুয়ারি, সোনা ও রুপোর বিনিয়োগকারীদের জন্য যেন এক দুঃস্বপ্ন ডেকে এনেছিল।দিনের শুরু থেকেই সোনা ও রুপোর দামে পতন লক্ষ্য করা গিয়েছিল, এবং যেই নামের ঘোষণা আসল, তার পরেই বিশ্বজুড়ে এই দুই মূল্যবান ধাতুর দাম পড়ে যায়।অনেক বিনিয়োগকারী লক্ষ বা কোটি টাকা হারে ক্ষতির সম্মুখীন হন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-31-at-7.31.59-PM-2026-01-bb230a1da134b75071665f245c0b28d6-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/gold-and-silver-market-crash-kevin-warsh-is-the-man-who-caused-crash-in-silver-gold-price-mcx-silver-hit-lower-circuit-trading-has-to-stop-smc-2520888.html",
+    "time": "2026-01-31T14:33:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাজেটের দিন শেয়ার মার্কেট খোলা থাকলেও করতে পারবেন না কিছু কাজ! শেয়ার কেনাবেচার ক্ষেত্রেও থাকছে কিছু নিয়ম! জেনে নিন",
+    "desc": "অন্যান্য কাজের দিনের মতো কাজকর্ম স্বাভাবিক চলবে এ দিন। রবিবার শেয়ার বাজার খোলা থাকায় বাজেটের আগের ও বাজেটের সময়ে সূচকের ওঠাপড়াকে কাজে লাগিয়ে শেয়ার কেনাবেচা করতে চাইবেন বহু বিনিয়োগকারী। কিন্তু নির্দিষ্ট এই দিনটিতে ট্রেডিংয়ের কিছু নিয়ম রয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-31-at-6.39.09-PM-2026-01-11a3126fadba8d882a255be53ec4c825-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/union-budget-2026-share-market-will-be-open-tomorrow-but-you-can-not-do-certain-things-tomorrow-rules-for-trading-also-smc-2520784.html",
+    "time": "2026-01-31T13:14:53.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "৪৬ বছরে ঘটেনি! ৩০ শতাংশ কমে গেল রুপোর দাম, হুড়মুড়িয়ে পড়ল সোনাও,  কতটা সস্তা দুই ধাতু?",
     "desc": "১৯৮০-র দশকের পর থেকে একদিনে সবচেয়ে বড় পতনে ঘটেছে সোনা এবং রুপোর দামে। রুপোর দাম প্রতি কেজিতে প্রায় প্রায় ৩০% কমে ৩,০০,০০০ টাকার নীচে নেমে গিয়েছে। সোনার দামও কমে প্রতি ১০ গ্রাম ১,৫০,০০০-র কাছাকাছি চলে এসেছে।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/01/1769168101_1768236709_Gold-Silver-1-2026-01-8123b6602c20822e7f656036d32c855a-3x2.jpg",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/national/nitin-nabin-to-hold-first-rally-as-bjp-national-president-in-burdwan-durgapur-dmg-2507821.html",
     "time": "2026-01-21T16:12:20.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ডিভোর্সের মুখে খোরপোশে ছাড় পেতে মোটা মাইনের MNC-র চাকরি ছাড়লেন যুবক, খেপে গিয়ে কোর্ট চাপাল ৪ কোটির ক্ষতিপূরণ!",
-    "desc": "২০২৪ সালের শুরুর দিকে আদালতের শুনানিতে উপস্থিত না হওয়ায় ওই ব্যক্তির বিরুদ্ধে গ্রেপ্তারি পরোয়ানা জারি করা হয়েছিল। শেষ পর্যন্ত ২০২৪ সালের ডিসেম্বরে জুম (Zoom) প্ল্যাটফর্মের মাধ্যমে শুনানিতে অংশ নিলে সেই পরোয়ানা বাতিল করা হয়। শুরুতে তিনি মাসে ২০,০০০ ডলার (প্রায় ১৪ লক্ষ টাকা) দেওয়ার প্রস্তাব দিলেও পরে তা কমিয়ে ১১,০০০ ডলার (প্রায় ৮ লক্ষ টাকা) করার আবেদন করেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/canadian-man-quits-job-to-avoid-alimony-court-orders-him-to-pay-rs-4-crore_636779.html ",
-    "time": "2026-01-21T15:48:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "মাখোমাখো প্রেম, বিয়েও প্রায় ঠিক! তবুও জাদেজা-মাধুরীর বিয়ে ভাঙল কেন? একটাই কারণ, শুনলে অবাক হবেন",
-    "desc": "প্রেম এগোচ্ছিল ঠিকঠাক। প্রায় বিয়ে পাকা হয়েছিল দুজনের। ১৯৯৯ সাল নাগাদ জাদেজার নাম জড়িয়ে যায় ম্যাচ ফিক্সিং-এ। তার পর থেকেই দুজনের মধ্যে দূরত্ব তৈরি হতে থাকে। অনেকে জানেন না, একটা সময় মাধুরীর সঙ্গে জাদেজার বিয়ে প্রায় পাকা হয়ে গিয়েছিল।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/09/1759148547_madhuri-11-2025-09-2af3d367acaaf90443251d81dc4058ec-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/cricketer-ajay-jadeja-crush-on-madhuri-dixit-one-controversy-ended-their-rumoured-romance-smj-2507780.html",
-    "time": "2026-01-21T15:28:50.000Z"
   }
 ];
