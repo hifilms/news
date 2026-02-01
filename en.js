@@ -1,12 +1,228 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Pakistan to boycott February 15 T20 World Cup match against India",
+    "desc": "Pakistan's government has officially confirmed that the national team will not participate in the 2026 ICC Men's T20 World Cup match against India. While granting permission for the team to travel to Sri Lanka, the statement indicated a boycott of the February 15, 2026, group-stage fixture without providing a specific reason.",
+    "img": "https://static.toiimg.com/photo/msid-127843698,imgsize-1429761.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistan-to-boycott-february-15-t20-world-cup-match-against-india/articleshow/127843666.cms",
+    "time": "2026-02-01T15:01:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Royal wedding ritual sparks Sikh sensitivity debate, SAD Amritsar chief Mann’s grandson issues public apology",
+    "desc": "A wedding ceremony in Simranjit Singh Mann's family sparked debate after a video showed religious symbols like the Chaur and Chhatar being used for an individual. Critics argued this disrespects Sri Guru Granth Sahib, the sole recipient of such reverence. The groom later apologized, acknowledging the mistake and emphasizing the sanctity of the Guru Granth Sahib.",
+    "img": "https://static.toiimg.com/photo/msid-127843373,imgsize-1107379.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/royal-wedding-ritual-sparks-sikh-sensitivity-debate-sad-amritsar-chief-manns-grandson-issues-public-apology/articleshow/127843364.cms",
+    "time": "2026-02-01T14:33:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rohit Shetty ask industry friends to not visit his house after firing incident",
+    "desc": "Unidentified assailants fired four rounds outside director Rohit Shetty's Mumbai residence early Sunday. While no injuries were reported, security has been heightened, and five suspects have been detained in Pune. The film industry has expressed shock and concern, urging the Chief Minister to intervene.",
+    "img": "https://static.toiimg.com/photo/msid-127843344,imgsize-24254.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rohit-shetty-requests-his-friends-from-the-industry-to-not-visit-his-house-after-the-firing-incident-report/articleshow/127843217.cms",
+    "time": "2026-02-01T14:32:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Farmers left empty-handed despite Budget hopes: BKU Charuni",
+    "desc": "The Bharatiya Kisan Union (BKU) Charuni has strongly criticized the Union Budget 2026-27, deeming it anti-farmer and detached from ground realities. The union highlighted the budget's focus on technology over pressing farmer issues like MSP, rising costs, and loan waivers, calling the PM-Kisan assistance a mockery.",
+    "img": "https://static.toiimg.com/photo/msid-127843346,imgsize-2070973.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/farmers-left-empty-handed-despite-budget-hopes-bku-charuni/articleshow/127843325.cms",
+    "time": "2026-02-01T14:31:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'A joy to watch, patience unmatched': Sachin hails Alcaraz's AO triumph",
+    "desc": "Cricket legend Sachin Tendulkar lauded Carlos Alcaraz's remarkable composure after the young Spaniard secured his maiden Australian Open title against Novak Djokovic. Alcaraz's victory, marked by impressive patience and court coverage, makes him the youngest to achieve a Career Grand Slam. This historic win solidifies his elite status in tennis.",
+    "img": "https://static.toiimg.com/photo/msid-127843158,imgsize-98544.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/a-joy-to-watch-patience-unmatched-sachin-tendulkar-hails-carlos-alcarazs-australian-open-triumph/articleshow/127843156.cms",
+    "time": "2026-02-01T14:21:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'He shared everything with me': Fadnavis rubbishes speculations over merger of NCP after Ajit Pawar's death",
+    "desc": "Maharashtra CM Devendra Fadnavis expressed surprise regarding any potential merger talks between NCP factions, stating Ajit Pawar always confided in him. This follows Sharad Pawar's claim that Ajit Pawar had set February 12 for a merger announcement. Ajit Pawar's wife, Sunetra Pawar, was recently sworn in as Deputy CM.",
+    "img": "https://static.toiimg.com/photo/msid-127843114,imgsize-1123930.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/he-shared-everything-with-me-fadnavis-rubbishes-speculations-over-merger-of-ncp-after-ajit-pawars-death/articleshow/127843132.cms",
+    "time": "2026-02-01T14:14:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Customs duty removed for 17 imported cancer meds; relief for rare diseases drugs",
+    "desc": "Overall health spending saw only modest growth with the Health Ministry being allocated ₹1.05 lakh crore for FY 2026-27, just over six percent higher than the previous year and roughly nine percent more than the revised estimates",
+    "img": "https://th-i.thgim.com/public/incoming/6yil09/article70577883.ece/alternates/LANDSCAPE_1200/iStock-1393837248.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/budget-2026-cancer-drugs-custom-duties/article70577841.ece",
+    "time": "2026-02-01T14:08:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Should UAE expats remit now? Weak rupee and peso offer big gains against Dirham",
+    "desc": "Expatriates in the UAE are finding a remittance opportunity as the Indian rupee, Pakistani rupee and Philippine peso weaken against the UAE dirham. This allows workers to send more value home per dirham. While advantageous, financial advisors suggest a strategic approach like splitting transfers to navigate currency market volatility and maximise benefits.",
+    "img": "https://static.toiimg.com/photo/msid-127842848,imgsize-57430.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/should-uae-expats-remit-now-weak-indian-pakistani-rupee-and-filipino-peso-offer-big-gains-against-dirham/articleshow/127841840.cms",
+    "time": "2026-02-01T13:55:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "If you bought just $1 of Bitcoin when it launched 17 years ago, how rich would you be today?",
+    "desc": "Bitcoin’s early years read like financial folklore. Launched in 2009 as a fringe experiment, it was dismissed, ignored, or casually spent. Yet tiny sums once worth dollars would today equal millions or billions. From lost hard drives to legendary pizza purchases, Bitcoin’s history is defined less by complexity than by scale, and how easily it was missed.",
+    "img": "https://static.toiimg.com/photo/msid-127842839,imgsize-969003.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/if-you-bought-just-1-of-bitcoin-when-it-launched-17-years-ago-how-rich-would-you-be-today/articleshow/127841336.cms",
+    "time": "2026-02-01T13:55:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'A great ride': Djokovic reflects on uncertain future after Australian Open final loss",
+    "desc": "Novak Djokovic reflected on an uncertain future after his Australian Open final loss to Carlos Alcaraz, admitting he didn't expect to reach another Grand Slam final. Despite the defeat, he expressed deep gratitude for the overwhelming support from the Australian crowd, calling it an \"incredible achievement\" to even be there.",
+    "img": "https://static.toiimg.com/photo/msid-127842805,imgsize-80954.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/a-great-ride-novak-djokovic-reflects-on-uncertain-future-after-australian-open-final-loss/articleshow/127842835.cms",
+    "time": "2026-02-01T13:55:04.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Cigarette prices to increase up to Rs 55 per pack",
+    "desc": "Cigarette prices have surged by Rs 22-25 per pack of 10 following a new excise duty regime, the first tax hike in seven years. This move aligns India's tobacco taxation with global health standards. Premium cigarettes will see significant price increases, with distributors anticipating new MRPs from Monday. Concerns about smuggling and counterfeit products are rising.",
+    "img": "https://static.toiimg.com/photo/msid-127842746,imgsize-1540219.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/new-excise-duty-on-tobacco-products-cigarette-prices-to-increase-up-to-rs-55-per-pack/articleshow/127842714.cms",
+    "time": "2026-02-01T13:47:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Budget blueprint for Viksit Bharat, says Yogi; Akhilesh calls it 'invisible ledger' of BJP's corruption",
+    "desc": "As the Union Budget 2026-27 rolled out, Uttar Pradesh's political figures showcased strikingly different perspectives. Yogi Adityanath, the Chief Minister, embraced the budget as a vehicle for welfare, promoting a prosperous future for India that uplifts youth, farmers, and businesses alike.",
+    "img": "https://static.toiimg.com/photo/msid-127842745,imgsize-1243837.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/budget-blueprint-for-viksit-bharat-says-yogi-akhilesh-calls-it-invisible-ledger-of-bjps-corruption/articleshow/127842701.cms",
+    "time": "2026-02-01T13:47:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ayesha drops unseen family pics on Jackie's birthday",
+    "desc": "Ayesha Shroff celebrated Jackie Shroff’s birthday with a heartfelt Instagram post featuring unseen family photos with Tiger and Krishna. She called him “the best of the best,” touching fans’ hearts. From his breakout in Hero to recent roles in Tu Meri Main Tera and Hunter, Jackie continues to impress audiences.",
+    "img": "https://static.toiimg.com/photo/msid-127842678,imgsize-33562.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ayesha-shroff-drops-unseen-family-pics-on-jackie-shroffs-birthday-calls-him-best-father/articleshow/127842678.cms",
+    "time": "2026-02-01T13:44:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why Alcaraz won't get full prize money despite Australian Open final win",
+    "desc": "Carlos Alcaraz won his maiden Australian Open by defeating Novak Djokovic, completing a career Grand Slam at 22 to become the youngest ever to do so. The victory earned him AUD 4.15 million, but Australian tax laws mean he will lose about 32.5 per cent, roughly AUD 1.35 million, leaving him with under AUD 2.8 million despite the historic triumph.",
+    "img": "https://static.toiimg.com/photo/msid-127842650,imgsize-49416.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/why-carlos-alcaraz-will-not-get-full-prize-money-despite-australian-open-final-win-over-novak-djokovic/articleshow/127841868.cms",
+    "time": "2026-02-01T13:40:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar’ composer REVEALS the song’s true inspiration",
+    "desc": "'Dhurandhar' composer Shashwat Sachdev shared that 'Shararat' stems from his personal emotions and life experiences. Created under pressure, the song challenges social norms by portraying a woman expressing desire. For Shashwat, it mirrors his own journey — a reflection of where he comes from and who he’s become.",
+    "img": "https://static.toiimg.com/photo/msid-127842599,imgsize-90132.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-song-shararat-comes-from-a-very-personal-place-dhurandhar-composer-reveals-the-songs-true-inspiration/articleshow/127842599.cms",
+    "time": "2026-02-01T13:37:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Union Budget a step towards realising PM's vision of Viksit Bharat: Delhi CM Rekha Gupta",
+    "desc": "Delhi's Chief Minister Rekha Gupta celebrated the Union Budget as a pivotal move towards fulfilling Prime Minister Modi's dream of a 'Viksit Bharat'. She praised the budget's focus on inclusivity, which promises to enhance opportunities for the youth, preserve cultural legacies, promote sports, and strengthen vital services.",
+    "img": "https://static.toiimg.com/photo/msid-127842583,imgsize-740436.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/union-budget-a-step-towards-realising-pms-vision-of-viksit-bharat-delhi-cm-rekha-gupta/articleshow/127842565.cms",
+    "time": "2026-02-01T13:36:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Assam CM sticks to his ‘Miya’ remarks",
+    "desc": "Referring to his earlier remark that if a Miya rickshaw-puller charges ₹5 as fare, he should be paid ₹4, CM Sarma said, \"I had, in fact, spoken for their benefit. If one goes by the law, they cannot work here.”",
+    "img": "https://th-i.thgim.com/public/incoming/rotnjc/article70578856.ece/alternates/LANDSCAPE_1200/PTI01_30_2026_000348B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/assam/miyas-will-face-trouble-till-i-remain-cm-himanta/article70578820.ece",
+    "time": "2026-02-01T13:34:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A crusader for sustainable, spiritual Zero Budget Natural Farming",
+    "desc": "His model, now called as the Subhash Palekar Krushi, consists of seven steps — no cultivation, seed treatment with Beejamrut, nutrition with Jeevamrut, five-layer farming, no weeding, no use of fertilisers, insecticides, pesticides or weedicides, and integrated farming with cattle and mulching.",
+    "img": "https://th-i.thgim.com/public/incoming/povvvh/article70578682.ece/alternates/LANDSCAPE_1200/9727_1_2_2026_13_44_36_2_02BGMSUBHASHPALEKAR4.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/subhash-palekar-a-crusader-for-sustainable-spiritual-zero-budget-natural-farming/article70577414.ece",
+    "time": "2026-02-01T13:31:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "\"Budget for Developed India-2047\": Uttarakhand CM Pushkar Singh Dhami lauds Union Buget 2026-27",
+    "desc": "Dhami highlighted Prime Minister Narendra Modi's leadership and said the budget reflects today's needs and the vision for the future. Dhami noted that the budget provides opportunities to every section of society, ensuring their upliftment and said that it will \"strengthen social balance and inclusive development.\"",
+    "img": "https://static.toiimg.com/photo/msid-127842511,imgsize-985882.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/budget-for-developed-india-2047-uttarakhand-cm-pushkar-singh-dhami-lauds-union-buget-2026-27/articleshow/127842455.cms",
+    "time": "2026-02-01T13:31:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Soaps, detergents, umbrellas likely to turn expensive; customs processes to be simplified",
+    "desc": "For better use of capacities of manufacturing units in Special Economic Zones that are hit by global trade disruptions, there will be a one time measure of concessional duty to facilitate sales to sell in the Domestic Tariff Area limited to a prescribed proportion of their exports",
+    "img": "https://th-i.thgim.com/public/incoming/l0qywq/article70578189.ece/alternates/LANDSCAPE_1200/iStock-1744740033.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/budget-2026soaps-detergents-umbrellas-likely-to-turn-expensive-customs-processes-to-be-simplified/article70578064.ece",
+    "time": "2026-02-01T13:22:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Accessibility should not be an afterthought, say experts",
+    "desc": "Empathy should be developed towards the differently abled from the school level itself by making it part of the curriculum, so that future innovators design solutions accessible to all, says Anoop P. Ambika, CEO, Kerala Startup Mission",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/knu7b/article70578710.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-01%20at%2016.51.20.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/accessibility-should-not-be-an-afterthought-say-experts/article70578586.ece",
+    "time": "2026-02-01T13:18:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Did 'Dhadak 2' director Shazia Iqbal call 'Dhurandhar' a sinister film?",
+    "desc": "Filmmaker Shazia Iqbal indirectly criticised Aditya Dhar's spy thriller 'Dhurandhar', calling it a \"sinister film\" with a \"troubling intent\" that incites hate and violence. She also targeted the teaser for 'The Kerala Story 2', highlighting concerns about propaganda and prejudice amplified by social media.",
+    "img": "https://static.toiimg.com/photo/msid-127842259,imgsize-34226.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-dhadak-2-director-shazia-iqbal-call-dhurandhar-a-sinister-film-the-director-drops-cryptic-note-says-inciting-hate-and-violence-is-the-films-dna/articleshow/127842168.cms",
+    "time": "2026-02-01T13:13:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress demands PM Modi to come clean on 'disclosures' on him made in Epstein files",
+    "desc": "The Ministry of External Affairs strongly rejected a reference to PM Modi in the investigative files related to Epstein, describing it as \"little more than trashy ruminations by a convicted criminal\" that deserves to be dismissed with the \"utmost contempt\"",
+    "img": "https://th-i.thgim.com/public/incoming/a886tb/article70578653.ece/alternates/LANDSCAPE_1200/11_JAIRAM_RAMESH_PC_03_01_DELHI.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/congress-demands-pm-modi-to-come-clean-on-disclosures-on-him-made-in-epstein-files/article70578602.ece",
+    "time": "2026-02-01T13:06:49.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Union Budget 2026 falls short of attractive announcements for poll-bound Tamil Nadu",
-    "desc": "Some of the demands put forth by Tamil Nadu included approvals for the Coimbatore and Madurai Metro Rail projects, funds due to the State under Samagra Shiksha Abhiyan and ‘Jal Jeevan Mission’ and sanctioning of intra-State railway projects.",
+    "desc": "Some of the demands put forth by Tamil Nadu included approvals for the Coimbatore and Madurai Metro Rail projects, funds due to the State under Samagra Shiksha Abhiyan and ‘Jal Jeevan Mission’, and the sanctioning of intra-State railway projects.",
     "img": "https://th-i.thgim.com/public/incoming/a59lpw/article70578441.ece/alternates/LANDSCAPE_1200/06_RVM_7257.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/budget/union-budget-2026-falls-short-of-attractive-announcements-for-poll-bound-tamil-nadu/article70578185.ece",
-    "time": "2026-02-01T12:38:01.000Z"
+    "time": "2026-02-01T13:05:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ishan all but seals World Cup wicketkeeper spot as Samson's woes continue",
+    "desc": "Ishan Kishan seized his chance in the T20 series against New Zealand, delivering a stunning maiden century and solidifying his claim for the wicketkeeper's role. While a potential imbalance of left-handers exists, Kishan's decisive batting has overshadowed concerns. In contrast, Sanju Samson's struggles with footwork and timing were exposed, leaving his World Cup prospects uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-127842063,imgsize-251716.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ishan-kishan-all-but-seals-world-cup-wicketkeeper-spot-as-sanju-samsons-woes-continue/articleshow/127842069.cms",
+    "time": "2026-02-01T13:05:28.000Z"
   },
   {
     "cat": "Business",
@@ -14,8 +230,17 @@ const newsData_en = [
     "desc": "“The Budget is totally disappointing. It has ignored the State’s interests, and there are no schemes for the welfare of the poor, women, farmers, and those on the margins of society,” he said in a statement",
     "img": "https://th-i.thgim.com/public/incoming/etlket/article70578410.ece/alternates/LANDSCAPE_1200/Updated_T.N.-CMGAEFH3KKO.3.jpg.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/union-budget-2026-even-on-poll-eve-budget-has-disappointed-tamil-nadu-cm-stalin/article70578315.ece",
-    "time": "2026-02-01T12:36:38.000Z"
+    "url": "https://www.thehindu.com/business/budget/union-budget-2026-even-on-poll-eve-budget-has-disappointed-tamil-nadu-cm-stalin/article70578315.ece",
+    "time": "2026-02-01T12:44:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "E-invoicing will change how you get paid, no more manual VAT fixes",
+    "desc": "UAE businesses face a major digital overhaul in 2026-2027 with a new e-invoicing system. Starting July 2026, companies will transition from paper to structured digital invoices, enabling real-time reporting to the Federal Tax Authority. This significant compliance modernization aims to boost VAT accuracy and reduce evasion, aligning with the nation's digital vision.",
+    "img": "https://static.toiimg.com/photo/msid-127841628,imgsize-54230.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/tax-revolution-in-the-uae-e-invoicing-will-change-how-you-get-paid-no-more-manual-vat-fixes/articleshow/127840838.cms",
+    "time": "2026-02-01T12:41:41.000Z"
   },
   {
     "cat": "Business",
@@ -25,6 +250,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/kerala-for-all-conclave-kerala-is-a-fort-against-religious-polarisation-says-n-ram/article70577062.ece",
     "time": "2026-02-01T12:29:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No big-ticket announcements, but poll-bound states part of new initiatives",
+    "desc": "Finance Minister Nirmala Sitharaman's Union Budget 2026 incorporates poll-bound states into ambitious development initiatives like rare earth corridors and high-speed rail networks. While not offering state-specific bonanzas, the budget includes infrastructure, logistics, and tourism boosts for West Bengal, Tamil Nadu, Kerala, Assam, and Puducherry.",
+    "img": "https://static.toiimg.com/photo/msid-127841613,imgsize-1153884.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/union-budget-2026-no-big-ticket-announcements-but-poll-bound-states-part-of-new-initiatives/articleshow/127841105.cms",
+    "time": "2026-02-01T12:25:40.000Z"
   },
   {
     "cat": "Business",
@@ -54,13 +288,13 @@ const newsData_en = [
     "time": "2026-02-01T12:14:50.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Soaps, detergents, umbrellas likely to turn expensive; customs processes to be simplified",
-    "desc": "For better use of capacities of manufacturing units in Special Economic Zones that are hit by global trade disruptions, there will be a one time measure of concessional duty to facilitate sales to sell in the Domestic Tariff Area limited to a prescribed proportion of their exports",
-    "img": "https://th-i.thgim.com/public/incoming/l0qywq/article70578189.ece/alternates/LANDSCAPE_1200/iStock-1744740033.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/budget-2026soaps-detergents-umbrellas-likely-to-turn-expensive-customs-processes-to-be-simplified/article70578064.ece",
-    "time": "2026-02-01T12:03:57.000Z"
+    "cat": "Sports",
+    "title": "22-year-old Alcaraz wins his maiden AO title after outfoxing Djokovic",
+    "desc": "Carlos Alcaraz won his first Australian Open, defeating Novak Djokovic 2-6, 6-2, 6-3, 7-5 to deny him a record 25th Grand Slam. At 22, Alcaraz became the youngest man in the Open era to complete a career Grand Slam. After losing the first set, he dominated with pace and power, sealed his seventh major, and cemented his world number one status.",
+    "img": "https://static.toiimg.com/photo/msid-127841192,imgsize-31144.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/22-year-old-carlos-alcaraz-finally-does-it-wins-his-maiden-australian-open-title-after-outfoxing-novak-djokovic/articleshow/127838264.cms",
+    "time": "2026-02-01T12:14:47.000Z"
   },
   {
     "cat": "Business",
@@ -124,15 +358,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/reopening-of-gazas-rafah-crossing-expected-monday-officials-say/article70578002.ece",
     "time": "2026-02-01T11:31:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Damage to Bidar’s karez water system after unauthorised alteration raises alarm",
-    "desc": "The Naubad–Aliyabad karez, believed to have been built in the 15th century by the Bahmani Sultanate, is an ancient underground water-harvesting system. Conservationists point out that the system holds strong potential for nomination as a UNESCO World Heritage site if conserved scientifically.",
-    "img": "https://th-i.thgim.com/public/incoming/tir9xp/article70577894.ece/alternates/LANDSCAPE_1200/10258_19_1_2026_18_32_25_1_KAREZ_1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/heritage-in-peril-concerns-raised-over-damage-to-bidars-karez-water-system/article70525536.ece",
-    "time": "2026-02-01T11:21:47.000Z"
   },
   {
     "cat": "Business",
@@ -261,15 +486,6 @@ const newsData_en = [
     "time": "2026-02-01T10:07:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Union Budget 2026-27 is growth-oriented, says CII-Southern Region deputy chairman",
-    "desc": "There has been a focus on infrastructure for the past three to four years and some of the announcements made in the Union Budget, such as the high-speed railway corridor, freight corridor, and waterways, among others, would boost connectivity, P. Ravichandran said",
-    "img": "https://th-i.thgim.com/public/incoming/k3ohd3/article70577716.ece/alternates/LANDSCAPE_1200/iStock-1458513303.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/union-budget-2026-is-growth-oriented-says-cii-southern-region-deputy-chairman/article70577604.ece",
-    "time": "2026-02-01T10:00:18.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Twisted OTT movies u can't miss",
     "desc": "Step into an electrifying realm of suspense with must-see new titles! Experience the chilling neo-noir intrigue of 'Reptile' on Netflix, alongside the psychological labyrinths of 'I'm Thinking of Ending Things' and 'Freddy.' These films guarantee to keep you on the edge of your seat.",
@@ -360,33 +576,6 @@ const newsData_en = [
     "time": "2026-02-01T09:05:27.000Z"
   },
   {
-    "cat": "Business",
-    "title": "What this means for IT companies",
-    "desc": "Union Budget 2026 designates 'Information Technology Services' as a single category for IT companies, including software development, IT-enabled services, KPOs, and contract R&D. A uniform 15.5 per cent safe harbour margin will apply, with increased thresholds and automated approvals. A fast-track Unilateral APA process for IT services aims for conclusion within two years.",
-    "img": "https://static.toiimg.com/photo/msid-127837890,imgsize-962098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/fm-brings-it-services-under-single-category-in-union-budget-what-this-means-for-it-companies/articleshow/127837604.cms",
-    "time": "2026-02-01T08:57:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Full text of Nirmala Sitharaman's speech; download PDF",
-    "desc": "Presenting the 2026-27 Budget, the Finance Minister outlined a vision for Viksit Bharat, emphasizing sustained growth, structural reforms, and citizen empowerment. Key proposals include scaling up manufacturing in strategic sectors, rejuvenating legacy industries, supporting MSMEs, and a significant push for infrastructure development.",
-    "img": "https://static.toiimg.com/photo/msid-127837637,imgsize-932610.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-full-text-of-nirmala-sitharamans-speech-download-pdf/articleshow/127837011.cms",
-    "time": "2026-02-01T08:51:18.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Duty-free import limit raised for seafood, leather export inputs",
-    "desc": "Finance Minister Nirmala Sitharaman unveiled measures to boost India's export sectors. Duty-free import limits for processed seafood and leather/synthetic footwear inputs are raised. The export timeline for leather goods and garments is extended to one year. These steps aim to counter challenges, particularly from the US market.",
-    "img": "https://static.toiimg.com/photo/msid-127837519,imgsize-795236.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-duty-free-import-limit-raised-for-seafood-leather-export-inputs/articleshow/127837517.cms",
-    "time": "2026-02-01T08:45:57.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Handshake refused! India vs Pakistan U19 World Cup showdown opens with tense moment",
     "desc": "India and Pakistan U-19 captains notably skipped the customary handshake at the toss for their crucial World Cup encounter. This follows a recent trend of no handshakes between the two nations' cricket teams amid ongoing political tensions. The match is a must-win for Pakistan to keep their semi-final hopes alive.",
@@ -394,24 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/handshake-refused-india-vs-pakistan-u19-world-cup-showdown-opens-with-tense-moment/articleshow/127837532.cms",
     "time": "2026-02-01T08:45:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How Union Budget 2026 has given India firepower to counter Trump’s tariffs",
-    "desc": "India's Finance Minister Nirmala Sitharaman unveiled the Union Budget 2026. Measures aim to support key export sectors facing US tariffs. The budget includes customs duty reductions and manufacturing incentives. These steps are designed to boost export competitiveness and resilience against global economic shifts. Capital expenditure sees an increase, while the fiscal deficit is projected to narrow.",
-    "img": "https://static.toiimg.com/photo/msid-127837484,imgsize-1143692.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/how-union-budget-2026-has-given-india-firepower-to-counter-trumps-tariffs/articleshow/127837351.cms",
-    "time": "2026-02-01T08:41:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Defence budget jumps to Rs 7.85 lakh crore, Rs 2.19 lakh crore earmarked for modernisation",
-    "desc": "The Union Budget 2026 significantly boosts defence spending to Rs 7.85 lakh crore, a substantial rise from last year. Modernisation efforts will receive Rs 2.19 lakh crore, with key allocations for aircraft and naval fleets. Finance minister Nirmala Sitharaman also announced customs duty exemptions on aircraft components and raw materials, aiming to invigorate the defence aerospace industry.",
-    "img": "https://static.toiimg.com/photo/msid-127837441,imgsize-59978.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/defence/news/union-budget-2026-defence-budget-jumps-to-rs-7-85-lakh-crore-rs-2-19-lakh-crore-earmarked-for-modernisation-key-points/articleshow/127837180.cms",
-    "time": "2026-02-01T08:37:30.000Z"
   },
   {
     "cat": "Politics",
@@ -432,42 +603,6 @@ const newsData_en = [
     "time": "2026-02-01T08:19:56.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Karan and Aditya to collaborate on a horror thriller?",
-    "desc": "Karan Johar is set to explore new genres with Kartik Aaryan’s 'Nagzilla'. He’s now planning a horror thriller under Dharma Productions, starring Aditya Roy Kapur. The film begins shooting in May 2026. Meanwhile, Aditya awaits his series 'Rakt Brahmand' and was last seen in Anurag Basu’s 'Metro… In Dino'.",
-    "img": "https://static.toiimg.com/photo/msid-127837006,imgsize-42998.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-and-aditya-roy-kapur-to-collaborate-on-a-horror-thriller-details-inside/articleshow/127837006.cms",
-    "time": "2026-02-01T08:15:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What is a tax holiday? What Nirmala Sitharaman announced in her Budget speech",
-    "desc": "Foreign companies offering global cloud services via Indian data centres will enjoy a tax holiday until 2047, a significant boost for digital infrastructure. This move aims to attract investment and strengthen India's position in cloud computing and AI. Software development and IT services are now unified under a single category, with a common safe harbour margin of 15.5 per cent.",
-    "img": "https://static.toiimg.com/photo/msid-127836935,imgsize-876868.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-what-is-a-tax-holiday-what-nirmala-sitharaman-announced-in-her-budget-speech/articleshow/127836229.cms",
-    "time": "2026-02-01T08:08:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Accessible tourism no longer a niche segment but mainstream imperative, says Chief Minister Pinarayi Vijayan",
-    "desc": "Speaking after inaugurating Kerala for All conclave organised by Kerala Tourism and The Hindu Group in Kochi, Pinarayi Vijayan says Kerala is committed to setting a model for the country by learning from the global best practices while adapting them to local realities of State",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/rue0jk/article70577275.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-01%20at%2011.41.12.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-for-all-conclave-accessible-tourism-no-longer-a-niche-segment-but-mainstream-imperative-says-chief-minister-pinarayi-vijayan/article70577254.ece",
-    "time": "2026-02-01T08:05:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar'gets OTT 'upgrade' after fan backlash",
-    "desc": "Ranveer Singh's 'Dhurandhar' faced criticism on Netflix for muted cuss words, shorter runtime, and poor color grading. However, fans celebrated a surprise 'update' on Sunday, with Netflix allegedly improving the film's bitrate and color quality. While technical issues are addressed, runtime and censorship concerns remain.",
-    "img": "https://static.toiimg.com/photo/msid-127836818,imgsize-26262.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-ranveer-singh-starrer-gets-ott-upgrade-after-fans-call-out-low-quality-and-colour-grading-issues/articleshow/127836369.cms",
-    "time": "2026-02-01T08:01:58.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "MCC adds 49 Hamdard postgraduate seats to round III after Supreme Court order",
     "desc": "The Medical Counselling Committee added 49 postgraduate medical seats from HIMSR to the Round III seat matrix following Supreme Court directions. This allows students nationwide to compete for these seats via All India Quota counselling, ensuring no academic year is lost due to affiliation delays.",
@@ -477,15 +612,6 @@ const newsData_en = [
     "time": "2026-02-01T07:56:42.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Princess Love amends protective order against Ray J",
-    "desc": "In a surprising turn of events, Princess Love has revised a protective order concerning her estranged spouse, Ray J, now permitting him to have boundless access to their children. This decision comes swiftly following Ray J's alarming health update, as he faces a daunting challenge with his heart operating at a mere 25% due to pneumonia.",
-    "img": "https://static.toiimg.com/photo/msid-127836542,imgsize-55576.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/princess-love-and-ray-j-loves-protective-order-against-former-partner-amended-following-health-update-report/articleshow/127836542.cms",
-    "time": "2026-02-01T07:49:30.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Nirmala announces Khelo India Mission",
     "desc": "Finance Minister Nirmala Sitharaman announced a new Khelo India mission to transform India's sports sector over the next decade. This initiative will focus on an integrated talent development framework, including training centers, coach development, sports science integration, and infrastructure enhancement. The mission aims to nurture grassroots talent and bolster India's global sporting ambitions.",
@@ -493,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/budget-2026-nirmala-sitharaman-announces-khelo-india-mission-to-develop-coaches-training-centres/articleshow/127836141.cms",
     "time": "2026-02-01T07:26:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sunetra Pawar: From social work to Maharashtra Deputy CM",
-    "desc": "Sunetra Pawar, former Rajya Sabha MP and social activist from Baramati, has been named Maharashtra’s Deputy Chief Minister following Ajit Pawar’s death. Her rise reflects both her family’s political legacy and her growing influence within the NCP and Maharashtra politics.",
-    "img": "https://th-i.thgim.com/public/incoming/1ahed6/article70577149.ece/alternates/LANDSCAPE_1200/Sunetra.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-sunetra-pawar-from-social-work-to-maharashtra-deputy-cm/article70577151.ece",
-    "time": "2026-02-01T06:49:19.000Z"
   },
   {
     "cat": "Sports",
@@ -538,15 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/india-vs-pakistan-showdown-icc-reveals-make-or-break-scenario-for-u19-world-cup-semi-final/articleshow/127832139.cms",
     "time": "2026-02-01T04:16:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India’s only Chinatown in Kolkata, fading away",
-    "desc": "The Chinese community in Kolkata now has only about 2,000 people, down from about 50,000 in the 1960s. In the SIR process in West Bengal 389 of 484 voters have been categorised as untraceable or absent. For a community that began coming to the city since the 1840s, and has dealt with racism in many forms, the dwindling numbers in the SIR are a reflection of many leaving the country, reports Shrabana Chatterjee",
-    "img": "https://th-i.thgim.com/public/incoming/wy7nf3/article70574102.ece/alternates/LANDSCAPE_1200/6744_31_1_2026_17_4_0_2_12_CHINATOWN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/indias-only-chinatown-in-kolkata-fading-away/article70574083.ece",
-    "time": "2026-02-01T03:53:05.000Z"
   },
   {
     "cat": "Sports",
@@ -631,75 +739,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Arsenal thrash Leeds 4-0 to extend lead at the top",
-    "desc": "Arsenal settled any fears of a wobble in their pursuit of a first Premier League title in 22 years by winning 4-0 at Leeds on Saturday. The Gunners' advantage over Manchester City and Aston Villa, who are both in action on Sunday, stretches to seven points as Mikel Arteta's men took another step towards the title at Elland Road.",
-    "img": "https://static.toiimg.com/photo/msid-127825437,imgsize-72942.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/epl/top-stories/premier-league-arsenal-thrash-leeds-4-0-to-extend-lead-at-the-top/articleshow/127825370.cms",
-    "time": "2026-01-31T17:47:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kishan's 42-ball century, Arshdeep fifer drive India to 46-run win over NZ",
-    "desc": "Ishan Kishan's explosive 42-ball century powered India to a massive 271/5, setting up a commanding 46-run victory over New Zealand. Kishan's blistering knock, coupled with Suryakumar Yadav's elegant 63, overwhelmed the visitors. Arshdeep Singh's crucial five-wicket haul sealed the 4-1 series triumph, showcasing India's strong T20 World Cup preparations.",
-    "img": "https://static.toiimg.com/photo/msid-127825175,imgsize-251716.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ishan-kishans-42-ball-century-arshdeep-singh-fifer-drive-india-to-46-run-win-over-new-zealand-seal-41-t20i-series/articleshow/127825164.cms",
-    "time": "2026-01-31T17:33:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Maiden T20I ton strengthens Kishan's case over Samson",
-    "desc": "Ishan Kishan achieved significant milestones, scoring his maiden T20I century (103 off 43 balls) and surpassing 1,000 T20I runs and 2,000 international runs for India. His explosive innings, part of a strong run of form, contributed to India's series-clinching victory over New Zealand.",
-    "img": "https://static.toiimg.com/photo/msid-127824476,imgsize-62188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-maiden-t20i-ton-strengthens-ishan-kishans-case-over-sanju-samson-ahead-of-t20-world-cup/articleshow/127824378.cms",
-    "time": "2026-01-31T17:12:48.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Vimal, Pradosh lead Tamil Nadu’s strong reply against Baroda",
     "desc": "The opener makes full use of a flat pitch to notch up 182 in 334 balls; the two left-handed batters add 144 for the second wicket; the home team ends the third day on 411 for seven and takes the first-innings lead",
     "img": "https://th-i.thgim.com/public/incoming/ycmodk/article70575344.ece/alternates/LANDSCAPE_1200/9868_31_1_2026_16_35_22_2_BATING_VIMAL_8.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/ranji-trophy-vimalpradoshlead-tamil-nadus-strong-reply-against-baroda/article70575340.ece",
     "time": "2026-01-31T16:26:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Victory for sport': When Chennai stood up for Pakistan after India lost Test match",
-    "desc": "Despite a politically charged atmosphere and extremist threats, the 1999 Chennai Test between India and Pakistan showcased remarkable sportsmanship. Sachin Tendulkar's valiant 136-run innings, battling injury, ultimately fell short as Pakistan secured a 12-run victory. The Chennai crowd's standing ovation for the victorious Pakistani team became a powerful testament to the spirit of sport.",
-    "img": "https://static.toiimg.com/photo/msid-127823603,imgsize-82656.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/victory-for-sport-when-chennai-applauded-pakistan-as-india-lost-test-after-a-sachin-tendulkar-masterclass/articleshow/127823227.cms",
-    "time": "2026-01-31T16:16:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Amid uncertainty over T20 WC participation, Pakistan annihilate Australia",
-    "desc": "Pakistan secured a T20 series win over Australia with a dominant 90-run victory in Lahore, powered by spinners Abrar Ahmed and Shadab Khan, who bowled Australia out for 108 while chasing 199. Salman Ali Agha’s 76 and Usman Khan’s 53 set up the win. Despite the success, Pakistan’s T20 World Cup participation remains uncertain after the PCB cancelled the jersey launch.",
-    "img": "https://static.toiimg.com/photo/msid-127823493,imgsize-135348.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/amid-uncertainty-over-t20-world-cup-participation-pakistan-annihilate-australia-once-again-on-home-turf/articleshow/127823422.cms",
-    "time": "2026-01-31T16:02:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Oh my god': SKY goes viral after tricking crowd over Samson",
-    "desc": "India captain Suryakumar Yadav entertained fans before the fifth T20I against New Zealand by playfully pretending to forget Sanju Samson’s name at the toss in Thiruvananthapuram. He later confirmed Samson’s inclusion, drawing cheers from the crowd. India chose to bat first due to dew concerns. With the series already in India's pocket, the match served as preparation for the upcoming T20 World Cup.",
-    "img": "https://static.toiimg.com/photo/msid-127821201,imgsize-32466.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/oh-my-god-india-captain-suryakumar-yadav-goes-viral-after-tricking-crowd-over-sanju-samson-watch/articleshow/127821100.cms",
-    "time": "2026-01-31T13:37:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Setback for Sabalenka! Rybakina stuns World No. 1, lifts maiden AO title",
-    "desc": "Elena Rybakina won the Australian Open title by defeating world number one Aryna Sabalenka 6-4, 4-6, 6-4, avenging her 2023 final loss. She recovered from a 3-0 deficit in the deciding set, won five straight games, and sealed victory with an ace. The triumph marked her second Grand Slam title after Wimbledon 2022 and highlighted her mental strength and growing confidence on big stages.",
-    "img": "https://static.toiimg.com/photo/msid-127818697,imgsize-43242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/setback-for-aryna-sabalenka-elena-rybakina-stuns-world-no-1-lifts-maiden-australian-open-title/articleshow/127818216.cms",
-    "time": "2026-01-31T11:21:57.000Z"
   },
   {
     "cat": "World",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/the-kurdish-led-syrian-democratic-forces-announced-a-new-agreement-to-stabilise-ceasefire/article70569995.ece",
     "time": "2026-01-30T11:41:15.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Israel Military reported to accept death toll of around 70,000 in Gaza",
-    "desc": "The United Nations has long accepted death tolls recorded by health authorities in Gaza as accurate. Israel has cast doubt on the figures, arguing that the health ministry in the enclave was run by Hamas and could not be ​trusted",
-    "img": "https://th-i.thgim.com/public/incoming/nbxh61/article70570027.ece/alternates/LANDSCAPE_1200/Israel_Palestinians_01429.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/israel-military-reported-to-accept-death-toll-of-around-70000-in-gaza/article70569988.ece",
-    "time": "2026-01-30T11:35:13.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "UN",
-    "desc": "The UN rights office said \"credible sources\" had verified that at least \"170 civilians were killed in some 408 military aerial attacks reported by open sources during the voting period — between December 2025 and January 2026\".",
-    "img": "https://th-i.thgim.com/public/incoming/iri8y/article70570032.ece/alternates/LANDSCAPE_1200/Myanmar-junta-aGEUF9QK2T.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/at-least-170-civilians-killed-in-myanmar-air-strikes-during-election-un/article70570016.ece",
-    "time": "2026-01-30T11:29:28.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump sues IRS, Treasury for ₹10 billion over leaked tax information",
-    "desc": "The suit states that former IRS contractor Charles Edward Littlejohn disclosures to the news organisations “caused reputational and financial harm to Plaintiffs and adversely impacted President Trump's support among voters in the 2020 presidential election”",
-    "img": "https://th-i.thgim.com/public/incoming/w1cgly/article70569477.ece/alternates/LANDSCAPE_1200/2025-10-09T071903Z_2092711540_RC2X7HA68OKZ_RTRMADP_3_USA-FINLAND%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-sues-irs-treasury-for-10-billion-over-leaked-tax-information/article70569381.ece",
-    "time": "2026-01-30T09:29:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "25 years in films, and how ‘Dhruva Natchathiram’ became a lesson in management",
-    "desc": "This February, Gautham Menon completes 25 years in the industry. The Tamil filmmaker talks about his memorable journey, how music has played a vital role in it and why fans can look forward to ‘Dhruva Natchathiram’ soon",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/1ugxs0/article70560495.ece/alternates/LANDSCAPE_1200/GVM%2015.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/gautham-menon-interview-25-years-in-films-and-how-dhruva-natchathiram-became-a-lesson-in-management/article70559515.ece",
-    "time": "2026-01-30T05:25:58.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "The world’s first handheld scientific calculator",
-    "desc": "On February 1, 1972 — just a day before a year was completed from the official go-ahead for the product — HP-35 was made available to the world. Now recognised as the world’s first scientific pocket calculator, the gadget revolutionised the way we looked at handheld equipment. A.S.Ganesh punches some keys to give you the tale of these number crunchers…",
-    "img": "https://th-i.thgim.com/public/incoming/adas7p/article70541286.ece/alternates/LANDSCAPE_1200/01istb%20HP-35.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/children/the-worlds-first-handheld-scientific-calculator/article70541279.ece",
-    "time": "2026-01-30T05:21:52.000Z"
   }
 ];
