@@ -1,5 +1,131 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "Budget proposes to set up ₹10,000 crore to create champion SMEs: FM Sitharaman",
+    "desc": "FM Sitharaman proposes to support mineral rich states of Odisha, Kerala, Andhra Pradesh and Tamil Nadu to establish critical mineral facilities; the FM also proposes to top up Self Reliance India Fund with ₹4,000 cr in FY27 to support MSMEs",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/union-budget-2026-nirmala-sitharaman-allocations-income-tax-slabs-live-updates/article70573992.ece",
+    "time": "2026-02-01T06:37:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Kerala is a fort against religious polarisation, says N. Ram",
+    "desc": "In his keynote address during the inauguration of ‘Kerala for All’ conclave, N. Ram says inclusive and accessible tourism should be treated as a right of all tourists and not something that is given as charity or as a special privilege",
+    "img": "https://th-i.thgim.com/public/incoming/yqg2wj/article70577092.ece/alternates/LANDSCAPE_1200/_DSC1663.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-for-all-conclave-kerala-is-a-fort-against-religious-polarisation-says-n-ram/article70577062.ece",
+    "time": "2026-02-01T06:35:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Odisha, Kerala, Andhra, Tamil Nadu to get dedicated rare earth corridors — what it means",
+    "desc": "Union finance minister Nirmala Sitharaman has proposed dedicated rare earth corridors in Odisha, Andhra Pradesh, Tamil Nadu, and Kerala to boost domestic capabilities and reduce import dependence. The initiative, part of the 2026-27 Union Budget, aims to support mining, processing, and manufacturing of critical minerals essential for clean energy and defence.",
+    "img": "https://static.toiimg.com/photo/msid-127834547,imgsize-962098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-odisha-kerala-andhra-tamil-nadu-to-get-dedicated-rare-earth-corridors-what-it-means/articleshow/127834553.cms",
+    "time": "2026-02-01T06:12:37.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Sitharaman announces ‘Banking for Viksit Bharat’ panel",
+    "desc": "Union finance minister Nirmala Sitharaman announced measures to bolster India's financial sector, including a high-level committee to review banking for Viksit Bharat. The sector shows improved health with strong balance sheets and high profitability. Reforms also target NBFCs and aim to deepen the corporate bond market.",
+    "img": "https://static.toiimg.com/photo/msid-127834481,imgsize-45132.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/banking-sector-budget-2026-live-bfsi-announcements-sbi-sebi-tax-clarity-and-liquidity-standard-deduction-banking-governance-bill/articleshow/127833859.cms",
+    "time": "2026-02-01T06:09:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "FM Sitharam launches 'India Semiconductor Mission 2.0'—all you need to know",
+    "desc": "Finance Minister Nirmala Sitharaman unveiled \"India Semiconductor Mission 2.0\" with a Rs 40,000 crore outlay to boost chip production, design, and workforce development. Additionally, a Rs 10,000 crore \"Shakti\" initiative aims to build the semiconductor ecosystem. The budget also prioritizes pharmaceutical advancements with new NIPERs and clinical trial networks, alongside support for rare earth manufacturing corridors.",
+    "img": "https://static.toiimg.com/photo/msid-127834406,imgsize-1009403.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-fm-sitharaman-launches-india-semiconductor-mission-2-0all-you-need-to-know/articleshow/127834378.cms",
+    "time": "2026-02-01T06:05:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "The entertainment industry expects cheaper tax slabs for movie tickets",
+    "desc": "As the weekend approaches, cinema lovers and industry insiders are abuzz with anticipation for Sunday’s budget meeting. There's a hopeful sentiment in the air, as many are looking for further relief on ticket prices. Although GST 2.0 brought some much-needed reductions, the soaring ticket costs still linger under older tax categories.",
+    "img": "https://static.toiimg.com/photo/msid-127833677,imgsize-40918.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sundays-union-budget-session-entertainment-industry-on-the-lookout-to-make-the-moviegoing-experience-cheaper/articleshow/127833677.cms",
+    "time": "2026-02-01T05:54:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "AR Rahman says messages often get distorted along the way",
+    "desc": "AR Rahman recently spoke about how messages often get distorted, saying, “The problem with the world is how messages get corrupted on the way.” He promoted his silent film 'Gandhi Talks' on The Great Indian Kapil Show and also discussed a “power shift” in Bollywood that, he said, affected creative opportunities.",
+    "img": "https://static.toiimg.com/photo/msid-127833972,imgsize-15314.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ar-rahman-says-messages-often-get-distorted-along-the-way-the-problem-with-the-world-is-/articleshow/127833972.cms",
+    "time": "2026-02-01T05:48:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Singeetam Srinivasa Rao directs film at 93",
+    "desc": "At the remarkable age of 93, iconic director Singeetam Srinivasa Rao is making a grand return to the director's chair after a ten-year hiatus. His 61st film, currently known as SSR61, is being produced by the talented Nag Ashwin.",
+    "img": "https://static.toiimg.com/photo/msid-127833855,imgsize-28756.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ssr61-announced-singeetam-srinivasa-rao-makes-film-at-93-legendary-director-returns-after-10-years/articleshow/127833855.cms",
+    "time": "2026-02-01T05:46:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Snoop Dogg’s daughter Cori Broadus loses baby girl",
+    "desc": "Cori Broadus, daughter of Snoop Dogg, announced the heartbreaking passing of her 10-month-old daughter, Codi Dreaux, on January 26. Codi, who was born three months premature, had only recently returned home from the NICU after a ten-month stay. The loss has deeply affected Cori and her fiancé, Wayne Deuce, with fans offering widespread support.",
+    "img": "https://static.toiimg.com/photo/msid-127833800,imgsize-707198.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/snoop-doggs-daughter-cori-broadus-loses-baby-girl-after-20-day-long-nicu-journey/articleshow/127833765.cms",
+    "time": "2026-02-01T05:41:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Novak Djokovic targets 25th Slam",
+    "desc": "Novak Djokovic, at nearly 39, reached a record 38th Grand Slam final by defeating Jannik Sinner, showcasing unparalleled mental fortitude. He saved 16 of 18 break points, demonstrating his toughness. Djokovic now faces Carlos Alcaraz in the Australian Open final, aiming for a historic 25th major title and to become the oldest men's singles champion in the Open Era.",
+    "img": "https://static.toiimg.com/photo/msid-127833676,imgsize-55230.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/australian-open-final-novak-djokovic-targets-25th-slam-carlos-alcaraz-bids-to-become-youngest-career-slam-winner/articleshow/127833608.cms",
+    "time": "2026-02-01T05:36:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Gunshots at Rohit Shetty's residence: Police register FIR",
+    "desc": "Mumbai Police have registered an FIR after unidentified individuals fired shots outside filmmaker Rohit Shetty's Juhu residence early Sunday morning. Bullet marks were found on the building's glass panels. Authorities are reviewing extensive CCTV footage to identify the culprits and trace their escape route. The motive remains unknown.",
+    "img": "https://static.toiimg.com/photo/msid-127833614,imgsize-26130.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/gunshots-outside-rohit-shettys-residence-mumbai-police-registers-fir-confirm-someone-fired-at-the-building/articleshow/127833025.cms",
+    "time": "2026-02-01T05:31:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about Diddy's “freak-off” parties",
+    "desc": "Hip-hop mogul Sean 'Diddy' Combs faced federal charges including sex trafficking and racketeering, stemming from alleged \"freak-off\" parties. Prosecutors described these as drug-fueled, multi-day events involving coercion and exploitation. While cleared of major charges, Combs was convicted on Mann Act violations, significantly altering his public image.",
+    "img": "https://static.toiimg.com/photo/msid-127833105,imgsize-40810.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/inside-diddys-freak-off-parties-all-you-need-to-know/articleshow/127833043.cms",
+    "time": "2026-02-01T05:05:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gross GST collections in January rise 6.2% to Rs 1.93 lakh crore, net revenue up 7.6%",
+    "desc": "India’s GST collections in January 2026 rose to Rs 1,93,384 crore, up 6.2% from last year. Net revenue after refunds reached Rs 1,70,719 crore, a 7.6% increase. Domestic GST grew 4.8%, import GST 10.1%, while cumulative collections for April-January FY26 hit Rs 18.43 lakh crore. Government sources said the data “indicates stable consumption trends and steady tax compliance.”",
+    "img": "https://static.toiimg.com/photo/msid-127833068,imgsize-962332.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gross-gst-collections-in-january-rise-6-2-to-rs-1-93-lakh-crore-net-revenue-up-7-6/articleshow/127833036.cms",
+    "time": "2026-02-01T04:56:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Game of Thrones’ fan theories that outlived the finale",
+    "desc": "Years after its finale, Game of Thrones continues to spark fan theories, from Jon Snow's true parentage to Tyrion's potential dragon-riding abilities. The Azor Ahai prophecy and Sansa's role with Sweetrobin were also debated. These intricate ideas, blending book hints and show clues, highlight the series' enduring impact on its audience.",
+    "img": "https://static.toiimg.com/photo/msid-127833042,imgsize-936331.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/game-of-thrones-fan-theories-that-kept-westeros-debates-alive-long-after-the-finale/articleshow/127833017.cms",
+    "time": "2026-02-01T04:55:08.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "‘Thankful to all our fans, loved ones'",
     "desc": "Ram Charan and Upasana Kamineni Konidela joyfully welcomed twins, a baby boy and a girl, as announced by proud grandfather Chiranjeevi. The newborns and mother are reported to be healthy. This marks the couple's second time becoming parents, expanding their family to five. Fans are showering the couple with heartfelt congratulations and blessings.",
@@ -11,7 +137,7 @@ const newsData_en = [
   {
     "cat": "Business",
     "title": "From 'bahi-khata' to tablet: Tracing Nirmala Sitharaman’s Union Budget journey since 2019",
-    "desc": "Finance Minister Nirmala Sitharaman will present her ninth Union Budget on February 1. This marks a historic Sunday sitting. The Budget for FY27 will focus on growth, fiscal discipline, and reforms. It will also continue the paperless format. Sitharaman's journey since 2019 highlights India's evolving economic priorities.",
+    "desc": "Finance minister Nirmala Sitharaman is set to present her ninth consecutive Union Budget on February 1, a historic Sunday sitting. Since 2019, her Budgets have marked milestones—from replacing the briefcase with a ‘bahi-khata’ to longest and shortest speeches—focusing on infrastructure, health, reforms, and inclusive growth. Budget 2026 is expected to boost AI, manufacturing, telecom, and shield the economy amid global trade frictions.",
     "img": "https://static.toiimg.com/photo/msid-127832557,imgsize-790513.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/from-bahi-khata-to-tablet-tracing-nirmala-sitharamans-union-budget-journey-since-2019/articleshow/127832330.cms",
@@ -99,15 +225,6 @@ const newsData_en = [
     "time": "2026-02-01T03:53:05.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Vande Bharat sleeper, Amrit Bharat trains &amp; Kavach",
-    "desc": "At the start of this year, Indian Railways introduced the first Vande Bharat sleeper train service. The new semi-high speed train set, capable of 160 kmph speeds, is aimed at overhauling overnight travel experience on the Indian Railways network.",
-    "img": "https://static.toiimg.com/photo/msid-127831507,imgsize-73324.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/railway-budget-2026-live-updates-announcements-highlights-vande-bharat-sleeper-train-amrit-bharat-kavach-railway-projects-funding-allocations/articleshow/127831491.cms",
-    "time": "2026-02-01T03:52:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'I don't see Sanju Samson being part of the XI': Gavaskar drops big hint",
     "desc": "Despite a lean patch, Sanju Samson failed to perform on his home ground in the fifth T20I against New Zealand. Ishan Kishan and Suryakumar Yadav then dominated, with Kishan scoring a rapid century. Sunil Gavaskar criticized Samson's form, suggesting he might miss out on the T20 World Cup XI.",
@@ -142,6 +259,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/why-is-the-india-eu-trade-agreement-significant-explained/article70575287.ece",
     "time": "2026-02-01T02:47:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "The Azzurri are here! The fall and rise of Italian cricket",
+    "desc": "Italy’s relationship with cricket stretches over two centuries, from British sailors in Naples to the 2026 T20 World Cup ahead of us. Cricket in Italy is a sport shaped by history, politics and world wars. The sport has survived through quiet revivals and on February 9, at the iconic Eden Gardens, it now stands on the brink of a defining moment.",
+    "img": "https://static.toiimg.com/photo/msid-127820795,imgsize-105462.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-the-azzurri-are-here-the-fall-and-rise-of-italian-cricket/articleshow/127817241.cms",
+    "time": "2026-02-01T02:30:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -189,33 +315,6 @@ const newsData_en = [
     "time": "2026-02-01T01:11:43.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Chatha Pacha' BO day 10: Roshan Mathew film slows",
-    "desc": "Despite a strong cast and positive social media buzz, 'Chatha Pacha' is experiencing a significant slowdown at the box office, with collections dropping considerably. While the film has garnered Rs 31.5 crore worldwide, its daily earnings are declining, raising questions about its long-term run. The coming days will be crucial for its performance.",
-    "img": "https://static.toiimg.com/photo/msid-127830674,imgsize-69608.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/chatha-pacha-box-office-collections-day-10-roshan-mathew-film-slows-mints-only-rs-57-lakhs/articleshow/127830674.cms",
-    "time": "2026-02-01T01:01:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Mardaani 3' hits Rs 10 crore mark at box office",
-    "desc": "Rani Mukerji's 'Mardaani 3' has kicked off its box office run strongly, surpassing the opening day earnings of its predecessors. The cop thriller garnered an estimated Rs 4 crore on Friday and saw significant growth on Saturday, reaching Rs 10 crore net in two days.",
-    "img": "https://static.toiimg.com/photo/msid-127830593,imgsize-47394.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mardaani-3-box-office-collection-day-2-rani-mukerji-starrer-hits-rs-10-crore-mark-despite-border-2-competition/articleshow/127830453.cms",
-    "time": "2026-02-01T00:42:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Parasakthi' BO day 22: Sivakarthikeyan film slows more",
-    "desc": "Sivakarthikeyan's period drama 'Parasakthi' is nearing the end of its theatrical run, with box office collections dropping significantly. The film has garnered Rs 84.71 crore worldwide. While some praise its bold attempt and period accuracy, others find the narrative dragged and dialogues preachy. The movie features a strong ensemble cast and is directed by Sudha Kongara.",
-    "img": "https://static.toiimg.com/photo/msid-127830551,imgsize-43324.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-box-office-collections-day-22-sivakarthikeyan-film-slows-more-only-rs-5-lakhs-now/articleshow/127830551.cms",
-    "time": "2026-02-01T00:36:33.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Pak bowler under fire! Green’s angry reaction to Tariq goes viral",
     "desc": "Pakistan beat Australia by 90 runs in the second T20I in Lahore, taking an unassailable 2-0 lead. Salman Agha scored 76 while Usman Khan added 53 as Pakistan posted 198-5. Controversy arose when Cameron Green accused Usman Tariq of chucking after his dismissal. Pakistan’s spinners dominated, bowling Australia out for 108, with Abrar Ahmed and Shadab Khan leading the charge.",
@@ -223,15 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/watch-pakistan-bowler-under-fire-cameron-greens-angry-reaction-to-usman-tariq-goes-viral/articleshow/127824819.cms",
     "time": "2026-02-01T00:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Raja Saab' BO day 23: Film adds only Rs 27 lakhs",
-    "desc": "Prabhas's 'Raja Saab' is nearing the end of its theatrical run, with collections dwindling significantly. The film has garnered approximately Rs 207.73 crore worldwide. While some viewers praised its innovative approach and production, others criticized the direction and editing, leading to mixed audience reception.",
-    "img": "https://static.toiimg.com/photo/msid-127830358,imgsize-53342.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-box-office-collections-day-23-prabhas-film-adds-only-rs-27-lakhs/articleshow/127830358.cms",
-    "time": "2026-01-31T23:58:36.000Z"
   },
   {
     "cat": "Sports",
@@ -261,15 +351,6 @@ const newsData_en = [
     "time": "2026-01-31T21:28:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "AR Rahman wins Tamil Nadu State Award, expresses gratitude",
-    "desc": "Oscar-winning composer A R Rahman has been conferred the Tamil Nadu State Award for Best Music Director for his work in Mani Ratnam’s historical epic Ponniyin Selvan – I. The recognition adds yet another milestone to Rahman’s celebrated career, which spans decades and includes state, national and international honours.",
-    "img": "https://static.toiimg.com/photo/msid-127828007,imgsize-21804.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ar-rahman-wins-tamil-nadu-state-award-for-ponniyin-selvan-i-composer-expresses-gratitude-amid-communal-bias-controversy/articleshow/127827991.cms",
-    "time": "2026-01-31T20:50:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Pakistan routs Australia by 90 runs to clinch T20 series victory",
     "desc": "Australia fielded a stronger side after losing the opener of the three-match series by 19 runs but still got bowled out for 108 in 15.4 overs with leg-spinners Abrar Ahmed (3-14) and Shadab Khan (3-26) sharing bulk of the wickets",
@@ -295,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ishan-kishans-42-ball-century-arshdeep-singh-fifer-drive-india-to-46-run-win-over-new-zealand-seal-41-t20i-series/articleshow/127825164.cms",
     "time": "2026-01-31T17:33:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Jaishankar",
-    "desc": "The External Affairs Minister said multiple conflicts in the Arab world stretching from Libya to Sudan to Gaza “impacts us all, and India as a proximate region” and called for strengthening ‘forces of stability, peace and prosperity’",
-    "img": "https://th-i.thgim.com/public/incoming/vnq3pj/article70574997.ece/alternates/LANDSCAPE_1200/PTI01_31_2026_000406B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/zero-tolerance-for-terrorism-must-be-uncompromising-universal-norm-jaishankar/article70574971.ece",
-    "time": "2026-01-31T17:16:41.000Z"
   },
   {
     "cat": "Sports",
@@ -405,33 +477,6 @@ const newsData_en = [
     "time": "2026-01-31T15:38:06.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Top 5 income tax expectations of salaried, middle class taxpayers",
-    "desc": "Last year, FM Sitharaman announced major changes in the new income tax regime, and while tax experts believe that there is little fiscal room in Budget 2026 for any big tax income tweaks, there is also a hope that some changes may be brought about to further boost consumption.",
-    "img": "https://static.toiimg.com/photo/msid-127822959,imgsize-114266.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-top-5-income-tax-expectations-of-salaried-middle-class-taxpayers-income-tax-slabs-standard-deduction-section-80c/articleshow/127822923.cms",
-    "time": "2026-01-31T15:30:37.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What 5 yrs of data reveal about India’s direct &amp; indirect taxes",
-    "desc": "As Finance Minister Nirmala Sitharaman prepares the Union Budget 2026-27, tax data reveals a significant shift. Direct tax collections have surged, surpassing indirect taxes as the government's primary revenue source. This trend highlights a growing reliance on income and profit-based taxation, impacting fiscal strategy and taxpayer compliance.",
-    "img": "https://static.toiimg.com/photo/msid-127822630,imgsize-935443.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-what-five-years-of-data-reveal-about-indias-direct-and-indirect-taxes-explained/articleshow/127822563.cms",
-    "time": "2026-01-31T15:14:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "A month since major blaze, Broadway firefighting plans yet to take off",
-    "desc": "While there is no word yet from the authorities on chalking out a concrete plan to keep the street safe from potential fire accidents, steps are yet to be initiated to decongest the roads which remain the biggest challenge for firefighters to navigate through the street in case of an emergency",
-    "img": "https://th-i.thgim.com/public/incoming/mj4cem/article70574937.ece/alternates/LANDSCAPE_1200/Major-fire-gutsG6OFCFRS7.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/a-month-since-major-blaze-broadway-firefighting-plans-yet-to-take-off/article70574392.ece",
-    "time": "2026-01-31T14:57:55.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "SKY surpasses Virat Kohli and Rohit Sharma, becomes fastest to...",
     "desc": "India captain Suryakumar Yadav became the fastest player to reach 3000 T20I runs in terms of balls faced, achieving the milestone in 1822 deliveries and surpassing Virat Kohli and Rohit Sharma. He scored 63 off 30 balls in the fifth T20I against New Zealand, while Ishan Kishan added an unbeaten 86, helping India post 189/3 in Thiruvananthapuram with an aggressive batting display.",
@@ -439,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-suryakumar-yadav-surpasses-virat-kohli-and-rohit-sharma-becomes-fastest-to-/articleshow/127822321.cms",
     "time": "2026-01-31T14:52:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How Sensex, Nifty have performed on Budget days in the past",
-    "desc": "​Budgets set the direction for government spending, taxation, and growth priorities, but actual execution takes time. Sectors like infrastructure, railways, defence, and capital goods tend to react positively to higher capex announcements, while banks and consumption stocks respond to tax relief or income-support measures.",
-    "img": "https://static.toiimg.com/photo/msid-127822188,imgsize-97204.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-stock-market-expectations-how-sensex-nifty-have-performed-on-budget-days-in-the-past/articleshow/127822160.cms",
-    "time": "2026-01-31T14:40:02.000Z"
   },
   {
     "cat": "Sports",
@@ -505,39 +541,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Lad enters elite list with Tendulkar, Azharuddin after latest Ranji ton",
-    "desc": "Mumbai captain Siddhesh Lad scored his fourth consecutive first-class century during a Ranji Trophy match against Delhi, joining Indian greats like Sachin Tendulkar and Vijay Merchant. His recent scores include 127, 170, 104, and 103. Lad’s crucial partnerships helped Mumbai secure a first-innings lead. This was also his fifth century of the season, highlighting his consistency and strong impact on Mumbai’s campaign.",
-    "img": "https://static.toiimg.com/photo/msid-127818050,imgsize-34604.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/siddhesh-lad-enters-elite-list-with-sachin-tendulkar-mohammad-azharuddin-after-latest-ranji-trophy-ton/articleshow/127817849.cms",
-    "time": "2026-01-31T10:35:22.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'Wicket li toh pa'er chhu lunga'",
     "desc": "Punjab Kings' new signing Vishal Nishad revealed Virat Kohli's profound influence on his cricket career, calling him his idol. Nishad shared his challenging journey, overcoming family doubts and financial struggles to reach the IPL. He credits his tennis-ball background and supportive coach for his development as a bowler.",
     "img": "https://static.toiimg.com/photo/msid-127817774,imgsize-31232.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-wicket-li-toh-paer-chhu-lunga-punjab-kings-mystery-spinner-shares-his-virat-kohli-dream/articleshow/127817615.cms",
     "time": "2026-01-31T10:19:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Really looking forward': Tharoor excited for Samson's homecoming T20I",
-    "desc": "Congress MP Shashi Tharoor is excited for the final T20I between India and New Zealand. He wishes luck to Team India and local player Sanju Samson. The match is a big occasion for Thiruvananthapuram fans. It is also India's last game before the T20 World Cup. India leads the series 3-1.",
-    "img": "https://static.toiimg.com/photo/msid-127817661,imgsize-211956.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/really-looking-forward-shashi-tharoor-excited-for-sanju-samsons-homecoming-t20i/articleshow/127817680.cms",
-    "time": "2026-01-31T10:09:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Criticism doesn’t matter’: Bhaker not setting medal goals for Asian C'ship",
-    "desc": "Olympic medallist Manu Bhaker says criticism no longer affects her as she prepares for the Asian Rifle/Pistol Championship in Delhi. The 23-year-old credits maturity, experience, and public support since her two Paris 2024 bronze medals for her positive mindset. Competing at home excites rather than pressures her. Feeling fit and focused, Bhaker has avoided medal expectations, instead setting personal performance standards.",
-    "img": "https://static.toiimg.com/photo/msid-127817567,imgsize-37172.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/criticism-doesnt-matter-much-now-manu-bhaker-not-setting-medal-goals-for-asian-championship/articleshow/127817479.cms",
-    "time": "2026-01-31T09:55:10.000Z"
   },
   {
     "cat": "Business",
@@ -547,15 +556,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/eu-india-fta-will-be-implemented-this-year-labour-intensive-sectors-to-benefit-piyush-goyal/article70570649.ece",
     "time": "2026-01-31T09:17:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Border 2 box office Day 9 (LIVE): Crosses Rs 252 cr in India",
-    "desc": "Sunny Deol's 'Border 2' continues its impressive box office run, raking in Rs 252 crore domestically and Rs 323 crore worldwide. Despite a competitive release, the war epic, a spiritual successor to the 1997 hit, is drawing crowds. The film, featuring a star-studded cast, strategically utilized the Republic Day holiday for a strong opening.",
-    "img": "https://static.toiimg.com/photo/msid-127817034,imgsize-32278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-9-live-sunny-deol-and-varun-dhawan-starrer-war-drama-crosses-238-crore-on-its-second-saturday/articleshow/127817034.cms",
-    "time": "2026-01-31T09:07:35.000Z"
   },
   {
     "cat": "World",

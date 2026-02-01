@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Business",
+    "title": "\"কিছুদিন আগেই তো বাংলা নতুন রেল পেল, এই বাজেটেও বাংলা বাইরে থাকবে না\" শমীক ভট্টাচার্য",
+    "desc": "কেন্দ্রীয় বাজেট ২০২৬ ঘিরে সাধারণ মানুষের প্রত্যাশা অনেকটাই। ১ ফেব্রুয়ারি অর্থমন্ত্রী নির্মলা সীতারমন বাজেট পেশ করবেন। সেখানে পেট্রোল ও ডিজেলকে পণ্য ও পরিষেবা কর বা জিএসটির আওতায় আনার ঘোষণা হতে পারে বলে মনে করা হচ্ছে। দীর্ঘদিন ধরেই পেট্রোল ও ডিজেলকে জিএসটির আওতায় আনার দাবি জানানো হচ্ছে। এই সিদ্ধান্ত কার্যকর হলে সাধারণ মানুষের উপর বড়সড় স্বস্তি আসতে পারে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/budget-2026-8-2026-02-efcae38f62dc25dc935a8bdc45a084f7.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/short-videos/business/union-budget-2026-bjp-mp-shamik-bhattacharya-says-that-bengal-will-be-benefitted-in-this-budget-pbd-2521601.html",
+    "time": "2026-02-01T06:07:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাজেট ২০২৬ শুরুর আগে নির্মলাকে ‘দই-চিনি’ খাওয়ালেন রাষ্ট্রপতি মুর্মু! কেন এই রীতি? নেপথ্যে কোন বিজ্ঞান?",
+    "desc": "কেন্দ্রীয় বাজেট পেশের দিন শুরু হল এক পরিচিত ভারতীয় রীতিতে। সংসদে বাজেট উপস্থাপনের আগে রাষ্ট্রপতি ভবনে অর্থমন্ত্রীকে দই-চিনি খাওয়ানোর মাধ্যমে শুভকামনা জানানো হয়। বহু বছর ধরে চলে আসা এই প্রথা বাজেট দিবসে এক বিশেষ সাংস্কৃতিক তাৎপর্য বহন করে। গুরুত্বপূর্ণ সিদ্ধান্তের আগে শুভ সূচনা ও ইতিবাচক পরিবেশ তৈরির প্রতীক হিসেবেই এই রীতি পালন করা হয়, যা বাজেট পেশের দিনের আনুষ্ঠানিকতার সঙ্গে অঙ্গাঙ্গিভাবে জড়িয়ে রয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/budget-2026-6-2026-02-8b3f90c5d4a85eb59ccdda5716cfdb7a-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/draupadi-murmu-serves-dahi-cheeni-to-nirmala-sitharaman-at-rashtrapati-bhavan-before-union-budget-2026-main-reason-behind-this-ritual-tib-ws-l-2521506.html",
+    "time": "2026-02-01T05:54:09.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "বাজেটে কী আশা করছেন সাধারণ মধ্যবিত্তরা? থাকবে কী কী চমক?",
     "desc": "১ ফেব্রুয়ারি পেশ হতে চলেছে কেন্দ্রীয় বাজেট। টানা নয় বার বাজেট পেশ করতে চলেছেন কেন্দ্রীয় অর্থমন্ত্রী নির্মলা সীতারমণ। এবারের বাজেটে ঘটতে চলেছে এক অভূতপূর্ব ঘটনা। এই প্রথম কোনও রবিবার পেশ হতে চলেছে ভারতের কেন্দ্রীয় বাজেট। আর এই বাজেটেই নজর সাধারণের। মধ্যবিত্তদের বাজেট নিয়ে প্রত্যাশা কতটা? এবারের বাজেটেও কি বিশেষ কোনও উপহার দেবে কেন্দ্রীয় সরকার? বাজেটে কি আশা করছেন সাধারণ মধ্যবিত্তরা?",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/Arjuun-Neogi-83-2026-02-09cd036eb6ead7e8cd84036d81c3414a-3x2.jpg",
@@ -412,15 +430,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/kangna-on-ajit-pawar-sudden-death-latest-news-rmj-2516385.html",
     "time": "2026-01-28T10:52:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বিগ বিগ ফাইন্ডিং! মৃত্যুর ঠিক আগে, জীবনের শেষ ছবি! সাড়া ফেলা সেই ছবিতে বিমানের ভিতরে অজিতের পাশে...",
-    "desc": "অজিত পাওয়ার একটি চার্টার্ড বিমানে (Learjet 45) মুম্বই থেকে বারামতিতে যাচ্ছিলেন। বুধবার সকাল পৌনে ৯টা নাগাদ বারামতি বিমানবন্দরের কাছে অবতরণের সময় বিমানটি ভেঙে পড়ে এবং আগুন ধরে যায়। মারা যান ডেপুটি সিএম অজিত। শোকে মুহ্যমান মহারাষ্ট্র। ঘোষিত হয়েছে ছুটিও। আর সেই আবহে সামনে এল একটি ছবি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/last-image-of-ajit-pawar-ajit-pawar-plane-crash-updates-ajit-pawar-dies-in-plane-crash-maharashtra-last-image-of-ajit-pawar-found-in-aircraft_637948.html ",
-    "time": "2026-01-28T10:33:18.000Z"
   },
   {
     "cat": "Business",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/vande-bharat-sleeper-menu-what-a-lavish-feast-do-you-know-whats-on-the-menu-of-the-howrah-kamakhya-vande-bharat-sleeper-train-the-list-will-surprise-you-for-sure-sanj-2506701.html",
     "time": "2026-01-22T02:09:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বিজেপি-র সর্বভারতীয় সভাপতি হয়েই বাংলায় আসছেন নীতিন নবীন! দেখুন ভিডিও",
-    "desc": "বিজেপি-র সর্বভারতীয় সভাপতি হিসেবে দায়িত্ব নিয়েই বাংলায় আসছেন নীতিন নবীন৷ আগামী ২৭ এবং ২৮ জানুয়ারি রাজ্য সফরে আসছেন নীতিন নবীন৷ রাজ্য সফরে শুরু করে প্রথমে ভোটমুখী বাংলাতেই আসছেন বিজেপি-র নতুন সর্বভারতীয় সভাপতি৷ বাংলায় এসে নির্বাচনের প্রস্তুতি এবং রণকৌশল নিয়ে রাজ্য নেতৃত্বের সঙ্গে তিনি আলোচনায় বসবেন৷ এর পর বর্ধমান-দুর্গাপুরে একটি জনসভাও করবেন তিনি৷ সর্বভারতীয় সভাপতি হিসেবে সেটিই হবে নীতিন নবীনের প্রথম জনসভা৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/Nitin-Nabin-2025-12-88038d811de661c25594d55630cac4af-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/nitin-nabin-to-hold-first-rally-as-bjp-national-president-in-burdwan-durgapur-dmg-2507821.html",
-    "time": "2026-01-21T16:12:20.000Z"
   }
 ];

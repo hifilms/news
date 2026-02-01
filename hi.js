@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "IND vs PAK U-19 Live Cricket Score: India aim to book semi-final berth as they take on Pakistan",
+    "desc": "India U19 and Pakistan U19 are all set to take on each other in the Super Sixes clash of the ongoing U19 World Cup. The two sides take on each other at the Queens Sports...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-pakistan-u-19-cricket-match-score-live-india-aim-to-book-semi-final-berth-as-they-take-on-pakistan-1028418",
+    "time": "2026-02-01T06:39:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who will win Australian Open final? Indian cricketers pick their favourite",
+    "desc": "The stage is set for the summit clash of the Australian Open 2026. The Men’s final will see world number one Carlos Alcaraz taking on Novak Djokovic. The two stars will lock horns at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-vs-novak-djokovic-who-will-win-australian-open-final-indian-cricketers-pick-their-favourite-2026-02-01-1028401",
+    "time": "2026-02-01T06:12:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arshdeep Singh achieves unwanted record despite stellar five-wicket haul against New Zealand in fifth T20I",
+    "desc": "The Indian team put forth an incredible performance in the fifth and final T20I of the series against New Zealand. The two sides locked horns at the Greenfield International Stadium, Thiruvananthapuram, for the clash on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-achieves-unwanted-record-despite-stellar-five-wicket-haul-against-new-zealand-in-fifth-t20i-2026-02-01-1028387",
+    "time": "2026-02-01T05:09:12.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Aiden Markram surpasses Faf du Plessis, clinches major record despite third T20I loss against the West Indies",
     "desc": "The third and final T20I of the series between South Africa and the West Indies saw the Windies register a win. The game saw West Indies coming in to bat first; the side posted a...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-vs-novak-djokovic-where-to-watch-australian-open-final-live-on-tv-and-stream-online-in-india-2026-01-31-1028341",
     "time": "2026-01-31T17:29:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India maul New Zealand in final T20I as Sanju Samson's form remains major concern ahead of T20 World Cup 2026",
-    "desc": "India handed New Zealand a drubbing in their final T20I assignment before the T20 World Cup 2026, with almost all boxes seemingly ticked off by the Men in Blue. Led by a brilliant show from...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-maul-new-zealand-in-final-t20i-as-sanju-samsons-form-remain-major-concern-ahead-of-t20-world-cup-2026-2026-01-31-1028338",
-    "time": "2026-01-31T16:58:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Check new timing and where to watch WWE PLE live on TV and stream online in India?",
-    "desc": "The Road to WrestleMania officially begins with Royal Rumble 2026, an event that promises a blend of spectacle, uncertainty and career-defining moments. For the first time, WWE stages its most unpredictable premium live event in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/royal-rumble-2026-check-new-timing-and-where-to-watch-wwe-ple-live-on-tv-and-stream-online-in-india-2026-01-31-1028334",
-    "time": "2026-01-31T16:18:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India register new record against New Zealand; Ishan Kishan, Suryakumar go berserk",
-    "desc": "Indian batters had a gala time with the bat in the fifth T20I against New Zealand at the Greenfield International Stadium in Thiruvananthapuram. The surface, which initially looked a bit sluggish in the first couple...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-5th-t20i-india-register-new-record-against-new-zealand-ishan-kishan-suryakumar-go-berserk-2026-01-31-1028333",
-    "time": "2026-01-31T15:36:20.000Z"
   }
 ];

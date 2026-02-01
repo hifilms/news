@@ -1,5 +1,68 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "શેરબજારને લઈને મોટી જાહેરાત... વિદેશી રોકાણકારોનું આગમન હવે નિશ્ચિત, સેન્સેક્સ-નિફ્ટીમાં રોનક",
+    "desc": "નાણામંત્રી નિર્મલા સીતારમણ આજે નાણાકીય વર્ષ 2026-27 માટે બજેટ રજૂ કરી રહ્યા છે. લગભગ એક દાયકામાં આ પહેલીવાર છે જ્યારે રવિવારે સંસદમાં બજેટ રજૂ કરવામાં આવી રહ્યું છે. નિર્મલા સીતારમણે સતત નવમી વખત બજેટ રજૂ કરવાનો રેકોર્ડ બનાવ્યો છે. આ દરમિયાન શેરબજારને લઈને એક મોટી જાહેરાત કરવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/budget-2026-fm-nirmala-sitharaman-stock-market-sensex-nifty-463579 ",
+    "time": "2026-02-01T06:36:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "સુપરસ્ટાર રામ ચરણના ઘરે ટ્વીન્સ અવતર્યા, પત્ની ઉપાસનાએ દીકરી અને દીકરાને આપ્યો જન્મ",
+    "desc": "સાઉથ સુપરસ્ટાર રામ ચરણ અને તેની પત્ની ઉપાસના ટ્વીન્સ બાળકોના માતાપિતા બન્યા છે. તેમના ઘરે 31 જાન્યુઆરીના રોજ એક દીકરી અને એક દીકરાનો જન્મ થયો છે. આ ખુશખબર મેગાસ્ટાર ચિરંજીવીએ સોશિયલ મીડિયા પર શેર કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/superstar-ram-charan-and-wife-upasana-became-twins-baby-parents-twins-baby-photo-463576 ",
+    "time": "2026-02-01T06:35:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ભારત-પાકિસ્તાન મેચમાં વરસાદ બનશે વિલન ? જો મેચ રદ થાય તો કોણ પહોંચશે સેમિફાઇનલમાં ?",
+    "desc": "અંડર-19 વર્લ્ડ કપમાં રવિવારે ભારત અને પાકિસ્તાન વચ્ચે મહામુકાબલો રમાશે. આ મેચ સેમિફાઇનલ માટે મહત્વપૂર્ણ છે અને બંને ટીમો વચ્ચે કઠિન સ્પર્ધા થવાની શક્યતા છે. ત્યારે મેચ પહેલા હવામાન કેવું રહેશે અને જો મેચ રદ થાય તો કોને ફાયદો થશે, તે અંગે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/u19-world-cup-2026-india-vs-pakistan-super-6-match-rain-prediction-bulawayo-463572 ",
+    "time": "2026-02-01T06:20:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "DAમાં 2%નો વધારો થશે! 8મા પગાર પંચ અંગે મોટા સમાચાર, કેન્દ્રીય કર્મચારીઓ માટે જાણવું જરૂરી",
+    "desc": "7મા પગાર પંચનો કાર્યકાળ 31 ડિસેમ્બર, 2025ના રોજ પૂરો થયો હોવા છતાં અને 8મા પગાર પંચને 1 જાન્યુઆરી, 2026થી અમલી માનવામાં આવે છે, જ્યાં સુધી 8મા પગાર પંચની ભલામણો લાગુ ન થાય ત્યાં સુધી, DA અને DR વધારો 7મા પગાર પંચના આધારે ચાલુ રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/da-will-increase-by-2-percent-big-news-regarding-8th-pay-commission-important-to-know-for-central-employees-463560 ",
+    "time": "2026-02-01T05:45:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ઈશાન કિશન કે સંજુ સેમસન... T20 વર્લ્ડ કપમાં કોણ કરશે ઓપનિંગ ? કેપ્ટન સૂર્યાએ આપ્યો જવાબ",
+    "desc": "T20માં સંજુ સેમસન રેગ્યુલર ઓપનર છે, જો કે ન્યુઝીલેન્ડ સામે ધમાકેદાર પ્રદર્શન કરીને ઈશાન કિશને પણ દાવેદારી નોંધાવી છે, ત્યારે બધાના મનમાં સવાલ છે કે T20 વર્લ્ડ કપમાં ઓપનિંગ કોણ કરશે, હવે કેપ્ટન સૂર્યાકુમાર યાદવે આ સવાલનો જવાબ આપ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ishan-kishan-or-sanju-samson-who-will-open-in-t20-world-cup-2026-captain-surya-gave-answer-463556 ",
+    "time": "2026-02-01T05:32:38.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "રશિયન તેલથી બગડ્યા અમેરિકા-ભારતના સંબંધો, સરકારે શું કહ્યું? જાણો ક્યારે થશે ફાધર ઓફ ઓલ ડીલ્સ",
+    "desc": "આવતા અઠવાડિયે વોશિંગ્ટનની તેમની નિર્ધારિત મુલાકાત પહેલા, વિદેશ મંત્રી એસ. જયશંકરે ગુરુવારે યુએસ એમ્બેસેડર સર્જિયો ગોર સાથે વેપાર, મહત્વપૂર્ણ ખનિજો અને સંરક્ષણ સહિત દ્વિપક્ષીય સંબંધોના મુખ્ય પાસાઓ પર ચર્ચા કરી છે. તેઓ યુએસ સેક્રેટરી ઓફ સ્ટેટ માર્કો રુબિયો સાથે પણ દ્વિપક્ષીય બેઠક કરે તેવી અપેક્ષા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/us-india-relations-deteriorated-due-to-russian-oil-what-did-the-government-say-know-when-the-father-of-all-deals-will-happen-463553 ",
+    "time": "2026-02-01T05:12:58.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ઈરાન નહીં વેનેઝુએલાથી તેલ ખરીદશે ભારત.... ડોનાલ્ડ ટ્રમ્પે કરી મોટી જાહેરાત",
+    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ પ્રમાણે ભારત ઈરાન અને રશિયાની જગ્યાએ વેનેઝુએલાથી કાચુ તેલ ખરીદવાની દિશામાં આગળ વધી રહ્યું છે. વૈશ્વિક ઉર્જા વ્યાપારમાં ફેરફાર, પ્રતિબંધો અને ટેરિફ દબાવની વચ્ચે ભારત સસ્તા અને વૈકલ્પિક તેલ સ્ત્રોત શોધી રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/india-buy-venezuelan-oil-instead-of-iran-trump-announcement-463551 ",
+    "time": "2026-02-01T05:04:12.000Z"
+  },
+  {
     "cat": "World",
     "title": "&amp;quot;ઈરાન પર આજે રાત્રે ચોક્કસ હુમલો થશે...&amp;quot; અમેરિકાના ખતરા વચ્ચે ડરનો માહોલ, રાતોની ઊંઘ પણ હરામ",
     "desc": "અમેરિકા ઈરાન પર ગમે ત્યારે હુમલો કરી શકે છે, તેવી આશંકા વ્યક્ત કરવામાં આવી રહી છે. અમેરિકાના હુમલાના ડરથી ઈરાનમાં લોકો ડરના માહોલમાં જીવી રહ્યાં છે. ઈરાનના લોકોને લાગે છે કે ગમે ત્યારે હુમલો થઈ શકે છે.",
@@ -196,15 +259,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/a-9000-km-long-brown-snake-was-found-in-the-atlantic-ocean-wreaking-havoc-from-africa-to-america-463390 ",
     "time": "2026-01-30T13:53:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ચાંદીમાં 85,000 અને સોનામાં 25000નો આજે થયો ઘટાડો, જાણો કેમ ઘટ્યા ભાવ",
-    "desc": "ચાંદી અને સોનાના ભાવમાં તીવ્ર ઘટાડો થયો છે. ચાંદી તેના સર્વકાલીન ઉચ્ચતમ સ્તરથી 85000 રૂપિયાનો ઘટાડો થયો છે, જ્યારે સોનામાં 25000 રૂપિયાથી વધુનો ઘટાડો થયો છે. જાણો સોના અને ચાંદીના ભાવમાં આટલો ઘટાડો કેમ થયો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/suddenly-the-bubble-burst-silver-became-cheaper-by-rs-85000-gold-prices-also-crashed-463376 ",
-    "time": "2026-01-30T13:35:29.000Z"
   },
   {
     "cat": "Business",
@@ -459,24 +513,6 @@ const newsData_gu = [
     "time": "2026-01-28T12:02:28.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "6,6,6,6,6,6,6,6,6...બોલરોની આવી ધોલાઈ ક્યારે નહીં જોઈ હોય, આ સ્ટાર ખેલાડીએ 66 બોલમાં ફટકાર્યા 136 રન",
-    "desc": "ઈંગ્લેન્ડ અને શ્રીલંકા વચ્ચે ચાલી રહેલી 3 મેચોની વનડે સિરીઝની છેલ્લી મેચમાં ઈંગ્લેન્ડના કેપ્ટન હેરી બ્રુકે ધમાકેદાર બેટિંગ કરતા માત્ર 66 બોલમાં 136 રનની અણનમ ઈનિંગ રમી હતી, આ દરમિયાન તેણે છગ્ગાનો વરસાદ કર્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/england-vs-sri-lanka-3rd-odi-harry-brook-smashed-century-463158 ",
-    "time": "2026-01-28T10:48:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ચોથી T20માં આ સ્ટાર ખેલાડી થશે બહાર, શ્રેયસ ઐયરની એન્ટ્રી પાક્કી, જાણો કેવી હશે ભારતની પ્લેઈંગ-11",
-    "desc": "ભારત અને ન્યુઝીલેન્ડ વચ્ચે આજે વિશાખાપટ્ટનમમાં ચોથી T20 મેચ રમાશે. 5 મેચોની સિરીઝમાં ભારતે 3-0થી સિરીઝ પર કબજો કરી લીધો છે, ત્યારે ચોથી મેચમાં આજે ભારતની પ્લેઈંગમાં કેટલાક ફેરફાર જોવા મળી શકે છે. ત્યારે આ લેખમાં જાણીશું કે, પ્લેઈંગ 11માં કોને તક મળી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-4th-t20-team-india-probable-playing-11-shreyas-iyer-axar-patel-hardik-pandya-463145 ",
-    "time": "2026-01-28T08:28:25.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "એક્ટર કરન વાહી આ સુંદર અભિનેત્રી સાથે કરશે લગ્ન, જોરશોરથી શરુ થઈ આ ક્યુટ કપલના અફેરની ચર્ચા",
     "desc": "ટીવીના 2 પોપ્યુલર કલાકારો એકબીજાના ગળાડૂબ પ્રેમમાં છે અને ટુંક સમયમાં લગ્ન કરવાના છે તેવી ચર્ચાઓ જોરશોરથી થી રહી છે. આ કલાકારોમાંથી એક્ટર છે કરન વાહી. ટીવી સ્ટાર કરન વાહીના લગ્નની ચર્ચા તેજ થઈ છે. આ એક્ટર પોતાની સુંદર કો સ્ટારના પ્રેમમાં છે અને તે લગ્ન કરવાના છે તેવી વાત સામે આવી છે.",
@@ -628,15 +664,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/king-release-date-announce-shah-rukh-khan-film-king-releasing-on-24-dec-2026-462796 ",
     "time": "2026-01-24T13:26:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "સની દેઓલની ફિલ્મે તોડ્યો ધુરંધર ફિલ્મનો રેકોર્ડ, પહેલા દિવસે કરી છપ્પરફાડ કમાણી, મેકર્સે શેર કરી જાણકારી",
-    "desc": "વર્ષ 2025 ની બ્લોક બસ્ટર ફિલ્મ ધુરંધરનો રેકોર્ડ સની દેઓલની ફિલ્મ બોર્ડર 2 એ તોડી નાખ્યો છે. બોર્ડર 2 ફિલ્મએ પહેલા દિવસે છપ્પરફાડ કમાણી કરી લીધી છે. બોર્ડર 2 ને ધુરંધર કરતાં પણ વધારે મોટી ઓપનિંગ મળી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/border-2-box-first-office-collection-sunny-deol-broke-dhurandhar-opening-record-462737 ",
-    "time": "2026-01-24T07:13:40.000Z"
   },
   {
     "cat": "Tech",
