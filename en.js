@@ -1,5 +1,95 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Different surfaces, day games in T20 WC are new challenges but we can adapt: NZ captain Santner",
+    "desc": "“I think we’re obviously tested a lot throughout the series. We knew that was going to be the case. We know how good India are, especially their record at home. But for us it was a great series, great prep,” Santner said",
+    "img": "https://th-i.thgim.com/public/incoming/duw4bv/article70580422.ece/alternates/LANDSCAPE_1200/TH31-HENRY-INSTGKSFGTH75.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/different-surfaces-day-games-in-t20-wc-are-new-challenges-but-we-can-adapt-nz-captain-santner/article70580413.ece",
+    "time": "2026-02-01T20:48:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bad Bunny set to make history at Grammys",
+    "desc": "Once a grocery store clerk, Bad Bunny is now on the verge of Grammy glory with six nominations, including a historic nod for Album of the Year with his Spanish-language masterpiece. His electrifying Super Bowl halftime show promises to amplify his influence on a global stage.",
+    "img": "https://static.toiimg.com/photo/msid-127847748,imgsize-51404.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bad-bunny-set-to-make-history-at-grammys-with-album-of-the-year-win/articleshow/127847733.cms",
+    "time": "2026-02-01T20:28:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Govinda said, ‘I would have married Neelam,' after breaking engagement with Sunita",
+    "desc": "Govinda's career success led to complications in his marriage to Sunita, as he fell for co-star Neelam. He nearly ended his engagement with Sunita but ultimately reconciled, keeping their marriage secret for a year. Govinda later admitted to exploiting his relationship with Neelam for professional gain and regretting not being honest about his marital status.",
+    "img": "https://static.toiimg.com/photo/msid-127847738,imgsize-50142.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-govinda-said-i-would-have-married-neelam-after-he-broke-off-his-engagement-with-sunita-she-would-nag-me-and-i-would-lose-my-temper/articleshow/127847731.cms",
+    "time": "2026-02-01T20:21:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Union Budget 2026 falls short of expectations in poll-bound West Bengal",
+    "desc": "West Bengal Chief Minister Mamata Banerjee said that the Budget had nothing to offer to people of the State. The Bharatiya Janata Party (BJP) leadership said that the infrastructure push through rail and freight corridors will push economy of the State.",
+    "img": "https://th-i.thgim.com/public/incoming/eau3sl/article70580379.ece/alternates/LANDSCAPE_1200/80717_1_2_2026_17_18_56_4_010226MAMATABANERJEE4.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/budget-2026-27-falls-short-of-expectations-in-poll-bound-west-bengal/article70579023.ece",
+    "time": "2026-02-01T19:52:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Four people arrested over firing outside Rohit Shetty's house",
+    "desc": "Firing occurred outside filmmaker Rohit Shetty's Mumbai residence, with initial investigations pointing to alleged links with the Lawrence Bishnoi gang. A social media post, claiming Shubham Lonkar's involvement, surfaced hours later, issuing a stark warning to Bollywood. Four individuals, allegedly providing logistical support, were arrested.",
+    "img": "https://static.toiimg.com/photo/msid-127847685,imgsize-25834.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/four-people-arrested-over-firing-outside-rohit-shettys-house-police-officials-find-links-to-lawrence-bishnoi-gang-during-investigation/articleshow/127847662.cms",
+    "time": "2026-02-01T19:51:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mamata Banerjee to meet CEC Gyanesh Kumar",
+    "desc": "The Chief Minister has written six letters to the Chief Election Commissioner Gyanesh Kumar on the issue of SIR over the past few months. In the last letter dated January 31, Ms. Banerjee said that SIR has resulted in as many as 140 deaths and was being carried out in blatant disregard of human rights and humanitarian considerations",
+    "img": "https://th-i.thgim.com/public/incoming/ny4qmd/article70580349.ece/alternates/LANDSCAPE_1200/20260128316L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/mamata-banerjee-to-meet-cec-gyanesh-kumar/article70579660.ece",
+    "time": "2026-02-01T19:48:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India’s defence budget: A case for higher allocation",
+    "desc": "In the context of India’s rapidly evolving security requirements, its defence budget is middling. Our security outlays must be assessed in the context of the resources committed by nations that pose a threat to India, rather than in isolation",
+    "img": "https://th-i.thgim.com/public/news/national/2k9xic/article70580016.ece/alternates/LANDSCAPE_1200/Thomas%20Mathew%20.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/indias-defence-budget-a-case-for-higher-allocation/article70578902.ece",
+    "time": "2026-02-01T19:39:37.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Budget 2026-27 falls short of expectations in poll bound West Bengal",
+    "desc": "West Bengal Chief Minister Mamata Banerjee said that the Budget had nothing to offer to people of the State. The Bharatiya Janata Party (BJP) leadership said that the infrastructure push through rail and freight corridors will push economy of the State.",
+    "img": "https://th-i.thgim.com/public/incoming/eau3sl/article70580379.ece/alternates/LANDSCAPE_1200/80717_1_2_2026_17_18_56_4_010226MAMATABANERJEE4.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/budget-2026-27-falls-short-of-expectations-in-poll-bound-west-bengal/article70579023.ece",
+    "time": "2026-02-01T19:22:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Srinagar youth provide brave new voice amid silence, despair: Mehbooba Mufti",
+    "desc": "Scores of girls also attended the PDP initiative and highlighted the issues the new generation was facing when it comes to employment and political aspirations. The meeting was held in the old city’s Babademb area.",
+    "img": "https://th-i.thgim.com/public/incoming/491jkj/article70580354.ece/alternates/LANDSCAPE_1200/21th-peerzada-JGP7FB96QV.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/srinagar-youth-providebrave-new-voice-amid-silence-despair-mehbooba-mufti/article70579244.ece",
+    "time": "2026-02-01T18:47:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Govt bars T20 World Cup clash",
+    "desc": "Pakistan government has announced that their cricket team will not play India in the group stage contest of the T20 World Cup. The government did allow the team to travel to Sri Lanka for their matches. A look at the sequence of events that led to this decision.",
+    "img": "https://static.toiimg.com/photo/msid-127846775,imgsize-52688.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistan-to-boycott-india-at-t20-world-cup-how-the-events-unfolded-a-complete-timeline/articleshow/127846775.cms",
+    "time": "2026-02-01T18:31:54.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Budget 2026 moots several proposals to rejuvenate indigenous shipping",
     "desc": "In today’s speech, the Finance Minister spoke about the government’s aim to develop inland and coastal shipping so that its share in total cargo carried through road, rail and water increases from 6% to 12%",
@@ -630,24 +720,6 @@ const newsData_en = [
     "time": "2026-02-01T10:18:44.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Twisted OTT movies u can't miss",
-    "desc": "Step into an electrifying realm of suspense with must-see new titles! Experience the chilling neo-noir intrigue of 'Reptile' on Netflix, alongside the psychological labyrinths of 'I'm Thinking of Ending Things' and 'Freddy.' These films guarantee to keep you on the edge of your seat.",
-    "img": "https://static.toiimg.com/photo/msid-127838595,imgsize-53652.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/twisted-ott-movies-u-cant-miss-reptile-andhadhun-and-more/articleshow/127838595.cms",
-    "time": "2026-02-01T09:50:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Iceamoureux shares what inspired his style and music",
-    "desc": "Los Angeles artist Iceamoureux revealed his musical awakening, sparked by Lil Wayne's 'Lollipop' after initial piano disinterest. He emphasizes learning from the best, influencing his style from hair to attire. Iceamoureux also praises K-pop for its innovative approach, believing it enhances global music by offering fresh perspectives and styles to the Western music scene.",
-    "img": "https://static.toiimg.com/photo/msid-127838515,imgsize-16608.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/rising-singer-songwriter-iceamoureux-shares-what-inspired-his-style-and-music/articleshow/127838515.cms",
-    "time": "2026-02-01T09:45:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'A pattern has developed': Ex-India cricketer questions Samson's batting method",
     "desc": "Sanju Samson faced another batting failure in the T20I series against New Zealand. His struggles have become a pattern, with experts pointing to technical issues. Samson's position in the team is uncertain. Ishan Kishan's century further highlights Samson's difficult run. India is preparing for their World Cup opener.",
@@ -664,15 +736,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rohit-shetty-salman-khan-rakesh-roshan-bollywood-celebs-who-faced-gunshot-incidents/photostory/127838209.cms",
     "time": "2026-02-01T09:24:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Matthew Lillard shares thoughts on upcoming ‘Scooby-Doo’ remake",
-    "desc": "Matthew Lillard, beloved for his role as Shaggy, is buzzing with enthusiasm over the new live-action 'Scooby-Doo' series. He sees the franchise as a pivotal bridge to the spooky world for many children and envisions its revival as a chance to instill valuable lessons about camaraderie, collaboration, and creative problem-solving—all while honoring the lovable spirit of the original tales.",
-    "img": "https://static.toiimg.com/photo/msid-127837848,imgsize-16736.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/scream-7-star-matthew-lillard-says-scooby-doo-needs-to-come-back-shares-what-he-hopes-from-upcoming-series/articleshow/127837848.cms",
-    "time": "2026-02-01T09:06:51.000Z"
   },
   {
     "cat": "Politics",
@@ -700,24 +763,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/pakistan-deflecting-attention-from-internal-failings-india-rejects-baseless-claims-on-balochistan-attacks/articleshow/127837240.cms",
     "time": "2026-02-01T08:29:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "MCC adds 49 Hamdard postgraduate seats to round III after Supreme Court order",
-    "desc": "The Medical Counselling Committee added 49 postgraduate medical seats from HIMSR to the Round III seat matrix following Supreme Court directions. This allows students nationwide to compete for these seats via All India Quota counselling, ensuring no academic year is lost due to affiliation delays.",
-    "img": "https://static.toiimg.com/photo/msid-127836736,imgsize-820136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mcc-adds-49-hamdard-postgraduate-seats-to-round-iii-after-supreme-court-order/articleshow/127836690.cms",
-    "time": "2026-02-01T07:56:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nirmala announces Khelo India Mission",
-    "desc": "Finance Minister Nirmala Sitharaman announced a new Khelo India mission to transform India's sports sector over the next decade. This initiative will focus on an integrated talent development framework, including training centers, coach development, sports science integration, and infrastructure enhancement. The mission aims to nurture grassroots talent and bolster India's global sporting ambitions.",
-    "img": "https://static.toiimg.com/photo/msid-127836255,imgsize-45014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/budget-2026-nirmala-sitharaman-announces-khelo-india-mission-to-develop-coaches-training-centres/articleshow/127836141.cms",
-    "time": "2026-02-01T07:26:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/tennis/australian-open-2026-tennis-championship-mens-semifinal/article70569640.ece",
     "time": "2026-01-30T17:20:43.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Sri Lanka to stick to IMF path despite cyclone setback",
-    "desc": "In the wake of the cyclone, over 70 civil society groups and activists across Sri Lanka called for the renegotiation of the IMF deal, accusing the Dissanayake government of becoming a ‘prisoner’ of the ongoing IMF programme",
-    "img": "https://th-i.thgim.com/public/incoming/nxs4li/article70571803.ece/alternates/LANDSCAPE_1200/AFP_87ZM6A7.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/sri-lanka-to-stick-to-imf-path-despite-cyclone-setback/article70570111.ece",
-    "time": "2026-01-30T17:14:24.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "China's coast guard patrolled Japan-held islands almost daily last year as tensions flare",
-    "desc": "The most recent confrontation in the area came ​last month, when China said it had expelled an “illegal” Japanese fishing vessel ⁠from the waters around the islands, while Japan said it had intercepted and expelled two Chinese coast guard ships that were approaching the vessel.",
-    "img": "https://th-i.thgim.com/public/incoming/8okz3j/article70571602.ece/alternates/LANDSCAPE_1200/2026-01-27T012138Z_1857680126_RC2BRGAJNSAJ_RTRMADP_3_CHINA-JAPAN-ISLANDS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/chinas-coast-guard-patrolled-japan-held-islands-almost-daily-last-year-as-tensions-flare/article70571585.ece",
-    "time": "2026-01-30T16:03:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. changes leadership of Gaza mission amid uncertainty over role",
-    "desc": "The top military officer ‌at the Civil-Military Command Centre, a three-star lieutenant general, ​is expected to be replaced by a U.S. commander of a lower rank, while the top civilian has returned to his job as U.S. Ambassador to Yemen",
-    "img": "https://th-i.thgim.com/public/incoming/xqzrte/article70571416.ece/alternates/LANDSCAPE_1200/AFP_93LT7K3.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-changes-leadership-of-gaza-mission-amid-uncertainty-over-role/article70571374.ece",
-    "time": "2026-01-30T15:31:57.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran FM Araghchi says no meetings planned with U.S.",
-    "desc": "No meeting plan has been set between us and the Americans. We are ready for fair and just negotiations, but preparations are needed, both in terms of the form and subject of the discussions and the venue, says Iran's Foreign Minister Abbas Araghchi",
-    "img": "https://th-i.thgim.com/public/incoming/mmeb7k/article70570517.ece/alternates/LANDSCAPE_1200/Lebanon_Iran_64478.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-fm-araghchi-says-no-meetings-planned-with-us/article70570470.ece",
-    "time": "2026-01-30T13:09:37.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Gaza’s Rafah crossing with Egypt to reopen on February 1, Israel says",
-    "desc": "\"The return of residents from Egypt to the Gaza Strip will ​be permitted, in coordination ⁠with Egypt, for residents who left Gaza during the course of the war ​only, and ⁠only after prior security clearance by Israel,\" says COGAT",
-    "img": "https://th-i.thgim.com/public/incoming/8dfa7h/article70570282.ece/alternates/LANDSCAPE_1200/2026-01-29T111510Z_2038581319_RC2WAJA2XTBL_RTRMADP_3_ISRAEL-PALESTINIANS-EGYPT-RAFAH.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/gazas-rafah-crossing-with-egypt-to-reopen/article70570192.ece",
-    "time": "2026-01-30T12:31:35.000Z"
   }
 ];

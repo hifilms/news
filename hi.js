@@ -46,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "India confirm qualification for U19 World Cup semifinals as Pakistan fail to meet requisite scenario",
+    "title": "India confirm qualification for U19 World Cup semifinals, hand Pakistan drubbing in Bulawayo",
     "desc": "India have booked their ticket for the U19 World Cup 2026 semifinals as Pakistan failed to meet the qualification scenario in their crucial Super Six clash at the Queens Sports Club, Bulawayo on Sunday, February 1....",
     "img": "",
     "src": "indiatvnews.com",
