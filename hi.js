@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Where to watch U19 World Cup 2026 clash on TV and streaming in India?",
+    "desc": "The stage is set for one of the most highly anticipated clashes of the ongoing U19 World Cup 2026. India U19 is all set to take on Pakistan U19 in the 36th game of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-live-where-to-watch-u19-world-cup-2026-clash-on-tv-and-streaming-in-india-2026-02-01-1028360",
+    "time": "2026-02-01T01:42:32.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "What is career Grand Slam in tennis as Carlos Alcaraz bids to create history at Australian Open? Check here",
     "desc": "Spain superstar Carlos Alcaraz faces Serb icon Novak Djokovic in the final of the Australian Open 2026 with eyes set on the Rod Laver Arena for the final battle of the Grand Slam on Sunday,...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/first-time-in-80-years-jammu-and-kashmir-set-new-benchmark-in-modern-first-class-cricket-2026-01-31-1028327",
     "time": "2026-01-31T15:02:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ishan Kishan becomes 2nd Indian cricketer to register major milestone with century vs New Zealand",
-    "desc": "Ishan Kishan wreaked havoc in the fifth T20I against New Zealand at the Greenfield International Stadium in Thiruvananthapuram. The Bihar-born keeper-batter played a scintillating innings, reaching his century in just 42 balls. After a cautious...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-becomes-2nd-indian-cricketer-to-register-major-milestone-with-century-vs-new-zealand-2026-01-31-1028325",
-    "time": "2026-01-31T14:52:08.000Z"
   }
 ];

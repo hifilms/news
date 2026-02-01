@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "বাজেটে কী আশা করছেন সাধারণ মধ্যবিত্তরা? থাকবে কী কী চমক?",
+    "desc": "১ ফেব্রুয়ারি পেশ হতে চলেছে কেন্দ্রীয় বাজেট। টানা নয় বার বাজেট পেশ করতে চলেছেন কেন্দ্রীয় অর্থমন্ত্রী নির্মলা সীতারমণ। এবারের বাজেটে ঘটতে চলেছে এক অভূতপূর্ব ঘটনা। এই প্রথম কোনও রবিবার পেশ হতে চলেছে ভারতের কেন্দ্রীয় বাজেট। আর এই বাজেটেই নজর সাধারণের। মধ্যবিত্তদের বাজেট নিয়ে প্রত্যাশা কতটা? এবারের বাজেটেও কি বিশেষ কোনও উপহার দেবে কেন্দ্রীয় সরকার? বাজেটে কি আশা করছেন সাধারণ মধ্যবিত্তরা?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Arjuun-Neogi-83-2026-02-09cd036eb6ead7e8cd84036d81c3414a-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/business/union-budget-2026-what-are-the-expectations-from-the-middle-class-from-budget-2026-have-a-look-arn-2521089.html",
+    "time": "2026-01-31T22:17:25.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "কোনও দিন বাবার পদবি নিইনি, কাউকে বিয়ে করিনি...মনের গোপন কুঠুরির ঝাঁপি উজাড় করলেন টাবু",
     "desc": "টাবু এমন একটি পরিবার থেকে এসেছেন যেখানে শৈল্পিক ধারার মানুষদের বংশধরদের সংখ্যা অনেক বেশি। তার বড় বোন ফরাহ ১৯৮০-এর দশকে চলচ্চিত্রে অভিনয় করেছিলেন এবং তিনি শাবানা আজমির আত্মীয়ও। তবুও, তিনি নিজেই স্বীকার করেছেন যে টাবু তার শৈশবকালে স্পটলাইট থেকে অনেক দূরে ছিলেন।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/vande-bharat-sleeper-menu-what-a-lavish-feast-do-you-know-whats-on-the-menu-of-the-howrah-kamakhya-vande-bharat-sleeper-train-the-list-will-surprise-you-for-sure-sanj-2506701.html",
     "time": "2026-01-22T02:09:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বিজেপি-র সর্বভারতীয় সভাপতি হয়েই বাংলায় আসছেন নীতিন নবীন! দেখুন ভিডিও",
-    "desc": "বিজেপি-র সর্বভারতীয় সভাপতি হিসেবে দায়িত্ব নিয়েই বাংলায় আসছেন নীতিন নবীন৷ আগামী ২৭ এবং ২৮ জানুয়ারি রাজ্য সফরে আসছেন নীতিন নবীন৷ রাজ্য সফরে শুরু করে প্রথমে ভোটমুখী বাংলাতেই আসছেন বিজেপি-র নতুন সর্বভারতীয় সভাপতি৷ বাংলায় এসে নির্বাচনের প্রস্তুতি এবং রণকৌশল নিয়ে রাজ্য নেতৃত্বের সঙ্গে তিনি আলোচনায় বসবেন৷ এর পর বর্ধমান-দুর্গাপুরে একটি জনসভাও করবেন তিনি৷ সর্বভারতীয় সভাপতি হিসেবে সেটিই হবে নীতিন নবীনের প্রথম জনসভা৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/Nitin-Nabin-2025-12-88038d811de661c25594d55630cac4af-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/nitin-nabin-to-hold-first-rally-as-bjp-national-president-in-burdwan-durgapur-dmg-2507821.html",
-    "time": "2026-01-21T16:12:20.000Z"
   }
 ];
