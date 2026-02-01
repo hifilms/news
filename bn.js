@@ -1,5 +1,50 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "ধেয়ে আসছে ভয়াল 'বম্ব সাইক্লোন'! ধ্বংস আর মৃত্য়ুর আতঙ্কে থরথর করে কাঁপছে গোটা পূর্ব উপকূল...",
+    "desc": "আমেরিকার পূর্ব উপকূল এক ভয়ংকর প্রাকৃতিক দুর্যোগের অপেক্ষা করছে। নাম 'বম্ব সাইক্লোন'। এক সিভিয়ার উইন্টার স্টর্মে আক্রান্ত হবে ক্যারোলিনা থেকে নিউ ইংল্যান্ড পর্যন্ত এলাকা! হারিকেনের মতো ঝোড়ো হাওয়া বইবে, প্রচণ্ড তুষারপাত হবে, ভয়ংকর ঠান্ডা পড়বে! আর কী কী ঘটবে?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/bomb-cyclone-what-is-bomb-cyclone-us-east-coast-life-threatening-conditions-coastal-flooding-widespread-power-outages_638729.html ",
+    "time": "2026-02-01T12:36:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "T-20 World Cup 2026 : চার দিন পর শুরু বিশ্বকাপ! ভারতীয় দলে বড় পরিবর্তন, টিম ইন্ডিয়ার প্লেয়িং ইলেভেন দেখে নিন সবার আগে",
+    "desc": "ফেব্রুয়ারি থেকে শুরু হবে টি২০ বিশ্বকাপ ২০২৬। তার জন্য টিম ইন্ডিয়া পুরোপুরি প্রস্তুত। নিউজিল্যান্ডের বিরুদ্ধে পাঁচ ম্যাচের টি-টোয়েন্টি সিরিজের মাধ্যমেই সেই ১১ জন খেলোয়াড় প্রায় নিশ্চিত হয়ে গিয়েছেন, যাঁদের নিয়ে অধিনায়ক সূর্যকুমার যাদব শিরোপা ধরে রাখার মিশনে নামবেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/12/Indian-Cricket-Team-2025-12-5da06c85555b43434e119770e582f78e-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/sports/t20-world-cup-2026-team-india-best-playing-11-here-it-is-smj-2522060.html",
+    "time": "2026-02-01T12:28:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "শিলিগুড়ি থেকে বারাণসী পর্যন্ত হাইস্পিড রেল করিডর! কী কী পেল বাংলা?",
+    "desc": "সামনেই রাজ্যে বিধানসভা নির্বাচন, সেই ভোটের আগে শেষ বাজেট, তাই বাংলা কী পাবে তার দিকে নজর ছিল। দিনের শেষে বাংলা পাচ্ছে হাইস্পিড রেল করিডর, ফ্রেট করিডর, ইন্ডাস্ট্রিয়াল করিডর।রবিবারের বাজেটে দেশ জুড়ে সাতটি হাইস্পিড রেল করিডর তৈরির ঘোষণা করলেন দেশের অর্থমন্ত্রী নির্মলা সীতারমণ। এর মধ্যে একটি হল বারাণসী থেকে শিলিগুড়ি পর্যন্ত। শিলিগুড়ির চিকেন নেক গোটা দেশের নিরাপত্তার জন্য খুবই গুরুত্বপূর্ণ, তার উপরে সামনেই নির্বাচন, সেই আবহে এই ঘোষণা তাৎপর্যপূর্ণ বলে মনে করা হচ্ছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Budget-2026-02-5ebc0372973dd112376a660fed025e31-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/business/nirmala-sitharaman-unveils-varanasi-siliguri-high-speed-rail-corridor-in-budget-rmj-ws-l-2522091.html",
+    "time": "2026-02-01T12:28:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাজেটের দিন বাজার খুলতেই পতন, কী বলছেন বিশেষজ্ঞরা?",
+    "desc": "২০২৬-’২৭ অর্থবর্ষের বাজেট পেশ করলেন কেন্দ্রীয় অর্থমন্ত্রী নির্মলা সীতারমণ। জানালেন সরাসরি ভারতীয় শেয়ার বাজার থেকে শেয়ার কিনতে পারবেন বিদেশিরা! তবে প্রত্যাশা পূরণ হল না। উল্টে বেড়ে গেল ফিউচার অ্যান্ড অপশনে STT ট্যাক্স। ০.১ শতাংশ থেকে ০.১৫ শতাংশে নিয়ে যাওয়া হল STT ট্যাক্স। রীতিমতো বাজারে ধস। ক্র্যাশ করল সেনসেক্স এবং নিফটি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-01-at-3.56.56-PM-2026-02-89bcd07c1667d9552308ce8754bcabe1.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/business/union-budget-2026-markets-trade-in-red-as-sensex-drops-after-announcement-pbd-2522061.html",
+    "time": "2026-02-01T11:34:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "কেন্দ্রের বাজেটে দাম কমল কোন কোন জিনিসের? দাম বাড়লই বা কীসের?",
+    "desc": "Union Budget 2026 LIVE | বাজেটে ২০২৬-২৭ পেশ করলেন অর্থমন্ত্রী নির্মলা সীতারমন। তাঁর বাজেট ভাষণে বেশ কিছু বড় ঘোষণা করেন। বেশ কয়েকটি পণ্যের উপর শুল্ক হ্রাসের ঘোষণা করেছেন অর্থমন্ত্রী। যার অর্থ সেগুলি সবই সস্তা হয়ে যাবে। তবে কাস্টমস শুল্ক বেড়েছে। এর ফলে কাস্টমসে যা যা আসে তার দাম বাড়তে পারে। জেনে নিন, বাজেটের পর কী সস্তা, কী হচ্ছে দামি?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Budget-11-2026-02-07e138658524a54d1244d95eccbb514d-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/business/union-budget-2026-prices-drop-for-which-items-and-what-gets-costlier-full-list-dc-2521934.html",
+    "time": "2026-02-01T10:23:39.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "স্টেজে গান গাইতে গিয়ে অর্কদীপকে ছোড়া হল জুতো! প্রতিবাদের নতুন 'ভাষা' তুলে ধরলেন সারেগামাপা জয়ী গায়ক",
     "desc": "অনুষ্ঠান করতে গিয়ে অর্কদীপের সঙ্গে ঘটে গেল বিপত্তি৷ স্টেজে গান গাইবার সময় তাঁকে উদ্দেশ্য করে জুতো ছুড়ে মারা হয়৷ একজন দর্শকের এই আচরণে হকচকিয়ে যান গায়ক ও তাঁর টিম৷ গান থামিয়ে দেন তাঁরা৷ কেন এমন হল, সেই প্রশ্ন উঠল!",
@@ -307,15 +352,6 @@ const newsData_bn = [
   },
   {
     "cat": "Politics",
-    "title": "Identify Ajit Pawar's Body: বীভৎস ভাবে পুড়ে যাওয়া দলা-পাকানো দেহ! আগুনধোঁয়ার ধ্বংসস্তূপের মধ্যেও অজিত পওয়ারকে চিনিয়ে দিল এই ছোট্ট জিনিসটি...",
-    "desc": "একটি চার্টার্ড বিমানে মুম্বই থেকে বারামতিতে যাচ্ছিলেন অজিত পাওয়ার। বুধবার সকাল পৌনে ৯টা নাগাদ বারামতি বিমানবন্দরের কাছে অবতরণের সময় বিমানটি ভেঙে পড়ে, আগুন ধরে যায়। মারা যান মহারাষ্ট্রের ডেপুটি সিএম অজিত পওয়ার। নিজের গড়ে একাধিক জনসভা ছিল তাঁর, কিন্তু জনসভায় আর যোগ দেওয়া হল না তাঁর। অবতরণের আগেই আগুন ধরে যায় বিমানে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/identify-ajit-pawars-body-wristwatch-sitting-position-help-cops-identify-ajits-body-baramati-plane-crash-ajit-pawar-plane-crash-ajit-pawar-dies-in-plane-crash_638113.html ",
-    "time": "2026-01-29T08:17:26.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "শেষ মূহুর্তে কী হয়েছিল? জানতে ভরসা সেই ককপিট ভয়েস রেকর্ডার",
     "desc": "অজিত পওয়ারের বিমান দুর্ঘটনার ২৪ ঘণ্টা পেরিয়ে গিয়েছে। এর মধ্যে দুর্ঘটনার আগে একাধিক প্রান্ত থেকে চার্টাড বিমানটির ভিডিও ভাইরাল হয়েছে। মাটিতে আছড়ে পড়ার আগে, বিমানটি যেভাবে নেমে আসছিল, তা নিয়ে পাইলটদের মধ্যেও নানা প্রশ্ন উঠেছে।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/01/TV_5732039_baramati_flight_accident_1.jpg",
@@ -403,15 +439,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/arijit-singh-and-many-other-singers-who-faced-rejection-on-reality-shows-but-dominated-the-music-industry-rc-2516798.html",
     "time": "2026-01-28T14:51:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "কাকা শরদের সঙ্গে মিটিয়েছিলেন দূরত্ব! কে এই সুনেত্রা পওয়ার? অজিত পাওয়ারের উত্তরাধিকারী কি তিনিই?",
-    "desc": "শরদ পওয়ারের ভাইপো হিসেবে রাজনীতির হাতেখড়ি হলেও অজিত পওয়ার নিজের স্বতন্ত্র পরিচয় তৈরি করেছিলেন। তাঁর স্ত্রী সুনেত্রা পওয়ার বর্তমানে রাজ্যসভার সাংসদ। সাম্প্রতিক অতীতে শরদ পওয়ারের সঙ্গে অজিত পওয়ারের দূরত্ব বাড়লে সেই দূরত্ব কমানোর কারিগর সুনেত্রা, এমনটাই বিশিষ্ট মহলের দাবি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/ajit-pawar-death-family-tree-wife-sunetra-pawar-sons_638013.html ",
-    "time": "2026-01-28T14:07:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/this-bollywood-actress-had-hide-marriage-with-businessman-because-she-was-afraid-of-losing-her-career-rds-2508090.html",
     "time": "2026-01-22T05:26:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘অনিন্দিতা সব জানত...’, হিরণের দ্বিতীয় স্ত্রী হৃতিকা এমনটা বলার পর এবার তাঁকে কী বার্তা অনিন্দিতার?",
-    "desc": "অনিন্দিতার অভিযোগ, ইনস্টাগ্রামে প্রকাশিত বিয়ে সংক্রান্ত বিষয়কে কেন্দ্র করেই এই মামলা। তাঁর দাবি, হিরণ ও হৃতিকা নিজেরাই বিয়ের কথা স্বীকার করেছেন, যা আইনত অবৈধ। ডিভোর্সের কোনও নোটিস তাঁকে পাঠানো হয়নি এবং আইনজীবীর পাঠানো নোটিসেও বিবাহবিচ্ছেদের উল্লেখ নেই বলে অভিযোগ।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Ritika-Giri-and-Hiraan-Marriage-2026-01-3c3e5b2f91e01c061ac0bb0a71e073bb-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/hiran-chatterjee-first-wife-anindita-chatterjee-message-to-his-second-wife-ritika-giri-ss-2508059.html",
-    "time": "2026-01-22T05:13:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "কোণঠাসা বাংলাদেশ ! ক্রিকেটারদের অস্তিত্বের সঙ্কট, টি টোয়েন্টি বিশ্বকাপ নিয়ে সিদ্ধান্ত জানাবে BCB",
-    "desc": "টি-টোয়েন্টি বিশ্বকাপে কোণঠাসা বাংলাদেশ। আইসিসির সভায় বুধবার ভোটাভুটিতে হেরে গিয়েছে তারা। বিশ্ব ক্রিকেটের নিয়ামক সংস্থা জানিয়ে দিয়েছে, ভারতেই বিশ্বকাপ খেলতে হবে বাংলাদেশকে। এক দিন সময় দেওয়া হয়েছে তাদের। অর্থাৎ, আজ, বৃহস্পতিবারই সিদ্ধান্ত জানাতে হবে। কী সিদ্ধান্ত নেবে বাংলাদেশ?",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangladesh-Cricket-ICC-T20-World-Cup-2026-01-ec5eca9a6477beeb0b747bde65e745a3-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/bangladesh-cricket-participation-icc-t20-world-cup-bcb-team-venue-updates-latest-news-ss-2507950.html",
-    "time": "2026-01-22T03:31:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "SIP বন্ধ করছেন ? বড় ভুল করছেন না তো ? এসআইপি বন্ধ করার সঠিক সময় জেনে নিন",
-    "desc": "বেশিরভাগ বিনিয়োগকারী দীর্ঘমেয়াদি লক্ষ্য নিয়ে SIP শুরু করেন, কিন্তু বাজারের ওঠানামা বা ব্যক্তিগত আর্থিক চাপে মাঝপথেই বন্ধ করে দেন। কিন্তু SIP বন্ধ করা কি সবসময় ভুল? জেনে নিন SIP বন্ধ করার সঠিক সময় ও সঠিক সিদ্ধান্ত।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/SIP-109-2026-01-2eb90d67c9a4a3d14f4774db11bdae62-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/sip-stopped-are-you-making-a-big-mistake-know-the-right-time-to-stop-sip-dc-2507953.html",
-    "time": "2026-01-22T03:21:02.000Z"
   }
 ];

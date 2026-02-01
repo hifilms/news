@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "પૂર્વ RAW એજન્ટનો ચોકાવનારો ખુલાસો ! ભારતના દરવાજા પર ખતરનાક ખેલ, નેપાળના પોખરા એયરપોર્ટ પર પહોંચ્યું રહસ્યમય જેટ !",
+    "desc": "નેપાળની ચૂંટણી પહેલા, ભારતીય સંશોધન અને વિશ્લેષણ વિંગ (RAW)ના ભૂતપૂર્વ એજન્ટ અને રાષ્ટ્રીય સુરક્ષા ગાર્ડ (NSG) કમાન્ડો લક્ષ્મણ ઉર્ફે લકી બિષ્ટનો એક વીડિયો વાયરલ થયો છે, જેનાથી સનસનાટી મચી ગઈ છે. સોશિયલ મીડિયા પર વાયરલ થઈ રહેલા લકી બિષ્ટના વીડિયો અનુસાર, નેપાળમાં 5 માર્ચ, 2026ના રોજ યોજાનારી સામાન્ય ચૂંટણીઓ પહેલા એક ઘટના સામે આવી છે, જે દક્ષિણ એશિયાની સુરક્ષા અને રાજકારણ પર પ્રશ્નો ઉભા કરે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/former-raw-agent-shocking-revelation-dangerous-game-at-indias-doorstep-jet-lands-at-pokhara-airport-in-nepal-463628 ",
+    "time": "2026-02-01T11:37:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "બંગાળ, અસમ, તમિલનાડુ, કેરલ...આ પાંચ રાજ્યોમાં ચૂંટણી પહેલા મોદી સરકારે બજેટમાં આપી મોટી ભેટ",
+    "desc": "મોદી સરકારના ત્રીજા કાર્યકાળનું ત્રીજું સામાન્ય બજેટ એવા સમયે આવ્યું છે જ્યારે દેશના 5 રાજ્યોમાં વિધાનસભા ચૂંટણીને કારણે રાજકીય વાતાવરણ ગરમાયું છે. નાણામંત્રી બજેટ દ્વારા બંગાળથી લઈને કેરળ અને તમિલનાડુ સુધીના રાજ્યોને આકર્ષવાનો પ્રયાસ કરતા જોવા મળ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/what-did-bengal-assam-tamil-nadu-kerala-these-five-election-bound-states-get-in-the-modi-governments-budget-463627 ",
+    "time": "2026-02-01T11:27:34.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ગર્લ્સ હોસ્ટેલથી લઈને ‘SHE Marts’ સુધી... મહિલાઓ માટે નાણામંત્રીના પિટારામાંથી શું નીકળ્યું?",
+    "desc": "નાણામંત્રી નિર્મલા સીતારમણે બજેટ 2026-27માં મહિલાઓ માટે ઘણી મહત્વપૂર્ણ યોજનાઓની જાહેરાત કરી છે. આ બજેટમાં લખપતિ દીદી યોજનાનો વિસ્તાર SHE Marts સાથે જોડીને કરવામાં આવ્યો છે, STEM જિલ્લાઓમાં ગર્લ્સ હોસ્ટેલનું નિર્માણ અને મહિલાઓ માટે ઇનોવેટિવ ફાઇનાન્સિંગ ટૂલ્સ જેમ કે She-Mark બેજનો સમાવેશ થાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/budget-2026-women-benefits-girls-hostels-she-marts-lakhpati-didi-463625 ",
+    "time": "2026-02-01T11:10:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વૈભવ સૂર્યવંશીએ આ શું કર્યું...બે જીવનદાન છતાં સસ્તામાં આપી દીધી વિકેટ",
+    "desc": "અંડર-19 વર્લ્ડ કપ 2026ના સુપર સિક્સ તબક્કામાં ભારત કટ્ટર હરીફ પાકિસ્તાન આમને સામને છે. બુલાવાયોના ક્વીન્સ સ્પોર્ટ્સ ક્લબ સ્ટેડિયમમાં રમાઈ રહેલી આ મેચમાં વૈભવ સૂર્યવંશી મોટી ઇનિંગ્સ રમશે તેવી અપેક્ષા હતી, પરંતુ તે નિષ્ફળ ગયો, બે જીવનદાન મળ્યા છતાં તે મોટી ઈનિંગ ના રમી શક્યો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/u19-world-cup-ind-vs-pak-vaibhav-suryavanshi-flop-wicket-after-two-lifelines-463624 ",
+    "time": "2026-02-01T10:58:10.000Z"
+  },
+  {
     "cat": "Business",
     "title": "બજેટમાં ખેડૂતોને શું મળ્યું ? જાણો કૃષિ ક્ષેત્રે સરકારે શું કરી જાહેરાત",
     "desc": "નાણામંત્રી નિર્મલા સીતારમણ નવમી વખત બજેટ રજૂ કર્યું. તેમણે દેશના ખેડૂતો માટે મોટી જાહેરાત કરી છે. તેમના બજેટ ભાષણમાં તેમણે નાના અને સીમાંત ખેડૂતો પર ખાસ ધ્યાન આપવાની વાત કરી. નાણામંત્રીએ ઉત્પાદકતા વધારવા માટે નાળિયેર ઉત્પાદન યોજનાની જાહેરાત કરી હતી.",
@@ -133,15 +169,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/ott-releases-february-2026-upcoming-hindi-web-series-and-films-on-ott-february-2026-463483 ",
     "time": "2026-01-31T13:05:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સિગારેટ અને પાન-મસાલાના શોખીનોને લાગશે મોટો ઝટકો, 1 ફેબ્રુઆરીથી બદલાશે આ 3 નિયમો !",
-    "desc": "પહેલી તારીખથી મોટા ભાગે નિયમોમાં ફેરફાર થાય છે, ત્યારે ગેસના ભાવ પણ પહેલી તારીખે ઓઈલ કંપનીઓ જાહેર કરતી હોય છે, જો કે હાલમાં પહેલી તારીખે બજેટ પણ છે, ત્યારે જાણો કે 1લી ફેબ્રુઆરીથી કયા નિયમોમાં ફેરફાર થવા જઈ રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/cigarette-and-pan-masala-enthusiasts-will-face-a-big-setback-these-3-rules-will-change-from-february-1-463482 ",
-    "time": "2026-01-31T13:04:44.000Z"
   },
   {
     "cat": "Politics",
@@ -367,15 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/virat-kohli-returns-to-instagram-ending-panic-among-274-million-followers-463325 ",
     "time": "2026-01-30T04:10:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "જો હમણા લોકસભા ચૂંટણી યોજાય તો ભાજપને કેટલી સીટો મળે? ચોંકાવનારો છે આંકડો",
-    "desc": "દેશ દુનિયામાં અનેક એવી ઘટનાઓ જોવા મળી રહી છે જેની અસર દેશના સામાન્ય લોકો ઉપર પણ જોવા મળી રહી છે. ત્યારે જો હાલ લોકસભા ચૂંટણી થાય તો શું પરિસ્થિતિ રહે? એનડીએને કેટલી સીટો મળે અને ભાજપની સીટો વધે કે ઘટે? ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/cvoter-survey-survey-findings-if-lok-sabha-election-happened-today-how-many-seats-bjp-can-get-463323 ",
-    "time": "2026-01-30T03:50:14.000Z"
   },
   {
     "cat": "Entertainment",
@@ -691,14 +709,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/good-news-for-parents-youll-get-complete-control-over-your-childrens-whatsapp-activity-462637 ",
     "time": "2026-01-23T08:15:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ટ્રેનમાં મોબાઈલ ચોરાઈ જાય તો શું કરવું? સરકારની આ એપ આવશે ખુબ જ કામ, જાણી લો વિગતો",
-    "desc": "ટ્રેનમાં મુસાફરી દરમિયાન મોબાઈલ ખોવાઈ ગયો? હવે ગભરાવાની જરૂર નથી. સરકારની Sanchar Saathi એપથી મિનિટોમાં ફોન બ્લોક કરો અને ચોર માટે ફોનને સાવ નકામો બનાવી દો, સાથે જ તમારા ડેટા અને પૈસાને પણ સુરક્ષિત રાખો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/what-should-you-do-if-your-mobile-phone-is-stolen-in-the-train-this-government-app-will-work-know-the-details-462626 ",
-    "time": "2026-01-23T07:09:23.000Z"
   }
 ];

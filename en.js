@@ -1,6 +1,330 @@
 const newsData_en = [
   {
     "cat": "Business",
+    "title": "Union Budget 2026 falls short of attractive announcements for poll-bound Tamil Nadu",
+    "desc": "Some of the demands put forth by Tamil Nadu included approvals for the Coimbatore and Madurai Metro Rail projects, funds due to the State under Samagra Shiksha Abhiyan and ‘Jal Jeevan Mission’ and sanctioning of intra-State railway projects.",
+    "img": "https://th-i.thgim.com/public/incoming/a59lpw/article70578441.ece/alternates/LANDSCAPE_1200/06_RVM_7257.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/union-budget-2026-falls-short-of-attractive-announcements-for-poll-bound-tamil-nadu/article70578185.ece",
+    "time": "2026-02-01T12:38:01.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Union Budget 2026-27",
+    "desc": "“The Budget is totally disappointing. It has ignored the State’s interests, and there are no schemes for the welfare of the poor, women, farmers, and those on the margins of society,” he said in a statement",
+    "img": "https://th-i.thgim.com/public/incoming/etlket/article70578410.ece/alternates/LANDSCAPE_1200/Updated_T.N.-CMGAEFH3KKO.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/union-budget-2026-even-on-poll-eve-budget-has-disappointed-tamil-nadu-cm-stalin/article70578315.ece",
+    "time": "2026-02-01T12:36:38.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Kerala is a fort against religious polarisation, says N. Ram",
+    "desc": "In his keynote address during the inauguration of ‘Kerala for All’ conclave, N. Ram says inclusive and accessible tourism should be treated as a right of all tourists and not something that is given as charity or as a special privilege",
+    "img": "https://th-i.thgim.com/public/incoming/l1ggoh/article70578428.ece/alternates/LANDSCAPE_1200/10018_1_2_2026_17_52_6_3_KERALA_FOR_ALL_15.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-for-all-conclave-kerala-is-a-fort-against-religious-polarisation-says-n-ram/article70577062.ece",
+    "time": "2026-02-01T12:29:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "A Budget that underscores credibility and invests for competitiveness",
+    "desc": "With focus on fiscal prudence and improving ease of living citizens, the Budget announcements will help secure strategic materials through the Rare Earth Corridors, bringing in logistics reform of inland waterways, and give a fillip to MSMEs",
+    "img": "https://th-i.thgim.com/public/news/national/7s7spz/article70578145.ece/alternates/LANDSCAPE_1200/SP%202.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/union-budget-viewpoint-story-from-subhrakant-panda-managing-director-imfa-and-a-former-president-of-ficci/article70578123.ece",
+    "time": "2026-02-01T12:24:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RANJI TROPHY",
+    "desc": "CRICKET | The visitor romps home past Goa by nine wickets with pacer Nidheesh’ ninth First Class five-for the cornerstone; the host avoids an innings defeat thanks to a resolute fifty from Misal and 60-run stand with Tendulkar for the ninth wicket",
+    "img": "https://th-i.thgim.com/public/incoming/cs51y8/article70578334.ece/alternates/LANDSCAPE_1200/DSC_6315.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-kerala-finishes-its-disappointing-season-on-a-winning-note/article70578320.ece",
+    "time": "2026-02-01T12:17:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Molly Ringwald says John Hughes’ films cannot be remade",
+    "desc": "Molly Ringwald asserts that John Hughes' legendary films, including 'The Breakfast Club,' are inherently irreplaceable, as the visionary director never intended for them to be remade. However, she encourages filmmakers to create fresh narratives that embody Hughes' essence, exploring modern-day youth challenges and viewpoints that resonate with today's audience.",
+    "img": "https://static.toiimg.com/photo/msid-127841173,imgsize-54318.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-breakfast-club-star-molly-ringwald-refuses-idea-of-a-remake-says-john-hughes-didnt-want-the-films-to-be-remade/articleshow/127841173.cms",
+    "time": "2026-02-01T12:14:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Soaps, detergents, umbrellas likely to turn expensive; customs processes to be simplified",
+    "desc": "For better use of capacities of manufacturing units in Special Economic Zones that are hit by global trade disruptions, there will be a one time measure of concessional duty to facilitate sales to sell in the Domestic Tariff Area limited to a prescribed proportion of their exports",
+    "img": "https://th-i.thgim.com/public/incoming/l0qywq/article70578189.ece/alternates/LANDSCAPE_1200/iStock-1744740033.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/budget-2026soaps-detergents-umbrellas-likely-to-turn-expensive-customs-processes-to-be-simplified/article70578064.ece",
+    "time": "2026-02-01T12:03:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Health outlay raised 10%, government plans 5 regional medical hubs, boost for AHPs",
+    "desc": "Finance Minister Nirmala Sitharaman unveiled a significant boost for healthcare in the Union Budget, announcing five new regional medical hubs and a Rs 1,000 crore allocation for Allied Healthcare Professionals. The budget also prioritizes geriatric care, training 1.5 lakh caregivers, and increases funding for key programs like the National Health Mission and Ayushman Bharat.",
+    "img": "https://static.toiimg.com/photo/msid-127840863,imgsize-1249715.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-health-outlay-raised-10-government-plans-5-regional-medical-hubs-boost-for-ahps/articleshow/127840847.cms",
+    "time": "2026-02-01T11:54:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "16th Finance Commission report tabled",
+    "desc": "The Centre’s decision to retain States’ share in the common pool of taxes at 41% for 2026–31 has sparked criticism from opposition leaders. Finance Minister Nirmala Sitharaman tabled the Sixteenth Finance Commission report in the Lok Sabha on February 1, 2026, setting the framework for tax devolution between the Centre and States. Several States, including Karnataka and Kerala, had sought a higher 50% share, citing rising fiscal responsibilities.",
+    "img": "https://th-i.thgim.com/public/incoming/6a9cc9/article70578219.ece/alternates/LANDSCAPE_1200/finance%20commission.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-16th-finance-commission-report-tabled-union-budget-2026/article70578180.ece",
+    "time": "2026-02-01T11:48:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Past has got no meaning': Former India captain sends strong warning ahead of World Cup",
+    "desc": "India enters the T20 World Cup 2026 as strong favorites to defend their title on home soil. Former captain Sourav Ganguly believes the team's current balance and depth across batting and bowling make them formidable contenders. He stressed the importance of peaking at the right time during the tournament, a sentiment echoed by India's dominant recent T20I form.",
+    "img": "https://static.toiimg.com/photo/msid-127840707,imgsize-211824.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/past-has-got-no-meaning-former-india-captain-sends-strong-warning-ahead-of-world-cup/articleshow/127840731.cms",
+    "time": "2026-02-01T11:47:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ajay's funny birthday message for Jackie wins over fans",
+    "desc": "Jackie Shroff celebrated his birthday with love from fans and friends. Ajay Devgn shared a playful throwback photo, wishing him humorously on Instagram. Jackie, who rose to fame with Hero after Swami Dada, continues to charm audiences. Meanwhile, Luv Ranjan is producing Ranger, starring Ajay Devgn, Sanjay Dutt, and Tamannaah Bhatia.",
+    "img": "https://static.toiimg.com/photo/msid-127840578,imgsize-27048.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ajay-devgns-funny-birthday-message-for-jackie-shroff-wins-over-fans-cake-seedha-hi-kaatna/articleshow/127840578.cms",
+    "time": "2026-02-01T11:42:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi hails Union Budget 2026–27 as ‘historic’; Capital expenditure rises to Rs 12.2 lakh crore &amp; more",
+    "desc": "Prime Minister Modi lauded the Union Budget 2026-27 as \"historic,\" outlining a roadmap for a Viksit Bharat by 2047 and boosting India's reform agenda. The budget, presented by Finance Minister Sitharaman, prioritizes infrastructure and manufacturing with increased capital expenditure, while opposition parties criticized it as lacking substance and ignoring key national crises.",
+    "img": "https://static.toiimg.com/photo/msid-127840400,imgsize-1050187.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-pm-modi-hails-union-budget-202627-as-historic-capital-expenditure-rises-to-rs-12-2-lakh-crore-more/articleshow/127840422.cms",
+    "time": "2026-02-01T11:40:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "High-level committee on Banking to be set up for India's next phase of growth",
+    "desc": "\"I propose setting up a 'High Level Committee on Banking for Viksit Bharat'\", to comprehensively review the sector and align it with India's next phase of growth, while safeguarding financial stability, inclusion and consumer protection,\" she said, in her 90-minute-long Budget speech.",
+    "img": "https://static.toiimg.com/photo/msid-127840601,imgsize-29792.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-high-level-committee-on-banking-to-be-set-up-for-indias-next-phase-of-growth/articleshow/127840465.cms",
+    "time": "2026-02-01T11:33:48.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Reopening of Gaza's Rafah crossing expected Monday, officials say",
+    "desc": "Israel has said the crossing would open under stringent security checks only for Palestinians who wish to leave the war-ravaged enclave and for those who fled the fighting in the first months of the war to return.",
+    "img": "https://th-i.thgim.com/public/incoming/lk7dq7/article70578057.ece/alternates/LANDSCAPE_1200/Egypt_Mideast_Wars_Gaza_36058.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/reopening-of-gazas-rafah-crossing-expected-monday-officials-say/article70578002.ece",
+    "time": "2026-02-01T11:31:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Damage to Bidar’s karez water system after unauthorised alteration raises alarm",
+    "desc": "The Naubad–Aliyabad karez, believed to have been built in the 15th century by the Bahmani Sultanate, is an ancient underground water-harvesting system. Conservationists point out that the system holds strong potential for nomination as a UNESCO World Heritage site if conserved scientifically.",
+    "img": "https://th-i.thgim.com/public/incoming/tir9xp/article70577894.ece/alternates/LANDSCAPE_1200/10258_19_1_2026_18_32_25_1_KAREZ_1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/heritage-in-peril-concerns-raised-over-damage-to-bidars-karez-water-system/article70525536.ece",
+    "time": "2026-02-01T11:21:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What is Securities Transaction Tax &amp; what does it mean for F&amp;O traders and investors",
+    "desc": "Starting April 1, 2026, India will see increased Securities Transaction Tax (STT) on futures and options trading. The Finance Minister announced higher rates for options premium, exercise, and futures, aiming to moderate speculative activity. This change, part of Budget 2026, will slightly raise trading costs for derivatives participants, while equity and mutual fund STT rates remain untouched.",
+    "img": "https://static.toiimg.com/photo/msid-127840251,imgsize-1246296.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/stt-hike-after-budget-2026-what-is-securities-transaction-tax-what-does-it-mean-for-fo-traders-and-investors/articleshow/127839884.cms",
+    "time": "2026-02-01T11:21:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "FM outlines NBFCs vision, targets credit and tech; PFC, REC to be restructured",
+    "desc": "Union finance minister Nirmala Sitharaman unveiled the government's Viksit Bharat vision for Non-Banking Financial Companies, setting clear targets for credit expansion and technology adoption. Key public sector NBFCs like Power Finance Corporation and Rural Electrification Corporation will be restructured to boost efficiency. This initiative, alongside a banking sector review, aims to strengthen India's financial system for sustained reform-led growth.",
+    "img": "https://static.toiimg.com/photo/msid-127840117,imgsize-688327.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-nirmala-sitharaman-outlines-viksit-bharat-roadmap-for-nbfcs-flags-restructuring-of-pfc-and-rec/articleshow/127839928.cms",
+    "time": "2026-02-01T11:16:04.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israel to terminate MSF work in Gaza for failing to provide Palestinian staff list",
+    "desc": "Doctors Without Borders (MSF) said that they were unable to build engagement with Israeli authorities on the concrete assurances required, including that any staff information would be used only for its stated administrative purpose and would not put colleagues at risk",
+    "img": "https://th-i.thgim.com/public/incoming/wg6aea/article70577995.ece/alternates/LANDSCAPE_1200/2025-12-30T214154Z_884156768_RC2MTDAOW059_RTRMADP_3_ISRAEL-PALESTINIANS-AID.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/israel-to-terminate-msf-work-in-gaza-for-failing-to-provide-palestinian-staff-list/article70577949.ece",
+    "time": "2026-02-01T11:08:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "STT hike in F&O intended to discourage speculative trade, handle systemic risk in derivatives: Revenue Secretary",
+    "desc": "The Budget has proposed an increase in the STT on futures contracts to 0.05% from 0.025%. STT on options premium and exercise of options are proposed to be raised to 0.15% from the present rate of 0.1% and 0.125%, respectively",
+    "img": "https://th-i.thgim.com/public/incoming/et41vl/article70577936.ece/alternates/LANDSCAPE_1200/IMG_ias_2_1_U9E91R8S.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/stt-hike-in-fo-intended-to-discourage-speculative-trade-handle-systemic-risk-in-derivatives-revenue-secretary/article70577861.ece",
+    "time": "2026-02-01T10:48:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Usman Tariq hits back on social media after Green's 'chucking' gesture sparks debate",
+    "desc": "Pakistan spinner Usman Tariq responded to controversy surrounding his bowling action after dismissing Australia's Cameron Green. Green's on-field gesture was interpreted as questioning Tariq's legality, prompting a social media retort from the spinner. Tariq's action has faced scrutiny before, but he has been cleared in past assessments.",
+    "img": "https://static.toiimg.com/photo/msid-127839653,imgsize-169352.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/usman-tariq-hits-back-on-social-media-after-cameron-greens-chucking-gesture-sparks-debate/articleshow/127839658.cms",
+    "time": "2026-02-01T10:48:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kim Seon Ho suspected of evading tax with paper company",
+    "desc": "Kim Seon Ho, the popular actor, is under scrutiny for allegedly evading taxes through a one-person company believed to have been established in 2024 with his family's participation. This incident mirrors the recent controversy surrounding ASTRO's Cha Eunwoo regarding similar tax evasion allegations.",
+    "img": "https://static.toiimg.com/photo/msid-127839615,imgsize-59640.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/kim-seon-ho-under-fire-after-tax-evasion-allegations-situation-compared-to-cha-eunwoo/articleshow/127839615.cms",
+    "time": "2026-02-01T10:46:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kalpana Iyer says she’s ‘open to work’ after viral ‘Rambo Ho’ video",
+    "desc": "Actress Kalpana Iyer, 70, is eager to return to acting after her iconic 'Rambo Ho' dance went viral following its feature in 'Dhurandhar'. She expressed gratitude to director Aditya Dhar for reviving her song and hopes the renewed attention will lead to age-appropriate roles, even brief ones. Iyer, who last appeared on screen in 1999, is now 'open to work'.",
+    "img": "https://static.toiimg.com/photo/msid-127839497,imgsize-25662.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramba-ho-star-kalpana-iyer-is-open-to-work-says-she-is-grateful-for-aditya-dhar-and-dhurandhar/articleshow/127839497.cms",
+    "time": "2026-02-01T10:42:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Which income tax regime should you choose for FY 2026-27? Tax rates, slabs explained",
+    "desc": "Union Budget 2026 maintains the existing income tax framework, with the new regime offering tax-free income up to Rs 12 lakh for individuals. While the old regime continues with its deductions, the new system has been progressively liberalized since 2020, making it increasingly attractive for middle-income taxpayers.",
+    "img": "https://static.toiimg.com/photo/msid-127839191,imgsize-33070.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/new-tax-regime-vs-old-tax-regime-after-budget-2026-income-tax-slabs-and-rates-comparison-explained-which-tax-regime-is-better-for-middle-class-salaried-taxpayers/articleshow/127838105.cms",
+    "time": "2026-02-01T10:40:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Defence, education, railways, income tax &amp; more: 10 big announcements in Union Budget 2026",
+    "desc": "Finance minister Nirmala Sitharaman presented the Union Budget 2026-27, her ninth consecutive, with major announcements across defence, railways, income tax, and healthcare. Prime Minister Modi hailed it as \"historic\" and a \"high flight toward Viksit Bharat.\" Key proposals include a significant defence allocation, seven high-speed rail corridors, a simplified Income Tax Act, and support for rare-earth mineral development.",
+    "img": "https://static.toiimg.com/photo/msid-127839281,imgsize-833089.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/defence-education-railways-income-tax-more-10-big-announcements-in-union-budget-2026/articleshow/127839259.cms",
+    "time": "2026-02-01T10:34:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Border 2' box office day 10 (LIVE)",
+    "desc": "'Border 2' continues its strong run in theaters, nearing Rs 262.45 crore after its third week. Despite expected weekday drops, the film saw a solid second weekend. Meanwhile, Rani Mukerji's 'Mardaani' opened to Rs 4 crore, showing promising growth on its second day, indicating audience interest.",
+    "img": "https://static.toiimg.com/photo/msid-127839232,imgsize-72978.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-day-10-live-the-sunny-deol-varun-dhawan-ahan-shetty-film-sees-growth-on-weekend-has-an-edge-over-rani-mukerjis-mardaani-3/articleshow/127839115.cms",
+    "time": "2026-02-01T10:23:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Blind to India’s real crises': Rahul Gandhi hits out at Centre after Union Budget",
+    "desc": "Rahul Gandhi and Mallikarjun Kharge have strongly criticized the Union Budget 2026-27, labeling it as out of touch with India's critical issues. They argue the budget ignores widespread unemployment, economic distress among citizens, and farmers' struggles, while failing to offer concrete solutions or a clear policy vision for the nation's challenges.",
+    "img": "https://static.toiimg.com/photo/msid-127839184,imgsize-351062.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/blind-to-indias-real-crises-rahul-gandhi-hits-out-at-centre-after-union-budget/articleshow/127839179.cms",
+    "time": "2026-02-01T10:20:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kartik wraps Mumbai schedule, gears up for Delhi shoot of Naagzilla",
+    "desc": "Kartik Aaryan has wrapped up the Mumbai schedule of Karan Johar’s 'Naagzilla' and will begin a three-week Delhi shoot soon. Directed by Mrighdeep Singh Lamba, 70% of the film is complete. Kartik plays an Ichchadhari Naag named Preyamvadeshwar Pyare Chand. Naagzilla releases on August 14, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-127839193,imgsize-32176.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kartik-aaryan-wraps-mumbai-schedule-gears-up-for-three-week-delhi-shoot-of-naagzilla/articleshow/127839193.cms",
+    "time": "2026-02-01T10:20:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sam-Daniel: 'Knight of the Seven Kingdoms' still feels like 'GOT'",
+    "desc": "Actors Sam Spruell and Daniel Ings discuss their roles in 'A Knight of the Seven Kingdoms,' emphasizing its focus on human experiences and a coming-of-age narrative over dragons and politics. Both actors highlight their commitment to George R.R. Martin's original text, finding clarity and honoring his writing spirit.",
+    "img": "https://static.toiimg.com/photo/msid-127839163,imgsize-60504.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sam-spruell-and-daniel-ings-on-a-knight-of-the-seven-kingdoms-it-still-feels-like-game-of-thrones-just-sweeter-exclusive/articleshow/127839138.cms",
+    "time": "2026-02-01T10:18:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Govt eases compliance for NRIs in property and investments—explained",
+    "desc": "The Union Budget 2026-27 brings significant relief for NRIs and overseas investors. Property transactions for non-residents will see simplified TDS compliance, with buyers no longer needing a TAN. Additionally, a new route allows direct equity investments in India for overseas individuals, raising investment caps and easing market access.",
+    "img": "https://static.toiimg.com/photo/msid-127838992,imgsize-556583.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-govt-eases-compliance-for-nris-in-property-and-investmentsexplained/articleshow/127838958.cms",
+    "time": "2026-02-01T10:07:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Union Budget 2026-27 is growth-oriented, says CII-Southern Region deputy chairman",
+    "desc": "There has been a focus on infrastructure for the past three to four years and some of the announcements made in the Union Budget, such as the high-speed railway corridor, freight corridor, and waterways, among others, would boost connectivity, P. Ravichandran said",
+    "img": "https://th-i.thgim.com/public/incoming/k3ohd3/article70577716.ece/alternates/LANDSCAPE_1200/iStock-1458513303.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/union-budget-2026-is-growth-oriented-says-cii-southern-region-deputy-chairman/article70577604.ece",
+    "time": "2026-02-01T10:00:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Twisted OTT movies u can't miss",
+    "desc": "Step into an electrifying realm of suspense with must-see new titles! Experience the chilling neo-noir intrigue of 'Reptile' on Netflix, alongside the psychological labyrinths of 'I'm Thinking of Ending Things' and 'Freddy.' These films guarantee to keep you on the edge of your seat.",
+    "img": "https://static.toiimg.com/photo/msid-127838595,imgsize-53652.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/twisted-ott-movies-u-cant-miss-reptile-andhadhun-and-more/articleshow/127838595.cms",
+    "time": "2026-02-01T09:50:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Space Budget Rises For 2026-27: Capital outlay climbs for new missions; industry role expands",
+    "desc": "India's space program receives a significant boost with a Rs 13,705.6 crore allocation for 2026-27, a jump driven by increased capital expenditure. This funding signals a strong push towards developing new launch vehicles, satellite infrastructure, and ambitious exploration missions, including those tied to the Gaganyaan roadmap.",
+    "img": "https://static.toiimg.com/photo/msid-127838660,imgsize-674587.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-space-department-allocation-rises-to-rs-13706-crore-capital-spend-gains-pace/articleshow/127838489.cms",
+    "time": "2026-02-01T09:50:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Iceamoureux shares what inspired his style and music",
+    "desc": "Los Angeles artist Iceamoureux revealed his musical awakening, sparked by Lil Wayne's 'Lollipop' after initial piano disinterest. He emphasizes learning from the best, influencing his style from hair to attire. Iceamoureux also praises K-pop for its innovative approach, believing it enhances global music by offering fresh perspectives and styles to the Western music scene.",
+    "img": "https://static.toiimg.com/photo/msid-127838515,imgsize-16608.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/rising-singer-songwriter-iceamoureux-shares-what-inspired-his-style-and-music/articleshow/127838515.cms",
+    "time": "2026-02-01T09:45:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'A pattern has developed': Ex-India cricketer questions Samson's batting method",
+    "desc": "Sanju Samson faced another batting failure in the T20I series against New Zealand. His struggles have become a pattern, with experts pointing to technical issues. Samson's position in the team is uncertain. Ishan Kishan's century further highlights Samson's difficult run. India is preparing for their World Cup opener.",
+    "img": "https://static.toiimg.com/photo/msid-127838333,imgsize-119132.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/a-pattern-has-developed-former-india-cricketer-questions-sanju-samsons-batting-method/articleshow/127838358.cms",
+    "time": "2026-02-01T09:37:01.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rs 95,692.31cr allocated for VB-G RAM G, Jal Jeevan Mission outlay raised to Rs 67,670cr",
+    "desc": "The Centre is launching the Viksit Bharat–Guarantee for Rozgar Aajeevika Mission (Grameen) with a Rs 95,692.31 crore allocation, replacing the MGNREGA which sees a reduced earmark of Rs 30,000 crore. Significant increases are also noted for PMAY-G and PMGSY, alongside allocations for JJM and DAY-NRLM.",
+    "img": "https://static.toiimg.com/photo/msid-127838225,imgsize-861294.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-rs-95692-31cr-allocated-for-vb-g-ram-g-jal-jeevan-mission-outlay-raised-to-rs-67670cr/articleshow/127838192.cms",
+    "time": "2026-02-01T09:26:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bollywood celebs who faced gunshot incidents",
+    "desc": "red carpets, flashing lights, all that. But sometimes, things get messy when the cameras stop rolling. Over the years, a few Bollywood stars have found themselves in the middle of real-life gunfire. Some were just accidents, like a slip of the hand at home. Others were way more serious, with shootings tied to the underworld or rivalries that spilled into violence right outside studio gates.Not every story ends in tragedy, though. Some actors bounced back, stronger and maybe a little more cautious. Others barely escaped and found themselves suddenly at the center of a media frenzy. Let's look at some gun shot incident that shook Bollywood over the years.",
+    "img": "https://static.toiimg.com/photo/msid-127838209,imgsize-46980.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rohit-shetty-salman-khan-rakesh-roshan-bollywood-celebs-who-faced-gunshot-incidents/photostory/127838209.cms",
+    "time": "2026-02-01T09:24:04.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "How NDA parties, opposition reacted",
     "desc": "Finance Minister Nirmala Sitharaman presented the Union Budget 2026-27, increasing capital expenditure to Rs 12.2 lakh crore. The Rs 53.5 lakh crore budget received mixed reactions, with the BJP hailing it as growth-oriented, while the Congress termed it \"disappointing\" and lacking specifics for common citizens.",
     "img": "https://static.toiimg.com/photo/msid-127837947,imgsize-1062698.cms",
@@ -153,15 +477,6 @@ const newsData_en = [
     "time": "2026-02-01T07:56:42.000Z"
   },
   {
-    "cat": "Business",
-    "title": "A look at Nirmala Sitharaman’s longest and shortest Budget speeches",
-    "desc": "Nirmala Sitharaman delivered her ninth consecutive Union Budget speech, lasting 1 hour and 25 minutes, outlining the fiscal roadmap for 2026-27. This presentation marks her record-breaking six years and eight months as Finance Minister in continuous office. Prime Minister Modi hailed the event as a proud parliamentary tradition.",
-    "img": "https://static.toiimg.com/photo/msid-127836404,imgsize-44238.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-a-look-at-nirmala-sitharamans-longest-and-shortest-budget-speeches/articleshow/127836343.cms",
-    "time": "2026-02-01T07:53:13.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Princess Love amends protective order against Ray J",
     "desc": "In a surprising turn of events, Princess Love has revised a protective order concerning her estranged spouse, Ray J, now permitting him to have boundless access to their children. This decision comes swiftly following Ray J's alarming health update, as he faces a daunting challenge with his heart operating at a mere 25% due to pneumonia.",
@@ -169,33 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/princess-love-and-ray-j-loves-protective-order-against-former-partner-amended-following-health-update-report/articleshow/127836542.cms",
     "time": "2026-02-01T07:49:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Govt waives customs duty on cancer and rare disease drugs — key health sector updates",
-    "desc": "Finance minister Nirmala Sitharaman presented her ninth consecutive Union Budget—becoming the first finance minister in India to achieve this milestone—and also the first to present a Union Budget on a Sunday. The Economic Survey tabled ahead of the Budget had projected India’s economic growth at 6.8–7.2 per cent in FY27, providing the broader macroeconomic context for social sector spending.",
-    "img": "https://static.toiimg.com/photo/msid-127836520,imgsize-1008742.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-govt-waives-customs-duty-on-cancer-and-rare-disease-drugs-key-health-sector-updates/articleshow/127836448.cms",
-    "time": "2026-02-01T07:47:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "7 most memorable Grammy moments to rewind before the 2026 awards",
-    "desc": "The Grammys aren’t just another awards show. They’re a full-blown spectacle. Every year, it’s more than just music; there’s drama, chaos, history in the making, and those jaw-dropping surprises you just never see coming. It’s all packed into one wild night. With the 2026 Grammys coming up on February 1, it feels right to rewind and relive the moments that made this night legendary.Since 1959, the Grammys have thrown us everything from shocking wins to performances that leave your jaw on the floor. Some speeches still get people choked up. Off-the-wall collaborations? Plenty. And there are wins people still argue about years later. These stories stick around way after the last note fades.So before the stars fill up Crypto.com Arena in LA, let’s jump into seven Grammy moments nobody forgets.",
-    "img": "https://static.toiimg.com/photo/msid-127836531,imgsize-71138.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/7-most-memorable-grammy-moments-to-rewind-before-the-2026-awards/photostory/127836531.cms",
-    "time": "2026-02-01T07:44:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What are the income tax slabs, rates under new &amp; old tax regime after Budget 2026? Check details",
-    "desc": "Taxpayers will continue to pay income tax as per the ongoing income tax slabs that are currency effective for FY 2025-2026. The income tax slabs under the new income tax regime underwent a major overhaul in last year’s Budget and hence this year the expectation was low of the FM bringing any changes.",
-    "img": "https://static.toiimg.com/photo/msid-127836150,imgsize-60850.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/new-income-tax-slab-changes-budget-2026-new-tax-regime-latest-income-tax-slabs-rates-under-new-income-tax-regime-2026-27-standard-deduction-personal-taxation-after-budget-2026-full-details-faqs-answered/articleshow/127836073.cms",
-    "time": "2026-02-01T07:27:11.000Z"
   },
   {
     "cat": "Sports",
@@ -207,42 +495,6 @@ const newsData_en = [
     "time": "2026-02-01T07:26:06.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Grammy 2026 Panel Debates AI’s Growing Role in Music",
-    "desc": "During Grammy Week 2026, an Instagram panel featuring Miles Minnick, Sierra Hull, will.i.am, and Harvey Mason Jr. explored AI's impact on music. The artists shared concerns about authenticity and the need for responsible AI integration, emphasizing the preservation of human artistry amidst technological advancements.",
-    "img": "https://static.toiimg.com/photo/msid-127836196,imgsize-9381210.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/grammy-2026-panel-miles-minnick-will-i-am-sierra-hull-and-harvey-mason-jr-discuss-ais-growing-role-in-music-and-songwriting/articleshow/127836211.cms",
-    "time": "2026-02-01T07:23:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Big push to ‘future ready’ infra, FM hikes capex by 9%",
-    "desc": "Union finance minister Nirmala Sitharaman announced a nearly 9 per cent increase in capital expenditure to Rs 12.2 lakh crore for FY 2026-27, prioritizing infrastructure-led growth. The budget also introduces a risk guarantee fund to boost private participation and outlines initiatives for transport, logistics, and manufacturing to support future economic expansion.",
-    "img": "https://static.toiimg.com/photo/msid-127835953,imgsize-863569.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-big-push-to-future-ready-infra-fm-hikes-capex-by-9/articleshow/127835921.cms",
-    "time": "2026-02-01T07:08:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shah Rukh Khan’s character in ‘Jailer 2’ revealed",
-    "desc": "Shah Rukh Khan is reportedly joining Rajinikanth’s 'Jailer 2', directed by Nelson Dilipkumar. Mithun Chakraborty confirmed SRK’s special role as Rajinikanth’s close friend. Vijay Sethupathi also shared he’ll make a cameo out of respect for the superstar. The film promises exciting celebrity cameos, adding to the buzz around the much-awaited sequel.",
-    "img": "https://static.toiimg.com/photo/msid-127835947,imgsize-31024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-character-in-jailer-2-revealed-badshah-of-bollywood-to-play-a-friend-to-rajinikanth-report/articleshow/127835947.cms",
-    "time": "2026-02-01T07:07:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Top announcements made by FM Sitharaman",
-    "desc": "Finance Minister Nirmala Sitharaman unveiled the Union Budget 2026. New rules simplify tax filing and reduce burdens. Key changes include extended deadlines for revised returns and staggered filing dates. Tax Collected at Source rates for education, medical purposes, and overseas tours are reduced. Small taxpayers get easier tax deductions. Awards from the Motor Accident Claims Tribunal are now tax-exempt.",
-    "img": "https://static.toiimg.com/photo/msid-127835365,imgsize-962098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-income-tax-top-announcements-made-by-fm-sitharaman-check-list/articleshow/127835392.cms",
-    "time": "2026-02-01T07:06:45.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Sunetra Pawar: From social work to Maharashtra Deputy CM",
     "desc": "Sunetra Pawar, former Rajya Sabha MP and social activist from Baramati, has been named Maharashtra’s Deputy Chief Minister following Ajit Pawar’s death. Her rise reflects both her family’s political legacy and her growing influence within the NCP and Maharashtra politics.",
@@ -252,87 +504,6 @@ const newsData_en = [
     "time": "2026-02-01T06:49:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Dakota Fanning and Chris Evans' 2009 hit 'Push' exits free streaming",
-    "desc": "Dakota Fanning's 2009 psychic thriller 'Push' is leaving Tubi on January 31, 2026, prompting fans to seek it on library-based platforms. The film, starring Fanning and a pre-Captain America Chris Evans, features a tense chase involving superhumans and a drug that fuels a psychic war. Its departure coincides with the stars' current career highs.",
-    "img": "https://static.toiimg.com/photo/msid-127835308,imgsize-833187.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/dakota-fanning-and-chris-evans-2009-hit-push-exits-free-streaming/articleshow/127835312.cms",
-    "time": "2026-02-01T06:42:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inside Darth Vader’s fortress and its dark legacy",
-    "desc": "Darth Vader's imposing castle on Mustafar, built on a dark side nexus, served as a focal point for his grief and ambition. From attempting to resurrect Padmé to hunting Obi-Wan and facing betrayal, the fortress witnessed pivotal, often tragic, moments in his tormented saga, reflecting his fractured soul.",
-    "img": "https://static.toiimg.com/photo/msid-127835221,imgsize-571737.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/darth-vaders-mustafar-fortress-inside-the-dark-side-stronghold-that-shaped-star-wars-lore/articleshow/127835191.cms",
-    "time": "2026-02-01T06:38:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Taylor Swift reflected on love and life through songs",
-    "desc": "Taylor Swift's lyrical artistry navigates the intricate maze of romance and life’s challenges, presenting stories that many can connect with. From the enchantment of destiny in 'Invisible String' to the poignant nostalgia of short-lived love in 'August,' her words linger in the heart.",
-    "img": "https://static.toiimg.com/photo/msid-127835154,imgsize-40808.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/5-times-taylor-swift-reflected-on-love-and-life-through-her-song-lyrics/articleshow/127835049.cms",
-    "time": "2026-02-01T06:36:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Kerala is a fort against religious polarisation, says N. Ram",
-    "desc": "In his keynote address during the inauguration of ‘Kerala for All’ conclave, N. Ram says inclusive and accessible tourism should be treated as a right of all tourists and not something that is given as charity or as a special privilege",
-    "img": "https://th-i.thgim.com/public/incoming/yqg2wj/article70577092.ece/alternates/LANDSCAPE_1200/_DSC1663.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-for-all-conclave-kerala-is-a-fort-against-religious-polarisation-says-n-ram/article70577062.ece",
-    "time": "2026-02-01T06:35:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aditi Rao Hydari talks about Siddharth being a part of her daily routine",
-    "desc": "Aditi Rao Hydari revealed that husband Siddharth is an essential part of her daily self-care, describing him as an \"energy shot\" providing necessary vitamins and fuel. She emphasized that their relationship remains unchanged post their 2024 wedding, with mutual care continuing as before.",
-    "img": "https://static.toiimg.com/photo/msid-127834986,imgsize-19132.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditi-rao-hydari-calls-siddharth-her-energy-shot-admits-nothing-has-changed-between-them-even-after-marriage/articleshow/127834986.cms",
-    "time": "2026-02-01T06:32:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Grammy speeches that made history over the years",
-    "desc": "Grammy speeches offer raw, human moments that resonate deeply. Adele's heartfelt tribute to Beyoncé, Beyoncé's touching dedication to her Uncle Johnny, Kanye West's jubilant breakthrough, and Helen Reddy's powerful feminist statement all highlight art's ability to connect and inspire.",
-    "img": "https://static.toiimg.com/photo/msid-127834993,imgsize-578543.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/from-adele-to-beyonc-grammy-speeches-that-made-history-over-the-years/articleshow/127835005.cms",
-    "time": "2026-02-01T06:30:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "The entertainment industry expects cheaper tax slabs for movie tickets",
-    "desc": "As the weekend approaches, cinema lovers and industry insiders are abuzz with anticipation for Sunday’s budget meeting. There's a hopeful sentiment in the air, as many are looking for further relief on ticket prices. Although GST 2.0 brought some much-needed reductions, the soaring ticket costs still linger under older tax categories.",
-    "img": "https://static.toiimg.com/photo/msid-127833677,imgsize-40918.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sundays-union-budget-session-entertainment-industry-on-the-lookout-to-make-the-moviegoing-experience-cheaper/articleshow/127833677.cms",
-    "time": "2026-02-01T05:54:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "AR Rahman says messages often get distorted along the way",
-    "desc": "AR Rahman recently spoke about how messages often get distorted, saying, “The problem with the world is how messages get corrupted on the way.” He promoted his silent film 'Gandhi Talks' on The Great Indian Kapil Show and also discussed a “power shift” in Bollywood that, he said, affected creative opportunities.",
-    "img": "https://static.toiimg.com/photo/msid-127833972,imgsize-15314.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ar-rahman-says-messages-often-get-distorted-along-the-way-the-problem-with-the-world-is-/articleshow/127833972.cms",
-    "time": "2026-02-01T05:48:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Singeetam Srinivasa Rao directs film at 93",
-    "desc": "At the remarkable age of 93, iconic director Singeetam Srinivasa Rao is making a grand return to the director's chair after a ten-year hiatus. His 61st film, currently known as SSR61, is being produced by the talented Nag Ashwin.",
-    "img": "https://static.toiimg.com/photo/msid-127833855,imgsize-28756.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ssr61-announced-singeetam-srinivasa-rao-makes-film-at-93-legendary-director-returns-after-10-years/articleshow/127833855.cms",
-    "time": "2026-02-01T05:46:17.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Novak Djokovic targets 25th Slam",
     "desc": "Novak Djokovic, at nearly 39, reached a record 38th Grand Slam final by defeating Jannik Sinner, showcasing unparalleled mental fortitude. He saved 16 of 18 break points, demonstrating his toughness. Djokovic now faces Carlos Alcaraz in the Australian Open final, aiming for a historic 25th major title and to become the oldest men's singles champion in the Open Era.",
@@ -340,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/australian-open-final-novak-djokovic-targets-25th-slam-carlos-alcaraz-bids-to-become-youngest-career-slam-winner/articleshow/127833608.cms",
     "time": "2026-02-01T05:36:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Key announcements by FM Nirmala Sitharaman",
-    "desc": "Finance Minister Nirmala Sitharaman presented the Union Budget 2026-27, announcing a Rs 12.2 lakh crore capex target and a fiscal deficit of 4.3%. Key highlights include no changes to income tax slabs, relief for accident compensation recipients, and reduced TCS on overseas tour packages. The new Income Tax Act, 2025, takes effect April 1.",
-    "img": "https://static.toiimg.com/photo/msid-127835273,imgsize-1391780.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-highlights-income-tax-slabs-railway-salaried-middle-class-senior-citizen-stock-market-silver-gold/articleshow/127831217.cms",
-    "time": "2026-02-01T05:32:05.000Z"
   },
   {
     "cat": "Entertainment",
@@ -379,15 +541,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Why have the new UGC regulations been stayed?",
-    "desc": "Why have there been protests? How have the regulations defined caste-based discrimination? Why were new regulations introduced? What was the main thrust of the 2026 regulations on grievance redressal mechanisms as opposed to the 2012 ones?",
-    "img": "https://th-i.thgim.com/public/incoming/bgwuwv/article70575588.ece/alternates/LANDSCAPE_1200/6607_29_1_2026_15_4_41_1_IMG_20260129_145441.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/education/why-have-the-new-ugc-regulations-been-stayed-explained/article70575322.ece",
-    "time": "2026-02-01T03:57:20.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "India’s only Chinatown in Kolkata, fading away",
     "desc": "The Chinese community in Kolkata now has only about 2,000 people, down from about 50,000 in the 1960s. In the SIR process in West Bengal 389 of 484 voters have been categorised as untraceable or absent. For a community that began coming to the city since the 1840s, and has dealt with racism in many forms, the dwindling numbers in the SIR are a reflection of many leaving the country, reports Shrabana Chatterjee",
     "img": "https://th-i.thgim.com/public/incoming/wy7nf3/article70574102.ece/alternates/LANDSCAPE_1200/6744_31_1_2026_17_4_0_2_12_CHINATOWN.JPG",
@@ -412,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/tilak-varma-to-play-warm-ups-before-t20-world-cup-suryakumar-yadav/articleshow/127831660.cms",
     "time": "2026-02-01T03:19:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why is the India-EU trade agreement significant?",
-    "desc": "How much of the trade value of what India exports to the European Union region will the EU’s tariff concessions cover? Which are the sectors besides textiles, apparel, manufactured goods and Indian traditional medicine services that the free trade agreement will help?",
-    "img": "https://th-i.thgim.com/public/incoming/t17atv/article70575590.ece/alternates/LANDSCAPE_1200/PTI01_27_2026_000164B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/why-is-the-india-eu-trade-agreement-significant-explained/article70575287.ece",
-    "time": "2026-02-01T02:47:59.000Z"
   },
   {
     "cat": "Sports",
@@ -468,15 +612,6 @@ const newsData_en = [
     "time": "2026-01-31T23:30:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Indian Coast Guard gears up for 50th Raising Day ceremony",
-    "desc": "Aligned with the vision of ‘Aatmanirbhar Bharat’ and ‘Make in India’, the ICG is steadily moving towards self-reliance through the induction of indigenously-built ships, aircraft, helicopters, and advanced surveillance systems, while simultaneously prioritising infrastructure development and personnel welfare, the ICG said in a statement",
-    "img": "https://th-i.thgim.com/public/incoming/3dpoel/article70575692.ece/alternates/LANDSCAPE_1200/PTI01_31_2026_000573B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/indian-coast-guard-gears-up-for-50th-raising-day-ceremony/article70575370.ece",
-    "time": "2026-01-31T21:39:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Anahat enters semis of Squash on Fire in Washington",
     "desc": "Anahat Singh fought her way back into the contest, overturning a 6-5 deficit in both the third and fourth games, to edge out the Egyptian Sana Ibrahim 8-11 8-11 11-7 11-8 11-7 in the PSA Bronze-level event",
@@ -522,24 +657,6 @@ const newsData_en = [
     "time": "2026-01-31T17:12:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Many promotee IAS officers from Karnataka reluctant to attend induction training at Mussoorie",
-    "desc": "Only one officer is going for ITP, starting on February 2 this year, while the remaining 25 whose names figure in the list have not even submitted requests to the government for permission to attend",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/many-promotee-ias-officers-from-karnataka-reluctant-to-attend-induction-training-at-mussoorie/article70556940.ece",
-    "time": "2026-01-31T16:50:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India's wealthy embrace a new luxury symbol: water",
-    "desc": "Tap water in India not fit for human consumption;India is among the world's fastest growing bottled water markets; Wealthy opt for premium water as wellness craze boosts industry; Tata expanding offerings, hunting for natural water springs; Premium water now accounts for 8% of Indian market",
-    "img": "https://th-i.thgim.com/public/incoming/ftvlcb/article70575368.ece/alternates/LANDSCAPE_1200/2026-01-31T010428Z_29821042_RC2G3HACXXZ6_RTRMADP_3_INDIA-WATER.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/indias-wealthy-embrace-a-new-luxury-symbol-water/article70575347.ece",
-    "time": "2026-01-31T16:36:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Vimal, Pradosh lead Tamil Nadu’s strong reply against Baroda",
     "desc": "The opener makes full use of a flat pitch to notch up 182 in 334 balls; the two left-handed batters add 144 for the second wicket; the home team ends the third day on 411 for seven and takes the first-innings lead",
@@ -568,30 +685,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "SKY surpasses Virat Kohli and Rohit Sharma, becomes fastest to...",
-    "desc": "India captain Suryakumar Yadav became the fastest player to reach 3000 T20I runs in terms of balls faced, achieving the milestone in 1822 deliveries and surpassing Virat Kohli and Rohit Sharma. He scored 63 off 30 balls in the fifth T20I against New Zealand, while Ishan Kishan added an unbeaten 86, helping India post 189/3 in Thiruvananthapuram with an aggressive batting display.",
-    "img": "https://static.toiimg.com/photo/msid-127822370,imgsize-82554.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-suryakumar-yadav-surpasses-virat-kohli-and-rohit-sharma-becomes-fastest-to-/articleshow/127822321.cms",
-    "time": "2026-01-31T14:52:58.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'Oh my god': SKY goes viral after tricking crowd over Samson",
     "desc": "India captain Suryakumar Yadav entertained fans before the fifth T20I against New Zealand by playfully pretending to forget Sanju Samson’s name at the toss in Thiruvananthapuram. He later confirmed Samson’s inclusion, drawing cheers from the crowd. India chose to bat first due to dew concerns. With the series already in India's pocket, the match served as preparation for the upcoming T20 World Cup.",
     "img": "https://static.toiimg.com/photo/msid-127821201,imgsize-32466.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/oh-my-god-india-captain-suryakumar-yadav-goes-viral-after-tricking-crowd-over-sanju-samson-watch/articleshow/127821100.cms",
     "time": "2026-01-31T13:37:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Give me Zimbabwe or I'll retire': Babar Azam falls for 2; triggers criticism",
-    "desc": "Babar Azam's struggles continued in the T20I series against Australia, as he was dismissed for just 2 runs by Adam Zampa in the second match. This low score has sparked debate on social media, with some questioning his place in Pakistan's T20 squad.",
-    "img": "https://static.toiimg.com/photo/msid-127820907,imgsize-30544.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/give-me-zimbabwe-or-ill-retire-babar-azam-falls-for-2-in-t20i-against-australia-triggers-criticism-on-social-media/articleshow/127820866.cms",
-    "time": "2026-01-31T13:22:24.000Z"
   },
   {
     "cat": "Sports",
@@ -603,31 +702,13 @@ const newsData_en = [
     "time": "2026-01-31T11:21:57.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Insult to fans': Pakistan cricket erupts; slams Australia amid T20 WC row",
-    "desc": "Pakistan expresses concern over visiting SENA teams resting key players, following a second-string Australia's T20I loss. Australia's decision to rest several top players for the series, citing recovery and World Cup preparation, has drawn criticism from former Pakistani cricketers and analysts who view it as an insult to their cricket.",
-    "img": "https://static.toiimg.com/photo/msid-127818630,imgsize-52744.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/insult-to-fans-pakistan-cricket-erupts-slams-australia-amid-t20-world-cup-row/articleshow/127818386.cms",
-    "time": "2026-01-31T11:13:14.000Z"
-  },
-  {
-    "cat": "Business",
+    "cat": "World",
     "title": "Senate passes Trump-backed government funding deal, sending to House",
     "desc": "The bill passed 71-29 and will now head to the House, which is not due back until Monday (February 2, 2026). That means the government could be in a partial shutdown temporarily over the weekend until they pass it",
     "img": "https://th-i.thgim.com/public/incoming/lv0cu2/article70573814.ece/alternates/LANDSCAPE_1200/Congress_Budget_13623.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/senate-passes-trump-backed-government-funding-deal-sending-to-house/article70573734.ece",
     "time": "2026-01-31T11:08:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "EU-India FTA to be implemented in 2026 itself, labour intensive sectors to benefit: Piyush Goyal",
-    "desc": "Commerce Minister says India only negotiating FTAs with developed countries, no question of rethink on RCEP; while the EU indicated the FTA sent a political message to the U.S., Mr. Goyal said India’s only message was its growth story",
-    "img": "https://th-i.thgim.com/public/incoming/k7aenx/article70571492.ece/alternates/LANDSCAPE_1200/PIYUSH%20GOYAL%20DELHI%202026_30_01_19.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/eu-india-fta-will-be-implemented-this-year-labour-intensive-sectors-to-benefit-piyush-goyal/article70570649.ece",
-    "time": "2026-01-31T09:17:56.000Z"
   },
   {
     "cat": "World",
@@ -648,7 +729,7 @@ const newsData_en = [
     "time": "2026-01-31T06:36:26.000Z"
   },
   {
-    "cat": "Business",
+    "cat": "World",
     "title": "Adani agrees to receive legal notice in U.S. SEC civil fraud case, to respond in 90 days",
     "desc": "In a Brooklyn federal court filing, the SEC and lawyers for Mr. Gautam and Mr. Sagar Adani stated they would accept service of the regulator’s legal papers, removing the need for a Judge’s ruling on service methods",
     "img": "https://th-i.thgim.com/public/incoming/ee02t4/article68891524.ece/alternates/LANDSCAPE_1200/Adani_Bribery_Indictment_86639.jpg",
@@ -664,15 +745,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-says-iran-wants-deal-us-armada-larger-than-in-venezuela-raid/article70572160.ece",
     "time": "2026-01-31T01:44:52.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "35% of geographies globally, including India, will be locked into Region-Specific AI platforms by 2027: Gartner",
-    "desc": "Nations will require to invest 1% of GDP in AI Sovereignty by 2029. Regulatory pressure, geopolitics, cloud localisation, national AI missions, corporate risks and national security concerns are driving governments and corporations to accelerate investments in sovereign AI, says the tech market analyst firm",
-    "img": "https://th-i.thgim.com/public/incoming/xchnn9/article70570990.ece/alternates/LANDSCAPE_1200/iStock-2210831059.jpg.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/35-of-geographies-globally-including-india-will-be-locked-into-region-specific-ai-platforms-by-2027-gartner/article70570891.ece",
-    "time": "2026-01-31T01:00:50.000Z"
   },
   {
     "cat": "Sports",
@@ -736,15 +808,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-changes-leadership-of-gaza-mission-amid-uncertainty-over-role/article70571374.ece",
     "time": "2026-01-30T15:31:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Ola Electric to lay off 5% of its workforce",
-    "desc": "It may be recalled that in order to cut mounting losses, Ola Electric had let go off over 1,000 people, including contract workers, in March 2025. Prior to that, in November 2024, it reduced some 500 jobs impacting diverse departments",
-    "img": "https://th-i.thgim.com/public/incoming/nl11jm/article70570681.ece/alternates/LANDSCAPE_1200/2025-11-06T054409Z_821678131_RC2W49AZW4BR_RTRMADP_3_OLA-ELECTRIC-RESULTS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/ola-electric-to-lay-off-5-of-its-workforce/article70570552.ece",
-    "time": "2026-01-30T14:48:21.000Z"
   },
   {
     "cat": "World",
@@ -819,15 +882,6 @@ const newsData_en = [
     "time": "2026-01-30T09:29:33.000Z"
   },
   {
-    "cat": "World",
-    "title": "Man arrested for posing as FBI agent to free Luigi Mangione from prison",
-    "desc": "Brooklyn federal prosecutors on Wednesday (January 28, 2026) accused Mark Anderson, 36, of Mankato, Minnesota, of showing up at the Metropolitan Detention Centre and ​telling prison staff that he was an ⁠FBI agent with paperwork signed by a judge authorizing the release of an inmate",
-    "img": "https://th-i.thgim.com/public/incoming/8hqoxu/article70569324.ece/alternates/LANDSCAPE_1200/2026-01-23T150928Z_912556709_RC22JIAGO8TV_RTRMADP_3_UNITEDHEALTH-CEO-MANGIONE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/man-arrested-for-posing-as-fbi-agent-to-free-luigi-mangione-from-prison/article70569301.ece",
-    "time": "2026-01-30T08:15:39.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "25 years in films, and how ‘Dhruva Natchathiram’ became a lesson in management",
     "desc": "This February, Gautham Menon completes 25 years in the industry. The Tamil filmmaker talks about his memorable journey, how music has played a vital role in it and why fans can look forward to ‘Dhruva Natchathiram’ soon",
@@ -844,59 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/children/the-worlds-first-handheld-scientific-calculator/article70541279.ece",
     "time": "2026-01-30T05:21:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Samson — extraordinarily gifted, frustratingly inconsistent",
-    "desc": "He hasn’t had a single score of substance in the ongoing series against the Kiwis; Kishan’s own sustained telling touch, coupled with the Kerala batter’s fumbling returns, have opened up a race that didn’t seem possible even a month back",
-    "img": "https://th-i.thgim.com/public/sport/xd0kw/article70567477.ece/alternates/LANDSCAPE_1200/Samson%20-%20Getty%2030.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/samson-extraordinarily-gifted-frustratingly-inconsistent/article70567390.ece",
-    "time": "2026-01-29T18:34:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "India now has 958 million active internet users; 57% of these are from rural areas",
-    "desc": "Rural regions now account for over 57% of India’s active internet users and are growing at nearly four times the pace of urban India, signalling a structural shift in where and how digital adoption is expanding",
-    "img": "https://th-i.thgim.com/public/newsletter/the-evening-wrap/ih7yuu/article70567105.ece/alternates/LANDSCAPE_1200/iStock-1371958166%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/india-now-has-958-million-active-internet-users-57-of-these-are-from-rural-areas/article70566646.ece",
-    "time": "2026-01-29T16:09:37.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Voice-first AI systems in native languages to make large populations digitally inclusive: Economic Survey",
-    "desc": "India top contributor to global AI research; AI may trigger herding behaviour in financial markets; Investors may get amplified shocks as social media broadcast micro-data; AI to make substantial contributions to revenue growth; AI impact on global trade; India is witnessing a surge in AI data centres, yet it is still a tip of the ice-berg story",
-    "img": "https://th-i.thgim.com/public/news/national/z02zo/article70566426.ece/alternates/LANDSCAPE_1200/iStock-1494104649.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/voice-first-ai-systems-in-native-languages-to-make-large-populations-digitally-inclusive-economic-survey/article70566118.ece",
-    "time": "2026-01-29T14:08:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RANJI TROPHY",
-    "desc": "The visitor suffers early setback before the second-wicket century steadies proceedings thanks mainly due to the host pacers straying in length; play called off due to poor visibility caused by dusty conditions during the extended half-hour",
-    "img": "https://th-i.thgim.com/public/incoming/45gwtt/article70565855.ece/alternates/LANDSCAPE_1200/11908_18_10_2024_18_32_22_3_DSC_7161.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-avasthis-incisive-spell-swings-it-mumbais-way-after-sangwans-ton-for-delhi/article70565762.ece",
-    "time": "2026-01-29T12:56:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Paatal Lok’ investigates the heart of a nation while ‘Kohrra’ is a relationship drama",
-    "desc": "The writer-director along with actors Mona Singh and Barun Sobti speak about the second season of ‘Kohrra’, Mona’s experience of going through intense workshops, Barun’s performance coming from his faith in the writing, how Sudip makes a restrained show amid declining attention spans, and more",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/ge4igo/article70564952.ece/alternates/LANDSCAPE_1200/Kohrra%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/kohrra-season-2-interview-sudip-sharma-mona-singh-barun-sobti-netflix/article70564963.ece",
-    "time": "2026-01-29T12:19:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "It’s scary to think where India will be in five years’ time: Sarah Taylor",
-    "desc": "Former England wicketkeeper Sarah Taylor, the fielding coach of Giants in WPL-4, says that the Women in Blue are making rapid strides due to the exposure they are getting; feels that the franchise leagues have made women’s cricket more exciting and competitive",
-    "img": "https://th-i.thgim.com/public/incoming/8zgruq/article70562663.ece/alternates/LANDSCAPE_1200/SARAH%20TAYLOR.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/sarah-taylor-interview-its-scary-to-think-where-india-will-be-in-five-years-time/article70562661.ece",
-    "time": "2026-01-28T21:19:43.000Z"
   }
 ];

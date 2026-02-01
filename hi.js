@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How much prize money did Carlos Alcaraz win after clinching Australian Open 2026 title? Check here",
+    "desc": "Carlos Alcaraz etched his name into the history books as the 22-year-old became the youngest ever player to complete a career Grand Slam in the history of the sport. Alcaraz defeated Serb icon Novak Djokovic...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/how-much-prize-money-did-carlos-alcaraz-win-after-clinching-australian-open-2026-title-check-here-2026-02-01-1028490",
+    "time": "2026-02-01T12:18:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Carlos Alcaraz breaks 88-year-old record with maiden Australian Open triumph, defeats Djokovic in final",
+    "desc": "Carlos Alcaraz created history today, winning the Australian Open for the first time in his career, beating the veteran Novak Djokovic, who was chasing his 25th Grand Slam title. However, it was the 22-year-old who...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-breaks-88-year-old-record-with-maiden-australian-open-triumph-defeats-djokovic-in-final-2026-02-01-1028484",
+    "time": "2026-02-01T11:48:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Can India qualify for U19 World Cup 2026 semifinal if they lose to Pakistan?",
+    "desc": "India lock horns against Pakistan in a crucial U19 World Cup 2026 Super Six clash at the Queens Sports Club, Bulawayo, on Sunday, February 1, with a semifinal spot up for grabs. India are one...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/can-india-qualify-for-u19-world-cup-2026-semifinal-if-they-lose-to-pakistan-2026-02-01-1028481",
+    "time": "2026-02-01T11:47:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan's comical fielding on display vs India, Vaibhav Suryavanshi gets two lifelines on one ball",
+    "desc": "Pakistan made a comedy of errors against the dangerman Vaibhav Suryavanshi in their must-win clash against India in the U19 World Cup 2026. Pakistan face an uphill task against the Indian team as they look...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistans-comical-fielding-on-display-vs-india-vaibhav-suryavanshi-gets-two-lifelines-on-one-ball-watch-2026-02-01-1028467",
+    "time": "2026-02-01T10:26:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rafael Nadal returns to Australian Open as a fan ahead of 2026 men's final",
+    "desc": "The Australian Open 2026 men’s final sees world number one Carlos Alcaraz taking on Serbian legend Novak Djokovic. The two stars lock horns at the Rod Laver Arena on February 1 in a bid to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/rafael-nadal-returns-to-australian-open-as-a-fan-ahead-of-2026-men-s-final-2026-02-01-1028458",
+    "time": "2026-02-01T09:46:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Really difficult': Sunil Gavaskar makes massive statement on star batter ahead of T20 World Cup 2026",
     "desc": "The stage is set for the upcoming edition of the T20 World Cup 2026. The marquee tournament will be co-hosted by India and Sri Lanka. The marquee tournament is slated to kick off on February...",
     "img": "",
@@ -10,7 +55,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Djokovic wins first set 6-2, Alcaraz under pressure in AO Final",
+    "title": "Alcaraz wins Australian Open for first time in his career",
     "desc": "Novak Djokovic and Carlos Alcaraz lock horns today in the much-awaited Australian Open final at the Rod Laver Arena. Djokovic did the unthinkable to beat Jannik Sinner in a five-set thriller, while Alcaraz defeated a...",
     "img": "",
     "src": "indiatvnews.com",
@@ -37,56 +82,11 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "IND vs PAK U-19 Live Cricket Score: Vedant-Vihaan key, India three down",
+    "title": "IND vs PAK U-19 Live Cricket Score: India look to defend 252 as semifinal spot up for grabs",
     "desc": "India U19 and Pakistan U19 are all set to take on each other in the Super Sixes clash of the ongoing U19 World Cup. The two sides take on each other at the Queens Sports...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-vs-pakistan-u-19-cricket-match-score-live-india-aim-to-book-semi-final-berth-as-they-take-on-pakistan-1028418",
     "time": "2026-02-01T06:39:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who will win Australian Open final? Indian cricketers pick their favourite",
-    "desc": "The stage is set for the summit clash of the Australian Open 2026. The Men’s final will see world number one Carlos Alcaraz taking on Novak Djokovic. The two stars will lock horns at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-vs-novak-djokovic-who-will-win-australian-open-final-indian-cricketers-pick-their-favourite-2026-02-01-1028401",
-    "time": "2026-02-01T06:12:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arshdeep Singh achieves unwanted record despite stellar five-wicket haul against New Zealand in fifth T20I",
-    "desc": "The Indian team put forth an incredible performance in the fifth and final T20I of the series against New Zealand. The two sides locked horns at the Greenfield International Stadium, Thiruvananthapuram, for the clash on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-achieves-unwanted-record-despite-stellar-five-wicket-haul-against-new-zealand-in-fifth-t20i-2026-02-01-1028387",
-    "time": "2026-02-01T05:09:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aiden Markram surpasses Faf du Plessis, clinches major record despite third T20I loss against the West Indies",
-    "desc": "The third and final T20I of the series between South Africa and the West Indies saw the Windies register a win. The game saw West Indies coming in to bat first; the side posted a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/aiden-markram-surpasses-faf-du-plessis-clinches-major-record-despite-third-t20i-loss-against-the-west-indies-2026-02-01-1028376",
-    "time": "2026-02-01T04:10:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND vs PAK, Bulawayo, weather report: Will rain spoil Super Sixes clash of the ongoing U19 World Cup 2026?",
-    "desc": "India U19 is all set to take on Pakistan U19 in the Super Sixes stage of the ongoing U19 World Cup 2026. The two sides will take on each other at the Queen Sports Club...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-bulawayo-weather-report-will-rain-spoil-super-sixes-clash-of-the-ongoing-u19-world-cup-2026-2026-02-01-1028367",
-    "time": "2026-02-01T02:39:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch U19 World Cup 2026 clash on TV and streaming in India?",
-    "desc": "The stage is set for one of the most highly anticipated clashes of the ongoing U19 World Cup 2026. India U19 is all set to take on Pakistan U19 in the 36th game of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-live-where-to-watch-u19-world-cup-2026-clash-on-tv-and-streaming-in-india-2026-02-01-1028360",
-    "time": "2026-02-01T01:42:32.000Z"
   }
 ];
