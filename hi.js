@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Aiden Markram surpasses Faf du Plessis, clinches major record despite third T20I loss against the West Indies",
+    "desc": "The third and final T20I of the series between South Africa and the West Indies saw the Windies register a win. The game saw West Indies coming in to bat first; the side posted a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/aiden-markram-surpasses-faf-du-plessis-clinches-major-record-despite-third-t20i-loss-against-the-west-indies-2026-02-01-1028376",
+    "time": "2026-02-01T04:10:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND vs PAK, Bulawayo, weather report: Will rain spoil Super Sixes clash of the ongoing U19 World Cup 2026?",
+    "desc": "India U19 is all set to take on Pakistan U19 in the Super Sixes stage of the ongoing U19 World Cup 2026. The two sides will take on each other at the Queen Sports Club...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-bulawayo-weather-report-will-rain-spoil-super-sixes-clash-of-the-ongoing-u19-world-cup-2026-2026-02-01-1028367",
+    "time": "2026-02-01T02:39:44.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Where to watch U19 World Cup 2026 clash on TV and streaming in India?",
     "desc": "The stage is set for one of the most highly anticipated clashes of the ongoing U19 World Cup 2026. India U19 is all set to take on Pakistan U19 in the 36th game of the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-5th-t20i-india-register-new-record-against-new-zealand-ishan-kishan-suryakumar-go-berserk-2026-01-31-1028333",
     "time": "2026-01-31T15:36:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav breaks major world record as India skipper stars in IND vs NZ 5th T20I",
-    "desc": "India captain Suryakumar Yadav shattered a huge world record as he put up a strong performance in the fifth T20I between India and New Zealand at the Greenfield International Stadium, Thiruvananthapuram on Saturday, January 31. Suryakumar...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-breaks-major-world-record-as-india-skipper-stars-in-ind-vs-nz-5th-t20i-2026-01-31-1028328",
-    "time": "2026-01-31T15:13:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jammu and Kashmir set new benchmark in modern first-class cricket",
-    "desc": "Jammu and Kashmir produced a record-breaking batting display to seize a commanding position over Himachal Pradesh in their Ranji Trophy encounter. After restricting Himachal to 168 on the first day, J&K compiled a mammoth 771,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/first-time-in-80-years-jammu-and-kashmir-set-new-benchmark-in-modern-first-class-cricket-2026-01-31-1028327",
-    "time": "2026-01-31T15:02:01.000Z"
   }
 ];

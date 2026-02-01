@@ -1,12 +1,174 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "‘Thankful to all our fans, loved ones'",
+    "desc": "Ram Charan and Upasana Kamineni Konidela joyfully welcomed twins, a baby boy and a girl, as announced by proud grandfather Chiranjeevi. The newborns and mother are reported to be healthy. This marks the couple's second time becoming parents, expanding their family to five. Fans are showering the couple with heartfelt congratulations and blessings.",
+    "img": "https://static.toiimg.com/photo/msid-127832802,imgsize-33030.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ram-charan-and-upasana-welcome-twins-thankful-to-all-our-fans-loved-ones-and-well-wishers/articleshow/127832802.cms",
+    "time": "2026-02-01T04:43:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "From 'bahi-khata' to tablet: Tracing Nirmala Sitharaman’s Union Budget journey since 2019",
+    "desc": "Finance Minister Nirmala Sitharaman will present her ninth Union Budget on February 1. This marks a historic Sunday sitting. The Budget for FY27 will focus on growth, fiscal discipline, and reforms. It will also continue the paperless format. Sitharaman's journey since 2019 highlights India's evolving economic priorities.",
+    "img": "https://static.toiimg.com/photo/msid-127832557,imgsize-790513.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/from-bahi-khata-to-tablet-tracing-nirmala-sitharamans-union-budget-journey-since-2019/articleshow/127832330.cms",
+    "time": "2026-02-01T04:34:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold, silver prices crash on Budget 2026 day; hit lower circuit levels in futures trade",
+    "desc": "Gold and silver prices experienced a significant tumble on Sunday, hitting lower circuits after a historic crash on Friday. Profit-taking, a stronger US dollar, and speculation surrounding the US Federal Reserve's leadership, particularly the nomination of Kevin Warsh, fueled the sharp correction in precious metals.",
+    "img": "https://static.toiimg.com/photo/msid-127832617,imgsize-69838.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-prices-crash-on-budget-2026-day-hit-lower-circuit-levels-in-futures-trade-whats-causing-the-slide/articleshow/127832498.cms",
+    "time": "2026-02-01T04:31:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sanjay and Arjun shoot for 'Dhurandhar 2': PICS",
+    "desc": "Filming for 'Dhurandhar 2 The Revenge' is underway in Mumbai, with Sanjay Dutt and Arjun Rampal reprising their roles. Viral set photos, transforming a South Mumbai locale into Lyari, Pakistan, have fueled excitement for the sequel, slated for a March 19 release.",
+    "img": "https://static.toiimg.com/photo/msid-127831467,imgsize-49518.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-sanjay-dutt-and-arjun-rampal-spotted-filming-in-mumbai-ahead-of-sequel-release/articleshow/127831461.cms",
+    "time": "2026-02-01T04:29:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hannah Dodd on Francesca’s quiet struggle in ‘Bridgerton’ s4",
+    "desc": "Francesca Bridgerton's Season 4 storyline explores the quiet struggles of a newlywed facing fertility challenges. Actress Hannah Dodd highlights the raw portrayal of intimacy and the era's lack of sexual education for women. The narrative delves into Francesca's isolation and her quest for understanding, promising a nuanced exploration of marital growth.",
+    "img": "https://static.toiimg.com/photo/msid-127832552,imgsize-328238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/hannah-dodd-breaks-down-francescas-quiet-struggle-in-bridgerton-season-4/articleshow/127832539.cms",
+    "time": "2026-02-01T04:25:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Looking to see what benefits Kerala gets': Tharoor ahead of Budget presentation",
+    "desc": "Congress MP Shashi Tharoor emphasized that the Union Budget must translate projected economic growth into job creation, warning that jobless growth offers no benefit to India's youth. He highlighted employment generation as a key expectation, especially with robust growth prospects flagged by the Economic Survey. States, including Kerala facing upcoming elections, are also keenly awaiting central government support.",
+    "img": "https://static.toiimg.com/photo/msid-127832269,imgsize-34648.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/looking-to-see-what-benefits-kerala-gets-tharoor-ahead-of-budget-presentation/articleshow/127832264.cms",
+    "time": "2026-02-01T04:20:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC reveals make-or-break scenario for U19 WC semis",
+    "desc": "India face Pakistan in a crucial U-19 World Cup match. The winner secures a semi-final berth. India seeks revenge for a recent Asia Cup loss. Australia, Afghanistan, and England have already qualified. The game's outcome will determine the final semi-finalist. Pakistan needs a significant win to advance. India has a clearer path to qualification.",
+    "img": "https://static.toiimg.com/photo/msid-127832370,imgsize-63300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/india-vs-pakistan-showdown-icc-reveals-make-or-break-scenario-for-u19-world-cup-semi-final/articleshow/127832139.cms",
+    "time": "2026-02-01T04:16:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "What went wrong with Bennifer 2.0?",
+    "desc": "In a tale as old as time, Bennifer—Jennifer Lopez and Ben Affleck—has twice enchanted audiences around the globe. Their early 2000s love story crescendoed amidst overwhelming media attention, ultimately leading to a bittersweet end. After years spent apart, they found their way back to each other, celebrating their union with a wedding in 2022.",
+    "img": "https://static.toiimg.com/photo/msid-127831524,imgsize-48148.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/what-went-wrong-with-bennifer-2-0-inside-the-rise-and-fall-of-hollywoods-most-famous-rekindled-romance/articleshow/127831475.cms",
+    "time": "2026-02-01T04:08:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Apple TV's sci-fi dramas that will keep you hooked",
+    "desc": "Sci-fi has evolved into a genre of prestige storytelling and OTT platforms have mastered the art. From unsettling corporate dystopias to alternate realities, Apple TV has an impressive collection of sci-fi dramas. Here’s a look at some of the standout sci-fi series on the platform that are guaranteed to keep you hooked.‘Severance’This is a dystopian sci-fi series set in a world where employees at the secretive company choose to undergo a medical procedure that completely separates their work memories from their personal lives. In this procedure, their memories are split in two; ‘innie’ and ‘outie.’ The employees’ work selves exist only inside the office and have no knowledge of the outside world and vice versa. This radical experiment promises perfect work-life balance, but it comes at a disturbing cost.",
+    "img": "https://static.toiimg.com/photo/msid-127832171,imgsize-20900.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/apple-tvs-sci-fi-dramas-that-will-keep-you-hooked-severance-constellation-and-more/photostory/127832171.cms",
+    "time": "2026-02-01T04:03:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why have the new UGC regulations been stayed?",
+    "desc": "Why have there been protests? How have the regulations defined caste-based discrimination? Why were new regulations introduced? What was the main thrust of the 2026 regulations on grievance redressal mechanisms as opposed to the 2012 ones?",
+    "img": "https://th-i.thgim.com/public/incoming/bgwuwv/article70575588.ece/alternates/LANDSCAPE_1200/6607_29_1_2026_15_4_41_1_IMG_20260129_145441.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/education/why-have-the-new-ugc-regulations-been-stayed-explained/article70575322.ece",
+    "time": "2026-02-01T03:57:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India’s only Chinatown in Kolkata, fading away",
+    "desc": "The Chinese community in Kolkata now has only about 2,000 people, down from about 50,000 in the 1960s. In the SIR process in West Bengal 389 of 484 voters have been categorised as untraceable or absent. For a community that began coming to the city since the 1840s, and has dealt with racism in many forms, the dwindling numbers in the SIR are a reflection of many leaving the country, reports Shrabana Chatterjee",
+    "img": "https://th-i.thgim.com/public/incoming/wy7nf3/article70574102.ece/alternates/LANDSCAPE_1200/6744_31_1_2026_17_4_0_2_12_CHINATOWN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/indias-only-chinatown-in-kolkata-fading-away/article70574083.ece",
+    "time": "2026-02-01T03:53:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Vande Bharat sleeper, Amrit Bharat trains &amp; Kavach",
+    "desc": "At the start of this year, Indian Railways introduced the first Vande Bharat sleeper train service. The new semi-high speed train set, capable of 160 kmph speeds, is aimed at overhauling overnight travel experience on the Indian Railways network.",
+    "img": "https://static.toiimg.com/photo/msid-127831507,imgsize-73324.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/railway-budget-2026-live-updates-announcements-highlights-vande-bharat-sleeper-train-amrit-bharat-kavach-railway-projects-funding-allocations/articleshow/127831491.cms",
+    "time": "2026-02-01T03:52:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I don't see Sanju Samson being part of the XI': Gavaskar drops big hint",
+    "desc": "Despite a lean patch, Sanju Samson failed to perform on his home ground in the fifth T20I against New Zealand. Ishan Kishan and Suryakumar Yadav then dominated, with Kishan scoring a rapid century. Sunil Gavaskar criticized Samson's form, suggesting he might miss out on the T20 World Cup XI.",
+    "img": "https://static.toiimg.com/photo/msid-127831881,imgsize-81230.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/i-dont-see-sanju-samson-being-part-of-the-xi-gavaskar-drops-big-hint-on-samsons-future-after-ishan-kishans-blistering-century/articleshow/127831872.cms",
+    "time": "2026-02-01T03:39:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tilak Varma to play warm-ups before T20 World Cup: Suryakumar Yadav",
+    "desc": "India receives a significant fitness boost ahead of the T20 World Cup with positive updates on Washington Sundar and Tilak Varma. Sundar has resumed batting and bowling during his rehabilitation, while Varma is nearing full fitness after surgery and is expected to join the squad soon.",
+    "img": "https://static.toiimg.com/photo/msid-127831671,imgsize-43868.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/tilak-varma-to-play-warm-ups-before-t20-world-cup-suryakumar-yadav/articleshow/127831660.cms",
+    "time": "2026-02-01T03:19:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Commercial cylinder to cost Rs 49 more from February 1",
+    "desc": "Commercial LPG prices have been revised upwards by Rs 49 for a 19-kg cylinder, bringing the Delhi price to Rs 1,740.50. This follows a previous Rs 111 increase, reversing a period of price relief for businesses. Domestic LPG cylinder prices remain unchanged.",
+    "img": "https://static.toiimg.com/photo/msid-127831429,imgsize-130914.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/lpg-gas-prices-go-up-commercial-cylinder-to-cost-rs-49-more-from-february-1/articleshow/127831326.cms",
+    "time": "2026-02-01T02:52:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Why is the India-EU trade agreement significant?",
+    "desc": "How much of the trade value of what India exports to the European Union region will the EU’s tariff concessions cover? Which are the sectors besides textiles, apparel, manufactured goods and Indian traditional medicine services that the free trade agreement will help?",
+    "img": "https://th-i.thgim.com/public/incoming/t17atv/article70575590.ece/alternates/LANDSCAPE_1200/PTI01_27_2026_000164B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/why-is-the-india-eu-trade-agreement-significant-explained/article70575287.ece",
+    "time": "2026-02-01T02:47:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bruno Mars returns after decade-long hiatus with The Romantic",
+    "desc": "Bruno Mars is set to release his new solo album, 'The Romantic,' on February 27, 2026, marking his first solo project in nearly a decade. He recently collaborated with K-Pop star Rosé on the hit song 'APT,' which is nominated for Song of the Year at the upcoming Grammy Awards.",
+    "img": "https://static.toiimg.com/photo/msid-127831141,imgsize-419958.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bruno-mars-ends-decade-long-hiatus-with-the-romantic-inside-singers-first-music-venture-since-24k-magic/articleshow/127831131.cms",
+    "time": "2026-02-01T02:18:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "'Prakambanam' BO day 2: Sagar Surya film mints Rs 1.43 crores",
     "desc": "Horror-comedy 'Prakambanam' is making waves at the box office, showing a significant jump on its second day with Rs 90 lakhs collected in Kerala. The film, starring Ganapathi and Sagar Surya, has garnered positive reviews for its blend of humor and scares, following three college friends whose lives take a chaotic turn. Worldwide gross now stands at Rs 1.43 crores.",
     "img": "https://static.toiimg.com/photo/msid-127830912,imgsize-87154.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/prakambanam-box-office-collections-day-2-sagar-surya-film-picks-up-pace-mints-rs-1-43-crores/articleshow/127830912.cms",
     "time": "2026-02-01T01:47:21.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. envoy reports ‘constructive’ Ukraine talks with Russia",
+    "desc": "The meeting came just a day before Ukrainian and Russian negotiators were scheduled to meet in Abu Dhabi to discuss a U.S.-backed plan to halt the nearly four-year conflict that began with Russia’s invasion of Ukraine",
+    "img": "https://th-i.thgim.com/public/incoming/pde6w1/article70576630.ece/alternates/LANDSCAPE_1200/Trump_76305.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-envoy-reports-constructive-ukraine-talks-with-russia/article70575695.ece",
+    "time": "2026-02-01T01:20:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -63,15 +225,6 @@ const newsData_en = [
     "time": "2026-02-01T00:30:00.000Z"
   },
   {
-    "cat": "World",
-    "title": "U.S. envoy reports ‘constructive’ Ukraine talks with Russia",
-    "desc": "The meeting came just a day before Ukrainian and Russian negotiators were scheduled to meet in Abu Dhabi to discuss a U.S.-backed plan to halt the nearly four-year conflict that began with Russia’s invasion of Ukraine",
-    "img": "https://th-i.thgim.com/public/incoming/pde6w1/article70576630.ece/alternates/LANDSCAPE_1200/Trump_76305.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-envoy-reports-constructive-ukraine-talks-with-russia/article70575695.ece",
-    "time": "2026-01-31T23:59:32.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'The Raja Saab' BO day 23: Film adds only Rs 27 lakhs",
     "desc": "Prabhas's 'Raja Saab' is nearing the end of its theatrical run, with collections dwindling significantly. The film has garnered approximately Rs 207.73 crore worldwide. While some viewers praised its innovative approach and production, others criticized the direction and editing, leading to mixed audience reception.",
@@ -117,15 +270,6 @@ const newsData_en = [
     "time": "2026-01-31T20:50:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Anurag calls Dhurandhar a ‘courageous film’, defends Toxic teaser",
-    "desc": "Talking about the recently released film Dhurandhar, Anurag Kashyap praised its intent while also expressing reservations about certain creative choices. “This is a good example of a courageous mainstream film. I liked the film, but I didn’t like some of the ideologies,” he said. Kashyap also addressed the outrage surrounding the teaser of the Kannada film Toxic, calling it an extremely brave attempt.",
-    "img": "https://static.toiimg.com/photo/msid-127827705,imgsize-27918.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anurag-kashyap-calls-dhurandhar-a-courageous-mainstream-film-defends-yashs-toxic-teaser-calling-films-propaganda-is-also-propaganda/articleshow/127827663.cms",
-    "time": "2026-01-31T19:36:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Pakistan routs Australia by 90 runs to clinch T20 series victory",
     "desc": "Australia fielded a stronger side after losing the opener of the three-match series by 19 runs but still got bowled out for 108 in 15.4 overs with leg-spinners Abrar Ahmed (3-14) and Shadab Khan (3-26) sharing bulk of the wickets",
@@ -135,51 +279,6 @@ const newsData_en = [
     "time": "2026-01-31T19:34:28.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Why is the India-EU trade agreement significant?",
-    "desc": "How much of the trade value of what India exports to the European Union region will the EU’s tariff concessions cover? Which are the sectors besides textiles, apparel, manufactured goods and Indian traditional medicine services that the free trade agreement will help?",
-    "img": "https://th-i.thgim.com/public/incoming/t17atv/article70575590.ece/alternates/LANDSCAPE_1200/PTI01_27_2026_000164B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/why-is-the-india-eu-trade-agreement-significant-explained/article70575287.ece",
-    "time": "2026-01-31T19:12:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why have the new UGC regulations been stayed?",
-    "desc": "Why have there been protests? How have the regulations defined caste-based discrimination? Why were new regulations introduced? What was the main thrust of the 2026 regulations on grievance redressal mechanisms as opposed to the 2012 ones?",
-    "img": "https://th-i.thgim.com/public/incoming/bgwuwv/article70575588.ece/alternates/LANDSCAPE_1200/6607_29_1_2026_15_4_41_1_IMG_20260129_145441.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/education/why-have-the-new-ugc-regulations-been-stayed-explained/article70575322.ece",
-    "time": "2026-01-31T19:03:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shailendra says he paid Rs 4 crore to Big B for Johnny Walker",
-    "desc": "Producer Shailendra Singh, known for backing National Award-winning films like Page 3 and Traffic Signal, has opened up about a long-standing dispute involving Amitabh Bachchan and filmmaker Shoojit Sircar over the unreleased film Shoebite. Singh claimed he had originally developed the story under the title Johnny Walker, which was later renamed Shoebite, and accused Shoojit of reselling the project to UTV’s Ronnie Screwvala despite him having already paid Bachchan an advance of Rs 4 crore.",
-    "img": "https://static.toiimg.com/photo/msid-127827172,imgsize-47426.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shailendra-singh-says-he-paid-rs-4-crore-to-amitabh-bachchan-for-johnny-walker-i-lost-my-film-and-shoojit-sircar-forever/articleshow/127827086.cms",
-    "time": "2026-01-31T18:51:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Chicken's Neck' corridor is India's land, no one dare touch it, says Amit Shah",
-    "desc": "Union Home Minister Amit Shah on Friday hit out at the INDI Alliance over attempts to seek bail for those who raised slogans about cutting the \"chicken neck corridor,\" saying their efforts failed as the Supreme Court rejected the bail pleas and that such intentions against India would never succeed.",
-    "img": "https://static.toiimg.com/photo/msid-127825874,imgsize-737626.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/chickens-neck-corridor-is-indias-land-no-one-dare-touch-it-says-amit-shah/articleshow/127825802.cms",
-    "time": "2026-01-31T17:55:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "SRK–Hrithik rivalry: ‘Everyone braced themselves for showdown’",
-    "desc": "Hrithik Roshan became an overnight sensation with his debut film Kaho Naa… Pyaar Hai, co-starring Ameesha Patel. As the industry stepped into the 21st century, Hrithik’s meteoric rise sparked intense chatter, including rumours that Shah Rukh Khan, then Bollywood’s undisputed superstar, felt threatened by the newcomer’s sudden stardom. Stories of rivalry and tension between the two actors dominated headlines, fuelling speculation of an industry showdown.",
-    "img": "https://static.toiimg.com/photo/msid-127825750,imgsize-36538.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khanhrithik-roshan-rivalry-rumours-everyone-braced-themselves-for-confrontation-but-what-happened-recalls-restaurateur/articleshow/127825610.cms",
-    "time": "2026-01-31T17:54:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Arsenal thrash Leeds 4-0 to extend lead at the top",
     "desc": "Arsenal settled any fears of a wobble in their pursuit of a first Premier League title in 22 years by winning 4-0 at Leeds on Saturday. The Gunners' advantage over Manchester City and Aston Villa, who are both in action on Sunday, stretches to seven points as Mikel Arteta's men took another step towards the title at Elland Road.",
@@ -187,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/epl/top-stories/premier-league-arsenal-thrash-leeds-4-0-to-extend-lead-at-the-top/articleshow/127825370.cms",
     "time": "2026-01-31T17:47:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "South Korean delegation meets Punjab CM",
-    "desc": "During a pivotal meeting, Bhagwant Mann, Chief Minister of Punjab, engaged with a visiting South Korean delegation to explore innovative partnerships in smart agriculture. They delved into how South Korea's cutting-edge advancements in vertical farming, automated systems, and seed innovation can revolutionize the local farming landscape.",
-    "img": "https://static.toiimg.com/photo/msid-127825290,imgsize-668790.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/south-korean-delegation-meets-punjab-cm/articleshow/127825260.cms",
-    "time": "2026-01-31T17:39:06.000Z"
   },
   {
     "cat": "Sports",
@@ -225,15 +315,6 @@ const newsData_en = [
     "time": "2026-01-31T17:12:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Awkward run-ins: exes at award shows",
-    "desc": "As the awards season rolls around, past lovers often cross paths under the bright lights, crafting iconic moments of reunion. Consider the heartfelt cheers from Jennifer Aniston for Brad Pitt or the courteous nods exchanged between Emma Stone and Kieran Culkin—these interactions run the gamut from genuine warmth to frosty avoidance.",
-    "img": "https://static.toiimg.com/photo/msid-127824183,imgsize-59002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/when-celebrity-hollywood-exes-cross-paths-at-award-ceremonies-like-the-oscars-and-golden-globes/articleshow/127824183.cms",
-    "time": "2026-01-31T16:57:06.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Many promotee IAS officers from Karnataka reluctant to attend induction training at Mussoorie",
     "desc": "Only one officer is going for ITP, starting on February 2 this year, while the remaining 25 whose names figure in the list have not even submitted requests to the government for permission to attend",
@@ -252,15 +333,6 @@ const newsData_en = [
     "time": "2026-01-31T16:43:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "What’s next for Kelsey Asbille post-Yellowstone",
-    "desc": "Kelsey Asbille, cherished for her role as Monica Long Dutton in 'Yellowstone,' has made the surprising decision to part ways with the series, leaving fans speculating about her next moves. Even though her character continues to live on, Asbille hasn't pursued spin-offs like 'Marshals.' Her journey began with Disney and reached new heights alongside 'Yellowstone' creator Taylor Sheridan.",
-    "img": "https://static.toiimg.com/photo/msid-127824073,imgsize-68308.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/where-kelsey-asbille-stands-after-playing-monica-on-yellowstone/articleshow/127824073.cms",
-    "time": "2026-01-31T16:42:24.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India's wealthy embrace a new luxury symbol: water",
     "desc": "Tap water in India not fit for human consumption;India is among the world's fastest growing bottled water markets; Wealthy opt for premium water as wellness craze boosts industry; Tata expanding offerings, hunting for natural water springs; Premium water now accounts for 8% of Indian market",
@@ -268,24 +340,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/indias-wealthy-embrace-a-new-luxury-symbol-water/article70575347.ece",
     "time": "2026-01-31T16:36:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Benedict’s Cinderella Love: Sophie Baek",
-    "desc": "Bridgerton's fourth season takes a bold leap into the heart of forbidden love as it follows Benedict and Sophie Baek's enchanting connection. Sophie, a maid with secrets lurking beneath her surface, brings a fresh energy to the narrative, daring to challenge society’s rigid barriers.",
-    "img": "https://static.toiimg.com/photo/msid-127823926,imgsize-59654.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-season-4-meet-sophie-baek-benedicts-cinderella-style-love-interest/articleshow/127823926.cms",
-    "time": "2026-01-31T16:33:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Neelam reveals she played cupid in SRK-Gauri’s love story",
-    "desc": "Shah Rukh Khan and Gauri Khan’s romance is one of Bollywood’s most enduring real-life love stories, but few know that actress Neelam Kothari played an unintentional role in bringing the two together. The surprising revelation was made by Neelam herself while gracing the stage of Indian Idol during its special Season of Love celebrations.",
-    "img": "https://static.toiimg.com/photo/msid-127823925,imgsize-66590.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/neelam-kothari-reveals-she-played-cupid-in-shah-rukh-khan-and-gauri-khans-love-story-both-srk-gauri-were-big-fans-of-mine/articleshow/127823860.cms",
-    "time": "2026-01-31T16:29:49.000Z"
   },
   {
     "cat": "Sports",
@@ -414,51 +468,6 @@ const newsData_en = [
     "time": "2026-01-31T13:22:24.000Z"
   },
   {
-    "cat": "Business",
-    "title": "In a first, Union Budget 2026 to be presented on Sunday",
-    "desc": "India's Union Budget 2026-27 will be presented on a Sunday for the first time in history, a significant procedural reform. Finance Minister Nirmala Sitharaman also achieves a record ninth consecutive budget presentation, marking a new milestone in the nation's financial reporting tradition.",
-    "img": "https://static.toiimg.com/photo/msid-127820755,imgsize-61078.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/in-a-first-union-budget-2026-to-be-presented-on-sunday/articleshow/127820392.cms",
-    "time": "2026-01-31T13:07:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘Mother of all deals’ will be compassionate and fair to all, says Piyush Goyal as India–EU exports seen doubling in 5 years",
-    "desc": "India's Commerce Minister Piyush Goyal announced the conclusion of the India-EU free trade agreement, expecting it to double exports to Europe within five years. With 99% of Indian exports gaining duty-free access, the pact aims for mutual benefit, with consumers anticipated to be major beneficiaries. Negotiations for a separate trade deal with the US are also progressing well.",
-    "img": "https://static.toiimg.com/photo/msid-127820656,imgsize-540005.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/mother-of-all-deals-will-be-compassionate-and-fair-to-all-says-piyush-goyal-as-indiaeu-exports-seen-doubling-in-5-years/articleshow/127820651.cms",
-    "time": "2026-01-31T13:02:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How much did Rybakina, Sabalenka earn after Australian Open 2026 final?",
-    "desc": "Elena Rybakina defeated world number one Aryna Sabalenka 6-4, 4-6, 6-4 to win her first Australian Open title and second Grand Slam. The victory avenged her 2023 loss and earned her $4.15 million (Rs 37.77 crore). Sabalenka received $2.15 million (Rs 19.56 crore). Rybakina showed composure under pressure, sealed the win with an ace, and benefited from the tournament’s increased prize pool.",
-    "img": "https://static.toiimg.com/photo/msid-127820098,imgsize-68216.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/how-much-did-elena-rybakina-and-aryna-sabalenka-earn-after-australian-open-2026-final/articleshow/127819924.cms",
-    "time": "2026-01-31T12:27:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold, silver price crash: $5 trillion lost in market cap! What led to the spectacular fall &amp; is the bull run over?",
-    "desc": "Gold prices dropped by a whopping Rs 14,000 per 10 grams and silver prices tanked by Rs 20,000 per kg in Delhi on Friday. The sharp dip came after gold hit a fresh high of Rs 1,83,000 and silver of Rs 4,04,500 on Thursday.",
-    "img": "https://static.toiimg.com/photo/msid-127820048,imgsize-43200.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-crash-5-trillion-lost-in-market-cap-what-led-to-the-spectacular-fall-is-the-bull-run-over/articleshow/127819419.cms",
-    "time": "2026-01-31T12:26:42.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Economists outline growth priorities, expect focus on jobs, farmers, MSMEs",
-    "desc": "Experts anticipate the Union Budget will prioritize job creation, agricultural development, inclusive manufacturing, and digital transformation for sustainable growth. Concerns are raised about investment skewing towards capital-intensive industries, neglecting smaller sectors and leading to urban concentration. A call for balanced development, rationalized welfare, and a broader tax base through lower GST rates is highlighted.",
-    "img": "https://static.toiimg.com/photo/msid-127819188,imgsize-1435035.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-economists-outline-growth-priorities-expect-focus-on-jobs-farmers-msmes/articleshow/127819036.cms",
-    "time": "2026-01-31T11:40:01.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sachin pep talk inspires India ahead of Pakistan clash at U-19 World Cup",
     "desc": "India faces Pakistan in a crucial U-19 World Cup Super Six clash, seeking revenge for a crushing Asia Cup final defeat. Inspired by a virtual pep talk from Sachin Tendulkar, the unbeaten Indian side aims to overcome the painful memory of their previous encounter. Pakistan, led by in-form opener Sameer Minhas, presents a formidable challenge.",
@@ -493,15 +502,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/senate-passes-trump-backed-government-funding-deal-sending-to-house/article70573734.ece",
     "time": "2026-01-31T11:08:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "From no mention in Constitution to Sunday presentation — 10 lesser-known facts",
-    "desc": "India's Union Budget, a key economic event, holds many fascinating historical details. The Constitution calls it the 'Annual Financial Statement'. This year's budget presentation on a Sunday is a first. From colonial-era evening timings to the shift to February 1, traditions have evolved. The 'bahi khata' now symbolizes Indian identity. The railway budget is now integrated.",
-    "img": "https://static.toiimg.com/photo/msid-127818295,imgsize-1527269.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-from-no-mention-in-constitution-to-sunday-presentation-10-lesser-known-facts/articleshow/127817435.cms",
-    "time": "2026-01-31T10:50:00.000Z"
   },
   {
     "cat": "Sports",
@@ -541,15 +541,6 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Cigarettes to get costlier from February 1 as new excise duty kicks in",
-    "desc": "Starting February 1, India implements a new excise duty regime for cigarettes based on length, alongside a health cess on pan masala and tobacco products. This marks the first significant tax increase in seven years, aligning India's tobacco taxation closer to global public health norms and replacing the GST compensation cess framework.",
-    "img": "https://static.toiimg.com/photo/msid-127818094,imgsize-25056.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/smoke-break-to-get-pricier-cigarettes-to-get-costlier-from-february-1-as-new-excise-duty-kicks-in/articleshow/127817497.cms",
-    "time": "2026-01-31T09:47:11.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "EU-India FTA to be implemented in 2026 itself, labour intensive sectors to benefit: Piyush Goyal",
     "desc": "Commerce Minister says India only negotiating FTAs with developed countries, no question of rethink on RCEP; while the EU indicated the FTA sent a political message to the U.S., Mr. Goyal said India’s only message was its growth story",
     "img": "https://th-i.thgim.com/public/incoming/k7aenx/article70571492.ece/alternates/LANDSCAPE_1200/PIYUSH%20GOYAL%20DELHI%202026_30_01_19.jpg",
@@ -567,15 +558,6 @@ const newsData_en = [
     "time": "2026-01-31T09:07:35.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Pat Cummins ruled out of T20 World Cup as Australia announce squad",
-    "desc": "Australia faces a blow as Pat Cummins is out of the T20 World Cup 2026 due to injury. Mitchell Marsh will lead the 15-member squad, with Ben Dwarshuis and Matthew Renshaw drafted in as replacements. Selectors praised their pace, fielding, and batting versatility, anticipating their value in the tournament's conditions.",
-    "img": "https://static.toiimg.com/photo/msid-127816160,imgsize-39976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pat-cummins-ruled-out-of-t20-world-cup-2026-as-australia-announce-squad/articleshow/127816159.cms",
-    "time": "2026-01-31T07:48:30.000Z"
-  },
-  {
     "cat": "World",
     "title": "Pokemon card event at controversial shrine to Japanese war dead cancelled after China protests",
     "desc": "The Yasukuni Shrine honours Japan's 2.5 million war dead, including convicted war criminals. Countries that were targets of Japanese aggression, especially China and the Koreas, see visits to the shrine as showing a lack of remorse about Japan's wartime past",
@@ -583,15 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/pokemon-card-event-at-controversial-shrine-to-japanese-war-dead-cancelled-after-china-protests/article70573416.ece",
     "time": "2026-01-31T07:17:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'If team management replaces Sanju with Ishan ... ': Ex-India star speaks out",
-    "desc": "Sanju Samson faces immense pressure in the final T20I against New Zealand, needing a strong performance to silence critics amid a lean patch. Former player Irfan Pathan advocates for Samson's consistent batting order placement, while also highlighting the importance of players like Tilak Varma for team balance and temperament.",
-    "img": "https://static.toiimg.com/photo/msid-127815562,imgsize-46218.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/if-team-management-replaces-sanju-samson-with-ishan-kishan-ex-india-star-speaks-out/articleshow/127815514.cms",
-    "time": "2026-01-31T06:58:39.000Z"
   },
   {
     "cat": "Entertainment",
@@ -801,15 +774,6 @@ const newsData_en = [
     "time": "2026-01-30T05:21:52.000Z"
   },
   {
-    "cat": "World",
-    "title": "Oil hovers near multi-month highs as Trump considers Iran strike",
-    "desc": "U.S. ​President Donald Trump urged Iran on January 28, 2026 to come to the table and make a deal on nuclear weapons or face a U.S. attack, drawing a threat from Tehran to strike back hard",
-    "img": "https://th-i.thgim.com/public/incoming/6klhkt/article70568704.ece/alternates/LANDSCAPE_1200/2026-01-30T015308Z_1663083504_RC2XFFATXIH8_RTRMADP_3_USA-TRUMP-IRS-LAWSUIT.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/oil-hovers-near-multi-month-highs-as-trump-considers-iran-strike/article70568696.ece",
-    "time": "2026-01-30T03:27:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Samson — extraordinarily gifted, frustratingly inconsistent",
     "desc": "He hasn’t had a single score of substance in the ongoing series against the Kiwis; Kishan’s own sustained telling touch, coupled with the Kerala batter’s fumbling returns, have opened up a race that didn’t seem possible even a month back",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/sarah-taylor-interview-its-scary-to-think-where-india-will-be-in-five-years-time/article70562661.ece",
     "time": "2026-01-28T21:19:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘A Knight of the Seven Kingdoms’ series review: A Hedge Knight shows Westeros how to trim the fat",
+    "desc": "By trusting us to keep up with a story that stays small and moves cleanly, ‘A Knight of the Seven Kingdoms’ sidesteps the franchise’s usual lore-hoarding instincts and ends up feeling lighter, smarter, and oddly refreshed",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/6quthk/article70560722.ece/alternates/LANDSCAPE_1200/Screenshot%202026-01-28%20163357.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/a-knight-of-the-seven-kingdoms-series-review-a-hedge-knight-shows-westeros-how-to-trim-the-fat/article70560741.ece",
+    "time": "2026-01-28T12:00:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Swiatek supports Gauff’s call for balance",
+    "desc": "While Gauff said “conversations needs to be had” about the seemingly limitless access-all-areas cameras that track players from the locker room to the court, Swiatek asked are we like animals in the zoo where they are observed everywhere",
+    "img": "https://th-i.thgim.com/public/incoming/ri3h9u/article70560451.ece/alternates/LANDSCAPE_1200/Australia_Tennis_91611.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/privacy-debate-swiatek-supports-gauffs-call-for-balance/article70560418.ece",
+    "time": "2026-01-28T09:55:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘One Battle After Another’ and ‘Sinners’ lead a polarised field",
+    "desc": "The 2026 BAFTA nominations, led by One Battle After Another (14 nods) and Sinners (13), reshape the final run toward the Oscars and highlight a year in which British taste and Academy choices seem to be both aligning and diverging",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/oeft7k/article70560087.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/bafta-nominations-2026-one-battle-after-another-and-sinners-lead-a-polarised-field/article70560093.ece",
+    "time": "2026-01-28T07:29:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘I am calling it off’: Arijit Singh retires from playback singing",
+    "desc": "In a message shared on his social media pages, Mr. Singh said he has decided to step away from playback singing, a move that comes at the peak of his career as one of the most in-demand voices in Hindi cinema",
+    "img": "https://th-i.thgim.com/public/incoming/ljg5oh/article70558048.ece/alternates/LANDSCAPE_1200/PTI01_27_2026_000452B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/i-am-calling-it-off-arijit-singh-retires-from-playback-singing/article70558017.ece",
+    "time": "2026-01-28T06:12:09.000Z"
   }
 ];
