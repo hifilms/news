@@ -1,12 +1,282 @@
 const newsData_en = [
   {
     "cat": "Business",
-    "title": "Budget proposes to set up ₹10,000 crore to create champion SMEs: FM Sitharaman",
-    "desc": "FM Sitharaman proposes to support mineral rich states of Odisha, Kerala, Andhra Pradesh and Tamil Nadu to establish critical mineral facilities; the FM also proposes to top up Self Reliance India Fund with ₹4,000 cr in FY27 to support MSMEs",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "title": "How NDA parties, opposition reacted",
+    "desc": "Finance Minister Nirmala Sitharaman presented the Union Budget 2026-27, increasing capital expenditure to Rs 12.2 lakh crore. The Rs 53.5 lakh crore budget received mixed reactions, with the BJP hailing it as growth-oriented, while the Congress termed it \"disappointing\" and lacking specifics for common citizens.",
+    "img": "https://static.toiimg.com/photo/msid-127837947,imgsize-1062698.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-how-nda-parties-opposition-reacted/articleshow/127837882.cms",
+    "time": "2026-02-01T09:09:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Matthew Lillard shares thoughts on upcoming ‘Scooby-Doo’ remake",
+    "desc": "Matthew Lillard, beloved for his role as Shaggy, is buzzing with enthusiasm over the new live-action 'Scooby-Doo' series. He sees the franchise as a pivotal bridge to the spooky world for many children and envisions its revival as a chance to instill valuable lessons about camaraderie, collaboration, and creative problem-solving—all while honoring the lovable spirit of the original tales.",
+    "img": "https://static.toiimg.com/photo/msid-127837848,imgsize-16736.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/scream-7-star-matthew-lillard-says-scooby-doo-needs-to-come-back-shares-what-he-hopes-from-upcoming-series/articleshow/127837848.cms",
+    "time": "2026-02-01T09:06:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'High flight toward Viksit Bharat': PM Modi hails Union Budget 2026 as 'historic'",
+    "desc": "Prime Minister Narendra Modi hailed the Union Budget 2026 as \"historic,\" charting a roadmap for a Viksit Bharat by 2047 and boosting India's reform journey. He also highlighted the \"mother of all deals\" with the EU, aimed at benefiting youth and MSMEs, and praised Finance Minister Nirmala Sitharaman's record ninth consecutive budget presentation.",
+    "img": "https://static.toiimg.com/photo/msid-127837864,imgsize-1003911.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/high-flight-toward-viksit-bharat-pm-modi-hails-union-budget-2026-as-historic/articleshow/127837888.cms",
+    "time": "2026-02-01T09:05:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shahid credits Leonardo for shaping his role-selection mindset",
+    "desc": "Shahid Kapoor revealed that Leonardo DiCaprio’s approach to choosing roles deeply influenced him. Discussing his upcoming film O’ Romeo with Vishal Bhardwaj, Shahid said he strives to explore beyond his comfort zone. He also praised co-star Triptii Dimri, calling her “a very good actress” with a “strong and heartfelt” character.",
+    "img": "https://static.toiimg.com/photo/msid-127837883,imgsize-21188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shahid-kapoor-credits-leonardo-dicaprio-for-shaping-his-role-selection-mindset-i-read-a-very-interesting-/articleshow/127837883.cms",
+    "time": "2026-02-01T09:05:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What this means for IT companies",
+    "desc": "Union Budget 2026 designates 'Information Technology Services' as a single category for IT companies, including software development, IT-enabled services, KPOs, and contract R&D. A uniform 15.5 per cent safe harbour margin will apply, with increased thresholds and automated approvals. A fast-track Unilateral APA process for IT services aims for conclusion within two years.",
+    "img": "https://static.toiimg.com/photo/msid-127837890,imgsize-962098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/fm-brings-it-services-under-single-category-in-union-budget-what-this-means-for-it-companies/articleshow/127837604.cms",
+    "time": "2026-02-01T08:57:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Full text of Nirmala Sitharaman's speech; download PDF",
+    "desc": "Presenting the 2026-27 Budget, the Finance Minister outlined a vision for Viksit Bharat, emphasizing sustained growth, structural reforms, and citizen empowerment. Key proposals include scaling up manufacturing in strategic sectors, rejuvenating legacy industries, supporting MSMEs, and a significant push for infrastructure development.",
+    "img": "https://static.toiimg.com/photo/msid-127837637,imgsize-932610.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-full-text-of-nirmala-sitharamans-speech-download-pdf/articleshow/127837011.cms",
+    "time": "2026-02-01T08:51:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Duty-free import limit raised for seafood, leather export inputs",
+    "desc": "Finance Minister Nirmala Sitharaman unveiled measures to boost India's export sectors. Duty-free import limits for processed seafood and leather/synthetic footwear inputs are raised. The export timeline for leather goods and garments is extended to one year. These steps aim to counter challenges, particularly from the US market.",
+    "img": "https://static.toiimg.com/photo/msid-127837519,imgsize-795236.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-duty-free-import-limit-raised-for-seafood-leather-export-inputs/articleshow/127837517.cms",
+    "time": "2026-02-01T08:45:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Handshake refused! India vs Pakistan U19 World Cup showdown opens with tense moment",
+    "desc": "India and Pakistan U-19 captains notably skipped the customary handshake at the toss for their crucial World Cup encounter. This follows a recent trend of no handshakes between the two nations' cricket teams amid ongoing political tensions. The match is a must-win for Pakistan to keep their semi-final hopes alive.",
+    "img": "https://static.toiimg.com/photo/msid-127837526,imgsize-165194.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/handshake-refused-india-vs-pakistan-u19-world-cup-showdown-opens-with-tense-moment/articleshow/127837532.cms",
+    "time": "2026-02-01T08:45:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How Union Budget 2026 has given India firepower to counter Trump’s tariffs",
+    "desc": "India's Finance Minister Nirmala Sitharaman unveiled the Union Budget 2026. Measures aim to support key export sectors facing US tariffs. The budget includes customs duty reductions and manufacturing incentives. These steps are designed to boost export competitiveness and resilience against global economic shifts. Capital expenditure sees an increase, while the fiscal deficit is projected to narrow.",
+    "img": "https://static.toiimg.com/photo/msid-127837484,imgsize-1143692.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/how-union-budget-2026-has-given-india-firepower-to-counter-trumps-tariffs/articleshow/127837351.cms",
+    "time": "2026-02-01T08:41:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Defence budget jumps to Rs 7.85 lakh crore, Rs 2.19 lakh crore earmarked for modernisation",
+    "desc": "The Union Budget 2026 significantly boosts defence spending to Rs 7.85 lakh crore, a substantial rise from last year. Modernisation efforts will receive Rs 2.19 lakh crore, with key allocations for aircraft and naval fleets. Finance minister Nirmala Sitharaman also announced customs duty exemptions on aircraft components and raw materials, aiming to invigorate the defence aerospace industry.",
+    "img": "https://static.toiimg.com/photo/msid-127837441,imgsize-59978.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/defence/news/union-budget-2026-defence-budget-jumps-to-rs-7-85-lakh-crore-rs-2-19-lakh-crore-earmarked-for-modernisation-key-points/articleshow/127837180.cms",
+    "time": "2026-02-01T08:37:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Pakistan deflecting attention from internal failings': India rejects 'baseless' claims on Balochistan attacks",
+    "desc": "India has categorically rejected Pakistan's \"baseless\" allegations of Indian backing for recent deadly attacks in Balochistan. The Ministry of External Affairs stated Pakistan should address the region's long-standing demands and its \"record of suppression, brutality and violation of human rights\" instead of deflecting blame.",
+    "img": "https://static.toiimg.com/photo/msid-127837283,imgsize-645183.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pakistan-deflecting-attention-from-internal-failings-india-rejects-baseless-claims-on-balochistan-attacks/articleshow/127837240.cms",
+    "time": "2026-02-01T08:29:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aditi Rao Hydari talks about working on ‘O Saathi Re’",
+    "desc": "Aditi Rao Hydari could hardly contain her excitement while discussing 'O Saathi Re,' a project she fantasized about collaborating on with the renowned director Imtiaz Ali ever since their work on 'Rockstar.' She praised the exhilarating atmosphere on set, crediting Ali's vibrant energy as both a showrunner and a writer, alongside the directorial acumen of Arif Ali.",
+    "img": "https://static.toiimg.com/photo/msid-127837069,imgsize-13780.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/gandhi-talks-star-aditi-rao-hydari-talks-about-working-with-imtiaz-ali-shares-details-about-o-saathi-re/articleshow/127837069.cms",
+    "time": "2026-02-01T08:19:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Karan and Aditya to collaborate on a horror thriller?",
+    "desc": "Karan Johar is set to explore new genres with Kartik Aaryan’s 'Nagzilla'. He’s now planning a horror thriller under Dharma Productions, starring Aditya Roy Kapur. The film begins shooting in May 2026. Meanwhile, Aditya awaits his series 'Rakt Brahmand' and was last seen in Anurag Basu’s 'Metro… In Dino'.",
+    "img": "https://static.toiimg.com/photo/msid-127837006,imgsize-42998.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-and-aditya-roy-kapur-to-collaborate-on-a-horror-thriller-details-inside/articleshow/127837006.cms",
+    "time": "2026-02-01T08:15:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What is a tax holiday? What Nirmala Sitharaman announced in her Budget speech",
+    "desc": "Foreign companies offering global cloud services via Indian data centres will enjoy a tax holiday until 2047, a significant boost for digital infrastructure. This move aims to attract investment and strengthen India's position in cloud computing and AI. Software development and IT services are now unified under a single category, with a common safe harbour margin of 15.5 per cent.",
+    "img": "https://static.toiimg.com/photo/msid-127836935,imgsize-876868.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-what-is-a-tax-holiday-what-nirmala-sitharaman-announced-in-her-budget-speech/articleshow/127836229.cms",
+    "time": "2026-02-01T08:08:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Accessible tourism no longer a niche segment but mainstream imperative, says Chief Minister Pinarayi Vijayan",
+    "desc": "Speaking after inaugurating Kerala for All conclave organised by Kerala Tourism and The Hindu Group in Kochi, Pinarayi Vijayan says Kerala is committed to setting a model for the country by learning from the global best practices while adapting them to local realities of State",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/rue0jk/article70577275.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-01%20at%2011.41.12.jpeg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/union-budget-2026-nirmala-sitharaman-allocations-income-tax-slabs-live-updates/article70573992.ece",
-    "time": "2026-02-01T06:37:13.000Z"
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-for-all-conclave-accessible-tourism-no-longer-a-niche-segment-but-mainstream-imperative-says-chief-minister-pinarayi-vijayan/article70577254.ece",
+    "time": "2026-02-01T08:05:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar'gets OTT 'upgrade' after fan backlash",
+    "desc": "Ranveer Singh's 'Dhurandhar' faced criticism on Netflix for muted cuss words, shorter runtime, and poor color grading. However, fans celebrated a surprise 'update' on Sunday, with Netflix allegedly improving the film's bitrate and color quality. While technical issues are addressed, runtime and censorship concerns remain.",
+    "img": "https://static.toiimg.com/photo/msid-127836818,imgsize-26262.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-ranveer-singh-starrer-gets-ott-upgrade-after-fans-call-out-low-quality-and-colour-grading-issues/articleshow/127836369.cms",
+    "time": "2026-02-01T08:01:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "MCC adds 49 Hamdard postgraduate seats to round III after Supreme Court order",
+    "desc": "The Medical Counselling Committee added 49 postgraduate medical seats from HIMSR to the Round III seat matrix following Supreme Court directions. This allows students nationwide to compete for these seats via All India Quota counselling, ensuring no academic year is lost due to affiliation delays.",
+    "img": "https://static.toiimg.com/photo/msid-127836736,imgsize-820136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mcc-adds-49-hamdard-postgraduate-seats-to-round-iii-after-supreme-court-order/articleshow/127836690.cms",
+    "time": "2026-02-01T07:56:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "A look at Nirmala Sitharaman’s longest and shortest Budget speeches",
+    "desc": "Nirmala Sitharaman delivered her ninth consecutive Union Budget speech, lasting 1 hour and 25 minutes, outlining the fiscal roadmap for 2026-27. This presentation marks her record-breaking six years and eight months as Finance Minister in continuous office. Prime Minister Modi hailed the event as a proud parliamentary tradition.",
+    "img": "https://static.toiimg.com/photo/msid-127836404,imgsize-44238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-a-look-at-nirmala-sitharamans-longest-and-shortest-budget-speeches/articleshow/127836343.cms",
+    "time": "2026-02-01T07:53:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Princess Love amends protective order against Ray J",
+    "desc": "In a surprising turn of events, Princess Love has revised a protective order concerning her estranged spouse, Ray J, now permitting him to have boundless access to their children. This decision comes swiftly following Ray J's alarming health update, as he faces a daunting challenge with his heart operating at a mere 25% due to pneumonia.",
+    "img": "https://static.toiimg.com/photo/msid-127836542,imgsize-55576.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/princess-love-and-ray-j-loves-protective-order-against-former-partner-amended-following-health-update-report/articleshow/127836542.cms",
+    "time": "2026-02-01T07:49:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Govt waives customs duty on cancer and rare disease drugs — key health sector updates",
+    "desc": "Finance minister Nirmala Sitharaman presented her ninth consecutive Union Budget—becoming the first finance minister in India to achieve this milestone—and also the first to present a Union Budget on a Sunday. The Economic Survey tabled ahead of the Budget had projected India’s economic growth at 6.8–7.2 per cent in FY27, providing the broader macroeconomic context for social sector spending.",
+    "img": "https://static.toiimg.com/photo/msid-127836520,imgsize-1008742.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-govt-waives-customs-duty-on-cancer-and-rare-disease-drugs-key-health-sector-updates/articleshow/127836448.cms",
+    "time": "2026-02-01T07:47:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "7 most memorable Grammy moments to rewind before the 2026 awards",
+    "desc": "The Grammys aren’t just another awards show. They’re a full-blown spectacle. Every year, it’s more than just music; there’s drama, chaos, history in the making, and those jaw-dropping surprises you just never see coming. It’s all packed into one wild night. With the 2026 Grammys coming up on February 1, it feels right to rewind and relive the moments that made this night legendary.Since 1959, the Grammys have thrown us everything from shocking wins to performances that leave your jaw on the floor. Some speeches still get people choked up. Off-the-wall collaborations? Plenty. And there are wins people still argue about years later. These stories stick around way after the last note fades.So before the stars fill up Crypto.com Arena in LA, let’s jump into seven Grammy moments nobody forgets.",
+    "img": "https://static.toiimg.com/photo/msid-127836531,imgsize-71138.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/7-most-memorable-grammy-moments-to-rewind-before-the-2026-awards/photostory/127836531.cms",
+    "time": "2026-02-01T07:44:20.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What are the income tax slabs, rates under new &amp; old tax regime after Budget 2026? Check details",
+    "desc": "Taxpayers will continue to pay income tax as per the ongoing income tax slabs that are currency effective for FY 2025-2026. The income tax slabs under the new income tax regime underwent a major overhaul in last year’s Budget and hence this year the expectation was low of the FM bringing any changes.",
+    "img": "https://static.toiimg.com/photo/msid-127836150,imgsize-60850.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/new-income-tax-slab-changes-budget-2026-new-tax-regime-latest-income-tax-slabs-rates-under-new-income-tax-regime-2026-27-standard-deduction-personal-taxation-after-budget-2026-full-details-faqs-answered/articleshow/127836073.cms",
+    "time": "2026-02-01T07:27:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nirmala announces Khelo India Mission",
+    "desc": "Finance Minister Nirmala Sitharaman announced a new Khelo India mission to transform India's sports sector over the next decade. This initiative will focus on an integrated talent development framework, including training centers, coach development, sports science integration, and infrastructure enhancement. The mission aims to nurture grassroots talent and bolster India's global sporting ambitions.",
+    "img": "https://static.toiimg.com/photo/msid-127836255,imgsize-45014.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/budget-2026-nirmala-sitharaman-announces-khelo-india-mission-to-develop-coaches-training-centres/articleshow/127836141.cms",
+    "time": "2026-02-01T07:26:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Grammy 2026 Panel Debates AI’s Growing Role in Music",
+    "desc": "During Grammy Week 2026, an Instagram panel featuring Miles Minnick, Sierra Hull, will.i.am, and Harvey Mason Jr. explored AI's impact on music. The artists shared concerns about authenticity and the need for responsible AI integration, emphasizing the preservation of human artistry amidst technological advancements.",
+    "img": "https://static.toiimg.com/photo/msid-127836196,imgsize-9381210.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/grammy-2026-panel-miles-minnick-will-i-am-sierra-hull-and-harvey-mason-jr-discuss-ais-growing-role-in-music-and-songwriting/articleshow/127836211.cms",
+    "time": "2026-02-01T07:23:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Big push to ‘future ready’ infra, FM hikes capex by 9%",
+    "desc": "Union finance minister Nirmala Sitharaman announced a nearly 9 per cent increase in capital expenditure to Rs 12.2 lakh crore for FY 2026-27, prioritizing infrastructure-led growth. The budget also introduces a risk guarantee fund to boost private participation and outlines initiatives for transport, logistics, and manufacturing to support future economic expansion.",
+    "img": "https://static.toiimg.com/photo/msid-127835953,imgsize-863569.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-big-push-to-future-ready-infra-fm-hikes-capex-by-9/articleshow/127835921.cms",
+    "time": "2026-02-01T07:08:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shah Rukh Khan’s character in ‘Jailer 2’ revealed",
+    "desc": "Shah Rukh Khan is reportedly joining Rajinikanth’s 'Jailer 2', directed by Nelson Dilipkumar. Mithun Chakraborty confirmed SRK’s special role as Rajinikanth’s close friend. Vijay Sethupathi also shared he’ll make a cameo out of respect for the superstar. The film promises exciting celebrity cameos, adding to the buzz around the much-awaited sequel.",
+    "img": "https://static.toiimg.com/photo/msid-127835947,imgsize-31024.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-character-in-jailer-2-revealed-badshah-of-bollywood-to-play-a-friend-to-rajinikanth-report/articleshow/127835947.cms",
+    "time": "2026-02-01T07:07:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Top announcements made by FM Sitharaman",
+    "desc": "Finance Minister Nirmala Sitharaman unveiled the Union Budget 2026. New rules simplify tax filing and reduce burdens. Key changes include extended deadlines for revised returns and staggered filing dates. Tax Collected at Source rates for education, medical purposes, and overseas tours are reduced. Small taxpayers get easier tax deductions. Awards from the Motor Accident Claims Tribunal are now tax-exempt.",
+    "img": "https://static.toiimg.com/photo/msid-127835365,imgsize-962098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-income-tax-top-announcements-made-by-fm-sitharaman-check-list/articleshow/127835392.cms",
+    "time": "2026-02-01T07:06:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sunetra Pawar: From social work to Maharashtra Deputy CM",
+    "desc": "Sunetra Pawar, former Rajya Sabha MP and social activist from Baramati, has been named Maharashtra’s Deputy Chief Minister following Ajit Pawar’s death. Her rise reflects both her family’s political legacy and her growing influence within the NCP and Maharashtra politics.",
+    "img": "https://th-i.thgim.com/public/incoming/1ahed6/article70577149.ece/alternates/LANDSCAPE_1200/Sunetra.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-sunetra-pawar-from-social-work-to-maharashtra-deputy-cm/article70577151.ece",
+    "time": "2026-02-01T06:49:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dakota Fanning and Chris Evans' 2009 hit 'Push' exits free streaming",
+    "desc": "Dakota Fanning's 2009 psychic thriller 'Push' is leaving Tubi on January 31, 2026, prompting fans to seek it on library-based platforms. The film, starring Fanning and a pre-Captain America Chris Evans, features a tense chase involving superhumans and a drug that fuels a psychic war. Its departure coincides with the stars' current career highs.",
+    "img": "https://static.toiimg.com/photo/msid-127835308,imgsize-833187.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/dakota-fanning-and-chris-evans-2009-hit-push-exits-free-streaming/articleshow/127835312.cms",
+    "time": "2026-02-01T06:42:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Darth Vader’s fortress and its dark legacy",
+    "desc": "Darth Vader's imposing castle on Mustafar, built on a dark side nexus, served as a focal point for his grief and ambition. From attempting to resurrect Padmé to hunting Obi-Wan and facing betrayal, the fortress witnessed pivotal, often tragic, moments in his tormented saga, reflecting his fractured soul.",
+    "img": "https://static.toiimg.com/photo/msid-127835221,imgsize-571737.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/darth-vaders-mustafar-fortress-inside-the-dark-side-stronghold-that-shaped-star-wars-lore/articleshow/127835191.cms",
+    "time": "2026-02-01T06:38:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Taylor Swift reflected on love and life through songs",
+    "desc": "Taylor Swift's lyrical artistry navigates the intricate maze of romance and life’s challenges, presenting stories that many can connect with. From the enchantment of destiny in 'Invisible String' to the poignant nostalgia of short-lived love in 'August,' her words linger in the heart.",
+    "img": "https://static.toiimg.com/photo/msid-127835154,imgsize-40808.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/5-times-taylor-swift-reflected-on-love-and-life-through-her-song-lyrics/articleshow/127835049.cms",
+    "time": "2026-02-01T06:36:59.000Z"
   },
   {
     "cat": "Business",
@@ -18,31 +288,22 @@ const newsData_en = [
     "time": "2026-02-01T06:35:57.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Odisha, Kerala, Andhra, Tamil Nadu to get dedicated rare earth corridors — what it means",
-    "desc": "Union finance minister Nirmala Sitharaman has proposed dedicated rare earth corridors in Odisha, Andhra Pradesh, Tamil Nadu, and Kerala to boost domestic capabilities and reduce import dependence. The initiative, part of the 2026-27 Union Budget, aims to support mining, processing, and manufacturing of critical minerals essential for clean energy and defence.",
-    "img": "https://static.toiimg.com/photo/msid-127834547,imgsize-962098.cms",
+    "cat": "Entertainment",
+    "title": "Aditi Rao Hydari talks about Siddharth being a part of her daily routine",
+    "desc": "Aditi Rao Hydari revealed that husband Siddharth is an essential part of her daily self-care, describing him as an \"energy shot\" providing necessary vitamins and fuel. She emphasized that their relationship remains unchanged post their 2024 wedding, with mutual care continuing as before.",
+    "img": "https://static.toiimg.com/photo/msid-127834986,imgsize-19132.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-odisha-kerala-andhra-tamil-nadu-to-get-dedicated-rare-earth-corridors-what-it-means/articleshow/127834553.cms",
-    "time": "2026-02-01T06:12:37.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditi-rao-hydari-calls-siddharth-her-energy-shot-admits-nothing-has-changed-between-them-even-after-marriage/articleshow/127834986.cms",
+    "time": "2026-02-01T06:32:04.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Sitharaman announces ‘Banking for Viksit Bharat’ panel",
-    "desc": "Union finance minister Nirmala Sitharaman announced measures to bolster India's financial sector, including a high-level committee to review banking for Viksit Bharat. The sector shows improved health with strong balance sheets and high profitability. Reforms also target NBFCs and aim to deepen the corporate bond market.",
-    "img": "https://static.toiimg.com/photo/msid-127834481,imgsize-45132.cms",
+    "cat": "Entertainment",
+    "title": "Grammy speeches that made history over the years",
+    "desc": "Grammy speeches offer raw, human moments that resonate deeply. Adele's heartfelt tribute to Beyoncé, Beyoncé's touching dedication to her Uncle Johnny, Kanye West's jubilant breakthrough, and Helen Reddy's powerful feminist statement all highlight art's ability to connect and inspire.",
+    "img": "https://static.toiimg.com/photo/msid-127834993,imgsize-578543.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/banking-sector-budget-2026-live-bfsi-announcements-sbi-sebi-tax-clarity-and-liquidity-standard-deduction-banking-governance-bill/articleshow/127833859.cms",
-    "time": "2026-02-01T06:09:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "FM Sitharam launches 'India Semiconductor Mission 2.0'—all you need to know",
-    "desc": "Finance Minister Nirmala Sitharaman unveiled \"India Semiconductor Mission 2.0\" with a Rs 40,000 crore outlay to boost chip production, design, and workforce development. Additionally, a Rs 10,000 crore \"Shakti\" initiative aims to build the semiconductor ecosystem. The budget also prioritizes pharmaceutical advancements with new NIPERs and clinical trial networks, alongside support for rare earth manufacturing corridors.",
-    "img": "https://static.toiimg.com/photo/msid-127834406,imgsize-1009403.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-fm-sitharaman-launches-india-semiconductor-mission-2-0all-you-need-to-know/articleshow/127834378.cms",
-    "time": "2026-02-01T06:05:50.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/from-adele-to-beyonc-grammy-speeches-that-made-history-over-the-years/articleshow/127835005.cms",
+    "time": "2026-02-01T06:30:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -72,15 +333,6 @@ const newsData_en = [
     "time": "2026-02-01T05:46:17.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Snoop Dogg’s daughter Cori Broadus loses baby girl",
-    "desc": "Cori Broadus, daughter of Snoop Dogg, announced the heartbreaking passing of her 10-month-old daughter, Codi Dreaux, on January 26. Codi, who was born three months premature, had only recently returned home from the NICU after a ten-month stay. The loss has deeply affected Cori and her fiancé, Wayne Deuce, with fans offering widespread support.",
-    "img": "https://static.toiimg.com/photo/msid-127833800,imgsize-707198.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/snoop-doggs-daughter-cori-broadus-loses-baby-girl-after-20-day-long-nicu-journey/articleshow/127833765.cms",
-    "time": "2026-02-01T05:41:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Novak Djokovic targets 25th Slam",
     "desc": "Novak Djokovic, at nearly 39, reached a record 38th Grand Slam final by defeating Jannik Sinner, showcasing unparalleled mental fortitude. He saved 16 of 18 break points, demonstrating his toughness. Djokovic now faces Carlos Alcaraz in the Australian Open final, aiming for a historic 25th major title and to become the oldest men's singles champion in the Open Era.",
@@ -90,6 +342,15 @@ const newsData_en = [
     "time": "2026-02-01T05:36:38.000Z"
   },
   {
+    "cat": "Business",
+    "title": "Key announcements by FM Nirmala Sitharaman",
+    "desc": "Finance Minister Nirmala Sitharaman presented the Union Budget 2026-27, announcing a Rs 12.2 lakh crore capex target and a fiscal deficit of 4.3%. Key highlights include no changes to income tax slabs, relief for accident compensation recipients, and reduced TCS on overseas tour packages. The new Income Tax Act, 2025, takes effect April 1.",
+    "img": "https://static.toiimg.com/photo/msid-127835273,imgsize-1391780.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-highlights-income-tax-slabs-railway-salaried-middle-class-senior-citizen-stock-market-silver-gold/articleshow/127831217.cms",
+    "time": "2026-02-01T05:32:05.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Gunshots at Rohit Shetty's residence: Police register FIR",
     "desc": "Mumbai Police have registered an FIR after unidentified individuals fired shots outside filmmaker Rohit Shetty's Juhu residence early Sunday morning. Bullet marks were found on the building's glass panels. Authorities are reviewing extensive CCTV footage to identify the culprits and trace their escape route. The motive remains unknown.",
@@ -97,78 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/gunshots-outside-rohit-shettys-residence-mumbai-police-registers-fir-confirm-someone-fired-at-the-building/articleshow/127833025.cms",
     "time": "2026-02-01T05:31:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "All about Diddy's “freak-off” parties",
-    "desc": "Hip-hop mogul Sean 'Diddy' Combs faced federal charges including sex trafficking and racketeering, stemming from alleged \"freak-off\" parties. Prosecutors described these as drug-fueled, multi-day events involving coercion and exploitation. While cleared of major charges, Combs was convicted on Mann Act violations, significantly altering his public image.",
-    "img": "https://static.toiimg.com/photo/msid-127833105,imgsize-40810.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/inside-diddys-freak-off-parties-all-you-need-to-know/articleshow/127833043.cms",
-    "time": "2026-02-01T05:05:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gross GST collections in January rise 6.2% to Rs 1.93 lakh crore, net revenue up 7.6%",
-    "desc": "India’s GST collections in January 2026 rose to Rs 1,93,384 crore, up 6.2% from last year. Net revenue after refunds reached Rs 1,70,719 crore, a 7.6% increase. Domestic GST grew 4.8%, import GST 10.1%, while cumulative collections for April-January FY26 hit Rs 18.43 lakh crore. Government sources said the data “indicates stable consumption trends and steady tax compliance.”",
-    "img": "https://static.toiimg.com/photo/msid-127833068,imgsize-962332.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gross-gst-collections-in-january-rise-6-2-to-rs-1-93-lakh-crore-net-revenue-up-7-6/articleshow/127833036.cms",
-    "time": "2026-02-01T04:56:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Game of Thrones’ fan theories that outlived the finale",
-    "desc": "Years after its finale, Game of Thrones continues to spark fan theories, from Jon Snow's true parentage to Tyrion's potential dragon-riding abilities. The Azor Ahai prophecy and Sansa's role with Sweetrobin were also debated. These intricate ideas, blending book hints and show clues, highlight the series' enduring impact on its audience.",
-    "img": "https://static.toiimg.com/photo/msid-127833042,imgsize-936331.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/game-of-thrones-fan-theories-that-kept-westeros-debates-alive-long-after-the-finale/articleshow/127833017.cms",
-    "time": "2026-02-01T04:55:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Thankful to all our fans, loved ones'",
-    "desc": "Ram Charan and Upasana Kamineni Konidela joyfully welcomed twins, a baby boy and a girl, as announced by proud grandfather Chiranjeevi. The newborns and mother are reported to be healthy. This marks the couple's second time becoming parents, expanding their family to five. Fans are showering the couple with heartfelt congratulations and blessings.",
-    "img": "https://static.toiimg.com/photo/msid-127832802,imgsize-33030.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ram-charan-and-upasana-welcome-twins-thankful-to-all-our-fans-loved-ones-and-well-wishers/articleshow/127832802.cms",
-    "time": "2026-02-01T04:43:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "From 'bahi-khata' to tablet: Tracing Nirmala Sitharaman’s Union Budget journey since 2019",
-    "desc": "Finance minister Nirmala Sitharaman is set to present her ninth consecutive Union Budget on February 1, a historic Sunday sitting. Since 2019, her Budgets have marked milestones—from replacing the briefcase with a ‘bahi-khata’ to longest and shortest speeches—focusing on infrastructure, health, reforms, and inclusive growth. Budget 2026 is expected to boost AI, manufacturing, telecom, and shield the economy amid global trade frictions.",
-    "img": "https://static.toiimg.com/photo/msid-127832557,imgsize-790513.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/from-bahi-khata-to-tablet-tracing-nirmala-sitharamans-union-budget-journey-since-2019/articleshow/127832330.cms",
-    "time": "2026-02-01T04:34:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold, silver prices crash on Budget 2026 day; hit lower circuit levels in futures trade",
-    "desc": "Gold and silver prices experienced a significant tumble on Sunday, hitting lower circuits after a historic crash on Friday. Profit-taking, a stronger US dollar, and speculation surrounding the US Federal Reserve's leadership, particularly the nomination of Kevin Warsh, fueled the sharp correction in precious metals.",
-    "img": "https://static.toiimg.com/photo/msid-127832617,imgsize-69838.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-prices-crash-on-budget-2026-day-hit-lower-circuit-levels-in-futures-trade-whats-causing-the-slide/articleshow/127832498.cms",
-    "time": "2026-02-01T04:31:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sanjay and Arjun shoot for 'Dhurandhar 2': PICS",
-    "desc": "Filming for 'Dhurandhar 2 The Revenge' is underway in Mumbai, with Sanjay Dutt and Arjun Rampal reprising their roles. Viral set photos, transforming a South Mumbai locale into Lyari, Pakistan, have fueled excitement for the sequel, slated for a March 19 release.",
-    "img": "https://static.toiimg.com/photo/msid-127831467,imgsize-49518.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-sanjay-dutt-and-arjun-rampal-spotted-filming-in-mumbai-ahead-of-sequel-release/articleshow/127831461.cms",
-    "time": "2026-02-01T04:29:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hannah Dodd on Francesca’s quiet struggle in ‘Bridgerton’ s4",
-    "desc": "Francesca Bridgerton's Season 4 storyline explores the quiet struggles of a newlywed facing fertility challenges. Actress Hannah Dodd highlights the raw portrayal of intimacy and the era's lack of sexual education for women. The narrative delves into Francesca's isolation and her quest for understanding, promising a nuanced exploration of marital growth.",
-    "img": "https://static.toiimg.com/photo/msid-127832552,imgsize-328238.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/hannah-dodd-breaks-down-francescas-quiet-struggle-in-bridgerton-season-4/articleshow/127832539.cms",
-    "time": "2026-02-01T04:25:38.000Z"
   },
   {
     "cat": "Politics",
@@ -187,24 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/india-vs-pakistan-showdown-icc-reveals-make-or-break-scenario-for-u19-world-cup-semi-final/articleshow/127832139.cms",
     "time": "2026-02-01T04:16:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "What went wrong with Bennifer 2.0?",
-    "desc": "In a tale as old as time, Bennifer—Jennifer Lopez and Ben Affleck—has twice enchanted audiences around the globe. Their early 2000s love story crescendoed amidst overwhelming media attention, ultimately leading to a bittersweet end. After years spent apart, they found their way back to each other, celebrating their union with a wedding in 2022.",
-    "img": "https://static.toiimg.com/photo/msid-127831524,imgsize-48148.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/what-went-wrong-with-bennifer-2-0-inside-the-rise-and-fall-of-hollywoods-most-famous-rekindled-romance/articleshow/127831475.cms",
-    "time": "2026-02-01T04:08:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Apple TV's sci-fi dramas that will keep you hooked",
-    "desc": "Sci-fi has evolved into a genre of prestige storytelling and OTT platforms have mastered the art. From unsettling corporate dystopias to alternate realities, Apple TV has an impressive collection of sci-fi dramas. Here’s a look at some of the standout sci-fi series on the platform that are guaranteed to keep you hooked.‘Severance’This is a dystopian sci-fi series set in a world where employees at the secretive company choose to undergo a medical procedure that completely separates their work memories from their personal lives. In this procedure, their memories are split in two; ‘innie’ and ‘outie.’ The employees’ work selves exist only inside the office and have no knowledge of the outside world and vice versa. This radical experiment promises perfect work-life balance, but it comes at a disturbing cost.",
-    "img": "https://static.toiimg.com/photo/msid-127832171,imgsize-20900.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/apple-tvs-sci-fi-dramas-that-will-keep-you-hooked-severance-constellation-and-more/photostory/127832171.cms",
-    "time": "2026-02-01T04:03:40.000Z"
   },
   {
     "cat": "Politics",
@@ -244,15 +415,6 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Commercial cylinder to cost Rs 49 more from February 1",
-    "desc": "Commercial LPG prices have been revised upwards by Rs 49 for a 19-kg cylinder, bringing the Delhi price to Rs 1,740.50. This follows a previous Rs 111 increase, reversing a period of price relief for businesses. Domestic LPG cylinder prices remain unchanged.",
-    "img": "https://static.toiimg.com/photo/msid-127831429,imgsize-130914.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/lpg-gas-prices-go-up-commercial-cylinder-to-cost-rs-49-more-from-february-1/articleshow/127831326.cms",
-    "time": "2026-02-01T02:52:15.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "Why is the India-EU trade agreement significant?",
     "desc": "How much of the trade value of what India exports to the European Union region will the EU’s tariff concessions cover? Which are the sectors besides textiles, apparel, manufactured goods and Indian traditional medicine services that the free trade agreement will help?",
     "img": "https://th-i.thgim.com/public/incoming/t17atv/article70575590.ece/alternates/LANDSCAPE_1200/PTI01_27_2026_000164B.jpg",
@@ -270,24 +432,6 @@ const newsData_en = [
     "time": "2026-02-01T02:30:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Bruno Mars returns after decade-long hiatus with The Romantic",
-    "desc": "Bruno Mars is set to release his new solo album, 'The Romantic,' on February 27, 2026, marking his first solo project in nearly a decade. He recently collaborated with K-Pop star Rosé on the hit song 'APT,' which is nominated for Song of the Year at the upcoming Grammy Awards.",
-    "img": "https://static.toiimg.com/photo/msid-127831141,imgsize-419958.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bruno-mars-ends-decade-long-hiatus-with-the-romantic-inside-singers-first-music-venture-since-24k-magic/articleshow/127831131.cms",
-    "time": "2026-02-01T02:18:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Prakambanam' BO day 2: Sagar Surya film mints Rs 1.43 crores",
-    "desc": "Horror-comedy 'Prakambanam' is making waves at the box office, showing a significant jump on its second day with Rs 90 lakhs collected in Kerala. The film, starring Ganapathi and Sagar Surya, has garnered positive reviews for its blend of humor and scares, following three college friends whose lives take a chaotic turn. Worldwide gross now stands at Rs 1.43 crores.",
-    "img": "https://static.toiimg.com/photo/msid-127830912,imgsize-87154.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/prakambanam-box-office-collections-day-2-sagar-surya-film-picks-up-pace-mints-rs-1-43-crores/articleshow/127830912.cms",
-    "time": "2026-02-01T01:47:21.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. envoy reports ‘constructive’ Ukraine talks with Russia",
     "desc": "The meeting came just a day before Ukrainian and Russian negotiators were scheduled to meet in Abu Dhabi to discuss a U.S.-backed plan to halt the nearly four-year conflict that began with Russia’s invasion of Ukraine",
@@ -295,15 +439,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-envoy-reports-constructive-ukraine-talks-with-russia/article70575695.ece",
     "time": "2026-02-01T01:20:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'VVK' BO day 2: Jeethu Joseph film mints Rs 2.75 crores",
-    "desc": "Biju Menon and Joju George's 'Valathu Vasathe Kallan' is showing steady box office growth, collecting Rs 1.2 crores on its second day in Kerala. The film has garnered Rs 2.75 crores worldwide in its opening two days. Audiences are particularly enjoying the engaging first half and its emotional twists, despite some noting a lack of intense thriller elements.",
-    "img": "https://static.toiimg.com/photo/msid-127830731,imgsize-23822.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/valathu-vasathe-kallan-box-office-collections-day-2-jeethu-joseph-film-picks-up-mints-rs-2-75-crores-worldwide/articleshow/127830731.cms",
-    "time": "2026-02-01T01:14:28.000Z"
   },
   {
     "cat": "Entertainment",
@@ -396,15 +531,6 @@ const newsData_en = [
     "time": "2026-01-31T16:50:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Centre forms expert panel on healthcare for transgender persons",
-    "desc": "The crucial move was preceded by an advisory panel constituted, last year, on the direction of the Supreme Court in a case regarding a transwoman, who reportedly faced employment discrimination on account of her gender identity",
-    "img": "https://th-i.thgim.com/public/incoming/m7xv7/article70575375.ece/alternates/LANDSCAPE_1200/iStock-1389423089.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/centre-forms-expert-panel-on-healthcare-for-transgender-persons/article70574549.ece",
-    "time": "2026-01-31T16:43:35.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India's wealthy embrace a new luxury symbol: water",
     "desc": "Tap water in India not fit for human consumption;India is among the world's fastest growing bottled water markets; Wealthy opt for premium water as wellness craze boosts industry; Tata expanding offerings, hunting for natural water springs; Premium water now accounts for 8% of Indian market",
@@ -423,15 +549,6 @@ const newsData_en = [
     "time": "2026-01-31T16:26:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "El Nino on the horizon during monsoon months",
-    "desc": "IMD says there is “probability” of an El Nino, but no clarity till April; “early” climate models signal a likely El Nino in 2026, raising the risk of a “sub-par monsoon and drought conditions over India,” says Skymet",
-    "img": "https://th-i.thgim.com/public/incoming/okgi90/article70575295.ece/alternates/LANDSCAPE_1200/iStock-1151355995.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/el-nino-on-the-horizon-during-monsoon-months/article70574911.ece",
-    "time": "2026-01-31T16:17:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Victory for sport': When Chennai stood up for Pakistan after India lost Test match",
     "desc": "Despite a politically charged atmosphere and extremist threats, the 1999 Chennai Test between India and Pakistan showcased remarkable sportsmanship. Sachin Tendulkar's valiant 136-run innings, battling injury, ultimately fell short as Pakistan secured a 12-run victory. The Chennai crowd's standing ovation for the victorious Pakistani team became a powerful testament to the spirit of sport.",
@@ -441,15 +558,6 @@ const newsData_en = [
     "time": "2026-01-31T16:16:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Truck driven on wrong side crushes five bikers to death in Odisha",
-    "desc": "The accident occurred on the Gosain Nuagaon overbridge when the speeding truck ploughed into traffic, crushing five bike riders under its wheels; eight injured persons were rushed to a nearby hospital, where the condition of two was reported to be critical",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/odisha/truck-driven-on-wrong-side-crushes-five-bikers-to-death-in-odisha/article70574123.ece",
-    "time": "2026-01-31T16:02:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Amid uncertainty over T20 WC participation, Pakistan annihilate Australia",
     "desc": "Pakistan secured a T20 series win over Australia with a dominant 90-run victory in Lahore, powered by spinners Abrar Ahmed and Shadab Khan, who bowled Australia out for 108 while chasing 199. Salman Ali Agha’s 76 and Usman Khan’s 53 set up the win. Despite the success, Pakistan’s T20 World Cup participation remains uncertain after the PCB cancelled the jersey launch.",
@@ -457,24 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/amid-uncertainty-over-t20-world-cup-participation-pakistan-annihilate-australia-once-again-on-home-turf/articleshow/127823422.cms",
     "time": "2026-01-31T16:02:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Humayun Kabir blames West Bengal CM for his communal remarks",
-    "desc": "Humayun Kabir said he had made the remarks at the behest of Chief Minister Mamata Banerjee who had asked him to ensure victory to the Trinamool Congress candidates Yusuf Pathan and Abu Taher in the 2024 Lok Sabha elections",
-    "img": "https://th-i.thgim.com/public/incoming/p5kiqx/article70575084.ece/alternates/LANDSCAPE_1200/Will-reduce-TriGJ3FBFBI2.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/humayun-kabir-blames-west-bengal-cm-for-communal-remarks/article70574934.ece",
-    "time": "2026-01-31T15:46:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Water released from Sathanur dam in Tiruvannamalai for irrigation",
-    "desc": "Officials of the Water Resources Department, which maintains the facility, say water is being released into the river and distributed to the left and right bank canals from the pick-up dam for 100 days, up to May 11, for irrigation",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/xbqoqe/article70575133.ece/alternates/LANDSCAPE_1200/7faf9463-86b8-4de9-8daa-196b5c0c87f2.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/water-released-from-sathanur-dam-in-tiruvannamalai-for-irrigation/article70574030.ece",
-    "time": "2026-01-31T15:38:06.000Z"
   },
   {
     "cat": "Sports",
@@ -505,15 +595,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Sachin pep talk inspires India ahead of Pakistan clash at U-19 World Cup",
-    "desc": "India faces Pakistan in a crucial U-19 World Cup Super Six clash, seeking revenge for a crushing Asia Cup final defeat. Inspired by a virtual pep talk from Sachin Tendulkar, the unbeaten Indian side aims to overcome the painful memory of their previous encounter. Pakistan, led by in-form opener Sameer Minhas, presents a formidable challenge.",
-    "img": "https://static.toiimg.com/photo/msid-127818921,imgsize-1386856.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/u-19-world-cup/sachin-tendulkar-pep-talk-inspires-india-ahead-of-pakistan-clash-at-u-19-world-cup/articleshow/127818830.cms",
-    "time": "2026-01-31T11:27:58.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Setback for Sabalenka! Rybakina stuns World No. 1, lifts maiden AO title",
     "desc": "Elena Rybakina won the Australian Open title by defeating world number one Aryna Sabalenka 6-4, 4-6, 6-4, avenging her 2023 final loss. She recovered from a 3-0 deficit in the deciding set, won five straight games, and sealed victory with an ace. The triumph marked her second Grand Slam title after Wimbledon 2022 and highlighted her mental strength and growing confidence on big stages.",
     "img": "https://static.toiimg.com/photo/msid-127818697,imgsize-43242.cms",
@@ -538,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/senate-passes-trump-backed-government-funding-deal-sending-to-house/article70573734.ece",
     "time": "2026-01-31T11:08:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Wicket li toh pa'er chhu lunga'",
-    "desc": "Punjab Kings' new signing Vishal Nishad revealed Virat Kohli's profound influence on his cricket career, calling him his idol. Nishad shared his challenging journey, overcoming family doubts and financial struggles to reach the IPL. He credits his tennis-ball background and supportive coach for his development as a bowler.",
-    "img": "https://static.toiimg.com/photo/msid-127817774,imgsize-31232.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-wicket-li-toh-paer-chhu-lunga-punjab-kings-mystery-spinner-shares-his-virat-kohli-dream/articleshow/127817615.cms",
-    "time": "2026-01-31T10:19:43.000Z"
   },
   {
     "cat": "Business",
@@ -783,33 +855,6 @@ const newsData_en = [
     "time": "2026-01-29T18:34:19.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Economic Survey calls for fiscal flexibility for the Centre, cautions States against worsening finances",
-    "desc": "The Economic Survey argued that, while the Centre has managed to substantially improve its fiscal deficit ratios since the COVID-19 pandemic, the States have seen their finances worsen over this period due to falling revenue and higher spending on unconditional cash transfers",
-    "img": "https://th-i.thgim.com/public/incoming/1jl73c/article70567374.ece/alternates/LANDSCAPE_1200/20260129361L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/economic-survey-calls-for-fiscal-flexibility-for-the-centre-cautions-states-against-worsening-finances/article70565806.ece",
-    "time": "2026-01-29T17:09:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Has health spending by the Centre increased?",
-    "desc": "As per data from the Reserve Bank of India, allocations for health and family welfare as a percentage of GDP by all States and Union Territories have increased from 2017-18. In contrast, the Union government’s spending on health, which increased moderately during the pandemic, has decreased post-pandemic",
-    "img": "https://th-i.thgim.com/public/incoming/dbbgui/article70567366.ece/alternates/LANDSCAPE_1200/URBAN%20HEALTH%20PRIMARY%20HEALTH%20CENTRE%20HOSPITAL%20DMK%20MK%20STALIN%20CORPORATION_05.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/has-health-spending-by-the-centre-increased/article70567351.ece",
-    "time": "2026-01-29T17:08:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Economic Survey",
-    "desc": "The Survey in its past iterations has framed climate change as a global risk that threatens food production, livelihoods and has called upon countries - at various times - to “support” developing countries such as India to transition away from fossil fuel",
-    "img": "https://th-i.thgim.com/public/newsletter/the-evening-wrap/3e6b25/article70567215.ece/alternates/LANDSCAPE_1200/iStock-511198768.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/cutting-carbon-emissions-should-not-be-top-priority-economic-survey/article70566500.ece",
-    "time": "2026-01-29T16:22:17.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "India now has 958 million active internet users; 57% of these are from rural areas",
     "desc": "Rural regions now account for over 57% of India’s active internet users and are growing at nearly four times the pace of urban India, signalling a structural shift in where and how digital adoption is expanding",
@@ -817,15 +862,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/india-now-has-958-million-active-internet-users-57-of-these-are-from-rural-areas/article70566646.ece",
     "time": "2026-01-29T16:09:37.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Economic Survey 2025-26: CEA recommends rationalising tax on debt-assets",
-    "desc": "Currently, short-term capital gains from debt instruments are taxed at the tax rates applicable to investors. For equities, however, holding less than a year attracts a capital gain tax of 20% and more than a year attracts 12.5% rate.",
-    "img": "https://th-i.thgim.com/public/news/national/8j7el5/article70566854.ece/alternates/LANDSCAPE_1200/iStock-1019219898.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/economic-survey-2025-26-cea-recommends-rationalising-tax-on-debt-assets/article70566726.ece",
-    "time": "2026-01-29T15:18:33.000Z"
   },
   {
     "cat": "Tech",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/sarah-taylor-interview-its-scary-to-think-where-india-will-be-in-five-years-time/article70562661.ece",
     "time": "2026-01-28T21:19:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘A Knight of the Seven Kingdoms’ series review: A Hedge Knight shows Westeros how to trim the fat",
-    "desc": "By trusting us to keep up with a story that stays small and moves cleanly, ‘A Knight of the Seven Kingdoms’ sidesteps the franchise’s usual lore-hoarding instincts and ends up feeling lighter, smarter, and oddly refreshed",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/6quthk/article70560722.ece/alternates/LANDSCAPE_1200/Screenshot%202026-01-28%20163357.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/a-knight-of-the-seven-kingdoms-series-review-a-hedge-knight-shows-westeros-how-to-trim-the-fat/article70560741.ece",
-    "time": "2026-01-28T12:00:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Swiatek supports Gauff’s call for balance",
-    "desc": "While Gauff said “conversations needs to be had” about the seemingly limitless access-all-areas cameras that track players from the locker room to the court, Swiatek asked are we like animals in the zoo where they are observed everywhere",
-    "img": "https://th-i.thgim.com/public/incoming/ri3h9u/article70560451.ece/alternates/LANDSCAPE_1200/Australia_Tennis_91611.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/tennis/privacy-debate-swiatek-supports-gauffs-call-for-balance/article70560418.ece",
-    "time": "2026-01-28T09:55:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘One Battle After Another’ and ‘Sinners’ lead a polarised field",
-    "desc": "The 2026 BAFTA nominations, led by One Battle After Another (14 nods) and Sinners (13), reshape the final run toward the Oscars and highlight a year in which British taste and Academy choices seem to be both aligning and diverging",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/oeft7k/article70560087.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/bafta-nominations-2026-one-battle-after-another-and-sinners-lead-a-polarised-field/article70560093.ece",
-    "time": "2026-01-28T07:29:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘I am calling it off’: Arijit Singh retires from playback singing",
-    "desc": "In a message shared on his social media pages, Mr. Singh said he has decided to step away from playback singing, a move that comes at the peak of his career as one of the most in-demand voices in Hindi cinema",
-    "img": "https://th-i.thgim.com/public/incoming/ljg5oh/article70558048.ece/alternates/LANDSCAPE_1200/PTI01_27_2026_000452B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/i-am-calling-it-off-arijit-singh-retires-from-playback-singing/article70558017.ece",
-    "time": "2026-01-28T06:12:09.000Z"
   }
 ];

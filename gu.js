@@ -1,12 +1,48 @@
 const newsData_gu = [
   {
     "cat": "Business",
-    "title": "શેરબજારને લઈને મોટી જાહેરાત... વિદેશી રોકાણકારોનું આગમન હવે નિશ્ચિત, સેન્સેક્સ-નિફ્ટીમાં રોનક",
+    "title": "બજેટમાં ખેડૂતોને શું મળ્યું ? જાણો કૃષિ ક્ષેત્રે સરકારે શું કરી જાહેરાત",
+    "desc": "નાણામંત્રી નિર્મલા સીતારમણ નવમી વખત બજેટ રજૂ કર્યું. તેમણે દેશના ખેડૂતો માટે મોટી જાહેરાત કરી છે. તેમના બજેટ ભાષણમાં તેમણે નાના અને સીમાંત ખેડૂતો પર ખાસ ધ્યાન આપવાની વાત કરી. નાણામંત્રીએ ઉત્પાદકતા વધારવા માટે નાળિયેર ઉત્પાદન યોજનાની જાહેરાત કરી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/agriculture/budget-2026-agriculture-sector-nirmala-sitharaman-announcement-for-farmers-463609 ",
+    "time": "2026-02-01T09:06:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "શું થયું સસ્તું અને શું થયું મોંઘું, નાણામંત્રીએ કરી મોટી જાહેરાતો, ચેક કરો લિસ્ટ",
+    "desc": "કેન્દ્રીય નાણાં પ્રધાન નિર્મલા સીતારમણ આજે, રવિવાર, 1 ફેબ્રુઆરીના રોજ તેમનું સતત નવમું બજેટ રજૂ કરી રહ્યા છે. બજેટ રજૂ થયા બાદ, સામાન્ય માણસનું ધ્યાન હવે કઈ વસ્તુઓ સસ્તી થશે કે મોંઘી થશે તેના પર કેન્દ્રિત છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/what-became-cheap-and-what-became-expensive-finance-minister-made-big-announcements-check-the-list-463587 ",
+    "time": "2026-02-01T08:48:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બજેટ બાદ શું છે સોના-ચાંદીની સ્થિતિ? લગડી-દાગીનાની ખરીદી માટેનો સોનાનો ભાવ કેટલો? જાણો લેટેસ્ટ રેટ",
+    "desc": "નાણામંત્રી નિર્મલા સીતારમણે આજે કેન્દ્રીય બજેટ રજૂ કર્યું. જો કે બજેટ રજૂ થયું તે પહેલા અને બજેટ રજૂ થયા પછી સોના અને ચાંદીના ભાવમાં ભયંકર ઘટાડો જોવા મળ્યો છે. વાયદા બજાર અને રિટેલ બજારમાં હાલ શું ભાવ ચાલે છે તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/gold-silver-rate-after-budget-2026-what-is-the-latest-price-of-gold-for-buying-jewellery-aaj-no-sona-chandi-no-bhav-463603 ",
+    "time": "2026-02-01T08:11:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "બજેટ 2026 : નાણામંત્રીએ સ્પોર્ટ્સ સેક્ટરને આપી ખાસ ભેટ, જાણો ખેલાડીઓને શું થશે ફાયદો",
+    "desc": "બજેટમાં સ્પોર્ટ્સ માટે ખાસ જાહેરાત કરવામાં આવી છે. 'ખેલો ઇન્ડિયા મિશન' અંતર્ગત આગામી 10 વર્ષ સુધી કામગીરી કરવામાં આવશે. જે અંતર્ગત તાલીમ કેન્દ્રો (Training Centers) બનાવવામાં આવશે. વ્યવસ્થિત રીતે કોચ અને સપોર્ટ સ્ટાફને તાલીમ આપવામાં આવશે. વિવિધ સ્પર્ધાઓ અને લીગનું આયોજન થશે. રમતગમતના માળખાને તાલીમ અને સ્પર્ધાઓ માટે વિકસાવવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/budget-2026-nirmala-sitharaman-khelo-india-mission-10-year-sports-plan-463604 ",
+    "time": "2026-02-01T08:07:09.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "બજેટમાં શેરબજારને લઈને મોટી જાહેરાત... વિદેશી રોકાણકારોનું આગમન હવે નિશ્ચિત",
     "desc": "નાણામંત્રી નિર્મલા સીતારમણ આજે નાણાકીય વર્ષ 2026-27 માટે બજેટ રજૂ કરી રહ્યા છે. લગભગ એક દાયકામાં આ પહેલીવાર છે જ્યારે રવિવારે સંસદમાં બજેટ રજૂ કરવામાં આવી રહ્યું છે. નિર્મલા સીતારમણે સતત નવમી વખત બજેટ રજૂ કરવાનો રેકોર્ડ બનાવ્યો છે. આ દરમિયાન શેરબજારને લઈને એક મોટી જાહેરાત કરવામાં આવી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/budget-2026-fm-nirmala-sitharaman-stock-market-sensex-nifty-463579 ",
-    "time": "2026-02-01T06:36:35.000Z"
+    "time": "2026-02-01T07:00:57.000Z"
   },
   {
     "cat": "Entertainment",
@@ -108,7 +144,7 @@ const newsData_gu = [
     "time": "2026-01-31T13:04:44.000Z"
   },
   {
-    "cat": "Business",
+    "cat": "Politics",
     "title": "સોનું-ચાંદી અને કરોડોની મિલકત... અજિત પવાર કરતાં પણ વધુ છે સુનેત્રા પવારની સંપત્તિ",
     "desc": "બારામતીમાં વિમાન દુર્ઘટનામાં અજિત પવારના નિધન બાદ હવે તેમના પત્ની સુનેત્રા અજિત પવારને મહારાષ્ટ્રના નાયબ મુખ્યમંત્રી બનાવવામાં આવ્યા છે. તેઓ મહારાષ્ટ્રના પ્રથમ મહિલા નાયબ મુખ્યમંત્રી બનીને એક નવો અધ્યાય લખશે. ત્યારે આ લેખમાં અમે તેમની સંપત્તિ વિશે જણાવીશું.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -142,15 +178,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/shocking-twist-in-prem-sadhvi-baisas-death-the-truth-revealed-by-the-rooms-cctv-footage-cctv-ashram-missing-463468 ",
     "time": "2026-01-31T10:31:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold-Silver: સોના-ચાંદીના ભાવમાં હજુ ઘટાડો જોવા મળી શકે છે, જાણો એક્સપર્ટે શું આપી ચેતવણી?",
-    "desc": "બજેટ પહેલા જ શુક્રવારે સોના અને ચાંદીમાં ભયંકર ઉથલપાથલ જોવા મળી અને સોનું 30 હજારથી વધુ અને ચાંદી એક લાખથી વધુ સસ્તી થઈ ગઈ. અચાનક આ કડાકો એમ આવ્યો અને એક્સપર્ટ શું કામ એમ કહે છે કે હજુ પણ ભાવ ઘટી શકે છે તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/what-market-experts-say-on-the-fall-in-gold-and-silver-prices-z-24-kalak-exclusive-463462 ",
-    "time": "2026-01-31T10:03:44.000Z"
   },
   {
     "cat": "Politics",
@@ -196,15 +223,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/maharashtra-politics-sharad-pawar-big-statement-on-decision-to-make-sunetra-pawar-dycm-463436 ",
     "time": "2026-01-31T05:14:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold-Silver Rate Explainer: ચાંદીના ભાવમાં એક લાખનો ઘટાડો, સોનું 33 હજાર જેટલું સસ્તું, લેટેસ્ટ રેટ અને ભાવ ઘટાડાનું કારણ ખાસ જાણો",
-    "desc": "સોના અને ચાંદીમાં જ્યારે બંપર તેજી જોવા મળી તો રોકાણકારો ખુશખુશાલ થઈ ગયા હતા. પરંતુ અચાનક શુક્રવારનો દિવસ કઈક એવો જોવા મળ્યો કે સોના ચાંદીનું માર્કેટ લોહીલુહાણ થઈ ગયું. કારણકે ભાવમાં અકલ્પનીય ઘટાડો જોવા મળ્યો. અચાનક ઊભી થયેલી આ પરિસ્થિતિ પાછળ શું કારણ હતું તે પણ ખાસ જાણો અને હાલ કેટલા ભાવ છે તે પણ જાણી લો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/silver-rate-explainer-gold-rate-check-latest-rates-and-why-gold-silver-rate-suddenly-crashed-463430 ",
-    "time": "2026-01-31T03:42:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -259,15 +277,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/a-9000-km-long-brown-snake-was-found-in-the-atlantic-ocean-wreaking-havoc-from-africa-to-america-463390 ",
     "time": "2026-01-30T13:53:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "બજેટ પૂર્વે કેમ યોજાય છે &amp;#039;હલવા સેરેમની&amp;#039;? જ્યારે એકવાર તોડવી પડી હતી આ પરંપરા, જાણો શું હતું કારણ?",
-    "desc": "આ વર્ષે દેશનું બજેટ રવિવારના દિવસે રજૂ થવા જઈ રહ્યું છે, પરંતુ બજેટ પહેલા હલવા સેરેમની ખૂબ જ ખાસ હોય છે. ચાલો જાણીએ કે, ક્યા વર્ષે આ સેરેમની મનાવવામાં આવી ન હતી અને તેની પાછળના કારણો શું હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/budget-2026-halwa-ceremony-history-and-significance-463379 ",
-    "time": "2026-01-30T12:37:33.000Z"
   },
   {
     "cat": "Politics",
@@ -502,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/jio-hotstar-latest-monthly-plans-hotstar-ott-subscription-plans-start-from-79-rupees-463183 ",
     "time": "2026-01-28T15:05:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 વર્લ્ડ કપ પહેલા પેટ કમિન્સે છોડી ક્રિકેટ ? વીડિયો થયો વાયરલ, જાણો શું છે હકીકત",
-    "desc": "પેટ કમિન્સનો સ્ટેન્ડ-અપ કોમેડી કરતો વીડિયો સોશિયલ મીડિયામાં વાયરલ થયો હતો, જેના કારણે નિવૃત્તિની ચર્ચા થઈ રહી છે. ત્યારે આ વીડિયો પાછળની હકીકત શું છે અને પેટ કમિન્સની નિવૃત્તિ અંગેનું સત્ય શું છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/did-pat-cummins-quit-cricket-truth-behind-the-viral-video-463164 ",
-    "time": "2026-01-28T12:02:28.000Z"
   },
   {
     "cat": "Entertainment",

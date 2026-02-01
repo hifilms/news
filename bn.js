@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "স্টেজে গান গাইতে গিয়ে অর্কদীপকে ছোড়া হল জুতো! প্রতিবাদের নতুন 'ভাষা' তুলে ধরলেন সারেগামাপা জয়ী গায়ক",
+    "desc": "অনুষ্ঠান করতে গিয়ে অর্কদীপের সঙ্গে ঘটে গেল বিপত্তি৷ স্টেজে গান গাইবার সময় তাঁকে উদ্দেশ্য করে জুতো ছুড়ে মারা হয়৷ একজন দর্শকের এই আচরণে হকচকিয়ে যান গায়ক ও তাঁর টিম৷ গান থামিয়ে দেন তাঁরা৷ কেন এমন হল, সেই প্রশ্ন উঠল!",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/2026-02-deb20bc5ccea29b736e0f53cd16e13fa-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/bengali-singer-arkadeep-misra-faces-harassment-while-performing-of-stage-at-birati-organisers-helped-him-pbd-2521663.html",
+    "time": "2026-02-01T06:51:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "এ যেন 'বড় পরীক্ষা'! শুভকামনা জানিয়ে বাজেট পেশের আগে নির্মলা সীতারমনকে দই-চিনি খাওয়ালেন রাষ্ট্রপতি দ্রৌপদী মুর্মু",
+    "desc": "কেন্দ্রীয় বাজেট পেশের দিন শুরু হল এক পরিচিত ভারতীয় রীতিতে। সংসদে বাজেট উপস্থাপনের আগে রাষ্ট্রপতি ভবনে অর্থমন্ত্রীকে দই-চিনি খাওয়ানোর মাধ্যমে শুভকামনা জানানো হয়। বহু বছর ধরে চলে আসা এই প্রথা বাজেট দিবসে এক বিশেষ সাংস্কৃতিক তাৎপর্য বহন করে। গুরুত্বপূর্ণ সিদ্ধান্তের আগে শুভ সূচনা ও ইতিবাচক পরিবেশ তৈরির প্রতীক হিসেবেই এই রীতি পালন করা হয়, যা বাজেট পেশের দিনের আনুষ্ঠানিকতার সঙ্গে অঙ্গাঙ্গিভাবে জড়িয়ে রয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/budget-2026-9-2026-02-6a22772d78cc49edd3ca556631732724.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/business/union-budget-2026-president-draupadi-murmu-treats-finance-minister-nirmala-sitaraman-with-curd-before-she-presents-budget-why-this-ritual-pbd-2521688.html",
+    "time": "2026-02-01T06:51:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Union Budget 2026| এবারের বাজেটে খনিতে জোর দেওয়ার সিদ্ধান্ত, কী কী ঘোষণা নির্মলার?",
+    "desc": "Union Budget 2026| ‘বায়োফার্মা শক্তি’ প্রকল্পে বরাদ্দ ১০ হাজার কোটি। ভারতকে বায়ো ফার্মার হাবে পরিণত করতে ‘বায়োফার্মা শক্তি’ প্রকল্প, বরাদ্দ ১০ হাজার কোটি। জানালেন কেন্দ্রীয় অর্থমন্ত্রী। ওড়িশা, কেরল, অন্ধ্রপ্রদেশ, তামিলনাড়ুতে বিরল ধাতুর হাব তৈরি হবে। খনিতে জোর দেওয়ার সিদ্ধান্তও নেওয়া হয়েছে বলে জানালেন কেন্দ্রীয় অর্থমন্ত্রী।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Nirmala-Sitharaman-2026-02-00ecb1bbd818d1e8418a4a78bef4ed52-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/business/union-budget-2026-nirmala-sitharaman-announces-rare-earth-corridors-in-4-states-including-tamil-nadu-ss-2521664.html",
+    "time": "2026-02-01T06:50:19.000Z"
+  },
+  {
     "cat": "Business",
     "title": "\"কিছুদিন আগেই তো বাংলা নতুন রেল পেল, এই বাজেটেও বাংলা বাইরে থাকবে না\" শমীক ভট্টাচার্য",
     "desc": "কেন্দ্রীয় বাজেট ২০২৬ ঘিরে সাধারণ মানুষের প্রত্যাশা অনেকটাই। ১ ফেব্রুয়ারি অর্থমন্ত্রী নির্মলা সীতারমন বাজেট পেশ করবেন। সেখানে পেট্রোল ও ডিজেলকে পণ্য ও পরিষেবা কর বা জিএসটির আওতায় আনার ঘোষণা হতে পারে বলে মনে করা হচ্ছে। দীর্ঘদিন ধরেই পেট্রোল ও ডিজেলকে জিএসটির আওতায় আনার দাবি জানানো হচ্ছে। এই সিদ্ধান্ত কার্যকর হলে সাধারণ মানুষের উপর বড়সড় স্বস্তি আসতে পারে।",
@@ -387,15 +414,6 @@ const newsData_bn = [
     "time": "2026-01-28T14:07:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "মারণ তুষারঝড়ে ৪ দিন ছোট্ট প্রভুর মৃতদেহের পাশেই থাকল পোষ্য কুকুর! মৃত্যুর চোখে চোখ রেখে কেন?",
-    "desc": "পোষ্যের সঙ্গে তার প্রভুর সম্পর্কের রসায়নের নানারকম আশ্চর্য ঘটনা আমরা যুগ যুগ ধরেই শুনে আসছি। এবার সামনে এল সেরকমই এক ছবি। পোষ্য বসে বসে পাহারা দিল তার প্রভুর মরদেহ (Pet dog guards bodies of owner)। টানা চার দিন। আশ্চর্য ঘটনা। কোথায় ঘটল? কেন?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/pet-dog-guards-bodies-of-owner-13-year-old-piyush-kumar-for-4-days-amid-snow-in-himachals-chamba-himachal-pradesh-snowfall_637972.html ",
-    "time": "2026-01-28T12:07:25.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "\"পুরো চুল কাটার পর নিজেকে নগ্ন মনে হচ্ছিল\" নারীত্ব নিয়ে অকপট ফতিমা সানা শেখ",
     "desc": "ফতিমা সানা শেখ 'দঙ্গল'-এ কাজ করার অভিজ্ঞতা নিয়ে কথা বলেন। তিনি বলেন যে প্রশিক্ষণ এতটাই তীব্র ছিল যে গীতা ফোগাট এবং ববিতা ফোগাটকে আর কিছু জিজ্ঞাসা করার প্রয়োজন ছিল না। তবে, যখন তিনি তাঁদের দেখেছিলেন, তখন তাঁর মনে হয়েছিল, \"আমাকে তাঁদের মতোই দেখতে হতে হবে।\"",
@@ -403,15 +421,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/actress-fatima-sana-shaikh-says-how-she-felt-when-her-hair-was-cut-for-dangal-movie-tc-pbd-2516523.html",
     "time": "2026-01-28T12:04:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "সময় দিল কমিশন, SIR সংঘাতে এবার দিল্লিতে মমতা, থাকছেন ১৬ প্রতিনিধিও...",
-    "desc": "SIR-র প্রতিবাদে জানাতে আজ, বুধবারই দিল্লি যাওয়ার কথা ছিল মমতার। ঠিক ছিল, সিঙ্গুরে সভা করেই দিল্লির উদ্দেশ্য়ে রওনা দেবেন তিনি। কিন্তু সকালে বিমান দুর্ঘটনায় নিহত হন মহারাষ্ট্রের উপমুখ্যমন্ত্রী অজিত পওয়ার। এরপর নবান্ন থেকে মুখ্যমন্ত্রীর দিল্লির সফর স্থগিতের কথা জানানো হয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/ec-gives-time-to-cm-mamata-banerjee-to-discuss-sir-in-bengal_637971.html ",
-    "time": "2026-01-28T11:57:39.000Z"
   },
   {
     "cat": "Entertainment",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/sip-stopped-are-you-making-a-big-mistake-know-the-right-time-to-stop-sip-dc-2507953.html",
     "time": "2026-01-22T03:21:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "এলাহী 'ভোজ' তো...! হাওড়া-কামাখ্যা বন্দে ভারত স্লিপারের 'মেনুতে' কী কী থাকছে জানেন? চমকে দেবে তালিকা!",
-    "desc": "বন্দেভারতের প্রথম স্লিপার ট্রেনে পরিবেশিত খাবারেও দুই রাজ্যের স্বাদই চোখে পড়বে। নতুন স্লিপার ট্রেনের যে মেনু প্রকাশ্যে এসেছে, জানা গিয়েছে, তাতে থাকবে পশ্চিমবঙ্গ এবং অসম— এই দুই রাজ্যেরই ঐতিহ্যশালী সব পদ আর লোভনীয় সব খাবারদাবার।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-21-at-11.35.02-1-2026-01-d9781bd7f5a78d3d9bead6fac2ee3f43-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/vande-bharat-sleeper-menu-what-a-lavish-feast-do-you-know-whats-on-the-menu-of-the-howrah-kamakhya-vande-bharat-sleeper-train-the-list-will-surprise-you-for-sure-sanj-2506701.html",
-    "time": "2026-01-22T02:09:04.000Z"
   }
 ];

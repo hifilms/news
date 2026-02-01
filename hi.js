@@ -1,7 +1,43 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "IND vs PAK U-19 Live Cricket Score: India aim to book semi-final berth as they take on Pakistan",
+    "title": "'Really difficult': Sunil Gavaskar makes massive statement on star batter ahead of T20 World Cup 2026",
+    "desc": "The stage is set for the upcoming edition of the T20 World Cup 2026. The marquee tournament will be co-hosted by India and Sri Lanka. The marquee tournament is slated to kick off on February...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/really-difficult-sunil-gavaskar-makes-massive-statement-on-star-batter-ahead-of-t20-world-cup-2026-2026-02-01-1028450",
+    "time": "2026-02-01T08:54:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Djokovic wins first set 6-2, Alcaraz under pressure in AO Final",
+    "desc": "Novak Djokovic and Carlos Alcaraz lock horns today in the much-awaited Australian Open final at the Rod Laver Arena. Djokovic did the unthinkable to beat Jannik Sinner in a five-set thriller, while Alcaraz defeated a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-vs-carlos-alcaraz-live-score-generations-collide-in-australian-open-2026-final-1028449",
+    "time": "2026-02-01T08:43:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How many runs India need to score to knock Pakistan out?",
+    "desc": "India and Pakistan locked horns today in the final Super Six clash of the U19 World Cup. Both teams are in a race to qualify for the semifinal, even as India are ahead in terms...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-u19-world-cup-how-many-runs-india-need-to-score-to-knock-pakistan-out-2026-02-01-1028436",
+    "time": "2026-02-01T07:35:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India asked to bat first as captains avoid handshake at toss in U19 World Cup 2026",
+    "desc": "India U19 take on Pakistan U19 in the Super Sixes clash of the ongoing U19 World Cup 2026. The two sides locked horns at the Queens Sports Club in Bulawayo on February 1. The clash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-india-asked-to-bat-first-as-captains-avoid-handshake-at-toss-in-u19-world-cup-2026-2026-02-01-1028433",
+    "time": "2026-02-01T07:29:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND vs PAK U-19 Live Cricket Score: Vedant-Vihaan key, India three down",
     "desc": "India U19 and Pakistan U19 are all set to take on each other in the Super Sixes clash of the ongoing U19 World Cup. The two sides take on each other at the Queens Sports...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-live-where-to-watch-u19-world-cup-2026-clash-on-tv-and-streaming-in-india-2026-02-01-1028360",
     "time": "2026-02-01T01:42:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What is career Grand Slam in tennis as Carlos Alcaraz bids to create history at Australian Open? Check here",
-    "desc": "Spain superstar Carlos Alcaraz faces Serb icon Novak Djokovic in the final of the Australian Open 2026 with eyes set on the Rod Laver Arena for the final battle of the Grand Slam on Sunday,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/what-is-career-grand-slam-in-tennis-as-carlos-alcaraz-bids-to-create-history-at-australian-open-check-here-2026-02-01-1028351",
-    "time": "2026-01-31T18:35:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India create T20I world record against New Zealand after blistering batting in series",
-    "desc": "India have shattered a major world record during their fifth and final T20I of the series against New Zealand after a jaw-dropping batting display. Well led by Ishan Kishan, the Men in Blue piled up...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-create-t20i-world-record-against-new-zealand-after-blistering-batting-in-series-2026-01-31-1028346",
-    "time": "2026-01-31T18:06:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ishan Kishan or Sanju Samson, who will open? Suryakumar Yadav answers ahead of T20 World Cup 2026",
-    "desc": "Ishan Kishan was the standout performer in the fifth T20I against New Zealand at the Greenfield International Stadium in Thiruvananthapuram. Slotted in at No.3, the southpaw produced a blistering knock, registering his maiden T20I hundred....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-or-sanju-samson-who-will-open-suryakumar-yadav-answers-ahead-of-t20-world-cup-2026-2026-01-31-1028345",
-    "time": "2026-01-31T18:03:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch Australian Open final live on TV and stream online in India?",
-    "desc": "The Australian Open 2026 final sets the stage for another defining chapter in the modern men’s game as Carlos Alcaraz and Novak Djokovic prepare to collide in Melbourne’s Rod Laver Arena. It is a matchup...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-vs-novak-djokovic-where-to-watch-australian-open-final-live-on-tv-and-stream-online-in-india-2026-01-31-1028341",
-    "time": "2026-01-31T17:29:11.000Z"
   }
 ];
