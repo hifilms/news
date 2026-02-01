@@ -1,7 +1,43 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Pakistan government clears team's participation for T20 World Cup 2026, refuses to play clash against India",
+    "title": "ICC issues first official statement after Pakistan's refusal to play group game vs India in T20 World Cup 2026",
+    "desc": "The International Cricket Council (ICC) has issued its first official statement after the Pakistan government directed its team to not play the T20 World Cup 2026 group stage match against India on February 15. In its...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-issues-first-official-statement-after-pakistans-refusal-to-play-india-in-t20-world-cup-2026-2026-02-01-1028527",
+    "time": "2026-02-01T18:05:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan captain Salman Ali Agha gives first reaction after government decides India boycott at T20 World Cup",
+    "desc": "Pakistan captain Salman Ali Agha has given his first reaction after his government decided to boycott the T20 World Cup 2026 match against India. The Pakistan government, in a statement on Sunday, cleared the team...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-captain-salman-ali-agha-gives-first-reaction-after-government-decides-india-boycott-at-t20-world-cup-2026-02-01-1028525",
+    "time": "2026-02-01T17:53:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What actions can ICC take against Pakistan for boycotting India clash in T20 World Cup 2026?",
+    "desc": "The Pakistan government confirmed its national team's participation in the T20 World Cup 2026; however, it refused to allow the team to play the match against India, which is scheduled to take place at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-actions-can-icc-take-against-pakistan-for-boycotting-india-clash-in-t20-world-cup-2026-2026-02-01-1028519",
+    "time": "2026-02-01T16:43:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What will happen when Pakistan boycott their T20 World Cup 2026 clash against India? Explained",
+    "desc": "Pakistan have decided that they will be participating in the T20 World Cup 2026; however, the Men in Green won't be allowed to play in their match against India on February 15. The Pakistan government released...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-will-happen-when-pakistan-boycott-their-t20-world-cup-2026-clash-against-india-explained-2026-02-01-1028515",
+    "time": "2026-02-01T15:54:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan to boycott Feb 15 match against India, confirm tournament participation",
     "desc": "The Pakistan government has cleared its national team to feature in the upcoming T20 World Cup 2026; however, it has denied the team permission to play the match against India on February 15 in Colombo. This...",
     "img": "",
     "src": "indiatvnews.com",
@@ -28,8 +64,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "With playoff spot on line, Delhi Capitals face UP Warriorz",
-    "desc": "Delhi Capitals and UP Warriorz face each other in the last group stage match of the Women's Premier League 2026 as a playoff spot remains up for grabs. With Royal Challengers Bengaluru and Gujarat Giants...",
+    "title": "Delhi Capitals beat UP Warriorz to book playoff spot, to face GG",
+    "desc": "Delhi Capitals defeated UP Warriorz in a must-win group stage match of the Women's Premier League 2026. The jittery Capitals chased down 123 in their clash at the BCA Stadium, Kotambi, Vadodara to book their...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/dcw-vs-upw-wpl-2026-live-cricket-score-delhi-capitals-vs-up-warriorz-latest-match-updates-scorecard-teams-playing-xis-2026-02-01-1028502",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/did-novak-djokovic-drop-hint-on-retirement-at-australian-open-2026-closing-ceremony-2026-02-01-1028492",
     "time": "2026-02-01T12:43:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How much prize money did Carlos Alcaraz win after clinching Australian Open 2026 title? Check here",
-    "desc": "Carlos Alcaraz etched his name into the history books as the 22-year-old became the youngest ever player to complete a career Grand Slam in the history of the sport. Alcaraz defeated Serb icon Novak Djokovic...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/how-much-prize-money-did-carlos-alcaraz-win-after-clinching-australian-open-2026-title-check-here-2026-02-01-1028490",
-    "time": "2026-02-01T12:18:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Carlos Alcaraz breaks 88-year-old record with maiden Australian Open triumph, defeats Djokovic in final",
-    "desc": "Carlos Alcaraz created history today, winning the Australian Open for the first time in his career, beating the veteran Novak Djokovic, who was chasing his 25th Grand Slam title. However, it was the 22-year-old who...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-breaks-88-year-old-record-with-maiden-australian-open-triumph-defeats-djokovic-in-final-2026-02-01-1028484",
-    "time": "2026-02-01T11:48:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Can India qualify for U19 World Cup 2026 semifinal if they lose to Pakistan?",
-    "desc": "India lock horns against Pakistan in a crucial U19 World Cup 2026 Super Six clash at the Queens Sports Club, Bulawayo, on Sunday, February 1, with a semifinal spot up for grabs. India are one...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/can-india-qualify-for-u19-world-cup-2026-semifinal-if-they-lose-to-pakistan-2026-02-01-1028481",
-    "time": "2026-02-01T11:47:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan's comical fielding on display vs India, Vaibhav Suryavanshi gets two lifelines on one ball",
-    "desc": "Pakistan made a comedy of errors against the dangerman Vaibhav Suryavanshi in their must-win clash against India in the U19 World Cup 2026. Pakistan face an uphill task against the Indian team as they look...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistans-comical-fielding-on-display-vs-india-vaibhav-suryavanshi-gets-two-lifelines-on-one-ball-watch-2026-02-01-1028467",
-    "time": "2026-02-01T10:26:40.000Z"
   }
 ];

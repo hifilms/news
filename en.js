@@ -1,5 +1,212 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "Budget 2026 moots several proposals to rejuvenate indigenous shipping",
+    "desc": "In today’s speech, the Finance Minister spoke about the government’s aim to develop inland and coastal shipping so that its share in total cargo carried through road, rail and water increases from 6% to 12%",
+    "img": "https://th-i.thgim.com/public/incoming/el7o8q/article70580308.ece/alternates/LANDSCAPE_1200/2501_28_8_2021_9_13_25_2_64D0536F_2F67_455C_942A_26A3E548C0BA.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/budget-2026-moots-several-proposals-to-rejuvenate-indigenous-shipping/article70578875.ece",
+    "time": "2026-02-01T18:24:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Customs duty removed for 17 imported cancer meds; relief for rare diseases drugs",
+    "desc": "Overall health spending saw only modest growth with the Health Ministry being allocated ₹1.05 lakh crore for FY 2026-27, just over six percent higher than the previous year and roughly nine percent more than the revised estimates",
+    "img": "https://th-i.thgim.com/public/incoming/6yil09/article70577883.ece/alternates/LANDSCAPE_1200/iStock-1393837248.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/budget-2026-cancer-drugs-custom-duties/article70577841.ece",
+    "time": "2026-02-01T18:22:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Marginal hike in allocations for Social Justice Dept., Tribal Affairs Ministry",
+    "desc": "The Social Justice Department’s allocation for 2026-27 is ₹13,687.59 crore and the Tribal Affairs Ministry has been allocated ₹15,421.97 crore; the allocations have increased by 16.69% and 42.47% respectively compared with their respective Revised Estimates for the current fiscal",
+    "img": "https://th-i.thgim.com/public/incoming/38bnm8/article70580260.ece/alternates/LANDSCAPE_1200/10215_16-11-2017_18-2-32_16GNRAO-HOSTELSTUDENTDEATH.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/budget-2026-marginal-hike-in-allocations-for-social-justice-dept-tribal-affairs-ministry/article70579432.ece",
+    "time": "2026-02-01T18:10:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka is set to lose about ₹10,000 crore to ₹15,000 crore due to 16th FC’s recommendation, says Siddaramaiah",
+    "desc": "“When Karnataka’s share in the divisible pool of central taxes fell from 4.71% under the 14th Finance Commission to 3.64% under the 15th Finance Commission, the estimated loss was over 23% in revenue,” he pointed out.",
+    "img": "https://th-i.thgim.com/public/incoming/rvm1aa/article70579896.ece/alternates/LANDSCAPE_1200/CM_1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-is-set-to-lose-about-10000-to-15000-crore-due-to-16th-fcs-recommendation-says-siddaramaiah/article70579266.ece",
+    "time": "2026-02-01T17:56:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC reacts to Pakistan’s decision of boycotting T20 WC match vs India",
+    "desc": "The ICC has raised serious concerns over Pakistan’s decision to boycott its February 15 T20 World Cup 2026 match against India, saying selective participation goes against the spirit of global tournaments. While awaiting official word from the PCB, the ICC stressed that fairness, integrity and equal competition are core to its events. It warned of long-term consequences, urged a resolution, and said the boycott could harm the global game and fans, including those in Pakistan.",
+    "img": "https://static.toiimg.com/photo/msid-127846038,imgsize-82370.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/icc-reacts-to-pakistans-decision-of-boycotting-t20-world-cup-match-vs-india/articleshow/127846014.cms",
+    "time": "2026-02-01T17:56:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Delhi scrape through tense chase, knock out Mumbai to enter WPL Eliminator",
+    "desc": "Delhi Capitals secured a spot in the WPL Eliminator by defeating UP Warriorz by five wickets. Chasing a modest 123, Delhi's chase saw a mid-innings wobble but captain Jemimah Rodrigues' unbeaten 34 guided them home. This victory also eliminated defending champions Mumbai Indians from the tournament. Delhi will now face Gujarat Giants in the semi-final.",
+    "img": "https://static.toiimg.com/photo/msid-127846178,imgsize-113776.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/delhi-capitals-scrape-through-tense-chase-knock-out-mumbai-indians-to-enter-wpl-eliminator/articleshow/127846247.cms",
+    "time": "2026-02-01T17:54:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Belligerent and uncomplicated — pocket-dynamite Kishan is here to stay",
+    "desc": "The 27-year-old, with a whirlwind outing against New Zealand, has overtaken Samson in the race to be India’s wicketkeeper-batter/opener for the T20 World Cup; his blistering century in Thiruvananthapuram proved to be the icing on the cake",
+    "img": "https://th-i.thgim.com/public/incoming/5wblx4/article70580192.ece/alternates/LANDSCAPE_1200/NH31Ishan25.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ishan-kishan-sanju-samson-india-wicketkeeper-t20-world-cup/article70580187.ece",
+    "time": "2026-02-01T17:52:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Djokovic hints at uncertain future after first Australian Open final loss",
+    "desc": "Despite his Australian Open final loss, Novak Djokovic remains confident in his ability to win another Grand Slam. The 38-year-old expressed disappointment with his performance after a strong start but acknowledged contentment with his runner-up finish. Djokovic hinted at retirement while thanking Melbourne for its support and looking forward to family time.",
+    "img": "https://static.toiimg.com/photo/msid-127846015,imgsize-145468.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/god-knows-what-happens-tomorrow-novak-djokovic-hints-at-uncertain-future-after-first-australian-open-final-loss/articleshow/127846020.cms",
+    "time": "2026-02-01T17:44:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Mrunal revealed why her ex-boyfriend ran away",
+    "desc": "Mrunal Thakur, amidst wedding rumours with Dhanush, is set to star in the upcoming love story 'Do Deewane Seher Mein'. She previously shared that an ex-boyfriend left her, citing her impulsiveness and acting career as reasons. Thakur expressed relief at the breakup, highlighting their fundamental differences and contrasting upbringings, which she felt would impact future parenting.",
+    "img": "https://static.toiimg.com/photo/msid-127845900,imgsize-27386.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-mrunal-thakur-revealed-her-ex-boyfriend-ran-away-because-she-was-an-actress-youre-too-impuslive/articleshow/127845752.cms",
+    "time": "2026-02-01T17:36:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Carlos Alcaraz conquers Melbourne to complete historic career Grand Slam",
+    "desc": "Carlos Alcaraz achieved a historic career Grand Slam at 22, defeating Novak Djokovic in a thrilling Australian Open final. Despite a turbulent pre-season, Alcaraz showcased remarkable composure and strategic brilliance, adapting his game to overcome the seasoned champion. His improved serve, influenced by Djokovic himself, proved pivotal in securing the Norman Brookes Challenge Cup.",
+    "img": "https://static.toiimg.com/photo/msid-127845883,imgsize-98544.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/carlos-alcaraz-conquers-melbourne-to-complete-historic-career-grand-slam/articleshow/127845730.cms",
+    "time": "2026-02-01T17:36:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Exclusive",
+    "desc": "Former Pakistan captain Rashid Latif believes Pakistan’s boycott of the India match at the T20 World Cup is a calculated move aimed squarely at the ICC’s financial and governance structure. Linking the decision to Bangladesh’s removal from the tournament, Latif argues this is not an emotional reaction but a strategic play that could reshape world cricket negotiations.",
+    "img": "https://static.toiimg.com/photo/msid-127845128,imgsize-78836.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/exclusive-rashid-latif-on-pakistan-boycotting-india-match-in-24-hours-anything-is-possible/articleshow/127845028.cms",
+    "time": "2026-02-01T17:19:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Union Budget proposals spark political debate ahead of West Bengal polls",
+    "desc": "Infrastructure proposals in the Union Budget, including freight and industrial corridors and tourism projects, have triggered a political clash in West Bengal ahead of Assembly elections, with the BJP pitching development and the TMC calling the announcements political signalling.",
+    "img": "https://th-i.thgim.com/public/incoming/cept98/article70580114.ece/alternates/LANDSCAPE_1200/80717_1_2_2026_17_18_56_4_010226MAMATABANERJEE4.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-union-budget-proposals-spark-political-debate-ahead-of-west-bengal-polls/article70580115.ece",
+    "time": "2026-02-01T17:06:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Agri Ministry allocation up 2.6%; farm outfits say FM ignored their demands",
+    "desc": "No hike for Kisan Samman Nidhi; agri research and education budget drops 4.8%; Food and PDS gets 10% hike; new multilingual AI tool, high-value cash crops get extra support; government did not fulfil promises to farmers, says BKS",
+    "img": "https://th-i.thgim.com/public/incoming/fnxy2g/article70580106.ece/alternates/LANDSCAPE_1200/iStock-1161414177.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/union-budget-2026-agri-ministry-allocation-up-26-farm-outfits-say-fm-ignored-their-demands/article70578805.ece",
+    "time": "2026-02-01T17:03:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Trade bodies say Budget powers MSMEs, provides boost to domestic manufacturing and further simplifies doing business",
+    "desc": "A growth-oriented and sector-enabling Budget for micro and small scale industries that balances capital infusion, infrastructure expansion and proposes cluster modernisation, and policy reform to support global competitiveness and sustainable employment generation in the MSE sector",
+    "img": "https://th-i.thgim.com/public/incoming/z04rxg/article70580044.ece/alternates/LANDSCAPE_1200/DSC_2734.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/trade-bodies-say-budget-powers-msmes-provides-boost-to-domestic-manufacturing-and-further-simplifies-doing-business/article70579774.ece",
+    "time": "2026-02-01T16:40:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Stars are exploiting the system': Imran slams actors charging exhorbitant fees",
+    "desc": "Actor Imran Khan, making a comeback, critiques the system where actors' fees inflate film budgets. He argues stars should invest in their projects, taking responsibility for success rather than demanding exorbitant upfront salaries. Khan highlights his uncle Aamir Khan's approach of taking payment at the backend for further clarity on it...",
+    "img": "https://static.toiimg.com/photo/msid-127844810,imgsize-36588.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/stars-are-exploiting-the-system-says-imran-khan-slamming-actors-burdening-a-film-with-huge-fees-says-aamir-khan-has-never-done-that-hes-never-going-to-say-give-me-rs-60-crore-exclusive/articleshow/127844737.cms",
+    "time": "2026-02-01T16:39:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India outclass Pakistan, set up semi-final vs Afghanistan",
+    "desc": "Young all-rounder Kanishk Chouhan starred as India beat Pakistan by 58 runs to reach the ICC U-19 World Cup semifinals, where they face Afghanistan. India posted 252, boosted by Kanishk’s quick 35 and Vedant Trivedi’s 68. Pakistan lacked urgency, managing only 194. Spin trio Kanishk, Khilan Patel and Ayush Mhatre sealed a dominant win.",
+    "img": "https://static.toiimg.com/photo/msid-127844541,imgsize-71234.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/u19-world-cup-india-outclass-pakistan-by-58-runs-set-up-semi-final-clash-against-afghanistan/articleshow/127844421.cms",
+    "time": "2026-02-01T16:21:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Union Budget 2026: what’s in it for textile and MSME?",
+    "desc": "Finance Minister Nirmala Sitharaman had announced a fresh allocation of ₹10,000 crore to the small and medium enterprises (SMEs) growth fund in the Budget speech on Sunday (February 1, 2026), in a bid to give fresh incentives to lakhs of small businesses and enterprises in the country.",
+    "img": "https://th-i.thgim.com/public/incoming/pec3ob/article70579917.ece/alternates/LANDSCAPE_1200/Textile%20MSME.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-union-budget-2026-whats-in-it-for-textile-and-msme/article70579930.ece",
+    "time": "2026-02-01T16:17:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Budget draws mixed reactions from common people",
+    "desc": "While some say Budget aligns with long-term vision of Viksit Bharat 2047, some express concerns about implementation of proposed initiatives and highlight unaddressed gaps in scholarships, education loans, teacher upskilling and campus-level mental health support",
+    "img": "https://th-i.thgim.com/public/incoming/hjjhmy/article70579822.ece/alternates/LANDSCAPE_1200/DSC_8211.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/budget-draws-mixed-reactions-from-common-people/article70579590.ece",
+    "time": "2026-02-01T15:54:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan crush Australia in series decider, rewrite T20 record books",
+    "desc": "Pakistan delivered a crushing 111-run victory over Australia, completing a 3-0 series whitewash just before the T20 World Cup. This marked Australia's largest T20 defeat ever. Pakistan's formidable 207-6, powered by Saim Ayub and Babar Azam, proved too much, with spinners Mohammad Nawaz (5-18) and Shaheen Shah Afridi dismantling the Australian chase for 96.",
+    "img": "https://static.toiimg.com/photo/msid-127843988,imgsize-175180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-crush-australia-in-series-decider-rewrite-t20-record-books/articleshow/127844012.cms",
+    "time": "2026-02-01T15:52:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What does the Union Budget 2026 say on direct taxes?",
+    "desc": "The Finance Minister Nirmala Sitharaman’s direct tax announcements during the Budget 2026 speech marked a major overhaul in India’s tax system. At the heart of the reforms is the new Income Tax Act of 2025, which will replace the decades-old law, from April 2026, with simpler rules and redesigned forms to make compliance easier for ordinary taxpayers.",
+    "img": "https://th-i.thgim.com/public/incoming/fhgi4a/article70579834.ece/alternates/LANDSCAPE_1200/taxes.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-what-does-the-union-budget-2026-say-on-direct-taxes/article70579829.ece",
+    "time": "2026-02-01T15:50:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold, silver prices in free fall! Silver hits lower circuit at Rs 2.65 lakh in futures trade; ‘overspeeding leads to a crash’",
+    "desc": "Over the last two sessions, silver has declined by a cumulative Rs 1,34,241, translating into a fall of 33.6%. On a weekly basis, the metal has dropped by nearly 21%, or Rs 69,047, from its level of Rs 3,34,699 per kg recorded on January 23.",
+    "img": "https://static.toiimg.com/photo/msid-127844075,imgsize-43512.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-prices-in-free-fall-silver-hits-lower-circuit-at-rs-2-65-lakh-in-futures-trade-overspeeding-leads-to-a-crash/articleshow/127844056.cms",
+    "time": "2026-02-01T15:40:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alia calls Ranbir best boy in an emotional letter, says Raha is a little lawyer",
+    "desc": "Alia Bhatt penned an emotional letter to her younger self, sharing heartfelt advice and expressing gratitude for her life. She spoke fondly of her parents, sister Shaheen, and daughter Raha, calling Ranbir Kapoor the 'best boy in the world.' The actress's touching words about her family and future resonated deeply with fans, eliciting an outpouring of love and admiration.",
+    "img": "https://static.toiimg.com/photo/msid-127843788,imgsize-35974.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-calls-ranbir-kapoor-the-best-boy-in-the-world-in-an-emotional-letter-to-her-younger-self-reveals-raha-is-a-little-lawyer-did-sadak-2-to-spend-time-with-dad-mahesh-bhatt/articleshow/127843807.cms",
+    "time": "2026-02-01T15:19:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Alcaraz dispatches Djokovic to become younger Career Grand Slam winner",
+    "desc": "Mick Jagger’s ode to Lucifer could very easily be retrofitted for Novak Djokovic, a figure for whom tennis fans have developed a begrudging sympathy over the years. But Carlos Alcaraz had no such sympathy. He had his own date with destiny.",
+    "img": "https://static.toiimg.com/photo/msid-127843820,imgsize-111892.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/no-sympathy-for-the-djoker-carlos-alcaraz-dispatches-novak-djokovic-to-keep-date-with-destiny/articleshow/127843797.cms",
+    "time": "2026-02-01T15:15:14.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Pakistan to boycott February 15 T20 World Cup match against India",
     "desc": "Pakistan's government has officially confirmed that the national team will not participate in the 2026 ICC Men's T20 World Cup match against India. While granting permission for the team to travel to Sri Lanka, the statement indicated a boycott of the February 15, 2026, group-stage fixture without providing a specific reason.",
@@ -52,15 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/he-shared-everything-with-me-fadnavis-rubbishes-speculations-over-merger-of-ncp-after-ajit-pawars-death/articleshow/127843132.cms",
     "time": "2026-02-01T14:14:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Customs duty removed for 17 imported cancer meds; relief for rare diseases drugs",
-    "desc": "Overall health spending saw only modest growth with the Health Ministry being allocated ₹1.05 lakh crore for FY 2026-27, just over six percent higher than the previous year and roughly nine percent more than the revised estimates",
-    "img": "https://th-i.thgim.com/public/incoming/6yil09/article70577883.ece/alternates/LANDSCAPE_1200/iStock-1393837248.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/budget-2026-cancer-drugs-custom-duties/article70577841.ece",
-    "time": "2026-02-01T14:08:35.000Z"
   },
   {
     "cat": "Business",
@@ -145,24 +343,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Assam CM sticks to his ‘Miya’ remarks",
-    "desc": "Referring to his earlier remark that if a Miya rickshaw-puller charges ₹5 as fare, he should be paid ₹4, CM Sarma said, \"I had, in fact, spoken for their benefit. If one goes by the law, they cannot work here.”",
-    "img": "https://th-i.thgim.com/public/incoming/rotnjc/article70578856.ece/alternates/LANDSCAPE_1200/PTI01_30_2026_000348B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/assam/miyas-will-face-trouble-till-i-remain-cm-himanta/article70578820.ece",
-    "time": "2026-02-01T13:34:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "A crusader for sustainable, spiritual Zero Budget Natural Farming",
-    "desc": "His model, now called as the Subhash Palekar Krushi, consists of seven steps — no cultivation, seed treatment with Beejamrut, nutrition with Jeevamrut, five-layer farming, no weeding, no use of fertilisers, insecticides, pesticides or weedicides, and integrated farming with cattle and mulching.",
-    "img": "https://th-i.thgim.com/public/incoming/povvvh/article70578682.ece/alternates/LANDSCAPE_1200/9727_1_2_2026_13_44_36_2_02BGMSUBHASHPALEKAR4.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/subhash-palekar-a-crusader-for-sustainable-spiritual-zero-budget-natural-farming/article70577414.ece",
-    "time": "2026-02-01T13:31:12.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "\"Budget for Developed India-2047\": Uttarakhand CM Pushkar Singh Dhami lauds Union Buget 2026-27",
     "desc": "Dhami highlighted Prime Minister Narendra Modi's leadership and said the budget reflects today's needs and the vision for the future. Dhami noted that the budget provides opportunities to every section of society, ensuring their upliftment and said that it will \"strengthen social balance and inclusive development.\"",
     "img": "https://static.toiimg.com/photo/msid-127842511,imgsize-985882.cms",
@@ -180,15 +360,6 @@ const newsData_en = [
     "time": "2026-02-01T13:22:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Accessibility should not be an afterthought, say experts",
-    "desc": "Empathy should be developed towards the differently abled from the school level itself by making it part of the curriculum, so that future innovators design solutions accessible to all, says Anoop P. Ambika, CEO, Kerala Startup Mission",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/knu7b/article70578710.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-01%20at%2016.51.20.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/accessibility-should-not-be-an-afterthought-say-experts/article70578586.ece",
-    "time": "2026-02-01T13:18:37.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Did 'Dhadak 2' director Shazia Iqbal call 'Dhurandhar' a sinister film?",
     "desc": "Filmmaker Shazia Iqbal indirectly criticised Aditya Dhar's spy thriller 'Dhurandhar', calling it a \"sinister film\" with a \"troubling intent\" that incites hate and violence. She also targeted the teaser for 'The Kerala Story 2', highlighting concerns about propaganda and prejudice amplified by social media.",
@@ -196,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-dhadak-2-director-shazia-iqbal-call-dhurandhar-a-sinister-film-the-director-drops-cryptic-note-says-inciting-hate-and-violence-is-the-films-dna/articleshow/127842168.cms",
     "time": "2026-02-01T13:13:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress demands PM Modi to come clean on 'disclosures' on him made in Epstein files",
-    "desc": "The Ministry of External Affairs strongly rejected a reference to PM Modi in the investigative files related to Epstein, describing it as \"little more than trashy ruminations by a convicted criminal\" that deserves to be dismissed with the \"utmost contempt\"",
-    "img": "https://th-i.thgim.com/public/incoming/a886tb/article70578653.ece/alternates/LANDSCAPE_1200/11_JAIRAM_RAMESH_PC_03_01_DELHI.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/congress-demands-pm-modi-to-come-clean-on-disclosures-on-him-made-in-epstein-files/article70578602.ece",
-    "time": "2026-02-01T13:06:49.000Z"
   },
   {
     "cat": "Business",
@@ -241,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/world/middle-east/tax-revolution-in-the-uae-e-invoicing-will-change-how-you-get-paid-no-more-manual-vat-fixes/articleshow/127840838.cms",
     "time": "2026-02-01T12:41:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Kerala is a fort against religious polarisation, says N. Ram",
-    "desc": "In his keynote address during the inauguration of ‘Kerala for All’ conclave, N. Ram says inclusive and accessible tourism should be treated as a right of all tourists and not something that is given as charity or as a special privilege",
-    "img": "https://th-i.thgim.com/public/incoming/l1ggoh/article70578428.ece/alternates/LANDSCAPE_1200/10018_1_2_2026_17_52_6_3_KERALA_FOR_ALL_15.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-for-all-conclave-kerala-is-a-fort-against-religious-polarisation-says-n-ram/article70577062.ece",
-    "time": "2026-02-01T12:29:33.000Z"
   },
   {
     "cat": "Politics",
@@ -477,15 +630,6 @@ const newsData_en = [
     "time": "2026-02-01T10:18:44.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Govt eases compliance for NRIs in property and investments—explained",
-    "desc": "The Union Budget 2026-27 brings significant relief for NRIs and overseas investors. Property transactions for non-residents will see simplified TDS compliance, with buyers no longer needing a TAN. Additionally, a new route allows direct equity investments in India for overseas individuals, raising investment caps and easing market access.",
-    "img": "https://static.toiimg.com/photo/msid-127838992,imgsize-556583.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-govt-eases-compliance-for-nris-in-property-and-investmentsexplained/articleshow/127838958.cms",
-    "time": "2026-02-01T10:07:49.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Twisted OTT movies u can't miss",
     "desc": "Step into an electrifying realm of suspense with must-see new titles! Experience the chilling neo-noir intrigue of 'Reptile' on Netflix, alongside the psychological labyrinths of 'I'm Thinking of Ending Things' and 'Freddy.' These films guarantee to keep you on the edge of your seat.",
@@ -493,15 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/english/twisted-ott-movies-u-cant-miss-reptile-andhadhun-and-more/articleshow/127838595.cms",
     "time": "2026-02-01T09:50:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Space Budget Rises For 2026-27: Capital outlay climbs for new missions; industry role expands",
-    "desc": "India's space program receives a significant boost with a Rs 13,705.6 crore allocation for 2026-27, a jump driven by increased capital expenditure. This funding signals a strong push towards developing new launch vehicles, satellite infrastructure, and ambitious exploration missions, including those tied to the Gaganyaan roadmap.",
-    "img": "https://static.toiimg.com/photo/msid-127838660,imgsize-674587.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-space-department-allocation-rises-to-rs-13706-crore-capital-spend-gains-pace/articleshow/127838489.cms",
-    "time": "2026-02-01T09:50:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -522,15 +657,6 @@ const newsData_en = [
     "time": "2026-02-01T09:37:01.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Rs 95,692.31cr allocated for VB-G RAM G, Jal Jeevan Mission outlay raised to Rs 67,670cr",
-    "desc": "The Centre is launching the Viksit Bharat–Guarantee for Rozgar Aajeevika Mission (Grameen) with a Rs 95,692.31 crore allocation, replacing the MGNREGA which sees a reduced earmark of Rs 30,000 crore. Significant increases are also noted for PMAY-G and PMGSY, alongside allocations for JJM and DAY-NRLM.",
-    "img": "https://static.toiimg.com/photo/msid-127838225,imgsize-861294.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-rs-95692-31cr-allocated-for-vb-g-ram-g-jal-jeevan-mission-outlay-raised-to-rs-67670cr/articleshow/127838192.cms",
-    "time": "2026-02-01T09:26:21.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Bollywood celebs who faced gunshot incidents",
     "desc": "red carpets, flashing lights, all that. But sometimes, things get messy when the cameras stop rolling. Over the years, a few Bollywood stars have found themselves in the middle of real-life gunfire. Some were just accidents, like a slip of the hand at home. Others were way more serious, with shootings tied to the underworld or rivalries that spilled into violence right outside studio gates.Not every story ends in tragedy, though. Some actors bounced back, stronger and maybe a little more cautious. Others barely escaped and found themselves suddenly at the center of a media frenzy. Let's look at some gun shot incident that shook Bollywood over the years.",
@@ -538,15 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rohit-shetty-salman-khan-rakesh-roshan-bollywood-celebs-who-faced-gunshot-incidents/photostory/127838209.cms",
     "time": "2026-02-01T09:24:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How NDA parties, opposition reacted",
-    "desc": "Finance Minister Nirmala Sitharaman presented the Union Budget 2026-27, increasing capital expenditure to Rs 12.2 lakh crore. The Rs 53.5 lakh crore budget received mixed reactions, with the BJP hailing it as growth-oriented, while the Congress termed it \"disappointing\" and lacking specifics for common citizens.",
-    "img": "https://static.toiimg.com/photo/msid-127837947,imgsize-1062698.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-how-nda-parties-opposition-reacted/articleshow/127837882.cms",
-    "time": "2026-02-01T09:09:05.000Z"
   },
   {
     "cat": "Entertainment",
@@ -567,15 +684,6 @@ const newsData_en = [
     "time": "2026-02-01T09:05:42.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Shahid credits Leonardo for shaping his role-selection mindset",
-    "desc": "Shahid Kapoor revealed that Leonardo DiCaprio’s approach to choosing roles deeply influenced him. Discussing his upcoming film O’ Romeo with Vishal Bhardwaj, Shahid said he strives to explore beyond his comfort zone. He also praised co-star Triptii Dimri, calling her “a very good actress” with a “strong and heartfelt” character.",
-    "img": "https://static.toiimg.com/photo/msid-127837883,imgsize-21188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shahid-kapoor-credits-leonardo-dicaprio-for-shaping-his-role-selection-mindset-i-read-a-very-interesting-/articleshow/127837883.cms",
-    "time": "2026-02-01T09:05:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Handshake refused! India vs Pakistan U19 World Cup showdown opens with tense moment",
     "desc": "India and Pakistan U-19 captains notably skipped the customary handshake at the toss for their crucial World Cup encounter. This follows a recent trend of no handshakes between the two nations' cricket teams amid ongoing political tensions. The match is a must-win for Pakistan to keep their semi-final hopes alive.",
@@ -592,15 +700,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/pakistan-deflecting-attention-from-internal-failings-india-rejects-baseless-claims-on-balochistan-attacks/articleshow/127837240.cms",
     "time": "2026-02-01T08:29:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aditi Rao Hydari talks about working on ‘O Saathi Re’",
-    "desc": "Aditi Rao Hydari could hardly contain her excitement while discussing 'O Saathi Re,' a project she fantasized about collaborating on with the renowned director Imtiaz Ali ever since their work on 'Rockstar.' She praised the exhilarating atmosphere on set, crediting Ali's vibrant energy as both a showrunner and a writer, alongside the directorial acumen of Arif Ali.",
-    "img": "https://static.toiimg.com/photo/msid-127837069,imgsize-13780.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/gandhi-talks-star-aditi-rao-hydari-talks-about-working-with-imtiaz-ali-shares-details-about-o-saathi-re/articleshow/127837069.cms",
-    "time": "2026-02-01T08:19:56.000Z"
   },
   {
     "cat": "Politics",
@@ -621,15 +720,6 @@ const newsData_en = [
     "time": "2026-02-01T07:26:06.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Novak Djokovic targets 25th Slam",
-    "desc": "Novak Djokovic, at nearly 39, reached a record 38th Grand Slam final by defeating Jannik Sinner, showcasing unparalleled mental fortitude. He saved 16 of 18 break points, demonstrating his toughness. Djokovic now faces Carlos Alcaraz in the Australian Open final, aiming for a historic 25th major title and to become the oldest men's singles champion in the Open Era.",
-    "img": "https://static.toiimg.com/photo/msid-127833676,imgsize-55230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/australian-open-final-novak-djokovic-targets-25th-slam-carlos-alcaraz-bids-to-become-youngest-career-slam-winner/articleshow/127833608.cms",
-    "time": "2026-02-01T05:36:38.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Gunshots at Rohit Shetty's residence: Police register FIR",
     "desc": "Mumbai Police have registered an FIR after unidentified individuals fired shots outside filmmaker Rohit Shetty's Juhu residence early Sunday morning. Bullet marks were found on the building's glass panels. Authorities are reviewing extensive CCTV footage to identify the culprits and trace their escape route. The motive remains unknown.",
@@ -637,42 +727,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/gunshots-outside-rohit-shettys-residence-mumbai-police-registers-fir-confirm-someone-fired-at-the-building/articleshow/127833025.cms",
     "time": "2026-02-01T05:31:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Looking to see what benefits Kerala gets': Tharoor ahead of Budget presentation",
-    "desc": "Congress MP Shashi Tharoor emphasized that the Union Budget must translate projected economic growth into job creation, warning that jobless growth offers no benefit to India's youth. He highlighted employment generation as a key expectation, especially with robust growth prospects flagged by the Economic Survey. States, including Kerala facing upcoming elections, are also keenly awaiting central government support.",
-    "img": "https://static.toiimg.com/photo/msid-127832269,imgsize-34648.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/looking-to-see-what-benefits-kerala-gets-tharoor-ahead-of-budget-presentation/articleshow/127832264.cms",
-    "time": "2026-02-01T04:20:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC reveals make-or-break scenario for U19 WC semis",
-    "desc": "India face Pakistan in a crucial U-19 World Cup match. The winner secures a semi-final berth. India seeks revenge for a recent Asia Cup loss. Australia, Afghanistan, and England have already qualified. The game's outcome will determine the final semi-finalist. Pakistan needs a significant win to advance. India has a clearer path to qualification.",
-    "img": "https://static.toiimg.com/photo/msid-127832370,imgsize-63300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/india-vs-pakistan-showdown-icc-reveals-make-or-break-scenario-for-u19-world-cup-semi-final/articleshow/127832139.cms",
-    "time": "2026-02-01T04:16:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I don't see Sanju Samson being part of the XI': Gavaskar drops big hint",
-    "desc": "Despite a lean patch, Sanju Samson failed to perform on his home ground in the fifth T20I against New Zealand. Ishan Kishan and Suryakumar Yadav then dominated, with Kishan scoring a rapid century. Sunil Gavaskar criticized Samson's form, suggesting he might miss out on the T20 World Cup XI.",
-    "img": "https://static.toiimg.com/photo/msid-127831881,imgsize-81230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/i-dont-see-sanju-samson-being-part-of-the-xi-gavaskar-drops-big-hint-on-samsons-future-after-ishan-kishans-blistering-century/articleshow/127831872.cms",
-    "time": "2026-02-01T03:39:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tilak Varma to play warm-ups before T20 World Cup: Suryakumar Yadav",
-    "desc": "India receives a significant fitness boost ahead of the T20 World Cup with positive updates on Washington Sundar and Tilak Varma. Sundar has resumed batting and bowling during his rehabilitation, while Varma is nearing full fitness after surgery and is expected to join the squad soon.",
-    "img": "https://static.toiimg.com/photo/msid-127831671,imgsize-43868.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/tilak-varma-to-play-warm-ups-before-t20-world-cup-suryakumar-yadav/articleshow/127831660.cms",
-    "time": "2026-02-01T03:19:13.000Z"
   },
   {
     "cat": "Sports",
@@ -691,33 +745,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-envoy-reports-constructive-ukraine-talks-with-russia/article70575695.ece",
     "time": "2026-02-01T01:20:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Border 2' crosses Rs 250 crore mark",
-    "desc": "Sunny Deol's 'Border 2' continues its phenomenal box office run, surpassing Rs 250 crore in just under 10 days. The war film saw a strong second Saturday, adding significantly to its impressive collections. Despite new competition, 'Border 2' has become the highest-grossing film of 2026, with global earnings nearing Rs 344 crore.",
-    "img": "https://static.toiimg.com/photo/msid-127830728,imgsize-15398.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-9-sunny-deol-starrer-sees-good-growth-on-second-saturday-crosses-rs-300-crore-worldwide/articleshow/127830607.cms",
-    "time": "2026-02-01T01:11:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pak bowler under fire! Green’s angry reaction to Tariq goes viral",
-    "desc": "Pakistan beat Australia by 90 runs in the second T20I in Lahore, taking an unassailable 2-0 lead. Salman Agha scored 76 while Usman Khan added 53 as Pakistan posted 198-5. Controversy arose when Cameron Green accused Usman Tariq of chucking after his dismissal. Pakistan’s spinners dominated, bowling Australia out for 108, with Abrar Ahmed and Shadab Khan leading the charge.",
-    "img": "https://static.toiimg.com/photo/msid-127825268,imgsize-43634.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/watch-pakistan-bowler-under-fire-cameron-greens-angry-reaction-to-usman-tariq-goes-viral/articleshow/127824819.cms",
-    "time": "2026-02-01T00:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCB targets journalists, imposes restrictions after T20 World Cup snub",
-    "desc": "The BCB has introduced strict entry rules for journalists at the Sher-e-Bangla National Cricket Stadium due to increased security measures amid controversy over Bangladesh’s T20 World Cup participation. Media must use Gate 1 and can enter only on match days, press events, or approved sessions. The move follows the ICC’s decision to replace Bangladesh with Scotland for the 2026 T20 World Cup starting February 7.",
-    "img": "https://static.toiimg.com/photo/msid-127824500,imgsize-107352.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/applicable-to-all-bcb-targets-journalists-imposes-sudden-restrictions-after-t20-world-cup-snub/articleshow/127824214.cms",
-    "time": "2026-01-31T23:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/gazas-rafah-crossing-with-egypt-to-reopen/article70570192.ece",
     "time": "2026-01-30T12:31:35.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "The rise and fall of Gen. Zhang Youxia",
-    "desc": "On January 24, China’s Ministry of National Defence stunned observers when it announced that Gen. Zhang and Liu Zhenli, another member of the CMC and Chief of Staff of the CMC Joint Staff Department, were under investigation “for suspected serious discipline and law violations”",
-    "img": "https://th-i.thgim.com/public/incoming/ssgvkc/article70570201.ece/alternates/LANDSCAPE_1200/China_Military_Investigation_61871.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/the-rise-and-fall-of-gen-zhang-youxia/article70570054.ece",
-    "time": "2026-01-30T12:29:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Not the end of the road for Manpreet, others: Hockey India",
-    "desc": "The Federation could be looking at working a way out to allow an honourable exit to the players, specially Manpreet, by including them for the Asian Games making it clear it would be their farewell event",
-    "img": "https://th-i.thgim.com/public/incoming/ypdsfu/article70570193.ece/alternates/LANDSCAPE_1200/_KMK3080.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/hockey/not-the-end-of-the-road-for-manpreet-others-hockey-india/article70570007.ece",
-    "time": "2026-01-30T12:09:18.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Kurdish-led force, Syrian Government reach new agreement to stabilise ceasefire",
-    "desc": "“Security forces affiliated with the Syrian Ministry of Interior would go into the cities of al-Hassakeh and Qamishli in the Kurdish heartland, which they had previously been barred from entering, and the process of integrating SDF and government forces would begin,” says the statement",
-    "img": "https://th-i.thgim.com/public/incoming/nei4b1/article70570076.ece/alternates/LANDSCAPE_1200/2026-01-30T100414Z_1982977934_RC2N9JAE8OU3_RTRMADP_3_SYRIA-SECURITY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/the-kurdish-led-syrian-democratic-forces-announced-a-new-agreement-to-stabilise-ceasefire/article70569995.ece",
-    "time": "2026-01-30T11:41:15.000Z"
   }
 ];
