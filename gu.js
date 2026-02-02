@@ -1,12 +1,48 @@
 const newsData_gu = [
   {
-    "cat": "Politics",
-    "title": "ડરાવણી ઘટના ! પતિની લાશ પાસે ઊભી રહીને તૈયાર થઈ પત્નિ, રીલ બનાવવાની ના પાડતા કરી હત્યા",
-    "desc": "28 જાન્યુઆરીના રોજ પતિની હત્યાના કેસમાં વધુ એક ખુલાસો થયો છે, જ્યારે તેણે તેને રીલ બનાવવાની ના પાડી હતી. પતિની હત્યા કર્યા પછી, આરોપી પત્નીએ માત્ર બીયર પીધી જ નહીં પરંતુ ખૂબ જ નાચી પણ હતી. આ ઘટનાના વીડિયો હવે સોશિયલ મીડિયા પર સામે આવી રહ્યા છે.",
+    "cat": "Sports",
+    "title": "બાંગ્લાદેશને સમર્થન તો માત્ર બહાનું... T20 વર્લ્ડ કપમાં આ ડરથી ભારત સામે નથી રમી રહ્યું પાકિસ્તાન !",
+    "desc": "પાકિસ્તાને બાંગ્લાદેશને સમર્થન આપવાનું કારણ આપીને T20 વર્લ્ડ કપમાં ભારત સામે રમવાનો ઇનકાર કર્યો છે. પરંતુ અસલી કારણ તો કદાચ T20 વર્લ્ડ કપમાં ભારત સામે પાકિસ્તાનનો હેડ-ટુ-હેડ રેકોર્ડ છે, જ્યાં તે સતત થાપ ખાઈ રહ્યું છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/wife-stands-by-husband-dead-body-gets-ready-kills-him-when-he-refuses-to-make-a-reel-463717 ",
-    "time": "2026-02-02T09:40:44.000Z"
+    "url": " http://zeenews.india.com/gujarati/sports/pakistan-boycott-india-t20-world-cup-2026-ind-vs-pak-head-to-head-record-463739 ",
+    "time": "2026-02-02T12:19:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોના-ચાંદીમાં ભયંકર કડાકો: ચાંદીના ભાવ અડધા થયા, ETF રોકાણકારોના કરોડો ધોવાયા! જાણો હવે શું કરવું?",
+    "desc": "સોના અને ચાંદીના ભાવ તેમના રેકોર્ડ હાઈ સ્તર પર પહોંચ્યા બાદ ભયંકર કડાકો જોવા મળી રહ્યો છે. જેના કારણે ETFમાં પણ મોટો ઘટાડો થયો છે. આજે જ ચાંદીના ETFમાં 20% અને ગોલ્ડ ETFમાં 10% ઘટાડો થયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-silver-price-crash-etf-investors-loss-silver-down-by-2-lakh-463729 ",
+    "time": "2026-02-02T11:12:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ઓસ્ટ્રેલિયા અને ઇંગ્લેન્ડે પણ T20 વર્લ્ડ કપ માટે ભારત આવવા અંગે ચિંતા વ્યક્ત કરી, જાણો શું છે કારણ",
+    "desc": "ICC મેન્સ T20 વર્લ્ડ કપ 2026માં બાંગ્લાદેશે ભારતમાં રમવાનો ઈન્કાર કર્યા બાદ હવે ઇંગ્લેન્ડ અને ઓસ્ટ્રેલિયાની સરકારોએ પણ તેમની ટીમની ભારત મુલાકાત અંગે ચિંતા વ્યક્ત કરી છે. આ પાછળનું કારણ શું છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-australia-and-england-express-concern-about-visiting-india-nipah-virus-463728 ",
+    "time": "2026-02-02T11:05:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "એવું કયું રેલવે સ્ટેશન છે, જે અડધું ગુજરાતમાં અને અડધું મહારાષ્ટ્રમાં છે ?",
+    "desc": "જો તમે પણ સરકારી નોકરીની તૈયારી કરી રહ્યા છો, તો આ લેખ તમારા માટે ઉપયોગી સાબિત થઈ શકે છે, કારણ કે આ લેખમાં અમે તમને એવા કેટલાક જનરલ નોલેજના સવાલ અને જવાબ જણાવીશું, જે તમે અગાઉ કદાચ સાંભળ્યા કે વાંચ્યા પણ નહીં હોય.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/gk-which-railway-station-is-half-in-gujarat-and-half-in-maharashtra-463722 ",
+    "time": "2026-02-02T10:44:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "રાહુલ ગાંધી એવું તે શું બોલ્યા? સરકારને શું હતી આપત્તિ... એક સાથે ત્રણ મંત્રીએ મોરચો સંભાળ્યો, જાણો સમગ્ર મામલો",
+    "desc": "સંસદમાં ગઈ કાલે બજેટ રજૂ થયું અને આજે બજેટ સત્ર દરમિયાન રાષ્ટ્રપતિના અભિભાષણ પર આવેલા ધન્યવાદ પ્રસ્તાવ પર ચર્ચા થઈ રહી હતી. એવામાં રાહુલ ગાંધીએ બોલવાનું શરૂ કર્યું અને સંસદમાં હંગામો મચી ગયો. ત્રણ મંત્રીઓ તેમના વિરોધમાં મેદાને આવ્યા. જાણો આખરે આખો મામલો શું છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/budget-session-uproar-over-rahul-gandhi-statement-why-did-rajnath-singh-amit-shah-kiren-rijiju-object-463720 ",
+    "time": "2026-02-02T10:34:48.000Z"
   },
   {
     "cat": "Sports",
@@ -15,7 +51,16 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-jiostar-faces-crores-of-ad-risk-after-pakistan-boycott-match-463715 ",
-    "time": "2026-02-02T09:34:02.000Z"
+    "time": "2026-02-02T09:58:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ડરામણી ઘટના ! પતિની લાશ પાસે ઊભી રહીને તૈયાર થઈ પત્નિ, રીલ બનાવવાની ના પાડતા કરી હત્યા",
+    "desc": "28 જાન્યુઆરીના રોજ પતિની હત્યાના કેસમાં વધુ એક ખુલાસો થયો છે, જ્યારે તેણે તેને રીલ બનાવવાની ના પાડી હતી. પતિની હત્યા કર્યા પછી, આરોપી પત્નીએ માત્ર બીયર પીધી જ નહીં પરંતુ ખૂબ જ નાચી પણ હતી. આ ઘટનાના વીડિયો હવે સોશિયલ મીડિયા પર સામે આવી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/wife-stands-by-husband-dead-body-gets-ready-kills-him-when-he-refuses-to-make-a-reel-463717 ",
+    "time": "2026-02-02T09:47:10.000Z"
   },
   {
     "cat": "Politics",
@@ -162,15 +207,6 @@ const newsData_gu = [
     "time": "2026-02-01T11:27:34.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ગર્લ્સ હોસ્ટેલથી લઈને ‘SHE Marts’ સુધી... મહિલાઓ માટે નાણામંત્રીના પિટારામાંથી શું નીકળ્યું?",
-    "desc": "નાણામંત્રી નિર્મલા સીતારમણે બજેટ 2026-27માં મહિલાઓ માટે ઘણી મહત્વપૂર્ણ યોજનાઓની જાહેરાત કરી છે. આ બજેટમાં લખપતિ દીદી યોજનાનો વિસ્તાર SHE Marts સાથે જોડીને કરવામાં આવ્યો છે, STEM જિલ્લાઓમાં ગર્લ્સ હોસ્ટેલનું નિર્માણ અને મહિલાઓ માટે ઇનોવેટિવ ફાઇનાન્સિંગ ટૂલ્સ જેમ કે She-Mark બેજનો સમાવેશ થાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/budget-2026-women-benefits-girls-hostels-she-marts-lakhpati-didi-463625 ",
-    "time": "2026-02-01T11:10:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "વૈભવ સૂર્યવંશીએ આ શું કર્યું...બે જીવનદાન છતાં સસ્તામાં આપી દીધી વિકેટ",
     "desc": "અંડર-19 વર્લ્ડ કપ 2026ના સુપર સિક્સ તબક્કામાં ભારત કટ્ટર હરીફ પાકિસ્તાન આમને સામને છે. બુલાવાયોના ક્વીન્સ સ્પોર્ટ્સ ક્લબ સ્ટેડિયમમાં રમાઈ રહેલી આ મેચમાં વૈભવ સૂર્યવંશી મોટી ઇનિંગ્સ રમશે તેવી અપેક્ષા હતી, પરંતુ તે નિષ્ફળ ગયો, બે જીવનદાન મળ્યા છતાં તે મોટી ઈનિંગ ના રમી શક્યો.",
@@ -178,15 +214,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/u19-world-cup-ind-vs-pak-vaibhav-suryavanshi-flop-wicket-after-two-lifelines-463624 ",
     "time": "2026-02-01T10:58:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "બજેટમાં ખેડૂતોને શું મળ્યું ? જાણો કૃષિ ક્ષેત્રે સરકારે શું કરી જાહેરાત",
-    "desc": "નાણામંત્રી નિર્મલા સીતારમણ નવમી વખત બજેટ રજૂ કર્યું. તેમણે દેશના ખેડૂતો માટે મોટી જાહેરાત કરી છે. તેમના બજેટ ભાષણમાં તેમણે નાના અને સીમાંત ખેડૂતો પર ખાસ ધ્યાન આપવાની વાત કરી. નાણામંત્રીએ ઉત્પાદકતા વધારવા માટે નાળિયેર ઉત્પાદન યોજનાની જાહેરાત કરી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/agriculture/budget-2026-agriculture-sector-nirmala-sitharaman-announcement-for-farmers-463609 ",
-    "time": "2026-02-01T09:06:40.000Z"
   },
   {
     "cat": "Politics",
@@ -378,15 +405,6 @@ const newsData_gu = [
     "time": "2026-01-30T15:46:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "સુપ્રીમના સ્ટે બાદ UGC પર ભાજપનું પહેલું નિવેદન, જાણો શું કહ્યું ?",
-    "desc": "દેશમાં સવર્ણ સમાજના ભારે વિરોધ બાદ સુપ્રીમ કોર્ટે આ નિર્ણય પર હાલ પુરતો સ્ટે મુક્યો છે, અને સરકારને માર્ચ મહિનાની તારીખ આપી છે, ત્યારે આજે ભાજપના નેતાને પુછવામાં આવતા તેમને UGC પર જવાબ આપ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/bjp-first-statement-on-ugc-after-supreme-court-stay-know-what-it-said-463394 ",
-    "time": "2026-01-30T14:50:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "T20 વર્લ્ડ કપ ટીમની જાહેરાત, &amp;#039;ગુજરાતી&amp;#039; ખેલાડીને બનાવ્યો કેપ્ટન, આ &amp;#039;મેચ-ફિક્સર&amp;#039; ખેલાડીને રખાયો બાકાત",
     "desc": "7 ફેબ્રુઆરીથી શરૂ થનારા T20 વર્લ્ડ કપ માટે પોતાની અનેક દેશોએ પોતાની ટીમની જાહેરાત કરી છે. આ ટીમનું નેતૃત્વ ગુજરાતના મૂળ ભારતીય મૂળના ખેલાડી કરશે. ટીમમાં ભારતીય અને પાકિસ્તાની મૂળના ઘણા ખેલાડીઓનો સમાવેશ થાય છે. મેચ ફિક્સિંગના આરોપી એરોન જોન્સને બાકાત રાખવામાં આવ્યા છે.",
@@ -414,15 +432,6 @@ const newsData_gu = [
     "time": "2026-01-30T13:53:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "અજિત પવાર 14 મિટિંગ કરીને શું કરી રહ્યા હતા તૈયારી? ભાજપને સાથે રાખી બનાવ્યો પ્લાન... હવે સામે આવી આખી કહાની",
-    "desc": "અજિત પવારના અવસાન બાદ એક તરફ તે ચર્ચા ચાલી રહી છે કે, નવા ડેપ્યુટી સીએમ કોન બનશે, NCPનું નેતૃત્વ કોણ કરશે? આ વચ્ચે જાણવા મળ્યું છે કે, અજિત દાદા 1-2 નહીં, પરંતુ 14 મહત્વપૂર્ણ મિટિંગ કરી એક મોટો પ્લાન બનાવી રહ્યા હતા. ભાજપ લીડરશિપને પણ વિશ્વાસમાં લીધું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ajit-pawar-14-meetings-on-ncp-unification-bjp-was-informed-inside-story-463374 ",
-    "time": "2026-01-30T11:49:52.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "અનુપમાના &amp;#039;ઘુમા-ઘુમાકર મારુંગી&amp;#039; ડાયલોગથી સોશિયલ મીડિયા પર આવ્યું વાવાઝોડું, તમે પણ ફટાફટ જોઈ લો Video",
     "desc": "અનુપમા ટીવી સીરિયલમાં એક પછી એક ટ્વિસ્ટ આવતા જ રહે છે. જો કે આ શોની એક મજા છે કે થોડા થોડા સમયે અનુપમાના એવા એવા ડાયલોગ વાયરલ થાય છે કે જેને લઈ સોશિયલ મીડિયા પર રીલ્સનો ટ્રેડ શરુ થાય છે. આવો જ એક ડાયલોગ હાલ ઈંટરનેટ પર છવાયો છે. તો ફટાફટ તમે પણ આ ડાયલોગ સાંભળો. અનુપમાનો આ ડાયલોગ સાંભળી તમારા કાનમાંથી પણ લોહી નીકળી જશે..",
@@ -430,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/anupama-dialogue-video-viral-social-media-trend-anupama-new-dialogue-monologue-463366 ",
     "time": "2026-01-30T10:53:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "FASTag માં ગરબડ ગોટાળો : 18 લાખ લોકોને ટોલ ટેક્સના રૂપિયા પરત કર્યા, શું તમારા ખાતામાં આવ્યા પૈસા?",
-    "desc": "તમારી ગાડી ઘરે હોય અને ટોલ ટેક્સ કપાઈ ગયું હોય તેવું બન્યુ છે? શું તમે FASTag એલર્ટ ઓન કર્યું છે, તો જાણી લો કે NHAI એ 18 લાખ લોકોને ટોલ ટેક્સના રૂપિયા પરત કર્યા છે, એવું કેમ કર્યું તે જાણો...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/fastag-payment-error-alert-nhai-return-toll-tax-payment-of-18-lakhs-vehicles-463362 ",
-    "time": "2026-01-30T09:56:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -493,24 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/eu-big-action-against-iran-revolutionary-guards-as-terror-group-with-al-qaeda-hamas-islamic-state-kaja-kallas-463284 ",
     "time": "2026-01-29T14:56:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "યુવરાજ સિંહે નિવૃત્તિના વર્ષો બાદ ખોલ્યું સૌથી મોટું રહસ્ય, વિસ્ફોટક નિવેદનથી મચી ગયો ખળભળાટ",
-    "desc": "યુવરાજ સિંહે ભારત માટે 40 ટેસ્ટ મેચમાં 33.92ની એવરેજથી 1900 રન બનાવ્યા છે. આ દરમિયાન તેમણે 3 સદી અને 11 અડધી સદી ફટકારી છે. તેમણે 304 વનડેમાં 36.55ની એવરેજથી 8701 રન બનાવ્યા. તેમણે આ ફોર્મેટમાં 14 સદી અને 52 અડધી સદી પણ ફટકારી છે. યુવીએ 58 T20 મેચોમાં 1177 રન બનાવ્યા, જેમાં 8 અડધી સદીનો સમાવેશ થાય છે. યુવરાજે ટેસ્ટમાં 9, વનડેમાં 111 અને ટી20માં ભારત માટે 28 વિકેટ લીધી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/yuvraj-singh-retirement-revelation-not-feeling-respected-emotional-outburst-463270 ",
-    "time": "2026-01-29T12:29:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "રોહિત શર્મા આવતીકાલે કરશે મોટી જાહેરાત... ઇન્સ્ટાગ્રામ સ્ટોરીએ વધાર્યું સસ્પેન્સ",
-    "desc": "ટીમ ઈન્ડિયાના સ્ટાર બેટ્સમેન રોહિત શર્માની સ્ટોરીએ દરેક ચાહકોના હૃદયના ધબકારા વધારી દીધા છે. રોહિત શર્માએ ઇન્સ્ટાગ્રામ પર કંઈક એવું પોસ્ટ કર્યું છે, જેનાથી ચાહકો ચોંકી ગયા છે. હિટમેનએ તેની ઇન્સ્ટાગ્રામ સ્ટોરીમાં સસ્પેન્સ ઉભું કર્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rohit-sharma-instagram-story-new-role-incoming-big-suspense-reveal-tomorrow-463269 ",
-    "time": "2026-01-29T12:27:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -684,15 +666,6 @@ const newsData_gu = [
     "time": "2026-01-27T05:25:17.000Z"
   },
   {
-    "cat": "World",
-    "title": "જંગી યુદ્ધ જહાજો, 350 ફાઈટર જેટ, 3500 મિસાઈલો... ઈરાન પર હુમલાનું કાઉન્ટડાઉન શરૂ, કેવી છે અમેરિકાની તૈયારી?",
-    "desc": "ઈરાન અને અમેરિકા વચ્ચે તણાવ વધી રહ્યો છે, અને અમેરિકાએ ઈરાન પર હુમલાની તૈયારીઓ પૂર્ણ કરી લીધી છે. અમેરિકાના જંગી યુદ્ધ જહાજો અને ફાઇટર જેટ્સે ઈરાનને ઘેરી લીધું છે અને હુમલાનું કાઉન્ટડાઉન શરૂ કરી દીધું છે, બસ નૌકાદળ ટ્રમ્પના સંકેતની રાહ જોઈ રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/the-countdown-to-an-attack-on-iran-is-underway-but-how-prepared-is-the-us-463033 ",
-    "time": "2026-01-27T04:30:53.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ધુરંધર ફિલ્મના આ એક્ટર પર લાગ્યો કામવાળીનું શારીરિક શોષણ કર્યાનો ગંભીર આરોપ, પોલીસે કરી કાર્યવાહી",
     "desc": "ધુરંધર ફિલ્મના એક્ટર નદીમ ખાન પર ગંભીર આરોપ લાગ્યા છે. તેની કામવાળીએ આરોપ લગાવ્યો છે કે એક્ટર લગ્ન કરવાની વાત કરી છેલ્લા 10 વર્ષથી તેનું શારીરિક શોષણ કરે છે. આ મામલે પોલીસ કાર્યવાહી થઈ હોવાની વાત પણ સામે આવી છે.",
@@ -727,14 +700,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/electric-vehicles-avas-system-mandatory-india-2026-pedestrian-safety-462661 ",
     "time": "2026-01-23T11:52:03.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "₹6 લાખથી ઓછી કિંમતમાં સૌથી વધુ માઇલેજ આપનારી કાર, સિટી ડ્રાઇવિંગ માટે પરફેક્ટ",
-    "desc": "₹6 લાખથી ઓછા બજેટમાં વધુ માઇલેજ આપનારી કારમાં ટાટા ટિયાગો, હ્યુન્ડઈ ગ્રાન્ડ i10 નિઓસ, વેગનઆર સામેલ છે. આ કાર ઓછી કિંમત, સારી માઇલેજ અને શહેરમાં આરામદાયક ડ્રાઇવિંગ માટે બેસ્ટ છે, જેનાથી પેટ્રોલ પર ઓછો ખર્ચ રહે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/5-cars-under-rs-6-lakh-for-max-mileage-perfect-for-city-driving-462641 ",
-    "time": "2026-01-23T09:41:35.000Z"
   }
 ];

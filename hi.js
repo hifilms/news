@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "IND A vs USA T20 World Cup warm-up live cricket score: Jagadeesan brings up hundred, Tilak departs for 38",
+    "desc": "India A were asked to bat first by the USA in their first match of the T20 World Cup 2026 warm-up fixtures at the Dr DY Patil Sports Academy, Navi Mumbai. The warm-up matches are...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-a-vs-usa-t20-world-cup-warm-up-live-cricket-score-india-a-vs-usa-dr-dy-patil-sports-academy-latest-match-updates-scorecard-teams-highlights-2026-02-02-1028605",
+    "time": "2026-02-02T10:55:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch T20 World Cup warm-up fixture in India?",
+    "desc": "The International Cricket Council (ICC) has announced the warm-up fixtures and the live streaming details for the T20 World Cup 2026 warm-up matches in the build-up to the tournament. The tournament will kick off on February...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-a-vs-usa-live-streaming-details-when-and-where-to-watch-t20-world-cup-warm-up-fixture-in-india-2026-02-02-1028600",
+    "time": "2026-02-02T10:30:10.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'They will miss Virat and Rohit': Anil Kumble weighs in on India's T20 World Cup 2026 squad",
     "desc": "The Indian team is all set to defend its title in the upcoming T20 World Cup 2026. The Men in Blue were sensational back in 2024 when they defeated South Africa in the summit clash...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-set-to-follow-icc-protocol-and-travel-to-sri-lanka-amid-pakistan-s-call-to-not-compete-report-2026-02-02-1028537",
     "time": "2026-02-02T01:48:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC issues first official statement after Pakistan's refusal to play group game vs India in T20 World Cup 2026",
-    "desc": "The International Cricket Council (ICC) has issued its first official statement after the Pakistan government directed its team to not play the T20 World Cup 2026 group stage match against India on February 15. In its...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-issues-first-official-statement-after-pakistans-refusal-to-play-india-in-t20-world-cup-2026-2026-02-01-1028527",
-    "time": "2026-02-01T18:05:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan captain Salman Ali Agha gives first reaction after government decides India boycott at T20 World Cup",
-    "desc": "Pakistan captain Salman Ali Agha has given his first reaction after his government decided to boycott the T20 World Cup 2026 match against India. The Pakistan government, in a statement on Sunday, cleared the team...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-captain-salman-ali-agha-gives-first-reaction-after-government-decides-india-boycott-at-t20-world-cup-2026-02-01-1028525",
-    "time": "2026-02-01T17:53:56.000Z"
   }
 ];

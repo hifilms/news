@@ -1,5 +1,77 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "গ্র্যামির মঞ্চে ইতিহাস! ৯০ বছর বয়সে প্রথমবার সম্মান পেলেন দালাই লামা, অভিনন্দন সিকিমের মুখ্যমন্ত্রীর",
+    "desc": "৯০ বছর বয়সে দালাই লামা এই সম্মান অর্জন করেন Best Audio Book, Narration & Storytelling Recording বিভাগে। তাঁর স্পোকেন-ওয়ার্ড অ্যালবাম “Meditations: The Reflections of His Holiness the Dalai Lama”, এর জন্য এই পুরস্কার প্রদান করা হয়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/HYP_5740500_cropped_02022026_150725_fb_img_1770023723828_water_1-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/history-at-the-grammy-stage-the-dalai-lama-receives-his-first-honor-at-the-age-of-90-congratulations-pour-in-from-the-sikkim-chief-minister-l18-sdg-local18-2523120.html",
+    "time": "2026-02-02T12:20:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "লুকিয়ে অরিজিৎ সিং-এর বাড়ি পৌঁছে গেলেন আমির খান, গায়কের মান ভাঙতে এত দূর এলেন অভিনেতা-পরিচালক? বড় খবর ফাঁস",
+    "desc": "অরিজিৎ সিংয়ের যাতে মান ভঙ্গ হয় সেই জন্য আমির খান এসে প্রায় দু'ঘণ্টা ধরে বৈঠক করেন বলেই জানা গিয়েছে। স্টুডিও বাড়িতে খাওয়া দাওয়া সম্পন্ন করেন। তবে পুলিশ প্রশাসন এমনকি সাধারণ মানুষের চোখের আড়ালেই আমির খান হাজির হন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-02-at-5.03.17-PM-2026-02-572f72194050e95d0da18ebf10e8a59b-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/aamir-khan-comes-to-kolkata-visits-arijit-singh-at-his-jiaganj-house-l18-pbd-local18-2523173.html",
+    "time": "2026-02-02T11:38:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "কেমোথেরাপিতে চুল পড়ে গিয়েছিল ছোট্ট পড়ুয়ার...! সহমর্মিতায় স্কুলের শিক্ষক, সহপাঠীদের কর্মকাণ্ড বিশ্ববাসীর মন জয় করেছে, দেখুন আপনিও",
+    "desc": "ক্লাসের এক বন্ধু ক্যানসারের সঙ্গে লড়াই করছিল, কেমোথেরাপি কারণে মেয়েটির সব চুল পড়ে যায়। সে এতটাই ভীত ছিল, চুল ছাড়া স্কুলে আসতে লজ্জা পেত, এই ভয়ে যে সবাই তাকে অন্য চোখে দেখবে। আর সেই ভয় দূর করার জন্যই এক অভিনব উদ্যোগ নেয় স্কুলের শিক্ষক-শিক্ষিকা এবং পড়ুয়ারা।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/1770025481_school-girl-1-2026-02-8534caece04af23697fc806237f57738-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/girl-lost-her-hair-due-to-chemotherapy-her-classmates-teachers-shave-heads-solidarity-india-humanity-viral-video-sdg-2523096.html",
+    "time": "2026-02-02T11:24:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ভারত যদি বিশ্বকাপ ফাইনালে ওঠে..! ওদিকে পাকিস্তানও উঠল! তখন পাকিস্তান কী করবে? খেলবে নাকি খেলবে না?",
+    "desc": "পাকিস্তান যদি এই সিদ্ধান্তে অনড় থাকে তা হলে আইসিসির শাস্তি তাদের জন্য অপেক্ষা করছে। আর সেই শাস্তি পাকিস্তান ক্রিকেটকে ধ্বংসের পথে নিয়ে যেতে পারে বলেও মনে করা হচ্ছে। তবে পাকিস্তান বলছে, তারা এসব নিয়ে ভাবছে না।",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/09/Pakistan-2025-09-0dea45a9e6a149351ca4c1fdf0ed7e8f-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/what-will-pakistan-do-if-india-may-reach-t20-world-cup-knock-out-or-final-smj-2523214.html",
+    "time": "2026-02-02T11:09:38.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "‘ভয় পেয়েছে পাকিস্তান..,’ একজন সোজা ঢুকে গেল ISI এর অফিসে! অন্যজনের পরনে সালোয়ার, হাতে রা*ইফেল, মুখে হাসি..",
+    "desc": "পাকিস্তানের বৃহত্তম কিন্তু কম জনবহুল প্রদেশ বালোচিস্তান৷ এখানকার একাধিক বিচ্ছিন্নতাবাদী গোষ্ঠী রাজনৈতিক প্রান্তিকীকরণ এবং প্রাকৃতিক সম্পদ নিয়ন্ত্রণ নিয়ে বিরোধের কারণে বৃহত্তর স্বায়ত্তশাসন বা স্বাধীনতার দাবিতে দীর্ঘদিন ধরে বিদ্রোহ চলছে। বিএলএ এই গোষ্ঠীগুলির মধ্যে সবচেয়ে বিশিষ্ট এবং পাকিস্তান এবং অন্যান্য বেশ কয়েকটি দেশ এটিকে সন্ত্রাসবাদী সংগঠন হিসেবে চিহ্নিত করেছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ydne-2026-02-02T161744.214-2026-02-e1a9f691e8b8beb11a7dc4b639a27ca6-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/international/balochistan-separatist-group-releases-photo-of-two-women-fighters-and-also-released-a-video-sta-2523228.html",
+    "time": "2026-02-02T11:02:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "তুষারপাতের জেরে বরফে ঢাকল জম্মু-কাশ্মীর, ভিড় জামাচ্ছেন পর্যটকরা",
+    "desc": "তীব্র পশ্চিমী ঝঞ্ঝার প্রভাবে জম্মু ও কাশ্মীরের বিখ্যাত স্কি-রিসর্ট গুলমার্গ-সহ উপত্যকার বিভিন্ন অংশ তুষারে ঢেকেছে। শ্রীনগর ও তার আশপাশের সমতল এলাকায় বইছে প্রবল ঝোড়ো হাওয়া।তুষারপাতের জেরে শ্রীনগর বিমানবন্দরে বিমান চলাচল ব্যাহত হয়েছে। সাধারণ অবস্থায় ফিরতে বেশ খানিকটা সময় লাগবে বলে জানিয়েছে কর্তৃপক্ষ।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Snowfall-7-2026-02-762f8f2c562e66e35a76c0e598cfa02c-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/heavy-snowfall-blankets-jammu-and-kashmir-tourist-rush-surges-amid-snowy-views-dc-2523275.html",
+    "time": "2026-02-02T11:00:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "হঠাৎই বঙ্গভবন ঘিরে ফেলল দিল্লি পুলিশ...! 'এক কাপড়ে' ঘটনাস্থলে রণংদেহি মমতা!",
+    "desc": "পুলিশের 'তল্লাশি' ঘিরে তোলপাড় রাজধানী। বাংলা থেকে নিয়ে যাওয়া ‘এসআইআরে ক্ষতিগ্রস্ত’ পরিবারের সদস্যদের হেনস্থার অভিযোগ পেয়েই রাজধানীতে গর্জে উঠলেন মুখ্যমন্ত্রী মমতা বন্দ্যোপাধ্যায়। খবর পেয়েই ঘরের শাড়ি না বদলিয়েই অভিষেক বন্দ্যোপাধ্যায়কে সঙ্গে নিয়ে ছুটে যান দিল্লির বঙ্গভবনে। একই সঙ্গে কেন্দ্রীয় স্বরাষ্ট্রমন্ত্রী অমিত শাহের অধীন দিল্লি পুলিশের বিরুদ্ধে তীব্র আক্রমণ শানালেন তিনি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-02-at-14.54.35-2026-02-b8a209d994de590e9e66a539254a90aa-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/mamata-banerjee-west-bengal-cm-visits-banga-bhawan-after-allegation-of-delhi-police-harrassing-sir-affected-families-sanj-2523177.html",
+    "time": "2026-02-02T10:25:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'ওরা ঘরে ঢুকে খুঁজে দেখছে...', বঙ্গভবনে 'এক কাপড়ে' রণংদেহি মমতা! পুলিশের 'তল্লাশি' ঘিরে তোলপাড় রাজধানী",
+    "desc": "মুখ্য নির্বাচন কমিশনার জ্ঞানেশ কুমারের সঙ্গে সাক্ষাৎ করতে গতকালই রাজধানীতে পৌঁছেছেন বাংলার মুখ্যমন্ত্রী মমতা বন্দ্যোপাধ্যায়। সঙ্গে এসআইআর ‘আতঙ্কে’ নিহতদের পরিবারের সদস্যদেরও যাওয়ার কথা ছিল। তাঁরাই বর্তমানে বঙ্গভবনে রয়েছেন। এই আবহে সোমবার সকাল থেকেই আচমকা বাড়ানো হয় বঙ্গভবনের নিরাপত্তা। ব্যারিকেড তোলা হয় বঙ্গভবনের বাইরে। হঠাৎই দিল্লি পুলিশের বিশাল বাহিনী বঙ্গভবন ঘিরে ফেলে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-02-at-15.06.56-1-2026-02-c0e31e903fd38d4f71d9c440582611c4-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/mamata-in-delhi-west-bengal-cm-visit-banga-bhawan-after-delhi-police-raised-allegation-aginst-delhi-police-to-raid-several-rooms-sanj-2522943.html",
+    "time": "2026-02-02T09:47:22.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "‘তোমার শরীরটা দেখতে চাই’...ফটোগ্রাফারের সঙ্গে ভয়াবহ অভিজ্ঞতার কথা জানালেন অভিনেত্রী ঐশ্বর্যা রাজেশ!",
     "desc": "দক্ষিণী চলচ্চিত্র জগতের পরিচিত মুখ সম্প্রতি নিজের অভিনয়জীবনের শুরুর দিকের একাধিক তিক্ত ও অস্বস্তিকর অভিজ্ঞতার কথা প্রকাশ্যে এনেছেন। এক পডকাস্টে দেওয়া সাক্ষাৎকারে তিনি ফিল্ম ইন্ডাস্ট্রিতে কাজের খোঁজে এসে যৌন হেনস্থা ও প্রকাশ্য অপমানের মতো পরিস্থিতির মুখোমুখি হওয়ার অভিজ্ঞতা তুলে ধরেছেন, যা আবারও বিনোদন দুনিয়ায় নারীদের নিরাপত্তা ও কর্মপরিবেশ নিয়ে প্রশ্ন তুলে দিয়েছে।",
@@ -826,77 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/sports/rohit-sharma-and-harmanpreet-kaur-received-padmashree-in-this-republice-day-for-great-achievement-in-cricket-smc-2511743.html",
     "time": "2026-01-25T13:30:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "মুম্বইয়ে বাঙালি মেজাজ! অনুরাগ বসুর বাড়ির সরস্বতী পুজোয় একঝাঁক বলিউড তারকারা, একসঙ্গে এলেন সারা–আদিত্য",
-    "desc": "মুম্বইয়ে বাঙালি মেজাজ! প্রতিবছর পরিচালক অনুরাগ বসুর বাড়িতে জমজমাট সরস্বতী পুজোর আয়োজন করা হয়৷ সেখানে পুজোর পুরোহিত হিসেবে দেখা যায় সঙ্গীত পরিচালক প্রীতমকে৷ উপস্থিত থাকেন একঝাঁক বলিউড তারকারা৷ এবার সেখানে একসঙ্গে এলেন সারা–আদিত্য, কার্তিক আরিয়ান সহ আরও অনেকে",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Director-Anurag-Basu-shares-moods-and-moments-from-his-starry-but-intimate-Saraswati-Puja-celebr-2026-01-7dd03dbbfdd8afd39338cbdaf4698a79.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/entertainment/saraswati-puja-2026-celebration-at-director-anurag-basu-house-lots-of-bollywood-celebrities-gather-there-pbd-2511556.html",
-    "time": "2026-01-25T09:29:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "৭২ ঘণ্টা আগে টিকিট 'ক্যানসেল' করলেই...! বন্দে ভারত স্লিপার আর অমৃত ভারত ট্রেনের টিকিট বাতিলের নিয়মে বিরাট চমক! সহজ ভাষায় বুঝে নিন 'সিস্টেম'!",
-    "desc": "রেলের নতুন বিজ্ঞপ্তি অনুযায়ী, ট্রেন ছাড়ার ৭২ ঘণ্টা আগে টিকিট বাতিল করলে কেটে নেওয়া হবে ভাড়ার ২৫ শতাংশ। যদি টিকিট যাত্রা শুরুর ৭২ ঘণ্টা থেকে ৮ ঘণ্টার মধ্যে বাতিল করা হয়, তবে যাত্রীরা ভাড়ার ৫০ শতাংশ ফেরত পাবেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-24-at-19.16.50-2026-01-2a84679b6ff65d338d43c1218abf235f-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/vande-bharat-sleeper-and-amrit-bharat-a-big-surprise-in-the-ticket-cancellation-rules-for-vande-bharat-sleeper-and-amrit-bharat-trains-understand-the-whole-system-in-simple-terms-sanj-2511049.html",
-    "time": "2026-01-24T14:14:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "নিরামিষ ভোজেই যাত্রা সেরে নিল বন্দে ভারত স্লিপার, খাবার বিতর্ক এড়াতে তৎপর রেল",
-    "desc": "যদিও রেলের পক্ষ থেকে এই বিতর্ক এড়িয়ে যাওয়া হয়েছে। পূর্ব ও উত্তর-পূর্ব সীমান্ত রেলের পক্ষ থেকে জানানো হয়েছে, ‘‘আমরা খাবারের বিষয় দেখি না। প্রিমিয়াম ট্রেনের অন বোর্ড ক্যাটারিং ব্যবস্থা দেখে IRCTC ৷ তারা যে খাবার স্থির করে দিয়েছে, সেটাই পরিবেশন করা হয় অন বোর্ড।’’",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Vande-Bharat-Sleeper-Veg-Food-2026-01-48d1488a716725cc8b46354db6c268b7-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/vande-bharat-sleeper-train-veg-menu-list-why-there-is-no-non-vegetarian-food-as-of-now-ss-2510280.html",
-    "time": "2026-01-24T06:07:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Smriti Mandhana-Palash Muchhal: বিয়ের মণ্ডপেই ‘অন্য নারীর সঙ্গে ধরা’! পলাশ মুচ্ছলকে ঘিরে চাঞ্চল্যকর অভিযোগ",
-    "desc": "একজন প্রযোজক ও অভিনেতা বিদ্যান মেনে পুলিশে অভিযোগ করেছে, পলাশকে বিয়ের অনুষ্ঠান চলাকালীন অন্যান্য নারীর সঙ্গে এক বিছানায় ধরা পড়ার পর ভারতীয় মহিলা ক্রিকেটারদের বন্ধুদের হাতে মার খেতে হয়েছে। তিনি এই দৃশ্যকে “ভয়ানক” বলে অভিহিত করেছেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/Smriti-2025-12-f8b25e704f969a6a617ba68724ec43e7-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/india-team-batter-smriti-mandhana-wedding-called-off-music-director-palash-muchhal-accused-of-cheating-and-blackmail-controversy-sal-2510007.html",
-    "time": "2026-01-23T16:52:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "সোনার দামের নেপথ্যেও তাঁরই 'খেল'? ট্রাম্পের দ্বিতীয় মেয়াদে স্বর্ণ মূল্যে ৭০ শতাংশ লাফ! থামবে নাকি আরও বাড়বে?",
-    "desc": "ডোনাল্ড ট্রাম্প দ্বিতীয়বার আমেরিকার প্রেসিডেন্ট হিসেবে দায়িত্ব নেওয়ার পর বিশ্ববাজারে টানা ঊর্ধ্বমুখী সোনার দাম। দ্বিতীয় মেয়াদ শুরুর এক বছরের মধ্যেই আন্তর্জাতিক বাজারে সোনার দর বেড়েছে ৭০ শতাংশেরও বেশি। মঙ্গলবার প্রথমবারের জন্য প্রতি আউন্সে ৪,৭০০ ডলারের সীমা পেরিয়েছে সোনা। বৈশ্বিক বাণিজ্যিক অনিশ্চয়তা, শুল্ক যুদ্ধের আশঙ্কা এবং ডলারের দুর্বলতার জেরে বিনিয়োগকারীরা ঝুঁকিপূর্ণ সম্পদ ছেড়ে সোনা ও রুপোর মতো নিরাপদ সম্পদের দিকে ঝুঁকছেন। এই পরিস্থিতিতে আন্তর্জাতিক বাজারের প্রভাব ভারতের স্থানীয় বাজারেও পড়তে পারে বলে মনে করছেন বিশেষজ্ঞরা।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1769168103_1768105999_1767925532_Gold-891-2026-01-96fa66af72664b0b127cfe10b899d49c-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/gold-prices-surge-70-percent-after-trump-second-term-will-the-rally-continue-triggering-strong-investor-interest-tib-2509835.html",
-    "time": "2026-01-23T14:46:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "মাত্র ১০০ টাকায় জীবন বিমা! সরকার দিচ্ছে লাখ টাকার সুরক্ষা!",
-    "desc": "ক্রমবর্ধমান মুদ্রাস্ফীতি এবং অনিশ্চিত ভবিষ্যতের মধ্যে বীমা ও স্বাস্থ্য সুরক্ষা এখন সবার জন্যই অপরিহার্য। অনেকেই বেশি প্রিমিয়ামের ভয়ে বীমা থেকে দূরে থাকেন। কিন্তু বাস্তবতা হলো, সরকার এমন একাধিক প্রকল্প চালু করেছে যেখানে বছরে ₹১০০-রও কম প্রিমিয়ামে কয়েক লক্ষ টাকার সুবিধা পাওয়া যায়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1769171630_insurance-1-2025-09-1c9dc744ee7d6e6be3c1989efacc16b4-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/insurance-for-rs-100-these-govt-schemes-offering-benefits-worth-lakhs-smc-2509895.html",
-    "time": "2026-01-23T12:49:15.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "গুগলে কোন 'জিনিস' সার্চ করলে আপনার 'জেল' হতে পারে জানেন...? চমকাবেন উত্তরে!",
-    "desc": "বাচ্চা থেকে বুড়ো, যদি কারও কিছু জিজ্ঞাসা করার বা শেখার প্রয়োজন হয়, তারা সঙ্গে সঙ্গে গুগলে তা এক মিনিটেই সার্চ সিস্টেমের মাধ্যমে অনুসন্ধান করে নিতে পারেন। আসলে দ্রুততার জীবনে এবং প্রযুক্তির এই আধুনিক যুগে, এটি কয়েক সেকেন্ডের ব্যাপার। কিন্তু জানেন কী যেই সার্চ ইঞ্জিনটিকে এতো ভরসা করে বেস্ট বানিয়ে বসেছেন, সেই গুগলেই কিছু জিনিস অনুসন্ধান করা আপনার জন্য বিরাট ঝুঁকিপূর্ণ হতে পারে। মুহূর্তে জীবনে নেমে আসতে পারে কালো অন্ধকার।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-23-at-17.02.09-2026-01-948d0eace3d6330ebe6ca5cea7c89185-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/off-beat/google-do-you-know-what-things-if-you-search-for-on-google-can-land-you-in-jail-you-will-be-surprised-by-the-right-answer-be-alert-before-you-searching-again-on-popular-search-engine-sanj-2509852.html",
-    "time": "2026-01-23T12:22:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "রেকর্ড 'পতন' ভারতীয় মুদ্রার! বিদেশি লগ্নি প্রত্যাহার বাড়তেই এই হাল? ১ ডলার এখন কত টাকা জানেন!",
-    "desc": "ভয়াবহ ধস ভারতীয় মুদ্রার। সেনসেক্সের ৩০টি শেয়ারের মধ্যে ২৪টিই দিনের শেষে লাল চিহ্নে বন্ধ হয়েছে। আদানি পোর্টস, ইটারনাল, ইন্ডিগো, অ্যাক্সিস ব্যাঙ্ক এবং পাওয়ারগ্রিডের মতো শেয়ারে সর্বাধিক বিক্রি দেখা যায়, কোনও কোনও ক্ষেত্রে পতন হয়েছে সর্বোচ্চ ৭.৫২ শতাংশ পর্যন্ত।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/pf-2026-01-36a57cb105d5e1d7820323474510353f-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/indian-rupee-hits-record-low-of-91-point-97-against-us-dollar-amid-fpi-outflows-usd-inr-exchange-rate-sensex-decline-today-tib-ws-el-2509850.html",
-    "time": "2026-01-23T12:20:17.000Z"
   }
 ];
