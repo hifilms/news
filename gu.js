@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "મહારાષ્ટ્રના રાજકારણમાં ચોંકાવનારો વળાંક, દિગ્ગજ NCP નેતાએ આપ્યું એવું નિવેદન, શરદ પવારને લાગશે ઝટકો",
+    "desc": "મહારાષ્ટ્રના રાજકારણમાં ભારે ગરમાવો જોવા મળી રહ્યો છે. અજિત પવારના નિધન બાદ બંને જૂથોનું વિલય થશે કે કેમ? આ બધા વચ્ચે તેમની પાર્ટીના એક દિગ્ગજ નેતાએ વિલય પર એવું નિવેદન આપી દીધુ કે શરદ પવારને આ જાણીને ઝટકો લાગે તે સ્વાભાવિક છે. જાણો તેમણે શું કહ્યું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/ncp-leader-sunil-tatkare-big-statement-we-are-with-nda-know-what-said-about-merger-speculation-463677 ",
+    "time": "2026-02-02T04:32:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "આજે પણ સોના-ચાંદીના ભાવમાં જંગી ઘટાડો, સસ્તું સોનું ખરીદવા માટે લોકોની પડાપડી, જાણો લેટેસ્ટ રેટ",
+    "desc": "સોના અને ચાંદીના ભાવમાં છેલ્લા બે-ત્રણ દિવસથી ભારે કડાકો જોવા મળી રહ્યો છે. બજેટ બાદ પણ સોનું-ચાંદી સસ્તા થયા અને આજે ફરીથી વાયદા બજારમાં કિંમતી ધાતુઓમાં કડાકો જોવા મળ્યો છે. જો તમે ખરીદવાનું વિચારતા હોવ તો ફટાફટ લેટેસ્ટ રેટ ચેક કરો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-rate-today-huge-fall-in-gold-silver-prices-know-the-latest-rates-aaj-no-sona-chandi-no-bhav-463678 ",
+    "time": "2026-02-02T04:25:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ફિલ્મ નિર્દેશક રોહિત શેટ્ટીના ઘર પર ફાયરિંગ મામલે લોરેન્સ બિશ્નોઈનું નામ ચર્ચામાં, 4 લોકોની ધરપકડ",
+    "desc": "ફિલ્મ ઈંડસ્ટ્રીમાં ફરી એકવાર લોરેન્સ બિશ્નોઈનું નામ ચર્ચામાં છે. મુંબઈમાં ફિલ્મ નિર્દેશક રોહિત શેટ્ટીના ઘર પર થયેલા ફારયિંગ મામલે પોલીસે 4 લોકોની ધરપકડ કરી હોવાનું સામે આવ્યું છે અને સાથે જ એક પોસ્ટ વાયરલ થઈ છે જેમાં આ ઘટનાની જવાબદારી લોરેન્સ બિશ્નોઈ ગેંગ દ્વારા લેવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/rohit-shetty-case-latest-update-lawrence-bishnoi-gang-post-viral-on-social-media-463669 ",
+    "time": "2026-02-02T02:32:19.000Z"
+  },
+  {
     "cat": "Business",
     "title": "હોમ લોનના વ્યાજ પર બજેટમાં મોટી જાહેરાત, મિડલ ક્લાસ માટે ખુશખબર",
     "desc": "બજેટમાં પ્રસ્તાવ મૂકવામાં આવ્યો છે કે, પોતાના કબજાવાળી મિલકતના મામલામાં હોમ લોનના વ્યાજ પર મળતી બે લાખ રૂપિયા સુધીની આવકવેરા કપાતમાં હવે સંપત્તિ મેળવતા પહેલા અથવા તેના બાંધકામ પહેલા ચૂકવવામાં આવેલા વ્યાજનો પણ સમાવેશ કરવામાં આવશે.",
@@ -106,15 +133,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/budget-2026-nirmala-sitharaman-khelo-india-mission-10-year-sports-plan-463604 ",
     "time": "2026-02-01T08:07:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "બજેટમાં શેરબજારને લઈને મોટી જાહેરાત... વિદેશી રોકાણકારોનું આગમન હવે નિશ્ચિત",
-    "desc": "નાણામંત્રી નિર્મલા સીતારમણ આજે નાણાકીય વર્ષ 2026-27 માટે બજેટ રજૂ કરી રહ્યા છે. લગભગ એક દાયકામાં આ પહેલીવાર છે જ્યારે રવિવારે સંસદમાં બજેટ રજૂ કરવામાં આવી રહ્યું છે. નિર્મલા સીતારમણે સતત નવમી વખત બજેટ રજૂ કરવાનો રેકોર્ડ બનાવ્યો છે. આ દરમિયાન શેરબજારને લઈને એક મોટી જાહેરાત કરવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/budget-2026-fm-nirmala-sitharaman-stock-market-sensex-nifty-463579 ",
-    "time": "2026-02-01T07:00:57.000Z"
   },
   {
     "cat": "Entertainment",
@@ -691,15 +709,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/border-2-ott-release-update-sunny-deol-border-2-film-on-netflix-soon-462858 ",
     "time": "2026-01-25T07:07:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "શાહરુખ ખાનની ધમાકેદાર એક્શન થ્રિલર ફિલ્મ King ની રિલીઝ ડેટ ફાઈનલ, જુઓ Video",
-    "desc": "વર્ષ 2026 ની મોસ્ટ અવેટેડ ફિલ્મ કિંગની રિલીઝ ડેટનું એલાન કરી દેવામાં આવ્યું છે. શાહરુખ ખાન આ ફિલ્મમાં ધમાકેદાર એકશન કરતો જોવા મળશે. આ ફિલ્મનો એક વીડિયો શેર કરવામાં આવ્યો છે. જે રિલીઝ થયાની સાથે વાયરલ થયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/king-release-date-announce-shah-rukh-khan-film-king-releasing-on-24-dec-2026-462796 ",
-    "time": "2026-01-24T13:26:36.000Z"
   },
   {
     "cat": "Tech",

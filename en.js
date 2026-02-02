@@ -1,5 +1,194 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'The Devil Wears Prada 2' trailer",
+    "desc": "Get ready for 'The Devil Wears Prada 2'! Meryl Streep, Anne Hathaway, Emily Blunt, and Stanley Tucci are back in a dazzling sequel. The trailer reveals Miranda unaware of Andy's new role as Features Editor, returning to the cut-throat world of Runway magazine.",
+    "img": "https://static.toiimg.com/photo/msid-127851793,imgsize-46480.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-devil-wears-prada-2-meryl-streep-anne-hathaway-and-emily-blunt-give-office-politics-a-fashionable-upgrade/articleshow/127851613.cms",
+    "time": "2026-02-02T04:23:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Devika Sihag wins Thailand Masters, becomes third Indian woman to claim Super 300 title",
+    "desc": "Devika Sihag secured her maiden BWF Super-300 title at the Princes Sirivannavari Thailand Masters after her opponent retired due to injury. The 20-year-old Haryana shuttler, who defeated higher-ranked players including the top seed, expressed her delight at the significant victory, her first major title.",
+    "img": "https://static.toiimg.com/photo/msid-127852236,imgsize-80308.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/devika-sihag-wins-thailand-masters-becomes-third-indian-woman-to-claim-super-300-title/articleshow/127852228.cms",
+    "time": "2026-02-02T04:22:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Trevor Noah roasts Nicki Minaj, Trump",
+    "desc": "Trevor Noah bid farewell to hosting the Grammys 2026 with his signature wit, opening the show with jokes about Korean drinking games and the sheer number of award categories. He playfully teased celebrities and delivered a memorable barb about Nicki Minaj and Donald Trump.",
+    "img": "https://static.toiimg.com/photo/msid-127852047,imgsize-53390.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/grammys-2026-trevor-noah-roasts-nicki-minaj-and-donald-trump-says-shes-discussing-very-important-issues/articleshow/127852047.cms",
+    "time": "2026-02-02T04:14:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Budget 2026 moots several proposals to rejuvenate indigenous shipping",
+    "desc": "In today’s speech, the Finance Minister spoke about the government’s aim to develop inland and coastal shipping so that its share in total cargo carried through road, rail and water increases from 6% to 12%",
+    "img": "https://th-i.thgim.com/public/incoming/ywpvsu/article70581524.ece/alternates/LANDSCAPE_1200/PTI3_17_2018_000063A.JPEG-0c514.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/budget-2026-moots-several-proposals-to-rejuvenate-indigenous-shipping/article70578875.ece",
+    "time": "2026-02-02T03:59:33.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Gaza's crucial Rafah crossing prepares for limited travel to resume on February 2",
+    "desc": "Israel said the crossing had opened in a test, and the Israeli military agency that controls aid to Gaza said residents could begin crossing Monday. But only a small number of people can cross at first",
+    "img": "https://th-i.thgim.com/public/incoming/vp5ejx/article70581517.ece/alternates/LANDSCAPE_1200/Egypt_Mideast_Wars_Gaza_58307.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/israel-gaza-rafah-crossing-opening-february-2-2026/article70581484.ece",
+    "time": "2026-02-02T03:57:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Nifty50 opens flat; BSE Sensex down over 100 points after Budget day crash",
+    "desc": "Nifty50 and BSE Sensex, the Indian equity benchmarks, opened flat in trade on Monday, a day after 2% crash on Budget’s hike in STT on futures and options. While Nifty50 went below 24,800, BSE Sensex was down over 100 points.",
+    "img": "https://static.toiimg.com/photo/msid-127851606,imgsize-93070.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-february-02-2026-indian-equities-stt-securities-transaction-tax-global-markets-gold-silver/articleshow/127851481.cms",
+    "time": "2026-02-02T03:49:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Retrospective clarifications on re-assessment and invalidation of tax orders",
+    "desc": "New tax clarifications, effective retrospectively, aim to resolve disputes over reassessment notices and assessment orders lacking a Document Identification Number (DIN). These changes, impacting many taxpayers, seek to prioritize the intent of tax laws over minor technical errors, potentially reducing litigation and offering a pragmatic shift in tax administration.",
+    "img": "https://static.toiimg.com/photo/msid-127851714,imgsize-67274.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/retrospective-clarifications-on-re-assessment-and-invalidation-of-tax-orders/articleshow/127851728.cms",
+    "time": "2026-02-02T03:40:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan to play T20 World Cup but boycott India match; ICC warns of consequences",
+    "desc": "Pakistan's cricket team will boycott its T20 World Cup league match against India on February 15, a move that has drawn sharp criticism from the ICC. The governing body warned of significant implications for Pakistan cricket and the global ecosystem. Sources suggest Pakistan could face expulsion from tournaments and financial penalties.",
+    "img": "https://static.toiimg.com/photo/msid-127851709,imgsize-267032.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistan-to-play-t20-world-cup-but-boycott-india-match-icc-warns-of-consequences/articleshow/127851705.cms",
+    "time": "2026-02-02T03:39:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kelly Osbourne talks about father Ozzy Osbourne",
+    "desc": "In a heartfelt revelation, Kelly Osbourne opened up about the profound sorrow she's experiencing after the loss of her father, iconic rock star Ozzy Osbourne. She described this moment as incredibly challenging, stating, 'It's the toughest trial I've ever faced.' As preparations for a Grammy tribute unfold, she highlighted the event as a poignant honor from his fellow musicians.",
+    "img": "https://static.toiimg.com/photo/msid-127851694,imgsize-33018.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/grammy-2026-kelly-osbourne-honous-late-father-ozzy-osbourne-one-of-the-greatest-men-to-ever-live/articleshow/127851694.cms",
+    "time": "2026-02-02T03:37:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Markets trade in red as gold tumbles; HSI trims over 500 points, Kospi down 3%",
+    "desc": "Asian markets opened February with a downturn, mirroring Wall Street's volatility. Precious metals saw significant losses, with gold and silver experiencing sharp declines. The yen weakened as the dollar strengthened, influenced by shifting expectations of Federal Reserve policy under potential new leadership. Investors await key economic data and central bank decisions globally.",
+    "img": "https://static.toiimg.com/photo/msid-127851569,imgsize-95608.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-in-red-as-gold-tumbles-hsi-trims-over-500-points-kospi-down-3/articleshow/127851543.cms",
+    "time": "2026-02-02T03:24:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Gloria Estefan’s ‘Raíces’ Grammy win cements legacy",
+    "desc": "At 68, Gloria Estefan continues to shine, recently winning a Grammy for Best Tropical Latin Album with 'Raíces.' Reflecting on her career, she recalled the long wait for her first Grammy in 1994, a win she richly deserved. Estefan also expressed pride in Bad Bunny and the growing recognition of Latin music.",
+    "img": "https://static.toiimg.com/photo/msid-127851536,imgsize-570231.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/grammy-2026-gloria-estefan-reflects-on-her-journey-latin-legacy-and-races-win-at-2026-awards/articleshow/127851573.cms",
+    "time": "2026-02-02T03:23:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Gloria Estefan’s heartfelt advice for Bad Bunny",
+    "desc": "Latin music icon Gloria Estefan offered Bad Bunny heartfelt advice ahead of his Super Bowl LX Halftime Show, urging him to \"enjoy every second.\" Estefan, a two-time Super Bowl performer, emphasized the immense global reach of the 12-minute performance. She also celebrated Bad Bunny's Album of the Year nomination, highlighting its cultural significance for Latino representation.",
+    "img": "https://static.toiimg.com/photo/msid-127851540,imgsize-35120.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/grammy-awards-2026-gloria-estefan-shares-this-advice-for-bad-bunny-ahead-of-super-bowl-halftime-show/articleshow/127851525.cms",
+    "time": "2026-02-02T03:16:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cynthia Erivo and Ariana Grande win a Grammy",
+    "desc": "Fans rejoiced as 'Wicked' stars Cynthia Erivo and Ariana Grande clinched the Best Pop Vocal Duo Grammy for their song 'Defying Gravity.' This win compensates for their Oscar snubs, sending fans into a frenzy. Grande, a previous Grammy winner, and Erivo, who secured one in 2017, celebrated this significant achievement, highlighting their musical prowess beyond the silver screen.",
+    "img": "https://static.toiimg.com/photo/msid-127851432,imgsize-49542.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/cynthia-erivo-and-ariana-grande-land-first-grammy-for-defying-gravity-in-best-duo-category/articleshow/127851432.cms",
+    "time": "2026-02-02T03:11:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How India will get a walkover after Pakistan's Feb 15 match boycott",
+    "desc": "Pakistan's surprising decision to boycott their T20 World Cup match against India on February 15th has triggered procedural protocols. India must still attend the venue and be present for the toss. If Pakistan fail to appear, India will be awarded a walkover, securing two points as per ICC regulations. The ICC awaits official confirmation from the PCB.",
+    "img": "https://static.toiimg.com/photo/msid-127851461,imgsize-67920.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-how-india-will-get-a-walkover-after-pakistans-february-15-match-boycott/articleshow/127851456.cms",
+    "time": "2026-02-02T03:10:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "BMS slams Budget 2026 calls it ‘worker-deficient’",
+    "desc": "BMS national vice president M. Jagadiswara Rao noted that while the emphasis on labour-intensive sectors, along with initiatives like Samarth 2.0 and MSME liquidity and equity support may generate employment, without adequate wages and social security protection, it cannot be termed as inclusive development",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/bms-slams-budget-2026-calls-it-worker-deficient/article70579779.ece",
+    "time": "2026-02-02T03:05:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rosé becomes first K-Pop soloist to open show",
+    "desc": "Rosé made history at the Grammy Awards 2026, opening the show with Bruno Mars and becoming the first K-pop solo artist to perform. Their energetic rendition of \"APT\" captivated audiences, sparking widespread fan praise and social media buzz. Beyond her groundbreaking performance, Rosé also earned three major nominations, marking a significant milestone for K-pop in general field categories.",
+    "img": "https://static.toiimg.com/photo/msid-127851192,imgsize-70306.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/ros-creates-history-at-grammys-2026-first-k-pop-soloist-to-open-the-show-performs-apt-with-bruno-mars/articleshow/127851192.cms",
+    "time": "2026-02-02T02:56:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Love Island USA’ trio turn heads together",
+    "desc": "Love Island USA's JaNa Craig, Leah Kateb, and Miguel Harichi stole the show at the 2026 Grammys, proving their strong friendship outshines romance. JaNa embraced her 'third wheel' role, while Leah and Miguel praised their bestie. The trio, part of the show's 'PPG crew,' showcased lasting bonds forged in the villa, enjoying the music celebration together.",
+    "img": "https://static.toiimg.com/photo/msid-127850272,imgsize-640400.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/grammys-2026-love-island-usa-stars-prove-friendship-steals-the-spotlight/articleshow/127850281.cms",
+    "time": "2026-02-02T02:36:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Government raises limit for bringing duty-free imported goods to ₹75,000 under new baggage rules",
+    "desc": "Under the Baggage Rules, 2026, a resident or a tourist of Indian origin arriving in India other than by land, shall be allowed clearance free of duty articles, up to ₹75,000, if such articles are carried on the person or in the bona fide accompanied baggage of the passenger",
+    "img": "https://th-i.thgim.com/public/incoming/934ce/article70185203.ece/alternates/LANDSCAPE_1200/2025-10-08T204904Z_1148733071_RC2V7HAUXBU3_RTRMADP_3_USA-SHUTDOWN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/government-raises-limit-for-bringing-duty-free-imported-goods-to-75000-under-new-baggage-rules/article70580649.ece",
+    "time": "2026-02-02T02:31:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Justin-Hailey twin in black; wear ICE OUT pins",
+    "desc": "Justin and Hailey Bieber made a striking appearance at the 2026 Grammy Awards, twinning in elegant black outfits for their first red carpet as parents. The couple also joined a celebrity protest against the Trump administration's immigration policies by wearing 'ICE OUT' pins. Bieber is set to perform and is nominated for four awards.",
+    "img": "https://static.toiimg.com/photo/msid-127850658,imgsize-39958.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/justin-bieber-and-hailey-bieber-make-a-statement-on-grammy-red-carpet-wear-iceoutpins/articleshow/127850430.cms",
+    "time": "2026-02-02T02:23:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sabrina Carpenter channels old Hollywood glam",
+    "desc": "Pop sensation Sabrina Carpenter captivated the 2026 Grammys in a breathtaking Valentino gown, channeling old Hollywood glamour. The 26-year-old, a six-time nominee for her album 'Man's Best Friend,' stunned in a crystal-studded, tiered creation with sheer cape sleeves. Her elegant style and musical achievements solidified her status as a major force in both fashion and music.",
+    "img": "https://static.toiimg.com/photo/msid-127850498,imgsize-83510.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/grammy-awards-2026-sabrina-carpenter-dazzles-in-a-lace-and-pearl-gown-on-the-red-carpet/articleshow/127850492.cms",
+    "time": "2026-02-02T02:02:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Parasakthi' BO day 23: Sivakarthikeyan film nearing end",
+    "desc": "Sivakarthikeyan's film 'Parasakthi' is experiencing a significant slowdown at the box office, with collections dropping considerably after its third week. While the movie opened strongly, its momentum has waned, accumulating a worldwide total of Rs 84.78 crore. Director Sudha Kongara also shared her admiration for actor Vijay, revealing a past collaboration discussion.",
+    "img": "https://static.toiimg.com/photo/msid-127850332,imgsize-42070.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-box-office-collections-day-23-sivakarthikeyan-film-nearing-end-only-rs-6-lakhs-made/articleshow/127850332.cms",
+    "time": "2026-02-02T01:45:30.000Z"
+  },
+  {
     "cat": "World",
     "title": "Japan PM Takaichi’s party poised for landslide victory, Asahi poll shows",
     "desc": "A strong showing in Sunday’s (February 8, 2026) election would solidify Ms. Takaichi’s grip on her party and give her a mandate for ​her expansionary fiscal policy, which ⁠could heighten concerns about Japan’s finances and push bond yields higher",
@@ -7,6 +196,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/japan-pm-takaichis-party-poised-for-landslide-victory-asahi-poll-shows/article70580659.ece",
     "time": "2026-02-02T01:39:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anoushka Shankar loses Grammy to Bad Bunny",
+    "desc": "Anoushka Shankar, nominated for her 12th and 13th Grammys, missed out on Best Global Music Performance to Bad Bunny. Choosing to focus on her artistry and mental well-being, Shankar was on tour in India during the awards. She emphasized the importance of genuine musical connection over accolades, highlighting the realities of the awards circuit.",
+    "img": "https://static.toiimg.com/photo/msid-127850299,imgsize-28460.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/grammy-awards-2026-anoushka-shankar-loses-best-global-music-performance-award-to-bad-bunny/articleshow/127849967.cms",
+    "time": "2026-02-02T01:38:59.000Z"
   },
   {
     "cat": "Entertainment",
@@ -72,15 +270,6 @@ const newsData_en = [
     "time": "2026-02-02T00:41:18.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Prakambanam' BO day 3: Ganapathi film sees strong growth",
-    "desc": "Horror-comedy 'Prakambanam' is exceeding expectations, with a remarkable jump on its third day. The film has garnered over Rs 3 crores worldwide, a significant achievement for its modest budget and promotions. Initial reviews are largely positive, praising its entertaining first half and lead performances, though some note a dip in later narrative quality. This could be the next surprise hit.",
-    "img": "https://static.toiimg.com/photo/msid-127849872,imgsize-94982.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/prakambanam-box-office-collections-day-3-ganapathi-film-sees-strong-growth-mints-over-rs-3-crore-worldwide/articleshow/127849872.cms",
-    "time": "2026-02-02T00:31:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "After 'ek rupiya bhi nhi kamaya' remarks, Mary Kom issues apology video",
     "desc": "Mary Kom released a clarification video apologising for remarks that sparked backlash, saying they were misunderstood and not meant to offend. She addressed speculation around her marriage and divorce, denied targeting football or any community, and called her comments an emotional outburst. Amid public allegations between her and ex-husband Onler, she urged restraint, dignity, and continued support as she remains committed to Indian boxing.",
@@ -88,15 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/off-the-field/after-ek-rupiya-bhi-nhi-kamaya-remarks-boxing-legend-mary-kom-issues-apology-video-watch/articleshow/127844089.cms",
     "time": "2026-02-02T00:30:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "D-St blues! Sensex sheds 1.5K, biggest drop on a Budget day",
-    "desc": "The day’s trading was marked by high volatility. The sensex rallied over 400 points as FM started her speech, fell about 1,100 points after the STT hike proposal was announced, partially recovered by mid-session to trade 600 points down on the day and then sold-off to close below the 81K mark for the first time in four months.",
-    "img": "https://static.toiimg.com/photo/msid-127849871,imgsize-68418.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/d-st-blues-sensex-sheds-1-5k-biggest-drop-on-a-budget-day/articleshow/127849865.cms",
-    "time": "2026-02-02T00:28:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -108,22 +288,13 @@ const newsData_en = [
     "time": "2026-02-02T00:24:21.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'The Raja Saab' BO day 24: Prabhas film crashes",
-    "desc": "Prabhas's 'The Raja Saab' is experiencing a significant box office slowdown, with collections dwindling significantly by its 24th day. Despite a Rs 208 crore worldwide gross, the film's performance falls short of expectations, particularly in its Telugu and Hindi versions. Audience reactions online reflect disappointment with the movie's technical aspects and Prabhas's portrayal.",
-    "img": "https://static.toiimg.com/photo/msid-127849750,imgsize-92122.cms",
+    "cat": "Sports",
+    "title": "‘Hum kuch nahi kar sakte’: Pakistan captain on boycotting India match at T20 WC",
+    "desc": "Pakistan captain Salman Ali Agha confirmed the team will follow government directives regarding their participation in the T20 World Cup after it was decided they would forfeit their match against India. The Pakistan Cricket Board chairman indicated a final decision would be made soon, with the announcement coming after a meeting with the Prime Minister.",
+    "img": "https://static.toiimg.com/photo/msid-127844793,imgsize-171816.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-box-office-collections-day-24-prabhas-film-crashes-mints-only-rs-30-lakhs/articleshow/127849750.cms",
-    "time": "2026-02-02T00:00:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tom Cruise leaves London home after robbery",
-    "desc": "Impossible' star, who frequently walked in the area, allegedly felt security had deteriorated. While he hasn't commented, reports suggest he's returned to the US, a move contrasting with other stars seeking a quieter UK life.",
-    "img": "https://static.toiimg.com/photo/msid-127849591,imgsize-25342.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-cruise-abandons-gbp-35-million-london-home-after-robbery-actor-concerned-about-security-in-area/articleshow/127849579.cms",
-    "time": "2026-02-01T23:16:36.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/hum-kuch-nahi-kar-sakte-pakistan-captain-breaks-silence-after-india-clash-called-off-at-world-cup/articleshow/127844804.cms",
+    "time": "2026-02-01T23:30:00.000Z"
   },
   {
     "cat": "Politics",
@@ -162,33 +333,6 @@ const newsData_en = [
     "time": "2026-02-01T22:23:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Government raises limit for bringing duty-free imported goods to ₹75,000 under new baggage rules",
-    "desc": "Under the Baggage Rules, 2026, a resident or a tourist of Indian origin arriving in India other than by land, shall be allowed clearance free of duty articles, up to ₹75,000, if such articles are carried on the person or in the bona fide accompanied baggage of the passenger",
-    "img": "https://th-i.thgim.com/public/incoming/934ce/article70185203.ece/alternates/LANDSCAPE_1200/2025-10-08T204904Z_1148733071_RC2V7HAUXBU3_RTRMADP_3_USA-SHUTDOWN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/government-raises-limit-for-bringing-duty-free-imported-goods-to-75000-under-new-baggage-rules/article70580649.ece",
-    "time": "2026-02-01T22:19:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Golden' becomes first ever K-Pop song to win Grammy",
-    "desc": "In a groundbreaking moment for K-Pop, the animated feature 'KPop Demon Hunters' saw its soundtrack 'Golden' triumph at the 68th Grammy Awards, becoming the inaugural K-Pop song to be crowned Best Song Written for Visual Media.",
-    "img": "https://static.toiimg.com/photo/msid-127848018,imgsize-30588.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/grammy-awards-2026-kpop-demon-hunters-creates-history-golden-becomes-first-ever-k-pop-song-to-win-award/articleshow/127848010.cms",
-    "time": "2026-02-01T22:15:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "No 'Avengers: Doomsday' trailer to release at Super Bowl?",
-    "desc": "Doomsday' trailer may be disappointed as Marvel Studios is reportedly skipping Super Bowl LX advertising. High costs are cited, with major studios rethinking their presence. While other trailers are expected, the first full look at 'Avengers: Doomsday' might arrive closer to its December 18th release.",
-    "img": "https://static.toiimg.com/photo/msid-127847843,imgsize-55106.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/avengers-doomsday-trailer-robert-downey-jr-chris-evans-and-chris-hemsworth-starrer-to-skip-super-bowl-lx-release/articleshow/127847776.cms",
-    "time": "2026-02-01T21:42:09.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Gukesh draws as Abdusattorov stretches away",
     "desc": "Javokhir Sindarov did not risk anything against R Praggnanandhaa and settled for a draw to slip to second spot on 7.5 points, a half point behind compatriot Abdusattorov and it could well be an Uzbek domination in the first super-tournament of the year",
@@ -198,15 +342,6 @@ const newsData_en = [
     "time": "2026-02-01T21:29:02.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Five things to watch for on Grammys night",
-    "desc": "Grammys night promises electrifying performances and potential history-making moments. Album of the Year could see a first-time winner, possibly a solo male rapper or a Spanish-language album. Song of the Year features a multilingual battle, with bilingual or Spanish tracks vying for the top honor. Trevor Noah hosts for his final time, while Justin Bieber is set to perform.",
-    "img": "https://static.toiimg.com/photo/msid-127847792,imgsize-66898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/grammy-awards-2026from-justin-biebers-return-to-first-ever-k-pop-win-five-things-to-watch-out-for/articleshow/127847781.cms",
-    "time": "2026-02-01T21:02:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Different surfaces, day games in T20 WC are new challenges but we can adapt: NZ captain Santner",
     "desc": "“I think we’re obviously tested a lot throughout the series. We knew that was going to be the case. We know how good India are, especially their record at home. But for us it was a great series, great prep,” Santner said",
@@ -214,24 +349,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/different-surfaces-day-games-in-t20-wc-are-new-challenges-but-we-can-adapt-nz-captain-santner/article70580413.ece",
     "time": "2026-02-01T20:48:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bad Bunny set to make history at Grammys",
-    "desc": "Once a grocery store clerk, Bad Bunny is now on the verge of Grammy glory with six nominations, including a historic nod for Album of the Year with his Spanish-language masterpiece. His electrifying Super Bowl halftime show promises to amplify his influence on a global stage.",
-    "img": "https://static.toiimg.com/photo/msid-127847748,imgsize-51404.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bad-bunny-set-to-make-history-at-grammys-with-album-of-the-year-win/articleshow/127847733.cms",
-    "time": "2026-02-01T20:28:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Govinda said, ‘I would have married Neelam'",
-    "desc": "Govinda's career success led to complications in his marriage to Sunita, as he fell for co-star Neelam. He nearly ended his engagement with Sunita but ultimately reconciled, keeping their marriage secret for a year. Govinda later admitted to exploiting his relationship with Neelam for professional gain and regretting not being honest about his marital status.",
-    "img": "https://static.toiimg.com/photo/msid-127847738,imgsize-50142.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-govinda-said-i-would-have-married-neelam-after-he-broke-off-his-engagement-with-sunita-she-would-nag-me-and-i-would-lose-my-temper/articleshow/127847731.cms",
-    "time": "2026-02-01T20:21:44.000Z"
   },
   {
     "cat": "Business",
@@ -259,15 +376,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/west-bengal/budget-2026-27-falls-short-of-expectations-in-poll-bound-west-bengal/article70579023.ece",
     "time": "2026-02-01T19:52:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Four people arrested over firing outside Rohit Shetty's house",
-    "desc": "Firing occurred outside filmmaker Rohit Shetty's Mumbai residence, with initial investigations pointing to alleged links with the Lawrence Bishnoi gang. A social media post, claiming Shubham Lonkar's involvement, surfaced hours later, issuing a stark warning to Bollywood. Four individuals, allegedly providing logistical support, were arrested.",
-    "img": "https://static.toiimg.com/photo/msid-127847685,imgsize-25834.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/four-people-arrested-over-firing-outside-rohit-shettys-house-police-officials-find-links-to-lawrence-bishnoi-gang-during-investigation/articleshow/127847662.cms",
-    "time": "2026-02-01T19:51:24.000Z"
   },
   {
     "cat": "Business",
@@ -304,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistan-to-boycott-india-at-t20-world-cup-how-the-events-unfolded-a-complete-timeline/articleshow/127846775.cms",
     "time": "2026-02-01T18:31:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Budget 2026 moots several proposals to rejuvenate indigenous shipping",
-    "desc": "In today’s speech, the Finance Minister spoke about the government’s aim to develop inland and coastal shipping so that its share in total cargo carried through road, rail and water increases from 6% to 12%",
-    "img": "https://th-i.thgim.com/public/incoming/el7o8q/article70580308.ece/alternates/LANDSCAPE_1200/2501_28_8_2021_9_13_25_2_64D0536F_2F67_455C_942A_26A3E548C0BA.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/budget-2026-moots-several-proposals-to-rejuvenate-indigenous-shipping/article70578875.ece",
-    "time": "2026-02-01T18:24:42.000Z"
   },
   {
     "cat": "Business",
@@ -369,15 +468,6 @@ const newsData_en = [
     "time": "2026-02-01T17:44:01.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "When Mrunal revealed why her ex-boyfriend ran away",
-    "desc": "Mrunal Thakur, amidst wedding rumours with Dhanush, is set to star in the upcoming love story 'Do Deewane Seher Mein'. She previously shared that an ex-boyfriend left her, citing her impulsiveness and acting career as reasons. Thakur expressed relief at the breakup, highlighting their fundamental differences and contrasting upbringings, which she felt would impact future parenting.",
-    "img": "https://static.toiimg.com/photo/msid-127845900,imgsize-27386.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-mrunal-thakur-revealed-her-ex-boyfriend-ran-away-because-she-was-an-actress-youre-too-impuslive/articleshow/127845752.cms",
-    "time": "2026-02-01T17:36:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Carlos Alcaraz conquers Melbourne to complete historic career Grand Slam",
     "desc": "Carlos Alcaraz achieved a historic career Grand Slam at 22, defeating Novak Djokovic in a thrilling Australian Open final. Despite a turbulent pre-season, Alcaraz showcased remarkable composure and strategic brilliance, adapting his game to overcome the seasoned champion. His improved serve, influenced by Djokovic himself, proved pivotal in securing the Norman Brookes Challenge Cup.",
@@ -414,6 +504,15 @@ const newsData_en = [
     "time": "2026-02-01T17:03:51.000Z"
   },
   {
+    "cat": "Business",
+    "title": "What does the Budget offer urban India?",
+    "desc": "The Union Budget 2026 has cut urban development allocations by 11.6%, lowering funding from ₹96,777 crore to ₹85,522 crore. This reduction raises concerns about the sustainability of essential services amid rising challenges such as mass migration, climate change and infrastructure stagnation in cities",
+    "img": "https://th-i.thgim.com/public/incoming/b1x200/article70580081.ece/alternates/LANDSCAPE_1200/11908_21_6_2025_10_41_10_2_DSC_3090.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/what-does-the-budget-offer-urban-india/article70578005.ece",
+    "time": "2026-02-01T16:53:06.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Trade bodies say Budget powers MSMEs, provides boost to domestic manufacturing and further simplifies doing business",
     "desc": "A growth-oriented and sector-enabling Budget for micro and small scale industries that balances capital infusion, infrastructure expansion and proposes cluster modernisation, and policy reform to support global competitiveness and sustainable employment generation in the MSE sector",
@@ -421,15 +520,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/karnataka/trade-bodies-say-budget-powers-msmes-provides-boost-to-domestic-manufacturing-and-further-simplifies-doing-business/article70579774.ece",
     "time": "2026-02-01T16:40:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Stars are exploiting the system': Imran Khan",
-    "desc": "Actor Imran Khan, making a comeback, critiques the system where actors' fees inflate film budgets. He argues stars should invest in their projects, taking responsibility for success rather than demanding exorbitant upfront salaries. Khan highlights his uncle Aamir Khan's approach of taking payment at the backend for further clarity on it...",
-    "img": "https://static.toiimg.com/photo/msid-127844810,imgsize-36588.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/stars-are-exploiting-the-system-says-imran-khan-slamming-actors-burdening-a-film-with-huge-fees-says-aamir-khan-has-never-done-that-hes-never-going-to-say-give-me-rs-60-crore-exclusive/articleshow/127844737.cms",
-    "time": "2026-02-01T16:39:12.000Z"
   },
   {
     "cat": "Sports",
@@ -475,24 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-what-does-the-union-budget-2026-say-on-direct-taxes/article70579829.ece",
     "time": "2026-02-01T15:50:50.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold, silver prices in free fall! Silver hits lower circuit at Rs 2.65 lakh in futures trade; ‘overspeeding leads to a crash’",
-    "desc": "Over the last two sessions, silver has declined by a cumulative Rs 1,34,241, translating into a fall of 33.6%. On a weekly basis, the metal has dropped by nearly 21%, or Rs 69,047, from its level of Rs 3,34,699 per kg recorded on January 23.",
-    "img": "https://static.toiimg.com/photo/msid-127844075,imgsize-43512.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-prices-in-free-fall-silver-hits-lower-circuit-at-rs-2-65-lakh-in-futures-trade-overspeeding-leads-to-a-crash/articleshow/127844056.cms",
-    "time": "2026-02-01T15:40:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Alia calls Ranbir best boy in an emotional letter, says Raha is a little lawyer",
-    "desc": "Alia Bhatt penned an emotional letter to her younger self, sharing heartfelt advice and expressing gratitude for her life. She spoke fondly of her parents, sister Shaheen, and daughter Raha, calling Ranbir Kapoor the 'best boy in the world.' The actress's touching words about her family and future resonated deeply with fans, eliciting an outpouring of love and admiration.",
-    "img": "https://static.toiimg.com/photo/msid-127843788,imgsize-35974.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-calls-ranbir-kapoor-the-best-boy-in-the-world-in-an-emotional-letter-to-her-younger-self-reveals-raha-is-a-little-lawyer-did-sadak-2-to-spend-time-with-dad-mahesh-bhatt/articleshow/127843807.cms",
-    "time": "2026-02-01T15:19:01.000Z"
   },
   {
     "cat": "Sports",
@@ -549,24 +621,6 @@ const newsData_en = [
     "time": "2026-02-01T14:14:26.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Should UAE expats remit now? Weak rupee and peso offer big gains against Dirham",
-    "desc": "Expatriates in the UAE are finding a remittance opportunity as the Indian rupee, Pakistani rupee and Philippine peso weaken against the UAE dirham. This allows workers to send more value home per dirham. While advantageous, financial advisors suggest a strategic approach like splitting transfers to navigate currency market volatility and maximise benefits.",
-    "img": "https://static.toiimg.com/photo/msid-127842848,imgsize-57430.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/should-uae-expats-remit-now-weak-indian-pakistani-rupee-and-filipino-peso-offer-big-gains-against-dirham/articleshow/127841840.cms",
-    "time": "2026-02-01T13:55:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "If you bought just $1 of Bitcoin when it launched 17 years ago, how rich would you be today?",
-    "desc": "Bitcoin’s early years read like financial folklore. Launched in 2009 as a fringe experiment, it was dismissed, ignored, or casually spent. Yet tiny sums once worth dollars would today equal millions or billions. From lost hard drives to legendary pizza purchases, Bitcoin’s history is defined less by complexity than by scale, and how easily it was missed.",
-    "img": "https://static.toiimg.com/photo/msid-127842839,imgsize-969003.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/if-you-bought-just-1-of-bitcoin-when-it-launched-17-years-ago-how-rich-would-you-be-today/articleshow/127841336.cms",
-    "time": "2026-02-01T13:55:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'A great ride': Djokovic reflects on uncertain future after Australian Open final loss",
     "desc": "Novak Djokovic reflected on an uncertain future after his Australian Open final loss to Carlos Alcaraz, admitting he didn't expect to reach another Grand Slam final. Despite the defeat, he expressed deep gratitude for the overwhelming support from the Australian crowd, calling it an \"incredible achievement\" to even be there.",
@@ -574,15 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/a-great-ride-novak-djokovic-reflects-on-uncertain-future-after-australian-open-final-loss/articleshow/127842835.cms",
     "time": "2026-02-01T13:55:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Cigarette prices to increase up to Rs 55 per pack",
-    "desc": "Cigarette prices have surged by Rs 22-25 per pack of 10 following a new excise duty regime, the first tax hike in seven years. This move aligns India's tobacco taxation with global health standards. Premium cigarettes will see significant price increases, with distributors anticipating new MRPs from Monday. Concerns about smuggling and counterfeit products are rising.",
-    "img": "https://static.toiimg.com/photo/msid-127842746,imgsize-1540219.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/new-excise-duty-on-tobacco-products-cigarette-prices-to-increase-up-to-rs-55-per-pack/articleshow/127842714.cms",
-    "time": "2026-02-01T13:47:45.000Z"
   },
   {
     "cat": "Politics",
@@ -612,15 +657,6 @@ const newsData_en = [
     "time": "2026-02-01T13:05:34.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Ishan all but seals World Cup wicketkeeper spot as Samson's woes continue",
-    "desc": "Ishan Kishan seized his chance in the T20 series against New Zealand, delivering a stunning maiden century and solidifying his claim for the wicketkeeper's role. While a potential imbalance of left-handers exists, Kishan's decisive batting has overshadowed concerns. In contrast, Sanju Samson's struggles with footwork and timing were exposed, leaving his World Cup prospects uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-127842063,imgsize-251716.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ishan-kishan-all-but-seals-world-cup-wicketkeeper-spot-as-sanju-samsons-woes-continue/articleshow/127842069.cms",
-    "time": "2026-02-01T13:05:28.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Union Budget 2026-27",
     "desc": "“The Budget is totally disappointing. It has ignored the State’s interests, and there are no schemes for the welfare of the poor, women, farmers, and those on the margins of society,” he said in a statement",
@@ -628,15 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/budget/union-budget-2026-even-on-poll-eve-budget-has-disappointed-tamil-nadu-cm-stalin/article70578315.ece",
     "time": "2026-02-01T12:44:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "E-invoicing will change how you get paid, no more manual VAT fixes",
-    "desc": "UAE businesses face a major digital overhaul in 2026-2027 with a new e-invoicing system. Starting July 2026, companies will transition from paper to structured digital invoices, enabling real-time reporting to the Federal Tax Authority. This significant compliance modernization aims to boost VAT accuracy and reduce evasion, aligning with the nation's digital vision.",
-    "img": "https://static.toiimg.com/photo/msid-127841628,imgsize-54230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/tax-revolution-in-the-uae-e-invoicing-will-change-how-you-get-paid-no-more-manual-vat-fixes/articleshow/127840838.cms",
-    "time": "2026-02-01T12:41:41.000Z"
   },
   {
     "cat": "Business",
@@ -667,39 +694,12 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Health outlay raised 10%, government plans 5 regional medical hubs, boost for AHPs",
-    "desc": "Finance Minister Nirmala Sitharaman unveiled a significant boost for healthcare in the Union Budget, announcing five new regional medical hubs and a Rs 1,000 crore allocation for Allied Healthcare Professionals. The budget also prioritizes geriatric care, training 1.5 lakh caregivers, and increases funding for key programs like the National Health Mission and Ayushman Bharat.",
-    "img": "https://static.toiimg.com/photo/msid-127840863,imgsize-1249715.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-health-outlay-raised-10-government-plans-5-regional-medical-hubs-boost-for-ahps/articleshow/127840847.cms",
-    "time": "2026-02-01T11:54:43.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "16th Finance Commission report tabled",
     "desc": "The Centre’s decision to retain States’ share in the common pool of taxes at 41% for 2026–31 has sparked criticism from opposition leaders. Finance Minister Nirmala Sitharaman tabled the Sixteenth Finance Commission report in the Lok Sabha on February 1, 2026, setting the framework for tax devolution between the Centre and States. Several States, including Karnataka and Kerala, had sought a higher 50% share, citing rising fiscal responsibilities.",
     "img": "https://th-i.thgim.com/public/incoming/6a9cc9/article70578219.ece/alternates/LANDSCAPE_1200/finance%20commission.png",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-16th-finance-commission-report-tabled-union-budget-2026/article70578180.ece",
     "time": "2026-02-01T11:48:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Past has got no meaning': Former India captain sends strong warning ahead of World Cup",
-    "desc": "India enters the T20 World Cup 2026 as strong favorites to defend their title on home soil. Former captain Sourav Ganguly believes the team's current balance and depth across batting and bowling make them formidable contenders. He stressed the importance of peaking at the right time during the tournament, a sentiment echoed by India's dominant recent T20I form.",
-    "img": "https://static.toiimg.com/photo/msid-127840707,imgsize-211824.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/past-has-got-no-meaning-former-india-captain-sends-strong-warning-ahead-of-world-cup/articleshow/127840731.cms",
-    "time": "2026-02-01T11:47:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "High-level committee on Banking to be set up for India's next phase of growth",
-    "desc": "\"I propose setting up a 'High Level Committee on Banking for Viksit Bharat'\", to comprehensively review the sector and align it with India's next phase of growth, while safeguarding financial stability, inclusion and consumer protection,\" she said, in her 90-minute-long Budget speech.",
-    "img": "https://static.toiimg.com/photo/msid-127840601,imgsize-29792.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-high-level-committee-on-banking-to-be-set-up-for-indias-next-phase-of-growth/articleshow/127840465.cms",
-    "time": "2026-02-01T11:33:48.000Z"
   },
   {
     "cat": "World",
@@ -709,24 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/reopening-of-gazas-rafah-crossing-expected-monday-officials-say/article70578002.ece",
     "time": "2026-02-01T11:31:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What is Securities Transaction Tax &amp; what does it mean for F&amp;O traders and investors",
-    "desc": "Starting April 1, 2026, India will see increased Securities Transaction Tax (STT) on futures and options trading. The Finance Minister announced higher rates for options premium, exercise, and futures, aiming to moderate speculative activity. This change, part of Budget 2026, will slightly raise trading costs for derivatives participants, while equity and mutual fund STT rates remain untouched.",
-    "img": "https://static.toiimg.com/photo/msid-127840251,imgsize-1246296.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stt-hike-after-budget-2026-what-is-securities-transaction-tax-what-does-it-mean-for-fo-traders-and-investors/articleshow/127839884.cms",
-    "time": "2026-02-01T11:21:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "FM outlines NBFCs vision, targets credit and tech; PFC, REC to be restructured",
-    "desc": "Union finance minister Nirmala Sitharaman unveiled the government's Viksit Bharat vision for Non-Banking Financial Companies, setting clear targets for credit expansion and technology adoption. Key public sector NBFCs like Power Finance Corporation and Rural Electrification Corporation will be restructured to boost efficiency. This initiative, alongside a banking sector review, aims to strengthen India's financial system for sustained reform-led growth.",
-    "img": "https://static.toiimg.com/photo/msid-127840117,imgsize-688327.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-nirmala-sitharaman-outlines-viksit-bharat-roadmap-for-nbfcs-flags-restructuring-of-pfc-and-rec/articleshow/127839928.cms",
-    "time": "2026-02-01T11:16:04.000Z"
   },
   {
     "cat": "World",
@@ -748,48 +730,21 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Usman Tariq hits back on social media after Green's 'chucking' gesture sparks debate",
-    "desc": "Pakistan spinner Usman Tariq responded to controversy surrounding his bowling action after dismissing Australia's Cameron Green. Green's on-field gesture was interpreted as questioning Tariq's legality, prompting a social media retort from the spinner. Tariq's action has faced scrutiny before, but he has been cleared in past assessments.",
-    "img": "https://static.toiimg.com/photo/msid-127839653,imgsize-169352.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/usman-tariq-hits-back-on-social-media-after-cameron-greens-chucking-gesture-sparks-debate/articleshow/127839658.cms",
-    "time": "2026-02-01T10:48:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Which income tax regime should you choose for FY 2026-27? Tax rates, slabs explained",
-    "desc": "Union Budget 2026 maintains the existing income tax framework, with the new regime offering tax-free income up to Rs 12 lakh for individuals. While the old regime continues with its deductions, the new system has been progressively liberalized since 2020, making it increasingly attractive for middle-income taxpayers.",
-    "img": "https://static.toiimg.com/photo/msid-127839191,imgsize-33070.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/new-tax-regime-vs-old-tax-regime-after-budget-2026-income-tax-slabs-and-rates-comparison-explained-which-tax-regime-is-better-for-middle-class-salaried-taxpayers/articleshow/127838105.cms",
-    "time": "2026-02-01T10:40:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Border 2' box office day 10 (LIVE)",
-    "desc": "'Border 2' continues its strong run in theaters, nearing Rs 262.45 crore after its third week. Despite expected weekday drops, the film saw a solid second weekend. Meanwhile, Rani Mukerji's 'Mardaani' opened to Rs 4 crore, showing promising growth on its second day, indicating audience interest.",
-    "img": "https://static.toiimg.com/photo/msid-127839232,imgsize-72978.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-day-10-live-the-sunny-deol-varun-dhawan-ahan-shetty-film-sees-growth-on-weekend-has-an-edge-over-rani-mukerjis-mardaani-3/articleshow/127839115.cms",
-    "time": "2026-02-01T10:23:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'A pattern has developed': Ex-India cricketer questions Samson's batting method",
-    "desc": "Sanju Samson faced another batting failure in the T20I series against New Zealand. His struggles have become a pattern, with experts pointing to technical issues. Samson's position in the team is uncertain. Ishan Kishan's century further highlights Samson's difficult run. India is preparing for their World Cup opener.",
-    "img": "https://static.toiimg.com/photo/msid-127838333,imgsize-119132.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/a-pattern-has-developed-former-india-cricketer-questions-sanju-samsons-batting-method/articleshow/127838358.cms",
-    "time": "2026-02-01T09:37:01.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Handshake refused! India vs Pakistan U19 World Cup showdown opens with tense moment",
     "desc": "India and Pakistan U-19 captains notably skipped the customary handshake at the toss for their crucial World Cup encounter. This follows a recent trend of no handshakes between the two nations' cricket teams amid ongoing political tensions. The match is a must-win for Pakistan to keep their semi-final hopes alive.",
     "img": "https://static.toiimg.com/photo/msid-127837526,imgsize-165194.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/handshake-refused-india-vs-pakistan-u19-world-cup-showdown-opens-with-tense-moment/articleshow/127837532.cms",
     "time": "2026-02-01T08:45:43.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "The world’s first handheld scientific calculator",
+    "desc": "On February 1, 1972 — just a day before a year was completed from the official go-ahead for the product — HP-35 was made available to the world. Now recognised as the world’s first scientific pocket calculator, the gadget revolutionised the way we looked at handheld equipment. A.S.Ganesh punches some keys to give you the tale of these number crunchers…",
+    "img": "https://th-i.thgim.com/public/incoming/adas7p/article70541286.ece/alternates/LANDSCAPE_1200/01istb%20HP-35.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/children/the-worlds-first-handheld-scientific-calculator/article70541279.ece",
+    "time": "2026-02-01T05:54:25.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/has-manchester-united-found-its-mr-right-in-michael-carrick/article70571901.ece",
     "time": "2026-01-30T18:07:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "History-chasing Djokovic and Alcaraz to meet in Australian Open final after epic wins",
+    "desc": "“It feels surreal,” Djokovic said of his 4-hour, 9-minute triumph. “Honestly, it feels like winning already tonight. I know I have to come back … and fight the No. 1 of the world. I just hope that I’ll have enough gas to stay toe-to-toe with him.",
+    "img": "https://th-i.thgim.com/public/incoming/ww5zk/article70571820.ece/alternates/LANDSCAPE_1200/2026-01-30T160648Z_841805147_UP1EM1U14YNA1_RTRMADP_3_TENNIS-AUSOPEN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/australian-open-2026-tennis-championship-mens-semifinal/article70569640.ece",
+    "time": "2026-01-30T17:20:43.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Sri Lanka to stick to IMF path despite cyclone setback",
+    "desc": "In the wake of the cyclone, over 70 civil society groups and activists across Sri Lanka called for the renegotiation of the IMF deal, accusing the Dissanayake government of becoming a ‘prisoner’ of the ongoing IMF programme",
+    "img": "https://th-i.thgim.com/public/incoming/nxs4li/article70571803.ece/alternates/LANDSCAPE_1200/AFP_87ZM6A7.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/sri-lanka-to-stick-to-imf-path-despite-cyclone-setback/article70570111.ece",
+    "time": "2026-01-30T17:14:24.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "China's coast guard patrolled Japan-held islands almost daily last year as tensions flare",
+    "desc": "The most recent confrontation in the area came ​last month, when China said it had expelled an “illegal” Japanese fishing vessel ⁠from the waters around the islands, while Japan said it had intercepted and expelled two Chinese coast guard ships that were approaching the vessel.",
+    "img": "https://th-i.thgim.com/public/incoming/8okz3j/article70571602.ece/alternates/LANDSCAPE_1200/2026-01-27T012138Z_1857680126_RC2BRGAJNSAJ_RTRMADP_3_CHINA-JAPAN-ISLANDS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/chinas-coast-guard-patrolled-japan-held-islands-almost-daily-last-year-as-tensions-flare/article70571585.ece",
+    "time": "2026-01-30T16:03:31.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. changes leadership of Gaza mission amid uncertainty over role",
+    "desc": "The top military officer ‌at the Civil-Military Command Centre, a three-star lieutenant general, ​is expected to be replaced by a U.S. commander of a lower rank, while the top civilian has returned to his job as U.S. Ambassador to Yemen",
+    "img": "https://th-i.thgim.com/public/incoming/xqzrte/article70571416.ece/alternates/LANDSCAPE_1200/AFP_93LT7K3.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-changes-leadership-of-gaza-mission-amid-uncertainty-over-role/article70571374.ece",
+    "time": "2026-01-30T15:31:57.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran FM Araghchi says no meetings planned with U.S.",
+    "desc": "No meeting plan has been set between us and the Americans. We are ready for fair and just negotiations, but preparations are needed, both in terms of the form and subject of the discussions and the venue, says Iran's Foreign Minister Abbas Araghchi",
+    "img": "https://th-i.thgim.com/public/incoming/mmeb7k/article70570517.ece/alternates/LANDSCAPE_1200/Lebanon_Iran_64478.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-fm-araghchi-says-no-meetings-planned-with-us/article70570470.ece",
+    "time": "2026-01-30T13:09:37.000Z"
   }
 ];

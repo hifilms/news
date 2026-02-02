@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "UP Warriorz achieve unwanted record with yet another loss against Delhi Capitals women",
+    "desc": "UP Warriorz were handed their sixth loss in eight games in the ongoing WPL (Women’s Premier League) 2026 season. The side took on Delhi Capitals in game 20 of the tournament, and Capitals handed them...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/up-warriorz-achieve-unwanted-record-with-yet-another-loss-against-delhi-capitals-women-2026-02-02-1028553",
+    "time": "2026-02-02T04:31:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Delhi Capitals knock defending champions Mumbai Indians out of WPL 2026 with win against UPW",
+    "desc": "Game 20 of the ongoing WPL (Women’s Premier League) 2026 saw Delhi Capitals women taking on UP Warriorz. The two sides locked horns at the Kotambi Stadium in Vadodara on February 1. The clash UP...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-knock-defending-champions-mumbai-indians-out-of-wpl-2026-with-win-against-upw-2026-02-02-1028543",
+    "time": "2026-02-02T02:48:57.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India set to follow ICC protocol and travel to Sri Lanka amid Pakistan's call to not compete: Report",
     "desc": "The T20 World Cup 2026 is all set to kick off on February 7. The marquee tournament will be held in India and Sri Lanka, and ahead of the start of the tournament, the Pakistan...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/was-sarfaraz-ahmed-using-phone-during-ind-vs-pak-u19-world-cup-2026-clash-picture-goes-viral-on-social-media-2026-02-01-1028507",
     "time": "2026-02-01T14:20:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi Capitals beat UP Warriorz to book playoff spot, to face GG",
-    "desc": "Delhi Capitals defeated UP Warriorz in a must-win group stage match of the Women's Premier League 2026. The jittery Capitals chased down 123 in their clash at the BCA Stadium, Kotambi, Vadodara to book their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dcw-vs-upw-wpl-2026-live-cricket-score-delhi-capitals-vs-up-warriorz-latest-match-updates-scorecard-teams-playing-xis-2026-02-01-1028502",
-    "time": "2026-02-01T13:42:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Watch video",
-    "desc": "Novak Djokovic might have lost the final of the Australian Open on Sunday (February 1), but he won hearts with his wonderful gesture towards Rafael Nadal during the summit clash at the Rod Laver Arena...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-asks-rafael-nadal-if-he-wants-to-play-during-australian-open-final-watch-video-2026-02-01-1028498",
-    "time": "2026-02-01T13:14:05.000Z"
   }
 ];
