@@ -1,5 +1,68 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "‘তোমার শরীরটা দেখতে চাই’...ফটোগ্রাফারের সঙ্গে ভয়াবহ অভিজ্ঞতার কথা জানালেন অভিনেত্রী ঐশ্বর্যা রাজেশ!",
+    "desc": "দক্ষিণী চলচ্চিত্র জগতের পরিচিত মুখ সম্প্রতি নিজের অভিনয়জীবনের শুরুর দিকের একাধিক তিক্ত ও অস্বস্তিকর অভিজ্ঞতার কথা প্রকাশ্যে এনেছেন। এক পডকাস্টে দেওয়া সাক্ষাৎকারে তিনি ফিল্ম ইন্ডাস্ট্রিতে কাজের খোঁজে এসে যৌন হেনস্থা ও প্রকাশ্য অপমানের মতো পরিস্থিতির মুখোমুখি হওয়ার অভিজ্ঞতা তুলে ধরেছেন, যা আবারও বিনোদন দুনিয়ায় নারীদের নিরাপত্তা ও কর্মপরিবেশ নিয়ে প্রশ্ন তুলে দিয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/aishwarya-rajesh-8-2026-02-5cd81b6ba5356b683260ff6e4c99b867-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/south-film-actress-aishwarya-rajesh-recalls-disturbing-incident-with-photographer-shares-terrifying-experience-about-women-safety-tib-ws-l-2522832.html",
+    "time": "2026-02-02T09:09:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir Khan Visits Arijit Singh’s Home: অরিজিত্‍, সুরহারা কোরো না! অবসর ঘোষণার পরই জিয়াগঞ্জে সোমুর বাড়ি আমির খান...",
+    "desc": "অরিজিৎ সিংয়ের প্লেব্যাক থেকে অবসরের ঘোষণার পর যখন উত্তাল গোটা দেশ, ঠিক তখনই জিয়াগঞ্জে গায়কের বাড়িতে আমির খানের ঝটিকা সফর ঘিরে নতুন জল্পনা। গত রবিবার রাতেই কলকাতায় পা রাখেন আমির। কিন্তু কেন? এই প্রশ্নই সকলের মনে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/aamir-khan-visits-arijit-singh-jiaganj-house-after-retirement-news_638866.html ",
+    "time": "2026-02-02T08:26:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "আগামী ৭২ ঘণ্টা...! ভারী বৃষ্টি, দমকা ঝোড়ো হাওয়া কাঁপাবে ৯ রাজ্য, শীত হুঁশিয়ারি কোন কোন রাজ্যে? কী হবে বাংলায়? জানিয়ে দিল IMD",
+    "desc": "দেশের বিভিন্ন স্থানে তীব্র ঠান্ডার মধ্যে, আবহাওয়া আবারও ভোল বদলাতে চলেছে। ভারতীয় আবহাওয়া দফতর (IMD) নয় রাজ্যের জন্য বৃষ্টির সতর্কতা এবং উত্তর ভারতের ২১টি জেলায় শৈত্যপ্রবাহের সতর্কতা জারি করেছে। আবহাওয়ার এই পরিবর্তন জনজীবন বিপর্যস্ত করে তুলতে তুলতে পারে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-02-at-13.36.28-2026-02-f70876f5c1204c82ed6eae2990b451b9-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-february-2-3-and-4-heavy-rain-and-gusty-winds-will-shake-9-states-which-states-are-under-cold-weather-alert-what-will-happen-in-bengal-know-latest-west-bengal-weather-sanj-2522792.html",
+    "time": "2026-02-02T08:20:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বাজেটে করের ধাক্কায় টালমাটাল দালাল স্ট্রিট ! এক দিনেই উধাও লক্ষ কোটি টাকা...",
+    "desc": "বাজেটে ডেরিভেটিভস লেনদেনে চড়া হারে কর (STT) বৃদ্ধির ঘোষণায় দালাল স্ট্রিটে এখন শোকের ছায়া। মুহূর্তের নিরিখে প্রায় ১৫০০ পয়েন্ট পড়ল সেনসেক্স, নিফটি নামল ২৫ হাজারের নিচে। লগ্নিকারীদের পকেট থেকে মুহূর্তের মধ্যে উধাও লক্ষ কোটি টাকা। নির্মলার ‘কড়া’ দাওয়াইয়ে মাথায় হাত সাধারণ বিনিয়োগকারীদের।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/dalal-street-is-reeling-from-the-tax-shock-in-the-budget-investors-hundreds-of-billions-of-rupees-vanished-in-a-single-day_638865.html ",
+    "time": "2026-02-02T08:15:37.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "পর পর হামলায় রক্তাক্ত বালোচিস্তান! নেপথ্যে আসল মাথা দুই মহিলা! কী করেছেন তাঁরা জানেন? চমকে উঠবেন শুনে",
+    "desc": "পাকিস্তানি সেনার দাবি, হামলার পর টানা ৪০ ঘণ্টা ধরে চালানো অভিযানে ১৪৩ জন জঙ্গিকে নিকেশ করা হয়েছে। যদিও এই সংঘর্ষে সেনা সদস্যদের পাশাপাশি সাধারণ মানুষের মৃত্যুর খবরও সামনে এসেছে বলে বিভিন্ন সূত্রে জানা গিয়েছে। পরিস্থিতি সামাল দিতে প্রদেশজুড়ে নিরাপত্তা ব্যবস্থা আরও জোরদার করা হয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/baloch-2-2026-02-a6258e25d3b8b52747d0d6d6dbb89453-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/balochistan-attack-photos-of-two-women-released-by-baloch-fighters-tension-rises-who-are-they-tib-ws-l-2522733.html",
+    "time": "2026-02-02T07:53:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC To Suspend... ছোটোখাটো কোনও শাস্তি নয়, পিসিবিকে একেবারে চুপ করিয়ে দেবে কি আইসিসি, একেবারে সাসপেন্ড করবে পাকিস্তানকে",
+    "desc": "ICC To Suspend PAK From International Cricket? টি-টোয়েন্টি বিশ্বকাপের সময় পাকিস্তান সরকার ভারতের বিপক্ষে মাঠে নামবে না বলে জানানোর পর, আন্তর্জাতিক ক্রিকেট কাউন্সিল আগামী ৪৮ ঘণ্টার মধ্যে একটি জরুরি সভা করবে যাতে পাকিস্তানের বিষয়ে সিদ্ধান্ত নেওয়া যায়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ICC-and-PCB-2026-02-c91efdb08d6709fe4bfad001063d0fea-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/icc-to-suspend-pak-from-international-cricket-bcci-may-travel-to-sri-lanka-as-per-icc-rule-dd-2522737.html",
+    "time": "2026-02-02T07:38:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ধ্যানবিন্দুর শিখরে পৌঁছে নবতিপর দলাই লামার বিশ্বজয়! পেলেন সংগীতের মহাসম্মান গ্র্যামি...",
+    "desc": "হিমাচল প্রদেশের ধর্মশালা থেকে বিশ্বজুড়ে শান্তির বাণী ছড়িয়ে দেওয়া চতুর্দশ দলাই লামার মুকুটে যুক্ত হলো এক অনন্য পালক। ৯০ বছর বয়সে নিজের প্রথম গ্র্যামি অ্যাওয়ার্ড জয় করলেন তিব্বতের এই আধ্যাত্মিক গুরু। 'বেস্ট অডিও বুক, ন্যারেশন এবং স্টোরিটেলিং রেকর্ডিং' বিভাগে এই সম্মান পেয়েছেন তিনি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/dalai-lama-wins-first-grammy-award-at-90-meditations-album_638834.html ",
+    "time": "2026-02-02T07:01:08.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "'পাকিস্তানি রা ৪ দিনের মধ্যে অবসরের সিদ্ধান্ত বদল করে'! মজার ছলে পাকিস্তানকে ধুয়ে দিল গাভাসকর",
     "desc": "পাকিস্তান সরকার ঘোষণা করেছে যে তারা আইসিসি টি২০ বিশ্বকাপের গ্রুপ পর্বে ভারতের বিপক্ষে ম্যাচটি তারা বয়কট করবে। সরকার এই সিদ্ধান্ত সোশ্যাল মিডিয়ায় জানিয়েছে, তবে কোনো কারণ উল্লেখ করা হয়নি। এই ঘোষণার পর ক্রিকেট বিশ্বে নতুন বিতর্ক শুরু হয়েছে।",
@@ -259,15 +322,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/why-gold-price-crashed-wealth-equal-to-uk-france-gdp-gone-within-a-moment-future-price-of-gold-rdp-2519520.html",
     "time": "2026-01-30T15:14:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বাজেটের আগেই বিরাট খবর ভারতের অর্থনীতির! সার্ভে বলছে, ভারত এই মুহূর্তে পৃথিবীর সবচেয়ে শক্তিশালী...",
-    "desc": "বহুদিন ধরেই শোনা যাচ্ছে, ভারত ক্রমশ এক শক্তিশালী অর্থনীতি হয়ে উঠছে বিশ্বে। যত দিন যাচ্ছে, তত এটা আরও স্পষ্ট হচ্ছে। গতকাল ২৯ জানুয়ারি সংসদে পেশ হল ইকনমিক সার্ভে। আগামী অর্থবর্ষে কোন দিকে এগোবে ভারত, তার আভাস দেওয়া হয়েছে এতে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/economic-survey-pre-budget-economic-survey-powerful-message-of-indias-growth-worlds-fastest-growing-major-economy_638352.html ",
-    "time": "2026-01-30T14:49:44.000Z"
   },
   {
     "cat": "Politics",
@@ -703,24 +757,6 @@ const newsData_bn = [
   },
   {
     "cat": "Entertainment",
-    "title": "রাতারাতি নেটদুনিয়ার সেনসেশন আশি বছরের বৃদ্ধ! চেনেন এই ‘ফণীবাবু Viral’কে?",
-    "desc": "ফনীবাবু, জীবন সংগ্রামে বহু ওঠাপড়া, ভালো মন্দের মাঝেও নিজের পরিবারের প্রতি তিনি ছিলেন দায়বদ্ধ। আর তাই, বহু কষ্টে তিলতিল করে জমিজমা, নিজস্ব বাড়ি সবই তার পরিবারের জন্য করেছেন। কিন্তু মজার বিষয় হলো, বর্তমানে বয়স জনিত কারণে পরিবার, প্রতিবেশী সবার কাছেই সে হয়ে গেছেন বোঝা। এরপরই...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/phonibabu-viral-movie-announcement-raju-majumder-subhashis-mukherjee_637510.html ",
-    "time": "2026-01-26T12:39:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "দেশমাতৃকার বন্দনায় কলকাতা! পরাক্রম দিবসে নেতাজিকে শ্রদ্ধা ডোনা-ইমন-রাঘবদের…",
-    "desc": "নৃত্য পরিকল্পনায় ছিলেন বিশিষ্ট ওড়িশি নৃত্য শিল্পী ডোনা গঙ্গোপাধ্যায়, সঙ্গে ছিলেন রঘুনাথ দাস ও দীক্ষা মন্জরীর ছাত্র -ছাত্রীরা, গানে রাঘব চট্টোপাধ্যায়,ইমন চক্রবর্তী ও তাঁর মিউজিক আকাদেমির ছাত্র -ছাত্রীরা, আরশাদ আলি খান, দূর্ণিবার সাহা, আরফিন রানা, আরাত্রিকা সিনহা, সঙ্গীত পরিচালনায় ছিলেন নীলাঞ্জন ঘোষ। অনুষ্ঠানে উপস্থিত ছিলেন দেশের মাননীয় উপরাষ্ট্রপতি সি.পি. রাধাকৃষ্ণণ, পশ্চিমবঙ্গের রাজ্যপাল মাননীয় সিভি আনন্দ বোস প্রমুখ।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/netaji-birth-anniversary-victoria-memorial-parakram-diwas-cultural-event_637507.html ",
-    "time": "2026-01-26T12:17:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "হিট সিনেমার সুপারহিট গান, একবার শুনলেই ফিরবে পুরনো দিনের স্মৃতি, নতুন আইটেম সং-এর সঙ্গে দিব্যি পাল্লা দেবে 'বিবি পায়রা পায়রা', শুনুন",
     "desc": "১৯৮৮ সালের জনপ্রিয় ‘দেবীবরণ’ ছবির সুপারহিট আইটেম গান ‘বিবি পায়রা’। ১৯৮৮ সালে বক্স অফিসের সমস্ত রেকর্ড ভেঙে দিয়েছিল ‘দেবীবরণ’ (Debibaran) ছবিটি। তবে শুধু এই ছবি নয়, ‘বিবি পায়রা’ গানটিও তুমুল জনপ্রিয় হয়। এই গানে পাপিয়া অধিকারীর পারফরম্যান্স তাক লাগিয়ে দিয়েছিল সেই সময়ে। এই গানটি গেয়েছিলেন আশা ভোঁসলে, যা এখনও হিট৷ দুর্গাপুজোর প্যান্ডেলে এই গান না বাজলে যেন পুজোর আমেজই আসে না৷ শুনে নিন এই জনপ্রিয় বাংলা গান৷",
     "img": "https://images.news18.com/static-bengali/uploads/2026/01/Web-2026-01-26T172726.328-2026-01-4975215150c882e43f9f8ae3202a7c84-3x2.jpg",
@@ -819,15 +855,6 @@ const newsData_bn = [
     "time": "2026-01-24T06:07:58.000Z"
   },
   {
-    "cat": "World",
-    "title": "আত্মঘাতী বিস্ফোরণে বিয়েবাড়িতে রক্তস্রোত! প্রভাবশালী নেতার বাড়িতে মৃত বহু...",
-    "desc": "অতিথি বেশে সুইসাইড বোম্বার হিসাবে বিয়েবাড়িতে প্রবেশ। ভয়ংকর বিস্ফোরণে সাতজনের মৃত্যু এবং ২৫ জন গুরুতর আহত হয়েছে। বিস্ফোরণের পর এলাকা ভেঙে পড়ে এবং উদ্ধারকাজে জটিলতা তৈরি হয়। পুলিস এবং নিরাপত্তা বাহিনী হামলাকারীদের খুঁজে বের করার জন্য অভিযান চালাচ্ছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/seven-people-were-killed-and-25-injured-when-a-suicide-bomber-detonated-an-explosive-vest-among-guests-at-a-wedding-ceremony_637205.html ",
-    "time": "2026-01-24T05:18:09.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Smriti Mandhana-Palash Muchhal: বিয়ের মণ্ডপেই ‘অন্য নারীর সঙ্গে ধরা’! পলাশ মুচ্ছলকে ঘিরে চাঞ্চল্যকর অভিযোগ",
     "desc": "একজন প্রযোজক ও অভিনেতা বিদ্যান মেনে পুলিশে অভিযোগ করেছে, পলাশকে বিয়ের অনুষ্ঠান চলাকালীন অন্যান্য নারীর সঙ্গে এক বিছানায় ধরা পড়ার পর ভারতীয় মহিলা ক্রিকেটারদের বন্ধুদের হাতে মার খেতে হয়েছে। তিনি এই দৃশ্যকে “ভয়ানক” বলে অভিহিত করেছেন।",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/indian-rupee-hits-record-low-of-91-point-97-against-us-dollar-amid-fpi-outflows-usd-inr-exchange-rate-sensex-decline-today-tib-ws-el-2509850.html",
     "time": "2026-01-23T12:20:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "টানা পাঁচ দিন বন্ধ ব্যাঙ্ক, চরম হয়রানির আশঙ্কা! দেখুন ভিডিও",
-    "desc": "মাসের শেষে টানা ব্যাঙ্ক বন্ধে হয়রানির আশঙ্কা৷ আজ, শুক্রবার থেকে টানা পাঁচ দিন বন্ধ থাকবে ব্যাঙ্ক৷ আজ ২৩ জানুয়ারি নেতাজি সুভাষচন্দ্র বসুর জন্মদিন এবং সরস্বতী পুজো উপলক্ষে বন্ধ থাকবে ব্যাঙ্ক৷ শনি, রবিবার ব্যাঙ্কের সাপ্তাহিক ছুটি থাকবে৷ সোমবার ২৬ জানুয়ারি প্রজাতন্ত্র দিবসের ছুটিতে ব্যাঙ্ক বন্ধ৷ এর পর মঙ্গলবার ২৭ জানুয়ারি দেশজুড়ে ব্যাঙ্ক ধর্মঘটের ডাক দেওয়া হয়েছে৷ মঙ্গলবার এটিএম-ও বন্ধ থাকার কথা৷ ফলে পাঁচ দিন ধরে চরম হয়রানির মুখে পড়তে চলেছেন সাধারণ মানুষ৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1768741241_1768552694_Bank-Employees-to-Go-on-Nationwide-Strike-on-January-27-Banks-to-Remain-Closed-for-4-Consecutive-Days-2-2026-01-edc35574fbbcdbce8b1a8c5993a4f409-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/business/banks-to-remain-closed-for-five-days-customers-to-face-harassment-dmg-2509847.html",
-    "time": "2026-01-23T11:58:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বছরে পাঁচটি 'কেস' খেলেই বাতিল হবে বাইক-গাড়ির ড্রাইভিং লাইসেন্স? ট্রাফিক আইন আরও কড়া করল কেন্দ্র",
-    "desc": "নতুন বছরে ট্র্যাফিক আইন আরও কড়া করতে চলেছে কেন্দ্র। এবার বছরে পাঁচ বা তার বেশিবার ট্র্যাফিক আইন ভাঙলে চালকের ড্রাইভিং লাইসেন্স সাময়িকভাবে বাতিল হতে পারে। এমনই বিধান কার্যকর হতে চলেছে সদ্য সংশোধিত মোটর ভেহিকেল রুলসে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/kolkata-201-2026-01-40b802090a4dde160c295ae4fb75cc23-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/new-traffic-rules-more-strict-now-if-you-have-booked-for-5-cases-in-one-year-your-licence-can-be-invalid-or-suspended-now-more-details-smc-2509720.html",
-    "time": "2026-01-23T11:12:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "তৈরি নিম্নচাপ, আসছে ঝঞ্ঝা...! ২৩, ২৪, ২৫, ২৬, ২৭ জানুয়ারি ভারী বৃষ্টি, ঝড় কাঁপাবে ৯ রাজ্য, শীত-শিলাবৃষ্টির কামড় কোন কোন রাজ্যে? কী হবে বাংলায়? জানিয়ে দিল IMD",
-    "desc": "বৃষ্টি ও ঠান্ডার সাঁড়াশি আক্রমণ আসতে চলেছে দেশ জুড়ে? আবহাওয়া দফতর ইতিমধ্যেই একটি সতর্কতা জারি করেছে। আবহাওয়া দফতরের মতে, আগামী ৫ দিন দেশের বিভিন্ন রাজ্যে বজ্রপাত ও বৃষ্টিপাতের আশঙ্কা রয়েছে বলে ইঙ্গিত আইএমডি-র। এর ফলে ঠান্ডা আগামী কয়েকদিনে আরও কয়েকগুন বাড়বে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/11/sanj-2025-11-09T213911.398-2025-11-69e107a8b15ace413363cfb74167ee72-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-23-24-25-26-27-january-heavy-rainfall-alert-along-with-thunderstorm-and-lightning-in-9-states-hailstorm-and-coldwave-to-hit-several-know-latest-west-bengal-weather-sanj-2509644.html",
-    "time": "2026-01-23T09:33:50.000Z"
   }
 ];

@@ -1,6 +1,276 @@
 const newsData_en = [
   {
     "cat": "Business",
+    "title": "what a decade of Kerala Startup Mission shows",
+    "desc": "From college labs to global markets, Kerala Startup Mission’s decade-long push has shaped how founders scale ideas across robotics, agritech and edtech. From 300 startups in 2016 to over 7,800 today, how has the State shaped Kerala’s technology ecosystem?",
+    "img": "https://th-i.thgim.com/public/incoming/t3u5o6/article70560340.ece/alternates/LANDSCAPE_1200/30tvm%20ksum.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-startup-mission-startup-ecosystem-kerala/article70555761.ece",
+    "time": "2026-02-02T09:31:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Uproar in Lok Sabha after Rahul Gandhi seeks to quote from former Army chief Naravane’s ‘memoir’",
+    "desc": "Rahul Gandhi rose to speak on the Motion of Thanks to the President's address, he said he would first like to respond to the charges made by the previous speaker, BJP MP Tejasvi Surya, against the Congress on nationalism",
+    "img": "https://th-i.thgim.com/public/incoming/pbty5u/article70582369.ece/alternates/LANDSCAPE_1200/PTI02_02_2026_000176B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/budget-session-of-parliament-rahul-gandhi-naravane-memoir-lok-sabha/article70582353.ece",
+    "time": "2026-02-02T09:25:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TVK’s Vijay likens criticism against him to attacks faced by MGR",
+    "desc": "Stating that the TVK was the “whistle-blower” in Tamil Nadu politics, Mr. Vijay, during the second anniversary celebrations of the party’s founding at Panaiyur, said, “Evil and corrupt forces should run away after hearing our whistles.”",
+    "img": "https://th-i.thgim.com/public/incoming/q8mfxp/article70582182.ece/alternates/LANDSCAPE_1200/TVK%20leader%20Vijay%20at%20Sunguvarchathiram%20Kancheepuram%20Nov%2023%202025.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-vijay-likens-criticism-against-him-to-attacks-faced-by-mgr/article70582042.ece",
+    "time": "2026-02-02T08:58:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PV Anvar is UDF candidate in Beypore, confirms KPCC",
+    "desc": "P.V. Anvar, who emerged victorious from Nilambur, a United Democratic Front (UDF) stronghold, in 2016 and 2021 as a Left Democratic Front-backed Independent candidate, later severed his ties with the front, protesting against the policies of Chief Minister Pinarayi Vijayan",
+    "img": "https://th-i.thgim.com/public/incoming/tqx4z4/article70582135.ece/alternates/LANDSCAPE_1200/80692_21_1_2026_19_0_22_1_22TVKZPVANAVER.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/kozhikode/anvar-is-udf-candidate-in-beypore-confirms-kpcc/article70582095.ece",
+    "time": "2026-02-02T08:57:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rahul Gandhi vs Amit Shah, Rajnath Singh: Parliament showdown over ex-Army chief Naravane memoir — how it unfolded",
+    "desc": "Lok Sabha witnessed a heated exchange as Rahul Gandhi quoted from former Army chief General MM Naravane's unpublished memoir during the Motion of Thanks. Union ministers Amit Shah and Rajnath Singh objected, citing parliamentary rules against citing unpublished material. Gandhi defended his reference, stating it pertained to the Prime Minister's character.",
+    "img": "https://static.toiimg.com/photo/msid-127857721,imgsize-1174393.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rahul-gandhi-vs-amit-shah-rajnath-singh-parliament-showdown-over-ex-army-chief-naravane-memoir-how-it-unfolded/articleshow/127857623.cms",
+    "time": "2026-02-02T08:57:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Manufacturing sector activity sees marginal recovery in January",
+    "desc": "India's factory activity saw a slight rebound in January, with the HSBC India Manufacturing PMI rising to 55.4, driven by stronger new orders and increased production. Despite this growth, business confidence among manufacturers weakened significantly, reaching a three-and-a-half-year low, with expectations for future output declining.",
+    "img": "https://static.toiimg.com/photo/msid-127857619,imgsize-144920.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/pmi-profile-manufacturing-sector-activity-sees-marginal-recovery-in-january/articleshow/127856971.cms",
+    "time": "2026-02-02T08:56:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "14 migrant workers stranded in Dubai, appeal to Jharkhand government for safe return",
+    "desc": "Team leader of the State migrant control cell said that they have been informed about the 14 migrant workers from Giridih, Hazaribag and Bokaro districts who have sent a video alleging that the private company has not paid wages",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jharkhand/14-migrant-workers-stranded-in-dubai-appeal-to-jharkhand-government-for-safe-return/article70582260.ece",
+    "time": "2026-02-02T08:53:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Learned by watching Irrfan Khan', Sanjay Mishra gets emotional",
+    "desc": "'Vadh 2', starring Neena Gupta and Sanjay Mishra, releases on February 6, 2026. The team recently visited their alma mater, NSD Delhi, where Mishra recalled learning by observing seniors like the late Irrfan Khan. Directed by Jaspal Singh Sandhu and produced by Luv Films, the sequel impressed audiences at IFFI 2025.",
+    "img": "https://static.toiimg.com/photo/msid-127857564,imgsize-52534.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/we-learned-by-watching-irrfan-khan-sanjay-mishra-gets-emotional-at-vadh-2-promotions/articleshow/127857564.cms",
+    "time": "2026-02-02T08:53:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Palash Sen explains Arijit Singh’s exit",
+    "desc": "Singer Palash Sen opened up about Arijit Singh's recent move away from film playback, sharing relatable anecdotes from his own career. Having starred in the 2002 film 'Filhaal', Sen wasn't originally keen on acting but embraced it for the sake of a single song. He empathizes with Arijit’s choice, acknowledging his own past commitments to artistic integrity over commercial success.",
+    "img": "https://static.toiimg.com/photo/msid-127857310,imgsize-45452.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-know-why-my-bro-is-quitting-palash-sen-reasons-why-arijit-singh-is-stepping-away-from-film-playback-singing/articleshow/127857310.cms",
+    "time": "2026-02-02T08:47:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold, silver prices continue to crash! MCX Silver, MCX Gold drop",
+    "desc": "On the Multi Commodity Exchange, silver contracts maturing on March 5, 2026, plunged Rs 31,878, or 12 per cent, to settle at Rs 2,33,874 per kilogram. Gold futures for April 2, 2026 delivery also weakened, slipping Rs 8,865, or 6 per cent, to Rs 1,38,888 per 10 grams.",
+    "img": "https://static.toiimg.com/photo/msid-127857291,imgsize-96444.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-prices-continue-to-crash-mcx-silver-mcx-gold-drop-what-investors-should-know/articleshow/127857222.cms",
+    "time": "2026-02-02T08:43:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Nothing but drama’: Harbhajan slams Pakistan's T20 WC boycott of India clash",
+    "desc": "Harbhajan Singh slammed Pakistan's decision to boycott their T20 World Cup match against India as \"unnecessary drama.\" He questioned the logic behind the conditional approval, suggesting it's a ploy to mislead people and project solidarity with Bangladesh. Singh highlighted the ICC's rejection of Bangladesh's request and Pakistan's past revenue-driven approach to matches despite political tensions.",
+    "img": "https://static.toiimg.com/photo/msid-127856929,imgsize-97750.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/nothing-but-drama-harbhajan-singh-slams-pakistans-t20-world-cup-boycott-of-india-clash/articleshow/127856835.cms",
+    "time": "2026-02-02T08:26:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arun Govil backs Ranbir as Lord Ram, dismisses Prabhas' 'Adipurush'",
+    "desc": "Arun Govil, who famously played Lord Ram, will now portray King Dashrath in Nitesh Tiwari's 'Ramayan' adaptation. Govil praised Ranbir Kapoor's portrayal of Lord Ram, emphasizing the importance of a pure soul and appearance for playing a deity. He acknowledged inevitable comparisons to the iconic 1987 series.",
+    "img": "https://static.toiimg.com/photo/msid-127856910,imgsize-45898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-looks-good-as-lord-ram-says-arun-govil-about-ramayana-dismisses-prabhas-adipurush/articleshow/127856857.cms",
+    "time": "2026-02-02T08:26:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Times when Sabrina Carpenter dazzled the world and made a statement with her fashion sense",
+    "desc": "Beyond being an excellent musician and performer, Sabrina Carpenter is best known for her fashion sense as well. Whatever it may be, the singer, over the years, has proved that she can rock any outfit that she puts her mind to. Here are all of the times that Sabrina Carpenter has managed to woo fans and netizens with her outfits to prove that she is the true fashion queen.",
+    "img": "https://static.toiimg.com/photo/msid-127856932,imgsize-50122.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/times-when-sabrina-carpenter-dazzled-the-world-and-made-a-statement-with-her-fashion-sense/photostory/127856932.cms",
+    "time": "2026-02-02T08:25:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lola Young takes home first Grammy award for 'Messy'",
+    "desc": "Lola Young has made waves at the Grammys, clinching her inaugural award for the evocative track 'Messy,' just a few months after facing a debilitating health scare that led her to step back from performing. In sharing her inspiring comeback, she highlighted how prioritizing mental health is vital for artists navigating the pressures of the music world.",
+    "img": "https://static.toiimg.com/photo/msid-127856761,imgsize-24362.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/lola-young-scores-first-grammy-award-returns-to-stage-after-collapse-last-year-this-industry-is-a-very-difficult-industry-to-be-in/articleshow/127856761.cms",
+    "time": "2026-02-02T08:19:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shefali slams trolls over AI posters with Yuzvendra Chahal",
+    "desc": "Shefali Bagga slammed trolls for making AI-generated posters featuring her with cricketer Yuzvendra Chahal, calling them “disgusting” and “shameful.” Chahal also reacted humorously to the viral posts. The two recently sparked dating rumours after being spotted together, though neither confirmed. Chahal earlier divorced choreographer and influencer Dhanashree Verma.",
+    "img": "https://static.toiimg.com/photo/msid-127856592,imgsize-26622.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/this-is-disgusting-shefali-bagga-slams-trolls-over-ai-generated-posters-with-yuzvendra-chahal/articleshow/127856592.cms",
+    "time": "2026-02-02T08:12:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tilak, Mayank named in India A squad for USA warm-up game",
+    "desc": "Tilak Varma will play for India A in one of their T20 World Cup warm-up matches against the USA or Namibia before joining the senior squad. Ayush Badoni captains the India A side, which also features Riyan Parag and Mayank Yadav returning from injuries. These preparatory games are crucial for the players' World Cup readiness.",
+    "img": "https://static.toiimg.com/photo/msid-127856343,imgsize-20008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-tilak-varma-mayank-yadav-named-in-india-a-squad-for-warm-up-game-vs-usa/articleshow/127856340.cms",
+    "time": "2026-02-02T07:58:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold, silver ETFs recover! After massive wipeoff, funds show stability; claw back 10% losses",
+    "desc": "Gold and silver ETFs saw significant losses, prompting the BSE to impose trading limits due to increased volatility. Both metals experienced sharp sell-offs from record highs, driven by profit-taking, leveraged position exits, and global factors like a firm US dollar. Despite some recovery, substantial value has been wiped out.",
+    "img": "https://static.toiimg.com/photo/msid-127855821,imgsize-2221489.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-etfs-recover-after-massive-wipeoff-funds-show-stability-claw-back-10-losses/articleshow/127855300.cms",
+    "time": "2026-02-02T07:55:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Border 2' box office day 11 (LIVE)",
+    "desc": "Released on January 23, 'Border 2' met fan expectations with a strong opening of ₹30 crore. The film saw significant growth over the Republic Day holiday, collecting ₹59 crore on its first Monday. After a robust first week totaling ₹224.25 crore, 'Border 2' continued its box office run, ultimately reaching ₹275.86 crore.",
+    "img": "https://static.toiimg.com/photo/msid-127856202,imgsize-57676.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-day-11-live-the-sunny-deol-film-crosses-rs-275-crore-drops-on-second-monday/articleshow/127855693.cms",
+    "time": "2026-02-02T07:54:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Restrain yourself from atrocities': Mamata Banerjee vs Delhi Police ahead of CEC meet over SIR",
+    "desc": "West Bengal CM Mamata Banerjee arrived in Delhi for a meeting with the Election Commission amid political tension. She protested a heavy police presence outside Banga Bhavan, comparing the treatment to that of Union home minister Amit Shah's visits to West Bengal. Banerjee vowed to fight against alleged atrocities and harassment of people from Bengal.",
+    "img": "https://static.toiimg.com/photo/msid-127855434,imgsize-705421.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/restrain-yourself-from-atrocities-mamata-banerjee-vs-delhi-police-ahead-of-cec-meet-over-sir/articleshow/127855438.cms",
+    "time": "2026-02-02T07:52:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "O’Romeo: Shahid and Triptii's Ishq Ka Fever wins hearts",
+    "desc": "Shahid Kapoor and Triptii Dimri’s O’Romeo continues to impress with its new song Ishq Ka Fever, sung by Arijit Singh, composed by Vishal Bhardwaj, and penned by Gulzar. The emotional release follows Arijit’s retirement announcement, moving fans, while Vishal shared a heartfelt behind-the-scenes video urging him to reconsider.",
+    "img": "https://static.toiimg.com/photo/msid-127856165,imgsize-14678.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/oromeo-shahid-kapoor-and-triptii-dimris-song-ishq-ka-fever-wins-hearts-fans-urge-arijit-singh-to-return/articleshow/127856165.cms",
+    "time": "2026-02-02T07:52:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Justin Bieber flaunts abs, tattoos as he performs 'Yukon' on stage",
+    "desc": "The popstar was in the race for four awards this year, incluing, Album of the Year and Best Pop Vocal Album for SWAG, Best Pop Solo Performance for ‘Daises’, and Best R&B Performance for ‘Yukon’",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/2h0i6/article70581993.ece/alternates/LANDSCAPE_1200/Justin%20Bieber%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/music/grammy-awards-2026-justin-bieber-flaunts-abs-tattoos-as-he-performs-yukon-on-stage/article70581953.ece",
+    "time": "2026-02-02T07:35:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Night Manager’season 2finale: Roper wins, Pine stands alone",
+    "desc": "A decade later, 'The Night Manager' season 2 concludes with Jonathan Pine's mission in Colombia unraveling. Richard Roper masterfully outmaneuvers everyone, leading to devastating losses for Pine and his allies. The finale sets the stage for a final confrontation as Roper walks free, leaving Pine isolated and seeking revenge.",
+    "img": "https://static.toiimg.com/photo/msid-127855758,imgsize-829949.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-night-manager-season-2-ending-explained-hugh-laurie-outplays-tom-hiddleston-setting-up-a-ruthless-season-3-showdown/articleshow/127855762.cms",
+    "time": "2026-02-02T07:32:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Nonsense ... disgraceful': Tharoor explodes as Pakistan boycotts India",
+    "desc": "Congress MP Shashi Tharoor has criticized the politicization of cricket, calling Pakistan's boycott of its T20 World Cup match against India \"disgraceful.\" He urged urgent dialogue to resolve the escalating row, emphasizing that sport should unite people. Tharoor also commented on the Mustafizur Rahman situation, deeming Bangladesh's reaction an overreaction.",
+    "img": "https://static.toiimg.com/photo/msid-127855643,imgsize-66356.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/nonsense-disgraceful-shashi-tharoor-explodes-as-pakistan-boycotts-india-t20-world-cup-clash/articleshow/127855608.cms",
+    "time": "2026-02-02T07:28:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Alcaraz plans lasting Aus Open tribute",
+    "desc": "Carlos Alcaraz is still processing his historic Australian Open victory, becoming the youngest man to achieve a career Grand Slam by defeating Novak Djokovic. He plans to commemorate the monumental win with a kangaroo tattoo on his leg. Despite the disbelief and overwhelming emotions, Alcaraz is already looking ahead, acknowledging the relentless nature of professional tennis.",
+    "img": "https://static.toiimg.com/photo/msid-127855475,imgsize-164292.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/kangaroo-ink-and-a-grand-slam-dream-carlos-alcaraz-plans-lasting-australian-open-tribute/articleshow/127855502.cms",
+    "time": "2026-02-02T07:23:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lady Gaga gives shoutout to fiancé Michael Polansky in Grammy speech",
+    "desc": "Lady Gaga clinched the Best Pop Vocal Album award at the 2026 Grammys, dedicating her win to fiancé Michael Polansky. She emotionally thanked him for his unwavering support and collaboration on the record. Gaga also empowered women in music, urging them to champion their ideas and ensure their voices are heard amidst industry challenges.",
+    "img": "https://static.toiimg.com/photo/msid-127855218,imgsize-54910.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/grammys-2026-lady-gaga-wins-best-pop-vocal-album-dedicates-it-to-fianc-michael-polansky-says-i-cant-thank-you-enough/articleshow/127855218.cms",
+    "time": "2026-02-02T07:07:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Olivia Dean wins best new artist Grammy",
+    "desc": "British pop sensation Olivia Dean triumphed at the Grammy Awards on Sunday, receiving the Best New Artist honor at the age of 26. In her touching acceptance speech, she expressed gratitude towards her unwavering support system, including her family and team, and reflected on the immigrant story that empowers her artistry.",
+    "img": "https://static.toiimg.com/photo/msid-127855159,imgsize-23664.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/olivia-dean-claims-best-new-artist-grammy-with-emotional-tribute-to-her-family-im-a-product-of-bravery/articleshow/127855159.cms",
+    "time": "2026-02-02T07:07:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Today making films like Gangs of Wasseypur is impossible",
+    "desc": "At the Bengaluru International Film Festival, Anurag Kashyap said it’s “impossible” to make politically sensitive films in India today. Citing Germany, he noted that films against Hitler came only after his death. Kashyap, known for Black Friday and Gangs of Wasseypur, recently directed Nishaanchi and awaits the India release of Kennedy.",
+    "img": "https://static.toiimg.com/photo/msid-127855182,imgsize-22732.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anurag-kashyap-on-challenges-faced-by-filmmakers-today-making-films-like-gangs-of-wasseypur-black-friday-is-impossible/articleshow/127855182.cms",
+    "time": "2026-02-02T07:03:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Killer Mike’s Grammys reset: From crisis optics to category dominance",
+    "desc": "Killer Mike's 2024 Grammy win was overshadowed by a viral arrest, but he made a triumphant return in 2026. After charges were dropped, he showcased resilience on the red carpet, proving a setback couldn't derail his career. This comeback signifies a powerful moment of hip-hop redemption.",
+    "img": "https://static.toiimg.com/photo/msid-127855077,imgsize-411990.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/grammys-2026-killer-mike-completes-redemption-arc-after-2024-arrest-and-gunshot-incident-claims-major-rap-win/articleshow/127851896.cms",
+    "time": "2026-02-02T07:00:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Boycott drama! 'Pakistan always make u-turns': Gavaskar takes dig",
+    "desc": "Pakistan has confirmed participation in the T20 World Cup but will forfeit their match against India on February 15. Sunil Gavaskar believes this decision might not be final, citing Pakistan's history of players reversing retirement calls due to public pressure. India is expected to proceed with the fixture as scheduled.",
+    "img": "https://static.toiimg.com/photo/msid-127855005,imgsize-81030.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/boycott-drama-pakistan-always-make-u-turns-gavaskar-takes-dig-amid-india-match-row/articleshow/127854991.cms",
+    "time": "2026-02-02T06:57:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Babar Azam overtakes Virat Kohli for major record, hands Pak timely WC boost",
+    "desc": "Babar Azam shattered T20I records, surpassing Virat Kohli with his 39th half-century as Pakistan thrashed Australia 3-0. A dominant batting display, including Saim Ayub's 56 and Shadab Khan's quickfire 46, set a formidable target. Pakistan's bowlers, led by Mohammad Nawaz's 5-wicket haul, then dismantled Australia for 96, securing a resounding series win.",
+    "img": "https://static.toiimg.com/photo/msid-127854906,imgsize-38002.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/babar-azam-overtakes-virat-kohli-for-major-t20i-record-hands-pakistan-timely-t20-world-cup-boost/articleshow/127854917.cms",
+    "time": "2026-02-02T06:52:32.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "Will gold prices continue to crash? Top points to watch out for",
     "desc": "Gold prices will continue to be volatile and range bound in the near future, says Manav Modi, Senior Analyst, Commodity Research at Motilal Oswal Financial Services Ltd. He shares his views and recommendations for gold investors and key levels to watch out for in the near term:",
     "img": "https://static.toiimg.com/photo/msid-127854658,imgsize-53648.cms",
@@ -19,15 +289,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Nikhil wins 'Super Singer 11'",
-    "desc": "Nikhil emerged victorious at the 'Super Singer 11' finale on February 1, 2026, winning the coveted trophy and a Rs 60 lakh house. The grand event, held at EVP Film City, celebrated months of rigorous performances from seven talented finalists. A blend of judges' scores and public votes determined the outcome, culminating in an electrifying conclusion.",
-    "img": "https://static.toiimg.com/photo/msid-127854514,imgsize-974842.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/tv/news/tamil/nikhil-wins-super-singer-11-know-all-about-the-grand-finale-timing-contenders-and-more/articleshow/127854449.cms",
-    "time": "2026-02-02T06:35:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "PETA calls out Sabrina Carpenter for Grammy performance",
     "desc": "During Sabrina Carpenter's Grammy performance, the unexpected appearance of a live dove left many in shock, including PETA, which swiftly condemned the event. The organization described the moment as \"irresponsible and unkind,\" expressing concern over the distress the bird could have experienced under such pressure.",
     "img": "https://static.toiimg.com/photo/msid-127854399,imgsize-31796.cms",
@@ -37,7 +298,7 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Trump's $100,000 H-1B fee to work in US: Is America shutting Indian talent out?",
+    "title": "Trump's $100,000 H-1B fee: Is the US shutting Indian talent out?",
     "desc": "Sweeping US immigration and trade policies, particularly the H-1B visa fee hike to $100,000, are straining the strategic partnership with India. This has disrupted Indian professionals' careers, impacting IT giants and creating anxiety. Critics argue these protectionist measures undermine innovation and alienate a key partner, potentially boosting India's domestic tech sector.",
     "img": "https://static.toiimg.com/photo/msid-127854118,imgsize-37390.cms",
     "src": "indiatimes.com",
@@ -144,15 +405,6 @@ const newsData_en = [
     "time": "2026-02-02T05:20:58.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kendrick Lamar passes Jay-Z with 26 wins",
-    "desc": "Kendrick Lamar achieved a monumental night at the Grammy Awards 2026, shattering Jay-Z's long-standing record with 26 wins. He secured three early wins before the main ceremony, including for \"Chains & Whips\" and \"Luther.\" His Best Rap Album win for GNX marked his first televised award of the night, solidifying his status as the most-nominated artist.",
-    "img": "https://static.toiimg.com/photo/msid-127853092,imgsize-24286.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/grammy-2026-kendrick-lamar-breaks-huge-record-passes-jay-z-with-26-wins/articleshow/127853092.cms",
-    "time": "2026-02-02T05:18:26.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Capt consistent takes the long view, sails for safe harbour",
     "desc": "Even as it faces Trump-triggered turbulence and geopolitical headwinds across the globe, India remains the fastest-moving major economy, cruising at an impressive 7.4% in 2025-26. With PM Modi in command and FM Sitharaman at the wheel, the govt has steered clear of tilting adventurously in any one direction in these choppy waters, choosing instead to stay the course",
@@ -160,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-capt-consistent-takes-the-long-view-sails-for-safe-harbour/articleshow/127853017.cms",
     "time": "2026-02-02T05:17:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bad Bunny addresses ICE crackdown in Grammy acceptance speech",
-    "desc": "At the Grammy Awards, Bad Bunny, the Puerto Rican sensation, seized the moment after winning for 'Debí Tirar Más Fotos' to advocate for immigrant rights. He boldly stated, 'ICE out' and affirmed, 'we are humans, and we are Americans.' His heartfelt words for love over hate struck a chord with many.",
-    "img": "https://static.toiimg.com/photo/msid-127853032,imgsize-57062.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bad-bunny-wins-a-grammy-award-says-ice-out-during-acceptance-speech/articleshow/127853032.cms",
-    "time": "2026-02-02T05:13:47.000Z"
   },
   {
     "cat": "Business",
@@ -207,24 +450,6 @@ const newsData_en = [
     "time": "2026-02-02T04:53:15.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Taxpayers, investors, consumers — who gains, who hurts?",
-    "desc": "The Union Budget 2026 aims to balance growth, stability, and reform, offering compliance-friendly measures and targeted tax tweaks for taxpayers. While easing procedures and extending benefits for investors, it also tightens rules in select areas. Consumers receive relief on essential medical items, and businesses benefit from simplified customs, though some duty exemptions are phasing out.",
-    "img": "https://static.toiimg.com/photo/msid-127852655,imgsize-1717733.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-taxpayers-investors-consumers-who-gains-who-hurts/articleshow/127852620.cms",
-    "time": "2026-02-02T04:47:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Devil Wears Prada 2' trailer",
-    "desc": "Get ready for 'The Devil Wears Prada 2'! Meryl Streep, Anne Hathaway, Emily Blunt, and Stanley Tucci are back in a dazzling sequel. The trailer reveals Miranda unaware of Andy's new role as Features Editor, returning to the cut-throat world of Runway magazine.",
-    "img": "https://static.toiimg.com/photo/msid-127851793,imgsize-46480.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-devil-wears-prada-2-meryl-streep-anne-hathaway-and-emily-blunt-give-office-politics-a-fashionable-upgrade/articleshow/127851613.cms",
-    "time": "2026-02-02T04:23:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Devika Sihag wins Thailand Masters, becomes third Indian woman to claim Super 300 title",
     "desc": "Devika Sihag secured her maiden BWF Super-300 title at the Princes Sirivannavari Thailand Masters after her opponent retired due to injury. The 20-year-old Haryana shuttler, who defeated higher-ranked players including the top seed, expressed her delight at the significant victory, her first major title.",
@@ -232,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/devika-sihag-wins-thailand-masters-becomes-third-indian-woman-to-claim-super-300-title/articleshow/127852228.cms",
     "time": "2026-02-02T04:22:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Trevor Noah roasts Nicki Minaj, Trump",
-    "desc": "Trevor Noah bid farewell to hosting the Grammys 2026 with his signature wit, opening the show with jokes about Korean drinking games and the sheer number of award categories. He playfully teased celebrities and delivered a memorable barb about Nicki Minaj and Donald Trump.",
-    "img": "https://static.toiimg.com/photo/msid-127852047,imgsize-53390.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/grammys-2026-trevor-noah-roasts-nicki-minaj-and-donald-trump-says-shes-discussing-very-important-issues/articleshow/127852047.cms",
-    "time": "2026-02-02T04:14:06.000Z"
   },
   {
     "cat": "Business",
@@ -252,6 +468,15 @@ const newsData_en = [
     "time": "2026-02-02T03:59:33.000Z"
   },
   {
+    "cat": "Business",
+    "title": "Nifty50 trades in green; BSE Sensex gains over 300 points",
+    "desc": "Nifty50 and BSE Sensex, the Indian equity benchmarks, opened flat in trade on Monday, a day after 2% crash on Budget’s hike in STT on futures and options. While Nifty50 went below 24,800, BSE Sensex was down over 100 points.",
+    "img": "https://static.toiimg.com/photo/msid-127851606,imgsize-93070.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-february-02-2026-indian-equities-stt-securities-transaction-tax-global-markets-gold-silver/articleshow/127851481.cms",
+    "time": "2026-02-02T03:49:08.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Pakistan to play T20 World Cup but boycott India match; ICC warns of consequences",
     "desc": "Pakistan's cricket team will boycott its T20 World Cup league match against India on February 15, a move that has drawn sharp criticism from the ICC. The governing body warned of significant implications for Pakistan cricket and the global ecosystem. Sources suggest Pakistan could face expulsion from tournaments and financial penalties.",
@@ -259,42 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistan-to-play-t20-world-cup-but-boycott-india-match-icc-warns-of-consequences/articleshow/127851705.cms",
     "time": "2026-02-02T03:39:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kelly Osbourne talks about father Ozzy Osbourne",
-    "desc": "In a heartfelt revelation, Kelly Osbourne opened up about the profound sorrow she's experiencing after the loss of her father, iconic rock star Ozzy Osbourne. She described this moment as incredibly challenging, stating, 'It's the toughest trial I've ever faced.' As preparations for a Grammy tribute unfold, she highlighted the event as a poignant honor from his fellow musicians.",
-    "img": "https://static.toiimg.com/photo/msid-127851694,imgsize-33018.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/grammy-2026-kelly-osbourne-honous-late-father-ozzy-osbourne-one-of-the-greatest-men-to-ever-live/articleshow/127851694.cms",
-    "time": "2026-02-02T03:37:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Gloria Estefan’s ‘Raíces’ Grammy win cements legacy",
-    "desc": "At 68, Gloria Estefan continues to shine, recently winning a Grammy for Best Tropical Latin Album with 'Raíces.' Reflecting on her career, she recalled the long wait for her first Grammy in 1994, a win she richly deserved. Estefan also expressed pride in Bad Bunny and the growing recognition of Latin music.",
-    "img": "https://static.toiimg.com/photo/msid-127851536,imgsize-570231.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/grammy-2026-gloria-estefan-reflects-on-her-journey-latin-legacy-and-races-win-at-2026-awards/articleshow/127851573.cms",
-    "time": "2026-02-02T03:23:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Gloria Estefan’s heartfelt advice for Bad Bunny",
-    "desc": "Latin music icon Gloria Estefan offered Bad Bunny heartfelt advice ahead of his Super Bowl LX Halftime Show, urging him to \"enjoy every second.\" Estefan, a two-time Super Bowl performer, emphasized the immense global reach of the 12-minute performance. She also celebrated Bad Bunny's Album of the Year nomination, highlighting its cultural significance for Latino representation.",
-    "img": "https://static.toiimg.com/photo/msid-127851540,imgsize-35120.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/grammy-awards-2026-gloria-estefan-shares-this-advice-for-bad-bunny-ahead-of-super-bowl-halftime-show/articleshow/127851525.cms",
-    "time": "2026-02-02T03:16:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Cynthia Erivo and Ariana Grande win a Grammy",
-    "desc": "Fans rejoiced as 'Wicked' stars Cynthia Erivo and Ariana Grande clinched the Best Pop Vocal Duo Grammy for their song 'Defying Gravity.' This win compensates for their Oscar snubs, sending fans into a frenzy. Grande, a previous Grammy winner, and Erivo, who secured one in 2017, celebrated this significant achievement, highlighting their musical prowess beyond the silver screen.",
-    "img": "https://static.toiimg.com/photo/msid-127851432,imgsize-49542.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/cynthia-erivo-and-ariana-grande-land-first-grammy-for-defying-gravity-in-best-duo-category/articleshow/127851432.cms",
-    "time": "2026-02-02T03:11:41.000Z"
   },
   {
     "cat": "Sports",
@@ -313,24 +502,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/budget/bms-slams-budget-2026-calls-it-worker-deficient/article70579779.ece",
     "time": "2026-02-02T03:05:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rosé becomes first K-Pop soloist to open show",
-    "desc": "Rosé made history at the Grammy Awards 2026, opening the show with Bruno Mars and becoming the first K-pop solo artist to perform. Their energetic rendition of \"APT\" captivated audiences, sparking widespread fan praise and social media buzz. Beyond her groundbreaking performance, Rosé also earned three major nominations, marking a significant milestone for K-pop in general field categories.",
-    "img": "https://static.toiimg.com/photo/msid-127851192,imgsize-70306.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/ros-creates-history-at-grammys-2026-first-k-pop-soloist-to-open-the-show-performs-apt-with-bruno-mars/articleshow/127851192.cms",
-    "time": "2026-02-02T02:56:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Love Island USA’ trio turn heads together",
-    "desc": "Love Island USA's JaNa Craig, Leah Kateb, and Miguel Harichi stole the show at the 2026 Grammys, proving their strong friendship outshines romance. JaNa embraced her 'third wheel' role, while Leah and Miguel praised their bestie. The trio, part of the show's 'PPG crew,' showcased lasting bonds forged in the villa, enjoying the music celebration together.",
-    "img": "https://static.toiimg.com/photo/msid-127850272,imgsize-640400.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/grammys-2026-love-island-usa-stars-prove-friendship-steals-the-spotlight/articleshow/127850281.cms",
-    "time": "2026-02-02T02:36:05.000Z"
   },
   {
     "cat": "Politics",
@@ -532,15 +703,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Delhi scrape through tense chase, knock out Mumbai to enter WPL Eliminator",
-    "desc": "Delhi Capitals secured a spot in the WPL Eliminator by defeating UP Warriorz by five wickets. Chasing a modest 123, Delhi's chase saw a mid-innings wobble but captain Jemimah Rodrigues' unbeaten 34 guided them home. This victory also eliminated defending champions Mumbai Indians from the tournament. Delhi will now face Gujarat Giants in the semi-final.",
-    "img": "https://static.toiimg.com/photo/msid-127846178,imgsize-113776.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/delhi-capitals-scrape-through-tense-chase-knock-out-mumbai-indians-to-enter-wpl-eliminator/articleshow/127846247.cms",
-    "time": "2026-02-01T17:54:27.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Belligerent and uncomplicated — pocket-dynamite Kishan is here to stay",
     "desc": "The 27-year-old, with a whirlwind outing against New Zealand, has overtaken Samson in the race to be India’s wicketkeeper-batter/opener for the T20 World Cup; his blistering century in Thiruvananthapuram proved to be the icing on the cake",
     "img": "https://th-i.thgim.com/public/incoming/5wblx4/article70580192.ece/alternates/LANDSCAPE_1200/NH31Ishan25.JPG",
@@ -556,15 +718,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/god-knows-what-happens-tomorrow-novak-djokovic-hints-at-uncertain-future-after-first-australian-open-final-loss/articleshow/127846020.cms",
     "time": "2026-02-01T17:44:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Carlos Alcaraz conquers Melbourne to complete historic career Grand Slam",
-    "desc": "Carlos Alcaraz achieved a historic career Grand Slam at 22, defeating Novak Djokovic in a thrilling Australian Open final. Despite a turbulent pre-season, Alcaraz showcased remarkable composure and strategic brilliance, adapting his game to overcome the seasoned champion. His improved serve, influenced by Djokovic himself, proved pivotal in securing the Norman Brookes Challenge Cup.",
-    "img": "https://static.toiimg.com/photo/msid-127845883,imgsize-98544.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/carlos-alcaraz-conquers-melbourne-to-complete-historic-career-grand-slam/articleshow/127845730.cms",
-    "time": "2026-02-01T17:36:10.000Z"
   },
   {
     "cat": "Sports",
@@ -639,15 +792,6 @@ const newsData_en = [
     "time": "2026-02-01T15:54:05.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Pakistan crush Australia in series decider, rewrite T20 record books",
-    "desc": "Pakistan delivered a crushing 111-run victory over Australia, completing a 3-0 series whitewash just before the T20 World Cup. This marked Australia's largest T20 defeat ever. Pakistan's formidable 207-6, powered by Saim Ayub and Babar Azam, proved too much, with spinners Mohammad Nawaz (5-18) and Shaheen Shah Afridi dismantling the Australian chase for 96.",
-    "img": "https://static.toiimg.com/photo/msid-127843988,imgsize-175180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-crush-australia-in-series-decider-rewrite-t20-record-books/articleshow/127844012.cms",
-    "time": "2026-02-01T15:52:06.000Z"
-  },
-  {
     "cat": "Business",
     "title": "What does the Union Budget 2026 say on direct taxes?",
     "desc": "The Finance Minister Nirmala Sitharaman’s direct tax announcements during the Budget 2026 speech marked a major overhaul in India’s tax system. At the heart of the reforms is the new Income Tax Act of 2025, which will replace the decades-old law, from April 2026, with simpler rules and redesigned forms to make compliance easier for ordinary taxpayers.",
@@ -658,57 +802,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Alcaraz dispatches Djokovic to become younger Career Grand Slam winner",
-    "desc": "Mick Jagger’s ode to Lucifer could very easily be retrofitted for Novak Djokovic, a figure for whom tennis fans have developed a begrudging sympathy over the years. But Carlos Alcaraz had no such sympathy. He had his own date with destiny.",
-    "img": "https://static.toiimg.com/photo/msid-127843820,imgsize-111892.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/no-sympathy-for-the-djoker-carlos-alcaraz-dispatches-novak-djokovic-to-keep-date-with-destiny/articleshow/127843797.cms",
-    "time": "2026-02-01T15:15:14.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Pakistan to boycott February 15 T20 World Cup match against India",
     "desc": "Pakistan's government has officially confirmed that the national team will not participate in the 2026 ICC Men's T20 World Cup match against India. While granting permission for the team to travel to Sri Lanka, the statement indicated a boycott of the February 15, 2026, group-stage fixture without providing a specific reason.",
     "img": "https://static.toiimg.com/photo/msid-127843698,imgsize-1429761.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistan-to-boycott-february-15-t20-world-cup-match-against-india/articleshow/127843666.cms",
     "time": "2026-02-01T15:01:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Royal wedding ritual sparks Sikh sensitivity debate, SAD Amritsar chief Mann’s grandson issues public apology",
-    "desc": "A wedding ceremony in Simranjit Singh Mann's family sparked debate after a video showed religious symbols like the Chaur and Chhatar being used for an individual. Critics argued this disrespects Sri Guru Granth Sahib, the sole recipient of such reverence. The groom later apologized, acknowledging the mistake and emphasizing the sanctity of the Guru Granth Sahib.",
-    "img": "https://static.toiimg.com/photo/msid-127843373,imgsize-1107379.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/royal-wedding-ritual-sparks-sikh-sensitivity-debate-sad-amritsar-chief-manns-grandson-issues-public-apology/articleshow/127843364.cms",
-    "time": "2026-02-01T14:33:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Farmers left empty-handed despite Budget hopes: BKU Charuni",
-    "desc": "The Bharatiya Kisan Union (BKU) Charuni has strongly criticized the Union Budget 2026-27, deeming it anti-farmer and detached from ground realities. The union highlighted the budget's focus on technology over pressing farmer issues like MSP, rising costs, and loan waivers, calling the PM-Kisan assistance a mockery.",
-    "img": "https://static.toiimg.com/photo/msid-127843346,imgsize-2070973.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/farmers-left-empty-handed-despite-budget-hopes-bku-charuni/articleshow/127843325.cms",
-    "time": "2026-02-01T14:31:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'A joy to watch, patience unmatched': Sachin hails Alcaraz's AO triumph",
-    "desc": "Cricket legend Sachin Tendulkar lauded Carlos Alcaraz's remarkable composure after the young Spaniard secured his maiden Australian Open title against Novak Djokovic. Alcaraz's victory, marked by impressive patience and court coverage, makes him the youngest to achieve a Career Grand Slam. This historic win solidifies his elite status in tennis.",
-    "img": "https://static.toiimg.com/photo/msid-127843158,imgsize-98544.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/a-joy-to-watch-patience-unmatched-sachin-tendulkar-hails-carlos-alcarazs-australian-open-triumph/articleshow/127843156.cms",
-    "time": "2026-02-01T14:21:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'He shared everything with me': Fadnavis rubbishes speculations over merger of NCP after Ajit Pawar's death",
-    "desc": "Maharashtra CM Devendra Fadnavis expressed surprise regarding any potential merger talks between NCP factions, stating Ajit Pawar always confided in him. This follows Sharad Pawar's claim that Ajit Pawar had set February 12 for a merger announcement. Ajit Pawar's wife, Sunetra Pawar, was recently sworn in as Deputy CM.",
-    "img": "https://static.toiimg.com/photo/msid-127843114,imgsize-1123930.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/he-shared-everything-with-me-fadnavis-rubbishes-speculations-over-merger-of-ncp-after-ajit-pawars-death/articleshow/127843132.cms",
-    "time": "2026-02-01T14:14:26.000Z"
   },
   {
     "cat": "Business",
@@ -736,15 +835,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-kerala-finishes-its-disappointing-season-on-a-winning-note/article70578320.ece",
     "time": "2026-02-01T12:17:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "22-year-old Alcaraz wins his maiden AO title after outfoxing Djokovic",
-    "desc": "Carlos Alcaraz won his first Australian Open, defeating Novak Djokovic 2-6, 6-2, 6-3, 7-5 to deny him a record 25th Grand Slam. At 22, Alcaraz became the youngest man in the Open era to complete a career Grand Slam. After losing the first set, he dominated with pace and power, sealed his seventh major, and cemented his world number one status.",
-    "img": "https://static.toiimg.com/photo/msid-127841192,imgsize-31144.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/22-year-old-carlos-alcaraz-finally-does-it-wins-his-maiden-australian-open-title-after-outfoxing-novak-djokovic/articleshow/127838264.cms",
-    "time": "2026-02-01T12:14:47.000Z"
   },
   {
     "cat": "Business",
@@ -808,95 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/anahat-enters-semis-of-squash-on-fire-in-washington/article70575622.ece",
     "time": "2026-01-31T21:28:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan routs Australia by 90 runs to clinch T20 series victory",
-    "desc": "Australia fielded a stronger side after losing the opener of the three-match series by 19 runs but still got bowled out for 108 in 15.4 overs with leg-spinners Abrar Ahmed (3-14) and Shadab Khan (3-26) sharing bulk of the wickets",
-    "img": "https://th-i.thgim.com/public/news/national/uwtp11/article70575606.ece/alternates/LANDSCAPE_1200/AFP__20260131__94NR4CQ__v4__HighRes__CricketPakAusT20.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/pakistan-routs-australia-by-90-runs-to-clinch-t20-series-victory/article70575596.ece",
-    "time": "2026-01-31T19:34:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vimal, Pradosh lead Tamil Nadu’s strong reply against Baroda",
-    "desc": "The opener makes full use of a flat pitch to notch up 182 in 334 balls; the two left-handed batters add 144 for the second wicket; the home team ends the third day on 411 for seven and takes the first-innings lead",
-    "img": "https://th-i.thgim.com/public/incoming/ycmodk/article70575344.ece/alternates/LANDSCAPE_1200/9868_31_1_2026_16_35_22_2_BATING_VIMAL_8.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/ranji-trophy-vimalpradoshlead-tamil-nadus-strong-reply-against-baroda/article70575340.ece",
-    "time": "2026-01-31T16:26:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Senate passes Trump-backed government funding deal, sending to House",
-    "desc": "The bill passed 71-29 and will now head to the House, which is not due back until Monday (February 2, 2026). That means the government could be in a partial shutdown temporarily over the weekend until they pass it",
-    "img": "https://th-i.thgim.com/public/incoming/lv0cu2/article70573814.ece/alternates/LANDSCAPE_1200/Congress_Budget_13623.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/senate-passes-trump-backed-government-funding-deal-sending-to-house/article70573734.ece",
-    "time": "2026-01-31T11:08:00.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Pokemon card event at controversial shrine to Japanese war dead cancelled after China protests",
-    "desc": "The Yasukuni Shrine honours Japan's 2.5 million war dead, including convicted war criminals. Countries that were targets of Japanese aggression, especially China and the Koreas, see visits to the shrine as showing a lack of remorse about Japan's wartime past",
-    "img": "https://th-i.thgim.com/public/incoming/22rnj4/article70573448.ece/alternates/LANDSCAPE_1200/Japan-China-Pokemon_74640.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/pokemon-card-event-at-controversial-shrine-to-japanese-war-dead-cancelled-after-china-protests/article70573416.ece",
-    "time": "2026-01-31T07:17:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Catherine O’Hara was the best part of any scene",
-    "desc": "Because of that innate grasp on her craft, unwillingness to settle into nostalgia and uncanny ability to invent herself anew with each project, her characters would impact multiple generations of film, television and comedy fans",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/f7t6wu/article70573273.ece/alternates/LANDSCAPE_1200/Catherine.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/catherine-ohara-was-the-best-part-of-any-scene-home-alone-actor/article70573243.ece",
-    "time": "2026-01-31T06:36:26.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Adani agrees to receive legal notice in U.S. SEC civil fraud case, to respond in 90 days",
-    "desc": "In a Brooklyn federal court filing, the SEC and lawyers for Mr. Gautam and Mr. Sagar Adani stated they would accept service of the regulator’s legal papers, removing the need for a Judge’s ruling on service methods",
-    "img": "https://th-i.thgim.com/public/incoming/ee02t4/article68891524.ece/alternates/LANDSCAPE_1200/Adani_Bribery_Indictment_86639.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/adani-agrees-to-receive-legal-notice-in-us-sec-civil-fraud-case-to-respond-in-90-days/article70573137.ece",
-    "time": "2026-01-31T04:52:53.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump says Iran wants deal, U.S. 'armada' larger than in Venezuela raid",
-    "desc": "When asked if he had given Iran a deadline to make a deal on its nuclear program, ballistic missiles and other issues, Mr. Trump said “yeah I have” but added that “only they know for sure” what it was",
-    "img": "https://th-i.thgim.com/public/incoming/rg3mss/article70570171.ece/alternates/LANDSCAPE_1200/Trump_07207.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-says-iran-wants-deal-us-armada-larger-than-in-venezuela-raid/article70572160.ece",
-    "time": "2026-01-31T01:44:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "It’s not very nice to change the country you represent: WGM Sara Khadem on leaving Iran for Spain",
-    "desc": "The 28-year-old was forced out of Iran after playing in the 2022 World Rapid and Blitz Championships without wearing a headscarf. She talks about her courageous decision, her life in Spain, the quality of chess in both countries, her experience of competing in the Global Chess League, and dealing with her son’s cheeky Spanish",
-    "img": "https://th-i.thgim.com/public/incoming/63l5v2/article70571923.ece/alternates/LANDSCAPE_1200/sara3.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/its-not-very-nice-to-change-the-country-you-represent-wgm-sara-khadem-on-leaving-iran-for-spain/article70571916.ece",
-    "time": "2026-01-30T18:23:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ranji Trophy",
-    "desc": "The openers take the home team to 118 for no loss at stumps on day two; the overnight Baroda batter steers his side to a first-innings total of 375; rookie spinner Hemchudeshan stars for the hosts with a six-wicket haul",
-    "img": "https://th-i.thgim.com/public/incoming/xxe19/article70571918.ece/alternates/LANDSCAPE_1200/9868_30_1_2026_15_25_0_4_SHETH_9.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/ranji-trophy-vimalandathishhelp-tamil-nadu-fight-back-afteratitscentury/article70571914.ece",
-    "time": "2026-01-30T18:15:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Has Manchester United found its Mr. Right in Michael Carrick?",
-    "desc": "The former Red Devils midfielder has made a stunning start to life as caretaker manager, guiding the club to wins over Man. City and Arsenal. Owing to the quality of football on display and the change in mood around Old Trafford, there is already speculation over whether the 44-year-old deserves to remain in the role beyond the end of the season",
-    "img": "https://th-i.thgim.com/public/incoming/7j6ja/article70571885.ece/alternates/LANDSCAPE_1200/GettyImages-2256749711.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/has-manchester-united-found-its-mr-right-in-michael-carrick/article70571901.ece",
-    "time": "2026-01-30T18:07:18.000Z"
   }
 ];

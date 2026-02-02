@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'They will miss Virat and Rohit': Anil Kumble weighs in on India's T20 World Cup 2026 squad",
+    "desc": "The Indian team is all set to defend its title in the upcoming T20 World Cup 2026. The Men in Blue were sensational back in 2024 when they defeated South Africa in the summit clash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/they-will-miss-virat-and-rohit-anil-kumble-weighs-in-on-india-s-t20-world-cup-2026-squad-2026-02-02-1028595",
+    "time": "2026-02-02T09:29:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI announces India A squad for warm-up game against USA ahead of T20 World Cup 2026",
+    "desc": "With the T20 World Cup 2026 all set to kick off on February 7, the BCCI (Board of Control for Cricket in India) came forward and announced India A’s 15-member squad for the upcoming warm-up...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-announces-india-a-squad-for-warm-up-game-against-usa-ahead-of-t20-world-cup-2026-2026-02-02-1028588",
+    "time": "2026-02-02T08:22:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Pretty disgraceful': Shashi Tharoor gives his take on Pakistan's India boycott ahead of T20 World Cup 2026",
+    "desc": "The T20 World Cup 2026 has caught every headline of late, with the ICC removing Bangladesh from the tournament due to their refusal to travel to India for the tournament. The situation around Pakistan and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pretty-disgraceful-shashi-tharoor-gives-his-take-on-pakistan-s-india-boycott-ahead-of-t20-world-cup-2026-2026-02-02-1028578",
+    "time": "2026-02-02T07:16:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Josh Hazlewood expected to miss early phase of T20 WC 2026, Australia add Sean Abbott as travelling reserve",
     "desc": "With the T20 World Cup 2026 all set to kick off on February 7, ahead of the start of the competition, Cricket Australia has been dealt a major blow as star pacer Josh Hazlewood is...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pakistan-captain-salman-ali-agha-gives-first-reaction-after-government-decides-india-boycott-at-t20-world-cup-2026-02-01-1028525",
     "time": "2026-02-01T17:53:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What actions can ICC take against Pakistan for boycotting India clash in T20 World Cup 2026?",
-    "desc": "The Pakistan government confirmed its national team's participation in the T20 World Cup 2026; however, it refused to allow the team to play the match against India, which is scheduled to take place at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-actions-can-icc-take-against-pakistan-for-boycotting-india-clash-in-t20-world-cup-2026-2026-02-01-1028519",
-    "time": "2026-02-01T16:43:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What will happen when Pakistan boycott their T20 World Cup 2026 clash against India? Explained",
-    "desc": "Pakistan have decided that they will be participating in the T20 World Cup 2026; however, the Men in Green won't be allowed to play in their match against India on February 15. The Pakistan government released...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-will-happen-when-pakistan-boycott-their-t20-world-cup-2026-clash-against-india-explained-2026-02-01-1028515",
-    "time": "2026-02-01T15:54:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan to boycott Feb 15 match against India, confirm tournament participation",
-    "desc": "The Pakistan government has cleared its national team to feature in the upcoming T20 World Cup 2026; however, it has denied the team permission to play the match against India on February 15 in Colombo. This...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-government-clears-teams-participation-for-t20-world-cup-2026-denies-to-play-in-clash-against-india-2026-02-01-1028511",
-    "time": "2026-02-01T14:53:41.000Z"
   }
 ];
