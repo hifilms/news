@@ -1,7 +1,25 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "IND A vs USA T20 World Cup warm-up live cricket score: Jagadeesan brings up hundred, Tilak departs for 38",
+    "title": "Pakistan leave for Sri Lanka ahead of T20 World Cup 2026 amid India boycott row",
+    "desc": "The Pakistan cricket team left for Sri Lanka for the T20 World Cup 2026 despite their government's decision to boycott the group stage clash against India, scheduled to take place on February 15 at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-leave-for-sri-lanka-ahead-of-t20-world-cup-2026-amid-india-boycott-row-2026-02-02-1028632",
+    "time": "2026-02-02T15:15:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How did Tilak Varma perform on his first competitive outing since surgery as T20 World Cup 2026 nears?",
+    "desc": "Tilak Varma made his return to competitive cricket during the T20 World Cup 2026 warm-up matches. Tilak, who underwent surgery for his testicular torsion, featured in his maiden competitive game since his recovery during India...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-did-tilak-varma-perform-on-his-first-competitive-outing-since-surgery-as-t20-world-cup-2026-nears-2026-02-02-1028622",
+    "time": "2026-02-02T13:50:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND A vs USA T20 World Cup warm-up live score: India A beat US by 38 runs in practice game in Navi Mumbai",
     "desc": "India A were asked to bat first by the USA in their first match of the T20 World Cup 2026 warm-up fixtures at the Dr DY Patil Sports Academy, Navi Mumbai. The warm-up matches are...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/up-warriorz-achieve-unwanted-record-with-yet-another-loss-against-delhi-capitals-women-2026-02-02-1028553",
     "time": "2026-02-02T04:31:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi Capitals knock defending champions Mumbai Indians out of WPL 2026 with win against UPW",
-    "desc": "Game 20 of the ongoing WPL (Women’s Premier League) 2026 saw Delhi Capitals women taking on UP Warriorz. The two sides locked horns at the Kotambi Stadium in Vadodara on February 1. The clash UP...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-knock-defending-champions-mumbai-indians-out-of-wpl-2026-with-win-against-upw-2026-02-02-1028543",
-    "time": "2026-02-02T02:48:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India set to follow ICC protocol and travel to Sri Lanka amid Pakistan's call to not compete: Report",
-    "desc": "The T20 World Cup 2026 is all set to kick off on February 7. The marquee tournament will be held in India and Sri Lanka, and ahead of the start of the tournament, the Pakistan...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-set-to-follow-icc-protocol-and-travel-to-sri-lanka-amid-pakistan-s-call-to-not-compete-report-2026-02-02-1028537",
-    "time": "2026-02-02T01:48:49.000Z"
   }
 ];

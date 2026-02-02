@@ -1,5 +1,77 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "আবার বিতর্কে সায়ক? মেকআপ রুমে শিশুশিল্পীর 'যৌন হেনস্থা'র অভিযোগ নিয়ে বোমা ফাটালেন লীনা গঙ্গোপাধ্যায়ের ছেলে, পোস্ট ঘিরে জোর জল্পনা",
+    "desc": "অর্কর এই পোস্ট নিয়ে শুরু হয় জোর চর্চা৷ সকলের মনে করেন যে সায়ককে ইঙ্গিত করেই তিনি এই পোস্ট করেছেন৷ এমনকী অভিনেতা নিজেও সেটাই মনে করে নাকি অর্কর কাছে জানতে চেয়েছেন এই পোস্টে উল্লেখ করা ব্যক্তির পরিচয়!",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Web-2026-02-02T203023.167-2026-02-45ac578798eee2a5d537614fc4316f82-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/leena-ganguly-son-arka-ganguly-facebook-post-did-sayak-chakraborty-allegedly-harassed-a-young-child-at-makeup-room-pbd-2523719.html",
+    "time": "2026-02-02T15:04:11.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "‘বাংলাদেশে আল কা*য়দার লোক ঘুরছে..,’ মারাত্মক হুঁশিয়ারি শেখ হাসিনার ছেলের! ফাঁস করে দিলেন আমেরিকার কলকাঠির কথা",
+    "desc": "সোমবার আইসিসিআর-এ আজ ‘ইনশাআল্লাহ বাংলাদেশ’ নামে একটি বই নিয়ে আলোচনা ছিল৷ সেখানেই মজিবুর রহমানের দৌহিত্র তথা শেখ হাসিনার পুত্র লন্ডন থেকে ভিডিও কলে এই বক্তব্য পেশ করেন। এদিনের আলোচনা সভায় সিপিএমের পক্ষ থেকে শাইরা শাহ হালিম, বিজেপির পক্ষ থেকে ডঃ পঙ্কজ রায়, জাতীয় কংগ্রেসের পক্ষ থেকে রোহন মিত্র ছিলেন৷ সম্পূর্ণ আলোচনা সভা পরিচালনা করেন বিজেপির রাজ্যসভার প্রাক্তন সাংসদ স্বপন দাশগুপ্ত৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ydne-2026-02-02T200941.292-2026-02-ac77c28d6c6a514aaea99adc89017457-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/international/bangladesh-news-sheikh-hasina-s-son-sajib-joy-says-this-is-the-last-chance-to-resist-jamat-sta-2523631.html",
+    "time": "2026-02-02T15:00:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TCS, Amazon- এর পর এবার বিগ টেক ওরাকেলও! খুব তাড়াতাড়ি ২০,০০০ থেকে ৩০,০০০ কর্মী ছাঁটাই করার মতো প্ল্যান রেডি...",
+    "desc": "ওরাকলের সাম্প্রতিক ইতিহাসে এটিই হতে যাচ্ছে সবচেয়ে বড় ছাঁটাই। এর আগে ২০২৫ সালের শেষের দিকে কোম্পানিটি প্রায় ১০,০০০ কর্মী ছাঁটাই করেছিল। এছাড়া স্বাস্থ্যসেবা সফটওয়্যার ইউনিট ‘সার্নার’ (Cerner) কেনার পর থেকে সেখানেও কয়েক দফায় কর্মী কমানো হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/oracle-plans-20000-to-30000-job-cuts-to-fund-data-centre-expansion_639011.html ",
+    "time": "2026-02-02T14:56:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "আগামী ৭২ ঘণ্টা...! ভারী বৃষ্টি, দমকা ঝোড়ো হাওয়া কাঁপাবে ৯ রাজ্য, শীত হুঁশিয়ারি কোন কোন রাজ্যে? কী হবে বাংলায়? জানিয়ে দিল IMD",
+    "desc": "দেশের বিভিন্ন স্থানে তীব্র ঠান্ডার মধ্যে, আবহাওয়া আবারও ভোল বদলাতে চলেছে। ভারতীয় আবহাওয়া দফতর (IMD) নয় রাজ্যের জন্য বৃষ্টির সতর্কতা এবং উত্তর ভারতের ২১টি জেলায় শৈত্যপ্রবাহের সতর্কতা জারি করেছে। আবহাওয়ার এই পরিবর্তন জনজীবন বিপর্যস্ত করে তুলতে তুলতে পারে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-02-at-13.36.28-2026-02-f70876f5c1204c82ed6eae2990b451b9-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-february-2-3-and-4-heavy-rain-and-gusty-winds-will-shake-9-states-which-states-are-under-cold-weather-alert-what-will-happen-in-bengal-know-latest-west-bengal-weather-sanj-2522792.html",
+    "time": "2026-02-02T14:36:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘নির্বাচন বয়কট করব না, আমি লড়ে নেব..,’ কমিশনের বাইরে দাঁড়িয়ে চ্যালেঞ্জ! মমতার অভিযোগ, ‘ওরা আমাদের অপমান করেছে’",
+    "desc": "এরপরই গুরুতর অভিযোগ তোলেন মমতা৷ বলেন, ‘‘ ২ কোটি মানুষের নাম মিসম‍্যাচ মিসম‍্যাচ করে বাদ দিচ্ছেন৷ হরিয়ানা, বিহার, মহারাষ্ট্রে এই করে জিতে গিয়েছেন৷ আমি চ‍্যালেঞ্জ করছি, এক লক্ষ মানুষকে নিয়ে আসব৷ আরপি অ‍্যাক্টের বাইরে বেরিয়ে কাজ করছে৷ বাংলায় কোনও কিছু অ‍্যালাও করেনি৷ এত মৃত‍্যুর দায় কার? জাতীয় নির্বাচন কমিশনকে এই দায়িত্ব নিতে হবে৷’’",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ydne-2026-02-02T200309.733-2026-02-730d5fd547ae570c83bf846fc587eb44-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/mamata-banerjee-on-eci-said-she-will-not-boycott-election-but-fight-it-but-says-they-humiliated-them-sta-2523533.html",
+    "time": "2026-02-02T14:33:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SIR-এর কাজে হস্তক্ষেপ নয়! আইন ভাঙলে কড়া ব্যবস্থা, মমতার আক্রমণের পর পাল্টা জবাব দিল নির্বাচন কমিশন",
+    "desc": "মুখ্য নির্বাচন কমিশনার জ্ঞানেশ কুমারের মমতা বন্দ্যোপাধ্যায়ের প্রশ্নগুলির জবাব দিয়েছেন এবং স্পষ্ট করে দিয়েছেন যে আইনের শাসন কার্যকর হবে এবং কেউ আইন নিজের হাতে তুলে নিলে কমিশনের হাতে থাকা আইনগত বিধান ও ক্ষমতা অনুযায়ী কঠোর ব্যবস্থা নেওয়া হবে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/12/election-commission-of-india-2025-12-f8359e908c16b28cb3d443d8bcba8c55-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/election-commission-response-after-mamata-banerjee-poll-body-attack-ank-2523588.html",
+    "time": "2026-02-02T14:13:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'আমি চ্যালেঞ্জ করছি...'  দিল্লিতে বৈঠক বয়কট করে হুঙ্কার মমতার! ১ লক্ষ মানুষকে সঙ্গে নিয়ে আসার হুঁশিয়ারি",
+    "desc": "দিল্লিতে মুখ্য নির্বাচন কমিশনার জ্ঞানেশ কুমারের সঙ্গে বৈঠক শেষে কমিশনের বিরুদ্ধে তীব্র ক্ষোভ উগরে দিলেন তৃণমূলনেত্রী মমতা বন্দ্যোপাধ্যায়। বৈঠকে তাঁদের সঙ্গে দুর্ব্যবহার করা হয়েছে বলেই অভিযোগ মমতার। তাঁর কথায়, \"এমন নির্বাচন কমিশন দেখিনি। জমিদারের মতো আচরণ, ওরা উদ্ধত, অহংকারী, মিথ্যেবাদী।\"",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-02-at-18.18.16-2026-02-f8cbbe73ecc224f827ee2e13a8f0fb60-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/mamata-ec-meet-i-am-issuing-a-challenge-mamata-shares-strong-reaction-after-boycotting-the-meeting-in-delhi-throws-challange-of-bringing-one-lakh-people-with-her-sanj-2523513.html",
+    "time": "2026-02-02T13:11:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বিগ আপডেট! বিধানসভা নির্বাচন কি পিছোচ্ছে? নির্বাচন কমিশনের বিরুদ্ধে দিল্লিতে অলআউট আক্রমণে মমতা...",
+    "desc": "তৃণমূল কংগ্রেসের দাবি, তালিকায় লক্ষ লক্ষ মৃত ভোটারের নাম রয়ে গেছে, আবার অনেক নতুন ভোটারের নাম অন্তর্ভুক্ত করা হয়নি। মমতা বন্দ্যোপাধ্যায় মনে করছেন, এই ত্রুটিপূর্ণ তালিকার ভিত্তিতে নির্বাচন হলে তা অবাধ ও সুষ্ঠু হবে না, যা গণতন্ত্রের জন্য ক্ষতিকর।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/coming-2026-wb-assembly-election-is-in-dilemma-as-cm-mamata-banerjee-filed-case-against-ec-regarding-voter-list_638976.html ",
+    "time": "2026-02-02T12:55:10.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "গ্র্যামির মঞ্চে ইতিহাস! ৯০ বছর বয়সে প্রথমবার সম্মান পেলেন দালাই লামা, অভিনন্দন সিকিমের মুখ্যমন্ত্রীর",
     "desc": "৯০ বছর বয়সে দালাই লামা এই সম্মান অর্জন করেন Best Audio Book, Narration & Storytelling Recording বিভাগে। তাঁর স্পোকেন-ওয়ার্ড অ্যালবাম “Meditations: The Reflections of His Holiness the Dalai Lama”, এর জন্য এই পুরস্কার প্রদান করা হয়।",
@@ -88,15 +160,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/aamir-khan-visits-arijit-singh-jiaganj-house-after-retirement-news_638866.html ",
     "time": "2026-02-02T08:26:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "আগামী ৭২ ঘণ্টা...! ভারী বৃষ্টি, দমকা ঝোড়ো হাওয়া কাঁপাবে ৯ রাজ্য, শীত হুঁশিয়ারি কোন কোন রাজ্যে? কী হবে বাংলায়? জানিয়ে দিল IMD",
-    "desc": "দেশের বিভিন্ন স্থানে তীব্র ঠান্ডার মধ্যে, আবহাওয়া আবারও ভোল বদলাতে চলেছে। ভারতীয় আবহাওয়া দফতর (IMD) নয় রাজ্যের জন্য বৃষ্টির সতর্কতা এবং উত্তর ভারতের ২১টি জেলায় শৈত্যপ্রবাহের সতর্কতা জারি করেছে। আবহাওয়ার এই পরিবর্তন জনজীবন বিপর্যস্ত করে তুলতে তুলতে পারে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-02-at-13.36.28-2026-02-f70876f5c1204c82ed6eae2990b451b9-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-february-2-3-and-4-heavy-rain-and-gusty-winds-will-shake-9-states-which-states-are-under-cold-weather-alert-what-will-happen-in-bengal-know-latest-west-bengal-weather-sanj-2522792.html",
-    "time": "2026-02-02T08:20:47.000Z"
   },
   {
     "cat": "Politics",
@@ -835,68 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/entertainment/famous-bengali-song-bibi-payera-payera-from-the-film-debiboron-is-superhit-casting-papiya-adhikari-sung-by-asha-bhosle-pbd-2513060.html",
     "time": "2026-01-26T12:03:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "গান গাইতে গিয়ে হঠাৎ থামানো হল মিমি চক্রবর্তীকে, অভিযোগ নায়িকার, দেখুন ভিডিও",
-    "desc": "লগ্নজিতা স্নিগ্ধজিতের পর এবার সীমান্ত শহর বনগাঁয় এসে হেনস্তার অভিযোগ অভিনেত্রী মিমি চক্রবর্তীর, মিথ্যা অভিযোগের পাল্টা দাবি ক্লাব সদস্যদের। রবিবার বনগাঁর নয়াগোপালগঞ্জে যুবক সংঘের পরিচালনায় আয়োজিত বাৎসরিক অনুষ্ঠানে অংশ নিতে এসে এই হেনস্তার অভিযোগ তুললেন অভিনেত্রী মিমি চক্রবর্তী। ঘটনাকে কেন্দ্র করে ইতিমধ্যেই চাঞ্চল্য ছড়িয়েছে এলাকায়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/3-2026-01-8e461a18e1cb6684466ac635e2f99e4f.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/short-videos/entertainment/actress-mimi-chakraborty-was-on-stage-to-perform-but-was-stopped-to-sing-after-sometime-she-complains-of-harassment-pbd-2513030.html",
-    "time": "2026-01-26T11:11:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "স্কুলের মধ্যে গোবিন্দার দুর্দান্ত ডান্স ! বলিউডের সুপারহিট গানে অভিনেতার নাচ দেখে উচ্ছ্বসিত পড়ুয়ারা",
-    "desc": "বলিউডের ‘চিচি‘ মানে গোবিন্দা বড় পর্দা থেকে দূরে এখন ছোট শহরের কালচারাল ইভেন্টে নিজের ঝলক দেখাচ্ছেন। উত্তর প্রদেশের প্রতাপগড়-এ আয়োজিত দুটি আলাদা স্কুলের অ্যানুয়াল ডে-তে গোবিন্দা গেস্ট হয়ে গিয়েছিলেন। সেখানে তাঁর পুরনো স্টাইল ফ্যানদের মুগ্ধ করে দেয়। ‘ব্ল্যাক অ্যান্ড হোয়াইট’ আউটফিটে গোবিন্দা যখন মঞ্চে এলেন, তখন ভিড় তাঁর সিগনেচার ডান্সের ডিমান্ড করতে শুরু করে। ফ্যানদের অনুরোধের সম্মান জানিয়ে গোবিন্দা তার সুপারহিট গান 'কিসি ডিস্কো মে জায়ে' তে দারুণ ডান্স করেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Govinda-Bollywood-Dance-Viral-2026-01-4c706ad027aed293d9dcf27925c761d0-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/entertainment/bollywood-govinda-recreated-dance-on-superhit-song-kisi-disco-mai-jayein-watch-video-ss-2512916.html",
-    "time": "2026-01-26T10:41:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ঠাকুরদা ছিলেন হোটেলের ওয়েটার, বাবা অ্যাকশন হিরো, বলিউডে নিজের ভাগ্য পরীক্ষা করছেন আহান",
-    "desc": "বাবা হিরো, ছেলেও নিজেও হিরো হতে চান৷ তবে বললেই তো আর হবে না৷ কারণ বলিউড এমন এক জায়গা যেখানে ভক্তদের মন জয় করতে পারলেই তবে টিকে থাকা যাবে৷ না হলে বেশি দিন দৌড়ে টিকতে পারবেন না৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1769333438_Ahan-Shetty-career-highlights-2026-01-ebbe8ed658b6df3a4c09138437eb8ecf-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/his-grandfather-was-a-waiter-father-was-an-action-hero-now-he-is-trying-his-career-in-bollywood-transpg-pbd-2511553.html",
-    "time": "2026-01-26T08:32:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "কালনায় জোড়া পদ্ম,পদ্মশ্রী পাচ্ছেন সাহিত্যিক রবিলাল টুডু ও তাঁতশিল্পী জ্যোতিষ দেবনাথ, আনন্দে আত্মহারা বর্ধমান",
-    "desc": "২০২৬ সালের সাধারণতন্ত্র দিবসের প্রাক্কালে বড়সড় উপহার পেল পূর্ব বর্ধমান জেলা। কেন্দ্রীয় সরকারের ঘোষিত তালিকায় এবার পদ্মশ্রী পাচ্ছেন বাংলার ১১ জন কৃতি, যার মধ্যে কালনারই দুই গুণীজন রয়েছেন। তাঁরা হলেন সাঁওতালি সাহিত্যের নক্ষত্র রবিলাল টুডু এবং মসলিন-জামদানি শিল্পের জাদুকর জ্যোতিষ দেবনাথ",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/HYP_5726423_cropped_26012026_101218_picsart_260126_075532223_w_1-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/padma-shri-award-double-padma-shri-for-kalna-writer-rabilal-tudu-and-weaver-jyotish-debnath-honoured-burdwan-rejoices-l18-rm-local18-2512292.html",
-    "time": "2026-01-26T08:22:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বিয়ের প্রতিশ্রুতি দিয়ে গৃহ সহায়িকার সঙ্গে সহবাস, দিনের পর দিন ধর্ষণের অভিযোগে গ্রেফতার ‘ধুরন্ধর’ অভিনেতা নাদিম খান !",
-    "desc": "নাদিমের বিরুদ্ধে তাঁর গৃহপরিচারিকার অভিযোগ, অভিনেতা নাকি গত ১০ বছর ধরে এ ভাবেই তাঁকে যৌন নির্যাতন করেছেন। প্রত্যেক সহবাসের আগে অভিনেতা নাকি আশ্বাস দিতেন, তিনি অভিযোগকারিণীকে বিয়ে করবেন। ভয় দেখিয়ে জোর করে সহবাসের অভিযোগও রয়েছে অভিযুক্তের বিরুদ্ধে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Dhurandhar-Actor-Nadeem-Khan-Arrest-2026-01-60c1a7827f4ab3385301d4c39ec8168c-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/nadeem-khan-arrest-dhurandhar-actor-nadeem-khan-held-for-raping-domestic-help-on-promise-of-marriage-in-mumbai-ss-2512379.html",
-    "time": "2026-01-26T07:23:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "রাজকীয়ভাবেই হল মধুমিতার রিসেপশন... পোশাক থেকে খাওয়া-দাওয়া, আয়োজনে ছিল চমকের পর চমক",
-    "desc": "খাওয়ার আয়োজন ছিল এলাহী। ছিল ফুচকা। কনে নিজেও ফুচকা খেয়েছেন। ছিল গন্ধরাজ ঘোল, আমপোড়া শরবত, ডাবের জল। ছিল গোল্ডেন প্রন, ফিশ ফ্রাই, কাবাব, গন্ধরাজ চিকেন, কড়াইশুঁটির কচুরি, সাদা ভাত, ফুলকপির রোস্ট, বাসন্তী পোলাও, পাতুড়ি, চিংড়ির মালাইকারি কাতলা, গোলবাড়ির কষা মাংস, মিষ্টিও ছিল রকমারি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-26-at-10.00.29-AM-2026-01-082c1ef788e80a2d107a9f5c4563c335-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/madhumita-debmalya-royal-reception-features-bengali-touch-and-grand-feast-rmj-ws-l-2512215.html",
-    "time": "2026-01-26T04:44:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ক্রিকেটে অসামান্য অবদান! পদ্মশ্রীতে ভূষিত করা হচ্ছে রোহিত শর্মা এবং হরমনপ্রীতকে!",
-    "desc": "ক্রিকেট বিশ্বে তিনি পরিচিত হিটম্যান নামে। এবার সেই হিটম্যান রোহিত শর্মাকেই অনন্য সম্মান পদ্মশ্রীতে ভূষিত করতে চলেছে ভারত সরকার। এছাড়াও, আগামিকাল গণতন্ত্র দিবসের দিন ক্রিকেটে অনবদ্য অবদানের জন্য রোহিতের পাশাপাশি বিশ্বকাপে মহিলা ক্রিকেট দলের অধিনায়ক হরমনপ্রীত কউরকেও সম্মানিত করা হবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-25-at-6.57.08-PM-2026-01-3798eb687542f10e92e159912e2155d9-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/rohit-sharma-and-harmanpreet-kaur-received-padmashree-in-this-republice-day-for-great-achievement-in-cricket-smc-2511743.html",
-    "time": "2026-01-25T13:30:28.000Z"
   }
 ];
