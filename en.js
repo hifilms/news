@@ -1,5 +1,122 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "‘Love should happen to everyone on this planet’",
+    "desc": "Mrunal Thakur, who is currently promoting her latest music video Bheegi Bheegi, recently opened up about her views on love, calling it a deeply transformative and healing experience. Speaking amid ongoing relationship rumours linking her to Dhanush, the actor described love as something that helps people evolve into better versions of themselves.",
+    "img": "https://static.toiimg.com/photo/msid-127868805,imgsize-48394.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-relationship-rumours-with-dhanush-mrunal-thakur-says-love-should-happen-to-everyone-on-this-planet/articleshow/127868765.cms",
+    "time": "2026-02-02T18:07:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-US trade deal: 25% penal tariffs linked to Russian oil gone? Here’s what we know",
+    "desc": "Donald Trump has claimed that the trade deal has been agreed after India has agreed to reduce tariffs on US goods to zero, committed to stop buying Russian crude and step up oil purchases from America, and potentially Venezuela.",
+    "img": "https://static.toiimg.com/photo/msid-127868772,imgsize-54406.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-25-penal-tariffs-linked-to-russian-oil-gone-heres-what-we-know/articleshow/127868647.cms",
+    "time": "2026-02-02T18:06:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "British-era irrigation locks in Godavari delta to open for tourism",
+    "desc": "The District Tourism Promotion Council will prepare a feasibility report on the building infrastructure, its structural stability and availability of land at the irrigation locks at Lolla, Choppella, Mukkamala and Sankhinetipalli Revu by February 15.",
+    "img": "https://th-i.thgim.com/public/incoming/61xrwt/article70583904.ece/alternates/LANDSCAPE_1200/10237_2_2_2026_18_47_6_1_CHOPPELLA.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/british-era-irrigation-locks-in-godavari-delta-to-open-for-tourism/article70583265.ece",
+    "time": "2026-02-02T17:25:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NDA Parliamentary party meeting on February 3",
+    "desc": "MPs belonging to the BJP, TDP, JD(U), LJP (R), Shiv Sena, JD(S) and other constituents of the NDA will attend the meeting. Prime Minister Narendra Modi is expected to address the lawmakers on a host of issues at the meeting, sources said",
+    "img": "https://th-i.thgim.com/public/incoming/5j0oh7/article70584685.ece/alternates/LANDSCAPE_1200/20260202249L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/nda-parliamentary-party-meeting-on-february-3/article70584674.ece",
+    "time": "2026-02-02T17:18:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bulk Form 7 applications for voter name deletion surface in Barmer; BJP BLAs deny filing them",
+    "desc": "Hundreds of Form 7 applications seeking deletion of voter names surface mysteriously in Rajasthan’s Chohtan Assembly constituency; booth-level agents of the BJP in whose names the forms had been filed say they have not signed them",
+    "img": "https://th-i.thgim.com/public/incoming/pzvaf5/article70584648.ece/alternates/LANDSCAPE_1200/A5_RVM_6165.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-sir-bulk-form-7-applications-for-voter-name-deletion-surface-in-barmer-bjp-blas-deny-filing-them/article70583472.ece",
+    "time": "2026-02-02T17:14:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "China's top general probe to 'remove obstacles' in military: state media",
+    "desc": "The Defence Ministry said last month it was investigating Mr. Zhang, the Vice Chairman of the powerful Central Military Commission (CMC), as well as Liu Zhenli, Chief of Staff of the CMC's joint staff department, which oversees combat planning",
+    "img": "https://th-i.thgim.com/public/incoming/tnvt4r/article70584637.ece/alternates/LANDSCAPE_1200/IMG_China_Navy_Symposium_2_1_NSCN3SVD.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/chinas-top-general-probe-to-remove-obstacles-in-military-state-media/article70584175.ece",
+    "time": "2026-02-02T16:52:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "R Madhavan reveals why he quit acting for four years",
+    "desc": "R Madhavan has revealed that he took a four-year break from acting because he had grown deeply dissatisfied with the kind of work he was doing at the time. The actor stepped away from films in 2011 and returned only in 2016 with Saala Khadoos — a comeback that marked a clear shift from his earlier romantic roles to intense, author-backed performances.",
+    "img": "https://static.toiimg.com/photo/msid-127867328,imgsize-58188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-reveals-why-he-quit-acting-for-four-years-i-was-very-disillusioned-with-the-kind-of-work-i-was-doing/articleshow/127867275.cms",
+    "time": "2026-02-02T16:51:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sri Lanka drop Test captain Dhananjaya de Silva from T20 WC squad",
+    "desc": "Sri Lanka dropped Test captain Dhananjaya de Silva from Dasun Shanaka’s 15-member T20 World Cup squad after modest returns since his recall. He scored 43 runs and took one wicket in three games. Injured pacer Eshan Malinga was included. Co-host Sri Lanka begin their campaign against Ireland in Colombo.",
+    "img": "https://static.toiimg.com/photo/msid-127867170,imgsize-155704.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sri-lanka-drop-test-captain-dhananjaya-de-silva-from-t20-world-cup-squad/articleshow/127866338.cms",
+    "time": "2026-02-02T16:41:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Data shows variety of drugs find takers in Kochi",
+    "desc": "While suspected ganja and MDMA make up most of the narcotics seized by the authorities, annual data from the police and the Excise show that peddlers have also found a market for other addictive substances in the city and its suburbs",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/data-shows-variety-of-drugs-find-takers-in-kochi/article70584155.ece",
+    "time": "2026-02-02T16:22:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "AR Rahman’s son AR Ameen says his dad’s legacy is unmatched",
+    "desc": "AR Rahman recently found himself at the centre of a controversy after his remarks about alleged communal bias in the Hindi film industry sparked intense debate online. The comments drew both support and backlash, bringing renewed focus on the composer’s journey and standing in Bollywood. Amid the ongoing discussion, his son AR Ameen has spoken candidly about working with his father and carving his own path in music.",
+    "img": "https://static.toiimg.com/photo/msid-127866380,imgsize-41388.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-ar-rahmans-communal-bias-remark-son-ar-ameen-says-my-dads-legacy-has-reached-a-place-no-one-can-imagine/articleshow/127866335.cms",
+    "time": "2026-02-02T15:54:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Snoop Dogg’s family mourns as granddaughter passes away weeks after hospital discharge",
+    "desc": "Snoop Dogg’s granddaughter, Codi Dreaux, has died at 10 months, just 20 days after leaving the NICU. Born prematurely at 25 weeks, Codi faced months of intensive care while her mother, Cori Broadus, documented the challenges online. Family and friends mourned her loss, remembering her as a spirited “little firecracker.” No cause of death has been shared.",
+    "img": "https://static.toiimg.com/photo/msid-127866248,imgsize-680418.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/etimes/trending/snoop-doggs-family-mourns-as-granddaughter-passes-away-weeks-after-hospital-discharge/articleshow/127865348.cms",
+    "time": "2026-02-02T15:45:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tilak Varma ticks all boxes on return, ready for T20 World Cup",
+    "desc": "Tilak Varma marked his return from injury with an all-round showing in India A’s warm-up against USA, batting fluently and bowling extended spells. With no visible rust, the 23-year-old strengthened his case as India’s No. 3 for the T20 World Cup, even as selection debates intensify around the second opener and backup bowling options.",
+    "img": "https://static.toiimg.com/photo/msid-127866203,imgsize-126802.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-a-vs-usa-tilak-varma-ticks-all-boxes-on-return-ready-for-t20-world-cup/articleshow/127866192.cms",
+    "time": "2026-02-02T15:41:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Javed, Shabana’s Khandala home",
+    "desc": "Veteran lyricist Javed Akhtar, accompanied by wife Shabana Azmi, offered a rare glimpse into their luxurious Khandala bungalow in a recent vlog. Akhtar candidly shared his journey from sleeping on footpaths and enduring hunger to owning such a grand home, admitting the transition from survival to security is still surreal.",
+    "img": "https://static.toiimg.com/photo/msid-127866093,imgsize-72128.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-javed-akhtar-shabana-azmis-luxurious-khandala-home-heres-when-they-bought-it/articleshow/127866093.cms",
+    "time": "2026-02-02T15:35:36.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "Snowflake and OpenAI make a $200 million bid to corner corporate data intelligence market",
     "desc": "The deal, which integrates OpenAI’s most advanced models directly into Snowflake’s data infrastructure, represents a significant tactical shift for both firms, signalling that the battle for enterprise AI has moved from the chatbox to the database",
@@ -72,6 +189,15 @@ const newsData_en = [
     "time": "2026-02-02T14:47:09.000Z"
   },
   {
+    "cat": "World",
+    "title": "Gaza’s Rafah crossing makes limited reopening after two-year war",
+    "desc": "Israel said the crossing had opened in a test, and the Israeli military agency that controls aid to Gaza said residents could begin crossing Monday. But only a small number of people can cross at first",
+    "img": "https://th-i.thgim.com/public/incoming/vp5ejx/article70581517.ece/alternates/LANDSCAPE_1200/Egypt_Mideast_Wars_Gaza_58307.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/israel-gaza-rafah-crossing-opening-february-2-2026/article70581484.ece",
+    "time": "2026-02-02T14:47:04.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "‘Not trying to defame the Army’: Priyanka Gandhi defends Rahul Gandhi amid Lok Sabha standoff over Naravane memoir",
     "desc": "Priyanka Gandhi Vadra defended her brother, Rahul Gandhi, stating he quoted from a magazine referencing former Army Chief Naravane's memoir, not defaming the Army. The Lok Sabha saw disruptions and adjournment as Gandhi insisted on discussing border tensions, prompting objections from BJP members who accused him of flouting rules and demoralizing forces. Gandhi maintained national security is paramount.",
@@ -81,13 +207,13 @@ const newsData_en = [
     "time": "2026-02-02T14:45:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "British-era irrigation locks in Godavari delta to open for tourism",
-    "desc": "The District Tourism Promotion Council will prepare a feasibility report on the building infrastructure, its structural stability and availability of land at the irrigation locks at Lolla, Choppella, Mukkamala and Sankhinetipalli Revu by February 15.",
-    "img": "https://th-i.thgim.com/public/incoming/61xrwt/article70583904.ece/alternates/LANDSCAPE_1200/10237_2_2_2026_18_47_6_1_CHOPPELLA.JPEG",
+    "cat": "Entertainment",
+    "title": "‘Bheegi Bheegi’: A R Ameen creates a timeless love experience with Dulquer Salmaan and Mrunal Thakur",
+    "desc": "‘Bheegi Bheegi’, a dreamy music video, stars Dulquer Salmaan and Mrunal Thakur, and takes you on a romantic journey through alternate realities, mixing retro charm with futuristic flair. AR Ameen and Jasleen Royal has sung the song while A R Rahman has composed it",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/7dzjo/article70583567.ece/alternates/LANDSCAPE_1200/Ameen.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/british-era-irrigation-locks-in-godavari-delta-to-open-for-tourism/article70583265.ece",
-    "time": "2026-02-02T14:34:46.000Z"
+    "url": "https://www.thehindu.com/entertainment/movies/a-r-ameen-a-r-rahman-bheegi-bheegi-dulquer-salmaan-mrunal-thakur-jasleen-royal/article70583386.ece",
+    "time": "2026-02-02T14:41:09.000Z"
   },
   {
     "cat": "Sports",
@@ -115,15 +241,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/isl-2025-26-fancode-selected-as-media-partner-kps-to-handle-production/article70583821.ece",
     "time": "2026-02-02T14:20:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Court suspends sentence of former MLA Antony Raju in evidence tampering case",
-    "desc": "The former legislator and K.S. Jose, a court clerk, were both found guilty of causing the disappearance of evidence, forgery and fabricating false evidence that had resulted in the acquittal of an Australian national who was arrested from Thiruvananthapuram International Airport in 1990 with possession of ganja.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/court-suspends-sentence-of-former-mla-antony-raju-in-evidence-tampering-case/article70583717.ece",
-    "time": "2026-02-02T14:20:19.000Z"
   },
   {
     "cat": "Sports",
@@ -162,15 +279,6 @@ const newsData_en = [
     "time": "2026-02-02T14:06:33.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Bheegi Bheegi’: A R Ameen creates a timeless love experience with Dulquer Salmaan and Mrunal Thakur",
-    "desc": "‘Bheegi Bheegi’, a a dreamy music video, stars Dulquer Salmaan and Mrunal Thakur, and takes you on a romantic journey through alternate realities, mixing retro charm with futuristic flair. AR Ameen and Jasleen Royal has sung the song while A R Rahman has composed it",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/7dzjo/article70583567.ece/alternates/LANDSCAPE_1200/Ameen.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/a-r-ameen-a-r-rahman-bheegi-bheegi-dulquer-salmaan-mrunal-thakur-jasleen-royal/article70583386.ece",
-    "time": "2026-02-02T13:53:51.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Air India grounds a Dreamliner after pilot reports 'possible defect' in fuel control switch on landing in Bengaluru from London",
     "desc": "Air India has grounded a Boeing 787 Dreamliner after its crew reported a fuel control switch issue post-landing. This follows a 2025 crash where a similar switch malfunction led to engine failure. The airline is investigating with the manufacturer, while aviation regulators are also probing the incident, raising safety concerns.",
@@ -180,34 +288,7 @@ const newsData_en = [
     "time": "2026-02-02T13:53:19.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Town Planning Committee to examine digital billboards as complaints mount",
-    "desc": "So far, around 12 large boards mounted on two pillar-like structures have been installed, streaming continuous digital commercials. The Corporation has received numerous complaints about these boards, which are now under consideration by the Town Planning Committee",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/town-planning-committee-to-examine-digital-billboards-as-complaints-mount/article70582852.ece",
-    "time": "2026-02-02T13:48:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "In Delhi’s Urdu-medium schools, learning, shadowed by neglect",
-    "desc": "Delhi’s MCD-run Urdu-medium primary schools have seen dwindling student enrolment over a decade despite being located in highly populated areas whose residents speak the language. Suruchi Kumari finds that neglect is at the root of the state of education in these government-funded institutions",
-    "img": "https://th-i.thgim.com/public/incoming/p7gz7m/article70583507.ece/alternates/LANDSCAPE_1200/02_RVM_5337.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/in-delhis-urdu-medium-schools-learning-shadowed-by-neglect/article70583400.ece",
-    "time": "2026-02-02T13:46:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sambhal mosque seeks permission for loudspeaker installation ahead of Ramzan",
-    "desc": "Committee president Zafar Ali, in a letter to the district magistrate on February 2, said a loudspeaker was required during Ramzan so that the Imam's voice could be clearly heard by the worshippers offering prayers at the mosque",
-    "img": "https://th-i.thgim.com/public/incoming/jt3mp0/article70583529.ece/alternates/LANDSCAPE_1200/FRONTLINE%20MOSQUE%20SAMBHAL%20UP%202024_28_11_73.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/sambhal-mosque-seeks-permission-for-loudspeaker-installation-ahead-of-ramzan/article70583278.ece",
-    "time": "2026-02-02T13:44:12.000Z"
-  },
-  {
-    "cat": "Politics",
+    "cat": "World",
     "title": "Syrian state forces deploy into Kurdish-run city under ceasefire deal",
     "desc": "The deal, declared on January 30, has staved off further conflict between President Ahmed al-Sharaa's government and the Kurdish-led Syrian Democratic Forces, which ​lost swathes of eastern and northern Syria ⁠to government troops in January.",
     "img": "https://th-i.thgim.com/public/incoming/qjgjvq/article70583463.ece/alternates/LANDSCAPE_1200/2026-02-02T111620Z_1387671405_RC2MDJAC19ZJ_RTRMADP_3_SYRIA-SECURITY.JPG",
@@ -279,15 +360,6 @@ const newsData_en = [
     "time": "2026-02-02T12:59:35.000Z"
   },
   {
-    "cat": "World",
-    "title": "Gaza’s Rafah crossing makes limited reopening after two-year war",
-    "desc": "Israel said the crossing had opened in a test, and the Israeli military agency that controls aid to Gaza said residents could begin crossing Monday. But only a small number of people can cross at first",
-    "img": "https://th-i.thgim.com/public/incoming/vp5ejx/article70581517.ece/alternates/LANDSCAPE_1200/Egypt_Mideast_Wars_Gaza_58307.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/israel-gaza-rafah-crossing-opening-february-2-2026/article70581484.ece",
-    "time": "2026-02-02T12:58:41.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Akhil Sathyan's 'Sarvam Maya' is inspired by true events",
     "desc": "Director Akhil Sathyan's horror-comedy 'Sarvam Maya,' starring Nivin Pauly, is now streaming on OTT after a theatrical run. Sathyan revealed a poignant scene, a brother's farewell to a comatose loved one, was inspired by a real-life family tragedy. The film, a blockbuster, blends commercial elements with relatable, feel-good moments.",
@@ -295,24 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/akhil-sathyan-reveals-that-sarvam-maya-is-inspired-by-a-real-life-incident/articleshow/127862967.cms",
     "time": "2026-02-02T12:49:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Did Trevor Noah just admit to insider trading on the Grammys stage? The ‘potato’ joke explained",
-    "desc": "Trevor Noah’s unscripted “potato” joke at the Grammys name-checked Polymarket and caught the attention of crypto bettors, despite no such wager existing. The line turned a niche prediction market into a live-TV reference, sparking online debate and fast clip circulation across crypto and entertainment circles during the broadcast and across social platforms within minutes.",
-    "img": "https://static.toiimg.com/photo/msid-127863063,imgsize-935094.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/etimes/trending/did-trevor-noah-just-admit-to-insider-trading-on-the-grammys-stage-the-potato-joke-explained/articleshow/127862314.cms",
-    "time": "2026-02-02T12:49:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ariana Mukherjee sparks buzz in Mumbai outing",
-    "desc": "At a recent event in Mumbai, Mahima Chaudhry and her daughter Ariana Mukherjee showcased a charming blend of elegance and poise. Their effortless interaction with photographers during the launch of Variety Magazine India caught the attention of many, with audiences lauding Ariana's fresh demeanor and striking resemblance to her mother.",
-    "img": "https://static.toiimg.com/photo/msid-127862778,imgsize-43818.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ariana-mukherjee-sparks-online-buzz-during-low-key-mumbai-appearance-with-mahima-chaudhry-see-pic/articleshow/127862778.cms",
-    "time": "2026-02-02T12:48:43.000Z"
   },
   {
     "cat": "Sports",
@@ -378,15 +432,6 @@ const newsData_en = [
     "time": "2026-02-02T12:14:22.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Harbhajan Singh compares Virat Kohli to Ranveer Singh",
-    "desc": "Cricketers Harbhajan Singh and Sreesanth shared fun Bollywood comparisons on a YouTube chat with their wives. They likened Virat Kohli to Ranveer Singh, Rohit Sharma to Nirupa Roy, and Sachin Tendulkar to Gabbar Singh. The duo also recalled humorous dressing-room memories, blending cricket nostalgia with light-hearted film parallels.",
-    "img": "https://static.toiimg.com/photo/msid-127861666,imgsize-51280.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/harbhajan-singh-compares-virat-kohli-to-ranveer-singh-calls-sachin-tendulkar-gabbar-singh-of-cricket/articleshow/127861666.cms",
-    "time": "2026-02-02T11:58:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India keen to revive Formula 1; Mandaviya visits Greater Noida circuit",
     "desc": "The Sports Ministry wants Formula 1 to return to India and has begun talks to revive racing at the Buddh International Circuit. Sports minister Mansukh Mandaviya has reviewed the track and discussed timelines. The government is keen despite past tax issues, high hosting costs, and strong global competition, banking on India’s world-class facility and strong fan interest.",
@@ -396,24 +441,6 @@ const newsData_en = [
     "time": "2026-02-02T11:54:22.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rohit's Golmaal 5 shoot sets to be secured with two-tier protection",
-    "desc": "Following the firing outside Rohit Shetty’s Juhu home, security for him and his film 'Golmaal 5' has been intensified, with a two-tier setup at the sets. His Rakesh Maria biopic starring John Abraham is temporarily paused. Film bodies like IFTDA and AICWA condemned the attack, citing rising threats in Bollywood.",
-    "img": "https://static.toiimg.com/photo/msid-127861419,imgsize-15650.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rohit-shetty-firing-case-golmaal-5-shoot-sets-to-be-secured-with-two-tier-protection/articleshow/127861419.cms",
-    "time": "2026-02-02T11:47:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shekhar Kapur reviews 'Dhurandhar' after its OTT release",
-    "desc": "Filmmaker Shekhar Kapur lauded Aditya Dhar's 'Dhurandhar' on OTT, praising its storytelling and performances. He revealed he missed the theatrical release due to the film not being available in Dubai, where he was located. Kapur also noted the Netflix version felt largely uncensored, with only swear words omitted.",
-    "img": "https://static.toiimg.com/photo/msid-127861256,imgsize-27042.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shekhar-kapur-reviews-dhurandhar-after-its-ott-release-reveals-why-he-didnt-watch-it-in-theatres/articleshow/127861300.cms",
-    "time": "2026-02-02T11:41:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'India will miss Kohli, Rohit': Ex-head coach points out 'missing' element",
     "desc": "Anil Kumble feels India’s 2026 T20 World Cup squad is slightly weaker than the 2024 title-winning team due to a lack of experience. He said India will miss Virat Kohli and Rohit Sharma, though he praised the current side’s balance, bowling depth, aggressive batting, and backed Suryakumar Yadav to handle pressure moments.",
@@ -421,24 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-will-miss-virat-kohli-rohit-sharma-former-head-coach-points-out-missing-element-in-t20-world-cup-squad/articleshow/127860099.cms",
     "time": "2026-02-02T11:38:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Is Vijay's 'Jana Nayagan' being trimmed by 20 mins for theaters?",
-    "desc": "Speculation surrounding Thalapathy Vijay's 'Jana Nayagan' being trimmed by 20 minutes for theatrical release has been debunked. Producer G. Dhananjayan clarified that no such cuts or re-edits have occurred, emphasizing that the censor date is yet to be decided due to a pending court case. Fans await official updates amidst the ongoing confusion.",
-    "img": "https://static.toiimg.com/photo/msid-127861140,imgsize-158106.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/is-jana-nayagan-being-trimmed-by-20-mins-for-theaters-heres-the-truth-behind-the-thalapathy-vijay-starrer/articleshow/127861140.cms",
-    "time": "2026-02-02T11:38:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shazia Iqbal faces online heat, turns Instagram private",
-    "desc": "Filmmaker Shazia Iqbal sparked debate after criticizing Aditya Dhar’s 'Dhurandhar', calling it “sinister” in an Instagram post. Netizens quickly reacted, with some mocking her views. Anurag Kashyap supported her concerns about the film’s ideology, while Hrithik Roshan also shared mixed opinions. 'Dhurandhar 2' is slated for release on March 19, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-127861050,imgsize-21794.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhadak-2-director-shazia-iqbal-faces-online-heat-turns-instagram-private-after-calling-dhurandhar-sinister/articleshow/127861050.cms",
-    "time": "2026-02-02T11:32:47.000Z"
   },
   {
     "cat": "Sports",
@@ -603,15 +612,6 @@ const newsData_en = [
     "time": "2026-02-02T07:58:40.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Gold, silver ETFs recover! After massive wipeoff, funds show stability; claw back 10% losses",
-    "desc": "Gold and silver ETFs saw significant losses, prompting the BSE to impose trading limits due to increased volatility. Both metals experienced sharp sell-offs from record highs, driven by profit-taking, leveraged position exits, and global factors like a firm US dollar. Despite some recovery, substantial value has been wiped out.",
-    "img": "https://static.toiimg.com/photo/msid-127855821,imgsize-2221489.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-etfs-recover-after-massive-wipeoff-funds-show-stability-claw-back-10-losses/articleshow/127855300.cms",
-    "time": "2026-02-02T07:55:19.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Border 2' box office day 11 (LIVE)",
     "desc": "Released on January 23, 'Border 2' met fan expectations with a strong opening of ₹30 crore. The film saw significant growth over the Republic Day holiday, collecting Rs 59 crore on its first Monday. After a robust first week totaling Rs 224.25 crore, 'Border 2' continued its box office run, ultimately reaching Rs 275.86 crore.",
@@ -619,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-day-11-live-the-sunny-deol-film-crosses-rs-275-crore-drops-on-second-monday/articleshow/127855693.cms",
     "time": "2026-02-02T07:54:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Restrain yourself from atrocities': Mamata Banerjee vs Delhi Police ahead of CEC meet over SIR",
-    "desc": "West Bengal CM Mamata Banerjee arrived in Delhi for a meeting with the Election Commission amid political tension. She protested a heavy police presence outside Banga Bhavan, comparing the treatment to that of Union home minister Amit Shah's visits to West Bengal. Banerjee vowed to fight against alleged atrocities and harassment of people from Bengal.",
-    "img": "https://static.toiimg.com/photo/msid-127855434,imgsize-705421.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/restrain-yourself-from-atrocities-mamata-banerjee-vs-delhi-police-ahead-of-cec-meet-over-sir/articleshow/127855438.cms",
-    "time": "2026-02-02T07:52:53.000Z"
   },
   {
     "cat": "Entertainment",
@@ -640,39 +631,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Boycott drama! 'Pakistan always make u-turns': Gavaskar takes dig",
-    "desc": "Pakistan has confirmed participation in the T20 World Cup but will forfeit their match against India on February 15. Sunil Gavaskar believes this decision might not be final, citing Pakistan's history of players reversing retirement calls due to public pressure. India is expected to proceed with the fixture as scheduled.",
-    "img": "https://static.toiimg.com/photo/msid-127855005,imgsize-81030.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/boycott-drama-pakistan-always-make-u-turns-gavaskar-takes-dig-amid-india-match-row/articleshow/127854991.cms",
-    "time": "2026-02-02T06:57:07.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "‘We completely agree with ICC’: BCCI VP backs world body as Pak boycotts India tie",
     "desc": "The BCCI fully supports the ICC's stance on sportsmanship after Pakistan's government announced their team would boycott the T20 World Cup match against India. BCCI vice-president Rajeev Shukla stated they will await formal discussions with the ICC before commenting further. The ICC emphasised that selective participation undermines the integrity of global sporting events.",
     "img": "https://static.toiimg.com/photo/msid-127854135,imgsize-32010.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-completely-agree-with-icc-bcci-vp-backs-world-body-as-pakistan-boycotts-india-match-at-t20-world-cup/articleshow/127854081.cms",
     "time": "2026-02-02T06:17:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Something happened behind the curtains': Sanjay Raut raises grave doubts on Ajit Pawar's death",
-    "desc": "Shiv Sena (UBT) MP Sanjay Raut has raised suspicions regarding the death of NCP leader Ajit Pawar in a plane crash, calling it \"dubious\" and demanding a thorough investigation. Raut alleged that Pawar was seeking reconciliation with his uncle Sharad Pawar and faced pressure over the irrigation scam, drawing parallels to the Justice Loya case.",
-    "img": "https://static.toiimg.com/photo/msid-127853690,imgsize-823585.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/something-happened-behind-the-curtains-sanjay-raut-raises-grave-doubts-on-ajit-pawars-death/articleshow/127853703.cms",
-    "time": "2026-02-02T05:52:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "A Budget that underscores credibility and invests for competitiveness",
-    "desc": "With focus on fiscal prudence and improving ease of living citizens, the Budget announcements will help secure strategic materials through the Rare Earth Corridors, bringing in logistics reform of inland waterways, and give a fillip to MSMEs",
-    "img": "https://th-i.thgim.com/public/news/national/7s7spz/article70578145.ece/alternates/LANDSCAPE_1200/SP%202.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/union-budget-viewpoint-story-from-subhrakant-panda-managing-director-imfa-and-a-former-president-of-ficci/article70578123.ece",
-    "time": "2026-02-02T04:57:03.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/senate-passes-trump-backed-government-funding-deal-sending-to-house/article70573734.ece",
     "time": "2026-01-31T11:08:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Pokemon card event at controversial shrine to Japanese war dead cancelled after China protests",
+    "desc": "The Yasukuni Shrine honours Japan's 2.5 million war dead, including convicted war criminals. Countries that were targets of Japanese aggression, especially China and the Koreas, see visits to the shrine as showing a lack of remorse about Japan's wartime past",
+    "img": "https://th-i.thgim.com/public/incoming/22rnj4/article70573448.ece/alternates/LANDSCAPE_1200/Japan-China-Pokemon_74640.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/pokemon-card-event-at-controversial-shrine-to-japanese-war-dead-cancelled-after-china-protests/article70573416.ece",
+    "time": "2026-01-31T07:17:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Catherine O’Hara was the best part of any scene",
+    "desc": "Because of that innate grasp on her craft, unwillingness to settle into nostalgia and uncanny ability to invent herself anew with each project, her characters would impact multiple generations of film, television and comedy fans",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/f7t6wu/article70573273.ece/alternates/LANDSCAPE_1200/Catherine.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/catherine-ohara-was-the-best-part-of-any-scene-home-alone-actor/article70573243.ece",
+    "time": "2026-01-31T06:36:26.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Adani agrees to receive legal notice in U.S. SEC civil fraud case, to respond in 90 days",
+    "desc": "In a Brooklyn federal court filing, the SEC and lawyers for Mr. Gautam and Mr. Sagar Adani stated they would accept service of the regulator’s legal papers, removing the need for a Judge’s ruling on service methods",
+    "img": "https://th-i.thgim.com/public/incoming/ee02t4/article68891524.ece/alternates/LANDSCAPE_1200/Adani_Bribery_Indictment_86639.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/adani-agrees-to-receive-legal-notice-in-us-sec-civil-fraud-case-to-respond-in-90-days/article70573137.ece",
+    "time": "2026-01-31T04:52:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "It’s not very nice to change the country you represent: WGM Sara Khadem on leaving Iran for Spain",
+    "desc": "The 28-year-old was forced out of Iran after playing in the 2022 World Rapid and Blitz Championships without wearing a headscarf. She talks about her courageous decision, her life in Spain, the quality of chess in both countries, her experience of competing in the Global Chess League, and dealing with her son’s cheeky Spanish",
+    "img": "https://th-i.thgim.com/public/incoming/63l5v2/article70571923.ece/alternates/LANDSCAPE_1200/sara3.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/its-not-very-nice-to-change-the-country-you-represent-wgm-sara-khadem-on-leaving-iran-for-spain/article70571916.ece",
+    "time": "2026-01-30T18:23:16.000Z"
   }
 ];

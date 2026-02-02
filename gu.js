@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "અમેરિકાએ ઘટાડ્યો ટેરિફ, 25%થી ઘટાડીને 18% કર્યો; ટ્રમ્પે કહ્યું- ભારત હવે રશિયા પાસેથી તેલ નહીં ખરીદે",
+    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે સોમવારે જાહેરાત કરી કે, તેઓ ટેરિફન 25 ટકાથી ઘટાડીને 18 ટકા કરી દેશે. આ વાત તેમણે વડાપ્રધાન નરેન્દ્ર મોદી સાથે વાતચીત કર્યાના થોડા જ સમય બાદ કહી છે. આ જાહેરાતથી ભારત-અમેરિકા સંબંધોમાં નરમાશ આવવાનો સંકેત મળી રહ્યા છે. આ નિર્ણયથી બન્ને દેશોની વચ્ચે વેપાર વધવાની અને આયાત ખર્ચમાં ઘટાડો થવાની અપેક્ષા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/us-lowers-reciprocal-tariff-india-to-stop-russian-oil-modi-trump-trade-deal-463775 ",
+    "time": "2026-02-02T17:47:33.000Z"
+  },
+  {
     "cat": "Business",
     "title": "17 વર્ષ જૂની કંપનીનો આવી રહ્યો છે IPO, 26 જિલ્લામાં ફેલાયેલો છે બિઝનેસ",
     "desc": "આવનારા સમયમાં વધુ એક દિગ્ગજ કંપનીનો આઈપીઓ આવી રહ્યો છે, જેનો 26 જિલ્લાઓમાં બિઝનેસ ફેલાયેલો છે, કંપની ઓફર ફોર સેલ અને ફ્રેશ શેર પર IPO લઈને આવી રહી છે, કંપનીની સ્થાપના 1999માં થઈ છે. કંપની માટે રોકાણકારો 27 લાખ શેર વેચી રહ્યા છે.",
@@ -646,15 +655,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/vivo-has-quietly-launched-the-new-x200t-and-users-are-surprised-by-its-price-and-features-463064 ",
     "time": "2026-01-27T08:57:32.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "દુનિયાનું એક એવું ગામ, જ્યાં નથી કોઈનો જન્મ થતો કે નથી કોઈ મરતું !",
-    "desc": "દુનિયાનું છેલ્લું ગામ જે ઉત્તર ધ્રુવથી લગભગ 1300 કિલોમીટર દૂર આવેલું છે. આ સ્થળની ખાસિયત માત્ર તેનું હવામાન જ નહીં, પરંતુ તેના નિયમો, લોકો અને જીવનશૈલી પણ છે, જે તેને વિશ્વના સૌથી અનોખા ગામડાઓમાંનું એક બનાવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/this-village-in-europe-where-birth-and-death-are-not-allowed-know-why-463050 ",
-    "time": "2026-01-27T07:40:54.000Z"
   },
   {
     "cat": "Tech",

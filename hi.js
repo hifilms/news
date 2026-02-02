@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sri Lanka announce T20 World Cup 2026 squad, Kamindu Mendis replaces Dhananjaya de Silva",
+    "desc": "Sri Lanka have officially announced their 15-member squad for the T20 World Cup 2026, as Dasun Shanaka will be leading the squad that co-hosts the tournament along with India. The squad is closely similar to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-announce-t20-world-cup-2026-squad-kamindu-mendis-replaces-dhananjaya-de-silva-2026-02-02-1028641",
+    "time": "2026-02-02T18:05:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Pakistan women's A team play against India A side in Asia Cup on February 15? Here is latest update",
+    "desc": "The cricketing relations between India and Pakistan have hit a new low after the Pakistani government announced a boycott of the league stage match against the Indian team for the upcoming T20 World Cup 2026. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-pakistan-women-s-a-team-play-against-india-a-side-in-asia-cup-on-february-15-here-is-latest-update-2026-02-02-1028636",
+    "time": "2026-02-02T16:24:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India A make light work of USA in T20 World Cup 2026 warm-up fixture ahead of main showpiece",
+    "desc": "The Indian A team made light work of the USA side as the Ayush Badoni-led side defeated the minnows in the T20 World Cup 2026 warm-up clash at the Dr DY Patil Sports Academy, Navi...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-a-make-light-work-of-usa-in-t20-world-cup-2026-warm-up-fixture-ahead-of-main-showpiece-2026-02-02-1028634",
+    "time": "2026-02-02T15:50:51.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pakistan leave for Sri Lanka ahead of T20 World Cup 2026 amid India boycott row",
     "desc": "The Pakistan cricket team left for Sri Lanka for the T20 World Cup 2026 despite their government's decision to boycott the group stage clash against India, scheduled to take place on February 15 at the...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pretty-disgraceful-shashi-tharoor-gives-his-take-on-pakistan-s-india-boycott-ahead-of-t20-world-cup-2026-2026-02-02-1028578",
     "time": "2026-02-02T07:16:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Josh Hazlewood expected to miss early phase of T20 WC 2026, Australia add Sean Abbott as travelling reserve",
-    "desc": "With the T20 World Cup 2026 all set to kick off on February 7, ahead of the start of the competition, Cricket Australia has been dealt a major blow as star pacer Josh Hazlewood is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/josh-hazlewood-expected-to-miss-early-phase-of-t20-wc-2026-australia-add-sean-abbott-as-travelling-reserve-2026-02-02-1028565",
-    "time": "2026-02-02T06:12:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer credits selectors for backing Ishan Kishan ahead of T20 World Cup 2026",
-    "desc": "The stage is set for the upcoming edition of the T20 World Cup 2026. The marquee tournament is slated to be held in India and Sri Lanka and will kick off on February 7. Ahead...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-credits-selectors-for-backing-ishan-kishan-ahead-of-t20-world-cup-2026-2026-02-02-1028560",
-    "time": "2026-02-02T05:36:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "UP Warriorz achieve unwanted record with yet another loss against Delhi Capitals women",
-    "desc": "UP Warriorz were handed their sixth loss in eight games in the ongoing WPL (Women’s Premier League) 2026 season. The side took on Delhi Capitals in game 20 of the tournament, and Capitals handed them...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/up-warriorz-achieve-unwanted-record-with-yet-another-loss-against-delhi-capitals-women-2026-02-02-1028553",
-    "time": "2026-02-02T04:31:28.000Z"
   }
 ];
