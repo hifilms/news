@@ -1,12 +1,21 @@
 const newsData_gu = [
   {
-    "cat": "Politics",
-    "title": "મહારાષ્ટ્રના રાજકારણમાં ચોંકાવનારો વળાંક, દિગ્ગજ NCP નેતાએ આપ્યું એવું નિવેદન, શરદ પવારને લાગશે ઝટકો",
-    "desc": "મહારાષ્ટ્રના રાજકારણમાં ભારે ગરમાવો જોવા મળી રહ્યો છે. અજિત પવારના નિધન બાદ બંને જૂથોનું વિલય થશે કે કેમ? આ બધા વચ્ચે તેમની પાર્ટીના એક દિગ્ગજ નેતાએ વિલય પર એવું નિવેદન આપી દીધુ કે શરદ પવારને આ જાણીને ઝટકો લાગે તે સ્વાભાવિક છે. જાણો તેમણે શું કહ્યું.",
+    "cat": "Sports",
+    "title": "પાકિસ્તાનના બહિષ્કાર છતાં શ્રીલંકા જશે ભારતીય ટીમ, જાણો શું છે કારણ",
+    "desc": "T20 વર્લ્ડ કપ 2026 પહેલા પાકિસ્તાનના નાટક શરૂ થઈ ગયા છે. પાકિસ્તાને ભારત સામેની ગ્રુપ મેચ રમવાનો ઈન્કાર કરી દીધો છે, ત્યારે આ બધા વચ્ચે એ સમાચાર સામે આવ્યા છે કે પાકિસ્તાને બહિષ્કાર કર્યો હોવા છતાં ભારતીય ટીમ શ્રીલંકા જશે, ત્યારે આ લેખમાં જાણીશું કે, આના પાછળનું કારણ શું છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ncp-leader-sunil-tatkare-big-statement-we-are-with-nda-know-what-said-about-merger-speculation-463677 ",
-    "time": "2026-02-02T04:32:08.000Z"
+    "url": " http://zeenews.india.com/gujarati/sports/indian-team-will-go-to-sri-lanka-despite-pakistan-boycott-know-the-reason-463698 ",
+    "time": "2026-02-02T06:58:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ચાંદી 1.86 લાખ રૂપિયા તૂટી, સોનું 40000 રૂપિયા સસ્તું થયું, ધડાધડ કેમ ઘટ્યા ભાવ? કારણ જાણો, શું કહે છે એક્સપર્ટ્સ",
+    "desc": "સોના અને ચાંદીમાં ભયંકર કડાકો જોવા મળી રહ્યો છે. ભાવ ખુબ સસ્તા થયા છે. ત્યારે સ્વાભાવિક પણે એવો વિચાર આવે કે સોનું કે ચાંદી ખરીદવા માટે આ સમય યોગ્ય છે કે નહીં? તાબડતોડ ભાવ ઘટાડા પાછળ કારણો કયા છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-plunge-should-you-buy-now-or-not-check-what-experts-say-latest-gold-rate-463693 ",
+    "time": "2026-02-02T06:57:58.000Z"
   },
   {
     "cat": "Business",
@@ -15,7 +24,43 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-rate-today-huge-fall-in-gold-silver-prices-know-the-latest-rates-aaj-no-sona-chandi-no-bhav-463678 ",
-    "time": "2026-02-02T04:25:21.000Z"
+    "time": "2026-02-02T06:53:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ભારત-પાકિસ્તાન મેચમાં વિવાદ...પાકિસ્તાનીએ તોડ્યો નિયમ ! હવે ICC ફટકારશે સજા ?",
+    "desc": "ICC અંડર-19 વર્લ્ડ કપ 2026માં ભારત-પાકિસ્તાન મેચ દરમિયાન પાકિસ્તાનના મેન્ટર સરફરાઝ અહેમદ ફોનનો ઉપયોગ કરતા જોવા મળ્યા હતા. આ ફોટો વાયરલ થઈ રહ્યો છે. ત્યારે સવાલ ઉઠી રહ્યા છે કે શું હવે ICC તેની સામે એક્શન લેશે ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/sarfraz-ahmed-using-smartphone-during-u19-ind-vs-pak-match-icc-rules-463692 ",
+    "time": "2026-02-02T06:18:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ભારત સામે નોકઆઉટમાં પણ નહીં રમે પાકિસ્તાન ? જો આવું થાય છે તો કોને થશે ફાયદો ? જાણો નિયમ",
+    "desc": "પાકિસ્તાને ભારત સામેની ગ્રુપ મેચનો બહિષ્કાર કરવાનો નિર્ણય લીધો છે. આ નિર્ણય ગ્રુપ A માટે ક્વોલિફિકેશન ગણિતને સંપૂર્ણપણે બદલી નાખશે. આ ઉપરાંત પાકિસ્તાને નોકઆઉટમાં ભારત સામે રમશે કે નહીં, તે અંગે પણ સ્પષ્ટતા કરી નથી, ત્યારે જો તે નોકઆઉટમાં ભારત સામે રમશે નહીં તો કોને ફાયદો થશે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-india-vs-pakistan-knockout-scenario-explained-463687 ",
+    "time": "2026-02-02T05:44:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "31મી વખત ડિવિડન્ડ આપી રહી છે આ કંપની, દરેક શેર પર 180 રૂપિયાનો ફાયદો, જાણો રેકોર્ડ ડેટ",
+    "desc": "હંમેશા ડિવિડન્ડ આપનારી કંપનીઓમાં Gillette India Ltd નું નામ સામેલ છે. આ વખતે કંપની દરેક શેર પર 180 રૂપિયાનું ડિવિડન્ડ આપી રહી છે. આ માટે જે રેકોર્ડ ડેટ જાહેર કરવામાં આવી છે તે નજીક છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gillette-india-ltd-will-give-180-rupee-dividend-record-date-this-week-check-here-463685 ",
+    "time": "2026-02-02T05:16:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મહારાષ્ટ્રના રાજકારણમાં ચોંકાવનારો વળાંક, દિગ્ગજ NCP નેતાએ આપ્યું એવું નિવેદન, શરદ પવારને લાગશે ઝટકો",
+    "desc": "મહારાષ્ટ્રના રાજકારણમાં ભારે ગરમાવો જોવા મળી રહ્યો છે. અજિત પવારના નિધન બાદ બંને જૂથોનું વિલય થશે કે કેમ? આ બધા વચ્ચે તેમની પાર્ટીના એક દિગ્ગજ નેતાએ વિલય પર એવું નિવેદન આપી દીધુ કે શરદ પવારને આ જાણીને ઝટકો લાગે તે સ્વાભાવિક છે. જાણો તેમણે શું કહ્યું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/ncp-leader-sunil-tatkare-big-statement-we-are-with-nda-know-what-said-about-merger-speculation-463677 ",
+    "time": "2026-02-02T04:32:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -106,15 +151,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/agriculture/budget-2026-agriculture-sector-nirmala-sitharaman-announcement-for-farmers-463609 ",
     "time": "2026-02-01T09:06:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "શું થયું સસ્તું અને શું થયું મોંઘું, નાણામંત્રીએ કરી મોટી જાહેરાતો, ચેક કરો લિસ્ટ",
-    "desc": "કેન્દ્રીય નાણાં પ્રધાન નિર્મલા સીતારમણ આજે, રવિવાર, 1 ફેબ્રુઆરીના રોજ તેમનું સતત નવમું બજેટ રજૂ કરી રહ્યા છે. બજેટ રજૂ થયા બાદ, સામાન્ય માણસનું ધ્યાન હવે કઈ વસ્તુઓ સસ્તી થશે કે મોંઘી થશે તેના પર કેન્દ્રિત છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/what-became-cheap-and-what-became-expensive-finance-minister-made-big-announcements-check-the-list-463587 ",
-    "time": "2026-02-01T08:48:35.000Z"
   },
   {
     "cat": "Politics",
@@ -522,24 +558,6 @@ const newsData_gu = [
     "time": "2026-01-29T07:17:14.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "T20 વર્લ્ડ કપ પહેલા ક્રિકેટ જગતમાં ભૂકંપ ! મેચ ફિક્સિંગમાં ફસાયો સ્ટાર ક્રિકેટર, ICCએ કર્યો સસ્પેન્ડ",
-    "desc": "ICC અને ક્રિકેટ વેસ્ટ ઈન્ડિઝ (CWI)એ એક આંતરરાષ્ટ્રીય ક્રિકેટરને મેચ ફિક્સિંગના પાંચ ગંભીર આરોપોમાં દોષિત ઠેરવ્યો છે. આરોપો લાગ્યા બાદ તેને તાત્કાલિક તમામ પ્રકારની ક્રિકેટમાંથી સસ્પેન્ડ કરી દેવામાં આવ્યો છે. આ ખેલાડી 2026ના T20 વર્લ્ડ કપ માટેની તૈયારીઓનો ભાગ હતો, પરંતુ હવે તે ટીમની પસંદગીમાંથી બહાર થઈ ગયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/icc-suspend-usa-cricketer-aaron-jones-ahed-of-t20-world-cup-2026-463224 ",
-    "time": "2026-01-29T06:31:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ક્યાં થાપ ખાઈ ગઈ ટીમ ઈન્ડિયા ? આ રહ્યું ભારતની હારનું સૌથી મોટું કારણ",
-    "desc": "ભારત અને ન્યુઝીલેન્ડ વચ્ચે વિશાખાપટ્ટનમમાં ચોથી T20 મેચ રમાઈ હતી. આ મેચમાં ભારતને કારમી હારનો સામનો કરવો પડ્યો. આ હાર માટેના કારણો શું છે અને ટીમ ઈન્ડિયાએ ક્યાં મોટી ભૂલ કરી તેના વિશે આ લેખમાં જાણવાનો પ્રયત્ન કરીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-4th-t20-india-loss-reasons-analysis-463219 ",
-    "time": "2026-01-29T05:32:17.000Z"
-  },
-  {
     "cat": "World",
     "title": "ફરી એક મોટી પ્લેન દુર્ઘટના; લેન્ડિંગ પહેલા વિમાન તૂટી પડ્યું, સાંસદ સહિત 15 લોકોના કમકમાટીભર્યા મોત",
     "desc": "કોલંબિયાનું એક વિમાન વેનેઝુએલાની સરહદ નજીક ગુમ થયું છે, જેનો કાટમાળ મળી આવ્યો છે, જેમાં કોલંબિયાના એક ધારાસભ્ય સહિત તમામ 15 લોકોના મોત થયા હોવાનું સામે આવ્યુંછે. વિમાન લેન્ડિંગ પહેલા જ ગાયબ થઈ ગયું હતું, જેના કારણે બંને દેશોની પોલીસ અને વાયુસેના દ્વારા શોધખોળ શરૂ કરવામાં આવી હતી.",
@@ -675,15 +693,6 @@ const newsData_gu = [
     "time": "2026-01-27T04:30:53.000Z"
   },
   {
-    "cat": "World",
-    "title": "ટ્રમ્પની ધમકી બાદ ખામેનઈ ગાયબ! શું અમેરિકાના ડરથી બંકરમાં સંતાયા ઈરાની સુપ્રીમ લીડર?",
-    "desc": "જે દિવસથી ટ્રમ્પે ખામેનઈને ચેતવણી આપી છે કે ઈરાનમાં હવે નવી સત્તાનો સમય આવી ગયો છે. તે દિવસથી ખામેનેઈ જાહેરમાં દેખાયા નથી. આજે એક અઠવાડિયા કરતા વધુ સમય થઈ ગયો છે. ટ્રંપે સત્તા બદલવાની ધમકી આપતા જ મિડલ ઈસ્ટમાં પોતાના યુદ્ધ જહાજ રવાના કરી દીધા છે. તો શું ખામેનેઈ અમેરિકાની હુમલાના ભયથી બંકરમાં સંતાઈ ગયા છે. કેમ કે, દુનિયાભરમાં હાલ એ ક સવાલ થઈ રહ્યો છે કે ખામેનેઈ ક્યાં ગાયબ થયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/iran-us-tension-ayatollah-ali-khamenei-donald-trump-khamenei-hiding-in-bunker-masoud-khamenei-463018 ",
-    "time": "2026-01-26T17:36:07.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ધુરંધર ફિલ્મના આ એક્ટર પર લાગ્યો કામવાળીનું શારીરિક શોષણ કર્યાનો ગંભીર આરોપ, પોલીસે કરી કાર્યવાહી",
     "desc": "ધુરંધર ફિલ્મના એક્ટર નદીમ ખાન પર ગંભીર આરોપ લાગ્યા છે. તેની કામવાળીએ આરોપ લગાવ્યો છે કે એક્ટર લગ્ન કરવાની વાત કરી છેલ્લા 10 વર્ષથી તેનું શારીરિક શોષણ કરે છે. આ મામલે પોલીસ કાર્યવાહી થઈ હોવાની વાત પણ સામે આવી છે.",
@@ -727,14 +736,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/5-cars-under-rs-6-lakh-for-max-mileage-perfect-for-city-driving-462641 ",
     "time": "2026-01-23T09:41:35.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "પેરેન્ટ્સ માટે ખુશખબર! બાળકોના WhatsApp પર મળશે પૂરું કંટ્રોલ, જાણો કેવી રીતે કામ કરશે આ નવું ફીચર",
-    "desc": "WhatsApp બાળકોની સુરક્ષાને લઈને એક મોટું પગલું ભરવા જઈ રહ્યું છે. નવા Beta અપડેટમાં Parental Control અને Secondary Account ફીચરના સંકેત મળ્યા છે, જેનાથી માતા-પિતા બાળકોના WhatsApp ઉપયોગ પર સંપૂર્ણ નજર અને નિયંત્રણ રાખી શકશે. જાણો આ ફીચર કેવી રીતે કામ કરશે અને બાળકો માટે શું ફેરફાર આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/good-news-for-parents-youll-get-complete-control-over-your-childrens-whatsapp-activity-462637 ",
-    "time": "2026-01-23T08:15:51.000Z"
   }
 ];
