@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India set to follow ICC protocol and travel to Sri Lanka amid Pakistan's call to not compete: Report",
+    "desc": "The T20 World Cup 2026 is all set to kick off on February 7. The marquee tournament will be held in India and Sri Lanka, and ahead of the start of the tournament, the Pakistan...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-set-to-follow-icc-protocol-and-travel-to-sri-lanka-amid-pakistan-s-call-to-not-compete-report-2026-02-02-1028537",
+    "time": "2026-02-02T01:48:49.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ICC issues first official statement after Pakistan's refusal to play group game vs India in T20 World Cup 2026",
     "desc": "The International Cricket Council (ICC) has issued its first official statement after the Pakistan government directed its team to not play the T20 World Cup 2026 group stage match against India on February 15. In its...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-asks-rafael-nadal-if-he-wants-to-play-during-australian-open-final-watch-video-2026-02-01-1028498",
     "time": "2026-02-01T13:14:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Did Novak Djokovic drop hint on retirement at Australian Open 2026 closing ceremony?",
-    "desc": "Novak Djokovic put up a brilliant fight against Carlos Alcaraz in the Australian Open 2026 final but ended up as the runner-up despite his marvelous effort at the Rod Laver Arena on Sunday, February 1. Djokovic...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/did-novak-djokovic-drop-hint-on-retirement-at-australian-open-2026-closing-ceremony-2026-02-01-1028492",
-    "time": "2026-02-01T12:43:07.000Z"
   }
 ];

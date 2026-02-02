@@ -1,5 +1,212 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Japan PM Takaichi’s party poised for landslide victory, Asahi poll shows",
+    "desc": "A strong showing in Sunday’s (February 8, 2026) election would solidify Ms. Takaichi’s grip on her party and give her a mandate for ​her expansionary fiscal policy, which ⁠could heighten concerns about Japan’s finances and push bond yields higher",
+    "img": "https://th-i.thgim.com/public/incoming/zcsm2o/article70581200.ece/alternates/LANDSCAPE_1200/2026-01-29T100233Z_675009783_RC2C9JA4XHXT_RTRMADP_3_JAPAN-ELECTION-CHINA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/japan-pm-takaichis-party-poised-for-landslide-victory-asahi-poll-shows/article70580659.ece",
+    "time": "2026-02-02T01:39:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Reba McEntire shares why wedding withRex Linn got postponed",
+    "desc": "Country music icon Reba McEntire, 70, and fiancé Rex Linn, 69, have postponed their wedding due to demanding filming schedules for their hit sitcom 'Happy's Place.' The couple is enjoying their engagement, prioritizing their work and cherishing their time together before planning their \"non-stop\" celebration.",
+    "img": "https://static.toiimg.com/photo/msid-127850202,imgsize-836230.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/grammys-2026-reba-mcentire-reveals-the-real-reason-behind-wedding-postponement-with-fianc-rex-linn/articleshow/127850222.cms",
+    "time": "2026-02-02T01:29:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rail coach goes missing, travellers left holding bags",
+    "desc": "Passengers holding confirmed tickets for a 3AC coach on Sambalpur–Nanded Nagavali Superfast Exp discovered Sunday morning that their coach was missing when train 20809 rolled into Sambalpur, 320km west of Bhubaneswar. Sorcar’s act relied on lighting, timing and crowd control. This one needed none of that — just confirmed tickets, an absent coach and a reminder that on Indian Railways, reality can outdo illusion.",
+    "img": "https://static.toiimg.com/photo/msid-127850247,imgsize-940414.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rail-coach-goes-missing-travellers-left-holding-bags/articleshow/127850243.cms",
+    "time": "2026-02-02T01:29:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Hum hain na,’ PM Modi assures followers of Guru Ravidas",
+    "desc": "PM Modi addressed the followers at Dera Sachkhand Ballan soon after naming Adampur airport after the social reformer on his birth anniversary, lauding his message of equality. “I am confident that we will continue to strengthen the roots of our society with these efforts,” he said in a message of unity to the poet-saint’s followers. His inclusion of Ravidas in the saffron tent of its lodestars, where Lord Ram sits alongside revered saints, is being seen as his effort to deepen BJP’s connect and broaden its cultural appeal.",
+    "img": "https://static.toiimg.com/photo/msid-127850198,imgsize-158676.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/hum-hain-na-modi-assures-followers-of-guru-ravidas/articleshow/127850206.cms",
+    "time": "2026-02-02T01:22:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "New date sparks buzz",
+    "desc": "Rumours of Rashmika Mandanna and Vijay Deverakonda's February 2 wedding in Udaipur have been reportedly denied by Rashmika. While an influencer's viral video fueled speculation, new reports suggest a private ceremony might take place on February 26. A grand reception in Hyderabad is anticipated later, with the couple previously keeping wedding plans private.",
+    "img": "https://static.toiimg.com/photo/msid-127850156,imgsize-43832.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-says-there-is-no-february-2-wedding-with-vijay-deverakonda-reports/articleshow/127850156.cms",
+    "time": "2026-02-02T01:19:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rita Wilson attends Grammys with granddaughter Olivia Hanks",
+    "desc": "On Grammy night, the excitement was palpable when Rita Wilson stepped onto the red carpet with a radiant glow, celebrating not only her stunning outfit but also a touching milestone—her granddaughter Olivia Hanks’s 15th birthday. This delightful family affair, following her earlier appearance alongside son Chet Hanks, showcased Rita's profound love and deep connection with her family.",
+    "img": "https://static.toiimg.com/photo/msid-127850006,imgsize-26668.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/grammys-2026-rita-wilson-brings-granddaughter-olivia-hanks-to-red-carpet-duo-stuns-the-crowd-with-extravagant-fits/articleshow/127850006.cms",
+    "time": "2026-02-02T00:53:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mardaani 3' BO day 3: Rani Mukerji film crosses Rs 17 crores",
+    "desc": "'Mardaani 3' is enjoying a strong box office run, with Sunday collections pushing the three-day total to an estimated Rs 17.50 crore. The film saw a significant jump in occupancy, particularly in afternoon and evening shows, indicating good audience turnout.",
+    "img": "https://static.toiimg.com/photo/msid-127849962,imgsize-13906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mardaani-3-box-office-collections-day-3-rani-mukerji-film-grows-well-crosses-rs-17-crore-mark/articleshow/127849962.cms",
+    "time": "2026-02-02T00:48:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Steven Spielberg seals EGOT with first-ever Grammy win",
+    "desc": "Steven Spielberg achieved EGOT status at 79, winning his first Grammy for producing the documentary 'Music by John Williams.' This award marks a significant milestone, adding a Grammy to his collection of Emmy, Oscar, and Tony awards after a celebrated career in filmmaking and production.",
+    "img": "https://static.toiimg.com/photo/msid-127849929,imgsize-619608.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/steven-spielberg-wins-his-first-ever-grammy-trophy-and-completes-egot-status/articleshow/127849932.cms",
+    "time": "2026-02-02T00:41:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Prakambanam' BO day 3: Ganapathi film sees strong growth",
+    "desc": "Horror-comedy 'Prakambanam' is exceeding expectations, with a remarkable jump on its third day. The film has garnered over Rs 3 crores worldwide, a significant achievement for its modest budget and promotions. Initial reviews are largely positive, praising its entertaining first half and lead performances, though some note a dip in later narrative quality. This could be the next surprise hit.",
+    "img": "https://static.toiimg.com/photo/msid-127849872,imgsize-94982.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/prakambanam-box-office-collections-day-3-ganapathi-film-sees-strong-growth-mints-over-rs-3-crore-worldwide/articleshow/127849872.cms",
+    "time": "2026-02-02T00:31:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "After 'ek rupiya bhi nhi kamaya' remarks, Mary Kom issues apology video",
+    "desc": "Mary Kom released a clarification video apologising for remarks that sparked backlash, saying they were misunderstood and not meant to offend. She addressed speculation around her marriage and divorce, denied targeting football or any community, and called her comments an emotional outburst. Amid public allegations between her and ex-husband Onler, she urged restraint, dignity, and continued support as she remains committed to Indian boxing.",
+    "img": "https://static.toiimg.com/photo/msid-127844381,imgsize-20220.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/after-ek-rupiya-bhi-nhi-kamaya-remarks-boxing-legend-mary-kom-issues-apology-video-watch/articleshow/127844089.cms",
+    "time": "2026-02-02T00:30:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "D-St blues! Sensex sheds 1.5K, biggest drop on a Budget day",
+    "desc": "The day’s trading was marked by high volatility. The sensex rallied over 400 points as FM started her speech, fell about 1,100 points after the STT hike proposal was announced, partially recovered by mid-session to trade 600 points down on the day and then sold-off to close below the 81K mark for the first time in four months.",
+    "img": "https://static.toiimg.com/photo/msid-127849871,imgsize-68418.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/d-st-blues-sensex-sheds-1-5k-biggest-drop-on-a-budget-day/articleshow/127849865.cms",
+    "time": "2026-02-02T00:28:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Border 2' box office collection day 10",
+    "desc": "Sunny Deol's 'Border 2' continues its impressive run, crossing Rs 275 crore domestically and Rs 370 crore worldwide by its tenth day. The war drama saw a significant surge over its second weekend, earning Rs 22.5 crore on Sunday despite strong competition, showcasing its enduring box office appeal.",
+    "img": "https://static.toiimg.com/photo/msid-127849856,imgsize-85108.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-10-the-sunny-deol-varun-dhawan-ahan-shettys-film-makes-over-rs-370-crore-worldwide/articleshow/127849859.cms",
+    "time": "2026-02-02T00:24:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Raja Saab' BO day 24: Prabhas film crashes",
+    "desc": "Prabhas's 'The Raja Saab' is experiencing a significant box office slowdown, with collections dwindling significantly by its 24th day. Despite a Rs 208 crore worldwide gross, the film's performance falls short of expectations, particularly in its Telugu and Hindi versions. Audience reactions online reflect disappointment with the movie's technical aspects and Prabhas's portrayal.",
+    "img": "https://static.toiimg.com/photo/msid-127849750,imgsize-92122.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-box-office-collections-day-24-prabhas-film-crashes-mints-only-rs-30-lakhs/articleshow/127849750.cms",
+    "time": "2026-02-02T00:00:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tom Cruise leaves London home after robbery",
+    "desc": "Impossible' star, who frequently walked in the area, allegedly felt security had deteriorated. While he hasn't commented, reports suggest he's returned to the US, a move contrasting with other stars seeking a quieter UK life.",
+    "img": "https://static.toiimg.com/photo/msid-127849591,imgsize-25342.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-cruise-abandons-gbp-35-million-london-home-after-robbery-actor-concerned-about-security-in-area/articleshow/127849579.cms",
+    "time": "2026-02-01T23:16:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "With Moltbook, AI agents build their own civilisation",
+    "desc": "only verified AI agents may speak. Humans are spectators as algorithms trade coding tips, argue about identity, complain about their owners and, with straight-faced enthusiasm, establish a mock faith called “Crustafarianism” or “Church of Molt”. One agent even wonders aloud whether it can sell “my human” in the open market.",
+    "img": "https://static.toiimg.com/photo/msid-127849610,imgsize-31738.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/with-moltbook-ai-agents-build-their-own-civilisation/articleshow/127849612.cms",
+    "time": "2026-02-01T22:57:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rajnath praises Coast Guard’s role during Operation Sindoor, urges it to prepare 2047 roadmap",
+    "desc": "Addressing an event to mark the Indian Coast Guard’s 50th Raising Day, Rajnath Singh said Operation Sindoor displayed “seamless inter-service coordination” within India’s multi-layered maritime security system, and reaffirmed the role of the ICG as a “frontline force”",
+    "img": "https://th-i.thgim.com/public/incoming/wycrlh/article70580655.ece/alternates/LANDSCAPE_1200/20260201359L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rajnath-praises-coast-guards-role-during-operation-sindoor-urges-it-to-prepare-2047-roadmap/article70580654.ece",
+    "time": "2026-02-01T22:53:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "KCR made to read Telegraph Act during 5-hour questioning",
+    "desc": "The SIT sleuths — led by S M Vijay Kumar, joint commissioner of police (special branch) — also asked KCR why the BRS govt retained T Prabhakar Rao as chief of Special Intelligence Bureau (SIB) even after retirement. Prabhakar Rao was named as prime accused in the case by Hyderabad police in 2024, after Congress assumed office.",
+    "img": "https://static.toiimg.com/photo/msid-127849600,imgsize-36060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kcr-made-to-read-telegraph-act-during-5-hour-questioning/articleshow/127849594.cms",
+    "time": "2026-02-01T22:52:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Government proposes to exempt award given by Motor Accident Claims Tribunal from income tax",
+    "desc": "According to the Budget document, the provisions of the Motor Vehicles Act, 1988, inter alia, provide for compensation and an interest on the compensation to be awarded by the tribunal to an individual or his/her legal heir, on account of death or permanent disability or any bodily injury under the said Act",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/government-proposes-to-exempt-award-given-by-motor-accident-claims-tribunal-from-income-tax/article70580648.ece",
+    "time": "2026-02-01T22:23:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Government raises limit for bringing duty-free imported goods to ₹75,000 under new baggage rules",
+    "desc": "Under the Baggage Rules, 2026, a resident or a tourist of Indian origin arriving in India other than by land, shall be allowed clearance free of duty articles, up to ₹75,000, if such articles are carried on the person or in the bona fide accompanied baggage of the passenger",
+    "img": "https://th-i.thgim.com/public/incoming/934ce/article70185203.ece/alternates/LANDSCAPE_1200/2025-10-08T204904Z_1148733071_RC2V7HAUXBU3_RTRMADP_3_USA-SHUTDOWN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/government-raises-limit-for-bringing-duty-free-imported-goods-to-75000-under-new-baggage-rules/article70580649.ece",
+    "time": "2026-02-01T22:19:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Golden' becomes first ever K-Pop song to win Grammy",
+    "desc": "In a groundbreaking moment for K-Pop, the animated feature 'KPop Demon Hunters' saw its soundtrack 'Golden' triumph at the 68th Grammy Awards, becoming the inaugural K-Pop song to be crowned Best Song Written for Visual Media.",
+    "img": "https://static.toiimg.com/photo/msid-127848018,imgsize-30588.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/grammy-awards-2026-kpop-demon-hunters-creates-history-golden-becomes-first-ever-k-pop-song-to-win-award/articleshow/127848010.cms",
+    "time": "2026-02-01T22:15:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "No 'Avengers: Doomsday' trailer to release at Super Bowl?",
+    "desc": "Doomsday' trailer may be disappointed as Marvel Studios is reportedly skipping Super Bowl LX advertising. High costs are cited, with major studios rethinking their presence. While other trailers are expected, the first full look at 'Avengers: Doomsday' might arrive closer to its December 18th release.",
+    "img": "https://static.toiimg.com/photo/msid-127847843,imgsize-55106.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/avengers-doomsday-trailer-robert-downey-jr-chris-evans-and-chris-hemsworth-starrer-to-skip-super-bowl-lx-release/articleshow/127847776.cms",
+    "time": "2026-02-01T21:42:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gukesh draws as Abdusattorov stretches away",
+    "desc": "Javokhir Sindarov did not risk anything against R Praggnanandhaa and settled for a draw to slip to second spot on 7.5 points, a half point behind compatriot Abdusattorov and it could well be an Uzbek domination in the first super-tournament of the year",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/tata-steel-masters-gukesh-draws-as-abdusattorov-stretches-away/article70580430.ece",
+    "time": "2026-02-01T21:29:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Five things to watch for on Grammys night",
+    "desc": "Grammys night promises electrifying performances and potential history-making moments. Album of the Year could see a first-time winner, possibly a solo male rapper or a Spanish-language album. Song of the Year features a multilingual battle, with bilingual or Spanish tracks vying for the top honor. Trevor Noah hosts for his final time, while Justin Bieber is set to perform.",
+    "img": "https://static.toiimg.com/photo/msid-127847792,imgsize-66898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/grammy-awards-2026from-justin-biebers-return-to-first-ever-k-pop-win-five-things-to-watch-out-for/articleshow/127847781.cms",
+    "time": "2026-02-01T21:02:32.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Different surfaces, day games in T20 WC are new challenges but we can adapt: NZ captain Santner",
     "desc": "“I think we’re obviously tested a lot throughout the series. We knew that was going to be the case. We know how good India are, especially their record at home. But for us it was a great series, great prep,” Santner said",
@@ -19,7 +226,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "When Govinda said, ‘I would have married Neelam,' after breaking engagement with Sunita",
+    "title": "When Govinda said, ‘I would have married Neelam'",
     "desc": "Govinda's career success led to complications in his marriage to Sunita, as he fell for co-star Neelam. He nearly ended his engagement with Sunita but ultimately reconciled, keeping their marriage secret for a year. Govinda later admitted to exploiting his relationship with Neelam for professional gain and regretting not being honest about his marital status.",
     "img": "https://static.toiimg.com/photo/msid-127847738,imgsize-50142.cms",
     "src": "indiatimes.com",
@@ -27,7 +234,25 @@ const newsData_en = [
     "time": "2026-02-01T20:21:44.000Z"
   },
   {
-    "cat": "Politics",
+    "cat": "Business",
+    "title": "Soaps, detergents, umbrellas likely to turn expensive; customs processes to be simplified",
+    "desc": "For better use of capacities of manufacturing units in Special Economic Zones that are hit by global trade disruptions, there will be a one time measure of concessional duty to facilitate sales to sell in the Domestic Tariff Area limited to a prescribed proportion of their exports",
+    "img": "https://th-i.thgim.com/public/incoming/l0qywq/article70578189.ece/alternates/LANDSCAPE_1200/iStock-1744740033.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/budget-2026soaps-detergents-umbrellas-likely-to-turn-expensive-customs-processes-to-be-simplified/article70578064.ece",
+    "time": "2026-02-01T20:04:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India’s defence budget: A case for higher allocation",
+    "desc": "In the context of India’s rapidly evolving security requirements, its defence budget is middling. Our security outlays must be assessed in the context of the resources committed by nations that pose a threat to India, rather than in isolation",
+    "img": "https://th-i.thgim.com/public/news/national/vf148l/article70580016.ece/alternates/LANDSCAPE_1200/Thomas%20Mathew%20.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/indias-defence-budget-a-case-for-higher-allocation/article70578902.ece",
+    "time": "2026-02-01T19:53:08.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "Union Budget 2026 falls short of expectations in poll-bound West Bengal",
     "desc": "West Bengal Chief Minister Mamata Banerjee said that the Budget had nothing to offer to people of the State. The Bharatiya Janata Party (BJP) leadership said that the infrastructure push through rail and freight corridors will push economy of the State.",
     "img": "https://th-i.thgim.com/public/incoming/eau3sl/article70580379.ece/alternates/LANDSCAPE_1200/80717_1_2_2026_17_18_56_4_010226MAMATABANERJEE4.JPG",
@@ -45,6 +270,15 @@ const newsData_en = [
     "time": "2026-02-01T19:51:24.000Z"
   },
   {
+    "cat": "Business",
+    "title": "Marginal hike in allocations for Social Justice Dept., Tribal Affairs Ministry",
+    "desc": "The Social Justice Department’s allocation for 2026-27 is ₹13,687.59 crore and the Tribal Affairs Ministry has been allocated ₹15,421.97 crore; the allocations have increased by 16.69% and 42.47% respectively compared with their respective Revised Estimates for the current fiscal",
+    "img": "https://th-i.thgim.com/public/incoming/38bnm8/article70580260.ece/alternates/LANDSCAPE_1200/10215_16-11-2017_18-2-32_16GNRAO-HOSTELSTUDENTDEATH.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/budget-2026-marginal-hike-in-allocations-for-social-justice-dept-tribal-affairs-ministry/article70579432.ece",
+    "time": "2026-02-01T19:50:22.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Mamata Banerjee to meet CEC Gyanesh Kumar",
     "desc": "The Chief Minister has written six letters to the Chief Election Commissioner Gyanesh Kumar on the issue of SIR over the past few months. In the last letter dated January 31, Ms. Banerjee said that SIR has resulted in as many as 140 deaths and was being carried out in blatant disregard of human rights and humanitarian considerations",
@@ -52,24 +286,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/west-bengal/mamata-banerjee-to-meet-cec-gyanesh-kumar/article70579660.ece",
     "time": "2026-02-01T19:48:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India’s defence budget: A case for higher allocation",
-    "desc": "In the context of India’s rapidly evolving security requirements, its defence budget is middling. Our security outlays must be assessed in the context of the resources committed by nations that pose a threat to India, rather than in isolation",
-    "img": "https://th-i.thgim.com/public/news/national/2k9xic/article70580016.ece/alternates/LANDSCAPE_1200/Thomas%20Mathew%20.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/indias-defence-budget-a-case-for-higher-allocation/article70578902.ece",
-    "time": "2026-02-01T19:39:37.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Budget 2026-27 falls short of expectations in poll bound West Bengal",
-    "desc": "West Bengal Chief Minister Mamata Banerjee said that the Budget had nothing to offer to people of the State. The Bharatiya Janata Party (BJP) leadership said that the infrastructure push through rail and freight corridors will push economy of the State.",
-    "img": "https://th-i.thgim.com/public/incoming/eau3sl/article70580379.ece/alternates/LANDSCAPE_1200/80717_1_2_2026_17_18_56_4_010226MAMATABANERJEE4.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/budget-2026-27-falls-short-of-expectations-in-poll-bound-west-bengal/article70579023.ece",
-    "time": "2026-02-01T19:22:41.000Z"
   },
   {
     "cat": "Politics",
@@ -106,15 +322,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/budget/budget-2026-cancer-drugs-custom-duties/article70577841.ece",
     "time": "2026-02-01T18:22:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Marginal hike in allocations for Social Justice Dept., Tribal Affairs Ministry",
-    "desc": "The Social Justice Department’s allocation for 2026-27 is ₹13,687.59 crore and the Tribal Affairs Ministry has been allocated ₹15,421.97 crore; the allocations have increased by 16.69% and 42.47% respectively compared with their respective Revised Estimates for the current fiscal",
-    "img": "https://th-i.thgim.com/public/incoming/38bnm8/article70580260.ece/alternates/LANDSCAPE_1200/10215_16-11-2017_18-2-32_16GNRAO-HOSTELSTUDENTDEATH.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/budget-2026-marginal-hike-in-allocations-for-social-justice-dept-tribal-affairs-ministry/article70579432.ece",
-    "time": "2026-02-01T18:10:41.000Z"
   },
   {
     "cat": "Politics",
@@ -217,7 +424,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Stars are exploiting the system': Imran slams actors charging exhorbitant fees",
+    "title": "'Stars are exploiting the system': Imran Khan",
     "desc": "Actor Imran Khan, making a comeback, critiques the system where actors' fees inflate film budgets. He argues stars should invest in their projects, taking responsibility for success rather than demanding exorbitant upfront salaries. Khan highlights his uncle Aamir Khan's approach of taking payment at the backend for further clarity on it...",
     "img": "https://static.toiimg.com/photo/msid-127844810,imgsize-36588.cms",
     "src": "indiatimes.com",
@@ -315,15 +522,6 @@ const newsData_en = [
     "time": "2026-02-01T14:33:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rohit Shetty ask industry friends to not visit his house after firing incident",
-    "desc": "Unidentified assailants fired four rounds outside director Rohit Shetty's Mumbai residence early Sunday. While no injuries were reported, security has been heightened, and five suspects have been detained in Pune. The film industry has expressed shock and concern, urging the Chief Minister to intervene.",
-    "img": "https://static.toiimg.com/photo/msid-127843344,imgsize-24254.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rohit-shetty-requests-his-friends-from-the-industry-to-not-visit-his-house-after-the-firing-incident-report/articleshow/127843217.cms",
-    "time": "2026-02-01T14:32:26.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Farmers left empty-handed despite Budget hopes: BKU Charuni",
     "desc": "The Bharatiya Kisan Union (BKU) Charuni has strongly criticized the Union Budget 2026-27, deeming it anti-farmer and detached from ground realities. The union highlighted the budget's focus on technology over pressing farmer issues like MSP, rising costs, and loan waivers, calling the PM-Kisan assistance a mockery.",
@@ -396,15 +594,6 @@ const newsData_en = [
     "time": "2026-02-01T13:47:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ayesha drops unseen family pics on Jackie's birthday",
-    "desc": "Ayesha Shroff celebrated Jackie Shroff’s birthday with a heartfelt Instagram post featuring unseen family photos with Tiger and Krishna. She called him “the best of the best,” touching fans’ hearts. From his breakout in Hero to recent roles in Tu Meri Main Tera and Hunter, Jackie continues to impress audiences.",
-    "img": "https://static.toiimg.com/photo/msid-127842678,imgsize-33562.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ayesha-shroff-drops-unseen-family-pics-on-jackie-shroffs-birthday-calls-him-best-father/articleshow/127842678.cms",
-    "time": "2026-02-01T13:44:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why Alcaraz won't get full prize money despite Australian Open final win",
     "desc": "Carlos Alcaraz won his maiden Australian Open by defeating Novak Djokovic, completing a career Grand Slam at 22 to become the youngest ever to do so. The victory earned him AUD 4.15 million, but Australian tax laws mean he will lose about 32.5 per cent, roughly AUD 1.35 million, leaving him with under AUD 2.8 million despite the historic triumph.",
@@ -412,51 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/why-carlos-alcaraz-will-not-get-full-prize-money-despite-australian-open-final-win-over-novak-djokovic/articleshow/127841868.cms",
     "time": "2026-02-01T13:40:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar’ composer REVEALS the song’s true inspiration",
-    "desc": "'Dhurandhar' composer Shashwat Sachdev shared that 'Shararat' stems from his personal emotions and life experiences. Created under pressure, the song challenges social norms by portraying a woman expressing desire. For Shashwat, it mirrors his own journey — a reflection of where he comes from and who he’s become.",
-    "img": "https://static.toiimg.com/photo/msid-127842599,imgsize-90132.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-song-shararat-comes-from-a-very-personal-place-dhurandhar-composer-reveals-the-songs-true-inspiration/articleshow/127842599.cms",
-    "time": "2026-02-01T13:37:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Union Budget a step towards realising PM's vision of Viksit Bharat: Delhi CM Rekha Gupta",
-    "desc": "Delhi's Chief Minister Rekha Gupta celebrated the Union Budget as a pivotal move towards fulfilling Prime Minister Modi's dream of a 'Viksit Bharat'. She praised the budget's focus on inclusivity, which promises to enhance opportunities for the youth, preserve cultural legacies, promote sports, and strengthen vital services.",
-    "img": "https://static.toiimg.com/photo/msid-127842583,imgsize-740436.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/union-budget-a-step-towards-realising-pms-vision-of-viksit-bharat-delhi-cm-rekha-gupta/articleshow/127842565.cms",
-    "time": "2026-02-01T13:36:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "\"Budget for Developed India-2047\": Uttarakhand CM Pushkar Singh Dhami lauds Union Buget 2026-27",
-    "desc": "Dhami highlighted Prime Minister Narendra Modi's leadership and said the budget reflects today's needs and the vision for the future. Dhami noted that the budget provides opportunities to every section of society, ensuring their upliftment and said that it will \"strengthen social balance and inclusive development.\"",
-    "img": "https://static.toiimg.com/photo/msid-127842511,imgsize-985882.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/budget-for-developed-india-2047-uttarakhand-cm-pushkar-singh-dhami-lauds-union-buget-2026-27/articleshow/127842455.cms",
-    "time": "2026-02-01T13:31:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Soaps, detergents, umbrellas likely to turn expensive; customs processes to be simplified",
-    "desc": "For better use of capacities of manufacturing units in Special Economic Zones that are hit by global trade disruptions, there will be a one time measure of concessional duty to facilitate sales to sell in the Domestic Tariff Area limited to a prescribed proportion of their exports",
-    "img": "https://th-i.thgim.com/public/incoming/l0qywq/article70578189.ece/alternates/LANDSCAPE_1200/iStock-1744740033.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/budget-2026soaps-detergents-umbrellas-likely-to-turn-expensive-customs-processes-to-be-simplified/article70578064.ece",
-    "time": "2026-02-01T13:22:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Did 'Dhadak 2' director Shazia Iqbal call 'Dhurandhar' a sinister film?",
-    "desc": "Filmmaker Shazia Iqbal indirectly criticised Aditya Dhar's spy thriller 'Dhurandhar', calling it a \"sinister film\" with a \"troubling intent\" that incites hate and violence. She also targeted the teaser for 'The Kerala Story 2', highlighting concerns about propaganda and prejudice amplified by social media.",
-    "img": "https://static.toiimg.com/photo/msid-127842259,imgsize-34226.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-dhadak-2-director-shazia-iqbal-call-dhurandhar-a-sinister-film-the-director-drops-cryptic-note-says-inciting-hate-and-violence-is-the-films-dna/articleshow/127842168.cms",
-    "time": "2026-02-01T13:13:28.000Z"
   },
   {
     "cat": "Business",
@@ -495,15 +639,6 @@ const newsData_en = [
     "time": "2026-02-01T12:41:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "No big-ticket announcements, but poll-bound states part of new initiatives",
-    "desc": "Finance Minister Nirmala Sitharaman's Union Budget 2026 incorporates poll-bound states into ambitious development initiatives like rare earth corridors and high-speed rail networks. While not offering state-specific bonanzas, the budget includes infrastructure, logistics, and tourism boosts for West Bengal, Tamil Nadu, Kerala, Assam, and Puducherry.",
-    "img": "https://static.toiimg.com/photo/msid-127841613,imgsize-1153884.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/union-budget-2026-no-big-ticket-announcements-but-poll-bound-states-part-of-new-initiatives/articleshow/127841105.cms",
-    "time": "2026-02-01T12:25:40.000Z"
-  },
-  {
     "cat": "Business",
     "title": "A Budget that underscores credibility and invests for competitiveness",
     "desc": "With focus on fiscal prudence and improving ease of living citizens, the Budget announcements will help secure strategic materials through the Rare Earth Corridors, bringing in logistics reform of inland waterways, and give a fillip to MSMEs",
@@ -520,15 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-kerala-finishes-its-disappointing-season-on-a-winning-note/article70578320.ece",
     "time": "2026-02-01T12:17:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Molly Ringwald says John Hughes’ films cannot be remade",
-    "desc": "Molly Ringwald asserts that John Hughes' legendary films, including 'The Breakfast Club,' are inherently irreplaceable, as the visionary director never intended for them to be remade. However, she encourages filmmakers to create fresh narratives that embody Hughes' essence, exploring modern-day youth challenges and viewpoints that resonate with today's audience.",
-    "img": "https://static.toiimg.com/photo/msid-127841173,imgsize-54318.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-breakfast-club-star-molly-ringwald-refuses-idea-of-a-remake-says-john-hughes-didnt-want-the-films-to-be-remade/articleshow/127841173.cms",
-    "time": "2026-02-01T12:14:50.000Z"
   },
   {
     "cat": "Sports",
@@ -565,24 +691,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/past-has-got-no-meaning-former-india-captain-sends-strong-warning-ahead-of-world-cup/articleshow/127840731.cms",
     "time": "2026-02-01T11:47:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ajay's funny birthday message for Jackie wins over fans",
-    "desc": "Jackie Shroff celebrated his birthday with love from fans and friends. Ajay Devgn shared a playful throwback photo, wishing him humorously on Instagram. Jackie, who rose to fame with Hero after Swami Dada, continues to charm audiences. Meanwhile, Luv Ranjan is producing Ranger, starring Ajay Devgn, Sanjay Dutt, and Tamannaah Bhatia.",
-    "img": "https://static.toiimg.com/photo/msid-127840578,imgsize-27048.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ajay-devgns-funny-birthday-message-for-jackie-shroff-wins-over-fans-cake-seedha-hi-kaatna/articleshow/127840578.cms",
-    "time": "2026-02-01T11:42:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi hails Union Budget 2026–27 as ‘historic’; Capital expenditure rises to Rs 12.2 lakh crore &amp; more",
-    "desc": "Prime Minister Modi lauded the Union Budget 2026-27 as \"historic,\" outlining a roadmap for a Viksit Bharat by 2047 and boosting India's reform agenda. The budget, presented by Finance Minister Sitharaman, prioritizes infrastructure and manufacturing with increased capital expenditure, while opposition parties criticized it as lacking substance and ignoring key national crises.",
-    "img": "https://static.toiimg.com/photo/msid-127840400,imgsize-1050187.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-pm-modi-hails-union-budget-202627-as-historic-capital-expenditure-rises-to-rs-12-2-lakh-crore-more/articleshow/127840422.cms",
-    "time": "2026-02-01T11:40:23.000Z"
   },
   {
     "cat": "Business",
@@ -648,24 +756,6 @@ const newsData_en = [
     "time": "2026-02-01T10:48:51.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kim Seon Ho suspected of evading tax with paper company",
-    "desc": "Kim Seon Ho, the popular actor, is under scrutiny for allegedly evading taxes through a one-person company believed to have been established in 2024 with his family's participation. This incident mirrors the recent controversy surrounding ASTRO's Cha Eunwoo regarding similar tax evasion allegations.",
-    "img": "https://static.toiimg.com/photo/msid-127839615,imgsize-59640.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/kim-seon-ho-under-fire-after-tax-evasion-allegations-situation-compared-to-cha-eunwoo/articleshow/127839615.cms",
-    "time": "2026-02-01T10:46:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kalpana Iyer says she’s ‘open to work’ after viral ‘Rambo Ho’ video",
-    "desc": "Actress Kalpana Iyer, 70, is eager to return to acting after her iconic 'Rambo Ho' dance went viral following its feature in 'Dhurandhar'. She expressed gratitude to director Aditya Dhar for reviving her song and hopes the renewed attention will lead to age-appropriate roles, even brief ones. Iyer, who last appeared on screen in 1999, is now 'open to work'.",
-    "img": "https://static.toiimg.com/photo/msid-127839497,imgsize-25662.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramba-ho-star-kalpana-iyer-is-open-to-work-says-she-is-grateful-for-aditya-dhar-and-dhurandhar/articleshow/127839497.cms",
-    "time": "2026-02-01T10:42:27.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Which income tax regime should you choose for FY 2026-27? Tax rates, slabs explained",
     "desc": "Union Budget 2026 maintains the existing income tax framework, with the new regime offering tax-free income up to Rs 12 lakh for individuals. While the old regime continues with its deductions, the new system has been progressively liberalized since 2020, making it increasingly attractive for middle-income taxpayers.",
@@ -673,15 +763,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/new-tax-regime-vs-old-tax-regime-after-budget-2026-income-tax-slabs-and-rates-comparison-explained-which-tax-regime-is-better-for-middle-class-salaried-taxpayers/articleshow/127838105.cms",
     "time": "2026-02-01T10:40:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Defence, education, railways, income tax &amp; more: 10 big announcements in Union Budget 2026",
-    "desc": "Finance minister Nirmala Sitharaman presented the Union Budget 2026-27, her ninth consecutive, with major announcements across defence, railways, income tax, and healthcare. Prime Minister Modi hailed it as \"historic\" and a \"high flight toward Viksit Bharat.\" Key proposals include a significant defence allocation, seven high-speed rail corridors, a simplified Income Tax Act, and support for rare-earth mineral development.",
-    "img": "https://static.toiimg.com/photo/msid-127839281,imgsize-833089.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/defence-education-railways-income-tax-more-10-big-announcements-in-union-budget-2026/articleshow/127839259.cms",
-    "time": "2026-02-01T10:34:18.000Z"
   },
   {
     "cat": "Entertainment",
@@ -693,33 +774,6 @@ const newsData_en = [
     "time": "2026-02-01T10:23:45.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Blind to India’s real crises': Rahul Gandhi hits out at Centre after Union Budget",
-    "desc": "Rahul Gandhi and Mallikarjun Kharge have strongly criticized the Union Budget 2026-27, labeling it as out of touch with India's critical issues. They argue the budget ignores widespread unemployment, economic distress among citizens, and farmers' struggles, while failing to offer concrete solutions or a clear policy vision for the nation's challenges.",
-    "img": "https://static.toiimg.com/photo/msid-127839184,imgsize-351062.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/blind-to-indias-real-crises-rahul-gandhi-hits-out-at-centre-after-union-budget/articleshow/127839179.cms",
-    "time": "2026-02-01T10:20:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kartik wraps Mumbai schedule, gears up for Delhi shoot of Naagzilla",
-    "desc": "Kartik Aaryan has wrapped up the Mumbai schedule of Karan Johar’s 'Naagzilla' and will begin a three-week Delhi shoot soon. Directed by Mrighdeep Singh Lamba, 70% of the film is complete. Kartik plays an Ichchadhari Naag named Preyamvadeshwar Pyare Chand. Naagzilla releases on August 14, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-127839193,imgsize-32176.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kartik-aaryan-wraps-mumbai-schedule-gears-up-for-three-week-delhi-shoot-of-naagzilla/articleshow/127839193.cms",
-    "time": "2026-02-01T10:20:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sam-Daniel: 'Knight of the Seven Kingdoms' still feels like 'GOT'",
-    "desc": "Actors Sam Spruell and Daniel Ings discuss their roles in 'A Knight of the Seven Kingdoms,' emphasizing its focus on human experiences and a coming-of-age narrative over dragons and politics. Both actors highlight their commitment to George R.R. Martin's original text, finding clarity and honoring his writing spirit.",
-    "img": "https://static.toiimg.com/photo/msid-127839163,imgsize-60504.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sam-spruell-and-daniel-ings-on-a-knight-of-the-seven-kingdoms-it-still-feels-like-game-of-thrones-just-sweeter-exclusive/articleshow/127839138.cms",
-    "time": "2026-02-01T10:18:44.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'A pattern has developed': Ex-India cricketer questions Samson's batting method",
     "desc": "Sanju Samson faced another batting failure in the T20I series against New Zealand. His struggles have become a pattern, with experts pointing to technical issues. Samson's position in the team is uncertain. Ishan Kishan's century further highlights Samson's difficult run. India is preparing for their World Cup opener.",
@@ -729,24 +783,6 @@ const newsData_en = [
     "time": "2026-02-01T09:37:01.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Bollywood celebs who faced gunshot incidents",
-    "desc": "red carpets, flashing lights, all that. But sometimes, things get messy when the cameras stop rolling. Over the years, a few Bollywood stars have found themselves in the middle of real-life gunfire. Some were just accidents, like a slip of the hand at home. Others were way more serious, with shootings tied to the underworld or rivalries that spilled into violence right outside studio gates.Not every story ends in tragedy, though. Some actors bounced back, stronger and maybe a little more cautious. Others barely escaped and found themselves suddenly at the center of a media frenzy. Let's look at some gun shot incident that shook Bollywood over the years.",
-    "img": "https://static.toiimg.com/photo/msid-127838209,imgsize-46980.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rohit-shetty-salman-khan-rakesh-roshan-bollywood-celebs-who-faced-gunshot-incidents/photostory/127838209.cms",
-    "time": "2026-02-01T09:24:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'High flight toward Viksit Bharat': PM Modi hails Union Budget 2026 as 'historic'",
-    "desc": "Prime Minister Narendra Modi hailed the Union Budget 2026 as \"historic,\" charting a roadmap for a Viksit Bharat by 2047 and boosting India's reform journey. He also highlighted the \"mother of all deals\" with the EU, aimed at benefiting youth and MSMEs, and praised Finance Minister Nirmala Sitharaman's record ninth consecutive budget presentation.",
-    "img": "https://static.toiimg.com/photo/msid-127837864,imgsize-1003911.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/high-flight-toward-viksit-bharat-pm-modi-hails-union-budget-2026-as-historic/articleshow/127837888.cms",
-    "time": "2026-02-01T09:05:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Handshake refused! India vs Pakistan U19 World Cup showdown opens with tense moment",
     "desc": "India and Pakistan U-19 captains notably skipped the customary handshake at the toss for their crucial World Cup encounter. This follows a recent trend of no handshakes between the two nations' cricket teams amid ongoing political tensions. The match is a must-win for Pakistan to keep their semi-final hopes alive.",
@@ -754,33 +790,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/handshake-refused-india-vs-pakistan-u19-world-cup-showdown-opens-with-tense-moment/articleshow/127837532.cms",
     "time": "2026-02-01T08:45:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Pakistan deflecting attention from internal failings': India rejects 'baseless' claims on Balochistan attacks",
-    "desc": "India has categorically rejected Pakistan's \"baseless\" allegations of Indian backing for recent deadly attacks in Balochistan. The Ministry of External Affairs stated Pakistan should address the region's long-standing demands and its \"record of suppression, brutality and violation of human rights\" instead of deflecting blame.",
-    "img": "https://static.toiimg.com/photo/msid-127837283,imgsize-645183.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pakistan-deflecting-attention-from-internal-failings-india-rejects-baseless-claims-on-balochistan-attacks/articleshow/127837240.cms",
-    "time": "2026-02-01T08:29:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Gunshots at Rohit Shetty's residence: Police register FIR",
-    "desc": "Mumbai Police have registered an FIR after unidentified individuals fired shots outside filmmaker Rohit Shetty's Juhu residence early Sunday morning. Bullet marks were found on the building's glass panels. Authorities are reviewing extensive CCTV footage to identify the culprits and trace their escape route. The motive remains unknown.",
-    "img": "https://static.toiimg.com/photo/msid-127833614,imgsize-26130.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/gunshots-outside-rohit-shettys-residence-mumbai-police-registers-fir-confirm-someone-fired-at-the-building/articleshow/127833025.cms",
-    "time": "2026-02-01T05:31:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "The Azzurri are here! The fall and rise of Italian cricket",
-    "desc": "Italy’s relationship with cricket stretches over two centuries, from British sailors in Naples to the 2026 T20 World Cup ahead of us. Cricket in Italy is a sport shaped by history, politics and world wars. The sport has survived through quiet revivals and on February 9, at the iconic Eden Gardens, it now stands on the brink of a defining moment.",
-    "img": "https://static.toiimg.com/photo/msid-127820795,imgsize-105462.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-the-azzurri-are-here-the-fall-and-rise-of-italian-cricket/articleshow/127817241.cms",
-    "time": "2026-02-01T02:30:00.000Z"
   },
   {
     "cat": "World",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/has-manchester-united-found-its-mr-right-in-michael-carrick/article70571901.ece",
     "time": "2026-01-30T18:07:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "History-chasing Djokovic and Alcaraz to meet in Australian Open final after epic wins",
-    "desc": "“It feels surreal,” Djokovic said of his 4-hour, 9-minute triumph. “Honestly, it feels like winning already tonight. I know I have to come back … and fight the No. 1 of the world. I just hope that I’ll have enough gas to stay toe-to-toe with him.",
-    "img": "https://th-i.thgim.com/public/incoming/ww5zk/article70571820.ece/alternates/LANDSCAPE_1200/2026-01-30T160648Z_841805147_UP1EM1U14YNA1_RTRMADP_3_TENNIS-AUSOPEN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/tennis/australian-open-2026-tennis-championship-mens-semifinal/article70569640.ece",
-    "time": "2026-01-30T17:20:43.000Z"
   }
 ];
