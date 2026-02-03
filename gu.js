@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "ભારતના આ 5 સૌથી સુંદર ગામ આગળ સ્વિટ્ઝર્લૅન્ડ પણ લાગશે ફિક્કું, જિંદગીમાં એકવાર જરૂર લો મુલાકાત",
+    "desc": "ભારતમાંથી હજારો લોકો દર વર્ષે મનની શાંતિ માટે વિદેશમાં ફરવા જવાનો પ્લાન બનાવે છે અને તે દેશોને સુંદર માને છે. પરંતુ શું તમે ક્યારેય ભારતના આ 5 ગામોની મુલાકાત લીધી છે. એક વખત ભારતના આ ગામની મુલાકાત લીધા પછી તમે વિદેશી દેશો વિશે ભૂલી જશો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/5-most-beautiful-villages-in-india-visit-once-before-die-you-will-forget-switzerland-travel-guide-463847 ",
+    "time": "2026-02-03T12:10:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ટ્રમ્પના દાવા પર રશિયાનું પહેલું નિવેદન, જાણો ભારત સાથે સબંધો અને તેલની ખરીદીમાં કર્યો મોટો ખુલાસો",
+    "desc": "ટ્રમ્પે દાવો કર્યો હતો કે ટેરિફ ઘટાડાના બદલામાં, ભારત રશિયા પાસેથી તેલ ખરીદવાનું બંધ કરશે અને યુનાઇટેડ સ્ટેટ્સ પાસેથી વધુ તેલ ખરીદશે. તેમણે એમ પણ કહ્યું હતું કે ભારત દ્વારા રશિયન તેલ ખરીદવાથી યુક્રેન યુદ્ધમાં પરોક્ષ રીતે રશિયાને મદદ મળી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/russia-first-statement-on-trump-claim-know-the-big-revelation-made-about-relations-with-india-and-oil-purchases-463845 ",
+    "time": "2026-02-03T12:04:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શોખ બડી ચીઝ હૈ... 6 લાખની કાર માટે 2 કરોડની નંબર પ્લેટ, આ નંબર આટલો ખાસ કેમ ?",
+    "desc": "શોખ બડી ચીઝ હૈ ! આ કહેવત તમે સો વાર સાંભળી હશે, પરંતુ આંધ્રપ્રદેશના એક માણસે તેને સાચી સાબિત કરી છે. તેણે પોતાની કાર પર VIP નંબર પ્લેટ મેળવવા માટે મોટી રકમ ખર્ચી નાખી છે. તેણે 6 લાખની કાર માટે 2 કરોડની નંબર પ્લેટ ખરીદી છે. ત્યારે આ લેખમાં જાણીશું કે, આ નંબર આટલો ખાસ કેમ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/indias-costliest-number-plate-sold-at-rs-2-crore-in-auction-463838 ",
+    "time": "2026-02-03T11:13:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ડો. મોહિત વિશે થવા જઈ રહ્યો છે મોટો ખુલાસો, અનુ-આર્યાની છેલ્લી મુલાકાત બાદ આવશે ટ્વિસ્ટ !",
+    "desc": "ટીવી સીરિયલ 'તુમ સે તુમ તક' માં, અનુ અને આર્યવર્ધનની અંતિમ મુલાકાત થઈ છે. આર્યએ અનુને વચન આપ્યું છે કે તે તેના લગ્નમાં ક્યારેય દખલ નહીં કરે અને તેના જીવનભરના દરેક નિર્ણયમાં તેની સાથે રહેશે. આ સાંભળ્યા પછી, અનુએ આંસુઓથી વિદાય આપે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/tumm-se-tumm-tak-a-big-revelation-is-going-to-happen-about-dr-mohit-a-twist-will-come-after-anu-arya-last-meeting-463837 ",
+    "time": "2026-02-03T10:58:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ચાહકો સાથે દગો! ધુરંધર 2 ના ટીઝરથી સોશિયલ મીડિયા પર ભારે રોષ",
+    "desc": "રણવીર સિંહની ફિલ્મ ધુરંધર 2ના ટીઝરને લઈને ચાહકો ખૂબ જ ઉત્સાહિત હતા, પરંતુ નિર્માતાઓએ જૂના દ્રશ્યો બતાવીને તેમની આશાઓ પર પાણી ફેરવી દીધું છે. સોશિયલ મીડિયા યુઝર્સે તેને છેતરપિંડી ગણાવી અને ટ્રોલ કરવાનું શરૂ કર્યું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-2-betrayed-fans-were-heartbroken-after-watching-the-teaser-said-aditya-dhar-did-not-do-well-463833 ",
+    "time": "2026-02-03T10:25:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "લોકસભામાં જોરદાર હોબાળો, કોંગ્રેસના 8 સાંસદ બાકી સત્ર માટે સસ્પેન્ડ કરાયા",
+    "desc": "સંસદના નીચલા ગૃહ લોકસભામાં આજે પણ જોરદાર હંગામો જોવા મળ્યો. રાહુલ ગાંધી બોલવા માટે ઊભા થયા ત્યારે એવો હંગામો થયો કે તેમને બોલતા રોકવામાં આવ્યા ત્યારબાદ વિપક્ષના અન્ય સાંસદોએ પણ બોલવાની ના પાડી દીધી. હોબાળા બાદ કોંગ્રેસના 8 સાંસદ સસ્પેન્ડ કરાયા. વાંચો વધુ માહિતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/uproar-in-lok-sabha-papers-thrown-towards-chair-8-mps-suspended-463831 ",
+    "time": "2026-02-03T10:17:25.000Z"
+  },
+  {
     "cat": "Business",
     "title": "15-20 હજાર રૂપિયામાં ગામમાં શરૂ કરો આ 5 બિઝનેસ, દરરોજ થશે મોટી કમાણી",
     "desc": "જો તમે ગામમાં રહો છો અને ઓછા રોકાણ સાથે તમારો પોતાનો નાનો વ્યવસાય શરૂ કરવા માંગો છો, તો અમે તમને આ લેખમાં એવા કેટલાક નાના બિઝનેસ આઈડિયા જણાવીશું છે, જે તમને મદદરૂપ થઈ શકે છે.",
@@ -279,15 +333,6 @@ const newsData_gu = [
     "time": "2026-02-02T05:16:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "મહારાષ્ટ્રના રાજકારણમાં ચોંકાવનારો વળાંક, દિગ્ગજ NCP નેતાએ આપ્યું એવું નિવેદન, શરદ પવારને લાગશે ઝટકો",
-    "desc": "મહારાષ્ટ્રના રાજકારણમાં ભારે ગરમાવો જોવા મળી રહ્યો છે. અજિત પવારના નિધન બાદ બંને જૂથોનું વિલય થશે કે કેમ? આ બધા વચ્ચે તેમની પાર્ટીના એક દિગ્ગજ નેતાએ વિલય પર એવું નિવેદન આપી દીધુ કે શરદ પવારને આ જાણીને ઝટકો લાગે તે સ્વાભાવિક છે. જાણો તેમણે શું કહ્યું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ncp-leader-sunil-tatkare-big-statement-we-are-with-nda-know-what-said-about-merger-speculation-463677 ",
-    "time": "2026-02-02T04:32:08.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ફિલ્મ નિર્દેશક રોહિત શેટ્ટીના ઘર પર ફાયરિંગ મામલે લોરેન્સ બિશ્નોઈનું નામ ચર્ચામાં, 4 લોકોની ધરપકડ",
     "desc": "ફિલ્મ ઈંડસ્ટ્રીમાં ફરી એકવાર લોરેન્સ બિશ્નોઈનું નામ ચર્ચામાં છે. મુંબઈમાં ફિલ્મ નિર્દેશક રોહિત શેટ્ટીના ઘર પર થયેલા ફારયિંગ મામલે પોલીસે 4 લોકોની ધરપકડ કરી હોવાનું સામે આવ્યું છે અને સાથે જ એક પોસ્ટ વાયરલ થઈ છે જેમાં આ ઘટનાની જવાબદારી લોરેન્સ બિશ્નોઈ ગેંગ દ્વારા લેવામાં આવી છે.",
@@ -306,24 +351,6 @@ const newsData_gu = [
     "time": "2026-02-01T16:15:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "પૂર્વ RAW એજન્ટનો ચોકાવનારો ખુલાસો ! ભારતના દરવાજા પર ખતરનાક ખેલ, નેપાળના પોખરા એયરપોર્ટ પર પહોંચ્યું રહસ્યમય જેટ !",
-    "desc": "નેપાળની ચૂંટણી પહેલા, ભારતીય સંશોધન અને વિશ્લેષણ વિંગ (RAW)ના ભૂતપૂર્વ એજન્ટ અને રાષ્ટ્રીય સુરક્ષા ગાર્ડ (NSG) કમાન્ડો લક્ષ્મણ ઉર્ફે લકી બિષ્ટનો એક વીડિયો વાયરલ થયો છે, જેનાથી સનસનાટી મચી ગઈ છે. સોશિયલ મીડિયા પર વાયરલ થઈ રહેલા લકી બિષ્ટના વીડિયો અનુસાર, નેપાળમાં 5 માર્ચ, 2026ના રોજ યોજાનારી સામાન્ય ચૂંટણીઓ પહેલા એક ઘટના સામે આવી છે, જે દક્ષિણ એશિયાની સુરક્ષા અને રાજકારણ પર પ્રશ્નો ઉભા કરે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/former-raw-agent-shocking-revelation-dangerous-game-at-indias-doorstep-jet-lands-at-pokhara-airport-in-nepal-463628 ",
-    "time": "2026-02-01T11:37:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "બંગાળ, અસમ, તમિલનાડુ, કેરલ...આ પાંચ રાજ્યોમાં ચૂંટણી પહેલા મોદી સરકારે બજેટમાં આપી મોટી ભેટ",
-    "desc": "મોદી સરકારના ત્રીજા કાર્યકાળનું ત્રીજું સામાન્ય બજેટ એવા સમયે આવ્યું છે જ્યારે દેશના 5 રાજ્યોમાં વિધાનસભા ચૂંટણીને કારણે રાજકીય વાતાવરણ ગરમાયું છે. નાણામંત્રી બજેટ દ્વારા બંગાળથી લઈને કેરળ અને તમિલનાડુ સુધીના રાજ્યોને આકર્ષવાનો પ્રયાસ કરતા જોવા મળ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/what-did-bengal-assam-tamil-nadu-kerala-these-five-election-bound-states-get-in-the-modi-governments-budget-463627 ",
-    "time": "2026-02-01T11:27:34.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "વૈભવ સૂર્યવંશીએ આ શું કર્યું...બે જીવનદાન છતાં સસ્તામાં આપી દીધી વિકેટ",
     "desc": "અંડર-19 વર્લ્ડ કપ 2026ના સુપર સિક્સ તબક્કામાં ભારત કટ્ટર હરીફ પાકિસ્તાન આમને સામને છે. બુલાવાયોના ક્વીન્સ સ્પોર્ટ્સ ક્લબ સ્ટેડિયમમાં રમાઈ રહેલી આ મેચમાં વૈભવ સૂર્યવંશી મોટી ઇનિંગ્સ રમશે તેવી અપેક્ષા હતી, પરંતુ તે નિષ્ફળ ગયો, બે જીવનદાન મળ્યા છતાં તે મોટી ઈનિંગ ના રમી શક્યો.",
@@ -331,15 +358,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/u19-world-cup-ind-vs-pak-vaibhav-suryavanshi-flop-wicket-after-two-lifelines-463624 ",
     "time": "2026-02-01T10:58:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "બજેટ બાદ શું છે સોના-ચાંદીની સ્થિતિ? લગડી-દાગીનાની ખરીદી માટેનો સોનાનો ભાવ કેટલો? જાણો લેટેસ્ટ રેટ",
-    "desc": "નાણામંત્રી નિર્મલા સીતારમણે આજે કેન્દ્રીય બજેટ રજૂ કર્યું. જો કે બજેટ રજૂ થયું તે પહેલા અને બજેટ રજૂ થયા પછી સોના અને ચાંદીના ભાવમાં ભયંકર ઘટાડો જોવા મળ્યો છે. વાયદા બજાર અને રિટેલ બજારમાં હાલ શું ભાવ ચાલે છે તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/gold-silver-rate-after-budget-2026-what-is-the-latest-price-of-gold-for-buying-jewellery-aaj-no-sona-chandi-no-bhav-463603 ",
-    "time": "2026-02-01T08:11:04.000Z"
   },
   {
     "cat": "Sports",
@@ -423,15 +441,6 @@ const newsData_gu = [
     "time": "2026-01-31T13:05:35.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "સોનું-ચાંદી અને કરોડોની મિલકત... અજિત પવાર કરતાં પણ વધુ છે સુનેત્રા પવારની સંપત્તિ",
-    "desc": "બારામતીમાં વિમાન દુર્ઘટનામાં અજિત પવારના નિધન બાદ હવે તેમના પત્ની સુનેત્રા અજિત પવારને મહારાષ્ટ્રના નાયબ મુખ્યમંત્રી બનાવવામાં આવ્યા છે. તેઓ મહારાષ્ટ્રના પ્રથમ મહિલા નાયબ મુખ્યમંત્રી બનીને એક નવો અધ્યાય લખશે. ત્યારે આ લેખમાં અમે તેમની સંપત્તિ વિશે જણાવીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/maharashtra-deputy-cm-sunetra-pawar-net-worth-ajit-pawar-463476 ",
-    "time": "2026-01-31T12:24:42.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Airtelના કરોડો ગ્રાહકો માટે ખુશખબર... એક પ્લાનમાં ચાલશે બે સિમકાર્ડ, કંપનીએ લાવ્યો શાનદાર Plan",
     "desc": "Airtel તેના કરોડો ગ્રાહકો માટે એક શાનદાર પ્લાન લઈને આવ્યું છે. આ પ્લાનમાં કંપવી 11 બેનિફિટ આપી રહી છે, જેમાં તમે એક પ્લાનમાં બે સિમકાર્ડ પણ ચલાવી શકો છો, ત્યારે આ લેખમાં આ પ્લાનની સંપૂર્ણ વિગતો જાણીશું.",
@@ -457,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/epstein-files-claim-bill-gates-caught-std-after-relation-with-russian-girls-463440 ",
     "time": "2026-01-31T05:37:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ટીમ ઈન્ડિયા પર બોજ બની રહ્યો છે આ ખેલાડી, આજે છેલ્લી તક... હવે ફ્લોપ થયો તો કપાશે પત્તુ",
-    "desc": "ભારત અને ન્યુઝીલેન્ડ વચ્ચે 5 મેચોની ટી20 સિરીઝની છેલ્લી મેચ આજે એટલે કે 31 જાન્યુઆરીના રોજ તિરુવનંતપુરમના ગ્રીનફિલ્ડ સ્ટેડિયમ ખાતે રમાશે. ત્યારે બંને ટીમો પાસે વર્લ્ડ કપ પહેલા પોતાની ભૂલો સુધારવા માટે આ છેલ્લી તક હશે. ત્યારે ભારતના આ ખેલાડી માટે પણ આજની મેચ ખુબ જ મહત્વપૂર્ણ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nz-5th-t20-sanju-samson-has-one-last-chance-team-india-playing-11-463441 ",
-    "time": "2026-01-31T05:34:23.000Z"
   },
   {
     "cat": "Entertainment",
@@ -558,15 +558,6 @@ const newsData_gu = [
     "time": "2026-01-29T11:40:14.000Z"
   },
   {
-    "cat": "World",
-    "title": "દુનિયાનો સૌથી મોટો દેવાદાર દેશ કયો છે ? જાણો ભારતની શું છે સ્થિતિ",
-    "desc": "વિશ્વભરની સરકારો દેવામાં ડૂબેલી છે, જેના કારણે સરકારો અને અર્થશાસ્ત્રીઓમાં ચિંતા વધી રહી છે. ત્યારે એક પ્રશ્ન ઊભો થાય છે કે કયા દેશ પર વિશ્વમાં સૌથી વધુ દેવું છે અને આ સંદર્ભમાં ભારત ક્યા ક્રમે છે ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/gk-world-highest-debt-country-know-india-rank-463263 ",
-    "time": "2026-01-29T11:33:59.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "34 KM માઈલેજ, 5 લાખથી ઓછી કિંમત... આ છે દેશની સૌથી સસ્તી CNG કાર",
     "desc": "મારુતિ સુઝુકી ઇન્ડિયાનું દેશમાં CNG સેગમેન્ટમાં સૌથી મોટું માર્કેટ છે. આનું મુખ્ય કારણ કંપની પાસે અન્ય કોઈપણ ઉત્પાદકની તુલનામાં CNG મોડેલોની વિશાળ કેટેગરી છે. ત્યારે આ લેખમાં જાણીશું કે, સૌથી સસ્તી CNG કાર કઈ છે.",
@@ -583,15 +574,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/arijit-singh-one-song-fee-arijit-live-show-cost-lifestyle-and-net-worth-of-singer-arijit-singh-463232 ",
     "time": "2026-01-29T07:17:14.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ફરી એક મોટી પ્લેન દુર્ઘટના; લેન્ડિંગ પહેલા વિમાન તૂટી પડ્યું, સાંસદ સહિત 15 લોકોના કમકમાટીભર્યા મોત",
-    "desc": "કોલંબિયાનું એક વિમાન વેનેઝુએલાની સરહદ નજીક ગુમ થયું છે, જેનો કાટમાળ મળી આવ્યો છે, જેમાં કોલંબિયાના એક ધારાસભ્ય સહિત તમામ 15 લોકોના મોત થયા હોવાનું સામે આવ્યુંછે. વિમાન લેન્ડિંગ પહેલા જ ગાયબ થઈ ગયું હતું, જેના કારણે બંને દેશોની પોલીસ અને વાયુસેના દ્વારા શોધખોળ શરૂ કરવામાં આવી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/plane-carrying-lawmaker-election-candidate-and-13-others-crashes-in-colombia-no-survivors-463209 ",
-    "time": "2026-01-29T03:24:18.000Z"
   },
   {
     "cat": "Tech",
@@ -691,15 +673,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/find-your-lost-wallet-and-keys-in-a-jiffy-apples-new-airtag-launched-in-india-463040 ",
     "time": "2026-01-27T05:25:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ધુરંધર ફિલ્મના આ એક્ટર પર લાગ્યો કામવાળીનું શારીરિક શોષણ કર્યાનો ગંભીર આરોપ, પોલીસે કરી કાર્યવાહી",
-    "desc": "ધુરંધર ફિલ્મના એક્ટર નદીમ ખાન પર ગંભીર આરોપ લાગ્યા છે. તેની કામવાળીએ આરોપ લગાવ્યો છે કે એક્ટર લગ્ન કરવાની વાત કરી છેલ્લા 10 વર્ષથી તેનું શારીરિક શોષણ કરે છે. આ મામલે પોલીસ કાર્યવાહી થઈ હોવાની વાત પણ સામે આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/serious-accusation-against-dhurandhar-film-actor-nadeem-khan-physical-abuse-of-house-maid-462935 ",
-    "time": "2026-01-26T06:18:39.000Z"
   },
   {
     "cat": "Tech",

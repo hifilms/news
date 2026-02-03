@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How surface at BCA Stadium, Vadodara is expected to play?",
+    "desc": "Gujarat Giants are set to face Delhi Capitals in the Eliminator of the Women's Premier League 2026, with the spot in the final up for grabs. The Capitals made a late surge into the knockouts...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gg-vs-dc-wpl-eliminator-pitch-report-how-surface-at-bca-stadium-vadodara-is-expected-to-play-in-gujarat-giants-vs-delhi-capitals-clash-2026-02-03-1028749",
+    "time": "2026-02-03T11:54:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How many Indian origin players will play in T20 World Cup 2026? Know full details of key cricketers",
+    "desc": "When the T20 World Cup begins on February 7 across venues in India and Sri Lanka, the spotlight will not fall solely on the host nation. More than three dozen players of Indian origin, spread...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-many-indian-origin-players-will-play-in-t20-world-cup-2026-know-full-details-of-key-cricketers-2026-02-03-1028748",
+    "time": "2026-02-03T11:52:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Steve Smith signed by new franchise in PSL after T20 World Cup 2026 snub",
+    "desc": "Australian veteran Steve Smith has been signed as marquee player by Pakistan Super League's new franchise Sialkot Stallionz after his snub from the T20 World Cup 2026. Smith, who was in brilliant touch in the Big...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/steve-smith-signed-by-new-franchise-in-psl-after-t20-world-cup-2026-snub-2026-02-03-1028738",
+    "time": "2026-02-03T11:01:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cristiano Ronaldo left unhappy, declined to play after Karim Benzema completes move to Al-Hilal",
+    "desc": "Cristiano Ronaldo and Karim Benzema shared the locker room at Real Madrid for nine years. They have been the best of mates on the pitch, helping the Los Blancos win four Champions League titles and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-left-unhappy-declined-to-play-after-karim-benzema-completes-move-to-al-hilal-2026-02-03-1028737",
+    "time": "2026-02-03T10:54:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryakumar Yadav to Harry Brook, captains of 20 participating teams in tournament",
+    "desc": "The 10th edition of T20 World Cup is all set get underway on February 7 in India and Sri Lanka. Pakistan will lock horns against the Netherlands at the Sinhalese Sports Club in Colombo at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-2026-suryakumar-yadav-to-harry-brook-captains-of-20-participating-teams-in-tournament-2026-02-03-1028725",
+    "time": "2026-02-03T09:40:12.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Do you know? Italy captain Wayne Madsen played in Hockey World Cup 2006 for South Africa",
     "desc": "South Africa-born Wayne Madsen is set to lead Italy in the T20 World Cup. Italy are playing in the mega event for the first time in cricket history and have been placed in Group C...",
     "img": "",
@@ -43,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/did-australia-s-hectic-international-schedule-from-august-2026-play-a-role-in-pat-cummins-missing-t20-wc-2026-2026-02-03-1028665",
     "time": "2026-02-03T03:04:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are India A and Sri Lanka A playing T20 World Cup 2026 warm-up matches?",
-    "desc": "The much-awaited T20 World Cup is all set to get underway on February 7 in India and Sri Lanka. Ahead of the tournaments, teams are busy playing the warm-up matches that started on Monday (February...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-are-india-a-and-sri-lanka-a-playing-t20-world-cup-2026-warm-up-matches-2026-02-03-1028661",
-    "time": "2026-02-03T02:34:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Italy rings warning bells for other teams with stunning win over Canada in warm-up clash",
-    "desc": "Italy could be playing the T20 World Cup for the first time in their cricketing history but they have already rung warning bells for teams in their group for the tournament. In the first warm-up...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-2026-italy-rings-warning-bells-for-other-teams-with-stunning-win-over-canada-in-warm-up-clash-2026-02-03-1028654",
-    "time": "2026-02-03T01:43:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lanka announce T20 World Cup 2026 squad, Kamindu Mendis replaces Dhananjaya de Silva",
-    "desc": "Sri Lanka have officially announced their 15-member squad for the T20 World Cup 2026, as Dasun Shanaka will be leading the squad that co-hosts the tournament along with India. The squad is closely similar to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-announce-t20-world-cup-2026-squad-kamindu-mendis-replaces-dhananjaya-de-silva-2026-02-02-1028641",
-    "time": "2026-02-02T18:05:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Pakistan women's A team play against India A side in Asia Cup on February 15? Here is latest update",
-    "desc": "The cricketing relations between India and Pakistan have hit a new low after the Pakistani government announced a boycott of the league stage match against the Indian team for the upcoming T20 World Cup 2026. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-pakistan-women-s-a-team-play-against-india-a-side-in-asia-cup-on-february-15-here-is-latest-update-2026-02-02-1028636",
-    "time": "2026-02-02T16:24:50.000Z"
   }
 ];

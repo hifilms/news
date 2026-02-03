@@ -1,5 +1,59 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "সোনার উপর GST, কিন্তু কত? মেকিং চার্জ, সোনার দাম এবং করের পিছনের হিসেবটি বুঝুন",
+    "desc": "সোনা কিনতে গেলে শুধু প্রতি গ্রামের দাম জানলেই হয় না — এর সঙ্গে যোগ হয় GST, মেকিং চার্জ এবং অন্যান্য কর। তাই চূড়ান্ত দাম কীভাবে তৈরি হয় তা আগে থেকে বুঝে নিলে অতিরিক্ত খরচের ধাক্কা এড়ানো যায়। এই প্রতিবেদনে সহজভাবে তুলে ধরা হয়েছে সোনার দাম ও করের পুরো হিসেব।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Gold-1105-2026-02-d50951f088ae40c3c66db67dcc97f842-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/gst-on-gold-explained-know-the-tax-rate-making-charges-and-final-price-calculation-tc-dc-aa-2524640.html",
+    "time": "2026-02-03T12:35:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "একই দিনে দ্বিতীয়বার ! ফের অনেকটাই বেড়ে গেল সোনার দাম",
+    "desc": "একই দিনে দ্বিতীয়বার সোনার দামে বড় উর্ধ্বগতি বাজারে নতুন আলোড়ন সৃষ্টি করেছে। হঠাৎ এই দাম বৃদ্ধিতে ক্রেতা ও বিনিয়োগকারীদের মধ্যে উদ্বেগ বাড়ছে, কারণ আন্তর্জাতিক বাজার, চাহিদা এবং অর্থনৈতিক পরিস্থিতি সোনার দামের ওপর সরাসরি প্রভাব ফেলছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/gold-1233-2026-02-58eb1cca9e900f838f981bfa1552fe58-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/gold-prices-jump-again-second-hike-in-a-single-day-sparks-market-buzz-dc-2524819.html",
+    "time": "2026-02-03T12:14:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'আমরা ১ ইঞ্চি জমিও ছাড়ব না..., ক্ষমতা থাকলে গণতান্ত্রিক ভাবে লড়াই করুন!' দিল্লির বুকে দাঁড়িয়ে চ্যালেঞ্জ মমতার",
+    "desc": "বিজেপিকে পাল্টা চ্যালেঞ্জ জানিয়ে মমতার দাবি, তাঁর দল তৃণমূল আরও বেশি আসনে জিতবে। সাংবাদিক বৈঠক শেষে আত্মবিশ্বাসী মমতা জানান, আবার দিল্লি আসবেন ভোটে জেতার পর। তাঁর কথায়, ‘‘ভোটে জিতে দিল্লি আসব। তখন আপনাদের ভাল মিষ্টি খাওয়াব।’’ তার পরেই কিছুটা রসিকতা করেই সাংবাদিকদের উদ্দেশে মমতা বলেন, ‘‘দিল্লির লাড্ডু নয়।’’",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-03-at-17.15.03-2026-02-d54699f7a01510b08a0cd7ee258f44b2-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/mamata-banerjee-press-meet-west-bengal-cm-slams-opposition-challanges-bjp-on-upcoming-assembly-election-from-delhi-after-banga-bhawan-incident-and-sir-meeting-with-eci-sanj-2524770.html",
+    "time": "2026-02-03T11:58:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বড় রহস্য সামনে আসছে! সবুজ ফাইলে কী ছিল? মমতার হলফনামা দেখে ইডি কেন নিল সাতদিন সময়? বিস্ফোরক তথ্য...",
+    "desc": "ইডির অভিযোগ ও সুপ্রিম কোর্টের পদক্ষেপ ঘটনার গুরুত্ব বিবেচনা করে ইডি সরাসরি সুপ্রিম কোর্টে মামলা দায়ের করে। ইডির পক্ষে সলিসিটর জেনারেল তুষার মেহতা আদালতে সওয়াল করেন যে, যেখানে তল্লাশি চলছিল সেখান থেকে মুখ্যমন্ত্রী নিজে এবং পুলিশের শীর্ষকর্তারা প্রামাণ্য নথি নিয়ে চলে গিয়েছেন, যা আইনত ‘চুরি’র সমান অপরাধ।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/next-tuesday-will-be-the-hearing-of-ed-vs-ipac-case-in-sc-as-after-submitting-affidavit-by-mamata-banerjee_639179.html ",
+    "time": "2026-02-03T11:40:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Big Changes To Come In Gold Price ? সোনার দামে কি বড় ধরনের পরিবর্তন আসতে পারে? ট্রাম্পের শুল্ক হ্রাসের পর সোনার দাম কোথায় যাবে?",
+    "desc": "Big Changes To Come In Gold Price ?ট্রাম্পের শুল্ক হ্রাসের সিদ্ধান্তের পর সোনার দামকে নতুনভাবে মূল্যায়ন করা হচ্ছে। বিশ্ববাজারে শুল্ক-সম্পর্কিত অস্থিরতা ও বাণিজ্যনীতি এখনও সোনার দামের ওপর চাপ সৃষ্টি করছে, যা দামকে উর্ধ্বমুখী রাখতে পারে; আবার যদি শুল্ক হ্রাসে বাজারে আত্মবিশ্বাস ফিরে আসে, তাহলে সোনা-এর দাম কিছুটা কমে যেতে পারে — এই দিকগুলোতে বিশেষজ্ঞরা নজর রাখছেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Gold-536-2026-02-bb50d84e4f5fb510fab248852aa62055-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/will-gold-prices-change-big-after-trumps-tariff-cuts-where-is-gold-headed-next-tc-dc-aa-2524576.html",
+    "time": "2026-02-03T11:31:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "অসুস্থ মায়ের দায়িত্ব কে নেবে? বারবার বিয়ের জন্য রিজেক্ট হতে হতে জীবনকেই বাদ দিলেন ইঞ্জিনিয়ার তরুণী...",
+    "desc": "অসুস্থ মায়ের দায়িত্ব কে নেবে- এই শর্তে বারবার বিয়ের সম্বন্ধ ভেঙে যাওয়ায় মানসিকভাবে ভেঙে পড়েন ২৬ বছর বয়সী সফটওয়্যার ইঞ্জিনিয়ার বিজয়লক্ষ্মী। গত ৩১ জানুয়ারি নিখোঁজ হওয়ার পর হায়দ্রাবাদের হুসাইন সাগর লেক থেকে তাঁর মৃতদেহ উদ্ধার করে পুলিস।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/software-employee-took-her-own-life-because-of-repeated-difficulties-in-marriage-prospects_639177.html ",
+    "time": "2026-02-03T11:27:22.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "মুক্তি পেতেই কাঁপিয়ে দিল ধুরন্ধর ২-র টিজার! বক্স অফিসে আবার ঝড় তুলবেন রণবীর সিং",
     "desc": "ধুরন্ধর সুপারডুপার হিট, ইতিমধ্যেই ওটিটি-তেও রিলিজ হয়েছে ধুরন্ধর। এবার চলে এল ধুরন্ধর-২-এর টিজার৷ ধুরন্ধর-এর সাফল্যের পরপরই সিকুয়ালের টিজার দেখে চোখ ধাঁধিয়ে যাবে দর্শকদের৷ রণবীর সিংয় এখানে ড্যাশিং অবতারে। পার্ট ২টি 'ধুরন্ধর - দ্য রিভেঞ্জ'। 'ধুরন্ধর'-এর টিজারে স্পষ্ট যে, প্রথম ছবির মতো, এটিও বক্স অফিসে হইচই ফেলে দেবে৷",
@@ -304,15 +358,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/aamir-khan-visits-arijit-singh-jiaganj-house-after-retirement-news_638866.html ",
     "time": "2026-02-02T08:26:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বাজেটে করের ধাক্কায় টালমাটাল দালাল স্ট্রিট ! এক দিনেই উধাও লক্ষ কোটি টাকা...",
-    "desc": "বাজেটে ডেরিভেটিভস লেনদেনে চড়া হারে কর (STT) বৃদ্ধির ঘোষণায় দালাল স্ট্রিটে এখন শোকের ছায়া। মুহূর্তের নিরিখে প্রায় ১৫০০ পয়েন্ট পড়ল সেনসেক্স, নিফটি নামল ২৫ হাজারের নিচে। লগ্নিকারীদের পকেট থেকে মুহূর্তের মধ্যে উধাও লক্ষ কোটি টাকা। নির্মলার ‘কড়া’ দাওয়াইয়ে মাথায় হাত সাধারণ বিনিয়োগকারীদের।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/dalal-street-is-reeling-from-the-tax-shock-in-the-budget-investors-hundreds-of-billions-of-rupees-vanished-in-a-single-day_638865.html ",
-    "time": "2026-02-02T08:15:37.000Z"
   },
   {
     "cat": "World",
@@ -853,50 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/business/north-24-parganas-business-idea-jackfruit-leaf-selling-success-business-north-24-parganas-man-earning-huge-l18-local18-2515762.html",
     "time": "2026-01-28T09:57:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "বুদ্ধি করে খেলছে পাকিস্তান! ভারতকে 'বদনাম' করার ফন্দি তৈরি! ১০ ফেব্রুয়ারি টি-২০ বিশ্বকাপে এবার যা হবে, ভাবতে পারবেন না",
-    "desc": "সংশ্লিষ্ট মহল অবশ্য মনে করছে, পাকিস্তান এবার অন্য ফন্দি এঁটে ফেলেছে। তারা যে কোনওভাবে ১০ ফেব্রয়ারি ভারতের সঙ্গে টি-২০ বিশ্বকাপের ম্যাচ বয়কট করার ষড়ষন্ত্র করছে! তবে সেই কাজটা এত সহজে তারা আর করতে পারবে না।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/09/Pakistan-2025-09-0dea45a9e6a149351ca4c1fdf0ed7e8f-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/pcb-and-pakistan-may-ban-india-match-in-t20-world-cup-2026-smj-2516122.html",
-    "time": "2026-01-28T09:30:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "মাঠে ফুটবল, মনে সচেতনতা! বাঁকুড়ায় জমাটি টুর্নামেন্টে ‘সেফ ড্রাইভ সেভ লাইফ’-এর বার্তা, বাহবা দিচ্ছেন সবাই",
-    "desc": "ফুটবল মাঠ থেকে এবার জীবন বাঁচানোর ডাক! পথ নিরাপত্তা নিশ্চিত করতে বাঁকুড়ায় আয়োজিত হল এক বিশেষ ফুটবল টুর্নামেন্ট। ‘সেফ ড্রাইভ সেভ লাইফ’ স্লোগানকে সঙ্গী করে খেলার মাঠ থেকে সাধারণ মানুষকে সচেতন করার এই অভিনব প্রয়াস নজর কেড়েছে জেলাবাসীর।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/safe-drive-save-life-football-tournament-2026-01-b7b7a94ddcc9c3506ecb980dd1a5302a-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/bankura-football-tournament-chatna-police-arranged-safe-drive-save-life-football-tournament-for-awareness-l18-local18-2515653.html",
-    "time": "2026-01-28T07:53:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "মা ছিলেন তাঁর শিক্ষা গুরু, প্রথম বিয়ে টেকেনি অরিজিতের, দ্বিতীয় স্ত্রী-সন্তানদের নিয়ে সুখের সংসার গায়কের, দেখুন পারিবারিক ছবি",
-    "desc": "সোশ্যাল মিডিয়ায় ব্যক্তিগত ছবি খুব কম পোস্ট করেন অরিজিৎ সিং৷ কাজের জগতে ব্যস্ত এই গায়কের জীবনে মা ছিলেন সব থেকে গুরুত্বপূর্ণ ব্যক্তি৷ করোনাকালে মাকে হারান তিনি৷ স্ত্রী-সন্তানদের পাশাপাশি পরিবারে রয়েছেন আরও আপনজন৷ দেখুন অরিজিতের পারিবারিক ফোটো অ্যালবাম৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Web-2026-01-28T114905.470-2026-01-0bd4bd358a8eaff0638fe3738999e0d9-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/arijit-singh-quits-playback-singing-arijit-singh-love-life-he-married-twice-keeps-his-family-life-very-secret-family-photo-pbd-2515668.html",
-    "time": "2026-01-28T06:19:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "\"আমি প্লেব্যাক ছাড়ছি কারণ\"....এবার স্পষ্ট হল কেন করিয়ারের শীর্ষে এমন সিদ্ধান্ত নিলেন অরিজিৎ সিং",
-    "desc": "আপাতত তাঁর হাতে বেশ কয়েকটি প্লেব্যাকের কাজ রয়েছে৷ সেগুলো সব শেষ করবেন তিনি, জানিয়েছেন অরিজিৎ৷ এগুলো শেষ হলে আর তাঁকে প্লেব্যাকে পাওয়া যাবে না৷ এটা স্পষ্ট৷ ফলে বলিউডে যে তাঁর সুরেলা কন্ঠ শোনা যাবে না, তা তো একপ্রকার পরিষ্কার হয়ে গেছে৷ অরিজিৎ-এর এই ঘোষণার পরেই প্রতিক্রিয়ার ঝড় উঠেছে৷ তাহলে তিনিও কী বলিউডের রাজনীতির শিকার?",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Web-2026-01-28T103945.740-2026-01-77f4788594d9ef49314d11e364c142ac-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/arijit-singh-quits-playback-singing-he-says-there-is-not-a-single-reason-know-why-he-has-taken-is-step-at-peak-of-his-career-pbd-2515514.html",
-    "time": "2026-01-28T05:50:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "অরিজিৎ সিং আর ফিল্মে গাইবেন না মেনে নিতে পারছেন না রাজ চক্রবর্তী",
-    "desc": "বলিউডের সবচেয়ে জনপ্রিয় কণ্ঠ অরিজিত সিং যেন এক হতাশার গান। একটি ভাঙা হৃদয় বা রাতের একান্ত মুহূর্তে আপনার স্মৃতিতে ঢুকে পড়তে তাঁর কণ্ঠই যেন স্বতঃস্ফূর্তভাবে বাজে। বেশ সাধারন এক মুর্শিদাবাদি ছেলে থেকে দেশের অন্যতম প্রিয় গায়ক হওয়া পর্যন্ত তাঁর যাত্রা অনন্য। তবু গত দুই দশকে কোটি কোটি মানুষের কষ্ট, ভালোবাসা ও অপেক্ষার সুর হয়ে উঠলেও, সম্প্রতি নিজেই থেমে দাঁড়ানোর সিদ্ধান্ত নিলেন তিনি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/arrr-2026-01-b0f50e79a3e6a578ad1967a890f06200.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/short-videos/entertainment/arijit-singh-quits-playback-singing-bengali-director-raj-chakraborty-cannot-accept-this-news-pbd-2515357.html",
-    "time": "2026-01-28T03:19:45.000Z"
   }
 ];
