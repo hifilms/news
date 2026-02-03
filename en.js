@@ -1,5 +1,203 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "India-US trade deal: Elated exporters eyeing discount cuts on orders",
+    "desc": "Most exporters spent early Tuesday with buyers discussing the way forward, especially with garment orders for the next season being finalised. “We are in talks with our buyers and they are very happy. The timing of the announcement has been very good as orders for the next season were being finalised. The future is looking very bright, and we need to build scale, focus on expansion and skilling to take advantage of it,” said Sudhir Sekhri of Trendsetters, an exporter of womenswear.",
+    "img": "https://static.toiimg.com/photo/msid-127894440,imgsize-32894.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-elated-exporters-eyeing-discount-cuts-on-orders/articleshow/127894420.cms",
+    "time": "2026-02-03T21:13:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "PC calls Varanasi 'the biggest Indian movie' for her homecoming",
+    "desc": "Bollywood and Hollywood star Priyanka Chopra Jonas is all set to make her much-awaited Telugu debut in SS Rajamouli’s grand cinematic venture Varanasi, where she will share screen space with Tollywood icon Mahesh Babu for the very first time. Calling her experience on Varanasi transformative, Priyanka revealed she couldn’t have asked for a more fitting project for her homecoming.",
+    "img": "https://static.toiimg.com/photo/msid-127894404,imgsize-37330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/priyanka-chopra-jonas-calls-varanasi-the-biggest-indian-movie-for-her-homecoming-ss-rajamoulis-cohort-is-the-spielbergs-/articleshow/127894391.cms",
+    "time": "2026-02-03T21:02:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Pharma companies await clarity, eye a dose of stability in India-US deal",
+    "desc": "With the US accounting for nearly 35% of India’s overall pharma shipments of over $30 billion in FY24-25, the move is expected to bolster growth prospects and pipeline visibility. A potential India-US trade deal offers long-awaited stability for the domestic pharma sector, which plays a critical role in supplying affordable medicines to the US, industry experts told TOI.",
+    "img": "https://static.toiimg.com/photo/msid-127894340,imgsize-104968.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/pharma-companies-await-clarity-eye-a-dose-of-stability-in-india-us-deal/articleshow/127894346.cms",
+    "time": "2026-02-03T20:45:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India–US trade deal: Textile, leather players see revival in volumes",
+    "desc": "Textile and apparel exporters are now expecting an increased sourcing by global brands as India will now enjoy one of the lowest tariff regimes among major Asian manufacturing hubs, with a marginal advantage over competitors, such as Bangladesh, Sri Lanka, Vietnam and China. The tariff relief is expected to create a level-playing field, particularly for small and medium exporters in clusters such as Surat, Gurugram and Tirupur.",
+    "img": "https://static.toiimg.com/photo/msid-127894332,imgsize-70446.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indiaus-trade-deal-textile-leather-players-see-revival-in-volumes/articleshow/127894316.cms",
+    "time": "2026-02-03T20:39:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Air India plane flown afterphysical checks, no abnormal parameters noticed: DGCA",
+    "desc": "The fuel control switch of the left engine of the Dreamliner aircraft VT-ANX, which operated the flight AI132 that had more than 200 people on board, did not latch on the 'RUN' position twice during the engine start at London Heathrow airport, but was properly locked in the 'RUN' position on the third attempt",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ai-flight-with-fuel-switch-issue-flew-after-physical-checks-found-no-abnormal-parameters-says-dgca/article70588170.ece",
+    "time": "2026-02-03T20:33:20.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "After tariff cut, exporters of seafood eye recovery in US",
+    "desc": "Seafood Exporters Association of India (SEAI) said it expects shipments to rebound following the conclusion of the India-US trade deal and the reduction of tariffs to 18%. “We are confident that with the conclusion of the trade deal and lowering of tariffs to 18%, the quantum of export of seafood from India to the US will show an increase and soon reach back to the previous levels,” the association said. SEAI also welcomed the role played by govt in finalising the agreement.",
+    "img": "https://static.toiimg.com/photo/msid-127894302,imgsize-134758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/after-tariff-cut-exporters-of-seafood-eye-recovery-in-us/articleshow/127894135.cms",
+    "time": "2026-02-03T20:30:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chitrangda explains why women rarely lead films like Dhurandhar",
+    "desc": "Aditya Dhar’s Dhurandhar emerged as one of the biggest hits of 2025, with the Ranveer Singh-starrer creating massive box office havoc and reigniting the industry’s appetite for war dramas and action thrillers. While the genre continues to dominate theatrical releases, most such films are still headlined by male actors — a reality that actor Chitrangda Singh recently weighed in on.",
+    "img": "https://static.toiimg.com/photo/msid-127894202,imgsize-59394.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/chitrangda-singh-explains-why-women-rarely-lead-war-dramas-like-dhurandhar-physically-and-biologically-a-woman-is-not-deemed-fit/articleshow/127894182.cms",
+    "time": "2026-02-03T20:02:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Three Peak XV leaders exit in quick succession",
+    "desc": "Peak XV, in a separate blog post, said it “mutually decided to part ways” with Agrawal, adding that Mittal and Sharma chose to join him. The firm did not disclose details of the new fund or its investment strategy. Together, the exits have thinned Peak XV’s mid-generation leadership bench. Agrawal was part of the venture investing team and led several early bets, including Groww, alongside investments across fintech, education finance, healthcare, and SaaS.",
+    "img": "https://static.toiimg.com/photo/msid-127894146,imgsize-47146.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/three-peak-xv-leaders-exit-in-quick-succession/articleshow/127894136.cms",
+    "time": "2026-02-03T19:50:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Time to pause? RBI may keep rates unchanged at MPC meet",
+    "desc": "The RBI cut rates in Dec after the MPC placed greater weight on inflation slipping below the lower bound of the flexible inflation targeting framework. With inflation now expected to move higher, including under the new base-year series to be released from Feb 12, economists see limited scope for further easing. Growth is also expected to slow and settle in the 6.7-7% range in FY27, close to the Economic Survey’s estimate of potential growth at 7%.",
+    "img": "https://static.toiimg.com/photo/msid-127894116,imgsize-80544.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/time-to-pause-rbi-may-keep-rates-unchanged-at-mpc-meet/articleshow/127894084.cms",
+    "time": "2026-02-03T19:45:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-US pact removes uncertainty for businesses",
+    "desc": "Arvind Shrivastava, secretary, department of revenue, said the deal would deepen trade ties between 2 of the world’s largest economies. He said it would create fresh opportunities for India’s labour-intensive and manufacturing sectors in the US market, while also giving a push to collaboration in high and advanced technology areas and “give impetus to mutually beneficial collaboration in high and advanced technology sectors”, he said.",
+    "img": "https://static.toiimg.com/photo/msid-127894085,imgsize-43248.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/govt-officials-india-us-pact-removes-uncertainty-for-businesses/articleshow/127894082.cms",
+    "time": "2026-02-03T19:44:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Solely focussed on winning T20WC, trust security: Marsh offers dead bat on T20WC controversies",
+    "desc": "“I don’t have any comment on that at this point. We are going to the World Cup to just focus on what we are doing, we will let that stuff take care of itself,” he responded when asked about his thoughts on Pakistan’s boycott of the India game on February 15 in Colombo",
+    "img": "https://th-i.thgim.com/public/incoming/hw12rc/article70589126.ece/alternates/LANDSCAPE_1200/Pakistan_Australia_Cricket_92494.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/solely-focussed-on-winning-t20wc-trust-security-marsh-offers-dead-bat-on-t20wc-controversies/article70589111.ece",
+    "time": "2026-02-03T19:41:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-US trade deal: ‘Joint statement to be ready in a few days,’ says Piyush Goyal",
+    "desc": "After Trump and Modi went public, officials have been engaged on the next steps. Commerce and industry minister Piyush Goyal said on Tuesday that a joint statement will be released shortly. Officials indicated that it should be ready in a few days, and will be followed by the vetting of the agreement before it is signed.",
+    "img": "https://static.toiimg.com/photo/msid-127894051,imgsize-82204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-joint-statement-to-be-ready-in-a-few-days-says-piyush-goyal/articleshow/127894030.cms",
+    "time": "2026-02-03T19:39:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cummins says desire to play all Tests also reason behind decision to skip T20WC",
+    "desc": "Cummins has been dealing with the back injury since Australia's tour of the the West Indies last July and although he is feeling \"really good\" right now, he decided to skip the tournament starting February 7 after a scan",
+    "img": "https://th-i.thgim.com/public/incoming/muf272/article70589125.ece/alternates/LANDSCAPE_1200/Australia_England_Cricket_69803.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/cummins-says-desire-to-play-all-tests-also-reason-behind-decision-to-skip-t20wc/article70589110.ece",
+    "time": "2026-02-03T19:38:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-US trade pact: Exports to US may rise, add to India’s growth momentum",
+    "desc": "The Aug decision by US President Donald Trump to impose stiff tariffs on India for purchasing Russian oil had stunned policymakers and exporters. Financial markets turned choppy and triggered unease about the trajectory of growth. But the economy remained resilient and growth momentum robust as it navigated the turbulent period.",
+    "img": "https://static.toiimg.com/photo/msid-127894028,imgsize-32894.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-pact-exports-to-us-may-rise-add-to-indias-growth-momentum/articleshow/127894015.cms",
+    "time": "2026-02-03T19:37:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee logs best 1-day gain in over seven years",
+    "desc": "The rupee jumped 124 paise to 90.27 against the dollar, its strongest single-day gain in seven years and the best since late 2018. The currency had closed at 91.51 in the previous session and has strengthened 165 paise over two days. The rebound followed a recent record low of 91.99, when corporate dollar hedging and concerns over capital outflows had weighed on the currency.",
+    "img": "https://static.toiimg.com/photo/msid-127893876,imgsize-74874.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/power-rally-rupee-logs-best-1-day-gain-in-over-seven-years/articleshow/127893863.cms",
+    "time": "2026-02-03T19:30:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-US trade deal: Steep tariffs to stay for steel, copper and aluminium",
+    "desc": "Within this landscape, Tata Steel’s Indian operations do not export to the US, though its UK unit does. In contrast, JSW Steel, with facilities in Ohio and Texas, produces steel locally, shielding it from import tariffs. Hindalco exports negligible aluminium and no copper from India to the US due to strong domestic demand.",
+    "img": "https://static.toiimg.com/photo/msid-127893852,imgsize-1860101.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-steep-tariffs-to-stay-for-steel-copper-and-aluminium/articleshow/127893846.cms",
+    "time": "2026-02-03T19:28:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Foreign funds likely to drive into India again",
+    "desc": "So far in 2026, foreign portfolio investors (FPIs) have net sold stocks worth nearly Rs 35,000 crore in the Indian market. This comes on top of the Rs 1.7 lakh crore worth of stocks net offloaded in 2025. The sell-off, in turn, put pressure on the rupee. Despite strong central govt intervention, the rupee had depreciated over 6% since the start of 2025.",
+    "img": "https://static.toiimg.com/photo/msid-127893778,imgsize-298932.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/foreign-funds-likely-to-drive-into-india-again/articleshow/127893704.cms",
+    "time": "2026-02-03T19:23:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Dalal Street blows 'Trump'et with 2000-point salute to trade deal",
+    "desc": "The feel-good rally that followed lifted sensex by nearly 4,200 points (5.2%) in early trades but soon profit booking at higher levels pulled it down a bit. After a steady session, sensex closed 2.5% up. On the NSE, Nifty too treaded a similar path and closed 639 points (2.6%) up at 25,728 points. According to A Balasubramanian, MD & CEO, Aditya Birla Sun Life Mutual Fund, the announcements about the India-US trade deal removed a key overhang for Indian markets.",
+    "img": "https://static.toiimg.com/photo/msid-127893799,imgsize-1386357.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/dalal-street-blows-trumpet-with-2000-point-salute-to-trade-deal/articleshow/127893673.cms",
+    "time": "2026-02-03T19:21:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "UK-India FTA omits several key UK interests: House of Lords report",
+    "desc": "The UK govt did not conclude a bilateral investment treaty, or arrangements in relation to legal services, new market access for financial services, or final arrangements for mutual recognition of professional qualifications, and India did not get “as much on the mobility issues as it would have liked”, the report says.",
+    "img": "https://static.toiimg.com/photo/msid-127893495,imgsize-52058.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/uk-india-fta-omits-several-key-uk-interests-house-of-lords-report/articleshow/127893466.cms",
+    "time": "2026-02-03T18:55:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Train to Pahalgam put on hold for now as J&amp;K govt, MPs flag threat to apple orchards",
+    "desc": "The governing National Conference said the halted proposals include the Bijbehara-Pahalgam railway link and the Pulwama-Shopian railway project. The issue was earlier raised by local farmers, legislators, including Anantnag-Poonch MP Mian Altaf and the opposition PDP leaders. Vaishnaw said there was a demand for three additional railway projects in the region, but these had been kept on hold for now due to the objections raised.",
+    "img": "https://static.toiimg.com/photo/msid-127893401,imgsize-369690.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/train-to-pahalgam-put-on-hold-for-now-as-jk-govt-mps-flag-threat-to-apple-orchards/articleshow/127893414.cms",
+    "time": "2026-02-03T18:50:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Encounter erupts in J&amp;K’s Udhampur",
+    "desc": "Officials said at least two to three Pakistani terrorists were believed to be trapped within the cordon. The White Knight Corps post stated that a joint team of Counter Insurgency Force Delta, police, and CRPF established contact with the terrorists around 4pm. Earlier, security forces had launched a search operation in Jopher area in Udhampur’s Ramnagar late Sunday.",
+    "img": "https://static.toiimg.com/photo/msid-127893334,imgsize-468380.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/operation-kiya-encounter-erupts-in-jks-udhampur/articleshow/127893344.cms",
+    "time": "2026-02-03T18:47:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&amp;K: Sajad Lone pushes for Article 370 in LG’s speech, Speaker rejects",
+    "desc": "The Speaker further pointed out that granting statehood falls within the domain of the Centre and advised Lone to raise only those issues on which J&K govt is competent to respond or take a decision. Outside the assembly, Lone said four of his other amendments were, however, accepted, including those concerning daily wagers, NLU and condemnation of attacks on Kashmiris outside J&K.",
+    "img": "https://static.toiimg.com/photo/msid-127893290,imgsize-353594.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/lone-pushes-for-article-370-in-lgs-speech-speaker-rejects/articleshow/127893257.cms",
+    "time": "2026-02-03T18:44:30.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Celina Jaitly breaks silence on ‘broken’ 15-year marriage",
     "desc": "Celina Jaitly, who filed for divorce from her husband Peter Haag in November last year at an Andheri court in Mumbai, has opened up about the reality behind her marriage in a deeply personal social media post. The divorce plea was filed on grounds of domestic violence and abuse, leaving many surprised, especially since Celina had often shared affectionate family moments with Haag and their children online.",
@@ -16,15 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/wpl-2026-delhi-capitals-storm-into-4th-consecutive-final-with-dominant-win-over-gujarat-giants/articleshow/127891592.cms",
     "time": "2026-02-03T17:44:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India-US trade deal clarity: Pharma exporters gain edge in US; sector eyes growth boost",
-    "desc": "Indian drugmakers anticipate significant benefits from the proposed India-US trade agreement, offering much-needed clarity and stability for the lucrative US pharmaceutical market. This development is expected to boost expansion plans and growth prospects for major companies like Sun Pharma and Dr. Reddy's, enhancing their competitive edge and strengthening India's role in global supply chains.",
-    "img": "https://static.toiimg.com/photo/msid-127891805,imgsize-46548.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-promises-policy-clarity-fuels-indian-pharmas-us-growth/articleshow/127891710.cms",
-    "time": "2026-02-03T17:43:42.000Z"
   },
   {
     "cat": "Sports",
@@ -61,15 +250,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/andhra-pradesh/transform-ap-into-largest-natural-farming-hub-cm-tells-officials/article70588534.ece",
     "time": "2026-02-03T17:32:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why Trump administration is still imposing 18% tariff on India",
-    "desc": "The US will reduce tariffs on most Indian goods to 18% from 50% as part of a new trade agreement, aiming to address the large trade deficit. India has agreed to cut tariffs on a range of US products, including industrial goods, wine, and spirits, to zero. Sensitive Indian agriculture and dairy sectors remain protected under the deal.",
-    "img": "https://static.toiimg.com/photo/msid-127891180,imgsize-44176.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/why-trump-administration-is-still-imposing-18-tariff-on-india-explained/articleshow/127890865.cms",
-    "time": "2026-02-03T17:20:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -115,15 +295,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/andhra-pradesh/gsi-to-probe-land-subsidence-in-godavari-delta-in-andhra-pradesh/article70587830.ece",
     "time": "2026-02-03T16:10:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India–US trade deal: New Delhi may scale back Russian oil buys after tariff relief",
-    "desc": "India will significantly reduce crude oil imports from Russia, adhering to a US-brokered trade deal that lowers tariffs on Indian goods. While existing contracts will be honored, new orders for Russian crude will cease, except for Nayara Energy due to its unique circumstances. This move aims to boost Indian exports and diversify energy sources.",
-    "img": "https://static.toiimg.com/photo/msid-127889748,imgsize-777029.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indiaus-trade-deal-new-delhi-may-scale-back-russian-oil-buys-after-tariff-relief-sources/articleshow/127889567.cms",
-    "time": "2026-02-03T15:53:02.000Z"
   },
   {
     "cat": "Politics",
@@ -189,15 +360,6 @@ const newsData_en = [
     "time": "2026-02-03T15:17:52.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "84.5% of 1.52 lakh waste-pickers profiled so far come from SC, ST, and OBC communities",
-    "desc": "State-level data show Delhi, Goa, and West Bengal are outliers, where waste-pickers from the General category constitute a majority. Overall, 10.7% workers are from the General category. The data also showed that 7,402 workers were from ‘Other’ communities.",
-    "img": "https://th-i.thgim.com/public/incoming/zag6up/article70588259.ece/alternates/LANDSCAPE_1200/DSC4918.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/845-of-152-lakh-waste-pickers-profiled-so-far-come-from-sc-st-and-obc-communities/article70587503.ece",
-    "time": "2026-02-03T15:16:01.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Gautam's gambit! India has a tailor-made team to win back-to-back T20 World Cups",
     "desc": "In Jasprit Bumrah, Arshdeep Singh, Varun Chakravarthy, Hardik Pandya and Axar Patel, India arguably have the best quartet of bowlers at the T20 World Cup. Not to forget, Kuldeep Yadav might have to wait for his chances and the vastly improved Shivam Dube is no pushover. The Suryakumar Yadav-led team looks dangerous not just on paper but has also walked the talk on the field.",
@@ -225,15 +387,6 @@ const newsData_en = [
     "time": "2026-02-03T15:08:17.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Mamata Banerjee",
-    "desc": "The West Bengal Chief Minister, surrounded by SIR-affected families, addressed a press conference in Delhi on Tuesday a day after she led a delegation to meet EC and later accused the CEC of insulting the delegation.",
-    "img": "https://th-i.thgim.com/public/incoming/mz28mw/article70587993.ece/alternates/LANDSCAPE_1200/20260202373L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/will-back-any-motion-by-opposition-to-impeach-chief-election-commissioner-gyanesh-kumar-mamata-banerjee/article70587937.ece",
-    "time": "2026-02-03T15:00:24.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Rashmika nods when asked about February 26 wedding date",
     "desc": "Wedding rumours around Vijay Deverakonda and Rashmika Mandanna have once again gathered momentum, with the couple now said to be tying the knot later this month in Udaipur. While both actors have maintained silence despite reports of a private engagement in October 2025, Rashmika appeared to all but confirm the February 26 wedding date during a recent interaction with a paparazzo.",
@@ -241,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-nods-when-asked-about-february-26-wedding-date-with-vijay-deverakonda-fans-cant-keep-calm/articleshow/127888667.cms",
     "time": "2026-02-03T14:49:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'India maintaining ⁠protection around agricultural goods': US on trade deal with Delhi, says tariffs to drop to 0% from 13.5%",
-    "desc": "The Trump administration is finalising a trade agreement with India, which will see tariffs on industrial goods fall to zero. While India maintains protections for its agricultural sector, the deal is expected to significantly open up its industrial market. The US is also monitoring India's energy trade, noting opportunities for diversification and increased US product purchases.",
-    "img": "https://static.toiimg.com/photo/msid-127888602,imgsize-51176.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-maintaining-protection-around-agricultural-goods-us-on-trade-deal-with-delhi-says-tariffs-to-drop-to-zero-from-13-5/articleshow/127888406.cms",
-    "time": "2026-02-03T14:38:55.000Z"
   },
   {
     "cat": "Entertainment",
@@ -459,24 +603,6 @@ const newsData_en = [
     "time": "2026-02-03T11:46:42.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Beauty must live in the heart",
-    "desc": "Filmmaker Muzaffar Ali voices his dismay at Bollywood's drift from its roots in poetry and cultural cohesion, drawing attention to the lasting charm of 'Umrao Jaan.' He warns that art loses its essence when hurried for fast results, urging that true beauty springs from heartfelt expression, not tumult.",
-    "img": "https://static.toiimg.com/photo/msid-127884680,imgsize-35414.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/beauty-must-remain-in-the-heart-veteran-filmmaker-muzaffar-ali-on-art-beauty-and-bollywood/articleshow/127884680.cms",
-    "time": "2026-02-03T11:33:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Delhi HC allows Wankhede to pursue defamation case against 'The Ba***ds Of Bollywood'",
-    "desc": "IRS officer Sameer Wankhede has been permitted by the Delhi High Court to pursue his defamation case against the makers of 'The Ba***ds Of Bollywood' in Mumbai. The court found it lacked territorial jurisdiction, allowing Wankhede to refile his suit in Mumbai. The show is accused of defaming Wankhede through a character based on the Aryan Khan drugs case.",
-    "img": "https://static.toiimg.com/photo/msid-127885038,imgsize-37722.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/delhi-hc-allows-sameer-wankhede-to-pursue-defamation-case-in-mumbai-against-aryan-khans-web-series-the-bads-of-bollywood/articleshow/127884612.cms",
-    "time": "2026-02-03T11:28:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Another Indian! After Pragg, Norway Chess 2026 reveals 4th participant",
     "desc": "Reigning world champion Gukesh Dommaraju has been confirmed as the fourth participant for Norway Chess 2026, joining fellow Indian R Praggnanandhaa. The youngest world champion in history, Gukesh returns after a strong 2025 showing and a memorable win over Magnus Carlsen, highlighting India’s growing dominance in world chess.",
@@ -484,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/another-indian-after-r-praggnanandhaa-norway-chess-reveals-fourth-participant-for-2026-event/articleshow/127884358.cms",
     "time": "2026-02-03T11:24:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Union Budget 2026-27 shakes up NRI money: What Indians in UAE must do now",
-    "desc": "India's Union Budget 2026-27 brings welcome changes for NRIs in the UAE. Investment limits in Indian equities have doubled, making it easier to build stakes. Property sales compliance is simplified, reducing administrative hurdles. Overseas travel and education remittances see reduced taxes, lowering costs. These reforms aim to boost diaspora engagement with India's economy.",
-    "img": "https://static.toiimg.com/photo/msid-127884244,imgsize-41398.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/union-budget-2026-27-shakes-up-nri-money-what-indians-in-uae-must-do-now/articleshow/127882046.cms",
-    "time": "2026-02-03T11:18:07.000Z"
   },
   {
     "cat": "Sports",
@@ -504,33 +621,6 @@ const newsData_en = [
     "time": "2026-02-03T11:11:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Flights to and from  Tbilisi, Almaty, Baku, and Tashkent cancelled till February 28",
-    "desc": "Amidst escalating Iran tensions, IndiGo has extended flight cancellations to Tbilisi, Almaty, Baku, and Tashkent until February 28, 2026. The airline is rerouting to ensure passenger and crew safety, as its usual flight paths traverse Iranian airspace. This move comes as US-Iran relations remain volatile, though diplomatic efforts are reportedly underway.",
-    "img": "https://static.toiimg.com/photo/msid-127883018,imgsize-37292.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indigo-issues-travel-advisory-amid-iran-conflict-flights-to-and-from-tbilisi-almaty-baku-and-tashkent-cancelled-till-february-28/articleshow/127883199.cms",
-    "time": "2026-02-03T10:46:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "No rituals, no marriage: Supreme Court says certificate can’t replace Hindu ceremonies",
-    "desc": "The Petitioner- woman and Respondent- man, both trained commercial pilots, were engaged on 07.03.2021. They claimed in their own words, instead of immediately performing marriage as per traditional Hindu ceremony, they obtained a marriage certificate dated 07.07.2021, from a private organization called Vadik Jankalyan Samiti (Regd.). And later, based on that certificate, obtained a certificate of registration of marriage in Uttar Pradesh as per rules.",
-    "img": "https://static.toiimg.com/photo/msid-127883592,imgsize-96010.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/legal/news/no-rituals-no-marriage-supreme-court-says-certificate-cant-replace-hindu-ceremonies/articleshow/127883459.cms",
-    "time": "2026-02-03T10:45:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'A big decision that would benefit everyone': PM Modi on India-US trade deal at NDA meet",
-    "desc": "Prime Minister Modi hailed the India-US trade deal as a significant decision benefiting all citizens. The agreement, announced by President Trump, will see the US reduce tariffs on Indian goods to 18% from 50%. India is expected to eliminate its tariffs and non-tariff barriers on US products, potentially boosting trade significantly.",
-    "img": "https://static.toiimg.com/photo/msid-127883497,imgsize-121676.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/a-big-decision-that-would-benefit-everyone-pm-modi-on-india-us-trade-deal-at-nda-parliamentary-meet/articleshow/127883396.cms",
-    "time": "2026-02-03T10:44:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "When India pushed Australia to the edge",
     "desc": "India's 1977/78 tour of Australia saw a remarkable turnaround. After losing the first two Tests, India secured their maiden wins Down Under, including a stunning series-levelling victory. The decider in Adelaide was a nail-biter, with India pushing Australia to the brink before ultimately losing the series 3-2.",
@@ -538,15 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/the-loss-that-roared-like-a-win-when-india-pushed-australia-to-the-edge-in-adelaide-1978/articleshow/127882099.cms",
     "time": "2026-02-03T09:58:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "FAQs on Trump 18% tariff relief: What does the trade deal mean for India, Russian oil?",
-    "desc": "At present, the precise terms of the agreement have not been disclosed. Greater clarity is expected once the United States issues an executive order addressing the tariff changes, while the formal trade agreement text is likely to spell out which sectors fall under the arrangement.",
-    "img": "https://static.toiimg.com/photo/msid-127882064,imgsize-53514.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/faqs-on-trump-18-tariff-relief-what-does-the-trade-deal-mean-for-india-russian-oil/articleshow/127882006.cms",
-    "time": "2026-02-03T09:51:42.000Z"
   },
   {
     "cat": "Entertainment",
@@ -578,7 +659,7 @@ const newsData_en = [
   {
     "cat": "Entertainment",
     "title": "'Border 2' box office collection day 12 (LIVE)",
-    "desc": "Border 2 continues its strong box office run, earning Rs 5.75 crore nett on its second Monday. Despite a natural dip, the film has maintained momentum, with a week 1 collection of Rs 224.25 crore and a total of Rs 285.91 crore. North India remains a dominant territory for the film.",
+    "desc": "Border 2 continues its strong box office run, earning Rs 5.75 crore nett on its second Monday. Despite a natural dip, the film has maintained momentum, with a week 1 collection of Rs 224.25 crore and a total of Rs 286.75 crore. North India remains a dominant territory for the film.",
     "img": "https://static.toiimg.com/photo/msid-127891004,imgsize-72978.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-box-office-collection-day-12-live-the-sunny-deol-varun-dhawan-film-touches-rs-280-crore/articleshow/127880894.cms",
@@ -612,15 +693,6 @@ const newsData_en = [
     "time": "2026-02-03T07:42:07.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India-US trade deal: Top stocks that will benefit from reduced 18% tariffs",
-    "desc": "According to MOFSL, this is a high-impact development and will have a multi-layered positive effect on the Indian economy, prevailing market sentiments, and sectors exporting to the US, which will benefit from better competitiveness. Key sectoral beneficiaries include Auto Ancillaries, Defence, Consumer, Textiles, EMS, Consumer Durables, IT Services, Financials (second-order beneficiary), and Utility companies.",
-    "img": "https://static.toiimg.com/photo/msid-127879588,imgsize-97204.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-top-stocks-that-will-benefit-from-reduced-18-tariffs-check-sector-wise-list/articleshow/127879551.cms",
-    "time": "2026-02-03T07:37:46.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Samson’s slide opens door as Kishan storms into India’s T20 WC plans",
     "desc": "India's T20 juggernaut faces a crucial selection dilemma ahead of the 2026 World Cup, with Sanju Samson's recent form under scrutiny. Despite a strong past record, his struggles against New Zealand have opened the door for Ishan Kishan's impressive resurgence, creating a headache for the management as they aim to defend their title.",
@@ -628,15 +700,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/form-vs-faith-sanju-samsons-slide-opens-door-as-ishan-kishan-storms-into-indias-t20-world-cup-plans/articleshow/127878765.cms",
     "time": "2026-02-03T07:12:36.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold, silver price prediction today: Where are gold, silver prices headed after worst decline since 1980?",
-    "desc": "Gold prices may continue to be under pressure in the near term and high volatility is expected in silver prices, says Praveen Singh, Senior Fundamental Research Analyst- Currencies and Commodities at Mirae Asset Sharekhan. Here’s his outlook on gold prices:",
-    "img": "https://static.toiimg.com/photo/msid-127877775,imgsize-62694.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-where-are-gold-rates-headed-on-february-03-2026-and-in-the-near-term-mcx-gold-silver-prices/articleshow/127877739.cms",
-    "time": "2026-02-03T06:17:30.000Z"
   },
   {
     "cat": "Sports",
@@ -657,24 +720,6 @@ const newsData_en = [
     "time": "2026-02-03T05:44:42.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India-US trade deal impact: Rupee appreciates over 1% versus US dollar",
-    "desc": "Rupee has been the worst performing Asian currency in the last year, with persistent selloff from Foreign Institutional Investors (FIIs) causing the rupee to hit a new record low of 92 versus dollar a few weeks ago. Trump has announced that tariffs on India will be reduced to 18% with immediate effect.",
-    "img": "https://static.toiimg.com/photo/msid-127876617,imgsize-78716.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-impact-rupee-appreciates-over-1-versus-us-dollar/articleshow/127876536.cms",
-    "time": "2026-02-03T05:18:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India-US trade deal impact: BSE Sensex ends over 2,000 points up; Nifty50 above 25,700 as stock market rallies strongly",
-    "desc": "Sensex and Nifty closed sharply higher on Tuesday, gaining around 2.5 per cent each, as investor sentiment was boosted by the announcement of an India US trade agreement that will see Washington lower reciprocal tariffs on Indian goods to 18 per cent.",
-    "img": "https://static.toiimg.com/photo/msid-127875256,imgsize-63548.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-news-live-share-market-gift-nifty-50-sensex-nse-bse-india-us-trade-deal-donald-trump-tariffs-trading/articleshow/127874140.cms",
-    "time": "2026-02-03T03:50:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Diaspora’s dream close as 40 Indian-origin players set to spice up T20 WC",
     "desc": "Dozens of players with Indian roots are representing other nations at the T20 World Cup, chasing dreams they couldn't fulfill in India's competitive cricket scene. From the US to Canada, Oman, and the UAE, these cricketers, including former age-group players and even professionals, are seizing second chances on the international stage, cherishing every moment.",
@@ -693,15 +738,6 @@ const newsData_en = [
     "time": "2026-02-03T03:28:05.000Z"
   },
   {
-    "cat": "Business",
-    "title": "‘Well played, President Trump’: US Senator who wants 500% tariff for Russian oil says India has ‘earned’ reduction to 18%",
-    "desc": "US President Donald Trump announced a trade deal with India in which the US will bring down tariffs on Indian exports to 18%. Trump also made a series of claims related to the trade deal such as India agreeing to stop buying Russian crude",
-    "img": "https://static.toiimg.com/photo/msid-127874317,imgsize-89784.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/well-played-president-trump-us-senator-who-wants-500-tariff-for-russian-oil-says-india-has-earned-reduction-to-18/articleshow/127874186.cms",
-    "time": "2026-02-03T02:25:55.000Z"
-  },
-  {
     "cat": "World",
     "title": "Drone attack targets strategic northeast Congo city, authorities say, blaming M23",
     "desc": "The government of ⁠Tshopo province, where Kisangani is located, said in a statement on Sunday (February 1, 2026) that the drones attempted to strike Bangoka International Airport between ​early Saturday (January 31, 2026) and early Sunday (February 1, 2026) ⁠but were shot down before reaching their target",
@@ -709,15 +745,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/drone-attack-targets-strategic-northeast-congo-city-authorities-say-blaming-m23/article70585089.ece",
     "time": "2026-02-03T02:25:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Stock market recommendations for February 3, 2026",
-    "desc": "According to Somil Mehta, Head - Alternate Research, Capital Market Strategy, Mirae Asset Sharekhan, the top stocks to buy today on February 3, 2026 are: NMDC, DLF, Blue Star, and IOC. Let’s take a look:",
-    "img": "https://static.toiimg.com/photo/msid-127874110,imgsize-80346.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-february-03-2026-nmdc-dlf-blue-star-indian-oil-corporation-stocks-to-buy-today/articleshow/127874040.cms",
-    "time": "2026-02-03T01:55:50.000Z"
   },
   {
     "cat": "Sports",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/budget/budget-2026-moots-several-proposals-to-rejuvenate-indigenous-shipping/article70578875.ece",
     "time": "2026-02-02T03:59:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "BMS slams Budget 2026 calls it ‘worker-deficient’",
-    "desc": "BMS national vice president M. Jagadiswara Rao noted that while the emphasis on labour-intensive sectors, along with initiatives like Samarth 2.0 and MSME liquidity and equity support may generate employment, without adequate wages and social security protection, it cannot be termed as inclusive development",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/bms-slams-budget-2026-calls-it-worker-deficient/article70579779.ece",
-    "time": "2026-02-02T03:05:43.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Japan PM Takaichi’s party poised for landslide victory, Asahi poll shows",
-    "desc": "A strong showing in Sunday’s (February 8, 2026) election would solidify Ms. Takaichi’s grip on her party and give her a mandate for ​her expansionary fiscal policy, which ⁠could heighten concerns about Japan’s finances and push bond yields higher",
-    "img": "https://th-i.thgim.com/public/incoming/zcsm2o/article70581200.ece/alternates/LANDSCAPE_1200/2026-01-29T100233Z_675009783_RC2C9JA4XHXT_RTRMADP_3_JAPAN-ELECTION-CHINA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/japan-pm-takaichis-party-poised-for-landslide-victory-asahi-poll-shows/article70580659.ece",
-    "time": "2026-02-02T01:39:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gukesh draws as Abdusattorov stretches away",
-    "desc": "Javokhir Sindarov did not risk anything against R Praggnanandhaa and settled for a draw to slip to second spot on 7.5 points, a half point behind compatriot Abdusattorov and it could well be an Uzbek domination in the first super-tournament of the year",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/tata-steel-masters-gukesh-draws-as-abdusattorov-stretches-away/article70580430.ece",
-    "time": "2026-02-01T21:29:02.000Z"
   }
 ];
