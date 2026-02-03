@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": ": ১ লক্ষ যাত্রীকে জরিমানা করল বেঙ্গালুরু মেট্রো, অভিযোগের তালিকায় কোন কোন 'ক্রাইম'? পড়ুন",
+    "desc": "গত এক বছরে যাত্রীদের নিয়মভঙ্গের এক লক্ষেরও বেশি ঘটনা নথিভুক্ত করেছে বেঙ্গালুরু মেট্রো রেল কর্পোরেশন লিমিটেড (বিএমআরসিএল)। সাধারণ নিয়মভঙ্গের মধ্যে রয়েছে হেডফোন ছাড়াই মোবাইলে জোরে গান বা ভিডিও চালানো, সংরক্ষিত আসনে বসা, ট্রেনের ভিতরে খাবার খাওয়া এবং গুটখা বা পান চিবানো।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/2026-02-a18013dc949a1efdb5f34fc473574265-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/bengaluru-metro-bengaluru-metro-fines-1-lakh-passengers-not-giving-seat-to-pregnant-women-gutka-loud-music-top-penalty-list-rm-2525078.html",
+    "time": "2026-02-03T15:08:18.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "পাব-এ মদ্যপানের পরে  দশম শ্রেণির ছাত্রের ৭ তলা থেকে মরণঝাঁপ! ভয়? আতঙ্ক? বিষাদ?",
+    "desc": "কী ঘটেছিল? কী কী সম্ভাব্য় বিষয় থাকতে পারে, যারে ফলে ছেলেটি বাড়ি ফিরে এমন কাণ্ড ঘটাতে পারে? এমন কিছু কি ঘটেছিল সেই শনিসন্ধ্যায়, যাতে তাকে একরকম বাধ্য হয়ে এমন পথ বেছে নিতে হল? ধন্দে সকলে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/class-10-bengaluru-boy-jumps-to-death-from-7th-floor-after-drinking-at-pub_639296.html ",
+    "time": "2026-02-03T15:05:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "কয়েকদিনের মধ্যেই সোনার দামে হবে বিরাট পরিবর্তন ? দাম বৃদ্ধি এবং পতন সম্পর্কে বিশেষজ্ঞদের ভবিষ্যদ্বাণী কী বলছে !",
+    "desc": "পরবর্তী কয়েকদিনে সোনার দামে বড় ধরনের ওঠানামা হতে পারে বলে বিশেষজ্ঞরা আশঙ্কা ও সম্ভাবনা উভয়ই তুলে ধরছেন। আন্তর্জাতিক অর্থনীতি, মুদ্রাস্ফীতি, ডলারের ওঠানামা এবং বিনিয়োগের চাহিদা — এসবই আজকের সোনা বাজারকে দ্রুত পরিবর্তনে ঠেলে দিতে পারে, বলছেন বিশ্লেষকরা।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/gold-638-2026-02-f8ff935da0666a46c28e64d0a52fac40-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/will-gold-prices-change-dramatically-soon-experts-forecast-rise-and-fall-trends-tc-dc-aa-2524668.html",
+    "time": "2026-02-03T13:42:02.000Z"
+  },
+  {
     "cat": "Business",
     "title": "সোনার উপর GST, কিন্তু কত? মেকিং চার্জ, সোনার দাম এবং করের পিছনের হিসেবটি বুঝুন",
     "desc": "সোনা কিনতে গেলে শুধু প্রতি গ্রামের দাম জানলেই হয় না — এর সঙ্গে যোগ হয় GST, মেকিং চার্জ এবং অন্যান্য কর। তাই চূড়ান্ত দাম কীভাবে তৈরি হয় তা আগে থেকে বুঝে নিলে অতিরিক্ত খরচের ধাক্কা এড়ানো যায়। এই প্রতিবেদনে সহজভাবে তুলে ধরা হয়েছে সোনার দাম ও করের পুরো হিসেব।",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/actress-fatima-sana-shaikh-says-how-she-felt-when-her-hair-was-cut-for-dangal-movie-tc-pbd-2516523.html",
     "time": "2026-01-28T12:04:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ট্যুরিস্টদের হট ফেভারিট, জিয়াগঞ্জে অরিজিৎ সিং-এর বাড়ি, এতটা সাধারণ আপনি ভাবতেও পারবেন না, রইল ছবি",
-    "desc": "যখনই অরিজিৎ সিং কাজ থেকে অবসর পান, তিনি মুর্শিদাবাদে তাঁর বাড়িতে ফিরে আসেন। তিনি তাঁর বেশিরভাগ সময় সেখানেই কাটান। তিনি তাঁর বাড়িটি সুন্দরভাবে সাজিয়েছেন। তাঁর ১২ বছরের ক্যারিয়ারে, অরিজিৎ সিং ২৩৪টিরও বেশি ছবিতে গান গেয়েছেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.34.06-PM-2026-01-25d92e8aecf8894ed34cbe87affe327b-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/arijit-singh-news-update-famous-singer-with-very-simple-lifestyle-pictures-of-his-house-at-jiaganj-pbd-2516548.html",
-    "time": "2026-01-28T11:35:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ajit Pawar’s Death: বিমান দুর্ঘটনায় অজিত পওয়ারের মৃত্যুতে স্তব্ধ দেশ! শোকজ্ঞাপন করে কী বললেন কঙ্গনা?",
-    "desc": "তাঁর মৃত্যুর খবর শুনে স্তম্ভিত বিজেপি সাংসদ তথা অভিনেত্রী কঙ্গনা রানাওয়াত। কঙ্গনা লোকসভা অধিবেশন শেষে বাইরে বেরিয়ে জানান, তিনি এখনও এই খবর বিশ্বাস করতে পারছেন না। ANI একটি ভিডিও শেয়ার করেছে। কঙ্গনার কথায়, ‘‘এমন কিছু যে ঘটেছে, তা-ই জানতাম না। মনের অবস্থা বলে বোঝানো যাবে না। ধাতস্থ হতে সময় লাগবে।’’",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.54.13-PM-2026-01-a5a61c6eb78a83ef93bf029673ef6669-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/kangna-on-ajit-pawar-sudden-death-latest-news-rmj-2516385.html",
-    "time": "2026-01-28T10:52:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "কাঁঠাল নয়, পাতা বেচেই কপাল ফিরল আনোয়ার আলির! অভিনব ‘বিজনেস আইডিয়া’ তাক লাগাচ্ছে গোটা জেলায়",
-    "desc": "ফেলে দেওয়া কাঁঠাল পাতাই এখন লক্ষ্মীলাভের উৎস! উত্তর ২৪ পরগনার আনোয়ার আলি দেখালেন উপার্জনের এক অভাবনীয় দিশা। কাঁঠাল নয়, শুধু পাতা বিক্রি করেই কীভাবে অঢেল লাভ করা সম্ভব? জানুন এই সফল উদ্যোক্তার ব্যবসায়িক মডেল সম্পর্কে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/jackfruit-leaf-business-idea-2026-01-85c3b54cee8b60ffe3408ec89a4021e3-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/north-24-parganas-business-idea-jackfruit-leaf-selling-success-business-north-24-parganas-man-earning-huge-l18-local18-2515762.html",
-    "time": "2026-01-28T09:57:53.000Z"
   }
 ];

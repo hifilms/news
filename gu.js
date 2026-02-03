@@ -1,21 +1,39 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "અમેરિકાની એ 4 મોટી શરતો! જ્યારબાદ ટ્રમ્પે ભારત સાથેની મેગા ટ્રેડ ડીલ પર લગાવી મહોર",
+    "desc": "છેલ્લા ઘણા અઠવાડિયાની અનિશ્ચિતતા પછી થયેલા આ ડીલને બન્ને દેશો વચ્ચેના સંબંધોમાં એક મહત્વપૂર્ણ પગલું તરીકે જોવામાં આવી રહ્યું છે. વડાપ્રધાન નરેન્દ્ર મોદીએ આ નિર્ણયનું જોરદાર સ્વાગત કરતા કહ્યું કે, દુનિયાના બે સૌથી મોટા લોકશાહી દેશો વચ્ચે પરસ્પર સહયોગ વધુ મજબૂત બનશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/india-us-trade-deal-these-four-conditions-with-no-russian-oil-zero-tariffs-know-463866 ",
+    "time": "2026-02-03T15:35:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "AC ખરીદવા માટે ફેબ્રુઆરી સૌથી બેસ્ટ! ગરમી પહેલા મોટી બ્રાન્ડ્સ આપી રહી છે બમ્પર ડિસ્કાઉન્ટ",
+    "desc": "જેમ-જેમ ગરમી વધે છે, AC ની ડિમાન્ડ વધવા લાગે છે અને ઈન્સ્ટોલેશન માટે પ્રતીક્ષા કરવી પડે છે. પરંતુ ખૂબ ઓછા લોકો જાણે છે કે ફેબ્રુઆરીમાં ac ખરીદવી સૌથી સમજદારીભર્યો નિર્ણય સાબિત થઈ શકે છે. આ મહિને ઓફ-સીઝન ડિસ્કાઉન્ટને કારણે સારા મોડલ ઓછા ભાવમાં મળી જાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/february-best-time-buy-air-conditioner-before-summer-season-463863 ",
+    "time": "2026-02-03T14:36:21.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "શું ટ્રમ્પ ભારત-રશિયાના તેલ સોદાને રોકી શકશે? પુતિનની સ્પષ્ટ ચેતવણી, જાણો ભારત પર શું થશે અસર",
+    "desc": "ટ્રમ્પે દાવો કર્યો હતો કે ટેરિફ ઘટાડાના બદલામાં, ભારત રશિયા પાસેથી તેલ ખરીદવાનું બંધ કરશે અને યુનાઇટેડ સ્ટેટ્સ પાસેથી વધુ તેલ ખરીદશે. તેમણે એમ પણ કહ્યું હતું કે ભારત દ્વારા રશિયન તેલ ખરીદવાથી યુક્રેન યુદ્ધમાં પરોક્ષ રીતે રશિયાને મદદ મળી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/russia-first-statement-on-trump-claim-know-the-big-revelation-made-about-relations-with-india-and-oil-purchases-463845 ",
+    "time": "2026-02-03T14:12:08.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ભારતના આ 5 સૌથી સુંદર ગામ આગળ સ્વિટ્ઝર્લૅન્ડ પણ લાગશે ફિક્કું, જિંદગીમાં એકવાર જરૂર લો મુલાકાત",
     "desc": "ભારતમાંથી હજારો લોકો દર વર્ષે મનની શાંતિ માટે વિદેશમાં ફરવા જવાનો પ્લાન બનાવે છે અને તે દેશોને સુંદર માને છે. પરંતુ શું તમે ક્યારેય ભારતના આ 5 ગામોની મુલાકાત લીધી છે. એક વખત ભારતના આ ગામની મુલાકાત લીધા પછી તમે વિદેશી દેશો વિશે ભૂલી જશો.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/5-most-beautiful-villages-in-india-visit-once-before-die-you-will-forget-switzerland-travel-guide-463847 ",
     "time": "2026-02-03T12:10:00.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ટ્રમ્પના દાવા પર રશિયાનું પહેલું નિવેદન, જાણો ભારત સાથે સબંધો અને તેલની ખરીદીમાં કર્યો મોટો ખુલાસો",
-    "desc": "ટ્રમ્પે દાવો કર્યો હતો કે ટેરિફ ઘટાડાના બદલામાં, ભારત રશિયા પાસેથી તેલ ખરીદવાનું બંધ કરશે અને યુનાઇટેડ સ્ટેટ્સ પાસેથી વધુ તેલ ખરીદશે. તેમણે એમ પણ કહ્યું હતું કે ભારત દ્વારા રશિયન તેલ ખરીદવાથી યુક્રેન યુદ્ધમાં પરોક્ષ રીતે રશિયાને મદદ મળી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/russia-first-statement-on-trump-claim-know-the-big-revelation-made-about-relations-with-india-and-oil-purchases-463845 ",
-    "time": "2026-02-03T12:04:51.000Z"
   },
   {
     "cat": "Politics",
@@ -268,15 +286,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/wife-stands-by-husband-dead-body-gets-ready-kills-him-when-he-refuses-to-make-a-reel-463717 ",
     "time": "2026-02-02T09:47:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ભારતમાં ઘૂસી રહી છે ચીની સેના? રાહુલ ગાંધીના નિવેદન પર સંસદમાં હંગામો, રાજનાથ સિંહે વિરોધ કર્યો",
-    "desc": "1 ફેબ્રુઆરીએ દેશની સંસદમાં બજેટ રજૂ થયું અને આજે સંસદના નીચલા ગૃહ લોકસભામાં બજેટ પર ચર્ચા થઈ રહી છે. આ દરમિયાન રાષ્ટ્રપતિના અભિભાષણ પર ધન્યવાદ પ્રસ્તાવ પર રાહુલ ગાંધી એવું તે શું બોલ્યા કે સદનમાં હંગામો થયો, રાજનાથ સિંહે વિરોધ નોંધાવ્યો... જાણો તમામ વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/budget-session-rajnath-singh-objects-lop-rahul-gandhi-citing-quote-from-unpublish-magazine-story-463707 ",
-    "time": "2026-02-02T09:07:24.000Z"
   },
   {
     "cat": "Sports",
@@ -547,15 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/arijit-singh-runs-a-restaurant-in-west-bengal-serve-full-plate-food-in-just-40-rupees-463267 ",
     "time": "2026-01-29T12:10:36.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "સોનાની નગરીમાં હશે સોનાની શેરી, દુનિયામાં અહીં બની રહી છે &amp;#039;ગોલ્ડ સિટી&amp;#039;; પહેલો Video આવ્યો સામે",
-    "desc": "દુબઈના અધિકારીઓને ઉમ્મીદ છે કે, આ ગોલ્ડ સ્ટ્રીટમાં ઓછામાં ઓછી 1000થી વધુ રિટેલર સોનાની દુકાનો હશે. જેના કારણે આ ગલીઓની ઓળખ \"સિટી ઓફ ગોલ્ડ\" તરીકે થશે અને પહેલેથી જ આકર્ષણનું કેન્દ્ર બનેલ દુબઈને આનાથી એક નવી ઓળખ મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/dubai-gold-district-first-gold-street-launch-city-of-gold-463264 ",
-    "time": "2026-01-29T11:40:14.000Z"
   },
   {
     "cat": "Tech",

@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ricky Ponting reveals pleading to Delhi Capitals management to keep Abhishek Sharma, franchise instead traded",
+    "desc": "Ricky Ponting has predicted a breakout T20 World Cup for India opener Abhishek Sharma, highlighting the young batter as a potential leading run-scorer and even Player of the Tournament. The former Australia captain’s confidence in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ricky-ponting-reveals-pleading-to-delhi-capitals-management-to-keep-abhishek-sharma-franchise-instead-traded-2026-02-03-1028777",
+    "time": "2026-02-03T15:17:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Mohsin Naqvi make U-turn on Pakistan's India boycott in T20 World Cup after Bangladesh elections?",
+    "desc": "The much-anticipated India vs Pakistan clash in the T20 World Cup 2026 might not happen now as the Pakistani government has instructed its team to boycott the high-octane group stage clash that was scheduled to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-mohsin-naqvi-make-u-turn-on-pakistans-india-boycott-in-t20-world-cup-after-bangladesh-elections-2026-02-03-1028772",
+    "time": "2026-02-03T14:47:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shikhar Dhawan completes half-century",
+    "desc": "Delhi Warriors had a stunning season so far, winning four out of their five matches in the ongoing World Legends Pro T20 League. They have been a force to reckon with and will now play...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/delhi-warriors-vs-dubai-royals-world-legends-pro-t20-league-2026-semi-final-live-today-in-goa-shikhar-dhawan-harbhajan-singh-irfan-pathan-1028768",
+    "time": "2026-02-03T14:03:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Broadcasters plan to move to court if Pakistan boycotts India game",
+    "desc": "The ICC has cautioned Pakistan that a boycott of the February 15 match against India in Colombo could expose the board to legal action from the host broadcaster. Pakistan’s government has already confirmed on X...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-2026-broadcasters-plan-to-move-to-court-if-pakistan-boycotts-india-game-2026-02-03-1028763",
+    "time": "2026-02-03T13:29:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Pat Cummins not part of Australia's T20 World Cup 2026 squad? Australia pacer reveals details",
+    "desc": "Pat Cummins’ absence from the T20 World Cup was not a last-minute decision but part of a longer-term calculation shaped by injury management and an unusually heavy international calendar. Australia’s Test and ODI captain has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-pat-cummins-not-part-of-australia-s-t20-world-cup-2026-squad-australia-pacer-reveals-details-2026-02-03-1028759",
+    "time": "2026-02-03T13:13:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mooney takes Giants to strong score of 168/7",
+    "desc": "Gujarat Giants are up against Delhi Capitals in the Eliminator of the Women's Premier League 2026. The two sides are facing each other for the first time in a knockout match as the Royal Challengers...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gg-vs-dc-wpl-2026-eliminator-live-cricket-score-gujarat-giants-vs-delhi-capitals-bca-stadium-vadodara-latest-match-updates-scorecard-teams-highlights-2026-02-03-1028758",
+    "time": "2026-02-03T13:08:18.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How surface at BCA Stadium, Vadodara is expected to play?",
     "desc": "Gujarat Giants are set to face Delhi Capitals in the Eliminator of the Women's Premier League 2026, with the spot in the final up for grabs. The Capitals made a late surge into the knockouts...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-left-unhappy-declined-to-play-after-karim-benzema-completes-move-to-al-hilal-2026-02-03-1028737",
     "time": "2026-02-03T10:54:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav to Harry Brook, captains of 20 participating teams in tournament",
-    "desc": "The 10th edition of T20 World Cup is all set get underway on February 7 in India and Sri Lanka. Pakistan will lock horns against the Netherlands at the Sinhalese Sports Club in Colombo at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-2026-suryakumar-yadav-to-harry-brook-captains-of-20-participating-teams-in-tournament-2026-02-03-1028725",
-    "time": "2026-02-03T09:40:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Do you know? Italy captain Wayne Madsen played in Hockey World Cup 2006 for South Africa",
-    "desc": "South Africa-born Wayne Madsen is set to lead Italy in the T20 World Cup. Italy are playing in the mega event for the first time in cricket history and have been placed in Group C...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/do-you-know-italy-captain-wayne-madsen-played-in-hockey-world-cup-2006-for-south-africa-2026-02-03-1028713",
-    "time": "2026-02-03T08:09:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Report",
-    "desc": "Pakistan are facing isolation from the other full member cricket boards over their decision to boycott the match against India in the T20 World Cup 2026. For the unversed, Pakistan government has denied its cricket...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-face-isolation-from-full-member-cricket-boards-over-india-match-boycott-row-report-2026-02-03-1028702",
-    "time": "2026-02-03T06:56:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mitchell Marsh shuts down journalist for question over Pakistan boycotting India clash in T20 World Cup 2026",
-    "desc": "Australia captain Mitchell Marsh faced some unexpected questions from a Pakistan journalist at the end of the third T20I against Pakistan in Karachi. He was asked about Pakistan boycotting the marquee clash against India in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-marsh-shuts-down-journalist-for-question-over-pakistan-boycotting-india-clash-in-t20-world-cup-2026-2026-02-03-1028692",
-    "time": "2026-02-03T06:06:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why will Team India have to travel to Sri Lanka despite Pakistan boycotting the clash in T20 World Cup 2026?",
-    "desc": "Pakistan has confirmed that they will boycott the marquee clash against India on February 15 in the T20 World Cup 2026. The match is scheduled to take place at the R Premadasa Stadium in Colombo,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-will-team-india-have-to-travel-to-sri-lanka-despite-pakistan-boycotting-the-clash-in-t20-world-cup-2026-2026-02-03-1028675",
-    "time": "2026-02-03T04:18:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Did Australia's hectic schedule from August 2026 play a role in Pat Cummins missing T20 World Cup 2026?",
-    "desc": "Australia's Test captain Pat Cummins has admitted that the team's hectic international schedule from August 2026 was one of the reasons why he pulled out of the T20 World Cup. Ben Dwarshuis replaced him in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/did-australia-s-hectic-international-schedule-from-august-2026-play-a-role-in-pat-cummins-missing-t20-wc-2026-2026-02-03-1028665",
-    "time": "2026-02-03T03:04:56.000Z"
   }
 ];
