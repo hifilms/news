@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why will Team India have to travel to Sri Lanka despite Pakistan boycotting the clash in T20 World Cup 2026?",
+    "desc": "Pakistan has confirmed that they will boycott the marquee clash against India on February 15 in the T20 World Cup 2026. The match is scheduled to take place at the R Premadasa Stadium in Colombo,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-will-team-india-have-to-travel-to-sri-lanka-despite-pakistan-boycotting-the-clash-in-t20-world-cup-2026-2026-02-03-1028675",
+    "time": "2026-02-03T04:18:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Did Australia's hectic schedule from August 2026 play a role in Pat Cummins missing T20 World Cup 2026?",
+    "desc": "Australia's Test captain Pat Cummins has admitted that the team's hectic international schedule from August 2026 was one of the reasons why he pulled out of the T20 World Cup. Ben Dwarshuis replaced him in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/did-australia-s-hectic-international-schedule-from-august-2026-play-a-role-in-pat-cummins-missing-t20-wc-2026-2026-02-03-1028665",
+    "time": "2026-02-03T03:04:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why are India A and Sri Lanka A playing T20 World Cup 2026 warm-up matches?",
+    "desc": "The much-awaited T20 World Cup is all set to get underway on February 7 in India and Sri Lanka. Ahead of the tournaments, teams are busy playing the warm-up matches that started on Monday (February...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-are-india-a-and-sri-lanka-a-playing-t20-world-cup-2026-warm-up-matches-2026-02-03-1028661",
+    "time": "2026-02-03T02:34:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Italy rings warning bells for other teams with stunning win over Canada in warm-up clash",
     "desc": "Italy could be playing the T20 World Cup for the first time in their cricketing history but they have already rung warning bells for teams in their group for the tournament. In the first warm-up...",
     "img": "",
@@ -52,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/how-did-tilak-varma-perform-on-his-first-competitive-outing-since-surgery-as-t20-world-cup-2026-nears-2026-02-02-1028622",
     "time": "2026-02-02T13:50:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND A vs USA T20 World Cup warm-up Highlights: India A beat US by 38 runs in practice game in Navi Mumbai",
-    "desc": "India A defeated the USA in their first match of the T20 World Cup 2026 warm-up fixtures at the Dr DY Patil Sports Academy, Navi Mumbai. Batting first, India A made 238/3 in their 20...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-a-vs-usa-t20-world-cup-warm-up-live-cricket-score-india-a-vs-usa-dr-dy-patil-sports-academy-latest-match-updates-scorecard-teams-highlights-2026-02-02-1028605",
-    "time": "2026-02-02T10:55:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch T20 World Cup warm-up fixture in India?",
-    "desc": "The International Cricket Council (ICC) has announced the warm-up fixtures and the live streaming details for the T20 World Cup 2026 warm-up matches in the build-up to the tournament. The tournament will kick off on February...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-a-vs-usa-live-streaming-details-when-and-where-to-watch-t20-world-cup-warm-up-fixture-in-india-2026-02-02-1028600",
-    "time": "2026-02-02T10:30:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'They will miss Virat and Rohit': Anil Kumble weighs in on India's T20 World Cup 2026 squad",
-    "desc": "The Indian team is all set to defend its title in the upcoming T20 World Cup 2026. The Men in Blue were sensational back in 2024 when they defeated South Africa in the summit clash...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/they-will-miss-virat-and-rohit-anil-kumble-weighs-in-on-india-s-t20-world-cup-2026-squad-2026-02-02-1028595",
-    "time": "2026-02-02T09:29:50.000Z"
   }
 ];

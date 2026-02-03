@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "ટેરિફ ડીલથી બજાર ખુશખુશાલ, સેન્સેક્સ-નિફ્ટી જબરદસ્ત ઉછળ્યા, આ 10 શેર દોડવા લાગ્યા",
+    "desc": "અમેરિકા અને ભારત વચ્ચે ટ્રેડ ફાઈનલ થઈ અને ટેરિફ ઘટવાના સમાચાર આવ્યા. આ સમાચારે શેર બજારને ખુશ ખુશ કરી દીધુ અને ખુલતાની સાથે જ સેન્સેક્સ અને નિફ્ટીમાં જોરદાર ઉછાળો જોવા મળ્યો. જાણો કયા શેરને સૌથી વધુ ફાયદો થયો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/us-india-trade-deal-effect-sensex-skyrockets-nifty-also-jumps-stock-market-news-in-gujarati-463792 ",
+    "time": "2026-02-03T04:44:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "હજુ પણ ઓલટાઈમ હાઈથી સોનું 32469 અને ચાંદી 169564 રૂપિયા સસ્તી, ખરીદવું હોય તો આજનો ભાવ જાણો",
+    "desc": "સોનું અને ચાંદી ગુરુવારે રેકોર્ડ સ્તર બનાવ્યા બાદ સતત ગગડતા જોવા મળ્યા પરંતુ આજે બજાર ખુલતા જ આકાશે આંબવા લાગ્યા છે. જો કે હજુ પણ રેકોર્ડ હાઈથી સોનું અને ચાંદી ખુબ સસ્તા જોવા મળી રહ્યા છે. આજનો વાયદા બજારનો ભાવ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-rate-today-mcx-comex-gold-and-silver-rate-aaj-no-sona-chandi-no-bhav-business-news-in-gujarati-463790 ",
+    "time": "2026-02-03T04:04:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "અમેરિકાએ ટેરિફ ઘટાડ્યો, હવે પાકિસ્તાન-ચીન-બાંગ્લાદેશ કરતા પણ ઓછો, સૌથી વધુ કયા સેક્ટરને ફાયદો?",
+    "desc": "અમેરિકાએ ભારત પર જે 25 ટકા રેસિપ્રોકલ ટેરિફ લગાવ્યો હતો તે ઘટાડીને હવે 18 ટકા કરી નાખ્યો છે. આ ઉપરાંત રશિયન ઓઈલની ખરીદી પર જે વધારાનો 25 ટકા ટેરિફ લગાવ્યો તેનું શું થયું અને આ ટેરિફ ઘટાડ્યા બાદ સૌથી વધુ કયા સેક્ટરોને ફાયદો થશે તે પણ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/us-tariff-on-india-reduced-to-18-percent-now-less-than-pakistan-and-bangladesh-effect-on-which-industry-463787 ",
+    "time": "2026-02-03T03:30:56.000Z"
+  },
+  {
     "cat": "World",
     "title": "અમેરિકાએ ઘટાડ્યો ટેરિફ, 25%થી ઘટાડીને 18% કર્યો; ટ્રમ્પે કહ્યું- ભારત હવે રશિયા પાસેથી તેલ નહીં ખરીદે",
     "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે સોમવારે જાહેરાત કરી કે, તેઓ ટેરિફન 25 ટકાથી ઘટાડીને 18 ટકા કરી દેશે. આ વાત તેમણે વડાપ્રધાન નરેન્દ્ર મોદી સાથે વાતચીત કર્યાના થોડા જ સમય બાદ કહી છે. આ જાહેરાતથી ભારત-અમેરિકા સંબંધોમાં નરમાશ આવવાનો સંકેત મળી રહ્યા છે. આ નિર્ણયથી બન્ને દેશોની વચ્ચે વેપાર વધવાની અને આયાત ખર્ચમાં ઘટાડો થવાની અપેક્ષા છે.",
@@ -196,15 +223,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/bharat-vistaar-ai-platform-has-been-launched-in-the-budget-to-change-the-fortunes-of-farmers-463647 ",
     "time": "2026-02-01T14:18:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "બજેટની 10 મોટી વાતો... મિડલ ક્લાસ, ખેડૂતો અને યુવાનોને શું-શું મળ્યું?",
-    "desc": "આજે લોકસભામાં નાણામંત્રી નિર્મલા સીતારમણ દ્વારા દેશનું સામાન્ય બજેટ રજૂ કરવામાં આવ્યું છે. નાણામંત્રી નિર્મલા સીતારમણે મોદી સરકારના કાર્યકાળમાં પોતાનું સતત 9મું બજેટ રવિવારે લોકસભામાં રજૂ કર્યું છે. આમાં ખેડૂતોથી લઈને જવાનો સુધીના તમામ વર્ગો માટે મોટી જાહેરાતો કરવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/budget-10-big-announcements-of-nirmala-sitharaman-impact-middle-class-farmers-youth-to-defence-463641 ",
-    "time": "2026-02-01T13:24:35.000Z"
   },
   {
     "cat": "Politics",
@@ -412,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/box-office-collection-of-film-mardaani-3-and-sunny-deol-border-2-463423 ",
     "time": "2026-01-31T02:57:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "જર્મની, ઑસ્ટ્રિયા અને સ્વિટ્ઝર્લૅન્ડમાં ભારતીય શોનો માણો આનંદ, ઝી એન્ટરટેઈનમેન્ટ કરી ભાગીદારીની જાહેરાત",
-    "desc": "ઝી ટીવીના મનોરંજન કાર્યક્રમો હવે યુરોપમાં તેની પહોંચ વિસ્તારવા માટે તૈયાર છે. ઝી એન્ટરટેઈનમેન્ટ યુકેએ લાઈવ ફાસ્ટ ચેનલના લોન્ચ સાથે ભાગીદારી કરી છે, જે ત્રણ દેશોના દર્શકોને જર્મન સબટાઈટલ સાથે ભારતીય શો જોવાની મંજૂરી આપશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/enjoy-indian-shows-in-germany-austria-and-switzerland-zee-entertainment-announces-partnership-463395 ",
-    "time": "2026-01-30T15:46:22.000Z"
   },
   {
     "cat": "Sports",
@@ -691,15 +700,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/india-eu-trade-deal-bring-relief-on-cars-tariff-reduce-to-40-percent-in-country-462926 ",
     "time": "2026-01-26T05:01:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ઘરે બેઠા જોવા મળશે બોર્ડર 2, જાણો કયા ઓટીટી પ્લેટફોર્મ પર રિલીઝ થશે સની દેઓલની ધાંસૂ ફિલ્મ",
-    "desc": "સની દેઓલની ફિલ્મ બોર્ડર 2 સિનેમા ઘરોમાં ધુમ મચાવી રહી છે. થિયેટર્સમાં સફળ પ્રદર્શન પછી આ ફિલ્મના ઓનલાઈન સ્ટ્રીમિંગ અંગે પણ ચર્ચા થઈ રહી છે. બોર્ડર 2 ફિલ્મ તમે ઘર બેઠા કેવી રીતે જોઈ શકશો ચાલો તમને જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/border-2-ott-release-update-sunny-deol-border-2-film-on-netflix-soon-462858 ",
-    "time": "2026-01-25T07:07:37.000Z"
   },
   {
     "cat": "Tech",

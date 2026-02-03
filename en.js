@@ -1,5 +1,185 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "‘The X-Files’ star Elyse Donalson passes away at 78",
+    "desc": "The Curse of Michael Myers' and 'The X-Files', has passed away at 78. Donalson, who began her acting journey in Texas before moving to Los Angeles, also appeared in 'The Real Thing' and 'Switched at Birth'. Her sister confirmed the news of her recent passing in Studio City.",
+    "img": "https://static.toiimg.com/photo/msid-127875926,imgsize-20198.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/halloween-the-curse-of-michael-myers-star-elyse-donalson-passes-away-at-age-78/articleshow/127875926.cms",
+    "time": "2026-02-03T04:33:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Anahat Singh beats world No. 10 to win title, becomes youngest Asian in top-20",
+    "desc": "Seventeen-year-old Anahat Singh achieved a career-defining victory at the Squash On Fire Open, defeating top seed Georgina Kennedy in the final. This PSA Bronze-level title marks her 15th overall and makes her the youngest Asian player to enter the world's top 20.",
+    "img": "https://static.toiimg.com/photo/msid-127875934,imgsize-253768.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/teenage-prodigy-anahat-singh-beats-world-no-10-to-win-title-becomes-youngest-asian-in-top-20/articleshow/127875938.cms",
+    "time": "2026-02-03T04:32:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Victim's kin say it sends wrong message",
+    "desc": "The case relates to the incident on May 19, 2024, when a Porsche car allegedly driven by a 17-year-old boy under the influence of alcohol fatally knocked down two IT professionals in Pune's Kalyani Nagar area",
+    "img": "https://th-i.thgim.com/public/incoming/897fw9/article69814236.ece/alternates/LANDSCAPE_1200/11908_31_5_2024_17_15_12_2_DSC_8081.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-bail-to-3-accused-in-2024-pune-porsche-crash-victims-kin-say-it-sends-wrong-message/article70585992.ece",
+    "time": "2026-02-03T04:26:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Just like ceasefire…’: Congress demands full details of India-US trade deal; fires four questions to Centre",
+    "desc": "The Congress party has urged the Central government to disclose the full details of the India-US trade agreement, questioning its impact on farmers, industry, and the \"Make in India\" initiative. Concerns were raised over India reportedly agreeing to zero tariffs on US goods and potentially halting Russian oil purchases.",
+    "img": "https://static.toiimg.com/photo/msid-127875696,imgsize-923269.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/just-like-ceasefire-congress-demands-full-details-of-india-us-trade-deal-fires-four-questions-to-centre/articleshow/127875441.cms",
+    "time": "2026-02-03T04:16:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Makers drop poster of Ranveer in bloodied look",
+    "desc": "As anticipation builds for the 'Dhurandhar 2' teaser, the creators have dropped an electrifying poster showcasing Ranveer Singh in a chilling, blood-spattered look, teasing a storyline packed with intensity. This sequel to the blockbuster that grossed Rs 1300 crore is set to enthrall audiences with even more heart-pounding action and deep intrigue.",
+    "img": "https://static.toiimg.com/photo/msid-127875632,imgsize-73368.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-makers-unveil-menacing-new-poster-of-ranveer-singh-in-blood-soaked-look-ahead-of-teaser-release/articleshow/127875632.cms",
+    "time": "2026-02-03T04:15:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka High Court imposes ₹50,000 costs on Wipro for ‘abusing process of law’ and denying legitimate payment to ex-employee",
+    "desc": "The payment was subject to three conditions — he should not solicit or influence employees of Wipro, disclose details if any employee approached him on their own, and not join competing companies for a period of 18 months",
+    "img": "https://th-i.thgim.com/public/incoming/c6inhv/article70584861.ece/alternates/LANDSCAPE_1200/2026-01-19T040241Z_1206971781_RC296GALV78D_RTRMADP_3_WIPRO-STOCKS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-imposes-50000-costs-on-wipro-for-abusing-process-of-law-and-denying-legitimate-payment-to-ex-employee/article70583694.ece",
+    "time": "2026-02-03T04:03:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian team sweats on Sumit Nagal's fitness",
+    "desc": "India's Davis Cup captain Rohit Rajpal is concerned about Sumit Nagal's hip strain ahead of the tie against the Netherlands. Nagal, India's top singles player, retired from a recent tournament and has been undergoing rehabilitation. He is set to begin on-court training this week, with his availability for the qualifiers still uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-127875472,imgsize-54388.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/davis-cup-indian-team-sweats-on-sumit-nagals-fitness/articleshow/127875480.cms",
+    "time": "2026-02-03T03:59:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Adarsh REACTS to Arijit's retirement: 'Most authentic...'",
+    "desc": "Actor Adarsh Gourav has praised Arijit Singh's bold step to retire from playback singing, describing him as a genuine artist who values his peace and authenticity over limelight. Gourav highlighted Singh’s unique artistry and expressed his enthusiasm for those who stay grounded in their truths. Read on to know more.",
+    "img": "https://static.toiimg.com/photo/msid-127875329,imgsize-42300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/adarsh-gourav-reacts-to-arijit-singhs-retirement-annoucement-says-hes-the-most-authentic-artist-that-i-know-because/articleshow/127875329.cms",
+    "time": "2026-02-03T03:49:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Diaspora’s dream close as 40 Indian-origin players set to spice up T20 World Cup",
+    "desc": "Dozens of players with Indian roots are representing other nations at the T20 World Cup, chasing dreams they couldn't fulfill in India's competitive cricket scene. From the US to Canada, Oman, and the UAE, these cricketers, including former age-group players and even professionals, are seizing second chances on the international stage, cherishing every moment.",
+    "img": "https://static.toiimg.com/photo/msid-127875287,imgsize-133204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/diaspora-within-touching-distance-of-the-dream-40-indian-origin-players-set-to-spice-up-t20-world-cup/articleshow/127875253.cms",
+    "time": "2026-02-03T03:45:20.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Cuba confirms ‘communications’ with U.S., but says no negotiations yet",
+    "desc": "Donald Trump, on February 2, claimed the United States was in talks with “the highest people” in communist Cuba and that he expected to “make a deal” with its leadership, without saying what a deal might look like",
+    "img": "https://th-i.thgim.com/public/incoming/8h0nd7/article70585904.ece/alternates/LANDSCAPE_1200/2026-02-02T210835Z_530100915_RC2VDJA0NI74_RTRMADP_3_CUBA-USA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/cuba-confirms-communications-with-us-but-says-no-negotiations-yet/article70585893.ece",
+    "time": "2026-02-03T03:28:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why India’s left-arm pacer could be a middle-overs weapon",
+    "desc": "Arshdeep Singh's recent Powerplay figures mask his true potential. Experts suggest deploying him strategically in the middle overs, where his variations and ability to build pressure are most effective. This approach, rather than early and late spells, can maximise his impact for India in upcoming tournaments, leveraging his skill with the semi-old ball.",
+    "img": "https://static.toiimg.com/photo/msid-127875085,imgsize-250066.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/decoding-arshdeep-singh-why-indias-left-arm-pacer-could-become-a-middle-overs-weapon/articleshow/127875079.cms",
+    "time": "2026-02-03T03:25:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jelly Roll on his addiction and his weight loss journey",
+    "desc": "Country-rap sensation Jelly Roll, recognized with three Grammy awards, opened up about his tumultuous journey with food addiction, which he likens to his former cocaine challenges. He pointed out that combatting unhealthy eating requires the same level of commitment and focus as quitting drugs, highlighting the crucial role of therapy and maintaining a consistent routine, rather than turning to medication.",
+    "img": "https://static.toiimg.com/photo/msid-127875074,imgsize-46772.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/jelly-roll-opens-up-about-his-weight-loss-journey-compares-food-addiction-to-past-cocaine-addiction/articleshow/127875062.cms",
+    "time": "2026-02-03T03:22:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Love Is Blind’ season 10 trailer drops; fans excited",
+    "desc": "Mark your calendars for the exciting launch of 'Love Is Blind' Season 10, taking place amid the charm of Ohio! A new group of hopeful romantics will step into the pods, eager to form deep connections without ever laying eyes on each other. Anticipate a whirlwind of emotions, surprise romances, and a shared journey towards love.",
+    "img": "https://static.toiimg.com/photo/msid-127874695,imgsize-28556.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/love-is-blind-trailer-show-returns-for-10th-season-in-newly-released-teaser-watch/articleshow/127874695.cms",
+    "time": "2026-02-03T02:58:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM",
+    "desc": "“The Union Budget will give new strength to all-round development of Rajasthan and support our resolve to achieve the development goals… It is a roadmap for a developed India,” Rajasthan CM Bhajan Lal Sharma said",
+    "img": "https://th-i.thgim.com/public/incoming/u9k0mq/article70584915.ece/alternates/LANDSCAPE_1200/20260122362L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-fully-prepared-to-take-advantage-of-budgetary-incentives-cm/article70583557.ece",
+    "time": "2026-02-03T02:57:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No ICC meeting yet as Pakistan's boycott threat clouds India clash at T20 World Cup",
+    "desc": "The ICC has not yet taken concrete steps regarding Pakistan's potential boycott of the T20 World Cup match against India. No emergency board meeting has been called, and the PCB has not formally communicated its intentions. This leaves the onus on the PCB to clarify its stance on selective participation.",
+    "img": "https://static.toiimg.com/photo/msid-127874655,imgsize-61500.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/no-icc-meeting-yet-as-pakistans-boycott-threat-clouds-india-clash-at-t20-world-cup/articleshow/127874587.cms",
+    "time": "2026-02-03T02:54:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Eminem’s daughter Alaina Marks baby shower milestone",
+    "desc": "Eminem's daughter, Alaina Marie Mathers, celebrated her upcoming baby girl with a joyous baby shower surrounded by family. Sharing touching photos, she expressed gratitude for her supportive 'village' as she anticipates motherhood. Her sisters, Hailie Jade and Whitney Scott Mathers, joined the festivities, highlighting the strong family bonds.",
+    "img": "https://static.toiimg.com/photo/msid-127874556,imgsize-1157664.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/eminems-daughter-alaina-marie-mathers-celebrates-a-baby-shower-amid-family-love/articleshow/127874540.cms",
+    "time": "2026-02-03T02:48:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "‘Well played, President Trump’: US Senator who wants 500% tariff for Russian oil says India has ‘earned’ reduction to 18%",
+    "desc": "US President Donald Trump announced a trade deal with India in which the US will bring down tariffs on Indian exports to 18%. Trump also made a series of claims related to the trade deal such as India agreeing to stop buying Russian crude",
+    "img": "https://static.toiimg.com/photo/msid-127874317,imgsize-89784.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/well-played-president-trump-us-senator-who-wants-500-tariff-for-russian-oil-says-india-has-earned-reduction-to-18/articleshow/127874186.cms",
+    "time": "2026-02-03T02:25:55.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Drone attack targets strategic northeast Congo city, authorities say, blaming M23",
+    "desc": "The government of ⁠Tshopo province, where Kisangani is located, said in a statement on Sunday (February 1, 2026) that the drones attempted to strike Bangoka International Airport between ​early Saturday (January 31, 2026) and early Sunday (February 1, 2026) ⁠but were shot down before reaching their target",
+    "img": "https://th-i.thgim.com/public/incoming/gg8sbr/article70468492.ece/alternates/LANDSCAPE_1200/2025-12-11T194833Z_458289501_RC2DEIAWK9L4_RTRMADP_3_CONGO-SECURITY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/drone-attack-targets-strategic-northeast-congo-city-authorities-say-blaming-m23/article70585089.ece",
+    "time": "2026-02-03T02:25:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Netizens call Farah's cook Dilip 'IRRITATING'; here's why",
+    "desc": "Farah Khan's latest vlog, which offers a behind-the-scenes look at Shabana Azmi and Javed Akhtar's residence, has sparked some controversy. Many viewers expressed discomfort with her cook, Dilip, whose frequent interjections seemed to detract from the experience. Online discussions have emerged, with audiences calling for Farah to consider minimizing Dilip's role in future episodes to better captivate her audience.",
+    "img": "https://static.toiimg.com/photo/msid-127874213,imgsize-67632.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-visits-shabana-azmis-house-for-vlog-netizens-call-out-cook-dilips-overacting-saying-he-was-irritating/articleshow/127874213.cms",
+    "time": "2026-02-03T02:20:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock market recommendations for February 3, 2026",
+    "desc": "According to Somil Mehta, Head - Alternate Research, Capital Market Strategy, Mirae Asset Sharekhan, the top stocks to buy today on February 3, 2026 are: NMDC, DLF, Blue Star, and IOC. Let’s take a look:",
+    "img": "https://static.toiimg.com/photo/msid-127874110,imgsize-80346.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-february-03-2026-nmdc-dlf-blue-star-indian-oil-corporation-stocks-to-buy-today/articleshow/127874040.cms",
+    "time": "2026-02-03T01:55:50.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Centre has taken note of water contamination incident in Indore, Minister informs Rajya Sabha",
     "desc": "In a written reply to a question, Union Minister of State for Housing and Urban Affairs Tokhan Sahu said that the area has old pipelines dating back to 1997, adding that “some of it is damaged, so the municipal administration identified the old stretches of pipeline and included them under AMRUT 2.0”",
@@ -7,6 +187,24 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/centre-has-taken-note-of-water-contamination-incident-in-indore-minister-informs-rajya-sabha/article70585841.ece",
     "time": "2026-02-03T01:38:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I need to prioritise my kids'",
+    "desc": "Singer Kelly Clarkson is concluding her seven-season run on 'The Kelly Clarkson Show' to prioritize her children. In an emotional social media announcement, she expressed gratitude to her crew, colleagues, and fans for their support.",
+    "img": "https://static.toiimg.com/photo/msid-127873761,imgsize-51002.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kelly-clarkson-announces-final-season-of-the-kelly-clarkson-show-i-need-to-prioritise-my-kids/articleshow/127873677.cms",
+    "time": "2026-02-03T01:35:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bad Bunny’s ex Gabriela Berlingeri cheers his Grammy wins",
+    "desc": "Bad Bunny made history at the Grammys, securing Album of the Year for his Spanish-language album 'Debí Tirar Más Fotos'. His ex-partner, Gabriela Berlingeri, offered a classy message of congratulations via Instagram. The Puerto Rican superstar's emotional acceptance speeches highlighted his dedication to his homeland and immigrant communities, marking a significant career milestone.",
+    "img": "https://static.toiimg.com/photo/msid-127873937,imgsize-729088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bad-bunnys-ex-gabriela-berlingeri-shows-public-support-after-his-historic-grammy-sweep/articleshow/127873955.cms",
+    "time": "2026-02-03T01:35:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -234,15 +432,6 @@ const newsData_en = [
     "time": "2026-02-02T22:50:01.000Z"
   },
   {
-    "cat": "World",
-    "title": "Drone attack targets strategic northeast Congo city, authorities say, blaming M23",
-    "desc": "The government of ⁠Tshopo province, where Kisangani is located, said in a statement on Sunday (February 1, 2026) that the drones attempted to strike Bangoka International Airport between ​early Saturday (January 31, 2026) and early Sunday (February 1, 2026) ⁠but were shot down before reaching their target",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/drone-attack-targets-strategic-northeast-congo-city-authorities-say-blaming-m23/article70585089.ece",
-    "time": "2026-02-02T22:46:55.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Wangchuk tried to create Nepal and Bangladesh-like unrest: Govt tells SC",
     "desc": "Appearing before a bench of Justices Aravind Kumar and P B Varale, solicitor general Tushar Mehta said the activist was appealing to Gen Z to come out on the street against govt to create a problem in Ladakh which is very sensitive as it shares borders with countries that are not very friendly. Responding to Wangchuk’s submission that he was holding a peaceful protest against govt on the line of Gandhian principles, the SG said, “Gandhi was just a facade to hide his real intention of instigating violence.”",
@@ -288,24 +477,6 @@ const newsData_en = [
     "time": "2026-02-02T22:22:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Poll body red flags abusive language by Trinamool MLAs",
-    "desc": "While also listing blatant violations of EC’s lawful directions by the Bengal administration, CEC Gyanesh Kumar on Monday firmly conveyed to Mamata that the “rule of law shall prevail and anybody taking law into their own hands shall be dealt with strictly, as per provisions of law and powers vested in the Commission”. “No pressure, obstruction, or interference of any kind by anyone should be exerted on officers engaged in SIR work,” it was underlined.",
-    "img": "https://static.toiimg.com/photo/msid-127871718,imgsize-125352.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tmc-vs-ec-poll-body-red-flags-abusive-language-by-trinamool-mlas/articleshow/127871452.cms",
-    "time": "2026-02-02T22:19:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bad Bunny's old job pic resurfaces post Grammy win",
-    "desc": "Bad Bunny achieved a historic Grammy win for Album of the Year with his Spanish-language album 'Debí Tirar Más Fotos', marking a first for Latin music. Following this monumental success, an old photo of the artist working as a grocery bagger resurfaced, inspiring fans with his journey from humble beginnings to global stardom.",
-    "img": "https://static.toiimg.com/photo/msid-127870969,imgsize-30440.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bad-bunnys-pic-from-old-job-bagging-groceries-resurfaces-after-historic-grammy-award-win/articleshow/127870904.cms",
-    "time": "2026-02-02T21:44:28.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Govt spent only 5% of funds for job, skilling schemes in FY 2026",
     "desc": "Latest budget data released Sunday shows that govt spent nearly Rs 1,730 crore on the three components of the programme in FY26, out of a total of Rs 33,830 crore allocated in the 2024-25 budget. With the internship scheme having seen only two pilots, the Centre spent Rs 526 crore of Rs 10,800 crore allocated during FY26.",
@@ -324,15 +495,6 @@ const newsData_en = [
     "time": "2026-02-02T21:31:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Neena Gupta on Masaba’s bond with Vivian Richards",
-    "desc": "Veteran actor Neena Gupta has offered a rare glimpse into her personal life, opening up about the equation her daughter, designer Masaba Gupta, shares with her father and West Indies cricketing legend Vivian Richards. In a recent interview, Neena revealed that despite Richards not being a part of Masaba’s growing-up years, the father-daughter bond today is warm and easy.",
-    "img": "https://static.toiimg.com/photo/msid-127870920,imgsize-77120.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/neena-gupta-opens-up-on-masabas-bond-with-vivian-richards-hes-not-a-social-person-hes-in-his-own-world/articleshow/127870901.cms",
-    "time": "2026-02-02T21:25:48.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Survey in and around Kolkata shows most students in 17-24 age group read books only occasionally",
     "desc": "According to the survey, conducted by the Kolkata-based Sabar Institute and the Sarojini Naidu College for Women, 35% of students in the age group 17-24 years read only occasionally while 25% sat with a book daily",
@@ -349,33 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/trade-deal-done-says-trump-pm-modi-thanks-him-for-cutting-tariff-to-18/articleshow/127870886.cms",
     "time": "2026-02-02T21:19:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kim and Lewis SPOTTED in Paris amid dating buzz- WATCH",
-    "desc": "Speculation is rife as Kim Kardashian and Lewis Hamilton were spotted together in Paris, fueling rumors of a budding romance. The duo, long-time friends, were seen arriving at a hotel, following reports of a romantic getaway in the UK.",
-    "img": "https://static.toiimg.com/photo/msid-127870843,imgsize-25674.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kim-kardashian-and-lewis-hamilton-spotted-in-paris-couple-make-first-appearance-amid-dating-rumours-watch/articleshow/127870769.cms",
-    "time": "2026-02-02T21:01:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CM",
-    "desc": "“The Union Budget will give new strength to all-round development of Rajasthan and support our resolve to achieve the development goals… It is a roadmap for a developed India,” Rajasthan CM Bhajan Lal Sharma said",
-    "img": "https://th-i.thgim.com/public/incoming/u9k0mq/article70584915.ece/alternates/LANDSCAPE_1200/20260122362L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-fully-prepared-to-take-advantage-of-budgetary-incentives-cm/article70583557.ece",
-    "time": "2026-02-02T21:00:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Honey on maintaining a bond with Javed-Shabana after separation",
-    "desc": "Honey Irani has often been asked how she managed to maintain a warm relationship with former husband Javed Akhtar and his wife, actor Shabana Azmi, even years after their separation. Addressing it head-on, Honey believes that bitterness serves no purpose once two people part ways.",
-    "img": "https://static.toiimg.com/photo/msid-127870780,imgsize-41850.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/honey-irani-on-maintaining-a-good-equation-with-javed-akhtar-and-shabana-azmi-after-separation-i-didnt-want-to-lose-them-as-friends/articleshow/127870770.cms",
-    "time": "2026-02-02T20:35:18.000Z"
   },
   {
     "cat": "Politics",
@@ -423,15 +558,6 @@ const newsData_en = [
     "time": "2026-02-02T19:23:15.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Aamir Khan visits Arijit Singh at his Jiaganj home",
-    "desc": "Nearly a week after Arijit Singh announced his exit from playback singing, Aamir Khan visited the singer’s home in Jiaganj, Murshidabad, West Bengal, on Monday. Videos of the superstar’s visit quickly went viral, fuelling speculation about the purpose of his sudden trip.",
-    "img": "https://static.toiimg.com/photo/msid-127870019,imgsize-43916.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-visits-arijit-singh-at-his-jiaganj-home-days-after-singer-announces-playback-exit/articleshow/127869858.cms",
-    "time": "2026-02-02T19:06:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Tilak Varma makes solid 38, Jagadeesan's ton shines in India A's win over USA in warm-up game",
     "desc": "Priyansh Arya (28 in 13 balls, with four boundaries and two sixes) played a fiery cameo to start the innings with a 43-run stand with Jagadeesan, who went on to make 104 in 55 balls, with 11 fours and five sixes",
@@ -459,24 +585,6 @@ const newsData_en = [
     "time": "2026-02-02T18:54:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Love should happen to everyone on this planet’",
-    "desc": "Mrunal Thakur, who is currently promoting her latest music video Bheegi Bheegi, recently opened up about her views on love, calling it a deeply transformative and healing experience. Speaking amid ongoing relationship rumours linking her to Dhanush, the actor described love as something that helps people evolve into better versions of themselves.",
-    "img": "https://static.toiimg.com/photo/msid-127868805,imgsize-48394.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-relationship-rumours-with-dhanush-mrunal-thakur-says-love-should-happen-to-everyone-on-this-planet/articleshow/127868765.cms",
-    "time": "2026-02-02T18:07:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India-US trade deal: 25% penal tariffs linked to Russian oil gone? Here’s what we know",
-    "desc": "Donald Trump has claimed that the trade deal has been agreed after India has agreed to reduce tariffs on US goods to zero, committed to stop buying Russian crude and step up oil purchases from America, and potentially Venezuela.",
-    "img": "https://static.toiimg.com/photo/msid-127868772,imgsize-54406.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-25-penal-tariffs-linked-to-russian-oil-gone-heres-what-we-know/articleshow/127868647.cms",
-    "time": "2026-02-02T18:06:26.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "NDA Parliamentary party meeting on February 3",
     "desc": "MPs belonging to the BJP, TDP, JD(U), LJP (R), Shiv Sena, JD(S) and other constituents of the NDA will attend the meeting. Prime Minister Narendra Modi is expected to address the lawmakers on a host of issues at the meeting, sources said",
@@ -484,6 +592,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/nda-parliamentary-party-meeting-on-february-3/article70584674.ece",
     "time": "2026-02-02T17:18:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why are tribals protesting in Maharashtra?",
+    "desc": "Why did thousands of tribals hit the streets in the State? What are the reasons behind the protests? What are concerns about the implementation of the Forest Rights Act? Why are land rights, which are at the heart of the protest, a long-pending demand?",
+    "img": "https://th-i.thgim.com/public/incoming/mt0ear/article70584673.ece/alternates/LANDSCAPE_1200/PTI01_27_2026_000279B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/why-are-tribals-protesting-in-maharashtra-explained/article70584630.ece",
+    "time": "2026-02-02T17:16:29.000Z"
   },
   {
     "cat": "World",
@@ -495,15 +612,6 @@ const newsData_en = [
     "time": "2026-02-02T16:52:05.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "R Madhavan reveals why he quit acting for four years",
-    "desc": "R Madhavan has revealed that he took a four-year break from acting because he had grown deeply dissatisfied with the kind of work he was doing at the time. The actor stepped away from films in 2011 and returned only in 2016 with Saala Khadoos — a comeback that marked a clear shift from his earlier romantic roles to intense, author-backed performances.",
-    "img": "https://static.toiimg.com/photo/msid-127867328,imgsize-58188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-reveals-why-he-quit-acting-for-four-years-i-was-very-disillusioned-with-the-kind-of-work-i-was-doing/articleshow/127867275.cms",
-    "time": "2026-02-02T16:51:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sri Lanka drop Test captain Dhananjaya de Silva from T20 WC squad",
     "desc": "Sri Lanka dropped Test captain Dhananjaya de Silva from Dasun Shanaka’s 15-member T20 World Cup squad after modest returns since his recall. He scored 43 runs and took one wicket in three games. Injured pacer Eshan Malinga was included. Co-host Sri Lanka begin their campaign against Ireland in Colombo.",
@@ -511,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sri-lanka-drop-test-captain-dhananjaya-de-silva-from-t20-world-cup-squad/articleshow/127866338.cms",
     "time": "2026-02-02T16:41:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "AR Rahman’s son AR Ameen says his dad’s legacy is unmatched",
-    "desc": "AR Rahman recently found himself at the centre of a controversy after his remarks about alleged communal bias in the Hindi film industry sparked intense debate online. The comments drew both support and backlash, bringing renewed focus on the composer’s journey and standing in Bollywood. Amid the ongoing discussion, his son AR Ameen has spoken candidly about working with his father and carving his own path in music.",
-    "img": "https://static.toiimg.com/photo/msid-127866380,imgsize-41388.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-ar-rahmans-communal-bias-remark-son-ar-ameen-says-my-dads-legacy-has-reached-a-place-no-one-can-imagine/articleshow/127866335.cms",
-    "time": "2026-02-02T15:54:13.000Z"
   },
   {
     "cat": "Sports",
@@ -547,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/rescue-act-against-pakistan-idolising-shubman-gill-sourav-gangulys-influence-the-vedant-trivedi-story/articleshow/127865185.cms",
     "time": "2026-02-02T15:03:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Not all AIIMS are in robust health, says B. Ekbal",
-    "desc": "Public health activist says of the 26 AIIMS, only the first phase establishments are faring relatively well. Major problems facing the newer institutions are an acute shortage of doctors, infrastructure issues and crowding of patients. Kerala too might face the same issues, despite the State boasting a strong PHC network",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/not-all-aiims-are-in-robust-health-says-b-ekbal/article70583743.ece",
-    "time": "2026-02-02T15:00:20.000Z"
   },
   {
     "cat": "World",
@@ -703,30 +793,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'No money, no honey': Chahal's latest social media post goes viral",
-    "desc": "Indian cricketer Yuzvendra Chahal went viral after sharing Thailand vacation photos with the caption “No Money, No Honey.” The post drew widespread attention. Amid ongoing dating rumours, actress Shefali Bagga slammed trolls over AI-generated posters linking her with Chahal, calling them “disgusting.” Chahal also reacted sarcastically. His personal life continues to fuel online buzz.",
-    "img": "https://static.toiimg.com/photo/msid-127859741,imgsize-27564.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-money-no-honey-yuzvendra-chahals-latest-social-media-post-goes-viral/articleshow/127859475.cms",
-    "time": "2026-02-02T10:35:34.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "ICC warns Pakistan of serious implications after India match boycott",
     "desc": "Pakistan on Sunday (February 1, 2026) announced a boycott of its high-profile men’s T20 World Cup group league match against India, a move that is likely to have serious repercussions even as the government cleared the national team’s participation in the rest of the global event starting February 7.",
     "img": "https://th-i.thgim.com/public/incoming/j7iwwg/article70582559.ece/alternates/LANDSCAPE_1200/pak%20india%20cricket.png",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-icc-warns-pakistan-of-serious-implications-after-india-match-boycott/article70582562.ece",
     "time": "2026-02-02T10:16:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'If Pakistan meet India in final, will they hand over the trophy?'",
-    "desc": "Former Pakistan spinner Danish Kaneria criticises the decision to boycott the T20 World Cup match against India, stating it projects fear and harms Pakistan cricket. He argues the move, especially with the match shifted to Sri Lanka, lacks logic and complicates their path to the knockouts.",
-    "img": "https://static.toiimg.com/photo/msid-127859337,imgsize-40758.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/if-pakistan-meet-india-in-final-will-they-hand-over-the-trophy-pak-slammed-by-their-ex-player/articleshow/127859322.cms",
-    "time": "2026-02-02T10:15:32.000Z"
   },
   {
     "cat": "World",
@@ -736,15 +808,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/immigrant-parents-in-minneapolis-fear-separation-from-kids/article70582468.ece",
     "time": "2026-02-02T10:12:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Can't be any sanctions': Ex-PCB chief on why ICC can't punish Pakistan",
-    "desc": "Former Pakistan Cricket Board (PCB) chairman Ehsan Mani says the ICC cannot sanction Pakistan for skipping the India match, as the PCB is following government orders. He cites India’s earlier refusal to tour Pakistan without punishment. Mani blames the ICC for inaction and warns Pakistan could face revenue losses and sporting consequences.",
-    "img": "https://static.toiimg.com/photo/msid-127859106,imgsize-123550.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/cant-be-any-sanctions-former-pcb-chief-on-why-icc-cant-punish-pakistan-for-boycotting-india-t20-world-cup-clash/articleshow/127858443.cms",
-    "time": "2026-02-02T10:05:19.000Z"
   },
   {
     "cat": "Sports",
@@ -763,33 +826,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/kerala-startup-mission-startup-ecosystem-kerala/article70555761.ece",
     "time": "2026-02-02T09:38:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Nothing but drama’: Harbhajan slams Pakistan's T20 WC boycott of India clash",
-    "desc": "Harbhajan Singh slammed Pakistan's decision to boycott their T20 World Cup match against India as \"unnecessary drama.\" He questioned the logic behind the conditional approval, suggesting it's a ploy to mislead people and project solidarity with Bangladesh. Singh highlighted the ICC's rejection of Bangladesh's request and Pakistan's past revenue-driven approach to matches despite political tensions.",
-    "img": "https://static.toiimg.com/photo/msid-127856929,imgsize-97750.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/nothing-but-drama-harbhajan-singh-slams-pakistans-t20-world-cup-boycott-of-india-clash/articleshow/127856835.cms",
-    "time": "2026-02-02T08:26:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tilak, Mayank named in India A squad for USA warm-up game",
-    "desc": "Tilak Varma will play for India A in one of their T20 World Cup warm-up matches against the USA or Namibia before joining the senior squad. Ayush Badoni captains the India A side, which also features Riyan Parag and Mayank Yadav returning from injuries. These preparatory games are crucial for the players' World Cup readiness.",
-    "img": "https://static.toiimg.com/photo/msid-127856343,imgsize-20008.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-tilak-varma-mayank-yadav-named-in-india-a-squad-for-warm-up-game-vs-usa/articleshow/127856340.cms",
-    "time": "2026-02-02T07:58:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Border 2' box office day 11 (LIVE)",
-    "desc": "Released on January 23, 'Border 2' met fan expectations with a strong opening of ₹30 crore. The film saw significant growth over the Republic Day holiday, collecting Rs 59 crore on its first Monday. After a robust first week totaling Rs 224.25 crore, 'Border 2' continued its box office run, ultimately reaching Rs 281 crore.",
-    "img": "https://static.toiimg.com/photo/msid-127856202,imgsize-57676.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-day-11-live-the-sunny-deol-film-crosses-rs-275-crore-drops-on-second-monday/articleshow/127855693.cms",
-    "time": "2026-02-02T07:54:32.000Z"
   },
   {
     "cat": "Entertainment",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/west-bengal/budget-2026-27-falls-short-of-expectations-in-poll-bound-west-bengal/article70579023.ece",
     "time": "2026-02-01T19:52:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Marginal hike in allocations for Social Justice Dept., Tribal Affairs Ministry",
-    "desc": "The Social Justice Department’s allocation for 2026-27 is ₹13,687.59 crore and the Tribal Affairs Ministry has been allocated ₹15,421.97 crore; the allocations have increased by 16.69% and 42.47% respectively compared with their respective Revised Estimates for the current fiscal",
-    "img": "https://th-i.thgim.com/public/incoming/38bnm8/article70580260.ece/alternates/LANDSCAPE_1200/10215_16-11-2017_18-2-32_16GNRAO-HOSTELSTUDENTDEATH.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/budget-2026-marginal-hike-in-allocations-for-social-justice-dept-tribal-affairs-ministry/article70579432.ece",
-    "time": "2026-02-01T19:50:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Belligerent and uncomplicated — pocket-dynamite Kishan is here to stay",
-    "desc": "The 27-year-old, with a whirlwind outing against New Zealand, has overtaken Samson in the race to be India’s wicketkeeper-batter/opener for the T20 World Cup; his blistering century in Thiruvananthapuram proved to be the icing on the cake",
-    "img": "https://th-i.thgim.com/public/incoming/5wblx4/article70580192.ece/alternates/LANDSCAPE_1200/NH31Ishan25.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ishan-kishan-sanju-samson-india-wicketkeeper-t20-world-cup/article70580187.ece",
-    "time": "2026-02-01T17:52:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Union Budget proposals spark political debate ahead of West Bengal polls",
-    "desc": "Infrastructure proposals in the Union Budget, including freight and industrial corridors and tourism projects, have triggered a political clash in West Bengal ahead of Assembly elections, with the BJP pitching development and the TMC calling the announcements political signalling.",
-    "img": "https://th-i.thgim.com/public/incoming/cept98/article70580114.ece/alternates/LANDSCAPE_1200/80717_1_2_2026_17_18_56_4_010226MAMATABANERJEE4.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-union-budget-proposals-spark-political-debate-ahead-of-west-bengal-polls/article70580115.ece",
-    "time": "2026-02-01T17:06:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Agri Ministry allocation up 2.6%; farm outfits say FM ignored their demands",
-    "desc": "No hike for Kisan Samman Nidhi; agri research and education budget drops 4.8%; Food and PDS gets 10% hike; new multilingual AI tool, high-value cash crops get extra support; government did not fulfil promises to farmers, says BKS",
-    "img": "https://th-i.thgim.com/public/incoming/fnxy2g/article70580106.ece/alternates/LANDSCAPE_1200/iStock-1161414177.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/union-budget-2026-agri-ministry-allocation-up-26-farm-outfits-say-fm-ignored-their-demands/article70578805.ece",
-    "time": "2026-02-01T17:03:51.000Z"
   }
 ];
