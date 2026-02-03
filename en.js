@@ -1,5 +1,221 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Rahul Gandhi attacks PM Modi over 'compromised' Indo-U.S. trade deal",
+    "desc": "Lok Sabha saw frequent adjournments as Opposition MPs protested over the announcement of the U.S.-India trade deal by President Donald Trump and other related issues; Govt will speak on the minute details of the trade deal soon, says Rajya Sabha leader J.P. Nadda",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/parliament-budget-session-lok-sabha-rajya-sabha-the-hindu-live-updates-february-3-2026/article70586034.ece",
+    "time": "2026-02-03T09:26:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court adjourns to February 10 ED's plea against 'interference' by CM Mamata during I-PAC raids",
+    "desc": "The top court on January 15 said the West Bengal chief minister's alleged \"obstruction\" in ED's probe is \"very serious\" and agreed to examine if a State's law-enforcing agencies can interfere with any central agency's probe",
+    "img": "https://th-i.thgim.com/public/incoming/ea1s8m/article70586715.ece/alternates/LANDSCAPE_1200/WB-govt-questioG31FHDVS7.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-adjourns-to-february-10-eds-plea-against-interference-by-cm-mamata-during-i-pac-raids/article70586580.ece",
+    "time": "2026-02-03T09:09:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Bridgerton' Season 4 copied 'King the Land'?",
+    "desc": "Bridgerton's latest season has sparked a delightful fan discovery, drawing parallels between a scene featuring Benedict and a maid with a similar moment in the K-drama 'King the Land'. Social media buzzed as viewers noticed the striking resemblance, with both plots involving a nobleman and a maid in a dropped crockery incident.",
+    "img": "https://static.toiimg.com/photo/msid-127880900,imgsize-71792.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/bridgerton-season-4-copied-king-the-land-k-drama-fans-spot-similarity-between-yerin-ha-and-im-yoon-ah-scene-watch/articleshow/127879385.cms",
+    "time": "2026-02-03T09:04:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Music director SP Venkatesh passes away at 70",
+    "desc": "Renowned music director SP Venkatesh, celebrated for his over 500 songs across multiple Indian languages, has passed away at 70 following a heart attack. His career, spanning Malayalam, Tamil, and Telugu cinema, produced numerous chart-topping hits and background scores. Venkatesh, who began his musical journey early, leaves behind a rich legacy of evergreen melodies.",
+    "img": "https://static.toiimg.com/photo/msid-127881355,imgsize-37354.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/music-director-sp-venkatesh-passes-away-at-70-all-about-the-composer-who-scored-over-500-songs/articleshow/127881355.cms",
+    "time": "2026-02-03T09:01:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Internet calls it a 'scam', here's why",
+    "desc": "Fans are buzzing as the 'Dhurandhar 2' teaser dropped, but many feel it's a 'scam,' repurposing post-credit scenes from the first film. Netizens expressed disappointment online, calling it a rehash. However, some defend the makers, citing marketing strategies and the confirmation of the March 19, 2026 release date.",
+    "img": "https://static.toiimg.com/photo/msid-127880964,imgsize-18526.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/why-ranveer-singhs-dhurandhar-2-teaser-has-internet-screaming-scam-hogaya-explained/articleshow/127880964.cms",
+    "time": "2026-02-03T08:53:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Border 2' box office collection day 12 (LIVE)",
+    "desc": "Border 2 continues its strong box office run, earning Rs 5.25 crore nett on its second Monday. Despite a natural dip, the film has maintained momentum, with a week 1 collection of Rs 224.25 crore and a total of Rs 281.7 crore. North India remains a dominant territory for the film.",
+    "img": "https://static.toiimg.com/photo/msid-127881152,imgsize-72978.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-box-office-collection-day-12-live-the-sunny-deol-varun-dhawan-film-touches-rs-280-crore/articleshow/127880894.cms",
+    "time": "2026-02-03T08:51:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lily Allen reveals inspo behind album ‘West End Girl’",
+    "desc": "Lily Allen has revealed her fifth album, 'West End Girl,' was fueled by significant anger and directed at others during a difficult period. She found rage to be a powerful, necessary emotion. Following its release, many women shared personal stories of infidelity with her, highlighting the album's relatable impact on listeners navigating similar marital struggles.",
+    "img": "https://static.toiimg.com/photo/msid-127881042,imgsize-41230.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/lily-allen-talks-inspiration-behind-west-end-girl-rage-is-powerful-and-necessary/articleshow/127881042.cms",
+    "time": "2026-02-03T08:47:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rashmika Mandanna’s sweet airport moment wins hearts: PICS",
+    "desc": "Rashmika Mandanna's recent airport appearance, where she kindly obliged a fan's autograph request, has charmed netizens. Amidst persistent wedding rumors with Vijay Deverakonda, reports now suggest a February 5th wedding in Udaipur, with pre-wedding festivities commencing on February 2nd. While the couple remains silent, fans eagerly await confirmation of their union. Mandanna's next project, 'Cocktail 2', is also generating buzz.",
+    "img": "https://static.toiimg.com/photo/msid-127880742,imgsize-33722.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/see-pics-rashmika-mandannas-sweet-airport-moment-wins-hearts-amid-wedding-rumours-with-vijay-deverakonda/articleshow/127880742.cms",
+    "time": "2026-02-03T08:38:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Effort to win trophies will always continue': Rohit after being conferred Padma Shri",
+    "desc": "Rohit Sharma, honored with the Padma Shri, expressed deep gratitude for the prestigious civilian award, calling it a momentous occasion for his family. He reaffirmed his unwavering dedication to securing victories for India on the cricket field. This recognition celebrates his significant contributions as both a player and captain, marking a distinguished chapter in his illustrious career.",
+    "img": "https://static.toiimg.com/photo/msid-127880808,imgsize-74856.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/effort-to-win-trophies-for-my-country-will-always-continue-rohit-sharma-after-being-conferred-padma-shri-watch/articleshow/127880792.cms",
+    "time": "2026-02-03T08:36:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Genelia’s anniversary note: favourite chapter",
+    "desc": "Genelia and Riteish Deshmukh marked another beautiful year together in a heartfelt Instagram tribute, capturing the essence of their love story. What started on set during their first film blossomed into a lasting friendship, leading them to a joyful marriage. As proud parents to two boys, their bond radiates warmth and admiration, serving as an emblem of enduring partnership.",
+    "img": "https://static.toiimg.com/photo/msid-127880539,imgsize-43214.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/genelia-shares-heartfelt-anniversary-note-for-riteish-deshmukh-you-will-always-be-my-favourite-chapter/articleshow/127880539.cms",
+    "time": "2026-02-03T08:32:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "What Kim Kardashian said about her ‘bond’ with Travis Scott",
+    "desc": "Kim Kardashian revealed a surprising 'bond' with Travis Scott, Kylie Jenner's ex, centered on exclusive sneaker drops. She admitted calling him for a rare pink Nike pair, which he promptly sent. This friendly interaction highlights the Kardashian-Jenner family's ability to maintain positive relationships despite shifting romantic dynamics, as seen with Kylie and Travis's co-parenting journey.",
+    "img": "https://static.toiimg.com/photo/msid-127880595,imgsize-40104.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/kim-kardashian-comments-on-her-bond-with-sister-kylie-jenners-ex-travis-scott-im-not-that-girl-to-call-in-family-favors/articleshow/127880582.cms",
+    "time": "2026-02-03T08:28:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajinikanth gifts a gold chain to sanitary worker",
+    "desc": "Superstar Rajinikanth met sanitation worker Padma at his Chennai home. He honored her for her honesty after she returned 45 sovereigns of gold. Padma found the gold ornaments while on duty. She immediately reported it to her superiors and the police. The chief minister of Tamil Nadu also appreciated her integrity. Rajinikanth gifted her a gold chain and a shawl.",
+    "img": "https://static.toiimg.com/photo/msid-127880521,imgsize-75972.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanth-gifts-a-gold-chain-to-sanitary-worker-jailer-2-actor-hails-the-honesty-of-padma-who-returned-45-sovereigns/articleshow/127880521.cms",
+    "time": "2026-02-03T08:25:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Elon Musk’s comments on ‘The Odyssey’ casting: Explained",
+    "desc": "Elon Musk is stirring the pot with his take on Lupita Nyong'o potentially playing Helen of Troy in Christopher Nolan's upcoming film 'The Odyssey'. This controversy has sparked a wider discussion on the importance of staying true to mythological narratives versus creative reinterpretation. While some laud the casting as a fresh take, others defend traditional portrayals in historical cinema.",
+    "img": "https://static.toiimg.com/photo/msid-127880055,imgsize-38476.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-odyssey-why-elon-musk-called-out-christopher-nolan-over-lupita-nyongos-casting/articleshow/127879944.cms",
+    "time": "2026-02-03T08:11:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Javed Akhtar hilariously ROASTS Farah Khan’s Hindi skills",
+    "desc": "In a light-hearted moment at his Khandala residence, Javed Akhtar jestingly challenged Farah Khan's command of Hindi, particularly when she inquired about the term 'ektalis' for the number 41. Shaking his head with a grin, Akhtar quipped, 'We're the humble Indians who affectionately call it ektalis,' which sent everyone into fits of laughter.",
+    "img": "https://static.toiimg.com/photo/msid-127880054,imgsize-63612.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/javed-akhtar-jokes-about-farah-khans-hindi-vocabulary-saying-hum-jo-gareeb-indians-hai/articleshow/127880054.cms",
+    "time": "2026-02-03T08:03:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshay villain, Kareena back",
+    "desc": "Exciting developments are on the horizon for the beloved 'Golmaal' franchise as Akshay Kumar steps into the role of the formidable main antagonist in 'Golmaal 5'. Audiences will witness an epic showdown against Ajay Devgn in what promises to be a cinematic spectacle.",
+    "img": "https://static.toiimg.com/photo/msid-127879782,imgsize-81714.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rohit-shettys-golmaal-5-gets-bigger-with-akshay-kumars-villain-role-and-kareena-kapoor-khans-comeback/articleshow/127879782.cms",
+    "time": "2026-02-03T07:50:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘No big deal’: Manjrekar says win vs Pak now feels like beating ‘minnows’",
+    "desc": "Former cricketer Sanjay Manjrekar believes the potential India-Pakistan T20 World Cup match cancellation is insignificant, stating the rivalry has lost its competitive edge. He argues India now dominates, making encounters feel one-sided, unlike past contests. Manjrekar asserts the tournament's value remains unaffected by this fixture's absence.",
+    "img": "https://static.toiimg.com/photo/msid-127879852,imgsize-41276.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/no-big-deal-if-it-doesnt-happen-sanjay-manjrekar-says-indias-wins-over-pakistan-now-feel-like-beating-minnows/articleshow/127879849.cms",
+    "time": "2026-02-03T07:49:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Billie Eilish’s Grammy speech backlash explained",
+    "desc": "Billie Eilish's triumphant Grammy night turned into a heated debate when she declared, 'No one is illegal on stolen land.' Her bold stance against ICE policies garnered mixed reactions online, as social media users took to mocking her viewpoint while others highlighted supposed contradictions in her message.",
+    "img": "https://static.toiimg.com/photo/msid-127879767,imgsize-19784.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/billie-eilishs-grammy-2026-speech-faces-major-backlash-heres-what-happened/articleshow/127879767.cms",
+    "time": "2026-02-03T07:48:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India to host shooting's Asian Olympic qualifying championship in 2027",
+    "desc": "The eight slots in the Asian competition will be in addition to the 12 quota places that will be on offer in the World Cup (Rifle/Pistol/Shotgun) from April 21 to 30 next year, also to be held in Delhi",
+    "img": "https://th-i.thgim.com/public/incoming/9riwdk/article70586509.ece/alternates/LANDSCAPE_1200/vbk-stock-shooting-rifle-pistol-competition-iStock-2188562382.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/india-to-host-shootings-asian-olympic-qualifying-championship-next-year/article70586484.ece",
+    "time": "2026-02-03T07:42:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranveer's Dhurandhar 2 teaser: Fans call the glimpse REPEAT",
+    "desc": "The 'Dhurandhar 2' teaser shows Ranveer Singh’s Hamza continuing his bloody mission against the Pak terror network. Featuring Sanjay Dutt, Madhavan, and Arjun Rampal, the teaser drew mixed reactions—some called it “no new visual,” while others praised the mystery. Directed by Aditya Dhar, the sequel releases on March 19, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-127879644,imgsize-13506.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singhs-dhurandhar-the-revenge-teaser-fans-call-the-glimpse-repeat-with-no-new-visuals/articleshow/127879644.cms",
+    "time": "2026-02-03T07:38:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-US trade deal: Top stocks that will benefit from reduced 18% tariffs",
+    "desc": "According to MOFSL, this is a high-impact development and will have a multi-layered positive effect on the Indian economy, prevailing market sentiments, and sectors exporting to the US, which will benefit from better competitiveness. Key sectoral beneficiaries include Auto Ancillaries, Defence, Consumer, Textiles, EMS, Consumer Durables, IT Services, Financials (second-order beneficiary), and Utility companies.",
+    "img": "https://static.toiimg.com/photo/msid-127879588,imgsize-97204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-top-stocks-that-will-benefit-from-reduced-18-tariffs-check-sector-wise-list/articleshow/127879551.cms",
+    "time": "2026-02-03T07:37:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jacob Elordi was injured while filming ‘Wuthering Heights’",
+    "desc": "Hollywood heartthrob Jacob Elordi, who graced screens as the leading man in 'Wuthering Heights,' has found himself in a difficult situation after suffering a second-degree burn on set. After undergoing a lengthy prosthetic application for a different character, he leaned back, accidentally scalding his back on a steam knob.",
+    "img": "https://static.toiimg.com/photo/msid-127879496,imgsize-68060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/did-you-know-jacob-elordi-ended-up-in-the-hospital-while-filming-wuthering-heights-i-had-a-second-degree-burn/articleshow/127879496.cms",
+    "time": "2026-02-03T07:32:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Samson’s slide opens door as Kishan storms into India’s T20 WC plans",
+    "desc": "India's T20 juggernaut faces a crucial selection dilemma ahead of the 2026 World Cup, with Sanju Samson's recent form under scrutiny. Despite a strong past record, his struggles against New Zealand have opened the door for Ishan Kishan's impressive resurgence, creating a headache for the management as they aim to defend their title.",
+    "img": "https://static.toiimg.com/photo/msid-127879099,imgsize-75380.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/form-vs-faith-sanju-samsons-slide-opens-door-as-ishan-kishan-storms-into-indias-t20-world-cup-plans/articleshow/127878765.cms",
+    "time": "2026-02-03T07:12:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Thirupparankundram ‘deepam’ row: Madurai Collector tenders unconditional apology to Madras High Court",
+    "desc": "Collector K.J. Praveen Kumar, in an affidavit, informed the Madurai Bench of the Madras High Court that he had passed the prohibitory orders at Thirupparankundram on December 3, 2025, taking into account the ground situation and to maintain law and order.",
+    "img": "https://th-i.thgim.com/public/incoming/nbpft7/article70586414.ece/alternates/LANDSCAPE_1200/9871_13-5-2019_18-24-7_1_TIRUPPARANKUNDRAM_01.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/thirupparankundram-deepam-row-madurai-collector-tenders-unconditional-apology-to-madras-high-court/article70584351.ece",
+    "time": "2026-02-03T06:59:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' MAJOR changes: New OTT and music partners",
+    "desc": "The Revenge', hitting theaters soon! Unlike its predecessor, this thrilling sequel will stream exclusively on JioHotstar. Plus, T-Series has snatched up the music rights for this action-packed spectacle, helmed by the talented Aditya Dhar. Read on.",
+    "img": "https://static.toiimg.com/photo/msid-127878278,imgsize-25834.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-ranveer-singh-starrer-undergoes-major-reshuffle-ahead-of-release-ott-and-music-partners-changed/articleshow/127878278.cms",
+    "time": "2026-02-03T06:41:09.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Cummins lifts lid on withdrawal, hopeful of leading SRH in IPL",
     "desc": "Pat Cummins has withdrawn from the T20 World Cup due to a back injury, prioritizing a demanding Test schedule over a rushed return. Medical advice indicated a longer recovery was needed, prompting a conservative approach to ensure fitness for upcoming major Test series. Cummins hopes to return for the IPL, with his comeback guided by further scans.",
@@ -16,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-where-are-gold-rates-headed-on-february-03-2026-and-in-the-near-term-mcx-gold-silver-prices/articleshow/127877739.cms",
     "time": "2026-02-03T06:17:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘The Devil Wears Prada 2’ star Meryl Streep net worth",
-    "desc": "Meryl Streep, a celebrated actress, has amassed a net worth of USD 100 million through her illustrious career. Her earnings have grown significantly, from USD 35,000 for 'The Deer Hunter' to commanding USD 20 million per film in the 2010s. Beyond films, TV work, royalties, and investments contribute to her substantial fortune.",
-    "img": "https://static.toiimg.com/photo/msid-127877789,imgsize-392496.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-devil-wears-prada-2-star-meryl-streep-net-worth-inside-her-usd-100-million-fortune/articleshow/127877797.cms",
-    "time": "2026-02-03T06:16:24.000Z"
   },
   {
     "cat": "Sports",
@@ -46,48 +253,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "No boycott call for women as Pakistan A set to face India despite men's T20 WC standoff",
+    "title": "No boycott call for women as Pak set to face India despite men's T20 WC standoff",
     "desc": "Despite Pakistan's men's team boycotting their T20 World Cup match against India, the women's A team is set to play their Indian counterparts in the Rising Stars Asia Cup. Preparations are on track for the February 15th fixture, highlighting a stark contrast in the handling of the women's game amidst the ongoing controversy.",
     "img": "https://static.toiimg.com/photo/msid-127877133,imgsize-69936.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-boycott-call-for-women-as-pakistan-a-set-to-face-india-despite-mens-t20-world-cup-standoff/articleshow/127877147.cms",
     "time": "2026-02-03T05:44:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman's sweet surprise for Jackie on his 69th birthday",
-    "desc": "Salman Khan surprised Jackie Shroff at his 69th birthday celebration after receiving just a text invite, revealed Subhash Ghai on Instagram. Sharing a photo with the duo, Ghai praised Salman’s humility, calling him a gracious star who respects his seniors. The intimate gathering was also attended by filmmaker Rumy Jafry.",
-    "img": "https://static.toiimg.com/photo/msid-127877085,imgsize-56018.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/on-just-the-receipt-of-an-sms-salman-khans-sweet-surprise-for-jackie-shroff-on-his-69th-birthday-reveals-subhash-ghai/articleshow/127877085.cms",
-    "time": "2026-02-03T05:40:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Justin calls Blake'beautiful' in friendly voice note",
-    "desc": "New voice clips reveal director Justin Baldoni's cordial interactions with Blake Lively during 'It Ends With Us' production, discussing casting and script input. These recordings surface amidst their ongoing legal battle, with fans debating the contrasting narratives presented by the unsealed court documents and Lively's allegations. The case is set for a May 2026 court date.",
-    "img": "https://static.toiimg.com/photo/msid-127875650,imgsize-138866.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/justin-baldonis-voice-notes-calling-blake-lively-beautiful-great-writer-goes-viral-fans-call-him-sweet-and-thoughtful/articleshow/127874970.cms",
-    "time": "2026-02-03T05:36:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Fans react to Eric Murphy-Jasmin Lawrence pregnancy news",
-    "desc": "Comedy legends Eddie Murphy and Martin Lawrence are set to become grandfathers as their children, Eric Murphy and Jasmin Lawrence, announced their pregnancy. The couple, who married in May 2025, shared the joyous news on Instagram, sparking widespread excitement online. Fans are already anticipating the comedic talent their child will inherit from their famous fathers.",
-    "img": "https://static.toiimg.com/photo/msid-127876948,imgsize-52054.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/eric-murphy-jasmin-lawrence-to-have-a-baby-netizens-say-having-eddie-murphy-and-martin-lawrence-as-grandparents-is-life/articleshow/127876927.cms",
-    "time": "2026-02-03T05:34:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Silence speaks...'",
-    "desc": "In a recent reflection, Amitabh Bachchan delved into the timeless challenges of existence, channeling the insightful teachings of his father, Harivansh Rai Bachchan, alongside the evocative verses of Firaq Gorakhpuri. He emphasized the serene tranquility of early mornings, which stands in stark contrast to the relentless clamor of social media.",
-    "img": "https://static.toiimg.com/photo/msid-127876778,imgsize-31756.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-shares-his-cryptic-post-on-his-blog-at-almost-4-am-says-silence-speaks-louder-than-any-thought/articleshow/127876778.cms",
-    "time": "2026-02-03T05:29:26.000Z"
   },
   {
     "cat": "Politics",
@@ -136,12 +307,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "‘The X-Files’ star Elyse Donalson passes away at 78",
-    "desc": "The Curse of Michael Myers' and 'The X-Files', has passed away at 78. Donalson, who began her acting journey in Texas before moving to Los Angeles, also appeared in 'The Real Thing' and 'Switched at Birth'. Her sister confirmed the news of her recent passing in Studio City.",
-    "img": "https://static.toiimg.com/photo/msid-127875926,imgsize-20198.cms",
+    "title": "'Haven't watched Animal'",
+    "desc": "In a candid discussion, Imran Khan clarified the speculation regarding his relationship with Ranbir Kapoor, attributing their infrequent personal encounters to the nature of the film industry and distracting narratives from outside. He remarked that male actors often have fewer opportunities to bond, which can stunt the growth of their camaraderie.",
+    "img": "https://static.toiimg.com/photo/msid-127876117,imgsize-28468.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/halloween-the-curse-of-michael-myers-star-elyse-donalson-passes-away-at-age-78/articleshow/127875926.cms",
-    "time": "2026-02-03T04:33:41.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/imran-khan-addresses-rumors-of-rift-with-ranbir-kapoor-saying-scope-was-limited-adds-male-actors-tend-to-meet-less/articleshow/127876117.cms",
+    "time": "2026-02-03T04:45:41.000Z"
   },
   {
     "cat": "Sports",
@@ -162,24 +333,6 @@ const newsData_en = [
     "time": "2026-02-03T04:16:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Makers drop poster of Ranveer in bloodied look",
-    "desc": "As anticipation builds for the 'Dhurandhar 2' teaser, the creators have dropped an electrifying poster showcasing Ranveer Singh in a chilling, blood-spattered look, teasing a storyline packed with intensity. This sequel to the blockbuster that grossed Rs 1300 crore is set to enthrall audiences with even more heart-pounding action and deep intrigue.",
-    "img": "https://static.toiimg.com/photo/msid-127875632,imgsize-73368.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-makers-unveil-menacing-new-poster-of-ranveer-singh-in-blood-soaked-look-ahead-of-teaser-release/articleshow/127875632.cms",
-    "time": "2026-02-03T04:15:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Karnataka High Court imposes ₹50,000 costs on Wipro for ‘abusing process of law’ and denying legitimate payment to ex-employee",
-    "desc": "The payment was subject to three conditions — he should not solicit or influence employees of Wipro, disclose details if any employee approached him on their own, and not join competing companies for a period of 18 months",
-    "img": "https://th-i.thgim.com/public/incoming/c6inhv/article70584861.ece/alternates/LANDSCAPE_1200/2026-01-19T040241Z_1206971781_RC296GALV78D_RTRMADP_3_WIPRO-STOCKS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-imposes-50000-costs-on-wipro-for-abusing-process-of-law-and-denying-legitimate-payment-to-ex-employee/article70583694.ece",
-    "time": "2026-02-03T04:03:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Indian team sweats on Sumit Nagal's fitness",
     "desc": "India's Davis Cup captain Rohit Rajpal is concerned about Sumit Nagal's hip strain ahead of the tie against the Netherlands. Nagal, India's top singles player, retired from a recent tournament and has been undergoing rehabilitation. He is set to begin on-court training this week, with his availability for the qualifiers still uncertain.",
@@ -187,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/davis-cup-indian-team-sweats-on-sumit-nagals-fitness/articleshow/127875480.cms",
     "time": "2026-02-03T03:59:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Adarsh REACTS to Arijit's retirement: 'Most authentic...'",
-    "desc": "Actor Adarsh Gourav has praised Arijit Singh's bold step to retire from playback singing, describing him as a genuine artist who values his peace and authenticity over limelight. Gourav highlighted Singh’s unique artistry and expressed his enthusiasm for those who stay grounded in their truths. Read on to know more.",
-    "img": "https://static.toiimg.com/photo/msid-127875329,imgsize-42300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/adarsh-gourav-reacts-to-arijit-singhs-retirement-annoucement-says-hes-the-most-authentic-artist-that-i-know-because/articleshow/127875329.cms",
-    "time": "2026-02-03T03:49:42.000Z"
   },
   {
     "cat": "Sports",
@@ -225,24 +369,6 @@ const newsData_en = [
     "time": "2026-02-03T03:25:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Jelly Roll on his addiction and his weight loss journey",
-    "desc": "Country-rap sensation Jelly Roll, recognized with three Grammy awards, opened up about his tumultuous journey with food addiction, which he likens to his former cocaine challenges. He pointed out that combatting unhealthy eating requires the same level of commitment and focus as quitting drugs, highlighting the crucial role of therapy and maintaining a consistent routine, rather than turning to medication.",
-    "img": "https://static.toiimg.com/photo/msid-127875074,imgsize-46772.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/jelly-roll-opens-up-about-his-weight-loss-journey-compares-food-addiction-to-past-cocaine-addiction/articleshow/127875062.cms",
-    "time": "2026-02-03T03:22:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Love Is Blind’ season 10 trailer drops; fans excited",
-    "desc": "Mark your calendars for the exciting launch of 'Love Is Blind' Season 10, taking place amid the charm of Ohio! A new group of hopeful romantics will step into the pods, eager to form deep connections without ever laying eyes on each other. Anticipate a whirlwind of emotions, surprise romances, and a shared journey towards love.",
-    "img": "https://static.toiimg.com/photo/msid-127874695,imgsize-28556.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/love-is-blind-trailer-show-returns-for-10th-season-in-newly-released-teaser-watch/articleshow/127874695.cms",
-    "time": "2026-02-03T02:58:49.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "CM",
     "desc": "“The Union Budget will give new strength to all-round development of Rajasthan and support our resolve to achieve the development goals… It is a roadmap for a developed India,” Rajasthan CM Bhajan Lal Sharma said",
@@ -259,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/no-icc-meeting-yet-as-pakistans-boycott-threat-clouds-india-clash-at-t20-world-cup/articleshow/127874587.cms",
     "time": "2026-02-03T02:54:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Eminem’s daughter Alaina Marks baby shower milestone",
-    "desc": "Eminem's daughter, Alaina Marie Mathers, celebrated her upcoming baby girl with a joyous baby shower surrounded by family. Sharing touching photos, she expressed gratitude for her supportive 'village' as she anticipates motherhood. Her sisters, Hailie Jade and Whitney Scott Mathers, joined the festivities, highlighting the strong family bonds.",
-    "img": "https://static.toiimg.com/photo/msid-127874556,imgsize-1157664.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/eminems-daughter-alaina-marie-mathers-celebrates-a-baby-shower-amid-family-love/articleshow/127874540.cms",
-    "time": "2026-02-03T02:48:05.000Z"
   },
   {
     "cat": "Business",
@@ -288,15 +405,6 @@ const newsData_en = [
     "time": "2026-02-03T02:25:27.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Netizens call Farah's cook Dilip 'IRRITATING'; here's why",
-    "desc": "Farah Khan's latest vlog, which offers a behind-the-scenes look at Shabana Azmi and Javed Akhtar's residence, has sparked some controversy. Many viewers expressed discomfort with her cook, Dilip, whose frequent interjections seemed to detract from the experience. Online discussions have emerged, with audiences calling for Farah to consider minimizing Dilip's role in future episodes to better captivate her audience.",
-    "img": "https://static.toiimg.com/photo/msid-127874213,imgsize-67632.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farah-khan-visits-shabana-azmis-house-for-vlog-netizens-call-out-cook-dilips-overacting-saying-he-was-irritating/articleshow/127874213.cms",
-    "time": "2026-02-03T02:20:36.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Stock market recommendations for February 3, 2026",
     "desc": "According to Somil Mehta, Head - Alternate Research, Capital Market Strategy, Mirae Asset Sharekhan, the top stocks to buy today on February 3, 2026 are: NMDC, DLF, Blue Star, and IOC. Let’s take a look:",
@@ -304,51 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-february-03-2026-nmdc-dlf-blue-star-indian-oil-corporation-stocks-to-buy-today/articleshow/127874040.cms",
     "time": "2026-02-03T01:55:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'I need to prioritise my kids'",
-    "desc": "Singer Kelly Clarkson is concluding her seven-season run on 'The Kelly Clarkson Show' to prioritize her children. In an emotional social media announcement, she expressed gratitude to her crew, colleagues, and fans for their support.",
-    "img": "https://static.toiimg.com/photo/msid-127873761,imgsize-51002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kelly-clarkson-announces-final-season-of-the-kelly-clarkson-show-i-need-to-prioritise-my-kids/articleshow/127873677.cms",
-    "time": "2026-02-03T01:35:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bad Bunny’s ex Gabriela Berlingeri cheers his Grammy wins",
-    "desc": "Bad Bunny made history at the Grammys, securing Album of the Year for his Spanish-language album 'Debí Tirar Más Fotos'. His ex-partner, Gabriela Berlingeri, offered a classy message of congratulations via Instagram. The Puerto Rican superstar's emotional acceptance speeches highlighted his dedication to his homeland and immigrant communities, marking a significant career milestone.",
-    "img": "https://static.toiimg.com/photo/msid-127873937,imgsize-729088.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bad-bunnys-ex-gabriela-berlingeri-shows-public-support-after-his-historic-grammy-sweep/articleshow/127873955.cms",
-    "time": "2026-02-03T01:35:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Eric Murphy and Jasmine Lawrence announce first pregnancy",
-    "desc": "Eric Murphy, son of legendary comedian Eddie Murphy, and his wife Jasmine Lawrence, daughter of the celebrated Martin Lawrence, are about to embark on a thrilling new adventure as they await the arrival of their first baby! Just shy of their one-year anniversary, the couple joyfully posted their announcement online.",
-    "img": "https://static.toiimg.com/photo/msid-127873821,imgsize-47492.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/eric-murphy-and-jasmine-lawrence-announce-pregnancy-grandpa-martin-lawrence-rejoices-family-is-everything/articleshow/127873821.cms",
-    "time": "2026-02-03T01:24:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Zensar emerges frontrunner to buy Mastek in $900mn deal",
-    "desc": "The deal comes seven years after L&T’s unsolicited bid to acquire 66% in Mindtree for up to Rs 10,700 crore, highlighting renewed consolidation among technology services firms seeking scale and differentiated capabilities. Zensar, whose key clients include Cisco, the City of San Diego, and Tesco Insurance, derives nearly 68% of its business from the US and 21% from the UK/EU.",
-    "img": "https://static.toiimg.com/photo/msid-127873778,imgsize-249690.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/zensar-emerges-frontrunner-to-buy-mastek-in-900mn-deal/articleshow/127873763.cms",
-    "time": "2026-02-03T01:11:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rani's film earns Rs 2.15 cr",
-    "desc": "Rani Mukerji's 'Mardaani 3' pulled in Rs 2.15 crore on its first Monday, bringing its domestic total to Rs 19.65 crore. Since its release on January 30th, the film, which tackles the serious issue of girl child trafficking, has seen steady earnings. Its worldwide collection has climbed to Rs 29.3 crore, with Monday's Hindi occupancy standing at 11.27%.",
-    "img": "https://static.toiimg.com/photo/msid-127873749,imgsize-22352.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mardaani-3-box-office-collection-day-4-rani-mukerjis-cop-drama-fails-to-impress-audience-earns-just-rs-2-15-crore-on-first-monday/articleshow/127873749.cms",
-    "time": "2026-02-03T01:09:09.000Z"
   },
   {
     "cat": "Business",
@@ -376,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-d-street-gets-trump-card-set-for-big-gains/articleshow/127873737.cms",
     "time": "2026-02-03T01:03:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Taylor Swift attends Grammys after-party in style",
-    "desc": "Taylor Swift captured the spotlight at a glamorous post-Grammys celebration, flaunting a stunning black top paired with layered gold chains, despite her no-show at the ceremony. Social media buzzed with videos of the starlet reveling in the party ambiance.",
-    "img": "https://static.toiimg.com/photo/msid-127873682,imgsize-25772.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-stuns-in-an-elegant-fit-at-the-grammys-after-party-videos-go-viral-online/articleshow/127873682.cms",
-    "time": "2026-02-03T00:57:48.000Z"
   },
   {
     "cat": "Politics",
@@ -459,15 +513,6 @@ const newsData_en = [
     "time": "2026-02-03T00:14:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Film crosses MASSIVE Rs 281 cr",
-    "desc": "On its second Monday, 'Border 2' struggled to maintain momentum, raking in only Rs 5.75 crore. This follows a robust opening and a productive first week, yet the Sunny Deol and Varun Dhawan film has experienced a sharp drop in revenues. Portraying events from the 1971 India-Pakistan War, it has nonetheless garnered an impressive Rs 281 crore on home soil.",
-    "img": "https://static.toiimg.com/photo/msid-127873495,imgsize-29366.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-11-sunny-deol-and-varun-dhawan-starrer-sees-sharp-drop-on-second-monday-earns-in-single-digits/articleshow/127873495.cms",
-    "time": "2026-02-03T00:07:06.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Study",
     "desc": "The findings are based on an analysis of more than a century of lifespan data from large Scandinavian twin cohorts in Denmark and Sweden. Researchers studied identical and non-identical twins raised together and apart, as well as siblings of US centenarians. Most participants were born between 1870 and 1935, a period marked by high mortality from infectious diseases and accidents.",
@@ -520,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/wangchuk-tried-to-create-nepal-and-bangladesh-like-unrest-govt-tells-sc/articleshow/127873084.cms",
     "time": "2026-02-02T22:45:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC notice to govt as church body challenges anti-conversion laws",
-    "desc": "One of the laws challenged by the association is the nearly 60-year-old Orissa Freedom of Religion Act, 1967. Madhya Pradesh had enacted Chhattisgarh Dharma Swatantrya Adhiniyam in 1968 to prevent large-scale conversion of tribals. SC had upheld the constitutional validity of the Orissa and MP laws in 1977 in Rev Stanislaus vs State of MP case and said while the right to propagate religion is a fundamental right, it does not include right to convert.",
-    "img": "https://static.toiimg.com/photo/msid-127872948,imgsize-39956.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sc-notice-to-govt-as-church-body-challenges-anti-conversion-laws/articleshow/127872897.cms",
-    "time": "2026-02-02T22:39:58.000Z"
   },
   {
     "cat": "Business",
@@ -649,15 +685,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Sri Lanka drop Test captain Dhananjaya de Silva from T20 WC squad",
-    "desc": "Sri Lanka dropped Test captain Dhananjaya de Silva from Dasun Shanaka’s 15-member T20 World Cup squad after modest returns since his recall. He scored 43 runs and took one wicket in three games. Injured pacer Eshan Malinga was included. Co-host Sri Lanka begin their campaign against Ireland in Colombo.",
-    "img": "https://static.toiimg.com/photo/msid-127867170,imgsize-155704.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sri-lanka-drop-test-captain-dhananjaya-de-silva-from-t20-world-cup-squad/articleshow/127866338.cms",
-    "time": "2026-02-02T16:41:11.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Tilak Varma ticks all boxes on return, ready for T20 World Cup",
     "desc": "Tilak Varma marked his return from injury with an all-round showing in India A’s warm-up against USA, batting fluently and bowling extended spells. With no visible rust, the 23-year-old strengthened his case as India’s No. 3 for the T20 World Cup, even as selection debates intensify around the second opener and backup bowling options.",
     "img": "https://static.toiimg.com/photo/msid-127866203,imgsize-126802.cms",
@@ -703,15 +730,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "When no one wanted to visit Pakistan",
-    "desc": "Pakistan’s decision to boycott its T20 World Cup 2026 match against India has reignited the debate over politics in cricket. While the ICC has raised concerns over selective participation, the move contrasts with Pakistan’s past, when teams like New Zealand, Australia, England and Bangladesh repeatedly refused to tour the country due to security fears, forcing Pakistan into years of isolation.",
-    "img": "https://static.toiimg.com/photo/msid-127864981,imgsize-104296.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/once-declined-by-bangladesh-now-calling-the-shots-when-no-one-wanted-to-visit-pakistan/articleshow/127862433.cms",
-    "time": "2026-02-02T14:23:11.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "ISL 2025-26: FanCode selected as media partner, KPS to handle production",
     "desc": "JioStar, the exclusive broadcast partner of the ISL for the last two seasons and whose parent company owned the league for the last 10 years, lost out, having quoted a financial bid of around ₹5 crore",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -749,7 +767,7 @@ const newsData_en = [
   {
     "cat": "Sports",
     "title": "FanCode awarded broadcast rights; KP Studios bag production rights",
-    "desc": "FanCode has been awarded the broadcast rights for the upcoming 2025-26 ISL season with KPS Studios bagging the production rights. A total of seven parties had shown interest. The truncated season gets underway on February 14 - after a five month delay.",
+    "desc": "FanCode, part of Dream Sports Group, has been awarded the broadcast rights for the upcoming 2025-26 ISL season with KPS Studios bagging the production rights. A total of seven parties had shown interest. The truncated season gets underway on February 14 - after a five month delay.",
     "img": "https://static.toiimg.com/photo/msid-127862323,imgsize-52494.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/fancode-awarded-isl-broadcast-rights-kps-studios-bag-production-rights/articleshow/127862323.cms",
@@ -763,15 +781,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/explained-how-much-will-an-india-vs-pakistan-t20-world-cup-no-show-cost/articleshow/127863649.cms",
     "time": "2026-02-02T13:12:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ex-ICC official accuses BCCI of mishandling Mustafizur exit",
-    "desc": "Former ICC official Sami-ul-Hasan Burney criticised the BCCI's public handling of Mustafizur Rahman's IPL exit, suggesting it triggered Bangladesh's withdrawal and Pakistan's forfeited match. Burney also highlighted PCB chairman Mohsin Naqvi's view of the ICC's stance on match venue changes as \"shifting of goalposts.\"",
-    "img": "https://static.toiimg.com/photo/msid-127862793,imgsize-32910.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ex-icc-official-accuses-bcci-of-mishandling-mustafizur-rahman-exit-fueling-t20-world-cup-row/articleshow/127862550.cms",
-    "time": "2026-02-02T12:46:41.000Z"
   },
   {
     "cat": "World",
@@ -790,15 +799,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/an-eye-for-an-eye-response-pakistans-call-to-boycott-india-t20-world-cup-match-justified/articleshow/127861780.cms",
     "time": "2026-02-02T12:14:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "At the Happy Slam, not everyone was happy",
-    "desc": "In 2007, Roger Federer coined the term \"Happy Slam\" to describe the Australian Open - the first Grand Slam on the tennis calendar. 19 years later, he was back in Melbourne and explained the 'why' behind it. As three weeks of record attendance concluded, not everyone was quite 'happy' with how things turned out.",
-    "img": "https://static.toiimg.com/photo/msid-127860064,imgsize-82796.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/australian-open-at-the-happy-slam-not-everyone-was-happy/articleshow/127859608.cms",
-    "time": "2026-02-02T10:46:37.000Z"
   },
   {
     "cat": "Sports",

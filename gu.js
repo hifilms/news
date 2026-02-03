@@ -1,5 +1,77 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "15-20 હજાર રૂપિયામાં ગામમાં શરૂ કરો આ 5 બિઝનેસ, દરરોજ થશે મોટી કમાણી",
+    "desc": "જો તમે ગામમાં રહો છો અને ઓછા રોકાણ સાથે તમારો પોતાનો નાનો વ્યવસાય શરૂ કરવા માંગો છો, તો અમે તમને આ લેખમાં એવા કેટલાક નાના બિઝનેસ આઈડિયા જણાવીશું છે, જે તમને મદદરૂપ થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/top-5-business-ideas-under-20000-to-start-business-in-your-village-463827 ",
+    "time": "2026-02-03T09:37:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શું અમેરિકી કરારથી ખેડૂતોને નુકસાન થશે? જાણો ટેરિફ ડીલ અંગે સરકારના સુત્રએ મામલો કર્યો સ્પષ્ટ",
+    "desc": "સરકારનો દાવો છે કે અમેરિકા સાથેના ટેરિફ ડીલથી કૃષિ અને ડેરી ક્ષેત્રો પર જવાબ આપ્યો છે અને આ ડીલ ભારતની વૈશ્વિક સ્પર્ધાત્મકતામાં વધારો કરશે. સરકારના મતે, તેની સામેના વિરોધ રાજકીય રીતે પ્રેરિત અને હકીકતો સાથે અસંગત છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/there-has-been-no-compromise-with-the-interests-of-farmers-government-sources-clarified-the-entire-matter-regarding-the-tariff-deal-463826 ",
+    "time": "2026-02-03T09:36:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભારત-US ટ્રેડ ડીલ પર મચ્યું ભારે ઘમાસાણ, જાણો વિપક્ષ કેમ ગણાવે છે ખેડૂત વિરોધી?",
+    "desc": "ભારત અને અમેરિકા વચ્ચે જે ટ્રેડ ડીલ થઈ અને ટેરિફ પણ ઘટ્યો પરંતુ આ બધા વચ્ચે એવી પણ કેટલીક અસમંજસ ભરેલી સ્થિતિ છે જેનો ઉકેલ આવવો જરૂરી છે. જાણો વિપક્ષ કૃષિ સેક્ટરને લઈને ડીલની વિગતોથી કેમ ચિંતા વ્યક્ત કરી રહ્યો છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/india-us-trade-deal-why-opposition-parties-questions-regarding-agriculture-sector-and-farmers-463824 ",
+    "time": "2026-02-03T09:35:21.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "UAN નંબર ભૂલી ગયા છો? ચિંતા છોડો, ઘરે બેઠા આ રીતે મિનિટોમાં કરો રિકવર, જાણો પ્રોસેસ",
+    "desc": "જો તમે તમારો UAN નંબર ભૂલી ગયા છો, તો ચિંતા કરવાની કોઈ જરૂર નથી. હવે તમે EPFO ​​વેબસાઇટનો ઉપયોગ કરીને તમારા ઘરે બેઠા થોડી મિનિટોમાં તમારો UAN પાછો મેળવી શકો છો. સંપૂર્ણ સ્ટેપ-બાય-સ્ટેપ પ્રોસેસ અને મોટા PF-સંબંધિત લાભો જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/forgot-your-uan-number-dont-worry-recover-it-in-minutes-from-home-know-the-process-463822 ",
+    "time": "2026-02-03T09:16:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બંગાળ ભારતના પૂર્વમાં હોવા છતાં કેમ કહેવાય છે પશ્ચિમ બંગાળ ? આ નામ પાછળની કહાની છે રસપ્રદ",
+    "desc": "ભારતમાં 28 રાજ્યો અને 8 કેન્દ્રશાસિત પ્રદેશો છે. જેમાંથી કેટલાક પૂર્વમાં, કેટલાક પશ્ચિમમાં, કેટલાક ઉત્તરમાં અને કેટલાક દક્ષિણમાં આવેલા છે. ત્યારે એક રાજ્ય એવું છેય, જે પૂર્વમાં આવેલું હોવા છતાં પશ્ચિમ બંગાળ તરીકે ઓળખાય છે, ત્યારે આ લેખમાં જાણીશું કે તેનું પશ્ચિમ બંગાળ કેમ પડ્યું, તેની પાછળની કહાની શું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/gk-why-is-bengal-called-west-bengal-even-it-is-in-east-india-463821 ",
+    "time": "2026-02-03T09:01:13.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "શું ભારત રશિયા પાસેથી તેલ ખરીદવાનું બંધ કરશે? ટ્રમ્પની શરતો પૂરી કરવામાં કયા પડકારો છે",
+    "desc": "ભારત અને અમેરિકા વચ્ચે લાંબા સમયથી અટવાયેલી ટ્રેડ ડીલ પૂરી થઈ ગઈ છે. પરંતુ ટ્રમ્પે રશિયા પાસેથી તેલ ન ખરીદવાની શરત રાખી છે. હવે સવાલ છે કે શું પીએમ મોદી આ શરત પૂરી કરી શકશે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/india-us-trade-deal-will-india-stop-buying-russian-oil-trump-conditon-to-pm-modi-463820 ",
+    "time": "2026-02-03T09:01:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સાધ્વી પ્રેમ બાઈસાના મોતનું સૌથી ભયાનક સત્ય! ઇન્જેક્શન લઈને રૂમમાં ઘૂસ્યો દેવી સિંહ અને પછી... સામે આવી છેલ્લી 30 સેકન્ડની સચ્ચાઈ",
+    "desc": "સાધ્વી પ્રેમ બાઈસાના મોત મામલે તપાસમાં ચોંકાવનારા તથ્યો સામે આવ્યા છે. એવું કહેવામાં આવી રહ્યું છે કે દેવી સિંહ ઇન્જેક્શન લઈને રૂમમાં દાખલ થયો અને થોડી જ ક્ષણોમાં પરિસ્થિતિ બદલાઈ ગઈ. SITના જણાવ્યા અનુસાર, છેલ્લી 30 સેકન્ડમાં શું થયું તેની કડીઓ હવે જોડાઈ રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/sadhvi-prem-baisas-death-is-the-most-terrifying-truth-devi-singh-entered-the-room-with-an-injection-463819 ",
+    "time": "2026-02-03T08:37:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ટ્રમ્પે ટેરિફ ઘટાડતા સોના-ચાંદીના ભાવ બદલાશે? ગોલ્ડ રેટમાં હજુ જોવા મળી શકે છે મોટો ઉલટફેર!",
+    "desc": "સોના અને ચાંદીના ભાવમાં ઓલટાઈમ હાઈના સ્તરને સ્પર્શ કર્યા બાદ ભયંકર કડાકા જોવા મળ્યા. જો કે 3 દિવસ બાદ સોમવારે ભાવ બપોર પછી ચડવા લાગ્યા અને આજે પણ સોના ચાંદીમાં વધારો જોવા મળી રહ્યો છે. જો કે રિટેલ બજારમાં ચાંદી આજે પણ પછડાઈ છે. એવું અનુમાન છે કે અમેરિકા-ભારત વચ્ચેની ટ્રેડ ડીલ અને ટેરિફ કાપ બાદ ભાવમાં ઘટાડો જોવા મળી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-gold-and-silver-prices-fall-as-trump-reduces-tariff-big-twist-may-be-seen-in-coming-days-463816 ",
+    "time": "2026-02-03T08:23:38.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ટીમમાં મોટો ફેરફાર... જયસ્વાલ અને શાર્દુલ ઠાકુરની અચાનક એન્ટ્રી, કેપ્ટન પણ બદલાયો",
     "desc": "T20 વર્લ્ડ કપ 2026 ટૂંક સમયમાં શરૂ થવા જઈ રહ્યો છે. મેગા ઈવેન્ટમાં ટીમ ઈન્ડિયા તેની શરૂઆત 7 ફેબ્રુઆરી યુએસએ સામે કરશે. આ વચ્ચે ડોમેસ્ટિક ટૂર્નામેન્ટ રણજી ટ્રોફીને લઈને એક મોટું અપડેટ સામે આવ્યું છે.",
@@ -180,15 +252,6 @@ const newsData_gu = [
     "time": "2026-02-02T06:57:58.000Z"
   },
   {
-    "cat": "Business",
-    "title": "આજે પણ સોના-ચાંદીના ભાવમાં જંગી ઘટાડો, સસ્તું સોનું ખરીદવા માટે લોકોની પડાપડી, જાણો લેટેસ્ટ રેટ",
-    "desc": "સોના અને ચાંદીના ભાવમાં છેલ્લા બે-ત્રણ દિવસથી ભારે કડાકો જોવા મળી રહ્યો છે. બજેટ બાદ પણ સોનું-ચાંદી સસ્તા થયા અને આજે ફરીથી વાયદા બજારમાં કિંમતી ધાતુઓમાં કડાકો જોવા મળ્યો છે. જો તમે ખરીદવાનું વિચારતા હોવ તો ફટાફટ લેટેસ્ટ રેટ ચેક કરો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-rate-today-huge-fall-in-gold-silver-prices-know-the-latest-rates-aaj-no-sona-chandi-no-bhav-463678 ",
-    "time": "2026-02-02T06:53:46.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ભારત-પાકિસ્તાન મેચમાં વિવાદ...પાકિસ્તાનીએ તોડ્યો નિયમ ! હવે ICC ફટકારશે સજા ?",
     "desc": "ICC અંડર-19 વર્લ્ડ કપ 2026માં ભારત-પાકિસ્તાન મેચ દરમિયાન પાકિસ્તાનના મેન્ટર સરફરાઝ અહેમદ ફોનનો ઉપયોગ કરતા જોવા મળ્યા હતા. આ ફોટો વાયરલ થઈ રહ્યો છે. ત્યારે સવાલ ઉઠી રહ્યા છે કે શું હવે ICC તેની સામે એક્શન લેશે ?",
@@ -232,15 +295,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/rohit-shetty-case-latest-update-lawrence-bishnoi-gang-post-viral-on-social-media-463669 ",
     "time": "2026-02-02T02:32:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "હોમ લોનના વ્યાજ પર બજેટમાં મોટી જાહેરાત, મિડલ ક્લાસ માટે ખુશખબર",
-    "desc": "બજેટમાં પ્રસ્તાવ મૂકવામાં આવ્યો છે કે, પોતાના કબજાવાળી મિલકતના મામલામાં હોમ લોનના વ્યાજ પર મળતી બે લાખ રૂપિયા સુધીની આવકવેરા કપાતમાં હવે સંપત્તિ મેળવતા પહેલા અથવા તેના બાંધકામ પહેલા ચૂકવવામાં આવેલા વ્યાજનો પણ સમાવેશ કરવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/budget-2026-home-loan-interest-tax-benefit-middle-class-relief-463654 ",
-    "time": "2026-02-01T17:40:05.000Z"
   },
   {
     "cat": "Sports",
@@ -378,15 +432,6 @@ const newsData_gu = [
     "time": "2026-01-31T12:24:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "સુનેત્રા પવાર બન્યા મહારાષ્ટ્રના પ્રથમ મહિલા નાયબ મુખ્યમંત્રી, રાજ્યપાલ આચાર્ય દેવવ્રતે લેવડાવ્યા શપથ",
-    "desc": "NCPના ધારાસભ્ય પક્ષની બેઠકમાં સુનેત્રા પવારને સર્વાનુમતે નવા નેતા તરીકે ચૂંટવામાં આવ્યા હતા. પક્ષના નેતા દિલીપ વાલ્સેએ તેમના નામનો પ્રસ્તાવ મૂક્યો હતો, જેને અન્ય પક્ષના નેતાઓએ ટેકો આપ્યો હતો. જે બાદ તેમણે મહારાષ્ટ્રના નાયબ મુખ્યમંત્રી તરીકે શપથ લીધા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ajit-pawar-wife-sunetra-pawar-maharashtra-first-woman-deputy-chief-minister-463473 ",
-    "time": "2026-01-31T11:59:22.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Airtelના કરોડો ગ્રાહકો માટે ખુશખબર... એક પ્લાનમાં ચાલશે બે સિમકાર્ડ, કંપનીએ લાવ્યો શાનદાર Plan",
     "desc": "Airtel તેના કરોડો ગ્રાહકો માટે એક શાનદાર પ્લાન લઈને આવ્યું છે. આ પ્લાનમાં કંપવી 11 બેનિફિટ આપી રહી છે, જેમાં તમે એક પ્લાનમાં બે સિમકાર્ડ પણ ચલાવી શકો છો, ત્યારે આ લેખમાં આ પ્લાનની સંપૂર્ણ વિગતો જાણીશું.",
@@ -394,24 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/airtel-1-plan-offer-2-sim-card-benefits-699-family-infinity-plan-463470 ",
     "time": "2026-01-31T11:16:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Prem Sadhvi Baisa ના મોતમાં ભયંકર Twist! રૂમના CCTVનું સત્ય આવ્યું સામે, Ashramમાંથી CCTV ગુમ",
-    "desc": "રાજસ્થાનના પ્રખ્યાત યુવા કથાવાચક સાધ્વી પ્રેમબાઈસાનું બુધવારે જોધપુરમાં શંકાસ્પદ સંજોગોમાં મોત થયું છે. આ ઘટના બાદ સમગ્ર વિસ્તારમાં ચકચાર મચી ગઈ છે. શુક્રવારે તેમના વતન બાલોતરા જિલ્લાના પરેઉ ગામમાં તેમના અંતિમ સંસ્કાર કરવામાં આવશે. જોકે, તેમના મૃત્યુને લઈને અનેક સવાલો ઉઠી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/shocking-twist-in-prem-sadhvi-baisas-death-the-truth-revealed-by-the-rooms-cctv-footage-cctv-ashram-missing-463468 ",
-    "time": "2026-01-31T10:31:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સાધ્વી પ્રેમ બાઇસા કેસમાં નવો વળાંક, હવે પિતાની ભૂમિકા સામે ઉભા થયા સવાલ, કહાની જાણીને ચોંકી જશો",
-    "desc": "29 જાન્યુઆરીના રોજ રાજસ્થાનના જોધપુરમાં કથાકાર સાધ્વી પ્રેમ બાઇસાના શંકાસ્પદ મોતનો મામલો દિવસેને દિવસે વધુ જટિલ બનતો જાય છે. મૃત્યુ પછીની ઇન્સ્ટાગ્રામ પોસ્ટ, તેમના પિતા અને ગુરુ વીરમનાથના બદલાતા નિવેદનો અને ભક્તોના ગંભીર આરોપોએ સમગ્ર ઘટના પર પ્રશ્નો ઉભા કર્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/sadhvi-prem-baisa-death-mystery-jodhpur-viral-video-rajasthan-463449 ",
-    "time": "2026-01-31T09:25:07.000Z"
   },
   {
     "cat": "Sports",
@@ -448,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/box-office-collection-of-film-mardaani-3-and-sunny-deol-border-2-463423 ",
     "time": "2026-01-31T02:57:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 વર્લ્ડ કપ ટીમની જાહેરાત, &amp;#039;ગુજરાતી&amp;#039; ખેલાડીને બનાવ્યો કેપ્ટન, આ &amp;#039;મેચ-ફિક્સર&amp;#039; ખેલાડીને રખાયો બાકાત",
-    "desc": "7 ફેબ્રુઆરીથી શરૂ થનારા T20 વર્લ્ડ કપ માટે પોતાની અનેક દેશોએ પોતાની ટીમની જાહેરાત કરી છે. આ ટીમનું નેતૃત્વ ગુજરાતના મૂળ ભારતીય મૂળના ખેલાડી કરશે. ટીમમાં ભારતીય અને પાકિસ્તાની મૂળના ઘણા ખેલાડીઓનો સમાવેશ થાય છે. મેચ ફિક્સિંગના આરોપી એરોન જોન્સને બાકાત રાખવામાં આવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-team-announced-gujarati-player-made-captain-this-match-fixer-player-left-out-463392 ",
-    "time": "2026-01-30T14:26:20.000Z"
   },
   {
     "cat": "Entertainment",
@@ -576,15 +594,6 @@ const newsData_gu = [
     "time": "2026-01-29T03:24:18.000Z"
   },
   {
-    "cat": "World",
-    "title": "વાતચીત કરો અથવા ભીષણ હુમલા માટે તૈયાર રહો... ટ્રમ્પની ઈરાનને અંતિમ ચેતવણી; સહમત તો થયું ઈરાન પણ મૂકી આ શરત",
-    "desc": "અમેરિકાના રાષ્ટ્રપતિ ટ્રમ્પે કહ્યું હતું કે, તેમને ઉમ્મીદ છે કે ઈરાન જલ્દી જ વાતચીતના ટેબલ પર આવશે અને એક ન્યાયપૂર્ણ અને સંતુલિત સમજૂતી પર વાતચીત કરશે. પરમાણુ હથિયાર વગરની એવી સમજૂતી જે તમામ પક્ષો માટે શ્રેષ્ઠ હોય. સમય ઝડપથી વીતી રહ્યો છે અને પરિસ્થિતિ નિર્ણાયક વળાંક પર છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/trump-warns-iran-negotiate-or-face-attack-midnight-hammer-463199 ",
-    "time": "2026-01-28T16:46:27.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "જિયો હોટસ્ટારે લોન્ચ કર્યા નવા મંથલી પ્લાન, સબ્સક્રિપ્શનમાં મોટા ફેરફાર, 80 રુપિયામાં મળશે ઘણું બધું",
     "desc": "જો તમે જિયો હોટસ્ટાર પર આવેલી ફિલ્મો અને વેબ સીરીઝ જોવા માંગો છો તો તેના માટે બેસ્ટ સમય છે. કારણ કે જિયો હોટસ્ટારએ યુઝર્સ માટે સૌથી સસ્તા મંથલી પ્લાન લોન્ચ કરી દીધા છે. જેમાં તમે ખૂબ ઓછા ખર્ચે જિયો હોટસ્ટારનું સબ્સક્રિપ્શન લઈ શકો છો.",
@@ -700,14 +709,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/india-eu-trade-deal-bring-relief-on-cars-tariff-reduce-to-40-percent-in-country-462926 ",
     "time": "2026-01-26T05:01:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "હવે ઇલેક્ટ્રિક વાહનોમાંથી પણ આવશે એન્જિનનો અવાજ, સરકાર લાવી રહી છે નવો નિયમ",
-    "desc": "આર્ટિફિશિયલ વ્હીકલ એલર્ટિંગ સિસ્ટમ (AVAS) એક એવી ટેકનોલોજી છે, જે ઇલેક્ટ્રિક વાહન જ્યારે ધીમી ગતિએ ચાલતું હોય ત્યારે એક આર્ટિફિશિયલ અવાજ પેદા કરે છે. આ નિયમ ટુ-વ્હીલર, થ્રી-વ્હીલર અને ફોર-વ્હીલર એમ તમામ શ્રેણીના ઇલેક્ટ્રિક વાહનો પર સમાન રીતે લાગુ થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/electric-vehicles-avas-system-mandatory-india-2026-pedestrian-safety-462661 ",
-    "time": "2026-01-23T11:52:03.000Z"
   }
 ];

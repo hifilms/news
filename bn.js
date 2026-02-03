@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "মুক্তি পেতেই কাঁপিয়ে দিল ধুরন্ধর ২-র টিজার! বক্স অফিসে আবার ঝড় তুলবেন রণবীর সিং",
+    "desc": "ধুরন্ধর সুপারডুপার হিট, ইতিমধ্যেই ওটিটি-তেও রিলিজ হয়েছে ধুরন্ধর। এবার চলে এল ধুরন্ধর-২-এর টিজার৷ ধুরন্ধর-এর সাফল্যের পরপরই সিকুয়ালের টিজার দেখে চোখ ধাঁধিয়ে যাবে দর্শকদের৷ রণবীর সিংয় এখানে ড্যাশিং অবতারে। পার্ট ২টি 'ধুরন্ধর - দ্য রিভেঞ্জ'। 'ধুরন্ধর'-এর টিজারে স্পষ্ট যে, প্রথম ছবির মতো, এটিও বক্স অফিসে হইচই ফেলে দেবে৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/dhu-2026-02-029db2d75e11b8bb13de02e400bded43-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/aditya-dhar-directorial-dhurandhar-2-teaser-ranveer-singh-returns-as-hamza-says-yeh-naya-hindustan-hai-pbd-2524311.html",
+    "time": "2026-02-03T08:34:44.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ড্রোন হামলায় দূরে ছিটকে পড়ল ভস্মীভূত বাস! ছড়িয়ে-ছিটিয়ে জানালার কাচ, প্রতিটি টুকরোয় রক্ত...",
+    "desc": "প্রায় চার বছর ধরে চলা রাশিয়া-ইউক্রেন যুদ্ধ কি এবার বন্ধ হবে? এরকম কথাবার্তা যখন শোনা যাচ্ছে, ঠিক তখন রাশিয়ার দিক থেকে নতুন করে এই হামলা। আমেরিকার অব্যাহত চাপের মুখে এ মাসেই দ্বিতীয় দফা বৈঠকে বসার কথা দুপক্ষের। কিন্তু কী হবে?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/russian-drone-attack-on-bus-in-ukraine-kills-at-least-12-russian-drone-strike-kills-mine-workers-injuring-seven-others_639127.html ",
+    "time": "2026-02-03T08:31:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "কয়লা পাচার মামলায় রাজ্য জুড়ে ১২ জায়গায় তল্লাশি ইডির...! ‍জামুরিয়ার ব্যবসায়ীর বাড়ি থেকে বিপুল টাকা উদ্ধার, নজরে একাধিক প্রভাবশালী!",
+    "desc": "সূত্রের খবর, জামুরিয়ার ব্যবসায়ী রমেশ বানসালের একাধিক জায়গায় তল্লাশি চালায় ইডির টিম। সেখান থেকে গুরুত্বপূর্ণ চালান এবং নথি উদ্ধার করা হয়েছে। এই ব্যবসায়ীর বাড়ি থেকে বিপুল পরিমান টাকা উদ্ধার হয়েছে। প্রায় ৭০ লাখ টাকা উদ্ধার হয়েছে বলে ইডি সূত্রে খবর। চলছে টাকা গোনার কাজ।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-03-at-13.31.04-2026-02-eda3196474448f9875a930bcd7737ce5-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/west-bengal/coal-scam-case-ed-conducting-raids-at-12-locations-across-the-state-in-connection-with-the-coal-smuggling-case-several-influential-businessmen-are-under-scrutiny-sanj-2524324.html",
+    "time": "2026-02-03T08:07:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "দু’বেলা অরিজিতের বাড়িতে খানা-পিনা আমিরের, থাকছে মূলত পাঞ্জাবি খাবার, মেনু দেখুন",
+    "desc": "অরিজিতের বাড়িতে সময় কাটাতে চেয়েছেন তিনি। খবর, অত্যন্ত গোপনে কলকাতা থেকে সড়ক পথে জিয়াগঞ্জে পৌঁছেছেন আমির। ঘরোয়া আবহে এই মুহূর্তে চলছে খাওয়া-দাওয়া, আড্ডা। তবে আমিরের উপস্থিতি সত্ত্বেও কোনও অতিরিক্ত নিরাপত্তার ব্যবস্থা করা হয়নি গায়কের বাড়িতে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/HYP_5741879_cropped_03022026_102910_inshot_20260203_102419752__2-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/aamir-khan-ate-punjabi-food-for-dinner-at-arijit-singh-house-listened-to-his-songs-l18-pbd-local18-2524128.html",
+    "time": "2026-02-03T07:42:59.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "সুপ্রিম কোর্টে পিছিয়ে গেল I-PAC মামলার শুনানি! রাজ্যের হলফনামার জবাব দিতে এক সপ্তাহ সময় চেয়ে নিল ED, পরবর্তী শুনানি কবে?",
     "desc": "সুপ্রিম কোর্টে আইপ্যাক মামলার শুনানি ছিল আজ মঙ্গলবার। সোমবার সব মামলার হলফনামা এসে জমা পড়ে সুপ্রিম কোর্টে। কিন্তু সেটা পড়ে উত্তর দিতে সময় লাগবে বলে জানায় কেন্দ্র। সেই মর্মেই এক সপ্তাহ সময় চেয়ে নেওয়া হয়েছে ইডির তরফে।",
@@ -862,41 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/short-videos/entertainment/arijit-singh-quits-playback-singing-bengali-director-raj-chakraborty-cannot-accept-this-news-pbd-2515357.html",
     "time": "2026-01-28T03:19:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "প্লেব্যাক গান আর গাইবেন না অরিজিৎ সিং! কী হবে? ভক্তদের বিস্ময়ের ঘোর কাটছে না! ঠিক শুনছেন?",
-    "desc": "Arijit Singh| চলচ্চিত্র জগতের জন্য বড় চমক। জনপ্রিয় গায়ক অরিজিৎ সিং সিনেমার প্লেব্যাক গায়ক হিসেবে অবসর নেওয়ার ঘোষণা করলেন। মঙ্গলবার, ২৭ জানুয়ারি, নিজের ব্যক্তিগত সোশ্যাল মিডিয়া অ্যাকাউন্টে এক আবেগঘন পোস্টের মাধ্যমে এই সিদ্ধান্তের কথা জানান ৩৮ বছর বয়সি শিল্পী। প্লেব্যাক ছাড়লেন গায়ক অরিজিৎ সিং, পোস্ট দেখে স্তম্ভিত গুণমুগ্ধরা | Bangla News অরিজিৎ সিং ২৭ জানুয়ারি সোশ্যাল মিডিয়ায় প্লেব্যাক গায়ক হিসেবে অবসর ঘোষণা করলেন। ভক্তরা বিস্মিত ও ভবিষ্যতের সংগীত যাত্রার জন্য শুভেচ্ছা জানিয়েছেন!",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/08/WhatsApp-Image-2025-08-14-at-6.09.10-PM-2025-08-041a68cffc5d9d293d51bfabe1f37d69-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/entertainment/bangla-hindi-popular-singer-arijit-singh-announces-retirement-from-playback-songs-fans-surprised-tib-ws-l-2515123.html",
-    "time": "2026-01-27T16:52:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "অনলাইনে অশ্লীলতা ঠেকাতে বিধিনিষেধ তৈরির কথা ভাবছে কেন্দ্র, কী কী থাকতে পারে সেই নিয়মে?",
-    "desc": "একটি ইংরেজি সংবাদমাধ্যমে প্রকাশিত রিপোর্ট অনুযায়ী, কেন্দ্র সরকার অনলাইন কনটেন্টে অশ্লীলতা নিয়ে খসড়া নিয়ম চালুর কথা ভাবছে। এই খসড়া IT (Digital Code) Rules, ২০২৬-এ কিছু বিধিনিষেধ চালু করবে – ধর্ম বা সম্প্রদায়ের উপর আক্রমণ, উস্কানি দেওয়া, মিথ্যা ও ইঙ্গিতপূর্ণ মন্তব্য ইত্যাদি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/06/phone-28-2025-06-af4315aad0f2dbf12f30fcb3d04225ed-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/govt-of-india-to-bring-draft-it-rules-for-tacklling-obscene-content-what-are-inside-the-rules-rdp-2515030.html",
-    "time": "2026-01-27T15:31:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘স্বামী নয়, চিতায় আগুন দেবে আমার ৩ বছরের মেয়ে...’,চোখে জল আনা চিঠি লিখে রেখে নিজেকে শেষ করলেন শিক্ষিকা",
-    "desc": "বলেছেন যে তাঁর ৫.৫ লিটার দুধের দাম মেটানো বাকি ছিল, সেই টাকা যেন তাঁর পার্স থেকে নিয়ে নেওয়া হয়। সোমবার রাতে সেহান গ্রামে তাঁর ভাড়া বাড়িতে ৩০ বছর বয়সি প্রিয়া ভারতীর ঝুলন্ত দেহ পাওয়া যায়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/New-Project-1-2026-01-aefbf55f4d682c0e5af1f4151e686aeb-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/bihar-teacher-ended-her-life-leaving-a-last-note-arc-2514953.html",
-    "time": "2026-01-27T14:31:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "টি-২০ বিশ্বকাপে ব্যাটার বুমরাহের বিশ্বরেকর্ড! যা আজ পর্যন্ত কেউ পারেনি, এই নজির অনেকেই জানেন না",
-    "desc": "গত টি-২০ বিশ্বকাপে তারকা ফাস্ট বোলার জসপ্রীত বুমরাহ টুর্নামেন্ট জুড়ে নজরকাড়া বোলিং করেছিলেন। গুরুত্বপূর্ণ ম্যাচগুলোতে তিনি নিয়মিত উইকেট তুলে নিয়ে প্রতিপক্ষ দলের উপর চাপ সৃষ্টি করেছিলেন। তার ধারাবাহিক পারফরম্যান্স ভারতকে চ্যাম্পিয়ন হতে বড় সাহায্য করে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2024/06/BUMRAH-19-2024-06-417be12aa9fd99f9ea06f142184cef20-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/no-one-can-break-this-world-record-of-jasprit-bumrah-in-the-t20-world-cup-sup-2514952.html",
-    "time": "2026-01-27T14:27:00.000Z"
   }
 ];

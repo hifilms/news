@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Do you know? Italy captain Wayne Madsen played in Hockey World Cup 2006 for South Africa",
+    "desc": "South Africa-born Wayne Madsen is set to lead Italy in the T20 World Cup. Italy are playing in the mega event for the first time in cricket history and have been placed in Group C...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/do-you-know-italy-captain-wayne-madsen-played-in-hockey-world-cup-2006-for-south-africa-2026-02-03-1028713",
+    "time": "2026-02-03T08:09:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Report",
+    "desc": "Pakistan are facing isolation from the other full member cricket boards over their decision to boycott the match against India in the T20 World Cup 2026. For the unversed, Pakistan government has denied its cricket...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-face-isolation-from-full-member-cricket-boards-over-india-match-boycott-row-report-2026-02-03-1028702",
+    "time": "2026-02-03T06:56:48.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mitchell Marsh shuts down journalist for question over Pakistan boycotting India clash in T20 World Cup 2026",
     "desc": "Australia captain Mitchell Marsh faced some unexpected questions from a Pakistan journalist at the end of the third T20I against Pakistan in Karachi. He was asked about Pakistan boycotting the marquee clash against India in...",
     "img": "",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/will-pakistan-women-s-a-team-play-against-india-a-side-in-asia-cup-on-february-15-here-is-latest-update-2026-02-02-1028636",
     "time": "2026-02-02T16:24:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India A make light work of USA in T20 World Cup 2026 warm-up fixture ahead of main showpiece",
-    "desc": "The Indian A team made light work of the USA side as the Ayush Badoni-led side defeated the minnows in the T20 World Cup 2026 warm-up clash at the Dr DY Patil Sports Academy, Navi...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-a-make-light-work-of-usa-in-t20-world-cup-2026-warm-up-fixture-ahead-of-main-showpiece-2026-02-02-1028634",
-    "time": "2026-02-02T15:50:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan leave for Sri Lanka ahead of T20 World Cup 2026 amid India boycott row",
-    "desc": "The Pakistan cricket team left for Sri Lanka for the T20 World Cup 2026 despite their government's decision to boycott the group stage clash against India, scheduled to take place on February 15 at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-leave-for-sri-lanka-ahead-of-t20-world-cup-2026-amid-india-boycott-row-2026-02-02-1028632",
-    "time": "2026-02-02T15:15:10.000Z"
   }
 ];
