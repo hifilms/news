@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "সুপ্রিম কোর্টে পিছিয়ে গেল I-PAC মামলার শুনানি! রাজ্যের হলফনামার জবাব দিতে এক সপ্তাহ সময় চেয়ে নিল ED, পরবর্তী শুনানি কবে?",
+    "desc": "সুপ্রিম কোর্টে আইপ্যাক মামলার শুনানি ছিল আজ মঙ্গলবার। সোমবার সব মামলার হলফনামা এসে জমা পড়ে সুপ্রিম কোর্টে। কিন্তু সেটা পড়ে উত্তর দিতে সময় লাগবে বলে জানায় কেন্দ্র। সেই মর্মেই এক সপ্তাহ সময় চেয়ে নেওয়া হয়েছে ইডির তরফে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-03-at-11.24.43-2026-02-dfaee9a339d5352187bacfa6adc000fc-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/i-pac-case-supereme-court-ipac-case-hearing-big-update-sc-gives-one-week-time-to-ed-know-what-happened-in-court-today-when-is-the-next-hearing-date-sanj-2524180.html",
+    "time": "2026-02-03T06:18:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arijit Singh-Aamir Khan: রাতভর শোনালেন গান, আগলে রাখছেন সোমুকে, তবে কি আমিরের নতুন সিনেমায় এবার অরিজিৎ? নায়কের ঝটিকা সফরের গোপন তথ্য ফাঁস",
+    "desc": "জিয়াগঞ্জে সবচেয়ে চোখে পড়ার বিষয় আমির খানের উপস্থিতি সত্ত্বেও কোনও অতিরিক্ত নিরাপত্তার ব্যবস্থা করা হয়নি। কেন এমন সিদ্ধান্ত? অরিজিৎ ঘনিষ্ঠ সূত্রের সোজাসাপ্টা জবাব, 'জিয়াগঞ্জের মানুষের উপর অরিজিতের অগাধ ভরসা। কোনও রকম অশান্তির আশঙ্কাই করছেন না জিয়াগঞ্জের ভূমিপুত্র।'",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/HYP_5741683_cropped_03022026_083727_img_20260203_083032_1200_x_1-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/why-bollywood-actor-aamir-khan-came-to-arijit-singhs-house-in-jiaganj-here-s-the-real-reason-l18-rds-local18-2523971.html",
+    "time": "2026-02-03T05:41:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'আমরা বঙ্গভবনে থাকা কাউকে বাধা দিইনি...', দাবি দিল্লি পুলিশের! জানাল ভবনের 'বাইরে' বাহিনী মোতায়েনের আসল কারণ!",
+    "desc": "সোমবার সকালে দিল্লি পুলিশের বিশাল বাহিনী প্রথমে দিল্লির হেইলি রোড এবং চাণক্যপুরীতে অবস্থিত বঙ্গভবন দুটি ঘিরে ফেলে। ভবনের প্রবেশদ্বারেই মোতায়েন করা হয় বিশাল সশস্ত্র পুলিশ বাহিনী। অভিযোগ, দুটি ভবনে থাকা রাজ্যের অতিথিদের ঘরে ঢুকেও তল্লাশি চালায় তারা।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-03-at-10.53.05-2026-02-2c10cdf25aef12036e5bd65f281ef626-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/delhi-police-on-banga-bhawan-we-did-not-obstruct-anyone-inside-bangabhaban-claims-delhi-police-dismissing-allegations-of-harassment-explained-the-real-reason-for-deploying-forces-outside-sanj-2524023.html",
+    "time": "2026-02-03T05:33:25.000Z"
+  },
+  {
     "cat": "Business",
     "title": "বাম্পার সুযোগ...! ৫০ টাকার 'নোট' থাকলেই মিলবে লাখ লাখ টাকা! কী ভাবে? দেখে নিন 'সঠিক' নিয়ম!",
     "desc": "১০, ২০, ৫০, ১০০ টাকার মতো মূল্যমানের নোটে, যদি ক্রেতাদের পছন্দের সংখ্যা থাকে, তাহলে তাদের চাহিদা বাড়ছে বাজারে। বিশেষ করে যদি আপনার বাড়িতে ৫০ টাকার পুরনো নোট থাকে, তাহলে আপনি এখনই লক্ষ লক্ষ টাকা আয় করতে পারবেন।",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/no-one-can-break-this-world-record-of-jasprit-bumrah-in-the-t20-world-cup-sup-2514952.html",
     "time": "2026-01-27T14:27:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "২০২৬ সালেও নারী কেবল পণ্য! ভরা মঞ্চে শ্লীলতাহানি মৌনির, প্রতিবাদে বিস্ফোরক শুভশ্রী...",
-    "desc": "সম্প্রতি হরিয়ানার কর্নালে এক স্টেজ পারফরম্যান্স করতে গিয়ে চরম অশালীন আচরণের মুখে পড়েন মৌনী। ঘটনার প্রতিবাদে মুখ খোলেন শুভশ্রীও। মৌনিকে সাহসী যোদ্ধা আখ্যা দিয়ে তিনি আরও বলেন, \"তুমি সমস্ত লাঞ্ছিত নারীর প্রতিনিধি হয়ে প্রতিবাদ করেছ। তোমার এই শক্তি অটুট থাকুক।\"",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/subhashree-ganguly-supports-mouni-roy-harassment-incident_637738.html ",
-    "time": "2026-01-27T14:21:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "টি-২০ ক্রিকেটে বিশ্বের কোনও ব্যাটার যা পারেনি, এমন জোড়া বিশ্বরেকর্ড এবার অভিষেক শর্মার দখলে",
-    "desc": "নিউজিল্যান্ডের বিরুদ্ধে তৃতীয় টি–টোয়েন্টি ম্যাচে দুর্দান্ত ব্যাটিং করেন অভিষেক শর্মা। ১৫৪ রানের লক্ষ্য তাড়া করতে নেমে ভারতের হয়ে ইনিংস ওপেন করেন তিনি। মাত্র ২০ বল খেলে অপরাজিত ৬৮ রান করে দলকে সহজ জয় এনে দেন এই বাঁহাতি ব্যাটার।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Abhishek-Sharma-43-2026-01-a6b55f6953fd624f026aff2f183edaf0-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/abhishek-sharma-breaks-world-record-becomes-the-highest-run-scorer-in-men-s-t20-match-without-facing-a-dot-ball-in-ind-vs-nz-3rd-t20-sup-2514827.html",
-    "time": "2026-01-27T13:21:04.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "'ইউনূস সুদখোর, খুনি, বিশ্বাসঘাতক!' তীব্র আক্রমণ শেখ হাসিনার, ভোটের আগেই খেলা ঘুরবে বাংলাদেশে?",
-    "desc": "ভারতে নির্বাসনে থাকা বাংলাদেশের প্রাক্তন প্রধানমন্ত্রী ও আওয়ামি লিগ নেত্রী শেখ হাসিনা তাঁর ভাষণে অন্তর্বর্তী প্রশাসনের প্রধান মহম্মদ ইউনূসের বিরুদ্ধে তীব্র আক্রমণ শানিয়েছেন। ইউনুসকে তিনি “খুনি ফ্যাসিস্ট, সুদখোর, অর্থপাচারকারী, ডাকাত ও বিশ্বাসঘাতক” বলে আখ্যা দেন। পাশাপাশি আওয়ামি লিগ সমর্থকদের ঐক্যবদ্ধ হয়ে গণতন্ত্র পুনরুদ্ধারের আহ্বান জানান।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/hasina-on-yunus-1-2026-01-8fd6d142bfb7dbb727a6e12987e3507d-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/usurer-traitor-sheikh-hasina-fierce-attack-on-interim-head-muhammad-yunus-bangladesh-polls-2026-to-restore-democracy-tib-ws-l-2514719.html",
-    "time": "2026-01-27T12:29:45.000Z"
   }
 ];

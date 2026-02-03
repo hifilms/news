@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mitchell Marsh shuts down journalist for question over Pakistan boycotting India clash in T20 World Cup 2026",
+    "desc": "Australia captain Mitchell Marsh faced some unexpected questions from a Pakistan journalist at the end of the third T20I against Pakistan in Karachi. He was asked about Pakistan boycotting the marquee clash against India in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-marsh-shuts-down-journalist-for-question-over-pakistan-boycotting-india-clash-in-t20-world-cup-2026-2026-02-03-1028692",
+    "time": "2026-02-03T06:06:32.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why will Team India have to travel to Sri Lanka despite Pakistan boycotting the clash in T20 World Cup 2026?",
     "desc": "Pakistan has confirmed that they will boycott the marquee clash against India on February 15 in the T20 World Cup 2026. The match is scheduled to take place at the R Premadasa Stadium in Colombo,...",
     "img": "",
@@ -70,14 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pakistan-leave-for-sri-lanka-ahead-of-t20-world-cup-2026-amid-india-boycott-row-2026-02-02-1028632",
     "time": "2026-02-02T15:15:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How did Tilak Varma perform on his first competitive outing since surgery as T20 World Cup 2026 nears?",
-    "desc": "Tilak Varma made his return to competitive cricket during the T20 World Cup 2026 warm-up matches. Tilak, who underwent surgery for his testicular torsion, featured in his maiden competitive game since his recovery during India...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-did-tilak-varma-perform-on-his-first-competitive-outing-since-surgery-as-t20-world-cup-2026-nears-2026-02-02-1028622",
-    "time": "2026-02-02T13:50:25.000Z"
   }
 ];

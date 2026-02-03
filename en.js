@@ -1,5 +1,140 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Cummins lifts lid on withdrawal, hopeful of leading SRH in IPL",
+    "desc": "Pat Cummins has withdrawn from the T20 World Cup due to a back injury, prioritizing a demanding Test schedule over a rushed return. Medical advice indicated a longer recovery was needed, prompting a conservative approach to ensure fitness for upcoming major Test series. Cummins hopes to return for the IPL, with his comeback guided by further scans.",
+    "img": "https://static.toiimg.com/photo/msid-127877985,imgsize-105322.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/tests-over-t20-world-cup-pat-cummins-lifts-lid-on-withdrawal-hopeful-of-leading-srh-in-ipl/articleshow/127877998.cms",
+    "time": "2026-02-03T06:24:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold, silver price prediction today: Where are gold, silver prices headed after worst decline since 1980?",
+    "desc": "Gold prices may continue to be under pressure in the near term and high volatility is expected in silver prices, says Praveen Singh, Senior Fundamental Research Analyst- Currencies and Commodities at Mirae Asset Sharekhan. Here’s his outlook on gold prices:",
+    "img": "https://static.toiimg.com/photo/msid-127877775,imgsize-62694.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-where-are-gold-rates-headed-on-february-03-2026-and-in-the-near-term-mcx-gold-silver-prices/articleshow/127877739.cms",
+    "time": "2026-02-03T06:17:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Devil Wears Prada 2’ star Meryl Streep net worth",
+    "desc": "Meryl Streep, a celebrated actress, has amassed a net worth of USD 100 million through her illustrious career. Her earnings have grown significantly, from USD 35,000 for 'The Deer Hunter' to commanding USD 20 million per film in the 2010s. Beyond films, TV work, royalties, and investments contribute to her substantial fortune.",
+    "img": "https://static.toiimg.com/photo/msid-127877789,imgsize-392496.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-devil-wears-prada-2-star-meryl-streep-net-worth-inside-her-usd-100-million-fortune/articleshow/127877797.cms",
+    "time": "2026-02-03T06:16:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bencic, Svitolina rewrite history as first mothers inside WTA top 10",
+    "desc": "Belinda Bencic and Elina Svitolina have made history as the first mothers simultaneously ranked in the WTA Tour's top 10. This milestone highlights the WTA's Family Focus Program, supporting mothers in elite tennis. Both players expressed immense pride in their achievements, underscoring the challenges and rewards of returning to the top as mothers.",
+    "img": "https://static.toiimg.com/photo/msid-127877551,imgsize-60998.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/belinda-bencic-elina-svitolina-rewrite-history-as-first-mothers-inside-wta-top-10/articleshow/127877445.cms",
+    "time": "2026-02-03T06:04:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about BTS",
+    "desc": "BTS started as seven dreamers in a tiny Seoul agency, facing endless doubt, but their raw passion and unbreakable bond with fans turned them into the world’s biggest music force. RM, Jin, Suga, J-Hope, Jimin, V, and Jungkook poured their hearts into every lyric and beat, proving that real stories and hustle can conquer any odds. K-pop was not something many knew or heard, but BTS made sure that it reached the right audience.",
+    "img": "https://static.toiimg.com/photo/msid-127877447,imgsize-924017.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/the-bts-story-know-all-about-this-k-pop-boy-bands-early-days-big-triumphs-and-roadblocks/photostory/127877447.cms",
+    "time": "2026-02-03T05:57:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No boycott call for women as Pakistan A set to face India despite men's T20 WC standoff",
+    "desc": "Despite Pakistan's men's team boycotting their T20 World Cup match against India, the women's A team is set to play their Indian counterparts in the Rising Stars Asia Cup. Preparations are on track for the February 15th fixture, highlighting a stark contrast in the handling of the women's game amidst the ongoing controversy.",
+    "img": "https://static.toiimg.com/photo/msid-127877133,imgsize-69936.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-boycott-call-for-women-as-pakistan-a-set-to-face-india-despite-mens-t20-world-cup-standoff/articleshow/127877147.cms",
+    "time": "2026-02-03T05:44:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman's sweet surprise for Jackie on his 69th birthday",
+    "desc": "Salman Khan surprised Jackie Shroff at his 69th birthday celebration after receiving just a text invite, revealed Subhash Ghai on Instagram. Sharing a photo with the duo, Ghai praised Salman’s humility, calling him a gracious star who respects his seniors. The intimate gathering was also attended by filmmaker Rumy Jafry.",
+    "img": "https://static.toiimg.com/photo/msid-127877085,imgsize-56018.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/on-just-the-receipt-of-an-sms-salman-khans-sweet-surprise-for-jackie-shroff-on-his-69th-birthday-reveals-subhash-ghai/articleshow/127877085.cms",
+    "time": "2026-02-03T05:40:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Justin calls Blake'beautiful' in friendly voice note",
+    "desc": "New voice clips reveal director Justin Baldoni's cordial interactions with Blake Lively during 'It Ends With Us' production, discussing casting and script input. These recordings surface amidst their ongoing legal battle, with fans debating the contrasting narratives presented by the unsealed court documents and Lively's allegations. The case is set for a May 2026 court date.",
+    "img": "https://static.toiimg.com/photo/msid-127875650,imgsize-138866.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/justin-baldonis-voice-notes-calling-blake-lively-beautiful-great-writer-goes-viral-fans-call-him-sweet-and-thoughtful/articleshow/127874970.cms",
+    "time": "2026-02-03T05:36:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Fans react to Eric Murphy-Jasmin Lawrence pregnancy news",
+    "desc": "Comedy legends Eddie Murphy and Martin Lawrence are set to become grandfathers as their children, Eric Murphy and Jasmin Lawrence, announced their pregnancy. The couple, who married in May 2025, shared the joyous news on Instagram, sparking widespread excitement online. Fans are already anticipating the comedic talent their child will inherit from their famous fathers.",
+    "img": "https://static.toiimg.com/photo/msid-127876948,imgsize-52054.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/eric-murphy-jasmin-lawrence-to-have-a-baby-netizens-say-having-eddie-murphy-and-martin-lawrence-as-grandparents-is-life/articleshow/127876927.cms",
+    "time": "2026-02-03T05:34:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Silence speaks...'",
+    "desc": "In a recent reflection, Amitabh Bachchan delved into the timeless challenges of existence, channeling the insightful teachings of his father, Harivansh Rai Bachchan, alongside the evocative verses of Firaq Gorakhpuri. He emphasized the serene tranquility of early mornings, which stands in stark contrast to the relentless clamor of social media.",
+    "img": "https://static.toiimg.com/photo/msid-127876778,imgsize-31756.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-shares-his-cryptic-post-on-his-blog-at-almost-4-am-says-silence-speaks-louder-than-any-thought/articleshow/127876778.cms",
+    "time": "2026-02-03T05:29:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Victim's kin say it sends wrong message",
+    "desc": "The case relates to the incident on May 19, 2024, when a Porsche car allegedly driven by a 17-year-old boy under the influence of alcohol fatally knocked down two IT professionals in Pune's Kalyani Nagar area",
+    "img": "https://th-i.thgim.com/public/incoming/897fw9/article69814236.ece/alternates/LANDSCAPE_1200/11908_31_5_2024_17_15_12_2_DSC_8081.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-bail-to-3-accused-in-2024-pune-porsche-crash-victims-kin-say-it-sends-wrong-message/article70585992.ece",
+    "time": "2026-02-03T05:20:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "RCB bank on belief and balance as Lauren Bell praises team effort",
+    "desc": "Royal Challengers Bengaluru have cultivated a quiet confidence, securing a WPL final spot through collective effort and belief. Key players like Lauren Bell and Gautami Naik highlight the team's balanced strength and clear roles. Despite early setbacks, RCB's resilience and recent strong performance position them well for the final after a strategic break.",
+    "img": "https://static.toiimg.com/photo/msid-127876595,imgsize-145382.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/wpl-rcb-bank-on-belief-and-balance-as-lauren-bell-praises-team-effort/articleshow/127876592.cms",
+    "time": "2026-02-03T05:19:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-US trade deal impact: Rupee appreciates over 1% versus US dollar",
+    "desc": "Rupee has been the worst performing Asian currency in the last year, with persistent selloff from Foreign Institutional Investors (FIIs) causing the rupee to hit a new record low of 92 versus dollar a few weeks ago. Trump has announced that tariffs on India will be reduced to 18% with immediate effect.",
+    "img": "https://static.toiimg.com/photo/msid-127876617,imgsize-78716.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-impact-rupee-appreciates-over-1-versus-us-dollar/articleshow/127876536.cms",
+    "time": "2026-02-03T05:18:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre has taken note of water contamination incident in Indore, Minister informs Rajya Sabha",
+    "desc": "In a written reply to a question, Union Minister of State for Housing and Urban Affairs Tokhan Sahu said that the area has old pipelines dating back to 1997, adding that “some of it is damaged, so the municipal administration identified the old stretches of pipeline and included them under AMRUT 2.0”",
+    "img": "https://th-i.thgim.com/public/incoming/nl91wd/article70585842.ece/alternates/LANDSCAPE_1200/MP-CONTAMINATEDG3UFG53QM.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/centre-has-taken-note-of-water-contamination-incident-in-indore-minister-informs-rajya-sabha/article70585841.ece",
+    "time": "2026-02-03T05:03:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "police oppose bail to 3",
+    "desc": "Terming the accused as “lead players” in the security breach of the Parliament, counsel representing the Delhi police said that pamphlets carried by the accused contained an “open threat” to the Prime Minister Narendra Modi and that they intended to “usurp power”",
+    "img": "https://th-i.thgim.com/public/incoming/bta98o/article70584892.ece/alternates/LANDSCAPE_1200/IMG_Security_breach_in_L_2_1_F3C50QN0.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/parliament-security-breach-case-police-oppose-bail-to-3/article70584569.ece",
+    "time": "2026-02-03T04:49:08.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "‘The X-Files’ star Elyse Donalson passes away at 78",
     "desc": "The Curse of Michael Myers' and 'The X-Files', has passed away at 78. Donalson, who began her acting journey in Texas before moving to Los Angeles, also appeared in 'The Real Thing' and 'Switched at Birth'. Her sister confirmed the news of her recent passing in Studio City.",
@@ -16,15 +151,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/teenage-prodigy-anahat-singh-beats-world-no-10-to-win-title-becomes-youngest-asian-in-top-20/articleshow/127875938.cms",
     "time": "2026-02-03T04:32:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Victim's kin say it sends wrong message",
-    "desc": "The case relates to the incident on May 19, 2024, when a Porsche car allegedly driven by a 17-year-old boy under the influence of alcohol fatally knocked down two IT professionals in Pune's Kalyani Nagar area",
-    "img": "https://th-i.thgim.com/public/incoming/897fw9/article69814236.ece/alternates/LANDSCAPE_1200/11908_31_5_2024_17_15_12_2_DSC_8081.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-bail-to-3-accused-in-2024-pune-porsche-crash-victims-kin-say-it-sends-wrong-message/article70585992.ece",
-    "time": "2026-02-03T04:26:59.000Z"
   },
   {
     "cat": "Politics",
@@ -73,7 +199,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Diaspora’s dream close as 40 Indian-origin players set to spice up T20 World Cup",
+    "title": "Diaspora’s dream close as 40 Indian-origin players set to spice up T20 WC",
     "desc": "Dozens of players with Indian roots are representing other nations at the T20 World Cup, chasing dreams they couldn't fulfill in India's competitive cricket scene. From the US to Canada, Oman, and the UAE, these cricketers, including former age-group players and even professionals, are seizing second chances on the international stage, cherishing every moment.",
     "img": "https://static.toiimg.com/photo/msid-127875287,imgsize-133204.cms",
     "src": "indiatimes.com",
@@ -180,15 +306,6 @@ const newsData_en = [
     "time": "2026-02-03T01:55:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Centre has taken note of water contamination incident in Indore, Minister informs Rajya Sabha",
-    "desc": "In a written reply to a question, Union Minister of State for Housing and Urban Affairs Tokhan Sahu said that the area has old pipelines dating back to 1997, adding that “some of it is damaged, so the municipal administration identified the old stretches of pipeline and included them under AMRUT 2.0”",
-    "img": "https://th-i.thgim.com/public/incoming/nl91wd/article70585842.ece/alternates/LANDSCAPE_1200/MP-CONTAMINATEDG3UFG53QM.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/centre-has-taken-note-of-water-contamination-incident-in-indore-minister-informs-rajya-sabha/article70585841.ece",
-    "time": "2026-02-03T01:38:23.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'I need to prioritise my kids'",
     "desc": "Singer Kelly Clarkson is concluding her seven-season run on 'The Kelly Clarkson Show' to prioritize her children. In an emotional social media announcement, she expressed gratitude to her crew, colleagues, and fans for their support.",
@@ -270,15 +387,6 @@ const newsData_en = [
     "time": "2026-02-03T00:57:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Bad Bunny's net worth: A look at USD 100 million empire",
-    "desc": "Bad Bunny's net worth has doubled to $100 million in 2026, fueled by massive Spotify streams, record-breaking album sales like 'Un Verano Sin Ti', and highly successful tours. His ventures into Hollywood, WWE, and lucrative brand deals, alongside sports team ownership, solidify his immense financial success.",
-    "img": "https://static.toiimg.com/photo/msid-127855800,imgsize-539125.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bad-bunnys-net-worth-hits-usd-100-million-in-2026-cementing-his-status-as-a-global-music-icon/articleshow/127855800.cms",
-    "time": "2026-02-03T00:54:00.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Let judge who convicted J&amp;K separatist decide sentence: NIA court",
     "desc": "Judge Sharma recorded that he joined the NIA court after Nov 20, 2025, whereas Judge Singh had been hearing the case since 2024 and pronounced the guilty verdict on Jan 14. Sharma also noted he received the case file only after Jan 16, by which time final arguments had already been concluded before Judge Singh.",
@@ -295,24 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/ram-rahim-plea-hc-resumes-hearing-in-journo-murder-case/articleshow/127873636.cms",
     "time": "2026-02-03T00:46:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jaafar Jackson steps into uncle MJ's shoes",
-    "desc": "Michael Jackson's life story is coming to the big screen in the biopic 'Michael', with a new trailer revealing glimpses of his journey from Jackson 5 star to global icon. The film, starring his nephew Jaafar Jackson, explores his rise, family life, and artistic evolution.",
-    "img": "https://static.toiimg.com/photo/msid-127873533,imgsize-29920.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-trailer-jaafar-jackson-traces-michael-jacksons-rise-from-the-jackson-five-to-crowned-king-of-pop/articleshow/127873530.cms",
-    "time": "2026-02-03T00:45:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Tales From ’85’ teaser brings new twists from upside-down",
-    "desc": "Tales From '85' has been released, set in the winter of 1985. Despite Eleven sealing the Upside Down gate, a new mystery emerges, hinting that something sinister has survived. The young cast returns to voice their iconic characters in this new animated adventure.",
-    "img": "https://static.toiimg.com/photo/msid-127873629,imgsize-708807.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/stranger-things-tales-from-85-teaser-the-hawkins-gang-is-back-and-so-is-something-they-survived-from-upside-down/articleshow/127873628.cms",
-    "time": "2026-02-03T00:40:28.000Z"
   },
   {
     "cat": "Politics",
@@ -387,15 +477,6 @@ const newsData_en = [
     "time": "2026-02-03T00:00:55.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ian SPOILS Magneto moment in 'Doomsday'",
-    "desc": "Doomsday'. While discussing his iconic Magneto role, McKellen hinted at a large-scale event, stating he \"destroyed New Jersey the other day.\" This remark has ignited fan speculation about Magneto's villainous involvement and a potential New Jersey-based action sequence in the highly anticipated film.",
-    "img": "https://static.toiimg.com/photo/msid-127873366,imgsize-48230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/avengers-doomsday-ian-mckellen-accidentally-spoils-major-magneto-moment-watch/articleshow/127873145.cms",
-    "time": "2026-02-02T23:51:24.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Unlawful': Bangladesh HC questions BCB over female crickters' safety",
     "desc": "The Bangladesh High Court questioned the BCB’s failure to ensure a safe, harassment-free environment for women cricketers. It asked why such inaction should not be declared “unlawful, without lawful authority, and against public interest.” The court ordered BCB to implement its anti-sexual harassment policy and submit a report, following a writ over delayed action on harassment allegations.",
@@ -450,42 +531,6 @@ const newsData_en = [
     "time": "2026-02-02T22:39:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Manipur set for govt, BJP MLAs to elect leader; Biren to be replaced",
-    "desc": "Official sources said BJP MLAs are in the national capital and will be electing a new leader, who will be sworn in as the new chief minister. The party has not officially declared a date for the legislative party meeting and named its general secretary Tarun Chugh as the central observer for the election of the new leader.",
-    "img": "https://static.toiimg.com/photo/msid-127872927,imgsize-320224.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/manipur-set-for-govt-bjp-mlas-to-elect-leader-biren-to-be-replaced/articleshow/127872805.cms",
-    "time": "2026-02-02T22:38:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Honey on Farhan-Adhuna’s divorce, calls Shibani ‘a lovely girl’",
-    "desc": "Honey Irani has opened up about son Farhan Akhtar’s separation from his first wife Adhuna Bhabani, his relationship with Shibani Dandekar, and the philosophy that has guided her as a mother through her children’s most personal decisions.",
-    "img": "https://static.toiimg.com/photo/msid-127872188,imgsize-83122.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/honey-irani-says-farhan-akhtar-and-adhuna-bhabanis-divorce-was-sad-for-all-of-us-calls-shibani-dandekar-a-lovely-girl/articleshow/127871896.cms",
-    "time": "2026-02-02T22:27:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "BTS spotted at airport; tease 'important shoot'",
-    "desc": "BTS members were spotted at Incheon Airport, heading to the UAE for an overseas schedule, sparking comeback excitement. Jungkook hinted at an important shoot. This follows the announcement of their new album 'ARIRANG' on March 20 and a massive 2026-2027 world tour, their first headline run since 2021-22.",
-    "img": "https://static.toiimg.com/photo/msid-127871320,imgsize-31370.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/bts-spoted-at-airport-ahead-of-arirang-release-say-were-heading-out-for-an-important-shoot/articleshow/127871199.cms",
-    "time": "2026-02-02T22:22:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Govt spent only 5% of funds for job, skilling schemes in FY 2026",
-    "desc": "Latest budget data released Sunday shows that govt spent nearly Rs 1,730 crore on the three components of the programme in FY26, out of a total of Rs 33,830 crore allocated in the 2024-25 budget. With the internship scheme having seen only two pilots, the Centre spent Rs 526 crore of Rs 10,800 crore allocated during FY26.",
-    "img": "https://static.toiimg.com/photo/msid-127870989,imgsize-74890.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/govt-spent-only-5-of-funds-for-job-skilling-schemes-in-fy-2026/articleshow/127870988.cms",
-    "time": "2026-02-02T21:38:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Textiles, carpets, leather set to gain after India-US deal",
     "desc": "With the trade deal announced, Indian goods are suddenly looking more competitive. This means that a product will face 18% additional tariff over the MFN or product-specific rate. At 18%, the levy on Indian garments will be marginally lower than the 20% faced by those made in Bangladesh or Sri Lanka.",
@@ -529,15 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-sir-bulk-form-7-applications-for-voter-name-deletion-surface-in-barmer-bjp-blas-deny-filing-them/article70583472.ece",
     "time": "2026-02-02T19:38:50.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India-US trade deal: GIFT Nifty surges 800 points on Trump-Modi announcement; stock market set for strong rally?",
-    "desc": "GIFT Nifty surged by nearly 800 points before paring some gains, indicating a widespread relief-driven rally across markets. The rise followed remarks by US President Donald Trump that Washington would lower reciprocal tariffs on Indian goods to 18%.",
-    "img": "https://static.toiimg.com/photo/msid-127870281,imgsize-66610.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-gift-nifty-surges-800-points-on-trump-modi-announcement-stock-market-set-for-strong-rally/articleshow/127870259.cms",
-    "time": "2026-02-02T19:29:18.000Z"
   },
   {
     "cat": "Sports",
@@ -748,39 +784,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Sunil Chhetri-led Bengaluru FC players agree to pay cuts",
-    "desc": "Bengaluru FC stars, including Sunil Chhetri, have agreed to salary reductions for the shortened Indian Super League season. Club owner Parth Jindal expressed gratitude for the players' sacrifice amidst Indian football's challenging phase. This move follows a similar decision by FC Goa players, highlighting a collective effort to support the league's continuation.",
-    "img": "https://static.toiimg.com/photo/msid-127862290,imgsize-56984.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/sunil-chhetri-led-bengaluru-fc-players-agree-to-pay-cuts-for-truncated-isl/articleshow/127862276.cms",
-    "time": "2026-02-02T12:21:23.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "‘An eye-for-an-eye response’: Pakistan's call to boycott India match justified",
     "desc": "Former Pakistan batter Mohammad Yousuf backed the government’s decision to boycott the India match at the T20 World Cup, calling it an “eye-for-an-eye” move against political interference. The ICC expressed concern, warning that selective participation violates tournament principles and could hurt Pakistan cricket. Sources say Pakistan may face strict action, including possible exclusion.",
     "img": "https://static.toiimg.com/photo/msid-127861960,imgsize-51152.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/an-eye-for-an-eye-response-pakistans-call-to-boycott-india-t20-world-cup-match-justified/articleshow/127861780.cms",
     "time": "2026-02-02T12:14:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'India will miss Kohli, Rohit': Ex-head coach points out 'missing' element",
-    "desc": "Anil Kumble feels India’s 2026 T20 World Cup squad is slightly weaker than the 2024 title-winning team due to a lack of experience. He said India will miss Virat Kohli and Rohit Sharma, though he praised the current side’s balance, bowling depth, aggressive batting, and backed Suryakumar Yadav to handle pressure moments.",
-    "img": "https://static.toiimg.com/photo/msid-127861165,imgsize-47882.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-will-miss-virat-kohli-rohit-sharma-former-head-coach-points-out-missing-element-in-t20-world-cup-squad/articleshow/127860099.cms",
-    "time": "2026-02-02T11:38:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan depart for Sri Lanka amid India boycott row",
-    "desc": "Pakistan's T20 World Cup journey begins amidst uncertainty as they head to Sri Lanka, facing potential ICC sanctions for refusing to play India. Despite government directives to participate but boycott the India clash, the team will play all matches in Sri Lanka due to political tensions. The PCB chairman criticizes the ICC's stance, highlighting perceived double standards.",
-    "img": "https://static.toiimg.com/photo/msid-127860636,imgsize-64360.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-drama-pakistan-depart-for-sri-lanka-amid-india-boycott-row/articleshow/127860587.cms",
-    "time": "2026-02-02T11:13:36.000Z"
   },
   {
     "cat": "Sports",
@@ -808,15 +817,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/immigrant-parents-in-minneapolis-fear-separation-from-kids/article70582468.ece",
     "time": "2026-02-02T10:12:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why teams skipped selective ICC matches before",
-    "desc": "Cricket faces another boycott controversy as Pakistan refuses to play India in the T20 World Cup 2026 on February 15. This echoes past incidents like the 1996 and 2003 World Cups, where teams forfeited matches due to security and political reasons. The ICC deems selective participation unacceptable, warning of consequences for Pakistan.",
-    "img": "https://static.toiimg.com/photo/msid-127858732,imgsize-69936.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistan-boycotts-india-t20-world-cup-clash-why-teams-skipped-selective-icc-matches-before/articleshow/127858665.cms",
-    "time": "2026-02-02T09:50:22.000Z"
   },
   {
     "cat": "Business",
