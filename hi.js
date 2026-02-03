@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Italy rings warning bells for other teams with stunning win over Canada in warm-up clash",
+    "desc": "Italy could be playing the T20 World Cup for the first time in their cricketing history but they have already rung warning bells for teams in their group for the tournament. In the first warm-up...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-2026-italy-rings-warning-bells-for-other-teams-with-stunning-win-over-canada-in-warm-up-clash-2026-02-03-1028654",
+    "time": "2026-02-03T01:43:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sri Lanka announce T20 World Cup 2026 squad, Kamindu Mendis replaces Dhananjaya de Silva",
     "desc": "Sri Lanka have officially announced their 15-member squad for the T20 World Cup 2026, as Dasun Shanaka will be leading the squad that co-hosts the tournament along with India. The squad is closely similar to...",
     "img": "",
@@ -46,8 +55,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "IND A vs USA T20 World Cup warm-up live score: India A beat US by 38 runs in practice game in Navi Mumbai",
-    "desc": "India A were asked to bat first by the USA in their first match of the T20 World Cup 2026 warm-up fixtures at the Dr DY Patil Sports Academy, Navi Mumbai. The warm-up matches are...",
+    "title": "IND A vs USA T20 World Cup warm-up Highlights: India A beat US by 38 runs in practice game in Navi Mumbai",
+    "desc": "India A defeated the USA in their first match of the T20 World Cup 2026 warm-up fixtures at the Dr DY Patil Sports Academy, Navi Mumbai. Batting first, India A made 238/3 in their 20...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-a-vs-usa-t20-world-cup-warm-up-live-cricket-score-india-a-vs-usa-dr-dy-patil-sports-academy-latest-match-updates-scorecard-teams-highlights-2026-02-02-1028605",
@@ -70,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/they-will-miss-virat-and-rohit-anil-kumble-weighs-in-on-india-s-t20-world-cup-2026-squad-2026-02-02-1028595",
     "time": "2026-02-02T09:29:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI announces India A squad for warm-up game against USA ahead of T20 World Cup 2026",
-    "desc": "With the T20 World Cup 2026 all set to kick off on February 7, the BCCI (Board of Control for Cricket in India) came forward and announced India A’s 15-member squad for the upcoming warm-up...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-announces-india-a-squad-for-warm-up-game-against-usa-ahead-of-t20-world-cup-2026-2026-02-02-1028588",
-    "time": "2026-02-02T08:22:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Pretty disgraceful': Shashi Tharoor gives his take on Pakistan's India boycott ahead of T20 World Cup 2026",
-    "desc": "The T20 World Cup 2026 has caught every headline of late, with the ICC removing Bangladesh from the tournament due to their refusal to travel to India for the tournament. The situation around Pakistan and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pretty-disgraceful-shashi-tharoor-gives-his-take-on-pakistan-s-india-boycott-ahead-of-t20-world-cup-2026-2026-02-02-1028578",
-    "time": "2026-02-02T07:16:16.000Z"
   }
 ];
