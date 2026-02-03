@@ -1,6 +1,33 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "বুধে ইতিহাস তৈরি হবে সুপ্রিম কোর্টে! SIR মামলায় কোর্টে সওয়াল করবেন খোদ মমতা! তাকিয়ে গোটা দেশ",
+    "desc": "SIR নিয়ে এবার সুপ্রিম কোর্টের দ্বারস্থ হলেন মমতা বন্দ্যোপাধ্যায়। আগামিকাল, বুধবার ইনপার্সন অ‍্যাপিয়ার করবেন মমতা বন্দ্যোপাধ্যায়। ভারতের নির্বাচন কমিশন ও রাজ্যের মুখ্য নির্বাচনী আধিকারিক বা সিইও-র বিরুদ্ধে আদালতে মামলা দায়ের করেন তৃণমূল নেত্রী মমতা বন্দ্যোপাধ্যায়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-03-at-11.13.08-PM-2026-02-c89a11613a10eb776a13c7a4fb26ec09-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/tmc-supremo-mamata-banerjee-herself-will-question-the-court-in-the-sir-case-at-supreme-court-sal-2525205.html",
+    "time": "2026-02-03T18:29:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "৯ কোটি টাকার বকেয়া ঘিরে আইনি জট, দিল্লি হাইকোর্টে আত্মসমর্পণের নির্দেশ রাজপাল যাদবকে",
+    "desc": "দিল্লি হাইকোর্ট সম্প্রতি বলিউড অভিনেতা রাজপাল যাদব-কে চেক বাউন্স সংক্রান্ত মামলায় আত্মসমর্পণ করার নির্দেশ দিয়েছে। বিচারপতি স্বরানা কান্তা শর্মা ২ ফেব্রুয়ারি এই আদেশ জারি করেন, কারণ অভিনেতা মোট প্রায় ৯ কোটি টাকা বকেয়া পরিশোধের বাধ্যবাধকতা পূরণ করতে ব্যর্থ হয়েছেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Untitled-design-2026-02-03T232632.013-2026-02-ff61060b82569c2f67bec6a6a1263112-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/bollywood-actor-rajpal-yadav-cheque-bounce-case-delhi-hc-surrender-order-sal-2525196.html",
+    "time": "2026-02-03T17:57:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "মুম্বই বিমানবন্দরে বিপত্তি, ডানায়-ডানায় ধাক্কা 'এয়ার ইন্ডিয়া' আর 'ইন্ডিগো'-র যাত্রীবোঝাই বিমানের",
+    "desc": "মঙ্গলবার মুম্বই বিমানবন্দরে বিপত্তি! ছত্রপতি শিবাজি মহারাজ আন্তর্জাতিক বিমানবন্দরে সংঘর্ষ দুটি যাত্রীবাহী বিমানের মধ্যে! দুটি বিমানই তখন মাটিতে ছিল। কোয়েম্বাটোরগামী এয়ার ইন্ডিয়ার ফ্লাইট AI 2732 ও হায়দরাবাদ থেকে আসা ইন্ডিগোর ফ্লাইট 6E-র ডানার উপরদিকের অংশ একে অপরের সঙ্গে ধাক্কা খায়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/asqa-2026-02-8d7168fb4a86d134460370b79d15b39b-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/mumbai-airport-incident-air-india-indigo-wings-collide-on-ground-at-mumbai-airport-with-passengers-on-board-rm-2525195.html",
+    "time": "2026-02-03T17:31:25.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": ": ১ লক্ষ যাত্রীকে জরিমানা করল বেঙ্গালুরু মেট্রো, অভিযোগের তালিকায় কোন কোন 'ক্রাইম'? পড়ুন",
     "desc": "গত এক বছরে যাত্রীদের নিয়মভঙ্গের এক লক্ষেরও বেশি ঘটনা নথিভুক্ত করেছে বেঙ্গালুরু মেট্রো রেল কর্পোরেশন লিমিটেড (বিএমআরসিএল)। সাধারণ নিয়মভঙ্গের মধ্যে রয়েছে হেডফোন ছাড়াই মোবাইলে জোরে গান বা ভিডিও চালানো, সংরক্ষিত আসনে বসা, ট্রেনের ভিতরে খাবার খাওয়া এবং গুটখা বা পান চিবানো।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/2026-02-a18013dc949a1efdb5f34fc473574265-3x2.jpg",
@@ -286,15 +313,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/mamata-ec-meet-i-am-issuing-a-challenge-mamata-shares-strong-reaction-after-boycotting-the-meeting-in-delhi-throws-challange-of-bringing-one-lakh-people-with-her-sanj-2523513.html",
     "time": "2026-02-02T13:11:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বিগ আপডেট! বিধানসভা নির্বাচন কি পিছোচ্ছে? নির্বাচন কমিশনের বিরুদ্ধে দিল্লিতে অলআউট আক্রমণে মমতা...",
-    "desc": "তৃণমূল কংগ্রেসের দাবি, তালিকায় লক্ষ লক্ষ মৃত ভোটারের নাম রয়ে গেছে, আবার অনেক নতুন ভোটারের নাম অন্তর্ভুক্ত করা হয়নি। মমতা বন্দ্যোপাধ্যায় মনে করছেন, এই ত্রুটিপূর্ণ তালিকার ভিত্তিতে নির্বাচন হলে তা অবাধ ও সুষ্ঠু হবে না, যা গণতন্ত্রের জন্য ক্ষতিকর।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/coming-2026-wb-assembly-election-is-in-dilemma-as-cm-mamata-banerjee-filed-case-against-ec-regarding-voter-list_638976.html ",
-    "time": "2026-02-02T12:55:10.000Z"
   },
   {
     "cat": "Politics",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/ind-vs-nz-4th-t20-match-team-india-fans-gets-angry-over-harshit-rana-and-ravi-bishnoi-for-conceding-93-runs-ss-2517068.html",
     "time": "2026-01-29T05:28:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "রিয়ালিটি শো-তে 'ফেল', সেই অরিজিৎ সিং গানের জগতে জনপ্রিয়তার শিখরে! তালিকায় এমন আর কারা?",
-    "desc": "এমন অনেক প্রতিযোগী রয়েছেন যাঁরা ফাইনালে পৌঁছনোর আগেই এলিমিনেশন, প্রত্যাখ্যান বা বিপর্যয়ের মুখোমুখি হয়েছেন। কিন্তু এই শিল্পীরা ব্যর্থতাগুলিকে সিঁড়িতে পরিণত করেছেন এবং আবেগ এবং কঠোর পরিশ্রমের মাধ্যমে সঙ্গীত জগতে বিজয়ীদের চেয়েও বড় নাম তৈরি করেছেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Arijit-Singh-in-Indian-Idol-2026-01-e5cdbf62c5f03f30debdcb3039c7b947-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/arijit-singh-and-many-other-singers-who-faced-rejection-on-reality-shows-but-dominated-the-music-industry-rc-2516798.html",
-    "time": "2026-01-28T14:51:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "\"পুরো চুল কাটার পর নিজেকে নগ্ন মনে হচ্ছিল\" নারীত্ব নিয়ে অকপট ফতিমা সানা শেখ",
-    "desc": "ফতিমা সানা শেখ 'দঙ্গল'-এ কাজ করার অভিজ্ঞতা নিয়ে কথা বলেন। তিনি বলেন যে প্রশিক্ষণ এতটাই তীব্র ছিল যে গীতা ফোগাট এবং ববিতা ফোগাটকে আর কিছু জিজ্ঞাসা করার প্রয়োজন ছিল না। তবে, যখন তিনি তাঁদের দেখেছিলেন, তখন তাঁর মনে হয়েছিল, \"আমাকে তাঁদের মতোই দেখতে হতে হবে।\"",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Web-2026-01-28T173141.405-2026-01-42950afbe4018705b17cd33446b9ad6e-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/actress-fatima-sana-shaikh-says-how-she-felt-when-her-hair-was-cut-for-dangal-movie-tc-pbd-2516523.html",
-    "time": "2026-01-28T12:04:16.000Z"
   }
 ];

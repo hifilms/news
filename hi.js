@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Nandani Sharma achieves huge milestone in Delhi Capitals vs Gujarat Giants WPL 2026 Eliminator",
+    "desc": "Delhi Capitals rising star Nandani Sharma achieved another huge record in her team's Women's Premier League 2026 Eliminator against Gujarat Giants on Tuesday, February 3, at the BCA Stadium in Vadodara. Sharma has been a star...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nandani-sharma-achieves-huge-milestone-in-delhi-capitals-vs-gujarat-giants-wpl-2026-eliminator-2026-02-03-1028794",
+    "time": "2026-02-03T18:27:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND vs AFG, U19 World Cup: When and where to watch India vs Afghanistan live on TV and stream online in India?",
+    "desc": "India will take on Afghanistan in the second semi-final of the ongoing U19 World Cup 2026 on Wednesday, February 4, at the Harare Sports Club. The Ayush Mhatre-led side is currently unbeaten in the tournament...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-afg-u19-world-cup-when-and-where-to-watch-india-vs-afghanistan-live-on-tv-and-stream-online-in-india-2026-02-03-1028787",
+    "time": "2026-02-03T17:42:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Delhi Capitals storm into fourth straight final after making light work of GG, to face RCB for title",
+    "desc": "Delhi Capitals have marched into their fourth consecutive Women's Premier League final after defeating Gujarat Giants in the Eliminator at the BCA Stadium in Vadodara. The Capitals batters put up a shining performance to chase...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/serial-finalists-delhi-capitals-storm-into-fourth-straight-title-clash-after-making-light-work-of-gg-2026-02-03-1028785",
+    "time": "2026-02-03T17:14:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND vs SA T20 World Cup 2026 warm-up live streaming: When and where to watch clash in India?",
+    "desc": "India and South Africa are gearing up to face each other in a crucial T20 World Cup 2026 warm-up match on Wednesday, February 4, as they gear up for the global showpiece. India, the defending champions,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-sa-t20-world-cup-2026-warm-up-live-streaming-when-and-where-to-watch-clash-in-india-dr-dy-patil-sports-academy-navi-mumbai-2026-02-03-1028783",
+    "time": "2026-02-03T16:56:48.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ricky Ponting reveals pleading to Delhi Capitals management to keep Abhishek Sharma, franchise instead traded",
     "desc": "Ricky Ponting has predicted a breakout T20 World Cup for India opener Abhishek Sharma, highlighting the young batter as a potential leading run-scorer and even Player of the Tournament. The former Australia captain’s confidence in...",
     "img": "",
@@ -19,7 +55,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Shikhar Dhawan completes half-century",
+    "title": "Dubai Royals qualify for final",
     "desc": "Delhi Warriors had a stunning season so far, winning four out of their five matches in the ongoing World Legends Pro T20 League. They have been a force to reckon with and will now play...",
     "img": "",
     "src": "indiatvnews.com",
@@ -46,47 +82,11 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Mooney takes Giants to strong score of 168/7",
-    "desc": "Gujarat Giants are up against Delhi Capitals in the Eliminator of the Women's Premier League 2026. The two sides are facing each other for the first time in a knockout match as the Royal Challengers...",
+    "title": "Delhi Capitals beat Gujarat Giants by 7 wickets to enter final",
+    "desc": "Delhi Capitals outclassed Gujarat Giants for the first time this season after losing to them twice in the league stage. The Capitals made light work of what could have been a challenging 169-run target in the...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/gg-vs-dc-wpl-2026-eliminator-live-cricket-score-gujarat-giants-vs-delhi-capitals-bca-stadium-vadodara-latest-match-updates-scorecard-teams-highlights-2026-02-03-1028758",
     "time": "2026-02-03T13:08:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How surface at BCA Stadium, Vadodara is expected to play?",
-    "desc": "Gujarat Giants are set to face Delhi Capitals in the Eliminator of the Women's Premier League 2026, with the spot in the final up for grabs. The Capitals made a late surge into the knockouts...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gg-vs-dc-wpl-eliminator-pitch-report-how-surface-at-bca-stadium-vadodara-is-expected-to-play-in-gujarat-giants-vs-delhi-capitals-clash-2026-02-03-1028749",
-    "time": "2026-02-03T11:54:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How many Indian origin players will play in T20 World Cup 2026? Know full details of key cricketers",
-    "desc": "When the T20 World Cup begins on February 7 across venues in India and Sri Lanka, the spotlight will not fall solely on the host nation. More than three dozen players of Indian origin, spread...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-many-indian-origin-players-will-play-in-t20-world-cup-2026-know-full-details-of-key-cricketers-2026-02-03-1028748",
-    "time": "2026-02-03T11:52:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Steve Smith signed by new franchise in PSL after T20 World Cup 2026 snub",
-    "desc": "Australian veteran Steve Smith has been signed as marquee player by Pakistan Super League's new franchise Sialkot Stallionz after his snub from the T20 World Cup 2026. Smith, who was in brilliant touch in the Big...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/steve-smith-signed-by-new-franchise-in-psl-after-t20-world-cup-2026-snub-2026-02-03-1028738",
-    "time": "2026-02-03T11:01:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cristiano Ronaldo left unhappy, declined to play after Karim Benzema completes move to Al-Hilal",
-    "desc": "Cristiano Ronaldo and Karim Benzema shared the locker room at Real Madrid for nine years. They have been the best of mates on the pitch, helping the Los Blancos win four Champions League titles and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-left-unhappy-declined-to-play-after-karim-benzema-completes-move-to-al-hilal-2026-02-03-1028737",
-    "time": "2026-02-03T10:54:18.000Z"
   }
 ];

@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Celina Jaitly breaks silence on ‘broken’ 15-year marriage",
+    "desc": "Celina Jaitly, who filed for divorce from her husband Peter Haag in November last year at an Andheri court in Mumbai, has opened up about the reality behind her marriage in a deeply personal social media post. The divorce plea was filed on grounds of domestic violence and abuse, leaving many surprised, especially since Celina had often shared affectionate family moments with Haag and their children online.",
+    "img": "https://static.toiimg.com/photo/msid-127893167,imgsize-49894.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/celina-jaitly-breaks-silence-on-broken-15-year-marriage-amid-divorce-from-peter-haag-love-cannot-fix-what-is-already-broken/articleshow/127893082.cms",
+    "time": "2026-02-03T18:39:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Delhi Capitals storm into 4th consecutive final with dominant win",
+    "desc": "Delhi Capitals cruised into their fourth straight WPL final with a dominant seven-wicket win over Gujarat Giants. After restricting Gujarat to 168/7, led by Chinelle Henry’s 3/35, DC chased the target in 15.4 overs. Shafali Verma and Lizelle Lee starred up top before Jemimah Rodrigues sealed a final clash with RCB.",
+    "img": "https://static.toiimg.com/photo/msid-127891788,imgsize-33270.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/wpl-2026-delhi-capitals-storm-into-4th-consecutive-final-with-dominant-win-over-gujarat-giants/articleshow/127891592.cms",
+    "time": "2026-02-03T17:44:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-US trade deal clarity: Pharma exporters gain edge in US; sector eyes growth boost",
+    "desc": "Indian drugmakers anticipate significant benefits from the proposed India-US trade agreement, offering much-needed clarity and stability for the lucrative US pharmaceutical market. This development is expected to boost expansion plans and growth prospects for major companies like Sun Pharma and Dr. Reddy's, enhancing their competitive edge and strengthening India's role in global supply chains.",
+    "img": "https://static.toiimg.com/photo/msid-127891805,imgsize-46548.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-promises-policy-clarity-fuels-indian-pharmas-us-growth/articleshow/127891710.cms",
+    "time": "2026-02-03T17:43:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lauren Bell spearheads RCB’s march to WPL final",
+    "desc": "The 25-year-old pacer from England has been on target from the very start of the fourth season of the Women’s Premier League. Having picked up 12 wickets and bowled 116 dot balls in eight matches, the leader of the Bengaluru outfit’s bowling attack reflects on a fabulous campaign ahead of the final on Thursday",
+    "img": "https://th-i.thgim.com/public/sport/gk242f/article70588975.ece/alternates/LANDSCAPE_1200/BELL.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/in-the-swing-of-things-lauren-bell-spearheads-rcbs-march-to-wpl-final/article70588967.ece",
+    "time": "2026-02-03T17:38:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Parmeet admits he was a ‘very bad father’; Archana responds",
+    "desc": "Archana Puran Singh and Parmeet Sethi, who secretly tied the knot in 1992 and welcomed their first son Aaryamann in 1994, have spoken candidly about the rocky early years of their parenthood. In a recent vlog on Archana’s YouTube channel, the couple opened up about how Parmeet was largely “absent” after their first child’s birth, leaving Archana feeling alone and overwhelmed.",
+    "img": "https://static.toiimg.com/photo/msid-127891627,imgsize-50308.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/parmeet-sethi-admits-he-was-a-very-bad-father-initially-archana-puran-singh-recalls-i-was-so-weak-and-you-were-missing/articleshow/127891541.cms",
+    "time": "2026-02-03T17:38:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A.P. to set up palliative centres in all teaching hospitals in State, says Minister",
+    "desc": "Satya Kumar Yadav says the government is also considering the idea of expanding cancer care services to every district headquarters; notes that the number of cancer cases has seen gradual increase in Andhra Pradesh from 25,487 in 2020 to 35,546 in 2025",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-to-set-up-palliative-centres-in-all-teaching-hospitals-in-state-says-minister/article70588411.ece",
+    "time": "2026-02-03T17:38:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Transform A.P. into largest natural farming hub, CM tells officials",
+    "desc": "Chandrababu Naidu directs officials to develop a Cocoa City over 500 acres in Eluru district; announces that registration of aquaculture activities will be made mandatory; suggests organising crop-festivals in various regions to promote awareness of different crops and boost tourism",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/transform-ap-into-largest-natural-farming-hub-cm-tells-officials/article70588534.ece",
+    "time": "2026-02-03T17:32:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Why Trump administration is still imposing 18% tariff on India",
+    "desc": "The US will reduce tariffs on most Indian goods to 18% from 50% as part of a new trade agreement, aiming to address the large trade deficit. India has agreed to cut tariffs on a range of US products, including industrial goods, wine, and spirits, to zero. Sensitive Indian agriculture and dairy sectors remain protected under the deal.",
+    "img": "https://static.toiimg.com/photo/msid-127891180,imgsize-44176.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/why-trump-administration-is-still-imposing-18-tariff-on-india-explained/articleshow/127890865.cms",
+    "time": "2026-02-03T17:20:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘It tore up my back’",
+    "desc": "Jacob Elordi sustained a serious second-degree burn on his back during the filming of 'Wuthering Heights', a mishap that led to his brief hospitalization. The injury occurred in a steam shower, ironically fulfilling a playful challenge about embodying Heathcliff's character with real scars. Elordi's intense dedication to the role is highlighted, alongside his chemistry with co-star Margot Robbie.",
+    "img": "https://static.toiimg.com/photo/msid-127890957,imgsize-30882.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/it-tore-up-my-back-jacob-elordi-opens-up-about-frightening-hospitalisation-during-wuthering-heights-shoot/articleshow/127890957.cms",
+    "time": "2026-02-03T17:06:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "AR Ameen opens up on stepping out of AR Rahman’s shadow",
+    "desc": "AR Rahman’s son AR Ameen has stepped into the spotlight with his debut track Bheegi Bheegi, a romantic collaboration with Jasleen Royal featuring Dulquer Salmaan and Mrunal Thakur. In a recent interview, Ameen spoke about the pressure of being the legendary composer’s son, learning music directly from his father, and the challenges he faced recording his first Hindi track.",
+    "img": "https://static.toiimg.com/photo/msid-127890933,imgsize-95676.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ar-ameen-on-stepping-out-of-ar-rahmans-shadow-learning-from-dad-and-singing-in-hindi-i-want-to-come-up-with-my-own-path/articleshow/127890869.cms",
+    "time": "2026-02-03T17:02:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Willow by Cricbuzz to stream Team USA T20 WC matches free on YouTube",
+    "desc": "Willow by Cricbuzz has announced major updates for the 2026 season, including free streaming of all four Team USA matches at the ICC Men’s T20 World Cup on YouTube for the first time. The platform has also partnered with Jomboy Media for creator-led alternate telecasts and unveiled a revamped, faster viewing experience across its apps and devices.",
+    "img": "https://static.toiimg.com/photo/msid-127890697,imgsize-11296.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/willow-by-cricbuzz-to-stream-team-usa-t20-world-cup-2026-matches-free-on-youtube/articleshow/127890058.cms",
+    "time": "2026-02-03T16:49:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Wing tips of Air India &amp; IndiGo aircraft scrape at Mumbai Airport",
+    "desc": "Mumbai Airport witnessed a startling incident Tuesday as the wingtips of a stationary Air India Airbus and a taxiing IndiGo A320 scraped each other. The Air India flight to Coimbatore was delayed due to the contact, which damaged its wingtip.",
+    "img": "https://static.toiimg.com/photo/msid-127890727,imgsize-31170.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/wing-tips-of-air-india-indigo-aircraft-scrape-at-mumbai-airport/articleshow/127890477.cms",
+    "time": "2026-02-03T16:42:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "GSI to probe land subsidence in Godavari delta in Andhra Pradesh",
+    "desc": "The Water Resource Department has roped in the experts to fix the scientific reasons for the land subsidence, factors for the defunct 350-long irrigation drains in the Central Delta thriving with oil and natural gas exploration activities.",
+    "img": "https://th-i.thgim.com/public/incoming/wdupsu/article70588692.ece/alternates/LANDSCAPE_1200/10237_3_2_2026_18_29_45_1_GSI1.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/gsi-to-probe-land-subsidence-in-godavari-delta-in-andhra-pradesh/article70587830.ece",
+    "time": "2026-02-03T16:10:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India–US trade deal: New Delhi may scale back Russian oil buys after tariff relief",
+    "desc": "India will significantly reduce crude oil imports from Russia, adhering to a US-brokered trade deal that lowers tariffs on Indian goods. While existing contracts will be honored, new orders for Russian crude will cease, except for Nayara Energy due to its unique circumstances. This move aims to boost Indian exports and diversify energy sources.",
+    "img": "https://static.toiimg.com/photo/msid-127889748,imgsize-777029.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indiaus-trade-deal-new-delhi-may-scale-back-russian-oil-buys-after-tariff-relief-sources/articleshow/127889567.cms",
+    "time": "2026-02-03T15:53:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Uttarakhand opens 83 peaks in Garhwal and Kumaon regions for mountaineering",
+    "desc": "Uttarakhand has unlocked 83 Himalayan peaks, including Kamet and Nanda Devi East, for mountaineering, ranging from 5,700 to 7,756 meters. Indian climbers are now exempt from expedition fees, while foreign climbers benefit from reduced state charges. A new online portal streamlines applications, boosting tourism and local employment in remote areas.",
+    "img": "https://static.toiimg.com/photo/msid-127889496,imgsize-10954.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/uttarakhand-opens-83-peaks-in-garhwal-and-kumaon-regions-for-mountaineering/articleshow/127889521.cms",
+    "time": "2026-02-03T15:45:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Celina Jaitly gets HC relief; MEA to aid detained brother",
+    "desc": "In a fresh development in the case concerning the detention of Bollywood actor Celina Jaitly’s brother in the United Arab Emirates, the Delhi High Court on Tuesday directed the Ministry of External Affairs (MEA) to facilitate legal representation for Major (Retd.) Vikrant Kumar Jaitly in Dubai and Abu Dhabi.",
+    "img": "https://static.toiimg.com/photo/msid-127889573,imgsize-29342.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/celina-jaitly-gets-relief-as-delhi-high-court-directs-mea-to-facilitate-legal-aid-for-detained-brother-major-retd-vikrant-kumar-jaitly-in-uae/articleshow/127889542.cms",
+    "time": "2026-02-03T15:43:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "UDF finalising candidate list for Kottayam ahead of Statewide rally",
+    "desc": "The UDF aims to finalise candidates, aligning with Leader of the Opposition V.D. Satheesan’s rally on February 24. Amid ongoing seat-sharing disputes, particularly in Changanassery and Ettumanur, UDF leaders are prioritising candidates with community support to reclaim lost seats.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/udf-finalising-candidate-list-for-kottayam-ahead-of-statewide-rally/article70588104.ece",
+    "time": "2026-02-03T15:41:34.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "SFI leaders ‘abducted’ in Tirupati",
     "desc": "The leaders were on their way to the Collectorate to join the protest against alleged irregularities of Mohan Babu University, when nearly 30 persons reportedly attacked SFI district general secretary S. Akbar and the federation’s SVU students’ union leader Vinod",
@@ -7,6 +160,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/andhra-pradesh/sfi-leaders-abducted-in-tirupati/article70588219.ece",
     "time": "2026-02-03T15:36:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top 5 South newsmakers of the day",
+    "desc": "South Indian cinema buzzed with activity as Anaswara Rajan addressed a fake controversy, while Rashmika Mandanna's airport interaction fueled wedding rumors. The industry mourned the loss of legendary music director SP Venkatesh. Superstar Rajinikanth honored a sanitation worker, and Sai Pallavi is reportedly in talks for a key role in 'Kalki 2'.",
+    "img": "https://static.toiimg.com/photo/msid-127889417,imgsize-94826.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/composer-sp-venkatesh-passes-away-kalki-2898-ad-makers-confirm-considering-sai-pallavi-for-sequel-rashmika-mandanna-indirectly-confirms-wedding-date-top-5-south-newsmakers-of-the-day/articleshow/127885194.cms",
+    "time": "2026-02-03T15:33:15.000Z"
   },
   {
     "cat": "Politics",
@@ -81,10 +243,19 @@ const newsData_en = [
     "time": "2026-02-03T14:49:38.000Z"
   },
   {
+    "cat": "Business",
+    "title": "'India maintaining ⁠protection around agricultural goods': US on trade deal with Delhi, says tariffs to drop to 0% from 13.5%",
+    "desc": "The Trump administration is finalising a trade agreement with India, which will see tariffs on industrial goods fall to zero. While India maintains protections for its agricultural sector, the deal is expected to significantly open up its industrial market. The US is also monitoring India's energy trade, noting opportunities for diversification and increased US product purchases.",
+    "img": "https://static.toiimg.com/photo/msid-127888602,imgsize-51176.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-maintaining-protection-around-agricultural-goods-us-on-trade-deal-with-delhi-says-tariffs-to-drop-to-zero-from-13-5/articleshow/127888406.cms",
+    "time": "2026-02-03T14:38:55.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Ananya visits Trimbakeshwar Jyotirlinga",
     "desc": "In a recent heartfelt post, Ananya Panday opened up about her transformative spiritual journey to the revered Trimbakeshwar Jyotirlinga Mandir in Maharashtra. This visit was particularly special for her as it was her inaugural Jyotirlinga experience, prompting deep introspection amid her bustling career in the film industry.",
-    "img": "https://static.toiimg.com/photo/msid-127888564,imgsize-98290.cms",
+    "img": "https://static.toiimg.com/photo/msid-127888564,imgsize-.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pics-ananya-panday-visits-trimbakeshwar-jyotirlinga-calls-it-the-beginning-of-the-best-journey/articleshow/127888564.cms",
     "time": "2026-02-03T14:37:56.000Z"
@@ -115,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/did-you-know-rajinikanth-once-slept-on-the-floor-so-arvind-swamy-could-rest-during-thalapathi-shoot/articleshow/127888323.cms",
     "time": "2026-02-03T14:20:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rahul Gandhi lodges protest with Lok Sabha Speaker for not being allowed to speak",
-    "desc": "In his letter to Om Birla, the Congress leader noted that while speaking on the Motion on the President's address on February 2, the Speaker had directed him to authenticate a magazine which he intended to refer to while raising the India-China conflict of 2020",
-    "img": "https://th-i.thgim.com/public/incoming/faq6g8/article70588050.ece/alternates/LANDSCAPE_1200/20260203294L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/blot-on-democracy-rahul-gandhi-lodges-protest-with-lok-sabha-speaker-for-not-being-allowed-to-speak/article70587953.ece",
-    "time": "2026-02-03T14:17:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -342,24 +504,6 @@ const newsData_en = [
     "time": "2026-02-03T11:11:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'His drinking was a big problem'",
-    "desc": "Honey Irani revealed Javed Akhtar's alcoholism as the primary cause of their 1985 separation. She acknowledged her own immaturity and the rapid success they experienced as contributing factors. Despite the divorce, Irani maintained a friendship with Akhtar and Shabana Azmi, emphasizing that separation doesn't need to be bitter if accepted honestly.",
-    "img": "https://static.toiimg.com/photo/msid-127884132,imgsize-28732.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/honey-irani-reveals-javed-akhtars-drinking-problem-was-one-of-the-major-reasons-for-their-divorce-she-doesnt-blame-him-alone/articleshow/127884139.cms",
-    "time": "2026-02-03T11:10:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Cherry-picking, not reporting",
-    "desc": "Anaswara Rajan has publicly addressed media misinterpretations of a light-hearted remark made during her film 'With Love' promotions. She expressed disappointment that a joking exchange, intended to ease her co-star's nerves, was twisted into a serious statement by headline-driven reporting. Anaswara emphasized her need to clarify her intent against manufactured negativity.",
-    "img": "https://static.toiimg.com/photo/msid-127883796,imgsize-57738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/anaswara-rajan-reacts-to-out-of-context-remark-going-viral-thats-not-reporting-thats-cherry-picking/articleshow/127883796.cms",
-    "time": "2026-02-03T11:02:58.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Flights to and from  Tbilisi, Almaty, Baku, and Tashkent cancelled till February 28",
     "desc": "Amidst escalating Iran tensions, IndiGo has extended flight cancellations to Tbilisi, Almaty, Baku, and Tashkent until February 28, 2026. The airline is rerouting to ensure passenger and crew safety, as its usual flight paths traverse Iranian airspace. This move comes as US-Iran relations remain volatile, though diplomatic efforts are reportedly underway.",
@@ -385,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/a-big-decision-that-would-benefit-everyone-pm-modi-on-india-us-trade-deal-at-nda-parliamentary-meet/articleshow/127883396.cms",
     "time": "2026-02-03T10:44:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dhurandhar, Madras Cafe: real spy thrillers",
-    "desc": "Spy thrillers based on real terror cases are finding new fans online. They drop operatives into deep cover, push them to live under fake names, and send them after clues that never fit perfectly. The pressure moves from hijacked planes to tight safe houses and closed-room talks, where one wrong read can kill. Love does not make things easier. It raises the stakes. And even when the job gets done, the cost still follows.",
-    "img": "https://static.toiimg.com/photo/msid-127882646,imgsize-38074.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-madras-cafe-bollywood-edge-of-the-seat-spy-thrillers-inspired-by-real-terror-operations/photostory/127882646.cms",
-    "time": "2026-02-03T10:02:16.000Z"
   },
   {
     "cat": "Sports",
@@ -443,8 +578,8 @@ const newsData_en = [
   {
     "cat": "Entertainment",
     "title": "'Border 2' box office collection day 12 (LIVE)",
-    "desc": "Border 2 continues its strong box office run, earning Rs 5.25 crore nett on its second Monday. Despite a natural dip, the film has maintained momentum, with a week 1 collection of Rs 224.25 crore and a total of Rs 281.7 crore. North India remains a dominant territory for the film.",
-    "img": "https://static.toiimg.com/photo/msid-127881152,imgsize-72978.cms",
+    "desc": "Border 2 continues its strong box office run, earning Rs 5.75 crore nett on its second Monday. Despite a natural dip, the film has maintained momentum, with a week 1 collection of Rs 224.25 crore and a total of Rs 285.91 crore. North India remains a dominant territory for the film.",
+    "img": "https://static.toiimg.com/photo/msid-127891004,imgsize-72978.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-box-office-collection-day-12-live-the-sunny-deol-varun-dhawan-film-touches-rs-280-crore/articleshow/127880894.cms",
     "time": "2026-02-03T08:51:08.000Z"
@@ -531,15 +666,6 @@ const newsData_en = [
     "time": "2026-02-03T05:18:56.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Just like ceasefire…’: Congress demands full details of India-US trade deal; fires four questions to Centre",
-    "desc": "The Congress party has urged the Central government to disclose the full details of the India-US trade agreement, questioning its impact on farmers, industry, and the \"Make in India\" initiative. Concerns were raised over India reportedly agreeing to zero tariffs on US goods and potentially halting Russian oil purchases.",
-    "img": "https://static.toiimg.com/photo/msid-127875696,imgsize-923269.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/just-like-ceasefire-congress-demands-full-details-of-india-us-trade-deal-fires-four-questions-to-centre/articleshow/127875441.cms",
-    "time": "2026-02-03T04:16:03.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India-US trade deal impact: BSE Sensex ends over 2,000 points up; Nifty50 above 25,700 as stock market rallies strongly",
     "desc": "Sensex and Nifty closed sharply higher on Tuesday, gaining around 2.5 per cent each, as investor sentiment was boosted by the announcement of an India US trade agreement that will see Washington lower reciprocal tariffs on Indian goods to 18 per cent.",
@@ -592,24 +718,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-february-03-2026-nmdc-dlf-blue-star-indian-oil-corporation-stocks-to-buy-today/articleshow/127874040.cms",
     "time": "2026-02-03T01:55:50.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India-US trade deal: D-Street gets Trump card, set for big gains",
-    "desc": "According to Siddhartha Sanyal, Chief Economist, Bandhan Bank, the news of reduction of US tariff on India is a major positive, especially soon after the trade deal with the EU. “The end of the stalemate and the direction of the development is more important in this case than the quantum of the change in tariff as it opens room for further positive developments in near future.”",
-    "img": "https://static.toiimg.com/photo/msid-127873740,imgsize-69830.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-d-street-gets-trump-card-set-for-big-gains/articleshow/127873737.cms",
-    "time": "2026-02-03T01:03:08.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Trade deal done, says Trump; PM Modi thanks him for cutting tariff to 18%",
-    "desc": "While PM Narendra Modi, in a post on X, which followed US President Donald Trump’s announcement on Truth Social, said he had a wonderful conversation with “dear friend” Trump and thanked him on behalf of 1.4 billion people for the reduced tariff of 18% on Indian goods, he did not mention the trade deal at all in his post on X that followed Trump’s “wonderful” announcement.",
-    "img": "https://static.toiimg.com/photo/msid-127870900,imgsize-1162235.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/trade-deal-done-says-trump-pm-modi-thanks-him-for-cutting-tariff-to-18/articleshow/127870886.cms",
-    "time": "2026-02-02T21:19:18.000Z"
   },
   {
     "cat": "Sports",
@@ -790,113 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/tata-steel-masters-gukesh-draws-as-abdusattorov-stretches-away/article70580430.ece",
     "time": "2026-02-01T21:29:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Different surfaces, day games in T20 WC are new challenges but we can adapt: NZ captain Santner",
-    "desc": "“I think we’re obviously tested a lot throughout the series. We knew that was going to be the case. We know how good India are, especially their record at home. But for us it was a great series, great prep,” Santner said",
-    "img": "https://th-i.thgim.com/public/incoming/duw4bv/article70580422.ece/alternates/LANDSCAPE_1200/TH31-HENRY-INSTGKSFGTH75.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/different-surfaces-day-games-in-t20-wc-are-new-challenges-but-we-can-adapt-nz-captain-santner/article70580413.ece",
-    "time": "2026-02-01T20:48:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India’s defence budget: A case for higher allocation",
-    "desc": "In the context of India’s rapidly evolving security requirements, its defence budget is middling. Our security outlays must be assessed in the context of the resources committed by nations that pose a threat to India, rather than in isolation",
-    "img": "https://th-i.thgim.com/public/news/national/vf148l/article70580016.ece/alternates/LANDSCAPE_1200/Thomas%20Mathew%20.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/indias-defence-budget-a-case-for-higher-allocation/article70578902.ece",
-    "time": "2026-02-01T19:53:08.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Union Budget 2026 falls short of expectations in poll-bound West Bengal",
-    "desc": "West Bengal Chief Minister Mamata Banerjee said that the Budget had nothing to offer to people of the State. The Bharatiya Janata Party (BJP) leadership said that the infrastructure push through rail and freight corridors will push economy of the State.",
-    "img": "https://th-i.thgim.com/public/incoming/eau3sl/article70580379.ece/alternates/LANDSCAPE_1200/80717_1_2_2026_17_18_56_4_010226MAMATABANERJEE4.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/budget-2026-27-falls-short-of-expectations-in-poll-bound-west-bengal/article70579023.ece",
-    "time": "2026-02-01T19:52:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Marginal hike in allocations for Social Justice Dept., Tribal Affairs Ministry",
-    "desc": "The Social Justice Department’s allocation for 2026-27 is ₹13,687.59 crore and the Tribal Affairs Ministry has been allocated ₹15,421.97 crore; the allocations have increased by 16.69% and 42.47% respectively compared with their respective Revised Estimates for the current fiscal",
-    "img": "https://th-i.thgim.com/public/incoming/38bnm8/article70580260.ece/alternates/LANDSCAPE_1200/10215_16-11-2017_18-2-32_16GNRAO-HOSTELSTUDENTDEATH.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/budget-2026-marginal-hike-in-allocations-for-social-justice-dept-tribal-affairs-ministry/article70579432.ece",
-    "time": "2026-02-01T19:50:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Belligerent and uncomplicated — pocket-dynamite Kishan is here to stay",
-    "desc": "The 27-year-old, with a whirlwind outing against New Zealand, has overtaken Samson in the race to be India’s wicketkeeper-batter/opener for the T20 World Cup; his blistering century in Thiruvananthapuram proved to be the icing on the cake",
-    "img": "https://th-i.thgim.com/public/incoming/5wblx4/article70580192.ece/alternates/LANDSCAPE_1200/NH31Ishan25.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ishan-kishan-sanju-samson-india-wicketkeeper-t20-world-cup/article70580187.ece",
-    "time": "2026-02-01T17:52:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Union Budget proposals spark political debate ahead of West Bengal polls",
-    "desc": "Infrastructure proposals in the Union Budget, including freight and industrial corridors and tourism projects, have triggered a political clash in West Bengal ahead of Assembly elections, with the BJP pitching development and the TMC calling the announcements political signalling.",
-    "img": "https://th-i.thgim.com/public/incoming/cept98/article70580114.ece/alternates/LANDSCAPE_1200/80717_1_2_2026_17_18_56_4_010226MAMATABANERJEE4.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-union-budget-proposals-spark-political-debate-ahead-of-west-bengal-polls/article70580115.ece",
-    "time": "2026-02-01T17:06:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Agri Ministry allocation up 2.6%; farm outfits say FM ignored their demands",
-    "desc": "No hike for Kisan Samman Nidhi; agri research and education budget drops 4.8%; Food and PDS gets 10% hike; new multilingual AI tool, high-value cash crops get extra support; government did not fulfil promises to farmers, says BKS",
-    "img": "https://th-i.thgim.com/public/incoming/fnxy2g/article70580106.ece/alternates/LANDSCAPE_1200/iStock-1161414177.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/union-budget-2026-agri-ministry-allocation-up-26-farm-outfits-say-fm-ignored-their-demands/article70578805.ece",
-    "time": "2026-02-01T17:03:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What does the Budget offer urban India?",
-    "desc": "The Union Budget 2026 has cut urban development allocations by 11.6%, lowering funding from ₹96,777 crore to ₹85,522 crore. This reduction raises concerns about the sustainability of essential services amid rising challenges such as mass migration, climate change and infrastructure stagnation in cities",
-    "img": "https://th-i.thgim.com/public/incoming/b1x200/article70580081.ece/alternates/LANDSCAPE_1200/11908_21_6_2025_10_41_10_2_DSC_3090.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/what-does-the-budget-offer-urban-india/article70578005.ece",
-    "time": "2026-02-01T16:53:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Union Budget 2026: what’s in it for textile and MSME?",
-    "desc": "Finance Minister Nirmala Sitharaman had announced a fresh allocation of ₹10,000 crore to the small and medium enterprises (SMEs) growth fund in the Budget speech on Sunday (February 1, 2026), in a bid to give fresh incentives to lakhs of small businesses and enterprises in the country.",
-    "img": "https://th-i.thgim.com/public/incoming/pec3ob/article70579917.ece/alternates/LANDSCAPE_1200/Textile%20MSME.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-union-budget-2026-whats-in-it-for-textile-and-msme/article70579930.ece",
-    "time": "2026-02-01T16:17:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What does the Union Budget 2026 say on direct taxes?",
-    "desc": "The Finance Minister Nirmala Sitharaman’s direct tax announcements during the Budget 2026 speech marked a major overhaul in India’s tax system. At the heart of the reforms is the new Income Tax Act of 2025, which will replace the decades-old law, from April 2026, with simpler rules and redesigned forms to make compliance easier for ordinary taxpayers.",
-    "img": "https://th-i.thgim.com/public/incoming/fhgi4a/article70579834.ece/alternates/LANDSCAPE_1200/taxes.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-what-does-the-union-budget-2026-say-on-direct-taxes/article70579829.ece",
-    "time": "2026-02-01T15:50:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RANJI TROPHY",
-    "desc": "CRICKET | The visitor romps home past Goa by nine wickets with pacer Nidheesh’ ninth First Class five-for the cornerstone; the host avoids an innings defeat thanks to a resolute fifty from Misal and 60-run stand with Tendulkar for the ninth wicket",
-    "img": "https://th-i.thgim.com/public/incoming/cs51y8/article70578334.ece/alternates/LANDSCAPE_1200/DSC_6315.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-kerala-finishes-its-disappointing-season-on-a-winning-note/article70578320.ece",
-    "time": "2026-02-01T12:17:48.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Reopening of Gaza's Rafah crossing expected Monday, officials say",
-    "desc": "Israel has said the crossing would open under stringent security checks only for Palestinians who wish to leave the war-ravaged enclave and for those who fled the fighting in the first months of the war to return.",
-    "img": "https://th-i.thgim.com/public/incoming/lk7dq7/article70578057.ece/alternates/LANDSCAPE_1200/Egypt_Mideast_Wars_Gaza_36058.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/reopening-of-gazas-rafah-crossing-expected-monday-officials-say/article70578002.ece",
-    "time": "2026-02-01T11:31:10.000Z"
   }
 ];
