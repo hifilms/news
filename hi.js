@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "T20 World Cup warm-up schedule: India, Pakistan in action today ahead of tournament amid boycott row",
+    "desc": "Preparations for the T20 World Cup are in full swing as 20 teams are gearing up for the tournament with warm-up matches. It will be an action-packed day today as four warm-up matches will be...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-warm-up-schedule-india-pakistan-in-action-today-ahead-of-tournament-amid-boycott-row-2026-02-04-1028807",
+    "time": "2026-02-04T01:40:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PAK vs IRE T20 World Cup warm-up: When and where to watch Pakistan vs Ireland live on TV and stream online?",
+    "desc": "Pakistan have been an extremely vocal team ahead of the T20 World Cup 2026. They initially threatened to boycott the entire tournament before the Pakistan government confirmed that the players would not take the field...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pak-vs-ire-t20-world-cup-warm-up-when-and-where-to-watch-pakistan-vs-ireland-live-on-tv-and-stream-online-in-india-2026-02-04-1028792",
+    "time": "2026-02-04T01:16:15.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Nandani Sharma achieves huge milestone in Delhi Capitals vs Gujarat Giants WPL 2026 Eliminator",
     "desc": "Delhi Capitals rising star Nandani Sharma achieved another huge record in her team's Women's Premier League 2026 Eliminator against Gujarat Giants on Tuesday, February 3, at the BCA Stadium in Vadodara. Sharma has been a star...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-2026-broadcasters-plan-to-move-to-court-if-pakistan-boycotts-india-game-2026-02-03-1028763",
     "time": "2026-02-03T13:29:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Pat Cummins not part of Australia's T20 World Cup 2026 squad? Australia pacer reveals details",
-    "desc": "Pat Cummins’ absence from the T20 World Cup was not a last-minute decision but part of a longer-term calculation shaped by injury management and an unusually heavy international calendar. Australia’s Test and ODI captain has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-pat-cummins-not-part-of-australia-s-t20-world-cup-2026-squad-australia-pacer-reveals-details-2026-02-03-1028759",
-    "time": "2026-02-03T13:13:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi Capitals beat Gujarat Giants by 7 wickets to enter final",
-    "desc": "Delhi Capitals outclassed Gujarat Giants for the first time this season after losing to them twice in the league stage. The Capitals made light work of what could have been a challenging 169-run target in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gg-vs-dc-wpl-2026-eliminator-live-cricket-score-gujarat-giants-vs-delhi-capitals-bca-stadium-vadodara-latest-match-updates-scorecard-teams-highlights-2026-02-03-1028758",
-    "time": "2026-02-03T13:08:18.000Z"
   }
 ];
