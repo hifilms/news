@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "કોરિયન ગેમ કેટલી ખતરનાક? કેવી રીતે બચાવશો તમારા બાળકોનો જીવ, એક્સપર્ટે શું આપી સલાહ?",
+    "desc": "ગાઝિયાબાદમાં ત્રણ સગીર બહેનોએ બાલ્કનીમાંથી કૂદીને આત્મહત્યા કરી, આ સાથે જ ભોપાલમાં પણ એક 14 વર્ષના છોકરાએ ઘરે ફાંસી લગાવી આત્મહત્યા કરી લીધી. બાળકોની આત્મહત્યા પાછળ ઓનલાઈન ગેમ મુખ્ય કારણ છે. તમારા બાળકોને કેવી રીતે સુરક્ષિત રાખવા તે વિશે મનોચિકિત્સક શું કહે છે, ચાલો તેના વિશે વિગતવાર જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/exclusive-how-dangerous-is-korean-game-how-does-it-take-your-children-lives-what-experts-said-tips-for-parents-463943 ",
+    "time": "2026-02-04T12:17:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "World T20 કેવી રીતે બની T20 World Cup... એવું તો શું થયું કે ICCને બદલવું પડ્યું નામ ?",
+    "desc": "આજે તમે જે ટુર્નામેન્ટને T20 વર્લ્ડ કપ તરીકે જાણો છો તે એક સમયે વર્લ્ડ T20 તરીકે જાણીતી હતી. પછી એવું શું થયું કે ICCને આ વૈશ્વિક ઇવેન્ટનું નામ બદલવું પડ્યું ? ત્યારે નામ બદલવા પાછળની કહાની શું છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/why-icc-rebrand-world-t20-as-t20-world-cup-know-the-reason-463941 ",
+    "time": "2026-02-04T11:58:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "સંતાન એ જ તમારી સાચી મૂડી! કમાણીની દોડમાં ક્યાંક સંસ્કાર પાછળ ન રહી જાય, જુઓ ‘School Days’",
+    "desc": "હાલના આ ડિજિટલ યુગમાં બાળકો અને પુખ્ત વયના બાળકો મોબાઈલ એડિક્શન, ખોટી સંગત અને વ્યસન જેવા દુષણમાં ઝડપથી ફસાઈ રહ્યા છે. સિગારેટ, દારૂ અને ડ્રગ્સ જેવા હાનિકારક વ્યસનો હવે નાની ઉંમરે જ જીવનને બરબાદ કરી રહ્યા છે. આ ગંભીર અને સંવેદનશીલ મુદ્દાને સમાજ સામે આ ફિલ્મ દ્વારા મુકવામાં આવશે. આ ગુજરાતી ફિલ્મ “School Days” યુવાનોમાંથી વ્યસન દુર કરવાનો એક મહત્ત્વપૂર્ણ પ્રયાસ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/school-days-is-a-film-like-a-mirror-for-parents-and-children-know-this-463940 ",
+    "time": "2026-02-04T11:39:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "મહિલા પ્રીમિયર લીગની ફાઇનલમાં દિલ્હી અને બેંગલુરુ વચ્ચે ટક્કર, જાણો ક્યાં જોઈ શકશો લાઇવ",
+    "desc": "સતત ચોથી વખત દિલ્હી કેપિટલ્સ મહિલા પ્રીમિયર લીગની ફાઇનલમાં પહોંચી છે, જ્યાં ટાઇટલ માટે તે રોયલ ચેલેન્જર્સ બેંગ્લોરનો સામનો કરશે. ફાઇનલ ક્યારે અને ક્યાં રમાશે તેમજ તમે ક્યાં લાઇવ જોઈ શકશો તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/wpl-2026-final-royal-challengers-bengaluru-vs-delhi-capitals-when-and-where-to-watch-463933 ",
+    "time": "2026-02-04T10:48:09.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "&amp;#039;ન્યાય બંધ બારણા પાછળ રડી રહ્યો છે&amp;#039;, સુપ્રીમ કોર્ટમાં SIR પર મમતા બેનર્જીના આક્રમક તેવર",
     "desc": "પશ્ચિમ બંગાળમાં એસઆઈઆરનો મુદ્દો ખુબ ચગ્યો છે. આજે મમતા બેનર્જીએ એક અરજી દાખલ કરેલી છે તેના પર સુનાવણી થઈ રહી છે. તેમણે આ હીયરિંગમાં પોતે પક્ષ રજૂ કર્યું અને ચૂંટણી પંચને વોટ્સએપ કમિશન પણ ગણાવી દીધુ. જાણો ચીફ જસ્ટિસ ઓફ ઈન્ડિયાએ આ સમગ્ર મામલે શું કહ્યું?",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -180,24 +216,6 @@ const newsData_gu = [
     "time": "2026-02-03T09:37:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "શું અમેરિકી કરારથી ખેડૂતોને નુકસાન થશે? જાણો ટેરિફ ડીલ અંગે સરકારના સુત્રએ મામલો કર્યો સ્પષ્ટ",
-    "desc": "સરકારનો દાવો છે કે અમેરિકા સાથેના ટેરિફ ડીલથી કૃષિ અને ડેરી ક્ષેત્રો પર જવાબ આપ્યો છે અને આ ડીલ ભારતની વૈશ્વિક સ્પર્ધાત્મકતામાં વધારો કરશે. સરકારના મતે, તેની સામેના વિરોધ રાજકીય રીતે પ્રેરિત અને હકીકતો સાથે અસંગત છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/there-has-been-no-compromise-with-the-interests-of-farmers-government-sources-clarified-the-entire-matter-regarding-the-tariff-deal-463826 ",
-    "time": "2026-02-03T09:36:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ભારત-US ટ્રેડ ડીલ પર મચ્યું ભારે ઘમાસાણ, જાણો વિપક્ષ કેમ ગણાવે છે ખેડૂત વિરોધી?",
-    "desc": "ભારત અને અમેરિકા વચ્ચે જે ટ્રેડ ડીલ થઈ અને ટેરિફ પણ ઘટ્યો પરંતુ આ બધા વચ્ચે એવી પણ કેટલીક અસમંજસ ભરેલી સ્થિતિ છે જેનો ઉકેલ આવવો જરૂરી છે. જાણો વિપક્ષ કૃષિ સેક્ટરને લઈને ડીલની વિગતોથી કેમ ચિંતા વ્યક્ત કરી રહ્યો છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/india-us-trade-deal-why-opposition-parties-questions-regarding-agriculture-sector-and-farmers-463824 ",
-    "time": "2026-02-03T09:35:21.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "UAN નંબર ભૂલી ગયા છો? ચિંતા છોડો, ઘરે બેઠા આ રીતે મિનિટોમાં કરો રિકવર, જાણો પ્રોસેસ",
     "desc": "જો તમે તમારો UAN નંબર ભૂલી ગયા છો, તો ચિંતા કરવાની કોઈ જરૂર નથી. હવે તમે EPFO ​​વેબસાઇટનો ઉપયોગ કરીને તમારા ઘરે બેઠા થોડી મિનિટોમાં તમારો UAN પાછો મેળવી શકો છો. સંપૂર્ણ સ્ટેપ-બાય-સ્ટેપ પ્રોસેસ અને મોટા PF-સંબંધિત લાભો જાણો.",
@@ -306,15 +324,6 @@ const newsData_gu = [
     "time": "2026-02-02T12:19:32.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સોના-ચાંદીમાં ભયંકર કડાકો: ચાંદીના ભાવ અડધા થયા, ETF રોકાણકારોના કરોડો ધોવાયા! જાણો હવે શું કરવું?",
-    "desc": "સોના અને ચાંદીના ભાવ તેમના રેકોર્ડ હાઈ સ્તર પર પહોંચ્યા બાદ ભયંકર કડાકો જોવા મળી રહ્યો છે. જેના કારણે ETFમાં પણ મોટો ઘટાડો થયો છે. આજે જ ચાંદીના ETFમાં 20% અને ગોલ્ડ ETFમાં 10% ઘટાડો થયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-silver-price-crash-etf-investors-loss-silver-down-by-2-lakh-463729 ",
-    "time": "2026-02-02T11:12:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ઓસ્ટ્રેલિયા અને ઇંગ્લેન્ડે પણ T20 વર્લ્ડ કપ માટે ભારત આવવા અંગે ચિંતા વ્યક્ત કરી, જાણો શું છે કારણ",
     "desc": "ICC મેન્સ T20 વર્લ્ડ કપ 2026માં બાંગ્લાદેશે ભારતમાં રમવાનો ઈન્કાર કર્યા બાદ હવે ઇંગ્લેન્ડ અને ઓસ્ટ્રેલિયાની સરકારોએ પણ તેમની ટીમની ભારત મુલાકાત અંગે ચિંતા વ્યક્ત કરી છે. આ પાછળનું કારણ શું છે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -385,24 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ind-vs-pak-pakistan-to-play-t20-world-cup-2026-but-boycott-india-clash-on-february-15-463650 ",
     "time": "2026-02-01T16:15:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વૈભવ સૂર્યવંશીએ આ શું કર્યું...બે જીવનદાન છતાં સસ્તામાં આપી દીધી વિકેટ",
-    "desc": "અંડર-19 વર્લ્ડ કપ 2026ના સુપર સિક્સ તબક્કામાં ભારત કટ્ટર હરીફ પાકિસ્તાન આમને સામને છે. બુલાવાયોના ક્વીન્સ સ્પોર્ટ્સ ક્લબ સ્ટેડિયમમાં રમાઈ રહેલી આ મેચમાં વૈભવ સૂર્યવંશી મોટી ઇનિંગ્સ રમશે તેવી અપેક્ષા હતી, પરંતુ તે નિષ્ફળ ગયો, બે જીવનદાન મળ્યા છતાં તે મોટી ઈનિંગ ના રમી શક્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/u19-world-cup-ind-vs-pak-vaibhav-suryavanshi-flop-wicket-after-two-lifelines-463624 ",
-    "time": "2026-02-01T10:58:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "બજેટ 2026 : નાણામંત્રીએ સ્પોર્ટ્સ સેક્ટરને આપી ખાસ ભેટ, જાણો ખેલાડીઓને શું થશે ફાયદો",
-    "desc": "બજેટમાં સ્પોર્ટ્સ માટે ખાસ જાહેરાત કરવામાં આવી છે. 'ખેલો ઇન્ડિયા મિશન' અંતર્ગત આગામી 10 વર્ષ સુધી કામગીરી કરવામાં આવશે. જે અંતર્ગત તાલીમ કેન્દ્રો (Training Centers) બનાવવામાં આવશે. વ્યવસ્થિત રીતે કોચ અને સપોર્ટ સ્ટાફને તાલીમ આપવામાં આવશે. વિવિધ સ્પર્ધાઓ અને લીગનું આયોજન થશે. રમતગમતના માળખાને તાલીમ અને સ્પર્ધાઓ માટે વિકસાવવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/budget-2026-nirmala-sitharaman-khelo-india-mission-10-year-sports-plan-463604 ",
-    "time": "2026-02-01T08:07:09.000Z"
   },
   {
     "cat": "Entertainment",
@@ -655,14 +646,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/find-your-lost-wallet-and-keys-in-a-jiffy-apples-new-airtag-launched-in-india-463040 ",
     "time": "2026-01-27T05:25:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "India-EU Trade Deal: 70% સુધી ઘટી જશે ટેરિફ, સસ્તી થઈ જશે આ લક્ઝરી કાર, ભારતીયોને થશે ફાયદો!",
-    "desc": "ભારત-યુરોપિયન યુનિયન મુક્ત વ્યાપાર સમજુતિ એક મોટા મોડ પર પહોંચી ગઈ છે. યુરોપથી આયાત થતી કારો પર ભારત સરકાર ટેક્સ ઘટાડી 40 ટકા કરી શકે છે. સરકારના આ નિર્ણય બાદ Volkswagen, Mercedes-Benz જેવી ઓટોમોબાઇલ કંપનીઓ માટે ભારતીય બજારના દરવાજા ખુલી જશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/india-eu-trade-deal-bring-relief-on-cars-tariff-reduce-to-40-percent-in-country-462926 ",
-    "time": "2026-01-26T05:01:12.000Z"
   }
 ];
