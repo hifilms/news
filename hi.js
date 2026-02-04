@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Star wicketkeeper reveals his fitness status and comeback from side strain issue",
+    "desc": "India wicketkeeper batter Rishabh Pant has opened up on his fitness status as he eyes a return to competitive cricket. The 28-year-old had suffered a right-sided internal oblique muscle tear during a practice session ahead...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-injury-update-star-wicketkeeper-reveals-his-fitness-status-and-comeback-from-side-strain-issue-2026-02-05-1028946",
+    "time": "2026-02-04T18:31:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When did India decide to drop Sanju Samson from opening slot? Ishan Kishan reveals after South Africa warm-up",
+    "desc": "India seems to have made their decision on who is going to open in the upcoming T20 World Cup 2026, with their calls in the last few days clearly indicating that Ishan Kishan is now...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/when-did-india-decide-to-drop-sanju-samson-from-opening-slot-ishan-kishan-reveals-after-south-africa-warm-up-2026-02-04-1028943",
+    "time": "2026-02-04T18:15:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan won't play against India in T20 World Cup 2026, says PM Shehbaz Sharif, citing support to Bangladesh",
+    "desc": "Uncertainty has deepened around the marquee India–Pakistan clash at the T20 World Cup 2026 after Pakistan Prime Minister Shehbaz Sharif publicly confirmed that the Men in Green will not take the field for the scheduled...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-won-t-play-against-india-in-t20-world-cup-2026-says-pm-shehbaz-sharif-citing-support-to-bangladesh-2026-02-04-1028942",
+    "time": "2026-02-04T18:10:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Marc Guéhi explains motivation behind joining Manchester City, what he brings to Pep Guardiola's side",
+    "desc": "Marc Guéhi has spoken about his outlook, development, and motivation after joining Manchester City, offering insight into the mindset he believes will help him thrive at one of Europe’s most demanding clubs. In an interview,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/marc-guehi-explains-motivation-behind-joining-manchester-city-what-he-brings-to-pep-guardiola-s-side-2026-02-04-1028937",
+    "time": "2026-02-04T17:48:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India submits bid to host AFC Asian Cup 2031, to compete against five other bidders",
+    "desc": "India has re-entered the race to host Asia’s flagship international football event, with the Asian Football Confederation confirming the country as one of six bidders for the 2031 AFC Asian Cup. The announcement marks a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/india-submits-bid-to-host-afc-asian-cup-2031-to-compete-against-five-other-bidders-2026-02-04-1028935",
+    "time": "2026-02-04T17:24:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India make light work of South Africa in final dress rehearsal before T20 World Cup 2026",
+    "desc": "India emerged victorious in their final dress rehearsal before the T20 World Cup 2026 as they defeated South Africa in their warm-up clash at the Dr DY Patil Sports Academy, Navi Mumbai on Wednesday, February...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-make-light-work-of-south-africa-in-final-dress-rehearsal-before-t20-world-cup-2026-2026-02-04-1028934",
+    "time": "2026-02-04T17:17:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What worries MS Dhoni as India eye T20 World Cup title defence?",
+    "desc": "India head into the T20 World Cup 2026 as one of the leading favourites, backed not only by reputation but by a run of explosive performances in the shortest format. With scoring rates soaring and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-worries-ms-dhoni-as-india-eye-t20-world-cup-title-defence-2026-02-04-1028930",
+    "time": "2026-02-04T16:31:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mirabai Chanu scripts history, sets three new national records in Weightlifting Championships",
     "desc": "Mirabai Chanu produced one of the standout moments of the National Weightlifting Championships 2026 with a dominant gold-medal performance in the women’s 48kg category, rewriting the national record books in Modinagar, Uttar Pradesh, on Wednesday. The...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/who-is-aaron-george-the-star-india-u19-opener-with-a-stellar-ton-vs-afghanistan-u19-in-world-cup-semifinal-2026-02-04-1028921",
     "time": "2026-02-04T14:40:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ishan Kishan's carnage continues, smacks three sixes in single over en route to 20-ball half-century",
-    "desc": "Ishan Kishan has wreaked havoc in the warm-up clash against South Africa at the DY Patil Sports Academy in Navi Mumbai. The Jharkhand captain produced stellar performances in the Syed Mushtaq Ali Trophy, which helped...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-s-carnage-continues-smacks-three-sixes-in-single-over-en-route-to-20-ball-half-century-2026-02-04-1028918",
-    "time": "2026-02-04T14:19:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav confirms India's openers ahead of T20 World Cup 2026",
-    "desc": "India captain Suryakumar Yadav has confirmed the opening pair ahead of the T20 World Cup 2026. As Sanju Samson is struggling with his form lately, the team management is backing Ishan Kishan to open with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-confirms-india-s-openers-ahead-of-t20-world-cup-2026-2026-02-04-1028909",
-    "time": "2026-02-04T13:12:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND vs SA T20 World Cup warm-up LIVE Cricket Score: South Africa look to chase mammoth 241 against India",
-    "desc": "India lock horns against South Africa in their T20 World Cup 2026 warm-up match at the Dr DY Patil Sports Academy, Navi Mumbai on Wednesday, February 4. The Men in Blue are tipped to be strong...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-sa-t20-world-cup-warm-up-live-cricket-score-india-vs-south-africa-dr-dy-patil-sports-academy-navi-mumbai-latest-match-updates-scorecard-teams-2026-02-04-1028905",
-    "time": "2026-02-04T12:47:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Brendon McCullum left annoyed with media scrutiny of Harry Brook over nightclub incident",
-    "desc": "Brendon McCullum has pushed back firmly against ongoing scrutiny of England’s response to Harry Brook’s nightclub incident, arguing that the matter was handled appropriately behind closed doors and that repeated public debate serves little purpose. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/brendon-mccullum-left-annoyed-with-media-scrutiny-of-harry-brook-over-nightclub-incident-2026-02-04-1028903",
-    "time": "2026-02-04T12:30:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where do India stand on ICC T20I rankings before start of T20 World Cup 2026? Check here",
-    "desc": "The T20 World Cup 2026 is right on the horizon as teams gear up for the global showpiece in India and Sri Lanka that kicks off on February 7. The Men in Blue are tipped...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/where-do-india-stand-on-icc-t20i-rankings-before-start-of-t20-world-cup-2026-check-here-2026-02-04-1028902",
-    "time": "2026-02-04T12:02:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MS Dhoni opens up on why he avoids commentary box, describes job \"difficult\" due to stats",
-    "desc": "Former Indian captain MS Dhoni has opened up on a commentary stint, highlighting why he avoids the job after his international retirement. Former cricketers take up the microphone to call out the game they have...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-opens-up-on-why-he-avoids-commentary-box-describes-job-difficult-due-to-stats-2026-02-04-1028892",
-    "time": "2026-02-04T11:05:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PAK vs IRE T20 World Cup warm-up Live Cricket Score: Match has been abandoned",
-    "desc": "Pakistan’s World Cup campaign has been overshadowed by controversy even before the team has taken the field. The Pakistan government has advised the team management against participating in the high-profile clash against India, scheduled for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pak-vs-ire-t20-world-cup-warm-up-live-cricket-score-pakistan-vs-ireland-sinhalese-sports-club-colombo-latest-match-updates-scorecard-teams-highlights-1028890",
-    "time": "2026-02-04T11:03:07.000Z"
   }
 ];
