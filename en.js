@@ -1,5 +1,131 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Nick gushes about marriage to Priyanka",
+    "desc": "Nick Jonas showered praise on wife Priyanka Chopra, calling her \"always right about people\" and expressing immense pride in their daughter. His heartfelt comments during a chat with Jay Shetty have resonated with fans, who lauded his genuine admiration for his family. The couple, married since 2018, welcomed their daughter in 2022.",
+    "img": "https://static.toiimg.com/photo/msid-127918567,imgsize-51298.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nick-jonas-gushes-about-marriage-to-priyanka-chopra-reveals-one-thing-actress-is-always-right-about/articleshow/127918563.cms",
+    "time": "2026-02-04T21:08:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Trinamool Congress, BJP engage in war of words in Rajya Sabha",
+    "desc": "From the State government’s alleged indifference toward Centrally sponsored schemes to road markings being painted in the TMC’s colours of white and blue instead of the universal yellow and black, the BJP and TMC traded charges in the Upper House",
+    "img": "https://th-i.thgim.com/public/incoming/62ai7s/article70593113.ece/alternates/LANDSCAPE_1200/PTI02_04_2026_000136B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tmc-and-bjp-spar-in-rajya-sabha/article70592397.ece",
+    "time": "2026-02-04T20:51:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "AI Express to invest Rs 633 crore for revamp",
+    "desc": "The budget arm of AI had a fleet of 26 Boeing 737 NG (next generation) when the Tatas acquired it along with Air India in Jan 2022. ​Thanks to the fleet augmentation done by Tatas since then, along with the merger of erstwhile AirAsia India with AI Express, the airline now has a fleet of over 100 aircraft.",
+    "img": "https://static.toiimg.com/photo/msid-127918524,imgsize-666596.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/ai-express-to-invest-rs-633-crore-for-revamp/articleshow/127918530.cms",
+    "time": "2026-02-04T20:36:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee retreats to 90.44 after deal-fuelled surge",
+    "desc": "​​The pullback came amid a cautious global backdrop, with risk appetite weakening as global equity markets fell on concerns over AI-led disruption in the technology sector. European stocks slipped from record highs, US futures remained under pressure after a sell-off in software shares, and volatility persisted across asset classes. In commodity markets, gold extended its rebound, posting its biggest two-day gain in over 17 year.",
+    "img": "https://static.toiimg.com/photo/msid-127918508,imgsize-23584.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-retreats-to-90-44-after-deal-fuelled-surge/articleshow/127918496.cms",
+    "time": "2026-02-04T20:31:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Trouble brewing in machines for coffee chains?",
+    "desc": "Companies will now have to pay a 10% customs duty on machines which are largely imported from parts of Europe (primarily Italy, Spain and Romania for roasting and brewing machines) and China (for vending machines), industry executives said. The cost of machines vary depending on the model and the region of sourcing and therefore firms tend to have varied cost structures.",
+    "img": "https://static.toiimg.com/photo/msid-127918495,imgsize-40394.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/trouble-brewing-in-machines-for-coffee-chains/articleshow/127918483.cms",
+    "time": "2026-02-04T20:25:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Techs sell-off on Dalal Street as Anthropic’s AI-app takes on Indian IT majors’ business",
+    "desc": "​​The sharp slide in sector leaders like TCS, Infosys and Wipro, also left BSE’s IT index down 5.5% at close of session. Despite the tech meltdown, sensex closed marginally higher, up 79 points or 0.1%, as strong buying in other index-heavyweights like Reliance Industries and ICICI Bank more than made up for the loss inflicted by the software exporters.",
+    "img": "https://static.toiimg.com/photo/msid-127918477,imgsize-69830.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/techs-sell-off-on-dalal-street-as-anthropics-ai-app-takes-on-indian-it-majors-business/articleshow/127918478.cms",
+    "time": "2026-02-04T20:17:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Nvidia CEO",
+    "desc": "In the Budget, FM Nirmala Sitharaman had proposed to provide a tax holiday till 2047 to any foreign company providing cloud services to customers globally by using data centre services from India. It will, however, need to provide services to Indian customers through an Indian reseller entity. Officials said profits on the income from domestic economic activities will remain taxable as any other domestic company.",
+    "img": "https://static.toiimg.com/photo/msid-127918450,imgsize-52414.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/data-centres-will-help-create-jobs-nvidia-ceo/articleshow/127918443.cms",
+    "time": "2026-02-04T20:12:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India 2nd biggest private equity hub for Warburg",
+    "desc": "​​The PE major entered Asia in 1994. It came to India two years later, just when the economic reforms under the then finance minister Manmohan Singh had started, and private equity was in its infancy. For the chief, one of the most significant developments in India in recent times was the growth of the domestic capital.",
+    "img": "https://static.toiimg.com/photo/msid-127918439,imgsize-71212.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-2nd-biggest-private-equity-hub-for-warburg/articleshow/127918415.cms",
+    "time": "2026-02-04T20:10:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nick Jonas recalls daughter Malti’s six blood transfusions",
+    "desc": "Singer Nick Jonas has opened up about the harrowing early days after the birth of his daughter, Malti Marie Chopra Jonas, revealing that she was underweight and extremely fragile when she was born. In a recent interview, Nick got emotional as he spoke about Malti’s health struggles and said he still feels “awestruck” that he gets “to experience her magic” today.",
+    "img": "https://static.toiimg.com/photo/msid-127918420,imgsize-43184.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nick-jonas-recalls-malti-marie-undergoing-six-blood-transfusions-priyanka-chopra-and-i-did-12-hour-shifts-at-the-hospital-for-3-5-months/articleshow/127918403.cms",
+    "time": "2026-02-04T20:02:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India to be energy-secure in 20-30 years: Mukesh Ambani",
+    "desc": "Ambani was in conversation with Larry Fink, chairman & CEO, BlackRock Inc, one of the world’s largest investment management firms with assets worth more than $11 trillion. Jio BlackRock is the Indian joint venture between RIL and BlackRock. The RIL chief also said that in the next 20-30 years, India’s GDP could leapfrog from the current level of about $4.5 trillion to about $25-30 trillion.",
+    "img": "https://static.toiimg.com/photo/msid-127918404,imgsize-54492.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-to-be-energy-secure-in-20-30-years-mukesh-ambani/articleshow/127918393.cms",
+    "time": "2026-02-04T20:00:09.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Crypto awareness outscoring bonds disappoints Sebi chief",
+    "desc": "Tuhin Kanta Pandey was speaking at the inaugural session of a program on the corporate bond market. The survey results published on Jan 20, showed that among Indian households, the awareness about cryptocurrency was at 15%. In comparison, the corresponding numbers for futures & options was 13% while for corporate bonds and Reits & InvITs it was at 10%.",
+    "img": "https://static.toiimg.com/photo/msid-127918406,imgsize-242434.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/crypto-awareness-outscoring-bonds-disappoints-sebi-chief/articleshow/127918405.cms",
+    "time": "2026-02-04T19:59:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "R Madhavan on how wife Sarita kicked him out of the house",
+    "desc": "R Madhavan recently shared a candid and humorous anecdote about how his wife Sarita played a key role in pushing him back into work during the pandemic. What began as a light-hearted nudge eventually became a turning point, helping the actor reassess his mindset, reset after a four-year break from acting, and return with renewed focus—especially towards projects that genuinely excited him, including a steady shift to OTT platforms.",
+    "img": "https://static.toiimg.com/photo/msid-127917710,imgsize-48256.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/during-covid-she-kicked-me-out-of-the-house-r-madhavan-on-how-wife-sarita-pushed-him-back-to-work/articleshow/127917654.cms",
+    "time": "2026-02-04T18:59:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Top JeM operative among 3 shot dead in J&amp;K ops",
+    "desc": "For several hours overnight, troops maintained a tight vigil using drones and ground surveillance before launching a final assault at daybreak. Both terrorists were killed in the morning operation, officials said. In Dichhar area of Kishtwar district, a suspected Pakistani terrorist was killed Wednesday evening in a running hunt across snowbound mountains.",
+    "img": "https://static.toiimg.com/photo/msid-127916267,imgsize-380042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/top-jem-operative-among-3-shot-dead-in-jk-ops/articleshow/127916288.cms",
+    "time": "2026-02-04T18:27:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM Omar tables Jan Vishwas Bill in J&amp;K assembly; PDP accuses INDIA bloc member of breaking ranks",
+    "desc": "CM Omar, who also holds the charge of law, justice and parliamentary affairs, also introduced another bill — J&K Eliminating Discrimination Against Persons Affected by Leprosy Bill-2026. It seeks to amend relevant enactments to eliminate discrimination against or denial of equal treatment to persons affected by leprosy, and to prevent their segregation and exclusion.",
+    "img": "https://static.toiimg.com/photo/msid-127916519,imgsize-64700.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cm-omar-tables-jan-vishwas-bill-in-jk-assembly-pdp-accuses-india-bloc-member-of-breaking-ranks/articleshow/127916301.cms",
+    "time": "2026-02-04T18:27:05.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "No breakthrough in crucial talks between Ladakh team, MHA",
     "desc": "Asgar Ali Karbali, co-chairman of the Kargil Democratic Alliance, said detailed deliberations were held on statehood and the sixth schedule. “Before holding talks on these issues, we raised the issue of four youths who were ‘martyred’ in September last year and those who have been detained,\" he said. The first round of talks between the committee and Ladakhi representatives was held on Oct 22, 2025, in New Delhi.",
@@ -61,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-wc-warm-up-ishan-kishan-secures-opening-spot-as-india-crush-south-africa-by-30-runs/articleshow/127915753.cms",
     "time": "2026-02-04T17:35:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TMC and BJP spar in Rajya Sabha",
-    "desc": "From the State government’s alleged indifference toward Centrally sponsored schemes to road markings being painted in the TMC’s colours of white and blue instead of the universal yellow and black, the BJP and TMC traded charges in the Upper House",
-    "img": "https://th-i.thgim.com/public/incoming/62ai7s/article70593113.ece/alternates/LANDSCAPE_1200/PTI02_04_2026_000136B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tmc-and-bjp-spar-in-rajya-sabha/article70592397.ece",
-    "time": "2026-02-04T17:32:32.000Z"
   },
   {
     "cat": "Entertainment",
@@ -360,15 +477,6 @@ const newsData_en = [
     "time": "2026-02-04T12:47:43.000Z"
   },
   {
-    "cat": "Business",
-    "title": "CREDAI flags lack of affordable housing push, warns share may shrink further",
-    "desc": "CREDAI expressed disappointment with the Union Budget 2026-27, stating it lacked concrete measures to boost affordable housing. The industry body warned that without policy support, the segment's share in new home launches could significantly shrink, impacting the middle class.",
-    "img": "https://static.toiimg.com/photo/msid-127911569,imgsize-115168.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/real-estate/news/union-budget-credai-flags-lack-of-affordable-housing-push-warns-share-may-shrink-further/articleshow/127910227.cms",
-    "time": "2026-02-04T12:41:18.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Delhi HC rejects Rajpal Yadav's plea for more time in cheque bounce case",
     "desc": "The Delhi High Court has dismissed actor Rajpal Yadav's plea for more time to arrange ₹50 lakh in a Rs 9 crore cheque bounce case. The court noted his repeated non-compliance with orders and undertakings, stating no further leniency would be granted. Yadav was instructed to surrender by Wednesday.",
@@ -378,24 +486,6 @@ const newsData_en = [
     "time": "2026-02-04T12:25:24.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Mismatched' 4 first look: 'one last cold coffee'",
-    "desc": "Mark your calendars for 2026, as Netflix's beloved series 'Mismatched' gears up for its grand finale in Season 4. A sneak peek featuring stars Prajakta Koli and Rohit Saraf back together suggests a heartfelt conclusion where lingering emotions and missed opportunities take center stage. Get ready to return to the coding classrooms and cozy coffee shops one last time!",
-    "img": "https://static.toiimg.com/photo/msid-127909624,imgsize-45808.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mismatched-season-4-first-look-prajakta-koli-and-rohit-saraf-reunite-for-one-last-cold-coffee-in-series-finale/articleshow/127909624.cms",
-    "time": "2026-02-04T12:23:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pawan Kalyan starrer 'Ustaad Bhagat Singh' locks March release date",
-    "desc": "Pawan Kalyan's highly anticipated action film, 'Ustaad Bhagat Singh,' is set to release on March 26, 2026, after wrapping up production. The makers confirmed the date with an energetic social media announcement, generating significant fan excitement. The film, a remake of 'Theri,' stars Pawan Kalyan as a cop alongside Sreeleela and Raashi Khanna.",
-    "img": "https://static.toiimg.com/photo/msid-127909713,imgsize-142978.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/pawan-kalyan-starrer-ustaad-bhagat-singh-locks-march-release-date-confirm-makers/articleshow/127909713.cms",
-    "time": "2026-02-04T12:22:53.000Z"
-  },
-  {
     "cat": "Business",
     "title": "If public funds are siphoned off, willingness to pay may not help: Supreme Court in bank fraud case",
     "desc": "Supreme Court directs Enforcement Directorate to constitute a Special Investigation Team; criticises delay in registering case; calls for a ‘fair, dispassionate’ probe into the ‘nexus, connivance, conspiracy, collusion’ among bank officials, authorities, and managements of the companies",
@@ -403,15 +493,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/supreme-court-orders-sit-probe-anil-ambani-adag-alleged-bank-fraud-case/article70590512.ece",
     "time": "2026-02-04T12:16:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rahul's 'traitor' remark against Bittu snowballs into major row; Putin, Xi hail Russia–China ties as ‘strategic’; &amp; more",
-    "desc": "Rahul Gandhi's 'traitor' remark against MP Ravneet Singh Bittu ignited a political firestorm, demanding an apology. Lok Sabha witnessed heated exchanges over remarks on the Gandhi family. Meanwhile, Ghaziabad mourned three sisters' deaths, with online gaming addiction a focus. The Supreme Court heard Mamata Banerjee's plea against Bengal's voter roll revision, as Putin and Xi hailed strong Russia-China ties.",
-    "img": "https://static.toiimg.com/photo/msid-127909596,imgsize-673042.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-rahuls-traitor-remark-against-bittu-snowballs-into-major-row-putin-xi-hail-russiachina-ties-as-strategic-more/articleshow/127909134.cms",
-    "time": "2026-02-04T12:16:16.000Z"
   },
   {
     "cat": "World",
@@ -439,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/legendary-cricketer-warns-srh-stars-absence-could-hurt-south-africa-at-t20-world-cup/articleshow/127908719.cms",
     "time": "2026-02-04T11:42:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "George Clooney as Big B, Meryl Streep as Jaya B: AI reimagines K3G cast",
-    "desc": "Filmmaker Karan Johar reacted with amusement to an AI-generated video reimagining Hollywood stars in his iconic film 'Kabhi Khushi Kabhie Gham'. Meryl Streep as Nandini and George Clooney as Yashvardhan were highlighted, with Johar jokingly expressing his desire to have Streep in his films.",
-    "img": "https://static.toiimg.com/photo/msid-127908452,imgsize-63868.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/george-clooney-as-amitabh-bachchan-meryl-streep-into-jaya-bachchans-shoes-tom-cruise-as-shah-rukh-khan-ai-reimagines-k3g-cast-karan-johar-reacts/articleshow/127908275.cms",
-    "time": "2026-02-04T11:26:18.000Z"
   },
   {
     "cat": "Sports",
@@ -504,24 +576,6 @@ const newsData_en = [
     "time": "2026-02-04T09:47:46.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Saudi Aramco raises $4 billion: Shakes global markets, Wall Street buzzing",
-    "desc": "Saudi Arabia’s oil giant Saudi Aramco has successfully raised $4 billion through a bond issuance. The move highlights strong investor trust in the company's financial stability. The issuance, part of a global program, was priced in January 2026 and completed in early February 2026. Proceeds will fund capital expenditures and diversification efforts. This strengthens Aramco's financial position and boosts confidence in Saudi Arabia's economy.",
-    "img": "https://static.toiimg.com/photo/msid-127905908,imgsize-39842.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabias-oil-giant-saudi-aramco-raises-4-billion-shakes-global-markets-has-wall-street-buzzing/articleshow/127905031.cms",
-    "time": "2026-02-04T09:38:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Switch from Russia to Venezuela crude oil possible? SBI sees $3 billion savings",
-    "desc": "India could slash its crude import bill by nearly $3 billion annually by strategically shifting from Russian oil to Venezuelan heavy crude. A discount of $10-12 per barrel on Venezuelan oil makes this switch commercially viable, despite longer shipping routes. This potential saving highlights evolving import strategies driven by market dynamics and refining capabilities.",
-    "img": "https://static.toiimg.com/photo/msid-127905059,imgsize-89784.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/switch-from-russia-to-venezuela-crude-oil-possible-sbi-sees-3-billion-savings-explained/articleshow/127902757.cms",
-    "time": "2026-02-04T09:00:55.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Asian C'ship: Samrat Rana shoots bronze as India take team silver",
     "desc": "World champion Samrat Rana secured a bronze in the men's 10m air pistol at the Asian Championship, despite a dip in form from his qualification performance. India also clinched a silver in the team event, with Rana, Sharvan Kumar, and Varun Tomar contributing to the impressive total. The nation fields the largest contingent at the prestigious competition.",
@@ -532,7 +586,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Border 2' box office collection day 13 (LIVE)",
+    "title": "'Border 2' box office collection day 13",
     "desc": "'Border 2' has seen a strong box office run, crossing Rs 280 crore by its second week. Despite a promising start and a Republic Day boost, the film experienced a decline post-holiday. While facing minimal competition, it's now showing signs of losing momentum ahead of new releases.",
     "img": "https://static.toiimg.com/photo/msid-127904478,imgsize-43014.cms",
     "src": "indiatimes.com",
@@ -558,15 +612,6 @@ const newsData_en = [
     "time": "2026-02-04T07:41:31.000Z"
   },
   {
-    "cat": "Business",
-    "title": "‘Safeguarded agriculture, dairy': Piyush Goyal hails India-US trade deal in Parliament",
-    "desc": "Union minister Piyush Goyal defended the India-US trade agreement in Lok Sabha, stating India successfully safeguarded its agriculture and dairy sectors after nearly a year of negotiations. The deal, finalized after intensive discussions, aims to promote Indian initiatives and enhance export competitiveness. US President Trump announced a tariff reduction to 18% for Indian products, a move welcomed by PM Modi.",
-    "img": "https://static.toiimg.com/photo/msid-127903228,imgsize-887692.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/safeguarded-agriculture-dairy-piyush-goyal-hails-india-us-trade-deal-in-parliament/articleshow/127903146.cms",
-    "time": "2026-02-04T07:31:55.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'I'm a very awkward guy': Dhoni reveals why he avoids commentary box",
     "desc": "Mahendra Singh Dhoni has largely ruled out a career in cricket commentary, citing the difficulty in balancing description with criticism and his struggle with memorizing statistics. He prefers listening and absorbing information rather than speaking, though he humorously admits to still being awkward at phone conversations.",
@@ -585,15 +630,6 @@ const newsData_en = [
     "time": "2026-02-04T07:05:50.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India’s services sector growth hits two-month high",
-    "desc": "India's services sector kicked off 2025 with robust growth, reaching a two-month high in January. Buoyant demand, driven by increasing new orders and technological investments, fueled this expansion. Businesses reported a quicker rise in activity and responded by adding staff, while future outlook sentiment also improved significantly across the broader private sector.",
-    "img": "https://static.toiimg.com/photo/msid-127902550,imgsize-4946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/january-pmi-figures-indias-services-sector-growth-hits-two-month-high/articleshow/127901249.cms",
-    "time": "2026-02-04T07:05:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Is age a factor? No': Dhoni backs Rohit, Virat to chase 2027 WC dream",
     "desc": "Former captain MS Dhoni supports Rohit Sharma and Virat Kohli for the 2027 Cricket World Cup. He believes performance and fitness, not age, should decide their future in ODI cricket. Dhoni emphasises that experienced players offer invaluable guidance to younger teammates. He stated that if they continue to perform and remain fit, they should be considered for selection.",
@@ -601,15 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/is-age-a-factor-no-ms-dhoni-backs-rohit-sharma-virat-kohli-to-chase-2027-world-cup-dream/articleshow/127902278.cms",
     "time": "2026-02-04T06:56:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Markets trade mixed after Wall Street's fall; Nikkei sheds over 500 points, Kospi gains 1%",
-    "desc": "Asian equities saw mixed performance Wednesday, with Japan's Nikkei down due to tech losses, while South Korea's Kospi edged higher. Precious metals surged as investors sought safe havens amid geopolitical tensions and dollar weakness. U.S. markets closed lower, led by a significant drop in technology stocks.",
-    "img": "https://static.toiimg.com/photo/msid-127900704,imgsize-56974.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-trade-mixed-after-wall-streets-fall-nikkei-sheds-over-500-points-kospi-gains-1/articleshow/127900220.cms",
-    "time": "2026-02-04T05:31:32.000Z"
   },
   {
     "cat": "Sports",
@@ -637,15 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/budget/why-the-government-has-increased-capital-spending-for-the-defence-sector/article70587496.ece",
     "time": "2026-02-04T05:00:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Currency down 22 paise to stand at 90.54 against US dollar",
-    "desc": "The Indian Rupee opened weaker on Wednesday. This followed a significant gain on Tuesday. The Rupee became the best performing Asian currency. This surge was due to a trade agreement reached between India and the United States. The deal is expected to boost foreign investment. This could further support the Rupee's stability.",
-    "img": "https://static.toiimg.com/photo/msid-127899687,imgsize-55506.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-trading-today-february-4-2026-against-us-dollar/articleshow/127899478.cms",
-    "time": "2026-02-04T04:24:34.000Z"
   },
   {
     "cat": "Sports",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/syrian-state-forces-deploy-into-kurdish-run-city-under-ceasefire-deal/article70583397.ece",
     "time": "2026-02-02T13:41:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Government proposes to exempt award given by Motor Accident Claims Tribunal from income tax",
-    "desc": "According to the Budget document, the provisions of the Motor Vehicles Act, 1988, inter alia, provide for compensation and an interest on the compensation to be awarded by the tribunal to an individual or his/her legal heir, on account of death or permanent disability or any bodily injury under the said Act",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/government-proposes-to-exempt-award-given-by-motor-accident-claims-tribunal-from-income-tax/article70580648.ece",
-    "time": "2026-02-02T13:21:10.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump after performers' backlash",
-    "desc": "The head of artistic programming for the centre abruptly left his post last week, less than two weeks after being named to the job; a spokesperson for the Kennedy Center did not immediately respond to an emailed request for comment",
-    "img": "https://th-i.thgim.com/public/incoming/2cix7t/article70583096.ece/alternates/LANDSCAPE_1200/AFP__20260110__92B997Z__v1__HighRes__UsPoliticsCulture.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/kennedy-center-will-close-2-years-for-renovations-in-july-trump-after-performers-backlash/article70582942.ece",
-    "time": "2026-02-02T12:26:41.000Z"
   }
 ];
