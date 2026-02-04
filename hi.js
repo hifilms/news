@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former India cricketer predicts Pakistan will make U-turn on boycott stance vs India in T20 World Cup",
+    "desc": "Former India cricketer Ravichandran Ashwin has predicted that Pakistan will make a U-turn on its boycott stance against India in T20 World Cup and end up playing the marquee clash on February 15. The Government...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-predicts-pakistan-will-make-u-turn-on-boycott-stance-vs-india-in-t20-world-cup-2026-02-04-1028819",
+    "time": "2026-02-04T03:20:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND vs AFG, U19 World Cup semifinal: Head to Head record in Youth ODIs ahead of knockout clash",
+    "desc": "India and Afghanistan are set to lock horns today in the second semifinal at the Harare Sports Club in Harare. The match is set to get underway at 1 PM IST, and the winner of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-afg-u19-world-cup-semifinal-head-to-head-record-in-youth-odis-ahead-of-knockout-clash-2026-02-04-1028814",
+    "time": "2026-02-04T02:54:30.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "T20 World Cup warm-up schedule: India, Pakistan in action today ahead of tournament amid boycott row",
     "desc": "Preparations for the T20 World Cup are in full swing as 20 teams are gearing up for the tournament with warm-up matches. It will be an action-packed day today as four warm-up matches will be...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/will-mohsin-naqvi-make-u-turn-on-pakistans-india-boycott-in-t20-world-cup-after-bangladesh-elections-2026-02-03-1028772",
     "time": "2026-02-03T14:47:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dubai Royals qualify for final",
-    "desc": "Delhi Warriors had a stunning season so far, winning four out of their five matches in the ongoing World Legends Pro T20 League. They have been a force to reckon with and will now play...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/delhi-warriors-vs-dubai-royals-world-legends-pro-t20-league-2026-semi-final-live-today-in-goa-shikhar-dhawan-harbhajan-singh-irfan-pathan-1028768",
-    "time": "2026-02-03T14:03:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Broadcasters plan to move to court if Pakistan boycotts India game",
-    "desc": "The ICC has cautioned Pakistan that a boycott of the February 15 match against India in Colombo could expose the board to legal action from the host broadcaster. Pakistan’s government has already confirmed on X...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-2026-broadcasters-plan-to-move-to-court-if-pakistan-boycotts-india-game-2026-02-03-1028763",
-    "time": "2026-02-03T13:29:29.000Z"
   }
 ];
