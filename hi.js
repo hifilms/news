@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Abhishek Sharma to enter T20 World Cup 2026 as top-ranked batter in ICC T20I rankings",
+    "desc": "Abhishek Sharma will start the T20 World Cup 2026 as the No.1 batter in the ICC T20I rankings. He lost a few rating points after bagging a duck in the fourth T20I but is comfortably...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-to-enter-t20-world-cup-2026-as-top-ranked-batter-in-icc-t20i-rankings-2026-02-04-1028871",
+    "time": "2026-02-04T08:29:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "MS Dhoni opines on whether Rohit Sharma and Virat Kohli should play ODI World Cup 2027, 'You can't get...'",
     "desc": "Apart from two months of the Indian Premier League (IPL), MS Dhoni's public appearances are very far and few. So, whenever he attends any promotional or public event, fans are always keen and eager to...",
     "img": "",
@@ -70,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/serial-finalists-delhi-capitals-storm-into-fourth-straight-title-clash-after-making-light-work-of-gg-2026-02-03-1028785",
     "time": "2026-02-03T17:14:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND vs SA T20 World Cup 2026 warm-up live streaming: When and where to watch clash in India?",
-    "desc": "India and South Africa are gearing up to face each other in a crucial T20 World Cup 2026 warm-up match on Wednesday, February 4, as they gear up for the global showpiece. India, the defending champions,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-sa-t20-world-cup-2026-warm-up-live-streaming-when-and-where-to-watch-clash-in-india-dr-dy-patil-sports-academy-navi-mumbai-2026-02-03-1028783",
-    "time": "2026-02-03T16:56:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ricky Ponting reveals pleading to Delhi Capitals management to keep Abhishek Sharma, franchise instead traded",
-    "desc": "Ricky Ponting has predicted a breakout T20 World Cup for India opener Abhishek Sharma, highlighting the young batter as a potential leading run-scorer and even Player of the Tournament. The former Australia captain’s confidence in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ricky-ponting-reveals-pleading-to-delhi-capitals-management-to-keep-abhishek-sharma-franchise-instead-traded-2026-02-03-1028777",
-    "time": "2026-02-03T15:17:59.000Z"
   }
 ];

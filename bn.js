@@ -1,6 +1,69 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "‘কোথাও বিচার পাচ্ছি না..,’ SIR মামলায় সুপ্রিম কোর্টে সওয়াল মমতার, সোমবার পরবর্তী শুনানি",
+    "desc": "আধারকে বৈধ প্রমাণ হিসেবে গ্রহণ করার নির্দেশ দিয়েছে শীর্ষ আদালত৷ কিন্তু, মমতা প্রধান বিচারপতি সূর্য কান্ত, বিচারপতি জয়মাল্য বাগচি এবং বিপুল পাঞ্চোলির বেঞ্চের এজলাসে অভিযোগ করেন পশ্চিমবঙ্গে তা গ্রহণ করা হচ্ছে না৷ বলেন, ‘‘বাংলাকে টার্গেট করা হচ্ছে। লজিকাল ডিসক্রিপেন্সির কেস নিজের মতো খারিজ করে দেওয়া হোক। বিএলওদের সহযোগিতায়। রাজ্য কে বুলডোজ করছে কমিশন৷ অন্য রাজ্যের থেকে পশ্চিমবঙ্গে কমিশন আলাদা? সেভ ডেমোক্রেসি৷’’",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-04-at-14.25.19-2026-02-bf38a745b3c5bceb168ad9ccb67a2cba-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/mamata-banerjee-at-supreme-court-on-sir-here-is-the-update-and-next-date-of-hearing-sta-2525861.html",
+    "time": "2026-02-04T09:02:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ঐতিহাসিক সুপ্রিম সওয়ালে সারা দেশকে চমকে SIR-পদ্ধতি নিয়েই বিশাল প্রশ্ন তুলে দিলেন মমতা! বললেন...",
+    "desc": "এসআইএর বিরোধিতা করছে কংগ্রেস, সমাজবাদী পার্টি, ডিএমকের মতো দলও। কিন্তু এসআইআরের বিরুদ্ধে লড়াইকে এক অন্য মাত্রায় নিয়ে চলে গিয়েছেন স্বয়ং মমতা বন্দ্যোপাধ্যায়। নির্বাচন কমিশনে দরবারই শুধু নয়, মামলা করে একেবারে সুপ্রিম কোর্ট হাজির মমতা বন্দ্যোপাধ্যায়। তিনি কী বললেন আদালতে?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/mamata-banerjee-in-supreme-court-bengal-cm-urgue-in-sc-mamata-banerjee-questions-hurry-in-conducting-sir-exercise_639391.html ",
+    "time": "2026-02-04T08:47:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "২ বোনকে বিয়ে বাবার...২ স্ত্রী-৫ সন্তানকে নিয়ে একসঙ্গে একই ফ্ল্যাটে বাস...৩ কিশোরী বোনের রহস্যমৃত্যুকাণ্ডে নয়া মোড়",
+    "desc": "পুলিশের দাবি, পেশায় একজন ব্যবসায়ী চেতন কুমার, প্রথম বিয়ে থেকে কোনও সন্তান না হওয়ায় দ্বিতীয় বিয়ে করেন। সন্তানের আশায় তিনি তাঁর স্ত্রীর ছোট বোনকে বিয়ে করেন। এই দম্পতির তিন সন্তান হয়। তবে, এই সময়ের মধ্যে তাঁর প্রথম স্ত্রীরও দু’টি সন্তান হয়। চেতন কুমার, তাঁর দুই স্ত্রী এবং পাঁচ সন্তান একসঙ্গে থাকতেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/New-Project-2-2026-02-a73076ac1e4f56e0504f15abfaeac1bb-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/ghaziabad-triple-sister-mysterious-death-case-tuns-into-new-angle-as-the-father-got-married-twice-arc-2525792.html",
+    "time": "2026-02-04T08:45:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘বাংলায় হলে অসমে নয় কেন, পশ্চিমবঙ্গকে নিশানা করা হয়েছে, বুলডোজ করা হচ্ছে!’ SIR নিয়ে সুপ্রিম কোর্টে সওয়াল মমতার",
+    "desc": "দেশের ইতিহাসে প্রথমবার ৷ সুপ্রিম কোর্টে প্রথমবার সওয়াল কোনও মুখ্যমন্ত্রীর ৷ SIR-সংঘাতে সুপ্রিম কোর্টে মামলা মমতা বন্দ্যোপাধ্যায়ের ৷ নিজের করা মামলায় নিজেই সওয়াল তৃণমূলনেত্রীর ৷ এর আগে কোনও মুখ্যমন্ত্রী সুপ্রিম কোর্টে সওয়াল করেননি ৷ মমতাই প্রথম মুখ্যমন্ত্রী যিনি সুপ্রিম কোর্টে সওয়াল করলেন ৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Mamata-Banerjee-in-Supreme-Court-2026-02-ff953eaedda516f53c495087a209289a-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/west-bengal-sir-supreme-court-hearing-today-live-updates-mamata-banerjee-ss-2525750.html",
+    "time": "2026-02-04T08:35:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘...খুব একা, নিঃসঙ্গ...জীবন শেষ করে দিচ্ছি...’, মরণঝাঁপের আগে ডায়েরির পাতা, ঘরের দেওয়াল জুড়ে ৩ বোনের আর্তি-অক্ষর",
+    "desc": "ডায়েরির পাতায় তাদের হস্তাক্ষরে লেখা, ‘এখনই পড়ো! আমি সত্যিই দুঃখিত। দুঃখিত, বাবা,...\"। লেখার পর একটি বড় কান্নার ইমোজিও দেওয়া ছিল। ইতিমধ্যে, তাদের ঘরের দেয়ালে একটি লেখাও পাওয়া গিয়েছে, যেখানে লেখা ছিল, \"আমি খুব, খুব একা।\"",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/New-Project-1-2026-02-8f6d6249cc89efc25e9cde7656dfb796-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/last-note-of-3-sisters-with-crying-emoji-before-the-extreme-decision-in-ghaziabad-arc-2525599.html",
+    "time": "2026-02-04T07:34:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "কে পপ, কে ড্রামা পেরিয়ে এবার নেশার নাম কে-গেম! ৫০ টাস্কের বাহানায় 'কোরিয়া' কেড়ে নিল ৩ কিশোরীর প্রাণ...",
+    "desc": "গাজিয়াবাদে অনলাইন কোরিয়ান গেমের ‘টাস্ক’ পূরণ করতে গিয়ে ৯ তলা থেকে ঝাঁপ দিয়ে মৃত্যু হয়েছে তিন বোনের। ডায়েরিতে বাবার কাছে ক্ষমা চেয়ে তারা লিখেছে যে তারা খুব একা বোধ করছিল। গেমের ৫০টি টাস্কের শেষ ধাপ হিসেবে তারা এই আত্মঘাতী সিদ্ধান্ত নেয় বলে পুলিসের প্রাথমিক অনুমান।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/read-everything-in-diary-last-note-of-3-sisters-with-crying-emoji-in-ghaziabad_639357.html ",
+    "time": "2026-02-04T07:14:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "রানওয়েতে দুই বিমানের ডানায় ধাক্কা ! ‘ডানা ঘেঁষে’ কাটল বিপদ ! কীভাবে ঘটল এই ঘটনা?",
+    "desc": "মুম্বই বিমানবন্দরের রানওয়েতে বড় দুর্ঘটনা থেকে দুই বিমানের রক্ষা । ইন্ডিগোর বিমানের ডানায় এয়ার ইন্ডিয়ার বিমানের ধাক্কা লাগে । অল্পের জন্য বিরাট ক্ষয়ক্ষতি এড়ানো গিয়েছে । কিন্তু কী করে পাশাপাশি রানওয়েতে এল দুটি বিমান? এখনও ধোঁয়াশা ।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/IndiGo-and-Air-India-Wings-Tail-2026-02-aaff959f8a96af2e98d002425a45d42a-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/mumbai-airport-air-india-indigo-planes-collide-at-mumbai-airport-dgca-begins-probe-ss-aa-2525322.html",
+    "time": "2026-02-04T07:14:21.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ঘুষি-হেলমেটের আঘাত! জল খেতে চাওয়ার মাশুল হিসেবে দুই খাদ্য সরবরাহকর্মীর আক্রমণ! জীবনমরণ লড়াইয়ের পর মৃত ব্যবসায়ী",
     "desc": "পূর্ব দিল্লির লক্ষ্মীনগরের বাসিন্দা এবং ব্যবসায়ী শিবম, সেদিন তাঁর এক বন্ধুর সঙ্গে একটি পার্টিতে যোগ দিতে কনট প্লেসে গিয়েছিলেন। পুলিশ কর্মকর্তারা জানিয়েছেন, রেস্তোরাঁ থেকে বেরিয়ে আসার সময়, তিনি ই ব্লকের কাছে একজন ডেলিভারি এজেন্টের কাছে জল চান৷ যার জেরে উভয়ের মধ্যে বাকবিতণ্ডা শুরু হয়।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/New-Project-2026-02-1724cf311a9ea855dcbf547058ae5942-3x2.jpg",
@@ -313,15 +376,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/international/bangladesh-news-sheikh-hasina-s-son-sajib-joy-says-this-is-the-last-chance-to-resist-jamat-sta-2523631.html",
     "time": "2026-02-02T15:00:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TCS, Amazon- এর পর এবার বিগ টেক ওরাকেলও! খুব তাড়াতাড়ি ২০,০০০ থেকে ৩০,০০০ কর্মী ছাঁটাই করার মতো প্ল্যান রেডি...",
-    "desc": "ওরাকলের সাম্প্রতিক ইতিহাসে এটিই হতে যাচ্ছে সবচেয়ে বড় ছাঁটাই। এর আগে ২০২৫ সালের শেষের দিকে কোম্পানিটি প্রায় ১০,০০০ কর্মী ছাঁটাই করেছিল। এছাড়া স্বাস্থ্যসেবা সফটওয়্যার ইউনিট ‘সার্নার’ (Cerner) কেনার পর থেকে সেখানেও কয়েক দফায় কর্মী কমানো হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/oracle-plans-20000-to-30000-job-cuts-to-fund-data-centre-expansion_639011.html ",
-    "time": "2026-02-02T14:56:38.000Z"
   },
   {
     "cat": "Politics",
@@ -844,59 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/ajit-pawar-dies-in-plane-crash-a-look-back-at-his-career-and-legacy-rmj-2518039.html",
     "time": "2026-01-29T11:51:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "যুবরাজ সিংয়ের অবসরের কারণ নিয়ে চাঞ্চল্যকর স্বীকারোক্তি...‘আমি নিজেকে সম্মানিত বোধ করিনি’",
-    "desc": "সানিয়া মির্জার ইউটিউব চ্যানেলে যুবরাজ বলেন, ‘‘আমি আমার খেলা উপভোগ করছিলাম না। আমার মনে হচ্ছিল, যখন আমি ক্রিকেট খেলা উপভোগই করছি না, তখন কেন খেলছি? আমি নিজেকে সমর্থিত মনে করছিলাম না। আমি নিজেকে সম্মানিত মনে করছিলাম না।’’",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Yuvraj-Singh-Interview-2026-01-0fed297a4f62068d74542eed1a58f579-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/yuvraj-singhs-interview-his-stunning-confession-on-why-he-retired-i-did-not-feel-respected-ss-aa-2517889.html",
-    "time": "2026-01-29T10:36:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "২৯, ৩০, ৩১ জানুয়ারি...! ভারী বৃষ্টি কাঁপাবে ৪ রাজ্য, শীতের শিরশিরানি বাড়বে কোন কোন রাজ্যে? কী হবে বাংলায়? জানিয়ে দিল IMD",
-    "desc": "ভারী বৃষ্টিপাতের কারণে সকালের তাপমাত্রা ২ থেকে ৩ ডিগ্রি কমে যাবে, যার ফলে আবার কাঁপুনি শুরু হবে। রাজস্থান, জম্মু ও কাশ্মীর, লাদাখ এবং হিমাচল প্রদেশেও বৃষ্টিপাতের সম্ভাবনা রয়েছে। ভারী বৃষ্টিপাতের পাশাপাশি, ঘণ্টায় ৪০ কিলোমিটার বেগে বাতাস বইবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/11/sanj-2025-11-25T190454.149-2025-11-9c71ed0bce9d5a905bdc5af954059071-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-heavy-rainfall-alert-along-with-thunderstorm-and-lightning-to-hit-4-states-in-next-three-days-cold-alert-in-which-states-check-latest-west-bengal-weather-sanj-2517766.html",
-    "time": "2026-01-29T09:41:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "শেষ মূহুর্তে কী হয়েছিল? জানতে ভরসা সেই ককপিট ভয়েস রেকর্ডার",
-    "desc": "অজিত পওয়ারের বিমান দুর্ঘটনার ২৪ ঘণ্টা পেরিয়ে গিয়েছে। এর মধ্যে দুর্ঘটনার আগে একাধিক প্রান্ত থেকে চার্টাড বিমানটির ভিডিও ভাইরাল হয়েছে। মাটিতে আছড়ে পড়ার আগে, বিমানটি যেভাবে নেমে আসছিল, তা নিয়ে পাইলটদের মধ্যেও নানা প্রশ্ন উঠেছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/TV_5732039_baramati_flight_accident_1.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/ajit-pawar-flight-crash-what-happened-at-the-last-moment-trust-that-cockpit-voice-recorder-sal-2516975.html",
-    "time": "2026-01-29T08:02:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "প্লেব্যাক থেকে বিরতি, এবার কি জিয়াগঞ্জের স্টুডিও থেকেই..., অরিজিতের পরের অধ্যায়ে বিরাট চমক!",
-    "desc": "মুম্বইয়ের বিলাসী জীবন ছেড়ে বেশিরভাগ সময় তাই সে কাটাতো তাঁর প্রিয় শহরে। রাত হলেই সময় কাটান তার নিজের হাতে করে গোড়ে তোলা স্টুডিওতেই। কিন্তু মাত্র ৩৯ বছর বয়সে 'প্লেব্যাক সিঙ্গিং' -এর দুনিয়াকে বিদায় জানানোর সিদ্ধান্তকে কিছুতেই মেনে নিতে পারছেন না জিয়াগঞ্জবাসী তথা তাঁর প্রিয় শ্রোতারা।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/HYP_5731891_cropped_29012026_011035_inshot_20260129_011006544__2-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/what-next-for-arijit-singh-after-his-playback-exit-l18-rds-local18-2516967.html",
-    "time": "2026-01-29T07:53:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "চর্বি ঝরানোর জন্য আদর্শ...‘ইন্টারভাল ওয়ার্কিং’ সপ্তাহেই গলিয়ে দেবে মেদ! কোন হাঁটা কীসের জন্য ভাল জানুন",
-    "desc": "স্পিড ওয়াকিং হল ব্রিস্ক ওয়াকের আরেকটু উন্নত ভার্সন। এর জন্য সঠিক ভঙ্গি বজায় রাখা, জোরে জোরে হাত নাড়ানো এবং একটি স্থির ছন্দ বজায় রাখা প্রয়োজন। দ্রুত হাঁটা হৃদস্পন্দন বাড়ায়, ফুসফুসের ক্ষমতা উন্নত করে এবং ধৈর্য তৈরি করে। যাঁরা দৌড়নোর প্রভাব ছাড়াই একটি চ্যালেঞ্জিং কার্ডিও ওয়ার্কআউট চান তাঁদের জন্য এটি আদর্শ।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ydne-2026-01-29T125554.780-2026-01-84b746df1474627fb2719c2f4a5a2495-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/life-style/walking-workouts-simple-steps-to-improve-health-and-fitness-what-is-effective-way-to-loose-weight-sta-2517307.html",
-    "time": "2026-01-29T07:33:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "\\বিমান দুর্ঘটনায় মৃত্যু অজিত পওয়ারের, বারামতীতেই বেলা ১১টায় শেষকৃত্য সম্পন্ন... দেখুন ভিডিও",
-    "desc": "মহারাষ্ট্রের উপ-মুখ্যমন্ত্রী অজিত পওয়ারের শেষকৃত্য হল আজ বৃহস্পতিবার সকাল ১১টায়। বারামতীর বিদ্যা প্রতিষ্ঠান গ্রাউন্ডে তাঁর শেষকৃত‍্য সম্পন্ন হবে। তাঁর মরদেহ বারামতির কাটেওয়াড়ির বাসভবনে রাখা হবে। তারপরে অ্যাম্বুলেন্সে করে নিয়ে যাওয়া হবে জিডি মাদগুলকার অডিটোরিয়ামে। বুধবার উপমুখ্যমন্ত্রী ও এনসিপি নেতা অজিত পাওয়ারের বিমান দুর্ঘটনার কবলে পড়ে। বারামতীতে ঘটে যাওয়া এই বিমান দুর্ঘটনায় অজিত পাওয়ারের সঙ্গে আরও চারজনের মৃত্যু হয়েছে। দুর্ঘটনাটি এতটাই ভয়াবহ ছিল যে একের পর এক বিস্ফোরণের শব্দ শোনা যায়। বিমানটি সম্পূর্ণভাবে পুড়ে ছাই হয়ে যায়। এই দুর্ঘটনায় সব দেহই মারাত্মকভাবে দগ্ধ হয়েছিল।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-28-at-10.36.33-2026-01-d355d672878b852a9befc6fc901b6f32-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/ajit-pawar-plane-accident-baramati-funeral-today-at-11-am-rmj-ws-l-2517446.html",
-    "time": "2026-01-29T07:32:50.000Z"
   }
 ];

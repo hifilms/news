@@ -1,12 +1,39 @@
 const newsData_gu = [
   {
-    "cat": "Sports",
-    "title": "નકવીના નાટક પાછળનું અસલી કારણ આવ્યું સામે ! હવે પાકિસ્તાન બોયકોટથી પલટી મારશે એ પાક્કુ",
-    "desc": "T20 વર્લ્ડ કપ 2026માં 15 ફેબ્રુઆરીએ ભારત અને પાકિસ્તાન વચ્ચે મરમાનારી મેચનો પાકિસ્તાને બહિષ્કાર કર્યો હતો. આ નિર્ણય ક્રિકેટ કરતાં વધુ રાજનૈતિક માનવામાં આવી રહ્યો છે, ત્યારે PCB ચેરમેન નકવીના આ નાટક પાછળનું અસલી કારણ હવે સામે આવ્યું છે.",
+    "cat": "Politics",
+    "title": "&amp;#039;ન્યાય બંધ બારણા પાછળ રડી રહ્યો છે&amp;#039;, સુપ્રીમ કોર્ટમાં SIR પર મમતા બેનર્જીના આક્રમક તેવર",
+    "desc": "પશ્ચિમ બંગાળમાં એસઆઈઆરનો મુદ્દો ખુબ ચગ્યો છે. આજે મમતા બેનર્જીએ એક અરજી દાખલ કરેલી છે તેના પર સુનાવણી થઈ રહી છે. તેમણે આ હીયરિંગમાં પોતે પક્ષ રજૂ કર્યું અને ચૂંટણી પંચને વોટ્સએપ કમિશન પણ ગણાવી દીધુ. જાણો ચીફ જસ્ટિસ ઓફ ઈન્ડિયાએ આ સમગ્ર મામલે શું કહ્યું?",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/pakistan-will-backtrack-on-t20-world-cup-boycott-ind-vs-pak-match-know-why-463915 ",
-    "time": "2026-02-04T06:39:49.000Z"
+    "url": " http://zeenews.india.com/gujarati/india/supreme-court-hearing-on-west-bengal-sir-mamata-banerjee-election-commission-463928 ",
+    "time": "2026-02-04T09:13:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રોહિત અને વિરાટે 2027નો વર્લ્ડ કપ રમવો જોઈએ ? જાણો શું કહ્યું MS ધોનીએ",
+    "desc": "રોહિત શર્મા અને વિરાટ કોહલી હવે ફક્ત ODI ફોર્મેટમાં રમે છે અને આંતરરાષ્ટ્રીય ક્રિકેટમાં તેમના ભવિષ્ય પર બધાની નજર છે. ચાહકો તેમને 2027 ODI વર્લ્ડ કપમાં રમતા જોવા માંગે છે. હવે એમએસ ધોનીએ આ વિષય પર વાત કરી છે અને જણાવ્યું છે કે શું બંનેએ આગામી વર્લ્ડ કપમાં રમવું જોઈએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ms-dhoni-statement-virat-kohli-rohit-sharma-should-play-world-cup-2027-463929 ",
+    "time": "2026-02-04T09:01:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;પ્રાચી બોસ હતી, નિશિકા અને પાખી ફક્ત...&amp;#039; ગાઝિયાબાદમાં આત્મહત્યા કરનાર ત્રણ બહેનોના પિતાએ ખોલ્યા રહસ્યો",
+    "desc": "ઉત્તર પ્રદેશના ગાઝિયાબાદમાં ત્રણ બહેનોએ મોડી રાત્રે આપઘાત કર્યો છે. આ કેસમાં ચોંકાવનારા ખુલાસા થઈ રહ્યાં છે. સ્યુસાઇડ નોટ અને ડાયરમી મળ્યા બાદ જ્યારે પોલીસ તેના રૂમમાં દાખલ થઈ તો દીવાલ પર અજીબ વાતો લખેલી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/haziabad-prachi-was-boss-of-nishika-pakhi-father-of-three-sisters-who-died-inrevealed-463925 ",
+    "time": "2026-02-04T08:10:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "રાહુલ ગાંધીએ કેન્દ્રીય મંત્રીને કહ્યા &amp;#039;ગદ્દાર દોસ્ત&amp;#039;, જવાબ મળ્યો- &amp;#039;દેશના દુશ્મન&amp;#039;, જુઓ Video",
+    "desc": "સંસદ પરિસરમાં આજે એક એવી ઘટના ઘટી જેણે રાજકીય માહોલમાં ગરમાવો લાવી દીધો. રાહુલ ગાંધી અને કેન્દ્રીય મંત્રી રવનીતસિંહ બીટ્ટુ વચ્ચે જે શાબ્દિક ટપાટપી થઈ તેનો વીડિયો પણ વાયરલ થઈ રહ્યો છે. જાણો સમગ્ર મામલો અને જુઓ વીડિયો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/parliament-budget-session-viral-video-of-lok-sabha-lop-rahul-gandhi-and-union-mos-ravneet-singh-bittu-463923 ",
+    "time": "2026-02-04T08:04:09.000Z"
   },
   {
     "cat": "World",
@@ -15,7 +42,25 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/india-us-trade-deal-fear-in-pakistan-cotton-industry-pakistanis-troll-their-govt-463911 ",
-    "time": "2026-02-04T06:29:01.000Z"
+    "time": "2026-02-04T07:32:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;કૃષિ અને ડેરીમાં ભારતના હિત સુરક્ષિત&amp;#039;, US ડીલ પર લોકસભામાં બોલ્યા પીયુષ ગોયલ",
+    "desc": "સંસદના બજેટ સત્રમાં વિપક્ષનો હોબાળો જોવા મળી રહ્યો છે. આ વચ્ચે કેન્દ્રીય મંત્રી પીયુષ ગોયલે લોકસભામાં અમેરિકા સાથે થયેલી ટ્રેડ ડીલ પર વિસ્તારથી માહિતી આપી છે. તેમણે કહ્યું કે આ ડીલ બંને દેશોના હિતમાં છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/union-minister-piyush-goyal-indo-us-trade-deal-lok-sabha-agriculture-farmers-benefit-463918 ",
+    "time": "2026-02-04T07:02:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "નકવીના નાટક પાછળનું અસલી કારણ આવ્યું સામે ! હવે પાકિસ્તાન બોયકોટથી પલટી મારશે એ પાક્કુ",
+    "desc": "T20 વર્લ્ડ કપ 2026માં 15 ફેબ્રુઆરીએ ભારત અને પાકિસ્તાન વચ્ચે મરમાનારી મેચનો પાકિસ્તાને બહિષ્કાર કર્યો હતો. આ નિર્ણય ક્રિકેટ કરતાં વધુ રાજનૈતિક માનવામાં આવી રહ્યો છે, ત્યારે PCB ચેરમેન નકવીના આ નાટક પાછળનું અસલી કારણ હવે સામે આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/pakistan-will-backtrack-on-t20-world-cup-boycott-ind-vs-pak-match-know-why-463915 ",
+    "time": "2026-02-04T06:39:49.000Z"
   },
   {
     "cat": "Sports",
@@ -162,15 +207,6 @@ const newsData_gu = [
     "time": "2026-02-03T09:16:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "બંગાળ ભારતના પૂર્વમાં હોવા છતાં કેમ કહેવાય છે પશ્ચિમ બંગાળ ? આ નામ પાછળની કહાની છે રસપ્રદ",
-    "desc": "ભારતમાં 28 રાજ્યો અને 8 કેન્દ્રશાસિત પ્રદેશો છે. જેમાંથી કેટલાક પૂર્વમાં, કેટલાક પશ્ચિમમાં, કેટલાક ઉત્તરમાં અને કેટલાક દક્ષિણમાં આવેલા છે. ત્યારે એક રાજ્ય એવું છેય, જે પૂર્વમાં આવેલું હોવા છતાં પશ્ચિમ બંગાળ તરીકે ઓળખાય છે, ત્યારે આ લેખમાં જાણીશું કે તેનું પશ્ચિમ બંગાળ કેમ પડ્યું, તેની પાછળની કહાની શું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/gk-why-is-bengal-called-west-bengal-even-it-is-in-east-india-463821 ",
-    "time": "2026-02-03T09:01:13.000Z"
-  },
-  {
     "cat": "World",
     "title": "શું ભારત રશિયા પાસેથી તેલ ખરીદવાનું બંધ કરશે? ટ્રમ્પની શરતો પૂરી કરવામાં કયા પડકારો છે",
     "desc": "ભારત અને અમેરિકા વચ્ચે લાંબા સમયથી અટવાયેલી ટ્રેડ ડીલ પૂરી થઈ ગઈ છે. પરંતુ ટ્રમ્પે રશિયા પાસેથી તેલ ન ખરીદવાની શરત રાખી છે. હવે સવાલ છે કે શું પીએમ મોદી આ શરત પૂરી કરી શકશે?",
@@ -178,15 +214,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/india-us-trade-deal-will-india-stop-buying-russian-oil-trump-conditon-to-pm-modi-463820 ",
     "time": "2026-02-03T09:01:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સાધ્વી પ્રેમ બાઈસાના મોતનું સૌથી ભયાનક સત્ય! ઇન્જેક્શન લઈને રૂમમાં ઘૂસ્યો દેવી સિંહ અને પછી... સામે આવી છેલ્લી 30 સેકન્ડની સચ્ચાઈ",
-    "desc": "સાધ્વી પ્રેમ બાઈસાના મોત મામલે તપાસમાં ચોંકાવનારા તથ્યો સામે આવ્યા છે. એવું કહેવામાં આવી રહ્યું છે કે દેવી સિંહ ઇન્જેક્શન લઈને રૂમમાં દાખલ થયો અને થોડી જ ક્ષણોમાં પરિસ્થિતિ બદલાઈ ગઈ. SITના જણાવ્યા અનુસાર, છેલ્લી 30 સેકન્ડમાં શું થયું તેની કડીઓ હવે જોડાઈ રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/sadhvi-prem-baisas-death-is-the-most-terrifying-truth-devi-singh-entered-the-room-with-an-injection-463819 ",
-    "time": "2026-02-03T08:37:45.000Z"
   },
   {
     "cat": "Business",
@@ -250,15 +277,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-rate-today-mcx-comex-gold-and-silver-rate-aaj-no-sona-chandi-no-bhav-business-news-in-gujarati-463790 ",
     "time": "2026-02-03T04:04:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "અમેરિકાએ ટેરિફ ઘટાડ્યો, હવે પાકિસ્તાન-ચીન-બાંગ્લાદેશ કરતા પણ ઓછો, સૌથી વધુ કયા સેક્ટરને ફાયદો?",
-    "desc": "અમેરિકાએ ભારત પર જે 25 ટકા રેસિપ્રોકલ ટેરિફ લગાવ્યો હતો તે ઘટાડીને હવે 18 ટકા કરી નાખ્યો છે. આ ઉપરાંત રશિયન ઓઈલની ખરીદી પર જે વધારાનો 25 ટકા ટેરિફ લગાવ્યો તેનું શું થયું અને આ ટેરિફ ઘટાડ્યા બાદ સૌથી વધુ કયા સેક્ટરોને ફાયદો થશે તે પણ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/us-tariff-on-india-reduced-to-18-percent-now-less-than-pakistan-and-bangladesh-effect-on-which-industry-463787 ",
-    "time": "2026-02-03T03:30:56.000Z"
   },
   {
     "cat": "World",
@@ -394,24 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/superstar-ram-charan-and-wife-upasana-became-twins-baby-parents-twins-baby-photo-463576 ",
     "time": "2026-02-01T06:35:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ભારત-પાકિસ્તાન મેચમાં વરસાદ બનશે વિલન ? જો મેચ રદ થાય તો કોણ પહોંચશે સેમિફાઇનલમાં ?",
-    "desc": "અંડર-19 વર્લ્ડ કપમાં રવિવારે ભારત અને પાકિસ્તાન વચ્ચે મહામુકાબલો રમાશે. આ મેચ સેમિફાઇનલ માટે મહત્વપૂર્ણ છે અને બંને ટીમો વચ્ચે કઠિન સ્પર્ધા થવાની શક્યતા છે. ત્યારે મેચ પહેલા હવામાન કેવું રહેશે અને જો મેચ રદ થાય તો કોને ફાયદો થશે, તે અંગે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/u19-world-cup-2026-india-vs-pakistan-super-6-match-rain-prediction-bulawayo-463572 ",
-    "time": "2026-02-01T06:20:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ઈશાન કિશન કે સંજુ સેમસન... T20 વર્લ્ડ કપમાં કોણ કરશે ઓપનિંગ ? કેપ્ટન સૂર્યાએ આપ્યો જવાબ",
-    "desc": "T20માં સંજુ સેમસન રેગ્યુલર ઓપનર છે, જો કે ન્યુઝીલેન્ડ સામે ધમાકેદાર પ્રદર્શન કરીને ઈશાન કિશને પણ દાવેદારી નોંધાવી છે, ત્યારે બધાના મનમાં સવાલ છે કે T20 વર્લ્ડ કપમાં ઓપનિંગ કોણ કરશે, હવે કેપ્ટન સૂર્યાકુમાર યાદવે આ સવાલનો જવાબ આપ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ishan-kishan-or-sanju-samson-who-will-open-in-t20-world-cup-2026-captain-surya-gave-answer-463556 ",
-    "time": "2026-02-01T05:32:38.000Z"
   },
   {
     "cat": "World",
