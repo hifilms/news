@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "MS Dhoni opines on whether Rohit Sharma and Virat Kohli should play ODI World Cup 2027, 'You can't get...'",
+    "desc": "Apart from two months of the Indian Premier League (IPL), MS Dhoni's public appearances are very far and few. So, whenever he attends any promotional or public event, fans are always keen and eager to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ms-dhoni-opines-on-whether-rohit-sharma-and-virat-kohli-should-play-odi-world-cup-2027-you-can-t-get-2026-02-04-1028831",
+    "time": "2026-02-04T05:09:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer predicts Pakistan will make U-turn on boycott stance vs India in T20 World Cup",
     "desc": "Former India cricketer Ravichandran Ashwin has predicted that Pakistan will make a U-turn on its boycott stance against India in T20 World Cup and end up playing the marquee clash on February 15. The Government...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ricky-ponting-reveals-pleading-to-delhi-capitals-management-to-keep-abhishek-sharma-franchise-instead-traded-2026-02-03-1028777",
     "time": "2026-02-03T15:17:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Mohsin Naqvi make U-turn on Pakistan's India boycott in T20 World Cup after Bangladesh elections?",
-    "desc": "The much-anticipated India vs Pakistan clash in the T20 World Cup 2026 might not happen now as the Pakistani government has instructed its team to boycott the high-octane group stage clash that was scheduled to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-mohsin-naqvi-make-u-turn-on-pakistans-india-boycott-in-t20-world-cup-after-bangladesh-elections-2026-02-03-1028772",
-    "time": "2026-02-03T14:47:49.000Z"
   }
 ];

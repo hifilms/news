@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "નકવીના નાટક પાછળનું અસલી કારણ આવ્યું સામે ! હવે પાકિસ્તાન બોયકોટથી પલટી મારશે એ પાક્કુ",
+    "desc": "T20 વર્લ્ડ કપ 2026માં 15 ફેબ્રુઆરીએ ભારત અને પાકિસ્તાન વચ્ચે મરમાનારી મેચનો પાકિસ્તાને બહિષ્કાર કર્યો હતો. આ નિર્ણય ક્રિકેટ કરતાં વધુ રાજનૈતિક માનવામાં આવી રહ્યો છે, ત્યારે PCB ચેરમેન નકવીના આ નાટક પાછળનું અસલી કારણ હવે સામે આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/pakistan-will-backtrack-on-t20-world-cup-boycott-ind-vs-pak-match-know-why-463915 ",
+    "time": "2026-02-04T06:39:49.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ચાપલૂસી પણ કામ ન આવી! ભારતના બેવડા ફટકાથી ધ્રુજી ઉઠ્યું પાકિસ્તાન, અસ્તિત્વ પર તોળાયું જોખમ",
+    "desc": "એવી કેટલીક વસ્તુઓ છે જેને લઈને વૈશ્વિક બજારમાં ભારત, પાકિસ્તાન અને બાંગ્લાદેશ વચ્ચે ભારે હરિફાઈ છે. જેમાંની એક છે ટેક્સટાઈલ ઈન્ડસ્ટ્રી. ભારત પર હવે પાકિસ્તાન અને બાંગ્લાદેશ કરતા પણ ઓછો ટેરિફ થતા પાકિસ્તાન તો ભારે પરેશાનીમાં મૂકાયું છે. જાણે અસ્તિત્વ પર સવાલ આવી ગયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/india-us-trade-deal-fear-in-pakistan-cotton-industry-pakistanis-troll-their-govt-463911 ",
+    "time": "2026-02-04T06:29:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "બેટથી લઈને બોલ સુધી...બદલાયા ક્રિકેટના આ 73 નિયમો, જાણો શું થયો ફેરફાર",
+    "desc": "ક્રિકેટના નિયમો બનાવતી સંસ્થા મેરીલેબોન ક્રિકેટ ક્લબે ક્રિકેટના નિયમોમાં કેટલાક મોટા ફેરફારોને મંજૂરી આપી છે. આ ફેરફારોનો હેતુ નિયમોને આધુનિક બનાવવા અને રમતને વધુ રોમાંચક બનાવવાનો છે. ત્યારે આ 73 નિયમો કયા છે અને તે ક્યારથી લાગુ થશે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/mcc-announces-73-cricket-rule-changes-test-match-bat-hit-wicket-rule-463909 ",
+    "time": "2026-02-04T06:04:42.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ભારત-અમેરિકા ટ્રેડ ડીલથી ખેડૂતો કેમ અકળાયા? કહ્યું- ડોનાલ્ડ ટ્રમ્પ સામે નતમસ્તક થઈ ગયા",
     "desc": "ભારત અને અમેરિકા વચ્ચે થયેલી ટ્રેડ ડીલથી રાજકીય ગરમાવો આવી ગયો છે. ટ્રમ્પે એવું તે શું કહ્યું કે કૃષિ અને ડેરી મુદ્દે વિવાદ છેડાયો છે. ખેડૂતો કેમ અકળાયા છે. સંયુક્ત કિસાન મોરચાએ શું કહ્યું તે પણ જાણો.",
@@ -279,15 +306,6 @@ const newsData_gu = [
     "time": "2026-02-02T11:05:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "એવું કયું રેલવે સ્ટેશન છે, જે અડધું ગુજરાતમાં અને અડધું મહારાષ્ટ્રમાં છે ?",
-    "desc": "જો તમે પણ સરકારી નોકરીની તૈયારી કરી રહ્યા છો, તો આ લેખ તમારા માટે ઉપયોગી સાબિત થઈ શકે છે, કારણ કે આ લેખમાં અમે તમને એવા કેટલાક જનરલ નોલેજના સવાલ અને જવાબ જણાવીશું, જે તમે અગાઉ કદાચ સાંભળ્યા કે વાંચ્યા પણ નહીં હોય.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/gk-which-railway-station-is-half-in-gujarat-and-half-in-maharashtra-463722 ",
-    "time": "2026-02-02T10:44:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "પાકિસ્તાનના ભારત સાથે નહીં રમવાના નિર્ણયથી અંબાણીને મોટો ઝટકો ! થશે કરોડોનું નુકશાન",
     "desc": "ભારત અને પાકિસ્તાન વચ્ચે રમાતી મેચો માત્ર રોમાંચથી ભરેલી જ નહીં, પરંતુ કમાણીની દ્રષ્ટિએ પણ ખાસ છે. ભારત-પાકિસ્તાનની દરેક મેચ ICCની સૌથી વધુ કમાણી કરનારી ઇવેન્ટ માનવામાં આવે છે. જાહેરાતની દુનિયામાં તેને 'મની મેચ' તરીકે ઓળખવામાં આવે છે. તેથી વર્લ્ડ કપમા જો પાકિસ્તાન ભારત સામે નહીં રમે, તો બ્રોડકાસ્ટર્સને કરોડનું નુકસાન થશે.",
@@ -313,15 +331,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/indian-team-will-go-to-sri-lanka-despite-pakistan-boycott-know-the-reason-463698 ",
     "time": "2026-02-02T06:58:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ચાંદી 1.86 લાખ રૂપિયા તૂટી, સોનું 40000 રૂપિયા સસ્તું થયું, ધડાધડ કેમ ઘટ્યા ભાવ? કારણ જાણો, શું કહે છે એક્સપર્ટ્સ",
-    "desc": "સોના અને ચાંદીમાં ભયંકર કડાકો જોવા મળી રહ્યો છે. ભાવ ખુબ સસ્તા થયા છે. ત્યારે સ્વાભાવિક પણે એવો વિચાર આવે કે સોનું કે ચાંદી ખરીદવા માટે આ સમય યોગ્ય છે કે નહીં? તાબડતોડ ભાવ ઘટાડા પાછળ કારણો કયા છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-plunge-should-you-buy-now-or-not-check-what-experts-say-latest-gold-rate-463693 ",
-    "time": "2026-02-02T06:57:58.000Z"
   },
   {
     "cat": "Sports",
@@ -430,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/rohit-shetty-firing-case-update-after-salman-khan-4-round-firing-on-rohit-shetty-mumbai-house-463522 ",
     "time": "2026-02-01T02:22:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "પાંચમી T20માં ભારતની ન્યૂઝીલેન્ડ પર ધમાકેદાર જીત, સિરીઝ 4-1થી કબજે કરી; ઈશાન-અર્શદીપ જીતના હિરો",
-    "desc": "ભારત અને ન્યૂઝીલેન્ડ વચ્ચે રમાયેલી પાંચમી અને અંતિમ T20 મેચમાં ભારતીય ટીમે શાનદાર પ્રદર્શન કરતા પ્રવાસી ટીમને 46 રને પરાજય આપ્યો છે. આ જીત સાથે જ ભારતે પાંચ મેચોની આ સિરીઝ 4-1થી પોતાના નામે કરી લીધી છે. શનિવારે રમાયેલી આ મેચમાં બેટિંગ અને બોલિંગ બંનેમાં ભારતીય ખેલાડીઓનો દબદબો જોવા મળ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-secured-a-resounding-victory-over-new-zealand-in-the-fifth-t20-clinching-the-series-4-1-463516 ",
-    "time": "2026-01-31T17:12:44.000Z"
   },
   {
     "cat": "Entertainment",

@@ -1,6 +1,51 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "ঘুষি-হেলমেটের আঘাত! জল খেতে চাওয়ার মাশুল হিসেবে দুই খাদ্য সরবরাহকর্মীর আক্রমণ! জীবনমরণ লড়াইয়ের পর মৃত ব্যবসায়ী",
+    "desc": "পূর্ব দিল্লির লক্ষ্মীনগরের বাসিন্দা এবং ব্যবসায়ী শিবম, সেদিন তাঁর এক বন্ধুর সঙ্গে একটি পার্টিতে যোগ দিতে কনট প্লেসে গিয়েছিলেন। পুলিশ কর্মকর্তারা জানিয়েছেন, রেস্তোরাঁ থেকে বেরিয়ে আসার সময়, তিনি ই ব্লকের কাছে একজন ডেলিভারি এজেন্টের কাছে জল চান৷ যার জেরে উভয়ের মধ্যে বাকবিতণ্ডা শুরু হয়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/New-Project-2026-02-1724cf311a9ea855dcbf547058ae5942-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/businessman-beaten-to-death-by-helmet-by-delivery-agents-in-delhi-over-water-spat-arc-2525511.html",
+    "time": "2026-02-04T05:53:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "রক্তাক্ত প্রেম! প্রেমিকাকে ব্লক, রাগে সোজা বুকে ছুরি... লুটিয়ে পড়লেন বিজেপি নেতার ভাইপো...",
+    "desc": "মোবাইলে ব্লক করার জেরে প্রেমিকের বুকে ছুরি চালিয়ে তাঁকে খুনের অভিযোগ উঠল প্রেমিকার বিরুদ্ধে। মৃত কামতা প্রসাদ (২৫) সম্পর্কে স্থানীয় এক বিজেপি নেতার ভাইপো ছিলেন। ছয় মাস আগে ইনস্টাগ্রামে আলাপ হওয়া প্রেমিকা রোশনির সঙ্গে সম্প্রতি তাঁর মনোমালিন্য চলছিল।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/blocked-on-mobile-woman-stabs-boyfriend-to-death-in-chhattisgarhs-bilaspur_639351.html ",
+    "time": "2026-02-04T05:51:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "এক মাসের জন্য ‘হোমওয়ার্ক’ দিয়ে দিলেন নিতিন নবীন! সামনেই ভোট, কী কী করতে হবে...বঙ্গের বিজেপি সাংসদদের সঙ্গে বৈঠক",
+    "desc": "মঙ্গলবার বিকেল সাড়ে ৬টা নাগাদ কেন্দ্রীয় মন্ত্রী সুকান্ত মজুমদারের দিল্লির বাড়িতে পশ্চিমবঙ্গের বিজেপি সাংসদদের সঙ্গে বৈঠক করেন তিনি৷ জানা গিয়েছে, বৈঠকে প্রত্যেক সাংসদের কাছ থেকে তাঁদের সংসদীয় এলাকার বিধানসভা ভিত্তিক রিপোর্ট কার্ড দেখেন৷ একাধিক নির্দেশও দেন৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ydne-2026-02-04T101821.734-2026-02-22a43c928a94ce8fccd1406f9b4e4921-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/west-bengal/nitin-nabin-hold-a-meet-with-the-mp-s-of-west-bengal-and-advised-several-things-took-report-card-sta-2525431.html",
+    "time": "2026-02-04T05:23:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "সওয়াল করতে সুপ্রিম কোর্টে মমতা বন্দ্যোপাধ্যায়",
+    "desc": "দেশের ইতিহাসে প্রথমবার। এসআইআর মামলায় আজ, বুধবার আইনজীবী হিসেবে সুপ্রিম কোর্টে সওয়াল করবেন খোদ মুখ্যমন্ত্রী! যদিও বিরোধী নেত্রী হিসাবে এর আগে বেশ কয়েকবার তাঁকে আদালতে সওয়াল করতে দেখা গিয়েছে। কলকাতা ও বালুরঘাটে তিনি আদালতে সওয়াল করেছেন। তবে আজ আইনজীবী মমতা বন্দ্যোপাধ্যায়ের সুপ্রিম কোর্টে সওয়াল ঘিরে সকলের নজর রয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Mamata-Banerjee-Supreme-Court-2026-02-832b3e5b2705d72a23bf73b0237e869f.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/short-videos/national/chief-minister-mamata-banerjee-to-appear-in-supreme-court-to-argue-sir-case-pbd-2525505.html",
+    "time": "2026-02-04T05:15:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "বোন নেই, তাঁর প্রেমিককে আপন করেছে শর্মা পরিবার, ঐন্দ্রিলার দিদির এনগেজমেন্টে উপস্থিত সব্যসাচী",
+    "desc": "ছোট মেয়ে নেই৷ ঐন্দ্রিলার মাও ক্যানসার আক্রান্ত৷ কঠিন সময়ের মধ্যেই কিছুটা আনন্দ শর্মা পরিবারে৷ বড় মেয়ে ঐশ্বর্যের বিয়ে৷ হল আংটি বদল ও রেজিস্ট্রি৷ গোটা অনুষ্ঠানে যেন উপস্থিত ছিলেন ঐন্দ্রিলা৷ তাঁর ছবি জ্বলজ্বল করছিল৷ সব কিছুর মাঝেই শর্মা পরিবার এই গভীর ক্ষত বয়ে চলছে৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Web-2026-02-04T095233.728-2026-02-f2cd4f05d0179494be5ad12baa43ed5d-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/aindrila-sharma-boyfriend-sabyasachi-chowdhury-still-close-with-sharma-family-attends-dr-aishwarya-sharma-engagement-pbd-2525370.html",
+    "time": "2026-02-04T04:29:28.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "বুধে ইতিহাস তৈরি হবে সুপ্রিম কোর্টে! SIR মামলায় কোর্টে সওয়াল করবেন খোদ মমতা! তাকিয়ে গোটা দেশ",
     "desc": "SIR নিয়ে এবার সুপ্রিম কোর্টের দ্বারস্থ হলেন মমতা বন্দ্যোপাধ্যায়। আগামিকাল, বুধবার ইনপার্সন অ‍্যাপিয়ার করবেন মমতা বন্দ্যোপাধ্যায়। ভারতের নির্বাচন কমিশন ও রাজ্যের মুখ্য নির্বাচনী আধিকারিক বা সিইও-র বিরুদ্ধে আদালতে মামলা দায়ের করেন তৃণমূল নেত্রী মমতা বন্দ্যোপাধ্যায়।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-03-at-11.13.08-PM-2026-02-c89a11613a10eb776a13c7a4fb26ec09-3x2.jpeg",
@@ -853,50 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/national/ajit-pawar-plane-accident-baramati-funeral-today-at-11-am-rmj-ws-l-2517446.html",
     "time": "2026-01-29T07:32:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'গুড মর্নিং, চিনি...'! বারামতী দুর্ঘটনার আগেই প্রিয় দাদীকে Whatsapp! ক্যাপ্টেন শাম্ভাবী পাঠকের দিদাকে পাঠানো শেষ বার্তায় কী ছিল জানেন?",
-    "desc": "বর্তমানে গোয়ালিয়রেই থাকেন শম্ভাবীর দাদি মীরা পাঠক। নাতনি হারিয়ে কার্যত ভগ্নহৃদয়। দুমড়ে-মুচড়ে যাওয়া সেই মন নিয়েই জানালেন, দুর্ঘটনার কয়েক ঘণ্টা আগে, বুধবার সকাল ৬:৩৬ মিনিটে, শম্ভাবী একটি মেসেজ পাঠান দিদাকে। এর কিছুক্ষণ পরেই বিমানে উঠে উড়ে যান শম্ভাবী। আর ফেরেননি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-29-at-09.44.06-2026-01-c935d34eb1aa217624f87dca7ae07a6e-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/captain-shambhavi-pathak-a-whatsapp-message-to-her-beloved-grandmother-just-before-the-baramati-accident-do-you-know-what-was-in-captain-shambhavi-pathaks-last-message-to-her-grandmother-sanj-2517036.html",
-    "time": "2026-01-29T07:19:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "কে এই শাম্ভবী পাঠক? ছিলেন অজিত পওয়ারের বিমানের প্লেনের পাইলট...দুর্ঘটনায় মৃত্যু তাঁরও",
-    "desc": "এনসিপি প্রধান পাওয়ার, তাঁর ব্যক্তিগত নিরাপত্তা কর্মকর্তা বিদিপ যাদব, দুই পাইলট - সুমিত কাপুর এবং শম্ভাবী পাঠক - এবং একজন পরিচারিকা দুর্ঘটনায় মারা গেছেন। আগামী মাসে পুণে এলাকার জেলা পরিষদ নির্বাচন৷ তার আগে পওয়ারের চারটি গুরুত্বপূর্ণ সভা ছিল এলাকায়৷ সেই সমস্ত জনসভায় যোগ দেওয়ার কথা ছিল পওয়ারের।এনসিপি প্রধান পাওয়ার, তাঁর ব্যক্তিগত নিরাপত্তা কর্মকর্তা বিদিপ যাদব, দুই পাইলট - সুমিত কাপুর এবং শম্ভাবী পাঠক - এবং একজন পরিচারিকা দুর্ঘটনায় মারা গেছেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ydne-2026-01-28T153701.984-2026-01-9e59a8ae28b903f722f91c446246d767-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/ajit-pawar-plane-crash-death-who-is-the-pilot-shambhavi-pathak-know-in-details-sta-2515988.html",
-    "time": "2026-01-29T07:06:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "চিকি‍ৎসক হওয়ার স্বপ্ন বড় বালাই! বিশেষ চাহিদাসম্পন্ন পড়ুয়াদের কোটায় MBBS কোর্সে সুযোগ পাওয়ার জন্য নিজেই নিজের পা কেটে ফেললেন যুবক!",
-    "desc": "সুরজ তাঁর বান্ধবীকে পুরো পরিকল্পনাটি জানিয়েছিলেন। ওই তরুণী পুলিশকে জানান যে ঘটনার আগে থেকেই সুরজ অন্যায়ভাবে বিশেষ চাহিদাসম্পন্ন পড়ুয়ার শংসাপত্র পাওয়ার চেষ্টা করছিলেন। যেহেতু এই শংসাপত্র পেতে পুলিশ রিপোর্ট বাধ্যতামূলক, তাই সুরজ তাঁর আক্রমণের বিষয়ে অভিযোগ দায়ের করেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/New-Project-2026-01-564c7329473748f84def77417124617b-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/uttar-pradesh-student-chopped-off-his-own-leg-to-get-a-chance-in-special-quota-in-mbbs-course-arc-2517351.html",
-    "time": "2026-01-29T07:05:17.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ফের ভেঙে পড়ল বিমান, নেতা-সহ বহু মৃত্যু! ল্যান্ডিংয়ের ঠিক আগে রেডার থেকে হঠাৎই উধাও! কেন? ঘনাচ্ছে ঘোর রহস্য...",
-    "desc": "'বিচক্র্যাফ্ট ১৯০০' সাতেনা ফ্লাইটের পরিচালিত এক বিমান। ওসানায় অবতরণের কথা ছিল এর। কিন্তু নির্ধারিত সময়ের কয়েক মিনিট আগেই দুপুর ১২টা ৫ মিনিটে হঠাৎই এয়ার ট্রাফিক কন্ট্রোলের সঙ্গে যোগাযোগ বিচ্ছিন্ন হয়ে যায় এর। তারপর? সে এক ভয়ংকর কাণ্ড। শব্দ, আগুন, ধোঁয়া, আর্তি, রক্ত, মৃত্যু!",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/plane-crashes-in-colombia-killing-15-after-aircraft-disappears-mid-flight-beechcraft-1900_638096.html ",
-    "time": "2026-01-29T06:33:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "চতুর্থ টি২০-তে হারের পর গম্ভীরের ‘ফেভারিট’ এই ক্রিকেটারই এখন সবচেয়ে বড় ভিলেন ! হতাশ ফ্যানরা",
-    "desc": "ম্যাচ হেরে এদিন অদ্ভুত ব্যাখ্যাও দিয়েছেন ভারত অধিনায়ক সূর্যকুমার যাদব। তাঁর কথা শুনে মনে হল, বিশাখাপত্তনমে নিউজিল্যান্ড ভারতকে হারায়নি। ভারত ইচ্ছা করেই হেরেছে। সূর্যের মতে, তাঁরা চ্যালেঞ্জ নিতে চেয়েছিলেন। তাই এ ভাবে খেলেছেন। নইলে অন্য ভাবে খেলত ভারত।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/AP26028616706427-2026-01-b963d1f911395651364163a96d3522c9-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/ind-vs-nz-4th-t20-match-team-india-fans-gets-angry-over-harshit-rana-and-ravi-bishnoi-for-conceding-93-runs-ss-2517068.html",
-    "time": "2026-01-29T05:28:54.000Z"
   }
 ];
