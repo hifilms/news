@@ -6,7 +6,7 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/exclusive-how-dangerous-is-korean-game-how-does-it-take-your-children-lives-what-experts-said-tips-for-parents-463943 ",
-    "time": "2026-02-04T12:17:10.000Z"
+    "time": "2026-02-04T13:15:57.000Z"
   },
   {
     "cat": "Sports",
@@ -583,15 +583,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/arijit-singh-retirement-arijit-singh-career-starting-days-and-last-song-of-arijit-singh-463110 ",
     "time": "2026-01-28T02:40:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "અરિજિત સિંહે પ્લેબેક સિંગિંગમાંથી કેમ લીધો સંન્યાસ, સલમાન ખાન માટે ગાયું છેલ્લું ગીત? જાણો",
-    "desc": "અરિજિત સિંહે છેલ્લા 15 વર્ષના કરિયરમાં એવા અનેક ગીતો આપ્યા છે જે ફેન્સ સતત સાંભળતા રહે છે. જો કે, હવે અરિજીત સિંહના અવાજને પસંદ કરનારાઓના દિલ તૂટવાના છે, કારણ કે બોલિવૂડના ફેવરિટ સિંગરે પ્લેબેક સિંગિંગમાંથી રિટાયરમેન્ટની જાહેરાત કરી દીધી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/arijit-singh-retirement-reason-arijit-singh-announces-retirement-from-playback-singing-last-song-for-salman-khan-463095 ",
-    "time": "2026-01-27T18:04:24.000Z"
   },
   {
     "cat": "Tech",

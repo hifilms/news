@@ -1,6 +1,33 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "সুপ্রিম কোর্টে সওয়াল মমতার, মুখ্যমন্ত্রীকে কী বললেন CJI? দেখুন",
+    "desc": "SIR সংঘাতে সুপ্রিম কোর্টে সওয়াল মমতার। সুপ্রিম কোর্টে আইনজীবীর ভূমিকায় মমতা। নিজের করা মামলায় নিজেই সওয়াল মমতার। একটু পরেই প্রধান বিচারপতির বেঞ্চে মামলার শুনানি শুরু হবে। সুপ্রিম কোর্টে পার্টি ইন পার্সন পিটিশন মুখ্যমন্ত্রীর। তৃণমূলের করা পোস্টে আইনজীবীর পোশাকে মমতা। SIR হয়রানি নিয়ে কমিশন ও CEO-র বিরুদ্ধে মামলা।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Mamata-Banerjee-in-Supreme-Court-2026-02-ff953eaedda516f53c495087a209289a-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/mamata-banerjee-in-supreme-court-hearing-today-what-cji-told-rc-2526541.html",
+    "time": "2026-02-04T15:29:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বাজেটে অষ্টম পে কমিশনে বেতনবৃদ্ধি নিয়ে সত্যিই 'বিগ' কী বলা হয়েছে? জানুন, '১৮ মাসে বছরে'র রহস্য...",
+    "desc": "২০২৬ সালের ১ ফেব্রুয়ারি অর্থমন্ত্রী নির্মলা সীতারমন ২০২৬-২৭ অর্থবর্ষের কেন্দ্রীয় বাজেট পেশ করেছেন। কেন্দ্রীয় সরকারি কর্মচারী এবং পেনশনারদের মধ্যে ৮ম বেতন কমিশন নিয়ে ব্যাপক প্রত্যাশা থাকলেও, এই বাজেটে সেই সংক্রান্ত কোনও বিশেষ বরাদ্দ বা সময়সীমার কথা কিন্তু সেভাবে ঘোষণা করা হয়নি। কেন করা হয়নি?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/8th-pay-commission-is-there-any-new-announcement-on-8th-pay-commission-in-union-budget-2026-here-is-what-we-know_639510.html ",
+    "time": "2026-02-04T14:05:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'শুধু সঞ্চয় নয়, দরকার বিনিয়োগও...' অর্থনৈতিক ক্ষেত্রে আনতে হবে বদল, জানালেন মুকেশ আম্বানি",
+    "desc": "তিনি আরও জানান, 'জিও-ব্ল্যাকরকের প্রধান লক্ষ্য হল সঞ্চয়কারীদের বিনিয়োগকারীতে রূপান্তর করা এবং তাদের এমন সুযোগ দেওয়া, যাতে সঞ্চয়কে সম্পদে পরিণত করা যায়। জিও-ব্ল্যাকরকে আমাদের কাছে সুযোগ হল ভারতীয়দের সঞ্চয়ে উৎসাহিত করা এবং সেই সঞ্চয়কে আয়ে রূপান্তর করার সুযোগ করে দেওয়া।'",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/09/Untitled-design-2025-09-04T230608.077-2025-09-272c29ec45d90366b5726a8c9ab97dec-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/mukesh-ambani-unveils-india-savings-transformation-in-jio-blackrock-fund-rmj-ws-l-2526390.html",
+    "time": "2026-02-04T13:43:47.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "আদালতে কমিশনকে ‘হোয়াটস অ্যাপ কমিশন’ বলে কটাক্ষ, সুপ্রিম কোর্টে বিবাহিত মহিলাদের SIR সমস্যার কথা তুলে ধরলেন মমতা",
     "desc": "প্রতিক্রিয়ায় বিচারপতি জানান, ‘‘এটা হতে পারে না৷’’ মমতা ফের কমিশনের তীব্র সমালোচনা করে কোর্টরুমে দাঁড়িয়ে বলেন, ‘‘এটাই ওরা (নির্বাচন কমিশন) করছে৷ মেয়েরা যাঁরা শ্বশুরবাড়ি গেছে বলে ঠিকানা বদলেছে, তাঁদের নামও বাদ দেওয়া হচ্ছে৷ অনেক সময় গরিব মানুষও বাসা বদল করে৷ কিন্তু, এই লজিকাল ডিসক্রিপেন্সির জন্য (সমস্যা হচ্ছে)৷ ’’",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-04-at-16.16.38-2026-02-bea5237d3353ab94cc98317f94f51376-3x2.jpeg",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/bjp-mla-hiraan-chatterjee-second-marriage-controversy-urges-for-anticipatory-bail-at-high-count-pbd-2518368.html",
     "time": "2026-01-29T18:22:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Zee 24 Ghanta Binodone Sera 24: বোকাবাক্সে বাজিমাত! টেলিভিশনে সেরা শো 'দিদি নম্বর ১'....",
-    "desc": "২৯ জানুয়ারি, বৃহস্পতিবার 'রেড লেটার ডে' বাংলার বিনোদনে। পর্দা উঠল মেগা অ্যাওয়ার্ড শো 'জি ২৪ ঘণ্টা বিনোদনে সেরা ২৪' (Zee 24 Ghanta Binodone Sera 24)-এর। মোট ২৪টি বিভাগে দেওয়া হল সম্মাননা। স্রেফ অভিনেতা-অভিনেত্রীরা নন. পুরস্কৃত করা হল ক্যামেরার",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/didi-no-1-wins-best-non-fiction-show-award-in-zee-24-ghanta-binodone-sera-24_638224.html ",
-    "time": "2026-01-29T18:12:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "থিয়েটার থেকে সিনেমার যাত্রায় দুই মহারথীর বিজয়রথ! সোহিনী সেনগুপ্ত ও ব্রাত্য বসু- কোন সেরার পুরস্কার পেলেন?",
-    "desc": "'জি ২৪ ঘণ্টা বিনোদনে সেরা ২৪' হোস্ট করছে অভিনেতা রুদ্রনীল ঘোষ, পরিচালক সৃজিত মুখোপাধ্যায় ও মডেল-অভিনেত্রী সৌরসেনী মৈত্র। রীতিমতো এদিন দুপুর থেকেই তাঁরা একেবারে রিহার্সাল সেরেছেন। তৈরি হয়েছেন মেগা শোয়ের জন্য়। সেরা সিনেমার সঙ্গেই সেরা অভিনেতা/অভিনেত্রী, সেরা পরিচালকের মনোনয়ন জমা পড়ে গিয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/zee-24-ghanta-binodone-sera-24-best-actor-and-supporting-actor-male-and-female_638223.html ",
-    "time": "2026-01-29T17:52:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ইলিশ-চিংড়ি-পমফ্রেট ধরার ট্রলার তৈরির খরচই কোটি টাকা! জানুন সামুদ্রিক মৎস্য ব্যবসার লাভ-ক্ষতির অঙ্ক",
-    "desc": "সমুদ্রে ইলিশ, চিংড়ি বা পমফ্রেট ধরার ট্রলার তৈরি বেশ ব্যয়বহুল। কাঠের দাম থেকে শুরু করে আধুনিক যন্ত্রপাতির খরচ আকাশছোঁয়া। কিন্তু ঝুঁকি নিয়ে গভীর সমুদ্রে ভাগ্য সহায় হলে লাভের অঙ্ক ছাড়িয়ে যায় সব হিসেব। ট্রলার ব্যবসার খরচ ও উপার্জনের বিস্তারিত জানুন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/fishing-trawler-price-2026-01-aab84e72a3fe1e2e25b1fb2d4035d797-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/fishing-trawler-price-fishing-trawler-construction-cost-and-profit-margin-l18-local18-2517160.html",
-    "time": "2026-01-29T12:42:35.000Z"
   }
 ];
