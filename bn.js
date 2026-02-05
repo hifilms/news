@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "ডিএ মামলায় সুপ্রিম কোর্টের বিরাট রায়...! 'মৌলিক অধিকার নয়', কিন্তু টাকা দিতেই হবে রাজ্যকে! 'সময়সীমা' বেঁধে কমিটি গড়ল কোর্ট",
+    "desc": "রাজ্য সরকারি কর্মচারীদের জন্য বিরাট সুখবর। সুপ্রিম কোর্ট এবার ডিএ নিয়ে দিয়ে দিল বড় নির্দেশ। নির্দেশে সুপ্রিম কোর্ট সরকারি কর্মীদের এখনই ২৫ শতাংশ ডিএ দিয়ে দেওয়ার নির্দেশ দিয়ে দিয়েছে। আগামী ৩১ মার্চের মধ্যে সরকারি কর্মীদের ডিএ দিয়ে দিতে হবে বলেও স্পষ্ট জানিয়েছে আদালত।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/DA-CASE-2026-02-c06256f0b3887eddc91c64b3a18a9140-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/west-bengal/da-case-supreme-court-big-news-for-govt-emplyees-supreme-landmark-verdict-by-the-supreme-court-state-must-pay-the-money-the-court-formed-a-committee-and-set-a-deadline-know-detail-here-sanj-2527047.html",
+    "time": "2026-02-05T06:38:37.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ভারত-বাণিজ্য চুক্তিকে পাত্তাই দিচ্ছে না রাশিয়া! ক্রেমলিনের মন্তব্যে জলের মতো পরিষ্কার সব...দিল্লিকে ভয় দেখাতে পারল না ট্রাম্প",
+    "desc": "ট্রাম্প আরও বলেন, “তিনি রাশিয়ার তেল কেনা বন্ধ করতে সম্মত হয়েছেন এবং যুক্তরাষ্ট্র থেকে, এমনকি সম্ভাব্যভাবে ভেনেজুয়েলা থেকেও অনেক বেশি তেল কিনবেন। এতে ইউক্রেনের যুদ্ধ শেষ করতে সাহায্য হবে, যেখানে এই মুহূর্তে প্রতি সপ্তাহে হাজার হাজার মানুষ মারা যাচ্ছে।”",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-05-at-10.02.14-2026-02-017d980ddb19f2ce8419646d7354513f-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/international/indo-us-deal-india-free-to-buy-oil-from-any-country-russia-reaction-on-new-delhis-energy-purchase-decision-sta-2526885.html",
+    "time": "2026-02-05T06:33:26.000Z"
+  },
+  {
     "cat": "Business",
     "title": "রাজ্য বাজেট পেশ আজ, কী কী চমক থাকবে...? কখন পেশ হবে বাজেট? রইল জরুরি আপডেট!",
     "desc": "সপ্তদশ বিধানসভার বাজেট অধিবেশন আজ। ছাব্বিশের বিধানসভা ভোটের আগে শেষ বাজেট পেশ হতে চলেছে আজ। ২০২১ সালের মতো, ২০২৬ সালেও বাজেট পেশ হচ্ছে ৫ ফেব্রুয়ারিতে। আজ রাজ্য বাজেটে নজরে থাকবে লক্ষ্মীর ভাণ্ডারের মতো একাধিক সরকারি প্রকল্প সংক্রান্ত প্রতিশ্রুতির দিকে।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/ladies-will-have-menstrual-leave-in-karnataka-govt-offices-know-who-is-eligible-office-holiday-policy-tib-ws-l-2518809.html",
     "time": "2026-01-30T07:58:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "\"মিথ্য বারবার বললে তা TRP হয়, সত্য হয় না!\" বনগাঁর ঘটনায় তন্ময় শাস্ত্রী গ্রেফতারের পর বিস্ফোরক মিমি চক্রবর্তী",
-    "desc": "অভিনেত্রী জোর গলায় আবার বলেন যে তাঁকে নিয়ে দেরি করে যাওয়ার যে অভিযোগ উঠছে তা পুরোপুরি রটনা৷ তারকারা 'লেট' করেন, এটি একটি প্রচলিত ধারণা, যা তাঁর ক্ষেত্রে কখনও ঠিক নয়৷ তিনি নারীদের অসম্মান করার জন্য বারবার প্রতিবাদ করেছেন এবং নিজের ক্ষেত্রে তিনি যে মিথ্যের বিরুদ্ধে লড়বেন, সেটাই স্বাভাবিক৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/09/mimi-2025-09-8ae78f84e8ead72b3ee3ce506a7c1f5d-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/actress-mimi-chakraborty-says-that-she-has-always-fought-for-dignity-and-truth-after-tanay-shastri-arrest-pbd-2518409.html",
-    "time": "2026-01-29T19:12:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "সেরা ক্রিয়েটর-ইনফ্লুয়েন্সার হিসেবে সম্মানিত শমীক অধিকারী...",
-    "desc": "বাংলা সংস্কৃতি এবং বিনোদন জগতের সেরাদের সম্মানিত করতে ‘জি ২৪ ঘণ্টা’ আয়োজন করেছিল তাদের বার্ষিক ফ্ল্যাগশিপ অনুষ্ঠান ‘বিনোদনে সেরা ২৪’। চলচ্চিত্র, ওটিটি, টেলিভিশন এবং সঙ্গীতের পাশাপাশি এ বছর ডিজিটাল জগতের সৃজনশীল প্রতিভাদেরও বিশেষ গুরুত্ব দেওয়া হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/shamik-adhikary-got-best-influencer-award-in-binodone-sera-24_638228.html ",
-    "time": "2026-01-29T18:58:42.000Z"
   }
 ];

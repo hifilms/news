@@ -1,12 +1,156 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "In his maiden speech at Rajya Sabha, Kamal Haasan calls SIR a ‘disease giving rise to many living dead’",
+    "desc": "Finance Minister Nirmala Sitharaman, referring to Mr. Hassan’s statement alleging that she had used derogatory words about the Tamil language in 2025, clarified that she had quoted Periyar E.V. Ramasamy Naicker and it was not her views.",
+    "img": "https://th-i.thgim.com/public/incoming/jei8mk/article70593127.ece/alternates/LANDSCAPE_1200/PTI02_04_2026_000278B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/kamal-haasan-maiden-speech-in-rajya-sabha-special-intensive-revision-a-disease-giving-rise-to-many-living-dead/article70592787.ece",
+    "time": "2026-02-05T06:46:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Sentimental Value’, ‘Sirat’ and ‘Hamnet’ headline Red Lorry Film Festival’s international showcase",
+    "desc": "Fresh from major Oscar and BAFTA recognition, Sentimental Value, Sirat and Hamnet will lead the Red Lorry Film Festival’s Global Awards Showcase, bringing some of the most acclaimed international films of the year to Mumbai in March 2026.",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/mmivym/article70594657.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/sentimental-value-sirat-and-hamnet-headline-red-lorry-film-festivals-international-showcase/article70594663.ece",
+    "time": "2026-02-05T06:36:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sabrina Carpenter's hilarious experience during Grammys",
+    "desc": "At the 2026 Grammy Awards, Sabrina Carpenter took the stage as a stylish airline pilot, but the performance took a quirky twist when a dove, part of her act, decided to drop a surprise on her hand.",
+    "img": "https://static.toiimg.com/photo/msid-127925616,imgsize-54510.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/all-about-sabrina-carpenters-hilarious-experience-during-the-grammy-performance-with-an-unexpected-drop/articleshow/127925616.cms",
+    "time": "2026-02-05T06:30:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Is egg freezing only for married women?",
+    "desc": "Egg freezing in India is increasingly seen as a fertility preservation choice for all women, not just the married. Experts emphasize it empowers women to plan their reproductive future independently, offering flexibility to pursue careers and education without biological clock pressure. This proactive step is gaining traction among unmarried women, promoting informed decisions beyond societal norms.",
+    "img": "https://static.toiimg.com/photo/msid-127925452,imgsize-337563.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/is-egg-freezing-only-for-married-women/articleshow/127925464.cms",
+    "time": "2026-02-05T06:25:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Is Shanaya and Adarsh's starrer a remake?",
+    "desc": "Bejoy Nambiar’s 'Tu Yaa Main', starring Shanaya Kapoor and Adarsh Gourav, is a survival thriller inspired by the 2018 Thai film The Pool. Releasing on February 13 alongside O Romeo, the film features real crocodile sequences and follows two content creators whose romantic trip turns terrifying when they’re trapped with a crocodile.",
+    "img": "https://static.toiimg.com/photo/msid-127925247,imgsize-26892.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tu-yaa-main-is-shanaya-kapoor-and-adarsh-gouravs-starrer-a-remake-of-this-thai-thriller-director-bejoy-nambiar-clarifies/articleshow/127925247.cms",
+    "time": "2026-02-05T06:11:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mahomes on Taylor's fiancé, Travis's, retirement rumor",
+    "desc": "Patrick Mahomes has set the record straight regarding his recent social media buzz, clarifying that his excitement stemmed from Travis Kelce's golf prowess, not imminent retirement. Amidst the chatter of a potential wedding with Taylor Swift, Kelce's priority is still the game, especially with a big contract decision looming on the horizon.",
+    "img": "https://static.toiimg.com/photo/msid-127925045,imgsize-51462.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/is-travis-kelce-really-retiring-ahead-of-his-wedding-to-taylor-swift-teammate-patrick-mahomes-reveals-the-truth/articleshow/127925015.cms",
+    "time": "2026-02-05T06:01:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘How I Met Your Mother's' Josh Radnor welcomes first child",
+    "desc": "‘How I Met Your Mother’ star Josh Radnor and wife Jordana Jacobs have welcomed their first child, a baby boy, a few months ago. The 51-year-old actor shared the joyous news on social media, posting heartwarming pictures and detailing his son's adorable traits, including his reaction to guitar music. Radnor expressed his gratitude for the new parenthood journey.",
+    "img": "https://static.toiimg.com/photo/msid-127925000,imgsize-74380.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/how-i-met-your-mother-star-josh-radnor-and-wife-jordana-jacobs-welcome-their-first-baby/articleshow/127925000.cms",
+    "time": "2026-02-05T05:59:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "The real torch-bearers of Kashmir: Snow Leopards prepare for IFL in sub-zero conditions",
+    "desc": "Real Kashmir FC, a symbol of resilience in Indian football, faces logistical and financial hurdles as the I-League season approaches. Owner Arshad Shawl highlights systemic issues and a lack of contingency plans following the withdrawal of private support. Despite challenges, the club remains committed to local talent and youth development, aiming to showcase Kashmir positively through football.",
+    "img": "https://static.toiimg.com/photo/msid-127924781,imgsize-78958.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/the-real-torch-bearers-of-kashmir-snow-leopards-prepare-for-ifl-in-sub-zero-conditions/articleshow/127924730.cms",
+    "time": "2026-02-05T05:52:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold, silver price prediction today: Gold, silver on track for gains? Here's the outlook",
+    "desc": "Gold and silver prices have resumed their upward momentum after the recent crash, signalling bullish momentum, says Abhilash Koikkara, Head - Forex & Commodities, Nuvama Professional Clients Group. He shares his views on gold and silver:",
+    "img": "https://static.toiimg.com/photo/msid-127922346,imgsize-43512.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-prediction-today-what-is-the-gold-rate-outlook-for-february-05-2026-should-you-buy-or-sell-mcx-gold-mcx-silver/articleshow/127922328.cms",
+    "time": "2026-02-05T05:45:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Govinda's wife Ssunita is set to make her Bollywood debut",
+    "desc": "Sunita Ahuja, known as Govinda's wife, is stepping into the cinematic world with her first film produced by the renowned Ektaa Kapoor. Taking on a substantial role, she’ll be shooting for about 20 days. This announcement comes hot on the heels of her revealing comments about her marriage and the couple’s previous public denials regarding any relationship struggles.",
+    "img": "https://static.toiimg.com/photo/msid-127924378,imgsize-34864.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govindas-wife-sunita-ahuja-is-set-to-make-her-bollywood-debut-signs-her-first-film/articleshow/127924378.cms",
+    "time": "2026-02-05T05:26:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jisoo unveils 'Boyfriend On Demand' trailer",
+    "desc": "BLACKPINK's Jisoo unveiled a charming trailer for her new rom-com, 'Boyfriend on Demand,' co-starring Seo In-guk. The series, premiering March 6, explores a virtual dating service where Jisoo's character, Mirae, finds love amidst fantasy and reality. Fans are buzzing about the sneak peek, especially a captivating kiss scene.",
+    "img": "https://static.toiimg.com/photo/msid-127923724,imgsize-9502.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/boyfriend-on-demand-trailer-jisoo-and-seo-in-guk-explore-love-online-fans-react-to-blackpink-stars-on-screen-kiss/articleshow/127923633.cms",
+    "time": "2026-02-05T05:21:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Fourth-time lucky for DC? Jemimah set for key role as Mandhana’s RCB await in WPL final",
+    "desc": "Jemimah Rodrigues has transformed into a commanding Delhi Capitals captain, leading her team to the WPL final after a shaky start. Despite RCB's league-stage dominance and final experience, the Capitals, with their in-form batting unit and resilient captain, arrive with significant momentum for the summit showdown.",
+    "img": "https://static.toiimg.com/photo/msid-127924308,imgsize-166448.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/fourth-time-lucky-for-delhi-capitals-jemimah-set-for-key-role-again-as-mandhanas-rcb-await-in-wpl-final/articleshow/127924282.cms",
+    "time": "2026-02-05T05:18:19.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Man who tried to shoot Trump at Florida golf course gets life in prison",
+    "desc": "U.S. District Judge Aileen Cannon pronounced Ryan Routh's fate in the same Fort Pierce courtroom that erupted into chaos in September when he tried to stab himself shortly after jurors found him guilty on all counts",
+    "img": "https://th-i.thgim.com/public/incoming/9k1zd2/article70594177.ece/alternates/LANDSCAPE_1200/2026-02-04T154622Z_450350951_RC2O1AAT2OG7_RTRMADP_3_USA-TRUMP-ASSASSINATION-SUSPECT.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/man-who-tried-to-shoot-trump-at-florida-golf-course-gets-life-in-prison/article70594176.ece",
+    "time": "2026-02-05T05:07:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee inches 7 paise to reach 90.40 against US dollar",
+    "desc": "The Indian rupee opened marginally higher at 90.45 against the US dollar on Thursday, recovering slightly after a dip in the previous session. Mixed market sentiment prevails as traders await official confirmation of the India-US trade deal, with crude oil price volatility also influencing currency movements.",
+    "img": "https://static.toiimg.com/photo/msid-127924105,imgsize-2294904.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-inches-7-paise-to-reach-90-40-against-us-dollar/articleshow/127923619.cms",
+    "time": "2026-02-05T05:02:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's blueprint falls in place: The key takeaways from New Zealand series",
+    "desc": "India's dominant 4-1 T20I series win against New Zealand brought clarity to their World Cup plans. Suryakumar Yadav rediscovered his form, while Ishan Kishan and Shivam Dube made explosive returns. Rinku Singh showcased his allround value, and the bowling attack, featuring Bumrah and Chakravarthy, solidified its blueprint.",
+    "img": "https://static.toiimg.com/photo/msid-127923972,imgsize-143850.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/indias-blueprint-falls-in-place-the-key-takeaways-from-new-zealand-series/articleshow/127923933.cms",
+    "time": "2026-02-05T04:55:12.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "UK aviation regulator seeks explanation from Air India over the Boeing fuel switch issue",
     "desc": "The UK's aviation regulator has requested information from Air India regarding maintenance on a Boeing 787 after a fuel control switch issue was reported in London. While Air India conducted precautionary checks and found no further issues, an NGO has lodged a complaint, urging the Aircraft Accident Investigation Bureau to secure evidence and maintain its independence.",
     "img": "https://static.toiimg.com/photo/msid-127923612,imgsize-601845.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/uk-aviation-regulator-seeks-explanation-from-air-india-over-the-boeing-fuel-switch-issue/articleshow/127923611.cms",
     "time": "2026-02-05T04:32:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar 2' OTT rights get sold for MASSIVE amount",
+    "desc": "The Revenge' has made waves with a staggering Rs 150 crore OTT deal, nearly twice the figure from its predecessor. This impressive agreement not only underscores the film's popularity but also showcases the hunger for more content from its fanbase.",
+    "img": "https://static.toiimg.com/photo/msid-127923509,imgsize-39986.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-ott-rights-get-sold-for-rs-150-crore-makers-strike-massive-digital-deal/articleshow/127923509.cms",
+    "time": "2026-02-05T04:27:39.000Z"
   },
   {
     "cat": "Business",
@@ -45,6 +189,15 @@ const newsData_en = [
     "time": "2026-02-05T03:57:55.000Z"
   },
   {
+    "cat": "Business",
+    "title": "Nifty50 opens in red; BSE Sensex down over 150 points",
+    "desc": "Indian stock markets opened lower today, with Nifty50 and BSE Sensex experiencing declines. While IT stocks faced a sell-off due to automation fears, domestic consumption-driven sectors showed resilience. Analysts remain cautiously optimistic, awaiting FII buying trends and positive impacts from recent trade deals and budget announcements.",
+    "img": "https://static.toiimg.com/photo/msid-127922846,imgsize-104856.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-february-05-2026-dalal-street-indian-equities-india-us-trade-deal-rbi-policy/articleshow/127922828.cms",
+    "time": "2026-02-05T03:48:45.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Injury scare for India before T20 WC as young pacer limps off during warm-up clash",
     "desc": "Team India faces a worrying injury blow as pacer Harshit Rana limped off during a T20 World Cup warm-up against South Africa. This adds to concerns over Washington Sundar's fitness just before the tournament begins. Despite this, Tilak Varma impressed with an all-round performance, and India secured a 30-run victory.",
@@ -55,7 +208,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Shashi Throor’s son Ishaan among staff sacked by Washington Post; pens sombre note",
+    "title": "The Washington post fires around 300 employees, scales back global reporting",
     "desc": "The Washington Post has undergone significant layoffs, impacting a substantial portion of its workforce, including foreign affairs columnist Ishaan Tharoor and numerous international correspondents. This restructuring drastically curtails the newspaper's global coverage, leading to the closure of bureaus and the elimination of key sections. The move has drawn sharp criticism from former editors and staff.",
     "img": "https://static.toiimg.com/photo/msid-127922864,imgsize-234699.cms",
     "src": "indiatimes.com",
@@ -162,15 +315,6 @@ const newsData_en = [
     "time": "2026-02-05T01:57:01.000Z"
   },
   {
-    "cat": "World",
-    "title": "Man who tried to shoot Trump at Florida golf course gets life in prison",
-    "desc": "U.S. District Judge Aileen Cannon pronounced Ryan Routh's fate in the same Fort Pierce courtroom that erupted into chaos in September when he tried to stab himself shortly after jurors found him guilty on all counts",
-    "img": "https://th-i.thgim.com/public/incoming/9k1zd2/article70594177.ece/alternates/LANDSCAPE_1200/2026-02-04T154622Z_450350951_RC2O1AAT2OG7_RTRMADP_3_USA-TRUMP-ASSASSINATION-SUSPECT.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/man-who-tried-to-shoot-trump-at-florida-golf-course-gets-life-in-prison/article70594176.ece",
-    "time": "2026-02-05T01:41:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Rodrigues-led DC desperate to break jinx; Mandhana's RCB eye another title",
     "desc": "Royal Challengers Bengaluru face Delhi Capitals in the Women's Premier League final. Smriti Mandhana's RCB seeks a second title, matching Mumbai Indians. Delhi Capitals, led by Jemimah Rodrigues, aims for their first championship after three runner-up finishes. Both teams have seen key player contributions throughout the season.",
@@ -253,24 +397,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'The Raja Saab' BO day 27: Prabhas film winds up with Rs 2 lakh",
-    "desc": "Prabhas' 'The Raja Saab' is concluding its theatrical run with minimal earnings, collecting just Rs 1-2 lakh daily in its final days. Despite a worldwide gross of Rs 208.38 crore, the Hindi version saw a disappointing performance. The film premieres on OTT on February 6 in multiple languages, notably excluding Hindi.",
-    "img": "https://static.toiimg.com/photo/msid-127921230,imgsize-66962.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-raja-saab-box-office-collections-day-27-prabhas-film-winds-up-with-rs-2-lakh-ahead-of-ott-release/articleshow/127921230.cms",
-    "time": "2026-02-05T00:21:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Parasakthi' BO day 26: SK film makes only Rs 2 lakhs",
-    "desc": "Sivakarthikeyan's 'Parasakthi' is nearing its ZEE5 OTT release on February 7, 2026, after a slow box office run. The film, praised for Sivakarthikeyan's powerful, unconventional role as revolutionary Che, has garnered Rs 52.4 crore net in India and Rs 84.84 crore worldwide. Sreeleela also marks her Tamil debut. The shift to digital is now the main focus.",
-    "img": "https://static.toiimg.com/photo/msid-127921161,imgsize-58776.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parasakthi-box-office-collections-day-26-sivakarthikeyan-film-makes-only-rs-2-lakhs-as-ott-release-nears/articleshow/127921161.cms",
-    "time": "2026-02-05T00:03:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Film nears Rs 300 cr amid drop",
     "desc": "'Border 2' emerges as the anticipated follow-up to the 1997 classic, receiving a blend of praise and critique while launching successfully on Republic Day. Although it faced a slight drop in momentum, the film has nonetheless soared at the box office. Read the full report to know more in detail.",
     "img": "https://static.toiimg.com/photo/msid-127921155,imgsize-33814.cms",
@@ -349,51 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/ed-achieved-95-conviction-rate-in-pmla-cases-govt/articleshow/127919919.cms",
     "time": "2026-02-04T22:46:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC flags undervaluation, sham auctions under IBC, seeks probe",
-    "desc": "Senior advocate Mukul Rohatgi, appearing for Anil Ambani group, said such a sale was a public process, whether the buyer was a brother or anyone else. But the CJI-led bench said, “Unfortunately, IBC proceedings are misused nowadays. The assets of a company in debt are undervalued. Then it is put on a sham auction and, in a planned manner, a family member or a friend buys it.”",
-    "img": "https://static.toiimg.com/photo/msid-127920736,imgsize-138692.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sc-flags-undervaluation-sham-auctions-under-ibc-seeks-probe/articleshow/127920634.cms",
-    "time": "2026-02-04T22:46:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shraddha broke down during Siddhanth drug case",
-    "desc": "Shraddha Kapoor and her family have faced public scrutiny more than once, and in a recent interview, her aunt Tejaswini Kolhapure opened up about one of the most difficult phases they went through. Speaking about the drug bust case that led to Siddhanth Kapoor’s arrest, Tejaswini said the incident deeply affected the family, especially Shraddha. She maintained that Siddhanth, son of Shakti Kapoor, was “absolutely clean” and had simply landed in trouble due to circumstance.",
-    "img": "https://static.toiimg.com/photo/msid-127920000,imgsize-68386.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shraddha-kapoor-broke-down-as-slogans-were-raised-outside-her-home-during-siddhanth-kapoor-drug-case-recalls-aunt-tejaswini-kolhapure/articleshow/127919806.cms",
-    "time": "2026-02-04T22:28:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Zayn's album to have Indian influence",
-    "desc": "Zayn Malik unveiled his fifth album, 'KONNAKOL', set for April 17th release, featuring a new track 'Die for Me' on February 6th. The album deeply explores his South Asian heritage, with 'Konnakol' referring to vocal percussion. The cover art prominently displays a snow leopard, a significant South Asian symbol, underscoring his roots.",
-    "img": "https://static.toiimg.com/photo/msid-127918963,imgsize-19060.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/zayn-malik-announces-fifth-studio-album-konnakol-fans-spot-indian-music-influence/articleshow/127918663.cms",
-    "time": "2026-02-04T22:01:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "After Arijit's exit, Abhijeet says ‘singers get exploited a lot’",
-    "desc": "Arijit Singh’s decision to step away from playback singing has reignited long-standing questions about how singers are treated and paid in the film industry. As fans and industry insiders grapple with the loss of one of Hindi cinema’s most influential voices, concerns have also surfaced about the fate of artists with far less power and visibility. Against this backdrop, singer Abhijeet Sawant has spoken candidly about remuneration, royalties, and the systemic exploitation of playback singers.",
-    "img": "https://static.toiimg.com/photo/msid-127918952,imgsize-62688.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-arijit-singh-quits-playback-singing-abhijeet-sawant-says-singers-get-exploited-a-lot-we-dont-even-get-enough-money/articleshow/127918946.cms",
-    "time": "2026-02-04T21:54:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ramba Ho fame Kalpana Iyer reveals why she quit acting",
-    "desc": "Kalpana Iyer, who recently returned to the spotlight after a video of her dancing to her iconic 1981 song Ramba Ho went viral, has opened up about why she stepped away from the entertainment industry. In a recent interview, Kalpana said her decision was driven by dissatisfaction with the work coming her way.",
-    "img": "https://static.toiimg.com/photo/msid-127918658,imgsize-42778.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramba-ho-fame-kalpana-iyer-reveals-why-she-quit-acting-i-wasnt-happy-with-the-kind-of-work-i-was-getting/articleshow/127918648.cms",
-    "time": "2026-02-04T21:23:27.000Z"
   },
   {
     "cat": "Sports",
@@ -495,15 +576,6 @@ const newsData_en = [
     "time": "2026-02-04T19:59:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "In his maiden speech in Rajya Sabha, Kamal Haasan calls Special Intensive Revision a ‘disease giving rise to many living dead’",
-    "desc": "Finance Minister Nirmala Sitharaman, referring to Mr. Hassan’s statement alleging that she had used derogatory words about the Tamil language in 2025, clarified that she had quoted Periyar E.V. Ramasamy Naicker and it was not her views.",
-    "img": "https://th-i.thgim.com/public/incoming/jei8mk/article70593127.ece/alternates/LANDSCAPE_1200/PTI02_04_2026_000278B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/kamal-haasan-maiden-speech-in-rajya-sabha-special-intensive-revision-a-disease-giving-rise-to-many-living-dead/article70592787.ece",
-    "time": "2026-02-04T18:02:26.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Fans thrilled as Kaikini shares words of wisdom with a touch of humour",
     "desc": "Writer Jayant Kaikini spoke at the 17th Bengaluru International Film Festival, serving up a mix of laughs and wisdom. He opened up about the quirky challenges of writing love songs and what it really means to tell a story on screen",
@@ -558,15 +630,6 @@ const newsData_en = [
     "time": "2026-02-04T16:00:32.000Z"
   },
   {
-    "cat": "Business",
-    "title": "If India stops buying Russian oil, what it could mean for Russia’s revenues — explained",
-    "desc": "US President Trump's push for India to reduce Russian oil imports could significantly impact Moscow's revenue, potentially forcing price cuts. Recent data shows a notable decline in Indian purchases, with further reductions anticipated due to refinery maintenance and limited alternative buyers like China. While India cites energy security, geopolitical pressures and alternative supply options are reshaping global oil flows.",
-    "img": "https://static.toiimg.com/photo/msid-127914108,imgsize-1066354.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/if-india-stops-buying-russian-oil-what-it-could-mean-for-russias-revenues-explained/articleshow/127914097.cms",
-    "time": "2026-02-04T15:58:50.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Kerala to fund ₹1,900 crore for Sabari rail project",
     "desc": "Cabinet decides that the State will bear 50% of the cost of the Angamaly–Erumely Sabari Railway Project and raise its share through the Kerala Infrastructure Investment Fund Board. The project — first proposed in the 1997-98 Railway Budget — has finally been set in motion after a hiatus of nearly three decades.",
@@ -576,15 +639,6 @@ const newsData_en = [
     "time": "2026-02-04T15:42:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "School health programme for holistic health, well being of students",
-    "desc": "Aksharam Arogyam programme will cover all students from Classes I to XII in all government and aided schools across the State. Health department believes that if children are given proper awareness on various aspects of health and if they can be encouraged to develop healthy habits, they will become ambassadors of good health",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/school-health-programme-for-holistic-health-well-being-of-students/article70592512.ece",
-    "time": "2026-02-04T15:22:24.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Getting better day by day': Pant offers positive update on comeback",
     "desc": "Rishabh Pant is recovering well and is optimistic about returning to cricket soon. He is working hard at the BCCI Centre of Excellence. Pant emphasizes the importance of his love for the game and support from others during his recovery. He believes in continuous improvement as an athlete.",
@@ -592,6 +646,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/getting-better-day-by-day-rishabh-pant-offers-positive-update-on-comeback/articleshow/127912044.cms",
     "time": "2026-02-04T14:07:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-US trade deal decoded: What does it mean for economy, markets &amp; Russian oil imports? Explained in 10 charts",
+    "desc": "India and the US have announced a framework for a bilateral trade deal to strengthen trade ties, under which the US will cut tariffs on Indian goods to 18% from 50%. The Centre has clarified that agriculture and dairy remain protected, while sectors such as textiles, leather and gems may benefit.",
+    "img": "https://static.toiimg.com/photo/msid-127912116,imgsize-70446.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-decoded-what-does-it-mean-for-economy-markets-russian-oil-imports-explained-in-10-charts/articleshow/127911573.cms",
+    "time": "2026-02-04T14:07:00.000Z"
   },
   {
     "cat": "Sports",
@@ -658,30 +721,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Where to watch in India, date, time, key events and sports list",
-    "desc": "Milano Cortina 2026 Winter Olympics begin February 6 in Northern Italy. Athletes compete in 16 disciplines across multiple venues. India sends two athletes, Arif Mohammad Khan and Stanzin Lundup. Key medal events include alpine skiing, figure skating, and ice hockey. Ski mountaineering debuts. The Games conclude February 22 with the men’s ice hockey final and Closing Ceremony.",
-    "img": "https://static.toiimg.com/photo/msid-127907138,imgsize-257244.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/winter-olympics-2026-where-to-watch-in-india-date-time-key-events-and-sports-list/articleshow/127907178.cms",
-    "time": "2026-02-04T10:36:20.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Dhoni backs 'Ro-Ko' to continue; says India will be dangerous at T20 World Cup",
     "desc": "Dhoni said \"For me, age is not a criteria, performance, fitness these are criteria. I always feel nobody should be told anything. But things should be clear that everyone will be treated the same way.”",
     "img": "https://th-i.thgim.com/public/incoming/jjm9ur/article70591173.ece/alternates/LANDSCAPE_1200/IMG_MS_Dhoni_with_Mumbai_2_1_CGB6OMML.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/dhoni-backs-ro-ko-to-continue-says-india-will-be-dangerous-at-t20-world-cup/article70591155.ece",
     "time": "2026-02-04T10:15:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'When I don’t bowl well, I can bat': England all-rounder on his role ahead of T20 WC",
-    "desc": "Sam Curran shows great flexibility for England's T20 World Cup campaign. He delivered key performances with bat and ball against Sri Lanka. Curran's ability to adapt his role, whether batting or bowling, makes him a vital player. His growth, boosted by franchise cricket, positions him as a key asset for England's ambitions.",
-    "img": "https://static.toiimg.com/photo/msid-127906411,imgsize-136444.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/when-i-dont-bowl-well-i-can-bat-england-all-rounder-on-his-role-ahead-of-t20-world-cup/articleshow/127906428.cms",
-    "time": "2026-02-04T10:09:07.000Z"
   },
   {
     "cat": "Sports",
@@ -819,15 +864,6 @@ const newsData_en = [
     "time": "2026-02-03T17:38:52.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Willow by Cricbuzz to stream Team USA T20 WC matches free on YouTube",
-    "desc": "Willow by Cricbuzz has announced major updates for the 2026 season, including free streaming of all four Team USA matches at the ICC Men’s T20 World Cup on YouTube for the first time. The platform has also partnered with Jomboy Media for creator-led alternate telecasts and unveiled a revamped, faster viewing experience across its apps and devices.",
-    "img": "https://static.toiimg.com/photo/msid-127899686,imgsize-11296.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/willow-by-cricbuzz-to-stream-team-usa-t20-world-cup-2026-matches-free-on-youtube/articleshow/127890058.cms",
-    "time": "2026-02-03T16:49:44.000Z"
-  },
-  {
     "cat": "World",
     "title": "Images of Zohran Mamdani and his mother Mira Nair with Jeffrey Epstein are AI-generated",
     "desc": "The images originated on an X account labelled as parody after a huge tranche of new Epstein files was released by the Justice Department. They are clearly watermarked as AI and other elements they contain do not add up.",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/cuba-confirms-communications-with-us-but-says-no-negotiations-yet/article70585893.ece",
     "time": "2026-02-03T03:28:05.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Drone attack targets strategic northeast Congo city, authorities say, blaming M23",
-    "desc": "The government of ⁠Tshopo province, where Kisangani is located, said in a statement on Sunday (February 1, 2026) that the drones attempted to strike Bangoka International Airport between ​early Saturday (January 31, 2026) and early Sunday (February 1, 2026) ⁠but were shot down before reaching their target",
-    "img": "https://th-i.thgim.com/public/incoming/gg8sbr/article70468492.ece/alternates/LANDSCAPE_1200/2025-12-11T194833Z_458289501_RC2DEIAWK9L4_RTRMADP_3_CONGO-SECURITY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/drone-attack-targets-strategic-northeast-congo-city-authorities-say-blaming-m23/article70585089.ece",
-    "time": "2026-02-03T02:25:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Uzbekistan's Abdusattorov wins Tata Steel Masters title, Gukesh best Indian at joint eighth",
-    "desc": "Gukesh drew with Vincent Keymer of Germany in the final round to end as the top performing Indian on 6.5 points. But, his fifty per cent score was below par and the Indian ace slipped below the 2750 rating mark",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/uzbekistans-abdusattorov-wins-tata-steel-masters-title-gukesh-best-indian-at-joint-eighth/article70584839.ece",
-    "time": "2026-02-02T19:23:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tilak Varma makes solid 38, Jagadeesan's ton shines in India A's win over USA in warm-up game",
-    "desc": "Priyansh Arya (28 in 13 balls, with four boundaries and two sixes) played a fiery cameo to start the innings with a 43-run stand with Jagadeesan, who went on to make 104 in 55 balls, with 11 fours and five sixes",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/tilak-varma-makes-solid-38-jagadeesans-ton-shines-in-india-as-win-over-usa-in-warm-up-game/article70584831.ece",
-    "time": "2026-02-02T19:03:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rise in southern States’ share in devolution of funds provides no relief to Tamil Nadu",
-    "desc": "The share of Tamil Nadu, which was 4.079% in the 15th FC, rose to 4.097% now, accounting for a rate of increase of only 0.44%; as part of horizontal devolution, the weights assigned to the criteria of area, demographic performance and per-capita GSDP (Gross State Domestic Product) have reduced affecting States like T.N and Kerala",
-    "img": "https://th-i.thgim.com/public/incoming/f9g835/article70584821.ece/alternates/LANDSCAPE_1200/vjkvg-budget%204.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/rise-in-southern-states-share-in-devolution-of-funds-provides-no-relief-to-tamil-nadu/article70583725.ece",
-    "time": "2026-02-02T18:54:00.000Z"
   }
 ];

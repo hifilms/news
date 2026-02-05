@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Team India's record in T20 World Cup history",
+    "desc": "The stage is set for the upcoming edition of the T20 World Cup 2026. The marquee tournament is being co-hosted by India and Sri Lanka and is slated to begin on February 7. This will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/2007-to-2024-team-india-s-record-in-t20-world-cup-history-2026-02-05-1028996",
+    "time": "2026-02-05T06:21:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Smriti Mandhana eyes Ellyse Perry's RCB record in WPL final against Delhi Capitals",
+    "desc": "Royal Challengers Bengaluru and Delhi Capitals are set to face each other in the final of the Women's Premier League (WPL) today at the Kotambi Stadium in Vadodara. Smriti Mandhana is leading RCB for the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-eyes-ellyse-perry-s-rcb-record-in-wpl-final-against-delhi-capitals-2026-02-05-1028990",
+    "time": "2026-02-05T05:41:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch RCB vs DC clash live on TV and streaming in India?",
+    "desc": "The fourth edition of the Women's Premier League (WPL) is set conclude today with the Royal Challengers Bengaluru and Delhi Capitals locking horns today in the final of the season ast the Kotambi Stadium in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wpl-final-live-when-and-where-to-watch-rcb-vs-dc-clash-live-on-tv-and-streaming-in-india-2026-02-05-1028986",
+    "time": "2026-02-05T05:00:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "T20 World Cup warm-up schedule: Australia, New Zealand to gear up for tournament today",
     "desc": "The 10th edition of the T20 World Cup is set to get underway on February 7, and the participating teams are gearing up for the tournament with the warm-up games. As many as eight teams...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/marc-guehi-explains-motivation-behind-joining-manchester-city-what-he-brings-to-pep-guardiola-s-side-2026-02-04-1028937",
     "time": "2026-02-04T17:48:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India submits bid to host AFC Asian Cup 2031, to compete against five other bidders",
-    "desc": "India has re-entered the race to host Asia’s flagship international football event, with the Asian Football Confederation confirming the country as one of six bidders for the 2031 AFC Asian Cup. The announcement marks a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/india-submits-bid-to-host-afc-asian-cup-2031-to-compete-against-five-other-bidders-2026-02-04-1028935",
-    "time": "2026-02-04T17:24:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India make light work of South Africa in final dress rehearsal before T20 World Cup 2026",
-    "desc": "India emerged victorious in their final dress rehearsal before the T20 World Cup 2026 as they defeated South Africa in their warm-up clash at the Dr DY Patil Sports Academy, Navi Mumbai on Wednesday, February...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-make-light-work-of-south-africa-in-final-dress-rehearsal-before-t20-world-cup-2026-2026-02-04-1028934",
-    "time": "2026-02-04T17:17:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What worries MS Dhoni as India eye T20 World Cup title defence?",
-    "desc": "India head into the T20 World Cup 2026 as one of the leading favourites, backed not only by reputation but by a run of explosive performances in the shortest format. With scoring rates soaring and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-worries-ms-dhoni-as-india-eye-t20-world-cup-title-defence-2026-02-04-1028930",
-    "time": "2026-02-04T16:31:54.000Z"
   }
 ];
