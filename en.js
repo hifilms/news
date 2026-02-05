@@ -1,12 +1,129 @@
 const newsData_en = [
   {
-    "cat": "Politics",
-    "title": "Opposition slams Tamil Nadu Minister’s remarks on North Indian migrant workers",
-    "desc": "The comments drew a sharp rebuke from the BJP, which accused the ruling DMK of inciting hatred; AIADMK calls remarks ‘highly condemnable’; DMK defended the Minister, claiming he was contrasting the state of development in the respective regions",
-    "img": "https://th-i.thgim.com/public/incoming/4mr4bd/article70597363.ece/alternates/LANDSCAPE_1200/M.R.K.%20Panneerselvam.jpg",
+    "cat": "Sports",
+    "title": "Hockey India names 24-member squad for Pro League",
+    "desc": "While Pawan Malik gets a chance in the goal, defender and drag-flicker Amandeep Lakra has earned a call-up after an impressive outing in the Hockey India League, where he was adjudged the Player of the Tournament.",
+    "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-dmk-minister-mrk-panneerselvam-remarks-on-north-indian-migrant-workers/article70597347.ece",
-    "time": "2026-02-05T18:29:10.000Z"
+    "url": "https://www.thehindu.com/sport/hockey/hockey-india-names-24-member-squad-for-pro-league/article70595572.ece",
+    "time": "2026-02-05T20:34:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Celina breaks down seeking PM Modi’s intervention for brother",
+    "desc": "Celina Jaitly has appealed to Prime Minister Narendra Modi to intervene in the case of her brother, Major Vikrant Kumar Jaitly, a former Indian Army Special Forces officer who has been detained in the United Arab Emirates since September 2024. Speaking to India Today, Celina broke down while recounting what she described as an unlawful and opaque detention that has stretched on for over 16 months.",
+    "img": "https://static.toiimg.com/photo/msid-127953945,imgsize-18944.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/celina-jaitly-breaks-down-seeking-pm-narendra-modis-intervention-for-brother-vikrant-kumar-jaitly-detained-in-uae-our-soldiers-are-not-just-numbers/articleshow/127953884.cms",
+    "time": "2026-02-05T20:16:58.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "LIC eyes higher yields from real estate",
+    "desc": "Addressing a press conference after the board meeting, the corporation’s MD & CEO R Doraiswamy said LIC has decided to go slow on its earlier announced plan of entering the health insurance business, which was announced by his predecessor. For the quarter ended Dec 2025, the corporation reported standalone net profit of Rs 12,958 crore, up 17.2% from Rs 11,056 crore in the corresponding year-ago period.",
+    "img": "https://static.toiimg.com/photo/msid-127953822,imgsize-1131352.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/lic-eyes-higher-yields-from-real-estate/articleshow/127953732.cms",
+    "time": "2026-02-05T20:10:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Wipro sounds out graduates for full-time positions",
+    "desc": "WILP offers fresh BCA and BSc graduates an opportunity to begin their careers while pursuing a fully sponsored MTech degree. The programme combines academic learning with hands-on industry experience, enabling participants to build practical skills as they enter the workforce. Under the WILP programme, candidates receive a monthly stipend starting at Rs 15,000 in the 1st year, along with a joining bonus of Rs 75,000.",
+    "img": "https://static.toiimg.com/photo/msid-127953796,imgsize-12438.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/wipro-sounds-out-graduates-for-full-time-positions/articleshow/127953743.cms",
+    "time": "2026-02-05T20:10:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Smriti-Voll blitz powers RCB to second crown",
+    "desc": "The two put on a record 165 for the second wicket as the Bengaluru side chases down 204 in a thrilling finish; the Delhi outfit comes second best in a final for the fourth successive time",
+    "img": "https://th-i.thgim.com/public/incoming/n2owqx/article70597056.ece/alternates/LANDSCAPE_1200/VIS_0935.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/wpl-final-delhi-capitals-royal-challenger-bengaluru-smriti-mandhana-jemimah-rodrigues-updates/article70596391.ece",
+    "time": "2026-02-05T20:08:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stocks, metals bleed on weak economic data",
+    "desc": "On Thursday, across Asia, the Nikkei index in Japan closed 0.9% lower while the Shanghai Composite in China and sensex in India each closed 0.6% lower. In Europe in late trades, FTSE in the UK was down 0.8% while Dax in Germany was down 1%. In early trades in the US, the tech-heavy Nasdaq Composite was down 1.6%, Dow Jones index was down 1.1% and S& was down 1.2%.",
+    "img": "https://static.toiimg.com/photo/msid-127953680,imgsize-69830.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/stocks-metals-bleed-on-weak-economic-data/articleshow/127953685.cms",
+    "time": "2026-02-05T20:05:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Tata Motors PV posts quarter 3 loss of Rs 3,483 crore",
+    "desc": "JLR, which contributes nearly 80% of TMPV’s revenue, was forced to halt production for five weeks until early Oct following the cyberattack. The incident resulted in loss of $228.5 million in July-Sept and prompted the UK govt to step in with a loan guarantee of $2.04 billion to support the luxury carmaker's supply chain.",
+    "img": "https://static.toiimg.com/photo/msid-127953663,imgsize-47968.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/tata-motors-pv-posts-quarter-3-loss-of-rs-3483-crore/articleshow/127953607.cms",
+    "time": "2026-02-05T20:05:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "AI upends software economics, raises ‘SaaSpocalypse’ concerns",
+    "desc": "Advances in GenAI, autonomous agents and AI-assisted coding are forcing a rethink of long-held assumptions about SaaS defensibility, pricing power and growth. Tasks that once required large engineering teams can now be executed faster and at far lower costs, raising concerns that many software products may become easier to replicate and much harder to monetise.",
+    "img": "https://static.toiimg.com/photo/msid-127953533,imgsize-79588.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/ai-upends-software-economics-raises-saaspocalypse-concerns/articleshow/127953528.cms",
+    "time": "2026-02-05T19:58:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Govt expands scope of startup recognition",
+    "desc": "Besides, a new sub-category of deep tech startup has been introduced covering entities working on cutting-edge and breakthrough technologies. The eligibility criteria for such startups has also been broadened with the age limit extended from 10 years to 20 years from the date of incorporation or registration, and the turnover limit increased to Rs 300 crore.",
+    "img": "https://static.toiimg.com/photo/msid-127953516,imgsize-3663487.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/timely-boost-govt-expands-scope-of-startup-recognition/articleshow/127953446.cms",
+    "time": "2026-02-05T19:58:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ketan Anand recalls father Chetan Anand’s words on Rajesh Khanna",
+    "desc": "Filmmaker Ketan Anand, son of the late Chetan Anand, recently reflected on how superstardom can often become a burden rather than a blessing. Using Rajesh Khanna’s career as an example, Ketan spoke about how his father believed that success is far more difficult to navigate than failure.",
+    "img": "https://static.toiimg.com/photo/msid-127953430,imgsize-40752.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ketan-anand-recalls-father-chetan-anands-words-on-rajesh-khanna-i-dont-work-with-stars-i-work-with-actors/articleshow/127953342.cms",
+    "time": "2026-02-05T19:56:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "HNIs, family offices fuel India’s private credit engine",
+    "desc": "What’s fueling the rise of private credit in the first place is the fact that banks are not being able to fulfil all kinds of requirements, leaving a funding gap for mid-market structured credit, said Dhedhi. “Private credit can provide non-dilutive capital that can be tailored to specific needs of each borrower.",
+    "img": "https://static.toiimg.com/photo/msid-127953365,imgsize-28314.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/hnis-family-offices-fuel-indias-private-credit-engine/articleshow/127953042.cms",
+    "time": "2026-02-05T19:53:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India, six Gulf nations set stage to launch FTA talks",
+    "desc": "Gulf Cooperation Council — comprising Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and UAE — is a key trade and investment partner for India, with exports of nearly $57 billion and imports of around $122 billion, accounting for over 15% of India’s total global trade. Trade with GCC has grown at an average annual rate of about 15% in the last five years.",
+    "img": "https://static.toiimg.com/photo/msid-127953335,imgsize-57060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-six-gulf-nations-set-stage-to-launch-fta-talks/articleshow/127953043.cms",
+    "time": "2026-02-05T19:47:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Maoist killed, C-60 commando injured in encounter in Gadchiroli; two Maoist camps destroyed",
+    "desc": "The operation involving 14 C-60 units under SDPO Bhamragd began near Phodewada village on Gadchiroli-Narayanpur border after specific intelligence was received on Tuesday (February 3, 2026) evening about the presence of ultras of company number 10 of the outlawed Communist Party of India (Maoist), an official said",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/gadchiroli-maoist-encounter-maoist-camps-destroyed/article70597378.ece",
+    "time": "2026-02-05T18:50:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Namashi recalls father Mithun’s words before first audition",
+    "desc": "Namashi Chakraborty, son of veteran actor Mithun Chakraborty and yesteryear star Yogita Bali, has opened up about the defining moment that shaped his approach to the film industry — a lesson in discomfort delivered before his very first audition.",
+    "img": "https://static.toiimg.com/photo/msid-127950906,imgsize-36996.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/youre-not-going-in-the-mercedes-today-namashi-chakraborty-recalls-father-mithun-chakrabortys-words-says-he-hated-special-treatment-at-auditions/articleshow/127950739.cms",
+    "time": "2026-02-05T18:41:51.000Z"
   },
   {
     "cat": "Politics",
@@ -334,15 +451,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Dove Cameron opens up about losing her dad",
-    "desc": "Singer-actor Dove Cameron, now 30, shared the profound impact of her father's death by suicide at age 15, revealing it triggered \"major phone anxiety.\" She recounted the devastating moment, describing an overwhelming panic attack and the visceral feeling of being unable to breathe, a reaction she attributes to this and other significant losses received via phone.",
-    "img": "https://static.toiimg.com/photo/msid-127933066,imgsize-24208.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/dove-cameron-opens-up-about-losing-her-dad-says-she-couldnt-breathe-after-the-tragic-news/articleshow/127933066.cms",
-    "time": "2026-02-05T11:51:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Vijay Kumar on ‘Landlord’ and the need for an Ambedkarite movement in Kannada cinema",
     "desc": "After facing a series of setbacks, actor Vijay Kumar has reinvented himself as a director, scoring hits with ‘Salaga’ and ‘Bheema’. Now, with ‘Landlord’, he aims to spark an Ambedkarite movement, tackling themes like equality and justice",
     "img": "https://th-i.thgim.com/public/entertainment/movies/r17zxw/article70595440.ece/alternates/LANDSCAPE_1200/Duniya%20VIjay.JPEG",
@@ -387,15 +495,6 @@ const newsData_en = [
     "time": "2026-02-05T11:26:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Govinda's manager clarifies he is not bankrupt",
-    "desc": "Govinda's manager Shashi Sinha has strongly refuted claims of the actor's financial distress and marital problems. Sinha clarified that Govinda remains in demand for films and events, receiving numerous offers from top industry figures. A significant project is expected to be announced soon.",
-    "img": "https://static.toiimg.com/photo/msid-127933022,imgsize-44060.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govindas-manager-clarifies-he-is-not-bankrupt-his-house-was-mortgaged-but-debt-paid-off/articleshow/127933048.cms",
-    "time": "2026-02-05T11:23:55.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India-U.S. trade deal: Joint statement in ‘four to five days’, legal agreement by mid-March, says Piyush Goyal",
     "desc": "Commerce Minister said the U.S. will drop tariffs on India to 18% after the joint statement is issued. India, however, will be able to cut tariffs on U.S. goods only after the formal agreement is signed",
@@ -432,15 +531,6 @@ const newsData_en = [
     "time": "2026-02-05T10:24:27.000Z"
   },
   {
-    "cat": "Business",
-    "title": "How much 22K, 24K gold costs in your city today?",
-    "desc": "Precious metals experienced a sharp downturn on Thursday, reversing recent gains as futures faced significant selling pressure. Weak global sentiment and a stronger US dollar contributed to the decline. Silver futures on MCX plunged by 10%, while gold futures also saw a notable drop, erasing previous recovery.",
-    "img": "https://static.toiimg.com/photo/msid-127930424,imgsize-100980.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-today-how-much-22k-24k-gold-costs-in-your-city-today-check-rates-for-mumbai-bengaluru-more/articleshow/127929723.cms",
-    "time": "2026-02-05T10:10:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Gambhir visits Siddhivinayak, seeks blessings ahead of T20 World Cup",
     "desc": "Ahead of their T20 World Cup title defense, head coach Gautam Gambhir and batting coach Sitanshu Kotak sought blessings at the Shree Siddhivinayak Temple. India, led by Suryakumar Yadav, enters the tournament as strong favorites, aiming to become the first team to successfully defend the men's T20 World Cup title.",
@@ -448,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/gautam-gambhir-visits-siddhivinayak-seeks-blessings-ahead-of-indias-t20-world-cup-title-defence/articleshow/127930146.cms",
     "time": "2026-02-05T10:06:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Suniel questions why films talk about Auragzeb, Akbar, not Rajputs, Shivaji",
-    "desc": "Suniel Shetty's film 'Kesari Veer' on Somnath Temple's destruction flopped due to poor distribution, not lack of research. Shetty lamented Hindi cinema's focus on invaders over Indian heroes like Shivaji and Rajputs, advocating for broader historical narratives. He stressed the importance of celebrating indigenous culture and heroes, echoing Akshay Kumar's sentiments on historical representation.",
-    "img": "https://static.toiimg.com/photo/msid-127930099,imgsize-33150.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shetty-questions-why-films-talk-about-auragzeb-akbar-but-not-shivaji-maharaj-rajputs-our-history-textbooks-/articleshow/127930083.cms",
-    "time": "2026-02-05T10:02:57.000Z"
   },
   {
     "cat": "Sports",
@@ -495,24 +576,6 @@ const newsData_en = [
     "time": "2026-02-05T08:48:46.000Z"
   },
   {
-    "cat": "Business",
-    "title": "IndiGo shares tumble! InterGlobe Aviation stock plunges 3% as CCI launches detailed probe",
-    "desc": "InterGlobe Aviation shares tumbled as the Competition Commission of India (CCI) launched a detailed probe into IndiGo for alleged unfair business practices. The regulator suspects the airline misused its dominant market position by cancelling thousands of flights, creating artificial scarcity and restricting consumer access to air travel.",
-    "img": "https://static.toiimg.com/photo/msid-127928089,imgsize-55472.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indigo-shares-tumbles-interglobe-aviation-stock-plunges-3-as-cci-launches-detailed-probe/articleshow/127927880.cms",
-    "time": "2026-02-05T08:29:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'Limitless potential!': Sergio Gor hails India-US ties; points to ongoing high level engagements",
-    "desc": "India and the US are set to deepen their bilateral ties, with Ambassador Gor highlighting readiness for elevated engagement. External Affairs Minister S Jaishankar's recent meetings with US officials, including Secretary of State Marco Rubio and Treasury Secretary Scott Bessent, covered trade, energy, defense, and critical minerals, signaling a robust economic and strategic partnership ahead.",
-    "img": "https://static.toiimg.com/photo/msid-127927466,imgsize-1148281.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/limitless-potential-sergio-gor-hails-india-us-ties-points-to-ongoing-high-level-engagements/articleshow/127926514.cms",
-    "time": "2026-02-05T07:54:51.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "On reinvention, failures",
     "desc": "Abhishek Bachchan, marking 25 years in Bollywood, embraces reinvention as he turns 50. Despite facing numerous flops and public scrutiny, he remains grounded, acknowledging his privilege while crediting his survival to merit. He emphasizes the necessity of constant evolution to connect with new audiences and avoid becoming stale, a lesson learned from observing industry peers.",
@@ -540,15 +603,6 @@ const newsData_en = [
     "time": "2026-02-05T06:36:52.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Gold, silver price prediction today: Gold, silver on track for gains? Here's the outlook",
-    "desc": "Gold and silver prices have resumed their upward momentum after the recent crash, signalling bullish momentum, says Abhilash Koikkara, Head - Forex & Commodities, Nuvama Professional Clients Group. He shares his views on gold and silver:",
-    "img": "https://static.toiimg.com/photo/msid-127922346,imgsize-43512.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-prediction-today-what-is-the-gold-rate-outlook-for-february-05-2026-should-you-buy-or-sell-mcx-gold-mcx-silver/articleshow/127922328.cms",
-    "time": "2026-02-05T05:45:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "4th-time lucky for DC? Jemimah set for key role as Mandhana’s RCB await in WPL final",
     "desc": "Jemimah Rodrigues has transformed into a commanding Delhi Capitals captain, leading her team to the WPL final after a shaky start. Despite RCB's league-stage dominance and final experience, the Capitals, with their in-form batting unit and resilient captain, arrive with significant momentum for the summit showdown.",
@@ -567,24 +621,6 @@ const newsData_en = [
     "time": "2026-02-05T05:07:30.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Rupee inches 7 paise to reach 90.40 against US dollar",
-    "desc": "The Indian rupee opened marginally higher at 90.45 against the US dollar on Thursday, recovering slightly after a dip in the previous session. Mixed market sentiment prevails as traders await official confirmation of the India-US trade deal, with crude oil price volatility also influencing currency movements.",
-    "img": "https://static.toiimg.com/photo/msid-127924105,imgsize-2294904.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-inches-7-paise-to-reach-90-40-against-us-dollar/articleshow/127923619.cms",
-    "time": "2026-02-05T05:02:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Markets trade in red as tech stocks tumble; Kospi falls 4%, Nikkei down 600 points",
-    "desc": "Asian markets opened lower, mirroring losses in US technology stocks that dampened investor confidence. Despite modest gains in US stock futures, a mixed close on Wall Street and falling oil prices contributed to the regional retreat. Technology shares, particularly software companies, faced pressure amid concerns over AI competition.",
-    "img": "https://static.toiimg.com/photo/msid-127923275,imgsize-86834.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-trade-in-red-as-tech-stocks-tumble-kospi-falls-4-nikkei-down-almost-600-points/articleshow/127922146.cms",
-    "time": "2026-02-05T04:18:01.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India’s team management takes a U-turn ahead of T20 WC",
     "desc": "MS Dhoni's rare praise highlights India's formidable T20 World Cup squad, deemed 'one of the most dangerous teams.' A ruthless selection process and strategic pivots, particularly under coach Gautam Gambhir, have forged an immaculately balanced unit. With aggression as the core principle and specialists in key roles, Team India appears stronger than ever, poised to dominate.",
@@ -594,13 +630,13 @@ const newsData_en = [
     "time": "2026-02-05T04:16:44.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Nifty50 falls 133 points; BSE Sensex tumbles 503 points to settle at 83,313",
-    "desc": "Indian stock markets opened lower today, with Nifty50 and BSE Sensex experiencing declines. While IT stocks faced a sell-off due to automation fears, domestic consumption-driven sectors showed resilience. Analysts remain cautiously optimistic, awaiting FII buying trends and positive impacts from recent trade deals and budget announcements.",
-    "img": "https://static.toiimg.com/photo/msid-127922846,imgsize-104856.cms",
+    "cat": "Sports",
+    "title": "Injury scare for India before T20 WC as young pacer limps off during warm-up clash",
+    "desc": "Team India faces a worrying injury blow as pacer Harshit Rana limped off during a T20 World Cup warm-up against South Africa. This adds to concerns over Washington Sundar's fitness just before the tournament begins. Despite this, Tilak Varma impressed with an all-round performance, and India secured a 30-run victory.",
+    "img": "https://static.toiimg.com/photo/msid-127923075,imgsize-123386.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-february-05-2026-dalal-street-indian-equities-india-us-trade-deal-rbi-policy/articleshow/127922828.cms",
-    "time": "2026-02-05T03:48:45.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/injury-scare-for-india-days-before-t20-world-cup-as-harshit-rana-limps-off-during-warm-up-clash-against-south-africa/articleshow/127923054.cms",
+    "time": "2026-02-05T03:46:19.000Z"
   },
   {
     "cat": "Sports",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/budget/rise-in-southern-states-share-in-devolution-of-funds-provides-no-relief-to-tamil-nadu/article70583725.ece",
     "time": "2026-02-02T18:54:00.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "China's top general probe to 'remove obstacles' in military: state media",
-    "desc": "The Defence Ministry said last month it was investigating Mr. Zhang, the Vice Chairman of the powerful Central Military Commission (CMC), as well as Liu Zhenli, Chief of Staff of the CMC's joint staff department, which oversees combat planning",
-    "img": "https://th-i.thgim.com/public/incoming/tnvt4r/article70584637.ece/alternates/LANDSCAPE_1200/IMG_China_Navy_Symposium_2_1_NSCN3SVD.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/chinas-top-general-probe-to-remove-obstacles-in-military-state-media/article70584175.ece",
-    "time": "2026-02-02T16:52:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Snowflake and OpenAI make a $200 million bid to corner corporate data intelligence market",
-    "desc": "The deal, which integrates OpenAI’s most advanced models directly into Snowflake’s data infrastructure, represents a significant tactical shift for both firms, signalling that the battle for enterprise AI has moved from the chatbox to the database",
-    "img": "https://th-i.thgim.com/public/sci-tech/technology/z8x9fo/article70581892.ece/alternates/LANDSCAPE_1200/216db353-3e70-497f-acbf-63f28709817a.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/snowflake-and-openai-make-a-200-million-bid-to-corner-corporate-data-intelligence-market/article70581945.ece",
-    "time": "2026-02-02T15:21:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Bheegi Bheegi’: A R Ameen creates a timeless love experience with Dulquer Salmaan and Mrunal Thakur",
-    "desc": "‘Bheegi Bheegi’, a dreamy music video, stars Dulquer Salmaan and Mrunal Thakur, and takes you on a romantic journey through alternate realities, mixing retro charm with futuristic flair. AR Ameen and Jasleen Royal has sung the song while A R Rahman has composed it",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/7dzjo/article70583567.ece/alternates/LANDSCAPE_1200/Ameen.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/a-r-ameen-a-r-rahman-bheegi-bheegi-dulquer-salmaan-mrunal-thakur-jasleen-royal/article70583386.ece",
-    "time": "2026-02-02T14:41:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ISL 2025-26: FanCode selected as media partner, KPS to handle production",
-    "desc": "JioStar, the exclusive broadcast partner of the ISL for the last two seasons and whose parent company owned the league for the last 10 years, lost out, having quoted a financial bid of around ₹5 crore",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/isl-2025-26-fancode-selected-as-media-partner-kps-to-handle-production/article70583821.ece",
-    "time": "2026-02-02T14:20:58.000Z"
   }
 ];
