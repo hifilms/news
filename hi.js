@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "List of all prize winners and money they earned",
+    "desc": "The WPL 2026 final at the BCA Stadium in Vadodara turned into a celebration of fearless batting, with Royal Challengers Bengaluru producing a memorable run chase to defeat Delhi Capitals and secure their second title...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wpl-2026-list-of-all-prize-winners-and-money-they-earned-2026-02-05-1029086",
+    "time": "2026-02-05T18:28:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyanka Patil dedicates WPL win to Smriti Mandhana, says 'she has gone through a lot'",
+    "desc": "Royal Challengers Bengaluru defeated Delhi Capitals by six wickets to claim their second Women’s Premier League (WPL) title in three years. The Smriti Mandhana-led side had a tough job in hand, chasing 204 runs, but...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyanka-patil-dedicates-wpl-win-to-smriti-mandhana-says-she-has-gone-through-a-lot-2026-02-05-1029085",
+    "time": "2026-02-05T18:26:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Smriti Mandhana, Georgia Voll's carnage help RCB lift second WPL trophy, Delhi lose four straight finals",
+    "desc": "If batting is an art, the WPL 2026 final at BCA Stadium in Vadodara was filled with Picassos. The match started with Lizelle Lee’s impactful knock and ended with Smriti Mandhana and Georgia Voll’s blitzkreig...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-georgia-voll-s-carnage-help-rcb-lift-second-wpl-trophy-delhi-lose-four-straight-finals-2026-02-05-1029078",
+    "time": "2026-02-05T17:37:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch U19 World Cup final live on TV and stream online?",
+    "desc": "The U19 World Cup 2026 final will pit England against India in a much-anticipated title decider at the Harare Sports Club in Zimbabew ob Friday, February 6. The Thomas Rew-led side reached the summit clash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-live-streaming-details-when-and-where-to-watch-u19-world-cup-final-live-on-tv-and-stream-online-in-india-2026-02-05-1029073",
+    "time": "2026-02-05T16:44:39.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ben Stokes suffers gruesome injury in nets, shares photo on social media",
     "desc": "Ben Stokes was left nursing a nasty facial injury after a freak accident during an England training session, with the Test captain revealing a badly bruised right eye and a bleeding nose after being struck...",
     "img": "",
@@ -10,8 +46,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Woolvardt show begins after Jemimah departs for 57",
-    "desc": "Jemimah Rodrigues scored 57 runs in the WPL 2026 final against Royal Challengers Bengaluru at the BCA Stadium in Vadodara. The captain led by example in the summit clash, dominating the Smriti Mandhana-led side. She...",
+    "title": "Bengaluru beat Delhi to win second WPL trophy",
+    "desc": "Royal Challengers Bengaluru defeated Delhi Capitals by six wickets to win their second Women's Premier League title in three years. Captain Smriti Mandhana and Georgia Voll played some phenomenal cricket, stitching a 165-run partnership to...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-dc-wpl-2026-final-live-cricket-score-bengaluru-vs-delhi-bca-stadium-vadodara-latest-match-updates-scorecard-teams-highlights-1029056",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-s-first-statement-on-facing-pakistan-in-the-t20-world-cup-2026-02-05-1029032",
     "time": "2026-02-05T10:25:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "List of IPL 2025 winning players who are not a part of T20 World Cup 2026",
-    "desc": "The T20 World Cup 2026 is all set to kick off on February 7. The marquee tournament will be co-hosted by India and Sri Lanka, and ahead of the tournament opener, the Indian team has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/list-of-ipl-2025-winning-players-who-are-not-a-part-of-t20-world-cup-2026-2026-02-05-1029024",
-    "time": "2026-02-05T09:32:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Head-to-head record ahead of WPL 2026 final",
-    "desc": "Royal Challengers Bengaluru women are all set to lock horns with Delhi Capitals women in the summit clash of the WPL (Women’s Premier League) 2026. The clash is slated to be held at the Kotambi...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/royal-challengers-bengaluru-women-vs-delhi-capitals-women-head-to-head-record-ahead-of-wpl-2026-final-2026-02-05-1029020",
-    "time": "2026-02-05T08:54:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Best T20 cricket team right now': World Cup-winning captain predicts his semi-finalists ahead of T20 WC 2026",
-    "desc": "The T20 World Cup 2026 is all set to kick off on February 7. The marquee event will be held in India and Sri Lanka. It is interesting to note that 20 sides will be...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/best-t20-cricket-team-right-now-world-cup-winning-captain-predicts-his-semi-finalists-ahead-of-t20-wc-2026-2026-02-05-1029011",
-    "time": "2026-02-05T08:04:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC announces broadcast details for T20 World Cup 2026; Check details",
-    "desc": "The T20 World Cup is all set to kick off on February 7. The marquee event is all set to be co-hosted by India and Sri Lanka. The 20 sides that are participating will look...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-announces-broadcast-details-for-t20-world-cup-2026-check-details-2026-02-05-1029004",
-    "time": "2026-02-05T07:22:29.000Z"
   }
 ];

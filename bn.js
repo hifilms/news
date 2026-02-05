@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "ব্যাটিংয়ে তান্ডব! অধিনায়কত্বে ক্ষুরধার বুদ্ধি! WPL 2026-এ স্মৃতির পকেটে ৫ বড় রেকর্ড",
+    "desc": "উইমেন্স প্রিমিয়ার লিগ ২০২৬-এর ফাইনালে শুধু আরসিবিকে চ্যাম্পিয়ন করাই নয়, অধিনায়কোচিত ম্যাচ উইনিং ইনিংস খেললেন স্মৃতি মন্ধনা। স্মৃতির ৪১ বলে ৮৭ রানের ইনিংস সাজানো ১২টি চার ও ৩টি ছয়ে। একইসঙ্গে ৫টি বড় নজির গড়লেন স্মৃতি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WPL-FINAL-8-2026-02-1b8f71d3c6f15ee37db67f2d21ad25d7-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/wpl-2026-champion-rcb-captain-smriti-mandhana-create-5-unique-records-after-played-87-runs-match-winning-innings-sup-2528044.html",
+    "time": "2026-02-05T18:29:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "৯ বছর পর নন্দিতা-শিবপ্রসাদের পরিচালনায় যীশু সেনগুপ্ত, এবার লক্ষ্য সোনার ডাকাতি!",
+    "desc": "গত বছরের ব্লকবাস্টার ‘বহুরূপী’-র রেশ ধরেই ঘোষিত হল এর পরবর্তী অধ্যায়— ‘বহুরূপী: দ্য গোল্ডেন ডাকু’। এই ছবির সবচেয়ে বড় চমক অভিনেতা যীশু সেনগুপ্ত। ‘পোস্ত’ ছবির প্রায় ৯ বছর পর ফের নন্দিতা-শিবপ্রসাদ জুটির পরিচালনায় ফিরছেন তিনি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/bohurupi-the-golden-daku-jisshu-sengupta-shiboprosad-koushani-puja-2026_639793.html ",
+    "time": "2026-02-05T15:35:09.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Rajasthan's Honeymoon Murder: হাড়হিম হানিমুন মার্ডার! গাড়ির ধাক্কায় মৃত্যু নয়, ঝোপের ভিতরে লুকিয়ে থাকা দুই রাক্ষসই শ্বাসরোধ করে খুন করল নতুন বরকে...",
     "desc": "অনীশ ও অঞ্জুর ইভিনিং ওয়াক মহূর্তে পরিণত হয় দুঃস্বপ্নে। একটা গাড়ি এসে ভয়ংকর ধাক্কা মারে নবদম্পতিকে, অকুস্থলেই মৃত্যু বরের, কনের গা থেকে চুরি হয়ে যায় সোনার গয়না। কিন্তু তদন্ত যত এগোয়, তত প্রকাশ্যে আসে হাড়হিম ঘটনা।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/west-bengal/vande-bharat-sleeper-bookings-are-completely-full-until-the-first-10-days-of-february-month-from-ac-first-class-to-ac-3-tier-what-are-the-fares-for-each-sanj-2519801.html",
     "time": "2026-01-31T07:55:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "উপ মুখ্যমন্ত্রী পদে অজিত পওয়ার পত্নী! ‘সুনেত্রার সঙ্গে কথা হয়নি,’ তবে আর একত্রীকরণ হচ্ছে না NCP-র? শরদের কথায় জল্পনা",
-    "desc": "শরদ পওয়ার জানান, শপথগ্রহণের অনুষ্ঠান যে স্থির হয়েছে, তা তাঁদের জানা ছিল না৷ তবে তিনি বলেন, এনসিপির দুই গোষ্ঠীর ফের এক হয়ে যাওয়া সদ্য প্রয়াত অজিত পওয়ারের দীর্ঘদিনের ইচ্ছে ছিল৷ গত কয়েক মাস ধরেই তাঁদের মধ্যে এবিষয়ে আলোচনা, বৈঠক হচ্ছিল৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ydne-2026-01-31T113221.745-2026-01-4aa709e62358f47a45f85e38ec66188c-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/ncp-merger-update-no-talks-with-sunetra-but-they-have-the-right-to-decide-sharad-pawar-on-ncp-oath-taking-sta-2520161.html",
-    "time": "2026-01-31T06:38:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "' #TakeBackYourSanyaas...এটা মেনে নেওয়া যায় না' অরিজিতের শেষ অপ্রকাশিত গান 'ইশক কা ফিভার'-গাইছেন বিশাল ভরদ্বাজ, ভাইরাল ভিডিও",
-    "desc": "গত কয়েক দিন ধরে সমাজমাধ্যমে তুলকালাম! বিষয়টা কী? অরিজিৎ সিং নিজে ঘোষণা করেছেন, তিনি আর ছবিতে গান গাইবেন না অর্থাৎ প্লেব্যাক থেকে অবসর নিলেন 'অ্যায় দিল হ্যায় মুশকিল' তারকা! খবর শুনেই আকাশ ভেঙে পড়ল ভক্ত মহলের বুকে",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/2026-01-cf3db3bcf42167b6171cf419725aa191-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/arijit-singh-takebackyoursanyaas-this-is-unfair-take-back-your-sanyaas-vishal-bhardwajs-appeal-to-arijit-singh-rm-2519673.html",
-    "time": "2026-01-30T18:34:11.000Z"
   }
 ];
