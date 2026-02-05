@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "রাজ্য বাজেট পেশ আজ, কী কী চমক থাকবে...? কখন পেশ হবে বাজেট? রইল জরুরি আপডেট!",
+    "desc": "সপ্তদশ বিধানসভার বাজেট অধিবেশন আজ। ছাব্বিশের বিধানসভা ভোটের আগে শেষ বাজেট পেশ হতে চলেছে আজ। ২০২১ সালের মতো, ২০২৬ সালেও বাজেট পেশ হচ্ছে ৫ ফেব্রুয়ারিতে। আজ রাজ্য বাজেটে নজরে থাকবে লক্ষ্মীর ভাণ্ডারের মতো একাধিক সরকারি প্রকল্প সংক্রান্ত প্রতিশ্রুতির দিকে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-05-at-08.39.08-2026-02-1aa8e8cb4a2ec1d4d513b1396472f0eb-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/west-bengal/west-bengal-budget-2026-stare-interim-budget-to-be-announced-today-from-lakshmir-bhandar-to-much-more-in-focus-know-budget-time-to-other-important-information-sanj-2526686.html",
+    "time": "2026-02-05T03:25:00.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "সুপ্রিম কোর্টে সওয়াল মমতার, মুখ্যমন্ত্রীকে কী বললেন CJI? দেখুন",
     "desc": "SIR সংঘাতে সুপ্রিম কোর্টে সওয়াল মমতার। সুপ্রিম কোর্টে আইনজীবীর ভূমিকায় মমতা। নিজের করা মামলায় নিজেই সওয়াল মমতার। একটু পরেই প্রধান বিচারপতির বেঞ্চে মামলার শুনানি শুরু হবে। সুপ্রিম কোর্টে পার্টি ইন পার্সন পিটিশন মুখ্যমন্ত্রীর। তৃণমূলের করা পোস্টে আইনজীবীর পোশাকে মমতা। SIR হয়রানি নিয়ে কমিশন ও CEO-র বিরুদ্ধে মামলা।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/shamik-adhikary-got-best-influencer-award-in-binodone-sera-24_638228.html ",
     "time": "2026-01-29T18:58:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "কলকাতায় ফিরেই হাইকোর্টের দারস্থ হিরণ চট্টোপাধ্যায়, আগাম জামিনের আর্জি",
-    "desc": "সম্প্রতি বারাণসীর এক ঘাটে নিজের দ্বিতীয় বিয়ের ছবি পোস্ট করেন হিরণ চট্টোপাধ্যায়। তারপরই স্বামীর বিরুদ্ধে সরব হন তাঁর প্রথম স্ত্রী অনিন্দিতা। অভিযোগ, ডিভোর্স না দিয়েই নাকি ফের বিয়ে করেছেন বিধায়ক। তা নিয়ে তুমুল চর্চা শুরু হয় সোশ্যাল মিডিয়ায়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Web-2026-01-29T234546.214-2026-01-01d5dd6c552213a412eaa9fe8c4fb913-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/bjp-mla-hiraan-chatterjee-second-marriage-controversy-urges-for-anticipatory-bail-at-high-count-pbd-2518368.html",
-    "time": "2026-01-29T18:22:07.000Z"
   }
 ];

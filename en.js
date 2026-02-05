@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "UK aviation regulator seeks explanation from Air India over the Boeing fuel switch issue",
+    "desc": "The UK's aviation regulator has requested information from Air India regarding maintenance on a Boeing 787 after a fuel control switch issue was reported in London. While Air India conducted precautionary checks and found no further issues, an NGO has lodged a complaint, urging the Aircraft Accident Investigation Bureau to secure evidence and maintain its independence.",
+    "img": "https://static.toiimg.com/photo/msid-127923612,imgsize-601845.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/uk-aviation-regulator-seeks-explanation-from-air-india-over-the-boeing-fuel-switch-issue/articleshow/127923611.cms",
+    "time": "2026-02-05T04:32:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Markets trade in red as tech stocks tumble; Kospi falls 4%, Nikkei down 600 points",
+    "desc": "Asian markets opened lower, mirroring losses in US technology stocks that dampened investor confidence. Despite modest gains in US stock futures, a mixed close on Wall Street and falling oil prices contributed to the regional retreat. Technology shares, particularly software companies, faced pressure amid concerns over AI competition.",
+    "img": "https://static.toiimg.com/photo/msid-127923275,imgsize-86834.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-trade-in-red-as-tech-stocks-tumble-kospi-falls-4-nikkei-down-almost-600-points/articleshow/127922146.cms",
+    "time": "2026-02-05T04:18:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India’s team management takes a U-turn ahead of T20 WC",
+    "desc": "MS Dhoni's rare praise highlights India's formidable T20 World Cup squad, deemed 'one of the most dangerous teams.' A ruthless selection process and strategic pivots, particularly under coach Gautam Gambhir, have forged an immaculately balanced unit. With aggression as the core principle and specialists in key roles, Team India appears stronger than ever, poised to dominate.",
+    "img": "https://static.toiimg.com/photo/msid-127923356,imgsize-36048.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/specialists-back-in-vogue-indias-team-management-appears-to-have-taken-a-u-turn-ahead-of-the-t20-world-cup/articleshow/127923307.cms",
+    "time": "2026-02-05T04:16:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Litigants can directly approach High Court if police station ‘rejects’ complainant, says Karnataka HC",
+    "desc": "The court says the procedure of approaching a superior officer and the Magistrate applies exclusively to cases of ‘refusal’ to record information and does not extend to cases of “rejection” of a complaint by a reasoned endorsement",
+    "img": "https://th-i.thgim.com/public/incoming/ho9kb6/article70594309.ece/alternates/LANDSCAPE_1200/IMG_BG_HIGH_COURT_2020_1_1_PIFHE8GH.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/litigants-can-directly-approach-high-court-if-police-station-rejects-complainant-says-karnataka-hc/article70592157.ece",
+    "time": "2026-02-05T04:02:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Timothee Chalamet CHEATING on Kylie Jenner?",
+    "desc": "Timothee Chalamet, an Oscar frontrunner, sparked social media debate after being photographed in Paris with a woman resembling Anamaria Vartolomei. Despite his confirmed relationship with Kylie Jenner, the sighting led to speculation. Fans are divided, with some defending the actor and others questioning the secrecy of the outing.",
+    "img": "https://static.toiimg.com/photo/msid-127923206,imgsize-31398.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/timothee-chalamet-spotted-with-mystery-woman-in-paris-sparks-cheating-rumours-amid-kylie-jenner-wedding-buzz/articleshow/127922610.cms",
+    "time": "2026-02-05T03:57:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Injury scare for India before T20 WC as young pacer limps off during warm-up clash",
+    "desc": "Team India faces a worrying injury blow as pacer Harshit Rana limped off during a T20 World Cup warm-up against South Africa. This adds to concerns over Washington Sundar's fitness just before the tournament begins. Despite this, Tilak Varma impressed with an all-round performance, and India secured a 30-run victory.",
+    "img": "https://static.toiimg.com/photo/msid-127923075,imgsize-123386.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/injury-scare-for-india-days-before-t20-world-cup-as-harshit-rana-limps-off-during-warm-up-clash-against-south-africa/articleshow/127923054.cms",
+    "time": "2026-02-05T03:46:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Shashi Throor’s son Ishaan among staff sacked by Washington Post; pens sombre note",
+    "desc": "The Washington Post has undergone significant layoffs, impacting a substantial portion of its workforce, including foreign affairs columnist Ishaan Tharoor and numerous international correspondents. This restructuring drastically curtails the newspaper's global coverage, leading to the closure of bureaus and the elimination of key sections. The move has drawn sharp criticism from former editors and staff.",
+    "img": "https://static.toiimg.com/photo/msid-127922864,imgsize-234699.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/shashi-throors-son-ishaan-among-staff-sacked-by-washington-post-pens-sombre-note/articleshow/127922743.cms",
+    "time": "2026-02-05T03:45:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "M R K Panneerselvam sparks row with ‘North Indians clean tables’ in Tamil Nadu remark; BJP hits back",
+    "desc": "The BJP has strongly criticised a Tamil Nadu minister's remarks about North Indian migrant workers, calling them derogatory and part of a pattern by the ruling DMK to fuel social divisions. The party highlighted the minister's comments about migrants working in low-paying jobs and questioned the silence of opposition alliance leaders, deeming such statements dangerous amidst rising violence against workers.",
+    "img": "https://static.toiimg.com/photo/msid-127923015,imgsize-25714.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/panneerselvam-sparks-row-with-north-indians-clean-tables-in-tamil-nadu-remark-bjp-hits-back/articleshow/127922094.cms",
+    "time": "2026-02-05T03:40:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Did Talwiinder just CONFIRM his relationship with Disha?",
+    "desc": "The buzz around Bollywood diva Disha Patani and Punjabi music sensation Talwiinder is reaching new heights, especially after their recent appearance together at a lively concert in Mumbai. In an intriguing interview, Talwiinder hinted at their blossoming friendship, remarking that they are 'just trying to navigate our journey together.",
+    "img": "https://static.toiimg.com/photo/msid-127922803,imgsize-53894.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-talwiinder-just-confirm-his-relationship-with-disha-patani-says-im-falling-in-love/articleshow/127922803.cms",
+    "time": "2026-02-05T03:26:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND vs SA warm-up: Ishan settles the debate; Surya and Co. are on the loose",
+    "desc": "Ishan Kishan’s explosive warm-up knock against South Africa may have finally settled India’s long-running wicketkeeper debate. With Sanju Samson out of form and the World Cup around the corner, Kishan’s clarity, confidence, and dominance at the top make him the clear frontrunner. And come Saturday, he will walk out as Abhishek Sharma's opening partner against the USA in Mumbai.",
+    "img": "https://static.toiimg.com/photo/msid-127922633,imgsize-154492.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-vs-south-africa-warm-up-ishan-kishan-settles-the-debate-surya-and-his-boys-are-on-the-loose/articleshow/127922487.cms",
+    "time": "2026-02-05T03:09:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bhavana did not realise how serious her first award was",
+    "desc": "Actress Bhavana reflects on her early career, admitting she didn't grasp the significance of her Kerala State Film Award at a young age. She also reminisces about her first international trip for a song shoot in 'Swapnakoodu'. Bhavana, who never planned her acting path, is now preparing for her 90th film, 'Anomie', releasing February 6th.",
+    "img": "https://static.toiimg.com/photo/msid-127922480,imgsize-31848.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/i-did-not-understand-how-serious-it-was-bhavana-opens-up-about-her-first-state-award/articleshow/127922480.cms",
+    "time": "2026-02-05T03:04:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘I wanted to open’: Ishan Kishan’s fearless fifty dents Sanju Samson’s WC hopes",
+    "desc": "Ishan Kishan's explosive 53 powered India to a 30-run victory over South Africa in a T20 World Cup warm-up in Mumbai. Kishan, eager to open, showcased his aggressive intent, setting a strong tone. The team's batting order experimented, with Kishan and Abhishek Sharma opening. India's bowlers also delivered, restricting South Africa.",
+    "img": "https://static.toiimg.com/photo/msid-127922376,imgsize-55508.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-wanted-to-open-ishan-kishans-fearless-fifty-dents-sanju-samsons-t20-world-cup-hopes-as-indias-pecking-order-takes-shape/articleshow/127922329.cms",
+    "time": "2026-02-05T02:53:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock recommendations for February 5, 2026",
+    "desc": "According to Aakash K Hindocha, Deputy Vice President - WM Research, Nuvama Professional Clients Group, the top buy calls for today are: Petronet, MRPL, and CCL. Here’s his view on Nifty, Bank Nifty, and the top stock picks for February 5, 2026:",
+    "img": "https://static.toiimg.com/photo/msid-127922260,imgsize-95260.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-february-05-2026-petronet-mrpl-ccl-best-stocks-to-buy-today/articleshow/127922235.cms",
+    "time": "2026-02-05T02:44:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Law firm offers to EVICT Billie from home on Tongva land",
+    "desc": "Grammy winner Billie Eilish sparked controversy with an anti-ICE speech, stating \"There are no illegal people on stolen land.\" Critics pointed out her $3 million mansion reportedly sits on Tongva ancestral land. While a law firm jokingly offered eviction services, the Tongva tribe expressed hope for future direct engagement and acknowledgement of their history.",
+    "img": "https://static.toiimg.com/photo/msid-127921696,imgsize-40164.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/billie-eilish-to-be-evicted-from-mansion-on-tongva-land-law-firm-offers-to-serve-notice-amid-stolen-land-backlash/articleshow/127921681.cms",
+    "time": "2026-02-05T02:37:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US households become increasingly strained in diverging economy",
+    "desc": "Around the crack of dawn, a line begins forming at a strip mall in Hyattsville, Maryland, as residents ranging from students to delivery workers and federal contractors wait to sign up for food assistance. - 'Scraping' - Salih Taylor, a federal worker, said he had not considered visiting a food drive until speaking with his church's pastor.",
+    "img": "https://static.toiimg.com/photo/msid-127922051,imgsize-27632.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-households-become-increasingly-strained-in-diverging-economy/articleshow/127922008.cms",
+    "time": "2026-02-05T02:29:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mammootty made him return",
+    "desc": "Veteran actor Madhu, 92, emotionally revealed his near-retirement after a fall before 'Lucifer'. He saw it as a sign to quit. However, Mammootty's heartfelt plea to act in 'One' convinced him to return, showcasing their enduring bond and Madhu's continued passion for cinema.",
+    "img": "https://static.toiimg.com/photo/msid-127921843,imgsize-107396.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/madhu-says-he-retired-after-missing-mohanlals-lucifer-mammootty-convinced-him-to-return/articleshow/127921843.cms",
+    "time": "2026-02-05T02:13:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sonu Sood STRONGLY REACTS to Ghaziabad triple suicide case",
+    "desc": "In light of the heartbreaking loss of three young lives in Ghaziabad, actor Sonu Sood has raised alarm bells regarding the perils of online gaming and social media for children. He passionately implored guardians to curtail the screen time allowed to minors, arguing that youthful years should be nurtured with care and vigilance rather than virtual distractions.",
+    "img": "https://static.toiimg.com/photo/msid-127921767,imgsize-22158.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonu-sood-raises-alarm-over-online-gaming-addiction-among-kids-after-ghaziabad-triple-suicide-case-unhe-screen-nahi-saath/articleshow/127921767.cms",
+    "time": "2026-02-05T02:06:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi to visit Malaysia on Feb 7-8",
+    "desc": "Prime Minister Narendra Modi will visit Malaysia from February 7-8 to strengthen bilateral ties in trade, investment, energy, and maritime security. This visit, his third to Malaysia, follows the elevation of their relationship to a Comprehensive Strategic Partnership. Modi will hold discussions with Malaysian Prime Minister Anwar Ibrahim and engage with the Indian diaspora and business leaders.",
+    "img": "https://static.toiimg.com/photo/msid-127921760,imgsize-1070566.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-to-visit-malaysia-on-feb-7-8/articleshow/127921711.cms",
+    "time": "2026-02-05T01:57:01.000Z"
+  },
+  {
     "cat": "World",
     "title": "Man who tried to shoot Trump at Florida golf course gets life in prison",
     "desc": "U.S. District Judge Aileen Cannon pronounced Ryan Routh's fate in the same Fort Pierce courtroom that erupted into chaos in September when he tried to stab himself shortly after jurors found him guilty on all counts",
@@ -7,6 +169,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/man-who-tried-to-shoot-trump-at-florida-golf-course-gets-life-in-prison/article70594176.ece",
     "time": "2026-02-05T01:41:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rodrigues-led DC desperate to break jinx; Mandhana's RCB eye another title",
+    "desc": "Royal Challengers Bengaluru face Delhi Capitals in the Women's Premier League final. Smriti Mandhana's RCB seeks a second title, matching Mumbai Indians. Delhi Capitals, led by Jemimah Rodrigues, aims for their first championship after three runner-up finishes. Both teams have seen key player contributions throughout the season.",
+    "img": "https://static.toiimg.com/photo/msid-127915458,imgsize-38250.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/wpl-final-jemimah-rodrigues-led-delhi-capitals-desperate-to-break-jinx-smriti-mandhanas-rcb-eye-another-wpl-crown/articleshow/127914932.cms",
+    "time": "2026-02-05T01:30:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -117,6 +288,24 @@ const newsData_en = [
     "time": "2026-02-04T23:35:48.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "More power, more depth; why India's 2026 squad outshines 2024",
+    "desc": "India enters the T20 World Cup with a confident and settled squad, building on their 2024 title-winning approach. With a blend of experienced players and new talent like Abhishek Sharma, the team is poised for success, though batting order and conditions pose potential challenges.",
+    "img": "https://static.toiimg.com/photo/msid-127914088,imgsize-58766.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-more-power-more-depth-why-indias-2026-squad-outshines-2024/articleshow/127913866.cms",
+    "time": "2026-02-04T23:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When Hadlee bowled Manjrekar to become first bowler to take 400 Test wickets",
+    "desc": "Richard Hadlee achieved a historic milestone on February 4, 1990, becoming the first bowler to claim 400 Test wickets. At 39, the New Zealand legend reached this unprecedented feat against India in Christchurch. His exceptional performance, including seven wickets in the match, secured a victory for his team and redefined bowling possibilities.",
+    "img": "https://static.toiimg.com/photo/msid-127913295,imgsize-21382.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/not-dennis-lillee-or-malcolm-marshall-when-richard-hadlee-became-first-bowler-to-take-400-test-wickets/articleshow/127912661.cms",
+    "time": "2026-02-04T23:30:00.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Branded ‘traitor’ by Rahul, Beant’s grandson hits back, calls Gandhi scion ‘desh ke dushman’",
     "desc": "The exchange — which took place at the main entrance of the Parliament building, where Rahul was standing in solidarity with the eight MPs who are on protest since being suspended from the Lok Sabha a day earlier — was caught on video and promptly went viral. It was also circulated by Congress.",
@@ -180,33 +369,6 @@ const newsData_en = [
     "time": "2026-02-04T22:28:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Supreme Court asks Centre to review Wangchuk’s detention",
-    "desc": "SC had earlier directed authorities to conduct Wangchuk’s medical examination by a specialised doctor and file a report before it. The activist is currently lodged in Jodhpur jail. The medical report was placed before the apex court during the last hearing. Wangchuk was detained on Sept 26 last year under the National Security Act following protests in Leh over demands of statehood and Sixth Schedule status for Ladakh.",
-    "img": "https://static.toiimg.com/photo/msid-127919874,imgsize-99798.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/supreme-court-asks-centre-to-review-wangchuks-detention/articleshow/127919348.cms",
-    "time": "2026-02-04T22:26:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Regulator orders probe into IndiGo’s ‘unfair business practices’",
-    "desc": "Bengaluru-based Kartikeya Rawal had moved CCI after his flight on Dec 5 last year was cancelled and alternative ones were available only at higher prices. He alleged the overcharging by IndiGo was “abuse of dominance”. The airline contested the claim, while arguing that CCI did not have jurisdiction in the case.",
-    "img": "https://static.toiimg.com/photo/msid-127919226,imgsize-87998.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/regulator-orders-probe-into-indigos-unfair-business-practices/articleshow/127918960.cms",
-    "time": "2026-02-04T22:18:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Prevent systematic pattern of violence, threats against our WB staff: EC to SC",
-    "desc": "Comparing smooth conduct of SIR in other states to that in Bengal where those involved in the roll revision have been “targeted”, EC, in its affidavit, said, “It unequivocally illustrates that the challenges encountered in West Bengal are not intrinsic to the SIR process itself, but are a direct result of the inadequacies of the state machinery and the prevailing climate of political interference therein.”",
-    "img": "https://static.toiimg.com/photo/msid-127918987,imgsize-52592.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/prevent-systematic-pattern-of-violence-threats-against-our-wb-staff-ec-to-sc/articleshow/127918970.cms",
-    "time": "2026-02-04T22:10:31.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Zayn's album to have Indian influence",
     "desc": "Zayn Malik unveiled his fifth album, 'KONNAKOL', set for April 17th release, featuring a new track 'Die for Me' on February 6th. The album deeply explores his South Asian heritage, with 'Konnakol' referring to vocal percussion. The cover art prominently displays a snow leopard, a significant South Asian symbol, underscoring his roots.",
@@ -225,24 +387,6 @@ const newsData_en = [
     "time": "2026-02-04T21:54:11.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM’s reply deferred as protest stalls Lok Sabha; scared Modi ran away, says opposition",
-    "desc": "The adjournment was a fallout of the stand-off between the two sides over Leader of Opposition Rahul Gandhi’s insistence on citing the unpublished book of former Army chief, Gen M M Naravane. The confrontation intensified due to what was seen as a tit-for-tat response by BJP member Nishikant Dubey, who sought to quote from books replete with unflattering references to members of the Gandhi-Nehru clan.",
-    "img": "https://static.toiimg.com/photo/msid-127918948,imgsize-91854.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pms-reply-deferred-as-protest-stalls-lok-sabha-scared-modi-ran-away-says-opposition/articleshow/127918707.cms",
-    "time": "2026-02-04T21:51:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Allow me, sir’: Mamata argues against SIR in Supreme Court",
-    "desc": "West Bengal CM Mamata Banerjee, a law graduate and perhaps the first CM to argue in-person before the apex court, watched for 20 minutes, as SC heard West Bengal counsel Shyam Divan on irregularities in SIR in the state. She was heard telling TMC’s Kalyan Banerjee “bolbo toh aaji (I will speak today)”.",
-    "img": "https://static.toiimg.com/photo/msid-127918691,imgsize-59340.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/allow-me-sir-mamata-argues-against-sir-in-supreme-court/articleshow/127918627.cms",
-    "time": "2026-02-04T21:35:38.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Ramba Ho fame Kalpana Iyer reveals why she quit acting",
     "desc": "Kalpana Iyer, who recently returned to the spotlight after a video of her dancing to her iconic 1981 song Ramba Ho went viral, has opened up about why she stepped away from the entertainment industry. In a recent interview, Kalpana said her decision was driven by dissatisfaction with the work coming her way.",
@@ -259,15 +403,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/batc-2026-indian-men-women-register-contrasting-wins-to-seal-quarterfinal-spots/article70593269.ece",
     "time": "2026-02-04T21:14:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nick gushes about marriage to Priyanka",
-    "desc": "Nick Jonas showered praise on wife Priyanka Chopra, calling her \"always right about people\" and expressing immense pride in their daughter. His heartfelt comments during a chat with Jay Shetty have resonated with fans, who lauded his genuine admiration for his family. The couple, married since 2018, welcomed their daughter in 2022.",
-    "img": "https://static.toiimg.com/photo/msid-127918567,imgsize-51298.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nick-jonas-gushes-about-marriage-to-priyanka-chopra-reveals-one-thing-actress-is-always-right-about/articleshow/127918563.cms",
-    "time": "2026-02-04T21:08:37.000Z"
   },
   {
     "cat": "Sports",
@@ -342,15 +477,6 @@ const newsData_en = [
     "time": "2026-02-04T20:10:24.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Nick Jonas recalls daughter Malti’s six blood transfusions",
-    "desc": "Singer Nick Jonas has opened up about the harrowing early days after the birth of his daughter, Malti Marie Chopra Jonas, revealing that she was underweight and extremely fragile when she was born. In a recent interview, Nick got emotional as he spoke about Malti’s health struggles and said he still feels “awestruck” that he gets “to experience her magic” today.",
-    "img": "https://static.toiimg.com/photo/msid-127918420,imgsize-43184.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nick-jonas-recalls-malti-marie-undergoing-six-blood-transfusions-priyanka-chopra-and-i-did-12-hour-shifts-at-the-hospital-for-3-5-months/articleshow/127918403.cms",
-    "time": "2026-02-04T20:02:53.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India to be energy-secure in 20-30 years: Mukesh Ambani",
     "desc": "Ambani was in conversation with Larry Fink, chairman & CEO, BlackRock Inc, one of the world’s largest investment management firms with assets worth more than $11 trillion. Jio BlackRock is the Indian joint venture between RIL and BlackRock. The RIL chief also said that in the next 20-30 years, India’s GDP could leapfrog from the current level of about $4.5 trillion to about $25-30 trillion.",
@@ -367,24 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/crypto-awareness-outscoring-bonds-disappoints-sebi-chief/articleshow/127918405.cms",
     "time": "2026-02-04T19:59:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "R Madhavan on how wife Sarita kicked him out of the house",
-    "desc": "R Madhavan recently shared a candid and humorous anecdote about how his wife Sarita played a key role in pushing him back into work during the pandemic. What began as a light-hearted nudge eventually became a turning point, helping the actor reassess his mindset, reset after a four-year break from acting, and return with renewed focus—especially towards projects that genuinely excited him, including a steady shift to OTT platforms.",
-    "img": "https://static.toiimg.com/photo/msid-127917710,imgsize-48256.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/during-covid-she-kicked-me-out-of-the-house-r-madhavan-on-how-wife-sarita-pushed-him-back-to-work/articleshow/127917654.cms",
-    "time": "2026-02-04T18:59:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nandish breaks silence on Palash-Smriti wedding cancellation",
-    "desc": "Singer-composer Palaash Muchhal and Indian cricketer Smriti Mandhana’s wedding, scheduled for November 2025, was called off just a day before the ceremony. While Palash was later accused of allegedly cheating on Smriti, the families, in their official statement at the time, cited the ill health of Smriti’s father as the reason for postponing the wedding. Now, actor Nandish Sandhu, who was present at the wedding venue, has spoken about what unfolded there.",
-    "img": "https://static.toiimg.com/photo/msid-127916394,imgsize-105238.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/let-palaash-speak-from-his-side-nandish-sandhu-breaks-silence-on-palaash-muchhal-smriti-mandhana-wedding-cancellation/articleshow/127916275.cms",
-    "time": "2026-02-04T18:06:00.000Z"
   },
   {
     "cat": "Politics",
@@ -412,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-wc-warm-up-ishan-kishan-secures-opening-spot-as-india-crush-south-africa-by-30-runs/articleshow/127915753.cms",
     "time": "2026-02-04T17:35:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Litigants can directly approach High Court if police station ‘rejects’ complainant, says Karnataka HC",
-    "desc": "The court says the procedure of approaching a superior officer and the Magistrate applies exclusively to cases of ‘refusal’ to record information and does not extend to cases of “rejection” of a complaint by a reasoned endorsement",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/litigants-can-directly-approach-high-court-if-police-station-rejects-complainant-says-karnataka-hc/article70592157.ece",
-    "time": "2026-02-04T16:35:09.000Z"
   },
   {
     "cat": "Sports",
@@ -484,15 +583,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/school-health-programme-for-holistic-health-well-being-of-students/article70592512.ece",
     "time": "2026-02-04T15:22:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "88% individual taxpayers shift to new tax regime, CBDT chief rules out sunset clause for old regime",
-    "desc": "A significant 88% of individual taxpayers have embraced the new income tax regime, with presumptive tax cases seeing a 97% shift. The government confirms no sunset clause for the old system, emphasizing taxpayer choice. Policy changes, including MAT adjustments and proposed STT hikes, aim to further influence tax behavior and moderate derivatives trading.",
-    "img": "https://static.toiimg.com/photo/msid-127912533,imgsize-517418.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/financial-literacy/taxation/88-individual-taxpayers-shift-to-new-tax-regime-cbdt-chief-rules-out-sunset-clause-for-old-regime/articleshow/127912537.cms",
-    "time": "2026-02-04T14:30:16.000Z"
   },
   {
     "cat": "Sports",
@@ -595,48 +685,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'We lose a piece of who we are': The slow fade of mud wrestling in the Old Delhi",
-    "desc": "Traditional wrestling akhadas in Old Delhi are facing a decline due to reduced public interest and the fading of local competitions. The Covid-19 pandemic exacerbated financial struggles and halted tournaments, leading to closures. Concerns over fixed bouts and betting have eroded spectator trust, impacting young wrestlers' aspirations and the sport's future.",
-    "img": "https://static.toiimg.com/photo/msid-127906535,imgsize-46124.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/we-lose-a-piece-of-who-we-are-the-slow-fade-of-mud-wrestling-in-the-heart-of-old-delhi/articleshow/127906341.cms",
-    "time": "2026-02-04T10:06:31.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "‘As good as Bradman’: Tragic life of prodigy Archie Jackson who died aged 23",
     "desc": "Almost a century ago, on February 4, 1929, 19-year-old Archie Jackson, hailed as Bradman's equal, achieved his sole Test century in his debut Ashes match for Australia. This stunning 164 was the highlight of a tragically short career. Jackson played only eight Tests before succumbing to tuberculosis at 23, leaving behind a legacy of immense promise.",
     "img": "https://static.toiimg.com/photo/msid-127906441,imgsize-27472.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/as-good-as-don-bradman-the-tragic-life-of-batting-prodigy-archie-jackson-who-died-aged-23/articleshow/127906269.cms",
     "time": "2026-02-04T10:00:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Esha Singh wins women’s 10m air pistol gold, leads India to team triumph",
-    "desc": "Esha Singh secured the women's 10m air pistol gold at the Asian Championship, continuing her strong form. She also contributed to India's team gold, beating competitors from Chinese Taipei. This marks her second senior Asian Championship individual gold, following her 2024 continental title and last year's ISSF World Cup win.",
-    "img": "https://static.toiimg.com/photo/msid-127906095,imgsize-53230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/esha-singh-wins-womens-10m-air-pistol-gold-leads-india-to-team-triumph/articleshow/127906106.cms",
-    "time": "2026-02-04T09:47:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Asian C'ship: Samrat Rana shoots bronze as India take team silver",
-    "desc": "World champion Samrat Rana secured a bronze in the men's 10m air pistol at the Asian Championship, despite a dip in form from his qualification performance. India also clinched a silver in the team event, with Rana, Sharvan Kumar, and Varun Tomar contributing to the impressive total. The nation fields the largest contingent at the prestigious competition.",
-    "img": "https://static.toiimg.com/photo/msid-127904535,imgsize-40106.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/asian-championship-samrat-rana-shoots-bronze-as-india-take-team-silver/articleshow/127904470.cms",
-    "time": "2026-02-04T08:35:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Border 2' box office collection day 13",
-    "desc": "'Border 2' has seen a strong box office run, crossing Rs 280 crore by its second week. Despite a promising start and a Republic Day boost, the film experienced a decline post-holiday. While facing minimal competition, it's now showing signs of losing momentum ahead of new releases.",
-    "img": "https://static.toiimg.com/photo/msid-127904478,imgsize-43014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-13-live-the-sunny-deol-varun-dhawan-film-begins-to-decline-inches-towards-rs-290-crore/articleshow/127904324.cms",
-    "time": "2026-02-04T08:33:03.000Z"
   },
   {
     "cat": "Business",
@@ -657,15 +711,6 @@ const newsData_en = [
     "time": "2026-02-04T07:41:31.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'I'm a very awkward guy': Dhoni reveals why he avoids commentary box",
-    "desc": "Mahendra Singh Dhoni has largely ruled out a career in cricket commentary, citing the difficulty in balancing description with criticism and his struggle with memorizing statistics. He prefers listening and absorbing information rather than speaking, though he humorously admits to still being awkward at phone conversations.",
-    "img": "https://static.toiimg.com/photo/msid-127903046,imgsize-75252.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ms-dhoni-on-skipping-commentary-and-phone-calls-im-a-very-awkward-guy/articleshow/127903039.cms",
-    "time": "2026-02-04T07:22:55.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India's services sector growth touches 2-month high in January: PMI",
     "desc": "The seasonally adjusted HSBC India Services PMI Business Activity Index rose to a two-month high of 58.5 in January, from December's recent low of 58.0, mainly driven by demand buoyancy, new business gains and tech investment",
@@ -684,15 +729,6 @@ const newsData_en = [
     "time": "2026-02-04T06:56:13.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Check the major updates",
-    "desc": "Cricket's rulebook sees 73 significant updates from October, including mandatory completion of the final over in multi-day matches, even after a wicket falls. Wicketkeeper positioning is clarified, and the 'bunny hop catch' is removed. Laminated bats are now legal in open-age cricket, and new ball sizes are introduced for women and juniors. Overthrows are officially defined for the first time.",
-    "img": "https://static.toiimg.com/photo/msid-127900470,imgsize-78322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mcc-rewrites-cricket-rulebook-with-73-law-changes-final-over-to-be-mandatory-bunny-hop-catch-removed/articleshow/127900361.cms",
-    "time": "2026-02-04T05:17:12.000Z"
-  },
-  {
     "cat": "World",
     "title": "Japan hit by deadly snowfall; 30 dead and more than 100 injured",
     "desc": "Unusually heavy snowfall has killed at least 30 people across Japan over the past two weeks, authorities said. Record snow levels of up to 4.5 metres hit northern regions, injuring more than 100 people and disrupting daily life.",
@@ -709,24 +745,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/budget/why-the-government-has-increased-capital-spending-for-the-defence-sector/article70587496.ece",
     "time": "2026-02-04T05:00:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan's boycott of T20 World Cup match vs India: How PCB is 'violating' contract and ICC Terms of Participation",
-    "desc": "Pakistan’s decision to boycott only its T20 World Cup match against India has put the PCB on a collision course with the ICC. With no force majeure clause in the participation agreement, the move is being viewed as a contractual violation. The ICC is likely to question selective participation and potential government interference, with sanctions not ruled out.",
-    "img": "https://static.toiimg.com/photo/msid-127898545,imgsize-93786.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistans-boycott-of-t20-world-cup-match-vs-india-how-pcb-is-violating-contract-and-icc-terms-of-participation/articleshow/127898401.cms",
-    "time": "2026-02-04T03:26:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Indispensable! Why Axar Patel remains India’s unsung MVP",
-    "desc": "Axar Patel’s career has been shaped by injuries, patience, and quiet excellence. From missing the 2023 ODI World Cup to starring in India’s 2024 T20 triumph, the all-rounder has grown into a vital cog across formats. Understated yet indispensable, a lot will depend on Axar's all-round skillsets in India's T20 World Cup title defence, starting from February 7.",
-    "img": "https://static.toiimg.com/photo/msid-127898028,imgsize-52072.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/understated-indispensable-why-axar-patel-remains-indias-unsung-mvp/articleshow/127897912.cms",
-    "time": "2026-02-04T02:20:06.000Z"
   },
   {
     "cat": "World",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/budget/rise-in-southern-states-share-in-devolution-of-funds-provides-no-relief-to-tamil-nadu/article70583725.ece",
     "time": "2026-02-02T18:54:00.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "China's top general probe to 'remove obstacles' in military: state media",
-    "desc": "The Defence Ministry said last month it was investigating Mr. Zhang, the Vice Chairman of the powerful Central Military Commission (CMC), as well as Liu Zhenli, Chief of Staff of the CMC's joint staff department, which oversees combat planning",
-    "img": "https://th-i.thgim.com/public/incoming/tnvt4r/article70584637.ece/alternates/LANDSCAPE_1200/IMG_China_Navy_Symposium_2_1_NSCN3SVD.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/chinas-top-general-probe-to-remove-obstacles-in-military-state-media/article70584175.ece",
-    "time": "2026-02-02T16:52:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Snowflake and OpenAI make a $200 million bid to corner corporate data intelligence market",
-    "desc": "The deal, which integrates OpenAI’s most advanced models directly into Snowflake’s data infrastructure, represents a significant tactical shift for both firms, signalling that the battle for enterprise AI has moved from the chatbox to the database",
-    "img": "https://th-i.thgim.com/public/sci-tech/technology/z8x9fo/article70581892.ece/alternates/LANDSCAPE_1200/216db353-3e70-497f-acbf-63f28709817a.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/snowflake-and-openai-make-a-200-million-bid-to-corner-corporate-data-intelligence-market/article70581945.ece",
-    "time": "2026-02-02T15:21:24.000Z"
   }
 ];

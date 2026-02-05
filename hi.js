@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "T20 World Cup warm-up schedule: Australia, New Zealand to gear up for tournament today",
+    "desc": "The 10th edition of the T20 World Cup is set to get underway on February 7, and the participating teams are gearing up for the tournament with the warm-up games. As many as eight teams...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-warm-up-schedule-australia-new-zealand-to-gear-up-for-tournament-today-2026-02-05-1028972",
+    "time": "2026-02-05T03:35:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sarfaraz Khan hospitalised ahead of Mumbai's Ranji Trophy quarterfinal clash against Karnataka: Report",
+    "desc": "Mumbai are gearing up for their Ranji Trophy quarterfinal clash against Karnataka, which is scheduled to commence on Friday (February 6). However, ahead of the clash, their in-form batter Sarfaraz Khan has been hospitalised due...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sarfaraz-khan-hospitalised-ahead-of-mumbai-s-ranji-trophy-quarterfinal-clash-against-karnataka-report-2026-02-05-1028968",
+    "time": "2026-02-05T02:51:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harshit Rana injured ahead of T20 World Cup 2026? Here's why fast bowler walked off during warm-up vs SA",
+    "desc": "India dominated South Africa in their only warm-up game ahead of the T20 World Cup, winning by 30 runs. However, a couple of days ahead of their opening game in the tournament, the hosts have...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harshit-rana-injured-ahead-of-t20-world-cup-2026-here-s-why-fast-bowler-walked-off-during-warm-up-vs-sa-2026-02-05-1028957",
+    "time": "2026-02-05T01:51:39.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Star wicketkeeper reveals his fitness status and comeback from side strain issue",
     "desc": "India wicketkeeper batter Rishabh Pant has opened up on his fitness status as he eyes a return to competitive cricket. The 28-year-old had suffered a right-sided internal oblique muscle tear during a practice session ahead...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/what-worries-ms-dhoni-as-india-eye-t20-world-cup-title-defence-2026-02-04-1028930",
     "time": "2026-02-04T16:31:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mirabai Chanu scripts history, sets three new national records in Weightlifting Championships",
-    "desc": "Mirabai Chanu produced one of the standout moments of the National Weightlifting Championships 2026 with a dominant gold-medal performance in the women’s 48kg category, rewriting the national record books in Modinagar, Uttar Pradesh, on Wednesday. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/mirabai-chanu-scripts-history-sets-three-new-national-records-in-weightlifting-championships-2026-02-04-1028928",
-    "time": "2026-02-04T15:38:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India create history in U19 World semifinal vs Afghanistan, to face England in final for title",
-    "desc": "India have created history as they have chased down the biggest target in the U19 World Cup ever with their stellar win over Afghanistan in the semifinal of the ongoing edition of the tournament. Led...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-create-history-in-u19-world-cup-semifinal-vs-afghanistan-as-aaron-georges-ton-leads-team-in-final-2026-02-04-1028924",
-    "time": "2026-02-04T14:56:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is Aaron George, the star India U19 opener with a stellar ton vs Afghanistan U19 in World Cup semifinal?",
-    "desc": "India U19 opener Aaron George slammed a stellar hundred in a must-win U19 World Cup 2026 semifinal against Afghanistan as the youngster played a brilliant knock at the Harare Sports Club, Harare. With India needing to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/who-is-aaron-george-the-star-india-u19-opener-with-a-stellar-ton-vs-afghanistan-u19-in-world-cup-semifinal-2026-02-04-1028921",
-    "time": "2026-02-04T14:40:36.000Z"
   }
 ];
