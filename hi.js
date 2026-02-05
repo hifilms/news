@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "List of IPL 2025 winning players who are not a part of T20 World Cup 2026",
+    "desc": "The T20 World Cup 2026 is all set to kick off on February 7. The marquee tournament will be co-hosted by India and Sri Lanka, and ahead of the tournament opener, the Indian team has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/list-of-ipl-2025-winning-players-who-are-not-a-part-of-t20-world-cup-2026-2026-02-05-1029024",
+    "time": "2026-02-05T09:32:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Head-to-head record ahead of WPL 2026 final",
+    "desc": "Royal Challengers Bengaluru women are all set to lock horns with Delhi Capitals women in the summit clash of the WPL (Women’s Premier League) 2026. The clash is slated to be held at the Kotambi...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/royal-challengers-bengaluru-women-vs-delhi-capitals-women-head-to-head-record-ahead-of-wpl-2026-final-2026-02-05-1029020",
+    "time": "2026-02-05T08:54:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Best T20 cricket team right now': World Cup-winning captain predicts his semi-finalists ahead of T20 WC 2026",
+    "desc": "The T20 World Cup 2026 is all set to kick off on February 7. The marquee event will be held in India and Sri Lanka. It is interesting to note that 20 sides will be...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/best-t20-cricket-team-right-now-world-cup-winning-captain-predicts-his-semi-finalists-ahead-of-t20-wc-2026-2026-02-05-1029011",
+    "time": "2026-02-05T08:04:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC announces broadcast details for T20 World Cup 2026; Check details",
+    "desc": "The T20 World Cup is all set to kick off on February 7. The marquee event is all set to be co-hosted by India and Sri Lanka. The 20 sides that are participating will look...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-announces-broadcast-details-for-t20-world-cup-2026-check-details-2026-02-05-1029004",
+    "time": "2026-02-05T07:22:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Team India's record in T20 World Cup history",
     "desc": "The stage is set for the upcoming edition of the T20 World Cup 2026. The marquee tournament is being co-hosted by India and Sri Lanka and is slated to begin on February 7. This will...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/harshit-rana-injured-ahead-of-t20-world-cup-2026-here-s-why-fast-bowler-walked-off-during-warm-up-vs-sa-2026-02-05-1028957",
     "time": "2026-02-05T01:51:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Star wicketkeeper reveals his fitness status and comeback from side strain issue",
-    "desc": "India wicketkeeper batter Rishabh Pant has opened up on his fitness status as he eyes a return to competitive cricket. The 28-year-old had suffered a right-sided internal oblique muscle tear during a practice session ahead...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-injury-update-star-wicketkeeper-reveals-his-fitness-status-and-comeback-from-side-strain-issue-2026-02-05-1028946",
-    "time": "2026-02-04T18:31:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When did India decide to drop Sanju Samson from opening slot? Ishan Kishan reveals after South Africa warm-up",
-    "desc": "India seems to have made their decision on who is going to open in the upcoming T20 World Cup 2026, with their calls in the last few days clearly indicating that Ishan Kishan is now...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/when-did-india-decide-to-drop-sanju-samson-from-opening-slot-ishan-kishan-reveals-after-south-africa-warm-up-2026-02-04-1028943",
-    "time": "2026-02-04T18:15:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan won't play against India in T20 World Cup 2026, says PM Shehbaz Sharif, citing support to Bangladesh",
-    "desc": "Uncertainty has deepened around the marquee India–Pakistan clash at the T20 World Cup 2026 after Pakistan Prime Minister Shehbaz Sharif publicly confirmed that the Men in Green will not take the field for the scheduled...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-won-t-play-against-india-in-t20-world-cup-2026-says-pm-shehbaz-sharif-citing-support-to-bangladesh-2026-02-04-1028942",
-    "time": "2026-02-04T18:10:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Marc Guéhi explains motivation behind joining Manchester City, what he brings to Pep Guardiola's side",
-    "desc": "Marc Guéhi has spoken about his outlook, development, and motivation after joining Manchester City, offering insight into the mindset he believes will help him thrive at one of Europe’s most demanding clubs. In an interview,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/marc-guehi-explains-motivation-behind-joining-manchester-city-what-he-brings-to-pep-guardiola-s-side-2026-02-04-1028937",
-    "time": "2026-02-04T17:48:30.000Z"
   }
 ];

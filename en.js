@@ -1,5 +1,185 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Tribeny Rai on the making of Nepalese film ‘Shape of Momo’",
+    "desc": "The film ‘Shape of Momo’ had premiered at the Busan International Film Festival in South Korea in November 2025 where it won the Taipei Film Commission Award and the Songwon Vision Award. Sikkim-based filmmaker Tribeny Rai talks about the making of the movie, which is a commentary on stereotypical gender roles and the toll it takes on women who resist such expectations.",
+    "img": "https://th-i.thgim.com/public/incoming/yxk26m/article70595034.ece/alternates/LANDSCAPE_1200/Tribeny%20Rai%20Thumb.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-tribeny-rai-on-the-making-of-nepalese-film-shape-of-momo/article70595030.ece",
+    "time": "2026-02-05T09:21:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Fallout Season 2’ ending explained: all you need to know",
+    "desc": "Fallout Season 2 concludes with Lucy confronting her father and reuniting with Maximus, while The Ghoul embarks on a quest to Colorado following a family clue. The season finale hints at a looming war with the activation of Liberty Prime Alpha, setting the stage for a confirmed Season 3.",
+    "img": "https://static.toiimg.com/photo/msid-127928975,imgsize-34968.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/fallout-season-2-ending-explained-lucy-maximus-and-the-ghouls-fate-and-the-future-of-the-wasteland/articleshow/127928952.cms",
+    "time": "2026-02-05T09:14:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'No such visit took place': MEA rubbishes report claiming Doval–Rubio meet before India-US trade deal",
+    "desc": "The Ministry of External Affairs has firmly denied a Bloomberg report alleging National Security Adviser Ajit Doval met with US Secretary of State Marco Rubio regarding a trade deal. MEA spokesperson Randhir Jaiswal called the claims baseless, stating no such meeting occurred. This rebuttal follows recent announcements of a trade agreement between India and the US.",
+    "img": "https://static.toiimg.com/photo/msid-127928964,imgsize-1015986.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-such-visit-took-place-mea-rubbishes-report-claiming-dovalrubio-meet-before-india-us-trade-deal/articleshow/127928981.cms",
+    "time": "2026-02-05T09:14:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Border 2' box office collection day 14 (LIVE)",
+    "desc": "'Border 2' continues its strong box office journey, crossing ₹291 crore despite a recent dip after its initial surge. The film, which saw a significant boost from the Republic Day holiday, is now earning single-digit figures in its second week. While it held its ground against 'Mardaani 3', the ensemble cast's film is showing signs of slowing down.",
+    "img": "https://static.toiimg.com/photo/msid-127928540,imgsize-85108.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-14-live-the-sunny-deol-varun-dhawan-film-inches-towards-rs-300-crore/articleshow/127928440.cms",
+    "time": "2026-02-05T08:48:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "IndiGo shares tumble! InterGlobe Aviation stock plunges 3% as CCI launches detailed probe",
+    "desc": "InterGlobe Aviation shares tumbled as the Competition Commission of India (CCI) launched a detailed probe into IndiGo for alleged unfair business practices. The regulator suspects the airline misused its dominant market position by cancelling thousands of flights, creating artificial scarcity and restricting consumer access to air travel.",
+    "img": "https://static.toiimg.com/photo/msid-127928089,imgsize-55472.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indigo-shares-tumbles-interglobe-aviation-stock-plunges-3-as-cci-launches-detailed-probe/articleshow/127927880.cms",
+    "time": "2026-02-05T08:29:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC directs WB government to pay DA to employees by March; BJP hails verdict",
+    "desc": "The Supreme Court has ordered West Bengal to pay dearness allowance to its employees as per the 2008 pay rules, stating financial constraints are no excuse. While upholding the entitlement to DA under state rules, the court clarified it's not a fundamental right, unlike a previous High Court ruling.",
+    "img": "https://static.toiimg.com/photo/msid-127926361,imgsize-530906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-directs-wb-government-to-pay-da-to-employees-by-march-bjp-hails-verdict/articleshow/127926157.cms",
+    "time": "2026-02-05T08:15:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sherri Shepherd breaks silence on ‘Sherri’ cancellation",
+    "desc": "Talk show host Sherri Shepherd has revealed she has COVID-19, explaining her absence from the show following its cancellation announcement. She expressed gratitude for fan support and promised to address the show's end, attributed to a changing TV landscape, once she recovers. The production company indicated interest in exploring other platforms for the show.",
+    "img": "https://static.toiimg.com/photo/msid-127927697,imgsize-39014.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/sherri-shepherd-breaks-silence-on-sherri-cancellation-shares-health-update/articleshow/127927697.cms",
+    "time": "2026-02-05T08:04:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anil apologizes to fan after he missed to tag the singers in Pukar post",
+    "desc": "Anil Kapoor apologized to a fan after forgetting to tag singers in his 'Pukar' anniversary post. The actor quickly corrected the mistake and gave credit to A.R. Rahman, Udit Narayan, and Kavita Krishnamurthy. Currently, Anil is working on Hansal Mehta’s series Family Business and his upcoming film 'Subedaar'.",
+    "img": "https://static.toiimg.com/photo/msid-127927701,imgsize-57952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anil-kapoor-apologizes-to-fan-after-he-missed-to-tag-the-singers-in-pukar-post-i-am-sorry-i-will-repost-it-with-both-their-names/articleshow/127927701.cms",
+    "time": "2026-02-05T08:03:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Trump supports Savannah Guthrie amid her mother's disappearance",
+    "desc": "US President Donald Trump has pledged full federal law enforcement support for the search of Nancy Guthrie, mother of journalist Savannah Guthrie, who went missing on January 31st. Trump announced on Truth Social that all resources are being deployed to ensure her safe return.",
+    "img": "https://static.toiimg.com/photo/msid-127927557,imgsize-44880.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/tv/news/english/us-president-donald-trump-supports-savannah-guthrie-amid-the-disappearance-of-her-mother-we-are-deploying-all-resources/articleshow/127927557.cms",
+    "time": "2026-02-05T08:02:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "When mental health advice comes from artificial intelligence",
+    "desc": "Online symptom checkers and social media are leading many to self-diagnose mental health conditions, often bypassing professional help. This trend, fueled by accessible yet often inaccurate content, risks misdiagnosis, inappropriate self-treatment, and delayed care, especially in regions with limited mental healthcare access. Experts urge caution, emphasizing the complexity of clinical diagnosis.",
+    "img": "https://static.toiimg.com/photo/msid-127927504,imgsize-1520729.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/the-diy-therapy-when-mental-health-advice-comes-from-artificial-intelligence/articleshow/127927060.cms",
+    "time": "2026-02-05T07:56:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'Limitless potential!': Sergio Gor hails India-US ties; points to ongoing high level engagements",
+    "desc": "India and the US are set to deepen their bilateral ties, with Ambassador Gor highlighting readiness for elevated engagement. External Affairs Minister S Jaishankar's recent meetings with US officials, including Secretary of State Marco Rubio and Treasury Secretary Scott Bessent, covered trade, energy, defense, and critical minerals, signaling a robust economic and strategic partnership ahead.",
+    "img": "https://static.toiimg.com/photo/msid-127927466,imgsize-1148281.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/limitless-potential-sergio-gor-hails-india-us-ties-points-to-ongoing-high-level-engagements/articleshow/127926514.cms",
+    "time": "2026-02-05T07:54:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Savannah Guthrie’s replacement for Winter Olympics revealed",
+    "desc": "Savannah Guthrie will not be covering the 2026 Winter Olympics due to her mother Nancy's disappearance. Mary Carillo will replace her for the Opening Ceremony, joined by co-host Terry Gannon and analyst Shaun White. The family is focused on Nancy's safe return, with authorities actively investigating her disappearance from Tucson.",
+    "img": "https://static.toiimg.com/photo/msid-127927310,imgsize-58708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/tv/news/english/who-will-replace-savannah-guthrie-in-the-2026-winter-olympics-coverage-amid-her-mother-nancys-disappearance/articleshow/127927277.cms",
+    "time": "2026-02-05T07:46:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "On reinvention, failures and why cynicism never won",
+    "desc": "Abhishek Bachchan, marking 25 years in Bollywood, embraces reinvention as he turns 50. Despite facing numerous flops and public scrutiny, he remains grounded, acknowledging his privilege while crediting his survival to merit. He emphasizes the necessity of constant evolution to connect with new audiences and avoid becoming stale, a lesson learned from observing industry peers.",
+    "img": "https://static.toiimg.com/photo/msid-127926503,imgsize-14250.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhishek-bachchan-at-50-on-reinventing-himself-staying-motivated-through-failures-and-why-cynicism-never-won-exclusive/articleshow/127926191.cms",
+    "time": "2026-02-05T07:40:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Prashant Kishor's Jan Suraaj party moves Supreme Court challenging Bihar elections, seeks fresh polls",
+    "desc": "Prashant Kishor's Jan Suraaj Party has petitioned the Supreme Court, challenging the 2025 Bihar Assembly elections and demanding fresh polls. The party alleges the Bihar government violated the Model Code of Conduct by transferring Rs 10,000 to women beneficiaries after election schedules were announced, seeking the Election Commission's intervention.",
+    "img": "https://static.toiimg.com/photo/msid-127927163,imgsize-1012508.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/prashant-kishors-jan-suraaj-party-moves-supreme-court-challenging-bihar-elections-seeks-fresh-polls/articleshow/127927162.cms",
+    "time": "2026-02-05T07:37:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Watch",
+    "desc": "At a lively promotional gathering for 'Do Deewane Seher Mein', Siddhant Chaturvedi couldn't resist playfully poking fun at Mrunal Thakur's connection to Chennai, leaving her cheeks flushed. This charming banter has once again sparked buzz surrounding her rumored romance with Tamil superstar Dhanush.",
+    "img": "https://static.toiimg.com/photo/msid-127926582,imgsize-33112.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/siddhant-chaturvedi-teases-mrunal-thakur-over-dhanush-linkup-rumors-chennai-wala-sawaal-inse-tha-ya-mujhse-watch/articleshow/127926582.cms",
+    "time": "2026-02-05T07:18:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘AAAHH MEN!’ rules the new teaser",
+    "desc": "The Revenge', starring Ranveer Singh, features Doja Cat’s song AAAHH MEN!, confirmed as the official soundtrack. Licensed and used in its original version, it sparked discussion online. Fans praised the international collaboration, though reactions to reused footage were mixed. The sequel releases on March 19, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-127926455,imgsize-34772.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-the-revenge-x-doja-cat-grammy-winners-track-aaahh-men-rules-the-new-teaser/articleshow/127926455.cms",
+    "time": "2026-02-05T07:05:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Search for Lil Jon’s Son DJ Young Slade Cases",
+    "desc": "The search is on for DJ Young Slade, a 27-year-old budding artist and son of hip-hop icon Lil Jon, who mysteriously disappeared from his home in Georgia. He was last spotted walking away without his phone, raising concerns that he may be lost and needing help.",
+    "img": "https://static.toiimg.com/photo/msid-127925994,imgsize-45626.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/search-underway-for-lil-jons-27-year-old-son-dj-young-slade-after-disappearance-from-georgia-home/articleshow/127925994.cms",
+    "time": "2026-02-05T06:53:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Savannah Guthrie and siblings plead for ‘vanished’ mom Nancy",
+    "desc": "Savannah Guthrie and her siblings are desperately seeking their mother, Nancy Guthrie, 84, who vanished from her Arizona home on February 1. A visibly emotional Savannah pleaded for her mother's safe return, mentioning ransom notes and the need to confirm Nancy is alive. Authorities have declared her home a crime scene, indicating foul play.",
+    "img": "https://static.toiimg.com/photo/msid-127926132,imgsize-54760.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/tv/news/english/savannah-guthrie-and-two-siblings-share-a-tearful-plea-to-vanished-mother-nancy-guthries-possible-captors/articleshow/127926118.cms",
+    "time": "2026-02-05T06:52:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "K-drama fans jump to death: Sonu Sood reacts",
+    "desc": "Three young sisters in Ghaziabad tragically ended their lives after their father restricted their access to a Korean 'love game'. Police are investigating the incident, with preliminary findings suggesting a deep influence from Korean content and significant mobile phone usage. Actor Sonu Sood has voiced strong concerns about online gaming addiction among children.",
+    "img": "https://static.toiimg.com/photo/msid-127925268,imgsize-47850.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/three-korean-fans-jump-to-death-in-up-sonu-sood-reacts-to-triple-suicide/articleshow/127924902.cms",
+    "time": "2026-02-05T06:51:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Didn’t expect to be back this early’: Tilak's comeback lifts India's WC mood",
+    "desc": "Tilak Varma made a remarkable comeback from injury, scoring a quickfire 45 off 19 balls in India's T20 World Cup warm-up win against South Africa. Expressing gratitude for his accelerated recovery, Varma credited the BCCI and CoE, feeling immense support from the crowd. The team's aggressive batting energy inspired his free-flowing play, signaling readiness for the World Cup opener.",
+    "img": "https://static.toiimg.com/photo/msid-127925993,imgsize-49100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/didnt-expect-to-be-back-this-early-tilak-varmas-emotional-comeback-lifts-indias-t20-world-cup-mood/articleshow/127925971.cms",
+    "time": "2026-02-05T06:47:51.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "In his maiden speech at Rajya Sabha, Kamal Haasan calls SIR a ‘disease giving rise to many living dead’",
     "desc": "Finance Minister Nirmala Sitharaman, referring to Mr. Hassan’s statement alleging that she had used derogatory words about the Tamil language in 2025, clarified that she had quoted Periyar E.V. Ramasamy Naicker and it was not her views.",
@@ -7,6 +187,24 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/kamal-haasan-maiden-speech-in-rajya-sabha-special-intensive-revision-a-disease-giving-rise-to-many-living-dead/article70592787.ece",
     "time": "2026-02-05T06:46:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lisa Kudrow and Michel Stern’s combined net worth",
+    "desc": "Lisa Kudrow, best known for her unforgettable portrayal of Phoebe Buffay, has built an impressive financial empire since her days on 'Friends'. With an astonishing net worth of $130 million, her wealth is significantly enhanced by her successful production company and numerous projects in the entertainment industry. Meanwhile, her husband, media-savvy advertiser Michel Stern, adds another $1.",
+    "img": "https://static.toiimg.com/photo/msid-127925687,imgsize-67312.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lisa-kudrow-and-michel-sterns-combined-net-worth-inside-your-favorite-friends-stars-financial-empire/articleshow/127925687.cms",
+    "time": "2026-02-05T06:42:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Govinda’s manager denies criminal angle in late-night incident rumors",
+    "desc": "Govinda’s manager denied reports of an alleged attack, clarifying the late-night incident was misinterpreted and involved no criminal act. He said the actor acted in self-defense and responsibly handled the situation. The manager urged people to avoid spreading rumours, confirming police were informed and evidence supports Govinda’s innocence.",
+    "img": "https://static.toiimg.com/photo/msid-127925878,imgsize-26476.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govindas-manager-breaks-silence-denies-criminal-angle-in-late-night-incident-rumors/articleshow/127925878.cms",
+    "time": "2026-02-05T06:41:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -81,26 +279,8 @@ const newsData_en = [
     "time": "2026-02-05T05:45:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Govinda's wife Ssunita is set to make her Bollywood debut",
-    "desc": "Sunita Ahuja, known as Govinda's wife, is stepping into the cinematic world with her first film produced by the renowned Ektaa Kapoor. Taking on a substantial role, she’ll be shooting for about 20 days. This announcement comes hot on the heels of her revealing comments about her marriage and the couple’s previous public denials regarding any relationship struggles.",
-    "img": "https://static.toiimg.com/photo/msid-127924378,imgsize-34864.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govindas-wife-sunita-ahuja-is-set-to-make-her-bollywood-debut-signs-her-first-film/articleshow/127924378.cms",
-    "time": "2026-02-05T05:26:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jisoo unveils 'Boyfriend On Demand' trailer",
-    "desc": "BLACKPINK's Jisoo unveiled a charming trailer for her new rom-com, 'Boyfriend on Demand,' co-starring Seo In-guk. The series, premiering March 6, explores a virtual dating service where Jisoo's character, Mirae, finds love amidst fantasy and reality. Fans are buzzing about the sneak peek, especially a captivating kiss scene.",
-    "img": "https://static.toiimg.com/photo/msid-127923724,imgsize-9502.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/boyfriend-on-demand-trailer-jisoo-and-seo-in-guk-explore-love-online-fans-react-to-blackpink-stars-on-screen-kiss/articleshow/127923633.cms",
-    "time": "2026-02-05T05:21:07.000Z"
-  },
-  {
     "cat": "Sports",
-    "title": "Fourth-time lucky for DC? Jemimah set for key role as Mandhana’s RCB await in WPL final",
+    "title": "4th-time lucky for DC? Jemimah set for key role as Mandhana’s RCB await in WPL final",
     "desc": "Jemimah Rodrigues has transformed into a commanding Delhi Capitals captain, leading her team to the WPL final after a shaky start. Despite RCB's league-stage dominance and final experience, the Capitals, with their in-form batting unit and resilient captain, arrive with significant momentum for the summit showdown.",
     "img": "https://static.toiimg.com/photo/msid-127924308,imgsize-166448.cms",
     "src": "indiatimes.com",
@@ -144,15 +324,6 @@ const newsData_en = [
     "time": "2026-02-05T04:32:17.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar 2' OTT rights get sold for MASSIVE amount",
-    "desc": "The Revenge' has made waves with a staggering Rs 150 crore OTT deal, nearly twice the figure from its predecessor. This impressive agreement not only underscores the film's popularity but also showcases the hunger for more content from its fanbase.",
-    "img": "https://static.toiimg.com/photo/msid-127923509,imgsize-39986.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-ott-rights-get-sold-for-rs-150-crore-makers-strike-massive-digital-deal/articleshow/127923509.cms",
-    "time": "2026-02-05T04:27:39.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Markets trade in red as tech stocks tumble; Kospi falls 4%, Nikkei down 600 points",
     "desc": "Asian markets opened lower, mirroring losses in US technology stocks that dampened investor confidence. Despite modest gains in US stock futures, a mixed close on Wall Street and falling oil prices contributed to the regional retreat. Technology shares, particularly software companies, faced pressure amid concerns over AI competition.",
@@ -180,15 +351,6 @@ const newsData_en = [
     "time": "2026-02-05T04:02:37.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Timothee Chalamet CHEATING on Kylie Jenner?",
-    "desc": "Timothee Chalamet, an Oscar frontrunner, sparked social media debate after being photographed in Paris with a woman resembling Anamaria Vartolomei. Despite his confirmed relationship with Kylie Jenner, the sighting led to speculation. Fans are divided, with some defending the actor and others questioning the secrecy of the outing.",
-    "img": "https://static.toiimg.com/photo/msid-127923206,imgsize-31398.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/timothee-chalamet-spotted-with-mystery-woman-in-paris-sparks-cheating-rumours-amid-kylie-jenner-wedding-buzz/articleshow/127922610.cms",
-    "time": "2026-02-05T03:57:55.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Nifty50 opens in red; BSE Sensex down over 150 points",
     "desc": "Indian stock markets opened lower today, with Nifty50 and BSE Sensex experiencing declines. While IT stocks faced a sell-off due to automation fears, domestic consumption-driven sectors showed resilience. Analysts remain cautiously optimistic, awaiting FII buying trends and positive impacts from recent trade deals and budget announcements.",
@@ -210,7 +372,7 @@ const newsData_en = [
     "cat": "Politics",
     "title": "The Washington post fires around 300 employees, scales back global reporting",
     "desc": "The Washington Post has undergone significant layoffs, impacting a substantial portion of its workforce, including foreign affairs columnist Ishaan Tharoor and numerous international correspondents. This restructuring drastically curtails the newspaper's global coverage, leading to the closure of bureaus and the elimination of key sections. The move has drawn sharp criticism from former editors and staff.",
-    "img": "https://static.toiimg.com/photo/msid-127922864,imgsize-234699.cms",
+    "img": "https://static.toiimg.com/photo/msid-127925824,imgsize-64146.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/shashi-throors-son-ishaan-among-staff-sacked-by-washington-post-pens-sombre-note/articleshow/127922743.cms",
     "time": "2026-02-05T03:45:10.000Z"
@@ -225,15 +387,6 @@ const newsData_en = [
     "time": "2026-02-05T03:40:21.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Did Talwiinder just CONFIRM his relationship with Disha?",
-    "desc": "The buzz around Bollywood diva Disha Patani and Punjabi music sensation Talwiinder is reaching new heights, especially after their recent appearance together at a lively concert in Mumbai. In an intriguing interview, Talwiinder hinted at their blossoming friendship, remarking that they are 'just trying to navigate our journey together.",
-    "img": "https://static.toiimg.com/photo/msid-127922803,imgsize-53894.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-talwiinder-just-confirm-his-relationship-with-disha-patani-says-im-falling-in-love/articleshow/127922803.cms",
-    "time": "2026-02-05T03:26:23.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IND vs SA warm-up: Ishan settles the debate; Surya and Co. are on the loose",
     "desc": "Ishan Kishan’s explosive warm-up knock against South Africa may have finally settled India’s long-running wicketkeeper debate. With Sanju Samson out of form and the World Cup around the corner, Kishan’s clarity, confidence, and dominance at the top make him the clear frontrunner. And come Saturday, he will walk out as Abhishek Sharma's opening partner against the USA in Mumbai.",
@@ -241,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-vs-south-africa-warm-up-ishan-kishan-settles-the-debate-surya-and-his-boys-are-on-the-loose/articleshow/127922487.cms",
     "time": "2026-02-05T03:09:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bhavana did not realise how serious her first award was",
-    "desc": "Actress Bhavana reflects on her early career, admitting she didn't grasp the significance of her Kerala State Film Award at a young age. She also reminisces about her first international trip for a song shoot in 'Swapnakoodu'. Bhavana, who never planned her acting path, is now preparing for her 90th film, 'Anomie', releasing February 6th.",
-    "img": "https://static.toiimg.com/photo/msid-127922480,imgsize-31848.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/i-did-not-understand-how-serious-it-was-bhavana-opens-up-about-her-first-state-award/articleshow/127922480.cms",
-    "time": "2026-02-05T03:04:54.000Z"
   },
   {
     "cat": "Sports",
@@ -270,15 +414,6 @@ const newsData_en = [
     "time": "2026-02-05T02:44:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Law firm offers to EVICT Billie from home on Tongva land",
-    "desc": "Grammy winner Billie Eilish sparked controversy with an anti-ICE speech, stating \"There are no illegal people on stolen land.\" Critics pointed out her $3 million mansion reportedly sits on Tongva ancestral land. While a law firm jokingly offered eviction services, the Tongva tribe expressed hope for future direct engagement and acknowledgement of their history.",
-    "img": "https://static.toiimg.com/photo/msid-127921696,imgsize-40164.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/billie-eilish-to-be-evicted-from-mansion-on-tongva-land-law-firm-offers-to-serve-notice-amid-stolen-land-backlash/articleshow/127921681.cms",
-    "time": "2026-02-05T02:37:23.000Z"
-  },
-  {
     "cat": "Business",
     "title": "US households become increasingly strained in diverging economy",
     "desc": "Around the crack of dawn, a line begins forming at a strip mall in Hyattsville, Maryland, as residents ranging from students to delivery workers and federal contractors wait to sign up for food assistance. - 'Scraping' - Salih Taylor, a federal worker, said he had not considered visiting a food drive until speaking with his church's pastor.",
@@ -286,24 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-households-become-increasingly-strained-in-diverging-economy/articleshow/127922008.cms",
     "time": "2026-02-05T02:29:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mammootty made him return",
-    "desc": "Veteran actor Madhu, 92, emotionally revealed his near-retirement after a fall before 'Lucifer'. He saw it as a sign to quit. However, Mammootty's heartfelt plea to act in 'One' convinced him to return, showcasing their enduring bond and Madhu's continued passion for cinema.",
-    "img": "https://static.toiimg.com/photo/msid-127921843,imgsize-107396.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/madhu-says-he-retired-after-missing-mohanlals-lucifer-mammootty-convinced-him-to-return/articleshow/127921843.cms",
-    "time": "2026-02-05T02:13:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sonu Sood STRONGLY REACTS to Ghaziabad triple suicide case",
-    "desc": "In light of the heartbreaking loss of three young lives in Ghaziabad, actor Sonu Sood has raised alarm bells regarding the perils of online gaming and social media for children. He passionately implored guardians to curtail the screen time allowed to minors, arguing that youthful years should be nurtured with care and vigilance rather than virtual distractions.",
-    "img": "https://static.toiimg.com/photo/msid-127921767,imgsize-22158.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonu-sood-raises-alarm-over-online-gaming-addiction-among-kids-after-ghaziabad-triple-suicide-case-unhe-screen-nahi-saath/articleshow/127921767.cms",
-    "time": "2026-02-05T02:06:43.000Z"
   },
   {
     "cat": "Politics",
@@ -324,33 +441,6 @@ const newsData_en = [
     "time": "2026-02-05T01:30:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Alia Bhatt's 'Alpha': OTT premiere or theatrical release?",
-    "desc": "Breaking away from earlier expectations of a streaming debut, Alia Bhatt and Sharvari's thrilling new movie 'Alpha' is all set to grace the big screen. Currently wrapping up its final scenes, the theatrical release is scheduled for April this year. This monumental project is set to shine as a pivotal female-led film within the celebrated spy franchise.",
-    "img": "https://static.toiimg.com/photo/msid-127921452,imgsize-55178.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/will-alia-bhatt-and-sharvaris-spy-thriller-alpha-skip-theaters-and-release-directly-on-ott-heres-what-we-know/articleshow/127921452.cms",
-    "time": "2026-02-05T01:27:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranbir greets fans in Japanese at 'Animal' premiere",
-    "desc": "Ranbir Kapoor and director Sandeep Reddy Vanga virtually attended the Japan premiere of their blockbuster 'Animal'. After a massive box office success in India, the film is set for a theatrical release in Japan on February 13, 2026. Kapoor's heartfelt Japanese \"Thank you\" to fans went viral, highlighting the film's global appeal and anticipation for its international run.",
-    "img": "https://static.toiimg.com/photo/msid-127921371,imgsize-43746.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/animal-ranbir-kapoor-greets-fans-in-japanese-at-premiere-film-set-for-release-in-japan-on-february-13-watch/articleshow/127921325.cms",
-    "time": "2026-02-05T01:24:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'VVK' BO day 6: Jeethu Joseph's film holds steady",
-    "desc": "Jeethu Joseph's 'Valathu Vashathe Kallan' has garnered Rs 4.52 crore in its first six days, with Wednesday's collection at Rs 31 lakhs. Despite a strong cast, the film faces mixed reviews, with some praising its crime thriller elements and others criticizing its plot and execution. Low occupancy suggests reliance on word-of-mouth.",
-    "img": "https://static.toiimg.com/photo/msid-127921473,imgsize-50184.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/valathu-vashathe-kallan-box-office-collections-day-6-jeethu-josephs-film-holds-steady-mints-rs-31-lakhs/articleshow/127921473.cms",
-    "time": "2026-02-05T01:20:34.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Pawar visits Sunetra at home, reignites reunification buzz",
     "desc": "Amid reports of a division in the family, Pawar, Sunetra, her sons Parth and Jay, and other relatives held a closed-door meeting in their hometown late Wednesday, reigniting the reunification buzz. Pawar Senior and his wife Pratibha offered condolences to Ajit Pawar’s family, and together, they all met locals who visited them.",
@@ -360,42 +450,6 @@ const newsData_en = [
     "time": "2026-02-05T01:00:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "SC",
-    "desc": "After learning that issues relating to bail and pleas for suspension of sentence after conviction were pending in HCs for months and getting routinely adjourned, a bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and Vipul M Pancholi said, “We are extremely disappointed over the manner in which matters relating to personal liberty of individuals are dealt with by the HCs.”",
-    "img": "https://static.toiimg.com/photo/msid-127921348,imgsize-85628.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/expect-cjs-of-hcs-to-ensure-speedy-disposal-of-bail-petitions-sc/articleshow/127921349.cms",
-    "time": "2026-02-05T00:47:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pedro Pascal replaces Joaquin Phoenix in ‘De Noche’",
-    "desc": "Pedro Pascal steps into the lead role in Todd Haynes' 'De Noche', a Mexican love story, replacing Joaquin Phoenix. Pascal will portray a detective entangled with a younger teacher, played by Danny Ramirez, as they navigate a corrupt political landscape and flee the country. Filming is slated to commence next month, promising a compelling narrative.",
-    "img": "https://static.toiimg.com/photo/msid-127921308,imgsize-31594.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/pedro-pascal-replaces-joaquin-phoenix-to-star-opposite-danny-ramirez-in-todd-haynes-de-noche/articleshow/127921141.cms",
-    "time": "2026-02-05T00:39:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Chatha Pacha' BO day 14: Mammootty's film crosses strong mark",
-    "desc": "The Ring of Rowdies' has achieved a worldwide collection of Rs 33.12 crore after 14 days. The film's strong audience connection is evident in its steady performance, boosted by positive word-of-mouth and a standout cameo by Mammootty. The technical aspects and performances have also garnered significant praise.",
-    "img": "https://static.toiimg.com/photo/msid-127921288,imgsize-94154.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/chatha-pacha-box-office-collections-day-14-mammoottys-film-crosses-strong-mark-makes-rs-33-crore-worldwide/articleshow/127921288.cms",
-    "time": "2026-02-05T00:37:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Film STRUGGLES to cross Rs 25 cr",
-    "desc": "Rani Mukerji's latest venture, 'Mardaani 3', dives into the pressing issue of girl child trafficking, but its reception has been a mixed bag. After an underwhelming initial performance, the film collected Rs 2 crore on the sixth day, accumulating a domestic total of Rs 24.25 crore. Its global earnings have crossed Rs 36 crore.",
-    "img": "https://static.toiimg.com/photo/msid-127921261,imgsize-47068.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mardaani-3-box-office-collection-day-6-rani-mukerjis-cop-drama-struggles-to-cross-rs-25-crore-border-2-dominates/articleshow/127921261.cms",
-    "time": "2026-02-05T00:29:46.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Film nears Rs 300 cr amid drop",
     "desc": "'Border 2' emerges as the anticipated follow-up to the 1997 classic, receiving a blend of praise and critique while launching successfully on Republic Day. Although it faced a slight drop in momentum, the film has nonetheless soared at the box office. Read the full report to know more in detail.",
@@ -403,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-13-sunny-deol-and-varun-dhawan-starrer-inches-closer-to-rs-300-crore-amid-sharp-drop/articleshow/127921155.cms",
     "time": "2026-02-05T00:02:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nishikant takes a page out of Rahul’s book to attack Congress",
-    "desc": "Dubey’s move was seen as BJP’s bid to turn the heat on Congress, which has been attacking Modi over bits of the unpublished book authored by ex-Army chief Gen M M Naravane (retd), and it further riled up the protesting opposition MPs in LS, who turned up the noise and tore papers, but not before the fourth-term member had his say for over a couple of minutes.",
-    "img": "https://static.toiimg.com/photo/msid-127921069,imgsize-57908.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nishikant-takes-a-page-out-of-rahuls-book-to-attack-congress/articleshow/127921067.cms",
-    "time": "2026-02-04T23:35:48.000Z"
   },
   {
     "cat": "Sports",
@@ -430,51 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/not-dennis-lillee-or-malcolm-marshall-when-richard-hadlee-became-first-bowler-to-take-400-test-wickets/articleshow/127912661.cms",
     "time": "2026-02-04T23:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Branded ‘traitor’ by Rahul, Beant’s grandson hits back, calls Gandhi scion ‘desh ke dushman’",
-    "desc": "The exchange — which took place at the main entrance of the Parliament building, where Rahul was standing in solidarity with the eight MPs who are on protest since being suspended from the Lok Sabha a day earlier — was caught on video and promptly went viral. It was also circulated by Congress.",
-    "img": "https://static.toiimg.com/photo/msid-127921028,imgsize-48050.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/branded-traitor-by-rahul-beants-grandson-hits-back-calls-gandhi-scion-desh-ke-dushman/articleshow/127921023.cms",
-    "time": "2026-02-04T23:27:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Will rectify errors of ‘logical discrepancy,’ says SC",
-    "desc": "A bench of CJI Surya Kant and Justices Joymalya Bagchi and Vipul M Pancholi said voters’ names should not be struck off the electoral rolls because of errors creeping into spelling of names during translation from Bengali to English or vice-versa. “We will ensure that it is rectified,” the bench said.",
-    "img": "https://static.toiimg.com/photo/msid-127921011,imgsize-120614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bengal-sir-row-will-rectify-errors-of-logical-discrepancy-says-sc/articleshow/127921012.cms",
-    "time": "2026-02-04T23:17:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Manipur gets Meitei CM with Kuki, Naga as deputies",
-    "desc": "Governor AK Bhalla also administered the oath of office to BJP's Konthoujam Govindas and Khuraijam Loken Singh of NPP as cabinet ministers at the Lok Bhavan ceremony, which ended almost a year of President’s rule since N Biren Singh resigned over criticism of the previous govt's handling of the violence that erupted in May 2023.",
-    "img": "https://static.toiimg.com/photo/msid-127920992,imgsize-139042.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/manipur-gets-meitei-cm-with-kuki-naga-as-deputies/articleshow/127920975.cms",
-    "time": "2026-02-04T23:08:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "At 93, Apollo founder still has big dreams for Indian healthcare",
-    "desc": "Dr Reddy, who turns 93 Thursday, lobbied PM Indira Gandhi to ensure import duties on equipment fell from 300% to zero. Banks funded the build; cement and steel came cheap, and he built Apollo Chennai, India’s first multispecialty hospital, in 1983 with a promise to offer treatment to 25% of patients free.",
-    "img": "https://static.toiimg.com/photo/msid-127920945,imgsize-46876.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/at-93-apollo-founder-still-has-big-dreams-for-indian-healthcare/articleshow/127920918.cms",
-    "time": "2026-02-04T22:55:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ED achieved 95% conviction rate in PMLA cases: Govt",
-    "desc": "“As on Dec 31, 2025, the special PMLA courts have delivered judgments, on merits, on the issue of money laundering in 58 cases, out of which conviction orders have been passed in 55 cases, convicting 123 accused,” MoS for finance Pankaj Chaudhary told Rajya Sabha in a written response to a question.",
-    "img": "https://static.toiimg.com/photo/msid-127920755,imgsize-36164.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ed-achieved-95-conviction-rate-in-pmla-cases-govt/articleshow/127919919.cms",
-    "time": "2026-02-04T22:46:10.000Z"
   },
   {
     "cat": "Sports",
@@ -621,24 +621,6 @@ const newsData_en = [
     "time": "2026-02-04T16:13:02.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India-US trade deal: How Delhi's behind-the-scenes push cracked Trump tariff wall",
-    "desc": "India and the US have reached a surprising trade deal, reducing tariffs on Indian goods to 18% after a year of strained relations. National Security Advisor Ajit Doval's quiet diplomacy in Washington was key, signaling India's refusal to be bullied while emphasising strategic partnership. This breakthrough eases tensions and paves the way for deeper economic ties.",
-    "img": "https://static.toiimg.com/photo/msid-127913803,imgsize-78610.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-deal-how-delhis-behind-the-scenes-push-cracked-trump-tariff-wall/articleshow/127912936.cms",
-    "time": "2026-02-04T16:00:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala to fund ₹1,900 crore for Sabari rail project",
-    "desc": "Cabinet decides that the State will bear 50% of the cost of the Angamaly–Erumely Sabari Railway Project and raise its share through the Kerala Infrastructure Investment Fund Board. The project — first proposed in the 1997-98 Railway Budget — has finally been set in motion after a hiatus of nearly three decades.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-to-fund-1900-crore-for-sabari-rail-project/article70592565.ece",
-    "time": "2026-02-04T15:42:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Getting better day by day': Pant offers positive update on comeback",
     "desc": "Rishabh Pant is recovering well and is optimistic about returning to cricket soon. He is working hard at the BCCI Centre of Excellence. Pant emphasizes the importance of his love for the game and support from others during his recovery. He believes in continuous improvement as an athlete.",
@@ -712,15 +694,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Legendary cricketer warns SRH star's absence could hurt South Africa at T20 World Cup",
-    "desc": "South Africa begins its T20 World Cup preparation with a match against India. Experts analyze the Proteas' squad, noting the absence of Heinrich Klaasen but highlighting growing depth. The team shows renewed confidence and a strong presence. This squad possesses significant talent and is poised for success in the upcoming tournament.",
-    "img": "https://static.toiimg.com/photo/msid-127908790,imgsize-63962.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/legendary-cricketer-warns-srh-stars-absence-could-hurt-south-africa-at-t20-world-cup/articleshow/127908719.cms",
-    "time": "2026-02-04T11:42:30.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Dhoni backs 'Ro-Ko' to continue; says India will be dangerous at T20 World Cup",
     "desc": "Dhoni said \"For me, age is not a criteria, performance, fitness these are criteria. I always feel nobody should be told anything. But things should be clear that everyone will be treated the same way.”",
     "img": "https://th-i.thgim.com/public/incoming/jjm9ur/article70591173.ece/alternates/LANDSCAPE_1200/IMG_MS_Dhoni_with_Mumbai_2_1_CGB6OMML.jpg",
@@ -763,15 +736,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/indias-services-sector-growth-touches-2-month-high-in-january-pmi/article70590540.ece",
     "time": "2026-02-04T07:05:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Is age a factor? No': Dhoni backs Rohit, Virat to chase 2027 WC dream",
-    "desc": "Former captain MS Dhoni supports Rohit Sharma and Virat Kohli for the 2027 Cricket World Cup. He believes performance and fitness, not age, should decide their future in ODI cricket. Dhoni emphasises that experienced players offer invaluable guidance to younger teammates. He stated that if they continue to perform and remain fit, they should be considered for selection.",
-    "img": "https://static.toiimg.com/photo/msid-127902323,imgsize-48482.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/is-age-a-factor-no-ms-dhoni-backs-rohit-sharma-virat-kohli-to-chase-2027-world-cup-dream/articleshow/127902278.cms",
-    "time": "2026-02-04T06:56:13.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/cuba-confirms-communications-with-us-but-says-no-negotiations-yet/article70585893.ece",
     "time": "2026-02-03T03:28:05.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Drone attack targets strategic northeast Congo city, authorities say, blaming M23",
+    "desc": "The government of ⁠Tshopo province, where Kisangani is located, said in a statement on Sunday (February 1, 2026) that the drones attempted to strike Bangoka International Airport between ​early Saturday (January 31, 2026) and early Sunday (February 1, 2026) ⁠but were shot down before reaching their target",
+    "img": "https://th-i.thgim.com/public/incoming/gg8sbr/article70468492.ece/alternates/LANDSCAPE_1200/2025-12-11T194833Z_458289501_RC2DEIAWK9L4_RTRMADP_3_CONGO-SECURITY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/drone-attack-targets-strategic-northeast-congo-city-authorities-say-blaming-m23/article70585089.ece",
+    "time": "2026-02-03T02:25:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Uzbekistan's Abdusattorov wins Tata Steel Masters title, Gukesh best Indian at joint eighth",
+    "desc": "Gukesh drew with Vincent Keymer of Germany in the final round to end as the top performing Indian on 6.5 points. But, his fifty per cent score was below par and the Indian ace slipped below the 2750 rating mark",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/uzbekistans-abdusattorov-wins-tata-steel-masters-title-gukesh-best-indian-at-joint-eighth/article70584839.ece",
+    "time": "2026-02-02T19:23:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tilak Varma makes solid 38, Jagadeesan's ton shines in India A's win over USA in warm-up game",
+    "desc": "Priyansh Arya (28 in 13 balls, with four boundaries and two sixes) played a fiery cameo to start the innings with a 43-run stand with Jagadeesan, who went on to make 104 in 55 balls, with 11 fours and five sixes",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/tilak-varma-makes-solid-38-jagadeesans-ton-shines-in-india-as-win-over-usa-in-warm-up-game/article70584831.ece",
+    "time": "2026-02-02T19:03:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rise in southern States’ share in devolution of funds provides no relief to Tamil Nadu",
+    "desc": "The share of Tamil Nadu, which was 4.079% in the 15th FC, rose to 4.097% now, accounting for a rate of increase of only 0.44%; as part of horizontal devolution, the weights assigned to the criteria of area, demographic performance and per-capita GSDP (Gross State Domestic Product) have reduced affecting States like T.N and Kerala",
+    "img": "https://th-i.thgim.com/public/incoming/f9g835/article70584821.ece/alternates/LANDSCAPE_1200/vjkvg-budget%204.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/rise-in-southern-states-share-in-devolution-of-funds-provides-no-relief-to-tamil-nadu/article70583725.ece",
+    "time": "2026-02-02T18:54:00.000Z"
   }
 ];

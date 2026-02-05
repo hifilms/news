@@ -1,6 +1,33 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "Honeymoon Case 2.0: ঠিক সোনম রঘুবংশীর মতো...বিয়ের পরেই বয়ফ্রেন্ডের সঙ্গে প্ল্যান, রাজস্থানে গাড়ি দিয়ে পিষে খু*ন",
+    "desc": "অঞ্জু তার ফোন এবং কানের দুল অভিযুক্তদের হাতে দিয়েছিল, যাতে মনে হয় যে বিষয়টা ডাকাতি। আক্রমণের পর সে অজ্ঞান হয়ে থাকার ভান করেছিল৷ কিন্তু আশিসের শরীরে আঘাতের চিহ্ন চক্রান্তের রহস্য ফাঁস করে দেয়। পুলিশ চার অভিযুক্তকেই গ্রেফতার করেছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Bangla-News-2026-02-05T143531.311-2026-02-f7ad28b90515446af6ae7bb13a10a8d4-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/honeymoon-murder-2-0-in-rajasthan-man-dies-in-hit-and-run-planned-by-wife-her-boyfriend-sta-2527438.html",
+    "time": "2026-02-05T09:16:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "যুগান্তকারী ঘোষণা! বেসরকারি কর্মীদের হাতে চাঁদ! এখন থেকে পিএফ মারফত বিপুল প্রাপ্তি...",
+    "desc": "পেনশনভোগীদের দীর্ঘদিনের দাবির পরিপ্রেক্ষিতে সরকার সম্প্রতি রাজ্যসভায় বিষয়টি পরিষ্কার করেছে। বর্তমানে ইপিএস-৯৫ স্কিমের অধীনে ন্যূনতম পেনশনের পরিমাণ মাসে ১০০০ টাকা। কিন্তু বিভিন্ন শ্রমিক সংগঠন এবং পেনশনভোগীরা এটি বাড়িয়ে ৭৫০০ টাকা করার দাবি জানিয়ে আসছিলেন। কী ঘটল?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/pf-hike-epfo-pension-hike-2026-minimum-7500-approved-wage-ceiling-raised-relief-for-6-point-5-crore-private-employees_639672.html ",
+    "time": "2026-02-05T08:37:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "মেজ বোনই ছিল ‘ডেথ কম্যান্ডার’! মেয়েদের ফোন বেচে ইলেকট্রিক বিল দিয়েছিল বাবা...গাজিয়াবাদ কাণ্ডে ভয়ঙ্কর তথ্য",
+    "desc": "গত মঙ্গলবার গভীর রাতে ন’তলার জানলা থেকে ঝাঁপ দিয়েছিল পর পর৷ তিন বোন৷ সোজা পড়েছিল ৮০ ফুট নীচে৷ বয়স, ১৪, ১৬ এবং ১২৷ পুলিশ জানিয়েছে, সম্ভবত ওরা প্লাস্টিকের টুলের সাহায্যে খোলা জানলায় উঠেছিল৷ তারপরেই মরণঝাঁপ৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Bangla-News-2026-02-05T133409.750-2026-02-a532894befa6c6dc7aff8bfb7df1612b-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/ghaziabad-sisters-father-was-in-deep-debt-sold-daughter-s-phone-to-pay-electric-bill-sta-2527155.html",
+    "time": "2026-02-05T08:12:13.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ডিএ মামলায় সুপ্রিম কোর্টের বিরাট রায়...! 'মৌলিক অধিকার নয়', কিন্তু টাকা দিতেই হবে রাজ্যকে! 'সময়সীমা' বেঁধে কমিটি গড়ল কোর্ট",
     "desc": "রাজ্য সরকারি কর্মচারীদের জন্য বিরাট সুখবর। সুপ্রিম কোর্ট এবার ডিএ নিয়ে দিয়ে দিল বড় নির্দেশ। নির্দেশে সুপ্রিম কোর্ট সরকারি কর্মীদের এখনই ২৫ শতাংশ ডিএ দিয়ে দেওয়ার নির্দেশ দিয়ে দিয়েছে। আগামী ৩১ মার্চের মধ্যে সরকারি কর্মীদের ডিএ দিয়ে দিতে হবে বলেও স্পষ্ট জানিয়েছে আদালত।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/DA-CASE-2026-02-c06256f0b3887eddc91c64b3a18a9140-3x2.jpg",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/off-beat/google-search-do-you-know-how-many-times-google-is-searched-in-24-hours-how-many-times-we-google-search-in-a-day-you-never-can-guess-it-the-statistics-will-surprise-you-for-sure-sanj-2519172.html",
     "time": "2026-01-30T11:09:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "হঠাৎ উধাও হয়েছিল, ফিরেও এল আবার ! বিরাট কোহলির ইনস্টাগ্রাম অ্যাকাউন্ট ফের ‘অ্যাক্টিভ’",
-    "desc": "সকাল থেকেই বিরাট কোহলির ইনস্টাগ্রাম অ্যাকাউন্ট নিয়ে কী যে ঘটছে, তা বোঝার উপায় নেই ৷ হঠাৎই উধাও হয়েছিল বিরাট কোহলির ইনস্টাগ্রাম অ্যাকাউন্ট ! সকাল থেকেই শোরগোল পড়ে যায় সোশ্যাল মিডিয়ায় খুঁজে পাওয়া যাচ্ছে না বিরাটের ইনস্টা অ্যাকাউন্ট ৷ আজ, শুক্রবার ভোর থেকেই দেখা যাচ্ছিল না বিরাটের ইনস্টা প্রোফাইল। যা নিয়ে তৈরি হয়েছিল চরম ধোঁয়াশা। কিন্তু কিছু সময় যেতে না যেতেই ফের ‘অ্যাক্টিভ’ বিরাটের প্রোফাইল ৷ সোশ্যাল মিডিয়ায় আবার ফিরে এলেন কিং কোহলি ৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Virat-Kohli-Reactivates-Instagram-Account-2026-01-470622621100b6fe31a382a05f4b494d-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/sports/virat-kohli-deactivates-instagram-account-puzzled-fans-ask-anushka-sharma-know-more-details-smc-2519022.html",
-    "time": "2026-01-30T09:21:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "৭৮তম মৃত্যুবার্ষিকীতে রাজঘাটে মহাত্মা গান্ধিকে শ্রদ্ধা জ্ঞাপন প্রধানমন্ত্রী নরেন্দ্র মোদির! কী বললেন?",
-    "desc": "শুক্রবার সকালে নরেন্দ্র মোদি দিল্লির রাজঘাটে গিয়ে পুষ্পার্ঘ্য অর্পণ করে জাতির জনক মহাত্মা গান্ধিকে শ্রদ্ধা জানান। প্রার্থনাসভায় উপস্থিত ছিলেন রাষ্ট্রপতি দ্রৌপদী মূর্মূ ও উপরাষ্ট্রপতি সি পি রাধাকৃষ্ণন। প্রধানমন্ত্রীর সঙ্গে রাজঘাটে উপস্থিত ছিলেন প্রতিরক্ষা মন্ত্রী রাজনাথ সিং, প্রতিরক্ষা মন্ত্রকের প্রতিমন্ত্রী সঞ্জয় শেঠ এবং কেন্দ্রীয় মন্ত্রী মনোহর লাল খট্টর-সহ একাধিক কেন্দ্রীয় মন্ত্রী।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/narendra-modi-mahatma-gandhi-2026-01-6310186c6664f692fc6ec8f20b453ce5-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/modi-pays-homage-at-rajghat-on-mahatma-gandhis-78th-death-anniversary-smc-2518995.html",
-    "time": "2026-01-30T09:14:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "সরকারি দফতরে মেনস্ট্রুয়াল লিভ চালু হল কর্ণাটকে! কারা পাবেন, কী ভাবে কার্যকর হবে এই ছুটি?",
-    "desc": "মেনস্ট্রুয়াল লিভ নীতি চালু হওয়ার পর নীরবে বদলাচ্ছে সরকারি দফতরের কাজের সংস্কৃতি। হাজিরা খাতা, অনলাইন লিভ সিস্টেম এবং অফিসের দৈনন্দিন কথোপকথনে ধীরে ধীরে জায়গা করে নিচ্ছে এই নতুন নিয়ম, যা বহু মহিলা কর্মীর কাছে স্বস্তির পাশাপাশি স্বীকৃতির বার্তাও দিচ্ছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/menstrual-leave-2026-01-0ac8d2ce994b0a8f648127bb3a8ea2f9-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/ladies-will-have-menstrual-leave-in-karnataka-govt-offices-know-who-is-eligible-office-holiday-policy-tib-ws-l-2518809.html",
-    "time": "2026-01-30T07:58:08.000Z"
   }
 ];

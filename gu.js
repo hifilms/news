@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "પ્રેમમાં અંધ પત્નીએ જ પોતાનું ઘર ઉજાડ્યું! પ્રેમી સાથે મળીને પતિને ઉતાર્યો મોતને ઘાટ, 3 મહિના પહેલા લગ્ન...",
+    "desc": "ઈન્દોરની સોનમ બાદ હવે ગંગાનગરના રાવલમાં અંજલી નામની એક મહિલાએ પોતાના પ્રેમી સંજય અને બે મિત્રો સાથે મળીને પોતાના જ પતિ આશિષનું ગળું દબાવીને હત્યા કરી દીધી. આ ઘટના લગ્નના ત્રણ મહિના પછી જ અફેરને કારણે બની હતી. પોલીસે અંજલી અને તેના પ્રેમી સહિત ચાર આરોપીઓની ધરપકડ કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/affair-led-to-murder-plot-wife-planned-husbands-killing-days-in-advance-family-knew-about-relationship-464030 ",
+    "time": "2026-02-05T09:03:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મુસાફરો ધ્યાન આપો ! રેલવે બોર્ડિંગના નિયમમાં કરશે મોટા ફેરફાર, એક ભૂલ અને જશે બુકિંગ કરેલી સીટ !",
+    "desc": "રેલવે બોર્ડિંગ નિયમોમાં ફેરફાર કરી રહી છે. નવી સિસ્ટમ લાગુ થયા પછી, મુસાફરોને સૌથી વધારે ફાયદો થવાનો છે અને જે યાત્રીઓની સીટ કન્ફર્મ નથી થઈ તેમને તરત જ સીટ મળી જશે, ટીટીઈને પણ લાંબા સમય સુધી મુસાફરની રાહ જોવી નહીં પડે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/railways-will-make-major-changes-in-boarding-rules-one-mistake-and-the-booked-seat-will-be-lost-464029 ",
+    "time": "2026-02-05T09:02:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "એક પરમાણુ બોમ્બ ફૂટવાથી પૃથ્વી પર કેટલો વિનાશ થાય? જાણો કેવું ઉભું થાય છે તબાહીનું મંજર?",
+    "desc": "હિરોશિમા-નાગાસાકી પર થયેલા પરમાણુ હુમલાની તમામ તસવીરો તમને ઇન્ટરનેટ પર મળી જશે. પરંતુ આજે જો આવો હુમલો થાય તો શું થાય. આ ઘટનાની કલ્પનાનો અંદાજો લગાવો! એક ધડાકો થયો અને આગનો એક મહાકાય ગોળો મશરૂમની જેમ ફેલાય તો મર્યા સમજો...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/how-much-heat-is-generated-when-an-atomic-bomb-explodes-and-how-does-the-destruction-begin-464028 ",
+    "time": "2026-02-05T08:36:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વોર્મ અપ મેચે જ નક્કી કરી નાખી ભારતની પ્લેઈંગ-11, આ બે ખેલાડીઓને બેસવું પડશે બહાર !",
+    "desc": "ભારતીય ક્રિકેટ ટીમે T20 વર્લ્ડ કપ માટે યોજાયેલી વોર્મ અપ મેચમાં દક્ષિણ આફ્રિકાને 30 રનથી હરાવ્યું. આ મેચથી મેનેજમેન્ટને ટીમના મોટાભાગના ખેલાડીઓની કસોટી કરવાની તક મળી. જેના પરથી મેનેજમેન્ટ હવે ભારતની ફાઈનલ પ્લેઈંગ-11 નક્કી કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/team-india-probable-playing-11-for-t20-world-cup-2026-suryakumar-yadav-464018 ",
+    "time": "2026-02-05T07:23:50.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "મોગાની દીકરી આજે વર્લ્ડ ક્રિકેટ પર કરે છે રાજ ! જાણો હરમનપ્રીત કેવી રીતે બની ક્રિકેટ ‘ક્વીન’",
     "desc": "હરમનપ્રીત કૌરની નાના શહેરથી ભારતીય મહિલા ક્રિકેટ ટીમની કેપ્ટન બનવાની સફર મહેનત અને આત્મવિશ્વાસની પ્રેરણાદાયક કહાની છે. તેની નિડર બેટિંગ, યાદગાર ઇનિંગ્સ અને મજબૂત લીડરશિપે તેને વૈશ્વિક સ્તરે ઓળખ અપાવી છે, જેના કારણે તે આજે ભારતીય મહિલા ક્રિકેટની સાચી ‘ક્રિકેટ ક્વીન’ છે.",
@@ -261,15 +297,6 @@ const newsData_gu = [
     "time": "2026-02-03T14:12:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ભારતના આ 5 સૌથી સુંદર ગામ આગળ સ્વિટ્ઝર્લૅન્ડ પણ લાગશે ફિક્કું, જિંદગીમાં એકવાર જરૂર લો મુલાકાત",
-    "desc": "ભારતમાંથી હજારો લોકો દર વર્ષે મનની શાંતિ માટે વિદેશમાં ફરવા જવાનો પ્લાન બનાવે છે અને તે દેશોને સુંદર માને છે. પરંતુ શું તમે ક્યારેય ભારતના આ 5 ગામોની મુલાકાત લીધી છે. એક વખત ભારતના આ ગામની મુલાકાત લીધા પછી તમે વિદેશી દેશો વિશે ભૂલી જશો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/5-most-beautiful-villages-in-india-visit-once-before-die-you-will-forget-switzerland-travel-guide-463847 ",
-    "time": "2026-02-03T12:10:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ડો. મોહિત વિશે થવા જઈ રહ્યો છે મોટો ખુલાસો, અનુ-આર્યાની છેલ્લી મુલાકાત બાદ આવશે ટ્વિસ્ટ !",
     "desc": "ટીવી સીરિયલ 'તુમ સે તુમ તક' માં, અનુ અને આર્યવર્ધનની અંતિમ મુલાકાત થઈ છે. આર્યએ અનુને વચન આપ્યું છે કે તે તેના લગ્નમાં ક્યારેય દખલ નહીં કરે અને તેના જીવનભરના દરેક નિર્ણયમાં તેની સાથે રહેશે. આ સાંભળ્યા પછી, અનુએ આંસુઓથી વિદાય આપે છે.",
@@ -412,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-jiostar-faces-crores-of-ad-risk-after-pakistan-boycott-match-463715 ",
     "time": "2026-02-02T09:58:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "સસ્પેન્શન, PSL બેન, કરોડોનું નુકશાન... ભારતનો બહિષ્કાર કરીને ફસાયું પાકિસ્તાન, ભોગવવા પડશે ગંભીર પરિણામ",
-    "desc": "T20 વર્લ્ડ કપમાં ભારત સામે રમાનારી મેચનો બહિષ્કાર કરીને પાકિસ્તાન ક્રિકેટ ગંભીર સંકટમાં મુકાઈ ગયું છે. જો PCB પાકિસ્તાન સરકારના નિર્દેશ અનુસાર ભારત સામે મેચ રમવાનો ઇનકાર કરે છે, તો તેને ગંભીર પરિણામ ભોગવવા પડી શકે છે, ICC તેની સામે કડક કાર્યવાહી કરી શકે છે. ત્યારે આ લેખમાં જાણીશું કે, ICC કેવા પ્રકારના પગલાં ભરી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/pakistan-boycott-ind-vs-pak-match-in-t20-world-cup-2026-now-icc-take-action-463706 ",
-    "time": "2026-02-02T08:17:29.000Z"
   },
   {
     "cat": "Entertainment",
@@ -646,14 +664,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/whatsapp-working-on-ad-free-subscription-you-have-to-pay-else-you-need-to-see-ad-on-status-463042 ",
     "time": "2026-01-27T05:44:34.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ચપટી વગાડતા જ મળી જશે ખોવાયેલું વોલેટ અને ચાવી! Appleનું નવું AirTag ભારતમાં લોન્ચ, હવે વધુ દૂરથી આપશે સિગ્નલ",
-    "desc": "એપલે એરટેગની નવી જનરેશન 2 ભારતમાં લોન્ચ કરી દીધી છે. લાંબી બ્લૂટૂથ રેન્જ, 50% વધુ લાઉડ સ્પીકર અને નવી અલ્ટ્રા વાઇડબેન્ડ ચિપ સાથે, હવે તમારી ચાવીઓ અથવા વૉલેટ શોધવાનું કામ પહેલા કરતાં વધુ સરળ બની જશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/find-your-lost-wallet-and-keys-in-a-jiffy-apples-new-airtag-launched-in-india-463040 ",
-    "time": "2026-01-27T05:25:17.000Z"
   }
 ];
