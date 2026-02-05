@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Tech",
+    "title": "দিনভর বাড়িতে চালান এসি, টিভি, ফ্রিজ, গিজার সবই! ১ টাকাও ইলেক্ট্রিক বিল আসবে না, মোক্ষম ট্রিক জানুন",
+    "desc": "গ্রীষ্মকাল আসছে। প্রতিটি বাড়িতে বিদ্যুতের ব্যবহার অনিবার্যভাবে বৃদ্ধি পাবে। এমন পরিস্থিতি আসবে যখন ফ্যান, কুলার বা এসি ছাড়া বাড়িতে থাকা অসম্ভব হয়ে পড়বে। ফলে, বিদ্যুতের ক্রমবর্ধমান দাম সাধারণ মানুষের জন্য মাথাব্যথার কারণ হয়ে দাঁড়ায়। এমন পরিস্থিতিতে, অনেকেই তাদের বিদ্যুৎ বিল কমানোর উপায় খুঁজছেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/1770290779_Cut-Your-High-Electricity-Bills-with-Rooftop-Solar-and-a-Rs-78000-Government-Subsidy-1-Copy-2025-12-2c99f0439d60c32aa4cb90787fdc29c7-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/technology/electric-bill-saving-tips-solar-powered-air-condition-fridge-geyser-zero-electricity-bill-in-this-house-of-basirhat-west-bengal-sdg-2527690.html",
+    "time": "2026-02-05T12:07:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘কোথায় যাব আমি? নিজের সমস্যা শেষ হচ্ছে না...’ সোশ্যাল মিডিয়ায় হঠাৎ এমন পোস্ট করলেন কেন দেবলীনা নন্দী?",
+    "desc": "সময় এলে সত্যিটা নিজে থেকেই সামনে আসবে বলেও উল্লেখ করেন দেবলীনা। বন্ধুত্বের সম্পর্ককে ‘নোংরা নাম’ দেওয়ার প্রবণতায় আঘাত পেয়ে তিনি জানান, যাকে তিনি মুখে ভাই বলে সম্বোধন করেন, সেই সম্পর্ককে অন্যভাবে ব্যাখ্যা করা ঠিক নয়। পোস্টের শেষে দেবলীনা অনুরোধ করেন, তাঁকে নতুন কোনও ট্যাগ না দিতে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Debolinaa-Nandy-Latest-Facebook-Post-trend-2026-02-7dcf432edb4639e96e0728c2e4b36b57-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/debolinaa-nandy-latest-post-in-social-media-after-influencer-sayak-park-street-restaurant-controversy-case-ss-2527654.html",
+    "time": "2026-02-05T11:47:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "২ দিন ধরে ফ্ল্যাটে আটকে রেখে যৌন নির্যাতন? জনপ্রিয় কন্টেন্ট ক্রিয়েটর শমীকের বিরুদ্ধে FIR...",
+    "desc": "শমীকের বিরুদ্ধে শারীরিক ও যৌন হেনস্তার (Sexual Harassment) অভিযোগ জানিয়ে বেহালা থানায় এফআইআর দায়ের করেছেন তাঁর বান্ধবী। পুলিসি অভিযোগে ওই তরুণী জানিয়েছেন, গত ২ এবং ৩ ফেব্রুয়ারি তাঁকে বেহালার একটি ফ্ল্যাটে জোরপূর্বক আটকে রেখেছিলেন শমীক।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/youtuber-nonsane-shamik-adhikary-sexual-harassment-allegations-fir_639732.html ",
+    "time": "2026-02-05T11:46:37.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "চাষ তো নয়, যেন সোনা! ১ মণেই মিলছে ১৮ হাজার টাকা, বীরভূমের এই গ্রামের ঘরে ঘরে এখন লক্ষ্মীলাভ",
+    "desc": "বীরভূমের লাল মাটিতে চাষ নয়, যেন সোনা ফলছে! রেশম চাষের হাত ধরে রাতারাতি ভাগ্য বদলাচ্ছে গ্রামবাসীদের। ১ মণ রেশম গুটি বিক্রি করলেই মিলছে ১৮ হাজার টাকা। জেলার এই বিশেষ উদ্যোগ কীভাবে কৃষকদের আর্থিক উন্নতির দিশা দেখাচ্ছে, জানুন বিস্তারিত।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/seiculture-money-making-ideas-2026-02-e0b73c0383270a8d83f3015b1a981d1d-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/sericulture-money-making-ideas-villagers-earning-18000-per-37-kg-from-silkworm-farming-l18-local18-2527076.html",
+    "time": "2026-02-05T11:42:36.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Honeymoon Case 2.0: ঠিক সোনম রঘুবংশীর মতো...বিয়ের পরেই বয়ফ্রেন্ডের সঙ্গে প্ল্যান, রাজস্থানে গাড়ি দিয়ে পিষে খু*ন",
     "desc": "অঞ্জু তার ফোন এবং কানের দুল অভিযুক্তদের হাতে দিয়েছিল, যাতে মনে হয় যে বিষয়টা ডাকাতি। আক্রমণের পর সে অজ্ঞান হয়ে থাকার ভান করেছিল৷ কিন্তু আশিসের শরীরে আঘাতের চিহ্ন চক্রান্তের রহস্য ফাঁস করে দেয়। পুলিশ চার অভিযুক্তকেই গ্রেফতার করেছে।",
@@ -295,15 +331,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/will-gold-prices-change-big-after-trumps-tariff-cuts-where-is-gold-headed-next-tc-dc-aa-2524576.html",
     "time": "2026-02-03T11:31:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "অসুস্থ মায়ের দায়িত্ব কে নেবে? বারবার বিয়ের জন্য রিজেক্ট হতে হতে জীবনকেই বাদ দিলেন ইঞ্জিনিয়ার তরুণী...",
-    "desc": "অসুস্থ মায়ের দায়িত্ব কে নেবে- এই শর্তে বারবার বিয়ের সম্বন্ধ ভেঙে যাওয়ায় মানসিকভাবে ভেঙে পড়েন ২৬ বছর বয়সী সফটওয়্যার ইঞ্জিনিয়ার বিজয়লক্ষ্মী। গত ৩১ জানুয়ারি নিখোঁজ হওয়ার পর হায়দ্রাবাদের হুসাইন সাগর লেক থেকে তাঁর মৃতদেহ উদ্ধার করে পুলিস।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/software-employee-took-her-own-life-because-of-repeated-difficulties-in-marriage-prospects_639177.html ",
-    "time": "2026-02-03T11:27:22.000Z"
   },
   {
     "cat": "Entertainment",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/ajit-pawar-demise-after-scenario-sunetra-pawar-to-become-maharashtras-deputy-chief-minister-ncp-sources-sta-2519526.html",
     "time": "2026-01-30T15:20:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "মুখ থুবড়ে পড়ল সোনার দাম! ফ্রান্স-ব্রিটেনের GDP-র সমান টাকা মুছে গেল মুহূর্তে! আরও সস্তা হবে হলুদ ধাতু?",
-    "desc": "শুক্রবার, ভারতে বড় পতন ঘটল সোনা এবং রুপোর দামে। এক ধাক্কায় সোনার দাম প্রায় ৩.৫ শতাংশ কমে গেছে আর রুপোর দাম প্রায় ৫ শতাংশ কমেছে। মুম্বইতে, ২৪ ক্যারাট সোনার দাম ১,৭৮,৮৬০ টাকা প্রতি ১০ গ্রাম-এ নেমে এসেছে, আর ২২-carat gold-এর দাম ১,৬৩,৯৬০ টাকা প্রতি ১০ গ্রাম।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/gold-price-3-2026-01-cfee804df64fed09bf3954d8d492764b-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/why-gold-price-crashed-wealth-equal-to-uk-france-gdp-gone-within-a-moment-future-price-of-gold-rdp-2519520.html",
-    "time": "2026-01-30T15:14:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বিনামূল্যে স্যানিটারি প্যাড...দিতেই হবে স্কুলকে, কড়া নির্দেশ দিয়ে দিল সুপ্রিম কোর্ট! জানাল, ‘মেনস্ট্রুয়াল হেলথ সাংবিধানিক মৌলিক অধিকার’",
-    "desc": "২০২৪ সালের ১০ ডিসেম্বর আদালতে একটি জনস্বার্থ মামলা দায়ের করেছিলেন জয়া ঠাকুর নামে এক মহিলা৷ তাঁর আবেদনে তিনি জানিয়েছিলেন, সারা ভারতজুড়ে সমস্ত সরকারি এবং সরকার মদতপুষ্ট স্কুলে ক্লাস ৬-১২ শ্রেণীর ছাত্রীদের জন্য কেন্দ্রীয় সরকারি মেনস্ট্রুয়াল হাইজিন পলিসি কার্যকর করতে হবে৷ সেই আবেদনের প্রেক্ষিতে শুক্রবার উপরোক্ত নির্দেশগুলি দেয় সুপ্রিম কোর্ট৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-30-at-17.44.46-1-2026-01-6622b2d4007f0aeb5fe10bdbb4b0f3f4-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/education-career/supreme-court-on-menstrual-health-says-every-school-shculd-provide-free-sanitary-napkin-to-the-girls-sta-2519308.html",
-    "time": "2026-01-30T12:28:16.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "গুগলে ২৪ ঘণ্টায় 'কতবার' Search করা হয় জানেন...? চমকে দেবে 'স্ট্যাটিস্টিক্স'!",
-    "desc": "আপনি কি কখনও ভেবে দেখেছেন যে গুগলে দিনে ঠিক কতবার সার্চ করা হয়? যদি আপনি কখনও এই নিয়ে অনুসন্ধান করে থাকেন, বা ভেবে থাকেন তাহলে চলুন আজ এই প্রতিবেদনটিতে আপনাকে শেয়ার করব সেই অবাক করা তথ্য।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-30-at-15.28.12-2026-01-fbc8ff4d228d1cb3fc52b83126046bab-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/off-beat/google-search-do-you-know-how-many-times-google-is-searched-in-24-hours-how-many-times-we-google-search-in-a-day-you-never-can-guess-it-the-statistics-will-surprise-you-for-sure-sanj-2519172.html",
-    "time": "2026-01-30T11:09:35.000Z"
   }
 ];

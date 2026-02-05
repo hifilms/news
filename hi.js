@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mustafizur Rahman joins PSL team after being dropped from KKR squad for IPL 2026",
+    "desc": "Lahore Qalandars have brought back Bangladesh fast bowler Mustafizur Rahman as their direct signing for the upcoming 2026 Pakistan Super League, securing him on a contract worth PKR 6.44 crore. The left-armer is no stranger...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mustafizur-rahman-joins-psl-team-after-being-dropped-from-kkr-squad-for-ipl-2026-2026-02-05-1029047",
+    "time": "2026-02-05T11:42:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Anurag Thakur cleared to return to BCCI after Supreme Court lifts ban",
+    "desc": "Anurag Thakur has been cleared to return to cricket administration after the Supreme Court on Thursday, February 5, lifted the restriction that had barred him from taking part in the affairs of the Board of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/anurag-thakur-cleared-to-return-to-bcci-after-supreme-court-lifts-ban-2026-02-05-1029045",
+    "time": "2026-02-05T11:29:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Irfan Pathan draws comparison between Abhishek Sharma and star Proteas batter ahead of T20 World Cup",
+    "desc": "Former India cricketer Irfan Pathan came forward and talked about the recent performances of India batter Abhishek Sharma and South Africa’s Dewald Brevis and how important they will be for their respective sides ahead of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/irfan-pathan-draws-comparison-between-abhishek-sharma-and-star-proteas-batter-ahead-of-t20-world-cup-2026-02-05-1029041",
+    "time": "2026-02-05T11:17:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryakumar Yadav's first statement on Pakistan's boycott in the T20 World Cup",
+    "desc": "The stage is set for the upcoming edition of the T20 World Cup 2026. The marquee tournament will be co-hosted by India and Sri Lanka, and ahead of the tournament, there has been major coverage...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-s-first-statement-on-facing-pakistan-in-the-t20-world-cup-2026-02-05-1029032",
+    "time": "2026-02-05T10:25:44.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "List of IPL 2025 winning players who are not a part of T20 World Cup 2026",
     "desc": "The T20 World Cup 2026 is all set to kick off on February 7. The marquee tournament will be co-hosted by India and Sri Lanka, and ahead of the tournament opener, the Indian team has...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-eyes-ellyse-perry-s-rcb-record-in-wpl-final-against-delhi-capitals-2026-02-05-1028990",
     "time": "2026-02-05T05:41:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch RCB vs DC clash live on TV and streaming in India?",
-    "desc": "The fourth edition of the Women's Premier League (WPL) is set conclude today with the Royal Challengers Bengaluru and Delhi Capitals locking horns today in the final of the season ast the Kotambi Stadium in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wpl-final-live-when-and-where-to-watch-rcb-vs-dc-clash-live-on-tv-and-streaming-in-india-2026-02-05-1028986",
-    "time": "2026-02-05T05:00:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 World Cup warm-up schedule: Australia, New Zealand to gear up for tournament today",
-    "desc": "The 10th edition of the T20 World Cup is set to get underway on February 7, and the participating teams are gearing up for the tournament with the warm-up games. As many as eight teams...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-warm-up-schedule-australia-new-zealand-to-gear-up-for-tournament-today-2026-02-05-1028972",
-    "time": "2026-02-05T03:35:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sarfaraz Khan hospitalised ahead of Mumbai's Ranji Trophy quarterfinal clash against Karnataka: Report",
-    "desc": "Mumbai are gearing up for their Ranji Trophy quarterfinal clash against Karnataka, which is scheduled to commence on Friday (February 6). However, ahead of the clash, their in-form batter Sarfaraz Khan has been hospitalised due...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sarfaraz-khan-hospitalised-ahead-of-mumbai-s-ranji-trophy-quarterfinal-clash-against-karnataka-report-2026-02-05-1028968",
-    "time": "2026-02-05T02:51:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harshit Rana injured ahead of T20 World Cup 2026? Here's why fast bowler walked off during warm-up vs SA",
-    "desc": "India dominated South Africa in their only warm-up game ahead of the T20 World Cup, winning by 30 runs. However, a couple of days ahead of their opening game in the tournament, the hosts have...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harshit-rana-injured-ahead-of-t20-world-cup-2026-here-s-why-fast-bowler-walked-off-during-warm-up-vs-sa-2026-02-05-1028957",
-    "time": "2026-02-05T01:51:39.000Z"
   }
 ];

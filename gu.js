@@ -1,6 +1,51 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "&amp;quot;દુનિયાને કેટલી છેતરશો, અરીસામાં જોશો તો...&amp;quot; પીએમ મોદીનો વિપક્ષ પર શાયરાના અંદાજમાં કટાક્ષ",
+    "desc": "પીએમ મોદીએ વિપક્ષી પાર્ટીઓ પર શાયરાના અંદાજમાં પણ પ્રહારો કર્યા. પીએમ મોદીએ વિપક્ષ પર કટાક્ષ કરતા કહ્યું કે, \"તમે દુનિયાને કેટલી છેતરશો, અરીસામાં જોશો તો પોતાનું સત્ય ક્યાં છુપાવશો\" (तुम दुनिया को कितना धोखा दोगे, आईना देख लिया तो अपनी सच्चाई कहां छिपाओगे).",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pm-modi-rajya-sabha-speech-taunt-on-opposition-tum-duniya-ko-kitna-dhokha-doge-aina-dekh-liya-to-464053 ",
+    "time": "2026-02-05T12:55:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સ્કૂટર ચલાવતા જોવા મળ્યા પ્રેમાનંદ મહારાજ, શિષ્યોએ વિડીયો બનાવી રહેલા લોકોને રોક્યા, જુઓ Video",
+    "desc": "વાયરલ થયેલા વીડિયોમાં, સ્વામી પ્રેમાનંદ મહારાજ યમુના ખાદરના રસ્તા પર સ્કૂટર ચલાવતા જોવા મળે છે. જ્યારે લોકોએ પ્રેમાનંદ મહારાજને સ્કૂટર ચલાવતા જોયા, ત્યારે તેઓએ તેમના મોબાઇલ ફોનથી વીડિયો ઉતારવાનું શરૂ કર્યું, પરંતુ તેમની સાથે રહેલા તેમના શિષ્યોએ તેમને આવું કરતા અટકાવ્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/premanand-maharaj-seen-riding-a-scooter-disciples-stopped-people-making-videos-watch-video-464051 ",
+    "time": "2026-02-05T12:44:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;PM મોદી સાથે કંઈ પણ થઈ શક્યું હોત, મેં જ લોકસભામાં આવતા અટકાવ્યા...&amp;#039; લોકસભા સ્પીકર ઓમ બિરલાનો મોટો દાવો",
+    "desc": "લોકસભાના સ્પીકર ઓમ બિરલાનું કહેવું છે કે, તેમણે જ વડાપ્રધાનને સંસદમાં આવવાની મનાઈ કરી હતી. તેમણે મોટો દાવો કરતા કહ્યું કે, આવું એટલા માટે કરવામાં આવ્યું કારણ કે કોંગ્રેસના સાંસદો તેમના પર શારીરિક હુમલો કરી શકતા હોત. આ દરમિયાન હોબાળાને કારણે લોકસભાની કાર્યવાહી શુક્રવાર સુધી સ્થગિત કરવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/anything-could-have-happened-to-pm-modi-claims-lok-sabha-speaker-om-birla-464036 ",
+    "time": "2026-02-05T10:44:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ચીનને ખબર પણ નથી, ભારતીય કૂટનીતિની નવી ઉડાન ! ગુજરાતથી થઈ શરૂઆત",
+    "desc": "ચીનને ખ્યાલ આવી ગયો હશે કે હાલના વર્ષોમાં ભગવાન બુદ્ધના અવશેષોને ખાસ વિમાનમાં લઈ જવાથી ભારતીય કૂટનીતિએ એક નવી છલાંગ લગાવી છે. આવી ઉડાન સદીઓ જૂના સંબંધોને ફરી મજબૂત બનાવશે અને બૌદ્ધ-પૂજક પડોશી દેશોને ભારતની નજીક લાવશે. હાલ આ વિમાન હવે કોલંબો જઈ રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/china-doesnt-even-know-india-new-flight-of-diplomacy-it-started-from-gujarat-464035 ",
+    "time": "2026-02-05T10:36:18.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "VIDEO શેર કરીને Google ગ્રાહકોને આપ્યું સરપ્રાઈઝ! હવે આ દિવસે લોન્ચ થશે AI-પાવર્ડ Pixel 10a, મળશે દમદાર ફીચર્સ",
+    "desc": "ગુગલે ચૂપચાપથી એક મોટો દાવ ખેલી નાખ્યો છે. 18 ફેબ્રુઆરીએ લોન્ચ થનાર Pixel 10a, સસ્તા ભાવે શક્તિશાળી AI સુવિધાઓ લાવશે. ફ્લેટ કેમેરા ડિઝાઇન અને જેમિની AI સપોર્ટ સાથે આ ફોન મિડ-રેન્જ સેગમેન્ટમાં ખળભળાટ મચાવવા તૈયાર છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/googles-big-surprise-the-ai-powered-pixel-10a-will-launch-on-this-date-and-it-will-come-with-these-amazing-features-464034 ",
+    "time": "2026-02-05T10:06:40.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "પ્રેમમાં અંધ પત્નીએ જ પોતાનું ઘર ઉજાડ્યું! પ્રેમી સાથે મળીને પતિને ઉતાર્યો મોતને ઘાટ, 3 મહિના પહેલા લગ્ન...",
     "desc": "ઈન્દોરની સોનમ બાદ હવે ગંગાનગરના રાવલમાં અંજલી નામની એક મહિલાએ પોતાના પ્રેમી સંજય અને બે મિત્રો સાથે મળીને પોતાના જ પતિ આશિષનું ગળું દબાવીને હત્યા કરી દીધી. આ ઘટના લગ્નના ત્રણ મહિના પછી જ અફેરને કારણે બની હતી. પોલીસે અંજલી અને તેના પ્રેમી સહિત ચાર આરોપીઓની ધરપકડ કરી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -243,24 +288,6 @@ const newsData_gu = [
     "time": "2026-02-04T06:04:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ભારત-અમેરિકા ટ્રેડ ડીલથી ખેડૂતો કેમ અકળાયા? કહ્યું- ડોનાલ્ડ ટ્રમ્પ સામે નતમસ્તક થઈ ગયા",
-    "desc": "ભારત અને અમેરિકા વચ્ચે થયેલી ટ્રેડ ડીલથી રાજકીય ગરમાવો આવી ગયો છે. ટ્રમ્પે એવું તે શું કહ્યું કે કૃષિ અને ડેરી મુદ્દે વિવાદ છેડાયો છે. ખેડૂતો કેમ અકળાયા છે. સંયુક્ત કિસાન મોરચાએ શું કહ્યું તે પણ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/samyukt-kisan-morcha-react-on-india-us-trade-deal-what-skm-says-463891 ",
-    "time": "2026-02-04T03:30:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મુંબઈ એરપોર્ટ પર એર ઈન્ડિયા અને ઈન્ડિગોના વિમાનો વચ્ચે ટક્કર; બન્નેમાં સવાર હતા મુસાફરો, મચી ગઈ અફરાતફરી",
-    "desc": "મુંબઈ એરપોર્ટ પર એર ઈન્ડિયા અને ઈન્ડિગોના વિમાનો વચ્ચે ગ્રાઉન્ડ કોલિઝન થયું હતું. બન્ને વિમાનોની પાંખો (વિંગ્સ) એકબીજા સાથે ટકરાઈ હતી. આ બન્ને વિમાનોમાં તે સમયે મુસાફરો સવાર હતા. આ ઘટના ટેક-ઓફ અને લેન્ડિંગ બાદ ટેક્સિંગ દરમિયાન બની હતી, જો કે, સદનસીબે કોઈને ઈજા થઈ હોવાના સમાચાર નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/mumbai-airport-air-india-indigo-plane-collision-wings-hit-passengers-safe-463869 ",
-    "time": "2026-02-03T17:09:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "કરોડોનું નુકસાન, ફજેતી અને સંપૂર્ણ બહિષ્કાર, ICCએ પાકને આપી દીધું ફાઇનલ અલ્ટીમેટમ!",
     "desc": "ભારત વિરુદ્ધ 15 ફેબ્રુઆરીએ મેચ ન રમવાનો વિવાદ સતત આગળ વધી રહ્યો છે. આ મુદ્દે પાકિસ્તાન ક્રિકેટ બોર્ડની મુશ્કેલી વધી શકે છે. પીસીબી વિરુદ્ધ બ્રોડકાસ્ટર કાર્યવાહી કરી શકે છે. બીજીતરફ આઈસીસી પાકિસ્તાનનું 35 મિલિયન ડોલરનું રેવેન્યુ રોકી શકે છે.",
@@ -268,15 +295,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/loss-of-crores-embarrassment-and-total-boycott-pakistan-gets-the-final-ultimatum-icc-t20-world-cup-ind-vs-pak-463867 ",
     "time": "2026-02-03T15:59:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "અમેરિકાની એ 4 મોટી શરતો! જ્યારબાદ ટ્રમ્પે ભારત સાથેની મેગા ટ્રેડ ડીલ પર લગાવી મહોર",
-    "desc": "છેલ્લા ઘણા અઠવાડિયાની અનિશ્ચિતતા પછી થયેલા આ ડીલને બન્ને દેશો વચ્ચેના સંબંધોમાં એક મહત્વપૂર્ણ પગલું તરીકે જોવામાં આવી રહ્યું છે. વડાપ્રધાન નરેન્દ્ર મોદીએ આ નિર્ણયનું જોરદાર સ્વાગત કરતા કહ્યું કે, દુનિયાના બે સૌથી મોટા લોકશાહી દેશો વચ્ચે પરસ્પર સહયોગ વધુ મજબૂત બનશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/india-us-trade-deal-these-four-conditions-with-no-russian-oil-zero-tariffs-know-463866 ",
-    "time": "2026-02-03T15:35:12.000Z"
   },
   {
     "cat": "Tech",
@@ -396,15 +414,6 @@ const newsData_gu = [
     "time": "2026-02-03T04:44:45.000Z"
   },
   {
-    "cat": "Business",
-    "title": "હજુ પણ ઓલટાઈમ હાઈથી સોનું 32469 અને ચાંદી 169564 રૂપિયા સસ્તી, ખરીદવું હોય તો આજનો ભાવ જાણો",
-    "desc": "સોનું અને ચાંદી ગુરુવારે રેકોર્ડ સ્તર બનાવ્યા બાદ સતત ગગડતા જોવા મળ્યા પરંતુ આજે બજાર ખુલતા જ આકાશે આંબવા લાગ્યા છે. જો કે હજુ પણ રેકોર્ડ હાઈથી સોનું અને ચાંદી ખુબ સસ્તા જોવા મળી રહ્યા છે. આજનો વાયદા બજારનો ભાવ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-rate-today-mcx-comex-gold-and-silver-rate-aaj-no-sona-chandi-no-bhav-business-news-in-gujarati-463790 ",
-    "time": "2026-02-03T04:04:38.000Z"
-  },
-  {
     "cat": "World",
     "title": "અમેરિકાએ ઘટાડ્યો ટેરિફ, 25%થી ઘટાડીને 18% કર્યો; ટ્રમ્પે કહ્યું- ભારત હવે રશિયા પાસેથી તેલ નહીં ખરીદે",
     "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે સોમવારે જાહેરાત કરી કે, તેઓ ટેરિફન 25 ટકાથી ઘટાડીને 18 ટકા કરી દેશે. આ વાત તેમણે વડાપ્રધાન નરેન્દ્ર મોદી સાથે વાતચીત કર્યાના થોડા જ સમય બાદ કહી છે. આ જાહેરાતથી ભારત-અમેરિકા સંબંધોમાં નરમાશ આવવાનો સંકેત મળી રહ્યા છે. આ નિર્ણયથી બન્ને દેશોની વચ્ચે વેપાર વધવાની અને આયાત ખર્ચમાં ઘટાડો થવાની અપેક્ષા છે.",
@@ -430,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-australia-and-england-express-concern-about-visiting-india-nipah-virus-463728 ",
     "time": "2026-02-02T11:05:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "પાકિસ્તાનના ભારત સાથે નહીં રમવાના નિર્ણયથી અંબાણીને મોટો ઝટકો ! થશે કરોડોનું નુકશાન",
-    "desc": "ભારત અને પાકિસ્તાન વચ્ચે રમાતી મેચો માત્ર રોમાંચથી ભરેલી જ નહીં, પરંતુ કમાણીની દ્રષ્ટિએ પણ ખાસ છે. ભારત-પાકિસ્તાનની દરેક મેચ ICCની સૌથી વધુ કમાણી કરનારી ઇવેન્ટ માનવામાં આવે છે. જાહેરાતની દુનિયામાં તેને 'મની મેચ' તરીકે ઓળખવામાં આવે છે. તેથી વર્લ્ડ કપમા જો પાકિસ્તાન ભારત સામે નહીં રમે, તો બ્રોડકાસ્ટર્સને કરોડનું નુકસાન થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-jiostar-faces-crores-of-ad-risk-after-pakistan-boycott-match-463715 ",
-    "time": "2026-02-02T09:58:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -655,14 +655,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/vivo-has-quietly-launched-the-new-x200t-and-users-are-surprised-by-its-price-and-features-463064 ",
     "time": "2026-01-27T08:57:32.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "WhatsApp માટે આપવા પડશે પૈસા! ખરીદવું પડશે સબ્સક્રિપ્શન, બાકી...",
-    "desc": "વોટ્સએપનો ઉપયોગ કરનાર યુઝર્સ માટે મોટા સમાચાર છે, તાજેતરમાં તે વાતની જાણકારી સામે આવી કે એપના વર્ઝન 2.26.3.9 ના કોડમાં કેટલાક નવા સ્ટ્રિંગ્સ મળ્યા છે, જે પેડ સબ્સક્રિપ્શન તરફ ઇશારો કરી રહ્યાં છે. તેનો મતલબ છે કે જલ્દી એપ ચલાવવી ફ્રી રહેશે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/whatsapp-working-on-ad-free-subscription-you-have-to-pay-else-you-need-to-see-ad-on-status-463042 ",
-    "time": "2026-01-27T05:44:34.000Z"
   }
 ];
