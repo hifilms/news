@@ -1,12 +1,30 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "હ્યુન્ડાઇએ આ કારની કિંમત ઘટાડીને ₹5.99 લાખ કરી, આટલી સસ્તી પહેલા ક્યારેય નહોતી, 6 એરબેગ્સ, સનરૂફ, બધું જ મળશે",
+    "desc": "2026 Hyundai આ કાર ભારતમાં લોન્ચ કરવામાં આવી છે. કંપનીએ તેની શરૂઆતની કિંમત માત્ર ₹5.99 લાખ (એક્સ-શોરૂમ) રાખી છે. તે 6 એરબેગ્સ અને સનરૂફ સહિત અનેક જોરદાર સુવિધાઓ પ્રદાન કરે છે. ચાલો તેની વિગતો વિગતવાર જોઈએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/hyundai-has-reduced-the-price-of-this-car-to-rs-5-99-lakh-you-will-get-6-airbags-sunroof-everything-464066 ",
+    "time": "2026-02-05T14:40:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "અંડરગાર્મેન્ટમાં સ્પર્મ અને પ્રાઈવેટ પાર્ટ પર... NEET વિદ્યાર્થીનીની ડાયરીએ ખોલ્યા ઊંડા રહસ્યો, વારંવાર લખ્યું &amp;#039;આઈ એમ અલોન&amp;#039;",
+    "desc": "પરીક્ષાની તૈયારી કરતી વિદ્યાર્થીના મોત મામલે નવા ખુલાસા થઈ રહ્યા છે, તેની ડાયરીમાં લખેલા શબ્દો તેની માનસિક સ્થિતિ વિશે અવગત કરાવે છે. જો કે વિદ્યાર્થીનીના કપડા પર સ્પમના ડાઘ મળતા 18 લોકોના સેમ્પલ લેવામાં આવ્યા હતા. પોલીસે પહેલા આત્મહત્યાનો કેસ કહી ફગાવી દીધો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/sperm-in-underwear-and-on-private-parts-neet-student-diary-reveals-deep-secrets-repeatedly-wrote-i-am-alone-464064 ",
+    "time": "2026-02-05T14:13:12.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "&amp;quot;દુનિયાને કેટલી છેતરશો, અરીસામાં જોશો તો...&amp;quot; પીએમ મોદીનો વિપક્ષ પર શાયરાના અંદાજમાં કટાક્ષ",
     "desc": "પીએમ મોદીએ વિપક્ષી પાર્ટીઓ પર શાયરાના અંદાજમાં પણ પ્રહારો કર્યા. પીએમ મોદીએ વિપક્ષ પર કટાક્ષ કરતા કહ્યું કે, \"તમે દુનિયાને કેટલી છેતરશો, અરીસામાં જોશો તો પોતાનું સત્ય ક્યાં છુપાવશો\" (तुम दुनिया को कितना धोखा दोगे, आईना देख लिया तो अपनी सच्चाई कहां छिपाओगे).",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/pm-modi-rajya-sabha-speech-taunt-on-opposition-tum-duniya-ko-kitna-dhokha-doge-aina-dekh-liya-to-464053 ",
-    "time": "2026-02-05T12:55:26.000Z"
+    "time": "2026-02-05T13:04:45.000Z"
   },
   {
     "cat": "Politics",
@@ -432,15 +450,6 @@ const newsData_gu = [
     "time": "2026-02-02T12:19:32.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ઓસ્ટ્રેલિયા અને ઇંગ્લેન્ડે પણ T20 વર્લ્ડ કપ માટે ભારત આવવા અંગે ચિંતા વ્યક્ત કરી, જાણો શું છે કારણ",
-    "desc": "ICC મેન્સ T20 વર્લ્ડ કપ 2026માં બાંગ્લાદેશે ભારતમાં રમવાનો ઈન્કાર કર્યા બાદ હવે ઇંગ્લેન્ડ અને ઓસ્ટ્રેલિયાની સરકારોએ પણ તેમની ટીમની ભારત મુલાકાત અંગે ચિંતા વ્યક્ત કરી છે. આ પાછળનું કારણ શું છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-australia-and-england-express-concern-about-visiting-india-nipah-virus-463728 ",
-    "time": "2026-02-02T11:05:46.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ફિલ્મ નિર્દેશક રોહિત શેટ્ટીના ઘર પર ફાયરિંગ મામલે લોરેન્સ બિશ્નોઈનું નામ ચર્ચામાં, 4 લોકોની ધરપકડ",
     "desc": "ફિલ્મ ઈંડસ્ટ્રીમાં ફરી એકવાર લોરેન્સ બિશ્નોઈનું નામ ચર્ચામાં છે. મુંબઈમાં ફિલ્મ નિર્દેશક રોહિત શેટ્ટીના ઘર પર થયેલા ફારયિંગ મામલે પોલીસે 4 લોકોની ધરપકડ કરી હોવાનું સામે આવ્યું છે અને સાથે જ એક પોસ્ટ વાયરલ થઈ છે જેમાં આ ઘટનાની જવાબદારી લોરેન્સ બિશ્નોઈ ગેંગ દ્વારા લેવામાં આવી છે.",
@@ -529,15 +538,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/mardaani-3-film-public-review-mardaani-3-box-office-collection-463391 ",
     "time": "2026-01-30T14:19:11.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "એટલાન્ટિક મહાસાગરમાં જોવા મળ્યો 9,000 કિમી લાંબો &amp;quot;ભૂરો સાપ&amp;quot;, જેણે આફ્રિકાથી અમેરિકા સુધી મચાવી તબાહી",
-    "desc": "આજકાલ વાદળી એટલાન્ટિક મહાસાગરમાં 9,000 કિલોમીટર લાંબો ભૂરો અજગર જેવો પટ્ટો દેખાય છે, જે અવકાશમાંથી દેખાય છે. આ કોઈ સામાન્ય પ્રદૂષણ નથી, પરંતુ દરિયાઈ ઘાસનું એક વિશાળ જાળું છે જે આફ્રિકાથી અમેરિકા સુધી વિનાશ મચાવી રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/a-9000-km-long-brown-snake-was-found-in-the-atlantic-ocean-wreaking-havoc-from-africa-to-america-463390 ",
-    "time": "2026-01-30T13:53:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -646,14 +646,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/apple-ai-pin-device-can-replace-smartphone-know-full-details-463066 ",
     "time": "2026-01-27T09:00:27.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Vivoએ ચુપચાપ લોન્ચ કર્યો નવો X200T, કિંમત અને ફીચર્સ જોઈને યુઝર્સ રહી ગયા હેરાન, જાણો પૂરી વિગત",
-    "desc": "Vivo એ ભારતમાં Vivo X200T ને ચૂપચાપ લોન્ચ કરી દીધો છે, જેમાં શક્તિશાળી Dimensity 9400+ પ્રોસેસર, મોટી 6200mAh બેટરી અને પ્રીમિયમ Zeiss કેમેરાની સાથે આવે છે. કિંમત ફ્લેગશિપ કરતા ઓછી છે, પરંતુ તેની સુવિધાઓ કોઈપણ હાઇ-એન્ડ ફોનને ટક્કર આપે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/vivo-has-quietly-launched-the-new-x200t-and-users-are-surprised-by-its-price-and-features-463064 ",
-    "time": "2026-01-27T08:57:32.000Z"
   }
 ];

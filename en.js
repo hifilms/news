@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "PM Modi’s Malaysia visit to strengthen strategic partnership — what to watch for",
+    "desc": "Prime Minister Narendra Modi will visit Malaysia on February 7-8 to strengthen ties and expand cooperation under a Comprehensive Strategic Partnership. He will hold bilateral talks with PM Anwar Ibrahim, review key sectors like trade and defense, and address the Indian community. The visit aims to deepen engagement with the ASEAN region and boost business ties.",
+    "img": "https://static.toiimg.com/photo/msid-127939724,imgsize-26018.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modis-malaysia-visit-to-strengthen-strategic-partnership-what-to-watch-for/articleshow/127939364.cms",
+    "time": "2026-02-05T15:04:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "\"Pollution is a legacy problem resulting from negligence of previous govts\": Rekha Gupta",
+    "desc": "\"Pollution is a legacy problem resulting from the negligence of previous governments. If we look at pollution only from the perspective that the air should be clean, we will not get results. You have to work on dust, air and water together, with a holistic vision,\" she said.",
+    "img": "https://static.toiimg.com/photo/msid-127941823,imgsize-95780.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pollution-is-a-legacy-problem-resulting-from-negligence-of-previous-govts-rekha-gupta/articleshow/127941803.cms",
+    "time": "2026-02-05T14:54:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England Test captain Ben Stokes left bloodied after brutal facial injury",
+    "desc": "England Test captain Ben Stokes sustained a nasty facial injury during a training session, sharing a graphic image of his bruised eye and bandaged nose. Despite the blow, Stokes humorously commented on the cricket ball's condition. This incident follows a challenging Ashes campaign for England, with Stokes set to return for the Test series against New Zealand in June.",
+    "img": "https://static.toiimg.com/photo/msid-127941317,imgsize-951767.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/england-test-captain-ben-stokes-left-bloodied-after-brutal-facial-injury/articleshow/127940995.cms",
+    "time": "2026-02-05T14:43:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TDB aims to tackle pollution in Pampa ahead of next Sabarimala pilgrimage season",
+    "desc": "Campaign will be rolled out in April in all south Indian States using press meets, social media, newspaper and TV, and FM radio to crack down on the practice of pilgrims discarding clothes in the river. Three truckloads of abandoned clothes were removed in the final round of cleaning after the season this year",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/tdb-aims-to-tackle-pollution-in-pampa-ahead-of-next-sabarimala-pilgrimage-season/article70596253.ece",
+    "time": "2026-02-05T14:28:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Gauhati High Court urged to take note of Assam CM’s ‘hate speech’",
+    "desc": "Citizens who submitted a memorandum to Gauhati HC included academician Hiren Gohain, retired Director General of Police Harekrishna Deka, former Archbishop of Guwahati Thomas Menamparampil, MP Ajit Kumar Bhuyan, and environmental scientist Dulal Chandra Goswami",
+    "img": "https://th-i.thgim.com/public/incoming/y062sv/article70596330.ece/alternates/LANDSCAPE_1200/PTI01_30_2026_000348B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/assam/citizens-urge-gauhati-high-court-to-take-note-of-assam-cms-hate-speech/article70596024.ece",
+    "time": "2026-02-05T14:18:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Breaking Bad’ conspiracy theory about Walter White’s fate",
+    "desc": "A decade after its finale, 'Breaking Bad' fans are still debating Walter White's fate. A popular theory suggests Heisenberg survived, but at a profound personal cost, a notion fueled by the show's complex narrative and Walter's compelling, morally ambiguous journey. This enduring fascination highlights the series' masterful storytelling and its lasting impact on pop culture.",
+    "img": "https://static.toiimg.com/photo/msid-127929273,imgsize-26906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/breaking-bad-conspiracy-theory-explained-did-walter-white-really-survive-if-yes-then-at-what-price/articleshow/127929257.cms",
+    "time": "2026-02-05T14:08:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'They stole surname of Mahatma Gandhi': PM Modi mocks Gandhis, takes failed 'start-up' jab at Rahul",
+    "desc": "Prime Minister Narendra Modi sharply criticised the Congress and the Gandhi family in the Rajya Sabha, accusing them of being \"habitual thieves\" and alleging they stole Mahatma Gandhi's surname. He also targeted Rahul Gandhi, calling him \"Yuvraj\" and criticizing his \"traitor\" remark against a Sikh MP, which he deemed an insult to Sikhs and the community's sacrifices.",
+    "img": "https://static.toiimg.com/photo/msid-127939402,imgsize-52946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/they-stole-surname-of-mahatma-gandhi-pm-modi-mocks-gandhis-takes-failed-start-up-jab-at-rahul/articleshow/127937910.cms",
+    "time": "2026-02-05T13:52:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Beaten to death for nothing: Truth behind Ajith Kumar’s custodial killing",
+    "desc": "Seven months after a young man died in illegal custody after being picked up and tortured by the Tamil Nadu police on a mere suspicion of stealing jewels, a chilling truth has emerged. The CBI has told the Madras High Court that the alleged theft never occurred. If there was no crime, why did he have to die?",
+    "img": "https://th-i.thgim.com/public/incoming/qx77u6/article70595877.ece/alternates/LANDSCAPE_1200/Why%20did%20Ajith%20Kumar%20die.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-beaten-to-death-for-nothing-truth-behind-ajith-kumars-custodial-killing-focus-tamil-nadu/article70596275.ece",
+    "time": "2026-02-05T13:48:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian-origin captains at the T20 World Cup 2026",
+    "desc": "As India co-hosts the T20 World Cup 2026, several associate nations will feature captains of Indian origin, adding a unique narrative. Players like Monank Patel (USA), Dilpreet Bajwa (Canada), and Jatinder Singh (Oman) lead their teams, showcasing the global reach of cricket and their ambition to challenge established powers on the world stage.",
+    "img": "https://static.toiimg.com/photo/msid-127938861,imgsize-1157984.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/beyond-the-tricolour-indian-origin-captains-at-the-t20-world-cup-2026/articleshow/127938313.cms",
+    "time": "2026-02-05T13:46:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How BJP plans to do a Bihar in state and will it be enough?",
+    "desc": "The BJP is attempting to replicate its Bihar electoral strategy in Tamil Nadu by consolidating opposition forces and forming a broad social alliance across major caste segments. Aiming to counter the DMK, the party is forging alliances with former partners and breakaway factions, including the AIADMK and PMK, to build a wider NDA for the upcoming assembly elections.",
+    "img": "https://static.toiimg.com/photo/msid-127938561,imgsize-1130802.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-elections-how-bjp-plans-to-do-a-bihar-in-state-and-will-it-be-enough/articleshow/127938475.cms",
+    "time": "2026-02-05T13:34:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Conflict nearing end’: Centre, Nagaland and ENPO sign Frontier Nagaland Territorial Authority agreement — what it means",
+    "desc": "The Central government, Nagaland government, and ENPO have signed an agreement to establish the Frontier Nagaland Territorial Authority (FNTA) to address the demands of Eastern Nagaland. Union Home Minister Amit Shah stated the MHA will fund the new body and ensure development in the region, marking progress towards peace and development in the Northeast.",
+    "img": "https://static.toiimg.com/photo/msid-127936560,imgsize-51532.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/conflict-nearing-end-centre-nagaland-and-enpo-sign-frontier-nagaland-territorial-authority-agreement-what-it-means/articleshow/127936239.cms",
+    "time": "2026-02-05T13:33:37.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "World confident of stability after India's trade deals with EU, U.S., says PM Modi",
+    "desc": "“India is signing future-ready trade deals with several nations. In the last few days, we have signed trade deals with nine big nations, including the 'mother of all deals' with the 27-nation bloc of the European Union,” PM Modi said",
+    "img": "https://th-i.thgim.com/public/incoming/q6t6r4/article70595942.ece/alternates/LANDSCAPE_1200/PTI02_05_2026_000267B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pm-modi-in-rajya-sabha-speech-budget-session/article70595894.ece",
+    "time": "2026-02-05T13:15:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anne Hathaway asks fans to dress for ‘Devil Wears Prada 2’",
+    "desc": "Anne Hathaway is calling on moviegoers to step into a world of style as they gear up for 'The Devil Wears Prada 2'. She imagines a premiere that transcends beyond mere watching—encouraging fans to don their most fashionable outfits, echoing the film's stunning aesthetic and character development.",
+    "img": "https://static.toiimg.com/photo/msid-127937369,imgsize-39468.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-devil-wears-prada-2-star-anne-hathaway-urges-fans-to-dress-the-part-for-movie-screenings/articleshow/127937369.cms",
+    "time": "2026-02-05T13:07:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Who is Kani Kusruti? ‘Assi’ actress explained",
+    "desc": "In the spotlight for her striking role as a rape victim in the upcoming film 'Assi,' Kani Kusruti is captivating audiences with her emotional depth. This film represents her third creative partnership with director Anubhav Sinha and co-star Taapsee Pannu.",
+    "img": "https://static.toiimg.com/photo/msid-127937123,imgsize-46040.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/who-is-kani-kusruti-all-you-need-to-know-about-the-actress-playing-rape-survivor-in-taapsee-pannu-starrer-assi/articleshow/127937123.cms",
+    "time": "2026-02-05T13:00:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When &amp; where to watch the thriller",
+    "desc": "Mark your calendars, as Nivin Pauly's suspense-filled film 'Baby Girl' is set to arrive on OTT! Under the direction of Arun Varma and with a script penned by Bobby-Sanjay, this thriller tackles the heart-wrenching saga of a missing baby from a hospital.",
+    "img": "https://static.toiimg.com/photo/msid-127936704,imgsize-44322.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/baby-girl-ott-release-when-and-where-to-watch-the-nivin-pauly-starrer-thriller-online/articleshow/127936704.cms",
+    "time": "2026-02-05T12:55:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taapsee Pannu’s ‘Assi’: cast, plot, release",
+    "desc": "'Assi' marks the thrilling reunion of Anubhav Sinha and Taapsee Pannu, offering a profound exploration of a rape case through a legal lens. The trailer reveals Pannu as an unstoppable lawyer taking on deep-rooted corruption, with Kani Kusruti providing a compelling performance as the survivor.",
+    "img": "https://static.toiimg.com/photo/msid-127936714,imgsize-34198.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/taapsee-pannu-starrer-assi-cast-release-date-plot-of-crime-thriller-revealed/articleshow/127936714.cms",
+    "time": "2026-02-05T12:55:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'I eat 2kg of gaalis daily': In light moment during RS speech, PM Modi reveals 'health secret'",
+    "desc": "Prime Minister Narendra Modi delivered a strong speech in Rajya Sabha criticising the Congress for decades of misgovernance and alleged deep hatred towards him. Modi also targeted Rahul Gandhi's recent comments, calling them an insult to Sikhs. The Prime Minister stated that much of the NDA's work involves correcting past mistakes.",
+    "img": "https://static.toiimg.com/photo/msid-127937456,imgsize-29608.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/i-eat-2kg-of-gaalis-daily-in-light-moment-during-rs-speech-pm-modi-reveals-health-secret/articleshow/127936956.cms",
+    "time": "2026-02-05T12:54:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Salman paid for everyone at a club, handed champagne bottles'",
+    "desc": "Blogger Miss Malini recalled a memorable night when Salman Khan turned a regular Tuesday into a lavish party at China House, generously paying for everyone and distributing champagne. This pre-smartphone era anecdote highlights Salman's legendary generosity. Meanwhile, the star is also defending his look for the upcoming film 'Battle of Galwan' against recent criticism.",
+    "img": "https://static.toiimg.com/photo/msid-127936563,imgsize-12042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-entered-a-night-club-and-paid-for-everyone-handed-champagne-bottles-recalls-blogger-talking-about-his-generousity/articleshow/127936484.cms",
+    "time": "2026-02-05T12:46:36.000Z"
+  },
+  {
     "cat": "World",
     "title": "What are the Epstein files and why has this triggered a political controversy in India?",
     "desc": "On January 30, the U.S. Department of Justice released over three million pages of documents related to the investigation into Jeffrey Epstein’s sexual abuse network and his associates. The newly released files mention several high-profile global figures. The disclosures triggered political controversy in India after some records appeared to reference individuals allegedly close to Prime Minister Narendra Modi in messages exchanged with the disgraced American financier. Who is Jeffrey Epstein and what are the Epstein Files?",
@@ -25,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/cristiano-ronaldo-turns-41-career-goals-records-achievements-and-net-worth/articleshow/127934241.cms",
     "time": "2026-02-05T12:08:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Land for border fencing not an issue, Centre must roll back BSF jurisdiction expansion rule: Mamata Banerjee",
-    "desc": "“They understand only one word, infiltration. Will the youth and new voters not get enrolled?”, Bengal CM Mamata Banerjee asked, arguing that excessive securitisation of border areas risks disrupting democratic processes and the lives of ordinary people",
-    "img": "https://th-i.thgim.com/public/incoming/t7pkcf/article70595487.ece/alternates/LANDSCAPE_1200/PTI02_05_2026_000131A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/land-for-border-fencing-not-an-issue-centre-must-roll-back-bsf-jurisdiction-expansion-rule-mamata-banerjee/article70595408.ece",
-    "time": "2026-02-05T12:03:34.000Z"
   },
   {
     "cat": "Entertainment",
@@ -118,15 +271,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Six-laning works on NH 66 in Kerala enter final phase, 492 km opened for traffic, says Minister",
-    "desc": "Kerala Public Works Minister says some defects had occurred at some places during the construction work, and following the State’s request the National Highways Authority of India has informed that 10 agencies have been appointed to conduct expert inspections on 17 stretches.",
-    "img": "https://th-i.thgim.com/public/incoming/vvu3dv/article70595376.ece/alternates/LANDSCAPE_1200/Udupi-ChikkamagGSKFB3SDG.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/six-laning-works-on-nh-66-in-kerala-enter-final-phase-492-km-opened-for-traffic-says-minister/article70595063.ece",
-    "time": "2026-02-05T11:17:50.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'Pro-people, not rudderless': Mamata Banerjee hails Bengal budget; attacks Centre for denying funds to state",
     "desc": "West Bengal Chief Minister Mamata Banerjee accused the BJP-led central government of withholding funds, yet her government presented a pro-people budget. The state's interim budget of Rs 4.06 lakh crore for 2026-27 includes increased allowances for women, youth, and frontline workers, notably boosting the Lakshmir Bhandar scheme by Rs 500 monthly.",
     "img": "https://static.toiimg.com/photo/msid-127933018,imgsize-65080.cms",
@@ -153,6 +297,15 @@ const newsData_en = [
     "time": "2026-02-05T11:10:31.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "Meghalaya 'illegal' coal mine blast: 16 labourers dead; PM Modi expresses grief, announces ex-gratia",
+    "desc": "Tragedy struck Meghalaya's East Jaintia Hills as an explosion at a suspected illegal coal mine claimed at least 16 lives on Thursday. Several others remain trapped as rescue operations are underway. Officials confirmed the blast occurred in the Thangsku area, with one injured labourer hospitalized. The incident highlights the dangers of unscientific mining practices.",
+    "img": "https://static.toiimg.com/photo/msid-127933183,imgsize-45378.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/meghalaya-illegal-coal-mine-blast-labourers-trapped-several-feared-dead-rescue-operations-underway/articleshow/127932604.cms",
+    "time": "2026-02-05T11:06:46.000Z"
+  },
+  {
     "cat": "Business",
     "title": "India-U.S. trade deal: Joint statement in ‘four to five days’, legal agreement by mid-March, says Piyush Goyal",
     "desc": "Commerce Minister said the U.S. will drop tariffs on India to 18% after the joint statement is issued. India, however, will be able to cut tariffs on U.S. goods only after the formal agreement is signed",
@@ -160,15 +313,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/india-us-trade-deal-piyush-goyal-tariffs-joint-statement-legal-agreement/article70594904.ece",
     "time": "2026-02-05T11:01:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "12 Maoists with ₹46 lakh bounty surrender in Chhattisgarh's Bijapur",
-    "desc": "The cadres, including eight women, belonging to the 'south sub zonal buro' of Maoists, turned themselves in before senior police officials here under the Bastar police's 'Poona Margem' (from rehabilitation to social reintegration) initiative, Bijapur Superintendent of Police Jitendra Kumar Yadav said.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/chhattisgarh/12-maoists-with-46-lakh-bounty-surrender-in-chhattisgarhs-bijapur/article70595386.ece",
-    "time": "2026-02-05T10:52:51.000Z"
   },
   {
     "cat": "Entertainment",
@@ -234,15 +378,6 @@ const newsData_en = [
     "time": "2026-02-05T10:10:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Refund partial fare to rail passengers who pay charge but don't get full berth under RAC: Parliament panel",
-    "desc": "Under the current practice, the railways charge full fare from a passenger to book a berth in trains under the RAC category. However, the passenger may remain in the RAC category and share the berth with another RAC passenger. Both passengers pay full fare to the railways",
-    "img": "https://th-i.thgim.com/public/incoming/m99e9z/article70595224.ece/alternates/LANDSCAPE_1200/MGR%20Chennai%20Central%20Mangaluru%203.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/refund-partial-fare-to-rail-passengers-who-pay-charge-but-dont-get-full-berth-under-rac-parliament-panel/article70595125.ece",
-    "time": "2026-02-05T10:07:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Gambhir visits Siddhivinayak, seeks blessings ahead of T20 World Cup",
     "desc": "Ahead of their T20 World Cup title defense, head coach Gautam Gambhir and batting coach Sitanshu Kotak sought blessings at the Shree Siddhivinayak Temple. India, led by Suryakumar Yadav, enters the tournament as strong favorites, aiming to become the first team to successfully defend the men's T20 World Cup title.",
@@ -259,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shetty-questions-why-films-talk-about-auragzeb-akbar-but-not-shivaji-maharaj-rajputs-our-history-textbooks-/articleshow/127930083.cms",
     "time": "2026-02-05T10:02:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala Assembly disrupted amid Sabarimala gold theft row",
-    "desc": "Kerala Assembly proceedings were adjourned early on February 5 amid protests by the Congress-led UDF over the Sabarimala gold theft case. Opposition MLAs disrupted Question Hour, raising slogans and demanding action against those allegedly involved.",
-    "img": "https://th-i.thgim.com/public/news/national/hbt0m/article70594997.ece/alternates/LANDSCAPE_1200/sebi%20chief%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/kerala-assembly-disrupted-amid-sabarimala-gold-theft-row/article70594995.ece",
-    "time": "2026-02-05T09:58:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -297,24 +423,6 @@ const newsData_en = [
     "time": "2026-02-05T09:51:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Requested PM not to come to House': Lok Sabha Speaker says plot by Congress MPs to create 'inappropriate incident'",
-    "desc": "Lok Sabha was adjourned amid security concerns over alleged Congress plans to attack Prime Minister Narendra Modi, despite his presence. Opposition rejected the claims, accusing the government of stalling proceedings. The Prime Minister is expected to address the Rajya Sabha later.",
-    "img": "https://static.toiimg.com/photo/msid-127929666,imgsize-79274.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/requested-pm-not-to-come-to-house-lok-sabha-speaker-says-plot-by-congress-mps-to-create-inappropriate-incident/articleshow/127929244.cms",
-    "time": "2026-02-05T09:50:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Indian teacher Rouble Nagi, who painted educational murals across slums, wins Global Teacher Prize",
-    "desc": "Indian teacher and activist Rouble Nagi has won the Global Teacher Prize in Dubai for her work establishing over 800 learning centers and creating educational murals in slum areas. Nagi plans to use the $1 million prize to build an institute offering free vocational training to students, continuing her mission to make education accessible.",
-    "img": "https://static.toiimg.com/photo/msid-127931146,imgsize-96344.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indian-teacher-rouble-nagi-who-painted-educational-murals-across-slums-wins-global-teacher-prize/articleshow/127929551.cms",
-    "time": "2026-02-05T09:45:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Pakistan captain Salman Ali Agha on India match",
     "desc": "Pakistan captain Salman Ali Agha reiterated that the decision to skip the India match at the T20 World Cup rests entirely with the Pakistani government. While acknowledging fans will miss the marquee clash, Agha stressed the team’s focus is on the remaining group games.",
@@ -331,24 +439,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-tribeny-rai-on-the-making-of-nepalese-film-shape-of-momo/article70595030.ece",
     "time": "2026-02-05T09:21:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Fallout Season 2’ ending explained: all you need to know",
-    "desc": "Fallout Season 2 concludes with Lucy confronting her father and reuniting with Maximus, while The Ghoul embarks on a quest to Colorado following a family clue. The season finale hints at a looming war with the activation of Liberty Prime Alpha, setting the stage for a confirmed Season 3.",
-    "img": "https://static.toiimg.com/photo/msid-127928975,imgsize-34968.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/fallout-season-2-ending-explained-lucy-maximus-and-the-ghouls-fate-and-the-future-of-the-wasteland/articleshow/127928952.cms",
-    "time": "2026-02-05T09:14:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'No such visit took place': MEA rubbishes report claiming Doval–Rubio meet before India-US trade deal",
-    "desc": "The Ministry of External Affairs has firmly denied a Bloomberg report alleging National Security Adviser Ajit Doval met with US Secretary of State Marco Rubio regarding a trade deal. MEA spokesperson Randhir Jaiswal called the claims baseless, stating no such meeting occurred. This rebuttal follows recent announcements of a trade agreement between India and the US.",
-    "img": "https://static.toiimg.com/photo/msid-127928964,imgsize-1015986.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-such-visit-took-place-mea-rubbishes-report-claiming-dovalrubio-meet-before-india-us-trade-deal/articleshow/127928981.cms",
-    "time": "2026-02-05T09:14:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -369,51 +459,6 @@ const newsData_en = [
     "time": "2026-02-05T08:29:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "SC directs WB government to pay DA to employees by March; BJP hails verdict",
-    "desc": "The Supreme Court has ordered West Bengal to pay dearness allowance to its employees as per the 2008 pay rules, stating financial constraints are no excuse. While upholding the entitlement to DA under state rules, the court clarified it's not a fundamental right, unlike a previous High Court ruling.",
-    "img": "https://static.toiimg.com/photo/msid-127926361,imgsize-530906.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sc-directs-wb-government-to-pay-da-to-employees-by-march-bjp-hails-verdict/articleshow/127926157.cms",
-    "time": "2026-02-05T08:15:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sherri Shepherd breaks silence on ‘Sherri’ cancellation",
-    "desc": "Talk show host Sherri Shepherd has revealed she has COVID-19, explaining her absence from the show following its cancellation announcement. She expressed gratitude for fan support and promised to address the show's end, attributed to a changing TV landscape, once she recovers. The production company indicated interest in exploring other platforms for the show.",
-    "img": "https://static.toiimg.com/photo/msid-127927697,imgsize-39014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/sherri-shepherd-breaks-silence-on-sherri-cancellation-shares-health-update/articleshow/127927697.cms",
-    "time": "2026-02-05T08:04:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anil apologizes to fan after he missed to tag the singers in Pukar post",
-    "desc": "Anil Kapoor apologized to a fan after forgetting to tag singers in his 'Pukar' anniversary post. The actor quickly corrected the mistake and gave credit to A.R. Rahman, Udit Narayan, and Kavita Krishnamurthy. Currently, Anil is working on Hansal Mehta’s series Family Business and his upcoming film 'Subedaar'.",
-    "img": "https://static.toiimg.com/photo/msid-127927701,imgsize-57952.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anil-kapoor-apologizes-to-fan-after-he-missed-to-tag-the-singers-in-pukar-post-i-am-sorry-i-will-repost-it-with-both-their-names/articleshow/127927701.cms",
-    "time": "2026-02-05T08:03:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Trump supports Savannah Guthrie amid her mother's disappearance",
-    "desc": "US President Donald Trump has pledged full federal law enforcement support for the search of Nancy Guthrie, mother of journalist Savannah Guthrie, who went missing on January 31st. Trump announced on Truth Social that all resources are being deployed to ensure her safe return.",
-    "img": "https://static.toiimg.com/photo/msid-127927557,imgsize-44880.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/tv/news/english/us-president-donald-trump-supports-savannah-guthrie-amid-the-disappearance-of-her-mother-we-are-deploying-all-resources/articleshow/127927557.cms",
-    "time": "2026-02-05T08:02:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "When mental health advice comes from artificial intelligence",
-    "desc": "Online symptom checkers and social media are leading many to self-diagnose mental health conditions, often bypassing professional help. This trend, fueled by accessible yet often inaccurate content, risks misdiagnosis, inappropriate self-treatment, and delayed care, especially in regions with limited mental healthcare access. Experts urge caution, emphasizing the complexity of clinical diagnosis.",
-    "img": "https://static.toiimg.com/photo/msid-127927504,imgsize-1520729.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/the-diy-therapy-when-mental-health-advice-comes-from-artificial-intelligence/articleshow/127927060.cms",
-    "time": "2026-02-05T07:56:25.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'Limitless potential!': Sergio Gor hails India-US ties; points to ongoing high level engagements",
     "desc": "India and the US are set to deepen their bilateral ties, with Ambassador Gor highlighting readiness for elevated engagement. External Affairs Minister S Jaishankar's recent meetings with US officials, including Secretary of State Marco Rubio and Treasury Secretary Scott Bessent, covered trade, energy, defense, and critical minerals, signaling a robust economic and strategic partnership ahead.",
@@ -424,48 +469,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Savannah Guthrie’s replacement for Winter Olympics revealed",
-    "desc": "Savannah Guthrie will not be covering the 2026 Winter Olympics due to her mother Nancy's disappearance. Mary Carillo will replace her for the Opening Ceremony, joined by co-host Terry Gannon and analyst Shaun White. The family is focused on Nancy's safe return, with authorities actively investigating her disappearance from Tucson.",
-    "img": "https://static.toiimg.com/photo/msid-127927310,imgsize-58708.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/tv/news/english/who-will-replace-savannah-guthrie-in-the-2026-winter-olympics-coverage-amid-her-mother-nancys-disappearance/articleshow/127927277.cms",
-    "time": "2026-02-05T07:46:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "On reinvention, failures",
     "desc": "Abhishek Bachchan, marking 25 years in Bollywood, embraces reinvention as he turns 50. Despite facing numerous flops and public scrutiny, he remains grounded, acknowledging his privilege while crediting his survival to merit. He emphasizes the necessity of constant evolution to connect with new audiences and avoid becoming stale, a lesson learned from observing industry peers.",
     "img": "https://static.toiimg.com/photo/msid-127926503,imgsize-14250.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhishek-bachchan-at-50-on-reinventing-himself-staying-motivated-through-failures-and-why-cynicism-never-won-exclusive/articleshow/127926191.cms",
     "time": "2026-02-05T07:40:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Prashant Kishor's Jan Suraaj party moves Supreme Court challenging Bihar elections, seeks fresh polls",
-    "desc": "Prashant Kishor's Jan Suraaj Party has petitioned the Supreme Court, challenging the 2025 Bihar Assembly elections and demanding fresh polls. The party alleges the Bihar government violated the Model Code of Conduct by transferring Rs 10,000 to women beneficiaries after election schedules were announced, seeking the Election Commission's intervention.",
-    "img": "https://static.toiimg.com/photo/msid-127927163,imgsize-1012508.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/prashant-kishors-jan-suraaj-party-moves-supreme-court-challenging-bihar-elections-seeks-fresh-polls/articleshow/127927162.cms",
-    "time": "2026-02-05T07:37:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Watch",
-    "desc": "At a lively promotional gathering for 'Do Deewane Seher Mein', Siddhant Chaturvedi couldn't resist playfully poking fun at Mrunal Thakur's connection to Chennai, leaving her cheeks flushed. This charming banter has once again sparked buzz surrounding her rumored romance with Tamil superstar Dhanush.",
-    "img": "https://static.toiimg.com/photo/msid-127926582,imgsize-33112.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/siddhant-chaturvedi-teases-mrunal-thakur-over-dhanush-linkup-rumors-chennai-wala-sawaal-inse-tha-ya-mujhse-watch/articleshow/127926582.cms",
-    "time": "2026-02-05T07:18:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Search for Lil Jon’s Son DJ Young Slade Cases",
-    "desc": "The search is on for DJ Young Slade, a 27-year-old budding artist and son of hip-hop icon Lil Jon, who mysteriously disappeared from his home in Georgia. He was last spotted walking away without his phone, raising concerns that he may be lost and needing help.",
-    "img": "https://static.toiimg.com/photo/msid-127925994,imgsize-45626.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/search-underway-for-lil-jons-27-year-old-son-dj-young-slade-after-disappearance-from-georgia-home/articleshow/127925994.cms",
-    "time": "2026-02-05T06:53:22.000Z"
   },
   {
     "cat": "Sports",
@@ -484,15 +493,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/sentimental-value-sirat-and-hamnet-headline-red-lorry-film-festivals-international-showcase/article70594663.ece",
     "time": "2026-02-05T06:36:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Is egg freezing only for married women?",
-    "desc": "Egg freezing in India is increasingly seen as a fertility preservation choice for all women, not just the married. Experts emphasize it empowers women to plan their reproductive future independently, offering flexibility to pursue careers and education without biological clock pressure. This proactive step is gaining traction among unmarried women, promoting informed decisions beyond societal norms.",
-    "img": "https://static.toiimg.com/photo/msid-127925452,imgsize-337563.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/is-egg-freezing-only-for-married-women/articleshow/127925464.cms",
-    "time": "2026-02-05T06:25:32.000Z"
   },
   {
     "cat": "Sports",
@@ -622,24 +622,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Rodrigues-led DC desperate to break jinx; Mandhana's RCB eye another title",
-    "desc": "Royal Challengers Bengaluru face Delhi Capitals in the Women's Premier League final. Smriti Mandhana's RCB seeks a second title, matching Mumbai Indians. Delhi Capitals, led by Jemimah Rodrigues, aims for their first championship after three runner-up finishes. Both teams have seen key player contributions throughout the season.",
-    "img": "https://static.toiimg.com/photo/msid-127915458,imgsize-38250.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/wpl-final-jemimah-rodrigues-led-delhi-capitals-desperate-to-break-jinx-smriti-mandhanas-rcb-eye-another-wpl-crown/articleshow/127914932.cms",
-    "time": "2026-02-05T01:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "More power, more depth; why India's 2026 squad outshines 2024",
-    "desc": "India enters the T20 World Cup with a confident and settled squad, building on their 2024 title-winning approach. With a blend of experienced players and new talent like Abhishek Sharma, the team is poised for success, though batting order and conditions pose potential challenges.",
-    "img": "https://static.toiimg.com/photo/msid-127914088,imgsize-58766.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-more-power-more-depth-why-indias-2026-squad-outshines-2024/articleshow/127913866.cms",
-    "time": "2026-02-04T23:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Indian men, women register contrasting wins to seal quarterfinal spots",
     "desc": "The men’s Group C clash between India and Singapore went down to the wire, with former world number 1 Kidambi Srikanth coming up with a clinical performance in the third men’s singles against Jia Wei Joel Koh",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -655,33 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/india-thrash-bhutan-to-set-up-saff-u19-womens-championship-final-clash-with-bangladesh/article70593273.ece",
     "time": "2026-02-04T21:00:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "AI Express to invest Rs 633 crore for revamp",
-    "desc": "The budget arm of AI had a fleet of 26 Boeing 737 NG (next generation) when the Tatas acquired it along with Air India in Jan 2022. ​Thanks to the fleet augmentation done by Tatas since then, along with the merger of erstwhile AirAsia India with AI Express, the airline now has a fleet of over 100 aircraft.",
-    "img": "https://static.toiimg.com/photo/msid-127918524,imgsize-666596.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/ai-express-to-invest-rs-633-crore-for-revamp/articleshow/127918530.cms",
-    "time": "2026-02-04T20:36:47.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Nvidia CEO",
-    "desc": "In the Budget, FM Nirmala Sitharaman had proposed to provide a tax holiday till 2047 to any foreign company providing cloud services to customers globally by using data centre services from India. It will, however, need to provide services to Indian customers through an Indian reseller entity. Officials said profits on the income from domestic economic activities will remain taxable as any other domestic company.",
-    "img": "https://static.toiimg.com/photo/msid-127918450,imgsize-52414.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/data-centres-will-help-create-jobs-nvidia-ceo/articleshow/127918443.cms",
-    "time": "2026-02-04T20:12:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India 2nd biggest private equity hub for Warburg",
-    "desc": "​​The PE major entered Asia in 1994. It came to India two years later, just when the economic reforms under the then finance minister Manmohan Singh had started, and private equity was in its infancy. For the chief, one of the most significant developments in India in recent times was the growth of the domestic capital.",
-    "img": "https://static.toiimg.com/photo/msid-127918439,imgsize-71212.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-2nd-biggest-private-equity-hub-for-warburg/articleshow/127918415.cms",
-    "time": "2026-02-04T20:10:24.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/india-to-host-shootings-asian-olympic-qualifying-championship-next-year/article70586484.ece",
     "time": "2026-02-03T07:42:07.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Cuba confirms ‘communications’ with U.S., but says no negotiations yet",
+    "desc": "Donald Trump, on February 2, claimed the United States was in talks with “the highest people” in communist Cuba and that he expected to “make a deal” with its leadership, without saying what a deal might look like",
+    "img": "https://th-i.thgim.com/public/incoming/8h0nd7/article70585904.ece/alternates/LANDSCAPE_1200/2026-02-02T210835Z_530100915_RC2VDJA0NI74_RTRMADP_3_CUBA-USA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/cuba-confirms-communications-with-us-but-says-no-negotiations-yet/article70585893.ece",
+    "time": "2026-02-03T03:28:05.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Drone attack targets strategic northeast Congo city, authorities say, blaming M23",
+    "desc": "The government of ⁠Tshopo province, where Kisangani is located, said in a statement on Sunday (February 1, 2026) that the drones attempted to strike Bangoka International Airport between ​early Saturday (January 31, 2026) and early Sunday (February 1, 2026) ⁠but were shot down before reaching their target",
+    "img": "https://th-i.thgim.com/public/incoming/gg8sbr/article70468492.ece/alternates/LANDSCAPE_1200/2025-12-11T194833Z_458289501_RC2DEIAWK9L4_RTRMADP_3_CONGO-SECURITY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/drone-attack-targets-strategic-northeast-congo-city-authorities-say-blaming-m23/article70585089.ece",
+    "time": "2026-02-03T02:25:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Uzbekistan's Abdusattorov wins Tata Steel Masters title, Gukesh best Indian at joint eighth",
+    "desc": "Gukesh drew with Vincent Keymer of Germany in the final round to end as the top performing Indian on 6.5 points. But, his fifty per cent score was below par and the Indian ace slipped below the 2750 rating mark",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/uzbekistans-abdusattorov-wins-tata-steel-masters-title-gukesh-best-indian-at-joint-eighth/article70584839.ece",
+    "time": "2026-02-02T19:23:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tilak Varma makes solid 38, Jagadeesan's ton shines in India A's win over USA in warm-up game",
+    "desc": "Priyansh Arya (28 in 13 balls, with four boundaries and two sixes) played a fiery cameo to start the innings with a 43-run stand with Jagadeesan, who went on to make 104 in 55 balls, with 11 fours and five sixes",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/tilak-varma-makes-solid-38-jagadeesans-ton-shines-in-india-as-win-over-usa-in-warm-up-game/article70584831.ece",
+    "time": "2026-02-02T19:03:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rise in southern States’ share in devolution of funds provides no relief to Tamil Nadu",
+    "desc": "The share of Tamil Nadu, which was 4.079% in the 15th FC, rose to 4.097% now, accounting for a rate of increase of only 0.44%; as part of horizontal devolution, the weights assigned to the criteria of area, demographic performance and per-capita GSDP (Gross State Domestic Product) have reduced affecting States like T.N and Kerala",
+    "img": "https://th-i.thgim.com/public/incoming/f9g835/article70584821.ece/alternates/LANDSCAPE_1200/vjkvg-budget%204.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/rise-in-southern-states-share-in-devolution-of-funds-provides-no-relief-to-tamil-nadu/article70583725.ece",
+    "time": "2026-02-02T18:54:00.000Z"
   }
 ];

@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ben Stokes suffers gruesome injury in nets, shares photo on social media",
+    "desc": "Ben Stokes was left nursing a nasty facial injury after a freak accident during an England training session, with the Test captain revealing a badly bruised right eye and a bleeding nose after being struck...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-suffers-gruesome-injury-in-nets-shares-photo-on-social-media-2026-02-05-1029069",
+    "time": "2026-02-05T15:21:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Woolvardt show begins after Jemimah departs for 57",
+    "desc": "Jemimah Rodrigues scored 57 runs in the WPL 2026 final against Royal Challengers Bengaluru at the BCA Stadium in Vadodara. The captain led by example in the summit clash, dominating the Smriti Mandhana-led side. She...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-vs-dc-wpl-2026-final-live-cricket-score-bengaluru-vs-delhi-bca-stadium-vadodara-latest-match-updates-scorecard-teams-highlights-1029056",
+    "time": "2026-02-05T13:12:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mustafizur Rahman joins PSL team after being dropped from KKR squad for IPL 2026",
     "desc": "Lahore Qalandars have brought back Bangladesh fast bowler Mustafizur Rahman as their direct signing for the upcoming 2026 Pakistan Super League, securing him on a contract worth PKR 6.44 crore. The left-armer is no stranger...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/icc-announces-broadcast-details-for-t20-world-cup-2026-check-details-2026-02-05-1029004",
     "time": "2026-02-05T07:22:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Team India's record in T20 World Cup history",
-    "desc": "The stage is set for the upcoming edition of the T20 World Cup 2026. The marquee tournament is being co-hosted by India and Sri Lanka and is slated to begin on February 7. This will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/2007-to-2024-team-india-s-record-in-t20-world-cup-history-2026-02-05-1028996",
-    "time": "2026-02-05T06:21:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Smriti Mandhana eyes Ellyse Perry's RCB record in WPL final against Delhi Capitals",
-    "desc": "Royal Challengers Bengaluru and Delhi Capitals are set to face each other in the final of the Women's Premier League (WPL) today at the Kotambi Stadium in Vadodara. Smriti Mandhana is leading RCB for the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-eyes-ellyse-perry-s-rcb-record-in-wpl-final-against-delhi-capitals-2026-02-05-1028990",
-    "time": "2026-02-05T05:41:06.000Z"
   }
 ];

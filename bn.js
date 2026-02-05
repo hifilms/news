@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "Rajasthan's Honeymoon Murder: হাড়হিম হানিমুন মার্ডার! গাড়ির ধাক্কায় মৃত্যু নয়, ঝোপের ভিতরে লুকিয়ে থাকা দুই রাক্ষসই শ্বাসরোধ করে খুন করল নতুন বরকে...",
+    "desc": "অনীশ ও অঞ্জুর ইভিনিং ওয়াক মহূর্তে পরিণত হয় দুঃস্বপ্নে। একটা গাড়ি এসে ভয়ংকর ধাক্কা মারে নবদম্পতিকে, অকুস্থলেই মৃত্যু বরের, কনের গা থেকে চুরি হয়ে যায় সোনার গয়না। কিন্তু তদন্ত যত এগোয়, তত প্রকাশ্যে আসে হাড়হিম ঘটনা।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/rajasthans-honeymoon-murder-after-meghalaya-another-honeymoon-killing-man-dies-in-hit-and-run-turns-out-to-be-murder-plot-by-wife_639776.html ",
+    "time": "2026-02-05T13:31:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "কলকাতায় সুরের মহামিলন! প্যালেস্টাইন থেকে বাংলার বাউল, ‘সহজ পরব’-এ মাতবে তিলোত্তমা...",
+    "desc": "আগামী ৬,৭,৮ ফেব্রুয়ারী ২০২৬ ভারতীয় জাদুঘর প্রাঙ্গণ ও জি.ডি.বিড়লা সভাঘর -এ অনুষ্ঠিত হতে চলেছে সহজ পরব এর অষ্টম সংস্করণ। প্রাণের শহর কলকাতার সাংস্কৃতিক মানচিত্রে অন্যতম এই 'সহজ পরব'। দোহার এবং লোপামুদ্রা মিত্র প্রোডাকশনের উদ্যোগে আয়োজিত এই উৎসবে প্যালেস্টাইন এর সুরের রেশ থেকে বাংলার কীর্তন, বাউল মণিপুরের নাচ থেকে ,রণপা, মুখোশ ডান্স এই সব মিলে তৈরি করবে এক অসাধারণ ঐকতান।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/sahaj-parab-season-8-folk-festival-kolkata-schedule-artists_639765.html ",
+    "time": "2026-02-05T13:04:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "অ্যাকাউন্টে ঢুকবে কড়কড়ে ১৫০০ টাকা থেকে ১৭০০ টাকা...! 'লক্ষ্মীর ভাণ্ডার' নিয়ে বিরাট ঘোষণা, কারা পাবেন টাকা? কী ভাবে করবেন আবেদন? জানুন সঠিক নিয়ম!",
+    "desc": "লক্ষ্মীর ভাণ্ডারে একধাক্কায় বাড়ানো হল ৫০০টাকা। সেক্ষেত্রে সাধারণ শ্রেণীভুক্ত প্রাপকরা, যাঁরা এতদিন পেতেন ১০০০ টাকা, তাঁরা এবার পাবেন ১৫০০ টাকা। অন্যদিকে তফসিলি জাতি, উপজাতির শ্রেণীভুক্তরা, যাঁরা এতদিন পেতেন ১২০০ টাকা করে, তাঁরা পাবেন মাসে মাসে ১৭০০ টাকা। কবে থেকে পাওয়া যাবে টাকা? কী ভাবে করবেন নতুন করে আবেদন?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/lakshmir-2026-02-ce6890853a3564470ad8e7544d131dd8-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/west-bengal/west-bengal-govt-lakshmir-bhandar-scheme-2026-now-monthly-1500-to-1700-rupees-will-be-delivered-on-each-account-a-major-announcement-who-will-receive-the-money-how-to-apply-know-right-way-sanj-2527735.html",
+    "time": "2026-02-05T12:58:36.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "দিনভর বাড়িতে চালান এসি, টিভি, ফ্রিজ, গিজার সবই! ১ টাকাও ইলেক্ট্রিক বিল আসবে না, মোক্ষম ট্রিক জানুন",
     "desc": "গ্রীষ্মকাল আসছে। প্রতিটি বাড়িতে বিদ্যুতের ব্যবহার অনিবার্যভাবে বৃদ্ধি পাবে। এমন পরিস্থিতি আসবে যখন ফ্যান, কুলার বা এসি ছাড়া বাড়িতে থাকা অসম্ভব হয়ে পড়বে। ফলে, বিদ্যুতের ক্রমবর্ধমান দাম সাধারণ মানুষের জন্য মাথাব্যথার কারণ হয়ে দাঁড়ায়। এমন পরিস্থিতিতে, অনেকেই তাদের বিদ্যুৎ বিল কমানোর উপায় খুঁজছেন।",
@@ -313,15 +340,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/mamata-banerjee-press-meet-west-bengal-cm-slams-opposition-challanges-bjp-on-upcoming-assembly-election-from-delhi-after-banga-bhawan-incident-and-sir-meeting-with-eci-sanj-2524770.html",
     "time": "2026-02-03T11:58:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বড় রহস্য সামনে আসছে! সবুজ ফাইলে কী ছিল? মমতার হলফনামা দেখে ইডি কেন নিল সাতদিন সময়? বিস্ফোরক তথ্য...",
-    "desc": "ইডির অভিযোগ ও সুপ্রিম কোর্টের পদক্ষেপ ঘটনার গুরুত্ব বিবেচনা করে ইডি সরাসরি সুপ্রিম কোর্টে মামলা দায়ের করে। ইডির পক্ষে সলিসিটর জেনারেল তুষার মেহতা আদালতে সওয়াল করেন যে, যেখানে তল্লাশি চলছিল সেখান থেকে মুখ্যমন্ত্রী নিজে এবং পুলিশের শীর্ষকর্তারা প্রামাণ্য নথি নিয়ে চলে গিয়েছেন, যা আইনত ‘চুরি’র সমান অপরাধ।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/next-tuesday-will-be-the-hearing-of-ed-vs-ipac-case-in-sc-as-after-submitting-affidavit-by-mamata-banerjee_639179.html ",
-    "time": "2026-02-03T11:40:47.000Z"
   },
   {
     "cat": "Business",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/arijit-singh-takebackyoursanyaas-this-is-unfair-take-back-your-sanyaas-vishal-bhardwajs-appeal-to-arijit-singh-rm-2519673.html",
     "time": "2026-01-30T18:34:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বাংলাদেশ সীমান্তের কাছে রেল যোগাযোগ বাড়াচ্ছে কেন্দ্র, চালু হচ্ছে চার- চারটি লাইন...! কী প্রভাব পড়বে ভারত-বাংলাদেশ সম্পর্কে?",
-    "desc": "উত্তর ২৪ পরগনা, নদিয়া ও সংলগ্ন এলাকার চার- চারটি নতুন লাইন প্রকল্পকে পুনরায় চালু করার উদ্যোগ নিল কেন্দ্রীয় রেল মন্ত্রক। এই নতুন লাইন প্রকল্পগুলোর মধ্যে রয়েছে বনগাঁ – পোড়া মহেশতলা (২০ কিমি) নতুন লাইন প্রকল্প, বনগাঁ – চাঁদবাজার (১১.৫ কিমি) নতুন লাইন প্রকল্প, চাঁদবাজার – বাগদা (১৩.৮ কিমি) নতুন লাইন প্রকল্প এবং রানাঘাট (আড়ংঘাটা) – দত্তফুলিয়া (৮.১৭ কিমি) নতুন লাইন প্রকল্প।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-30-at-22.05.36-1-2026-01-fb18633478aa58073105f401cc61b6b5-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/west-bengal/indian-railways-4-lines-to-reopen-in-india-bnagladesh-border-area-know-what-impact-to-follow-on-india-bangladesh-relation-economically-and-socially-sanj-2518901.html",
-    "time": "2026-01-30T16:55:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘অজিত পওয়ারের শেষ ইচ্ছে..,’ ফের এক হচ্ছে NCP? মহারাষ্ট্রের উপ মুখ্যমন্ত্রী পদে অজিত-স্ত্রী সুনেত্রার নাম",
-    "desc": "এর মাঝেই আলোচনায় এসেছে এনসিপি-র দুই গোষ্ঠীর ফের একত্রিত হয়ে যাওয়ার কথা৷ এনসিপি-র অন্দর সূত্রের খবর, এনসিপি ‘মার্জার’ই নাকি ছিল অজিত পওয়ারের শেষ ইচ্ছে৷ গত ডিসেম্বর-জানুয়ারি ধরে শরদ পওয়ারের সঙ্গে দফায় দফায় তিনি বৈঠক করেছিলেন বলেও জানা গিয়েছে৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/ydne-2026-01-30T204910.253-2026-01-2b639a7b3a504a876e3891d25f1a9533-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/ajit-pawar-demise-after-scenario-sunetra-pawar-to-become-maharashtras-deputy-chief-minister-ncp-sources-sta-2519526.html",
-    "time": "2026-01-30T15:20:32.000Z"
   }
 ];
