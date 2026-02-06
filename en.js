@@ -1,5 +1,194 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Tadoba tiger that swam two rivers and crossed three States tranquilised in East Godavari",
+    "desc": "After a 53-day movement through forest corridors and inhabited areas, the transient male tiger is secured in a cattle shed at Kurmapuram village on Friday evening, forest officials say. They add that the animal does not attack any human during its long journey and is in stable condition, with a decision yet to be taken on shifting it to a zoo or a rescue centre",
+    "img": "https://th-i.thgim.com/public/incoming/2ueh3x/article70601156.ece/alternates/LANDSCAPE_1200/10237_6_2_2026_20_28_54_1_TIGERTRANQUILIZED.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/tadoba-tiger-that-swam-two-rivers-and-crossed-three-states-tranquilised-in-east-godavari/article70600923.ece",
+    "time": "2026-02-06T20:52:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bihar MP Pappu Yadav arrested in 1995 forgery case after late-night drama",
+    "desc": "High drama unfolded at Pappu Yadav’s house in Mandiri locality when a police team arrived to execute a warrant issued by an MP/MLA court in the case registered under section 467 (forgery of documents) of the Indian Penal Code",
+    "img": "https://th-i.thgim.com/public/incoming/bap18p/article70601731.ece/alternates/LANDSCAPE_1200/PTI02_06_2026_000557B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/bihar-purnea-mp-pappu-yadav-arrest-1995-case/article70601728.ece",
+    "time": "2026-02-06T20:45:14.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Centre lays down eligibility criteriafor ‘deep tech’ start-ups in country",
+    "desc": "According to a gazette notification by the Department for Promotion of Industry and Internal Trade, a deep tech startup is primarily concerned with producing a solution based on new knowledge/advancements in a scientific or engineering discipline",
+    "img": "https://th-i.thgim.com/public/incoming/o2jua8/article70600106.ece/alternates/LANDSCAPE_1200/BL17_Think_data_center.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/centre-expands-definition-for-startups-with-official-term-for-deep-tech-companies/article70599087.ece",
+    "time": "2026-02-06T20:41:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "VHP flags Netflix film title as 'offensive'",
+    "desc": "The Vishwa Hindu Parishad has strongly objected to the Netflix film 'Ghooskhor Pandat', deeming its title offensive and an attack on a respected community. The VHP has demanded government intervention, while sources indicate Netflix voluntarily removed the film's teaser and promotional content from social media. The organization warned of protests if an apology isn't issued.",
+    "img": "https://static.toiimg.com/photo/msid-128008193,imgsize-1435090.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/vhp-flags-netflix-film-title-as-offensive/articleshow/128008205.cms",
+    "time": "2026-02-06T20:34:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court",
+    "desc": "The Supreme Court permitted a minor's pregnancy termination, acknowledging her right to reproductive autonomy and the lifelong trauma of an illegitimate child. Despite the Maharashtra government's concerns about a 30-week fetus's viability and the suggestion of an orphanage, the court prioritized the girl's mental well-being, directing the procedure with medical safeguards.",
+    "img": "https://static.toiimg.com/photo/msid-128008111,imgsize-182462.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/minor-has-right-over-reproductive-choice-supreme-court/articleshow/128008025.cms",
+    "time": "2026-02-06T20:30:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Exports to China up 37% in Apr-Dec: Minister",
+    "desc": "India's exports to China surged 37% to $14.2 billion in April-December, with December shipments jumping 67%. Imports, however, rose 13.5% to nearly $96 billion during the same period. The government highlighted that most Chinese imports are capital and intermediate goods, crucial for India's expanding electronics, pharma, and telecom sectors.",
+    "img": "https://static.toiimg.com/photo/msid-128007918,imgsize-1465576.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/exports-to-china-up-37-in-apr-dec-minister/articleshow/128007930.cms",
+    "time": "2026-02-06T20:20:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Iran backs Chabahar port, ready to expand ties with India",
+    "desc": "Iran reaffirms its commitment to the Chabahar port and cooperation with India, despite US sanctions uncertainty. While a recent budget showed no allocation, India has fulfilled its $120 million commitment and maintains a $250 million credit line for future development. Iran's ambassador highlighted the port's strategic importance for regional access and expressed confidence in India's management of the situation.",
+    "img": "https://static.toiimg.com/photo/msid-128007666,imgsize-869560.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/iran-backs-chabahar-port-ready-to-expand-ties-with-india/articleshow/128007678.cms",
+    "time": "2026-02-06T20:09:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Can't misuse judiciary after poll drubbing: Supreme Court",
+    "desc": "The Supreme Court sternly criticized the Jan Suraaj Party for challenging Bihar's assembly elections, questioning their motive after a significant electoral defeat. Justices noted the party's failure to win any seats and suggested their petition aimed at gaining popularity. The court emphasized that economic policy issues are for voters to address, not judicial annulment of elections.",
+    "img": "https://static.toiimg.com/photo/msid-128007581,imgsize-416534.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cant-misuse-judiciary-after-poll-drubbing-supreme-court/articleshow/128007523.cms",
+    "time": "2026-02-06T20:04:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Top Jaish, LeT men call for jihad, threaten to strike Delhi, Agra",
+    "desc": "Top commanders from Pakistan-based terror groups JeM and LeT have issued direct threats against India and global powers during rallies coinciding with 'Kashmir Solidarity Day'. Speeches incited violence, calling for jihad and targeting major Indian cities like Delhi and Agra. Intelligence agencies are on high alert for potential cross-border attacks.",
+    "img": "https://static.toiimg.com/photo/msid-128007423,imgsize-886648.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/top-jaish-let-men-call-for-jihad-threaten-to-strike-delhi-agra/articleshow/128007407.cms",
+    "time": "2026-02-06T19:55:31.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "India’s rare earths push finds possible ally in Germany’s wind energy needs",
+    "desc": "New Delhi’s announcements of a rare earth corridor and permanent magnets manufacturing programme could align with Berlin’s plan to scale up its offshore wind capacity; the initiatives for a domestic supply chain come as Germany and Europe are planning to diversify their reliance on China",
+    "img": "https://th-i.thgim.com/public/incoming/gu2g2d/article70601586.ece/alternates/LANDSCAPE_1200/2013-08-26T155808Z_158297497_BM2E98Q1CUY01_RTRMADP_3_GERMANY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/indias-rare-earths-push-finds-possible-ally-in-germanys-wind-energy-needs/article70600336.ece",
+    "time": "2026-02-06T19:43:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In a 1st, resolution professional held by ED for colluding with promoters of bankrupt co",
+    "desc": "The Enforcement Directorate (ED) has arrested Arvind Kumar, a former resolution professional for Richa Industries Ltd., on charges of collusion, asset siphoning, and money laundering during insolvency proceedings. This marks the first such arrest of an RP by an enforcement agency. The ED's investigation revealed unexplained cash deposits and illicit fund transfers linked to the company's original bank fraud.",
+    "img": "https://static.toiimg.com/photo/msid-128007049,imgsize-373657.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/in-a-1st-resolution-professional-held-by-ed-for-colluding-with-promoters-of-bankrupt-co/articleshow/128007039.cms",
+    "time": "2026-02-06T19:41:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Work on second phase of metro likely to be completed by Dec. 2026, says KMRL",
+    "desc": "KMRL managing director cites delays in piling caused by detection of a gas pipeline between Alinchuvadu and Padamugal, and the unavailability of land for Chembumukku and Padamugal stations as major obstacles to meeting the June deadline",
+    "img": "https://th-i.thgim.com/public/incoming/uoru1k/article70601633.ece/alternates/LANDSCAPE_1200/80968_6_2_2026_19_6_49_1_IMG_0950.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/work-on-second-phase-of-kochi-metro-likely-to-be-ready-by-december-2026-says-kmrl/article70600746.ece",
+    "time": "2026-02-06T19:34:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Govt",
+    "desc": "The Union government has rejected the Supreme Court's suggestion to introduce a \"Romeo-Juliet\" clause for \"genuine adolescent relationships\" under the Pocso Act. Citing child safety concerns, the government stated that diluting the age of consent would increase exploitation risks and undermine child protection efforts.",
+    "img": "https://static.toiimg.com/photo/msid-128006694,imgsize-847431.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/lowering-age-of-consent-will-undermine-child-safety-govt/articleshow/128006608.cms",
+    "time": "2026-02-06T19:33:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Over the years, DMK and Congress have forged a mutually complementary electoral tie-up",
+    "desc": "In the 2024 Lok Sabha election, even though the national party lagged behind the Dravidian party in terms of vote share in contested seats, the margin was less than one percentage point; the narrow gap in vote shares indicates that all the parties in the alliance benefit from one another",
+    "img": "https://th-i.thgim.com/public/incoming/5ixvd9/article70601679.ece/alternates/LANDSCAPE_1200/TNCC_RALLY",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/over-the-years-dmk-and-congress-have-forged-a-mutually-complementary-electoral-tie-up/article70601384.ece",
+    "time": "2026-02-06T19:30:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court to examine HP decision to withdraw cases against 65 netas",
+    "desc": "Himachal Pradesh government has approached the Supreme Court. They are challenging a High Court ruling. The ruling prevented the withdrawal of 65 cases against politicians. These cases involve non-serious offenses. The government believes withdrawing these cases serves public interest. The Supreme Court has issued a notice and will hear the matter further.",
+    "img": "https://static.toiimg.com/photo/msid-128006324,imgsize-1230699.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/supreme-court-to-examine-hp-decision-to-withdraw-cases-against-65-netas/articleshow/128006084.cms",
+    "time": "2026-02-06T19:18:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pvt, more than govt, colleges gain from NEET PG cut-off drop",
+    "desc": "NEET PG cut-off reduction to zero in 2023 disproportionately benefited private medical colleges, especially for clinical specialties. General category candidates saw the largest gains, with a significant portion of these seats going to them. The analysis highlights admissions with extremely low scores, raising questions about data completeness.",
+    "img": "https://static.toiimg.com/photo/msid-128005913,imgsize-796362.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pvt-more-than-govt-colleges-gain-from-neet-pg-cut-off-drop/articleshow/128005814.cms",
+    "time": "2026-02-06T19:07:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Dewaswom Board initiates comprehensive changes in Sabarimala pilgrimage",
+    "desc": "A separate Budget will be prepared exclusively for the festival, in addition to the TDB’s general Budget; special training will be given to all Devaswom employees who will be part of Sabarimala duty in the months of August and September",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/dewaswom-board-initiates-comprehensive-changes-in-sabarimala-pilgrimage/article70600757.ece",
+    "time": "2026-02-06T19:06:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Toll on partially opened e-ways like Delhi-Mumbai to be same as that of other NHs",
+    "desc": "Commuters using partially operational expressways like Delhi-Mumbai will now pay the same toll as normal national highways. This relief, effective for one year or until full operationalization, addresses concerns that higher tolls deterred usage of incomplete stretches. The decision aims to boost traffic on these corridors.",
+    "img": "https://static.toiimg.com/photo/msid-128005513,imgsize-147058.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/toll-on-partially-opened-e-ways-like-delhi-mumbai-to-be-same-as-that-of-other-nhs/articleshow/128005518.cms",
+    "time": "2026-02-06T18:54:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "50 lakh bought FASTag Annual Pass; 50% rise in short trips",
+    "desc": "Over 50 lakh highway car users have embraced the FASTag Annual Pass in six months, facilitating 26.5 crore toll payments. This scheme has spurred a 50% surge in trips for frequent travelers, with 28% of car transactions now utilizing the pass. Chandigarh, Tamil Nadu, and Delhi lead in adoption, paving the way for barrier-less toll collection.",
+    "img": "https://static.toiimg.com/photo/msid-128005305,imgsize-1109471.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/50-lakh-bought-fastag-annual-pass-50-rise-in-short-trips/articleshow/128005321.cms",
+    "time": "2026-02-06T18:49:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "opportunity knocks for India’s young hockey talent",
+    "desc": "The men’s team needs an injection of fresh blood in the run-up to the 2028 Olympics. The packed calendar in 2026 may prove a blessing in disguise — head coach Craig Fulton can use it as a base to experiment, giving lesser-known faces exposure, and trigger a smooth transition",
+    "img": "https://th-i.thgim.com/public/incoming/zax3pf/article70601669.ece/alternates/LANDSCAPE_1200/IMG_Amandeep_Lakra_2_1_PJDRDJP5.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/change-of-phase-opportunity-knocks-for-indias-young-hockey-talent/article70601666.ece",
+    "time": "2026-02-06T18:46:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pahalgam shadow on Omar’s budget: Special hospitals for shelling-prone zones",
+    "desc": "Jammu and Kashmir Chief Minister Omar Abdullah presented a Rs 1.27-lakh crore budget for 2026-27, addressing challenges from recent attacks and floods. The budget includes provisions for emergency hospitals, bullet-proof ambulances, fee waivers for economically weaker students, and support for orphans and disabled individuals. Opposition leaders criticized the budget, calling it uninspiring and a repackaging of central schemes.",
+    "img": "https://static.toiimg.com/photo/msid-128005095,imgsize-1306978.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pahalgam-shadow-on-omars-budget-special-hospitals-for-shelling-prone-zones/articleshow/128004022.cms",
+    "time": "2026-02-06T18:44:47.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Can’t have any excuses in India; important to score runs whenever you bat: Devdutt Padikkal",
     "desc": "Padikkal has made heaps of runs in domestic cricket, but has just four international caps to show for his efforts. Yet, his drive to excel is unaffected. In this conversation, the 25-year-old talks about his batting evolution, the challenges of adapting to three formats, up-skilling in a cramped calendar, dealing with the competition for places, and his near- and long-term goals",
@@ -18,13 +207,13 @@ const newsData_en = [
     "time": "2026-02-06T18:33:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Toll on partially opened e-ways like Delhi-Mumbai to be same as that of other NHs",
-    "desc": "Commuters using partially opened expressways like Delhi-Mumbai will now pay normal highway tolls, a significant relief. Previously, these routes charged 1.25 times more. This change, effective for one year or until full operationalization, addresses concerns that higher rates deterred usage. The decision aims to boost traffic and will be reviewed based on actual uptake.",
-    "img": "https://static.toiimg.com/photo/msid-128002761,imgsize-955814.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/toll-on-partially-opened-e-ways-like-delhi-mumbai-to-be-same-as-that-of-other-nhs/articleshow/128002479.cms",
-    "time": "2026-02-06T17:58:22.000Z"
+    "cat": "World",
+    "title": "White House deletes Trump’s racist post against Obamas, calls it staff error",
+    "desc": "“A White House staffer ​erroneously made the post,” said a White House official, who declined to be named. “It has been taken down”; The statement came hours after White House spokeswoman Karoline Leavitt described as “fake outrage” a wave of negative reactions to the video, including from several prominent Republican lawmakers",
+    "img": "https://th-i.thgim.com/public/incoming/loh77h/article70600939.ece/alternates/LANDSCAPE_1200/Trump_Obama_Social_Media_47167.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-shares-racist-video-about-obamas-white-house-defends-him/article70600870.ece",
+    "time": "2026-02-06T18:02:39.000Z"
   },
   {
     "cat": "Politics",
@@ -118,15 +307,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Tadoba tiger that swam two rivers and crossed three States tranquilised in East Godavari",
-    "desc": "After a 53-day movement through forest corridors and inhabited areas, the transient male tiger is secured in a cattle shed at Kurmapuram village on Friday evening, forest officials say. They add that the animal does not attack any human during its long journey and is in stable condition, with a decision yet to be taken on shifting it to a zoo or a rescue centre",
-    "img": "https://th-i.thgim.com/public/incoming/2ueh3x/article70601156.ece/alternates/LANDSCAPE_1200/10237_6_2_2026_20_28_54_1_TIGERTRANQUILIZED.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/tadoba-tiger-that-swam-two-rivers-and-crossed-three-states-tranquilised-in-east-godavari/article70600923.ece",
-    "time": "2026-02-06T15:58:18.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Seven Naxals killed in Gadchiroli, including top leader; special force jawan succumbs to injuries",
     "desc": "Seven Naxals, including top leader Prabhakar with a Rs 25 lakh bounty, were killed in an encounter with Maharashtra police in Gadchiroli. The operation, launched three days ago, also resulted in the death of a special force jawan, Deepak Chinna Madavi, while another jawan is out of danger. The anti-Naxal operation is ongoing.",
     "img": "https://static.toiimg.com/photo/msid-127997871,imgsize-1774024.cms",
@@ -198,15 +378,6 @@ const newsData_en = [
     "time": "2026-02-06T15:09:50.000Z"
   },
   {
-    "cat": "World",
-    "title": "Trump shares racist video about Obamas; White House defends him",
-    "desc": "Nearly all of the 62-second clip, which was among dozens of Truth Social posts from Mr. Trump overnight, appears to be from a conservative video alleging deliberate tampering with voting machines in battleground States as the 2020 Presidential votes were tallied.",
-    "img": "https://th-i.thgim.com/public/incoming/loh77h/article70600939.ece/alternates/LANDSCAPE_1200/Trump_Obama_Social_Media_47167.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-shares-racist-video-about-obamas-white-house-defends-him/article70600870.ece",
-    "time": "2026-02-06T15:08:31.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Vadh 2 team asks fans not to reveal spoiler",
     "desc": "In a heartfelt message post- debut of 'Vadh 2', acclaimed actors Neena Gupta and Sanjay Mishra are calling on fans to keep the story’s secrets safe, particularly the climactic finale. Released on February 6, this gripping crime thriller has been praised for its nail-biting suspense.",
@@ -259,15 +430,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/aicc-caught-in-a-tangle-as-mps-seek-assembly-seats/article70600617.ece",
     "time": "2026-02-06T14:38:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Dewaswom Board initiates comprehensive changes in Sabarimala pilgrimage",
-    "desc": "A separate Budget will be prepared exclusively for the festival, in addition to the TDB’s general Budget; Special training will be given to all Devaswom employees who will be part of Sabarimala duty in the months of August and September",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/dewaswom-board-initiates-comprehensive-changes-in-sabarimala-pilgrimage/article70600757.ece",
-    "time": "2026-02-06T14:36:50.000Z"
   },
   {
     "cat": "Politics",
@@ -414,15 +576,6 @@ const newsData_en = [
     "time": "2026-02-06T12:16:15.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Prateik breaks silence on dad's absence from wedding to Priya",
-    "desc": "Prateik Smita Patil and Priya Banerjee opened up about trolling for not inviting Raj Babbar to their wedding. Prateik said, “People don’t know the truth… one day everyone will learn it.” He also dropped his father’s surname to honour his mother, Smita Patil, calling it a new chapter in his life.",
-    "img": "https://static.toiimg.com/photo/msid-127989233,imgsize-30936.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/one-day-everyone-will-know-prateik-smita-patil-breaks-silence-on-dad-raj-babbars-absence-from-his-wedding-to-priya-banerjee/articleshow/127989233.cms",
-    "time": "2026-02-06T12:16:01.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Here are the top gainers and losers on NSE, BSE today",
     "desc": "Indian equity markets closed higher Friday, with the Sensex and Nifty gaining ground. The Reserve Bank of India maintained interest rates and proposed allowing banks to lend to REITs, a move expected to boost the real estate sector. Despite a volatile session, late buying in select stocks, particularly FMCG and private banking, drove the recovery.",
@@ -441,15 +594,6 @@ const newsData_en = [
     "time": "2026-02-06T11:49:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Siddaramaiah’s son Yathindra says no leadership change likely; Shivakumar reacts",
-    "desc": "Congress MLC Yathindra Siddaramaiah expressed confidence that his father, Chief Minister Siddaramaiah, will complete the full five-year term, citing a clear signal from the party high command. Deputy CM D.K. Shivakumar, however, responded sarcastically, suggesting the central leadership should clarify the matter. Speculation about a leadership change has intensified as the government nears its halfway mark",
-    "img": "https://static.toiimg.com/photo/msid-127988352,imgsize-34050.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/karnataka-cm-chair-row-siddaramaiahs-son-yathindra-says-no-leadership-change-likely-shivakumar-reacts/articleshow/127987666.cms",
-    "time": "2026-02-06T11:38:44.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sooryavanshi's animated celebration goes viral in U19 WC final",
     "desc": "Fourteen-year-old Vaibhav Sooryavanshi produced a breathtaking knock in the U-19 World Cup final, smashing the second-fastest century in tournament history off just 55 balls against England. He went on to score 175, dominating the bowlers, sharing a huge partnership, and earning a standing ovation for one of the greatest U-19 innings ever.",
@@ -459,33 +603,6 @@ const newsData_en = [
     "time": "2026-02-06T10:39:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Delhi govt suspends 3 engineers after motorcyclist's accident",
-    "desc": "Three Delhi Jal Board engineers were suspended after a 25-year-old motorcyclist died falling into an unbarricaded construction pit. The victim's family alleged gross carelessness by the police in their search efforts, claiming they received no timely assistance. Authorities are investigating the incident and safety protocols.",
-    "img": "https://static.toiimg.com/photo/msid-127984799,imgsize-1278979.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-govt-suspends-3-engineers-after-motorcyclists-accident-top-developments/articleshow/127984741.cms",
-    "time": "2026-02-06T10:36:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Cannot force her to continue pregnancy’: SC allows abortion of 30-week pregnant minor — why this ruling matters",
-    "desc": "The Supreme Court has permitted a 17-year-old to terminate her 30-week pregnancy, emphasizing a minor's right to decide against continuing a pregnancy. Justices Nagarathna and Ujjal Bhuyan directed JJ Hospital to proceed with the termination, prioritizing the girl's reproductive autonomy and her clear unwillingness to carry the pregnancy to term.",
-    "img": "https://static.toiimg.com/photo/msid-127984368,imgsize-82632.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cannot-force-her-to-continue-pregnancy-sc-allows-abortion-of-30-week-pregnant-minor-why-this-ruling-matters/articleshow/127984216.cms",
-    "time": "2026-02-06T10:22:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Ghee made from bathroom-cleaning chemicals': Andhra CM slams previous YSRCP govt over Tirupati laddus; Jagan reacts",
-    "desc": "Andhra Pradesh chief minister N Chandrababu Naidu alleged that the previous YSRCP government used ghee adulterated with \"bathroom-cleaning chemicals\" in the preparation of Tirupati laddus. He claimed this practice, which allegedly lasted for nearly five years, undermined the sanctity of the Tirumala temple and also affected the Srisailam temple.",
-    "img": "https://static.toiimg.com/photo/msid-127984671,imgsize-107704.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ghee-made-from-bathroom-cleaning-chemicals-andhra-cm-slams-previous-jagan-govt-over-tirupati-laddus/articleshow/127983871.cms",
-    "time": "2026-02-06T10:14:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Siraj to join India T20I squad in Mumbai today; Rana all but ruled out",
     "desc": "Mohammed Siraj is all set to fly to Mumbai today to link up with T20I squad before India’s World Cup opener vs USA. Harshit Rana is expected to miss out on the T20 World Cup due to a knee injury that he picked up in the warm-up match against South Africa.",
@@ -493,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/mohammed-siraj-to-linkup-with-india-t20i-squad-in-mumbai-today-as-harshit-rana-all-but-ruled-out-of-world-cup/articleshow/127983093.cms",
     "time": "2026-02-06T10:00:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Four hospitalised after reactor leak at chemical factory; probe under way",
-    "desc": "A gas leak at a factory in Sarigam, Valsad district, Gujarat, has led to four people being hospitalised. The incident that occurred at Cynax Metachem, caused eye irritation. Authorities quickly contained the leak and cordoned off the area. An investigation is underway to determine the cause of the gas release.",
-    "img": "https://static.toiimg.com/photo/msid-127983281,imgsize-41240.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/vapi-gas-leak-four-hospitalised-after-reactor-leak-at-chemical-factory-probe-under-way/articleshow/127983129.cms",
-    "time": "2026-02-06T09:58:09.000Z"
   },
   {
     "cat": "Entertainment",
@@ -567,15 +675,6 @@ const newsData_en = [
     "time": "2026-02-06T08:59:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ED summons Unnikrishnan Potti for detailed interrogation",
-    "desc": "Unnikrishnan Potti, the key accused in the Sabarimala gold-theft case, has been summoned by the Enforcement Directorate. This follows his statutory bail granted a day earlier, along with three others, due to the Crime Branch's failure to submit a final report within the stipulated time. Potti is accused of misappropriating gold from various parts of the temple.",
-    "img": "https://static.toiimg.com/photo/msid-127980938,imgsize-15448.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sabarimala-gold-theft-case-ed-summons-unnikrishnan-potti-for-detailed-interrogation/articleshow/127980601.cms",
-    "time": "2026-02-06T08:59:16.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Silver, gold prices: Silver tumbles Rs 15,000 on MCX, gold slips below Rs 1.5 lakh; should you buy?",
     "desc": "Gold and silver prices plummeted on the MCX Friday, driven by weak global sentiment and a stronger dollar. Silver futures saw a sharp 6% drop, while gold futures fell 2%. International markets showed mixed trends. Increased margin requirements on the MCX added to the volatility, prompting traders to cut positions. Experts advise caution amid high price swings.",
@@ -594,15 +693,6 @@ const newsData_en = [
     "time": "2026-02-06T07:34:45.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Habit of repeating false things': Kharge targets PM Modi over RS speech; cites Naravane 'memoir' in fresh salvo",
-    "desc": "Congress president Mallikarjun Kharge criticized Prime Minister Narendra Modi and the Union government for denying facts surrounding former Army chief General MM Naravane’s memoir. Kharge accused the government of evading questions on national security and China, leading to an Opposition walkout from Rajya Sabha.",
-    "img": "https://static.toiimg.com/photo/msid-127975785,imgsize-771845.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/habit-of-repeating-false-things-kharge-targets-pm-modi-over-rs-speech-cites-naravane-memoir-in-fresh-salvo/articleshow/127975723.cms",
-    "time": "2026-02-06T07:26:53.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Will European wine finally get cheaper in India? Inside the EU–India trade deal",
     "desc": "As import duties ease under the long-awaited EU–India trade deal, wine producers and importers weigh in. With India’s complex state taxes, currency volatility and long timelines, how long will it take for your wine to get cheaper?",
@@ -619,15 +709,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-shivam-dube-a-gladiator-with-a-bat-in-his-hands/articleshow/127974207.cms",
     "time": "2026-02-06T06:46:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi urges students to focus on skills, stress-free learning—top quotes",
-    "desc": "Prime Minister Narendra Modi engaged with students nationwide in the 9th Pariksha Pe Charcha, offering guidance on exams, personal growth, and nation-building. He emphasized the importance of dreams, action, balance in life, and the equal significance of life and professional skills, urging students to avoid treating education as a burden and focus on holistic development.",
-    "img": "https://static.toiimg.com/photo/msid-127974277,imgsize-1257428.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pariksha-pe-charcha-2026-pm-modi-urges-students-to-focus-on-skills-stress-free-learningtop-quotes/articleshow/127974194.cms",
-    "time": "2026-02-06T06:37:43.000Z"
   },
   {
     "cat": "Entertainment",
@@ -817,86 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-what-are-the-epstein-files-and-why-has-this-triggered-a-political-controversy-in-india/article70595758.ece",
     "time": "2026-02-05T12:35:48.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Closely monitoring situation in Iran; no reports of any Indian being killed during protests: Govt.",
-    "desc": "Minister of State for External Affairs Kirti Vardhan Singh says the Indian Embassy in Tehran continues to be in ‘regular contact’ with the Indian nationals, including students in Iran, and is providing them suitable guidance",
-    "img": "https://th-i.thgim.com/public/incoming/ufb6kf/article70595438.ece/alternates/LANDSCAPE_1200/2026-01-21T115200Z_746637312_RC2L5JAKXXBB_RTRMADP_3_IRAN-ECONOMY-PROTESTS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/closely-monitoring-situation-in-iran-no-reports-of-any-indian-being-killed-during-protests-govt/article70595412.ece",
-    "time": "2026-02-05T12:23:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Fans thrilled as Kaikini shares words of wisdom with a touch of humour",
-    "desc": "Writer Jayant Kaikini spoke at the 17th Bengaluru International Film Festival, serving up a mix of laughs and wisdom. He opened up about the quirky challenges of writing love songs and what it really means to tell a story on screen",
-    "img": "https://th-i.thgim.com/public/incoming/rxm7mq/article70593159.ece/alternates/LANDSCAPE_1200/_JAI4152.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/biffes-2026-fans-thrilled-as-kaikini-shares-words-of-wisdom-with-a-touch-of-humour/article70592082.ece",
-    "time": "2026-02-05T11:34:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India-U.S. trade deal: Joint statement in ‘four to five days’, legal agreement by mid-March, says Piyush Goyal",
-    "desc": "Commerce Minister said the U.S. will drop tariffs on India to 18% after the joint statement is issued. India, however, will be able to cut tariffs on U.S. goods only after the formal agreement is signed",
-    "img": "https://th-i.thgim.com/public/incoming/vrpuaq/article70594910.ece/alternates/LANDSCAPE_1200/PTI02_03_2026_000374B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/india-us-trade-deal-piyush-goyal-tariffs-joint-statement-legal-agreement/article70594904.ece",
-    "time": "2026-02-05T11:01:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tribeny Rai on the making of Nepalese film ‘Shape of Momo’",
-    "desc": "The film ‘Shape of Momo’ had premiered at the Busan International Film Festival in South Korea in November 2025 where it won the Taipei Film Commission Award and the Songwon Vision Award. Sikkim-based filmmaker Tribeny Rai talks about the making of the movie, which is a commentary on stereotypical gender roles and the toll it takes on women who resist such expectations.",
-    "img": "https://th-i.thgim.com/public/incoming/yxk26m/article70595034.ece/alternates/LANDSCAPE_1200/Tribeny%20Rai%20Thumb.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-tribeny-rai-on-the-making-of-nepalese-film-shape-of-momo/article70595030.ece",
-    "time": "2026-02-05T09:21:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Sentimental Value’, ‘Sirat’ and ‘Hamnet’ headline Red Lorry Film Festival’s international showcase",
-    "desc": "Fresh from major Oscar and BAFTA recognition, Sentimental Value, Sirat and Hamnet will lead the Red Lorry Film Festival’s Global Awards Showcase, bringing some of the most acclaimed international films of the year to Mumbai in March 2026.",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/mmivym/article70594657.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/sentimental-value-sirat-and-hamnet-headline-red-lorry-film-festivals-international-showcase/article70594663.ece",
-    "time": "2026-02-05T06:36:52.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Man who tried to shoot Trump at Florida golf course gets life in prison",
-    "desc": "U.S. District Judge Aileen Cannon pronounced Ryan Routh's fate in the same Fort Pierce courtroom that erupted into chaos in September when he tried to stab himself shortly after jurors found him guilty on all counts",
-    "img": "https://th-i.thgim.com/public/incoming/9k1zd2/article70594177.ece/alternates/LANDSCAPE_1200/2026-02-04T154622Z_450350951_RC2O1AAT2OG7_RTRMADP_3_USA-TRUMP-ASSASSINATION-SUSPECT.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/man-who-tried-to-shoot-trump-at-florida-golf-course-gets-life-in-prison/article70594176.ece",
-    "time": "2026-02-05T05:07:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Indian men, women register contrasting wins to seal quarterfinal spots",
-    "desc": "The men’s Group C clash between India and Singapore went down to the wire, with former world number 1 Kidambi Srikanth coming up with a clinical performance in the third men’s singles against Jia Wei Joel Koh",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/batc-2026-indian-men-women-register-contrasting-wins-to-seal-quarterfinal-spots/article70593269.ece",
-    "time": "2026-02-04T21:14:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India thrash Bhutan to set up SAFF U19 Women's Championship final clash with Bangladesh",
-    "desc": "Pearl Fernandes (16’, 39’, 41’) scored a first-half hat-trick, while Pritika Barman (25’, 90’) got one goal in each half for India. Alisha Lyngdoh (6’), Abhista Basnett (10’), and Divyani Linda (17’) netted one apiece",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/india-thrash-bhutan-to-set-up-saff-u19-womens-championship-final-clash-with-bangladesh/article70593273.ece",
-    "time": "2026-02-04T21:00:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "If public funds are siphoned off, willingness to pay may not help: Supreme Court in bank fraud case",
-    "desc": "Supreme Court directs Enforcement Directorate to constitute a Special Investigation Team; criticises delay in registering case; calls for a ‘fair, dispassionate’ probe into the ‘nexus, connivance, conspiracy, collusion’ among bank officials, authorities, and managements of the companies",
-    "img": "https://th-i.thgim.com/public/incoming/uopuui/article70579996.ece/alternates/LANDSCAPE_1200/2025-11-03T061411Z_793512795_RC2TOHAZ9TR5_RTRMADP_3_INDIA-PROBE-ANIL-AMBANI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-orders-sit-probe-anil-ambani-adag-alleged-bank-fraud-case/article70590512.ece",
-    "time": "2026-02-04T12:16:23.000Z"
   }
 ];
