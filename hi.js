@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why did ICC not give any prize money to Indian team after winning U19 World Cup final against England?",
+    "desc": "India’s Under-19 team etched their name deeper into cricketing history by lifting a record sixth U19 World Cup title after a commanding 100-run victory over England in the final at the Harare Sports Club in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-did-icc-not-give-any-prize-money-to-indian-team-after-winning-u19-world-cup-final-against-england-2026-02-06-1029221",
+    "time": "2026-02-06T18:15:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi, despite being only 14, will never play U19 World Cup again, here's why",
+    "desc": "Young prodigy Vaibhav Sooryavanshi was the standout performer in the 2026 U19 World Cup final against England at the Harare Sports Club in Zimbabwe. The 14-year-old produced a breathtaking display in the first innings, blasting...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-despite-being-only-14-will-never-play-u19-world-cup-again-here-s-why-2026-02-06-1029218",
+    "time": "2026-02-06T17:52:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "President Murmu, PM Modi to Virat Kohli: Prominent figures congratulate India for U19 World Cup success",
+    "desc": "India were crowned the new U19 World Champions after a dominant 100-run victory over England at the Harare Sports Club in Zimbabwe. Led by Ayush Mhatre, the Indian side delivered a breathtaking batting performance, piling...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/president-murmu-pm-modi-to-virat-kohli-prominent-figures-congratulate-india-for-u19-world-cup-success-2026-02-06-1029214",
+    "time": "2026-02-06T17:25:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PAK vs NED, Colombo, weather report: Will rain play spoilsport in T20 World Cup opener?",
+    "desc": "The 2026 edition of the T20 World Cup will kick off on February 7 with Pakistan taking onthe Netherlands at the Sinhalese Sports Club in Colombo. Leading to the marquee competition, the Salman Agha-led side...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pak-vs-ned-colombo-weather-report-will-rain-play-spoilsport-in-t20-world-cup-opener-2026-02-06-1029209",
+    "time": "2026-02-06T16:08:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohammed Siraj replaces Harshit Rana in India's T20 World Cup squad",
+    "desc": "India pacer Harshit Rana has been ruled out of the T20 World Cup 2026. The Board of Control for Cricket in India (BCCI) has confirmed that the youngster has picked up a knee injury in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammed-siraj-replaces-harshit-rana-in-india-s-t20-world-cup-squad-2026-02-06-1029208",
+    "time": "2026-02-06T15:55:38.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India clinch record-breaking sixth U19 World Cup, Vaibhav Sooryavanshi smacks 175 to beat England",
     "desc": "India U19 have secured their sixth U19 World Cup title, beating England by 100 runs in the final at the Harare Sports Club in Zimbabwe. The Ayush Mhatre-led side arrived at the summit clash with...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-a-vs-nam-t20-world-cup-warm-up-live-cricket-score-india-a-vs-namibia-bcci-centre-of-excellence-bengaluru-latest-match-updates-scorecard-teams-1029165",
     "time": "2026-02-06T10:57:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch T20 World Cup warm-up fixture in India?",
-    "desc": "Before the T20 World Cup 2026 kicks off on February 7, India A will be playing a warm-up game against Namibia at the BCCI Centre of Excellence Ground 1 in Bengaluru. Led by Ayush Badoni,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-a-vs-nam-live-streaming-details-when-and-where-to-watch-t20-world-cup-warm-up-fixture-in-india-2026-02-06-1029157",
-    "time": "2026-02-06T10:27:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harshit Rana doubtful for T20 World Cup 2026, Mohammed Siraj likely to join team as replacement",
-    "desc": "India have likely been dealt a huge blow as Harshit Rana is likely to be ruled out of India's squad for the T20 World Cup 2026. His potential unavailability was hinted by India skipper Suryakumar...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/is-harshit-rana-ruled-out-of-indias-squad-from-t20-world-cup-2026-here-is-the-latest-update-2026-02-06-1029152",
-    "time": "2026-02-06T09:45:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Record-breaking Vaibhav Suryavanshi slams scintillating century in IND vs ENG U19 World Cup 2026 final",
-    "desc": "India's teenage sensation, Vaibhav Suryavanshi, slammed a scintillating hundred in the final of the U19 World Cup 2026 as the star batter etched his name into the history books against England at the Harare Sports...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/record-breaking-vaibhav-suryavanshi-slams-scintillating-century-in-ind-vs-eng-u19-world-cup-2026-final-2026-02-06-1029147",
-    "time": "2026-02-06T09:12:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India lift sixth U19 World Cup, beat England by 100 runs",
-    "desc": "India U19 scripted history by clinching a record-breaking sixth U19 World Cup title with a dominant 100-run victory over England in the final at Harare Sports Club, Zimbabwe. Unbeaten throughout the tournament, the Ayush Mhatre-led...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-u19-world-cup-final-live-india-vs-england-harare-sports-club-harare-latest-match-updates-scorecard-teams-playing-xis-highlights-2026-02-06-1029126",
-    "time": "2026-02-06T06:39:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia suffer another blow, Josh Hazlewood ruled out of T20 World Cup 2026",
-    "desc": "Australia have been hit with another huge blow ahead of the T20 World Cup 2026 as star pacer Josh Hazlewood has been ruled out of the tournament after \"running out of time\" to recover from...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-suffer-another-blow-josh-hazlewood-ruled-out-of-t20-world-cup-2026-2026-02-06-1029121",
-    "time": "2026-02-06T06:06:12.000Z"
   }
 ];

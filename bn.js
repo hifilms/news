@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "উত্তরপ্রদেশে বাড়ল চূড়ান্ত ভোটার তালিকা প্রকাশের সময়সীমা, ১০ এপ্রিল প্রকাশিত হবে চূড়ান্ত তালিকা",
+    "desc": "এসআইআর প্রক্রিয়ায় আরও সময় লাগবে জানিয়ে গত ২ ফেব্রুয়ারি উত্তরপ্রদেশের মুখ্য নির্বাচনী আধিকারিক নির্বাচন কমিশনকে চিঠি লিখেছিলেন। কারণ হিসাবে একাধিক সমস্যার কথা উল্লেখ করেছিলেন তিনি। সেই চিঠি পাওয়ার পরেই সমস্যাগুলির কথা বিবেচনা করে কমিশন। সময়সীমা বাড়ানোর সিদ্ধান্ত নেওয়া হয়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/asqa-2026-02-276bc7efe44bd66e3f6f1aff1188d301-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/uttar-pradesh-ec-extends-deadline-for-filing-claims-and-objections-under-sir-of-electoral-rolls-in-uttar-pradesh-rm-2529445.html",
+    "time": "2026-02-06T16:15:07.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "বরফে হাঁটছে ময়ূর? দেশে ঘনিয়ে আসছে ভয়ংকর দুর্বিপাক! মারণ ধ্বংসলীলা ২ এপ্রিল শুরু হয়ে...",
     "desc": "ময়ূরগুলি সর্বোচ্চ ২০০০ ফুট উচ্চতা পর্যন্ত বেঁচে থাকতে পারে। কিন্তু মানালির এই গ্রামে ময়ূরকে ৬০০০ ফুটেরও বেশি উচ্চতায় দেখা গিয়েছে। গ্রামবাসীরা ঘটনাটিকে আসন্ন বিপদের সঙ্গে যুক্ত করে ভাবছেন। আবহাওয়াবিদ এবং বন্যপ্রাণ বিশেষজ্ঞেরাও এই ঘটনায় বিস্মিত।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/short-videos/business/union-budget-2026-bjp-mp-shamik-bhattacharya-says-that-bengal-will-be-benefitted-in-this-budget-pbd-2521601.html",
     "time": "2026-02-01T06:07:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাজেট ২০২৬ শুরুর আগে নির্মলাকে ‘দই-চিনি’ খাওয়ালেন রাষ্ট্রপতি মুর্মু! কেন এই রীতি? নেপথ্যে কোন বিজ্ঞান?",
-    "desc": "কেন্দ্রীয় বাজেট পেশের দিন শুরু হল এক পরিচিত ভারতীয় রীতিতে। সংসদে বাজেট উপস্থাপনের আগে রাষ্ট্রপতি ভবনে অর্থমন্ত্রীকে দই-চিনি খাওয়ানোর মাধ্যমে শুভকামনা জানানো হয়। বহু বছর ধরে চলে আসা এই প্রথা বাজেট দিবসে এক বিশেষ সাংস্কৃতিক তাৎপর্য বহন করে। গুরুত্বপূর্ণ সিদ্ধান্তের আগে শুভ সূচনা ও ইতিবাচক পরিবেশ তৈরির প্রতীক হিসেবেই এই রীতি পালন করা হয়, যা বাজেট পেশের দিনের আনুষ্ঠানিকতার সঙ্গে অঙ্গাঙ্গিভাবে জড়িয়ে রয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/budget-2026-6-2026-02-8b3f90c5d4a85eb59ccdda5716cfdb7a-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/draupadi-murmu-serves-dahi-cheeni-to-nirmala-sitharaman-at-rashtrapati-bhavan-before-union-budget-2026-main-reason-behind-this-ritual-tib-ws-l-2521506.html",
-    "time": "2026-02-01T05:54:09.000Z"
   }
 ];
