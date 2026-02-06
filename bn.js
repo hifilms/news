@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "হাওড়া–কামাখ্যা বন্দে ভারত স্লিপার এক্সপ্রেস...! এসে গেল বড় আপডেট! কোন মাইলস্টোন ছুঁল এই ট্রেন? জানুন বিশদে",
+    "desc": "বন্দে ভারত স্লিপারের জনপ্রিয়তা দিন দিন উর্ধমুখী। সেমি হাই স্পিড এই বিখ্যাত ট্রেন ভারতে যাত্রীদের জন্য বিমানের অন্যতম বিকল্প হয়ে উঠেছে। প্রধানমন্ত্রী নরেন্দ্র মোদি গত ১৭ই জানুয়ারি ২০২৬ হাওড়া এবং কামাখ্যার মধ্যে ভারতের প্রথম বন্দে ভারত স্লিপার ট্রেনের উদ্বোধন করেন, যা ভারতীয় রেলের ইতিহাসে একটি ঐতিহাসিক মাইলফলক।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/vande-bharat-sleeper-2026-01-fdfcd417c099c268f96356f2b25c731d-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/vande-bharat-sleeper-express-indian-railways-howrah-kamakhya-vande-bharat-sleeper-express-train-what-milestone-has-this-train-achieved-a-major-update-has-arrived-learn-more-in-detail-sanj-2526690.html",
+    "time": "2026-02-06T02:37:37.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ব্যাটিংয়ে তান্ডব! অধিনায়কত্বে ক্ষুরধার বুদ্ধি! WPL 2026-এ স্মৃতির পকেটে ৫ বড় রেকর্ড",
     "desc": "উইমেন্স প্রিমিয়ার লিগ ২০২৬-এর ফাইনালে শুধু আরসিবিকে চ্যাম্পিয়ন করাই নয়, অধিনায়কোচিত ম্যাচ উইনিং ইনিংস খেললেন স্মৃতি মন্ধনা। স্মৃতির ৪১ বলে ৮৭ রানের ইনিংস সাজানো ১২টি চার ও ৩টি ছয়ে। একইসঙ্গে ৫টি বড় নজির গড়লেন স্মৃতি।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/budget-2026-gold-price-impact-on-budget-government-may-increase-rupees-2-lakh-buying-limit-to-show-pan-aadhar-smc-2520421.html",
     "time": "2026-01-31T09:44:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বন্দে ভারত স্লিপারের জনপ্রিয়তা তুঙ্গে, আগামী মাসের প্রথম ১০ দিন অবধি বুকিং সম্পূর্ণ! এসি ফার্স্ট ক্লাস থেকে এসি 3-টিয়ার, কোথায় কত?",
-    "desc": "হাওড়া-কামাখ্যা, হাওড়া-বন্দে ভারত স্লিপার এক্সপ্রেসের জনপ্রিয়তা আকাশ ছুঁয়ে ফেলল। গত ছয় দিনে গড় যাত্রীসংখ্যা প্রায় ১২৮%। আগামী পাঁচ দিনের জন্য যাত্রীসংখ্যা ইতিমধ্যেই ১০০% ছাড়িয়ে গেছে। যাত্রী উৎসাহ বাড়াতে রেলের স্লোগান, \"আগে কখনও না পাওয়া আরামের অভিজ্ঞতা নিন – এখনই বন্দে ভারত স্লিপার ট্রেনের টিকিট বুক করুন\"।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Vande-Bharat-Sleeper-2026-01-ccb5d103d0e7f0002f66264e6626f5cd-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/west-bengal/vande-bharat-sleeper-bookings-are-completely-full-until-the-first-10-days-of-february-month-from-ac-first-class-to-ac-3-tier-what-are-the-fares-for-each-sanj-2519801.html",
-    "time": "2026-01-31T07:55:49.000Z"
   }
 ];
