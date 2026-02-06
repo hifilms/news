@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "With glory on the line, India meet England in Harare",
+    "desc": "With the title on the line, India meet England in the U19 World Cup 2026 final at the Harare Sports Club, Harare. The most successful team, India, bid to add another trophy to their illustrious cabinet...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-u19-world-cup-final-live-india-vs-england-harare-sports-club-harare-latest-match-updates-scorecard-teams-playing-xis-highlights-2026-02-06-1029126",
+    "time": "2026-02-06T06:39:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia suffer another blow, Josh Hazlewood ruled out of T20 World Cup 2026",
+    "desc": "Australia have been hit with another huge blow ahead of the T20 World Cup 2026 as star pacer Josh Hazlewood has been ruled out of the tournament after \"running out of time\" to recover from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-suffer-another-blow-josh-hazlewood-ruled-out-of-t20-world-cup-2026-2026-02-06-1029121",
+    "time": "2026-02-06T06:06:12.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "List of all prize winners and money they earned",
     "desc": "The WPL 2026 final at the BCA Stadium in Vadodara turned into a celebration of fearless batting, with Royal Challengers Bengaluru producing a memorable run chase to defeat Delhi Capitals and secure their second title...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/anurag-thakur-cleared-to-return-to-bcci-after-supreme-court-lifts-ban-2026-02-05-1029045",
     "time": "2026-02-05T11:29:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Irfan Pathan draws comparison between Abhishek Sharma and star Proteas batter ahead of T20 World Cup",
-    "desc": "Former India cricketer Irfan Pathan came forward and talked about the recent performances of India batter Abhishek Sharma and South Africa’s Dewald Brevis and how important they will be for their respective sides ahead of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/irfan-pathan-draws-comparison-between-abhishek-sharma-and-star-proteas-batter-ahead-of-t20-world-cup-2026-02-05-1029041",
-    "time": "2026-02-05T11:17:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav's first statement on Pakistan's boycott in the T20 World Cup",
-    "desc": "The stage is set for the upcoming edition of the T20 World Cup 2026. The marquee tournament will be co-hosted by India and Sri Lanka, and ahead of the tournament, there has been major coverage...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-s-first-statement-on-facing-pakistan-in-the-t20-world-cup-2026-02-05-1029032",
-    "time": "2026-02-05T10:25:44.000Z"
   }
 ];

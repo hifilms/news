@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "৭.২ রেটিং, ভারতীয় সিরিজের ১২ দিনে ৫ কোটি ভিউ ! বিশ্বব্যাপী নেটফ্লিক্সে ১ নম্বর হিট",
+    "desc": "নীরজ পান্ডে পরিচালিত ওয়েব সিরিজ তস্করি: দ্য স্মাগলার্স ওয়েব বিশ্বব্যাপী জনপ্রিয়তা অর্জন করেছে। গত সপ্তাহে সিরিজটি নেটফ্লিক্সের ২০টি ভিন্ন দেশে সেরা ১০টি ‘নন-ইংলিশ’ অনুষ্ঠানের তালিকায় ট্রেন্ডিংয়ে ছিল। মজার বিষয় হল, এই সিরিজ ১০টি দেশের মধ্যে এক নম্বরে ছিল, যা তার অসাধারণ জনপ্রিয়তা প্রদর্শন করে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Netflix-Film-Taskaree-2026-02-e44ad015b942816af35fab8cfc764c6a-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/emraan-hashmi-taskaree-the-smugglers-web-50-million-views-netflix-series-global-trending-ss-2528342.html",
+    "time": "2026-02-06T06:45:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "রক্তমাখা সকাল! গুরুদ্বারের সামনেই নামী নেতার গাড়ি ঘিরল বাইক, ২ আরোহীর হাতে... গুড়ুম-গুড়ুম... লুটিয়ে পড়লেন...",
+    "desc": "গুরুদ্বারের সামনে আম আদমি পার্টি (AAP) নেতাকে গুলিতে ঝাঁঝরা। দুই আততায়ী বাইকে করে এসে তাঁর ওপর গুলি চালায়। গাড়িতে থাকা অবস্থায় তাঁর পাঁচটি গুলি লাগে। তাঁকে সঙ্গে সঙ্গে একটি প্রাইভেট হাসপাতালে নিয়ে যাওয়া হলে তিনি মারা যান।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/aap-leader-lucky-oberoi-shot-dead-in-broad-daylight-in-jalandhar_639861.html ",
+    "time": "2026-02-06T06:20:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "অবৈধ খনিতে ভয়াবহ বিস্ফোরণ! প্রাণ হারালেন একাধিক শ্রমিক, মৃত কমপক্ষে...",
+    "desc": "অবৈধ কয়লা খনিতে ভয়াবহ বিস্ফোরণ ও ধসে অন্তত ১৮ জন শ্রমিকের মৃত্যু হয়েছে। উদ্ধারকাজে এনডিআরএফ (NDRF) নামানো হয়েছে এবং গুরুতর আহত এক শ্রমিককে উন্নত চিকিৎসার জন্য শিলং পাঠানো হয়েছে। এই ঘটনায় কেন্দ্র ও রাজ্য সরকার আর্থিক সাহায্য ঘোষণা করেছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/meghalaya-mine-tragedy-at-least-18-dead-in-massive-explosion-at-illegal-coal-mine_639858.html ",
+    "time": "2026-02-06T05:13:03.000Z"
+  },
+  {
     "cat": "Business",
     "title": "হাওড়া–কামাখ্যা বন্দে ভারত স্লিপার এক্সপ্রেস...! এসে গেল বড় আপডেট! কোন মাইলস্টোন ছুঁল এই ট্রেন? জানুন বিশদে",
     "desc": "বন্দে ভারত স্লিপারের জনপ্রিয়তা দিন দিন উর্ধমুখী। সেমি হাই স্পিড এই বিখ্যাত ট্রেন ভারতে যাত্রীদের জন্য বিমানের অন্যতম বিকল্প হয়ে উঠেছে। প্রধানমন্ত্রী নরেন্দ্র মোদি গত ১৭ই জানুয়ারি ২০২৬ হাওড়া এবং কামাখ্যার মধ্যে ভারতের প্রথম বন্দে ভারত স্লিপার ট্রেনের উদ্বোধন করেন, যা ভারতীয় রেলের ইতিহাসে একটি ঐতিহাসিক মাইলফলক।",
@@ -250,15 +277,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/businessman-beaten-to-death-by-helmet-by-delivery-agents-in-delhi-over-water-spat-arc-2525511.html",
     "time": "2026-02-04T05:53:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "রক্তাক্ত প্রেম! প্রেমিকাকে ব্লক, রাগে সোজা বুকে ছুরি... লুটিয়ে পড়লেন বিজেপি নেতার ভাইপো...",
-    "desc": "মোবাইলে ব্লক করার জেরে প্রেমিকের বুকে ছুরি চালিয়ে তাঁকে খুনের অভিযোগ উঠল প্রেমিকার বিরুদ্ধে। মৃত কামতা প্রসাদ (২৫) সম্পর্কে স্থানীয় এক বিজেপি নেতার ভাইপো ছিলেন। ছয় মাস আগে ইনস্টাগ্রামে আলাপ হওয়া প্রেমিকা রোশনির সঙ্গে সম্প্রতি তাঁর মনোমালিন্য চলছিল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/blocked-on-mobile-woman-stabs-boyfriend-to-death-in-chhattisgarhs-bilaspur_639351.html ",
-    "time": "2026-02-04T05:51:21.000Z"
   },
   {
     "cat": "Politics",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/what-middle-class-expect-from-union-budget-know-more-details-smc-2520672.html",
     "time": "2026-01-31T11:15:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "বাংলাদেশের বিতর্কের মধ্যেই বিশ্বকাপ নিয়ে নয়া ঝামেলায় ICC! ক্রিকেটারদের সংগঠনের সঙ্গে সংঘাত",
-    "desc": "এক রিপোর্ট অনুযায়ী, WCA দাবি করেছে যে স্কোয়াড পার্টিসিপেশন টার্মসের একটি ভার্সন ICC প্লেয়ারদের কাছে পাঠিয়েছে, যা \"২০২৪ সালে দুই পক্ষের সই করা চুক্তির সঙ্গে মিলছে না\"। WCA আরও দাবি করেছে, নতুন ভার্সনটা আরও 'শোষণমূলক'।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangladesh-Cricket-ICC-T20-World-Cup-2026-01-ec5eca9a6477beeb0b747bde65e745a3-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/amid-bangladesh-and-pakistan-issues-icc-faces-new-problems-before-t20-world-cup-2026-rdp-2520605.html",
-    "time": "2026-01-31T10:36:47.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাজেট ২০২৬: সোনার দাম আকাশছোঁয়া, কত টাকার সোনার গয়না কিনলে আপনাকে দেখাতেই হবে প্যান-আধার? জেনে নিন",
-    "desc": "এখন সমস্যা কেন সৃষ্টি হয়েছে?২০১৬ সালে, ভারতের ১০ গ্রামের সোনার দাম প্রায় ২৫,০০০ থেকে ৩২,০০০ টাকা এর মধ্যে ছিল। সেই সময়ে, ২ লাখ টাকার সোনার ক্রয়ের জন্য PAN কার্ড দেওয়ার নিয়ম যথাযথ মনে হয়েছিল।কিন্তু গত ৮–৯ বছরের মধ্যে সোনার দাম ব্যাপকভাবে বৃদ্ধি পেয়েছে। আজকাল, ১০ গ্রামের সোনার দাম প্রায় ১,৬৫,০০০ টাকার কাছাকাছি, এবং বাজার পরিস্থিতি অনুযায়ী এটি ২ লাখ টাকার সীমা স্পর্শ করতে পারে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1769753767_gold-price-m-2026-01-e355921bc43086b58b6bf96794e94735-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/budget-2026-gold-price-impact-on-budget-government-may-increase-rupees-2-lakh-buying-limit-to-show-pan-aadhar-smc-2520421.html",
-    "time": "2026-01-31T09:44:42.000Z"
   }
 ];
