@@ -1,6 +1,69 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "ভয়ংকর কাণ্ড! রাত ৩টের সময় বাড়ি ঘিরে নেয় দুষ্কৃতীরা, প্রাণ বাঁচাতে হাতে বন্দুক তুলে নেন গোবিন্দা...",
+    "desc": "ম্যানেজার শশী সিনহার বয়ান অনুযায়ী, রাত তখন প্রায় ৩টে থেকে ৩:৩০টে। গোবিন্দার বাসভবনের সামনে জড়ো হয়েছিল প্রচুর লোক। পরিস্থিতি এতটাই উত্তপ্ত ছিল যে যেকোনো সময় অপ্রীতিকর কিছু ঘটে যেতে পারত। পরিস্থিতি সামলাতে নিজের লাইসেন্সড রিভলবারটি বের করেন সুপারস্টার। বলিউডে চক্রান্তের শিকার সুপারস্টার?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/govinda-manager-shashi-sinha-self-defense-incident-clarification_639916.html ",
+    "time": "2026-02-06T12:51:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "নিষ্ক্রিয় হয়ে যেতে পারে আপনার আধার কার্ড! কী করবেন? ধাপে ধাপে জেনে নিন!",
+    "desc": "সম্প্রতি বিপুল সংখ্যক আধার নম্বর নিষ্ক্রিয় হওয়ার পর সাধারণ মানুষের মধ্যে উদ্বেগ ও বিভ্রান্তি তৈরি হয়েছে। কবে এবং কোন পরিস্থিতিতে আধার নিষ্ক্রিয় হতে পারে, দীর্ঘদিন ব্যবহার না করলে আদৌ কোনও সমস্যা হয় কি না, অথবা নিষ্ক্রিয় হয়ে গেলে কী করণীয়—এই সব প্রশ্নের উত্তর জানতেই গুরুত্বপূর্ণ হয়ে উঠেছে আধার সংক্রান্ত নিয়ম ও প্রক্রিয়া।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/adhaar-card-rules-5-2026-02-2731086a363f997422b05ab6c42a5c6c-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/aadhaar-card-might-be-deactivated-soon-here-is-what-to-do-step-by-step-guide-follow-no-tension-tib-ws-e-2529184.html",
+    "time": "2026-02-06T12:48:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "আগামী ৭২ ঘণ্টা...! দু-দু'টি পশ্চিমা ঝঞ্ঝার হুঁশিয়ারি! ভারী বৃষ্টি কাঁপাবে ৪ রাজ্য! কুয়াশার কাঁপন কোন কোন রাজ্যে? কী হবে বাংলায়? জানিয়ে দিল IMD",
+    "desc": "মোড় ঘুরছে দেশের আবহাওয়ার। জোড়া পশ্চিমী ঝঞ্ঝা ঘূর্ণাবর্ত রূপে দৃশ্যমান হচ্ছে। আর তারই জেরে ১৮০ ডিগ্রি পাল্টাচ্ছে একাধিক রাজ্যের আবহাওয়া। আবহাওয়া দফতর IMD-র সর্বশেষ পূর্বাভাসে জানিয়ে দিল দেশের আবহাওয়ার আপডেট। দেখে নেওয়া যাক একনজরে। আগামী সপ্তাহের মাঝামাঝি ১০ ফেব্রুয়ারি নাগাদ জম্মু-কাশ্মীরে ফের পশ্চিমী ঝঞ্ঝার দাপটে আবহাওয়ার পরিবর্তন হতে পারে। ঘন কুয়াশার সতর্কবার্তা রয়েছে হিমাচল প্রদেশে। অন্যদিকে পূর্ব উত্তর প্রদেশর কিছু অংশে ঘন কুয়াশার সতর্কবার্তা।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/sanj-2026-02-03T153245.884-2026-02-a704e7f8ab107d62586699696f56de3a-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-heavy-rainfall-alert-in-4-states-for-next-72-hours-along-with-thunderstorm-and-snowfall-in-some-states-know-dense-fog-forecast-in-which-all-states-latest-west-bengal-weather-sanj-2529129.html",
+    "time": "2026-02-06T12:36:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "সদ্য জিয়াগঞ্জ থেকে ঘুরে গিয়েছেন আমির খান, 'উত্তরণ'-এ এখন গান রেকর্ডিং-এ ব্যস্ত অরিজিৎ, সুরের যাদুতে ভাসছে তাঁর স্টুডিও",
+    "desc": "কেউ দাবি করেন, অরিজিৎকে ফের প্লেব্যাক গাওয়ানোর জন্য রাজি করাতে মুম্বই থেকে উড়ে এসেছিলেন আমির। কারও আবার দাবি, ‘মহাভারত’ ছবিতে গান গাওয়ানোর জন্য আমির এসেছিলেন। তবে ঘনিষ্ঠ সূত্রের দাবি, অন্য একটি ছবির গানের জন্য অরিজিতের সঙ্গে দেখা করেছিলেন আমির।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/HYP_5748393_cropped_06022026_152626_img_20260206_151840_1200_x_1-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/arijit-singh-arijit-singh-records-for-uttaran-as-aamir-khan-wraps-up-jiaganj-visit-l18-rm-local18-2528922.html",
+    "time": "2026-02-06T12:02:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'মাফ করে দিও, পারলাম না'! ৯ তলার ছাদে অনেকক্ষণ দাঁড়িয়ে থেকে শূন্যে লাফ IIT-র মেধাবী নমনের...",
+    "desc": "হস্টেলের নয় তলা ঝাঁপ দিয়ে আত্মঘাতী আইআইটি পড়ুয়া। পুলিস তাঁর ঘর থেকে একটি সুইসাইড নোট উদ্ধার করেছে এবং সিসিটিভি ফুটেজে তাকে আত্মহত্যার আগে ছাদে অপেক্ষা করতে দেখা গিয়েছে। পড়াশোনায় ভালো হওয়া সত্ত্বেও ওই তরুণ দীর্ঘদিন ডিপ্রেশনে ভুগছিলেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/iit-bombay-student-dies-by-took-extreme-step-21-year-old-from-hostel-terrace_639901.html ",
+    "time": "2026-02-06T11:01:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "রাস্তার ধারের বিরাট গর্তে পড়ে রক্তাক্ত নিথর দেহ! পাশে মোটরবাইক, দিল্লিতে ফিরল নয়ডার স্মৃতি",
+    "desc": "মৃত ওই ব্যক্তির নাম কামাল, তিনি কৈলাসপুরী এলাকার বাসিন্দা ছিলেন৷ কামালের পরিবারের সূত্রের খবর, রোহিনী এলাকায় তাঁর অফিস৷ গত বৃহস্পতিবার তিনি গভীর রাত করে বাড়ি ফিরছিলেন৷ গোটা বাড়ি ফেরার পথে পরিবারের সদস্যদের সঙ্গে কথাও হচ্ছিল তাঁর৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ydne-2026-02-06T150334.488-2026-02-1e7920b650543cdc04ae2e861f7d2eb5-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/dehli-man-falls-into-a-pit-road-side-with-motorcycle-delhi-motorcyclist-dead-janakpuri-sta-2526217.html",
+    "time": "2026-02-06T09:53:20.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "২৫০ টাকা দরেও কাড়াকাড়ি! ধান-পাটের বদলে বাড়িতেই 'সাদা সোনা' ফলিয়ে রাতারাতি ভাগ্য বদলালেন মালদহের চাষি",
+    "desc": "প্রথাগত চাষ ছেড়ে মাত্র ১৫ দিনের প্রশিক্ষণে মাশরুম চাষ শুরু করে বাজিমাত করলেন মালদহের এক কৃষক। বাড়ির এক কোণেই চলছে এই চাষ, আর ২৫০ টাকা কেজি দরে সেই মাশরুম লুফে নিচ্ছেন ক্রেতারা। জানুন এই লাভজনক ব্যবসার খুঁটিনাটি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Mushroom-cultivation-money-making-idea-2026-02-156df5e964ad4347c4ac93ec51b3e867-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/malda-money-making-ideas-malda-farmer-earning-huge-money-from-mushroom-cultivation-after-15-days-training-l18-local18-2528389.html",
+    "time": "2026-02-06T09:43:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "৭.২ রেটিং, ভারতীয় সিরিজের ১২ দিনে ৫ কোটি ভিউ ! বিশ্বব্যাপী নেটফ্লিক্সে ১ নম্বর হিট",
     "desc": "নীরজ পান্ডে পরিচালিত ওয়েব সিরিজ তস্করি: দ্য স্মাগলার্স ওয়েব বিশ্বব্যাপী জনপ্রিয়তা অর্জন করেছে। গত সপ্তাহে সিরিজটি নেটফ্লিক্সের ২০টি ভিন্ন দেশে সেরা ১০টি ‘নন-ইংলিশ’ অনুষ্ঠানের তালিকায় ট্রেন্ডিংয়ে ছিল। মজার বিষয় হল, এই সিরিজ ১০টি দেশের মধ্যে এক নম্বরে ছিল, যা তার অসাধারণ জনপ্রিয়তা প্রদর্শন করে।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/Netflix-Film-Taskaree-2026-02-e44ad015b942816af35fab8cfc764c6a-3x2.jpg",
@@ -835,68 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/business/union-budget-2026-what-are-the-expectations-from-the-middle-class-from-budget-2026-have-a-look-arn-2521089.html",
     "time": "2026-01-31T22:17:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "কোনও দিন বাবার পদবি নিইনি, কাউকে বিয়ে করিনি...মনের গোপন কুঠুরির ঝাঁপি উজাড় করলেন টাবু",
-    "desc": "টাবু এমন একটি পরিবার থেকে এসেছেন যেখানে শৈল্পিক ধারার মানুষদের বংশধরদের সংখ্যা অনেক বেশি। তার বড় বোন ফরাহ ১৯৮০-এর দশকে চলচ্চিত্রে অভিনয় করেছিলেন এবং তিনি শাবানা আজমির আত্মীয়ও। তবুও, তিনি নিজেই স্বীকার করেছেন যে টাবু তার শৈশবকালে স্পটলাইট থেকে অনেক দূরে ছিলেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/New-Project-4-2026-01-649e95d95592f97be02ec5379bac302b-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/tabu-the-famous-bollywood-actress-explained-why-she-has-not-married-arc-2521048.html",
-    "time": "2026-01-31T17:23:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "কে সেই ব্যক্তি, যার কারণে ফেটে গেল সোনা-রুপোর বুদবুদ? মুখ থুবড়ে পড়ল দাম",
-    "desc": "শুক্রবার, ৩০ জানুয়ারি, সোনা ও রুপোর বিনিয়োগকারীদের জন্য যেন এক দুঃস্বপ্ন ডেকে এনেছিল।দিনের শুরু থেকেই সোনা ও রুপোর দামে পতন লক্ষ্য করা গিয়েছিল, এবং যেই নামের ঘোষণা আসল, তার পরেই বিশ্বজুড়ে এই দুই মূল্যবান ধাতুর দাম পড়ে যায়।অনেক বিনিয়োগকারী লক্ষ বা কোটি টাকা হারে ক্ষতির সম্মুখীন হন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-31-at-7.31.59-PM-2026-01-bb230a1da134b75071665f245c0b28d6-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/gold-and-silver-market-crash-kevin-warsh-is-the-man-who-caused-crash-in-silver-gold-price-mcx-silver-hit-lower-circuit-trading-has-to-stop-smc-2520888.html",
-    "time": "2026-01-31T14:33:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাজেটের দিন শেয়ার মার্কেট খোলা থাকলেও করতে পারবেন না কিছু কাজ! শেয়ার কেনাবেচার ক্ষেত্রেও থাকছে কিছু নিয়ম! জেনে নিন",
-    "desc": "অন্যান্য কাজের দিনের মতো কাজকর্ম স্বাভাবিক চলবে এ দিন। রবিবার শেয়ার বাজার খোলা থাকায় বাজেটের আগের ও বাজেটের সময়ে সূচকের ওঠাপড়াকে কাজে লাগিয়ে শেয়ার কেনাবেচা করতে চাইবেন বহু বিনিয়োগকারী। কিন্তু নির্দিষ্ট এই দিনটিতে ট্রেডিংয়ের কিছু নিয়ম রয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-31-at-6.39.09-PM-2026-01-11a3126fadba8d882a255be53ec4c825-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/union-budget-2026-share-market-will-be-open-tomorrow-but-you-can-not-do-certain-things-tomorrow-rules-for-trading-also-smc-2520784.html",
-    "time": "2026-01-31T13:14:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "৪৬ বছরে ঘটেনি! ৩০ শতাংশ কমে গেল রুপোর দাম, হুড়মুড়িয়ে পড়ল সোনাও,  কতটা সস্তা দুই ধাতু?",
-    "desc": "১৯৮০-র দশকের পর থেকে একদিনে সবচেয়ে বড় পতনে ঘটেছে সোনা এবং রুপোর দামে। রুপোর দাম প্রতি কেজিতে প্রায় প্রায় ৩০% কমে ৩,০০,০০০ টাকার নীচে নেমে গিয়েছে। সোনার দামও কমে প্রতি ১০ গ্রাম ১,৫০,০০০-র কাছাকাছি চলে এসেছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1769168101_1768236709_Gold-Silver-1-2026-01-8123b6602c20822e7f656036d32c855a-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/gold-price-and-silver-price-dropped-again-silver-price-is-30-per-cent-low-from-the-top-gold-and-silver-price-drop-rdp-2520627.html",
-    "time": "2026-01-31T11:15:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Home Loan থেকে Mutual Fund-এ বিরাট ঘোষণা! কতটা হতে পারে মধ্যবিত্তের স্বপ্নপূরণ? অপেক্ষার আর কয়েক ঘণ্টা!",
-    "desc": "রাত পোহালেই কেন্দ্রের বাজেট। কেন্দ্রীয় বাজেট ২০২৬ পেশ হতে চলেছে রবিবার। এই বছর ১ ফেব্রুয়ারি রবিবার পেশ হতে চলেছে এই বছরের বাজেট। কেন্দ্রীয় অর্থমন্ত্রী নির্মলা সীতারমন বাজেট পেশ করবেন। ইতিমধ্যেই সাধারণ মানুষের মধ্যে বাজেট ঘিরে অনেকের মনেই প্রত্যাশা রয়েছে। কোন কোন আশা পূরণ করতে পারে সরকার?",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/nirmala-sitharaman-union-budget-2026-01-536aabaa5fe8d98868c0896a0bc7ff91-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/what-middle-class-expect-from-union-budget-know-more-details-smc-2520672.html",
-    "time": "2026-01-31T11:15:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "বাংলাদেশের বিতর্কের মধ্যেই বিশ্বকাপ নিয়ে নয়া ঝামেলায় ICC! ক্রিকেটারদের সংগঠনের সঙ্গে সংঘাত",
-    "desc": "এক রিপোর্ট অনুযায়ী, WCA দাবি করেছে যে স্কোয়াড পার্টিসিপেশন টার্মসের একটি ভার্সন ICC প্লেয়ারদের কাছে পাঠিয়েছে, যা \"২০২৪ সালে দুই পক্ষের সই করা চুক্তির সঙ্গে মিলছে না\"। WCA আরও দাবি করেছে, নতুন ভার্সনটা আরও 'শোষণমূলক'।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangladesh-Cricket-ICC-T20-World-Cup-2026-01-ec5eca9a6477beeb0b747bde65e745a3-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/amid-bangladesh-and-pakistan-issues-icc-faces-new-problems-before-t20-world-cup-2026-rdp-2520605.html",
-    "time": "2026-01-31T10:36:47.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাজেট ২০২৬: সোনার দাম আকাশছোঁয়া, কত টাকার সোনার গয়না কিনলে আপনাকে দেখাতেই হবে প্যান-আধার? জেনে নিন",
-    "desc": "এখন সমস্যা কেন সৃষ্টি হয়েছে?২০১৬ সালে, ভারতের ১০ গ্রামের সোনার দাম প্রায় ২৫,০০০ থেকে ৩২,০০০ টাকা এর মধ্যে ছিল। সেই সময়ে, ২ লাখ টাকার সোনার ক্রয়ের জন্য PAN কার্ড দেওয়ার নিয়ম যথাযথ মনে হয়েছিল।কিন্তু গত ৮–৯ বছরের মধ্যে সোনার দাম ব্যাপকভাবে বৃদ্ধি পেয়েছে। আজকাল, ১০ গ্রামের সোনার দাম প্রায় ১,৬৫,০০০ টাকার কাছাকাছি, এবং বাজার পরিস্থিতি অনুযায়ী এটি ২ লাখ টাকার সীমা স্পর্শ করতে পারে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1769753767_gold-price-m-2026-01-e355921bc43086b58b6bf96794e94735-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/budget-2026-gold-price-impact-on-budget-government-may-increase-rupees-2-lakh-buying-limit-to-show-pan-aadhar-smc-2520421.html",
-    "time": "2026-01-31T09:44:42.000Z"
   }
 ];

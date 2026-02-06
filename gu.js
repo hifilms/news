@@ -1,12 +1,30 @@
 const newsData_gu = [
   {
-    "cat": "Politics",
-    "title": "બાળકોને ફુગ્ગા અપાવતા પહેલા સાવધાન...બોમ્બની જેમ ફાટ્યા બલુન, જાણો કેમ આવી રીતે ફુગ્ગા થાય છે બ્લાસ્ટ",
-    "desc": "છેલ્લા બે-ત્રણ દિવસમાં એવી બે ઘટના જોવા મળી જેમાં ફુગ્ગામાં જોરદાર વિસ્ફોટ થયો અને મોટી દુર્ઘટના ટળી. એક કિસ્સો મુંબઈના ગોરેગાંવમાં એક લિફ્ટમાં ફુગ્ગા બ્લાસ્ટ થવાની ઘટના ઘટી જ્યારે બીજી ઘટના ભાજપના એક કાર્યક્રમમાં જોવા મળી. અચાનક કેમ ફુગ્ગા આ રીતે બ્લાસ્ટ થાય છે તે સમજવા જેવું છે.",
+    "cat": "Entertainment",
+    "title": "આકાંક્ષા ચમોલા &amp;#039;દિલ ધોખા ડિઝાયર&amp;#039; શોના બોલ્ડ સીનને લઈ ચર્ચામાં, ઈંટિમેટ સીન માટે લોકોએ કરી ટ્રોલ",
+    "desc": "ટીવી એક્ટર ગૌરવ ખન્ના બિગ બોસ 19 શો જીત્યો છે ત્યારથી તેના કરતાં વધારે ચર્ચા તેની પત્ની આકાંક્ષા ચમોલાની થઈ રહી છે. આકાંક્ષા ચમોલા રાતોરાત લાઈમલાઈટમાં આવી છે તેનું કારણ તેની બોલ્ડનેસ પણ છે. અને આ બોલ્ડનેસના કારણે હવે લોકો તેને ટ્રોલ કરી રહ્યા છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/explainer-be-careful-before-giving-balloons-to-children-balloons-burst-like-bombs-why-464126 ",
-    "time": "2026-02-06T09:27:24.000Z"
+    "url": " http://zeenews.india.com/gujarati/entertainment/akanksha-chamola-become-talk-of-town-for-web-show-dil-dhokha-aur-desire-video-viral-464147 ",
+    "time": "2026-02-06T12:49:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "જીયાએ એલ્વિશ યાદવ સાથે કરી સગાઈ, ફોટા પાછળનું સત્ય આવ્યું બહાર, જાણો",
+    "desc": "અભિનેત્રી જિયા શંકર અને એલ્વિશ યાદવ એક દિવસ પહેલા જ હાથ પકડીને જોવા મળ્યા હતા. જિયાના હાથમાં એક વીંટી પણ દેખાઈ હતી. એવી અટકળો ચાલી રહી હતી કે બંનેએ લગ્ન કરી લીધા છે, પરંતુ હવે સત્ય બહાર આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/jiya-got-engaged-to-elvish-yadav-the-truth-behind-the-photos-came-out-know-464146 ",
+    "time": "2026-02-06T12:40:07.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "આ દેશ છે હીરાની દુનિયાનો અસલી બાદશાહ, અહીં આવેલો છે દુનિયાનો સૌથી મોટો હીરાનો ભંડાર",
+    "desc": "હીરા એ દુનિયાનો સૌથી કઠણ કુદરતી પદાર્થ છે. ચાલો આપણે એવા દેશ વિશે જાણીએ જ્યાં હીરાનું પ્રમાણ સૌથી વધુ છે. આ દેશમાંથી દર વર્ષે વિશ્વના કુલ હીરા ઉત્પાદનના આશરે 30% થી 35% ઉત્પાદન કરે છે. આ તેને હીરાની દુનિયાનો બાદશાહ બનાવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/which-country-has-largest-diamond-reserves-russia-diamond-production-facts-464137 ",
+    "time": "2026-02-06T12:19:31.000Z"
   },
   {
     "cat": "Politics",
@@ -15,7 +33,25 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/which-parts-of-an-aircraft-does-india-manufacture-that-are-essential-for-aircraft-around-the-world-to-fly-464125 ",
-    "time": "2026-02-06T09:17:11.000Z"
+    "time": "2026-02-06T10:04:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICCની કાર્યવાહીના ડરથી પાકિસ્તાનની નવી ચાલ! T20 વર્લ્ડ કપમાં ભારત સામેની મેચ પહેલા ખેલશે મોટો દાવ",
+    "desc": "પાકિસ્તાનને 15 ફેબ્રુઆરીએ કોલંબોના આર પ્રેમાદાસા સ્ટેડિયમમાં ભારત વિરુદ્ધ ટી20 વર્લ્ડકપ 2026ની મેચને બાયકોટ કરવાની જાહેરાત કરવામાં આવી છે, જેને લઈને પીસીબી વિરુદ્ધ આઈસીસી એક્શન લઈ શકે છે. તેનાથી બચવા માટે પાકિસ્તાન ક્રિકેટ બોર્ડના ખાસ નિયમનો સહારો લેવાની કોશિશ કરી રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/pakistans-new-strategy-a-big-gamble-before-the-india-pakistan-match-in-the-t20-world-cup-464128 ",
+    "time": "2026-02-06T09:52:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બાળકોને ફુગ્ગા અપાવતા પહેલા સાવધાન...બોમ્બની જેમ ફાટ્યા બલુન, જાણો કેમ આવી રીતે ફુગ્ગા થાય છે બ્લાસ્ટ",
+    "desc": "છેલ્લા બે-ત્રણ દિવસમાં એવી બે ઘટના જોવા મળી જેમાં ફુગ્ગામાં જોરદાર વિસ્ફોટ થયો અને મોટી દુર્ઘટના ટળી. એક કિસ્સો મુંબઈના ગોરેગાંવમાં એક લિફ્ટમાં ફુગ્ગા બ્લાસ્ટ થવાની ઘટના ઘટી જ્યારે બીજી ઘટના ભાજપના એક કાર્યક્રમમાં જોવા મળી. અચાનક કેમ ફુગ્ગા આ રીતે બ્લાસ્ટ થાય છે તે સમજવા જેવું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/explainer-be-careful-before-giving-balloons-to-children-balloons-burst-like-bombs-why-464126 ",
+    "time": "2026-02-06T09:27:24.000Z"
   },
   {
     "cat": "World",
@@ -423,33 +459,6 @@ const newsData_gu = [
     "time": "2026-02-03T09:01:11.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ટ્રમ્પે ટેરિફ ઘટાડતા સોના-ચાંદીના ભાવ બદલાશે? ગોલ્ડ રેટમાં હજુ જોવા મળી શકે છે મોટો ઉલટફેર!",
-    "desc": "સોના અને ચાંદીના ભાવમાં ઓલટાઈમ હાઈના સ્તરને સ્પર્શ કર્યા બાદ ભયંકર કડાકા જોવા મળ્યા. જો કે 3 દિવસ બાદ સોમવારે ભાવ બપોર પછી ચડવા લાગ્યા અને આજે પણ સોના ચાંદીમાં વધારો જોવા મળી રહ્યો છે. જો કે રિટેલ બજારમાં ચાંદી આજે પણ પછડાઈ છે. એવું અનુમાન છે કે અમેરિકા-ભારત વચ્ચેની ટ્રેડ ડીલ અને ટેરિફ કાપ બાદ ભાવમાં ઘટાડો જોવા મળી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/will-gold-and-silver-prices-fall-as-trump-reduces-tariff-big-twist-may-be-seen-in-coming-days-463816 ",
-    "time": "2026-02-03T08:23:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ટીમમાં મોટો ફેરફાર... જયસ્વાલ અને શાર્દુલ ઠાકુરની અચાનક એન્ટ્રી, કેપ્ટન પણ બદલાયો",
-    "desc": "T20 વર્લ્ડ કપ 2026 ટૂંક સમયમાં શરૂ થવા જઈ રહ્યો છે. મેગા ઈવેન્ટમાં ટીમ ઈન્ડિયા તેની શરૂઆત 7 ફેબ્રુઆરી યુએસએ સામે કરશે. આ વચ્ચે ડોમેસ્ટિક ટૂર્નામેન્ટ રણજી ટ્રોફીને લઈને એક મોટું અપડેટ સામે આવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/yashasvi-jaiswal-shardul-thakur-comeback-in-mumbai-squad-for-ranji-trophy-quarterfinal-463807 ",
-    "time": "2026-02-03T06:45:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "&amp;#039;અમે વર્લ્ડ કપ રમવા જઈ રહ્યા છીએ...&amp;#039; પાકિસ્તાન સરકારના નિર્ણય બાદ કેપ્ટન સલમાન આગાએ તોડ્યું મૌન",
-    "desc": "7 ફેબ્રુઆરીથી T20 વર્લ્ડ કપ 2026 શરૂ થવા જઈ રહ્યો છે. આ મેગા ટુર્નામેન્ટમાં પાકિસ્તાને ભારત સામે રમવાનો ઇનકાર કર્યો છે, ત્યારે પાકિસ્તાન સરકારના આ નિર્ણય બાદ હવે ટીમના કેપ્ટન સલમાન અલી આગાએ આ મુદ્દે મૌન તોડ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/salman-agha-breaks-silence-after-pakistan-government-decision-ind-vs-pak-match-boycott-463799 ",
-    "time": "2026-02-03T05:47:19.000Z"
-  },
-  {
     "cat": "World",
     "title": "અમેરિકાએ ઘટાડ્યો ટેરિફ, 25%થી ઘટાડીને 18% કર્યો; ટ્રમ્પે કહ્યું- ભારત હવે રશિયા પાસેથી તેલ નહીં ખરીદે",
     "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે સોમવારે જાહેરાત કરી કે, તેઓ ટેરિફન 25 ટકાથી ઘટાડીને 18 ટકા કરી દેશે. આ વાત તેમણે વડાપ્રધાન નરેન્દ્ર મોદી સાથે વાતચીત કર્યાના થોડા જ સમય બાદ કહી છે. આ જાહેરાતથી ભારત-અમેરિકા સંબંધોમાં નરમાશ આવવાનો સંકેત મળી રહ્યા છે. આ નિર્ણયથી બન્ને દેશોની વચ્ચે વેપાર વધવાની અને આયાત ખર્ચમાં ઘટાડો થવાની અપેક્ષા છે.",
@@ -601,24 +610,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/jio-hotstar-latest-monthly-plans-hotstar-ott-subscription-plans-start-from-79-rupees-463183 ",
     "time": "2026-01-28T15:05:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "એક્ટર કરન વાહી આ સુંદર અભિનેત્રી સાથે કરશે લગ્ન, જોરશોરથી શરુ થઈ આ ક્યુટ કપલના અફેરની ચર્ચા",
-    "desc": "ટીવીના 2 પોપ્યુલર કલાકારો એકબીજાના ગળાડૂબ પ્રેમમાં છે અને ટુંક સમયમાં લગ્ન કરવાના છે તેવી ચર્ચાઓ જોરશોરથી થી રહી છે. આ કલાકારોમાંથી એક્ટર છે કરન વાહી. ટીવી સ્ટાર કરન વાહીના લગ્નની ચર્ચા તેજ થઈ છે. આ એક્ટર પોતાની સુંદર કો સ્ટારના પ્રેમમાં છે અને તે લગ્ન કરવાના છે તેવી વાત સામે આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/actor-karan-wahi-marriage-rumors-jennifer-winget-second-marriage-with-tv-star-463143 ",
-    "time": "2026-01-28T08:17:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "અરિજીત સિંહના કરિયરમાં પણ થયા છે હાઈ વોલ્ટેજ ડ્રામા, આ 4 ઘટનામાં અરિજિત આવ્યો વિવાદમાં",
-    "desc": "બોલીવુડના લોકપ્રિય પ્લેબેક સિંગર અરિજિત સિંહે ફિલ્મી ગીતો ગાવામાં નિવૃત્તિ જાહેર કરી દીધી છે. આ વાતની પુષ્ટિ તેણે સોશિયલ મીડિયા પોસ્ટ દ્વારા કરી છે. અરિજિત સિંહ બોલીવુડના લોકપ્રિય ગાયક છે જો કે તેના કરિયરમાં પણ વિવાદો થયા છે. તેમાં પણ 4 ઘટના એવી છે જેમાં અરિજિત સિંહ પર લોકોનો ગુસ્સો ફુટ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/arijit-singh-career-controversies-salman-arijit-fight-arijit-singh-retirement-463118 ",
-    "time": "2026-01-28T03:14:06.000Z"
   },
   {
     "cat": "Tech",
