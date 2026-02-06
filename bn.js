@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "বরফে হাঁটছে ময়ূর? দেশে ঘনিয়ে আসছে ভয়ংকর দুর্বিপাক! মারণ ধ্বংসলীলা ২ এপ্রিল শুরু হয়ে...",
+    "desc": "ময়ূরগুলি সর্বোচ্চ ২০০০ ফুট উচ্চতা পর্যন্ত বেঁচে থাকতে পারে। কিন্তু মানালির এই গ্রামে ময়ূরকে ৬০০০ ফুটেরও বেশি উচ্চতায় দেখা গিয়েছে। গ্রামবাসীরা ঘটনাটিকে আসন্ন বিপদের সঙ্গে যুক্ত করে ভাবছেন। আবহাওয়াবিদ এবং বন্যপ্রাণ বিশেষজ্ঞেরাও এই ঘটনায় বিস্মিত।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/peacock-visible-in-snow-devastation-people-worried-about-appearance-of-peacocks-in-jagatsukh-village-manali-baba-vanga-saturn-mars-jupiter-in-cancer_639921.html ",
+    "time": "2026-02-06T13:32:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "রাস্তার ধারের বিরাট গর্তে পড়ে রক্তাক্ত নিথর দেহ! পাশে মোটরবাইক, দিল্লিতে ফিরল নয়ডার স্মৃতি",
+    "desc": "মৃত ওই ব্যক্তির নাম কামাল, তিনি কৈলাসপুরী এলাকার বাসিন্দা ছিলেন৷ কামালের পরিবারের সূত্রের খবর, রোহিনী এলাকায় তাঁর অফিস৷ গত বৃহস্পতিবার তিনি গভীর রাত করে বাড়ি ফিরছিলেন৷ গোটা বাড়ি ফেরার পথে পরিবারের সদস্যদের সঙ্গে কথাও হচ্ছিল তাঁর৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ydne-2026-02-06T150334.488-2026-02-1e7920b650543cdc04ae2e861f7d2eb5-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/dehli-man-falls-into-a-pit-road-side-with-motorcycle-delhi-motorcyclist-dead-janakpuri-sta-2526217.html",
+    "time": "2026-02-06T13:00:18.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "ভয়ংকর কাণ্ড! রাত ৩টের সময় বাড়ি ঘিরে নেয় দুষ্কৃতীরা, প্রাণ বাঁচাতে হাতে বন্দুক তুলে নেন গোবিন্দা...",
     "desc": "ম্যানেজার শশী সিনহার বয়ান অনুযায়ী, রাত তখন প্রায় ৩টে থেকে ৩:৩০টে। গোবিন্দার বাসভবনের সামনে জড়ো হয়েছিল প্রচুর লোক। পরিস্থিতি এতটাই উত্তপ্ত ছিল যে যেকোনো সময় অপ্রীতিকর কিছু ঘটে যেতে পারত। পরিস্থিতি সামলাতে নিজের লাইসেন্সড রিভলবারটি বের করেন সুপারস্টার। বলিউডে চক্রান্তের শিকার সুপারস্টার?",
@@ -43,15 +61,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/iit-bombay-student-dies-by-took-extreme-step-21-year-old-from-hostel-terrace_639901.html ",
     "time": "2026-02-06T11:01:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "রাস্তার ধারের বিরাট গর্তে পড়ে রক্তাক্ত নিথর দেহ! পাশে মোটরবাইক, দিল্লিতে ফিরল নয়ডার স্মৃতি",
-    "desc": "মৃত ওই ব্যক্তির নাম কামাল, তিনি কৈলাসপুরী এলাকার বাসিন্দা ছিলেন৷ কামালের পরিবারের সূত্রের খবর, রোহিনী এলাকায় তাঁর অফিস৷ গত বৃহস্পতিবার তিনি গভীর রাত করে বাড়ি ফিরছিলেন৷ গোটা বাড়ি ফেরার পথে পরিবারের সদস্যদের সঙ্গে কথাও হচ্ছিল তাঁর৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ydne-2026-02-06T150334.488-2026-02-1e7920b650543cdc04ae2e861f7d2eb5-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/dehli-man-falls-into-a-pit-road-side-with-motorcycle-delhi-motorcyclist-dead-janakpuri-sta-2526217.html",
-    "time": "2026-02-06T09:53:20.000Z"
   },
   {
     "cat": "Business",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/draupadi-murmu-serves-dahi-cheeni-to-nirmala-sitharaman-at-rashtrapati-bhavan-before-union-budget-2026-main-reason-behind-this-ritual-tib-ws-l-2521506.html",
     "time": "2026-02-01T05:54:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাজেটে কী আশা করছেন সাধারণ মধ্যবিত্তরা? থাকবে কী কী চমক?",
-    "desc": "১ ফেব্রুয়ারি পেশ হতে চলেছে কেন্দ্রীয় বাজেট। টানা নয় বার বাজেট পেশ করতে চলেছেন কেন্দ্রীয় অর্থমন্ত্রী নির্মলা সীতারমণ। এবারের বাজেটে ঘটতে চলেছে এক অভূতপূর্ব ঘটনা। এই প্রথম কোনও রবিবার পেশ হতে চলেছে ভারতের কেন্দ্রীয় বাজেট। আর এই বাজেটেই নজর সাধারণের। মধ্যবিত্তদের বাজেট নিয়ে প্রত্যাশা কতটা? এবারের বাজেটেও কি বিশেষ কোনও উপহার দেবে কেন্দ্রীয় সরকার? বাজেটে কি আশা করছেন সাধারণ মধ্যবিত্তরা?",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Arjuun-Neogi-83-2026-02-09cd036eb6ead7e8cd84036d81c3414a-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/business/union-budget-2026-what-are-the-expectations-from-the-middle-class-from-budget-2026-have-a-look-arn-2521089.html",
-    "time": "2026-01-31T22:17:25.000Z"
   }
 ];

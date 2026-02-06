@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India clinch record-breaking sixth U19 World Cup, Vaibhav Sooryavanshi smacks 175 to beat England",
+    "desc": "India U19 have secured their sixth U19 World Cup title, beating England by 100 runs in the final at the Harare Sports Club in Zimbabwe. The Ayush Mhatre-led side arrived at the summit clash with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-clinch-record-breaking-sixth-u19-world-cup-vaibhav-sooryavanshi-smacks-175-to-beat-england-2026-02-06-1029199",
+    "time": "2026-02-06T14:51:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India U19 break all-time record with jaw-dropping batting show in World Cup final against England",
+    "desc": "India U19 have shattered an all-time record with their jaw-dropping performance in the World Cup 2026 final against England at the Harare Sports Club on Friday, February 6. Led by a record-breaking 175 from Vaibhav...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-u19-break-all-time-record-with-jaw-dropping-batting-show-in-world-cup-final-against-england-2026-02-06-1029197",
+    "time": "2026-02-06T14:34:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sushil Kumar denied bail by Delhi court in Sagar Dhankar murder case",
     "desc": "Olympian wrestler Sushil Kumar was denied bail plea by a Delhi Court in connection with the murder of former junior national wrestling champion Sagar Dhankar at Chhatrasal Stadium on Friday, February 6. The bail application was...",
     "img": "",
@@ -19,8 +37,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "IND A vs NAM T20 World Cup warm-up Live Cricket Score: India A losing wickets at regular interval",
-    "desc": "Riyan Parag has cracked a 25-ball half-century in the T20 World Cup warm-up clash against Namibia at the BCCI Centre of Excellence in Bengaluru. After a slow start, the Assam-born cricketer changed gears and eventually turned the...",
+    "title": "IND A vs NAM T20 World Cup warm-up Live Cricket Score: India beat Namibia by 130 runs",
+    "desc": "India A posted 197 runs on the board in the first innings of the T20 World Cup warm-up clash against Namibia at the BCCI Centre of Excellence in Bengaluru. Riyan Parag proved to be the star performer,...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-a-vs-nam-t20-world-cup-warm-up-live-cricket-score-india-a-vs-namibia-bcci-centre-of-excellence-bengaluru-latest-match-updates-scorecard-teams-1029165",
@@ -55,8 +73,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "England look to fight back with Dawkins, Mayes",
-    "desc": "India have registered the highest-ever total in the history of the U19 World Cup knockouts as they put up 411/9 in 50 overs. Vaibhav Suryavanshi slammed a jaw-dropping 175 from 80 balls in the final at...",
+    "title": "India lift sixth U19 World Cup, beat England by 100 runs",
+    "desc": "India U19 scripted history by clinching a record-breaking sixth U19 World Cup title with a dominant 100-run victory over England in the final at Harare Sports Club, Zimbabwe. Unbeaten throughout the tournament, the Ayush Mhatre-led...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-u19-world-cup-final-live-india-vs-england-harare-sports-club-harare-latest-match-updates-scorecard-teams-playing-xis-highlights-2026-02-06-1029126",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/australia-suffer-another-blow-josh-hazlewood-ruled-out-of-t20-world-cup-2026-2026-02-06-1029121",
     "time": "2026-02-06T06:06:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "List of all prize winners and money they earned",
-    "desc": "The WPL 2026 final at the BCA Stadium in Vadodara turned into a celebration of fearless batting, with Royal Challengers Bengaluru producing a memorable run chase to defeat Delhi Capitals and secure their second title...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wpl-2026-list-of-all-prize-winners-and-money-they-earned-2026-02-05-1029086",
-    "time": "2026-02-05T18:28:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyanka Patil dedicates WPL win to Smriti Mandhana, says 'she has gone through a lot'",
-    "desc": "Royal Challengers Bengaluru defeated Delhi Capitals by six wickets to claim their second Women’s Premier League (WPL) title in three years. The Smriti Mandhana-led side had a tough job in hand, chasing 204 runs, but...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyanka-patil-dedicates-wpl-win-to-smriti-mandhana-says-she-has-gone-through-a-lot-2026-02-05-1029085",
-    "time": "2026-02-05T18:26:44.000Z"
   }
 ];
