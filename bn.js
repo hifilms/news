@@ -217,15 +217,6 @@ const newsData_bn = [
   },
   {
     "cat": "Politics",
-    "title": "ঐতিহাসিক সুপ্রিম সওয়ালে সারা দেশকে চমকে SIR-পদ্ধতি নিয়েই বিশাল প্রশ্ন তুলে দিলেন মমতা! বললেন...",
-    "desc": "এসআইএর বিরোধিতা করছে কংগ্রেস, সমাজবাদী পার্টি, ডিএমকের মতো দলও। কিন্তু এসআইআরের বিরুদ্ধে লড়াইকে এক অন্য মাত্রায় নিয়ে চলে গিয়েছেন স্বয়ং মমতা বন্দ্যোপাধ্যায়। নির্বাচন কমিশনে দরবারই শুধু নয়, মামলা করে একেবারে সুপ্রিম কোর্ট হাজির মমতা বন্দ্যোপাধ্যায়। তিনি কী বললেন আদালতে?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/mamata-banerjee-in-supreme-court-bengal-cm-urgue-in-sc-mamata-banerjee-questions-hurry-in-conducting-sir-exercise_639391.html ",
-    "time": "2026-02-04T08:47:11.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "২ বোনকে বিয়ে বাবার...২ স্ত্রী-৫ সন্তানকে নিয়ে একসঙ্গে একই ফ্ল্যাটে বাস...৩ কিশোরী বোনের রহস্যমৃত্যুকাণ্ডে নয়া মোড়",
     "desc": "পুলিশের দাবি, পেশায় একজন ব্যবসায়ী চেতন কুমার, প্রথম বিয়ে থেকে কোনও সন্তান না হওয়ায় দ্বিতীয় বিয়ে করেন। সন্তানের আশায় তিনি তাঁর স্ত্রীর ছোট বোনকে বিয়ে করেন। এই দম্পতির তিন সন্তান হয়। তবে, এই সময়ের মধ্যে তাঁর প্রথম স্ত্রীরও দু’টি সন্তান হয়। চেতন কুমার, তাঁর দুই স্ত্রী এবং পাঁচ সন্তান একসঙ্গে থাকতেন।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/New-Project-2-2026-02-a73076ac1e4f56e0504f15abfaeac1bb-3x2.jpg",
@@ -250,15 +241,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/last-note-of-3-sisters-with-crying-emoji-before-the-extreme-decision-in-ghaziabad-arc-2525599.html",
     "time": "2026-02-04T07:34:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "কে পপ, কে ড্রামা পেরিয়ে এবার নেশার নাম কে-গেম! ৫০ টাস্কের বাহানায় 'কোরিয়া' কেড়ে নিল ৩ কিশোরীর প্রাণ...",
-    "desc": "গাজিয়াবাদে অনলাইন কোরিয়ান গেমের ‘টাস্ক’ পূরণ করতে গিয়ে ৯ তলা থেকে ঝাঁপ দিয়ে মৃত্যু হয়েছে তিন বোনের। ডায়েরিতে বাবার কাছে ক্ষমা চেয়ে তারা লিখেছে যে তারা খুব একা বোধ করছিল। গেমের ৫০টি টাস্কের শেষ ধাপ হিসেবে তারা এই আত্মঘাতী সিদ্ধান্ত নেয় বলে পুলিসের প্রাথমিক অনুমান।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/read-everything-in-diary-last-note-of-3-sisters-with-crying-emoji-in-ghaziabad_639357.html ",
-    "time": "2026-02-04T07:14:25.000Z"
   },
   {
     "cat": "Politics",
@@ -898,5 +880,23 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/what-middle-class-expect-from-union-budget-know-more-details-smc-2520672.html",
     "time": "2026-01-31T11:15:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "বাংলাদেশের বিতর্কের মধ্যেই বিশ্বকাপ নিয়ে নয়া ঝামেলায় ICC! ক্রিকেটারদের সংগঠনের সঙ্গে সংঘাত",
+    "desc": "এক রিপোর্ট অনুযায়ী, WCA দাবি করেছে যে স্কোয়াড পার্টিসিপেশন টার্মসের একটি ভার্সন ICC প্লেয়ারদের কাছে পাঠিয়েছে, যা \"২০২৪ সালে দুই পক্ষের সই করা চুক্তির সঙ্গে মিলছে না\"। WCA আরও দাবি করেছে, নতুন ভার্সনটা আরও 'শোষণমূলক'।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/Bangladesh-Cricket-ICC-T20-World-Cup-2026-01-ec5eca9a6477beeb0b747bde65e745a3-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/amid-bangladesh-and-pakistan-issues-icc-faces-new-problems-before-t20-world-cup-2026-rdp-2520605.html",
+    "time": "2026-01-31T10:36:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাজেট ২০২৬: সোনার দাম আকাশছোঁয়া, কত টাকার সোনার গয়না কিনলে আপনাকে দেখাতেই হবে প্যান-আধার? জেনে নিন",
+    "desc": "এখন সমস্যা কেন সৃষ্টি হয়েছে?২০১৬ সালে, ভারতের ১০ গ্রামের সোনার দাম প্রায় ২৫,০০০ থেকে ৩২,০০০ টাকা এর মধ্যে ছিল। সেই সময়ে, ২ লাখ টাকার সোনার ক্রয়ের জন্য PAN কার্ড দেওয়ার নিয়ম যথাযথ মনে হয়েছিল।কিন্তু গত ৮–৯ বছরের মধ্যে সোনার দাম ব্যাপকভাবে বৃদ্ধি পেয়েছে। আজকাল, ১০ গ্রামের সোনার দাম প্রায় ১,৬৫,০০০ টাকার কাছাকাছি, এবং বাজার পরিস্থিতি অনুযায়ী এটি ২ লাখ টাকার সীমা স্পর্শ করতে পারে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/1769753767_gold-price-m-2026-01-e355921bc43086b58b6bf96794e94735-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/budget-2026-gold-price-impact-on-budget-government-may-increase-rupees-2-lakh-buying-limit-to-show-pan-aadhar-smc-2520421.html",
+    "time": "2026-01-31T09:44:42.000Z"
   }
 ];

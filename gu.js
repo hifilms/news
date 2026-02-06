@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "બાળકોને ફુગ્ગા અપાવતા પહેલા સાવધાન...બોમ્બની જેમ ફાટ્યા બલુન, જાણો કેમ આવી રીતે ફુગ્ગા થાય છે બ્લાસ્ટ",
+    "desc": "છેલ્લા બે-ત્રણ દિવસમાં એવી બે ઘટના જોવા મળી જેમાં ફુગ્ગામાં જોરદાર વિસ્ફોટ થયો અને મોટી દુર્ઘટના ટળી. એક કિસ્સો મુંબઈના ગોરેગાંવમાં એક લિફ્ટમાં ફુગ્ગા બ્લાસ્ટ થવાની ઘટના ઘટી જ્યારે બીજી ઘટના ભાજપના એક કાર્યક્રમમાં જોવા મળી. અચાનક કેમ ફુગ્ગા આ રીતે બ્લાસ્ટ થાય છે તે સમજવા જેવું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/explainer-be-careful-before-giving-balloons-to-children-balloons-burst-like-bombs-why-464126 ",
+    "time": "2026-02-06T09:27:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ચીન હોય કે અમેરિકા...વિમાનો ઉડાડવા આખી દુનિયા ભારત પર છે નિર્ભર, ગુજરાતનું આ શહેર પણ છે એરોસ્પેસ હબ",
+    "desc": "આકાશમાં જ્યારે વિમાનનો અવાજ સંભળાય છે, ત્યારે નાનાથી મોટા તમામ લોકો આકાશ તરફ મીટ માંડે છે. પરંતુ શું તમને ખબર છે કે દુનિયામાં ઉડતા વિમાનોના અમુક પોર્ટ્સ ભારતમાં બને છે. ભારતમાં બનતા પોર્ટ્સ વગર વિમાન ઉડી શકવું લગભગ અશક્ય છે. ભારતમાં વિમાનોની ડિઝાઈન, નિર્માણ અને દેખરેખનું એક એવું ઈકોસિસ્ટમ તૈયાર થઈ ગયું છે કે દુનિયાની દિગ્ગજ કંપનીઓ જેમ કે Airbus અને Boeing હવે ભારત પર નિર્ભર રહે છે. આજે દરેક એરબસ કોમર્શિયલ વિમાનમાં ભારતમાં બનેલા પોટર્સનો ઉપયોગ થાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/which-parts-of-an-aircraft-does-india-manufacture-that-are-essential-for-aircraft-around-the-world-to-fly-464125 ",
+    "time": "2026-02-06T09:17:11.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "શોકિંગ દાવા, બાળકોનું માંસ ખાતા હતા? આંતરડા ફાડી માનવ મળ પણ ખાઈ જતા",
+    "desc": "જેફરી એપસ્ટીનના કારનામાઓની એપસ્ટીન ફાઈલ્સ જ્યારથી ખુલી છે ત્યારથી હડકંપ મચી ગયો છે. એમાં પણ છેલ્લે જે ફાઈલો બહાર આવી તેમાં નરભક્ષણ અંગેની વાતોના જે દાવા થઈ રહ્યા છે તે અસહ્ય છે. જાણો કેવા તેવા દાવા થઈ રહ્યા છે અને તે દાવાની કોઈ પુષ્ટિ થઈ છે કે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/epstein-files-shocking-claims-social-media-cannibalism-cream-cheese-baby-world-news-in-gujarati-464123 ",
+    "time": "2026-02-06T08:45:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "બજાર ખુલતા જ આજે પણ જબરદસ્ત પછડાયા સોનું-ચાંદી, સસ્તું ગોલ્ડ-સિલ્વર લેવાની શાનદાર તક, આજનો ભાવ જાણો",
+    "desc": "આજે પણ સોના અને ચાંદીના ભાવમાં મોટો ઘટાડો જોવા મળ્યો છે. વાયદા બજાર ખુલતાની સાથે જ આજે સોનું અને ચાંદી વળી પાછા પછડાયા છે. ગઈ કાલે વધારા સાથે ક્લોઝ થયા હતા પરંતુ આજે પાછો ઘટાડો જોવા મળ્યો છે. રિટેલ બજારમા પણ કાલે સોનું ઘટાડા સાથે બંધ થયું હતું. આજનો લેટેસ્ટ ભાવ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-rate-today-silver-rate-crash-check-gold-rate-on-mcx-retail-market-aaj-no-sona-chandi-no-bhav-464093 ",
+    "time": "2026-02-06T06:56:13.000Z"
+  },
+  {
     "cat": "Business",
     "title": "EMI ઘટવાની અને સસ્તી હોમ લોનની રાહ જોઈને બેઠેલા લોકોને ઝટકો, જાણો નવો રેપો રેટ કેટલો થયો",
     "desc": "રિઝર્વ બેંક ઓફ ઈન્ડિયાના ગવર્નર સંજય મલ્હોત્રાએ આજે નીતિગત દરોની જાહેરાત કરી જેમાં રેપો રેટને જે હતો એ જ એટલે કે યથાવત રાખવામાં આવ્યો છે. તેનો અર્થ એ થયો કે જો તમે ઈએમઆઈ ઘટવાની કે હજુ પણ સસ્તા વ્યાજ દરે લોન મળવાની રાહ જોઈને બેઠા હશો તો તમારે રાહ જોવાનો વારો આવશે.",
@@ -16,15 +52,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/in-which-hospitals-can-you-get-free-treatment-with-the-ayushman-card-check-the-list-for-your-state-and-district-here-464104 ",
     "time": "2026-02-06T05:03:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "બજાર ખુલતા જ આજે પણ જબરદસ્ત પછડાયા સોનું-ચાંદી, સસ્તું ગોલ્ડ-સિલ્વર લેવાની શાનદાર તક, આજનો ભાવ જાણો",
-    "desc": "આજે પણ સોના અને ચાંદીના ભાવમાં મોટો ઘટાડો જોવા મળ્યો છે. વાયદા બજાર ખુલતાની સાથે જ આજે સોનું અને ચાંદી વળી પાછા પછડાયા છે. ગઈ કાલે વધારા સાથે ક્લોઝ થયા હતા પરંતુ આજે પાછો ઘટાડો જોવા મળ્યો છે. રિટેલ બજારમા પણ કાલે સોનું ઘટાડા સાથે બંધ થયું હતું. આજનો લેટેસ્ટ ભાવ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-rate-today-silver-rate-crash-check-gold-rate-on-mcx-retail-market-aaj-no-sona-chandi-no-bhav-464093 ",
-    "time": "2026-02-06T04:19:29.000Z"
   },
   {
     "cat": "Politics",
@@ -288,15 +315,6 @@ const newsData_gu = [
     "time": "2026-02-04T10:48:09.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "&amp;#039;ન્યાય બંધ બારણા પાછળ રડી રહ્યો છે&amp;#039;, સુપ્રીમ કોર્ટમાં SIR પર મમતા બેનર્જીના આક્રમક તેવર",
-    "desc": "પશ્ચિમ બંગાળમાં એસઆઈઆરનો મુદ્દો ખુબ ચગ્યો છે. આજે મમતા બેનર્જીએ એક અરજી દાખલ કરેલી છે તેના પર સુનાવણી થઈ રહી છે. તેમણે આ હીયરિંગમાં પોતે પક્ષ રજૂ કર્યું અને ચૂંટણી પંચને વોટ્સએપ કમિશન પણ ગણાવી દીધુ. જાણો ચીફ જસ્ટિસ ઓફ ઈન્ડિયાએ આ સમગ્ર મામલે શું કહ્યું?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/supreme-court-hearing-on-west-bengal-sir-mamata-banerjee-election-commission-463928 ",
-    "time": "2026-02-04T09:13:33.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "રોહિત અને વિરાટે 2027નો વર્લ્ડ કપ રમવો જોઈએ ? જાણો શું કહ્યું MS ધોનીએ",
     "desc": "રોહિત શર્મા અને વિરાટ કોહલી હવે ફક્ત ODI ફોર્મેટમાં રમે છે અને આંતરરાષ્ટ્રીય ક્રિકેટમાં તેમના ભવિષ્ય પર બધાની નજર છે. ચાહકો તેમને 2027 ODI વર્લ્ડ કપમાં રમતા જોવા માંગે છે. હવે એમએસ ધોનીએ આ વિષય પર વાત કરી છે અને જણાવ્યું છે કે શું બંનેએ આગામી વર્લ્ડ કપમાં રમવું જોઈએ.",
@@ -502,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/airtel-1-plan-offer-2-sim-card-benefits-699-family-infinity-plan-463470 ",
     "time": "2026-01-31T11:16:23.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "રશિયન છોકરીઓ સાથે સંબંધ બનાવ્યા બાદ બિલ ગેટ્સને થયો હતો આ ગુપ્ત રોગ, એપસ્ટીન ફાઈલ્સમાં ચોંકાવનારો દાવો",
-    "desc": "અપસ્ટીન ફાઈલ્સના વિવાદે માત્ર અમેરિકા જ નહીં પરંતુ દુનિયાભરમાં ખળભળાટ મચાવેલો છે. અનેક મોટી હસ્તીઓના નામ સામે આવતા હડકંપ મચી ગયો છે. હવે બિલ ગેટ્સ વિશે એવા ચોંકાવનારા દાવા થયા છે કે જાણીને સ્તબ્ધ થશો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/epstein-files-claim-bill-gates-caught-std-after-relation-with-russian-girls-463440 ",
-    "time": "2026-01-31T05:37:45.000Z"
   },
   {
     "cat": "Entertainment",

@@ -1,8 +1,17 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "With glory on the line, India meet England in Harare",
-    "desc": "With the title on the line, India meet England in the U19 World Cup 2026 final at the Harare Sports Club, Harare. The most successful team, India, bid to add another trophy to their illustrious cabinet...",
+    "title": "Record-breaking Vaibhav Suryavanshi slams scintillating century in IND vs ENG U19 World Cup 2026 final",
+    "desc": "India's teenage sensation, Vaibhav Suryavanshi, slammed a scintillating hundred in the final of the U19 World Cup 2026 as the star batter etched his name into the history books against England at the Harare Sports...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/record-breaking-vaibhav-suryavanshi-slams-scintillating-century-in-ind-vs-eng-u19-world-cup-2026-final-2026-02-06-1029147",
+    "time": "2026-02-06T09:12:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryavanshi nears double ton as India on top in Harare",
+    "desc": "India sensation Vaibhav Suryavanshi slammed a stellar hundred in the U19 World Cup final between India and England as he turned on his best mode in the big final. Suryavanshi slammed a hundred off 55...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-u19-world-cup-final-live-india-vs-england-harare-sports-club-harare-latest-match-updates-scorecard-teams-playing-xis-highlights-2026-02-06-1029126",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mustafizur-rahman-joins-psl-team-after-being-dropped-from-kkr-squad-for-ipl-2026-2026-02-05-1029047",
     "time": "2026-02-05T11:42:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Anurag Thakur cleared to return to BCCI after Supreme Court lifts ban",
-    "desc": "Anurag Thakur has been cleared to return to cricket administration after the Supreme Court on Thursday, February 5, lifted the restriction that had barred him from taking part in the affairs of the Board of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/anurag-thakur-cleared-to-return-to-bcci-after-supreme-court-lifts-ban-2026-02-05-1029045",
-    "time": "2026-02-05T11:29:32.000Z"
   }
 ];

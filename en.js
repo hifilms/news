@@ -1,5 +1,203 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "When teams refused to tour countries in ICC men’s tournaments",
+    "desc": "We are going to look back at two such episodes from the past in ICC men’s tournaments. One from 1996, when West Indies and Australia refused to tour Sri Lanka, and the other from 2003, when England and New Zealand pulled out of playing in Zimbabwe and Kenya respectively.",
+    "img": "https://th-i.thgim.com/public/videos/q90036/article70596124.ece/alternates/LANDSCAPE_1200/T20%20world%20cup%20boycotts.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/history-of-teams-pulling-out-of-matches-in-icc-mens-tournament/article70596152.ece",
+    "time": "2026-02-06T09:21:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Soundarya Rajinikanth on ‘Kochadaiyaan’, and her latest release ‘With Love’",
+    "desc": "Soundarya Rajinikanth returns to Tamil cinema as a producer with With Love, starring Abishan Jeevinth and Anaswara Rajan. In an interview with ‘The Hindu’ for the ‘This Changed my Life’ podcast, she chats about her comeback, why she took a long break and what she plans to do now. She also revisits Kochadaiyaan, her 2014 animation film starring her father and Tamil superstar, Rajinikanth",
+    "img": "https://th-i.thgim.com/public/incoming/7cxh1c/article70599180.ece/alternates/LANDSCAPE_1200/Soundarya-Rajinikanth-Thumbnail.jpg.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-soundarya-rajinikanth-on-kochadaiyaan-and-her-latest-release-with-love/article70599160.ece",
+    "time": "2026-02-06T09:17:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sooryavanshi smashes 55-ball century vs England, puts India in command",
+    "desc": "Vaibhav Sooryavanshi smashed a blistering 55-ball century in the Under-19 World Cup final against England, setting a new record for most sixes in the tournament. His explosive innings, featuring eight fours and as many sixes, helped India post a strong total after winning the toss and electing to bat.",
+    "img": "https://static.toiimg.com/photo/msid-127980764,imgsize-54100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/u19-world-cup-final-vaibhav-sooryavanshi-smashes-55-ball-century-against-england-puts-india-in-command/articleshow/127980602.cms",
+    "time": "2026-02-06T09:10:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Raveena Ravi BREAKS the silence on online abuse",
+    "desc": "Actress Raveena Ravi has bravely spoken out against three years of relentless online harassment by two brothers. She revealed they used fake accounts to send threatening, abusive, and pornographic messages, causing her significant mental distress. Despite police action, the abuse continues, prompting Raveena to urge public vigilance and strict action against such offenders for women's safety.",
+    "img": "https://static.toiimg.com/photo/msid-127980672,imgsize-33650.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/raveena-ravi-breaks-the-silence-on-online-abuse-love-today-actress-calls-police-action-over-three-year-harassment-claim/articleshow/127980672.cms",
+    "time": "2026-02-06T09:03:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Role models don't do this'",
+    "desc": "Pakistan skipper Salman Ali Agha criticised India's decision not to shake hands during the Asia Cup and for not travelling to the neighbours for the 2025 Champions Trophy. Ahead of the T20 World Cup, Pakistan's government announced a boycott of their group stage match against India, citing solidarity with Bangladesh. Agha emphasised the importance of sportsmanship for young fans.",
+    "img": "https://static.toiimg.com/photo/msid-127980424,imgsize-92512.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-role-models-dont-do-this-says-salman-ali-agha-on-indias-handshake-refusal-at-asia-cup/articleshow/127979324.cms",
+    "time": "2026-02-06T08:59:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Manoj breaks silence on Neeraj Pandey's Ghooskhor Pandat",
+    "desc": "Manoj Bajpayee addressed the controversy over his upcoming series 'Ghooskhor Pandat', saying it’s not meant to target any community. He shared on Instagram that his role reflects a flawed individual’s journey. Bajpayee also praised Neeraj Pandey’s dedication, as the makers face an FIR and criticism over the show’s title.",
+    "img": "https://static.toiimg.com/photo/msid-127980256,imgsize-26924.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manoj-bajpayee-breaks-silence-on-neeraj-pandeys-ghooskhor-pandat-title-controversy-not-about-any-community/articleshow/127980256.cms",
+    "time": "2026-02-06T08:52:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suniel reveals he was cast in Aditya's The Immortal Ashwatthama",
+    "desc": "Actor Sunil Shetty praised Aditya Dhar’s 'Dhurandhar', calling the director’s vision “amazing.” He revealed he was earlier cast in Dhar’s shelved film 'The Immortal Ashwatthama'. Shetty admired Ranveer Singh’s performance, saying he outshone others through his unique portrayal, and lauded Dhar’s understanding of post-pandemic audiences and long-format storytelling.",
+    "img": "https://static.toiimg.com/photo/msid-127979386,imgsize-23774.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shetty-reveals-he-was-cast-in-aditya-dhars-the-immortal-ashwatthama-with-vicky-kaushal-before-it-was-shelved-everything-was-signed/articleshow/127979386.cms",
+    "time": "2026-02-06T08:35:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Silver, gold pricse: Silver tumbles Rs 15,000 on MCX, gold slips below Rs 1.5 lakh; should you buy?",
+    "desc": "Gold and silver prices plummeted on the MCX Friday, driven by weak global sentiment and a stronger dollar. Silver futures saw a sharp 6% drop, while gold futures fell 2%. International markets showed mixed trends. Increased margin requirements on the MCX added to the volatility, prompting traders to cut positions. Experts advise caution amid high price swings.",
+    "img": "https://static.toiimg.com/photo/msid-127979084,imgsize-96444.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/silver-gold-pricse-silver-tumbles-rs-15000-on-mcx-gold-slips-below-rs-1-5-lakh-should-you-buy/articleshow/127978391.cms",
+    "time": "2026-02-06T08:27:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Madras HC upholds Rs 1.5 crore penalty againt Thalapathy Vijay",
+    "desc": "Madras High Court has upheld a Rs 1.5 crore income tax penalty against actor Vijay, dismissing his petition. The court found no grounds for interference, endorsing the Income Tax Department's stance on undisclosed income from the film 'Puli'. Meanwhile, Vijay's film 'Jana Nayagan' faces release delays due to censor and legal issues.",
+    "img": "https://static.toiimg.com/photo/msid-127978592,imgsize-20532.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalapathy-vijay-faces-setback-as-madras-hc-upholds-rs-1-5-crore-income-tax-penalty-jana-nayagan-trouble-continues/articleshow/127978592.cms",
+    "time": "2026-02-06T08:17:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir gets first Bollywood break in Shahid Kapoor's 'O Romeo'",
+    "desc": "Gujarati singer Aamir Mir is set to make his Bollywood debut with a song in Vishal Bhardwaj's upcoming film 'O Romeo', releasing on February 13. Fans are celebrating his milestone, while lead actors Shahid Kapoor and Triptii Dimri have shared fun behind-the-scenes glimpses, building anticipation for the crime drama.",
+    "img": "https://static.toiimg.com/photo/msid-127978357,imgsize-31014.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/gujarati/music/aamir-mir-gets-first-bollywood-break-singer-shines-with-shahid-kapoors-o-romeo/articleshow/127978349.cms",
+    "time": "2026-02-06T08:11:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hrithik Roshan on why he never forces creative ideas",
+    "desc": "Hrithik Roshan discussed his production company HRX Films, explaining its goal to blend emotional storytelling with commercial appeal. He credited cousin Eshaan for selecting scripts, praised director Ajitpal Singh of Storm, and emphasized giving directors creative freedom. Hrithik also highlighted Indian cinema’s growing global recognition and its integrity-driven success.",
+    "img": "https://static.toiimg.com/photo/msid-127977719,imgsize-20152.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshan-on-why-he-never-forces-creative-ideas-you-are-a-fool-if-you-bypass-the-director/articleshow/127977719.cms",
+    "time": "2026-02-06T07:57:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "​Hollywood actors who appeared in Michael Jackson music videos​",
+    "desc": "Michael Jackson didn’t just make music videos; he made mini movies, and he often invited famous faces to share the screen. From Ola Ray’s memorable role in Thriller to Wesley Snipes’ gritty presence in Bad, these appearances added realism, charm, and star power. Liberian Girl became a cameo celebration, while Black or White and Remember The Time blended storytelling with cultural impact. From Naomi Campbell to Michael Jordan, Lisa Marie Presley, Chris Tucker, and Marlon Brando, each feature made the visuals feel bigger, warmer, and unforgettable.",
+    "img": "https://static.toiimg.com/photo/msid-127977454,imgsize-41882.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/hollywood-actors-who-appeared-in-michael-jackson-music-videos/photostory/127977454.cms",
+    "time": "2026-02-06T07:50:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Played through flu &amp; fever’: Coach reveals after Mandhana leads RCB to WPL glory",
+    "desc": "Royal Challengers Bengaluru clinched their second WPL title with a stunning chase, powered by captain Smriti Mandhana's incredible 87. Despite battling a severe flu and high fever, Mandhana's match-winning knock, alongside Georgia Voll's 79, guided RCB to a record-breaking 204-run victory over Delhi Capitals. Coach Malolan Rangarajan lauded her exceptional performance and leadership.",
+    "img": "https://static.toiimg.com/photo/msid-127976653,imgsize-100470.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/played-through-massive-flu-coach-reveals-after-smriti-mandhanas-heroic-87-powers-rcb-to-wpl-glory/articleshow/127976651.cms",
+    "time": "2026-02-06T07:34:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Habit of repeating false things': Kharge targets PM Modi over RS speech; cites Naravane 'memoir' in fresh salvo",
+    "desc": "Congress president Mallikarjun Kharge criticized Prime Minister Narendra Modi and the Union government for denying facts surrounding former Army chief General MM Naravane’s memoir. Kharge accused the government of evading questions on national security and China, leading to an Opposition walkout from Rajya Sabha.",
+    "img": "https://static.toiimg.com/photo/msid-127975785,imgsize-771845.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/habit-of-repeating-false-things-kharge-targets-pm-modi-over-rs-speech-cites-naravane-memoir-in-fresh-salvo/articleshow/127975723.cms",
+    "time": "2026-02-06T07:26:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Did Ranveer ask for 3 vanity vans on Dhurandhar set? Find out",
+    "desc": "Recent rumors claiming Ranveer Singh insisted on having three vanity vans for his role in 'Dhurandhar' have been put to rest. Sources have clarified that the mention of three vehicles actually pertains to one vanity van and two vehicles for transport, aimed at accommodating the star and his team during the film's shoot in Bangkok.",
+    "img": "https://static.toiimg.com/photo/msid-127975802,imgsize-44948.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-ranveer-singh-ask-for-three-vanity-vans-on-dhurandhar-set-heres-the-truth-behind-the-viral-screenshot/articleshow/127975802.cms",
+    "time": "2026-02-06T07:17:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mark Ruffalo calls out Kevin O’Leary on Billie Eilish comment",
+    "desc": "Billie Eilish faced backlash for her Grammy speech about 'stolen land,' sparking debate. Actor Mark Ruffalo publicly defended her, criticizing businessman Kevin O'Leary's remarks. O'Leary had advised celebrities to 'shut your mouth and just entertain.' Ruffalo's defense highlights the ongoing discussion surrounding celebrity activism and public opinion.",
+    "img": "https://static.toiimg.com/photo/msid-127974921,imgsize-38694.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mark-ruffalo-takes-a-stand-for-billie-eilish-tells-kevin-oleary-to-stfu-its-hilarious-after-stolen-land-comment/articleshow/127974921.cms",
+    "time": "2026-02-06T07:02:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Documents on anti-Hindi agitation wiped out on Bhaktavatsalam’s order",
+    "desc": "On February 24, 1967, a month before losing power to the DMK, the last Congress Chief Minister ordered the Public Department to destroy records on the anti-Hindi agitation that rocked the State. After assuming office, Annadurai sought an explanation from the Chief Secretary and wanted to know whether the papers could be reconstructed",
+    "img": "https://th-i.thgim.com/public/incoming/oh7g3w/article70597205.ece/alternates/LANDSCAPE_1200/hindi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/documents-on-anti-hindi-agitation-wiped-out-on-bhaktavatsalamsorder/article70595163.ece",
+    "time": "2026-02-06T06:54:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Elizabeth Debicki says working with Brad Pitt was a ‘joy’",
+    "desc": "Elizabeth Debicki shared her enthusiasm after wrapping up her scenes for 'The Adventures of Cliff Booth,' the much-anticipated follow-up to 'Once Upon a Time in Hollywood.' She called the entire filming process a 'joyful dream,' especially savoring the moments spent with Brad Pitt and acclaimed director David Fincher.",
+    "img": "https://static.toiimg.com/photo/msid-127974958,imgsize-560000.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/elizabeth-debicki-calls-the-adventures-of-cliff-booth-a-dream-says-working-with-brad-pitt-was-a-joy/articleshow/127974958.cms",
+    "time": "2026-02-06T06:54:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vishal joins Aneet, shoot to begin soon",
+    "desc": "Vishal Jethwa, after earning praise for Homebound, is set to star opposite Aneet Padda in Shakti Shalini, a female-led action drama blending emotion and intensity. The film, in pre-production, explores themes of courage and empowerment, and will begin shooting next month, creating strong buzz for its scale and story.",
+    "img": "https://static.toiimg.com/photo/msid-127974993,imgsize-14766.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shakti-shalini-homebound-star-vishal-jethwa-joins-aneet-padda-shoot-to-begin-next-month-reports/articleshow/127974993.cms",
+    "time": "2026-02-06T06:53:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Will European wine finally get cheaper in India? Inside the EU–India trade deal",
+    "desc": "As import duties ease under the long-awaited EU–India trade deal, wine producers and importers weigh in. With India’s complex state taxes, currency volatility and long timelines, how long will it take for your wine to get cheaper?",
+    "img": "https://th-i.thgim.com/public/life-and-style/fashion/4vllcf/article70581916.ece/alternates/LANDSCAPE_1200/iStock-2207200692.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/life-and-style/will-european-wine-finally-get-cheaper-in-india-inside-the-euindia-trade-deal/article70581847.ece",
+    "time": "2026-02-06T06:49:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Actress arrested in Chennai drug case",
+    "desc": "Actress Anju Krishna, known for her work in Tamil and Malayalam cinema, was recently apprehended in Chennai. Authorities arrested her along with eight others in Valasaravakkam following a raid that reportedly uncovered methamphetamine and ganja. The Anti-Narcotics Intelligence Unit seized various substances and mobile phones, initiating further investigations into the group.",
+    "img": "https://static.toiimg.com/photo/msid-127974427,imgsize-36570.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/who-is-anju-krishna-all-you-need-to-know-about-the-tamilmalayalam-film-actress-arrested-in-chennai-drug-case/articleshow/127974427.cms",
+    "time": "2026-02-06T06:47:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shivam Dube",
+    "desc": "Shivam Dube’s role is probably India’s first true specialist in T20 cricket, someone whose primary job is to dismantle spinners in the middle overs. So far, he has performed that role to perfection, and not just against spin; he is now pulling fast bowlers into the stands as well. He has worked tirelessly on his bowling and has also fixed his issues against short-pitched deliveries.",
+    "img": "https://static.toiimg.com/photo/msid-127974268,imgsize-76854.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-shivam-dube-a-gladiator-with-a-bat-in-his-hands/articleshow/127974207.cms",
+    "time": "2026-02-06T06:46:22.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "SS Rajamouli reveals Ramayana link in 'Varanasi'",
     "desc": "Director SS Rajamouli's upcoming epic, 'Varanasi', slated for April 7, 2027, draws heavily from the Ramayana. Rajamouli assures audiences that understanding the ancient text isn't necessary, as the film's emotional core will make the narrative accessible. This ambitious project, reportedly filmed in IMAX, promises a compelling cinematic experience rooted in mythology.",
@@ -16,6 +214,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/pariksha-pe-charcha-2026-pm-modi-urges-students-to-focus-on-skills-stress-free-learningtop-quotes/articleshow/127974194.cms",
     "time": "2026-02-06T06:37:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay Kumar on ‘Landlord’ and the need for an Ambedkarite movement in Kannada cinema",
+    "desc": "After facing a series of setbacks, actor Vijay Kumar has reinvented himself as a director, scoring hits with ‘Salaga’ and ‘Bheema’. Now, with ‘Landlord’, he aims to spark an Ambedkarite movement, tackling themes like equality and justice",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/r17zxw/article70595440.ece/alternates/LANDSCAPE_1200/Duniya%20VIjay.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/duniya-vijay-landlord-vijay-kumar-br-ambedkar-jai-bhim-raj-b-shetty-kannada-movie-jadeshaa-k-hampi/article70595433.ece",
+    "time": "2026-02-06T06:29:25.000Z"
   },
   {
     "cat": "Sports",
@@ -37,12 +244,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "WPL-4 Final: Smriti-Voll blitz powers RCB to second crown, DC falters in yet another final",
+    "title": "WPL-4 final: Smriti-Voll blitz powers RCB to second crown, DC falters in yet another final",
     "desc": "The two put on a record 165 for the second wicket as the Bengaluru side chases down 204 in a thrilling finish; the Delhi outfit comes second best in a final for the fourth successive time",
     "img": "https://th-i.thgim.com/public/incoming/otwe8h/article70598969.ece/alternates/LANDSCAPE_1200/VIS_1714.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/wpl-final-delhi-capitals-royal-challenger-bengaluru-smriti-mandhana-jemimah-rodrigues-updates/article70596391.ece",
-    "time": "2026-02-06T06:20:46.000Z"
+    "time": "2026-02-06T06:22:57.000Z"
   },
   {
     "cat": "Sports",
@@ -144,24 +351,6 @@ const newsData_en = [
     "time": "2026-02-06T05:33:14.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "How Brad Pitt built USD 400 million empire",
-    "desc": "Hollywood icon Brad Pitt's immense success translates to a staggering USD 400 million net worth, built not just from acting but also producing and lucrative endorsements. His career earnings have soared from a modest USD 6,000 in 1991 to commanding USD 35 million for recent projects, showcasing his enduring financial power and impressive real estate holdings.",
-    "img": "https://static.toiimg.com/photo/msid-127971533,imgsize-374110.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitts-net-worth-how-hollywoods-golden-boy-built-a-usd-400-million-empire/articleshow/127971533.cms",
-    "time": "2026-02-06T05:31:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranbir reveals travel plans with Raha to Japan ahead of Animal release",
-    "desc": "Ranbir Kapoor and Sandeep Reddy Vanga discussed ‘Animal Park’ ahead of ‘Animal’s Japan release on Feb 13. Kapoor can’t wait to reprise dual roles of Rannvijay and Aziz, with filming eyed for mid-2027. He credits Vanga’s faith for tackling the “scary” part, shares Raj Kapoor-Japan ties, and recaps the hit film’s violent family saga.",
-    "img": "https://static.toiimg.com/photo/msid-127971171,imgsize-23022.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-credits-raj-kapoor-reveals-travel-plans-with-raha-ahead-of-animal-release-i-cannot-wait-to-show-japan-to-her/articleshow/127971171.cms",
-    "time": "2026-02-06T05:29:39.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Bengaluru police want to tow your vehicle, but where is the place to park them?",
     "desc": "A senior officer from the Northeast division told The Hindu that they now have no option but to park all seized vehicles within police station premises, creating a new challenge in managing space around the stations",
@@ -189,15 +378,6 @@ const newsData_en = [
     "time": "2026-02-06T05:28:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Episode 4 of 'A Knight of the Seven Kingdoms' streams early this week",
-    "desc": "Episode 4 of 'A Knight of the Seven Kingdoms,' titled 'Seven,' has been moved to Friday, February 6, 2026, to avoid the Super Bowl. This earlier release on Max and Sky Atlantic allows fans to enjoy the adventures of Ser Duncan the Tall and Egg before the major sporting event.",
-    "img": "https://static.toiimg.com/photo/msid-127971431,imgsize-755793.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/a-knight-of-the-seven-kingdoms-episode-4-streaming-early-release-times-and-details/articleshow/127971439.cms",
-    "time": "2026-02-06T05:27:28.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Organ donation in Kerala gains traction",
     "desc": "Organ donation from live donors and harvested from brain-dead patients is often mired in controversies and misconceptions. Aathira Haridas meets some of the organ recipients and donors to understand the complex emotional and medical aspects of the life-saving process, which is slowly gaining ground in the State",
@@ -205,15 +385,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/transplanted-lives-organ-donation-in-kerala-gains-traction/article70590879.ece",
     "time": "2026-02-06T05:25:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Malayalam actor Maniyanpilla Raju involved in a hit-and-run",
-    "desc": "Malayalam actor Maniyanpilla Raju is reportedly involved in a hit-and-run incident in Thiruvananthapuram. His car allegedly struck a two-wheeler on Thursday night, injuring two young men who are now hospitalized. Police are investigating, having identified the vehicle through a dislodged number plate and registered a case under relevant sections of the law.",
-    "img": "https://static.toiimg.com/photo/msid-127971215,imgsize-55714.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/malayalam-actor-maniyanpilla-raju-involved-in-a-hit-and-run-two-youths-injured-reports/articleshow/127971215.cms",
-    "time": "2026-02-06T05:24:59.000Z"
   },
   {
     "cat": "Entertainment",
@@ -261,15 +432,6 @@ const newsData_en = [
     "time": "2026-02-06T04:55:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Documents on anti-Hindi agitation wiped out on  Bhaktavatsalam’s order",
-    "desc": "On February 24, 1967, a month before losing power to the DMK, the last Congress Chief Minister ordered the Public Department to destroy records on the anti-Hindi agitation that rocked the State. After assuming office, Annadurai sought an explanation from the Chief Secretary and wanted to know whether the papers could be reconstructed",
-    "img": "https://th-i.thgim.com/public/incoming/oh7g3w/article70597205.ece/alternates/LANDSCAPE_1200/hindi.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/documents-on-anti-hindi-agitation-wiped-out-on-bhaktavatsalamsorder/article70595163.ece",
-    "time": "2026-02-06T04:50:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India’s mantra for U-19 World Cup final",
     "desc": "India's U-19 team approaches the World Cup final against England with remarkable composure, prioritizing clarity and role execution over grand strategies. Centurion Aaron George emphasizes a neutral approach, focusing on the next ball rather than external pressure.",
@@ -306,24 +468,6 @@ const newsData_en = [
     "time": "2026-02-06T04:23:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Hero Fiennes Tiffin in 'Young Sherlock' trailer",
-    "desc": "Hero Fiennes Tiffin embodies a young, action-packed Sherlock Holmes in Guy Ritchie's new series, 'Young Sherlock'. The eight-part show, premiering March 4, 2026, plunges into the detective's early, turbulent years, uncovering a globe-trotting conspiracy. This bold reimagining promises an irreverent mystery, setting the stage for the legendary Baker Street resident.",
-    "img": "https://static.toiimg.com/photo/msid-127967441,imgsize-57884.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/young-sherlock-trailer-hero-fiennes-tiffin-turns-crime-solving-detective-in-guy-ritchies-origins-series/articleshow/127966512.cms",
-    "time": "2026-02-06T04:10:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Powerful movies based on Dalai Lama's life lesson",
-    "desc": "​Few people carry a story quite like the 14th Dalai Lama, Tenzin Gyatso, whose quiet strength has touched hearts worldwide through the years. From a simple farm boy in Tibet to a Nobel Peace Prize winner in exile, his life feels like something out of a legend. Filmmakers keep coming back to it, drawn to the raw mix of childlike wonder, deep faith, and a fight for freedom that never turns bitter. All of his movies, based on his various teachings, are a living testament to his grit and determination for freedom.​",
-    "img": "https://static.toiimg.com/photo/msid-127968598,imgsize-392157.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/epic-movies-based-on-dalai-lamas-life-teachings-from-kundun-to-never-forget-tibet/photostory/127968598.cms",
-    "time": "2026-02-06T04:07:23.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran, U.S. set for talks in Oman over nuclear programme after Tehran shaken by nationwide protests",
     "desc": "The two countries have returned to Oman, a sultanate on the eastern edge of the Arabian Peninsula, months after rounds of meetings turned to ash following Israel's launch of a 12-day war against Iran back in June",
@@ -331,33 +475,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-us-nuclear-programme-talks-in-oman/article70598554.ece",
     "time": "2026-02-06T04:02:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kristen Stewart reveals Princess Diana has never left her life",
-    "desc": "Kristen Stewart reveals Princess Diana's enduring presence in her life, even years after portraying her in 'Spencer'. The actress shared that navigating cities once central to Diana's story evokes profound emotional connections, admitting she can still be moved to tears by the late royal's spirit and the immense pressure she faced from fame.",
-    "img": "https://static.toiimg.com/photo/msid-127967996,imgsize-472245.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kristen-stewart-reveals-princess-diana-still-haunts-her-years-after-spencer-i-can-cry-about-her-at-any-moment/articleshow/127967940.cms",
-    "time": "2026-02-06T03:48:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Savannah Guthrie's family is still ‘waiting for contact'",
-    "desc": "The family of journalist Savannah Guthrie is desperately seeking contact with those holding their missing 84-year-old mother, Nancy. Her brother, Camron, released a video pleading for communication, emphasizing they need to confirm her safety. Authorities have arrested an imposter attempting to exploit the situation, while the FBI investigates a ransom note.",
-    "img": "https://static.toiimg.com/photo/msid-127967422,imgsize-972203.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/tv/news/english/savannah-guthries-brother-says-theyre-still-waiting-for-contact-with-possible-abductors-of-their-mother-nancy-guthrie/articleshow/127967422.cms",
-    "time": "2026-02-06T03:30:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranbir Kapoor reveals he was 'SCARED' to accept 'Animal'",
-    "desc": "In an intriguing turn of events, Ranbir Kapoor opened up about his initial trepidation in embodying the 'protective, volatile, and deeply emotional' persona in 'Animal,' a unique challenge in his illustrious career. With director Sandeep Reddy Vanga's unwavering support, his fears quickly dissipated. Read the full article to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-127967132,imgsize-18342.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/animal-ranbir-kapoor-reveals-he-was-scared-to-give-his-nod-for-the-film-says-found-the-character-extremely/articleshow/127967132.cms",
-    "time": "2026-02-06T03:22:17.000Z"
   },
   {
     "cat": "Business",
@@ -378,15 +495,6 @@ const newsData_en = [
     "time": "2026-02-06T03:20:30.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Channing Tatum undergoes shoulder surgery",
-    "desc": "In a heartfelt update, Hollywood A-lister Channing Tatum revealed he recently faced major shoulder surgery. Sharing X-ray images and a snapshot from his hospital bed, he humorously dubbed his situation as \"Seperated Shoulder\" and \"Screwed Shoulder, Yay.\" Undeterred by the setback, Tatum's optimism shines through, drawing an avalanche of support from his dedicated fans and celebrity peers.",
-    "img": "https://static.toiimg.com/photo/msid-127966310,imgsize-40660.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/channing-tatum-shares-health-update-post-surgery-just-another-day-another-challenge/articleshow/127966310.cms",
-    "time": "2026-02-06T03:00:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘She has gone through a lot’: Patil dedicates RCB’s WPL triumph to Mandhana",
     "desc": "Royal Challengers Bengaluru secured their second Women's Premier League championship. They defeated Delhi Capitals in a thrilling final on Thursday. Captain Smriti Mandhana played a pivotal role with a remarkable innings. This victory marks a significant achievement for the team. The win also holds personal significance for the captain and the team.",
@@ -394,33 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/she-has-gone-through-a-lot-shreyanka-patil-dedicates-rcbs-wpl-triumph-to-smriti-mandhana/articleshow/127966006.cms",
     "time": "2026-02-06T02:52:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bieber parties with mystery girls in UNSEEN video",
-    "desc": "Justin and Hailey Bieber's separate exits from a Grammy after-party sparked social media buzz, fueling marriage rumors. While the couple arrived together, videos showed Hailey leaving alone, reportedly to care for their son, and Justin departing later with friends. This follows Bieber's headline-grabbing performance in silk boxers.",
-    "img": "https://static.toiimg.com/photo/msid-127965949,imgsize-60502.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/justin-bieber-parties-with-mystery-girls-in-unseenvideo-hailey-bieber-heads-home-alone-watch/articleshow/127964270.cms",
-    "time": "2026-02-06T02:48:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rebecca Ferguson's rare confession on early motherhood",
-    "desc": "Actress Rebecca Ferguson candidly revealed the profound impact of becoming a mother at 23, describing it as being \"thrown into the deep end.\" She emphasized her lifelong commitment to financial independence and self-reliance, a principle that has guided her demanding Hollywood career.",
-    "img": "https://static.toiimg.com/photo/msid-127965743,imgsize-714217.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rebecca-ferguson-makes-rare-confession-on-early-motherhood-says-i-was-thrown-into-the-deep-end/articleshow/127965743.cms",
-    "time": "2026-02-06T02:43:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nancy Guthrie’s disappearance: What we know so far?",
-    "desc": "a vibrant retired teacher, full of faith and family stories, simply vanishing from her quiet Tucson, Arizona home. Church friends grew worried on February 1, 2026, when Nancy missed her Sunday service, a routine she never skipped. They called for a welfare check, and what deputies found chilled everyone: an empty house, signs of a struggle, and no trace of the woman who meant the world to her ‘Today’ show co-anchor daughter. Pima County Sheriff Chris Nanos laid out the haunting timeline on February 5, pulling from doorbell footage, smart device data, and witness accounts during a tense press conference alongside FBI agents.",
-    "img": "https://static.toiimg.com/photo/msid-127964213,imgsize-815416.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/tv/news/english/savannah-guthries-mother-nancy-guthries-disappearance-timeline-breakdown-with-key-events-and-critical-moments/photostory/127964213.cms",
-    "time": "2026-02-06T02:40:00.000Z"
   },
   {
     "cat": "Politics",
@@ -565,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/autonomy-pact-inked-for-6-nagaland-districts/articleshow/127960036.cms",
     "time": "2026-02-05T23:04:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NCLT recalls order awarding Alchemist to ‘sister concern’",
-    "desc": "The withdrawal of the corporate resolution order by NCLT, a rare occurrence, happened after Enforcement Directorate approached the Delhi bench with evidence of money laundering by the group and how the promoters had allegedly created a front entity with “proceeds of crime”, making it a financial creditor with 97% voting rights to grab the firm under insolvency proceedings.",
-    "img": "https://static.toiimg.com/photo/msid-127960064,imgsize-36440.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nclt-recalls-order-awarding-alchemist-to-sister-concern/articleshow/127960106.cms",
-    "time": "2026-02-05T23:04:16.000Z"
   },
   {
     "cat": "Politics",
@@ -738,15 +810,6 @@ const newsData_en = [
     "time": "2026-02-05T17:22:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Congress takes out march to condemn Union government for diluting MGNREGA",
-    "desc": "While speaking at a meeting, TNCC president K. Selvaperunthagai says leaders, including Leader of the Opposition in the Lok Sabha Rahul Gandhi and Congress president Mallikarjun Kharge, have expressed concerns about the dilution of MGNREGA, both inside and outside Parliament",
-    "img": "https://th-i.thgim.com/public/incoming/g3xjcv/article70596581.ece/alternates/LANDSCAPE_1200/9217_5_2_2026_19_13_10_1_IMG_20260205_191203.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/congress-takes-out-march-to-condemn-union-government-for-diluting-mgnrega/article70596280.ece",
-    "time": "2026-02-05T17:10:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "SLC writes to PCB after Pakistan’s stand of boycotting India fixture in Colombo",
     "desc": "Sri Lanka Cricket has written to the Pakistan Cricket Board urging it to reconsider Pakistan’s decision to boycott the T20 World Cup match against India in Colombo, warning of major financial losses and damage to tourism. Invoking Sri Lanka’s tours of Pakistan despite grave security threats, including the 2009 convoy attack, SLC appealed for reciprocity in the broader interests of the game.",
@@ -754,15 +817,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-slc-writes-to-pcb-after-pakistans-stand-of-boycotting-india-fixture-in-colombo/articleshow/127945511.cms",
     "time": "2026-02-05T16:43:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "After injury layoff, Sumit Nagal gears up for crucial Davis Cup challenge",
-    "desc": "India's top tennis player, Sumit Nagal, is back on court and pushing his limits after a hip tear. He's undergoing rigorous practice sessions in Bengaluru, aiming for full fitness ahead of the crucial Davis Cup tie against the Netherlands. Nagal expressed confidence in his recovery and readiness to compete at 100%.",
-    "img": "https://static.toiimg.com/photo/msid-127944288,imgsize-116962.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/after-injury-layoff-sumit-nagal-gears-up-for-crucial-davis-cup-challenge/articleshow/127944278.cms",
-    "time": "2026-02-05T16:05:58.000Z"
   },
   {
     "cat": "Sports",
@@ -781,15 +835,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/karnataka/shrinking-shock-absorbers-of-bannerghatta-national-park-in-bengaluru/article70583970.ece",
     "time": "2026-02-05T13:47:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Indian-origin captains at the T20 World Cup 2026",
-    "desc": "As India co-hosts the T20 World Cup 2026, several associate nations will feature captains of Indian origin, adding a unique narrative. Players like Monank Patel (USA), Dilpreet Bajwa (Canada), and Jatinder Singh (Oman) lead their teams, showcasing the global reach of cricket and their ambition to challenge established powers on the world stage.",
-    "img": "https://static.toiimg.com/photo/msid-127938861,imgsize-1157984.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/beyond-the-tricolour-indian-origin-captains-at-the-t20-world-cup-2026/articleshow/127938313.cms",
-    "time": "2026-02-05T13:46:08.000Z"
   },
   {
     "cat": "World",
@@ -811,39 +856,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Vijay Kumar on ‘Landlord’ and the need for an Ambedkarite movement in Kannada cinema",
-    "desc": "After facing a series of setbacks, actor Vijay Kumar has reinvented himself as a director, scoring hits with ‘Salaga’ and ‘Bheema’. Now, with ‘Landlord’, he aims to spark an Ambedkarite movement, tackling themes like equality and justice",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/r17zxw/article70595440.ece/alternates/LANDSCAPE_1200/Duniya%20VIjay.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/duniya-vijay-landlord-vijay-kumar-br-ambedkar-jai-bhim-raj-b-shetty-kannada-movie-jadeshaa-k-hampi/article70595433.ece",
-    "time": "2026-02-05T11:44:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Will European wine finally get cheaper in India? Inside the EU–India trade deal",
-    "desc": "As import duties ease under the long-awaited EU–India trade deal, wine producers and importers weigh in. With India’s complex state taxes, currency volatility and long timelines, how long will it take for your wine to get cheaper?",
-    "img": "https://th-i.thgim.com/public/life-and-style/fashion/4vllcf/article70581916.ece/alternates/LANDSCAPE_1200/iStock-2207200692.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/life-and-style/will-european-wine-finally-get-cheaper-in-india-inside-the-euindia-trade-deal/article70581847.ece",
-    "time": "2026-02-05T11:38:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Fans thrilled as Kaikini shares words of wisdom with a touch of humour",
     "desc": "Writer Jayant Kaikini spoke at the 17th Bengaluru International Film Festival, serving up a mix of laughs and wisdom. He opened up about the quirky challenges of writing love songs and what it really means to tell a story on screen",
     "img": "https://th-i.thgim.com/public/incoming/rxm7mq/article70593159.ece/alternates/LANDSCAPE_1200/_JAI4152.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/biffes-2026-fans-thrilled-as-kaikini-shares-words-of-wisdom-with-a-touch-of-humour/article70592082.ece",
     "time": "2026-02-05T11:34:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "SC grants relief to Anurag Thakur, free to participate in BCCI affairs",
-    "desc": "The Supreme Court has granted relief to former BCCI chief Anurag Thakur, potentially paving his return to cricket administration. The court modified a 2017 order that barred him from BCCI affairs, acknowledging the ban's lengthy duration. This decision follows Thakur's plea for modification, aiming to lift the nine-year restriction.",
-    "img": "https://static.toiimg.com/photo/msid-127933261,imgsize-57430.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/supreme-court-paves-way-for-anurag-thakur-to-return-to-cricket-administration/articleshow/127933057.cms",
-    "time": "2026-02-05T11:26:59.000Z"
   },
   {
     "cat": "Business",
@@ -865,15 +883,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Gambhir visits Siddhivinayak, seeks blessings ahead of T20 World Cup",
-    "desc": "Ahead of their T20 World Cup title defense, head coach Gautam Gambhir and batting coach Sitanshu Kotak sought blessings at the Shree Siddhivinayak Temple. India, led by Suryakumar Yadav, enters the tournament as strong favorites, aiming to become the first team to successfully defend the men's T20 World Cup title.",
-    "img": "https://static.toiimg.com/photo/msid-127930143,imgsize-322062.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/gautam-gambhir-visits-siddhivinayak-seeks-blessings-ahead-of-indias-t20-world-cup-title-defence/articleshow/127930146.cms",
-    "time": "2026-02-05T10:06:56.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Pakistan captain Salman Ali Agha on India match",
     "desc": "Pakistan captain Salman Ali Agha reiterated that the decision to skip the India match at the T20 World Cup rests entirely with the Pakistani government. While acknowledging fans will miss the marquee clash, Agha stressed the team’s focus is on the remaining group games.",
     "img": "https://static.toiimg.com/photo/msid-127929184,imgsize-154298.cms",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-tribeny-rai-on-the-making-of-nepalese-film-shape-of-momo/article70595030.ece",
     "time": "2026-02-05T09:21:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Sentimental Value’, ‘Sirat’ and ‘Hamnet’ headline Red Lorry Film Festival’s international showcase",
-    "desc": "Fresh from major Oscar and BAFTA recognition, Sentimental Value, Sirat and Hamnet will lead the Red Lorry Film Festival’s Global Awards Showcase, bringing some of the most acclaimed international films of the year to Mumbai in March 2026.",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/mmivym/article70594657.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/sentimental-value-sirat-and-hamnet-headline-red-lorry-film-festivals-international-showcase/article70594663.ece",
-    "time": "2026-02-05T06:36:52.000Z"
   }
 ];
