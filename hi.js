@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why is Fakhar Zaman not playing in PAK vs NED T20 World Cup 2026 match? Explained",
+    "desc": "Pakistan lock horns against the Netherlands to kick off the T20 World Cup 2026 as the two teams meet each other at the Sinhalese Sports Club, Colombo. Pakistan, the 2022 runners-up, are in Group A...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-fakhar-zaman-not-playing-in-pak-vs-ned-t20-world-cup-2026-match-explained-2026-02-07-1029251",
+    "time": "2026-02-07T05:50:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Netherlands stay strong in second half of first innings",
+    "desc": "The Netherlands were pegged back by Pakistan after the Dutch made a decent start in the first innings of their clash in the T20 World Cup 2026. The two teams face each other at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pak-vs-ned-t20-world-cup-2026-live-cricket-score-pakistan-vs-netherlands-sinhalese-sports-club-colombo-latest-match-updates-scorecard-teams-playing-xi-2026-02-07-1029243",
+    "time": "2026-02-07T04:44:33.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When and where to watch tournament opener in India?",
     "desc": "Pakistan and the Netherlands will bring the T20 World Cup 2026 to life as the two face each other in the tournament opener at the Sinhalese Sports Club, Colombo. The World Cup 2026 promises a...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/president-murmu-pm-modi-to-virat-kohli-prominent-figures-congratulate-india-for-u19-world-cup-success-2026-02-06-1029214",
     "time": "2026-02-06T17:25:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PAK vs NED, Colombo, weather report: Will rain play spoilsport in T20 World Cup opener?",
-    "desc": "The 2026 edition of the T20 World Cup will kick off on February 7 with Pakistan taking onthe Netherlands at the Sinhalese Sports Club in Colombo. Leading to the marquee competition, the Salman Agha-led side...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pak-vs-ned-colombo-weather-report-will-rain-play-spoilsport-in-t20-world-cup-opener-2026-02-06-1029209",
-    "time": "2026-02-06T16:08:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohammed Siraj replaces Harshit Rana in India's T20 World Cup squad",
-    "desc": "India pacer Harshit Rana has been ruled out of the T20 World Cup 2026. The Board of Control for Cricket in India (BCCI) has confirmed that the youngster has picked up a knee injury in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammed-siraj-replaces-harshit-rana-in-india-s-t20-world-cup-squad-2026-02-06-1029208",
-    "time": "2026-02-06T15:55:38.000Z"
   }
 ];

@@ -1,5 +1,185 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Ayesha REACTS to comparisons with Nora and Tamannaah",
+    "desc": "After Dhurandhar’s success, Ayesha Khan opened up about her journey and addressed comparisons with Nora Fatehi and Tamannaah Bhatia. She praised Nora’s stage energy and admired Tamannaah’s inspiring career. Ayesha also dismissed rumours about differences with her Shararat co-star Krystle D’Souza, confirming they share a cordial relationship.",
+    "img": "https://static.toiimg.com/photo/msid-128022591,imgsize-33340.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ayesha-khan-reacts-to-comparisons-with-nora-fatehi-and-tamannaah-bhatia-i-could-never-do-what-/articleshow/128022591.cms",
+    "time": "2026-02-07T06:12:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Deepa Nayar on quitting after ‘Priyam’",
+    "desc": "Once a prominent face in Malayalam cinema thanks to her role in 'Priyam', Deepa Nayar has opened up about her decision to step away from the limelight. After her memorable debut in 2000, she chose to prioritize her engineering studies over early acting roles.",
+    "img": "https://static.toiimg.com/photo/msid-128022528,imgsize-39470.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/deepa-nayar-breaks-silence-on-quitting-movies-after-priyam-says-if-i-were-to-explain-what-happened/articleshow/128022528.cms",
+    "time": "2026-02-07T06:09:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli, Rohit Sharma may be moved to Grade B",
+    "desc": "Jasprit Bumrah, Shubman Gill, and Ravindra Jadeja are the only players to receive Grade A central contracts for 2025-26. Virat Kohli and Rohit Sharma, now playing only ODIs, have been moved to Grade B. The BCCI has also announced contracts for 30 male and 22 female players, with Jemimah Rodrigues promoted to Grade A in the women's category.",
+    "img": "https://static.toiimg.com/photo/msid-128022456,imgsize-55068.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-contracts-virat-kohli-rohit-sharma-may-be-moved-to-grade-b/articleshow/128022469.cms",
+    "time": "2026-02-07T06:06:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'TTT' OTT release: Jiiva’s comedy drama to stream on THIS date",
+    "desc": "Following its theatrical success during Pongal, 'Thalaivar Thambi Thalaimaiyil' is set for an OTT release on Netflix on February 12. The film, starring Jiiva as a village panchayat leader, captivated audiences with its simple village humor and engaging characters.",
+    "img": "https://static.toiimg.com/photo/msid-128022360,imgsize-64284.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalaivar-thambi-thalaimaiyil-ott-release-jiivas-comedy-drama-to-stream-on-this-date/articleshow/128022360.cms",
+    "time": "2026-02-07T06:05:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-US trade deal: Read full text of joint statement",
+    "desc": "India and the US have inked a landmark trade pact, slashing tariffs on Indian goods entering America from 50% to 18%. This agreement, following months of talks, will boost Indian exports like textiles and apparel, while India will reduce duties on US industrial and farm products. Both nations commit to further market access and supply chain resilience.",
+    "img": "https://static.toiimg.com/photo/msid-128022299,imgsize-32894.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-read-full-text-of-joint-statement/articleshow/128021368.cms",
+    "time": "2026-02-07T06:01:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ola, Uber and other app-based taxi drivers to hold day-long strike – all you need to know",
+    "desc": "App-based transport workers nationwide protested on February 7, demanding fair incomes and protection against exploitation. Unions cited falling earnings and rising costs, urging governments to implement minimum base fares as mandated by 2025 guidelines. The strike highlighted concerns over unilateral pricing by platforms and financial burdens from device changes, with workers seeking statutory protections.",
+    "img": "https://static.toiimg.com/photo/msid-128022205,imgsize-48224.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ola-uber-and-other-app-based-taxi-drivers-to-hold-day-long-strike-all-you-need-to-know/articleshow/128021472.cms",
+    "time": "2026-02-07T06:00:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Dost dost na raha': Congress takes filmy jibe at India-US trade deal; poses 5 questions",
+    "desc": "Congress MP Jairam Ramesh criticized the recent India-US trade framework, alleging it benefits American farmers at India's expense and includes a commitment to stop Russian oil imports. He questioned the value of \"photo-ops\" given the perceived lack of substantial benefits for India in the deal.",
+    "img": "https://static.toiimg.com/photo/msid-128022225,imgsize-1026192.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/dost-dost-na-raha-congress-takes-filmy-jibe-at-india-us-trade-deal-poses-5-questions/articleshow/128022143.cms",
+    "time": "2026-02-07T05:58:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Timothy Busfield indicted on child sexual abuse charges again",
+    "desc": "Timothy Busfield, the seasoned actor known for his roles in acclaimed television shows, has been reindicted on four charges of child sexual abuse, just two weeks post-release from jail. The allegations stem from incidents on the set of 'The Cleaning Lady', where he stands accused of inappropriate behavior towards young boys.",
+    "img": "https://static.toiimg.com/photo/msid-128022088,imgsize-26314.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/timothy-busfield-indicted-on-child-sexual-abuse-charges-again-report-comes-2-weeks-after-actor-was-released-from-jail/articleshow/128022088.cms",
+    "time": "2026-02-07T05:57:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Upcoming OTT releases for this week",
+    "desc": "​As streaming platforms gear up for another exciting week, viewers in India can look forward to a diverse mix of thrillers, horror, and legal dramas arriving this February. This lineup features English picks, Hindi offerings, and two South Indian gems across.​",
+    "img": "https://static.toiimg.com/photo/msid-128021757,imgsize-554656.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/upcoming-ott-releases-for-this-week-kohrra-season-2-the-lincoln-lawyer-season-4-and-more/photostory/128021757.cms",
+    "time": "2026-02-07T05:41:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Some athletes skip Milan's opening ceremony and march in the mountains",
+    "desc": "While signs bearing the names of Greece, Albania, Andorra, Saudi Arabia and Argentina were carried into the home of Serie A soccer titans AC Milan and Inter Milan, there were no athletes from those places around",
+    "img": "https://th-i.thgim.com/public/incoming/rsdgdd/article70602850.ece/alternates/LANDSCAPE_1200/AP02_07_2026_000004A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/2026-winter-olympics-some-athletes-skip-milans-opening-ceremony-and-march-in-the-mountains/article70602845.ece",
+    "time": "2026-02-07T05:28:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-US trade deal: What it means for farmers, entrepreneurs and the ‘Make in India’ push",
+    "desc": "India and the US have finalized an interim trade agreement, significantly reducing tariffs on Indian imports to the US from 50% to 18%. This pact offers substantial market access, boosting the 'Make in India' initiative and creating numerous employment opportunities for youth and women. Key sectors like textiles, leather, and pharmaceuticals will benefit, while India's core agricultural interests remain protected.",
+    "img": "https://static.toiimg.com/photo/msid-128020876,imgsize-70292.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-what-it-means-for-farmers-entrepreneurs-and-the-make-in-india-push/articleshow/128018872.cms",
+    "time": "2026-02-07T05:10:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "The rise and fall of Kim Kardashian and Kanye West",
+    "desc": "In the whirlwind of celebrity news, Kim Kardashian has been linked romantically to F1 champion Lewis Hamilton, stirring up excitement among fans. Meanwhile, Kanye West's current wife, Bianca Censori, candidly shared that their marriage feels like 'performing CPR for months' as they deal with his ongoing issues.",
+    "img": "https://static.toiimg.com/photo/msid-128020908,imgsize-36262.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kim-kardashian-and-kanye-west-the-rise-and-fall-of-hollywoods-it-couple/articleshow/128020882.cms",
+    "time": "2026-02-07T05:08:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about Lil John’s son Nathan Smith, aka DJ Young Slade",
+    "desc": "American rapper Lil Jon is mourning the tragic loss of his 27-year-old son, Nathan Smith, also known as DJ Young Slade. Nathan was found deceased in a pond near his home, three days after being reported missing. While authorities suspect no foul play, the investigation remains active.",
+    "img": "https://static.toiimg.com/photo/msid-128020803,imgsize-58778.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/who-was-lil-johns-son-all-about-27-year-old-nathan-smith-aka-dj-young-slade/articleshow/128020803.cms",
+    "time": "2026-02-07T05:07:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "At 14, a boy embraces cricketing greatness",
+    "desc": "Fourteen-year-old Vaibhav Sooryavanshi has captured attention with his exceptional batting, drawing comparisons to cricketing legends. His coach highlights his \"time and space\" as key assets, developed through extensive practice and idolizing Brian Lara. While possessing immense talent and hunger, Sooryavanshi is still refining his defensive game and specific shots, with caution advised against rushing his development.",
+    "img": "https://static.toiimg.com/photo/msid-128020571,imgsize-50660.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/vaibhav-sooryavanshi-at-14-a-boy-embraces-cricketing-greatness/articleshow/128020597.cms",
+    "time": "2026-02-07T04:55:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Aim to deepen defence, security ties': PM Modi embarks on two-day visit to Malaysia",
+    "desc": "Prime Minister Narendra Modi is on a significant two-day visit to Malaysia to bolster defense, security, and economic ties. This trip aims to deepen the Comprehensive Strategic Partnership, with discussions focusing on defense cooperation, innovation, and new collaborative areas. PM Modi will also engage with the vibrant Indian diaspora in Kuala Lumpur.",
+    "img": "https://static.toiimg.com/photo/msid-128019617,imgsize-492573.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/aim-to-deepen-defence-security-ties-pm-modi-embarks-on-two-day-visit-to-malaysia/articleshow/128019585.cms",
+    "time": "2026-02-07T04:47:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Housemaid’ OTT release details",
+    "desc": "Sydney Sweeney's thriller 'The Housemaid' is now releasing on OTT for Indian audiences on platforms like Amazon Prime Video and Apple TV from February 12th. Based on Freida McFadden's novel, the film follows a housemaid uncovering dark secrets. A sequel, 'The Housemaid's Secret', has already been confirmed, promising more thrilling twists.",
+    "img": "https://static.toiimg.com/photo/msid-128020342,imgsize-36350.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-housemaid-ott-release-when-and-where-to-watch-sydney-sweeney-starrer-psychological-thriller/articleshow/128020342.cms",
+    "time": "2026-02-07T04:46:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Protestors call for ‘Ghooskhor Pandat’ release to be stopped",
+    "desc": "Protests have erupted nationwide against Neeraj Pandey's film 'Ghooskhor Pandat,' starring Manoj Bajpayee. Critics deem the title derogatory towards the Brahmin community. Demonstrators in multiple cities are demanding the film's ban and legal action against its creators, with effigies burned. An FIR has already been filed in Lucknow for allegedly hurting religious sentiments.",
+    "img": "https://static.toiimg.com/photo/msid-128020165,imgsize-26468.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ghooskhor-pandat-controversy-following-online-backlash-over-title-protestors-take-to-the-streets/articleshow/128020165.cms",
+    "time": "2026-02-07T04:39:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "IFS/IAS appointees can’t reappear for 2026 Civil Services exam; IPS can’t choose IPS again",
+    "desc": "New rules for the Civil Services Examination will regulate repeated attempts. Candidates appointed to IAS or IFS from CSE 2026 will not be allowed to reappear. Those appointed to IPS or Group A services can get one improvement attempt. The Union Public Service Commission is also adding more examination centres and prioritizing candidates with benchmark disabilities.",
+    "img": "https://static.toiimg.com/photo/msid-128020017,imgsize-658778.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ifs/ias-appointees-cant-reappear-for-2026-civil-services-exam-ips-cant-choose-ips-again/articleshow/128019955.cms",
+    "time": "2026-02-07T04:33:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "an ancient ritual steeped in social harmony",
+    "desc": "Happening uninterruptedly for the past six centuries, Paruveta Utsavam is a paragon of socio-religious unity and enduring traditions. The idol of Lord Narasimha is taken to every street and household in 33 villages and the God is believed to bless devotees irrespective of their caste and religion",
+    "img": "https://th-i.thgim.com/public/incoming/fshpn1/article70601026.ece/alternates/LANDSCAPE_1200/10215_4_2_2026_19_31_8_1_JWA_6709COPY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/paruveta-utsavam-an-ancient-ritual-steeped-in-social-harmony/article70599301.ece",
+    "time": "2026-02-07T04:31:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "opportunity knocks for India’s young hockey talent",
+    "desc": "The men’s team needs an injection of fresh blood in the run-up to the 2028 Olympics. The packed calendar in 2026 may prove a blessing in disguise — head coach Craig Fulton can use it as a base to experiment, giving lesser-known faces exposure, and trigger a smooth transition",
+    "img": "https://th-i.thgim.com/public/incoming/zax3pf/article70601669.ece/alternates/LANDSCAPE_1200/IMG_Amandeep_Lakra_2_1_PJDRDJP5.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/hockey/change-of-phase-opportunity-knocks-for-indias-young-hockey-talent/article70601666.ece",
+    "time": "2026-02-07T04:31:10.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "3 convicted in Hampi gang rape and murder case",
     "desc": "The case had drawn national and international attention following the brutal sexual assault on two women, including a foreign tourist, and the killing of an Indian male tourist near the UNESCO World Heritage Site in 2025",
@@ -34,6 +214,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/a-panchayat-dream-and-a-daughters-murder/article70600955.ece",
     "time": "2026-02-07T03:41:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-US trade deal: Which American products are about to get cheaper in India",
+    "desc": "India and the US have announced a framework for an interim trade agreement, which will see India reduce tariffs on various US food and agricultural products. This move aims to make American imports cheaper for Indian consumers and ease trade tensions. The agreement also includes reciprocal tariff reductions on Indian goods entering the US.",
+    "img": "https://static.toiimg.com/photo/msid-128018492,imgsize-70292.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-which-american-products-are-about-to-get-cheaper-in-india/articleshow/128017808.cms",
+    "time": "2026-02-07T03:41:06.000Z"
   },
   {
     "cat": "Business",
@@ -100,15 +289,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Elmo calls out Taylor Swift’s ‘Opalite’ video",
-    "desc": "In a surprising twist, Taylor Swift's latest music video for 'Opalite' has ignited a playful rivalry with none other than Elmo from Sesame Street. The iconic Muppet, known for his love of fun and friendship, took to social media to humorously point out a rock featured in Swift's video, drawing connections to his history with Zoe's pet rock, Rocco.",
-    "img": "https://static.toiimg.com/photo/msid-128017699,imgsize-39252.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/elmo-calls-out-taylor-swift-for-opalite-music-video-says-you-have-got-to-be-kidding/articleshow/128017699.cms",
-    "time": "2026-02-07T02:54:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Mariah Carey in million-dollar jewelry at 2026 Winter Olympics",
     "desc": "At the 2026 Winter Olympics opening ceremony in Milan, Mariah Carey enchanted viewers with both her stunning performance and her magnificent USD 15 million diamond jewelry collection. With a radiant 185-carat emerald-cut diamond necklace, an exquisite 55-carat bracelet, and sensational 66-carat drop earrings crafted by Levuma High Jewellery, she made an unforgettable fashion impression that left fans breathless.",
     "img": "https://static.toiimg.com/photo/msid-128017687,imgsize-39454.cms",
@@ -124,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/papa-pranaam-vaibhav-sooryavanshis-emotional-first-words-with-trophy-go-viral/articleshow/128017474.cms",
     "time": "2026-02-07T02:47:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "White House releases Joint Statement on India-U.S. interim trade deal",
-    "desc": "“India will eliminate or reduce tariffs on all U.S. industrial goods and a wide range of U.S. food and agricultural products, including dried distillers’ grains (DDGs), red sorghum for animal feed, tree nuts, fresh and processed fruit, soybean oil, wine and spirits, and additional products,” the statement said",
-    "img": "https://th-i.thgim.com/public/incoming/9cud1r/article70602602.ece/alternates/LANDSCAPE_1200/India_US_Tariffs_20860.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/us-india-interim-trade-agreement-joint-statement-white-house/article70601889.ece",
-    "time": "2026-02-07T02:25:27.000Z"
   },
   {
     "cat": "Politics",
@@ -151,78 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/team-india-form-guide-how-ready-are-defending-champions-india-for-t20-world-cup-title-defence-at-home/articleshow/128001783.cms",
     "time": "2026-02-07T02:14:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Spa' gets A certificate: Abrid Shine's film set for release",
-    "desc": "Director Abrid Shine's 'Spa' has received an 'A' certificate and is set for a February 12 release. Shine describes the film as a fun, adult-oriented entertainer set within a spa, promising a soft, humorous tone. The movie features a strong ensemble cast and a dedicated technical crew, with its first song marking singer Minmini's comeback.",
-    "img": "https://static.toiimg.com/photo/msid-128016635,imgsize-90304.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/spa-gets-a-certificate-abrid-shine-brings-comedy-for-adults-release-set-for-feb-12/articleshow/128016635.cms",
-    "time": "2026-02-07T02:10:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "FWICE objects to ‘Ghooskhor Pandat’ title; writes to OTT platforms",
-    "desc": "The Federation of Western India Cine Employees (FWICE) has formally objected to the title 'Ghooskhor Pandat' for Manoj Bajpayee's upcoming project, citing concerns that it targets a specific community and could incite social disharmony. The organization has urged OTT platforms and producer bodies to reject provocative titles, emphasizing the film industry's responsibility to avoid promoting hatred or unrest.",
-    "img": "https://static.toiimg.com/photo/msid-128016205,imgsize-15904.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fwice-objects-to-ghooskhor-pandat-amid-controversy-such-a-title-has-the-potential-to-hurt-sentiments/articleshow/128016205.cms",
-    "time": "2026-02-07T01:48:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'With Love' BO day 1: Anaswara Rajan film opens at 1.50 crore",
-    "desc": "Romantic drama 'With Love' has opened strongly at the box office, raking in approximately Rs 1.50 crore on its first day. The film, featuring a fresh lead pair and a debut director, has garnered significant interest, particularly in Tamil and Telugu regions, with strong night show occupancy.",
-    "img": "https://static.toiimg.com/photo/msid-128016122,imgsize-42924.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/with-love-box-office-collections-day-1-anaswara-rajan-film-opens-at-1-50-crore-good-occupancy-through-the-day/articleshow/128016122.cms",
-    "time": "2026-02-07T01:45:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chriss Pratt reveals going to premarital counseling with wife",
-    "desc": "Chris Pratt, the beloved Hollywood actor, recently opened up about the couple's decision to seek premarital counseling ahead of their 2019 wedding to Katherine Schwarzenegger. He expressed that it was 'the best thing in the world,' noting how the six sessions they completed allowed them to lay down mutual foundations, including plans for future celebrations.",
-    "img": "https://static.toiimg.com/photo/msid-128016057,imgsize-59926.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/chriss-pratt-reveals-he-and-his-wife-katherine-schwarzenegger-went-to-premarital-counseling-calling-it-the-best-thing-in-the-world/articleshow/128016057.cms",
-    "time": "2026-02-07T01:40:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'D55': Why Mammootty and Dhanush film is special",
-    "desc": "Fans are buzzing as Mammootty and Dhanush reunite for D55, their first full-fledged collaboration since 2013's 'Kammath & Kammath'. Directed by Rajkumar Periasamy, the film reportedly celebrates unsung heroes. Mammootty expressed his elation, calling it an honour to join Dhanush and the director, who also shared heartfelt welcomes.",
-    "img": "https://static.toiimg.com/photo/msid-128015657,imgsize-61300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mammootty-and-dhanush-make-d55-special-why-fans-call-it-a-dream-team/articleshow/128015538.cms",
-    "time": "2026-02-07T01:18:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sabrina Impacciatore leads Milano Cortina opening spectacle",
-    "desc": "Italian actress Sabrina Impacciatore, famed for 'The White Lotus,' captivated audiences at the Milano Cortina 2026 Winter Olympics opening ceremony. Her six-minute dance routine celebrated a century of Winter Games history, honoring Italy and its host cities. She joined a star-studded lineup, embodying the spirit of sport and creativity.",
-    "img": "https://static.toiimg.com/photo/msid-128015642,imgsize-576855.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/sabrina-impacciatore-leads-2026-winter-olympics-opening-spectacles-the-white-lotus-star-dazzles-with-a-6-min-dance-routine/articleshow/128015649.cms",
-    "time": "2026-02-07T01:17:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'VVK' BO day 8: Jeethu Joseph film falls to 11 lakhs",
-    "desc": "Jeethu Joseph's latest film, 'Valathu Vashathe Kallan,' is facing a significant box office struggle, earning a mere Rs 11 lakhs on its eighth day in Kerala. Despite a strong cast and director's reputation, audience interest has plummeted, with collections dropping sharply after the initial days. The film's future appears bleak, needing a miracle to recover.",
-    "img": "https://static.toiimg.com/photo/msid-128015261,imgsize-43978.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/valathu-vashathe-kallan-box-office-collections-day-8-jeethu-joseph-film-falls-to-11-lakhs/articleshow/128015261.cms",
-    "time": "2026-02-07T00:59:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "DJ Young Slade passes away at 27; grieving father shares statement",
-    "desc": "Rapper Lil Jon's son, Nathan Smith, also known as DJ Young Slade, has tragically passed away at 27. Initially reported missing, his body was later found. Lil Jon shared heartfelt tributes, remembering his son's kindness and passion for music. The devastating news has prompted an outpouring of condolences from fans and fellow celebrities.",
-    "img": "https://static.toiimg.com/photo/msid-128015165,imgsize-24912.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/lil-jons-son-dj-young-slade-found-dead-his-mother-and-i-are-devastated-says-grieving-father/articleshow/128015165.cms",
-    "time": "2026-02-07T00:54:38.000Z"
   },
   {
     "cat": "Politics",
@@ -299,10 +398,10 @@ const newsData_en = [
   {
     "cat": "Sports",
     "title": "30 Pakistan-origin cricketers set to play in T20 WC",
-    "desc": "The 2026 T20 World Cup will showcase 30 players of Pakistani origin representing 10 different nations, underlining how modern cricket transcends borders. From UAE’s Muhammad Jawad Ullah to Zimbabwe captain Sikandar Raza and England’s Rehan Ahmed, it shows how cricket has moved beyond rigid ideas of nationality and has become more inclusive and diverse by embracing migrants.",
+    "desc": "The 2026 T20 World Cup will showcase 28 players of Pakistani origin representing 10 different nations, underlining how modern cricket transcends borders. From UAE’s Muhammad Jawad Ullah to Zimbabwe captain Sikandar Raza and England’s Rehan Ahmed, it shows how cricket has moved beyond rigid ideas of nationality and has become more inclusive and diverse by embracing migrants.",
     "img": "https://static.toiimg.com/photo/msid-127982756,imgsize-64944.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/from-sikandar-raza-to-rehan-ahmed-30-pakistan-origin-cricketers-set-to-play-in-t20-world-cup/articleshow/127982148.cms",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/from-sikandar-raza-to-rehan-ahmed-over-two-dozen-pakistan-origin-cricketers-set-to-play-in-t20-world-cup/articleshow/127982148.cms",
     "time": "2026-02-06T23:30:00.000Z"
   },
   {
@@ -496,15 +595,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "In a 1st, resolution professional held by ED for colluding with promoters of bankrupt co",
-    "desc": "The Enforcement Directorate (ED) has arrested Arvind Kumar, a former resolution professional for Richa Industries Ltd., on charges of collusion, asset siphoning, and money laundering during insolvency proceedings. This marks the first such arrest of an RP by an enforcement agency. The ED's investigation revealed unexplained cash deposits and illicit fund transfers linked to the company's original bank fraud.",
-    "img": "https://static.toiimg.com/photo/msid-128007049,imgsize-373657.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/in-a-1st-resolution-professional-held-by-ed-for-colluding-with-promoters-of-bankrupt-co/articleshow/128007039.cms",
-    "time": "2026-02-06T19:41:44.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Work on second phase of metro likely to be completed by Dec. 2026, says KMRL",
     "desc": "KMRL managing director cites delays in piling caused by detection of a gas pipeline between Alinchuvadu and Padamugal, and the unavailability of land for Chembumukku and Padamugal stations as major obstacles to meeting the June deadline",
     "img": "https://th-i.thgim.com/public/incoming/uoru1k/article70601633.ece/alternates/LANDSCAPE_1200/80968_6_2_2026_19_6_49_1_IMG_0950.JPEG",
@@ -514,66 +604,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Govt",
-    "desc": "The Union government has rejected the Supreme Court's suggestion to introduce a \"Romeo-Juliet\" clause for \"genuine adolescent relationships\" under the Pocso Act. Citing child safety concerns, the government stated that diluting the age of consent would increase exploitation risks and undermine child protection efforts.",
-    "img": "https://static.toiimg.com/photo/msid-128006694,imgsize-847431.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/lowering-age-of-consent-will-undermine-child-safety-govt/articleshow/128006608.cms",
-    "time": "2026-02-06T19:33:02.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Over the years, DMK and Congress have forged a mutually complementary electoral tie-up",
     "desc": "In the 2024 Lok Sabha election, even though the national party lagged behind the Dravidian party in terms of vote share in contested seats, the margin was less than one percentage point; the narrow gap in vote shares indicates that all the parties in the alliance benefit from one another",
     "img": "https://th-i.thgim.com/public/incoming/5ixvd9/article70601679.ece/alternates/LANDSCAPE_1200/TNCC_RALLY",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/over-the-years-dmk-and-congress-have-forged-a-mutually-complementary-electoral-tie-up/article70601384.ece",
     "time": "2026-02-06T19:30:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court to examine HP decision to withdraw cases against 65 netas",
-    "desc": "Himachal Pradesh government has approached the Supreme Court. They are challenging a High Court ruling. The ruling prevented the withdrawal of 65 cases against politicians. These cases involve non-serious offenses. The government believes withdrawing these cases serves public interest. The Supreme Court has issued a notice and will hear the matter further.",
-    "img": "https://static.toiimg.com/photo/msid-128006324,imgsize-1230699.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/supreme-court-to-examine-hp-decision-to-withdraw-cases-against-65-netas/articleshow/128006084.cms",
-    "time": "2026-02-06T19:18:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Pvt, more than govt, colleges gain from NEET PG cut-off drop",
-    "desc": "NEET PG cut-off reduction to zero in 2023 disproportionately benefited private medical colleges, especially for clinical specialties. General category candidates saw the largest gains, with a significant portion of these seats going to them. The analysis highlights admissions with extremely low scores, raising questions about data completeness.",
-    "img": "https://static.toiimg.com/photo/msid-128005913,imgsize-796362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pvt-more-than-govt-colleges-gain-from-neet-pg-cut-off-drop/articleshow/128005814.cms",
-    "time": "2026-02-06T19:07:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Toll on partially opened e-ways like Delhi-Mumbai to be same as that of other NHs",
-    "desc": "Commuters using partially operational expressways like Delhi-Mumbai will now pay the same toll as normal national highways. This relief, effective for one year or until full operationalization, addresses concerns that higher tolls deterred usage of incomplete stretches. The decision aims to boost traffic on these corridors.",
-    "img": "https://static.toiimg.com/photo/msid-128005513,imgsize-147058.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/toll-on-partially-opened-e-ways-like-delhi-mumbai-to-be-same-as-that-of-other-nhs/articleshow/128005518.cms",
-    "time": "2026-02-06T18:54:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "50 lakh bought FASTag Annual Pass; 50% rise in short trips",
-    "desc": "Over 50 lakh highway car users have embraced the FASTag Annual Pass in six months, facilitating 26.5 crore toll payments. This scheme has spurred a 50% surge in trips for frequent travelers, with 28% of car transactions now utilizing the pass. Chandigarh, Tamil Nadu, and Delhi lead in adoption, paving the way for barrier-less toll collection.",
-    "img": "https://static.toiimg.com/photo/msid-128005305,imgsize-1109471.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/50-lakh-bought-fastag-annual-pass-50-rise-in-short-trips/articleshow/128005321.cms",
-    "time": "2026-02-06T18:49:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "opportunity knocks for India’s young hockey talent",
-    "desc": "The men’s team needs an injection of fresh blood in the run-up to the 2028 Olympics. The packed calendar in 2026 may prove a blessing in disguise — head coach Craig Fulton can use it as a base to experiment, giving lesser-known faces exposure, and trigger a smooth transition",
-    "img": "https://th-i.thgim.com/public/incoming/zax3pf/article70601669.ece/alternates/LANDSCAPE_1200/IMG_Amandeep_Lakra_2_1_PJDRDJP5.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/change-of-phase-opportunity-knocks-for-indias-young-hockey-talent/article70601666.ece",
-    "time": "2026-02-06T18:46:14.000Z"
   },
   {
     "cat": "Sports",
@@ -765,15 +801,6 @@ const newsData_en = [
     "time": "2026-02-06T12:36:11.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "From Misbah's scoop, Brathwaite's sixes to Surya's catch: A T20 World Cup history",
-    "desc": "As the ICC Men’s T20 World Cup 2026 begins on Saturday across venues in India and Sri Lanka, the tournament marks another chapter in a competition that began 19 years ago. From its first edition in South Africa in 2007 to the 2024 event in the USA and Caribbean, the T20 World Cup has seen the format grow in scale and reach.",
-    "img": "https://static.toiimg.com/photo/msid-127989260,imgsize-122430.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/from-misbah-ul-haqs-scoop-carlos-brathwaites-sixes-to-suryakumar-yadavs-catch-a-t20-world-cup-history/articleshow/127985559.cms",
-    "time": "2026-02-06T12:19:48.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Here are the top gainers and losers on NSE, BSE today",
     "desc": "Indian equity markets closed higher Friday, with the Sensex and Nifty gaining ground. The Reserve Bank of India maintained interest rates and proposed allowing banks to lend to REITs, a move expected to boost the real estate sector. Despite a volatile session, late buying in select stocks, particularly FMCG and private banking, drove the recovery.",
@@ -790,15 +817,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/eu-accuses-tiktok-of-addictive-design-seeks-changes-to-protect-users/article70599921.ece",
     "time": "2026-02-06T11:49:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sooryavanshi's animated celebration goes viral in U19 WC final",
-    "desc": "Fourteen-year-old Vaibhav Sooryavanshi produced a breathtaking knock in the U-19 World Cup final, smashing the second-fastest century in tournament history off just 55 balls against England. He went on to score 175, dominating the bowlers, sharing a huge partnership, and earning a standing ovation for one of the greatest U-19 innings ever.",
-    "img": "https://static.toiimg.com/photo/msid-127984657,imgsize-47230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/watch-14-year-old-vaibhav-sooryavanshis-animated-celebration-after-record-breaking-ton-goes-viral-in-u19-world-cup-final/articleshow/127983978.cms",
-    "time": "2026-02-06T10:39:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -837,24 +855,6 @@ const newsData_en = [
     "time": "2026-02-06T09:17:33.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Role models don't do this'",
-    "desc": "Pakistan skipper Salman Ali Agha criticised India's decision not to shake hands during the Asia Cup and for not travelling to the neighbours for the 2025 Champions Trophy. Ahead of the T20 World Cup, Pakistan's government announced a boycott of their group stage match against India, citing solidarity with Bangladesh. Agha emphasised the importance of sportsmanship for young fans.",
-    "img": "https://static.toiimg.com/photo/msid-127980424,imgsize-92512.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-role-models-dont-do-this-says-salman-ali-agha-on-indias-handshake-refusal-at-asia-cup/articleshow/127979324.cms",
-    "time": "2026-02-06T08:59:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Silver, gold prices: Silver tumbles Rs 15,000 on MCX, gold slips below Rs 1.5 lakh; should you buy?",
-    "desc": "Gold and silver prices plummeted on the MCX Friday, driven by weak global sentiment and a stronger dollar. Silver futures saw a sharp 6% drop, while gold futures fell 2%. International markets showed mixed trends. Increased margin requirements on the MCX added to the volatility, prompting traders to cut positions. Experts advise caution amid high price swings.",
-    "img": "https://static.toiimg.com/photo/msid-127979084,imgsize-96444.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/silver-gold-pricse-silver-tumbles-rs-15000-on-mcx-gold-slips-below-rs-1-5-lakh-should-you-buy/articleshow/127978391.cms",
-    "time": "2026-02-06T08:27:21.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Will European wine finally get cheaper in India? Inside the EU–India trade deal",
     "desc": "As import duties ease under the long-awaited EU–India trade deal, wine producers and importers weigh in. With India’s complex state taxes, currency volatility and long timelines, how long will it take for your wine to get cheaper?",
@@ -891,12 +891,12 @@ const newsData_en = [
     "time": "2026-02-06T06:20:19.000Z"
   },
   {
-    "cat": "Business",
-    "title": "RBI keeps rates steady, positive on growth and inflation",
-    "desc": "The Reserve Bank of India has maintained the policy repo rate at 5.25%, opting for status quo. While external challenges are mounting, domestic economic conditions remain strong. The central bank has slightly revised upwards its near-term growth and inflation forecasts for the upcoming financial year, signaling a cautious yet optimistic outlook.",
-    "img": "https://static.toiimg.com/photo/msid-127971906,imgsize-15158.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-keeps-rates-steady-positive-on-growth-and-inflation/articleshow/127971918.cms",
-    "time": "2026-02-06T05:39:54.000Z"
+    "cat": "Tech",
+    "title": "The sale of xAI comes with tax, financial and legal benefits for xAI and SpaceX investors",
+    "desc": "Instead of combining the two companies into one and fully integrating operations, Musk decided to ‌retain xAI, which runs social media platform X and created the Grok chatbot, as a wholly owned subsidiary of SpaceX, said sources",
+    "img": "https://th-i.thgim.com/public/incoming/ust5ep/article70598541.ece/alternates/LANDSCAPE_1200/2026-02-02T213022Z_1456700214_RC2PVCAPFSUH_RTRMADP_3_SPACEX-M-A-XAI.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/the-sale-of-xai-comes-with-tax-financial-and-legal-benefits-for-xai-and-spacex-investors/article70598538.ece",
+    "time": "2026-02-06T04:41:04.000Z"
   }
 ];

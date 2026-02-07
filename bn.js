@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "৭.২ রেটিং, ভারতীয় সিরিজের ১২ দিনে ৫ কোটি ভিউ ! বিশ্বব্যাপী নেটফ্লিক্সে ১ নম্বর হিট",
+    "desc": "নীরজ পান্ডে পরিচালিত ওয়েব সিরিজ তস্করি: দ্য স্মাগলার্স ওয়েব বিশ্বব্যাপী জনপ্রিয়তা অর্জন করেছে। গত সপ্তাহে সিরিজটি নেটফ্লিক্সের ২০টি ভিন্ন দেশে সেরা ১০টি ‘নন-ইংলিশ’ অনুষ্ঠানের তালিকায় ট্রেন্ডিংয়ে ছিল। মজার বিষয় হল, এই সিরিজ ১০টি দেশের মধ্যে এক নম্বরে ছিল, যা তার অসাধারণ জনপ্রিয়তা প্রদর্শন করে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Netflix-Film-Taskaree-2026-02-e44ad015b942816af35fab8cfc764c6a-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/emraan-hashmi-taskaree-the-smugglers-web-50-million-views-netflix-series-global-trending-ss-2528342.html",
+    "time": "2026-02-07T04:57:29.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "কেন্দ্রীয় ও রাজ্য বাজেটের বিরুদ্ধে CPIM-এর প্রতিবাদ মিছিল ধূপগুড়িতে, বাজেটের প্রতিলিপি জ্বালিয়ে জাতীয় সড়ক অবরোধ, বিক্ষোভ!",
     "desc": "কেন্দ্রীয় বাজেট ও রাজ্য বাজেটের বিরুদ্ধে প্রতিবাদ জানিয়ে ধূপগুড়িতে মিছিল ও বিক্ষোভ কর্মসূচি পালন করল সিপিআইএম ধূপগুড়ি এরিয়া কমিটি। শুক্রবার ধূপগুড়ি সিপিআইএম পার্টি কার্যালয়ের সামনে থেকে মিছিল শুরু হয়। মিছিলটি শহরের বিভিন্ন গুরুত্বপূর্ণ রাস্তা পরিক্রমা করে ধূপগুড়ি বাস স্ট্যান্ড সংলগ্ন চৌপতি এলাকায় পৌঁছায়।",
@@ -88,15 +97,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/business/malda-money-making-ideas-malda-farmer-earning-huge-money-from-mushroom-cultivation-after-15-days-training-l18-local18-2528389.html",
     "time": "2026-02-06T09:43:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "৭.২ রেটিং, ভারতীয় সিরিজের ১২ দিনে ৫ কোটি ভিউ ! বিশ্বব্যাপী নেটফ্লিক্সে ১ নম্বর হিট",
-    "desc": "নীরজ পান্ডে পরিচালিত ওয়েব সিরিজ তস্করি: দ্য স্মাগলার্স ওয়েব বিশ্বব্যাপী জনপ্রিয়তা অর্জন করেছে। গত সপ্তাহে সিরিজটি নেটফ্লিক্সের ২০টি ভিন্ন দেশে সেরা ১০টি ‘নন-ইংলিশ’ অনুষ্ঠানের তালিকায় ট্রেন্ডিংয়ে ছিল। মজার বিষয় হল, এই সিরিজ ১০টি দেশের মধ্যে এক নম্বরে ছিল, যা তার অসাধারণ জনপ্রিয়তা প্রদর্শন করে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Netflix-Film-Taskaree-2026-02-e44ad015b942816af35fab8cfc764c6a-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/emraan-hashmi-taskaree-the-smugglers-web-50-million-views-netflix-series-global-trending-ss-2528342.html",
-    "time": "2026-02-06T06:45:34.000Z"
   },
   {
     "cat": "Politics",
