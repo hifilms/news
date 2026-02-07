@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "ডিম-মাংসের জোড়া চাহিদা! সঠিক প্রজাতিই বদলে দিতে পারে ভাগ্য! মুরগি প্রতিপালনে লাভের নিরিখে হিঙ্গলগঞ্জে নজির প্রশান্তের",
+    "desc": "হিঙ্গলগঞ্জের এক যুবক প্রমাণ করে দিলেন যে, সঠিক পরিকল্পনা ও উন্নত প্রজাতির মুরগি নির্বাচন করলে পোল্ট্রি ব্যবসায় লক্ষ্মীলাভ নিশ্চিত। ডিম এবং মাংসের ক্রমবর্ধমান চাহিদাকে কাজে লাগিয়ে আজ তিনি জেলার অন্যতম সফল খামারি। বেকারত্ব ঘুচিয়ে লাভের মুখ দেখার সেই মন্ত্র এবার সবার সামনে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/businees-idea-poultry-farming-2026-02-eafad4c75a3c9e0e69bfd470d569eeb5-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/north-24-parganas-business-idea-hingalganj-youth-poultry-farming-success-with-profitable-chicken-breeds-l18-local18-2529728.html",
+    "time": "2026-02-07T08:51:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "এনগেজমেন্ট সেরেছেন ৭ দিন আগে, হবু স্ত্রীকে ৯ লাখ টাকা অনলাইনে পাঠালেন তরুণ পুলিসকর্মী! তারপরই রিভলভার...",
+    "desc": "নিজের সার্ভিস পিস্তল দিয়ে আত্মঘাতী তরুণ কনস্টেবল। জানা গেছে, তিনি তার বড় ভাইয়ের শ্যালিকাকে বিয়ে করতে চেয়েছিলেন, কিন্তু তার পরিবার এই সম্পর্ক মেনে নেয়নি। পরিবারের অমতেই গত সপ্তাহে তাদের আংটি বদল হয় এবং আগামী মাসে বিয়ের কথা ছিল।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/27-year-old-constable-sends-9-lakh-to-finacee-before-took-extreme-step-to-death_640026.html ",
+    "time": "2026-02-07T08:12:19.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "৭.২ রেটিং, ভারতীয় সিরিজের ১২ দিনে ৫ কোটি ভিউ ! বিশ্বব্যাপী নেটফ্লিক্সে ১ নম্বর হিট",
     "desc": "নীরজ পান্ডে পরিচালিত ওয়েব সিরিজ তস্করি: দ্য স্মাগলার্স ওয়েব বিশ্বব্যাপী জনপ্রিয়তা অর্জন করেছে। গত সপ্তাহে সিরিজটি নেটফ্লিক্সের ২০টি ভিন্ন দেশে সেরা ১০টি ‘নন-ইংলিশ’ অনুষ্ঠানের তালিকায় ট্রেন্ডিংয়ে ছিল। মজার বিষয় হল, এই সিরিজ ১০টি দেশের মধ্যে এক নম্বরে ছিল, যা তার অসাধারণ জনপ্রিয়তা প্রদর্শন করে।",
@@ -268,15 +286,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/national/mamata-banerjee-in-supreme-court-hearing-today-what-cji-told-rc-2526541.html",
     "time": "2026-02-04T15:29:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বাজেটে অষ্টম পে কমিশনে বেতনবৃদ্ধি নিয়ে সত্যিই 'বিগ' কী বলা হয়েছে? জানুন, '১৮ মাসে বছরে'র রহস্য...",
-    "desc": "২০২৬ সালের ১ ফেব্রুয়ারি অর্থমন্ত্রী নির্মলা সীতারমন ২০২৬-২৭ অর্থবর্ষের কেন্দ্রীয় বাজেট পেশ করেছেন। কেন্দ্রীয় সরকারি কর্মচারী এবং পেনশনারদের মধ্যে ৮ম বেতন কমিশন নিয়ে ব্যাপক প্রত্যাশা থাকলেও, এই বাজেটে সেই সংক্রান্ত কোনও বিশেষ বরাদ্দ বা সময়সীমার কথা কিন্তু সেভাবে ঘোষণা করা হয়নি। কেন করা হয়নি?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/8th-pay-commission-is-there-any-new-announcement-on-8th-pay-commission-in-union-budget-2026-here-is-what-we-know_639510.html ",
-    "time": "2026-02-04T14:05:19.000Z"
   },
   {
     "cat": "Business",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/business/union-budget-2026-president-draupadi-murmu-treats-finance-minister-nirmala-sitaraman-with-curd-before-she-presents-budget-why-this-ritual-pbd-2521688.html",
     "time": "2026-02-01T06:51:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Union Budget 2026| এবারের বাজেটে খনিতে জোর দেওয়ার সিদ্ধান্ত, কী কী ঘোষণা নির্মলার?",
-    "desc": "Union Budget 2026| ‘বায়োফার্মা শক্তি’ প্রকল্পে বরাদ্দ ১০ হাজার কোটি। ভারতকে বায়ো ফার্মার হাবে পরিণত করতে ‘বায়োফার্মা শক্তি’ প্রকল্প, বরাদ্দ ১০ হাজার কোটি। জানালেন কেন্দ্রীয় অর্থমন্ত্রী। ওড়িশা, কেরল, অন্ধ্রপ্রদেশ, তামিলনাড়ুতে বিরল ধাতুর হাব তৈরি হবে। খনিতে জোর দেওয়ার সিদ্ধান্তও নেওয়া হয়েছে বলে জানালেন কেন্দ্রীয় অর্থমন্ত্রী।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Nirmala-Sitharaman-2026-02-00ecb1bbd818d1e8418a4a78bef4ed52-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/business/union-budget-2026-nirmala-sitharaman-announces-rare-earth-corridors-in-4-states-including-tamil-nadu-ss-2521664.html",
-    "time": "2026-02-01T06:50:19.000Z"
   }
 ];

@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pakistan survive massive scare from Netherlands in modest chase of 148 in T20 World Cup 2026 opener",
+    "desc": "Pakistan had a close shave in their T20 World Cup 2026 opener against the Netherlands in their modest chase of 148 at the Sinhalese Sports Club on Saturday, February 7. Chasing 148, Pakistan were in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-survive-massive-scare-from-netherlands-in-modest-chase-of-148-in-t20-world-cup-2026-opener-2026-02-07-1029272",
+    "time": "2026-02-07T09:18:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PCB gives first hint of breaking down on India boycott in T20 World Cup 2026 after SLC's request: Report",
+    "desc": "The Pakistan Cricket Board is set to approach its government once again after Sri Lanka Cricket requested a reconsideration of Pakistan’s decision to boycott the T20 World Cup league stage match against India scheduled for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pcb-gives-first-hint-of-breaking-down-on-india-boycott-in-t20-world-cup-2026-after-slcs-request-report-2026-02-07-1029268",
+    "time": "2026-02-07T08:36:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Eden Gardens, Kolkata play in clash?",
+    "desc": "West Indies are set to open their T20 World Cup 2026 campaign against Scotland at the Eden Gardens, Kolkata on Saturday, February 7. Pakistan and Netherlands kicked off the action-packed opening day of the World...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wi-vs-sco-t20-world-cup-2026-pitch-report-how-will-surface-at-eden-gardens-kolkata-play-in-clash-2026-02-07-1029264",
+    "time": "2026-02-07T08:18:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI announces big cash reward for Ayush Mhatre-led Indian U19 World Cup-winning team",
+    "desc": "The Board of Control for Cricket in India (BCCI) on Saturday announced a handsome prize money of Rs 7.50 crore for the Indian U19 World Cup-winning team. The Ayush Mhatre-led Indian team defeated England by...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-announces-big-cash-reward-for-ayush-mhatre-led-indian-u19-world-cup-winning-team-2026-02-07-1029260",
+    "time": "2026-02-07T07:23:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Jasprit Bumrah miss IND vs USA T20 World Cup 2026 match? Check update here",
+    "desc": "India might be missing out on their talisman pacer Jasprit Bumrah in their T20 World Cup 2026 opener against the USA on Saturday, February 7. India, the defending champions, will take the field at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-jasprit-bumrah-miss-ind-vs-usa-t20-world-cup-2026-match-check-update-here-2026-02-07-1029256",
+    "time": "2026-02-07T06:47:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is Fakhar Zaman not playing in PAK vs NED T20 World Cup 2026 match? Explained",
     "desc": "Pakistan lock horns against the Netherlands to kick off the T20 World Cup 2026 as the two teams meet each other at the Sinhalese Sports Club, Colombo. Pakistan, the 2022 runners-up, are in Group A...",
     "img": "",
@@ -10,8 +55,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Netherlands stay strong in second half of first innings",
-    "desc": "The Netherlands were pegged back by Pakistan after the Dutch made a decent start in the first innings of their clash in the T20 World Cup 2026. The two teams face each other at the...",
+    "title": "Pakistan escape major scare to win by three wickets",
+    "desc": "Pakistan had their hearts in their mouth but managed to edge past the Netherlands in their T20 World Cup 2026 opener at the Sinhalese Sports Club. The two teams kicked off the tournament in Colombo...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pak-vs-ned-t20-world-cup-2026-live-cricket-score-pakistan-vs-netherlands-sinhalese-sports-club-colombo-latest-match-updates-scorecard-teams-playing-xi-2026-02-07-1029243",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/3-teams-that-played-t20-world-cup-2024-but-will-miss-2026-edition-feat-bangladesh-and-uganda-2026-02-07-1029235",
     "time": "2026-02-07T02:41:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli's legendary T20 World Cup record under threat as Jos Buttler eyes history",
-    "desc": "India legend Virat Kohli will not be seen in action in the T20 World Cup 2026 that kicks off on February 7. This will be the first T20 World Cup since 2012 that Kohli won't...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohlis-legendary-t20-world-cup-record-under-threat-as-jos-buttler-eyes-history-2026-02-07-1029232",
-    "time": "2026-02-07T02:05:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India look to achieve legendary record as they kick off T20 World Cup title defence",
-    "desc": "Defending champions India look to achieve what no team in the world has ever done in T20 cricket. The Suryakumar Yadav-led team has been touted as strong title contenders, considering the firepower that they possess...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-look-to-achieve-legendary-record-as-they-kick-off-t20-world-cup-title-defence-2026-02-07-1029230",
-    "time": "2026-02-07T01:35:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why did ICC not give any prize money to Indian team after winning U19 World Cup final against England?",
-    "desc": "India’s Under-19 team etched their name deeper into cricketing history by lifting a record sixth U19 World Cup title after a commanding 100-run victory over England in the final at the Harare Sports Club in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-did-icc-not-give-any-prize-money-to-indian-team-after-winning-u19-world-cup-final-against-england-2026-02-06-1029221",
-    "time": "2026-02-06T18:15:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi, despite being only 14, will never play U19 World Cup again, here's why",
-    "desc": "Young prodigy Vaibhav Sooryavanshi was the standout performer in the 2026 U19 World Cup final against England at the Harare Sports Club in Zimbabwe. The 14-year-old produced a breathtaking display in the first innings, blasting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-despite-being-only-14-will-never-play-u19-world-cup-again-here-s-why-2026-02-06-1029218",
-    "time": "2026-02-06T17:52:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "President Murmu, PM Modi to Virat Kohli: Prominent figures congratulate India for U19 World Cup success",
-    "desc": "India were crowned the new U19 World Champions after a dominant 100-run victory over England at the Harare Sports Club in Zimbabwe. Led by Ayush Mhatre, the Indian side delivered a breathtaking batting performance, piling...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/president-murmu-pm-modi-to-virat-kohli-prominent-figures-congratulate-india-for-u19-world-cup-success-2026-02-06-1029214",
-    "time": "2026-02-06T17:25:49.000Z"
   }
 ];

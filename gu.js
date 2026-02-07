@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "ટ્રેડ ડીલની ચર્ચાઓ વચ્ચે અમેરિકાએ ભારતના પક્ષમાં એવું તે શું કર્યું, ચીન-પાકિસ્તાન કાગારોળ કરશે",
+    "desc": "ભારત અને પાકિસ્તાન વચ્ચે જે ટ્રેડ ડીલ થઈ એ ખુબ ચર્ચામાં છે. ભારતના વાણિજ્યમંત્રી પિયુષ ગોયલે આજે આ ટ્રેડ ડીલ વિશે વિગતો જાહેર કરી. આ બધા વચ્ચે અમેરિકાએ એક એવો મેપ શેર કરી દીધો જેણે પાકિસ્તાન અને ચીનના પણ શ્વાસ અદ્ધર કરી નાખ્યા. જાણો એવું તે શું છે એ મેપમાં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/explainer-ustr-shares-india-map-is-it-message-to-china-and-pakistan-that-include-pok-aksai-china-464216 ",
+    "time": "2026-02-07T09:21:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "જસપ્રીત બુમરાહ વિના T20 વર્લ્ડ કપની શરૂઆત કરશે ટીમ ઈન્ડિયા! શું હર્ષિત રાણા બાદ વધુ એક ખેલાડી થયો બહાર ? જાણો",
+    "desc": "7 ફેબ્રુઆરી, એટલે કે આજે T20 વર્લ્ડ કપ 2026 માં ભારત અને USA વચ્ચે એક મોટી મેચ રમાવાની છે. ટીમ ઈન્ડિયા T20 વર્લ્ડ કપની ધમાકેદાર શરૂઆત કરવા માંગશે. જો કે, જસપ્રીત બુમરાહ કદાચ આ મેચમાં રમશે નહીં. તેની પાછળનું વાસ્તવિક કારણ બહાર આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/team-india-will-start-the-t20-world-cup-without-jasprit-bumrah-has-another-player-been-dropped-after-harshit-rana-find-out-464208 ",
+    "time": "2026-02-07T07:45:04.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ભારત અને અમેરિકા વચ્ચે ટ્રેડ ડીલમાં આ મુદ્દાઓ પર થઈ સહમતી, 10 પોઈન્ટમાં સમજો",
     "desc": "ભારત અને યુનાઇટેડ સ્ટેટ્સે વેપાર કરાર માટે વચગાળાના માળખાની ઔપચારિક જાહેરાત કરતા સંયુક્ત નિવેદન બહાર પાડ્યું છે. આ કરાર હેઠળ, યુએસ ટેરિફ 50 ટકાથી ઘટાડીને 18 ટકા કરશે. યુએસ અને ભારત આ માળખાને તાત્કાલિક અમલમાં મૂકશે અને વચગાળાના કરારને અંતિમ સ્વરૂપ આપવા માટે કામ કરશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -351,24 +369,6 @@ const newsData_gu = [
     "time": "2026-02-05T02:24:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "232 દિવસથી સતત ચાલી રહ્યો છે આ યુવક, અમદાવાદથી મેવાડ જવા થયો રવાના; જાણો તેના પર શું છે ઝનૂન સવાર?",
-    "desc": "બરેલીનો યુવાન અમિત કુમાર 17 જૂનથી પદયાત્રા કરી રહ્યો છે. તેની આ યાત્રાને આજે 232 દિવસ પૂરા થયા છે અને હાલમાં તે અમદાવાદથી મેવાડના પ્રસિદ્ધ તીર્થ સાંવરિયા શેઠના દર્શન માટે જઈ રહ્યો છે. ત્યાંથી તે ઉજ્જૈન અને વૃંદાવન થઈને બરેલી પરત ફરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/bareilly-amit-kumar-foot-march-religious-spiritual-walking-tour-across-country-ahmedabad-to-mewar-sanwariya-seth-463965 ",
-    "time": "2026-02-04T17:31:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "શરમજનક ઘટના: યુવતીએ પૈસા આપવાની ના પાડી તો ટ્રાન્સજેન્ડરે તેના પર ગુટખા થૂંક્યા ! Video Viral",
-    "desc": "સોશિયલ મીડિયા પર ઝડપથી ફરતા એક વીડિયોએ મેટ્રો સ્ટેશન જેવા જાહેર સ્થળોએ મુસાફરોની સલામતી અને કાયદો અને વ્યવસ્થા અંગે ચર્ચા જગાવી છે. વાયરલ ફૂટેજમાં કથિત રીતે એક ટ્રાન્સજેન્ડર એક યુવતી સાથે અભદ્ર વર્તન કરતો દેખાય છે, જેનાથી ઓનલાઈન ચર્ચા શરૂ થઈ ગઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/transgender-spits-gutkha-on-girl-for-not-giving-money-viral-video-spreads-like-wildfire-on-social-media-463962 ",
-    "time": "2026-02-04T16:15:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "World T20 કેવી રીતે બની T20 World Cup... એવું તો શું થયું કે ICCને બદલવું પડ્યું નામ ?",
     "desc": "આજે તમે જે ટુર્નામેન્ટને T20 વર્લ્ડ કપ તરીકે જાણો છો તે એક સમયે વર્લ્ડ T20 તરીકે જાણીતી હતી. પછી એવું શું થયું કે ICCને આ વૈશ્વિક ઇવેન્ટનું નામ બદલવું પડ્યું ? ત્યારે નામ બદલવા પાછળની કહાની શું છે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -430,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/mcc-announces-73-cricket-rule-changes-test-match-bat-hit-wicket-rule-463909 ",
     "time": "2026-02-04T06:04:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "કરોડોનું નુકસાન, ફજેતી અને સંપૂર્ણ બહિષ્કાર, ICCએ પાકને આપી દીધું ફાઇનલ અલ્ટીમેટમ!",
-    "desc": "ભારત વિરુદ્ધ 15 ફેબ્રુઆરીએ મેચ ન રમવાનો વિવાદ સતત આગળ વધી રહ્યો છે. આ મુદ્દે પાકિસ્તાન ક્રિકેટ બોર્ડની મુશ્કેલી વધી શકે છે. પીસીબી વિરુદ્ધ બ્રોડકાસ્ટર કાર્યવાહી કરી શકે છે. બીજીતરફ આઈસીસી પાકિસ્તાનનું 35 મિલિયન ડોલરનું રેવેન્યુ રોકી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/loss-of-crores-embarrassment-and-total-boycott-pakistan-gets-the-final-ultimatum-icc-t20-world-cup-ind-vs-pak-463867 ",
-    "time": "2026-02-03T15:59:57.000Z"
   },
   {
     "cat": "Tech",
