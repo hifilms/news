@@ -1,21 +1,48 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "1 લાખના બનાવી દીધા 1.17 કરોડ રૂપિયા, રોકાણકારો પર રૂપિયાનો વરસાદ, એક સમયે 1 રૂપિયો હતી કિંમત",
+    "desc": "શેર બજારમાં છેલ્લા કેટલાક સમયથી સતત ઉતાર-ચઢાવ જોવા મળી રહ્યાં છે. તેવામાં કેટલાક શેર એવા છે જે છપ્પરફાડ કમાણી કરાવી રહ્યાં છે. આજે અમે તમને એક એવા શેર વિશે જણાવીશું જેણે રોકાણકારોને માલામાલ બનાવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/multibagger-stock-swadeshi-industries-and-leasing-ltd-make-invester-crorepati-in-five-years-under-rs-1-share-464259 ",
+    "time": "2026-02-07T14:31:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "તમે સાયબર ઠગાઈનો ભોગ બનશો તો પણ મળશે વળતર, RBIએ લીધો મોટો નિર્ણય",
+    "desc": "આરબીઆઈએ એક નવો નિયમ જાહેર કર્યો છે. જેમાં તમારી સાથે ફ્રોડ થાય છે તે તમે 25000 રૂપિયા સુધીનો ક્લેમ કરી શકો છે. આ રૂપિયા બેન્ક તમને કેટલીક શરતોને આધિન મળશે. જેમાં ગ્રાહકે 15 ટકા રકમ તો ભૂલી જવી પડશે. સરકારનો આશય અજાણતાં સાયબર ફ્રોડનો શિકાર બનેલા લોકોને રાહત આપવાનો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/rbi-big-decision-about-cyber-fraud-victims-compensation-check-details-464258 ",
+    "time": "2026-02-07T14:12:55.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "મહાતિરના સમયમાં જોવા મળી સંબંધોમાં કડવાશ, પરંતુ હવે મલેશિયાએ PM મોદીને ગણાવ્યાં &amp;#039;ગ્રેટ ફ્રેન્ડ&amp;#039;",
+    "desc": "પીએમ મોદી બે દિવસના પ્રવાસે મલેશિયા પહોંચ્યા અને ત્યાં ભારતીય સમુદાયના કાર્યક્રમમાં હાજરી આપી. સંબોધન દરમિયાન તેમણે તમિલ સંસ્કૃતિને બિરદાવી જ્યારે મલેશિયાના પીએમએ તેમને ગ્રેટ ફ્રેન્ડ ગણાવ્યા. તેઓ પોતે પીએમ મોદીનું સ્વાગત કરવા માટે એરપોર્ટ પહોંચ્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/pm-modi-malaysia-visit-community-programme-kualalumpur-pm-anwar-ibrahim-464257 ",
+    "time": "2026-02-07T13:51:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "મનોજ બાજપાયીની ફિલ્મને લઈ બોલી ગઈ બઘડાટી, જાણો ક્યાંથી શરુ થયો વિવાદ અને પરિણામ શું આવ્યું?",
+    "desc": "મનોજ બાજપાયીની ફિલ્મ ઘુસખોર પંડિત રિલીઝ થાય તે પહેલા જ ઈંટરનેટ અને સોશિયલ મીડિયા પર તેને લઈ દેકારો થવા લાગ્યો છે. જ્યારથી ફિલ્મનું ટીઝર લોન્ચ થયું છે ત્યારથી અત્યાર સુધીમાં ઘણું બધું થઈ ચુક્યું છે. તો ચાલો તમને આ વિવાદિત ફિલ્મની એ ટુ ઝેડ માહિતી જણાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/netflix-upcoming-film-manoj-bajpayee-starer-ghooskhor-pandit-controvery-a-to-z-details-464246 ",
+    "time": "2026-02-07T13:21:10.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "Gold-Silver Rate: ક્યાં પહોંચ્યા સોના-ચાંદીના ભાવ? ચીન સોનામાં ખેલી રહ્યું છે મોટો દાંવ, આખી દુનિયા પર પડશે અસર!",
     "desc": "સોના અને ચાંદી ગત સપ્તાહે જે રેકોર્ડ હાઈ પર પહોંચ્યા ત્યારબાદ જબરદસ્ત પછડાયા જો કે કાલે સાંજે વાયદા બજારમાં અને રિટેલ બજારમાં થોડું કરેક્શન જોવા મળ્યું હતું. સોનાના ભાવ ક્યાં પહોંચ્યા અને આખરે ચીને સોના મામલે એવું તે શું કર્યું કે તેની અસર આખી દુનિયા પર જોવા મળશે તે પણ જાણો.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/what-are-the-latest-gold-silver-rate-china-is-making-a-big-bet-on-gold-may-affect-world-464245 ",
     "time": "2026-02-07T12:40:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "મનોજ બાજપાયીની વેબ સીરીઝને લઈ બોલી ગઈ બઘડાટી, જાણો ક્યાંથી શરુ થયો વિવાદ અને પરિણામ શું આવ્યું?",
-    "desc": "મનોજ બાજપાયીની વેબ સીરીઝ ઘુસખોર પંડિત રિલીઝ થાય તે પહેલા જ ઈંટરનેટ અને સોશિયલ મીડિયા પર તેને લઈ દેકારો થવા લાગ્યો છે. જ્યારથી વેબ સીરીઝનું ટીઝર લોન્ચ થયું છે ત્યારથી અત્યાર સુધીમાં ઘણું બધું થઈ ચુક્યું છે. તો ચાલો તમને આ વિવાદિત વેબ સીરીઝની એ ટુ ઝેડ માહિતી જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/netflix-upcoming-web-series-manoj-bajpayee-starer-ghooskhor-pandit-controvery-a-to-z-details-464246 ",
-    "time": "2026-02-07T12:31:51.000Z"
   },
   {
     "cat": "Business",
@@ -360,15 +387,6 @@ const newsData_gu = [
     "time": "2026-02-05T05:14:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "IAS, IPS, IFS ને પરીક્ષાની બીજી તક નહીં મળે, નિયમમાં મોટો ફેરફાર",
-    "desc": "સંઘ લોક સેવા આયોગ (UPSC) એ સિવિલ સેવા પરીક્ષા 2026નું નોટિફિકેશન જાહેર કરતા પાત્રતા અને અટેમ્ટ સાથે જોડાયેલા નિયમોમાં મોટા ફેરફાર કર્યાં છે. જો તમે યુપીએસસીની પરીક્ષા આપવા ઈચ્છો છો તો આ નિયમ જાણવા ખૂબ જરૂરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/after-passing-upsc-candidates-will-no-longer-able-to-appear-for-exam-repeatedly-new-rules-463995 ",
-    "time": "2026-02-05T05:13:44.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "સની દેઓલની ફિલ્મ બોર્ડર 2 ની ઓટીટી રિલીઝ ડેટ કંફર્મ ! જાણો કઈ તારીખે થશે રિલીઝ",
     "desc": "સની દેઓલની ફિલ્મ બોર્ડર બોક્સ ઓફિસ પર દમ દેખાડી રહી છે. ફિલ્મ સફળતાપૂર્વક સિનેમાઘરોમાં ચાલી રહી છે. ટુંક સમયમાં ફિલ્મની કમાણી 300 કરોડને પાર થઈ શકે છે. તેવામાં ફિલ્મ ઓટીટી પર ક્યારે જોવા મળશે તે અંગે પણ જાણકારી સામે આવી છે. તો ચાલો તમને પણ જણાવીએ બોર્ડર 2 ઓટીટી રિલીઝ અંગે મહત્વની વાત.",
@@ -547,15 +565,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/superstar-ram-charan-and-wife-upasana-became-twins-baby-parents-twins-baby-photo-463576 ",
     "time": "2026-02-01T06:35:44.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાન નહીં વેનેઝુએલાથી તેલ ખરીદશે ભારત.... ડોનાલ્ડ ટ્રમ્પે કરી મોટી જાહેરાત",
-    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ પ્રમાણે ભારત ઈરાન અને રશિયાની જગ્યાએ વેનેઝુએલાથી કાચુ તેલ ખરીદવાની દિશામાં આગળ વધી રહ્યું છે. વૈશ્વિક ઉર્જા વ્યાપારમાં ફેરફાર, પ્રતિબંધો અને ટેરિફ દબાવની વચ્ચે ભારત સસ્તા અને વૈકલ્પિક તેલ સ્ત્રોત શોધી રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/india-buy-venezuelan-oil-instead-of-iran-trump-announcement-463551 ",
-    "time": "2026-02-01T05:04:12.000Z"
   },
   {
     "cat": "Entertainment",

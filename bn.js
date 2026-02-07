@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "SIR-এ ডমিসাইল সার্টিফিকেট গ্রহণ করা হবে...! DM, ADM, SDO-দের ইস্যু করা শংসাপত্রে আর আপত্তি নেই, জানিয়ে দিল কমিশন!",
+    "desc": "SIR-এ ডমিসাইল সার্টিফিকেট গ্রহণ করা হবে! DM, ADM, SDO-দের ইস্যু করা শংসাপত্রে আর আপত্তি নেই কমিশনের। সেই মর্মে CEO কে জানিয়ে দিল জাতীয় নির্বাচন কমিশন। কমিশন সূত্রে জানা যাচ্ছে, শুনানি প্রক্রিয়ায় এই শংসাপত্র গ্রহণযোগ্য হবে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/SIR-SANJ-2026-02-d21169afbd3125d1cb1d055c851149a6-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/west-bengal/west-bengal-sir-domicile-certificates-will-be-accepted-at-sir-the-commission-has-announced-that-there-will-be-no-further-objections-to-certificates-issued-by-dms-adms-and-sdos-sanj-2530396.html",
+    "time": "2026-02-07T13:35:42.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "পৌরাণিক কাহিনীর উপর ভিত্তি করে তৈরি এই থ্রিলার ছবি বার বার দেখার আগ্রহ জাগাবে ! আছে ইউটিউবে",
     "desc": "২০১৫ সালের জুলাই মাসে সুজয় ঘোষ ‘অহল্যা’ নামে একটি স্বল্পদৈর্ঘ্য চলচ্চিত্র ইউটিউবে রিলিজ করেন। রামায়ণের কিংবদন্তির উপর ভিত্তি করে তৈরি এটি ইউটিউবে ২ কোটি ২০ লক্ষেরও বেশি বার দেখা হয়েছে। এটি ছিল অহল্যার পৌরাণিক কাহিনীর একটি আধুনিক রূপান্তর, যেখানে নারীবাদী দৃষ্টিভঙ্গি অন্তর্ভুক্ত রয়েছে।",
@@ -853,15 +862,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/business/union-budget-2026-tea-garden-workers-left-out-no-allocation-for-darjeeling-tea-l18t-rm-local18-2522101.html",
     "time": "2026-02-01T12:45:22.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ধেয়ে আসছে ভয়াল 'বম্ব সাইক্লোন'! ধ্বংস আর মৃত্য়ুর আতঙ্কে থরথর করে কাঁপছে গোটা পূর্ব উপকূল...",
-    "desc": "আমেরিকার পূর্ব উপকূল এক ভয়ংকর প্রাকৃতিক দুর্যোগের অপেক্ষা করছে। নাম 'বম্ব সাইক্লোন'। এক সিভিয়ার উইন্টার স্টর্মে আক্রান্ত হবে ক্যারোলিনা থেকে নিউ ইংল্যান্ড পর্যন্ত এলাকা! হারিকেনের মতো ঝোড়ো হাওয়া বইবে, প্রচণ্ড তুষারপাত হবে, ভয়ংকর ঠান্ডা পড়বে! আর কী কী ঘটবে?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/bomb-cyclone-what-is-bomb-cyclone-us-east-coast-life-threatening-conditions-coastal-flooding-widespread-power-outages_638729.html ",
-    "time": "2026-02-01T12:36:36.000Z"
   },
   {
     "cat": "Sports",

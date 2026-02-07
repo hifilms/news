@@ -1,8 +1,53 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Jasprit Bumrah remains doubtful as India gear up for opening clash",
-    "desc": "The stage is set for game 3 of the ongoing T20 World Cup 2026. The Indian team begins their title defence as they take on the USA. The two sides will lock horns at the...",
+    "title": "ICC, PCB engage in fresh talks over finding solution for high-voltage India vs Pakistan clash",
+    "desc": "Tensions continue to simmer over the February 15 T20 World Cup clash between India and Pakistan, even as the tournament commenced across India and Sri Lanka on February 7. The Pakistan Cricket Board (PCB) has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-pcb-engage-in-fresh-talks-over-finding-solution-for-high-voltage-india-vs-pakistan-clash-2026-02-07-1029311",
+    "time": "2026-02-07T14:54:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Sanju Samson not playing in IND vs USA T20 World Cup 2026 match? Explained",
+    "desc": "The stage is set for game 3 of the ongoing T20 World Cup 2026. Defending champions team India lock horns with the USA at the Wankhede Stadium in Mumbai. The two sides will hope to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-sanju-samson-not-playing-in-ind-vs-usa-t20-world-cup-2026-match-explained-2026-02-07-1029301",
+    "time": "2026-02-07T13:13:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Jasprit Bumrah not playing vs USA in India's T20 World Cup 2026 opener in Mumbai?",
+    "desc": "India were compelled to leave Jasprit Bumrah out of their playing XI for the T20 World Cup opener against the USA at the Wankhede Stadium in Mumbai, as the star pacer continues to recover from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-jasprit-bumrah-not-playing-vs-usa-in-india-s-t20-world-cup-2026-opener-in-mumbai-2026-02-07-1029299",
+    "time": "2026-02-07T13:10:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Romario Shephard clinches hat-trick, four wickets in one over as West Indies stun Scotland: Watch",
+    "desc": "Romario Shepherd etched his name into the record books by becoming the first West Indies bowler to claim a hat-trick in T20 World Cup history. The milestone came during the clash against Scotland at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/romario-shephard-clinches-hat-trick-four-wickets-in-one-over-as-west-indies-stun-scotland-at-eden-gardens-2026-02-07-1029298",
+    "time": "2026-02-07T13:03:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Want to win minimum of five more trophies for India'",
+    "desc": "Hardik Pandya has laid down a bold marker ahead of the T20 World Cup 2026, making his ambitions crystal clear. One of India’s key architects in their title triumph last edition, Pandya played a decisive...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/want-to-win-minimum-of-five-more-trophies-for-india-hardik-pandya-makes-intention-clear-ahead-of-t20-world-cup-2026-02-07-1029294",
+    "time": "2026-02-07T12:40:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India eight down, Suryakumar Yadav stands strong",
+    "desc": "India is now seven down on a score of 118. Axar Patel is the latest batter to walk back to the pavilion. Handing an easy catch, Axar scored 14 runs in 11 deliveries, but was...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-usa-live-cricket-match-score-updates-online-india-united-states-of-america-t20-world-cup-2026-today-at-wankhede-stadium-mumbai-1029291",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-usa-t20-world-cup-2026-pitch-report-how-will-surface-at-wankhede-stadium-in-mumbai-play-2026-02-07-1029279",
     "time": "2026-02-07T10:32:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Scotland maintain stability, Berrington key",
-    "desc": "West Indies open their T20 World Cup 2026 campaign against Scotland at Eden Gardens, Kolkata. The Windies are clear favourites for this clash as they will bank on the explosive firepower and vast tournament experience....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wi-vs-sco-t20-world-cup-2026-live-cricket-score-west-indies-vs-scotland-eden-gardens-kolkata-latest-match-updates-scorecard-playing-xis-2026-02-07-1029274",
-    "time": "2026-02-07T09:28:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan survive massive scare from Netherlands in modest chase of 148 in T20 World Cup 2026 opener",
-    "desc": "Pakistan had a close shave in their T20 World Cup 2026 opener against the Netherlands in their modest chase of 148 at the Sinhalese Sports Club on Saturday, February 7. Chasing 148, Pakistan were in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-survive-massive-scare-from-netherlands-in-modest-chase-of-148-in-t20-world-cup-2026-opener-2026-02-07-1029272",
-    "time": "2026-02-07T09:18:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PCB gives first hint of breaking down on India boycott in T20 World Cup 2026 after SLC's request: Report",
-    "desc": "The Pakistan Cricket Board is set to approach its government once again after Sri Lanka Cricket requested a reconsideration of Pakistan’s decision to boycott the T20 World Cup league stage match against India scheduled for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pcb-gives-first-hint-of-breaking-down-on-india-boycott-in-t20-world-cup-2026-after-slcs-request-report-2026-02-07-1029268",
-    "time": "2026-02-07T08:36:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Eden Gardens, Kolkata play in clash?",
-    "desc": "West Indies are set to open their T20 World Cup 2026 campaign against Scotland at the Eden Gardens, Kolkata on Saturday, February 7. Pakistan and Netherlands kicked off the action-packed opening day of the World...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wi-vs-sco-t20-world-cup-2026-pitch-report-how-will-surface-at-eden-gardens-kolkata-play-in-clash-2026-02-07-1029264",
-    "time": "2026-02-07T08:18:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI announces big cash reward for Ayush Mhatre-led Indian U19 World Cup-winning team",
-    "desc": "The Board of Control for Cricket in India (BCCI) on Saturday announced a handsome prize money of Rs 7.50 crore for the Indian U19 World Cup-winning team. The Ayush Mhatre-led Indian team defeated England by...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-announces-big-cash-reward-for-ayush-mhatre-led-indian-u19-world-cup-winning-team-2026-02-07-1029260",
-    "time": "2026-02-07T07:23:53.000Z"
   }
 ];
