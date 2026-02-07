@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "কেন্দ্রীয় ও রাজ্য বাজেটের বিরুদ্ধে CPIM-এর প্রতিবাদ মিছিল ধূপগুড়িতে, বাজেটের প্রতিলিপি জ্বালিয়ে জাতীয় সড়ক অবরোধ, বিক্ষোভ!",
+    "desc": "কেন্দ্রীয় বাজেট ও রাজ্য বাজেটের বিরুদ্ধে প্রতিবাদ জানিয়ে ধূপগুড়িতে মিছিল ও বিক্ষোভ কর্মসূচি পালন করল সিপিআইএম ধূপগুড়ি এরিয়া কমিটি। শুক্রবার ধূপগুড়ি সিপিআইএম পার্টি কার্যালয়ের সামনে থেকে মিছিল শুরু হয়। মিছিলটি শহরের বিভিন্ন গুরুত্বপূর্ণ রাস্তা পরিক্রমা করে ধূপগুড়ি বাস স্ট্যান্ড সংলগ্ন চৌপতি এলাকায় পৌঁছায়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/04/cpim-2025-04-2ce8b39d88f09c4893be1528d1386d56-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/west-bengal/west-bengal-budget-2026-cpim-held-a-protest-march-in-dhupguri-against-the-central-and-state-budgets-burning-copies-of-the-budget-and-blocking-the-national-highway-in-protest-sanj-2529616.html",
+    "time": "2026-02-07T03:37:29.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "উত্তরপ্রদেশে বাড়ল চূড়ান্ত ভোটার তালিকা প্রকাশের সময়সীমা, ১০ এপ্রিল প্রকাশিত হবে চূড়ান্ত তালিকা",
     "desc": "এসআইআর প্রক্রিয়ায় আরও সময় লাগবে জানিয়ে গত ২ ফেব্রুয়ারি উত্তরপ্রদেশের মুখ্য নির্বাচনী আধিকারিক নির্বাচন কমিশনকে চিঠি লিখেছিলেন। কারণ হিসাবে একাধিক সমস্যার কথা উল্লেখ করেছিলেন তিনি। সেই চিঠি পাওয়ার পরেই সমস্যাগুলির কথা বিবেচনা করে কমিশন। সময়সীমা বাড়ানোর সিদ্ধান্ত নেওয়া হয়।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/asqa-2026-02-276bc7efe44bd66e3f6f1aff1188d301-3x2.jpg",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/business/union-budget-2026-nirmala-sitharaman-announces-rare-earth-corridors-in-4-states-including-tamil-nadu-ss-2521664.html",
     "time": "2026-02-01T06:50:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "\"কিছুদিন আগেই তো বাংলা নতুন রেল পেল, এই বাজেটেও বাংলা বাইরে থাকবে না\" শমীক ভট্টাচার্য",
-    "desc": "কেন্দ্রীয় বাজেট ২০২৬ ঘিরে সাধারণ মানুষের প্রত্যাশা অনেকটাই। ১ ফেব্রুয়ারি অর্থমন্ত্রী নির্মলা সীতারমন বাজেট পেশ করবেন। সেখানে পেট্রোল ও ডিজেলকে পণ্য ও পরিষেবা কর বা জিএসটির আওতায় আনার ঘোষণা হতে পারে বলে মনে করা হচ্ছে। দীর্ঘদিন ধরেই পেট্রোল ও ডিজেলকে জিএসটির আওতায় আনার দাবি জানানো হচ্ছে। এই সিদ্ধান্ত কার্যকর হলে সাধারণ মানুষের উপর বড়সড় স্বস্তি আসতে পারে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/budget-2026-8-2026-02-efcae38f62dc25dc935a8bdc45a084f7.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/short-videos/business/union-budget-2026-bjp-mp-shamik-bhattacharya-says-that-bengal-will-be-benefitted-in-this-budget-pbd-2521601.html",
-    "time": "2026-02-01T06:07:40.000Z"
   }
 ];

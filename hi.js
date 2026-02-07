@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When and where to watch tournament opener in India?",
+    "desc": "Pakistan and the Netherlands will bring the T20 World Cup 2026 to life as the two face each other in the tournament opener at the Sinhalese Sports Club, Colombo. The World Cup 2026 promises a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pak-vs-ned-t20-world-cup-2026-live-streaming-details-when-and-where-to-watch-tournament-opener-in-india-2026-02-07-1029239",
+    "time": "2026-02-07T03:44:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How surface at Sinhalese Sports Club, Colombo will play?",
+    "desc": "The T20 World Cup 2026 will burst into life today as 20 teams gear up for the biggest carnival in the format. Pakistan and Netherlands will open the tournament with their clash at the Sinhalese...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pak-vs-ned-t20-world-cup-2026-pitch-report-how-surface-at-sinhalese-sports-club-colombo-will-play-in-tournament-opener-in-sri-lanka-2026-02-07-1029238",
+    "time": "2026-02-07T03:12:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 Teams that played T20 World Cup 2024 but will miss 2026 edition feat. Bangladesh and Uganda",
+    "desc": "The T20 World Cup 2026 kicks off today as all 20 teams will look to put their best foot forward in the hunt for the glorious title. The 20 teams have been placed in four...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/3-teams-that-played-t20-world-cup-2024-but-will-miss-2026-edition-feat-bangladesh-and-uganda-2026-02-07-1029235",
+    "time": "2026-02-07T02:41:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli's legendary T20 World Cup record under threat as Jos Buttler eyes history",
+    "desc": "India legend Virat Kohli will not be seen in action in the T20 World Cup 2026 that kicks off on February 7. This will be the first T20 World Cup since 2012 that Kohli won't...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohlis-legendary-t20-world-cup-record-under-threat-as-jos-buttler-eyes-history-2026-02-07-1029232",
+    "time": "2026-02-07T02:05:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India look to achieve legendary record as they kick off T20 World Cup title defence",
     "desc": "Defending champions India look to achieve what no team in the world has ever done in T20 cricket. The Suryakumar Yadav-led team has been touted as strong title contenders, considering the firepower that they possess...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mohammed-siraj-replaces-harshit-rana-in-india-s-t20-world-cup-squad-2026-02-06-1029208",
     "time": "2026-02-06T15:55:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India clinch record-breaking sixth U19 World Cup, Vaibhav Sooryavanshi smacks 175 to beat England",
-    "desc": "India U19 have secured their sixth U19 World Cup title, beating England by 100 runs in the final at the Harare Sports Club in Zimbabwe. The Ayush Mhatre-led side arrived at the summit clash with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-clinch-record-breaking-sixth-u19-world-cup-vaibhav-sooryavanshi-smacks-175-to-beat-england-2026-02-06-1029199",
-    "time": "2026-02-06T14:51:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India U19 break all-time record with jaw-dropping batting show in World Cup final against England",
-    "desc": "India U19 have shattered an all-time record with their jaw-dropping performance in the World Cup 2026 final against England at the Harare Sports Club on Friday, February 6. Led by a record-breaking 175 from Vaibhav...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-u19-break-all-time-record-with-jaw-dropping-batting-show-in-world-cup-final-against-england-2026-02-06-1029197",
-    "time": "2026-02-06T14:34:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sushil Kumar denied bail by Delhi court in Sagar Dhankar murder case",
-    "desc": "Olympian wrestler Sushil Kumar was denied bail plea by a Delhi Court in connection with the murder of former junior national wrestling champion Sagar Dhankar at Chhatrasal Stadium on Friday, February 6. The bail application was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/sushil-kumar-denied-bail-by-delhi-court-in-sagar-dhankar-murder-case-2026-02-06-1029185",
-    "time": "2026-02-06T12:47:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nora Fatehi, Badshah among others to feature in star-studded opening ceremony",
-    "desc": "The much-awaited T20 World Cup 2026 begins tomorrow, February 7, with Pakistan taking on Netherlands in the opening game of the tournament at the Sinhalese Sports Club in Colombo. Hosts India will take the field...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-2026-nora-fatehi-badshah-among-others-to-feature-in-star-studded-opening-ceremony-2026-02-06-1029177",
-    "time": "2026-02-06T12:00:24.000Z"
   }
 ];

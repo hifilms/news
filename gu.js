@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "ભારત અને અમેરિકા વચ્ચે ટ્રેડ ડીલમાં આ મુદ્દાઓ પર થઈ સહમતી, 10 પોઈન્ટમાં સમજો",
+    "desc": "ભારત અને યુનાઇટેડ સ્ટેટ્સે વેપાર કરાર માટે વચગાળાના માળખાની ઔપચારિક જાહેરાત કરતા સંયુક્ત નિવેદન બહાર પાડ્યું છે. આ કરાર હેઠળ, યુએસ ટેરિફ 50 ટકાથી ઘટાડીને 18 ટકા કરશે. યુએસ અને ભારત આ માળખાને તાત્કાલિક અમલમાં મૂકશે અને વચગાળાના કરારને અંતિમ સ્વરૂપ આપવા માટે કામ કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/this-is-included-in-the-trade-deal-between-india-and-america-understand-in-10-points-464176 ",
+    "time": "2026-02-07T03:01:55.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "દેશની સૌથી સસ્તી 7-સીટર કારને 11914 લોકોએ ખરીદી, કિંમત છે 5.18 લાખ, મળે છે 6 એરબેગ્સ",
     "desc": "દેશમાં મારુતિ સુઝુકી એકતરફી પ્રભુત્વ ધરાવે છે. તેમ છતાં, એક સેગમેન્ટ એવું છે જ્યાં તે વર્ષોથી પ્રભુત્વ ધરાવે છે. આ સેગમેન્ટમાં બીજી કોઈ કાર તેની નજીક પણ નથી. અમે વાન સેગમેન્ટ વિશે વાત કરી રહ્યા છીએ, જ્યાં આ કારનું વર્ષોથી પ્રભુત્વ ધરાવે છે.",
@@ -358,15 +367,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/transgender-spits-gutkha-on-girl-for-not-giving-money-viral-video-spreads-like-wildfire-on-social-media-463962 ",
     "time": "2026-02-04T16:15:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કોરિયન ગેમ કેટલી ખતરનાક? કેવી રીતે બચાવશો તમારા બાળકોનો જીવ, એક્સપર્ટે શું આપી સલાહ?",
-    "desc": "ગાઝિયાબાદમાં ત્રણ સગીર બહેનોએ બાલ્કનીમાંથી કૂદીને આત્મહત્યા કરી, આ સાથે જ ભોપાલમાં પણ એક 14 વર્ષના છોકરાએ ઘરે ફાંસી લગાવી આત્મહત્યા કરી લીધી. બાળકોની આત્મહત્યા પાછળ ઓનલાઈન ગેમ મુખ્ય કારણ છે. તમારા બાળકોને કેવી રીતે સુરક્ષિત રાખવા તે વિશે મનોચિકિત્સક શું કહે છે, ચાલો તેના વિશે વિગતવાર જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/exclusive-how-dangerous-is-korean-game-how-does-it-take-your-children-lives-what-experts-said-tips-for-parents-463943 ",
-    "time": "2026-02-04T13:15:57.000Z"
   },
   {
     "cat": "Sports",
