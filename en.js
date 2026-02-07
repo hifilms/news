@@ -1,5 +1,194 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Abbas Araghchi",
+    "desc": "Iran’s Foreign Minister faces the daunting task of finding a diplomatic way out of tensions with the U.S. without compromising key national security interests at a time when the economy struggles and internal tensions remain high after the January crackdown",
+    "img": "https://th-i.thgim.com/public/news/national/j0ze5c/article70605031.ece/alternates/LANDSCAPE_1200/Abbas%20araghchi_Art.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/abbas-araghchi-the-diplomat-on-a-tightrope/article70605045.ece",
+    "time": "2026-02-07T21:10:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress calls pact a surrender, says something being hidden",
+    "desc": "Congress criticized the India-US trade deal framework as a \"surrender,\" citing concerns over unspecified \"additional products\" for tariff reductions. Leaders argued the deal is heavily tilted towards the US and will negatively impact farmers, highlighting a lack of transparency in the agreement's details.",
+    "img": "https://static.toiimg.com/photo/msid-128048117,imgsize-855093.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/congress-calls-pact-a-surrender-says-something-being-hidden/articleshow/128048122.cms",
+    "time": "2026-02-07T21:10:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "US deal boosts India's growth engine: Amit Shah",
+    "desc": "India and the United States have reached an interim trade agreement. This deal is expected to boost India's economic growth and manufacturing sector. Government leaders stated that the agreement safeguards the nation's core interests. It aims to create more jobs and opportunities for farmers, entrepreneurs, and businesses across the country.",
+    "img": "https://static.toiimg.com/photo/msid-128047947,imgsize-892783.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/us-deal-boosts-indias-growth-engine-amit-shah/articleshow/128047950.cms",
+    "time": "2026-02-07T21:01:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Trust has become India's strongest currency: PM Modi",
+    "desc": "Prime Minister Modi highlighted recent trade agreements with the US and other nations as proof of growing global trust in India. He emphasized the country's shift from a mere market to an investment and trade hub, fostering 'Make in India' and creating jobs. These deals, he stated, reflect a dynamic partnership and commitment to innovation and shared prosperity.",
+    "img": "https://static.toiimg.com/photo/msid-128047831,imgsize-726915.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/trust-has-become-indias-strongest-currency-pm-modi/articleshow/128047839.cms",
+    "time": "2026-02-07T20:55:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Govt rolls out draft rules to simplify income tax filing",
+    "desc": "The income tax department has released draft rules aimed at simplifying tax filing and compliance for individuals and companies, effective April 1. These rules emphasize faceless assessments and reduced disputes, with simplified language and redesigned forms for easier taxpayer understanding. The draft is open for public feedback until February 22.",
+    "img": "https://static.toiimg.com/photo/msid-128047750,imgsize-459447.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/govt-rolls-out-draft-rules-to-simplify-income-tax-filing/articleshow/128047754.cms",
+    "time": "2026-02-07T20:51:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Politically motivated': Sonia Gandhi slams plea over 1980 voter list inclusion",
+    "desc": "Sonia Gandhi Saturday termed a criminal revision petition against a magisterial order as \"politically motivated and frivolous.\" The petition alleges her name was included in electoral rolls in 1980 using forged documents, despite her acquiring Indian citizenship later. Gandhi argued citizenship and electoral roll issues fall outside criminal court jurisdiction.",
+    "img": "https://static.toiimg.com/photo/msid-128047643,imgsize-589708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/politically-motivated-sonia-gandhi-slams-plea-over-1980-voter-list-inclusion/articleshow/128047614.cms",
+    "time": "2026-02-07T20:44:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil literature is eternal and its culture global, PM Modi says in Malaysia",
+    "desc": "Prime Minister Modi lauded Tamil culture at a Kuala Lumpur event, highlighting its global reach and the significant presence of Tamilians in India's leadership. He announced UPI's upcoming availability in Malaysia and the opening of India's first consulate there, strengthening bilateral ties and community outreach. Modi also pledged a new Thiruvalluvar Centre to honor shared heritage.",
+    "img": "https://static.toiimg.com/photo/msid-128047571,imgsize-935478.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tamil-literature-is-eternal-and-its-culture-global-pm-modi-says-in-malaysia/articleshow/128047535.cms",
+    "time": "2026-02-07T20:41:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I had a mental health scare’: Imran on what made him seek help",
+    "desc": "Actor Imran Khan candidly discusses his mental health journey, emphasizing the importance of conscious self-care for mental well-being, akin to physical health. He clarifies that his divorce was a catalyst for healing, not the cause of a mental health crisis, as he was already struggling during the later years of his marriage.",
+    "img": "https://static.toiimg.com/photo/msid-128047461,imgsize-15448.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-had-a-mental-health-scare-imran-khan-on-the-wake-up-call-that-made-him-seek-help-says-theres-need-for-awareness-exclusive/articleshow/128047429.cms",
+    "time": "2026-02-07T20:35:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Govt spent barely 40% of Budget on biggest schemes in 9 months",
+    "desc": "Government spending on major schemes lags significantly, with only 41.2% of the budgeted amount disbursed in the first nine months. Revised estimates for 47 out of 53 large projects are lower than initially planned. Several key initiatives, including the Jal Jeevan Mission, show drastically reduced spending, raising concerns about project execution and fund utilization.",
+    "img": "https://static.toiimg.com/photo/msid-128047195,imgsize-966033.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/govt-spent-barely-40-of-budget-on-biggest-schemes-in-9-months/articleshow/128047205.cms",
+    "time": "2026-02-07T20:25:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vinod Khanna meditated naked at chowpatty, was Osho's garderner",
+    "desc": "Vinod Khanna's wife, Kavita, revealed his spiritual journey began in his youth, intensified by family losses. He joined Osho's commune, serving as a gardener and helping design attire. Even before his ashram life, Khanna explored nude meditation in Mumbai. His commitment was purely spiritual, not sensational.",
+    "img": "https://static.toiimg.com/photo/msid-128046828,imgsize-15048.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vinod-khanna-was-oshos-garderner-meditated-naked-at-chowpatty-beach-before-going-to-his-ashram-reveals-the-actors-second/articleshow/128046659.cms",
+    "time": "2026-02-07T20:04:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ahead of Macron’s visit, DAC likely to meet next week to approve deal for 114 Rafales",
+    "desc": "India's Defence Acquisition Council is set to consider a major proposal to purchase 114 Rafale fighter jets from France for approximately Rs 3.25 lakh crore. This significant procurement, with a substantial portion to be manufactured in India, aims to bolster the Indian Air Force's fighter squadron strength amidst rising regional security concerns.",
+    "img": "https://static.toiimg.com/photo/msid-128046817,imgsize-942700.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ahead-of-macrons-visit-dac-likely-to-meet-next-week-to-approve-deal-for-114-rafales/articleshow/128046713.cms",
+    "time": "2026-02-07T20:04:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "UK rapper Central Cee confirms conversion to Islam and reveals new name during livestream",
+    "desc": "British rapper Central Cee has confirmed he has converted to Islam and changed his name, revealing the decision during a low-key livestream. The artist, formerly Oakley Caesar-Su, said he had taken the Shahada and adopted the name Akhil. Fans and members of the Muslim community welcomed the announcement, which followed years of subtle references in his music and online posts.",
+    "img": "https://static.toiimg.com/photo/msid-128046771,imgsize-1257867.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/etimes/trending/uk-rapper-central-cee-confirms-conversion-to-islam-and-reveals-new-name-during-livestream/articleshow/128035937.cms",
+    "time": "2026-02-07T20:01:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India, US discuss ways to boost collaboration in critical, emerging defence tech",
+    "desc": "India and the US convened in New Delhi to bolster cooperation in cutting-edge defence technologies. The 24th Indo-US Joint Technical Group Plenary Meeting focused on enhancing joint research and development, involving universities, labs, and industries. Discussions aimed to address evolving defence needs and explore new collaborative avenues, culminating in a project agreement.",
+    "img": "https://static.toiimg.com/photo/msid-128046590,imgsize-958936.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-us-discuss-ways-to-boost-collaboration-in-critical-emerging-defence-tech/articleshow/128046600.cms",
+    "time": "2026-02-07T19:51:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Over 1.7 crore tourists, including 36,000 foreigners, visited J&amp;K in 2025: Govt",
+    "desc": "Jammu & Kashmir welcomed over 1.7 crore tourists in 2025, including more than 36,000 international visitors. While no specific targets are set for 2026, the government is actively working to boost tourist numbers through various initiatives. The Home Stay program has proven successful and is slated for expansion, despite facing challenges like awareness and infrastructure gaps.",
+    "img": "https://static.toiimg.com/photo/msid-128046497,imgsize-1302763.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/over-1-7-crore-tourists-including-36000-foreigners-visited-jk-in-2025-govt/articleshow/128046499.cms",
+    "time": "2026-02-07T19:47:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why is Dreamliner’s fuel system under watch?",
+    "desc": "What happened on a recent Air India flight? Why are certain fuel control switches malfunctioning? Weren’t precautionary checks undertaken after the Ahmedabad mishap in June last year? What is the risk it poses to the engine when switches are faulty?",
+    "img": "https://th-i.thgim.com/public/incoming/1o25aa/article70605306.ece/alternates/LANDSCAPE_1200/iStock-2225114874.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/why-is-the-dreamliner-fuel-system-under-watch-explained/article70604992.ece",
+    "time": "2026-02-07T19:43:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amit Shah review progress of development projects, reaffirms Modi govt’s commitment to building prosperous J&amp;K",
+    "desc": "Union home minister Amit Shah reviewed Jammu and Kashmir's development projects. He also stressed hydropower potential and welfare scheme saturation. Aggressive tourism marketing and sports infrastructure development were highlighted. The region will receive 50-year interest-free loans for capital projects. The government aims for a developed Jammu and Kashmir by 2047.",
+    "img": "https://static.toiimg.com/photo/msid-128046382,imgsize-948503.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/amit-shah-review-progress-of-development-projects-reaffirms-modi-govts-commitment-to-building-prosperous-jk/articleshow/128046373.cms",
+    "time": "2026-02-07T19:41:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP mocks NC’s ‘special status’ call for J&amp;K, says no return of Article 370",
+    "desc": "BJP leader Sunil Sharma challenged the National Conference's demand for Jammu and Kashmir's \"special status,\" stating the term is not in the Indian Constitution. Sunil Sharma argued that Article 370, which NC claims defined this status, has been \"buried,\" dismissing the demand as baseless and accusing NC of misleading voters.",
+    "img": "https://static.toiimg.com/photo/msid-128046233,imgsize-1306978.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bjp-mocks-ncs-special-status-call-for-jk-says-no-return-of-article-370/articleshow/128046244.cms",
+    "time": "2026-02-07T19:36:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Spin-heavy Afghanistan eyes New Zealand scalp",
+    "desc": "Rashid & Co. will aim to emulate their 2024 edition heroics; the batting unit, led by Zadran and Gurbaz, needs to pull its weight if the team has to go deep in the tournament; the Kiwis will be keen on bouncing back from the drubbing in the recent series against India",
+    "img": "https://th-i.thgim.com/public/incoming/bky5qa/article70604663.ece/alternates/LANDSCAPE_1200/DSC_6565.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-spin-heavy-afghanistan-eyes-new-zealand-scalp/article70603564.ece",
+    "time": "2026-02-07T19:20:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "T20 World Cup 2026",
+    "desc": "India, after being asked to bat, slips to 77 for six in the 13th over when SKY’s 49-ball unbeaten 84 takes the side to 161 for nine; USA finds Arshdeep and Siraj too hot to handle and loses by 29 runs",
+    "img": "https://th-i.thgim.com/public/incoming/5ut7pp/article70605169.ece/alternates/LANDSCAPE_1200/2026-02-07T172232Z_186464241_UP1EM271C9JXA_RTRMADP_3_CRICKET-T20-WORLDCUP-IND-USA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/india-vs-united-states-t20-world-cup-2026-match-suryakumar-yadav-monank-patel-updates/article70604201.ece",
+    "time": "2026-02-07T19:02:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Court declines plea to stall release of Shahid Kapoor O'Romeo",
+    "desc": "Vishal Bhardwaj's upcoming film 'O Romeo' has secured a legal victory as a Mumbai civil court refused to stay its release. The court rejected a plea by the daughter of late gangster Hussain Ustara, who claimed the film was based on her father's life, citing a lack of grounds for an injunction and a delay in filing the suit.",
+    "img": "https://static.toiimg.com/photo/msid-128044701,imgsize-120366.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/court-rules-in-favour-of-shahid-kapoors-o-romeo-declines-hussain-ustaras-daughters-plea-to-stall-the-films-release/articleshow/128044592.cms",
+    "time": "2026-02-07T18:43:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Shia Muslims protest in Kashmir over deadly blast at Islamabad mosque",
+    "desc": "Kashmiri Shia Muslims held protests across the region condemning a suicide bombing at a mosque in Islamabad. The attack killed over 30 people during Friday prayers. Demonstrations occurred in Srinagar, Baramulla, and Bandipora. Protesters voiced anger against the Pakistani government and expressed solidarity with the victims. Some raised slogans supporting Syed Hassan Nasrallah, Palestine, and Hezbollah.",
+    "img": "https://static.toiimg.com/photo/msid-128044520,imgsize-1220892.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/shia-muslims-protest-in-kashmir-over-deadly-blast-at-islamabad-mosque/articleshow/128044046.cms",
+    "time": "2026-02-07T18:37:11.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "RSS chief Mohan Bhagwat",
     "desc": "“We said we respect all religions because we are Hindus. There are people who say this was wrong. Islam and Christianity still exist in India. There are skirmishes, but the country has remained united,” says Bhagwat",
@@ -7,15 +196,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/forgetting-hindu-sentiments-led-to-partition-rss-chief-mohan-bhagwat/article70605105.ece",
     "time": "2026-02-07T18:19:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 World Cup 2026",
-    "desc": "India, after being asked to bat, slips to 77 for six in the 13th over when SKY’s 49-ball unbeaten 84 takes the side to 161 for nine; USA finds Arshdeep and Siraj too hot handle and loses by 29 runs",
-    "img": "https://th-i.thgim.com/public/incoming/5ut7pp/article70605169.ece/alternates/LANDSCAPE_1200/2026-02-07T172232Z_186464241_UP1EM271C9JXA_RTRMADP_3_CRICKET-T20-WORLDCUP-IND-USA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/india-vs-united-states-t20-world-cup-2026-match-suryakumar-yadav-monank-patel-updates/article70604201.ece",
-    "time": "2026-02-07T17:50:56.000Z"
   },
   {
     "cat": "Sports",
@@ -252,15 +432,6 @@ const newsData_en = [
     "time": "2026-02-07T13:27:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "MCD commissioner's financial powers enhanced from Rs 5 crore to Rs 50 crore: Delhi govt",
-    "desc": "In an ambitious push for development, Delhi's municipal commissioner now wields expanded financial authority, increasing from Rs 5 crore to a hefty Rs 50 crore. This significant change, spearheaded by the Delhi government, aims to cut through bureaucratic red tape, ensuring that essential projects for roads, sanitation, and civic amenities are launched and completed swiftly.",
-    "img": "https://static.toiimg.com/photo/msid-128035082,imgsize-45192.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mcd-commissioners-financial-powers-enhanced-from-rs-5-crore-to-rs-50-crore-delhi-govt/articleshow/128034886.cms",
-    "time": "2026-02-07T13:24:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why Jasprit Bumrah is not playing India's T20 World Cup opener",
     "desc": "India’s T20 World Cup opener against the USA began with Jasprit Bumrah ruled out due to illness, with Mohammed Siraj replacing him. USA won the toss and chose to bowl on a batting-friendly Wankhede pitch. Suryakumar Yadav admitted pressure but backed India’s approach, while Monank Patel expressed confidence in his team. India and USA named strong XIs as India began their title defence.",
@@ -268,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-usa-why-jasprit-bumrah-is-not-playing-indias-t20-world-cup-opener/articleshow/128034735.cms",
     "time": "2026-02-07T13:20:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Inside the world of 'bhajan concerts'",
-    "desc": "Devotional music concerts are experiencing a surge in popularity, attracting younger audiences with their blend of spiritual chants and contemporary arrangements. These gatherings offer a unique, immersive experience, fostering community and emotional grounding amidst urban life. Prime Minister Modi even highlighted this growing trend, calling it 'bhajan-clubbing,' as traditional practices find new relevance.",
-    "img": "https://static.toiimg.com/photo/msid-128034463,imgsize-1547456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/when-music-turns-into-prayer-inside-the-world-of-bhajan-concerts/articleshow/128033433.cms",
-    "time": "2026-02-07T13:20:30.000Z"
   },
   {
     "cat": "Sports",
@@ -360,15 +522,6 @@ const newsData_en = [
     "time": "2026-02-07T11:50:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Khejri Bachao Andolan': Why Rajasthan is rallying to protect its ‘Kalpavriksha’? Explained",
-    "desc": "A significant protest is under way in Rajasthan over the felling of the khejri tree. Communities are demanding stronger protection for the state tree, alleging that it is being cut to make way for solar power projects. Political leaders across parties have joined the movement, drawing attention to the tree’s cultural and ecological significance. In an arid landscape where survival is closely tied to ecology, the debate in western Rajasthan now extends beyond development to questions of history, identity and survival.",
-    "img": "https://static.toiimg.com/photo/msid-128031778,imgsize-121300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/khejri-bachao-andolan-why-rajasthan-is-rallying-to-protect-its-kalpavriksha-explained/articleshow/128030637.cms",
-    "time": "2026-02-07T11:43:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Shimron Hetmyer scripts history, becomes the fastest ever to…",
     "desc": "Shimron Hetmyer's explosive 64 off 36 balls powered West Indies to 182 for 5 against Scotland. Despite a shaky start and Scotland's disciplined bowling, Hetmyer's rapid counterattack, including a 81-run partnership with Rovman Powell, secured a competitive total. His fastest T20 World Cup fifty for West Indies highlighted his improved fitness and clear batting approach.",
@@ -405,15 +558,6 @@ const newsData_en = [
     "time": "2026-02-07T11:14:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Tamil is India’s link to the world’: PM Modi addresses Indian diaspora in Malaysia; highlights cultural ties",
-    "desc": "Prime Minister Narendra Modi highlighted the strong cultural and emotional ties between India and Malaysia during his interaction with the Indian diaspora in Kuala Lumpur. He praised the community for preserving traditions and acknowledged Malaysia's significant Indian-origin population as a \"living bridge.\" Modi also emphasised the global importance of the Tamil language and culture.",
-    "img": "https://static.toiimg.com/photo/msid-128031107,imgsize-33934.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tamil-is-indias-link-to-the-world-pm-modi-addresses-indian-diaspora-in-malaysia-highlights-cultural-ties/articleshow/128029804.cms",
-    "time": "2026-02-07T11:13:30.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Tara on finding inner peace amid breakup rumours with Veer",
     "desc": "Tara Sutaria addressed her idea of success and peace amid rumours of her breakup with Veer Pahariya. She told Elle India that success is about inner calm and self-awareness. “I’ve learned how to protect my peace,” she said, adding, “As long as I know the truth, that’s enough.”",
@@ -441,33 +585,6 @@ const newsData_en = [
     "time": "2026-02-07T10:37:24.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Valentine picks for anyone tired of fairy tale romance",
-    "desc": "Ditch the storybook conclusions; these cinematic gems delve into the gritty reality of love. Picture a night in vibrant Vienna or a serene afternoon in Tokyo, where films like 'Before Sunrise' and 'Lost in Translation' capture the essence of intimacy found in deep conversations and comfortable silences.",
-    "img": "https://static.toiimg.com/photo/msid-128029579,imgsize-37152.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/from-lost-in-translation-to-call-me-by-your-name-valentine-picks-for-anyone-tired-of-fairy-tale-romance/articleshow/128029579.cms",
-    "time": "2026-02-07T10:36:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Blow to stomachs of Indian farmers': Opposition slams India-US trade framework — who said what",
-    "desc": "Opposition leaders are raising concerns over the India-US Interim Trade Agreement. They claim the government has compromised national interests. Worries are focused on the impact on farmers, tariffs, and oil imports. Leaders suggest the deal could lead to unrest as its full implications become clear. The agreement is part of broader trade negotiations.",
-    "img": "https://static.toiimg.com/photo/msid-128029012,imgsize-50886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/blow-to-stomachs-of-indian-farmers-opposition-slams-india-us-trade-framework-who-said-what/articleshow/128028335.cms",
-    "time": "2026-02-07T10:22:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mumait Khan on brain injury recovery, business",
-    "desc": "Actress Mumait Khan, known for 'Dehka Le,' faced a life-altering brain injury and coma after a home accident. Doctors advised a seven-year break from films. During her recovery, she discovered a passion for makeup and hairstyling, leading her to establish an academy in Hyderabad. Khan has since accepted this new chapter.",
-    "img": "https://static.toiimg.com/photo/msid-128029223,imgsize-44430.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dehka-le-song-fame-mumait-khan-shares-recovery-journey-from-brain-injury-to-business-owner/articleshow/128029223.cms",
-    "time": "2026-02-07T10:20:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Chakka marna inka style nahi hai': Babar trolled on-air",
     "desc": "Pakistan narrowly beat the Netherlands by three wickets in their T20 World Cup opener after a tense chase led by Faheem Ashraf’s late heroics. During the match, ex-India cricketer Mohammad Kaif mocked Babar Azam’s batting style on commentary, saying hitting sixes isn’t his strength. Pakistan captain Salman Agha praised Faheem, while the Dutch rued missed chances.",
@@ -475,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/chakka-marna-inka-style-nahi-hai-babar-azam-trolled-on-air-during-pakistans-t20-world-cup-opener-watch/articleshow/128028474.cms",
     "time": "2026-02-07T10:14:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shahid Kapoor mobbed at 'Paan Ki Dukaan' launch",
-    "desc": "The atmosphere at the 'O Romeo' song debut became wildly unpredictable as enthusiastic fans broke through barriers, nearly overwhelming Shahid Kapoor. In response, security took swift action, leading to a temporary halt of the celebration, but the actor soon reappeared to rapturous cheers.",
-    "img": "https://static.toiimg.com/photo/msid-128028883,imgsize-33152.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/o-romeoshahid-kapoor-swarmed-on-stage-gets-mobbed-at-song-launch-of-paan-ki-dukaan/articleshow/128028883.cms",
-    "time": "2026-02-07T10:07:27.000Z"
   },
   {
     "cat": "Sports",
@@ -601,24 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/hockey/change-of-phase-opportunity-knocks-for-indias-young-hockey-talent/article70601666.ece",
     "time": "2026-02-07T04:31:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US tariffs on India cut to 18%; $30 trillion market access – trade deal explained in 10 points",
-    "desc": "India and the US have announced a framework for an interim trade agreement, significantly reducing tariffs on Indian goods to 18%. This pact aims to boost bilateral trade, with India committing to substantial purchases of US energy and defense products, while also addressing non-tariff barriers and promoting digital trade.",
-    "img": "https://static.toiimg.com/photo/msid-128018335,imgsize-2445132.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/us-tariffs-on-india-cut-to-18-30-trillion-market-access-india-us-trade-deal-explained-in-10-points/articleshow/128017069.cms",
-    "time": "2026-02-07T03:27:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Border 2' box office collection day 15",
-    "desc": "War drama 'Border 2' has crossed Rs 400 crore worldwide in 15 days, with a domestic collection of Rs 297.25 crore. Despite a significant drop in its third week due to competition, the film, starring Sunny Deol and others, enjoyed a strong opening and maintained double-digit collections for its initial run.",
-    "img": "https://static.toiimg.com/photo/msid-128014587,imgsize-62964.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-15-the-sunny-deol-varun-dhawan-ahan-shettys-film-makes-over-rs-400-crore-worldwide/articleshow/128014618.cms",
-    "time": "2026-02-07T00:25:07.000Z"
   },
   {
     "cat": "Sports",
@@ -808,95 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-us-nuclear-programme-talks-in-oman/article70598554.ece",
     "time": "2026-02-06T04:02:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Modi",
-    "desc": "Replying to the debate on the Motion of Thanks to the President’s Address in Rajya Sabha, Mr. Modi refers to the absence of a reply by him in Lok Sabha on the same debate as a ‘defilement of the temple of democracy’ and insult to President Droupadi Murmu",
-    "img": "https://th-i.thgim.com/public/incoming/q6t6r4/article70595942.ece/alternates/LANDSCAPE_1200/PTI02_05_2026_000267B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pm-modi-in-rajya-sabha-speech-budget-session/article70595894.ece",
-    "time": "2026-02-05T20:44:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hockey India names 24-member squad for Pro League",
-    "desc": "While Pawan Malik gets a chance in the goal, defender and drag-flicker Amandeep Lakra has earned a call-up after an impressive outing in the Hockey India League, where he was adjudged the Player of the Tournament.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/hockey/hockey-india-names-24-member-squad-for-pro-league/article70595572.ece",
-    "time": "2026-02-05T20:34:03.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "What are the Epstein files and why has this triggered a political controversy in India?",
-    "desc": "On January 30, the U.S. Department of Justice released over three million pages of documents related to the investigation into Jeffrey Epstein’s sexual abuse network and his associates. The newly released files mention several high-profile global figures. The disclosures triggered political controversy in India after some records appeared to reference individuals allegedly close to Prime Minister Narendra Modi in messages exchanged with the disgraced American financier. Who is Jeffrey Epstein and what are the Epstein Files?",
-    "img": "https://th-i.thgim.com/public/incoming/odcul0/article70595760.ece/alternates/LANDSCAPE_1200/EPSTEIN%20FILES.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-what-are-the-epstein-files-and-why-has-this-triggered-a-political-controversy-in-india/article70595758.ece",
-    "time": "2026-02-05T12:35:48.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Closely monitoring situation in Iran; no reports of any Indian being killed during protests: Govt.",
-    "desc": "Minister of State for External Affairs Kirti Vardhan Singh says the Indian Embassy in Tehran continues to be in ‘regular contact’ with the Indian nationals, including students in Iran, and is providing them suitable guidance",
-    "img": "https://th-i.thgim.com/public/incoming/ufb6kf/article70595438.ece/alternates/LANDSCAPE_1200/2026-01-21T115200Z_746637312_RC2L5JAKXXBB_RTRMADP_3_IRAN-ECONOMY-PROTESTS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/closely-monitoring-situation-in-iran-no-reports-of-any-indian-being-killed-during-protests-govt/article70595412.ece",
-    "time": "2026-02-05T12:23:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Fans thrilled as Kaikini shares words of wisdom with a touch of humour",
-    "desc": "Writer Jayant Kaikini spoke at the 17th Bengaluru International Film Festival, serving up a mix of laughs and wisdom. He opened up about the quirky challenges of writing love songs and what it really means to tell a story on screen",
-    "img": "https://th-i.thgim.com/public/incoming/rxm7mq/article70593159.ece/alternates/LANDSCAPE_1200/_JAI4152.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/biffes-2026-fans-thrilled-as-kaikini-shares-words-of-wisdom-with-a-touch-of-humour/article70592082.ece",
-    "time": "2026-02-05T11:34:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India-U.S. trade deal: Joint statement in ‘four to five days’, legal agreement by mid-March, says Piyush Goyal",
-    "desc": "Commerce Minister said the U.S. will drop tariffs on India to 18% after the joint statement is issued. India, however, will be able to cut tariffs on U.S. goods only after the formal agreement is signed",
-    "img": "https://th-i.thgim.com/public/incoming/vrpuaq/article70594910.ece/alternates/LANDSCAPE_1200/PTI02_03_2026_000374B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/india-us-trade-deal-piyush-goyal-tariffs-joint-statement-legal-agreement/article70594904.ece",
-    "time": "2026-02-05T11:01:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tribeny Rai on the making of Nepalese film ‘Shape of Momo’",
-    "desc": "The film ‘Shape of Momo’ had premiered at the Busan International Film Festival in South Korea in November 2025 where it won the Taipei Film Commission Award and the Songwon Vision Award. Sikkim-based filmmaker Tribeny Rai talks about the making of the movie, which is a commentary on stereotypical gender roles and the toll it takes on women who resist such expectations.",
-    "img": "https://th-i.thgim.com/public/incoming/yxk26m/article70595034.ece/alternates/LANDSCAPE_1200/Tribeny%20Rai%20Thumb.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-tribeny-rai-on-the-making-of-nepalese-film-shape-of-momo/article70595030.ece",
-    "time": "2026-02-05T09:21:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Sentimental Value’, ‘Sirat’ and ‘Hamnet’ headline Red Lorry Film Festival’s international showcase",
-    "desc": "Fresh from major Oscar and BAFTA recognition, Sentimental Value, Sirat and Hamnet will lead the Red Lorry Film Festival’s Global Awards Showcase, bringing some of the most acclaimed international films of the year to Mumbai in March 2026.",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/mmivym/article70594657.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/sentimental-value-sirat-and-hamnet-headline-red-lorry-film-festivals-international-showcase/article70594663.ece",
-    "time": "2026-02-05T06:36:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Indian men, women register contrasting wins to seal quarterfinal spots",
-    "desc": "The men’s Group C clash between India and Singapore went down to the wire, with former world number 1 Kidambi Srikanth coming up with a clinical performance in the third men’s singles against Jia Wei Joel Koh",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/batc-2026-indian-men-women-register-contrasting-wins-to-seal-quarterfinal-spots/article70593269.ece",
-    "time": "2026-02-04T21:14:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India thrash Bhutan to set up SAFF U19 Women's Championship final clash with Bangladesh",
-    "desc": "Pearl Fernandes (16’, 39’, 41’) scored a first-half hat-trick, while Pritika Barman (25’, 90’) got one goal in each half for India. Alisha Lyngdoh (6’), Abhista Basnett (10’), and Divyani Linda (17’) netted one apiece",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/india-thrash-bhutan-to-set-up-saff-u19-womens-championship-final-clash-with-bangladesh/article70593273.ece",
-    "time": "2026-02-04T21:00:04.000Z"
   }
 ];
