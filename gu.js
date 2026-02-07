@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "Gold-Silver Rate: ક્યાં પહોંચ્યા સોના-ચાંદીના ભાવ? ચીન સોનામાં ખેલી રહ્યું છે મોટો દાંવ, આખી દુનિયા પર પડશે અસર!",
+    "desc": "સોના અને ચાંદી ગત સપ્તાહે જે રેકોર્ડ હાઈ પર પહોંચ્યા ત્યારબાદ જબરદસ્ત પછડાયા જો કે કાલે સાંજે વાયદા બજારમાં અને રિટેલ બજારમાં થોડું કરેક્શન જોવા મળ્યું હતું. સોનાના ભાવ ક્યાં પહોંચ્યા અને આખરે ચીને સોના મામલે એવું તે શું કર્યું કે તેની અસર આખી દુનિયા પર જોવા મળશે તે પણ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/what-are-the-latest-gold-silver-rate-china-is-making-a-big-bet-on-gold-may-affect-world-464245 ",
+    "time": "2026-02-07T12:40:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "મનોજ બાજપાયીની વેબ સીરીઝને લઈ બોલી ગઈ બઘડાટી, જાણો ક્યાંથી શરુ થયો વિવાદ અને પરિણામ શું આવ્યું?",
+    "desc": "મનોજ બાજપાયીની વેબ સીરીઝ ઘુસખોર પંડિત રિલીઝ થાય તે પહેલા જ ઈંટરનેટ અને સોશિયલ મીડિયા પર તેને લઈ દેકારો થવા લાગ્યો છે. જ્યારથી વેબ સીરીઝનું ટીઝર લોન્ચ થયું છે ત્યારથી અત્યાર સુધીમાં ઘણું બધું થઈ ચુક્યું છે. તો ચાલો તમને આ વિવાદિત વેબ સીરીઝની એ ટુ ઝેડ માહિતી જણાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/netflix-upcoming-web-series-manoj-bajpayee-starer-ghooskhor-pandit-controvery-a-to-z-details-464246 ",
+    "time": "2026-02-07T12:31:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "₹15 બચાવવાની ફોર્મ્યુલા, જેને 90% લોકો નજરઅંદાજ કરે છે",
+    "desc": "જો તમારી હોમ લોન ચાલી રહી હોય તો આ સમાચાર તમારા માટે છે. તાજેતરમાં ભારતીય રિઝર્વ બેંક દ્વારા રેપો રેટ યથાવત રાખવામાં આવ્યો છે. પરંતુ જો તમે તમારી હોમ લોન પ્લાનિંગ સાથે મેનેજ કરો તો લાખો રૂપિયાની બચત કરી શકો છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/smart-planning-of-home-loan-one-extra-emi-will-save-15-lakhs-464239 ",
+    "time": "2026-02-07T11:03:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "14550mAh બેટરી અને 12GB રેમ સાથે ભારતમાં લોન્ચ થયું 2-ઇન-1 Android PC, જાણો કિંમત",
+    "desc": "બ્રેવ આર્કએ ભારતમાં તેનું 2-ઇન-1 એન્ડ્રોઇડ પીસી લોન્ચ કર્યું છે. આ ઓલ-ઇન-વન એન્ડ્રોઇડ સંચાલિત ટેબ્લેટ જોરદાર સુવિધાઓ આપે છે. તેમાં પાવરફુલ 14550mAh બેટરી, 12GB RAM અને 256GB સ્ટોરેજ છે. આ ટેબ્લેટ પીસી ઈ-કોમર્સ વેબસાઇટ એમેઝોન દ્વારા વેચાણ માટે ઉપલબ્ધ થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/brave-ark-launched-2-in-1-android-pc-in-india-with-14550mah-battery-and-12gb-ram-know-the-price-464222 ",
+    "time": "2026-02-07T09:37:20.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ટ્રેડ ડીલની ચર્ચાઓ વચ્ચે અમેરિકાએ ભારતના પક્ષમાં એવું તે શું કર્યું, ચીન-પાકિસ્તાન કાગારોળ કરશે",
     "desc": "ભારત અને પાકિસ્તાન વચ્ચે જે ટ્રેડ ડીલ થઈ એ ખુબ ચર્ચામાં છે. ભારતના વાણિજ્યમંત્રી પિયુષ ગોયલે આજે આ ટ્રેડ ડીલ વિશે વિગતો જાહેર કરી. આ બધા વચ્ચે અમેરિકાએ એક એવો મેપ શેર કરી દીધો જેણે પાકિસ્તાન અને ચીનના પણ શ્વાસ અદ્ધર કરી નાખ્યા. જાણો એવું તે શું છે એ મેપમાં.",
@@ -585,15 +621,6 @@ const newsData_gu = [
     "time": "2026-01-30T09:28:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "ઓટીટીના દર્શકોનો ઈંતેઝાર ખતમ, રણવીર સિંહની બ્લોકબસ્ટર ફિલ્મ ધુરંધર OTT પર રિલીઝ",
-    "desc": "રણવીર સિંહની ફિલ્મ ધુરંધર ઓટીટી પર ક્યારે રિલીઝ થશે તે વાતની રાહ જોતા લોકોને હવે રાહ જોવાની જરૂર નથી. કારણ કે આ ફિલ્મ હવે ઓટીટી પર આવી ચુકી છે. જો કે ઓટીટી પર રિલીઝ થયેલી ફિલ્મમાં થોડા ફેરફાર કરવામાં આવ્યા છે. આ ફેરફાર શું છે ચાલો જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-release-on-ott-ranveer-singh-superhit-film-dhurandhar-now-streaming-on-netflix-463312 ",
-    "time": "2026-01-30T02:24:58.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "34 KM માઈલેજ, 5 લાખથી ઓછી કિંમત... આ છે દેશની સૌથી સસ્તી CNG કાર",
     "desc": "મારુતિ સુઝુકી ઇન્ડિયાનું દેશમાં CNG સેગમેન્ટમાં સૌથી મોટું માર્કેટ છે. આનું મુખ્ય કારણ કંપની પાસે અન્ય કોઈપણ ઉત્પાદકની તુલનામાં CNG મોડેલોની વિશાળ કેટેગરી છે. ત્યારે આ લેખમાં જાણીશું કે, સૌથી સસ્તી CNG કાર કઈ છે.",
@@ -619,14 +646,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/money-was-deducted-from-atm-but-not-received-this-way-you-will-get-the-money-back-in-full-463085 ",
     "time": "2026-01-27T14:45:34.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "FASTag યુઝર્સ સાવધાન! 1 ફેબ્રુઆરીથી બદલાઈ રહ્યો છે ટોલ ટેક્સ સાથે જોડાયેલો મોટો નિયમ, હવે ટોલ પર મુશ્કેલી થશે ઓછી",
-    "desc": "NHAIએ 1 ફેબ્રુઆરી, 2026થી કાર, જીપ અને વાન માટે FASTags જાહેર કરતી વખતે લાગુ પડતી આ કાર્યવાહી નાબૂદ કરી છે. આ નિર્ણયથી FASTags મેળવવા અને એક્ટિવ કરવામાં વિલંબ ઓછો થશે અને વપરાશકર્તાઓની ફરિયાદો ઓછી થશે તેવી અપેક્ષા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/fastag-users-beware-a-major-rule-related-to-toll-tax-is-changing-from-february-1-now-there-will-be-less-trouble-at-toll-463069 ",
-    "time": "2026-01-27T09:08:38.000Z"
   }
 ];
