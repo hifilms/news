@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India look to achieve legendary record as they kick off T20 World Cup title defence",
+    "desc": "Defending champions India look to achieve what no team in the world has ever done in T20 cricket. The Suryakumar Yadav-led team has been touted as strong title contenders, considering the firepower that they possess...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-look-to-achieve-legendary-record-as-they-kick-off-t20-world-cup-title-defence-2026-02-07-1029230",
+    "time": "2026-02-07T01:35:57.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why did ICC not give any prize money to Indian team after winning U19 World Cup final against England?",
     "desc": "India’s Under-19 team etched their name deeper into cricketing history by lifting a record sixth U19 World Cup title after a commanding 100-run victory over England in the final at the Harare Sports Club in...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-2026-nora-fatehi-badshah-among-others-to-feature-in-star-studded-opening-ceremony-2026-02-06-1029177",
     "time": "2026-02-06T12:00:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND A vs NAM T20 World Cup warm-up Live Cricket Score: India beat Namibia by 130 runs",
-    "desc": "India A posted 197 runs on the board in the first innings of the T20 World Cup warm-up clash against Namibia at the BCCI Centre of Excellence in Bengaluru. Riyan Parag proved to be the star performer,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-a-vs-nam-t20-world-cup-warm-up-live-cricket-score-india-a-vs-namibia-bcci-centre-of-excellence-bengaluru-latest-match-updates-scorecard-teams-1029165",
-    "time": "2026-02-06T10:57:57.000Z"
   }
 ];

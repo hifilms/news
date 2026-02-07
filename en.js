@@ -1,21 +1,300 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Bihar MP Pappu Yadav arrested in 1995 forgery case after late-night drama",
+    "desc": "High drama unfolded at Pappu Yadav’s house in Mandiri locality when a police team arrived to execute a warrant issued by an MP/MLA court in the case registered under section 467 (forgery of documents) of the Indian Penal Code",
+    "img": "https://th-i.thgim.com/public/incoming/bap18p/article70601731.ece/alternates/LANDSCAPE_1200/PTI02_06_2026_000557B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/bihar-purnea-mp-pappu-yadav-arrest-1995-case/article70601728.ece",
+    "time": "2026-02-07T01:45:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "White House releases Joint Statement on India-U.S. interim trade deal",
+    "desc": "“India will eliminate or reduce tariffs on all U.S. industrial goods and a wide range of U.S. food and agricultural products, including dried distillers’ grains (DDGs), red sorghum for animal feed, tree nuts, fresh and processed fruit, soybean oil, wine and spirits, and additional products,” the statement said",
+    "img": "https://th-i.thgim.com/public/incoming/9cud1r/article70602602.ece/alternates/LANDSCAPE_1200/India_US_Tariffs_20860.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/us-india-interim-trade-agreement-joint-statement-white-house/article70601889.ece",
+    "time": "2026-02-07T01:21:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'D55': Why Mammootty and Dhanush film is special",
+    "desc": "Fans are buzzing as Mammootty and Dhanush reunite for D55, their first full-fledged collaboration since 2013's 'Kammath & Kammath'. Directed by Rajkumar Periasamy, the film reportedly celebrates unsung heroes. Mammootty expressed his elation, calling it an honour to join Dhanush and the director, who also shared heartfelt welcomes.",
+    "img": "https://static.toiimg.com/photo/msid-128015657,imgsize-61300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mammootty-and-dhanush-make-d55-special-why-fans-call-it-a-dream-team/articleshow/128015538.cms",
+    "time": "2026-02-07T01:18:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sabrina Impacciatore leads Milano Cortina opening spectacle",
+    "desc": "Italian actress Sabrina Impacciatore, famed for 'The White Lotus,' captivated audiences at the Milano Cortina 2026 Winter Olympics opening ceremony. Her six-minute dance routine celebrated a century of Winter Games history, honoring Italy and its host cities. She joined a star-studded lineup, embodying the spirit of sport and creativity.",
+    "img": "https://static.toiimg.com/photo/msid-128015642,imgsize-576855.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/sabrina-impacciatore-leads-2026-winter-olympics-opening-spectacles-the-white-lotus-star-dazzles-with-a-6-min-dance-routine/articleshow/128015649.cms",
+    "time": "2026-02-07T01:17:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A panchayat dream and a daughter’s murder",
+    "desc": "On January 29, a girl’s body was found in the Nizam Sagar distributary canal in Telangana’s Nizamabad. The police say the girl’s father killed her, his firstborn, so that his wife could contest the panchayat election. Under Maharashtra’s rules, candidates with more than two children cannot contest local elections and the couple had three. Marri Ramu travels to Nizamabad and Nanded to trace the sequence of the tragedy",
+    "img": "https://th-i.thgim.com/public/incoming/wxsrq/article70600967.ece/alternates/LANDSCAPE_1200/DSC8072.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/a-panchayat-dream-and-a-daughters-murder/article70600955.ece",
+    "time": "2026-02-07T01:06:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'VVK' BO day 8: Jeethu Joseph film falls to 11 lakhs",
+    "desc": "Jeethu Joseph's latest film, 'Valathu Vashathe Kallan,' is facing a significant box office struggle, earning a mere Rs 11 lakhs on its eighth day in Kerala. Despite a strong cast and director's reputation, audience interest has plummeted, with collections dropping sharply after the initial days. The film's future appears bleak, needing a miracle to recover.",
+    "img": "https://static.toiimg.com/photo/msid-128015261,imgsize-43978.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/valathu-vashathe-kallan-box-office-collections-day-8-jeethu-joseph-film-falls-to-11-lakhs/articleshow/128015261.cms",
+    "time": "2026-02-07T00:59:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "DJ Young Slade passes away at 27; grieving father shares statement",
+    "desc": "Rapper Lil Jon's son, Nathan Smith, also known as DJ Young Slade, has tragically passed away at 27. Initially reported missing, his body was later found. Lil Jon shared heartfelt tributes, remembering his son's kindness and passion for music. The devastating news has prompted an outpouring of condolences from fans and fellow celebrities.",
+    "img": "https://static.toiimg.com/photo/msid-128015165,imgsize-24912.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/lil-jons-son-dj-young-slade-found-dead-his-mother-and-i-are-devastated-says-grieving-father/articleshow/128015165.cms",
+    "time": "2026-02-07T00:54:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Strike a balance, PM Modi tells students",
+    "desc": "PM Modi, at Pariksha Pe Charcha 2026, urged students to find balance between academics and skills, emphasizing life and professional skills are intertwined. He encouraged pursuing gaming as a skill, drawing from Indian stories, but warned against gambling. Collaborative learning and prioritizing Class XII exams were also highlighted, with a call for parents to trust their children's individual growth.",
+    "img": "https://static.toiimg.com/photo/msid-128015107,imgsize-1519886.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/studies-vs-gaming-strike-a-balance-pm-modi-tells-students/articleshow/128015124.cms",
+    "time": "2026-02-07T00:50:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Anomie' BO day 1: Bhavana film opens at 23 lakhs",
+    "desc": "The Equation of Death,' starring Bhavana and Rahman, had a sluggish start at the box office, earning just Rs 23 lakhs worldwide on its opening day. The film's dark, emotional theme and crime mystery plot failed to draw significant crowds, with the Malayalam version collecting Rs 18 lakhs and the Tamil version a mere Rs 2 lakhs.",
+    "img": "https://static.toiimg.com/photo/msid-128014869,imgsize-36828.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/anomie-box-office-collections-day-1-bhavana-film-starts-at-23-lakhs-thriller-struggles/articleshow/128014869.cms",
+    "time": "2026-02-07T00:41:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ashakal Aayiram' BO day 1: Jayaram film opens with 51 lakhs",
+    "desc": "Ashakal Aayiram has opened to a decent Rs 51 lakh worldwide collection, with Rs 46 lakh net in India. Audiences are enjoying the father-son chemistry of Jayaram and Kalidas Jayaram, praising the emotional climax and clean humor. Despite a slow first half, the film offers a warm family entertainer, with hopes for strong weekend performance.",
+    "img": "https://static.toiimg.com/photo/msid-128014545,imgsize-84976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/ashakal-aayiram-box-office-collections-day-1-jayaram-film-opens-with-51-lakhs/articleshow/128014545.cms",
+    "time": "2026-02-07T00:25:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Border 2' box office collection day 15",
+    "desc": "War drama 'Border 2' has crossed Rs 400 crore worldwide in 15 days, with a domestic collection of Rs 297.25 crore. Despite a significant drop in its third week due to competition, the film, starring Sunny Deol and others, enjoyed a strong opening and maintained double-digit collections for its initial run.",
+    "img": "https://static.toiimg.com/photo/msid-128014587,imgsize-62964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-15-the-sunny-deol-varun-dhawan-ahan-shettys-film-makes-over-rs-400-crore-worldwide/articleshow/128014618.cms",
+    "time": "2026-02-07T00:25:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "1 more month for filing claims",
+    "desc": "The Election Commission has granted a one-month extension for filing claims and objections on Uttar Pradesh's draft electoral rolls, now allowing submissions until March 6. This marks the third extension for the state's voter list revision, with the final rolls to be published on April 10.",
+    "img": "https://static.toiimg.com/photo/msid-128014564,imgsize-1478206.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/3rd-extension-in-up-sir-1-more-month-for-filing-claims/articleshow/128014516.cms",
+    "time": "2026-02-07T00:22:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "NSE board approves IPO via OFS route",
+    "desc": "The National Stock Exchange (NSE) board has approved its long-awaited public offering, which will be an offer-for-sale. LIC currently holds the largest stake at 10%, followed by the SBI group with 7.6%. A five-member panel has been formed to facilitate the IPO process.",
+    "img": "https://static.toiimg.com/photo/msid-128014377,imgsize-1433131.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/nse-board-approves-ipo-via-ofs-route/articleshow/128014355.cms",
+    "time": "2026-02-07T00:12:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mardaani 3' BO day 8: Rani Mukerji film crosses 28 crores",
+    "desc": "Mardaani 3 continues its box office run, earning approximately Rs 1.75 crore on its eighth day, bringing the total to Rs 28.05 crore. Despite a slower start to its second week, the film maintains a stable pace, with evening and night shows showing better audience turnout.",
+    "img": "https://static.toiimg.com/photo/msid-128014204,imgsize-13686.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mardaani-3-box-office-collections-day-8-rani-mukerji-film-passes-28-crore-mark/articleshow/128014204.cms",
+    "time": "2026-02-07T00:07:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Reliance returns to buying Venezuelan oil",
+    "desc": "Reliance has resumed importing Venezuelan crude after a hiatus, acquiring a 2 million barrel cargo. This marks India's first purchase since US intervention in Venezuela's oil sector and follows a US-India trade deal. Previously, Reliance was a significant buyer of Venezuelan oil before US sanctions.",
+    "img": "https://static.toiimg.com/photo/msid-128014179,imgsize-431720.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/reliance-returns-to-buying-venezuelan-oil/articleshow/128014136.cms",
+    "time": "2026-02-07T00:01:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Backlift like Lara, world champion at 14: Rise and rise of unconventional Sooryavanshi",
+    "desc": "Still two-years younger than what Sachin Tendulkar's age was at the time of his India debut, he has a bat-swing that reminds of Brian Charles Lara, Harmanpreet Kaur, and Yuvraj Singh, and like footballer Lamine Yamal, who has emerged as a teenage sensation at the highest level, Sooryavanshi’s age has rarely matched the stage he performs on.",
+    "img": "https://static.toiimg.com/photo/msid-128000338,imgsize-69392.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/backlift-like-brian-lara-world-champion-at-14-the-rise-and-rise-of-unconventional-vaibhav-sooryavanshi/articleshow/127999824.cms",
+    "time": "2026-02-06T23:59:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Govt receives fin bids for IDBI’s strategic selloff",
+    "desc": "The government has received financial bids for the strategic disinvestment of IDBI Bank, marking significant progress in the stake sale. This move, involving a combined 60.7% stake sale by the government and LIC, is expected to fetch around Rs 33,000 crore.",
+    "img": "https://static.toiimg.com/photo/msid-128014126,imgsize-553727.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/govt-receives-fin-bids-for-idbis-strategic-selloff/articleshow/128014070.cms",
+    "time": "2026-02-06T23:57:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Tata Steel profits up 9x on improved sales",
+    "desc": "Tata Steel's Q3FY26 profit soared multifold to Rs 2,730 crore, driven by a 14% surge in domestic delivery volumes, marking a first with over six million tonnes. Despite weak steel prices, increased capacity utilization boosted revenue by 6% to Rs 57,002 crore. Recent import tariffs are expected to further support domestic producers.",
+    "img": "https://static.toiimg.com/photo/msid-128013976,imgsize-758806.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/tata-steel-profits-up-9x-on-improved-sales/articleshow/128013908.cms",
+    "time": "2026-02-06T23:48:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "30 Pakistan-origin cricketers set to play in T20 WC",
+    "desc": "The 2026 T20 World Cup will showcase 30 players of Pakistani origin representing 10 different nations, underlining how modern cricket transcends borders. From UAE’s Muhammad Jawad Ullah to Zimbabwe captain Sikandar Raza and England’s Rehan Ahmed, it shows how cricket has moved beyond rigid ideas of nationality and has become more inclusive and diverse by embracing migrants.",
+    "img": "https://static.toiimg.com/photo/msid-127982756,imgsize-64944.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/from-sikandar-raza-to-rehan-ahmed-30-pakistan-origin-cricketers-set-to-play-in-t20-world-cup/articleshow/127982148.cms",
+    "time": "2026-02-06T23:30:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India, US reach interim trade pact framework: What's in the deal",
+    "desc": "India and the United States have agreed to a framework for an interim trade deal, signaling a de-escalation of recent trade tensions. This agreement reaffirms their commitment to broader Bilateral Trade Agreement negotiations. The US also lifted punitive tariffs imposed on Indian goods over its Russian oil imports.",
+    "img": "https://static.toiimg.com/photo/msid-128013458,imgsize-67354.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-reach-interim-trade-pact-framework-whats-in-the-deal/articleshow/128013428.cms",
+    "time": "2026-02-06T23:26:58.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Trump signs executive order lifting 25% punitive tariff on India over Russian oil",
+    "desc": "US President Donald Trump has revoked the additional 25% tariff on Indian imports, previously imposed due to New Delhi's Russian oil purchases. This decision follows a recent trade deal where India agreed to reduce these imports. The move aims to ease trade tensions and comes as India has already begun scaling back its Russian oil acquisitions.",
+    "img": "https://static.toiimg.com/photo/msid-128013163,imgsize-31894.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/trump-signs-executive-order-lifting-25-punitive-tariff-on-india-over-russian-oil/articleshow/128013146.cms",
+    "time": "2026-02-06T23:07:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress decision to go solo wont impact Left Front’s prospect in WB Assembly polls: Md Salim",
+    "desc": "The Congress party on February 5, 2026, announced that it will contest independently in all the 294 Assembly constituencies in West Bengal, ending speculation of any electoral understanding with the Left Front in the polls due in next few months",
+    "img": "https://th-i.thgim.com/public/incoming/cgdi5v/article70601881.ece/alternates/LANDSCAPE_1200/80717_14_8_2025_16_48_19_4_140825CPIMPRESSCONFERENCE4.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/congress-decision-to-go-solo-wont-impact-left-fronts-prospect-in-wb-assembly-polls-md-salim/article70600860.ece",
+    "time": "2026-02-06T22:47:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Old is gold as prices singe, rush for advance purchase",
+    "desc": "Indian consumers are actively exchanging old gold for new and accelerating wedding jewellery purchases due to soaring gold prices. Titan Company reports a significant increase in exchange-led sales, with nearly half of Tanishq's sales now involving exchanges. Consumers are opting for lighter-weight and lower-karat gold and diamond options to manage costs.",
+    "img": "https://static.toiimg.com/photo/msid-128012465,imgsize-48132.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/old-is-gold-as-prices-singe-rush-for-advance-purchase/articleshow/128012291.cms",
+    "time": "2026-02-06T22:38:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "RBI to roll out risk-based deposit insurance in April",
+    "desc": "Starting April 1, 2026, banks will pay deposit insurance premiums based on their financial health, a global shift. Stronger banks with better risk management will see reduced costs, while weaker ones face higher charges. Depositor protection remains unchanged at Rs 5 lakh per account, with no public disclosure of bank risk ratings.",
+    "img": "https://static.toiimg.com/photo/msid-128012191,imgsize-1481660.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-to-roll-out-risk-based-deposit-insurance-in-april/articleshow/128012074.cms",
+    "time": "2026-02-06T22:34:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ayesha Khan reacts to being compared with Tamannaah, Nora",
+    "desc": "Ayesha Khan is basking in the success of Dhurandhar and the overwhelming response to her dance number Shararat. As the film continues to draw praise, the actress has been reflecting on her journey so far — from her early life and social media stardom to Bigg Boss and finally stepping into the film industry. In a recent interaction, Ayesha addressed the frequent comparisons made between her and established performers like Nora Fatehi and Tamannaah Bhatia.",
+    "img": "https://static.toiimg.com/photo/msid-128011937,imgsize-104962.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ayesha-khan-reacts-to-being-compared-with-tamannaah-bhatia-and-nora-fatehi-after-dhurandhar-success-comparison-will-never-make-me-happy/articleshow/128011728.cms",
+    "time": "2026-02-06T22:34:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Products by Haryana jail inmates attracting crowd at Surajkund Crafts Festival in Faridabad",
+    "desc": "A press statement issued by the Haryana Public Relations Department said that products made by the inmates were available at stalls number 1130 to 1133, 1135 and 1136, set up by the Prisons Department at the fair",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/haryana/products-by-haryana-jail-inmates-attracting-crowd-at-surajkund-crafts-festival-in-faridabad/article70600921.ece",
+    "time": "2026-02-06T22:32:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "GDP growth outlook raised to 7.4%, repo rate stays at 5.25%",
+    "desc": "The RBI has raised India's GDP growth forecast for the current fiscal year to 7.4%, while keeping the repo rate unchanged at 5.25% and maintaining a neutral monetary policy stance. Governor Sanjay Malhotra highlighted strong macroeconomic fundamentals, with growth improving and inflation remaining benign, creating a favorable economic environment for India.",
+    "img": "https://static.toiimg.com/photo/msid-128011536,imgsize-54942.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gdp-growth-outlook-raised-to-7-4-repo-rate-stays-at-5-25/articleshow/128011272.cms",
+    "time": "2026-02-06T22:25:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Cyber scammed? RBI plans compensation up to Rs 25,000",
+    "desc": "The RBI is set to introduce new rules to protect bank customers. Small digital fraud victims could receive up to Rs 25,000 compensation. Stricter guidelines will also target mis-selling of financial products and aggressive loan recovery practices. These measures aim to enhance consumer safety amidst growing cyber risks and unfair sales tactics.",
+    "img": "https://static.toiimg.com/photo/msid-128011005,imgsize-696440.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/cyber-scammed-rbi-plans-compensation-up-to-rs-25000/articleshow/128010770.cms",
+    "time": "2026-02-06T22:19:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'When told I'm 75, I said 25 yrs left': PM Modi tells students to focus on future",
+    "desc": "Prime Minister Narendra Modi advised students at 'Pariksha Pe Charcha' that education is for life, not just exams, emphasizing character and temperament over grades. He encouraged focusing on future goals rather than dwelling on past achievements, urging them to live in the present and plan for what lies ahead.",
+    "img": "https://static.toiimg.com/photo/msid-128010143,imgsize-298150.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/when-told-im-75-i-said-25-yrs-left-pm-modi-tells-students-to-focus-on-future/articleshow/128010068.cms",
+    "time": "2026-02-06T22:08:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'I don't know what will happen to me': Pappu Yadav after arrest in 1995 case",
+    "desc": "Purnea MP Pappu Yadav was arrested by Patna Police in connection with a 1995 case, expressing fears for his safety and demanding to be taken directly to court. He questioned the police's methods and the timing of the arrest. The MP was later admitted to hospital due to health concerns.",
+    "img": "https://static.toiimg.com/photo/msid-128009815,imgsize-908553.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/i-dont-know-what-will-happen-to-me-pappu-yadav-after-arrest-in-1995-case/articleshow/128009693.cms",
+    "time": "2026-02-06T21:51:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yogen Shah and Viral Bhayani",
+    "desc": "In an era where paparazzi videos trend within minutes and celebrity sightings become instant content, the idea of a “typical workday” no longer applies. For Mumbai’s paparazzi, the day doesn’t begin with a fixed routine or end with a clear sign-off. It starts early, stretches late into the night, and is dictated entirely by movement, instinct, and chance. \"It’s not just about clicking pictures — it’s about being alert all the time,” say paparazzi veterans Yogen Shah and Viral Bhayani, speaking to ETimes.",
+    "img": "https://static.toiimg.com/photo/msid-128009355,imgsize-33438.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-the-lens-yogen-shah-and-viral-bhayani-reveal-what-a-day-in-the-life-of-bollywood-paparazzi-really-looks-like-exclusive/articleshow/128008549.cms",
+    "time": "2026-02-06T21:42:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Avoiding outside noise best way, says Salman as Pakistan eye Super Eight",
+    "desc": "Pakistan, who won the title in 2009, are coming into the tournament in the wake of their decision to boycott the February 15 group game against arch-rivals India in solidarity with Bangladesh, who were replaced by Scotland after refusing to travel to India citing security concerns",
+    "img": "https://th-i.thgim.com/public/incoming/w5idv2/article70601874.ece/alternates/LANDSCAPE_1200/Pakistan_Australia_Cricket_45442.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-avoiding-outside-noise-best-way-says-salman-as-pakistan-eye-super-eight/article70601738.ece",
+    "time": "2026-02-06T21:42:10.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Tadoba tiger that swam two rivers and crossed three States tranquilised in East Godavari",
     "desc": "After a 53-day movement through forest corridors and inhabited areas, the transient male tiger is secured in a cattle shed at Kurmapuram village on Friday evening, forest officials say. They add that the animal does not attack any human during its long journey and is in stable condition, with a decision yet to be taken on shifting it to a zoo or a rescue centre",
     "img": "https://th-i.thgim.com/public/incoming/2ueh3x/article70601156.ece/alternates/LANDSCAPE_1200/10237_6_2_2026_20_28_54_1_TIGERTRANQUILIZED.JPEG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/energy-and-environment/tadoba-tiger-that-swam-two-rivers-and-crossed-three-states-tranquilised-in-east-godavari/article70600923.ece",
     "time": "2026-02-06T20:52:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bihar MP Pappu Yadav arrested in 1995 forgery case after late-night drama",
-    "desc": "High drama unfolded at Pappu Yadav’s house in Mandiri locality when a police team arrived to execute a warrant issued by an MP/MLA court in the case registered under section 467 (forgery of documents) of the Indian Penal Code",
-    "img": "https://th-i.thgim.com/public/incoming/bap18p/article70601731.ece/alternates/LANDSCAPE_1200/PTI02_06_2026_000557B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/bihar-purnea-mp-pappu-yadav-arrest-1995-case/article70601728.ece",
-    "time": "2026-02-06T20:45:14.000Z"
   },
   {
     "cat": "Tech",
@@ -37,7 +316,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Supreme Court",
+    "title": "'Can't be compelled': SC allows termination of minor's 30-wk fetus",
     "desc": "The Supreme Court permitted a minor's pregnancy termination, acknowledging her right to reproductive autonomy and the lifelong trauma of an illegitimate child. Despite the Maharashtra government's concerns about a 30-week fetus's viability and the suggestion of an orphanage, the court prioritized the girl's mental well-being, directing the procedure with medical safeguards.",
     "img": "https://static.toiimg.com/photo/msid-128008111,imgsize-182462.cms",
     "src": "indiatimes.com",
@@ -145,15 +424,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Dewaswom Board initiates comprehensive changes in Sabarimala pilgrimage",
-    "desc": "A separate Budget will be prepared exclusively for the festival, in addition to the TDB’s general Budget; special training will be given to all Devaswom employees who will be part of Sabarimala duty in the months of August and September",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/dewaswom-board-initiates-comprehensive-changes-in-sabarimala-pilgrimage/article70600757.ece",
-    "time": "2026-02-06T19:06:28.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Toll on partially opened e-ways like Delhi-Mumbai to be same as that of other NHs",
     "desc": "Commuters using partially operational expressways like Delhi-Mumbai will now pay the same toll as normal national highways. This relief, effective for one year or until full operationalization, addresses concerns that higher tolls deterred usage of incomplete stretches. The decision aims to boost traffic on these corridors.",
     "img": "https://static.toiimg.com/photo/msid-128005513,imgsize-147058.cms",
@@ -214,24 +484,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-shares-racist-video-about-obamas-white-house-defends-him/article70600870.ece",
     "time": "2026-02-06T18:02:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Deluding itself': MEA after Pakistan blames India for blast at Islamabad's Shia meeting hall",
-    "desc": "India has vehemently rejected Pakistan's claims linking New Delhi to a suicide bombing at an Islamabad mosque, calling the allegations \"baseless and pointless.\" Pakistan's defence minister had alleged collusion between India and Afghanistan, which India dismissed as self-delusion for internal problems. The attack killed at least 31 people.",
-    "img": "https://static.toiimg.com/photo/msid-128002655,imgsize-92670.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/deluding-itself-mea-after-pakistan-blames-india-for-blast-at-islamabads-shia-meeting-hall/articleshow/128002660.cms",
-    "time": "2026-02-06T17:56:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'I want to give you Rs 2 in alms': Owaisi hits out at Himanta Sarma over 'trouble Miya Muslims' remark",
-    "desc": "AIMIM chief Asaduddin Owaisi has strongly criticized Assam CM Himanta Biswa Sarma's remarks targeting \"Miya Muslims,\" deeming them unconstitutional and divisive. Owaisi accused Sarma of scapegoating the community for various issues and using intimidation for political gain, asserting that India's Constitution guarantees equality for all citizens.",
-    "img": "https://static.toiimg.com/photo/msid-128001752,imgsize-466360.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/i-want-to-give-you-rs-2-as-alms-owaisi-hits-out-at-himanta-sarma-over-trouble-miya-muslims-remark/articleshow/128001528.cms",
-    "time": "2026-02-06T17:33:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -306,15 +558,6 @@ const newsData_en = [
     "time": "2026-02-06T15:59:09.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Seven Naxals killed in Gadchiroli, including top leader; special force jawan succumbs to injuries",
-    "desc": "Seven Naxals, including top leader Prabhakar with a Rs 25 lakh bounty, were killed in an encounter with Maharashtra police in Gadchiroli. The operation, launched three days ago, also resulted in the death of a special force jawan, Deepak Chinna Madavi, while another jawan is out of danger. The anti-Naxal operation is ongoing.",
-    "img": "https://static.toiimg.com/photo/msid-127997871,imgsize-1774024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/seven-naxals-killed-in-gadchiroli-including-top-leader-special-force-jawan-succumbs-to-injuries/articleshow/127997878.cms",
-    "time": "2026-02-06T15:45:48.000Z"
-  },
-  {
     "cat": "World",
     "title": "African Union says M23 Congo airport attack may be 'terrorism'",
     "desc": "The African Union said the \"attack, directed against an airport infrastructure located in a major urban centre and gravely endangering civilian populations, constitutes a serious violation of international humanitarian law\", in a statement on X.",
@@ -360,15 +603,6 @@ const newsData_en = [
     "time": "2026-02-06T15:15:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Priyanka Chopra pens heartfelt note for Nick Jonas",
-    "desc": "Global icons Priyanka Chopra Jonas and Nick Jonas continue to set couple goals with their unabashed admiration for each other, both on and off social media. As Nick’s latest album Sunday Best reached audiences today, Priyanka penned a heartfelt note celebrating her husband, calling him “the best decision I ever made.”",
-    "img": "https://static.toiimg.com/photo/msid-127996641,imgsize-37216.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-pens-heartfelt-note-for-nick-jonas-shares-rare-and-unseen-cosy-pictures-youre-the-best-decision-i-ever-made/articleshow/127996524.cms",
-    "time": "2026-02-06T15:11:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Strength in spin, questions in batting for inconsistent Pakistan",
     "desc": "Pakistan enters the T20 World Cup seeking a second title, relying on key batters and all-rounders Saim Ayub and Mohammad Nawaz. Despite mixed results since the last tournament, including away series losses, home wins and strong spin performances offer positives. However, concerns remain regarding the batting strike rate and Babar Azam's anchor role.",
@@ -378,33 +612,6 @@ const newsData_en = [
     "time": "2026-02-06T15:09:50.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vadh 2 team asks fans not to reveal spoiler",
-    "desc": "In a heartfelt message post- debut of 'Vadh 2', acclaimed actors Neena Gupta and Sanjay Mishra are calling on fans to keep the story’s secrets safe, particularly the climactic finale. Released on February 6, this gripping crime thriller has been praised for its nail-biting suspense.",
-    "img": "https://static.toiimg.com/photo/msid-127996321,imgsize-54548.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vadh-2-neena-gupta-and-sanjay-mishra-urge-fans-to-not-to-reveal-the-spoiler/articleshow/127996321.cms",
-    "time": "2026-02-06T15:06:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sanam Teri Kasam sequel confirmed, reboot planned",
-    "desc": "In an exciting announcement, producer Deepak Mukut has revealed that 'Sanam Teri Kasam 2' is in the works to commemorate the 10-year anniversary of the original film. What started as a modest release turned into a phenomenal comeback, captivating audiences once again.",
-    "img": "https://static.toiimg.com/photo/msid-127996048,imgsize-40744.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/maker-of-sanam-teri-kasam-deepak-mukut-confirms-the-films-sequel-story-doesnt-end-reboot-in-store/articleshow/127996048.cms",
-    "time": "2026-02-06T14:59:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Report",
-    "desc": "In an exciting transition to directing long-form content, Konkona Sen Sharma is at the helm of a contemporary romantic comedy for Amazon Prime Video. The series, which features Aditi Rao Hydari and Barun Sobti as a unique new pair, unfolds in the lively backdrop of South Delhi, with production already kicking off.",
-    "img": "https://static.toiimg.com/photo/msid-127995587,imgsize-43834.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/konkona-sen-sharma-pairs-aditi-rao-hydari-and-barun-sobti-for-upcoming-south-delhi-rom-com-reports/articleshow/127995587.cms",
-    "time": "2026-02-06T14:51:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Check U19 WC winners list as India beat England",
     "desc": "India U19 claimed their sixth ICC Under-19 World Cup title in 2026, defeating England U19 by 100 runs at Harare Sports Club. Vaibhav Sooryavanshi starred with 175 off 80 balls, while captain Ayush Mhatre and Kanishk Chouhan contributed crucial knocks. England’s chase faltered under consistent Indian bowling, handing India a dominant win and extending their rich U19 legacy.",
@@ -412,33 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/from-virat-kohli-to-ayush-mhatre-check-under-19-world-cup-winners-list-as-india-beat-england-in-2026-final/articleshow/127994849.cms",
     "time": "2026-02-06T14:49:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nakuul Mehta recalls spotting Shriya Saran early",
-    "desc": "Actor Nakkul Mehta opened up about how his film debut was shelved, marking a rocky yet enlightening start to his career. This experience taught him the unpredictability of showbiz. His journey through South cinema, theatre, and advertising paved the way to television stardom, where he discovered his passion for personal development and scene mastery.",
-    "img": "https://static.toiimg.com/photo/msid-127995201,imgsize-34704.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nakuul-mehta-recalls-seeing-shriya-saran-during-his-hyderabad-days-for-an-unreleased-telugu-film-she-had-probably-just-started-then-but-she-was-/articleshow/127995201.cms",
-    "time": "2026-02-06T14:40:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AICC caught in a tangle as MPs seek Assembly seats",
-    "desc": "With at least half a dozen MPs expressing interest in State politics, the AICC seeks to balance organisational stability in Parliament against the demand to field leaders with local clout to counter LDF and revive the UDF’s electoral fortunes",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/aicc-caught-in-a-tangle-as-mps-seek-assembly-seats/article70600617.ece",
-    "time": "2026-02-06T14:38:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Beyond Mumbai &amp; Goa: How India’s tourism map is quietly changing",
-    "desc": "India's tourism landscape is rapidly evolving beyond beaches and hills. A new generation is flocking to spiritual and heritage sites like Ayodhya and Varanasi, driven by religious revival, infrastructure growth, and social media influence. These destinations are now vibrant, year-round hubs attracting diverse travellers seeking cultural immersion and authentic experiences.",
-    "img": "https://static.toiimg.com/photo/msid-127992027,imgsize-919065.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/beyond-mumbai-goa-how-indias-tourism-map-is-quietly-changing/articleshow/127984119.cms",
-    "time": "2026-02-06T14:35:30.000Z"
   },
   {
     "cat": "Business",
@@ -468,15 +648,6 @@ const newsData_en = [
     "time": "2026-02-06T14:21:14.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Centre outlines definition for ‘deep tech’ startup",
-    "desc": "According to a gazette notification by the Department for Promotion of Industry and Internal Trade, a deep tech startup is primarily concerned with producing a solution based on new knowledge/advancements in a scientific or engineering discipline",
-    "img": "https://th-i.thgim.com/public/incoming/o2jua8/article70600106.ece/alternates/LANDSCAPE_1200/BL17_Think_data_center.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/centre-expands-definition-for-startups-with-official-term-for-deep-tech-companies/article70599087.ece",
-    "time": "2026-02-06T14:03:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India suffer double quarterfinal exit at Badminton Asia Team C'ships",
     "desc": "India’s campaign at the Badminton Asia Team Championships ended in the quarterfinals as both teams suffered defeats on Friday. The defending women’s champions lost 0-3 to a second-string China in the absence of PV Sindhu. The men’s team also exited after a 1-3 loss to Korea, missing Lakshya Sen and Satwiksairaj Rankireddy, with missed opportunities and injuries hurting India’s chances.",
@@ -484,15 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/no-title-defence-india-suffer-double-quarterfinal-exit-at-badminton-asia-team-championships/articleshow/127992822.cms",
     "time": "2026-02-06T13:48:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Madeline Petsch and Tyga’s net worth",
-    "desc": "Star-crossed lovers Madeline Petsch from Riverdale and hip-hop sensation Tyga have captivated fans with their relationship, as they celebrate a whopping combined net worth of $14 million. Petsch shines in her dual roles as an actress and YouTube influencer, amassing $6 million, while Tyga's musical talents and charisma elevate his assets to an estimated $8 million.",
-    "img": "https://static.toiimg.com/photo/msid-127982816,imgsize-19264.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/madeline-petsch-and-tygas-combined-net-worth-heres-what-the-beloved-couple-earns-altogether/articleshow/127982816.cms",
-    "time": "2026-02-06T13:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -529,24 +691,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-karnataka-takes-the-upper-hand-after-batting-debacle-by-mumbai/article70600049.ece",
     "time": "2026-02-06T13:00:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Maniyanpilla Raju arrested and released on bail",
-    "desc": "Veteran Malayalam actor-producer Maniyanpilla Raju was arrested following a late-night road accident in Thiruvananthapuram. The incident involved his car hitting a two-wheeler, seriously injuring two young men. Raju was produced in court and granted bail hours later. The accident occurred near the Trivandrum Club. Both injured youths are stable after receiving hospital treatment.",
-    "img": "https://static.toiimg.com/photo/msid-127990383,imgsize-69150.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/midnight-road-accident-case-maniyanpilla-raju-arrested-released-on-bail-hours-later/articleshow/127990383.cms",
-    "time": "2026-02-06T12:44:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Walking Dead' conspiracy theories",
-    "desc": "Fans of 'The Walking Dead' developed elaborate theories about Rick Grimes' disappearance, his potential immunity, and even the reality of the zombie outbreak. These fan-driven narratives, fueled by perceived clues and character actions, explored everything from internal rebellions to hidden motives.",
-    "img": "https://static.toiimg.com/photo/msid-127972981,imgsize-984714.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/-the-walking-dead-conspiracy-theories-from-rick-grimes-disappearance-to-coma-dreams-heres-what-keeps-fans-still-awake/articleshow/127972971.cms",
-    "time": "2026-02-06T12:40:50.000Z"
   },
   {
     "cat": "World",
@@ -628,15 +772,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/real-estate/news/sebi-proposes-greater-flexibility-for-reits-and-invits-in-liquid-schemes-seeks-stakeholder-feedback/articleshow/127981853.cms",
     "time": "2026-02-06T09:30:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Injury blow for India! Harshit Rana all but ruled out; Surya says 'he doesn’t look good'",
-    "desc": "India's T20 World Cup 2026 hopes for fast bowler Harshit Rana are uncertain after he sustained a knee injury during a warm-up match against South Africa. Captain Suryakumar Yadav acknowledged the situation is concerning, stating Rana hasn't been ruled out but the team is prepared to explore alternatives. Squad balance and available bowling options will guide any replacement decisions.",
-    "img": "https://static.toiimg.com/photo/msid-127981505,imgsize-37318.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/harshit-rana-all-but-ruled-out-of-t20-world-cup-2026-captain-suryakumar-yadav-says-he-doesnt-look-good/articleshow/127981474.cms",
-    "time": "2026-02-06T09:23:26.000Z"
   },
   {
     "cat": "Sports",
@@ -756,15 +891,6 @@ const newsData_en = [
     "time": "2026-02-06T05:39:54.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Can ‘SKY’ emulate Hitman — will India miss Rohit Sharma’s calm at T20 World Cup?",
-    "desc": "Rohit Sharma, T20 World Cup ambassador and 2024 champion captain, will be honored before India's opener. Former coach Paras Mhambrey highlights Rohit's invaluable leadership, especially his 'bowler's captain' approach and calm demeanor, crucial for the team's success. The data-driven think-tank under Rohit and Dravid is also noted.",
-    "img": "https://static.toiimg.com/photo/msid-127970502,imgsize-28040.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/can-sky-emulate-hitman-will-india-miss-rohit-sharmas-calm-at-the-t20-world-cup/articleshow/127970386.cms",
-    "time": "2026-02-06T05:03:46.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Markets trade in red amid tech worries; Hang Seng slips over 1%, Nikkei up 230 points",
     "desc": "Asian markets tumbled Friday, mirroring a US tech stock sell-off fueled by AI investment concerns and economic worries. Silver and bitcoin also experienced significant drops, with bitcoin erasing gains since Trump's election. Rio Tinto shares fell as merger talks with Glencore were abandoned.",
@@ -772,131 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-trade-in-red-amid-tech-worries-hang-seng-slips-over-1-nikkei-up-230-points/articleshow/127969850.cms",
     "time": "2026-02-06T04:55:18.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "The sale of xAI comes with tax, financial and legal benefits for xAI and SpaceX investors",
-    "desc": "Instead of combining the two companies into one and fully integrating operations, Musk decided to ‌retain xAI, which runs social media platform X and created the Grok chatbot, as a wholly owned subsidiary of SpaceX, said sources",
-    "img": "https://th-i.thgim.com/public/incoming/ust5ep/article70598541.ece/alternates/LANDSCAPE_1200/2026-02-02T213022Z_1456700214_RC2PVCAPFSUH_RTRMADP_3_SPACEX-M-A-XAI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/the-sale-of-xai-comes-with-tax-financial-and-legal-benefits-for-xai-and-spacex-investors/article70598538.ece",
-    "time": "2026-02-06T04:41:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Currency rises 9 paise to 90.25 against US dollar",
-    "desc": "The Indian Rupee saw a slight gain against the US dollar, buoyed by trade deal optimism but tempered by caution ahead of the RBI's monetary policy. Stock markets mirrored this hesitant mood, opening lower as investors await the central bank's decision. Corporate dollar demand and domestic equity weakness also influenced currency movements.",
-    "img": "https://static.toiimg.com/photo/msid-127969000,imgsize-46040.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-in-green-currency-rises-9-paise-to-90-25-against-us-dollar/articleshow/127968836.cms",
-    "time": "2026-02-06T04:23:12.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran, U.S. set for talks in Oman over nuclear programme after Tehran shaken by nationwide protests",
-    "desc": "The two countries have returned to Oman, a sultanate on the eastern edge of the Arabian Peninsula, months after rounds of meetings turned to ash following Israel's launch of a 12-day war against Iran back in June",
-    "img": "https://th-i.thgim.com/public/incoming/v9g99z/article70598565.ece/alternates/LANDSCAPE_1200/ML_Iran_11770.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-us-nuclear-programme-talks-in-oman/article70598554.ece",
-    "time": "2026-02-06T04:02:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Nifty50 ends above 25,650; BSE Sensex up over 260 points",
-    "desc": "The BSE Sensex rose 266.47 points, or 0.32 per cent, to close at 83,580.40, recovering sharply from an intraday low of 82,925.35 as late buying lifted the index by 655.05 points toward the close. The NSE Nifty also finished higher, gaining 50.90 points, or 0.20 per cent, to settle at 25,693.70 after a volatile trading session.",
-    "img": "https://static.toiimg.com/photo/msid-127967433,imgsize-93070.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-february-06-2026-dalal-street-indian-equities-global-markets-rbi-monetary-policy-india-us-trade-deal/articleshow/127967321.cms",
-    "time": "2026-02-06T03:53:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "$2 trillion wiped off crypto markets! Bitcoin value halves since October; investor company shares sink to multiyear lows",
-    "desc": "Bitcoin has experienced significant losses, dropping over 20% since early 2026 and losing nearly half its value since its October peak. This decline, exacerbated by concerns over Federal Reserve policy and tech sector weakness, has impacted companies holding digital assets and erased gains since Trump's election.",
-    "img": "https://static.toiimg.com/photo/msid-127967157,imgsize-151736.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/2-trillion-wiped-off-crypto-markets-bitcoin-halves-since-october-investor-company-shares-sink-to-multiyear-lows/articleshow/127966672.cms",
-    "time": "2026-02-06T03:22:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Border 2' box office Day 14: Film races past Rs 294 cr",
-    "desc": "Despite facing fluctuations in recent collections, 'Border 2' has managed to gather an impressive Rs 294 crore within India and an outstanding Rs 402 crore worldwide. Capitalizing on the Republic Day holiday, this gripping war drama, considered a spiritual continuation of the iconic 1997 film, features the dynamic Sunny Deol and a remarkable cast.",
-    "img": "https://static.toiimg.com/photo/msid-127961332,imgsize-36572.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-14-sunny-deol-and-varun-dhawan-film-races-past-rs-294-crore-amid-declining-numbers/articleshow/127961332.cms",
-    "time": "2026-02-05T23:58:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Modi",
-    "desc": "Replying to the debate on the Motion of Thanks to the President’s Address in Rajya Sabha, Mr. Modi refers to the absence of a reply by him in Lok Sabha on the same debate as a ‘defilement of the temple of democracy’ and insult to President Droupadi Murmu",
-    "img": "https://th-i.thgim.com/public/incoming/q6t6r4/article70595942.ece/alternates/LANDSCAPE_1200/PTI02_05_2026_000267B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pm-modi-in-rajya-sabha-speech-budget-session/article70595894.ece",
-    "time": "2026-02-05T20:44:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hockey India names 24-member squad for Pro League",
-    "desc": "While Pawan Malik gets a chance in the goal, defender and drag-flicker Amandeep Lakra has earned a call-up after an impressive outing in the Hockey India League, where he was adjudged the Player of the Tournament.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/hockey/hockey-india-names-24-member-squad-for-pro-league/article70595572.ece",
-    "time": "2026-02-05T20:34:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "LIC eyes higher yields from real estate",
-    "desc": "Addressing a press conference after the board meeting, the corporation’s MD & CEO R Doraiswamy said LIC has decided to go slow on its earlier announced plan of entering the health insurance business, which was announced by his predecessor. For the quarter ended Dec 2025, the corporation reported standalone net profit of Rs 12,958 crore, up 17.2% from Rs 11,056 crore in the corresponding year-ago period.",
-    "img": "https://static.toiimg.com/photo/msid-127953822,imgsize-1131352.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/lic-eyes-higher-yields-from-real-estate/articleshow/127953732.cms",
-    "time": "2026-02-05T20:10:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "AI upends software economics, raises ‘SaaSpocalypse’ concerns",
-    "desc": "Advances in GenAI, autonomous agents and AI-assisted coding are forcing a rethink of long-held assumptions about SaaS defensibility, pricing power and growth. Tasks that once required large engineering teams can now be executed faster and at far lower costs, raising concerns that many software products may become easier to replicate and much harder to monetise.",
-    "img": "https://static.toiimg.com/photo/msid-127953533,imgsize-79588.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/ai-upends-software-economics-raises-saaspocalypse-concerns/articleshow/127953528.cms",
-    "time": "2026-02-05T19:58:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Govt expands scope of startup recognition",
-    "desc": "Besides, a new sub-category of deep tech startup has been introduced covering entities working on cutting-edge and breakthrough technologies. The eligibility criteria for such startups has also been broadened with the age limit extended from 10 years to 20 years from the date of incorporation or registration, and the turnover limit increased to Rs 300 crore.",
-    "img": "https://static.toiimg.com/photo/msid-127953516,imgsize-3663487.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/timely-boost-govt-expands-scope-of-startup-recognition/articleshow/127953446.cms",
-    "time": "2026-02-05T19:58:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "HNIs, family offices fuel India’s private credit engine",
-    "desc": "What’s fueling the rise of private credit in the first place is the fact that banks are not being able to fulfil all kinds of requirements, leaving a funding gap for mid-market structured credit, said Dhedhi. “Private credit can provide non-dilutive capital that can be tailored to specific needs of each borrower.",
-    "img": "https://static.toiimg.com/photo/msid-127953365,imgsize-28314.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/hnis-family-offices-fuel-indias-private-credit-engine/articleshow/127953042.cms",
-    "time": "2026-02-05T19:53:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India, six Gulf nations set stage to launch FTA talks",
-    "desc": "Gulf Cooperation Council — comprising Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and UAE — is a key trade and investment partner for India, with exports of nearly $57 billion and imports of around $122 billion, accounting for over 15% of India’s total global trade. Trade with GCC has grown at an average annual rate of about 15% in the last five years.",
-    "img": "https://static.toiimg.com/photo/msid-127953335,imgsize-57060.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-six-gulf-nations-set-stage-to-launch-fta-talks/articleshow/127953043.cms",
-    "time": "2026-02-05T19:47:47.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "What are the Epstein files and why has this triggered a political controversy in India?",
-    "desc": "On January 30, the U.S. Department of Justice released over three million pages of documents related to the investigation into Jeffrey Epstein’s sexual abuse network and his associates. The newly released files mention several high-profile global figures. The disclosures triggered political controversy in India after some records appeared to reference individuals allegedly close to Prime Minister Narendra Modi in messages exchanged with the disgraced American financier. Who is Jeffrey Epstein and what are the Epstein Files?",
-    "img": "https://th-i.thgim.com/public/incoming/odcul0/article70595760.ece/alternates/LANDSCAPE_1200/EPSTEIN%20FILES.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-what-are-the-epstein-files-and-why-has-this-triggered-a-political-controversy-in-india/article70595758.ece",
-    "time": "2026-02-05T12:35:48.000Z"
   }
 ];
