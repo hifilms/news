@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Suryakumar Yadav shares major update on injured Washington Sundar after India's win over USA",
+    "desc": "All-rounder Washington Sundar was ruled out of India’s opening T20 World Cup 2026 clash against USA at the Wankhede Stadium in Mumbai. The spinner picked up a side strain injury and is currently in rehab...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-shares-major-update-on-injured-washington-sundar-after-india-s-win-over-usa-2026-02-07-1029326",
+    "time": "2026-02-07T18:04:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at MA Chidambaram Stadium in Chennai play?",
+    "desc": "New Zealand will open their T20 World Cup campaign against Afghanistan on February 8 at the MA Chidambaram Stadium in Chennai. The Mitchell Santner-led side suffered a crushing 4-1 defeat to India in the recently...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-afg-t20-world-cup-2026-pitch-report-how-will-surface-at-ma-chidambaram-stadium-in-chennai-play-2026-02-07-1029324",
+    "time": "2026-02-07T17:47:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryakumar Yadav's blitzkreig rescues India after USA scare defending champions in first innings",
+    "desc": "India kicked off their T20 World Cup 2026 campaign with a comfortable 29-run victory at the Wankhede Stadium in Mumbai. The Suryakumar Yadav-led side walked in as clear favourites, with pre-match chatter even hinting at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/usa-scare-india-in-t20-world-cup-opener-suryakumar-yadav-s-blitzkreig-rescued-defending-champions-in-mumbai-2026-02-07-1029322",
+    "time": "2026-02-07T17:12:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Still a baby': AB de Villiers heaps massive praise on Vaibhav Suryavanshi for iconic U19 WC final knock",
+    "desc": "Team India U19 scripted history and won the U19 World Cup 2026. Defeating England U19 in the summit clash, the Men in Blue saw 14-year-old Vaibhav Suryavanshi perform exceptionally, scoring 175 runs in 80 deliveries,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/still-a-baby-ab-de-villiers-heaps-massive-praise-on-vaibhav-suryavanshi-for-iconic-u19-wc-final-knock-2026-02-07-1029321",
+    "time": "2026-02-07T17:06:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryakumar Yadav surpasses Virat Kohli, stays on Rohit Sharma's toes with exceptional knock in the T20 WC 2026",
+    "desc": "Game 3 of the ongoing T20 World Cup 2026 saw the defending champions India taking on the USA. The two sides took on each other at the Wankhede Stadium in Mumbai on February 7. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-surpasses-virat-kohli-stays-on-rohit-sharma-s-toes-with-exceptional-knock-in-the-t20-wc-2026-2026-02-07-1029317",
+    "time": "2026-02-07T16:06:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Saurabh Netravalkar breaks Sanath Jayasuriya's unwanted record",
+    "desc": "Saurabh Netravalkar and Suryakumar Yadav share a strong bond off the field, with the Indian T20I captain previously supporting Netravalkar during the T20 World Cup 2024. The USA pacer later reciprocated the gesture, calling Suryakumar...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/most-expensive-spell-in-t20-world-cup-history-saurabh-netravalkar-breaks-sanath-jayasuriya-s-unwanted-record-2026-02-07-1029316",
+    "time": "2026-02-07T15:57:07.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ICC, PCB engage in fresh talks over finding solution for high-voltage India vs Pakistan clash",
     "desc": "Tensions continue to simmer over the February 15 T20 World Cup clash between India and Pakistan, even as the tournament commenced across India and Sri Lanka on February 7. The Pakistan Cricket Board (PCB) has...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/romario-shephard-clinches-hat-trick-four-wickets-in-one-over-as-west-indies-stun-scotland-at-eden-gardens-2026-02-07-1029298",
     "time": "2026-02-07T13:03:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Want to win minimum of five more trophies for India'",
-    "desc": "Hardik Pandya has laid down a bold marker ahead of the T20 World Cup 2026, making his ambitions crystal clear. One of India’s key architects in their title triumph last edition, Pandya played a decisive...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/want-to-win-minimum-of-five-more-trophies-for-india-hardik-pandya-makes-intention-clear-ahead-of-t20-world-cup-2026-02-07-1029294",
-    "time": "2026-02-07T12:40:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India eight down, Suryakumar Yadav stands strong",
-    "desc": "India is now seven down on a score of 118. Axar Patel is the latest batter to walk back to the pavilion. Handing an easy catch, Axar scored 14 runs in 11 deliveries, but was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-usa-live-cricket-match-score-updates-online-india-united-states-of-america-t20-world-cup-2026-today-at-wankhede-stadium-mumbai-1029291",
-    "time": "2026-02-07T12:12:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shimron Hetmyer breaks West Indies record with half-century vs Scotland in T20 World Cup 2026",
-    "desc": "Shimron Hetmyer put on a breathtaking show in West Indies’ opening match of the T20 World Cup 2026 against Scotland at the iconic Eden Gardens in Kolkata. After a sluggish start that saw the Caribbeans...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shimron-hetmyer-breaks-west-indies-record-with-half-century-vs-scotland-in-t20-world-cup-2026-2026-02-07-1029284",
-    "time": "2026-02-07T11:16:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch India's first WC 2026 clash?",
-    "desc": "The stage is set for the first game of the ongoing T20 World Cup 2026 for defending champions India. The Men in Blue are all set to take on the USA in their first game...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-usa-t20-world-cup-2026-live-streaming-details-when-and-where-to-watch-india-s-first-wc-2026-clash-2026-02-07-1029282",
-    "time": "2026-02-07T11:05:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England announce playing XI for their T20 World Cup opener against Nepal",
-    "desc": "The T20 World Cup 2026 will see England taking on Nepal in their first game of the tournament. The two sides are all set to lock horns at the Wankhede Stadium in Mumbai on February...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-announce-playing-xi-for-their-t20-world-cup-opener-against-nepal-2026-02-07-1029280",
-    "time": "2026-02-07T10:33:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Wankhede Stadium in Mumbai play?",
-    "desc": "The defending champions India will kick off their T20 World Cup campaign against United States of America (USA) on February 7 at the Wankhede Stadium in Mumbai. Ahead of that, the team suffered two major...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-usa-t20-world-cup-2026-pitch-report-how-will-surface-at-wankhede-stadium-in-mumbai-play-2026-02-07-1029279",
-    "time": "2026-02-07T10:32:45.000Z"
   }
 ];

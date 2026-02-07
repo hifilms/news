@@ -1,5 +1,149 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "RSS chief Mohan Bhagwat",
+    "desc": "“We said we respect all religions because we are Hindus. There are people who say this was wrong. Islam and Christianity still exist in India. There are skirmishes, but the country has remained united,” says Bhagwat",
+    "img": "https://th-i.thgim.com/public/incoming/gv7c0j/article70605246.ece/alternates/LANDSCAPE_1200/20260207578L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/forgetting-hindu-sentiments-led-to-partition-rss-chief-mohan-bhagwat/article70605105.ece",
+    "time": "2026-02-07T18:19:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "T20 World Cup 2026",
+    "desc": "India, after being asked to bat, slips to 77 for six in the 13th over when SKY’s 49-ball unbeaten 84 takes the side to 161 for nine; USA finds Arshdeep and Siraj too hot handle and loses by 29 runs",
+    "img": "https://th-i.thgim.com/public/incoming/5ut7pp/article70605169.ece/alternates/LANDSCAPE_1200/2026-02-07T172232Z_186464241_UP1EM271C9JXA_RTRMADP_3_CRICKET-T20-WORLDCUP-IND-USA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/india-vs-united-states-t20-world-cup-2026-match-suryakumar-yadav-monank-patel-updates/article70604201.ece",
+    "time": "2026-02-07T17:50:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We could've batted better': SKY makes honest admission after USA win",
+    "desc": "India start their T20 World Cup with a 29-run win over the USA, recovering from 77/6 thanks to captain Suryakumar Yadav’s unbeaten 84 off 49 balls. SKY admitted, \"We could've batted a little better,\" praising his Mumbai experience and coach Gautam Gambhir’s advice. Bowlers Siraj, Arshdeep, and Axar restricted the USA to 132/8, securing a hard-fought victory.",
+    "img": "https://static.toiimg.com/photo/msid-128042343,imgsize-107700.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-couldve-batted-better-india-captain-suryakumar-yadav-makes-honest-admission-after-win-over-usa/articleshow/128042190.cms",
+    "time": "2026-02-07T17:47:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Big B reacts to being called 'third-rate' actor",
+    "desc": "Amitabh Bachchan celebrated India's U19 Cricket World Cup victory, reflecting on the nation's elevated global standing. He recalled a past experience where he was labeled a \"third-rate actor from a third-world country,\" a comment that deeply hurt him. Bachchan asserted that India is no longer a third-world nation but a first-world one, evidenced by its numerous world championships.",
+    "img": "https://static.toiimg.com/photo/msid-128042373,imgsize-29934.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-reacts-to-being-called-third-rate-actor-by-a-journalist-calling-india-a-third-world-country-hurt/articleshow/128042341.cms",
+    "time": "2026-02-07T17:45:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Barcelona secure four-point La Liga lead as Yamal and Lewandowski deliver",
+    "desc": "Barcelona extended their La Liga lead to four points with a dominant 3-0 win over Mallorca. Lamine Yamal starred, scoring a spectacular long-range goal after an earlier miss, while Robert Lewandowski opened the scoring and Marc Bernal sealed the victory with his first senior goal. The result provides a significant boost to Barcelona's title aspirations.",
+    "img": "https://static.toiimg.com/photo/msid-128042058,imgsize-133284.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/barcelona-secure-four-point-la-liga-lead-as-lamine-yamal-and-robert-lewandowski-deliver/articleshow/128042085.cms",
+    "time": "2026-02-07T17:41:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PCB and ICC in formal dialogue over India-Pakistan match",
+    "desc": "As per an ICC director, the PCB has approached the ICC for deliberations, days after they had officially written to the ICC about wanting to invoke the ‘Force Majeure’ clause and cited the government’s tweet",
+    "img": "https://th-i.thgim.com/public/incoming/5u4jmy/article70603850.ece/alternates/LANDSCAPE_1200/AP01_25_2026_000180B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/pcb-writes-to-icc-to-invoke-force-majeure-global-body-asks-for-justification/article70603769.ece",
+    "time": "2026-02-07T17:30:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Carrick keeps Manchester United flying; Arsenal stretch lead at the top",
+    "desc": "Manchester United's resurgence under Michael Carrick is gaining momentum, marked by a fourth consecutive Premier League win against Tottenham. Captain Bruno Fernandes credits Carrick's deep club connection for the turnaround, reigniting Champions League hopes. This victory propels United up the table, surpassing last season's points total and showcasing a revitalized team spirit.",
+    "img": "https://static.toiimg.com/photo/msid-128041706,imgsize-111268.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/epl/top-stories/premier-league-michael-carrick-keeps-manchester-united-flying-arsenal-stretch-lead-at-the-top/articleshow/128041665.cms",
+    "time": "2026-02-07T17:26:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Three-storeyed building collapses in Rajasthan's Kota; 2 killed, several feared trapped",
+    "desc": "A three-storey building housing a restaurant collapsed in Kota, Rajasthan, killing at least two people and leaving several others feared trapped. Rescue operations are underway, with five individuals already rescued and hospitalized. The incident occurred in the Talwandi area, and authorities are working to ascertain the full extent of casualties.",
+    "img": "https://static.toiimg.com/photo/msid-128042008,imgsize-26330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/three-storeyed-building-collapses-in-rajasthans-kota-several-feared-trapped/articleshow/128041621.cms",
+    "time": "2026-02-07T17:24:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SIR woes continue on the last day of hearing in West Bengal",
+    "desc": "The Trinamool Congress highlights the plight of people, including incidents such as death of two people on the way to the hearing centre. The BJP alleges ‘hooliganism’ by the ruling party at the hearing centres.",
+    "img": "https://th-i.thgim.com/public/incoming/n5trjk/article70605161.ece/alternates/LANDSCAPE_1200/PTI02_07_2026_000500A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/sir-woes-continue-on-the-last-day-of-hearing-in-west-bengal/article70604508.ece",
+    "time": "2026-02-07T17:23:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India survive USA test; register 29-run win with Suryakumar's heroics",
+    "desc": "India secured a 35-run victory against the USA in their T20 World Cup opener. Despite a shaky batting performance, Suryakumar Yadav's unbeaten 84 guided India to 161. Arshdeep Singh and Mohammed Siraj then dismantled the USA's top order, setting up a comfortable win for the hosts.",
+    "img": "https://static.toiimg.com/photo/msid-128041328,imgsize-40598.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-india-survive-usa-test-register-29-run-win-with-suryakumar-yadavs-heroics/articleshow/128041245.cms",
+    "time": "2026-02-07T17:21:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "About 37,000 players without diet allowance for 10 months in Haryana, claims AAP's Dhanda",
+    "desc": "Haryana's BJP government faces sharp criticism for allegedly withholding diet allowances for 37,000 players for ten months. Senior AAP leader Anurag Dhanda also highlighted the denial of pensions to over 75,000 elderly citizens, citing \"absurd\" income criteria. This has left athletes and seniors struggling, questioning the government's commitment to their welfare.",
+    "img": "https://static.toiimg.com/photo/msid-128041561,imgsize-784400.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/about-37000-players-without-diet-allowance-for-10-months-in-haryana-claims-aaps-dhanda/articleshow/128041457.cms",
+    "time": "2026-02-07T17:19:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Samyukt Kisan Morcha demands Goyal’s resignation, asks PM to refrain from signing deal with U.S.",
+    "desc": "The leaders of SKM said the framework for the interim agreement on U.S.-India trade is a total surrender before the multinational giants of U.S. agriculture sector; they urged farmers to join protest demonstrations on February 12 and support the general strike of workers as a ‘befitting reply to the anti-people Modi government’",
+    "img": "https://th-i.thgim.com/public/incoming/rzgdq3/article70605056.ece/alternates/LANDSCAPE_1200/20260207157L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/samyukt-kisan-morcha-demands-goyals-resignation-asks-pm-to-refrain-from-signing-deal-with-us/article70604806.ece",
+    "time": "2026-02-07T16:40:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arijit, Aamir accused of entering a West Bengal college without permission",
+    "desc": "A controversy erupted after Aamir Khan and Arijit Singh allegedly entered a West Bengal government college late at night without permission. The principal shared CCTV footage showing the duo on campus, playing badminton and conducting a shoot before leaving. He expressed dismay over the unauthorized use of the institution's premises and the public's reaction.",
+    "img": "https://static.toiimg.com/photo/msid-128039720,imgsize-49988.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arijit-singh-aamir-khan-accused-of-entering-a-west-bengal-college-without-permission-in-a-now-deleted-facebook-post-just-because-they-are-famous-/articleshow/128039526.cms",
+    "time": "2026-02-07T16:20:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "I-T dept releases draft rules, forms for new Income Tax Act; seeks public inputs",
+    "desc": "Along with the new draft rules and forms, two navigators – one providing the mapping of the old rules and the new draft rules and the second providing the mapping of the old forms and the new draft forms is also provided for the guidance of stakeholders and the public",
+    "img": "https://th-i.thgim.com/public/incoming/7lgwvf/article70604952.ece/alternates/LANDSCAPE_1200/iStock-487999971.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/i-t-dept-releases-draft-rules-forms-for-new-income-tax-act-seeks-public-inputs/article70604846.ece",
+    "time": "2026-02-07T16:08:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress questions Uttar Pradesh BJP chief for holding dual roles, calls ‘one person, one post’ a farce",
+    "desc": "Stating that the Bharatiya Janata Party’s U.P. unit chief Pankaj Chaudhary holds dual positions as Union Minister of State and the U.P. BJP president, Congress says such tall claims have nothing to do with reality",
+    "img": "https://th-i.thgim.com/public/incoming/b46cqo/article70604882.ece/alternates/LANDSCAPE_1200/PTI02_03_2026_000084B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/congress-questions-uttar-pradesh-bjp-chief-for-holding-dual-roles-calls-one-person-one-post-a-farce/article70604537.ece",
+    "time": "2026-02-07T15:55:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Fairground ride collapses in Haryana's Surajkund Mela: One dead, several injured",
+    "desc": "Tragedy struck the Surajkund Mela in Faridabad Saturday evening when a swing ride collapsed, killing a police inspector and injuring thirteen others. The brave officer lost his life attempting to rescue people as the ride tilted. Authorities have vowed swift action against the operator, with an FIR to be registered.",
+    "img": "https://static.toiimg.com/photo/msid-128037605,imgsize-39370.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/fairground-ride-collapses-in-haryanas-surajkund-mela-one-dead-several-injured/articleshow/128037460.cms",
+    "time": "2026-02-07T14:54:43.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'Kept me together when I lost my dad', Priyanka mourns Sunil Thapa's demise",
     "desc": "Veteran Nepali actor Sunil Thapa, known for his roles in Nepali, Bhojpuri, and Bollywood cinema, including 'Mary Kom' and 'The Family Man', has passed away at 68. Priyanka Chopra and Manoj Bajpayee paid heartfelt tributes, remembering his kindness and support. Thapa's career spanned over four decades with more than 300 films.",
@@ -54,15 +198,6 @@ const newsData_en = [
     "time": "2026-02-07T14:07:35.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NCS Group denies receiving  ₹2.5-crore investment from Sabarimala senior Tantri Rajeevaru",
-    "desc": "Proprietor says Anto Antony, MP, borrowed ₹2 crore from the group ahead of the 2019 LS election, but repaid only ₹20 lakh. The MP admits to borrowing the money, but says the full amount was repaid. The group is being investigated by the ED for alleged money laundering",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/ncs-group-denies-receiving-25-crore-investment-from-sabarimala-senior-tantri-rajeevaru/article70603550.ece",
-    "time": "2026-02-07T14:00:55.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why Sanju Samson is not in India's playing XI against USA",
     "desc": "Sanju Samson was omitted from India's T20 World Cup 2026 opening XI against the USA. Ishan Kishan takes his place at the top, with Suryakumar Yadav confirming the changes. Jasprit Bumrah is also out due to illness, replaced by Mohammed Siraj. Washington Sundar also missed out.",
@@ -70,15 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-why-sanju-samson-is-not-in-indias-playing-xi-against-usa/articleshow/128035458.cms",
     "time": "2026-02-07T13:47:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Hubballi skies get dotted with kites of myriad sizes, colour",
-    "desc": "Kites of different sizes, shapes, patterns, and myriad colours dotted the Hubballi skies again as the two-day International Kite Festival began on the outskirts of Hubballi on Saturday with kite flyers from across the country and abroad are participating in it.",
-    "img": "https://th-i.thgim.com/public/incoming/q4jhcv/article70604295.ece/alternates/LANDSCAPE_1200/2699_7_2_2026_17_58_26_3_08HUBLIKITEFESTIVAL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/hubballi-skies-get-dotted-with-kites-of-myriad-sizes-colour/article70603939.ece",
-    "time": "2026-02-07T13:40:21.000Z"
   },
   {
     "cat": "Sports",
@@ -97,15 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jared-leto-swung-for-the-fences-as-skeletor-says-travis-knight/articleshow/128035259.cms",
     "time": "2026-02-07T13:36:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 World Cup 2026",
-    "desc": "India will not field pace ace Jasprit Bumrah in the match as he is unwell, with Mohammed Siraj coming into the playing XI. All-rounder Washington Sundar and wicketkeeper-batter Sanju Samson have also been left out of the XI.",
-    "img": "https://th-i.thgim.com/public/incoming/dvrzu1/article70604210.ece/alternates/LANDSCAPE_1200/PTI02_07_2026_000397A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/india-vs-united-states-t20-world-cup-2026-match-suryakumar-yadav-monank-patel-updates/article70604201.ece",
-    "time": "2026-02-07T13:28:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -171,15 +288,6 @@ const newsData_en = [
     "time": "2026-02-07T13:08:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Patriotic excitement’ behind remarks against Colonel Qureshi: M.P. Minister",
-    "desc": "I have said this many times earlier, and I am reiterating it today that I did not intend to insult any woman officer, the Indian Army or any section of society, says Madhya Pradesh Minister Vijay Shah",
-    "img": "https://th-i.thgim.com/public/incoming/wfs5iw/article70603881.ece/alternates/LANDSCAPE_1200/20260207072L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/madhya-pradesh/patriotic-excitement-behind-remarks-against-colonel-qureshi-mp-minister/article70603845.ece",
-    "time": "2026-02-07T13:07:09.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Armaan Malik on how virality in ruling the music industry",
     "desc": "Armaan Malik champions emotional depth over algorithmic virality in music, lamenting the dilution of song quality for short-form trends. He believes timeless love songs, reminiscent of the 90s, are missing today. Malik, performing at 'Root for Mangroves', emphasizes using his platform for crucial environmental causes like mangrove conservation, highlighting its importance for our existence.",
@@ -187,24 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/armaan-malik-says-people-today-are-creating-songs-for-virality-rather-than-emotion/articleshow/128034228.cms",
     "time": "2026-02-07T13:04:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi High Court restrains misuse of actor Vivek Oberoi's name, image",
-    "desc": "In an interim order on a lawsuit by Oberoi, Justice Tushar Rao Gedela held that, considering his \"well-known, popular and well-accepted personality\", irreparable loss would be caused to him if no relief was given at this stage",
-    "img": "https://th-i.thgim.com/public/incoming/avzwm3/article70603775.ece/alternates/LANDSCAPE_1200/PTI8_14_2010_000180B_.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/delhi-high-court-restrains-misuse-of-actor-vivek-oberois-name-image/article70603715.ece",
-    "time": "2026-02-07T13:01:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PCB writes to ICC to invoke 'force majeure', global body asks for justification",
-    "desc": "As per an ICC director, the PCB has approached the ICC for deliberations, days after they had officially written to the ICC about wanting to invoke the ‘Force Majeure’ clause and cited the government’s tweet",
-    "img": "https://th-i.thgim.com/public/incoming/5u4jmy/article70603850.ece/alternates/LANDSCAPE_1200/AP01_25_2026_000180B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/pcb-writes-to-icc-to-invoke-force-majeure-global-body-asks-for-justification/article70603769.ece",
-    "time": "2026-02-07T12:49:28.000Z"
   },
   {
     "cat": "Entertainment",
@@ -234,15 +324,6 @@ const newsData_en = [
     "time": "2026-02-07T12:33:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Bonded labour persists as modern-day slavery despite five-decade-old law",
-    "desc": "This may be the 21st century, but the scourge of slavery is still a reality. Inequality, brutality, and dehumanisation have taken new forms in various workplaces, once again targeting the marginalised, with migrant workers added to the painful mix. The poor are still forced to work in inhuman conditions without wages and are subjected to verbal abuse and caste-based discrimination. On February 9, the Bonded Labour System (Abolition) Act will turn 50. Despite the Act and efforts to abolish bonded labour, Tamil Nadu still finds that the system of ‘modern-day slavery’ remains alive and kicking. While the State has made considerable efforts to rescue bonded labourers and file cases, delayed justice and inadequate rehabilitation continue to undermine the Act, pointing to the need for far stronger implementation, finds Meghna M.",
-    "img": "https://th-i.thgim.com/public/incoming/czkcoy/article70603857.ece/alternates/LANDSCAPE_1200/BrickKilnVelankanni.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/bonded-labour-persists-as-modern-day-slavery-despite-five-decade-old-law/article70603625.ece",
-    "time": "2026-02-07T12:22:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ranji Trophy",
     "desc": "The two fast bowlers take four wickets apiece as the host restricts the visitor to 173; Agarwal (92) wages a lone battle; Akash and Musheer lead the home team’s charge in the second essay as it ends day two at 189 for two",
@@ -259,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-pakistan-contemplating-u-turn-pcb-begins-dialogue-with-icc/articleshow/128032563.cms",
     "time": "2026-02-07T12:13:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Education must evolve beyond degrees and exam-centric models, say experts at Development Dialogue in Hubballi",
-    "desc": "Speakers at the session on education at Development Dialogue 2026 in Hubballi explored how education must equip learners with skills, adaptability, curiosity, and real-world readiness in an era shaped by rapid technological change and artificial intelligence",
-    "img": "https://th-i.thgim.com/public/incoming/wtdhs0/article70603885.ece/alternates/LANDSCAPE_1200/2699_7_2_2026_17_7_26_1_08HUBLIEDEV_DIALOGUE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/education-must-evolve-beyond-degrees-and-exam-centric-models-say-experts-at-development-dialogue-in-hubballi/article70603678.ece",
-    "time": "2026-02-07T12:09:57.000Z"
   },
   {
     "cat": "Entertainment",
@@ -423,15 +495,6 @@ const newsData_en = [
     "time": "2026-02-07T10:04:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Frivolous and politically motivated': Sonia Gandhi opposes plea over 1980 voter list entry",
-    "desc": "Sonia Gandhi has opposed a criminal revision petition against her, labelling it politically motivated and an abuse of law. She argued that citizenship and electoral roll matters, dating back four decades, cannot be criminalised. Her response, filed in court, asserts the complainant's accusations are based on speculation, not authentic records, and urges dismissal of the plea.",
-    "img": "https://static.toiimg.com/photo/msid-128028027,imgsize-829436.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/frivolous-and-politically-motivated-sonia-gandhi-opposes-plea-over-1980-voter-list-entry/articleshow/128027827.cms",
-    "time": "2026-02-07T09:58:55.000Z"
-  },
-  {
     "cat": "Business",
     "title": "South Korean Crypto firm accidentally sends $44 billion in bitcoins to users",
     "desc": "The exchange had planned to distribute small cash rewards of 2,000 Korean won ($1.37) or ‌more to each user ‌as part of a promotional event, but winners received at ‍least 2,000 bitcoins each instead, says media reports",
@@ -459,15 +522,6 @@ const newsData_en = [
     "time": "2026-02-07T09:40:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sunny Deol to collaborate with ‘Kill’ director Nikhil",
-    "desc": "Sunny Deol, fresh off the massive success of 'Border 2' with ₹280 crore, is teaming up with Kill director Nikhil Nagesh Bhatt for a high-octane action thriller. Expected to begin filming in late 2026, the untitled film promises grand scale, powerful action, and showcases Sunny in an all-new avatar.",
-    "img": "https://static.toiimg.com/photo/msid-128028079,imgsize-55210.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deol-to-collaborate-with-kill-director-nikhil-nagesh-bhatt-for-a-power-packed-action-film/articleshow/128028079.cms",
-    "time": "2026-02-07T09:34:55.000Z"
-  },
-  {
     "cat": "Business",
     "title": "What each sector got in India-US trade deal",
     "desc": "India and the US have agreed on an interim trade framework, outlining tariff cuts and market access for manufacturing and industrial goods, while safeguarding sensitive agricultural and dairy sectors. This pact aims to ease trade tensions and pave the way for a broader Bilateral Trade Agreement.",
@@ -484,33 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-faheem-ashraf-scripts-thrilling-pakistan-escape-against-netherlands/articleshow/128027807.cms",
     "time": "2026-02-07T09:27:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hera Pheri 3 faces legal trouble, producer claims Nadiadwala lacks right",
-    "desc": "'Hera Pheri 3' is facing legal trouble after Seven Arts International filed a case in the Madras High Court, claiming Firoz Nadiadwala doesn’t own the franchise rights. The company alleges he exceeded his permission by making Phir Hera Pheri and selling sequel rights. Akshay Kumar’s Cape of Good Films reportedly bought them unknowingly.",
-    "img": "https://static.toiimg.com/photo/msid-128026680,imgsize-43426.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumars-hera-pheri-3-faces-legal-trouble-producer-claims-nadiadwala-lacks-franchise-rights/articleshow/128026680.cms",
-    "time": "2026-02-07T08:50:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hit first, ask questions later: India's new-age batting faces its T20 World Cup test",
-    "desc": "India's T20 World Cup batting philosophy has shifted to aggressive acceleration, prioritising high strike-rates and minimal settling-in time. This tournament will test their new-age approach, featuring specialist T20 batters like Abhishek Sharma and Rinku Singh, aiming for decisive Powerplay wins and controlled finishes.",
-    "img": "https://static.toiimg.com/photo/msid-128024959,imgsize-59724.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/hit-first-ask-questions-later-indias-new-age-batting-faces-its-t20-world-cup-test/articleshow/128024967.cms",
-    "time": "2026-02-07T07:36:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Message to Pakistan? Amid trade pact, India's map shared by US trade representative grabs attention",
-    "desc": "A US trade representative's map, released alongside an interim trade agreement framework, correctly depicts the entirety of Jammu and Kashmir and Aksai Chin as part of India. This marks a departure from previous US maps and aligns with India's stance, potentially signaling a shift in US policy towards Pakistan and China.",
-    "img": "https://static.toiimg.com/photo/msid-128022641,imgsize-579857.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/message-to-pakistan-amid-trade-pact-indias-map-shared-by-us-trade-representative-grabs-attention/articleshow/128022566.cms",
-    "time": "2026-02-07T07:13:46.000Z"
   },
   {
     "cat": "Sports",
@@ -549,24 +576,6 @@ const newsData_en = [
     "time": "2026-02-07T06:01:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Ola, Uber and other app-based taxi drivers to hold day-long strike – all you need to know",
-    "desc": "App-based transport workers nationwide protested on February 7, demanding fair incomes and protection against exploitation. Unions cited falling earnings and rising costs, urging governments to implement minimum base fares as mandated by 2025 guidelines. The strike highlighted concerns over unilateral pricing by platforms and financial burdens from device changes, with workers seeking statutory protections.",
-    "img": "https://static.toiimg.com/photo/msid-128022205,imgsize-48224.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ola-uber-and-other-app-based-taxi-drivers-to-hold-day-long-strike-all-you-need-to-know/articleshow/128021472.cms",
-    "time": "2026-02-07T06:00:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Dost dost na raha': Congress takes filmy jibe at India-US trade deal; poses 5 questions",
-    "desc": "Congress MP Jairam Ramesh criticized the recent India-US trade framework, alleging it benefits American farmers at India's expense and includes a commitment to stop Russian oil imports. He questioned the value of \"photo-ops\" given the perceived lack of substantial benefits for India in the deal.",
-    "img": "https://static.toiimg.com/photo/msid-128022225,imgsize-1026192.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dost-dost-na-raha-congress-takes-filmy-jibe-at-india-us-trade-deal-poses-5-questions/articleshow/128022143.cms",
-    "time": "2026-02-07T05:58:11.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Upcoming OTT releases for this week",
     "desc": "​As streaming platforms gear up for another exciting week, viewers in India can look forward to a diverse mix of thrillers, horror, and legal dramas arriving this February. This lineup features English picks, Hindi offerings, and two South Indian gems across.​",
@@ -595,39 +604,12 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "India-US trade deal: Which American products are about to get cheaper in India",
-    "desc": "India and the US have announced a framework for an interim trade agreement, which will see India reduce tariffs on various US food and agricultural products. This move aims to make American imports cheaper for Indian consumers and ease trade tensions. The agreement also includes reciprocal tariff reductions on Indian goods entering the US.",
-    "img": "https://static.toiimg.com/photo/msid-128018492,imgsize-70292.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-which-american-products-are-about-to-get-cheaper-in-india/articleshow/128017808.cms",
-    "time": "2026-02-07T03:41:06.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "US tariffs on India cut to 18%; $30 trillion market access – trade deal explained in 10 points",
     "desc": "India and the US have announced a framework for an interim trade agreement, significantly reducing tariffs on Indian goods to 18%. This pact aims to boost bilateral trade, with India committing to substantial purchases of US energy and defense products, while also addressing non-tariff barriers and promoting digital trade.",
     "img": "https://static.toiimg.com/photo/msid-128018335,imgsize-2445132.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/us-tariffs-on-india-cut-to-18-30-trillion-market-access-india-us-trade-deal-explained-in-10-points/articleshow/128017069.cms",
     "time": "2026-02-07T03:27:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Papa, pranaam': Sooryavanshi's emotional first words with trophy go viral",
-    "desc": "Teen sensation Vaibhav Sooryavanshi's record-shattering 175 powered India to a sixth U-19 World Cup title, defeating England by 100 runs. The 14-year-old's breathtaking innings, featuring 15 sixes, set a daunting target. Sooryavanshi also secured Player of the Tournament, showcasing his immense talent and dedication.",
-    "img": "https://static.toiimg.com/photo/msid-128017522,imgsize-59070.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/papa-pranaam-vaibhav-sooryavanshis-emotional-first-words-with-trophy-go-viral/articleshow/128017474.cms",
-    "time": "2026-02-07T02:47:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How ready are defending champions India for T20 World Cup title defence",
-    "desc": "Defending champions India enter the ICC Men’s T20 World Cup 2026 as overwhelming favourites, showcasing a revitalised squad under Suryakumar Yadav. Following a generational shift, the team has embraced a high-octane philosophy, boasting a dominant recent record and top-ranked players. India aim for a third title with a confident, albeit with a few lingering concerns, lineup.",
-    "img": "https://static.toiimg.com/photo/msid-128003423,imgsize-64394.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/team-india-form-guide-how-ready-are-defending-champions-india-for-t20-world-cup-title-defence-at-home/articleshow/128001783.cms",
-    "time": "2026-02-07T02:14:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -637,24 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-15-the-sunny-deol-varun-dhawan-ahan-shettys-film-makes-over-rs-400-crore-worldwide/articleshow/128014618.cms",
     "time": "2026-02-07T00:25:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Reliance returns to buying Venezuelan oil",
-    "desc": "Reliance has resumed importing Venezuelan crude after a hiatus, acquiring a 2 million barrel cargo. This marks India's first purchase since US intervention in Venezuela's oil sector and follows a US-India trade deal. Previously, Reliance was a significant buyer of Venezuelan oil before US sanctions.",
-    "img": "https://static.toiimg.com/photo/msid-128014179,imgsize-431720.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/reliance-returns-to-buying-venezuelan-oil/articleshow/128014136.cms",
-    "time": "2026-02-07T00:01:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Govt receives fin bids for IDBI’s strategic selloff",
-    "desc": "The government has received financial bids for the strategic disinvestment of IDBI Bank, marking significant progress in the stake sale. This move, involving a combined 60.7% stake sale by the government and LIC, is expected to fetch around Rs 33,000 crore.",
-    "img": "https://static.toiimg.com/photo/msid-128014126,imgsize-553727.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/govt-receives-fin-bids-for-idbis-strategic-selloff/articleshow/128014070.cms",
-    "time": "2026-02-06T23:57:18.000Z"
   },
   {
     "cat": "Sports",
@@ -736,15 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/discoms-and-the-road-ahead-explained/article70595588.ece",
     "time": "2026-02-06T13:02:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Apple TV shows to look forward to in 2026",
-    "desc": "Legacy of Monsters’ Season 2’s premiere is close. The new season will drop on February 27 and will feature 10 episodes.The new season expands the MonsterVerse with a new, massive, ocean-dwelling creature known as \"Titan X\" that threatens both Godzilla and Kong. The storyline centers on the aftermath of a titan event, focusing on Skull Island and the secrets of the Monarch organization.",
-    "img": "https://static.toiimg.com/photo/msid-127977576,imgsize-1156302.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/apple-tv-shows-to-look-forward-to-in-2026-imperfect-women-margos-got-money-troubles-and-more/photostory/127977576.cms",
-    "time": "2026-02-06T13:00:14.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/biffes-2026-fans-thrilled-as-kaikini-shares-words-of-wisdom-with-a-touch-of-humour/article70592082.ece",
     "time": "2026-02-05T11:34:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-U.S. trade deal: Joint statement in ‘four to five days’, legal agreement by mid-March, says Piyush Goyal",
+    "desc": "Commerce Minister said the U.S. will drop tariffs on India to 18% after the joint statement is issued. India, however, will be able to cut tariffs on U.S. goods only after the formal agreement is signed",
+    "img": "https://th-i.thgim.com/public/incoming/vrpuaq/article70594910.ece/alternates/LANDSCAPE_1200/PTI02_03_2026_000374B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/india-us-trade-deal-piyush-goyal-tariffs-joint-statement-legal-agreement/article70594904.ece",
+    "time": "2026-02-05T11:01:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tribeny Rai on the making of Nepalese film ‘Shape of Momo’",
+    "desc": "The film ‘Shape of Momo’ had premiered at the Busan International Film Festival in South Korea in November 2025 where it won the Taipei Film Commission Award and the Songwon Vision Award. Sikkim-based filmmaker Tribeny Rai talks about the making of the movie, which is a commentary on stereotypical gender roles and the toll it takes on women who resist such expectations.",
+    "img": "https://th-i.thgim.com/public/incoming/yxk26m/article70595034.ece/alternates/LANDSCAPE_1200/Tribeny%20Rai%20Thumb.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-tribeny-rai-on-the-making-of-nepalese-film-shape-of-momo/article70595030.ece",
+    "time": "2026-02-05T09:21:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Sentimental Value’, ‘Sirat’ and ‘Hamnet’ headline Red Lorry Film Festival’s international showcase",
+    "desc": "Fresh from major Oscar and BAFTA recognition, Sentimental Value, Sirat and Hamnet will lead the Red Lorry Film Festival’s Global Awards Showcase, bringing some of the most acclaimed international films of the year to Mumbai in March 2026.",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/mmivym/article70594657.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/sentimental-value-sirat-and-hamnet-headline-red-lorry-film-festivals-international-showcase/article70594663.ece",
+    "time": "2026-02-05T06:36:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian men, women register contrasting wins to seal quarterfinal spots",
+    "desc": "The men’s Group C clash between India and Singapore went down to the wire, with former world number 1 Kidambi Srikanth coming up with a clinical performance in the third men’s singles against Jia Wei Joel Koh",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/batc-2026-indian-men-women-register-contrasting-wins-to-seal-quarterfinal-spots/article70593269.ece",
+    "time": "2026-02-04T21:14:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India thrash Bhutan to set up SAFF U19 Women's Championship final clash with Bangladesh",
+    "desc": "Pearl Fernandes (16’, 39’, 41’) scored a first-half hat-trick, while Pritika Barman (25’, 90’) got one goal in each half for India. Alisha Lyngdoh (6’), Abhista Basnett (10’), and Divyani Linda (17’) netted one apiece",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/india-thrash-bhutan-to-set-up-saff-u19-womens-championship-final-clash-with-bangladesh/article70593273.ece",
+    "time": "2026-02-04T21:00:04.000Z"
   }
 ];
