@@ -1,9 +1,198 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Red Bird trainer aircraft runs out of fuel &amp; lands in field; both onboard safe",
+    "title": "Young J&amp;K MLA draws praise from across the aisle for House speech",
+    "desc": "A young BJP legislator, Devyani Singh Rana, earned cross-party praise for her focused budget speech in the J&K Assembly. She highlighted critical issues like electricity shortages, climate vulnerabilities, and under-spending in education and disaster management, urging for stronger measures. Her pragmatic approach to budgetary concerns resonated with members from all parties.",
+    "img": "https://static.toiimg.com/photo/msid-128081636,imgsize-1500706.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/young-jk-mla-draws-praise-from-across-the-aisle-for-house-speech/articleshow/128081626.cms",
+    "time": "2026-02-08T18:20:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Highway builders seek PM’s intervention on PPP project timelines, arbitration curbs",
+    "desc": "Highway builders are urging Prime Minister Modi to revisit tight construction deadlines for major PPP projects, citing execution challenges and the risk of prolonged court battles due to restricted arbitration. The National Highways Builders Federation warns that current dispute resolution changes could hinder project completion and encourage litigation over actual construction, impacting the PPP highway program's goals.",
+    "img": "https://static.toiimg.com/photo/msid-128081323,imgsize-578613.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/highway-builders-seek-pms-intervention-on-ppp-project-timelines-arbitration-curbs/articleshow/128081119.cms",
+    "time": "2026-02-08T18:11:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Siraj — swinging back into India’s T20 blueprint",
+    "desc": "It took a little while for the Hyderabad pacer to reconcile to the fact that he was no longer in the scheme of things in the shortest format; the injury to Harshit earned him a late call-up to the World Cup squad and within minutes of taking the field against USA, he made an impression",
+    "img": "https://th-i.thgim.com/public/incoming/puwxau/article70608592.ece/alternates/LANDSCAPE_1200/11908_7_2_2026_21_20_50_2_DSC_1294.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/siraj-swinging-backinto-indias-t20-blueprint/article70608587.ece",
+    "time": "2026-02-08T18:08:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dhakshineswar Suresh scripts Davis Cup heroics as India stun Netherlands 3-2",
+    "desc": "Dhakshineswar Suresh emerged as India's Davis Cup hero, securing a thrilling 3-2 victory against the Netherlands. The 25-year-old clinched the decisive fifth rubber, marking his second Davis Cup appearance with a remarkable three-win haul. This historic win propels India into Qualifiers Round 2, their first since the format's revamp.",
+    "img": "https://static.toiimg.com/photo/msid-128080659,imgsize-120430.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/dhakshineswar-suresh-scripts-davis-cup-heroics-as-india-stun-netherlands-3-2/articleshow/128080706.cms",
+    "time": "2026-02-08T17:59:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sri Lanka's spin web and Kamindu Mendis power 20-run win over Ireland",
+    "desc": "Sri Lanka launched their T20 World Cup campaign with a 20-run victory over Ireland. Kamindu Mendis starred with an unbeaten half-century, guiding Sri Lanka to 163. Ireland faltered in their chase, with spinners Maheesh Theekshana and Wanindu Hasaranga taking three wickets each, restricting the visitors to 143 and securing a dominant win.",
+    "img": "https://static.toiimg.com/photo/msid-128080193,imgsize-174490.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-sri-lankas-spin-web-and-kamindu-mendis-power-20-run-win-over-ireland/articleshow/128080089.cms",
+    "time": "2026-02-08T17:46:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman reacts after Mohan Bhagwat calls him an inspiration",
+    "desc": "Salman Khan reacted with a smile after Rashtriya Swayamsevak Sangh (RSS) chief Mohan Bhagwat referred to him as an inspiration for college students at a Mumbai event. The moment was captured on camera as Salman, seated in the audience, was seen listening attentively to Bhagwat’s remarks.",
+    "img": "https://static.toiimg.com/photo/msid-128079928,imgsize-42874.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-reacts-after-rss-chief-mohan-bhagwat-calls-him-an-inspiration-for-college-students-what-he-wears-they-do-the-same/articleshow/128079694.cms",
+    "time": "2026-02-08T17:35:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India, Canada to forge 'shared work plan' to bolster security cooperation",
+    "desc": "In a groundbreaking collaboration, India and Canada are setting new standards for national security and law enforcement by introducing a cooperative work plan and appointing liaison officers. This strategic alliance is designed to combat shared threats such as drug trafficking and organized crime, highlighting a pivotal moment in repairing diplomatic ties.",
+    "img": "https://static.toiimg.com/photo/msid-128079637,imgsize-724652.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-canada-to-forge-shared-work-plan-to-bolster-security-cooperation/articleshow/128079525.cms",
+    "time": "2026-02-08T17:22:16.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Takaichi on course for landslide win in Japan election",
+    "desc": "Leaders around the world, including Prime Minister Narendra Modi, greeted Sanae Takaichi on her ‘landmark victory’ in the House of Representatives elections; the huge jump from the pre-election share could allow Ms. Takaichi to make progress on a right-wing agenda that aims to boost Japan’s economy and military capabilities",
+    "img": "https://th-i.thgim.com/public/incoming/yad3nx/article70607365.ece/alternates/LANDSCAPE_1200/2026-02-07T220158Z_385799500_RC2UGJAIHT78_RTRMADP_3_JAPAN-ELECTION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/exit-poll-shows-japan-pm-sanae-takaichi-lower-house-vote/article70607293.ece",
+    "time": "2026-02-08T17:18:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Stars who rocked the Super Bowl Halftime show from 2020-2025",
+    "desc": "Bad Bunny headlines Super Bowl LX in 2026, marking a historic moment for Latin music. This follows electrifying performances by Kendrick Lamar and SZA in 2025, Usher in 2024, Rihanna in 2023, a Hip-Hop Legends showcase in 2022, The Weeknd in 2021, and Jennifer Lopez & Shakira in 2020, each transforming the halftime show into a global spectacle.",
+    "img": "https://static.toiimg.com/photo/msid-128064737,imgsize-40776.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/celebs-who-rocked-the-super-bowl-halftime-show-in-the-last-6-years-from-kendrick-lamar-rihanna-to-the-weeknd/articleshow/128064451.cms",
+    "time": "2026-02-08T16:48:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A stream of hope flows in Bundelkhand through 'Har Ghar Nal'",
+    "desc": "Bundelkhand's long struggle with water scarcity has ended as tap water now reaches homes, a dream realized for millions. Women no longer trek miles, and villages once defined by drought now boast flowing water. This transformation, driven by the Jal Jeevan Mission, brings hope and a better future to the region.",
+    "img": "https://static.toiimg.com/photo/msid-128078370,imgsize-1048709.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/a-stream-of-hope-flows-in-bundelkhand-through-har-ghar-nal/articleshow/128078386.cms",
+    "time": "2026-02-08T16:45:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Biotechnology to steer accelerated green growth of the future, say experts",
+    "desc": "At the webinar presented by the Vellore Institute of Technology (VIT), Chennai, and The Hindu, the speakers underlined that biotechnology is the sunrise sector in India, set to accelerate industrial growth, and thus emerges as an impactful career choice",
+    "img": "https://th-i.thgim.com/public/news/cities/chennai/kdeq9x/article70607507.ece/alternates/LANDSCAPE_1200/Logo_600x600-100%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/biotechnology-to-steer-accelerated-green-growth-of-the-future-say-experts/article70607509.ece",
+    "time": "2026-02-08T16:44:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Assam politics heats up with CM's explosive 'training in Pakistan' claim",
+    "desc": "Addressing a press conference ahead of the assembly elections, Assam CM Himanta Biswa Sarma claimed that Gogoi had undertaken a “very confidential visit” to Pakistan in December 2013 and was believed to have undergone “some kind of training” during his 10-day stay. “He stayed there for 10 days. Strangely, Gogoi was digitally silent and no social media post was made. We suspect he went through some kind of training in that period,” the chief minister said.",
+    "img": "https://static.toiimg.com/photo/msid-128078244,imgsize-56900.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/himanta-vs-gogoi-assam-politics-heats-up-with-cms-explosive-training-in-pakistan-claim/articleshow/128076573.cms",
+    "time": "2026-02-08T16:43:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sudha Chandran recalls chilling paranormal encounters",
+    "desc": "Veteran television actor and classical dancer Sudha Chandran recently opened up about what she believes were paranormal encounters she experienced during shoots. In an interview with Hindi Rush, the actor spoke about sensing unusual energies on set and recalled incidents that left her deeply shaken.",
+    "img": "https://static.toiimg.com/photo/msid-128078271,imgsize-64230.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sudha-chandran-recalls-chilling-paranormal-encounters-during-shoots-i-could-sense-an-energy-entering-my-body/articleshow/128078176.cms",
+    "time": "2026-02-08T16:41:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Namibia bank on experience of India's World Cup-winning coach",
+    "desc": "Namibia are banking on the experience of 2011 World Cup-winning coach Gary Kirsten as they prepare for their fourth straight T20 World Cup. With Kirsten on board as a consultant, the Gerhard Erasmus-led side has begun preparations in Delhi, focusing on conditions, range-hitting, and adapting to the conditions ahead of their tournament opener against the Netherlands.",
+    "img": "https://static.toiimg.com/photo/msid-128077810,imgsize-58074.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-namibia-bank-on-experience-of-indias-2011-world-cup-winning-coach-gary-kirsten/articleshow/128077506.cms",
+    "time": "2026-02-08T16:34:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Stay strong': Nadal reacts after Vonn airlifted following horrific crash",
+    "desc": "Rafael Nadal sent support to Lindsey Vonn after her shocking crash in the Winter Olympics downhill event, calling her an inspiration and urging her to stay strong. Vonn was injured just seconds into her run and taken to hospital by helicopter. Teammate Breezy Johnson won gold but expressed concern for Vonn, while her sister called the crash heartbreaking. Vonn had been attempting a comeback despite a ruptured ACL.",
+    "img": "https://static.toiimg.com/photo/msid-128077551,imgsize-39066.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/stay-strong-rafael-nadal-reacts-after-lindsey-vonn-airlifted-following-horrific-winter-olympics-crash/articleshow/128077016.cms",
+    "time": "2026-02-08T16:19:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pedalling for a greener tomorrow",
+    "desc": "Around 90 riders, including students and community members, participated in SAKSHAM 2025–26 Cyclothon with an aim to promote fuel conservation and sustainable living. The 13-km ride passed through key city areas before concluding at Shanghumughom.",
+    "img": "https://th-i.thgim.com/public/incoming/frz6yo/article70608373.ece/alternates/LANDSCAPE_1200/09tv%20cyclothon1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/pedalling-for-a-greener-tomorrow/article70608328.ece",
+    "time": "2026-02-08T16:07:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tejaswin Shankar breaks his national record to clinch India's sole gold",
+    "desc": "India finished sixth at the Asian Indoor Athletics Championships with five medals, including one gold by Tejaswin Shankar in the men’s heptathlon. Shankar scored 5993 points, breaking his national indoor record. Pooja and Tajinderpal Singh Toor won silvers, while Ancy Sojan and Aadrash Ram Jothi Shankar took bronze. China topped the table with 34 medals, but India showed strong performances and progress in athletics.",
+    "img": "https://static.toiimg.com/photo/msid-128076689,imgsize-95092.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/tejaswin-shankar-breaks-his-national-record-to-clinch-indias-sole-gold-at-asian-indoor-athletics-championships/articleshow/128076313.cms",
+    "time": "2026-02-08T15:51:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CPI(M) leader Brittas meets Uttarakhand gym owner Deepak, shopkeeper, after alleged right-wing harassment",
+    "desc": "The CPI(M) MP visited Kotdwar on February 8, to express solidarity with gym owner Deepak Kumar, who had stepped in to protect Muslim shopkeeper Vakil Ahmed during an alleged right-wing harassmentprotest over the name of his garment store",
+    "img": "https://th-i.thgim.com/public/incoming/llvcq2/article70608336.ece/alternates/LANDSCAPE_1200/PTI01_29_2026_000198B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttarakhand/cpim-leader-brittas-meets-uttarakhand-gym-owner-deepak-shopkeeper-after-alleged-right-wing-harassment/article70607912.ece",
+    "time": "2026-02-08T15:50:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India–Netherlands Davis Cup tie goes down to the wire after Sumit Nagal setback",
+    "desc": "India's Davis Cup Qualifiers tie against the Netherlands is heading to a decisive fifth rubber after Sumit Nagal lost his reverse singles match. Despite an earlier dramatic doubles win for India, Jesper de Jong defeated Nagal, leveling the tie at 2-2. Dhakshineswar Suresh now faces Guy de Ouden in the winner-takes-all decider.",
+    "img": "https://static.toiimg.com/photo/msid-128076504,imgsize-97300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/indianetherlands-davis-cup-tie-goes-down-to-the-wire-after-sumit-nagal-setback/articleshow/128076543.cms",
+    "time": "2026-02-08T15:45:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Placed alongside India and Pak, Namibia captain says there are 'no minnows' in T20",
+    "desc": "Namibia captain Gerhard Erasmus spoke about the challenges of limited exposure, the growth of cricket back home, and why the tag of “Associate” no longer fits in T20 cricket. Namibia will start their campaign against the Netherlands at the Arun Jaitley Stadium in New Delhi on Tuesday.",
+    "img": "https://static.toiimg.com/photo/msid-128076513,imgsize-56718.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-namibia-captain-gerhard-erasmus-says-there-are-no-minnows-in-t20-cricket-bats-for-more-exposure/articleshow/128076473.cms",
+    "time": "2026-02-08T15:44:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How the 'duty' men created became their greatest source of isolation",
+    "desc": "A significant number of Indian men grapple with profound loneliness, often masked by societal expectations of stoicism and duty. This widespread issue, extending beyond romantic relationships, stems from cultural norms that discourage emotional expression. Addressing this requires integrated mental health support and community initiatives, moving beyond blame to foster understanding and well-being for all.",
+    "img": "https://static.toiimg.com/photo/msid-128075728,imgsize-1542358.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/beyond-patriarchy-how-the-duty-men-created-became-their-greatest-source-of-isolation/articleshow/128075729.cms",
+    "time": "2026-02-08T15:15:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Red Bird trainer aircraft 'runs out of fuel' &amp; lands in field; both onboard safe",
     "desc": "A Red Bird training aircraft made a forced landing near Vijayapura due to suspected fuel starvation, approximately 50-70 km before its destination in Belagavi. Both the flight instructor and student pilot on board the 1975-built Cessna 172 are safe, though the aircraft sustained damage. Aviation authorities are investigating the incident.",
-    "img": "https://static.toiimg.com/photo/msid-128075665,imgsize-331326.cms",
+    "img": "https://static.toiimg.com/photo/msid-128077657,imgsize-999219.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/red-bird-trainer-aircraft-runs-out-of-fuel-lands-in-field-both-onboard-safe/articleshow/128075557.cms",
     "time": "2026-02-08T15:11:45.000Z"
@@ -117,15 +306,6 @@ const newsData_en = [
     "time": "2026-02-08T13:41:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "TDB Vigilance probes suspicious money transfers of daily wage workers at Sabarimala",
-    "desc": "Wages, at ₹650 a day, are deposited in the workers bank accounts after the pilgrimage season usually. This time, workers were found to have sent home large sums of money daily before the wages were disbursed. Officials suspect illegal earnings",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/vigilance-probes-suspicious-money-transfers-of-daily-wage-workers-at-sabarimala/article70607399.ece",
-    "time": "2026-02-08T13:36:37.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Amaal and Farrhana unveil first look of 'Yahin Guzaar Doon'",
     "desc": "Music composer Amaal Mallik and Bigg Boss 19 co-contestant Farrhana Bhatt have unveiled the first look and teaser for their upcoming music video, 'Yahin Guzaar Doon.' The song, sung by Shreya Ghoshal, features an intimate poster and has generated significant fan excitement, further amplified by a surprise live performance where the duo danced to the teaser.",
@@ -151,15 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/celina-jaitly-recalls-learning-about-brother-vikram-jaitlys-uae-detention-amid-divorce-battle-with-peter-haag-nobody-came-to-my-support/articleshow/128072284.cms",
     "time": "2026-02-08T13:15:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Theodosius Mar Thoma",
-    "desc": "Metropolitan says such attacks have created a growing sense of insecurity among minorities. He says there are disturbing signs of democracy being weakened, including the rejection of pluralism, questioning of citizenship and distorted interpretations of patriotism",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/rising-attacks-on-minorities-threaten-democracy-theodosius-mar-thoma/article70607306.ece",
-    "time": "2026-02-08T13:13:14.000Z"
   },
   {
     "cat": "Entertainment",
@@ -189,6 +360,15 @@ const newsData_en = [
     "time": "2026-02-08T12:47:38.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "Scarlett Johansson's net worth",
+    "desc": "Scarlett Johansson’s journey went from being a child actor in indie dramas to becoming one of the most successful performers in modern day Hollywood. With a career spanning over three decades, the Black Widow from ‘Marvel Cinematic Universe’, is also the highest-paid actresses in the world. This raises the curiosity about the fortune she holds. So, here’s a look at Scarlett Johansson’s net worth.Scarlett Johansson has an estimated net worth of USD 165 million. In July 2025, Johansson was named the highest grossing star at the worldwide box office. Major sources of her wealth come from decades of high-paying acting roles, savvy endorsements, entrepreneurial projects, and smart investments in real estate.",
+    "img": "https://static.toiimg.com/photo/msid-128065777,imgsize-1119928.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/scarlett-johansson-net-worth-inside-the-usd-165-million-fortune-of-marvels-black-widow-star/photostory/128065777.cms",
+    "time": "2026-02-08T12:41:49.000Z"
+  },
+  {
     "cat": "Business",
     "title": "India-US trade deal may help Tamil Nadu’s garment exports double to Rs 30,000 crore",
     "desc": "Tiruppur's garment exporters anticipate a significant surge in shipments to the US, potentially doubling to Rs 30,000 crore within three years, following the new India-US trade framework. This expansion is also projected to create approximately 5 lakh new jobs in the textile hub over the next five years, boosting India's export competitiveness.",
@@ -205,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/natasa-stankovic-faces-trolling-after-viral-college-fest-dance-video-fans-defend-her-saying-self-respect-not-unemployment/articleshow/128071248.cms",
     "time": "2026-02-08T12:37:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India to gain edge in US market, says Goyal; 2 arrested in Surajkund swing collapse case; &amp; more",
-    "desc": "Indian exporters gain a competitive edge in the US market with reduced tariffs, while a tragic accident at the Surajkund Mela claimed an inspector's life and injured twelve. Meanwhile, the ICC and PCB are nearing a decision on the India-Pakistan T20 World Cup match.",
-    "img": "https://static.toiimg.com/photo/msid-128071200,imgsize-1036063.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-india-to-gain-edge-in-us-market-says-goyal-2-arrested-in-surajkund-swing-collapse-case-more/articleshow/128070916.cms",
-    "time": "2026-02-08T12:37:18.000Z"
   },
   {
     "cat": "Entertainment",
@@ -270,15 +441,6 @@ const newsData_en = [
     "time": "2026-02-08T12:00:09.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Police arrest ride operator, staff in Surajkund swing collapse case",
-    "desc": "Inspector Jagdish Prasad, 58, died while attempting to rescue those trapped in the swing, officials said. He had joined the Haryana Armed Police in 1989 and was scheduled to retire in March after completing 36 years of service. His body was handed over to his family on Sunday following a post-mortem examination.",
-    "img": "https://static.toiimg.com/photo/msid-128069782,imgsize-98070.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/police-arrest-ride-operator-staff-in-surajkund-swing-collapse-case/articleshow/128069379.cms",
-    "time": "2026-02-08T11:53:05.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "SRK, Ranveer pose with Rinku Singh; netizens say, 'GOATS'",
     "desc": "Cricket's rising star Rinku Singh recently broke the internet with an iconic snapshot alongside Bollywood giants Shah Rukh Khan and Ranveer Singh. The actors brought their distinctive charm to the frame, leaving fans in awe. This article also dives into the thrilling updates on Shah Rukh's forthcoming film 'King' and explores the recent success of Ranveer's hit 'Dhurandhar'.",
@@ -286,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/king-shah-rukh-khan-and-dhurandhar-ranveer-singh-pose-with-cricketer-rinku-singh-netizens-say-energetic-trio/articleshow/128069868.cms",
     "time": "2026-02-08T11:52:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Naxalism will be completely eradicated by March 31’: Amit Shah after Raipur security review",
-    "desc": "Union home minister Amit Shah declared Naxalism will be eradicated by March 31, citing successful security operations, infrastructure development, and a strong surrender policy. Reviewing anti-Naxal efforts in Raipur, Shah highlighted significant gains, including over 500 Naxalites killed and thousands arrested or surrendered in Chhattisgarh since January 2024, weakening the insurgency.",
-    "img": "https://static.toiimg.com/photo/msid-128069295,imgsize-1179886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/naxalism-will-be-completely-eradicated-by-march-31-amit-shah-after-raipur-security-review/articleshow/128068815.cms",
-    "time": "2026-02-08T11:30:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -306,15 +459,6 @@ const newsData_en = [
     "time": "2026-02-08T11:15:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Forest officials bust wildlife trafficking gang trying to sell tiger skin, claws, teeth; 7 held",
-    "desc": "Forest officials in Kerala's Kannur district arrested a seven-member gang and seized tiger skin, claws, and teeth. Acting on intelligence, the operation led to the recovery of the body parts from three suspects, with four more apprehended later. The investigation suggests a possible link to poachers in Karnataka.",
-    "img": "https://static.toiimg.com/photo/msid-128068313,imgsize-956397.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kerala-forest-officials-bust-wildlife-trafficking-gang-trying-to-sell-tiger-skin-claws-teeth-7-held/articleshow/128068341.cms",
-    "time": "2026-02-08T10:53:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "When will U19 WC winner Sooryavanshi turn 15?",
     "desc": "Vaibhav Sooryavanshi, born on March 27, 2011, will turn 15 on March 27, 2026. Despite his record-breaking performances in U19 and domestic cricket, he cannot play senior international cricket yet due to the ICC’s minimum age rule of 15. He is also ineligible for future U19 World Cups due to BCCI rules. Once he turns 15, he will be eligible for India’s senior team, with huge expectations around him.",
@@ -324,40 +468,13 @@ const newsData_en = [
     "time": "2026-02-08T10:49:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Is snatching your child's phone a crime?' Father of 3 minors opens up about Ghaziabad suicide; gets emotional on camera",
-    "desc": "Three minor sisters died by suicide in Ghaziabad. Their father confiscated their phones due to their obsession with Korean dramas and games. The girls were reportedly depressed after losing access to online activities and friends. Authorities are investigating the tragic incident. The father expressed his grief and confusion over the events.",
-    "img": "https://static.toiimg.com/photo/msid-128068111,imgsize-524138.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/is-snatching-your-childs-phone-a-sin-father-of-3-minors-opens-up-about-ghaziabad-crime-gets-emotional-on-camera/articleshow/128067677.cms",
-    "time": "2026-02-08T10:45:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi leaves for India after concluding two-day visit to Malaysia",
-    "desc": "Prime Minister Narendra Modi concluded his two-day visit to Malaysia, focusing on enhanced defense and security cooperation with counterpart Anwar Ibrahim. The trip saw the exchange of several bilateral agreements covering areas like semiconductors, health, and disaster management. PM Modi also met with Indian diaspora and veterans, highlighting the strong cultural and strategic ties between the nations.",
-    "img": "https://static.toiimg.com/photo/msid-128068068,imgsize-510411.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-leaves-for-india-after-concluding-two-day-visit-to-malaysia/articleshow/128067799.cms",
-    "time": "2026-02-08T10:43:11.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India sees no hurdle in importing $500 billion goods from US over five years, Piyush Goyal says demand will far exceed figure",
     "desc": "India anticipates purchasing $500 billion in goods from the US over five years, a figure Commerce Minister Piyush Goyal deems conservative given the nation's expanding economy. This projection aligns with India's overall import demand, expected to reach $2 trillion, creating significant opportunities for US suppliers in sectors like aviation, technology, and energy.",
-    "img": "https://static.toiimg.com/photo/msid-128067775,imgsize-721569.cms",
+    "img": "https://static.toiimg.com/photo/msid-128075816,imgsize-664188.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/india-sees-no-hurdle-in-importing-500-billion-goods-from-us-over-five-years-goyal-says-demand-will-far-exceed-figure/articleshow/128067750.cms",
     "time": "2026-02-08T10:37:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Punjab government’s CM Health Insurance Scheme provides Rs 10 lakh cover to 65 lakh families: Kuldeep Dhaliwal",
-    "desc": "Punjab's Chief Minister Health Insurance Scheme has provided cashless treatment up to Rs 10 lakh to 65 lakh families. This initiative, championed by the Bhagwant Mann government, has enabled individuals like a daily-wage labourer to receive crucial medical care without personal cost. The scheme is now fully operational, demonstrating the government's commitment to accessible healthcare.",
-    "img": "https://static.toiimg.com/photo/msid-128067646,imgsize-1010333.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/punjab-governments-cm-health-insurance-scheme-provides-rs-10-lakh-cover-to-65-lakh-families-kuldeep-dhaliwal/articleshow/128067426.cms",
-    "time": "2026-02-08T10:27:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -385,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kritika-kamra-and-gaurav-kapur-set-to-get-married-in-march-2026-reports/articleshow/128066982.cms",
     "time": "2026-02-08T10:08:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Homebound' star Ishaan buys Rs 30 crore Pali Hill home",
-    "desc": "Actor Ishaan Khatter has purchased a luxurious Rs 29.37 crore home in Bandra's upscale Pali Hill. The 2,989 sq ft apartment, bought for approximately Rs 98,200 per square foot, marks a significant personal achievement for the actor, who has openly shared his family's past financial struggles. This opulent acquisition comes after a period of critical acclaim for his work.",
-    "img": "https://static.toiimg.com/photo/msid-128066931,imgsize-34618.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/homebound-star-ishaan-khatter-buys-rs-30-crore-on-pali-hill-home-pays-rs-1-76-crore-towards-stamp-duty/articleshow/128065294.cms",
-    "time": "2026-02-08T09:59:56.000Z"
   },
   {
     "cat": "Entertainment",
@@ -432,15 +540,6 @@ const newsData_en = [
     "time": "2026-02-08T09:23:57.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Bhooth Bangla' preponed; netizens call it a BAD DECISION",
-    "desc": "Akshay Kumar's latest venture, 'Bhooth Bangla,' is now set to hit theaters on April 10, but the shift has stirred up criticism online. Fans have taken to social media to express their disdain over the AI-generated teaser, raising concerns that the film's release could clash with other big titles, potentially impacting box office performance.",
-    "img": "https://static.toiimg.com/photo/msid-128065437,imgsize-40834.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-drops-the-bhooth-bangla-preponed-announcement-video-netizens-call-it-a-bad-decision-and-slam-the-use-of-ai/articleshow/128065437.cms",
-    "time": "2026-02-08T09:06:45.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How buyers can win big in market of high-end homes",
     "desc": "Dubai's ultra-luxury property market is booming, attracting global investors. Navigating this hot sector requires more than just listings. Platforms like Bayut are simplifying the process by offering verified data, insights from Dubai Land Department records and connections to specialist agents. This ensures buyers make informed decisions on high-value properties, avoiding outdated or unavailable listings and securing the best opportunities.",
@@ -451,30 +550,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Green Day SLAMS ICE agents at Super Bowl pre-show",
-    "desc": "Billie Joe Armstrong, the dynamic frontman of Green Day, captured audience attention at a Super Bowl pre-show by vehemently criticizing ICE agents, challenging them to leave their roles and advocate for change. This daring moment exemplifies the band's ongoing commitment to social issues, echoing their revised version of 'American Idiot' that boldly confronts the political landscape.",
-    "img": "https://static.toiimg.com/photo/msid-128065489,imgsize-37036.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/green-days-billie-joe-armstrong-slams-ice-agents-during-super-bowl-pre-show-quit-your-job/articleshow/128065489.cms",
-    "time": "2026-02-08T09:04:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "‘JC: The University’ movie review: After a brilliant start, this crime drama loses momentum",
     "desc": "The University’, debut director Chethan Jayaram dives into the gritty world of prison life through the eyes of a college student. The film kicks off strongly before losing grip, as character development and emotional moments taking a backseat",
     "img": "https://th-i.thgim.com/public/entertainment/movies/29fem1/article70603935.ece/alternates/LANDSCAPE_1200/JC.jpeg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/jc-the-university-movie-review-surya-prakhyath-daali-dhananjaya-crime-thriller-brilliant-start-loses-momentum/article70603907.ece",
     "time": "2026-02-08T08:50:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman's 'Battle Of Galwan' to be POSTPONED?",
-    "desc": "Salman Khan's upcoming war drama, 'Battle Of Galwan', faces a potential delay from its April 17, 2026 release. Reshoots are ongoing, and the filmmakers must secure clearance from the Ministry of Defence, making the original deadline unlikely. The team prioritizes accuracy for the film depicting the 2020 Galwan Valley clash.",
-    "img": "https://static.toiimg.com/photo/msid-128063911,imgsize-104102.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/battle-of-galwan-salman-khan-starrer-to-be-postponed-makers-to-seek-clearance-from-ministry-of-defence/articleshow/128063709.cms",
-    "time": "2026-02-08T08:42:41.000Z"
   },
   {
     "cat": "Sports",
@@ -531,15 +612,6 @@ const newsData_en = [
     "time": "2026-02-08T06:01:01.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Step-by-step tips to buy an off-plan property in Dubai, with costs and risks",
-    "desc": "Buying off-plan property in Dubai offers strategic entry into the market with flexible payment plans and potential price appreciation. Read on as we outline the process, from developer research and DLD/RERA registration to understanding costs, signing SPAs and navigating handover. While offering benefits like lower entry prices and customisation, buyers must be aware of risks such as construction delays and market fluctuations.",
-    "img": "https://static.toiimg.com/photo/msid-128059792,imgsize-126666.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-2026-investment-guide-how-to-buy-an-off-plan-property-in-dubai-step-by-step-explained-with-costs-and-risks/articleshow/128059402.cms",
-    "time": "2026-02-08T05:20:51.000Z"
-  },
-  {
     "cat": "World",
     "title": "Abbas Araghchi",
     "desc": "Iran’s Foreign Minister faces the daunting task of finding a diplomatic way out of tensions with the U.S. without compromising key national security interests at a time when the economy struggles and internal tensions remain high after the January crackdown",
@@ -556,51 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/discoms-and-the-road-ahead-explained/article70595588.ece",
     "time": "2026-02-08T05:01:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's U-19s signal a golden future",
-    "desc": "India's U-19 World Cup victory was a testament to their deep talent pool, with Vaibhav Sooryavanshi's dazzling 175 in the final being a highlight. The team's success was built on range, resilience, and crucial contributions from across the squad, showcasing a generation ready for future success.",
-    "img": "https://static.toiimg.com/photo/msid-128059275,imgsize-111512.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/pipeline-of-plenty-indias-u-19s-signal-a-golden-future/articleshow/128059093.cms",
-    "time": "2026-02-08T04:57:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "SA’s best death bowler, watching T20 World Cup from home",
-    "desc": "Keshav Maharaj called Ottneil Baartman the 'best death bowler in the country.' Legendary Dale Steyn, who has coached him for three years, has sung his praises. On the field, he took 20 wickets in the recent SA20 season, including a five-wicket haul. Yet, the seamer has not traveled to India for the T20 World Cup.",
-    "img": "https://static.toiimg.com/photo/msid-128057230,imgsize-110662.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ottneil-baartman-south-africas-best-death-bowler-watching-the-t20-world-cup-from-home/articleshow/128057149.cms",
-    "time": "2026-02-08T03:31:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav walks away from toss to hug Rohit Sharma",
-    "desc": "Suryakumar Yadav's heartwarming gesture towards Rohit Sharma preceded his match-winning 84, rescuing India from a collapse against the USA. A disciplined bowling performance, led by Siraj, secured a 29-run victory in their T20 World Cup opener.",
-    "img": "https://static.toiimg.com/photo/msid-128057311,imgsize-73230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/suryakumar-yadav-walks-away-from-toss-to-hug-rohit-sharma-watch/articleshow/128057259.cms",
-    "time": "2026-02-08T03:28:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Abhi bohot dur tak hai jaana': Vaibhav Sooryavanshi's humble words",
-    "desc": "Fourteen-year-old Vaibhav Sooryavanshi's extraordinary 175 off 80 balls powered India to a record-extending sixth ICC Under-19 World Cup title, crushing England by 100 runs. His stellar performance, featuring 15 fours and 15 sixes, overshadowed England's Caleb Falconer's century. Sooryavanshi expressed gratitude and acknowledged the journey ahead.",
-    "img": "https://static.toiimg.com/photo/msid-128056805,imgsize-49694.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/abhi-bohot-dur-tak-hai-jaana-vaibhav-sooryavanshis-humble-words-after-conquering-the-world/articleshow/128056800.cms",
-    "time": "2026-02-08T03:03:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Real Madrid, Ramadan: How Siraj's February got a T20 World Cup addition",
-    "desc": "Mohammed Siraj’s quiet February plans, featuring family time, Ramadan and a Real Madrid match, were upended by a sudden SOS from India’s T20 leadership. Drafted into the World Cup squad after an injury crisis and Siraj delivered at the Wankhede.",
-    "img": "https://static.toiimg.com/photo/msid-128056455,imgsize-132772.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/real-madrid-ramadan-and-rest-how-mohammed-sirajs-february-got-a-t20-world-cup-addition/articleshow/128056500.cms",
-    "time": "2026-02-08T02:52:29.000Z"
   },
   {
     "cat": "Sports",
@@ -646,15 +673,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/pcb-writes-to-icc-to-invoke-force-majeure-global-body-asks-for-justification/article70603769.ece",
     "time": "2026-02-07T17:30:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India survive USA test; register 29-run win with Suryakumar's heroics",
-    "desc": "India secured a 35-run victory against the USA in their T20 World Cup opener. Despite a shaky batting performance, Suryakumar Yadav's unbeaten 84 guided India to 161. Arshdeep Singh and Mohammed Siraj then dismantled the USA's top order, setting up a comfortable win for the hosts.",
-    "img": "https://static.toiimg.com/photo/msid-128041328,imgsize-40598.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-india-survive-usa-test-register-29-run-win-with-suryakumar-yadavs-heroics/articleshow/128041245.cms",
-    "time": "2026-02-07T17:21:27.000Z"
   },
   {
     "cat": "Business",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/the-sale-of-xai-comes-with-tax-financial-and-legal-benefits-for-xai-and-spacex-investors/article70598538.ece",
     "time": "2026-02-06T04:41:04.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran, U.S. set for talks in Oman over nuclear programme after Tehran shaken by nationwide protests",
-    "desc": "The two countries have returned to Oman, a sultanate on the eastern edge of the Arabian Peninsula, months after rounds of meetings turned to ash following Israel's launch of a 12-day war against Iran back in June",
-    "img": "https://th-i.thgim.com/public/incoming/v9g99z/article70598565.ece/alternates/LANDSCAPE_1200/ML_Iran_11770.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-us-nuclear-programme-talks-in-oman/article70598554.ece",
-    "time": "2026-02-06T04:02:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Modi",
-    "desc": "Replying to the debate on the Motion of Thanks to the President’s Address in Rajya Sabha, Mr. Modi refers to the absence of a reply by him in Lok Sabha on the same debate as a ‘defilement of the temple of democracy’ and insult to President Droupadi Murmu",
-    "img": "https://th-i.thgim.com/public/incoming/q6t6r4/article70595942.ece/alternates/LANDSCAPE_1200/PTI02_05_2026_000267B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pm-modi-in-rajya-sabha-speech-budget-session/article70595894.ece",
-    "time": "2026-02-05T20:44:00.000Z"
   }
 ];

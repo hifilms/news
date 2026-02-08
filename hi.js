@@ -1,92 +1,92 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Donald Trump shares good wishes message to USA team for T20 World Cup 2026",
+    "desc": "United States President Donald Trump sent a message wishing the players and team management the best of luck for the T20 World Cup 2026. However, the message came a day late, as the USA had...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/donald-trump-shares-good-wishes-message-to-usa-team-for-t20-world-cup-2026-2026-02-08-1029426",
+    "time": "2026-02-08T18:20:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ireland lose eight wickets for 38 runs, Kamindu Mendis' blitzkreig proved vital for Sri Lanka",
+    "desc": "Chasing 164 at the R. Premadasa Stadium in Colombo, Ireland began strongly and appeared well placed in the run chase. With close to 60 runs needed from the final six overs and eight wickets in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ireland-lose-eight-wickets-for-38-runs-kamindu-mendis-blitzkreig-proved-vital-for-sri-lanka-2026-02-08-1029424",
+    "time": "2026-02-08T18:03:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Narendra Modi Stadium in Ahmedabad play?",
+    "desc": "South Africa will kick off their T20 World Cup 2026 campaign on February 9 against Canada at the Narendra Modi Stadium in Ahmedabad. The Aiden Markram-led side recently featured in a warm-up clash against India...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sa-vs-can-t20-world-cup-2026-pitch-report-how-will-surface-at-narendra-modi-stadium-in-ahmedabad-play-2026-02-08-1029423",
+    "time": "2026-02-08T17:45:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cheteshwar Pujara lauds Mohammed Siraj's performance after India drift past USA in T20 World Cup 2026",
+    "desc": "Team India put forth a brilliant performance against the USA in game 3 of the T20 World Cup 2026. Despite looking shaky with the bat, Suryakumar Yadav’s knock and the defending champions’ bowling prowess helped...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cheteshwar-pujara-lauds-mohammed-siraj-s-performance-after-india-drift-past-usa-in-t20-world-cup-2026-2026-02-08-1029422",
+    "time": "2026-02-08T17:39:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sri Lanka register comprehensive victory over Ireland to kick off T20 World Cup 2026 campaign",
+    "desc": "Sri Lanka and Ireland locked horns in game 6 of the ongoing T20 World Cup 2026. The two sides took on each other at the R. Premadasa Stadium in Colombo on February 8. As one...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-register-comprehensive-victory-over-ireland-to-kick-off-t20-world-cup-2026-campaign-2026-02-08-1029420",
+    "time": "2026-02-08T17:23:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Yet to qualify for FIFA World Cup 2026, Italy begin T20 WC journey vs Scotand; know full squad, key players",
+    "desc": "Football powerhouse Italy are yet to qualify for the FIFA World Cup 2026. The Azzuris failed to earn a direct qualification after a 4-1 defeat to Norway and that has once again landed them in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/yet-to-qualify-for-fifa-world-cup-2026-italy-begin-t20-wc-journey-vs-scotland-tomorrow-know-full-squad-key-players-2026-02-08-1029419",
+    "time": "2026-02-08T17:16:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Barry McCarthy equals shameful record with his spell against Sri Lanka in T20 World Cup 2026",
+    "desc": "The 6th game of the ongoing T20 World Cup 2026 saw hosts Sri Lanka taking on Ireland. The two sides took on each other at the R. Premadasa Stadium in Colombo on February 8. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/barry-mccarthy-equals-shameful-record-with-his-spell-against-sri-lanka-in-t20-world-cup-2026-2026-02-08-1029414",
+    "time": "2026-02-08T16:40:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arshdeep Singh on cusp of breaking Ravichandran Ashwin's T20 World Cup record for India",
+    "desc": "India pacer Arshdeep Singh is on the verge of breaking Ravichandran Ashwin’s record of most wickets for India in T20 World Cup history. The left-arm seamer has 29 wickets to his name in 15 matches,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-on-cursp-of-breaking-ravichandran-ashwin-s-t20-world-cup-record-for-india-2026-02-08-1029412",
+    "time": "2026-02-08T16:04:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Can Rashid Khan break Shakib Al Hasan's all-time T20 World Cup record? Here's what the statistics say",
+    "desc": "The T20 World Cup 2026 is well underway, and almost all teams have played one game each. There are several sides who registered victory and many who came within touching distance of a win, Afghanistan...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/can-rashid-khan-break-shakib-al-hasan-s-all-time-t20-world-cup-record-here-s-what-the-statistics-say-2026-02-08-1029410",
+    "time": "2026-02-08T15:48:28.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Harry Brook hails Nepal's heroic effort as they almost pull off the unthinkable in Mumbai",
     "desc": "Game 5 of the ongoing T20 World Cup saw England taking on Nepal. The two sides locked horns at the Wankhede Stadium in Mumbai on February 8. The clash began with England coming into bat...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/harry-brook-hails-nepal-s-heroic-effort-as-they-almost-pull-off-the-unthinkable-in-mumbai-2026-02-08-1029408",
     "time": "2026-02-08T15:11:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why was Gulbadin Naib promoted to number 3 in clash against New Zealand? Jonathan Trott reveals",
-    "desc": "Afghanistan appear to have finally settled a long-standing batting headache at No.3 during the ongoing T20 World Cup. After trying as many as 11 players in that position since the 2024 edition, the team management...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-was-gulbadin-naib-promoted-to-number-3-in-clash-against-new-zealand-jonathan-trott-reveals-2026-02-08-1029407",
-    "time": "2026-02-08T15:01:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England survive Nepal scare, barely register first win T20 World Cup 2026 clash",
-    "desc": "Game 5 of the ongoing T20 World Cup 2026 saw England taking on Nepal. The two sides locked horns at the MA Chidambaram Stadium in Chennai on February 8. The clash began with England coming...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-survive-nepal-scare-barely-register-first-t20-world-cup-2026-clash-2026-02-08-1029402",
-    "time": "2026-02-08T13:11:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lanka struggling with bat in Colombo",
-    "desc": "Sri Lanka host Ireland in their opening game at the T20 World Cup 2026 at the R.Premadasa Stadium in Colombo. The Paul Stirling-led side arrive to the competition following a 2-0 series win over United...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sl-vs-ire-t20-world-cup-2026-live-cricket-score-r-premadasa-stadium-colombo-sri-lanka-vs-ireland-latest-match-updates-scorecard-teams-playing-xis-2026-02-08-1029401",
-    "time": "2026-02-08T13:11:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Babar Azam holds shameful T20 World Cup record, batting under immense scrutiny before USA game",
-    "desc": "Former Pakistan captain Babar Azam’s form has become a major talking point. Despite an underwhelming outing in the recently concluded Big Bash League, the team management backed the experienced batter by including him in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-holds-shameful-t20-world-cup-record-batting-under-immense-scrutiny-before-usa-game-2026-02-08-1029396",
-    "time": "2026-02-08T12:22:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Glenn Phillips overtakes Brendon McCullum in elite list after his knock against Afghanistan",
-    "desc": "New Zealand got off to a stellar start to their T20 World Cup 2026 campaign. The Black Caps took on Afghanistan in their first game of the tournament at the MA Chidambaram Stadium in Chennai...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-overtakes-brendon-mccullum-in-elite-list-after-his-knock-against-afghanistan-2026-02-08-1029393",
-    "time": "2026-02-08T11:59:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Which team is playing T20 World Cup for the first time? Check details",
-    "desc": "The stage is set for game 7 of the ongoing T20 World Cup 2026. Italy will be taking on Scotland in the clash at the Eden Gardens in Kolkata on February 9. It is interesting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/which-team-is-playing-t20-world-cup-for-the-first-time-check-details-2026-02-08-1029390",
-    "time": "2026-02-08T11:19:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand break massive T20I record, pick comfortable win vs Afghanistan in run-fest clash in Chennai",
-    "desc": "New Zealand opened their T20 World Cup 2026 campaign with a comfortable five-wicket win against Afghanistan, chasing down a target of 183 with 13 balls to spare at the MA Chidambaram Stadium in Chennai. After...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-break-massive-t20i-record-pick-comfortable-win-vs-afghanistan-in-run-fest-clash-in-chennai-2026-02-08-1029389",
-    "time": "2026-02-08T11:12:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England beat Nepal by four runs",
-    "desc": "England take on Nepal in a T20 World Cup 2026 encounter that highlights the contrast between a defending heavyweight and an ambitious rising nation. The English side arrives with depth, power, and a well-oiled white-ball...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/eng-vs-nep-t20-world-cup-2026-live-cricket-score-wankhede-stadium-mumbai-england-vs-nepal-latest-match-updates-scorecard-teams-playing-xis-2026-02-08-1029376",
-    "time": "2026-02-08T09:12:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Afghanistan shatter India's T20 World Cup record against New Zealand with strong performance in Chennai",
-    "desc": "Afghanistan broke a major record of India during their T20 World Cup 2026 clash against New Zealand on Sunday, February 8. Playing against the Kiwis in a high-stakes Group D clash at the MA Chidambaram...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-shatter-indias-t20-world-cup-record-against-new-zealand-with-strong-performance-in-chennai-2026-02-08-1029372",
-    "time": "2026-02-08T08:43:27.000Z"
   }
 ];
