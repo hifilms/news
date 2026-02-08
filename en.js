@@ -1,5 +1,221 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "‘Vadh 2’ crosses Rs 1 crore mark on Day 2",
+    "desc": "'Vadh 2', starring Sanjay Mishra and Neena Gupta, has surpassed Rs 1 crore at the box office within its opening two days, earning Rs 1.21 Cr. Despite facing competition and limited screen space, the thriller mystery, focusing on a prison guard and inmate, is performing better than its predecessor. Lead actors urged audiences to avoid spoilers.",
+    "img": "https://static.toiimg.com/photo/msid-128055317,imgsize-39024.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/vadh-2-box-office-collection-day-2-sanjay-mishra-neena-gupta-starrer-crosses-rs-1-crore-mark/articleshow/128055025.cms",
+    "time": "2026-02-08T01:50:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quinton Aaron's family shares positive update on his health",
+    "desc": "‘Blind Side’ star Quinton Aaron is recovering well after a spinal stroke following a fall. His family shared he's in a \"jovial mood,\" communicating and watching TV. The actor's wife expressed gratitude for overwhelming fan support during this challenging time. His on-screen family also sent well wishes.",
+    "img": "https://static.toiimg.com/photo/msid-128054984,imgsize-1089839.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quinton-aarons-family-shares-positive-health-update-after-spinal-stroke-hes-now-laughing-and-smiling/articleshow/128054984.cms",
+    "time": "2026-02-08T01:33:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'With Love' BO day 2: Film crosses Rs 3 crores",
+    "desc": "'With Love' is making waves at the box office, raking in over Rs 3.53 crore net in its first two days. The romantic Tamil film saw a significant jump in collections on its second day, indicating strong audience interest. Directed by debutant Madhan and featuring fresh faces, the movie is also set to stream on Netflix soon.",
+    "img": "https://static.toiimg.com/photo/msid-128054667,imgsize-50784.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/with-love-box-office-collections-day-2-anaswara-rajans-film-crosses-rs-3-crores-ott-release-platform-locked/articleshow/128054667.cms",
+    "time": "2026-02-08T01:19:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mardaani 3' hit Rs 30 crore mark on Day 9",
+    "desc": "Rani Mukerji's 'Mardaani 3' has achieved a significant box office milestone, crossing Rs 30 crore in India net collections after nine days. The cop action drama has demonstrated steady performance despite facing strong competition. This installment is now nearing the lifetime earnings of the original 'Mardaani' and stands as Rani's second-highest grossing film, trailing only 'Talaash'.",
+    "img": "https://static.toiimg.com/photo/msid-128054593,imgsize-47394.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mardaani-3-box-office-collection-day-9-rani-mukerji-starrer-crosses-rs-30-crore-mark-eyes-lifetime-total-of-mardaani/articleshow/128054416.cms",
+    "time": "2026-02-08T01:10:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Anomie' BO day 2: Bhavana's film hits Rs 48 lakhs",
+    "desc": "The Equation of Death' is gaining traction, collecting Rs 48 lakhs worldwide in two days. The film, featuring a sharp forensic expert investigating her brother's disappearance, shows steady growth, particularly in its Malayalam version. Early reviews praise its ambitious, stylish approach to a thinking person's psycho-thriller, hinting at potential success if word-of-mouth continues to build.",
+    "img": "https://static.toiimg.com/photo/msid-128054237,imgsize-73086.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/anomie-box-office-collections-day-2-bhavanas-film-shows-good-growth-hits-rs-48-lakhs-worldwide/articleshow/128054237.cms",
+    "time": "2026-02-08T00:54:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mamitha Baiju REACTS to 'Naalai Naalai' trolls",
+    "desc": "Actress Mamitha Baiju has responded to online trolling following her impromptu singing of Vijay's song at an event. She revealed she finds the memes amusing and views them as entertainment, not taking offense. While she enjoys lighthearted jokes, her co-star Sangeeth Prathap noted that hurtful comments are shielded from her to prevent distress.",
+    "img": "https://static.toiimg.com/photo/msid-128053851,imgsize-22310.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/jana-nayagan-actor-mamitha-baiju-breaks-silence-on-naalai-naalai-trolls-says-it-is-all-fun/articleshow/128053851.cms",
+    "time": "2026-02-08T00:36:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Lincoln Lawyer’ renewed for season 5: All you need to know",
+    "desc": "Fans of 'The Lincoln Lawyer' can rejoice as the gripping legal drama starring Manuel Eduardo Garcia-Rulfo has been renewed for a fifth season. The upcoming season, set to draw from Michael Connelly's 'Resurrection Walk,' will see Mickey Haller tackle a new case involving a jailed woman and explore themes of shoddy lawyering and police misconduct.",
+    "img": "https://static.toiimg.com/photo/msid-128053921,imgsize-741548.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-lincoln-lawyer-season-5-mickey-hallers-most-personal-battle-begins-all-about-release-date-plot-cast-and-more/articleshow/128053929.cms",
+    "time": "2026-02-08T00:35:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Border 2' crosses Rs 300 crore mark in India",
+    "desc": "Sunny Deol's 'Border 2' has crossed the Rs 300 crore mark domestically, reaching approximately Rs 301.5 crore. The war film's worldwide collection stands at around Rs 412 crore, with overseas earnings of Rs 52 crore.",
+    "img": "https://static.toiimg.com/photo/msid-128053823,imgsize-36952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-16-and-day-17-live-sunny-deol-varun-dhawan-ahan-shettey-starrer-crosses-rs-300-crore-mark/articleshow/128053621.cms",
+    "time": "2026-02-08T00:31:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Drishyam 3': Asha Sarath says ending will be shocking",
+    "desc": "Anticipation is high for 'Drishyam 3', the concluding chapter of the beloved series, releasing April 2, 2026. Actress Asha Sarath promises a stunning, edge-of-your-seat climax, mirroring the suspense of previous installments. Director Jeethu Joseph confirms this is the definitive end, aiming to conclude Georgekutty's story at its peak, ensuring fans are not disappointed.",
+    "img": "https://static.toiimg.com/photo/msid-128053591,imgsize-30724.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/drishyam-3-asha-sarath-says-ending-will-stun-the-viewers-promises-an-edge-of-the-seat-film/articleshow/128053591.cms",
+    "time": "2026-02-08T00:19:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Proposed Bill on menstrual leave in Karnataka put on the back burner",
+    "desc": "It was proposed to introduce the Bill during the last Winter session in Belagavi, but it was not done so; meanwhile, a Government Order on the one-day menstrual leave per month has been questioned in the Karnataka High Court",
+    "img": "https://th-i.thgim.com/public/incoming/c4prtm/article70604685.ece/alternates/LANDSCAPE_1200/menstrual_hygiene_36.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/proposed-bill-on-menstrual-leave-in-karnataka-put-on-the-back-burner/article70600989.ece",
+    "time": "2026-02-08T00:03:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Red Label' BO day 1: Lenin's film makes only Rs 4 lakhs",
+    "desc": "New Tamil film 'Red Label' has stumbled at the box office, earning a meager Rs 4 lakhs on its opening day and a mere Rs 1 lakh on day two. Despite a strong performance from lead actor Lenin, critics note the movie relies heavily on familiar tropes, offering little surprise.",
+    "img": "https://static.toiimg.com/photo/msid-128053250,imgsize-71002.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/red-label-box-office-collections-day-1-lenins-film-starts-slow-makes-only-rs-4-lakhs/articleshow/128053250.cms",
+    "time": "2026-02-08T00:00:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "3 Doors Down star Brad Arnold, passes away at 47",
+    "desc": "Brad Arnold, the voice of 3 Doors Down, has passed away at 47 after a brave fight with Stage 4 kidney cancer. The Grammy-nominated singer, known for hits like \"Kryptonite,\" died peacefully surrounded by family. His songwriting, which began at age 15, helped shape mainstream rock, leaving a legacy of emotionally resonant music that connected with millions.",
+    "img": "https://static.toiimg.com/photo/msid-128053196,imgsize-36556.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/3-doors-down-lead-singer-brad-arnold-passes-away-at-47-after-battle-with-cancer/articleshow/128052746.cms",
+    "time": "2026-02-07T23:57:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India offers limited access to agri goods; protects staples, dairy",
+    "desc": "India and the US have finalized the first phase of a trade deal, leading to reduced reciprocal tariffs on Indian exports to 18%. This move benefits labor-intensive sectors like textiles and leather, while India has carefully opened up to American imports, protecting sensitive agricultural and dairy products. Several Indian food items will also gain zero-duty access to the US market.",
+    "img": "https://static.toiimg.com/photo/msid-128053086,imgsize-1464139.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-offers-limited-access-to-agri-goods-protects-staples-dairy/articleshow/128053093.cms",
+    "time": "2026-02-07T23:48:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "After year of turmoil, Indian diamonds and gems set to shine in US markets",
+    "desc": "India and the US have agreed to an interim trade framework granting zero-duty access for diamonds and colored gemstones. This move is seen as a critical inflection point for the Indian gems and jewellery sector, aiming to reverse a significant decline in exports to the US market and restore competitiveness.",
+    "img": "https://static.toiimg.com/photo/msid-128052494,imgsize-988438.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/after-year-of-turmoil-indian-diamonds-and-gems-set-to-shine-in-us-markets/articleshow/128052461.cms",
+    "time": "2026-02-07T23:12:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-US trade deal: Interim pact brings 'certainty and clarity' for pharma sector",
+    "desc": "An interim India-US trade arrangement offers clarity to India's pharma sector, keeping medicines out of reciprocal tariffs. Washington has signaled negotiated outcomes for generics under the Section 232 investigation, which examines imports for national security threats. This agreement is seen as reassuring for strengthening the partnership and ensuring medicine security.",
+    "img": "https://static.toiimg.com/photo/msid-128052416,imgsize-862840.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/interim-pact-brings-certainty-and-clarity-for-pharma-sector/articleshow/128052023.cms",
+    "time": "2026-02-07T23:08:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Aviation suppliers eye greater access to US",
+    "desc": "A landmark Indo-US trade deal is poised to significantly boost India's aerospace exports, potentially doubling sourcing for giants like Boeing. Zero-duty access for components will place India on par with established aerospace supply chains, with Indian carriers expected to place substantial aircraft orders.",
+    "img": "https://static.toiimg.com/photo/msid-128050953,imgsize-650733.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/trade-deal-aviation-suppliers-eye-greater-access-to-us/articleshow/128051005.cms",
+    "time": "2026-02-07T22:31:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India, US signal intent to counter China's economic dominance",
+    "desc": "India and the US are strengthening economic security alignment to enhance supply chain resilience and innovation, addressing non-market policies of third parties. This move signals a synchronized strategy to reduce China's global manufacturing dominance in key sectors like semiconductors and green energy, building on previous commitments.",
+    "img": "https://static.toiimg.com/photo/msid-128050204,imgsize-1038547.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-signal-intent-to-counter-chinas-economic-dominance/articleshow/128050121.cms",
+    "time": "2026-02-07T22:20:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-US trade deal: Harley, Tesla to benefit, but no risk to desi firms",
+    "desc": "US auto giants Harley Davidson, Jeep, and Tesla are poised to benefit from a new trade deal with India. The agreement offers reduced import duties on specific high-engine capacity motorcycles and cars, with concessions for Harley Davidson's 800-1,600cc bikes and a phased duty reduction for vehicles over 3,000cc, potentially boosting Tesla and Jeep's market presence without impacting domestic manufacturers.",
+    "img": "https://static.toiimg.com/photo/msid-128049851,imgsize-1102579.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-harley-tesla-to-benefit-but-no-risk-to-desi-firms/articleshow/128049652.cms",
+    "time": "2026-02-07T22:17:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "From brink of collapse, PM Modi &amp; Trump deliver a deal",
+    "desc": "India and the US have reached a breakthrough interim trade agreement, a significant shift from recent tensions. This deal, a precursor to a larger pact, offers advantages to India's MSME and labor-intensive sectors. Negotiators successfully resisted pressure on sensitive agricultural imports, a move likely to please the US president's base ahead of mid-term polls.",
+    "img": "https://static.toiimg.com/photo/msid-128049373,imgsize-1011195.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/dramatic-turnaround-from-brink-of-collapse-pm-modi-trump-deliver-a-deal/articleshow/128049349.cms",
+    "time": "2026-02-07T22:03:09.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "The $500 billion question: What will India import?",
+    "desc": "India aims to import $500 billion in US goods over five years, but success hinges on American suppliers meeting demand. While oil and coal imports are set to rise, high-tech items like chips and aircraft face supply chain challenges. Indian buyers and US sellers must collaborate to achieve this ambitious trade target.",
+    "img": "https://static.toiimg.com/photo/msid-128049284,imgsize-894422.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/the-500-billion-question-what-will-india-import/articleshow/128049291.cms",
+    "time": "2026-02-07T21:57:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "RSS chief Mohan Bhagwat",
+    "desc": "“We said we respect all religions because we are Hindus. There are people who say this was wrong. Islam and Christianity still exist in India. There are skirmishes, but the country has remained united,” says Bhagwat",
+    "img": "https://th-i.thgim.com/public/incoming/uj4i1i/article70605437.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-07%20at%208.46.16%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/forgetting-hindu-sentiments-led-to-partition-rss-chief-mohan-bhagwat/article70605105.ece",
+    "time": "2026-02-07T21:49:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Farmers question import of animal feed, soybean oil",
+    "desc": "India's decision to import animal feed like DDGs and soybean oil from the US has sparked farmer concerns, who fear the products originate from genetically modified crops. While the government assures that all domestic crops remain safe and GM traces are eliminated post-processing, farm organizations are seeking greater clarity on the agreement's implications for local agriculture and farmer incomes.",
+    "img": "https://static.toiimg.com/photo/msid-128049040,imgsize-1171809.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/farmers-question-import-of-animal-feed-soybean-oil/articleshow/128048802.cms",
+    "time": "2026-02-07T21:44:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India stands its ground on dairy, agri products",
+    "desc": "India has reached a trade agreement with the US on agricultural products. Tariffs will be reduced on several American food items like tree nuts and fruits. However, India will maintain protection for its dairy and genetically modified crops. This deal aims to balance trade interests for both nations, opening new avenues for Indian exports.",
+    "img": "https://static.toiimg.com/photo/msid-128048583,imgsize-871013.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-stands-its-ground-on-dairy-agri-products/articleshow/128048587.cms",
+    "time": "2026-02-07T21:30:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Relief for exports, choices for agriculture",
+    "desc": "A US-India joint statement signals a potential trade deal, with the US set to significantly drop import duties on Indian goods. This move is expected to boost India's labor-intensive sectors, while India will reduce tariffs on US agricultural products and industrial goods, fostering mutual benefit.",
+    "img": "https://static.toiimg.com/photo/msid-128048503,imgsize-482229.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/why-it-works-for-both-sides-relief-for-exports-choices-for-agriculture/articleshow/128048508.cms",
+    "time": "2026-02-07T21:27:44.000Z"
+  },
+  {
     "cat": "World",
     "title": "Abbas Araghchi",
     "desc": "Iran’s Foreign Minister faces the daunting task of finding a diplomatic way out of tensions with the U.S. without compromising key national security interests at a time when the economy struggles and internal tensions remain high after the January crackdown",
@@ -91,24 +307,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Ahead of Macron’s visit, DAC likely to meet next week to approve deal for 114 Rafales",
-    "desc": "India's Defence Acquisition Council is set to consider a major proposal to purchase 114 Rafale fighter jets from France for approximately Rs 3.25 lakh crore. This significant procurement, with a substantial portion to be manufactured in India, aims to bolster the Indian Air Force's fighter squadron strength amidst rising regional security concerns.",
-    "img": "https://static.toiimg.com/photo/msid-128046817,imgsize-942700.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ahead-of-macrons-visit-dac-likely-to-meet-next-week-to-approve-deal-for-114-rafales/articleshow/128046713.cms",
-    "time": "2026-02-07T20:04:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "UK rapper Central Cee confirms conversion to Islam and reveals new name during livestream",
-    "desc": "British rapper Central Cee has confirmed he has converted to Islam and changed his name, revealing the decision during a low-key livestream. The artist, formerly Oakley Caesar-Su, said he had taken the Shahada and adopted the name Akhil. Fans and members of the Muslim community welcomed the announcement, which followed years of subtle references in his music and online posts.",
-    "img": "https://static.toiimg.com/photo/msid-128046771,imgsize-1257867.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/etimes/trending/uk-rapper-central-cee-confirms-conversion-to-islam-and-reveals-new-name-during-livestream/articleshow/128035937.cms",
-    "time": "2026-02-07T20:01:30.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "India, US discuss ways to boost collaboration in critical, emerging defence tech",
     "desc": "India and the US convened in New Delhi to bolster cooperation in cutting-edge defence technologies. The 24th Indo-US Joint Technical Group Plenary Meeting focused on enhancing joint research and development, involving universities, labs, and industries. Discussions aimed to address evolving defence needs and explore new collaborative avenues, culminating in a project agreement.",
     "img": "https://static.toiimg.com/photo/msid-128046590,imgsize-958936.cms",
@@ -136,6 +334,15 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
+    "title": "As Union govt. gave ‘nothing’ to T.N. in Budget, NDA should be given a ‘zero’ in polls: Stalin",
+    "desc": "Tamil Nadu has been ranked number one in the Centre’s ratings under DMK rule; despite this, the BJP-led Union govt. has not offered the poll-bound State any benefits in the Budget, the Chief Minister says",
+    "img": "https://th-i.thgim.com/public/incoming/wig6r0/article70604928.ece/alternates/LANDSCAPE_1200/9871_7_2_2026_20_46_2_2_IMG_9378.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Madurai/tn-should-give-zero-seats-to-nda-in-assembly-election-for-providing-nothing-to-the-state-stalin/article70604569.ece",
+    "time": "2026-02-07T19:42:34.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Amit Shah review progress of development projects, reaffirms Modi govt’s commitment to building prosperous J&amp;K",
     "desc": "Union home minister Amit Shah reviewed Jammu and Kashmir's development projects. He also stressed hydropower potential and welfare scheme saturation. Aggressive tourism marketing and sports infrastructure development were highlighted. The region will receive 50-year interest-free loans for capital projects. The government aims for a developed Jammu and Kashmir by 2047.",
     "img": "https://static.toiimg.com/photo/msid-128046382,imgsize-948503.cms",
@@ -151,6 +358,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/bjp-mocks-ncs-special-status-call-for-jk-says-no-return-of-article-370/articleshow/128046244.cms",
     "time": "2026-02-07T19:36:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Penalties, warnings fail to curb wrong-side driving on city roads",
+    "desc": "Police should conduct a special drive, raise awareness to prevent such violations, say residents; traffic police official says they have identified 230 spots where people are prone to drive on wrong side, and have installed cameras to issue challans",
+    "img": "https://th-i.thgim.com/public/incoming/vwf2vg/article70605041.ece/alternates/LANDSCAPE_1200/2501_7_2_2026_18_6_4_3_DSC_6272.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/penalties-warnings-fail-to-curb-wrong-side-driving-on-city-roads/article70604940.ece",
+    "time": "2026-02-07T19:30:54.000Z"
   },
   {
     "cat": "Sports",
@@ -187,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/shia-muslims-protest-in-kashmir-over-deadly-blast-at-islamabad-mosque/articleshow/128044046.cms",
     "time": "2026-02-07T18:37:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "RSS chief Mohan Bhagwat",
-    "desc": "“We said we respect all religions because we are Hindus. There are people who say this was wrong. Islam and Christianity still exist in India. There are skirmishes, but the country has remained united,” says Bhagwat",
-    "img": "https://th-i.thgim.com/public/incoming/gv7c0j/article70605246.ece/alternates/LANDSCAPE_1200/20260207578L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/forgetting-hindu-sentiments-led-to-partition-rss-chief-mohan-bhagwat/article70605105.ece",
-    "time": "2026-02-07T18:19:20.000Z"
   },
   {
     "cat": "Sports",
@@ -405,15 +612,6 @@ const newsData_en = [
     "time": "2026-02-07T13:36:17.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "When Kangana said she tried flirting with Akshaye Khanna",
-    "desc": "Akshaye Khanna's recent success with 'Dhurandhar' has reignited interest, with a resurfaced 'Koffee With Karan' clip showing Kangana Ranaut admitting to unsuccessfully flirting with him. She described him as a man of few words, only speaking to Anil Kapoor. Another viral video captures Akshaye's impressive 'Chaiyya Chaiyya' dance, earning him praise as an 'underrated dancer'.",
-    "img": "https://static.toiimg.com/photo/msid-128035062,imgsize-38838.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-kangana-ranaut-confessed-she-tried-flirting-with-akshaye-khanna-but-he-didnt-respond-he-never-speaks/articleshow/128034935.cms",
-    "time": "2026-02-07T13:28:06.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Odisha CM launches ambitious economic regional plan BCPPER",
     "desc": "The BCPPER’s economy stands at $22.4 billion and is targeted to take it to $500 billion by 2047; it has proposed to create a special economic zone (SEZ) for education, innovation city, and logistics hub",
@@ -421,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/odisha/odisha-cm-launches-ambitious-economic-regional-plan-bcpper/article70603827.ece",
     "time": "2026-02-07T13:27:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rani M celebrates Mardaani 3 with Rekha, Huma",
-    "desc": "In a glamorous affair in Mumbai, Rani Mukerji threw a star-studded screening of 'Mardaani 3', attracting both seasoned filmmakers and emerging talents alike, despite its box office struggles. The event saw legendary stars like Rekha and contemporary favorites such as Huma Qureshi walking the red carpet.",
-    "img": "https://static.toiimg.com/photo/msid-128034818,imgsize-29554.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/see-pic-rani-mukerji-celebrates-mardaani-3-with-rekha-huma-qureshi-in-mumbai/articleshow/128034818.cms",
-    "time": "2026-02-07T13:27:10.000Z"
   },
   {
     "cat": "Sports",
@@ -448,33 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/not-dwayne-bravo-or-sunil-narine-jason-holder-becomes-the-first-ever-to/articleshow/128034144.cms",
     "time": "2026-02-07T13:08:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Armaan Malik on how virality in ruling the music industry",
-    "desc": "Armaan Malik champions emotional depth over algorithmic virality in music, lamenting the dilution of song quality for short-form trends. He believes timeless love songs, reminiscent of the 90s, are missing today. Malik, performing at 'Root for Mangroves', emphasizes using his platform for crucial environmental causes like mangrove conservation, highlighting its importance for our existence.",
-    "img": "https://static.toiimg.com/photo/msid-128034228,imgsize-65770.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/armaan-malik-says-people-today-are-creating-songs-for-virality-rather-than-emotion/articleshow/128034228.cms",
-    "time": "2026-02-07T13:04:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ekta’s 'Naagin' pitch to Kat and PC",
-    "desc": "Once envisioned as a grand Bollywood spectacle, Ekta Kapoor's 'Naagin' faced skepticism when she approached A-list stars like Katrina Kaif and Priyanka Chopra Jonas, who questioned its potential in the crowded cinema landscape. Undeterred, Kapoor shifted gears to television, where the show turned into a phenomenal success, demonstrating that an engaging narrative can triumph over star power.",
-    "img": "https://static.toiimg.com/photo/msid-128033630,imgsize-29018.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ekta-kapoor-recalls-pitching-naagin-to-katrina-kaif-and-priyanka-chopra-will-india-watch-asks-kaif/articleshow/128033630.cms",
-    "time": "2026-02-07T12:46:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Manoj remembers late Sunil Thapa with emotional note",
-    "desc": "Veteran Nepali actor Sunil Thapa, known for over 300 films and roles in 'Mary Kom' and 'The Family Man 3', passed away in Kathmandu after a suspected heart attack. Mourning his loss, Manoj Bajpayee shared, “It’s so so sad! God bless your soul sir!” remembering their time together.",
-    "img": "https://static.toiimg.com/photo/msid-128032206,imgsize-21098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manoj-bajpayee-remembers-late-co-star-sunil-thapa-with-emotional-note-god-bless-your-soul-sir/articleshow/128032206.cms",
-    "time": "2026-02-07T12:38:45.000Z"
   },
   {
     "cat": "Entertainment",
@@ -502,24 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-pakistan-contemplating-u-turn-pcb-begins-dialogue-with-icc/articleshow/128032563.cms",
     "time": "2026-02-07T12:13:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Why Taylor Swift skipped the super bowl halftime",
-    "desc": "Taylor Swift, the musical phenomenon beloved worldwide, has opted out of the Super Bowl halftime spectacle for several reasons—including the extensive schedule of her Eras Tour, business ties with competitive labels, and a focus on completing her album re-recordings. With her tour now behind her, a Super Bowl appearance seems increasingly likely.",
-    "img": "https://static.toiimg.com/photo/msid-128032427,imgsize-96288.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/the-real-reasons-why-taylor-swift-skipped-the-super-bowl-halftime-stage/articleshow/128032427.cms",
-    "time": "2026-02-07T12:06:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Raghav Juyal joins Ranbir Kapoor’s ‘Ramayana’",
-    "desc": "Raghav Juyal has joined Nitesh Tiwari’s 'Ramayana', playing Meghanad, son of Ravana, alongside Ranbir Kapoor, Sai Pallavi, and Yash. The role, earlier meant for Vikrant Massey, will feature in Ramayana Part 2 releasing Diwali 2027. Produced by Prime Focus Studios, the film’s first look will be unveiled on Ram Navami.",
-    "img": "https://static.toiimg.com/photo/msid-128032033,imgsize-17368.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raghav-juyal-joins-nitesh-tiwaris-ramayana-set-to-portray-meghanad-in-ranbir-kapoors-epic/articleshow/128032033.cms",
-    "time": "2026-02-07T11:50:50.000Z"
   },
   {
     "cat": "Sports",
@@ -558,24 +702,6 @@ const newsData_en = [
     "time": "2026-02-07T11:14:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Tara on finding inner peace amid breakup rumours with Veer",
-    "desc": "Tara Sutaria addressed her idea of success and peace amid rumours of her breakup with Veer Pahariya. She told Elle India that success is about inner calm and self-awareness. “I’ve learned how to protect my peace,” she said, adding, “As long as I know the truth, that’s enough.”",
-    "img": "https://static.toiimg.com/photo/msid-128030116,imgsize-23522.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/as-i-know-the-truth-tara-sutaria-opens-up-on-finding-inner-peace-amid-breakup-rumours-with-veer-pahariya/articleshow/128030116.cms",
-    "time": "2026-02-07T10:52:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shanaya Kapoor’s star relatives: Anil to Janhvi",
-    "desc": "With Shanaya Kapoor gearing up for 'Tu Yaa Main', the spotlight once again turns to a family whose history in cinema runs deep. Generations of performers, countless memories, and an ever-evolving bond with the audience define this celebrated clan. From evergreen entertainers like 'Mr. India' to contemporary favorites such as 'Dhadak' and 'The Archies', their journeys span eras, genres, and styles. Cinematic honors, national recognition, and enduring fan love accompany them, but what truly lasts is commitment to storytelling, reinvention, and carrying the legacy forward with heart.",
-    "img": "https://static.toiimg.com/photo/msid-128030110,imgsize-32590.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/from-anil-kapoor-to-janhvi-meet-tu-yaa-main-actress-shanaya-kapoors-star-relatives/photostory/128030110.cms",
-    "time": "2026-02-07T10:50:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "From 98/2 to 114/7: How Pak's T20 WC nearly ended on day one",
     "desc": "Pakistan narrowly avoided a T20 World Cup 2026 opening upset against the Netherlands, thanks to a match-winning 29 off 11 balls from Faheem Ashraf. Chasing 148, Pakistan collapsed in the middle order, but Ashraf's explosive 19th over turned the tide, securing a three-wicket victory with three balls to spare.",
@@ -612,33 +738,6 @@ const newsData_en = [
     "time": "2026-02-07T09:47:50.000Z"
   },
   {
-    "cat": "Business",
-    "title": "'Will not hurt farmers, MSMEs': Piyush Goyal says India 'fully protected' in US trade deal",
-    "desc": "Commerce Minister Piyush Goyal assured that the India-US trade deal safeguards Indian farmers, MSMEs, artisans, and craftsmen. He highlighted zero-duty exports for Indian agricultural products to the US, while no such concessions were made for US agricultural imports. The agreement aims to boost Indian exports, create jobs, and enhance domestic manufacturing by reducing tariffs on key sectors.",
-    "img": "https://static.toiimg.com/photo/msid-128027841,imgsize-48292.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/will-not-hurt-farmers-msmes-piyush-goyal-says-india-fully-protected-in-us-trade-deal/articleshow/128027386.cms",
-    "time": "2026-02-07T09:41:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India-US trade deal: What it means for the tech and digital sector? Data center collab, GPUs &amp; more",
-    "desc": "India and the United States have inked an interim trade deal, paving the way for enhanced collaboration in digital trade and technology. The agreement includes India's commitment to purchase $500 billion in US energy products, aircraft, and technology over five years. This pact aims to boost India's digital ecosystem and position it as a hub for AI and data services.",
-    "img": "https://static.toiimg.com/photo/msid-128028170,imgsize-132307.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-what-it-means-for-the-tech-and-digital-sector-data-center-collab-gpus-more/articleshow/128027284.cms",
-    "time": "2026-02-07T09:40:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What each sector got in India-US trade deal",
-    "desc": "India and the US have agreed on an interim trade framework, outlining tariff cuts and market access for manufacturing and industrial goods, while safeguarding sensitive agricultural and dairy sectors. This pact aims to ease trade tensions and pave the way for a broader Bilateral Trade Agreement.",
-    "img": "https://static.toiimg.com/photo/msid-128027987,imgsize-111602.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/from-agricultural-protection-to-preferential-quota-on-auto-what-each-sector-got-in-india-us-trade-deal/articleshow/128024949.cms",
-    "time": "2026-02-07T09:32:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ashraf scripts thrilling Pakistan escape vs Netherlands",
     "desc": "Faheem Ashraf's explosive unbeaten 29 off 11 balls secured a dramatic three-wicket victory for Pakistan against the Netherlands in their T20 World Cup opener. Despite a mid-innings collapse, Ashraf's late heroics, including three sixes in the penultimate over, guided Pakistan to 148 with three balls to spare, rescuing them from a precarious position.",
@@ -655,51 +754,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/2026-winter-olympics-some-athletes-skip-milans-opening-ceremony-and-march-in-the-mountains/article70602845.ece",
     "time": "2026-02-07T07:11:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "No duty concessions on sensitive grains, fruits, dairy: Highlights from India-US trade deal",
-    "desc": "India and the US have reached a framework for an interim trade agreement, significantly cutting US tariffs on Indian goods to 18% and easing duties on American food and agricultural products. This de-escalates trade tensions and paves the way for a broader bilateral trade pact, with India planning substantial purchases of US energy and technology products.",
-    "img": "https://static.toiimg.com/photo/msid-128022965,imgsize-117088.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/no-duty-concessions-on-sensitive-grains-fruits-dairy-highlights-from-india-us-trade-deal/articleshow/128020511.cms",
-    "time": "2026-02-07T06:35:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "18% tariffs, boost to exports, agriculture protected: How India benefits from trade deal with US? Explained",
-    "desc": "India and the US have released a joint statement detailing the broad contours of the trade agreement that is expected to be signed in a few weeks. The trade deal is a big boost for India's exports. We decode the benefits:",
-    "img": "https://static.toiimg.com/photo/msid-128023164,imgsize-70542.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/18-tariffs-boost-to-exports-agriculture-protected-how-india-benefits-from-trade-deal-with-us-explained/articleshow/128022927.cms",
-    "time": "2026-02-07T06:34:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India-US trade deal: Read full text of joint statement",
-    "desc": "India and the US have inked a landmark trade pact, slashing tariffs on Indian goods entering America from 50% to 18%. This agreement, following months of talks, will boost Indian exports like textiles and apparel, while India will reduce duties on US industrial and farm products. Both nations commit to further market access and supply chain resilience.",
-    "img": "https://static.toiimg.com/photo/msid-128022299,imgsize-32894.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-read-full-text-of-joint-statement/articleshow/128021368.cms",
-    "time": "2026-02-07T06:01:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Upcoming OTT releases for this week",
-    "desc": "​As streaming platforms gear up for another exciting week, viewers in India can look forward to a diverse mix of thrillers, horror, and legal dramas arriving this February. This lineup features English picks, Hindi offerings, and two South Indian gems across.​",
-    "img": "https://static.toiimg.com/photo/msid-128021757,imgsize-554656.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/upcoming-ott-releases-for-this-week-kohrra-season-2-the-lincoln-lawyer-season-4-and-more/photostory/128021757.cms",
-    "time": "2026-02-07T05:41:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India-US trade deal: What it means for farmers, entrepreneurs and the ‘Make in India’ push",
-    "desc": "India and the US have finalized an interim trade agreement, significantly reducing tariffs on Indian imports to the US from 50% to 18%. This pact offers substantial market access, boosting the 'Make in India' initiative and creating numerous employment opportunities for youth and women. Key sectors like textiles, leather, and pharmaceuticals will benefit, while India's core agricultural interests remain protected.",
-    "img": "https://static.toiimg.com/photo/msid-128020876,imgsize-70292.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-what-it-means-for-farmers-entrepreneurs-and-the-make-in-india-push/articleshow/128018872.cms",
-    "time": "2026-02-07T05:10:08.000Z"
   },
   {
     "cat": "Sports",
@@ -844,59 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-soundarya-rajinikanth-on-kochadaiyaan-and-her-latest-release-with-love/article70599160.ece",
     "time": "2026-02-06T09:17:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Will European wine finally get cheaper in India? Inside the EU–India trade deal",
-    "desc": "As import duties ease under the long-awaited EU–India trade deal, wine producers and importers weigh in. With India’s complex state taxes, currency volatility and long timelines, how long will it take for your wine to get cheaper?",
-    "img": "https://th-i.thgim.com/public/life-and-style/fashion/4vllcf/article70581916.ece/alternates/LANDSCAPE_1200/iStock-2207200692.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/life-and-style/will-european-wine-finally-get-cheaper-in-india-inside-the-euindia-trade-deal/article70581847.ece",
-    "time": "2026-02-06T06:49:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay Kumar on ‘Landlord’ and the need for an Ambedkarite movement in Kannada cinema",
-    "desc": "After facing a series of setbacks, actor Vijay Kumar has reinvented himself as a director, scoring hits with ‘Salaga’ and ‘Bheema’. Now, with ‘Landlord’, he aims to spark an Ambedkarite movement, tackling themes like equality and justice",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/r17zxw/article70595440.ece/alternates/LANDSCAPE_1200/Duniya%20VIjay.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/duniya-vijay-landlord-vijay-kumar-br-ambedkar-jai-bhim-raj-b-shetty-kannada-movie-jadeshaa-k-hampi/article70595433.ece",
-    "time": "2026-02-06T06:29:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "WPL-4 final: Smriti-Voll blitz powers RCB to second crown, DC falters in yet another final",
-    "desc": "The two put on a record 165 for the second wicket as the Bengaluru side chases down 204 in a thrilling finish; the Delhi outfit comes second best in a final for the fourth successive time",
-    "img": "https://th-i.thgim.com/public/incoming/otwe8h/article70598969.ece/alternates/LANDSCAPE_1200/VIS_1714.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/wpl-final-delhi-capitals-royal-challenger-bengaluru-smriti-mandhana-jemimah-rodrigues-updates/article70596391.ece",
-    "time": "2026-02-06T06:22:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Indian women knocked out after quarterfinal loss to China",
-    "desc": "India had won a historic gold medal in the previous edition in 2024, but the absence of the talismanic P.V. Sindhu due to a niggle made the task of defending the title a tough one",
-    "img": "https://th-i.thgim.com/public/incoming/bvfcop/article70598933.ece/alternates/LANDSCAPE_1200/PTI01_15_2026_000532B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/badminton-asian-team-championship-on-february-6/article70598924.ece",
-    "time": "2026-02-06T06:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "The sale of xAI comes with tax, financial and legal benefits for xAI and SpaceX investors",
-    "desc": "Instead of combining the two companies into one and fully integrating operations, Musk decided to ‌retain xAI, which runs social media platform X and created the Grok chatbot, as a wholly owned subsidiary of SpaceX, said sources",
-    "img": "https://th-i.thgim.com/public/incoming/ust5ep/article70598541.ece/alternates/LANDSCAPE_1200/2026-02-02T213022Z_1456700214_RC2PVCAPFSUH_RTRMADP_3_SPACEX-M-A-XAI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/the-sale-of-xai-comes-with-tax-financial-and-legal-benefits-for-xai-and-spacex-investors/article70598538.ece",
-    "time": "2026-02-06T04:41:04.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran, U.S. set for talks in Oman over nuclear programme after Tehran shaken by nationwide protests",
-    "desc": "The two countries have returned to Oman, a sultanate on the eastern edge of the Arabian Peninsula, months after rounds of meetings turned to ash following Israel's launch of a 12-day war against Iran back in June",
-    "img": "https://th-i.thgim.com/public/incoming/v9g99z/article70598565.ece/alternates/LANDSCAPE_1200/ML_Iran_11770.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-us-nuclear-programme-talks-in-oman/article70598554.ece",
-    "time": "2026-02-06T04:02:41.000Z"
   }
 ];

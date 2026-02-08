@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India create all-time T20 World Cup record after USA close-shave to kick off title defence",
+    "desc": "India survived a scare from the USA to kick off their T20 World Cup 2026 campaign with a 29-run win on Saturday, February 7. On what was an unusually slow Wankhede surface, Suryakumar Yadav played a sublime...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-create-all-time-t20-world-cup-record-after-usa-close-shave-to-kick-off-title-defence-2026-02-08-1029332",
+    "time": "2026-02-08T01:36:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Suryakumar Yadav shares major update on injured Washington Sundar after India's win over USA",
     "desc": "All-rounder Washington Sundar was ruled out of India’s opening T20 World Cup 2026 clash against USA at the Wankhede Stadium in Mumbai. The spinner picked up a side strain injury and is currently in rehab...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-jasprit-bumrah-not-playing-vs-usa-in-india-s-t20-world-cup-2026-opener-in-mumbai-2026-02-07-1029299",
     "time": "2026-02-07T13:10:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Romario Shephard clinches hat-trick, four wickets in one over as West Indies stun Scotland: Watch",
-    "desc": "Romario Shepherd etched his name into the record books by becoming the first West Indies bowler to claim a hat-trick in T20 World Cup history. The milestone came during the clash against Scotland at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/romario-shephard-clinches-hat-trick-four-wickets-in-one-over-as-west-indies-stun-scotland-at-eden-gardens-2026-02-07-1029298",
-    "time": "2026-02-07T13:03:52.000Z"
   }
 ];
