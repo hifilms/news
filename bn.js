@@ -1,6 +1,33 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "অষ্টম পে কমিশনে এবার সত্যিই বিগ ব্যাপার! বিশাল বেতনবৃদ্ধির সুখবরকে মান্যতা দিয়েই খুলে গেল...",
+    "desc": "অষ্টম পে কমিশনে (8th Pay Commission) এবার বিরাট পদক্ষেপ। অষ্টম পে কমিশন অফিসিয়ালি শুরু হওয়ার আগে একে 'কী স্টেপ' বলা হচ্ছে। কেননা, অষ্টম পে কমিশনের অফিসিয়াল ওয়েবসাইট এবার 'লাইভ' (8th Pay Commission Website Launch) হল!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/8th-pay-commission-updates-8th-pay-commission-website-launch-big-salary-questions-now-open-to-employees-send-suggestions-big-step-in-8th-pay-commission_640176.html ",
+    "time": "2026-02-08T12:02:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "টি-২০ বিশ্বকাপে হতে পারে সবচেয়ে বড় অঘটন! গ্রুপ স্টেজ থেকেই কি বিদায় নেবে এত লড়াকু দল? সম্ভাবনা প্রবল",
+    "desc": "টি-টোয়েন্টি বিশ্বকাপ ২০২৬-এর চতুর্থ ম্যাচে আফগানিস্তানের মুখোমুখি হয় নিউজিল্যান্ড। চেন্নাইয়ের এম এ চিদাম্বরম স্টেডিয়ামে অনুষ্ঠিত এই ম্যাচে রশিদ খানের দলের পাল্লা ভারী ছিল, কারণ আগের টি-টোয়েন্টি বিশ্বকাপে দুই দল মুখোমুখি হলে আফগানিস্তান নিউজিল্যান্ডকে ৮৪ রানে বিধ্বস্ত করেছিল।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/T20-2026-02-b9f461705e3f27fa88bc4db79377f9e9-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/sports/afghanistan-who-played-semi-final-in-2024-will-be-eliminated-from-group-stage-in-t20-wc-smj-2530991.html",
+    "time": "2026-02-08T11:11:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বিয়ের শাড়ি দেখিয়ে নিমন্ত্রণ! প্রেমিকার নিষ্ঠুর ধোঁকায় অভিমানে চিরবিদায় বডি বিল্ডার কিরণের, লিখলেন...",
+    "desc": "প্রেমিকার অন্যত্র বিয়ে ঠিক হওয়ার খবর সহ্য করতে না পেরে তরুণ যুবকের চরম পদক্ষেপ। গত তিন বছর ধরে তাঁদের সম্পর্ক ছিল, কিন্তু প্রেমিকা তাঁকে বিয়ের কার্ড ও শাড়ি দেখালে তিনি মানসিকভাবে ভেঙে পড়েন। মৃত্যুর আগে একটি নোটে তিনি এই ঘটনার জন্য প্রেমিকা ও তাঁর মাকে দায়ী করে গেছেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/26-year-old-bodybuilder-took-extreme-step-after-his-girlfriend-informed-her-engagement_640165.html ",
+    "time": "2026-02-08T09:55:42.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "'বাড়িতে কেউ কিছু বলে না, আপনি কে?', এই বলেই শিক্ষিকাকে সপাটে চড় টুয়েলভের ছাত্রের!",
     "desc": "পরীক্ষায় দেরি করে আসায় বকুনি খেয়ে এক শিক্ষিকাকে চড় মারার অভিযোগ উঠেছে ১৮ বছর বয়সী এক ছাত্রের বিরুদ্ধে। সিসিটিভি ফুটেজে ধরা পড়া এই ঘটনার পর ছাত্রটি দলবল নিয়ে এসে একা থাকা ওই শিক্ষিকাকে পুনরায় হুমকি দেয়।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -214,15 +241,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/bohurupi-the-golden-daku-jisshu-sengupta-shiboprosad-koushani-puja-2026_639793.html ",
     "time": "2026-02-05T15:35:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rajasthan's Honeymoon Murder: হাড়হিম হানিমুন মার্ডার! গাড়ির ধাক্কায় মৃত্যু নয়, ঝোপের ভিতরে লুকিয়ে থাকা দুই রাক্ষসই শ্বাসরোধ করে খুন করল নতুন বরকে...",
-    "desc": "অনীশ ও অঞ্জুর ইভিনিং ওয়াক মহূর্তে পরিণত হয় দুঃস্বপ্নে। একটা গাড়ি এসে ভয়ংকর ধাক্কা মারে নবদম্পতিকে, অকুস্থলেই মৃত্যু বরের, কনের গা থেকে চুরি হয়ে যায় সোনার গয়না। কিন্তু তদন্ত যত এগোয়, তত প্রকাশ্যে আসে হাড়হিম ঘটনা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/rajasthans-honeymoon-murder-after-meghalaya-another-honeymoon-killing-man-dies-in-hit-and-run-turns-out-to-be-murder-plot-by-wife_639776.html ",
-    "time": "2026-02-05T13:31:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/business/union-budget-2026-tea-garden-workers-left-out-no-allocation-for-darjeeling-tea-l18t-rm-local18-2522101.html",
     "time": "2026-02-01T12:45:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T-20 World Cup 2026 : চার দিন পর শুরু বিশ্বকাপ! ভারতীয় দলে বড় পরিবর্তন, টিম ইন্ডিয়ার প্লেয়িং ইলেভেন দেখে নিন সবার আগে",
-    "desc": "ফেব্রুয়ারি থেকে শুরু হবে টি২০ বিশ্বকাপ ২০২৬। তার জন্য টিম ইন্ডিয়া পুরোপুরি প্রস্তুত। নিউজিল্যান্ডের বিরুদ্ধে পাঁচ ম্যাচের টি-টোয়েন্টি সিরিজের মাধ্যমেই সেই ১১ জন খেলোয়াড় প্রায় নিশ্চিত হয়ে গিয়েছেন, যাঁদের নিয়ে অধিনায়ক সূর্যকুমার যাদব শিরোপা ধরে রাখার মিশনে নামবেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/Indian-Cricket-Team-2025-12-5da06c85555b43434e119770e582f78e-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/t20-world-cup-2026-team-india-best-playing-11-here-it-is-smj-2522060.html",
-    "time": "2026-02-01T12:28:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "শিলিগুড়ি থেকে বারাণসী পর্যন্ত হাইস্পিড রেল করিডর! কী কী পেল বাংলা?",
-    "desc": "সামনেই রাজ্যে বিধানসভা নির্বাচন, সেই ভোটের আগে শেষ বাজেট, তাই বাংলা কী পাবে তার দিকে নজর ছিল। দিনের শেষে বাংলা পাচ্ছে হাইস্পিড রেল করিডর, ফ্রেট করিডর, ইন্ডাস্ট্রিয়াল করিডর।রবিবারের বাজেটে দেশ জুড়ে সাতটি হাইস্পিড রেল করিডর তৈরির ঘোষণা করলেন দেশের অর্থমন্ত্রী নির্মলা সীতারমণ। এর মধ্যে একটি হল বারাণসী থেকে শিলিগুড়ি পর্যন্ত। শিলিগুড়ির চিকেন নেক গোটা দেশের নিরাপত্তার জন্য খুবই গুরুত্বপূর্ণ, তার উপরে সামনেই নির্বাচন, সেই আবহে এই ঘোষণা তাৎপর্যপূর্ণ বলে মনে করা হচ্ছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Budget-2026-02-5ebc0372973dd112376a660fed025e31-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/business/nirmala-sitharaman-unveils-varanasi-siliguri-high-speed-rail-corridor-in-budget-rmj-ws-l-2522091.html",
-    "time": "2026-02-01T12:28:12.000Z"
   }
 ];

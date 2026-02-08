@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "FBIના ગુપ્ત દસ્તાવેજમાં ચોંકાવનારો દાવો, શું ઈઝરાયેલી જાસૂસ હતો એપસ્ટીન?",
+    "desc": "અમેરિકામાં જેવું એપસ્ટીન ફાઈલ્સનો પટારો ખુલ્યો છે કે એવા ચોંકાવનારા રહસ્યો બહાર આવી રહ્યા છે જેણે આખી દુનિયામાં હડકંપ મચાવ્યો છે. મોટી મોટી હસ્તીઓના નામનો ખુલાસો અને હવે એવો દાવો થયો છે કે જેફરી એપસ્ટીન ઈઝરાયેલી જાસૂસ હતો. જાણો શું છે મામલો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/shocking-claim-in-secret-fbi-document-was-epstein-an-israeli-spy-what-netanyahu-says-464320 ",
+    "time": "2026-02-08T10:01:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "રોકાણકારો પર થશે રૂપિયાનો વરસાદ, 13 કંપનીઓ આપી રહી છે ડિવિડન્ડ, આગામી સપ્તાહે રેકોર્ડ ડેટ",
+    "desc": "જો તમે શેર બજારમાં ડિવિડન્ડ સ્ટોક પર દાવ લગાવો છો તો આ સમાચાર તમારા માટે છે. આગામી સપ્તાહે એક નહીં 13-13 કંપનીઓ ડિવિડન્ડ આપવાની છે. જાણો કઈ-કઈ કંપની ડિવિડન્ડ આપશે, કેટલું ડિવિડન્ડ આપશે અને રેકોર્ડ ડેટ કઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/13-companies-are-giving-dividends-record-date-next-week-know-details-464317 ",
+    "time": "2026-02-08T09:42:10.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ઓલટાઈમ હાઈથી સોનું 24000 રૂપિયા અને ચાંદી 1.41 લાખ સસ્તી, જાણો દાગીના-લગડી લેવાનો શું છે ભાવ?",
     "desc": "સોના અને ચાંદીમાં ભયંકર ઉતાર ચડાવ જોવા મળી રહ્યા છે. 29 જાન્યુઆરીના રોજ સોનું અને ચાંદી વાયદા બજારમાં જે આકાશે આંબ્યા અને રેકોર્ડ હાઈ પર પહોંચ્યા ત્યારબાદ કડાકા જોવા મળ્યા અને ભાવમાં બંપર ઘટાડો નોંધાયો. છેલ્લા એક અઠવાડિયામાં સોનું અને ચાંદી શું સ્થિતિમાં જોવા મળ્યા તે ખાસ જાણો. આગળ પરિસ્થિતિ કેવી રહી શકે?",
@@ -342,15 +360,6 @@ const newsData_gu = [
     "time": "2026-02-05T10:06:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "પ્રેમમાં અંધ પત્નીએ જ પોતાનું ઘર ઉજાડ્યું! પ્રેમી સાથે મળીને પતિને ઉતાર્યો મોતને ઘાટ, 3 મહિના પહેલા લગ્ન...",
-    "desc": "ઈન્દોરની સોનમ બાદ હવે ગંગાનગરના રાવલમાં અંજલી નામની એક મહિલાએ પોતાના પ્રેમી સંજય અને બે મિત્રો સાથે મળીને પોતાના જ પતિ આશિષનું ગળું દબાવીને હત્યા કરી દીધી. આ ઘટના લગ્નના ત્રણ મહિના પછી જ અફેરને કારણે બની હતી. પોલીસે અંજલી અને તેના પ્રેમી સહિત ચાર આરોપીઓની ધરપકડ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/affair-led-to-murder-plot-wife-planned-husbands-killing-days-in-advance-family-knew-about-relationship-464030 ",
-    "time": "2026-02-05T09:03:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "વોર્મ અપ મેચે જ નક્કી કરી નાખી ભારતની પ્લેઈંગ-11, આ બે ખેલાડીઓને બેસવું પડશે બહાર !",
     "desc": "ભારતીય ક્રિકેટ ટીમે T20 વર્લ્ડ કપ માટે યોજાયેલી વોર્મ અપ મેચમાં દક્ષિણ આફ્રિકાને 30 રનથી હરાવ્યું. આ મેચથી મેનેજમેન્ટને ટીમના મોટાભાગના ખેલાડીઓની કસોટી કરવાની તક મળી. જેના પરથી મેનેજમેન્ટ હવે ભારતની ફાઈનલ પ્લેઈંગ-11 નક્કી કરશે.",
@@ -403,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/border-2-ott-release-date-20-march-2026-border-2-box-office-collection-latest-news-463987 ",
     "time": "2026-02-05T03:32:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "₹1,000 મહિને કે ₹1 લાખ એક સાથે, 20 વર્ષ બાદ કેટલા રૂપિયા બનશે?",
-    "desc": "20 વર્ષમાં 1 હજારની માસિક SIP આશરે 13 લાખથી વધુ બની શકે છે, જ્યારે 1 લાખનું લંપસમ રોકાણ લગભગ 16 લાખ સુધી પહોંચી શકે છે. બંનેમાં સારૂ રિટર્ન મળે છે, પરંતુ નાના રોકાણકારો માટે SIP વધુ સરળ વિકલ્પ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/if-you-invest-rs1000-per-month-or-rs-1-lakh-as-a-lump-sum-how-much-money-you-have-after-20-years-463983 ",
-    "time": "2026-02-05T03:01:37.000Z"
   },
   {
     "cat": "Sports",
@@ -529,15 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/india-us-trade-deal-will-india-stop-buying-russian-oil-trump-conditon-to-pm-modi-463820 ",
     "time": "2026-02-03T09:01:11.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "અમેરિકાએ ઘટાડ્યો ટેરિફ, 25%થી ઘટાડીને 18% કર્યો; ટ્રમ્પે કહ્યું- ભારત હવે રશિયા પાસેથી તેલ નહીં ખરીદે",
-    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે સોમવારે જાહેરાત કરી કે, તેઓ ટેરિફન 25 ટકાથી ઘટાડીને 18 ટકા કરી દેશે. આ વાત તેમણે વડાપ્રધાન નરેન્દ્ર મોદી સાથે વાતચીત કર્યાના થોડા જ સમય બાદ કહી છે. આ જાહેરાતથી ભારત-અમેરિકા સંબંધોમાં નરમાશ આવવાનો સંકેત મળી રહ્યા છે. આ નિર્ણયથી બન્ને દેશોની વચ્ચે વેપાર વધવાની અને આયાત ખર્ચમાં ઘટાડો થવાની અપેક્ષા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/us-lowers-reciprocal-tariff-india-to-stop-russian-oil-modi-trump-trade-deal-463775 ",
-    "time": "2026-02-02T17:47:33.000Z"
   },
   {
     "cat": "Entertainment",

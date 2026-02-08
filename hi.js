@@ -1,7 +1,43 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "England open campaign against Nepal in Mumbai",
+    "title": "Babar Azam holds shameful T20 World Cup record, batting under immense scrutiny before USA game",
+    "desc": "Former Pakistan captain Babar Azam’s form has become a major talking point. Despite an underwhelming outing in the recently concluded Big Bash League, the team management backed the experienced batter by including him in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-holds-shameful-t20-world-cup-record-batting-under-immense-scrutiny-before-usa-game-2026-02-08-1029396",
+    "time": "2026-02-08T12:22:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Glenn Phillips overtakes Brendon McCullum in elite list after his knock against Afghanistan",
+    "desc": "New Zealand got off to a stellar start to their T20 World Cup 2026 campaign. The Black Caps took on Afghanistan in their first game of the tournament at the MA Chidambaram Stadium in Chennai...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-overtakes-brendon-mccullum-in-elite-list-after-his-knock-against-afghanistan-2026-02-08-1029393",
+    "time": "2026-02-08T11:59:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Which team is playing T20 World Cup for the first time? Check details",
+    "desc": "The stage is set for game 7 of the ongoing T20 World Cup 2026. Italy will be taking on Scotland in the clash at the Eden Gardens in Kolkata on February 9. It is interesting...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/which-team-is-playing-t20-world-cup-for-the-first-time-check-details-2026-02-08-1029390",
+    "time": "2026-02-08T11:19:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "New Zealand break massive T20I record, pick comfortable win vs Afghanistan in run-fest clash in Chennai",
+    "desc": "New Zealand opened their T20 World Cup 2026 campaign with a comfortable five-wicket win against Afghanistan, chasing down a target of 183 with 13 balls to spare at the MA Chidambaram Stadium in Chennai. After...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-break-massive-t20i-record-pick-comfortable-win-vs-afghanistan-in-run-fest-clash-in-chennai-2026-02-08-1029389",
+    "time": "2026-02-08T11:12:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nepal four down, England in command",
     "desc": "England take on Nepal in a T20 World Cup 2026 encounter that highlights the contrast between a defending heavyweight and an ambitious rising nation. The English side arrives with depth, power, and a well-oiled white-ball...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-creates-history-breaks-virat-kohlis-record-after-stellar-show-in-t20-world-cup-2026-opener-2026-02-08-1029335",
     "time": "2026-02-08T02:14:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India create all-time T20 World Cup record after USA close shave to kick off title defence",
-    "desc": "India survived a scare from the USA to kick off their T20 World Cup 2026 campaign with a 29-run win on Saturday, February 7. On what was an unusually slow Wankhede surface, Suryakumar Yadav played a sublime...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-create-all-time-t20-world-cup-record-after-usa-close-shave-to-kick-off-title-defence-2026-02-08-1029332",
-    "time": "2026-02-08T01:36:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav shares major update on injured Washington Sundar after India's win over USA",
-    "desc": "All-rounder Washington Sundar was ruled out of India’s opening T20 World Cup 2026 clash against USA at the Wankhede Stadium in Mumbai. The spinner picked up a side strain injury and is currently in rehab...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-shares-major-update-on-injured-washington-sundar-after-india-s-win-over-usa-2026-02-07-1029326",
-    "time": "2026-02-07T18:04:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at MA Chidambaram Stadium in Chennai play?",
-    "desc": "New Zealand will open their T20 World Cup campaign against Afghanistan on February 8 at the MA Chidambaram Stadium in Chennai. The Mitchell Santner-led side suffered a crushing 4-1 defeat to India in the recently...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-afg-t20-world-cup-2026-pitch-report-how-will-surface-at-ma-chidambaram-stadium-in-chennai-play-2026-02-07-1029324",
-    "time": "2026-02-07T17:47:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav's blitzkreig rescues India after USA scare defending champions in first innings",
-    "desc": "India kicked off their T20 World Cup 2026 campaign with a comfortable 29-run victory at the Wankhede Stadium in Mumbai. The Suryakumar Yadav-led side walked in as clear favourites, with pre-match chatter even hinting at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/usa-scare-india-in-t20-world-cup-opener-suryakumar-yadav-s-blitzkreig-rescued-defending-champions-in-mumbai-2026-02-07-1029322",
-    "time": "2026-02-07T17:12:20.000Z"
   }
 ];
