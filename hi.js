@@ -1,8 +1,35 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Gulbadin, Sediq take Afghanistan past 100 in gripping contest",
-    "desc": "Afghanistan look to rebuild things after losing quick wickets in the powerplay. Afghanistan lost both of their openers inside the first six overs as Lockie Ferguson starred with wickets in single over. Gulbadin Naib and...",
+    "title": "England open campaign against Nepal in Mumbai",
+    "desc": "England take on Nepal in a T20 World Cup 2026 encounter that highlights the contrast between a defending heavyweight and an ambitious rising nation. The English side arrives with depth, power, and a well-oiled white-ball...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/eng-vs-nep-t20-world-cup-2026-live-cricket-score-wankhede-stadium-mumbai-england-vs-nepal-latest-match-updates-scorecard-teams-playing-xis-2026-02-08-1029376",
+    "time": "2026-02-08T09:12:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Afghanistan shatter India's T20 World Cup record against New Zealand with strong performance in Chennai",
+    "desc": "Afghanistan broke a major record of India during their T20 World Cup 2026 clash against New Zealand on Sunday, February 8. Playing against the Kiwis in a high-stakes Group D clash at the MA Chidambaram...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-shatter-indias-t20-world-cup-record-against-new-zealand-with-strong-performance-in-chennai-2026-02-08-1029372",
+    "time": "2026-02-08T08:43:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Mohammed Siraj's Real Madrid plan was cancelled at 11th hour in late call-up for T20 World Cup 2026",
+    "desc": "Mohammed Siraj was a late entrant in the Indian team for the T20 World Cup 2026 after being called up at the 11th hour. He was heading to Spain to watch Real Madrid's match against...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-mohammed-sirajs-real-madrid-plan-was-cancelled-at-11th-hour-in-late-call-up-for-t20-world-cup-2026-2026-02-08-1029363",
+    "time": "2026-02-08T06:52:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "New Zealand beat Afghanistan in crucial clash by five wickets",
+    "desc": "New Zealand defeated Afghanistan as they chased down 183 at the MA Chidambaram Stadium in Chennai in a crucial T20 World Cup 2026 clash. Tim Seifert scored a strong 65 from 42 balls, while Glenn...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-afg-t20-world-cup-2026-live-cricket-score-new-zealand-vs-afghanistan-ma-chidambaram-stadium-chennai-latest-match-updates-scorecard-teams-2026-02-08-1029349",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/usa-scare-india-in-t20-world-cup-opener-suryakumar-yadav-s-blitzkreig-rescued-defending-champions-in-mumbai-2026-02-07-1029322",
     "time": "2026-02-07T17:12:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Still a baby': AB de Villiers heaps massive praise on Vaibhav Suryavanshi for iconic U19 WC final knock",
-    "desc": "Team India U19 scripted history and won the U19 World Cup 2026. Defeating England U19 in the summit clash, the Men in Blue saw 14-year-old Vaibhav Suryavanshi perform exceptionally, scoring 175 runs in 80 deliveries,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/still-a-baby-ab-de-villiers-heaps-massive-praise-on-vaibhav-suryavanshi-for-iconic-u19-wc-final-knock-2026-02-07-1029321",
-    "time": "2026-02-07T17:06:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav surpasses Virat Kohli, stays on Rohit Sharma's toes with exceptional knock in the T20 WC 2026",
-    "desc": "Game 3 of the ongoing T20 World Cup 2026 saw the defending champions India taking on the USA. The two sides took on each other at the Wankhede Stadium in Mumbai on February 7. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-surpasses-virat-kohli-stays-on-rohit-sharma-s-toes-with-exceptional-knock-in-the-t20-wc-2026-2026-02-07-1029317",
-    "time": "2026-02-07T16:06:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Saurabh Netravalkar breaks Sanath Jayasuriya's unwanted record",
-    "desc": "Saurabh Netravalkar and Suryakumar Yadav share a strong bond off the field, with the Indian T20I captain previously supporting Netravalkar during the T20 World Cup 2024. The USA pacer later reciprocated the gesture, calling Suryakumar...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/most-expensive-spell-in-t20-world-cup-history-saurabh-netravalkar-breaks-sanath-jayasuriya-s-unwanted-record-2026-02-07-1029316",
-    "time": "2026-02-07T15:57:07.000Z"
   }
 ];

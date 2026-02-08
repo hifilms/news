@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "'বাড়িতে কেউ কিছু বলে না, আপনি কে?', এই বলেই শিক্ষিকাকে সপাটে চড় টুয়েলভের ছাত্রের!",
+    "desc": "পরীক্ষায় দেরি করে আসায় বকুনি খেয়ে এক শিক্ষিকাকে চড় মারার অভিযোগ উঠেছে ১৮ বছর বয়সী এক ছাত্রের বিরুদ্ধে। সিসিটিভি ফুটেজে ধরা পড়া এই ঘটনার পর ছাত্রটি দলবল নিয়ে এসে একা থাকা ওই শিক্ষিকাকে পুনরায় হুমকি দেয়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/class-12-student-slaps-teacher-after-she-scolded-him-for-arriving-late_640159.html ",
+    "time": "2026-02-08T08:03:56.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "১০ বছর হয়ে গেল! মেয়েকে আড়ালেই রেখেছেন রানি মুখার্জি! সমস্যাটা কী...জানালেন অভিনেত্রী!",
     "desc": "লোকচক্ষুর আড়ালেই মেয়েকে বড় করে তোলার সিদ্ধান্তে শুরু থেকেই অনড় রানি মুখার্জি ও আদিত্য চোপড়া। তারকাসন্তান হয়েও আদিরাকে একেবারে স্বাভাবিক জীবনের স্বাদ দিতে চান এই দম্পতি। মেয়ের ভবিষ্যৎ, বেড়ে ওঠা এবং তাকে ঘিরে নিজেদের ভাবনা নিয়ে সম্প্রতি খোলাখুলি কথা বললেন রানি মুখার্জি।",
@@ -277,15 +286,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/honeymoon-murder-2-0-in-rajasthan-man-dies-in-hit-and-run-planned-by-wife-her-boyfriend-sta-2527438.html",
     "time": "2026-02-05T09:16:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "যুগান্তকারী ঘোষণা! বেসরকারি কর্মীদের হাতে চাঁদ! এখন থেকে পিএফ মারফত বিপুল প্রাপ্তি...",
-    "desc": "পেনশনভোগীদের দীর্ঘদিনের দাবির পরিপ্রেক্ষিতে সরকার সম্প্রতি রাজ্যসভায় বিষয়টি পরিষ্কার করেছে। বর্তমানে ইপিএস-৯৫ স্কিমের অধীনে ন্যূনতম পেনশনের পরিমাণ মাসে ১০০০ টাকা। কিন্তু বিভিন্ন শ্রমিক সংগঠন এবং পেনশনভোগীরা এটি বাড়িয়ে ৭৫০০ টাকা করার দাবি জানিয়ে আসছিলেন। কী ঘটল?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/pf-hike-epfo-pension-hike-2026-minimum-7500-approved-wage-ceiling-raised-relief-for-6-point-5-crore-private-employees_639672.html ",
-    "time": "2026-02-05T08:37:34.000Z"
   },
   {
     "cat": "Politics",
