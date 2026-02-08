@@ -1,5 +1,194 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Katy cheers for Bad Bunny",
+    "desc": "On the streets of San Juan, Bad Bunny's compatriots are eagerly awaiting the world's most famous Puerto Rican to represent the island at the Super Bowl halftime show on Sunday. In the same neighborhood, near a mural depicting Bad Bunny with a Puerto Rican flag, Angelis Segarra crosses her fingers that the halftime show goes off without a hitch.",
+    "img": "https://static.toiimg.com/photo/msid-128085668,imgsize-26404.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bad-bunny-set-for-super-bowl-lx-halftime-performance-katy-perry-says-remind-the-world-what-the-real-american-dream-looks-like/articleshow/128085153.cms",
+    "time": "2026-02-08T21:10:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ayesha Khan slams lack of consent in paparazzi culture",
+    "desc": "Ayesha Khan, who has been receiving widespread appreciation for her song Shararat from Aditya Dhar’s Dhurandhar, recently spoke about the flip side of visibility and fame, touching upon online judgement, AI-generated content, and the lack of consent in paparazzi culture.",
+    "img": "https://static.toiimg.com/photo/msid-128085360,imgsize-31788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ayesha-khan-calls-ai-generated-videos-very-scary-slams-lack-of-consent-in-paparazzi-culture-youre-capturing-someones-oops-moment/articleshow/128085247.cms",
+    "time": "2026-02-08T20:52:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rahul Gandhi's message to Gen Z: 'Be flexible and persevere'",
+    "desc": "Congress leader Rahul Gandhi advised Gen Z to be flexible and persevere, emphasizing that life is not linear. He shared insights from an interaction with NRI students, addressing their anxieties about confidence, judgment, and self-expression. Gandhi highlighted the importance of staying true to oneself amidst societal pressures and labels.",
+    "img": "https://static.toiimg.com/photo/msid-128085331,imgsize-491039.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rahul-gandhis-message-to-gen-z-be-flexible-and-persevere/articleshow/128085252.cms",
+    "time": "2026-02-08T20:50:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi sets May deadline to prioritise quality improvement of highways",
+    "desc": "Prime Minister Narendra Modi has set a May deadline for the road transport ministry to prioritize highway quality improvement and develop robust SOPs. This directive follows numerous complaints about poor road conditions, especially post-monsoon. The PM also called for action against underperforming contractors and a study into potential collusion affecting land acquisition delays.",
+    "img": "https://static.toiimg.com/photo/msid-128085142,imgsize-479040.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-sets-may-deadline-to-prioritise-quality-improvement-of-highways/articleshow/128085143.cms",
+    "time": "2026-02-08T20:39:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India, Canada step up security cooperation",
+    "desc": "National Security Advisor Ajit Doval's visit to Canada has yielded a \"shared workplan\" for bilateral cooperation on national security and law enforcement. Both nations agreed to establish liaison officers to enhance communication and information sharing on critical issues like drug trafficking and organized crime. This move aims to rebuild trust and pave the way for future high-level engagements.",
+    "img": "https://static.toiimg.com/photo/msid-128084996,imgsize-533199.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-canada-step-up-security-cooperation/articleshow/128085001.cms",
+    "time": "2026-02-08T20:31:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Trade deal a threat to India's interests: CPM",
+    "desc": "CPM and CPI(ML) Liberation have strongly criticized the Indo-US trade deal, alleging the BJP government has made significant concessions detrimental to India's economy, agriculture, and national sovereignty. Both parties demand the deal's details be made public and presented to Parliament, urging the government to halt any agreement harmful to Indian workers and farmers.",
+    "img": "https://static.toiimg.com/photo/msid-128084725,imgsize-1313306.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/trade-deal-a-threat-to-indias-interests-cpm/articleshow/128084726.cms",
+    "time": "2026-02-08T20:16:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arijit returns to stage for first Kolkata show with Anoushka",
+    "desc": "Singer Arijit Singh performed his first live show in Kolkata just days after announcing his decision to step away from playback singing. Several videos and photographs from the concert, held on Sunday at the Netaji Indoor Stadium, surfaced on social media, showing the singer sharing the stage with sitar maestro Anoushka Shankar.",
+    "img": "https://static.toiimg.com/photo/msid-128084645,imgsize-24180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arijit-singh-returns-to-stage-for-first-kolkata-show-with-anoushka-shankar-days-after-announcing-retirement-from-playback-singing/articleshow/128084599.cms",
+    "time": "2026-02-08T20:12:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Electronics output up 6-fold, exports 8-fold in 11 yrs: Govt",
+    "desc": "India's electronics manufacturing has surged six-fold in production and eight-fold in exports over 11 years, making it the world's second-largest mobile phone maker. Driven by the production-linked incentive scheme, mobile production alone saw a more than 100-fold export increase, transforming India into a net exporter.",
+    "img": "https://static.toiimg.com/photo/msid-128084639,imgsize-963619.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/electronics-output-up-6-fold-exports-8-fold-in-11-yrs-govt/articleshow/128084651.cms",
+    "time": "2026-02-08T20:11:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Trade deal will give new wings to farmers' dreams: Shivraj Singh Chouhan",
+    "desc": "Union Agriculture Minister Shivraj Singh Chouhan stated that the India-US interim trade deal will empower farmers, with key agricultural products like major grains, fruits, and dairy remaining secure from US imports. He asserted that the agreement protects farmers' interests and will boost Indian exports, particularly in textiles.",
+    "img": "https://static.toiimg.com/photo/msid-128084502,imgsize-863425.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/trade-deal-will-give-new-wings-to-farmers-dreams-shivraj-singh-chouhan/articleshow/128084506.cms",
+    "time": "2026-02-08T20:05:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nayara's future unsure: India may bargain with US for Russian crude",
+    "desc": "US President Trump's threat of a 25% \"penalty\" on Indian crude imports casts a shadow over the Nayara refinery, majority-owned by Russia's Rosneft. This situation fuels speculation about a change in ownership, as prospective buyers may be deterred by US sanctions.",
+    "img": "https://static.toiimg.com/photo/msid-128084426,imgsize-1116592.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nayaras-future-unsure-india-may-bargain-with-us-for-russian-crude/articleshow/128084437.cms",
+    "time": "2026-02-08T20:01:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "With Kotak Bank not in IDBI fray, eyes on foreign suitors",
+    "desc": "Kotak Bank has denied media reports of submitting a financial bid for IDBI Bank, ruling itself out of the acquisition race. This development shifts focus to foreign bidders like Fairfax India and Emirates NBD, as the government aims to complete the sale by FY26. Valuation concerns are cited as a potential reason for Kotak's withdrawal.",
+    "img": "https://static.toiimg.com/photo/msid-128084089,imgsize-725817.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/with-kotak-bank-not-in-idbi-fray-eyes-on-foreign-suitors/articleshow/128084059.cms",
+    "time": "2026-02-08T19:44:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-US trade deal: Pact puts auto parts exporters in driver's seat",
+    "desc": "India's auto component industry is poised for significant growth following a trade deal with the US, offering preferential tariff treatment and zero-duty access for certain Indian auto parts. This agreement is expected to boost export competitiveness, deepen collaboration, and reinforce India's role in global automotive supply chains, opening new avenues for export-led expansion.",
+    "img": "https://static.toiimg.com/photo/msid-128083897,imgsize-1174010.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-pact-puts-auto-parts-exporters-in-drivers-seat/articleshow/128083788.cms",
+    "time": "2026-02-08T19:35:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In a first for India, a desi aerospace firm gains in-orbit snooping capability, takes images of ISS",
+    "desc": "India's space sector has achieved a significant milestone as Azista Space successfully imaged the International Space Station from its own satellite. This groundbreaking \"space watch\" capability, demonstrated by the ABA First Runner satellite, marks a first for any Indian company. The feat enhances India's space situational awareness, crucial for protecting national assets in orbit.",
+    "img": "https://static.toiimg.com/photo/msid-128083697,imgsize-747406.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/in-a-first-for-india-a-desi-aerospace-firm-gains-in-orbit-snooping-capability-takes-images-of-iss/articleshow/128083737.cms",
+    "time": "2026-02-08T19:30:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Carpet cos hope to reclaim turf",
+    "desc": "Indian carpet exporters are witnessing a revival after a significant slowdown caused by hefty US tariffs. Buyers are re-engaging, checking inventories, and expressing excitement for upcoming industry shows. This renewed activity offers hope for regaining lost market share from neighboring countries and Turkiye.",
+    "img": "https://static.toiimg.com/photo/msid-128083533,imgsize-1022444.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/weaving-revival-carpet-cos-hope-to-reclaim-turf/articleshow/128083536.cms",
+    "time": "2026-02-08T19:22:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "As sentiment improves, SBI raises credit growth target",
+    "desc": "State Bank of India has boosted its credit growth forecast to 13-15% for the fiscal year, citing strong momentum and broad-based growth across retail, agriculture, SME, and corporate segments. The bank reported a record quarterly profit of Rs 21,028 crore, driven by diverse income streams and efficient cost management.",
+    "img": "https://static.toiimg.com/photo/msid-128083457,imgsize-884034.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/as-sentiment-improves-sbi-raises-credit-growth-target/articleshow/128083465.cms",
+    "time": "2026-02-08T19:19:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Usha Uthup says Dhurandhar makers didn’t seek her blessings",
+    "desc": "The reimagined version of ‘Rambha Ho’, one of Usha Uthup’s most iconic songs from the 1981 film Armaan, has been drawing attention after featuring in Aditya Dhar’s period spy thriller Dhurandhar, starring Ranveer Singh. While the song has been recreated by Shashwat Sachdev and sung by Madhubanti Bagchi, Usha Uthup has now revealed that the makers did not approach her for her blessings before the rehash.",
+    "img": "https://static.toiimg.com/photo/msid-128083417,imgsize-51276.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/usha-uthup-says-dhurandhar-makers-didnt-seek-her-blessings-for-rambha-ho-rehash-but-shes-very-happy-with-the-result/articleshow/128083374.cms",
+    "time": "2026-02-08T19:17:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Performance-based incentives for EPFO managers in works",
+    "desc": "EPFO is considering performance-linked incentives for fund managers, allocating more to those delivering better returns. This move, part of a new benchmark methodology for debt investments, aims to diversify equity investments beyond index ETFs. The organization manages assets worth Rs 30 lakh crore and will discuss these proposals soon.",
+    "img": "https://static.toiimg.com/photo/msid-128083350,imgsize-823853.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/performance-based-incentives-for-epfo-managers-in-works/articleshow/128083312.cms",
+    "time": "2026-02-08T19:15:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Uttarakhand residents resist rising communal tensions",
+    "desc": "For decades, Uttarakhand was was known more for its pilgrimages and forests than for communal discord. In recent years, however, communal tensions have surfaced repeatedly; However, pushing back, standing firm on coexistence, and rejecting the hate",
+    "img": "https://th-i.thgim.com/public/incoming/gkrv79/article70604122.ece/alternates/LANDSCAPE_1200/KOTDWAR%20SPOTLIGHT_1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-residents-against-rising-communal-tensions-and-hate/article70604081.ece",
+    "time": "2026-02-08T19:14:38.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Tariff-ied? No more! Exporters look to encash duty advantage",
+    "desc": "Indian exporters, particularly in food and textiles, are cautiously optimistic following a US tariff reduction from 50% to 18%. While some faced significant losses and discounts, the revised trade deal offers a historic opportunity for increased exports and job security. Companies are now focused on rebuilding buyer relationships and exploring new market advantages.",
+    "img": "https://static.toiimg.com/photo/msid-128083172,imgsize-947910.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/tariff-ied-no-more-exporters-look-to-encash-duty-advantage/articleshow/128082963.cms",
+    "time": "2026-02-08T19:08:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In a first, a visually challenged woman all set to become a judge in Kerala",
+    "desc": "Thanya Nathan C. has been ranked first on the merit list of persons with benchmark disabilities in the recently held judicial service examination for the selection of Civil Judges (Junior Division) in the Kerala Judicial Service",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/ftpcl0/article70607717.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-08%20at%2018.57.11.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/in-a-first-a-visually-challenged-woman-all-set-to-become-a-judge-in-kerala/article70607385.ece",
+    "time": "2026-02-08T19:06:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Dalal-Steet likely to cheer trade deal progress",
+    "desc": "Dalal Street anticipates a strong opening on Monday as the US-India trade deal nears completion. Positive sentiment is fueled by Gift Nifty's rise and recent constructive developments, including agreement on bilateral trade areas. Analysts foresee increased exports, job creation, and potential foreign investment, boosting market confidence after a volatile week.",
+    "img": "https://static.toiimg.com/photo/msid-128082521,imgsize-957154.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/dalal-steet-likely-to-cheer-trade-deal-progress/articleshow/128082478.cms",
+    "time": "2026-02-08T18:48:39.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Young J&amp;K MLA draws praise from across the aisle for House speech",
     "desc": "A young BJP legislator, Devyani Singh Rana, earned cross-party praise for her focused budget speech in the J&K Assembly. She highlighted critical issues like electricity shortages, climate vulnerabilities, and under-spending in education and disaster management, urging for stronger measures. Her pragmatic approach to budgetary concerns resonated with members from all parties.",
@@ -61,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/india-canada-to-forge-shared-work-plan-to-bolster-security-cooperation/articleshow/128079525.cms",
     "time": "2026-02-08T17:22:16.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Takaichi on course for landslide win in Japan election",
-    "desc": "Leaders around the world, including Prime Minister Narendra Modi, greeted Sanae Takaichi on her ‘landmark victory’ in the House of Representatives elections; the huge jump from the pre-election share could allow Ms. Takaichi to make progress on a right-wing agenda that aims to boost Japan’s economy and military capabilities",
-    "img": "https://th-i.thgim.com/public/incoming/yad3nx/article70607365.ece/alternates/LANDSCAPE_1200/2026-02-07T220158Z_385799500_RC2UGJAIHT78_RTRMADP_3_JAPAN-ELECTION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/exit-poll-shows-japan-pm-sanae-takaichi-lower-house-vote/article70607293.ece",
-    "time": "2026-02-08T17:18:17.000Z"
   },
   {
     "cat": "Entertainment",
@@ -207,15 +387,6 @@ const newsData_en = [
     "time": "2026-02-08T15:07:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "The BJP-AIADMK on-off relationship",
-    "desc": "The BJP and AIADMK have rekindled their alliance for the upcoming Tamil Nadu Assembly elections, marking another chapter in their cyclical relationship of partnership and rupture. Driven by political necessity, the alliance aims to challenge the incumbent Stalin-led DMK government, despite past tensions and strategic divergences between the two parties.",
-    "img": "https://static.toiimg.com/photo/msid-128075387,imgsize-838773.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jayalalithaa-to-eps-the-bjp-aiadmk-on-off-relationship/articleshow/128075255.cms",
-    "time": "2026-02-08T15:03:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Despite defeat in T20 WC opener, Nepal earn world cricket's plaudits",
     "desc": "Nepal impressed the cricket world despite a narrow four-run loss to England in the T20 World Cup. Former stars Yuvraj Singh, Ashwin, Irfan Pathan, and Dale Steyn praised their fighting spirit and potential. England scored 184, while Nepal chased bravely but ended on 180/6. Rohit Paudel, Dipendra Singh Airee, and Lokesh Bam led the chase, showing Nepal’s growing strength in international cricket.",
@@ -261,15 +432,6 @@ const newsData_en = [
     "time": "2026-02-08T14:19:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Why CPM, Congress and BJP are clashing over Jamaat-e-Islami",
-    "desc": "The latest round of exchanges was triggered after Congress leader and the leader of the opposition VD Satheesan indicated that the UDF would accept support from Jamaat-e-Islami, asserting that the organisation had clarified it does not advocate a religion-based nation in India. That remark drew immediate criticism from both the CPM and the BJP, who accused the Congress of legitimising a group they describe as communal.",
-    "img": "https://static.toiimg.com/photo/msid-128073857,imgsize-65704.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kerala-election-why-cpm-congress-and-bjp-are-clashing-over-jamaat-e-islami/articleshow/128070815.cms",
-    "time": "2026-02-08T14:10:44.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'They pushed us right to the edge': Brook stunned as Nepal shake England",
     "desc": "England narrowly defeated Nepal by four runs in their T20 World Cup opener, a match that saw the associate nation push the former champions to the brink. Captain Harry Brook expressed surprise at Nepal's aggressive batting against spinner Adil Rashid. Nepal skipper Rohit Paudel lauded his team's effort, stating they aimed to compete strongly and weren't just participating.",
@@ -279,15 +441,6 @@ const newsData_en = [
     "time": "2026-02-08T14:10:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'This is the wonder of PM Modi's leadership': Delhi CM Rekha Gupta on inaugurating 4,000 EV buses",
-    "desc": "In a ceremony marking the first anniversary of the BJP-led Delhi government, Chief Minister Rekha Gupta and BJP National President Nitin Nabin officially flagged off a massive fleet of 4,000 electric buses, making Delhi's EV fleet the largest in the country.",
-    "img": "https://static.toiimg.com/photo/msid-128073275,imgsize-803649.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/this-is-the-wonder-of-pm-modis-leadership-delhi-cm-rekha-gupta-on-inaugurating-4000-ev-buses/articleshow/128073216.cms",
-    "time": "2026-02-08T13:47:44.000Z"
-  },
-  {
     "cat": "World",
     "title": "Will be easy to purchase goods valued much more than $500 billion from U.S.: Goyal",
     "desc": "“We are even today importing 300 billion dollars of goods that can be imported from the U.S. We are importing from all over the world. That is going to grow up to two trillion in the next five years,” Piyush Goyal said",
@@ -295,15 +448,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/india-us-bilateral-trade-deal-agreement-goods-piyush-goyal-updates/article70607426.ece",
     "time": "2026-02-08T13:46:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Cop who sacrificed life saving others cremated with state honours",
-    "desc": "Haryana Police Inspector Jagdish Prasad, 58, tragically died after a giant swing collapsed at Surajkund fairgrounds while bravely rescuing people. His mortal remains were cremated with state honours in his native village. Prasad, due to retire soon, was among the first responders, sustaining fatal injuries during the rescue.",
-    "img": "https://static.toiimg.com/photo/msid-128073081,imgsize-1174464.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/surajkund-fair-swing-tragedy-cop-who-sacrificed-life-saving-others-cremated-with-state-honours/articleshow/128072946.cms",
-    "time": "2026-02-08T13:41:34.000Z"
   },
   {
     "cat": "Entertainment",
@@ -349,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/trump-removes-25-penal-tariff-what-happens-if-india-stops-buying-russian-crude-oil/articleshow/128071367.cms",
     "time": "2026-02-08T12:52:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi CM Rekha Gupta approves Rs 1,200 cr grant for DTC salaries, pensions and transport modernisation",
-    "desc": "Of the total allocation released by the Finance Department, ₹1,100 crore has been earmarked for the payment of salaries, pensions, and other statutory dues of DTC employees and pensioners. The remaining ₹100 crore has been allocated to transport modernisation and the adoption of advanced technologies to ensure smoother traffic flow and promote sustainable mobility, according to a release.",
-    "img": "https://static.toiimg.com/photo/msid-128071534,imgsize-990140.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-cm-rekha-gupta-approves-rs-1200-cr-grant-for-dtc-salaries-pensions-and-transport-modernisation/articleshow/128071505.cms",
-    "time": "2026-02-08T12:47:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -442,15 +577,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "SRK, Ranveer pose with Rinku Singh; netizens say, 'GOATS'",
-    "desc": "Cricket's rising star Rinku Singh recently broke the internet with an iconic snapshot alongside Bollywood giants Shah Rukh Khan and Ranveer Singh. The actors brought their distinctive charm to the frame, leaving fans in awe. This article also dives into the thrilling updates on Shah Rukh's forthcoming film 'King' and explores the recent success of Ranveer's hit 'Dhurandhar'.",
-    "img": "https://static.toiimg.com/photo/msid-128069868,imgsize-43276.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/king-shah-rukh-khan-and-dhurandhar-ranveer-singh-pose-with-cricketer-rinku-singh-netizens-say-energetic-trio/articleshow/128069868.cms",
-    "time": "2026-02-08T11:52:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Javed Akhtar shares how Mahadevan's 'Breathless' happened",
     "desc": "In a fascinating behind-the-scenes tale, Javed Akhtar shared the challenges faced in bringing Shankar Mahadevan's legendary track 'Breathless' to life. Initially dismissed as unfeasible by prominent musicians and composers, the concept seemed destined for obscurity. After a lengthy seven-year struggle, Mahadevan finally agreed to tackle the project, but doubts lingered even from the marketing team.",
     "img": "https://static.toiimg.com/photo/msid-128068746,imgsize-59664.cms",
@@ -477,15 +603,6 @@ const newsData_en = [
     "time": "2026-02-08T10:37:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'A sense of boredom': Pankaj Tripathi on taking a much-needed acting break",
-    "desc": "In a recent interview, Pankaj Tripathi opened up on prioritizing artistic satisfaction rather than \"EMI and survival.\" Following a creative break, the actor returned to the stage after 12 years in the play 'Lailaaj', sharing the spotlight with his daughter, Aashi Tripathi. On the work front, Pankaj Tripathi will be seen reprising his role as Kaleen Bhaiya in the film adaption of the popular OTT series, 'Mirzapur'.",
-    "img": "https://static.toiimg.com/photo/msid-128067222,imgsize-23244.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pankaj-tripathi-opens-up-about-taking-a-much-needed-acting-break-prioritizes-artistic-satisfaction-over-survival-a-sense-of-boredom-had-crept-in/articleshow/128067222.cms",
-    "time": "2026-02-08T10:17:28.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sachin applauds USA fight, praises Suryakumar's match-winning knock",
     "desc": "Team India began their T20 World Cup title defence with a victory over the United States. Suryakumar Yadav's crucial innings guided India to a competitive total. The bowlers then secured the win. Cricket legend Sachin Tendulkar lauded both teams for their efforts. The USA team showed great energy and spirit throughout the match.",
@@ -493,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sachin-tendulkar-applauds-usa-fight-praises-suryakumar-yadavs-match-winning-knock/articleshow/128067025.cms",
     "time": "2026-02-08T10:10:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kritika Kamra-Gaurav Kapur set to get married in March 2026",
-    "desc": "Love is in the air for Kritika Kamra and Gaurav Kapur, as whispers of their impending nuptials circulate! Scheduled for late March or early April in the bustling heart of Mumbai, the couple made their relationship Instagram official in December 2025 and are now busy planning their joyous celebration. Read on.",
-    "img": "https://static.toiimg.com/photo/msid-128066982,imgsize-56252.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kritika-kamra-and-gaurav-kapur-set-to-get-married-in-march-2026-reports/articleshow/128066982.cms",
-    "time": "2026-02-08T10:08:16.000Z"
   },
   {
     "cat": "Entertainment",
@@ -522,15 +630,6 @@ const newsData_en = [
     "time": "2026-02-08T09:43:27.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Anushka Sharma hails Smriti Mandhana as 'Queen'; here's why",
-    "desc": "In a jubilant display of camaraderie, Anushka Sharma celebrated the RCB Women's WPL 2026 championship, heaping admiration on their fierce leader, Smriti Mandhana. Mandhana's spirited declaration, 'The cup is ours once again!' resonated throughout, prompting Sharma to affectionately call her 'Queen.' This impressive victory marks the franchise's second WPL title, underscoring their growing dominance in women's cricket.",
-    "img": "https://static.toiimg.com/photo/msid-128066275,imgsize-29906.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anushka-sharma-hails-smriti-mandhana-as-queen-after-her-team-bags-the-wpl-2026-trophy/articleshow/128066275.cms",
-    "time": "2026-02-08T09:43:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Seifert's fifty drives NZ to five-wicket T20 World Cup win over Afghanistan",
     "desc": "New Zealand secured a five-wicket victory against Afghanistan in the T20 World Cup. Tim Seifert played a crucial role with a commanding 65 runs. Afghanistan posted 182 for six, with Gulbadin Naib scoring 63. Seifert's innings, supported by Glenn Phillips, ensured New Zealand chased the target with minimal fuss. Daryl Mitchell and Mitchell Santner finished the game.",
@@ -538,15 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/tim-seiferts-fifty-drives-new-zealand-to-five-wicket-t20-world-cup-win-over-afghanistan/articleshow/128065897.cms",
     "time": "2026-02-08T09:23:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How buyers can win big in market of high-end homes",
-    "desc": "Dubai's ultra-luxury property market is booming, attracting global investors. Navigating this hot sector requires more than just listings. Platforms like Bayut are simplifying the process by offering verified data, insights from Dubai Land Department records and connections to specialist agents. This ensures buyers make informed decisions on high-value properties, avoiding outdated or unavailable listings and securing the best opportunities.",
-    "img": "https://static.toiimg.com/photo/msid-128065512,imgsize-50098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/buying-luxury-property-in-dubai-just-got-easier-how-buyers-can-win-big-in-market-of-high-end-homes/articleshow/128065061.cms",
-    "time": "2026-02-08T09:04:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -601,15 +691,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-pakistan-seeks-dialogue-with-icc-over-boycott-call/articleshow/128062125.cms",
     "time": "2026-02-08T06:49:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Can you skip your notice period on being terminated or do employees have to serve it under UAE Labour Law?",
-    "desc": "Employees in the UAE facing redundancy must serve their notice period. Skipping this can lead to financial penalties. Employers also have obligations regarding notice. The law applies to both employer-initiated terminations and employee resignations. Job search leave is available during the notice period. Understanding these rules ensures a smooth transition.",
-    "img": "https://static.toiimg.com/photo/msid-128060804,imgsize-36386.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-redundancy-can-you-skip-your-notice-period-on-being-terminated-or-do-employees-have-to-serve-it-under-uae-labour-law/articleshow/128060052.cms",
-    "time": "2026-02-08T06:01:01.000Z"
   },
   {
     "cat": "World",
@@ -817,86 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/pre-election-violence-shadows-bangladeshs-polls-as-127-million-prepare-to-vote/article70599952.ece",
     "time": "2026-02-06T12:36:11.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "EU accuses TikTok of 'addictive design,' seeks changes to protect users",
-    "desc": "The Commission's preliminary findings present a categorically false and entirely meritless depiction of our platform, and we will take whatever steps are necessary to challenge these findings through every means available to us, TikTok said in a statement",
-    "img": "https://th-i.thgim.com/public/incoming/42p7zk/article70599957.ece/alternates/LANDSCAPE_1200/2026-01-28T010904Z_1855977076_RC2RPGA9XE79_RTRMADP_3_USA-TIKTOK.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/eu-accuses-tiktok-of-addictive-design-seeks-changes-to-protect-users/article70599921.ece",
-    "time": "2026-02-06T11:49:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "This digital art gallery has taken art out of the white cube of a gallery and into a home in Kochi",
-    "desc": "With a first of its kind debut art show, At Home with LMSA, the digital art gallery showcases the works of four Kerala artists outside the conventional gallery space within the intimate space of the curator/gallerist’s home",
-    "img": "https://th-i.thgim.com/public/incoming/jze3z3/article70591347.ece/alternates/LANDSCAPE_1200/kimp_LMSA1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/life-and-style/this-digital-art-gallery-has-taken-art-out-of-the-white-cube-of-a-gallery-and-into-a-home-in-kochi/article70591297.ece",
-    "time": "2026-02-06T09:47:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When teams refused to tour countries in ICC men’s tournaments",
-    "desc": "We are going to look back at two such episodes from the past in ICC men’s tournaments. One from 1996, when West Indies and Australia refused to tour Sri Lanka, and the other from 2003, when England and New Zealand pulled out of playing in Zimbabwe and Kenya respectively.",
-    "img": "https://th-i.thgim.com/public/videos/q90036/article70596124.ece/alternates/LANDSCAPE_1200/T20%20world%20cup%20boycotts.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/history-of-teams-pulling-out-of-matches-in-icc-mens-tournament/article70596152.ece",
-    "time": "2026-02-06T09:21:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Soundarya Rajinikanth on ‘Kochadaiyaan’, and her latest release ‘With Love’",
-    "desc": "Soundarya Rajinikanth returns to Tamil cinema as a producer with With Love, starring Abishan Jeevinth and Anaswara Rajan. In an interview with ‘The Hindu’ for the ‘This Changed my Life’ podcast, she chats about her comeback, why she took a long break and what she plans to do now. She also revisits Kochadaiyaan, her 2014 animation film starring her father and Tamil superstar, Rajinikanth",
-    "img": "https://th-i.thgim.com/public/incoming/7cxh1c/article70599180.ece/alternates/LANDSCAPE_1200/Soundarya-Rajinikanth-Thumbnail.jpg.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-soundarya-rajinikanth-on-kochadaiyaan-and-her-latest-release-with-love/article70599160.ece",
-    "time": "2026-02-06T09:17:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Will European wine finally get cheaper in India? Inside the EU–India trade deal",
-    "desc": "As import duties ease under the long-awaited EU–India trade deal, wine producers and importers weigh in. With India’s complex state taxes, currency volatility and long timelines, how long will it take for your wine to get cheaper?",
-    "img": "https://th-i.thgim.com/public/life-and-style/fashion/4vllcf/article70581916.ece/alternates/LANDSCAPE_1200/iStock-2207200692.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/life-and-style/will-european-wine-finally-get-cheaper-in-india-inside-the-euindia-trade-deal/article70581847.ece",
-    "time": "2026-02-06T06:49:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay Kumar on ‘Landlord’ and the need for an Ambedkarite movement in Kannada cinema",
-    "desc": "After facing a series of setbacks, actor Vijay Kumar has reinvented himself as a director, scoring hits with ‘Salaga’ and ‘Bheema’. Now, with ‘Landlord’, he aims to spark an Ambedkarite movement, tackling themes like equality and justice",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/r17zxw/article70595440.ece/alternates/LANDSCAPE_1200/Duniya%20VIjay.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/duniya-vijay-landlord-vijay-kumar-br-ambedkar-jai-bhim-raj-b-shetty-kannada-movie-jadeshaa-k-hampi/article70595433.ece",
-    "time": "2026-02-06T06:29:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "WPL-4 final: Smriti-Voll blitz powers RCB to second crown, DC falters in yet another final",
-    "desc": "The two put on a record 165 for the second wicket as the Bengaluru side chases down 204 in a thrilling finish; the Delhi outfit comes second best in a final for the fourth successive time",
-    "img": "https://th-i.thgim.com/public/incoming/otwe8h/article70598969.ece/alternates/LANDSCAPE_1200/VIS_1714.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/wpl-final-delhi-capitals-royal-challenger-bengaluru-smriti-mandhana-jemimah-rodrigues-updates/article70596391.ece",
-    "time": "2026-02-06T06:22:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Indian women knocked out after quarterfinal loss to China",
-    "desc": "India had won a historic gold medal in the previous edition in 2024, but the absence of the talismanic P.V. Sindhu due to a niggle made the task of defending the title a tough one",
-    "img": "https://th-i.thgim.com/public/incoming/bvfcop/article70598933.ece/alternates/LANDSCAPE_1200/PTI01_15_2026_000532B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/badminton-asian-team-championship-on-february-6/article70598924.ece",
-    "time": "2026-02-06T06:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "The sale of xAI comes with tax, financial and legal benefits for xAI and SpaceX investors",
-    "desc": "Instead of combining the two companies into one and fully integrating operations, Musk decided to ‌retain xAI, which runs social media platform X and created the Grok chatbot, as a wholly owned subsidiary of SpaceX, said sources",
-    "img": "https://th-i.thgim.com/public/incoming/ust5ep/article70598541.ece/alternates/LANDSCAPE_1200/2026-02-02T213022Z_1456700214_RC2PVCAPFSUH_RTRMADP_3_SPACEX-M-A-XAI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/the-sale-of-xai-comes-with-tax-financial-and-legal-benefits-for-xai-and-spacex-investors/article70598538.ece",
-    "time": "2026-02-06T04:41:04.000Z"
   }
 ];
