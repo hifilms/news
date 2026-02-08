@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Harry Brook hails Nepal's heroic effort as they almost pull off the unthinkable in Mumbai",
+    "desc": "Game 5 of the ongoing T20 World Cup saw England taking on Nepal. The two sides locked horns at the Wankhede Stadium in Mumbai on February 8. The clash began with England coming into bat...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harry-brook-hails-nepal-s-heroic-effort-as-they-almost-pull-off-the-unthinkable-in-mumbai-2026-02-08-1029408",
+    "time": "2026-02-08T15:11:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why was Gulbadin Naib promoted to number 3 in clash against New Zealand? Jonathan Trott reveals",
+    "desc": "Afghanistan appear to have finally settled a long-standing batting headache at No.3 during the ongoing T20 World Cup. After trying as many as 11 players in that position since the 2024 edition, the team management...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-was-gulbadin-naib-promoted-to-number-3-in-clash-against-new-zealand-jonathan-trott-reveals-2026-02-08-1029407",
+    "time": "2026-02-08T15:01:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England survive Nepal scare, barely register first win T20 World Cup 2026 clash",
+    "desc": "Game 5 of the ongoing T20 World Cup 2026 saw England taking on Nepal. The two sides locked horns at the MA Chidambaram Stadium in Chennai on February 8. The clash began with England coming...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-survive-nepal-scare-barely-register-first-t20-world-cup-2026-clash-2026-02-08-1029402",
+    "time": "2026-02-08T13:11:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sri Lanka struggling with bat in Colombo",
+    "desc": "Sri Lanka host Ireland in their opening game at the T20 World Cup 2026 at the R.Premadasa Stadium in Colombo. The Paul Stirling-led side arrive to the competition following a 2-0 series win over United...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sl-vs-ire-t20-world-cup-2026-live-cricket-score-r-premadasa-stadium-colombo-sri-lanka-vs-ireland-latest-match-updates-scorecard-teams-playing-xis-2026-02-08-1029401",
+    "time": "2026-02-08T13:11:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Babar Azam holds shameful T20 World Cup record, batting under immense scrutiny before USA game",
     "desc": "Former Pakistan captain Babar Azam’s form has become a major talking point. Despite an underwhelming outing in the recently concluded Big Bash League, the team management backed the experienced batter by including him in the...",
     "img": "",
@@ -37,7 +73,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Nepal four down, England in command",
+    "title": "England beat Nepal by four runs",
     "desc": "England take on Nepal in a T20 World Cup 2026 encounter that highlights the contrast between a defending heavyweight and an ambitious rising nation. The English side arrives with depth, power, and a well-oiled white-ball...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-shatter-indias-t20-world-cup-record-against-new-zealand-with-strong-performance-in-chennai-2026-02-08-1029372",
     "time": "2026-02-08T08:43:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How Mohammed Siraj's Real Madrid plan was cancelled at 11th hour in late call-up for T20 World Cup 2026",
-    "desc": "Mohammed Siraj was a late entrant in the Indian team for the T20 World Cup 2026 after being called up at the 11th hour. He was heading to Spain to watch Real Madrid's match against...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-mohammed-sirajs-real-madrid-plan-was-cancelled-at-11th-hour-in-late-call-up-for-t20-world-cup-2026-2026-02-08-1029363",
-    "time": "2026-02-08T06:52:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand beat Afghanistan in crucial clash by five wickets",
-    "desc": "New Zealand defeated Afghanistan as they chased down 183 at the MA Chidambaram Stadium in Chennai in a crucial T20 World Cup 2026 clash. Tim Seifert scored a strong 65 from 42 balls, while Glenn...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-afg-t20-world-cup-2026-live-cricket-score-new-zealand-vs-afghanistan-ma-chidambaram-stadium-chennai-latest-match-updates-scorecard-teams-2026-02-08-1029349",
-    "time": "2026-02-08T04:41:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch match on TV, online in India?",
-    "desc": "The group of death in the T20 World Cup 2026 will burst into life when New Zealand take on Afghanistan in a crucial Group D match in the tournament on Sunday, February 8. The two...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-afg-t20-world-cup-live-streaming-details-when-and-where-to-watch-match-on-tv-online-in-india-2026-02-08-1029337",
-    "time": "2026-02-08T02:47:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav creates history, breaks Virat Kohli's record after stellar show in T20 World Cup 2026 opener",
-    "desc": "India captain Suryakumar Yadav etched his name into the history books with a stellar performance against the USA in his team's T20 World Cup 2026 opener at the Wankhede Stadium in Mumbai. With India's backs against...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-creates-history-breaks-virat-kohlis-record-after-stellar-show-in-t20-world-cup-2026-opener-2026-02-08-1029335",
-    "time": "2026-02-08T02:14:30.000Z"
   }
 ];
