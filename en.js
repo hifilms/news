@@ -1,6 +1,186 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "5 celebs who opened up about their toxic relationships",
+    "desc": "​The relationships that Hollywood stars are sometimes involved in can be draining to the extent that the power of the spirit is adversely affected, but some of them find the strength to speak out, thereby transforming the pain into empowerment. There are five Hollywood stars, as discussed in the following section, who shared their dynamics to give lessons on the red flags, process of healing, and moving forward while still being brave in the relationships that did not have it easy with their spirits.​",
+    "img": "https://static.toiimg.com/photo/msid-128061632,imgsize-422427.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/from-jennifer-aniston-to-selena-gomez-5-celebs-who-opened-up-about-their-toxic-marriage-and-relationship-with-partners/photostory/128061632.cms",
+    "time": "2026-02-08T06:32:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prostitute solicitation charges dropped against Daniel Stern",
+    "desc": "In a recent legal update, the Ventura County District Attorney's Office has officially dropped the charges against former 'Home Alone' star Daniel Stern, who faced solicitation allegations. Following the successful completion of a mandated educational program, which is customary for first-time offenders, Stern will avoid any jail time or financial penalties for this misdemeanor.",
+    "img": "https://static.toiimg.com/photo/msid-128061400,imgsize-24676.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/home-alone-fame-daniel-stern-clears-case-charges-of-prostitution-solicitation-dropped-against-actor-report/articleshow/128061400.cms",
+    "time": "2026-02-08T06:28:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rashmika Mandanna and Shahid Kapoor to reunite for NEW romantic drama",
+    "desc": "Rashmika Mandanna and Shahid Kapoor are reportedly set to collaborate again. Following their work on 'Cocktail 2', the actors are rumored to be in talks for a new film. This project will be directed by Anil Sharma. The film is expected to explore a romance and comedy genre. Their on-screen chemistry from 'Cocktail 2' has generated significant interest.",
+    "img": "https://static.toiimg.com/photo/msid-128061312,imgsize-20682.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-cocktail-2-rashmika-mandanna-and-shahid-kapoor-may-reunite-for-new-romantic-drama-reports/articleshow/128061335.cms",
+    "time": "2026-02-08T06:21:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Two dead among 15 pulled out of debris as three-storey building collapses in Rajasthan's Kota",
+    "desc": "\"In total, 15 people were taken out of the debris. While two have died, some of the injured were discharged after treatment. A probe will be ordered to ascertain the facts, and action will follow,” says Cabinet Minister",
+    "img": "https://th-i.thgim.com/public/newsletter/the-evening-wrap/xpefek/article70605199.ece/alternates/LANDSCAPE_1200/Screenshot%202026-02-07%20231051.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rajasthan/three-storey-building-collapse-in-rajasthans-kota/article70605167.ece",
+    "time": "2026-02-08T06:13:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'My grandmother is from Kottayam': Priyanka Chopra",
+    "desc": "Priyanka Chopra revealed her surprising Kottayam roots to co-stars Mahesh Babu and Prithviraj Sukumaran, sharing her knowledge of Kalaripayattu. The trio also discussed their intense training for action scenes and shared their favorite Indian cuisines, with biryani and street food taking center stage. The conversation highlighted diverse regional tastes.",
+    "img": "https://static.toiimg.com/photo/msid-128061077,imgsize-52514.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/varanasi-star-priyanka-chopra-stuns-prithviraj-sukumaran-with-her-kerala-roots-my-grandmother-is-from-kottayam/articleshow/128061077.cms",
+    "time": "2026-02-08T06:13:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘No double standards, no compromise’: PM Modi reiterates India’s firm stand on terrorism in Malaysia -top quotes",
+    "desc": "India and Malaysia are set to bolster security cooperation, including counter-terrorism and intelligence sharing, Prime Minister Narendra Modi announced in Kuala Lumpur. He emphasized India's unwavering stance against terrorism, stating there will be \"no double standards and no compromise.",
+    "img": "https://static.toiimg.com/photo/msid-128060937,imgsize-629775.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-double-standards-no-compromise-pm-modi-reiterates-indias-firm-stand-on-terrorism-in-malaysia-top-quotes/articleshow/128060902.cms",
+    "time": "2026-02-08T06:07:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about the ‘3 Doors Down’ vocalist",
+    "desc": "The music world just lost a giant. The soulful voice behind ‘3 Doors Down’, Brad Arnold, passed away at 47 after fighting cancer. The news of his passing broke on February 7, 2026, leaving the world mourning this great loss. Fans, musicians, and friends everywhere are reeling, thinking back on the voice that helped shape the sound of rock in the early 2000s.According to the band’s statement, Arnold left the mortal world “peacefully in his sleep, surrounded by loved ones.” They called him a devoted husband, a generous soul, and a creative powerhouse whose influence stretched far past the stage.As the world mourns the loss of a rocker, let’s look back at the journey Brad Arnold made, especially with ‘3 Doors Down’.",
+    "img": "https://static.toiimg.com/photo/msid-128060955,imgsize-30194.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/brad-arnold-passes-away-at-47-all-about-the-3-doors-down-vocalist/photostory/128060955.cms",
+    "time": "2026-02-08T06:05:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Never tried to oversell Dhurandhar through patriotism': Marketer",
+    "desc": "In a stunning turn of events, Aditya Dhar's 'Dhurandhar' soared past box office expectations, raking in over Rs 1300 crore globally without any prior advertisement. According to marketer Varun Gupta, this was a calculated move, championing a 'content first' approach that leveraged the film's exceptional quality to draw in viewers. Read on.",
+    "img": "https://static.toiimg.com/photo/msid-128060747,imgsize-33652.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-marketer-reveals-why-they-didnt-promote-first-film-says-never-tried-to-oversell-through-item-song-patriotism/articleshow/128060747.cms",
+    "time": "2026-02-08T06:03:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Can you skip your notice period on being terminated or do employees have to serve it under UAE Labour Law?",
+    "desc": "Employees in the UAE facing redundancy must serve their notice period. Skipping this can lead to financial penalties. Employers also have obligations regarding notice. The law applies to both employer-initiated terminations and employee resignations. Job search leave is available during the notice period. Understanding these rules ensures a smooth transition.",
+    "img": "https://static.toiimg.com/photo/msid-128060804,imgsize-36386.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-redundancy-can-you-skip-your-notice-period-on-being-terminated-or-do-employees-have-to-serve-it-under-uae-labour-law/articleshow/128060052.cms",
+    "time": "2026-02-08T06:01:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sengar moves Supreme Court seeking bail in death case of survivor's father",
+    "desc": "On January 19, the Delhi High Court had refused to suspend Sengar's 10-year jail term in the case on the grounds of delay in trial, saying it was partly caused by the multiple applications he had filed in the matter",
+    "img": "https://th-i.thgim.com/public/incoming/rqm52e/article70606646.ece/alternates/LANDSCAPE_1200/TH25-KDR-AppealG52FBRREH.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/unnao-rape-sengar-moves-supreme-court-seeking-bail-in-death-case-of-survivors-father/article70606623.ece",
+    "time": "2026-02-08T05:53:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhurandhar 2 marketer EXPLAINS no promotions; 'Don't kill...'",
+    "desc": "Anticipation for 'Dhurandhar 2' is high, yet promotions are deliberately minimal. Marketer Varun Gupta explains this strategy aims to maintain audience excitement, likening it to offering a starter to build appetite for the main course. This approach, a risk for the first film, is now a confident tactic, focusing on the product's inherent appeal rather than overt selling.",
+    "img": "https://static.toiimg.com/photo/msid-128060230,imgsize-63130.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-marketer-explains-no-promotions-strategy-says-dont-kill-the-excitement-by-over-delivering/articleshow/128060230.cms",
+    "time": "2026-02-08T05:45:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aneet Padda gears up to begin 'Shakti Shalini' shoot in March",
+    "desc": "Aneet Padda is set to star in 'Shakti Shalini', a new film in the Horror Comedy Universe. Vishal Jethwa is rumored to be her co-star. Filming is scheduled to commence in March. This project follows Padda's success in 'Saiyaara'. The film promises more drama than previous entries in the universe. Padda also has other projects lined up.",
+    "img": "https://static.toiimg.com/photo/msid-128060345,imgsize-23394.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-saiyaara-aneet-padda-gears-up-to-begin-shakti-shalini-shoot-in-march-reports/articleshow/128060367.cms",
+    "time": "2026-02-08T05:42:38.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Step-by-step tips to buy an off-plan property in Dubai, with costs and risks",
+    "desc": "Buying off-plan property in Dubai offers strategic entry into the market with flexible payment plans and potential price appreciation. Read on as we outline the process, from developer research and DLD/RERA registration to understanding costs, signing SPAs and navigating handover. While offering benefits like lower entry prices and customisation, buyers must be aware of risks such as construction delays and market fluctuations.",
+    "img": "https://static.toiimg.com/photo/msid-128059792,imgsize-126666.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-2026-investment-guide-how-to-buy-an-off-plan-property-in-dubai-step-by-step-explained-with-costs-and-risks/articleshow/128059402.cms",
+    "time": "2026-02-08T05:20:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Aashaan should not end up like Guppy’: Indrans",
+    "desc": "Actor Indrans expressed gratitude for the positive reception of his film 'Aashaan,' urging audiences to support it in theaters. He highlighted the film's significance as his first hero role with substantial publicity, featuring over a hundred newcomers. Indrans, currently filming Adoor sir's 'Padayatra,' couldn't attend screenings but emphasized 'Aashaan' as a dream for many young talents.",
+    "img": "https://static.toiimg.com/photo/msid-128059684,imgsize-39336.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/do-not-make-aashaan-end-up-like-guppy-indrans-makes-emotional-appeal-to-audiences-watch/articleshow/128059684.cms",
+    "time": "2026-02-08T05:20:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Varanasi’: Rajamouli on shooting Ramayana scene",
+    "desc": "Filmmaker SS Rajamouli revealed a 25-minute Ramayana-inspired battle sequence in his upcoming film 'Varanasi' took 60 days to shoot. He described each sub-episode as a film in itself, presenting unique creative and technical challenges. Rajamouli expressed immense satisfaction and goosebumps seeing Mahesh Babu as Lord Ram, calling it a memorable sequence.",
+    "img": "https://static.toiimg.com/photo/msid-128058691,imgsize-29374.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ss-rajamouli-recalls-challenge-of-filming-25-minute-ramayana-sequence-in-varanasi-scene-took-60-days-to-shoot/articleshow/128058649.cms",
+    "time": "2026-02-08T05:18:49.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Abbas Araghchi",
+    "desc": "Iran’s Foreign Minister faces the daunting task of finding a diplomatic way out of tensions with the U.S. without compromising key national security interests at a time when the economy struggles and internal tensions remain high after the January crackdown",
+    "img": "https://th-i.thgim.com/public/news/national/j0ze5c/article70605031.ece/alternates/LANDSCAPE_1200/Abbas%20araghchi_Art.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/abbas-araghchi-the-diplomat-on-a-tightrope/article70605045.ece",
+    "time": "2026-02-08T05:14:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Malaika Arora shares new kettlebell routine with fans",
+    "desc": "Malaika Arora is sharing her fitness secrets, highlighting kettlebell exercises for a toned physique. She recently posted a routine focusing on movements like side swings and deadlifts, claiming daily practice can sculpt the waistline and firm legs. Arora emphasizes consistency, noting kettlebell pulls also boost upper body strength, encouraging fans to embrace a regular workout regimen for optimal results.",
+    "img": "https://static.toiimg.com/photo/msid-128059257,imgsize-27712.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/malaika-arora-reveals-the-secret-to-her-flat-belly-with-malla-morning-routine-in-new-workout-video-watch/articleshow/128059257.cms",
+    "time": "2026-02-08T05:01:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's U-19s signal a golden future",
+    "desc": "India's U-19 World Cup victory was a testament to their deep talent pool, with Vaibhav Sooryavanshi's dazzling 175 in the final being a highlight. The team's success was built on range, resilience, and crucial contributions from across the squad, showcasing a generation ready for future success.",
+    "img": "https://static.toiimg.com/photo/msid-128059275,imgsize-111512.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/pipeline-of-plenty-indias-u-19s-signal-a-golden-future/articleshow/128059093.cms",
+    "time": "2026-02-08T04:57:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Stalin urges PM Modi to expedite rail projects in TN, seeks release of pending funds",
+    "desc": "Tamil Nadu Chief Minister M.K. Stalin has urged Prime Minister Narendra Modi to expedite sanctioned railway projects in the state. Stalin highlighted delays in fund releases by the Ministry of Railways, impacting land acquisition and causing uncertainty for landowners. He requested full and priority funding for ongoing projects and the revival of those in abeyance.",
+    "img": "https://static.toiimg.com/photo/msid-128059309,imgsize-22758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/stalin-urges-pm-modi-to-expedite-rail-projects-in-tn-seeks-release-of-pending-funds/articleshow/128059279.cms",
+    "time": "2026-02-08T04:57:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why is Dreamliner’s fuel system under watch?",
+    "desc": "What happened on a recent Air India flight? Why are certain fuel control switches malfunctioning? Weren’t precautionary checks undertaken after the Ahmedabad mishap in June last year? What is the risk it poses to the engine when switches are faulty?",
+    "img": "https://th-i.thgim.com/public/incoming/1o25aa/article70605306.ece/alternates/LANDSCAPE_1200/iStock-2225114874.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/why-is-the-dreamliner-fuel-system-under-watch-explained/article70604992.ece",
+    "time": "2026-02-08T04:51:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "How much Snoop Dogg is earning at 2026 Winter Olympics?",
     "desc": "Snoop Dogg is reportedly earning a staggering sum for his role as an NBC correspondent and \"honorary coach\" at the 2026 Winter Olympics. Following his success in Paris, where he earned an estimated $500,000 daily, Snoop is expected to net over $8.5 million for his entertaining appearances and athlete support during the Milano-Cortina Games.",
     "img": "https://static.toiimg.com/photo/msid-128058883,imgsize-42212.cms",
@@ -72,15 +252,6 @@ const newsData_en = [
     "time": "2026-02-08T03:39:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kim and Kylie mock ‘Kardashian curse’ before Super Bowl",
-    "desc": "Kim and Kylie Jenner are playfully challenging the \"Kardashian curse\" narrative, especially with Super Bowl 2026 approaching. They've placed bets on the Seattle Seahawks, with Kendall Jenner also starring in a commercial mocking the idea that dating a Kardashian-Jenner sister dooms an athlete's career.",
-    "img": "https://static.toiimg.com/photo/msid-128057513,imgsize-315155.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kim-kardashian-and-kylie-jenner-mock-kardashian-curse-with-playful-super-bowl-bets/articleshow/128057517.cms",
-    "time": "2026-02-08T03:37:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "SA’s best death bowler, watching T20 World Cup from home",
     "desc": "Keshav Maharaj called Ottneil Baartman the 'best death bowler in the country.' Legendary Dale Steyn, who has coached him for three years, has sung his praises. On the field, he took 20 wickets in the recent SA20 season, including a five-wicket haul. Yet, the seamer has not traveled to India for the T20 World Cup.",
@@ -97,24 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/suryakumar-yadav-walks-away-from-toss-to-hug-rohit-sharma-watch/articleshow/128057259.cms",
     "time": "2026-02-08T03:28:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rhea on acting comeback after Sushant's demise",
-    "desc": "Rhea Chakraborty is set to return to acting in Hansal Mehta's 'Family Business' after a challenging period following Sushant Singh Rajput's death. She reveals the painful hiatus from her career, admitting therapy was needed to cope with the lack of opportunities.",
-    "img": "https://static.toiimg.com/photo/msid-128056580,imgsize-39364.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rhea-chakraborty-on-her-acting-comeback-six-years-after-sushant-singh-rajputs-demise-no-one-wanted-to-work-with-me-/articleshow/128056286.cms",
-    "time": "2026-02-08T03:16:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Anomie' director explains reason behind slow first half",
-    "desc": "Director Riyas Marath addressed feedback on 'Anomie's' initial pacing, explaining the first half was crucial for establishing the psychological investigative atmosphere. Despite some reviews noting a lag, Marath expressed happiness with the positive audience reception and strong technical team's efforts. Early box office figures indicate steady business, with the team hopeful for further growth as more viewers discover the film.",
-    "img": "https://static.toiimg.com/photo/msid-128056982,imgsize-43468.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bhavana-starrer-anomie-director-responds-to-lag-comments-says-first-half-needed-world-building-for-story/articleshow/128056982.cms",
-    "time": "2026-02-08T03:15:19.000Z"
   },
   {
     "cat": "Sports",
@@ -135,15 +288,6 @@ const newsData_en = [
     "time": "2026-02-08T03:00:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Michael Douglas on his bond with Jack Nicholson",
-    "desc": "Michael Douglas took a nostalgic trip down memory lane, sharing a humorous story about how Jack Nicholson would poke fun at him for his 'hair acting' while they worked together. This funny recollection came up during a conversation about his memorable role in the classic 1987 film 'Wall Street'.",
-    "img": "https://static.toiimg.com/photo/msid-128056623,imgsize-24602.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-douglas-says-jack-nicholson-often-used-to-tease-him-about-his-hair-acting/articleshow/128056623.cms",
-    "time": "2026-02-08T02:58:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Real Madrid, Ramadan: How Siraj's February got a T20 World Cup addition",
     "desc": "Mohammed Siraj’s quiet February plans, featuring family time, Ramadan and a Real Madrid match, were upended by a sudden SOS from India’s T20 leadership. Drafted into the World Cup squad after an injury crisis and Siraj delivered at the Wankhede.",
@@ -160,69 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/washington-sundar-to-join-india-t20-world-cup-squad-jasprit-bumrah-abhishek-sharma-under-the-weather/articleshow/128056155.cms",
     "time": "2026-02-08T02:35:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "What ‘Bridgerton’ author Julia Quinn said on recasting rumors",
-    "desc": "Bridgerton author Julia Quinn addressed fan concerns about potential recasting of younger siblings Hyacinth and Gregory. While acknowledging the actors' growth, Quinn noted that showrunner Jess Brownell makes casting decisions. She suggested the current actors might continue, drawing parallels to child stars maturing on screen, with Francesca and Eloise's stories prioritized next.",
-    "img": "https://static.toiimg.com/photo/msid-128055758,imgsize-77892.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/i-dont-really-know-bridgerton-author-julia-quinn-on-recasting-rumors/articleshow/128055721.cms",
-    "time": "2026-02-08T02:12:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Swapna Malika' row: Mohanlal and Antony get clean chit",
-    "desc": "A 18-year-old case against actor Mohanlal and producer Antony Perumbavoor has been dismissed by a Kozhikode court. The judge found no basis in the cheating allegations, agreeing with the lower court's earlier decision. The complainant, K. A. Devarajan, passed away last year, but the court reviewed all evidence before clearing the duo.",
-    "img": "https://static.toiimg.com/photo/msid-128055660,imgsize-28840.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/18-year-case-dismissed-mohanlal-and-antony-perumbavoor-get-clean-chit-in-swapna-malika-row/articleshow/128055660.cms",
-    "time": "2026-02-08T02:10:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chris Hemsworth on NOT raising kids in Hollywood",
-    "desc": "In an inspiring move away from the glitz and glamour of Hollywood, Chris Hemsworth and his wife Elsa Pataky are embracing a simple, down-to-earth family life in Australia. They’ve chosen the serene surroundings of Byron Bay to raise their three children, engaging them in wholesome outdoor activities like surfing in the waves and riding horses on their property.",
-    "img": "https://static.toiimg.com/photo/msid-128055659,imgsize-26204.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/chris-hemsworth-and-elsa-pataky-on-raising-kids-in-australia-it-feels-like-summer-all-year-round/articleshow/128055659.cms",
-    "time": "2026-02-08T02:07:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Vadh 2’ crosses Rs 1 crore mark on Day 2",
-    "desc": "'Vadh 2', starring Sanjay Mishra and Neena Gupta, has surpassed Rs 1 crore at the box office within its opening two days, earning Rs 1.21 Cr. Despite facing competition and limited screen space, the thriller mystery, focusing on a prison guard and inmate, is performing better than its predecessor. Lead actors urged audiences to avoid spoilers.",
-    "img": "https://static.toiimg.com/photo/msid-128055317,imgsize-39024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/vadh-2-box-office-collection-day-2-sanjay-mishra-neena-gupta-starrer-crosses-rs-1-crore-mark/articleshow/128055025.cms",
-    "time": "2026-02-08T01:50:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quinton Aaron's family shares positive update on his health",
-    "desc": "‘Blind Side’ star Quinton Aaron is recovering well after a spinal stroke following a fall. His family shared he's in a \"jovial mood,\" communicating and watching TV. The actor's wife expressed gratitude for overwhelming fan support during this challenging time. His on-screen family also sent well wishes.",
-    "img": "https://static.toiimg.com/photo/msid-128054984,imgsize-1089839.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quinton-aarons-family-shares-positive-health-update-after-spinal-stroke-hes-now-laughing-and-smiling/articleshow/128054984.cms",
-    "time": "2026-02-08T01:33:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'With Love' BO day 2: Film crosses Rs 3 crores",
-    "desc": "'With Love' is making waves at the box office, raking in over Rs 3.53 crore net in its first two days. The romantic Tamil film saw a significant jump in collections on its second day, indicating strong audience interest. Directed by debutant Madhan and featuring fresh faces, the movie is also set to stream on Netflix soon.",
-    "img": "https://static.toiimg.com/photo/msid-128054667,imgsize-50784.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/with-love-box-office-collections-day-2-anaswara-rajans-film-crosses-rs-3-crores-ott-release-platform-locked/articleshow/128054667.cms",
-    "time": "2026-02-08T01:19:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Mardaani 3' hit Rs 30 crore mark on Day 9",
-    "desc": "Rani Mukerji's 'Mardaani 3' has achieved a significant box office milestone, crossing Rs 30 crore in India net collections after nine days. The cop action drama has demonstrated steady performance despite facing strong competition. This installment is now nearing the lifetime earnings of the original 'Mardaani' and stands as Rani's second-highest grossing film, trailing only 'Talaash'.",
-    "img": "https://static.toiimg.com/photo/msid-128054593,imgsize-47394.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mardaani-3-box-office-collection-day-9-rani-mukerji-starrer-crosses-rs-30-crore-mark-eyes-lifetime-total-of-mardaani/articleshow/128054416.cms",
-    "time": "2026-02-08T01:10:43.000Z"
   },
   {
     "cat": "Entertainment",
@@ -351,15 +432,6 @@ const newsData_en = [
     "time": "2026-02-07T21:27:44.000Z"
   },
   {
-    "cat": "World",
-    "title": "Abbas Araghchi",
-    "desc": "Iran’s Foreign Minister faces the daunting task of finding a diplomatic way out of tensions with the U.S. without compromising key national security interests at a time when the economy struggles and internal tensions remain high after the January crackdown",
-    "img": "https://th-i.thgim.com/public/news/national/j0ze5c/article70605031.ece/alternates/LANDSCAPE_1200/Abbas%20araghchi_Art.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/abbas-araghchi-the-diplomat-on-a-tightrope/article70605045.ece",
-    "time": "2026-02-07T21:10:30.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Congress calls pact a surrender, says something being hidden",
     "desc": "Congress criticized the India-US trade deal framework as a \"surrender,\" citing concerns over unspecified \"additional products\" for tariff reductions. Leaders argued the deal is heavily tilted towards the US and will negatively impact farmers, highlighting a lack of transparency in the agreement's details.",
@@ -439,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/over-1-7-crore-tourists-including-36000-foreigners-visited-jk-in-2025-govt/articleshow/128046499.cms",
     "time": "2026-02-07T19:47:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why is Dreamliner’s fuel system under watch?",
-    "desc": "What happened on a recent Air India flight? Why are certain fuel control switches malfunctioning? Weren’t precautionary checks undertaken after the Ahmedabad mishap in June last year? What is the risk it poses to the engine when switches are faulty?",
-    "img": "https://th-i.thgim.com/public/incoming/1o25aa/article70605306.ece/alternates/LANDSCAPE_1200/iStock-2225114874.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/why-is-the-dreamliner-fuel-system-under-watch-explained/article70604992.ece",
-    "time": "2026-02-07T19:43:19.000Z"
   },
   {
     "cat": "Politics",
@@ -612,15 +675,6 @@ const newsData_en = [
     "time": "2026-02-07T15:55:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Fairground ride collapses in Haryana's Surajkund Mela: One dead, several injured",
-    "desc": "Tragedy struck the Surajkund Mela in Faridabad Saturday evening when a swing ride collapsed, killing a police inspector and injuring thirteen others. The brave officer lost his life attempting to rescue people as the ride tilted. Authorities have vowed swift action against the operator, with an FIR to be registered.",
-    "img": "https://static.toiimg.com/photo/msid-128037605,imgsize-39370.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/fairground-ride-collapses-in-haryanas-surajkund-mela-one-dead-several-injured/articleshow/128037460.cms",
-    "time": "2026-02-07T14:54:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "South Africa-born USA bowler who ran through India's batting",
     "desc": "Shadley Claude van Schalkwyk delivered a stunning performance, taking three wickets in a single over against India in the T20 World Cup 2026 opener. The South African-born all-rounder dismissed Ishan Kishan, Tilak Varma, and Shivam Dube, leaving India reeling at 45 for 4 after the powerplay.",
@@ -637,15 +691,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/forza-italia-in-cricket-thomas-draca-dreams-big-on-t20-world-cup-stage-exclusive/articleshow/128036334.cms",
     "time": "2026-02-07T14:28:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Simplified ITR forms, focus on easier compliance",
-    "desc": "In her Union Budget 2026 speech on February 1, FM Nirmala Sitharaman had said, “The simplified Income Tax Rules and Forms will be notified shortly, giving adequate time to taxpayers to acquaint themselves with its requirements. The forms have been redesigned such that ordinary citizens can comply without difficulty.”",
-    "img": "https://static.toiimg.com/photo/msid-128036784,imgsize-80626.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/financial-literacy/taxation/new-draft-income-tax-rules-2026-released-simplified-itr-forms-focus-on-easier-compliance-what-common-taxpayers-should-know/articleshow/128036701.cms",
-    "time": "2026-02-07T14:27:31.000Z"
   },
   {
     "cat": "Sports",
@@ -718,15 +763,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-pakistan-contemplating-u-turn-pcb-begins-dialogue-with-icc/articleshow/128032563.cms",
     "time": "2026-02-07T12:13:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ahead of match against USA, Hardik Pandya says 'want to scare everyone'",
-    "desc": "Ahead of India's T20 World Cup opener, all-rounder Hardik Pandya expressed confidence and motivation, believing his international journey is just beginning. He aims to win at least four to five more ICC trophies for India, stating his potential as a batter will become \"really scary\" in the coming years.",
-    "img": "https://static.toiimg.com/photo/msid-128031301,imgsize-48354.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-ahead-of-match-against-usa-hardik-pandya-says-want-to-scare-everyone/articleshow/128031054.cms",
-    "time": "2026-02-07T11:33:22.000Z"
   },
   {
     "cat": "Sports",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-karnataka-takes-the-upper-hand-after-batting-debacle-by-mumbai/article70600049.ece",
     "time": "2026-02-06T13:00:11.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Pre-election violence shadows Bangladesh’s polls as 127 million prepare to vote",
-    "desc": "The 13th national election, involving nearly 127 million voters, has raised hopes of a peaceful transition from the post-Hasina interim government to an elected administration; but the pre-election violence has posed new challenges to the election process",
-    "img": "https://th-i.thgim.com/public/incoming/upobtb/article70600092.ece/alternates/LANDSCAPE_1200/Bangladesh_Protest_94546.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/pre-election-violence-shadows-bangladeshs-polls-as-127-million-prepare-to-vote/article70599952.ece",
-    "time": "2026-02-06T12:36:11.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "EU accuses TikTok of 'addictive design,' seeks changes to protect users",
-    "desc": "The Commission's preliminary findings present a categorically false and entirely meritless depiction of our platform, and we will take whatever steps are necessary to challenge these findings through every means available to us, TikTok said in a statement",
-    "img": "https://th-i.thgim.com/public/incoming/42p7zk/article70599957.ece/alternates/LANDSCAPE_1200/2026-01-28T010904Z_1855977076_RC2RPGA9XE79_RTRMADP_3_USA-TIKTOK.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/eu-accuses-tiktok-of-addictive-design-seeks-changes-to-protect-users/article70599921.ece",
-    "time": "2026-02-06T11:49:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "This digital art gallery has taken art out of the white cube of a gallery and into a home in Kochi",
-    "desc": "With a first of its kind debut art show, At Home with LMSA, the digital art gallery showcases the works of four Kerala artists outside the conventional gallery space within the intimate space of the curator/gallerist’s home",
-    "img": "https://th-i.thgim.com/public/incoming/jze3z3/article70591347.ece/alternates/LANDSCAPE_1200/kimp_LMSA1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/life-and-style/this-digital-art-gallery-has-taken-art-out-of-the-white-cube-of-a-gallery-and-into-a-home-in-kochi/article70591297.ece",
-    "time": "2026-02-06T09:47:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When teams refused to tour countries in ICC men’s tournaments",
-    "desc": "We are going to look back at two such episodes from the past in ICC men’s tournaments. One from 1996, when West Indies and Australia refused to tour Sri Lanka, and the other from 2003, when England and New Zealand pulled out of playing in Zimbabwe and Kenya respectively.",
-    "img": "https://th-i.thgim.com/public/videos/q90036/article70596124.ece/alternates/LANDSCAPE_1200/T20%20world%20cup%20boycotts.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/history-of-teams-pulling-out-of-matches-in-icc-mens-tournament/article70596152.ece",
-    "time": "2026-02-06T09:21:38.000Z"
   }
 ];

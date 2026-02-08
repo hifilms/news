@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "১০ বছর হয়ে গেল! মেয়েকে আড়ালেই রেখেছেন রানি মুখার্জি! সমস্যাটা কী...জানালেন অভিনেত্রী!",
+    "desc": "লোকচক্ষুর আড়ালেই মেয়েকে বড় করে তোলার সিদ্ধান্তে শুরু থেকেই অনড় রানি মুখার্জি ও আদিত্য চোপড়া। তারকাসন্তান হয়েও আদিরাকে একেবারে স্বাভাবিক জীবনের স্বাদ দিতে চান এই দম্পতি। মেয়ের ভবিষ্যৎ, বেড়ে ওঠা এবং তাকে ঘিরে নিজেদের ভাবনা নিয়ে সম্প্রতি খোলাখুলি কথা বললেন রানি মুখার্জি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-08-at-11.13.55-AM-2026-02-0904e225ae99bfd3869a672bc6c249c8-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/10-years-on-rani-mukerji-openly-reveals-adira-future-plans-actor-still-keeps-daughter-away-from-the-spotlight-actress-explains-why-tib-ws-l-2530719.html",
+    "time": "2026-02-08T06:24:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "হাতে ছেলের বিয়ের কার্ড! নিমন্ত্রণ সেরে ফেরার পথে বেপরোয়া গাড়ির ধাক্কায় মৃত একই পরিবারের তিন...",
+    "desc": "বিয়ের কার্ড বিলি করে বাড়ি ফেরার পথে অডি গাড়ির ধাক্কায় একই পরিবারের তিনজন প্রাণ হারিয়েছেন। আগামী ২৪ ফেব্রুয়ারি বড় ছেলের বিয়ে উপলক্ষে তাঁরা নিমন্ত্রণ করতে বেরিয়েছিলেন, কিন্তু বাড়ির মাত্র ২ কিলোমিটার দূরে এই মর্মান্তিক দুর্ঘটনা ঘটে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/tragedy-on-the-road-family-of-three-killed-just-miles-from-home-after-distributing-wedding-cards_640154.html ",
+    "time": "2026-02-08T05:57:06.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "SIR-এ ডমিসাইল সার্টিফিকেট গ্রহণ করা হবে...! DM, ADM, SDO-দের ইস্যু করা শংসাপত্রে আর আপত্তি নেই, জানিয়ে দিল কমিশন!",
     "desc": "SIR-এ ডমিসাইল সার্টিফিকেট গ্রহণ করা হবে! DM, ADM, SDO-দের ইস্যু করা শংসাপত্রে আর আপত্তি নেই কমিশনের। সেই মর্মে CEO কে জানিয়ে দিল জাতীয় নির্বাচন কমিশন। কমিশন সূত্রে জানা যাচ্ছে, শুনানি প্রক্রিয়ায় এই শংসাপত্র গ্রহণযোগ্য হবে।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/business/nirmala-sitharaman-unveils-varanasi-siliguri-high-speed-rail-corridor-in-budget-rmj-ws-l-2522091.html",
     "time": "2026-02-01T12:28:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাজেটের দিন বাজার খুলতেই পতন, কী বলছেন বিশেষজ্ঞরা?",
-    "desc": "২০২৬-’২৭ অর্থবর্ষের বাজেট পেশ করলেন কেন্দ্রীয় অর্থমন্ত্রী নির্মলা সীতারমণ। জানালেন সরাসরি ভারতীয় শেয়ার বাজার থেকে শেয়ার কিনতে পারবেন বিদেশিরা! তবে প্রত্যাশা পূরণ হল না। উল্টে বেড়ে গেল ফিউচার অ্যান্ড অপশনে STT ট্যাক্স। ০.১ শতাংশ থেকে ০.১৫ শতাংশে নিয়ে যাওয়া হল STT ট্যাক্স। রীতিমতো বাজারে ধস। ক্র্যাশ করল সেনসেক্স এবং নিফটি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-01-at-3.56.56-PM-2026-02-89bcd07c1667d9552308ce8754bcabe1.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/business/union-budget-2026-markets-trade-in-red-as-sensex-drops-after-announcement-pbd-2522061.html",
-    "time": "2026-02-01T11:34:08.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "কেন্দ্রের বাজেটে দাম কমল কোন কোন জিনিসের? দাম বাড়লই বা কীসের?",
-    "desc": "Union Budget 2026 LIVE | বাজেটে ২০২৬-২৭ পেশ করলেন অর্থমন্ত্রী নির্মলা সীতারমন। তাঁর বাজেট ভাষণে বেশ কিছু বড় ঘোষণা করেন। বেশ কয়েকটি পণ্যের উপর শুল্ক হ্রাসের ঘোষণা করেছেন অর্থমন্ত্রী। যার অর্থ সেগুলি সবই সস্তা হয়ে যাবে। তবে কাস্টমস শুল্ক বেড়েছে। এর ফলে কাস্টমসে যা যা আসে তার দাম বাড়তে পারে। জেনে নিন, বাজেটের পর কী সস্তা, কী হচ্ছে দামি?",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Budget-11-2026-02-07e138658524a54d1244d95eccbb514d-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/business/union-budget-2026-prices-drop-for-which-items-and-what-gets-costlier-full-list-dc-2521934.html",
-    "time": "2026-02-01T10:23:39.000Z"
   }
 ];

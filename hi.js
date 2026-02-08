@@ -1,8 +1,8 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "New Zealand meet Afghanistan in crucial clash in Chennai",
-    "desc": "Placed in a tough group, New Zealand and Afghanistan face each other in a high-stakes T20 World Cup 2026 clash on Sunday, February 8. The two teams kick their campaigns off in the World Cup...",
+    "title": "Gulbadin, Sediq take Afghanistan past 100 in gripping contest",
+    "desc": "Afghanistan look to rebuild things after losing quick wickets in the powerplay. Afghanistan lost both of their openers inside the first six overs as Lockie Ferguson starred with wickets in single over. Gulbadin Naib and...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-afg-t20-world-cup-2026-live-cricket-score-new-zealand-vs-afghanistan-ma-chidambaram-stadium-chennai-latest-match-updates-scorecard-teams-2026-02-08-1029349",
