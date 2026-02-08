@@ -1,6 +1,195 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "How much Snoop Dogg is earning at 2026 Winter Olympics?",
+    "desc": "Snoop Dogg is reportedly earning a staggering sum for his role as an NBC correspondent and \"honorary coach\" at the 2026 Winter Olympics. Following his success in Paris, where he earned an estimated $500,000 daily, Snoop is expected to net over $8.5 million for his entertaining appearances and athlete support during the Milano-Cortina Games.",
+    "img": "https://static.toiimg.com/photo/msid-128058883,imgsize-42212.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/2026-winter-olympics-how-much-is-snoop-dogg-earning-heres-what-we-know/articleshow/128058820.cms",
+    "time": "2026-02-08T04:40:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Adam Sandler remembers late Philip Seymour Hoffman; recalls working together",
+    "desc": "Adam Sandler fondly remembers his late co-star Philip Seymour Hoffman, calling him \"one of the best actors of our generation.\" Reflecting on their work in 'Punch-Drunk Love,' Sandler shared how they collaborated, often keeping to themselves until \"action\" was called, allowing them to deliver an iconic performance. He highlighted their dedication to understanding character complexity through repeated rehearsals.",
+    "img": "https://static.toiimg.com/photo/msid-128058550,imgsize-19450.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/adam-sandler-recalls-working-with-late-philip-seymour-hoffman-calls-him-best-actor-of-our-generation/articleshow/128058550.cms",
+    "time": "2026-02-08T04:28:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tramell Tillman cast as X-Men Villain",
+    "desc": "Brand New Day' as X-Men villain William Metzger. This anti-mutant crusader's introduction hints at a larger X-Men presence. The film, slated for July 2026, also features returning stars and a plot echoing a classic comic storyline, promising a blend of street-level action and multiverse intrigue.",
+    "img": "https://static.toiimg.com/photo/msid-128058003,imgsize-611367.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/spider-man-brand-new-day-severance-star-tramell-tillman-joins-the-mcu-as-an-x-men-villain-heres-what-we-know/articleshow/128057994.cms",
+    "time": "2026-02-08T04:01:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Williams and Clarke Carraway reveal Valentine’s Day plans",
+    "desc": "Taylor Williams and Clarke Carraway from Love Island USA are eagerly preparing for a memorable first Valentine's Day as a couple. Their romantic getaway will take them to Taylor's home turf in Oklahoma, where Clarke has orchestrated a day filled with surprises and heartfelt moments.",
+    "img": "https://static.toiimg.com/photo/msid-128057927,imgsize-1256194.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/love-island-usa-couple-taylor-williams-and-clarke-carraway-reveal-plans-for-their-first-valentines-day-together/articleshow/128057927.cms",
+    "time": "2026-02-08T03:58:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Lewis Hamilton’s star-studded dating history",
+    "desc": "Lewis Hamilton's dating life is as captivating as his racing career. From early romances with Danielle Lloyd and Jodia Ma to his long-term relationship with Nicole Scherzinger, Hamilton has been linked to numerous stars. Recent sightings with Kim Kardashian in Paris and the Cotswolds have ignited fresh speculation, adding another chapter to his high-profile romantic history.",
+    "img": "https://static.toiimg.com/photo/msid-128057916,imgsize-65782.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/from-nicole-scherzinger-to-rihanna-to-kim-kardashians-buzz-and-more-inside-lewis-hamiltons-dating-history/articleshow/128057900.cms",
+    "time": "2026-02-08T03:57:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Michael Keaton and Catherine O’Hara’s 40-year friendship",
+    "desc": "Michael Keaton fondly remembered his decades-long friendship with the late Catherine O'Hara, sharing memories of their early SCTV days and their collaborations on \"Beetlejuice\" and other films. Keaton, speaking at a Harvard event, described O'Hara as a \"goddess\" in comedy and a \"true friend,\" expressing his deep sorrow at her passing.",
+    "img": "https://static.toiimg.com/photo/msid-128057860,imgsize-804828.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-keaton-shares-heartfelt-memories-of-catherine-oharas-friendship-and-legacy-i-was-lucky-to-/articleshow/128057811.cms",
+    "time": "2026-02-08T03:53:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka Chopra on speaking Telugu lines for SS Rajamouli's 'Varanasi'",
+    "desc": "Priyanka Chopra Jonas is tackling a unique challenge in SS Rajamouli's upcoming Telugu film, 'Varanasi'. She's phonetically memorizing her lines, admitting she doesn't speak or understand Telugu, making improvisation particularly difficult. Director Rajamouli guides her through the process, which she finds an 'added layer of performance' she relishes.",
+    "img": "https://static.toiimg.com/photo/msid-128057787,imgsize-439718.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/priyanka-chopra-on-varanasi-says-im-phonetically-memorizing-my-words-calls-telugu-improvisation-super-tough/articleshow/128057787.cms",
+    "time": "2026-02-08T03:52:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi, Malaysia PM Anwar Ibrahim hold talks on defence, economy and ASEAN",
+    "desc": "Prime Minister Narendra Modi received a ceremonial welcome in Malaysia, marking a key moment in his two-day official visit. Bilateral talks with Prime Minister Anwar Ibrahim are focusing on defence, economic cooperation, and innovation, aiming to further strengthen their Comprehensive Strategic Partnership.",
+    "img": "https://static.toiimg.com/photo/msid-128057469,imgsize-30574.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-malaysia-pm-anwar-ibrahim-hold-talks-on-defence-economy-and-asean-top-developments/articleshow/128056946.cms",
+    "time": "2026-02-08T03:39:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kim and Kylie mock ‘Kardashian curse’ before Super Bowl",
+    "desc": "Kim and Kylie Jenner are playfully challenging the \"Kardashian curse\" narrative, especially with Super Bowl 2026 approaching. They've placed bets on the Seattle Seahawks, with Kendall Jenner also starring in a commercial mocking the idea that dating a Kardashian-Jenner sister dooms an athlete's career.",
+    "img": "https://static.toiimg.com/photo/msid-128057513,imgsize-315155.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kim-kardashian-and-kylie-jenner-mock-kardashian-curse-with-playful-super-bowl-bets/articleshow/128057517.cms",
+    "time": "2026-02-08T03:37:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "SA’s best death bowler, watching T20 World Cup from home",
+    "desc": "Keshav Maharaj called Ottneil Baartman the 'best death bowler in the country.' Legendary Dale Steyn, who has coached him for three years, has sung his praises. On the field, he took 20 wickets in the recent SA20 season, including a five-wicket haul. Yet, the seamer has not traveled to India for the T20 World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-128057230,imgsize-110662.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ottneil-baartman-south-africas-best-death-bowler-watching-the-t20-world-cup-from-home/articleshow/128057149.cms",
+    "time": "2026-02-08T03:31:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryakumar Yadav walks away from toss to hug Rohit Sharma",
+    "desc": "Suryakumar Yadav's heartwarming gesture towards Rohit Sharma preceded his match-winning 84, rescuing India from a collapse against the USA. A disciplined bowling performance, led by Siraj, secured a 29-run victory in their T20 World Cup opener.",
+    "img": "https://static.toiimg.com/photo/msid-128057311,imgsize-73230.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/suryakumar-yadav-walks-away-from-toss-to-hug-rohit-sharma-watch/articleshow/128057259.cms",
+    "time": "2026-02-08T03:28:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rhea on acting comeback after Sushant's demise",
+    "desc": "Rhea Chakraborty is set to return to acting in Hansal Mehta's 'Family Business' after a challenging period following Sushant Singh Rajput's death. She reveals the painful hiatus from her career, admitting therapy was needed to cope with the lack of opportunities.",
+    "img": "https://static.toiimg.com/photo/msid-128056580,imgsize-39364.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rhea-chakraborty-on-her-acting-comeback-six-years-after-sushant-singh-rajputs-demise-no-one-wanted-to-work-with-me-/articleshow/128056286.cms",
+    "time": "2026-02-08T03:16:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Anomie' director explains reason behind slow first half",
+    "desc": "Director Riyas Marath addressed feedback on 'Anomie's' initial pacing, explaining the first half was crucial for establishing the psychological investigative atmosphere. Despite some reviews noting a lag, Marath expressed happiness with the positive audience reception and strong technical team's efforts. Early box office figures indicate steady business, with the team hopeful for further growth as more viewers discover the film.",
+    "img": "https://static.toiimg.com/photo/msid-128056982,imgsize-43468.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bhavana-starrer-anomie-director-responds-to-lag-comments-says-first-half-needed-world-building-for-story/articleshow/128056982.cms",
+    "time": "2026-02-08T03:15:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Abhi bohot dur tak hai jaana': Vaibhav Sooryavanshi's humble words",
+    "desc": "Fourteen-year-old Vaibhav Sooryavanshi's extraordinary 175 off 80 balls powered India to a record-extending sixth ICC Under-19 World Cup title, crushing England by 100 runs. His stellar performance, featuring 15 fours and 15 sixes, overshadowed England's Caleb Falconer's century. Sooryavanshi expressed gratitude and acknowledged the journey ahead.",
+    "img": "https://static.toiimg.com/photo/msid-128056805,imgsize-49694.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/abhi-bohot-dur-tak-hai-jaana-vaibhav-sooryavanshis-humble-words-after-conquering-the-world/articleshow/128056800.cms",
+    "time": "2026-02-08T03:03:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "US",
+    "desc": "The US has accused China of a covert nuclear test on June 22, 2020, shortly after the deadly Galwan Valley clash. This allegation, coupled with the expiry of the New START treaty, highlights the urgent need for a new global arms control framework.",
+    "img": "https://static.toiimg.com/photo/msid-128056711,imgsize-72896.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/china-carried-out-covert-nuclear-test-days-after-galwan-clash-in-june-2020-us/articleshow/128056756.cms",
+    "time": "2026-02-08T03:00:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Michael Douglas on his bond with Jack Nicholson",
+    "desc": "Michael Douglas took a nostalgic trip down memory lane, sharing a humorous story about how Jack Nicholson would poke fun at him for his 'hair acting' while they worked together. This funny recollection came up during a conversation about his memorable role in the classic 1987 film 'Wall Street'.",
+    "img": "https://static.toiimg.com/photo/msid-128056623,imgsize-24602.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-douglas-says-jack-nicholson-often-used-to-tease-him-about-his-hair-acting/articleshow/128056623.cms",
+    "time": "2026-02-08T02:58:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Real Madrid, Ramadan: How Siraj's February got a T20 World Cup addition",
+    "desc": "Mohammed Siraj’s quiet February plans, featuring family time, Ramadan and a Real Madrid match, were upended by a sudden SOS from India’s T20 leadership. Drafted into the World Cup squad after an injury crisis and Siraj delivered at the Wankhede.",
+    "img": "https://static.toiimg.com/photo/msid-128056455,imgsize-132772.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/real-madrid-ramadan-and-rest-how-mohammed-sirajs-february-got-a-t20-world-cup-addition/articleshow/128056500.cms",
+    "time": "2026-02-08T02:52:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Washington to join squad soon; Bumrah, Abhishek under weather",
+    "desc": "Washington Sundar last played a competitive fixture nearly a month ago during the ODI series vs New Zealand. The all-rounder injured himself while bowling in the 1st ODI in Vadodara and went on to miss the remainder of the series, and the five T20Is which followed",
+    "img": "https://static.toiimg.com/photo/msid-128056197,imgsize-126440.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/washington-sundar-to-join-india-t20-world-cup-squad-jasprit-bumrah-abhishek-sharma-under-the-weather/articleshow/128056155.cms",
+    "time": "2026-02-08T02:35:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "What ‘Bridgerton’ author Julia Quinn said on recasting rumors",
+    "desc": "Bridgerton author Julia Quinn addressed fan concerns about potential recasting of younger siblings Hyacinth and Gregory. While acknowledging the actors' growth, Quinn noted that showrunner Jess Brownell makes casting decisions. She suggested the current actors might continue, drawing parallels to child stars maturing on screen, with Francesca and Eloise's stories prioritized next.",
+    "img": "https://static.toiimg.com/photo/msid-128055758,imgsize-77892.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/i-dont-really-know-bridgerton-author-julia-quinn-on-recasting-rumors/articleshow/128055721.cms",
+    "time": "2026-02-08T02:12:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Swapna Malika' row: Mohanlal and Antony get clean chit",
+    "desc": "A 18-year-old case against actor Mohanlal and producer Antony Perumbavoor has been dismissed by a Kozhikode court. The judge found no basis in the cheating allegations, agreeing with the lower court's earlier decision. The complainant, K. A. Devarajan, passed away last year, but the court reviewed all evidence before clearing the duo.",
+    "img": "https://static.toiimg.com/photo/msid-128055660,imgsize-28840.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/18-year-case-dismissed-mohanlal-and-antony-perumbavoor-get-clean-chit-in-swapna-malika-row/articleshow/128055660.cms",
+    "time": "2026-02-08T02:10:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chris Hemsworth on NOT raising kids in Hollywood",
+    "desc": "In an inspiring move away from the glitz and glamour of Hollywood, Chris Hemsworth and his wife Elsa Pataky are embracing a simple, down-to-earth family life in Australia. They’ve chosen the serene surroundings of Byron Bay to raise their three children, engaging them in wholesome outdoor activities like surfing in the waves and riding horses on their property.",
+    "img": "https://static.toiimg.com/photo/msid-128055659,imgsize-26204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/chris-hemsworth-and-elsa-pataky-on-raising-kids-in-australia-it-feels-like-summer-all-year-round/articleshow/128055659.cms",
+    "time": "2026-02-08T02:07:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "‘Vadh 2’ crosses Rs 1 crore mark on Day 2",
     "desc": "'Vadh 2', starring Sanjay Mishra and Neena Gupta, has surpassed Rs 1 crore at the box office within its opening two days, earning Rs 1.21 Cr. Despite facing competition and limited screen space, the thriller mystery, focusing on a prison guard and inmate, is performing better than its predecessor. Lead actors urged audiences to avoid spoilers.",
     "img": "https://static.toiimg.com/photo/msid-128055317,imgsize-39024.cms",
@@ -37,48 +226,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Anomie' BO day 2: Bhavana's film hits Rs 48 lakhs",
-    "desc": "The Equation of Death' is gaining traction, collecting Rs 48 lakhs worldwide in two days. The film, featuring a sharp forensic expert investigating her brother's disappearance, shows steady growth, particularly in its Malayalam version. Early reviews praise its ambitious, stylish approach to a thinking person's psycho-thriller, hinting at potential success if word-of-mouth continues to build.",
-    "img": "https://static.toiimg.com/photo/msid-128054237,imgsize-73086.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/anomie-box-office-collections-day-2-bhavanas-film-shows-good-growth-hits-rs-48-lakhs-worldwide/articleshow/128054237.cms",
-    "time": "2026-02-08T00:54:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mamitha Baiju REACTS to 'Naalai Naalai' trolls",
-    "desc": "Actress Mamitha Baiju has responded to online trolling following her impromptu singing of Vijay's song at an event. She revealed she finds the memes amusing and views them as entertainment, not taking offense. While she enjoys lighthearted jokes, her co-star Sangeeth Prathap noted that hurtful comments are shielded from her to prevent distress.",
-    "img": "https://static.toiimg.com/photo/msid-128053851,imgsize-22310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/jana-nayagan-actor-mamitha-baiju-breaks-silence-on-naalai-naalai-trolls-says-it-is-all-fun/articleshow/128053851.cms",
-    "time": "2026-02-08T00:36:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘The Lincoln Lawyer’ renewed for season 5: All you need to know",
-    "desc": "Fans of 'The Lincoln Lawyer' can rejoice as the gripping legal drama starring Manuel Eduardo Garcia-Rulfo has been renewed for a fifth season. The upcoming season, set to draw from Michael Connelly's 'Resurrection Walk,' will see Mickey Haller tackle a new case involving a jailed woman and explore themes of shoddy lawyering and police misconduct.",
-    "img": "https://static.toiimg.com/photo/msid-128053921,imgsize-741548.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-lincoln-lawyer-season-5-mickey-hallers-most-personal-battle-begins-all-about-release-date-plot-cast-and-more/articleshow/128053929.cms",
-    "time": "2026-02-08T00:35:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Border 2' crosses Rs 300 crore mark in India",
     "desc": "Sunny Deol's 'Border 2' has crossed the Rs 300 crore mark domestically, reaching approximately Rs 301.5 crore. The war film's worldwide collection stands at around Rs 412 crore, with overseas earnings of Rs 52 crore.",
     "img": "https://static.toiimg.com/photo/msid-128053823,imgsize-36952.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-16-and-day-17-live-sunny-deol-varun-dhawan-ahan-shettey-starrer-crosses-rs-300-crore-mark/articleshow/128053621.cms",
     "time": "2026-02-08T00:31:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Drishyam 3': Asha Sarath says ending will be shocking",
-    "desc": "Anticipation is high for 'Drishyam 3', the concluding chapter of the beloved series, releasing April 2, 2026. Actress Asha Sarath promises a stunning, edge-of-your-seat climax, mirroring the suspense of previous installments. Director Jeethu Joseph confirms this is the definitive end, aiming to conclude Georgekutty's story at its peak, ensuring fans are not disappointed.",
-    "img": "https://static.toiimg.com/photo/msid-128053591,imgsize-30724.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/drishyam-3-asha-sarath-says-ending-will-stun-the-viewers-promises-an-edge-of-the-seat-film/articleshow/128053591.cms",
-    "time": "2026-02-08T00:19:32.000Z"
   },
   {
     "cat": "Politics",
@@ -88,24 +241,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/karnataka/proposed-bill-on-menstrual-leave-in-karnataka-put-on-the-back-burner/article70600989.ece",
     "time": "2026-02-08T00:03:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Red Label' BO day 1: Lenin's film makes only Rs 4 lakhs",
-    "desc": "New Tamil film 'Red Label' has stumbled at the box office, earning a meager Rs 4 lakhs on its opening day and a mere Rs 1 lakh on day two. Despite a strong performance from lead actor Lenin, critics note the movie relies heavily on familiar tropes, offering little surprise.",
-    "img": "https://static.toiimg.com/photo/msid-128053250,imgsize-71002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/red-label-box-office-collections-day-1-lenins-film-starts-slow-makes-only-rs-4-lakhs/articleshow/128053250.cms",
-    "time": "2026-02-08T00:00:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "3 Doors Down star Brad Arnold, passes away at 47",
-    "desc": "Brad Arnold, the voice of 3 Doors Down, has passed away at 47 after a brave fight with Stage 4 kidney cancer. The Grammy-nominated singer, known for hits like \"Kryptonite,\" died peacefully surrounded by family. His songwriting, which began at age 15, helped shape mainstream rock, leaving a legacy of emotionally resonant music that connected with millions.",
-    "img": "https://static.toiimg.com/photo/msid-128053196,imgsize-36556.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/3-doors-down-lead-singer-brad-arnold-passes-away-at-47-after-battle-with-cancer/articleshow/128052746.cms",
-    "time": "2026-02-07T23:57:15.000Z"
   },
   {
     "cat": "Business",
@@ -279,15 +414,6 @@ const newsData_en = [
     "time": "2026-02-07T20:41:13.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'I had a mental health scare’: Imran on what made him seek help",
-    "desc": "Actor Imran Khan candidly discusses his mental health journey, emphasizing the importance of conscious self-care for mental well-being, akin to physical health. He clarifies that his divorce was a catalyst for healing, not the cause of a mental health crisis, as he was already struggling during the later years of his marriage.",
-    "img": "https://static.toiimg.com/photo/msid-128047461,imgsize-15448.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-had-a-mental-health-scare-imran-khan-on-the-wake-up-call-that-made-him-seek-help-says-theres-need-for-awareness-exclusive/articleshow/128047429.cms",
-    "time": "2026-02-07T20:35:05.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Govt spent barely 40% of Budget on biggest schemes in 9 months",
     "desc": "Government spending on major schemes lags significantly, with only 41.2% of the budgeted amount disbursed in the first nine months. Revised estimates for 47 out of 53 large projects are lower than initially planned. Several key initiatives, including the Jal Jeevan Mission, show drastically reduced spending, raising concerns about project execution and fund utilization.",
@@ -295,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/govt-spent-barely-40-of-budget-on-biggest-schemes-in-9-months/articleshow/128047205.cms",
     "time": "2026-02-07T20:25:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vinod Khanna meditated naked at chowpatty, was Osho's garderner",
-    "desc": "Vinod Khanna's wife, Kavita, revealed his spiritual journey began in his youth, intensified by family losses. He joined Osho's commune, serving as a gardener and helping design attire. Even before his ashram life, Khanna explored nude meditation in Mumbai. His commitment was purely spiritual, not sensational.",
-    "img": "https://static.toiimg.com/photo/msid-128046828,imgsize-15048.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vinod-khanna-was-oshos-garderner-meditated-naked-at-chowpatty-beach-before-going-to-his-ashram-reveals-the-actors-second/articleshow/128046659.cms",
-    "time": "2026-02-07T20:04:43.000Z"
   },
   {
     "cat": "Politics",
@@ -387,15 +504,6 @@ const newsData_en = [
     "time": "2026-02-07T19:02:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Court declines plea to stall release of Shahid Kapoor O'Romeo",
-    "desc": "Vishal Bhardwaj's upcoming film 'O Romeo' has secured a legal victory as a Mumbai civil court refused to stay its release. The court rejected a plea by the daughter of late gangster Hussain Ustara, who claimed the film was based on her father's life, citing a lack of grounds for an injunction and a delay in filing the suit.",
-    "img": "https://static.toiimg.com/photo/msid-128044701,imgsize-120366.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/court-rules-in-favour-of-shahid-kapoors-o-romeo-declines-hussain-ustaras-daughters-plea-to-stall-the-films-release/articleshow/128044592.cms",
-    "time": "2026-02-07T18:43:10.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Shia Muslims protest in Kashmir over deadly blast at Islamabad mosque",
     "desc": "Kashmiri Shia Muslims held protests across the region condemning a suicide bombing at a mosque in Islamabad. The attack killed over 30 people during Friday prayers. Demonstrations occurred in Srinagar, Baramulla, and Bandipora. Protesters voiced anger against the Pakistani government and expressed solidarity with the victims. Some raised slogans supporting Syed Hassan Nasrallah, Palestine, and Hezbollah.",
@@ -412,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-couldve-batted-better-india-captain-suryakumar-yadav-makes-honest-admission-after-win-over-usa/articleshow/128042190.cms",
     "time": "2026-02-07T17:47:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Big B reacts to being called 'third-rate' actor",
-    "desc": "Amitabh Bachchan celebrated India's U19 Cricket World Cup victory, reflecting on the nation's elevated global standing. He recalled a past experience where he was labeled a \"third-rate actor from a third-world country,\" a comment that deeply hurt him. Bachchan asserted that India is no longer a third-world nation but a first-world one, evidenced by its numerous world championships.",
-    "img": "https://static.toiimg.com/photo/msid-128042373,imgsize-29934.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-reacts-to-being-called-third-rate-actor-by-a-journalist-calling-india-a-third-world-country-hurt/articleshow/128042341.cms",
-    "time": "2026-02-07T17:45:04.000Z"
   },
   {
     "cat": "Sports",
@@ -495,15 +594,6 @@ const newsData_en = [
     "time": "2026-02-07T16:40:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Arijit, Aamir accused of entering a West Bengal college without permission",
-    "desc": "A controversy erupted after Aamir Khan and Arijit Singh allegedly entered a West Bengal government college late at night without permission. The principal shared CCTV footage showing the duo on campus, playing badminton and conducting a shoot before leaving. He expressed dismay over the unauthorized use of the institution's premises and the public's reaction.",
-    "img": "https://static.toiimg.com/photo/msid-128039720,imgsize-49988.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arijit-singh-aamir-khan-accused-of-entering-a-west-bengal-college-without-permission-in-a-now-deleted-facebook-post-just-because-they-are-famous-/articleshow/128039526.cms",
-    "time": "2026-02-07T16:20:51.000Z"
-  },
-  {
     "cat": "Business",
     "title": "I-T dept releases draft rules, forms for new Income Tax Act; seeks public inputs",
     "desc": "Along with the new draft rules and forms, two navigators – one providing the mapping of the old rules and the new draft rules and the second providing the mapping of the old forms and the new draft forms is also provided for the guidance of stakeholders and the public",
@@ -531,15 +621,6 @@ const newsData_en = [
     "time": "2026-02-07T14:54:43.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Kept me together when I lost my dad', Priyanka mourns Sunil Thapa's demise",
-    "desc": "Veteran Nepali actor Sunil Thapa, known for his roles in Nepali, Bhojpuri, and Bollywood cinema, including 'Mary Kom' and 'The Family Man', has passed away at 68. Priyanka Chopra and Manoj Bajpayee paid heartfelt tributes, remembering his kindness and support. Thapa's career spanned over four decades with more than 300 films.",
-    "img": "https://static.toiimg.com/photo/msid-128037479,imgsize-19064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/you-kept-me-together-when-i-lost-my-dad-priyanka-chopra-mourns-the-demise-of-mary-kom-co-star-sunil-thapa/articleshow/128037371.cms",
-    "time": "2026-02-07T14:50:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "South Africa-born USA bowler who ran through India's batting",
     "desc": "Shadley Claude van Schalkwyk delivered a stunning performance, taking three wickets in a single over against India in the T20 World Cup 2026 opener. The South African-born all-rounder dismissed Ishan Kishan, Tilak Varma, and Shivam Dube, leaving India reeling at 45 for 4 after the powerplay.",
@@ -547,15 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-who-is-shadley-claude-van-schalkwyk-south-africa-born-usa-bowler-who-ran-through-indias-batting-in-mumbai/articleshow/128036457.cms",
     "time": "2026-02-07T14:42:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'I was on my period while shooting for Dhurandhar song 'Shararat', says Ayesha",
-    "desc": "Actress Ayesha Khan revealed her tears on the set of 'Dhurandhar' were of happiness, stemming from an overwhelming and hectic two-day shoot. Despite being on her period and feeling bloated, she and co-star Krystle D'souza delivered strong performances. Khan also praised D'souza, dispelling rumors of rivalry and highlighting their supportive collaboration.",
-    "img": "https://static.toiimg.com/photo/msid-128035975,imgsize-75212.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-was-on-my-period-while-shooting-for-dhurandhar-song-shararat-reveals-ayesha-khan-netizens-say-hats-off-to-her/articleshow/128036029.cms",
-    "time": "2026-02-07T14:36:31.000Z"
   },
   {
     "cat": "Sports",
@@ -576,15 +648,6 @@ const newsData_en = [
     "time": "2026-02-07T14:27:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Sangh does not seek popularity or power': RSS chief Mohan Bhagwat",
-    "desc": "RSS chief Mohan Bhagwat stated the organization wasn't formed in opposition to any group and doesn't seek power or popularity. He highlighted over 1.3 lakh service projects by volunteers nationwide, funded by their own resources. Bhagwat also touched upon the challenging early life of RSS founder K.B. Hedgewar and his involvement in revolutionary activities during India's freedom struggle.",
-    "img": "https://static.toiimg.com/photo/msid-128036244,imgsize-777968.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sangh-does-not-seek-popularity-or-power-rss-chief-mohan-bhagwat/articleshow/128036223.cms",
-    "time": "2026-02-07T14:07:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why Sanju Samson is not in India's playing XI against USA",
     "desc": "Sanju Samson was omitted from India's T20 World Cup 2026 opening XI against the USA. Ishan Kishan takes his place at the top, with Suryakumar Yadav confirming the changes. Jasprit Bumrah is also out due to illness, replaced by Mohammed Siraj. Washington Sundar also missed out.",
@@ -601,15 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/557-days-of-wait-mohammed-sirajs-unexpected-t20i-world-cup-return/articleshow/128035186.cms",
     "time": "2026-02-07T13:36:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Travis Knight",
-    "desc": "In a thrilling announcement, Director Travis Knight shares insights into Jared Leto's riveting interpretation of Skeletor in the eagerly awaited 'Masters of the Universe' film. Leto brings a captivating mix of menace, wit, and underlying vulnerability to the notorious villain, redefining this beloved character with depth and nuance.",
-    "img": "https://static.toiimg.com/photo/msid-128035259,imgsize-23718.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jared-leto-swung-for-the-fences-as-skeletor-says-travis-knight/articleshow/128035259.cms",
-    "time": "2026-02-07T13:36:17.000Z"
   },
   {
     "cat": "Business",
@@ -667,15 +721,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Shimron Hetmyer scripts history, becomes the fastest ever to…",
-    "desc": "Shimron Hetmyer's explosive 64 off 36 balls powered West Indies to 182 for 5 against Scotland. Despite a shaky start and Scotland's disciplined bowling, Hetmyer's rapid counterattack, including a 81-run partnership with Rovman Powell, secured a competitive total. His fastest T20 World Cup fifty for West Indies highlighted his improved fitness and clear batting approach.",
-    "img": "https://static.toiimg.com/photo/msid-128031428,imgsize-118544.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-shimron-hetmyer-scripts-history-becomes-the-fastest-ever-to/articleshow/128031490.cms",
-    "time": "2026-02-07T11:35:13.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Ahead of match against USA, Hardik Pandya says 'want to scare everyone'",
     "desc": "Ahead of India's T20 World Cup opener, all-rounder Hardik Pandya expressed confidence and motivation, believing his international journey is just beginning. He aims to win at least four to five more ICC trophies for India, stating his potential as a batter will become \"really scary\" in the coming years.",
     "img": "https://static.toiimg.com/photo/msid-128031301,imgsize-48354.cms",
@@ -685,39 +730,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Discussed the final-minute preparations': BCCI secretary Saikia",
-    "desc": "BCCI secretary Devajit Saikia reviewed India’s final preparations and hosting arrangements at Wankhede ahead of their T20 World Cup opener against the USA. The tournament runs from February 7 to March 8 with 20 teams and 55 matches across India and Sri Lanka. India will also face Namibia, Pakistan (uncertain), and the Netherlands. ICC chairman Jay Shah wished all teams luck.",
-    "img": "https://static.toiimg.com/photo/msid-128031138,imgsize-55772.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/discussed-the-final-minute-preparations-bcci-secretary-devajit-saikia-ahead-of-indias-t20-world-cup-opener/articleshow/128030440.cms",
-    "time": "2026-02-07T11:23:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Bigger than WC': Rashid Khan's one dream Afghanistan cricket still can't fulfil",
-    "desc": "Afghanistan's cricketers, led by Rashid Khan, yearn to host international matches at home, a dream overshadowed by decades of conflict. Despite global success, playing on Afghan soil remains paramount. Khan also highlighted the need for a stronger domestic league to nurture talent and foster competition, emphasizing the current reliance on natural ability.",
-    "img": "https://static.toiimg.com/photo/msid-128030264,imgsize-148878.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bigger-than-world-cup-rashid-khans-one-dream-afghanistan-cricket-still-cant-fulfil/articleshow/128030193.cms",
-    "time": "2026-02-07T11:14:12.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "From 98/2 to 114/7: How Pak's T20 WC nearly ended on day one",
     "desc": "Pakistan narrowly avoided a T20 World Cup 2026 opening upset against the Netherlands, thanks to a match-winning 29 off 11 balls from Faheem Ashraf. Chasing 148, Pakistan collapsed in the middle order, but Ashraf's explosive 19th over turned the tide, securing a three-wicket victory with three balls to spare.",
     "img": "https://static.toiimg.com/photo/msid-128029587,imgsize-59948.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pak-vs-ned-from-98/2-to-114/7-and-then-faheem-ashrafs-rescue-act-how-pakistans-t20-world-cup-nearly-ended-on-day-one/articleshow/128029152.cms",
     "time": "2026-02-07T10:37:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Chakka marna inka style nahi hai': Babar trolled on-air",
-    "desc": "Pakistan narrowly beat the Netherlands by three wickets in their T20 World Cup opener after a tense chase led by Faheem Ashraf’s late heroics. During the match, ex-India cricketer Mohammad Kaif mocked Babar Azam’s batting style on commentary, saying hitting sixes isn’t his strength. Pakistan captain Salman Agha praised Faheem, while the Dutch rued missed chances.",
-    "img": "https://static.toiimg.com/photo/msid-128029059,imgsize-129960.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/chakka-marna-inka-style-nahi-hai-babar-azam-trolled-on-air-during-pakistans-t20-world-cup-opener-watch/articleshow/128028474.cms",
-    "time": "2026-02-07T10:14:25.000Z"
   },
   {
     "cat": "Sports",
@@ -736,15 +754,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/south-korean-crypto-firm-accidentally-sends-44-billion-in-bitcoins-to-users/article70603416.ece",
     "time": "2026-02-07T09:47:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ashraf scripts thrilling Pakistan escape vs Netherlands",
-    "desc": "Faheem Ashraf's explosive unbeaten 29 off 11 balls secured a dramatic three-wicket victory for Pakistan against the Netherlands in their T20 World Cup opener. Despite a mid-innings collapse, Ashraf's late heroics, including three sixes in the penultimate over, guided Pakistan to 148 with three balls to spare, rescuing them from a precarious position.",
-    "img": "https://static.toiimg.com/photo/msid-128027838,imgsize-49566.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-faheem-ashraf-scripts-thrilling-pakistan-escape-against-netherlands/articleshow/128027807.cms",
-    "time": "2026-02-07T09:27:37.000Z"
   },
   {
     "cat": "Sports",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/history-of-teams-pulling-out-of-matches-in-icc-mens-tournament/article70596152.ece",
     "time": "2026-02-06T09:21:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Soundarya Rajinikanth on ‘Kochadaiyaan’, and her latest release ‘With Love’",
-    "desc": "Soundarya Rajinikanth returns to Tamil cinema as a producer with With Love, starring Abishan Jeevinth and Anaswara Rajan. In an interview with ‘The Hindu’ for the ‘This Changed my Life’ podcast, she chats about her comeback, why she took a long break and what she plans to do now. She also revisits Kochadaiyaan, her 2014 animation film starring her father and Tamil superstar, Rajinikanth",
-    "img": "https://th-i.thgim.com/public/incoming/7cxh1c/article70599180.ece/alternates/LANDSCAPE_1200/Soundarya-Rajinikanth-Thumbnail.jpg.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-soundarya-rajinikanth-on-kochadaiyaan-and-her-latest-release-with-love/article70599160.ece",
-    "time": "2026-02-06T09:17:33.000Z"
   }
 ];

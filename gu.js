@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "ઓલટાઈમ હાઈથી સોનું 24000 રૂપિયા અને ચાંદી 1.41 લાખ સસ્તી, જાણો દાગીના-લગડી લેવાનો શું છે ભાવ?",
+    "desc": "સોના અને ચાંદીમાં ભયંકર ઉતાર ચડાવ જોવા મળી રહ્યા છે. 29 જાન્યુઆરીના રોજ સોનું અને ચાંદી વાયદા બજારમાં જે આકાશે આંબ્યા અને રેકોર્ડ હાઈ પર પહોંચ્યા ત્યારબાદ કડાકા જોવા મળ્યા અને ભાવમાં બંપર ઘટાડો નોંધાયો. છેલ્લા એક અઠવાડિયામાં સોનું અને ચાંદી શું સ્થિતિમાં જોવા મળ્યા તે ખાસ જાણો. આગળ પરિસ્થિતિ કેવી રહી શકે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/ibja-rates-gold-around-24000-rs-and-silver-1-41-lakh-cheaper-than-all-time-high-sona-chandi-no-latest-bhav-464280 ",
+    "time": "2026-02-08T03:58:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વેકેશન પર જવાનો હતો સિરાજ, પછી એક ફોન આવ્યો અને મચાવી ધમાલ",
+    "desc": "ટી20 વિશ્વકપ 2026મા ભારતીય ટીમે પોતાની પ્રથમ મેચમાં અમેરિકાને 29 રને હરાવ્યું પરંતુ આ જીત મુશ્કેલથી ટીમને મળી છે. ભારતની જીતમાં સિરાજની મહત્વની ભૂમિકા રહી, જેને હર્ષિત રાણા ઈજાગ્રસ્ત થતાં ટીમમાં સામેલ કરવામાં આવ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/siraj-reveals-his-plan-to-watch-football-match-before-team-india-called-for-t20-world-cup-ind-usa-464278 ",
+    "time": "2026-02-08T03:29:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "રિલીઝ પછી ત્રીજા વીકેન્ડમાં પણ સિનેમાઘરોમાં બોર્ડર 2 નું રાજ, 300 કરોડ ક્લબમાં થઈ ગઈ એન્ટ્રી",
+    "desc": "સની દેઓલ, વરુણ ધવન, દિલજીત દોસાંજ અને અહાન શેટ્ટીની ફિલ્મ બોર્ડર 2 સિનેમાઘરમાં રિલીઝ થઈ તેને 3 સપ્તાહ થઈ ચુક્યા છે અને હજુ પણ આ ફિલ્મનું દબદબો છે. બોર્ડર 2 નું બોક્સ ઓફિસ કલેકશન શરુઆતની સરખામણીએ ઘટ્યું છે પરંતુ તેમ છતાં ફિલ્મ 300 કરોડ ક્લબમાં પહોંચી ચુકી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/border-2-release-third-week-enter-in-300-crore-box-office-collection-464277 ",
+    "time": "2026-02-08T03:11:34.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "1 લાખના બનાવી દીધા 1.17 કરોડ રૂપિયા, રોકાણકારો પર રૂપિયાનો વરસાદ, એક સમયે 1 રૂપિયો હતી કિંમત",
     "desc": "શેર બજારમાં છેલ્લા કેટલાક સમયથી સતત ઉતાર-ચઢાવ જોવા મળી રહ્યાં છે. તેવામાં કેટલાક શેર એવા છે જે છપ્પરફાડ કમાણી કરાવી રહ્યાં છે. આજે અમે તમને એક એવા શેર વિશે જણાવીશું જેણે રોકાણકારોને માલામાલ બનાવ્યા છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -333,15 +360,6 @@ const newsData_gu = [
     "time": "2026-02-05T09:02:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "એક પરમાણુ બોમ્બ ફૂટવાથી પૃથ્વી પર કેટલો વિનાશ થાય? જાણો કેવું ઉભું થાય છે તબાહીનું મંજર?",
-    "desc": "હિરોશિમા-નાગાસાકી પર થયેલા પરમાણુ હુમલાની તમામ તસવીરો તમને ઇન્ટરનેટ પર મળી જશે. પરંતુ આજે જો આવો હુમલો થાય તો શું થાય. આ ઘટનાની કલ્પનાનો અંદાજો લગાવો! એક ધડાકો થયો અને આગનો એક મહાકાય ગોળો મશરૂમની જેમ ફેલાય તો મર્યા સમજો...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/how-much-heat-is-generated-when-an-atomic-bomb-explodes-and-how-does-the-destruction-begin-464028 ",
-    "time": "2026-02-05T08:36:57.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "વોર્મ અપ મેચે જ નક્કી કરી નાખી ભારતની પ્લેઈંગ-11, આ બે ખેલાડીઓને બેસવું પડશે બહાર !",
     "desc": "ભારતીય ક્રિકેટ ટીમે T20 વર્લ્ડ કપ માટે યોજાયેલી વોર્મ અપ મેચમાં દક્ષિણ આફ્રિકાને 30 રનથી હરાવ્યું. આ મેચથી મેનેજમેન્ટને ટીમના મોટાભાગના ખેલાડીઓની કસોટી કરવાની તક મળી. જેના પરથી મેનેજમેન્ટ હવે ભારતની ફાઈનલ પ્લેઈંગ-11 નક્કી કરશે.",
@@ -466,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/india-us-trade-deal-fear-in-pakistan-cotton-industry-pakistanis-troll-their-govt-463911 ",
     "time": "2026-02-04T07:32:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "નકવીના નાટક પાછળનું અસલી કારણ આવ્યું સામે ! હવે પાકિસ્તાન બોયકોટથી પલટી મારશે એ પાક્કુ",
-    "desc": "T20 વર્લ્ડ કપ 2026માં 15 ફેબ્રુઆરીએ ભારત અને પાકિસ્તાન વચ્ચે મરમાનારી મેચનો પાકિસ્તાને બહિષ્કાર કર્યો હતો. આ નિર્ણય ક્રિકેટ કરતાં વધુ રાજનૈતિક માનવામાં આવી રહ્યો છે, ત્યારે PCB ચેરમેન નકવીના આ નાટક પાછળનું અસલી કારણ હવે સામે આવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/pakistan-will-backtrack-on-t20-world-cup-boycott-ind-vs-pak-match-know-why-463915 ",
-    "time": "2026-02-04T06:39:49.000Z"
   },
   {
     "cat": "Tech",
@@ -610,15 +619,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/anupama-dialogue-video-viral-social-media-trend-anupama-new-dialogue-monologue-463366 ",
     "time": "2026-01-30T10:53:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "પોપટલાલના લગ્ન બાબતે ગુસ્સે થયા લોકો, શું ચાલે છે TRPનો ખેલ ? તારક મહેતાના અભિનેતાએ ટ્રોલિંગ પર તોડ્યું મૌન",
-    "desc": "તારક મહેતા કા ઉલ્ટા ચશ્મા શોમાં પોપટલાલના લગ્નનો ટ્રેક દર્શકોમાં ખૂબ જ ચર્ચાનો વિષય બન્યો છે. શ્યામ પાઠક એટેલે પોપટલાલે કહ્યું કે લગ્ન હંમેશા દર્શકોને ઉત્સાહિત કરે છે, અને તેઓ આ વખતે પણ લગ્ન થશે કે નહીં તે જોવા માટે ઉત્સુક હોય છે. શ્યામે તેમના નફરત કરનારાઓને પણ જવાબ આપ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/people-are-angry-about-popatlal-marriage-what-is-the-trp-game-going-on-taarak-mehta-actor-breaks-silence-on-trolling-463360 ",
-    "time": "2026-01-30T09:28:19.000Z"
   },
   {
     "cat": "Tech",
