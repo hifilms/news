@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "FIR দায়ের দিল্লি পুলিশের, কী ভাবে ফাঁস? প্রাক্তন সেনাপ্রধানের অপ্রকাশিত বই কাণ্ডে তদন্ত শুরু",
+    "desc": "অপ্রকাশিত ওই বইয়ের কিছু অংশ লোকসভায় তুলে ধরেছিলেন বিরোধী দলনেতা রাহুল গান্ধি৷ সেখানে ভারত-চিন সংঘর্ষ নিয়ে কিছু কথা বলা হয়েছিল৷ কিন্তু, বইটি অপ্রকাশিত হওয়ায় তা থেকে কী ভাবে উদ্ধৃতি তুলে ধরা হল লোকসভায়, তা নিয়ে ঘোরতর আপত্তি জানায় বিজেপি৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ydne-2026-02-09T201620.067-2026-02-f6ba72547790cfcfd40f1dff83d0147c-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/parliament-news-update-delhi-police-files-fir-on-alleged-leak-of-former-army-chief-naravanes-four-stars-of-destiny-book-sta-2532798.html",
+    "time": "2026-02-09T19:10:34.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'দিনে ৪০-৮০টি সিগারেট খেত', মূত্রথলির ক্যানসারের আগে ফুসফুসের ক্যানসারে আক্রান্ত ছিলেন বিনোদ খান্না, সিক্রেট ফাঁস স্ত্রীর...",
     "desc": "বিনোদ খান্না পর্দার আড়ালে এমন একজন ব্যক্তি ছিলেন যিনি নীরবে তার জীবনের কিছু কঠিন স্বাস্থ্য যুদ্ধ লড়েছিলেন, যা গোটা বিশ্ব জানে না । অভিনেতার মৃত্যুর বহু বছর পর, তার স্ত্রী কবিতা খান্না প্রয়াত অভিনেতার যাত্রার একটি অজ্ঞাত অধ্যায়ের কথা খুলে বলেছেন ।",
@@ -7,15 +16,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/vinod-khanna-battled-lung-cancer-before-bladder-cancer-wife-reveals-he-smoked-40-to-80-cigarettes-a-day-rds-2532896.html",
     "time": "2026-02-09T15:35:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "FIR দায়ের দিল্লি পুলিশের, কী ভাবে ফাঁস? প্রাক্তন সেনাপ্রধানে অপ্রকাশিত বই কাণ্ডে তদন্ত শুরু",
-    "desc": "অপ্রকাশিত ওই বইয়ের কিছু অংশ লোকসভায় তুলে ধরেছিলেন বিরোধী দলনেতা রাহুল গান্ধি৷ সেখানে ভারত-চিন সংঘর্ষ নিয়ে কিছু কথা বলা হয়েছিল৷ কিন্তু, বইটি অপ্রকাশিত হওয়ায় তা থেকে কী ভাবে উদ্ধৃতি তুলে ধরা হল লোকসভায়, তা নিয়ে ঘোরতর আপত্তি জানায় বিজেপি৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ydne-2026-02-09T201620.067-2026-02-f6ba72547790cfcfd40f1dff83d0147c-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/parliament-news-update-delhi-police-files-fir-on-alleged-leak-of-former-army-chief-naravanes-four-stars-of-destiny-book-sta-2532798.html",
-    "time": "2026-02-09T15:22:43.000Z"
   },
   {
     "cat": "Entertainment",
@@ -178,15 +178,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/26-year-old-bodybuilder-took-extreme-step-after-his-girlfriend-informed-her-engagement_640165.html ",
     "time": "2026-02-08T09:55:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'বাড়িতে কেউ কিছু বলে না, আপনি কে?', এই বলেই শিক্ষিকাকে সপাটে চড় টুয়েলভের ছাত্রের!",
-    "desc": "পরীক্ষায় দেরি করে আসায় বকুনি খেয়ে এক শিক্ষিকাকে চড় মারার অভিযোগ উঠেছে ১৮ বছর বয়সী এক ছাত্রের বিরুদ্ধে। সিসিটিভি ফুটেজে ধরা পড়া এই ঘটনার পর ছাত্রটি দলবল নিয়ে এসে একা থাকা ওই শিক্ষিকাকে পুনরায় হুমকি দেয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/class-12-student-slaps-teacher-after-she-scolded-him-for-arriving-late_640159.html ",
-    "time": "2026-02-08T08:03:56.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +889,14 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/national/mamata-banerjee-west-bengal-cm-visits-banga-bhawan-after-allegation-of-delhi-police-harrassing-sir-affected-families-sanj-2523177.html",
     "time": "2026-02-02T10:25:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'ওরা ঘরে ঢুকে খুঁজে দেখছে...', বঙ্গভবনে 'এক কাপড়ে' রণংদেহি মমতা! পুলিশের 'তল্লাশি' ঘিরে তোলপাড় রাজধানী",
+    "desc": "মুখ্য নির্বাচন কমিশনার জ্ঞানেশ কুমারের সঙ্গে সাক্ষাৎ করতে গতকালই রাজধানীতে পৌঁছেছেন বাংলার মুখ্যমন্ত্রী মমতা বন্দ্যোপাধ্যায়। সঙ্গে এসআইআর ‘আতঙ্কে’ নিহতদের পরিবারের সদস্যদেরও যাওয়ার কথা ছিল। তাঁরাই বর্তমানে বঙ্গভবনে রয়েছেন। এই আবহে সোমবার সকাল থেকেই আচমকা বাড়ানো হয় বঙ্গভবনের নিরাপত্তা। ব্যারিকেড তোলা হয় বঙ্গভবনের বাইরে। হঠাৎই দিল্লি পুলিশের বিশাল বাহিনী বঙ্গভবন ঘিরে ফেলে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-02-at-15.06.56-1-2026-02-c0e31e903fd38d4f71d9c440582611c4-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/mamata-in-delhi-west-bengal-cm-visit-banga-bhawan-after-delhi-police-raised-allegation-aginst-delhi-police-to-raid-several-rooms-sanj-2522943.html",
+    "time": "2026-02-02T09:47:22.000Z"
   }
 ];

@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Bangladesh handed freebies as ICC ease tensions between India and Pakistan",
+    "desc": "The ICC (International Cricket Council) has come forward and issued a new set of directives amid the ongoing drama between India, Pakistan, and Bangladesh during the ongoing T20 World Cup 2026. It is worth noting...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-handed-freebies-as-icc-ease-tensions-between-india-and-pakistan-2026-02-09-1029561",
+    "time": "2026-02-09T17:38:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Africa dominate Canada, register stellar win in their first T20 World Cup 2026 clash",
+    "desc": "Game 9 of the ongoing T20 World Cup 2026 saw South Africa taking on Canada. The two sides took on each other at the Narendra Modi Stadium in Ahmedabad on February 9. The clash began...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-dominate-canada-register-stellar-win-in-their-first-t20-world-cup-2026-clash-2026-02-09-1029555",
+    "time": "2026-02-09T17:13:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PAK vs USA, Colombo, weather report: Will rain play spoilsport in T20 World Cup clash?",
+    "desc": "The stage is set for game 12 of the ongoing T20 World Cup 2026. Pakistan will be locking horns with the USA. Both sides will take on each other at the R. Premadasa Stadium in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pak-vs-usa-colombo-weather-report-will-rain-play-spoilsport-in-t20-world-cup-clash-2026-02-09-1029553",
+    "time": "2026-02-09T16:58:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Virat Kohli, Rohit Sharma face demotion as BCCI announces annual central contracts",
     "desc": "The BCCI (Board of Control for Cricket in India) came forward and announced its annual central contracts for the 2025-26 season. In what may come as a surprise to many, the likes of Rohit Sharma...",
     "img": "",
@@ -10,7 +37,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Pakistan set to play against India in T20 World Cup 2026, takes u-turn on boycott decision: Report",
+    "title": "Pakistan set to play against India in T20 World Cup 2026, takes u-turn on boycott decision",
     "desc": "In a massive development, the PCB (Pakistan Cricket Board) has reportedly taken a U-turn in their decision not to play against India in the ongoing T20 World Cup 2026. As per recent reports, after the...",
     "img": "",
     "src": "indiatvnews.com",
@@ -19,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "South Africa post 213 in first innings",
+    "title": "South Africa register statement win by 57 runs",
     "desc": "South Africa and Canada face off in game 9 of the ongoing T20 World Cup 2026. The toss was won by Canada, and the side elected to bowl first. Letting South Africa bat first on...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/test-cricket-a-distant-dream-for-netherlands-despite-white-ball-progress-2026-02-09-1029508",
     "time": "2026-02-09T10:15:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Nothing to offer but...': ICC shoots down Pakistan's demands amid India boycott row in T20 World Cup 2026",
-    "desc": "The impasse between the International Cricket Council (ICC), Pakistan Cricket Board (PCB) and the Bangladesh Cricket Board (BCB) continues as Pakistan have decided to boycott the marquee clash against arch-rivals India. With only six days...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nothing-to-offer-but-icc-shoots-down-pakistan-s-demands-amid-india-boycott-row-in-t20-world-cup-2026-2026-02-09-1029504",
-    "time": "2026-02-09T09:47:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Getting back to what I love'",
-    "desc": "Indian fast bowling all-rounder Harshit Rana shared a major update on his knee injury as he confirmed that he underwent surgery for the knee injury he suffered in the build-up to the T20 World Cup...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harshit-rana-shares-major-update-on-knee-surgery-getting-back-to-what-i-love-2026-02-09-1029503",
-    "time": "2026-02-09T09:41:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Zimbabwe defeat Oman by eight wickets",
-    "desc": "Zimbabwe begin their T20 World Cup 2026 campaign against Oman at the Sinhalese Sports Club, Colombo, with plenty at stake for both sides in Group B. After winning the toss, Zimbabwe opted to bowl first,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/zim-vs-oma-t20-world-cup-2026-live-cricket-score-zimbabwe-vs-oman-sinhalese-sports-club-colombo-latest-match-updates-scorecard-teams-playing-xis-2026-02-09-1029502",
-    "time": "2026-02-09T09:31:04.000Z"
   }
 ];
