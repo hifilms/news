@@ -405,15 +405,6 @@ const newsData_gu = [
     "time": "2026-02-05T06:37:26.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Post Office ની સૌથી ધાંસૂ સ્કીમ, દર મહિને ઘર બેઠા થશે કમાણી, બસ એકવાર કરો રોકાણ",
-    "desc": "પોસ્ટ ઓફિસ મંથલી ઇનકમ સ્કીમ (POMIS) માં 7.4% વ્યાજ પર દર મહિને નક્કી આવક મળે છે. 9 લાખના રોકાણ પર 5550 રૂપિયાની કમાણી દર મહિને સંભવ છે. જાણો તેમાં રોકાણની મર્યાદા, ટેક્સ નિયમ અને ખાતું બંધ કરવાના નિયમ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/post-office-money-making-monthly-income-scheme-900000-investment-gives-high-return-calculation-464010 ",
-    "time": "2026-02-05T06:16:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "બોલ ના બેટને અડ્યો કે ના બાઉન્ડ્રી બહાર ગયો, છતાં ટીમને મળ્યા 5 રન... જાણો કેવી રીતે",
     "desc": "અંડર-19 વર્લ્ડ કપની સેમિફાઈનલ મેચમાં એક વિચિત્ર ઘટના બની. જેમાં ભારતીય બોલરે ફેંકેલા બોલ પર બેટ્સમેને ના કોઈ શોટ રમ્યો કે ના બોલ બાઇન્ડ્રી બહાર ગયો તેમ છતાં અફઘાનિસ્તાનની ટીમને 5 રન આપવામાં આવ્યા હતા. ત્યારે આવું કેમ કરવામાં આવ્યું, તેના વિશે આ લેખમાં જાણીશું.",
@@ -628,14 +619,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/jio-hotstar-latest-monthly-plans-hotstar-ott-subscription-plans-start-from-79-rupees-463183 ",
     "time": "2026-01-28T15:05:16.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ATMમાંથી પૈસા કપાયા ગયા પણ મળ્યા નહીં? તરત કરો આ કામ, આ રીતે પાછા મળશે પૂરા પૈસા",
-    "desc": "મશીનમાંથી પૈસા ઉપાડવાનો પ્રયાસ કરતી વખતે તમારા ખાતામાંથી પૈસા ઉપડી જવાનો અનુભવ થવો સામાન્ય છે, પરંતુ રોકડ ATMમાંથી બહાર આવતી નથી. તો તમારે તમારા પૈસા પાછા કેવી રીતે મેળવવા, બેંક ફરિયાદ કેવી રીતે નોંધાવવી અને RBIના નિયમો અનુસાર તમને મળતા ડિસ્કાઉન્ટ વિશે જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/money-was-deducted-from-atm-but-not-received-this-way-you-will-get-the-money-back-in-full-463085 ",
-    "time": "2026-01-27T14:45:34.000Z"
   }
 ];

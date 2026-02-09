@@ -1,6 +1,33 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "এই সময়ে উড়ে যাবে এই এই স্কুল! টার্গেট সংসদ ভবনও! ইমেল পেতেই সাতসকালে শহরজুড়ে আতঙ্কের হাওয়া...",
+    "desc": "৯টি নামকরা স্কুলে ইমেল মারফত বোমার হুমকি দেওয়া হয়েছে, যেখানে দুপুর ১:১১ মিনিটে বিস্ফোরণ এবং আগামী ১৩ ফেব্রুয়ারি সংসদ ভবনে হামলার হুঁশিয়ারি দেওয়া হয়। খবর পাওয়ার পর পুলিস ও বম্ব স্কোয়াড দ্রুত স্কুলগুলো খালি করে তল্লাশি শুরু করেছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/9-schools-get-bomb-threats-by-email-in-delhi-students-evacuated_640249.html ",
+    "time": "2026-02-09T05:59:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ম্যাচ বয়কটের সিদ্ধান্ত থেকে ‘ইউ-টার্ন’ ! বিশ্বকাপে ভারতের বিরুদ্ধে খেলা নিয়ে সুর নরম করছে পাকিস্তান?",
+    "desc": "পাকিস্তানের প্রধানমন্ত্রী শেহবাজ শরিফের সঙ্গে কথা বলবেন নকভি। জানা গিয়েছে, পাক বোর্ডের কিছু কর্তা টি-টোয়েন্টি বিশ্বকাপে ভারত-পাক ম্যাচ খেলার পক্ষে। তবে এই ম্যাচ খেলার আগে আইসিসিকে তিনটি শর্ত দিয়েছে পাকিস্তান ক্রিকেট বোর্ড। ২৪ ঘণ্টার মধ্যে নিজেদের সিদ্ধান্ত জানাতে পারে পাক বোর্ড।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/BCB-meets-with-PCB-Chairman-2026-02-6cb6327769c30d054bdb0168a6368d1d-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/india-vs-pakistan-t20-world-cup-2026-pcb-bcb-icc-meeting-lahore-mohsin-naqvi-pakistan-sets-these-strange-demands-to-play-against-india-ss-2531438.html",
+    "time": "2026-02-09T05:30:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বেপরোয়া ল্যাম্বরগিনির ধাক্কায় ১০ ফুট শূন্যে ছিটকে পড়লেন বাইক আরোহী! হেভিওয়েট ব্যবসায়ীর ছেলের তাণ্ডব...",
+    "desc": "কানপুরে তামাক ব্যবসায়ীর ছেলে শিবম মিশ্রর বেপরোয়া ল্যাম্বরগিনির ধাক্কায় ৬ জন পথচারী ও আরোহী গুরুতর আহত হয়েছেন। মদ্যপ অবস্থায় দ্রুত গতিতে গাড়ি চালিয়ে তিনি একটি অটো ও বাইককে পিষে দিলে উত্তেজিত জনতা গাড়িটিতে ভাঙচুর চালায়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/tobacco-barons-son-goes-on-rampage-in-speeding-lamborghini-in-uttar-pradesh_640247.html ",
+    "time": "2026-02-09T05:12:10.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "আজ সুপ্রিম কোর্টে SIR মামলার শুনানি! ফের শীর্ষ আদালতে সওয়াল করবেন মমতা...? তাকিয়ে বাংলা!",
     "desc": "সোমবার দুপুর ২টো নাগাদ প্রধান বিচারপতি সূর্য কান্তের এজলাসে এই মামলার শুনানি হবে। গত বুধবার শুনানিতে উপস্থিত ছিলেন মুখ্যমন্ত্রী। তিনি সওয়ালও করেন। মমতার মামলার প্রেক্ষিতে কমিশনকে নোটিস জারি করে আদালত। আজ এই মামলার শুনানিতে কী হয়, সে দিকে নজর থাকবে।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/Mamata-SC-1-2026-02-4ad36f24cf183e5f2a1d034b12c1fa39-3x2.jpg",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/business/budget-2026-what-nirmala-sitharaman-said-about-railway-ank-2522190.html",
     "time": "2026-02-01T14:59:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "অস্ট্রেলিয়ান ওপেনে 'রাজ' আলকারাজের! জকোভিচকে হারিয়ে প্রথম গ্র্যান্ড স্লাম দখল স্প্যানিশ তারকার",
-    "desc": "২০২৬ সালের অস্ট্রেলিয়ান ওপেনে শুধু জিতলেন না, বলতে গেলে ইতিহাস সৃষ্টি করলেন।রবিবার মেলবোর্নে হাই ভোল্টেজ ম্যাচে ২২ বছর বয়সী এই টেনিস তারকার এক নম্বর হওয়ার দৌড়ে নোভাক জকোভিচকে চার সেটের ফাইনালে অস্ট্রেলিয়ান ওপেনে নিজের খেতাব নিশ্চিত করেন তিনি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/090-2026-02-8b98ab1f95749c6451c613e979e02de1-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/australian-open-alcaraz-defeats-noval-djokovic-know-more-details-smc-2522062.html",
-    "time": "2026-02-01T13:08:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাজেটে কৃষিজীবীর স্বীকৃতি পেলেন না চা-চাষিরা, 'দার্জিলিং চা'-এর জন্যও কোনও বরাদ্দ নেই, হতাশ উত্তরের চা মহল",
-    "desc": "কেন্দ্রীয় বাজেটে 'আশা না পূরিল'। বাজেট নিয়ে হতাশ উত্তরের চা মহল। উত্তরবঙ্গের চা শিল্পের উন্নয়ন নিয়ে একটি কথাও হয়নি কেন্দ্রীয় বাজেটে। এর আগে একাধিক আশ্বাস দেওয়া হয় কেন্দ্রের তরফে। তবে, বাজেটে সে সবের প্রতিফলন না হওয়ায় তিমিরেই রয়ে গেল উত্তরের অন্যতম প্রধান অর্থকরী ক্ষেত্র।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/2026-02-c30d230ffc6b05776e405565c631ca48-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/union-budget-2026-tea-garden-workers-left-out-no-allocation-for-darjeeling-tea-l18t-rm-local18-2522101.html",
-    "time": "2026-02-01T12:45:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T-20 World Cup 2026 : চার দিন পর শুরু বিশ্বকাপ! ভারতীয় দলে বড় পরিবর্তন, টিম ইন্ডিয়ার প্লেয়িং ইলেভেন দেখে নিন সবার আগে",
-    "desc": "ফেব্রুয়ারি থেকে শুরু হবে টি২০ বিশ্বকাপ ২০২৬। তার জন্য টিম ইন্ডিয়া পুরোপুরি প্রস্তুত। নিউজিল্যান্ডের বিরুদ্ধে পাঁচ ম্যাচের টি-টোয়েন্টি সিরিজের মাধ্যমেই সেই ১১ জন খেলোয়াড় প্রায় নিশ্চিত হয়ে গিয়েছেন, যাঁদের নিয়ে অধিনায়ক সূর্যকুমার যাদব শিরোপা ধরে রাখার মিশনে নামবেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/Indian-Cricket-Team-2025-12-5da06c85555b43434e119770e582f78e-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/t20-world-cup-2026-team-india-best-playing-11-here-it-is-smj-2522060.html",
-    "time": "2026-02-01T12:28:45.000Z"
   }
 ];

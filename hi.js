@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Resolution on India-Pakistan T20 World Cup match expected within 24 hours after ICC, PCB and BCB meeting",
+    "desc": "The breakthrough over the India vs Pakistan T20 World Cup 2026 match is expected soon after the meeting between the International Cricket Council (ICC) officials, Pakistan Cricket Board (PCB) chairman Mohsin Naqvi and Bangladesh Cricket...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/resolution-on-india-pakistan-t20-world-cup-match-expected-within-24-hours-after-icc-pcb-and-bcb-meeting-2026-02-09-1029472",
+    "time": "2026-02-09T06:17:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Debutants Italy open campaign against Scotland in Kolkata",
+    "desc": "T20 World Cup debutants Itlay open their campaign against Scotland in a crucial Group-stage clash at the Eden Gardens, Kolkata, as both sides eye a statement performance. While Scotland come into the contest with far...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sco-vs-ita-t20-world-cup-2026-live-cricket-score-scotland-vs-italy-eden-gardens-kolkata-latest-match-updates-scorecard-teams-playing-xis-2026-02-09-1029459",
+    "time": "2026-02-09T05:23:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dale Steyn offers his services to Nepal after they almost pulled off a miracle over England in T20 World Cup",
+    "desc": "Former South African fast bowler Dale Steyn offered his services to Nepal after their stellar show against England in the T20 World Cup 2026 on Sunday, February 8. Chasing a huge 185 at the Wankhede...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dale-steyn-offers-his-services-to-nepal-after-they-almost-pulled-off-a-miracle-over-england-in-t20-world-cup-2026-02-09-1029457",
+    "time": "2026-02-09T05:12:38.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Wanindu Hasaranga surpasses Shahid Afridi in major T20 World Cup record despite hamstring issue vs Ireland",
     "desc": "Sri Lanka star Wanindu Hasaranga surpassed former Pakistan cricketer Shahid Afridi in a major record in the T20 World Cups despite battling hamstring issues in his team's World Cup opener against Ireland on Sunday, February...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/cheteshwar-pujara-lauds-mohammed-siraj-s-performance-after-india-drift-past-usa-in-t20-world-cup-2026-2026-02-08-1029422",
     "time": "2026-02-08T17:39:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lanka register comprehensive victory over Ireland to kick off T20 World Cup 2026 campaign",
-    "desc": "Sri Lanka and Ireland locked horns in game 6 of the ongoing T20 World Cup 2026. The two sides took on each other at the R. Premadasa Stadium in Colombo on February 8. As one...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-register-comprehensive-victory-over-ireland-to-kick-off-t20-world-cup-2026-campaign-2026-02-08-1029420",
-    "time": "2026-02-08T17:23:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Yet to qualify for FIFA World Cup 2026, Italy begin T20 WC journey vs Scotand; know full squad, key players",
-    "desc": "Football powerhouse Italy are yet to qualify for the FIFA World Cup 2026. The Azzuris failed to earn a direct qualification after a 4-1 defeat to Norway and that has once again landed them in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/yet-to-qualify-for-fifa-world-cup-2026-italy-begin-t20-wc-journey-vs-scotland-tomorrow-know-full-squad-key-players-2026-02-08-1029419",
-    "time": "2026-02-08T17:16:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Barry McCarthy equals shameful record with his spell against Sri Lanka in T20 World Cup 2026",
-    "desc": "The 6th game of the ongoing T20 World Cup 2026 saw hosts Sri Lanka taking on Ireland. The two sides took on each other at the R. Premadasa Stadium in Colombo on February 8. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/barry-mccarthy-equals-shameful-record-with-his-spell-against-sri-lanka-in-t20-world-cup-2026-2026-02-08-1029414",
-    "time": "2026-02-08T16:40:32.000Z"
   }
 ];
