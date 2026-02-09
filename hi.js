@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Paul Stirling equals Rohit Sharma and Shakib Al Hasan's legendary record in T20 World Cup 2026",
+    "desc": "Ireland captain Paul Stirling has equalled a legendary record of former skippers Rohit Sharma and Shakib Al Hasan during his team's T20 World Cup 2026 opener against Sri Lanka on Sunday, February 8. Stirling, the Irish veteran,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/paul-stirling-equals-rohit-sharma-and-shakib-al-hasans-legendary-record-in-t20-world-cup-2026-2026-02-09-1029432",
+    "time": "2026-02-09T01:48:43.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Donald Trump shares good wishes message to USA team for T20 World Cup 2026",
     "desc": "United States President Donald Trump sent a message wishing the players and team management the best of luck for the T20 World Cup 2026. However, the message came a day late, as the USA had...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/can-rashid-khan-break-shakib-al-hasan-s-all-time-t20-world-cup-record-here-s-what-the-statistics-say-2026-02-08-1029410",
     "time": "2026-02-08T15:48:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harry Brook hails Nepal's heroic effort as they almost pull off the unthinkable in Mumbai",
-    "desc": "Game 5 of the ongoing T20 World Cup saw England taking on Nepal. The two sides locked horns at the Wankhede Stadium in Mumbai on February 8. The clash began with England coming into bat...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harry-brook-hails-nepal-s-heroic-effort-as-they-almost-pull-off-the-unthinkable-in-mumbai-2026-02-08-1029408",
-    "time": "2026-02-08T15:11:48.000Z"
   }
 ];

@@ -1,6 +1,150 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Lewis and Kim make romance OFFICIAL",
+    "desc": "It looks like love is in the air for racing legend Lewis Hamilton and reality TV icon Kim Kardashian! The duo made a dazzling appearance together at Super Bowl LX, igniting rumors of a romantic relationship after years of close friendship.",
+    "img": "https://static.toiimg.com/photo/msid-128092227,imgsize-31634.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/super-bowl-lx-lewis-hamilton-and-kim-kardashian-make-romance-official-couple-spotted-together-at-nfl-game-after-paris-getaway/articleshow/128092168.cms",
+    "time": "2026-02-09T01:40:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Neena's film crosses Rs 2.5 cr",
+    "desc": "Sanjay Mishra and Neena Gupta shine in 'Vadh 2', a sequel that is winning over audiences and steadily climbing the box office charts. The film kicked off with Rs 0.5 crore on its first day, impressively rose to Rs 1 crore on Saturday, and matched that figure again on Sunday, amassing a total of Rs 2.5 crore.",
+    "img": "https://static.toiimg.com/photo/msid-128091472,imgsize-26856.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/vadh-2-box-office-collection-day-3-sanjay-mishra-and-neena-gupta-film-pushes-past-rs-2-5-crore/articleshow/128091472.cms",
+    "time": "2026-02-09T00:53:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Charlie Puth, Green Day perform",
+    "desc": "Hollywood's elite flocked to the Super Bowl, with stars like Jay-Z, Adam Sandler, and Justin Bieber gracing the stands. Charlie Puth delivered a moving rendition of the National Anthem, while Green Day energized the crowd with a special performance celebrating the game's history. Bad Bunny is set to headline the halftime show.",
+    "img": "https://static.toiimg.com/photo/msid-128090863,imgsize-68606.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/super-bowl-lx-charlie-puth-green-day-perform-jay-z-justin-bieber-daniel-radcliffe-and-other-celebs-attend/articleshow/128090770.cms",
+    "time": "2026-02-09T00:40:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India visit Gambhir’s residence for dinner amid T20 WC campaign",
+    "desc": "Gautam Gambhir hosted a special dinner for the Indian cricket team at his New Delhi residence ahead of their T20 World Cup match against Namibia on February 12, with BCCI vice-president Rajiv Shukla also attending. India began their campaign with a 29-run win over the USA, scoring 161/9 thanks to Suryakumar Yadav’s unbeaten 84. The USA were restricted to 132/8 by Indian bowlers",
+    "img": "https://static.toiimg.com/photo/msid-128079937,imgsize-39474.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/watch-team-india-visits-gautam-gambhirs-residence-for-dinner-amid-t20-world-cup-campaign/articleshow/128079460.cms",
+    "time": "2026-02-09T00:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Film crosses Rs 50 cr globally",
+    "desc": "In her compelling sequel, Rani Mukerji shines in 'Mardaani 3', tackling the pressing issue of girl child trafficking. The film has faced some challenges at the box office, raking in Rs 4 crore on its second Sunday. While weekday figures showed improved performance, the domestic collection now totals Rs 35.65 crore. Globally, it has garnered Rs 50.",
+    "img": "https://static.toiimg.com/photo/msid-128090869,imgsize-41464.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mardaani-3-box-office-collection-day-10-and-day-11-live-rani-mukerjis-cop-drama-sails-past-rs-50-crore-worldwide/articleshow/128090869.cms",
+    "time": "2026-02-09T00:21:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Border 2 box office Day 17, Day 18 LIVE: Film crosses Rs 309 cr",
+    "desc": "In a remarkable turn of events, Sunny Deol's 'Border 2' has shattered expectations by crossing the coveted Rs 300 crore milestone in India, amassing a staggering Rs 309.4 crore by its third Sunday. After a lukewarm opening, the film caught fire on Republic Day, captivating audiences across the nation. With a total worldwide collection of Rs 422.",
+    "img": "https://static.toiimg.com/photo/msid-128090197,imgsize-67478.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-17-and-day-18-live-sunny-deol-and-varun-dhawan-starrer-sees-growth-crosses-rs-309-crore/articleshow/128090197.cms",
+    "time": "2026-02-08T23:50:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In a first, a visually challenged woman all set to become a judge in Kerala",
+    "desc": "Thanya Nathan C. has been ranked first on the merit list of persons with benchmark disabilities in the recently held judicial service examination for the selection of Civil Judges (Junior Division) in the Kerala Judicial Service",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/5rvomh/article70607717.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-08%20at%2018.57.11.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/in-a-first-a-visually-challenged-woman-all-set-to-become-a-judge-in-kerala/article70607385.ece",
+    "time": "2026-02-08T23:44:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Fuel-starved' trainer plane lands in field",
+    "desc": "A Redbird Flight Training Academy aircraft made a forced landing near Vijayapura due to suspected fuel starvation, approximately 50-70km before its destination. Both the flight instructor and trainee pilot were unharmed, though the aircraft sustained damage. Aviation authorities are investigating the incident, including why the plane experienced a fuel shortage.",
+    "img": "https://static.toiimg.com/photo/msid-128090002,imgsize-.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/fuel-starved-trainer-plane-lands-in-field/articleshow/128090002.cms",
+    "time": "2026-02-08T23:31:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'They are very cordial': BCCI secretary breaks silence on Gambhir- Kohli rift rumours",
+    "desc": "BCCI secretary Devajit Saikia has dismissed rumors of any tension between head coach Gautam Gambhir and star batter Virat Kohli, describing their relationship as cordial. Despite past IPL run-ins and speculation surrounding Kohli's career phases, Saikia stated he's never witnessed them fighting. Their successful partnership in India's 2025 Champions Trophy win further underscores unity.",
+    "img": "https://static.toiimg.com/photo/msid-128079266,imgsize-151486.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/they-are-very-cordial-bcci-secretary-breaks-silence-on-gautam-gambhirvirat-kohli-rift-rumours/articleshow/128079276.cms",
+    "time": "2026-02-08T23:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "BTS will shock the world with 'ARIRANG'",
+    "desc": "DJ Diplo has revealed exciting details about BTS's upcoming album, 'ARIRANG', set for release on March 20. He described the project as the biggest of his career, praising the K-Pop group's creativity and professionalism. This marks BTS's first group release in four years, coinciding with a world tour and a Netflix live stream.",
+    "img": "https://static.toiimg.com/photo/msid-128086857,imgsize-32160.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/diplo-on-working-with-bts-on-their-album-arirang-its-honestly-gonna-shock-the-world/articleshow/128086721.cms",
+    "time": "2026-02-08T22:33:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NEET-PG cut-off: Single-digit scores land PG seats in top med colleges",
+    "desc": "NEET-PG qualifying standards were drastically lowered, resulting in postgraduate medical seats in government colleges being filled with extremely low scores. Candidates secured spots in high-risk clinical specialties and premier institutions with scores as low as single digits, raising significant concerns within the medical community.",
+    "img": "https://static.toiimg.com/photo/msid-128086919,imgsize-796362.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/neet-pg-cut-off-single-digit-scores-land-pg-seats-in-top-med-colleges/articleshow/128086922.cms",
+    "time": "2026-02-08T22:11:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In 'clear message', Malaysia, India slam cross-border terror",
+    "desc": "Malaysia joined India in condemning cross-border terrorism, signaling a stronger alignment on the issue. Prime Minister Modi highlighted clear messages against terror with no double standards or compromise. The bilateral meeting saw numerous agreements signed, spanning defense, security, and economic cooperation, including semiconductors and social security for Indian workers.",
+    "img": "https://static.toiimg.com/photo/msid-128086664,imgsize-706703.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/in-clear-message-malaysia-india-slam-cross-border-terror/articleshow/128086616.cms",
+    "time": "2026-02-08T21:55:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ryan Gosling's 'Project Hail Mary' Super Bowl trailer",
+    "desc": "In 'Project Hail Mary', Ryan Gosling takes on the role of an astronaut grappling with amnesia, tasked with saving Earth in an interstellar odyssey. The latest trailer unveils a surprising partnership with an alien named Rocky, as they embark on a time-sensitive quest to unravel a cosmic enigma.",
+    "img": "https://static.toiimg.com/photo/msid-128085974,imgsize-16904.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/project-hail-mary-super-bowl-trailer-ryan-gosling-befriends-an-alien-rocky-on-his-space-mission/articleshow/128085795.cms",
+    "time": "2026-02-08T21:48:01.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'Tried to aggressively push our farm interests in US trade deal': Piyush Goyal",
+    "desc": "Commerce minister Piyush Goyal highlighted the nation's strong stance in the US trade deal. The focus was on boosting farm exports and safeguarding sensitive sectors like dairy. The agreement opens new avenues for Indian products such as tea and coffee. Concerns about feed ingredient imports are addressed with a limited quota.",
+    "img": "https://static.toiimg.com/photo/msid-128086490,imgsize-882776.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/tried-to-aggressively-push-our-farm-interests-in-us-trade-deal-piyush-goyal/articleshow/128086504.cms",
+    "time": "2026-02-08T21:46:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Left politics a 'retrograde ideology': PM Modi",
+    "desc": "Prime Minister Narendra Modi lauded BJP MP C Sadanandan Master's courage after he displayed prosthetic legs in Rajya Sabha, highlighting an attack by alleged CPM supporters. Modi criticized \"retrograde ideology\" for shrinking political ground, while praising Master's presence in Parliament. He also noted Kerala's fatigue with traditional alliances and appreciation for the BJP's vision.",
+    "img": "https://static.toiimg.com/photo/msid-128085999,imgsize-595339.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/left-politics-a-retrograde-ideology-pm-modi/articleshow/128086010.cms",
+    "time": "2026-02-08T21:28:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Isro study shows safe patch near Moon’s Mons Mouton for Chandrayaan-4 landing",
+    "desc": "ISRO scientists have identified a promising one-square-kilometre landing zone near Mons Mouton in the Moon's south polar region for the Chandrayaan-4 mission. Detailed terrain analysis using high-resolution images has shortlisted the MM-4 area as the safest option for India's first lunar sample return. This site offers gentle slopes, adequate sunlight, and minimal hazards, crucial for the mission's success.",
+    "img": "https://static.toiimg.com/photo/msid-128085810,imgsize-773339.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/isro-study-shows-safe-patch-near-moons-mons-mouton-for-chandrayaan-4-landing/articleshow/128085691.cms",
+    "time": "2026-02-08T21:17:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Katy cheers for Bad Bunny",
     "desc": "On the streets of San Juan, Bad Bunny's compatriots are eagerly awaiting the world's most famous Puerto Rican to represent the island at the Super Bowl halftime show on Sunday. In the same neighborhood, near a mural depicting Bad Bunny with a Puerto Rican flag, Angelis Segarra crosses her fingers that the halftime show goes off without a hitch.",
     "img": "https://static.toiimg.com/photo/msid-128085668,imgsize-26404.cms",
@@ -171,15 +315,6 @@ const newsData_en = [
     "time": "2026-02-08T19:08:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "In a first, a visually challenged woman all set to become a judge in Kerala",
-    "desc": "Thanya Nathan C. has been ranked first on the merit list of persons with benchmark disabilities in the recently held judicial service examination for the selection of Civil Judges (Junior Division) in the Kerala Judicial Service",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/ftpcl0/article70607717.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-08%20at%2018.57.11.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/in-a-first-a-visually-challenged-woman-all-set-to-become-a-judge-in-kerala/article70607385.ece",
-    "time": "2026-02-08T19:06:32.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Dalal-Steet likely to cheer trade deal progress",
     "desc": "Dalal Street anticipates a strong opening on Monday as the US-India trade deal nears completion. Positive sentiment is fueled by Gift Nifty's rise and recent constructive developments, including agreement on bilateral trade areas. Analysts foresee increased exports, job creation, and potential foreign investment, boosting market confidence after a volatile week.",
@@ -279,15 +414,6 @@ const newsData_en = [
     "time": "2026-02-08T16:44:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Assam politics heats up with CM's explosive 'training in Pakistan' claim",
-    "desc": "Addressing a press conference ahead of the assembly elections, Assam CM Himanta Biswa Sarma claimed that Gogoi had undertaken a “very confidential visit” to Pakistan in December 2013 and was believed to have undergone “some kind of training” during his 10-day stay. “He stayed there for 10 days. Strangely, Gogoi was digitally silent and no social media post was made. We suspect he went through some kind of training in that period,” the chief minister said.",
-    "img": "https://static.toiimg.com/photo/msid-128078244,imgsize-56900.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/himanta-vs-gogoi-assam-politics-heats-up-with-cms-explosive-training-in-pakistan-claim/articleshow/128076573.cms",
-    "time": "2026-02-08T16:43:09.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sudha Chandran recalls chilling paranormal encounters",
     "desc": "Veteran television actor and classical dancer Sudha Chandran recently opened up about what she believes were paranormal encounters she experienced during shoots. In an interview with Hindi Rush, the actor spoke about sensing unusual energies on set and recalled incidents that left her deeply shaken.",
@@ -361,24 +487,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "How the 'duty' men created became their greatest source of isolation",
-    "desc": "A significant number of Indian men grapple with profound loneliness, often masked by societal expectations of stoicism and duty. This widespread issue, extending beyond romantic relationships, stems from cultural norms that discourage emotional expression. Addressing this requires integrated mental health support and community initiatives, moving beyond blame to foster understanding and well-being for all.",
-    "img": "https://static.toiimg.com/photo/msid-128075728,imgsize-1542358.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/beyond-patriarchy-how-the-duty-men-created-became-their-greatest-source-of-isolation/articleshow/128075729.cms",
-    "time": "2026-02-08T15:15:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Red Bird trainer aircraft 'runs out of fuel' &amp; lands in field; both onboard safe",
-    "desc": "A Red Bird training aircraft made a forced landing near Vijayapura due to suspected fuel starvation, approximately 50-70 km before its destination in Belagavi. Both the flight instructor and student pilot on board the 1975-built Cessna 172 are safe, though the aircraft sustained damage. Aviation authorities are investigating the incident.",
-    "img": "https://static.toiimg.com/photo/msid-128077657,imgsize-999219.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/red-bird-trainer-aircraft-runs-out-of-fuel-lands-in-field-both-onboard-safe/articleshow/128075557.cms",
-    "time": "2026-02-08T15:11:45.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Bird flu confirmed in two villages of Annamayya district in Andhra Pradesh",
     "desc": "Department of Animal Husbandry deploys Rapid Response Teams, begins culling operations in accordance with the Standard Operating Procedures; there is no need to panic, and consumption of properly cooked poultry meat and eggs is safe, it says",
     "img": "https://th-i.thgim.com/public/incoming/a6e9b1/article70608163.ece/alternates/LANDSCAPE_1200/07GNRAO-BIRD.jpeg",
@@ -394,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/despite-defeat-in-their-t20-world-cup-opener-nepal-earn-world-crickets-plaudits-clearly-on-right-path/articleshow/128074675.cms",
     "time": "2026-02-08T14:56:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘A Knight of the Seven Kingdoms’ episode 3 prophecy explained",
-    "desc": "A seemingly casual fortune-telling encounter in 'A Knight of the Seven Kingdoms' episode 3 might hold profound implications for Egg. The stranger's prediction of great success and wealth takes on new meaning after Egg's true Targaryen identity and potential claim to the Iron Throne are revealed, hinting at a destiny far grander than he realizes.",
-    "img": "https://static.toiimg.com/photo/msid-128074766,imgsize-24530.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/a-knight-of-the-seven-kingdoms-episode-3-prophecy-explained-what-the-fortune-means-for-dunk-and-egg/articleshow/128074714.cms",
-    "time": "2026-02-08T14:41:42.000Z"
   },
   {
     "cat": "Politics",
@@ -450,15 +549,6 @@ const newsData_en = [
     "time": "2026-02-08T13:46:52.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Amaal and Farrhana unveil first look of 'Yahin Guzaar Doon'",
-    "desc": "Music composer Amaal Mallik and Bigg Boss 19 co-contestant Farrhana Bhatt have unveiled the first look and teaser for their upcoming music video, 'Yahin Guzaar Doon.' The song, sung by Shreya Ghoshal, features an intimate poster and has generated significant fan excitement, further amplified by a surprise live performance where the duo danced to the teaser.",
-    "img": "https://static.toiimg.com/photo/msid-128072806,imgsize-37366.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/amaal-mallik-and-farrhana-bhatt-unveil-first-look-of-yahin-guzaar-doon-fans-say-chemistrys-lit/articleshow/128072773.cms",
-    "time": "2026-02-08T13:34:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "England survive Nepal scare; register 4-run win in last over thriller",
     "desc": "England narrowly defeated Nepal by four runs in their T20 World Cup opener at the Wankhede Stadium. Despite a valiant chase from Nepal, who needed ten runs in the final over, England's Sam Curran held his nerve. Earlier, half-centuries from Jacob Bethell and Harry Brook propelled England to 184 for seven.",
@@ -466,24 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-england-survive-nepal-scare-register-4-run-win-in-last-over-thriller/articleshow/128071752.cms",
     "time": "2026-02-08T13:20:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Celina recalls learning about brother’s detention amid divorce",
-    "desc": "Celina Jaitly has been seeking answers over the detention of her brother, Maj (retd.) Vikrant Kumar Jaitly, in the United Arab Emirates since September last year. The issue came to light for her at a time when she was dealing with a deeply troubled marriage and an ongoing domestic violence case against her husband, Peter Haag.",
-    "img": "https://static.toiimg.com/photo/msid-128072365,imgsize-86848.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/celina-jaitly-recalls-learning-about-brother-vikram-jaitlys-uae-detention-amid-divorce-battle-with-peter-haag-nobody-came-to-my-support/articleshow/128072284.cms",
-    "time": "2026-02-08T13:15:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aishwarya, Rajesh Khanna as Rose, Jack from 'Titanic': Watch",
-    "desc": "An innovative AI creator has set the internet abuzz by reshaping the beloved classic 'Titanic' through a Bollywood lens. In this captivating reimagination, Aishwarya Rai takes on the role of Rose, while the legendary Rajesh Khanna brings Jack to life, stepping in for Kate Winslet and Leonardo DiCaprio. Check it out.",
-    "img": "https://static.toiimg.com/photo/msid-128071692,imgsize-41952.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aishwarya-rai-rajesh-khanna-as-rose-and-jack-ais-bollywood-take-on-titanic-goes-viral-watch/articleshow/128071692.cms",
-    "time": "2026-02-08T12:59:46.000Z"
   },
   {
     "cat": "Business",
@@ -511,33 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-may-help-tamil-nadus-garment-exports-double-to-rs-30000-crore/articleshow/128071154.cms",
     "time": "2026-02-08T12:38:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Natasa Stankovic on getting trolled post VIRAL dance video, fans defend her",
-    "desc": "Natasa Stankovic is facing online criticism after a video of her dancing at a college fest went viral post her separation from Hardik Pandya. While some mock her career choices, many are rallying in support, praising her independence and dignity in working to raise her child. The incident highlights a debate on public scrutiny and respect for women.",
-    "img": "https://static.toiimg.com/photo/msid-128071254,imgsize-27982.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/natasa-stankovic-faces-trolling-after-viral-college-fest-dance-video-fans-defend-her-saying-self-respect-not-unemployment/articleshow/128071248.cms",
-    "time": "2026-02-08T12:37:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Border 2' star Ahan Shetty on living up to Suniel Shetty’s ‘Border’ legacy",
-    "desc": "Ahan Shetty is receiving praise for his role in 'Border 2'. He spoke about the pressure of acting in a franchise linked to his father, Suniel Shetty. Ahan admitted to feeling nervous recreating a scene his father performed in the original 'Border'. He focused on staying true to himself to manage the legacy.",
-    "img": "https://static.toiimg.com/photo/msid-128071059,imgsize-41080.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/border-2-star-ahan-shetty-on-pressure-of-living-up-to-suniel-shettys-border-legacy-will-start-doing-things-very-differently/articleshow/128071066.cms",
-    "time": "2026-02-08T12:30:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Sharmila Tagore opened up on Saif Ali Khan and Amrita Singh’s divorce",
-    "desc": "On 'Koffee With Karan 8', Sharmila Tagore and Saif Ali Khan reflected on Saif's 1991 marriage to Amrita Singh. Sharmila recalled the shock of his secret wedding and the emotional toll of their 2004 divorce, which \"deprived\" the family of time with grandchildren Sara and Ibrahim Ali Khan.",
-    "img": "https://static.toiimg.com/photo/msid-128069870,imgsize-78876.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-sharmila-tagore-opened-up-on-saif-ali-khan-and-amrita-singhs-rough-separation-and-how-doubly-deprived-she-felt-after-their-2004-divorce/articleshow/128069870.cms",
-    "time": "2026-02-08T12:15:46.000Z"
   },
   {
     "cat": "World",
@@ -576,15 +621,6 @@ const newsData_en = [
     "time": "2026-02-08T12:00:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Javed Akhtar shares how Mahadevan's 'Breathless' happened",
-    "desc": "In a fascinating behind-the-scenes tale, Javed Akhtar shared the challenges faced in bringing Shankar Mahadevan's legendary track 'Breathless' to life. Initially dismissed as unfeasible by prominent musicians and composers, the concept seemed destined for obscurity. After a lengthy seven-year struggle, Mahadevan finally agreed to tackle the project, but doubts lingered even from the marketing team.",
-    "img": "https://static.toiimg.com/photo/msid-128068746,imgsize-59664.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/javed-akhtar-shares-how-shankar-mahadevans-breathless-happened-recalls-biggest-singers-composers-said-we-cannot-make/articleshow/128068746.cms",
-    "time": "2026-02-08T11:15:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "When will U19 WC winner Sooryavanshi turn 15?",
     "desc": "Vaibhav Sooryavanshi, born on March 27, 2011, will turn 15 on March 27, 2026. Despite his record-breaking performances in U19 and domestic cricket, he cannot play senior international cricket yet due to the ICC’s minimum age rule of 15. He is also ineligible for future U19 World Cups due to BCCI rules. Once he turns 15, he will be eligible for India’s senior team, with huge expectations around him.",
@@ -603,6 +639,15 @@ const newsData_en = [
     "time": "2026-02-08T10:37:09.000Z"
   },
   {
+    "cat": "Business",
+    "title": "Budget may cut reliance on foreign telescopes; trips on space spending",
+    "desc": "Only a few large astronomical observatories are capable of groundbreaking discoveries worldwide, which means researchers have to compete for observation time. When funding agencies favour their own national researchers, international scientists’ access becomes increasingly restricted, and Indians are no exception",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-karnataka/gpsd9j/article68957477.ece/alternates/LANDSCAPE_1200/Hanle-observatoGDRDMCVI3.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/budget-could-cut-reliance-on-foreign-telescope-trips-on-space-spending/article70607109.ece",
+    "time": "2026-02-08T10:13:00.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Sachin applauds USA fight, praises Suryakumar's match-winning knock",
     "desc": "Team India began their T20 World Cup title defence with a victory over the United States. Suryakumar Yadav's crucial innings guided India to a competitive total. The bowlers then secured the win. Cricket legend Sachin Tendulkar lauded both teams for their efforts. The USA team showed great energy and spirit throughout the match.",
@@ -610,24 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sachin-tendulkar-applauds-usa-fight-praises-suryakumar-yadavs-match-winning-knock/articleshow/128067025.cms",
     "time": "2026-02-08T10:10:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Paul Thomas Anderson tops film race",
-    "desc": "Jonathan Nolan has shared his glowing early reaction to Christopher Nolan's upcoming film, 'The Odyssey,' calling it a \"tremendous\" and \"incredible achievement.\" This epic adaptation, set to premiere in July, marks Nolan's ambitious next project after the success of 'Oppenheimer.' The film promises to blend scale, realism, and myth, starring Matt Damon as Odysseus.",
-    "img": "https://static.toiimg.com/photo/msid-128066879,imgsize-39908.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jonathan-nolan-calls-christopher-nolans-the-odyssey-a-spectacular-film-ahead-of-july-release/articleshow/128066895.cms",
-    "time": "2026-02-08T09:57:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Schedule, format, and all you need to know",
-    "desc": "Chess will debut as an esports title at the Esports Nations Cup 2026 in Riyadh, running November 2–8. The event features 128 players in group and knockout formats, with rapid games and Armageddon tie-breakers. Players qualify via rankings, regional qualifiers, and wildcards. The tournament highlights chess’s growing esports presence and global reach, following its successful Esports World Cup debut in 2025.",
-    "img": "https://static.toiimg.com/photo/msid-128066494,imgsize-52306.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/chess-added-to-esports-nations-cup-2026-schedule-format-qualifiers-and-all-you-need-to-know/articleshow/128066185.cms",
-    "time": "2026-02-08T09:43:27.000Z"
   },
   {
     "cat": "Sports",
@@ -709,15 +736,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/discoms-and-the-road-ahead-explained/article70595588.ece",
     "time": "2026-02-08T05:01:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Washington to join squad soon; Bumrah, Abhishek under weather",
-    "desc": "Washington Sundar last played a competitive fixture nearly a month ago during the ODI series vs New Zealand. The all-rounder injured himself while bowling in the 1st ODI in Vadodara and went on to miss the remainder of the series, and the five T20Is which followed",
-    "img": "https://static.toiimg.com/photo/msid-128056197,imgsize-126440.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/washington-sundar-to-join-india-t20-world-cup-squad-jasprit-bumrah-abhishek-sharma-under-the-weather/articleshow/128056155.cms",
-    "time": "2026-02-08T02:35:16.000Z"
   },
   {
     "cat": "Entertainment",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/elton-john-accuses-uk-tabloids-publisher-of-abhorrent-privacy-breaches/article70600789.ece",
     "time": "2026-02-06T14:29:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RANJI TROPHY",
-    "desc": "CRICKET | None of the host batters, barring Herwadkar, show resilience on a surface that had a tinge of green and offered uneven bounce; Kaverappa, Prasidh and Shreyas snap up three wickets each with a disciplined effort",
-    "img": "https://th-i.thgim.com/public/incoming/br72nr/article70600066.ece/alternates/LANDSCAPE_1200/11908_6_2_2026_17_14_49_3_DSC_7121.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-karnataka-takes-the-upper-hand-after-batting-debacle-by-mumbai/article70600049.ece",
-    "time": "2026-02-06T13:00:11.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Pre-election violence shadows Bangladesh’s polls as 127 million prepare to vote",
-    "desc": "The 13th national election, involving nearly 127 million voters, has raised hopes of a peaceful transition from the post-Hasina interim government to an elected administration; but the pre-election violence has posed new challenges to the election process",
-    "img": "https://th-i.thgim.com/public/incoming/upobtb/article70600092.ece/alternates/LANDSCAPE_1200/Bangladesh_Protest_94546.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/pre-election-violence-shadows-bangladeshs-polls-as-127-million-prepare-to-vote/article70599952.ece",
-    "time": "2026-02-06T12:36:11.000Z"
   }
 ];
