@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "আজ সুপ্রিম কোর্টে SIR মামলার শুনানি! ফের শীর্ষ আদালতে সওয়াল করবেন মমতা...? তাকিয়ে বাংলা!",
+    "desc": "সোমবার দুপুর ২টো নাগাদ প্রধান বিচারপতি সূর্য কান্তের এজলাসে এই মামলার শুনানি হবে। গত বুধবার শুনানিতে উপস্থিত ছিলেন মুখ্যমন্ত্রী। তিনি সওয়ালও করেন। মমতার মামলার প্রেক্ষিতে কমিশনকে নোটিস জারি করে আদালত। আজ এই মামলার শুনানিতে কী হয়, সে দিকে নজর থাকবে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Mamata-SC-1-2026-02-4ad36f24cf183e5f2a1d034b12c1fa39-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/supreme-court-sir-case-the-hearing-of-the-west-bengal-sir-case-is-in-focus-today-will-cm-mamata-banerjee-appeal-again-on-monday-in-the-supreme-court-sanj-2531353.html",
+    "time": "2026-02-09T04:05:12.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "অষ্টম পে কমিশনে এবার সত্যিই বিগ ব্যাপার! বিশাল বেতনবৃদ্ধির সুখবরকে মান্যতা দিয়েই খুলে গেল...",
     "desc": "অষ্টম পে কমিশনে (8th Pay Commission) এবার বিরাট পদক্ষেপ। অষ্টম পে কমিশন অফিসিয়ালি শুরু হওয়ার আগে একে 'কী স্টেপ' বলা হচ্ছে। কেননা, অষ্টম পে কমিশনের অফিসিয়াল ওয়েবসাইট এবার 'লাইভ' (8th Pay Commission Website Launch) হল!",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/sports/t20-world-cup-2026-team-india-best-playing-11-here-it-is-smj-2522060.html",
     "time": "2026-02-01T12:28:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "শিলিগুড়ি থেকে বারাণসী পর্যন্ত হাইস্পিড রেল করিডর! কী কী পেল বাংলা?",
-    "desc": "সামনেই রাজ্যে বিধানসভা নির্বাচন, সেই ভোটের আগে শেষ বাজেট, তাই বাংলা কী পাবে তার দিকে নজর ছিল। দিনের শেষে বাংলা পাচ্ছে হাইস্পিড রেল করিডর, ফ্রেট করিডর, ইন্ডাস্ট্রিয়াল করিডর।রবিবারের বাজেটে দেশ জুড়ে সাতটি হাইস্পিড রেল করিডর তৈরির ঘোষণা করলেন দেশের অর্থমন্ত্রী নির্মলা সীতারমণ। এর মধ্যে একটি হল বারাণসী থেকে শিলিগুড়ি পর্যন্ত। শিলিগুড়ির চিকেন নেক গোটা দেশের নিরাপত্তার জন্য খুবই গুরুত্বপূর্ণ, তার উপরে সামনেই নির্বাচন, সেই আবহে এই ঘোষণা তাৎপর্যপূর্ণ বলে মনে করা হচ্ছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Budget-2026-02-5ebc0372973dd112376a660fed025e31-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/business/nirmala-sitharaman-unveils-varanasi-siliguri-high-speed-rail-corridor-in-budget-rmj-ws-l-2522091.html",
-    "time": "2026-02-01T12:28:12.000Z"
   }
 ];

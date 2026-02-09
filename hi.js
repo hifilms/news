@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Wanindu Hasaranga surpasses Shahid Afridi in major T20 World Cup record despite hamstring issue vs Ireland",
+    "desc": "Sri Lanka star Wanindu Hasaranga surpassed former Pakistan cricketer Shahid Afridi in a major record in the T20 World Cups despite battling hamstring issues in his team's World Cup opener against Ireland on Sunday, February...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wanindu-hasaranga-surpasses-shahid-afridi-in-major-t20-world-cup-record-despite-hamstring-issue-vs-ireland-2026-02-09-1029454",
+    "time": "2026-02-09T04:33:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajeev Shukla reacts to Pakistan's decision to boycott India in T20 World Cup 2026 amid back-channel talks",
+    "desc": "The Board of Control for Cricket in India (BCCI) vice-president Rajeev Shukla has reacted to the report circulating of the Pakistan Cricket Board (PCB) having initiated talks with the International Cricket Council (ICC) on a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rajeev-shukla-reacts-to-pakistans-decision-to-boycott-india-in-t20-world-cup-2026-amid-back-channel-talks-2026-02-09-1029440",
+    "time": "2026-02-09T02:44:34.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Paul Stirling equals Rohit Sharma and Shakib Al Hasan's legendary record in T20 World Cup 2026",
     "desc": "Ireland captain Paul Stirling has equalled a legendary record of former skippers Rohit Sharma and Shakib Al Hasan during his team's T20 World Cup 2026 opener against Sri Lanka on Sunday, February 8. Stirling, the Irish veteran,...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/barry-mccarthy-equals-shameful-record-with-his-spell-against-sri-lanka-in-t20-world-cup-2026-2026-02-08-1029414",
     "time": "2026-02-08T16:40:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arshdeep Singh on cusp of breaking Ravichandran Ashwin's T20 World Cup record for India",
-    "desc": "India pacer Arshdeep Singh is on the verge of breaking Ravichandran Ashwin’s record of most wickets for India in T20 World Cup history. The left-arm seamer has 29 wickets to his name in 15 matches,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-on-cursp-of-breaking-ravichandran-ashwin-s-t20-world-cup-record-for-india-2026-02-08-1029412",
-    "time": "2026-02-08T16:04:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Can Rashid Khan break Shakib Al Hasan's all-time T20 World Cup record? Here's what the statistics say",
-    "desc": "The T20 World Cup 2026 is well underway, and almost all teams have played one game each. There are several sides who registered victory and many who came within touching distance of a win, Afghanistan...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/can-rashid-khan-break-shakib-al-hasan-s-all-time-t20-world-cup-record-here-s-what-the-statistics-say-2026-02-08-1029410",
-    "time": "2026-02-08T15:48:28.000Z"
   }
 ];

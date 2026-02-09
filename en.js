@@ -1,6 +1,240 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Charlie Puth performs National Anthem",
+    "desc": "At Levi's Stadium for Super Bowl LX, Charlie Puth stole the show with his moving interpretation of the American National Anthem. His heartfelt performance, backed by a vibrant band and a spirited choir, resonated with fans online, who lauded it as \"the quintessential anthem experience.",
+    "img": "https://static.toiimg.com/photo/msid-128096647,imgsize-843281.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/charlie-puth-performs-national-anthem-at-super-bowl-2026-wins-fans-praise-watch/articleshow/128096647.cms",
+    "time": "2026-02-09T04:22:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Italy eye bold start to journey in big league",
+    "desc": "Italy's cricket team is making its T20 World Cup debut against Scotland at Eden Gardens, a moment skipper Wayne Madsen admits will bring nerves. Despite playing on artificial wickets back home, the Italians are confident after winning practice matches. Coach John Davison noted the good batting pitch, a contrast to their usual surfaces.",
+    "img": "https://static.toiimg.com/photo/msid-128096213,imgsize-132166.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-italy-eye-bold-start-to-journey-in-big-league/articleshow/128096194.cms",
+    "time": "2026-02-09T04:02:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Drake bets USD 1 million on Patriots to win Super Bowl LX",
+    "desc": "In a jaw-dropping gamble, music icon Drake has wagered an astonishing $1 million on the New England Patriots to triumph over the Seattle Seahawks in Super Bowl LX. This audacious bet brings back the humorous 'Drake curse' meme, suggesting that his support tends to jinx teams.",
+    "img": "https://static.toiimg.com/photo/msid-128095777,imgsize-31844.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/super-bowl-2026-drake-bets-usd-1-million-on-patriots-to-win-super-bowl-lx-fans-go-beserk-over-drake-curse/articleshow/128095755.cms",
+    "time": "2026-02-09T03:56:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Nifty50 opens above 25,800; BSE Sensex rallies over 500 points",
+    "desc": "Indian equity benchmarks, Nifty50 and BSE Sensex, opened in green on Monday, rallying strongly on the back of India-US trade deal joint statement issued over the weekend, and US President Donald Trump’s executive order revoking 25% penal tariffs.",
+    "img": "https://static.toiimg.com/photo/msid-128094373,imgsize-82718.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-february-09-2026-dalal-street-indian-equities-global-markets-india-us-trade-deal/articleshow/128094310.cms",
+    "time": "2026-02-09T03:51:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC meets PCB over India-Pakistan match, BCB chief also present",
+    "desc": "ICC deputy chairman Imran Khwaja flew to Lahore Sunday to meet top Pakistan board officials in a bid to end the standoff over Pakistan’s announced boycott of the February 15 T20 World Cup match against India in Colombo. Bangladesh Cricket Board chief Amin Ul Islam Bulbul also attended the meeting at Gaddafi Stadium.",
+    "img": "https://static.toiimg.com/photo/msid-128096021,imgsize-78066.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-icc-meets-pcb-over-india-pakistan-match-bcb-chief-also-present/articleshow/128095762.cms",
+    "time": "2026-02-09T03:45:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir gets SLAMMED by film distributor for THIS reason",
+    "desc": "Aamir Khan recently made headlines by calling for a surge in Indian cinema screens, highlighting the impressive performance of 'Dhurandhar' and contrasting India's 9,000 screens with China's impressive 100,000. Despite this, film distributor Akkshay Rathie voiced concerns, asserting that merely increasing the number of screens wouldn’t ensure success.",
+    "img": "https://static.toiimg.com/photo/msid-128095686,imgsize-23622.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-gets-slammed-by-film-distributor-for-suggesting-india-needs-more-theaters-which-of-your-last-releases-warranted/articleshow/128095686.cms",
+    "time": "2026-02-09T03:43:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Single vs family cost of living in 2026 UAE emirate",
+    "desc": "Dubai offers a vibrant life but demands a significant income. How much money do single individuals need monthly for comfort? How much money do couples and families require given that rent, education and daily expenses are key cost drivers? Tax-free salaries are offset by high living costs, making careful budgeting crucial for a stress-free life in Dubai.",
+    "img": "https://static.toiimg.com/photo/msid-128094739,imgsize-39922.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/minimum-salary-needed-to-live-in-dubai-single-vs-family-cost-of-living-in-2026-uae-emirate/articleshow/128093905.cms",
+    "time": "2026-02-09T03:34:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "New trailer for ‘Disclosure Day’ out now",
+    "desc": "During the electrifying Super Bowl 2026, audiences were treated to a thrilling glimpse of Steven Spielberg's forthcoming sci-fi masterpiece, 'Disclosure Day.' With Emily Blunt and Josh O’Connor taking the lead, this film delves into humanity's first encounter with extraterrestrial beings, raising urgent questions about secrecy and the quest for truth.",
+    "img": "https://static.toiimg.com/photo/msid-128095421,imgsize-23188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/super-bowl-2026-new-trailer-drops-for-steven-spielbergs-disclosure-day-watch/articleshow/128095421.cms",
+    "time": "2026-02-09T03:30:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kaley Cuoco divorce story shows strength behind the spotlight",
+    "desc": "Actress Kaley Cuoco candidly revealed the profound emotional toll of her divorce from Karl Cook, describing hitting 'rock bottom' amidst intense sadness and feeling overwhelmed. Despite the painful separation, the couple maintained respect, amicably resolving their divorce and continuing to share their love for horses. Cuoco has since found happiness and welcomed a daughter.",
+    "img": "https://static.toiimg.com/photo/msid-128095405,imgsize-889827.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kaley-cuoco-opens-up-about-heartbreak-and-hitting-rock-bottom-after-divorce-peek-inside-her-emotional-journey/articleshow/128095386.cms",
+    "time": "2026-02-09T03:27:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Markets inch higher tracking Wall Street's rally; Nikkei jumps 4%, HSI adds 460 points",
+    "desc": "Asian markets rallied, led by Tokyo, following Prime Minister Sanae Takaichi's election victory and hopes for greater political stability. Wall Street's strong performance also boosted sentiment, with Japan's Nikkei jumping significantly. Investors are optimistic about potential fiscal support and tax reductions, despite concerns over public debt.",
+    "img": "https://static.toiimg.com/photo/msid-128095291,imgsize-150064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-inch-higher-tracking-wall-streets-rally-nikkei-jumps-4-hsi-adds-460-points/articleshow/128094756.cms",
+    "time": "2026-02-09T03:23:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Budget may cut reliance on foreign telescopes, but trips on space spending",
+    "desc": "Only a few large astronomical observatories are capable of groundbreaking discoveries worldwide, which means researchers have to compete for observation time. When funding agencies favour their own national researchers, international scientists’ access becomes increasingly restricted, and Indians are no exception",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-karnataka/gpsd9j/article68957477.ece/alternates/LANDSCAPE_1200/Hanle-observatoGDRDMCVI3.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/budget-could-cut-reliance-on-foreign-telescope-trips-on-space-spending/article70607109.ece",
+    "time": "2026-02-09T03:21:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chris Pratt and son Jack Pratt announce Seattle Seahawks",
+    "desc": "Hollywood star Chris Pratt and his son Jack made a memorable appearance at the Super Bowl LX, announcing the Seattle Seahawks. Pratt, a lifelong fan from Washington, shared the heartwarming moment with his son, showcasing a blend of family and fandom.",
+    "img": "https://static.toiimg.com/photo/msid-128095131,imgsize-36468.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/super-bowl-2026-chris-pratt-and-son-jack-pratt-appear-to-announce-the-seattle-seahawks/articleshow/128095086.cms",
+    "time": "2026-02-09T03:17:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Battle Of Galwan' postponed; to release on I-Day 2026",
+    "desc": "Salman Khan's upcoming action-packed saga, 'Battle of Galwan,' has shifted its release date from April 17 to August 14, 2026, aligning with India's Independence Day celebrations. This clever timing aims to enhance the film's patriotic themes. As filming nears completion by the end of February, the team is gearing up for a meticulous editing phase ahead of the premiere.",
+    "img": "https://static.toiimg.com/photo/msid-128094695,imgsize-137650.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-battle-of-galwan-postponed-set-to-release-in-cinemas-on-independence-day-2026/articleshow/128094695.cms",
+    "time": "2026-02-09T03:08:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hardik Pandya and a 'special' pendant: The T20 WC dream of Italy's Draca",
+    "desc": "Italy's Thomas Draca dreams of meeting his idol Hardik Pandya at the T20 World Cup, aiming to emulate his fearless approach and charisma. Draca, mentored by legends Dennis Lillee and Carlos Brathwaite, is eager to represent Italy in their maiden World Cup appearance and learn from Pandya's game.",
+    "img": "https://static.toiimg.com/photo/msid-128094793,imgsize-51798.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/hardik-pandya-and-a-special-pendant-the-t20-world-cup-dream-of-italys-thomas-draca-exclusive/articleshow/128094609.cms",
+    "time": "2026-02-09T03:06:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘America is rooting for you!’: Trump’s rallying cry for Team USA at T20 World Cup",
+    "desc": "US President Donald Trump has voiced strong support for the American cricket team in the ongoing T20 World Cup, with the nation backing their journey. Despite being a developing cricket nation, the USA squad, largely of Indian origin, is gaining global attention. Defending champions India recently defeated the USA by 29 runs in a closely contested match.",
+    "img": "https://static.toiimg.com/photo/msid-128094789,imgsize-74926.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/america-is-rooting-for-you-donald-trumps-rallying-cry-for-team-usa-at-the-t20-world-cup/articleshow/128094537.cms",
+    "time": "2026-02-09T03:06:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alix Earle and Tom Brady spotted at the Super Bowl party",
+    "desc": "Alix Earle and Tom Brady are causing quite the stir on social media with their playful interactions during the Super Bowl weekend celebrations. Videos showcasing the influencer and the NFL superstar sharing laughs and dances come hot on the heels of their New Year's Eve rendezvous in St. Barths.",
+    "img": "https://static.toiimg.com/photo/msid-128094458,imgsize-1428265.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/alix-earle-and-tom-brady-spotted-dancing-together-at-the-super-bowl-party/articleshow/128094458.cms",
+    "time": "2026-02-09T02:57:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Mandalorian &amp; Grogu' trailer released during Super Bowl",
+    "desc": "The beloved duo from 'The Mandalorian & Grogu' is making a grand return, with a new trailer unveiled during the Super Bowl. The film, directed by Jon Favreau, promises a cinematic journey for the iconic characters, marking the first Star Wars theatrical release since 2019. Expect a heartwarming tale of strengthened bonds as the adventure unfolds.",
+    "img": "https://static.toiimg.com/photo/msid-128094288,imgsize-32348.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-mandalorian-grogu-super-bowl-trailer-pedro-pascal-returns-to-star-wars-franchise-returns-after-7-years/articleshow/128094288.cms",
+    "time": "2026-02-09T02:51:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Left out of Pakistan squad, Haris Rauf's kite-flying video sparks online storm",
+    "desc": "While Pakistan's T20 World Cup 2026 squad was announced, fast bowler Haris Rauf was notably absent, sparking online debate. A video of Rauf flying kites surfaced amidst this, drawing criticism. Head coach Mike Hesson cited the versatility of the selected pace attack as the reason for Rauf's omission. Pakistan secured a narrow win in their opening match.",
+    "img": "https://static.toiimg.com/photo/msid-128094295,imgsize-44844.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/left-out-of-pakistan-squad-haris-raufs-kite-flying-video-sparks-online-storm-watch/articleshow/128094287.cms",
+    "time": "2026-02-09T02:51:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "The 'reel' love story that keeps winning",
+    "desc": "Shah Rukh Khan and Kajol's iconic on-screen chemistry redefined Bollywood romance, captivating audiences with timeless films like DDLJ and Kuch Kuch Hota Hai. Their enduring bond, celebrated even decades later, proves that some on-screen love stories transcend the screen, becoming a cherished legacy of friendship and cinematic magic that continues to resonate.",
+    "img": "https://static.toiimg.com/photo/msid-128093999,imgsize-68832.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/srk-and-kajol-a-love-story-that-never-happened-in-reality-but-lived-rent-free-in-fans-hearts/articleshow/128093873.cms",
+    "time": "2026-02-09T02:45:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jay-Z shares Super bowl spotlight with his daughters",
+    "desc": "Jay-Z shared Super Bowl 2026 with daughters Blue Ivy and Rumi at Levi's Stadium. This marked their third consecutive year attending the event together. Blue Ivy wore a letterman jacket while Rumi sported a pink bunny backpack. The family enjoyed the game and the halftime show. These outings highlight Jay-Z's dedication to family while managing his career.",
+    "img": "https://static.toiimg.com/photo/msid-128093910,imgsize-1140757.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/jay-z-turns-super-bowl-2026-into-a-heartfelt-daddy-daughter-moment-a-night-of-music-and-memories/articleshow/128093819.cms",
+    "time": "2026-02-09T02:38:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bad Bunny's FULL Super Bowl halftime show",
+    "desc": "Puerto Rican superstar Bad Bunny transformed the Super Bowl halftime show into a vibrant celebration of Spanish music and culture. He delivered a powerful performance focused on positivity and love, featuring hits like 'Titi Me Pregunto' and 'Yo Perreo Sola.' Special guests included Lady Gaga and Ricky Martin, with a backdrop honoring Puerto Rico.",
+    "img": "https://static.toiimg.com/photo/msid-128093635,imgsize-40058.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/watch-bad-bunnys-full-super-bowl-halftime-show-lady-gaga-ricky-martin-pedro-pascal-jessica-alba-join-singer-for-performance/articleshow/128093474.cms",
+    "time": "2026-02-09T02:37:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'I am completely depressed': Tej Pratap Yadav rejects 'blessed with child' claim",
+    "desc": "Tej Pratap Yadav has denied social media rumors of fathering a child, Anushka Yadav. He accused RJD leaders Sanjay Yadav, Sunil Singh, former MLAs Shakti Singh Yadav and Mukesh Raushan, and Tejashwi Yadav's friend Rameez of hatching a conspiracy against him. Yadav vowed legal action against those he called 'Jaichands' for defamation.",
+    "img": "https://static.toiimg.com/photo/msid-128093806,imgsize-1520481.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/i-am-completely-depressed-tej-pratap-yadav-rejects-blessed-with-child-claim/articleshow/128093823.cms",
+    "time": "2026-02-09T02:35:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What's the outlook for Nifty for February 9-13 week? Check list of top stock recommendations",
+    "desc": "According to Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities, the top stock picks for the week are Bajaj Finance, and Larsen & Toubro. Here’s his view on Nifty, Bank Nifty for the week starting February 9, 2026:",
+    "img": "https://static.toiimg.com/photo/msid-128093715,imgsize-89170.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stocks-to-buy-this-week-february-09-to-february-13-stock-recommendations-bajaj-finance-larsen-and-toubro/articleshow/128093670.cms",
+    "time": "2026-02-09T02:32:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bollywood stars who fell for their co-star",
+    "desc": "​Bollywood sets have long been standing ground for romance, where intense chemistry often spills into real life. Fans adore tales of stars like Alia Bhatt and Ranbir Kapoor, Ranveer Singh and Deepika Padukone, and Kiara Advani and Sidharth Malhotra-who confessed their feelings publicly through interviews and speeches.​",
+    "img": "https://static.toiimg.com/photo/msid-128093680,imgsize-698822.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/from-ranbir-kapoor-alia-bhatt-to-kiara-advani-siddharth-malhotra-bollywood-stars-who-fell-for-their-co-star-and-their-journey/photostory/128093680.cms",
+    "time": "2026-02-09T02:30:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Mexico sends two ships with humanitarian aid for Cuba",
+    "desc": "The shipment of 814 tons of aid comes as Mexico is mulling how to send oil to Cuba without being punished by U.S. President Donald Trump, who has vowed tariff punishment for any country that ships petroleum to Cuba",
+    "img": "https://th-i.thgim.com/public/news/national/7qgk1i/article70609484.ece/alternates/LANDSCAPE_1200/AFP__20260208__96M6363__v1__HighRes__MexicoCubaHumanitarianAidDiplomacy.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/mexico-sends-two-ships-with-humanitarian-aid-for-cuba/article70609483.ece",
+    "time": "2026-02-09T02:29:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhurandhar 2 marketer claims 'Dangal' dominance WON'T LAST",
+    "desc": "A renowned film analyst forecasts that Aamir Khan’s monumental box office success with 'Dangal' could be eclipsed by 2027. He points to three exciting films – 'Dhurandhar 2', 'Ramayana Part One', and 'Varanasi' – as strong contenders to outshine the record, all set to hit theaters between 2026 and 2027.",
+    "img": "https://static.toiimg.com/photo/msid-128093209,imgsize-80598.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-and-varanasi-marketer-claims-dangal-box-office-dominance-wont-last-beyond-2027-says-three-films/articleshow/128093209.cms",
+    "time": "2026-02-09T02:17:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Lewis and Kim make romance OFFICIAL",
     "desc": "It looks like love is in the air for racing legend Lewis Hamilton and reality TV icon Kim Kardashian! The duo made a dazzling appearance together at Super Bowl LX, igniting rumors of a romantic relationship after years of close friendship.",
     "img": "https://static.toiimg.com/photo/msid-128092227,imgsize-31634.cms",
@@ -81,15 +315,6 @@ const newsData_en = [
     "time": "2026-02-08T23:30:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "BTS will shock the world with 'ARIRANG'",
-    "desc": "DJ Diplo has revealed exciting details about BTS's upcoming album, 'ARIRANG', set for release on March 20. He described the project as the biggest of his career, praising the K-Pop group's creativity and professionalism. This marks BTS's first group release in four years, coinciding with a world tour and a Netflix live stream.",
-    "img": "https://static.toiimg.com/photo/msid-128086857,imgsize-32160.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/diplo-on-working-with-bts-on-their-album-arirang-its-honestly-gonna-shock-the-world/articleshow/128086721.cms",
-    "time": "2026-02-08T22:33:55.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "NEET-PG cut-off: Single-digit scores land PG seats in top med colleges",
     "desc": "NEET-PG qualifying standards were drastically lowered, resulting in postgraduate medical seats in government colleges being filled with extremely low scores. Candidates secured spots in high-risk clinical specialties and premier institutions with scores as low as single digits, raising significant concerns within the medical community.",
@@ -106,15 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/in-clear-message-malaysia-india-slam-cross-border-terror/articleshow/128086616.cms",
     "time": "2026-02-08T21:55:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ryan Gosling's 'Project Hail Mary' Super Bowl trailer",
-    "desc": "In 'Project Hail Mary', Ryan Gosling takes on the role of an astronaut grappling with amnesia, tasked with saving Earth in an interstellar odyssey. The latest trailer unveils a surprising partnership with an alien named Rocky, as they embark on a time-sensitive quest to unravel a cosmic enigma.",
-    "img": "https://static.toiimg.com/photo/msid-128085974,imgsize-16904.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/project-hail-mary-super-bowl-trailer-ryan-gosling-befriends-an-alien-rocky-on-his-space-mission/articleshow/128085795.cms",
-    "time": "2026-02-08T21:48:01.000Z"
   },
   {
     "cat": "Business",
@@ -142,24 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/isro-study-shows-safe-patch-near-moons-mons-mouton-for-chandrayaan-4-landing/articleshow/128085691.cms",
     "time": "2026-02-08T21:17:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Katy cheers for Bad Bunny",
-    "desc": "On the streets of San Juan, Bad Bunny's compatriots are eagerly awaiting the world's most famous Puerto Rican to represent the island at the Super Bowl halftime show on Sunday. In the same neighborhood, near a mural depicting Bad Bunny with a Puerto Rican flag, Angelis Segarra crosses her fingers that the halftime show goes off without a hitch.",
-    "img": "https://static.toiimg.com/photo/msid-128085668,imgsize-26404.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bad-bunny-set-for-super-bowl-lx-halftime-performance-katy-perry-says-remind-the-world-what-the-real-american-dream-looks-like/articleshow/128085153.cms",
-    "time": "2026-02-08T21:10:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ayesha Khan slams lack of consent in paparazzi culture",
-    "desc": "Ayesha Khan, who has been receiving widespread appreciation for her song Shararat from Aditya Dhar’s Dhurandhar, recently spoke about the flip side of visibility and fame, touching upon online judgement, AI-generated content, and the lack of consent in paparazzi culture.",
-    "img": "https://static.toiimg.com/photo/msid-128085360,imgsize-31788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ayesha-khan-calls-ai-generated-videos-very-scary-slams-lack-of-consent-in-paparazzi-culture-youre-capturing-someones-oops-moment/articleshow/128085247.cms",
-    "time": "2026-02-08T20:52:12.000Z"
   },
   {
     "cat": "Politics",
@@ -196,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/trade-deal-a-threat-to-indias-interests-cpm/articleshow/128084726.cms",
     "time": "2026-02-08T20:16:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Arijit returns to stage for first Kolkata show with Anoushka",
-    "desc": "Singer Arijit Singh performed his first live show in Kolkata just days after announcing his decision to step away from playback singing. Several videos and photographs from the concert, held on Sunday at the Netaji Indoor Stadium, surfaced on social media, showing the singer sharing the stage with sitar maestro Anoushka Shankar.",
-    "img": "https://static.toiimg.com/photo/msid-128084645,imgsize-24180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arijit-singh-returns-to-stage-for-first-kolkata-show-with-anoushka-shankar-days-after-announcing-retirement-from-playback-singing/articleshow/128084599.cms",
-    "time": "2026-02-08T20:12:19.000Z"
   },
   {
     "cat": "Politics",
@@ -253,12 +442,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "In a first for India, a desi aerospace firm gains in-orbit snooping capability, takes images of ISS",
-    "desc": "India's space sector has achieved a significant milestone as Azista Space successfully imaged the International Space Station from its own satellite. This groundbreaking \"space watch\" capability, demonstrated by the ABA First Runner satellite, marks a first for any Indian company. The feat enhances India's space situational awareness, crucial for protecting national assets in orbit.",
-    "img": "https://static.toiimg.com/photo/msid-128083697,imgsize-747406.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/in-a-first-for-india-a-desi-aerospace-firm-gains-in-orbit-snooping-capability-takes-images-of-iss/articleshow/128083737.cms",
-    "time": "2026-02-08T19:30:27.000Z"
+    "title": "AAI submits pre-feasibility report, finds site near Keelakarai feasible",
+    "desc": "When compared to the site near Uchipuli, which has a lot of trees, paddy fields, groundwater wells, and residents, the site close to Keelakarai has lesser obstacles and residents as seen from the initial inspection",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/rameswaram-airport-aai-submits-pre-feasibility-report-finds-site-near-keelakarai-feasible/article70607311.ece",
+    "time": "2026-02-08T19:25:50.000Z"
   },
   {
     "cat": "Business",
@@ -279,15 +468,6 @@ const newsData_en = [
     "time": "2026-02-08T19:19:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Usha Uthup says Dhurandhar makers didn’t seek her blessings",
-    "desc": "The reimagined version of ‘Rambha Ho’, one of Usha Uthup’s most iconic songs from the 1981 film Armaan, has been drawing attention after featuring in Aditya Dhar’s period spy thriller Dhurandhar, starring Ranveer Singh. While the song has been recreated by Shashwat Sachdev and sung by Madhubanti Bagchi, Usha Uthup has now revealed that the makers did not approach her for her blessings before the rehash.",
-    "img": "https://static.toiimg.com/photo/msid-128083417,imgsize-51276.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/usha-uthup-says-dhurandhar-makers-didnt-seek-her-blessings-for-rambha-ho-rehash-but-shes-very-happy-with-the-result/articleshow/128083374.cms",
-    "time": "2026-02-08T19:17:41.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Performance-based incentives for EPFO managers in works",
     "desc": "EPFO is considering performance-linked incentives for fund managers, allocating more to those delivering better returns. This move, part of a new benchmark methodology for debt investments, aims to diversify equity investments beyond index ETFs. The organization manages assets worth Rs 30 lakh crore and will discuss these proposals soon.",
@@ -295,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/performance-based-incentives-for-epfo-managers-in-works/articleshow/128083312.cms",
     "time": "2026-02-08T19:15:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Uttarakhand residents resist rising communal tensions",
-    "desc": "For decades, Uttarakhand was was known more for its pilgrimages and forests than for communal discord. In recent years, however, communal tensions have surfaced repeatedly; However, pushing back, standing firm on coexistence, and rejecting the hate",
-    "img": "https://th-i.thgim.com/public/incoming/gkrv79/article70604122.ece/alternates/LANDSCAPE_1200/KOTDWAR%20SPOTLIGHT_1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-residents-against-rising-communal-tensions-and-hate/article70604081.ece",
-    "time": "2026-02-08T19:14:38.000Z"
   },
   {
     "cat": "Business",
@@ -369,15 +540,6 @@ const newsData_en = [
     "time": "2026-02-08T17:46:37.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Salman reacts after Mohan Bhagwat calls him an inspiration",
-    "desc": "Salman Khan reacted with a smile after Rashtriya Swayamsevak Sangh (RSS) chief Mohan Bhagwat referred to him as an inspiration for college students at a Mumbai event. The moment was captured on camera as Salman, seated in the audience, was seen listening attentively to Bhagwat’s remarks.",
-    "img": "https://static.toiimg.com/photo/msid-128079928,imgsize-42874.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-reacts-after-rss-chief-mohan-bhagwat-calls-him-an-inspiration-for-college-students-what-he-wears-they-do-the-same/articleshow/128079694.cms",
-    "time": "2026-02-08T17:35:28.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "India, Canada to forge 'shared work plan' to bolster security cooperation",
     "desc": "In a groundbreaking collaboration, India and Canada are setting new standards for national security and law enforcement by introducing a cooperative work plan and appointing liaison officers. This strategic alliance is designed to combat shared threats such as drug trafficking and organized crime, highlighting a pivotal moment in repairing diplomatic ties.",
@@ -387,24 +549,6 @@ const newsData_en = [
     "time": "2026-02-08T17:22:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Stars who rocked the Super Bowl Halftime show from 2020-2025",
-    "desc": "Bad Bunny headlines Super Bowl LX in 2026, marking a historic moment for Latin music. This follows electrifying performances by Kendrick Lamar and SZA in 2025, Usher in 2024, Rihanna in 2023, a Hip-Hop Legends showcase in 2022, The Weeknd in 2021, and Jennifer Lopez & Shakira in 2020, each transforming the halftime show into a global spectacle.",
-    "img": "https://static.toiimg.com/photo/msid-128064737,imgsize-40776.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/celebs-who-rocked-the-super-bowl-halftime-show-in-the-last-6-years-from-kendrick-lamar-rihanna-to-the-weeknd/articleshow/128064451.cms",
-    "time": "2026-02-08T16:48:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "A stream of hope flows in Bundelkhand through 'Har Ghar Nal'",
-    "desc": "Bundelkhand's long struggle with water scarcity has ended as tap water now reaches homes, a dream realized for millions. Women no longer trek miles, and villages once defined by drought now boast flowing water. This transformation, driven by the Jal Jeevan Mission, brings hope and a better future to the region.",
-    "img": "https://static.toiimg.com/photo/msid-128078370,imgsize-1048709.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/a-stream-of-hope-flows-in-bundelkhand-through-har-ghar-nal/articleshow/128078386.cms",
-    "time": "2026-02-08T16:45:00.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Biotechnology to steer accelerated green growth of the future, say experts",
     "desc": "At the webinar presented by the Vellore Institute of Technology (VIT), Chennai, and The Hindu, the speakers underlined that biotechnology is the sunrise sector in India, set to accelerate industrial growth, and thus emerges as an impactful career choice",
@@ -412,15 +556,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/chennai/biotechnology-to-steer-accelerated-green-growth-of-the-future-say-experts/article70607509.ece",
     "time": "2026-02-08T16:44:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sudha Chandran recalls chilling paranormal encounters",
-    "desc": "Veteran television actor and classical dancer Sudha Chandran recently opened up about what she believes were paranormal encounters she experienced during shoots. In an interview with Hindi Rush, the actor spoke about sensing unusual energies on set and recalled incidents that left her deeply shaken.",
-    "img": "https://static.toiimg.com/photo/msid-128078271,imgsize-64230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sudha-chandran-recalls-chilling-paranormal-encounters-during-shoots-i-could-sense-an-energy-entering-my-body/articleshow/128078176.cms",
-    "time": "2026-02-08T16:41:35.000Z"
   },
   {
     "cat": "Sports",
@@ -504,24 +639,6 @@ const newsData_en = [
     "time": "2026-02-08T14:56:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Bengaluru commuters, drivers push for early rollout of Bharat Taxi",
-    "desc": "The push for Bharat Taxi gained momentum after Amit Shah announced in December 2025 that the government planned to launch the app within ‘one or two months’ to reduce the dependency of commercial vehicle drivers on private companies",
-    "img": "https://th-i.thgim.com/public/incoming/17b71u/article70608006.ece/alternates/LANDSCAPE_1200/AFP_969X7T2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-commuters-drivers-push-for-early-rollout-of-bharat-taxi/article70552840.ece",
-    "time": "2026-02-08T14:31:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vinod Khanna was ‘traumatized’ after leaving Osho: Wife",
-    "desc": "At the peak of his Bollywood career, Vinod Khanna shocked fans by walking away from fame and success to follow spiritual guru Osho. Decades later, his second wife, Kavita Khanna, has shared rare and deeply personal insights into that phase of his life in a video posted on her YouTube channel.",
-    "img": "https://static.toiimg.com/photo/msid-128074441,imgsize-34368.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vinod-khanna-was-very-traumatized-after-leaving-osho-recalls-wife-kavita-khanna-he-used-to-smoke-40-to-80-cigarettes-a-day/articleshow/128074327.cms",
-    "time": "2026-02-08T14:29:45.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.K. foreign office to review pay-off to Epstein-linked U.S. envoy",
     "desc": "Former U.S. envoy Peter Mandelson received an estimated pay-out of between £38,750 and £55,000 ($52,000 and $74,000) after only seven months in the job as British ambassador to the United States, according to a report in the Sunday Times",
@@ -567,15 +684,6 @@ const newsData_en = [
     "time": "2026-02-08T12:52:42.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Scarlett Johansson's net worth",
-    "desc": "Scarlett Johansson’s journey went from being a child actor in indie dramas to becoming one of the most successful performers in modern day Hollywood. With a career spanning over three decades, the Black Widow from ‘Marvel Cinematic Universe’, is also the highest-paid actresses in the world. This raises the curiosity about the fortune she holds. So, here’s a look at Scarlett Johansson’s net worth.Scarlett Johansson has an estimated net worth of USD 165 million. In July 2025, Johansson was named the highest grossing star at the worldwide box office. Major sources of her wealth come from decades of high-paying acting roles, savvy endorsements, entrepreneurial projects, and smart investments in real estate.",
-    "img": "https://static.toiimg.com/photo/msid-128065777,imgsize-1119928.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/scarlett-johansson-net-worth-inside-the-usd-165-million-fortune-of-marvels-black-widow-star/photostory/128065777.cms",
-    "time": "2026-02-08T12:41:49.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India-US trade deal may help Tamil Nadu’s garment exports double to Rs 30,000 crore",
     "desc": "Tiruppur's garment exporters anticipate a significant surge in shipments to the US, potentially doubling to Rs 30,000 crore within three years, following the new India-US trade framework. This expansion is also projected to create approximately 5 lakh new jobs in the textile hub over the next five years, boosting India's export competitiveness.",
@@ -592,15 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/pm-modi-meets-leading-business-leaders-in-malaysia-praises-their-role-in-indian-growth-story/article70607248.ece",
     "time": "2026-02-08T12:13:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'If Indian team had been all out for 100': Sehwag after India's win over USA",
-    "desc": "Suryakumar Yadav’s unbeaten 84 off 49 balls helped India recover from 77/6 and post 161/9 against the USA in their T20 World Cup opener, winning by 29 runs. Virender Sehwag called it one of Suryakumar’s best innings, praising his composure under pressure and the USA bowlers for challenging India. USA were restricted to 132/8 by India’s bowlers.",
-    "img": "https://static.toiimg.com/photo/msid-128070262,imgsize-134018.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/if-the-indian-team-had-been-all-out-for-just-100-virender-sehwag-after-indias-t20-world-cup-win-over-usa/articleshow/128069559.cms",
-    "time": "2026-02-08T12:02:46.000Z"
   },
   {
     "cat": "Business",
@@ -622,42 +721,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "When will U19 WC winner Sooryavanshi turn 15?",
-    "desc": "Vaibhav Sooryavanshi, born on March 27, 2011, will turn 15 on March 27, 2026. Despite his record-breaking performances in U19 and domestic cricket, he cannot play senior international cricket yet due to the ICC’s minimum age rule of 15. He is also ineligible for future U19 World Cups due to BCCI rules. Once he turns 15, he will be eligible for India’s senior team, with huge expectations around him.",
-    "img": "https://static.toiimg.com/photo/msid-128068235,imgsize-52558.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/when-will-india-u19-world-cup-winner-vaibhav-sooryavanshi-turn-15/articleshow/128067018.cms",
-    "time": "2026-02-08T10:49:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India sees no hurdle in importing $500 billion goods from US over five years, Piyush Goyal says demand will far exceed figure",
-    "desc": "India anticipates purchasing $500 billion in goods from the US over five years, a figure Commerce Minister Piyush Goyal deems conservative given the nation's expanding economy. This projection aligns with India's overall import demand, expected to reach $2 trillion, creating significant opportunities for US suppliers in sectors like aviation, technology, and energy.",
-    "img": "https://static.toiimg.com/photo/msid-128075816,imgsize-664188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-sees-no-hurdle-in-importing-500-billion-goods-from-us-over-five-years-goyal-says-demand-will-far-exceed-figure/articleshow/128067750.cms",
-    "time": "2026-02-08T10:37:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Budget may cut reliance on foreign telescopes; trips on space spending",
-    "desc": "Only a few large astronomical observatories are capable of groundbreaking discoveries worldwide, which means researchers have to compete for observation time. When funding agencies favour their own national researchers, international scientists’ access becomes increasingly restricted, and Indians are no exception",
-    "img": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-karnataka/gpsd9j/article68957477.ece/alternates/LANDSCAPE_1200/Hanle-observatoGDRDMCVI3.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/science/budget-could-cut-reliance-on-foreign-telescope-trips-on-space-spending/article70607109.ece",
-    "time": "2026-02-08T10:13:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sachin applauds USA fight, praises Suryakumar's match-winning knock",
-    "desc": "Team India began their T20 World Cup title defence with a victory over the United States. Suryakumar Yadav's crucial innings guided India to a competitive total. The bowlers then secured the win. Cricket legend Sachin Tendulkar lauded both teams for their efforts. The USA team showed great energy and spirit throughout the match.",
-    "img": "https://static.toiimg.com/photo/msid-128067116,imgsize-223616.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sachin-tendulkar-applauds-usa-fight-praises-suryakumar-yadavs-match-winning-knock/articleshow/128067025.cms",
-    "time": "2026-02-08T10:10:47.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Seifert's fifty drives NZ to five-wicket T20 World Cup win over Afghanistan",
     "desc": "New Zealand secured a five-wicket victory against Afghanistan in the T20 World Cup. Tim Seifert played a crucial role with a commanding 65 runs. Afghanistan posted 182 for six, with Gulbadin Naib scoring 63. Seifert's innings, supported by Glenn Phillips, ensured New Zealand chased the target with minimal fuss. Daryl Mitchell and Mitchell Santner finished the game.",
     "img": "https://static.toiimg.com/photo/msid-128065931,imgsize-150598.cms",
@@ -673,15 +736,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/jc-the-university-movie-review-surya-prakhyath-daali-dhananjaya-crime-thriller-brilliant-start-loses-momentum/article70603907.ece",
     "time": "2026-02-08T08:50:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "U19 World Cup 2026 team of the tournament revealed – see who made it!",
-    "desc": "The ICC has announced its Under-19 Men's Cricket World Cup 2026 Team of the Tournament, featuring three players from champions India, including Player of the Tournament Vaibhav Suryavanshi. Runners-up England also secured three spots, with Thomas Rew named captain. The squad highlights outstanding individual performances from across the globe.",
-    "img": "https://static.toiimg.com/photo/msid-128064036,imgsize-50008.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-u-19-world-cup/icc-u19-world-cup-2026-vaibhav-suryavanshi-kanishk-chouhan-henil-patel-make-team-of-the-tournament/articleshow/128063889.cms",
-    "time": "2026-02-08T08:03:30.000Z"
   },
   {
     "cat": "Sports",
@@ -711,15 +765,6 @@ const newsData_en = [
     "time": "2026-02-08T07:02:37.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Pakistan seeks dialogue with ICC over boycott call",
-    "desc": "The ICC and PCB have resumed discussions regarding Pakistan's potential boycott of their T20 World Cup match against India. The PCB invoked 'force majeure' after the Pakistan government instructed them not to play, citing solidarity with Bangladesh. The ICC has warned of significant financial repercussions for the PCB if the boycott proceeds.",
-    "img": "https://static.toiimg.com/photo/msid-128062115,imgsize-64744.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-pakistan-seeks-dialogue-with-icc-over-boycott-call/articleshow/128062125.cms",
-    "time": "2026-02-08T06:49:07.000Z"
-  },
-  {
     "cat": "World",
     "title": "Abbas Araghchi",
     "desc": "Iran’s Foreign Minister faces the daunting task of finding a diplomatic way out of tensions with the U.S. without compromising key national security interests at a time when the economy struggles and internal tensions remain high after the January crackdown",
@@ -736,15 +781,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/discoms-and-the-road-ahead-explained/article70595588.ece",
     "time": "2026-02-08T05:01:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Border 2' crosses Rs 300 crore mark in India",
-    "desc": "Sunny Deol's 'Border 2' has crossed the Rs 300 crore mark domestically, reaching approximately Rs 301.5 crore. The war film's worldwide collection stands at around Rs 412 crore, with overseas earnings of Rs 52 crore.",
-    "img": "https://static.toiimg.com/photo/msid-128053823,imgsize-36952.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-16-and-day-17-live-sunny-deol-varun-dhawan-ahan-shettey-starrer-crosses-rs-300-crore-mark/articleshow/128053621.cms",
-    "time": "2026-02-08T00:31:02.000Z"
   },
   {
     "cat": "Sports",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/cant-have-any-excuses-in-india-important-to-score-runs-whenever-you-bat-devdutt-padikkal/article70601654.ece",
     "time": "2026-02-06T18:36:10.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "White House deletes Trump’s racist post against Obamas, calls it staff error",
-    "desc": "“A White House staffer ​erroneously made the post,” said a White House official, who declined to be named. “It has been taken down”; The statement came hours after White House spokeswoman Karoline Leavitt described as “fake outrage” a wave of negative reactions to the video, including from several prominent Republican lawmakers",
-    "img": "https://th-i.thgim.com/public/incoming/loh77h/article70600939.ece/alternates/LANDSCAPE_1200/Trump_Obama_Social_Media_47167.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-shares-racist-video-about-obamas-white-house-defends-him/article70600870.ece",
-    "time": "2026-02-06T18:02:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 World Cup preview",
-    "desc": "The backdrop of the 10th edition of the tournament, to be played over a month across India and Sri Lanka, has been soured with the removal of Bangladesh and Pakistan’s decision to boycott the contest against the Men in Blue in Colombo",
-    "img": "https://th-i.thgim.com/public/incoming/m40fhw/article70600625.ece/alternates/LANDSCAPE_1200/11908_6_2_2026_16_24_8_1_DSC_7648.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-preview-the-time-has-come-for-crickets-rapid-fire-festival/article70600422.ece",
-    "time": "2026-02-06T17:09:15.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "African Union says M23 Congo airport attack may be 'terrorism'",
-    "desc": "The African Union said the \"attack, directed against an airport infrastructure located in a major urban centre and gravely endangering civilian populations, constitutes a serious violation of international humanitarian law\", in a statement on X.",
-    "img": "https://th-i.thgim.com/public/incoming/fzjy0n/article70601200.ece/alternates/LANDSCAPE_1200/AFP_93LT6KF.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/african-union-says-m23-congo-airport-attack-may-be-terrorism/article70601188.ece",
-    "time": "2026-02-06T15:32:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Elton John accuses U.K. tabloids publisher of 'abhorrent' privacy breaches",
-    "desc": "I have found The Mail's deliberate invasion into my medical health and medical details surrounding the birth of our son Zachary abhorrent and outside even the most basic standards of human decency, Elton John wrote in a witness statement.",
-    "img": "https://th-i.thgim.com/public/incoming/jyzpe5/article70600826.ece/alternates/LANDSCAPE_1200/2026-02-06T115742Z_702179009_RC2E5DA1YMT4_RTRMADP_3_BRITAIN-COURT-HARRY-FURNISH.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/elton-john-accuses-uk-tabloids-publisher-of-abhorrent-privacy-breaches/article70600789.ece",
-    "time": "2026-02-06T14:29:52.000Z"
   }
 ];
