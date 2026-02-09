@@ -1,7 +1,43 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "“India should travel to Holland”",
+    "title": "Virat Kohli, Rohit Sharma face demotion as BCCI announces annual central contracts",
+    "desc": "The BCCI (Board of Control for Cricket in India) came forward and announced its annual central contracts for the 2025-26 season. In what may come as a surprise to many, the likes of Rohit Sharma...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-rohit-sharma-face-demotion-as-bcci-announces-annual-central-contracts-2026-02-09-1029547",
+    "time": "2026-02-09T15:04:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan set to play against India in T20 World Cup 2026, takes u-turn on boycott decision: Report",
+    "desc": "In a massive development, the PCB (Pakistan Cricket Board) has reportedly taken a U-turn in their decision not to play against India in the ongoing T20 World Cup 2026. As per recent reports, after the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-set-to-play-against-india-in-t20-world-cup-2026-takes-u-turn-on-boycott-decision-report-2026-02-09-1029543",
+    "time": "2026-02-09T14:31:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Africa post 213 in first innings",
+    "desc": "South Africa and Canada face off in game 9 of the ongoing T20 World Cup 2026. The toss was won by Canada, and the side elected to bowl first. Letting South Africa bat first on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sa-vs-can-t20-world-cup-2026-live-cricket-score-south-africa-vs-canada-narendra-modi-stadium-ahmedabad-latest-match-updates-scorecard-teams-2026-02-09-1029537",
+    "time": "2026-02-09T13:39:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC rejects Pakistan's demand for bilateral series with India amid T20 World Cup boycott row",
+    "desc": "In a major development, the ICC (International Cricket Council) has rejected the PCB's (Pakistan Cricket Board) demand to resume bilateral series with the Indian team. It is interesting to note that the PCB made such...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-rejects-pakistan-s-demand-for-bilateral-series-with-india-amid-t20-world-cup-boycott-row-2026-02-09-1029534",
+    "time": "2026-02-09T13:08:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'India should travel to Holland': Netherlands manager explores opportunity during T20 World Cup",
     "desc": "India plays a pivotal role in global cricket’s growth, especially from a financial standpoint, and that influence is hard to ignore. Recent reports suggesting that the Men in Blue may skip a proposed white-ball tour...",
     "img": "",
     "src": "indiatvnews.com",
@@ -46,47 +82,11 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Zimbabwe need 104 to breeze past Oman",
+    "title": "Zimbabwe defeat Oman by eight wickets",
     "desc": "Zimbabwe begin their T20 World Cup 2026 campaign against Oman at the Sinhalese Sports Club, Colombo, with plenty at stake for both sides in Group B. After winning the toss, Zimbabwe opted to bowl first,...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/zim-vs-oma-t20-world-cup-2026-live-cricket-score-zimbabwe-vs-oman-sinhalese-sports-club-colombo-latest-match-updates-scorecard-teams-playing-xis-2026-02-09-1029502",
     "time": "2026-02-09T09:31:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 Players who have played in World Cup in two different sports",
-    "desc": "Playing a sport takes skill, athleticism and expertise to perform at the highest level. Playing two is a different ball game altogether. How about playing in different sports at the World Cup level? Sounds crazy,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/3-players-who-have-played-in-world-cup-in-two-different-sports-2026-02-09-1029494",
-    "time": "2026-02-09T08:42:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Resolution on India-Pakistan T20 World Cup match expected within 24 hours after ICC, PCB and BCB meeting",
-    "desc": "The breakthrough over the India vs Pakistan T20 World Cup 2026 match is expected soon after the meeting between the International Cricket Council (ICC) officials, Pakistan Cricket Board (PCB) chairman Mohsin Naqvi and Bangladesh Cricket...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/resolution-on-india-pakistan-t20-world-cup-match-expected-within-24-hours-after-icc-pcb-and-bcb-meeting-2026-02-09-1029472",
-    "time": "2026-02-09T06:17:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Scotland beat Italy by 73 runs in Kolkata",
-    "desc": "T20 World Cup debutants Itlay open their campaign against Scotland in a crucial Group-stage clash at the Eden Gardens, Kolkata, as both sides eye a statement performance. While Scotland come into the contest with far...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sco-vs-ita-t20-world-cup-2026-live-cricket-score-scotland-vs-italy-eden-gardens-kolkata-latest-match-updates-scorecard-teams-playing-xis-2026-02-09-1029459",
-    "time": "2026-02-09T05:23:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dale Steyn offers his services to Nepal after they almost pulled off a miracle over England in T20 World Cup",
-    "desc": "Former South African fast bowler Dale Steyn offered his services to Nepal after their stellar show against England in the T20 World Cup 2026 on Sunday, February 8. Chasing a huge 185 at the Wankhede...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dale-steyn-offers-his-services-to-nepal-after-they-almost-pulled-off-a-miracle-over-england-in-t20-world-cup-2026-02-09-1029457",
-    "time": "2026-02-09T05:12:38.000Z"
   }
 ];

@@ -1,5 +1,77 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "'দিনে ৪০-৮০টি সিগারেট খেত', মূত্রথলির ক্যানসারের আগে ফুসফুসের ক্যানসারে আক্রান্ত ছিলেন বিনোদ খান্না, সিক্রেট ফাঁস স্ত্রীর...",
+    "desc": "বিনোদ খান্না পর্দার আড়ালে এমন একজন ব্যক্তি ছিলেন যিনি নীরবে তার জীবনের কিছু কঠিন স্বাস্থ্য যুদ্ধ লড়েছিলেন, যা গোটা বিশ্ব জানে না । অভিনেতার মৃত্যুর বহু বছর পর, তার স্ত্রী কবিতা খান্না প্রয়াত অভিনেতার যাত্রার একটি অজ্ঞাত অধ্যায়ের কথা খুলে বলেছেন ।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Riya-Das-1200900-2026-02-09T204144.303-2026-02-835bc82c981a804fb0c101bd9d79d2c2-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/vinod-khanna-battled-lung-cancer-before-bladder-cancer-wife-reveals-he-smoked-40-to-80-cigarettes-a-day-rds-2532896.html",
+    "time": "2026-02-09T15:35:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "FIR দায়ের দিল্লি পুলিশের, কী ভাবে ফাঁস? প্রাক্তন সেনাপ্রধানে অপ্রকাশিত বই কাণ্ডে তদন্ত শুরু",
+    "desc": "অপ্রকাশিত ওই বইয়ের কিছু অংশ লোকসভায় তুলে ধরেছিলেন বিরোধী দলনেতা রাহুল গান্ধি৷ সেখানে ভারত-চিন সংঘর্ষ নিয়ে কিছু কথা বলা হয়েছিল৷ কিন্তু, বইটি অপ্রকাশিত হওয়ায় তা থেকে কী ভাবে উদ্ধৃতি তুলে ধরা হল লোকসভায়, তা নিয়ে ঘোরতর আপত্তি জানায় বিজেপি৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ydne-2026-02-09T201620.067-2026-02-f6ba72547790cfcfd40f1dff83d0147c-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/parliament-news-update-delhi-police-files-fir-on-alleged-leak-of-former-army-chief-naravanes-four-stars-of-destiny-book-sta-2532798.html",
+    "time": "2026-02-09T15:22:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "\"কোনও মন্ত্রীকে দিয়ে ফোন করিয়ে গানে সুযোগ পাওয়া যাবে না\", অগ্নিশর্মা বিশাল দাদলানি",
+    "desc": "বরাবর স্পষ্ট বক্তা হিসেবে পরিচিত বিশাল৷ রাজনৈতিক নেতাদের বিরুদ্ধে মুখ খুলতেও ভয় পান না৷ সোশ্যাল মিডিয়াকে হাতিয়ার করে নিজের মতামত দিতে পিছপা হন না সঙ্গীত শিল্পী৷ এবার নাম না করেই নতুন উঠতি গায়কের বিরুদ্ধে সুর চড়ালেন বিশাল দাদলানি৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Web-2026-02-09T195013.842-2026-02-438f76e6912d34d3ff81ed2b21c2bc73-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/vishal-dadlani-warns-new-singer-who-manages-to-contact-him-though-some-minister-pbd-2532742.html",
+    "time": "2026-02-09T14:56:26.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "নাটক দেখা, গান শোনার অপরাধে মৃত্যুদণ্ড স্কুলপড়ুয়াদের! প্রকাশ্য রাস্তায় ফাঁসিতে ঝোলানো হল, কারণ...",
+    "desc": "কিছুদিন আগেই কোরিয়া যেতে চেয়ে গাজিয়াবাদে তিন বোনের আত্মহত্যার ঘটনা ঘটেছে। এবার উত্তর কোরিয়া। সেখানে নাটক দেখা, গান শোনার অপরাধে মৃত্যুদণ্ড স্কুলপড়ুয়াদের! কোরিয়ান নাটক 'কে পপ' ব্যান্ডের গানে বুঁদ নতুন প্রজন্ম। কিন্তু এহেন কোরিয়ান ড্রামা, গান শোনার অপরাধে সে দেশে স্কুলপড়ুয়াদের ফাঁসিতে ঝোলানো হচ্ছে। অবিশ্বাস্য!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/squid-game-punishment-north-korea-executes-schoolchildren-for-watching-squid-game-listening-to-k-po-kim-jong-un_640404.html ",
+    "time": "2026-02-09T14:43:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arijit Singh-Aamir Khan: জিয়াগঞ্জ থেকে বেরতেই আসল রূপ দেখালেন আমির, অরিজিতকে যা বললেন..., ফাঁস হতেই তোলপাড়",
+    "desc": "প্লেব্যাক দুনিয়াকে বিদায় জানানোর ঘোষণা করেছিলেন অরিজিৎ সিং। তাই আমির খানের আচমকা জিয়াগঞ্জ সফর ঘিরে শুরু হয়েছিল জোর জল্পনা। তাহলে কি ‘মহাভারত’ ছবির জন্য ফের মাইক্রোফোন হাতে তুলেছেন গায়ক? সেই সব জল্পনার অবসান ঘটিয়ে সামনে এল আসল তথ্য।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/HYP_5754451_cropped_09022026_183750_img_20260209_182013_1200_x_2-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/will-arijit-singh-sing-in-aamir-khans-upcoming-film-l18-rds-local18-2532677.html",
+    "time": "2026-02-09T14:20:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "৭ ফুটের গাছ, এক গাছেই এক কেজি ফলন! সরষে চাষে বৈপ্লবিক পরিবর্তন, এই জাতেই লুকিয়ে লাভের আসল চাবিকাঠি",
+    "desc": "সাধারণত সরষে গাছ দুই তিন ফুট হলেও খেজুরডাঙার এই প্রজাতির সরষে গাছ হয় সাত ফুট পর্যন্ত! প্রতিটি গাছ থেকে পাওয়া যাচ্ছে এক কেজি পর্যন্ত সরষে। এই বিশেষ প্রজাতির চাষে লাভ দেখে অবাক এলাকার অন্য কৃষকরাও।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/vietnamese-mustard-cultivation-2026-02-63eb9362d9e017465a07c77f135edba6-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/agriculture-news-vietnamese-mustard-giving-huge-profit-to-framers-know-plantation-tips-l18-local18-2532372.html",
+    "time": "2026-02-09T13:30:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ঝমঝমিয়ে ভারী বৃষ্টি...! ১০, ১১, ১২ ফেব্রুয়ারি, দমকা ঝোড়ো হাওয়ার হুঁশিয়ারি কাঁপাবে ৬ রাজ্য, শীতের কামড় কাঁদাবে ৫ রাজ্যে, কী হবে বাংলায়? জানিয়ে দিল IMD",
+    "desc": "উত্তর-পশ্চিম ভারতে জম্মু-কাশ্মীর ও সংলগ্ন পাকিস্তানের উপর অবস্থান পশ্চিমী ঝঞ্ঝার। একের পর এক পশ্চিমী ঝঞ্ঝা। উত্তর-পশ্চিম ভারতে রয়েছে পশ্চিমী ঝঞ্ঝা। নতুন করে আরও একটি পশ্চিমী ঝঞ্ঝা আসবে। পরপর পশ্চিমী ঝঞ্ঝায় কার্যত শীতের বিদায় পর্বের শুরু।",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/12/sanj-2025-12-06T160258.458-2025-12-b4306aa6f0cd38b5a171a63c43740897-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-heavy-rainfall-to-hit-6-states-in-next-3-to-4-days-along-with-thunderstom-and-lightning-cold-wave-alert-in-make-5-states-dense-fog-to-life-in-trouble-know-west-bengal-weather-sanj-2532484.html",
+    "time": "2026-02-09T13:20:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "২৭-এর মেধাবী IT কর্মীর ঝকঝকে কেরিয়ার, কিন্তু একী! আসলে ৬০+ ডাকাতি করেই এত জৌলুস...",
+    "desc": "পুলিস সূত্রে খবর, ধৃতের নাম আচ্ছি মহেশ রেড্ডি ওরফে সানি। আদতে অন্ধ্রপ্রদেশেরই পূর্ব গোদাবরী জেলায় কাকিনাড়া শহরের বাসিন্দা। তবে বিশাখাপত্তনমের মাধবধারা এলাকায় থাকতেন সানি। স্রেফ বিশাখাপত্তনম নয়, অন্ধ্রপ্রদেশের বিভিন্ন প্রান্তে একাধিক চুরি ও ডাকাতির ঘটনায় অভিযুক্ত তিনি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/it-worker-turns-criminal-just-maintain-lavish-lifestyle-in-andhra-pradesh_640363.html ",
+    "time": "2026-02-09T13:18:11.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "‘এসআইআর-এর কাজ সম্পূর্ণ করতে বাধা দিতে পারি না,’ পশ্চিমবঙ্গ সরকারকে জানাল সুপ্রিম কোর্ট",
     "desc": "সোমবার শীর্ষ আদালত নির্দেশ দেয়, চূড়ান্ত তালিকা প্রকাশের জন্য আরও অতিরিক্ত ১ সপ্তাহ সময় দেওয়া হবে৷ অর্থাৎ, পূর্ব নির্ধারিত ১৪ ফেব্রুয়ারির বদলে তার ১ সপ্তাহ পরে প্রকাশিত হবে চূড়ান্ত ভোটার তালিকা৷ পাশাপাশি, মাইক্রো অবদজার্ভারদের কাজ ও ভূমিকার স্পষ্টীকরণও করে দিয়েছে আদালত৷",
@@ -124,15 +196,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/10-years-on-rani-mukerji-openly-reveals-adira-future-plans-actor-still-keeps-daughter-away-from-the-spotlight-actress-explains-why-tib-ws-l-2530719.html",
     "time": "2026-02-08T06:24:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "হাতে ছেলের বিয়ের কার্ড! নিমন্ত্রণ সেরে ফেরার পথে বেপরোয়া গাড়ির ধাক্কায় মৃত একই পরিবারের তিন...",
-    "desc": "বিয়ের কার্ড বিলি করে বাড়ি ফেরার পথে অডি গাড়ির ধাক্কায় একই পরিবারের তিনজন প্রাণ হারিয়েছেন। আগামী ২৪ ফেব্রুয়ারি বড় ছেলের বিয়ে উপলক্ষে তাঁরা নিমন্ত্রণ করতে বেরিয়েছিলেন, কিন্তু বাড়ির মাত্র ২ কিলোমিটার দূরে এই মর্মান্তিক দুর্ঘটনা ঘটে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/tragedy-on-the-road-family-of-three-killed-just-miles-from-home-after-distributing-wedding-cards_640154.html ",
-    "time": "2026-02-08T05:57:06.000Z"
   },
   {
     "cat": "Politics",
@@ -835,68 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/national/mamata-banerjee-west-bengal-cm-visits-banga-bhawan-after-allegation-of-delhi-police-harrassing-sir-affected-families-sanj-2523177.html",
     "time": "2026-02-02T10:25:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'ওরা ঘরে ঢুকে খুঁজে দেখছে...', বঙ্গভবনে 'এক কাপড়ে' রণংদেহি মমতা! পুলিশের 'তল্লাশি' ঘিরে তোলপাড় রাজধানী",
-    "desc": "মুখ্য নির্বাচন কমিশনার জ্ঞানেশ কুমারের সঙ্গে সাক্ষাৎ করতে গতকালই রাজধানীতে পৌঁছেছেন বাংলার মুখ্যমন্ত্রী মমতা বন্দ্যোপাধ্যায়। সঙ্গে এসআইআর ‘আতঙ্কে’ নিহতদের পরিবারের সদস্যদেরও যাওয়ার কথা ছিল। তাঁরাই বর্তমানে বঙ্গভবনে রয়েছেন। এই আবহে সোমবার সকাল থেকেই আচমকা বাড়ানো হয় বঙ্গভবনের নিরাপত্তা। ব্যারিকেড তোলা হয় বঙ্গভবনের বাইরে। হঠাৎই দিল্লি পুলিশের বিশাল বাহিনী বঙ্গভবন ঘিরে ফেলে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-02-at-15.06.56-1-2026-02-c0e31e903fd38d4f71d9c440582611c4-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/mamata-in-delhi-west-bengal-cm-visit-banga-bhawan-after-delhi-police-raised-allegation-aginst-delhi-police-to-raid-several-rooms-sanj-2522943.html",
-    "time": "2026-02-02T09:47:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘তোমার শরীরটা দেখতে চাই’...ফটোগ্রাফারের সঙ্গে ভয়াবহ অভিজ্ঞতার কথা জানালেন অভিনেত্রী ঐশ্বর্যা রাজেশ!",
-    "desc": "দক্ষিণী চলচ্চিত্র জগতের পরিচিত মুখ সম্প্রতি নিজের অভিনয়জীবনের শুরুর দিকের একাধিক তিক্ত ও অস্বস্তিকর অভিজ্ঞতার কথা প্রকাশ্যে এনেছেন। এক পডকাস্টে দেওয়া সাক্ষাৎকারে তিনি ফিল্ম ইন্ডাস্ট্রিতে কাজের খোঁজে এসে যৌন হেনস্থা ও প্রকাশ্য অপমানের মতো পরিস্থিতির মুখোমুখি হওয়ার অভিজ্ঞতা তুলে ধরেছেন, যা আবারও বিনোদন দুনিয়ায় নারীদের নিরাপত্তা ও কর্মপরিবেশ নিয়ে প্রশ্ন তুলে দিয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/aishwarya-rajesh-8-2026-02-5cd81b6ba5356b683260ff6e4c99b867-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/south-film-actress-aishwarya-rajesh-recalls-disturbing-incident-with-photographer-shares-terrifying-experience-about-women-safety-tib-ws-l-2522832.html",
-    "time": "2026-02-02T09:09:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aamir Khan Visits Arijit Singh’s Home: অরিজিত্‍, সুরহারা কোরো না! অবসর ঘোষণার পরই জিয়াগঞ্জে সোমুর বাড়ি আমির খান...",
-    "desc": "অরিজিৎ সিংয়ের প্লেব্যাক থেকে অবসরের ঘোষণার পর যখন উত্তাল গোটা দেশ, ঠিক তখনই জিয়াগঞ্জে গায়কের বাড়িতে আমির খানের ঝটিকা সফর ঘিরে নতুন জল্পনা। গত রবিবার রাতেই কলকাতায় পা রাখেন আমির। কিন্তু কেন? এই প্রশ্নই সকলের মনে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/aamir-khan-visits-arijit-singh-jiaganj-house-after-retirement-news_638866.html ",
-    "time": "2026-02-02T08:26:29.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "পর পর হামলায় রক্তাক্ত বালোচিস্তান! নেপথ্যে আসল মাথা দুই মহিলা! কী করেছেন তাঁরা জানেন? চমকে উঠবেন শুনে",
-    "desc": "পাকিস্তানি সেনার দাবি, হামলার পর টানা ৪০ ঘণ্টা ধরে চালানো অভিযানে ১৪৩ জন জঙ্গিকে নিকেশ করা হয়েছে। যদিও এই সংঘর্ষে সেনা সদস্যদের পাশাপাশি সাধারণ মানুষের মৃত্যুর খবরও সামনে এসেছে বলে বিভিন্ন সূত্রে জানা গিয়েছে। পরিস্থিতি সামাল দিতে প্রদেশজুড়ে নিরাপত্তা ব্যবস্থা আরও জোরদার করা হয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/baloch-2-2026-02-a6258e25d3b8b52747d0d6d6dbb89453-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/balochistan-attack-photos-of-two-women-released-by-baloch-fighters-tension-rises-who-are-they-tib-ws-l-2522733.html",
-    "time": "2026-02-02T07:53:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC To Suspend... ছোটোখাটো কোনও শাস্তি নয়, পিসিবিকে একেবারে চুপ করিয়ে দেবে কি আইসিসি, একেবারে সাসপেন্ড করবে পাকিস্তানকে",
-    "desc": "ICC To Suspend PAK From International Cricket? টি-টোয়েন্টি বিশ্বকাপের সময় পাকিস্তান সরকার ভারতের বিপক্ষে মাঠে নামবে না বলে জানানোর পর, আন্তর্জাতিক ক্রিকেট কাউন্সিল আগামী ৪৮ ঘণ্টার মধ্যে একটি জরুরি সভা করবে যাতে পাকিস্তানের বিষয়ে সিদ্ধান্ত নেওয়া যায়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ICC-and-PCB-2026-02-c91efdb08d6709fe4bfad001063d0fea-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/icc-to-suspend-pak-from-international-cricket-bcci-may-travel-to-sri-lanka-as-per-icc-rule-dd-2522737.html",
-    "time": "2026-02-02T07:38:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ধ্যানবিন্দুর শিখরে পৌঁছে নবতিপর দলাই লামার বিশ্বজয়! পেলেন সংগীতের মহাসম্মান গ্র্যামি...",
-    "desc": "হিমাচল প্রদেশের ধর্মশালা থেকে বিশ্বজুড়ে শান্তির বাণী ছড়িয়ে দেওয়া চতুর্দশ দলাই লামার মুকুটে যুক্ত হলো এক অনন্য পালক। ৯০ বছর বয়সে নিজের প্রথম গ্র্যামি অ্যাওয়ার্ড জয় করলেন তিব্বতের এই আধ্যাত্মিক গুরু। 'বেস্ট অডিও বুক, ন্যারেশন এবং স্টোরিটেলিং রেকর্ডিং' বিভাগে এই সম্মান পেয়েছেন তিনি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/dalai-lama-wins-first-grammy-award-at-90-meditations-album_638834.html ",
-    "time": "2026-02-02T07:01:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'পাকিস্তানি রা ৪ দিনের মধ্যে অবসরের সিদ্ধান্ত বদল করে'! মজার ছলে পাকিস্তানকে ধুয়ে দিল গাভাসকর",
-    "desc": "পাকিস্তান সরকার ঘোষণা করেছে যে তারা আইসিসি টি২০ বিশ্বকাপের গ্রুপ পর্বে ভারতের বিপক্ষে ম্যাচটি তারা বয়কট করবে। সরকার এই সিদ্ধান্ত সোশ্যাল মিডিয়ায় জানিয়েছে, তবে কোনো কারণ উল্লেখ করা হয়নি। এই ঘোষণার পর ক্রিকেট বিশ্বে নতুন বিতর্ক শুরু হয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2024/05/Sunil-Gavaskar-11-2024-05-8d24c020f6b537e90a123bfe9477d9bd-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/sunil-gavaskar-takes-hilarious-dig-on-pakistan-boycott-india-match-in-icc-t20-world-cup-2026-sup-2522493.html",
-    "time": "2026-02-02T04:55:14.000Z"
   }
 ];
