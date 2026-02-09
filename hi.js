@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "“India should travel to Holland”",
+    "desc": "India plays a pivotal role in global cricket’s growth, especially from a financial standpoint, and that influence is hard to ignore. Recent reports suggesting that the Men in Blue may skip a proposed white-ball tour...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/netherlands-manager-explores-opportunity-during-t20-world-cup-2026-02-09-1029521",
+    "time": "2026-02-09T12:09:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "4 players competing in T20 World Cup 2026 who have played for two different countries in international cricket",
+    "desc": "The T20 World Cup 2026 is well underway, and the 20 teams competing are aiming to put in their best performances in hopes of getting their hands on the marquee title. Among the many players...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/4-players-competing-in-t20-world-cup-2026-who-have-played-for-two-different-countries-in-international-cricket-2026-02-09-1029520",
+    "time": "2026-02-09T11:38:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Test cricket a distant dream for Netherlands despite white-ball progress",
+    "desc": "Despite a growing interest in cricket among local-origin players, Test cricket remains a distant ambition for the Netherlands. The famous victory over South Africa at the ODI World Cup 2023 had sparked hopes of a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/test-cricket-a-distant-dream-for-netherlands-despite-white-ball-progress-2026-02-09-1029508",
+    "time": "2026-02-09T10:15:18.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Nothing to offer but...': ICC shoots down Pakistan's demands amid India boycott row in T20 World Cup 2026",
     "desc": "The impasse between the International Cricket Council (ICC), Pakistan Cricket Board (PCB) and the Bangladesh Cricket Board (BCB) continues as Pakistan have decided to boycott the marquee clash against arch-rivals India. With only six days...",
     "img": "",
@@ -19,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Zimbabwe opt to bowl in their opener against Oman",
+    "title": "Zimbabwe need 104 to breeze past Oman",
     "desc": "Zimbabwe begin their T20 World Cup 2026 campaign against Oman at the Sinhalese Sports Club, Colombo, with plenty at stake for both sides in Group B. After winning the toss, Zimbabwe opted to bowl first,...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/dale-steyn-offers-his-services-to-nepal-after-they-almost-pulled-off-a-miracle-over-england-in-t20-world-cup-2026-02-09-1029457",
     "time": "2026-02-09T05:12:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Wanindu Hasaranga surpasses Shahid Afridi in major T20 World Cup record despite hamstring issue vs Ireland",
-    "desc": "Sri Lanka star Wanindu Hasaranga surpassed former Pakistan cricketer Shahid Afridi in a major record in the T20 World Cups despite battling hamstring issues in his team's World Cup opener against Ireland on Sunday, February...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wanindu-hasaranga-surpasses-shahid-afridi-in-major-t20-world-cup-record-despite-hamstring-issue-vs-ireland-2026-02-09-1029454",
-    "time": "2026-02-09T04:33:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajeev Shukla reacts to Pakistan's decision to boycott India in T20 World Cup 2026 amid back-channel talks",
-    "desc": "The Board of Control for Cricket in India (BCCI) vice-president Rajeev Shukla has reacted to the report circulating of the Pakistan Cricket Board (PCB) having initiated talks with the International Cricket Council (ICC) on a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rajeev-shukla-reacts-to-pakistans-decision-to-boycott-india-in-t20-world-cup-2026-amid-back-channel-talks-2026-02-09-1029440",
-    "time": "2026-02-09T02:44:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Paul Stirling equals Rohit Sharma and Shakib Al Hasan's legendary record in T20 World Cup 2026",
-    "desc": "Ireland captain Paul Stirling has equalled a legendary record of former skippers Rohit Sharma and Shakib Al Hasan during his team's T20 World Cup 2026 opener against Sri Lanka on Sunday, February 8. Stirling, the Irish veteran,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/paul-stirling-equals-rohit-sharma-and-shakib-al-hasans-legendary-record-in-t20-world-cup-2026-2026-02-09-1029432",
-    "time": "2026-02-09T01:48:43.000Z"
   }
 ];

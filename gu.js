@@ -1,12 +1,30 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "VFX વગર શૂટ થઈ હતી મહાભારત ? જાણો કેવી રીતે હવામાં અદૃશ્ય થઈ જતા હતા તીર",
+    "desc": "બીઆર ચોપરાનું મહાભારત એવા યુગમાં બનાવવામાં આવ્યું હતું, જેમાં લેટેસ્ટ ટેકનોલોજી અને વીએફએક્સ હતુ જ નહીં. શું તમે ક્યારેય વિચાર્યું છે કે તે દિવસોમાં યુદ્ધ કેવી રીતે ચાલતું હતું, અને હવામાં તીર કેવી રીતે ગાયબ થઈ જતા હતા?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/was-b-r-chopras-mahabharata-shot-without-vfx-know-how-arrows-disappeared-in-the-air-464450 ",
+    "time": "2026-02-09T11:46:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "લોકસભા સ્પીકરને પદ પરથી હટાવવા કેટલું પડકારજનક? જાણો શું છે અવિશ્વાસ પ્રસ્તાવ લાવવાની જટિલ પ્રક્રિયા",
+    "desc": "લોકસભા સ્પીકરને તેમના પદ પરથી હટાવવા એ રાજકીય રીતે એક મોટું પગલું જરૂર છે, પરંતુ બંધારણીય રીતે તેના માટે એક સ્પષ્ટ અને સુસ્થાપિત પ્રક્રિયા છે. ચાલો જોઈએ કે, કેવી રીતે સ્પીકર સામે અવિશ્વાસ પ્રસ્તાવ લાવવામાં આવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/how-to-remove-lok-sabha-speaker-no-confidence-motion-process-explained-464432 ",
+    "time": "2026-02-09T11:26:58.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "શું પ્રપોઝ ડે બન્યું કારણ? લો કોલેજમાં પહેલા યુવતીની હત્યા અને પછી વિદ્યાર્થીએ પોતે પણ ભર્યું અંતિમ પગલું, Video",
     "desc": "પંજાબના તરન તારનથી એક એવા ચોંકાવનારા સમાચાર આવ્યા છે જેણે દેશમાં ચકચાર મચાવી છે. એક લો કોલેજમાં વિદ્યાર્થીનીની હત્યા કરીને વિદ્યાર્થીએ પોતાની જાતને પણ ગોળી મારી. આ સમગ્ર ઘટના ત્યાંના સીસીટીવી કેમેરામાં કેદ થઈ ગઈ. જાણો શું છે મામલો.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/shocking-incident-of-punjab-taran-taran-is-there-any-valentine-week-angle-464423 ",
-    "time": "2026-02-09T09:56:14.000Z"
+    "time": "2026-02-09T10:05:23.000Z"
   },
   {
     "cat": "Politics",
@@ -316,15 +334,6 @@ const newsData_gu = [
   },
   {
     "cat": "Business",
-    "title": "બજાર ખુલતા જ આજે પણ જબરદસ્ત પછડાયા સોનું-ચાંદી, સસ્તું ગોલ્ડ-સિલ્વર લેવાની શાનદાર તક, આજનો ભાવ જાણો",
-    "desc": "આજે પણ સોના અને ચાંદીના ભાવમાં મોટો ઘટાડો જોવા મળ્યો છે. વાયદા બજાર ખુલતાની સાથે જ આજે સોનું અને ચાંદી વળી પાછા પછડાયા છે. ગઈ કાલે વધારા સાથે ક્લોઝ થયા હતા પરંતુ આજે પાછો ઘટાડો જોવા મળ્યો છે. રિટેલ બજારમા પણ કાલે સોનું ઘટાડા સાથે બંધ થયું હતું. આજનો લેટેસ્ટ ભાવ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-rate-today-silver-rate-crash-check-gold-rate-on-mcx-retail-market-aaj-no-sona-chandi-no-bhav-464093 ",
-    "time": "2026-02-06T06:56:13.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "EMI ઘટવાની અને સસ્તી હોમ લોનની રાહ જોઈને બેઠેલા લોકોને ઝટકો, જાણો નવો રેપો રેટ કેટલો થયો",
     "desc": "રિઝર્વ બેંક ઓફ ઈન્ડિયાના ગવર્નર સંજય મલ્હોત્રાએ આજે નીતિગત દરોની જાહેરાત કરી જેમાં રેપો રેટને જે હતો એ જ એટલે કે યથાવત રાખવામાં આવ્યો છે. તેનો અર્થ એ થયો કે જો તમે ઈએમઆઈ ઘટવાની કે હજુ પણ સસ્તા વ્યાજ દરે લોન મળવાની રાહ જોઈને બેઠા હશો તો તમારે રાહ જોવાનો વારો આવશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -340,15 +349,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/in-which-hospitals-can-you-get-free-treatment-with-the-ayushman-card-check-the-list-for-your-state-and-district-here-464104 ",
     "time": "2026-02-06T05:03:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પ્રોપર્ટી લે-વેચના નિયમમાં મોટો ફેરફાર, સરકારે ફરજિયાત કરી આ વસ્તુ, તેના વગર રજિસ્ટ્રી નહીં થાય",
-    "desc": "હાલ મોંઘવારીના સમયમાં પ્રોપર્ટી ખરીદવી એક મોટો પડકાર બની ગયું છે. આ બધા વચ્ચે ઉત્તર પ્રદેશની સરકારે પ્રોપર્ટી ખરીદી માટે એક નવો આદેશ બહાર પાડ્યો છે. જે મુજબ હવે સંપત્તિ ખરીદ વેચાણ માટે પાન કાર્ડ જરૂરી રહેશે. જાણો વિગતવાર માહિતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/property-news-uttar-pradesh-government-new-rule-pan-card-mandatory-for-property-registry-464091 ",
-    "time": "2026-02-06T03:40:23.000Z"
   },
   {
     "cat": "Sports",
@@ -459,15 +459,6 @@ const newsData_gu = [
     "time": "2026-02-04T11:39:16.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "મહિલા પ્રીમિયર લીગની ફાઇનલમાં દિલ્હી અને બેંગલુરુ વચ્ચે ટક્કર, જાણો ક્યાં જોઈ શકશો લાઇવ",
-    "desc": "સતત ચોથી વખત દિલ્હી કેપિટલ્સ મહિલા પ્રીમિયર લીગની ફાઇનલમાં પહોંચી છે, જ્યાં ટાઇટલ માટે તે રોયલ ચેલેન્જર્સ બેંગ્લોરનો સામનો કરશે. ફાઇનલ ક્યારે અને ક્યાં રમાશે તેમજ તમે ક્યાં લાઇવ જોઈ શકશો તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/wpl-2026-final-royal-challengers-bengaluru-vs-delhi-capitals-when-and-where-to-watch-463933 ",
-    "time": "2026-02-04T10:48:09.000Z"
-  },
-  {
     "cat": "World",
     "title": "ચાપલૂસી પણ કામ ન આવી! ભારતના બેવડા ફટકાથી ધ્રુજી ઉઠ્યું પાકિસ્તાન, અસ્તિત્વ પર તોળાયું જોખમ",
     "desc": "એવી કેટલીક વસ્તુઓ છે જેને લઈને વૈશ્વિક બજારમાં ભારત, પાકિસ્તાન અને બાંગ્લાદેશ વચ્ચે ભારે હરિફાઈ છે. જેમાંની એક છે ટેક્સટાઈલ ઈન્ડસ્ટ્રી. ભારત પર હવે પાકિસ્તાન અને બાંગ્લાદેશ કરતા પણ ઓછો ટેરિફ થતા પાકિસ્તાન તો ભારે પરેશાનીમાં મૂકાયું છે. જાણે અસ્તિત્વ પર સવાલ આવી ગયો છે.",
@@ -484,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/february-best-time-buy-air-conditioner-before-summer-season-463863 ",
     "time": "2026-02-03T14:36:21.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "શું ટ્રમ્પ ભારત-રશિયાના તેલ સોદાને રોકી શકશે? પુતિનની સ્પષ્ટ ચેતવણી, જાણો ભારત પર શું થશે અસર",
-    "desc": "ટ્રમ્પે દાવો કર્યો હતો કે ટેરિફ ઘટાડાના બદલામાં, ભારત રશિયા પાસેથી તેલ ખરીદવાનું બંધ કરશે અને યુનાઇટેડ સ્ટેટ્સ પાસેથી વધુ તેલ ખરીદશે. તેમણે એમ પણ કહ્યું હતું કે ભારત દ્વારા રશિયન તેલ ખરીદવાથી યુક્રેન યુદ્ધમાં પરોક્ષ રીતે રશિયાને મદદ મળી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/russia-first-statement-on-trump-claim-know-the-big-revelation-made-about-relations-with-india-and-oil-purchases-463845 ",
-    "time": "2026-02-03T14:12:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -583,15 +565,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/mardaani-3-film-public-review-mardaani-3-box-office-collection-463391 ",
     "time": "2026-01-30T14:19:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "અનુપમાના &amp;#039;ઘુમા-ઘુમાકર મારુંગી&amp;#039; ડાયલોગથી સોશિયલ મીડિયા પર આવ્યું વાવાઝોડું, તમે પણ ફટાફટ જોઈ લો Video",
-    "desc": "અનુપમા ટીવી સીરિયલમાં એક પછી એક ટ્વિસ્ટ આવતા જ રહે છે. જો કે આ શોની એક મજા છે કે થોડા થોડા સમયે અનુપમાના એવા એવા ડાયલોગ વાયરલ થાય છે કે જેને લઈ સોશિયલ મીડિયા પર રીલ્સનો ટ્રેડ શરુ થાય છે. આવો જ એક ડાયલોગ હાલ ઈંટરનેટ પર છવાયો છે. તો ફટાફટ તમે પણ આ ડાયલોગ સાંભળો. અનુપમાનો આ ડાયલોગ સાંભળી તમારા કાનમાંથી પણ લોહી નીકળી જશે..",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/anupama-dialogue-video-viral-social-media-trend-anupama-new-dialogue-monologue-463366 ",
-    "time": "2026-01-30T10:53:48.000Z"
   },
   {
     "cat": "Tech",
