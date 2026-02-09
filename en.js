@@ -1,12 +1,282 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Himanta's 'point-bank' video row: Owaisi files police compaint against Assam CM, calls it 'genocidal hate speech'",
+    "desc": "AIMIM chief Asaduddin Owaisi has lodged a formal complaint with Hyderabad police. He seeks criminal action against Assam chief minister Himanta Biswa Sarma. This is over a now-deleted video allegedly showing Sarma shooting at Muslims. Owaisi stated genocidal hate speech has become a norm. The complaint cites Sarma's repeated statements targeting the Muslim community.",
+    "img": "https://static.toiimg.com/photo/msid-128108107,imgsize-1283145.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/himantas-point-bank-video-row-owaisi-files-police-compaint-against-assam-cm-calls-it-genocidal-hate-speech/articleshow/128107984.cms",
+    "time": "2026-02-09T09:44:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul’s century powers Karnataka into Ranji Trophy semifinals",
+    "desc": "KL Rahul scored a brilliant century to lead Karnataka to a four-wicket victory against Mumbai. This win secured Karnataka's place in the Ranji Trophy semifinals. Rahul's 130 runs were crucial in chasing down the target. Ravichandran Smaran also played a vital role with an unbeaten 83. Karnataka will now face Uttarakhand in the next round.",
+    "img": "https://static.toiimg.com/photo/msid-128107722,imgsize-70572.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/kl-rahuls-hundred-knocks-mumbai-out-as-karnataka-enter-ranji-trophy-semifinals/articleshow/128107815.cms",
+    "time": "2026-02-09T09:39:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kanpur tobacco baron's son rams locals with speeding Lamborghini — what we know so far",
+    "desc": "Recalling the horror, the eyewitnesses told news agency PTI that the car first hit an autorickshaw and then crashed into a stationary motorcycle, flinging its rider nearly 10 feet into the air. The car mounted the motorcycle's front wheel and dragged it for some distance before hitting an electric pole and coming to a halt.",
+    "img": "https://static.toiimg.com/photo/msid-128107795,imgsize-137416.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kanpur-tobacco-barons-son-rams-locals-with-speeding-lamborghini-what-we-know-so-far/articleshow/128106597.cms",
+    "time": "2026-02-09T09:35:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Aruna Irani confronted Rekha for removing her from a film",
+    "desc": "Veteran actress Aruna Irani revealed that Rekha allegedly got her removed from the film 'Mangalsutra' and had her scenes cut in 'Aurat Aurat Aurat'. Irani confronted Rekha, who admitted to fearing that Irani's strong performance would make her look like a vamp.",
+    "img": "https://static.toiimg.com/photo/msid-128107666,imgsize-50432.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-aruna-irani-confronted-rekha-for-removing-her-from-a-film-ill-start-looking-like-a-vamp/articleshow/128107672.cms",
+    "time": "2026-02-09T09:31:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Scotland crash Italy's T20 World Cup party with emphatic win",
+    "desc": "Scotland secured a dominant 73-run victory over T20 World Cup debutants Italy. George Munsey's explosive 84 laid the foundation, followed by Michael Leask's stellar all-round performance, including a four-wicket haul and a rapid unbeaten cameo. Italy's chase faltered early, despite a fighting fifty from Ben Manenti.",
+    "img": "https://static.toiimg.com/photo/msid-128107173,imgsize-100372.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/scotland-crash-italys-t20-world-cup-party-with-emphatic-win/articleshow/128107069.cms",
+    "time": "2026-02-09T09:16:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. CM Stalin extends free meal scheme to another one lakh conservancy workers in civic bodies",
+    "desc": "The expansion, launched by Chief Minister M.K. Stalin during an event at Polivakkam in Tiruvallur district, would benefit 48,768 workers in 24 Corporations, 29,556 workers in 145 Municipalities, and 21,910 workers in 479 town panchayats",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/s4nwr6/article70609916.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-09%20at%2010.21.04.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-stalin-extends-free-meal-scheme-to-another-one-lakh-conservancy-workers-in-civic-bodies/article70609795.ece",
+    "time": "2026-02-09T09:13:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Lost a bit of power’: Ponting, Shastri on why Babar stands at a crossroads",
+    "desc": "Ricky Ponting and Ravi Shastri are questioning Pakistan's approach to Babar Azam at the T20 World Cup, citing his slow starts and perceived loss of power. Experts suggest a more aggressive batting style and potentially a change in batting order to alleviate pressure on the star batter.",
+    "img": "https://static.toiimg.com/photo/msid-128106840,imgsize-27964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/hes-lost-a-bit-of-his-power-ponting-shastri-on-why-babar-azam-stands-at-a-crossroads-in-t20-world-cup/articleshow/128106647.cms",
+    "time": "2026-02-09T09:06:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Krrish 4' stalled as Hrithik and Aditya at odds over Rs 500 cr",
+    "desc": "Fans face a delay for 'Krrish 4' as Hrithik Roshan and producer Aditya Chopra clash over a Rs. 500 crore budget versus Rs. 350 crore. Hrithik, also directing, aims for international superhero standards, while Chopra prioritizes commercial viability. The project is on hold, with Hrithik exploring other studios and script revisions. Priyanka Chopra Jonas is reportedly returning.",
+    "img": "https://static.toiimg.com/photo/msid-128106259,imgsize-31800.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/krrish-4-stalled-as-hrithik-roshan-and-aditya-chopra-at-odds-over-rs-500-crore-budget-reports/articleshow/128106251.cms",
+    "time": "2026-02-09T08:58:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshaye left Vinod Khanna shocked when he told him he wants to act",
+    "desc": "Akshaye Khanna's acting aspirations were revealed to his father, Vinod Khanna, unexpectedly during a dinner with JP Dutta. Dutta, a close family friend, offered Akshaye a role in 'Border,' a surprise to Vinod Khanna who learned of his son's desire to act then. This led to Vinod Khanna launching Akshaye in 'Himalay Putra' first.",
+    "img": "https://static.toiimg.com/photo/msid-128106489,imgsize-26102.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshaye-khanna-shocked-vinod-khanna-by-telling-him-he-wants-to-be-an-actor-while-leaving-mumbai-for-further-studies/articleshow/128106383.cms",
+    "time": "2026-02-09T08:56:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How Budget 2026 promotes ease of compliance for taxpayers",
+    "desc": "In line with expectations, the new Income Tax Act 2025, which supersedes the long-standing Act of 1961, will now be effective from 1 April 2026. The new Act was drafted with a valiant attempt at simplification of provisions by reducing jargon and using layman language instead for easier comprehension.",
+    "img": "https://static.toiimg.com/photo/msid-128106395,imgsize-44452.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/how-budget-2026-promotes-ease-of-compliance-for-taxpayers/articleshow/128106291.cms",
+    "time": "2026-02-09T08:53:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Tu Yaa Main' OTT release: When and where to watch",
+    "desc": "Get ready for heart-pounding tension when 'Tu Yaa Main' premieres in theaters on February 13, 2026, and later streams on Netflix starting April 10. Directed by the visionary Bejoy Nambiar, this survival thriller stars the dynamic duo Adarsh Gourav and Shanaya Kapoor as they find themselves ensnared by a menacing crocodile.",
+    "img": "https://static.toiimg.com/photo/msid-128106120,imgsize-25310.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tu-yaa-main-ott-release-when-and-where-to-watch-adarsh-gourav-shanaya-kapoor-starrer-after-its-theatrical-run/articleshow/128106120.cms",
+    "time": "2026-02-09T08:49:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ciara and Russell Wilson love to play matchmakers with friends",
+    "desc": "Singer Ciara and her husband, Russell Wilson, have revealed their passion for playing matchmaker for their friends. The beloved couple expressed their joy in helping others find love, stating it brings them happiness. They have a track record of successful pairings, including Normani and DK Metcalf, who are now engaged, and Coco Jones and Donovan Mitchell.",
+    "img": "https://static.toiimg.com/photo/msid-128106040,imgsize-44246.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/ciara-and-russell-wilson-love-playing-matchmakers-we-get-excited-when-we-get-to-help-our-friends-find-love/articleshow/128106040.cms",
+    "time": "2026-02-09T08:46:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'My wife visited Pak for work-related purpose': Congress leader Gaurav Gogoi on Assam CM Himanta Sarma's allegations",
+    "desc": "Assam Congress chief Gaurav Gogoi has strongly denied allegations made by Chief Minister Himanta Biswa Sarma linking him to Pakistan. Gogoi called the claims false and demanded the immediate release of an SIT report to prove his innocence. He accused the Chief Minister of targeting his family and a community.",
+    "img": "https://static.toiimg.com/photo/msid-128104823,imgsize-1400817.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/my-wife-visited-pak-for-work-related-purpose-congress-leader-gaurav-gogoi-on-assam-cm-himanta-sarmas-allegations/articleshow/128104726.cms",
+    "time": "2026-02-09T08:38:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How much 24K, 22K and 18K gold costs today? Check rates for your city",
+    "desc": "Gold experienced significant gains on Monday, reaching Rs 1.57 lakh per 10 grams. This surge was driven by a rebound in global markets, a weaker US dollar, and increased demand for safe-haven assets. Silver also saw substantial increases in futures trading, climbing nearly 5%.",
+    "img": "https://static.toiimg.com/photo/msid-128104531,imgsize-92178.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-today-how-much-24k-22k-and-18k-gold-costs-today-check-rates-for-your-city/articleshow/128104465.cms",
+    "time": "2026-02-09T08:30:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Minions & Monsters’ trailer: Sequel’s first footage and official title revealed at Super Bowl",
+    "desc": "Universal Pictures used the Super Bowl spotlight to reveal the first trailer and official title for the next Minions adventure, confirming the animated sequel will be called ‘Minions & Monsters’ and will hit theatres this summer",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/d0h44s/article70610186.ece/alternates/LANDSCAPE_1200/minions-and-monsters-minion-meets-Cthulhu.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/minions-amp-monsters-trailer-sequels-first-footage-and-official-title-revealed-at-super-bowl/article70610193.ece",
+    "time": "2026-02-09T08:30:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC rejects Kuldeep Singh Sengar’s bail plea, asks Delhi HC for ‘out of turn’ hearing",
+    "desc": "The Supreme Court has directed the Delhi High Court to expedite the hearing of former BJP MLA Kuldeep Singh Sengar's plea for bail and suspension of sentence in the Unnao rape victim's father's custodial death case. This comes after the High Court previously denied him bail in the matter, which stems from a 2018 FIR.",
+    "img": "https://static.toiimg.com/photo/msid-128105182,imgsize-697723.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/unnao-rape-case-sc-rejects-kuldeep-singh-sengars-bail-plea-asks-delhi-hc-for-out-of-turn-hearing/articleshow/128104528.cms",
+    "time": "2026-02-09T08:20:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Supergirl’ teaser: Milly Alcock’s Kara Zor-El meets Krypto for the first time at Super Bowl",
+    "desc": "DC Studios used the Super Bowl stage to debut a new teaser for ‘Supergirl’, offering the clearest look yet at Milly Alcock’s darker, more conflicted take on Kara Zor-El and revealing her early bond with Krypto on Krypton before the planet’s destruction",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/za5wt1/article70610153.ece/alternates/LANDSCAPE_1200/supergirl-milly-alcock.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/supergirl-teaser-milly-alcocks-kara-zor-el-meets-krypto-for-the-first-time-at-super-bowl/article70610160.ece",
+    "time": "2026-02-09T08:17:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Saif said he never forced Amrita to convert to Islam",
+    "desc": "Saif Ali Khan and Amrita Singh's inter-faith marriage in 1991 saw Saif respecting Amrita's religious choices, a principle he extended to their children, Sara and Ibrahim. Despite initial concerns post-divorce regarding their upbringing in Amrita's custody, Saif trusted her to maintain their religious balance. The wedding itself was a unique blend of traditions.",
+    "img": "https://static.toiimg.com/photo/msid-128104954,imgsize-58480.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-saif-ali-khan-revealed-he-never-forced-amrita-singh-to-convert-to-islam-was-concerned-about-kids-sara-ibrahims-faith-after-their-divorce/articleshow/128104469.cms",
+    "time": "2026-02-09T08:14:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Supreme court fixes timelines for bail and anticipatory bail applications",
+    "desc": "The Supreme Court pointed out that, although anticipatory bail under Section 438 CrPC is not a fundamental right but a statutory right, the delay in dispensing bail applications by the courts constitutes a direct implication of Article 21.",
+    "img": "https://static.toiimg.com/photo/msid-128104646,imgsize-116016.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/legal/news/liberty-cannot-be-kept-in-limbo-supreme-court-fixes-timelines-for-bail-and-anticipatory-bail-applications/articleshow/128103326.cms",
+    "time": "2026-02-09T08:04:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Ticked every box’: Gambhir’s bold verdict on Suryakumar’s captaincy",
+    "desc": "Head coach Gautam Gambhir lauded T20I skipper Suryakumar Yadav for his calm leadership, stating the captain's man-management skills have significantly eased the coaching role. Gambhir highlighted Suryakumar's ability to connect with players and foster a relaxed dressing-room atmosphere, emphasizing his effectiveness under pressure and his crucial role in India's campaign.",
+    "img": "https://static.toiimg.com/photo/msid-128104512,imgsize-35288.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ticked-every-box-gautam-gambhirs-bold-verdict-on-suryakumar-yadavs-captaincy/articleshow/128104515.cms",
+    "time": "2026-02-09T08:03:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top 5 movie trailers that dazzled at the Super Bowl 2026",
+    "desc": "Super Bowl 2026 electrified audiences with an array of blockbuster trailers, featuring Ryan Gosling's thrilling role in 'Project Hail Mary' alongside a nostalgic revival of Baby Mario and Luigi in 'The Super Mario Galaxy Movie'.",
+    "img": "https://static.toiimg.com/photo/msid-128104134,imgsize-729257.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/top-5-movie-trailers-that-dazzled-at-the-super-bowl-2026-project-hail-mary-scream-7-and-more/articleshow/128104134.cms",
+    "time": "2026-02-09T07:55:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Okay, alle mone?': Mohanlal wraps up dubbing for 'Patriot'",
+    "desc": "Superstar Mohanlal has finished dubbing his scenes for the much-anticipated Malayalam film ‘Patriot’, featuring Mammootty in the lead. Directed by Mahesh Narayanan, the movie boasts a stellar cast including Nayanthara and Fahadh Faasil, who plays the antagonist. The film is set to hit cinemas worldwide on April 23.",
+    "img": "https://static.toiimg.com/photo/msid-128103676,imgsize-30102.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/okay-alle-mone-mohanlal-wraps-up-dubbing-for-patriot-co-starring-mammootty-and-fahadh-faasil/articleshow/128103676.cms",
+    "time": "2026-02-09T07:48:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "GDP growth at 6.4%! India will continue as fastest G-20 economy; banking sector to remain resilient in FY27",
+    "desc": "India is poised to lead G-20 economic growth, with real GDP projected to expand by 6.4% in fiscal 2026-27. Moody's anticipates a stable banking sector, supported by improving asset quality, strong capital, healthy profits, and ample liquidity. Despite challenges in deposit mobilization, government support will bolster public sector banks.",
+    "img": "https://static.toiimg.com/photo/msid-128103970,imgsize-61610.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gdp-growth-at-6-4-india-will-continue-as-fastest-g-20-economy-banking-sector-to-remain-resilient-in-fy27/articleshow/128101448.cms",
+    "time": "2026-02-09T07:46:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bad Bunny dating timeline",
+    "desc": "​Puerto Rican rapper and singer Bad Bunny, born Benito Antonio Martínez Ocasio, weaves the same heartfelt passion from his trap-reggaeton tracks into his real-life romances. His dating stories hit like a late-night playlist, innocent beginnings, deep trusts, whirlwind thrills, and those honest confessions that make him feel like the friend spilling tea over drinks.​",
+    "img": "https://static.toiimg.com/photo/msid-128103894,imgsize-565385.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bad-bunny-dating-history-from-college-sweethearts-to-gabriela-berlingeri-kendall-jenner-and-2026-super-bowl-rumors/photostory/128103894.cms",
+    "time": "2026-02-09T07:44:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Italy captain injured as T20 WC dream turns sour",
+    "desc": "Italy's T20 World Cup debut was marred by captain Wayne Madsen's serious shoulder injury early in their match against Scotland. While Madsen was sidelined, Scotland's George Munsey smashed 84, guiding them to a formidable 207/4, the tournament's first 200+ score. The extent of Madsen's injury and his future participation remain uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-128103637,imgsize-118478.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/big-blow-for-azzurri-italy-captain-wayne-madsen-injured-as-t20-world-cup-dream-turns-sour/articleshow/128103618.cms",
+    "time": "2026-02-09T07:38:06.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Trump erupts over Bad Bunny’s Super Bowl halftime show: ‘nobody understands a word this guy is saying’",
     "desc": "Bad Bunny headlined the halftime show at Levi’s Stadium in Santa Clara, California, delivering a performance rooted in reggaeton, Latin trap and Caribbean rhythms. The set, which was performed largely in Spanish, celebrated Puerto Rican culture through its music, staging and visuals, and included appearances by Lady Gaga and Ricky Martin",
     "img": "https://th-i.thgim.com/public/incoming/2gn4ek/article70609864.ece/alternates/LANDSCAPE_1200/2026-02-09T062223Z_2058045115_RC21IJA2VKF3_RTRMADP_3_FOOTBALL-NFL-SUPERBOWL.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/trump-erupts-over-bad-bunnys-super-bowl-halftime-show-nobody-understands-a-word-this-guy-is-saying/article70609890.ece",
-    "time": "2026-02-09T06:48:55.000Z"
+    "time": "2026-02-09T07:32:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "6 best shows to watch if you love football",
+    "desc": "​Football has a way of pulling one in-whether it's the loud cheers and roars of the euphoric crowd or the quiet moments of doubt before a big play. This ultimate football binge list features six movies and shows that nail these feelings, blending heart-pounding action with stories that stick with you long after the credits have rolled in. Perfect for a Super Bowl Sunday or to continue the momentum after the Super Bowl Sunday, you can relive the game's magic, from classics to modern dramas without missing a beat. All the six series are available to watch on Netflix.​",
+    "img": "https://static.toiimg.com/photo/msid-128103347,imgsize-825975.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/6-best-football-shows-and-movies-to-watch-where-to-stream-the-ultimate-binge-list-after-super-bowl-2026/photostory/128103347.cms",
+    "time": "2026-02-09T07:27:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar' success on par with 'Sholay', claims producer",
+    "desc": "Producer Jyoti Deshpande confidently proclaimed that 'Dhurandhar 2' is set to outshine its predecessor, which boasted an impressive run of over 60 days and was a box office titan akin to 'Sholay'. The much-anticipated sequel, hitting screens on March 19, 2026, will embrace a multilingual approach, broadening its appeal beyond the original's Hindi-language triumph.",
+    "img": "https://static.toiimg.com/photo/msid-128103212,imgsize-32430.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-producer-compares-the-films-success-to-that-of-sholay-says-there-is-no-greater-accolade-than-this/articleshow/128103212.cms",
+    "time": "2026-02-09T07:26:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vin Diesel reprises ‘Fast and Furious’ role for new roller coaster ride",
+    "desc": "Vin Diesel revs up excitement for the upcoming 'Fast and Furious' installment, hinting at an exhilarating new roller coaster at Universal Studios Hollywood. As fans gear up for the much-anticipated 'Fast Forever,' scheduled for a 2028 release, this installment will shatter records with the longest interval between films.",
+    "img": "https://static.toiimg.com/photo/msid-128102849,imgsize-40644.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/vin-diesel-teases-rollercoaster-ride-and-new-fast-and-furious-film-in-new-super-bowl-2026-event/articleshow/128102849.cms",
+    "time": "2026-02-09T07:15:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "EXCLUSIVE",
+    "desc": "Former Pakistan all-rounder Yasir Arafat, who is currently the bowling coach of the UAE team in the ongoing 2026 T20 World Cup, explains why injuries are increasing among fast bowlers, how the modern calendar impacts recovery, and why there is no single formula for success in T20Is.",
+    "img": "https://static.toiimg.com/photo/msid-128102280,imgsize-65744.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/yasir-arafat-exclusive-former-pakistan-all-rounder-says-emergence-of-ipl-made-cricket-more-lucrative-says-no-fixed-formula-for-t20-success/articleshow/128102197.cms",
+    "time": "2026-02-09T07:06:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Battle of Galwan': Salman Khan films special dance number",
+    "desc": "Salman Khan's 'Battle of Galwan' is reportedly filming a special celebratory song in Gorai and Vile Parle, with shooting concluding by February 12. Pending shoots and Ministry of Defence clearance are causing release date speculation, with Eid being the target, or Independence Day if delayed. The film depicts the 2020 Galwan Valley clash.",
+    "img": "https://static.toiimg.com/photo/msid-128102282,imgsize-33606.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/battle-of-galwan-salman-khan-films-special-dance-sequence-for-the-war-drama-as-postponement-buzz-grows/articleshow/128102282.cms",
+    "time": "2026-02-09T07:01:18.000Z"
   },
   {
     "cat": "Entertainment",
@@ -19,39 +289,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "All you need to know about Bad Bunny",
-    "desc": "Bad Bunny has become a global entertainment icon. He blends trap-reggaeton music with a genuine style. From bagging groceries in Puerto Rico to topping charts and selling out stadiums worldwide, his journey is remarkable. He has also ventured into acting. Bad Bunny represents his homeland and connects with fans through relatable lyrics.",
-    "img": "https://static.toiimg.com/photo/msid-128101332,imgsize-565385.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/from-vega-baja-to-global-icon-bad-bunnys-unstoppable-rise-in-music-culture-and-fame/articleshow/128101349.cms",
-    "time": "2026-02-09T06:34:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "‘Minions &amp; Monsters’ title unveiled for next franchise film",
     "desc": "Super Bowl 2026 witnessed the grand unveiling of the next Minions franchise film, titled 'Minions & Monsters'. A teaser clip showed minions battling Viking actors before pitching their own monster movie. The official trailer reveals their attempt to summon a monster inadvertently frees a scientist who promises to lead them to many, setting the stage for epic chaos.",
     "img": "https://static.toiimg.com/photo/msid-128101208,imgsize-47312.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/new-trailer-for-minions-monsters-unveiled-at-super-bowl-2026-title-and-first-clip-revealed/articleshow/128101208.cms",
     "time": "2026-02-09T06:34:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Aasif Sheikh opened up about his bond with Salman Khan",
-    "desc": "Fun On The Run,' has hit theaters, reigniting discussions about his long-standing friendship with Salman Khan. Since the late 80s, their on-screen chemistry has consistently entertained audiences, and Sheikh takes pride in the unwavering support Khan has provided in helping him land significant roles.",
-    "img": "https://static.toiimg.com/photo/msid-128101102,imgsize-25688.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aasif-sheikh-and-salman-khan-connection-when-bhabiji-ghar-par-hain-film-actor-opened-up-about-his-special-bond-with-superstar/articleshow/128101102.cms",
-    "time": "2026-02-09T06:32:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "A look at Arnold Schwarzenegger’s USD 1.2 billion net worth",
-    "desc": "Arnold Schwarzenegger, the iconic 'Terminator' star, has amassed a staggering USD 1.2 billion net worth through a diverse career. From blockbuster films and bodybuilding to real estate investments and serving as Governor of California, his journey from immigrant to global icon is truly remarkable. His fortune reflects decades of success across multiple industries.",
-    "img": "https://static.toiimg.com/photo/msid-128094545,imgsize-465724.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/arnold-schwarzeneggers-billion-dollar-legacy-a-look-at-his-usd-1-2-billion-net-worth/articleshow/128094545.cms",
-    "time": "2026-02-09T06:30:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -81,15 +324,6 @@ const newsData_en = [
     "time": "2026-02-09T05:58:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kid Rock cancels Anderson stop after artist pullouts in 2026",
-    "desc": "Kid Rock's Rock the Country festival has cancelled its Anderson, South Carolina event. Several major artists, including Shinedown, Creed, and Ludacris, have withdrawn. Organizers cited unforeseen circumstances. Ticketholders will receive refunds. The festival continues with other scheduled dates across the country.",
-    "img": "https://static.toiimg.com/photo/msid-128099880,imgsize-665433.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/kid-rocks-rock-the-country-tour-2026-drops-anderson-date-after-shinedown-creed-and-multiple-artists-pull-out/articleshow/128099877.cms",
-    "time": "2026-02-09T05:55:08.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "PM Modi interacts with students in new episode; stresses on discipline, leadership",
     "desc": "Prime Minister Narendra Modi engaged with students from Coimbatore during Pariksha Pe Charcha, offering advice on discipline, responsible technology use, and the importance of sleep for well-being. He also discussed leadership qualities, emphasizing initiative and clear communication, as part of the 2026 edition aimed at stress-free exams and promoting learning.",
@@ -108,15 +342,6 @@ const newsData_en = [
     "time": "2026-02-09T05:26:18.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "How much Bad Bunny is getting for Super Bowl halftime show",
-    "desc": "The 2026 Super Bowl saw Bad Bunny delivering a breathtaking halftime spectacle that charmed audiences across the globe, but the financial compensation was less than glitzy. In fact, performers typically receive just the union’s minimum rate of about $1,000 per day as the NFL shoulders significant costs for the event.",
-    "img": "https://static.toiimg.com/photo/msid-128098645,imgsize-46044.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/super-bowl-2026-how-much-is-bad-bunny-getting-paid-for-the-halftime-show-the-truth-will-surprise-you/articleshow/128098555.cms",
-    "time": "2026-02-09T05:22:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "For Afghan fans, dream is to host India back home",
     "desc": "Afghanistan skipper Rashid Khan dreams of international cricket returning to his homeland, a sentiment echoed by passionate fans. Despite enduring hardships, Afghans' love for cricket fuels their aspirations. Fans debate whether Rashid or former captain Mohammad Nabi is the greater inspiration, both having significantly impacted the sport's growth in the nation.",
@@ -124,15 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-for-afghan-fans-dream-is-to-host-india-back-home/articleshow/128098666.cms",
     "time": "2026-02-09T05:21:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jaafar Jackson to portray Micheal Jackson in his biopic ‘Micheal’",
-    "desc": "Jaafar Jackson, nephew of the King of Pop, steps into the monumental role of Michael Jackson in the upcoming biopic 'Michael'. With an uncanny resemblance and natural talent, Jaafar embodies his uncle's iconic presence, a decision lauded by director Antoine Fuqua and grandmother Katherine Jackson.",
-    "img": "https://static.toiimg.com/photo/msid-128098317,imgsize-382910.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/jaafar-jackson-steps-into-michael-jacksons-legacy-as-the-next-generation-leads-the-long-awaited-michael-biopic/articleshow/128097909.cms",
-    "time": "2026-02-09T05:10:01.000Z"
   },
   {
     "cat": "Sports",
@@ -153,15 +369,6 @@ const newsData_en = [
     "time": "2026-02-09T04:55:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ranveer says he craves for STILNESS amid Dhurandhar 2 buzz",
-    "desc": "Fresh off 'Dhurandhar's success, Ranveer Singh revealed his craving for stillness amidst stardom's chaos. He seeks moments of calm to reconnect with passions and de-stress, finding liberation in travel's humbling perspective. Meanwhile, 'Dhurandhar 2' promises to explore Hamza's rise and spy origins, with a March 19, 2026 release date.",
-    "img": "https://static.toiimg.com/photo/msid-128097630,imgsize-15654.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-expresses-he-craves-for-stillness-amid-the-buzz-around-dhurandhar-2-says-to-see-the-stress/articleshow/128097630.cms",
-    "time": "2026-02-09T04:51:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Nepal, I offer my services to you': Steyn after their fearless show",
     "desc": "Nepal's valiant effort against England in the T20 World Cup opener, pushing the champions to the final ball, garnered widespread admiration. Former pace great Dale Steyn even offered his services, highlighting Nepal's impressive rise. Despite a narrow four-run loss, Nepal's courageous chase and spirited performance have captured global attention.",
@@ -171,15 +378,6 @@ const newsData_en = [
     "time": "2026-02-09T04:44:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Charlie Puth performs National Anthem",
-    "desc": "At Levi's Stadium for Super Bowl LX, Charlie Puth stole the show with his moving interpretation of the American National Anthem. His heartfelt performance, backed by a vibrant band and a spirited choir, resonated with fans online, who lauded it as \"the quintessential anthem experience.",
-    "img": "https://static.toiimg.com/photo/msid-128096647,imgsize-843281.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/charlie-puth-performs-national-anthem-at-super-bowl-2026-wins-fans-praise-watch/articleshow/128096647.cms",
-    "time": "2026-02-09T04:22:57.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Italy eye bold start to journey in big league",
     "desc": "Italy's cricket team is making its T20 World Cup debut against Scotland at Eden Gardens, a moment skipper Wayne Madsen admits will bring nerves. Despite playing on artificial wickets back home, the Italians are confident after winning practice matches. Coach John Davison noted the good batting pitch, a contrast to their usual surfaces.",
@@ -187,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-italy-eye-bold-start-to-journey-in-big-league/articleshow/128096194.cms",
     "time": "2026-02-09T04:02:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Drake bets USD 1 million on Patriots to win Super Bowl LX",
-    "desc": "In a jaw-dropping gamble, music icon Drake has wagered an astonishing $1 million on the New England Patriots to triumph over the Seattle Seahawks in Super Bowl LX. This audacious bet brings back the humorous 'Drake curse' meme, suggesting that his support tends to jinx teams.",
-    "img": "https://static.toiimg.com/photo/msid-128095777,imgsize-31844.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/super-bowl-2026-drake-bets-usd-1-million-on-patriots-to-win-super-bowl-lx-fans-go-beserk-over-drake-curse/articleshow/128095755.cms",
-    "time": "2026-02-09T03:56:06.000Z"
   },
   {
     "cat": "Business",
@@ -216,15 +405,6 @@ const newsData_en = [
     "time": "2026-02-09T03:45:28.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Aamir gets SLAMMED by film distributor for THIS reason",
-    "desc": "Aamir Khan recently made headlines by calling for a surge in Indian cinema screens, highlighting the impressive performance of 'Dhurandhar' and contrasting India's 9,000 screens with China's impressive 100,000. Despite this, film distributor Akkshay Rathie voiced concerns, asserting that merely increasing the number of screens wouldn’t ensure success.",
-    "img": "https://static.toiimg.com/photo/msid-128095686,imgsize-23622.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-gets-slammed-by-film-distributor-for-suggesting-india-needs-more-theaters-which-of-your-last-releases-warranted/articleshow/128095686.cms",
-    "time": "2026-02-09T03:43:29.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Single vs family cost of living in 2026 UAE emirate",
     "desc": "Dubai offers a vibrant life but demands a significant income. How much money do single individuals need monthly for comfort? How much money do couples and families require given that rent, education and daily expenses are key cost drivers? Tax-free salaries are offset by high living costs, making careful budgeting crucial for a stress-free life in Dubai.",
@@ -232,24 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/world/middle-east/minimum-salary-needed-to-live-in-dubai-single-vs-family-cost-of-living-in-2026-uae-emirate/articleshow/128093905.cms",
     "time": "2026-02-09T03:34:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "New trailer for ‘Disclosure Day’ out now",
-    "desc": "During the electrifying Super Bowl 2026, audiences were treated to a thrilling glimpse of Steven Spielberg's forthcoming sci-fi masterpiece, 'Disclosure Day.' With Emily Blunt and Josh O’Connor taking the lead, this film delves into humanity's first encounter with extraterrestrial beings, raising urgent questions about secrecy and the quest for truth.",
-    "img": "https://static.toiimg.com/photo/msid-128095421,imgsize-23188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/super-bowl-2026-new-trailer-drops-for-steven-spielbergs-disclosure-day-watch/articleshow/128095421.cms",
-    "time": "2026-02-09T03:30:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kaley Cuoco divorce story shows strength behind the spotlight",
-    "desc": "Actress Kaley Cuoco candidly revealed the profound emotional toll of her divorce from Karl Cook, describing hitting 'rock bottom' amidst intense sadness and feeling overwhelmed. Despite the painful separation, the couple maintained respect, amicably resolving their divorce and continuing to share their love for horses. Cuoco has since found happiness and welcomed a daughter.",
-    "img": "https://static.toiimg.com/photo/msid-128095405,imgsize-889827.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kaley-cuoco-opens-up-about-heartbreak-and-hitting-rock-bottom-after-divorce-peek-inside-her-emotional-journey/articleshow/128095386.cms",
-    "time": "2026-02-09T03:27:23.000Z"
   },
   {
     "cat": "Business",
@@ -268,24 +430,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/science/budget-could-cut-reliance-on-foreign-telescope-trips-on-space-spending/article70607109.ece",
     "time": "2026-02-09T03:21:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chris Pratt and son Jack Pratt announce Seattle Seahawks",
-    "desc": "Hollywood star Chris Pratt and his son Jack made a memorable appearance at the Super Bowl LX, announcing the Seattle Seahawks. Pratt, a lifelong fan from Washington, shared the heartwarming moment with his son, showcasing a blend of family and fandom.",
-    "img": "https://static.toiimg.com/photo/msid-128095131,imgsize-36468.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/super-bowl-2026-chris-pratt-and-son-jack-pratt-appear-to-announce-the-seattle-seahawks/articleshow/128095086.cms",
-    "time": "2026-02-09T03:17:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Battle Of Galwan' postponed; to release on I-Day 2026",
-    "desc": "Salman Khan's upcoming action-packed saga, 'Battle of Galwan,' has shifted its release date from April 17 to August 14, 2026, aligning with India's Independence Day celebrations. This clever timing aims to enhance the film's patriotic themes. As filming nears completion by the end of February, the team is gearing up for a meticulous editing phase ahead of the premiere.",
-    "img": "https://static.toiimg.com/photo/msid-128094695,imgsize-137650.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-battle-of-galwan-postponed-set-to-release-in-cinemas-on-independence-day-2026/articleshow/128094695.cms",
-    "time": "2026-02-09T03:08:06.000Z"
   },
   {
     "cat": "Sports",
@@ -349,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/watch-team-india-visits-gautam-gambhirs-residence-for-dinner-amid-t20-world-cup-campaign/articleshow/128079460.cms",
     "time": "2026-02-09T00:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Border 2 box office Day 17, Day 18 LIVE: Film crosses Rs 309 cr",
-    "desc": "In a remarkable turn of events, Sunny Deol's 'Border 2' has shattered expectations by crossing the coveted Rs 300 crore milestone in India, amassing a staggering Rs 309.4 crore by its third Sunday. After a lukewarm opening, the film caught fire on Republic Day, captivating audiences across the nation. With a total worldwide collection of Rs 422.",
-    "img": "https://static.toiimg.com/photo/msid-128090197,imgsize-67478.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-17-and-day-18-live-sunny-deol-and-varun-dhawan-starrer-sees-growth-crosses-rs-309-crore/articleshow/128090197.cms",
-    "time": "2026-02-08T23:50:04.000Z"
   },
   {
     "cat": "Politics",
@@ -468,33 +603,6 @@ const newsData_en = [
     "time": "2026-02-08T20:16:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Electronics output up 6-fold, exports 8-fold in 11 yrs: Govt",
-    "desc": "India's electronics manufacturing has surged six-fold in production and eight-fold in exports over 11 years, making it the world's second-largest mobile phone maker. Driven by the production-linked incentive scheme, mobile production alone saw a more than 100-fold export increase, transforming India into a net exporter.",
-    "img": "https://static.toiimg.com/photo/msid-128084639,imgsize-963619.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/electronics-output-up-6-fold-exports-8-fold-in-11-yrs-govt/articleshow/128084651.cms",
-    "time": "2026-02-08T20:11:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Trade deal will give new wings to farmers' dreams: Shivraj Singh Chouhan",
-    "desc": "Union Agriculture Minister Shivraj Singh Chouhan stated that the India-US interim trade deal will empower farmers, with key agricultural products like major grains, fruits, and dairy remaining secure from US imports. He asserted that the agreement protects farmers' interests and will boost Indian exports, particularly in textiles.",
-    "img": "https://static.toiimg.com/photo/msid-128084502,imgsize-863425.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/trade-deal-will-give-new-wings-to-farmers-dreams-shivraj-singh-chouhan/articleshow/128084506.cms",
-    "time": "2026-02-08T20:05:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nayara's future unsure: India may bargain with US for Russian crude",
-    "desc": "US President Trump's threat of a 25% \"penalty\" on Indian crude imports casts a shadow over the Nayara refinery, majority-owned by Russia's Rosneft. This situation fuels speculation about a change in ownership, as prospective buyers may be deterred by US sanctions.",
-    "img": "https://static.toiimg.com/photo/msid-128084426,imgsize-1116592.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nayaras-future-unsure-india-may-bargain-with-us-for-russian-crude/articleshow/128084437.cms",
-    "time": "2026-02-08T20:01:16.000Z"
-  },
-  {
     "cat": "Business",
     "title": "With Kotak Bank not in IDBI fray, eyes on foreign suitors",
     "desc": "Kotak Bank has denied media reports of submitting a financial bid for IDBI Bank, ruling itself out of the acquisition race. This development shifts focus to foreign bidders like Fairfax India and Emirates NBD, as the government aims to complete the sale by FY26. Valuation concerns are cited as a potential reason for Kotak's withdrawal.",
@@ -531,60 +639,6 @@ const newsData_en = [
     "time": "2026-02-08T19:22:27.000Z"
   },
   {
-    "cat": "Business",
-    "title": "As sentiment improves, SBI raises credit growth target",
-    "desc": "State Bank of India has boosted its credit growth forecast to 13-15% for the fiscal year, citing strong momentum and broad-based growth across retail, agriculture, SME, and corporate segments. The bank reported a record quarterly profit of Rs 21,028 crore, driven by diverse income streams and efficient cost management.",
-    "img": "https://static.toiimg.com/photo/msid-128083457,imgsize-884034.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/as-sentiment-improves-sbi-raises-credit-growth-target/articleshow/128083465.cms",
-    "time": "2026-02-08T19:19:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Performance-based incentives for EPFO managers in works",
-    "desc": "EPFO is considering performance-linked incentives for fund managers, allocating more to those delivering better returns. This move, part of a new benchmark methodology for debt investments, aims to diversify equity investments beyond index ETFs. The organization manages assets worth Rs 30 lakh crore and will discuss these proposals soon.",
-    "img": "https://static.toiimg.com/photo/msid-128083350,imgsize-823853.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/performance-based-incentives-for-epfo-managers-in-works/articleshow/128083312.cms",
-    "time": "2026-02-08T19:15:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Tariff-ied? No more! Exporters look to encash duty advantage",
-    "desc": "Indian exporters, particularly in food and textiles, are cautiously optimistic following a US tariff reduction from 50% to 18%. While some faced significant losses and discounts, the revised trade deal offers a historic opportunity for increased exports and job security. Companies are now focused on rebuilding buyer relationships and exploring new market advantages.",
-    "img": "https://static.toiimg.com/photo/msid-128083172,imgsize-947910.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/tariff-ied-no-more-exporters-look-to-encash-duty-advantage/articleshow/128082963.cms",
-    "time": "2026-02-08T19:08:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Dalal-Steet likely to cheer trade deal progress",
-    "desc": "Dalal Street anticipates a strong opening on Monday as the US-India trade deal nears completion. Positive sentiment is fueled by Gift Nifty's rise and recent constructive developments, including agreement on bilateral trade areas. Analysts foresee increased exports, job creation, and potential foreign investment, boosting market confidence after a volatile week.",
-    "img": "https://static.toiimg.com/photo/msid-128082521,imgsize-957154.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/dalal-steet-likely-to-cheer-trade-deal-progress/articleshow/128082478.cms",
-    "time": "2026-02-08T18:48:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Young J&amp;K MLA draws praise from across the aisle for House speech",
-    "desc": "A young BJP legislator, Devyani Singh Rana, earned cross-party praise for her focused budget speech in the J&K Assembly. She highlighted critical issues like electricity shortages, climate vulnerabilities, and under-spending in education and disaster management, urging for stronger measures. Her pragmatic approach to budgetary concerns resonated with members from all parties.",
-    "img": "https://static.toiimg.com/photo/msid-128099481,imgsize-1239078.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/young-jk-mla-draws-praise-from-across-the-aisle-for-house-speech/articleshow/128081626.cms",
-    "time": "2026-02-08T18:20:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Highway builders seek PM’s intervention on PPP project timelines, arbitration curbs",
-    "desc": "Highway builders are urging Prime Minister Modi to revisit tight construction deadlines for major PPP projects, citing execution challenges and the risk of prolonged court battles due to restricted arbitration. The National Highways Builders Federation warns that current dispute resolution changes could hinder project completion and encourage litigation over actual construction, impacting the PPP highway program's goals.",
-    "img": "https://static.toiimg.com/photo/msid-128081323,imgsize-578613.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/highway-builders-seek-pms-intervention-on-ppp-project-timelines-arbitration-curbs/articleshow/128081119.cms",
-    "time": "2026-02-08T18:11:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Siraj — swinging back into India’s T20 blueprint",
     "desc": "It took a little while for the Hyderabad pacer to reconcile to the fact that he was no longer in the scheme of things in the shortest format; the injury to Harshit earned him a late call-up to the World Cup squad and within minutes of taking the field against USA, he made an impression",
@@ -594,24 +648,6 @@ const newsData_en = [
     "time": "2026-02-08T18:08:04.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Dhakshineswar Suresh scripts Davis Cup heroics as India stun Netherlands 3-2",
-    "desc": "Dhakshineswar Suresh emerged as India's Davis Cup hero, securing a thrilling 3-2 victory against the Netherlands. The 25-year-old clinched the decisive fifth rubber, marking his second Davis Cup appearance with a remarkable three-win haul. This historic win propels India into Qualifiers Round 2, their first since the format's revamp.",
-    "img": "https://static.toiimg.com/photo/msid-128080659,imgsize-120430.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/dhakshineswar-suresh-scripts-davis-cup-heroics-as-india-stun-netherlands-3-2/articleshow/128080706.cms",
-    "time": "2026-02-08T17:59:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lanka's spin web and Kamindu Mendis power 20-run win over Ireland",
-    "desc": "Sri Lanka launched their T20 World Cup campaign with a 20-run victory over Ireland. Kamindu Mendis starred with an unbeaten half-century, guiding Sri Lanka to 163. Ireland faltered in their chase, with spinners Maheesh Theekshana and Wanindu Hasaranga taking three wickets each, restricting the visitors to 143 and securing a dominant win.",
-    "img": "https://static.toiimg.com/photo/msid-128080193,imgsize-174490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-sri-lankas-spin-web-and-kamindu-mendis-power-20-run-win-over-ireland/articleshow/128080089.cms",
-    "time": "2026-02-08T17:46:37.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Biotechnology to steer accelerated green growth of the future, say experts",
     "desc": "At the webinar presented by the Vellore Institute of Technology (VIT), Chennai, and The Hindu, the speakers underlined that biotechnology is the sunrise sector in India, set to accelerate industrial growth, and thus emerges as an impactful career choice",
@@ -619,24 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/chennai/biotechnology-to-steer-accelerated-green-growth-of-the-future-say-experts/article70607509.ece",
     "time": "2026-02-08T16:44:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Namibia bank on experience of India's World Cup-winning coach",
-    "desc": "Namibia are banking on the experience of 2011 World Cup-winning coach Gary Kirsten as they prepare for their fourth straight T20 World Cup. With Kirsten on board as a consultant, the Gerhard Erasmus-led side has begun preparations in Delhi, focusing on conditions, range-hitting, and adapting to the conditions ahead of their tournament opener against the Netherlands.",
-    "img": "https://static.toiimg.com/photo/msid-128077810,imgsize-58074.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-namibia-bank-on-experience-of-indias-2011-world-cup-winning-coach-gary-kirsten/articleshow/128077506.cms",
-    "time": "2026-02-08T16:34:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Stay strong': Nadal reacts after Vonn airlifted following horrific crash",
-    "desc": "Rafael Nadal sent support to Lindsey Vonn after her shocking crash in the Winter Olympics downhill event, calling her an inspiration and urging her to stay strong. Vonn was injured just seconds into her run and taken to hospital by helicopter. Teammate Breezy Johnson won gold but expressed concern for Vonn, while her sister called the crash heartbreaking. Vonn had been attempting a comeback despite a ruptured ACL.",
-    "img": "https://static.toiimg.com/photo/msid-128077551,imgsize-39066.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/stay-strong-rafael-nadal-reacts-after-lindsey-vonn-airlifted-following-horrific-winter-olympics-crash/articleshow/128077016.cms",
-    "time": "2026-02-08T16:19:06.000Z"
   },
   {
     "cat": "Politics",
@@ -666,15 +684,6 @@ const newsData_en = [
     "time": "2026-02-08T15:44:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Bird flu confirmed in two villages of Annamayya district in Andhra Pradesh",
-    "desc": "Department of Animal Husbandry deploys Rapid Response Teams, begins culling operations in accordance with the Standard Operating Procedures; there is no need to panic, and consumption of properly cooked poultry meat and eggs is safe, it says",
-    "img": "https://th-i.thgim.com/public/incoming/a6e9b1/article70608163.ece/alternates/LANDSCAPE_1200/07GNRAO-BIRD.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/bird-flu-confirmed-in-two-villages-of-annamayya-district-in-andhra-pradesh/article70607915.ece",
-    "time": "2026-02-08T15:07:00.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.K. foreign office to review pay-off to Epstein-linked U.S. envoy",
     "desc": "Former U.S. envoy Peter Mandelson received an estimated pay-out of between £38,750 and £55,000 ($52,000 and $74,000) after only seven months in the job as British ambassador to the United States, according to a report in the Sunday Times",
@@ -682,15 +691,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/uk-foreign-office-to-review-pay-off-to-epstein-linked-us-envoy/article70607841.ece",
     "time": "2026-02-08T14:19:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'They pushed us right to the edge': Brook stunned as Nepal shake England",
-    "desc": "England narrowly defeated Nepal by four runs in their T20 World Cup opener, a match that saw the associate nation push the former champions to the brink. Captain Harry Brook expressed surprise at Nepal's aggressive batting against spinner Adil Rashid. Nepal skipper Rohit Paudel lauded his team's effort, stating they aimed to compete strongly and weren't just participating.",
-    "img": "https://static.toiimg.com/photo/msid-128073766,imgsize-118616.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/they-pushed-us-right-to-the-edge-harry-brook-stunned-as-nepal-shake-england-in-dramatic-world-cup-clash/articleshow/128073822.cms",
-    "time": "2026-02-08T14:10:24.000Z"
   },
   {
     "cat": "World",
@@ -891,12 +891,12 @@ const newsData_en = [
     "time": "2026-02-06T17:09:15.000Z"
   },
   {
-    "cat": "World",
-    "title": "African Union says M23 Congo airport attack may be 'terrorism'",
-    "desc": "The African Union said the \"attack, directed against an airport infrastructure located in a major urban centre and gravely endangering civilian populations, constitutes a serious violation of international humanitarian law\", in a statement on X.",
-    "img": "https://th-i.thgim.com/public/incoming/fzjy0n/article70601200.ece/alternates/LANDSCAPE_1200/AFP_93LT6KF.jpg",
+    "cat": "Entertainment",
+    "title": "Elton John accuses U.K. tabloids publisher of 'abhorrent' privacy breaches",
+    "desc": "I have found The Mail's deliberate invasion into my medical health and medical details surrounding the birth of our son Zachary abhorrent and outside even the most basic standards of human decency, Elton John wrote in a witness statement.",
+    "img": "https://th-i.thgim.com/public/incoming/jyzpe5/article70600826.ece/alternates/LANDSCAPE_1200/2026-02-06T115742Z_702179009_RC2E5DA1YMT4_RTRMADP_3_BRITAIN-COURT-HARRY-FURNISH.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/african-union-says-m23-congo-airport-attack-may-be-terrorism/article70601188.ece",
-    "time": "2026-02-06T15:32:40.000Z"
+    "url": "https://www.thehindu.com/entertainment/elton-john-accuses-uk-tabloids-publisher-of-abhorrent-privacy-breaches/article70600789.ece",
+    "time": "2026-02-06T14:29:52.000Z"
   }
 ];

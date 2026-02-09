@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "શું પ્રપોઝ ડે બન્યું કારણ? લો કોલેજમાં પહેલા યુવતીની હત્યા અને પછી વિદ્યાર્થીએ પોતે પણ ભર્યું અંતિમ પગલું, Video",
+    "desc": "પંજાબના તરન તારનથી એક એવા ચોંકાવનારા સમાચાર આવ્યા છે જેણે દેશમાં ચકચાર મચાવી છે. એક લો કોલેજમાં વિદ્યાર્થીનીની હત્યા કરીને વિદ્યાર્થીએ પોતાની જાતને પણ ગોળી મારી. આ સમગ્ર ઘટના ત્યાંના સીસીટીવી કેમેરામાં કેદ થઈ ગઈ. જાણો શું છે મામલો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/shocking-incident-of-punjab-taran-taran-is-there-any-valentine-week-angle-464423 ",
+    "time": "2026-02-09T09:56:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભારત-US ટ્રેડ ડીલમાં 45288220000000 રૂપિયાવાળી ડોનાલ્ડ ટ્રમ્પની એ કઈ &amp;#039;શરત&amp;#039; છે?...શું કહે છે સરકાર",
+    "desc": "જ્યારેથી ભારત અને અમેરિકા વચ્ચે ટ્રેડ ડીલ ફાઈનલ થઈ ગઈ છે ત્યારથી તેની વિગતો ખુબ ચર્ચામાં છે. માત્ર ભારતમાં જ નહીં પરંતુ વૈશ્વિક સ્તરે આ ટ્રેડ ડીલ ચર્ચામાં છે. જો કે સૌથી વધુ જો ધ્યાન ગયું હોય તો તે 45288220000000 રૂપિયાવાળી એ વાત છે જેના વિશે શું ચર્ચા થઈ રહી છે તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/india-us-trade-deal-piyush-goyal-talks-over-500-usd-billion-figure-mentioned-in-agreement-464417 ",
+    "time": "2026-02-09T08:52:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વેકેશન પર જવાનો હતો સિરાજ, પછી એક ફોન આવ્યો અને મચાવી ધમાલ",
+    "desc": "ટી20 વિશ્વકપ 2026મા ભારતીય ટીમે પોતાની પ્રથમ મેચમાં અમેરિકાને 29 રને હરાવ્યું પરંતુ આ જીત મુશ્કેલથી ટીમને મળી છે. ભારતની જીતમાં સિરાજની મહત્વની ભૂમિકા રહી, જેને હર્ષિત રાણા ઈજાગ્રસ્ત થતાં ટીમમાં સામેલ કરવામાં આવ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/siraj-reveals-his-plan-to-watch-football-match-before-team-india-called-for-t20-world-cup-ind-usa-464278 ",
+    "time": "2026-02-09T08:09:32.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "અસલ રંગ દેખાડી દીધો પાકિસ્તાને, ભારત સામે મેચ રમવા માટે મૂકી 3 શરત, કોણ માનશે?",
     "desc": "ટી20 વર્લ્ડ કપ શરૂ થઈ ગયો છે પરંતુ હજુ પણ ભારત અને પાકિસ્તાન વચ્ચે મેચ રમાશે કે નહીં તેના પર મોટું પ્રશ્નાર્થ ચિન્હ જોવા મળી રહ્યું છે. આ બધા વચ્ચે એવા રિપોર્ટ્સ છે કે પાકિસ્તાન આ મેચ રમવા માટે કેટલીક શરતો મૂકી છે. જો આ શરતો માનવામાં આવે તો તે ભારત સામે મેચ રમવા માટે તૈયાર છે. જાણો શું છે વિગતો.",
@@ -79,15 +106,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/ibja-rates-gold-around-24000-rs-and-silver-1-41-lakh-cheaper-than-all-time-high-sona-chandi-no-latest-bhav-464280 ",
     "time": "2026-02-08T03:58:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વેકેશન પર જવાનો હતો સિરાજ, પછી એક ફોન આવ્યો અને મચાવી ધમાલ",
-    "desc": "ટી20 વિશ્વકપ 2026મા ભારતીય ટીમે પોતાની પ્રથમ મેચમાં અમેરિકાને 29 રને હરાવ્યું પરંતુ આ જીત મુશ્કેલથી ટીમને મળી છે. ભારતની જીતમાં સિરાજની મહત્વની ભૂમિકા રહી, જેને હર્ષિત રાણા ઈજાગ્રસ્ત થતાં ટીમમાં સામેલ કરવામાં આવ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/siraj-reveals-his-plan-to-watch-football-match-before-team-india-called-for-t20-world-cup-ind-usa-464278 ",
-    "time": "2026-02-08T03:29:54.000Z"
   },
   {
     "cat": "Entertainment",
@@ -342,15 +360,6 @@ const newsData_gu = [
     "time": "2026-02-05T18:04:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "હિમાચલના પહાડો પર જોવા મળ્યો દુર્લભ નજારો, મનાલીમાં બરફ વચ્ચે મોર એન્ટ્રીથી પર્યાવરણવિદોમાં વધી ચિંતા",
-    "desc": "હિમાચલ પ્રદેશમાં મનાલી પાસે બરફથી ઢંકાયેલા ઊંચા પહાડો પર મોર જોવા મળતા પ્રવાસીઓ હેરાન થઈ ગયા છે. વન વિભાગે પણ આ વાતની પુષ્ટિ કરી છે. સામાન્ય રીતે નીચાણવાળા ગરમ વિસ્તારોમાં જોવા મળતા મોરની આ ક્ષેત્રમાં હાજરી જોઈને વન અધિકારીઓ પણ હેરાન છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/peacock-spotted-snowy-mountains-manali-climate-change-himachal-464070 ",
-    "time": "2026-02-05T16:55:50.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "હ્યુન્ડાઇએ આ કારની કિંમત ઘટાડીને ₹5.99 લાખ કરી, આટલી સસ્તી પહેલા ક્યારેય નહોતી, 6 એરબેગ્સ, સનરૂફ, બધું જ મળશે",
     "desc": "2026 Hyundai આ કાર ભારતમાં લોન્ચ કરવામાં આવી છે. કંપનીએ તેની શરૂઆતની કિંમત માત્ર ₹5.99 લાખ (એક્સ-શોરૂમ) રાખી છે. તે 6 એરબેગ્સ અને સનરૂફ સહિત અનેક જોરદાર સુવિધાઓ પ્રદાન કરે છે. ચાલો તેની વિગતો વિગતવાર જોઈએ.",
@@ -358,15 +367,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/hyundai-has-reduced-the-price-of-this-car-to-rs-5-99-lakh-you-will-get-6-airbags-sunroof-everything-464066 ",
     "time": "2026-02-05T14:40:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "અંડરગાર્મેન્ટમાં સ્પર્મ અને પ્રાઈવેટ પાર્ટ પર... NEET વિદ્યાર્થીનીની ડાયરીએ ખોલ્યા ઊંડા રહસ્યો, વારંવાર લખ્યું &amp;#039;આઈ એમ અલોન&amp;#039;",
-    "desc": "પરીક્ષાની તૈયારી કરતી વિદ્યાર્થીના મોત મામલે નવા ખુલાસા થઈ રહ્યા છે, તેની ડાયરીમાં લખેલા શબ્દો તેની માનસિક સ્થિતિ વિશે અવગત કરાવે છે. જો કે વિદ્યાર્થીનીના કપડા પર સ્પમના ડાઘ મળતા 18 લોકોના સેમ્પલ લેવામાં આવ્યા હતા. પોલીસે પહેલા આત્મહત્યાનો કેસ કહી ફગાવી દીધો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/sperm-in-underwear-and-on-private-parts-neet-student-diary-reveals-deep-secrets-repeatedly-wrote-i-am-alone-464064 ",
-    "time": "2026-02-05T14:13:12.000Z"
   },
   {
     "cat": "World",
@@ -466,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/wpl-2026-final-royal-challengers-bengaluru-vs-delhi-capitals-when-and-where-to-watch-463933 ",
     "time": "2026-02-04T10:48:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "રોહિત અને વિરાટે 2027નો વર્લ્ડ કપ રમવો જોઈએ ? જાણો શું કહ્યું MS ધોનીએ",
-    "desc": "રોહિત શર્મા અને વિરાટ કોહલી હવે ફક્ત ODI ફોર્મેટમાં રમે છે અને આંતરરાષ્ટ્રીય ક્રિકેટમાં તેમના ભવિષ્ય પર બધાની નજર છે. ચાહકો તેમને 2027 ODI વર્લ્ડ કપમાં રમતા જોવા માંગે છે. હવે એમએસ ધોનીએ આ વિષય પર વાત કરી છે અને જણાવ્યું છે કે શું બંનેએ આગામી વર્લ્ડ કપમાં રમવું જોઈએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ms-dhoni-statement-virat-kohli-rohit-sharma-should-play-world-cup-2027-463929 ",
-    "time": "2026-02-04T09:01:36.000Z"
   },
   {
     "cat": "World",

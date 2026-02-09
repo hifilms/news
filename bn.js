@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "শহরে খুকু আসছেন! রেডিওর নস্টালজিয়া ও এক গুচ্ছ বাংলা গান নিয়ে মঞ্চে শ্রাবন্তী মজুমদার...",
+    "desc": "আগামী ১৫ ফেব্রুয়ারি কলকাতার কলা মন্দিরে অনুষ্ঠিত হতে চলেছে কিংবদন্তি শিল্পী শ্রাবন্তী মজুমদারের একক অনুষ্ঠান \"আয় খুকু আয়\"। জনপ্রিয় এই গানের ৫০ বছর পূর্তি উপলক্ষে আয়োজিত এই সন্ধ্যায় তাঁর সঙ্গে আলাপচারিতায় থাকবেন শিল্পী শ্রীকান্ত আচার্য।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/khuku-returns-to-the-city-sravanti-mazumdar-brings-radio-nostalgia-and-a-bouquet-of-bengali-songs-on-stage_640290.html ",
+    "time": "2026-02-09T08:49:28.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "এই সময়ে উড়ে যাবে এই এই স্কুল! টার্গেট সংসদ ভবনও! ইমেল পেতেই সাতসকালে শহরজুড়ে আতঙ্কের হাওয়া...",
     "desc": "৯টি নামকরা স্কুলে ইমেল মারফত বোমার হুমকি দেওয়া হয়েছে, যেখানে দুপুর ১:১১ মিনিটে বিস্ফোরণ এবং আগামী ১৩ ফেব্রুয়ারি সংসদ ভবনে হামলার হুঁশিয়ারি দেওয়া হয়। খবর পাওয়ার পর পুলিস ও বম্ব স্কোয়াড দ্রুত স্কুলগুলো খালি করে তল্লাশি শুরু করেছে।",
@@ -214,15 +223,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/arijit-singh-arijit-singh-records-for-uttaran-as-aamir-khan-wraps-up-jiaganj-visit-l18-rm-local18-2528922.html",
     "time": "2026-02-06T12:02:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'মাফ করে দিও, পারলাম না'! ৯ তলার ছাদে অনেকক্ষণ দাঁড়িয়ে থেকে শূন্যে লাফ IIT-র মেধাবী নমনের...",
-    "desc": "হস্টেলের নয় তলা ঝাঁপ দিয়ে আত্মঘাতী আইআইটি পড়ুয়া। পুলিস তাঁর ঘর থেকে একটি সুইসাইড নোট উদ্ধার করেছে এবং সিসিটিভি ফুটেজে তাকে আত্মহত্যার আগে ছাদে অপেক্ষা করতে দেখা গিয়েছে। পড়াশোনায় ভালো হওয়া সত্ত্বেও ওই তরুণ দীর্ঘদিন ডিপ্রেশনে ভুগছিলেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/iit-bombay-student-dies-by-took-extreme-step-21-year-old-from-hostel-terrace_639901.html ",
-    "time": "2026-02-06T11:01:35.000Z"
   },
   {
     "cat": "Business",

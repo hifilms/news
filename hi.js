@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Nothing to offer but...': ICC shoots down Pakistan's demands amid India boycott row in T20 World Cup 2026",
+    "desc": "The impasse between the International Cricket Council (ICC), Pakistan Cricket Board (PCB) and the Bangladesh Cricket Board (BCB) continues as Pakistan have decided to boycott the marquee clash against arch-rivals India. With only six days...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nothing-to-offer-but-icc-shoots-down-pakistan-s-demands-amid-india-boycott-row-in-t20-world-cup-2026-2026-02-09-1029504",
+    "time": "2026-02-09T09:47:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Getting back to what I love'",
+    "desc": "Indian fast bowling all-rounder Harshit Rana shared a major update on his knee injury as he confirmed that he underwent surgery for the knee injury he suffered in the build-up to the T20 World Cup...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harshit-rana-shares-major-update-on-knee-surgery-getting-back-to-what-i-love-2026-02-09-1029503",
+    "time": "2026-02-09T09:41:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Zimbabwe opt to bowl in their opener against Oman",
+    "desc": "Zimbabwe begin their T20 World Cup 2026 campaign against Oman at the Sinhalese Sports Club, Colombo, with plenty at stake for both sides in Group B. After winning the toss, Zimbabwe opted to bowl first,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/zim-vs-oma-t20-world-cup-2026-live-cricket-score-zimbabwe-vs-oman-sinhalese-sports-club-colombo-latest-match-updates-scorecard-teams-playing-xis-2026-02-09-1029502",
+    "time": "2026-02-09T09:31:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 Players who have played in World Cup in two different sports",
+    "desc": "Playing a sport takes skill, athleticism and expertise to perform at the highest level. Playing two is a different ball game altogether. How about playing in different sports at the World Cup level? Sounds crazy,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/3-players-who-have-played-in-world-cup-in-two-different-sports-2026-02-09-1029494",
+    "time": "2026-02-09T08:42:41.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Resolution on India-Pakistan T20 World Cup match expected within 24 hours after ICC, PCB and BCB meeting",
     "desc": "The breakthrough over the India vs Pakistan T20 World Cup 2026 match is expected soon after the meeting between the International Cricket Council (ICC) officials, Pakistan Cricket Board (PCB) chairman Mohsin Naqvi and Bangladesh Cricket...",
     "img": "",
@@ -10,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Debutants Italy open campaign against Scotland in Kolkata",
+    "title": "Scotland beat Italy by 73 runs in Kolkata",
     "desc": "T20 World Cup debutants Itlay open their campaign against Scotland in a crucial Group-stage clash at the Eden Gardens, Kolkata, as both sides eye a statement performance. While Scotland come into the contest with far...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/paul-stirling-equals-rohit-sharma-and-shakib-al-hasans-legendary-record-in-t20-world-cup-2026-2026-02-09-1029432",
     "time": "2026-02-09T01:48:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Donald Trump shares good wishes message to USA team for T20 World Cup 2026",
-    "desc": "United States President Donald Trump sent a message wishing the players and team management the best of luck for the T20 World Cup 2026. However, the message came a day late, as the USA had...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/donald-trump-shares-good-wishes-message-to-usa-team-for-t20-world-cup-2026-2026-02-08-1029426",
-    "time": "2026-02-08T18:20:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ireland lose eight wickets for 38 runs, Kamindu Mendis' blitzkreig proved vital for Sri Lanka",
-    "desc": "Chasing 164 at the R. Premadasa Stadium in Colombo, Ireland began strongly and appeared well placed in the run chase. With close to 60 runs needed from the final six overs and eight wickets in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ireland-lose-eight-wickets-for-38-runs-kamindu-mendis-blitzkreig-proved-vital-for-sri-lanka-2026-02-08-1029424",
-    "time": "2026-02-08T18:03:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Narendra Modi Stadium in Ahmedabad play?",
-    "desc": "South Africa will kick off their T20 World Cup 2026 campaign on February 9 against Canada at the Narendra Modi Stadium in Ahmedabad. The Aiden Markram-led side recently featured in a warm-up clash against India...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sa-vs-can-t20-world-cup-2026-pitch-report-how-will-surface-at-narendra-modi-stadium-in-ahmedabad-play-2026-02-08-1029423",
-    "time": "2026-02-08T17:45:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cheteshwar Pujara lauds Mohammed Siraj's performance after India drift past USA in T20 World Cup 2026",
-    "desc": "Team India put forth a brilliant performance against the USA in game 3 of the T20 World Cup 2026. Despite looking shaky with the bat, Suryakumar Yadav’s knock and the defending champions’ bowling prowess helped...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cheteshwar-pujara-lauds-mohammed-siraj-s-performance-after-india-drift-past-usa-in-t20-world-cup-2026-2026-02-08-1029422",
-    "time": "2026-02-08T17:39:14.000Z"
   }
 ];
