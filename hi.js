@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Bengal's Sudip Gharami misses triple century by 1 run, joins elite list in Ranji Trophy quarterfinal",
+    "desc": "Bengal's Sudip Gharami fell short of creating history in the Ranji Trophy quarterfinal clash against Andhra Pradesh. He was dismissed for 299 runs, one short of a historic triple century, but joined the elite list...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bengal-s-sudip-gharami-misses-triple-century-by-1-run-joins-elite-list-in-ranji-trophy-quarterfinal-2026-02-10-1029633",
+    "time": "2026-02-10T08:43:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Surge of Associate nations at T20 World Cup 2026",
+    "desc": "\"We are not here just to make up numbers.\" These are the words of the Italy captain, Wayne Madsen. The confidence from the South Africa-born cricketer was oozing ahead of the mega event as they...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/from-participants-to-powerhouses-surge-of-associate-nations-at-t20-world-cup-2026-2026-02-10-1029628",
+    "time": "2026-02-10T08:13:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian fans pay heavy price amid PCB's flip-flop over India vs Pakistan clash in T20 World Cup 2026",
+    "desc": "As expected, the Pakistan Cricket Board (PCB) made a last-minute U-turn and agreed to play India in the ongoing T20 World Cup 2026. Earlier, the board had refused to participate, claiming solidarity with Bangladesh, who...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/indian-fans-pay-heavy-price-amid-pcb-s-flip-flop-over-india-vs-pakistan-clash-in-t20-world-cup-2026-2026-02-10-1029625",
+    "time": "2026-02-10T07:51:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Delighted to see the outcome': BCCI's first reaction after Pakistan withdraw boycott of India clash at T20 WC",
     "desc": "Pakistan are set to play against India on February 15, at the R Premadasa Stadium in Colombo after boycotting the marquee clash earlier this month. The Pakistan Government had directed the national team not to...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/will-pakistan-only-threaten-pcb-fall-flat-on-face-yet-again-after-another-boycott-drama-2026-02-10-1029576",
     "time": "2026-02-10T02:04:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh handed freebies as ICC ease tensions between India and Pakistan",
-    "desc": "The ICC (International Cricket Council) has come forward and issued a new set of directives amid the ongoing drama between India, Pakistan, and Bangladesh during the ongoing T20 World Cup 2026. It is worth noting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-handed-freebies-as-icc-ease-tensions-between-india-and-pakistan-2026-02-09-1029561",
-    "time": "2026-02-09T17:38:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Africa dominate Canada, register stellar win in their first T20 World Cup 2026 clash",
-    "desc": "Game 9 of the ongoing T20 World Cup 2026 saw South Africa taking on Canada. The two sides took on each other at the Narendra Modi Stadium in Ahmedabad on February 9. The clash began...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-dominate-canada-register-stellar-win-in-their-first-t20-world-cup-2026-clash-2026-02-09-1029555",
-    "time": "2026-02-09T17:13:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PAK vs USA, Colombo, weather report: Will rain play spoilsport in T20 World Cup clash?",
-    "desc": "The stage is set for game 12 of the ongoing T20 World Cup 2026. Pakistan will be locking horns with the USA. Both sides will take on each other at the R. Premadasa Stadium in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pak-vs-usa-colombo-weather-report-will-rain-play-spoilsport-in-t20-world-cup-clash-2026-02-09-1029553",
-    "time": "2026-02-09T16:58:31.000Z"
   }
 ];

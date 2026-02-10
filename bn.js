@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "ওম বিড়লার বিরুদ্ধে 'অনাস্থার' পথে কংগ্রেস, 'সই করতে তৈরি আমরা, কিন্তু', তৃণমূলের অবস্থান স্পষ্ট করলেন অভিষেক!",
+    "desc": "অনাস্থা নিয়ে বিরোধী ইন্ডিয়া জোটের সিদ্ধান্তে নিজেদের অবস্থান স্পষ্ট করলেন লোকসভায় শরিক তৃণমূলের দলনেতা অভিষেক বন্দ্যোপাধ্যায়। অভিষেক বন্দ্যোপাধ্যায় জানান, স্পিকারের বিরুদ্ধে অনাস্থা প্রস্তাবে সই করতে তৃণমূলের কোনও আপত্তি বা অসুবিধা নেই। তবে তার আগে চিঠি দিয়ে স্পিকারের অবস্থান বুঝতে চায় তৃণমূল।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/loksoabha-2026-02-9414b7a55537bacca63b92b6613e892e-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/om-birla-loksabha-congress-on-the-verge-of-no-confidence-against-speaker-om-birla-we-are-ready-to-sign-but-abhishek-clarified-the-trinamools-position-sanj-2533714.html",
+    "time": "2026-02-10T08:35:58.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ভোটের আগেই রেজাল্ট আউট! 'উগ্র' জামাতের হাতে যাচ্ছে না বাংলাদেশ, ঢাকার মসনদে খালেদা-পুত্র তারেক...",
+    "desc": "আসনের হিসেবে জামায়াত জোট ১০৫টি আসনে এবং বিএনপি জোট ১০১টি আসনে সুনিশ্চিত জয়ের পথে রয়েছে। তবে ৭৫টি আসনে দুই জোটের মধ্যে তুমুল প্রতিদ্বন্দ্বিতা হওয়ার সম্ভাবনা রয়েছে, যা শেষ পর্যন্ত সরকার গঠনে নির্ণায়ক ভূমিকা পালন করবে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/exit-poll-of-bangladesh-election-is-showing-that-tarique-rahaman-son-of-khaleda-zia-is-going-to-be-the-next-pm-of-bangladesh-jamaat-out_640484.html ",
+    "time": "2026-02-10T08:10:58.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ভারত ভেনেজুয়েলায় প্রথম বড় তেলের অর্ডার দিয়েছে, কিন্তু কতটা সস্তা পড়ল? তৃতীয় পক্ষের মাধ্যমে লেনদেনের ভিতরের গল্পটি জানুন",
     "desc": "রয়টার্সের এক প্রতিবেদন অনুসারে, চুক্তিটি ট্রেডিং ফার্ম ট্রাফিগুরার মাধ্যমে সম্পন্ন হয়েছে। মোট ২০ লক্ষ ব্যারেল অপরিশোধিত তেলের মধ্যে আইওসি ১.৫ লক্ষ ব্যারেল এবং এইচপিসিএল ৫ লক্ষ ব্যারেল কিনেছে। এই প্রথমবারের মতো এইচপিসিএল ভেনেজুয়েলা থেকে অপরিশোধিত তেল কিনছে।",
@@ -205,15 +223,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/sports/afghanistan-who-played-semi-final-in-2024-will-be-eliminated-from-group-stage-in-t20-wc-smj-2530991.html",
     "time": "2026-02-08T11:11:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বিয়ের শাড়ি দেখিয়ে নিমন্ত্রণ! প্রেমিকার নিষ্ঠুর ধোঁকায় অভিমানে চিরবিদায় বডি বিল্ডার কিরণের, লিখলেন...",
-    "desc": "প্রেমিকার অন্যত্র বিয়ে ঠিক হওয়ার খবর সহ্য করতে না পেরে তরুণ যুবকের চরম পদক্ষেপ। গত তিন বছর ধরে তাঁদের সম্পর্ক ছিল, কিন্তু প্রেমিকা তাঁকে বিয়ের কার্ড ও শাড়ি দেখালে তিনি মানসিকভাবে ভেঙে পড়েন। মৃত্যুর আগে একটি নোটে তিনি এই ঘটনার জন্য প্রেমিকা ও তাঁর মাকে দায়ী করে গেছেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/26-year-old-bodybuilder-took-extreme-step-after-his-girlfriend-informed-her-engagement_640165.html ",
-    "time": "2026-02-08T09:55:42.000Z"
   },
   {
     "cat": "Entertainment",
@@ -673,15 +682,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/aditya-dhar-directorial-dhurandhar-2-teaser-ranveer-singh-returns-as-hamza-says-yeh-naya-hindustan-hai-pbd-2524311.html",
     "time": "2026-02-03T08:34:44.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ড্রোন হামলায় দূরে ছিটকে পড়ল ভস্মীভূত বাস! ছড়িয়ে-ছিটিয়ে জানালার কাচ, প্রতিটি টুকরোয় রক্ত...",
-    "desc": "প্রায় চার বছর ধরে চলা রাশিয়া-ইউক্রেন যুদ্ধ কি এবার বন্ধ হবে? এরকম কথাবার্তা যখন শোনা যাচ্ছে, ঠিক তখন রাশিয়ার দিক থেকে নতুন করে এই হামলা। আমেরিকার অব্যাহত চাপের মুখে এ মাসেই দ্বিতীয় দফা বৈঠকে বসার কথা দুপক্ষের। কিন্তু কী হবে?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/russian-drone-attack-on-bus-in-ukraine-kills-at-least-12-russian-drone-strike-kills-mine-workers-injuring-seven-others_639127.html ",
-    "time": "2026-02-03T08:31:16.000Z"
   },
   {
     "cat": "Politics",
