@@ -1,6 +1,42 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "রক্তচোষা খুদে পিশাচের খপ্পরে পড়ে বেঘোরে শেষ হয়ে গেল ১২ বছরের লক্ষ্মীপ্রিয়া! পুরীতে প্রলয়ঙ্কর কাণ্ড...",
+    "desc": "মাথার উকুন কি মানুষের মৃত্যু ঘটাতে পারে (Can Head Lice Kill)? এখন এই প্রশ্নই ঘুরে বেড়াচ্ছে ঘরে-ঘরে। কেননা, পুরীতে ঘটেছে ঠিক এমন ঘটনাই। দীর্ঘ উকুন সংক্রমণের ফলে সৃষ্ট জটিলতার শিকার হয়ে এক কিশোরীর মৃত্যু হয়েছে সেখানে। নাম তার লক্ষ্মীপ্রিয়া সাহু।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/head-lice-kill-girl-deadliest-head-lice-severe-infestation-led-to-odisha-girls-death-can-head-lice-kill-prolonged-lice-infestation-infection-sepsis-anemia_640530.html ",
+    "time": "2026-02-10T11:06:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "সব নাটক শেষ! টি-২০ বিশ্বকাপে ভারতের মুখোমুখি হচ্ছে পাকিস্তান, হাইভোল্টেজ ম্যাচের অপেক্ষায় ক্রিকেটপ্রেমীরা",
+    "desc": "ভারত–পাকিস্তান ম্যাচের অপেক্ষায় থাকা ক্রিকেটপ্রেমীদের জন্য বড় সুখবর। টি-২০ বিশ্বকাপে ভারত ও পাকিস্তানের মুখোমুখি হওয়ার পথ এখন পরিষ্কার। পাকিস্তান ভারতরের বিরুদ্ধে খেলতে সম্মতি দিয়েছে। ভারত ও পাকিস্তানের মধ্যে টি-২০ বিশ্বকাপের ম্যাচ নির্ধারিত সূচি অনুযায়ীই অনুষ্ঠিত হবে। পাকিস্তান সরকার ম্যাচ বয়কটের সিদ্ধান্ত প্রত্যাহার করে নিয়েছে। পাকিস্তানের এই সিদ্ধান্তের সঙ্গে সঙ্গেই টুর্নামেন্ট ঘিরে চলা অচলাবস্থারও অবসান হয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/iNDIA-PAKISTAN-1-2026-02-bc9453febb7333ff8242fc464afc0c0d.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/sports/icc-t20-world-cup-2026-pakistan-agrees-to-play-against-india-pbd-2534172.html",
+    "time": "2026-02-10T10:48:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "লোকসভায় অচলাবস্থা অব্যাহত! স্পিকার ওম বিড়লার অপসারণ চেয়ে অনাস্থা নোটিস জমা দিল বিরোধীরা, কংগ্রেসের প্রস্তাবে স্বাক্ষর RJD, বামেদের",
+    "desc": "লোকসভায় চলমান অচলাবস্থার মধ্যেই স্পিকার অপসারণের দাবিতে রাজনৈতিক উত্তেজনা আরও তীব্র হল। কংগ্রেসের তরফে লোকসভা স্পিকারকে রিমুভ করার বিষয়ে আনুষ্ঠানিক ভাবে রেজোলিউশন মুভ করানো হয়েছে। কংগ্রেসের এই প্রস্তাবে সাক্ষর করেছেন ডিএমকে, বাম দলগুলি, সমাজবাদী পার্টি ও আরজেডির সাংসদরা। সংসদের কার্যপ্রণালী ও স্পিকারের ভূমিকা নিয়ে বিরোধীদের দীর্ঘদিনের অভিযোগের প্রেক্ষিতেই এই পদক্ষেপ বলে কংগ্রেস সূত্রে দাবি করা হয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Loksabha-1-2026-02-b8f26793632c1ff882bb803b74df9279-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/parliament-deadlock-continues-in-the-second-week-of-the-budget-session-opposition-submits-no-confidence-notice-against-speaker-om-birla-in-lok-sabha-tib-ws-l-2533957.html",
+    "time": "2026-02-10T10:18:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "মায়ের হাত ধরে অভিনয়ে পা, বাংলার 'চারুলতা' আজও সিনেমাপ্রেমীদের চোখের মণি! জন্মদিনে ফিরে দেখা মাধবী মুখোপাধ্যায়ের প্রেমজীবন",
+    "desc": "মাধবীর জন্ম তাঁর দিদিমার বাড়িতে। মা একা হাতে মানুষ করেছিলেন মাধবী ও তাঁর দিদিকে৷ বাবার সঙ্গে তাঁদের দূরত্ব ছিল৷ কারণ বাবার সঙ্গে মায়ের বনিবনা হত না, তাই তাঁরা আলাদা থাকতেন৷ এমনকী তাঁর বাবা আবার পরে বিয়েও করেছিলেন৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Web-2026-02-10T153818.392-2026-02-12d8dfe8a3a6caa2a37e1da52320ebf8-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/bengali-evergreen-actress-madhabi-mukherjee-birthday-celebrates-85th-years-pbd-2533534.html",
+    "time": "2026-02-10T10:09:40.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ওম বিড়লার বিরুদ্ধে 'অনাস্থার' পথে কংগ্রেস, 'সই করতে তৈরি আমরা, কিন্তু', তৃণমূলের অবস্থান স্পষ্ট করলেন অভিষেক!",
     "desc": "অনাস্থা নিয়ে বিরোধী ইন্ডিয়া জোটের সিদ্ধান্তে নিজেদের অবস্থান স্পষ্ট করলেন লোকসভায় শরিক তৃণমূলের দলনেতা অভিষেক বন্দ্যোপাধ্যায়। অভিষেক বন্দ্যোপাধ্যায় জানান, স্পিকারের বিরুদ্ধে অনাস্থা প্রস্তাবে সই করতে তৃণমূলের কোনও আপত্তি বা অসুবিধা নেই। তবে তার আগে চিঠি দিয়ে স্পিকারের অবস্থান বুঝতে চায় তৃণমূল।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/loksoabha-2026-02-9414b7a55537bacca63b92b6613e892e-3x2.jpg",
@@ -205,15 +241,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/supreme-court-sir-case-the-hearing-of-the-west-bengal-sir-case-is-in-focus-today-will-cm-mamata-banerjee-appeal-again-on-monday-in-the-supreme-court-sanj-2531353.html",
     "time": "2026-02-09T04:05:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "অষ্টম পে কমিশনে এবার সত্যিই বিগ ব্যাপার! বিশাল বেতনবৃদ্ধির সুখবরকে মান্যতা দিয়েই খুলে গেল...",
-    "desc": "অষ্টম পে কমিশনে (8th Pay Commission) এবার বিরাট পদক্ষেপ। অষ্টম পে কমিশন অফিসিয়ালি শুরু হওয়ার আগে একে 'কী স্টেপ' বলা হচ্ছে। কেননা, অষ্টম পে কমিশনের অফিসিয়াল ওয়েবসাইট এবার 'লাইভ' (8th Pay Commission Website Launch) হল!",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/8th-pay-commission-updates-8th-pay-commission-website-launch-big-salary-questions-now-open-to-employees-send-suggestions-big-step-in-8th-pay-commission_640176.html ",
-    "time": "2026-02-08T12:02:53.000Z"
   },
   {
     "cat": "Sports",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/history-at-the-grammy-stage-the-dalai-lama-receives-his-first-honor-at-the-age-of-90-congratulations-pour-in-from-the-sikkim-chief-minister-l18-sdg-local18-2523120.html",
     "time": "2026-02-02T12:20:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "লুকিয়ে অরিজিৎ সিং-এর বাড়ি পৌঁছে গেলেন আমির খান, গায়কের মান ভাঙতে এত দূর এলেন অভিনেতা-পরিচালক? বড় খবর ফাঁস",
-    "desc": "অরিজিৎ সিংয়ের যাতে মান ভঙ্গ হয় সেই জন্য আমির খান এসে প্রায় দু'ঘণ্টা ধরে বৈঠক করেন বলেই জানা গিয়েছে। স্টুডিও বাড়িতে খাওয়া দাওয়া সম্পন্ন করেন। তবে পুলিশ প্রশাসন এমনকি সাধারণ মানুষের চোখের আড়ালেই আমির খান হাজির হন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-02-at-5.03.17-PM-2026-02-572f72194050e95d0da18ebf10e8a59b-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/aamir-khan-comes-to-kolkata-visits-arijit-singh-at-his-jiaganj-house-l18-pbd-local18-2523173.html",
-    "time": "2026-02-02T11:38:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "কেমোথেরাপিতে চুল পড়ে গিয়েছিল ছোট্ট পড়ুয়ার...! সহমর্মিতায় স্কুলের শিক্ষক, সহপাঠীদের কর্মকাণ্ড বিশ্ববাসীর মন জয় করেছে, দেখুন আপনিও",
-    "desc": "ক্লাসের এক বন্ধু ক্যানসারের সঙ্গে লড়াই করছিল, কেমোথেরাপি কারণে মেয়েটির সব চুল পড়ে যায়। সে এতটাই ভীত ছিল, চুল ছাড়া স্কুলে আসতে লজ্জা পেত, এই ভয়ে যে সবাই তাকে অন্য চোখে দেখবে। আর সেই ভয় দূর করার জন্যই এক অভিনব উদ্যোগ নেয় স্কুলের শিক্ষক-শিক্ষিকা এবং পড়ুয়ারা।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/1770025481_school-girl-1-2026-02-8534caece04af23697fc806237f57738-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/girl-lost-her-hair-due-to-chemotherapy-her-classmates-teachers-shave-heads-solidarity-india-humanity-viral-video-sdg-2523096.html",
-    "time": "2026-02-02T11:24:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ভারত যদি বিশ্বকাপ ফাইনালে ওঠে..! ওদিকে পাকিস্তানও উঠল! তখন পাকিস্তান কী করবে? খেলবে নাকি খেলবে না?",
-    "desc": "পাকিস্তান যদি এই সিদ্ধান্তে অনড় থাকে তা হলে আইসিসির শাস্তি তাদের জন্য অপেক্ষা করছে। আর সেই শাস্তি পাকিস্তান ক্রিকেটকে ধ্বংসের পথে নিয়ে যেতে পারে বলেও মনে করা হচ্ছে। তবে পাকিস্তান বলছে, তারা এসব নিয়ে ভাবছে না।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/09/Pakistan-2025-09-0dea45a9e6a149351ca4c1fdf0ed7e8f-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/what-will-pakistan-do-if-india-may-reach-t20-world-cup-knock-out-or-final-smj-2523214.html",
-    "time": "2026-02-02T11:09:38.000Z"
   }
 ];

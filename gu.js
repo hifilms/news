@@ -1,6 +1,78 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "&amp;#039;ભારતને 4 ગુજરાતી ચલાવી રહ્યા છે&amp;#039;, IND vs PAK મેચ પહેલાં શાહિદ આફ્રીદી ઓક્યું ઝેર, જાણો શું શું કહ્યું",
+    "desc": "પાકિસ્તાનના પૂર્વ કેપ્ટન શાહિદ આફ્રીદીએ ભારત સામે ફરી એકવાર ઝેર ઓક્યું છે. આફ્રીદી હંમેશાં ભારત વિરોધી નિવેદનો માટે જાણીતો છે. આફ્રીદીએ ટીવીના એક શોમાં જે પણ કહ્યું એ તમામ બાબતોનો એક વીડિયો હાલમાં સોશિયલ મીડિયા પર વાયરલ થઈ રહ્યો છે. આફ્રીદીએ આ વખતે 4 ગુજરાતીઓને ટાર્ગેટ કર્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/shahid-afridi-controversial-statement-viral-ahead-of-ind-vs-pak-match-464538 ",
+    "time": "2026-02-10T13:01:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સાયન્સના વિષયમાં 90 ટકા માર્ક લાવવા છે તો 7 જરૂરી ટિપ્સની મનમાં ગાંઠ બાંધી લો",
+    "desc": "હવે બોર્ડની પરીક્ષાને ગણતરીના દિવસો જ બાકી રહ્યાં છે. જેને પગલે હવે ફક્ત વાંચન કરવું એ જરૂરી નથી. હવે વાંચવાનો સમય પૂરો થઈ ગયો છે. જો તમારે બોર્ડની પરીક્ષામાં વધારે માર્કસ જોઈએ તો હવે મનન કરવાનો સમય છે. પુસ્તકને બંધ કરો અને પોતાની જાતને પ્રશ્નો પૂછવાના શરૂ કરો, તમે ખુદ જાતે જ પોતાના ટેસ્ટ લેવાના શરૂ કરો, જો તમે આ પરીક્ષામાં પાસ થઈ ગયા તો સમજજો તમે ક્યાંય પણ પાછળ નહીં રહો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/board-exam-tips-preparation-guide-7-tips-for-90-percent-plus-in-science-464537 ",
+    "time": "2026-02-10T12:03:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ક્રિકેટના એ 5 અનોખા નિયમ, જે સાંભળીને મન ચકરાઈ જશે, 99 ટકા લોકો જાણતા પણ નહીં હોય",
+    "desc": "ક્રિકેટમાં કેટલાક અનોખા નિયમો છે જેના વિશે ઘણા લોકો કદાચ જાણતા પણ નહીં હોય. આ નિયમોનો ઉપયોગ મેચોમાં ભાગ્યે જ થાય છે. ત્યારે આ લેખમાં અમે તમને આવા જ કેટલાક નિયમો વિશે જણાવીશું, જે તમે અગાઉ લગભગ સાંભળ્યા પણ નહીં હોય.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/five-unique-cricket-rules-you-probably-didnt-know-464536 ",
+    "time": "2026-02-10T12:03:36.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ગાઝા યુધ્ધનો આવશે અંત? બોર્ડ ઓફ પીસમાં પાકિસ્તાન-તુર્કી સહિત 8 મુસ્લિમ દેશોની એન્ટ્રીથી ઈઝરાયલના શ્વાસ અધ્ધર!",
+    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ દ્વારા ગાઝા મામલે બોર્ડ ઓફ પીસની રચના કરીને માટી પહેલ કરી છે. આ બોર્ડમાં 8 મુસ્લિમ દેશોને સામેલ કરવામાં આવ્યું છે. જો કે, ઈઝરાયલ પાકિસ્તાનને ક્યારેય મહત્વ આપવા માંગતું નથી, પરંતુ બોર્ડ ઓફ પીસમાં ડોનાલ્ડ ટ્રમ્પની પહેલ પર પાકિસ્તાનના પીએમ શાહબાઝ શરીફ પણ સામેલ થશે. આટલા સુધી જ નહીં, આ બોર્ડમાં તુર્કી પણ સામેલ રહેશે, જે ફિલિસ્તીનના મુદ્દા પર ખુલ્લેઆમ ઈઝરાયલનો વિરોધ કરી રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/donald-trump-board-of-peace-gaza-israel-pakistan-muslim-nations-meeting-washington-464533 ",
+    "time": "2026-02-10T10:52:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "52 વીક હાઈ પર પહોંચ્યો ટાટાનો આ શેર, રોકાણકારોની ભારે ખરીદી, દેવામુક્ત થશે કંપની !",
+    "desc": "ટાટા ગ્રુપની આ કંપની દેવા મુક્ત થવા પર આગળ વધી રહી છે, જ્યારે કંપનીના શેર ઓલ ટાઈમ હાઈ પર પહોચ્યા છે, રોકાણકારો અને એક્સપર્ટ પણ શેર પર ભરોસો દર્શાવી રહ્યા છે. જો કે 10 ફેબ્રુઆરીના રોજ શેરના ભાવ 210 રૂપિયાથી વધારે રહ્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/this-tata-stock-reached-52-week-high-investors-bought-heavily-the-company-will-be-debt-free-464530 ",
+    "time": "2026-02-10T10:33:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "T20 વર્લ્ડ કપ વચ્ચે ભારતીય ખેલાડીઓને લાગ્યો મોટો ઝટકો, BCCIએ ફગાવી આ માંગણી",
+    "desc": "T20 વર્લ્ડ કપ 2026 વચ્ચે BCCIએ મોટો નિર્ણય લીધો છે. ભારતીય ખેલાડીઓ હવે તેમના ફેમિલી સાથે રહી શકશે નહીં. BCCIએ ટીમ મેનેજમેન્ટની વિનંતીને ફગાવી દીધી છે. બોર્ડે કહ્યું છે કે ખેલાડીઓ ઈચ્છે તો અલગ હોટલમાં તેમની ફેમિલી માટે વ્યવસ્થા કરી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-bcci-rejects-request-to-keep-families-with-team-464529 ",
+    "time": "2026-02-10T10:30:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "સૌથી ટોપ પર 800 કરોડની ક્લબમાં માત્ર 2 જ ફિલ્મ, એક તો ધૂરંધર...બીજીનું નામ જાણી આંખો પહોળી થશે",
+    "desc": "બોલીવુડમાં કમાણીના મામલે તો અનેક ફિલ્મો નોંધપાત્ર પ્રદર્શન કરી ચૂકી છે. પરંતુ 800 કરોડથી વધુ કમાણી કરનારી ફક્ત 2 ફિલ્મો છે. અહીં ભારતભરમાં 800થી વધુ કમાણી કરી ચૂકેલી ફિલ્મોની વાત છે. વર્લ્ડવાઈડ આંકડા સામેલ નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/box-office-collection-films-in-800-crore-club-dhurandhar-pushpa-2-the-rule-464526 ",
+    "time": "2026-02-10T10:17:58.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ખાતામાં નથી રાખતા મિનિમમ બેલેન્સ? તમારી એક ભૂલથી મોટો નફો કરી રહી છે બેંકો, જાણો",
+    "desc": "નાણા મંત્રાલય દ્વારા પૂરા પાડવામાં આવેલા ડેટા અનુસાર, પંજાબ નેશનલ બેંકે નાણાકીય વર્ષ 2022-23, 2023-24 અને 2024-25માં મિનિમમ બેલેન્સ ન રાખવા બદલ તેના બચત ખાતાના ગ્રાહકો પાસેથી તમામ PSU બેંકોમાં સૌથી વધુ કમાણી કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/not-maintaining-minimum-balance-in-your-account-banks-are-making-huge-profits-from-your-one-mistake-know-this-464527 ",
+    "time": "2026-02-10T10:14:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "એ 5 મોટા ક્રિકેટર જેમને BCCI હવે નહીં આપે પગાર, જાણો શું છે કારણ",
     "desc": "BCCIએ 2025-26 માટે સેન્ટ્રલ કોન્ટ્રાક્ટની જાહેરાત કરી છે. આ વખતે કોન્ટ્રાક્ટ લિસ્ટમાંથી A+ કેટેગરીને હટાવવામાં આવી છે. A કેટેગરીમાં શુભમન ગિલ સહિત 3 ખેલાડીઓ છે, તો રોહિત અને વિરાટને B કેટેગરીમાં મુકવામાં આવ્યા છે, જ્યારે 5 એવા ખેલાડી છે, જેમને કોન્ટ્રાક્ટ લિસ્ટમાંથી હટાવવામાં આવ્યા છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -297,15 +369,6 @@ const newsData_gu = [
     "time": "2026-02-07T07:45:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ભારત અને અમેરિકા વચ્ચે ટ્રેડ ડીલમાં આ મુદ્દાઓ પર થઈ સહમતી, 10 પોઈન્ટમાં સમજો",
-    "desc": "ભારત અને યુનાઇટેડ સ્ટેટ્સે વેપાર કરાર માટે વચગાળાના માળખાની ઔપચારિક જાહેરાત કરતા સંયુક્ત નિવેદન બહાર પાડ્યું છે. આ કરાર હેઠળ, યુએસ ટેરિફ 50 ટકાથી ઘટાડીને 18 ટકા કરશે. યુએસ અને ભારત આ માળખાને તાત્કાલિક અમલમાં મૂકશે અને વચગાળાના કરારને અંતિમ સ્વરૂપ આપવા માટે કામ કરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/this-is-included-in-the-trade-deal-between-india-and-america-understand-in-10-points-464176 ",
-    "time": "2026-02-07T03:01:55.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "દેશની સૌથી સસ્તી 7-સીટર કારને 11914 લોકોએ ખરીદી, કિંમત છે 5.18 લાખ, મળે છે 6 એરબેગ્સ",
     "desc": "દેશમાં મારુતિ સુઝુકી એકતરફી પ્રભુત્વ ધરાવે છે. તેમ છતાં, એક સેગમેન્ટ એવું છે જ્યાં તે વર્ષોથી પ્રભુત્વ ધરાવે છે. આ સેગમેન્ટમાં બીજી કોઈ કાર તેની નજીક પણ નથી. અમે વાન સેગમેન્ટ વિશે વાત કરી રહ્યા છીએ, જ્યાં આ કારનું વર્ષોથી પ્રભુત્વ ધરાવે છે.",
@@ -322,15 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/india-wins-u19-world-cup-final-england-vaibhav-suryavanshi-hero-464166 ",
     "time": "2026-02-06T15:35:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સાવધાન! આવતીકાલે કેબ અને રિક્ષા મળવામાં પડી શકે છે મુશ્કેલી, ઓલા-ઉબેર ડ્રાઈવરોનું ‘ઓલ ઈન્ડિયા બ્રેકડાઉનનું એલાન",
-    "desc": "જો તમે તમારા રોજિંદા મુસાફરી માટે ઉબેર, ઓલા અથવા રેપિડો જેવી એપ-આધારિત કેબ સેવાઓ પર આધાર રાખતા હો, તો 7 ફેબ્રુઆરી તમારા માટે મુશ્કેલ દિવસ સાબિત થઈ શકે છે. દેશભરમાં આ પ્લેટફોર્મ સાથે સંકળાયેલા ડ્રાઇવરો સામૂહિક હડતાળ પર જઈ રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/caution-there-may-be-difficulty-in-getting-cabs-and-rickshaws-tomorrow-ola-uber-drivers-announce-all-india-breakdown-464156 ",
-    "time": "2026-02-06T14:08:19.000Z"
   },
   {
     "cat": "Entertainment",
@@ -387,15 +441,6 @@ const newsData_gu = [
     "time": "2026-02-06T08:45:46.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "બીજી વખત WPLમાં ચેમ્પિયન બની RCB, ફાઈનલમાં દિલ્હી કેપિટલ્સને 6 વિકેટથી હરાવ્યું",
-    "desc": "વિમેન્સ પ્રીમિયર લીગ (WPL 2026 Final)ના ચેમ્પિયન ટીમ સામે આવી ગઈ છે. સતત ચૌથી વખત દિલ્હી કેપિટલ્સની ટીમને WPL ફાઈનલ મેચમાં હારનો સામનો કરવો પડ્યો છે. RCBએ દિલ્હીને હરાવીને બીજી વખત ચેમ્પિયન બન્યું છે. આ રોમાંચક મુકાબલામાં સ્મૃતિ મંધાના અને જોર્જિયા વેરહામની વિસ્ફોટક ઇનિંગ્સના જોરે RCBએ 6 વિકેટે શાનદાર જીત નોંધાવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rcb-became-champions-in-wpl-for-the-second-time-defeating-delhi-capitals-by-6-wickets-in-the-final-464071 ",
-    "time": "2026-02-05T18:04:20.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "હ્યુન્ડાઇએ આ કારની કિંમત ઘટાડીને ₹5.99 લાખ કરી, આટલી સસ્તી પહેલા ક્યારેય નહોતી, 6 એરબેગ્સ, સનરૂફ, બધું જ મળશે",
     "desc": "2026 Hyundai આ કાર ભારતમાં લોન્ચ કરવામાં આવી છે. કંપનીએ તેની શરૂઆતની કિંમત માત્ર ₹5.99 લાખ (એક્સ-શોરૂમ) રાખી છે. તે 6 એરબેગ્સ અને સનરૂફ સહિત અનેક જોરદાર સુવિધાઓ પ્રદાન કરે છે. ચાલો તેની વિગતો વિગતવાર જોઈએ.",
@@ -430,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/border-2-ott-release-date-20-march-2026-border-2-box-office-collection-latest-news-463987 ",
     "time": "2026-02-05T03:32:51.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "&amp;#039;ભારત સ્વતંત્ર છે, તે કોઈપણ પાસેથી તેલ ખરીદી શકે છે&amp;#039;, રશિયાએ ટ્રમ્પને આપ્યો સ્પષ્ટ શબ્દોમાં જવાબ",
-    "desc": "ભારત અને અમેરિકા વચ્ચે ટ્રેડ ડીલ થઈ છે. અમેરિકાએ ભારત પર ટેરિફ ઘટાડીને 18 ટકા કર્યો છે. અમેરિકાએ દાવો કર્યો હતો કે ભારતે રશિયા સાથે ફક્ત તેલ વેપાર બંધ કરવાની શરતે ટ્રેડ ડીલ કરી હતી, પરંતુ રશિયાએ આ દાવાને ફગાવી દીધો છે અને રશિયન વિદેશ મંત્રાલયે એક નિવેદન બહાર પાડીને અમેરિકાને જવાબ આપ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/russia-reacts-on-india-us-trade-deal-rejects-trumps-claim-on-russian-oil-463981 ",
-    "time": "2026-02-05T02:24:10.000Z"
   },
   {
     "cat": "Entertainment",
@@ -538,15 +574,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/box-office-collection-of-film-mardaani-3-and-sunny-deol-border-2-463423 ",
     "time": "2026-01-31T02:57:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "રાની મુખર્જીની ફિલ્મ મર્દાની 3 જોવા જતાં પહેલા વાંચી લો કેવી છે ફિલ્મ, લોકોનું શું છે રિએકશન",
-    "desc": "રાની મુખર્જીની મોસ્ટ અવેટેડ ફિલ્મ મર્દાની 3 રિલીઝ થઈ ચુકી છે અને એક દિવસ પુરો થતાં સુધીમાં જે લોકોએ ફિલ્મ જોઈ છે તેમણે સોશિયલ મીડિયા પર પોતાના રિવ્યુ પણ આપી દીધા છે. એટલે કે રાની મુખર્જીની ફિલ્મ કેવી છે તેનું પબ્લીક રિએકશન સામે આવી ગયું છે. તો ચાલો તમને પણ જણાવીએ મર્દાની 3 ફિલ્મ કેવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/mardaani-3-film-public-review-mardaani-3-box-office-collection-463391 ",
-    "time": "2026-01-30T14:19:11.000Z"
   },
   {
     "cat": "Tech",

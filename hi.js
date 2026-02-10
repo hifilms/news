@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Americans look to shock Pakistan again",
+    "desc": "Pakistan and the USA are set for a fascinating T20 World Cup 2026 clash, with both sides eager to make a strong statement when they meet on Tuesday. Calling Pakistan favourites for this clash would...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pak-vs-usa-t20-world-cup-2026-live-cricket-score-pakistan-vs-usa-sinhalese-sports-club-colombo-latest-match-updates-scorecard-teams-playing-xis-2026-02-10-1029675",
+    "time": "2026-02-10T12:56:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Blow for Sri Lanka, Wanindu Hasaranga ruled out for remainder of T20 World Cup 2026",
+    "desc": "Sri Lanka have been dealt a huge blow as star all-rounder Wanindu Hasaranga has been ruled out for the remainder of the T20 World Cup 2026 due to the hamstring injury he sustained during his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/blow-for-sri-lanka-wanindu-hasaranga-ruled-out-for-remainder-of-t20-world-cup-2026-2026-02-10-1029669",
+    "time": "2026-02-10T12:11:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch clash in India on TV and online",
+    "desc": "Pakistan will aim to banish memories of a humiliating past defeat when they face a spirited USA in the T20 World Cup on Tuesday, 20 months after suffering an infamous loss to the same opponents....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pak-vs-usa-t20-world-cup-live-streaming-details-when-and-where-to-watch-clash-in-india-on-tv-and-online-2026-02-10-1029666",
+    "time": "2026-02-10T12:01:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia to miss Tim David for T20 World Cup 2026 opener against Ireland, confirms Mitchell Marsh",
+    "desc": "Australia will be without their power-hitter, Tim David, for their T20 World Cup 2026 opener against Ireland on Wednesday, February 11, at the R Premadasa Stadium in Colombo. Aussies will be the last team to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-to-miss-tim-david-for-t20-world-cup-2026-opener-against-ireland-confirms-mitchell-marsh-2026-02-10-1029657",
+    "time": "2026-02-10T11:06:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former cricketers unanimously back India to qualify for T20 World Cup 2026 final",
+    "desc": "India’s defence of their T20 World Cup 2026 crown got off to a dominant start as they thrashed the USA in front of a packed Wankhede Stadium. The hosts, widely regarded as tournament favourites, have...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-cricketers-unanimously-back-india-to-qualify-for-t20-world-cup-2026-final-2026-02-10-1029650",
+    "time": "2026-02-10T10:33:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bas de Leede shows way as Netherlands beat Namibia to extend lead among associate nations in T20 World Cup",
+    "desc": "The Netherlands secured a commanding seven-wicket win over Namibia in the ongoing T20 World Cup 2026 at Arun Jaitley Stadium in New Delhi, keeping their hopes alive for a spot in the Super 8s. Dutch...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bas-de-leede-shows-way-as-netherlands-beat-namibia-to-extend-lead-among-associate-nations-in-t20-world-cup-2026-02-10-1029644",
+    "time": "2026-02-10T10:09:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "New Zealand look to hunt down 174 against UAE in Chennai",
+    "desc": "New Zealand will look to assert their dominance when they take on the UAE in a crucial T20 World Cup encounter, with both teams heading into the clash with very different objectives. While the Black...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-uae-t20-world-cup-live-cricket-score-new-zealand-vs-uae-ma-chidambaram-stadium-chennai-latest-match-updates-scorecard-teams-playing-xis-2026-02-10-1029642",
+    "time": "2026-02-10T10:06:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Bengal's Sudip Gharami misses triple century by 1 run, joins elite list in Ranji Trophy quarterfinal",
     "desc": "Bengal's Sudip Gharami fell short of creating history in the Ranji Trophy quarterfinal clash against Andhra Pradesh. He was dismissed for 299 runs, one short of a historic triple century, but joined the elite list...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/indian-fans-pay-heavy-price-amid-pcb-s-flip-flop-over-india-vs-pakistan-clash-in-t20-world-cup-2026-2026-02-10-1029625",
     "time": "2026-02-10T07:51:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Delighted to see the outcome': BCCI's first reaction after Pakistan withdraw boycott of India clash at T20 WC",
-    "desc": "Pakistan are set to play against India on February 15, at the R Premadasa Stadium in Colombo after boycotting the marquee clash earlier this month. The Pakistan Government had directed the national team not to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/delighted-to-see-the-outcome-bcci-s-first-reaction-after-pakistan-withdraw-boycott-of-india-clash-at-t20-wc-2026-02-10-1029615",
-    "time": "2026-02-10T06:56:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PCB remains a case study on how not to run a sporting body",
-    "desc": "Pakistan have repeatedly stirred controversy during one of the world’s biggest sporting events. From statements about agreeing to play in Colombo, to outright refusals to play, to declarations of support for Bangladesh and threats of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pcb-remains-a-case-study-on-how-not-to-run-a-sporting-body-2026-02-10-1029613",
-    "time": "2026-02-10T06:43:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Namibia play their first-ever game on Indian soil, Netherlands seek comeback with two changes",
-    "desc": "Namibia have been a regular presence at the T20 World Cup since 2021, and despite being relatively new to professional cricket, they have made impressive strides in the format. Their progress includes a famous victory...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/namibia-play-their-first-ever-game-on-indian-soil-netherlands-seek-comeback-with-two-changes-2026-02-10-1029599",
-    "time": "2026-02-10T05:33:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohammad Mohsin, born and brought up in Pakistan, warns Salman Agha's men ahead of T20 World Cup clash",
-    "desc": "Pakistan and the USA are set to face each other in the 12th match of the ongoing T20 World Cup at the Sinhalese Sports Club in Colombo. The two teams are locking horns for the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-mohsin-born-and-brought-up-in-pakistan-warns-salman-agha-s-men-ahead-of-t20-world-cup-clash-2026-02-10-1029598",
-    "time": "2026-02-10T05:32:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Apne liye kuch nahi kiya': Mohsin Naqvi's statement after ICC rejected Pakistan's demands amid boycott U-turn",
-    "desc": "Pakistan made a U-turn on the boycott of the India clash in the T20 World Cup on Monday (February 9). However, minutes before it was officially confirmed, Pakistan Cricket Board (PCB) Chairman Mohsin Naqvi claimed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/apne-liye-kuch-nahi-kiya-mohsin-naqvi-s-statement-after-icc-rejected-pakistan-s-demand-amid-boycott-u-turn-2026-02-10-1029585",
-    "time": "2026-02-10T03:37:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohsin Naqvi's double standards: PCB Chief urged Bangladesh for appeal to Pak to end India boycott in T20 WC",
-    "desc": "India are set to face Pakistan on Sunday (February 15) at the R Premadasa Stadium in Colombo. The match was under threat after Pakistan refused to take the field following its government's directives last week....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohsin-naqvi-asked-bcb-president-to-make-formal-appeal-to-pakistan-to-end-boycott-of-india-clash-in-t20-wc-2026-02-10-1029580",
-    "time": "2026-02-10T03:08:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Pakistan only threaten? PCB fall flat on face yet again after another boycott drama in T20 World Cup",
-    "desc": "Pakistan Cricket has never been short of drama. Earlier, it used to be within their cricket and the board. Now, the drama has extended to the global level, but they are gaining nothing. Pakistan's Prime...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-pakistan-only-threaten-pcb-fall-flat-on-face-yet-again-after-another-boycott-drama-2026-02-10-1029576",
-    "time": "2026-02-10T02:04:41.000Z"
   }
 ];
