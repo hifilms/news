@@ -37,7 +37,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Pakistan set to play against India in T20 World Cup 2026, takes u-turn on boycott decision",
+    "title": "Pakistan set to play against India in T20 World Cup 2026, takes U-turn on boycott decision",
     "desc": "In a massive development, the PCB (Pakistan Cricket Board) has reportedly taken a U-turn in their decision not to play against India in the ongoing T20 World Cup 2026. As per recent reports, after the...",
     "img": "",
     "src": "indiatvnews.com",
