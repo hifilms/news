@@ -1,12 +1,174 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "3-hr takedown, AI labels: Govt cracks down on deepfakes",
+    "desc": "India has significantly tightened digital rules to combat deepfakes, mandating clear labelling and traceability for AI-generated content. Social media platforms now face stricter compliance, with reduced timelines for takedown of unlawful material and direct responsibility placed on senior officers. These new regulations aim to enhance user safety and accountability in the digital space.",
+    "img": "https://static.toiimg.com/photo/msid-128176623,imgsize-370705.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/3-hr-takedown-ai-labels-govt-cracks-down-on-deepfakes/articleshow/128176527.cms",
+    "time": "2026-02-10T21:23:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC's gender handbook is too 'Harvard-oriented': CJI",
+    "desc": "Chief Justice Surya Kant criticized the Supreme Court's gender stereotype handbook as overly technical and inaccessible to common people and rape survivors. He emphasized the need for practical training for High Court judges on handling sexual assault cases. The bench set aside an insensitive Allahabad High Court ruling on an attempted rape case.",
+    "img": "https://static.toiimg.com/photo/msid-128176412,imgsize-1302255.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/scs-gender-handbook-is-too-harvard-oriented-cji/articleshow/128176372.cms",
+    "time": "2026-02-10T21:15:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Opposition, barring TMC, submits notice for removal of Speaker",
+    "desc": "Opposition parties, excluding TMC, have submitted a notice to remove Lok Sabha Speaker Om Birla, accusing him of \"blatant partisanship.\" The move follows repeated denials of permission for Rahul Gandhi to speak, escalating tensions. Birla will abstain from proceedings until the resolution is addressed, likely on March 9.",
+    "img": "https://static.toiimg.com/photo/msid-128176346,imgsize-1657547.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/opposition-barring-tmc-submits-notice-for-removal-of-speaker/articleshow/128176312.cms",
+    "time": "2026-02-10T21:12:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "FBI releases pic of suspect",
+    "desc": "Authorities have released surveillance footage showing a masked individual with a handgun holster at Nancy Guthrie's home the night she disappeared. The FBI recovered the images from residual data, marking a significant breakthrough. Investigators believe the 84-year-old was taken against her will, and her family is desperately seeking her safe return.",
+    "img": "https://static.toiimg.com/photo/msid-128176264,imgsize-16706.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/nancy-guthrie-disappearance-fbi-releases-first-footage-of-masked-person-caught-on-doorbell-camera/articleshow/128175960.cms",
+    "time": "2026-02-10T21:12:15.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Former Army General Naravane confirms Penguin’s claim that memoir is as yet unpublished as Delhi Police file FIR",
-    "desc": "“No copies of the book, either in print or digital form, have been published, distributed, sold, or otherwise made available to the public by Penguin Random House India,” the publishing house said; Gen. Naravane’s clarification follows remarks by Congress leader Rahul Gandhi, who cited a December 2023 social media post by Gen Naravane to counter the publisher’s claim",
+    "desc": "“No copies of the book, either in print or digital form, have been published, distributed, sold, or otherwise made available to the public by Penguin Random House India,” the publishing house said; Gen. Naravane’s clarification follows remarks by Congress leader Rahul Gandhi, who cited a December 2023 social media post by the former Army Chief to counter the publisher’s claim",
     "img": "https://th-i.thgim.com/public/incoming/k28zim/article70616898.ece/alternates/LANDSCAPE_1200/6744_12_1_2021_16_18_14_1_01_ARMY_CHIEF_12_01_DEL.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/former-army-general-naravane-confirms-penguins-claim-that-memoir-is-as-yet-unpublished-as-delhi-police-files-fir/article70616235.ece",
-    "time": "2026-02-10T18:48:23.000Z"
+    "time": "2026-02-10T21:07:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dirty linen washed in the open': Delhi HC urges mediation",
+    "desc": "The Delhi High Court on Tuesday urged the parties locked in a legal battle over late businessman Sunjay Kapur’s estate to consider resolving their dispute through mediation, observing that the matter reflected a “very sorry state of affairs” with “dirty linen being washed in the open”.",
+    "img": "https://static.toiimg.com/photo/msid-128176077,imgsize-72754.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dirty-linen-washed-in-the-open-delhi-hc-urges-mediation-in-sunjay-kapur-estate-battle-involving-karisma-kapoor-and-priya-kapur/articleshow/128176033.cms",
+    "time": "2026-02-10T21:01:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Only achievable special status for J&K is Statehood: Congress leader Karra",
+    "desc": "It’s the first time since the reading down of Article 370 that the Congress has openly decided to shun any demand of special status for J&K like the ruling National Conference and Peoples Democratic Party",
+    "img": "https://th-i.thgim.com/public/incoming/vnyi5u/article70617167.ece/alternates/LANDSCAPE_1200/12205_25_6_2025_17_38_39_1_22_CONGRESS_SGR_25_06_2025.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/only-achievable-special-status-for-jk-is-statehood-congress-leader-karra/article70616322.ece",
+    "time": "2026-02-10T20:27:09.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Compliance takes centrestage in boardrooms",
+    "desc": "Global regulatory complexity is now a central corporate strategy for Indian companies, impacting costs, market access, and competitiveness. Companies are embedding compliance into core business planning, moving from a 'wait and see' to a 'preventive vigilance' model. This shift is driven by increasing scrutiny, mandatory reporting, and the risk of severe penalties, making regulatory navigation a key survival metric.",
+    "img": "https://static.toiimg.com/photo/msid-128175063,imgsize-611484.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/compliance-takes-centrestage-in-boardrooms/articleshow/128175011.cms",
+    "time": "2026-02-10T20:02:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Exporters not sweating over US-Bangladesh trade deal",
+    "desc": "Bangladesh secured a 19% reciprocal tariff from the US, with some exemptions for textiles using American materials. While Indian exporters are watching closely, they remain unconcerned. The slight tariff difference and limited use of US cotton are unlikely to significantly impact Indian garment competitiveness, especially as buyers seek diversification.",
+    "img": "https://static.toiimg.com/photo/msid-128174982,imgsize-987939.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/exporters-not-sweating-over-us-bangladesh-trade-deal/articleshow/128174936.cms",
+    "time": "2026-02-10T19:58:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Pharma manufacturer Dadachanji forays into building med devices",
+    "desc": "The Dadachanji Group has launched KAIRISH Innotech, venturing into custom-built machines, medical devices, and automation for pharma and healthcare. This new entity aims to be a one-stop engineering partner, offering comprehensive solutions from machinery design to sterilization. The move signifies a significant expansion into advanced technological offerings for various industries.",
+    "img": "https://static.toiimg.com/photo/msid-128174883,imgsize-.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/pharma-manufacturer-dadachanji-forays-into-building-med-devices/articleshow/128174883.cms",
+    "time": "2026-02-10T19:56:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Greer",
+    "desc": "US Trade Representative Jamieson Greer stated that the India-US deal will be significant for years to come, positioning India as a potential alternative to China for American companies seeking to diversify production. Greer highlighted India's growing role as a trusted partner in global supply chains and its increasing imports of US oil.",
+    "img": "https://static.toiimg.com/photo/msid-128174848,imgsize-837139.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-can-be-alternative-to-china-for-us-cos-greer/articleshow/128174824.cms",
+    "time": "2026-02-10T19:53:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Govt to sell 5.3% in Bhel, eyes Rs 4,650cr",
+    "desc": "The government is divesting approximately 5.3% of its stake in Bhel through an Offer for Sale (OFS), aiming to raise around Rs 4,650 crore. The OFS, with a floor price of Rs 254 per share, will be open for institutional investors on Wednesday and retail investors and employees on Thursday.",
+    "img": "https://static.toiimg.com/photo/msid-128174800,imgsize-460756.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/govt-to-sell-5-3-in-bhel-eyes-rs-4650cr/articleshow/128174771.cms",
+    "time": "2026-02-10T19:51:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Carlyle to take control of Nido Home Finance",
+    "desc": "Edelweiss Financial Services announced that The Carlyle Group will become the strategic majority investor in its housing finance subsidiary, Nido Home Finance. Carlyle-affiliated funds are committing Rs 2,100 crore, including a Rs 1,500 crore primary equity infusion, to strengthen Nido's capital and governance for affordable housing expansion.",
+    "img": "https://static.toiimg.com/photo/msid-128174748,imgsize-1037656.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/carlyle-to-take-control-of-nido-home-finance/articleshow/128174710.cms",
+    "time": "2026-02-10T19:48:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "TaMo, long-time partner Stellantis ink fresh MoU",
+    "desc": "Tata Motors and Stellantis are exploring new manufacturing, engineering, and supply chain collaborations, building on their existing two-decade joint venture. This partnership aims to leverage synergies and navigate evolving automotive megatrends like powertrain shifts and software-defined vehicles. The move signifies a strategic step for both global players in India's growing mobility sector.",
+    "img": "https://static.toiimg.com/photo/msid-128174680,imgsize-741519.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/tamo-long-time-partner-stellantis-ink-fresh-mou/articleshow/128174670.cms",
+    "time": "2026-02-10T19:45:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Health insurers get back in shape post Covid low",
+    "desc": "India's health insurance sector is experiencing its strongest performance post-pandemic, with the incurred claims ratio dropping to a five-year low of 86.9% in FY25. While overall profitability improved, the group health segment, dominated by public sector insurers, continues to face significant underwriting losses, with claims exceeding premiums.",
+    "img": "https://static.toiimg.com/photo/msid-128174502,imgsize-694437.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/health-insurers-get-back-in-shape-post-covid-low/articleshow/128174462.cms",
+    "time": "2026-02-10T19:38:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold, silver ETFs outshine equity funds",
+    "desc": "Gold and silver ETFs saw record inflows last month, surpassing equity funds for the first time. This surge, driven by unprecedented price rallies in precious metals, highlights investor behavior focused on recent performance. Despite a late-month dip, the trend underscores a significant shift in investment preferences.",
+    "img": "https://static.toiimg.com/photo/msid-128174341,imgsize-1075294.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/metal-over-scrip-gold-silver-etfs-outshine-equity-funds/articleshow/128174272.cms",
+    "time": "2026-02-10T19:30:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Remo D'Souza on converting to Christianity, raising children",
+    "desc": "Remo D’Souza and his wife Lizelle recently spoke about faith, spirituality and conversion, sharing how their beliefs have evolved beyond the limits of a single religion. During a conversation on Nayandeep Rakshit’s YouTube channel, the couple addressed questions around Remo’s decision to convert to Christianity and how his family responded to it.",
+    "img": "https://static.toiimg.com/photo/msid-128174163,imgsize-51088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/remo-dsouza-on-converting-to-christianity-raising-children-without-religious-pressure-my-father-said-bas-mera-naam-mat-change-karna/articleshow/128174063.cms",
+    "time": "2026-02-10T19:29:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Key chord line to ease Secunderabad congestion nears completion",
+    "desc": "Signalling interlocking works are currently underway, after which the section will be opened for traffic; officials estimate that the new route will save up to 30 minutes of travel time, as trains will no longer need to take a 15‑km detour via Malkajgiri and Lallaguda Gate stations",
+    "img": "https://th-i.thgim.com/public/incoming/ojbzto/article70616791.ece/alternates/LANDSCAPE_1200/_NGP1814.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/key-chord-line-to-ease-secunderabad-congestion-nears-completion/article70616758.ece",
+    "time": "2026-02-10T19:19:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Anti-India sentiment serves as both shield and sword in Bangladesh polls",
+    "desc": "As Bangladesh heads into a landmark election, nationalist rhetoric is reshaping political discourse; with Hasina’s Awami League out of the race, the two main contenders, Bangladesh Nationalist Party and the Jamaat-e-Islami alliance, are locked in a contest to weaponise ‘pro-India’ views",
+    "img": "https://th-i.thgim.com/public/incoming/ucc1cs/article70617139.ece/alternates/LANDSCAPE_1200/AFP__20260208__96K84ZP__v3__HighRes__TopshotBangladeshPoliticsElection.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/anti-india-sentiment-serves-as-both-shield-and-sword-in-bangladesh-polls/article70615612.ece",
+    "time": "2026-02-10T19:08:27.000Z"
   },
   {
     "cat": "Sports",
@@ -252,15 +414,6 @@ const newsData_en = [
     "time": "2026-02-10T16:12:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Key chord line to ease Secunderabad congestion nears completion",
-    "desc": "Signalling interlocking works are currently underway, after which the section will be opened for traffic; officials estimate that the new route will save up to 30 minutes of travel time, as trains will no longer need to take a 15‑km detour via Malkajgiri and Lallaguda Gate stations",
-    "img": "https://th-i.thgim.com/public/incoming/ojbzto/article70616791.ece/alternates/LANDSCAPE_1200/_NGP1814.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/key-chord-line-to-ease-secunderabad-congestion-nears-completion/article70616758.ece",
-    "time": "2026-02-10T16:12:07.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Genome Valley Excellence Award 2026 to be conferred upon Dr Bruce Levine at BioAsia",
     "desc": "Dr Bruce Levine of the University of Pennsylvania will receive the Genome Valley Excellence Award 2026 at BioAsia for his groundbreaking work in cell and gene therapy, particularly CAR T-cell treatments for cancer. His innovations have significantly advanced personalized medicine and cancer immunotherapy, setting new benchmarks for translational research and global healthcare.",
@@ -352,15 +505,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "ECI extends SIR in poll-bound Bengal by 2 weeks; final rolls on Feb 28",
-    "desc": "In a letter to the Chief Electoral Officer of West Bengal, the Election Commission said the decision was taken in compliance with the Supreme Court’s February 9 order. Earlier, the final voters’ list was scheduled to be published on February 14, with elections to follow after completion of the exercise.",
-    "img": "https://static.toiimg.com/photo/msid-128164676,imgsize-137640.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/eci-extends-sir-in-poll-bound-bengal-by-2-weeks-final-rolls-on-feb-28/articleshow/128161311.cms",
-    "time": "2026-02-10T15:06:02.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Private hospitals express apprehensions about KCE Act",
     "desc": "As registration begins, many smaller hospitals fear they may struggle to meet the new requirements under the Kerala Clinical Establishments Act. Kerala Private Hospitals’ Association moves the SC against the High Court ruling, which fully endorsed the Act.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -376,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/indigo-says-pilot-strength-adequate-as-dgcas-temporary-duty-norm-relaxations-end/articleshow/128164386.cms",
     "time": "2026-02-10T14:59:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rahul Gandhi didn't speak first on budget debate to avoid ‘engineered disruptions': Report",
-    "desc": "Congress MP Rahul Gandhi will not begin the Union Budget debate today. He cited concerns over potential disruptions from the treasury benches. Gandhi is now expected to speak on Wednesday. The decision follows a notice by opposition parties to remove the Lok Sabha Speaker. Shashi Tharoor initiated the debate. Several opposition members have been suspended this session.",
-    "img": "https://static.toiimg.com/photo/msid-128163863,imgsize-766422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rahul-gandhi-didnt-speak-first-on-budget-debate-to-avoid-engineered-disruptions-report/articleshow/128163889.cms",
-    "time": "2026-02-10T14:44:53.000Z"
   },
   {
     "cat": "World",
@@ -405,15 +540,6 @@ const newsData_en = [
     "time": "2026-02-10T14:22:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Bharat Taxi takes on aggregators with zero-commission, driver-owned model; national rollout by 2029",
-    "desc": "India's first cooperative-led ride-hailing platform, Bharat Taxi, has launched, empowering drivers with ownership and profit-sharing. Operating on a zero-commission model, it offers social security benefits and aims for a nationwide rollout by 2029, fostering a cooperative-driven mobility ecosystem.",
-    "img": "https://static.toiimg.com/photo/msid-128161524,imgsize-69450.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bharat-taxi-takes-on-aggregators-with-zero-commission-driver-owned-model-national-rollout-by-2029/articleshow/128159412.cms",
-    "time": "2026-02-10T14:07:57.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "No Abhishek in India's first training session in Delhi",
     "desc": "India opener Abhishek Sharma missed training in New Delhi due to stomach illness, putting his availability for the Namibia match in doubt. He had a golden duck against the USA and did not field, with Sanju Samson replacing him. Mohammed Siraj said, “Abhishek Sharma has an upset tummy, that's why he didn't field. He will be back fine.” India may rest him ahead of the Pakistan clash, recalling Samson if needed.",
@@ -421,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-no-abhishek-sharma-in-indias-first-training-session-in-new-delhi-heres-why/articleshow/128161467.cms",
     "time": "2026-02-10T13:55:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold, silver rate today: Yellow metal extends rally; silver slips nearly 3%",
-    "desc": "Silver prices plummeted by nearly 3% to Rs 2.64 lakh per kg in Delhi on Tuesday, while gold saw a Rs 2,200 gain per 10 grams, reaching Rs 1.60 lakh. This divergence occurred amidst a firm US dollar and anticipation of key US economic data. Traders are observing a consolidation phase in precious metals.",
-    "img": "https://static.toiimg.com/photo/msid-128161381,imgsize-1032619.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-yellow-metal-extends-rally-as-silver-slips-nearly-3-in-domestic-market/articleshow/128161296.cms",
-    "time": "2026-02-10T13:33:06.000Z"
   },
   {
     "cat": "Sports",
@@ -457,15 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-quarterfinals-bengal-thumps-andhra-by-an-innings-and-90-runs-enters-semifinals/article70615291.ece",
     "time": "2026-02-10T12:56:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India eyes critical minerals deals with France, Brazil, Canada",
-    "desc": "India is actively pursuing agreements with Brazil, Canada, France, and the Netherlands to jointly explore, extract, and process critical minerals like lithium and rare earth elements. This strategic move aims to secure vital raw materials for the nation's energy transition and reduce dependence on China, which currently dominates global supply chains for these essential resources.",
-    "img": "https://static.toiimg.com/photo/msid-128159328,imgsize-293049.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/reducing-china-dependence-india-eyes-critical-minerals-deals-with-france-brazil-canada-says-report/articleshow/128159024.cms",
-    "time": "2026-02-10T12:37:32.000Z"
   },
   {
     "cat": "Sports",
@@ -504,15 +612,6 @@ const newsData_en = [
     "time": "2026-02-10T12:04:52.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Which are the top 10 gainers and losers on NSE &amp; BSE? Check list",
-    "desc": "Indian equity markets extended their winning streak for a third day, buoyed by positive global sentiment and hopes of a US-India trade deal. While the Sensex and Nifty both closed higher, profit-booking limited further gains. Investors are now keenly awaiting quarterly earnings reports for market direction.",
-    "img": "https://static.toiimg.com/photo/msid-128157535,imgsize-995072.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-which-are-top-10-gainers-and-losers-on-nse-bse-on-february-10-2026-check-list/articleshow/128157055.cms",
-    "time": "2026-02-10T11:54:44.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Avinash Tiwary unveils Vishal Bhardwaj's shocking tip",
     "desc": "Sajid Nadiadwala's ‘O’Romeo’, directed by Vishal Bhardwaj and inspired by real events, stars Shahid Kapoor, Triptii Dimri, Avinash Tiwary as fierce Jalal, and more. Produced by Nadiadwala Grandson, this Mumbai underworld action-romance buzzes with trailer, songs, and Tiwary's Flamenco. Hits screens Feb 13, clashing with ‘Tu Yaa Main’.",
@@ -529,15 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/quote-of-the-day-by-virat-kohli-its-time-for-the-next-generation-to-take-over/articleshow/128153493.cms",
     "time": "2026-02-10T11:43:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Govinda praises Komal for staying quiet after wife affair allegations",
-    "desc": "Govinda responded to wife Sunita Ahuja’s allegations linking him to newcomer Komal, thanking the actress for staying silent and saying her composure “saved” him. He denied any misconduct with co-stars, emphasized professionalism throughout his career, and humorously commented that Sunita’s new project with Ektaa Kapoor would keep her busy from interviews.",
-    "img": "https://static.toiimg.com/photo/msid-128151839,imgsize-30282.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/im-saved-because-of-her-govinda-praises-actress-komal-for-staying-quiet-after-wife-sunita-ahuja-affair-allegations/articleshow/128151839.cms",
-    "time": "2026-02-10T11:43:28.000Z"
   },
   {
     "cat": "Sports",
@@ -576,33 +666,6 @@ const newsData_en = [
     "time": "2026-02-10T11:03:08.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Higher than India’s GDP: Value of household gold at record high of over $5 trillion",
-    "desc": "A recent Morgan Stanley report in October 2025 even pegs the total amount of household gold with Indians stands at 34,600 tonnes! However, it is important to understand that the two concepts - value of household gold and India’s GDP - differ fundamentally in terms of stock and flow concepts.",
-    "img": "https://static.toiimg.com/photo/msid-128154534,imgsize-122816.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/higher-than-indias-gdp-value-of-household-gold-at-record-high-why-even-rbi-is-buying-the-yellow-metal/articleshow/128154264.cms",
-    "time": "2026-02-10T10:43:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ED summons Jayaram for questioning",
-    "desc": "Actor Jayaram has been summoned by the Enforcement Directorate in connection with the Sabarimala gold theft case. The probe intensified after allegations surfaced that stolen gold ornaments were taken to Jayaram's Chennai residence for prayers. The ED is investigating under the Prevention of Money Laundering Act, expanding the multi-agency investigation.",
-    "img": "https://static.toiimg.com/photo/msid-128153972,imgsize-39698.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sabarimala-gold-theft-case-ed-summons-jayaram-for-questioning-multi-agency-probe-intensifies/articleshow/128153972.cms",
-    "time": "2026-02-10T10:27:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Love unchanged for Sidhu Moose Wala's mother",
-    "desc": "Charan Kaur and Balkaur Singh, the parents of Sidhu Moose Wala, are currently navigating a poignant mix of sorrow and renewal. Kaur finds comfort in the cherished memories of her son, lovingly referred to as 'Gaggu,' while Singh relies on their newborn son's presence—an 'angelic blessing' that symbolizes a brighter future and the everlasting essence of their late child.",
-    "img": "https://static.toiimg.com/photo/msid-128153790,imgsize-47516.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/punjabi/music/charan-kaur-lovingly-called-sidhu-moose-wala-gaggu-mothers-love-that-fame-never-changed/articleshow/128153790.cms",
-    "time": "2026-02-10T10:22:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Pakistan will be beaten again': Ex-Pak cricketer guarantees",
     "desc": "Former Pakistan bowler Mohammad Asif warns the national team against the United States in their upcoming T20 World Cup 2026 match, predicting another upset. He recalls the dramatic Super Over loss in the 2024 edition, where USA secured a historic victory. Asif believes history could repeat itself, putting Pakistan's campaign at risk.",
@@ -639,15 +702,6 @@ const newsData_en = [
     "time": "2026-02-10T09:35:51.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' censor row; Madras HC dismisses the case against CBFC",
-    "desc": "The Madras High Court has dismissed the case against the CBFC regarding the film 'Jana Nayagan', allowing producers to withdraw. This clears the path for the film's re-examination, with a new committee expected to provide an opinion within 20 days. If certified, the political-social drama starring Thalapathy Vijay could release in early March.",
-    "img": "https://static.toiimg.com/photo/msid-128150946,imgsize-23456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-censor-row-madras-hc-dismisses-the-case-against-cbfc-thalapathy-vijay-officially-sent-for-re-examination/articleshow/128150946.cms",
-    "time": "2026-02-10T09:07:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "de Leede's all-round brilliance helps Netherlands beat Namibia by 7 wickets",
     "desc": "Bas de Leede starred with bat and ball as the Netherlands bounced back from their narrow loss to Pakistan to register their first win of the T20 World Cup, beating Namibia by seven wickets in Delhi. Asked to bat first, Namibia scored 156 for eight. In reply, Netherlands chased down the target of 157 in 18 overs",
@@ -657,15 +711,6 @@ const newsData_en = [
     "time": "2026-02-10T09:02:54.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Indian exports to hit $1 trillion soon? Exporters expect boost from trade deals with US, EU",
-    "desc": "Indian exporters anticipate $1 trillion in goods and services outflows by 2026-27, fueled by new trade agreements with the US and EU. US tariff cuts from 50% to 18% on Indian products are already boosting orders in sectors like chemicals and footwear. Exporters are optimistic about increased market share, though capacity and implementation clarity remain key discussion points.",
-    "img": "https://static.toiimg.com/photo/msid-128149711,imgsize-2050240.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indian-exports-to-hit-1-trillion-soon-exporters-expect-boost-from-trade-deals-with-us-eu/articleshow/128148290.cms",
-    "time": "2026-02-10T08:59:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Best player I’ve ever seen’: Why Buttler made a bold claim about Sooryavanshi",
     "desc": "England cricketer Jos Buttler has lauded Indian prodigy Vaibhav Sooryavanshi, calling the 14-year-old the \"best player I've ever seen\" after his record-breaking 175 in the U-19 World Cup final. Sooryavanshi's explosive innings secured India's sixth title and ignited discussions about cricket's next generational superstar.",
@@ -673,15 +718,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/best-player-ive-ever-seen-jos-buttlers-bold-vaibhav-sooryavanshi-claim/articleshow/128150159.cms",
     "time": "2026-02-10T08:47:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why Indians are swaping flights for train trips in Europe?",
-    "desc": "Indian travelers are increasingly opting for rail passes to explore Europe and East Asia, driven by rising travel costs and a desire for predictable expenses. This trend sees India becoming a significant market for passes like Eurail and the Swiss Travel Pass, with families also embracing train travel for multi-country adventures.",
-    "img": "https://static.toiimg.com/photo/msid-128149194,imgsize-2689644.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/say-hello-to-rail-passes-why-indians-are-swaping-flights-for-train-trips-in-europe/articleshow/128146633.cms",
-    "time": "2026-02-10T08:19:39.000Z"
   },
   {
     "cat": "Sports",
@@ -702,15 +738,6 @@ const newsData_en = [
     "time": "2026-02-10T07:45:44.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Dubai’s new property resale rule 2026: What UAE residents, expats should know about tokenised assets, secondary market activation",
-    "desc": "Dubai is revolutionising its property market with a new resale rule for tokenised real estate, set to launch in February 2026. This initiative aims to boost liquidity and accessibility for residents and expats by allowing fractional ownership trading, much like stocks. The move enhances transparency and investor protection, building on Dubai's digital transformation efforts.",
-    "img": "https://static.toiimg.com/photo/msid-128147419,imgsize-29916.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/dubais-new-property-resale-rule-2026-what-uae-residents-expats-should-know-about-tokenised-assets-secondary-market-activation/articleshow/128143160.cms",
-    "time": "2026-02-10T07:42:40.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘All the pressure on Pakistan’: USA eye another T20 WC shock as old wounds resurface",
     "desc": "Pakistan face immense pressure in their T20 World Cup encounter against the United States, still haunted by a past upset. The American side, bolstered by a near-shock against India and insider knowledge from a former Pakistani player, feels confident. Pakistan, having narrowly escaped defeat in their opener, acknowledges the rising threat of emerging teams.",
@@ -718,15 +745,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/all-the-pressure-on-pakistan-usa-eye-another-t20-world-cup-shock-as-old-wounds-resurface/articleshow/128147464.cms",
     "time": "2026-02-10T07:38:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Supreme Court rules profanity is not per se obscenity",
-    "desc": "The Supreme Court thoroughly reviewed the notion of obscenity, legislative framework involved in the application of the Sections 67 and 67A in the Information Technology Act and the judicial standards that were established in the application of Section 292 in the Indian Penal Code.",
-    "img": "https://static.toiimg.com/photo/msid-128145721,imgsize-23724.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/legal/news/freedom-of-digital-expression-upheld-supreme-court-rules-profanity-is-not-per-se-obscenity/articleshow/128145434.cms",
-    "time": "2026-02-10T06:45:13.000Z"
   },
   {
     "cat": "Sports",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/siraj-swinging-backinto-indias-t20-blueprint/article70608587.ece",
     "time": "2026-02-08T18:08:04.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.K. foreign office to review pay-off to Epstein-linked U.S. envoy",
-    "desc": "Former U.S. envoy Peter Mandelson received an estimated pay-out of between £38,750 and £55,000 ($52,000 and $74,000) after only seven months in the job as British ambassador to the United States, according to a report in the Sunday Times",
-    "img": "https://th-i.thgim.com/public/incoming/utq439/article70607937.ece/alternates/LANDSCAPE_1200/Epstein_Files_Mandelson_28233.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/uk-foreign-office-to-review-pay-off-to-epstein-linked-us-envoy/article70607841.ece",
-    "time": "2026-02-08T14:19:49.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Will be easy to purchase goods valued much more than $500 billion from U.S.: Goyal",
-    "desc": "“We are even today importing 300 billion dollars of goods that can be imported from the U.S. We are importing from all over the world. That is going to grow up to two trillion in the next five years,” Piyush Goyal said",
-    "img": "https://th-i.thgim.com/public/incoming/c5mkmm/article70607810.ece/alternates/LANDSCAPE_1200/20260207215L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/india-us-bilateral-trade-deal-agreement-goods-piyush-goyal-updates/article70607426.ece",
-    "time": "2026-02-08T13:46:52.000Z"
   }
 ];
