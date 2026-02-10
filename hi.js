@@ -1,7 +1,25 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Americans look to shock Pakistan again",
+    "title": "What happened to star opener? Will he miss IND vs NAM T20 World Cup 2026 clash?",
+    "desc": "With India set to face Namibia in their second match of the T20 World Cup 2026 on Thursday, February 12, eyes will be on the likes of Abhishek Sharma. The hard-hitting left-handed batter has been...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-update-what-happened-to-star-opener-will-he-miss-ind-vs-nam-t20-world-cup-2026-clash-2026-02-10-1029696",
+    "time": "2026-02-10T15:28:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sachin Tendulkar and family meet PM Modi, invite him for Arjun Tendulkar's wedding",
+    "desc": "India legend Sachin Tendulkar and his family on Tuesday met Prime Minister Narendra Modi and invited him to the wedding of Arjun Tendulkar and Saaniya Chandhok. Tendulkar took to social media as he shared pictures...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sachin-tendulkar-and-family-meet-pm-modi-invite-him-for-arjun-tendulkars-wedding-2026-02-10-1029688",
+    "time": "2026-02-10T14:21:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "USA look to keep the run rate up, Pakistan look for scalps",
     "desc": "Pakistan and the USA are set for a fascinating T20 World Cup 2026 clash, with both sides eager to make a strong statement when they meet on Tuesday. Calling Pakistan favourites for this clash would...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bengal-s-sudip-gharami-misses-triple-century-by-1-run-joins-elite-list-in-ranji-trophy-quarterfinal-2026-02-10-1029633",
     "time": "2026-02-10T08:43:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Surge of Associate nations at T20 World Cup 2026",
-    "desc": "\"We are not here just to make up numbers.\" These are the words of the Italy captain, Wayne Madsen. The confidence from the South Africa-born cricketer was oozing ahead of the mega event as they...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/from-participants-to-powerhouses-surge-of-associate-nations-at-t20-world-cup-2026-2026-02-10-1029628",
-    "time": "2026-02-10T08:13:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Indian fans pay heavy price amid PCB's flip-flop over India vs Pakistan clash in T20 World Cup 2026",
-    "desc": "As expected, the Pakistan Cricket Board (PCB) made a last-minute U-turn and agreed to play India in the ongoing T20 World Cup 2026. Earlier, the board had refused to participate, claiming solidarity with Bangladesh, who...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/indian-fans-pay-heavy-price-amid-pcb-s-flip-flop-over-india-vs-pakistan-clash-in-t20-world-cup-2026-2026-02-10-1029625",
-    "time": "2026-02-10T07:51:13.000Z"
   }
 ];

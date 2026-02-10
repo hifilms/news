@@ -1,12 +1,39 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "12 ફેબ્રુઆરીએ દેશવ્યાપી હડતાળ, જાણો બેંકો ખુલ્લી રહેશે કે બંધ",
+    "desc": "12 ફેબ્રુઆરીએ ટ્રેડ યુનિયનો અને ખેડૂત સંગઠનો દ્વારા દેશવ્યાપી હડતાળની જાહેરાત કરવામાં આવી છે. જેના કારણે બેંકિંગ અને પરિવહન સેવાઓ પર આંશિક અસર પડી શકે છે. બેંકો સંપૂર્ણપણે બંધ નહીં રહે, પરંતુ અમુક સેવાઓમાં વિલંબ થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/bharat-band-nationwide-strike-on-february-12-will-banks-remain-open-464553 ",
+    "time": "2026-02-10T15:38:38.000Z"
+  },
+  {
     "cat": "Sports",
-    "title": "&amp;#039;ભારતને 4 ગુજરાતી ચલાવી રહ્યા છે&amp;#039;, IND vs PAK મેચ પહેલાં શાહિદ આફ્રીદી ઓક્યું ઝેર, જાણો શું શું કહ્યું",
+    "title": "&amp;#039;ભારતને 4 ગુજરાતી ચલાવી રહ્યા છે&amp;#039;, IND vs PAK મેચ પહેલાં શાહિદ આફ્રીદીએ ઓક્યું ઝેર, જાણો શું શું કહ્યું",
     "desc": "પાકિસ્તાનના પૂર્વ કેપ્ટન શાહિદ આફ્રીદીએ ભારત સામે ફરી એકવાર ઝેર ઓક્યું છે. આફ્રીદી હંમેશાં ભારત વિરોધી નિવેદનો માટે જાણીતો છે. આફ્રીદીએ ટીવીના એક શોમાં જે પણ કહ્યું એ તમામ બાબતોનો એક વીડિયો હાલમાં સોશિયલ મીડિયા પર વાયરલ થઈ રહ્યો છે. આફ્રીદીએ આ વખતે 4 ગુજરાતીઓને ટાર્ગેટ કર્યા છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/shahid-afridi-controversial-statement-viral-ahead-of-ind-vs-pak-match-464538 ",
-    "time": "2026-02-10T13:01:40.000Z"
+    "time": "2026-02-10T13:49:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "જાડેજાને &amp;#039;બિઝનેસ ક્લાસ&amp;#039; તો અક્ષરને &amp;#039;ઇકોનોમી&amp;#039; કેમ ? જાણો કેવી રીતે નક્કી થાય છે ગ્રેડ",
+    "desc": "દેશમાં હાલ T20 વર્લ્ડ કપનો માહોલ જામ્યો છે. ત્યારે આ બધાની વચ્ચે BCCIએ સેન્ટ્રલ કોન્ટ્રાક્ટનું નવું લિસ્ટ જાહેર કરતાં નવી ચર્ચાઓ શરૂ થઈ છે. સેન્ટ્રલ કોન્ટ્રાક્ટમાં સ્પિન ઓલરાઉન્ડર રવિન્દ્ર જાડેજાને A ગ્રેડમાં, જ્યારે ત્રણેય ફોર્મેટમાં રમતા અક્ષર પટેલને C ગ્રેડમાં મુકવામાં આવતા નવી ચર્ચાઓ શરૂ થઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bcci-central-contract-list-ravindra-jadeja-vs-axar-patel-grade-controversy-464541 ",
+    "time": "2026-02-10T13:26:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "મુસાફરો માટે મહત્ત્વના સમાચાર, 1 માર્ચથી UTS એપ થઈ જશે બંધ; હવે આ નવી એપથી બુક થશે ટિકિટ",
+    "desc": "ભારતીય રેલવેએ ટ્રેન ટિકિટ અને અન્ય સેવાઓ માટે એક મોટો બદલાવ કર્યો છે. 1 માર્ચ 2026થી UTS On Mobile એપ બંધ કરી દેવામાં આવશે. હવે મુસાફરોએ ટ્રેન ટિકિટ અને અન્ય બીજી સેવાઓ માટે Railone એપનો ઉપયોગ કરવાનો રહેશે. આવી સ્થિતિમાં ચાલો જાણએ, શું છે RailOne એપ અને તેમાં શું સુવિધા મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/indian-railways-uts-app-closing-from-march-1-switch-to-railone-app-for-general-tickets-464540 ",
+    "time": "2026-02-10T13:18:17.000Z"
   },
   {
     "cat": "Politics",
@@ -324,24 +351,6 @@ const newsData_gu = [
     "time": "2026-02-07T13:21:10.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Gold-Silver Rate: ક્યાં પહોંચ્યા સોના-ચાંદીના ભાવ? ચીન સોનામાં ખેલી રહ્યું છે મોટો દાંવ, આખી દુનિયા પર પડશે અસર!",
-    "desc": "સોના અને ચાંદી ગત સપ્તાહે જે રેકોર્ડ હાઈ પર પહોંચ્યા ત્યારબાદ જબરદસ્ત પછડાયા જો કે કાલે સાંજે વાયદા બજારમાં અને રિટેલ બજારમાં થોડું કરેક્શન જોવા મળ્યું હતું. સોનાના ભાવ ક્યાં પહોંચ્યા અને આખરે ચીને સોના મામલે એવું તે શું કર્યું કે તેની અસર આખી દુનિયા પર જોવા મળશે તે પણ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/what-are-the-latest-gold-silver-rate-china-is-making-a-big-bet-on-gold-may-affect-world-464245 ",
-    "time": "2026-02-07T12:40:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "₹15 બચાવવાની ફોર્મ્યુલા, જેને 90% લોકો નજરઅંદાજ કરે છે",
-    "desc": "જો તમારી હોમ લોન ચાલી રહી હોય તો આ સમાચાર તમારા માટે છે. તાજેતરમાં ભારતીય રિઝર્વ બેંક દ્વારા રેપો રેટ યથાવત રાખવામાં આવ્યો છે. પરંતુ જો તમે તમારી હોમ લોન પ્લાનિંગ સાથે મેનેજ કરો તો લાખો રૂપિયાની બચત કરી શકો છો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/smart-planning-of-home-loan-one-extra-emi-will-save-15-lakhs-464239 ",
-    "time": "2026-02-07T11:03:42.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "14550mAh બેટરી અને 12GB રેમ સાથે ભારતમાં લોન્ચ થયું 2-ઇન-1 Android PC, જાણો કિંમત",
     "desc": "બ્રેવ આર્કએ ભારતમાં તેનું 2-ઇન-1 એન્ડ્રોઇડ પીસી લોન્ચ કર્યું છે. આ ઓલ-ઇન-વન એન્ડ્રોઇડ સંચાલિત ટેબ્લેટ જોરદાર સુવિધાઓ આપે છે. તેમાં પાવરફુલ 14550mAh બેટરી, 12GB RAM અને 256GB સ્ટોરેજ છે. આ ટેબ્લેટ પીસી ઈ-કોમર્સ વેબસાઇટ એમેઝોન દ્વારા વેચાણ માટે ઉપલબ્ધ થશે.",
@@ -421,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/which-country-has-largest-diamond-reserves-russia-diamond-production-facts-464137 ",
     "time": "2026-02-06T12:19:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICCની કાર્યવાહીના ડરથી પાકિસ્તાનની નવી ચાલ! T20 વર્લ્ડ કપમાં ભારત સામેની મેચ પહેલા ખેલશે મોટો દાવ",
-    "desc": "પાકિસ્તાનને 15 ફેબ્રુઆરીએ કોલંબોના આર પ્રેમાદાસા સ્ટેડિયમમાં ભારત વિરુદ્ધ ટી20 વર્લ્ડકપ 2026ની મેચને બાયકોટ કરવાની જાહેરાત કરવામાં આવી છે, જેને લઈને પીસીબી વિરુદ્ધ આઈસીસી એક્શન લઈ શકે છે. તેનાથી બચવા માટે પાકિસ્તાન ક્રિકેટ બોર્ડના ખાસ નિયમનો સહારો લેવાની કોશિશ કરી રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/pakistans-new-strategy-a-big-gamble-before-the-india-pakistan-match-in-the-t20-world-cup-464128 ",
-    "time": "2026-02-06T09:52:18.000Z"
   },
   {
     "cat": "World",
@@ -583,14 +583,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/most-affordable-cng-cars-in-india-know-full-details-463257 ",
     "time": "2026-01-29T10:19:32.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "જિયો હોટસ્ટારે લોન્ચ કર્યા નવા મંથલી પ્લાન, સબ્સક્રિપ્શનમાં મોટા ફેરફાર, 80 રુપિયામાં મળશે ઘણું બધું",
-    "desc": "જો તમે જિયો હોટસ્ટાર પર આવેલી ફિલ્મો અને વેબ સીરીઝ જોવા માંગો છો તો તેના માટે બેસ્ટ સમય છે. કારણ કે જિયો હોટસ્ટારએ યુઝર્સ માટે સૌથી સસ્તા મંથલી પ્લાન લોન્ચ કરી દીધા છે. જેમાં તમે ખૂબ ઓછા ખર્ચે જિયો હોટસ્ટારનું સબ્સક્રિપ્શન લઈ શકો છો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/jio-hotstar-latest-monthly-plans-hotstar-ott-subscription-plans-start-from-79-rupees-463183 ",
-    "time": "2026-01-28T15:05:16.000Z"
   }
 ];

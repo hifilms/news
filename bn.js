@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "'পাকিস্তানে' ১০ গ্রাম 'সোনার' দাম কত জানেন...? 'উত্তর' শুনলেই চমকাবেন, শিওর!",
+    "desc": "সোনা নিয়ে ভারতের মতোই আশেপাশের দেশগুলোতেও মানুষের মধ্যে রয়েছে সমান আবেগ! ঠিক সেই কারণেই এই দেশে সোনার দাম বাড়লেই হইচই পড়ে যায় দেশ জুড়ে। আর ঠিক তখনই অনেকের মনেই প্রশ্ন জাগে আচ্ছা, পাশের দেশ পাকিস্তান বা বাংলাদেশে সোনার দাম কত? আপনিও নিশ্চই মাথা চুলকাচ্ছেন এই প্রশ্ন শুনে? তবে আজ এই প্রতিবেদনে আসুন জেনে নেওয়া যাক পাকিস্তানে এই মুহূর্তে ১০ গ্রাম সোনার দাম ঠিক কোথায় দাঁড়িয়ে!",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/gold-pakstan-2026-02-8907b62fb100b20ca477273355461fc0-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/pakistan-do-you-know-how-much-10-grams-of-gold-costs-in-pakistan-you-will-be-shocked-to-hear-the-answer-for-sure-you-will-never-can-guess-it-sanj-2534249.html",
+    "time": "2026-02-10T16:03:13.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "রক্তচোষা খুদে পিশাচের খপ্পরে পড়ে বেঘোরে শেষ হয়ে গেল ১২ বছরের লক্ষ্মীপ্রিয়া! পুরীতে প্রলয়ঙ্কর কাণ্ড...",
     "desc": "মাথার উকুন কি মানুষের মৃত্যু ঘটাতে পারে (Can Head Lice Kill)? এখন এই প্রশ্নই ঘুরে বেড়াচ্ছে ঘরে-ঘরে। কেননা, পুরীতে ঘটেছে ঠিক এমন ঘটনাই। দীর্ঘ উকুন সংক্রমণের ফলে সৃষ্ট জটিলতার শিকার হয়ে এক কিশোরীর মৃত্যু হয়েছে সেখানে। নাম তার লক্ষ্মীপ্রিয়া সাহু।",
@@ -207,15 +216,6 @@ const newsData_bn = [
     "time": "2026-02-09T08:49:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "এই সময়ে উড়ে যাবে এই এই স্কুল! টার্গেট সংসদ ভবনও! ইমেল পেতেই সাতসকালে শহরজুড়ে আতঙ্কের হাওয়া...",
-    "desc": "৯টি নামকরা স্কুলে ইমেল মারফত বোমার হুমকি দেওয়া হয়েছে, যেখানে দুপুর ১:১১ মিনিটে বিস্ফোরণ এবং আগামী ১৩ ফেব্রুয়ারি সংসদ ভবনে হামলার হুঁশিয়ারি দেওয়া হয়। খবর পাওয়ার পর পুলিস ও বম্ব স্কোয়াড দ্রুত স্কুলগুলো খালি করে তল্লাশি শুরু করেছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/9-schools-get-bomb-threats-by-email-in-delhi-students-evacuated_640249.html ",
-    "time": "2026-02-09T05:59:23.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ম্যাচ বয়কটের সিদ্ধান্ত থেকে ‘ইউ-টার্ন’ ! বিশ্বকাপে ভারতের বিরুদ্ধে খেলা নিয়ে সুর নরম করছে পাকিস্তান?",
     "desc": "পাকিস্তানের প্রধানমন্ত্রী শেহবাজ শরিফের সঙ্গে কথা বলবেন নকভি। জানা গিয়েছে, পাক বোর্ডের কিছু কর্তা টি-টোয়েন্টি বিশ্বকাপে ভারত-পাক ম্যাচ খেলার পক্ষে। তবে এই ম্যাচ খেলার আগে আইসিসিকে তিনটি শর্ত দিয়েছে পাকিস্তান ক্রিকেট বোর্ড। ২৪ ঘণ্টার মধ্যে নিজেদের সিদ্ধান্ত জানাতে পারে পাক বোর্ড।",
@@ -223,15 +223,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/india-vs-pakistan-t20-world-cup-2026-pcb-bcb-icc-meeting-lahore-mohsin-naqvi-pakistan-sets-these-strange-demands-to-play-against-india-ss-2531438.html",
     "time": "2026-02-09T05:30:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বেপরোয়া ল্যাম্বরগিনির ধাক্কায় ১০ ফুট শূন্যে ছিটকে পড়লেন বাইক আরোহী! হেভিওয়েট ব্যবসায়ীর ছেলের তাণ্ডব...",
-    "desc": "কানপুরে তামাক ব্যবসায়ীর ছেলে শিবম মিশ্রর বেপরোয়া ল্যাম্বরগিনির ধাক্কায় ৬ জন পথচারী ও আরোহী গুরুতর আহত হয়েছেন। মদ্যপ অবস্থায় দ্রুত গতিতে গাড়ি চালিয়ে তিনি একটি অটো ও বাইককে পিষে দিলে উত্তেজিত জনতা গাড়িটিতে ভাঙচুর চালায়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/tobacco-barons-son-goes-on-rampage-in-speeding-lamborghini-in-uttar-pradesh_640247.html ",
-    "time": "2026-02-09T05:12:10.000Z"
   },
   {
     "cat": "Politics",
@@ -898,5 +889,14 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/history-at-the-grammy-stage-the-dalai-lama-receives-his-first-honor-at-the-age-of-90-congratulations-pour-in-from-the-sikkim-chief-minister-l18-sdg-local18-2523120.html",
     "time": "2026-02-02T12:20:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "লুকিয়ে অরিজিৎ সিং-এর বাড়ি পৌঁছে গেলেন আমির খান, গায়কের মান ভাঙতে এত দূর এলেন অভিনেতা-পরিচালক? বড় খবর ফাঁস",
+    "desc": "অরিজিৎ সিংয়ের যাতে মান ভঙ্গ হয় সেই জন্য আমির খান এসে প্রায় দু'ঘণ্টা ধরে বৈঠক করেন বলেই জানা গিয়েছে। স্টুডিও বাড়িতে খাওয়া দাওয়া সম্পন্ন করেন। তবে পুলিশ প্রশাসন এমনকি সাধারণ মানুষের চোখের আড়ালেই আমির খান হাজির হন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-02-at-5.03.17-PM-2026-02-572f72194050e95d0da18ebf10e8a59b-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/aamir-khan-comes-to-kolkata-visits-arijit-singh-at-his-jiaganj-house-l18-pbd-local18-2523173.html",
+    "time": "2026-02-02T11:38:13.000Z"
   }
 ];
