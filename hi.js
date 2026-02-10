@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "USA fail to repeat 2024 heroics as Pakistan register back-to-back wins in T20 World Cup 2026",
+    "desc": "Having pulled off a miraculous win over former champions Pakistan in the 2024 T20 World Cup, the USA could not script another famous win this time in the 2026 edition of the tournament. Pakistan starred...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/usa-fail-to-repeat-2024-heroics-as-pakistan-register-back-to-back-wins-in-t20-world-cup-2026-2026-02-10-1029705",
+    "time": "2026-02-10T17:10:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will talisman pacer play in IND vs NAM T20 World Cup 2026 match?",
+    "desc": "India star bowler Jasprit Bumrah missed out on India's T20 World Cup 2026 opener against the USA due to illness in worrying sign for the team. The speedster was set to take the field for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-update-will-talisman-pacer-play-in-ind-vs-nam-t20-world-cup-2026-match-2026-02-10-1029700",
+    "time": "2026-02-10T16:16:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "What happened to star opener? Will he miss IND vs NAM T20 World Cup 2026 clash?",
     "desc": "With India set to face Namibia in their second match of the T20 World Cup 2026 on Thursday, February 12, eyes will be on the likes of Abhishek Sharma. The hard-hitting left-handed batter has been...",
     "img": "",
@@ -19,8 +37,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "USA look to keep the run rate up, Pakistan look for scalps",
-    "desc": "Pakistan and the USA are set for a fascinating T20 World Cup 2026 clash, with both sides eager to make a strong statement when they meet on Tuesday. Calling Pakistan favourites for this clash would...",
+    "title": "Pakistan beat USA by 32 runs for second win in tournament",
+    "desc": "After stunning former champions Pakistan in the 2024 T20 World Cup, the USA were unable to repeat the feat in the 2026 edition as Pakistan produced a dominant all-round display to win the Group A...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pak-vs-usa-t20-world-cup-2026-live-cricket-score-pakistan-vs-usa-sinhalese-sports-club-colombo-latest-match-updates-scorecard-teams-playing-xis-2026-02-10-1029675",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bas-de-leede-shows-way-as-netherlands-beat-namibia-to-extend-lead-among-associate-nations-in-t20-world-cup-2026-02-10-1029644",
     "time": "2026-02-10T10:09:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand look to hunt down 174 against UAE in Chennai",
-    "desc": "New Zealand will look to assert their dominance when they take on the UAE in a crucial T20 World Cup encounter, with both teams heading into the clash with very different objectives. While the Black...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-uae-t20-world-cup-live-cricket-score-new-zealand-vs-uae-ma-chidambaram-stadium-chennai-latest-match-updates-scorecard-teams-playing-xis-2026-02-10-1029642",
-    "time": "2026-02-10T10:06:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bengal's Sudip Gharami misses triple century by 1 run, joins elite list in Ranji Trophy quarterfinal",
-    "desc": "Bengal's Sudip Gharami fell short of creating history in the Ranji Trophy quarterfinal clash against Andhra Pradesh. He was dismissed for 299 runs, one short of a historic triple century, but joined the elite list...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bengal-s-sudip-gharami-misses-triple-century-by-1-run-joins-elite-list-in-ranji-trophy-quarterfinal-2026-02-10-1029633",
-    "time": "2026-02-10T08:43:38.000Z"
   }
 ];
