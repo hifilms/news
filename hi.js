@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Delighted to see the outcome': BCCI's first reaction after Pakistan withdraw boycott of India clash at T20 WC",
+    "desc": "Pakistan are set to play against India on February 15, at the R Premadasa Stadium in Colombo after boycotting the marquee clash earlier this month. The Pakistan Government had directed the national team not to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/delighted-to-see-the-outcome-bcci-s-first-reaction-after-pakistan-withdraw-boycott-of-india-clash-at-t20-wc-2026-02-10-1029615",
+    "time": "2026-02-10T06:56:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PCB remains a case study on how not to run a sporting body",
+    "desc": "Pakistan have repeatedly stirred controversy during one of the world’s biggest sporting events. From statements about agreeing to play in Colombo, to outright refusals to play, to declarations of support for Bangladesh and threats of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pcb-remains-a-case-study-on-how-not-to-run-a-sporting-body-2026-02-10-1029613",
+    "time": "2026-02-10T06:43:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Namibia play their first-ever game on Indian soil, Netherlands seek comeback with two changes",
+    "desc": "Namibia have been a regular presence at the T20 World Cup since 2021, and despite being relatively new to professional cricket, they have made impressive strides in the format. Their progress includes a famous victory...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/namibia-play-their-first-ever-game-on-indian-soil-netherlands-seek-comeback-with-two-changes-2026-02-10-1029599",
+    "time": "2026-02-10T05:33:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohammad Mohsin, born and brought up in Pakistan, warns Salman Agha's men ahead of T20 World Cup clash",
+    "desc": "Pakistan and the USA are set to face each other in the 12th match of the ongoing T20 World Cup at the Sinhalese Sports Club in Colombo. The two teams are locking horns for the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-mohsin-born-and-brought-up-in-pakistan-warns-salman-agha-s-men-ahead-of-t20-world-cup-clash-2026-02-10-1029598",
+    "time": "2026-02-10T05:32:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Apne liye kuch nahi kiya': Mohsin Naqvi's statement after ICC rejected Pakistan's demands amid boycott U-turn",
     "desc": "Pakistan made a U-turn on the boycott of the India clash in the T20 World Cup on Monday (February 9). However, minutes before it was officially confirmed, Pakistan Cricket Board (PCB) Chairman Mohsin Naqvi claimed...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pak-vs-usa-colombo-weather-report-will-rain-play-spoilsport-in-t20-world-cup-clash-2026-02-09-1029553",
     "time": "2026-02-09T16:58:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli, Rohit Sharma face demotion as BCCI announces annual central contracts",
-    "desc": "The BCCI (Board of Control for Cricket in India) came forward and announced its annual central contracts for the 2025-26 season. In what may come as a surprise to many, the likes of Rohit Sharma...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-rohit-sharma-face-demotion-as-bcci-announces-annual-central-contracts-2026-02-09-1029547",
-    "time": "2026-02-09T15:04:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan set to play against India in T20 World Cup 2026, takes U-turn on boycott decision",
-    "desc": "In a massive development, the PCB (Pakistan Cricket Board) has reportedly taken a U-turn in their decision not to play against India in the ongoing T20 World Cup 2026. As per recent reports, after the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-set-to-play-against-india-in-t20-world-cup-2026-takes-u-turn-on-boycott-decision-report-2026-02-09-1029543",
-    "time": "2026-02-09T14:31:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Africa register statement win by 57 runs",
-    "desc": "South Africa and Canada face off in game 9 of the ongoing T20 World Cup 2026. The toss was won by Canada, and the side elected to bowl first. Letting South Africa bat first on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sa-vs-can-t20-world-cup-2026-live-cricket-score-south-africa-vs-canada-narendra-modi-stadium-ahmedabad-latest-match-updates-scorecard-teams-2026-02-09-1029537",
-    "time": "2026-02-09T13:39:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC rejects Pakistan's demand for bilateral series with India amid T20 World Cup boycott row",
-    "desc": "In a major development, the ICC (International Cricket Council) has rejected the PCB's (Pakistan Cricket Board) demand to resume bilateral series with the Indian team. It is interesting to note that the PCB made such...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-rejects-pakistan-s-demand-for-bilateral-series-with-india-amid-t20-world-cup-boycott-row-2026-02-09-1029534",
-    "time": "2026-02-09T13:08:32.000Z"
   }
 ];

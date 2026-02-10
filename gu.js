@@ -1,12 +1,21 @@
 const newsData_gu = [
   {
     "cat": "Business",
-    "title": "સોના-ચાંદી ફરી પાછા ધડામ થયા, ભાવ ઘટીને કેટલો થઈ ગયો? ફટાફટ જાણો લેટેસ્ટ રેટ",
-    "desc": "સોનું અને ચાંદી ભારે ઉતારચડાવ સાથે જોવા મળી રહ્યા છે. સોમવારે તેજી જોવા મળ્યા બાદ હવે આજે વળી પાછી સોના અને ચાંદીમાં નરમાઈ જોવા મળી રહી છે. ભાવમાં ઘટાડો જોવા મળ્યો છે. જાણો આજનો લેટેસ્ટ રેટ.",
+    "title": "કેમ કંપનીઓ ઇન-હેન્ડ સેલેરી વધારી બેઝિક સેલેરી ઘટાડી દે છે? જાણો સેલેરી સ્લિપનું તે &amp;#039;સીક્રેટ&amp;#039; જે કોઈ નહીં જણાવે",
+    "desc": "પગાર તો દર મહિને ખાતામાં આવે છે, પરંતુ શું તમારો બેઝિક પગાર ઈરાદાપૂર્વક ઓછો રાખવામાં આવે છે? તો જાણી કંપની કેમ ઇન-હેન્ડ સેલેરી વધારે છે અને કઈ રીતે તેનું નુકસાન PF, ગ્રેચ્યુઇટી અને ટેક્સમાં તમારે ભોગવવું પડે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-have-become-cheaper-again-prices-have-come-down-know-the-latest-rates-aaj-no-sona-chandi-no-bhav-464477 ",
-    "time": "2026-02-10T04:26:24.000Z"
+    "url": " http://zeenews.india.com/gujarati/business/why-companies-reduce-basic-salary-ctc-breakup-explained-464492 ",
+    "time": "2026-02-10T06:46:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "8મા પગાર પંચ હેઠળ પેન્શન પર સરકારે આપી મહત્વપૂર્ણ માહિતી, કેન્દ્રીય કર્મચારીઓ માટે જાણવી જરૂરી",
+    "desc": "સૌથી મોટો પ્રશ્ન એ હતો કે શું 31 ડિસેમ્બર, 2025ના રોજ અથવા તે પહેલાં નિવૃત્ત થનારા કર્મચારીઓને 8મા પગાર પંચ હેઠળ સુધારેલા પેન્શન મળશે અને શું નાણા બિલ 2025 સરકારને તેમની નિવૃત્તિ તારીખના આધારે પેન્શનરો વચ્ચે તફાવત કરવાનો અધિકાર આપે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/government-has-given-important-information-on-pension-under-the-8th-pay-commission-important-for-central-employees-464489 ",
+    "time": "2026-02-10T06:11:49.000Z"
   },
   {
     "cat": "Sports",
@@ -15,7 +24,16 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/masterstroke-by-icc-pakistan-fell-to-its-knees-and-ready-to-play-a-match-against-india-t20-world-cup-464471 ",
-    "time": "2026-02-10T04:15:40.000Z"
+    "time": "2026-02-10T06:03:04.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોના-ચાંદી ફરી પાછા ધડામ થયા, ભાવ ઘટીને કેટલો થઈ ગયો? ફટાફટ જાણો લેટેસ્ટ રેટ",
+    "desc": "સોનું અને ચાંદી ભારે ઉતારચડાવ સાથે જોવા મળી રહ્યા છે. સોમવારે તેજી જોવા મળ્યા બાદ હવે આજે વળી પાછી સોના અને ચાંદીમાં નરમાઈ જોવા મળી રહી છે. ભાવમાં ઘટાડો જોવા મળ્યો છે. જાણો આજનો લેટેસ્ટ રેટ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-have-become-cheaper-again-prices-have-come-down-know-the-latest-rates-aaj-no-sona-chandi-no-bhav-464477 ",
+    "time": "2026-02-10T04:26:24.000Z"
   },
   {
     "cat": "Politics",
@@ -270,15 +288,6 @@ const newsData_gu = [
     "time": "2026-02-06T17:19:52.000Z"
   },
   {
-    "cat": "Business",
-    "title": "એક પછી એક ડીલે બનાવ્યું છે વાતાવરણ, ડિસેમ્બર સુધીમાં ક્યાં પહોંચશે સેન્સેક્સ ? એક્સપર્ટની મોટી ભવિષ્યવાણી",
-    "desc": "ભારતીય શેરબજારોમાં ફરી તેજી આવી છે. એક પછી એક મોટી ટ્રેડ ડીલની જાહેરાતોએ પોઝિટિવ વાતાવરણ ઊભું કર્યું છે. મોર્ગન સ્ટેનલીના તાજેતરના અહેવાલમાં જણાવાયું છે કે ભારતનું મેક્રો વાતાવરણ બદલાઈ રહ્યું છે. અનેક પરિબળો તેજીને ટેકો આપી રહ્યા હોય તેવું લાગે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/where-will-the-sensex-reach-by-december-expert-big-prediction-464168 ",
-    "time": "2026-02-06T15:48:45.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ભારત છઠ્ઠી વખત બન્યું વર્લ્ડ ચેમ્પિયન, ફાઈનલમાં ઈંગ્લેન્ડને કચડ્યું; વૈભવ સૂર્યવંશી બન્યો જીતનો હીરો",
     "desc": "ભારત અંડર-19 વર્લ્ડ કપ 2026નું વિજેતા બન્યું છે. ફાઈનલમાં ટીમ ઈન્ડિયાએ ઈંગ્લેન્ડને 100 રનથી હરાવ્યું છે. આ છઠ્ઠી વખત છે જ્યારે ભારત અંડર-19 લેવલ પર વિશ્વ વિજેતા બન્યું છે. વૈભવ સૂર્યવંશીના 175 રન અને બોલરોના દમદાર પ્રદર્શને ભારતને ઐતિહાસિક જીત અપાવી છે. ઈંગ્લેન્ડ પાસે તક હતી કે, તેઓ 28 વર્ષથી ચાલી આવતા પોતાના ખિતાબના દુકાળનો અંત લાવે, પરંતુ અંગ્રેજો ભારતીય ટીમની પડકારને પાર કરી શક્યા નહીં.",
@@ -403,24 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/team-india-probable-playing-11-for-t20-world-cup-2026-suryakumar-yadav-464018 ",
     "time": "2026-02-05T07:23:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "મોગાની દીકરી આજે વર્લ્ડ ક્રિકેટ પર કરે છે રાજ ! જાણો હરમનપ્રીત કેવી રીતે બની ક્રિકેટ ‘ક્વીન’",
-    "desc": "હરમનપ્રીત કૌરની નાના શહેરથી ભારતીય મહિલા ક્રિકેટ ટીમની કેપ્ટન બનવાની સફર મહેનત અને આત્મવિશ્વાસની પ્રેરણાદાયક કહાની છે. તેની નિડર બેટિંગ, યાદગાર ઇનિંગ્સ અને મજબૂત લીડરશિપે તેને વૈશ્વિક સ્તરે ઓળખ અપાવી છે, જેના કારણે તે આજે ભારતીય મહિલા ક્રિકેટની સાચી ‘ક્રિકેટ ક્વીન’ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/cricket-queens-harmanpreet-kaur-journey-from-struggle-to-cricket-queen-india-464012 ",
-    "time": "2026-02-05T06:37:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "બોલ ના બેટને અડ્યો કે ના બાઉન્ડ્રી બહાર ગયો, છતાં ટીમને મળ્યા 5 રન... જાણો કેવી રીતે",
-    "desc": "અંડર-19 વર્લ્ડ કપની સેમિફાઈનલ મેચમાં એક વિચિત્ર ઘટના બની. જેમાં ભારતીય બોલરે ફેંકેલા બોલ પર બેટ્સમેને ના કોઈ શોટ રમ્યો કે ના બોલ બાઇન્ડ્રી બહાર ગયો તેમ છતાં અફઘાનિસ્તાનની ટીમને 5 રન આપવામાં આવ્યા હતા. ત્યારે આવું કેમ કરવામાં આવ્યું, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/u19-world-cup-2026-why-afghanistan-was-awarded-5-penalty-runs-against-india-463996 ",
-    "time": "2026-02-05T05:14:16.000Z"
   },
   {
     "cat": "Entertainment",
