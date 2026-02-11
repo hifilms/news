@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "কানাডার টরন্টোতে শপিং মলের সামনে ভারতীয় যুবককে গুলি করে খুন ! কারণ ঘিরে ধোঁয়াশা",
+    "desc": "কানাডায় এক ভারতীয় যুবককে গুলি করে খুনের অভিযোগ উঠল দুষ্কৃতীদের বিরুদ্ধে। কিন্তু কী কারণে তাঁর উপর হামলা হল, তা এখনও স্পষ্ট নয়। ইতিমধ্যেই ঘটনার তদন্ত শুরু করেছে পুলিশ। যুবকের দেহ ফেরাতে কেন্দ্রের দ্বারস্থ হয়েছে পরিবার।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Techie-Chanda-Shootout-2026-02-dd9e346e9cf24cee7980576cd41d86df-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/indian-death-in-canada-firing-techie-from-karnataka-shot-dead-at-busy-toronto-mall-visuals-show-car-riddled-with-bullet-holes-ss-2534731.html",
+    "time": "2026-02-11T03:57:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘ইচ্ছাধারী নাগিন’-এর গুঞ্জন চরমে! রাতে নিজের ঘরে ঘুমোতে গিয়ে নিখোঁজ তরুণী...বিছানায় পড়ে সাপের খোলস!",
+    "desc": "পরিবারের মতে, রবিবার রাতেও যথারীতি ওই তরুণী তাঁর ঘরে চলে যান। পরের দিন সকালে যখন তাঁর মা তাঁকে ডাকতে যান, তখন বিছানা খালি ছিল। তবে, তিনি যা দেখতে পান তাতে হতবাক হয়ে যান। তাঁর দাবি, বিছানার উপর মেয়ের জামাকাপড় এবং গয়না ছড়িয়ে ছিটিয়ে ছিল। ঠিক পাশেই ৫ ফুট লম্বা সাপের খোলসের মতো কিছু পড়ে ছিল।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/New-Project-2026-02-0b49a72ff9c5af6bf1e418408e6d4634-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/uttar-pradesh-woman-missing-mysteriously-as-snake-skin-is-found-on-her-bed-arc-2534681.html",
+    "time": "2026-02-11T03:50:52.000Z"
+  },
+  {
     "cat": "Business",
     "title": "'পাকিস্তানে' ১০ গ্রাম 'সোনার' দাম কত জানেন...? 'উত্তর' শুনলেই চমকাবেন, শিওর!",
     "desc": "সোনা নিয়ে ভারতের মতোই আশেপাশের দেশগুলোতেও মানুষের মধ্যে রয়েছে সমান আবেগ! ঠিক সেই কারণেই এই দেশে সোনার দাম বাড়লেই হইচই পড়ে যায় দেশ জুড়ে। আর ঠিক তখনই অনেকের মনেই প্রশ্ন জাগে আচ্ছা, পাশের দেশ পাকিস্তান বা বাংলাদেশে সোনার দাম কত? আপনিও নিশ্চই মাথা চুলকাচ্ছেন এই প্রশ্ন শুনে? তবে আজ এই প্রতিবেদনে আসুন জেনে নেওয়া যাক পাকিস্তানে এই মুহূর্তে ১০ গ্রাম সোনার দাম ঠিক কোথায় দাঁড়িয়ে!",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/mamata-ec-meet-i-am-issuing-a-challenge-mamata-shares-strong-reaction-after-boycotting-the-meeting-in-delhi-throws-challange-of-bringing-one-lakh-people-with-her-sanj-2523513.html",
     "time": "2026-02-02T13:11:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "গ্র্যামির মঞ্চে ইতিহাস! ৯০ বছর বয়সে প্রথমবার সম্মান পেলেন দালাই লামা, অভিনন্দন সিকিমের মুখ্যমন্ত্রীর",
-    "desc": "৯০ বছর বয়সে দালাই লামা এই সম্মান অর্জন করেন Best Audio Book, Narration & Storytelling Recording বিভাগে। তাঁর স্পোকেন-ওয়ার্ড অ্যালবাম “Meditations: The Reflections of His Holiness the Dalai Lama”, এর জন্য এই পুরস্কার প্রদান করা হয়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/HYP_5740500_cropped_02022026_150725_fb_img_1770023723828_water_1-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/history-at-the-grammy-stage-the-dalai-lama-receives-his-first-honor-at-the-age-of-90-congratulations-pour-in-from-the-sikkim-chief-minister-l18-sdg-local18-2523120.html",
-    "time": "2026-02-02T12:20:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "লুকিয়ে অরিজিৎ সিং-এর বাড়ি পৌঁছে গেলেন আমির খান, গায়কের মান ভাঙতে এত দূর এলেন অভিনেতা-পরিচালক? বড় খবর ফাঁস",
-    "desc": "অরিজিৎ সিংয়ের যাতে মান ভঙ্গ হয় সেই জন্য আমির খান এসে প্রায় দু'ঘণ্টা ধরে বৈঠক করেন বলেই জানা গিয়েছে। স্টুডিও বাড়িতে খাওয়া দাওয়া সম্পন্ন করেন। তবে পুলিশ প্রশাসন এমনকি সাধারণ মানুষের চোখের আড়ালেই আমির খান হাজির হন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-02-at-5.03.17-PM-2026-02-572f72194050e95d0da18ebf10e8a59b-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/aamir-khan-comes-to-kolkata-visits-arijit-singh-at-his-jiaganj-house-l18-pbd-local18-2523173.html",
-    "time": "2026-02-02T11:38:13.000Z"
   }
 ];

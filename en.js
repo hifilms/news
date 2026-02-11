@@ -1,6 +1,222 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Ranveer CALLS OUT Farhan for not being serious about Don 3",
+    "desc": "In a dramatic showdown, Ranveer Singh and Excel Entertainment found themselves at odds over the much-anticipated 'Don 3' during a mediation session organized by the Producers Guild. Singh alleged unprofessional conduct by the studio and questioned the absence of a solid script, while Farhan Akhtar defended the production team, insisting that Singh had not previously voiced any script-related issues.",
+    "img": "https://static.toiimg.com/photo/msid-128188850,imgsize-44550.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-calls-out-farhan-akhtar-for-not-being-serious-about-don-3-claims-hrithik-roshan-was-being-considered-report/articleshow/128188850.cms",
+    "time": "2026-02-11T04:56:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "TOI Exclusive",
+    "desc": "Protesting wrestlers, led by Bajrang Punia and Sangeeta Phogat, are launching the 'Orka Wrestling League' this November. This rebel professional league will feature eight franchise-based global teams, including prominent Indian wrestlers. Aiming to provide recognition and financial security, the league will be a mixed-gender competition with substantial sponsorship and rewards, despite potential opposition from the WFI.",
+    "img": "https://static.toiimg.com/photo/msid-128188837,imgsize-87084.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/toi-exclusive-coming-soon-a-rebel-wrestling-league-by-the-rebels/articleshow/128188775.cms",
+    "time": "2026-02-11T04:51:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kevin Feige feels ‘Sinners’ should ‘win best picture’ at Oscars",
+    "desc": "Michael B. Jordan's 'Sinners' has shattered Oscar records with 16 nominations for the 98th Academy Awards, including Best Picture and Best Actor. Marvel President Kevin Feige lauded the film, particularly its music, stating it deserves Best Picture for that alone.",
+    "img": "https://static.toiimg.com/photo/msid-128188608,imgsize-606802.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/marvel-head-kevin-feige-feels-sinners-should-win-best-picture-at-oscars-2026/articleshow/128188608.cms",
+    "time": "2026-02-11T04:45:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Simu Liu reacts to Kid Rock’s ‘lip syncing’ performance",
+    "desc": "Marvel star Simu Liu has slammed Kid Rock's 'All-American halftime show' as an embarrassing lip-syncing spectacle for a tiny audience, contrasting it sharply with Bad Bunny's globally celebrated Super Bowl performance. Liu's viral X post questioned the show's intent, highlighting the stark viewership difference and the perceived attempt to assert dominance, while praising Bad Bunny's electrifying act.",
+    "img": "https://static.toiimg.com/photo/msid-128188430,imgsize-31880.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/simu-liu-calls-out-kid-rocks-controversial-lip-syncing-to-assert-white-dominance-performance-amid-bad-bunnys-show/articleshow/128188388.cms",
+    "time": "2026-02-11T04:37:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC got tangled in a controversy that wasn’t",
+    "desc": "The BCCI and BCB both erred in the Mustafizur Rahman IPL release dispute. BCB's \"safety concern\" pretext for avoiding India, fueled by social media, allowed PCB to create unnecessary drama. ICC chairman Jay Shah prioritised cricket, ensuring the tournament proceeded despite Bangladesh's absence, highlighting the distinct economic value of India-Pakistan matches.",
+    "img": "https://static.toiimg.com/photo/msid-128188350,imgsize-23604.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-icc-got-tangled-in-a-controversy-that-wasnt/articleshow/128188041.cms",
+    "time": "2026-02-11T04:34:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Currency dips 6 paise to 90.62 against US dollar",
+    "desc": "The Indian rupee opened weaker against the US dollar on Wednesday, trading at 90.62 due to global geopolitical tensions and import demand. Despite a slight dip in the dollar index, rising oil prices are expected to pressure the rupee further. Meanwhile, Indian stock markets showed a positive start, with the Sensex and Nifty gaining points.",
+    "img": "https://static.toiimg.com/photo/msid-128188291,imgsize-133517.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-today-currency-dips-6-paise-to-90-62-against-us-dollar/articleshow/128188175.cms",
+    "time": "2026-02-11T04:33:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kimmel roasts Trump over Bad Bunny’s halftime show",
+    "desc": "After Donald Trump's scathing comments about Bad Bunny's record-setting Spanish-language halftime performance at the Super Bowl, Jimmy Kimmel quickly came to the pop star's defense with sharp wit. Kimmel ridiculed Trump's theatrics and the MAGA fanbase’s demands for a 'safe space,' pointing out the paradox of Trump tuning in to a show he claims to disapprove of.",
+    "img": "https://static.toiimg.com/photo/msid-128188026,imgsize-28946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jimmy-kimmel-roasts-donald-trump-over-bad-bunnys-super-bowl-halftime-show/articleshow/128188005.cms",
+    "time": "2026-02-11T04:26:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Eva Mendes jokes about Ryan’s co-star jealousy confession",
+    "desc": "Eva Mendes playfully revealed her 'most jealous' co-star is Rocky, Ryan Gosling's CGI companion in 'Project Hail Mary'. Despite this lighthearted jab, Mendes cherishes filming 'The Place Beyond the Pines' with Gosling, calling it his 'greatest experience'. Meeting Ryan profoundly shifted Mendes' perspective on motherhood, leading to their two daughters.",
+    "img": "https://static.toiimg.com/photo/msid-128188014,imgsize-873767.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/eva-mendes-hilarious-confession-about-the-only-co-star-of-ryan-gosling-shes-ever-been-jealous-of/articleshow/128188014.cms",
+    "time": "2026-02-11T04:25:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Billionaire Rihanna spotted grocery shopping",
+    "desc": "Billionaire Rihanna was recently spotted grocery shopping like any ordinary person, browsing produce and pushing her own cart. The singer, dressed in a stylish ensemble, even shared a laugh with an elderly shopper who mistook her cart. This down-to-earth display has delighted fans eagerly awaiting her new music.",
+    "img": "https://static.toiimg.com/photo/msid-128188004,imgsize-37800.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/billionaire-rihanna-spotted-grocery-shopping-stuns-fans-by-pushing-her-own-cart-at-supermarket/articleshow/128185995.cms",
+    "time": "2026-02-11T04:23:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Markets inch higher ahead of US economic and job data; Nikkei up 2%, HSI adds 97 points",
+    "desc": "Asian markets showed gains Wednesday, with Hong Kong, South Korea, and Japan trading higher. Investors are weighing weak US consumer data and economic concerns against potential Federal Reserve rate cuts. Technology stocks faced pressure globally due to high valuations and AI investment worries, as traders await crucial US jobs and inflation figures.",
+    "img": "https://static.toiimg.com/photo/msid-128187597,imgsize-115794.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/asian-stocks-today-markets-inch-higher-ahead-of-us-economic-and-job-data-nikkei-up-2-hsi-adds-97-points/articleshow/128186631.cms",
+    "time": "2026-02-11T04:11:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ghooskhor Pandat' row: Makers to CHANGE title of the film",
+    "desc": "In response to mounting criticism and legal scrutiny, Manoj Bajpayee's forthcoming film 'Ghooskhor Pandat' is set for a title change. Critics took to social media and a petition was filed in the Delhi High Court, arguing the title unfairly tarnished a community's reputation by linking it to corruption. Read on to know more.",
+    "img": "https://static.toiimg.com/photo/msid-128187100,imgsize-24718.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ghooskhor-pandat-title-controversy-makers-to-change-title-of-manoj-bajpayee-starrer-after-massive-backlash/articleshow/128187100.cms",
+    "time": "2026-02-11T03:52:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India’s strategic shift ahead of Pakistan clash",
+    "desc": "India's bowlers are intensifying their training to adapt to sluggish tournament pitches, particularly in Colombo. The team is also adjusting batting strategies, moving away from an all-out aggressive approach to incorporate more technique. This shift comes as they prepare for challenging conditions and a crucial match against Pakistan at the T20 World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-128186861,imgsize-236612.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-indias-strategic-shift-ahead-of-pakistan-clash/articleshow/128186838.cms",
+    "time": "2026-02-11T03:42:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No seats then, no roof too now: the strange case of a bus stop in Selaiyur",
+    "desc": "On account of a protracted road-widening exercise by the State highways, Tambaram Velachery Main Road might be in a state of flux; but should that prevent temporary bus shelters complete with seats from being raised, wherever necessary?",
+    "img": "https://th-i.thgim.com/public/incoming/tj1z0l/article70618084.ece/alternates/LANDSCAPE_1200/15dc%20tbrm%20Mahalakshmi%20Ngr%20Bus%20stop.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/no-seats-then-no-roof-too-now-the-strange-case-of-a-bus-stop-in-selaiyur/article70618100.ece",
+    "time": "2026-02-11T03:40:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Did Prakash Raj REPLACE Akshaye in Drishyam 3; Actor REACTS",
+    "desc": "In an exciting turn of events, Prakash Raj has been tapped to join the ensemble of 'Drishyam 3', making it clear that he won't be taking over anyone's role. His addition follows Akshaye Khanna's reported departure over pay and creative differences. Read the full article to know more in detail. Read on to know more.",
+    "img": "https://static.toiimg.com/photo/msid-128185854,imgsize-35990.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-prakash-raj-replace-akshaye-khanna-in-drishyam-3-south-actor-says-im-sure-you-will-love-it/articleshow/128185854.cms",
+    "time": "2026-02-11T03:22:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mumbai Indians say no to RCB playing IPL 2026 matches at DY Patil Stadium",
+    "desc": "Mumbai Indians have denied Royal Challengers Bengaluru permission to use DY Patil Stadium for IPL 2026, citing catchment area restrictions that require an NOC from MI. With Navi Mumbai ruled out, RCB are exploring Raipur and Indore while KSCA continues to push for a return to Chinnaswamy.",
+    "img": "https://static.toiimg.com/photo/msid-128185649,imgsize-179312.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/news/exclusive-mumbai-indians-say-no-to-rcb-playing-ipl-2026-matches-at-dy-patil-stadium/articleshow/128185615.cms",
+    "time": "2026-02-11T03:15:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "A reckoning for India’s aviation sector",
+    "desc": "India’s aviation sector faces urgent challenges as operational failures and safety incidents threaten IndiGo and Air India. With profits declining and rising passenger dissatisfaction, the industry must address systemic vulnerabilities ahead of the entry of new regional players",
+    "img": "https://th-i.thgim.com/public/incoming/sbczi7/article70616945.ece/alternates/LANDSCAPE_1200/PTI01_22_2026_000270B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/a-reckoning-for-indias-aviation-sector/article70615160.ece",
+    "time": "2026-02-11T03:12:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dua-Calum HARASSED by paparazzi: WATCH",
+    "desc": "Pop superstar Dua Lipa and fiancé Calum Turner faced a distressing encounter with paparazzi in Paris. During a dinner outing, the couple was hounded for photos despite repeated requests to stop. Security intervened as the pair attempted to escape the photographers, who demanded that the singer pose for photos.",
+    "img": "https://static.toiimg.com/photo/msid-128185904,imgsize-21818.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dua-lipa-and-calum-turner-harassed-by-paparazzi-amid-wedding-prep-give-us-some-pictures/articleshow/128184686.cms",
+    "time": "2026-02-11T03:02:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Heated Rivalry’ OTT release: When and where to watch in India",
+    "desc": "The popular Canadian sports romance series 'Heated Rivalry,' adapting Rachel Reid's novel, is set to premiere in India on February 20, 2026. This six-episode season chronicles the decade-long secret romance between two rival professional hockey players, Shane Hollander and Ilya Rozanov, exploring their passion and challenges both on and off the ice.",
+    "img": "https://static.toiimg.com/photo/msid-128185711,imgsize-738658.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/heated-rivalry-when-and-where-to-watch-the-acclaimed-viral-queer-hockey-romance-on-ott-in-india/articleshow/128185725.cms",
+    "time": "2026-02-11T02:54:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Harry Potter' series will have 'more of' Draco Malfoy",
+    "desc": "The upcoming 'Harry Potter' series promises a deeper dive into Draco Malfoy's character, with actor Lox Pratt revealing fans will witness \"so much more than the books.\" The 14-year-old hinted at exploring Draco's home life and motivations, offering insights into the sneering villain's backstory.",
+    "img": "https://static.toiimg.com/photo/msid-128185393,imgsize-2010383.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/draco-malfoy-fans-to-get-more-of-him-in-the-harry-potter-series-says-lox-pratt/articleshow/128185393.cms",
+    "time": "2026-02-11T02:45:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Positive, attacking cricket’: Farhan sends warning ahead of India showdown",
+    "desc": "Pakistan opener Sahibzada Farhan has vowed to play attacking cricket against India. The arch-rivals will face off in Colombo on February 15. Farhan's confidence stems from his player-of-the-match performance against the USA. Pakistan captain Salman Ali Agha highlighted the team's balanced batting approach. The team aims to improve its powerplay bowling before the big match.",
+    "img": "https://static.toiimg.com/photo/msid-128185031,imgsize-125030.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/positive-attacking-cricket-sahibzada-farhan-sends-warning-as-pakistan-gear-up-for-india-showdown/articleshow/128184980.cms",
+    "time": "2026-02-11T02:35:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajpal Yadav's net worth: From fees to ad income explained",
+    "desc": "In a shocking turn of events, Bollywood actor Rajpal Yadav finds himself behind bars at Tihar jail due to a bounced check linked to a contentious film investment. His financial situation shows a net worth ranging from Rs 50-85 crore, bolstered by his roles in movies like 'Bhool Bhulaiyaa 2' and 'Chandu Champion'. Read on to know more.",
+    "img": "https://static.toiimg.com/photo/msid-128184487,imgsize-37384.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadavs-net-worth-from-movie-fees-to-brand-endorsement-income-all-you-need-to-know/articleshow/128184487.cms",
+    "time": "2026-02-11T02:24:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cardi B goes for a luxury purchase amidst breakup rumors",
+    "desc": "Cardi B is turning heads with her latest extravagant purchase, an eye-popping $500,000 Audemars Piguet watch, as speculations about her relationship with NFL player Stefon Diggs swirl around her. Flaunting 18-carat white gold and an elegant sprinkle of gemstones, she declares this opulent accessory as a 'gift from me to me' while she preps for her tour.",
+    "img": "https://static.toiimg.com/photo/msid-128184458,imgsize-35988.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/cardi-b-treats-herself-to-a-usd-500000-watch-amid-stefon-diggs-split-rumors/articleshow/128184201.cms",
+    "time": "2026-02-11T02:12:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'One Piece: Into The Grand Line' trailer",
+    "desc": "The highly anticipated 'One Piece' Season 2 trailer is here, showcasing Luffy and the Straw Hats embarking on their perilous journey into the Grand Line. Facing new challenges and formidable foes, the crew's bonds will be tested as they search for the legendary One Piece treasure.",
+    "img": "https://static.toiimg.com/photo/msid-128184345,imgsize-25742.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/one-piece-season-2-trailer-luffy-and-his-straw-hats-set-sail-into-the-grand-line-on-another-epic-adventure/articleshow/128183630.cms",
+    "time": "2026-02-11T02:08:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-US trade deal: White House removes pulses from factsheet",
+    "desc": "The US has revised its factsheet on the trade deal with India, notably removing any mention of pulses from the list of agricultural exports. Additionally, the language regarding India's commitment to purchasing American goods has shifted from a firm commitment to an intention to buy, impacting the description of proposed procurements.",
+    "img": "https://static.toiimg.com/photo/msid-128185461,imgsize-2967437.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-white-house-removes-pulses-from-fact-sheet-changes-key-text/articleshow/128183966.cms",
+    "time": "2026-02-11T01:55:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Ariana Grande wants a 'tiny mouse' to play her in a biopic",
     "desc": "Pop icon Ariana Grande, having just dazzled audiences in her role in 'Wicked', jokingly proposed that her life story could be narrated by a 'tiny mouse' with quirky subtitles. While she isn’t looking to dive into a classic biopic just yet, she did share insights about her evolution as an artist.",
     "img": "https://static.toiimg.com/photo/msid-128183965,imgsize-589325.cms",
@@ -27,42 +243,6 @@ const newsData_en = [
     "time": "2026-02-11T01:28:44.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Vadh 2' box office Day 5: Film sails past Rs 2.99 crore",
-    "desc": "Sanjay Mishra and Neena Gupta star in 'Vadh 2', which has sparked a debate among viewers, with standout performances being its saving grace. Yet, it struggles to live up to the legacy of its predecessor. After earning Rs 0.33 crore on its fifth day, the film's total box office stands at Rs 2.99 crore. Read on to know more.",
-    "img": "https://static.toiimg.com/photo/msid-128183138,imgsize-18262.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/vadh-2-box-office-collection-day-5-sanjay-mishra-and-neena-gupta-starrer-sails-past-rs-2-99-crore/articleshow/128183138.cms",
-    "time": "2026-02-11T01:17:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Oscars 2026 nominees luncheon blends glamour with genuine emotion",
-    "desc": "The 2026 Oscars nominees luncheon at the Beverly Hilton fostered genuine camaraderie among contenders like Emma Stone and Teyana Taylor. Nominees shared hugs and laughter, celebrating their shared journey and the rare opportunity to connect before the awards ceremony. This event highlighted the personal connections forged amidst fierce competition.",
-    "img": "https://static.toiimg.com/photo/msid-128182548,imgsize-876617.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-luncheon-highlights-ema-stone-kate-hudson-michael-b-jordan-and-others-arrive-in-style/articleshow/128182546.cms",
-    "time": "2026-02-11T00:45:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Mardaani 3' pushes past Rs 55 crore globally on Day 12",
-    "desc": "In a surprising turn of events, Rani Mukerji’s ‘Mardaani 3’ is facing challenges at the box office, unable to match the remarkable achievements of its earlier installments. With a modest collection of Rs 2.02 crore on its 12th day, the film's total earnings have reached Rs 39.12 crore. On the international stage, it has managed to earn Rs 55 crore.",
-    "img": "https://static.toiimg.com/photo/msid-128181943,imgsize-22390.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mardaani-3-box-office-collection-day-12-and-day-13-live-rani-mukerjis-cop-drama-pushes-past-rs-55-crore-globally/articleshow/128181943.cms",
-    "time": "2026-02-11T00:39:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Katy Perry shares cosy pics with Justin Trudeau",
-    "desc": "Pop sensation Katy Perry and former Canadian Prime Minister Justin Trudeau are reportedly enjoying a romantic winter getaway, sharing intimate photos from their snowy escape. Their relationship timeline includes concert appearances, dinner dates, and public hand-holding in Paris.",
-    "img": "https://static.toiimg.com/photo/msid-128181103,imgsize-49028.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/katy-perry-shares-cosy-pics-with-justin-trudeau-from-their-secret-winter-getaway/articleshow/128181088.cms",
-    "time": "2026-02-11T00:31:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sachin invites PM Modi, Rahul Gandhi for Arjun-Saaniya wedding",
     "desc": "Sachin Tendulkar met Rahul Gandhi and invited him, along with President Droupadi Murmu, PM Narendra Modi and Amit Shah, to Arjun Tendulkar and Saaniya Chandok’s wedding. Arjun, now with Lucknow Super Giants, has had a mixed IPL career and represents Goa domestically. Saaniya is from the Graviss Group family and a longtime friend of the Tendulkars.",
@@ -70,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/off-the-field/sachin-tendulkar-invites-pm-modi-rahul-gandhi-for-arjun-saaniya-chandok-wedding-ceremony/articleshow/128169255.cms",
     "time": "2026-02-11T00:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'With Love' BO day 5: Film crosses Rs 10 crore",
-    "desc": "With Love is a sweet Tamil-Telugu rom-com that follows a gentle love story set around school memories, family moments, and simple emotions. The film is directed by Madhan and stars Abishan Jeevinth, Anaswara Rajan, and Harish Kumar. The story moves in a calm and warm way, showing how two young people understand each other and grow close. Their bond feels soft and real, and the small scenes between them make the film feel very easy to watch.The film also brings many nostalgic moments from school days.",
-    "img": "https://static.toiimg.com/photo/msid-128181719,imgsize-28898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/with-love-box-office-collections-day-5-anaswara-rajans-romantic-film-crosses-rs-10-crore/articleshow/128181719.cms",
-    "time": "2026-02-11T00:09:18.000Z"
   },
   {
     "cat": "Entertainment",
@@ -115,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/promises-loud-budgets-grand-but-delivery-absent-congress-mp-shashi-tharoor/articleshow/128181007.cms",
     "time": "2026-02-10T23:28:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nicolas Cage debuts 'Spider-Noir' first looks- PICS",
-    "desc": "Nicolas Cage dons the mask as Spider-Noir, a jaded private investigator in 1930s New York, in the newly revealed stills. The series, set to premiere this spring on Prime Video, will offer a unique take on the masked vigilante, distinct from Peter Parker.",
-    "img": "https://static.toiimg.com/photo/msid-128179606,imgsize-16172.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/spider-noir-nicolas-cage-debuts-colour-and-black-and-white-stills-of-upcoming-spider-man-series-pics-inside/articleshow/128177986.cms",
-    "time": "2026-02-10T23:22:27.000Z"
   },
   {
     "cat": "Politics",
@@ -189,15 +351,6 @@ const newsData_en = [
     "time": "2026-02-10T22:37:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Britney Spears sells music catalog for USD 200 million",
-    "desc": "US singer Britney Spears has become the latest musician to sell the rights to her catalog that includes hits like \"... Spears, 44, joins a growing list of artists who have sold their music rights in recent years including Bruce Springsteen and Bob Dylan.",
-    "img": "https://static.toiimg.com/photo/msid-128179163,imgsize-47620.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/britney-spears-sells-rights-to-her-music-catalog-for-usd-200-million-reports/articleshow/128178369.cms",
-    "time": "2026-02-10T22:31:56.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "ED summons Anil, Tina in Rs 40,000cr bank fraud case",
     "desc": "The ED has issued fresh summonses to Anil Ambani and his wife Tina for questioning next week in connection with an alleged Rs 40,000 crore money laundering probe. The agency has already attached Rs 12,000 crore worth of assets. Tina Ambani's questioning is related to the purchase of a Manhattan apartment using alleged proceeds of crime.",
@@ -205,24 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/ed-summons-anil-tina-in-rs-40000cr-bank-fraud-case/articleshow/128177712.cms",
     "time": "2026-02-10T22:13:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Brendan Fraser-Rachel Weisz REUNITE for 'The Mummy 4'",
-    "desc": "Brendan Fraser and Rachel Weisz are reportedly returning for a new 'The Mummy' film, marking their first collaboration on the franchise in over 25 years. Universal has slated the movie for a Summer 2028 release, with Radio Silence directing. This highly anticipated sequel aims to satisfy long-time fans eager for the adventurers' return.",
-    "img": "https://static.toiimg.com/photo/msid-128177554,imgsize-28234.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-mummy-brendan-fraser-and-rachel-weisz-officially-reunite-after-25-years/articleshow/128176486.cms",
-    "time": "2026-02-10T22:09:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Here's who offered help",
-    "desc": "The film industry and political figures have stepped forward to support actor-comedian Rajpal Yadav after he surrendered before Tihar jail authorities in connection with multiple cheque-bounce cases linked to the failure of his 2010 directorial debut Ata Pata Laapata.",
-    "img": "https://static.toiimg.com/photo/msid-128177282,imgsize-29286.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-gets-financial-support-after-surrendering-at-tihar-jail-sonu-sood-gurmeet-choudhary-and-others-offer-help/articleshow/128177168.cms",
-    "time": "2026-02-10T21:53:28.000Z"
   },
   {
     "cat": "Politics",
@@ -243,22 +378,13 @@ const newsData_en = [
     "time": "2026-02-10T21:45:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CPI, CPM move SC for FIR against Himanta over 'target-shooting' video",
-    "desc": "CPM and CPI have filed petitions in the Supreme Court seeking FIRs and an SIT probe against Assam CM Himanta Biswa Sarma. The petitions cite alleged hate speeches and a recent video showing Sarma firing at an image of Muslim men, with accompanying phrases like 'no mercy'.",
-    "img": "https://static.toiimg.com/photo/msid-128176851,imgsize-577182.cms",
+    "cat": "Sports",
+    "title": "Abhishek Sharma hospitalised ahead of clash vs Namibia",
+    "desc": "Abhishek Sharma has been hospitalised with an infection, casting doubt on his availability for India's next T20 World Cup match. He was unwell before the previous game, with his condition worsening after playing. The left-hander didn't train with the team at the Arun Jaitley Stadium on Tuesday. India will take on Namibia on Thursday.",
+    "img": "https://static.toiimg.com/photo/msid-128176149,imgsize-42816.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cpi-cpm-move-sc-for-fir-against-himanta-over-target-shooting-video/articleshow/128176837.cms",
-    "time": "2026-02-10T21:40:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "FBI releases pic of suspect",
-    "desc": "Authorities have released surveillance footage showing a masked individual with a handgun holster at Nancy Guthrie's home the night she disappeared. The FBI recovered the images from residual data, marking a significant breakthrough. Investigators believe the 84-year-old was taken against her will, and her family is desperately seeking her safe return.",
-    "img": "https://static.toiimg.com/photo/msid-128176264,imgsize-16706.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/tv/news/english/nancy-guthrie-disappearance-fbi-releases-first-footage-of-masked-person-caught-on-doorbell-camera/articleshow/128175960.cms",
-    "time": "2026-02-10T21:12:15.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/abhishek-sharma-hospitalised-ahead-of-t20-world-cup-clash-vs-namibia/articleshow/128176092.cms",
+    "time": "2026-02-10T21:11:42.000Z"
   },
   {
     "cat": "Politics",
@@ -268,15 +394,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/former-army-general-naravane-confirms-penguins-claim-that-memoir-is-as-yet-unpublished-as-delhi-police-files-fir/article70616235.ece",
     "time": "2026-02-10T21:07:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dirty linen washed in the open': Delhi HC urges mediation",
-    "desc": "The Delhi High Court on Tuesday urged the parties locked in a legal battle over late businessman Sunjay Kapur’s estate to consider resolving their dispute through mediation, observing that the matter reflected a “very sorry state of affairs” with “dirty linen being washed in the open”.",
-    "img": "https://static.toiimg.com/photo/msid-128176077,imgsize-72754.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dirty-linen-washed-in-the-open-delhi-hc-urges-mediation-in-sunjay-kapur-estate-battle-involving-karisma-kapoor-and-priya-kapur/articleshow/128176033.cms",
-    "time": "2026-02-10T21:01:42.000Z"
   },
   {
     "cat": "Politics",
@@ -495,15 +612,6 @@ const newsData_en = [
     "time": "2026-02-10T17:08:30.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "5 true romance stories that re-wrote love on the big screen",
-    "desc": "​Real-life tales of romance touch our lives in different ways since they put us in mind that the real romance is not one with perfect scripting but two people hanging in there amidst all the chaos, heartbreaks, and wins. Hollywood loves using real stories for the big screen with the aim of having us reach for our tissues and support the underdogs. Let’s explore five different couples with a real story.​",
-    "img": "https://static.toiimg.com/photo/msid-128143800,imgsize-983743.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/five-unforgettable-true-romance-stories-that-re-wrote-love-on-the-big-screen-the-vow-the-theory-of-everything-and-more/photostory/128143800.cms",
-    "time": "2026-02-10T17:00:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Hyderabad company Aarvee Engineering Consultants gets Sebi nod for IPO",
     "desc": "Aarvee Engineering Consultants has secured SEBI's nod for its IPO, aiming to raise Rs 202.5 crore via fresh issue and Rs 67.5 lakh shares through an offer for sale. Proceeds will fund debt repayment, bolster Indian and overseas subsidiaries for tech development, and general corporate needs. The infrastructure consultancy boasts a strong project portfolio.",
@@ -567,42 +675,6 @@ const newsData_en = [
     "time": "2026-02-10T16:14:49.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Genome Valley Excellence Award 2026 to be conferred upon Dr Bruce Levine at BioAsia",
-    "desc": "Dr Bruce Levine of the University of Pennsylvania will receive the Genome Valley Excellence Award 2026 at BioAsia for his groundbreaking work in cell and gene therapy, particularly CAR T-cell treatments for cancer. His innovations have significantly advanced personalized medicine and cancer immunotherapy, setting new benchmarks for translational research and global healthcare.",
-    "img": "https://static.toiimg.com/photo/msid-128166420,imgsize-775593.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/genome-valley-excellence-award-2026-to-be-conferred-upon-dr-bruce-levine-at-bioasia/articleshow/128166317.cms",
-    "time": "2026-02-10T15:56:50.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Hisense opens first India manufacturing plant in Sri City",
-    "desc": "Chinese giant Hisense has launched its first Indian manufacturing facility in Andhra Pradesh, a significant step in its 'Make in India' localization strategy. The over $30 million plant, set up by Epack Durable, will initially produce 7.5 lakh room air conditioners annually.",
-    "img": "https://static.toiimg.com/photo/msid-128166026,imgsize-1240258.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/hisense-opens-first-india-manufacturing-plant-in-sri-city/articleshow/128165956.cms",
-    "time": "2026-02-10T15:44:42.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Goldman Sachs lifts India growth forecast, cuts CAD estimate after India-US trade deal",
-    "desc": "Goldman Sachs has boosted India's economic growth forecast for 2026 to 6.9% and reduced its current account deficit estimate to 0.8% of GDP. This positive revision follows the India-US trade deal, which lowers US tariffs on Indian exports. The brokerage also noted the Indian Rupee's recent strength, though further appreciation is unlikely, and expects interest rates to remain stable.",
-    "img": "https://static.toiimg.com/photo/msid-128165787,imgsize-1434271.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/goldman-sachs-lifts-india-growth-forecast-cuts-cad-estimate-after-india-us-trade-deal/articleshow/128165366.cms",
-    "time": "2026-02-10T15:38:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Adult male tiger set for reintroduction into wild",
-    "desc": "The expert committee says that the tiger was ‘innocent’ as it did not attack any human being during its 53-day sojourn in the four States; the historic operation, in which the tiger was tranquilised in the human settlement without causing any harm to it, is coined ‘Stripes’",
-    "img": "https://th-i.thgim.com/public/incoming/kf2mt7/article70616451.ece/alternates/LANDSCAPE_1200/10237_10_2_2026_20_23_51_1_WHATSAPPIMAGE2026_02_10AT73401PM.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/ntca-to-reintroduce-innocent-male-tiger-back-into-the-wild/article70616348.ece",
-    "time": "2026-02-10T15:30:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Going to Colombo a challenge': Doeschate on why Pakistan have the edge",
     "desc": "India say they were always mentally prepared to face Pakistan on February 15, with assistant coach Ryan ten Doeschate stressing off-field issues never affected preparations, though Pakistan may have a logistical edge in Colombo. Opener Abhishek Sharma missed training due to illness and could be rested, with Sanju Samson a possible replacement.",
@@ -619,24 +691,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/ghooskhor-pandat-controversy-ghooskhor-pandat-name-change-netflix-to-delhi-high-court/article70615106.ece",
     "time": "2026-02-10T15:23:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "IndiGo says pilot strength adequate as DGCA’s temporary duty norm relaxations end",
-    "desc": "IndiGo assures stable operations as DGCA's temporary pilot duty norm relaxations end. Following significant flight disruptions and cancellations in early December, the airline faced regulatory scrutiny. The DGCA had granted exemptions until February 10 to aid stabilization, but pilot bodies emphasize safety over fatigue concerns.",
-    "img": "https://static.toiimg.com/photo/msid-128164497,imgsize-1454462.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indigo-says-pilot-strength-adequate-as-dgcas-temporary-duty-norm-relaxations-end/articleshow/128164386.cms",
-    "time": "2026-02-10T14:59:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India needs $14.23tn investment in power sector by 2070 to meet net-zero goal: Niti Aayog",
-    "desc": "India needs a massive $14.23 trillion investment in its power sector by 2070 for a net-zero future, with renewables dominating generation. Electricity's role in consumption will surge, requiring a 14-fold increase in installed capacity. Decarbonizing transport and securing critical mineral supplies are also vital for achieving climate goals.",
-    "img": "https://static.toiimg.com/photo/msid-128163030,imgsize-881524.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-needs-14-23-trillion-investment-in-power-sector-by-2070-to-meet-net-zero-goal-niti-aayog/articleshow/128162320.cms",
-    "time": "2026-02-10T14:22:57.000Z"
   },
   {
     "cat": "Sports",
@@ -702,15 +756,6 @@ const newsData_en = [
     "time": "2026-02-10T11:43:52.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IOC approves black armband but denies tribute helmet for Ukrainian Olympian",
-    "desc": "Ukrainian skeleton racer Vladyslav Heraskevych will compete with a black armband after the IOC granted an exception, but his custom helmet honoring fallen Ukrainian athletes was banned. Officials cited Olympic regulations against political statements, calling the armband a compromise. Heraskevych expressed confusion over the helmet's rejection, emphasizing it was a tribute to the Olympic family.",
-    "img": "https://static.toiimg.com/photo/msid-128156061,imgsize-121026.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/winter-olympics-ioc-approves-black-armband-but-denies-tribute-helmet-for-ukrainian-olympian/articleshow/128156142.cms",
-    "time": "2026-02-10T11:32:42.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran says nuclear talks gauged 'seriousness' of U.S.",
     "desc": "Regarding the Israeli Prime Minister’s expected trip to Washington ​on Wednesday (February 11, 2026), Mr. Baghaei said the ⁠U.S. “must act independently of foreign pressures, especially Israeli pressures that ignore the interests of the region and even the U.S.”",
@@ -727,15 +772,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/children/what-is-quantum-computing/article70561355.ece",
     "time": "2026-02-10T11:17:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sudip Gharami's 299 powers Bengal to dominant Ranji semifinal entry",
-    "desc": "Bengal secured a commanding innings and 90-run victory over Andhra to advance to the Ranji Trophy semifinals. Sudip Kumar Gharami's exceptional 299 laid the foundation for Bengal's dominance. The team will now face Jammu and Kashmir in the next round. Shahbaz Ahmed's bowling proved crucial in dismantling Andhra's second innings.",
-    "img": "https://static.toiimg.com/photo/msid-128155374,imgsize-215180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sudip-kumar-gharamis-299-powers-bengal-to-dominant-ranji-semifinal-entry/articleshow/128155214.cms",
-    "time": "2026-02-10T11:03:08.000Z"
   },
   {
     "cat": "Politics",
@@ -766,57 +802,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Not going to be easy': Ganguly warns Pakistan in high-stakes World Cup showdown",
-    "desc": "Former captain Sourav Ganguly expressed his enthusiasm for India's upcoming T20 World Cup encounter against Pakistan on February 15. He believes India, a strong team, will pose a significant challenge. Ganguly also highlighted his admiration for Abhishek Sharma, Jasprit Bumrah, Suryakumar Yadav, and Ishan Kishan within the current squad, noting the tournament's exciting start.",
-    "img": "https://static.toiimg.com/photo/msid-128152482,imgsize-162472.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/not-going-to-be-easy-sourav-ganguly-warns-pakistan-in-high-stakes-world-cup-showdown/articleshow/128152468.cms",
-    "time": "2026-02-10T09:55:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Truth cannot be inconvenient’: Zelensky backs Olympian after IOC row over war-tribute helmet",
-    "desc": "Ukrainian President Volodymyr Zelensky backs skeleton racer Vladyslav Heraskevych. Heraskevych faced a ban from the International Olympic Committee for his helmet design. The helmet featured portraits of Ukrainian athletes killed in the war with Russia. Zelensky stated the helmet's message is a reminder of modern Russia's actions. Heraskevych aims to keep global attention on the conflict.",
-    "img": "https://static.toiimg.com/photo/msid-128151838,imgsize-135576.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/truth-cannot-be-inconvenient-zelensky-backs-olympian-heraskevych-after-ioc-row-over-war-tribute-helmet/articleshow/128151818.cms",
-    "time": "2026-02-10T09:35:51.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "de Leede's all-round brilliance helps Netherlands beat Namibia by 7 wickets",
     "desc": "Bas de Leede starred with bat and ball as the Netherlands bounced back from their narrow loss to Pakistan to register their first win of the T20 World Cup, beating Namibia by seven wickets in Delhi. Asked to bat first, Namibia scored 156 for eight. In reply, Netherlands chased down the target of 157 in 18 overs",
     "img": "https://static.toiimg.com/photo/msid-128150792,imgsize-153924.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-bas-de-leedes-all-round-brilliance-helps-netherlands-beat-namibia-by-7-wickets/articleshow/128150752.cms",
     "time": "2026-02-10T09:02:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Best player I’ve ever seen’: Why Buttler made a bold claim about Sooryavanshi",
-    "desc": "England cricketer Jos Buttler has lauded Indian prodigy Vaibhav Sooryavanshi, calling the 14-year-old the \"best player I've ever seen\" after his record-breaking 175 in the U-19 World Cup final. Sooryavanshi's explosive innings secured India's sixth title and ignited discussions about cricket's next generational superstar.",
-    "img": "https://static.toiimg.com/photo/msid-128150235,imgsize-52558.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/best-player-ive-ever-seen-jos-buttlers-bold-vaibhav-sooryavanshi-claim/articleshow/128150159.cms",
-    "time": "2026-02-10T08:47:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "It's all about the money, honey!",
-    "desc": "The highly anticipated India vs Pakistan T20 World Cup match is confirmed, averting significant financial losses. Back-channel talks between the ICC, PCB, and BCB secured the fixture's continuation. This clash is a commercial powerhouse, generating millions in advertising and impacting broadcast rights negotiations, making its potential cancellation a major concern for all stakeholders.",
-    "img": "https://static.toiimg.com/photo/msid-128147483,imgsize-69056.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-vs-pakistan-to-go-ahead-at-t20-world-cup-its-all-about-the-money-honey/articleshow/128147315.cms",
-    "time": "2026-02-10T07:45:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘All the pressure on Pakistan’: USA eye another T20 WC shock as old wounds resurface",
-    "desc": "Pakistan face immense pressure in their T20 World Cup encounter against the United States, still haunted by a past upset. The American side, bolstered by a near-shock against India and insider knowledge from a former Pakistani player, feels confident. Pakistan, having narrowly escaped defeat in their opener, acknowledges the rising threat of emerging teams.",
-    "img": "https://static.toiimg.com/photo/msid-128147732,imgsize-86442.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/all-the-pressure-on-pakistan-usa-eye-another-t20-world-cup-shock-as-old-wounds-resurface/articleshow/128147464.cms",
-    "time": "2026-02-10T07:38:44.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/minions-amp-monsters-trailer-sequels-first-footage-and-official-title-revealed-at-super-bowl/article70610193.ece",
     "time": "2026-02-09T08:30:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Supergirl’ teaser: Milly Alcock’s Kara Zor-El meets Krypto for the first time at Super Bowl",
+    "desc": "DC Studios used the Super Bowl stage to debut a new teaser for ‘Supergirl’, offering the clearest look yet at Milly Alcock’s darker, more conflicted take on Kara Zor-El and revealing her early bond with Krypto on Krypton before the planet’s destruction",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/za5wt1/article70610153.ece/alternates/LANDSCAPE_1200/supergirl-milly-alcock.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/supergirl-teaser-milly-alcocks-kara-zor-el-meets-krypto-for-the-first-time-at-super-bowl/article70610160.ece",
+    "time": "2026-02-09T08:17:22.000Z"
   }
 ];

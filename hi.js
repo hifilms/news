@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Will play like a normal match'",
+    "desc": "Pakistan opener Sahibzada Farhan has downplayed the hype surrounding the upcoming India-Pakistan clash in the T20 World Cup, insisting that the game is “not such a big deal.” Farhan’s comments came after his 73-run knock...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-play-like-a-normal-match-sahibzada-farhan-downplays-india-pakistan-high-voltage-clash-2026-02-11-1029760",
+    "time": "2026-02-11T04:45:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ben Stokes undergoes successful facial surgery, shares photo on Instagram",
+    "desc": "England Test captain Ben Stokes has successfully undergone surgery following a facial injury sustained during a nets session, leaving the star all-rounder sidelined once again. The 34-year-old shared the news on Instagram on Tuesday, adding...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-undergoes-successful-facial-surgery-shares-photo-on-instagram-2026-02-11-1029749",
+    "time": "2026-02-11T03:48:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Finn Allen breaks Abhishek Sharma's world record with blistering knock against UAE",
+    "desc": "Chasing 174 runs against UAE, New Zealand openers Finn Allen and Tim Seifert stole the show, cementing a 10-wicket win at the MA Chidambaram Stadium in Chennai. It marked the second-highest successful run chase in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/finn-allen-breaks-abhishek-sharma-s-world-record-with-blistering-knock-against-uae-2026-02-11-1029735",
+    "time": "2026-02-11T02:28:10.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Michael Bracewell ruled out of T20 World Cup 2026, New Zealand announce replacement",
     "desc": "Star New Zealand all-rounder Michael Bracewell has been ruled out of the ongoing T20 World Cup 2026. The 34-year-old reinjured his left calf and is set to be out of action for at least three...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pak-vs-usa-t20-world-cup-2026-live-cricket-score-pakistan-vs-usa-sinhalese-sports-club-colombo-latest-match-updates-scorecard-teams-playing-xis-2026-02-10-1029675",
     "time": "2026-02-10T12:56:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Blow for Sri Lanka, Wanindu Hasaranga ruled out for remainder of T20 World Cup 2026",
-    "desc": "Sri Lanka have been dealt a huge blow as star all-rounder Wanindu Hasaranga has been ruled out for the remainder of the T20 World Cup 2026 due to the hamstring injury he sustained during his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/blow-for-sri-lanka-wanindu-hasaranga-ruled-out-for-remainder-of-t20-world-cup-2026-2026-02-10-1029669",
-    "time": "2026-02-10T12:11:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch clash in India on TV and online",
-    "desc": "Pakistan will aim to banish memories of a humiliating past defeat when they face a spirited USA in the T20 World Cup on Tuesday, 20 months after suffering an infamous loss to the same opponents....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pak-vs-usa-t20-world-cup-live-streaming-details-when-and-where-to-watch-clash-in-india-on-tv-and-online-2026-02-10-1029666",
-    "time": "2026-02-10T12:01:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia to miss Tim David for T20 World Cup 2026 opener against Ireland, confirms Mitchell Marsh",
-    "desc": "Australia will be without their power-hitter, Tim David, for their T20 World Cup 2026 opener against Ireland on Wednesday, February 11, at the R Premadasa Stadium in Colombo. Aussies will be the last team to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-to-miss-tim-david-for-t20-world-cup-2026-opener-against-ireland-confirms-mitchell-marsh-2026-02-10-1029657",
-    "time": "2026-02-10T11:06:47.000Z"
   }
 ];
