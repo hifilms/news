@@ -1,7 +1,34 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "South Africa beat Afghanistan in one of T20 classics in Ahmedabad",
+    "title": "Tilak Varma shares major update on India's star opener ahead of Namibia clash",
+    "desc": "India are set to face Namibia in their second game of the ongoing T20 World Cup at the Arun Jaitley Stadium in New Delhi. Ahead of the clash, they are fretting over Abhishek Sharma, who...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-health-tilak-varma-shares-major-update-on-india-s-star-opener-ahead-of-namibia-clash-2026-02-11-1029841",
+    "time": "2026-02-11T12:36:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Mitchell Marsh not playing for Australia vs Ireland in T20 World Cup 2026?",
+    "desc": "Australia skipper Mitchell Marsh didn't walk out for the toss in their opening game of the T20 World Cup against Ireland. Travis Head is leading Australia at the R Premadasa Stadium in Colombo and this...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-mitchell-marsh-not-playing-for-australia-vs-ireland-in-t20-world-cup-2026-2026-02-11-1029824",
+    "time": "2026-02-11T10:54:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How can Afghanistan still qualify for Super 8 round of T20 World Cup 2026? Here are scenarios",
+    "desc": "Afghanistan went down fighting to South Africa in the second super over in the league stage clash of the ongoing T20 World Cup. The match was played at the Narendra Modi Stadium in Ahmedabad and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-can-afghanistan-still-qualify-for-super-8-round-of-t20-world-cup-2026-here-are-scenarios-2026-02-11-1029821",
+    "time": "2026-02-11T10:44:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Africa beat Afghanistan in one of T20 World Cup classics in Ahmedabad",
     "desc": "South Africa pulled off a thrilling win over Afghanistan in a high-scoring encounter at the Narendra Modi Stadium in Ahmedabad. However, the Rashid Khan-led side didn’t go away without a fight. Chasing 188, the Rashid...",
     "img": "",
     "src": "indiatvnews.com",
@@ -37,7 +64,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "South Africa post 23 runs in second Super Over",
+    "title": "South Africa win despite Rahmanullah Gurbaz's brilliance",
     "desc": "After suffering a defeat to New Zealand in their opening T20 World Cup 2026 match, Afghanistan are eager to get back to winning ways in their next encounter against South Africa at the Narendra Modi...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-undergoes-successful-facial-surgery-shares-photo-on-instagram-2026-02-11-1029749",
     "time": "2026-02-11T03:48:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Finn Allen breaks Abhishek Sharma's world record with blistering knock against UAE",
-    "desc": "Chasing 174 runs against UAE, New Zealand openers Finn Allen and Tim Seifert stole the show, cementing a 10-wicket win at the MA Chidambaram Stadium in Chennai. It marked the second-highest successful run chase in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/finn-allen-breaks-abhishek-sharma-s-world-record-with-blistering-knock-against-uae-2026-02-11-1029735",
-    "time": "2026-02-11T02:28:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Michael Bracewell ruled out of T20 World Cup 2026, New Zealand announce replacement",
-    "desc": "Star New Zealand all-rounder Michael Bracewell has been ruled out of the ongoing T20 World Cup 2026. The 34-year-old reinjured his left calf and is set to be out of action for at least three...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/michael-bracewell-ruled-out-of-t20-world-cup-2026-new-zealand-announce-replacement-2026-02-11-1029726",
-    "time": "2026-02-11T01:41:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma hospitalised in Delhi ahead of India's game against Namibia in T20 World Cup 2026",
-    "desc": "India opener Abhishek Sharma was hospitalised on Tuesday night after suffering from a stomach infection. Earlier in the day, assistant coach Ryan ten Doeschate had revealed that the southpaw was dealing with a “stomach upset,”...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-hospitalised-in-delhi-ahead-of-india-s-game-against-namibia-in-t20-world-cup-2026-2026-02-11-1029720",
-    "time": "2026-02-11T01:10:37.000Z"
   }
 ];

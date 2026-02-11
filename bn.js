@@ -1,5 +1,59 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "কলকাতায় রানি...! বক্সঅফিসে ‘মর্দানি ৩’-এর সাফল্যে কালীঘাটে পুজো... সঙ্গে মাসি দেবশ্রী রায়",
+    "desc": "কেরিয়ারের তিন দশক পূর্তিতে সম্প্রতি ‘মর্দানি ৩’ ছবি রিলিজ করেছেন রানি মুখোপাধ্যায়। যেখানে নারীপাচার রুখতে দোর্দণ্ডপ্রতাপ পুলিশ অফিসারের ভূমিকায় রণংদেহি মেজাজে নজর কাড়েন অভিনেতা।এবার মুম্বই থেকে কলকাতায় ছুটে এসে সোজা কালীঘাটে গেলেন রানি মুখোপাধ্যায়। মাসি দেবশ্রী রায়ের সঙ্গে পুজো দিতে দেখা গেল বলিউডের ‘ক্যুইন’কে। রানির পরনে ছিল পাটভাঙা ‘চেক’ লাল শাড়ি।অন্যদিকে দেবশ্রী রায় পরেছিলেন লালপাড়া সাদা গরদের শাড়ি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-11-at-5.51.30-PM-2026-02-0b879e17d51e659302d4f44ef8dc69cb-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/mardani-3-success-rani-celebrates-womens-power-with-puja-at-kalighat-rmj-ws-l-2535732.html",
+    "time": "2026-02-11T12:43:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "হিরণের আগাম জামিনের পরেই মুখ খুললেন প্রথম স্ত্রী! বিস্ফোরক দাবি, কী বললেন অনিন্দিতা?",
+    "desc": "এদিন তিনি জানান, এরকম একটি জঘন্য অপরাধের পর হিরণের জামিন তিনি মেনে নিতে পারছেন না। বলা হয় সংবিধানে মেয়েদের জন্য আইন বেশ শক্ত, কিন্তু তিনি তার প্রতিফলন দেখতে পেলেন না। ভবিষ্যতে তিনি যেমনভাবে আইনি লড়াই চালিয়ে যাচ্ছেন তেমনটাই চালিয়ে যাবেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-21-at-8.47.14-AM-2026-01-68a82af9ccdd46ae6fab877ba367300a-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/kolkata-high-court-has-granted-anticipatory-bail-to-actor-and-mla-hiran-chatterjee-what-did-her-1st-wife-say-rmj-2535719.html",
+    "time": "2026-02-11T12:25:31.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "হাসিনা সরকারের পতনের পর বাংলাদেশে প্রথম ভোট, কোন দলের পাল্লা ভারী?",
+    "desc": "বাংলাদেশের হাওয়া বলছে, বিএনপিই ক্ষমতায় আসবে। সেই সম্ভাবনা প্রবল। তুলনায় অনেকটাই পিছিয়ে রয়েছে কট্টরপন্থী শক্তি জামায়াতে ইসলামী এবং ছাত্র আন্দোলনের নেতাদের একাংশের তৈরি নতুন দল এনসিপির জোট। তবে বিভিন্ন সমীক্ষা বলছে এই নির্বাচনে বড় ফ্যাক্টর হবে ভোটের হার। যদি ভোট বেশি পড়ে তাহলে তার সুফল পাবে বিএনপি। কম ভোট পড়লে তার সুফল পাবে জামাত। এবার ৩০০ আসনে ভোট হবে বাংলাদেশে। ভোট দেবেন প্রায় ১২ কোটি ৭৭ লাখ ভোটার। তাদের মধ্যে সবথেকে বড় ফ্যাক্টর আওয়ামী লিগের ভোট। কোন দিকে যাবে সেই ভোট। আওয়ামী লিগ তো নিষিদ্ধ। কিন্তু তাদের ভোটাররাই তো অনেক আসনে বড় ফ্যাক্টর।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ydne-2026-02-11T144904.257-2026-02-dd01cfd35f710b4cc409a9a6d2bb8b46.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/international/bangladesh-election-2535706.html",
+    "time": "2026-02-11T11:51:04.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "গত একবছরে অন্তর্বর্তী সরকারের প্রধান উপদেষ্টা ডঃ মুহাম্মদ ইউনূসের সম্পত্তি এক বছরে বেড়েছে দেড় কোটি টাকারও বেশি!",
+    "desc": "রিপোর্ট অনুযায়ী, গত বছরের ৩০ জুন পর্যন্ত ডঃ ইউনূসের মোট সম্পদের পরিমাণ ছিল ১৫ কোটি ৬২ লক্ষ ৪৪ হাজার ৬৫ টাকা। ঠিক এক বছর আগে সম্পদের পরিমাণ ছিল ১৪ কোটি ১ লক্ষ ৩৯ হাজার ৬৭৩ টাকা। অর্থাৎ, এক বছরে তাঁর সম্পদ বেড়েছে প্রায় ১ কোটি ৬১ লক্ষ টাকা। বর্তমানে ইউনূসের হাতে থাকা আর্থিক সম্পদের পরিমাণ ১৪ কোটি ৭৬ লক্ষ টাকারও বেশি। আগের বছর ছিল ১৩ কোটি ১৮ লক্ষ টাকা। তাঁর স্থাবর সম্পদ (এ তালিকায় আছে জমি, বাড়ি, ফ্ল্যাট, প্লট-সহ সব ধরনের স্থাবর সম্পদ) আছে ২১ লক্ষ ৬ হাজার ২৫০ টাকার। এক বছর আগে তা ছিল ২০ লক্ষ ৯২ হাজার ৫০০ টাকার। দেশের বাইরে তাঁর সম্পত্তি রয়েছে ৬৪ লক্ষ ৭৩ হাজার ৪১৪ টাকার। এক বছর আগে ছিল ৬১ লক্ষ ৭৫ হাজার ৭৪০ টাকার।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-11-at-14.38.34-2026-02-6f2b5f1e1afc7b6a0f4ca5d10f00408c.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/international/bangladesh-election-in-last-one-year-muhammad-yunus-property-has-increased-by-more-that-1-point-5-crore-rupees-pbd-2535702.html",
+    "time": "2026-02-11T11:48:16.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "বিএনপি জোট প্রায় ২০৮টি আসন, জামায়াতের নেতৃত্বাধীন জোটের প্রায় ৪৬টি আসনের ইঙ্গিত বেসরকারি গবেষণা সংস্থার সমীক্ষায়",
+    "desc": "বাংলাদেশ নির্বাচন নিয়ে সমীক্ষা একটি বেসরকারি গবেষণা সংস্থা এমিনেন্স অ্যাসোসিয়েটস ফর সোশ্যাল ডেভেলপমেন্টের। তারা দেশের বিভিন্ন জেলা ও এলাকা থেকে ৪১ হাজারের বেশি মানুষের মতামত নিয়েছে। জরিপে অংশ নেওয়া মানুষদের কাছে প্রশ্ন করা হয়েছিল ভোট হলে তারা কাকে সমর্থন করবেন,এবং কোন দলকে এগিয়ে দেখছেন। এই জরিপ অনুযায়ী, ভোট হলে বিএনপি-নেতৃত্বাধীন জোট প্রায় ২০৮টি আসনে জয়ী হতে পারে, আর জামায়াতে ইসলামী নেতৃত্বাধীন জোট পেতে পারে প্রায় ৪৬টি আসন। বিশেষ করে লক্ষ্য করা গেছে নারী ভোটারদের মধ্যে বিএনপির সমর্থন তুলনামূলক বেশি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ydne-2026-02-11T144957.984-2026-02-b2fe96d5149816e34d29aeaf30bf350c.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/international/bangladesh-election-2026-bnp-may-get-208-seats-jamaat-e-islami-alliance-may-get-46-seats-hints-a-survey-pbd-2535690.html",
+    "time": "2026-02-11T11:38:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "মধ্যবিত্ত কেন কোনও দিনই 'বড়লোক' হতে পারে না? ৫টি ছোট অথচ 'তাৎপর্যপূর্ণ ভুল' ধরিয়ে দিলেন মার্কিন বিনিয়োগকারি ওয়ারেন বাফেট",
+    "desc": "বাফেট বলেন যে বেশিরভাগ আর্থিক সঙ্কট ছোট ছোট ভুল দিয়ে শুরু হয় যা শেষ পর্যন্ত সাধারণ মানুষকে মধ্যবিত্তই রেখে দেয়, বড়লোক হতে দেয় না। মধ্যবিত্ত শ্রেণীকে পুনরুদ্ধার করতে হলে এই পাঁচটি প্রধান ভুল এড়ানো অপরিহার্য।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Web-2026-02-11T150443.708-2026-02-a3c5ee2d24b150374176e1897d894731-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/middle-class-cannot-become-rich-due-to-this-5-small-but-significant-mistake-clearly-explains-investor-warren-buffett-pbd-2535200.html",
+    "time": "2026-02-11T10:12:47.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "‘আমি সেই ভারতের নাগরিক…’ লোকসভায় অভিষেকের মুখে বীর দাসের কবিতা, ‘টু ইন্ডিয়া’ নিয়ে অভিষেকের বক্তব্যের ক্লিপিংস পোস্ট বীরের",
     "desc": "একই ভারতের দুই রূপের কথা শুনিয়ে ৫ বছর আগে গেরুয়া শিবিরের রোষানলে পড়েছিলেন স্ট্যান্ড-আপ কমেডিয়ান তথা অভিনেতা-পরিচালক বীর দাস। তাঁর সেই ‘টু-ইন্ডিয়া’-এর কথাই নতুন মোড়কে সংসদে পেশ করে মঙ্গলবার বিজেপি ও মোদি সরকারকে তুলোধোনা করেছেন লোকসভায় তৃণমূলের দলনেতা অভিষেক বন্দ্যোপাধ্যায়।",
@@ -223,15 +277,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-heavy-rainfall-to-hit-6-states-in-next-3-to-4-days-along-with-thunderstom-and-lightning-cold-wave-alert-in-make-5-states-dense-fog-to-life-in-trouble-know-west-bengal-weather-sanj-2532484.html",
     "time": "2026-02-09T13:20:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "২৭-এর মেধাবী IT কর্মীর ঝকঝকে কেরিয়ার, কিন্তু একী! আসলে ৬০+ ডাকাতি করেই এত জৌলুস...",
-    "desc": "পুলিস সূত্রে খবর, ধৃতের নাম আচ্ছি মহেশ রেড্ডি ওরফে সানি। আদতে অন্ধ্রপ্রদেশেরই পূর্ব গোদাবরী জেলায় কাকিনাড়া শহরের বাসিন্দা। তবে বিশাখাপত্তনমের মাধবধারা এলাকায় থাকতেন সানি। স্রেফ বিশাখাপত্তনম নয়, অন্ধ্রপ্রদেশের বিভিন্ন প্রান্তে একাধিক চুরি ও ডাকাতির ঘটনায় অভিযুক্ত তিনি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/it-worker-turns-criminal-just-maintain-lavish-lifestyle-in-andhra-pradesh_640363.html ",
-    "time": "2026-02-09T13:18:11.000Z"
   },
   {
     "cat": "Politics",
@@ -853,50 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/business/fm-nirmala-sitharaman-exclusive-interview-says-about-sabka-sath-sabka-bikas-pbd-2523839.html",
     "time": "2026-02-02T16:39:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘আমি ওঁর কথাকে গুরুত্ব দিতে চাই, কিন্তু...,’ বাজেট নিয়ে রাহুল গান্ধির মন্তব্যের কড়া প্রতিক্রিয়া নির্মলা সীতারমণের",
-    "desc": "নির্মলা সীতারমণের দাবি, বিরোধীদের উচিত সরকারের সামনে উপযুক্ত তথ্য প্রমাণ সহকারে কথা বলা৷ তার মতে, ‘‘মাঝে মাঝে আপনি কোনও ভিত্তি ছাড়াই কথা বলেন, আমি কী নিয়ে প্রতিক্রিয়া জানাব? ভারতে আরও ভাল কোনও বিরোধী দল থাকা উচিত৷’’",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-02-at-21.27.54-2026-02-6c04e6f58162658c39c3ef352334d399-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/fm-sitharaman-interview-i-want-to-take-him-seriously-but-fm-sitharaman-responds-to-rahul-gandhis-criticism-of-budget-sta-2523814.html",
-    "time": "2026-02-02T16:17:16.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "কাচ্চি বিরিয়ানিতে ‘কাচ্চি’ শব্দের 'অর্থ' কী জানেন...? চমকে দেবে সঠিক 'অর্থ', গ্যারান্টি!",
-    "desc": "'কাচ্চি বিরিয়ানি' মূলত জনপ্রিয়তা পেয়েছে বাংলাদেশের ঢাকা শহর থেকে। এর অনন্য স্বাদ ও বিশেষত্বের জন্য প্রায়ই বিরিয়ানির প্রসঙ্গ উঠলে এই শব্দটা উঠে আসে আড্ডায়। আমরা অনেকেই জানি কলকাতা বা হায়দ্রাবাদি বিরিয়ানির মতোই কাচ্চি বিরিয়ানিও কিন্তু অত্যন্ত জনপ্রিয়। যদিও এই বিরিয়ানির জনপ্রিয়তা বাংলাদেশে, আজকাল কিন্তু এপারেও কাচ্চি বিরিয়ানির রমরমা অনেক রেস্তোরাঁতেই। কিন্তু জানেন কি এই কাচ্চি বিরিয়ানির 'কাচ্চি' শব্দের মানে?",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-02-at-19.09.32-2026-02-502a62ef869ce5328091a11d38d02f24-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/kachchi-biryani-do-you-know-what-exactly-is-the-meaning-of-word-kachchi-in-the-name-of-famous-dhaka-biryani-which-is-also-popular-in-india-surprising-answer-will-shock-you-for-sure-sanj-2523678.html",
-    "time": "2026-02-02T15:40:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "আবার বিতর্কে সায়ক? মেকআপ রুমে শিশুশিল্পীর 'যৌন হেনস্থা'র অভিযোগ নিয়ে বোমা ফাটালেন লীনা গঙ্গোপাধ্যায়ের ছেলে, পোস্ট ঘিরে জোর জল্পনা",
-    "desc": "অর্কর এই পোস্ট নিয়ে শুরু হয় জোর চর্চা৷ সকলের মনে করেন যে সায়ককে ইঙ্গিত করেই তিনি এই পোস্ট করেছেন৷ এমনকী অভিনেতা নিজেও সেটাই মনে করে নাকি অর্কর কাছে জানতে চেয়েছেন এই পোস্টে উল্লেখ করা ব্যক্তির পরিচয়!",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Web-2026-02-02T203023.167-2026-02-45ac578798eee2a5d537614fc4316f82-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/leena-ganguly-son-arka-ganguly-facebook-post-did-sayak-chakraborty-allegedly-harassed-a-young-child-at-makeup-room-pbd-2523719.html",
-    "time": "2026-02-02T15:04:11.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "‘বাংলাদেশে আল কা*য়দার লোক ঘুরছে..,’ মারাত্মক হুঁশিয়ারি শেখ হাসিনার ছেলের! ফাঁস করে দিলেন আমেরিকার কলকাঠির কথা",
-    "desc": "সোমবার আইসিসিআর-এ আজ ‘ইনশাআল্লাহ বাংলাদেশ’ নামে একটি বই নিয়ে আলোচনা ছিল৷ সেখানেই মজিবুর রহমানের দৌহিত্র তথা শেখ হাসিনার পুত্র লন্ডন থেকে ভিডিও কলে এই বক্তব্য পেশ করেন। এদিনের আলোচনা সভায় সিপিএমের পক্ষ থেকে শাইরা শাহ হালিম, বিজেপির পক্ষ থেকে ডঃ পঙ্কজ রায়, জাতীয় কংগ্রেসের পক্ষ থেকে রোহন মিত্র ছিলেন৷ সম্পূর্ণ আলোচনা সভা পরিচালনা করেন বিজেপির রাজ্যসভার প্রাক্তন সাংসদ স্বপন দাশগুপ্ত৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ydne-2026-02-02T200941.292-2026-02-ac77c28d6c6a514aaea99adc89017457-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/international/bangladesh-news-sheikh-hasina-s-son-sajib-joy-says-this-is-the-last-chance-to-resist-jamat-sta-2523631.html",
-    "time": "2026-02-02T15:00:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "আগামী ৭২ ঘণ্টা...! ভারী বৃষ্টি, দমকা ঝোড়ো হাওয়া কাঁপাবে ৯ রাজ্য, শীত হুঁশিয়ারি কোন কোন রাজ্যে? কী হবে বাংলায়? জানিয়ে দিল IMD",
-    "desc": "দেশের বিভিন্ন স্থানে তীব্র ঠান্ডার মধ্যে, আবহাওয়া আবারও ভোল বদলাতে চলেছে। ভারতীয় আবহাওয়া দফতর (IMD) নয় রাজ্যের জন্য বৃষ্টির সতর্কতা এবং উত্তর ভারতের ২১টি জেলায় শৈত্যপ্রবাহের সতর্কতা জারি করেছে। আবহাওয়ার এই পরিবর্তন জনজীবন বিপর্যস্ত করে তুলতে তুলতে পারে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-02-at-13.36.28-2026-02-f70876f5c1204c82ed6eae2990b451b9-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-february-2-3-and-4-heavy-rain-and-gusty-winds-will-shake-9-states-which-states-are-under-cold-weather-alert-what-will-happen-in-bengal-know-latest-west-bengal-weather-sanj-2522792.html",
-    "time": "2026-02-02T14:36:19.000Z"
   }
 ];
