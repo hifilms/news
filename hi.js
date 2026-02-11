@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Is Pakistan's Usman Tariq's bowling action illegal? Former India cricketer supports spin bowler",
+    "desc": "Usman Tariq starred for Pakistan with the ball in their game against the USA in the T20 World Cup on Tuesday. He finished with figures of 3/27 in his four overs, but unfortunately, more than...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/is-pakistan-s-usman-tariq-s-bowling-action-illegal-former-india-cricketer-throws-support-behind-spinner-2026-02-11-1029860",
+    "time": "2026-02-11T14:35:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will India fast bowler play against Namibia in T20 World Cup?",
+    "desc": "India fast bowler Jasprit Bumrah missed the team's opening game of the T20 World Cup against the USA on Sunday at the Wankhede Stadium in Mumbai due to a high fever. Mohammed Siraj replaced him...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-fitness-update-will-india-fast-bowler-play-against-namibia-in-t20-world-cup-2026-02-11-1029845",
+    "time": "2026-02-11T13:22:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Tilak Varma shares major update on India's star opener ahead of Namibia clash",
     "desc": "India are set to face Namibia in their second game of the ongoing T20 World Cup at the Arun Jaitley Stadium in New Delhi. Ahead of the clash, they are fretting over Abhishek Sharma, who...",
     "img": "",
@@ -61,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/quinton-de-kock-breaks-ab-de-villiers-legendary-record-with-half-century-vs-afghanistan-in-t20-world-cup-2026-2026-02-11-1029785",
     "time": "2026-02-11T07:28:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Africa win despite Rahmanullah Gurbaz's brilliance",
-    "desc": "After suffering a defeat to New Zealand in their opening T20 World Cup 2026 match, Afghanistan are eager to get back to winning ways in their next encounter against South Africa at the Narendra Modi...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sa-vs-afg-t20-world-cup-2026-live-cricket-score-south-africa-vs-afghanistan-narendra-modi-stadium-ahmedabad-latest-match-updates-scorecard-teams-2026-02-11-1029767",
-    "time": "2026-02-11T05:27:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Will play like a normal match'",
-    "desc": "Pakistan opener Sahibzada Farhan has downplayed the hype surrounding the upcoming India-Pakistan clash in the T20 World Cup, insisting that the game is “not such a big deal.” Farhan’s comments came after his 73-run knock...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-play-like-a-normal-match-sahibzada-farhan-downplays-india-pakistan-high-voltage-clash-2026-02-11-1029760",
-    "time": "2026-02-11T04:45:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ben Stokes undergoes successful facial surgery, shares photo on Instagram",
-    "desc": "England Test captain Ben Stokes has successfully undergone surgery following a facial injury sustained during a nets session, leaving the star all-rounder sidelined once again. The 34-year-old shared the news on Instagram on Tuesday, adding...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-undergoes-successful-facial-surgery-shares-photo-on-instagram-2026-02-11-1029749",
-    "time": "2026-02-11T03:48:31.000Z"
   }
 ];
