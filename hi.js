@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Afghanistan opt to bowl first vs South Africa in Ahmedabad",
+    "desc": "After suffering a defeat to New Zealand in their opening T20 World Cup 2026 match, Afghanistan are eager to get back to winning ways in their next encounter against South Africa at the Narendra Modi...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sa-vs-afg-t20-world-cup-2026-live-cricket-score-south-africa-vs-afghanistan-narendra-modi-stadium-ahmedabad-latest-match-updates-scorecard-teams-2026-02-11-1029767",
+    "time": "2026-02-11T05:27:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Will play like a normal match'",
     "desc": "Pakistan opener Sahibzada Farhan has downplayed the hype surrounding the upcoming India-Pakistan clash in the T20 World Cup, insisting that the game is “not such a big deal.” Farhan’s comments came after his 73-run knock...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sachin-tendulkar-and-family-meet-pm-modi-invite-him-for-arjun-tendulkars-wedding-2026-02-10-1029688",
     "time": "2026-02-10T14:21:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan beat USA by 32 runs for second win in tournament",
-    "desc": "After stunning former champions Pakistan in the 2024 T20 World Cup, the USA were unable to repeat the feat in the 2026 edition as Pakistan produced a dominant all-round display to win the Group A...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pak-vs-usa-t20-world-cup-2026-live-cricket-score-pakistan-vs-usa-sinhalese-sports-club-colombo-latest-match-updates-scorecard-teams-playing-xis-2026-02-10-1029675",
-    "time": "2026-02-10T12:56:27.000Z"
   }
 ];

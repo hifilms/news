@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "‘বন্দে মাতরম’-এর ৬টি স্তবকই গাইতে হবে, মোট ৩ মিনিট ১০ সেকেন্ড, নতুন গাইডলাইনে কী কী নিয়ম?",
+    "desc": "জাতীয় গান ‘বন্দে মাতরম’ নিয়ে বিশেষ নির্দেশিকা প্রকাশ কেন্দ্রীয় স্বরাষ্ট্র মন্ত্রকের৷ ১৯৩৭ সালে সরকারি সংস্করণ থেকে বাদ যাওয়া চারটি স্তবক যোগ করা হল বর্তমান সরকারি সংস্করণে৷ ‘বন্দে মাতরম’ চলার সময়ে সম্মানার্থে উঠে দাঁড়ানো বাধ্যতামূলক করা হয়েছে নতুন গাইডলাইনে৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-11-at-11.59.23-2026-02-6ad05cc361adc9ca822e239896e07e66-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/vande-mataram-new-guidelines-all-six-stanzas-to-be-sung-at-official-events-movie-halls-before-national-anthem-sta-2534913.html",
+    "time": "2026-02-11T06:31:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "মুখ দিয়ে বেরোচ্ছে রক্ত, হোটেলের বন্ধ ঘরে পড়ে এলোমেলো ভাই-বোনের দেহ! পাশেই ৬ লাখ টাকা...",
+    "desc": "হায়দরাবাদের ভাই বোনের রহস্যমৃত্যু বেনারসের হোটেলে। হোটেল কর্তৃপক্ষ জানিয়েছে, তারা গত দুদিন ধরে ঘর থেকে প্রায় বের হননি। মঙ্গলবার তাদের হোটেল ছাড়ার কথা থাকলেও বারবার ফোন করে কোনও সাড়া পাওয়া যাচ্ছিল না। সন্দেহ হওয়ায় হোটেল কর্তৃপক্ষ পুলিসে খবর দেয়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/hyderabad-siblings-found-dead-in-varanasi-hotel-almost-7-lakh-cash-recovered_640662.html ",
+    "time": "2026-02-11T06:21:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "\"এই অত্যাচার গত ১৫ বছর ধরে চলছে\"... মিমি চক্রবর্তীর জন্মদিনে বন্ধু অনিন্দ্য ফাঁস করলেন 'গোপন' কথা",
+    "desc": "আজ মিমির জন্মদিন৷ টলিউডে তাঁর বন্ধুর সংখ্যা হাতে গোনা৷ ব্যক্তিগত সময় তাঁদের সঙ্গে কাটাতে পছন্দ করেন অভিনেত্রী৷ তাঁদের মধ্যে একজন অবশ্যই অভিনেতা অনিন্দ্য চট্টোপাধ্যায়৷ মিমি চক্রবর্তীর জন্মদিনে বন্ধু অনিন্দ্যর সঙ্গে যা করা হল, একেবার 'থ' বনে গেলেন অভিনেতা!",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/2026-02-d1ee59000c6ec1d406075b048154b9ad-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/mimi-chakraborty-celebrates-her-birthday-with-close-friends-makes-fun-with-anindya-chatterjee-pbd-2534929.html",
+    "time": "2026-02-11T06:10:51.000Z"
+  },
+  {
     "cat": "World",
     "title": "কানাডার টরন্টোতে শপিং মলের সামনে ভারতীয় যুবককে গুলি করে খুন ! কারণ ঘিরে ধোঁয়াশা",
     "desc": "কানাডায় এক ভারতীয় যুবককে গুলি করে খুনের অভিযোগ উঠল দুষ্কৃতীদের বিরুদ্ধে। কিন্তু কী কারণে তাঁর উপর হামলা হল, তা এখনও স্পষ্ট নয়। ইতিমধ্যেই ঘটনার তদন্ত শুরু করেছে পুলিশ। যুবকের দেহ ফেরাতে কেন্দ্রের দ্বারস্থ হয়েছে পরিবার।",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-february-2-3-and-4-heavy-rain-and-gusty-winds-will-shake-9-states-which-states-are-under-cold-weather-alert-what-will-happen-in-bengal-know-latest-west-bengal-weather-sanj-2522792.html",
     "time": "2026-02-02T14:36:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘নির্বাচন বয়কট করব না, আমি লড়ে নেব..,’ কমিশনের বাইরে দাঁড়িয়ে চ্যালেঞ্জ! মমতার অভিযোগ, ‘ওরা আমাদের অপমান করেছে’",
-    "desc": "এরপরই গুরুতর অভিযোগ তোলেন মমতা৷ বলেন, ‘‘ ২ কোটি মানুষের নাম মিসম‍্যাচ মিসম‍্যাচ করে বাদ দিচ্ছেন৷ হরিয়ানা, বিহার, মহারাষ্ট্রে এই করে জিতে গিয়েছেন৷ আমি চ‍্যালেঞ্জ করছি, এক লক্ষ মানুষকে নিয়ে আসব৷ আরপি অ‍্যাক্টের বাইরে বেরিয়ে কাজ করছে৷ বাংলায় কোনও কিছু অ‍্যালাও করেনি৷ এত মৃত‍্যুর দায় কার? জাতীয় নির্বাচন কমিশনকে এই দায়িত্ব নিতে হবে৷’’",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ydne-2026-02-02T200309.733-2026-02-730d5fd547ae570c83bf846fc587eb44-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/mamata-banerjee-on-eci-said-she-will-not-boycott-election-but-fight-it-but-says-they-humiliated-them-sta-2523533.html",
-    "time": "2026-02-02T14:33:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SIR-এর কাজে হস্তক্ষেপ নয়! আইন ভাঙলে কড়া ব্যবস্থা, মমতার আক্রমণের পর পাল্টা জবাব দিল নির্বাচন কমিশন",
-    "desc": "মুখ্য নির্বাচন কমিশনার জ্ঞানেশ কুমারের মমতা বন্দ্যোপাধ্যায়ের প্রশ্নগুলির জবাব দিয়েছেন এবং স্পষ্ট করে দিয়েছেন যে আইনের শাসন কার্যকর হবে এবং কেউ আইন নিজের হাতে তুলে নিলে কমিশনের হাতে থাকা আইনগত বিধান ও ক্ষমতা অনুযায়ী কঠোর ব্যবস্থা নেওয়া হবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/election-commission-of-india-2025-12-f8359e908c16b28cb3d443d8bcba8c55-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/election-commission-response-after-mamata-banerjee-poll-body-attack-ank-2523588.html",
-    "time": "2026-02-02T14:13:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'আমি চ্যালেঞ্জ করছি...'  দিল্লিতে বৈঠক বয়কট করে হুঙ্কার মমতার! ১ লক্ষ মানুষকে সঙ্গে নিয়ে আসার হুঁশিয়ারি",
-    "desc": "দিল্লিতে মুখ্য নির্বাচন কমিশনার জ্ঞানেশ কুমারের সঙ্গে বৈঠক শেষে কমিশনের বিরুদ্ধে তীব্র ক্ষোভ উগরে দিলেন তৃণমূলনেত্রী মমতা বন্দ্যোপাধ্যায়। বৈঠকে তাঁদের সঙ্গে দুর্ব্যবহার করা হয়েছে বলেই অভিযোগ মমতার। তাঁর কথায়, \"এমন নির্বাচন কমিশন দেখিনি। জমিদারের মতো আচরণ, ওরা উদ্ধত, অহংকারী, মিথ্যেবাদী।\"",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-02-at-18.18.16-2026-02-f8cbbe73ecc224f827ee2e13a8f0fb60-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/mamata-ec-meet-i-am-issuing-a-challenge-mamata-shares-strong-reaction-after-boycotting-the-meeting-in-delhi-throws-challange-of-bringing-one-lakh-people-with-her-sanj-2523513.html",
-    "time": "2026-02-02T13:11:58.000Z"
   }
 ];

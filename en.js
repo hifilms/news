@@ -1,5 +1,176 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "Here’s who qualifies",
+    "desc": "The United Arab Emirates Ministry of Finance has introduced a new corporate tax exemption for non-commercial sports organisations. This policy aims to boost the UAE's sports sector and strengthen its global standing. Qualifying entities must be officially recognised and strictly non-commercial. The move is expected to encourage investment and growth within the sports ecosystem, supporting talent development and international partnerships.",
+    "img": "https://static.toiimg.com/photo/msid-128192468,imgsize-86986.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-drops-corporate-tax-for-sports-bodies-under-new-law-heres-who-qualifies/articleshow/128189920.cms",
+    "time": "2026-02-11T06:42:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘We are Pak, we do things differently’: Salman Agha hails team’s bold approach",
+    "desc": "Pakistan captain Salman Ali Agha expressed confidence after their T20 World Cup win, stating the team's unique identity is their strength. He highlighted the improved middle-order batting and faith in their bowling attack to defend targets, even modest ones. Agha also noted the batting order's flexibility and the need for improvement in powerplay bowling.",
+    "img": "https://static.toiimg.com/photo/msid-128192758,imgsize-130586.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-are-pakistan-we-do-things-differently-salman-ali-agha-hails-teams-bold-approach-before-india-showdown/articleshow/128192563.cms",
+    "time": "2026-02-11T06:41:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Rajpal Yadav received death threats via email from Pak",
+    "desc": "January 2025 witnessed a grave incident in the entertainment industry as acclaimed Bollywood actor Rajpal Yadav disclosed receiving menacing death threats through an email traced back to Pakistan. Confirming the distressing news, Yadav promptly reported the matter to the Cybercrime Cell, while his wife took the initiative to file a complaint with the Amboli Police.",
+    "img": "https://static.toiimg.com/photo/msid-128192521,imgsize-48146.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-rajpal-yadav-received-death-threats-via-email-from-pakistan-i-am-an-actor-and/articleshow/128192521.cms",
+    "time": "2026-02-11T06:38:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hollywood’s finest gather for 98th Oscars class photo ahead of March ceremony",
+    "desc": "Hollywood's elite gathered for the 98th Academy Awards class photo on February 10, 2026, following a grand luncheon. 'Sinners' leads with 16 nominations, setting the stage for the March 15 ceremony. The event celebrated both seasoned stars and exciting newcomers, hinting at a thrilling awards season ahead.",
+    "img": "https://static.toiimg.com/photo/msid-128192412,imgsize-1062571.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/98th-oscar-nominees-unite-for-annual-class-photo-as-sinners-leads-the-race/articleshow/128192426.cms",
+    "time": "2026-02-11T06:32:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Marina Abramović at the Kochi Biennale: On endurance, controversy and performance art",
+    "desc": "From a silent breathing ritual to a tense exchange over Epstein conspiracy theories, the performance art icon speaks candidly about pain, and reflects on six decades of pushing her body — and audiences — to its limits",
+    "img": "https://th-i.thgim.com/public/life-and-style/6qts79/article70618490.ece/alternates/LANDSCAPE_1200/6187a28b-54bb-4080-a7e0-f4c8d49a61e0.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/art/marina-abramovic-at-the-kochi-biennale-on-endurance-controversy-and-performance-art/article70618532.ece",
+    "time": "2026-02-11T06:32:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Karan Johar jokes about his flashy 50th birthday outfit",
+    "desc": "Karan Johar opened up about his fashion regret, admitting he shouldn’t have worn the shiny green sequin jacket at his 50th birthday, joking he looked like a disco ball. In an interview, he also praised Sanjay Leela Bhansali’s films for their exceptional costume design and aesthetic vision.",
+    "img": "https://static.toiimg.com/photo/msid-128191927,imgsize-62618.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-jokes-about-his-flashy-50th-birthday-outfit-i-looked-like-a-disco-ball-/articleshow/128191927.cms",
+    "time": "2026-02-11T06:19:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sri Lanka call up Hemantha after Hasaranga injury blow",
+    "desc": "Sri Lanka face a blow as star spinner Wanindu Hasaranga is out of the T20 World Cup with a hamstring tear. Spin all-rounder Dushan Hemantha has been drafted in as his replacement. The ICC has approved the change. Meanwhile, New Zealand also face an injury concern with Michael Bracewell's calf issue.",
+    "img": "https://static.toiimg.com/photo/msid-128191514,imgsize-78458.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-sri-lanka-call-up-dushan-hemantha-after-wanindu-hasaranga-injury-blow/articleshow/128191468.cms",
+    "time": "2026-02-11T06:10:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Producers’ Association asks Biju Menon to pay a compensation",
+    "desc": "Actor Biju Menon faces a Rs 15 lakh compensation demand from producers for allegedly skipping promotional duties for 'Nadanna Sambhavam'. The Producers' Association suggested deducting the amount from his current project's pay. This follows accusations of a Rs 25 lakh loss due to his non-participation, impacting television rights. Menon has yet to comment.",
+    "img": "https://static.toiimg.com/photo/msid-128190974,imgsize-44336.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/producers-association-asks-biju-menon-to-pay-a-compensation-of-rs-15-lakh-to-nadanna-sambhavam-makers/articleshow/128190974.cms",
+    "time": "2026-02-11T06:10:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman's close relative receives a threat via email",
+    "desc": "In a shocking twist, the Bollywood industry is plunged into anxiety as Salman Khan's family member falls victim to an extortion threat via email, linked to the notorious Bhishnoi gang. This unsettling news comes soon after Ranveer Singh faced a similar situation with a WhatsApp voice note demanding a significant ransom. Read on to know more.",
+    "img": "https://static.toiimg.com/photo/msid-128191268,imgsize-31100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-ranveer-singh-salman-khans-close-relative-receives-a-threat-via-email-report/articleshow/128191268.cms",
+    "time": "2026-02-11T06:07:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Will the gold price rally sustain? Here’s the outlook",
+    "desc": "Gold prices are extending their rally this week, and remain well supported in the long term, says Maneesh Sharma, AVP - Commodities & Currencies, Anand Rathi Shares and Stock Brokers. The expert lists out the top factors that will decide direction of gold prices in the coming days:",
+    "img": "https://static.toiimg.com/photo/msid-128191168,imgsize-88012.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-india-where-is-gold-silver-rate-headed-on-february-11-2026-mcx-gold-futures-outlook/articleshow/128191114.cms",
+    "time": "2026-02-11T06:04:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Farzi Season 2' gets officially confirmed",
+    "desc": "The crime thriller 'Farzi Season 2' is officially confirmed, with Shahid Kapoor returning as the artist-turned-counterfeiter Sunny. Directed by Raj & DK, the series will continue from its cliffhanger finale, with principal photography set to begin in March 2026. The announcement was made on the third anniversary of the first season's release, which was a massive hit on Hindi OTT.",
+    "img": "https://static.toiimg.com/photo/msid-128190886,imgsize-544253.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/farzi-season-2-gets-officially-confirmed-shahid-kapoor-returns-as-sunny-raj-dk-tease-round-2/articleshow/128190902.cms",
+    "time": "2026-02-11T05:55:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Jimmy Fallon’s USD 70 million net worth",
+    "desc": "Jimmy Fallon, the beloved host of 'The Tonight Show,' has amassed a remarkable net worth of USD 70 million, largely thanks to his successful television career. His innovative approach to late-night television, emphasizing positivity and viral content, has earned him accolades and a substantial income, reportedly USD 16 million annually.",
+    "img": "https://static.toiimg.com/photo/msid-128190784,imgsize-1217006.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/jimmy-fallons-net-worth-is-no-joke-inside-the-tonight-show-hosts-usd-70-million-fortune/articleshow/128190784.cms",
+    "time": "2026-02-11T05:54:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Bhel shares plunge 6%! Why is the stock falling after Rs 4,422 crore OFS opens for subscription?",
+    "desc": "BHEL shares dipped as the government launched an Offer for Sale, aiming to divest up to 5% stake and raise approximately Rs 4,422 crore. The floor price is set at Rs 254 per share. This move follows BHEL's impressive Q3 results, which saw a 206% surge in net profit, driven by enhanced execution and revenue growth.",
+    "img": "https://static.toiimg.com/photo/msid-128190641,imgsize-28070.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/bhel-shares-plunge-6-why-is-the-stock-falling-after-rs-4422-crore-ofs-opens-for-subscription/articleshow/128189784.cms",
+    "time": "2026-02-11T05:53:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ben Stokes undergoes facial surgery after freak blow, shares pic",
+    "desc": "England Test captain Ben Stokes has successfully undergone surgery for a facial injury sustained during a nets session. The all-rounder shared images of his swollen face, humorously remarking on the cricket ball's condition. This procedure follows a challenging Ashes tour and comes as his captaincy is under review.",
+    "img": "https://static.toiimg.com/photo/msid-128190749,imgsize-51558.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ben-stokes-undergoes-facial-surgery-after-freak-nets-blow-england-captain-shares-pic/articleshow/128190717.cms",
+    "time": "2026-02-11T05:52:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Archana's son Aaryamann opens up on his mental health struggles",
+    "desc": "Archana Puran Singh’s son, Aaryamann Sethi, opened up about battling depression after a leg injury ended his football dreams at 14. In his vlog, he revealed facing panic and anxiety attacks but shared that turning to music helped him heal. “I don’t have depression anymore,” he expressed gratefully.",
+    "img": "https://static.toiimg.com/photo/msid-128190545,imgsize-25420.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-had-panic-attacks-archana-puran-singhs-son-aaryamann-sethi-opens-up-on-his-mental-health-struggles/articleshow/128190545.cms",
+    "time": "2026-02-11T05:45:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dhakshineswar Suresh — making rapid strides",
+    "desc": "The 25-year-old boasts of a proud 4-0 Davis Cup record in just two ties; he owns a style that is very much in vogue in modern-day tennis — big serve followed by a crushing forehand",
+    "img": "https://th-i.thgim.com/public/incoming/53xk1/article70617103.ece/alternates/LANDSCAPE_1200/_DSC1666.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/dhakshineswar-suresh-making-rapid-strides/article70616499.ece",
+    "time": "2026-02-11T05:38:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Here’s why her mastectomy scars remind Angelina of her kids",
+    "desc": "To Angelina Jolie, the scars from her mastectomy are not blemishes on her body but rather bold reminders of the choices she's made out of love for her six children. Each mark tells a story of resilience stemming from the heart-wrenching loss of her mother to cancer.",
+    "img": "https://static.toiimg.com/photo/msid-128190199,imgsize-73376.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/angelina-jolie-reveals-why-her-double-mastectomy-scars-remind-her-of-her-kids/articleshow/128190141.cms",
+    "time": "2026-02-11T05:36:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anoop Menon-Mohanlal film: Director says project on hold",
+    "desc": "Anoop Menon has shed light on the delay of his directorial venture starring Mohanlal, citing a change in production banner as the primary reason. Menon emphasized that the project is on hold until the ideal producer is found, a decision supported by Mohanlal himself.",
+    "img": "https://static.toiimg.com/photo/msid-128189878,imgsize-51250.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/the-film-could-happen-only-anoop-menon-on-his-directorial-starring-mohanlal/articleshow/128189878.cms",
+    "time": "2026-02-11T05:31:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nawaz recalls Rajpal's house was like LANGAR for strugglers",
+    "desc": "Actor Rajpal Yadav finds himself in hot water, facing jail time over a check bounce case involving a staggering Rs 9 crore, tied to a failed venture in direction. Ironically, an old video featuring Nawazuddin Siddiqui extolling Yadav's philanthropic spirit toward aspiring artists has made a comeback. Read on to know more.",
+    "img": "https://static.toiimg.com/photo/msid-128189756,imgsize-40624.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-nawazuddin-siddiqui-said-rajpal-yadavs-house-was-like-a-langar-for-struggling-actors-bohot-log-khana-khate-the/articleshow/128189756.cms",
+    "time": "2026-02-11T05:27:18.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Ranveer CALLS OUT Farhan for not being serious about Don 3",
     "desc": "In a dramatic showdown, Ranveer Singh and Excel Entertainment found themselves at odds over the much-anticipated 'Don 3' during a mediation session organized by the Producers Guild. Singh alleged unprofessional conduct by the studio and questioned the absence of a solid script, while Farhan Akhtar defended the production team, insisting that Singh had not previously voiced any script-related issues.",
@@ -82,7 +253,7 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Markets inch higher ahead of US economic and job data; Nikkei up 2%, HSI adds 97 points",
+    "title": "Markets inch higher ahead of US economic and job data; HSI adds 97 points, Kospi flat",
     "desc": "Asian markets showed gains Wednesday, with Hong Kong, South Korea, and Japan trading higher. Investors are weighing weak US consumer data and economic concerns against potential Federal Reserve rate cuts. Technology stocks faced pressure globally due to high valuations and AI investment worries, as traders await crucial US jobs and inflation figures.",
     "img": "https://static.toiimg.com/photo/msid-128187597,imgsize-115794.cms",
     "src": "indiatimes.com",
@@ -127,11 +298,11 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Mumbai Indians say no to RCB playing IPL 2026 matches at DY Patil Stadium",
+    "title": "MI say no to RCB playing IPL 2026 matches at DY Patil Stadium",
     "desc": "Mumbai Indians have denied Royal Challengers Bengaluru permission to use DY Patil Stadium for IPL 2026, citing catchment area restrictions that require an NOC from MI. With Navi Mumbai ruled out, RCB are exploring Raipur and Indore while KSCA continues to push for a return to Chinnaswamy.",
     "img": "https://static.toiimg.com/photo/msid-128185649,imgsize-179312.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/news/exclusive-mumbai-indians-say-no-to-rcb-playing-ipl-2026-matches-at-dy-patil-stadium/articleshow/128185615.cms",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/exclusive-mumbai-indians-say-no-to-rcb-playing-ipl-2026-matches-at-dy-patil-stadium/articleshow/128185615.cms",
     "time": "2026-02-11T03:15:00.000Z"
   },
   {
@@ -144,33 +315,6 @@ const newsData_en = [
     "time": "2026-02-11T03:12:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Dua-Calum HARASSED by paparazzi: WATCH",
-    "desc": "Pop superstar Dua Lipa and fiancé Calum Turner faced a distressing encounter with paparazzi in Paris. During a dinner outing, the couple was hounded for photos despite repeated requests to stop. Security intervened as the pair attempted to escape the photographers, who demanded that the singer pose for photos.",
-    "img": "https://static.toiimg.com/photo/msid-128185904,imgsize-21818.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dua-lipa-and-calum-turner-harassed-by-paparazzi-amid-wedding-prep-give-us-some-pictures/articleshow/128184686.cms",
-    "time": "2026-02-11T03:02:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Heated Rivalry’ OTT release: When and where to watch in India",
-    "desc": "The popular Canadian sports romance series 'Heated Rivalry,' adapting Rachel Reid's novel, is set to premiere in India on February 20, 2026. This six-episode season chronicles the decade-long secret romance between two rival professional hockey players, Shane Hollander and Ilya Rozanov, exploring their passion and challenges both on and off the ice.",
-    "img": "https://static.toiimg.com/photo/msid-128185711,imgsize-738658.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/heated-rivalry-when-and-where-to-watch-the-acclaimed-viral-queer-hockey-romance-on-ott-in-india/articleshow/128185725.cms",
-    "time": "2026-02-11T02:54:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Harry Potter' series will have 'more of' Draco Malfoy",
-    "desc": "The upcoming 'Harry Potter' series promises a deeper dive into Draco Malfoy's character, with actor Lox Pratt revealing fans will witness \"so much more than the books.\" The 14-year-old hinted at exploring Draco's home life and motivations, offering insights into the sneering villain's backstory.",
-    "img": "https://static.toiimg.com/photo/msid-128185393,imgsize-2010383.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/draco-malfoy-fans-to-get-more-of-him-in-the-harry-potter-series-says-lox-pratt/articleshow/128185393.cms",
-    "time": "2026-02-11T02:45:57.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Positive, attacking cricket’: Farhan sends warning ahead of India showdown",
     "desc": "Pakistan opener Sahibzada Farhan has vowed to play attacking cricket against India. The arch-rivals will face off in Colombo on February 15. Farhan's confidence stems from his player-of-the-match performance against the USA. Pakistan captain Salman Ali Agha highlighted the team's balanced batting approach. The team aims to improve its powerplay bowling before the big match.",
@@ -178,33 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/positive-attacking-cricket-sahibzada-farhan-sends-warning-as-pakistan-gear-up-for-india-showdown/articleshow/128184980.cms",
     "time": "2026-02-11T02:35:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajpal Yadav's net worth: From fees to ad income explained",
-    "desc": "In a shocking turn of events, Bollywood actor Rajpal Yadav finds himself behind bars at Tihar jail due to a bounced check linked to a contentious film investment. His financial situation shows a net worth ranging from Rs 50-85 crore, bolstered by his roles in movies like 'Bhool Bhulaiyaa 2' and 'Chandu Champion'. Read on to know more.",
-    "img": "https://static.toiimg.com/photo/msid-128184487,imgsize-37384.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadavs-net-worth-from-movie-fees-to-brand-endorsement-income-all-you-need-to-know/articleshow/128184487.cms",
-    "time": "2026-02-11T02:24:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Cardi B goes for a luxury purchase amidst breakup rumors",
-    "desc": "Cardi B is turning heads with her latest extravagant purchase, an eye-popping $500,000 Audemars Piguet watch, as speculations about her relationship with NFL player Stefon Diggs swirl around her. Flaunting 18-carat white gold and an elegant sprinkle of gemstones, she declares this opulent accessory as a 'gift from me to me' while she preps for her tour.",
-    "img": "https://static.toiimg.com/photo/msid-128184458,imgsize-35988.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/cardi-b-treats-herself-to-a-usd-500000-watch-amid-stefon-diggs-split-rumors/articleshow/128184201.cms",
-    "time": "2026-02-11T02:12:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'One Piece: Into The Grand Line' trailer",
-    "desc": "The highly anticipated 'One Piece' Season 2 trailer is here, showcasing Luffy and the Straw Hats embarking on their perilous journey into the Grand Line. Facing new challenges and formidable foes, the crew's bonds will be tested as they search for the legendary One Piece treasure.",
-    "img": "https://static.toiimg.com/photo/msid-128184345,imgsize-25742.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/one-piece-season-2-trailer-luffy-and-his-straw-hats-set-sail-into-the-grand-line-on-another-epic-adventure/articleshow/128183630.cms",
-    "time": "2026-02-11T02:08:08.000Z"
   },
   {
     "cat": "Business",
@@ -216,15 +333,6 @@ const newsData_en = [
     "time": "2026-02-11T01:55:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ariana Grande wants a 'tiny mouse' to play her in a biopic",
-    "desc": "Pop icon Ariana Grande, having just dazzled audiences in her role in 'Wicked', jokingly proposed that her life story could be narrated by a 'tiny mouse' with quirky subtitles. While she isn’t looking to dive into a classic biopic just yet, she did share insights about her evolution as an artist.",
-    "img": "https://static.toiimg.com/photo/msid-128183965,imgsize-589325.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/ariana-grande-reveals-dream-biopic-casting-wants-a-tiny-mouse-to-play-her/articleshow/128183965.cms",
-    "time": "2026-02-11T01:52:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Full Match Schedule For February 11",
     "desc": "Afghanistan vs South Africa, Australia vs Ireland, and England vs West Indies. Afghanistan aim to bounce back against a strong Proteas side, while Australia begin their campaign against upset-prone Ireland. England and West Indies, both two-time champions, clash in a high-profile encounter, with both teams in good recent form.",
@@ -232,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/icc-t20-world-cup-2026-full-match-schedule-for-february-11/articleshow/128168217.cms",
     "time": "2026-02-11T01:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kurt Cobain's death was 'homicide' and not suicide?",
-    "desc": "Fresh forensic analysis suggests Kurt Cobain's death may have been a homicide, not suicide. An independent researcher claims evidence points to incapacitation by overdose before a fatal shooting, with the scene and suicide note potentially staged or forged. Seattle police, however, maintain their original suicide ruling and will not reopen the case.",
-    "img": "https://static.toiimg.com/photo/msid-128183399,imgsize-50204.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kurt-cobains-death-was-homicide-and-not-suicide-forensic-scientist-claims-forced-overdose-before-being-shot-in-the-head/articleshow/128182669.cms",
-    "time": "2026-02-11T01:28:44.000Z"
   },
   {
     "cat": "Sports",
@@ -358,24 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/ed-summons-anil-tina-in-rs-40000cr-bank-fraud-case/articleshow/128177712.cms",
     "time": "2026-02-10T22:13:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Any copies in circulation amount to copyright infringement, says Penguin",
-    "desc": "Rahul Gandhi continues to cite Gen M M Naravane's memoir, 'Four Stars of Destiny', despite publisher Penguin India stating it remains unpublished. Gandhi insists Naravane's own social media post confirms its availability, challenging Penguin's claim and suggesting a contradiction. The publisher maintains pre-orders do not constitute publication and warns of legal action against unauthorized circulation.",
-    "img": "https://static.toiimg.com/photo/msid-128177337,imgsize-1220123.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/any-copies-in-circulation-amount-to-copyright-infringement-says-penguin/articleshow/128177298.cms",
-    "time": "2026-02-10T21:53:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Love, but no passage: What a killing changed for Meitei-Kuki couples",
-    "desc": "A brutal killing of a Meitei man visiting his Kuki fiancée in Churachandpur has shattered the fragile peace for inter-ethnic couples in Manipur. The incident, captured on video, has reignited fear and deepened the divide, forcing many couples into renewed separation and uncertainty. Hopes for reconciliation are now stalled.",
-    "img": "https://static.toiimg.com/photo/msid-128177200,imgsize-1101481.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/love-but-no-passage-what-a-killing-changed-for-meitei-kuki-couples/articleshow/128176965.cms",
-    "time": "2026-02-10T21:45:12.000Z"
   },
   {
     "cat": "Sports",
@@ -522,15 +603,6 @@ const newsData_en = [
     "time": "2026-02-10T18:39:19.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Dhakshineswar Suresh — making rapid strides",
-    "desc": "The 25-year-old boasts of a proud 4-0 Davis Cup record in just two ties; he owns a style that is very much in vogue in modern-day tennis — big serve followed by a crushing forehand",
-    "img": "https://th-i.thgim.com/public/incoming/53xk1/article70617103.ece/alternates/LANDSCAPE_1200/_DSC1666.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/tennis/dhakshineswar-suresh-making-rapid-strides/article70616499.ece",
-    "time": "2026-02-10T18:32:17.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "6,222 fresh applications still pending before taluk/district panels in Karnataka",
     "desc": "Amid questions over the nearly 50% decline in the number of former Devadasis across 15 districts in Karnataka in the latest survey report, 6,222 fresh applications to be included in the list of former devadasis are pending before taluk/district-level committees",
@@ -612,15 +684,6 @@ const newsData_en = [
     "time": "2026-02-10T17:08:30.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Hyderabad company Aarvee Engineering Consultants gets Sebi nod for IPO",
-    "desc": "Aarvee Engineering Consultants has secured SEBI's nod for its IPO, aiming to raise Rs 202.5 crore via fresh issue and Rs 67.5 lakh shares through an offer for sale. Proceeds will fund debt repayment, bolster Indian and overseas subsidiaries for tech development, and general corporate needs. The infrastructure consultancy boasts a strong project portfolio.",
-    "img": "https://static.toiimg.com/photo/msid-128168625,imgsize-859564.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/hyderabad-company-aarvee-engineering-consultants-gets-sebi-nod-for-ipo/articleshow/128168535.cms",
-    "time": "2026-02-10T16:57:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "T20 World Cup",
     "desc": "The earlier state of limbo about the overhyped clash, between India and Pakistan in Colombo on February 15, was caused by an over-reaction from the Pakistan Cricket Board, which stated that since Bangladesh was removed from the championship, Agha’s men will not play against the Men in Blue!",
@@ -628,15 +691,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-cricket-economics-trumps-the-complexities-of-sub-continental-politics/article70615730.ece",
     "time": "2026-02-10T16:51:37.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India to keep buying cheapest, best-quality crude, govt tells parliamentary panel",
-    "desc": "India will prioritize competitive pricing and suitable quality for crude oil imports, while carefully navigating geopolitical landscapes and avoiding sanctioned sources. Discussions also centered on the India-US interim trade agreement and the proposed India-EU Free Trade Agreement, with officials highlighting progress and upcoming developments.",
-    "img": "https://static.toiimg.com/photo/msid-128168417,imgsize-490954.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-to-keep-buying-cheapest-best-quality-crude-amid-geopolitical-shifts-govt-tells-parliamentary-panel/articleshow/128168366.cms",
-    "time": "2026-02-10T16:50:34.000Z"
   },
   {
     "cat": "Politics",
@@ -730,30 +784,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Still no India No. 1 Erigaisi as Norway Chess reveals new participant",
-    "desc": "Norway Chess has confirmed Alireza Firouzja for its 2026 event in Oslo, while India No. 1 Arjun Erigaisi is still not in the announced lineup. Firouzja, a former prodigy who became a GM at 14 and the youngest to reach 2800 rating, has twice played the Candidates and finished runner-up at Norway Chess before. India will be represented by world champion Gukesh and R Praggnanandhaa, with more names to be revealed.",
-    "img": "https://static.toiimg.com/photo/msid-128158819,imgsize-40454.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/still-no-india-no-1-arjun-erigaisi-as-norway-chess-reveals-new-participant-for-2026-event/articleshow/128157998.cms",
-    "time": "2026-02-10T12:25:59.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Redemption for Netherland's Bas de Leede; buries 2023 ODI WC ghost",
     "desc": "Bas de Leede delivered a match-winning all-round performance against Namibia in Delhi, a venue where he previously set an unwanted ODI record. His unbeaten 72 and two wickets secured Netherlands' first T20 World Cup win, erasing the memory of a tough outing against Australia in 2023.",
     "img": "https://static.toiimg.com/photo/msid-128159237,imgsize-52172.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/redemption-for-netherlands-bas-de-leede-at-kotla-buries-2023-odi-world-cup-ghost/articleshow/128149856.cms",
     "time": "2026-02-10T12:04:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'It's time for the next generation to take over'",
-    "desc": "Virat Kohli announced his T20I retirement after India’s seven-run win over South Africa in the 2024 T20 World Cup final, saying it was time for the next generation. He was Player of the Match for his 76 and finished with 4,188 T20I runs. India ended an 11-year ICC trophy drought with an unbeaten campaign, celebrated nationwide with major rewards and honours.",
-    "img": "https://static.toiimg.com/photo/msid-128157061,imgsize-41240.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/quote-of-the-day-by-virat-kohli-its-time-for-the-next-generation-to-take-over/articleshow/128153493.cms",
-    "time": "2026-02-10T11:43:52.000Z"
   },
   {
     "cat": "World",
@@ -799,15 +835,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/life-and-style/this-digital-art-gallery-has-taken-art-out-of-the-white-cube-of-a-gallery-and-into-a-home-in-kochi/article70591297.ece",
     "time": "2026-02-10T10:07:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "de Leede's all-round brilliance helps Netherlands beat Namibia by 7 wickets",
-    "desc": "Bas de Leede starred with bat and ball as the Netherlands bounced back from their narrow loss to Pakistan to register their first win of the T20 World Cup, beating Namibia by seven wickets in Delhi. Asked to bat first, Namibia scored 156 for eight. In reply, Netherlands chased down the target of 157 in 18 overs",
-    "img": "https://static.toiimg.com/photo/msid-128150792,imgsize-153924.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-bas-de-leedes-all-round-brilliance-helps-netherlands-beat-namibia-by-7-wickets/articleshow/128150752.cms",
-    "time": "2026-02-10T09:02:54.000Z"
   },
   {
     "cat": "Business",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-rahul-smaran-take-karnataka-past-mumbai-into-the-semis/article70610995.ece",
     "time": "2026-02-09T13:38:03.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Gujarat exchanges Letter of Intent with Starlink for high-speed internet connectivity",
-    "desc": "The aim is to provide high-speed satellite-based internet connectivity in the State's remote, border, and underserved areas that currently have limited telecom infrastructure, the release said, adding it is part of the Digital Connectivity Mission and other strategic initiatives",
-    "img": "https://th-i.thgim.com/public/incoming/9i6dej/article70611117.ece/alternates/LANDSCAPE_1200/2025-06-06T095431Z_2043052981_RC26O1A69OMD_RTRMADP_3_STARLINK-INDIA-LICENCE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/gujarat/gujarat-exchanges-letter-of-intent-with-starlink-for-high-speed-internet-connectivity/article70611099.ece",
-    "time": "2026-02-09T12:54:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Minions & Monsters’ trailer: Sequel’s first footage and official title revealed at Super Bowl",
-    "desc": "Universal Pictures used the Super Bowl spotlight to reveal the first trailer and official title for the next Minions adventure, confirming the animated sequel will be called ‘Minions & Monsters’ and will hit theatres this summer",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/d0h44s/article70610186.ece/alternates/LANDSCAPE_1200/minions-and-monsters-minion-meets-Cthulhu.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/minions-amp-monsters-trailer-sequels-first-footage-and-official-title-revealed-at-super-bowl/article70610193.ece",
-    "time": "2026-02-09T08:30:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Supergirl’ teaser: Milly Alcock’s Kara Zor-El meets Krypto for the first time at Super Bowl",
-    "desc": "DC Studios used the Super Bowl stage to debut a new teaser for ‘Supergirl’, offering the clearest look yet at Milly Alcock’s darker, more conflicted take on Kara Zor-El and revealing her early bond with Krypto on Krypton before the planet’s destruction",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/za5wt1/article70610153.ece/alternates/LANDSCAPE_1200/supergirl-milly-alcock.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/supergirl-teaser-milly-alcocks-kara-zor-el-meets-krypto-for-the-first-time-at-super-bowl/article70610160.ece",
-    "time": "2026-02-09T08:17:22.000Z"
   }
 ];
