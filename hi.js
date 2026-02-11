@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Michael Bracewell ruled out of T20 World Cup 2026, New Zealand announce replacement",
+    "desc": "Star New Zealand all-rounder Michael Bracewell has been ruled out of the ongoing T20 World Cup 2026. The 34-year-old reinjured his left calf and is set to be out of action for at least three...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/michael-bracewell-ruled-out-of-t20-world-cup-2026-new-zealand-announce-replacement-2026-02-11-1029726",
+    "time": "2026-02-11T01:41:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma hospitalised in Delhi ahead of India's game against Namibia in T20 World Cup 2026",
+    "desc": "India opener Abhishek Sharma was hospitalised on Tuesday night after suffering from a stomach infection. Earlier in the day, assistant coach Ryan ten Doeschate had revealed that the southpaw was dealing with a “stomach upset,”...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-hospitalised-in-delhi-ahead-of-india-s-game-against-namibia-in-t20-world-cup-2026-2026-02-11-1029720",
+    "time": "2026-02-11T01:10:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "USA fail to repeat 2024 heroics as Pakistan register back-to-back wins in T20 World Cup 2026",
     "desc": "Having pulled off a miraculous win over former champions Pakistan in the 2024 T20 World Cup, the USA could not script another famous win this time in the 2026 edition of the tournament. Pakistan starred...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/australia-to-miss-tim-david-for-t20-world-cup-2026-opener-against-ireland-confirms-mitchell-marsh-2026-02-10-1029657",
     "time": "2026-02-10T11:06:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former cricketers unanimously back India to qualify for T20 World Cup 2026 final",
-    "desc": "India’s defence of their T20 World Cup 2026 crown got off to a dominant start as they thrashed the USA in front of a packed Wankhede Stadium. The hosts, widely regarded as tournament favourites, have...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-cricketers-unanimously-back-india-to-qualify-for-t20-world-cup-2026-final-2026-02-10-1029650",
-    "time": "2026-02-10T10:33:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bas de Leede shows way as Netherlands beat Namibia to extend lead among associate nations in T20 World Cup",
-    "desc": "The Netherlands secured a commanding seven-wicket win over Namibia in the ongoing T20 World Cup 2026 at Arun Jaitley Stadium in New Delhi, keeping their hopes alive for a spot in the Super 8s. Dutch...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bas-de-leede-shows-way-as-netherlands-beat-namibia-to-extend-lead-among-associate-nations-in-t20-world-cup-2026-02-10-1029644",
-    "time": "2026-02-10T10:09:34.000Z"
   }
 ];
