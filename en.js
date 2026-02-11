@@ -1,5 +1,68 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "PC admits being hurt by conspiracy theories around marriage",
+    "desc": "Priyanka Chopra has once again addressed the persistent conspiracy theories surrounding her marriage to Nick Jonas. In a recent conversation, the actress spoke about the speculation, the age-gap chatter, and marrying within six months of meeting — making it clear that the outside noise no longer affects her.",
+    "img": "https://static.toiimg.com/photo/msid-128224445,imgsize-44778.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-admits-being-hurt-by-conspiracy-theories-around-marriage-to-nick-jonas-recalls-marrying-within-six-months-of-meeting/articleshow/128224365.cms",
+    "time": "2026-02-11T20:25:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Speaker can expunge any unparliamentary language, says J&K CM Omar Abdullah",
+    "desc": "CM apologises for his earlier remarks implying that BJP legislators had been reprimanded by the Union Home Minister, triggering an Opposition protest; CM apologises, but lashes out at LoP for his criticism of NC founder Sheikh Abdullah",
+    "img": "https://th-i.thgim.com/public/incoming/ttqp3x/article70620989.ece/alternates/LANDSCAPE_1200/20260211139L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/speaker-can-expunge-any-unparliamentary-language-jk-cm-omar-abdullah/article70620430.ece",
+    "time": "2026-02-11T20:22:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "South Korean actor Jung Eun-woo passes away at 39",
+    "desc": "South Korean actor Jung Eun-woo has died at the age of 39. His family confirmed the news, shocking fans and the industry. Jung's last social media post, shared a day before his passing, featured images of late stars and a cryptic message. The actor was known for his roles in dramas like 'Sharp' and 'Bride Of The Sun'.",
+    "img": "https://static.toiimg.com/photo/msid-128224296,imgsize-24656.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/south-korean-actor-jung-eun-woo-passes-away-at-39-missed-jealous-sorry-post-draws-attention/articleshow/128224315.cms",
+    "time": "2026-02-11T20:15:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Rajpal said we shouldn’t raise fingers at anyone’s creativity",
+    "desc": "Actor Rajpal Yadav, celebrated for his comedic prowess, faced a legal storm after a film venture led to financial strain and a cheque bounce case. Despite clearing some dues, a court ordered his surrender. However, the film fraternity, including Sonu Sood, Salman Khan, and Ajay Devgn, rallied to offer support and assistance during his challenging period.",
+    "img": "https://static.toiimg.com/photo/msid-128224225,imgsize-19464.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-rajpal-yadav-said-we-shouldnt-raise-fingers-at-anyones-creativity-amid-ata-pata-laapata-phase/articleshow/128224246.cms",
+    "time": "2026-02-11T20:11:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Shoe-beating' remark sparks uproar in J&amp;K assembly, BJP demands Omar apology",
+    "desc": "Jammu and Kashmir assembly proceedings were disrupted after Chief Minister Omar Abdullah's remarks about BJP legislators being \"shoe-beaten\" by Union Home Minister Amit Shah. Opposition members protested and walked out, demanding an apology from Abdullah, who refused, stating his comments targeted the legislators and not individuals.",
+    "img": "https://static.toiimg.com/photo/msid-128222797,imgsize-955950.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/shoe-beating-remark-sparks-uproar-in-jk-assembly-bjp-demands-omar-apology/articleshow/128222701.cms",
+    "time": "2026-02-11T19:18:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Moment of truth for India as Bangladesh votes; Hasina, resurgent Jamaat add to uncertainty",
+    "desc": "Bangladesh votes Thursday in an election with significant implications for India. With Sheikh Hasina out, India hopes the frontrunner BNP can reset ties, despite historical friction. A tight contest is expected between the BNP alliance and a bloc led by Jamaat-e-Islami. India also eyes a constitutional referendum and key security concerns, including insurgent groups and Chinese influence.",
+    "img": "https://static.toiimg.com/photo/msid-128222529,imgsize-846388.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/moment-of-truth-for-india-as-bangladesh-votes-hasina-resurgent-jamaat-add-to-uncertainty/articleshow/128222452.cms",
+    "time": "2026-02-11T19:10:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka High Court defers cross-examination of witnesses in murder case to prevent exposure of defence strategy",
+    "desc": "In a ruling reinforcing fair trial rights of the accused persons in criminal cases, the Karnataka High Court has directed a trial court to defer cross-examination of a prime witness in a murder case till the examination of remaining witnesses ‘to prevent exposure of the defence strategy that may enable other witnesses to tailor their testimony’",
+    "img": "https://th-i.thgim.com/public/incoming/rx7agj/article70621327.ece/alternates/LANDSCAPE_1200/No-bar-on-movinGFAFIHMDA.1.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-defers-cross-examination-of-witnesses-in-murder-case-to-prevent-exposure-of-defence-strategy/article70620885.ece",
+    "time": "2026-02-11T18:53:16.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Madsen",
     "desc": "While Madsen, who addressed the media on the eve of the game, was visibly upset about missing a crucial game, he made it clear that “to win in front of 35,000 people would be pretty special”",
@@ -108,13 +171,13 @@ const newsData_en = [
     "time": "2026-02-11T16:12:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "J&K CM Omar Abdullah",
-    "desc": "CM apologises for his earlier remarks implying that BJP legislators had been reprimanded by the Union Home Minister, triggering an Opposition protest; CM apologises, but lashes out at LoP for his criticism of NC founder Sheikh Abdullah",
-    "img": "https://th-i.thgim.com/public/incoming/ttqp3x/article70620989.ece/alternates/LANDSCAPE_1200/20260211139L.jpg",
+    "cat": "Entertainment",
+    "title": "Sumedh K of ‘Su From So’ and ‘Thulasi’: Meet Kannada music’s new voice",
+    "desc": "Sumedh K made a splash as a composer for the Kannada hit film ‘Su From So’, which raked in over 100 crores in 2025. His latest single, ‘Thulasi’, inspired by the legendary Purandara Dasa, has gained a jaw-dropping 2.8 million views",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/m8qynq/article70618736.ece/alternates/LANDSCAPE_1200/Sumedh%20K.JPEG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/speaker-can-expunge-any-unparliamentary-language-jk-cm-omar-abdullah/article70620430.ece",
-    "time": "2026-02-11T16:00:49.000Z"
+    "url": "https://www.thehindu.com/entertainment/movies/sumedh-k-thulasi-su-from-so-raj-b-shetty-rakshit-shetty-ss-rajamouli-kannada-independent-music/article70615050.ece",
+    "time": "2026-02-11T15:58:39.000Z"
   },
   {
     "cat": "Politics",
@@ -252,15 +315,6 @@ const newsData_en = [
     "time": "2026-02-11T14:45:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Adani-controlled Thiruvananthapuram airport collects record ₹383 crore user fee from passengers in 2025",
-    "desc": "A domestic passenger using the Thiruvananthapuram airport will have to pay ₹770 for embarking and ₹330 for disembarking, while the rate is at ₹1,540 for an embarking international passenger and ₹660 for a disembarking international passenger",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/adani-controlled-thiruvananthapuram-airport-collects-record-383-crore-user-fee-from-passengers-in-2025/article70619756.ece",
-    "time": "2026-02-11T14:36:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "T20 World Cup",
     "desc": "If Ellis (4/12 in 3.5 overs) blew away the top-order, leg-spinner Adam Zampa (4/23 in 4 overs) polished off the middle and lower-order with Ireland innings ending at 115 for 9 in 16.5 overs in pursuit of a challenging score of 183",
@@ -378,24 +432,6 @@ const newsData_en = [
     "time": "2026-02-11T12:25:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Cavill and Bautista crash cars in Highlander",
-    "desc": "Fresh 'Highlander' footage has fans buzzing, featuring an intense clash between Connor MacLeod, played by Henry Cavill, and Bautista's Kurgan, complete with dramatic car collisions. Director Chad Stahelski emphasizes a renewed yet respectful approach to the iconic story, aiming for a thrilling action ride that resonates with original fans.",
-    "img": "https://static.toiimg.com/photo/msid-128206623,imgsize-48532.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/highlander-reboot-set-video-henry-cavill-and-dave-bautista-crash-onto-cars-in-wild-fight-scene/articleshow/128206623.cms",
-    "time": "2026-02-11T12:17:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shiva Rajkumar reveals a big secret from 'Jailer 2'",
-    "desc": "Shiva Rajkumar shares his close friendship with Rajinikanth. He also hints at S.J. Suryah's lively presence on the sets of 'Jailer 2'. The film is being made at a fast pace. Many big stars are part of the cast. An item song featuring Nora Fatehi has also been shot. The movie is building significant hype.",
-    "img": "https://static.toiimg.com/photo/msid-128206561,imgsize-73030.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/shiva-rajkumar-narrates-his-friendly-bond-with-rajinikanth-reveals-a-big-secret-from-jailer-2/articleshow/128206561.cms",
-    "time": "2026-02-11T12:14:27.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Met Epstein 3-4 times': Harpdeep Puri sets record straight after Rahul Gandhi's charge in Lok Sabha",
     "desc": "\"I want to remind you that today, during the Parliament session, my name was mentioned in the context of some developments elsewhere—the Epstein files. I just want to share some information... I want to clarify that these facts are all public,\" Puri said at a press conference. Puri said the meetings took place before he joined the Union Cabinet in 2017 and are already in the public domain.",
@@ -403,24 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/met-epstein-3-4-times-harpdeep-puri-sets-record-straight-after-rahul-gandhis-charge-in-lok-sabha/articleshow/128204848.cms",
     "time": "2026-02-11T12:10:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Coogler on Boseman's lesson after 'Black Panther' movie",
-    "desc": "Filmmaker Ryan Coogler shares an emotional recollection of Chadwick Boseman’s deep influence during the production of 'Black Panther.' He reveals how the stress of the project dimmed the joy of the journey, a realization that hit profoundly after Boseman’s passing.",
-    "img": "https://static.toiimg.com/photo/msid-128205524,imgsize-28728.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ryan-coogler-shares-the-biggest-lesson-from-chadwick-boseman-after-black-panther-success/articleshow/128205524.cms",
-    "time": "2026-02-11T11:59:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Guru Randhawa joins Sonu Sood in supporting Rajpal Yadav",
-    "desc": "Singer Guru Randhawa has extended financial support to actor Rajpal Yadav, currently in Tihar Jail over a cheque bounce case. He announced that Yadav will appear in his upcoming music video, already receiving an advance. Randhawa’s gesture follows Sonu Sood’s appeal for the film fraternity to help the veteran actor amid legal troubles.",
-    "img": "https://static.toiimg.com/photo/msid-128205678,imgsize-26778.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/guru-randhawa-joins-sonu-sood-in-supporting-rajpal-yadav-offers-advance-payment-for-upcoming-music-video/articleshow/128205678.cms",
-    "time": "2026-02-11T11:52:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -495,15 +513,6 @@ const newsData_en = [
     "time": "2026-02-11T10:19:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'He's hale &amp; hearty': Govt opposes Sonam Wangchuk's release on health grounds",
-    "desc": "Solicitor General Tushar Mehta made the submission before a bench of Justices Aravind Kumar and PB Varale in response to the Supreme Court’s earlier query, asking the authorities to consider Wangchuk’s release on medical grounds over his deteriorating health issue. SC had earlier directed authorities to conduct Wangchuk’s medical examination by a specialised doctor and file a report before it.",
-    "img": "https://static.toiimg.com/photo/msid-128201414,imgsize-204350.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/hes-hale-hearty-govt-opposes-sonam-wangchuks-release-on-health-grounds/articleshow/128199216.cms",
-    "time": "2026-02-11T10:15:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Afghanistan push South Africa to brink, lose by inches in second Super Over",
     "desc": "South Africa secured a dramatic victory over Afghanistan in a nail-biting Super Over contest. The match required two tie-breakers after regulation time ended level. Afghanistan fought hard, with Rahmanullah Gurbaz performing exceptionally. However, South Africa ultimately prevailed, advancing to the next stage of the tournament.",
@@ -511,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-afghanistan-push-south-africa-to-brink-lose-by-inches-in-second-super-over/articleshow/128200351.cms",
     "time": "2026-02-11T10:13:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "DM Tehri reviews Lake Festival preparations; Master Chef, kite show, fashion show among events",
-    "desc": "Tehri Garhwal district magistrate Nitika Khandelwal has reviewed preparations for the upcoming Tehri Lake Festival, directing officials on land use and arrangements. The event will feature competitions like Master Chef Tehri, photography, rap, and a fashion show, alongside adventure activities such as rafting, paragliding, and water sports.",
-    "img": "https://static.toiimg.com/photo/msid-128200609,imgsize-1059556.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dm-tehri-reviews-lake-festival-preparations-master-chef-kite-show-fashion-show-among-events/articleshow/128200685.cms",
-    "time": "2026-02-11T10:11:49.000Z"
   },
   {
     "cat": "Sports",
@@ -565,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-ajay-devgn-varun-dhawan-come-out-in-support-of-rajpal-yadav-to-clear-his-debt-after-he-surrenders-to-tihar-jail-reveals-his-manager/articleshow/128196754.cms",
     "time": "2026-02-11T08:21:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sumedh K of ‘Su From So’ and ‘Thulasi’: Meet Kannada music’s new voice",
-    "desc": "Sumedh K made a splash as a composer for the hit film ‘Su From So’, which raked in over 100 crores in 2025. His latest single, ‘Thulasi’, inspired by the legendary Purandara Dasa, has racked up a jaw-dropping 2.8 million views",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/m8qynq/article70618736.ece/alternates/LANDSCAPE_1200/Sumedh%20K.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/sumedh-k-thulasi-su-from-so-raj-b-shetty-rakshit-shetty-ss-rajamouli-kannada-independent-music/article70615050.ece",
-    "time": "2026-02-11T07:33:28.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/siraj-swinging-backinto-indias-t20-blueprint/article70608587.ece",
     "time": "2026-02-08T18:08:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘JC: The University’ movie review: After a brilliant start, this crime drama loses momentum",
+    "desc": "The University’, debut director Chethan Jayaram dives into the gritty world of prison life through the eyes of a college student. The film kicks off strongly before losing grip, as character development and emotional moments taking a backseat",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/29fem1/article70603935.ece/alternates/LANDSCAPE_1200/JC.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/jc-the-university-movie-review-surya-prakhyath-daali-dhananjaya-crime-thriller-brilliant-start-loses-momentum/article70603907.ece",
+    "time": "2026-02-08T08:50:42.000Z"
   }
 ];
