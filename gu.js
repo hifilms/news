@@ -1,12 +1,57 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "રોમાંચક મેચમાં આખરે સાઉથ આફ્રિકાની જીત, સુપર ઓવરમાં અફઘાનિસ્તાન હાર્યું",
+    "desc": "દક્ષિણ આફ્રિકા અને અફઘાનિસ્તાન વચ્ચેની T20 વર્લ્ડ કપ 2026ની મેચ અત્યંત રોમાંચક રહી. પ્રથમ બેટિંગ કરતા દક્ષિણ આફ્રિકાએ 187 રન બનાવ્યા, જ્યારે અફઘાનિસ્તાને પણ જવાબમાં 187 રન બનાવ્યા. મેચનું રિઝલ્ટ સુપર ઓવર દ્વારા આવ્યું. પ્રથમ સુપર ઓવર પણ ટાઈ રહેતા બીજી સુપર ઓવર રમાડવામાં આવી જેમાં દક્ષિણ આફ્રિકાએ બાજી મારી અને મેચ જીતી લીધી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/south-africa-vs-afghanistan-super-over-icc-t20-world-cup-2026-narendra-modi-stadium-464611 ",
+    "time": "2026-02-11T09:47:01.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "દુનિયાના કયા દેશોમાં સૌથી પહેલા ખતમ થશે પેટ્રોલ-ડીઝલ, જાણો કયા નંબરે છે ભારત",
+    "desc": "સમગ્ર વિશ્વમાં હજુ પણ ઘણા દાયકાઓ સુધી ચાલે તેટલું તેલ છે, પરંતુ ઓછા ભંડાર અને વધુ વપરાશ ધરાવતા દેશો આયાત પર આધાર રાખે છે. ત્યારે જાણીએ કે કયા દેશોમાં સૌથી પહેલા પેટ્રોલ-ડીઝલ ખતમ થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/which-countries-oil-reserves-ending-know-india-position-464601 ",
+    "time": "2026-02-11T09:24:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "હવે બાંગ્લાદેશનો યુ-ટર્ન, વર્લ્ડ કપમાંથી હટવા અંગે આપ્યું મોટું નિવેદન, ખેલાડીઓ પર લગાવ્યા આરોપ !",
+    "desc": "બાંગ્લાદેશના રમતગમત સલાહકાર આસિફ નજરુલે T20 વર્લ્ડ કપમાંથી બહાર થવાના મુદ્દે નિવેદન બદલતા વિવાદ ઊભો થયો છે. પહેલા સરકારે નિર્ણય લીધો હોવાનું કહ્યું હતું, હવે ખેલાડીઓ અને BCBએ નિર્ણય લીધો હોવાનું જણાવ્યું છે. BCBના સ્પષ્ટ નિવેદનની રાહ જોવાઈ રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bangladesh-t20-world-cup-withdrawal-statement-controversy-464590 ",
+    "time": "2026-02-11T07:42:12.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ભારત સાથેની ટ્રેડ ડીલ પર પલટ્યું અમેરિકા, વ્હાઇટ હાઉસે ચુપચાપ બદલી શરતો, હવે નવા વિવાદો",
+    "desc": "અમેરિકાએ ટ્રેડ ડિલ થતા જ ડોનાલ્ડ ટ્રમ્પે નિવેદન આપીને જાહેરાત કરી હતી, જો કે, અમુક વસ્તુઓનો ઉલ્લેખ કરવામાં આવ્યો છે, જો કે ભારતે જણાવ્યું હતું કે ખેડૂત અને ડેરી ઉદ્યોગ સાથે કોઈ બાંધ છોડ કરવામાં આવશે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/america-backtracks-on-trade-deal-with-india-white-house-quietly-changes-terms-464592 ",
+    "time": "2026-02-11T07:41:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "રાજપાલ યાદવ સજા ભોગવી લેશે પછી શું થશે ? જાણો કેવી રીતે વસુલ કરાશે કરજની રકમ ?",
+    "desc": "બોલીવુડ કલાકાર રાજપાલ યાદવ હાલ ચર્ચાનો વિષય બન્યા છે. ચેક બાઉન્સ કેસમાં તેમને જેલની સજા થઈ છે અને હાલ તે તિહાડ જેલમાં છે. રાજપાલ યાદવની ઘટના પછી ચેક બાઉન્સ સંબંધિત નિયમો અને કાયદાની ચર્ચા પણ થઈ રહી છે. તો ચાલો તમને જણાવીએ રાજપાલ યાદવ ચેકના ચક્રવ્યુહમાં કેવી રીતે ફસાયા અને હવે તેમની સાથે શું થશે ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/rajpal-yadav-must-pay-9-crore-after-jail-cheque-bounce-law-in-india-rajpal-yadav-film-ata-pata-laapata-464589 ",
+    "time": "2026-02-11T07:05:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "પાકિસ્તાનની જીત બાદ બદલાઈ ગયું પોઈન્ટ ટેબલ, જાણો ક્યા નંબરે છે ટીમ ઈન્ડિયા",
     "desc": "પાકિસ્તાન અમેરિકાને હરાવીને પોઈન્ટ ટેબલમાં ટોપ પર પહોંચી ગયું છે, તો પાકિસ્તાનની આ જીત બાદ ટીમ ઈન્ડિયા પોઈન્ટ ટેબલમાં નીચે સરકી ગઈ છે. ત્યારે આ લેખમાં જાણીશું કે પોઈન્ટ ટેબલમાં કઈ ટીમ કયા સ્થાને છે અને ભારત કયા નંબરે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/pakistan-consecutive-win-in-t20-world-cup-2026-group-a-point-table-update-464586 ",
-    "time": "2026-02-11T06:29:01.000Z"
+    "time": "2026-02-11T06:58:18.000Z"
   },
   {
     "cat": "Sports",
@@ -414,15 +459,6 @@ const newsData_gu = [
     "time": "2026-02-07T09:21:23.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "જસપ્રીત બુમરાહ વિના T20 વર્લ્ડ કપની શરૂઆત કરશે ટીમ ઈન્ડિયા! શું હર્ષિત રાણા બાદ વધુ એક ખેલાડી થયો બહાર ? જાણો",
-    "desc": "7 ફેબ્રુઆરી, એટલે કે આજે T20 વર્લ્ડ કપ 2026 માં ભારત અને USA વચ્ચે એક મોટી મેચ રમાવાની છે. ટીમ ઈન્ડિયા T20 વર્લ્ડ કપની ધમાકેદાર શરૂઆત કરવા માંગશે. જો કે, જસપ્રીત બુમરાહ કદાચ આ મેચમાં રમશે નહીં. તેની પાછળનું વાસ્તવિક કારણ બહાર આવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-india-will-start-the-t20-world-cup-without-jasprit-bumrah-has-another-player-been-dropped-after-harshit-rana-find-out-464208 ",
-    "time": "2026-02-07T07:45:04.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "દેશની સૌથી સસ્તી 7-સીટર કારને 11914 લોકોએ ખરીદી, કિંમત છે 5.18 લાખ, મળે છે 6 એરબેગ્સ",
     "desc": "દેશમાં મારુતિ સુઝુકી એકતરફી પ્રભુત્વ ધરાવે છે. તેમ છતાં, એક સેગમેન્ટ એવું છે જ્યાં તે વર્ષોથી પ્રભુત્વ ધરાવે છે. આ સેગમેન્ટમાં બીજી કોઈ કાર તેની નજીક પણ નથી. અમે વાન સેગમેન્ટ વિશે વાત કરી રહ્યા છીએ, જ્યાં આ કારનું વર્ષોથી પ્રભુત્વ ધરાવે છે.",
@@ -574,15 +610,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/rohit-shetty-firing-case-update-after-salman-khan-4-round-firing-on-rohit-shetty-mumbai-house-463522 ",
     "time": "2026-02-01T02:22:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "February 2026 માં OTT પર રિલીઝ થશે આ 6 દમદાર સીરીઝ અને ફિલ્મો",
-    "desc": "ફેબ્રુઆરી મહિનો ઓટીટી પર વેબ સીરીઝ અને ફિલ્મો જોવાના શોખીનો માટે ખાસ બની જવાનો છે કારણ કે ફેબ્રુઆરી મહિનામાં 6 દમદાર ફિલ્મો અને વેબ સીરીઝ અલગ અલગ પ્લેટફોર્મ પર રિલીઝ થશે. તો ફટાફટ ચેક કરી લો લિસ્ટ",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/ott-releases-february-2026-upcoming-hindi-web-series-and-films-on-ott-february-2026-463483 ",
-    "time": "2026-01-31T13:05:35.000Z"
   },
   {
     "cat": "Tech",

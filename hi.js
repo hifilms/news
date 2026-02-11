@@ -1,7 +1,43 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Afghanistan opt to bowl first vs South Africa in Ahmedabad",
+    "title": "South Africa beat Afghanistan in one of T20 classics in Ahmedabad",
+    "desc": "South Africa pulled off a thrilling win over Afghanistan in a high-scoring encounter at the Narendra Modi Stadium in Ahmedabad. However, the Rashid Khan-led side didn’t go away without a fight. Chasing 188, the Rashid...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/two-super-overs-south-africa-beat-afghanistan-in-one-of-t20-classics-in-ahmedabad-2026-02-11-1029809",
+    "time": "2026-02-11T09:47:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Steve Smith added as reserve player after Mitchell Marsh ruled out of Australia's T20 World Cup opener",
+    "desc": "Australia suffered a major setback ahead of their T20 World Cup opener against Ireland. Earlier, veterans Pat Cummins and Josh Hazlewood were ruled out of the competition and now, their captain Mitchell Marsh has been...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/steve-smith-added-as-reserve-player-after-marsh-ruled-out-of-australia-s-t20-world-cup-opener-2026-02-11-1029803",
+    "time": "2026-02-11T09:13:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh government backs out, puts it on BCB, players over boycotting T20 World Cup 2026",
+    "desc": "Bangladesh’s absence from the T20 World Cup 2026 continues to generate debate. Sports Adviser Asif Nazrul on Tuesday asserted that the call to stay away from the tournament was made by the Bangladesh Cricket Board...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-government-backs-out-puts-it-on-bcb-players-over-boycotting-t20-world-cup-2026-2026-02-11-1029791",
+    "time": "2026-02-11T08:23:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Quinton de Kock breaks AB de Villiers' legendary record with half-century vs Afghanistan in T20 World Cup 2026",
+    "desc": "Quinton de Kock etched his name into the record books by surpassing AB de Villiers for the most runs by a South Africa international in T20 World Cup history. The keeper-batter scored a composed 59...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/quinton-de-kock-breaks-ab-de-villiers-legendary-record-with-half-century-vs-afghanistan-in-t20-world-cup-2026-2026-02-11-1029785",
+    "time": "2026-02-11T07:28:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Africa post 23 runs in second Super Over",
     "desc": "After suffering a defeat to New Zealand in their opening T20 World Cup 2026 match, Afghanistan are eager to get back to winning ways in their next encounter against South Africa at the Narendra Modi...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-hospitalised-in-delhi-ahead-of-india-s-game-against-namibia-in-t20-world-cup-2026-2026-02-11-1029720",
     "time": "2026-02-11T01:10:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "USA fail to repeat 2024 heroics as Pakistan register back-to-back wins in T20 World Cup 2026",
-    "desc": "Having pulled off a miraculous win over former champions Pakistan in the 2024 T20 World Cup, the USA could not script another famous win this time in the 2026 edition of the tournament. Pakistan starred...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/usa-fail-to-repeat-2024-heroics-as-pakistan-register-back-to-back-wins-in-t20-world-cup-2026-2026-02-10-1029705",
-    "time": "2026-02-10T17:10:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will talisman pacer play in IND vs NAM T20 World Cup 2026 match?",
-    "desc": "India star bowler Jasprit Bumrah missed out on India's T20 World Cup 2026 opener against the USA due to illness in worrying sign for the team. The speedster was set to take the field for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-update-will-talisman-pacer-play-in-ind-vs-nam-t20-world-cup-2026-match-2026-02-10-1029700",
-    "time": "2026-02-10T16:16:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What happened to star opener? Will he miss IND vs NAM T20 World Cup 2026 clash?",
-    "desc": "With India set to face Namibia in their second match of the T20 World Cup 2026 on Thursday, February 12, eyes will be on the likes of Abhishek Sharma. The hard-hitting left-handed batter has been...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-update-what-happened-to-star-opener-will-he-miss-ind-vs-nam-t20-world-cup-2026-clash-2026-02-10-1029696",
-    "time": "2026-02-10T15:28:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sachin Tendulkar and family meet PM Modi, invite him for Arjun Tendulkar's wedding",
-    "desc": "India legend Sachin Tendulkar and his family on Tuesday met Prime Minister Narendra Modi and invited him to the wedding of Arjun Tendulkar and Saaniya Chandhok. Tendulkar took to social media as he shared pictures...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sachin-tendulkar-and-family-meet-pm-modi-invite-him-for-arjun-tendulkars-wedding-2026-02-10-1029688",
-    "time": "2026-02-10T14:21:50.000Z"
   }
 ];

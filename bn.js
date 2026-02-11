@@ -1,12 +1,30 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "‘আমি সেই ভারতের নাগরিক…’ লোকসভায় অভিষেকের মুখে বীর দাসের কবিতা, ‘টু ইন্ডিয়া’ নিয়ে অভিষেকের বক্তব্যের ক্লিপিংস পোস্ট বীরের",
+    "desc": "একই ভারতের দুই রূপের কথা শুনিয়ে ৫ বছর আগে গেরুয়া শিবিরের রোষানলে পড়েছিলেন স্ট্যান্ড-আপ কমেডিয়ান তথা অভিনেতা-পরিচালক বীর দাস। তাঁর সেই ‘টু-ইন্ডিয়া’-এর কথাই নতুন মোড়কে সংসদে পেশ করে মঙ্গলবার বিজেপি ও মোদি সরকারকে তুলোধোনা করেছেন লোকসভায় তৃণমূলের দলনেতা অভিষেক বন্দ্যোপাধ্যায়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Abhishek-Banerjee-and-Vir-Das-2026-02-cb43c251b639be35bb0c65f3e754f0f8-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/abhishek-banerjee-on-vir-das-beauty-of-two-indias-in-one-a-comedian-is-questioned-for-talking-about-the-two-india-divide-ss-2535251.html",
+    "time": "2026-02-11T09:11:37.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "‘বন্দে মাতরম’-এর ৬টি স্তবকই গাইতে হবে, মোট ৩ মিনিট ১০ সেকেন্ড, নতুন গাইডলাইনে কী কী নিয়ম?",
     "desc": "জাতীয় গান ‘বন্দে মাতরম’ নিয়ে বিশেষ নির্দেশিকা প্রকাশ কেন্দ্রীয় স্বরাষ্ট্র মন্ত্রকের৷ ১৯৩৭ সালে সরকারি সংস্করণ থেকে বাদ যাওয়া চারটি স্তবক যোগ করা হল বর্তমান সরকারি সংস্করণে৷ ‘বন্দে মাতরম’ চলার সময়ে সম্মানার্থে উঠে দাঁড়ানো বাধ্যতামূলক করা হয়েছে নতুন গাইডলাইনে৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-11-at-11.59.23-2026-02-6ad05cc361adc9ca822e239896e07e66-3x2.jpeg",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-11-at-13.41.41-2026-02-5f51840041e7892df2edf9f1a95cf030-3x2.jpeg",
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/vande-mataram-new-guidelines-all-six-stanzas-to-be-sung-at-official-events-movie-halls-before-national-anthem-sta-2534913.html",
-    "time": "2026-02-11T06:31:45.000Z"
+    "time": "2026-02-11T08:12:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "পড়াশোনার পাশাপাশি চলে রেওয়াজ! ১০ বছর বয়সেই সুপারস্টার! বাংলা গানের দুনিয়ায় বাজিমাত পটাশপুরের খুদে সুপারস্টার স্বর্ণাভর",
+    "desc": "এর পর আসে বড় সুযোগ। বাংলা এক টেলিভিশন চ্যানেল থেকে ডাকা হয় তাকে। জনপ্রিয় গানের রিয়েলিটি শোয়ে অংশ নেয় স্বর্ণাভ। অডিশন পর্বেই বিচারকদের মন জয় করে সে। তার কণ্ঠের শক্তি ও সুরের নিখুঁত ব্যবহার সকলকে মুগ্ধ করে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/HYP_5757273_cropped_11022026_102445_1000340994_watermark_11022_2-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/east-medinipur-child-artist-rocks-bengali-music-world-as-well-as-reality-show-l18-arc-local18-2535013.html",
+    "time": "2026-02-11T08:06:34.000Z"
   },
   {
     "cat": "Politics",
@@ -232,15 +250,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/not-pakistan-this-issue-becomes-biggest-threat-india-in-t20-world-cup-smj-2532523.html",
     "time": "2026-02-09T12:38:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "মেগা ব্রেক! আইনশৃঙ্খলা ইস্যুতে DGকে শোকজ করেও রাজ্যের পক্ষে রায় সুপ্রিম কোর্টের! 'ক্ষমতাহীন' মাইক্রোঅবজার্ভার...",
-    "desc": "মমতার আইনজীবী - মাইক্রো অবজারভার নিয়োগের রুলবুকে তাদের নির্বাচনের দিন কাজে লাগানোর কথা বলা হয়েছে। কোর্ট - মাইক্রো অবজারভাররা নিজেরা কোনো সিদ্ধান্ত নিতে পারেন না কমিশন - নন ইস্যু নিয়ে আদালতের সময় নষ্ট করা হচ্ছে মমতা বন্দ্যোপাধ্যায়ের আইনজীবী একটি স্ক্রিনশট দেখিয়ে ইআরও-র সিদ্ধান্ত খতিয়ে দেখতে বলা হচ্ছে মাইক্রো অবজারভারকে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/in-sir-hearing-case-verdict-in-sc-said-not-microobserver-but-ero-have-the-highest-power-dgp-showcaused-mamata-win_640334.html ",
-    "time": "2026-02-09T12:06:44.000Z"
   },
   {
     "cat": "World",
@@ -682,15 +691,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/bengaluru-metro-bengaluru-metro-fines-1-lakh-passengers-not-giving-seat-to-pregnant-women-gutka-loud-music-top-penalty-list-rm-2525078.html",
     "time": "2026-02-03T15:08:18.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "পাব-এ মদ্যপানের পরে  দশম শ্রেণির ছাত্রের ৭ তলা থেকে মরণঝাঁপ! ভয়? আতঙ্ক? বিষাদ?",
-    "desc": "কী ঘটেছিল? কী কী সম্ভাব্য় বিষয় থাকতে পারে, যারে ফলে ছেলেটি বাড়ি ফিরে এমন কাণ্ড ঘটাতে পারে? এমন কিছু কি ঘটেছিল সেই শনিসন্ধ্যায়, যাতে তাকে একরকম বাধ্য হয়ে এমন পথ বেছে নিতে হল? ধন্দে সকলে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/class-10-bengaluru-boy-jumps-to-death-from-7th-floor-after-drinking-at-pub_639296.html ",
-    "time": "2026-02-03T15:05:53.000Z"
   },
   {
     "cat": "Business",
