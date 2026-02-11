@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "T20 World Cup points table update after West Indies beat England by 30 runs",
+    "desc": "West Indies defeated England in the 15th match of the ongoing T20 World Cup at the Wankhede Stadium in Mumbai. The Caribbean side defended the target of 197 runs as they bundled England out for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-points-table-update-after-west-indies-beat-england-by-30-runs-2026-02-11-1029886",
+    "time": "2026-02-11T18:07:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Comparing most expensive players from T20 leagues ahead of 2026 season",
+    "desc": "The first-ever Pakistan Super League (PSL) auction took place today in Lahore. As many as eight teams bid on the players they wished to sign for the upcoming season, from their PKR 50.5 crore (INR...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/psl-vs-ipl-auction-comparing-most-expensive-players-from-t20-leagues-ahead-of-2026-season-2026-02-11-1029876",
+    "time": "2026-02-11T17:00:42.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Is Pakistan's Usman Tariq's bowling action illegal? Former India cricketer supports spin bowler",
     "desc": "Usman Tariq starred for Pakistan with the ball in their game against the USA in the T20 World Cup on Tuesday. He finished with figures of 3/27 in his four overs, but unfortunately, more than...",
     "img": "",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/steve-smith-added-as-reserve-player-after-marsh-ruled-out-of-australia-s-t20-world-cup-opener-2026-02-11-1029803",
     "time": "2026-02-11T09:13:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh government backs out, puts it on BCB, players over boycotting T20 World Cup 2026",
-    "desc": "Bangladesh’s absence from the T20 World Cup 2026 continues to generate debate. Sports Adviser Asif Nazrul on Tuesday asserted that the call to stay away from the tournament was made by the Bangladesh Cricket Board...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-government-backs-out-puts-it-on-bcb-players-over-boycotting-t20-world-cup-2026-2026-02-11-1029791",
-    "time": "2026-02-11T08:23:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Quinton de Kock breaks AB de Villiers' legendary record with half-century vs Afghanistan in T20 World Cup 2026",
-    "desc": "Quinton de Kock etched his name into the record books by surpassing AB de Villiers for the most runs by a South Africa international in T20 World Cup history. The keeper-batter scored a composed 59...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/quinton-de-kock-breaks-ab-de-villiers-legendary-record-with-half-century-vs-afghanistan-in-t20-world-cup-2026-2026-02-11-1029785",
-    "time": "2026-02-11T07:28:16.000Z"
   }
 ];

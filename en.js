@@ -1,5 +1,122 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Madsen",
+    "desc": "While Madsen, who addressed the media on the eve of the game, was visibly upset about missing a crucial game, he made it clear that “to win in front of 35,000 people would be pretty special”",
+    "img": "https://th-i.thgim.com/public/incoming/iv2ck7/article70619932.ece/alternates/LANDSCAPE_1200/GettyImages-2260635266.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/a-huge-honour-for-us-to-play-at-the-wankhede-stadium-madsen/article70619937.ece",
+    "time": "2026-02-11T17:52:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Motie magic sinks England in Mumbai",
+    "desc": "England were bowled out for 166 in 19 overs in reply. They began the chase quickly, but Motie, who mixes left-arm orthodox and wrist spin, dismissed Tom Banton, Jacob Bethell and captain Harry Brook in a spell of 3 for 33.",
+    "img": "https://static.toiimg.com/photo/msid-128219318,imgsize-68782.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-sherfane-rutherford-motie-magic-sinks-england-in-mumbai/articleshow/128219187.cms",
+    "time": "2026-02-11T17:46:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "By next academic year, government wants AI to become part of teaching-learning at all levels of education",
+    "desc": "Union Education Minister Dharmendra Pradhan met with leaders of 10 leading start-ups using AI in the ed-tech sector at a roundtable discussion in IIT Delhi, ahead of the government’s Bharat Bodhan AI Conclave starting December 11",
+    "img": "https://th-i.thgim.com/public/incoming/4fl00t/article70621274.ece/alternates/LANDSCAPE_1200/Critical-thinkiGFJFEA1A4.6.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/by-next-academic-year-government-wants-ai-to-become-part-of-teaching-learning-at-all-levels-of-education/article70621052.ece",
+    "time": "2026-02-11T17:43:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman Khan's BIL Aayush Sharma receives threat email",
+    "desc": "Days after Ranveer Singh reportedly received a threatening WhatsApp voice note, actor Aayush Sharma has now allegedly received a threat email. Aayush, who is married to Salman Khan’s sister Arpita Khan, was sent the message via email, reportedly from someone claiming links to the Lawrence Bishnoi gang.",
+    "img": "https://static.toiimg.com/photo/msid-128219113,imgsize-34700.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-brother-in-law-aayush-sharma-receives-threat-email-after-ranveer-singhs-extortion-case/articleshow/128218993.cms",
+    "time": "2026-02-11T17:40:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "19 vacancies in National Medical Commission, govt admits in Rajya Sabha",
+    "desc": "Within the Commission itself, out of 33 sanctioned posts — comprising the Chairman, ex-officio members and part-time members — 28 are in position. The Secretary’s post is filled. However, vacancies are more visible across the autonomous boards responsible for regulating undergraduate and postgraduate medical education, medical assessment and accreditation, and ethics and medical registration.",
+    "img": "https://static.toiimg.com/photo/msid-128218739,imgsize-97004.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/19-vacancies-in-national-medical-commission-govt-admits-in-rajya-sabha/articleshow/128218775.cms",
+    "time": "2026-02-11T17:30:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by George Clooney",
+    "desc": "Hollywood superstar George Clooney, admired for his intellect and allure, advocates that real education comes from our missteps, not our victories. He points to his 1997 experience with 'Batman & Robin' as a crucial chapter that informed his growth and discipline in the industry.",
+    "img": "https://static.toiimg.com/photo/msid-128198899,imgsize-1018401.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-george-clooney-you-dont-learn-from-succeeding-you-learn-from-failing/articleshow/128198899.cms",
+    "time": "2026-02-11T17:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Rajpal Yadav will repay every single rupee,’ says his friend",
+    "desc": "Rajpal Yadav has found himself embroiled in a cheque bounce case linked to his 2012 directorial venture Ata Pata Laapata. The case, reportedly stemming from unpaid debts accumulated during the film’s prolonged and financially strained production, has brought renewed focus on the ambitious project that failed at the box office.",
+    "img": "https://static.toiimg.com/photo/msid-128218314,imgsize-38512.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadavs-cheque-bounce-case-his-intentions-are-absolutely-clean-he-will-repay-every-single-rupee-says-his-long-time-friend/articleshow/128218150.cms",
+    "time": "2026-02-11T17:19:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ahead of March 31 deadline, Odisha revises surrender and rehabilitation scheme for surrendering Maoists",
+    "desc": "After revision of guideline in November last year that saw reward money going up substantially, 45 LWEs have surrendered before security forces while there are still 40 cadres including a State Committee Member active in Odisha",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/odisha/ahead-of-march-31-deadline-odisha-revises-surrender-and-rehabilitation-scheme-for-surrendering-maoists/article70620211.ece",
+    "time": "2026-02-11T17:12:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vande Mataram to be played before Jana Gana Mana, says Centre to States and government bodies",
+    "desc": "The fresh set of guidelines were uploaded on the MHA’s website on February 6 but no formal announcement or a statement was issued; it states that whenever the official version, around 3.10 minutes long, is sung or played, the audience shall stand to attention",
+    "img": "https://th-i.thgim.com/public/news/national/t0mry2/article65536433.ece/alternates/LANDSCAPE_1200/NKV-MHA1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/vande-mataram-to-be-played-before-jana-gana-mana-says-centre-to-states-and-government-bodies/article70620756.ece",
+    "time": "2026-02-11T16:46:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "5 romance dramas to watch on Peacock ahead of Valentine's Day",
+    "desc": "​Peacock has a knack for serving up romance dramas that feel real and pull at your heartstrings. These shows weave love stories with plenty of tension, secrets, and those moments that make you sigh or reach for tissues. These five gems below are the ones that balance emotion and excitement, all confirmed streaming there right now. They span theougheras and styles, so there’s something for every mood.​",
+    "img": "https://static.toiimg.com/photo/msid-128188263,imgsize-902201.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/5-heartfelt-romance-dramas-on-peacock-that-are-a-must-watch-ahead-of-valentines-day/photostory/128188263.cms",
+    "time": "2026-02-11T16:35:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Trinamool Congress MP",
+    "desc": "In the Rajya Sabha, members demanded curbs on Korean mobile games, right to recall elected representatives, and Constitutional status to the National Commission for Minorities. They also discussed the impact of the India-U.S. trade deal on soybean farmers in Madhya Pradesh.",
+    "img": "https://th-i.thgim.com/public/news/national/4cubnv/article70621064.ece/alternates/LANDSCAPE_1200/Rajya%20Sabha.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/build-memorial-for-bengal-revolutionaries-who-never-wrote-mercy-petitions-trinamool-congress-mp/article70620734.ece",
+    "time": "2026-02-11T16:23:35.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Grassroots workers of Awami League blame top Ministers, former General Secretary for downfall of party",
+    "desc": "The workers say many of the Ministers and individuals who formed the coterie around Ms. Hasina lacked popularity and acceptance within the party. Businessmen brought to the party by former general secretary Obaidul Quader promoted interests of their businesses, they charge",
+    "img": "https://th-i.thgim.com/public/incoming/yh2llu/article70621050.ece/alternates/LANDSCAPE_1200/Bangladesh_Election_58527.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/grassroots-workers-of-awami-league-blame-top-ministers-former-general-secretary-for-downfall-of-party/article70620732.ece",
+    "time": "2026-02-11T16:12:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&K CM Omar Abdullah",
+    "desc": "CM apologises for his earlier remarks implying that BJP legislators had been reprimanded by the Union Home Minister, triggering an Opposition protest; CM apologises, but lashes out at LoP for his criticism of NC founder Sheikh Abdullah",
+    "img": "https://th-i.thgim.com/public/incoming/ttqp3x/article70620989.ece/alternates/LANDSCAPE_1200/20260211139L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/speaker-can-expunge-any-unparliamentary-language-jk-cm-omar-abdullah/article70620430.ece",
+    "time": "2026-02-11T16:00:49.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "1 in 3 faculty posts vacant across AIIMS; over 17,000 Non-Faculty Posts Also Unfilled",
     "desc": "Nearly one-third of faculty positions across India's AIIMS are vacant, with both older and newer institutes facing significant staffing gaps. Non-faculty positions are also severely understaffed, raising concerns about the pace of recruitment matching infrastructure and patient demand growth.",
@@ -7,6 +124,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/1-in-3-faculty-posts-vacant-across-aiims-over-17000-non-faculty-posts-also-unfilled/articleshow/128214959.cms",
     "time": "2026-02-11T15:52:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranbir’s Valentine note for Alia, a sweet memory",
+    "desc": "At a recent promotional gathering, Ranbir Kapoor's emotional Valentine's Day tribute to his beloved wife Alia Bhatt and their adorable daughter Raha captured hearts online. His message, brimming with affection and yearning while he's on the road, quickly gained traction, leading Alia to reshare the touching clip with the sweet remark calling him the 'cutest human ever.",
+    "img": "https://static.toiimg.com/photo/msid-128214924,imgsize-21720.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-ranbir-kapoors-valentines-day-message-to-alia-bhatt-and-raha-said-i-love-you-girls-and-i-miss-you/articleshow/128214924.cms",
+    "time": "2026-02-11T15:51:06.000Z"
   },
   {
     "cat": "Politics",
@@ -47,7 +173,7 @@ const newsData_en = [
   {
     "cat": "Politics",
     "title": "'Why was Puri seeking advice from Epstein?' Congress ups the ante, poses 6 questions",
-    "desc": "Congress attacked Union Minister Hardeep Singh Puri over his alleged links to Jeffrey Epstein, questioning his interactions and Puri's downplaying of the financier's crimes. Puri clarified his meetings were professional and unrelated to the allegations, while Congress accused him of trivializing sexual exploitation of minors.",
+    "desc": "Congress has intensified its criticism of Union Minister Hardeep Singh Puri regarding his alleged connections with financier Jeffrey Epstein. Party leader Pawan Khera questioned Puri's interactions, citing an email exchange suggesting Epstein facilitated a meeting with Reid Hoffman. Khera also condemned Puri's remarks on Epstein's conviction, accusing him of trivializing child sexual exploitation and demanding moral clarity from public officials.",
     "img": "https://static.toiimg.com/photo/msid-128214461,imgsize-732799.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/why-was-puri-seeking-advice-from-epstein-congress-ups-the-ante-poses-6-questions/articleshow/128214475.cms",
@@ -118,7 +244,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Rajpal Yadav's wif breaks silence on getting help from the industry",
+    "title": "Rajpal Yadav's wife breaks silence on getting help from the industry",
     "desc": "Actor-comedian Rajpal Yadav surrendered to Tihar Jail over cheque-bounce cases totaling nearly ₹9 crore. His wife, Radha, revealed the film fraternity, including Sonu Sood, Guru Randhawa, and Mika Singh, has rallied behind him, offering financial and moral support. Several prominent industry figures have also reached out, promising assistance.",
     "img": "https://static.toiimg.com/photo/msid-128212602,imgsize-51656.cms",
     "src": "indiatimes.com",
@@ -187,24 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/let-us-do-it-together-rahul-gandhi-cuts-in-as-minister-ashwini-vaishnaw-speaks-watch/articleshow/128210292.cms",
     "time": "2026-02-11T13:45:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Madsen",
-    "desc": "While Madsen, who addressed the media on the eve of the game, was visibly upset about missing a crucial game, he made it clear that “to win in front of 35,000 people would be pretty special”",
-    "img": "https://th-i.thgim.com/public/incoming/iv2ck7/article70619932.ece/alternates/LANDSCAPE_1200/GettyImages-2260635266.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/a-huge-honour-for-us-to-play-at-the-wankhede-stadium-madsen/article70619937.ece",
-    "time": "2026-02-11T13:38:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Targeted measures vital to reverse prolonged decline in rice production in Kerala, says Performance Budget on Agriculture department",
-    "desc": "Document recommends tax concessions or cultivation-linked subsidies to encourage retention of paddy lands. In Kerala, area under paddy and production plummeted from 3.47 lakh ha and 7.51 lakh tonne respectively in 2000-01 to 1.76 lakh ha and 5.30 lakh tonne in 2024-25",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/targeted-measures-vital-to-reverse-prolonged-decline-in-rice-production-in-kerala-says-performance-budget-on-agriculture-department/article70619782.ece",
-    "time": "2026-02-11T13:34:58.000Z"
   },
   {
     "cat": "Sports",
@@ -291,7 +399,7 @@ const newsData_en = [
     "cat": "Politics",
     "title": "'Met Epstein 3-4 times': Harpdeep Puri sets record straight after Rahul Gandhi's charge in Lok Sabha",
     "desc": "\"I want to remind you that today, during the Parliament session, my name was mentioned in the context of some developments elsewhere—the Epstein files. I just want to share some information... I want to clarify that these facts are all public,\" Puri said at a press conference. Puri said the meetings took place before he joined the Union Cabinet in 2017 and are already in the public domain.",
-    "img": "https://static.toiimg.com/photo/msid-128205717,imgsize-30780.cms",
+    "img": "https://static.toiimg.com/photo/msid-128215621,imgsize-37668.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/met-epstein-3-4-times-harpdeep-puri-sets-record-straight-after-rahul-gandhis-charge-in-lok-sabha/articleshow/128204848.cms",
     "time": "2026-02-11T12:10:36.000Z"
@@ -333,15 +441,6 @@ const newsData_en = [
     "time": "2026-02-11T11:32:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Family is hopeful': Rajpal Yadav’s BAIL hearing tomorrow",
-    "desc": "Rajpal Yadav, currently jailed in a cheque-bounce case, will have his bail hearing on February 12. His manager, Goldie, confirmed industry support from Salman Khan, Ajay Devgn, and Varun Dhawan. The family hopes for his release before his niece’s February 19 wedding, as FWICE also urged members to help.",
-    "img": "https://static.toiimg.com/photo/msid-128203727,imgsize-39150.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/family-is-hopeful-rajpal-yadavs-bail-hearing-tomorrow-manager-reveals-salman-khan-ajay-devgn-and-others-lend-support/articleshow/128203727.cms",
-    "time": "2026-02-11T11:17:34.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Budget may cut reliance on foreign telescopes, but trips on space spending",
     "desc": "Only a few large astronomical observatories are capable of groundbreaking discoveries worldwide, which means researchers have to compete for observation time. When funding agencies favour their own national researchers, international scientists’ access becomes increasingly restricted, and Indians are no exception",
@@ -367,33 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/more-us-venezuelan-crude-to-flow-into-india-refiners-asked-to-prioritize-these-oil-grades-economic-viability-in-doubt/articleshow/128203100.cms",
     "time": "2026-02-11T11:02:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priya Prakash Varrier meets Ajith Kumar on a race day",
-    "desc": "Priya Prakash Varrier recently joined Ajith Kumar at his motorsports events, sharing insights into his passion for racing. She fondly recalled working with Ajith on 'Good Bad Ugly,' highlighting his respect for co-stars and inspiring dedication. Other celebrities like Nayanthara and Sivakarthikeyan have also attended Ajith's racing events, praising his commitment.",
-    "img": "https://static.toiimg.com/photo/msid-128202067,imgsize-48524.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/priya-prakash-varrier-meets-her-good-bad-ugly-co-star-ajith-kumar-on-a-race-day-see-video/articleshow/128202067.cms",
-    "time": "2026-02-11T10:47:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "FWICE urges the industry to offer financial, moral support to Rajpal",
-    "desc": "Actor Rajpal Yadav surrendered to Tihar Jail authorities over a Rs 9 crore debt. The Federation of Western India Cine Employees (FWICE) has appealed to the entire film and television fraternity to support Yadav, highlighting his contributions and urging collective compassion.",
-    "img": "https://static.toiimg.com/photo/msid-128202140,imgsize-49692.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-cheque-bounce-case-fwice-appeals-to-the-industry-to-offer-financial-and-moral-support-to-the-actor/articleshow/128202112.cms",
-    "time": "2026-02-11T10:33:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Himani Shivpuri lauds Ranbir Kapoor's 'sanskar'",
-    "desc": "Veteran actress Himani Shivpuri recently met Ranbir Kapoor, praising his ‘sanskar’ and their Broadway memories from ‘Aa Ab Laut Chalen’. On Instagram, she shared a photo, captioning his warmth and foot-touching gesture. She reminisced Rishi Kapoor pushing them to musicals like Cats. Himani starred in Pardes; Ranbir preps for 'Ramayana' as Lord Ram.",
-    "img": "https://static.toiimg.com/photo/msid-128202172,imgsize-55576.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/himani-shivpuri-lauds-ranbir-kapoors-sanskar-shares-aa-ab-laut-chalen-memories-says-he-got-up-and-touched-my-feet/articleshow/128202172.cms",
-    "time": "2026-02-11T10:33:37.000Z"
   },
   {
     "cat": "World",
@@ -459,15 +531,6 @@ const newsData_en = [
     "time": "2026-02-11T10:04:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Not on whims, fancies’: Supreme Court trims woman’s ‘faulty haircut’ compensation to Rs 25 lakh from Rs 2 crore",
-    "desc": "The Supreme Court reduced a \"faulty haircut\" compensation from Rs 2 crore to Rs 25 lakh, stating damages require material evidence, not just claims. The court emphasized that consumer dispute compensation cannot be based on whims or presumptions, especially for large sums. While \"deficiency in service\" was established, the woman failed to provide sufficient proof of her claimed losses.",
-    "img": "https://static.toiimg.com/photo/msid-128199746,imgsize-944431.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/not-on-whims-fancies-supreme-court-trims-womans-faulty-haircut-compensation-to-rs-25-lakh-from-rs-2-crore/articleshow/128199455.cms",
-    "time": "2026-02-11T09:34:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Bangladesh's Sports Advisor Nazrul",
     "desc": "There is no question of regret (not playing the World Cup). This decision was taken by the BCB and the players as they made sacrifices for the safety of the country's cricket, the safety of the people, and to protect national dignity, says Asif Nazrul",
@@ -493,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/bank-strike-on-february-12-will-banks-remain-open-or-closed-tomorrow-why-bank-unions-are-striking/articleshow/128197444.cms",
     "time": "2026-02-11T08:47:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Riya Shibu says kids now call her the ‘Delulu chechi’",
-    "desc": "Malayalam horror-comedy 'Sarvam Maya' has charmed audiences with its Gen Z ghost, Delulu, played by Riya Shibu. Shibu expresses delight at the widespread love, from kids calling her 'Delulu chechi' to elders affectionately addressing her as 'mole'. Directed by Akhil Sathyan, the film, praised for Shibu's adorable portrayal and Nivin Pauly's performance, is now streaming on Jio Hotstar.",
-    "img": "https://static.toiimg.com/photo/msid-128197880,imgsize-37706.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/sarvam-maya-star-riya-shibu-says-kids-now-call-her-the-delulu-chechi/articleshow/128197880.cms",
-    "time": "2026-02-11T08:47:09.000Z"
   },
   {
     "cat": "Entertainment",
@@ -576,15 +630,6 @@ const newsData_en = [
     "time": "2026-02-11T06:04:05.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Bhel shares plunge 6%! Why is the stock falling after Rs 4,422 crore OFS opens for subscription?",
-    "desc": "BHEL shares dipped as the government launched an Offer for Sale, aiming to divest up to 5% stake and raise approximately Rs 4,422 crore. The floor price is set at Rs 254 per share. This move follows BHEL's impressive Q3 results, which saw a 206% surge in net profit, driven by enhanced execution and revenue growth.",
-    "img": "https://static.toiimg.com/photo/msid-128190641,imgsize-28070.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/bhel-shares-plunge-6-why-is-the-stock-falling-after-rs-4422-crore-ofs-opens-for-subscription/articleshow/128189784.cms",
-    "time": "2026-02-11T05:53:23.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ben Stokes undergoes facial surgery after freak blow, shares pic",
     "desc": "England Test captain Ben Stokes has successfully undergone surgery for a facial injury sustained during a nets session. The all-rounder shared images of his swollen face, humorously remarking on the cricket ball's condition. This procedure follows a challenging Ashes tour and comes as his captaincy is under review.",
@@ -619,24 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-icc-got-tangled-in-a-controversy-that-wasnt/articleshow/128188041.cms",
     "time": "2026-02-11T04:34:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Currency dips 6 paise to 90.62 against US dollar",
-    "desc": "The Indian rupee opened weaker against the US dollar on Wednesday, trading at 90.62 due to global geopolitical tensions and import demand. Despite a slight dip in the dollar index, rising oil prices are expected to pressure the rupee further. Meanwhile, Indian stock markets showed a positive start, with the Sensex and Nifty gaining points.",
-    "img": "https://static.toiimg.com/photo/msid-128188291,imgsize-133517.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-today-currency-dips-6-paise-to-90-62-against-us-dollar/articleshow/128188175.cms",
-    "time": "2026-02-11T04:33:47.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Markets inch higher ahead of US economic and job data; HSI adds 97 points, Kospi flat",
-    "desc": "Asian markets showed gains Wednesday, with Hong Kong, South Korea, and Japan trading higher. Investors are weighing weak US consumer data and economic concerns against potential Federal Reserve rate cuts. Technology stocks faced pressure globally due to high valuations and AI investment worries, as traders await crucial US jobs and inflation figures.",
-    "img": "https://static.toiimg.com/photo/msid-128187597,imgsize-115794.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/asian-stocks-today-markets-inch-higher-ahead-of-us-economic-and-job-data-nikkei-up-2-hsi-adds-97-points/articleshow/128186631.cms",
-    "time": "2026-02-11T04:11:20.000Z"
   },
   {
     "cat": "Sports",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/siraj-swinging-backinto-indias-t20-blueprint/article70608587.ece",
     "time": "2026-02-08T18:08:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘JC: The University’ movie review: After a brilliant start, this crime drama loses momentum",
-    "desc": "The University’, debut director Chethan Jayaram dives into the gritty world of prison life through the eyes of a college student. The film kicks off strongly before losing grip, as character development and emotional moments taking a backseat",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/29fem1/article70603935.ece/alternates/LANDSCAPE_1200/JC.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/jc-the-university-movie-review-surya-prakhyath-daali-dhananjaya-crime-thriller-brilliant-start-loses-momentum/article70603907.ece",
-    "time": "2026-02-08T08:50:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Siraj seals opening match for India after last-minute call-up cancels his Real Madrid plan",
-    "desc": "With Harshit Rana injuring his knee during the warm-up game on Wednesday (February 4, 2026) and ruled out of the T20 World Cup, India opted to call up Siraj, a member of Rohit Sharma’s triumphant 2024 squad",
-    "img": "https://th-i.thgim.com/public/incoming/4hyzh2/article70606579.ece/alternates/LANDSCAPE_1200/11908_7_2_2026_21_27_47_5_DSC_1581.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/siraj-cancels-real-madrid-plans-after-last-minute-call-up-shines-in-t20-world-cup-opener/article70606571.ece",
-    "time": "2026-02-08T07:54:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sooryavanshi headlines U-19 World Cup team of the Tournament",
-    "desc": "The 14-year-old Sooryavanshi, who scored a majestic 175 from 80 balls in the final against England and was subsequently crowned Player of the Tournament, is joined by compatriots Kanishk Chouhan and Henil Patel in the 12-member team",
-    "img": "https://th-i.thgim.com/public/incoming/fwn9ds/article70606760.ece/alternates/LANDSCAPE_1200/PTI02_06_2026_000367A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/sooryavanshi-headlines-u-19-world-cup-team-of-the-tournament/article70606737.ece",
-    "time": "2026-02-08T07:02:37.000Z"
   }
 ];
