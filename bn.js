@@ -1,6 +1,42 @@
 const newsData_bn = [
   {
     "cat": "World",
+    "title": "বাংলাদেশ নির্বাচনে বেশিরভাগ ভোটকেন্দ্রে নারীদের উল্লেখযোগ্য উপস্থিতি, কীসের ইঙ্গিত?",
+    "desc": "সকাল সাড়ে ৭টা। ভোট শুরুর সঙ্গে সঙ্গেই বাংলাদেশের সিলেটের একাধিক কেন্দ্রে নারী ভোটারদের লম্বা লাইন। কেউ বলছেন, “সকাল সকাল ভোট দিলে শান্তিতে দেওয়া যায়।” কেউ বলছেন, “গৃহস্থালির কাজ শুরুর আগে ভোটটা দিয়ে যাই।” প্রশ্ন হল—এটা কি শুধুই সুবিধাজনক সময় বেছে নেওয়া? নাকি এর মধ্যে রয়েছে বড় সামাজিক ও রাজনৈতিক বার্তা? সিলেটের চিত্র দেখাচ্ছে—নারীরা এখন নীরব দর্শক নন। তারা সক্রিয় অংশগ্রহণকারী। ভোটের দিন সকালে তাদের লম্বা লাইন শুধু একটি দৃশ্য নয়, এটি একটি বার্তা—নারীরা ভোট দিতে চান, সময়মতো দিতে চান, এবং নিজেদের সিদ্ধান্ত নিজে নিতে চান। রাজনীতির অঙ্কে হয়তো সংখ্যা গুরুত্বপূর্ণ। কিন্তু গণতন্ত্রের শক্তি নির্ভর করে অংশগ্রহণের ওপর। সিলেটে সকালবেলার নারী ভোটারদের ভিড় হয়তো সেই অংশগ্রহণেরই প্রতীক।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/698deef6bced4.png",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/international/bangladesh-election-2026-women-voter-turnout-was-significant-what-is-the-reason-pbd-2537475.html",
+    "time": "2026-02-12T15:32:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "হারিয়েছেন ৮৫% দৃষ্টিশক্তি! জেলেই অন্ধ হওয়ার পথে ইমরান খান! আসিম মুনিরের চালে ভয়ঙ্কর দুর্দশা",
+    "desc": "ইমরান খান “প্রাতিষ্ঠানিক চিকিৎসা অবহেলা”-র কারণে স্থায়ীভাবে দৃষ্টিশক্তি হারিয়েছেন। ‘ফ্রেন্ড অব দ্য কোর্ট’ হিসেবে দায়িত্ব পালনকারী অ্যাডভোকেট সলমান সাফদারের প্রস্তুত করা এই প্রতিবেদনে অভিযোগ করা হয়েছে, জেনারেল আসিম মুনিরের নেতৃত্বাধীন সামরিক প্রতিষ্ঠানের পরিকল্পিত পদক্ষেপের ফলেই পিটিআই প্রতিষ্ঠাতার ওপর এমন শারীরিক ক্ষতি করা হয়েছে, যাতে প্রচলিত ফরেনসিক প্রমাণ না থাকে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-12-at-8.17.22-PM-2026-02-7afb8e54bb8b46b7d621a38698da2448-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/international/imran-khan-lost-85-percent-of-his-eye-sight-harrowing-medical-report-came-into-light-smc-2537358.html",
+    "time": "2026-02-12T14:51:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "টি-২০ বিশ্বকাপে ইতিহাস ইতালির! নেপালের বিরুদ্ধে ১০ উইকেটে বিরাট জয়!",
+    "desc": "চলতি টি-২০ বিশ্বকাপে নেপালের বিরুদ্ধে খেলতে নেমে ইতিহাস গড়ল ইতালি ক্রিকেট দল। এই প্রথমবার টি-২০ বিশ্বকাপ ইতিহাসে যোগ্যতা অর্জন করেছে ইতালি। নেপালের বিরুদ্ধে জেতার পাশাপাশি, তারা বিশ্বকাপ ইতিহাসে প্রথম ম্য়াচে জয়লাভ করল। ইতালির কাছে এই জয় আক্ষরিক অর্থেই ঐতিহাসিক।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/italy-1-2026-02-69d68843ce3f4777b01f4093eb3acfbc-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/sports/t20-world-cup-italy-thrashes-nepal-creates-history-in-t20-world-cup-smc-2537319.html",
+    "time": "2026-02-12T14:13:13.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "মার্কিন পুলিশের গাড়ির ধাক্কায় নিহত হয় ভারতীয় ছাত্রী, আন্তর্জাতিক বিতর্কের পর ২৬৫ কোটি ক্ষতিপূরণ",
+    "desc": "সিয়াটলে ভারতীয় ছাত্রী জাহ্নবী কন্দুলার মর্মান্তিক মৃত্যুর ঘটনায় শহর কর্তৃপক্ষ ২৯ মিলিয়ন মার্কিন ডলার (প্রায় ২৬৫ কোটি টাকা) ক্ষতিপূরণ দিতে সম্মত হয়েছে। কিং কাউন্টি সুপিরিয়র কোর্টে গত সপ্তাহে এই সমঝোতা সংক্রান্ত নোটিশ দাখিল করা হয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Untitled-design-2026-02-12T182905.024-2026-02-16f8b408b62db07d9b3bf06f43caeef0-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/indian-student-jaahnavi-kandula-seattle-police-crash-265-crore-compensation-sal-2537230.html",
+    "time": "2026-02-12T13:17:02.000Z"
+  },
+  {
+    "cat": "World",
     "title": "'মানাতে না পারলে চলে যান, দরজা খোলা'! কতজনকে দরজা দেখাচ্ছে গুগল? নতুন বছরে হঠাৎ বড় কী ঘটল?",
     "desc": "গুগল তাদের ব্যবসায়িক কৌশলে AI-কে সর্বোচ্চ গুরুত্ব দিচ্ছে। এর সঙ্গে যারা মানাতে পারছে না, গুগল তাদের দরজা দেখিয়ে দিচ্ছে। যেসব কর্মী এই পরিবর্তনের সঙ্গে তাল মেলাতে পারছেন না, বা যাঁরা এই বদল নিয়ে সন্তুষ্ট নন, তাঁদের জন্য তারা 'ভলান্টারি এক্সিট প্যাকেজ' আনছে।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -862,41 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/gold-prices-jump-again-second-hike-in-a-single-day-sparks-market-buzz-dc-2524819.html",
     "time": "2026-02-03T12:14:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'আমরা ১ ইঞ্চি জমিও ছাড়ব না..., ক্ষমতা থাকলে গণতান্ত্রিক ভাবে লড়াই করুন!' দিল্লির বুকে দাঁড়িয়ে চ্যালেঞ্জ মমতার",
-    "desc": "বিজেপিকে পাল্টা চ্যালেঞ্জ জানিয়ে মমতার দাবি, তাঁর দল তৃণমূল আরও বেশি আসনে জিতবে। সাংবাদিক বৈঠক শেষে আত্মবিশ্বাসী মমতা জানান, আবার দিল্লি আসবেন ভোটে জেতার পর। তাঁর কথায়, ‘‘ভোটে জিতে দিল্লি আসব। তখন আপনাদের ভাল মিষ্টি খাওয়াব।’’ তার পরেই কিছুটা রসিকতা করেই সাংবাদিকদের উদ্দেশে মমতা বলেন, ‘‘দিল্লির লাড্ডু নয়।’’",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-03-at-17.15.03-2026-02-d54699f7a01510b08a0cd7ee258f44b2-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/mamata-banerjee-press-meet-west-bengal-cm-slams-opposition-challanges-bjp-on-upcoming-assembly-election-from-delhi-after-banga-bhawan-incident-and-sir-meeting-with-eci-sanj-2524770.html",
-    "time": "2026-02-03T11:58:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Big Changes To Come In Gold Price ? সোনার দামে কি বড় ধরনের পরিবর্তন আসতে পারে? ট্রাম্পের শুল্ক হ্রাসের পর সোনার দাম কোথায় যাবে?",
-    "desc": "Big Changes To Come In Gold Price ?ট্রাম্পের শুল্ক হ্রাসের সিদ্ধান্তের পর সোনার দামকে নতুনভাবে মূল্যায়ন করা হচ্ছে। বিশ্ববাজারে শুল্ক-সম্পর্কিত অস্থিরতা ও বাণিজ্যনীতি এখনও সোনার দামের ওপর চাপ সৃষ্টি করছে, যা দামকে উর্ধ্বমুখী রাখতে পারে; আবার যদি শুল্ক হ্রাসে বাজারে আত্মবিশ্বাস ফিরে আসে, তাহলে সোনা-এর দাম কিছুটা কমে যেতে পারে — এই দিকগুলোতে বিশেষজ্ঞরা নজর রাখছেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Gold-536-2026-02-bb50d84e4f5fb510fab248852aa62055-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/will-gold-prices-change-big-after-trumps-tariff-cuts-where-is-gold-headed-next-tc-dc-aa-2524576.html",
-    "time": "2026-02-03T11:31:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "মুক্তি পেতেই কাঁপিয়ে দিল ধুরন্ধর ২-র টিজার! বক্স অফিসে আবার ঝড় তুলবেন রণবীর সিং",
-    "desc": "ধুরন্ধর সুপারডুপার হিট, ইতিমধ্যেই ওটিটি-তেও রিলিজ হয়েছে ধুরন্ধর। এবার চলে এল ধুরন্ধর-২-এর টিজার৷ ধুরন্ধর-এর সাফল্যের পরপরই সিকুয়ালের টিজার দেখে চোখ ধাঁধিয়ে যাবে দর্শকদের৷ রণবীর সিংয় এখানে ড্যাশিং অবতারে। পার্ট ২টি 'ধুরন্ধর - দ্য রিভেঞ্জ'। 'ধুরন্ধর'-এর টিজারে স্পষ্ট যে, প্রথম ছবির মতো, এটিও বক্স অফিসে হইচই ফেলে দেবে৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/dhu-2026-02-029db2d75e11b8bb13de02e400bded43-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/aditya-dhar-directorial-dhurandhar-2-teaser-ranveer-singh-returns-as-hamza-says-yeh-naya-hindustan-hai-pbd-2524311.html",
-    "time": "2026-02-03T08:34:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "কয়লা পাচার মামলায় রাজ্য জুড়ে ১২ জায়গায় তল্লাশি ইডির...! ‍জামুরিয়ার ব্যবসায়ীর বাড়ি থেকে বিপুল টাকা উদ্ধার, নজরে একাধিক প্রভাবশালী!",
-    "desc": "সূত্রের খবর, জামুরিয়ার ব্যবসায়ী রমেশ বানসালের একাধিক জায়গায় তল্লাশি চালায় ইডির টিম। সেখান থেকে গুরুত্বপূর্ণ চালান এবং নথি উদ্ধার করা হয়েছে। এই ব্যবসায়ীর বাড়ি থেকে বিপুল পরিমান টাকা উদ্ধার হয়েছে। প্রায় ৭০ লাখ টাকা উদ্ধার হয়েছে বলে ইডি সূত্রে খবর। চলছে টাকা গোনার কাজ।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-03-at-13.31.04-2026-02-eda3196474448f9875a930bcd7737ce5-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/west-bengal/coal-scam-case-ed-conducting-raids-at-12-locations-across-the-state-in-connection-with-the-coal-smuggling-case-several-influential-businessmen-are-under-scrutiny-sanj-2524324.html",
-    "time": "2026-02-03T08:07:07.000Z"
   }
 ];

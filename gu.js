@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "IPL 2026 પહેલા ધોનીને મોટો ઝટકો, 10 લાખ જમા કરવા મદ્રાસ હાઈકોર્ટનો આદેશ; જાણો શું છે સમગ્ર મામલો",
+    "desc": "ધોનીએ 2014માં બે મીડિયા ઓર્ગેનાઈઝેશન, એક જર્નલિસ્ટ અને એક રિટાયર્ડ IPS અધિકારી વિરુદ્ધ 100 કરોડ રૂપિયાનો માનહાનિનો કેસ કર્યો હતો. તેમણે આરોપ લગાવ્યો હતો કે, આ લોકોએ 2013ની IPL સીઝન દરમિયાન તેમને બેટિંગ અને મેચ ફિક્સિંગ સાથે જોડીને બદનામ કરનારા નિવેદનો આપ્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ms-dhoni-defamation-case-madras-high-court-order-10-lakh-deposit-464731 ",
+    "time": "2026-02-12T15:19:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સૌથી મોટી રક્ષા ડીલને DACની મંજૂરી, ભારત ખરીદશે 114 નવા રાફેલ જેટ અને 6 P-8I એરક્રાફ્ટ",
+    "desc": "ભારત સરકારે 114 રાફેલ ફાઇટર જેટ ખરીદવા માટે મંજૂરી આપી દીધી છે. આ ઉપરાંત પહેલાથી જ વાયુસેનાના કાફલામાં સામેલ રાફેલને વધુ શક્તિશાળી બનાવવા માટે ફ્રાન્સ સાથે સ્કેલ્પ ક્રૂઝ મિસાઇલની ડીલ પર પણ ચર્ચા કરવામાં આવી છે. તેની સાથે જ અમેરિકા પાસેથી 6 P-8I દરિયાઈ સર્વેલન્સ એરક્રાફ્ટ પણ ખરીદવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/india-defense-deal-114-new-rafale-jets-and-p8i-aircraft-dac-approval-464729 ",
+    "time": "2026-02-12T14:34:03.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "વંદે માતરમ માટે નવો પ્રોટોકોલ, ઊભા ન રહેવા પર શું જેલ થઈ શકે? જાણો ધરપકડ અને સજાના નિયમો",
     "desc": "હાલમાં જ કેન્દ્રીય ગૃહ મંત્રાલયે વંદે માતરમને લઈ અપડેટેડ ગાઈડલાઈન જાહેર કરી છે. ચાલો જાણીએ કે, શું છે આ નવી ગાઈડલાઈન અને જો આ ગાઈડલાઈનનું પાલન ન કરવામાં આવે તો શું જેલ થઈ શકે છે.",
@@ -457,24 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/shocking-incident-of-punjab-taran-taran-is-there-any-valentine-week-angle-464423 ",
     "time": "2026-02-09T10:05:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ભારત-US ટ્રેડ ડીલમાં 45288220000000 રૂપિયાવાળી ડોનાલ્ડ ટ્રમ્પની એ કઈ &amp;#039;શરત&amp;#039; છે?...શું કહે છે સરકાર",
-    "desc": "જ્યારેથી ભારત અને અમેરિકા વચ્ચે ટ્રેડ ડીલ ફાઈનલ થઈ ગઈ છે ત્યારથી તેની વિગતો ખુબ ચર્ચામાં છે. માત્ર ભારતમાં જ નહીં પરંતુ વૈશ્વિક સ્તરે આ ટ્રેડ ડીલ ચર્ચામાં છે. જો કે સૌથી વધુ જો ધ્યાન ગયું હોય તો તે 45288220000000 રૂપિયાવાળી એ વાત છે જેના વિશે શું ચર્ચા થઈ રહી છે તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/india-us-trade-deal-piyush-goyal-talks-over-500-usd-billion-figure-mentioned-in-agreement-464417 ",
-    "time": "2026-02-09T08:52:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ટ્રેડ ડીલથી દોસ્તીમાં તિરાડ પડી? ભારત રશિયા પાસેથી ઓઈલની ખરીદી નહીં કરે? સરકારે આપ્યો જવાબ",
-    "desc": "ભારત અને અમેરિકા વચ્ચે જ્યારથી ટ્રેડ ડીલ થઈ છે ત્યારથી રશિયન ઓઈલની ખરીદીનો મુદ્દો ફરી ચગ્યો છે. કારણ કે અમેરિકાએ ભારત રશિયન ઓઈલ નહીં ખરીદે તેના પગલે દંડાત્મક ટેરિફ હટાવ્યો એવું કહ્યું પરંતુ ભારતે કોઈ જવાબ નહતો આપ્યો. પરંતુ હવે ભારત સરકારે જવાબ આપ્યો છે. જાણો શું કહ્યું?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/did-trade-deal-cause-rift-in-friendship-will-india-not-buy-oil-from-russia-check-piyush-goyal-statement-464374 ",
-    "time": "2026-02-09T03:18:49.000Z"
   },
   {
     "cat": "World",
