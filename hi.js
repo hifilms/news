@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sri Lanka aim to brush aside Oman, Dushan replaces Hasaranga in playing XI",
+    "desc": "Sri Lanka face Oman today in the 16th match of the T20 World Cup at the Pallekele International Cricket Stadium. Sri Lanka will miss Wanindu Hasaranga today as he has been ruled out of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sl-vs-oma-live-cricket-score-sri-lanka-aim-to-brush-aside-oman-dushan-replaces-hasaranga-in-playing-xi-2026-02-12-1029934",
+    "time": "2026-02-12T05:25:08.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How will surface at Arun Jaitley Stadium play for T20 World Cup 2026 match 18?",
     "desc": "India and Namibia will lock horns today in the 18th match of the T20 World Cup 2026 at the Arun Jaitley Stadium in New Delhi. India are coming into this game after beating the USA,...",
     "img": "",
@@ -70,14 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-fitness-update-will-india-fast-bowler-play-against-namibia-in-t20-world-cup-2026-02-11-1029845",
     "time": "2026-02-11T13:22:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tilak Varma shares major update on India's star opener ahead of Namibia clash",
-    "desc": "India are set to face Namibia in their second game of the ongoing T20 World Cup at the Arun Jaitley Stadium in New Delhi. Ahead of the clash, they are fretting over Abhishek Sharma, who...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-health-tilak-varma-shares-major-update-on-india-s-star-opener-ahead-of-namibia-clash-2026-02-11-1029841",
-    "time": "2026-02-11T12:36:09.000Z"
   }
 ];

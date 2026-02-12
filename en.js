@@ -1,7 +1,169 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "‘India have two, Canada get theirs’: Namibia question lack of night practice",
+    "desc": "Namibia's captain, Gerhard Erasmus, expressed frustration over the T20 World Cup schedule, noting his team received no night training sessions despite facing India in a night fixture. Erasmus highlighted the lack of floodlit practice facilities in Namibia, making the adjustment difficult for his players. Despite the disadvantage, the team is prepared to compete in their own 'Namibian way'.",
+    "img": "https://static.toiimg.com/photo/msid-128242793,imgsize-63672.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-have-two-canada-get-theirs-namibia-captain-questions-lack-of-night-practice-highlights-disparity/articleshow/128242778.cms",
+    "time": "2026-02-12T06:50:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ahead of TVK chief Vijay’s visit, a look at Salem district’s voting pattern",
+    "desc": "Traditionally known to be a stronghold of the AIADMK, Salem favoured the party in 10 out of its 11 Assembly constituencies, both in the 2016 and 2021 Assembly elections – the outlier being Salem (North)",
+    "img": "https://th-i.thgim.com/public/incoming/n4yykh/article70622902.ece/alternates/LANDSCAPE_1200/PTI01_25_2026_000162B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/ahead-of-tvk-chief-vijays-visit-a-look-at-salem-districts-voting-pattern/article70620787.ece",
+    "time": "2026-02-12T06:49:08.000Z"
+  },
+  {
     "cat": "Entertainment",
-    "title": "About 'Ata Pata Laapata', the film that led Rajpal to jail",
+    "title": "Boman Irani pens heartfelt farewell to his pet Lisa",
+    "desc": "Boman Irani is mourning the loss of his pet dog, Lisa. The actor shared heartfelt pictures and an emotional note calling her the “most noble, gentle soul.” Celebrities and fans expressed their condolences. Recently, Boman appeared in The Raja Saab, playing a paranormal investigator, showcasing his versatile acting range.",
+    "img": "https://static.toiimg.com/photo/msid-128242493,imgsize-31318.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/boman-irani-pens-heartfelt-farewell-to-his-pet-lisa-most-noble-gentle-soul/articleshow/128242493.cms",
+    "time": "2026-02-12T06:46:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Gene Simmons addresses backlash after comment about rap music",
+    "desc": "Gene Simmons is standing by his controversial remarks on rap music, clarifying his \"I don't come from the ghetto\" comment. He explained that while rock and hip-hop both have roots in Black music, his personal connection differs. Simmons believes the term 'ghetto' has historical Jewish origins and doesn't represent his background, leading to the current debate.",
+    "img": "https://static.toiimg.com/photo/msid-128242191,imgsize-14946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/kiss-member-gene-simmons-stands-by-his-ghetto-comment-about-rap-i-stand-by-my-words/articleshow/128242191.cms",
+    "time": "2026-02-12T06:42:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Assam BJP social media co-convenor removed for uploading controversial video",
+    "desc": "The video showed Mr. Sarma purportedly taking aim with a rifle and firing a shot at two people, one wearing a skull cap and the other with a beard, with \"point-blank shot\" as the caption",
+    "img": "https://th-i.thgim.com/public/incoming/npr981/article70622815.ece/alternates/LANDSCAPE_1200/4col_with_pictuG15FIRNKE.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/assam/assam-bjp-social-media-co-convenor-removed-for-uploading-controversial-video/article70622778.ece",
+    "time": "2026-02-12T06:35:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "From ice hockey to T20 WC’s youngest talents: Ajayveer Hundal finds ‘great feeling’ in Delhi",
+    "desc": "Ajayveer Hundal, a 20-year-old Canadian cricketer, shares his journey from ice hockey to the sport's biggest stage. Born to Indian parents, Hundal discovered his love for cricket during the 2019 World Cup. He trained in India to hone his skills. Hundal now plays in the T20 World Cup, a dream come true.",
+    "img": "https://static.toiimg.com/photo/msid-128241623,imgsize-50310.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/exclusive-from-ice-hockey-to-t20-world-cup-2026s-youngest-talents-ajayveer-hundal-finds-great-feeling-in-delhi/articleshow/128241503.cms",
+    "time": "2026-02-12T06:24:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pathinalam Ravinte song revival; fans hail MG Sreekumar",
+    "desc": "The recently released film 'Ashakal Aayiram', starring Kalidas and Jayaram, has revived the classic song 'Pathinalam Ravinte'. While the reimagined version by Vineeth Sreenivasan is out, netizens are championing MG Sreekumar's original rendition. The film itself, a father-son drama, has garnered a 3/5 rating for its nostalgic charm and Jayaram's performance, drawing steady crowds.",
+    "img": "https://static.toiimg.com/photo/msid-128240652,imgsize-61330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/ashakal-aayiram-revives-pathinalam-ravinte-song-netizens-say-mg-sreekumar-remains-unbeatable/articleshow/128240652.cms",
+    "time": "2026-02-12T06:20:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold, silver price prediction today: Will gold hit Rs 1.75 lakh/10 grams &amp; silver cross Rs 3 lakh/kg soon? Here's the outlook",
+    "desc": "Gold and silver prices have bounced back from recent lows, and appear to be on path for a long-term rise, believes Abhilash Koikkara, Head - Forex & Commodities, Nuvama Professional Clients Group. The commodity expert shares his outlook for gold and silver in the coming sessions:",
+    "img": "https://static.toiimg.com/photo/msid-128241343,imgsize-77120.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-prediction-today-what-is-the-gold-rate-outlook-for-february-12-2026-should-you-buy-or-sell-mcx-gold-mcx-silver/articleshow/128240246.cms",
+    "time": "2026-02-12T06:17:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Have States gained from the 16th FC?",
+    "desc": "What have been the recommendations of the 16th Finance Commission? What taxes are shared between the Centre and the States? Why did the last Commission revise vertical devolution to 41%? What had industrialised States such as Maharashtra, Gujarat, Tamil Nadu, Karnataka and Telangana demanded?",
+    "img": "https://th-i.thgim.com/public/incoming/9qe901/article70621197.ece/alternates/LANDSCAPE_1200/IMG_TH_-_CENTRAL_GOODS_A_2_1_OQDLHIVC.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/have-states-gained-from-the-16th-fc-explained/article70621192.ece",
+    "time": "2026-02-12T05:53:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Love Story: John F. Kennedy and Carolyn Bessette’ release time",
+    "desc": "John F. Kennedy and Carolyn Bessette,' premieres February 12, 2026, on FX and Hulu. Starring Paul Kelly and Sarah Pidgeon, it chronicles the captivating and ultimately tragic romance of John F. Kennedy Jr. and fashion publicist Carolyn Bessette. Based on Elizabeth Beller's biography, the show delves into their lives, marriage, and untimely deaths.",
+    "img": "https://static.toiimg.com/photo/msid-128240400,imgsize-502517.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/love-story-john-f-kennedy-and-carolyn-bessette-details-on-release-time-episode-count-plot-and-more/articleshow/128240400.cms",
+    "time": "2026-02-12T05:51:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajasthan Royals await BCCI nod on home games",
+    "desc": "Rajasthan Royals are hesitant to host majority of their home games at Jaipur's Sawai Mansingh Stadium due to unresolved safety and infrastructure concerns. The franchise has sought clarification from IPL and BCCI officials regarding the venue's adequacy for modern IPL matches. The stadium's outdated facilities and the Rajasthan Cricket Association's ongoing governance issues further complicate the situation.",
+    "img": "https://static.toiimg.com/photo/msid-128239918,imgsize-35268.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-rajasthan-royals-await-bcci-nod-on-home-games/articleshow/128239609.cms",
+    "time": "2026-02-12T05:35:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jane Trcka passed away due to cardiovascular disease",
+    "desc": "In a heart-wrenching farewell, the multifaceted Jayne Trcka, famed for her performances in 'Scary Movie' and 'The Bad Batch', passed away at the age of 62. Authorities have confirmed that her death resulted from hypertensive and atherosclerotic cardiovascular disease, alongside struggles with a recent femoral fracture and past alcohol dependence.",
+    "img": "https://static.toiimg.com/photo/msid-128239744,imgsize-29710.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jayne-trckas-cause-of-death-confirmed-scary-movie-actress-suffered-from-cardiovascular-disease/articleshow/128239744.cms",
+    "time": "2026-02-12T05:33:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "What’s cooking?",
+    "desc": "Amidst a public family feud, Cruz Beckham shared a heartwarming throwback photo with brother Brooklyn, sparking reunion rumors. This comes after Brooklyn's explosive January tell-all accusing parents David and Victoria of controlling behavior and attempting to sabotage his marriage. Romeo also posted a 'Family' tattoo, hinting at reconciliation efforts.",
+    "img": "https://static.toiimg.com/photo/msid-128239692,imgsize-48596.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/are-the-beckhams-reuniting-cruz-beckham-shares-photo-with-brooklyn-amid-ongoing-family-feud/articleshow/128239673.cms",
+    "time": "2026-02-12T05:29:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rahul Riji Nair’s animated short film ‘Kingara Kavyam’ recreates a folklore",
+    "desc": "Based around a folklore and myth, Kingara Kavyam tells a poignant tale of resilience and hope. It has been selected for the South Asia Competition at the second edition of AniMela international festival, where it will have its world premiere",
+    "img": "https://th-i.thgim.com/public/incoming/mspuid/article70618629.ece/alternates/LANDSCAPE_1200/13tvm%20kappiri2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/rahul-riji-nair-animated-short-film-kingara-kavyam/article70618589.ece",
+    "time": "2026-02-12T05:10:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jennifer Aniston KISSES Jim Curtis in unseen pic",
+    "desc": "Jennifer Aniston celebrated her birthday with a heartfelt social media tribute from boyfriend Jim Curtis. He shared intimate photos, including a passionate kiss and a joyful moment on a yacht, captioning it with a simple \"HBD MY (heart emoji).",
+    "img": "https://static.toiimg.com/photo/msid-128238690,imgsize-28270.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-aniston-kisses-beau-jim-curtis-in-unseen-intimate-photo-in-birthday-post-pics-inside/articleshow/128236761.cms",
+    "time": "2026-02-12T05:00:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jena Malone announces engagement with Jack Buckley",
+    "desc": "Actress Jena Malone is engaged to fellow actor Jack Buckley, calling him a 'dream come true.' The couple shared their joyous news on social media with enchanting proposal pictures. Malone expressed her excitement, noting Buckley received blessings from her family, including her son. She also shared a heartfelt poem about their enduring connection.",
+    "img": "https://static.toiimg.com/photo/msid-128238388,imgsize-601904.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/hunger-games-actor-jena-malones-dream-came-true-as-she-announces-engagement-with-jack-buckley/articleshow/128238388.cms",
+    "time": "2026-02-12T04:51:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Death of a salesman, birth of a cricketer: How Usman Tariq became Pakistan’s X-factor",
+    "desc": "Pakistan's mystery spinner Usman Tariq, inspired by MS Dhoni, has become a significant threat ahead of the India clash. His unique slinging action and stop-start run-up have troubled batsmen, with R Ashwin and WV Raman defending his bowling style. Indian batters, however, are expected to adapt to the challenge posed by Tariq and Pakistan's other spinners.",
+    "img": "https://static.toiimg.com/photo/msid-128238238,imgsize-169352.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/death-of-a-salesman-birth-of-a-cricketer-usman-tariq-quit-his-day-job-to-become-pakistans-x-factor/articleshow/128238175.cms",
+    "time": "2026-02-12T04:44:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Actor Bud Cort passes away at 77",
+    "desc": "Veteran actor Bud Cort, celebrated for his iconic roles in 'Harold and Maude' and 'The Life Aquatic with Steve Zissou', has passed away at 77. His death in Connecticut followed prolonged complications from pneumonia. Cort, born Walter Edward Cox, was discovered by Robert Altman and also co-founded a non-profit art organization.",
+    "img": "https://static.toiimg.com/photo/msid-128238111,imgsize-16450.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/harold-and-maude-fame-actor-bud-cort-passes-away-at-77/articleshow/128238111.cms",
+    "time": "2026-02-12T04:40:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All you need to know",
     "desc": "Rajpal Yadav, a beloved figure in comedy, is currently behind bars at Tihar Jail following a conviction for a bounced cheque. His financial woes trace back to a Rs 5 crore loan he secured for his film 'Ata Pata Laapata' back in 2010, a film that turns out was not a box office hit.",
     "img": "https://static.toiimg.com/photo/msid-128237338,imgsize-67544.cms",
     "src": "indiatimes.com",
@@ -61,6 +223,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-president-trump-hails-trade-deal-with-india-as-historic/article70622431.ece",
     "time": "2026-02-12T03:41:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Don’t know why we didn’t get to train under lights: Namibia captain Erasmus",
+    "desc": "“I see that India has had two night training sessions. Make of that what you want. We will just rock up and do it the Namibian way, which is to fight,” Namibia skipper Gerhard Erasmus",
+    "img": "https://th-i.thgim.com/public/incoming/ookrl6/article70620760.ece/alternates/LANDSCAPE_1200/77_ICC_T20_WORLD_CUP_10_02_DELHI.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/dont-know-why-we-didnt-get-to-train-under-lights-namibia-captain-erasmus/article70620591.ece",
+    "time": "2026-02-12T03:34:17.000Z"
   },
   {
     "cat": "Entertainment",
@@ -135,33 +306,6 @@ const newsData_en = [
     "time": "2026-02-12T02:52:21.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "James Van Der Beek’s fundraiser crosses USD 700k",
-    "desc": "In a heartfelt initiative, Kimberly, the widow of beloved actor James Van Der Beek, launched a fundraising campaign that has already raised over $774,000 towards a $1 million target. This effort seeks to provide financial relief to their family after enduring the challenges posed by James' courageous fight against colorectal cancer.",
-    "img": "https://static.toiimg.com/photo/msid-128234831,imgsize-64756.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/fundraiser-for-the-late-james-van-der-beeks-family-crosses-usd-700k-in-a-few-hours/articleshow/128234831.cms",
-    "time": "2026-02-12T02:51:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Aashakal Aayiram' BO day 6: Jayaram film stays steady",
-    "desc": "'Aashakal Aayiram' is steadily drawing audiences, with positive word-of-mouth fueling its modest box office run. The film, centered on a young man's acting aspirations and family dynamics, has garnered decent reviews for its simple narrative and emotional depth. Jayaram and Kalidas Jayaram lead the cast in this G. Prajith directorial.",
-    "img": "https://static.toiimg.com/photo/msid-128234410,imgsize-54236.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/aashakal-aayiram-box-office-collections-day-6-jayaram-film-stays-steady-worldwide-at-rs-2-66-crore/articleshow/128234410.cms",
-    "time": "2026-02-12T02:39:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "FWICE writes letter to MAHA CM over threats to celebs",
-    "desc": "In light of the alarming threats directed at notable personalities such as Rohit Shetty and Ranveer Singh, the Federation of Western India Cine Employees (FWICE) has formally called upon Maharashtra's Chief Minister Devendra Fadnavis to prioritize the pressing security issues at hand. Read the full article to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128233357,imgsize-42146.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fwice-writes-a-letter-to-cm-devendra-fadnavis-over-multiple-threats-to-celebs-serious-question-on-the-safety-framework/articleshow/128233357.cms",
-    "time": "2026-02-12T02:30:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘We have got one more day’: Tilak shares big Abhishek, Bumrah fitness update",
     "desc": "Tilak Varma provided positive fitness updates on Abhishek Sharma, who has been discharged from the hospital after a stomach infection, and Jasprit Bumrah, who is recovering well. Final decisions on their availability for the upcoming match against Namibia will be made closer to game time. The team is also preparing for their high-voltage encounter against Pakistan.",
@@ -172,39 +316,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Inside James Van Der Beek’s family life with 6 kids",
-    "desc": "Beloved actor James Van Der Beek, famed for 'Dawson's Creek', has passed away at 48 after a courageous battle with stage 3 colorectal cancer. His wife confirmed the news, highlighting his final days filled with grace.",
-    "img": "https://static.toiimg.com/photo/msid-128233744,imgsize-70122.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/james-van-der-beek-passes-away-at-48-inside-his-cancer-battle-and-family-life-with-6-kids/articleshow/128233711.cms",
-    "time": "2026-02-12T02:14:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Khloe Kardashian recalls ex's 'annoying' romantic gesture",
-    "desc": "Khloe Kardashian was left cringing when Tristan Thompson arranged a surprise performance by R&B artist Giveon. While she admired the singer's talent, her frustration with Tristan's past betrayals overshadowed the moment, leading her to slap him mid-performance.",
-    "img": "https://static.toiimg.com/photo/msid-128233539,imgsize-464755.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/khloe-kardashian-recalls-getting-annoyed-by-ex-tristan-thompsons-mortifying-romantic-gesture/articleshow/128233539.cms",
-    "time": "2026-02-12T02:09:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Blake Lively TWINS with Justin Baldoni in court",
     "desc": "Hollywood stars Blake Lively and Justin Baldoni met for settlement talks regarding Lively's sexual harassment lawsuit stemming from the \"It Ends With Us\" set. The six-hour meeting at a New York courthouse concluded without an agreement. Their ongoing legal battle, involving accusations of harassment and defamation, has drawn significant attention to Hollywood's power dynamics.",
     "img": "https://static.toiimg.com/photo/msid-128233446,imgsize-41780.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/blake-lively-and-justin-baldoni-twin-in-green-and-pink-for-settlement-talks-netizens-slam-ryan-reynolds-for-absence-in-court/articleshow/128230526.cms",
     "time": "2026-02-12T02:03:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Riaz Pathan injured in car crash; Set to recover soon",
-    "desc": "Malayalam actor Riaz Pathan sustained injuries after his car collided with a road divider in Theni, Tamil Nadu, while en route to a work assignment. He was transported to multiple hospitals for treatment and is expected to be discharged soon.",
-    "img": "https://static.toiimg.com/photo/msid-128233228,imgsize-29910.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/malayalam-actor-riaz-pathan-injured-in-car-crash-vehicle-hits-divider-in-theni/articleshow/128233228.cms",
-    "time": "2026-02-12T01:58:00.000Z"
   },
   {
     "cat": "Sports",
@@ -217,30 +334,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Allu Arjun's 'Lucky' wave hits Kerala",
-    "desc": "The Racer' in Kerala) went viral after a college screening. Students celebrated the entertainer, prompting fans to demand re-releases of his older hits. Meanwhile, his 2006 film 'Happy' is set for a 4K Dolby Atmos re-release.",
-    "img": "https://static.toiimg.com/photo/msid-128232492,imgsize-21624.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/lucky-allu-arjun-wave-hits-kerala-college-students-celebrate-mallu-arjuns-film/articleshow/128232492.cms",
-    "time": "2026-02-12T01:27:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "RGV recalls underworld’s impact on Bollywood in the 90s",
     "desc": "Filmmaker Ram Gopal Varma weighed in on the recent firing outside Rohit Shetty's home, questioning the attack's origins and the Lawrence Bishnoi Gang's claims. Varma recalled the widespread underworld threats faced by Bollywood in the 90s, contrasting it with the current situation and the gang's public pronouncements.",
     "img": "https://static.toiimg.com/photo/msid-128232507,imgsize-21766.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-rohit-shettys-shooting-incident-ram-gopal-varma-recalls-the-impact-of-the-underworld-in-bollywood-in-the-90s-they-tried-to-kill-producer-manmohan-shetty/articleshow/128232510.cms",
     "time": "2026-02-12T01:24:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Note was sent using VPN",
-    "desc": "Mumbai Police are investigating a voice note extortion threat sent to actor Ranveer Singh via WhatsApp, reportedly using a VPN. Security has been enhanced for the actor. This follows similar threats to Aayush Sharma and recent gunshots outside Rohit Shetty's residence, highlighting a concerning trend of intimidation tactics targeting Bollywood personalities.",
-    "img": "https://static.toiimg.com/photo/msid-128232232,imgsize-61274.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-extortion-threat-update-officials-say-voice-note-to-dhurandhar-star-was-sent-using-vpn/articleshow/128232232.cms",
-    "time": "2026-02-12T01:17:28.000Z"
   },
   {
     "cat": "Politics",
@@ -352,15 +451,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Have States gained from the 16th FC?",
-    "desc": "What have been the recommendations of the 16th Finance Commission? What taxes are shared between the Centre and the States? Why did the last Commission revise vertical devolution to 41%? What had industrialised States such as Maharashtra, Gujarat, Tamil Nadu, Karnataka and Telangana demanded?",
-    "img": "https://th-i.thgim.com/public/incoming/9qe901/article70621197.ece/alternates/LANDSCAPE_1200/IMG_TH_-_CENTRAL_GOODS_A_2_1_OQDLHIVC.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/have-states-gained-from-the-16th-fc-explained/article70621192.ece",
-    "time": "2026-02-11T17:14:34.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Ahead of March 31 deadline, Odisha revises surrender and rehabilitation scheme for surrendering Maoists",
     "desc": "After revision of guideline in November last year that saw reward money going up substantially, 45 LWEs have surrendered before security forces while there are still 40 cadres including a State Committee Member active in Odisha",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -394,15 +484,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/sumedh-k-thulasi-su-from-so-raj-b-shetty-rakshit-shetty-ss-rajamouli-kannada-independent-music/article70615050.ece",
     "time": "2026-02-11T15:58:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Don’t know why we didn’t get to train under lights: Namibia captain Erasmus",
-    "desc": "“I see that India has had two night training sessions. Make of that what you want. We will just rock up and do it the Namibian way, which is to fight,” Namibia skipper Gerhard Erasmus",
-    "img": "https://th-i.thgim.com/public/incoming/ookrl6/article70620760.ece/alternates/LANDSCAPE_1200/77_ICC_T20_WORLD_CUP_10_02_DELHI.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/dont-know-why-we-didnt-get-to-train-under-lights-namibia-captain-erasmus/article70620591.ece",
-    "time": "2026-02-11T15:23:53.000Z"
   },
   {
     "cat": "Sports",
@@ -514,24 +595,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Young footballer Soham eyes national call-up through his stint in Spain",
-    "desc": "Guwahati-born footballer Soham Bhagawati, now in Spain, is honing his skills for a potential India debut. Inspired by family and Sunil Chhetri, he plays for Terrassa FC's B team. Soham believes exposure, not talent, separates Indian and Spanish players, highlighting the ISL's crucial role in developing young Indian talent and boosting the sport's visibility.",
-    "img": "https://static.toiimg.com/photo/msid-128199336,imgsize-84844.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/targeting-an-india-debut-young-footballer-soham-bhagawati-eyes-a-national-call-up-through-his-stint-in-spain/articleshow/128199324.cms",
-    "time": "2026-02-11T10:22:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dhamne keeping it slow-and-steady: 'Progress more important than results'",
-    "desc": "Manas Dhamne secured his first title of the year at the ITF M15 Zahra in Kuwait, defeating his coach's son in an all-Piatti Academy final. Despite a subsequent loss at the ATP Challenger, the 18-year-old remains focused on his long-term progress and learning from his elite training environment in Italy.",
-    "img": "https://static.toiimg.com/photo/msid-128201347,imgsize-51166.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/manas-dhamne-keeping-it-slow-and-steady-progress-more-important-than-results/articleshow/128201383.cms",
-    "time": "2026-02-11T10:19:23.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Afghanistan push South Africa to brink, lose by inches in second Super Over",
     "desc": "South Africa secured a dramatic victory over Afghanistan in a nail-biting Super Over contest. The match required two tie-breakers after regulation time ended level. Afghanistan fought hard, with Rahmanullah Gurbaz performing exceptionally. However, South Africa ultimately prevailed, advancing to the next stage of the tournament.",
     "img": "https://static.toiimg.com/photo/msid-128200989,imgsize-41560.cms",
@@ -565,24 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/why-only-bowlers-r-ashwin-defends-pakistans-usman-tariq-as-action-debate-explodes-at-t20-world-cup/articleshow/128194549.cms",
     "time": "2026-02-11T07:25:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FanCode sub-licenses ISL 2025–26 TV broadcast to Sony Sports Network",
-    "desc": "FanCode has sub-licensed the TV coverage of the 2025-26 ISL season to Sony Sports Network. Sony was among the early interested parties for the ISL broadcast rights but stayed away from placing a final bid. Dream Sports-owned FanCode will showcase India's top football division on OTT and has announced three different pricing structures.",
-    "img": "https://static.toiimg.com/photo/msid-128194153,imgsize-34298.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/indian-super-league/fancode-sub-licenses-isl-202526-tv-broadcast-to-sony-sports-network/articleshow/128194079.cms",
-    "time": "2026-02-11T07:13:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘We are Pak, we do things differently’: Salman Agha hails team’s bold approach",
-    "desc": "Pakistan captain Salman Ali Agha expressed confidence after their T20 World Cup win, stating the team's unique identity is their strength. He highlighted the improved middle-order batting and faith in their bowling attack to defend targets, even modest ones. Agha also noted the batting order's flexibility and the need for improvement in powerplay bowling.",
-    "img": "https://static.toiimg.com/photo/msid-128192758,imgsize-130586.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-are-pakistan-we-do-things-differently-salman-ali-agha-hails-teams-bold-approach-before-india-showdown/articleshow/128192563.cms",
-    "time": "2026-02-11T06:41:55.000Z"
   },
   {
     "cat": "Sports",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/eu-accuses-tiktok-of-addictive-design-seeks-changes-to-protect-users/article70599921.ece",
     "time": "2026-02-06T11:49:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Soundarya Rajinikanth on ‘Kochadaiyaan’, and her latest release ‘With Love’",
-    "desc": "Soundarya Rajinikanth returns to Tamil cinema as a producer with With Love, starring Abishan Jeevinth and Anaswara Rajan. In an interview with ‘The Hindu’ for the ‘This Changed my Life’ podcast, she chats about her comeback, why she took a long break and what she plans to do now. She also revisits Kochadaiyaan, her 2014 animation film starring her father and Tamil superstar, Rajinikanth",
-    "img": "https://th-i.thgim.com/public/incoming/7cxh1c/article70599180.ece/alternates/LANDSCAPE_1200/Soundarya-Rajinikanth-Thumbnail.jpg.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-soundarya-rajinikanth-on-kochadaiyaan-and-her-latest-release-with-love/article70599160.ece",
-    "time": "2026-02-06T09:17:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay Kumar on ‘Landlord’ and the need for an Ambedkarite movement in Kannada cinema",
-    "desc": "After facing a series of setbacks, actor Vijay Kumar has reinvented himself as a director, scoring hits with ‘Salaga’ and ‘Bheema’. Now, with ‘Landlord’, he aims to spark an Ambedkarite movement, tackling themes like equality and justice",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/r17zxw/article70595440.ece/alternates/LANDSCAPE_1200/Duniya%20VIjay.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/duniya-vijay-landlord-vijay-kumar-br-ambedkar-jai-bhim-raj-b-shetty-kannada-movie-jadeshaa-k-hampi/article70595433.ece",
-    "time": "2026-02-06T06:29:25.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "The sale of xAI comes with tax, financial and legal benefits for xAI and SpaceX investors",
-    "desc": "Instead of combining the two companies into one and fully integrating operations, Musk decided to ‌retain xAI, which runs social media platform X and created the Grok chatbot, as a wholly owned subsidiary of SpaceX, said sources",
-    "img": "https://th-i.thgim.com/public/incoming/ust5ep/article70598541.ece/alternates/LANDSCAPE_1200/2026-02-02T213022Z_1456700214_RC2PVCAPFSUH_RTRMADP_3_SPACEX-M-A-XAI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/the-sale-of-xai-comes-with-tax-financial-and-legal-benefits-for-xai-and-spacex-investors/article70598538.ece",
-    "time": "2026-02-06T04:41:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tribeny Rai on the making of Nepalese film ‘Shape of Momo’",
-    "desc": "The film ‘Shape of Momo’ had premiered at the Busan International Film Festival in South Korea in November 2025 where it won the Taipei Film Commission Award and the Songwon Vision Award. Sikkim-based filmmaker Tribeny Rai talks about the making of the movie, which is a commentary on stereotypical gender roles and the toll it takes on women who resist such expectations.",
-    "img": "https://th-i.thgim.com/public/incoming/yxk26m/article70595034.ece/alternates/LANDSCAPE_1200/Tribeny%20Rai%20Thumb.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-tribeny-rai-on-the-making-of-nepalese-film-shape-of-momo/article70595030.ece",
-    "time": "2026-02-05T09:21:48.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "France summons Elon Musk for ‘voluntary interview’, raids X offices",
-    "desc": "Prosecutors filed a request for “voluntary interviews” of Elon Musk and Linda Yaccarino, CEO of X from 2023 to 2025, scheduled for April 20; employees of the platform X have also been summoned that same week in April to be heard as witnesses",
-    "img": "https://th-i.thgim.com/public/news/cities/Delhi/2eerbe/article70587325.ece/alternates/LANDSCAPE_1200/2025-03-20T143340Z_580507215_RC2TFCA9BECE_RTRMADP_3_INDIA-X-CENSORSHIP.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/france-summons-elon-musk-for-voluntary-interview-raids-x-offices/article70587218.ece",
-    "time": "2026-02-03T12:02:08.000Z"
   }
 ];

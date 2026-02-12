@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "પહેલા ભાવિ જમાઈ સાથે ભાગી ગઈ મહિલા, 10 મહિના રહીને હવે બનેવી સાથે ભાગી, મગજ ચકરાઈ જાય તેવો કિસ્સો",
+    "desc": "ખરેખર ઘોર કળિયુગ છે. એક માતા જે પહેલા દીકરીના અરમાનો પર પાણી ફેરવી ચૂકી છે અને હવે ભાવિ જમાઈ સાથે 10 મહિના રહ્યા બાદ બનેવી સાથે ભાગી ગઈ. રાહુલે એવો પણ આરોપ લગાવ્યો કે આ મહિલા ઘરમાંથી કેશ અને દાગીના લઈને ભાગી ગઈ છે. આખરે આ મામલો શું છે? વિગતવાર માહિતી જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-twist-in-aligarh-sasu-jamai-love-story-now-woman-ran-away-with-jijaji-shocking-details-464678 ",
+    "time": "2026-02-12T06:18:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "બદલાઈ જશે ટીમ ઈન્ડિયાની પ્લેઈંગ-11... અભિષેક બહાર, આ સ્ટાર ખેલાડીની થશે એન્ટ્રી",
+    "desc": "ભારત T20 વર્લ્ડ કપ 2026ની પોતાની બીજી મેચમાં દિલ્હીના અરુણ જેટલી સ્ટેડિયમ ખાતે નામિબિયા સામે ટકરાશે. આ મેચમાં અભિષેક શર્માના રમવાની શક્યતા ઓછી છે, તો જસપ્રીત બુમરાહની વાપસી લગભગ નિશ્ચિત માનવામાં આવે છે. ત્યારે ભારતની પ્લેઈંગ-11 કેવી હશે, તેના પર એક નજર કરીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nam-t20-world-cup-2026-team-india-probable-playing-11-464675 ",
+    "time": "2026-02-12T05:50:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "અમદાવાદમાં ઘટેલી પ્લેન ક્રેશ દુર્ઘટના પર ઈટાલિયન મીડિયાનો અત્યંત ચોંકાવનારો ખુલાસો, &amp;#039;ઈરાદાપૂર્વક કૃત્ય&amp;#039; ગણાવ્યું",
+    "desc": "એક ઈટાલિયન અખબારના રિપોર્ટમાં અમદાવાદમાં ઘટેલી પ્લેન ક્રેશની ભયાનક ઘટના વિશે જે ચોંકાવારી વાતો જણાવવામાં આવી છે તે આઘાતજનક છે. રિપોર્ટમાં સૂત્રોના હવાલે જણાવવામાં આવ્યું છે કે આ કોઈ ટેક્નિકલ ખામીના કારણે ઘટેલી ઘટના નહતી પરંતુ ઈરાદાપૂર્વક કરવામાં આવેલું કૃત્ય હતું. વધુ વિગતો માટે વાંચો અહેવાલ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/ahmedabad-plane-crash-latest-update-italian-daily-corriere-della-sera-report-about-investigation-finding-464672 ",
+    "time": "2026-02-12T05:09:02.000Z"
+  },
+  {
     "cat": "Business",
     "title": "બજાર ખુલતા જ તૂટ્યું સોનું, ચાંદી પણ પછડાઈ, હજુ પણ ઓલટાઈમ હાઈથી ખુબ જ સસ્તા, જાણો લેટેસ્ટ રેટ",
     "desc": "સોનું અને ચાંદી આજે પણ ભારે ઉથલપાથલમાં જોવા મળી રહ્યા છે. અચાનક ઉતાર ચડાવના કારણે ખરીદનારાઓ પણ અસમજંસમાં છે. વાયદા બજારમાં આજે સોનું ફરી ગગડ્યું છે. વૈશ્વિક બજારમાં પણ સોનું-ચાંદી પછડાયેલા જોવા મળ્યા. જાણો ભારતીય વાયદા બજારમાં આજે શું સ્થિતિ છે?",
@@ -367,15 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/important-news-for-employed-people-epfo-is-going-to-make-big-changes-464464 ",
     "time": "2026-02-09T14:40:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "બાંગ્લાદેશની સાથે મળી પાકિસ્તાનનો નવો નાપાક પ્લાન, ICC સામે કરી એવી ડિમાંડ, નક્કી થશે હોબાળો !",
-    "desc": "T20 વર્લ્ડ કપ 2026 અંગે મોટા સમાચાર સામે આવ્યા છે. પાકિસ્તાને પહેલા મેગા ઇવેન્ટમાં ભાગ લેવાનો નિર્ણય લીધો હતો, પરંતુ 15 ફેબ્રુઆરીએ ભારત સામેની મેચનો બહિષ્કાર કરશે, પરંતુ હવે PCB ઢીલ કરવા તૈયાર છે. જોકે, મોહસીન નકવીએ બાંગ્લાદેશ સાથે એક યોજના બનાવી છે જે ચોક્કસ વિવાદ પેદા કરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/pakistans-new-nefarious-plan-in-collaboration-with-bangladesh-such-a-demand-made-against-icc-an-uproar-is-certain-464455 ",
-    "time": "2026-02-09T13:26:58.000Z"
   },
   {
     "cat": "Entertainment",
