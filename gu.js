@@ -646,14 +646,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/rohit-shetty-case-latest-update-lawrence-bishnoi-gang-post-viral-on-social-media-463669 ",
     "time": "2026-02-02T02:32:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "સુપરસ્ટાર રામ ચરણના ઘરે ટ્વીન્સ અવતર્યા, પત્ની ઉપાસનાએ દીકરી અને દીકરાને આપ્યો જન્મ",
-    "desc": "સાઉથ સુપરસ્ટાર રામ ચરણ અને તેની પત્ની ઉપાસના ટ્વીન્સ બાળકોના માતાપિતા બન્યા છે. તેમના ઘરે 31 જાન્યુઆરીના રોજ એક દીકરી અને એક દીકરાનો જન્મ થયો છે. આ ખુશખબર મેગાસ્ટાર ચિરંજીવીએ સોશિયલ મીડિયા પર શેર કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/superstar-ram-charan-and-wife-upasana-became-twins-baby-parents-twins-baby-photo-463576 ",
-    "time": "2026-02-01T06:35:44.000Z"
   }
 ];

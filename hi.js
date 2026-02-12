@@ -1,8 +1,44 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "IPL set to return to Chinnaswamy as Karnataka government grants permission",
-    "desc": "The Karnataka cabinet has granted Royal Challengers Bengaluru permission to host their IPL 2026 matches at the M Chinnaswamy Stadium. The venue had been barred from staging games following the June 4 stampede during RCB’s...",
+    "title": "Italy coach wants front-page coverage in newspapers back home after historic win over Nepal",
+    "desc": "Making their debut at the T20 World Cup, Italy produced a result few saw coming, thrashing Nepal by 10 wickets in a statement win. Nepal had pushed England to the brink in their previous match...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/italy-coach-wants-front-page-coverage-in-newspapers-back-home-after-historic-win-over-nepal-in-t20-world-cup-2026-2026-02-12-1030062",
+    "time": "2026-02-12T18:20:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Varun Chakravarthy shares major update on Abhishek Sharma, reveals if he will play vs Pakistan in Colombo",
+    "desc": "India opener Abhishek Sharma missed the T20 World Cup 2026 fixture against Namibia at the Arun Jaitley Stadium in New Delhi due to a stomach infection. The youngster had to undergo medical tests at a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/varun-chakravarthy-shares-major-update-on-abhishek-sharma-reveals-if-he-will-play-vs-pakistan-in-colombo-2026-02-12-1030061",
+    "time": "2026-02-12T17:55:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryakumar Yadav gives his take after India make quick work of Namibia in T20 World Cup 2026",
+    "desc": "Game 18 of the ongoing T20 World Cup 2026 saw the Indian team taking on Namibia. The two sides locked horns at the Arun Jaitley Stadium in Delhi on February 12, and the clash began...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-gives-his-take-after-india-make-quick-work-of-namibia-in-t20-world-cup-2026-2026-02-12-1030060",
+    "time": "2026-02-12T17:53:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India register comfortable 93-run win over Namibia despite sloppy batting performance in Delhi",
+    "desc": "India made it two wins in two at the T20 World Cup 2026 with a victory over Namibia on February 12, moving a step closer to the Super 8 stage. They won by 93 runs,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-register-comfortable-93-run-win-over-namibia-despite-sloppy-batting-performance-in-delhi-2026-02-12-1030051",
+    "time": "2026-02-12T17:00:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL set to return to Chinnaswamy as Karnataka government grants permission, 35000 fans to be allowed",
+    "desc": "The Karnataka cabinet has cleared Royal Challengers Bengaluru to play their IPL 2026 home matches at the M Chinnaswamy Stadium. The ground had been barred from hosting fixtures after the June 4 stampede during RCB’s...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ipl-set-to-return-to-chinnaswamy-as-karnataka-government-grants-permission-2026-02-12-1030043",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/italy-register-historic-first-win-in-t20-world-cup-mosca-brothers-decimate-nepal-in-mumbai-2026-02-12-1030009",
     "time": "2026-02-12T12:10:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India draw first blood, Namibia one down",
-    "desc": "Namibia produced a brilliant bowling show to end the first innings. They conceded just 25 runs in the final four overs and clinched five wickets in the same time frame. For India, Ishan Kishan and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nam-live-cricket-score-online-updates-today-match-between-india-namibia-t20-world-cup-2026-at-arun-jaitley-stadium-1030007",
-    "time": "2026-02-12T12:04:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Thomas Tuchel extends contract with England, exits race to become next Manchester United coach",
-    "desc": "Thomas Tuchel has extended his contract as England manager through to Euro 2028. The German coach had initially signed a deal in January 2025 that was set to run until the 2026 World Cup, but...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/thomas-tuchel-extends-contract-with-england-exits-race-to-become-next-manchester-united-coach-2026-02-12-1030000",
-    "time": "2026-02-12T11:22:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch World Cup 2026 clash?",
-    "desc": "The 18th game of the ongoing T20 World Cup 2026 sees the defending champions, team India, taking on Namibia. The two sides take on each other at the Arun Jaitley Stadium in Delhi on February...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nam-t20-world-cup-2026-live-streaming-details-when-and-where-to-watch-world-cup-2026-clash-2026-02-12-1029995",
-    "time": "2026-02-12T10:56:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Italy script history, defeat Nepal by 10 wickets",
-    "desc": "The stage is set for game 17 of the ongoing T20 World Cup 2026. Nepal and Italy take on each other at the Wankhede Stadium in Mumbai. It is worth noting that both Nepal and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nep-vs-ita-live-cricket-score-nepal-lock-horns-with-italy-in-hopes-of-maiden-victory-2026-02-12-1029978",
-    "time": "2026-02-12T09:55:42.000Z"
   }
 ];
