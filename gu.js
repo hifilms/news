@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "બજાર ખુલતા જ તૂટ્યું સોનું, ચાંદી પણ પછડાઈ, હજુ પણ ઓલટાઈમ હાઈથી ખુબ જ સસ્તા, જાણો લેટેસ્ટ રેટ",
+    "desc": "સોનું અને ચાંદી આજે પણ ભારે ઉથલપાથલમાં જોવા મળી રહ્યા છે. અચાનક ઉતાર ચડાવના કારણે ખરીદનારાઓ પણ અસમજંસમાં છે. વાયદા બજારમાં આજે સોનું ફરી ગગડ્યું છે. વૈશ્વિક બજારમાં પણ સોનું-ચાંદી પછડાયેલા જોવા મળ્યા. જાણો ભારતીય વાયદા બજારમાં આજે શું સ્થિતિ છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-silver-fell-as-soon-as-the-market-opened-still-much-cheaper-than-all-time-high-know-the-latest-rate-mcx-464668 ",
+    "time": "2026-02-12T04:18:10.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "બાંગ્લાદેશમાં આજે થઈ રહ્યું છે મતદાન, 35 સીટો પર હિન્દુઓ નિર્ણાયક ભૂમિકામાં, કોના જીતવાના ચાન્સ પ્રબળ?",
+    "desc": "બાંગ્લાદેશમાં આજે સંસદીય ચૂંટણી થઈ રહી છે. બાંગ્લાદેશના આશરે 13 કરોડ જેટલા મતદારો પોતાના મતાધિકારનો આજે પ્રયોગ કરી રહ્યા છે. સવારે 7 વાગ્યાથી મતદાન શરૂ થઈ ચૂક્યું છે. બાંગ્લાદેશની 300 જેટલી સીટો પર 35 સીટ એવી છે જ્યાં હિન્દુ મતદારો નિર્ણાયક ભૂમિકા ભજવી શકે છે. બીએનપી અને જમાતના નેતૃત્વવાળા ગઠબંધન વચ્ચે સીધી સ્પર્ધા છે. જાણો ચૂંટણી પર રસપ્રદ અહેવાલ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/bangladesh-elections-2026-bangladesh-bnp-jamaat-e-islami-awami-league-national-citizen-party-464666 ",
+    "time": "2026-02-12T03:25:16.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "રેનો ટ્રાઈબરનો દબદબો, 5.76 લાખની આ 7-સીટર કાર પર ફિદા થયા ગ્રાહકો; સેફ્ટીમાં પણ 4-સ્ટાર રેટિંગ!",
     "desc": "દેશમાં સસ્તી કાર વેચવાની બાબતમાં રેનો (Renault)નું નામ સૌથી ઉપર આવે છે. આ કંપની પાસે સસ્તી હેચબેક, સસ્તી MPV અને સસ્તી SUV ઉપલબ્ધ છે. હાલમાં જ કંપનીના પોર્ટફોલિયોમાં 'ડસ્ટર'ની પણ એન્ટ્રી થઈ ગઈ છે, જોકે તેની કિંમતો અને વેચાણ માર્ચમાં શરૂ થશે.",
@@ -448,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/shocking-claim-in-secret-fbi-document-was-epstein-an-israeli-spy-what-netanyahu-says-464320 ",
     "time": "2026-02-08T10:01:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "રોકાણકારો પર થશે રૂપિયાનો વરસાદ, 13 કંપનીઓ આપી રહી છે ડિવિડન્ડ, આગામી સપ્તાહે રેકોર્ડ ડેટ",
-    "desc": "જો તમે શેર બજારમાં ડિવિડન્ડ સ્ટોક પર દાવ લગાવો છો તો આ સમાચાર તમારા માટે છે. આગામી સપ્તાહે એક નહીં 13-13 કંપનીઓ ડિવિડન્ડ આપવાની છે. જાણો કઈ-કઈ કંપની ડિવિડન્ડ આપશે, કેટલું ડિવિડન્ડ આપશે અને રેકોર્ડ ડેટ કઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/13-companies-are-giving-dividends-record-date-next-week-know-details-464317 ",
-    "time": "2026-02-08T09:42:10.000Z"
   },
   {
     "cat": "Entertainment",

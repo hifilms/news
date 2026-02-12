@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How will surface at Arun Jaitley Stadium play for T20 World Cup 2026 match 18?",
+    "desc": "India and Namibia will lock horns today in the 18th match of the T20 World Cup 2026 at the Arun Jaitley Stadium in New Delhi. India are coming into this game after beating the USA,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nam-pitch-report-how-will-surface-at-arun-jaitley-stadium-play-for-t20-world-cup-2026-match-18-2026-02-12-1029927",
+    "time": "2026-02-12T04:45:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rain to play spoilsport in IND vs PAK T20 World Cup clash? Here's Colombo weather forecast on February 15",
+    "desc": "India are scheduled to face Namibia today at the Arun Jaitley Stadium in New Delhi in the ongoing T20 World Cup. However, all eyes are on the marquee India vs Pakistan clash that is set...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rain-to-play-spoilsport-in-ind-vs-pak-t20-world-cup-clash-here-s-colombo-weather-forecast-on-february-15-2026-02-12-1029913",
+    "time": "2026-02-12T03:24:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Thank God': England captain Harry Brook's intriguing reaction after losing to West Indies goes viral",
+    "desc": "England went down to the West Indies in the 15th match of the T20 World Cup on Wednesday at the Wankhede Stadium in Mumbai. They failed to chase down 197 runs and lost the game...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/thank-god-england-captain-harry-brook-s-intriguing-reaction-after-losing-to-west-indies-goes-viral-2026-02-12-1029908",
+    "time": "2026-02-12T02:49:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Don't know why': Namibia captain questions scheduling after being denied night practice ahead of India clash",
     "desc": "Namibia captain Gerhard Erasmus is left perplexed with the training schedule ahead of his team's game against India in the T20 World Cup. The two teams are set to face each other today at the...",
     "img": "",
@@ -52,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-health-tilak-varma-shares-major-update-on-india-s-star-opener-ahead-of-namibia-clash-2026-02-11-1029841",
     "time": "2026-02-11T12:36:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Mitchell Marsh not playing for Australia vs Ireland in T20 World Cup 2026?",
-    "desc": "Australia skipper Mitchell Marsh didn't walk out for the toss in their opening game of the T20 World Cup against Ireland. Travis Head is leading Australia at the R Premadasa Stadium in Colombo and this...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-mitchell-marsh-not-playing-for-australia-vs-ireland-in-t20-world-cup-2026-2026-02-11-1029824",
-    "time": "2026-02-11T10:54:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How can Afghanistan still qualify for Super 8 round of T20 World Cup 2026? Here are scenarios",
-    "desc": "Afghanistan went down fighting to South Africa in the second super over in the league stage clash of the ongoing T20 World Cup. The match was played at the Narendra Modi Stadium in Ahmedabad and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-can-afghanistan-still-qualify-for-super-8-round-of-t20-world-cup-2026-here-are-scenarios-2026-02-11-1029821",
-    "time": "2026-02-11T10:44:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Africa beat Afghanistan in one of T20 World Cup classics in Ahmedabad",
-    "desc": "South Africa pulled off a thrilling win over Afghanistan in a high-scoring encounter at the Narendra Modi Stadium in Ahmedabad. However, the Rashid Khan-led side didn’t go away without a fight. Chasing 188, the Rashid...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/two-super-overs-south-africa-beat-afghanistan-in-one-of-t20-classics-in-ahmedabad-2026-02-11-1029809",
-    "time": "2026-02-11T09:47:34.000Z"
   }
 ];
