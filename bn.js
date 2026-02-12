@@ -1,5 +1,59 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "দিল্লির মাটিতে জোড়া সাফল্য! কিকবক্সিংয়ে রুপো ও ব্রোঞ্জ শিলিগুড়ির মেয়ের",
+    "desc": "শিলিগুড়ির মেয়ে শ্রেয়া বসাক আবারও আন্তর্জাতিক মঞ্চে ওড়াল দিলেন সাফল্যের পতাকা। গত ৪ থেকে ৮ ফেব্রুয়ারি নয়াদিল্লির কেডি যাদব ইনডোর স্টেডিয়ামে অনুষ্ঠিত পঞ্চম ওপেন ইন্ডিয়া ইন্টারন্যাশনাল কিকবক্সিং কাপে ভারতের হয়ে প্রতিনিধিত্ব করে দুটি পদক জিতলেন তিনি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/HYP_5759454_cropped_12022026_120702_img20260212wa0105_watermar_1-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/sports/double-triumph-on-delhi-soil-siliguris-shreya-basak-makes-the-nation-proud-with-silver-and-bronze-in-kickboxing-smj-l18-local18-2536600.html",
+    "time": "2026-02-12T09:42:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাংলাদেশে ভারতের ৫০০ টাকার 'দর' কত হবে জানেন...? শুনলেই চমকে দেবে 'উত্তর'!",
+    "desc": "বাংলাদেশে আসছে বড় বদল। তৈরি হতে চলেছে নব নির্বাচিত প্রশাসন। গত বছর খানেক ধরে অস্থির পরিস্থিতিতে বাংলাদেশ। আর এই অবস্থায় ক্রমশ বদলাচ্ছে পদ্মাপাড়ের আর্থিক-সামাজিক পরিস্থিতি। আজ সাধারণ নির্বাচনের প্রেক্ষাপটে কী পরিস্থিতি সে দেশে? ভারতের তুলনায় বাংলাদেশের অবস্থা বিশ্বের নিরিখে কোথায় দাঁড়িয়ে? জানতে বুঝে নেওয়া যাক বাংলাদেশ ও ভারতের মুদ্রার তুলনামূলক গুরুত্ব। আচ্ছা বলুন তো, বাংলাদেশে ভারতের ৫০০ টাকার মূল্য কত?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/bangladesh-currency-2026-02-37d568fd7f40d8ba51616c0aefec46c1-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/bangladeshi-taka-vs-indian-rupee-do-you-know-what-is-the-present-price-of-500-indian-rupees-in-bangladesh-in-this-election-situation-the-answer-will-shock-you-for-sure-sanj-2536657.html",
+    "time": "2026-02-12T09:13:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "কর্মহীন বাবা, নুন আনতে পান্তা ফুরোয় দশা! সব বাধা টপকে ন্যাশনাল ভলিবল চ্যাম্পিয়নশিপে নদিয়ার আফরোজ, সাফল্যের গল্পে অনুপ্রাণিত অনেকেই",
+    "desc": "বাবা কর্মহীন, সংসারে নিত্য অভাব। কিন্তু নদিয়ার আফরোজের চোখে ছিল জাতীয় স্তরে খেলার স্বপ্ন। সেই স্বপ্নই আজ বাস্তব। সমস্ত বাধা পেরিয়ে ভলিবল ন্যাশনাল চ্যাম্পিয়নশিপে ডাক পেল এই লড়াকু ছাত্র, যা নদিয়ার তথা গোটা রাজ্যের গর্ব।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/nadia-volleyball-player-afroz-2026-02-7669a6b499089720d52f8c6d1f2f962c-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/sports/nadia-inspirational-success-story-nadia-class-10-student-struggle-story-he-got-chances-to-participate-national-volleyball-championship-l18-local18-2536455.html",
+    "time": "2026-02-12T08:22:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বোর্ড পরীক্ষার আগেই বড় ঘোষণা CBSE-র! সিস্টেমে তারা চালু করতে চলছে সম্পূর্ণ নতুন নিয়ম, যাতে...",
+    "desc": "সমস্ত স্কুলকে মূল্যায়নে অবদান রাখার সুযোগ দেওয়া যাবে। এর প্রস্তুতি নিশ্চিত করতে স্কুলগুলিকে প্রয়োজনীয় পরিকাঠামো প্রস্তুত রাখতে বলা হয়েছে। দিল্লিভিত্তিক একটি স্কুলের প্রিন্সিপাল বলেছেন, 'এটি এক অসাধারণ উদ্যোগ। এটি মূল্যায়ন পদ্ধতিতে মানবিক ত্রুটি কমিয়ে আনবে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/cbse-to-introduce-on-screen-marking-osm-for-class-twelve-from-this-year-what-it-means-for-students%C2%A0appearing-board-examinations-now_640998.html ",
+    "time": "2026-02-12T07:51:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বিগ আপডেট! যাঁরা টেট পাশ করেননি, তাঁরা এক্ষুনি পদত্যাগ করুন... না পারলে অবসর নিন! সুপ্রিম কোর্টের বিস্ফোরক নির্দেশ...",
+    "desc": "দেশের প্রাথমিক ও উচ্চ-প্রাথমিক শিক্ষা ব্যবস্থায় গুণগত মান বজায় রাখতে এক ঐতিহাসিক এবং কঠোর রায় দিল ভারতের সর্বোচ্চ আদালত। সুপ্রিম কোর্ট স্পষ্ট জানিয়ে দিয়েছে, শিক্ষার অধিকার আইন (RTE Act, 2009) অনুযায়ী যে সমস্ত শিক্ষক নির্ধারিত সময়ের মধ্যে শিক্ষক যোগ্যতা নির্ধারণী পরীক্ষা বা ‘টেট’ (TET) পাস করতে পারেননি, তাঁরা আর শিক্ষকতা পেশায় বহাল থাকতে পারবেন না। হয় তাঁদের পদত্যাগ করতে হবে, না হয় তাঁদের বিভাগীয় নিয়ম অনুযায়ী চাকরি থেকে অবসর নিতে হবে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/tet-mandatory-govt-clarifies-on-tet-new-supreme-court-rules-for-old-teachers-explain-job-security_640997.html ",
+    "time": "2026-02-12T07:42:36.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "'আজ থেকেই নতুন বাংলাদেশের শুরু' বললেন ইউনূস, 'ভোট দিয়েই যে কোনও ষড়যন্ত্র রুখে দেওয়া সম্ভব' : তারেক রহমান",
+    "desc": "আজ এক ঐতিহাসিক নির্বাচনে বাংলাদেশ। চলছে ভোটগ্রহণ। অন্তর্বর্তীকালীন সরকারের প্রধান উপদেষ্টা অধ্যাপক মুহম্মদ ইউনূস রাজধানী ঢাকায় ভোটদান করেন। বৃহস্পতিবার ঢাকার গুলশান মডেল হাই স্কুল অ্যান্ড কলেজ ভোটকেন্দ্রে ভোট দেন ইউনূস। দিনটিকে জাতির জন্য একটি গুরুত্বপূর্ণ মোড় হিসেবে বর্ণনা করেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/BANGLADESH-2026-02-320e2307964f433f75d45b388453dfef-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/international/bangladesh-vote-2026-new-bangladesh-begins-today-muhammad-yunus-casts-vote-in-political-reset-it-is-possible-to-stop-any-conspiracy-by-voting-after-vote-casting-said-tarique-rahman-sanj-2536297.html",
+    "time": "2026-02-12T07:35:16.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "১২, ১৩, ১৪, ১৫, ১৬ ফেব্রুয়ারি...! আবহাওয়ার আমূল রদবদল, বৃষ্টি, বজ্রবিদ্যুৎ, দুর্যোগ কাঁপাবে ৭ রাজ্য, পারদ চড়বে কোথায়? কী হবে বাংলায়? জানিয়ে দিল IMD",
     "desc": "একাধিক সিস্টেমের ধাক্কা! হঠাৎ ১৮০ ডিগ্রি ঘুরছে আবহাওয়ার মোড়। পূর্বাভাস বলছে, পরপর দু-দুটি পশ্চিমী ঝঞ্ঝা ঢুকবে উত্তর-পশ্চিম ভারতে। ১৩ই ফেব্রুয়ারি শুক্রবার এবং ১৬ই ফেব্রুয়ারি সোমবার দুটি পশ্চিমী ঝঞ্ঝা আসার প্রবল সম্ভাবনা। দক্ষিণ-পশ্চিম রাজস্থান এলাকায় একটি সক্রিয় ঘূর্ণাবর্ত রয়েছে। সাব ট্রপিক্যাল ওয়েষ্টার্লি জেট স্ট্রিম রয়েছে উত্তরপূর্ব ভারত ও সংলগ্ন এলাকায়। দক্ষিণ-পূর্ব বাংলাদেশ এলাকায় একটি ঘূর্ণাবর্ত রয়েছে।",
@@ -232,15 +286,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/india-purchase-venezuela-oil-after-india-usa-trade-deal-but-in-what-price-ss-aa-2533343.html",
     "time": "2026-02-10T06:28:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বিগ ব্রেকিং! আই প্যাক মামলার শুনানিতে বড় আপডেট, বদলে গেল...",
-    "desc": "এক সপ্তাহ সময় নেওয়ার পরও ফের পিছিয়ে গেল আই প্যাক মামলার শুনানি। ১০ ফেব্রুয়ারি নয়, ১৮ ফেব্রুয়ারি এই মামলার শুনানি হবে বলে জানা যাচ্ছে। আরও জানা গিয়েছে, কপিল সিবলের অসুস্থতার কারণে আজ মামলা স্থগিত রাখার আর্জি জানানো হয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/big-breaking-major-update-in-ipac-case-hearing-again-hearing-date-changed_640456.html ",
-    "time": "2026-02-10T05:25:23.000Z"
   },
   {
     "cat": "Entertainment",
@@ -853,50 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/aamir-khan-ate-punjabi-food-for-dinner-at-arijit-singh-house-listened-to-his-songs-l18-pbd-local18-2524128.html",
     "time": "2026-02-03T07:42:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "সুপ্রিম কোর্টে পিছিয়ে গেল I-PAC মামলার শুনানি! রাজ্যের হলফনামার জবাব দিতে এক সপ্তাহ সময় চেয়ে নিল ED, পরবর্তী শুনানি কবে?",
-    "desc": "সুপ্রিম কোর্টে আইপ্যাক মামলার শুনানি ছিল আজ মঙ্গলবার। সোমবার সব মামলার হলফনামা এসে জমা পড়ে সুপ্রিম কোর্টে। কিন্তু সেটা পড়ে উত্তর দিতে সময় লাগবে বলে জানায় কেন্দ্র। সেই মর্মেই এক সপ্তাহ সময় চেয়ে নেওয়া হয়েছে ইডির তরফে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-03-at-11.24.43-2026-02-dfaee9a339d5352187bacfa6adc000fc-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/i-pac-case-supereme-court-ipac-case-hearing-big-update-sc-gives-one-week-time-to-ed-know-what-happened-in-court-today-when-is-the-next-hearing-date-sanj-2524180.html",
-    "time": "2026-02-03T06:18:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Arijit Singh-Aamir Khan: রাতভর শোনালেন গান, আগলে রাখছেন সোমুকে, তবে কি আমিরের নতুন সিনেমায় এবার অরিজিৎ? নায়কের ঝটিকা সফরের গোপন তথ্য ফাঁস",
-    "desc": "জিয়াগঞ্জে সবচেয়ে চোখে পড়ার বিষয় আমির খানের উপস্থিতি সত্ত্বেও কোনও অতিরিক্ত নিরাপত্তার ব্যবস্থা করা হয়নি। কেন এমন সিদ্ধান্ত? অরিজিৎ ঘনিষ্ঠ সূত্রের সোজাসাপ্টা জবাব, 'জিয়াগঞ্জের মানুষের উপর অরিজিতের অগাধ ভরসা। কোনও রকম অশান্তির আশঙ্কাই করছেন না জিয়াগঞ্জের ভূমিপুত্র।'",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/HYP_5741683_cropped_03022026_083727_img_20260203_083032_1200_x_1-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/why-bollywood-actor-aamir-khan-came-to-arijit-singhs-house-in-jiaganj-here-s-the-real-reason-l18-rds-local18-2523971.html",
-    "time": "2026-02-03T05:41:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'আমরা বঙ্গভবনে থাকা কাউকে বাধা দিইনি...', দাবি দিল্লি পুলিশের! জানাল ভবনের 'বাইরে' বাহিনী মোতায়েনের আসল কারণ!",
-    "desc": "সোমবার সকালে দিল্লি পুলিশের বিশাল বাহিনী প্রথমে দিল্লির হেইলি রোড এবং চাণক্যপুরীতে অবস্থিত বঙ্গভবন দুটি ঘিরে ফেলে। ভবনের প্রবেশদ্বারেই মোতায়েন করা হয় বিশাল সশস্ত্র পুলিশ বাহিনী। অভিযোগ, দুটি ভবনে থাকা রাজ্যের অতিথিদের ঘরে ঢুকেও তল্লাশি চালায় তারা।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-03-at-10.53.05-2026-02-2c10cdf25aef12036e5bd65f281ef626-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/delhi-police-on-banga-bhawan-we-did-not-obstruct-anyone-inside-bangabhaban-claims-delhi-police-dismissing-allegations-of-harassment-explained-the-real-reason-for-deploying-forces-outside-sanj-2524023.html",
-    "time": "2026-02-03T05:33:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাম্পার সুযোগ...! ৫০ টাকার 'নোট' থাকলেই মিলবে লাখ লাখ টাকা! কী ভাবে? দেখে নিন 'সঠিক' নিয়ম!",
-    "desc": "১০, ২০, ৫০, ১০০ টাকার মতো মূল্যমানের নোটে, যদি ক্রেতাদের পছন্দের সংখ্যা থাকে, তাহলে তাদের চাহিদা বাড়ছে বাজারে। বিশেষ করে যদি আপনার বাড়িতে ৫০ টাকার পুরনো নোট থাকে, তাহলে আপনি এখনই লক্ষ লক্ষ টাকা আয় করতে পারবেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-03-at-09.17.23-2026-02-0aaa17b86c3683358b7ed00469d9e19f-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/50-rupee-note-a-bumper-opportunity-you-can-get-lakhs-of-rupees-just-by-having-a-fifty-rupee-note-know-how-check-out-the-correct-procedure-to-earn-money-sanj-2524002.html",
-    "time": "2026-02-03T04:15:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'দেহব্যবসা' করাটাই কাল হল...! ৩৪-এ অকালে মৃত্যু বলি সুন্দরীর, শ্মশানে নিয়ে যাওয়ারও ছিল না কেউ, বলুন তো কে এই নায়িকা?",
-    "desc": "বলিউডের সেই 'দুর্ভাগ্যবান' অভিনেত্রী- যিনি তার প্রথম ছবিতেই তারকা হয়ে উঠেছিলেন। তিনি রাজ কুমার, সুনীল দত্ত এবং শশী কাপুরের মতো তারকাদের সঙ্গে কাজ করেছিলেন। সবকিছু ঠিকঠাক ছিল, কিন্তু তারপর জীবন এমন মোড় নেয় যে সবকিছু বদলে যায়। তিনি ৩৪ বছর বয়সে পৃথিবীকে বিদায় জানান এবং মৃত্যুর সময় তাকে নিয়ে যাওয়ার জন্য কোনও কাঁধও পাওয়া যায়নি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Riya-Das-1200900-2026-02-03T092636.815-2026-02-dc5f2ba337842e4a52fbd2eeb9bd7a4c-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/bollywood-shashi-kapoor-heroine-made-her-alcoholic-and-then-died-penniless-body-transported-on-thela-for-funeral-rds-2523989.html",
-    "time": "2026-02-03T04:00:58.000Z"
   }
 ];

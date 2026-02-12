@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Oman's Mohammad Nadeem scripts history with half-century against Sri Lanka in T20 World Cup 2026",
+    "desc": "The 16th game of the ongoing T20 World Cup 2026 saw Sri Lanka taking on Oman. The two sides locked horns at the Pallekele International Cricket Stadium on February 12. The clash began with Sri...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/oman-s-mohammad-nadeem-scripts-history-with-half-century-against-sri-lanka-in-t20-world-cup-2026-2026-02-12-1029976",
+    "time": "2026-02-12T09:35:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We are helpless': Bangladesh players upset after Sports Advisor Nazrul's U-turn on T20 World Cup exclusion",
+    "desc": "Bangladesh Cricket Board (BCB) are not being sanctioned by the International Cricket Council (ICC) for missing the T20 World Cup 2026 but they are already in turmoil for the missing the competition. For the unversed,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/we-are-helpless-bangladesh-players-upset-after-sports-advisor-nazrul-s-u-turn-on-t20-world-cup-exclusion-2026-02-12-1029969",
+    "time": "2026-02-12T08:46:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's probable XI vs Namibia: Sanju Samson IN, Abhishek Sharma OUT; What about Jasprit Bumrah?",
+    "desc": "India are set to be in action today in the T20 World Cup after a gap of five days, having taken the field against the USA on February 7. They will face Namibia today at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-s-probable-xi-vs-namibia-sanju-samson-in-abhishek-sharma-out-what-about-jasprit-bumrah-2026-02-12-1029954",
+    "time": "2026-02-12T07:34:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sri Lanka aim to brush aside Oman, Dushan replaces Hasaranga in playing XI",
     "desc": "Sri Lanka face Oman today in the 16th match of the T20 World Cup at the Pallekele International Cricket Stadium. Sri Lanka will miss Wanindu Hasaranga today as he has been ruled out of the...",
     "img": "",
@@ -61,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/psl-vs-ipl-auction-comparing-most-expensive-players-from-t20-leagues-ahead-of-2026-season-2026-02-11-1029876",
     "time": "2026-02-11T17:00:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is Pakistan's Usman Tariq's bowling action illegal? Former India cricketer supports spin bowler",
-    "desc": "Usman Tariq starred for Pakistan with the ball in their game against the USA in the T20 World Cup on Tuesday. He finished with figures of 3/27 in his four overs, but unfortunately, more than...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/is-pakistan-s-usman-tariq-s-bowling-action-illegal-former-india-cricketer-throws-support-behind-spinner-2026-02-11-1029860",
-    "time": "2026-02-11T14:35:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will India fast bowler play against Namibia in T20 World Cup?",
-    "desc": "India fast bowler Jasprit Bumrah missed the team's opening game of the T20 World Cup against the USA on Sunday at the Wankhede Stadium in Mumbai due to a high fever. Mohammed Siraj replaced him...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-fitness-update-will-india-fast-bowler-play-against-namibia-in-t20-world-cup-2026-02-11-1029845",
-    "time": "2026-02-11T13:22:59.000Z"
   }
 ];

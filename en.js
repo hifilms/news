@@ -1,12 +1,246 @@
 const newsData_en = [
   {
-    "cat": "Sports",
-    "title": "‘India have two, Canada get theirs’: Namibia question lack of night practice",
-    "desc": "Namibia's captain, Gerhard Erasmus, expressed frustration over the T20 World Cup schedule, noting his team received no night training sessions despite facing India in a night fixture. Erasmus highlighted the lack of floodlit practice facilities in Namibia, making the adjustment difficult for his players. Despite the disadvantage, the team is prepared to compete in their own 'Namibian way'.",
-    "img": "https://static.toiimg.com/photo/msid-128242793,imgsize-63672.cms",
+    "cat": "Politics",
+    "title": "novel initiative to train Cuddalore prison inmates as writers",
+    "desc": "The initiative offers training to prison inmates on writing books, helping transform their thoughts into the written word. In its first phase, 101 inmates, who have expressed interest, have been chosen to be developed as writers.",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/svz62m/article70623129.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-12%20at%2013.03.06.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/from-behind-bars-to-books-novel-initiative-to-train-cuddalore-prison-inmates-as-writers/article70622684.ece",
+    "time": "2026-02-12T09:26:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sarla Maheshwari, iconic DD newsreader, passes away at 71",
+    "desc": "Sarla Maheshwari, one of the most recognisable faces of Doordarshan’s retro era, passed away on Thursday. Maheshwari became a household name during the 1980s and 1990s, when Doordarshan dominated the television news space in India. For nearly three decades, from 1976 until 2005, she delivered Hindi news bulletins with composure and clarity, earning admiration for her measured tone and flawless diction.",
+    "img": "https://static.toiimg.com/photo/msid-128248748,imgsize-16654.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-have-two-canada-get-theirs-namibia-captain-questions-lack-of-night-practice-highlights-disparity/articleshow/128242778.cms",
-    "time": "2026-02-12T06:50:11.000Z"
+    "url": "https://timesofindia.indiatimes.com/india/sarla-maheshwari-iconic-dd-newsreader-passes-away-at-71/articleshow/128248606.cms",
+    "time": "2026-02-12T09:21:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Survival thrillers to watch ahead of Shanaya's 'Tu Yaa Main' release",
+    "desc": "a locked door, a deserted road, a phone that will not stop ringing. The stakes feel close because survival is personal. Every decision costs something. Whether the threat is human, psychological, or pure circumstance, these films build pressure through willpower, instinct, and the constant question of what someone will do when there is no help coming.",
+    "img": "https://static.toiimg.com/photo/msid-128248372,imgsize-26902.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/best-bollywood-survival-thrillers-to-watch-ahead-of-shanaya-kapoor-and-adarsh-gauravs-tu-yaa-main-release/photostory/128248372.cms",
+    "time": "2026-02-12T09:20:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Marina Abramović at the Kochi Biennale: On endurance, controversy and performance art",
+    "desc": "From a silent breathing ritual to a tense exchange over Epstein conspiracy theories, the performance art icon speaks candidly about pain, and reflects on six decades of pushing her body — and audiences — to its limits",
+    "img": "https://th-i.thgim.com/public/life-and-style/dxxkka/article70619596.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-11%20at%204.55.32%20PM%201.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/art/marina-abramovic-at-the-kochi-biennale-on-endurance-controversy-and-performance-art/article70618532.ece",
+    "time": "2026-02-12T09:19:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'No CM talk at AICC, leadership will take call whenever they find suitable': DK Shivakumar",
+    "desc": "Karnataka Deputy Chief Minister DK Shivakumar has dismissed speculation about a leadership change, stating no discussions on the chief ministerial post occurred during his meetings with Congress leaders. He emphasized the party's focus on its broader vision and goals, with senior leaders to make decisions at an opportune time.",
+    "img": "https://static.toiimg.com/photo/msid-128248542,imgsize-934147.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-cm-talk-at-aicc-leadership-will-take-call-whenever-they-find-suitable-dk-shivakumar/articleshow/128248576.cms",
+    "time": "2026-02-12T09:16:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Umpire row costs Nabi as SA edge Afghanistan in double Super Over epic",
+    "desc": "Afghanistan all-rounder Mohammad Nabi has been fined. He received a 15 percent match fee penalty. This was for disobeying an umpire's instruction during the match against South Africa. The incident involved a dispute over a bowler's wristband. Nabi also received one demerit point. He accepted the sanction without a formal hearing. South Africa won the match after two Super Overs.",
+    "img": "https://static.toiimg.com/photo/msid-128248549,imgsize-67748.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/umpire-row-costs-mohammad-nabi-as-south-africa-edge-afghanistan-in-double-super-over-epic/articleshow/128248547.cms",
+    "time": "2026-02-12T09:16:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dove Cameron, Avan Jogia open up about wedding plans with their partners",
+    "desc": "Dove Cameron and Avan Jogia, co-stars in the upcoming series '56 Days', shared their wedding aspirations. Cameron plans a dual Italian ceremony with fiancé Damiano David, blending destination and local elements. Jogia, engaged to Halsey, favors destination weddings for their unique significance. Their new crime thriller premieres February 18 on Prime Video.",
+    "img": "https://static.toiimg.com/photo/msid-128248318,imgsize-42842.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/56-days-stars-dove-cameron-and-avan-jogia-open-up-about-their-wedding-plans-with-their-partners/articleshow/128248318.cms",
+    "time": "2026-02-12T09:12:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Bollywood mein log saath nahi dete': Govind Namdev on Rajpal Yadav case",
+    "desc": "Actor Rajpal Yadav is facing financial difficulties and legal troubles with multiple cheque bounce cases. While his manager claims industry support, actor Govind Namdev observes that Bollywood often distances itself from individuals in crisis. Namdev expressed his belief that Yadav, a kind person, will overcome these challenges.",
+    "img": "https://static.toiimg.com/photo/msid-128248333,imgsize-36444.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bollywood-mein-log-saath-nahi-dete-yahan-ki-hawa-aisi-hai-says-govind-namdev-as-he-comments-on-rajpal-yadavs-debt-case/articleshow/128248317.cms",
+    "time": "2026-02-12T09:11:09.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Piyush Goyal clarifies on US trade deal after Bangladesh agreement",
+    "desc": "Goyal also stressed that the India-US trade deal, which reduces tariffs on Indian exports to 18%, does not touch sensitive agriculture and dairy sectors. On Saturday, India and the US had released a joint statement on the trade agreement.",
+    "img": "https://static.toiimg.com/photo/msid-128248264,imgsize-57320.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/zero-reciprocal-tariff-available-to-indian-textile-exports-too-piyush-goyal-clarifies-on-us-trade-deal-after-bangladesh-agreement/articleshow/128248140.cms",
+    "time": "2026-02-12T09:10:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Court restrains Congress leaders from making ‘defamatory statements’ against Assam CM",
+    "desc": "Judge Nayanjyoti Sarma stated that the court is of the opinion that if an order of 'ad-interim injunction' is not passed, it will \"defeat the justice and there is every possibility of multiplicity of proceedings”",
+    "img": "https://th-i.thgim.com/public/incoming/bi5wij/article70623363.ece/alternates/LANDSCAPE_1200/20260211071L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/assam/court-restrains-congress-leaders-from-making-defamatory-statements-against-assam-cm/article70623346.ece",
+    "time": "2026-02-12T09:07:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Need methods that match...",
+    "desc": "Filmmaker Ranjith Sankar questioned the effectiveness of today's nationwide strikes, like the ongoing Bharath Bandh, arguing they disproportionately harm small businesses and daily wage earners. He advocated for modern, targeted resistance methods, citing Japan's fare-free bus strikes and the MeToo movement's impactful storytelling as examples of effective, less disruptive approaches to enacting change.",
+    "img": "https://static.toiimg.com/photo/msid-128247765,imgsize-19286.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/we-need-methods-that-match-the-time-filmmaker-ranjith-sankar-on-bharat-bandh/articleshow/128247765.cms",
+    "time": "2026-02-12T09:03:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Saudi oil giant gives $280 billion boost to GDP, creates 200,000 jobs",
+    "desc": "Saudi Aramco has reached a significant milestone, achieving 70% local content in its supply chain. This achievement strengthens Saudi Arabia's industrial base and diversifies its economy beyond oil. The program has created over 200,000 jobs and attracted substantial foreign investment. Aramco aims to increase local content to 75% by 2030, further enhancing national capabilities and economic resilience.",
+    "img": "https://static.toiimg.com/photo/msid-128247074,imgsize-48132.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabias-oil-giant-saudi-aramco-crosses-70-localisation-milestone-280-billion-boost-to-gdp-global-firms-rush-in-as-iktva-creates-over-200000-jobs/articleshow/128244788.cms",
+    "time": "2026-02-12T08:44:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "You can't denigrate section of society by such title: Supreme Court raps Neeraj Pandey on 'Ghooskhor Pandat'",
+    "desc": "Why should you denigrate a section of society by using such a title. This is against morality and public order. We will not allow you to release the film unless you tell us the changed title, the Supreme Court Bench observed.",
+    "img": "https://th-i.thgim.com/public/news/national/d32lo9/article70623122.ece/alternates/LANDSCAPE_1200/Ghooskor%20Pandat.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/you-cant-denigrate-section-of-society-by-such-title-supreme-court-raps-neeraj-pandey-on-ghooskhor-pandat/article70623114.ece",
+    "time": "2026-02-12T08:24:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jana Nayagan': When will Vijay's film clear censorship?",
+    "desc": "Producers of Thalapathy Vijay's film 'Jana Nayagan' have withdrawn their legal case against the CBFC. They previously took legal action due to delays and procedural issues in the certification process. Now, the Revising Committee process is underway. The filmmakers are following the official CBFC procedure to obtain certification for the H. Vinoth directorial.",
+    "img": "https://static.toiimg.com/photo/msid-128246236,imgsize-54074.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-when-and-how-will-the-thalapathy-vijay-starrer-clear-censorship-whats-next-for-h-vinoths-directorial/articleshow/128246236.cms",
+    "time": "2026-02-12T08:22:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Sectarian agenda': Jamiat Ulama-i-Hind chief criticises government’s mandate on Vande Mataram",
+    "desc": "Jamiat Ulama-i-Hind president Arshad Madani criticised the Union Government's mandate to sing all six stanzas of 'Vande Mataram' in schools and official functions. He stated the decision infringes on religious freedom and minority rights, as some verses contradict monotheistic beliefs. Madani argued the move reflects electoral politics and a sectarian agenda rather than patriotism.",
+    "img": "https://static.toiimg.com/photo/msid-128245222,imgsize-274316.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sectarian-agenda-jamiat-ulama-i-hind-chief-criticises-governments-mandate-on-vande-mataram/articleshow/128245017.cms",
+    "time": "2026-02-12T08:18:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sanjay rubbed ash from a pyre all over his body missing his dead father",
+    "desc": "Actor Sanjay Mishra spoke about his arranged marriage to Kiran Mishra. She manages their household and two daughters. Mishra shared a poignant memory of grieving his father at a ghat. He also recalled his father's worries about his academic future. Mishra is now learning typewriting, fulfilling a wish of his late father.",
+    "img": "https://static.toiimg.com/photo/msid-128246153,imgsize-20908.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanjay-mishra-rubbed-ash-from-a-pyre-all-over-his-body-as-he-missed-his-father-after-his-death-people-asked-for-selfies/articleshow/128246085.cms",
+    "time": "2026-02-12T08:17:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ashwiny Iyer Tiwari curates ‘Femme Lens’ at Red Lorry Film Festival 2026",
+    "desc": "Filmmaker Ashwiny Iyer Tiwari will curate the ‘Femme Lens’ section at the 2026 edition of the Red Lorry Film Festival, presenting a global selection of films directed by women and placing female voices at the centre of the festival’s programming",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/vqq706/article70623089.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/ashwiny-iyer-tiwari-curates-femme-lens-at-red-lorry-film-festival-2026/article70623121.ece",
+    "time": "2026-02-12T08:15:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Reese Witherspoon mourns James Van Der Beek",
+    "desc": "Reese Witherspoon expresses her sorrow over the death of James Van Der Beek, honoring his enduring kindness and elegance. Their careers, which took flight in the vibrant 90s, saw a reunion with his guest appearance in 'Elle,' the heartfelt prequel series to 'Legally Blonde' crafted by Witherspoon's production team.",
+    "img": "https://static.toiimg.com/photo/msid-128245855,imgsize-75188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/reese-witherspoon-devastated-after-james-van-der-beeks-death-honors-his-final-tv-role/articleshow/128245855.cms",
+    "time": "2026-02-12T08:14:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gautam Gambhir",
+    "desc": "Returning to his hometown Delhi for the match against Namibia, India's head coach Gautam Gambhir emphasised the importance of team togetherness in the demanding world of elite sports. He highlighted how support staff become like family, fostering a relaxed atmosphere during practice. Gambhir candidly stated that only a winning dressing room brings smiles, underscoring the pressure of professional cricket.",
+    "img": "https://static.toiimg.com/photo/msid-128245821,imgsize-142308.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/a-winning-dressing-room-is-a-smiling-dressing-room-gautam-gambhir-reflects-before-indias-namibia-clash/articleshow/128244345.cms",
+    "time": "2026-02-12T08:09:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Elissa Finley almost loses her sight in accident during ‘Love Is Blind’",
+    "desc": "During the dramatic filming of ‘Love Is Blind’, contestant Elissa Finley faced an alarming health crisis when she mistakenly applied nail art glue to her eyes, believing it to be eye drops. This unfortunate mix-up resulted in a harrowing trip to the emergency room, where she endured severe discomfort and the chilling thought of potentially losing her vision.",
+    "img": "https://static.toiimg.com/photo/msid-128245041,imgsize-21730.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/love-is-blind-10-star-elissa-finley-faces-health-scare-while-filming-i-was-scared-i-thought-i-was-gonna-lose-sight/articleshow/128245041.cms",
+    "time": "2026-02-12T07:56:04.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India’s passport rises to 75th in world's most powerful passports rankings; check top 10 list",
+    "desc": "At present, India is placed at the 75th position in the index. However, it still trails several countries when measured by the number of destinations that allow Indian passport holders visa-free entry or provide visa-on-arrival access.",
+    "img": "https://static.toiimg.com/photo/msid-128245122,imgsize-40246.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-passport-rises-to-75th-in-worlds-most-powerful-passports-rankings-check-top-10-list/articleshow/128245090.cms",
+    "time": "2026-02-12T07:53:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Court says he has to go to jail",
+    "desc": "Actor Rajpal Yadav surrendered to Tihar jail after the Delhi High Court dismissed his plea for more time to clear a Rs 9 crore cheque bounce debt. The court noted his repeated failure to honor commitments.",
+    "img": "https://static.toiimg.com/photo/msid-128245016,imgsize-49692.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-rs-9-crore-debt-case-hearing-the-court-says-the-actor-has-to-go-to-jail-he-didnt-honour-his-commitment/articleshow/128244918.cms",
+    "time": "2026-02-12T07:48:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Soha praises Aishwarya Mohanraj for admitting Mounjaro use",
+    "desc": "Soha Ali Khan praised Aishwarya Mohanraj for her openness about using Mounjaro for her weight loss journey. She stressed that these medications are serious health treatments needing professional oversight, as they can cause side effects. Khan pointed out that weight loss is multifaceted and isn’t merely about determination; she encouraged a conversation on who genuinely benefits from such medical solutions.",
+    "img": "https://static.toiimg.com/photo/msid-128244772,imgsize-33614.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/soha-ali-khan-praises-aishwarya-mohanraj-for-admitting-mounjaro-use-for-weight-loss-amid-the-ozempic-debate/articleshow/128244772.cms",
+    "time": "2026-02-12T07:47:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How Courteney Cox wished Jennifer Aniston on her birthday",
+    "desc": "As Jennifer Aniston turned 57, her dear friend Courteney Cox marked the occasion with a nostalgic post on Instagram, featuring a classic FRIENDS snapshot that transported fans back in time. Reese Witherspoon also expressed her admiration, crafting a touching tribute that acknowledged the powerful bond forged on a sitcom and now continued in 'The Morning Show.",
+    "img": "https://static.toiimg.com/photo/msid-128244446,imgsize-68598.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/geminis-like-aquarians-courteney-coxs-birthday-wish-for-friends-co-star-jennifer-aniston-is-all-things-nostalgic/articleshow/128244434.cms",
+    "time": "2026-02-12T07:34:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nicki Minaj's USD 150 million empire",
+    "desc": "As the undisputed queen of rap, Nicki Minaj shines with a net worth of an astounding $150 million, cultivated through her musical prowess, fashion ventures, and lucrative endorsements. Her narrative—from her roots in Trinidad to reaching the pinnacle of global fame—is one of tenacity and triumph, particularly highlighted by her groundbreaking year in 2013.",
+    "img": "https://static.toiimg.com/photo/msid-128244427,imgsize-730644.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/nicki-minajs-net-worth-how-queen-of-rap-built-her-usd-150-million-empire/articleshow/128244427.cms",
+    "time": "2026-02-12T07:33:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Pitt Season 2’ episode 6 release timeand more",
+    "desc": "Medical drama 'The Pitt' returns with episode 6 on February 12, 2026, at 9 pm ET. Viewers can anticipate the July 4 shift reaching its eleventh hour, featuring ongoing conflicts between doctors over patient care and uncertain patient conditions impacting staff. The episode promises intense medical cases and personal drama as the shift nears its end.",
+    "img": "https://static.toiimg.com/photo/msid-128240582,imgsize-920847.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-pitt-season-2-episode-6-global-streaming-timings-what-to-expect-and-more/articleshow/128240582.cms",
+    "time": "2026-02-12T07:24:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ratna criticises young actors for trying to be cute on set",
+    "desc": "Ratna Pathak Shah praised Alia Bhatt for her focus and simplicity in 'Kapoor & Sons', noting her attentiveness on set. She also criticised young actors who try too hard to appear cute, saying it affects their performance. Ratna called Alia gifted, quiet, and sincere, appreciating her genuine dedication to acting.",
+    "img": "https://static.toiimg.com/photo/msid-128244024,imgsize-78434.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ratna-pathak-shah-criticises-young-actors-for-trying-to-be-cute-on-set-praises-alia-bhatt-for-her-focus-and-simplicity/articleshow/128244024.cms",
+    "time": "2026-02-12T07:22:33.000Z"
   },
   {
     "cat": "Politics",
@@ -15,7 +249,43 @@ const newsData_en = [
     "img": "https://th-i.thgim.com/public/incoming/n4yykh/article70622902.ece/alternates/LANDSCAPE_1200/PTI01_25_2026_000162B.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/ahead-of-tvk-chief-vijays-visit-a-look-at-salem-districts-voting-pattern/article70620787.ece",
-    "time": "2026-02-12T06:49:08.000Z"
+    "time": "2026-02-12T07:21:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Linked with anti-India forces': BJP MP moves motion to revoke Rahul Gandhi's Parliament membership",
+    "desc": "BJP MP Nishikant Dubey has moved a motion in the Lok Sabha seeking termination of Rahul Gandhi's parliamentary membership and a lifetime ban from elections, accusing him of misleading the nation with \"anti-India forces.\" The motion follows Gandhi's speech alleging the Centre compromised national interests by allowing the US to weaponize energy and financial systems.",
+    "img": "https://static.toiimg.com/photo/msid-128243621,imgsize-1316487.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/linked-with-anti-india-forces-bjp-mp-moves-motion-to-revoke-rahul-gandhis-parliament-membership/articleshow/128243630.cms",
+    "time": "2026-02-12T07:15:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "MCOCA invoked against accused",
+    "desc": "Filmmaker Rohit Shetty's Mumbai home was the scene of chaos on February 1st as gunfire erupted, with a stray bullet finding its mark in his gym. The police have escalated their response by invoking the MCOCA against five individuals associated with the incident. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128243264,imgsize-21052.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rohit-shetty-residence-firing-mumbai-police-invoke-the-stringent-mcoca-against-accused/articleshow/128243264.cms",
+    "time": "2026-02-12T07:05:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Juhi NEARLY QUIT Jhankar Beats after reading THIS scene",
+    "desc": "Before becoming known for thrillers, Sujoy Ghosh made audiences laugh with Jhankar Beats. Juhi Chawla initially refused the film due to a bold adult-humour scene, which was later dropped. Ghosh credits her decision for saving the movie. The 2003 hit remains loved today and was recently screened at Mumbai’s Kala Ghoda Festival.",
+    "img": "https://static.toiimg.com/photo/msid-128242961,imgsize-31720.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/juhi-chawla-nearly-quit-jhankar-beats-after-reading-this-scene-from-sujoy-ghoshs-directorial-debut/articleshow/128242961.cms",
+    "time": "2026-02-12T06:53:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘India have two, Canada get theirs’: Namibia question lack of night practice",
+    "desc": "Namibia's captain, Gerhard Erasmus, expressed frustration over the T20 World Cup schedule, noting his team received no night training sessions despite facing India in a night fixture. Erasmus highlighted the lack of floodlit practice facilities in Namibia, making the adjustment difficult for his players. Despite the disadvantage, the team is prepared to compete in their own 'Namibian way'.",
+    "img": "https://static.toiimg.com/photo/msid-128242793,imgsize-63672.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-have-two-canada-get-theirs-namibia-captain-questions-lack-of-night-practice-highlights-disparity/articleshow/128242778.cms",
+    "time": "2026-02-12T06:50:11.000Z"
   },
   {
     "cat": "Entertainment",
@@ -28,12 +298,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Gene Simmons addresses backlash after comment about rap music",
-    "desc": "Gene Simmons is standing by his controversial remarks on rap music, clarifying his \"I don't come from the ghetto\" comment. He explained that while rock and hip-hop both have roots in Black music, his personal connection differs. Simmons believes the term 'ghetto' has historical Jewish origins and doesn't represent his background, leading to the current debate.",
-    "img": "https://static.toiimg.com/photo/msid-128242191,imgsize-14946.cms",
+    "title": "Swift-Kelce Wedding Plans: Mom laughs off NDA talk",
+    "desc": "Donna Kelce is gearing up for an unforgettable celebration as her son Travis prepares to tie the knot with pop superstar Taylor Swift. With the wedding just around the corner, Donna promises to keep the intimate details under wraps, savoring the special moments.",
+    "img": "https://static.toiimg.com/photo/msid-128242129,imgsize-36204.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/kiss-member-gene-simmons-stands-by-his-ghetto-comment-about-rap-i-stand-by-my-words/articleshow/128242191.cms",
-    "time": "2026-02-12T06:42:59.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/donna-kelce-says-they-know-i-can-keep-a-secret-amid-travis-kelce-taylor-swift-wedding-buzz/articleshow/128242129.cms",
+    "time": "2026-02-12T06:42:14.000Z"
   },
   {
     "cat": "Politics",
@@ -54,15 +324,6 @@ const newsData_en = [
     "time": "2026-02-12T06:24:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Pathinalam Ravinte song revival; fans hail MG Sreekumar",
-    "desc": "The recently released film 'Ashakal Aayiram', starring Kalidas and Jayaram, has revived the classic song 'Pathinalam Ravinte'. While the reimagined version by Vineeth Sreenivasan is out, netizens are championing MG Sreekumar's original rendition. The film itself, a father-son drama, has garnered a 3/5 rating for its nostalgic charm and Jayaram's performance, drawing steady crowds.",
-    "img": "https://static.toiimg.com/photo/msid-128240652,imgsize-61330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/ashakal-aayiram-revives-pathinalam-ravinte-song-netizens-say-mg-sreekumar-remains-unbeatable/articleshow/128240652.cms",
-    "time": "2026-02-12T06:20:02.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Gold, silver price prediction today: Will gold hit Rs 1.75 lakh/10 grams &amp; silver cross Rs 3 lakh/kg soon? Here's the outlook",
     "desc": "Gold and silver prices have bounced back from recent lows, and appear to be on path for a long-term rise, believes Abhilash Koikkara, Head - Forex & Commodities, Nuvama Professional Clients Group. The commodity expert shares his outlook for gold and silver in the coming sessions:",
@@ -70,6 +331,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-prediction-today-what-is-the-gold-rate-outlook-for-february-12-2026-should-you-buy-or-sell-mcx-gold-mcx-silver/articleshow/128240246.cms",
     "time": "2026-02-12T06:17:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Be ready for exemplary costs’: SC raps Congress MP Jairam Ramesh for challenging Centre's office memorandum",
+    "desc": "The Supreme Court sternly rebuked Congress MP Jairam Ramesh for challenging an Office Memorandum that aimed to implement the court's ruling against retrospective environmental clearances. “Be ready for exemplary costs. We know the design behind this,” a bench led by CJI Surya Kant said. Justices warned of hefty costs, viewing the challenge as an indirect attack on the apex court's judgment itself. Ramesh subsequently withdrew his plea.",
+    "img": "https://static.toiimg.com/photo/msid-128240893,imgsize-811163.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/be-ready-for-exemplary-costs-sc-raps-congress-mp-jairam-ramesh-for-challenging-centres-office-memorandum/articleshow/128239670.cms",
+    "time": "2026-02-12T06:02:14.000Z"
   },
   {
     "cat": "Politics",
@@ -81,13 +351,13 @@ const newsData_en = [
     "time": "2026-02-12T05:53:33.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Love Story: John F. Kennedy and Carolyn Bessette’ release time",
-    "desc": "John F. Kennedy and Carolyn Bessette,' premieres February 12, 2026, on FX and Hulu. Starring Paul Kelly and Sarah Pidgeon, it chronicles the captivating and ultimately tragic romance of John F. Kennedy Jr. and fashion publicist Carolyn Bessette. Based on Elizabeth Beller's biography, the show delves into their lives, marriage, and untimely deaths.",
-    "img": "https://static.toiimg.com/photo/msid-128240400,imgsize-502517.cms",
+    "cat": "Politics",
+    "title": "What unfolded in Lok Speaker Om Birla's chamber on February 4? Kiren Rijiju releases video clip",
+    "desc": "Union parliamentary affairs minister Kiren Rijiju released a video he said was secretly filmed by a Congress MP inside Lok Sabha Speaker Om Birla’s chamber. He alleged that 20–25 Congress MPs entered, behaved abusively and issued threats. The row comes amid escalating tensions in Parliament, with the opposition accusing Birla of partisanship and the government condemning repeated disruptions.",
+    "img": "https://static.toiimg.com/photo/msid-128241317,imgsize-3363898.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/love-story-john-f-kennedy-and-carolyn-bessette-details-on-release-time-episode-count-plot-and-more/articleshow/128240400.cms",
-    "time": "2026-02-12T05:51:33.000Z"
+    "url": "https://timesofindia.indiatimes.com/india/what-unfolded-in-lok-speaker-om-birlas-chamber-on-february-4-kiren-rijiju-releases-video-clip/articleshow/128240438.cms",
+    "time": "2026-02-12T05:52:17.000Z"
   },
   {
     "cat": "Sports",
@@ -100,48 +370,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Jane Trcka passed away due to cardiovascular disease",
-    "desc": "In a heart-wrenching farewell, the multifaceted Jayne Trcka, famed for her performances in 'Scary Movie' and 'The Bad Batch', passed away at the age of 62. Authorities have confirmed that her death resulted from hypertensive and atherosclerotic cardiovascular disease, alongside struggles with a recent femoral fracture and past alcohol dependence.",
-    "img": "https://static.toiimg.com/photo/msid-128239744,imgsize-29710.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jayne-trckas-cause-of-death-confirmed-scary-movie-actress-suffered-from-cardiovascular-disease/articleshow/128239744.cms",
-    "time": "2026-02-12T05:33:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "What’s cooking?",
-    "desc": "Amidst a public family feud, Cruz Beckham shared a heartwarming throwback photo with brother Brooklyn, sparking reunion rumors. This comes after Brooklyn's explosive January tell-all accusing parents David and Victoria of controlling behavior and attempting to sabotage his marriage. Romeo also posted a 'Family' tattoo, hinting at reconciliation efforts.",
-    "img": "https://static.toiimg.com/photo/msid-128239692,imgsize-48596.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/are-the-beckhams-reuniting-cruz-beckham-shares-photo-with-brooklyn-amid-ongoing-family-feud/articleshow/128239673.cms",
-    "time": "2026-02-12T05:29:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Rahul Riji Nair’s animated short film ‘Kingara Kavyam’ recreates a folklore",
     "desc": "Based around a folklore and myth, Kingara Kavyam tells a poignant tale of resilience and hope. It has been selected for the South Asia Competition at the second edition of AniMela international festival, where it will have its world premiere",
     "img": "https://th-i.thgim.com/public/incoming/mspuid/article70618629.ece/alternates/LANDSCAPE_1200/13tvm%20kappiri2.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/rahul-riji-nair-animated-short-film-kingara-kavyam/article70618589.ece",
     "time": "2026-02-12T05:10:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jennifer Aniston KISSES Jim Curtis in unseen pic",
-    "desc": "Jennifer Aniston celebrated her birthday with a heartfelt social media tribute from boyfriend Jim Curtis. He shared intimate photos, including a passionate kiss and a joyful moment on a yacht, captioning it with a simple \"HBD MY (heart emoji).",
-    "img": "https://static.toiimg.com/photo/msid-128238690,imgsize-28270.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-aniston-kisses-beau-jim-curtis-in-unseen-intimate-photo-in-birthday-post-pics-inside/articleshow/128236761.cms",
-    "time": "2026-02-12T05:00:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jena Malone announces engagement with Jack Buckley",
-    "desc": "Actress Jena Malone is engaged to fellow actor Jack Buckley, calling him a 'dream come true.' The couple shared their joyous news on social media with enchanting proposal pictures. Malone expressed her excitement, noting Buckley received blessings from her family, including her son. She also shared a heartfelt poem about their enduring connection.",
-    "img": "https://static.toiimg.com/photo/msid-128238388,imgsize-601904.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/hunger-games-actor-jena-malones-dream-came-true-as-she-announces-engagement-with-jack-buckley/articleshow/128238388.cms",
-    "time": "2026-02-12T04:51:18.000Z"
   },
   {
     "cat": "Sports",
@@ -151,24 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/death-of-a-salesman-birth-of-a-cricketer-usman-tariq-quit-his-day-job-to-become-pakistans-x-factor/articleshow/128238175.cms",
     "time": "2026-02-12T04:44:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Actor Bud Cort passes away at 77",
-    "desc": "Veteran actor Bud Cort, celebrated for his iconic roles in 'Harold and Maude' and 'The Life Aquatic with Steve Zissou', has passed away at 77. His death in Connecticut followed prolonged complications from pneumonia. Cort, born Walter Edward Cox, was discovered by Robert Altman and also co-founded a non-profit art organization.",
-    "img": "https://static.toiimg.com/photo/msid-128238111,imgsize-16450.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/harold-and-maude-fame-actor-bud-cort-passes-away-at-77/articleshow/128238111.cms",
-    "time": "2026-02-12T04:40:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "All you need to know",
-    "desc": "Rajpal Yadav, a beloved figure in comedy, is currently behind bars at Tihar Jail following a conviction for a bounced cheque. His financial woes trace back to a Rs 5 crore loan he secured for his film 'Ata Pata Laapata' back in 2010, a film that turns out was not a box office hit.",
-    "img": "https://static.toiimg.com/photo/msid-128237338,imgsize-67544.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadavs-directorial-debut-ata-pata-laapata-all-about-the-film-that-led-him-to-tihar-jail/articleshow/128237338.cms",
-    "time": "2026-02-12T04:20:24.000Z"
   },
   {
     "cat": "Politics",
@@ -198,15 +414,6 @@ const newsData_en = [
     "time": "2026-02-12T03:54:28.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Did Billy Bob Thornton really drink Angelina Jolie’s blood?",
-    "desc": "Actress Michelle Randolph, working with Billy Bob Thornton on 'Landman', directly asked him about the persistent rumor of him drinking Angelina Jolie's blood. Thornton, who previously confirmed they exchanged blood vials as a personal gesture, found Randolph's curiosity amusing. He clarified the media sensationalized their romantic idea into vampire-like speculation.",
-    "img": "https://static.toiimg.com/photo/msid-128236608,imgsize-33872.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/landman-star-michelle-randolph-asked-billy-bob-thornton-if-he-really-drank-angelina-jolies-blood/articleshow/128236579.cms",
-    "time": "2026-02-12T03:49:48.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Stock recommendations for February 12, 2026",
     "desc": "Aakash K Hindocha, Deputy Vice President - WM Research of Nuvama Professional Clients Group recommends these stocks as the top buy calls for today: BPCL, Power Grid, and SAIL. He also shares his view on Nifty, Bank Nifty for February 12, 2026:",
@@ -234,24 +441,6 @@ const newsData_en = [
     "time": "2026-02-12T03:34:17.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "About ‘Love Story: John F. Kennedy Jr. and Carolyn Bessette’",
-    "desc": "John F. Kennedy Jr. and Carolyn Bessette,' premieres February 12, detailing the couple's journey from their first meeting at Calvin Klein to a secret wedding. It explores their intense public scrutiny and the tragic plane crash that ended their lives, drawing from biographies and historical accounts for a dramatized retelling.",
-    "img": "https://static.toiimg.com/photo/msid-128235982,imgsize-854209.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/love-story-john-f-kennedy-jr-and-carolyn-bessette-inside-the-real-life-events-that-inspired-the-series/articleshow/128235982.cms",
-    "time": "2026-02-12T03:31:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "What James Van Der Beek said about his cancer battle",
-    "desc": "Actor James Van Der Beek, famed for 'Dawson's Creek', passed away at 48 after a two-year battle with stage 3 colorectal cancer. He openly shared his journey, emphasizing the importance of early detection and finding self-worth beyond his roles. His wife confirmed his courageous fight, highlighting his faith and grace until his final moments.",
-    "img": "https://static.toiimg.com/photo/msid-128236028,imgsize-31728.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/when-james-van-der-beek-reflected-on-life-and-death-amid-his-cancer-battle-i-had-to-look-my-own-mortality/articleshow/128236003.cms",
-    "time": "2026-02-12T03:30:24.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Which sectors will be hit and why trade unions are protesting",
     "desc": "Over 10 central trade unions, farmer organisations, and Left parties called for a 12-hour Bharat Bandh on Thursday, protesting against the Centre's alleged anti-worker, anti-farmer, and pro-corporate policies. The strike, supported by the Samyukt Kisan Morcha, aimed to oppose new labor codes, the Indo-US trade agreement, and changes to MGNREGA, with an estimated 30 crore workers participating across India.",
@@ -270,15 +459,6 @@ const newsData_en = [
     "time": "2026-02-12T03:24:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Priyanka's 'Varanasi' budget HALF of 'Citadel' S1",
-    "desc": "SS Rajamouli's 'Varanasi', starring Mahesh Babu and Priyanka Chopra, is reportedly a massive Rs 1,400 crore production. However, Chopra's web series 'Citadel' Season 1, with a USD 300 million budget, significantly outspent the film, making it one of television's priciest productions. 'Varanasi' promises a time-travel spectacle with a 25-minute Ramayana battle.",
-    "img": "https://static.toiimg.com/photo/msid-128235796,imgsize-37300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopras-varanasi-rs-1400-crore-budget-revealed-ss-rajamoulis-epic-costs-half-of-citadel-season-1/articleshow/128235649.cms",
-    "time": "2026-02-12T03:23:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘We are in match zone’: Tilak fires India-Pak warning ahead of T20 WC blockbuster",
     "desc": "India batter Tilak Varma expressed excitement for the upcoming ICC Men's T20 World Cup clash against Pakistan on February 15, stating the team has entered \"match zone\" after fixture confirmation. Varma emphasised a methodical approach, focusing on one match at a time with video analysis and adapting to wicket conditions.",
@@ -288,24 +468,6 @@ const newsData_en = [
     "time": "2026-02-12T02:59:42.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "James Van Der Beek and wife, Kimberly’s last photo together",
-    "desc": "Actor James Van Der Beek, known for 'Dawson Creek', shared a touching holiday photo with his wife Kimberly, just months before revealing his battle with colorectal cancer. The couple, married for 15 years, have six children. Van Der Beek had expressed optimism about his ongoing treatment, offering a hopeful outlook amidst his health challenges.",
-    "img": "https://static.toiimg.com/photo/msid-128234958,imgsize-64756.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-van-der-beeks-last-online-picture-with-his-wife-kimberly-van-der-beek-is-all-things-heartwarming/articleshow/128234958.cms",
-    "time": "2026-02-12T02:55:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Zayn Malik was told off by Gigi Hadid over daughter's gift",
-    "desc": "Zayn Malik revealed on 'Call Her Daddy' that Gigi Hadid reprimanded him for giving their daughter, Khai, $500 as a Tooth Fairy gift for her first lost tooth. Malik, who experienced financial hardship growing up, expressed his desire to spoil his child, stating it means 'everything' to him.",
-    "img": "https://static.toiimg.com/photo/msid-128234815,imgsize-437184.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/did-you-know-zayn-malik-was-told-off-by-gigi-hadid-over-a-bit-too-much-money-for-daughter-khais-first-tooth-fairy-gift/articleshow/128234815.cms",
-    "time": "2026-02-12T02:52:21.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘We have got one more day’: Tilak shares big Abhishek, Bumrah fitness update",
     "desc": "Tilak Varma provided positive fitness updates on Abhishek Sharma, who has been discharged from the hospital after a stomach infection, and Jasprit Bumrah, who is recovering well. Final decisions on their availability for the upcoming match against Namibia will be made closer to game time. The team is also preparing for their high-voltage encounter against Pakistan.",
@@ -313,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-have-got-one-more-day-tilak-varma-shares-big-abhishek-sharma-jasprit-bumrah-fitness-update-before-india-vs-namibia-clash/articleshow/128234101.cms",
     "time": "2026-02-12T02:29:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Blake Lively TWINS with Justin Baldoni in court",
-    "desc": "Hollywood stars Blake Lively and Justin Baldoni met for settlement talks regarding Lively's sexual harassment lawsuit stemming from the \"It Ends With Us\" set. The six-hour meeting at a New York courthouse concluded without an agreement. Their ongoing legal battle, involving accusations of harassment and defamation, has drawn significant attention to Hollywood's power dynamics.",
-    "img": "https://static.toiimg.com/photo/msid-128233446,imgsize-41780.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/blake-lively-and-justin-baldoni-twin-in-green-and-pink-for-settlement-talks-netizens-slam-ryan-reynolds-for-absence-in-court/articleshow/128230526.cms",
-    "time": "2026-02-12T02:03:35.000Z"
   },
   {
     "cat": "Sports",
@@ -334,25 +487,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "RGV recalls underworld’s impact on Bollywood in the 90s",
-    "desc": "Filmmaker Ram Gopal Varma weighed in on the recent firing outside Rohit Shetty's home, questioning the attack's origins and the Lawrence Bishnoi Gang's claims. Varma recalled the widespread underworld threats faced by Bollywood in the 90s, contrasting it with the current situation and the gang's public pronouncements.",
-    "img": "https://static.toiimg.com/photo/msid-128232507,imgsize-21766.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-rohit-shettys-shooting-incident-ram-gopal-varma-recalls-the-impact-of-the-underworld-in-bollywood-in-the-90s-they-tried-to-kill-producer-manmohan-shetty/articleshow/128232510.cms",
-    "time": "2026-02-12T01:24:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Municipal polling peaceful across the State, counting tomorrow",
-    "desc": "According to the State Election Commission sources, 73.01% of votes were polled. It is worth noting that the Gram Panchayat (rural local bodies) elections held in December 2025 recorded a voter turnout of over 85%",
-    "img": "https://th-i.thgim.com/public/incoming/2830ec/article70620898.ece/alternates/LANDSCAPE_1200/2248_11_2_2026_19_26_26_2_WHATSAPPIMAGE2026_02_11AT105036AM.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/municipal-polling-peaceful-across-the-state-counting-tomorrow/article70620804.ece",
-    "time": "2026-02-12T00:57:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Border 2' beats Rs 432 crore mark globally on Day 20",
+    "title": "'Border 2' Day 21: Film BEATS Rs 432 crore mark globally",
     "desc": "'Border 2', which kicked off with an impressive bang during the Republic Day celebrations, is now seeing a decline in its box office draw as it enters week three. Despite the stirring performance of Sunny Deol and a hefty total of Rs 316 crore in India, totaling Rs 432.1 crore globally, recent ticket sales reflect a waning interest among audiences.",
     "img": "https://static.toiimg.com/photo/msid-128230810,imgsize-25174.cms",
     "src": "indiatimes.com",
@@ -388,33 +523,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Trade impact, memorials among issues raised in Rajya Sabha",
-    "desc": "In the Rajya Sabha, members demanded curbs on Korean mobile games, right to recall elected representatives, and Constitutional status to the National Commission for Minorities. They also discussed the impact of the India-U.S. trade deal on soybean farmers in Madhya Pradesh.",
-    "img": "https://th-i.thgim.com/public/news/national/4cubnv/article70621064.ece/alternates/LANDSCAPE_1200/Rajya%20Sabha.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/build-memorial-for-bengal-revolutionaries-who-never-wrote-mercy-petitions-trinamool-congress-mp/article70620734.ece",
-    "time": "2026-02-11T20:49:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Speaker can expunge any unparliamentary language, says J&K CM Omar Abdullah",
-    "desc": "CM apologises for his earlier remarks implying that BJP legislators had been reprimanded by the Union Home Minister, triggering an Opposition protest; CM apologises, but lashes out at LoP for his criticism of NC founder Sheikh Abdullah",
-    "img": "https://th-i.thgim.com/public/incoming/ttqp3x/article70620989.ece/alternates/LANDSCAPE_1200/20260211139L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/speaker-can-expunge-any-unparliamentary-language-jk-cm-omar-abdullah/article70620430.ece",
-    "time": "2026-02-11T20:22:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Shoe-beating' remark sparks uproar in J&amp;K assembly, BJP demands Omar apology",
-    "desc": "Jammu and Kashmir assembly proceedings were disrupted after Chief Minister Omar Abdullah's remarks about BJP legislators being \"shoe-beaten\" by Union Home Minister Amit Shah. Opposition members protested and walked out, demanding an apology from Abdullah, who refused, stating his comments targeted the legislators and not individuals.",
-    "img": "https://static.toiimg.com/photo/msid-128222797,imgsize-955950.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/shoe-beating-remark-sparks-uproar-in-jk-assembly-bjp-demands-omar-apology/articleshow/128222701.cms",
-    "time": "2026-02-11T19:18:49.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Karnataka High Court defers cross-examination of witnesses in murder case to prevent exposure of defence strategy",
     "desc": "In a ruling reinforcing fair trial rights of the accused persons in criminal cases, the Karnataka High Court has directed a trial court to defer cross-examination of a prime witness in a murder case till the examination of remaining witnesses ‘to prevent exposure of the defence strategy that may enable other witnesses to tailor their testimony’",
     "img": "https://th-i.thgim.com/public/incoming/rx7agj/article70621327.ece/alternates/LANDSCAPE_1200/No-bar-on-movinGFAFIHMDA.1.jpg.jpg",
@@ -442,30 +550,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "19 vacancies in National Medical Commission, govt admits in Rajya Sabha",
-    "desc": "Within the Commission itself, out of 33 sanctioned posts — comprising the Chairman, ex-officio members and part-time members — 28 are in position. The Secretary’s post is filled. However, vacancies are more visible across the autonomous boards responsible for regulating undergraduate and postgraduate medical education, medical assessment and accreditation, and ethics and medical registration.",
-    "img": "https://static.toiimg.com/photo/msid-128218739,imgsize-97004.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/19-vacancies-in-national-medical-commission-govt-admits-in-rajya-sabha/articleshow/128218775.cms",
-    "time": "2026-02-11T17:30:51.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Ahead of March 31 deadline, Odisha revises surrender and rehabilitation scheme for surrendering Maoists",
     "desc": "After revision of guideline in November last year that saw reward money going up substantially, 45 LWEs have surrendered before security forces while there are still 40 cadres including a State Committee Member active in Odisha",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/odisha/ahead-of-march-31-deadline-odisha-revises-surrender-and-rehabilitation-scheme-for-surrendering-maoists/article70620211.ece",
     "time": "2026-02-11T17:12:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Vande Mataram to be played before Jana Gana Mana, says Centre to States and government bodies",
-    "desc": "The fresh set of guidelines were uploaded on the MHA’s website on February 6 but no formal announcement or a statement was issued; it states that whenever the official version, around 3.10 minutes long, is sung or played, the audience shall stand to attention",
-    "img": "https://th-i.thgim.com/public/news/national/t0mry2/article65536433.ece/alternates/LANDSCAPE_1200/NKV-MHA1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/vande-mataram-to-be-played-before-jana-gana-mana-says-centre-to-states-and-government-bodies/article70620756.ece",
-    "time": "2026-02-11T16:46:15.000Z"
   },
   {
     "cat": "World",
@@ -522,15 +612,6 @@ const newsData_en = [
     "time": "2026-02-11T13:09:23.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'I always believe I can'",
-    "desc": "Novak Djokovic's reign at the Australian Open ended after a hard-fought loss to Carlos Alcaraz. Despite the defeat, the 38-year-old Serbian remains confident in his ability to win more Grand Slams, stating, 'I always believe I can.' He acknowledged disappointment with his performance after a strong start but expressed contentment with reaching the final.",
-    "img": "https://static.toiimg.com/photo/msid-128207441,imgsize-106526.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/quote-of-the-day-by-novak-djokovic-i-always-believe-i-can/articleshow/128207484.cms",
-    "time": "2026-02-11T12:37:26.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Shahid Kapoor confirms ‘Farzi' season 2: The fakers are back at it, says the actor",
     "desc": "Shahid Kapoor just dropped the news that Season 2 of the hit series ‘Farzi’ is officially in the works. He took to Instagram to share the news with a fun picture alongside creators Raj and DK",
@@ -556,15 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/what-happened-to-abhishek-sharma-on-the-eve-of-the-usa-fixture/articleshow/128203651.cms",
     "time": "2026-02-11T12:25:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Marina Abramović at the Kochi Biennale: On endurance, controversy and performance art",
-    "desc": "From a silent breathing ritual to a tense exchange over Epstein conspiracy theories, the performance art icon speaks candidly about pain, and reflects on six decades of pushing her body — and audiences — to its limits",
-    "img": "https://th-i.thgim.com/public/life-and-style/dxxkka/article70619596.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-11%20at%204.55.32%20PM%201.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/art/marina-abramovic-at-the-kochi-biennale-on-endurance-controversy-and-performance-art/article70618532.ece",
-    "time": "2026-02-11T11:43:34.000Z"
   },
   {
     "cat": "Tech",
@@ -604,30 +676,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Steve Smith back in action! Australia call up veteran as Marsh misses T20 WC opener",
-    "desc": "Australia faces a significant setback as captain Mitchell Marsh is ruled out of their T20 World Cup opener against Ireland due to a groin injury. Travis Head will lead the team in his absence. Veteran Steve Smith has been added as cover, ready to step in if needed. This absence impacts Australia's leadership and all-round strength at the tournament's start.",
-    "img": "https://static.toiimg.com/photo/msid-128200662,imgsize-129982.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/steve-smith-back-in-action-australia-call-up-veteran-as-mitchell-marsh-misses-t20-world-cup-opener/articleshow/128200475.cms",
-    "time": "2026-02-11T10:04:05.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Bangladesh's Sports Advisor Nazrul",
     "desc": "There is no question of regret (not playing the World Cup). This decision was taken by the BCB and the players as they made sacrifices for the safety of the country's cricket, the safety of the people, and to protect national dignity, says Asif Nazrul",
     "img": "https://th-i.thgim.com/public/incoming/wcbj9s/article70618809.ece/alternates/LANDSCAPE_1200/PTI01_24_2026_000474B.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/bangladesh-t20-world-cup-bcb-nazrul-statement-updates/article70618794.ece",
     "time": "2026-02-11T08:57:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Why only bowlers?’ Ashwin defends Pakistan spinner as action debate explodes",
-    "desc": "Pakistan spinner Usman Tariq's unique bowling action has reignited debate after a match-winning performance on Tuesday. While critics question his technique, veteran Indian spinner Ravichandran Ashwin defended bowlers, highlighting perceived double standards in cricket's rules compared to batting. Tariq maintains his action is natural, having been cleared by the ICC previously.",
-    "img": "https://static.toiimg.com/photo/msid-128194743,imgsize-157870.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/why-only-bowlers-r-ashwin-defends-pakistans-usman-tariq-as-action-debate-explodes-at-t20-world-cup/articleshow/128194549.cms",
-    "time": "2026-02-11T07:25:28.000Z"
   },
   {
     "cat": "Sports",
@@ -844,59 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/jc-the-university-movie-review-surya-prakhyath-daali-dhananjaya-crime-thriller-brilliant-start-loses-momentum/article70603907.ece",
     "time": "2026-02-08T08:50:42.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "I-T dept releases draft rules, forms for new Income Tax Act; seeks public inputs",
-    "desc": "Along with the new draft rules and forms, two navigators – one providing the mapping of the old rules and the new draft rules and the second providing the mapping of the old forms and the new draft forms is also provided for the guidance of stakeholders and the public",
-    "img": "https://th-i.thgim.com/public/incoming/7lgwvf/article70604952.ece/alternates/LANDSCAPE_1200/iStock-487999971.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/budget/i-t-dept-releases-draft-rules-forms-for-new-income-tax-act-seeks-public-inputs/article70604846.ece",
-    "time": "2026-02-07T16:08:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Odisha CM launches ambitious economic regional plan BCPPER",
-    "desc": "The BCPPER’s economy stands at $22.4 billion and is targeted to take it to $500 billion by 2047; it has proposed to create a special economic zone (SEZ) for education, innovation city, and logistics hub",
-    "img": "https://th-i.thgim.com/public/news/fg56bt/article70604168.ece/alternates/LANDSCAPE_1200/HAizLr5b0AAEicS.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/odisha/odisha-cm-launches-ambitious-economic-regional-plan-bcpper/article70603827.ece",
-    "time": "2026-02-07T13:27:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "South Korean Crypto firm accidentally sends $44 billion in bitcoins to users",
-    "desc": "The exchange had planned to distribute small cash rewards of 2,000 Korean won ($1.37) or ‌more to each user ‌as part of a promotional event, but winners received at ‍least 2,000 bitcoins each instead, says media reports",
-    "img": "https://th-i.thgim.com/public/news/national/au0pfo/article70603473.ece/alternates/LANDSCAPE_1200/iStock-1440241076.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/south-korean-crypto-firm-accidentally-sends-44-billion-in-bitcoins-to-users/article70603416.ece",
-    "time": "2026-02-07T09:47:50.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Centre lays down eligibility criteriafor ‘deep tech’ start-ups in country",
-    "desc": "According to a gazette notification by the Department for Promotion of Industry and Internal Trade, a deep tech startup is primarily concerned with producing a solution based on new knowledge/advancements in a scientific or engineering discipline",
-    "img": "https://th-i.thgim.com/public/incoming/o2jua8/article70600106.ece/alternates/LANDSCAPE_1200/BL17_Think_data_center.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/centre-expands-definition-for-startups-with-official-term-for-deep-tech-companies/article70599087.ece",
-    "time": "2026-02-06T20:41:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Elton John accuses U.K. tabloids publisher of 'abhorrent' privacy breaches",
-    "desc": "I have found The Mail's deliberate invasion into my medical health and medical details surrounding the birth of our son Zachary abhorrent and outside even the most basic standards of human decency, Elton John wrote in a witness statement.",
-    "img": "https://th-i.thgim.com/public/incoming/jyzpe5/article70600826.ece/alternates/LANDSCAPE_1200/2026-02-06T115742Z_702179009_RC2E5DA1YMT4_RTRMADP_3_BRITAIN-COURT-HARRY-FURNISH.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/elton-john-accuses-uk-tabloids-publisher-of-abhorrent-privacy-breaches/article70600789.ece",
-    "time": "2026-02-06T14:29:52.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "EU accuses TikTok of 'addictive design,' seeks changes to protect users",
-    "desc": "The Commission's preliminary findings present a categorically false and entirely meritless depiction of our platform, and we will take whatever steps are necessary to challenge these findings through every means available to us, TikTok said in a statement",
-    "img": "https://th-i.thgim.com/public/incoming/42p7zk/article70599957.ece/alternates/LANDSCAPE_1200/2026-01-28T010904Z_1855977076_RC2RPGA9XE79_RTRMADP_3_USA-TIKTOK.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/eu-accuses-tiktok-of-addictive-design-seeks-changes-to-protect-users/article70599921.ece",
-    "time": "2026-02-06T11:49:14.000Z"
   }
 ];
