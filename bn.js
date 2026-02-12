@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "'মানাতে না পারলে চলে যান, দরজা খোলা'! কতজনকে দরজা দেখাচ্ছে গুগল? নতুন বছরে হঠাৎ বড় কী ঘটল?",
+    "desc": "গুগল তাদের ব্যবসায়িক কৌশলে AI-কে সর্বোচ্চ গুরুত্ব দিচ্ছে। এর সঙ্গে যারা মানাতে পারছে না, গুগল তাদের দরজা দেখিয়ে দিচ্ছে। যেসব কর্মী এই পরিবর্তনের সঙ্গে তাল মেলাতে পারছেন না, বা যাঁরা এই বদল নিয়ে সন্তুষ্ট নন, তাঁদের জন্য তারা 'ভলান্টারি এক্সিট প্যাকেজ' আনছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/google-lay-off-google-offers-voluntary-exit-packages-to-employees-not-embracing-ai-google_641047.html ",
+    "time": "2026-02-12T12:02:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "রাজপালের মতো জেলে যাননি, তবে 'অভাবের তাড়নায়' অন্যদের কাছে হাত পাততে হয়েছে অনেক জনপ্রিয় বলিউড নায়কদের! তালিকা দেখলে চমকে উঠবেন",
+    "desc": "বলিউডের চকচকে দুনিয়া৷ এরই মধ্যে এমন অনেকে রয়েছেন যাঁদের ভাঁড়ে মা ভবানী হাল! তবে মুখ ফুটে বলার জো নেই৷ কারণ তাতে তাঁদের মান সম্মান জলে যাবে৷ তবে অর্থকষ্টে নিজেরা জ্বলে পুড়ে মরছেন৷ কেউ কেউ সেই দুঃসময় কাটিয়ে উঠেছেন আবার কেই তলিয়ে গেছে অতলে৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Web-2026-02-12T165257.835-2026-02-21bf3d4c5dfbfc1b200faaab3a4c26c0-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/not-only-rajpal-yadav-many-bollywood-superstar-actors-had-financial-crisis-went-bankrupt-struggled-for-money-pbd-2537091.html",
+    "time": "2026-02-12T11:25:17.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "দিল্লির মাটিতে জোড়া সাফল্য! কিকবক্সিংয়ে রুপো ও ব্রোঞ্জ শিলিগুড়ির মেয়ের",
     "desc": "শিলিগুড়ির মেয়ে শ্রেয়া বসাক আবারও আন্তর্জাতিক মঞ্চে ওড়াল দিলেন সাফল্যের পতাকা। গত ৪ থেকে ৮ ফেব্রুয়ারি নয়াদিল্লির কেডি যাদব ইনডোর স্টেডিয়ামে অনুষ্ঠিত পঞ্চম ওপেন ইন্ডিয়া ইন্টারন্যাশনাল কিকবক্সিং কাপে ভারতের হয়ে প্রতিনিধিত্ব করে দুটি পদক জিতলেন তিনি।",
@@ -223,15 +241,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/pakistan-do-you-know-how-much-10-grams-of-gold-costs-in-pakistan-you-will-be-shocked-to-hear-the-answer-for-sure-you-will-never-can-guess-it-sanj-2534249.html",
     "time": "2026-02-10T16:03:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "রক্তচোষা খুদে পিশাচের খপ্পরে পড়ে বেঘোরে শেষ হয়ে গেল ১২ বছরের লক্ষ্মীপ্রিয়া! পুরীতে প্রলয়ঙ্কর কাণ্ড...",
-    "desc": "মাথার উকুন কি মানুষের মৃত্যু ঘটাতে পারে (Can Head Lice Kill)? এখন এই প্রশ্নই ঘুরে বেড়াচ্ছে ঘরে-ঘরে। কেননা, পুরীতে ঘটেছে ঠিক এমন ঘটনাই। দীর্ঘ উকুন সংক্রমণের ফলে সৃষ্ট জটিলতার শিকার হয়ে এক কিশোরীর মৃত্যু হয়েছে সেখানে। নাম তার লক্ষ্মীপ্রিয়া সাহু।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/head-lice-kill-girl-deadliest-head-lice-severe-infestation-led-to-odisha-girls-death-can-head-lice-kill-prolonged-lice-infestation-infection-sepsis-anemia_640530.html ",
-    "time": "2026-02-10T11:06:58.000Z"
   },
   {
     "cat": "Sports",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/west-bengal/coal-scam-case-ed-conducting-raids-at-12-locations-across-the-state-in-connection-with-the-coal-smuggling-case-several-influential-businessmen-are-under-scrutiny-sanj-2524324.html",
     "time": "2026-02-03T08:07:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "দু’বেলা অরিজিতের বাড়িতে খানা-পিনা আমিরের, থাকছে মূলত পাঞ্জাবি খাবার, মেনু দেখুন",
-    "desc": "অরিজিতের বাড়িতে সময় কাটাতে চেয়েছেন তিনি। খবর, অত্যন্ত গোপনে কলকাতা থেকে সড়ক পথে জিয়াগঞ্জে পৌঁছেছেন আমির। ঘরোয়া আবহে এই মুহূর্তে চলছে খাওয়া-দাওয়া, আড্ডা। তবে আমিরের উপস্থিতি সত্ত্বেও কোনও অতিরিক্ত নিরাপত্তার ব্যবস্থা করা হয়নি গায়কের বাড়িতে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/HYP_5741879_cropped_03022026_102910_inshot_20260203_102419752__2-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/aamir-khan-ate-punjabi-food-for-dinner-at-arijit-singh-house-listened-to-his-songs-l18-pbd-local18-2524128.html",
-    "time": "2026-02-03T07:42:59.000Z"
   }
 ];

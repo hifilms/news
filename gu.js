@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "વંદે માતરમ માટે નવો પ્રોટોકોલ, ઊભા ન રહેવા પર શું જેલ થઈ શકે? જાણો ધરપકડ અને સજાના નિયમો",
+    "desc": "હાલમાં જ કેન્દ્રીય ગૃહ મંત્રાલયે વંદે માતરમને લઈ અપડેટેડ ગાઈડલાઈન જાહેર કરી છે. ચાલો જાણીએ કે, શું છે આ નવી ગાઈડલાઈન અને જો આ ગાઈડલાઈનનું પાલન ન કરવામાં આવે તો શું જેલ થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/vande-mataram-new-protocol-guidelines-punishment-rules-explained-464715 ",
+    "time": "2026-02-12T11:15:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "બજાર ખુલતા જ તૂટ્યું સોનું, ચાંદી પણ પછડાઈ, હજુ પણ ઓલટાઈમ હાઈથી ખુબ જ સસ્તા, જાણો લેટેસ્ટ રેટ",
+    "desc": "સોનું અને ચાંદી આજે પણ ભારે ઉથલપાથલમાં જોવા મળી રહ્યા છે. અચાનક ઉતાર ચડાવના કારણે ખરીદનારાઓ પણ અસમજંસમાં છે. વાયદા બજારમાં આજે સોનું ફરી ગગડ્યું છે. વૈશ્વિક બજારમાં પણ સોનું-ચાંદી પછડાયેલા જોવા મળ્યા. જાણો ભારતીય વાયદા બજારમાં આજે શું સ્થિતિ છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-silver-fell-as-soon-as-the-market-opened-still-much-cheaper-than-all-time-high-know-the-latest-rate-mcx-464668 ",
+    "time": "2026-02-12T10:23:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "અફઘાન ક્રિકેટરને આ હરકત પડી ગઈ મોંઘી, ICCએ ફટકારી સજા",
+    "desc": "T20 વર્લ્ડ કપ 2026માં બુધવારે રમાયેલી મેચમાં ડબલ સુપર ઓવર છતાં અફઘાનિસ્તાન દક્ષિણ આફ્રિકા સામે હારી ગયું હતું. હાર બાદ ICCએ હવે અફઘાનિસ્તાનને વધુ એક મોટો ઝટકો આપ્યો છે. ICCએ મોહમ્મદ નબીને તેની એક ભૂલની સજા ફટકારી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/icc-imposes-heavy-fine-on-afghan-cricketer-mohammad-nabi-for-arguing-with-umpire-464702 ",
+    "time": "2026-02-12T09:56:45.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "એવું કયું પક્ષી છે, જે ક્યારેય ઉડી શકતું નથી ? એક ક્લિકમાં જાણી લો જવાબ",
     "desc": "જનરલ નોલેજ એ સૌથી મહત્વપૂર્ણ વિષયોમાંનો એક છે. તે આપણા બધા માટે જરૂરી છે. સ્પર્ધાત્મક પરીક્ષાઓમાં જનરલ નોલેજના પ્રશ્નો વારંવાર પૂછવામાં આવે છે. ત્યારે આજે અમે તમારા માટે આવા જ કેટલાક પ્રશ્નો અને જવાબો લઈને આવ્યા છીએ.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -52,15 +79,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/ahmedabad-plane-crash-latest-update-italian-daily-corriere-della-sera-report-about-investigation-finding-464672 ",
     "time": "2026-02-12T05:09:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "બજાર ખુલતા જ તૂટ્યું સોનું, ચાંદી પણ પછડાઈ, હજુ પણ ઓલટાઈમ હાઈથી ખુબ જ સસ્તા, જાણો લેટેસ્ટ રેટ",
-    "desc": "સોનું અને ચાંદી આજે પણ ભારે ઉથલપાથલમાં જોવા મળી રહ્યા છે. અચાનક ઉતાર ચડાવના કારણે ખરીદનારાઓ પણ અસમજંસમાં છે. વાયદા બજારમાં આજે સોનું ફરી ગગડ્યું છે. વૈશ્વિક બજારમાં પણ સોનું-ચાંદી પછડાયેલા જોવા મળ્યા. જાણો ભારતીય વાયદા બજારમાં આજે શું સ્થિતિ છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-silver-fell-as-soon-as-the-market-opened-still-much-cheaper-than-all-time-high-know-the-latest-rate-mcx-464668 ",
-    "time": "2026-02-12T04:18:10.000Z"
   },
   {
     "cat": "World",
@@ -396,15 +414,6 @@ const newsData_gu = [
     "time": "2026-02-10T06:11:49.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ICCનો એક માસ્ટરસ્ટ્રોક...અને પાકિસ્તાન ઘૂંટણિયે પડ્યું, બધી શરતો હવાઈ ગઈ, ભારત સામે મેચ રમવા તૈયાર થઈ ગયું",
-    "desc": "ખુબ નાટક કર્યા બાદ હવે પાકિસ્તાન યુટર્ન મારવા માટે મજબૂર બની ગયું અને 15મી ફેબ્રુઆરીએ કોલંબોમાં ભારત સામે ટી20 વર્લ્ડ કપની લીગ મેચ રમવા માટે તૈયાર થઈ ગયું. કોઈ શરતો સ્વીકારવામાં ન આવી છતાં પાકિસ્તાન હવે ભારત સામે મેચ રમશે. ત્યારે એ પ્રશ્ન થાય કે આખરે એવું તે શું થયું કે બધી શરતો હવાઈ ગઈ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/masterstroke-by-icc-pakistan-fell-to-its-knees-and-ready-to-play-a-match-against-india-t20-world-cup-464471 ",
-    "time": "2026-02-10T06:03:04.000Z"
-  },
-  {
     "cat": "Business",
     "title": "સોના-ચાંદી ફરી પાછા ધડામ થયા, ભાવ ઘટીને કેટલો થઈ ગયો? ફટાફટ જાણો લેટેસ્ટ રેટ",
     "desc": "સોનું અને ચાંદી ભારે ઉતારચડાવ સાથે જોવા મળી રહ્યા છે. સોમવારે તેજી જોવા મળ્યા બાદ હવે આજે વળી પાછી સોના અને ચાંદીમાં નરમાઈ જોવા મળી રહી છે. ભાવમાં ઘટાડો જોવા મળ્યો છે. જાણો આજનો લેટેસ્ટ રેટ.",
@@ -466,24 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/did-trade-deal-cause-rift-in-friendship-will-india-not-buy-oil-from-russia-check-piyush-goyal-statement-464374 ",
     "time": "2026-02-09T03:18:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "તેજ પ્રતાપ યાદવે RJDમાં 5 જયચંદના નામનો કર્યો ખુલાસો, અનુષ્કા સાથેના રિલેશનને ગણાવ્યું કાવતરું",
-    "desc": "RJD અને લાલુ પરિવારમાંથી હાંકી કાઢવામાં આવ્યા બાદ જનશક્તિ જનતા દળ નામની નવી પાર્ટી બનાવનાર તેજ પ્રતાપ યાદવે 5 જયચંદના નામ જાહેર કર્યા છે. સાથે જ તેમણે અનુષ્કા યાદવ સાથેના તેમના કથિત રિલેશનની વાતને પણ નકારી કાઢી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/tej-pratap-yadav-exposes-5-jaychands-denies-relation-with-anushka-yadav-464369 ",
-    "time": "2026-02-08T17:17:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "પગારદાર વર્ગ માટે ખુશખબર! સરકાર HRAના નિયમોમાં કરશે મોટો ફેરફાર, અમદાવાદ સહિત આ શહેરોમાં વધશે ઇન-હેન્ડ સેલેરી",
-    "desc": "મોંઘા ભાડા અને વધતા શહેરી ખર્ચ વચ્ચે પગારદાર વર્ગ (Salary Class) માટે રાહતના સમાચાર આવ્યા છે. કેન્દ્ર સરકાર હાઉસ રેન્ટ અલાઉન્સ (HRA) સાથે જોડાયેલા નિયમોમાં મહત્વપૂર્ણ ફેરફાર કરવાની તૈયારી કરી રહી છે. જો આ પ્રસ્તાવ લાગુ થશે, તો દેશના ઘણા મોટા શહેરોમાં રહેતા કર્મચારીઓનો ઈન-હેન્ડ સેલેરી સીધી વધી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/govt-to-change-hra-rules-salary-hike-ahmedabad-bengaluru-tax-relief-464366 ",
-    "time": "2026-02-08T15:07:24.000Z"
   },
   {
     "cat": "World",

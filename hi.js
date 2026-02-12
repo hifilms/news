@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Italy register historic first win in T20 World Cup, Mosca brothers decimate Nepal in Mumbai",
+    "desc": "Game 17 of the ongoing T20 World Cup 2026 saw Nepal taking on Italy. The two sides locked horns at the Wankhede Stadium in Mumbai on February 12. The clash began with Nepal coming in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/italy-register-historic-first-win-in-t20-world-cup-mosca-brothers-decimate-nepal-in-mumbai-2026-02-12-1030009",
+    "time": "2026-02-12T12:10:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma reaches Delhi before India take on Namibia",
+    "desc": "After a narrow win over the United States of America (USA) in the opening night, India now move to their second game against Namibia on February 12 at the Arun Jaitley Stadium in New Delhi....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nam-live-cricket-score-online-updates-today-match-between-india-namibia-t20-world-cup-2026-at-arun-jaitley-stadium-1030007",
+    "time": "2026-02-12T12:04:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Thomas Tuchel extends contract with England, exits race to become next Manchester United coach",
+    "desc": "Thomas Tuchel has extended his contract as England manager through to Euro 2028. The German coach had initially signed a deal in January 2025 that was set to run until the 2026 World Cup, but...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/thomas-tuchel-extends-contract-with-england-exits-race-to-become-next-manchester-united-coach-2026-02-12-1030000",
+    "time": "2026-02-12T11:22:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch World Cup 2026 clash?",
+    "desc": "The 18th game of the ongoing T20 World Cup 2026 sees the defending champions, team India, taking on Namibia. The two sides take on each other at the Arun Jaitley Stadium in Delhi on February...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nam-t20-world-cup-2026-live-streaming-details-when-and-where-to-watch-world-cup-2026-clash-2026-02-12-1029995",
+    "time": "2026-02-12T10:56:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Italy script history, defeat Nepal by 10 wickets",
+    "desc": "The stage is set for game 17 of the ongoing T20 World Cup 2026. Nepal and Italy take on each other at the Wankhede Stadium in Mumbai. It is worth noting that both Nepal and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nep-vs-ita-live-cricket-score-nepal-lock-horns-with-italy-in-hopes-of-maiden-victory-2026-02-12-1029978",
+    "time": "2026-02-12T09:55:42.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Oman's Mohammad Nadeem scripts history with half-century against Sri Lanka in T20 World Cup 2026",
     "desc": "The 16th game of the ongoing T20 World Cup 2026 saw Sri Lanka taking on Oman. The two sides locked horns at the Pallekele International Cricket Stadium on February 12. The clash began with Sri...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-nam-pitch-report-how-will-surface-at-arun-jaitley-stadium-play-for-t20-world-cup-2026-match-18-2026-02-12-1029927",
     "time": "2026-02-12T04:45:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rain to play spoilsport in IND vs PAK T20 World Cup clash? Here's Colombo weather forecast on February 15",
-    "desc": "India are scheduled to face Namibia today at the Arun Jaitley Stadium in New Delhi in the ongoing T20 World Cup. However, all eyes are on the marquee India vs Pakistan clash that is set...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rain-to-play-spoilsport-in-ind-vs-pak-t20-world-cup-clash-here-s-colombo-weather-forecast-on-february-15-2026-02-12-1029913",
-    "time": "2026-02-12T03:24:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Thank God': England captain Harry Brook's intriguing reaction after losing to West Indies goes viral",
-    "desc": "England went down to the West Indies in the 15th match of the T20 World Cup on Wednesday at the Wankhede Stadium in Mumbai. They failed to chase down 197 runs and lost the game...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/thank-god-england-captain-harry-brook-s-intriguing-reaction-after-losing-to-west-indies-goes-viral-2026-02-12-1029908",
-    "time": "2026-02-12T02:49:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Don't know why': Namibia captain questions scheduling after being denied night practice ahead of India clash",
-    "desc": "Namibia captain Gerhard Erasmus is left perplexed with the training schedule ahead of his team's game against India in the T20 World Cup. The two teams are set to face each other today at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/don-t-know-why-namibia-captain-questions-scheduling-after-being-denied-night-practice-ahead-of-india-clash-2026-02-12-1029902",
-    "time": "2026-02-12T01:54:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 World Cup points table update after West Indies beat England by 30 runs",
-    "desc": "West Indies defeated England in the 15th match of the ongoing T20 World Cup at the Wankhede Stadium in Mumbai. The Caribbean side defended the target of 197 runs as they bundled England out for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-points-table-update-after-west-indies-beat-england-by-30-runs-2026-02-11-1029886",
-    "time": "2026-02-11T18:07:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Comparing most expensive players from T20 leagues ahead of 2026 season",
-    "desc": "The first-ever Pakistan Super League (PSL) auction took place today in Lahore. As many as eight teams bid on the players they wished to sign for the upcoming season, from their PKR 50.5 crore (INR...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/psl-vs-ipl-auction-comparing-most-expensive-players-from-t20-leagues-ahead-of-2026-season-2026-02-11-1029876",
-    "time": "2026-02-11T17:00:42.000Z"
   }
 ];
