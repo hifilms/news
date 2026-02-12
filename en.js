@@ -1,6 +1,159 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Allu Arjun's 'Lucky' wave hits Kerala",
+    "desc": "The Racer' in Kerala) went viral after a college screening. Students celebrated the entertainer, prompting fans to demand re-releases of his older hits. Meanwhile, his 2006 film 'Happy' is set for a 4K Dolby Atmos re-release.",
+    "img": "https://static.toiimg.com/photo/msid-128232492,imgsize-21624.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/lucky-allu-arjun-wave-hits-kerala-college-students-celebrate-mallu-arjuns-film/articleshow/128232492.cms",
+    "time": "2026-02-12T01:27:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "RGV recalls underworld’s impact on Bollywood in the 90s",
+    "desc": "Filmmaker Ram Gopal Varma weighed in on the recent firing outside Rohit Shetty's home, questioning the attack's origins and the Lawrence Bishnoi Gang's claims. Varma recalled the widespread underworld threats faced by Bollywood in the 90s, contrasting it with the current situation and the gang's public pronouncements.",
+    "img": "https://static.toiimg.com/photo/msid-128232507,imgsize-21766.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-rohit-shettys-shooting-incident-ram-gopal-varma-recalls-the-impact-of-the-underworld-in-bollywood-in-the-90s-they-tried-to-kill-producer-manmohan-shetty/articleshow/128232510.cms",
+    "time": "2026-02-12T01:24:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Note was sent using VPN",
+    "desc": "Mumbai Police are investigating a voice note extortion threat sent to actor Ranveer Singh via WhatsApp, reportedly using a VPN. Security has been enhanced for the actor. This follows similar threats to Aayush Sharma and recent gunshots outside Rohit Shetty's residence, highlighting a concerning trend of intimidation tactics targeting Bollywood personalities.",
+    "img": "https://static.toiimg.com/photo/msid-128232232,imgsize-61274.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-extortion-threat-update-officials-say-voice-note-to-dhurandhar-star-was-sent-using-vpn/articleshow/128232232.cms",
+    "time": "2026-02-12T01:17:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Dawson Creek’ co-stars remember late James Van Der Beek",
+    "desc": "Beloved 'Dawson Creek' star James Van Der Beek has passed away at 48 after a private battle with cancer. His family announced the news, sharing his courageous fight. Co-stars like Busy Philipps, Kerr Smith, and Chad Michael Murray have since shared heartfelt tributes, remembering his inspiring presence and humanity. The actor's family requests privacy during this difficult time.",
+    "img": "https://static.toiimg.com/photo/msid-128232059,imgsize-28050.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-van-der-beek-passes-away-at-48-dawson-creek-co-stars-kerr-smith-busy-philipps-and-more-share-tributes/articleshow/128232059.cms",
+    "time": "2026-02-12T01:09:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka Chopra's 'Citadel' to END after Season 2?",
+    "desc": "Priyanka Chopra confirmed a second season for the Amazon spy series 'Citadel', though the franchise's broader future remains uncertain. Despite a hefty USD 300 million budget for its first season, the show faced criticism. Meanwhile, Chopra's new film 'The Bluff' is set for a February 25th release.",
+    "img": "https://static.toiimg.com/photo/msid-128231372,imgsize-35634.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/priyanka-chopras-citadel-to-end-after-season-2-actress-shares-update-on-spy-series/articleshow/128231255.cms",
+    "time": "2026-02-12T01:06:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Municipal polling peaceful across the State, counting tomorrow",
+    "desc": "According to the State Election Commission sources, 73.01% of votes were polled. It is worth noting that the Gram Panchayat (rural local bodies) elections held in December 2025 recorded a voter turnout of over 85%",
+    "img": "https://th-i.thgim.com/public/incoming/2830ec/article70620898.ece/alternates/LANDSCAPE_1200/2248_11_2_2026_19_26_26_2_WHATSAPPIMAGE2026_02_11AT105036AM.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/municipal-polling-peaceful-across-the-state-counting-tomorrow/article70620804.ece",
+    "time": "2026-02-12T00:57:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mardaani 3' inches closer to Rs 60 cr globally on Day 13",
+    "desc": "While 'Mardaani 3' dives deep into the critical issue of girl child trafficking, it has faced hurdles at the box office, not captivating audiences like its earlier installments. By Day 13, it garnered Rs 1.10 crore, elevating its total earnings to Rs 39.80 crore. Although it's edging closer to the Rs 50 crore mark domestically, its global take stands at Rs 58.9 crore.",
+    "img": "https://static.toiimg.com/photo/msid-128231391,imgsize-35290.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mardaani-3-box-office-collection-day-13-and-day-14-live-rani-mukerjis-cop-drama-inches-closer-to-rs-60-crore-worldwide/articleshow/128231391.cms",
+    "time": "2026-02-12T00:38:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Border 2' beats Rs 432 crore mark globally on Day 20",
+    "desc": "'Border 2', which kicked off with an impressive bang during the Republic Day celebrations, is now seeing a decline in its box office draw as it enters week three. Despite the stirring performance of Sunny Deol and a hefty total of Rs 316 crore in India, totaling Rs 432.1 crore globally, recent ticket sales reflect a waning interest among audiences.",
+    "img": "https://static.toiimg.com/photo/msid-128230810,imgsize-25174.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-20-and-day-21-live-sunny-deol-and-varun-dhawan-starrer-races-beyond-rs-432-crore-mark-worldwide/articleshow/128230810.cms",
+    "time": "2026-02-12T00:12:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bumrah yorker hits Ishan, Sanju Samson on standby for Abhishek",
+    "desc": "Jasprit Bumrah showed good form in training, boosting hopes for his return against Namibia. Ishan Kishan faced a brief scare after being hit by a Bumrah yorker but resumed batting. Sanju Samson is in contention if Abhishek Sharma's stomach infection persists. Washington Sundar also trained well. The team is preparing for the Pakistan clash.",
+    "img": "https://static.toiimg.com/photo/msid-128216261,imgsize-193166.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jasprit-bumrah-yorker-hits-ishan-kishan-sanju-samson-on-standby-for-abhishek-sharma/articleshow/128216333.cms",
+    "time": "2026-02-11T23:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Blake-Justin end Day 1 with 'NO SETTLEMENT'",
+    "desc": "Settlement talks between Blake Lively and Justin Baldoni in their $550 million lawsuit have failed. The 'It Ends With Us' co-stars were in court Wednesday, but no agreement was reached. Baldoni's attorney confirmed no settlement, stating the case is likely heading to a summer trial, with a jury trial currently scheduled for May 18.",
+    "img": "https://static.toiimg.com/photo/msid-128228861,imgsize-47176.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/blake-lively-and-justin-baldoni-end-day-1-with-no-settlement-in-usd-550-million-lawsuit-case-will-move-forward/articleshow/128227890.cms",
+    "time": "2026-02-11T23:02:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "NOT 'Don 3', Priyanka eyeing 'James Bond' role",
+    "desc": "Priyanka Chopra Jonas has fueled speculation about a potential role in the next James Bond film, hinting at a \"truly global\" direction for the franchise. This follows her coy responses regarding a possible return to the 'Don' and 'Krrish' series. Amazon MGM's acquisition and Denis Villeneuve's directorial involvement in the upcoming Bond installment are also noted.",
+    "img": "https://static.toiimg.com/photo/msid-128227307,imgsize-21746.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-sparks-buzz-about-james-bond-casting-amid-don-3-chatter-it-could-be-truly-global-now/articleshow/128225938.cms",
+    "time": "2026-02-11T22:17:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Udit Narayan’s first wife accuses him of removing her uterus",
+    "desc": "Popular Bollywood playback singer Udit Narayan has once again landed in controversy after his first wife, Ranjana, filed a complaint at the Women’s Police Station in Bihar’s Supaul, alleging that her uterus was removed without her knowledge under the pretext of medical treatment.",
+    "img": "https://static.toiimg.com/photo/msid-128227123,imgsize-59788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/udit-narayans-first-wife-ranjana-files-complaint-accuses-him-of-removing-her-uterus-without-her-consent-under-the-pretext-of-medical-treatment/articleshow/128226815.cms",
+    "time": "2026-02-11T22:15:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajpal Yadav was 20 when first wife died during childbirth",
+    "desc": "Rajpal Yadav, who is known for making the country laugh with his impeccable comic timing, once opened up about a deeply personal tragedy from his early life. In a throwback interview with The Lallantop, the actor revealed that he lost his first wife when he was just 20 years old.",
+    "img": "https://static.toiimg.com/photo/msid-128226319,imgsize-51980.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-was-20-when-first-wife-karuna-died-during-childbirth-second-wife-radha-raised-daughter-as-her-own/articleshow/128226170.cms",
+    "time": "2026-02-11T21:49:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "James Van Der Beek dies after battle with colorectal cancer",
+    "desc": "US actor James Van Der Beek, the star of the American TV series \"Dawson's Creek,\" died on Wednesday at age 48 after a battle with colorectal cancer. While he also had roles in the films \"Varsity Blues\" and \"The Rules of Attraction,\" Van Der Beek never truly established himself in cinema as he struggled to separate himself from the legacy of \"Dawson's Creek.\"",
+    "img": "https://static.toiimg.com/photo/msid-128225673,imgsize-32622.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-van-der-beek-star-of-dawsons-creek-passes-away-at-48-after-battle-with-colorectal-cancer/articleshow/128225092.cms",
+    "time": "2026-02-11T21:27:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Education Ministry pushes for AI-led teaching and learning at all levels by next academic year",
+    "desc": "Union Education Minister Dharmendra Pradhan met with leaders of 10 leading start-ups using AI in the ed-tech sector at a roundtable discussion in IIT Delhi, ahead of the government’s Bharat Bodhan AI Conclave starting December 11",
+    "img": "https://th-i.thgim.com/public/incoming/4fl00t/article70621274.ece/alternates/LANDSCAPE_1200/Critical-thinkiGFJFEA1A4.6.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/by-next-academic-year-government-wants-ai-to-become-part-of-teaching-learning-at-all-levels-of-education/article70621052.ece",
+    "time": "2026-02-11T20:50:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Trade impact, memorials among issues raised in Rajya Sabha",
+    "desc": "In the Rajya Sabha, members demanded curbs on Korean mobile games, right to recall elected representatives, and Constitutional status to the National Commission for Minorities. They also discussed the impact of the India-U.S. trade deal on soybean farmers in Madhya Pradesh.",
+    "img": "https://th-i.thgim.com/public/news/national/4cubnv/article70621064.ece/alternates/LANDSCAPE_1200/Rajya%20Sabha.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/build-memorial-for-bengal-revolutionaries-who-never-wrote-mercy-petitions-trinamool-congress-mp/article70620734.ece",
+    "time": "2026-02-11T20:49:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Was it fair to invoke UAPA, Supreme Court asks NIA",
+    "desc": "Supreme Court orders the NIA to file a status report in the Calcutta High Court in a sealed cover after or during its probe on whether there is prima facie material for a case under the UAPA or not",
+    "img": "https://th-i.thgim.com/public/incoming/273i4f/article70620683.ece/alternates/LANDSCAPE_1200/PTI02_04_2026_000279B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/beldanga-violence-case-every-emotional-outburst-cannot-be-packaged-as-affecting-economic-security-supreme-court-tells-nia/article70620195.ece",
+    "time": "2026-02-11T20:45:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "PC admits being hurt by conspiracy theories around marriage",
     "desc": "Priyanka Chopra has once again addressed the persistent conspiracy theories surrounding her marriage to Nick Jonas. In a recent conversation, the actress spoke about the speculation, the age-gap chatter, and marrying within six months of meeting — making it clear that the outside noise no longer affects her.",
     "img": "https://static.toiimg.com/photo/msid-128224445,imgsize-44778.cms",
@@ -46,15 +199,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Moment of truth for India as Bangladesh votes; Hasina, resurgent Jamaat add to uncertainty",
-    "desc": "Bangladesh votes Thursday in an election with significant implications for India. With Sheikh Hasina out, India hopes the frontrunner BNP can reset ties, despite historical friction. A tight contest is expected between the BNP alliance and a bloc led by Jamaat-e-Islami. India also eyes a constitutional referendum and key security concerns, including insurgent groups and Chinese influence.",
-    "img": "https://static.toiimg.com/photo/msid-128222529,imgsize-846388.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/moment-of-truth-for-india-as-bangladesh-votes-hasina-resurgent-jamaat-add-to-uncertainty/articleshow/128222452.cms",
-    "time": "2026-02-11T19:10:59.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Karnataka High Court defers cross-examination of witnesses in murder case to prevent exposure of defence strategy",
     "desc": "In a ruling reinforcing fair trial rights of the accused persons in criminal cases, the Karnataka High Court has directed a trial court to defer cross-examination of a prime witness in a murder case till the examination of remaining witnesses ‘to prevent exposure of the defence strategy that may enable other witnesses to tailor their testimony’",
     "img": "https://th-i.thgim.com/public/incoming/rx7agj/article70621327.ece/alternates/LANDSCAPE_1200/No-bar-on-movinGFAFIHMDA.1.jpg.jpg",
@@ -82,48 +226,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "By next academic year, government wants AI to become part of teaching-learning at all levels of education",
-    "desc": "Union Education Minister Dharmendra Pradhan met with leaders of 10 leading start-ups using AI in the ed-tech sector at a roundtable discussion in IIT Delhi, ahead of the government’s Bharat Bodhan AI Conclave starting December 11",
-    "img": "https://th-i.thgim.com/public/incoming/4fl00t/article70621274.ece/alternates/LANDSCAPE_1200/Critical-thinkiGFJFEA1A4.6.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/by-next-academic-year-government-wants-ai-to-become-part-of-teaching-learning-at-all-levels-of-education/article70621052.ece",
-    "time": "2026-02-11T17:43:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman Khan's BIL Aayush Sharma receives threat email",
-    "desc": "Days after Ranveer Singh reportedly received a threatening WhatsApp voice note, actor Aayush Sharma has now allegedly received a threat email. Aayush, who is married to Salman Khan’s sister Arpita Khan, was sent the message via email, reportedly from someone claiming links to the Lawrence Bishnoi gang.",
-    "img": "https://static.toiimg.com/photo/msid-128219113,imgsize-34700.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-brother-in-law-aayush-sharma-receives-threat-email-after-ranveer-singhs-extortion-case/articleshow/128218993.cms",
-    "time": "2026-02-11T17:40:04.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "19 vacancies in National Medical Commission, govt admits in Rajya Sabha",
     "desc": "Within the Commission itself, out of 33 sanctioned posts — comprising the Chairman, ex-officio members and part-time members — 28 are in position. The Secretary’s post is filled. However, vacancies are more visible across the autonomous boards responsible for regulating undergraduate and postgraduate medical education, medical assessment and accreditation, and ethics and medical registration.",
     "img": "https://static.toiimg.com/photo/msid-128218739,imgsize-97004.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/19-vacancies-in-national-medical-commission-govt-admits-in-rajya-sabha/articleshow/128218775.cms",
     "time": "2026-02-11T17:30:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by George Clooney",
-    "desc": "Hollywood superstar George Clooney, admired for his intellect and allure, advocates that real education comes from our missteps, not our victories. He points to his 1997 experience with 'Batman & Robin' as a crucial chapter that informed his growth and discipline in the industry.",
-    "img": "https://static.toiimg.com/photo/msid-128198899,imgsize-1018401.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-george-clooney-you-dont-learn-from-succeeding-you-learn-from-failing/articleshow/128198899.cms",
-    "time": "2026-02-11T17:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Rajpal Yadav will repay every single rupee,’ says his friend",
-    "desc": "Rajpal Yadav has found himself embroiled in a cheque bounce case linked to his 2012 directorial venture Ata Pata Laapata. The case, reportedly stemming from unpaid debts accumulated during the film’s prolonged and financially strained production, has brought renewed focus on the ambitious project that failed at the box office.",
-    "img": "https://static.toiimg.com/photo/msid-128218314,imgsize-38512.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadavs-cheque-bounce-case-his-intentions-are-absolutely-clean-he-will-repay-every-single-rupee-says-his-long-time-friend/articleshow/128218150.cms",
-    "time": "2026-02-11T17:19:58.000Z"
   },
   {
     "cat": "Politics",
@@ -153,15 +261,6 @@ const newsData_en = [
     "time": "2026-02-11T16:35:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Trinamool Congress MP",
-    "desc": "In the Rajya Sabha, members demanded curbs on Korean mobile games, right to recall elected representatives, and Constitutional status to the National Commission for Minorities. They also discussed the impact of the India-U.S. trade deal on soybean farmers in Madhya Pradesh.",
-    "img": "https://th-i.thgim.com/public/news/national/4cubnv/article70621064.ece/alternates/LANDSCAPE_1200/Rajya%20Sabha.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/build-memorial-for-bengal-revolutionaries-who-never-wrote-mercy-petitions-trinamool-congress-mp/article70620734.ece",
-    "time": "2026-02-11T16:23:35.000Z"
-  },
-  {
     "cat": "World",
     "title": "Grassroots workers of Awami League blame top Ministers, former General Secretary for downfall of party",
     "desc": "The workers say many of the Ministers and individuals who formed the coterie around Ms. Hasina lacked popularity and acceptance within the party. Businessmen brought to the party by former general secretary Obaidul Quader promoted interests of their businesses, they charge",
@@ -189,15 +288,6 @@ const newsData_en = [
     "time": "2026-02-11T15:52:29.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ranbir’s Valentine note for Alia, a sweet memory",
-    "desc": "At a recent promotional gathering, Ranbir Kapoor's emotional Valentine's Day tribute to his beloved wife Alia Bhatt and their adorable daughter Raha captured hearts online. His message, brimming with affection and yearning while he's on the road, quickly gained traction, leading Alia to reshare the touching clip with the sweet remark calling him the 'cutest human ever.",
-    "img": "https://static.toiimg.com/photo/msid-128214924,imgsize-21720.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-ranbir-kapoors-valentines-day-message-to-alia-bhatt-and-raha-said-i-love-you-girls-and-i-miss-you/articleshow/128214924.cms",
-    "time": "2026-02-11T15:51:06.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Delhi CM disburses education aid to 15,700 workers' children",
     "desc": "Delhi Chief Minister Rekha Gupta disbursed financial aid to 15,700 construction workers' children, totaling Rs 12.40 crore, to support their education. This initiative, marking the BJP government's first anniversary, offers monthly assistance ranging from Rs 500 to Rs 10,000 based on educational levels. The government also highlighted other welfare schemes and development projects.",
@@ -205,24 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/delhi-cm-disburses-education-aid-to-15700-workers-children/articleshow/128214527.cms",
     "time": "2026-02-11T15:45:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rani’s airport saree look viral as 'Mardaani 3' hits 38cr",
-    "desc": "Rani Mukerji's stunning airport saree, embodying grace and sophistication, struck a chord with her fans as she marked the triumphant journey of Mardaani 3. The film's powerful narrative, addressing the vital issue of 93 missing girls, has already amassed over Rs 38 crore at the box office. Despite fierce competition, Mukerji's ability to resonate with audiences highlights her timeless allure.",
-    "img": "https://static.toiimg.com/photo/msid-128214666,imgsize-43304.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rani-mukerjis-airport-saree-look-goes-viral-amid-mardaani-3-crossing-rs-38-crore/articleshow/128214666.cms",
-    "time": "2026-02-11T15:44:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nick Jonas says Hindi film music inspires him",
-    "desc": "During a lively conversation, Nick Jonas shed light on his profound love for Hindi film music, emphasizing its captivating mix of rhythmic tunes and immersive storytelling. He finds joy in how songs elevate film scenes to iconic status. In addition, he revealed that Priyanka Chopra is on the verge of finishing a thrilling major project with the esteemed filmmaker S.",
-    "img": "https://static.toiimg.com/photo/msid-128214348,imgsize-38268.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/nick-jonas-praises-hindi-film-music-and-calls-it-a-huge-inspiration-ive-just-opened-up-my-mind/articleshow/128214348.cms",
-    "time": "2026-02-11T15:37:25.000Z"
   },
   {
     "cat": "Politics",
@@ -243,15 +315,6 @@ const newsData_en = [
     "time": "2026-02-11T15:37:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mrunal Thakur calls body-shaming Bipasha Basu her ‘mistake’",
-    "desc": "Mrunal Thakur has addressed the resurfaced video in which she was seen body-shaming Bipasha Basu, calling it a mistake and admitting that she has learned from the experience. The Lust Stories 2 actress said she now understands the weight of her words and believes growth comes from accepting one’s errors.",
-    "img": "https://static.toiimg.com/photo/msid-128214378,imgsize-41322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mrunal-thakur-calls-body-shaming-bipasha-basu-her-mistake-i-didnt-realise-until-i-walked-that-route/articleshow/128214143.cms",
-    "time": "2026-02-11T15:35:38.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "CPM scrambles to pacify Satchidanandan after backlash",
     "desc": "After the meeting, Khader and Charuvil sought to underplay the row. According to them, Satchidanandan clarified that he was making a general observation and wasn’t referring specifically to the situation in Kerala. They said Satchidanandan also alleged that media had distorted some of his remarks. Satchidanandan said he stood by his statement on the dangers of returning a party to power repeatedly.",
@@ -259,24 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/kerala-poll-jitters-cpm-scrambles-to-pacify-satchidanandan-after-backlash/articleshow/128214048.cms",
     "time": "2026-02-11T15:31:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Zayn Malik on fatherhood, skips spotlight",
-    "desc": "On the latest episode of the 'Call Her Daddy' podcast, Zayn Malik shared his heartfelt thoughts on being a father, the liberation he found after lengthy romantic connections, and his reluctance to engage in public displays of relationships. He discussed his initial fears about parenting and openly reflected on his relationship blunders.",
-    "img": "https://static.toiimg.com/photo/msid-128214102,imgsize-37344.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/zayn-malik-gets-candid-about-becoming-a-dad-and-avoiding-public-romance-im-not-doing-things-for-other-peoples-approval/articleshow/128214102.cms",
-    "time": "2026-02-11T15:29:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Top 5 South stories of the day",
-    "desc": "Allu Arjun's team issued a legal warning against fake fan rules. Shiva Rajkumar praised Rajinikanth and SJ Suryah on set. Kenishaa Francis' heartfelt birthday post for Ravi Mohan went viral. Director P T Kunju Muhammed faces a sexual assault chargesheet. Anil Ravipudi denied ongoing film project rumors, promising official updates soon.",
-    "img": "https://static.toiimg.com/photo/msid-128214059,imgsize-42996.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/allu-arjuns-legal-warning-kenishaa-francis-praises-ravi-mohan-p-t-kunju-muhammed-chargesheet-case-top-5-south-stories-of-the-day/articleshow/128214059.cms",
-    "time": "2026-02-11T15:27:35.000Z"
   },
   {
     "cat": "Sports",
@@ -288,33 +333,6 @@ const newsData_en = [
     "time": "2026-02-11T15:23:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Every emotional outburst cannot be packaged as affecting economic security, Supreme Court tells NIA",
-    "desc": "Supreme Court orders the NIA to file a status report in the Calcutta High Court in a sealed cover after or during its probe on whether there is prima facie material for a case under the UAPA or not",
-    "img": "https://th-i.thgim.com/public/incoming/273i4f/article70620683.ece/alternates/LANDSCAPE_1200/PTI02_04_2026_000279B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/beldanga-violence-case-every-emotional-outburst-cannot-be-packaged-as-affecting-economic-security-supreme-court-tells-nia/article70620195.ece",
-    "time": "2026-02-11T14:59:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'D55' cast and crew salary details",
-    "desc": "Dhanush's upcoming film D55 is making waves with staggering salaries for its cast and crew. Dhanush himself is reportedly earning Rs 45 crore, while Sai Pallavi and Sreeleela are set to receive Rs 12 crore and Rs 3 crore respectively. Director Rajkumar Periyasamy is said to be paid Rs 15 crore.",
-    "img": "https://static.toiimg.com/photo/msid-128212663,imgsize-86512.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/d55-cast-and-crew-salary-dhanush-sai-pallavi-and-sreeleelas-fees-revealed-mammootty-takes-a-major-stand/articleshow/128212663.cms",
-    "time": "2026-02-11T14:47:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajpal Yadav's wife breaks silence on getting help from the industry",
-    "desc": "Actor-comedian Rajpal Yadav surrendered to Tihar Jail over cheque-bounce cases totaling nearly ₹9 crore. His wife, Radha, revealed the film fraternity, including Sonu Sood, Guru Randhawa, and Mika Singh, has rallied behind him, offering financial and moral support. Several prominent industry figures have also reached out, promising assistance.",
-    "img": "https://static.toiimg.com/photo/msid-128212602,imgsize-51656.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadavs-wife-radha-yadav-breaks-silence-on-his-debt-case-receiving-help-from-the-industry-everyone-has-stood-by-him/articleshow/128212599.cms",
-    "time": "2026-02-11T14:45:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "T20 World Cup",
     "desc": "If Ellis (4/12 in 3.5 overs) blew away the top-order, leg-spinner Adam Zampa (4/23 in 4 overs) polished off the middle and lower-order with Ireland innings ending at 115 for 9 in 16.5 overs in pursuit of a challenging score of 183",
@@ -322,24 +340,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/australia-vs-ireland-t20-world-cup-colombo-february-11/article70619095.ece",
     "time": "2026-02-11T14:14:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mika Singh offers Rs 11 lakh help to Rajpal Yadav",
-    "desc": "Actor Rajpal Yadav has surrendered at Tihar Jail over a Rs 9 crore debt and cheque bounce case. The film industry has rallied to support him, with Mika Singh pledging Rs 11 lakh, joining others like Sonu Sood and Salman Khan. Yadav is serving a six-month sentence stemming from a 2010 loan for his directorial debut.",
-    "img": "https://static.toiimg.com/photo/msid-128211320,imgsize-20584.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mika-singh-offers-rs-11-lakh-help-to-rajpal-yadav-in-rs-9-crore-debt-case-after-celebs-like-salman-khan-ajay-devgn-sonu-sood-come-in-support/articleshow/128211302.cms",
-    "time": "2026-02-11T14:11:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Outlander finale promises satisfying ending",
-    "desc": "The journey of 'Outlander' reaches its poignant conclusion with Season 8, sending viewers on an emotional rollercoaster as we say goodbye to the legendary romance of Claire and Jamie. Though the literary saga carries on, the creators promise a conclusion that honors the series' legacy and resolves long-standing questions.",
-    "img": "https://static.toiimg.com/photo/msid-128211164,imgsize-90394.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/outlander-producers-promise-satisfying-ending-while-books-from-diana-gabaldon-continue/articleshow/128211164.cms",
-    "time": "2026-02-11T14:09:45.000Z"
   },
   {
     "cat": "Sports",
@@ -358,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/indian-diaspora-among-uks-most-successful-groups-report-links-migration-to-post-war-recovery-tech-growth/articleshow/128208996.cms",
     "time": "2026-02-11T14:06:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Let us do it together': Rahul Gandhi cuts in as minister Ashwini Vaishnaw speaks",
-    "desc": "Rahul Gandhi accused the Centre of \"selling out Bharat Mata\" and compromising India's energy security and farmers' interests through an interim trade deal with the US. He alleged the deal amounted to a \"wholesale surrender,\" with the US dictating India's oil purchases and monitoring its finances. Gandhi's claims were met with objections from treasury bench MPs.",
-    "img": "https://static.toiimg.com/photo/msid-128210261,imgsize-1893658.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/let-us-do-it-together-rahul-gandhi-cuts-in-as-minister-ashwini-vaishnaw-speaks-watch/articleshow/128210292.cms",
-    "time": "2026-02-11T13:45:34.000Z"
   },
   {
     "cat": "Sports",
@@ -414,15 +405,6 @@ const newsData_en = [
     "time": "2026-02-11T12:31:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ryan Gosling and Eva Mendes combined net worth 2026",
-    "desc": "Hollywood power couple Ryan Gosling and Eva Mendes have amassed an impressive combined net worth nearing $100 million by 2026. Their fortune stems from blockbuster acting roles, lucrative endorsements, successful business ventures, and shrewd real estate investments, all while maintaining a famously private family life.",
-    "img": "https://static.toiimg.com/photo/msid-128198332,imgsize-92898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ryan-gosling-and-eva-mendes-combined-net-worth-inside-the-couples-usd-90-million-financial-empire/articleshow/128198310.cms",
-    "time": "2026-02-11T12:30:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "What happened to Abhishek Sharma on the eve of the USA fixture",
     "desc": "TimesofIndia.com has learnt that on February 6, after a net session at the Wankhede Stadium, Abhishek ate something in Mumbai that caused an upset stomach. On matchday, his condition worsened, but the batter decided to carry on and play the game.",
@@ -430,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/what-happened-to-abhishek-sharma-on-the-eve-of-the-usa-fixture/articleshow/128203651.cms",
     "time": "2026-02-11T12:25:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Met Epstein 3-4 times': Harpdeep Puri sets record straight after Rahul Gandhi's charge in Lok Sabha",
-    "desc": "\"I want to remind you that today, during the Parliament session, my name was mentioned in the context of some developments elsewhere—the Epstein files. I just want to share some information... I want to clarify that these facts are all public,\" Puri said at a press conference. Puri said the meetings took place before he joined the Union Cabinet in 2017 and are already in the public domain.",
-    "img": "https://static.toiimg.com/photo/msid-128215621,imgsize-37668.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/met-epstein-3-4-times-harpdeep-puri-sets-record-straight-after-rahul-gandhis-charge-in-lok-sabha/articleshow/128204848.cms",
-    "time": "2026-02-11T12:10:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -558,15 +531,6 @@ const newsData_en = [
     "time": "2026-02-11T08:47:29.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Salman, Ajay and others come out to help Rajpal Yadav",
-    "desc": "Actor Rajpal Yadav surrendered to Tihar jail in a Rs 9 crore cheque bounce case. Following his emotional plea about financial struggles, several Bollywood personalities, including Salman Khan, Ajay Devgn, and Varun Dhawan, have stepped forward to help clear his debt. His manager expressed optimism for his release soon, with a bail hearing scheduled for tomorrow.",
-    "img": "https://static.toiimg.com/photo/msid-128197068,imgsize-28626.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-ajay-devgn-varun-dhawan-come-out-in-support-of-rajpal-yadav-to-clear-his-debt-after-he-surrenders-to-tihar-jail-reveals-his-manager/articleshow/128196754.cms",
-    "time": "2026-02-11T08:21:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Why only bowlers?’ Ashwin defends Pakistan spinner as action debate explodes",
     "desc": "Pakistan spinner Usman Tariq's unique bowling action has reignited debate after a match-winning performance on Tuesday. While critics question his technique, veteran Indian spinner Ravichandran Ashwin defended bowlers, highlighting perceived double standards in cricket's rules compared to batting. Tariq maintains his action is natural, having been cleared by the ICC previously.",
@@ -585,15 +549,6 @@ const newsData_en = [
     "time": "2026-02-11T07:13:46.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Here’s who qualifies",
-    "desc": "The United Arab Emirates Ministry of Finance has introduced a new corporate tax exemption for non-commercial sports organisations. This policy aims to boost the UAE's sports sector and strengthen its global standing. Qualifying entities must be officially recognised and strictly non-commercial. The move is expected to encourage investment and growth within the sports ecosystem, supporting talent development and international partnerships.",
-    "img": "https://static.toiimg.com/photo/msid-128192468,imgsize-86986.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-drops-corporate-tax-for-sports-bodies-under-new-law-heres-who-qualifies/articleshow/128189920.cms",
-    "time": "2026-02-11T06:42:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘We are Pak, we do things differently’: Salman Agha hails team’s bold approach",
     "desc": "Pakistan captain Salman Ali Agha expressed confidence after their T20 World Cup win, stating the team's unique identity is their strength. He highlighted the improved middle-order batting and faith in their bowling attack to defend targets, even modest ones. Agha also noted the batting order's flexibility and the need for improvement in powerplay bowling.",
@@ -610,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-sri-lanka-call-up-dushan-hemantha-after-wanindu-hasaranga-injury-blow/articleshow/128191468.cms",
     "time": "2026-02-11T06:10:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Will the gold price rally sustain? Here’s the outlook",
-    "desc": "Gold prices are extending their rally this week, and remain well supported in the long term, says Maneesh Sharma, AVP - Commodities & Currencies, Anand Rathi Shares and Stock Brokers. The expert lists out the top factors that will decide direction of gold prices in the coming days:",
-    "img": "https://static.toiimg.com/photo/msid-128191168,imgsize-88012.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-india-where-is-gold-silver-rate-headed-on-february-11-2026-mcx-gold-futures-outlook/articleshow/128191114.cms",
-    "time": "2026-02-11T06:04:05.000Z"
   },
   {
     "cat": "Sports",
@@ -682,15 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/a-reckoning-for-indias-aviation-sector/article70615160.ece",
     "time": "2026-02-11T03:12:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma hospitalised ahead of clash vs Namibia",
-    "desc": "Abhishek Sharma has been hospitalised with an infection, casting doubt on his availability for India's next T20 World Cup match. He was unwell before the previous game, with his condition worsening after playing. The left-hander didn't train with the team at the Arun Jaitley Stadium on Tuesday. India will take on Namibia on Thursday.",
-    "img": "https://static.toiimg.com/photo/msid-128176149,imgsize-42816.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/abhishek-sharma-hospitalised-ahead-of-t20-world-cup-clash-vs-namibia/articleshow/128176092.cms",
-    "time": "2026-02-10T21:11:42.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +835,68 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/jc-the-university-movie-review-surya-prakhyath-daali-dhananjaya-crime-thriller-brilliant-start-loses-momentum/article70603907.ece",
     "time": "2026-02-08T08:50:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "I-T dept releases draft rules, forms for new Income Tax Act; seeks public inputs",
+    "desc": "Along with the new draft rules and forms, two navigators – one providing the mapping of the old rules and the new draft rules and the second providing the mapping of the old forms and the new draft forms is also provided for the guidance of stakeholders and the public",
+    "img": "https://th-i.thgim.com/public/incoming/7lgwvf/article70604952.ece/alternates/LANDSCAPE_1200/iStock-487999971.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/budget/i-t-dept-releases-draft-rules-forms-for-new-income-tax-act-seeks-public-inputs/article70604846.ece",
+    "time": "2026-02-07T16:08:58.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Odisha CM launches ambitious economic regional plan BCPPER",
+    "desc": "The BCPPER’s economy stands at $22.4 billion and is targeted to take it to $500 billion by 2047; it has proposed to create a special economic zone (SEZ) for education, innovation city, and logistics hub",
+    "img": "https://th-i.thgim.com/public/news/fg56bt/article70604168.ece/alternates/LANDSCAPE_1200/HAizLr5b0AAEicS.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/odisha/odisha-cm-launches-ambitious-economic-regional-plan-bcpper/article70603827.ece",
+    "time": "2026-02-07T13:27:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "South Korean Crypto firm accidentally sends $44 billion in bitcoins to users",
+    "desc": "The exchange had planned to distribute small cash rewards of 2,000 Korean won ($1.37) or ‌more to each user ‌as part of a promotional event, but winners received at ‍least 2,000 bitcoins each instead, says media reports",
+    "img": "https://th-i.thgim.com/public/news/national/au0pfo/article70603473.ece/alternates/LANDSCAPE_1200/iStock-1440241076.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/south-korean-crypto-firm-accidentally-sends-44-billion-in-bitcoins-to-users/article70603416.ece",
+    "time": "2026-02-07T09:47:50.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Centre lays down eligibility criteriafor ‘deep tech’ start-ups in country",
+    "desc": "According to a gazette notification by the Department for Promotion of Industry and Internal Trade, a deep tech startup is primarily concerned with producing a solution based on new knowledge/advancements in a scientific or engineering discipline",
+    "img": "https://th-i.thgim.com/public/incoming/o2jua8/article70600106.ece/alternates/LANDSCAPE_1200/BL17_Think_data_center.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/centre-expands-definition-for-startups-with-official-term-for-deep-tech-companies/article70599087.ece",
+    "time": "2026-02-06T20:41:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Elton John accuses U.K. tabloids publisher of 'abhorrent' privacy breaches",
+    "desc": "I have found The Mail's deliberate invasion into my medical health and medical details surrounding the birth of our son Zachary abhorrent and outside even the most basic standards of human decency, Elton John wrote in a witness statement.",
+    "img": "https://th-i.thgim.com/public/incoming/jyzpe5/article70600826.ece/alternates/LANDSCAPE_1200/2026-02-06T115742Z_702179009_RC2E5DA1YMT4_RTRMADP_3_BRITAIN-COURT-HARRY-FURNISH.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/elton-john-accuses-uk-tabloids-publisher-of-abhorrent-privacy-breaches/article70600789.ece",
+    "time": "2026-02-06T14:29:52.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "EU accuses TikTok of 'addictive design,' seeks changes to protect users",
+    "desc": "The Commission's preliminary findings present a categorically false and entirely meritless depiction of our platform, and we will take whatever steps are necessary to challenge these findings through every means available to us, TikTok said in a statement",
+    "img": "https://th-i.thgim.com/public/incoming/42p7zk/article70599957.ece/alternates/LANDSCAPE_1200/2026-01-28T010904Z_1855977076_RC2RPGA9XE79_RTRMADP_3_USA-TIKTOK.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/eu-accuses-tiktok-of-addictive-design-seeks-changes-to-protect-users/article70599921.ece",
+    "time": "2026-02-06T11:49:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Soundarya Rajinikanth on ‘Kochadaiyaan’, and her latest release ‘With Love’",
+    "desc": "Soundarya Rajinikanth returns to Tamil cinema as a producer with With Love, starring Abishan Jeevinth and Anaswara Rajan. In an interview with ‘The Hindu’ for the ‘This Changed my Life’ podcast, she chats about her comeback, why she took a long break and what she plans to do now. She also revisits Kochadaiyaan, her 2014 animation film starring her father and Tamil superstar, Rajinikanth",
+    "img": "https://th-i.thgim.com/public/incoming/7cxh1c/article70599180.ece/alternates/LANDSCAPE_1200/Soundarya-Rajinikanth-Thumbnail.jpg.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-soundarya-rajinikanth-on-kochadaiyaan-and-her-latest-release-with-love/article70599160.ece",
+    "time": "2026-02-06T09:17:33.000Z"
   }
 ];

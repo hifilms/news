@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Don't know why': Namibia captain questions scheduling after being denied night practice ahead of India clash",
+    "desc": "Namibia captain Gerhard Erasmus is left perplexed with the training schedule ahead of his team's game against India in the T20 World Cup. The two teams are set to face each other today at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/don-t-know-why-namibia-captain-questions-scheduling-after-being-denied-night-practice-ahead-of-india-clash-2026-02-12-1029902",
+    "time": "2026-02-12T01:54:04.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "T20 World Cup points table update after West Indies beat England by 30 runs",
     "desc": "West Indies defeated England in the 15th match of the ongoing T20 World Cup at the Wankhede Stadium in Mumbai. The Caribbean side defended the target of 197 runs as they bundled England out for...",
     "img": "",
@@ -70,14 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/two-super-overs-south-africa-beat-afghanistan-in-one-of-t20-classics-in-ahmedabad-2026-02-11-1029809",
     "time": "2026-02-11T09:47:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Steve Smith added as reserve player after Mitchell Marsh ruled out of Australia's T20 World Cup opener",
-    "desc": "Australia suffered a major setback ahead of their T20 World Cup opener against Ireland. Earlier, veterans Pat Cummins and Josh Hazlewood were ruled out of the competition and now, their captain Mitchell Marsh has been...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/steve-smith-added-as-reserve-player-after-marsh-ruled-out-of-australia-s-t20-world-cup-opener-2026-02-11-1029803",
-    "time": "2026-02-11T09:13:56.000Z"
   }
 ];
