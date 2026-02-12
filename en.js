@@ -1,5 +1,95 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Over 73% of MoUs converted into investments in T.N., says Stalin",
+    "desc": "This data is for those who have been questioning us over the conversion of MoUs, the Chief Minister says at the Conversion Conclave 2026 in Chennai. Industries Minister T.R.B. Rajaa highlights the government’s achievements in a presentation",
+    "img": "https://th-i.thgim.com/public/incoming/3hyzns/article70625473.ece/alternates/LANDSCAPE_1200/DSC_0100.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/over-73-of-mous-converted-into-investments-in-tn-says-stalin/article70624492.ece",
+    "time": "2026-02-12T21:09:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ram Charan-Upasana name their twins Shivram and Anveera Devi",
+    "desc": "Ram Charan and Upasana, who welcomed their twins on January 31, recently hosted a traditional Naamkaran ceremony attended by close friends and family. For the couple, choosing names for their children was not just ceremonial but emotional and rooted in faith and family legacy.",
+    "img": "https://static.toiimg.com/photo/msid-128275741,imgsize-56532.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ram-charan-says-naming-twins-shivram-and-anveera-devi-was-a-deeply-personal-and-spiritual-decision-upasana-calls-second-time-motherhood-calmer-and-more-conscious/articleshow/128275673.cms",
+    "time": "2026-02-12T20:56:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "T20 World Cup",
+    "desc": "Drawn into the “Group of Death” alongside three top-10 teams — New Zealand, South Africa and Afghanistan — both the UAE and Canada face the daunting and unlikely task of making the Super Eight stage",
+    "img": "https://th-i.thgim.com/public/incoming/pom2bm/article70625849.ece/alternates/LANDSCAPE_1200/AP02_09_2026_000501B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-canada-uae-aim-to-bounce-back/article70625823.ece",
+    "time": "2026-02-12T20:29:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mona recalls father losing his foot in the 1971 India-Pak war",
+    "desc": "Mona Singh, who plays Sunny Deol’s wife in Border 2, revealed that the project holds a deeply personal significance for her. Referring to the 1971 India-Pakistan war — the backdrop of the film — Mona said the script of Border 2 “chose” her. She explained that the emotional pull was immediate and undeniable.",
+    "img": "https://static.toiimg.com/photo/msid-128274813,imgsize-55582.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mona-singh-says-border-2-script-chose-her-recalls-father-losing-his-foot-in-the-1971-india-pakistan-war-i-am-a-faujis-daughter/articleshow/128274721.cms",
+    "time": "2026-02-12T20:07:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Giving 2.20 lakh digital title deeds in unrecognised habitations in two years is a record for Karnataka, says Revenue Minister",
+    "desc": "As the government is gearing up to provide digital title deeds for properties of over 1.1 lakh families in unrecognised habitations in Karnataka, on February 14 in Haveri, it is set to create a record of sorts",
+    "img": "https://th-i.thgim.com/public/incoming/3ly7hw/article70625798.ece/alternates/LANDSCAPE_1200/Karnataka-introGHLFIRU49.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/giving-220-lakh-digital-title-deeds-in-unrecognised-habitations-in-two-years-is-a-record-for-karnataka-says-revenue-minister/article70624903.ece",
+    "time": "2026-02-12T19:17:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka High Court directs State government to set up Municipal Trust Property Management System to protect public properties",
+    "desc": "Pointing out that public properties controlled by various municipalities are not maintained and protected as mandated by law, the High Court of Karnataka directed the State government to set up and operationalise a Municipal Trust Property Management System, as a single source of truth for all such properties across the State and assign a Trust Property Identification Number",
+    "img": "https://th-i.thgim.com/public/incoming/p9hlsi/article70625797.ece/alternates/LANDSCAPE_1200/IMG_BG_HIGH_COURT_2020_1_1_SCFISO97.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-directs-state-government-to-set-up-municipal-trust-property-management-system-to-protect-public-properties/article70624402.ece",
+    "time": "2026-02-12T19:16:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No plan to set up women’s panel as NCW has J&amp;K cell: Omar govt",
+    "desc": "Jammu and Kashmir government informed the assembly it has no plans for a separate women's commission, citing the National Commission for Women's dedicated \"J&K and Ladakh Cell.\" This decision drew criticism from Sajad Lone, who questioned the delay in reconstituting the commission, a move approved in 2022. Over 5,000 cases were pending when the previous commission was dissolved.",
+    "img": "https://static.toiimg.com/photo/msid-128273463,imgsize-28502.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-plan-to-set-up-womens-panel-as-ncw-has-jk-cell-omar-govt/articleshow/128273462.cms",
+    "time": "2026-02-12T19:13:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No irregularities in 133 luxury vehicles’ purchase, claims J&amp;K govt",
+    "desc": "Jammu & Kashmir's transport minister has refuted claims of irregularities in the procurement of 133 luxury vehicles for FY 24-25. He stated purchases by departments and PSUs adhered strictly to norms, denying any extra burden on public funds. While admitting some norm relaxations for challenging terrains and operational needs, the minister maintained no deviations occurred.",
+    "img": "https://static.toiimg.com/photo/msid-128273292,imgsize-64644.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-irregularities-in-133-luxury-vehicles-purchase-claims-jk-govt/articleshow/128273255.cms",
+    "time": "2026-02-12T19:08:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre rejects Sixth Schedule, statehood for Ladakh, offers council",
+    "desc": "Ladakh's major political groups, LAB and KDA, were informed by the Centre that neither Sixth Schedule status nor statehood will be granted. Instead, a 'territorial council' model was proposed, which leaders dismissed as a 'farce.' Disagreements arose over the Sixth Schedule's effectiveness and Ladakh's financial viability for statehood.",
+    "img": "https://static.toiimg.com/photo/msid-128273071,imgsize-76162.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/centre-rejects-sixth-schedule-statehood-for-ladakh-offers-council/articleshow/128273026.cms",
+    "time": "2026-02-12T19:02:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bhumi says she felt finished after The Lady Killer debacle",
+    "desc": "Bhumi Pednekar has spoken about one of the most turbulent phases of her career — the release of The Lady Killer (2023), which went on to become one of the biggest box-office disasters in Indian cinema. The actress did not shy away from admitting how deeply the episode affected her.",
+    "img": "https://static.toiimg.com/photo/msid-128272935,imgsize-32854.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bhumi-pednekar-says-she-felt-finished-after-the-lady-killer-debacle-it-was-a-very-heartbreaking-time-in-my-life/articleshow/128272657.cms",
+    "time": "2026-02-12T19:01:34.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "T20 titan Seifert’s ‘Bam Bam’ redemption",
     "desc": "After a dismal 2021 World Cup and heartbreaking absences in 2022 and 2024, the stars are finally aligning for the 31-year-old Kiwi; the dashing wicketkeeper-opener has started his 2026 campaign with two match-winning knocks in Chennai, the city where he had to isolate himself for two weeks after testing positive for Covid during IPL 2021",
@@ -43,15 +133,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/hardik-pandyas-army-style-camp-the-secret-behind-his-explosive-t20-form/articleshow/128268988.cms",
     "time": "2026-02-12T17:24:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "General strike nearly complete in Ernakulam",
-    "desc": "Public transport remained entirely off the roads. Shops, establishments and schools stayed closed, while attendance in offices was severely affected. With hotels and eateries also largely shut, those arriving in the city and nearby towns by train faced considerable hardship throughout the day",
-    "img": "https://th-i.thgim.com/public/incoming/ks5xfn/article70625054.ece/alternates/LANDSCAPE_1200/Strike08.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/general-strike-against-labour-codes-nearly-complete-in-ernakulam/article70624403.ece",
-    "time": "2026-02-12T17:23:51.000Z"
   },
   {
     "cat": "Politics",
@@ -268,24 +349,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/nod-for-logistics-park-bunkering-facility-at-vizhinjam/article70624771.ece",
     "time": "2026-02-12T14:49:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala sees a surge in missing person cases",
-    "desc": "Hundreds of people are going missing in the State annually, leaving their dear ones depressed and puzzled, and the investigators searching for leads. While some may return, others stay unseen, never to return. Mithosh Joseph talks to friends and family members of a few such persons and investigators to get into the core of the complex issue",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/xeuhct/article70624033.ece/alternates/LANDSCAPE_1200/Missing.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/vanished-lives-kerala-sees-a-surge-in-missing-person-cases/article70620947.ece",
-    "time": "2026-02-12T14:45:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Hosur Airport plan rejected – What’s really holding it back?",
-    "desc": "Hosur has emerged as one of South India’s fastest-growing industrial hubs, with rapid expansion in electronics, EVs and aerospace supply chains. While factories, jobs and investments are rising, the industrial town, bordering Bengaluru still lacks an airport. Despite repeated proposals by Tamil Nadu, the project has faced rejections citing defence and airspace restrictions. But is that the full story? What’s really stopping Hosur from taking off?",
-    "img": "https://th-i.thgim.com/public/incoming/wtzud1/article70624600.ece/alternates/LANDSCAPE_1200/Hosur%20Takeoff%20denied.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/shows/watch-hosur-airport-plan-rejected-whats-really-holding-it-back-focus-tamil-nadu/article70624750.ece",
-    "time": "2026-02-12T14:40:23.000Z"
   },
   {
     "cat": "Sports",
@@ -576,24 +639,6 @@ const newsData_en = [
     "time": "2026-02-12T11:43:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Didn't abuse anyone': Priyanka Gandhi rejects Rijiju's claim of Congress MPs misbehaving with Speaker",
-    "desc": "Priyanka Gandhi Vadra has vehemently denied Union minister Kiren Rijiju's claims that she encouraged Congress MPs to misbehave in the Lok Sabha Speaker's chamber. She stated that no one was abused and that she was merely present, expressing her views peacefully. Rijiju had alleged that 20-25 Congress MPs verbally abused the Speaker and threatened the Prime Minister.",
-    "img": "https://static.toiimg.com/photo/msid-128256021,imgsize-1376329.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/didnt-abuse-anyone-priyanka-gandhi-rejects-rijijus-claim-of-congress-mps-misbehaving-with-speaker/articleshow/128253407.cms",
-    "time": "2026-02-12T11:41:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sunny Deol credits Dharmendra's blessings for his comeback",
-    "desc": "Sunny Deol celebrates the success of 'Border 2' after his blockbuster comeback with 'Gadar 2'. At a media event, he credited his late father Dharmendra’s blessings and fans’ love for his renewed success. Sunny also revealed his upcoming projects — Lahore 1947 with Aamir Khan and Gabru, releasing later this year.",
-    "img": "https://static.toiimg.com/photo/msid-128255957,imgsize-51196.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deol-talks-about-being-called-sunny-2-0-credits-dharmendras-blessings-for-his-comeback/articleshow/128255957.cms",
-    "time": "2026-02-12T11:36:21.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Building data centres in India far cheaper than in U.S., drawing global hyperscalers: Raju Vegesna",
     "desc": "When it came to building data centres, India was globally one of the most cost-effective in terms of cost per mega watt, Mr. Vegesna said, during a fireside chat with John Xavier, Tech Editor, The Hindu, as part of The Hindu Tech Summit 2026",
@@ -603,24 +648,6 @@ const newsData_en = [
     "time": "2026-02-12T11:24:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Friends without benefits? Congress pushes back as Stalin terms power-sharing demand in Tamil Nadu a 'conspiracy'",
-    "desc": "Congress MP Manickam Tagore publicly challenged Tamil Nadu Chief Minister MK Stalin's dismissal of power-sharing demands as a \"conspiracy.\" Stalin firmly ruled out sharing governance with allies, asserting the DMK-Congress alliance remains intact. This public spat fuels speculation about the alliance's stability ahead of the 2026 elections.",
-    "img": "https://static.toiimg.com/photo/msid-128254142,imgsize-1040000.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-elections-dmk-congress-friends-without-benefits-congress-pushes-back-as-stalin-terms-power-sharing-demand-a-conspiracy/articleshow/128253924.cms",
-    "time": "2026-02-12T11:01:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Top Gun 3’ script nearly ready: 'There's one last ride'",
-    "desc": "Prepare for the thrill of a lifetime! 'Top Gun 3' is on the fast track, with producer Jerry Bruckheimer announcing that the script is close to the finish line. Tom Cruise is set to reprise his iconic role as Maverick, grappling with a significant existential crisis in what is being referred to as his 'last adventure.",
-    "img": "https://static.toiimg.com/photo/msid-128252804,imgsize-25476.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/top-gun-3-script-nearly-ready-theres-one-last-ride-jerry-bruckheimer-shares-a-promising-update/articleshow/128252804.cms",
-    "time": "2026-02-12T10:33:24.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Unsold in IPL, Steve Smith becomes PSL's costliest signing",
     "desc": "Steve Smith shattered PSL records, becoming the most expensive player at PKR 14 crore for the Sialkot Stallions. The revamped 11th edition features a new auction system and two new franchises. Naseem Shah was the top Pakistani buy, while Babar Azam was retained. The tournament runs March 26-May 3.",
@@ -628,15 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/unsold-in-ipl-steve-smith-becomes-psls-costliest-signing/articleshow/128252550.cms",
     "time": "2026-02-12T10:26:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Season 3 filming set for summer",
-    "desc": "As the hit Apple TV+ series 'Severance' prepares for a thrilling third season, creators Ben Stiller and Dan Erickson are mapping out an ambitious journey that may extend to four seasons. Although production is projected to begin this summer, fans will have to show their patience, as the earliest we might see new episodes is in 2027.",
-    "img": "https://static.toiimg.com/photo/msid-128251480,imgsize-22682.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/severance-season-3-gets-closer-to-filming-as-four-season-run-takes-shape/articleshow/128251480.cms",
-    "time": "2026-02-12T10:13:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -765,15 +783,6 @@ const newsData_en = [
     "time": "2026-02-11T16:12:53.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "T20 World Cup",
-    "desc": "If Ellis (4/12 in 3.5 overs) blew away the top-order, leg-spinner Adam Zampa (4/23 in 4 overs) polished off the middle and lower-order with Ireland innings ending at 115 for 9 in 16.5 overs in pursuit of a challenging score of 183",
-    "img": "https://th-i.thgim.com/public/incoming/fecrz2/article70619127.ece/alternates/LANDSCAPE_1200/Sri_Lanka_Ireland_T20_WCup_Cricket_96704.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/australia-vs-ireland-t20-world-cup-colombo-february-11/article70619095.ece",
-    "time": "2026-02-11T14:14:31.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Budget gives science missions big numbers but core funding gaps persist",
     "desc": "The 2026-27 Union Budget sold science as an engine of growth but leading researchers in India saw familiar gaps; they said that while big-ticket missions and new funds look impressive, basic research, state universities, and core institutes still face stagnant support and uncertain disbursement",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/ghooskhor-pandat-controversy-ghooskhor-pandat-name-change-netflix-to-delhi-high-court/article70615106.ece",
     "time": "2026-02-10T15:23:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chargesheet filed against former Kerala MLA and filmmaker P.T. Kunhi Mohammed",
-    "desc": "Kunhi Mohammed chaired the jury which selected Malayalam films for 30th edition of IFFK in 2025. The police case is that he invited a woman filmmaker to his hotel room on the pretext of discussing IFFK selection process and outraged her modesty",
-    "img": "https://th-i.thgim.com/public/incoming/67qn0y/article70613915.ece/alternates/LANDSCAPE_1200/PT%20Kunju%20Muhammed",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/sexual-assault-case-chargesheet-filed-against-former-kerala-mla-and-filmmakerpt-kunju-muhammed/article70613909.ece",
-    "time": "2026-02-10T13:04:57.000Z"
   }
 ];
