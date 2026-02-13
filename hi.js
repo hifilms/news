@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "ENG vs SCO, Kolkata, weather report: Will rain play spoilsport in T20 World Cup clash?",
+    "desc": "The stage is set for game 23 of the ongoing T20 World Cup 2026; England will be taking on Scotland at the Eden Gardens in Kolkata on February 14. It is worth noting that the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/eng-vs-sco-kolkata-weather-report-will-rain-play-spoilsport-in-t20-world-cup-clash-2026-02-13-1030209",
+    "time": "2026-02-13T18:14:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Declan Rice highlights change in mentality as Arsenal push for Premier League title",
+    "desc": "There is a different edge to Arsenal this season and much of it can be traced to the authority Declan Rice has brought to midfield. As the club pushes again for the Premier League title...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/declan-rice-highlights-change-in-mentality-as-arsenal-push-for-premier-league-title-2026-02-13-1030208",
+    "time": "2026-02-13T18:00:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohammed Kaif discusses possibility of including Sanju Samson in India's playing XI",
+    "desc": "The Indian team has gotten off to a great start to their T20 World Cup 2026 campaign. Having played two games, the Men in Blue have registered two wins in their first two games against...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammed-kaif-discusses-possibility-of-including-sanju-samson-in-india-s-playing-xi-2026-02-13-1030206",
+    "time": "2026-02-13T17:34:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "USA keep Super 8 hopes alive with commanding victory over Netherlands in Chennai",
+    "desc": "On a night when their tournament hopes hung by a thread, the United States produced a performance that will be remembered as a turning point in their campaign. Winless in Group A and staring at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/usa-keep-super-8-hopes-alive-with-commanding-victory-over-netherlands-in-chennai-2026-02-13-1030205",
+    "time": "2026-02-13T17:30:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sunil Gavaskar suggests one major change to India squad for Pakistan game in T20 World Cup 2026",
+    "desc": "Former India captain Sunil Gavaskar has recommended a major change to India’s playing XI for their high-voltage clash against Pakistan at the R Premadasa Stadium on February 15. The veteran believes the Colombo conditions are...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sunil-gavaskar-suggests-one-major-change-to-india-squad-for-pakistan-game-in-t20-world-cup-2026-2026-02-13-1030204",
+    "time": "2026-02-13T17:07:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rain threat looms over India-Pakistan clash in Colombo? Check latest weather update",
+    "desc": "India and Pakistan are all set to take on each other in the ongoing T20 World Cup 2026. The two sides will lock horns in game 27 of the tournament at the R. Premadasa Stadium...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rain-threat-looms-over-india-pakistan-clash-in-colombo-check-latest-weather-update-2026-02-13-1030199",
+    "time": "2026-02-13T15:46:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "UAE's Sohaib Khan credits MS Dhoni's philosophy after playing match-winning knock vs Canada",
     "desc": "Chasing 151 at the Arun Jaitley Stadium in New Delhi, the UAE found themselves in deep trouble at 66/4, as the match began to slip away. However, opener Aryansh Sharma and Shoaib Khan turned the...",
     "img": "",
@@ -19,7 +73,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "USA posts 196 runs in the first innings",
+    "title": "USA defeats Netherlands by 93 runs",
     "desc": "The stage is set for game 21 of the ongoing T20 World Cup 2026. The Netherlands lock horns with the USA here at the MA Chidambaram Stadium in Chennai. It is worth noting that the...",
     "img": "",
     "src": "indiatvnews.com",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-t20i-squad-comparison-abhishek-ishan-vs-ayub-farhan-which-openers-have-better-stats-2026-02-13-1030180",
     "time": "2026-02-13T12:30:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Junaid Siddique's five-for in T20 World Cup puts him in elite list",
-    "desc": "Junaid Siddique stole the spotlight in the T20 World Cup 2026 match against Canada at the Arun Jaitley Stadium, picking up a five-wicket haul to power the United Arab Emirates to a dominant position. His...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/junaid-siddique-s-five-for-in-t20-world-cup-puts-him-in-elite-list-2026-02-13-1030178",
-    "time": "2026-02-13T12:22:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'One thing I want to see': R Ashwin advises team India on ways to tackle Pakistan bowler ahead of WC clash",
-    "desc": "The stage is set for one of the most anticipated games of the ongoing T20 World Cup 2026. The Indian team is all set to take on Pakistan in game 27 of the tournament. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/one-thing-i-want-to-see-r-ashwin-advises-team-india-on-ways-to-tackle-pakistan-bowler-ahead-of-wc-clash-2026-02-13-1030169",
-    "time": "2026-02-13T11:32:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Paul Stirling ruled out of T20 World Cup 2026, Ireland announce injury replacement",
-    "desc": "Ireland’s T20 World Cup campaign has taken a significant hit with captain Paul Stirling ruled out of the remainder of the tournament due to knee ligament damage. The injury occurred during Ireland’s recent outing against...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/paul-stirling-ruled-out-of-t20-world-cup-2026-ireland-announce-injury-replacement-2026-02-13-1030166",
-    "time": "2026-02-13T11:20:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rajasthan Royals name Riyan Parag as new captain ahead of IPL 2026",
-    "desc": "The IPL (Indian Premier League) 2026 season is looming on the horizon, and ahead of the new season of the tournament, Rajasthan Royals came forward and announced all-rounder Riyan Parag as their new permanent captain....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-name-riyan-parag-as-new-captain-ahead-of-ipl-2026-2026-02-13-1030155",
-    "time": "2026-02-13T10:54:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia plan to revisit 2023 ODI World Cup blueprint after shock loss to Zimbabwe in Colombo",
-    "desc": "Zimbabwe produced one of the biggest upsets in T20 World Cup history, as the Sikandar Raza-led side stunned Australia by 23 runs at the R. Premadasa Stadium in Colombo. The victory keeps the Chevrons firmly...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-plan-to-revisit-2023-odi-world-cup-blueprint-after-shock-loss-to-zimbabwe-in-colombo-2026-02-13-1030148",
-    "time": "2026-02-13T10:13:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Zimbabwe upset Australia in T20 World Cup, defend 169 runs to keep Super 8 hopes alive",
-    "desc": "Upsets in the T20 World Cup are becoming far more frequent than in the past. In the 2024 edition, the USA stunned Pakistan, while in 2022, Namibia shocked Sri Lanka and Ireland pulled off a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/zimbabwe-upset-australia-in-t20-world-cup-defend-169-runs-to-keep-super-8-hopes-alive-2026-02-13-1030132",
-    "time": "2026-02-13T09:06:37.000Z"
   }
 ];

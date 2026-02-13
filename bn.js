@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "খিদের বিরুদ্ধে একার লড়াই, স্টেশন চত্বরে ভালোবাসার থালা নিয়ে পৌঁছে অনন্য সাধারণ কাজুলী বিশ্বাস",
+    "desc": "খিদের জ্বালা' কী তা রাস্তার ধারে, ট্রেনলাইন বা রেলস্টেশনের পাশে একমুঠো খাবারের আশায় তাকিয়ে থাকা শতশত মুখ দেখলে বোঝা যায়। খিদের জ্বালা চিরদিনই বড় কষ্টের। সেই সব ক্ষুধার্থের মুখে দুমুঠো খাবার তুলে দেওয়ার দায়িত্ব কাঁধে নিলেন কাজুলী বিশ্বাস।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/ananya-samman-2026-is-awarded-to-social-activist-kajuli-biswas_641178.html ",
+    "time": "2026-02-13T16:00:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "পাঠকের মনে 'হলদে গোলাপে'র সুঘ্রাণ ছড়িয়ে, 'জলের উপর পানির' স্রষ্টা- স্বপ্নময় চক্রবর্তীকে অনন্য সম্মানের মুকুট...",
+    "desc": "কেউ ভোরবেলায় হাসপাতালে ঢোকেন, রাত গভীর করে ফেরেন। কেউ সংস্কৃতির চর্চায় নিজের জীবনটাকেই সঁপে দিয়েছেন। কেউ সমাজের প্রান্তিক মানুষের পাশে দাঁড়িয়ে নিজের স্বাচ্ছন্দ্য ত্যাগ করেছেন। এই সন্ধ্যা তাঁদের নাম উচ্চারণের। এই সন্ধ্যা তাঁদের দীর্ঘ নীরবতার পাশে দাঁড়ানোর।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/swapnamoy-chakraborty-got-the-zee-24-ghanta-ananya-samman-2026-awards-for-his-outstanding-contribution-in-literature_641177.html ",
+    "time": "2026-02-13T15:55:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "আধুনিক খেলনার যুগেও প্রাণ পাচ্ছে মাটির পুতুল! শিল্পকে বাঁচানোর অনন্য সাধারণ লড়াইয়ে সাধন কুমার পালের...",
+    "desc": "আধুনিক খেলনার যুগে কোথাও হারিয়ে গিয়েছে মাটির পুতুলের চর্চা। মাটির পুতুল শুধুমাত্র খেলনা নয়, এটি হল বাংলা সংস্কৃতির এক বড় ও বিশেষ অংশ। ঐতিহ্যের লোকশিল্পকে পুনরুজ্জীবন ও সম্প্রীতির এই অনন্য অবদানের জন্য জি ২৪ ঘণ্টা অনন্য সম্মান ১৪৩২-য়ে অনন্য সাধারণ বিভাগে সম্মানিত শ্রী সাধন কুমার পাল।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/ananya-samman-2026-is-awarded-to-clay-artist-sadhan-kumar-pal_641176.html ",
+    "time": "2026-02-13T15:54:46.000Z"
+  },
+  {
     "cat": "World",
     "title": "বাংলাদেশে বিএনপি ঝড়, কত আসন পেল তারেক রহমানের দল? দেখুন ভিডিও",
     "desc": "বাংলাদেশের সাধারণ নির্বাচনে বিএনপি জোটের জয়জয়কার৷ ২৯৯টির মধ্যে বিএনপি জোট একাই দখল করেছে ২১২টি আসন৷ প্রধান বিরোধীপক্ষ হিসেবে উঠে এসেছে জামাত-ই-ইসলামি৷ জামাত জোট জয়ী হয়েছে ৭৭টি আসনে৷ বাংলাদেশের নতুন প্রধানমন্ত্রী হতে চলেছেন খালেদা জিয়ার পুত্র তারেক রহমান৷ তারেকের প্রত্যাবর্তনই বিএনপি-কে বিপুল সংখ্যাগরিষ্ঠতা নিয়ে ক্ষমতায় ফিরতে সাহায্য করল বলে মনে করছেন রাজনৈতিক বিশ্লেষকরা৷",
@@ -792,15 +819,6 @@ const newsData_bn = [
     "time": "2026-02-05T15:35:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "কলকাতায় সুরের মহামিলন! প্যালেস্টাইন থেকে বাংলার বাউল, ‘সহজ পরব’-এ মাতবে তিলোত্তমা...",
-    "desc": "আগামী ৬,৭,৮ ফেব্রুয়ারী ২০২৬ ভারতীয় জাদুঘর প্রাঙ্গণ ও জি.ডি.বিড়লা সভাঘর -এ অনুষ্ঠিত হতে চলেছে সহজ পরব এর অষ্টম সংস্করণ। প্রাণের শহর কলকাতার সাংস্কৃতিক মানচিত্রে অন্যতম এই 'সহজ পরব'। দোহার এবং লোপামুদ্রা মিত্র প্রোডাকশনের উদ্যোগে আয়োজিত এই উৎসবে প্যালেস্টাইন এর সুরের রেশ থেকে বাংলার কীর্তন, বাউল মণিপুরের নাচ থেকে ,রণপা, মুখোশ ডান্স এই সব মিলে তৈরি করবে এক অসাধারণ ঐকতান।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/sahaj-parab-season-8-folk-festival-kolkata-schedule-artists_639765.html ",
-    "time": "2026-02-05T13:04:50.000Z"
-  },
-  {
     "cat": "Business",
     "title": "অ্যাকাউন্টে ঢুকবে কড়কড়ে ১৫০০ টাকা থেকে ১৭০০ টাকা...! 'লক্ষ্মীর ভাণ্ডার' নিয়ে বিরাট ঘোষণা, কারা পাবেন টাকা? কী ভাবে করবেন আবেদন? জানুন সঠিক নিয়ম!",
     "desc": "লক্ষ্মীর ভাণ্ডারে একধাক্কায় বাড়ানো হল ৫০০টাকা। সেক্ষেত্রে সাধারণ শ্রেণীভুক্ত প্রাপকরা, যাঁরা এতদিন পেতেন ১০০০ টাকা, তাঁরা এবার পাবেন ১৫০০ টাকা। অন্যদিকে তফসিলি জাতি, উপজাতির শ্রেণীভুক্তরা, যাঁরা এতদিন পেতেন ১২০০ টাকা করে, তাঁরা পাবেন মাসে মাসে ১৭০০ টাকা। কবে থেকে পাওয়া যাবে টাকা? কী ভাবে করবেন নতুন করে আবেদন?",
@@ -826,15 +844,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/debolinaa-nandy-latest-post-in-social-media-after-influencer-sayak-park-street-restaurant-controversy-case-ss-2527654.html",
     "time": "2026-02-05T11:47:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "২ দিন ধরে ফ্ল্যাটে আটকে রেখে যৌন নির্যাতন? জনপ্রিয় কন্টেন্ট ক্রিয়েটর শমীকের বিরুদ্ধে FIR...",
-    "desc": "শমীকের বিরুদ্ধে শারীরিক ও যৌন হেনস্তার (Sexual Harassment) অভিযোগ জানিয়ে বেহালা থানায় এফআইআর দায়ের করেছেন তাঁর বান্ধবী। পুলিসি অভিযোগে ওই তরুণী জানিয়েছেন, গত ২ এবং ৩ ফেব্রুয়ারি তাঁকে বেহালার একটি ফ্ল্যাটে জোরপূর্বক আটকে রেখেছিলেন শমীক।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/youtuber-nonsane-shamik-adhikary-sexual-harassment-allegations-fir_639732.html ",
-    "time": "2026-02-05T11:46:37.000Z"
   },
   {
     "cat": "Business",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/west-bengal/west-bengal-budget-2026-stare-interim-budget-to-be-announced-today-from-lakshmir-bhandar-to-much-more-in-focus-know-budget-time-to-other-important-information-sanj-2526686.html",
     "time": "2026-02-05T03:25:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "সুপ্রিম কোর্টে সওয়াল মমতার, মুখ্যমন্ত্রীকে কী বললেন CJI? দেখুন",
-    "desc": "SIR সংঘাতে সুপ্রিম কোর্টে সওয়াল মমতার। সুপ্রিম কোর্টে আইনজীবীর ভূমিকায় মমতা। নিজের করা মামলায় নিজেই সওয়াল মমতার। একটু পরেই প্রধান বিচারপতির বেঞ্চে মামলার শুনানি শুরু হবে। সুপ্রিম কোর্টে পার্টি ইন পার্সন পিটিশন মুখ্যমন্ত্রীর। তৃণমূলের করা পোস্টে আইনজীবীর পোশাকে মমতা। SIR হয়রানি নিয়ে কমিশন ও CEO-র বিরুদ্ধে মামলা।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Mamata-Banerjee-in-Supreme-Court-2026-02-ff953eaedda516f53c495087a209289a-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/mamata-banerjee-in-supreme-court-hearing-today-what-cji-told-rc-2526541.html",
-    "time": "2026-02-04T15:29:47.000Z"
   }
 ];
