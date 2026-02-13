@@ -1,5 +1,131 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "In Dhaka, a new dawn and a gathering storm",
+    "desc": "The Bangladesh Nationalist Party is set to form the government in Dhaka after a landslide victory, but jubilation is also palpable at the Jamaat-e-Islami headquarters, as the party-led alliance has secured 77 seats. As the country prepares for its first elected government since Prime Minister Sheikh Hasina’s ouster in August 2024, the road ahead remains fraught with challenges",
+    "img": "https://th-i.thgim.com/public/incoming/ojx4ha/article70630184.ece/alternates/LANDSCAPE_1200/AFP__20260209__96MX68T__v1__HighRes__BangladeshPoliticsElection.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/bangladesh-bnp-tarique-rahman-sheikh-hasina-jamaat-e-islami-dhaka-new-dawn/article70629852.ece",
+    "time": "2026-02-13T20:44:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Adani Group enters nuclear power sector after SHANTI Act",
+    "desc": "In a notice to the NSE, Adani Power says it has incorporated a wholly owned subsidiary Adani Atomic Energy Ltd; first private player to enter the sector since it was opened up via the SHANTI Act two months ago",
+    "img": "https://th-i.thgim.com/public/incoming/24zmp9/article70629452.ece/alternates/LANDSCAPE_1200/2024-12-19T021633Z_2128045322_RC2N1Z98EDDM_RTRMADP_3_ADANI-GROUP-USA-BANGLADESH.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/adani-group-enters-nuclear-power-sector/article70628957.ece",
+    "time": "2026-02-13T20:32:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court",
+    "desc": "The Bench of Justices P.S. Narasimha and Atul Chandurkar says spectrum is a scarce natural resource owned by the people of India, with legal title vesting exclusively in the Union of India, which holds it in trust for the public",
+    "img": "https://th-i.thgim.com/public/incoming/eozjh/article70629729.ece/alternates/LANDSCAPE_1200/IMG_Suprem_Court_3_1_2MFJ3838.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/telecom-operators-do-not-own-spectrum-cannot-list-the-public-resource-as-an-asset-for-insolvency-or-liquidation-sc/article70629340.ece",
+    "time": "2026-02-13T20:31:56.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Hasina’s presence in India, Ganga waters treaty to be key priorities for BNP government: sources",
+    "desc": "Sources in the Bangladesh Nationalist Party (BNP) say India and Bangladesh have a settled border and ‘it makes no sense to shoot to kill someone’; besides, they add that former PM Sheikh Hasina’s comments on Bangladesh’s internal affairs will pose a challenge to normalisation of ties",
+    "img": "https://th-i.thgim.com/public/incoming/4klta4/article70629949.ece/alternates/LANDSCAPE_1200/APTOPIX_Bangladesh_Election_01976.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/stopping-border-killings-ganga-waters-treaty-renewal-hasinas-presence-in-india-to-be-priority-for-incoming-bnp-government/article70629783.ece",
+    "time": "2026-02-13T20:26:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arundhati Roy withdraws from Berlin Film Festival amid Gaza row",
+    "desc": "Her statement comes after jury president Wim Wenders’ response to a question on Gaza at a press conference, where he stated, “We cannot really enter the field of politics,” calling filmmakers “the counterweight to politics”",
+    "img": "https://th-i.thgim.com/public/incoming/7n3jyx/article70630165.ece/alternates/LANDSCAPE_1200/Arundhati%20Roy%203.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/arundhati-roy-withdraws-from-berlin-film-festival-amid-gaza-row/article70630162.ece",
+    "time": "2026-02-13T20:26:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mrunal says wedding ‘on the cards’ but lays down conditions",
+    "desc": "Mrunal Thakur has revealed that marriage is definitely part of her future plans — but only on her own terms. In a recent interaction with PTI, the actor shared that while a wedding is “on the cards”, she is still waiting for the right person to walk into her life. Her statement comes just days after she dismissed rumours linking her to actor Dhanush.",
+    "img": "https://static.toiimg.com/photo/msid-128321724,imgsize-53316.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mrunal-thakur-says-wedding-on-the-cards-but-lays-down-conditions-i-will-be-the-first-one-to-announce-it/articleshow/128321612.cms",
+    "time": "2026-02-13T19:43:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Udhayanidhi felicitates film artistes, says awards chosen by committee",
+    "desc": "Deputy CM counters criticism over awards; says the awards were not announced for many years together and were now being given on recommendation of a panel headed by ex-judge; A.R. Rahman, Karthi, Dhanush among artistes honoured",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/gy7r8z/article70629870.ece/alternates/LANDSCAPE_1200/Cine%20awards.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-felicitates-film-artistes-says-awards-chosen-by-committee/article70629589.ece",
+    "time": "2026-02-13T19:38:54.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Experts underscore the importance of extracting only relevant data",
+    "desc": "We need to be aware of why a website is seeking a particular piece of data and the purpose. Members of the public should be conscious of the data that they are giving, says A.N. Srinivasan, senior vice-president-IT, SRF Ltd.",
+    "img": "https://th-i.thgim.com/public/incoming/8ybpqw/article70628625.ece/alternates/LANDSCAPE_1200/BVR_8741.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/experts-underscore-the-importance-of-extracting-only-relevant-data/article70628382.ece",
+    "time": "2026-02-13T19:35:16.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "‘Online education is one of the biggest finds of the last decade’",
+    "desc": "There is a lot of discussion on how online education will change and if it will entirely replace physical classroom-based education. But both can co-exist and supplement and complement each other, says Kadhambari S. Viswanathan, assistant vice-president, Vellore Institute of Technology",
+    "img": "https://th-i.thgim.com/public/incoming/ad3gh5/article70628931.ece/alternates/LANDSCAPE_1200/BVR_8582.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/online-education-is-one-of-the-biggest-finds-of-the-last-decade/article70628488.ece",
+    "time": "2026-02-13T19:34:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In a first, space PSU Nsil to distribute pvt firm GalaxEye’s satellite data",
+    "desc": "Bengaluru's GalaxEye has partnered with Nsil, a state-owned space company. Nsil will resell high-resolution OptoSAR data from GalaxEye's upcoming satellites. This collaboration marks the first time Nsil partners with a domestic private firm for satellite data distribution. GalaxEye's first satellite, Drishti, launches soon. The agreement covers the entire planned constellation, enabling Nsil to offer enhanced data services.",
+    "img": "https://static.toiimg.com/photo/msid-128321080,imgsize-938293.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/in-a-first-space-psu-nsil-to-distribute-pvt-firm-galaxeyes-satellite-data/articleshow/128321104.cms",
+    "time": "2026-02-13T19:21:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&amp;K: CM Omar Abdullah gets rare praise from BJP MLAs for Amarnath Yatra fund allocation",
+    "desc": "BJP MLAs lauded Chief Minister Omar Abdullah's Rs 180 crore budget for the Amarnath Yatra, seeing it as a positive sign of Kashmir joining the national mainstream. Despite party criticism on other issues, legislators acknowledged this constructive decision, highlighting a perceived shift in the CM's stance on the pilgrimage, a move they felt deserved appreciation.",
+    "img": "https://static.toiimg.com/photo/msid-128320924,imgsize-781206.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-cm-omar-abdullah-gets-rare-praise-from-bjp-mlas-for-amarnath-yatra-fund-allocation/articleshow/128320933.cms",
+    "time": "2026-02-13T19:16:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Drone-dropped heroin seized in J&amp;K’s Kathua, 2 with Pakistan links held",
+    "desc": "Kathua Police apprehended two individuals linked to a Pakistan-based drone drug smuggling ring. Approximately 150 grams of heroin were seized from the accused, who were reportedly in contact with a Pakistani smuggler via VoIP calls. The drugs were intended for distribution among local youth. Investigations are ongoing to dismantle the entire network.",
+    "img": "https://static.toiimg.com/photo/msid-128320821,imgsize-571803.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/drone-dropped-heroin-seized-in-jks-kathua-2-with-pakistan-links-held/articleshow/128320762.cms",
+    "time": "2026-02-13T19:12:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chief Minister M.K. Stalin inaugurates various projects, lays foundation for multiple museums across Tamil Nadu",
+    "desc": "He also unveils statue of late freedom fighter Theeran Chinnamalai installed in Erode district; inaugurates memorial hall in honour of late Keelapazhuvur Chinnasamy, who sacrificed his life fighting the imposition of Hindi, in Ariyalur district",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/vpusbl/article70630098.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-13%20at%208.06.30%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/chief-minister-mk-stalin-inaugurates-various-projects-lays-foundation-for-multiple-museums-across-tamil-nadu/article70629596.ece",
+    "time": "2026-02-13T19:10:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "254 women complained of sexual harassment at workplace under on govt’s 'SHe-Box' portal in 2025",
+    "desc": "The SHe-Box portal received 254 sexual harassment complaints last year, with 296 filed since its August 2024 revamp. The portal aims to streamline reporting and monitoring of the POSH Act, with 105 of the 296 complaints already disposed of. Over 1,48,700 workplaces have been onboarded, and automated notifications ensure timely complaint resolution.",
+    "img": "https://static.toiimg.com/photo/msid-128320640,imgsize-1382727.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/254-women-complained-of-sexual-harassment-at-workplace-under-on-govts-she-box-portal-in-2025/articleshow/128320583.cms",
+    "time": "2026-02-13T19:06:23.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "After the triumph, the travails: the big step up from the Under-19 stage",
     "desc": "Graduating from age-group cricket to the senior game is fraught with challenges. For India’s all-conquering Under-19 players, the World Cup win — while deserving of rich praise — is not an end in itself. The arduous journey of fulfilling their potential, without losing focus, has just begun",
@@ -43,15 +169,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/telangana/british-dentists-emotional-reunion-with-great%E2%80%90grandfathers-grave-ending-familys-119-year-search/article70628785.ece",
     "time": "2026-02-13T18:01:25.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Stopping ‘border killings’, Ganga waters treaty renewal, Hasina’s presence in India to be priority for incoming BNP government",
-    "desc": "Sources in the Bangladesh Nationalist Party (BNP) say India and Bangladesh have a settled border and ‘it makes no sense to shoot to kill someone’; besides, they add that former PM Sheikh Hasina’s comments on Bangladesh’s internal affairs will pose a challenge to normalisation of ties",
-    "img": "https://th-i.thgim.com/public/incoming/4klta4/article70629949.ece/alternates/LANDSCAPE_1200/APTOPIX_Bangladesh_Election_01976.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/stopping-border-killings-ganga-waters-treaty-renewal-hasinas-presence-in-india-to-be-priority-for-incoming-bnp-government/article70629783.ece",
-    "time": "2026-02-13T17:43:14.000Z"
   },
   {
     "cat": "Politics",
@@ -133,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ayesha-khan-schools-paparazzi-as-they-ask-her-to-turn-around-for-pictures-aap-izzat-bhi-khud-kamayenge-aur-khud-hi-gawayenge/articleshow/128315618.cms",
     "time": "2026-02-13T16:35:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Telecom operators do not own spectrum, cannot list the public resource as an ‘asset’ for insolvency or liquidation: Supreme Court",
-    "desc": "The Bench of Justices P.S. Narasimha and Atul Chandurkar says spectrum is a scarce natural resource owned by the people of India, with legal title vesting exclusively in the Union of India, which holds it in trust for the public",
-    "img": "https://th-i.thgim.com/public/incoming/eozjh/article70629729.ece/alternates/LANDSCAPE_1200/IMG_Suprem_Court_3_1_2MFJ3838.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telecom-operators-do-not-own-spectrum-cannot-list-the-public-resource-as-an-asset-for-insolvency-or-liquidation-sc/article70629340.ece",
-    "time": "2026-02-13T16:17:29.000Z"
   },
   {
     "cat": "Business",
@@ -270,15 +378,6 @@ const newsData_en = [
     "time": "2026-02-13T15:02:27.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "‘Online education is one of the biggest finds of the last decade’",
-    "desc": "There is a lot of discussion on how online education will change and if it will entirely replace physical classroom-based education. But both can co-exist and supplement and complement each other, says Kadhambari S. Viswanathan, assistant vice-president, Vellore Institute of Technology",
-    "img": "https://th-i.thgim.com/public/incoming/ad3gh5/article70628931.ece/alternates/LANDSCAPE_1200/BVR_8582.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/online-education-is-one-of-the-biggest-finds-of-the-last-decade/article70628488.ece",
-    "time": "2026-02-13T14:58:10.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Will rain wash out the IND vs PAK T20 World Cup blockbuster in Colombo?",
     "desc": "Arch-rivals are set for a high-stakes cricket clash in Colombo, with tickets sold out and anticipation at fever pitch. However, a 65 percent chance of scattered thunderstorms on Sunday looms, threatening to disrupt the highly anticipated match and potentially impact the qualification race.",
@@ -313,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ponniyin-selvan-2-copyright-case-supreme-court-asks-ar-rahman-to-acknowledge-dagarwani-tradition-next-hearing-on-february-20/articleshow/128310750.cms",
     "time": "2026-02-13T14:13:32.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Experts underscore the importance of extracting only relevant data",
-    "desc": "We need to be aware of why a website is seeking a particular piece of data and the purpose. Members of the public should be conscious of the data that they are giving, says A.N. Srinivasan, senior vice-president-IT, SRF Ltd.",
-    "img": "https://th-i.thgim.com/public/incoming/8ybpqw/article70628625.ece/alternates/LANDSCAPE_1200/BVR_8741.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/experts-underscore-the-importance-of-extracting-only-relevant-data/article70628382.ece",
-    "time": "2026-02-13T13:58:31.000Z"
   },
   {
     "cat": "Politics",
@@ -460,33 +550,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Rajinikanth beats Vijay’s Rs 220 crore salary record",
-    "desc": "Rajinikanth is set to become Tamil cinema's highest-paid actor again. Reports suggest a record-breaking Rs 225 crore salary for his upcoming film. This deal surpasses Vijay's reported Rs 220 crore remuneration. The movie also marks a reunion with Kamal Haasan. Rajinikanth has a busy schedule with other projects lined up.",
-    "img": "https://static.toiimg.com/photo/msid-128307043,imgsize-41638.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanth-beats-vijays-rs-220-crore-salary-record-becoming-tamil-cinemas-highest-paid-star-again-reports/articleshow/128307043.cms",
-    "time": "2026-02-13T12:42:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Carry own coffin': Death of 37-year-old man at Vijay's rally in Salem triggers fresh political crossfire",
-    "desc": "A 37-year-old man's death at a Tamilaga Vettri Kazhagam rally in Salem has sparked political criticism over crowd safety. The deceased, a heart patient, reportedly collapsed from chest pain. Rival parties, including AIADMK and BJP, questioned the party's arrangements, while the ruling DMK raised concerns about potential fatalities before elections. TVK stated they had advised unwell individuals against attending.",
-    "img": "https://static.toiimg.com/photo/msid-128306468,imgsize-1429404.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/carry-own-coffin-death-of-37-year-old-man-at-vijays-rally-in-salem-triggers-fresh-political-crossfire/articleshow/128306485.cms",
-    "time": "2026-02-13T12:27:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP got 82% of Rs 3,826 crore electoral trust funds disbursed in FY25: Report",
-    "desc": "Electoral trusts disbursed over Rs 3,800 crore to political parties in 2024-25, with the BJP receiving a dominant 82.52%. The Association for Democratic Reforms' report highlights significant contributions from corporates and business houses, while also flagging compliance gaps and urging greater transparency in political funding following the electoral bonds' invalidation.",
-    "img": "https://static.toiimg.com/photo/msid-128305119,imgsize-2412023.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjp-got-82-of-rs-3826-crore-electoral-trust-funds-disbursed-in-fy25-report/articleshow/128305184.cms",
-    "time": "2026-02-13T11:56:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Biennale highlights and must-see parallel shows",
     "desc": "From Tino Sehgal’s charged performance at Pepper House to Shilpa Gupta’s moving sonic installation, Mass Art’s flamboyant Durga Puja and Afra Eisma’s tactile fantasy, here are the most compelling immersive art experiences across Kochi, on till the Kochi-Muziris Biennale ends on March 31",
     "img": "https://th-i.thgim.com/public/life-and-style/fashion/39lgqy/article70627514.ece/alternates/LANDSCAPE_1200/mass%20art.JPEG",
@@ -502,15 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-from-exile-to-power-who-is-bangladeshs-new-prime-minister-tarique-rahman/article70628252.ece",
     "time": "2026-02-13T11:50:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Umar bhar yahi bhool karta raha ... ': Yogi Adityanath turns to Mirza Ghalib in assembly to attack Samajwadi Party",
-    "desc": "Uttar Pradesh Chief Minister Yogi Adityanath countered the Samajwadi Party in the assembly, attributing the state's past image of fear and disorder to previous political cultures. He quoted Mirza Ghalib to criticize attempts to shift blame, emphasizing that governance failures cannot be erased by merely pointing fingers.",
-    "img": "https://static.toiimg.com/photo/msid-128303998,imgsize-34248.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/umar-bhar-yahi-bhool-karta-raha-yogi-adityanath-quotes-mirza-ghalib-in-assembly-to-attack-samajwadi-party-watch/articleshow/128304036.cms",
-    "time": "2026-02-13T11:29:23.000Z"
   },
   {
     "cat": "Business",
@@ -585,15 +639,6 @@ const newsData_en = [
     "time": "2026-02-13T09:42:47.000Z"
   },
   {
-    "cat": "Business",
-    "title": "New labour codes to keep salary hikes stable; IT sector margins tested",
-    "desc": "Despite increased wage bills from new labour codes, most companies won't slash salary hikes. However, some sectors, particularly IT, may see moderated increments. Experts suggest companies are absorbing costs or budgeting separately, with overall salary growth driven by demand and skills, not just compliance. This shift prompts a long-term rethink of workforce and compensation strategies.",
-    "img": "https://static.toiimg.com/photo/msid-128299464,imgsize-1033464.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/new-labour-codes-to-keep-salary-hikes-stable-it-sector-margins-tested/articleshow/128299324.cms",
-    "time": "2026-02-13T09:41:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Shock in Colombo! Zimbabwe stun Australia as Muzarabani, Bennett script T20 WC classic",
     "desc": "Zimbabwe secured a significant upset in the ICC T20 World Cup 2026, defeating Australia by 23 runs. A composed batting effort led by Brian Bennett's unbeaten 64, followed by a dominant bowling display spearheaded by Blessing Muzarabani's 4/17, proved decisive. This victory, their second against Australia in the format, has dramatically opened up Group B.",
@@ -601,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/shock-in-colombo-zimbabwe-stun-australia-by-23-runs-as-muzarabani-bennett-script-t20-world-cup-classic/articleshow/128299362.cms",
     "time": "2026-02-13T09:40:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How much 18K, 22K and 24K gold costs in your city? Check rates",
-    "desc": "Gold futures surged by Rs 1,044 to Rs 1,53,880 per 10 grams on Friday. This rise was fueled by traders establishing fresh positions in response to strong spot market demand. International gold futures also saw an increase, trading at USD 4,962 per ounce.",
-    "img": "https://static.toiimg.com/photo/msid-128299232,imgsize-2467034.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-today-how-much-18k-22k-and-24k-gold-costs-in-your-city-check-rates-for-bengaluru-delhi-more/articleshow/128298243.cms",
-    "time": "2026-02-13T09:35:59.000Z"
   },
   {
     "cat": "Entertainment",
@@ -628,24 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/tarique-rahman-leads-bangladesh-national-party-to-victory-after-20-years/article70627018.ece",
     "time": "2026-02-13T09:34:42.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Going back to dollar? Russia floats US partnership with plans for oil &amp; gas tie-up",
-    "desc": "Russia is reportedly considering a return to dollar settlements as part of potential economic partnerships with a Trump administration, aiming to boost its foreign exchange market. This move, outlined in an internal document, could involve joint ventures in energy, aviation, and raw materials, potentially benefiting American companies and strengthening the greenback's global role.",
-    "img": "https://static.toiimg.com/photo/msid-128297382,imgsize-72812.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/going-back-to-dollar-russia-floats-us-partnership-with-plans-for-oil-gas-tie-up/articleshow/128296276.cms",
-    "time": "2026-02-13T08:45:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Connectivity boost for 'Chicken neck'! Indian Railways announces underground rail route through Siliguri Corridor; check route and key details",
-    "desc": "Indian Railways is constructing a new 35.76 km underground railway line through the Siliguri Corridor, known as the \"Chicken's Neck,\" to enhance secure and reliable connectivity to the Northeast. This strategically vital project, utilizing modern technology, aims to improve defense logistics and disaster response in the region.",
-    "img": "https://static.toiimg.com/photo/msid-128296630,imgsize-2372741.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/infrastructure/connectivity-boost-for-chicken-neck-indian-railways-announces-underground-rail-route-through-siliguri-corridor-check-route-and-key-details/articleshow/128296663.cms",
-    "time": "2026-02-13T08:24:32.000Z"
   },
   {
     "cat": "Sports",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/science/budget-gives-science-missions-big-numbers-but-core-funding-gaps-persist/article70618926.ece",
     "time": "2026-02-11T13:09:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shahid Kapoor confirms ‘Farzi' season 2: The fakers are back at it, says the actor",
-    "desc": "Shahid Kapoor just dropped the news that Season 2 of the hit series ‘Farzi’ is officially in the works. He took to Instagram to share the news with a fun picture alongside creators Raj and DK",
-    "img": "https://th-i.thgim.com/public/incoming/tlaskx/article70619774.ece/alternates/LANDSCAPE_1200/Shahid%20Kapoor.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/shahid-kapoor-farzi-season-2-confirmed-farzi-raj-and-dk-vijay-sethupathi/article70619741.ece",
-    "time": "2026-02-11T12:34:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "IT Ministry mandates label for AI-generated content, reduces takedown timeline to 2–3 hours",
-    "desc": "New rules require prominent disclosure for photorealistic synthetic media, sharply cut takedown deadlines for illegal and sensitive content, and warn platforms of loss of safe harbour for non-compliance; the new rules will come into force from February 20, 2026",
-    "img": "https://th-i.thgim.com/public/incoming/71xddn/article70615997.ece/alternates/LANDSCAPE_1200/2026-01-31T042528Z_1071183313_RC2QCIA9XHEB_RTRMADP_3_INDIA-SOCIALMEDIA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/govt-tightens-rules-on-ai-generated-deepfake-content-mandates-faster-takedown-of-flagged-material/article70615674.ece",
-    "time": "2026-02-11T11:32:19.000Z"
   }
 ];
