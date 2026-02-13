@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "World",
+    "title": "বাংলাদেশে ধানের শীষের দাপট, কত আসন পেল বিএনপি? তারককে শুভেচ্ছাবার্তা মোদির!",
+    "desc": "বিক্ষিপ্ত অশান্তি হলেও সবচেয়ে বড় যে প্রশ্নটি বড় হয়ে উঠেছে, তা হল- বাংলাদেশের ক্ষমতায় কে বসতে চলেছে? শেখ হাসিনা পরবর্তী জমানায় বিএনপি-ই কি ক্ষমতায় আসছে, নাকি সকলকে ভুল প্রমাণ করে মসনদে বসবে জামাত? সেদিকেই নজর গোটা বাংলাদেশের। নজর রাখছে ভারতও।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/modi-tarek-2026-02-3488148b2bc1fb19470d72cb173cf547-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/bangladesh-election-results-2026-live-updates-bangladesh-vote-counting-today-fight-between-bnp-jamat-tarique-rahman-shafiqur-rahman-sb-2537143.html",
+    "time": "2026-02-13T04:37:17.000Z"
+  },
+  {
+    "cat": "World",
     "title": "জেসি স্ট্র্যাং কে? কানাডার সবচেয়ে ভয়াবহ স্কুলে গুলি চালানোর ঘটনায় ১৮ বছর বয়সী সন্দেহভাজনের পরিচয় জেনে নিন",
     "desc": "ব্রিটিশ কলম্বিয়ার টাম্বলার রিজ সেকেন্ডারি স্কুলে ভয়াবহ গুলি চালানোর ঘটনায় কানাডায় শোকের ছায়া নেমে এসেছে। পুলিশ কর্মকর্তা এবং বিশেষায়িত দলগুলি ঘটনাস্থল থেকে ডিজিটাল রেকর্ড, সাক্ষীর বক্তব্য এবং প্রমাণ বিশ্লেষণ করছে। প্রাথমিকভাবে দ্বিতীয় ব্যক্তির থাকার সম্ভাবনা সামনে এসেছে, তবে কর্তৃপক্ষ অতিরিক্ত কোনও সন্দেহভাজন ব্যক্তির বিষয়টি নিশ্চিত করেনি।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/Who-Is-Jesse-Strang-2026-02-d343501fa09d538efa47c3de0c5b4bd9-3x2.jpg",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/tmc-supremo-mamata-banerjee-herself-will-question-the-court-in-the-sir-case-at-supreme-court-sal-2525205.html",
     "time": "2026-02-03T18:29:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "৯ কোটি টাকার বকেয়া ঘিরে আইনি জট, দিল্লি হাইকোর্টে আত্মসমর্পণের নির্দেশ রাজপাল যাদবকে",
-    "desc": "দিল্লি হাইকোর্ট সম্প্রতি বলিউড অভিনেতা রাজপাল যাদব-কে চেক বাউন্স সংক্রান্ত মামলায় আত্মসমর্পণ করার নির্দেশ দিয়েছে। বিচারপতি স্বরানা কান্তা শর্মা ২ ফেব্রুয়ারি এই আদেশ জারি করেন, কারণ অভিনেতা মোট প্রায় ৯ কোটি টাকা বকেয়া পরিশোধের বাধ্যবাধকতা পূরণ করতে ব্যর্থ হয়েছেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Untitled-design-2026-02-03T232632.013-2026-02-ff61060b82569c2f67bec6a6a1263112-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/bollywood-actor-rajpal-yadav-cheque-bounce-case-delhi-hc-surrender-order-sal-2525196.html",
-    "time": "2026-02-03T17:57:13.000Z"
   }
 ];

@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When and where to watch Women's Rising Stars Asia Cup live on TV and streaming in India?",
+    "desc": "Women's Rising Stars Asia Cup gets underway today in Bangkok, as the India A team will be in action in the second match of the day against the UAE. As many as eight teams are...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-a-vs-uae-live-when-and-where-to-watch-women-s-rising-stars-asia-cup-live-on-tv-and-streaming-in-india-2026-02-13-1030090",
+    "time": "2026-02-13T04:37:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Italy celebrate their T20 World Cup win over Nepal with renowned Bollywood actor",
+    "desc": "Wankhede Stadium in Mumbai witnessed history on Thursday (February 12) as Italy registered their first-ever win in the T20 World Cup, defeating Nepal by 10 wickets. They chased down 124 runs in less than 13...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/italy-celebrate-their-t20-world-cup-win-over-nepal-with-renowned-bollywood-actor-2026-02-13-1030081",
+    "time": "2026-02-13T03:21:21.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India break 12-year-old T20 World Cup record against Namibia courtesy Ishan Kishan and Samson",
     "desc": "India faced Namibia in the 18th match of the ongoing T20 World Cup at the Arun Jaitley Stadium in New Delhi on Thursday. The hosts registered their biggest win in the mega event, beating the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-wreaks-havoc-on-jj-smit-smashes-28-runs-in-an-over-against-namibia-2026-02-12-1030034",
     "time": "2026-02-12T14:28:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Abhishek Sharma not playing vs Namibia in the T20 World Cup 2026 clash? BCCI shares update",
-    "desc": "Flamboyant India opener Abhishek Sharma was left out of the playing XI for the clash against Namibia at the Arun Jaitley Stadium in New Delhi. He had been battling a viral fever during the previous...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-abhishek-sharma-not-playing-vs-namibia-in-the-t20-world-cup-2026-clash-bcci-shares-update-2026-02-12-1030022",
-    "time": "2026-02-12T13:20:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Mohammed Siraj not playing in IND vs NAM T20 World Cup 2026 match? Explained",
-    "desc": "The Indian team gears up for their second T20 World Cup 2026 clash. The defending champions take on Namibia in game 18 of the tournament at the Arun Jaitley Stadium in New Delhi. The clash...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-mohammed-siraj-not-playing-in-ind-vs-nam-t20-world-cup-2026-match-explained-2026-02-12-1030020",
-    "time": "2026-02-12T13:12:56.000Z"
   }
 ];
