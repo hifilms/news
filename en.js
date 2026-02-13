@@ -1,12 +1,183 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
-    "title": "DYK Rajpal Yadav has served 3 months in jail before?",
-    "desc": "Actor Rajpal Yadav is back in Tihar Jail for a Rs 9 crore cheque bounce case, having previously served three months in 2018 for the same issue. The debt stemmed from his directorial debut, 'Ata Pata Laapata'. During his earlier incarceration, Yadav reportedly inspired jail staff and conducted acting workshops for inmates, bringing them joy.",
-    "img": "https://static.toiimg.com/photo/msid-128288386,imgsize-23444.cms",
+    "title": "Mahieka calls Hardik 'man of the match' of her life",
+    "desc": "As Valentine's Week approaches, cricketer Hardik Pandya is gearing up for a romantic celebration with his girlfriend Mahieka Sharma, who has flown to Delhi to be by his side. In a sweet post, Sharma shared a photo of Pandya holding a beautiful bouquet, proclaiming him the 'MVP of my heart. Read on to know more.",
+    "img": "https://static.toiimg.com/photo/msid-128292369,imgsize-39834.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-you-know-rajpal-yadav-has-served-3-months-in-jail-before-actor-held-workshops-during-his-sentence/articleshow/128288386.cms",
-    "time": "2026-02-13T04:36:28.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mahieka-sharma-calls-hardik-pandya-man-of-the-match-of-her-life-as-she-joins-him-in-delhi-to-celebrate-valentines-day/articleshow/128292369.cms",
+    "time": "2026-02-13T06:37:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Brendan Taylor ruled out of T20 World Cup",
+    "desc": "Zimbabwe's World Cup campaign has been dealt a significant blow with veteran wicketkeeper-batter Brendan Taylor ruled out due to an injury sustained against Oman. The 40-year-old was forced to retire hurt and will take no further part in the tournament, leaving a considerable void in the team's batting lineup and leadership.",
+    "img": "https://static.toiimg.com/photo/msid-128292040,imgsize-117184.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/big-injury-blow-for-zimbabwe-brendan-taylor-ruled-out-of-t20-world-cup/articleshow/128291955.cms",
+    "time": "2026-02-13T06:21:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Long pause, two elbows’: How Pak spinner became T20 WC’s biggest talking point",
+    "desc": "Pakistan's Usman Tariq is the talk of the T20 World Cup 2026 with his unusual bowling action, featuring a distinct pause. While cleared by testing regarding elbow flex, his unique rhythm has baffled batsmen like Cameron Green and Dewald Brevis. Tariq's early success, including a hat-trick, makes his unconventional style a key talking point.",
+    "img": "https://static.toiimg.com/photo/msid-128291158,imgsize-169352.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/long-pause-two-elbows-how-pakistan-mystery-spinner-usman-tariq-became-t20-world-cups-biggest-talking-point/articleshow/128290959.cms",
+    "time": "2026-02-13T06:01:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "A turning point for financial services firms looking to set up GCCs in India",
+    "desc": "The Budget proposes a significantly expanded Safe Harbour regime for IT services, with a uniform safe harbour margin of 15.5% and an enhanced threshold that rises from ₹300 crore to ₹2,000 crore. Earlier differences between KPO, BPO, and other services often led to classification issues, especially for diversified and larger GCCs.",
+    "img": "https://static.toiimg.com/photo/msid-128291250,imgsize-137184.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-a-turning-point-for-financial-services-firms-looking-to-set-up-gccs-in-india/articleshow/128291192.cms",
+    "time": "2026-02-13T05:58:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Did UP police official help actor Rajpal Yadav?",
+    "desc": "In a surprising twist, actor Rajpal Yadav, facing legal troubles with a Rs 9 crore cheque bounce case, has garnered support from Anuj Chaudhary, a former wrestler and UP police official. Chaudhary generously donated Rs 51,000 from his earnings, emphasizing the importance of supporting those who spread joy, even in tough times.",
+    "img": "https://static.toiimg.com/photo/msid-128290915,imgsize-26732.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fact-check-did-former-wrestler-and-up-police-official-anuj-chaudhary-help-actor-rajpal-yadav-amid-the-actors-jail-sentence/articleshow/128290915.cms",
+    "time": "2026-02-13T05:54:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "AI concerns continue to drag down markets; Nikkei falls over 500 points, HSI sheds 2%",
+    "desc": "Asian markets dipped Friday, mirroring US tech losses amid AI spending concerns. Investors are questioning the rapid returns on massive AI investments, especially with new automation tools threatening traditional business models. This shift sees a rotation towards hardware providers, while companies facing AI disruption are under pressure. Inflation data from the US is keenly awaited.",
+    "img": "https://static.toiimg.com/photo/msid-128290778,imgsize-198284.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-ai-concerns-continue-to-drag-down-markets-nikkei-falls-over-500-points-hsi-sheds-2/articleshow/128287734.cms",
+    "time": "2026-02-13T05:51:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "5 fan-favorite Brad Pitt roles that still captivate audiences",
+    "desc": "the flirtatious J.D. from ‘Thelma & Louise’, the anarchic Tyler Durden from ‘Fight Club’, the unraveling Detective David Mills from ‘Se7en’, the unhinged Jeffrey Goines from ‘12 Monkeys’, and the supremely chill Cliff Booth from ‘Once Upon a Time in Hollywood’. These aren’t just roles; they’re the ones we quote, mimic, and adore.",
+    "img": "https://static.toiimg.com/photo/msid-128290814,imgsize-608893.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/tyler-durden-in-fight-club-to-j-d-in-thelma-amp-louise-5-fan-favorite-brad-pitt-roles-that-still-captivate-audiences/photostory/128290814.cms",
+    "time": "2026-02-13T05:46:38.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Hello Kitty designer bows out after 40 years in charge",
+    "desc": "Yuko Yamaguchi has been responsible since 1980 for the design of Kitty, who is officially not a cat but a little girl from London, overseeing her rise to the epitome of Japan's \"kawaii\" — cute — soft power",
+    "img": "https://th-i.thgim.com/public/incoming/dk7ljp/article70627210.ece/alternates/LANDSCAPE_1200/AFP__20241030__36KF43E__v1__HighRes__UsJapanLifestyleBusinessCultureKitty.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/hello-kitty-designer-bows-out-after-40-years-in-charge/article70627196.ece",
+    "time": "2026-02-13T05:41:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "A look at Nicolas Cage’s USD 40 million net worth",
+    "desc": "Nicolas Cage, the renowned actor with roots in the prestigious Coppola lineage, has amassed a fortune of approximately $40 million. His journey through Hollywood is a tapestry of Oscar-winning performances and blockbuster escapades, with his financial landscape reflecting both striking peaks and valleys.",
+    "img": "https://static.toiimg.com/photo/msid-128290286,imgsize-1096799.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/nicolas-cages-usd-40-million-net-worth-a-journey-of-fame-and-financial-trouble/articleshow/128290286.cms",
+    "time": "2026-02-13T05:38:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "First song from Tovino's Pallichattambi out!",
+    "desc": "In an exciting new venture, pop star Vishal Mishra makes his mark in the Malayalam film industry with 'Pallichattambi', where he lends his voice to the delightful romantic song 'Kattuchembakam'. Set against the backdrop of the dynamic 1950s-60s, this action-packed film directed by Dijo Jose Antony highlights the charismatic Kayadu Lohar in the leading role.",
+    "img": "https://static.toiimg.com/photo/msid-128290308,imgsize-26610.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/vishal-mishra-croons-the-kattuchembakam-song-for-tovino-thomas-starrer-pallichattambi/articleshow/128290308.cms",
+    "time": "2026-02-13T05:37:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "As multilateralism erodes, India must reframe its foreign policy",
+    "desc": "Multilateral structures and international institutions are withering away as power politics and transactional relationships reshape the new world order; India must reframe foreign policy beyond strategic autonomy, build endogenous capabilities, diversify trade, and pursue Viksit Bharat 2047",
+    "img": "https://th-i.thgim.com/public/news/national/aom0ih/article70625582.ece/alternates/LANDSCAPE_1200/iStock-1548395353.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/as-multilateralism-erodes-india-must-reframe-its-foreign-policy/article70624458.ece",
+    "time": "2026-02-13T05:29:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Workers join Bharat bandh in Maharashtra, demand to scrap new labour codes",
+    "desc": "“Organising a legal strike is made difficult, and the government will put you in jail for an illegal strike. Provident Fund contribution is reduced, and working hours can be increased to 12 hours per day,” said Shailendra Chauhan, General Secretary of Mumbai, CITU",
+    "img": "https://th-i.thgim.com/public/incoming/2qqwpx/article70627181.ece/alternates/LANDSCAPE_1200/20260212450L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/workers-join-bharat-bandh-in-maharashtra-demand-to-scrap-new-labour-codes/article70625057.ece",
+    "time": "2026-02-13T05:25:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Riyan Parag set to be named as Rajasthan Royals captain",
+    "desc": "Riyan Parag is set to be named the new captain of Rajasthan Royals today, marking a significant leadership transition for the franchise. The management has opted for the young all-rounder, who has been with the team since 2019 and was retained for Rs 14 crore last year.",
+    "img": "https://static.toiimg.com/photo/msid-128289635,imgsize-66330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-riyan-parag-set-to-be-named-as-rajasthan-royals-captain/articleshow/128289599.cms",
+    "time": "2026-02-13T05:12:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "I’m a changed man now, says Ishan Kishan",
+    "desc": "After bludgeoning the Kiwi attack to all parts to help India romp to a 4-1 series victory and force his way into the first-choice XI, he is now lighting up the T20 World Cup as well",
+    "img": "https://th-i.thgim.com/public/incoming/ci13es/article70627147.ece/alternates/LANDSCAPE_1200/11908_7_2_2026_19_11_59_4_DSC_9455.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-2026-im-a-changed-man-now-says-ishan-kishan/article70627142.ece",
+    "time": "2026-02-13T05:06:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "FOGSI seeks rollback of NEET-PG percentile cuts, flags ‘pay-to-enter’ risk",
+    "desc": "FOGSI has urged the National Medical Commission to immediately review and withdraw repeated reductions in the NEET-PG qualifying percentile. The body expressed concern that lowering the threshold dilutes meritocracy, compromises academic rigor, and raises questions about specialist training quality and patient safety.",
+    "img": "https://static.toiimg.com/photo/msid-128289324,imgsize-109196.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/fogsi-seeks-rollback-of-neet-pg-percentile-cuts-flags-pay-to-enter-risk/articleshow/128289362.cms",
+    "time": "2026-02-13T05:03:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India register convincing wins but expose a few cracks",
+    "desc": "India's batting collapses against USA and Namibia in T20 World Cup highlight concerns over adapting to slower pitches against spinners. Opponents have found a blueprint to counter India's powerful batting by mixing tactics and targeting individual batters. The team needs to unlearn habits from flat pitches and prepare for challenging conditions against Pakistan in Colombo.",
+    "img": "https://static.toiimg.com/photo/msid-128289057,imgsize-115052.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-india-register-convincing-wins-against-usa-namibia-but-expose-a-few-cracks/articleshow/128289031.cms",
+    "time": "2026-02-13T05:02:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Michael B. Jordan talks about ‘Fourth Wing’ adaptation series",
+    "desc": "Michael B. Jordan is taking on the role of executive producer for the much-anticipated 'Fourth Wing' series, igniting discussions across fan circles. When asked about his potential appearance in the show, he cryptically stated, \"I don't know.\" Jordan highlighted his aim to harmonize established stars with rising performers so that audiences can embrace the characters free from preconceived ideas.",
+    "img": "https://static.toiimg.com/photo/msid-128289206,imgsize-17356.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/michael-b-jordan-talks-fourth-wing-adaptation-series-shares-comment-about-whether-he-will-star-in-the-project/articleshow/128289206.cms",
+    "time": "2026-02-13T05:00:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Desperately seeking the Rashid Khan of old",
+    "desc": "Afghanistan's T20 World Cup hopes were dashed after a double Super Over loss to South Africa. Captain Rashid Khan's decision not to bowl in either Super Over drew criticism, especially as South Africa's spinner secured their win. Rahmanullah Gurbaz's fighting performance with the bat offered a glimmer of hope for Afghanistan's future.",
+    "img": "https://static.toiimg.com/photo/msid-128289250,imgsize-144288.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-desperately-seeking-the-rashid-khan-of-old/articleshow/128289189.cms",
+    "time": "2026-02-13T05:00:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "James Van Der Beek's ex-wife Heather McComb's emotional tribute",
+    "desc": "Heather McComb, reflecting on the tragic passing of James Van Der Beek due to colorectal cancer, took a moment to honor his memory. In her heartfelt tribute, she extended her sympathy to Kimberly and the children, recalling James as 'pure-hearted and generous.",
+    "img": "https://static.toiimg.com/photo/msid-128288981,imgsize-542225.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/late-james-van-der-beeks-ex-wife-heather-mccomb-pens-emotional-tribute-calls-him-a-beautiful-soul/articleshow/128288981.cms",
+    "time": "2026-02-13T04:54:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Paytm ties up with Bharat Taxi to enable mobile payments",
+    "desc": "Bharat Taxi is a ride-hailing platform built on a cooperative model and instead of charging commissions, the platform allows drivers to retain their full earnings from each ride, supporting greater transparency, fair income, and long-term financial stability",
+    "img": "https://th-i.thgim.com/public/incoming/x99n0q/article70627115.ece/alternates/LANDSCAPE_1200/PayTM-introduceGK0F6K00E.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/paytm-ties-up-with-bharat-taxito-enable-mobile-payments/article70624313.ece",
+    "time": "2026-02-13T04:50:30.000Z"
   },
   {
     "cat": "World",
@@ -15,7 +186,25 @@ const newsData_en = [
     "img": "https://th-i.thgim.com/public/incoming/wvz5n5/article70627049.ece/alternates/LANDSCAPE_1200/Bangladesh_Election_03201.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/tarique-rahman-leads-bangladesh-national-party-to-victory-after-20-years/article70627018.ece",
-    "time": "2026-02-13T04:35:25.000Z"
+    "time": "2026-02-13T04:46:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Caleb McLaughlin talks about series finale fan theories",
+    "desc": "Caleb McLaughlin, known for his role as Lucas, recently shared his thoughts on the buzzing fan theories surrounding a possible continuation of 'Stranger Things.' Initially dismissing the ideas as 'silly,' he later empathized with the fans' longing for more stories. He insisted that the show wrapped up perfectly, maintaining its spirit through an uplifting conclusion.",
+    "img": "https://static.toiimg.com/photo/msid-128288605,imgsize-31434.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/stranger-things-caleb-mclaughlin-talks-fan-theories-says-i-get-that-people-want-to-live-in-this-optimistic-place/articleshow/128288605.cms",
+    "time": "2026-02-13T04:42:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "DYK Rajpal Yadav has served 3 months in jail before?",
+    "desc": "Actor Rajpal Yadav is back in Tihar Jail for a Rs 9 crore cheque bounce case, having previously served three months in 2018 for the same issue. The debt stemmed from his directorial debut, 'Ata Pata Laapata'. During his earlier incarceration, Yadav reportedly inspired jail staff and conducted acting workshops for inmates, bringing them joy.",
+    "img": "https://static.toiimg.com/photo/msid-128288386,imgsize-23444.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-you-know-rajpal-yadav-has-served-3-months-in-jail-before-actor-held-workshops-during-his-sentence/articleshow/128288386.cms",
+    "time": "2026-02-13T04:36:28.000Z"
   },
   {
     "cat": "Politics",
@@ -63,15 +252,6 @@ const newsData_en = [
     "time": "2026-02-13T03:49:55.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Nifty50 goes below 25,600; BSE Sensex down over 700 points",
-    "desc": "Nifty50 and BSE Sensex, the equity benchmarks, crashed in opening trade on Friday amid weak global cues and the continued IT stocks selloff. While Nifty50 went below 25,600, BSE Sensex was down over 700 points.",
-    "img": "https://static.toiimg.com/photo/msid-128285655,imgsize-116860.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-february-13-2026-dalal-street-indian-equities-global-markets-india-us-trade-deal-donald-trump/articleshow/128285580.cms",
-    "time": "2026-02-13T03:48:57.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Cardi B’s comments about ICE go viral",
     "desc": "Cardi B's recent comments during her 'Little Miss Drama' tour have stirred a heated online dialogue with the Department of Homeland Security. When the rapper declared her intention to shield her supporters from immigration enforcement, even brandishing the possibility of bear mace, her words quickly spread across social media.",
@@ -82,7 +262,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘Prep done, watch the ball &amp; play’: Ishan Kishan fires warning as India brace for Usman Tariq threat",
+    "title": "‘Prep done’: Ishan Kishan fires warning as India brace for Usman Tariq threat",
     "desc": "India's T20 World Cup preparations against Pakistan are tactically focused, with Ishan Kishan stating the team is ready for spinner Usman Tariq. Facing Namibia's sidearm bowler Gerhard Erasmus provided valuable practice, and Kishan emphasised sticking to basics and natural game. Kishan also highlighted his personal evolution towards a more disciplined mindset.",
     "img": "https://static.toiimg.com/photo/msid-128286583,imgsize-49270.cms",
     "src": "indiatimes.com",
@@ -108,24 +288,6 @@ const newsData_en = [
     "time": "2026-02-13T03:29:57.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Cardi B fuels breakup rumours with Stefon Diggs during tour",
-    "desc": "protect your joy at all costs. This striking commentary came at a time when her relationship with NFL star Stefon Diggs seemed to be under scrutiny, given their cryptic social media posts and Cardi's unexpected departure from the Super Bowl.",
-    "img": "https://static.toiimg.com/photo/msid-128286144,imgsize-26066.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/little-miss-drama-tour-cardi-b-sparks-breakup-rumours-tells-fans-dont-let-nobody-take-your-happiness/articleshow/128286144.cms",
-    "time": "2026-02-13T03:20:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kylie Jenner flaunts $5k crystal charm before valentines day",
-    "desc": "Kylie Jenner treated herself to a dazzling $5,000 crystal-encrusted handbag charm featuring her iconic lip logo for Valentine's Day. The 28-year-old entrepreneur showcased the sparkling accessory, a gift from herself to herself, attached to her prized Hermès Birkin bag.",
-    "img": "https://static.toiimg.com/photo/msid-128285832,imgsize-712173.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kylie-jenner-unveils-5000-crystal-handbag-charm-as-a-dazzling-pre-valentines-self-gift/articleshow/128284423.cms",
-    "time": "2026-02-13T03:06:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Will Abhishek be fit in time? Conflicting updates fuel Ind-Pak suspense before WC clash",
     "desc": "India faces a dilemma regarding Abhishek Sharma's fitness for the T20 World Cup clash against Pakistan. While spinner Varun Chakravarthy expressed optimism about his recovery, captain Suryakumar Yadav indicated a more cautious approach, suggesting Abhishek might miss further games. His availability hinges on his recovery from a stomach infection and his performance in training.",
@@ -133,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/will-abhishek-sharma-be-fit-in-time-conflicting-updates-fuel-india-pakistan-suspense-before-t20-world-cup-blockbuster/articleshow/128285670.cms",
     "time": "2026-02-13T03:04:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Backstreet Boys manifesting a Super Bowl Halftime Show",
-    "desc": "Following Bad Bunny's Super Bowl spectacle, the Backstreet Boys are eyeing the 2027 halftime show. The iconic boy band, currently in Las Vegas, expressed their desire to perform their greatest hits and signature coordinated outfits on the grand stage. This comes after they appeared in commercials for this year's game, with AJ McLean actively campaigning for the 2027 event.",
-    "img": "https://static.toiimg.com/photo/msid-128285426,imgsize-710407.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/lets-make-it-happen-backstreet-boys-are-manifesting-a-2027-super-bowl-halftime-show/articleshow/128285426.cms",
-    "time": "2026-02-13T02:54:44.000Z"
   },
   {
     "cat": "Sports",
@@ -153,15 +306,6 @@ const newsData_en = [
     "time": "2026-02-13T02:46:26.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Lalit Pandit REACTS to Arijit's decision; 'He outshines all'",
-    "desc": "Music veterans Anuradha Paudwal and Lalit Pandit have reacted to Arijit Singh's decision to step away from playback singing. Pandit lauded Singh's talent, calling him the sole standout singer in recent years. Paudwal supported his choice, believing he has achieved his goals and possesses the strength for such a move, suggesting it's a well-considered decision.",
-    "img": "https://static.toiimg.com/photo/msid-128284512,imgsize-37812.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/music-composer-lalit-pandit-reacts-to-arijit-singhs-decision-says-there-is-no-one-else-he-outshines-everyone/articleshow/128284512.cms",
-    "time": "2026-02-13T02:34:40.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Minister’s adverse remarks in Rajasthan Assembly on right to health spark controversy",
     "desc": "“What is the need for a law on the right to health?” Gajendra Singh Khimsar asked, leading to objection by the Opposition Congress MLAs, who raised slogans and trooped to the well of the House",
@@ -169,15 +313,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/rajasthan/ministers-adverse-remarks-in-rajasthan-assembly-on-right-to-health-spark-controversy/article70624788.ece",
     "time": "2026-02-13T02:29:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mallika Sukumaran",
-    "desc": "Prithviraj Sukumaran has received offers to direct three major films, including one Malayalam project slated for an early release, according to his mother, Mallika Sukumaran. She also confirmed elder son Indrajith Sukumaran is preparing to direct and produce a film, with the script finalized. Both brothers are currently engaged in other acting commitments.",
-    "img": "https://static.toiimg.com/photo/msid-128284476,imgsize-55872.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/prithviraj-sukumaran-gets-big-directing-offers-indrajith-also-prepares-to-direct-reveals-mallika-sukumaran/articleshow/128284476.cms",
-    "time": "2026-02-13T02:25:56.000Z"
   },
   {
     "cat": "Business",
@@ -198,15 +333,6 @@ const newsData_en = [
     "time": "2026-02-13T02:21:29.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Cause of NSDL glitch being analysed, says Sebi chairman",
-    "desc": "Sebi Chairman Tuhin Kanta Pandey confirmed a root cause analysis is underway for NSDL's recent tech glitch that disrupted inter-depository settlements. The findings will be reviewed by Sebi's technical advisory committee for corrective actions. Pandey emphasized Sebi's continuous monitoring and commitment to market integrity and investor protection amidst growing market complexity and reliance on digital technology.",
-    "img": "https://static.toiimg.com/photo/msid-128284167,imgsize-32380.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/cause-of-nsdl-glitch-being-analysed-says-sebi-chairman/articleshow/128284112.cms",
-    "time": "2026-02-13T02:14:12.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "TVK functionary among 52 persons booked in Vandavasi for obstruction of traffic movement",
     "desc": "During a road show that the party workers carried out, the TVK functionary halted his vehicle near the elevated corridor on the stretch when a group of supporters tried to honour him with a huge garland, using a crane",
@@ -214,15 +340,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-functionary-among-52-persons-booked-in-vandavasi-for-obstruction-of-traffic-movement/article70624615.ece",
     "time": "2026-02-13T02:06:47.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "RBI curbs harsh loan recovery practices",
-    "desc": "New RBI rules aim to protect borrowers from harassment during loan recovery. Banks must now resolve complaints before initiating recovery and disclose agent identities. Harsh tactics like threats, abusive language, and invasion of privacy are banned. Contact is restricted to specific hours and only with the borrower or guarantor, respecting personal events and borrower requests.",
-    "img": "https://static.toiimg.com/photo/msid-128284041,imgsize-33890.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-curbs-harsh-loan-recovery-practices/articleshow/128284027.cms",
-    "time": "2026-02-13T02:06:40.000Z"
   },
   {
     "cat": "Sports",
@@ -234,24 +351,6 @@ const newsData_en = [
     "time": "2026-02-13T02:00:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mikayla Nogueira confirms divorce from husband Cody Hawken",
-    "desc": "Beauty influencer Mikayla Nogueira emotionally announced her amicable divorce from Cody Hawken, emphasizing privacy and protecting her ex-husband. Despite the split, they remain in daily contact and co-parent their dogs. Nogueira clarified that Cody's past addiction struggles are separate from their marital decision.",
-    "img": "https://static.toiimg.com/photo/msid-128283793,imgsize-894487.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mikayla-nogueira-confirms-divorce-from-husband-cody-hawken-after-nearly-three-years/articleshow/128283806.cms",
-    "time": "2026-02-13T01:56:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Director Anuraj Manohar admits mistake",
-    "desc": "Director Anuraj Manohar admitted to a mistaken Pampa hilltop shoot, offering to pay fines. Forest officials are investigating rule breaches, seeking technical team input and camera footage. The 'Narivetta' director previously claimed no permission was granted for the filming on a restricted day, leading to a case filed and reported to court.",
-    "img": "https://static.toiimg.com/photo/msid-128283481,imgsize-31926.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/pampa-shoot-trouble-director-anuraj-manohar-says-it-was-a-mistake-more-people-to-be-questioned/articleshow/128283481.cms",
-    "time": "2026-02-13T01:47:48.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "MEA refuses to deny U.S. claims on India’s Russian oil imports",
     "desc": "Senior U.S. official reiterates that India has reduced Russian oil purchases as U.S. “wanted”, is buying more American energy; joint statement, with no mention of Russian oil, is the “framework” on this matter, says MEA",
@@ -259,15 +358,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/mea-refuses-to-deny-us-claims-on-indias-russian-oil-imports/article70624942.ece",
     "time": "2026-02-13T01:38:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "O'Romeo Day 1 advance booking: Film sells over 1 lac tickets",
-    "desc": "Get ready for cinematic magic as 'O'Romeo' featuring Shahid Kapoor and Triptii Dimri has officially launched its advance ticket sales, selling a staggering 100,000 tickets and amassing an impressive Rs 3.05 crore. Directed by the brilliant Vishal Bhardwaj, this project marks the fourth time Kapoor joins forces with the acclaimed director.",
-    "img": "https://static.toiimg.com/photo/msid-128283158,imgsize-45530.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/oromeo-day-1-advance-booking-report-shahid-kapoor-and-triptii-dimri-starrer-sells-over-one-lakh-tickets/articleshow/128283158.cms",
-    "time": "2026-02-13T01:35:21.000Z"
   },
   {
     "cat": "Politics",
@@ -387,15 +477,6 @@ const newsData_en = [
     "time": "2026-02-12T18:37:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "As multilateralism erodes, India must reframe its foreign policy",
-    "desc": "Multilateral structures and international institutions are withering away as power politics and transactional relationships reshape the new world order; India must reframe foreign policy beyond strategic autonomy, build endogenous capabilities, diversify trade, and pursue Viksit Bharat 2047",
-    "img": "https://th-i.thgim.com/public/news/national/aom0ih/article70625582.ece/alternates/LANDSCAPE_1200/iStock-1548395353.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/as-multilateralism-erodes-india-must-reframe-its-foreign-policy/article70624458.ece",
-    "time": "2026-02-12T17:54:44.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Hardik Pandya's Army-style camp: The secret behind his explosive T20 form",
     "desc": "India secured a dominant 93-run victory over Namibia in the T20 World Cup. Ishan Kishan and Hardik Pandya scored aggressive half-centuries, propelling India to 209/9. Namibia was bowled out for 116. Pandya expressed satisfaction with his form and preparation. India's next match is against Pakistan.",
@@ -477,13 +558,13 @@ const newsData_en = [
     "time": "2026-02-12T15:27:42.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Record! Italy batters become first-ever pair to achieve this feat",
-    "desc": "Italy made history at the T20 World Cup as brothers Justin and Anthony Mosca powered them to their first-ever World Cup win with a 10-wicket thrashing of Nepal. After restricting Nepal to 123, the duo chased it with an unbeaten 124-run opening stand, setting a record for the highest sibling partnership in T20 World Cup history.",
-    "img": "https://static.toiimg.com/photo/msid-128264012,imgsize-50330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-record-italy-batters-justin-and-anthony-mosca-script-history-become-first-ever-pair-to-/articleshow/128263675.cms",
-    "time": "2026-02-12T14:58:02.000Z"
+    "cat": "Entertainment",
+    "title": "Rahul Riji Nair’s animated short film ‘Kingara Kavyam’ recreates a folklore",
+    "desc": "Based around a folklore and myth, Kingara Kavyam tells a poignant tale of resilience and hope. It has been selected for the South Asia Competition at the third edition of AniMela international festival, where it will have its world premiere",
+    "img": "https://th-i.thgim.com/public/incoming/mspuid/article70618629.ece/alternates/LANDSCAPE_1200/13tvm%20kappiri2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/rahul-riji-nair-animated-short-film-kingara-kavyam/article70618589.ece",
+    "time": "2026-02-12T15:13:54.000Z"
   },
   {
     "cat": "Sports",
@@ -505,39 +586,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Samson trolled online after Namibia show",
-    "desc": "Sanju Samson was trolled on social media after scoring 22 off 8 balls against Namibia in the T20 World Cup, with fans saying he wasted another chance. He played in place of Abhishek Sharma, who was ill. Namibia chose to bowl on a flat pitch, while Suryakumar Yadav spoke about dew and team changes. Despite criticism, India started strongly, but Samson’s dismissal reignited consistency debates.",
-    "img": "https://static.toiimg.com/photo/msid-128262506,imgsize-34934.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-sanju-samson-trolled-online-after-namibia-show-one-more-chance-wasted/articleshow/128262180.cms",
-    "time": "2026-02-12T14:17:35.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Tendulkar celebrates Italy's win",
     "desc": "Sachin Tendulkar praised Italy’s historic first T20 World Cup win, calling it a proud moment for a footballing nation embracing cricket. Italy thrashed Nepal by 10 wickets at Wankhede, with spinners Kalugamage and Manenti restricting Nepal to 123 before Mosca brothers chased easily. Stand-in captain Harry Manenti called it a dream moment, while Nepal skipper Rohit Paudel credited Italy for their strong performance.",
     "img": "https://static.toiimg.com/photo/msid-128261372,imgsize-63196.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-sachin-tendulkar-celebrates-italys-10-wicket-win-a-proud-footballing-nation-making-its-mark/articleshow/128260952.cms",
     "time": "2026-02-12T13:48:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "No Abhishek Sharma vs Pakistan? Surya's comment sparks panic",
-    "desc": "India's star opener Abhishek Sharma has been ruled out of the T20 World Cup clash against Namibia due to a stomach infection. Captain Suryakumar Yadav confirmed Sharma could also miss the upcoming match against Pakistan, with Sanju Samson replacing him in the lineup.",
-    "img": "https://static.toiimg.com/photo/msid-128260730,imgsize-88980.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/no-abhishek-sharma-vs-pakistan-suryakumar-yadavs-comment-sparks-panic/articleshow/128260740.cms",
-    "time": "2026-02-12T13:31:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why Abhishek Sharma is not playing against Namibia",
-    "desc": "India has opted to rest opener Abhishek Sharma for their T20 World Cup match against Namibia due to a stomach infection. Sharma, who was discharged from the hospital after two days, missed the game with Sanju Samson replacing him. Jasprit Bumrah also comes in for Mohammed Siraj in the bowling attack.",
-    "img": "https://static.toiimg.com/photo/msid-128260044,imgsize-38980.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/why-abhishek-sharma-is-not-playing-against-namibia/articleshow/128260004.cms",
-    "time": "2026-02-12T13:13:38.000Z"
   },
   {
     "cat": "World",
@@ -547,15 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-why-balochistan-remains-in-conflict-with-pakistan-the-hindu-explainer/article70624365.ece",
     "time": "2026-02-12T13:09:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Italy register first-ever T20 World Cup win, thrash Nepal by 10 wickets",
-    "desc": "Italy achieved a historic maiden T20 World Cup victory, defeating Nepal by 10 wickets. After their spinners dismissed Nepal for 123, the Mosca brothers, Anthony and Justin, delivered a dominant unbeaten opening partnership to secure the win with 7.2 overs to spare.",
-    "img": "https://static.toiimg.com/photo/msid-128258705,imgsize-33882.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/italy-register-first-ever-t20-world-cup-win-thrash-nepal-by-10-wickets/articleshow/128258648.cms",
-    "time": "2026-02-12T12:41:07.000Z"
   },
   {
     "cat": "World",
@@ -619,15 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/ashwiny-iyer-tiwari-curates-femme-lens-at-red-lorry-film-festival-2026/article70623121.ece",
     "time": "2026-02-12T08:15:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rahul Riji Nair’s animated short film ‘Kingara Kavyam’ recreates a folklore",
-    "desc": "Based around a folklore and myth, Kingara Kavyam tells a poignant tale of resilience and hope. It has been selected for the South Asia Competition at the second edition of AniMela international festival, where it will have its world premiere",
-    "img": "https://th-i.thgim.com/public/incoming/mspuid/article70618629.ece/alternates/LANDSCAPE_1200/13tvm%20kappiri2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/rahul-riji-nair-animated-short-film-kingara-kavyam/article70618589.ece",
-    "time": "2026-02-12T05:10:40.000Z"
   },
   {
     "cat": "Sports",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-india-pakistan-match-in-colombo-pakistan-withdraw-boycott-icc/article70612716.ece",
     "time": "2026-02-10T01:02:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Africa starts off with thumping win over Canada",
-    "desc": "Markram leads the charge as the Proteas notch up the highest total of this edition; the minnows find Ngidi too hot to handle as they end up with 156 despite Dhaliwal and Thaker’s spirited show",
-    "img": "https://th-i.thgim.com/public/incoming/yms4he/article70612616.ece/alternates/LANDSCAPE_1200/VIS_2239.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-canada-vs-south-africa-ahmedabad/article70611392.ece",
-    "time": "2026-02-09T18:10:43.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "UK PM Starmer under pressure after Communications Chief Tim Allan resigns",
-    "desc": "UK Prime Minister Keir Starmer is under mounting pressure after his communications chief Tim Allan resigned, a day after Chief of Staff Morgan McSweeney stepped down over the controversial appointment of Peter Mandelson as US envoy.",
-    "img": "https://th-i.thgim.com/public/news/national/qvios1/article70612527.ece/alternates/LANDSCAPE_1200/Takaichi%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/uk-pm-starmer-under-pressure-after-communications-chief-tim-allan-resigns/article70612528.ece",
-    "time": "2026-02-09T17:00:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rahul, Smaran take Karnataka past Mumbai into the semis",
-    "desc": "The two forge a 147-run stand for the fourth wicket as the visiting side chases down a stiff target of 325 on the penultimate day; the eight-time champion will clash with Uttarakhand for a place in the final",
-    "img": "https://th-i.thgim.com/public/incoming/6om597/article70610984.ece/alternates/LANDSCAPE_1200/11908_9_2_2026_15_13_21_1_DSC_4470.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-rahul-smaran-take-karnataka-past-mumbai-into-the-semis/article70610995.ece",
-    "time": "2026-02-09T13:38:03.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Gujarat exchanges Letter of Intent with Starlink for high-speed internet connectivity",
-    "desc": "The aim is to provide high-speed satellite-based internet connectivity in the State's remote, border, and underserved areas that currently have limited telecom infrastructure, the release said, adding it is part of the Digital Connectivity Mission and other strategic initiatives",
-    "img": "https://th-i.thgim.com/public/incoming/9i6dej/article70611117.ece/alternates/LANDSCAPE_1200/2025-06-06T095431Z_2043052981_RC26O1A69OMD_RTRMADP_3_STARLINK-INDIA-LICENCE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/gujarat/gujarat-exchanges-letter-of-intent-with-starlink-for-high-speed-internet-connectivity/article70611099.ece",
-    "time": "2026-02-09T12:54:34.000Z"
   }
 ];

@@ -1,12 +1,30 @@
 const newsData_bn = [
   {
     "cat": "World",
-    "title": "বাংলাদেশে ধানের শীষের দাপট, কত আসন পেল বিএনপি? তারককে শুভেচ্ছাবার্তা মোদির!",
+    "title": "বাংলাদেশে বিএনপি ঝড়, জিতে গেল ২০৫ আসন! অনেক পিছিয়ে জামাতের জয় ৬৯ আসনে! খালেদা-পুত্রই প্রধানমন্ত্রী?",
     "desc": "বিক্ষিপ্ত অশান্তি হলেও সবচেয়ে বড় যে প্রশ্নটি বড় হয়ে উঠেছে, তা হল- বাংলাদেশের ক্ষমতায় কে বসতে চলেছে? শেখ হাসিনা পরবর্তী জমানায় বিএনপি-ই কি ক্ষমতায় আসছে, নাকি সকলকে ভুল প্রমাণ করে মসনদে বসবে জামাত? সেদিকেই নজর গোটা বাংলাদেশের। নজর রাখছে ভারতও।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/modi-tarek-2026-02-3488148b2bc1fb19470d72cb173cf547-3x2.jpg",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/jamat-bnp-2026-02-46dc52358fa1bbe770b400525bd37a8d-3x2.jpg",
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/bangladesh-election-results-2026-live-updates-bangladesh-vote-counting-today-fight-between-bnp-jamat-tarique-rahman-shafiqur-rahman-sb-2537143.html",
-    "time": "2026-02-13T04:37:17.000Z"
+    "time": "2026-02-13T06:30:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "সোশ্যাল মিডিয়ার যুগে টিকিট কেটে নাচ ক'জন দেখেন? শহরের বুকে 'কলাবতী ডান্স ফেস্টিভ্যাল' বদলে দিল সেই ধারণাই!",
+    "desc": "প্রবীণদের অভিজ্ঞতা এবং নবীনদের শক্তির সংমিশ্রণেই শিল্পচর্চা পূর্ণতা পায়। জ্ঞানমঞ্চে মণিপুরি নর্তনালয় কলকাতার আয়োজনে অনুষ্ঠিত হল কলাবতী ডান্স ফেস্টিভ্যাল ২০২৬। রাজদীপ বন্দ্যোপাধ্যায়, সুবিকাশ মুখোপাধ্যায়, পরমিতা মৈত্র, কঙ্কনা সিং ও পর্ণা চক্রবর্তী ভারতীয় শাস্ত্রীয় নৃত্য পরিবেশন করে কোন বার্তা দিলেন?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-05-at-9.14.02-PM-1-2026-02-de9e78de0b2c69306bab8ea0e19b12c5-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/bimbavati-devi-kalabati-dance-festival-2026-unveils-indian-classical-dance-gyan-manch-a-manipuri-nartanalaya-kolkata-presentation-tib-ws-l-2536542.html",
+    "time": "2026-02-13T06:14:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "গ্রামে কোটি কোটি টাকার সম্পত্তি ! তাও আইনি ঝামেলায় কেন জড়িয়ে পড়লেন রাজপাল যাদব?",
+    "desc": "রাজপাল যাদবের ‘আতা পাতা লাপাতা’ ছবিটি নিয়ে এই বিতর্কের সূত্রপাত। ছবিটি তৈরির জন্য তিনি শাহজাহানপুরের মুরলি প্রজেক্টস থেকে প্রায় ৫ কোটি টাকা ঋণ নিয়েছিলেন। অভিযোগ এই যে রাজপাল সময়মতো ঋণ পরিশোধ করতে ব্যর্থ হন। যখন তিনি কোম্পানিকে চেক দেন, তখন সেগুলো বাউন্স হয়ে যায়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Rajpal-Yadav-Property-2026-02-20d13ea735c936446af05c2fd1f3f05c-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/actor-rajpal-yadav-case-5-crore-debt-and-crores-of-assets-actor-rajpal-yadav-faces-moral-questions-ss-local18-2538234.html",
+    "time": "2026-02-13T05:32:08.000Z"
   },
   {
     "cat": "World",
@@ -34,15 +52,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/ishan-kishan-became-the-first-wicket-keeper-batter-who-scored-half-cntury-in-t20-world-cup-break-ms-dhoni-s-record-sup-2537602.html",
     "time": "2026-02-12T18:13:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "সোশ্যাল মিডিয়ার যুগে টিকিট কেটে নাচ ক'জন দেখেন? শহরের বুকে 'কলাবতী ডান্স ফেস্টিভ্যাল' বদলে দিল সেই ধারণাই!",
-    "desc": "প্রবীণদের অভিজ্ঞতা এবং নবীনদের শক্তির সংমিশ্রণেই শিল্পচর্চা পূর্ণতা পায়। জ্ঞানমঞ্চে মণিপুরি নর্তনালয় কলকাতার আয়োজনে অনুষ্ঠিত হল কলাবতী ডান্স ফেস্টিভ্যাল ২০২৬। রাজদীপ বন্দ্যোপাধ্যায়, সুবিকাশ মুখোপাধ্যায়, পরমিতা মৈত্র, কঙ্কনা সিং ও পর্ণা চক্রবর্তী ভারতীয় শাস্ত্রীয় নৃত্য পরিবেশন করে কোন বার্তা দিলেন?",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-05-at-9.14.02-PM-1-2026-02-de9e78de0b2c69306bab8ea0e19b12c5-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/bimbavati-devi-kalabati-dance-festival-2026-unveils-indian-classical-dance-gyan-manch-a-manipuri-nartanalaya-kolkata-presentation-tib-ws-l-2536542.html",
-    "time": "2026-02-12T16:50:11.000Z"
   },
   {
     "cat": "World",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/aindrila-sharma-boyfriend-sabyasachi-chowdhury-still-close-with-sharma-family-attends-dr-aishwarya-sharma-engagement-pbd-2525370.html",
     "time": "2026-02-04T04:29:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বুধে ইতিহাস তৈরি হবে সুপ্রিম কোর্টে! SIR মামলায় কোর্টে সওয়াল করবেন খোদ মমতা! তাকিয়ে গোটা দেশ",
-    "desc": "SIR নিয়ে এবার সুপ্রিম কোর্টের দ্বারস্থ হলেন মমতা বন্দ্যোপাধ্যায়। আগামিকাল, বুধবার ইনপার্সন অ‍্যাপিয়ার করবেন মমতা বন্দ্যোপাধ্যায়। ভারতের নির্বাচন কমিশন ও রাজ্যের মুখ্য নির্বাচনী আধিকারিক বা সিইও-র বিরুদ্ধে আদালতে মামলা দায়ের করেন তৃণমূল নেত্রী মমতা বন্দ্যোপাধ্যায়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-03-at-11.13.08-PM-2026-02-c89a11613a10eb776a13c7a4fb26ec09-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/tmc-supremo-mamata-banerjee-herself-will-question-the-court-in-the-sir-case-at-supreme-court-sal-2525205.html",
-    "time": "2026-02-03T18:29:30.000Z"
   }
 ];

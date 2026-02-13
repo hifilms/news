@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "બાંગ્લાદેશમાં કટ્ટરપંથીઓના સૂપડાં સાફ, તારિક રહેમાન બનશે આગામી PM, ભારત માટે BNPનું કેવું છે સ્ટેન્ડ?",
+    "desc": "બાંગ્લાદેશમાં સંસદીય ચૂંટણીઓ 12 ફેબ્રુઆરીએ યોજાઈ અને એ જ દિવસે સાંજે મતગણતરીઓ પણ શરૂ થઈ ગઈ. છેલ્લી માહિતી મુજબ બાંગ્લાદેશ નેશનલિસ્ટ પાર્ટી (BNP) બે તૃતિયાંશ બહુમતી સાથે દેશમાં સરકાર બનાવી શકે છે. તારિક રહેમાન આગામી પીએમ બનવા જઈ રહ્યા છે. ત્યારે બીએનપી અને તારિક રહેમાનથી ભારતને શું ફાયદો થઈ શકે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/bangladesh-elections-2026-tarique-rehman-party-bnp-wins-effects-on-india-bangladesh-relations-464760 ",
+    "time": "2026-02-13T06:36:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ભારત-નામિબિયા મેચમાં ડેડ બોલને લઈને વિવાદ... અમ્પાયર અને કેપ્ટન વચ્ચે બબાલ",
+    "desc": "ભારત અને નામિબિયા વચ્ચે 12 ફેબ્રુઆરીના રોજ T20 વર્લ્ડ કપ 2026ની ગ્રુપ સ્ટેજ મેચ રમાઈ હતી, આ મેચમાં નામિબિયાના કેપ્ટન અને અમ્પાયર વચ્ચે ડેડ બોલને લઈને બબાલ થઈ હતી. ત્યારે આ સમગ્ર ઘટના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-ind-vs-nam-match-dead-ball-controversy-gerhard-erasmus-and-umpire-464779 ",
+    "time": "2026-02-13T05:29:51.000Z"
+  },
+  {
     "cat": "Business",
     "title": "અચાનક સોના-ચાંદીના ભાવમાં ભયંકર કડાકો, હજુ ઘટી શકે છે ભાવ? જાણો સોના-ચાંદીનો આજનો લેટેસ્ટ રેટ",
     "desc": "સોના અને ચાંદીમાં ભયંકર ઉતાર ચડાવ જોવા મળી રહ્યા છે. બજારમાં કિમતી ધાતુઓ અચાનક એકદમ ઓલટાઈમ હાઈ પર જાય છે અને પછી કડડડભૂસ થઈને પછડાય છે. ગુરુવારે રાતે વાયદા બજારમાં બંને કિમતી ધાતુઓમાં જોરદાર કડાકો જોવા મળ્યો. જો કે આજે વાયદા બજારમાં વળી પાછી કિંમતી ધાતુઓ ઉચકાઈ છે. તો અચાનક વાયદા બજાર અને રિટેલ બજારમાં સોનું અને ચાંદી પછડાવવાનું શું કારણ? ખાસ જાણો અને આજનો લેટેસ્ટ ભાવ પણ ચેક કરો.",
@@ -7,15 +25,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/sudden-sharp-fall-in-gold-and-silver-prices-mcx-rates-aaj-no-sona-chandi-no-bhav-business-news-in-gujarati-464763 ",
     "time": "2026-02-13T04:02:40.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "બાંગ્લાદેશમાં કટ્ટરપંથીઓના સૂપડાં સાફ, તારિક રહેમાન બનશે આગામી PM, ભારત માટે BNPનું કેવું છે સ્ટેન્ડ?",
-    "desc": "બાંગ્લાદેશમાં સંસદીય ચૂંટણીઓ 12 ફેબ્રુઆરીએ યોજાઈ અને એ જ દિવસે સાંજે મતગણતરીઓ પણ શરૂ થઈ ગઈ. છેલ્લી માહિતી મુજબ બાંગ્લાદેશ નેશનલિસ્ટ પાર્ટી (BNP) બે તૃતિયાંશ બહુમતી સાથે દેશમાં સરકાર બનાવી શકે છે. તારિક રહેમાન આગામી પીએમ બનવા જઈ રહ્યા છે. ત્યારે બીએનપી અને તારિક રહેમાનથી ભારતને શું ફાયદો થઈ શકે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/bangladesh-elections-2026-tarique-rehman-party-bnp-wins-effects-on-india-bangladesh-relations-464760 ",
-    "time": "2026-02-13T03:28:18.000Z"
   },
   {
     "cat": "Sports",
@@ -378,15 +387,6 @@ const newsData_gu = [
     "time": "2026-02-10T10:33:05.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "T20 વર્લ્ડ કપ વચ્ચે ભારતીય ખેલાડીઓને લાગ્યો મોટો ઝટકો, BCCIએ ફગાવી આ માંગણી",
-    "desc": "T20 વર્લ્ડ કપ 2026 વચ્ચે BCCIએ મોટો નિર્ણય લીધો છે. ભારતીય ખેલાડીઓ હવે તેમના ફેમિલી સાથે રહી શકશે નહીં. BCCIએ ટીમ મેનેજમેન્ટની વિનંતીને ફગાવી દીધી છે. બોર્ડે કહ્યું છે કે ખેલાડીઓ ઈચ્છે તો અલગ હોટલમાં તેમની ફેમિલી માટે વ્યવસ્થા કરી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-bcci-rejects-request-to-keep-families-with-team-464529 ",
-    "time": "2026-02-10T10:30:23.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "સૌથી ટોપ પર 800 કરોડની ક્લબમાં માત્ર 2 જ ફિલ્મ, એક તો ધૂરંધર...બીજીનું નામ જાણી આંખો પહોળી થશે",
     "desc": "બોલીવુડમાં કમાણીના મામલે તો અનેક ફિલ્મો નોંધપાત્ર પ્રદર્શન કરી ચૂકી છે. પરંતુ 800 કરોડથી વધુ કમાણી કરનારી ફક્ત 2 ફિલ્મો છે. અહીં ભારતભરમાં 800થી વધુ કમાણી કરી ચૂકેલી ફિલ્મોની વાત છે. વર્લ્ડવાઈડ આંકડા સામેલ નથી.",
@@ -403,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/not-maintaining-minimum-balance-in-your-account-banks-are-making-huge-profits-from-your-one-mistake-know-this-464527 ",
     "time": "2026-02-10T10:14:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "એ 5 મોટા ક્રિકેટર જેમને BCCI હવે નહીં આપે પગાર, જાણો શું છે કારણ",
-    "desc": "BCCIએ 2025-26 માટે સેન્ટ્રલ કોન્ટ્રાક્ટની જાહેરાત કરી છે. આ વખતે કોન્ટ્રાક્ટ લિસ્ટમાંથી A+ કેટેગરીને હટાવવામાં આવી છે. A કેટેગરીમાં શુભમન ગિલ સહિત 3 ખેલાડીઓ છે, તો રોહિત અને વિરાટને B કેટેગરીમાં મુકવામાં આવ્યા છે, જ્યારે 5 એવા ખેલાડી છે, જેમને કોન્ટ્રાક્ટ લિસ્ટમાંથી હટાવવામાં આવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/why-are-these-5-cricketers-not-included-in-the-bcci-central-contract-list-know-the-reason-464521 ",
-    "time": "2026-02-10T09:42:46.000Z"
   },
   {
     "cat": "Politics",

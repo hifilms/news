@@ -1,8 +1,8 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "When and where to watch Women's Rising Stars Asia Cup live on TV and streaming in India?",
-    "desc": "Women's Rising Stars Asia Cup gets underway today in Bangkok, as the India A team will be in action in the second match of the day against the UAE. As many as eight teams are...",
+    "title": "When and where to watch Women's Asia Cup Rising Stars live on TV and streaming in India?",
+    "desc": "Women's Asia Cup Rising Stars gets underway today in Bangkok, as the India A team will be in action in the second match of the day against the UAE. As many as eight teams are...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-a-vs-uae-live-when-and-where-to-watch-women-s-rising-stars-asia-cup-live-on-tv-and-streaming-in-india-2026-02-13-1030090",
@@ -70,23 +70,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ipl-set-to-return-to-chinnaswamy-as-karnataka-government-grants-permission-2026-02-12-1030043",
     "time": "2026-02-12T15:42:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson becomes the second-oldest player to achieve unique feat, joins Amit Mishra in elite list",
-    "desc": "Team India locks horns with Namibia in their second game of the T20 World Cup 2026. The two sides lock horns at the Arun Jaitley Stadium in New Delhi on February 12. The clash saw...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-becomes-the-second-oldest-player-to-achieve-unique-feat-joins-amit-mishra-in-elite-list-2026-02-12-1030039",
-    "time": "2026-02-12T15:16:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ishan Kishan wreaks havoc on JJ Smit, smashes 28 runs in an over against Namibia",
-    "desc": "India’s Ishan Kishan performed exceptionally well against Namibia in game 18 of the ongoing T20 World Cup 2026. The two sides took on each other at the Arun Jaitley Stadium in Delhi on February 12,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-wreaks-havoc-on-jj-smit-smashes-28-runs-in-an-over-against-namibia-2026-02-12-1030034",
-    "time": "2026-02-12T14:28:49.000Z"
   }
 ];
