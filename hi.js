@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India break 12-year-old T20 World Cup record against Namibia courtesy Ishan Kishan and Samson",
+    "desc": "India faced Namibia in the 18th match of the ongoing T20 World Cup at the Arun Jaitley Stadium in New Delhi on Thursday. The hosts registered their biggest win in the mega event, beating the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-break-12-year-old-t20-world-cup-record-against-namibia-courtesy-ishan-kishan-and-samson-2026-02-13-1030076",
+    "time": "2026-02-13T01:58:15.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Italy coach wants front-page coverage in newspapers back home after historic win over Nepal",
     "desc": "Making their debut at the T20 World Cup, Italy produced a result few saw coming, thrashing Nepal by 10 wickets in a statement win. Nepal had pushed England to the brink in their previous match...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-mohammed-siraj-not-playing-in-ind-vs-nam-t20-world-cup-2026-match-explained-2026-02-12-1030020",
     "time": "2026-02-12T13:12:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Italy register historic first win in T20 World Cup, Mosca brothers decimate Nepal in Mumbai",
-    "desc": "Game 17 of the ongoing T20 World Cup 2026 saw Nepal taking on Italy. The two sides locked horns at the Wankhede Stadium in Mumbai on February 12. The clash began with Nepal coming in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/italy-register-historic-first-win-in-t20-world-cup-mosca-brothers-decimate-nepal-in-mumbai-2026-02-12-1030009",
-    "time": "2026-02-12T12:10:28.000Z"
   }
 ];

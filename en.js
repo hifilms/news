@@ -1,5 +1,257 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Mikayla Nogueira confirms divorce from husband Cody Hawken",
+    "desc": "Beauty influencer Mikayla Nogueira emotionally announced her amicable divorce from Cody Hawken, emphasizing privacy and protecting her ex-husband. Despite the split, they remain in daily contact and co-parent their dogs. Nogueira clarified that Cody's past addiction struggles are separate from their marital decision.",
+    "img": "https://static.toiimg.com/photo/msid-128283793,imgsize-894487.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mikayla-nogueira-confirms-divorce-from-husband-cody-hawken-after-nearly-three-years/articleshow/128283806.cms",
+    "time": "2026-02-13T01:56:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Director Anuraj Manohar admits mistake",
+    "desc": "Director Anuraj Manohar admitted to a mistaken Pampa hilltop shoot, offering to pay fines. Forest officials are investigating rule breaches, seeking technical team input and camera footage. The 'Narivetta' director previously claimed no permission was granted for the filming on a restricted day, leading to a case filed and reported to court.",
+    "img": "https://static.toiimg.com/photo/msid-128283481,imgsize-31926.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/pampa-shoot-trouble-director-anuraj-manohar-says-it-was-a-mistake-more-people-to-be-questioned/articleshow/128283481.cms",
+    "time": "2026-02-13T01:47:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "MEA refuses to deny U.S. claims on India’s Russian oil imports",
+    "desc": "Senior U.S. official reiterates that India has reduced Russian oil purchases as U.S. “wanted”, is buying more American energy; joint statement, with no mention of Russian oil, is the “framework” on this matter, says MEA",
+    "img": "https://th-i.thgim.com/public/incoming/bzgd0v/article70625437.ece/alternates/LANDSCAPE_1200/20260212197L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/mea-refuses-to-deny-us-claims-on-indias-russian-oil-imports/article70624942.ece",
+    "time": "2026-02-13T01:38:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "O'Romeo Day 1 advance booking: Film sells over 1 lac tickets",
+    "desc": "Get ready for cinematic magic as 'O'Romeo' featuring Shahid Kapoor and Triptii Dimri has officially launched its advance ticket sales, selling a staggering 100,000 tickets and amassing an impressive Rs 3.05 crore. Directed by the brilliant Vishal Bhardwaj, this project marks the fourth time Kapoor joins forces with the acclaimed director.",
+    "img": "https://static.toiimg.com/photo/msid-128283158,imgsize-45530.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/oromeo-day-1-advance-booking-report-shahid-kapoor-and-triptii-dimri-starrer-sells-over-one-lakh-tickets/articleshow/128283158.cms",
+    "time": "2026-02-13T01:35:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How Indira Canteens lost flavour among patrons in Bengaluru",
+    "desc": "A flagship programme of the Congress government in Karnataka to provide affordable and regular meals for all, Indira Canteens today are a shadow of their former glorious selves despite repeated promises of revival, writes Rishita Khanna",
+    "img": "https://th-i.thgim.com/public/incoming/ucd3d3/article70623999.ece/alternates/LANDSCAPE_1200/IMG_Indira_canteen_2_1_38D9TIVG.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/how-indira-canteens-lost-flavour-among-patrons-in-bengaluru/article70618952.ece",
+    "time": "2026-02-13T01:34:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "UAE offer hope of first smile — but can Canada capitalise?",
+    "desc": "In the T20 World Cup 2026 “Group of Death”, New Zealand and South Africa lead while Afghanistan struggles, and UAE and Canada remain winless. Their clash on Friday is a key chance for a breakthrough victory. Canada gained confidence despite losses, while both teams prepared seriously, stressing equal opportunity and the need for more chances to play top nations to bridge the experience gap.",
+    "img": "https://static.toiimg.com/photo/msid-128254128,imgsize-69702.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-uae-offer-hope-of-first-smile-but-can-canada-capitalise/articleshow/128253336.cms",
+    "time": "2026-02-13T01:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kanakam on son's loss: 'Basil helped me with Rs 30,000'",
+    "desc": "Veteran actress Kudassanad Kanakam, known for 'Jaya Jaya Jaya Hey', found solace in director Basil Joseph after the devastating loss of her son. Facing financial hardship, Kanakam reached out for work, but Joseph unexpectedly sent her Rs 30,000, calling her 'Mother' and becoming a son-like figure in her life. She now cherishes these supportive relationships.",
+    "img": "https://static.toiimg.com/photo/msid-128282830,imgsize-25376.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/when-my-son-died-basil-joseph-gave-money-and-helped-me-says-actor-kudassanad-kanakam/articleshow/128282830.cms",
+    "time": "2026-02-13T01:20:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "BTS announce ‘ARIRANG’ to screen in theatres",
+    "desc": "K-Pop sensation BTS is set to thrill fans globally with a special theatrical event, broadcasting two full-length concerts from their upcoming 'ARIRANG' tour. These exclusive cinema screenings on April 11 and 18 will feature performances from South Korea and Tokyo, offering a unique chance to experience the band's electrifying live shows on the big screen.",
+    "img": "https://static.toiimg.com/photo/msid-128282493,imgsize-78330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/bts-announce-arirang-to-release-in-theatres-ahead-of-comeback-world-tour-advance-ticket-sales-to-open-on-february-25/articleshow/128282477.cms",
+    "time": "2026-02-13T01:14:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A glittering view, a gasping lake",
+    "desc": "The gem-like appearance of Durgam Cheruvu hides a sinister, calculated assault. As evening lights and rooftop views sell the lake as a tourist spot, a multi-agency process seems to be killing it softly. One civic body lowers the water level to free up land, another lays a 10-metre-wide walking track on the exposed lake bed and yet another releases organically loaded effluents that fuel decay. Once a source of drinking water and part of Golconda Fort’s hydrological system, the lake is now trapped in a bureaucratic tic-tac-toe, writes Serish Nanisetti",
+    "img": "https://th-i.thgim.com/public/incoming/126doa/article70625795.ece/alternates/LANDSCAPE_1200/Durgam%20Cheruvu%2003.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/telangana-spotlight-a-glittering-view-a-gasping-lake/article70625794.ece",
+    "time": "2026-02-13T01:10:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mardaani 3' CROSSES Rs 61 crore globally in 2 weeks",
+    "desc": "Rani Mukerji's latest venture, 'Mardaani 3,' wrapped up its two-week cinematic journey in India with a respectable collection of Rs 40.9 crore. Despite mixed reviews and stiff competition, the film managed to draw in Rs 1.1 crore on its 14th day. With a total global revenue of Rs 61.3 crore. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128281915,imgsize-27728.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mardaani-3-box-office-collection-day-14-and-day-15-live-rani-mukerjis-cop-drama-ends-2-week-run-at-rs-61-3-crore-globally/articleshow/128281915.cms",
+    "time": "2026-02-13T01:07:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Premam' re-release: Valentine’s Day becomes special",
+    "desc": "Mollywood's beloved cult classic, 'Premam,' is set for a grand re-release on February 13, 2026, marking its tenth anniversary. The film, which launched Nivin Pauly to stardom and featured memorable performances from Sai Pallavi, Anupama Parameswaran, and Madonna Sebastian, will once again grace the big screen for Valentine's week, much to the delight of its devoted fanbase.",
+    "img": "https://static.toiimg.com/photo/msid-128282397,imgsize-74164.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/premam-re-release-nivin-pauly-hit-film-back-in-theatres-fans-call-it-one-time-wonder/articleshow/128282397.cms",
+    "time": "2026-02-13T00:58:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Aashakal Aayiram' BO day 7: Family drama hits Rs 3.9 cr",
+    "desc": "Jayaram and son Kalidas Jayaram's 'Aashakal Aayiram' has garnered Rs 3.9 crore in its opening week, showing steady mid-week collections before a slight dip. The film, featuring Asha Sarath and Sharafudheen, appeals to family audiences, with strong night show occupancy. A re-sung classic track has sparked online discussion.",
+    "img": "https://static.toiimg.com/photo/msid-128281990,imgsize-26984.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/aashakal-aayiram-box-office-collections-day-7-jayarams-family-drama-hits-rs-3-9-cr-in-week-one/articleshow/128281990.cms",
+    "time": "2026-02-13T00:38:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "47 times over 200! Team India's T20 batting numbers are just unreal",
+    "desc": "India showcased their destructive batting prowess with blistering half-centuries from Ishan Kishan and Hardik Pandya, posting a formidable 209/9 against Namibia. Kishan's rapid 61 and Pandya's 52 ensured India maintained momentum, extending their record of 200-plus T20I totals to 47.",
+    "img": "https://static.toiimg.com/photo/msid-128266436,imgsize-52238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/47-times-over-200-team-indias-t20-batting-numbers-are-just-unreal/articleshow/128266284.cms",
+    "time": "2026-02-13T00:31:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Anomie' BO day 7: Bhavana's thriller hits Rs 1.38 cr",
+    "desc": "The Equation of Death,' starring the dynamic duo Bhavana Menon and Rahman, has made a notable splash at the box office with a global haul of Rs 1.38 crore in its first week. The Malayalam version accounted for a solid Rs 1.15 crore, reflecting a steady audience turnout.",
+    "img": "https://static.toiimg.com/photo/msid-128281635,imgsize-21144.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/anomie-box-office-collections-day-7-bhavanas-thriller-hits-rs-1-38-cr-malayalam-run-stays-steady/articleshow/128281635.cms",
+    "time": "2026-02-13T00:21:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Border 2'ends 3-week run with Rs 434 CRORE globally",
+    "desc": "'Border 2' wraps up its cinema stint following a robust premiere week, though box office figures have seen a decline. While reviews were mixed, the film managed to attract considerable audiences, particularly benefiting from the Republic Day holiday. With fresh titles poised for release, 'Border 2' may soon be bidding adieu to theaters, having raked in Rs 317 crore.",
+    "img": "https://static.toiimg.com/photo/msid-128281263,imgsize-37198.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-21-and-day-22-live-sunny-deol-and-varun-dhawan-starrer-concludes-3-week-run-with-rs-434-crore-worldwide/articleshow/128281263.cms",
+    "time": "2026-02-13T00:08:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Justin wraps Day 2 of settlement talks sans Blake",
+    "desc": "Actor Justin Baldoni emerged from court with a smile after settlement talks in his legal battle. While Blake Lively's team was present, she did not attend. Baldoni is also involved in a separate lawsuit with his former publicist. Settlement discussions were reportedly unsuccessful, with a trial anticipated in May.",
+    "img": "https://static.toiimg.com/photo/msid-128280449,imgsize-72314.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/justin-baldoni-all-smiles-after-day-2-of-settlement-talks-sans-blake-lively-absent-says-everything-went-as-expected/articleshow/128280283.cms",
+    "time": "2026-02-13T00:07:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'With Love' BO day 7: Film hits 13.17 crore mark",
+    "desc": "In just its first week, the romantic film 'With Love' has taken the box office by storm, raking in an impressive Rs 13.17 crore, including Rs 1.12 crore on Day 7 alone. Although there's been a minor decline in net revenue, its popularity remains intact, particularly thriving in Tamil and Telugu screenings.",
+    "img": "https://static.toiimg.com/photo/msid-128281269,imgsize-58232.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/with-love-box-office-collections-day-7-abishan-jeevinths-film-hits-13-17-crore-mark/articleshow/128281269.cms",
+    "time": "2026-02-13T00:03:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Government can file FIR or move Privilege Motion, I will stand with farmers: Rahul Gandhi on criticism of U.S. trade deal",
+    "desc": "In a video on social media, the Lok Sabha Leader of Opposition launched a sharp attack on the government over the agreement saying PM Narendra Modi’s ‘reins’ were in the hands of U.S. President Donald Trump",
+    "img": "https://th-i.thgim.com/public/incoming/zfsfld/article70625698.ece/alternates/LANDSCAPE_1200/PTI02_12_2026_000121B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/government-can-file-fir-or-move-privilege-motion-i-will-stand-with-farmers-rahul-gandhi-on-criticism-of-us-trade-deal/article70625515.ece",
+    "time": "2026-02-12T23:53:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "47 days of striking for fair honorarium",
+    "desc": "Hundreds of midday meal cooks in Chhattisgarh have been protesting since December 29, demanding an increase their honorarium of ₹2,000 a month; they demand job security and a sum of money that will cover at least their basic daily expenses",
+    "img": "https://th-i.thgim.com/public/incoming/nrhi2f/article70622942.ece/alternates/LANDSCAPE_1200/6744_12_2_2026_8_14_43_1_RAIPUR.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/chhattisgarh/midday-meal-cooks-protest-in-chhattisgarh-47-days-of-striking-for-fair-honorarium/article70622897.ece",
+    "time": "2026-02-12T23:44:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'You can’t just go and think': Rohit warns India ahead of Pakistan clash",
+    "desc": "Rohit Sharma warned India not to take the T20 World Cup clash against Pakistan lightly despite being favourites. Ahead of the February 15 match in Colombo, he said past records and rankings don’t matter and any team can win on its day. Rohit stressed India must play well on the day, as form and history won’t guarantee victory in unpredictable T20 cricket.",
+    "img": "https://static.toiimg.com/photo/msid-128266927,imgsize-66140.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/you-cant-just-go-and-think-rohit-sharma-warns-team-india-ahead-of-t20-world-cup-clash-against-pakistan/articleshow/128266464.cms",
+    "time": "2026-02-12T23:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Spider-Noir’ Trailer: Nicolas Cage swings into action as Ben Reilly",
+    "desc": "Nicolas Cage embodies a weary, older Spider-Man in the new 'Spider-Noir' series trailer. Set in 1930s New York, the live-action show follows private investigator Ben Reilly confronting his past as a masked vigilante. The trailer, released in both black-and-white and color, hints at a darker take on the hero and features villains like Sandman and Electro.",
+    "img": "https://static.toiimg.com/photo/msid-128276925,imgsize-49946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/spider-noir-trailer-nicolas-cage-swings-into-action-as-ben-reilly-in-new-spider-man-series-set-for-may-27-release/articleshow/128276925.cms",
+    "time": "2026-02-12T23:02:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TVK functionary among 52 persons booked in Vandavasi for obstruction of traffic movement",
+    "desc": "During a road show that the party workers carried out, the TVK functionary halted his vehicle near the elevated corridor on the stretch when a group of supporters tried to honour him with a huge garland, using a crane",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-functionary-among-52-persons-booked-in-vandavasi-for-obstruction-of-traffic-movement/article70624615.ece",
+    "time": "2026-02-12T22:53:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Minister’s adverse remarks in Rajasthan Assembly on right to health spark controversy",
+    "desc": "“What is the need for a law on the right to health?” Gajendra Singh Khimsar asked, leading to objection by the Opposition Congress MLAs, who raised slogans and trooped to the well of the House",
+    "img": "https://th-i.thgim.com/public/incoming/kfrwm3/article70626001.ece/alternates/LANDSCAPE_1200/20260211447L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rajasthan/ministers-adverse-remarks-in-rajasthan-assembly-on-right-to-health-spark-controversy/article70624788.ece",
+    "time": "2026-02-12T22:36:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Varun recalls David Dhawan’s ICU scare during Border 2 shoot",
+    "desc": "Varun Dhawan has opened up about a deeply personal moment during the shoot of Border 2, revealing that his father, filmmaker David Dhawan, was admitted to the ICU while he was filming the war drama. The actor said the incident changed his perspective on online trolling and public scrutiny.",
+    "img": "https://static.toiimg.com/photo/msid-128278417,imgsize-31746.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/varun-dhawan-recalls-david-dhawans-icu-scare-during-border-2-shoot-says-trolling-kuch-bhi-nahi-lagti-now/articleshow/128278155.cms",
+    "time": "2026-02-12T22:18:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tom Cruise-Brad Pitt's AI fight video goes viral",
+    "desc": "A hyperrealistic AI-generated fight scene featuring Tom Cruise and Brad Pitt has ignited industry concerns. 'Deadpool & Wolverine' writer Rhett Reese warned of an impending 'shift' in filmmaking, suggesting one person could soon create movies indistinguishable from Hollywood productions. He believes these tools will democratize filmmaking, empowering talented individuals without capital.",
+    "img": "https://static.toiimg.com/photo/msid-128277457,imgsize-20166.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-cruise-and-brad-pitt-ai-fight-video-goes-viral-deadpool-and-wolverine-writer-rhett-reese-reacts-watch/articleshow/128276975.cms",
+    "time": "2026-02-12T22:06:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka Chopra on hiring security for daughter Malti Marie",
+    "desc": "In an age where privacy is increasingly fragile, Priyanka Chopra Jonas has drawn a clear line when it comes to protecting her daughter, Malti Marie. The global star, who is used to living under constant public scrutiny, says motherhood has reshaped her priorities — especially when it comes to safety and boundaries.",
+    "img": "https://static.toiimg.com/photo/msid-128276983,imgsize-29648.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-on-hiring-security-for-daughter-malti-marie-nobodys-gonna-kill-me-but-dont-record-us-without-consent/articleshow/128276961.cms",
+    "time": "2026-02-12T21:48:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Muslim groups, Left, TMC oppose govt’s move to mandate recitation of all 6 verses of Vande Mataram",
+    "desc": "The All India Muslim Personal Law Board and Jamiat Ulama-i-Hind have strongly objected to the government's notification mandating the recitation of all six verses of 'Vande Mataram'. They deem the order unconstitutional and a violation of religious freedom, threatening legal challenges. Left parties and Trinamool Congress also oppose the move, citing constitutional provisions and the secular character of the nation.",
+    "img": "https://static.toiimg.com/photo/msid-128276797,imgsize-1665495.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/muslim-groups-left-tmc-oppose-govts-move-to-mandate-recitation-of-all-6-verses-of-vande-mataram/articleshow/128276596.cms",
+    "time": "2026-02-12T21:38:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Farhan Akhtar set for Hollywood debut in 'The Beatles'",
+    "desc": "Indian actor and filmmaker Farhan Akhtar is set to make his Hollywood acting debut as legendary sitar maestro Ravi Shankar in Sam Mendes' ambitious four-film cinematic event on The Beatles. Akhtar joins a stellar cast portraying the iconic band members and their associates, chronicling their journey from Liverpool to global fame and eventual split.",
+    "img": "https://static.toiimg.com/photo/msid-128275768,imgsize-21948.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farhan-akhtar-set-for-hollywood-debut-in-the-beatles-a-four-film-cinematic-event-amid-don-3-drama-with-ranveer-singh/articleshow/128275710.cms",
+    "time": "2026-02-12T21:26:14.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Over 73% of MoUs converted into investments in T.N., says Stalin",
     "desc": "This data is for those who have been questioning us over the conversion of MoUs, the Chief Minister says at the Conversion Conclave 2026 in Chennai. Industries Minister T.R.B. Rajaa highlights the government’s achievements in a presentation",
@@ -99,24 +351,6 @@ const newsData_en = [
     "time": "2026-02-12T18:37:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Aamir Khan reacts to who will replace SRK and Salman",
-    "desc": "Aamir Khan has reacted to the much-talked-about train scene in Pathaan (2023), where Shah Rukh Khan and Salman Khan jokingly discuss who could replace them — hinting that they might be indispensable. Speaking to Variety India, Aamir addressed the tongue-in-cheek moment and shared his perspective on the new generation of actors.",
-    "img": "https://static.toiimg.com/photo/msid-128270951,imgsize-44656.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-reacts-to-pathaan-train-scene-on-who-will-replace-shah-rukh-khan-and-salman-khan-ranveer-singh-ranbir-kapoor-vicky-kaushal-are-there/articleshow/128270723.cms",
-    "time": "2026-02-12T18:08:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Government can file FIR or move Privilege Motion, I will stand with farmers: Rahul Gandhi on criticism of U.S. trade deal",
-    "desc": "In a video on social media, the Lok Sabha Leader of Opposition launched a sharp attack on the government over the agreement saying PM Narendra Modi’s ‘reins’ were in the hands of U.S. President Donald Trump",
-    "img": "https://th-i.thgim.com/public/incoming/zfsfld/article70625698.ece/alternates/LANDSCAPE_1200/PTI02_12_2026_000121B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/government-can-file-fir-or-move-privilege-motion-i-will-stand-with-farmers-rahul-gandhi-on-criticism-of-us-trade-deal/article70625515.ece",
-    "time": "2026-02-12T17:36:09.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Delhi govt clears 'CM Skill Development Scheme' to link artisans with global markets",
     "desc": "Delhi government launched the Chief Minister Skill Development Scheme to empower artisans in khadi, handloom, and unorganised sectors. The initiative offers structured training, financial aid, and digital market access, including ONDC integration. Beneficiaries will receive stipends and toolkits, with a focus on skill enhancement and sustainable livelihoods for thousands of workers.",
@@ -198,15 +432,6 @@ const newsData_en = [
     "time": "2026-02-12T16:55:20.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘The Crown’ conspiracy theory: Who killed Princess Diana?",
-    "desc": "The Crown's depiction of Princess Diana's last moments stirs up discussions about her untimely death. As the series delves into her battles with overwhelming media attention and personal turmoil, official inquiries have reaffirmed that her demise was a heartbreaking accident driven by reckless driving and the relentless pursuit of paparazzi.",
-    "img": "https://static.toiimg.com/photo/msid-128245632,imgsize-53728.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-crown-conspiracy-theory-explained-who-really-was-responsible-for-princess-dianas-tragic-death/articleshow/128245578.cms",
-    "time": "2026-02-12T16:55:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Refilled aerated drinks at T20 World Cup venue? DDCA issues statement",
     "desc": "The DDCA has refuted claims of unhygienic practices concerning soft drinks at the Arun Jaitley Stadium. Responding to a viral video, the association stated the vendor's action was part of waste segregation and disposal procedures by an authorized concessionaire, adhering to environmental and operational guidelines. Strict hygiene protocols are reportedly maintained at the venue.",
@@ -232,33 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/cbic-to-launch-eligible-manufacturer-importer-scheme-by-march-1-how-it-could-ease-customs-compliance/articleshow/128267380.cms",
     "time": "2026-02-12T16:34:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "MEA refuses to deny U.S. claims on India’s Russian oil imports",
-    "desc": "Senior U.S. official reiterates that India has reduced Russian oil purchases as U.S. “wanted”, is buying more American energy; joint statement, with no mention of Russian oil, is the “framework” on this matter, says MEA",
-    "img": "https://th-i.thgim.com/public/incoming/bzgd0v/article70625437.ece/alternates/LANDSCAPE_1200/20260212197L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/mea-refuses-to-deny-us-claims-on-indias-russian-oil-imports/article70624942.ece",
-    "time": "2026-02-12T16:20:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Did Premanandji Maharaj warn Rajpal Yadav about difficult times?",
-    "desc": "Actor Rajpal Yadav faces legal trouble, currently in Tihar jail over a Rs 9 crore debt, with his bail hearing adjourned. Amidst this, a resurfaced video from 2025 shows him meeting spiritual leader Premanand Maharaj. Maharaj's words about life's difficulties and God's sole support are now resonating with many.",
-    "img": "https://static.toiimg.com/photo/msid-128266823,imgsize-43292.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-premanandji-maharaj-warn-rajpal-yadav-about-difficult-times-two-months-ago-he-had-said-only-god-offers-support-in-now-viral-video/articleshow/128266687.cms",
-    "time": "2026-02-12T16:15:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mrunal Thakur on Valentine’s Day wedding with Dhanush",
-    "desc": "Dhanush and Mrunal Thakur have been rumoured to be in a relationship for a while now. Last month, the duo grabbed headlines again after reports claimed they had decided to take their relationship to the next level. Several reports suggested that Dhanush and Mrunal were set to get married on February 14, Valentine’s Day. However, in a recent interaction, Mrunal firmly dismissed the speculation.",
-    "img": "https://static.toiimg.com/photo/msid-128266360,imgsize-42668.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mrunal-thakur-reacts-to-valentines-day-wedding-rumours-with-dhanush-aaj-meri-haldi-hai-kal-sangeet-hai/articleshow/128266219.cms",
-    "time": "2026-02-12T16:04:13.000Z"
   },
   {
     "cat": "Business",
@@ -315,24 +513,6 @@ const newsData_en = [
     "time": "2026-02-12T15:15:31.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Top 5 South stories of the day",
-    "desc": "Nani's 'The Paradise' release date has been postponed to August 21, 2026, disappointing fans. Fahadh Faasil joins 'Idhayam Murali', boosting the project's buzz. Meanwhile, 'RC 17' is exploring two script storylines, and actor Riaz Pathan is recovering from a car accident. 'Jai Hanuman' is set for a grand launch in Hampi on February 22, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-128264508,imgsize-103290.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nanis-the-paradise-release-shift-rc-17-story-hint-riaz-pathans-car-accident-top-5-south-stories-of-the-day/articleshow/128264508.cms",
-    "time": "2026-02-12T15:13:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rolls Royce says eyeing tenfold rise in India sourcing",
-    "desc": "The company is currently exploring opportunities in India that include the potential co-development of a next-generation combat jet engine, as well as partnerships to localise and manufacture engines for the Indian Army, Navy and Coast Guard and potentially power solutions for critical infrastructure and industry",
-    "img": "https://th-i.thgim.com/public/incoming/3pbvyc/article70625100.ece/alternates/LANDSCAPE_1200/20260211438L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rolls-royce-says-eyeing-tenfold-rise-in-india-sourcing/article70625068.ece",
-    "time": "2026-02-12T15:08:46.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Record! Italy batters become first-ever pair to achieve this feat",
     "desc": "Italy made history at the T20 World Cup as brothers Justin and Anthony Mosca powered them to their first-ever World Cup win with a 10-wicket thrashing of Nepal. After restricting Nepal to 123, the duo chased it with an unbeaten 124-run opening stand, setting a record for the highest sibling partnership in T20 World Cup history.",
@@ -340,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-record-italy-batters-justin-and-anthony-mosca-script-history-become-first-ever-pair-to-/articleshow/128263675.cms",
     "time": "2026-02-12T14:58:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nod for logistics park, bunkering facility at Vizhinjam",
-    "desc": "Container Corporation of India Ltd. (CONCOR) will develop the MMLP on approximately 100 acres, while Indian Oil Corporation Limited (IOC) plans to create an international-standard bunkering facility on 40 acres. The initiative aims to enhance cargo handling and strengthen the transshipment hub’s capabilities.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/nod-for-logistics-park-bunkering-facility-at-vizhinjam/article70624771.ece",
-    "time": "2026-02-12T14:49:51.000Z"
   },
   {
     "cat": "Sports",
@@ -369,24 +540,6 @@ const newsData_en = [
     "time": "2026-02-12T14:34:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Laxman Singh Rajput weds Rajni Rajput",
-    "desc": "Actor and producer Laxman Singh Rajput celebrated a momentous occasion as he married Rajni Rajput in a beautifully traditional Hindu ceremony in his family village. The couple's joyful moments were shared on Instagram, featuring enchanting images of Vedic rituals and stunning bridal garments.",
-    "img": "https://static.toiimg.com/photo/msid-128263032,imgsize-117756.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/actor-producer-laxman-singh-rajput-ties-the-knot-with-rajni-rajput-in-a-traditional-hindu-ceremony/articleshow/128263032.cms",
-    "time": "2026-02-12T14:34:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nani's'The Paradise'locks in a new release date",
-    "desc": "Nani's highly anticipated film, 'The Paradise,' has been postponed from its original March 26, 2026 release date to August 21, 2026. The makers announced the new date via an official poster, disappointing fans who were expecting an earlier launch. Despite the delay, promotional activities are expected to ramp up, with a single drop rumored for February 2026.",
-    "img": "https://static.toiimg.com/photo/msid-128262770,imgsize-112820.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-paradise-avoids-release-in-march-nani-starrer-locks-in-a-new-release-date/articleshow/128262770.cms",
-    "time": "2026-02-12T14:26:09.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Samson trolled online after Namibia show",
     "desc": "Sanju Samson was trolled on social media after scoring 22 off 8 balls against Namibia in the T20 World Cup, with fans saying he wasted another chance. He played in place of Abhishek Sharma, who was ill. Namibia chose to bowl on a flat pitch, while Suryakumar Yadav spoke about dew and team changes. Despite criticism, India started strongly, but Samson’s dismissal reignited consistency debates.",
@@ -394,42 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-sanju-samson-trolled-online-after-namibia-show-one-more-chance-wasted/articleshow/128262180.cms",
     "time": "2026-02-12T14:17:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Trump has PM Modi by the throat': Rahul Gandhi reacts to motion against him by BJP's Nishikant Dubey",
-    "desc": "Rahul Gandhi said the Modi government's decision to import American \"corn, soybeans, and fruits\" is just a beginning and that the Centre would \"open the doors of the entire agriculture market​​ for his friends, for people like Adani and Ambani, and for foreign powers.\" He reiterated his \"PM Modi has sold the nation\" remark.",
-    "img": "https://static.toiimg.com/photo/msid-128262496,imgsize-94506.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/trump-has-pm-modi-by-the-throat-rahul-gandhi-reacts-to-motion-against-him-by-bjps-nishikant-dubey/articleshow/128261353.cms",
-    "time": "2026-02-12T14:17:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Neither my language nor my voice': Shashi Tharoor flags fake AI video claiming he praised Pakistan’s T20 World Cup boycott",
-    "desc": "Congress MP Shashi Tharoor has slammed a fabricated AI-generated video falsely attributing praise for Pakistan's diplomatic handling of a T20 World Cup boycott to him. Tharoor clarified the video was fake, stating neither the language nor voice was his, and had previously called Pakistan's boycott \"disgraceful.\"",
-    "img": "https://static.toiimg.com/photo/msid-128262926,imgsize-1101860.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/neither-my-language-nor-my-voice-shashi-tharoor-flags-fake-ai-video-claiming-he-praised-pakistans-t20-world-cup-boycott/articleshow/128262272.cms",
-    "time": "2026-02-12T14:16:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajpal Yadav has paid half amount of Rs 5 crore debt, says his lawyer",
-    "desc": "Actor Rajpal Yadav's lawyer reports that half of the outstanding amount in his insolvency case has been cleared. A bail application requires a response from the opposing party, with further instructions to be sought from Yadav in jail. Negotiations continue on a 2012 agreement, with clearer answers expected Monday.",
-    "img": "https://static.toiimg.com/photo/msid-128262116,imgsize-24432.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-has-paid-half-amount-of-rs-5-crore-debt-says-his-lawyer-negotiations-are-underway/articleshow/128262133.cms",
-    "time": "2026-02-12T14:07:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shahid’s clever reply amuses Kapil",
-    "desc": "During his appearance on 'The Great Indian Kapil Show,' Shahid Kapoor took a light-hearted jab at the topics of marriage and Valentine's Day while promoting 'O Romeo.' He amusingly noted that his wife, Mira Rajput, is fully aware of the attentions he garners, putting family first. Fans can catch the film, featuring Triptii Dimri, in cinemas starting February 13.",
-    "img": "https://static.toiimg.com/photo/msid-128261888,imgsize-43396.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shahid-kapoors-witty-response-to-a-valentines-day-message-leaves-kapil-sharma-amused/articleshow/128261888.cms",
-    "time": "2026-02-12T14:03:41.000Z"
   },
   {
     "cat": "Business",
@@ -448,24 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-sachin-tendulkar-celebrates-italys-10-wicket-win-a-proud-footballing-nation-making-its-mark/articleshow/128260952.cms",
     "time": "2026-02-12T13:48:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anuradha Paudwal defends Rahman on his communal remark",
-    "desc": "Veteran singer Anuradha Paudwal has defended AR Rahman against controversy, describing him as a spiritual and noble individual. She suggested interviews can be framed to provoke sensational responses and emphasized Rahman's significant contributions to music, stating he is beyond such controversies.",
-    "img": "https://static.toiimg.com/photo/msid-128261104,imgsize-25138.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anuradha-paudwal-defends-ar-rahman-amidst-his-communal-remark-calls-him-a-saintly-person/articleshow/128260864.cms",
-    "time": "2026-02-12T13:40:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rahul Gandhi snaps at reporters outside Parliament; Rijiju questions his stance",
-    "desc": "A political storm brewed in Parliament as Rahul Gandhi confronted journalists over privilege motion queries, sparking BJP criticism. This follows his strong Lok Sabha attack on the government. Union Minister Kiren Rijiju accused Gandhi of avoiding questions and shared a video of alleged misconduct in the Speaker's chamber, which Priyanka Gandhi Vadra denied.",
-    "img": "https://static.toiimg.com/photo/msid-128260855,imgsize-897764.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-rahul-gandhi-snaps-at-reporters-outside-rijiju-questions-his-stance/articleshow/128259845.cms",
-    "time": "2026-02-12T13:34:51.000Z"
   },
   {
     "cat": "Sports",
@@ -495,15 +594,6 @@ const newsData_en = [
     "time": "2026-02-12T13:09:15.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Director Nolan recalls Chalamet's instinct in 'Interstellar'",
-    "desc": "At a recent film festival, Christopher Nolan took a moment to celebrate Timothée Chalamet's unique creativity while filming 'Interstellar.' He recounted how Chalamet, as a newcomer, confidently engaged in a crucial scene, embracing his instincts despite Nolan's differing opinion.",
-    "img": "https://static.toiimg.com/photo/msid-128258693,imgsize-17326.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/christopher-nolan-told-timothe-chalamet-he-ignored-direction-on-interstellar-scene/articleshow/128258693.cms",
-    "time": "2026-02-12T12:42:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Italy register first-ever T20 World Cup win, thrash Nepal by 10 wickets",
     "desc": "Italy achieved a historic maiden T20 World Cup victory, defeating Nepal by 10 wickets. After their spinners dismissed Nepal for 123, the Mosca brothers, Anthony and Justin, delivered a dominant unbeaten opening partnership to secure the win with 7.2 overs to spare.",
@@ -522,24 +612,6 @@ const newsData_en = [
     "time": "2026-02-12T12:35:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Varun shares wife's HONEST reaction after watching Border 2",
-    "desc": "Varun Dhawan’s 'Border 2' is performing strongly at the box office. At a recent event, he revealed wife Natasha Dalal’s sweet reaction, saying she praised his performance but advised him “not to talk too much.” Varun also addressed pre-release trolling and shared that Salman Khan supported him during that phase.",
-    "img": "https://static.toiimg.com/photo/msid-128258472,imgsize-50790.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/varun-dhawan-shares-wife-natasha-dalals-honest-reaction-after-watching-border-2-zyada-bolo-mat-/articleshow/128258472.cms",
-    "time": "2026-02-12T12:34:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Taylor Swift’s most viral on-stage moments",
-    "desc": "It wouldn't be wrong to say that Taylor Swift is one such name in the music industry who has mastered the art of staying relevant over the years. Apart from consistently delivering chartbusters and serving major fashion and beauty goals over the years, the global pop music powerhouse has given us some memorable on-stage moments that have only enhanced her charm. From performing in the rain to giving a shoutout to her best friend, Blake Lively’s daughters, here are some of her most iconic on-stage moments.",
-    "img": "https://static.toiimg.com/photo/msid-128250272,imgsize-27442.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swifts-most-viral-on-stage-moments-from-performing-in-the-rain-to-giving-a-shout-out-to-blake-livelys-kids/photostory/128250272.cms",
-    "time": "2026-02-12T12:30:00.000Z"
-  },
-  {
     "cat": "World",
     "title": "Family of Indian student, killed by U.S. officer, to get ₹262 crore settlement",
     "desc": "Jaahnavi Kandula was hit by Officer Kevin Dave, who was driving as fast as 119 kph in a 40-kph zone as he responded to a drug overdose call. He had his emergency lights on and had been using his siren at intersections.",
@@ -547,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/seattle-reaches-29-million-settlement-with-family-of-grad-student-from-india-struck-killed-by-officer/article70623723.ece",
     "time": "2026-02-12T12:27:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Whatever discussions we had remains between us': Supriya Sule on merger of NCP factions after Ajit Pawar's death",
-    "desc": "Supriya Sule emphasized fulfilling Ajit Pawar's unfinished dreams. She mentioned merger discussions remain private. Sule also addressed concerns about the plane crash, noting a detailed inquiry is promised. She thanked leaders from various parties for their support during Sharad Pawar's hospitalization. The family is mourning and not commenting further at this time.",
-    "img": "https://static.toiimg.com/photo/msid-128257984,imgsize-574944.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/whatever-discussions-we-had-remains-between-us-supriya-sule-on-merger-of-ncp-factions-after-ajit-pawars-death/articleshow/128258014.cms",
-    "time": "2026-02-12T12:24:04.000Z"
   },
   {
     "cat": "Sports",
@@ -577,57 +640,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Indian chess legend confirms participation for Norway Chess Women",
-    "desc": "Indian chess legend Koneru Humpy will play Norway Chess Women for the third time from May 25 to June 5 in Oslo, expressing excitement about the competition and atmosphere. A trailblazer, she became India’s first female Grandmaster at 15 and crossed 2600 Elo in 2007. A two-time Women’s World Rapid Champion, she qualified for the 2026 Candidates.",
-    "img": "https://static.toiimg.com/photo/msid-128257852,imgsize-86862.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/indian-chess-legend-confirms-participation-for-norway-chess-women-2026-event/articleshow/128256518.cms",
-    "time": "2026-02-12T12:20:43.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Churchill not added to ISL season; 'fault of the administration,' says Bhutia",
     "desc": "Churchill Brothers will not be promoted to the Indian Super League for the 2025-26 season, the AIFF ruled, despite provisionally finishing top of the I-League. The decision followed a CAS verdict that awarded the I-League title and promotion to Inter Kashi, who will play their first game on February 14 against FC Goa.",
     "img": "https://static.toiimg.com/photo/msid-128257649,imgsize-66272.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/churchill-brothers-not-added-to-isl-2025-26-fault-of-the-administration-says-baichung-bhutia/articleshow/128257082.cms",
     "time": "2026-02-12T12:15:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Govt approves deal for 114 Rafale jets, combat missiles; family of Indian student killed by US cop receives Rs 260 cr &amp; more",
-    "desc": "India's Defence Acquisition Council approved a Rs 3.6 lakh crore deal for 114 Rafale jets and other defense equipment. Meanwhile, the family of Jaahnavi Kandula, an Indian student killed by a Seattle police vehicle, received a $29 million settlement.",
-    "img": "https://static.toiimg.com/photo/msid-128257585,imgsize-764931.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-govt-approves-deal-for-114-rafale-jets-combat-missiles-family-of-indian-student-killed-by-us-cop-receives-rs-260-cr-more/articleshow/128257266.cms",
-    "time": "2026-02-12T12:14:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi CM Rekha Gupta launches projects worth Rs 85 crore for SC/ST colonies",
-    "desc": "Delhi Chief Minister Rekha Gupta inaugurated 146 development projects worth Rs 85 crore in Malkaganj Chowk, fulfilling long-pending public welfare needs. She highlighted the government's commitment to reviving stalled projects across the city, from infrastructure to social welfare initiatives.",
-    "img": "https://static.toiimg.com/photo/msid-128257541,imgsize-911842.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-cm-rekha-gupta-launches-projects-worth-rs-85-crore-for-sc/st-colonies/articleshow/128257265.cms",
-    "time": "2026-02-12T12:08:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Amit Shah called me, then there was raid': Cong's Bhupesh Baghel levels big charge; what he said about joining BJP",
-    "desc": "Former Chhattisgarh CM Bhupesh Baghel claims Union home minister Amit Shah contacted him about ongoing cases, implying an offer to join the BJP. Baghel alleges the BJP uses investigative agencies against opposition leaders before offering a \"washing machine\" to cleanse them. He cited examples like Himanta Biswa Sarma and Ajit Pawar.",
-    "img": "https://static.toiimg.com/photo/msid-128256764,imgsize-592292.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/amit-shah-called-me-then-there-was-raid-congs-bhupesh-baghel-levels-big-charge-what-he-said-about-joinoing-bjp/articleshow/128256067.cms",
-    "time": "2026-02-12T11:54:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Varun reveals Salman Khan stood by him during trolling",
-    "desc": "Varun Dhawan celebrates Border 2’s success after trailer trolling turned his smile into a meme. Critics and fans now praise his top performance. At the press event, he called trolling common but stayed unaffected. Salman Khan called during trolling saying “Good things are coming,” later praising, “I’m proud of you, beta” at 2 AM—boosting his confidence. Directed by Anurag Singh, the 1971 war hit stars Sunny Deol and more, earning box office success.",
-    "img": "https://static.toiimg.com/photo/msid-128256733,imgsize-21130.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/varun-dhawan-reveals-salman-khan-stood-by-him-during-trolling-later-told-him-im-proud-of-you-beta/articleshow/128256733.cms",
-    "time": "2026-02-12T11:53:33.000Z"
   },
   {
     "cat": "Sports",
@@ -646,15 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/building-data-centres-in-india-far-cheaper-than-in-us-drawing-global-hyperscalers-raju-vegesna/article70623611.ece",
     "time": "2026-02-12T11:24:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Unsold in IPL, Steve Smith becomes PSL's costliest signing",
-    "desc": "Steve Smith shattered PSL records, becoming the most expensive player at PKR 14 crore for the Sialkot Stallions. The revamped 11th edition features a new auction system and two new franchises. Naseem Shah was the top Pakistani buy, while Babar Azam was retained. The tournament runs March 26-May 3.",
-    "img": "https://static.toiimg.com/photo/msid-128252551,imgsize-30772.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/unsold-in-ipl-steve-smith-becomes-psls-costliest-signing/articleshow/128252550.cms",
-    "time": "2026-02-12T10:26:43.000Z"
   },
   {
     "cat": "Entertainment",
@@ -700,15 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/ashwiny-iyer-tiwari-curates-femme-lens-at-red-lorry-film-festival-2026/article70623121.ece",
     "time": "2026-02-12T08:15:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gautam Gambhir",
-    "desc": "Returning to his hometown Delhi for the match against Namibia, India's head coach Gautam Gambhir emphasised the importance of team togetherness in the demanding world of elite sports. He highlighted how support staff become like family, fostering a relaxed atmosphere during practice. Gambhir candidly stated that only a winning dressing room brings smiles, underscoring the pressure of professional cricket.",
-    "img": "https://static.toiimg.com/photo/msid-128245821,imgsize-142308.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/a-winning-dressing-room-is-a-smiling-dressing-room-gautam-gambhir-reflects-before-indias-namibia-clash/articleshow/128244345.cms",
-    "time": "2026-02-12T08:09:26.000Z"
   },
   {
     "cat": "Business",

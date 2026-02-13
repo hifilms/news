@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "জেসি স্ট্র্যাং কে? কানাডার সবচেয়ে ভয়াবহ স্কুলে গুলি চালানোর ঘটনায় ১৮ বছর বয়সী সন্দেহভাজনের পরিচয় জেনে নিন",
+    "desc": "ব্রিটিশ কলম্বিয়ার টাম্বলার রিজ সেকেন্ডারি স্কুলে ভয়াবহ গুলি চালানোর ঘটনায় কানাডায় শোকের ছায়া নেমে এসেছে। পুলিশ কর্মকর্তা এবং বিশেষায়িত দলগুলি ঘটনাস্থল থেকে ডিজিটাল রেকর্ড, সাক্ষীর বক্তব্য এবং প্রমাণ বিশ্লেষণ করছে। প্রাথমিকভাবে দ্বিতীয় ব্যক্তির থাকার সম্ভাবনা সামনে এসেছে, তবে কর্তৃপক্ষ অতিরিক্ত কোনও সন্দেহভাজন ব্যক্তির বিষয়টি নিশ্চিত করেনি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Who-Is-Jesse-Strang-2026-02-d343501fa09d538efa47c3de0c5b4bd9-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/international/who-was-jesse-strang-18-year-old-gunman-in-canadian-school-shooting-that-killed-10-story-of-jesse-strang-ss-aa-2536825.html",
+    "time": "2026-02-13T00:49:33.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "স্থায়ী নতুন সরকার গড়বে কে? গোটা বিশ্বের নজর বাংলাদেশের ভোট গণনায়, দেখুন ভিডিও",
+    "desc": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর বাংলাদেশে নতুন সরকার গড়বে কে? শেখ হাসিনা ক্ষমতাচ্যুত হওয়ার পর নতুন প্রধানমন্ত্রী হিসেবে কাকে পাবে বাংলাদেশ? এই সমস্ত প্রশ্নের উত্তর জানতেই গোটা বিশ্বের নজর এখন পদ্মা পাড়ের দেশে৷ বৃহস্পতিবার সকাল থেকে বাংলাদেশে সাধারণ নির্বাচন অনুষ্ঠিত হয়৷ বিকেলের পর থেকে শুরু হয় ভোট গণনা৷ গভীর রাত পর্যন্ত যা ইঙ্গিত তাতে বাংলাদেশে সরকার গঠনের ক্ষেত্রে অনেকটাই এগিয়ে গিয়েছে বিএনপি জোট৷ শুক্রবারই ভোট গণনার চূড়ান্ত ফল ঘোষণা হবে৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-12-at-16.42.47-2026-02-12029d12be92b3a41ac3424cb0e048b3-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/international/bangladesh-election-results-update-counting-going-bnp-way-ahead-of-jamaat-e-islam-dmg-2537756.html",
+    "time": "2026-02-12T21:55:38.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "এমএস ধোনির রেকর্ড ভেঙে দিলেন ইশান কিশান, গড়লেন নয়া নজির, যা কোনও ভারতীয় কিপারের নেই",
     "desc": "২৭ বছর বয়সী বাঁহাতি এই ওপেনার মাত্র ২৪ বলে ৬১ রান করেন। ইনিংসজুড়ে তিনি ৬টি চার ও ৫টি ছক্কা মারেন এবং মাত্র ২০ বলেই অর্ধশতরান পূর্ণ করেন। তার দ্রুত রান তোলার ক্ষমতাই ভারতকে শুরুতেই বড় স্কোরের ভিত গড়ে দেয়।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/bollywood-actor-rajpal-yadav-cheque-bounce-case-delhi-hc-surrender-order-sal-2525196.html",
     "time": "2026-02-03T17:57:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "মুম্বই বিমানবন্দরে বিপত্তি, ডানায়-ডানায় ধাক্কা 'এয়ার ইন্ডিয়া' আর 'ইন্ডিগো'-র যাত্রীবোঝাই বিমানের",
-    "desc": "মঙ্গলবার মুম্বই বিমানবন্দরে বিপত্তি! ছত্রপতি শিবাজি মহারাজ আন্তর্জাতিক বিমানবন্দরে সংঘর্ষ দুটি যাত্রীবাহী বিমানের মধ্যে! দুটি বিমানই তখন মাটিতে ছিল। কোয়েম্বাটোরগামী এয়ার ইন্ডিয়ার ফ্লাইট AI 2732 ও হায়দরাবাদ থেকে আসা ইন্ডিগোর ফ্লাইট 6E-র ডানার উপরদিকের অংশ একে অপরের সঙ্গে ধাক্কা খায়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/asqa-2026-02-8d7168fb4a86d134460370b79d15b39b-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/mumbai-airport-incident-air-india-indigo-wings-collide-on-ground-at-mumbai-airport-with-passengers-on-board-rm-2525195.html",
-    "time": "2026-02-03T17:31:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": ": ১ লক্ষ যাত্রীকে জরিমানা করল বেঙ্গালুরু মেট্রো, অভিযোগের তালিকায় কোন কোন 'ক্রাইম'? পড়ুন",
-    "desc": "গত এক বছরে যাত্রীদের নিয়মভঙ্গের এক লক্ষেরও বেশি ঘটনা নথিভুক্ত করেছে বেঙ্গালুরু মেট্রো রেল কর্পোরেশন লিমিটেড (বিএমআরসিএল)। সাধারণ নিয়মভঙ্গের মধ্যে রয়েছে হেডফোন ছাড়াই মোবাইলে জোরে গান বা ভিডিও চালানো, সংরক্ষিত আসনে বসা, ট্রেনের ভিতরে খাবার খাওয়া এবং গুটখা বা পান চিবানো।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/2026-02-a18013dc949a1efdb5f34fc473574265-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/bengaluru-metro-bengaluru-metro-fines-1-lakh-passengers-not-giving-seat-to-pregnant-women-gutka-loud-music-top-penalty-list-rm-2525078.html",
-    "time": "2026-02-03T15:08:18.000Z"
   }
 ];
