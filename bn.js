@@ -1,12 +1,48 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "Off-Season Vegetable Farming: অসময়ে ফুলকপি-বাঁধাকপি চাষ! অঢেল লাভের মুখ দেখার সুযোগ চাষিদের, শুধু জানতে এইসব টিপস",
+    "desc": "বাজারের চাহিদা বুঝে স্রোতের বিপরীতে গিয়ে ফুলকপি, বাঁধাকপি ও ওলকপি চাষ করে অঢেল আয়ের সুযোগ তৈরি হচ্ছে। সঠিক কৌশল জানলে কপি চাষই হতে পারে চাষিদের জন্য সবচেয়ে লাভজনক ব্যবসা। মূলত গ্রীষ্মকালে বিভিন্ন কপি চাষ করে অনেক লাভের মুখ দেখতে পারেন চাষিরা।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Off-Season-Vegetable-Farming-2026-02-b6efa07d86ae38fc0dc86b220f114479-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/south-24-parganas-off-season-vegetable-farming-farmers-may-get-huge-profit-from-cauliflower-cabbage-summer-season-cultivation-l18-local18-2537789.html",
+    "time": "2026-02-13T09:39:31.000Z"
+  },
+  {
     "cat": "World",
-    "title": "বাংলাদেশে বিএনপি ঝড়, জিতে গেল ২০৫ আসন! অনেক পিছিয়ে জামাতের জয় ৬৯ আসনে! খালেদা-পুত্রই প্রধানমন্ত্রী?",
+    "title": "ঐতিহাসিক জয়! বাংলাদেশের ভোটে ২১২ আসন জিতে সরকার বিএনপি-র, ৭৭-এ আটকে গেল জামাত",
     "desc": "বিক্ষিপ্ত অশান্তি হলেও সবচেয়ে বড় যে প্রশ্নটি বড় হয়ে উঠেছে, তা হল- বাংলাদেশের ক্ষমতায় কে বসতে চলেছে? শেখ হাসিনা পরবর্তী জমানায় বিএনপি-ই কি ক্ষমতায় আসছে, নাকি সকলকে ভুল প্রমাণ করে মসনদে বসবে জামাত? সেদিকেই নজর গোটা বাংলাদেশের। নজর রাখছে ভারতও।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/jamat-bnp-2026-02-46dc52358fa1bbe770b400525bd37a8d-3x2.jpg",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/election-results-2026-02-a953a2dfadb3a93d644e86a903aef658-3x2.jpg",
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/bangladesh-election-results-2026-live-updates-bangladesh-vote-counting-today-fight-between-bnp-jamat-tarique-rahman-shafiqur-rahman-sb-2537143.html",
-    "time": "2026-02-13T06:30:42.000Z"
+    "time": "2026-02-13T09:26:57.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "স্বপ্নপূরণ হল না পাকিস্তানের, বাংলাদেশে ধরাশায়ী জামাত! বাধ্য হয়েই যা লিখলেন পাক প্রধানমন্ত্রী-প্রেসিডেন্ট, শুনে অবাক হয়ে যাবেন",
+    "desc": "বিএনপি প্রধান তারেক রহমানের জয়ের জন্য অভিনন্দন জানালেন পাকিস্তানের প্রেসিডেন্ট আসিফ আলি জারদারি ও প্রধানমন্ত্রী শাহবাজ শরিফ। আসিফ আলি জারদারি বলেন, পাকিস্তান বাংলাদেশের গণতান্ত্রিক আকাঙ্ক্ষাকে সমর্থন করে এবং বাণিজ্য, প্রতিরক্ষা ও সাংস্কৃতিক বিনিময় জোরদার করতে নতুন সরকারের সঙ্গে কাজ করার প্রত্যাশা রাখে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Tarekh-pakisthan-2026-02-abb27b5c2ced6eef6c4f816a466444c7-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/historic-victory-unveiled-in-bangladesh-congratulations-to-tarique-rahman-rmj-2-ws-l-2538687.html",
+    "time": "2026-02-13T09:20:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'নগ্ন হয়ে সমুদ্রের পাড়ে ধ্যান, ওশোর কাছে সারাক্ষণ...!' সন্ন্যাস বিনোদের গোপন রহস্য ফাঁস করলেন স্ত্রী, জানলে আঁতকে উঠবেন",
+    "desc": "বিনোদ ওরেগনে ওশোর মালী ছিলেন এবং ওশোর পোশাক পরতেন কারণ তাদের কাঁধের মাপ একই রকম ছিল। কবিতা বলেন, বিনোদের যাত্রা আধ্যাত্মিক ছিল, উত্তেজনাপূর্ণ ছিল না। পরে তিনি চলচ্চিত্রে ফিরে আসেন, রাজনীতিতে প্রবেশ করেন এবং ২০১৭ সালে মৃত্যুর আগ পর্যন্ত সক্রিয় ছিলেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/1770970038_Vinod-Khanna-11-2026-02-f68e8114cb945acac14c15f0b2d1556f-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/bollywood-when-vinod-khanna-refused-osho-to-take-over-his-ashram-fell-ill-after-consuming-poisoned-water-kavita-khanna-revealed-what-happens-oregon-rds-2538616.html",
+    "time": "2026-02-13T09:11:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "নীরবে সমাজের মান বদলে দেন যাঁরা, অন্ধকারে ফেলেন আলো! তাঁদেরই 'অনন্য সম্মান'...",
+    "desc": "প্রতিদিনের শিরোনামে থাকে রাজনীতি, বিনোদন কিংবা অপরাধের কচকচানি। কিন্তু সেই ভিড়ের আড়ালে এমন কিছু মানুষ থাকেন, যাঁদের লড়াই কোনো ক্যামেরার সামনে আসে না। তাঁরা প্রচারের আলোয় থাকতে চান না, অথচ সমাজকে আগলে রাখেন নিরলস পরিশ্রমে। সেই সব ‘অখ্যাত’ বীরদের কুর্নিশ জানাতে আবারও ফিরে এল জি ২৪ ঘণ্টার বিশেষ শ্রদ্ধার্ঘ্য— ‘অনন্য সম্মান ১৪৩২’।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/zee-24-ghanta-ananya-samman-2026-honouring-unsung-heroes-of-society_641132.html ",
+    "time": "2026-02-13T07:04:30.000Z"
   },
   {
     "cat": "Entertainment",
@@ -495,15 +531,6 @@ const newsData_bn = [
     "time": "2026-02-09T12:38:15.000Z"
   },
   {
-    "cat": "World",
-    "title": "ভয়ংকর দুঃসময় 'Gen Z'র! তারা হারিয়ে ফেলছে মানবসভ্যতার অমূল্য এক স্কিল! হাড়হিম বিপর্যয়ের মুখে সারা পৃথিবীই, ৪০% আর...",
-    "desc": "মাটির ট্যাবলেট থেকে টাচস্ক্রিন-- প্রায় ৫৫০০ বছর ধরে মানুষ তার অর্জিত জ্ঞান লিখে রাখার মাধ্যম হিসেবে হাতের লেখাকেই ব্যবহার করে এসেছে। প্রাচীন কিউনিফর্ম লিপি থেকে শুরু করে মধ্যযুগীয় পাণ্ডুলিপি বা স্কুল নোটবুক। কিন্তু এখন কী হচ্ছে?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/gen-z-losing-5500-year-old-skill-40-percent-no-longer-master-handwritten-communication_640302.html ",
-    "time": "2026-02-09T10:29:25.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "শহরে খুকু আসছেন! রেডিওর নস্টালজিয়া ও এক গুচ্ছ বাংলা গান নিয়ে মঞ্চে শ্রাবন্তী মজুমদার...",
     "desc": "আগামী ১৫ ফেব্রুয়ারি কলকাতার কলা মন্দিরে অনুষ্ঠিত হতে চলেছে কিংবদন্তি শিল্পী শ্রাবন্তী মজুমদারের একক অনুষ্ঠান \"আয় খুকু আয়\"। জনপ্রিয় এই গানের ৫০ বছর পূর্তি উপলক্ষে আয়োজিত এই সন্ধ্যায় তাঁর সঙ্গে আলাপচারিতায় থাকবেন শিল্পী শ্রীকান্ত আচার্য।",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/businessman-beaten-to-death-by-helmet-by-delivery-agents-in-delhi-over-water-spat-arc-2525511.html",
     "time": "2026-02-04T05:53:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "এক মাসের জন্য ‘হোমওয়ার্ক’ দিয়ে দিলেন নিতিন নবীন! সামনেই ভোট, কী কী করতে হবে...বঙ্গের বিজেপি সাংসদদের সঙ্গে বৈঠক",
-    "desc": "মঙ্গলবার বিকেল সাড়ে ৬টা নাগাদ কেন্দ্রীয় মন্ত্রী সুকান্ত মজুমদারের দিল্লির বাড়িতে পশ্চিমবঙ্গের বিজেপি সাংসদদের সঙ্গে বৈঠক করেন তিনি৷ জানা গিয়েছে, বৈঠকে প্রত্যেক সাংসদের কাছ থেকে তাঁদের সংসদীয় এলাকার বিধানসভা ভিত্তিক রিপোর্ট কার্ড দেখেন৷ একাধিক নির্দেশও দেন৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ydne-2026-02-04T101821.734-2026-02-22a43c928a94ce8fccd1406f9b4e4921-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/west-bengal/nitin-nabin-hold-a-meet-with-the-mp-s-of-west-bengal-and-advised-several-things-took-report-card-sta-2525431.html",
-    "time": "2026-02-04T05:23:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "সওয়াল করতে সুপ্রিম কোর্টে মমতা বন্দ্যোপাধ্যায়",
-    "desc": "দেশের ইতিহাসে প্রথমবার। এসআইআর মামলায় আজ, বুধবার আইনজীবী হিসেবে সুপ্রিম কোর্টে সওয়াল করবেন খোদ মুখ্যমন্ত্রী! যদিও বিরোধী নেত্রী হিসাবে এর আগে বেশ কয়েকবার তাঁকে আদালতে সওয়াল করতে দেখা গিয়েছে। কলকাতা ও বালুরঘাটে তিনি আদালতে সওয়াল করেছেন। তবে আজ আইনজীবী মমতা বন্দ্যোপাধ্যায়ের সুপ্রিম কোর্টে সওয়াল ঘিরে সকলের নজর রয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Mamata-Banerjee-Supreme-Court-2026-02-832b3e5b2705d72a23bf73b0237e869f.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/short-videos/national/chief-minister-mamata-banerjee-to-appear-in-supreme-court-to-argue-sir-case-pbd-2525505.html",
-    "time": "2026-02-04T05:15:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বোন নেই, তাঁর প্রেমিককে আপন করেছে শর্মা পরিবার, ঐন্দ্রিলার দিদির এনগেজমেন্টে উপস্থিত সব্যসাচী",
-    "desc": "ছোট মেয়ে নেই৷ ঐন্দ্রিলার মাও ক্যানসার আক্রান্ত৷ কঠিন সময়ের মধ্যেই কিছুটা আনন্দ শর্মা পরিবারে৷ বড় মেয়ে ঐশ্বর্যের বিয়ে৷ হল আংটি বদল ও রেজিস্ট্রি৷ গোটা অনুষ্ঠানে যেন উপস্থিত ছিলেন ঐন্দ্রিলা৷ তাঁর ছবি জ্বলজ্বল করছিল৷ সব কিছুর মাঝেই শর্মা পরিবার এই গভীর ক্ষত বয়ে চলছে৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Web-2026-02-04T095233.728-2026-02-f2cd4f05d0179494be5ad12baa43ed5d-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/aindrila-sharma-boyfriend-sabyasachi-chowdhury-still-close-with-sharma-family-attends-dr-aishwarya-sharma-engagement-pbd-2525370.html",
-    "time": "2026-02-04T04:29:28.000Z"
   }
 ];

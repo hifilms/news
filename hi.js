@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Zimbabwe upset Australia in T20 World Cup, defend 169 runs to keep Super 8 hopes alive",
+    "desc": "Upsets in the T20 World Cup are becoming far more frequent than in the past. In the 2024 edition, the USA stunned Pakistan, while in 2022, Namibia shocked Sri Lanka and Ireland pulled off a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/zimbabwe-upset-australia-in-t20-world-cup-defend-169-runs-to-keep-super-8-hopes-alive-2026-02-13-1030132",
+    "time": "2026-02-13T09:06:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When and where to watch Women's Asia Cup Rising Stars live on TV and streaming in India?",
     "desc": "Women's Asia Cup Rising Stars gets underway today in Bangkok, as the India A team will be in action in the second match of the day against the UAE. As many as eight teams are...",
     "img": "",
@@ -61,14 +70,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-register-comfortable-93-run-win-over-namibia-despite-sloppy-batting-performance-in-delhi-2026-02-12-1030051",
     "time": "2026-02-12T17:00:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL set to return to Chinnaswamy as Karnataka government grants permission, 35000 fans to be allowed",
-    "desc": "The Karnataka cabinet has cleared Royal Challengers Bengaluru to play their IPL 2026 home matches at the M Chinnaswamy Stadium. The ground had been barred from hosting fixtures after the June 4 stampede during RCB’s...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ipl-set-to-return-to-chinnaswamy-as-karnataka-government-grants-permission-2026-02-12-1030043",
-    "time": "2026-02-12T15:42:05.000Z"
   }
 ];
