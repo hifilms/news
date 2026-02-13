@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "ક્રિકેટ પ્રેમીઓ માટે માઠા સમાચાર! ભારત-પાક મેચમાં વિલન બનશે વરસાદ ? જાણો શું છે હવામાન વિભાગની આગાહી",
+    "desc": "ભારત અને પાકિસ્તાન વચ્ચેની મેચમાં વરસાન વિઘ્ન જોવા મળી રહ્યું છે, આ મેચમાં 90 ટકા વરસાદ પડવાની શક્તા વ્યક્ત હવામાન વિભાગ દ્વારા કરવામાં આવી છે, ત્યારે જોવાનું રહેશે કે રવિવારે ભારત-પાકિસ્તાનની મેચમાં વરસાદ આવે છે કે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/imds-big-update-on-ind-vs-pak-match-will-india-pakistan-match-be-washed-in-rain-464843 ",
+    "time": "2026-02-13T15:27:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "મોહિતને છોડી આર્યવર્ધન સાથે વેલેન્ટાઇન ડે મનાવશે અનુ, નવા એપિસોડના ફોટા થયા લીક, જાણો",
+    "desc": "ટીવી સીરિયલ 'તુમ સે તુમ તક'માં વેલેન્ટાઇન ડે ઉજવવામાં આવશે. પરંતુ પહેલા, ડૉ. મોહિત અનુના જીવનમાંથી હંમેશ માટે વિદાય લેશે. આર્યા વેલેન્ટાઇન ડે પર અનુને ડેટ પર લઈ જશે, જે અનુ અને આર્યાને ફરીથી એકબીજાની નજીક લાવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/anu-will-celebrate-valentine-day-with-aryavardhan-instead-of-mohit-photos-from-the-new-episode-have-been-leaked-know-464838 ",
+    "time": "2026-02-13T13:42:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "રાજસ્થાન રોયલ્સે નવા કેપ્ટનની કરી જાહેરાત... જાડેજા કે યશસ્વી નહીં, આ યુવા ખેલાડીને મળી જવાબદારી",
     "desc": "IPL 2026 પહેલા રાજસ્થાન રોયલ્સ દ્વારા લેવામાં આવેલા મોટા નિર્ણયે ક્રિકેટ જગતમાં ચર્ચા જગાવી છે. ટીમ મેનેજમેન્ટે યુવા ઓલરાઉન્ડર રિયાન પરાગ ને ટીમનો નવો કેપ્ટન બનાવવાનો નિર્ણય લીધો છે. લાંબા સમયથી ટીમનું નેતૃત્વ સંભાળતા સંજુ સેમસનને ટ્રેડ દ્વારા ચેન્નાઈ સુપર કિંગ્સમાં મોકલવામાં આવ્યા બાદ આ ફેરફાર કરવામાં આવ્યો છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -358,15 +376,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/bad-news-from-america-on-h1b-visa-indians-dream-of-going-to-us-will-remain-unfulfilled-know-464573 ",
     "time": "2026-02-11T02:46:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ટીમ ઈન્ડિયા માટે ખરાબ સમાચાર, સ્ટાર બેટ્સમેન હજુ પણ બીમાર, આગામી મેચ રમવી મુશ્કેલ",
-    "desc": "નામિબિયા સામેની મેચ પહેલા ભારત માટે ખરાબ સમાચાર સામે આવ્યા છે. અભિષેક શર્મા હજુ સંપૂર્ણ ફિટ નથી, તેથી તેની રમવાની શક્યતા ઓછી છે. જેના કારણે સંજુ સેમસનને તક મળી શકે છે. તો વોશિંગ્ટન સુંદર પણ ટીમ સાથે જોડાયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/abhishek-sharma-unlikely-to-play-vs-namibia-bumrah-fit-to-return-464554 ",
-    "time": "2026-02-10T16:09:27.000Z"
   },
   {
     "cat": "Business",

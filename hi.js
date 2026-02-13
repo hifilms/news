@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "UAE's Sohaib Khan credits MS Dhoni's philosophy after playing match-winning knock vs Canada",
+    "desc": "Chasing 151 at the Arun Jaitley Stadium in New Delhi, the UAE found themselves in deep trouble at 66/4, as the match began to slip away. However, opener Aryansh Sharma and Shoaib Khan turned the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/uae-s-sohaib-khan-credits-ms-dhoni-s-philosophy-after-playing-match-winning-knock-vs-canada-2026-02-13-1030197",
+    "time": "2026-02-13T15:30:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hailing from Ghaziabad and Bihar, Aryansh Sharma and Sohaib Khan propel UAE to stellar win over Canada",
+    "desc": "The 20th game of the ongoing T20 World Cup 2026 saw the UAE taking on Canada. The two sides locked horns at the Arun Jaitley Stadium in New Delhi on February 13. The game ended...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hailing-from-ghaziabad-and-bihar-aryansh-sharma-and-sohaib-khan-propel-uae-to-stellar-win-over-canada-2026-02-13-1030192",
+    "time": "2026-02-13T14:10:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "USA posts 196 runs in the first innings",
+    "desc": "The stage is set for game 21 of the ongoing T20 World Cup 2026. The Netherlands lock horns with the USA here at the MA Chidambaram Stadium in Chennai. It is worth noting that the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ned-vs-usa-live-cricket-score-netherlands-aim-to-maintain-top-form-usa-hopes-to-improve-2026-02-13-1030187",
+    "time": "2026-02-13T13:16:51.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Abhishek-Ishan vs Ayub-Farhan, which openers have better stats?",
     "desc": "One of the most anticipated games of the ongoing T20 World Cup 2026 is right around the corner. The Indian team is all set to take on Pakistan in game 27 of the tournament. The...",
     "img": "",
@@ -61,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/zimbabwe-upset-australia-in-t20-world-cup-defend-169-runs-to-keep-super-8-hopes-alive-2026-02-13-1030132",
     "time": "2026-02-13T09:06:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch Women's Asia Cup Rising Stars live on TV and streaming in India?",
-    "desc": "Women's Asia Cup Rising Stars gets underway today in Bangkok, as the India A team will be in action in the second match of the day against the UAE. As many as eight teams are...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-a-vs-uae-live-when-and-where-to-watch-women-s-rising-stars-asia-cup-live-on-tv-and-streaming-in-india-2026-02-13-1030090",
-    "time": "2026-02-13T04:37:37.000Z"
   }
 ];
