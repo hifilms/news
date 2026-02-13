@@ -1,21 +1,75 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "Deadly Hit-And-Run: প্রেমিকাকে নিয়ে জয়রাইডে বেরিয়ে দুধের শিশুকে চাকায় পিষে দিল দ্বাদশের ছাত্র! ভয়ংকর সেই ছবি...",
+    "desc": "দ্রুতগামী সুইফট ডিজায়ার গাড়ি পথচারীদের উপর উঠে গেলে এক ৬ বছরের শিশুর মৃত্যু হয় এবং আরও চারজন গুরুতর আহত হন। পুলিশ জানায়, গাড়িটি চালাচ্ছিল দ্বাদশ শ্রেণির এক ছাত্র। যে তার প্রেমিকার সঙ্গে ঘুরতে বেরিয়েছিল। দুর্ঘটনার পর সে পালিয়ে গেলেও পরে পুলিস তাকে গ্রেফতার করে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/hit-and-run-video-class-12-student-on-joyride-with-girlfriend-runs-over-6-year-old-4-others-severely-injured-lucknow_641150.html ",
+    "time": "2026-02-13T12:17:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "প্রথমে বাংলায় ট্যুইট, এবার তারেককে ফোন করলেন মোদি...! বিপুল জয়ের জন্য জানালেন শুভেচ্ছা",
+    "desc": "বিএনপি বড়সড় জয়ের পথে হাঁটতেই সকাল সকাল দলের চেয়ারম্যান তারেক রহমানকে সোশ্যাল মিডিয়ায় বাংলায় পোস্ট দিয়ে শুভেচ্ছো জানিয়েছিলেন প্রধানমন্ত্রী নরেন্দ্র মোদি। এবার করলেন ফোন। নিজেই সোশ্যাল মিডিয়ায় শেয়ার করলেন সেই সৌজন্য ফোনালাপের কথা। ট্যুইট করে জানালেন \"তারেক রহমানের সঙ্গে কথা বলতে পেরে আমি আনন্দিত।\"",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/modi-tareque-2026-02-0bf07b9d01f3e29fcaa6a742cf7aa9df-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/india-bangladesh-relation-narendra-modi-to-tarique-rahman-prime-minister-modi-calls-bnp-chairman-to-congratulate-him-after-bnps-massive-win-in-bangladesh-election-2026-sanj-2539070.html",
+    "time": "2026-02-13T11:44:57.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "'ক্লান্ত কিন্তু খুশি' বাংলাদেশ নির্বাচনে বিএনপির জয়জয়কারের মাঝেই পোস্ট তারেক রহমানের পোষ্যের!",
+    "desc": "বাংলাদেশের নির্বাচনে বিএনপির জয়জয়কার! দীর্ঘ ১৭ বছর পর বাংলাদেশে ফিরেই প্রধানমন্ত্রীর আসনে বসতে চলেছেন খালেদা পুত্র তারেক রহমান । ফলাফলে বিএনপির পক্ষে জনমত স্পষ্ট হতেই সোশাল মিডিয়ায় তারেককে শুভেচ্ছা জানালেন তাঁরই পোষ্যই জেবু। বাংলাদেশে আসার পর থেকেই সকলের নজর কেড়েছিল এই বিশেষ প্রজাতির বিড়াল।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/tarique-_zebu_cover-2026-02-2902b3a2f26c633c797eda4d3c5dfbad-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/after-bnp-won-a-decisive-victory-his-pet-cat-post-on-social-media-smc-2539145.html",
+    "time": "2026-02-13T11:39:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "একক দাপটে সরকার গড়ার পথে বিএনপি, শনিবারই শপথ তারেক রহমানের, জল্পনা সর্বত্রই",
+    "desc": "বাংলাদেশের নয়া প্রধানমন্ত্রী তারেক রহমান! কাল প্রধানমন্ত্রী হিসেবে তারেক রহমানের শপথের সম্ভাবনা। ১৭ বছর পর দেশে ফিরে তারেক রহমানের বাজিমাত। পদ্মাপাড়ে একাই সংখ্যাগরিষ্ঠ BNP। জোড়া আসনে BNP চেয়ারম্যান তারেক রহমানে জয়। খালেদার মৃত্যুতে সমবেদনার ভোট BNP-র ঝুলিতে!",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Bangla-News-2026-02-13T164601.594-2026-02-dd7880141073d1713c05a9119d71038a-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/international/bangladesh-election-results-2026-will-tomorrow-tareque-rehman-take-oth-as-bangladesh-prime-minister-arn-2539068.html",
+    "time": "2026-02-13T11:18:45.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "বাংলাদেশে কোন 'বিষয়' পড়তে ছোটেন ভারতীয় পড়ুয়ারা জানেন...? চমকাবেন শুনলেই!",
+    "desc": "বাংলাদেশ। প্রতিবেশী এই দেশটি এই মুহূর্তে ভারতে আলোচনার শীর্ষে। ভোটের ফলাফলে ইতিমধ্যেই স্পষ্ট বিএনপির ঝোড়ো জয়। দীর্ঘ অচলাবস্থার পর প্রতিষ্ঠিত হতে চলেছে নতুন সরকার। এই পরিস্থিতিতে এই মুহূর্তে ভারতের চর্চার কেন্দ্রে ফের এই প্রতিবেশী দেশ। আচ্ছা,জানেন কি এই দেশ থেকে প্রতিবছর কোন 'কোর্স' পড়তে পদ্মাপাড়ে ছোটেন ভারতীয় পড়ুয়ারা? কেনই বা ছোটেন? চলুন এই প্রতিবেদনে জেনে নেওয়া যাক সেই চমকে দেওয়া তথ্য!",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/India-Bangladesh-Student-2026-02-c443036f53fd538f0f678c105fca7284-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/education-career/bangladesh-do-you-know-why-indian-student-goes-to-bangladesh-to-study-which-subject-indian-students-rush-to-this-neighbouring-country-you-will-be-shocked-to-hear-the-answer-sanj-2538813.html",
+    "time": "2026-02-13T10:22:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Valentine's Day tragedy: শুক্রবারে শিহরন! ভ্যালেন্টাইনস ডে নিয়ে তুমুল ঝগড়া, রাগে হোটেলের জানলা দিয়ে মরণঝাঁপ তরুণীর...",
+    "desc": "হোটেলের চার তলা থেকে ঝাঁপ দিয়ে আত্মহত্যার চেষ্টা তরুণীর। বন্ধুর সঙ্গে ঝগড়া করে রাগের মাথায় তিনি জানালা দিয়ে লাফ দিলেও নিচে রাখা খালি বাক্সের স্তূপের ওপর পড়ায় বড় বিপদ থেকে রক্ষা পান। বর্তমানে তিনি হাসপাতালে চিকিৎসাধীন এবং তার অবস্থা স্থিতিশীল।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/20-year-old-jumps-from-hotel-window-after-spat-with-friend-saved-by-stack-of-boxes_641143.html ",
+    "time": "2026-02-13T10:14:09.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "একক দাপটে সরকার গড়ার পথে বিএনপি, শনিবারই শপথ তারেক রহমানের?",
+    "desc": "বাংলাদেশের নয়া প্রধানমন্ত্রী তারেক রহমান! কাল প্রধানমন্ত্রী হিসেবে তারেক রহমানের শপথের সম্ভাবনা। ১৭ বছর পর দেশে ফিরে তারেক রহমানের বাজিমাত। পদ্মাপাড়ে একাই সংখ্যাগরিষ্ঠ BNP। জোড়া আসনে BNP চেয়ারম্যান তারেক রহমানে জয়। খালেদার মৃত্যুতে সমবেদনার ভোট BNP-র ঝুলিতে!",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Tarique-Rahman-2026-02-ea754af94c976b4afee1cdaded6014ba-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/international/bangladesh-election-2026-tarique-rahman-oath-news-rc-2538778.html",
+    "time": "2026-02-13T09:55:29.000Z"
+  },
+  {
     "cat": "Business",
-    "title": "Off-Season Vegetable Farming: অসময়ে ফুলকপি-বাঁধাকপি চাষ! অঢেল লাভের মুখ দেখার সুযোগ চাষিদের, শুধু জানতে এইসব টিপস",
+    "title": "Off-Season Vegetable Farming: অসময়ে ফুলকপি-বাঁধাকপি চাষ! অঢেল লাভের মুখ দেখার সুযোগ চাষিদের, শুধু জানতে হবে এইসব টিপস",
     "desc": "বাজারের চাহিদা বুঝে স্রোতের বিপরীতে গিয়ে ফুলকপি, বাঁধাকপি ও ওলকপি চাষ করে অঢেল আয়ের সুযোগ তৈরি হচ্ছে। সঠিক কৌশল জানলে কপি চাষই হতে পারে চাষিদের জন্য সবচেয়ে লাভজনক ব্যবসা। মূলত গ্রীষ্মকালে বিভিন্ন কপি চাষ করে অনেক লাভের মুখ দেখতে পারেন চাষিরা।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/Off-Season-Vegetable-Farming-2026-02-b6efa07d86ae38fc0dc86b220f114479-3x2.jpg",
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/business/south-24-parganas-off-season-vegetable-farming-farmers-may-get-huge-profit-from-cauliflower-cabbage-summer-season-cultivation-l18-local18-2537789.html",
     "time": "2026-02-13T09:39:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ঐতিহাসিক জয়! বাংলাদেশের ভোটে ২১২ আসন জিতে সরকার বিএনপি-র, ৭৭-এ আটকে গেল জামাত",
-    "desc": "বিক্ষিপ্ত অশান্তি হলেও সবচেয়ে বড় যে প্রশ্নটি বড় হয়ে উঠেছে, তা হল- বাংলাদেশের ক্ষমতায় কে বসতে চলেছে? শেখ হাসিনা পরবর্তী জমানায় বিএনপি-ই কি ক্ষমতায় আসছে, নাকি সকলকে ভুল প্রমাণ করে মসনদে বসবে জামাত? সেদিকেই নজর গোটা বাংলাদেশের। নজর রাখছে ভারতও।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/election-results-2026-02-a953a2dfadb3a93d644e86a903aef658-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/bangladesh-election-results-2026-live-updates-bangladesh-vote-counting-today-fight-between-bnp-jamat-tarique-rahman-shafiqur-rahman-sb-2537143.html",
-    "time": "2026-02-13T09:26:57.000Z"
   },
   {
     "cat": "World",
@@ -477,15 +531,6 @@ const newsData_bn = [
     "time": "2026-02-09T14:56:26.000Z"
   },
   {
-    "cat": "World",
-    "title": "নাটক দেখা, গান শোনার অপরাধে মৃত্যুদণ্ড স্কুলপড়ুয়াদের! প্রকাশ্য রাস্তায় ফাঁসিতে ঝোলানো হল, কারণ...",
-    "desc": "কিছুদিন আগেই কোরিয়া যেতে চেয়ে গাজিয়াবাদে তিন বোনের আত্মহত্যার ঘটনা ঘটেছে। এবার উত্তর কোরিয়া। সেখানে নাটক দেখা, গান শোনার অপরাধে মৃত্যুদণ্ড স্কুলপড়ুয়াদের! কোরিয়ান নাটক 'কে পপ' ব্যান্ডের গানে বুঁদ নতুন প্রজন্ম। কিন্তু এহেন কোরিয়ান ড্রামা, গান শোনার অপরাধে সে দেশে স্কুলপড়ুয়াদের ফাঁসিতে ঝোলানো হচ্ছে। অবিশ্বাস্য!",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/squid-game-punishment-north-korea-executes-schoolchildren-for-watching-squid-game-listening-to-k-po-kim-jong-un_640404.html ",
-    "time": "2026-02-09T14:43:32.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Arijit Singh-Aamir Khan: জিয়াগঞ্জ থেকে বেরতেই আসল রূপ দেখালেন আমির, অরিজিতকে যা বললেন..., ফাঁস হতেই তোলপাড়",
     "desc": "প্লেব্যাক দুনিয়াকে বিদায় জানানোর ঘোষণা করেছিলেন অরিজিৎ সিং। তাই আমির খানের আচমকা জিয়াগঞ্জ সফর ঘিরে শুরু হয়েছিল জোর জল্পনা। তাহলে কি ‘মহাভারত’ ছবির জন্য ফের মাইক্রোফোন হাতে তুলেছেন গায়ক? সেই সব জল্পনার অবসান ঘটিয়ে সামনে এল আসল তথ্য।",
@@ -853,50 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/mamata-banerjee-at-supreme-court-on-sir-here-is-the-update-and-next-date-of-hearing-sta-2525861.html",
     "time": "2026-02-04T09:59:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "২ বোনকে বিয়ে বাবার...২ স্ত্রী-৫ সন্তানকে নিয়ে একসঙ্গে একই ফ্ল্যাটে বাস...৩ কিশোরী বোনের রহস্যমৃত্যুকাণ্ডে নয়া মোড়",
-    "desc": "পুলিশের দাবি, পেশায় একজন ব্যবসায়ী চেতন কুমার, প্রথম বিয়ে থেকে কোনও সন্তান না হওয়ায় দ্বিতীয় বিয়ে করেন। সন্তানের আশায় তিনি তাঁর স্ত্রীর ছোট বোনকে বিয়ে করেন। এই দম্পতির তিন সন্তান হয়। তবে, এই সময়ের মধ্যে তাঁর প্রথম স্ত্রীরও দু’টি সন্তান হয়। চেতন কুমার, তাঁর দুই স্ত্রী এবং পাঁচ সন্তান একসঙ্গে থাকতেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/New-Project-2-2026-02-a73076ac1e4f56e0504f15abfaeac1bb-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/ghaziabad-triple-sister-mysterious-death-case-tuns-into-new-angle-as-the-father-got-married-twice-arc-2525792.html",
-    "time": "2026-02-04T08:45:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘বাংলায় হলে অসমে নয় কেন, পশ্চিমবঙ্গকে নিশানা করা হয়েছে, বুলডোজ করা হচ্ছে!’ SIR নিয়ে সুপ্রিম কোর্টে সওয়াল মমতার",
-    "desc": "দেশের ইতিহাসে প্রথমবার ৷ সুপ্রিম কোর্টে প্রথমবার সওয়াল কোনও মুখ্যমন্ত্রীর ৷ SIR-সংঘাতে সুপ্রিম কোর্টে মামলা মমতা বন্দ্যোপাধ্যায়ের ৷ নিজের করা মামলায় নিজেই সওয়াল তৃণমূলনেত্রীর ৷ এর আগে কোনও মুখ্যমন্ত্রী সুপ্রিম কোর্টে সওয়াল করেননি ৷ মমতাই প্রথম মুখ্যমন্ত্রী যিনি সুপ্রিম কোর্টে সওয়াল করলেন ৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Mamata-Banerjee-in-Supreme-Court-2026-02-ff953eaedda516f53c495087a209289a-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/west-bengal-sir-supreme-court-hearing-today-live-updates-mamata-banerjee-ss-2525750.html",
-    "time": "2026-02-04T08:35:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘...খুব একা, নিঃসঙ্গ...জীবন শেষ করে দিচ্ছি...’, মরণঝাঁপের আগে ডায়েরির পাতা, ঘরের দেওয়াল জুড়ে ৩ বোনের আর্তি-অক্ষর",
-    "desc": "ডায়েরির পাতায় তাদের হস্তাক্ষরে লেখা, ‘এখনই পড়ো! আমি সত্যিই দুঃখিত। দুঃখিত, বাবা,...\"। লেখার পর একটি বড় কান্নার ইমোজিও দেওয়া ছিল। ইতিমধ্যে, তাদের ঘরের দেয়ালে একটি লেখাও পাওয়া গিয়েছে, যেখানে লেখা ছিল, \"আমি খুব, খুব একা।\"",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/New-Project-1-2026-02-8f6d6249cc89efc25e9cde7656dfb796-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/last-note-of-3-sisters-with-crying-emoji-before-the-extreme-decision-in-ghaziabad-arc-2525599.html",
-    "time": "2026-02-04T07:34:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "রানওয়েতে দুই বিমানের ডানায় ধাক্কা ! ‘ডানা ঘেঁষে’ কাটল বিপদ ! কীভাবে ঘটল এই ঘটনা?",
-    "desc": "মুম্বই বিমানবন্দরের রানওয়েতে বড় দুর্ঘটনা থেকে দুই বিমানের রক্ষা । ইন্ডিগোর বিমানের ডানায় এয়ার ইন্ডিয়ার বিমানের ধাক্কা লাগে । অল্পের জন্য বিরাট ক্ষয়ক্ষতি এড়ানো গিয়েছে । কিন্তু কী করে পাশাপাশি রানওয়েতে এল দুটি বিমান? এখনও ধোঁয়াশা ।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/IndiGo-and-Air-India-Wings-Tail-2026-02-aaff959f8a96af2e98d002425a45d42a-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/mumbai-airport-air-india-indigo-planes-collide-at-mumbai-airport-dgca-begins-probe-ss-aa-2525322.html",
-    "time": "2026-02-04T07:14:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ঘুষি-হেলমেটের আঘাত! জল খেতে চাওয়ার মাশুল হিসেবে দুই খাদ্য সরবরাহকর্মীর আক্রমণ! জীবনমরণ লড়াইয়ের পর মৃত ব্যবসায়ী",
-    "desc": "পূর্ব দিল্লির লক্ষ্মীনগরের বাসিন্দা এবং ব্যবসায়ী শিবম, সেদিন তাঁর এক বন্ধুর সঙ্গে একটি পার্টিতে যোগ দিতে কনট প্লেসে গিয়েছিলেন। পুলিশ কর্মকর্তারা জানিয়েছেন, রেস্তোরাঁ থেকে বেরিয়ে আসার সময়, তিনি ই ব্লকের কাছে একজন ডেলিভারি এজেন্টের কাছে জল চান৷ যার জেরে উভয়ের মধ্যে বাকবিতণ্ডা শুরু হয়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/New-Project-2026-02-1724cf311a9ea855dcbf547058ae5942-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/businessman-beaten-to-death-by-helmet-by-delivery-agents-in-delhi-over-water-spat-arc-2525511.html",
-    "time": "2026-02-04T05:53:00.000Z"
   }
 ];

@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "રાજસ્થાન રોયલ્સે નવા કેપ્ટનની કરી જાહેરાત... જાડેજા કે યશસ્વી નહીં, આ યુવા ખેલાડીને મળી જવાબદારી",
+    "desc": "IPL 2026 પહેલા રાજસ્થાન રોયલ્સ દ્વારા લેવામાં આવેલા મોટા નિર્ણયે ક્રિકેટ જગતમાં ચર્ચા જગાવી છે. ટીમ મેનેજમેન્ટે યુવા ઓલરાઉન્ડર રિયાન પરાગ ને ટીમનો નવો કેપ્ટન બનાવવાનો નિર્ણય લીધો છે. લાંબા સમયથી ટીમનું નેતૃત્વ સંભાળતા સંજુ સેમસનને ટ્રેડ દ્વારા ચેન્નાઈ સુપર કિંગ્સમાં મોકલવામાં આવ્યા બાદ આ ફેરફાર કરવામાં આવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rajasthan-royals-announces-new-captain-not-ravindra-jadeja-or-yashasvi-ryan-parag-gets-responsibility-464830 ",
+    "time": "2026-02-13T12:44:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sasu-Jamai Love Story: શું જમાઈ નશીલી દવા ખવડાવતો હતો? મહિલાનો ચોંકાવનારો દાવો, સાસુ-જમાઈની લવસ્ટોરીમાં નવો ટ્વિસ્ટ",
+    "desc": "ઉત્તર પ્રદેશના અલીગઢના મડરાક વિસ્તારમાં આજથી 10 મહિના પહેલા એક ઘરમાં દીકરીના લગ્નની ધૂમ તૈયારીઓ થઈ રહી હતી અને અચાનક મહિલા ભાવિ જમાઈ સાથે ભાગી ગઈ. હવે તે જમાઈએ મહિલા પર બનેવી સાથે ભાગી જવાનો અને દગો કરવાનો આરોપ લગાવ્યો ત્યારે મહિલા પોતે સામે આવી છે અને આ સમગ્ર મામલે પોતાનો પક્ષ રજૂ કરી શું કહે છે તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/sasu-jamai-love-story-shocking-twist-now-woman-big-allegation-464785 ",
+    "time": "2026-02-13T12:04:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સેવા તીર્થથી PM મોદીનો જનકલ્યાણનો શંખનાદ, મહિલાઓ અને યુવાનો માટે ખોલ્યો ખજાનો; જાણો શું લીધો પ્રથમ નિર્ણય?",
+    "desc": "વડાપ્રધાન નરેન્દ્ર મોદીએ નવા PMO પરિસર 'સેવા તીર્થ' ખાતે મહિલાઓ, યુવાનો અને સંવેદનશીલ નાગરિકો માટે મહત્વપૂર્ણ નિર્ણયોની ફાઈલો પર હસ્તાક્ષર કર્યા છે. PM મોદીએ આ નવા પરિસરમાંથી PM રાહત યોજના અને લખપતિ દીદીની સંખ્યા વધારીને 6 કરોડ કરવાના લક્ષ્ય સાથે જોડાયેલી ફાઈલોને મંજૂરી આપી હતી. આ ઉપરાંત તેમણે કૃષિ ઈન્ફ્રાસ્ટ્રક્ચર ફંડને બમણું કરીને 2 લાખ કરોડ રૂપિયા કરવાના દસ્તાવેજો પર પણ હસ્તાક્ષર કર્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pm-modi-first-decisions-seva-teerth-lakhpati-didi-pm-rahat-yojana-464805 ",
+    "time": "2026-02-13T10:59:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "પાકિસ્તાની ટીમની ફરી ફજેતી, હોટલનું બિલ ન ચૂકવતાં રસ્તા પર ભટકતા રહ્યા ખેલાડીઓ",
     "desc": "ઓસ્ટ્રેલિયાના કેનબેરામાં FIH પ્રો લીગ દરમિયાન પાકિસ્તાન હોકી ટીમને શરમજનક સ્થિતિનો સામનો કરવો પડ્યો. પાકિસ્તાન હોકી ફેડરેશન દ્વારા હોટેલનું બિલ ન ચૂકવવામાં આવતાં બુકિંગ રદ કરવામાં આવ્યું હતું, જેના કારણે ખેલાડીઓને રસ્તા પર રઝળવાનો વારો આવ્યો હતો.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -34,15 +61,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/bangladesh-election-results-why-jamat-and-student-party-that-overthrew-sheikh-hasina-govt-fail-in-this-election-464788 ",
     "time": "2026-02-13T08:00:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sasu-Jamai Love Story: શું જમાઈ નશીલી દવા ખવડાવતો હતો? મહિલાનો ચોંકાવનારો દાવો, સાસુ-જમાઈની લવસ્ટોરીમાં નવો ટ્વિસ્ટ",
-    "desc": "ઉત્તર પ્રદેશના અલીગઢના મડરાક વિસ્તારમાં આજથી 10 મહિના પહેલા એક ઘરમાં દીકરીના લગ્નની ધૂમ તૈયારીઓ થઈ રહી હતી અને અચાનક મહિલા ભાવિ જમાઈ સાથે ભાગી ગઈ. હવે તે જમાઈએ મહિલા પર બનેવી સાથે ભાગી જવાનો અને દગો કરવાનો આરોપ લગાવ્યો ત્યારે મહિલા પોતે સામે આવી છે અને આ સમગ્ર મામલે પોતાનો પક્ષ રજૂ કરી શું કહે છે તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/sasu-jamai-love-story-shocking-twist-now-woman-big-allegation-464785 ",
-    "time": "2026-02-13T07:12:53.000Z"
   },
   {
     "cat": "World",
@@ -360,15 +378,6 @@ const newsData_gu = [
     "time": "2026-02-10T15:38:38.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "જાડેજાને &amp;#039;બિઝનેસ ક્લાસ&amp;#039; તો અક્ષરને &amp;#039;ઇકોનોમી&amp;#039; કેમ ? જાણો કેવી રીતે નક્કી થાય છે ગ્રેડ",
-    "desc": "દેશમાં હાલ T20 વર્લ્ડ કપનો માહોલ જામ્યો છે. ત્યારે આ બધાની વચ્ચે BCCIએ સેન્ટ્રલ કોન્ટ્રાક્ટનું નવું લિસ્ટ જાહેર કરતાં નવી ચર્ચાઓ શરૂ થઈ છે. સેન્ટ્રલ કોન્ટ્રાક્ટમાં સ્પિન ઓલરાઉન્ડર રવિન્દ્ર જાડેજાને A ગ્રેડમાં, જ્યારે ત્રણેય ફોર્મેટમાં રમતા અક્ષર પટેલને C ગ્રેડમાં મુકવામાં આવતા નવી ચર્ચાઓ શરૂ થઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/bcci-central-contract-list-ravindra-jadeja-vs-axar-patel-grade-controversy-464541 ",
-    "time": "2026-02-10T13:26:57.000Z"
-  },
-  {
     "cat": "Business",
     "title": "મુસાફરો માટે મહત્ત્વના સમાચાર, 1 માર્ચથી UTS એપ થઈ જશે બંધ; હવે આ નવી એપથી બુક થશે ટિકિટ",
     "desc": "ભારતીય રેલવેએ ટ્રેન ટિકિટ અને અન્ય સેવાઓ માટે એક મોટો બદલાવ કર્યો છે. 1 માર્ચ 2026થી UTS On Mobile એપ બંધ કરી દેવામાં આવશે. હવે મુસાફરોએ ટ્રેન ટિકિટ અને અન્ય બીજી સેવાઓ માટે Railone એપનો ઉપયોગ કરવાનો રહેશે. આવી સ્થિતિમાં ચાલો જાણએ, શું છે RailOne એપ અને તેમાં શું સુવિધા મળશે.",
@@ -468,15 +477,6 @@ const newsData_gu = [
     "time": "2026-02-10T04:26:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "નોકરી કરનારા લોકો માટે મહત્વના સમાચાર, EPFO કરવા જઈ રહ્યું છે મોટા ફેરફાર",
-    "desc": "એક ટોચના સૂત્રએ જણાવ્યું હતું કે, કર્મચારી ભવિષ્ય નિધિ સંગઠન (EPFO)ના સબ્સ્ક્રાઇબર્સ આ વર્ષે એપ્રિલમાં શરૂ થનારી નવી મોબાઇલ એપ્લિકેશન દ્વારા UPI પેમેન્ટ ગેટવેનો ઉપયોગ કરીને તેમની PFની રકમ સીધી તેમના બેંક અકાઉન્ટમાં ટ્રાન્સફર કરી શકશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/important-news-for-employed-people-epfo-is-going-to-make-big-changes-464464 ",
-    "time": "2026-02-09T14:40:25.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "VFX વગર શૂટ થઈ હતી મહાભારત ? જાણો કેવી રીતે હવામાં અદૃશ્ય થઈ જતા હતા તીર",
     "desc": "બીઆર ચોપરાનું મહાભારત એવા યુગમાં બનાવવામાં આવ્યું હતું, જેમાં લેટેસ્ટ ટેકનોલોજી અને વીએફએક્સ હતુ જ નહીં. શું તમે ક્યારેય વિચાર્યું છે કે તે દિવસોમાં યુદ્ધ કેવી રીતે ચાલતું હતું, અને હવામાં તીર કેવી રીતે ગાયબ થઈ જતા હતા?",
@@ -493,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/jeffrey-epstein-wanted-to-create-super-human-race-baby-ranch-plan-explained-464357 ",
     "time": "2026-02-08T13:20:51.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "FBIના ગુપ્ત દસ્તાવેજમાં ચોંકાવનારો દાવો, શું ઈઝરાયેલી જાસૂસ હતો એપસ્ટીન?",
-    "desc": "અમેરિકામાં જેવું એપસ્ટીન ફાઈલ્સનો પટારો ખુલ્યો છે કે એવા ચોંકાવનારા રહસ્યો બહાર આવી રહ્યા છે જેણે આખી દુનિયામાં હડકંપ મચાવ્યો છે. મોટી મોટી હસ્તીઓના નામનો ખુલાસો અને હવે એવો દાવો થયો છે કે જેફરી એપસ્ટીન ઈઝરાયેલી જાસૂસ હતો. જાણો શું છે મામલો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/shocking-claim-in-secret-fbi-document-was-epstein-an-israeli-spy-what-netanyahu-says-464320 ",
-    "time": "2026-02-08T10:01:45.000Z"
   },
   {
     "cat": "Entertainment",
@@ -637,14 +628,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/forgot-your-uan-number-dont-worry-recover-it-in-minutes-from-home-know-the-process-463822 ",
     "time": "2026-02-03T09:16:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ફિલ્મ નિર્દેશક રોહિત શેટ્ટીના ઘર પર ફાયરિંગ મામલે લોરેન્સ બિશ્નોઈનું નામ ચર્ચામાં, 4 લોકોની ધરપકડ",
-    "desc": "ફિલ્મ ઈંડસ્ટ્રીમાં ફરી એકવાર લોરેન્સ બિશ્નોઈનું નામ ચર્ચામાં છે. મુંબઈમાં ફિલ્મ નિર્દેશક રોહિત શેટ્ટીના ઘર પર થયેલા ફારયિંગ મામલે પોલીસે 4 લોકોની ધરપકડ કરી હોવાનું સામે આવ્યું છે અને સાથે જ એક પોસ્ટ વાયરલ થઈ છે જેમાં આ ઘટનાની જવાબદારી લોરેન્સ બિશ્નોઈ ગેંગ દ્વારા લેવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/rohit-shetty-case-latest-update-lawrence-bishnoi-gang-post-viral-on-social-media-463669 ",
-    "time": "2026-02-02T02:32:19.000Z"
   }
 ];

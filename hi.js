@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Abhishek-Ishan vs Ayub-Farhan, which openers have better stats?",
+    "desc": "One of the most anticipated games of the ongoing T20 World Cup 2026 is right around the corner. The Indian team is all set to take on Pakistan in game 27 of the tournament. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-t20i-squad-comparison-abhishek-ishan-vs-ayub-farhan-which-openers-have-better-stats-2026-02-13-1030180",
+    "time": "2026-02-13T12:30:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Junaid Siddique's five-for in T20 World Cup puts him in elite list",
+    "desc": "Junaid Siddique stole the spotlight in the T20 World Cup 2026 match against Canada at the Arun Jaitley Stadium, picking up a five-wicket haul to power the United Arab Emirates to a dominant position. His...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/junaid-siddique-s-five-for-in-t20-world-cup-puts-him-in-elite-list-2026-02-13-1030178",
+    "time": "2026-02-13T12:22:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'One thing I want to see': R Ashwin advises team India on ways to tackle Pakistan bowler ahead of WC clash",
+    "desc": "The stage is set for one of the most anticipated games of the ongoing T20 World Cup 2026. The Indian team is all set to take on Pakistan in game 27 of the tournament. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/one-thing-i-want-to-see-r-ashwin-advises-team-india-on-ways-to-tackle-pakistan-bowler-ahead-of-wc-clash-2026-02-13-1030169",
+    "time": "2026-02-13T11:32:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Paul Stirling ruled out of T20 World Cup 2026, Ireland announce injury replacement",
+    "desc": "Ireland’s T20 World Cup campaign has taken a significant hit with captain Paul Stirling ruled out of the remainder of the tournament due to knee ligament damage. The injury occurred during Ireland’s recent outing against...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/paul-stirling-ruled-out-of-t20-world-cup-2026-ireland-announce-injury-replacement-2026-02-13-1030166",
+    "time": "2026-02-13T11:20:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajasthan Royals name Riyan Parag as new captain ahead of IPL 2026",
+    "desc": "The IPL (Indian Premier League) 2026 season is looming on the horizon, and ahead of the new season of the tournament, Rajasthan Royals came forward and announced all-rounder Riyan Parag as their new permanent captain....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rajasthan-royals-name-riyan-parag-as-new-captain-ahead-of-ipl-2026-2026-02-13-1030155",
+    "time": "2026-02-13T10:54:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia plan to revisit 2023 ODI World Cup blueprint after shock loss to Zimbabwe in Colombo",
+    "desc": "Zimbabwe produced one of the biggest upsets in T20 World Cup history, as the Sikandar Raza-led side stunned Australia by 23 runs at the R. Premadasa Stadium in Colombo. The victory keeps the Chevrons firmly...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-plan-to-revisit-2023-odi-world-cup-blueprint-after-shock-loss-to-zimbabwe-in-colombo-2026-02-13-1030148",
+    "time": "2026-02-13T10:13:34.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Zimbabwe upset Australia in T20 World Cup, defend 169 runs to keep Super 8 hopes alive",
     "desc": "Upsets in the T20 World Cup are becoming far more frequent than in the past. In the 2024 edition, the USA stunned Pakistan, while in 2022, Namibia shocked Sri Lanka and Ireland pulled off a...",
     "img": "",
@@ -16,59 +70,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-a-vs-uae-live-when-and-where-to-watch-women-s-rising-stars-asia-cup-live-on-tv-and-streaming-in-india-2026-02-13-1030090",
     "time": "2026-02-13T04:37:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Italy celebrate their T20 World Cup win over Nepal with renowned Bollywood actor",
-    "desc": "Wankhede Stadium in Mumbai witnessed history on Thursday (February 12) as Italy registered their first-ever win in the T20 World Cup, defeating Nepal by 10 wickets. They chased down 124 runs in less than 13...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/italy-celebrate-their-t20-world-cup-win-over-nepal-with-renowned-bollywood-actor-2026-02-13-1030081",
-    "time": "2026-02-13T03:21:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India break 12-year-old T20 World Cup record against Namibia courtesy Ishan Kishan and Samson",
-    "desc": "India faced Namibia in the 18th match of the ongoing T20 World Cup at the Arun Jaitley Stadium in New Delhi on Thursday. The hosts registered their biggest win in the mega event, beating the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-break-12-year-old-t20-world-cup-record-against-namibia-courtesy-ishan-kishan-and-samson-2026-02-13-1030076",
-    "time": "2026-02-13T01:58:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Italy coach wants front-page coverage in newspapers back home after historic win over Nepal",
-    "desc": "Making their debut at the T20 World Cup, Italy produced a result few saw coming, thrashing Nepal by 10 wickets in a statement win. Nepal had pushed England to the brink in their previous match...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/italy-coach-wants-front-page-coverage-in-newspapers-back-home-after-historic-win-over-nepal-in-t20-world-cup-2026-2026-02-12-1030062",
-    "time": "2026-02-12T18:20:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Varun Chakravarthy shares major update on Abhishek Sharma, reveals if he will play vs Pakistan in Colombo",
-    "desc": "India opener Abhishek Sharma missed the T20 World Cup 2026 fixture against Namibia at the Arun Jaitley Stadium in New Delhi due to a stomach infection. The youngster had to undergo medical tests at a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/varun-chakravarthy-shares-major-update-on-abhishek-sharma-reveals-if-he-will-play-vs-pakistan-in-colombo-2026-02-12-1030061",
-    "time": "2026-02-12T17:55:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav gives his take after India make quick work of Namibia in T20 World Cup 2026",
-    "desc": "Game 18 of the ongoing T20 World Cup 2026 saw the Indian team taking on Namibia. The two sides locked horns at the Arun Jaitley Stadium in Delhi on February 12, and the clash began...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-gives-his-take-after-india-make-quick-work-of-namibia-in-t20-world-cup-2026-2026-02-12-1030060",
-    "time": "2026-02-12T17:53:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India register comfortable 93-run win over Namibia despite sloppy batting performance in Delhi",
-    "desc": "India made it two wins in two at the T20 World Cup 2026 with a victory over Namibia on February 12, moving a step closer to the Super 8 stage. They won by 93 runs,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-register-comfortable-93-run-win-over-namibia-despite-sloppy-batting-performance-in-delhi-2026-02-12-1030051",
-    "time": "2026-02-12T17:00:33.000Z"
   }
 ];
