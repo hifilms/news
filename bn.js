@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "Ranojoy-Shyamoupti Wedding: হলুদ পোশাকে টুইনিং, রণজয়ের কোলে চড়েই নতুন গল্পের প্রথম অধ্যায় শুরু শ্যামোপ্তির, রইল গায়ে হলুদের আদুরে ছবি",
+    "desc": "ভ্যালেন্টাইন্স ডে-র দিন টলিপাড়ার বাজছে বিয়ের সানাই৷ ভালবাসার দিনেই চারহাত এক হচ্ছে অভিনেতা রণজয় বিষ্ণু এবং অভিনেত্রী শ্যামৌপ্তি মুদলির৷ তারকা জুটি গায়ে হলুদের আদুরেমাখা ছবি সোশ্যাল মিডিয়ায় পোস্ট করেছেন৷ যা ঝড়ের গতিতে নেটদুনিয়ায় ভাইরাল হয়েছে৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-14-at-2.29.36-PM-2026-02-d9204cc21b44e05867bf5549a58d39af-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/tollywood-actor-ranojoy-bishnu-weds-shyamoupti-mudly-take-a-look-at-their-haldi-ceremony-photos-rds-2540149.html",
+    "time": "2026-02-14T09:13:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "এক কেজিতেই ৪০ টাকা! পাহাড়ের 'দামি' ফসলের চাষ এখন সমতলে, মোটা লাভের মুখ দেখতেই আহ্লাদে আটখানা চাষিরা",
+    "desc": "পাহাড়ের সেই চেনা ফসল এখন সমতলের কৃষকদের পকেটে ভড়ছে টাকা। প্রতি কেজিতে ৪০ টাকা পাইকারি দরে বিক্রির সুযোগ থাকায় এই বিদেশি সবজি চাষে রীতিমতো বিপ্লব শুরু হয়েছে সমতলে। জানুন কীভাবে সমতলের আবহাওয়ায় সফল হচ্ছে এই চাষ।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Profitable-Agriculture-Ideas-squash-farming-2026-02-d74b1a7da79425aac046b5878ddfd89d-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/jalpaiguri-profitable-agriculture-ideas-squash-farming-high-profit-for-farmers-success-agriculture-news-l18-local18-2539550.html",
+    "time": "2026-02-14T09:09:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "সম্পূর্ণ নগ্ন, পচাগলা...পা-এ শুধু মোজা! ইনদওরের MBA ছাত্রীর মৃত্যুতে রহস্য বাড়াচ্ছে ‘ভিডিও’",
+    "desc": "শুক্রবার, ধানোটিয়ার ভাড়াবাড়ির পাড়ার বেশ কয়েকজন পচা গন্ধ পাওয়ায় ওই ঘরে তল্লাশি চালানো হয়৷ তখন সেই ঘরে উদ্ধার হয় এক তরুণীর নগ্ন, পচাগলা দেহ৷ তরুণীর বাবা জানিয়েছেন, তাঁর মেয়ের মৃতদেহ এতটাই পচাগলা অবস্থায় ছিল যে, মেয়ের মোজা দেখে তিনি দেহ শনাক্ত করেছেন৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ydne-2026-02-14T125554.902-2026-02-a59e09ef791545c6f407ee5bd3617128-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/madhya-pradesh-indore-news-objectionable-video-missing-boyfriend-mba-students-murder-rocks-indore-sta-2539940.html",
+    "time": "2026-02-14T07:28:53.000Z"
+  },
+  {
     "cat": "Business",
     "title": "দেশের সর্বোচ্চ আয়ের টোল প্লাজা কোনগুলি? তালিকা অবাক করবে ! দিল্লি বা মুম্বই কেউই শীর্ষ পাঁচে নেই",
     "desc": "গত পাঁচ আর্থিক বছরে (২০২০-২১ থেকে ২০২৪-২৫) ভারতের জাতীয় মহাসড়ক এবং এক্সপ্রেসওয়েতে মোট টোল আদায় হয়েছে প্রায় ২.২৭ লক্ষ কোটি টাকা। সড়ক পরিবহণ ও মহাসড়ক মন্ত্রক (MoRTH) ১১ ফেব্রুয়ারি, ২০২৬ তারিখে রাজ্যসভায় এই পরিসংখ্যান প্রকাশ করেছে। সুতরাং, স্পষ্টতই দেশে এমন কিছু টোল পয়েন্ট রয়েছে যেখানে সর্বোচ্চ টোল আদায় হয়েছে। কোন প্লাজায় সবচেয়ে বেশি টোল আদায় হয় এবং কত?",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/honeymoon-murder-2-0-in-rajasthan-man-dies-in-hit-and-run-planned-by-wife-her-boyfriend-sta-2527438.html",
     "time": "2026-02-05T09:16:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "মেজ বোনই ছিল ‘ডেথ কম্যান্ডার’! মেয়েদের ফোন বেচে ইলেকট্রিক বিল দিয়েছিল বাবা...গাজিয়াবাদ কাণ্ডে ভয়ঙ্কর তথ্য",
-    "desc": "গত মঙ্গলবার গভীর রাতে ন’তলার জানলা থেকে ঝাঁপ দিয়েছিল পর পর৷ তিন বোন৷ সোজা পড়েছিল ৮০ ফুট নীচে৷ বয়স, ১৪, ১৬ এবং ১২৷ পুলিশ জানিয়েছে, সম্ভবত ওরা প্লাস্টিকের টুলের সাহায্যে খোলা জানলায় উঠেছিল৷ তারপরেই মরণঝাঁপ৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Bangla-News-2026-02-05T133409.750-2026-02-a532894befa6c6dc7aff8bfb7df1612b-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/ghaziabad-sisters-father-was-in-deep-debt-sold-daughter-s-phone-to-pay-electric-bill-sta-2527155.html",
-    "time": "2026-02-05T08:12:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ডিএ মামলায় সুপ্রিম কোর্টের বিরাট রায়...! 'মৌলিক অধিকার নয়', কিন্তু টাকা দিতেই হবে রাজ্যকে! 'সময়সীমা' বেঁধে কমিটি গড়ল কোর্ট",
-    "desc": "রাজ্য সরকারি কর্মচারীদের জন্য বিরাট সুখবর। সুপ্রিম কোর্ট এবার ডিএ নিয়ে দিয়ে দিল বড় নির্দেশ। নির্দেশে সুপ্রিম কোর্ট সরকারি কর্মীদের এখনই ২৫ শতাংশ ডিএ দিয়ে দেওয়ার নির্দেশ দিয়ে দিয়েছে। আগামী ৩১ মার্চের মধ্যে সরকারি কর্মীদের ডিএ দিয়ে দিতে হবে বলেও স্পষ্ট জানিয়েছে আদালত।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/DA-CASE-2026-02-c06256f0b3887eddc91c64b3a18a9140-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/west-bengal/da-case-supreme-court-big-news-for-govt-emplyees-supreme-landmark-verdict-by-the-supreme-court-state-must-pay-the-money-the-court-formed-a-committee-and-set-a-deadline-know-detail-here-sanj-2527047.html",
-    "time": "2026-02-05T06:38:37.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ভারত-বাণিজ্য চুক্তিকে পাত্তাই দিচ্ছে না রাশিয়া! ক্রেমলিনের মন্তব্যে জলের মতো পরিষ্কার সব...দিল্লিকে ভয় দেখাতে পারল না ট্রাম্প",
-    "desc": "ট্রাম্প আরও বলেন, “তিনি রাশিয়ার তেল কেনা বন্ধ করতে সম্মত হয়েছেন এবং যুক্তরাষ্ট্র থেকে, এমনকি সম্ভাব্যভাবে ভেনেজুয়েলা থেকেও অনেক বেশি তেল কিনবেন। এতে ইউক্রেনের যুদ্ধ শেষ করতে সাহায্য হবে, যেখানে এই মুহূর্তে প্রতি সপ্তাহে হাজার হাজার মানুষ মারা যাচ্ছে।”",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-05-at-10.02.14-2026-02-017d980ddb19f2ce8419646d7354513f-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/international/indo-us-deal-india-free-to-buy-oil-from-any-country-russia-reaction-on-new-delhis-energy-purchase-decision-sta-2526885.html",
-    "time": "2026-02-05T06:33:26.000Z"
   }
 ];
