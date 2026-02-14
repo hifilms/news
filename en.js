@@ -1,5 +1,59 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Four new astronauts arrive at International Space Station to replace NASA's evacuated crew",
+    "desc": "Last month's medical evacuation was NASA's first in 65 years of human spaceflight; one of four astronauts launched by SpaceX last summer suffered what officials described as a serious health issue, prompting their hasty return",
+    "img": "https://th-i.thgim.com/public/incoming/jroyqj/article70633412.ece/alternates/LANDSCAPE_1200/APTOPIX_SpaceX_Crew_Launch_07199.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/four-new-astronauts-arrive-at-international-space-station-to-replace-nasas-evacuated-crew/article70633411.ece",
+    "time": "2026-02-14T21:11:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshara Singh backs Pawan Singh's wife Jyoti in alimony battle",
+    "desc": "Bhojpuri actress Akshara Singh has come out in support of Jyoti Singh amid her ongoing legal dispute with Bhojpuri actor-politician Pawan Singh. Akshara, who was previously in a relationship with Pawan, said Jyoti’s demand for alimony is completely valid and that society should ensure divorced women receive financial security without any cap.",
+    "img": "https://static.toiimg.com/photo/msid-128361324,imgsize-53846.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/bhojpuri/movies/news/akshara-singh-supports-pawan-singhs-wife-jyoti-singh-in-alimony-battle-even-rs-100-crore-may-not-be-enough/articleshow/128361223.cms",
+    "time": "2026-02-14T20:51:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prashant Narayanan reacts to AR Rahman’s communal remarks",
+    "desc": "Prashant Narayanan, who is known for his villainous role in Emraan Hashmi starrer Murder 2, has weighed in on the ongoing debate around discrimination in the film industry, saying he was “genuinely hurt” after hearing certain accounts. He added that AR Rahman may have reacted to something personal.",
+    "img": "https://static.toiimg.com/photo/msid-128360810,imgsize-36772.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/prashant-narayanan-reacts-to-ar-rahmans-communal-remarks-discrimination-might-be-happening-but-he-doesnt-want-to-demean-the-country/articleshow/128360761.cms",
+    "time": "2026-02-14T20:19:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "State level wrestling tournament begins in Bihar",
+    "desc": "Commonwealth Games gold medallist shooter and sports minister Shreyasi Singh asserted that the dream and goal is to ensure the participation of as many players from Bihar as possible in the Olympics in the future.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/state-level-wrestling-tournament-begins-in-bihar/article70632665.ece",
+    "time": "2026-02-14T19:41:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Ranveer is brave, but he was too eye-catching in Dhurandhar’",
+    "desc": "Prashant Narayanan, who is known for his villainous role in Emraan Hashmi starrer Murder 2, has shared a candid take on Ranveer Singh's Dhurandhar, praising the craft of the film but questioning whether its full potential was realised. Calling it a “well-made film”, Prashant said he expected a stronger impact. Speaking about Ranveer Singh’s performance, Prashant was both appreciative and analytical.",
+    "img": "https://static.toiimg.com/photo/msid-128359079,imgsize-39898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-is-extremely-brave-actor-but-he-was-too-eye-catching-in-dhurandhar-says-prashant-narayanan-addresses-his-previous-remarks/articleshow/128358985.cms",
+    "time": "2026-02-14T19:13:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jansen and Markram deliver as SA decimates NZ",
+    "desc": "The left-arm pacer, with a four-wicket haul, helps the Proteas restrict the Kiwis to 175 for seven; the captain then takes over with an unbeaten 86 to guide his side to its third successive win",
+    "img": "https://th-i.thgim.com/public/incoming/rjgbbj/article70633211.ece/alternates/LANDSCAPE_1200/PTI02_14_2026_000852A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/south-africa-new-zealand-t20-world-cup-ahmedabad-updates-february-14-2026/article70632376.ece",
+    "time": "2026-02-14T18:56:00.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "SC to hear plea accusing new data protection law of ‘weaponising’ right to privacy and ‘disarming’ RTI",
     "desc": "The petition submits that Section 44(3) of the Digital Personal Data Protection (DPDP) Act of 2023 has amended the RTI Act to facilitate public authorities to refuse information on the ground that the details sought are of a “personal” nature.",
@@ -9,6 +63,15 @@ const newsData_en = [
     "time": "2026-02-14T18:20:44.000Z"
   },
   {
+    "cat": "Business",
+    "title": "What’s in store for garment exporters to the U.S.?",
+    "desc": "What has the U.S. promised Bangladesh with respect to textiles? What are the conditions laid down by the U.S. to give Bangladeshi exporters unprecedented access to American markets? What is the assurance that Union Commerce Minister Piyush Goyal gave Indian textile exporters?",
+    "img": "https://th-i.thgim.com/public/incoming/nx6l09/article70633332.ece/alternates/LANDSCAPE_1200/2025-08-07T145208Z_1044761173_RC2H3EACZ6XW_RTRMADP_3_USA-TRUMP-TARIFFS-INDIA-GARMENTS-PIX.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/whats-in-store-for-garment-exporters-to-the-us-explained/article70633290.ece",
+    "time": "2026-02-14T18:13:47.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Ananya Panday shares sweet birthday post for Walker Blanco",
     "desc": "Ananya Panday has once again set the rumour mill spinning. Months after she was spotted with Walker Blanco at the wedding of Anant Ambani and Radhika Merchant — where some onlookers even claimed she introduced him as her partner — the actress has now shared a heartfelt birthday wish for him.",
@@ -16,6 +79,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ananya-panday-shares-sweet-birthday-post-for-rumoured-boyfriend-walker-blanco-youre-the-best/articleshow/128357072.cms",
     "time": "2026-02-14T18:00:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How is U.S.-India trade deal being tweaked?",
+    "desc": "What are the areas that have come under scrutiny? Has India stopped buying Russian oil as Donald Trump has claimed? What is happening in the agricultural sector? Has the reference to pulses been removed from the draft? When is the formal agreement expected to be signed?",
+    "img": "https://th-i.thgim.com/public/incoming/o5ah8b/article70633261.ece/alternates/LANDSCAPE_1200/India_Protest_65464.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/how-is-us-india-trade-deal-being-tweaked-explained/article70633133.ece",
+    "time": "2026-02-14T17:52:04.000Z"
   },
   {
     "cat": "Politics",
@@ -70,6 +142,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/got-indias-commitment-to-stop-buying-russian-oil-claims-marco-rubio-at-munich-conference-jaishankar-reiterates-strategic-autonomy/articleshow/128354016.cms",
     "time": "2026-02-14T16:39:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Aishwarya doesn't need my permission': When Abhishek replied to a troll",
+    "desc": "Abhishek Bachchan defended his wife Aishwarya Rai Bachchan against a troll suggesting she sign more movies, stating she doesn't need his permission. Aishwarya has prioritized motherhood since their daughter Aaradhya's birth in 2011, enjoying being a hands-on mother. Abhishek praised Aishwarya's performance in 'Ponniyin Selvan 2' and highlighted her dedication to their daughter.",
+    "img": "https://static.toiimg.com/photo/msid-128354568,imgsize-23890.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aishwarya-doesnt-need-my-permission-when-abhishek-gave-a-befitting-reply-to-a-troll-netizens-called-husband-goals/articleshow/128354601.cms",
+    "time": "2026-02-14T16:39:09.000Z"
   },
   {
     "cat": "Politics",
@@ -154,6 +235,15 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
+    "title": "When Rekha reacted to marriage rumours with Vinod Mehra",
+    "desc": "Actor Vinod Mehra is remembered for his cinematic contributions, with his personal life, particularly his rumoured relationship with Rekha, often intertwined with his legacy. Their bond, fueled by shared screen space and personal closeness, led to speculation of a secret wedding, though Rekha consistently denied it.",
+    "img": "https://static.toiimg.com/photo/msid-128351843,imgsize-34218.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-rekha-said-vinod-mehra-kissed-her-on-her-birthday-denied-marriage-rumours-with-him-to-his-mother-im-a-badnaam-actress/articleshow/128351855.cms",
+    "time": "2026-02-14T15:03:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Sukesh claims he gifted Jacqueline an Airbus helicopter on V-Day",
     "desc": "Jailed conman Sukesh Chandrasekhar is back in the headlines — this time for a Valentine’s Day letter and an extravagant claim. In a note dated February 14, 2026, he says he has gifted an Airbus luxury helicopter to actor Jacqueline Fernandez, while also apologising for the “legal troubles” she has faced.",
     "img": "https://static.toiimg.com/photo/msid-128351662,imgsize-79562.cms",
@@ -196,24 +286,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/european-nations-say-alexei-navalny-died-by-poisoning/article70632422.ece",
     "time": "2026-02-14T14:24:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Indus basin water flows rose while Ganga declined since 1980, study shows",
-    "desc": "Annual streamflow in the Indus Basin rose 8% since 1980, but fell 17% in the Ganga Basin; more rain boosted flow in the Indus, Jhelum, Chenab, but not in the Ravi and Sutlej, with implications for the suspended Indus Waters Treaty",
-    "img": "https://th-i.thgim.com/public/news/y0gxzs/article70632613.ece/alternates/LANDSCAPE_1200/iStock-1927249610.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/indus-basin-water-flows-rose-while-ganga-declined-since-1980-study-shows/article70632322.ece",
-    "time": "2026-02-14T14:20:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Agriculture Budget failed to address farmers’ distress: YSRCP",
-    "desc": "The party general secretary alleges that ₹240 crore for seed subsidy and ₹139.65 crore for mechanisation are inadequate, and says farmers suffered losses due to prices falling below MSP; terms ₹500 crore for price stabilisation through Markfed insufficient",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/agriculture-budget-failed-to-address-farmers-distress-ysrcp/article70632270.ece",
-    "time": "2026-02-14T14:11:05.000Z"
   },
   {
     "cat": "Entertainment",
@@ -342,15 +414,6 @@ const newsData_en = [
     "time": "2026-02-14T12:46:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "6 Gangster Films on OTT After ‘O’Romeo’",
-    "desc": "Bollywood has long drawn from the country’s underworld, turning notorious figures and violent chapters into gripping dramas. These films trace the rise of dons, the cost of loyalty, and the pull between ambition and survival. Some stay close to documented encounters, while others fictionalize events but keep the emotional truth intact. What unites them is scale, strong performances, and a look at how crime shapes families and cities. From political corridors to crowded neighborhoods, each story captures power, fear, and consequence, giving viewers an intense window into lives lived on the edge of the law.",
-    "img": "https://static.toiimg.com/photo/msid-128348047,imgsize-40500.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-shahid-kapoor-led-oromeo-6-bollywood-gangster-films-to-stream-on-ott-that-are-inspired-by-the-underworld/photostory/128348047.cms",
-    "time": "2026-02-14T12:44:17.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Indo-U.S. trade deal will destroy India’s textile industry: Rahul",
     "desc": "In a social media post, he said the Modi Government has neither protected the interests of cotton farmers nor that of textile exporters as a ‘visionary government’ would have negotiated a deal that protected both and ensured prosperity for both the sectors",
@@ -396,33 +459,6 @@ const newsData_en = [
     "time": "2026-02-14T12:13:22.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mamta Mohandas says she is open to remarriage",
-    "desc": "Actress Mamta Mohandas revealed her openness to remarriage, emphasizing the need for mutual effort and shared interests in a relationship. Speaking on a podcast, she shared her past marriage's swift end and offered advice on overcoming hesitation to find love again by addressing past hurts and regrets. Mohandas will next appear in 'My Dear Sister'.",
-    "img": "https://static.toiimg.com/photo/msid-128346600,imgsize-30360.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mamta-mohandas-says-she-is-open-to-remarriage-but-it-has-to-be-someone-that-i/articleshow/128346600.cms",
-    "time": "2026-02-14T12:09:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'With Love' star Abishan Jeevinth’s real-life transformation",
-    "desc": "From struggling for Rs 500 to delivering a Rs 100 crore hit, Abishan Jeevinth's journey in Tamil cinema is a testament to sheer grit. He defied industry norms, proving that compelling narratives and a determined mindset, not just big budgets, pave the way to success. His recent acting venture, 'With Love,' further solidifies his rising star status.",
-    "img": "https://static.toiimg.com/photo/msid-128346400,imgsize-33710.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/with-love-filmmaker-abishan-jeevinths-real-life-transformation-from-borrowing-rs-500-loans-to-making-rs-100-crore/articleshow/128346400.cms",
-    "time": "2026-02-14T11:57:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yuzvendra faces backlash for revisiting 'Sugar Daddy’ remark",
-    "desc": "Cricketer Yuzvendra Chahal has ignited a firestorm on social media with his latest ad campaign that cleverly plays on his recent divorce from Dhanashree Verma, incorporating a 'Zero Sugar (Daddy) Diet' angle. While some may find it edgy, many netizens have taken to the internet, expressing their disapproval and labeling the ad as 'tasteless' and 'over-the-top.",
-    "img": "https://static.toiimg.com/photo/msid-128345989,imgsize-37504.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/yuzvendra-chahal-faces-online-heat-after-revisiting-sugar-daddy-remark-linked-to-dhanashree-verma-split/articleshow/128345989.cms",
-    "time": "2026-02-14T11:51:50.000Z"
-  },
-  {
     "cat": "World",
     "title": "Reza Pahlavi calls on Trump to ‘help’ Iranian people",
     "desc": "Trump had said on February 13, that a change of government in Iran would be the \"best thing that could happen\", as he sent a second aircraft carrier to the West Asia to ratchet up military pressure on the Islamic republic",
@@ -430,15 +466,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/reza-pahlavi-calls-on-trump-to-help-iranian-people/article70631956.ece",
     "time": "2026-02-14T11:40:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Tu Yaa Main’: Shanaya on fear of heights",
-    "desc": "While shooting 'Tu Yaa Main', Shanaya Kapoor faced her fear of heights head-on. During a particularly daunting ledge scene, she had to harness her inner calm, drawing on the spirited support of co-star Adarsh Gourav and the insightful direction of Bejoy Nambiar.",
-    "img": "https://static.toiimg.com/photo/msid-128345766,imgsize-56368.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shanaya-kapoor-recalls-how-she-overcame-her-fear-of-heights-for-tu-yaa-main-stay-calm-dont-overthink-/articleshow/128345766.cms",
-    "time": "2026-02-14T11:33:56.000Z"
   },
   {
     "cat": "Politics",
@@ -538,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/shared-commitment-to-peace-stability-bangladeshs-bnp-thanks-pm-modi-for-wishes-after-victory-in-elections/articleshow/128339830.cms",
     "time": "2026-02-14T08:13:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Show that PM CARES': Congress books flight tickets for PM Modi to visit Manipur",
-    "desc": "Congress leader Pawan Khera criticized PM Modi for visiting Assam instead of Manipur, which has been experiencing unrest. Khera shared mock flight tickets from Guwahati to Imphal, urging the PM to visit the troubled state. This comes as Manipur faces renewed tensions and violent protests.",
-    "img": "https://static.toiimg.com/photo/msid-128339925,imgsize-759608.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/show-that-pm-cares-congress-books-flight-tickets-for-pm-modi-to-visit-manipur/articleshow/128339939.cms",
-    "time": "2026-02-14T08:12:17.000Z"
   },
   {
     "cat": "Sports",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-ends-immigration-crackdown-in-minnesota/article70627726.ece",
     "time": "2026-02-13T09:42:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Marina Abramović at the Kochi Biennale: On endurance, controversy and performance art",
-    "desc": "From a silent breathing ritual to a tense exchange over Epstein conspiracy theories, the performance art icon speaks candidly about pain, and reflects on six decades of pushing her body — and audiences — to its limits",
-    "img": "https://th-i.thgim.com/public/life-and-style/dxxkka/article70619596.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-11%20at%204.55.32%20PM%201.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/art/marina-abramovic-at-the-kochi-biennale-on-endurance-controversy-and-performance-art/article70618532.ece",
-    "time": "2026-02-13T09:34:57.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "A striking political debut in Bangladesh’s history",
-    "desc": "The chairman of the Bangladesh Nationalist Party, who returned to the country from a self-imposed exile in London, is ready to make a striking political debut after the party’s historic victory in the elections held on February 12, 2026",
-    "img": "https://th-i.thgim.com/public/incoming/wvz5n5/article70627049.ece/alternates/LANDSCAPE_1200/Bangladesh_Election_03201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/tarique-rahman-leads-bangladesh-national-party-to-victory-after-20-years/article70627018.ece",
-    "time": "2026-02-13T09:34:42.000Z"
   }
 ];
