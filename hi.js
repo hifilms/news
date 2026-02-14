@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Haven't had any practices': Netherlands head coach opens up on their loss against USA in Chennai",
+    "desc": "The Netherlands faced a hefty loss against the USA in game 21 of the ongoing T20 World Cup 2026. The two sides locked horns at the MA Chidambaram Stadium in Chennai on February 13, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/netherlands-head-coach-opens-up-on-their-loss-against-usa-in-chennai-2026-02-14-1030213",
+    "time": "2026-02-14T01:44:28.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ENG vs SCO, Kolkata, weather report: Will rain play spoilsport in T20 World Cup clash?",
     "desc": "The stage is set for game 23 of the ongoing T20 World Cup 2026; England will be taking on Scotland at the Eden Gardens in Kolkata on February 14. It is worth noting that the...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ned-vs-usa-live-cricket-score-netherlands-aim-to-maintain-top-form-usa-hopes-to-improve-2026-02-13-1030187",
     "time": "2026-02-13T13:16:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek-Ishan vs Ayub-Farhan, which openers have better stats?",
-    "desc": "One of the most anticipated games of the ongoing T20 World Cup 2026 is right around the corner. The Indian team is all set to take on Pakistan in game 27 of the tournament. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-t20i-squad-comparison-abhishek-ishan-vs-ayub-farhan-which-openers-have-better-stats-2026-02-13-1030180",
-    "time": "2026-02-13T12:30:22.000Z"
   }
 ];

@@ -1,5 +1,122 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Premium-only ‘Opalite’ videos deepen Taylor Swift’s showgirl era narrative",
+    "desc": "Taylor Swift has delighted fans with extended music videos for her hit song 'Opalite'. These exclusive releases, over nine minutes long, are available on premium platforms. The videos combine the original infomercial-style content with candid behind-the-scenes moments. The song itself, from the album 'The Life of a Showgirl', explores themes of man-made happiness, inspired by opals and personal connections.",
+    "img": "https://static.toiimg.com/photo/msid-128330174,imgsize-625057.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-drops-extended-opalite-videos-with-behind-the-scenes-moments-where-to-watch/articleshow/128330177.cms",
+    "time": "2026-02-14T01:24:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spa' BO day 1: Adult comedy opens at Rs 4 lakhs",
+    "desc": "Abrid Shine's 'Spa' opened to a modest Rs 4 lakhs worldwide, with India net at Rs 3 lakhs. The film, set in a city spa, explores clients' varied desires and therapists' challenges. Despite a bold premise sparking online talk, early mixed reviews suggest its box office fate hinges on strong city audience reception and weekend collections.",
+    "img": "https://static.toiimg.com/photo/msid-128329966,imgsize-72852.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/spa-box-office-collections-day-1-abrid-shines-adult-comedy-opens-at-rs-4-lakhs/articleshow/128329966.cms",
+    "time": "2026-02-14T01:18:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Mardaani 3’ day 15 bo: Film crosses Rs 41 crore",
+    "desc": "The theatrical performance of Rani Mukerji's 'Mardaani 3' remains robust, with earnings crossing Rs 40.9 crore in India and a worldwide total of Rs 60 crore. Even with a minor decline to Rs 0.60 crore on day 15, the film's authentic representation of a courageous cop has struck a chord with audiences.",
+    "img": "https://static.toiimg.com/photo/msid-128329785,imgsize-9972.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mardaani-3-box-office-collection-day-15-and-day-16-live-rani-mukerjis-film-crosses-rs-41-crore-as-it-enters-3rd-week/articleshow/128329785.cms",
+    "time": "2026-02-14T01:07:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Border 2' box office collection Day 22 and Day 23 (LIVE)",
+    "desc": "Border 2, starring Sunny Deol and others, has completed a three-week run, earning Rs 318.55 crore in India and Rs 436.15 crore worldwide. Despite a strong start, the film experienced a significant decline in its fourth week due to new releases. Day 22 saw earnings of Rs 0.8 crore, with expectations of reaching Rs 440 crore worldwide.",
+    "img": "https://static.toiimg.com/photo/msid-128329584,imgsize-62964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-22-and-day-23-live-sunny-deols-film-moves-slowly-towards-rs-440-crore-mark-worldwide/articleshow/128329586.cms",
+    "time": "2026-02-14T00:51:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Pennum Porattum' BO day 1: Film opens at Rs 12 lakhs",
+    "desc": "Rajesh Madhavan's directorial debut, 'Pennum Porattum,' has opened to a modest Rs 12 lakhs worldwide. Inspired by realist cinema and the casting approach of 'Thondimuthalum Driksakshiyum,' the film features newcomers in a character-driven Malayalam drama set in a stark village. With no major competition, the film might see a gradual rise if it gains audience support.",
+    "img": "https://static.toiimg.com/photo/msid-128329543,imgsize-91756.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/pennum-porattum-box-office-collections-day-1-rajesh-madhavans-directorial-debut-opens-at-rs-12-lakhs/articleshow/128329543.cms",
+    "time": "2026-02-14T00:51:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "JoJo Siwa's Harvard Business School Speech goes viral",
+    "desc": "JoJo Siwa recently delivered a speech at Harvard Business School, sharing her remarkable journey from childhood stardom to entrepreneurship. She spoke alongside the founders of BelliWelli, a gut health brand she invested in, highlighting lessons on resilience and the importance of continuous learning. This prestigious invitation marks a significant milestone in her evolving career.",
+    "img": "https://static.toiimg.com/photo/msid-128329273,imgsize-952756.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/jojo-siwa-addresses-harvard-business-school-reflects-on-career-dreams-moments-like-this-remind-me-why-i-love-what-i-do/articleshow/128329278.cms",
+    "time": "2026-02-14T00:32:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'My Lord' BO day 1: Court drama opens at Rs 35 lakhs",
+    "desc": "M. Sasikumar and Chaithra Achar's new Tamil film 'My Lord' debuted with ₹35 lakhs on its opening day. The courtroom drama, praised for its unsettling premise and strong performances, saw varied occupancy throughout Friday. Its box office trajectory hinges on audience reception over the weekend.",
+    "img": "https://static.toiimg.com/photo/msid-128329224,imgsize-42220.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/my-lord-box-office-collections-day-1-m-sasikumar-film-opens-at-rs-35-lakhs/articleshow/128329224.cms",
+    "time": "2026-02-14T00:30:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Do not be negative': Hardik Pandya's dressing-room advice that revived Ishan Kishan's career",
+    "desc": "Following his match-winning knock against Namibia, Ishan Kishan revealed Hardik Pandya's advice to focus on domestic cricket after losing his BCCI contract. Pandya urged Kishan to let his bat do the talking, a sentiment echoed by Pandya's own experience with fan backlash.",
+    "img": "https://static.toiimg.com/photo/msid-128313647,imgsize-93404.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/hardik-pandyas-dressing-room-advice-that-revived-ishan-kishans-career/articleshow/128313579.cms",
+    "time": "2026-02-14T00:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Vadh 2' BO day 7: Sanjay Mishra film at Rs 3.45 Cr",
+    "desc": "Vadh 2 concluded its opening week with ₹3.45 crore, showing modest weekday growth. Despite a slight dip on Thursday, the film garnered praise for its cast's compelling performances, particularly Sanjay Mishra and Neena Gupta. Critics lauded its emotional depth and tight construction, though visual execution lagged behind writing. The thriller faces a crucial second weekend to maintain its theatrical run.",
+    "img": "https://static.toiimg.com/photo/msid-128328901,imgsize-79566.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vadh-2-box-office-collections-day-7-sanjay-mishra-film-has-first-week-closure-at-rs-3-45-cr/articleshow/128328901.cms",
+    "time": "2026-02-14T00:11:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "175 in U-19 World Cup final, now class 10 boards",
+    "desc": "Following a stellar ICC Under-19 World Cup 2026 victory, Vaibhav Sooryavanshi is now preparing for his Class 10 board examinations. The 14-year-old batting sensation, who set multiple records during the tournament, will sit for his exams at Podar International School, where he will receive no special treatment.",
+    "img": "https://static.toiimg.com/photo/msid-128315427,imgsize-59002.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-switches-pitches-175-in-u-19-world-cup-final-now-class-10-boards/articleshow/128315410.cms",
+    "time": "2026-02-14T00:00:00.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Major opportunities for AI in jobs and governance, says MeitY Secretary S. Krishnan",
+    "desc": "India is focusing on providing AI infrastructure that will spur development of applications, promoting electronics manufacturing with a thrust on semiconductors, and ensuring people secure adequate reskilling opportunities, says Secretary for the Ministry of Electronics and Information Technology S. Krishnan; he adds international cooperation on AI governance is being explored and the country has potential to be a leader in offering affordable technologies",
+    "img": "https://th-i.thgim.com/public/news/cities/Delhi/y7pv9b/article70630168.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/major-opportunities-for-ai-in-jobs-and-governance-says-meity-secretary-s-krishnan/article70630166.ece",
+    "time": "2026-02-13T23:38:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Akshaye had little to say, but was very cooperative’: Neeta",
+    "desc": "Akshaye Khanna has long maintained an air of mystique around him. Known for avoiding parties, interviews and unnecessary public appearances, the actor has consistently chosen to live life on his own terms. Colleagues often describe him as serious, deeply passionate about his craft and largely unaffected by public opinion or industry pressures.",
+    "img": "https://static.toiimg.com/photo/msid-128326599,imgsize-56688.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshaye-khanna-had-little-to-say-but-was-very-cooperative-neeta-lulla-recalls-working-with-dhurandhar-star-during-taal/articleshow/128326158.cms",
+    "time": "2026-02-13T22:39:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kabir Bedi recalls first meeting Parveen Dusanj in London",
+    "desc": "Veteran actor Kabir Bedi married British-born producer and researcher Parveen Dusanj on January 16, 2016, after nearly a decade of being in a committed relationship. At the time, Kabir was 70 and Parveen was 41, marking a 29-year age difference between them.",
+    "img": "https://static.toiimg.com/photo/msid-128324493,imgsize-42590.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kabir-bedi-recalls-first-meeting-parveen-dusanj-in-london-i-wanted-a-casual-relationship-but-she-didnt/articleshow/128324451.cms",
+    "time": "2026-02-13T22:03:25.000Z"
+  },
+  {
     "cat": "World",
     "title": "In Dhaka, a new dawn and a gathering storm",
     "desc": "The Bangladesh Nationalist Party is set to form the government in Dhaka after a landslide victory, but jubilation is also palpable at the Jamaat-e-Islami headquarters, as the party-led alliance has secured 77 seats. As the country prepares for its first elected government since Prime Minister Sheikh Hasina’s ouster in August 2024, the road ahead remains fraught with challenges",
@@ -333,15 +450,6 @@ const newsData_en = [
     "time": "2026-02-13T15:28:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Not a fair fight': Rahul targets PM Modi, calls US trade deal 'one-sided pressure' on farmers",
-    "desc": "Rahul Gandhi criticized the India-US trade deal, dubbing PM Modi as \"Narendra Surrender Modi\" and accusing him of betraying farmers. He argued the agreement creates an unfair fight for country's farmers against subsidized foreign crops. Union ministers Piyush Goyal and Shivraj Singh Chouhan refuted these claims, calling them baseless and accusing Gandhi of misleading the public.",
-    "img": "https://static.toiimg.com/photo/msid-128313294,imgsize-1087909.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/not-a-fair-fight-rahul-targets-pm-modi-calls-us-trade-deal-one-sided-pressure-on-farmers/articleshow/128312171.cms",
-    "time": "2026-02-13T15:22:05.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Adani Group enters nuclear power sector",
     "desc": "In a notice to the NSE, Adani Power says it has incorporated a wholly owned subsidiary Adani Atomic Energy Ltd; first private player to enter the sector since it was opened up via the SHANTI Act two months ago",
@@ -387,15 +495,6 @@ const newsData_en = [
     "time": "2026-02-13T14:48:15.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Shanaya recalls her ex-boyfriend cheating on her with five girls",
-    "desc": "Shanaya Kapoor, promoting her new film 'Tu Ya Main', revealed a deeply traumatic past relationship. She discovered her boyfriend was simultaneously involved with five other women during a vacation abroad. The shocking revelation, made while booking a cab, left her blindsided and heartbroken, prompting her to seek support from her friend Ananya Panday.",
-    "img": "https://static.toiimg.com/photo/msid-128311622,imgsize-23560.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shanaya-kapoor-recalls-her-ex-boyfriend-cheating-on-her-with-five-girls-ananya-panday-told-her-to-catch-a-train/articleshow/128311542.cms",
-    "time": "2026-02-13T14:33:46.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. spent $40 million on roughly 300 deportations to third nations, Democratic report finds",
     "desc": "The Democrats on the Foreign Relations panel, led by Sen. Jeanne Shaheen, criticised the practice of third-country deportations as “costly, wasteful and poorly monitored” in the report and called for “serious scrutiny of a policy that now operates largely in the dark”",
@@ -403,24 +502,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-spent-40-million-on-roughly-300-deportations-to-third-nations-democratic-report-finds/article70629051.ece",
     "time": "2026-02-13T14:33:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ponniyin Selvan 2' copyright case: SC asks AR Rahman to acknowledge",
-    "desc": "A retired English literature teacher from Meghalaya, 70-year-old Biana Momin unexpectedly became the face of the Malayalam mystery thriller 'Eko'. Discovered through old photographs, she impressed directors with her authentic presence and willingness to learn, leading her to portray the central character, Mlathi Chettathi, and proving talent knows no age or borders.",
-    "img": "https://static.toiimg.com/photo/msid-128310750,imgsize-24278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ponniyin-selvan-2-copyright-case-supreme-court-asks-ar-rahman-to-acknowledge-dagarwani-tradition-next-hearing-on-february-20/articleshow/128310750.cms",
-    "time": "2026-02-13T14:13:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'History being made': PM Modi says after inaugurating Kartavya Bhawans",
-    "desc": "​The Prime Minister said the newly inaugurated buildings reflect India’s commitment to citizen-centric governance and national progress. \"Today we all are witnessing a new history being made... This day of 13th February is witnessing a new beginning in India's development journey... Today, we are all entering Seva Teerth and Kartavya Bhavan with the resolve to achieve 'Viksit Bharat'. We have the divine blessings of achieving our goals,\" he said.",
-    "img": "https://static.toiimg.com/photo/msid-128309827,imgsize-52560.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/history-being-made-pm-modi-says-after-inaugurating-kartavya-bhawans/articleshow/128309032.cms",
-    "time": "2026-02-13T13:53:30.000Z"
   },
   {
     "cat": "World",
@@ -432,33 +513,6 @@ const newsData_en = [
     "time": "2026-02-13T13:48:26.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Don't Be Shy: Alia Bhatt spotlights female gaze in new film",
-    "desc": "Alia Bhatt's latest venture, 'Don't Be Shy,' is a heartwarming coming-of-age journey that reframes traditional narratives with its vibrant female lens. Set to premiere on Amazon Prime Video, the film skillfully weaves together elements of summer escapades and holiday nostalgia, all while introducing dynamic male characters that add depth to the story.",
-    "img": "https://static.toiimg.com/photo/msid-128309702,imgsize-29996.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-reveals-how-dont-be-shy-redefines-the-female-gaze-we-just-are-naturally-driven-towards-fabulous-women/articleshow/128309702.cms",
-    "time": "2026-02-13T13:46:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rohit Shetty makes first public appearance with son at Mumbai airport",
-    "desc": "Filmmaker Rohit Shetty made his first public appearance at Mumbai airport following a firing incident outside his residence. Accompanied by heavy security, he was seen bidding an emotional farewell to his son. The sighting comes after reports of gunshots near his home, leading to an ongoing investigation and increased security measures in the area.",
-    "img": "https://static.toiimg.com/photo/msid-128309764,imgsize-25600.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rohit-shetty-makes-first-public-appearance-with-son-amid-heavy-security-at-mumbai-airport-after-firing-outside-juhu-home/articleshow/128309713.cms",
-    "time": "2026-02-13T13:46:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vinod Khanna was traumatised after Osho's Oregon ashram",
-    "desc": "Vinod Khanna's second wife, Kavita, revealed the actor's traumatic experience at Osho's Oregon ashram, where he fell ill after the water supply was poisoned. He was deeply shaken and traumatized by the events, even crying on set after delivering strong performances. Despite an offer to lead the Pune ashram, Khanna declined and returned to a successful film career.",
-    "img": "https://static.toiimg.com/photo/msid-128309335,imgsize-15048.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vinod-khanna-was-traumatised-on-returning-from-oshos-oregon-ashram-after-ma-anand-sheela-took-control-water-supply-was-poisened-says-kavita-khanna-calls-her-tyrannical/articleshow/128308917.cms",
-    "time": "2026-02-13T13:35:44.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Five-star Siddique, Aryansh fire UAE to first win",
     "desc": "UAE secured their first T20 World Cup win, defeating Canada by five wickets. Junaid Siddique's five-wicket haul restricted Canada to a modest total, while Aryansh Sharma and Sohaib Khan's crucial partnership guided UAE to a successful chase. The duo's aggressive batting in the death overs sealed the victory.",
@@ -466,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-five-star-junaid-siddique-aryansh-sharma-fire-uae-to-first-win/articleshow/128309182.cms",
     "time": "2026-02-13T13:35:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nargis opens up about stem cell therapy for knee injuries",
-    "desc": "Nargis Fakhri revealed she underwent stem cell therapy to treat chronic knee injuries caused by years of dancing. The actor said she feels 75–80% better after two months. Having avoided surgery a decade ago, she now encourages others with similar issues to try stem cell treatment before opting for surgery.",
-    "img": "https://static.toiimg.com/photo/msid-128309096,imgsize-34434.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nargis-fakhri-opens-up-about-stem-cell-therapy-for-knee-injuries-shares-update-on-her-recovery-i-feel-at-least-75-to-80-better/articleshow/128309096.cms",
-    "time": "2026-02-13T13:28:53.000Z"
   },
   {
     "cat": "Sports",
@@ -495,24 +540,6 @@ const newsData_en = [
     "time": "2026-02-13T13:22:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Sunetra Pawar set to take over as NCP chief, says Praful Patel; skirts merger talk",
-    "desc": "Senior NCP leader Praful Patel stated the party's immediate focus is on organizational consolidation and rallying behind Sunetra Pawar, who will soon assume charge as national president. Patel emphasized strengthening the party's base in Maharashtra following recent local body election successes. Discussions about a potential merger with NCP (SP) were downplayed, with the priority being internal stability.",
-    "img": "https://static.toiimg.com/photo/msid-128308841,imgsize-35910.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sunetra-pawar-set-to-take-over-as-ncp-chief-says-praful-patel-skirts-merger-talk/articleshow/128308862.cms",
-    "time": "2026-02-13T13:22:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Who is Biana Momin? All about the 70 year old ‘Eko’ actress",
-    "desc": "A retired English teacher from Meghalaya, 70-year-old Biana Momin, unexpectedly became the face of the Malayalam thriller 'Eko'. Discovered through old photographs, she impressed directors with her presence and willingness to learn, despite no prior film experience or understanding of the language. Her journey highlights that talent knows no age or boundaries.",
-    "img": "https://static.toiimg.com/photo/msid-128308282,imgsize-27226.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/who-is-biana-momin-the-70-year-old-eko-actress-who-stunned-fans-as-mlathi-chettathi/articleshow/128308282.cms",
-    "time": "2026-02-13T13:08:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Australia down, but not out? Head points to 2023 comeback blueprint",
     "desc": "Zimbabwe secured a significant victory over Australia in the T20 World Cup. They posted 169 runs and successfully defended the total. Australia's captain Travis Head remained optimistic, referencing their 2023 ODI World Cup comeback. Injuries have also affected Australia's squad. This marks a rare World Cup absence of key pacers Cummins, Hazlewood, and Starc together.",
@@ -520,33 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/australia-down-but-not-out-travis-head-points-to-2023-odi-world-cup-comeback-blueprint/articleshow/128307934.cms",
     "time": "2026-02-13T13:00:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Actor stresses deep homework",
-    "desc": "Pallavi Joshi, a talented actress, underscores the importance of thorough preparation as the foundation of her artistry. She believes that the true magic unfolds behind the scenes, where she immerses herself in her roles to such an extent that the characters instinctively guide her performance.",
-    "img": "https://static.toiimg.com/photo/msid-128307754,imgsize-34434.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-kashmir-files-actress-pallavi-joshi-reveals-how-she-lives-a-role-until-it-becomes-instinct-i-do-a-lot-of-homework/articleshow/128307754.cms",
-    "time": "2026-02-13T13:00:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mohanlal teases Drishyam 3 with an intriguing poster",
-    "desc": "The highly anticipated 'Drishyam 3', starring Mohanlal and directed by Jeethu Joseph, is set for a worldwide release on April 2, 2026. A new poster reveals Mohanlal as Georgekutty amidst a plantain field, hinting at a dramatic continuation. This final installment explores Georgekutty's life four and a half years later, promising a tension-filled thriller rooted in rural Idukki's authentic visuals.",
-    "img": "https://static.toiimg.com/photo/msid-128307721,imgsize-42360.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/drishyam-3-mohanlal-teases-the-next-part-of-jeethu-josephs-film-with-an-intriguing-poster/articleshow/128307721.cms",
-    "time": "2026-02-13T12:57:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tusshar on being a single dad through surrogacy, not asking Jeetendra",
-    "desc": "Tusshar Kapoor, Bollywood's first single father via IVF and surrogacy, shared his journey in 'Bachelor Dad'. He revealed his lifelong inclination towards fatherhood, not marriage, finding parenthood at 40 timely. An unexpected conversation with Prakash Jha sparked his decision, leading him to embrace single fatherhood with faith and determination.",
-    "img": "https://static.toiimg.com/photo/msid-128307361,imgsize-53044.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tusshar-kapoor-on-being-a-single-dad-through-surrogacy-not-asking-father-jeetendra-about-it-he-believes-in-marriage-/articleshow/128307020.cms",
-    "time": "2026-02-13T12:44:56.000Z"
   },
   {
     "cat": "Entertainment",
@@ -691,24 +691,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sanjay-krishnamurthys-journey-juggling-between-computer-science-degree-and-cricket-to-playing-t20-world-cup-for-usa/articleshow/128291982.cms",
     "time": "2026-02-13T06:36:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Brendan Taylor ruled out of T20 World Cup",
-    "desc": "Zimbabwe's World Cup campaign has been dealt a significant blow with veteran wicketkeeper-batter Brendan Taylor ruled out due to an injury sustained against Oman. The 40-year-old was forced to retire hurt and will take no further part in the tournament, leaving a considerable void in the team's batting lineup and leadership.",
-    "img": "https://static.toiimg.com/photo/msid-128292040,imgsize-117184.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/big-injury-blow-for-zimbabwe-brendan-taylor-ruled-out-of-t20-world-cup/articleshow/128291955.cms",
-    "time": "2026-02-13T06:21:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Long pause, two elbows’: How Pak spinner became T20 WC’s biggest talking point",
-    "desc": "Pakistan's Usman Tariq is the talk of the T20 World Cup 2026 with his unusual bowling action, featuring a distinct pause. While cleared by testing regarding elbow flex, his unique rhythm has baffled batsmen like Cameron Green and Dewald Brevis. Tariq's early success, including a hat-trick, makes his unconventional style a key talking point.",
-    "img": "https://static.toiimg.com/photo/msid-128291158,imgsize-169352.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/long-pause-two-elbows-how-pakistan-mystery-spinner-usman-tariq-became-t20-world-cups-biggest-talking-point/articleshow/128290959.cms",
-    "time": "2026-02-13T06:01:41.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/science/budget-gives-science-missions-big-numbers-but-core-funding-gaps-persist/article70618926.ece",
     "time": "2026-02-11T13:09:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shahid Kapoor confirms ‘Farzi' season 2: The fakers are back at it, says the actor",
+    "desc": "Shahid Kapoor just dropped the news that Season 2 of the hit series ‘Farzi’ is officially in the works. He took to Instagram to share the news with a fun picture alongside creators Raj and DK",
+    "img": "https://th-i.thgim.com/public/incoming/tlaskx/article70619774.ece/alternates/LANDSCAPE_1200/Shahid%20Kapoor.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/shahid-kapoor-farzi-season-2-confirmed-farzi-raj-and-dk-vijay-sethupathi/article70619741.ece",
+    "time": "2026-02-11T12:34:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "IT Ministry mandates label for AI-generated content, reduces takedown timeline to 2–3 hours",
+    "desc": "New rules require prominent disclosure for photorealistic synthetic media, sharply cut takedown deadlines for illegal and sensitive content, and warn platforms of loss of safe harbour for non-compliance; the new rules will come into force from February 20, 2026",
+    "img": "https://th-i.thgim.com/public/incoming/71xddn/article70615997.ece/alternates/LANDSCAPE_1200/2026-01-31T042528Z_1071183313_RC2QCIA9XHEB_RTRMADP_3_INDIA-SOCIALMEDIA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/govt-tightens-rules-on-ai-generated-deepfake-content-mandates-faster-takedown-of-flagged-material/article70615674.ece",
+    "time": "2026-02-11T11:32:19.000Z"
   }
 ];
