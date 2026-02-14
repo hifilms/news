@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Suryakumar Yadav imitates Usman Tariq as India prepare for unkown challenge for T20 World Cup clash",
+    "desc": "India T20 captain Suryakumar Yadav led from the front to help his team prepare for the unknown Usman Tariq challenge in the upcoming India-Pakistan T20 World Cup clash on Sunday in Colombo. There has been so...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-imitates-usman-tariq-as-india-prepare-for-unkown-challenge-for-t20-world-cup-clash-2026-02-14-1030305",
+    "time": "2026-02-14T18:29:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Wasim Akram, Waqar Younis, Shahid Afridi among others call for urgent care as Imran Khan's health deteriorates",
+    "desc": "Former Pakistan captain and ex-Prime Minister Imran Khan is set to be shifted to a hospital as concerns mount over his health. Tariq Fazal Chaudhary, a government minister, announced on X that ‘considering his health,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wasim-akram-waqar-younis-shahid-afridi-among-others-call-for-urgent-care-as-imran-khan-s-health-deteriorates-2026-02-14-1030304",
+    "time": "2026-02-14T18:17:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Aiden Markram shatters major records as South Africa continue stellar run vs New Zealand in T20 World Cups",
+    "desc": "South Africa skipper Aiden Markram shattered major records as his side continued its brilliant run against New Zealand in the T20 World Cups. Markram scored a blistering unbeaten 86 from 44 balls as the Proteas...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/aiden-markram-shatters-major-records-as-south-africa-continue-stellar-run-vs-new-zealand-in-t20-world-cups-2026-02-14-1030303",
+    "time": "2026-02-14T17:59:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh Cricket Board president Aminul Islam rejects ICC's invitation for IND vs PAK clash in T20 World Cup",
+    "desc": "Bangladesh Cricket Board president Aminul Islam Bulbul will not be attending Sunday’s high-profile T20 World Cup clash between India and Pakistan at the R. Premadasa Stadium in Colombo. Aminul, who had received an invitation from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-cricket-board-president-aminul-islam-rejects-icc-s-invitation-for-ind-vs-pak-clash-in-t20-world-cup-2026-02-14-1030302",
+    "time": "2026-02-14T17:50:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Africa outclass New Zealand, become first team to qualify for Super 8 after Markram, Jansen show",
+    "desc": "A dominant all-round show from South Africa helped them beat New Zealand to become the first team to progress to the Super 8 of the T20 World Cup 2026. Captain Aiden Markram led from the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-outclass-new-zealand-become-first-team-to-qualify-for-super-8-after-markram-jansen-show-2026-02-14-1030301",
+    "time": "2026-02-14T17:29:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at R Premadasa Stadium in Colombo play for T20 World Cup 2026?",
+    "desc": "When India and Pakistan meet at a World Cup, form often takes a back seat to nerve. The R Premadasa Stadium in Colombo is bracing for that familiar surge of anticipation as the two sides...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-pitch-report-how-will-surface-at-r-premadasa-stadium-in-colombo-play-for-t20-world-cup-2026-2026-02-14-1030298",
+    "time": "2026-02-14T16:37:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will rain play spoilsport during T20 World Cup 2026 clash in Colombo?",
+    "desc": "After nearly a month-long drama, Pakistan have agreed to play India in the T20 World Cup 2026 clash at the R Premadasa Stadium in Colombo. Ahead of that, the Suryakumar Yadav-led side has defeated the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-pakistan-weather-report-will-rain-play-spoilsport-during-t20-world-cup-2026-clash-in-colombo-2026-02-14-1030296",
+    "time": "2026-02-14T15:56:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Suryakumar Yadav downplays hype around Usman Tariq ahead of IND vs PAK in T20 World Cup",
     "desc": "Hubbub around Usman Tariq dominates grabs attention ahead of IND vs PAK, Suryakumar Yadav downplays the hype As the T20 World Cup 2026 showdown between India and Pakistan approaches in Colombo, much of the chatter has...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/first-time-ever-england-defeated-european-team-in-t20-world-cup-history-2026-02-14-1030286",
     "time": "2026-02-14T13:47:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will India shake hands with Pakistan in T20 World Cup 2026 clash? Suryakumar Yadav opens up",
-    "desc": "India and Pakistan are set to face off in a much-awaited group-stage clash at the T20 World Cup 2026 at the R Premadasa Stadium in Colombo on Sunday, February 15. The clash, which had been...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-india-shake-hands-with-pakistan-in-t20-world-cup-2026-clash-suryakumar-yadav-opens-up-2026-02-14-1030281",
-    "time": "2026-02-14T13:24:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma will play vs Pakistan in T20 World Cup? Suryakumar Yadav answers",
-    "desc": "India captain Suryakumar Yadav has confirmed that Abhishek Sharma has recovered well and is ready to feature in the blockbuster clash against Pakistan on February 15 at the R Premadasa Stadium in Colombo. The southpaw...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-will-play-vs-pakistan-in-t20-world-cup-suryakumar-yadav-answers-2026-02-14-1030273",
-    "time": "2026-02-14T12:07:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shamar Joseph removed from PSL after social media protest, Islamabad United sign replacement",
-    "desc": "Islamabad United have made a late shake-up in their pace department, parting ways with West Indies fast bowler Shamar Joseph and moving to bring in Zimbabwean seamer Blessing Muzarabani. Joseph was bought at his base...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shamar-joseph-removed-from-psl-after-social-media-protest-islamabad-united-sign-replacement-2026-02-14-1030272",
-    "time": "2026-02-14T11:52:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Security beefed up in Colombo ahead of India vs Pakistan T20 World Cup 2026 clash",
-    "desc": "The security in Colombo would be beefed up, leading to the high-voltage India-Pakistan clash in the T20 World Cup 2026, as the match is set to take place at the R Premadasa Stadium in Colombo...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/security-beefed-up-in-colombo-ahead-of-india-vs-pakistan-t20-world-cup-2026-clash-2026-02-14-1030271",
-    "time": "2026-02-14T11:39:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan Captain Salman Agha urges end to 'fuss' over Usman Tariq's bowling action, says ICC cleared him",
-    "desc": "Pakistan captain Salman Ali Agha has moved to shut down the debate surrounding mystery spinner Usman Tariq’s bowling action ahead of the blockbuster clash against Pakistan on February 15. The fixture at Premadasa had briefly been...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-captain-salman-agha-urges-end-to-fuss-over-usman-tariq-s-bowling-action-says-icc-cleared-him-2026-02-14-1030264",
-    "time": "2026-02-14T10:42:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch ISL 2026 live on TV and stream online?",
-    "desc": "After months of uncertainty, the Indian Super League (ISL) is set to resume competition on Saturday, with defending champions Mohun Bagan hosting Kerala Blasters at the Salt Lake Stadium in Kolkata. Later the same day,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/mohun-bagan-vs-kerala-blasters-when-and-where-to-watch-isl-2026-live-on-tv-and-stream-online-2026-02-14-1030260",
-    "time": "2026-02-14T09:56:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Can't change history': Pakistan skipper Salman Agha previews blockbuster India clash in T20 World Cup 2026",
-    "desc": "One of the most anticipated matches of the ongoing T20 World Cup 2026, the clash between India and Pakistan is slated to be held at the R. Premadasa Stadium in Colombo. The two sides will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/can-t-change-history-salman-ali-agha-previews-blockbuster-india-clash-in-t20-world-cup-2026-2026-02-14-1030255",
-    "time": "2026-02-14T08:49:30.000Z"
   }
 ];

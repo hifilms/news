@@ -1,5 +1,140 @@
 const newsData_en = [
   {
+    "cat": "Tech",
+    "title": "SC to hear plea accusing new data protection law of ‘weaponising’ right to privacy and ‘disarming’ RTI",
+    "desc": "The petition submits that Section 44(3) of the Digital Personal Data Protection (DPDP) Act of 2023 has amended the RTI Act to facilitate public authorities to refuse information on the ground that the details sought are of a “personal” nature.",
+    "img": "https://th-i.thgim.com/public/incoming/7qepbi/article70633115.ece/alternates/LANDSCAPE_1200/IMG_TH---14isbsrti-logoj_2_1_NIA0LGU4.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/sc-to-hear-plea-accusing-new-data-protection-law-of-weaponising-right-to-privacy-and-disarming-rti/article70632877.ece",
+    "time": "2026-02-14T18:20:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ananya Panday shares sweet birthday post for Walker Blanco",
+    "desc": "Ananya Panday has once again set the rumour mill spinning. Months after she was spotted with Walker Blanco at the wedding of Anant Ambani and Radhika Merchant — where some onlookers even claimed she introduced him as her partner — the actress has now shared a heartfelt birthday wish for him.",
+    "img": "https://static.toiimg.com/photo/msid-128357156,imgsize-69174.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ananya-panday-shares-sweet-birthday-post-for-rumoured-boyfriend-walker-blanco-youre-the-best/articleshow/128357072.cms",
+    "time": "2026-02-14T18:00:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "We thwarted BJP’s attempt to halt Magalir Urimai Thogai, says Stalin",
+    "desc": "He criticises the BJP-led Centre for not introducing any new schemes or projects for Tamil Nadu and came down heavily on AIADMK general secretary Edappadi K. Palaniswami for giving away the State’s rights to the Centre",
+    "img": "https://th-i.thgim.com/public/incoming/4puowz/article70632847.ece/alternates/LANDSCAPE_1200/9712_14_2_2026_19_49_25_2__DSC0553.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/we-thwarted-bjps-attempt-to-halt-magalir-urimai-thogai-says-stalin/article70632642.ece",
+    "time": "2026-02-14T17:51:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "AI not causing mass layoffs, but changing nature of work: Study",
+    "desc": "Contrary to fears, generative AI isn't causing mass layoffs in India's IT sector. A new ICRIER-OpenAI study reveals AI is boosting productivity and transforming roles, not replacing workers. While entry-level hiring has seen a slight dip, mid and senior positions remain stable, indicating a shift towards skill enhancement rather than job elimination.",
+    "img": "https://static.toiimg.com/photo/msid-128356864,imgsize-682821.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/ai-not-causing-mass-layoffs-but-changing-nature-of-work-study/articleshow/128356724.cms",
+    "time": "2026-02-14T17:50:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Markram's captain's knock powers SA to comfortable 7-wicket win over NZ",
+    "desc": "Aiden Markram's explosive 86 powered South Africa to a seven-wicket victory over New Zealand, bringing them closer to the Super 8s. Markram's dominant chase, supported by quick starts and a solid finish from David Miller, saw South Africa comfortably reach their target of 176. This win marks their third consecutive victory in the T20 World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-128355718,imgsize-115248.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/aiden-markrams-captains-knock-powers-south-africa-to-comfortable-7-wicket-win-over-new-zealand/articleshow/128355753.cms",
+    "time": "2026-02-14T17:17:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold tops investment choices among young Indians, survey finds",
+    "desc": "Young Indians, across Gen Z and Millennials, overwhelmingly favor gold as their top investment choice, with 62% preferring it over mutual funds, stocks, and crypto. Even with modern options available, gold is seen as the safest bet, especially during uncertain economic times. Purchases are increasingly personal and smaller, driven by income and investment goals rather than just tradition.",
+    "img": "https://static.toiimg.com/photo/msid-128355585,imgsize-77120.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-tops-investment-choices-among-young-indians-survey-finds/articleshow/128355499.cms",
+    "time": "2026-02-14T17:10:01.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Electoral differences should not turn into revenge, says Tarique Rahman",
+    "desc": "‘I call upon all BNP leaders and activists across the country to remain calm and vigilant so that no malicious force can exploit the situation to create unrest,’ says the BNP leader; he pledges to make Bangladesh ‘a safe and humane nation’",
+    "img": "https://th-i.thgim.com/public/news/international/u1kwm7/article70631860.ece/alternates/LANDSCAPE_1200/TariqueRahman.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/bangladesh-elections-tarique-rahman-speech/article70631853.ece",
+    "time": "2026-02-14T16:47:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'Got India's commitment to stop buying Russian oil,' claims Rubio at Munich conference",
+    "desc": "US Secretary of State Marco Rubio claimed India committed to halting additional Russian oil purchases, amidst ongoing US sanctions. However, India's External Affairs Minister S Jaishankar emphasized \"strategic autonomy\" and decisions guided by \"national interest\" and market dynamics. Russia's Foreign Minister Sergei Lavrov disputed claims of India stopping oil buys, accusing the US of coercion.",
+    "img": "https://static.toiimg.com/photo/msid-128354578,imgsize-692838.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/got-indias-commitment-to-stop-buying-russian-oil-claims-marco-rubio-at-munich-conference-jaishankar-reiterates-strategic-autonomy/articleshow/128354016.cms",
+    "time": "2026-02-14T16:39:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi CM inaugurates statue of RSS founder at east Delhi hospital",
+    "desc": "In a momentous occasion, Delhi CM Rekha Gupta inaugurated a statue of K B Hedgewar, the founder of RSS, in Shahdara, marking the organization's centennial. The statue stands as a beacon of selfless service and national pride, resonating with healthcare workers at Hedgewar Arogya Sansthan Hospital.",
+    "img": "https://static.toiimg.com/photo/msid-128354438,imgsize-1021407.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/delhi-cm-inaugurates-statue-of-rss-founder-at-east-delhi-hospital/articleshow/128354161.cms",
+    "time": "2026-02-14T16:26:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Palaash Muchhal’s lawyer says allegations are a ‘personal attack’",
+    "desc": "In a significant development in the Rs 10 crore defamation case filed by music composer and singer Palaash Muchhal, the Bombay High Court has restrained Marathi actor Vidnyan Mane from making defamatory remarks against the composer. The interim relief comes after Muchhal moved the court alleging that Mane made “false” and “outrageous” accusations in the media, which he claimed damaged his reputation.",
+    "img": "https://static.toiimg.com/photo/msid-128353901,imgsize-42698.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/palaash-muchhals-lawyer-calls-hc-order-a-relief-says-allegations-are-a-personal-attack-on-composer-and-his-family/articleshow/128353815.cms",
+    "time": "2026-02-14T16:15:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'You’ll see me play in a World Cup’: Abhishek’s promise to father comes full circle",
+    "desc": "After a health scare threatened to derail his World Cup campaign, Abhishek Sharma returns to the spotlight in Colombo. It will be the first time his father Raj Kumar Sharma watches him play a World Cup match from the stands. India will take on Pakistan on February 15 at the R Premadasa Stadium in Colombo.",
+    "img": "https://static.toiimg.com/photo/msid-128352494,imgsize-57548.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/one-day-youve-to-watch-me-play-for-india-in-a-world-cup-from-the-stands-how-abhishek-sharma-is-fulfilling-an-old-promise-in-colombo/articleshow/128352562.cms",
+    "time": "2026-02-14T15:43:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Manappuram Finance gets RBI approval for Bain Capital’s bid to acquire joint control",
+    "desc": "The definitive agreements for this deal were executed on March 20, 2025, under which Bain Capital had committed to invest approximately ₹4,385 crore to acquire an 18.0% stake on a fully diluted basis through preferential allotment of equity shares and warrants at a price of ₹236 per share",
+    "img": "https://th-i.thgim.com/public/incoming/kzxxe9/article70632972.ece/alternates/LANDSCAPE_1200/PTI02_06_2026_000220B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/manappuram-finance-gets-rbi-approval-for-bain-capitals-bid-to-acquire-joint-control/article70632915.ece",
+    "time": "2026-02-14T15:40:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Moushumi Chatterjee pinched me,' child actor recalls being traumatised",
+    "desc": "Child actor Raju Shrestha, known as Master Raju, recounted his difficult experiences working with actress Moushumi Chatterjee. He described instances on set where Chatterjee allegedly pinched and physically hurt him to elicit genuine crying for scenes, leaving him traumatized by her actions.",
+    "img": "https://static.toiimg.com/photo/msid-128352735,imgsize-25090.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/moushumi-chatterjee-pinched-me-hit-me-hard-for-a-scene-my-bones-ached-i-was-traumitised-says-former-child-actor-master-raju/articleshow/128352727.cms",
+    "time": "2026-02-14T15:36:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "CCEA okays Rs 11,000cr for upgrades",
+    "desc": "The Centre has greenlit over Rs 11,000 crore in highway projects across Maharashtra, Gujarat, and Telangana. These crucial upgrades, including road widening and new four-lane stretches, aim to significantly boost freight movement and regional connectivity. Projects on NH-160A in Maharashtra, NH-56 in Gujarat, and NH-167 in Telangana are set to enhance industrial links and slash travel times.",
+    "img": "https://static.toiimg.com/photo/msid-128352710,imgsize-927379.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/infrastructure/cabinet-clears-rs-11000-crore-highway-projects-in-maharashtra-gujarat-telangana/articleshow/128352580.cms",
+    "time": "2026-02-14T15:35:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I kiss my wife, cuddle my daughter': Ranbir on his morning routine",
+    "desc": "Ranbir Kapoor shared intimate details of his morning routine, including kissing wife Alia Bhatt and cuddling daughter Raha. He revealed his mother, Neetu Kapoor, is the best-dressed person. Discussing family dinners, he advised loose clothing due to abundant food. Ranbir also expressed his admiration for the film 'Dhurandhar' and teased upcoming projects like 'Love & War' and 'Ramayana'.",
+    "img": "https://static.toiimg.com/photo/msid-128352322,imgsize-35974.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-kiss-my-wife-cuddle-my-daughter-says-ranbir-kapoor-as-he-reveals-his-morning-routine-with-alia-bhatt-raha-kapoor/articleshow/128352331.cms",
+    "time": "2026-02-14T15:20:13.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Adult male tiger released in Papikonda National Park",
     "desc": "Named ‘Explorer’, the big cat has been fitted with a satellite collar and transmission of data regarding its movements has commenced; special teams have been deployed to monitor its movements in the wild until it establishes its own territory",
@@ -9,6 +144,15 @@ const newsData_en = [
     "time": "2026-02-14T15:07:19.000Z"
   },
   {
+    "cat": "Business",
+    "title": "India’s climate spending rises to 5.6% of GDP, Sitharaman says at Munich",
+    "desc": "India has significantly boosted climate action spending, now at nearly 5.6% of GDP, up from 3.7% six years ago, demonstrating strong domestic commitment. Finance Minister Nirmala Sitharaman emphasized the need for adaptation alongside emission cuts and advocated for a \"polluter pays\" principle in global climate finance, highlighting India's own substantial investments in renewables and carbon capture.",
+    "img": "https://static.toiimg.com/photo/msid-128351907,imgsize-30830.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-climate-spending-rises-to-5-6-of-gdp-nirmala-sitharaman-says-at-munich/articleshow/128351798.cms",
+    "time": "2026-02-14T15:05:58.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Sukesh claims he gifted Jacqueline an Airbus helicopter on V-Day",
     "desc": "Jailed conman Sukesh Chandrasekhar is back in the headlines — this time for a Valentine’s Day letter and an extravagant claim. In a note dated February 14, 2026, he says he has gifted an Airbus luxury helicopter to actor Jacqueline Fernandez, while also apologising for the “legal troubles” she has faced.",
@@ -16,6 +160,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sukesh-chandrasekhar-claims-he-gifted-jacqueline-fernandez-an-airbus-helicopter-on-valentines-day-apologises-for-legal-troubles/articleshow/128351541.cms",
     "time": "2026-02-14T14:58:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anil Kapoor opens up on being insecure as an actor",
+    "desc": "Veteran actor Anil Kapoor, with over 40 years in the industry, continues to thrive by seeking emotional hooks in his roles and a desire to prove himself. He credits Subhash Ghai's 'Meri Jung' for shaping him into a mainstream hero and a lingering insecurity for his sustained energy and drive to deliver quality performances.",
+    "img": "https://static.toiimg.com/photo/msid-128351296,imgsize-30264.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anil-kapoor-opens-up-on-his-insecurity-as-an-actor-and-thats-what-keeps-him-going-i-want-to-be-seen/articleshow/128351306.cms",
+    "time": "2026-02-14T14:43:34.000Z"
   },
   {
     "cat": "Entertainment",
@@ -90,15 +243,6 @@ const newsData_en = [
     "time": "2026-02-14T14:00:56.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Premkumar alleges ‘double standards’ in his removal from Chalachitra academy chairperson post",
-    "desc": "He asks why Sahitya Akademi president Satchidanandan is allowed to continue in the post despite his comments on the perils of prolonged rule, while he was ousted for supporting ASHA workers’ protest. Minister Saji Cherian says just routine procedure was followed in Premkumar’s case",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/premkumar-alleges-double-standards-in-his-removal-from-chalachitra-academy-chairperson-post/article70632039.ece",
-    "time": "2026-02-14T13:59:17.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Eat well and go to sleep': Surya, Salman Ali Agha play 'waiting' game over handshake",
     "desc": "Captains Suryakumar Yadav and Salman Ali Agha remained non-committal on whether India and Pakistan players would shake hands before or after their T20 World Cup clash. Both leaders suggested waiting until match day for a decision, emphasizing their focus on playing good cricket. This follows a history where India did not shake hands with Pakistan in previous encounters.",
@@ -160,15 +304,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-history-favours-india-against-an-unpredictable-pakistan-unit/article70632250.ece",
     "time": "2026-02-14T13:16:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Vasavan stands firm on ₹3 crore claim, dares Opposition to prove him wrong",
-    "desc": "The Minister says that Congress leaders who are making misleading statements about what he said in the Assembly will soon have to apologise; he reiterates that his statement was made strictly on the basis of documentary evidence",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/vasavan-stands-firm-on-3-crore-claim-dares-opposition-to-prove-him-wrong/article70632102.ece",
-    "time": "2026-02-14T13:11:19.000Z"
   },
   {
     "cat": "Sports",
@@ -243,15 +378,6 @@ const newsData_en = [
     "time": "2026-02-14T12:41:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Assistant Manager of nationalised bank arrested for stealing ₹4 crore worth pledged gold to fund online betting",
-    "desc": "The accused, identified as Kiran Kumar, 34, allegedly misused his access to the locker keys and, during the absence of the branch manager, began siphoning off small quantities of pledged gold over a period of time",
-    "img": "https://th-i.thgim.com/public/news/national/el063e/article70632187.ece/alternates/LANDSCAPE_1200/iStock-2210258864.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/assistant-manager-of-nationalised-bank-arrested-for-stealing-4-crore-worth-pledged-gold-to-fund-online-betting/article70631817.ece",
-    "time": "2026-02-14T12:40:33.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Move on' – How BCCI nudged Dhoni to quit captaincy and hand over to Kohli",
     "desc": "The BCCI selection committee initiated the captaincy change from MS Dhoni to Virat Kohli in 2017. Former selector Jatin Paranjpe revealed Dhoni accepted the decision respectfully. Dhoni assured full support to Kohli, offering his experience. This transition occurred after Dhoni had already achieved significant white-ball success for India.",
@@ -324,33 +450,6 @@ const newsData_en = [
     "time": "2026-02-14T11:25:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vicky Kaushal’s ‘Chhaava’ turns one today",
-    "desc": "Commemorating the first anniversary of the acclaimed historical film 'Chhaava,' Vicky Kaushal celebrated his journey in embodying the fierce Chhatrapati Sambhaji Maharaj. He shared touching behind-the-scenes stories and conveyed his heartfelt appreciation to fans for their boundless love for his character.",
-    "img": "https://static.toiimg.com/photo/msid-128345027,imgsize-80408.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vicky-kaushal-marks-first-anniversary-of-chhaava-with-unseen-bts-moments-i-bow-my-head-in-gratitude-to-the-great-maratha-legacy/articleshow/128345027.cms",
-    "time": "2026-02-14T11:13:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hirani reveals if he can make Aamir Khan starrer 'PK' today",
-    "desc": "Filmmaker Rajkumar Hirani questions if his 2014 blockbuster PK could be made today. The film, starring Aamir Khan, faced controversy but became a huge success. Hirani believes filmmakers should make movies with honesty and conviction. He notes that worrying about backlash can be more damaging than criticism itself. He suggests that making safe films leads to criticism anyway.",
-    "img": "https://static.toiimg.com/photo/msid-128345095,imgsize-57962.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajkumar-hirani-reveals-if-he-can-make-aamir-khan-starrer-pk-today-comments-will-bash-you/articleshow/128345105.cms",
-    "time": "2026-02-14T11:10:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sunny REACTS to 'Ghayal hoon isliye Ghatak hoon' dialogue",
-    "desc": "Sunny Deol, riding high on the success of 'Gadar 2' and 'Border 2', recently shared insights about his iconic 'Dhurandhar' dialogue. He mentioned that acclaimed director Aditya Dhar, who admires his work, referenced 'Ghayal' and 'Ghatak' titles as a tribute, emphasizing the artistry over commercial appeal. Fans can look forward to his future films, 'Lahore 1947' and 'Ramayana Part 1'.",
-    "img": "https://static.toiimg.com/photo/msid-128344494,imgsize-66710.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deol-reacts-to-the-dhurandhar-dialogue-ghayal-hoon-isliye-ghatak-hoon-says-humare-jo-director-hai/articleshow/128344494.cms",
-    "time": "2026-02-14T10:55:28.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India vs Pakistan to be played on used surface",
     "desc": "The highly anticipated India vs Pakistan clash on February 15 will be played on a used surface at the R Premadasa Stadium in Colombo, a factor that could significantly influence conditions and strategy in the marquee T20 World Cup encounter.",
@@ -358,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pitch-report-from-colombo-india-vs-pakistan-to-be-played-on-used-surface/articleshow/128343860.cms",
     "time": "2026-02-14T10:33:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nayanthara’s V-Day note for husband: ‘My home in human form'",
-    "desc": "Nayanthara celebrated Valentine's Day 2026 with husband Vignesh Shivan, marking a decade of their strong bond. She described him as her greatest blessing and a gift from her mother's prayers. Reflecting on their journey, she expressed enduring love and gratitude for his unwavering support, calling him her 'home in human form.",
-    "img": "https://static.toiimg.com/photo/msid-128343573,imgsize-35110.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/my-home-in-human-form-and-my-ammas-prayers-nayanthara-pens-valentines-day-note-for-husband-vignesh-shivan/articleshow/128343573.cms",
-    "time": "2026-02-14T10:29:11.000Z"
   },
   {
     "cat": "Sports",
@@ -441,15 +531,6 @@ const newsData_en = [
     "time": "2026-02-14T08:57:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Margot Robbie and Tom Ackerley's love story",
-    "desc": "from late nights on film sets to building a family together. Here’s a look at how it all started, how they built something real, and where they are now as partners, parents, and creative teammates.",
-    "img": "https://static.toiimg.com/photo/msid-128340361,imgsize-44130.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/margot-robbie-and-tom-ackerleys-love-story-from-suite-franaise-to-a-happily-ever-after/photostory/128340361.cms",
-    "time": "2026-02-14T08:29:18.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Shared commitment to peace, stability': Bangladesh's BNP thanks PM Modi for wishes after victory in  elections",
     "desc": "The Bangladesh Nationalist Party (BNP) thanked Prime Minister Narendra Modi for acknowledging their election victory, expressing eagerness to work with India. PM Modi congratulated BNP leader Tarique Rahman on the party's decisive win, which secured a two-thirds majority and signals a move towards political stability in Bangladesh.",
@@ -475,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/from-considering-retirement-at-28-to-topping-t20-world-cup-2026-wicket-tally-shadley-van-schalkwyks-second-act/articleshow/128338720.cms",
     "time": "2026-02-14T07:59:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Cannot pretend judges are perfect': CJI Surya Kant calls for humility and reform in judicial education",
-    "desc": "Chief Justice of India Surya Kant emphasized that judicial leadership thrives on acknowledging imperfections and embracing continuous growth, not on feigning flawlessness. He advocated for a radical redefinition of judicial leadership, proposing a Commonwealth Apex Body to unify judicial education, the Bar, and the bench across member nations.",
-    "img": "https://static.toiimg.com/photo/msid-128339493,imgsize-858608.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cannot-pretend-judges-are-perfect-cji-surya-kant-calls-for-humility-and-reform-in-judicial-education/articleshow/128339439.cms",
-    "time": "2026-02-14T07:57:55.000Z"
   },
   {
     "cat": "Sports",
@@ -520,33 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/valentines-day-boom-brings-cheers-for-q-comm-brands-more-shopping-for-jewellery-greeting-cards-and-plush-toys/articleshow/128333914.cms",
     "time": "2026-02-14T06:34:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Master at telling lies': Rahul slams PM Modi over India-US trade deal, flags impact on farmers",
-    "desc": "Rahul Gandhi slammed the India-US trade deal, calling PM Modi 'Narendra Surrender Modi' and warning of harm to cotton farmers and textile exporters. He alleged a trap where India faces an 18% tariff on garments while Bangladesh gets 0% by importing US cotton, potentially hurting Indian farmers. Minister Piyush Goyal refuted these claims, stating farmers' interests are protected.",
-    "img": "https://static.toiimg.com/photo/msid-128336583,imgsize-659577.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/master-at-telling-lies-rahul-slams-pm-modi-over-india-us-trade-deal-flags-impact-on-farmers/articleshow/128336539.cms",
-    "time": "2026-02-14T06:19:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Don’t think Abhishek is technically sound': Amir sparks fresh controversy",
-    "desc": "Former Pakistan pacer Mohammad Amir mocked Abhishek Sharma ahead of the India-Pakistan T20 World Cup clash, calling him a “slogger” and questioning his technique. Abhishek is recovering from a serious stomach infection, with India captain Suryakumar Yadav giving a cautious fitness update, while Varun Chakravarthy sounded optimistic. Abhishek has travelled to Colombo and will undergo final fitness tests before the match.",
-    "img": "https://static.toiimg.com/photo/msid-128336298,imgsize-46456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/dont-think-abhishek-sharma-is-technically-sound-mohammad-amir-makes-controversial-remark-ahead-of-ind-vs-pak-clash/articleshow/128335035.cms",
-    "time": "2026-02-14T05:59:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi lands at Dibrugarh Emergency Landing Facility, attends IAF air show",
-    "desc": "Prime Minister Narendra Modi arrived in Assam for a day-long visit, commencing with an aerial display by the Indian Air Force. He is set to inaugurate the Kumar Bhaskar Varma Setu, the first extradosed bridge in Northeast India, and the temporary campus of IIM Guwahati.",
-    "img": "https://static.toiimg.com/photo/msid-128336496,imgsize-4598685.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-pm-modi-lands-at-dibrugarh-emergency-landing-facility-attends-iaf-air-show/articleshow/128335436.cms",
-    "time": "2026-02-14T05:26:16.000Z"
   },
   {
     "cat": "Business",
@@ -621,15 +666,6 @@ const newsData_en = [
     "time": "2026-02-14T03:10:25.000Z"
   },
   {
-    "cat": "Business",
-    "title": "IndiGo plans to hire over 1,000 pilots after December's crew crunch",
-    "desc": "India's largest airline, IndiGo, is hiring over 1,000 pilots to address operational disruptions caused by pilot shortages. The recruitment drive follows a December incident where over 5,000 flights were cancelled. The airline is also adjusting network planning and increasing standby crew to manage its rapid fleet expansion.",
-    "img": "https://static.toiimg.com/photo/msid-128332031,imgsize-1308064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indigo-plans-to-hire-over-1000-pilots-after-decembers-crew-crunch/articleshow/128331589.cms",
-    "time": "2026-02-14T02:54:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India, Pakistan to hold separate training sessions ahead of T20 WC clash",
     "desc": "India and Pakistan will train at different times in Colombo before their T20 World Cup clash, with both teams also holding media interactions. Team India received a festive welcome, with Arshdeep Singh’s dance going viral. India will rely on key players like Hardik Pandya, Ishan Kishan, and Tilak Varma, while Varun Chakravarthy could be crucial on spin-friendly Sri Lankan pitches.",
@@ -637,15 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-pak-india-pakistan-to-hold-separate-training-sessions-ahead-of-mega-t20-world-cup-clash/articleshow/128331449.cms",
     "time": "2026-02-14T02:51:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Before Pak clash, Harbhajan warns India about one player",
-    "desc": "Former Indian cricketer Harbhajan Singh backed India to beat Pakistan in the T20 World Cup but warned they must play spinner Usman Tariq carefully. Tariq’s bowling action has sparked controversy despite his strong T20 record. Nayan Mongia also predicted an India win, citing team confidence and Pakistan’s pressure, and backed Hardik Pandya to perform well in big matches.",
-    "img": "https://static.toiimg.com/photo/msid-128331222,imgsize-60138.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-pak-ahead-of-pakistan-clash-harbhajan-singh-warns-india-about-one-bowler-play-him-safely/articleshow/128331009.cms",
-    "time": "2026-02-14T02:18:46.000Z"
   },
   {
     "cat": "Tech",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/tarique-rahman-leads-bangladesh-national-party-to-victory-after-20-years/article70627018.ece",
     "time": "2026-02-13T09:34:42.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Hello Kitty designer bows out after 40 years in charge",
-    "desc": "Yuko Yamaguchi has been responsible since 1980 for the design of Kitty, who is officially not a cat but a little girl from London, overseeing her rise to the epitome of Japan's \"kawaii\" — cute — soft power",
-    "img": "https://th-i.thgim.com/public/incoming/dk7ljp/article70627210.ece/alternates/LANDSCAPE_1200/AFP__20241030__36KF43E__v1__HighRes__UsJapanLifestyleBusinessCultureKitty.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/hello-kitty-designer-bows-out-after-40-years-in-charge/article70627196.ece",
-    "time": "2026-02-13T05:41:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "I’m a changed man now, says Ishan Kishan",
-    "desc": "After bludgeoning the Kiwi attack to all parts to help India romp to a 4-1 series victory and force his way into the first-choice XI, he is now lighting up the T20 World Cup as well",
-    "img": "https://th-i.thgim.com/public/incoming/ci13es/article70627147.ece/alternates/LANDSCAPE_1200/11908_7_2_2026_19_11_59_4_DSC_9455.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-2026-im-a-changed-man-now-says-ishan-kishan/article70627142.ece",
-    "time": "2026-02-13T05:06:36.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Paytm ties up with Bharat Taxi to enable mobile payments",
-    "desc": "Bharat Taxi is a ride-hailing platform built on a cooperative model and instead of charging commissions, the platform allows drivers to retain their full earnings from each ride, supporting greater transparency, fair income, and long-term financial stability",
-    "img": "https://th-i.thgim.com/public/incoming/x99n0q/article70627115.ece/alternates/LANDSCAPE_1200/PayTM-introduceGK0F6K00E.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/paytm-ties-up-with-bharat-taxito-enable-mobile-payments/article70624313.ece",
-    "time": "2026-02-13T04:50:30.000Z"
   }
 ];
