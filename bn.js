@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "অসমের ডিব্রুগড়ে জাতীয় সড়কে অবতরণ করল প্রধানমন্ত্রীর বিমান",
+    "desc": "জাতীয় সড়কে অবতরণ করল প্রধানমন্ত্রী নরেন্দ্র মোদির বিমান। অসমের ডিব্রুগড়ের মোরান বাইপাসে আজ অবতরণ করে C130J সামরিক বিমান। এই বিমানে প্রথমবার কোনও প্রধানমন্ত্রী জাতীয় সড়কে অবতরণ করলেন। আজ মোরানের জাতীয় সড়কে সুখোই, রাফাল, চিনুক, আপাচে, হারকিউলিসের মতো বায়ুসেনার ১৬টি যুদ্ধবিমান ওঠানামা করে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/PM-Modi-In-Assam-2026-02-076eea83a490b905df7f34042f2709aa-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/pm-modi-in-assam-narendra-modis-flight-landed-at-assam-dibrugarh-remains-tight-security-at-road-arn-2540635.html",
+    "time": "2026-02-14T15:06:51.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "১৭, ১৮, ১৯ ফেব্রুয়ারি থেকে শুরু...! মুষলধারে বৃষ্টি, বজ্রবিদ্যুৎ কাঁপাবে ৯ রাজ্য, কবে থেকে ৩০ ডিগ্রির চাঁদি ফাটা গরম?  কী হবে বাংলায়? জানিয়ে দিল IMD",
     "desc": "ফেব্রুয়ারি মাসের মাঝামাঝি হয়ে গিয়েছে। তবু উত্তর ও পূর্ব ভারতে এখনও শীতকাল চলছে। দিনের বেলায় উজ্জ্বল রোদ হলেও রাতে হালকা ঠান্ডা ভাব আবহাওয়াকে মনোরম রাখছে। তবে আপনি যদি মনে করেন যে আপনার এখনই কম্বল গুছিয়ে নেওয়ার সময় এসেছে, তাহলে কিন্তু আরও একটু অপেক্ষা করুন।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-03-at-15.26.16-2026-02-4a551432df4d3f37547ee480731e2b93-3x2.jpeg",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/west-bengal/west-bengal-govt-lakshmir-bhandar-scheme-2026-now-monthly-1500-to-1700-rupees-will-be-delivered-on-each-account-a-major-announcement-who-will-receive-the-money-how-to-apply-know-right-way-sanj-2527735.html",
     "time": "2026-02-05T12:58:36.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "দিনভর বাড়িতে চালান এসি, টিভি, ফ্রিজ, গিজার সবই! ১ টাকাও ইলেক্ট্রিক বিল আসবে না, মোক্ষম ট্রিক জানুন",
-    "desc": "গ্রীষ্মকাল আসছে। প্রতিটি বাড়িতে বিদ্যুতের ব্যবহার অনিবার্যভাবে বৃদ্ধি পাবে। এমন পরিস্থিতি আসবে যখন ফ্যান, কুলার বা এসি ছাড়া বাড়িতে থাকা অসম্ভব হয়ে পড়বে। ফলে, বিদ্যুতের ক্রমবর্ধমান দাম সাধারণ মানুষের জন্য মাথাব্যথার কারণ হয়ে দাঁড়ায়। এমন পরিস্থিতিতে, অনেকেই তাদের বিদ্যুৎ বিল কমানোর উপায় খুঁজছেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/1770290779_Cut-Your-High-Electricity-Bills-with-Rooftop-Solar-and-a-Rs-78000-Government-Subsidy-1-Copy-2025-12-2c99f0439d60c32aa4cb90787fdc29c7-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/technology/electric-bill-saving-tips-solar-powered-air-condition-fridge-geyser-zero-electricity-bill-in-this-house-of-basirhat-west-bengal-sdg-2527690.html",
-    "time": "2026-02-05T12:07:08.000Z"
   }
 ];

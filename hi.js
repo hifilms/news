@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Suryakumar Yadav downplays hype around Usman Tariq ahead of IND vs PAK in T20 World Cup",
+    "desc": "Hubbub around Usman Tariq dominates grabs attention ahead of IND vs PAK, Suryakumar Yadav downplays the hype As the T20 World Cup 2026 showdown between India and Pakistan approaches in Colombo, much of the chatter has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-downplays-hype-around-usman-tariq-ahead-of-ind-vs-pak-in-t20-world-cup-2026-02-14-1030291",
+    "time": "2026-02-14T14:48:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Which pitch will be used for India vs Pakistan T20 World Cup 2026 clash?",
+    "desc": "The highly-anticipated India-Pakistan T20 World Cup 2026 clash is set to take place in less than 24 hours from now as two Asian giants look to give it their all in the upcoming fixture in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/which-pitch-will-be-used-for-india-vs-pakistan-t20-world-cup-2026-clash-check-here-2026-02-14-1030288",
+    "time": "2026-02-14T14:08:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England defeated European team in T20 World Cup history",
+    "desc": "England’s T20 World Cup history against European teams has been largely disappointing. They lost to the Netherlands by four wickets at Lord’s in 2009 and again by 45 runs in Chattogram in 2014. Ireland also...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/first-time-ever-england-defeated-european-team-in-t20-world-cup-history-2026-02-14-1030286",
+    "time": "2026-02-14T13:47:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will India shake hands with Pakistan in T20 World Cup 2026 clash? Suryakumar Yadav opens up",
+    "desc": "India and Pakistan are set to face off in a much-awaited group-stage clash at the T20 World Cup 2026 at the R Premadasa Stadium in Colombo on Sunday, February 15. The clash, which had been...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-india-shake-hands-with-pakistan-in-t20-world-cup-2026-clash-suryakumar-yadav-opens-up-2026-02-14-1030281",
+    "time": "2026-02-14T13:24:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Abhishek Sharma will play vs Pakistan in T20 World Cup? Suryakumar Yadav answers",
     "desc": "India captain Suryakumar Yadav has confirmed that Abhishek Sharma has recovered well and is ready to feature in the blockbuster clash against Pakistan on February 15 at the R Premadasa Stadium in Colombo. The southpaw...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/can-t-change-history-salman-ali-agha-previews-blockbuster-india-clash-in-t20-world-cup-2026-2026-02-14-1030255",
     "time": "2026-02-14T08:49:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lorcan Tucker creates history with masterful knock against Oman in T20 World Cup 2026",
-    "desc": "Ireland and Oman locked horns at the R. Premadasa Stadium in Colombo in game 22 of the ongoing T20 World Cup 2026. The clash began with Ireland coming in to bat first, and the side...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lorcan-tucker-creates-history-with-masterful-knock-against-oman-in-t20-world-cup-2026-2026-02-14-1030254",
-    "time": "2026-02-14T08:34:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rivalry enters new chapter, no Rohit or Kohli in the squad against Pakistan for the first time since 2009",
-    "desc": "Game 27 of the ongoing T20 World Cup 2026 sees India taking on Pakistan. The arch-rivals lock horns at the R. Premadasa Stadium in Colombo on February 15. The clash will be one of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rivalry-enters-new-chapter-no-rohit-or-kohli-in-the-squad-against-pakistan-for-the-first-time-since-2009-2026-02-14-1030242",
-    "time": "2026-02-14T07:15:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ireland defeats Oman by 96 runs",
-    "desc": "The stage is set for game 22 of the ongoing T20 World Cup 2026, Ireland and Oman take on each other at the R. Premadasa Stadium in Colombo. The clash begins with Oman winning the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ire-vs-oma-live-cricket-score-ireland-oman-still-in-search-of-first-victories-2026-02-14-1030228",
-    "time": "2026-02-14T05:09:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohammed Kaif weighs in on Ishan Kishan's inclusion in India's T20 World Cup squad",
-    "desc": "The Indian team has been in brilliant form in the ongoing T20 World Cup 2026. With two matches played, the Men in Blue have managed to register victories in both matches, taking on the USA...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammed-kaif-weighs-in-on-ishan-kishan-s-inclusion-in-india-s-t20-world-cup-squad-2026-02-14-1030227",
-    "time": "2026-02-14T04:57:22.000Z"
   }
 ];
