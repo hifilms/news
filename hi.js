@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How will surface at Narendra Modi Stadium play for T20 World Cup 2026 match 24?",
+    "desc": "Game 24 of the ongoing T20 World Cup 2026 will see New Zealand taking on South Africa. The two sides will lock horns at the Narendra Modi Stadium in Ahmedabad on February 14. It is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-sa-pitch-report-how-will-surface-at-narendra-modi-stadium-play-for-t20-world-cup-2026-match-24-2026-02-14-1030222",
+    "time": "2026-02-14T03:58:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How has India fared against Pakistan in T20 World Cups over the years? Here's what the stats say",
+    "desc": "The stage is set for game 27 of the ongoing T20 World Cup 2026. Arch-rivals India and Pakistan take on each other at the R. Premadasa Stadium in Colombo on February 15. After several weeks...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-has-india-fared-against-pakistan-in-t20-world-cups-over-the-years-here-s-what-the-stats-say-2026-02-14-1030216",
+    "time": "2026-02-14T02:29:46.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Haven't had any practices': Netherlands head coach opens up on their loss against USA in Chennai",
     "desc": "The Netherlands faced a hefty loss against the USA in game 21 of the ongoing T20 World Cup 2026. The two sides locked horns at the MA Chidambaram Stadium in Chennai on February 13, and...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/uae-s-sohaib-khan-credits-ms-dhoni-s-philosophy-after-playing-match-winning-knock-vs-canada-2026-02-13-1030197",
     "time": "2026-02-13T15:30:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hailing from Ghaziabad and Bihar, Aryansh Sharma and Sohaib Khan propel UAE to stellar win over Canada",
-    "desc": "The 20th game of the ongoing T20 World Cup 2026 saw the UAE taking on Canada. The two sides locked horns at the Arun Jaitley Stadium in New Delhi on February 13. The game ended...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hailing-from-ghaziabad-and-bihar-aryansh-sharma-and-sohaib-khan-propel-uae-to-stellar-win-over-canada-2026-02-13-1030192",
-    "time": "2026-02-13T14:10:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "USA defeats Netherlands by 93 runs",
-    "desc": "The stage is set for game 21 of the ongoing T20 World Cup 2026. The Netherlands lock horns with the USA here at the MA Chidambaram Stadium in Chennai. It is worth noting that the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ned-vs-usa-live-cricket-score-netherlands-aim-to-maintain-top-form-usa-hopes-to-improve-2026-02-13-1030187",
-    "time": "2026-02-13T13:16:51.000Z"
   }
 ];

@@ -1,6 +1,177 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Mediation on Feb 20",
+    "desc": "The Kerala High Court has mandated mediation for disputes involving actor Nivin Pauly, producer P.S. Shamnas, and director Abrid Shine. The court also directed police to refrain from coercive action against Shamnas pending mediation. Allegations of forged signatures and financial impropriety are central to these ongoing legal battles, with a senior advocate appointed to oversee the process.",
+    "img": "https://static.toiimg.com/photo/msid-128333815,imgsize-28314.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/kerala-hc-intervenes-in-nivin-pauly-and-producer-shamnas-dispute-mediation-on-feb-20/articleshow/128333815.cms",
+    "time": "2026-02-14T04:23:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Chaos, courts, and kickoff: The ISL season that almost wasn’t",
+    "desc": "After months of administrative chaos, legal battles and uncertainty, the 2025–26 Indian Super League (ISL) season finally begins five months late. Despite disputes over league structure and governance, clubs, players and stakeholders ensured the competition survived. Yet unresolved issues, including relegation and ongoing legal challenges, mean the drama off the pitch may continue alongside the football.",
+    "img": "https://static.toiimg.com/photo/msid-128333543,imgsize-18368.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/news/isl-season-preview-better-late-than-never-indian-football-resets-for-a-truncated-season/articleshow/128333392.cms",
+    "time": "2026-02-14T04:07:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "In Dhaka, a new dawn and a gathering storm",
+    "desc": "The Bangladesh Nationalist Party is set to form the government in Dhaka after a landslide victory, but jubilation is also palpable at the Jamaat-e-Islami headquarters, as the party-led alliance has secured 77 seats. As the country prepares for its first elected government since Prime Minister Sheikh Hasina’s ouster in August 2024, the road ahead remains fraught with challenges",
+    "img": "https://th-i.thgim.com/public/incoming/ojx4ha/article70630184.ece/alternates/LANDSCAPE_1200/AFP__20260209__96MX68T__v1__HighRes__BangladeshPoliticsElection.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/bangladesh-bnp-tarique-rahman-sheikh-hasina-jamaat-e-islami-dhaka-new-dawn/article70629852.ece",
+    "time": "2026-02-14T03:55:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Evidence review deepens as family awaits answers in Nancy Guthrie case",
+    "desc": "Thirteen days into the search for Nancy Guthrie, promising evidence has emerged, including unidentified DNA and gloves found near her Tucson home. Authorities corrected reports about glove locations, stating they were found approximately two miles away, not on the property.",
+    "img": "https://static.toiimg.com/photo/msid-128333162,imgsize-1069670.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/tv/news/english/savannah-guthries-mother-nancy-guthries-disappearance-dna-evidence-and-glove-discovery-uncover-new-forensic-clues/articleshow/128333171.cms",
+    "time": "2026-02-14T03:48:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rupert Grint set for comeback with horror film ‘Nightborn",
+    "desc": "Rupert Grint, the 'Harry Potter' star, is returning to the big screen with the Finnish horror film 'Nightborn,' a role that mirrors his real-life experience of becoming a father. This marks a significant shift from his beloved character Ron Weasley, as Grint embraces genre films, a choice he attributes to the financial freedom from his iconic role.",
+    "img": "https://static.toiimg.com/photo/msid-128333092,imgsize-1068258.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/harry-potter-fame-rupert-grint-set-for-comeback-with-horror-film-nightborn-it-does-go-against-the-warmth-of-ron/articleshow/128333092.cms",
+    "time": "2026-02-14T03:46:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Halle Berry had cold feet before saying ‘yes’ to Van Hunt?",
+    "desc": "After three challenging divorces, Halle Berry has decided to take a leap of faith, saying 'yes' to musician Van Hunt's heartfelt proposal. The couple is in a joyful engagement phase, though they've chosen to hold off setting a wedding date for now—Berry is savoring the journey of love on her own terms.",
+    "img": "https://static.toiimg.com/photo/msid-128332630,imgsize-52232.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/halle-berry-and-van-hunts-engagement-catwoman-star-needed-time-to-get-comfortable-with-the-idea-of-getting-married-again/articleshow/128332614.cms",
+    "time": "2026-02-14T03:23:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Fans speculate about Taylor Swift and Travis Kelce’s wedding",
+    "desc": "Fans are buzzing with speculation about Taylor Swift and Travis Kelce's upcoming wedding, fueled by Jason Kelce's six-month podcast break, which some believe is for wedding preparations. While rumors of a June 2026 date persist, other reports suggest the couple is intentionally slowing down their plans to focus on enjoying their time together and navigating Travis's NFL future.",
+    "img": "https://static.toiimg.com/photo/msid-128331995,imgsize-72016.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-and-travis-kelce-getting-married-soon-heres-what-we-know-about-the-ongoing-rumors/articleshow/128331995.cms",
+    "time": "2026-02-14T03:22:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kate Hudson reunites with ‘almost famous’ Co-Star Patrick Fugit",
+    "desc": "Kate Hudson recently shared a heartwarming reunion with 'Almost Famous' co-star Patrick Fugit at a party, sparking vivid memories from the 2000 film. Hudson, who was 19-20 during filming while Fugit was 15, noted their now-similar ages and the enduring bond from their time on set. The film's legacy continues to resonate, with Hudson embracing her iconic Penny Lane character.",
+    "img": "https://static.toiimg.com/photo/msid-128332519,imgsize-541365.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kate-hudson-revisits-almost-famous-legacy-after-unexpected-co-star-meeting/articleshow/128332505.cms",
+    "time": "2026-02-14T03:16:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi to witness ELF aerial display in Assam; preparations underway",
+    "desc": "Assam is going to witness a historic moment on Saturday as Prime Minister Narendra Modi will land at the Emergency Landing Facility (ELF) on Moran Bypass in Dibrugarh, where he will witness the aerial display of fighters, transports and helicopters.",
+    "img": "https://static.toiimg.com/photo/msid-128332374,imgsize-666350.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-to-witness-elf-aerial-display-in-assam-preparations-underway/articleshow/128332294.cms",
+    "time": "2026-02-14T03:05:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "IndiGo plans to hire over 1,000 pilots after December's crew crunch",
+    "desc": "India's largest airline, IndiGo, is hiring over 1,000 pilots to address operational disruptions caused by pilot shortages. The recruitment drive follows a December incident where over 5,000 flights were cancelled. The airline is also adjusting network planning and increasing standby crew to manage its rapid fleet expansion.",
+    "img": "https://static.toiimg.com/photo/msid-128332031,imgsize-1308064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indigo-plans-to-hire-over-1000-pilots-after-decembers-crew-crunch/articleshow/128331589.cms",
+    "time": "2026-02-14T02:54:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India, Pakistan to hold separate training sessions ahead of T20 WC clash",
+    "desc": "India and Pakistan will train at different times in Colombo before their T20 World Cup clash, with both teams also holding media interactions. Team India received a festive welcome, with Arshdeep Singh’s dance going viral. India will rely on key players like Hardik Pandya, Ishan Kishan, and Tilak Varma, while Varun Chakravarthy could be crucial on spin-friendly Sri Lankan pitches.",
+    "img": "https://static.toiimg.com/photo/msid-128331666,imgsize-31224.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-pak-india-pakistan-to-hold-separate-training-sessions-ahead-of-mega-t20-world-cup-clash/articleshow/128331449.cms",
+    "time": "2026-02-14T02:51:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Evan Dando hospitalised for mental health treatment after allegations surface",
+    "desc": "The Lemonheads' frontman, Evan Dando, has been hospitalized for mental health treatment following allegations of sending explicit content to a fan. His representative confirmed his admission, citing lifelong struggles. Dando's wife described it as a 'manic episode,' with the musician reportedly seeking help after past battles with addiction.",
+    "img": "https://static.toiimg.com/photo/msid-128331565,imgsize-841593.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/lemonheads-frontman-evan-dando-gets-hospitalized-amid-social-media-controversy/articleshow/128331581.cms",
+    "time": "2026-02-14T02:35:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Aashakal Aayiram' BO day 8: Film mints Rs 4.57 crores",
+    "desc": "Jayaram's family drama 'Aashakal Aayiram' has garnered a strong Rs 4.57 crore worldwide in its first eight days. The film, featuring a notable pairing with son Kalidas Jayaram, has impressed audiences with its heartfelt performances and clean family entertainment. Social media buzz highlights its honest storytelling and humor, signaling a promising run.",
+    "img": "https://static.toiimg.com/photo/msid-128331424,imgsize-28416.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/aashakal-aayiram-box-office-collections-day-8-jayarams-feel-good-film-mints-rs-4-57-crores/articleshow/128331424.cms",
+    "time": "2026-02-14T02:33:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Tu Yaa Main’ day 1 bo: Thriller film earns Rs 55 lakh",
+    "desc": "Adarsh Gourav and Shanaya Kapoor's 'Tu Yaa Main' debuted with a modest Rs 55 lakh on its opening day, facing stiff competition. The film, exploring the dark side of content creation and influencer culture, sees the duo trapped in a deadly situation with a crocodile. Despite a slow start, hopes remain for weekend growth.",
+    "img": "https://static.toiimg.com/photo/msid-128331217,imgsize-17602.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/tu-yaa-main-box-office-collection-day-1-and-day-2-live-adarsh-gourav-shanaya-kapoor-starrer-opens-with-rs-55-lakhs/articleshow/128331217.cms",
+    "time": "2026-02-14T02:21:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Megan Thee Stallion is ‘overly comfortable’ in her relationship",
+    "desc": "Grammy-winning rapper Megan Thee Stallion revealed her unexpected romance with NBA star Klay Thompson, describing her feelings as \"overly comfortable.\" She shared that love found her while she was prioritizing self-growth and healing, advising fans against rushing into relationships. This newfound comfort marks a significant chapter in her life.",
+    "img": "https://static.toiimg.com/photo/msid-128331223,imgsize-635946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/megan-thee-stallion-says-shes-overly-comfortable-in-her-relationship-with-klay-thompson/articleshow/128331223.cms",
+    "time": "2026-02-14T02:19:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Before Pak clash, Harbhajan warns India about one player",
+    "desc": "Former Indian cricketer Harbhajan Singh backed India to beat Pakistan in the T20 World Cup but warned they must play spinner Usman Tariq carefully. Tariq’s bowling action has sparked controversy despite his strong T20 record. Nayan Mongia also predicted an India win, citing team confidence and Pakistan’s pressure, and backed Hardik Pandya to perform well in big matches.",
+    "img": "https://static.toiimg.com/photo/msid-128331222,imgsize-60138.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-pak-ahead-of-pakistan-clash-harbhajan-singh-warns-india-about-one-bowler-play-him-safely/articleshow/128331009.cms",
+    "time": "2026-02-14T02:18:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Did Pidgeon-Kelly talk to Kennedys/Bessette for ‘Love Story’?",
+    "desc": "Actors Sarah Pidgeon and Paul Anthony Kelly researched John F. Kennedy Jr. and Carolyn Bessette extensively for their roles in 'Love Story,' relying on public records and interviews. However, neither the actors nor the production team contacted the Kennedy or Bessette families. This decision has drawn criticism from JFK Jr.",
+    "img": "https://static.toiimg.com/photo/msid-128331079,imgsize-33240.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/did-sarah-pidgeon-and-paul-anthony-kelly-talk-to-the-kennedys-or-bessette-family-for-love-story-heres-the-truth/articleshow/128331048.cms",
+    "time": "2026-02-14T02:12:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kannada filmmaker Joe Simon passes away at 80",
+    "desc": "Tragedy struck the Kannada film community with the unexpected passing of Joe Simon, aged 80, who experienced a cardiac arrest while attending a Karnataka Film Chamber of Commerce meeting. Renowned for his directorial masterpieces such as 'Sahasa Simha' and 'Mr. Vasu', Simon's extensive career as an actor, lyricist, and writer spanned over 100 films.",
+    "img": "https://static.toiimg.com/photo/msid-128330506,imgsize-40212.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/joe-simon-passes-away-at-80-kannada-filmmaker-collapses-at-kfcc-meeting/articleshow/128330506.cms",
+    "time": "2026-02-14T01:47:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shahid Kapoor's ‘O’Romeo’ opens with Rs 8.25 crore",
+    "desc": "‘O’Romeo,’ starring Shahid Kapoor and Triptii Dimri, has opened to a decent Rs 8.25 crore on its first day. The film, a dark tale of love and passion, is expected to see a surge in collections over the weekend. Its opening day occupancy reached 14.86%, with night shows recording the highest footfall.",
+    "img": "https://static.toiimg.com/photo/msid-128330562,imgsize-168212.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/oromeo-box-office-collection-day-1-and-day-2-live-shahid-kapoor-and-triptii-dimris-film-opens-with-more-than-rs-8-crore/articleshow/128330568.cms",
+    "time": "2026-02-14T01:45:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Premium-only ‘Opalite’ videos deepen Taylor Swift’s showgirl era narrative",
     "desc": "Taylor Swift has delighted fans with extended music videos for her hit song 'Opalite'. These exclusive releases, over nine minutes long, are available on premium platforms. The videos combine the original infomercial-style content with candid behind-the-scenes moments. The song itself, from the album 'The Life of a Showgirl', explores themes of man-made happiness, inspired by opals and personal connections.",
     "img": "https://static.toiimg.com/photo/msid-128330174,imgsize-625057.cms",
@@ -54,15 +225,6 @@ const newsData_en = [
     "time": "2026-02-14T00:32:13.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'My Lord' BO day 1: Court drama opens at Rs 35 lakhs",
-    "desc": "M. Sasikumar and Chaithra Achar's new Tamil film 'My Lord' debuted with ₹35 lakhs on its opening day. The courtroom drama, praised for its unsettling premise and strong performances, saw varied occupancy throughout Friday. Its box office trajectory hinges on audience reception over the weekend.",
-    "img": "https://static.toiimg.com/photo/msid-128329224,imgsize-42220.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/my-lord-box-office-collections-day-1-m-sasikumar-film-opens-at-rs-35-lakhs/articleshow/128329224.cms",
-    "time": "2026-02-14T00:30:55.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Do not be negative': Hardik Pandya's dressing-room advice that revived Ishan Kishan's career",
     "desc": "Following his match-winning knock against Namibia, Ishan Kishan revealed Hardik Pandya's advice to focus on domestic cricket after losing his BCCI contract. Pandya urged Kishan to let his bat do the talking, a sentiment echoed by Pandya's own experience with fan backlash.",
@@ -70,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/hardik-pandyas-dressing-room-advice-that-revived-ishan-kishans-career/articleshow/128313579.cms",
     "time": "2026-02-14T00:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Vadh 2' BO day 7: Sanjay Mishra film at Rs 3.45 Cr",
-    "desc": "Vadh 2 concluded its opening week with ₹3.45 crore, showing modest weekday growth. Despite a slight dip on Thursday, the film garnered praise for its cast's compelling performances, particularly Sanjay Mishra and Neena Gupta. Critics lauded its emotional depth and tight construction, though visual execution lagged behind writing. The thriller faces a crucial second weekend to maintain its theatrical run.",
-    "img": "https://static.toiimg.com/photo/msid-128328901,imgsize-79566.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vadh-2-box-office-collections-day-7-sanjay-mishra-film-has-first-week-closure-at-rs-3-45-cr/articleshow/128328901.cms",
-    "time": "2026-02-14T00:11:54.000Z"
   },
   {
     "cat": "Sports",
@@ -99,34 +252,7 @@ const newsData_en = [
     "time": "2026-02-13T23:38:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Akshaye had little to say, but was very cooperative’: Neeta",
-    "desc": "Akshaye Khanna has long maintained an air of mystique around him. Known for avoiding parties, interviews and unnecessary public appearances, the actor has consistently chosen to live life on his own terms. Colleagues often describe him as serious, deeply passionate about his craft and largely unaffected by public opinion or industry pressures.",
-    "img": "https://static.toiimg.com/photo/msid-128326599,imgsize-56688.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshaye-khanna-had-little-to-say-but-was-very-cooperative-neeta-lulla-recalls-working-with-dhurandhar-star-during-taal/articleshow/128326158.cms",
-    "time": "2026-02-13T22:39:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kabir Bedi recalls first meeting Parveen Dusanj in London",
-    "desc": "Veteran actor Kabir Bedi married British-born producer and researcher Parveen Dusanj on January 16, 2016, after nearly a decade of being in a committed relationship. At the time, Kabir was 70 and Parveen was 41, marking a 29-year age difference between them.",
-    "img": "https://static.toiimg.com/photo/msid-128324493,imgsize-42590.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kabir-bedi-recalls-first-meeting-parveen-dusanj-in-london-i-wanted-a-casual-relationship-but-she-didnt/articleshow/128324451.cms",
-    "time": "2026-02-13T22:03:25.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "In Dhaka, a new dawn and a gathering storm",
-    "desc": "The Bangladesh Nationalist Party is set to form the government in Dhaka after a landslide victory, but jubilation is also palpable at the Jamaat-e-Islami headquarters, as the party-led alliance has secured 77 seats. As the country prepares for its first elected government since Prime Minister Sheikh Hasina’s ouster in August 2024, the road ahead remains fraught with challenges",
-    "img": "https://th-i.thgim.com/public/incoming/ojx4ha/article70630184.ece/alternates/LANDSCAPE_1200/AFP__20260209__96MX68T__v1__HighRes__BangladeshPoliticsElection.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/bangladesh-bnp-tarique-rahman-sheikh-hasina-jamaat-e-islami-dhaka-new-dawn/article70629852.ece",
-    "time": "2026-02-13T20:44:57.000Z"
-  },
-  {
-    "cat": "Politics",
+    "cat": "Business",
     "title": "Adani Group enters nuclear power sector after SHANTI Act",
     "desc": "In a notice to the NSE, Adani Power says it has incorporated a wholly owned subsidiary Adani Atomic Energy Ltd; first private player to enter the sector since it was opened up via the SHANTI Act two months ago",
     "img": "https://th-i.thgim.com/public/incoming/24zmp9/article70629452.ece/alternates/LANDSCAPE_1200/2024-12-19T021633Z_2128045322_RC2N1Z98EDDM_RTRMADP_3_ADANI-GROUP-USA-BANGLADESH.JPG",
@@ -135,7 +261,7 @@ const newsData_en = [
     "time": "2026-02-13T20:32:41.000Z"
   },
   {
-    "cat": "Politics",
+    "cat": "Business",
     "title": "Supreme Court",
     "desc": "The Bench of Justices P.S. Narasimha and Atul Chandurkar says spectrum is a scarce natural resource owned by the people of India, with legal title vesting exclusively in the Union of India, which holds it in trust for the public",
     "img": "https://th-i.thgim.com/public/incoming/eozjh/article70629729.ece/alternates/LANDSCAPE_1200/IMG_Suprem_Court_3_1_2MFJ3838.jpg",
@@ -160,15 +286,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/arundhati-roy-withdraws-from-berlin-film-festival-amid-gaza-row/article70630162.ece",
     "time": "2026-02-13T20:26:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mrunal says wedding ‘on the cards’ but lays down conditions",
-    "desc": "Mrunal Thakur has revealed that marriage is definitely part of her future plans — but only on her own terms. In a recent interaction with PTI, the actor shared that while a wedding is “on the cards”, she is still waiting for the right person to walk into her life. Her statement comes just days after she dismissed rumours linking her to actor Dhanush.",
-    "img": "https://static.toiimg.com/photo/msid-128321724,imgsize-53316.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mrunal-thakur-says-wedding-on-the-cards-but-lays-down-conditions-i-will-be-the-first-one-to-announce-it/articleshow/128321612.cms",
-    "time": "2026-02-13T19:43:35.000Z"
   },
   {
     "cat": "Politics",
@@ -199,48 +316,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "In a first, space PSU Nsil to distribute pvt firm GalaxEye’s satellite data",
-    "desc": "Bengaluru's GalaxEye has partnered with Nsil, a state-owned space company. Nsil will resell high-resolution OptoSAR data from GalaxEye's upcoming satellites. This collaboration marks the first time Nsil partners with a domestic private firm for satellite data distribution. GalaxEye's first satellite, Drishti, launches soon. The agreement covers the entire planned constellation, enabling Nsil to offer enhanced data services.",
-    "img": "https://static.toiimg.com/photo/msid-128321080,imgsize-938293.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/in-a-first-space-psu-nsil-to-distribute-pvt-firm-galaxeyes-satellite-data/articleshow/128321104.cms",
-    "time": "2026-02-13T19:21:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "J&amp;K: CM Omar Abdullah gets rare praise from BJP MLAs for Amarnath Yatra fund allocation",
-    "desc": "BJP MLAs lauded Chief Minister Omar Abdullah's Rs 180 crore budget for the Amarnath Yatra, seeing it as a positive sign of Kashmir joining the national mainstream. Despite party criticism on other issues, legislators acknowledged this constructive decision, highlighting a perceived shift in the CM's stance on the pilgrimage, a move they felt deserved appreciation.",
-    "img": "https://static.toiimg.com/photo/msid-128320924,imgsize-781206.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jk-cm-omar-abdullah-gets-rare-praise-from-bjp-mlas-for-amarnath-yatra-fund-allocation/articleshow/128320933.cms",
-    "time": "2026-02-13T19:16:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Drone-dropped heroin seized in J&amp;K’s Kathua, 2 with Pakistan links held",
-    "desc": "Kathua Police apprehended two individuals linked to a Pakistan-based drone drug smuggling ring. Approximately 150 grams of heroin were seized from the accused, who were reportedly in contact with a Pakistani smuggler via VoIP calls. The drugs were intended for distribution among local youth. Investigations are ongoing to dismantle the entire network.",
-    "img": "https://static.toiimg.com/photo/msid-128320821,imgsize-571803.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/drone-dropped-heroin-seized-in-jks-kathua-2-with-pakistan-links-held/articleshow/128320762.cms",
-    "time": "2026-02-13T19:12:40.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Chief Minister M.K. Stalin inaugurates various projects, lays foundation for multiple museums across Tamil Nadu",
     "desc": "He also unveils statue of late freedom fighter Theeran Chinnamalai installed in Erode district; inaugurates memorial hall in honour of late Keelapazhuvur Chinnasamy, who sacrificed his life fighting the imposition of Hindi, in Ariyalur district",
     "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/vpusbl/article70630098.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-13%20at%208.06.30%20PM.jpeg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/chief-minister-mk-stalin-inaugurates-various-projects-lays-foundation-for-multiple-museums-across-tamil-nadu/article70629596.ece",
     "time": "2026-02-13T19:10:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "254 women complained of sexual harassment at workplace under on govt’s 'SHe-Box' portal in 2025",
-    "desc": "The SHe-Box portal received 254 sexual harassment complaints last year, with 296 filed since its August 2024 revamp. The portal aims to streamline reporting and monitoring of the POSH Act, with 105 of the 296 complaints already disposed of. Over 1,48,700 workplaces have been onboarded, and automated notifications ensure timely complaint resolution.",
-    "img": "https://static.toiimg.com/photo/msid-128320640,imgsize-1382727.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/254-women-complained-of-sexual-harassment-at-workplace-under-on-govts-she-box-portal-in-2025/articleshow/128320583.cms",
-    "time": "2026-02-13T19:06:23.000Z"
   },
   {
     "cat": "Sports",
@@ -261,15 +342,6 @@ const newsData_en = [
     "time": "2026-02-13T18:19:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vijay-Rashmika decline Rs 60 crore OTT offer for wedding video",
-    "desc": "Vijay Deverakonda and Rashmika Mandanna remain one of the most adored pairs in Tollywood. While the duo have never officially confirmed their relationship, their on-screen and off-screen chemistry has consistently kept fans invested. From Geetha Govindam to Dear Comrade, their pairing sparked admiration — and speculation.",
-    "img": "https://static.toiimg.com/photo/msid-128318607,imgsize-33050.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vijay-deverakonda-and-rashmika-mandanna-decline-rs-60-crore-ott-netflix-streaming-offer-for-wedding-video-report/articleshow/128318485.cms",
-    "time": "2026-02-13T18:08:21.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Legacy issues cast shadow on Hyderabad Metro Rail phase II plans",
     "desc": "State government has been seeking Centre’s nod for a Joint Venture for Phase II works and takeover of the Phase I from L&T. Outstanding debt, the Old City corridor, and withheld Viability Gap Funding may complicate Detailed Project Report clearance and financial settlement amid scrutiny and negotiations",
@@ -288,15 +360,6 @@ const newsData_en = [
     "time": "2026-02-13T18:01:25.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "SC upheld soldiers’ disability pension as recognition of sacrifice, not charity",
-    "desc": "The Supreme Court ruled that ex-servicemen are entitled to full arrears of disability pension from applicable cut-off dates, rejecting the government's plea to limit payments to three years. The court emphasized that disability pension is a vested right, not charity, recognizing sacrifices made for the nation.",
-    "img": "https://static.toiimg.com/photo/msid-128317465,imgsize-1000510.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sc-upheld-soldiers-disability-pension-as-recognition-of-sacrifice-not-charity/articleshow/128317451.cms",
-    "time": "2026-02-13T17:35:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "T20 World Cup 2026",
     "desc": "The dew set in, the ball slid, and plans scuttled. When Mukkamalla finally holed out for 79 (51b, 5x4, 4x6), USA was 148 for three after 15 overs, and Netherlands were already left chasing for answers in Chepauk’s humidity.",
@@ -313,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-saiteja-mukkamalla-harmeet-singh-shine-as-usa-register-first-t20i-win-over-netherlands/articleshow/128317012.cms",
     "time": "2026-02-13T17:25:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Wife shares theme tribute after Van Der Beek",
-    "desc": "In a heartfelt tribute, fans are celebrating the life of James Van Der Beek, who sadly left us at 48 due to colon cancer. His wife’s moving rendition of the 'Dawson's Creek' theme has resonated deeply, invoking a wave of cherished memories among viewers.",
-    "img": "https://static.toiimg.com/photo/msid-128316802,imgsize-104444.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-van-der-beeks-wife-kimberly-shares-i-dont-want-to-wait-in-tribute-after-his-death/articleshow/128316802.cms",
-    "time": "2026-02-13T17:22:07.000Z"
   },
   {
     "cat": "World",
@@ -360,15 +414,6 @@ const newsData_en = [
     "time": "2026-02-13T16:36:50.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ayesha Khan schools paps as they ask her to turn around for pics",
-    "desc": "Ayesha Khan, who has been basking in the success of the song Shararat from Dhurandhar, attended the premiere of Adarsh Gourav and Shanaya Kapoor’s film Tu Yaa Main. However, what grabbed attention was her firm yet composed response to a photographer while posing on the red carpet.",
-    "img": "https://static.toiimg.com/photo/msid-128315736,imgsize-46246.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ayesha-khan-schools-paparazzi-as-they-ask-her-to-turn-around-for-pictures-aap-izzat-bhi-khud-kamayenge-aur-khud-hi-gawayenge/articleshow/128315618.cms",
-    "time": "2026-02-13T16:35:42.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Consumers get a raw deal as global oil price fall benefit remains ‘frozen’",
     "desc": "While oil price spikes are passed on to Indian consumers, the benefit of falling prices are not, according to analysts; petrol prices in India have been cut barely by 1.9% since June 2022 even as oil prices have declined 41% since then",
@@ -378,15 +423,6 @@ const newsData_en = [
     "time": "2026-02-13T16:07:13.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Dhar cheers viral Qasainuma fan edit today",
-    "desc": "Director Aditya Dhar took to social media to applaud a fan edit celebrating his hit film 'Dhurandhar', particularly highlighting Akshaye Khanna's formidable performance as the antagonist. With the successful first installment still fresh in audiences' minds, fans eagerly await 'Dhurandhar 2', scheduled for release on March 19, which aims to deepen the thrilling saga while reaching broader audiences.",
-    "img": "https://static.toiimg.com/photo/msid-128314628,imgsize-41358.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-buzz-grows-after-aditya-dhar-praises-creative-fan-video-what-a-qasainuma-edit-brilliant-keep-it-up-brother/articleshow/128314628.cms",
-    "time": "2026-02-13T16:03:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Will Abhishek Sharma play vs Pakistan? Star opener gives health update",
     "desc": "Star India opener Abhishek Sharma has been discharged from the hospital after recovering from a stomach infection. He missed the game against Namibia due to illness but shared a positive fitness update, indicating he is on the mend. Sharma's return will be a boost for the Indian team.",
@@ -394,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/will-abhishek-sharma-play-vs-pakistan-star-opener-gives-health-update-ahead-of-colombo-thriller-watch/articleshow/128314412.cms",
     "time": "2026-02-13T15:52:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anurag slams the social media backlash against critics after 'Dhurandhar'",
-    "desc": "Filmmaker Anurag Kashyap has defended the critically panned but commercially successful film 'Dhurandhar', slamming critics and praising director Aditya Dhar's conviction. Kashyap highlighted the film's technical precision, particularly in a torture sequence, and condemned the online trolling directed at reviewers, calling it uncalled for and coordinated.",
-    "img": "https://static.toiimg.com/photo/msid-128314136,imgsize-32150.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anurag-kashyap-slams-the-social-media-backlash-against-critics-after-dhurandhar-says-it-was-all-co-ordinated-lauds-aditya-dhar/articleshow/128313752.cms",
-    "time": "2026-02-13T15:47:26.000Z"
   },
   {
     "cat": "Sports",
@@ -421,42 +448,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/kiifb-in-principle-nod-for-mc-road-and-sabari-rail-projects/article70629498.ece",
     "time": "2026-02-13T15:44:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Top 5 South stories of the day",
-    "desc": "Chiranjeevi revealed the first pictures of Ram Charan's twins, Shiva Ram Konidela and Anveera Devi Konidela. Allu Sirish began his wedding festivities with a Pasupu ceremony. The Karnataka Film Chamber of Commerce addressed the 'Toxic' teaser controversy. A director admitted a mistake regarding a Pampa hilltop shoot. Rajinikanth's massive salary for his next film is also making headlines.",
-    "img": "https://static.toiimg.com/photo/msid-128313916,imgsize-92734.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/first-picture-of-ram-charans-twins-allu-sirishs-wedding-festivities-pampa-shoot-row-top-5-south-stories-of-the-day/articleshow/128313916.cms",
-    "time": "2026-02-13T15:42:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranveer gets fresh threat; unidentified caller warns Bollywood",
-    "desc": "Days after receiving an extortion threat, Ranveer Singh has now been sent another disturbing voice note — this time from a man claiming to be associated with the Bishnoi gang. The development comes close on the heels of heightened security outside the actor’s Mumbai residence.",
-    "img": "https://static.toiimg.com/photo/msid-128313863,imgsize-31212.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-gets-fresh-threat-allegedly-from-bishnoi-gang-unidentified-caller-warns-entire-bollywood-to-line-pe-ajana-in-chilling-voice-message/articleshow/128313720.cms",
-    "time": "2026-02-13T15:38:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Civil Aviation Minister",
-    "desc": "On February 10, NCP (SP) MLA Rohit Pawar alleged that there was reason to suspect sabotage in the tragic air crash that killed his uncle Ajit Pawar and demanded a comprehensive probe by multiple expert agencies",
-    "img": "https://th-i.thgim.com/public/incoming/iqb0h0/article70629445.ece/alternates/LANDSCAPE_1200/PTI02_01_2026_000612A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/aaib-preliminary-report-on-plane-crash-near-baramati-to-be-released-very-soon-civil-aviation-minister/article70629390.ece",
-    "time": "2026-02-13T15:28:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Adani Group enters nuclear power sector",
-    "desc": "In a notice to the NSE, Adani Power says it has incorporated a wholly owned subsidiary Adani Atomic Energy Ltd; first private player to enter the sector since it was opened up via the SHANTI Act two months ago",
-    "img": "https://th-i.thgim.com/public/incoming/24zmp9/article70629452.ece/alternates/LANDSCAPE_1200/2024-12-19T021633Z_2128045322_RC2N1Z98EDDM_RTRMADP_3_ADANI-GROUP-USA-BANGLADESH.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/adani-group-enters-nuclear-power-sector/article70628957.ece",
-    "time": "2026-02-13T15:21:31.000Z"
   },
   {
     "cat": "Business",
@@ -675,24 +666,6 @@ const newsData_en = [
     "time": "2026-02-13T07:35:58.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘We have the edge’: Varun’s bold claim before T20 WC blockbuster vs Pakistan",
-    "desc": "India's dominant win over Namibia bolsters their Group A standing and sets a confident tone for the Pakistan clash. Mystery spinner Varun Chakaravarthy, showcasing improved variations and belief in India's spin attack, feels the team holds a psychological edge. Explosive batting and effective spin bowling were key to the victory, preparing India for their high-stakes encounter.",
-    "img": "https://static.toiimg.com/photo/msid-128293391,imgsize-162178.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-have-the-edge-varun-chakaravarthys-bold-claim-before-t20-world-cup-blockbuster-vs-pakistan/articleshow/128293333.cms",
-    "time": "2026-02-13T06:56:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 World Cup",
-    "desc": "From watching MS Dhoni's World Cup-winning six in USA to watching a Test match at Chinnaswamy to representing Karnataka U-16 to clearing the ropes at the Wankhede Stadium in the T20 World Cup, Sanjay Krishnamurthy’s journey is monumental. Balancing a Computer Science degree with franchise cricket, the USA batter is one for the future and even R Ashwin says so.",
-    "img": "https://static.toiimg.com/photo/msid-128292195,imgsize-118240.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sanjay-krishnamurthys-journey-juggling-between-computer-science-degree-and-cricket-to-playing-t20-world-cup-for-usa/articleshow/128291982.cms",
-    "time": "2026-02-13T06:36:40.000Z"
-  },
-  {
     "cat": "World",
     "title": "Hello Kitty designer bows out after 40 years in charge",
     "desc": "Yuko Yamaguchi has been responsible since 1980 for the design of Kitty, who is officially not a cat but a little girl from London, overseeing her rise to the epitome of Japan's \"kawaii\" — cute — soft power",
@@ -711,15 +684,6 @@ const newsData_en = [
     "time": "2026-02-13T05:06:36.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "India register convincing wins but expose a few cracks",
-    "desc": "India's batting collapses against USA and Namibia in T20 World Cup highlight concerns over adapting to slower pitches against spinners. Opponents have found a blueprint to counter India's powerful batting by mixing tactics and targeting individual batters. The team needs to unlearn habits from flat pitches and prepare for challenging conditions against Pakistan in Colombo.",
-    "img": "https://static.toiimg.com/photo/msid-128289057,imgsize-115052.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-india-register-convincing-wins-against-usa-namibia-but-expose-a-few-cracks/articleshow/128289031.cms",
-    "time": "2026-02-13T05:02:59.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Paytm ties up with Bharat Taxi to enable mobile payments",
     "desc": "Bharat Taxi is a ride-hailing platform built on a cooperative model and instead of charging commissions, the platform allows drivers to retain their full earnings from each ride, supporting greater transparency, fair income, and long-term financial stability",
@@ -727,6 +691,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/paytm-ties-up-with-bharat-taxito-enable-mobile-payments/article70624313.ece",
     "time": "2026-02-13T04:50:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "T20 World Cup",
+    "desc": "Drawn into the “Group of Death” alongside three top-10 teams — New Zealand, South Africa and Afghanistan — both the UAE and Canada face the daunting and unlikely task of making the Super Eight stage",
+    "img": "https://th-i.thgim.com/public/incoming/pom2bm/article70625849.ece/alternates/LANDSCAPE_1200/AP02_09_2026_000501B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-canada-uae-aim-to-bounce-back/article70625823.ece",
+    "time": "2026-02-12T20:29:22.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/govt-tightens-rules-on-ai-generated-deepfake-content-mandates-faster-takedown-of-flagged-material/article70615674.ece",
     "time": "2026-02-11T11:32:19.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Sri Lanka court convicts 2022 protest activists for murder",
+    "desc": "12 of the 16 convicted in the murder were handed death sentences by a three-member bench of the high court in the western town of Gampaha in a split decision; four other suspects were served suspended prison terms",
+    "img": "https://th-i.thgim.com/public/incoming/bc8s3o/article70619202.ece/alternates/LANDSCAPE_1200/Sri_Lanka_Economic_Crisis_40253.jpg-0942d.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/sri-lanka-court-convicts-2022-protest-activists-for-murder/article70619164.ece",
+    "time": "2026-02-11T10:25:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh's Sports Advisor Nazrul",
+    "desc": "There is no question of regret (not playing the World Cup). This decision was taken by the BCB and the players as they made sacrifices for the safety of the country's cricket, the safety of the people, and to protect national dignity, says Asif Nazrul",
+    "img": "https://th-i.thgim.com/public/incoming/wcbj9s/article70618809.ece/alternates/LANDSCAPE_1200/PTI01_24_2026_000474B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/bangladesh-t20-world-cup-bcb-nazrul-statement-updates/article70618794.ece",
+    "time": "2026-02-11T08:57:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dhakshineswar Suresh — making rapid strides",
+    "desc": "The 25-year-old boasts of a proud 4-0 Davis Cup record in just two ties; he owns a style that is very much in vogue in modern-day tennis — big serve followed by a crushing forehand",
+    "img": "https://th-i.thgim.com/public/incoming/53xk1/article70617103.ece/alternates/LANDSCAPE_1200/_DSC1666.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/dhakshineswar-suresh-making-rapid-strides/article70616499.ece",
+    "time": "2026-02-11T05:38:34.000Z"
   }
 ];

@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "দেশের সর্বোচ্চ আয়ের টোল প্লাজা কোনগুলি? তালিকা অবাক করবে ! দিল্লি বা মুম্বই কেউই শীর্ষ পাঁচে নেই",
+    "desc": "গত পাঁচ আর্থিক বছরে (২০২০-২১ থেকে ২০২৪-২৫) ভারতের জাতীয় মহাসড়ক এবং এক্সপ্রেসওয়েতে মোট টোল আদায় হয়েছে প্রায় ২.২৭ লক্ষ কোটি টাকা। সড়ক পরিবহণ ও মহাসড়ক মন্ত্রক (MoRTH) ১১ ফেব্রুয়ারি, ২০২৬ তারিখে রাজ্যসভায় এই পরিসংখ্যান প্রকাশ করেছে। সুতরাং, স্পষ্টতই দেশে এমন কিছু টোল পয়েন্ট রয়েছে যেখানে সর্বোচ্চ টোল আদায় হয়েছে। কোন প্লাজায় সবচেয়ে বেশি টোল আদায় হয় এবং কত?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Highest-Earning-Toll-Plaza-in-India-2026-02-1b04682fd91aadc5558b7e30c3188d72-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/highest-earning-toll-plaza-list-in-india-top-revenue-generators-which-is-the-number-1-toll-plaza-in-the-country-ss-2539625.html",
+    "time": "2026-02-14T02:49:18.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "খিদের বিরুদ্ধে একার লড়াই, স্টেশন চত্বরে ভালোবাসার থালা নিয়ে পৌঁছে অনন্য সাধারণ কাজুলী বিশ্বাস",
     "desc": "খিদের জ্বালা' কী তা রাস্তার ধারে, ট্রেনলাইন বা রেলস্টেশনের পাশে একমুঠো খাবারের আশায় তাকিয়ে থাকা শতশত মুখ দেখলে বোঝা যায়। খিদের জ্বালা চিরদিনই বড় কষ্টের। সেই সব ক্ষুধার্থের মুখে দুমুঠো খাবার তুলে দেওয়ার দায়িত্ব কাঁধে নিলেন কাজুলী বিশ্বাস।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/international/indo-us-deal-india-free-to-buy-oil-from-any-country-russia-reaction-on-new-delhis-energy-purchase-decision-sta-2526885.html",
     "time": "2026-02-05T06:33:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "রাজ্য বাজেট পেশ আজ, কী কী চমক থাকবে...? কখন পেশ হবে বাজেট? রইল জরুরি আপডেট!",
-    "desc": "সপ্তদশ বিধানসভার বাজেট অধিবেশন আজ। ছাব্বিশের বিধানসভা ভোটের আগে শেষ বাজেট পেশ হতে চলেছে আজ। ২০২১ সালের মতো, ২০২৬ সালেও বাজেট পেশ হচ্ছে ৫ ফেব্রুয়ারিতে। আজ রাজ্য বাজেটে নজরে থাকবে লক্ষ্মীর ভাণ্ডারের মতো একাধিক সরকারি প্রকল্প সংক্রান্ত প্রতিশ্রুতির দিকে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-05-at-08.39.08-2026-02-1aa8e8cb4a2ec1d4d513b1396472f0eb-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/west-bengal/west-bengal-budget-2026-stare-interim-budget-to-be-announced-today-from-lakshmir-bhandar-to-much-more-in-focus-know-budget-time-to-other-important-information-sanj-2526686.html",
-    "time": "2026-02-05T03:25:00.000Z"
   }
 ];
