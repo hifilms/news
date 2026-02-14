@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Oman elect to bowl first after winning the toss",
+    "desc": "The stage is set for game 22 of the ongoing T20 World Cup 2026, Ireland and Oman take on each other at the R. Premadasa Stadium in Colombo. The clash begins with Oman winning the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ire-vs-oma-live-cricket-score-ireland-oman-still-in-search-of-first-victories-2026-02-14-1030228",
+    "time": "2026-02-14T05:09:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohammed Kaif weighs in on Ishan Kishan's inclusion in India's T20 World Cup squad",
+    "desc": "The Indian team has been in brilliant form in the ongoing T20 World Cup 2026. With two matches played, the Men in Blue have managed to register victories in both matches, taking on the USA...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammed-kaif-weighs-in-on-ishan-kishan-s-inclusion-in-india-s-t20-world-cup-squad-2026-02-14-1030227",
+    "time": "2026-02-14T04:57:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How will surface at Narendra Modi Stadium play for T20 World Cup 2026 match 24?",
     "desc": "Game 24 of the ongoing T20 World Cup 2026 will see New Zealand taking on South Africa. The two sides will lock horns at the Narendra Modi Stadium in Ahmedabad on February 14. It is...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sunil-gavaskar-suggests-one-major-change-to-india-squad-for-pakistan-game-in-t20-world-cup-2026-2026-02-13-1030204",
     "time": "2026-02-13T17:07:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rain threat looms over India-Pakistan clash in Colombo? Check latest weather update",
-    "desc": "India and Pakistan are all set to take on each other in the ongoing T20 World Cup 2026. The two sides will lock horns in game 27 of the tournament at the R. Premadasa Stadium...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rain-threat-looms-over-india-pakistan-clash-in-colombo-check-latest-weather-update-2026-02-13-1030199",
-    "time": "2026-02-13T15:46:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "UAE's Sohaib Khan credits MS Dhoni's philosophy after playing match-winning knock vs Canada",
-    "desc": "Chasing 151 at the Arun Jaitley Stadium in New Delhi, the UAE found themselves in deep trouble at 66/4, as the match began to slip away. However, opener Aryansh Sharma and Shoaib Khan turned the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/uae-s-sohaib-khan-credits-ms-dhoni-s-philosophy-after-playing-match-winning-knock-vs-canada-2026-02-13-1030197",
-    "time": "2026-02-13T15:30:08.000Z"
   }
 ];

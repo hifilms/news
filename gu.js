@@ -1,12 +1,30 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "ઝેરનો સ્વાદ કેવો હોય છે? ઔરંગાબાદમાં પાંચ છોકરીઓએ ઝેરનો સ્વાદ ચાખ્યો, ચારના દર્દનાક મોત",
+    "desc": "ઔરંગાબાદ જિલ્લામાં રૂવાંટા ઉભા કરી દેતી ઘટના સામે આવી છે, જ્યાં ઝેરનો સ્વાદ ચાખવા માટે પાંચ સગીરાઓએ ઝેર ખાધું હતું, જેમાંથી ચારના મોત થયા છે. પોલીસ આ કેસની તપાસ કરી રહી છે. ઘટના 29 જાન્યુઆરીની હોવાનું સામે આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/bihar-aurangabad-tragedy-4-minors-die-after-eating-poison-for-taste-464881 ",
+    "time": "2026-02-14T05:23:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "3 પૈસાના સ્ટોકે રોકાણકારોનું ભાગ્ય ચમકાવ્યું, 1 લાખના બનાવી દીધા ₹14.10 કરોડ",
+    "desc": "નર્ચર વેલ ઈન્ડસ્ટ્રીઝના શેરની વાત કરીએ તો છ વર્ષ પહેલા કિંમત માત્ર ₹0.03 હતી. તે છ વર્ષમાં 1,40,566% વધી વર્તમાનમાં 42.30 રૂપિયા પર પહોંચી ગઈ છે. આ કિંમતમાં જો કોઈએ શેરમાં 1 લાખ રૂપિયાનું રોકાણ કર્યું હોત તો આજે તેની સંપત્તિ વધીને 14.10 કરોડ રૂપિયા થઈ ગઈ હોય.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/penny-stock-nurture-well-industries-price-3-paisa-turn-41-rs-turns-1-lakh-rs-into-14-crore-464879 ",
+    "time": "2026-02-14T05:01:02.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Gold-Silver Rate Explainer: ઓલટાઈમ હાઈથી હજુ પણ સોનું 24000 અને ચાંદી 1.75 લાખ સસ્તી, આજનો લેટેસ્ટ રેટ ખાસ જાણો",
     "desc": "સોના અને ચાંદીના ભાવમાં સતત ઉતાર ચડાવ જોવા મળી રહ્યા છે. એક અઠવાડિયામાં સોના અને ચાંદીના ભાવમાં શું ફેરફાર થયા, ઓલટાઈમ હાઈથી હજુ પણ કેટલા સસ્તા છે સોના અને ચાંદી તથા આજનો લેટેસ્ટ રેટ પણ ખાસ જાણો.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-silver-rate-explainer-gold-still-24000-and-silver-1-75-lakh-cheaper-than-all-time-high-mcx-know-latest-rates-464876 ",
-    "time": "2026-02-14T04:21:28.000Z"
+    "time": "2026-02-14T04:50:36.000Z"
   },
   {
     "cat": "Sports",
@@ -342,15 +360,6 @@ const newsData_gu = [
     "time": "2026-02-11T06:58:18.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ભારત-પાકિસ્તાન મેચ દરમિયાન ખેલાડીઓ હાથ મિલાવશે ? ICC-PCB બેઠકમાં શું લેવાયો નિર્ણય",
-    "desc": "ICC સાથેની બેઠકમાં પાકિસ્તાન ફરી એકવાર દુનિયા સામે અપમાનિત થયું છે. હવે પાકિસ્તાની ટીમ ભારત સામે રમવા માટે તૈયાર થઈ છે. આ સાથે બધાને સવાલ થઈ રહ્યો છે કે શું બંને ટીમોના ખેલાડીઓ હાથ મિલાવશે. ત્યારે આ લેખમાં જાણીશું કે ICC-PCB બેઠકમાં શું નિર્ણય લેવામાં આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-pak-t20-world-cup-2026-handshake-controversy-icc-pcb-meeting-464584 ",
-    "time": "2026-02-11T06:15:26.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "આર્યાની સામે આવશે ડૉ. મોહિતનું સત્ય, અનુને બચાવવા માટે કરશે આ કામ",
     "desc": "ટીવી સિરિયલ તુમ સે તુમ તકમાં અનુ અને આર્યના અલગ થવાની કહાની દેખાડવામાં આવી રહી છે, અનુ ડૉ. મોહિત સાથે લગ્ન કરવા જઈ રહી છે. આર્યએ અનુના રોકાને પણ જોયો હતો. શું પુષ્પા મોહિત અને તેની ફેમેલી વિશે સત્ય શોધી કાઢશે?",
@@ -448,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/not-maintaining-minimum-balance-in-your-account-banks-are-making-huge-profits-from-your-one-mistake-know-this-464527 ",
     "time": "2026-02-10T10:14:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કોંગ્રેસ સ્પીકર ઓમ બિરલા વિરુદ્ધ આપી અવિશ્વાસ પ્રસ્તાવની નોટિસ, જાણો હવે શું થશે",
-    "desc": "કોંગ્રેસે પ્રસ્તાવની નોટિસ આપી દીધી છે. 118 સાંસદોએ તેના પર સહી કરી છે. પાર્ટી નિયમ 94સી હેઠળ પ્રસ્તાવ લાગી છે. ભારતીય સંસદના ઈતિહાસમાં ત્રણ વખત એવું બન્યું છે, જ્યારે સ્પીકર વિરુદ્ધ પ્રસ્તાવ લાવવામાં આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/congress-issues-no-confidence-motion-notice-against-speaker-om-birla-464519 ",
-    "time": "2026-02-10T09:28:46.000Z"
   },
   {
     "cat": "World",
