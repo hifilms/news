@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Abhishek Sharma will play vs Pakistan in T20 World Cup? Suryakumar Yadav answers",
+    "desc": "India captain Suryakumar Yadav has confirmed that Abhishek Sharma has recovered well and is ready to feature in the blockbuster clash against Pakistan on February 15 at the R Premadasa Stadium in Colombo. The southpaw...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-will-play-vs-pakistan-in-t20-world-cup-suryakumar-yadav-answers-2026-02-14-1030273",
+    "time": "2026-02-14T12:07:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shamar Joseph removed from PSL after social media protest, Islamabad United sign replacement",
+    "desc": "Islamabad United have made a late shake-up in their pace department, parting ways with West Indies fast bowler Shamar Joseph and moving to bring in Zimbabwean seamer Blessing Muzarabani. Joseph was bought at his base...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shamar-joseph-removed-from-psl-after-social-media-protest-islamabad-united-sign-replacement-2026-02-14-1030272",
+    "time": "2026-02-14T11:52:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Security beefed up in Colombo ahead of India vs Pakistan T20 World Cup 2026 clash",
+    "desc": "The security in Colombo would be beefed up, leading to the high-voltage India-Pakistan clash in the T20 World Cup 2026, as the match is set to take place at the R Premadasa Stadium in Colombo...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/security-beefed-up-in-colombo-ahead-of-india-vs-pakistan-t20-world-cup-2026-clash-2026-02-14-1030271",
+    "time": "2026-02-14T11:39:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan Captain Salman Agha urges end to 'fuss' over Usman Tariq's bowling action, says ICC cleared him",
+    "desc": "Pakistan captain Salman Ali Agha has moved to shut down the debate surrounding mystery spinner Usman Tariq’s bowling action ahead of the blockbuster clash against Pakistan on February 15. The fixture at Premadasa had briefly been...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-captain-salman-agha-urges-end-to-fuss-over-usman-tariq-s-bowling-action-says-icc-cleared-him-2026-02-14-1030264",
+    "time": "2026-02-14T10:42:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch ISL 2026 live on TV and stream online?",
+    "desc": "After months of uncertainty, the Indian Super League (ISL) is set to resume competition on Saturday, with defending champions Mohun Bagan hosting Kerala Blasters at the Salt Lake Stadium in Kolkata. Later the same day,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/mohun-bagan-vs-kerala-blasters-when-and-where-to-watch-isl-2026-live-on-tv-and-stream-online-2026-02-14-1030260",
+    "time": "2026-02-14T09:56:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Can't change history': Pakistan skipper Salman Agha previews blockbuster India clash in T20 World Cup 2026",
     "desc": "One of the most anticipated matches of the ongoing T20 World Cup 2026, the clash between India and Pakistan is slated to be held at the R. Premadasa Stadium in Colombo. The two sides will...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mohammed-kaif-weighs-in-on-ishan-kishan-s-inclusion-in-india-s-t20-world-cup-squad-2026-02-14-1030227",
     "time": "2026-02-14T04:57:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Narendra Modi Stadium play for T20 World Cup 2026 match 24?",
-    "desc": "Game 24 of the ongoing T20 World Cup 2026 will see New Zealand taking on South Africa. The two sides will lock horns at the Narendra Modi Stadium in Ahmedabad on February 14. It is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-sa-pitch-report-how-will-surface-at-narendra-modi-stadium-play-for-t20-world-cup-2026-match-24-2026-02-14-1030222",
-    "time": "2026-02-14T03:58:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How has India fared against Pakistan in T20 World Cups over the years? Here's what the stats say",
-    "desc": "The stage is set for game 27 of the ongoing T20 World Cup 2026. Arch-rivals India and Pakistan take on each other at the R. Premadasa Stadium in Colombo on February 15. After several weeks...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-has-india-fared-against-pakistan-in-t20-world-cups-over-the-years-here-s-what-the-stats-say-2026-02-14-1030216",
-    "time": "2026-02-14T02:29:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Haven't had any practices': Netherlands head coach opens up on their loss against USA in Chennai",
-    "desc": "The Netherlands faced a hefty loss against the USA in game 21 of the ongoing T20 World Cup 2026. The two sides locked horns at the MA Chidambaram Stadium in Chennai on February 13, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/netherlands-head-coach-opens-up-on-their-loss-against-usa-in-chennai-2026-02-14-1030213",
-    "time": "2026-02-14T01:44:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ENG vs SCO, Kolkata, weather report: Will rain play spoilsport in T20 World Cup clash?",
-    "desc": "The stage is set for game 23 of the ongoing T20 World Cup 2026; England will be taking on Scotland at the Eden Gardens in Kolkata on February 14. It is worth noting that the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/eng-vs-sco-kolkata-weather-report-will-rain-play-spoilsport-in-t20-world-cup-clash-2026-02-13-1030209",
-    "time": "2026-02-13T18:14:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Declan Rice highlights change in mentality as Arsenal push for Premier League title",
-    "desc": "There is a different edge to Arsenal this season and much of it can be traced to the authority Declan Rice has brought to midfield. As the club pushes again for the Premier League title...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/declan-rice-highlights-change-in-mentality-as-arsenal-push-for-premier-league-title-2026-02-13-1030208",
-    "time": "2026-02-13T18:00:19.000Z"
   }
 ];

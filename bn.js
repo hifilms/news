@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "১৭, ১৮, ১৯ ফেব্রুয়ারি থেকে শুরু...! মুষলধারে বৃষ্টি, বজ্রবিদ্যুৎ কাঁপাবে ৯ রাজ্য, কবে থেকে ৩০ ডিগ্রির চাঁদি ফাটা গরম?  কী হবে বাংলায়? জানিয়ে দিল IMD",
+    "desc": "ফেব্রুয়ারি মাসের মাঝামাঝি হয়ে গিয়েছে। তবু উত্তর ও পূর্ব ভারতে এখনও শীতকাল চলছে। দিনের বেলায় উজ্জ্বল রোদ হলেও রাতে হালকা ঠান্ডা ভাব আবহাওয়াকে মনোরম রাখছে। তবে আপনি যদি মনে করেন যে আপনার এখনই কম্বল গুছিয়ে নেওয়ার সময় এসেছে, তাহলে কিন্তু আরও একটু অপেক্ষা করুন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-03-at-15.26.16-2026-02-4a551432df4d3f37547ee480731e2b93-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-17-18-19-february-to-start-heavy-rain-shower-to-hit-9-states-for-coming-days-when-temperature-increase-to-30-degree-know-latest-west-bengal-weather-sanj-2540420.html",
+    "time": "2026-02-14T11:51:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ভয়ঙ্কর বিপর্যয়! মুম্বইতে মেট্রো পিলার ভেঙে মৃত ১",
+    "desc": "গাড়ির উপর ভেঙে পড়ল নির্মীয়মাণ মেট্রোর পিলারের একাংশ। মুম্বইয়ে ভয়াবহ দুর্ঘটনা। মুম্বইয়ের মুলুন্ডে আজ দুপুর বারোটা নাগাদ আচমা রাস্তার উপর ভেঙে পড়ে মেট্রোর নির্মীয়মাণ পিলারের একাংশ। চলন্ত অটোর উপর নির্মীয়মাণ পিলারের অংশ ভেঙে পড়ে। পিলারের ভাঙা অংশে আটকে পড়েন অটো চালক।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/mumbai-metro-2026-02-2e5653be8a9e51e459c80598f39de43a-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/a-pillar-of-an-under-construction-metro-collapsed-in-mumbai-rds-2540413.html",
+    "time": "2026-02-14T11:39:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ফাটল থেকে বিপর্যয়, মুম্বইতে মেট্রো পিলার ভেঙে মৃত ১",
+    "desc": "Mumbai Metro Accident | গাড়ির উপর ভেঙে পড়ল নির্মীয়মাণ মেট্রোর পিলারের একাংশ। মুম্বইয়ে ভয়াবহ দুর্ঘটনা। মুম্বইয়ের মুলুন্ডে আজ দুপুর বারোটা নাগাদ আচমা রাস্তার উপর ভেঙে পড়ে মেট্রোর নির্মীয়মাণ পিলারের একাংশ। চলন্ত অটোর উপর নির্মীয়মাণ পিলারের অংশ ভেঙে পড়ে। পিলারের ভাঙা অংশে আটকে পড়েন অটো চালক। বিপর্যয়ের পর স্থানীয়রাই উদ্ধারকাজে হাত লাগান। কোনও মতে, আহত অটো চালককে পিলারের ধ্বংসস্তূপ থেকে উদ্ধার করা হয়। ১ জনের মৃত্যু-গুরুতর জখম ৩, গাফিলতির জেরেই কি মুম্বইয়ের মুলুন্ডে মেট্রোর পিলার বিপর্যয়? প্রশ্ন উঠছে। কারণ, তিন-চার দিন আগেই দুর্ঘটনাগ্রস্ত পিলারে ফাটল ধরা পড়েছিল। অভিযোগ, পিলারের ফাটল মেরামতো জোড়াতালির কাজ করা হয়। দায়সারা কাজের জেরেই কি মুম্বইয়ে মেট্রোর পিলারে বিপত্তি? পিলার নির্মাণের গুণগত মান নিয়েও প্রশ্ন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/mumbai-metro-2026-02-2e5653be8a9e51e459c80598f39de43a-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/mumbai-metro-accident-metro-pillar-collapse-leaves-1-dead-safety-questions-raised-dc-2540414.html",
+    "time": "2026-02-14T11:37:06.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Ranojoy-Shyamoupti Wedding: হলুদ পোশাকে টুইনিং, রণজয়ের কোলে চড়েই নতুন গল্পের প্রথম অধ্যায় শুরু শ্যামোপ্তির, রইল গায়ে হলুদের আদুরে ছবি",
     "desc": "ভ্যালেন্টাইন্স ডে-র দিন টলিপাড়ার বাজছে বিয়ের সানাই৷ ভালবাসার দিনেই চারহাত এক হচ্ছে অভিনেতা রণজয় বিষ্ণু এবং অভিনেত্রী শ্যামৌপ্তি মুদলির৷ তারকা জুটি গায়ে হলুদের আদুরেমাখা ছবি সোশ্যাল মিডিয়ায় পোস্ট করেছেন৷ যা ঝড়ের গতিতে নেটদুনিয়ায় ভাইরাল হয়েছে৷",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/technology/electric-bill-saving-tips-solar-powered-air-condition-fridge-geyser-zero-electricity-bill-in-this-house-of-basirhat-west-bengal-sdg-2527690.html",
     "time": "2026-02-05T12:07:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘কোথায় যাব আমি? নিজের সমস্যা শেষ হচ্ছে না...’ সোশ্যাল মিডিয়ায় হঠাৎ এমন পোস্ট করলেন কেন দেবলীনা নন্দী?",
-    "desc": "সময় এলে সত্যিটা নিজে থেকেই সামনে আসবে বলেও উল্লেখ করেন দেবলীনা। বন্ধুত্বের সম্পর্ককে ‘নোংরা নাম’ দেওয়ার প্রবণতায় আঘাত পেয়ে তিনি জানান, যাকে তিনি মুখে ভাই বলে সম্বোধন করেন, সেই সম্পর্ককে অন্যভাবে ব্যাখ্যা করা ঠিক নয়। পোস্টের শেষে দেবলীনা অনুরোধ করেন, তাঁকে নতুন কোনও ট্যাগ না দিতে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Debolinaa-Nandy-Latest-Facebook-Post-trend-2026-02-7dcf432edb4639e96e0728c2e4b36b57-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/debolinaa-nandy-latest-post-in-social-media-after-influencer-sayak-park-street-restaurant-controversy-case-ss-2527654.html",
-    "time": "2026-02-05T11:47:31.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "চাষ তো নয়, যেন সোনা! ১ মণেই মিলছে ১৮ হাজার টাকা, বীরভূমের এই গ্রামের ঘরে ঘরে এখন লক্ষ্মীলাভ",
-    "desc": "বীরভূমের লাল মাটিতে চাষ নয়, যেন সোনা ফলছে! রেশম চাষের হাত ধরে রাতারাতি ভাগ্য বদলাচ্ছে গ্রামবাসীদের। ১ মণ রেশম গুটি বিক্রি করলেই মিলছে ১৮ হাজার টাকা। জেলার এই বিশেষ উদ্যোগ কীভাবে কৃষকদের আর্থিক উন্নতির দিশা দেখাচ্ছে, জানুন বিস্তারিত।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/seiculture-money-making-ideas-2026-02-e0b73c0383270a8d83f3015b1a981d1d-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/sericulture-money-making-ideas-villagers-earning-18000-per-37-kg-from-silkworm-farming-l18-local18-2527076.html",
-    "time": "2026-02-05T11:42:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Honeymoon Case 2.0: ঠিক সোনম রঘুবংশীর মতো...বিয়ের পরেই বয়ফ্রেন্ডের সঙ্গে প্ল্যান, রাজস্থানে গাড়ি দিয়ে পিষে খু*ন",
-    "desc": "অঞ্জু তার ফোন এবং কানের দুল অভিযুক্তদের হাতে দিয়েছিল, যাতে মনে হয় যে বিষয়টা ডাকাতি। আক্রমণের পর সে অজ্ঞান হয়ে থাকার ভান করেছিল৷ কিন্তু আশিসের শরীরে আঘাতের চিহ্ন চক্রান্তের রহস্য ফাঁস করে দেয়। পুলিশ চার অভিযুক্তকেই গ্রেফতার করেছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Bangla-News-2026-02-05T143531.311-2026-02-f7ad28b90515446af6ae7bb13a10a8d4-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/honeymoon-murder-2-0-in-rajasthan-man-dies-in-hit-and-run-planned-by-wife-her-boyfriend-sta-2527438.html",
-    "time": "2026-02-05T09:16:47.000Z"
   }
 ];

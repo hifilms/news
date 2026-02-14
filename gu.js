@@ -1,12 +1,75 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "હવે વિદેશથી ફોન ચલાવવા આપવો પડશે પાસપોર્ટ? સરકારના આ પ્લાનથી ઉડી ઠગોની ઊંઘ! જાણો શું છે મામલો",
+    "desc": "શું તમે પણ હંમેશા વિદેશ યાત્રા કરો છો કે તમારા ઘરનું કોઈ સભ્ય બીજા દેશમાં રહે છે? જો હાં તો આ સમાચાર તમારા માટે જરૂરી છે. સરકારે સાયબર ઠગોની કમર તોડવા માટે જોરદાર પ્લાન બનાવ્યો છે. હવે પાસપોર્ટ વગર આંતરરાષ્ટ્રીય રોમિંગ મળવાનું લગભગ અશક્ય થઈ જશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/cbi-and-i4c-recommendation-biometric-kyc-for-bank-accounts-464920 ",
+    "time": "2026-02-14T11:46:32.000Z"
+  },
+  {
     "cat": "Sports",
+    "title": "T20 વર્લ્ડ કપ વચ્ચે આ ટીમ માટે ખરાબ સમાચાર, ટીમના સભ્યને આવ્યો હાર્ટ એટેક",
+    "desc": "T20 વર્લ્ડ કપ 2026 દરમિયાન અફઘાનિસ્તાનની ટીમ માટે એક ખરાબ સમાચાર સામે આવ્યા છે. ટીમના પરફોર્મન્સ એનાલિસ્ટ KC રામા સુબ્રમણ્યમને હાર્ટ એટેક આવ્યો છે. ટીમના ખરાબ પ્રદર્શન વચ્ચે આ સમાચારે ટીમની મુશ્કેલી વધારી દીધી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/afghanistan-performance-analyst-k-c-rama-subramanian-suffered-a-heart-attack-464930 ",
+    "time": "2026-02-14T11:34:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "વેલેન્ટાઈન વીકમાં છવાઈ જશે શાહિદ કપૂરની ઓ રોમિયો, ફિલ્મને બોક્સ ઓફિસ પર મળી જબરદસ્ત ઓપનિંગ",
+    "desc": "શાહિદ કપૂરના કરિયર માટે નિર્ણાયક કહી શકાય તેવી ફિલ્મ ઓ રોમિયો રિલીઝ થઈ ચુકી છે. ફિલ્મને જબરદસ્ત ઓપનિંગ મળ્યું છે. અને અનુમાન છે કે ફિલ્મને વેલેન્ટાઈન વીકનો લાભ પણ મળશે. તો ચાલો જાણીએ ઓ રોમિયો લોકોને કેવી લાગી અને સાથે જ જાણીએ કે ફિલ્મનું ઓપનિંગ કલેકશન કેવું રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/shahid-kapoor-film-o-romeo-review-and-opening-box-office-collection-464929 ",
+    "time": "2026-02-14T11:23:34.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "TATAના આ શેરને વેચી નિકળી રહ્યા છે રોકાણકારો, એક્સપર્ટે કહ્યું: 20% વધશે ભાવ",
+    "desc": "11 ફેબ્રુઆરીએ ટાટા ગ્રુપની કંપનીના શેર 52 અઠવાડિયાની ઊંચી સપાટીએ પહોંચ્યા હતા. જો કે, ત્યારથી આ શેર પ્રોફિટ બુકિંગ મોડમાં આવી ગયો છે. જોકે, એક્સપર્ટ ટાટા કંપનીના આ શેર પર બુલિશ છે અને ખરીદવાની સલાહ આપી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/investors-are-selling-these-shares-of-tata-expert-said-price-will-increase-by-20-percent-464923 ",
+    "time": "2026-02-14T11:02:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ભારત-પાકિસ્તાન મેચ વરસાદના કારણે રદ થાય તો કોને થશે ફાયદો ? કઈ ટીમો થશે વર્લ્ડ કપમાંથી બહાર ?",
+    "desc": "T20 વર્લ્ડ કપ 2026માં રવિવારે ભારત અને પાકિસ્તાન વચ્ચે મહામુકાબલો રમાશે. આ મેચ કોલંબોના આર પ્રેમદાસ સ્ટેડિયમમાં રમાશે, પરંતુ આ હાઈ-વોલ્ટેજ મેચમાં વરસાદ વિઘ્ન નાખી શકે છે. જો વરસાદના કારણે મેચ રદ થાય છે, તો કઈ ટીમને ફાયદો થશે અને આ મેચ રદ થતાં પોઈન્ટ ટેબલ પર શું અસર પડશે તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/what-happens-if-india-vs-pakistan-match-canceled-due-to-rain-t20-world-cup-2026-464921 ",
+    "time": "2026-02-14T10:58:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ઈશાન કિશનને ટીમમાં પાછા ફરવાની આગ જગાડનાર વ્યક્તિ કોણ છે? નામ સાંભળી થઈ જશો આશ્ચર્યચકિત !",
+    "desc": "ઇશાન કિશને તે ખેલાડીનું નામ જાહેર કર્યું છે, જેણે તેનામાં ભારતીય ટીમમાં પાછા ફરવાની આગ જીવંત રાખી હતી. ઇશાન કિશનને સેન્ટ્રલ કોન્ટ્રાક્ટમાંથી બહાર કરવામાં આવ્યો હતો, પરંતુ હવે તે T20 વર્લ્ડ કપમાં મેઈન ઓપનર અને વિકેટકીપર છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/who-is-the-person-who-inspired-ishan-kishan-to-return-to-the-team-you-will-be-surprised-to-hear-his-name-464919 ",
+    "time": "2026-02-14T10:18:53.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "Post Office મા જમા કરો ₹1,00,000 અને મેળવો ₹44,995નું ફિક્સ વ્યાજ, જાણો વિગત",
     "desc": "જો તમે શાનદાર રિટર્ન માટે તમારા પૈસા રોકાણ કરવા ઈચ્છો છો તો પોસ્ટ ઓફઇસની એફડી તમારી મદદ કરી શકે છે. પોસ્ટ ઓફિસમાં 1 વર્ષ, 2 વર્ષ, 3 વર્ષ અને 5 વર્ષના સમયગાળા માટે એફડી એકાઉન્ટ ખોલાવી શકાય છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/deposit-100000-in-post-office-and-get-fixed-interest-of-44995-know-details-464904 ",
-    "time": "2026-02-14T09:02:01.000Z"
+    "url": " http://zeenews.india.com/gujarati/business/deposit-100000-in-post-office-and-get-fixed-interest-of-44995-know-details-464904 ",
+    "time": "2026-02-14T10:15:13.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "તારિક રહેમાનની તાજપોશીનું આમંત્રણ આપવાની થઈ રહી છે તૈયારી! શું PM મોદી જશે બાંગ્લાદેશ?",
+    "desc": "જ્યારથી બાંગ્લાદેશમાં શેખ હસીનાની સરકાર ઉથલી પડી ત્યારથી તેના ભારત સાથેના સંબંધો તણાવભર્યા બની ગયા હતા. પરંતુ હવે એવું લાગે છે કે બીએનપીની નવી સરકાર સાથે ભારતના સંબંધોમાં નવો ગરમાવો આવી શકે છે. ત્યારે એવી પણ ચર્ચા છે કે શું પીએમ મોદી તારિક રહેમાનની શપથવિધિમાં બાંગ્લાદેશ જશે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/will-pm-modi-attend-tariq-rehmans-swearing-in-ceremony-what-bnp-leader-humayun-kabir-say-464917 ",
+    "time": "2026-02-14T10:03:42.000Z"
   },
   {
     "cat": "Politics",
@@ -325,15 +388,6 @@ const newsData_gu = [
   },
   {
     "cat": "Sports",
-    "title": "રોમાંચક મેચમાં આખરે સાઉથ આફ્રિકાની જીત, ડબલ સુપર ઓવરમાં અફઘાનિસ્તાન હાર્યું",
-    "desc": "દક્ષિણ આફ્રિકા અને અફઘાનિસ્તાન વચ્ચેની T20 વર્લ્ડ કપ 2026ની મેચ અત્યંત રોમાંચક રહી. પ્રથમ બેટિંગ કરતા દક્ષિણ આફ્રિકાએ 187 રન બનાવ્યા, જ્યારે અફઘાનિસ્તાને પણ જવાબમાં 187 રન બનાવ્યા. મેચનું રિઝલ્ટ સુપર ઓવર દ્વારા આવ્યું. પ્રથમ સુપર ઓવર પણ ટાઈ રહેતા બીજી સુપર ઓવર રમાડવામાં આવી જેમાં દક્ષિણ આફ્રિકાએ બાજી મારી અને મેચ જીતી લીધી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/south-africa-vs-afghanistan-super-over-icc-t20-world-cup-2026-narendra-modi-stadium-464611 ",
-    "time": "2026-02-11T10:59:19.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "3 બોલમાં 2 રનની જરૂર હતી... અફઘાનિસ્તાને કરી એક ભૂલ અને હાથમાંથી ગઈ મેચ",
     "desc": "છેલ્લી ઓવરમાં અફઘાનિસ્તાનને 13 રનની જરૂર હતી. કાગીસો રબાડાએ પહેલા બોલ પર વિકેટ લીધી, પરંતુ તે નો-બોલ હતો અને મેચ ત્યાંથી જ પલટાઈ ગઈ. મેચ સુપર ઓવરમાં ગઈ અને પ્રથમ સુપર ઓવર પણ ટાઇ થઈ. ત્યાર બાદ બીજી સુપર ઓવરમાં સાઉથ આફ્રિકાએ શાનદાર જીત નોંધાવી.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -349,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/which-countries-oil-reserves-ending-know-india-position-464601 ",
     "time": "2026-02-11T09:24:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "હવે બાંગ્લાદેશનો યુ-ટર્ન, વર્લ્ડ કપમાંથી હટવા અંગે આપ્યું મોટું નિવેદન, ખેલાડીઓ પર લગાવ્યા આરોપ !",
-    "desc": "બાંગ્લાદેશના રમતગમત સલાહકાર આસિફ નજરુલે T20 વર્લ્ડ કપમાંથી બહાર થવાના મુદ્દે નિવેદન બદલતા વિવાદ ઊભો થયો છે. પહેલા સરકારે નિર્ણય લીધો હોવાનું કહ્યું હતું, હવે ખેલાડીઓ અને BCBએ નિર્ણય લીધો હોવાનું જણાવ્યું છે. BCBના સ્પષ્ટ નિવેદનની રાહ જોવાઈ રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/bangladesh-t20-world-cup-withdrawal-statement-controversy-464590 ",
-    "time": "2026-02-11T07:42:12.000Z"
   },
   {
     "cat": "World",
@@ -432,15 +477,6 @@ const newsData_gu = [
     "time": "2026-02-10T13:18:17.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "સાયન્સના વિષયમાં 90 ટકા માર્ક લાવવા છે તો 7 જરૂરી ટિપ્સની મનમાં ગાંઠ બાંધી લો",
-    "desc": "હવે બોર્ડની પરીક્ષાને ગણતરીના દિવસો જ બાકી રહ્યાં છે. જેને પગલે હવે ફક્ત વાંચન કરવું એ જરૂરી નથી. હવે વાંચવાનો સમય પૂરો થઈ ગયો છે. જો તમારે બોર્ડની પરીક્ષામાં વધારે માર્કસ જોઈએ તો હવે મનન કરવાનો સમય છે. પુસ્તકને બંધ કરો અને પોતાની જાતને પ્રશ્નો પૂછવાના શરૂ કરો, તમે ખુદ જાતે જ પોતાના ટેસ્ટ લેવાના શરૂ કરો, જો તમે આ પરીક્ષામાં પાસ થઈ ગયા તો સમજજો તમે ક્યાંય પણ પાછળ નહીં રહો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/board-exam-tips-preparation-guide-7-tips-for-90-percent-plus-in-science-464537 ",
-    "time": "2026-02-10T12:03:47.000Z"
-  },
-  {
     "cat": "World",
     "title": "ગાઝા યુધ્ધનો આવશે અંત? બોર્ડ ઓફ પીસમાં પાકિસ્તાન-તુર્કી સહિત 8 મુસ્લિમ દેશોની એન્ટ્રીથી ઈઝરાયલના શ્વાસ અધ્ધર!",
     "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ દ્વારા ગાઝા મામલે બોર્ડ ઓફ પીસની રચના કરીને માટી પહેલ કરી છે. આ બોર્ડમાં 8 મુસ્લિમ દેશોને સામેલ કરવામાં આવ્યું છે. જો કે, ઈઝરાયલ પાકિસ્તાનને ક્યારેય મહત્વ આપવા માંગતું નથી, પરંતુ બોર્ડ ઓફ પીસમાં ડોનાલ્ડ ટ્રમ્પની પહેલ પર પાકિસ્તાનના પીએમ શાહબાઝ શરીફ પણ સામેલ થશે. આટલા સુધી જ નહીં, આ બોર્ડમાં તુર્કી પણ સામેલ રહેશે, જે ફિલિસ્તીનના મુદ્દા પર ખુલ્લેઆમ ઈઝરાયલનો વિરોધ કરી રહ્યું છે.",
@@ -502,15 +538,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/government-has-given-important-information-on-pension-under-the-8th-pay-commission-important-for-central-employees-464489 ",
     "time": "2026-02-10T06:11:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સોના-ચાંદી ફરી પાછા ધડામ થયા, ભાવ ઘટીને કેટલો થઈ ગયો? ફટાફટ જાણો લેટેસ્ટ રેટ",
-    "desc": "સોનું અને ચાંદી ભારે ઉતારચડાવ સાથે જોવા મળી રહ્યા છે. સોમવારે તેજી જોવા મળ્યા બાદ હવે આજે વળી પાછી સોના અને ચાંદીમાં નરમાઈ જોવા મળી રહી છે. ભાવમાં ઘટાડો જોવા મળ્યો છે. જાણો આજનો લેટેસ્ટ રેટ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-have-become-cheaper-again-prices-have-come-down-know-the-latest-rates-aaj-no-sona-chandi-no-bhav-464477 ",
-    "time": "2026-02-10T04:26:24.000Z"
   },
   {
     "cat": "Entertainment",
@@ -637,15 +664,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/tumm-se-tumm-tak-a-big-revelation-is-going-to-happen-about-dr-mohit-a-twist-will-come-after-anu-arya-last-meeting-463837 ",
     "time": "2026-02-03T10:58:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ચાહકો સાથે દગો! ધુરંધર 2 ના ટીઝરથી સોશિયલ મીડિયા પર ભારે રોષ",
-    "desc": "રણવીર સિંહની ફિલ્મ ધુરંધર 2ના ટીઝરને લઈને ચાહકો ખૂબ જ ઉત્સાહિત હતા, પરંતુ નિર્માતાઓએ જૂના દ્રશ્યો બતાવીને તેમની આશાઓ પર પાણી ફેરવી દીધું છે. સોશિયલ મીડિયા યુઝર્સે તેને છેતરપિંડી ગણાવી અને ટ્રોલ કરવાનું શરૂ કર્યું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/dhurandhar-2-betrayed-fans-were-heartbroken-after-watching-the-teaser-said-aditya-dhar-did-not-do-well-463833 ",
-    "time": "2026-02-03T10:25:31.000Z"
   },
   {
     "cat": "Tech",
