@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "ঝমঝমিয়ে আসছে! ১১ রাজ্যে ঝড়-বৃষ্টির সতর্কতা... কী হবে বাংলায়? আবহাওয়ার আপডেট দেখুন!",
+    "desc": "১৫ ফেব্রুয়ারি থেকে দেশের একাধিক রাজ্যে আবহাওয়ার বড়সড় পরিবর্তনের ইঙ্গিত দিল ভারতীয় আবহাওয়া দফতর। টানা তিন দিনের জন্য ১১টি রাজ্যে বৃষ্টি ও দমকা হাওয়ার সতর্কতা জারি করা হয়েছে। পশ্চিমী ঝঞ্ঝার প্রভাবে তুষারপাতের সম্ভাবনা রয়েছে। অন্যদিকে, কলকাতায় আপাতত তাপমাত্রা স্বাভাবিকের চেয়ে কিছুটা কম। কী হতে চলেছে এর পর? দেখুন বড় আপডেট।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/national-weather-1-2026-02-2d1252f16d47bff6611b76cbd3105006-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/imd-issues-rain-strong-wind-alert-for-11-states-from-february-15-snowfall-likely-in-several-regions-kolkata-is-cooler-than-normal-weather-tib-ws-el-2540972.html",
+    "time": "2026-02-15T04:35:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বাংলাদেশে তারেকের শপথ অনুষ্ঠানে আমন্ত্রণ পেলেন মোদি! আর কে কে আসবেন? দেখে নিন তালিকা",
+    "desc": "জাতীয় নির্বাচনে নিরঙ্কুশ জয়ের পর বাংলাদেশে সরকার গঠনের পথে বাংলাদেশ ন্যাশনালিস্ট পার্টি (বিএনপি)। আগামী ১৭ ফেব্রুয়ারি অনুষ্ঠিত হতে চলেছে নতুন মন্ত্রিসভার শপথগ্রহণ অনুষ্ঠান। এই অনুষ্ঠানে যোগ দেওয়ার জন্য ভারতের প্রধানমন্ত্রী নরেন্দ্র মোদিকে আমন্ত্রণ জানানো হয়েছে। কূটনৈতিক মহলে এই আমন্ত্রণকে দুই দেশের ভবিষ্যৎ সম্পর্কের দিকনির্দেশক বার্তা হিসেবে দেখা হচ্ছে, বিশেষ করে তারেক রহমানের নেতৃত্বে নতুন সরকারের সম্ভাব্য অবস্থানকে কেন্দ্র করে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/PM-of-India-Goes-to-Bangladesh-2026-02-d7546dd16366024bf239bcd8e040bcba-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/bnp-leader-tarique-rahman-oath-taking-ceremony-to-be-held-in-bangladesh-on-17-february-narendra-modi-and-13-country-leaders-invited-tib-ws-l-2540897.html",
+    "time": "2026-02-15T03:47:55.000Z"
+  },
+  {
     "cat": "World",
     "title": "'এবার দেশ গড়ার পালা!' কী বার্তা দিলেন বাংলাদেশের হবু প্রধানমন্ত্রী তারেক রহমান? দেখুন ভিডিও",
     "desc": "এবার দেশ গড়ার পালা৷ বাংলাদেশের সাধারণ নির্বাচনে বিপুল জয়ের পর এমনই বার্তা দিলেন হবু প্রধানমন্ত্রী তারেক রহমান৷ শনিবার ঢাকায় সাংবাদিকদের মুখোমুখি হয়ে এমনই বার্তা দিয়েছেন বিএনপি-র চেয়ারম্যান৷ দেশবাসীকে ঐক্যবদ্ধ হওয়ারও আর্জি জানিয়েছেন তিনি৷ একই সঙ্গে ভারত সহ অন্যান্য দেশের সঙ্গে কূটনৈতিক সম্পর্কের ক্ষেত্রে বাংলাদেশের স্বার্থই যে তিনি সবার আগে দেখবেন, তা স্পষ্ট করে দিয়েছেন তারেক৷ বাংলাদেশের সাধারণ নির্বাচনে ২০৯টি আসনে জয়ী হয়েছে বিএনপি জোট৷ কয়েকদিনের মধ্যেই নতুন প্রধানমন্ত্রী হিসেবে শপথ নেবেন তারেক৷",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/vande-bharat-sleeper-express-indian-railways-howrah-kamakhya-vande-bharat-sleeper-express-train-what-milestone-has-this-train-achieved-a-major-update-has-arrived-learn-more-in-detail-sanj-2526690.html",
     "time": "2026-02-06T02:37:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ব্যাটিংয়ে তান্ডব! অধিনায়কত্বে ক্ষুরধার বুদ্ধি! WPL 2026-এ স্মৃতির পকেটে ৫ বড় রেকর্ড",
-    "desc": "উইমেন্স প্রিমিয়ার লিগ ২০২৬-এর ফাইনালে শুধু আরসিবিকে চ্যাম্পিয়ন করাই নয়, অধিনায়কোচিত ম্যাচ উইনিং ইনিংস খেললেন স্মৃতি মন্ধনা। স্মৃতির ৪১ বলে ৮৭ রানের ইনিংস সাজানো ১২টি চার ও ৩টি ছয়ে। একইসঙ্গে ৫টি বড় নজির গড়লেন স্মৃতি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WPL-FINAL-8-2026-02-1b8f71d3c6f15ee37db67f2d21ad25d7-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/wpl-2026-champion-rcb-captain-smriti-mandhana-create-5-unique-records-after-played-87-runs-match-winning-innings-sup-2528044.html",
-    "time": "2026-02-05T18:29:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "৯ বছর পর নন্দিতা-শিবপ্রসাদের পরিচালনায় যীশু সেনগুপ্ত, এবার লক্ষ্য সোনার ডাকাতি!",
-    "desc": "গত বছরের ব্লকবাস্টার ‘বহুরূপী’-র রেশ ধরেই ঘোষিত হল এর পরবর্তী অধ্যায়— ‘বহুরূপী: দ্য গোল্ডেন ডাকু’। এই ছবির সবচেয়ে বড় চমক অভিনেতা যীশু সেনগুপ্ত। ‘পোস্ত’ ছবির প্রায় ৯ বছর পর ফের নন্দিতা-শিবপ্রসাদ জুটির পরিচালনায় ফিরছেন তিনি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/bohurupi-the-golden-daku-jisshu-sengupta-shiboprosad-koushani-puja-2026_639793.html ",
-    "time": "2026-02-05T15:35:09.000Z"
   }
 ];

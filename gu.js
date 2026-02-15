@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "World",
+    "title": "બાંગ્લાદેશમાં 17 ફેબ્રુઆરીએ પ્રધાનમંત્રી પદના શપથ લેશે તારિક રહેમાન, ભારત-પાક સહિત 13 દેશોને નિમંત્રણ",
+    "desc": "બાંગ્લાદેશમાં સત્તા પરિવર્તનની સ્થિતિ સ્પષ્ટ ઈ ગઈ છે. તારિક રહેમાન 17 ફેબ્રુઆરીએ સાંજે પ્રધાનમંત્રી પદના શપથ લેશે. આ કાર્યક્રમ માટે ભારત-પાકિસ્તાન સહિત 13 દેશને આમંત્રણ મોકલવામાં આવ્યા છે. વચગાળાની સરકારના મુખ્ય સલાહકાર પ્રોફેસર મોહમ્મદ યૂનુસ શપથ સમારોહને આંતરરાષ્ટ્રીય સ્વરૂપ આપવાની તૈયારીમાં છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/tarique-rahman-to-take-oath-as-prime-minister-of-bangladesh-on-february-17-invites-13-countries-including-india-and-pakistan-464977 ",
+    "time": "2026-02-15T02:56:29.000Z"
+  },
+  {
+    "cat": "World",
     "title": "બાંગ્લાદેશ ચૂંટણીમાં BJPએ જીતી એક સીટ, સોશિયલ મીડિયા પર ભારે વાયરલ, જાણો સત્ય શું છે",
     "desc": "બાંગ્લાદેશની સંસદીય ચૂંટણીમાં BNPએ બહુમતી મેળવી છે. પરંતુ જો અમે તમને કહીએ કે BJPએ બાંગ્લાદેશમાં એક પણ બેઠક જીતી છે તો તમને કેવું લાગશે? તમને ચોક્કસ આઘાત લાગશે, પરંતુ હાવ તે વાયરલ થઈ રહ્યું છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -421,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/mumbai-jolly-maker-society-paying-3-lakhs-annually-to-flat-owner-know-how-it-possible-464629 ",
     "time": "2026-02-11T12:18:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "પલટુબાજ પાકિસ્તાનની 5 સૌથી ખરાબ હરકતો : દરેકવાર થયા છે આબરૂના કાંકરા, જાણો કઈ કઈ મેચમાં કાઢ્યો ખેલ",
-    "desc": "ભારત અને પાકિસ્તાનની વચ્ચે ટી 20 વિશ્વ કપની મેચ 15મી ફેબ્રુઆરીએ રમાવાની છે. થોડા દિવસો પહેલાં એમ હતું કે આ મેચ રમાશે જ નહીં પણ પલટુબાજ પાકિસ્તાને ફરી એકવાર ડૂબી જવાના ડરને પગલે ભારત સામેની મેચ રમવાનો પોતાનો નિર્ણય પલટ્યો છે. આ પહેલીવાર નથી આ પહેલાં 5 વાર આ પલટુબાજ પાકિસ્તાન પોતાની વાતથી ફરી ચૂક્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/pakistan-u-turns-cricket-history-ind-vs-pak-t20-world-cup-2026-464619 ",
-    "time": "2026-02-11T11:26:08.000Z"
   },
   {
     "cat": "World",

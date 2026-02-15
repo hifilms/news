@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "New Zealand's Lockie Ferguson granted parental leave, set to miss Canada clash",
+    "desc": "In a major development for New Zealand Cricket, the side’s star bowler, Lockie Ferguson, has officially been granted parental leave. It is worth noting that Ferguson and his wife Emma are expecting the birth of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-s-lockie-ferguson-granted-parental-leave-set-to-miss-canada-clash-2026-02-15-1030324",
+    "time": "2026-02-15T04:35:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rain expected to hit Colombo during IND vs PAK clash",
+    "desc": "The stage is set for game 27 of the ongoing T20 World Cup 2026. India and Pakistan will take on each other at the R. Premadasa Stadium in Colombo on February 15, and ahead of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/colombo-weather-live-will-rain-spoil-ind-vs-pak-t20-world-cup-2026-clash-1030316",
+    "time": "2026-02-15T02:56:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's probable XI vs Pakistan: Abhishek Sharma IN, Sanju Samson OUT; What about Kuldeep Yadav?",
+    "desc": "The stage is set for one of the most anticipated games of the ongoing T20 World Cup 2026. India and Pakistan lock horns at the R. Premadasa Stadium in Colombo on February 15. The two...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-s-probable-xi-vs-pakistan-abhishek-sharma-in-sanju-samson-out-what-about-kuldeep-yadav-2026-02-15-1030313",
+    "time": "2026-02-15T02:20:34.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Schedule, squads, live streaming, and all you need to know",
     "desc": "The stage is set for the multi-format series between India women and Australia women. The two sides will be taking on each other across three T20I matches, three ODI matches, and one Test match. It...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-pitch-report-how-will-surface-at-r-premadasa-stadium-in-colombo-play-for-t20-world-cup-2026-2026-02-14-1030298",
     "time": "2026-02-14T16:37:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will rain play spoilsport during T20 World Cup 2026 clash in Colombo?",
-    "desc": "After nearly a month-long drama, Pakistan have agreed to play India in the T20 World Cup 2026 clash at the R Premadasa Stadium in Colombo. Ahead of that, the Suryakumar Yadav-led side has defeated the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-pakistan-weather-report-will-rain-play-spoilsport-during-t20-world-cup-2026-clash-in-colombo-2026-02-14-1030296",
-    "time": "2026-02-14T15:56:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav downplays hype around Usman Tariq ahead of IND vs PAK in T20 World Cup",
-    "desc": "Hubbub around Usman Tariq dominates grabs attention ahead of IND vs PAK, Suryakumar Yadav downplays the hype As the T20 World Cup 2026 showdown between India and Pakistan approaches in Colombo, much of the chatter has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-downplays-hype-around-usman-tariq-ahead-of-ind-vs-pak-in-t20-world-cup-2026-02-14-1030291",
-    "time": "2026-02-14T14:48:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Which pitch will be used for India vs Pakistan T20 World Cup 2026 clash?",
-    "desc": "The highly-anticipated India-Pakistan T20 World Cup 2026 clash is set to take place in less than 24 hours from now as two Asian giants look to give it their all in the upcoming fixture in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/which-pitch-will-be-used-for-india-vs-pakistan-t20-world-cup-2026-clash-check-here-2026-02-14-1030288",
-    "time": "2026-02-14T14:08:49.000Z"
   }
 ];

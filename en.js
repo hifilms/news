@@ -1,5 +1,221 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "India ‘very successful’ emerging economy; right place to host AI summit: UN Chief Guterres",
+    "desc": "Mr. Guterres asserted “it would be totally unacceptable that AI would be just a privilege of the most developed countries or a division only between two superpowers”, an apparent reference to the U.S. and China",
+    "img": "https://th-i.thgim.com/public/incoming/oi1mkc/article70634556.ece/alternates/LANDSCAPE_1200/Italy_Africa_Summit_85379.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/india-very-successful-emerging-economy-right-place-to-host-ai-summit-un-chief-guterres/article70634551.ece",
+    "time": "2026-02-15T04:32:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Margot Robbie’s skin used as wallpaper in bold ‘Wuthering Heights’ twist",
+    "desc": "Margot Robbie's 'Wuthering Heights' role features a unique approach to method acting. Her skin, veins, and freckles were printed onto silk for Cathy Earnshaw's bedroom wallpaper, creating a visceral, personal touch. Director Emerald Fennell also revealed custom shrines were made for the stars to deepen their connection to the obsessive love story.",
+    "img": "https://static.toiimg.com/photo/msid-128370881,imgsize-257996.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/wuthering-heights-margot-robbies-skin-and-freckles-turned-into-wallpaper-for-the-movie-heres-what-we-know/articleshow/128370854.cms",
+    "time": "2026-02-15T04:21:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Virat Kohli-Anushka Sharma pose for pics wih fans",
+    "desc": "Cricket star Virat Kohli and wife Anushka Sharma were spotted in Mumbai amidst the T20 World Cup 2026. The couple, seen in casual wear, posed with fans, with one sharing a touching tribute to Virat's inspiration. They've been balancing personal life in the UK with professional commitments, including property and ad film projects.",
+    "img": "https://static.toiimg.com/photo/msid-128370643,imgsize-36724.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-and-anushka-sharma-pose-for-photos-with-fans-in-mumbai-pics/articleshow/128370077.cms",
+    "time": "2026-02-15T04:09:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hardik Pandya is the Atum of India cricket",
+    "desc": "Hardik Pandya’s journey mirrors self-creation — rising from obscurity to become India’s white-ball MVP while battling scrutiny, injuries and perception. Backed by mentors like Kieron Pollard, he has turned chaos into control, proving his resilience repeatedly. Beyond the flash lies a cricketer defined by reinvention and an unrelenting will to succeed.",
+    "img": "https://static.toiimg.com/photo/msid-128370823,imgsize-25024.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/hardik-pandya-is-the-atum-of-india-cricket/articleshow/128370379.cms",
+    "time": "2026-02-15T04:02:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What happens if rain washes out IND vs PAK?",
+    "desc": "The India vs Pakistan T20 World Cup match in Colombo faces a rain threat. Both teams started well, and India has dominated past T20 World Cup meetings. At least five overs per side are needed for a result; otherwise, both teams get one point. A washout would cause major financial losses for broadcasters, organisers, and Sri Lanka Cricket due to lost ads and ticket refunds.",
+    "img": "https://static.toiimg.com/photo/msid-128370360,imgsize-153608.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ind-vs-pak-colombo-weather-update-what-happens-if-rain-washes-out-india-vs-pakistan-t20-world-cup-match/articleshow/128370320.cms",
+    "time": "2026-02-15T03:57:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Pitt': How Noah Wyle changed the kitchen apology scene",
+    "desc": "Season 2, Episode 6 of 'The Pitt' features a significant turning point as Dr. Frank Langdon expresses remorse towards charge nurse Dana Evans. Patrick Ball and Katherine LaNasa mentioned that Noah Wyle played a crucial role in shaping this intense kitchen sequence.",
+    "img": "https://static.toiimg.com/photo/msid-128369979,imgsize-544020.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/how-noah-wyle-changed-the-kitchen-apology-scene-in-the-pitts-latest-episode/articleshow/128369979.cms",
+    "time": "2026-02-15T03:36:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about Jacob Elordi’s stunning gold tooth",
+    "desc": "Jacob Elordi stole the spotlight at the 'Wuthering Heights' premiere, sporting an extravagant 14-karat gold tooth. This custom creation, embellished with 'C + H' and a sprinkle of diamonds, serves as a heartfelt homage to his character Heathcliff and the fervent, forbidden love he endures with Catherine.",
+    "img": "https://static.toiimg.com/photo/msid-128369989,imgsize-71332.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jacob-elordi-debuts-swoon-worthy-gold-tooth-with-hidden-meaning-what-we-know/articleshow/128369962.cms",
+    "time": "2026-02-15T03:36:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Big south stars on guest list",
+    "desc": "Wedding bells are ringing for Vijay Deverakonda and Rashmika Mandanna, with reports suggesting an intimate February 26th ceremony in Udaipur. A grand Hyderabad reception is planned for March 4th, expecting a star-studded guest list. The couple reportedly rejected a massive Rs 60 crore streaming offer for their wedding, prioritizing privacy for the event.",
+    "img": "https://static.toiimg.com/photo/msid-128369929,imgsize-112712.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakonda-and-rashmika-mandanna-wedding-big-south-stars-on-guest-list-reports/articleshow/128369929.cms",
+    "time": "2026-02-15T03:35:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When, where and how to watch IND vs PAK on TV and online?",
+    "desc": "The India vs Pakistan T20 World Cup 2026 match will be played on Sunday at the R Premadasa Stadium in Colombo. Both teams started strongly, with India dominating early and Pakistan recovering well. India has historically dominated Pakistan in T20 World Cups and has a strong record at this venue. Rain may affect the game. The match starts at 7 PM IST and will be broadcast on Star Sports and streamed on JioHotstar.",
+    "img": "https://static.toiimg.com/photo/msid-128369844,imgsize-156660.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-vs-pakistan-t20-world-cup-2026-live-streaming-when-where-and-how-to-watch-ind-vs-pak-live-on-tv-and-online/articleshow/128369624.cms",
+    "time": "2026-02-15T03:28:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Tu Yaa Main' sees good growth on Valentine's Day",
+    "desc": "Adventure-romance 'Tu Yaa Main' starring Adarsh Gourav and Shanaya Kapoor shows promising box office growth, doubling its collection on Saturday to an estimated Rs 1.4 crore. The film's two-day net total reached Rs 2 crore, making it Shanaya Kapoor's highest-grossing film. It faces stiff competition from 'O' Romeo' and 'Border 2'.",
+    "img": "https://static.toiimg.com/photo/msid-128369846,imgsize-65436.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/tu-yaa-main-box-office-collection-day-2-adarsh-gourav-shanaya-kapoor-starrer-sees-good-growth-on-valentines-day/articleshow/128369030.cms",
+    "time": "2026-02-15T03:28:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What’s in store for garment exporters to the U.S.?",
+    "desc": "What has the U.S. promised Bangladesh with respect to textiles? What are the conditions laid down by the U.S. to give Bangladeshi exporters unprecedented access to American markets? What is the assurance that Union Commerce Minister Piyush Goyal gave Indian textile exporters?",
+    "img": "https://th-i.thgim.com/public/incoming/nx6l09/article70633332.ece/alternates/LANDSCAPE_1200/2025-08-07T145208Z_1044761173_RC2H3EACZ6XW_RTRMADP_3_USA-TRUMP-TARIFFS-INDIA-GARMENTS-PIX.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/whats-in-store-for-garment-exporters-to-the-us-explained/article70633290.ece",
+    "time": "2026-02-15T03:22:18.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Meta to cut pay outs to fact-checking partners in India",
+    "desc": "Two people with knowledge of discussions with the social media company told The Hindu that the firm planned to cut payments to professional fact checkers it has paid since 2016 by a third to half",
+    "img": "https://th-i.thgim.com/public/incoming/eqpyty/article70634499.ece/alternates/LANDSCAPE_1200/2026-02-09T103924Z_565968379_RC2VPGAKTI7X_RTRMADP_3_EU-META-PLATFORMS-AI-ANTITRUST.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/meta-to-cut-pay-outs-to-fact-checking-partners-in-india/article70631703.ece",
+    "time": "2026-02-15T03:16:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hudson Williams Shares Rare Valentine Tribute for Girlfriend",
+    "desc": "Hudson Williams shared a heartwarming Valentine's Day tribute to his girlfriend on Instagram, offering fans a rare glimpse into his personal life. The 'Heated Rivalry' star highlighted her unwavering support through his early struggles, even playfully including co-star Connor Storrie in the post, amidst fan speculation about their on-screen chemistry.",
+    "img": "https://static.toiimg.com/photo/msid-128369341,imgsize-407239.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hudson-williams-makes-rare-romance-public-with-heartfelt-valentines-day-tribute-to-his-longtime-girlfriend/articleshow/128369343.cms",
+    "time": "2026-02-15T02:59:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Majako Mallika' out: Netizens compare it to 'Monica' song",
+    "desc": "The lyrical video for 'Kaattalan's' song \"Majako Mallika\" has been released, featuring Antony Varghese Pepe and a standout dance by Sunil. Composed by B. Ajaneesh Loknath, the track has sparked varied reactions online, with some praising its energy and others questioning its impact. The film's viral teaser has already built significant anticipation.",
+    "img": "https://static.toiimg.com/photo/msid-128369278,imgsize-69840.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/majako-mallika-out-pushpa-actor-sunil-impresses-with-dance-moves-kattalan-song-gets-mixed-reactions-online/articleshow/128369278.cms",
+    "time": "2026-02-15T02:59:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jansen and Markram deliver as SA decimates NZ",
+    "desc": "The left-arm pacer, with a four-wicket haul, helps the Proteas restrict the Kiwis to 175 for seven; the captain then takes over with an unbeaten 86 to guide his side to its third successive win",
+    "img": "https://th-i.thgim.com/public/incoming/la4dfz/article70634481.ece/alternates/LANDSCAPE_1200/th15-lead-sa-nzG5AFJBM9K.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/south-africa-new-zealand-t20-world-cup-ahmedabad-updates-february-14-2026/article70632376.ece",
+    "time": "2026-02-15T02:51:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India captain SKY mimics Pakistan's Usman Tariq",
+    "desc": "Indian captain Suryakumar Yadav copied Pakistan spinner Usman Tariq’s unusual bowling action during practice before the India vs Pakistan T20 World Cup match, and the video went viral. Rain forced India to train indoors in Colombo. Tariq’s sidearm action and delayed release have made him a major talking point, despite limited experience. Suryakumar called him an “out of syllabus” challenge and said India is preparing special methods to counter him.",
+    "img": "https://static.toiimg.com/photo/msid-128369086,imgsize-48996.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-pak-india-captain-suryakumar-yadav-mimics-pakistan-spinner-usman-tariq-during-india-nets-watch/articleshow/128368886.cms",
+    "time": "2026-02-15T02:47:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ahead of State budget, resident welfare associations demand focus on civic infrastructure",
+    "desc": "The Alliance of Resident Welfare Associations has called on the GCC to allocate funds in the interim Budget for a technical audit and rectification of stormwater drains, restoration of roads, and completion of pending infrastructure works",
+    "img": "https://th-i.thgim.com/public/news/national/su4tot/article70633237.ece/alternates/LANDSCAPE_1200/tnagar.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/ahead-of-state-budget-resident-welfare-associations-demand-focus-on-civic-infrastructure/article70632903.ece",
+    "time": "2026-02-15T02:35:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How is U.S.-India trade deal being tweaked?",
+    "desc": "What are the areas that have come under scrutiny? Has India stopped buying Russian oil as Donald Trump has claimed? What is happening in the agricultural sector? Has the reference to pulses been removed from the draft? When is the formal agreement expected to be signed?",
+    "img": "https://th-i.thgim.com/public/incoming/o5ah8b/article70633261.ece/alternates/LANDSCAPE_1200/India_Protest_65464.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/how-is-us-india-trade-deal-being-tweaked-explained/article70633133.ece",
+    "time": "2026-02-15T02:26:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Will Smith’s Valentine surprisehonors wife, Jada Smith, and family love!",
+    "desc": "Will Smith created a unique Valentine's Day surprise for Jada Pinkett Smith in 2026. He filled a room with life-size pillows of their children and themselves. This gesture celebrated their blended family. Jada shared the heartwarming moment on social media. The couple has navigated a complex journey together. They continue to prioritize family and their enduring bond.",
+    "img": "https://static.toiimg.com/photo/msid-128368583,imgsize-664683.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/will-smith-gifts-customised-life-size-pillows-as-a-valentines-day-surprise-for-jada-smith-heres-why-it-holds-special-value/articleshow/128368529.cms",
+    "time": "2026-02-15T02:18:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nick shares UNSEEN clips from wedding to Priyanka- WATCH",
+    "desc": "Nick Jonas melted hearts this Valentine's Day with a touching tribute to wife Priyanka Chopra, sharing never-before-seen wedding video clips. The romantic gesture, set to his song 'I Need You,' offered fans a nostalgic glimpse into their grand December 2018 celebration. Friends and fans alike praised the beautiful display of their enduring love.",
+    "img": "https://static.toiimg.com/photo/msid-128367972,imgsize-58322.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nick-jonas-calls-priyanka-chopra-his-forever-valentine-shares-unseen-clips-from-wedding-video-watch/articleshow/128367825.cms",
+    "time": "2026-02-15T02:18:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jana Nayagan': No date before April 2026 for Vijay's film",
+    "desc": "Vijay's final film, 'Jana Nayagan,' faces further delays, now pushed past April 30, 2026, according to Canadian distributor York Cinemas. This latest setback follows earlier certification issues. Meanwhile, Vijay's 2016 hit 'Theri' will now re-release on February 20, offering fans a consolation.",
+    "img": "https://static.toiimg.com/photo/msid-128368474,imgsize-63524.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-release-buzz-international-distributor-issues-update-no-date-before-april-2026-for-vijays-film/articleshow/128368474.cms",
+    "time": "2026-02-15T02:16:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'My Lord' box office collections day 2: The film reaches Rs 77 Lakhs",
+    "desc": "Tamil drama 'My Lord,' starring M. Sasikumar, has seen a steady box office start, earning Rs 77 lakhs in its opening two days. The film experienced a positive Saturday uptick in occupancy, particularly in Tamil Nadu. While praised for its satirical instincts and engaging premise, the film's character development and emotional beats were noted as weaknesses in a balanced review.",
+    "img": "https://static.toiimg.com/photo/msid-128368477,imgsize-34364.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/box-office/my-lord-box-office-collections-day-2-m-sasikumar-film-reaches-rs-77-lakhs-stronger-saturday-growth/articleshow/128368479.cms",
+    "time": "2026-02-15T02:12:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about the love story of Brooklyn and Nicola Peltz Beckham",
+    "desc": "Brooklyn and Nicola Peltz Beckham's love story, marked by a whirlwind romance and a lavish wedding, has faced public scrutiny and family rifts. Despite alleged tensions with his parents, Brooklyn remains steadfastly supportive of Nicola, a stance echoed by her father, Nelson Peltz, highlighting their commitment to each other through challenges.",
+    "img": "https://static.toiimg.com/photo/msid-128368421,imgsize-33880.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brooklyn-peltz-beckham-and-nicola-peltz-beckham-from-coachella-meet-cute-to-married-life-in-beverly-hills-luxurious-condo/articleshow/128368394.cms",
+    "time": "2026-02-15T02:10:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Love and its newfangled terms",
+    "desc": "Married couples in India are, reportedly, increasingly opening themselves up to alternative relationship models and structures, often in pursuit of authentic happiness and trust. Perceived for long as conservative, it seems Tamil Nadu is not entirely so. Some of the cities are now accommodating ethical non-monogamy — very simply, a relationship involving many and with consent. Preeti M.S. syncs up with married couples in Tamil Nadu to explore these new trends",
+    "img": "https://th-i.thgim.com/public/incoming/43dlir/article70633270.ece/alternates/LANDSCAPE_1200/TH15_Love.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/love-and-its-newfangled-terms-ethical-non-monogamy-polyamory-open-marriage-in-tn/article70633091.ece",
+    "time": "2026-02-15T01:47:16.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "‘Vadh 2’ day 9 bo: Film reaches Rs 3.6 crore in earnings",
     "desc": "The much-anticipated sequel 'Vadh 2,' featuring the talented duo Sanjay Mishra and Neena Gupta, has made a noteworthy Rs 3.6 crore at the box office. While critics have praised the film for its engaging storyline and brilliant performances, it appears that audience interest is waning as ticket sales have gradually dipped.",
@@ -54,40 +270,13 @@ const newsData_en = [
     "time": "2026-02-15T00:49:24.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'With Love' BO day 8: Film crosses Rs 14 crore India net",
-    "desc": "Romantic entertainer 'With Love' is showing steady box office performance, crossing Rs 14.75 crore India net in eight days. The film's worldwide collection stands at Rs 20.50 crore. While Tamil occupancy shows strong late-day engagement, Telugu market performance is modest. Reviews highlight its reliance on relatable situations, with character-specific humor proving more effective.",
-    "img": "https://static.toiimg.com/photo/msid-128366906,imgsize-50718.cms",
+    "cat": "Sports",
+    "title": "Five battles that could decide the mega T20 WC clash",
+    "desc": "The last time they faced each other in a T20I, Sahibzada Farhan hit Jasprit Bumrah for two sixes in a single game, becoming one of the few international batters to do so. Farhan later featured in an advertorial documentary about those shots in Dubai.",
+    "img": "https://static.toiimg.com/photo/msid-128352125,imgsize-39190.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/with-love-box-office-collections-day-8-anaswara-rajan-film-crosses-rs-14-crore-india-net/articleshow/128366906.cms",
-    "time": "2026-02-15T00:43:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Spa' BO day 2: Adult comedy shows slow growth",
-    "desc": "Abrid Shine's adult comedy 'Spa' showed a slight uptick in box office collections on its second day, earning Rs 9 lakhs worldwide and Rs 5 lakhs net in India. While not a massive commercial success yet, the film's improved performance and mixed-to-decent social media reception are providing some encouragement for its theatrical run.",
-    "img": "https://static.toiimg.com/photo/msid-128366557,imgsize-77912.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/spa-box-office-collections-day-2-abrid-shines-adult-comedy-shows-slow-growth-collects-rs-9-lakhs/articleshow/128366557.cms",
-    "time": "2026-02-15T00:29:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'O' Romeo' crosses Rs 20 crore mark on Valentine's Day",
-    "desc": "'O' Romeo,' starring Shahid Kapoor, has made a strong debut, surpassing Rs 10 crore on its second day. The romantic drama, released for Valentine's Day, collected an estimated Rs 12.25 crore on Saturday, bringing its total to Rs 20.75 crore. The film's worldwide collection stands at Rs 26.6 crore, outperforming other releases.",
-    "img": "https://static.toiimg.com/photo/msid-128366629,imgsize-39060.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/o-romeo-box-office-collection-day-2-shahid-kapoor-starrer-crosses-rs-20-crore-mark-on-valentines-weekend/articleshow/128366543.cms",
-    "time": "2026-02-15T00:24:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Drishyam 3’: Mohanlal's film to have no fan shows",
-    "desc": "Drishyam 3's new exhibition terms in Kerala are a game-changer, mandating four daily shows and a four-week minimum run, even during strikes or low turnout. Distributors secure a significant 60% share in the first week, with a Rs 5 lakh advance required from theaters. This pact, unusual for its strictness, reflects the franchise's immense anticipated draw.",
-    "img": "https://static.toiimg.com/photo/msid-128366282,imgsize-29822.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/drishyam-3-mohanlals-film-to-have-no-fan-shows-mandatory-four-weeks-of-theatre-screening/articleshow/128366282.cms",
-    "time": "2026-02-15T00:06:50.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sahibzada-farhan-vs-jasprit-bumrah-babar-azam-vs-kuldeep-five-battles-that-could-decide-india-vs-pakistan-clash/articleshow/128351782.cms",
+    "time": "2026-02-14T23:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -117,24 +306,6 @@ const newsData_en = [
     "time": "2026-02-14T21:21:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Akshara Singh backs Pawan Singh's wife Jyoti in alimony battle",
-    "desc": "Bhojpuri actress Akshara Singh has come out in support of Jyoti Singh amid her ongoing legal dispute with Bhojpuri actor-politician Pawan Singh. Akshara, who was previously in a relationship with Pawan, said Jyoti’s demand for alimony is completely valid and that society should ensure divorced women receive financial security without any cap.",
-    "img": "https://static.toiimg.com/photo/msid-128361324,imgsize-53846.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/bhojpuri/movies/news/akshara-singh-supports-pawan-singhs-wife-jyoti-singh-in-alimony-battle-even-rs-100-crore-may-not-be-enough/articleshow/128361223.cms",
-    "time": "2026-02-14T20:51:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Prashant Narayanan reacts to AR Rahman’s communal remarks",
-    "desc": "Prashant Narayanan, who is known for his villainous role in Emraan Hashmi starrer Murder 2, has weighed in on the ongoing debate around discrimination in the film industry, saying he was “genuinely hurt” after hearing certain accounts. He added that AR Rahman may have reacted to something personal.",
-    "img": "https://static.toiimg.com/photo/msid-128360810,imgsize-36772.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/prashant-narayanan-reacts-to-ar-rahmans-communal-remarks-discrimination-might-be-happening-but-he-doesnt-want-to-demean-the-country/articleshow/128360761.cms",
-    "time": "2026-02-14T20:19:48.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "West Bengal BJP leadership reaches out to Muslims, says Trinamool has done nothing for minorities",
     "desc": "The remarks by WB BJP president Samik Bhattacharya, which come ahead of the Assembly polls in the State, marks a significant departure from the earlier stand of the saffron party where it did not engage with minorities.",
@@ -153,33 +324,6 @@ const newsData_en = [
     "time": "2026-02-14T19:41:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Ranveer is brave, but he was too eye-catching in Dhurandhar’",
-    "desc": "Prashant Narayanan, who is known for his villainous role in Emraan Hashmi starrer Murder 2, has shared a candid take on Ranveer Singh's Dhurandhar, praising the craft of the film but questioning whether its full potential was realised. Calling it a “well-made film”, Prashant said he expected a stronger impact. Speaking about Ranveer Singh’s performance, Prashant was both appreciative and analytical.",
-    "img": "https://static.toiimg.com/photo/msid-128359079,imgsize-39898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-is-extremely-brave-actor-but-he-was-too-eye-catching-in-dhurandhar-says-prashant-narayanan-addresses-his-previous-remarks/articleshow/128358985.cms",
-    "time": "2026-02-14T19:13:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Love and its newfangled terms",
-    "desc": "Married couples in India are, reportedly, increasingly opening themselves up to alternative relationship models and structures, often in pursuit of authentic happiness and trust. Perceived for long as conservative, it seems Tamil Nadu is not entirely so. Some of the cities are now accommodating ethical non-monogamy — very simply, a relationship involving many and with consent. Preeti M.S. syncs up with married couples in Tamil Nadu to explore these new trends",
-    "img": "https://th-i.thgim.com/public/incoming/43dlir/article70633270.ece/alternates/LANDSCAPE_1200/TH15_Love.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/love-and-its-newfangled-terms-ethical-non-monogamy-polyamory-open-marriage-in-tn/article70633091.ece",
-    "time": "2026-02-14T18:59:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jansen and Markram deliver as SA decimates NZ",
-    "desc": "The left-arm pacer, with a four-wicket haul, helps the Proteas restrict the Kiwis to 175 for seven; the captain then takes over with an unbeaten 86 to guide his side to its third successive win",
-    "img": "https://th-i.thgim.com/public/incoming/rjgbbj/article70633211.ece/alternates/LANDSCAPE_1200/PTI02_14_2026_000852A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/south-africa-new-zealand-t20-world-cup-ahmedabad-updates-february-14-2026/article70632376.ece",
-    "time": "2026-02-14T18:56:00.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "SC to hear plea accusing new data protection law of ‘weaponising’ right to privacy and ‘disarming’ RTI",
     "desc": "The petition submits that Section 44(3) of the Digital Personal Data Protection (DPDP) Act of 2023 has amended the RTI Act to facilitate public authorities to refuse information on the ground that the details sought are of a “personal” nature.",
@@ -187,33 +331,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/sc-to-hear-plea-accusing-new-data-protection-law-of-weaponising-right-to-privacy-and-disarming-rti/article70632877.ece",
     "time": "2026-02-14T18:20:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What’s in store for garment exporters to the U.S.?",
-    "desc": "What has the U.S. promised Bangladesh with respect to textiles? What are the conditions laid down by the U.S. to give Bangladeshi exporters unprecedented access to American markets? What is the assurance that Union Commerce Minister Piyush Goyal gave Indian textile exporters?",
-    "img": "https://th-i.thgim.com/public/incoming/nx6l09/article70633332.ece/alternates/LANDSCAPE_1200/2025-08-07T145208Z_1044761173_RC2H3EACZ6XW_RTRMADP_3_USA-TRUMP-TARIFFS-INDIA-GARMENTS-PIX.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/whats-in-store-for-garment-exporters-to-the-us-explained/article70633290.ece",
-    "time": "2026-02-14T18:13:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ananya Panday shares sweet birthday post for Walker Blanco",
-    "desc": "Ananya Panday has once again set the rumour mill spinning. Months after she was spotted with Walker Blanco at the wedding of Anant Ambani and Radhika Merchant — where some onlookers even claimed she introduced him as her partner — the actress has now shared a heartfelt birthday wish for him.",
-    "img": "https://static.toiimg.com/photo/msid-128357156,imgsize-69174.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ananya-panday-shares-sweet-birthday-post-for-rumoured-boyfriend-walker-blanco-youre-the-best/articleshow/128357072.cms",
-    "time": "2026-02-14T18:00:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How is U.S.-India trade deal being tweaked?",
-    "desc": "What are the areas that have come under scrutiny? Has India stopped buying Russian oil as Donald Trump has claimed? What is happening in the agricultural sector? Has the reference to pulses been removed from the draft? When is the formal agreement expected to be signed?",
-    "img": "https://th-i.thgim.com/public/incoming/o5ah8b/article70633261.ece/alternates/LANDSCAPE_1200/India_Protest_65464.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/how-is-us-india-trade-deal-being-tweaked-explained/article70633133.ece",
-    "time": "2026-02-14T17:52:04.000Z"
   },
   {
     "cat": "Politics",
@@ -270,33 +387,6 @@ const newsData_en = [
     "time": "2026-02-14T16:39:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Aishwarya doesn't need my permission': When Abhishek replied to a troll",
-    "desc": "Abhishek Bachchan defended his wife Aishwarya Rai Bachchan against a troll suggesting she sign more movies, stating she doesn't need his permission. Aishwarya has prioritized motherhood since their daughter Aaradhya's birth in 2011, enjoying being a hands-on mother. Abhishek praised Aishwarya's performance in 'Ponniyin Selvan 2' and highlighted her dedication to their daughter.",
-    "img": "https://static.toiimg.com/photo/msid-128354568,imgsize-23890.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aishwarya-doesnt-need-my-permission-when-abhishek-gave-a-befitting-reply-to-a-troll-netizens-called-husband-goals/articleshow/128354601.cms",
-    "time": "2026-02-14T16:39:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi CM inaugurates statue of RSS founder at east Delhi hospital",
-    "desc": "In a momentous occasion, Delhi CM Rekha Gupta inaugurated a statue of K B Hedgewar, the founder of RSS, in Shahdara, marking the organization's centennial. The statue stands as a beacon of selfless service and national pride, resonating with healthcare workers at Hedgewar Arogya Sansthan Hospital.",
-    "img": "https://static.toiimg.com/photo/msid-128354438,imgsize-1021407.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-cm-inaugurates-statue-of-rss-founder-at-east-delhi-hospital/articleshow/128354161.cms",
-    "time": "2026-02-14T16:26:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Palaash Muchhal’s lawyer says allegations are a ‘personal attack’",
-    "desc": "In a significant development in the Rs 10 crore defamation case filed by music composer and singer Palaash Muchhal, the Bombay High Court has restrained Marathi actor Vidnyan Mane from making defamatory remarks against the composer. The interim relief comes after Muchhal moved the court alleging that Mane made “false” and “outrageous” accusations in the media, which he claimed damaged his reputation.",
-    "img": "https://static.toiimg.com/photo/msid-128353901,imgsize-42698.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/palaash-muchhals-lawyer-calls-hc-order-a-relief-says-allegations-are-a-personal-attack-on-composer-and-his-family/articleshow/128353815.cms",
-    "time": "2026-02-14T16:15:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'You’ll see me play in a World Cup’: Abhishek’s promise to father comes full circle",
     "desc": "After a health scare threatened to derail his World Cup campaign, Abhishek Sharma returns to the spotlight in Colombo. It will be the first time his father Raj Kumar Sharma watches him play a World Cup match from the stands. India will take on Pakistan on February 15 at the R Premadasa Stadium in Colombo.",
@@ -315,15 +405,6 @@ const newsData_en = [
     "time": "2026-02-14T15:40:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Moushumi Chatterjee pinched me,' child actor recalls being traumatised",
-    "desc": "Child actor Raju Shrestha, known as Master Raju, recounted his difficult experiences working with actress Moushumi Chatterjee. He described instances on set where Chatterjee allegedly pinched and physically hurt him to elicit genuine crying for scenes, leaving him traumatized by her actions.",
-    "img": "https://static.toiimg.com/photo/msid-128352735,imgsize-25090.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/moushumi-chatterjee-pinched-me-hit-me-hard-for-a-scene-my-bones-ached-i-was-traumitised-says-former-child-actor-master-raju/articleshow/128352727.cms",
-    "time": "2026-02-14T15:36:24.000Z"
-  },
-  {
     "cat": "Business",
     "title": "CCEA okays Rs 11,000cr for upgrades",
     "desc": "The Centre has greenlit over Rs 11,000 crore in highway projects across Maharashtra, Gujarat, and Telangana. These crucial upgrades, including road widening and new four-lane stretches, aim to significantly boost freight movement and regional connectivity. Projects on NH-160A in Maharashtra, NH-56 in Gujarat, and NH-167 in Telangana are set to enhance industrial links and slash travel times.",
@@ -331,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/infrastructure/cabinet-clears-rs-11000-crore-highway-projects-in-maharashtra-gujarat-telangana/articleshow/128352580.cms",
     "time": "2026-02-14T15:35:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'I kiss my wife, cuddle my daughter': Ranbir on his morning routine",
-    "desc": "Ranbir Kapoor shared intimate details of his morning routine, including kissing wife Alia Bhatt and cuddling daughter Raha. He revealed his mother, Neetu Kapoor, is the best-dressed person. Discussing family dinners, he advised loose clothing due to abundant food. Ranbir also expressed his admiration for the film 'Dhurandhar' and teased upcoming projects like 'Love & War' and 'Ramayana'.",
-    "img": "https://static.toiimg.com/photo/msid-128352322,imgsize-35974.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-kiss-my-wife-cuddle-my-daughter-says-ranbir-kapoor-as-he-reveals-his-morning-routine-with-alia-bhatt-raha-kapoor/articleshow/128352331.cms",
-    "time": "2026-02-14T15:20:13.000Z"
   },
   {
     "cat": "Politics",
@@ -358,24 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/indias-climate-spending-rises-to-5-6-of-gdp-nirmala-sitharaman-says-at-munich/articleshow/128351798.cms",
     "time": "2026-02-14T15:05:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Rekha reacted to marriage rumours with Vinod Mehra",
-    "desc": "Actor Vinod Mehra is remembered for his cinematic contributions, with his personal life, particularly his rumoured relationship with Rekha, often intertwined with his legacy. Their bond, fueled by shared screen space and personal closeness, led to speculation of a secret wedding, though Rekha consistently denied it.",
-    "img": "https://static.toiimg.com/photo/msid-128351843,imgsize-34218.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-rekha-said-vinod-mehra-kissed-her-on-her-birthday-denied-marriage-rumours-with-him-to-his-mother-im-a-badnaam-actress/articleshow/128351855.cms",
-    "time": "2026-02-14T15:03:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anil Kapoor opens up on being insecure as an actor",
-    "desc": "Veteran actor Anil Kapoor, with over 40 years in the industry, continues to thrive by seeking emotional hooks in his roles and a desire to prove himself. He credits Subhash Ghai's 'Meri Jung' for shaping him into a mainstream hero and a lingering insecurity for his sustained energy and drive to deliver quality performances.",
-    "img": "https://static.toiimg.com/photo/msid-128351296,imgsize-30264.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anil-kapoor-opens-up-on-his-insecurity-as-an-actor-and-thats-what-keeps-him-going-i-want-to-be-seen/articleshow/128351306.cms",
-    "time": "2026-02-14T14:43:34.000Z"
   },
   {
     "cat": "World",
@@ -513,15 +567,6 @@ const newsData_en = [
     "time": "2026-02-14T10:26:16.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Hardik inks heartfelt Valentine's Day 'M' tattoo for girlfriend Mahieka – Watch",
-    "desc": "Cricketer Hardik Pandya celebrated his love for girlfriend Mahieka Sharma with a unique tattoo featuring two leopards, symbolizing their strength and partnership. This meaningful ink, conceptualized with artists, marks a special Valentine's surprise. Pandya also showcased his prowess on the field, delivering a stellar performance against Namibia with both bat and ball, earning him Player of the Match.",
-    "img": "https://static.toiimg.com/photo/msid-128343650,imgsize-827027.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/hardik-pandya-inks-heartfelt-valentines-day-m-tattoo-for-girlfriend-mahieka-watch/articleshow/128343222.cms",
-    "time": "2026-02-14T10:24:09.000Z"
-  },
-  {
     "cat": "World",
     "title": "Carney visits memorial to victims of Canada mass shooting",
     "desc": "Canadian leaders gathered in Tumbler Ridge, British Columbia, to honour victims of one of the country’s worst mass shootings. Police say 18-year-old Jesse Van Rootselaar killed two family members before attacking a former school in the small mountain community.",
@@ -558,15 +603,6 @@ const newsData_en = [
     "time": "2026-02-14T08:57:35.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Considering retirement at 28, Shadley is now top wicket-taker at 2026 T20 WC",
-    "desc": "Shadley van Schalkwyk has been the standout bowler at the T20 World Cup 2026, leading the wicket charts with 11 wickets in three matches. The USA all-rounder impressed against India and Pakistan, using smart variations to pick key wickets. His resurgence comes after years of struggles, injuries, and career setbacks, which shaped his mental toughness. Now 37, Schalkwyk is enjoying peak form and inspiring USA’s strong campaign.",
-    "img": "https://static.toiimg.com/photo/msid-128339448,imgsize-24304.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/from-considering-retirement-at-28-to-topping-t20-world-cup-2026-wicket-tally-shadley-van-schalkwyks-second-act/articleshow/128338720.cms",
-    "time": "2026-02-14T07:59:24.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Consumers to buy and sell electricity! DERC greenlights peer-to-peer power trading pilot",
     "desc": "Delhi is set to revolutionize electricity consumption with a new framework enabling peer-to-peer energy trading. Prosumers with rooftop solar can now sell surplus power directly to other users, transforming homes into mini power plants. This pilot project, launching soon, aims to create a consumer-centric, digitally governed energy ecosystem.",
@@ -574,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/consumers-to-buy-and-sell-electricity-derc-greenlights-peer-to-peer-power-trading-pilot/articleshow/128337717.cms",
     "time": "2026-02-14T07:28:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Bigger threat than any': Ali warns Pakistan ahead of India match",
-    "desc": "Former England all-rounder Moeen Ali warned Pakistan that India’s spinners, especially Kuldeep Yadav and Varun Chakravarthy, could be a major threat in the T20 World Cup clash. India received a festive welcome in Colombo, with Arshdeep Singh’s dance going viral. The team will rely on key batters like Hardik Pandya, Ishan Kishan and Tilak Varma, while Varun could be crucial on spin-friendly pitches.",
-    "img": "https://static.toiimg.com/photo/msid-128337652,imgsize-322665.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-pak-bigger-threat-than-any-moeen-ali-warns-pakistan-ahead-of-t20-world-cup-clash-against-india/articleshow/128337652.cms",
-    "time": "2026-02-14T07:12:13.000Z"
   },
   {
     "cat": "Business",
@@ -630,15 +657,6 @@ const newsData_en = [
     "time": "2026-02-14T04:56:14.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Chaos, courts, and kickoff: The ISL season that almost wasn’t",
-    "desc": "After months of administrative chaos, legal battles and uncertainty, the 2025–26 Indian Super League (ISL) season finally begins five months late. Despite disputes over league structure and governance, clubs, players and stakeholders ensured the competition survived. Yet unresolved issues, including relegation and ongoing legal challenges, mean the drama off the pitch may continue alongside the football.",
-    "img": "https://static.toiimg.com/photo/msid-128333543,imgsize-18368.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/news/isl-season-preview-better-late-than-never-indian-football-resets-for-a-truncated-season/articleshow/128333392.cms",
-    "time": "2026-02-14T04:07:39.000Z"
-  },
-  {
     "cat": "World",
     "title": "In Dhaka, a new dawn and a gathering storm",
     "desc": "The Bangladesh Nationalist Party is set to form the government in Dhaka after a landslide victory, but jubilation is also palpable at the Jamaat-e-Islami headquarters, as the party-led alliance has secured 77 seats. As the country prepares for its first elected government since Prime Minister Sheikh Hasina’s ouster in August 2024, the road ahead remains fraught with challenges",
@@ -664,15 +682,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/consumers-get-a-raw-deal-as-global-oil-price-fall-benefit-remains-frozen/article70628176.ece",
     "time": "2026-02-14T03:10:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India, Pakistan to hold separate training sessions ahead of T20 WC clash",
-    "desc": "India and Pakistan will train at different times in Colombo before their T20 World Cup clash, with both teams also holding media interactions. Team India received a festive welcome, with Arshdeep Singh’s dance going viral. India will rely on key players like Hardik Pandya, Ishan Kishan, and Tilak Varma, while Varun Chakravarthy could be crucial on spin-friendly Sri Lankan pitches.",
-    "img": "https://static.toiimg.com/photo/msid-128331666,imgsize-31224.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-pak-india-pakistan-to-hold-separate-training-sessions-ahead-of-mega-t20-world-cup-clash/articleshow/128331449.cms",
-    "time": "2026-02-14T02:51:11.000Z"
   },
   {
     "cat": "Tech",
@@ -709,6 +718,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/stopping-border-killings-ganga-waters-treaty-renewal-hasinas-presence-in-india-to-be-priority-for-incoming-bnp-government/article70629783.ece",
     "time": "2026-02-13T20:26:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arundhati Roy withdraws from Berlin Film Festival amid Gaza row",
+    "desc": "Her statement comes after jury president Wim Wenders’ response to a question on Gaza at a press conference, where he stated, “We cannot really enter the field of politics,” calling filmmakers “the counterweight to politics”",
+    "img": "https://th-i.thgim.com/public/incoming/7n3jyx/article70630165.ece/alternates/LANDSCAPE_1200/Arundhati%20Roy%203.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/arundhati-roy-withdraws-from-berlin-film-festival-amid-gaza-row/article70630162.ece",
+    "time": "2026-02-13T20:26:05.000Z"
   },
   {
     "cat": "Tech",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/art/marina-abramovic-at-the-kochi-biennale-on-endurance-controversy-and-performance-art/article70618532.ece",
     "time": "2026-02-13T09:34:57.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "A striking political debut in Bangladesh’s history",
-    "desc": "The chairman of the Bangladesh Nationalist Party, who returned to the country from a self-imposed exile in London, is ready to make a striking political debut after the party’s historic victory in the elections held on February 12, 2026",
-    "img": "https://th-i.thgim.com/public/incoming/wvz5n5/article70627049.ece/alternates/LANDSCAPE_1200/Bangladesh_Election_03201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/tarique-rahman-leads-bangladesh-national-party-to-victory-after-20-years/article70627018.ece",
-    "time": "2026-02-13T09:34:42.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Hello Kitty designer bows out after 40 years in charge",
-    "desc": "Yuko Yamaguchi has been responsible since 1980 for the design of Kitty, who is officially not a cat but a little girl from London, overseeing her rise to the epitome of Japan's \"kawaii\" — cute — soft power",
-    "img": "https://th-i.thgim.com/public/incoming/dk7ljp/article70627210.ece/alternates/LANDSCAPE_1200/AFP__20241030__36KF43E__v1__HighRes__UsJapanLifestyleBusinessCultureKitty.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/hello-kitty-designer-bows-out-after-40-years-in-charge/article70627196.ece",
-    "time": "2026-02-13T05:41:13.000Z"
   }
 ];
