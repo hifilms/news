@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "বিএনপি সরকারের শপথে ভারত! ওম বিরলা যাচ্ছেন ঢাকায়, মোদী-তারেক কথোপকথনে নতুন ইঙ্গিত",
+    "desc": "বাংলাদেশের প্রধানমন্ত্রী নির্বাচিত ও বিএনপি প্রধান তারেক রহমান-এর শপথগ্রহণ অনুষ্ঠানে ভারতের পক্ষ থেকে প্রতিনিধিত্ব করবেন লোকসভার স্পিকার ওম বিরলা। আগামী মঙ্গলবার, ১৭ ফেব্রুয়ারি ২০২৬ ঢাকায় এই শপথ অনুষ্ঠান অনুষ্ঠিত হবে বলে জানিয়েছে ভারতের বিদেশ মন্ত্রক।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Bangladesh-Oath-Ceremony-2026-02-dca1bb0bcead9b28f2e4f4ce61233092-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/bangladesh-oath-ceremony-om-birla-to-represent-india-at-tarique-rahman-swearing-in-dhaka-bnp-government-2026-sal-2541552.html",
+    "time": "2026-02-15T12:52:40.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ভারত-পাক ম্যাচ বৃষ্টিতে বাতিল হলে কী হবে? কোন দল যাবে বিশ্বকাপের সুপার এইটে? ভারত নাকি পাকিস্তান, জেনে নিন",
     "desc": "A গ্রুপে পয়েন্ট তালিকায় শীর্ষে এখন ভারত। দুইয়ে পাকিস্তান। দুই দলেরই পয়েন্ট সমান, তবে নেট রান রেটে এগিয়ে ভারত। ফলে পাঁচ পয়েন্টে দুই দল থাকলেও নেট রান রেটের বিচারে সুপার এইটে যাওয়ার দৌড়ে এগিয়ে ভারতীয় দল।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/govinda-manager-shashi-sinha-self-defense-incident-clarification_639916.html ",
     "time": "2026-02-06T12:51:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "নিষ্ক্রিয় হয়ে যেতে পারে আপনার আধার কার্ড! কী করবেন? ধাপে ধাপে জেনে নিন!",
-    "desc": "সম্প্রতি বিপুল সংখ্যক আধার নম্বর নিষ্ক্রিয় হওয়ার পর সাধারণ মানুষের মধ্যে উদ্বেগ ও বিভ্রান্তি তৈরি হয়েছে। কবে এবং কোন পরিস্থিতিতে আধার নিষ্ক্রিয় হতে পারে, দীর্ঘদিন ব্যবহার না করলে আদৌ কোনও সমস্যা হয় কি না, অথবা নিষ্ক্রিয় হয়ে গেলে কী করণীয়—এই সব প্রশ্নের উত্তর জানতেই গুরুত্বপূর্ণ হয়ে উঠেছে আধার সংক্রান্ত নিয়ম ও প্রক্রিয়া।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/adhaar-card-rules-5-2026-02-2731086a363f997422b05ab6c42a5c6c-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/aadhaar-card-might-be-deactivated-soon-here-is-what-to-do-step-by-step-guide-follow-no-tension-tib-ws-e-2529184.html",
-    "time": "2026-02-06T12:48:20.000Z"
   }
 ];

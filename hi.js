@@ -1,74 +1,92 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Suryakumar Yadav to avoid shaking hands with Salman Ali Agha at toss in T20 World Cup 2026",
-    "desc": "Team India players will not be shaking hands with the Pakistan cricketers today in the T20 World Cup clash. India skipper Suryakumar Yadav had kept the suspense in the pre-match press conference, asking the reporters...",
+    "title": "Ishan Kishan misses Virat Kohli's legendary record, despite flamboyant show vs Pakistan in T20 World Cup 2026",
+    "desc": "Keeper-batter Ishan Kishan lit up the R Premadasa Stadium in Colombo with a blistering display against arch-rivals Pakistan. Opening the innings for India, he hammered 77 off just 40 balls, laying a strong foundation for...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-suryakumar-yadav-to-avoid-shaking-hands-with-salman-ali-agha-at-toss-in-t20-world-cup-2026-2026-02-15-1030368",
-    "time": "2026-02-15T10:48:52.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-misses-virat-kohli-s-legendary-record-despite-flamboyant-show-vs-pakistan-in-t20-world-cup-2026-2026-02-15-1030397",
+    "time": "2026-02-15T15:00:48.000Z"
   },
   {
     "cat": "Sports",
-    "title": "When and where to watch T20 World Cup 2026 clash live on TV and stream online?",
-    "desc": "After nearly a month-long drama, Pakistan have finally decided to show up for the clash against India on February 15 at the R Premadasa Stadium in Colombo. Bangladesh’s sudden exit led to the PCB engaging...",
+    "title": "Grandfather approves girlfriend Aditi Hundia for marriage",
+    "desc": "As Team India gears up for a high-stakes T20 match against Pakistan on February 15, excitement off the field swirls around opener Ishan Kishan's personal life. The Bihar lad's grandfather, Anurag Pandey, gave his hearty...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-pakistan-when-and-where-to-watch-t20-world-cup-2026-clash-live-on-tv-and-stream-online-2026-02-15-1030363",
-    "time": "2026-02-15T10:29:56.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-set-for-wedding-bells-grandfather-anurag-pandey-approves-girlfriend-model-aditi-hundia-for-marriage-watch-video-2026-02-15-1030396",
+    "time": "2026-02-15T14:57:27.000Z"
   },
   {
     "cat": "Sports",
-    "title": "India A women maul Pakistan in Asia Cup Rising Stars to open account in tournament",
-    "desc": "India A women mauled Pakistan A in their second fixture in the Asia Cup Rising Stars to open their account in the tournament. Skipper Radha Yadav led a dominant show with the ball, while Dinesh...",
+    "title": "Abhishek Sharma joins unwanted list after duck in IND vs PAK T20 World Cup 2026 clash",
+    "desc": "Abhishek Sharma bagged a four-ball duck in India's crucial T20 World Cup 2026 clash against Pakistan at the R Premadasa Stadium in Colombo as the opener failed to impress. Abhishek was dismissed in the first over...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-a-women-maul-pakistan-in-asia-cup-rising-stars-to-open-account-in-tournament-2026-02-15-1030359",
-    "time": "2026-02-15T10:20:58.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-joins-unwanted-list-after-duck-in-ind-vs-pak-t20-world-cup-2026-clash-2026-02-15-1030394",
+    "time": "2026-02-15T14:26:39.000Z"
   },
   {
     "cat": "Sports",
-    "title": "West Indies march into Super Eight stage with dominant win over Nepal in Mumbai",
-    "desc": "The 25th game of the ongoing T20 World Cup 2026 saw Nepal taking on the West Indies. The two sides took on each other at the Wankhede Stadium in Mumbai on February 15. The clash...",
+    "title": "Why is Fakhar Zaman not playing vs India in T20 World Cup 2026?",
+    "desc": "Despite being one of the most sought-after players, particularly in white-ball cricket, Fakhar Zaman has failed to find a place in the high-voltage clash against India in the T20 World Cup 2026. Pakistan have trusted...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-march-into-super-eight-stage-with-dominant-win-over-nepal-in-mumbai-2026-02-15-1030352",
-    "time": "2026-02-15T08:59:22.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-fakhar-zaman-not-playing-vs-india-in-t20-world-cup-2026-2026-02-15-1030392",
+    "time": "2026-02-15T14:14:31.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Bumrah-Arshdeep vs Shaheen-Mirza, which pacers have better stats?",
-    "desc": "India and Pakistan are all set to take on each other in game 27 of the ongoing T20 World Cup 2026. The two sides will gather at the R. Premadasa Stadium in Colombo on February...",
+    "title": "Is Usman Tariq's bowling action legal? ICC rules explained as India meet Pakistan in T20 World Cup 2026",
+    "desc": "Usman Tariq and his bowling action were a major talking point leading into the India-Pakistan T20 World Cup 2026 clash at the R Premadasa Stadium in Colombo. The Pakistani skipper has hogged the limelight, with...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-t20i-squad-comparison-bumrah-arshdeep-vs-shaheen-mirza-which-pacers-have-better-stats-2026-02-15-1030347",
-    "time": "2026-02-15T08:35:19.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/is-usman-tariqs-bowling-action-legal-icc-rules-explained-as-india-meet-pakistan-in-t20-world-cup-2026-2026-02-15-1030390",
+    "time": "2026-02-15T13:43:02.000Z"
   },
   {
     "cat": "Sports",
-    "title": "India dominate Pakistan, register eight-wicket win",
-    "desc": "India A women and Pakistan A women take on each other in game 6 of the ongoing Women's Asia Cup Rising Stars 2026. The two sides gather at the Terdthai Cricket Ground, Bangkok, for the clash,...",
+    "title": "Why is Virat Kohli not playing vs Pakistan in T20 World Cup 2026 clash in Colombo?",
+    "desc": "To all the casual cricket fans, it’s with a heavy heart that we share that Virat Kohli retired from the T20 World Cup after the 2024 edition, which is why you won’t see him on...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-a-women-vs-pak-a-women-live-cricket-score-arch-rivals-lock-horns-in-bangkok-1030332",
-    "time": "2026-02-15T06:17:54.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-virat-kohli-not-playing-vs-pakistan-in-t20-world-cup-2026-clash-in-colombo-2026-02-15-1030389",
+    "time": "2026-02-15T13:11:58.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Dinesh Karthik opens up on challenges Suryakumar Yadav could face against Pakistan in Colombo",
-    "desc": "The stage is set for game 27 of the ongoing T20 World Cup 2026; India and Pakistan take on each other at the R. Premadasa Stadium in Colombo on February 15. With the two sides...",
+    "title": "Why is Mohammad Rizwan not playing vs India in T20 World Cup 2026?",
+    "desc": "Pakistan have left out senior batter Mohammad Rizwan from their T20 World Cup 2026 squad. The keeper-batter was dropped from the squad after a series of poor performances in the previous edition of the marquee...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dinesh-karthik-opens-up-on-challenges-suryakumar-yadav-could-face-against-pakistan-in-colombo-2026-02-15-1030330",
-    "time": "2026-02-15T06:04:18.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-mohammad-rizwan-not-playing-vs-india-in-t20-world-cup-2026-2026-02-15-1030387",
+    "time": "2026-02-15T13:07:49.000Z"
   },
   {
     "cat": "Sports",
-    "title": "New Zealand's Lockie Ferguson granted parental leave, set to miss Canada clash",
-    "desc": "In a major development for New Zealand Cricket, the side’s star bowler, Lockie Ferguson, has officially been granted parental leave. It is worth noting that Ferguson and his wife Emma are expecting the birth of...",
+    "title": "Why is Arshdeep Singh not playing in IND vs PAK T20 World Cup 2026 clash?",
+    "desc": "Arshdeep Singh was excluded as India take on Pakistan in their T20 World Cup 2026 clash at the R Premadasa Stadium in Colombo. With eyes on the Super Eight stage, India take on arch-rivals Pakistan...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-s-lockie-ferguson-granted-parental-leave-set-to-miss-canada-clash-2026-02-15-1030324",
-    "time": "2026-02-15T04:35:43.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-arshdeep-singh-not-playing-in-ind-vs-pak-t20-world-cup-2026-clash-explained-2026-02-15-1030384",
+    "time": "2026-02-15T13:07:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Sanju Samson not playing in IND vs PAK T20 World Cup 2026 clash?",
+    "desc": "Sanju Samson missed out as India take on Pakistan in their crucial T20 World Cup 2026 clash at the R Premadasa Stadium in Colombo. India, the T20 defending champions, look for their third consecutive win...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-sanju-samson-not-playing-in-ind-vs-pak-t20-world-cup-2026-clash-explained-2026-02-15-1030377",
+    "time": "2026-02-15T13:05:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryakumar Yadav avoids handshake with Pakistan captain Salman Agha in T20 World Cup 2026",
+    "desc": "Suryakumar Yadav once again declined to shake hands with the Pakistan captain Salman Ali Agha, during the high-voltage clash at the T20 World Cup 2026. The controversy had first surfaced during the Asia Cup 2025,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-suryakumar-yadav-avoids-handshake-with-pakistan-captain-salman-agha-in-t20-world-cup-2026-2026-02-15-1030386",
+    "time": "2026-02-15T13:04:23.000Z"
   }
 ];

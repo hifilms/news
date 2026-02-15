@@ -1,6 +1,186 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Study flags steady drop in Kerala’s southwest, northeast monsoon rainfall",
+    "desc": "‘Kerala’s average rainfall during the southwest (June-September) and northeast (October-December) monsoons, the State’s primary sources of precipitation, decreased by 12.5% and 6.1% of the long-period average (LPA, 1971–2020) per 100 years, respectively, between 1901 and 2025’",
+    "img": "https://th-i.thgim.com/public/incoming/pyxvg5/article70635900.ece/alternates/LANDSCAPE_1200/11073_15_2_2026_19_22_33_1_16KZ1_RAINFALL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/study-flags-steady-drop-in-keralas-southwest-northeast-monsoon-rainfall/article70635871.ece",
+    "time": "2026-02-15T15:12:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pinarayi will be Kerala CM again, says Congress leader Mani Shankar Aiyar",
+    "desc": "He asks the LDF government to ‘pick up the baton that the Congress has dropped’ and shoulder the responsibility of taking Panchayati Raj forward in the country. While addressing an international conference organised by the State Planning Board, he criticised the absence of his party colleagues at the meet",
+    "img": "https://th-i.thgim.com/public/incoming/8bvuxs/article70635825.ece/alternates/LANDSCAPE_1200/NH15Vision04.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/pinarayi-will-be-kerala-cm-again-says-congress-leader-mani-shankar-aiyar/article70635824.ece",
+    "time": "2026-02-15T15:05:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Budget avoided populism, focused on productive capex to power ‘Reform Express’: PM Modi",
+    "desc": "Prime Minister Modi highlighted the Union Budget's focus on productive spending and record infrastructure outlays, steering clear of populism for sustainable growth. He emphasized plugging structural gaps, pursuing reforms, and laying foundations for a developed India, marking the 'next level' of the nation's journey. The Budget prioritizes long-term assets over short-term gains.",
+    "img": "https://static.toiimg.com/photo/msid-128386942,imgsize-893387.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-27-avoided-populism-focused-on-productive-capex-to-power-reform-express-pm-modi/articleshow/128386755.cms",
+    "time": "2026-02-15T15:01:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "HRD Minister Lokesh expresses solidarity with ‘kova bun’ vendor",
+    "desc": "Reacting to the viral video clip wherein the vendor from Kurnool district was allegedly forced by a group of YouTubers at Medaram Jatara to eat the delicacy he prepared to prove he was not resorting to ‘food jihad’, the HRD Minister, while expressing regret, says he looks forward to meeting Brother Vali and tasting the famous bun",
+    "img": "https://th-i.thgim.com/public/incoming/b8rrv2/article70635774.ece/alternates/LANDSCAPE_1200/10745_19_1_2026_20_34_48_2_IMG_20260119_WA0151.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/hrd-minister-lokesh-expresses-solidarity-with-kova-bun-vendor/article70635223.ece",
+    "time": "2026-02-15T14:17:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold, Silver likely to consolidate amid Fed rate-cut uncertainty: Analysts",
+    "desc": "Precious metal prices are set for continued volatility and consolidation as investors await crucial US economic data, including inflation and GDP figures. Market watchers are closely observing Federal Reserve signals for potential rate cut timelines. Gold experienced a sharp correction in February, influenced by stronger US employment data, while silver futures saw a decline.",
+    "img": "https://static.toiimg.com/photo/msid-128385749,imgsize-43200.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-likely-to-consolidate-amid-fed-rate-cut-uncertainty-analysts/articleshow/128385620.cms",
+    "time": "2026-02-15T14:17:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Monank, Sanjay make merry as USA crushes Namibia",
+    "desc": "With back-to-back victories, USA finished the group stage on four points and are on third place behind India and Pakistan as they remain in contention for a place in the next round from Group A, though they will depend on other results",
+    "img": "https://th-i.thgim.com/public/incoming/jsv1sh/article70635190.ece/alternates/LANDSCAPE_1200/DSC_0121A.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/usa-vs-namibia-group-stage-match-t20-world-cup-updates/article70634963.ece",
+    "time": "2026-02-15T14:06:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijender Singh comes in support of Rajpal amidst his cheque bounce case",
+    "desc": "Actor Rajpal Yadav, facing legal troubles over a debt case, has received support from colleagues. Boxer-turned-actor Vijender Singh has offered Yadav a role in his upcoming film, emphasizing solidarity over financial aid. This gesture follows similar support from Sonu Sood, who also offered monetary assistance and a film role.",
+    "img": "https://static.toiimg.com/photo/msid-128384955,imgsize-26918.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-salman-khan-sonu-sood-vijender-singh-comes-in-support-of-rajpal-yadav-amidst-his-cheque-bounce-case-offers-him-his-next-film-/articleshow/128384882.cms",
+    "time": "2026-02-15T13:43:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Salman Agha stuns India! Abhishek falls for four-ball duck in first over vs Pakistan",
+    "desc": "Abhishek Sharma's T20 World Cup struggles persisted as he was dismissed for a duck against Pakistan, caught by the captain himself in the opening over. This follows an earlier duck against the USA, raising concerns about his form. Despite a previous hospitalization, he was included in the playing XI for the crucial match.",
+    "img": "https://static.toiimg.com/photo/msid-128384850,imgsize-93792.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/salman-ali-agha-stuns-india-abhishek-sharma-falls-for-four-ball-duck-in-first-over-vs-pakistan/articleshow/128384870.cms",
+    "time": "2026-02-15T13:43:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Arippa protesters urge Kerala government to halt collection of rubber tree dues",
+    "desc": "Demand ahead of proposed title deed distribution intended to resolve long-standing Arippa land struggle. Notice issued to families living on revenue land, according to which they have to pay for rubber and miscellaneous trees standing on plots they currently occupy",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/arippa-protesters-urge-kerala-government-to-halt-collection-of-rubber-tree-dues/article70635430.ece",
+    "time": "2026-02-15T13:35:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "The charm of an India-Pakistan cricket contest has died but whose loss is it anyway?",
+    "desc": "The India-Pakistan clash in the T20 World Cup was never truly in doubt, driven by the subcontinent’s fragile cricket economy and high financial stakes. Pakistan’s pullout threat lacked substance, while Bangladesh’s missteps escalated tensions. Ultimately, economic realities, legal obligations, and survival instincts forced a compromise, restoring focus on the game over political posturing.",
+    "img": "https://static.toiimg.com/photo/msid-128384629,imgsize-173442.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/calling-the-bluff-the-charm-of-an-india-pakistan-cricket-contest-has-died-but-whose-loss-is-it-anyway/articleshow/128384627.cms",
+    "time": "2026-02-15T13:33:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Focus less on margins': PM Modi says private sector 'critical' for Viksit Bharat, offers strong advise",
+    "desc": "Prime Minister Narendra Modi emphasized the private sector's crucial role in India's economic future, urging bold investments in innovation and capacity. He highlighted his government's commitment to reforms and decisive governance, while also stressing the need for the private sector to share productivity gains with workers and invest in R&D and quality.",
+    "img": "https://static.toiimg.com/photo/msid-128384597,imgsize-800501.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/focus-less-on-margins-share-gains-fairly-with-workers-pms-strong-advise-to-pvt-sector/articleshow/128384418.cms",
+    "time": "2026-02-15T13:31:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "LJP(RV) protests RJD MLA’s comment against Ram Vilas Pawan, burns Tejashwi Yadav's effigy",
+    "desc": "Protesters called the RJD anti-Dalit and burnt the effigy of RJD's national working president, Tejashwi Yadav. RJD MLA from Bodh Gaya Constituency, Kumar Sarvjeet, had on February 11 described LJP founder and former Union Minister Ram Vilas Paswan as a \"Bechara\" (pitiable) in the context of his political journey",
+    "img": "https://th-i.thgim.com/public/incoming/l05y8k/article70635495.ece/alternates/LANDSCAPE_1200/20260215148L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/ljprv-protests-rjd-mlas-comment-against-ram-vilas-pawan-burns-tejashwi-yadavs-effigy/article70635438.ece",
+    "time": "2026-02-15T13:24:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-UK trade agreement likely to come into force in April: Report",
+    "desc": "India and the UK's free trade agreement, signed last year, is slated for implementation by April 2026. This pact promises 99% duty-free access for Indian exports to Britain, while India will lower tariffs on cars and whisky. Parliamentary approval is currently underway in the UK, paving the way for enhanced bilateral trade.",
+    "img": "https://static.toiimg.com/photo/msid-128384374,imgsize-470556.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-uk-trade-agreement-likely-to-come-into-force-in-april-report/articleshow/128384095.cms",
+    "time": "2026-02-15T13:21:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala Judicial Academy to update infra facilities to train its first-ever visually challenged trainee judge",
+    "desc": "The changes are being proposed to support C. Thanya Nathan, a person with no light perception, who was ranked first in the merit list of persons with benchmark disabilities in the recently held judicial service examination for the selection of Civil Judges (Junior Division)",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-judicial-academy-to-update-infra-facilities-to-train-its-first-ever-visually-challenged-trainee-judge/article70635338.ece",
+    "time": "2026-02-15T13:17:36.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "India ‘very successful’ emerging economy; right place to host AI summit: UN Chief Guterres",
+    "desc": "Mr. Guterres asserted “it would be totally unacceptable that AI would be just a privilege of the most developed countries or a division only between two superpowers”, an apparent reference to the U.S. and China",
+    "img": "https://th-i.thgim.com/public/incoming/oi1mkc/article70634556.ece/alternates/LANDSCAPE_1200/Italy_Africa_Summit_85379.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/india-very-successful-emerging-economy-right-place-to-host-ai-summit-un-chief-guterres/article70634551.ece",
+    "time": "2026-02-15T13:14:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's stance against Pak continues despite calls for 'spirit'",
+    "desc": "India's captain Suryakumar Yadav and Pakistan's skipper Salman Ali Agha skipped the customary handshake at the T20 World Cup toss in Colombo. This continues India's stance, observed since the Asia Cup 2025, sparking debate. While Pakistan expressed openness to the gesture, India's captain remained non-committal, emphasizing a focus on cricket.",
+    "img": "https://static.toiimg.com/photo/msid-128383998,imgsize-38918.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/no-handshake-at-toss-indias-stance-against-pakistan-continues-in-t20-world-cup-despite-calls-for-spirit/articleshow/128382443.cms",
+    "time": "2026-02-15T13:10:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "USA keep Super 8 hopes alive with 31-run win over Namibia",
+    "desc": "USA secured a commanding 31-run victory over Namibia, keeping their Super 8 ambitions alive. Shadley van Schalkwyk's two wickets were crucial as Namibia fell short of the 200-run target. Earlier, half-centuries from Monank Patel and Sanjay Krishnamurthi powered USA to a strong total.",
+    "img": "https://static.toiimg.com/photo/msid-128384055,imgsize-155050.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-usa-keep-super-8-hopes-alive-with-31-run-win-over-namibia/articleshow/128384077.cms",
+    "time": "2026-02-15T13:10:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rijiju sets March 9 debate on no-confidence against Om Birla; Nehru’s 1954 message resurfaces",
+    "desc": "Parliamentary Affairs Minister Kiren Rijiju announced that the Lok Sabha will debate and vote on a no-confidence motion against the Speaker on March 9. This follows a submission by 118 Congress MPs alleging partisan conduct. Historically, such motions against Speakers are rare, with past instances including those against GV Mavalankar, Sardar Hukum Singh, and Balram Jakhar.",
+    "img": "https://static.toiimg.com/photo/msid-128383618,imgsize-1320718.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rijiju-sets-march-9-debate-on-no-confidence-against-om-birla-nehrus-1954-message-resurfaces/articleshow/128383646.cms",
+    "time": "2026-02-15T12:55:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mrunal Thakur REACTS to marriage rumours with Dhanush",
+    "desc": "Mrunal Thakur recently reacted to rumours of her marriage with Dhanush, calling them amusing. She said love will happen when the time is right and joked, “Woh to shaadi ho rahi hai.” Mrunal added she had to hire a PR team after her address leaked and thanked those “spreading fake rumours” for free publicity.",
+    "img": "https://static.toiimg.com/photo/msid-128383128,imgsize-45374.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mrunal-thakur-reacts-to-marriage-rumours-with-dhanush-thanks-those-spreading-fake-news/articleshow/128383128.cms",
+    "time": "2026-02-15T12:38:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP's Suvendu Adhikari flags border security concerns in Bengal after Bangladesh polls",
+    "desc": "The BJP leader in his post in Bengali alleged that the ruling Trinamool Congress government in the State has repeatedly failed to extend full cooperation in land acquisition needed by the BSF for border fencing",
+    "img": "https://th-i.thgim.com/public/incoming/ivt0nc/article70635312.ece/alternates/LANDSCAPE_1200/20260206433L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/bjps-suvendu-adhikari-flags-border-security-concerns-in-bengal-after-bangladesh-polls/article70635285.ece",
+    "time": "2026-02-15T12:35:30.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Security agencies freeze 8,000+ mule accounts in J&amp;K; officials flag funds may be exploited for anti-national activities",
     "desc": "Jammu and Kashmir security agencies have frozen over 8,000 mule accounts in three years, identifying them as crucial for global scam networks and potential funding of anti-national activities. These accounts facilitate the conversion of stolen money into untraceable cryptocurrency, with authorities urging banks and law enforcement to curb their rise and identify \"mulers\" who manage them.",
     "img": "https://static.toiimg.com/photo/msid-128382239,imgsize-980359.cms",
@@ -88,15 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/global-cues-ai-disruption-fears-to-steer-markets-this-week-analysts/articleshow/128380413.cms",
     "time": "2026-02-15T11:08:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rijiju warns Opposition against disruption, says govt. will table ‘critical’ Bill in second half of Budget Session",
-    "desc": "Kiren Rijiju says the Lok Sabha will debate on the no-confidence motion moved against the Speaker on March 9; he says the government will “go for the guillotine” if the Opposition does not let the House to function",
-    "img": "https://th-i.thgim.com/public/incoming/y5z99l/article70634685.ece/alternates/LANDSCAPE_1200/PTI02_07_2026_000045A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/debate-vote-on-motion-to-remove-birla-to-be-taken-up-on-march-9-rijiju/article70634682.ece",
-    "time": "2026-02-15T11:06:59.000Z"
   },
   {
     "cat": "Politics",
@@ -252,15 +423,6 @@ const newsData_en = [
     "time": "2026-02-15T09:33:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Sasikala to continue her consultations with her followers on finalising strategy for 2026 T.N. Assembly poll",
-    "desc": "The purpose of Ms. Sasikala’s ongoing discussion is to finalise her camp’s strategy for the 2026 Assembly election; she has planned to hold discussion up to February 18, says her follower who is a former legislator.",
-    "img": "https://th-i.thgim.com/public/incoming/vmi5w5/article70634675.ece/alternates/LANDSCAPE_1200/10217_30_10_2025_16_34_51_2_DSC_5663.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/sasikala-to-continue-her-consultations-with-her-followers-on-finalising-strategy-for-2026-tn-assembly-poll/article70632959.ece",
-    "time": "2026-02-15T09:28:08.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "18,000 Indians, 12,000 Pakistanis, and 2,000 SL police: Scale of India-Pak showdown",
     "desc": "Tens of thousands of Indian and Pakistani fans have converged on Colombo for the high-voltage India-Pakistan clash, turning the city into a fortress with massive security deployment. Beyond politics and critique, the match has energised local livelihoods, packed the stadium to capacity and reaffirmed why this rivalry remains cricket’s most powerful spectacle.",
@@ -297,15 +459,6 @@ const newsData_en = [
     "time": "2026-02-15T08:30:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Himanta",
-    "desc": "Assam Chief Minister Himanta Biswa Sarma announced that the state government will ink a pact with the Civil Aviation Ministry to carry out a study to construct four more airports at Majuli, Diphu, Umrangso and Manas",
-    "img": "https://th-i.thgim.com/public/incoming/7fyrb5/article70634750.ece/alternates/LANDSCAPE_1200/TH14-Karmakar-CG14FJAMUA.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/assam/assam-government-has-written-to-centre-for-more-emergency-landing-facilities-himanta/article70634726.ece",
-    "time": "2026-02-15T08:13:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'It's wrong'",
     "desc": "Harbhajan Singh defended Abhishek Sharma after Mohammad Amir called him a “slogger” ahead of the India vs Pakistan T20 World Cup clash. Harbhajan said Abhishek is a skilled and determined batsman with a full range of shots, not someone who blindly hits the ball. He criticised critics for judging without facing him and urged Abhishek to prove himself with a big innings for India.",
@@ -322,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anil-kapoor-on-turning-down-politics-post-nayak-i-didnt-want-to-treat-it-as-a-photo-op/articleshow/128375726.cms",
     "time": "2026-02-15T07:50:20.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "India ‘very successful’ emerging economy; right place to host AI summit: UN Chief Guterres",
-    "desc": "Mr. Guterres asserted “it would be totally unacceptable that AI would be just a privilege of the most developed countries or a division only between two superpowers”, an apparent reference to the U.S. and China",
-    "img": "https://th-i.thgim.com/public/incoming/oi1mkc/article70634556.ece/alternates/LANDSCAPE_1200/Italy_Africa_Summit_85379.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/india-very-successful-emerging-economy-right-place-to-host-ai-summit-un-chief-guterres/article70634551.ece",
-    "time": "2026-02-15T07:41:41.000Z"
   },
   {
     "cat": "Entertainment",
@@ -459,24 +603,6 @@ const newsData_en = [
     "time": "2026-02-15T06:14:14.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Dua Lipa and Callum Turner share romantic red carpet",
-    "desc": "Dua Lipa, the chart-topping pop star, delighted fans with an unexpected appearance at the prestigious Berlin Film Festival, cheering on her fiancé Callum Turner as he launched his film, 'Rosebush Pruning.' The engaged couple, who announced their commitment in June 2025, showcased their love on the glamorous red carpet.",
-    "img": "https://static.toiimg.com/photo/msid-128373412,imgsize-852147.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/dua-lipa-and-callum-turner-share-a-romantic-red-carpet-moment-at-the-berlin-film-festival/articleshow/128373412.cms",
-    "time": "2026-02-15T06:12:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dia asks Mumbai metro tragedy, 'What idea of infrastructure..'",
-    "desc": "Dia Mirza reacted to the Mumbai Metro pillar collapse, questioning India’s idea of development. She asked if people support infrastructure that “kills and destroys life” or one that “values it.” The accident killed one and injured three, sparking debate on safety, prompting government action and an MMRDA-led investigation.",
-    "img": "https://static.toiimg.com/photo/msid-128373404,imgsize-20702.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dia-mirza-questions-mumbai-metro-tragedy-says-what-idea-of-infrastructure-do-you-support/articleshow/128373404.cms",
-    "time": "2026-02-15T06:12:16.000Z"
-  },
-  {
     "cat": "World",
     "title": "Larry the cat marks 15 years at 10 Downing Street",
     "desc": "Larry has lived through six Prime Ministers, from David Cameron to Keir Starmer, weathered the storms of Brexit, Covid-19, the chaos of \"partygate,\" Liz Truss's 49-day whirlwind occupation, and the more orderly months under Rishi Sunak",
@@ -493,24 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/obama-deplores-lack-of-shame-after-trump-racist-social-media-post/article70634626.ece",
     "time": "2026-02-15T05:56:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ahead of State budget, resident welfare associations demand focus on civic infrastructure",
-    "desc": "The Alliance of Resident Welfare Associations has called on the GCC to allocate funds in the interim Budget for a technical audit and rectification of stormwater drains, restoration of roads, and completion of pending infrastructure works",
-    "img": "https://th-i.thgim.com/public/news/national/su4tot/article70633237.ece/alternates/LANDSCAPE_1200/tnagar.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/ahead-of-state-budget-resident-welfare-associations-demand-focus-on-civic-infrastructure/article70632903.ece",
-    "time": "2026-02-15T05:45:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Photos of players framed, prayers offered ahead of IND vs PAK",
-    "desc": "Fans in Kanpur prayed for India’s victory ahead of the India vs Pakistan T20 World Cup match in Colombo. India and Pakistan have started the tournament strongly, with India dominating past T20 World Cup meetings and having a strong record at the venue. The match is scheduled for Sunday at 7 PM IST, but rain could affect play, with forecasts predicting showers during the day.",
-    "img": "https://static.toiimg.com/photo/msid-128372026,imgsize-111030.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/watch-photos-of-players-framed-prayers-offered-at-kanpur-temple-ahead-of-ind-vs-pak-t20-world-cup-match/articleshow/128371824.cms",
-    "time": "2026-02-15T05:08:53.000Z"
   },
   {
     "cat": "Business",
@@ -585,15 +693,6 @@ const newsData_en = [
     "time": "2026-02-15T03:22:18.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "India captain SKY mimics Pakistan's Usman Tariq",
-    "desc": "Indian captain Suryakumar Yadav copied Pakistan spinner Usman Tariq’s unusual bowling action during practice before the India vs Pakistan T20 World Cup match, and the video went viral. Rain forced India to train indoors in Colombo. Tariq’s sidearm action and delayed release have made him a major talking point, despite limited experience. Suryakumar called him an “out of syllabus” challenge and said India is preparing special methods to counter him.",
-    "img": "https://static.toiimg.com/photo/msid-128369086,imgsize-48996.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-pak-india-captain-suryakumar-yadav-mimics-pakistan-spinner-usman-tariq-during-india-nets-watch/articleshow/128368886.cms",
-    "time": "2026-02-15T02:47:04.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How is U.S.-India trade deal being tweaked?",
     "desc": "What are the areas that have come under scrutiny? Has India stopped buying Russian oil as Donald Trump has claimed? What is happening in the agricultural sector? Has the reference to pulses been removed from the draft? When is the formal agreement expected to be signed?",
@@ -601,42 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/how-is-us-india-trade-deal-being-tweaked-explained/article70633133.ece",
     "time": "2026-02-15T02:26:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Love and its newfangled terms",
-    "desc": "Married couples in India are, reportedly, increasingly opening themselves up to alternative relationship models and structures, often in pursuit of authentic happiness and trust. Perceived for long as conservative, it seems Tamil Nadu is not entirely so. Some of the cities are now accommodating ethical non-monogamy — very simply, a relationship involving many and with consent. Preeti M.S. syncs up with married couples in Tamil Nadu to explore these new trends",
-    "img": "https://th-i.thgim.com/public/incoming/43dlir/article70633270.ece/alternates/LANDSCAPE_1200/TH15_Love.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/love-and-its-newfangled-terms-ethical-non-monogamy-polyamory-open-marriage-in-tn/article70633091.ece",
-    "time": "2026-02-15T01:47:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Five battles that could decide the mega T20 WC clash",
-    "desc": "The last time they faced each other in a T20I, Sahibzada Farhan hit Jasprit Bumrah for two sixes in a single game, becoming one of the few international batters to do so. Farhan later featured in an advertorial documentary about those shots in Dubai.",
-    "img": "https://static.toiimg.com/photo/msid-128352125,imgsize-39190.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sahibzada-farhan-vs-jasprit-bumrah-babar-azam-vs-kuldeep-five-battles-that-could-decide-india-vs-pakistan-clash/articleshow/128351782.cms",
-    "time": "2026-02-14T23:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Out of syllabus question': Suryakumar on Pakistan spinner Usman Tariq",
-    "desc": "India skipper Suryakumar Yadav acknowledged the team's batting struggles in the T20 World Cup but expressed confidence in tackling Pakistan's unique spinner, Usman Tariq. Despite a scratchy start and vulnerabilities exposed in earlier matches, Yadav emphasized the team's ability to adapt and execute their practice, aiming to overcome pressure and deliver a strong performance against Pakistan.",
-    "img": "https://static.toiimg.com/photo/msid-128353838,imgsize-1072225.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/out-of-syllabus-question-suryakumar-yadav-on-pakistan-spinner-usman-tariq/articleshow/128353805.cms",
-    "time": "2026-02-14T23:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Found in translation",
-    "desc": "As Parliament adds interpreters in over 20 Indian languages, the small group of people who translate speeches and other proceedings simultaneously as business unfolds in the two houses tell Aroon Deep about the emerging field",
-    "img": "https://th-i.thgim.com/public/incoming/ojxf8y/article70629695.ece/alternates/LANDSCAPE_1200/SPOTLIGHT%20interpretersI%20DELHI%202025_13_02_13.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/found-in-translation/article70629691.ece",
-    "time": "2026-02-14T22:56:34.000Z"
   },
   {
     "cat": "World",
@@ -648,24 +711,6 @@ const newsData_en = [
     "time": "2026-02-14T21:21:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "West Bengal BJP leadership reaches out to Muslims, says Trinamool has done nothing for minorities",
-    "desc": "The remarks by WB BJP president Samik Bhattacharya, which come ahead of the Assembly polls in the State, marks a significant departure from the earlier stand of the saffron party where it did not engage with minorities.",
-    "img": "https://th-i.thgim.com/public/incoming/srda8i/article70633390.ece/alternates/LANDSCAPE_1200/20260204245L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-bjp-leadership-reaches-out-to-muslims-says-trinamool-has-done-nothing-for-minorities/article70632635.ece",
-    "time": "2026-02-14T20:07:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "State level wrestling tournament begins in Bihar",
-    "desc": "Commonwealth Games gold medallist shooter and sports minister Shreyasi Singh asserted that the dream and goal is to ensure the participation of as many players from Bihar as possible in the Olympics in the future.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/state-level-wrestling-tournament-begins-in-bihar/article70632665.ece",
-    "time": "2026-02-14T19:41:45.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "SC to hear plea accusing new data protection law of ‘weaponising’ right to privacy and ‘disarming’ RTI",
     "desc": "The petition submits that Section 44(3) of the Digital Personal Data Protection (DPDP) Act of 2023 has amended the RTI Act to facilitate public authorities to refuse information on the ground that the details sought are of a “personal” nature.",
@@ -673,15 +718,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/sc-to-hear-plea-accusing-new-data-protection-law-of-weaponising-right-to-privacy-and-disarming-rti/article70632877.ece",
     "time": "2026-02-14T18:20:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "We thwarted BJP’s attempt to halt Magalir Urimai Thogai, says Stalin",
-    "desc": "He criticises the BJP-led Centre for not introducing any new schemes or projects for Tamil Nadu and came down heavily on AIADMK general secretary Edappadi K. Palaniswami for giving away the State’s rights to the Centre",
-    "img": "https://th-i.thgim.com/public/incoming/4puowz/article70632847.ece/alternates/LANDSCAPE_1200/9712_14_2_2026_19_49_25_2__DSC0553.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/we-thwarted-bjps-attempt-to-halt-magalir-urimai-thogai-says-stalin/article70632642.ece",
-    "time": "2026-02-14T17:51:07.000Z"
   },
   {
     "cat": "Business",
@@ -727,24 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/manappuram-finance-gets-rbi-approval-for-bain-capitals-bid-to-acquire-joint-control/article70632915.ece",
     "time": "2026-02-14T15:40:08.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "CCEA okays Rs 11,000cr for upgrades",
-    "desc": "The Centre has greenlit over Rs 11,000 crore in highway projects across Maharashtra, Gujarat, and Telangana. These crucial upgrades, including road widening and new four-lane stretches, aim to significantly boost freight movement and regional connectivity. Projects on NH-160A in Maharashtra, NH-56 in Gujarat, and NH-167 in Telangana are set to enhance industrial links and slash travel times.",
-    "img": "https://static.toiimg.com/photo/msid-128352710,imgsize-927379.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/infrastructure/cabinet-clears-rs-11000-crore-highway-projects-in-maharashtra-gujarat-telangana/articleshow/128352580.cms",
-    "time": "2026-02-14T15:35:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India’s climate spending rises to 5.6% of GDP, Sitharaman says at Munich",
-    "desc": "India has significantly boosted climate action spending, now at nearly 5.6% of GDP, up from 3.7% six years ago, demonstrating strong domestic commitment. Finance Minister Nirmala Sitharaman emphasized the need for adaptation alongside emission cuts and advocated for a \"polluter pays\" principle in global climate finance, highlighting India's own substantial investments in renewables and carbon capture.",
-    "img": "https://static.toiimg.com/photo/msid-128351907,imgsize-30830.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-climate-spending-rises-to-5-6-of-gdp-nirmala-sitharaman-says-at-munich/articleshow/128351798.cms",
-    "time": "2026-02-14T15:05:58.000Z"
   },
   {
     "cat": "Sports",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/telecom-operators-do-not-own-spectrum-cannot-list-the-public-resource-as-an-asset-for-insolvency-or-liquidation-sc/article70629340.ece",
     "time": "2026-02-13T20:31:56.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Hasina’s presence in India, Ganga waters treaty to be key priorities for BNP government: sources",
-    "desc": "Sources in the Bangladesh Nationalist Party (BNP) say India and Bangladesh have a settled border and ‘it makes no sense to shoot to kill someone’; besides, they add that former PM Sheikh Hasina’s comments on Bangladesh’s internal affairs will pose a challenge to normalisation of ties",
-    "img": "https://th-i.thgim.com/public/incoming/4klta4/article70629949.ece/alternates/LANDSCAPE_1200/APTOPIX_Bangladesh_Election_01976.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/stopping-border-killings-ganga-waters-treaty-renewal-hasinas-presence-in-india-to-be-priority-for-incoming-bnp-government/article70629783.ece",
-    "time": "2026-02-13T20:26:18.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Experts underscore the importance of extracting only relevant data",
-    "desc": "We need to be aware of why a website is seeking a particular piece of data and the purpose. Members of the public should be conscious of the data that they are giving, says A.N. Srinivasan, senior vice-president-IT, SRF Ltd.",
-    "img": "https://th-i.thgim.com/public/incoming/8ybpqw/article70628625.ece/alternates/LANDSCAPE_1200/BVR_8741.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/experts-underscore-the-importance-of-extracting-only-relevant-data/article70628382.ece",
-    "time": "2026-02-13T19:35:16.000Z"
   }
 ];

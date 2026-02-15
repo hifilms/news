@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "નોકરીઓ ખાઈ જશે AI ! આ નોકરીઓ સૌથી વધુ જોખમમાં, ચોંકાવનારો રિપોર્ટ આવ્યો સામે",
+    "desc": "ભારતમાં ઝડપથી AIનું મહત્વ વધી રહ્યું છે, ત્યારે અનેક કંપનીઓ પોતાના સ્ટાફમાં ઘટાડો કરી રહ્યાં છે, અને AI સોફ્ટવેર તરફ કંપનીઓ ખેચાઈ રહી છે. જેના કારણે જે AIને અપનાવતા નથી તે કર્મચારીઓની નોકરી જોખમમાં મુકાઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/ai-will-loss-jobs-this-job-is-at-highest-risk-bad-report-comes-out-465037 ",
+    "time": "2026-02-15T13:29:04.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "આણંદનો દીકરો છે અમેરિકાનો કેપ્ટન, જાણો કોણ છે મોનાંક પટેલ, જેણે પાકિસ્તાનના છક્કા છોડાવ્યા હતા",
     "desc": "આણંદનો મોનાંક પટેલ આજે અમેરિકાની નેશનલ ક્રિકેટ ટીમનો કેપ્ટન છે. તે ગુજરાત માટે અન્ડર-16 અને અન્ડર-19માં રમી ચૂક્યો છે, બાદમાં તે અમેરિકા સ્થાયી થયો અને અમેરિકા માટે ક્રિકેટ રમવાનું શરૂ કર્યું, ત્યારે મોનાંક પટેલની આણંદથી અમેરિકાના કેપ્ટન સુધીની સફર વિશે આ લેખમાં જાણીશું.",
@@ -286,15 +295,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/bangladesh-elections-2026-tarique-rehman-party-bnp-wins-effects-on-india-bangladesh-relations-464760 ",
     "time": "2026-02-13T06:36:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ભારત-નામિબિયા મેચમાં ડેડ બોલને લઈને વિવાદ... અમ્પાયર અને કેપ્ટન વચ્ચે બબાલ",
-    "desc": "ભારત અને નામિબિયા વચ્ચે 12 ફેબ્રુઆરીના રોજ T20 વર્લ્ડ કપ 2026ની ગ્રુપ સ્ટેજ મેચ રમાઈ હતી, આ મેચમાં નામિબિયાના કેપ્ટન અને અમ્પાયર વચ્ચે ડેડ બોલને લઈને બબાલ થઈ હતી. ત્યારે આ સમગ્ર ઘટના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-ind-vs-nam-match-dead-ball-controversy-gerhard-erasmus-and-umpire-464779 ",
-    "time": "2026-02-13T05:29:51.000Z"
   },
   {
     "cat": "Politics",
@@ -646,14 +646,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/february-best-time-buy-air-conditioner-before-summer-season-463863 ",
     "time": "2026-02-03T14:36:21.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "UAN નંબર ભૂલી ગયા છો? ચિંતા છોડો, ઘરે બેઠા આ રીતે મિનિટોમાં કરો રિકવર, જાણો પ્રોસેસ",
-    "desc": "જો તમે તમારો UAN નંબર ભૂલી ગયા છો, તો ચિંતા કરવાની કોઈ જરૂર નથી. હવે તમે EPFO ​​વેબસાઇટનો ઉપયોગ કરીને તમારા ઘરે બેઠા થોડી મિનિટોમાં તમારો UAN પાછો મેળવી શકો છો. સંપૂર્ણ સ્ટેપ-બાય-સ્ટેપ પ્રોસેસ અને મોટા PF-સંબંધિત લાભો જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/forgot-your-uan-number-dont-worry-recover-it-in-minutes-from-home-know-the-process-463822 ",
-    "time": "2026-02-03T09:16:29.000Z"
   }
 ];
