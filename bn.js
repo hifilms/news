@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "যশ-নুসরতের আবাসনে আগুন! প্রাণ বাঁচাতে দুই সন্তানকে নিয়ে পথে",
+    "desc": "রবিবার ছুটির দিন সকালে ডায়মন্ড সিটিতে ঘটে গেল বড়সড় বিপত্তি। ডায়মন্ড-সিটি বহুতলে ৫ তলায় আগুন লাগে আচমকা। ঘটনাস্থলে তড়িঘড়ি পৌঁছয় দমকলের ৫ টি ইঞ্জিন। প্রবল আতঙ্কে ছিলেন আবাসিকরা। তবে কিছুক্ষণের চেষ্টায় আগুন নিয়ন্ত্রণে আসে। বহুতলের বাসিন্দা অভিনেতা-প্রযোজক যশ দাশগুপ্ত, নুসরত জাহান, সায়ন্তিকা বন্দ্যোপাধ্যায়-সহ একাধিক খ্যাতনামী। প্রাণ বাঁচাতে বাকি বাসিন্দাদের সঙ্গে পথে নেমে আসেন তাঁরা। সূত্রের খবর, পঞ্চম তলের এক বাসিন্দার বাড়ির ঠাকুরঘরে শিবরাত্রির পুজো হয়। সম্ভবত প্রদীপ না নিভিয়েই তাঁরা নীচে নেমে আসেন। তাঁদের অনুপস্থিতিতে সম্ভবত বাড়ির প্রদীপ থেকে আগুন ধরে যায়",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/VBk-dk_hTnI_2541230.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/entertainment/fire-at-diamond-city-building-yash-nusrat-sayantika-escape-safely-rmj-ws-l-2541230.html",
+    "time": "2026-02-15T08:36:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'নাইট ড্রাইভ'-এর রক্তাক্ত পরিণতি, ডিভাইডারে ধাক্কা মেরে দু’বার পাল্টি খেয়ে বাসের সঙ্গে সংঘর্ষ, গাড়ির মধ্যেই মৃত্যু ৫ বন্ধুর",
+    "desc": "ফের ঘাতক বেপরোয়া গতি! ৫ বন্ধু বেরিয়েছিল গাড়ি নিয়ে! কিন্তু 'নাইট ড্রাইভ' শেষ হল চরম মর্মান্তিক পরিণতিতে। ফ্লাইওভারের কাছে নিয়ন্ত্রণ হারিয়ে উল্টে গেল ইন্ডিকা গাড়ি। সজোরে ধাক্কা মারল একটি যাত্রীবোঝাই বাসে। ঘটনাস্থলে মৃত্যু ৪ বন্ধুর। হাসপাতালে মৃত্যু হয় আর এক জনের।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Bengaluru-Road-Accident-2026-02-734188d00c6aaa6d82a3b213ea6f4652-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/bengaluru-accident-five-killed-after-speeding-car-overturns-and-crashes-into-bus-near-bengaluru-flyover-rm-2541179.html",
+    "time": "2026-02-15T07:03:17.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ঝমঝমিয়ে আসছে! ১১ রাজ্যে ঝড়-বৃষ্টির সতর্কতা... কী হবে বাংলায়? আবহাওয়ার আপডেট দেখুন!",
     "desc": "১৫ ফেব্রুয়ারি থেকে দেশের একাধিক রাজ্যে আবহাওয়ার বড়সড় পরিবর্তনের ইঙ্গিত দিল ভারতীয় আবহাওয়া দফতর। টানা তিন দিনের জন্য ১১টি রাজ্যে বৃষ্টি ও দমকা হাওয়ার সতর্কতা জারি করা হয়েছে। পশ্চিমী ঝঞ্ঝার প্রভাবে তুষারপাতের সম্ভাবনা রয়েছে। অন্যদিকে, কলকাতায় আপাতত তাপমাত্রা স্বাভাবিকের চেয়ে কিছুটা কম। কী হতে চলেছে এর পর? দেখুন বড় আপডেট।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/arijit-singh-arijit-singh-records-for-uttaran-as-aamir-khan-wraps-up-jiaganj-visit-l18-rm-local18-2528922.html",
     "time": "2026-02-06T12:02:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "২৫০ টাকা দরেও কাড়াকাড়ি! ধান-পাটের বদলে বাড়িতেই 'সাদা সোনা' ফলিয়ে রাতারাতি ভাগ্য বদলালেন মালদহের চাষি",
-    "desc": "প্রথাগত চাষ ছেড়ে মাত্র ১৫ দিনের প্রশিক্ষণে মাশরুম চাষ শুরু করে বাজিমাত করলেন মালদহের এক কৃষক। বাড়ির এক কোণেই চলছে এই চাষ, আর ২৫০ টাকা কেজি দরে সেই মাশরুম লুফে নিচ্ছেন ক্রেতারা। জানুন এই লাভজনক ব্যবসার খুঁটিনাটি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Mushroom-cultivation-money-making-idea-2026-02-156df5e964ad4347c4ac93ec51b3e867-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/malda-money-making-ideas-malda-farmer-earning-huge-money-from-mushroom-cultivation-after-15-days-training-l18-local18-2528389.html",
-    "time": "2026-02-06T09:43:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "হাওড়া–কামাখ্যা বন্দে ভারত স্লিপার এক্সপ্রেস...! এসে গেল বড় আপডেট! কোন মাইলস্টোন ছুঁল এই ট্রেন? জানুন বিশদে",
-    "desc": "বন্দে ভারত স্লিপারের জনপ্রিয়তা দিন দিন উর্ধমুখী। সেমি হাই স্পিড এই বিখ্যাত ট্রেন ভারতে যাত্রীদের জন্য বিমানের অন্যতম বিকল্প হয়ে উঠেছে। প্রধানমন্ত্রী নরেন্দ্র মোদি গত ১৭ই জানুয়ারি ২০২৬ হাওড়া এবং কামাখ্যার মধ্যে ভারতের প্রথম বন্দে ভারত স্লিপার ট্রেনের উদ্বোধন করেন, যা ভারতীয় রেলের ইতিহাসে একটি ঐতিহাসিক মাইলফলক।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/vande-bharat-sleeper-2026-01-fdfcd417c099c268f96356f2b25c731d-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/vande-bharat-sleeper-express-indian-railways-howrah-kamakhya-vande-bharat-sleeper-express-train-what-milestone-has-this-train-achieved-a-major-update-has-arrived-learn-more-in-detail-sanj-2526690.html",
-    "time": "2026-02-06T02:37:37.000Z"
   }
 ];

@@ -1,7 +1,25 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "India set to bowl first, Pakistan win the toss",
+    "title": "West Indies march into Super Eight stage with dominant win over Nepal in Mumbai",
+    "desc": "The 25th game of the ongoing T20 World Cup 2026 saw Nepal taking on the West Indies. The two sides took on each other at the Wankhede Stadium in Mumbai on February 15. The clash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-march-into-super-eight-stage-with-dominant-win-over-nepal-in-mumbai-2026-02-15-1030352",
+    "time": "2026-02-15T08:59:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bumrah-Arshdeep vs Shaheen-Mirza, which pacers have better stats?",
+    "desc": "India and Pakistan are all set to take on each other in game 27 of the ongoing T20 World Cup 2026. The two sides will gather at the R. Premadasa Stadium in Colombo on February...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-t20i-squad-comparison-bumrah-arshdeep-vs-shaheen-mirza-which-pacers-have-better-stats-2026-02-15-1030347",
+    "time": "2026-02-15T08:35:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India on track for resounding victory",
     "desc": "India A women and Pakistan A women take on each other in game 6 of the ongoing Women's Asia Cup Rising Stars 2026. The two sides gather at the Terdthai Cricket Ground, Bangkok, for the clash,...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/wasim-akram-waqar-younis-shahid-afridi-among-others-call-for-urgent-care-as-imran-khan-s-health-deteriorates-2026-02-14-1030304",
     "time": "2026-02-14T18:17:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aiden Markram shatters major records as South Africa continue stellar run vs New Zealand in T20 World Cups",
-    "desc": "South Africa skipper Aiden Markram shattered major records as his side continued its brilliant run against New Zealand in the T20 World Cups. Markram scored a blistering unbeaten 86 from 44 balls as the Proteas...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/aiden-markram-shatters-major-records-as-south-africa-continue-stellar-run-vs-new-zealand-in-t20-world-cups-2026-02-14-1030303",
-    "time": "2026-02-14T17:59:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh Cricket Board president Aminul Islam rejects ICC's invitation for IND vs PAK clash in T20 World Cup",
-    "desc": "Bangladesh Cricket Board president Aminul Islam Bulbul will not be attending Sunday’s high-profile T20 World Cup clash between India and Pakistan at the R. Premadasa Stadium in Colombo. Aminul, who had received an invitation from...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-cricket-board-president-aminul-islam-rejects-icc-s-invitation-for-ind-vs-pak-clash-in-t20-world-cup-2026-02-14-1030302",
-    "time": "2026-02-14T17:50:59.000Z"
   }
 ];

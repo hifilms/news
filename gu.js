@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "જો પાકિસ્તાનને આટલો ટાર્ગેટ આપ્યો તો ભારતની જીત પાક્કી! કોલંબોમાં ક્યારેય ચેઝ નથી થયો આ સ્કોર",
+    "desc": "T20 વર્લ્ડ કપ 2026માં ભારત અને પાકિસ્તાન વચ્ચે કોલંબોના આર. પ્રેમદાસા સ્ટેડિયમ ખાતે આજે સાંજે 7:00 વાગ્યે મહામુકાબલો રમાશે. પાકિસ્તાન સામેની આ મેચ જીતવા માટે ભારત ફેવરિટ છે. ત્યારે આ લેખમાં જાણીશું કે જો ભારત પહેલા બેટિગ કરે છે, તો મેચ જીતવા માટે પાકિસ્તાનને કેટલો ટાર્ગેટ આપવો પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-vs-pakistan-how-much-target-enough-for-india-to-beat-pakistan-at-colombo-465015 ",
+    "time": "2026-02-15T08:54:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ભારતની પ્લેઇંગ-11માં થશે 3 મોટા ફેરફાર...ભારતીય ક્રિકેટરે મેચ પહેલા લીક કરી ટીમ !",
     "desc": "T20 વર્લ્ડ કપ 2026ની સૌથી મોટી મેચ આજે રમાવાની છે. ભારત અને પાકિસ્તાન એકબીજા સામે ટકરાશે. આ મોટી મેચ માટે બધાની નજર ટીમ ઈન્ડિયાની પ્લેઈંગ ઈલેવન પર છે. અભિષેક શર્મા ટીમમાં વાપસી કરી શકે છે. ત્યારે ભારતીય ક્રિકેટર આકાશ ચોપરાનું માનવું છે કે પ્લેઈંગ ઈલેવનમાં ત્રણ ફેરફાર થશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -315,15 +324,6 @@ const newsData_gu = [
     "time": "2026-02-12T10:23:15.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "અફઘાન ક્રિકેટરને આ હરકત પડી ગઈ મોંઘી, ICCએ ફટકારી સજા",
-    "desc": "T20 વર્લ્ડ કપ 2026માં બુધવારે રમાયેલી મેચમાં ડબલ સુપર ઓવર છતાં અફઘાનિસ્તાન દક્ષિણ આફ્રિકા સામે હારી ગયું હતું. હાર બાદ ICCએ હવે અફઘાનિસ્તાનને વધુ એક મોટો ઝટકો આપ્યો છે. ICCએ મોહમ્મદ નબીને તેની એક ભૂલની સજા ફટકારી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/icc-imposes-heavy-fine-on-afghan-cricketer-mohammad-nabi-for-arguing-with-umpire-464702 ",
-    "time": "2026-02-12T09:56:45.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "એવું કયું પક્ષી છે, જે ક્યારેય ઉડી શકતું નથી ? એક ક્લિકમાં જાણી લો જવાબ",
     "desc": "જનરલ નોલેજ એ સૌથી મહત્વપૂર્ણ વિષયોમાંનો એક છે. તે આપણા બધા માટે જરૂરી છે. સ્પર્ધાત્મક પરીક્ષાઓમાં જનરલ નોલેજના પ્રશ્નો વારંવાર પૂછવામાં આવે છે. ત્યારે આજે અમે તમારા માટે આવા જ કેટલાક પ્રશ્નો અને જવાબો લઈને આવ્યા છીએ.",
@@ -331,15 +331,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/gk-quiz-which-bird-can-never-fly-know-the-answer-464694 ",
     "time": "2026-02-12T09:09:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "બ્રાંડની દુનિયામાં સ્મૃતિ મંધાનાનો જલવો... મેદાનની બહાર પણ લખી રહી છે એક નવો અધ્યાય",
-    "desc": "મેદાન અને મેદાનની બહાર સફળતા મેળવી રહેલી મહિલા ક્રિકેટ ટીમની વાઈસ-કેપ્ટન સ્મૃતિ મંધાના જાહેરાતની દુનિયામાં એક નવો અધ્યાય લખી રહી છે. તે બ્રાંડની દુનિયામાં એક મોટું નામ બની ગઈ છે. ત્યારે આ લેખમાં સ્મૃતિની ક્રિકેટના મેદાનથી બ્રાન્ડ જગત સુધીની સફર વિશે જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/smriti-mandhana-india-women-cricket-star-and-rising-brand-icon-464693 ",
-    "time": "2026-02-12T08:29:47.000Z"
   },
   {
     "cat": "Entertainment",
@@ -358,15 +349,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/big-twist-in-aligarh-sasu-jamai-love-story-now-woman-ran-away-with-jijaji-shocking-details-464678 ",
     "time": "2026-02-12T06:18:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "બદલાઈ જશે ટીમ ઈન્ડિયાની પ્લેઈંગ-11... અભિષેક બહાર, આ સ્ટાર ખેલાડીની થશે એન્ટ્રી",
-    "desc": "ભારત T20 વર્લ્ડ કપ 2026ની પોતાની બીજી મેચમાં દિલ્હીના અરુણ જેટલી સ્ટેડિયમ ખાતે નામિબિયા સામે ટકરાશે. આ મેચમાં અભિષેક શર્માના રમવાની શક્યતા ઓછી છે, તો જસપ્રીત બુમરાહની વાપસી લગભગ નિશ્ચિત માનવામાં આવે છે. ત્યારે ભારતની પ્લેઈંગ-11 કેવી હશે, તેના પર એક નજર કરીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-nam-t20-world-cup-2026-team-india-probable-playing-11-464675 ",
-    "time": "2026-02-12T05:50:25.000Z"
   },
   {
     "cat": "Politics",

@@ -1,12 +1,174 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Did Salman Khan get Rajpal Yadav out of jail?",
+    "desc": "A viral throwback video of Rajpal Yadav praising Salman Khan has fueled speculation about the superstar's alleged help in the actor's ongoing Rs 9 crore debt case. While Yadav remains in Tihar Jail, his manager confirmed that half the debt has been settled, with negotiations ongoing.",
+    "img": "https://static.toiimg.com/photo/msid-128376473,imgsize-38650.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fact-check-did-salman-khan-get-rajpal-yadav-out-of-tihar-jail-in-rs-9-crore-debt-case-viral-video-sparks-buzz/articleshow/128376455.cms",
+    "time": "2026-02-15T09:07:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranbir Kapoor speaks on ‘Love &amp; War’ DELAY",
+    "desc": "Ranbir Kapoor confirmed that Sanjay Leela Bhansali’s 'Love & War' has been delayed. During a live session celebrating his brand ARKS, he revealed 'Ramayana' Part One will release first in October 2026. Reports say the film’s massive scale, heavy VFX, and Ranbir’s packed 2026 schedule caused the postponement.",
+    "img": "https://static.toiimg.com/photo/msid-128376703,imgsize-25944.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-speaks-on-love-war-delay-confirms-film-postponement/articleshow/128376703.cms",
+    "time": "2026-02-15T08:30:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Himanta",
+    "desc": "Assam Chief Minister Himanta Biswa Sarma announced that the state government will ink a pact with the Civil Aviation Ministry to carry out a study to construct four more airports at Majuli, Diphu, Umrangso and Manas",
+    "img": "https://th-i.thgim.com/public/incoming/7fyrb5/article70634750.ece/alternates/LANDSCAPE_1200/TH14-Karmakar-CG14FJAMUA.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/assam/assam-government-has-written-to-centre-for-more-emergency-landing-facilities-himanta/article70634726.ece",
+    "time": "2026-02-15T08:13:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It's wrong'",
+    "desc": "Harbhajan Singh defended Abhishek Sharma after Mohammad Amir called him a “slogger” ahead of the India vs Pakistan T20 World Cup clash. Harbhajan said Abhishek is a skilled and determined batsman with a full range of shots, not someone who blindly hits the ball. He criticised critics for judging without facing him and urged Abhishek to prove himself with a big innings for India.",
+    "img": "https://static.toiimg.com/photo/msid-128375828,imgsize-57882.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-pak-its-wrong-harbhajan-singh-blasts-ex-pakistan-pacer-mohammad-amir-for-his-abhishek-sharma-remarks/articleshow/128375459.cms",
+    "time": "2026-02-15T07:57:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anil Kapoor on turning down politics post ‘Nayak’",
+    "desc": "Anil Kapoor revealed he was approached by political parties after Nayak but declined, saying he didn’t want to treat it as a photo op. The actor, who played a TV reporter turned CM in the film, also shared how he trained through workshops and even turned down a UN offer post-'Slumdog Millionaire' fame.",
+    "img": "https://static.toiimg.com/photo/msid-128375726,imgsize-20874.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anil-kapoor-on-turning-down-politics-post-nayak-i-didnt-want-to-treat-it-as-a-photo-op/articleshow/128375726.cms",
+    "time": "2026-02-15T07:50:20.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "India ‘very successful’ emerging economy; right place to host AI summit: UN Chief Guterres",
+    "desc": "Mr. Guterres asserted “it would be totally unacceptable that AI would be just a privilege of the most developed countries or a division only between two superpowers”, an apparent reference to the U.S. and China",
+    "img": "https://th-i.thgim.com/public/incoming/oi1mkc/article70634556.ece/alternates/LANDSCAPE_1200/Italy_Africa_Summit_85379.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/india-very-successful-emerging-economy-right-place-to-host-ai-summit-un-chief-guterres/article70634551.ece",
+    "time": "2026-02-15T07:41:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Michelle Yeoh opens up about her work and impact in cinema",
+    "desc": "At the esteemed Berlin Film Festival, the legendary Michelle Yeoh was bestowed with a Lifetime Achievement Award, marking a pivotal moment in her storied career. With genuine gratitude, she shared her aspiration for her journey to serve as a beacon of inspiration for aspiring filmmakers—especially women and those who share her cultural roots—to transcend the challenges of the film industry.",
+    "img": "https://static.toiimg.com/photo/msid-128375420,imgsize-30522.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/wicked-for-good-star-michelle-yeoh-delves-into-her-career-in-cinema-says-she-still-has-a-long-way-to-go/articleshow/128375420.cms",
+    "time": "2026-02-15T07:40:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'White-collar' terror probe: Doctors formed 'Ansar Interim' to carry out attacks",
+    "desc": "A new terror outfit, 'Ansar Interim,' formed by radicalised doctors, has been exposed by J&K Police. The group, allegedly linked to Al-Qaeda, planned subversive activities, including IED attacks. Investigations revealed procurement of explosive materials and attempts to recruit members, with a key operative planning a VBIED blast.",
+    "img": "https://static.toiimg.com/photo/msid-128375493,imgsize-1640600.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/white-collar-terror-probe-doctors-formed-ansar-interim-to-carry-out-attacks/articleshow/128375291.cms",
+    "time": "2026-02-15T07:40:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "History favours India against an unpredictable Pakistan unit",
+    "desc": "The Men in Blue will be tempted to play an additional spinner as the surface at the Premadasa Stadium is likely to aid the slow bowlers; rain could play spoilsport in the most anticipated game of the championship",
+    "img": "https://th-i.thgim.com/public/incoming/ozm1ia/article70634633.ece/alternates/LANDSCAPE_1200/PTI02_14_2026_000721B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-history-favours-india-against-an-unpredictable-pakistan-unit/article70632250.ece",
+    "time": "2026-02-15T07:28:19.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Russian opposition leader Alexei Navalny was poisoned, five European nations say",
+    "desc": "The Foreign Ministries of the U.K., France, Germany, Sweden and the Netherlands said that analysis of samples from Navalny, “have conclusively confirmed the presence of epibatidine,” a toxin found in poison dart frogs in South America",
+    "img": "https://th-i.thgim.com/public/incoming/i8b30b/article70632466.ece/alternates/LANDSCAPE_1200/2026-02-14T132309Z_1140459049_RC2EG3A2OAMH_RTRMADP_3_BRITAIN-RUSSIA-NAVALNY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/european-nations-say-alexei-navalny-died-by-poisoning/article70632422.ece",
+    "time": "2026-02-15T07:23:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Harry Styles net worth in 2026",
+    "desc": "Harry Styles' net worth is projected to reach USD 140 million by 2026, a testament to his multifaceted career. Beyond his 'One Direction' fame, his solo music, record-breaking world tours, acting roles, lucrative fashion deals, and successful 'Pleasing' brand have significantly boosted his fortune.",
+    "img": "https://static.toiimg.com/photo/msid-128374878,imgsize-42594.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/harry-styles-net-worth-inside-the-aperture-singers-usd-140-million-fortune/articleshow/128374839.cms",
+    "time": "2026-02-15T07:16:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sooryavanshi not to appear for Class 10 board exams",
+    "desc": "India’s 14-year-old cricket prodigy Vaibhav Sooryavanshi will skip his CBSE Class 10 board exams due to a busy cricket schedule. Despite completing formalities, his family and school decided he wasn’t prepared. The U19 World Cup star has broken multiple records but can’t play for India’s senior team yet due to age rules. Once he turns 15 in 2026, a senior debut is expected.",
+    "img": "https://static.toiimg.com/photo/msid-128374785,imgsize-161180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-not-to-appear-for-class-10-board-exams-heres-why/articleshow/128374098.cms",
+    "time": "2026-02-15T07:10:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'If the opposition doesn't allow the House to function, we will go for the guillotine': Rijiju",
+    "desc": "Union Minister Kiren Rijiju announced that the no-confidence motion against Lok Sabha Speaker Om Birla will be debated and voted on March 9. The second part of the Budget session, starting the same day, is expected to be \"interesting\" with crucial legislation. Rijiju warned that continued opposition protests could be detrimental to them and suggested potential cracks in opposition unity.",
+    "img": "https://static.toiimg.com/photo/msid-128374544,imgsize-1030027.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/if-the-opposition-doesnt-allow-the-house-to-function-we-will-go-for-the-guillotine-rijiju/articleshow/128374519.cms",
+    "time": "2026-02-15T07:01:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amy Schumer urges fans to cry freely in V-Day post",
+    "desc": "Amy Schumer, recently divorced from Chris Fischer after seven years of marriage, is encouraging her fans to embrace their emotions this Valentine's Day. Sharing a selfie from a \"Crying Corner,\" the actress urged everyone to \"give yourself all the love today.\" Despite the split, the couple remains committed to co-parenting their son, reportedly still living together for his sake.",
+    "img": "https://static.toiimg.com/photo/msid-128374479,imgsize-21632.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/amy-schumer-is-all-about-self-love-this-valentines-after-split-with-chris-fischer-shares-a-selfie-in-crying-corner/articleshow/128374479.cms",
+    "time": "2026-02-15T07:01:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Is 'Mauja Hi Mauja' Shahid's favourite dance track?",
+    "desc": "Shahid Kapoor's energetic performance of 'Mauja Hi Mauja' at a wedding has fans believing it's his ultimate go-to track. This comes as his latest film, 'O' Romeo', garners significant box office success, raking in over Rs 20 crore in its opening weekend and topping the charts.",
+    "img": "https://static.toiimg.com/photo/msid-128374351,imgsize-20594.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shahid-kapoors-video-dancing-at-haldirams-sons-wedding-will-prove-mauja-hi-mauja-from-jab-we-met-is-his-go-to-song-watch/articleshow/128373207.cms",
+    "time": "2026-02-15T06:55:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rosie O’Donnell secretly visits US for 2 week trip",
+    "desc": "Rosie O'Donnell's homecoming to the US from her year in Ireland is filled with mixed emotions. Reconnecting with family after a long time in a quieter environment shaped by the green landscapes of Ireland must feel bittersweet. O'Donnell's experience abroad was particularly poignant as she navigated personal choices amidst Donald Trump's controversial assertions about citizenship.",
+    "img": "https://static.toiimg.com/photo/msid-128374339,imgsize-85900.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rosie-odonnell-visits-us-1-year-after-leaving-for-ireland-refers-to-donald-trumps-comment-about-her-citizenship/articleshow/128374339.cms",
+    "time": "2026-02-15T06:54:19.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Debate, vote on motion to remove Birla to be taken up on March 9: Rijiju",
     "desc": "On March 9, in the Lok Sabha, we will have the debate on the no-confidence motion moved against the speaker. It is the rule to take it up on the first day. There will be a vote following the debate, says Union Parliamentary Affairs Minister Kiren Rijiju",
     "img": "https://th-i.thgim.com/public/incoming/y5z99l/article70634685.ece/alternates/LANDSCAPE_1200/PTI02_07_2026_000045A.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/debate-vote-on-motion-to-remove-birla-to-be-taken-up-on-march-9-rijiju/article70634682.ece",
-    "time": "2026-02-15T06:24:36.000Z"
+    "time": "2026-02-15T06:50:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Maharashtra Congress chief likens Chhatrapati Shivaji Maharaj with Tipu Sultan; booked for hurting sentiments",
+    "desc": "Maharashtra Congress chief Harshwardhan Sapkal has courted controversy by comparing Chhatrapati Shivaji Maharaj with Tipu Sultan. His remarks have led to a police case against him. Chief Minister Devendra Fadnavis condemned the comparison. Meanwhile, Congress leader Sachin Sawant accused the BJP of double standards and a polarization agenda, citing past BJP endorsements of Tipu Sultan.",
+    "img": "https://static.toiimg.com/photo/msid-128374213,imgsize-492935.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/maharashtra-congress-chief-likens-chhatrapati-shivaji-maharaj-with-tipu-sultan-booked-for-hurting-sentiments/articleshow/128374182.cms",
+    "time": "2026-02-15T06:45:25.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Meta to cut pay outs to fact-checking partners in India",
+    "desc": "Two people with knowledge of discussions with the social media company told The Hindu that the firm planned to cut payments to professional fact checkers it has paid since 2016 by a third to half",
+    "img": "https://th-i.thgim.com/public/incoming/eqpyty/article70634499.ece/alternates/LANDSCAPE_1200/2026-02-09T103924Z_565968379_RC2VPGAKTI7X_RTRMADP_3_EU-META-PLATFORMS-AI-ANTITRUST.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/meta-to-cut-pay-outs-to-fact-checking-partners-in-india/article70631703.ece",
+    "time": "2026-02-15T06:38:57.000Z"
   },
   {
     "cat": "Entertainment",
@@ -20,10 +182,10 @@ const newsData_en = [
   {
     "cat": "Entertainment",
     "title": "Abhishek Bachchan backs Ranveer Singh’s ‘Dhurandhar’",
-    "desc": "Abhishek Bachchan said Bollywood shouldn’t copy foreign industries, stressing faith in Indian storytelling. He noted India’s unmatched movie scale and audience reach while praising Ranveer Singh’s Dhurandhar. He added that Indian cinema doesn’t need a “Squid Game” moment to prove its global power.",
-    "img": "https://static.toiimg.com/photo/msid-128373507,imgsize-34926.cms",
+    "desc": "Ranbir Kapoor shared key updates on upcoming films during an ARKS Instagram AMA. \"Ramayana Part 1\" hits Diwali 2026—a \"beautiful coincidence\" near Raha's birthday. \"Love & War\" is delayed to late 2026/2027 due to scale. 'Brahmastra 2' shoot starts soon, \"Animal Park\" mid-2027. He praised Ranveer Singh's 'Dhurandhar'.",
+    "img": "https://static.toiimg.com/photo/msid-128373507,imgsize-55286.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhishek-bachchan-backs-ranveer-singhs-dhurandhar-says-it-can-outshine-any-film/articleshow/128373507.cms",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-calls-ramayana-releasing-on-rahas-birthday-a-beautiful-coincidence/articleshow/128373507.cms",
     "time": "2026-02-15T06:15:38.000Z"
   },
   {
@@ -127,15 +289,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "History favours India against an unpredictable Pakistan unit",
-    "desc": "The Men in Blue will be tempted to play an additional spinner as the surface at the Premadasa Stadium is likely to aid the slow bowlers; rain could play spoilsport in the most anticipated game of the championship",
-    "img": "https://th-i.thgim.com/public/incoming/ozm1ia/article70634633.ece/alternates/LANDSCAPE_1200/PTI02_14_2026_000721B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-history-favours-india-against-an-unpredictable-pakistan-unit/article70632250.ece",
-    "time": "2026-02-15T05:23:39.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Photos of players framed, prayers offered ahead of IND vs PAK",
     "desc": "Fans in Kanpur prayed for India’s victory ahead of the India vs Pakistan T20 World Cup match in Colombo. India and Pakistan have started the tournament strongly, with India dominating past T20 World Cup meetings and having a strong record at the venue. The match is scheduled for Sunday at 7 PM IST, but rain could affect play, with forecasts predicting showers during the day.",
     "img": "https://static.toiimg.com/photo/msid-128372026,imgsize-111030.cms",
@@ -162,33 +315,6 @@ const newsData_en = [
     "time": "2026-02-15T04:58:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Blake Shelton’s Valentine’s Day PDA with Gwen Stefani",
-    "desc": "Country star Blake Shelton silenced divorce rumors with a sweet Valentine's Day kiss for Gwen Stefani. The couple, who met on 'The Voice' and have navigated intense tabloid speculation, shared a public display of affection. Shelton humorously addressed the constant gossip, while Stefani described meeting him as a \"second chance at life\" after her family's struggles.",
-    "img": "https://static.toiimg.com/photo/msid-128371692,imgsize-36010.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/blake-shelton-shows-love-to-gwen-stefani-with-valentines-day-pda-squashing-divorce-rumors/articleshow/128371676.cms",
-    "time": "2026-02-15T04:56:53.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "India ‘very successful’ emerging economy; right place to host AI summit: UN Chief Guterres",
-    "desc": "Mr. Guterres asserted “it would be totally unacceptable that AI would be just a privilege of the most developed countries or a division only between two superpowers”, an apparent reference to the U.S. and China",
-    "img": "https://th-i.thgim.com/public/incoming/oi1mkc/article70634556.ece/alternates/LANDSCAPE_1200/Italy_Africa_Summit_85379.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/india-very-successful-emerging-economy-right-place-to-host-ai-summit-un-chief-guterres/article70634551.ece",
-    "time": "2026-02-15T04:54:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘A Knight of the Seven Kingdoms’ episode 5: Release time",
-    "desc": "Fans of 'A Knight of the Seven Kingdoms' can anticipate episode 5, 'In the Name of the Mother,' airing February 16th in India. This installment continues the dramatic Trial of Seven, with Ser Duncan seeking allies for a crucial battle. The series, set in the 'Game of Thrones' universe, is available on JioHotstar for Indian viewers.",
-    "img": "https://static.toiimg.com/photo/msid-128370029,imgsize-920581.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/a-knight-of-the-seven-kingdoms-episode-5-release-time-global-streaming-schedule-and-more/articleshow/128370029.cms",
-    "time": "2026-02-15T04:43:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'I want rain': Ex-Pakistan player gives shocking IND vs PAK verdict",
     "desc": "Rain threatens the India vs Pakistan T20 World Cup match in Colombo, with forecasts predicting heavy showers and storms. Former Pakistan cricketer Basit Ali shocked fans by saying he wants rain. A minimum of five overs per side is needed for a result; otherwise, the match will be abandoned and both teams get one point, likely helping both qualify for the next round.",
@@ -208,30 +334,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Margot Robbie’s skin used as wallpaper in bold ‘Wuthering Heights’ twist",
-    "desc": "Margot Robbie's 'Wuthering Heights' role features a unique approach to method acting. Her skin, veins, and freckles were printed onto silk for Cathy Earnshaw's bedroom wallpaper, creating a visceral, personal touch. Director Emerald Fennell also revealed custom shrines were made for the stars to deepen their connection to the obsessive love story.",
-    "img": "https://static.toiimg.com/photo/msid-128370881,imgsize-257996.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/wuthering-heights-margot-robbies-skin-and-freckles-turned-into-wallpaper-for-the-movie-heres-what-we-know/articleshow/128370854.cms",
-    "time": "2026-02-15T04:21:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Nagabandham': Abhishek calls,'It is a heartbeat and first cry of a dream'",
     "desc": "The ambitious epic 'Nagabandham,' set in 1750, unveils its first glimpse on Mahashivaratri, blessed by superstar Mahesh Babu. Director Abhishek Nama describes the teaser as a 'heartbeat,' reflecting the team's deep faith and devotion. Despite exhaustion and doubt, the creators poured their belief into this spiritually anchored cinematic journey, hoping it resonates with audiences.",
     "img": "https://static.toiimg.com/photo/msid-128370814,imgsize-52464.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nagabandham-first-glimpse-director-abhishek-nama-says-it-is-a-heartbeat-and-first-cry-of-a-dream/articleshow/128370837.cms",
     "time": "2026-02-15T04:18:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Virat Kohli-Anushka Sharma pose for pics with fans",
-    "desc": "Cricket star Virat Kohli and wife Anushka Sharma were spotted in Mumbai amidst the T20 World Cup 2026. The couple, seen in casual wear, posed with fans, with one sharing a touching tribute to Virat's inspiration. They've been balancing personal life in the UK with professional commitments, including property and ad film projects.",
-    "img": "https://static.toiimg.com/photo/msid-128370643,imgsize-36724.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-and-anushka-sharma-pose-for-photos-with-fans-in-mumbai-pics/articleshow/128370077.cms",
-    "time": "2026-02-15T04:09:17.000Z"
   },
   {
     "cat": "Sports",
@@ -261,33 +369,6 @@ const newsData_en = [
     "time": "2026-02-15T03:45:30.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'The Pitt': How Noah Wyle changed the kitchen apology scene",
-    "desc": "Season 2, Episode 6 of 'The Pitt' features a significant turning point as Dr. Frank Langdon expresses remorse towards charge nurse Dana Evans. Patrick Ball and Katherine LaNasa mentioned that Noah Wyle played a crucial role in shaping this intense kitchen sequence.",
-    "img": "https://static.toiimg.com/photo/msid-128369979,imgsize-544020.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/how-noah-wyle-changed-the-kitchen-apology-scene-in-the-pitts-latest-episode/articleshow/128369979.cms",
-    "time": "2026-02-15T03:36:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "All about Jacob Elordi’s stunning gold tooth",
-    "desc": "Jacob Elordi stole the spotlight at the 'Wuthering Heights' premiere, sporting an extravagant 14-karat gold tooth. This custom creation, embellished with 'C + H' and a sprinkle of diamonds, serves as a heartfelt homage to his character Heathcliff and the fervent, forbidden love he endures with Catherine.",
-    "img": "https://static.toiimg.com/photo/msid-128369989,imgsize-71332.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jacob-elordi-debuts-swoon-worthy-gold-tooth-with-hidden-meaning-what-we-know/articleshow/128369962.cms",
-    "time": "2026-02-15T03:36:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Big south stars on guest list",
-    "desc": "Wedding bells are ringing for Vijay Deverakonda and Rashmika Mandanna, with reports suggesting an intimate February 26th ceremony in Udaipur. A grand Hyderabad reception is planned for March 4th, expecting a star-studded guest list. The couple reportedly rejected a massive Rs 60 crore streaming offer for their wedding, prioritizing privacy for the event.",
-    "img": "https://static.toiimg.com/photo/msid-128369929,imgsize-112712.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakonda-and-rashmika-mandanna-wedding-big-south-stars-on-guest-list-reports/articleshow/128369929.cms",
-    "time": "2026-02-15T03:35:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "When, where and how to watch IND vs PAK on TV and online?",
     "desc": "The India vs Pakistan T20 World Cup 2026 match will be played on Sunday at the R Premadasa Stadium in Colombo. Both teams started strongly, with India dominating early and Pakistan recovering well. India has historically dominated Pakistan in T20 World Cups and has a strong record at this venue. Rain may affect the game. The match starts at 7 PM IST and will be broadcast on Star Sports and streamed on JioHotstar.",
@@ -297,15 +378,6 @@ const newsData_en = [
     "time": "2026-02-15T03:28:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Tu Yaa Main' sees good growth on Valentine's Day",
-    "desc": "Adventure-romance 'Tu Yaa Main' starring Adarsh Gourav and Shanaya Kapoor shows promising box office growth, doubling its collection on Saturday to an estimated Rs 1.4 crore. The film's two-day net total reached Rs 2 crore, making it Shanaya Kapoor's highest-grossing film. It faces stiff competition from 'O' Romeo' and 'Border 2'.",
-    "img": "https://static.toiimg.com/photo/msid-128369846,imgsize-65436.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/tu-yaa-main-box-office-collection-day-2-adarsh-gourav-shanaya-kapoor-starrer-sees-good-growth-on-valentines-day/articleshow/128369030.cms",
-    "time": "2026-02-15T03:28:10.000Z"
-  },
-  {
     "cat": "Business",
     "title": "What’s in store for garment exporters to the U.S.?",
     "desc": "What has the U.S. promised Bangladesh with respect to textiles? What are the conditions laid down by the U.S. to give Bangladeshi exporters unprecedented access to American markets? What is the assurance that Union Commerce Minister Piyush Goyal gave Indian textile exporters?",
@@ -313,24 +385,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/whats-in-store-for-garment-exporters-to-the-us-explained/article70633290.ece",
     "time": "2026-02-15T03:22:18.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Meta to cut pay outs to fact-checking partners in India",
-    "desc": "Two people with knowledge of discussions with the social media company told The Hindu that the firm planned to cut payments to professional fact checkers it has paid since 2016 by a third to half",
-    "img": "https://th-i.thgim.com/public/incoming/eqpyty/article70634499.ece/alternates/LANDSCAPE_1200/2026-02-09T103924Z_565968379_RC2VPGAKTI7X_RTRMADP_3_EU-META-PLATFORMS-AI-ANTITRUST.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/meta-to-cut-pay-outs-to-fact-checking-partners-in-india/article70631703.ece",
-    "time": "2026-02-15T03:16:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hudson Williams Shares Rare Valentine Tribute for Girlfriend",
-    "desc": "Hudson Williams shared a heartwarming Valentine's Day tribute to his girlfriend on Instagram, offering fans a rare glimpse into his personal life. The 'Heated Rivalry' star highlighted her unwavering support through his early struggles, even playfully including co-star Connor Storrie in the post, amidst fan speculation about their on-screen chemistry.",
-    "img": "https://static.toiimg.com/photo/msid-128369341,imgsize-407239.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hudson-williams-makes-rare-romance-public-with-heartfelt-valentines-day-tribute-to-his-longtime-girlfriend/articleshow/128369343.cms",
-    "time": "2026-02-15T02:59:43.000Z"
   },
   {
     "cat": "Sports",
@@ -513,15 +567,6 @@ const newsData_en = [
     "time": "2026-02-14T15:05:58.000Z"
   },
   {
-    "cat": "World",
-    "title": "Russian opposition leader Alexei Navalny was poisoned, five European nations say",
-    "desc": "The Foreign Ministries of the U.K., France, Germany, Sweden and the Netherlands said that analysis of samples from Navalny, “have conclusively confirmed the presence of epibatidine,” a toxin found in poison dart frogs in South America",
-    "img": "https://th-i.thgim.com/public/incoming/i8b30b/article70632466.ece/alternates/LANDSCAPE_1200/2026-02-14T132309Z_1140459049_RC2EG3A2OAMH_RTRMADP_3_BRITAIN-RUSSIA-NAVALNY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/european-nations-say-alexei-navalny-died-by-poisoning/article70632422.ece",
-    "time": "2026-02-14T14:24:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Jos Buttler scripts history, becomes the first wicketkeeper to…",
     "desc": "England's Jos Buttler has achieved a historic milestone, becoming the first wicketkeeper-batter to score 4,000 T20 International runs, doing so in a record 2,670 balls. This remarkable feat occurred during England's T20 World Cup match against Scotland. Buttler also marked his 150th T20I appearance, solidifying his status as a leading figure in the format.",
@@ -594,15 +639,6 @@ const newsData_en = [
     "time": "2026-02-14T12:41:02.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Move on' – How BCCI nudged Dhoni to quit captaincy and hand over to Kohli",
-    "desc": "The BCCI selection committee initiated the captaincy change from MS Dhoni to Virat Kohli in 2017. Former selector Jatin Paranjpe revealed Dhoni accepted the decision respectfully. Dhoni assured full support to Kohli, offering his experience. This transition occurred after Dhoni had already achieved significant white-ball success for India.",
-    "img": "https://static.toiimg.com/photo/msid-128346912,imgsize-164152.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/inside-story-move-on-how-bcci-nudged-ms-dhoni-to-quit-captaincy-and-hand-over-to-virat-kohli/articleshow/128346829.cms",
-    "time": "2026-02-14T12:13:25.000Z"
-  },
-  {
     "cat": "World",
     "title": "With a second aircraft carrier deployment, Trump raises the stakes with Iran",
     "desc": "The U.S. has already deployed USS Abraham Lincoln to the Arabian Sea, some 500 km off Iran’s Persian Gulf coast; on February 13, officials told U.S. media that the second carrier going to the region would be USS Gerald R. Ford, the world’s largest aircraft carrier",
@@ -619,15 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/reza-pahlavi-calls-on-trump-to-help-iranian-people/article70631956.ece",
     "time": "2026-02-14T11:40:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India vs Pakistan to be played on used surface",
-    "desc": "The highly anticipated India vs Pakistan clash on February 15 will be played on a used surface at the R Premadasa Stadium in Colombo, a factor that could significantly influence conditions and strategy in the marquee T20 World Cup encounter.",
-    "img": "https://static.toiimg.com/photo/msid-128343884,imgsize-34460.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pitch-report-from-colombo-india-vs-pakistan-to-be-played-on-used-surface/articleshow/128343860.cms",
-    "time": "2026-02-14T10:33:02.000Z"
   },
   {
     "cat": "World",
@@ -736,15 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/stopping-border-killings-ganga-waters-treaty-renewal-hasinas-presence-in-india-to-be-priority-for-incoming-bnp-government/article70629783.ece",
     "time": "2026-02-13T20:26:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Arundhati Roy withdraws from Berlin Film Festival amid Gaza row",
-    "desc": "Her statement comes after jury president Wim Wenders’ response to a question on Gaza at a press conference, where he stated, “We cannot really enter the field of politics,” calling filmmakers “the counterweight to politics”",
-    "img": "https://th-i.thgim.com/public/incoming/7n3jyx/article70630165.ece/alternates/LANDSCAPE_1200/Arundhati%20Roy%203.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/arundhati-roy-withdraws-from-berlin-film-festival-amid-gaza-row/article70630162.ece",
-    "time": "2026-02-13T20:26:05.000Z"
   },
   {
     "cat": "Tech",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-from-exile-to-power-who-is-bangladeshs-new-prime-minister-tarique-rahman/article70628252.ece",
     "time": "2026-02-13T11:50:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "NITI Report",
-    "desc": "According to the report, which tracked the export trends for the July-September quarter, India should enhance market access and integration into global value chains through proactive trade facilitation, government procurement support, anchor investments, MSME participation, and higher domestic value addition",
-    "img": "https://th-i.thgim.com/public/incoming/fa4kqb/article69083812.ece/alternates/LANDSCAPE_1200/VJ27_BUDGET__5_.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/niti-aayog-report-india-ftas-electronic-goods-exports/article70627907.ece",
-    "time": "2026-02-13T11:22:28.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Second U.S. aircraft carrier reportedly heading to West Asia as Iran tensions run high",
-    "desc": "The Ford's deployment, first reported by The New York Times, will put two carriers and their accompanying warships in the region; already, the USS Abraham Lincoln and its accompanying guided-missile destroyers are in the Arabian Sea",
-    "img": "https://th-i.thgim.com/public/incoming/64os4v/article70627544.ece/alternates/LANDSCAPE_1200/2026-02-03T182625Z_1881295317_RC255GAYXOND_RTRMADP_3_USA-IRAN-MILITARY-DRONE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/second-us-aircraft-carrier-reportedly-heading-to-west-asia-as-iran-tensions-run-high/article70627491.ece",
-    "time": "2026-02-13T09:49:17.000Z"
   }
 ];
