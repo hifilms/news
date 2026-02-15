@@ -1,6 +1,33 @@
 const newsData_bn = [
   {
     "cat": "World",
+    "title": "কী হবে বিএনপির পরবর্তী পদক্ষেপ? জামায়াত কোন পথে হাঁটবে? ডঃ ইউনূস এখন কোন ভূমিকায় অবতীর্ণ হচ্ছেন?",
+    "desc": "নির্বাচনের পর এখন সবার নজর—কী হবে বিএনপির পরবর্তী পদক্ষেপ? জামায়াত কোন পথে হাঁটবে? আর অন্তর্বর্তী সরকার থেকে ড. ইউনূস এখন কোন ভূমিকায় অবতীর্ণ হচ্ছেন? প্রথমেই বলি বিএনপির অবস্থান কী হবে এই নিয়ে কতুহল সকলের৷ জয়-পরাজয় নির্ধারিত হয়ে গেছে। এখন সবার মনে একটাই প্রশ্ন—কবে শপথ নেবেন আগামীর রাষ্ট্রনায়ক? বিশ্বস্ত সূত্র বলছে, আগামী ১৮ থেকে ২০শে ফেব্রুয়ারির মধ্যেই একটি জমকালো অনুষ্ঠানের মাধ্যমে তারেক রহমানের নেতৃত্বে নতুন মন্ত্রিসভার শপথ গ্রহণ অনুষ্ঠিত হতে পারে। ড. ইউনূসের কাছ থেকে গণতান্ত্রিক ম্যান্ডেট বুঝে নিয়ে বিএনপিকে এখন প্রমাণ করতে হবে তারা আগের চেয়ে অনেক বেশি পরিণত। জামায়াতকে প্রমাণ করতে হবে তারা সংসদীয় গণতন্ত্রে আস্থাশীল, আর জেন-জিকে থাকতে হবে অতন্দ্র প্রহরীর ভূমিকায়। ড. ইউনূসের রেখে যাওয়া রাষ্ট্র সংস্কারের ভিত্তির ওপর দাঁড়িয়ে বাংলাদেশ কি পারবে কাঙ্ক্ষিত গন্তব্যে পৌঁছাতে? উত্তর দেবে সময়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Web-2026-02-15T175237.159-2026-02-868dccaf33d2719fc8833964fc56004d.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/international/what-is-going-to-be-the-future-of-bangladesh-after-bnp-wins-election-pbd-2541864.html",
+    "time": "2026-02-15T18:19:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "পাকিস্তানকে তুলোধনা করে ৫ বড় রেকর্ড গড়লেন ইশান কিশান, নাম তুললেন ইতিহাসের পাতায়",
+    "desc": "২৭ বলে নিজের হাফ সেঞ্চুরি পূরণ করেন ইশান কিশান। অবশেষে ৪০ বলে ৭৭ রানের ইনিংস খেলে সঈম আয়ূবের বলে সাজঘরে ফেরেন ইশান। ১০টি চার ও ৩টি ছয়ে সাজানো তার ইনিংস। একইসঙ্গে একাধিক রেকর্ডও নিজের নামে করেন তিনি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ISHAN-KISHAN-34-2026-02-a57a1ccda45519e99c32bb51cb9aa141-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/ishan-kishan-creates-5-unique-world-records-after-played-devastating-innings-against-pakistan-ind-vs-pak-icc-t20-world-cup-2026-sup-2541773.html",
+    "time": "2026-02-15T17:31:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ফ্রান্সের প্রেসিডেন্ট, বিল গেটস থেকে সুন্দর পিচাই...দিল্লিতে চাঁদের হাট! শুরু হতে চলেছে এআই ইমপ্যাক্ট সামিট ২০২৬",
+    "desc": "উপস্থিত হওয়ার কথা ফ্রান্সের প্রেসিডেন্ট এমানুয়েল ম‍্যাক্রোঁ, ব্রাজিলের প্রেসিডেন্ট লুইস লুলা দা সিলভার। উপস্থিত থাকবেন বিল গেটস থেকে সুন্দর পিচাই, মুকেশ আম্বানী থেকে ওপেন এআইয়ের স‍্যাম অলটম‍্যান-সহ ৪০শের বেশি গ্লোবাল টেক জায়ান্টের সিইও এবং শীর্ষস্থানীয় আধিকারিকরা৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ai-impact-summit-2026-2026-02-5c9817093c36ed6581bd8ddc4a2bff5f-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/india-ai-impact-summit-2026-in-bharat-mandapam-security-arrangements-foreign-visitors-ank-2541664.html",
+    "time": "2026-02-15T15:23:18.000Z"
+  },
+  {
+    "cat": "World",
     "title": "বিএনপি সরকারের শপথে ভারত! ওম বিরলা যাচ্ছেন ঢাকায়, মোদী-তারেক কথোপকথনে নতুন ইঙ্গিত",
     "desc": "বাংলাদেশের প্রধানমন্ত্রী নির্বাচিত ও বিএনপি প্রধান তারেক রহমান-এর শপথগ্রহণ অনুষ্ঠানে ভারতের পক্ষ থেকে প্রতিনিধিত্ব করবেন লোকসভার স্পিকার ওম বিরলা। আগামী মঙ্গলবার, ১৭ ফেব্রুয়ারি ২০২৬ ঢাকায় এই শপথ অনুষ্ঠান অনুষ্ঠিত হবে বলে জানিয়েছে ভারতের বিদেশ মন্ত্রক।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/Bangladesh-Oath-Ceremony-2026-02-dca1bb0bcead9b28f2e4f4ce61233092-3x2.jpg",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/west-bengal/west-bengal-budget-2026-cpim-held-a-protest-march-in-dhupguri-against-the-central-and-state-budgets-burning-copies-of-the-budget-and-blocking-the-national-highway-in-protest-sanj-2529616.html",
     "time": "2026-02-07T03:37:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "উত্তরপ্রদেশে বাড়ল চূড়ান্ত ভোটার তালিকা প্রকাশের সময়সীমা, ১০ এপ্রিল প্রকাশিত হবে চূড়ান্ত তালিকা",
-    "desc": "এসআইআর প্রক্রিয়ায় আরও সময় লাগবে জানিয়ে গত ২ ফেব্রুয়ারি উত্তরপ্রদেশের মুখ্য নির্বাচনী আধিকারিক নির্বাচন কমিশনকে চিঠি লিখেছিলেন। কারণ হিসাবে একাধিক সমস্যার কথা উল্লেখ করেছিলেন তিনি। সেই চিঠি পাওয়ার পরেই সমস্যাগুলির কথা বিবেচনা করে কমিশন। সময়সীমা বাড়ানোর সিদ্ধান্ত নেওয়া হয়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/asqa-2026-02-276bc7efe44bd66e3f6f1aff1188d301-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/uttar-pradesh-ec-extends-deadline-for-filing-claims-and-objections-under-sir-of-electoral-rolls-in-uttar-pradesh-rm-2529445.html",
-    "time": "2026-02-06T16:15:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "রাস্তার ধারের বিরাট গর্তে পড়ে রক্তাক্ত নিথর দেহ! পাশে মোটরবাইক, দিল্লিতে ফিরল নয়ডার স্মৃতি",
-    "desc": "মৃত ওই ব্যক্তির নাম কামাল, তিনি কৈলাসপুরী এলাকার বাসিন্দা ছিলেন৷ কামালের পরিবারের সূত্রের খবর, রোহিনী এলাকায় তাঁর অফিস৷ গত বৃহস্পতিবার তিনি গভীর রাত করে বাড়ি ফিরছিলেন৷ গোটা বাড়ি ফেরার পথে পরিবারের সদস্যদের সঙ্গে কথাও হচ্ছিল তাঁর৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ydne-2026-02-06T150334.488-2026-02-1e7920b650543cdc04ae2e861f7d2eb5-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/dehli-man-falls-into-a-pit-road-side-with-motorcycle-delhi-motorcyclist-dead-janakpuri-sta-2526217.html",
-    "time": "2026-02-06T13:00:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ভয়ংকর কাণ্ড! রাত ৩টের সময় বাড়ি ঘিরে নেয় দুষ্কৃতীরা, প্রাণ বাঁচাতে হাতে বন্দুক তুলে নেন গোবিন্দা...",
-    "desc": "ম্যানেজার শশী সিনহার বয়ান অনুযায়ী, রাত তখন প্রায় ৩টে থেকে ৩:৩০টে। গোবিন্দার বাসভবনের সামনে জড়ো হয়েছিল প্রচুর লোক। পরিস্থিতি এতটাই উত্তপ্ত ছিল যে যেকোনো সময় অপ্রীতিকর কিছু ঘটে যেতে পারত। পরিস্থিতি সামলাতে নিজের লাইসেন্সড রিভলবারটি বের করেন সুপারস্টার। বলিউডে চক্রান্তের শিকার সুপারস্টার?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/govinda-manager-shashi-sinha-self-defense-incident-clarification_639916.html ",
-    "time": "2026-02-06T12:51:24.000Z"
   }
 ];

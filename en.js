@@ -1,12 +1,210 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Jennifer Aniston",
+    "desc": "Jennifer Aniston, oftentimes hailed as 'America's Sweetheart,' continues to uplift audiences with her unwavering positivity. Known for her legendary portrayal in 'Friends,' she has become a beacon of hope, consistently reminding us that, 'Happiness is a choice.",
+    "img": "https://static.toiimg.com/photo/msid-128377076,imgsize-283332.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-jennifer-aniston-if-youre-not-happy-you-can-become-happy-happiness-is-a-choice/articleshow/128377076.cms",
+    "time": "2026-02-15T17:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Randhir spoke about his drinking which led to trouble with Babita",
+    "desc": "Randhir Kapoor, celebrating his birthday, opened up about his drinking habits contributing to marital troubles with Babita. He also reflected on the financial pressures faced by actors in his era compared to today's stars who have multiple income streams. Despite separating in 1988, Randhir and Babita reunited in 2023.",
+    "img": "https://static.toiimg.com/photo/msid-128390995,imgsize-88494.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-randhir-kapoor-said-his-drinking-habit-led-to-problems-in-his-marriage-spoke-about-struggles-to-earn-money-for-karisma-kapoor-kareenas-tuition-fees-home-expenses/articleshow/128390727.cms",
+    "time": "2026-02-15T17:24:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Six of top-10 firms lose over Rs 3 lakh crore in market cap; TCS, Infosys hit hard",
+    "desc": "Top Indian firms saw over Rs 3 lakh crore wiped off their market value last week, with IT giants TCS and Infosys leading the decline. A broad market selloff, fueled by global cues and AI disruption fears impacting tech stocks, dragged down valuations. However, select banking and financial stocks like SBI managed to gain.",
+    "img": "https://static.toiimg.com/photo/msid-128390885,imgsize-846319.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/six-of-top-10-firms-lose-over-rs-3-lakh-crore-in-market-cap-tcs-infosys-hit-hard/articleshow/128390731.cms",
+    "time": "2026-02-15T17:23:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'This is for India': Suryakumar Yadav's fiery words after smashing Pakistan",
+    "desc": "Defending champions India dominated Pakistan with a 61-run victory. Ishan Kishan's explosive 77 set the tone for India's 176. The bowlers then dismantled Pakistan's lineup, restricting them to 114. This win guarantees India's place in the Super Eights. The team displayed strong batting and bowling performances.",
+    "img": "https://static.toiimg.com/photo/msid-128390936,imgsize-69754.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/this-is-for-india-suryakumar-yadavs-fiery-words-after-smashing-pakistan/articleshow/128390899.cms",
+    "time": "2026-02-15T17:22:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Is Rohit Saraf set to be a part of 'Heer Ranjha'?",
+    "desc": "Following the success of 'Laila Majnu', director Sajid Ali is now set to bring 'Heer Ranjha' to the screen, backed by Imtiaz Ali and Ektaa R Kapoor. While initial reports suggested Rohit Saraf as Ranjha, these claims have been refuted, with the makers confirming casting is still underway. The film promises a modern take on classic romance.",
+    "img": "https://static.toiimg.com/photo/msid-128390324,imgsize-22156.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/is-rohit-saraf-set-to-be-a-part-of-heer-ranjha-heres-what-we-know/articleshow/128390332.cms",
+    "time": "2026-02-15T17:03:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "We bore the blame for your mistakes, Congress MP Manickam Tagore tells DMK",
+    "desc": "In remarks made at a meeting of the District Congress Committee in Madurai, Mr. Tagore was indirectly referring to the corruption allegations against the DMK that resulted in the decimation of the United Progressive Alliance in the 2014 Lok Sabha election",
+    "img": "https://th-i.thgim.com/public/incoming/se4a3u/article70635956.ece/alternates/LANDSCAPE_1200/People-will-decGM2FIRCLC.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/we-bore-the-blame-for-your-mistakes-congress-mp-manickam-tagore-tells-dmk/article70635887.ece",
+    "time": "2026-02-15T16:58:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "2026–27 Rural Development Budget: VB-G RAM G gets 40% of funds; MGNREGS sees 66% cut",
+    "desc": "A new rural employment scheme, VB-G RAM G, has secured the largest budget share, overshadowing MGNREGA with a significant allocation. While MGNREGA faces a sharp funding cut, other key rural development projects like PMAY-G and PMGSY have seen substantial increases. The shift in fund-sharing for VB-G RAM G could impact state government spending.",
+    "img": "https://static.toiimg.com/photo/msid-128390139,imgsize-1337138.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/new-vb-g-ram-g-scheme-gets-40-of-rural-development-budget-rs-95692-crore-allocated/articleshow/128389461.cms",
+    "time": "2026-02-15T16:56:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "EAM S Jaishankar greets Serbia on Statehood Day during visit to Munich Security Conference",
+    "desc": "The External Affairs Minister had earlier met Serbian Foreign Affairs Minister Marko Djuric on the sidelines of the conference on Saturday. In a post on X, Jaishankar said, \"Greetings to FM @markodjuric, the government and people of Serbia on their Statehood Day. Appreciate our long-standing partnership.\"",
+    "img": "https://static.toiimg.com/photo/msid-128390254,imgsize-631414.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/eam-s-jaishankar-greets-serbia-on-statehood-day-during-visit-to-munich-security-conference/articleshow/128390128.cms",
+    "time": "2026-02-15T16:56:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No handshake after India outplay Pakistan in 61 run statement win",
+    "desc": "India dominated Pakistan in the T20 World Cup clash, securing a convincing victory. Ishan Kishan's explosive 77 powered India to 175, a total their bowlers defended expertly. Despite a brief resistance from Pakistan, India's disciplined bowling attack, led by Hardik Pandya and Jasprit Bumrah, restricted them to 114, clinching a comfortable win.",
+    "img": "https://static.toiimg.com/photo/msid-128389611,imgsize-173442.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/no-handshake-after-india-outplay-pakistan-in-61-run-statement-win/articleshow/128389646.cms",
+    "time": "2026-02-15T16:52:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ishan Kishan comes out of syllabus for Pakistan as India win by 61 runs",
+    "desc": "India turned the much-hyped India-Pakistan clash into a one-sided affair as Ishan Kishan’s belligerent 77 blew Pakistan out of the contest. After setting 175, India’s bowlers ran through a hapless Pakistani batting line-up to seal a thumping win and confirm their Super Eight qualification dominantly.",
+    "img": "https://static.toiimg.com/photo/msid-128389468,imgsize-58444.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ishan-kishan-comes-out-of-syllabus-for-pakistan-as-india-win-by-61-runs/articleshow/128389399.cms",
+    "time": "2026-02-15T16:50:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CPRG to host multiple events at India AI Impact Summit 2026 in New Delhi; focus on AI in education, employability, and data governance",
+    "desc": "The Center of Policy Research and Governance (CPRG) will host the India AI Impact Summit 2026 from February 16-20 in New Delhi. The event will feature discussions on AI's impact on education, employability, data governance, and institutional transformation, with sessions held at various venues. Senior ministers, policymakers, and industry leaders are expected to participate.",
+    "img": "https://static.toiimg.com/photo/msid-128389897,imgsize-753180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cprg-to-host-multiple-events-at-india-ai-impact-summit-2026-in-new-delhi-focus-on-ai-in-education-employability-and-data-governance/articleshow/128389810.cms",
+    "time": "2026-02-15T16:50:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi CM Rekha Gupta offers prayers at Shrinathji Temple on Mahashivratri",
+    "desc": "Rekha Gupta expressed, \"Today, on the occasion of Mahashivratri, I feel incredibly fortunate to have had the opportunity to offer prayers to Lord Shrinathji. I am filled with a profound sense of peace and joy. \"",
+    "img": "https://static.toiimg.com/photo/msid-128389995,imgsize-88062.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rajasthan-delhi-cm-rekha-gupta-offers-prayers-at-shrinathji-temple-on-mahashivratri/articleshow/128389803.cms",
+    "time": "2026-02-15T16:45:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Dua Lipa and Callum Turner’s USD 40 million fortune",
+    "desc": "Pop sensation Dua Lipa and actor Callum Turner's estimated net worth stands at USD 40 million, with Lipa's music career contributing the vast majority. Turner, known for 'Fantastic Beasts' and 'Masters of the Air,' has amassed a significant fortune of his own, showcasing their impressive financial standing.",
+    "img": "https://static.toiimg.com/photo/msid-128376290,imgsize-852147.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/inside-dua-lipa-and-callum-turners-usd-40-million-fortune-who-holds-the-bigger-share/articleshow/128376290.cms",
+    "time": "2026-02-15T16:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Humankind avoids performing 'Dhurandhar' track",
+    "desc": "Rapper Hanumankind electrified the ICC T20 World Cup in Colombo with a powerful performance, but notably omitted the title track from the film 'Dhurandhar'. Despite the film's ban in Pakistan and its pirated popularity there, the artist chose a politically neutral set for the cross-border audience. His energetic delivery of hits like 'Big Dawgs' captivated the stadium.",
+    "img": "https://static.toiimg.com/photo/msid-128389030,imgsize-32292.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ind-vs-pak-t20-world-cup-rapper-singer-humankind-avoids-dhurandhar-title-track-before-the-match-performs-on-big-dawgs/articleshow/128389026.cms",
+    "time": "2026-02-15T16:18:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "MeitY: India hosts AI Impact Summit to democratise technology for Global South",
+    "desc": "The Ministry of Electronics and Information Technology (MeitY) said India’s AI Impact Summit will focus on democratising artificial intelligence for the Global South. The summit aims to ensure that AI development is inclusive and accessible, particularly for developing nations.",
+    "img": "https://th-i.thgim.com/public/incoming/wwqxq9/article70636202.ece/alternates/LANDSCAPE_1200/AI1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-meity-india-hosts-ai-impact-summit-to-democratise-technology-for-global-south/article70636206.ece",
+    "time": "2026-02-15T16:16:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Hope for India-Bangladesh ties in Tarique Rahman’s development pitch: diplomatic sources",
+    "desc": "The Indian side keenly watched the campaign trail of Rahman and found that his 31-point agenda has several areas such as his plans in digital domain and infrastructure building that may help improvement in ties",
+    "img": "https://th-i.thgim.com/public/incoming/vjx31e/article70636180.ece/alternates/LANDSCAPE_1200/2026-02-14T112257Z_617951973_RC2MLJAMTTZK_RTRMADP_3_BANGLADESH-ELECTION-TARIQUE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/hope-for-india-bangladesh-ties-in-tarique-rahmans-development-pitch-diplomatic-sources/article70635995.ece",
+    "time": "2026-02-15T16:12:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Economic growth spreads beyond metros; northern, eastern districts gain momentum: Report",
+    "desc": "India's economic growth is expanding beyond major cities, with northern and eastern districts emerging as new activity hubs. While established metros like Ahmedabad and Bengaluru lead, districts such as Gurugram, Hooghly, and Moradabad show significant rank improvements. This decentralised growth, driven by infrastructure and connectivity, signals a reshaping of local economies beyond traditional urban centres.",
+    "img": "https://static.toiimg.com/photo/msid-128388508,imgsize-202563.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/economic-growth-spreads-beyond-metros-northern-eastern-districts-gain-momentum-report/articleshow/128388217.cms",
+    "time": "2026-02-15T15:59:45.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Larry the cat marks 15 years at 10 Downing Street",
+    "desc": "Larry has lived through six Prime Ministers, from David Cameron to Keir Starmer, weathered the storms of Brexit, Covid-19, the chaos of \"partygate,\" Liz Truss's 49-day whirlwind occupation, and the more orderly months under Rishi Sunak",
+    "img": "https://th-i.thgim.com/public/incoming/9lsaxo/article70634647.ece/alternates/LANDSCAPE_1200/Britain_Larry_The_Cat_Photo_Gallery_56650.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/paw-patrol-larry-the-cat-marks-15-years-at-10-downing-street/article70634613.ece",
+    "time": "2026-02-15T15:36:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arjun Kapoor drops a cryptic note about 'not giving up' amidst trolling",
+    "desc": "Actor Arjun Kapoor is facing persistent online trolling, though the reasons remain unclear. Despite this, he remains positive, sharing cryptic Instagram posts about perseverance. He recently posted a reflective message about not regretting continued effort and an emotional tribute to his late mother, hinting at a difficult phase.",
+    "img": "https://static.toiimg.com/photo/msid-128387865,imgsize-91186.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arjun-kapoor-drops-a-cryptic-note-about-not-giving-up-amidst-all-the-trolling-on-the-internet-if-you-keep-going-/articleshow/128387879.cms",
+    "time": "2026-02-15T15:35:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Monank, Sanjay make merry as USA crushes Namibia, keeps hopes alive",
+    "desc": "With back-to-back victories, USA finished the group stage on four points and are on third place behind India and Pakistan as they remain in contention for a place in the next round from Group A, though they will depend on other results",
+    "img": "https://th-i.thgim.com/public/incoming/jsv1sh/article70635190.ece/alternates/LANDSCAPE_1200/DSC_0121A.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/usa-vs-namibia-group-stage-match-t20-world-cup-updates/article70634963.ece",
+    "time": "2026-02-15T15:35:10.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Study flags steady drop in Kerala’s southwest, northeast monsoon rainfall",
     "desc": "‘Kerala’s average rainfall during the southwest (June-September) and northeast (October-December) monsoons, the State’s primary sources of precipitation, decreased by 12.5% and 6.1% of the long-period average (LPA, 1971–2020) per 100 years, respectively, between 1901 and 2025’",
     "img": "https://th-i.thgim.com/public/incoming/pyxvg5/article70635900.ece/alternates/LANDSCAPE_1200/11073_15_2_2026_19_22_33_1_16KZ1_RAINFALL.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/study-flags-steady-drop-in-keralas-southwest-northeast-monsoon-rainfall/article70635871.ece",
-    "time": "2026-02-15T15:12:56.000Z"
+    "time": "2026-02-15T15:30:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "10-month-old Alin Sherin, Kerala’s youngest organ donor, laid to rest with State honours",
+    "desc": "Ten-month-old Alin Sherin Abraham, Kerala’s youngest organ donor, was laid to rest with State and police honours on February 15 after an emotional funeral in Pathanamthitta. Chief Minister Pinarayi Vijayan, in a Facebook post, and Governor Rajendra Vishwanath Arlekar hailed her parents’ decision as a noble act beyond words.",
+    "img": "https://th-i.thgim.com/public/incoming/kry77/article70636066.ece/alternates/LANDSCAPE_1200/rijiju%203.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-10-month-old-alin-sherin-keralas-youngest-organ-donor-laid-to-rest-with-state-honours/article70636071.ece",
+    "time": "2026-02-15T15:27:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ishan's blazing fifty helps India rewrite T20 World Cup history vs Pakistan",
+    "desc": "India achieved a record T20 World Cup score against Pakistan, posting 175 for seven. Ishan Kishan's explosive 77 off 40 balls anchored the innings on a tricky Colombo pitch. Despite a mid-innings wobble triggered by Saim Ayub, Suryakumar Yadav and Shivam Dube provided crucial support, ensuring India set a new high in this intense rivalry.",
+    "img": "https://static.toiimg.com/photo/msid-128387241,imgsize-84902.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ishan-kishans-blazing-fifty-helps-india-rewrite-t20-world-cup-history-vs-pakistan/articleshow/128387255.cms",
+    "time": "2026-02-15T15:22:47.000Z"
   },
   {
     "cat": "Politics",
@@ -16,6 +214,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/pinarayi-will-be-kerala-cm-again-says-congress-leader-mani-shankar-aiyar/article70635824.ece",
     "time": "2026-02-15T15:05:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kishan, Hardik, Tilak: Saim Ayub's triple strike stuns India",
+    "desc": "Saim Ayub's crucial bowling spell shifted momentum in Pakistan's favor during their T20 World Cup match against India. He dismissed key Indian batsmen Ishan Kishan and Tilak Varma, followed by a golden duck for Hardik Pandya. Ayub's impressive figures of three wickets for 25 runs in four overs significantly impacted the game's progression.",
+    "img": "https://static.toiimg.com/photo/msid-128386994,imgsize-84560.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ishan-kishan-hardik-pandya-tilak-varma-saim-ayubs-triple-strike-stuns-india-in-colombo/articleshow/128386896.cms",
+    "time": "2026-02-15T15:04:52.000Z"
   },
   {
     "cat": "Business",
@@ -45,13 +252,13 @@ const newsData_en = [
     "time": "2026-02-15T14:17:25.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Monank, Sanjay make merry as USA crushes Namibia",
-    "desc": "With back-to-back victories, USA finished the group stage on four points and are on third place behind India and Pakistan as they remain in contention for a place in the next round from Group A, though they will depend on other results",
-    "img": "https://th-i.thgim.com/public/incoming/jsv1sh/article70635190.ece/alternates/LANDSCAPE_1200/DSC_0121A.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/usa-vs-namibia-group-stage-match-t20-world-cup-updates/article70634963.ece",
-    "time": "2026-02-15T14:06:50.000Z"
+    "cat": "Entertainment",
+    "title": "'Mr India' director Shekhar Kapur left job in London, destiny had other plans",
+    "desc": "Filmmaker Shekhar Kapur, known for 'Mr India' and 'Masoom', revealed he never planned a career in filmmaking, initially aiming to be a Chartered Accountant. He walked away from his accounting career in London, questioning if destiny or karma led him to acting, directing, theatre, and academia across continents.",
+    "img": "https://static.toiimg.com/photo/msid-128385842,imgsize-60390.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mr-india-director-shekhar-kapur-recalls-leaving-job-ca-job-in-london-karma-destiny-really/articleshow/128385790.cms",
+    "time": "2026-02-15T14:17:19.000Z"
   },
   {
     "cat": "Entertainment",
@@ -99,15 +306,6 @@ const newsData_en = [
     "time": "2026-02-15T13:31:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "LJP(RV) protests RJD MLA’s comment against Ram Vilas Pawan, burns Tejashwi Yadav's effigy",
-    "desc": "Protesters called the RJD anti-Dalit and burnt the effigy of RJD's national working president, Tejashwi Yadav. RJD MLA from Bodh Gaya Constituency, Kumar Sarvjeet, had on February 11 described LJP founder and former Union Minister Ram Vilas Paswan as a \"Bechara\" (pitiable) in the context of his political journey",
-    "img": "https://th-i.thgim.com/public/incoming/l05y8k/article70635495.ece/alternates/LANDSCAPE_1200/20260215148L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/ljprv-protests-rjd-mlas-comment-against-ram-vilas-pawan-burns-tejashwi-yadavs-effigy/article70635438.ece",
-    "time": "2026-02-15T13:24:40.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India-UK trade agreement likely to come into force in April: Report",
     "desc": "India and the UK's free trade agreement, signed last year, is slated for implementation by April 2026. This pact promises 99% duty-free access for Indian exports to Britain, while India will lower tariffs on cars and whisky. Parliamentary approval is currently underway in the UK, paving the way for enhanced bilateral trade.",
@@ -115,15 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/india-uk-trade-agreement-likely-to-come-into-force-in-april-report/articleshow/128384095.cms",
     "time": "2026-02-15T13:21:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala Judicial Academy to update infra facilities to train its first-ever visually challenged trainee judge",
-    "desc": "The changes are being proposed to support C. Thanya Nathan, a person with no light perception, who was ranked first in the merit list of persons with benchmark disabilities in the recently held judicial service examination for the selection of Civil Judges (Junior Division)",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-judicial-academy-to-update-infra-facilities-to-train-its-first-ever-visually-challenged-trainee-judge/article70635338.ece",
-    "time": "2026-02-15T13:17:36.000Z"
   },
   {
     "cat": "World",
@@ -169,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mrunal-thakur-reacts-to-marriage-rumours-with-dhanush-thanks-those-spreading-fake-news/articleshow/128383128.cms",
     "time": "2026-02-15T12:38:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP's Suvendu Adhikari flags border security concerns in Bengal after Bangladesh polls",
-    "desc": "The BJP leader in his post in Bengali alleged that the ruling Trinamool Congress government in the State has repeatedly failed to extend full cooperation in land acquisition needed by the BSF for border fencing",
-    "img": "https://th-i.thgim.com/public/incoming/ivt0nc/article70635312.ece/alternates/LANDSCAPE_1200/20260206433L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/bjps-suvendu-adhikari-flags-border-security-concerns-in-bengal-after-bangladesh-polls/article70635285.ece",
-    "time": "2026-02-15T12:35:30.000Z"
   },
   {
     "cat": "Politics",
@@ -396,15 +576,6 @@ const newsData_en = [
     "time": "2026-02-15T09:52:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "14.9% of the world, 126 million added: What Pew's religious survey reveals about the Hindu rate of growth between 2010 and 2020",
-    "desc": "According to the Pew Research Center’s global demographic study “How the Global Religious Landscape Changed From 2010 to 2020,” the actual Hindu rate of growth today turns out to be strikingly literal. The world’s Hindu population has been expanding almost exactly in line with the growth of humanity itself. Neither surging dramatically nor shrinking in relative terms, Hinduism’s demographic story is one of stability in a century defined by rapid religious change.",
-    "img": "https://static.toiimg.com/photo/msid-128378335,imgsize-440842.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pew-religious-survey-hindu-growth-of-rate/articleshow/128378156.cms",
-    "time": "2026-02-15T09:48:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Crushing Nepal by 9 wkts, Windies become first to reach T20 WC Super 8s",
     "desc": "West Indies became the first team to qualify for the T20 World Cup Super Eights after a dominant nine-wicket win over Nepal. Nepal struggled early and managed 133/8, with Dipendra Singh Airee scoring 58. Jason Holder took 4/27. Shai Hope (61*) and Shimron Hetmyer (46*) chased the target in 15.2 overs. Nepal were eliminated from the tournament.",
@@ -432,15 +603,6 @@ const newsData_en = [
     "time": "2026-02-15T09:24:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kedarnath shrine to reopen on April 22; dates for Badrinath, Gangotri, Yamunotri Dham also announced",
-    "desc": "Kedarnath Temple will welcome devotees from April 22, concluding its winter hiatus. The auspicious reopening date was fixed on Mahashivratri at the shrine's winter seat. This marks the commencement of the Char Dham Yatra, with Badrinath opening on April 23, and Gangotri and Yamunotri on April 19. Thousands are expected to participate in the pilgrimage.",
-    "img": "https://static.toiimg.com/photo/msid-128377926,imgsize-220698.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kedarnath-shrine-to-reopen-on-april-22-dates-for-badrinath-gangotri-yamunotri-dham-also-announced-check/articleshow/128377862.cms",
-    "time": "2026-02-15T09:23:22.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Did Salman Khan get Rajpal Yadav out of jail?",
     "desc": "A viral throwback video of Rajpal Yadav praising Salman Khan has fueled speculation about the superstar's alleged help in the actor's ongoing Rs 9 crore debt case. While Yadav remains in Tihar Jail, his manager confirmed that half the debt has been settled, with negotiations ongoing.",
@@ -457,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-speaks-on-love-war-delay-confirms-film-postponement/articleshow/128376703.cms",
     "time": "2026-02-15T08:30:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'It's wrong'",
-    "desc": "Harbhajan Singh defended Abhishek Sharma after Mohammad Amir called him a “slogger” ahead of the India vs Pakistan T20 World Cup clash. Harbhajan said Abhishek is a skilled and determined batsman with a full range of shots, not someone who blindly hits the ball. He criticised critics for judging without facing him and urged Abhishek to prove himself with a big innings for India.",
-    "img": "https://static.toiimg.com/photo/msid-128375828,imgsize-57882.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-pak-its-wrong-harbhajan-singh-blasts-ex-pakistan-pacer-mohammad-amir-for-his-abhishek-sharma-remarks/articleshow/128375459.cms",
-    "time": "2026-02-15T07:57:47.000Z"
   },
   {
     "cat": "Entertainment",
@@ -486,15 +639,6 @@ const newsData_en = [
     "time": "2026-02-15T07:40:11.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'White-collar' terror probe: Doctors formed 'Ansar Interim' to carry out attacks",
-    "desc": "A new terror outfit, 'Ansar Interim,' formed by radicalised doctors, has been exposed by J&K Police. The group, allegedly linked to Al-Qaeda, planned subversive activities, including IED attacks. Investigations revealed procurement of explosive materials and attempts to recruit members, with a key operative planning a VBIED blast.",
-    "img": "https://static.toiimg.com/photo/msid-128375493,imgsize-1640600.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/white-collar-terror-probe-doctors-formed-ansar-interim-to-carry-out-attacks/articleshow/128375291.cms",
-    "time": "2026-02-15T07:40:01.000Z"
-  },
-  {
     "cat": "World",
     "title": "Russian opposition leader Alexei Navalny was poisoned, five European nations say",
     "desc": "The Foreign Ministries of the U.K., France, Germany, Sweden and the Netherlands said that analysis of samples from Navalny, “have conclusively confirmed the presence of epibatidine,” a toxin found in poison dart frogs in South America",
@@ -504,69 +648,6 @@ const newsData_en = [
     "time": "2026-02-15T07:23:51.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Harry Styles net worth in 2026",
-    "desc": "Harry Styles' net worth is projected to reach USD 140 million by 2026, a testament to his multifaceted career. Beyond his 'One Direction' fame, his solo music, record-breaking world tours, acting roles, lucrative fashion deals, and successful 'Pleasing' brand have significantly boosted his fortune.",
-    "img": "https://static.toiimg.com/photo/msid-128374878,imgsize-42594.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/harry-styles-net-worth-inside-the-aperture-singers-usd-140-million-fortune/articleshow/128374839.cms",
-    "time": "2026-02-15T07:16:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sooryavanshi not to appear for Class 10 board exams",
-    "desc": "India’s 14-year-old cricket prodigy Vaibhav Sooryavanshi will skip his CBSE Class 10 board exams due to a busy cricket schedule. Despite completing formalities, his family and school decided he wasn’t prepared. The U19 World Cup star has broken multiple records but can’t play for India’s senior team yet due to age rules. Once he turns 15 in 2026, a senior debut is expected.",
-    "img": "https://static.toiimg.com/photo/msid-128374785,imgsize-161180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-not-to-appear-for-class-10-board-exams-heres-why/articleshow/128374098.cms",
-    "time": "2026-02-15T07:10:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'If the opposition doesn't allow the House to function, we will go for the guillotine': Rijiju",
-    "desc": "Union Minister Kiren Rijiju announced that the no-confidence motion against Lok Sabha Speaker Om Birla will be debated and voted on March 9. The second part of the Budget session, starting the same day, is expected to be \"interesting\" with crucial legislation. Rijiju warned that continued opposition protests could be detrimental to them and suggested potential cracks in opposition unity.",
-    "img": "https://static.toiimg.com/photo/msid-128374544,imgsize-1030027.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/if-the-opposition-doesnt-allow-the-house-to-function-we-will-go-for-the-guillotine-rijiju/articleshow/128374519.cms",
-    "time": "2026-02-15T07:01:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Amy Schumer urges fans to cry freely in V-Day post",
-    "desc": "Amy Schumer, recently divorced from Chris Fischer after seven years of marriage, is encouraging her fans to embrace their emotions this Valentine's Day. Sharing a selfie from a \"Crying Corner,\" the actress urged everyone to \"give yourself all the love today.\" Despite the split, the couple remains committed to co-parenting their son, reportedly still living together for his sake.",
-    "img": "https://static.toiimg.com/photo/msid-128374479,imgsize-21632.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/amy-schumer-is-all-about-self-love-this-valentines-after-split-with-chris-fischer-shares-a-selfie-in-crying-corner/articleshow/128374479.cms",
-    "time": "2026-02-15T07:01:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Is 'Mauja Hi Mauja' Shahid's favourite dance track?",
-    "desc": "Shahid Kapoor's energetic performance of 'Mauja Hi Mauja' at a wedding has fans believing it's his ultimate go-to track. This comes as his latest film, 'O' Romeo', garners significant box office success, raking in over Rs 20 crore in its opening weekend and topping the charts.",
-    "img": "https://static.toiimg.com/photo/msid-128374351,imgsize-20594.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shahid-kapoors-video-dancing-at-haldirams-sons-wedding-will-prove-mauja-hi-mauja-from-jab-we-met-is-his-go-to-song-watch/articleshow/128373207.cms",
-    "time": "2026-02-15T06:55:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rosie O’Donnell secretly visits US for 2 week trip",
-    "desc": "Rosie O'Donnell's homecoming to the US from her year in Ireland is filled with mixed emotions. Reconnecting with family after a long time in a quieter environment shaped by the green landscapes of Ireland must feel bittersweet. O'Donnell's experience abroad was particularly poignant as she navigated personal choices amidst Donald Trump's controversial assertions about citizenship.",
-    "img": "https://static.toiimg.com/photo/msid-128374339,imgsize-85900.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rosie-odonnell-visits-us-1-year-after-leaving-for-ireland-refers-to-donald-trumps-comment-about-her-citizenship/articleshow/128374339.cms",
-    "time": "2026-02-15T06:54:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Maharashtra Congress chief likens Chhatrapati Shivaji Maharaj with Tipu Sultan; booked for hurting sentiments",
-    "desc": "Maharashtra Congress chief Harshwardhan Sapkal has courted controversy by comparing Chhatrapati Shivaji Maharaj with Tipu Sultan. His remarks have led to a police case against him. Chief Minister Devendra Fadnavis condemned the comparison. Meanwhile, Congress leader Sachin Sawant accused the BJP of double standards and a polarization agenda, citing past BJP endorsements of Tipu Sultan.",
-    "img": "https://static.toiimg.com/photo/msid-128374213,imgsize-492935.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/maharashtra-congress-chief-likens-chhatrapati-shivaji-maharaj-with-tipu-sultan-booked-for-hurting-sentiments/articleshow/128374182.cms",
-    "time": "2026-02-15T06:45:25.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Meta to cut pay outs to fact-checking partners in India",
     "desc": "Two people with knowledge of discussions with the social media company told The Hindu that the firm planned to cut payments to professional fact checkers it has paid since 2016 by a third to half",
@@ -574,42 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/meta-to-cut-pay-outs-to-fact-checking-partners-in-india/article70631703.ece",
     "time": "2026-02-15T06:38:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bad Bunny rekindles romance with ex-girlfriend Gabriela Berlingeri?",
-    "desc": "Bad Bunny, the global musical icon, made headlines recently as he enjoyed an early Valentine's Day dinner in the vibrant city of Buenos Aires with his past love Gabriela Berlingeri. This charming outing coincided with his concert tour in Argentina, prompting fans to question the dynamics of his former relationship, especially in light of his recent link with Kendall Jenner.",
-    "img": "https://static.toiimg.com/photo/msid-128373462,imgsize-1181217.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bad-bunny-rekindles-romance-with-ex-girlfriend-gabriela-berlingeri-heres-what-we-know/articleshow/128373462.cms",
-    "time": "2026-02-15T06:15:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Abhishek Bachchan backs Ranveer Singh’s ‘Dhurandhar’",
-    "desc": "Ranbir Kapoor shared key updates on upcoming films during an ARKS Instagram AMA. \"Ramayana Part 1\" hits Diwali 2026—a \"beautiful coincidence\" near Raha's birthday. \"Love & War\" is delayed to late 2026/2027 due to scale. 'Brahmastra 2' shoot starts soon, \"Animal Park\" mid-2027. He praised Ranveer Singh's 'Dhurandhar'.",
-    "img": "https://static.toiimg.com/photo/msid-128373507,imgsize-55286.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-calls-ramayana-releasing-on-rahas-birthday-a-beautiful-coincidence/articleshow/128373507.cms",
-    "time": "2026-02-15T06:15:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "How Van Der Beek secured his family before his demise",
-    "desc": "Weeks before his passing, actor James Van Der Beek ensured his family's future on their Texas ranch. With friends' help through a trust, he finalized the down payment, transforming their rented home into a purchased property. This move, costing approximately $4.76 million, was one of his final acts, securing a peaceful life for his wife and six children.",
-    "img": "https://static.toiimg.com/photo/msid-128373441,imgsize-79906.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-van-der-beek-secured-a-down-payment-for-the-familys-texas-ranch-before-he-passed-away-report/articleshow/128373429.cms",
-    "time": "2026-02-15T06:14:14.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Larry the cat marks 15 years at 10 Downing Street",
-    "desc": "Larry has lived through six Prime Ministers, from David Cameron to Keir Starmer, weathered the storms of Brexit, Covid-19, the chaos of \"partygate,\" Liz Truss's 49-day whirlwind occupation, and the more orderly months under Rishi Sunak",
-    "img": "https://th-i.thgim.com/public/incoming/9lsaxo/article70634647.ece/alternates/LANDSCAPE_1200/Britain_Larry_The_Cat_Photo_Gallery_56650.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/paw-patrol-larry-the-cat-marks-15-years-at-10-downing-street/article70634613.ece",
-    "time": "2026-02-15T06:04:09.000Z"
   },
   {
     "cat": "World",
@@ -640,15 +685,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'I want rain': Ex-Pakistan player gives shocking IND vs PAK verdict",
-    "desc": "Rain threatens the India vs Pakistan T20 World Cup match in Colombo, with forecasts predicting heavy showers and storms. Former Pakistan cricketer Basit Ali shocked fans by saying he wants rain. A minimum of five overs per side is needed for a result; otherwise, the match will be abandoned and both teams get one point, likely helping both qualify for the next round.",
-    "img": "https://static.toiimg.com/photo/msid-128371122,imgsize-50956.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-want-rain-ex-pakistan-player-gives-shocking-india-vs-pakistan-t20-world-cup-match-verdict/articleshow/128370633.cms",
-    "time": "2026-02-15T04:32:44.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Jansen and Markram deliver as SA decimates NZ",
     "desc": "The left-arm pacer, with a four-wicket haul, helps the Proteas restrict the Kiwis to 175 for seven; the captain then takes over with an unbeaten 86 to guide his side to its third successive win",
     "img": "https://th-i.thgim.com/public/incoming/la4dfz/article70634481.ece/alternates/LANDSCAPE_1200/th15-lead-sa-nzG5AFJBM9K.4.jpg.jpg",
@@ -664,15 +700,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/hardik-pandya-is-the-atum-of-india-cricket/articleshow/128370379.cms",
     "time": "2026-02-15T04:02:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What happens if rain washes out IND vs PAK?",
-    "desc": "The India vs Pakistan T20 World Cup match in Colombo faces a rain threat. Both teams started well, and India has dominated past T20 World Cup meetings. At least five overs per side are needed for a result; otherwise, both teams get one point. A washout would cause major financial losses for broadcasters, organisers, and Sri Lanka Cricket due to lost ads and ticket refunds.",
-    "img": "https://static.toiimg.com/photo/msid-128370360,imgsize-153608.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ind-vs-pak-colombo-weather-update-what-happens-if-rain-washes-out-india-vs-pakistan-t20-world-cup-match/articleshow/128370320.cms",
-    "time": "2026-02-15T03:57:08.000Z"
   },
   {
     "cat": "Sports",
@@ -720,24 +747,6 @@ const newsData_en = [
     "time": "2026-02-14T18:20:44.000Z"
   },
   {
-    "cat": "Business",
-    "title": "AI not causing mass layoffs, but changing nature of work: Study",
-    "desc": "Contrary to fears, generative AI isn't causing mass layoffs in India's IT sector. A new ICRIER-OpenAI study reveals AI is boosting productivity and transforming roles, not replacing workers. While entry-level hiring has seen a slight dip, mid and senior positions remain stable, indicating a shift towards skill enhancement rather than job elimination.",
-    "img": "https://static.toiimg.com/photo/msid-128356864,imgsize-682821.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/ai-not-causing-mass-layoffs-but-changing-nature-of-work-study/articleshow/128356724.cms",
-    "time": "2026-02-14T17:50:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold tops investment choices among young Indians, survey finds",
-    "desc": "Young Indians, across Gen Z and Millennials, overwhelmingly favor gold as their top investment choice, with 62% preferring it over mutual funds, stocks, and crypto. Even with modern options available, gold is seen as the safest bet, especially during uncertain economic times. Purchases are increasingly personal and smaller, driven by income and investment goals rather than just tradition.",
-    "img": "https://static.toiimg.com/photo/msid-128355585,imgsize-77120.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-tops-investment-choices-among-young-indians-survey-finds/articleshow/128355499.cms",
-    "time": "2026-02-14T17:10:01.000Z"
-  },
-  {
     "cat": "World",
     "title": "Electoral differences should not turn into revenge, says Tarique Rahman",
     "desc": "‘I call upon all BNP leaders and activists across the country to remain calm and vigilant so that no malicious force can exploit the situation to create unrest,’ says the BNP leader; he pledges to make Bangladesh ‘a safe and humane nation’",
@@ -745,15 +754,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/bangladesh-elections-tarique-rahman-speech/article70631853.ece",
     "time": "2026-02-14T16:47:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'Got India's commitment to stop buying Russian oil,' claims Rubio at Munich conference",
-    "desc": "US Secretary of State Marco Rubio claimed India committed to halting additional Russian oil purchases, amidst ongoing US sanctions. However, India's External Affairs Minister S Jaishankar emphasized \"strategic autonomy\" and decisions guided by \"national interest\" and market dynamics. Russia's Foreign Minister Sergei Lavrov disputed claims of India stopping oil buys, accusing the US of coercion.",
-    "img": "https://static.toiimg.com/photo/msid-128354578,imgsize-692838.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/got-indias-commitment-to-stop-buying-russian-oil-claims-marco-rubio-at-munich-conference-jaishankar-reiterates-strategic-autonomy/articleshow/128354016.cms",
-    "time": "2026-02-14T16:39:12.000Z"
   },
   {
     "cat": "Business",
