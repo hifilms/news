@@ -1,5 +1,284 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Security agencies freeze 8,000+ mule accounts in J&amp;K; officials flag funds may be exploited for anti-national activities",
+    "desc": "Jammu and Kashmir security agencies have frozen over 8,000 mule accounts in three years, identifying them as crucial for global scam networks and potential funding of anti-national activities. These accounts facilitate the conversion of stolen money into untraceable cryptocurrency, with authorities urging banks and law enforcement to curb their rise and identify \"mulers\" who manage them.",
+    "img": "https://static.toiimg.com/photo/msid-128382239,imgsize-980359.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/security-agencies-freeze-8000-mule-accounts-in-jk-officials-flag-funds-may-be-exploited-for-anti-national-activities/articleshow/128382139.cms",
+    "time": "2026-02-15T12:15:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Saba posts RARE wedding picture of Randhir and Babita",
+    "desc": "Saba Pataudi shared a rare wedding photo of Randhir Kapoor and Babita, wishing him a happy birthday on Instagram. The black-and-white image shows the couple in traditional attire, alongside nostalgic notes about her father Mansoor Ali Khan Pataudi and family traditions like Quran Khawani. A viral Kareena clip recalls Karisma's film struggles and Randhir's emotional pride.",
+    "img": "https://static.toiimg.com/photo/msid-128382425,imgsize-34788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saba-pataudi-posts-rare-wedding-picture-of-randhir-kapoor-and-babita-wishes-happy-birthday-see-post/articleshow/128382425.cms",
+    "time": "2026-02-15T12:14:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ajay, Kareena, Raveena extend holy wishes",
+    "desc": "Bollywood stars including Ajay Devgn, Kareena Kapoor, Mahesh Babu, and Raghav Chadha marked Maha Shivratri with spiritual posts. From Ajay’s “Har Har Mahadev” portrait to Kareena’s Shivling photo, celebs shared divine visuals and blessings. Mahesh unveiled Varanasi’s poster, while others like Raj Kundra shared glimpses of their sacred celebrations.",
+    "img": "https://static.toiimg.com/photo/msid-128381965,imgsize-44880.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/maha-shivratri-2026-ajay-devgn-kareena-kapoor-raveena-tandon-extend-holy-wishes/articleshow/128381965.cms",
+    "time": "2026-02-15T12:04:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Euphoria’ controversy theory: Is Rue going to make it?",
+    "desc": "With the clock ticking down to April 2026, 'Euphoria Season 3' has fans on the edge of their seats regarding Rue’s journey. Five years post-high school, Rue finds herself in a perilous battle against her former life—potentially still entangled with a treacherous dealer.",
+    "img": "https://static.toiimg.com/photo/msid-128375465,imgsize-41736.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/euphoria-controversy-theory-explained-is-season-3-going-to-be-rues-redemption-or-her-final-goodbye/articleshow/128375448.cms",
+    "time": "2026-02-15T11:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Isha Mahashivratri 2026 to be livestreamed with sign language interpretation",
+    "desc": "Isha Yoga Center's Mahashivratri, themed 'Ganga', will be a global livestream event on February 15-16, featuring sign language interpretation and broadcasts in 23 languages. Defence Minister Rajnath Singh will be the chief guest. The program includes guided meditations by Sadhguru, musical performances, and for the first time, Sadhguru will perform the Yogeshwara Linga Maha Abhishekam.",
+    "img": "https://static.toiimg.com/photo/msid-128380988,imgsize-961683.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/isha-mahashivratri-2026-to-be-livestreamed-with-sign-language-interpretation/articleshow/128380933.cms",
+    "time": "2026-02-15T11:25:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma's viral airport video sparks buzz ahead of India-Pakistan showdown",
+    "desc": "Former skipper Rohit Sharma's potential presence at the India-Pakistan T20 World Cup clash in Colombo has sparked fan speculation following his airport sighting. Amidst ongoing political tensions, captains were questioned about handshakes, with Pakistan's Salman Ali Agha suggesting \"we will see tomorrow.\" India's Suryakumar Yadav urged focus on the cricket itself.",
+    "img": "https://static.toiimg.com/photo/msid-128380864,imgsize-850946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/rohit-sharmas-viral-airport-video-sparks-buzz-ahead-of-india-pakistan-showdown/articleshow/128380835.cms",
+    "time": "2026-02-15T11:22:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranbir Kapoor teases 'Animal Park' update",
+    "desc": "Ranbir Kapoor has confirmed a sequel to his blockbuster film 'Animal' is in the works, exciting fans worldwide. Speaking from India, Kapoor expressed his hope to visit Japan for the sequel's release. Reports suggest shooting begins mid-2027, with director Sandeep Reddy Vanga returning.",
+    "img": "https://static.toiimg.com/photo/msid-128380150,imgsize-28594.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-teases-animal-park-update-in-special-message-to-japanese-fans-watch/articleshow/128380126.cms",
+    "time": "2026-02-15T11:20:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priya Bakshi alleges auto driver in Bandra took unfamiliar route",
+    "desc": "Model-actress Priya Bakshi (JNU) shared a scary Instagram video from Mumbai’s Bandra, alleging an auto driver took an unknown route, ignored her pleas to stop, and said, \"Yeh hamara area hai.\" She called out regional bias, urging inclusivity.",
+    "img": "https://static.toiimg.com/photo/msid-128380696,imgsize-35598.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hum-north-indians-ko-trash-priya-bakshi-alleges-auto-driver-in-bandra-took-unfamiliar-route-ignored-her-requests/articleshow/128380696.cms",
+    "time": "2026-02-15T11:13:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Unbecoming of a nation like ours': Manjrekar minces no words on handshake policy",
+    "desc": "Former cricketer Sanjay Manjrekar has criticized India's 'no-handshake' policy against Pakistan, deeming it \"silly\" and unbecoming of a major cricketing nation. He urged India to either play in the spirit of the game or avoid matches altogether. India's captain Suryakumar Yadav remained non-committal on the gesture ahead of their T20 World Cup clash.",
+    "img": "https://static.toiimg.com/photo/msid-128380468,imgsize-46812.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/unbecoming-of-a-nation-like-ours-sanjay-manjrekar-minces-no-words-on-indias-silly-handshake-policy-vs-pakistan/articleshow/128380467.cms",
+    "time": "2026-02-15T11:09:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Global cues, AI disruption fears to steer markets this week: Analysts",
+    "desc": "Stock markets are poised for a volatile week, driven by US economic data, the Federal Reserve's policy outlook, and growing AI disruption fears. Analysts anticipate a cautious sentiment as investors monitor global geopolitical events and currency movements. Domestic sectors like banking and automobiles may gain traction, while broader indices are expected to trade sideways awaiting clearer economic signals.",
+    "img": "https://static.toiimg.com/photo/msid-128380560,imgsize-1069836.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/global-cues-ai-disruption-fears-to-steer-markets-this-week-analysts/articleshow/128380413.cms",
+    "time": "2026-02-15T11:08:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rijiju warns Opposition against disruption, says govt. will table ‘critical’ Bill in second half of Budget Session",
+    "desc": "Kiren Rijiju says the Lok Sabha will debate on the no-confidence motion moved against the Speaker on March 9; he says the government will “go for the guillotine” if the Opposition does not let the House to function",
+    "img": "https://th-i.thgim.com/public/incoming/y5z99l/article70634685.ece/alternates/LANDSCAPE_1200/PTI02_07_2026_000045A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/debate-vote-on-motion-to-remove-birla-to-be-taken-up-on-march-9-rijiju/article70634682.ece",
+    "time": "2026-02-15T11:06:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Owaisi’s big charge on Centre over SIR, says BJP using EC to ‘snatch citizenship’",
+    "desc": "Asaduddin Owaisi alleged the BJP-led government is trying to \"snatch citizenship rights\" through the special intensive revision of electoral rolls, claiming it will be conducted in Telangana and Maharashtra. He also condemned the alleged harassment of a Muslim bun vendor by YouTubers, demanding action against them.",
+    "img": "https://static.toiimg.com/photo/msid-128380466,imgsize-1141894.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/owaisis-big-charge-on-centre-over-sir-says-bjp-using-ec-to-snatch-citizenship/articleshow/128380281.cms",
+    "time": "2026-02-15T11:05:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why Karnataka politics is in a ‘lather’ over iconic Mysuru brand",
+    "desc": "At the heart of the row is Karnataka Soaps and Detergents Limited (KSDL), the government-owned company that manufactures Mysuru Sandal Soap. Founded during the reign of Nalwadi Krishnaraja Wadiyar, the brand is not merely a commercial product. For many Kannadigas, it is an aromatic symbol of heritage. Bharatiya Janata Party (BJP) MP K Sudhakar accused the Congress-led Karnataka government of displaying what he called an “anti-Kannada mindset”.",
+    "img": "https://static.toiimg.com/photo/msid-128380214,imgsize-83974.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/soap-opera-over-soap-why-karnataka-politics-is-in-a-lather-over-iconic-mysuru-brand/articleshow/128378314.cms",
+    "time": "2026-02-15T10:58:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Producer V. Tamil Azhagan dies at 70; Rajinikanth mourns loss of ‘wonderful human being’",
+    "desc": "Veteran Tamil film producer and director V. Tamil Azhagan, best known for backing iconic blockbusters such as ‘Baashha’ and ‘Moondru Mugam, passed away on February 14 due to age-related health issues, prompting an outpouring of tributes from the film industry, including a heartfelt condolence message from Rajinikanth.",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/iq09xx/article70635093.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/producer-v-tamil-azhagan-dies-at-70-rajinikanth-mourns-loss-of-wonderful-human-being/article70635104.ece",
+    "time": "2026-02-15T10:57:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "History favours India against an unpredictable Pakistan unit",
+    "desc": "The Men in Blue will be tempted to play an additional spinner as the surface at the Premadasa Stadium is likely to aid the slow bowlers; rain could play spoilsport in the most anticipated game of the championship",
+    "img": "https://th-i.thgim.com/public/incoming/ozm1ia/article70634633.ece/alternates/LANDSCAPE_1200/PTI02_14_2026_000721B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-history-favours-india-against-an-unpredictable-pakistan-unit/article70632250.ece",
+    "time": "2026-02-15T10:46:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-US trade deal to help secure crude at competitive prices: Piyush Goyal",
+    "desc": "India and the US aim to boost bilateral trade to $500 billion by 2030, with energy imports like crude oil and LNG forming a key part. This interim trade agreement will help India secure competitive energy prices and diversify suppliers. The pact also focuses on increasing steel, coking coal, and IT exports, enhancing market access for Indian goods.",
+    "img": "https://static.toiimg.com/photo/msid-128379730,imgsize-597400.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-to-help-secure-crude-at-competitive-prices-piyush-goyal/articleshow/128379624.cms",
+    "time": "2026-02-15T10:43:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Women's Asia Cup Rising Stars: India A beat Pakistan A by eight wickets",
+    "desc": "India A Women bounced back with a dominant eight-wicket win against Pakistan A Women in the Asia Cup Rising Stars tournament. Captain Radha Yadav and a blistering 55 from Dinesh Vrinda powered the chase after spinners restricted Pakistan to 93. This victory propels India A to second in Group A.",
+    "img": "https://static.toiimg.com/photo/msid-128379404,imgsize-47106.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/womens-asia-cup-rising-stars-india-a-beat-pakistan-a-by-eight-wickets/articleshow/128379166.cms",
+    "time": "2026-02-15T10:27:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'They will have to be careful' – Former India wicketkeeper issues caution",
+    "desc": "Former India wicketkeeper Nayan Mongia has backed India as favorites against Pakistan in the T20 World Cup 2026 clash, praising all-rounder Hardik Pandya as one of the best T20 players. Mongia highlighted India's consistent ICC tournament performance but cautioned about Sri Lanka's slow pitches favoring spinners. Both teams have won their opening two matches, with India leading Group A.",
+    "img": "https://static.toiimg.com/photo/msid-128379379,imgsize-386466.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/they-will-have-to-be-careful-former-india-wicketkeeper-issues-caution-ahead-of-pakistan-clash/articleshow/128379353.cms",
+    "time": "2026-02-15T10:26:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India deputes Om Birla, Vikram Misri to Dhaka for Bangladesh PM-elect Tarique Rahman's swearing-in",
+    "desc": "Lok Sabha Speaker Om Birla will represent India at the swearing-in of Bangladesh's PM-elect Tarique Rahman, following the BNP's landslide victory. Foreign Secretary Vikram Misri will accompany Birla. This event marks a significant diplomatic shift for Dhaka, especially after former PM Sheikh Hasina's ouster and subsequent exile in India. The new BNP government's stance will be closely observed.",
+    "img": "https://static.toiimg.com/photo/msid-128379383,imgsize-819226.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-deputes-om-birla-vikram-misri-to-dhaka-for-bangladesh-pm-elect-tarique-rahmans-swearing-in/articleshow/128379302.cms",
+    "time": "2026-02-15T10:25:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Railways rolls out tech-enabled onboard cleaning reform for long distance trains",
+    "desc": "The railway ministry has launched a new onboard cleaning initiative for long-distance trains, deploying professional teams to clean coaches and toilets at hourly intervals or as needed. This tech-enabled reform aims to enhance passenger experience through real-time monitoring and accountability. Additionally, the ministry will permit cargo facilities on spare railway land to boost freight operations.",
+    "img": "https://static.toiimg.com/photo/msid-128379151,imgsize-702381.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/railways-rolls-out-tech-enabled-onboard-cleaning-reform-for-long-distance-trains/articleshow/128379031.cms",
+    "time": "2026-02-15T10:16:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Katy-Justin KISS on first Valentine's together- WATCH",
+    "desc": "Pop sensation Katy Perry and former Canadian Prime Minister Justin Trudeau ignited social media with a romantic Valentine's Day dinner. Spotted sharing a kiss at a swanky restaurant, the couple's public display of affection, captured in a viral video, fuels speculation about their deepening relationship. This intimate moment follows several public appearances since they went public in October.",
+    "img": "https://static.toiimg.com/photo/msid-128379121,imgsize-40238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/katy-perry-and-justin-trudeau-pack-on-the-pda-on-first-valentines-day-celebration-as-a-couple-watch/articleshow/128377920.cms",
+    "time": "2026-02-15T10:15:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Betraying farmers' vs 'spreading lies': Rahul Gandhi, Amit Shah clash over India–US deal",
+    "desc": "Rahul Gandhi accused the Modi government of betraying farmers through the India-US trade deal, raising concerns about GM maize imports and potential pressure on Indian crops. Union Home Minister Amit Shah refuted these claims, calling them lies and asserting that farmers' interests are protected in trade agreements with the US, EU, and UK.",
+    "img": "https://static.toiimg.com/photo/msid-128379086,imgsize-974383.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/betraying-farmers-vs-spreading-lies-rahul-gandhi-amit-shah-clash-over-indiaus-deal/articleshow/128378909.cms",
+    "time": "2026-02-15T10:13:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "FPIs infuse Rs 19,675 crore in early February after months of heavy selling",
+    "desc": "Foreign investors injected Rs 19,675 crore into Indian stocks in early February, reversing months of outflows. This surge, driven by a US-India trade deal and easing global economic worries, signals renewed optimism. Despite this, overall 2025 flows remain weak, with significant net outflows recorded year-to-date.",
+    "img": "https://static.toiimg.com/photo/msid-128378929,imgsize-594232.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/fpis-infuse-rs-19675-crore-in-early-february-after-months-of-heavy-selling/articleshow/128378787.cms",
+    "time": "2026-02-15T10:07:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Babar-Rizwan masterclass to 'Kohli goes down the ground': How Ind &amp; Pak have fared in 2020s",
+    "desc": "India and Pakistan's T20 World Cup encounters have been closely contested, despite India's 7-1 head-to-head record. Recent matches in the 2020s, including the 2021 loss, the thrilling 2022 victory, and the tight 2024 win, highlight decisive moments rather than one-sided dominance.",
+    "img": "https://static.toiimg.com/photo/msid-128378601,imgsize-34342.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/babar-azam-mohammad-rizwan-masterclass-to-kohli-goes-down-the-ground-how-india-pakistan-have-fared-in-t20-world-cups-in-2020s/articleshow/128378540.cms",
+    "time": "2026-02-15T09:56:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Focus on devotional aspect of life’: Sri Sri Ravi Shankar urges devotees to embrace meditation on Mahashivratri",
+    "desc": "Spiritual leader Sri Sri Ravi Shankar urged deep inner reflection and devotion this Mahashivratri, emphasizing meditation and chanting to elevate spiritual practice. Prime Minister Modi and defence minister Rajnath Singh extended greetings, praying for well-being and prosperity. The festival celebrates the divine union of Lord Shiva and Goddess Parvati, observed with reverence across India.",
+    "img": "https://static.toiimg.com/photo/msid-128378517,imgsize-710412.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/focus-on-devotional-aspect-of-life-sri-sri-ravi-shankar-urges-devotees-to-embrace-meditation-on-mahashivratri/articleshow/128378280.cms",
+    "time": "2026-02-15T09:52:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "14.9% of the world, 126 million added: What Pew's religious survey reveals about the Hindu rate of growth between 2010 and 2020",
+    "desc": "According to the Pew Research Center’s global demographic study “How the Global Religious Landscape Changed From 2010 to 2020,” the actual Hindu rate of growth today turns out to be strikingly literal. The world’s Hindu population has been expanding almost exactly in line with the growth of humanity itself. Neither surging dramatically nor shrinking in relative terms, Hinduism’s demographic story is one of stability in a century defined by rapid religious change.",
+    "img": "https://static.toiimg.com/photo/msid-128378335,imgsize-440842.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pew-religious-survey-hindu-growth-of-rate/articleshow/128378156.cms",
+    "time": "2026-02-15T09:48:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Crushing Nepal by 9 wkts, Windies become first to reach T20 WC Super 8s",
+    "desc": "West Indies became the first team to qualify for the T20 World Cup Super Eights after a dominant nine-wicket win over Nepal. Nepal struggled early and managed 133/8, with Dipendra Singh Airee scoring 58. Jason Holder took 4/27. Shai Hope (61*) and Shimron Hetmyer (46*) chased the target in 15.2 overs. Nepal were eliminated from the tournament.",
+    "img": "https://static.toiimg.com/photo/msid-128378246,imgsize-117528.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-crushing-nepal-by-nine-wickets-west-indies-become-first-to-reach-super-8s/articleshow/128378045.cms",
+    "time": "2026-02-15T09:38:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Psychological edge already ours': Former Pakistan captain makes bold claim",
+    "desc": "Former Pakistan captain Mohammad Hafeez believes the intense focus on spinner Usman Tariq provides a psychological edge over India. Hafeez suggests the debate surrounding Tariq's bowling action is causing \"panic\" in the Indian camp, forcing them to specifically prepare for him. He urged Pakistan captain Salman Ali Agha to use Tariq aggressively to maximize his game-changing potential.",
+    "img": "https://static.toiimg.com/photo/msid-128378044,imgsize-79726.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/psychological-edge-already-ours-former-pakistan-captain-makes-bold-claim-ahead-of-india-clash/articleshow/128377945.cms",
+    "time": "2026-02-15T09:33:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sasikala to continue her consultations with her followers on finalising strategy for 2026 T.N. Assembly poll",
+    "desc": "The purpose of Ms. Sasikala’s ongoing discussion is to finalise her camp’s strategy for the 2026 Assembly election; she has planned to hold discussion up to February 18, says her follower who is a former legislator.",
+    "img": "https://th-i.thgim.com/public/incoming/vmi5w5/article70634675.ece/alternates/LANDSCAPE_1200/10217_30_10_2025_16_34_51_2_DSC_5663.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/sasikala-to-continue-her-consultations-with-her-followers-on-finalising-strategy-for-2026-tn-assembly-poll/article70632959.ece",
+    "time": "2026-02-15T09:28:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "18,000 Indians, 12,000 Pakistanis, and 2,000 SL police: Scale of India-Pak showdown",
+    "desc": "Tens of thousands of Indian and Pakistani fans have converged on Colombo for the high-voltage India-Pakistan clash, turning the city into a fortress with massive security deployment. Beyond politics and critique, the match has energised local livelihoods, packed the stadium to capacity and reaffirmed why this rivalry remains cricket’s most powerful spectacle.",
+    "img": "https://static.toiimg.com/photo/msid-128377881,imgsize-102584.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/18000-indians-12000-pakistanis-and-2000-sri-lankan-police-the-scale-of-the-india-pakistan-showdown/articleshow/128377821.cms",
+    "time": "2026-02-15T09:24:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kedarnath shrine to reopen on April 22; dates for Badrinath, Gangotri, Yamunotri Dham also announced",
+    "desc": "Kedarnath Temple will welcome devotees from April 22, concluding its winter hiatus. The auspicious reopening date was fixed on Mahashivratri at the shrine's winter seat. This marks the commencement of the Char Dham Yatra, with Badrinath opening on April 23, and Gangotri and Yamunotri on April 19. Thousands are expected to participate in the pilgrimage.",
+    "img": "https://static.toiimg.com/photo/msid-128377926,imgsize-220698.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kedarnath-shrine-to-reopen-on-april-22-dates-for-badrinath-gangotri-yamunotri-dham-also-announced-check/articleshow/128377862.cms",
+    "time": "2026-02-15T09:23:22.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Did Salman Khan get Rajpal Yadav out of jail?",
     "desc": "A viral throwback video of Rajpal Yadav praising Salman Khan has fueled speculation about the superstar's alleged help in the actor's ongoing Rs 9 crore debt case. While Yadav remains in Tihar Jail, his manager confirmed that half the debt has been settled, with negotiations ongoing.",
@@ -72,15 +351,6 @@ const newsData_en = [
     "time": "2026-02-15T07:40:01.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "History favours India against an unpredictable Pakistan unit",
-    "desc": "The Men in Blue will be tempted to play an additional spinner as the surface at the Premadasa Stadium is likely to aid the slow bowlers; rain could play spoilsport in the most anticipated game of the championship",
-    "img": "https://th-i.thgim.com/public/incoming/ozm1ia/article70634633.ece/alternates/LANDSCAPE_1200/PTI02_14_2026_000721B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-history-favours-india-against-an-unpredictable-pakistan-unit/article70632250.ece",
-    "time": "2026-02-15T07:28:19.000Z"
-  },
-  {
     "cat": "World",
     "title": "Russian opposition leader Alexei Navalny was poisoned, five European nations say",
     "desc": "The Foreign Ministries of the U.K., France, Germany, Sweden and the Netherlands said that analysis of samples from Navalny, “have conclusively confirmed the presence of epibatidine,” a toxin found in poison dart frogs in South America",
@@ -142,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rosie-odonnell-visits-us-1-year-after-leaving-for-ireland-refers-to-donald-trumps-comment-about-her-citizenship/articleshow/128374339.cms",
     "time": "2026-02-15T06:54:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Debate, vote on motion to remove Birla to be taken up on March 9: Rijiju",
-    "desc": "On March 9, in the Lok Sabha, we will have the debate on the no-confidence motion moved against the speaker. It is the rule to take it up on the first day. There will be a vote following the debate, says Union Parliamentary Affairs Minister Kiren Rijiju",
-    "img": "https://th-i.thgim.com/public/incoming/y5z99l/article70634685.ece/alternates/LANDSCAPE_1200/PTI02_07_2026_000045A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/debate-vote-on-motion-to-remove-birla-to-be-taken-up-on-march-9-rijiju/article70634682.ece",
-    "time": "2026-02-15T06:50:12.000Z"
   },
   {
     "cat": "Politics",
@@ -216,15 +477,6 @@ const newsData_en = [
     "time": "2026-02-15T06:12:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Sasikala to continue her consultations with her followers on finalising strategy for 2026 T.N. Assembly poll",
-    "desc": "The purpose of Ms. Sasikala’s ongoing discussion is to finalise her camp’s strategy for the 2026 Assembly election; she has planned to hold discussion up to February 18, says her follower who is a former legislator.",
-    "img": "https://th-i.thgim.com/public/incoming/vmi5w5/article70634675.ece/alternates/LANDSCAPE_1200/10217_30_10_2025_16_34_51_2_DSC_5663.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/sasikala-to-continue-her-consultations-with-her-followers-on-finalising-strategy-for-2026-tn-assembly-poll/article70632959.ece",
-    "time": "2026-02-15T06:09:44.000Z"
-  },
-  {
     "cat": "World",
     "title": "Larry the cat marks 15 years at 10 Downing Street",
     "desc": "Larry has lived through six Prime Ministers, from David Cameron to Keir Starmer, weathered the storms of Brexit, Covid-19, the chaos of \"partygate,\" Liz Truss's 49-day whirlwind occupation, and the more orderly months under Rishi Sunak",
@@ -232,15 +484,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/paw-patrol-larry-the-cat-marks-15-years-at-10-downing-street/article70634613.ece",
     "time": "2026-02-15T06:04:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Is Deepika joining 'The White Lotus' Season 4?",
-    "desc": "Bollywood's Deepika Padukone is reportedly set to join the cast of 'The White Lotus' Season 4, with filming slated for France's Saint-Tropez. This follows earlier speculation about her involvement in Season 3, which she reportedly declined due to her pregnancy. The Emmy-winning series, created by Mike White, is eyeing a 2027 release, with shooting scheduled from April to October 2026.",
-    "img": "https://static.toiimg.com/photo/msid-128371967,imgsize-17100.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/is-deepika-padukone-joining-the-white-lotus-season-4-bollywood-star-cast-alongside-helena-bonham-carter-reports/articleshow/128371868.cms",
-    "time": "2026-02-15T05:57:23.000Z"
   },
   {
     "cat": "World",
@@ -259,33 +502,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/chennai/ahead-of-state-budget-resident-welfare-associations-demand-focus-on-civic-infrastructure/article70632903.ece",
     "time": "2026-02-15T05:45:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Cardi B goes viral after falling on stage and joking about it",
-    "desc": "In a standout moment from her 'Little Miss Drama' tour in Las Vegas, Cardi B found herself hilariously crashing to the ground from her chair mid-performance. Not one to miss an opportunity for a laugh, she cheekily blamed 'the government' for the blunder and quipped that the viral footage was actually AI creation.",
-    "img": "https://static.toiimg.com/photo/msid-128372770,imgsize-26238.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/cardi-b-falls-on-stage-video-goes-viral-as-star-jokes-it-was-the-government-watch/articleshow/128372770.cms",
-    "time": "2026-02-15T05:44:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Which celebrity guest star ‘The Simpsons’ is trying to book",
-    "desc": "The Simpsons, celebrating 800 episodes, continues its quest to book a legendary 58-year-old comedy star who has yet to appear. Showrunner Matt Selman revealed this ongoing pursuit at the show's milestone party. Meanwhile, the latest episode, airing February 15, takes the family to Philadelphia, exploring pet ownership and parodying adventure films.",
-    "img": "https://static.toiimg.com/photo/msid-128372764,imgsize-46420.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-simpsons-is-still-trying-to-book-this-celebrity-guest-star-almost-4-decades-later-the-shows-writer-reveals/articleshow/128372758.cms",
-    "time": "2026-02-15T05:42:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Bridgerton 4’, part 2 trailer teases more drama in the ton",
-    "desc": "The highly anticipated 'Bridgerton 4', part 2 trailer has dropped, promising more drama for the ton. Benedict and Sophie's forbidden romance faces new hurdles as they struggle to stay apart. Despite societal divides, their intense connection is undeniable. A shocking twist sees Sophie's past family move in, threatening to unravel everything. Catch the remaining episodes on Netflix, February 26.",
-    "img": "https://static.toiimg.com/photo/msid-128372315,imgsize-21260.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-4-part-2-trailer-out-now-new-video-teases-even-more-drama-as-benedict-and-sophies-love-story-deepens/articleshow/128372315.cms",
-    "time": "2026-02-15T05:27:20.000Z"
   },
   {
     "cat": "Sports",
@@ -333,15 +549,6 @@ const newsData_en = [
     "time": "2026-02-15T04:21:05.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Nagabandham': Abhishek calls,'It is a heartbeat and first cry of a dream'",
-    "desc": "The ambitious epic 'Nagabandham,' set in 1750, unveils its first glimpse on Mahashivaratri, blessed by superstar Mahesh Babu. Director Abhishek Nama describes the teaser as a 'heartbeat,' reflecting the team's deep faith and devotion. Despite exhaustion and doubt, the creators poured their belief into this spiritually anchored cinematic journey, hoping it resonates with audiences.",
-    "img": "https://static.toiimg.com/photo/msid-128370814,imgsize-52464.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nagabandham-first-glimpse-director-abhishek-nama-says-it-is-a-heartbeat-and-first-cry-of-a-dream/articleshow/128370837.cms",
-    "time": "2026-02-15T04:18:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Hardik Pandya is the Atum of India cricket",
     "desc": "Hardik Pandya’s journey mirrors self-creation — rising from obscurity to become India’s white-ball MVP while battling scrutiny, injuries and perception. Backed by mentors like Kieron Pollard, he has turned chaos into control, proving his resilience repeatedly. Beyond the flash lies a cricketer defined by reinvention and an unrelenting will to succeed.",
@@ -367,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-love-all-in-colombo-as-cricket-world-ready-for-india-vs-pakistan/articleshow/128370177.cms",
     "time": "2026-02-15T03:45:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When, where and how to watch IND vs PAK on TV and online?",
-    "desc": "The India vs Pakistan T20 World Cup 2026 match will be played on Sunday at the R Premadasa Stadium in Colombo. Both teams started strongly, with India dominating early and Pakistan recovering well. India has historically dominated Pakistan in T20 World Cups and has a strong record at this venue. Rain may affect the game. The match starts at 7 PM IST and will be broadcast on Star Sports and streamed on JioHotstar.",
-    "img": "https://static.toiimg.com/photo/msid-128369844,imgsize-156660.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-vs-pakistan-t20-world-cup-2026-live-streaming-when-where-and-how-to-watch-ind-vs-pak-live-on-tv-and-online/articleshow/128369624.cms",
-    "time": "2026-02-15T03:28:12.000Z"
   },
   {
     "cat": "Business",
@@ -495,15 +693,6 @@ const newsData_en = [
     "time": "2026-02-14T17:50:58.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Markram's captain's knock powers SA to comfortable 7-wicket win over NZ",
-    "desc": "Aiden Markram's explosive 86 powered South Africa to a seven-wicket victory over New Zealand, bringing them closer to the Super 8s. Markram's dominant chase, supported by quick starts and a solid finish from David Miller, saw South Africa comfortably reach their target of 176. This win marks their third consecutive victory in the T20 World Cup.",
-    "img": "https://static.toiimg.com/photo/msid-128355718,imgsize-115248.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/aiden-markrams-captains-knock-powers-south-africa-to-comfortable-7-wicket-win-over-new-zealand/articleshow/128355753.cms",
-    "time": "2026-02-14T17:17:14.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Gold tops investment choices among young Indians, survey finds",
     "desc": "Young Indians, across Gen Z and Millennials, overwhelmingly favor gold as their top investment choice, with 62% preferring it over mutual funds, stocks, and crypto. Even with modern options available, gold is seen as the safest bet, especially during uncertain economic times. Purchases are increasingly personal and smaller, driven by income and investment goals rather than just tradition.",
@@ -529,15 +718,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/got-indias-commitment-to-stop-buying-russian-oil-claims-marco-rubio-at-munich-conference-jaishankar-reiterates-strategic-autonomy/articleshow/128354016.cms",
     "time": "2026-02-14T16:39:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'You’ll see me play in a World Cup’: Abhishek’s promise to father comes full circle",
-    "desc": "After a health scare threatened to derail his World Cup campaign, Abhishek Sharma returns to the spotlight in Colombo. It will be the first time his father Raj Kumar Sharma watches him play a World Cup match from the stands. India will take on Pakistan on February 15 at the R Premadasa Stadium in Colombo.",
-    "img": "https://static.toiimg.com/photo/msid-128352494,imgsize-57548.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/one-day-youve-to-watch-me-play-for-india-in-a-world-cup-from-the-stands-how-abhishek-sharma-is-fulfilling-an-old-promise-in-colombo/articleshow/128352562.cms",
-    "time": "2026-02-14T15:43:02.000Z"
   },
   {
     "cat": "Business",
@@ -568,30 +748,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Jos Buttler scripts history, becomes the first wicketkeeper to…",
-    "desc": "England's Jos Buttler has achieved a historic milestone, becoming the first wicketkeeper-batter to score 4,000 T20 International runs, doing so in a record 2,670 balls. This remarkable feat occurred during England's T20 World Cup match against Scotland. Buttler also marked his 150th T20I appearance, solidifying his status as a leading figure in the format.",
-    "img": "https://static.toiimg.com/photo/msid-128350270,imgsize-160892.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/jos-buttler-scripts-history-becomes-the-first-wicketkeeper-to/articleshow/128350356.cms",
-    "time": "2026-02-14T14:09:17.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "T20 WORLD CUP",
     "desc": "The middle order batsman stitches together two crucial partnerships with Bethel and Curran to take his side past the post; Rashid the pick of the English bowlers with three wickets while skipper Berrington shines with the bat for the Scots",
     "img": "https://th-i.thgim.com/public/incoming/70vn9m/article70632429.ece/alternates/LANDSCAPE_1200/041.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-bantons-heroics-helps-england-negotiate-pitfalls-against-scotland/article70632329.ece",
     "time": "2026-02-14T14:00:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Eat well and go to sleep': Surya, Salman Ali Agha play 'waiting' game over handshake",
-    "desc": "Captains Suryakumar Yadav and Salman Ali Agha remained non-committal on whether India and Pakistan players would shake hands before or after their T20 World Cup clash. Both leaders suggested waiting until match day for a decision, emphasizing their focus on playing good cricket. This follows a history where India did not shake hands with Pakistan in previous encounters.",
-    "img": "https://static.toiimg.com/photo/msid-128349702,imgsize-46812.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/eat-well-and-go-to-sleep-suryakumar-yadav-salman-ali-agha-deflect-handshake-questions-ahead-of-india-pakistan-clash/articleshow/128349267.cms",
-    "time": "2026-02-14T13:52:05.000Z"
   },
   {
     "cat": "World",
@@ -601,15 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/india-munich-security-dialogue-nirmala-sitharaman-climate-action/article70632066.ece",
     "time": "2026-02-14T13:45:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rashid's triple blow, Banton's fifty seal crucial win for England over Scotland",
-    "desc": "England secured a vital five-wicket victory against Scotland, keeping their T20 World Cup Super Eights hopes alive. Adil Rashid's crucial middle-overs spell and Tom Banton's unbeaten 63 guided England to the target after a shaky start. This win propels England to second in Group C, setting up a decisive clash.",
-    "img": "https://static.toiimg.com/photo/msid-128348921,imgsize-127598.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/adil-rashids-triple-blow-tom-bantons-fifty-seal-crucial-win-for-england-over-scotland/articleshow/128348928.cms",
-    "time": "2026-02-14T13:16:56.000Z"
   },
   {
     "cat": "Sports",
@@ -628,15 +781,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/govt-cheating-cotton-farmers-textile-exporters-over-tariffs-in-india-us-deal-rahul-gandhi/article70631891.ece",
     "time": "2026-02-14T12:42:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We'll play him tomorrow': Sky fires back at Pakistan skipper over Abhishek remark",
-    "desc": "Pakistan captain Salman Ali Agha hopes India's Abhishek Sharma recovers for their World Cup clash, stating they wish to compete against a full-strength Indian side. India's Suryakumar Yadav responded humorously to the sentiment. Sharma, a top-ranked T20I batter, has a strong record against Pakistan, making his potential return significant for the highly anticipated match.",
-    "img": "https://static.toiimg.com/photo/msid-128347652,imgsize-109886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/well-play-him-tomorrow-suryakumar-yadav-fires-back-at-pakistan-skipper-over-abhishek-sharma-remark/articleshow/128347673.cms",
-    "time": "2026-02-14T12:41:02.000Z"
   },
   {
     "cat": "World",
@@ -664,24 +808,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/carneyvisits-memorial-to-victims-of-canada-mass-shooting/article70631327.ece",
     "time": "2026-02-14T10:05:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Cabinet clears Rs 1 lakh crore Urban Challenge Fund to drive market-led city infrastructure push",
-    "desc": "The Union Cabinet has greenlit the Urban Challenge Fund, allocating Rs 1 lakh crore to spur market-linked urban infrastructure over five years. This initiative aims to attract Rs 4 lakh crore in investments, focusing on reform-driven development and citizen-centric projects. A Rs 5,000 crore credit support aims to boost market access for smaller cities.",
-    "img": "https://static.toiimg.com/photo/msid-128341861,imgsize-1437201.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/cabinet-clears-rs-1-lakh-crore-urban-challenge-fund-to-drive-market-led-city-infrastructure-push/articleshow/128341645.cms",
-    "time": "2026-02-14T09:21:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "PM Modi inaugrates Rs 5,450 crore worth projects; IIM Guwahati, Kumar Bhaskar Varma Setu &amp; more",
-    "desc": "Prime Minister Narendra Modi launched a Rs 5,450 crore infrastructure drive in Assam, inaugurating the Kumar Bhaskar Varma Setu, a vital six-lane bridge, and the National Data Centre for the North Eastern Region. He also inaugurated the Indian Institute of Management Guwahati and flagged off 225 electric buses, boosting connectivity, digital infrastructure, and higher education across the Northeast.",
-    "img": "https://static.toiimg.com/photo/msid-128339544,imgsize-523679.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/infrastructure/big-push-for-assam-pm-modi-inaugrates-rs-5450-crore-worth-projects-iim-guwahati-kumar-bhaskar-varma-setu-more/articleshow/128334518.cms",
-    "time": "2026-02-14T05:24:26.000Z"
   },
   {
     "cat": "World",
@@ -772,131 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/experts-underscore-the-importance-of-extracting-only-relevant-data/article70628382.ece",
     "time": "2026-02-13T19:35:16.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "‘Online education is one of the biggest finds of the last decade’",
-    "desc": "There is a lot of discussion on how online education will change and if it will entirely replace physical classroom-based education. But both can co-exist and supplement and complement each other, says Kadhambari S. Viswanathan, assistant vice-president, Vellore Institute of Technology",
-    "img": "https://th-i.thgim.com/public/incoming/ad3gh5/article70628931.ece/alternates/LANDSCAPE_1200/BVR_8582.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/online-education-is-one-of-the-biggest-finds-of-the-last-decade/article70628488.ece",
-    "time": "2026-02-13T19:34:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "After the triumph, the travails: the big step up from the Under-19 stage",
-    "desc": "Graduating from age-group cricket to the senior game is fraught with challenges. For India’s all-conquering Under-19 players, the World Cup win — while deserving of rich praise — is not an end in itself. The arduous journey of fulfilling their potential, without losing focus, has just begun",
-    "img": "https://th-i.thgim.com/public/incoming/u4h6jx/article70630070.ece/alternates/LANDSCAPE_1200/image%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/vaibhav-suryavanshi-next-sachin-tendulkar-vinod-kambli-lesson-ayush-mhatre-indian-cricket-prodigy/article70629845.ece",
-    "time": "2026-02-13T18:23:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Still have my police job, but I’ve been on sports leave for a long time: GM Salem Saleh",
-    "desc": "A cop and a world-class Grandmaster, Saleh has enforced safety rules in the UAE and outmanoeuvred top players on the board. He speaks in this chat about what got him hooked to chess tactics, how the game has grown in his country, why he was surprised by Gukesh winning the World title and when an amateur who had learnt chess off YouTube startled him in a library",
-    "img": "https://th-i.thgim.com/public/incoming/jwpa6n/article70630049.ece/alternates/LANDSCAPE_1200/saleh2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/salem-saleh-uae-grandmaster-dubai-police-interview-world-chess/article70629865.ece",
-    "time": "2026-02-13T18:19:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 World Cup 2026",
-    "desc": "The dew set in, the ball slid, and plans scuttled. When Mukkamalla finally holed out for 79 (51b, 5x4, 4x6), USA was 148 for three after 15 overs, and Netherlands were already left chasing for answers in Chepauk’s humidity.",
-    "img": "https://th-i.thgim.com/public/incoming/z2nsbn/article70629935.ece/alternates/LANDSCAPE_1200/DSC_1748.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/netherlands-vs-usa-match-group-stage-updates-february-13/article70628715.ece",
-    "time": "2026-02-13T17:30:48.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "What does BNP’s win mean for India?",
-    "desc": "In Bangladesh’s big election, the BNP scores a major win against the Islamist Jamaat in coalition NCP Gen Z party that ousted Sheikh Hasina. Muhammad Yunus delivers on his promise of elections, but without the Awami League, can the results from Bangladesh’s poll be politically sustainable? And what does it mean for India? We will get you ground reports from The Hindu’s Kallol Bhattacherjee in Dhaka.",
-    "img": "https://th-i.thgim.com/public/incoming/32zer4/article70629049.ece/alternates/LANDSCAPE_1200/BNP%20wins%20Bangladesh%20%20What%20does%20it%20mean%20for%20India.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-bangladesh-elections-what-does-bnps-win-mean-for-india/article70629046.ece",
-    "time": "2026-02-13T17:07:17.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Bangladesh Gen Z hope new government honours spirit of student-led uprising",
-    "desc": "Young voters in Bangladesh have urged the new BNP-led government to go beyond a peaceful election and deliver meaningful reform. Many Gen Z voters say the spirit of last year’s student-led uprising must be honoured through justice, transparency and equal opportunities.",
-    "img": "https://th-i.thgim.com/public/incoming/zcqcc9/article70629876.ece/alternates/LANDSCAPE_1200/gen%20z.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-bangladesh-gen-z-hope-new-government-honours-spirit-of-student-led-uprising/article70629889.ece",
-    "time": "2026-02-13T16:58:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 World Cup 2026 preview",
-    "desc": "Both sit pretty, with qualification for Super Eight all but sealed; the Kiwis haven’t beaten the Proteas in four attempts in the showpiece; Markram has called for more discipline from his bowlers, who have leaked 28 extras across two games",
-    "img": "https://th-i.thgim.com/public/incoming/u58r50/article70629386.ece/alternates/LANDSCAPE_1200/VIS_3998.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-2026-preview-too-close-to-call-as-new-zealand-takes-on-south-africa/article70629402.ece",
-    "time": "2026-02-13T15:45:08.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "What the Bangladesh 2026 election results really mean",
-    "desc": "In this special election analysis, host Smriti speaks with Kallol Bhatacharjee reporting from Dhaka on Bangladesh’s dramatic 2026 polls. With the Awami League barred and the BNP resurgent, is this a true democratic reset after the 2024 uprising?",
-    "img": "https://th-i.thgim.com/public/incoming/1b691g/article70629336.ece/alternates/LANDSCAPE_1200/modi%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-what-the-bangladesh-2026-election-results-really-mean/article70629354.ece",
-    "time": "2026-02-13T15:04:29.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "‘Yes’ triumphs in Bangladesh referendum with 60% voter turnout",
-    "desc": "The July Charter’s co-chair had said if “yes” wins, the next parliament will serve as a constitutional reform council, and within 180 working days, they would have to take steps to carry out constitutional reforms as proposed",
-    "img": "https://th-i.thgim.com/public/incoming/abvdjs/article70629298.ece/alternates/LANDSCAPE_1200/Bangladesh_Election_What_to_Know_04007.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/bangladeshi-voters-endorse-sweeping-democratic-reforms-in-national-referendum/article70627897.ece",
-    "time": "2026-02-13T15:02:27.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. spent $40 million on roughly 300 deportations to third nations, Democratic report finds",
-    "desc": "The Democrats on the Foreign Relations panel, led by Sen. Jeanne Shaheen, criticised the practice of third-country deportations as “costly, wasteful and poorly monitored” in the report and called for “serious scrutiny of a policy that now operates largely in the dark”",
-    "img": "https://th-i.thgim.com/public/incoming/wqxt4s/article70629130.ece/alternates/LANDSCAPE_1200/Denmark_US_Greenland_86057.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-spent-40-million-on-roughly-300-deportations-to-third-nations-democratic-report-finds/article70629051.ece",
-    "time": "2026-02-13T14:33:19.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Rubio holds talks with Chinese counterpart Wang Yi",
-    "desc": "Mr. Rubio and Mr. Wang met at a major hotel in the Bavarian capital, shaking hands but not speaking to reporters. Washington and Beijing have been locked in a standoff over tariffs since Mr. Trump returned to power last year.",
-    "img": "https://th-i.thgim.com/public/incoming/89liod/article70628861.ece/alternates/LANDSCAPE_1200/Germany_Munich_Security_Conference_Rubio_28133.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/rubio-holds-talks-with-chinese-counterpart-wang-yi/article70628791.ece",
-    "time": "2026-02-13T13:48:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ISL preview",
-    "desc": "The new edition — delayed by nearly four months — gets underway in a truncated format featuring 14 teams; the AIFF has opted for a single round-robin format, scrapping the second leg and the traditional playoff stage",
-    "img": "https://th-i.thgim.com/public/sport/l65rcv/article70628671.ece/alternates/LANDSCAPE_1200/BAGAN%20PIC.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/isl-preview-finally-its-lets-football-time/article70628653.ece",
-    "time": "2026-02-13T13:22:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Biennale highlights and must-see parallel shows",
-    "desc": "From Tino Sehgal’s charged performance at Pepper House to Shilpa Gupta’s moving sonic installation, Mass Art’s flamboyant Durga Puja and Afra Eisma’s tactile fantasy, here are the most compelling immersive art experiences across Kochi, on till the Kochi-Muziris Biennale ends on March 31",
-    "img": "https://th-i.thgim.com/public/life-and-style/fashion/39lgqy/article70627514.ece/alternates/LANDSCAPE_1200/mass%20art.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/art/kochi-art-season-2026-biennale-highlights-and-must-see-parallel-shows/article70624155.ece",
-    "time": "2026-02-13T11:51:44.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "From exile to power: Who is Bangladesh’s new Prime Minister Tarique Rahman",
-    "desc": "Bangladesh’s February 12 election marks a dramatic political shift, with the BNP surging ahead and Tarique Rahman poised to return to power after nearly two decades in exile. The vote follows the 2024 uprising and a reshaped political landscape.",
-    "img": "https://th-i.thgim.com/public/news/national/tuc021/article70628245.ece/alternates/LANDSCAPE_1200/TH%20EXPLAIN.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-from-exile-to-power-who-is-bangladeshs-new-prime-minister-tarique-rahman/article70628252.ece",
-    "time": "2026-02-13T11:50:24.000Z"
   }
 ];
