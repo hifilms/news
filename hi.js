@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India set to bowl first, Pakistan win the toss",
+    "desc": "India A women and Pakistan A women take on each other in game 6 of the ongoing Women's Asia Cup Rising Stars 2026. The two sides gather at the Terdthai Cricket Ground, Bangkok, for the clash,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-a-women-vs-pak-a-women-live-cricket-score-arch-rivals-lock-horns-in-bangkok-1030332",
+    "time": "2026-02-15T06:17:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dinesh Karthik opens up on challenges Suryakumar Yadav could face against Pakistan in Colombo",
+    "desc": "The stage is set for game 27 of the ongoing T20 World Cup 2026; India and Pakistan take on each other at the R. Premadasa Stadium in Colombo on February 15. With the two sides...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dinesh-karthik-opens-up-on-challenges-suryakumar-yadav-could-face-against-pakistan-in-colombo-2026-02-15-1030330",
+    "time": "2026-02-15T06:04:18.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "New Zealand's Lockie Ferguson granted parental leave, set to miss Canada clash",
     "desc": "In a major development for New Zealand Cricket, the side’s star bowler, Lockie Ferguson, has officially been granted parental leave. It is worth noting that Ferguson and his wife Emma are expecting the birth of...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-cricket-board-president-aminul-islam-rejects-icc-s-invitation-for-ind-vs-pak-clash-in-t20-world-cup-2026-02-14-1030302",
     "time": "2026-02-14T17:50:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Africa outclass New Zealand, become first team to qualify for Super 8 after Markram, Jansen show",
-    "desc": "A dominant all-round show from South Africa helped them beat New Zealand to become the first team to progress to the Super 8 of the T20 World Cup 2026. Captain Aiden Markram led from the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-outclass-new-zealand-become-first-team-to-qualify-for-super-8-after-markram-jansen-show-2026-02-14-1030301",
-    "time": "2026-02-14T17:29:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at R Premadasa Stadium in Colombo play for T20 World Cup 2026?",
-    "desc": "When India and Pakistan meet at a World Cup, form often takes a back seat to nerve. The R Premadasa Stadium in Colombo is bracing for that familiar surge of anticipation as the two sides...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-pitch-report-how-will-surface-at-r-premadasa-stadium-in-colombo-play-for-t20-world-cup-2026-2026-02-14-1030298",
-    "time": "2026-02-14T16:37:04.000Z"
   }
 ];

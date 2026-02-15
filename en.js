@@ -1,12 +1,210 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Debate, vote on motion to remove Birla to be taken up on March 9: Rijiju",
+    "desc": "On March 9, in the Lok Sabha, we will have the debate on the no-confidence motion moved against the speaker. It is the rule to take it up on the first day. There will be a vote following the debate, says Union Parliamentary Affairs Minister Kiren Rijiju",
+    "img": "https://th-i.thgim.com/public/incoming/y5z99l/article70634685.ece/alternates/LANDSCAPE_1200/PTI02_07_2026_000045A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/debate-vote-on-motion-to-remove-birla-to-be-taken-up-on-march-9-rijiju/article70634682.ece",
+    "time": "2026-02-15T06:24:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bad Bunny rekindles romance with ex-girlfriend Gabriela Berlingeri?",
+    "desc": "Bad Bunny, the global musical icon, made headlines recently as he enjoyed an early Valentine's Day dinner in the vibrant city of Buenos Aires with his past love Gabriela Berlingeri. This charming outing coincided with his concert tour in Argentina, prompting fans to question the dynamics of his former relationship, especially in light of his recent link with Kendall Jenner.",
+    "img": "https://static.toiimg.com/photo/msid-128373462,imgsize-1181217.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bad-bunny-rekindles-romance-with-ex-girlfriend-gabriela-berlingeri-heres-what-we-know/articleshow/128373462.cms",
+    "time": "2026-02-15T06:15:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Abhishek Bachchan backs Ranveer Singh’s ‘Dhurandhar’",
+    "desc": "Abhishek Bachchan said Bollywood shouldn’t copy foreign industries, stressing faith in Indian storytelling. He noted India’s unmatched movie scale and audience reach while praising Ranveer Singh’s Dhurandhar. He added that Indian cinema doesn’t need a “Squid Game” moment to prove its global power.",
+    "img": "https://static.toiimg.com/photo/msid-128373507,imgsize-34926.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhishek-bachchan-backs-ranveer-singhs-dhurandhar-says-it-can-outshine-any-film/articleshow/128373507.cms",
+    "time": "2026-02-15T06:15:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How Van Der Beek secured his family before his demise",
+    "desc": "Weeks before his passing, actor James Van Der Beek ensured his family's future on their Texas ranch. With friends' help through a trust, he finalized the down payment, transforming their rented home into a purchased property. This move, costing approximately $4.76 million, was one of his final acts, securing a peaceful life for his wife and six children.",
+    "img": "https://static.toiimg.com/photo/msid-128373441,imgsize-79906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-van-der-beek-secured-a-down-payment-for-the-familys-texas-ranch-before-he-passed-away-report/articleshow/128373429.cms",
+    "time": "2026-02-15T06:14:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dua Lipa and Callum Turner share romantic red carpet",
+    "desc": "Dua Lipa, the chart-topping pop star, delighted fans with an unexpected appearance at the prestigious Berlin Film Festival, cheering on her fiancé Callum Turner as he launched his film, 'Rosebush Pruning.' The engaged couple, who announced their commitment in June 2025, showcased their love on the glamorous red carpet.",
+    "img": "https://static.toiimg.com/photo/msid-128373412,imgsize-852147.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/dua-lipa-and-callum-turner-share-a-romantic-red-carpet-moment-at-the-berlin-film-festival/articleshow/128373412.cms",
+    "time": "2026-02-15T06:12:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dia asks Mumbai metro tragedy, 'What idea of infrastructure..'",
+    "desc": "Dia Mirza reacted to the Mumbai Metro pillar collapse, questioning India’s idea of development. She asked if people support infrastructure that “kills and destroys life” or one that “values it.” The accident killed one and injured three, sparking debate on safety, prompting government action and an MMRDA-led investigation.",
+    "img": "https://static.toiimg.com/photo/msid-128373404,imgsize-20702.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dia-mirza-questions-mumbai-metro-tragedy-says-what-idea-of-infrastructure-do-you-support/articleshow/128373404.cms",
+    "time": "2026-02-15T06:12:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sasikala to continue her consultations with her followers on finalising strategy for 2026 T.N. Assembly poll",
+    "desc": "The purpose of Ms. Sasikala’s ongoing discussion is to finalise her camp’s strategy for the 2026 Assembly election; she has planned to hold discussion up to February 18, says her follower who is a former legislator.",
+    "img": "https://th-i.thgim.com/public/incoming/vmi5w5/article70634675.ece/alternates/LANDSCAPE_1200/10217_30_10_2025_16_34_51_2_DSC_5663.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/sasikala-to-continue-her-consultations-with-her-followers-on-finalising-strategy-for-2026-tn-assembly-poll/article70632959.ece",
+    "time": "2026-02-15T06:09:44.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Larry the cat marks 15 years at 10 Downing Street",
+    "desc": "Larry has lived through six Prime Ministers, from David Cameron to Keir Starmer, weathered the storms of Brexit, Covid-19, the chaos of \"partygate,\" Liz Truss's 49-day whirlwind occupation, and the more orderly months under Rishi Sunak",
+    "img": "https://th-i.thgim.com/public/incoming/9lsaxo/article70634647.ece/alternates/LANDSCAPE_1200/Britain_Larry_The_Cat_Photo_Gallery_56650.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/paw-patrol-larry-the-cat-marks-15-years-at-10-downing-street/article70634613.ece",
+    "time": "2026-02-15T06:04:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Is Deepika joining 'The White Lotus' Season 4?",
+    "desc": "Bollywood's Deepika Padukone is reportedly set to join the cast of 'The White Lotus' Season 4, with filming slated for France's Saint-Tropez. This follows earlier speculation about her involvement in Season 3, which she reportedly declined due to her pregnancy. The Emmy-winning series, created by Mike White, is eyeing a 2027 release, with shooting scheduled from April to October 2026.",
+    "img": "https://static.toiimg.com/photo/msid-128371967,imgsize-17100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/is-deepika-padukone-joining-the-white-lotus-season-4-bollywood-star-cast-alongside-helena-bonham-carter-reports/articleshow/128371868.cms",
+    "time": "2026-02-15T05:57:23.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Obama deplores lack of shame after Trump racist social media post",
+    "desc": "\"There's this sort of clown show that's happening in social media and on television, and what is true is that there doesn't seem to be any shame about this among people who used to feel like you had to have some sort of decorum and a sense of propriety and respect for the office,” says Barack Obama",
+    "img": "https://th-i.thgim.com/public/incoming/c3bs2c/article70634651.ece/alternates/LANDSCAPE_1200/Trump_USAID_54995.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/obama-deplores-lack-of-shame-after-trump-racist-social-media-post/article70634626.ece",
+    "time": "2026-02-15T05:56:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ahead of State budget, resident welfare associations demand focus on civic infrastructure",
+    "desc": "The Alliance of Resident Welfare Associations has called on the GCC to allocate funds in the interim Budget for a technical audit and rectification of stormwater drains, restoration of roads, and completion of pending infrastructure works",
+    "img": "https://th-i.thgim.com/public/news/national/su4tot/article70633237.ece/alternates/LANDSCAPE_1200/tnagar.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/ahead-of-state-budget-resident-welfare-associations-demand-focus-on-civic-infrastructure/article70632903.ece",
+    "time": "2026-02-15T05:45:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cardi B goes viral after falling on stage and joking about it",
+    "desc": "In a standout moment from her 'Little Miss Drama' tour in Las Vegas, Cardi B found herself hilariously crashing to the ground from her chair mid-performance. Not one to miss an opportunity for a laugh, she cheekily blamed 'the government' for the blunder and quipped that the viral footage was actually AI creation.",
+    "img": "https://static.toiimg.com/photo/msid-128372770,imgsize-26238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/cardi-b-falls-on-stage-video-goes-viral-as-star-jokes-it-was-the-government-watch/articleshow/128372770.cms",
+    "time": "2026-02-15T05:44:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Which celebrity guest star ‘The Simpsons’ is trying to book",
+    "desc": "The Simpsons, celebrating 800 episodes, continues its quest to book a legendary 58-year-old comedy star who has yet to appear. Showrunner Matt Selman revealed this ongoing pursuit at the show's milestone party. Meanwhile, the latest episode, airing February 15, takes the family to Philadelphia, exploring pet ownership and parodying adventure films.",
+    "img": "https://static.toiimg.com/photo/msid-128372764,imgsize-46420.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-simpsons-is-still-trying-to-book-this-celebrity-guest-star-almost-4-decades-later-the-shows-writer-reveals/articleshow/128372758.cms",
+    "time": "2026-02-15T05:42:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Bridgerton 4’, part 2 trailer teases more drama in the ton",
+    "desc": "The highly anticipated 'Bridgerton 4', part 2 trailer has dropped, promising more drama for the ton. Benedict and Sophie's forbidden romance faces new hurdles as they struggle to stay apart. Despite societal divides, their intense connection is undeniable. A shocking twist sees Sophie's past family move in, threatening to unravel everything. Catch the remaining episodes on Netflix, February 26.",
+    "img": "https://static.toiimg.com/photo/msid-128372315,imgsize-21260.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-4-part-2-trailer-out-now-new-video-teases-even-more-drama-as-benedict-and-sophies-love-story-deepens/articleshow/128372315.cms",
+    "time": "2026-02-15T05:27:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "History favours India against an unpredictable Pakistan unit",
+    "desc": "The Men in Blue will be tempted to play an additional spinner as the surface at the Premadasa Stadium is likely to aid the slow bowlers; rain could play spoilsport in the most anticipated game of the championship",
+    "img": "https://th-i.thgim.com/public/incoming/ozm1ia/article70634633.ece/alternates/LANDSCAPE_1200/PTI02_14_2026_000721B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-history-favours-india-against-an-unpredictable-pakistan-unit/article70632250.ece",
+    "time": "2026-02-15T05:23:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Photos of players framed, prayers offered ahead of IND vs PAK",
+    "desc": "Fans in Kanpur prayed for India’s victory ahead of the India vs Pakistan T20 World Cup match in Colombo. India and Pakistan have started the tournament strongly, with India dominating past T20 World Cup meetings and having a strong record at the venue. The match is scheduled for Sunday at 7 PM IST, but rain could affect play, with forecasts predicting showers during the day.",
+    "img": "https://static.toiimg.com/photo/msid-128372026,imgsize-111030.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/watch-photos-of-players-framed-prayers-offered-at-kanpur-temple-ahead-of-ind-vs-pak-t20-world-cup-match/articleshow/128371824.cms",
+    "time": "2026-02-15T05:08:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "5 real estate trends home owners should focus on",
+    "desc": "UAE's property market is seeing a surge in first-time homebuyers in 2026, driven by government support and a shift towards long-term value. Buyers now prioritise build quality, practical design and community infrastructure over speculation. Affordability and tech-driven mortgage solutions are making ownership more accessible, fostering a generation committed to homeownership as a lifestyle choice.",
+    "img": "https://static.toiimg.com/photo/msid-128371400,imgsize-57014.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-property-market-2026-renting-to-buying-your-first-house-in-emirates-5-real-estate-trends-home-owners-should-focus-on/articleshow/128370735.cms",
+    "time": "2026-02-15T05:01:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "T20 World Cup",
+    "desc": "“At this stage, we won’t be replacing Lockie in the squad ‌as the plan would ​be for him to return for the Super ⁠8 phase of the tournament,\" head coach Rob Walter said ‌in a statement on New Zealand Cricket official website.",
+    "img": "https://th-i.thgim.com/public/incoming/e1vh6o/article70634602.ece/alternates/LANDSCAPE_1200/South_Africa_New_Zealand_T20_WCup_Cricket_39300.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-nzs-ferguson-granted-parental-leave-tomiss-canada-game/article70634596.ece",
+    "time": "2026-02-15T04:58:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Blake Shelton’s Valentine’s Day PDA with Gwen Stefani",
+    "desc": "Country star Blake Shelton silenced divorce rumors with a sweet Valentine's Day kiss for Gwen Stefani. The couple, who met on 'The Voice' and have navigated intense tabloid speculation, shared a public display of affection. Shelton humorously addressed the constant gossip, while Stefani described meeting him as a \"second chance at life\" after her family's struggles.",
+    "img": "https://static.toiimg.com/photo/msid-128371692,imgsize-36010.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/blake-shelton-shows-love-to-gwen-stefani-with-valentines-day-pda-squashing-divorce-rumors/articleshow/128371676.cms",
+    "time": "2026-02-15T04:56:53.000Z"
+  },
+  {
+    "cat": "World",
     "title": "India ‘very successful’ emerging economy; right place to host AI summit: UN Chief Guterres",
     "desc": "Mr. Guterres asserted “it would be totally unacceptable that AI would be just a privilege of the most developed countries or a division only between two superpowers”, an apparent reference to the U.S. and China",
     "img": "https://th-i.thgim.com/public/incoming/oi1mkc/article70634556.ece/alternates/LANDSCAPE_1200/Italy_Africa_Summit_85379.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/india-very-successful-emerging-economy-right-place-to-host-ai-summit-un-chief-guterres/article70634551.ece",
-    "time": "2026-02-15T04:32:45.000Z"
+    "time": "2026-02-15T04:54:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘A Knight of the Seven Kingdoms’ episode 5: Release time",
+    "desc": "Fans of 'A Knight of the Seven Kingdoms' can anticipate episode 5, 'In the Name of the Mother,' airing February 16th in India. This installment continues the dramatic Trial of Seven, with Ser Duncan seeking allies for a crucial battle. The series, set in the 'Game of Thrones' universe, is available on JioHotstar for Indian viewers.",
+    "img": "https://static.toiimg.com/photo/msid-128370029,imgsize-920581.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/a-knight-of-the-seven-kingdoms-episode-5-release-time-global-streaming-schedule-and-more/articleshow/128370029.cms",
+    "time": "2026-02-15T04:43:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I want rain': Ex-Pakistan player gives shocking IND vs PAK verdict",
+    "desc": "Rain threatens the India vs Pakistan T20 World Cup match in Colombo, with forecasts predicting heavy showers and storms. Former Pakistan cricketer Basit Ali shocked fans by saying he wants rain. A minimum of five overs per side is needed for a result; otherwise, the match will be abandoned and both teams get one point, likely helping both qualify for the next round.",
+    "img": "https://static.toiimg.com/photo/msid-128371122,imgsize-50956.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-want-rain-ex-pakistan-player-gives-shocking-india-vs-pakistan-t20-world-cup-match-verdict/articleshow/128370633.cms",
+    "time": "2026-02-15T04:32:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jansen and Markram deliver as SA decimates NZ",
+    "desc": "The left-arm pacer, with a four-wicket haul, helps the Proteas restrict the Kiwis to 175 for seven; the captain then takes over with an unbeaten 86 to guide his side to its third successive win",
+    "img": "https://th-i.thgim.com/public/incoming/la4dfz/article70634481.ece/alternates/LANDSCAPE_1200/th15-lead-sa-nzG5AFJBM9K.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/south-africa-new-zealand-t20-world-cup-ahmedabad-updates-february-14-2026/article70632376.ece",
+    "time": "2026-02-15T04:21:05.000Z"
   },
   {
     "cat": "Entertainment",
@@ -19,7 +217,16 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Virat Kohli-Anushka Sharma pose for pics wih fans",
+    "title": "'Nagabandham': Abhishek calls,'It is a heartbeat and first cry of a dream'",
+    "desc": "The ambitious epic 'Nagabandham,' set in 1750, unveils its first glimpse on Mahashivaratri, blessed by superstar Mahesh Babu. Director Abhishek Nama describes the teaser as a 'heartbeat,' reflecting the team's deep faith and devotion. Despite exhaustion and doubt, the creators poured their belief into this spiritually anchored cinematic journey, hoping it resonates with audiences.",
+    "img": "https://static.toiimg.com/photo/msid-128370814,imgsize-52464.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nagabandham-first-glimpse-director-abhishek-nama-says-it-is-a-heartbeat-and-first-cry-of-a-dream/articleshow/128370837.cms",
+    "time": "2026-02-15T04:18:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Virat Kohli-Anushka Sharma pose for pics with fans",
     "desc": "Cricket star Virat Kohli and wife Anushka Sharma were spotted in Mumbai amidst the T20 World Cup 2026. The couple, seen in casual wear, posed with fans, with one sharing a touching tribute to Virat's inspiration. They've been balancing personal life in the UK with professional commitments, including property and ad film projects.",
     "img": "https://static.toiimg.com/photo/msid-128370643,imgsize-36724.cms",
     "src": "indiatimes.com",
@@ -43,6 +250,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ind-vs-pak-colombo-weather-update-what-happens-if-rain-washes-out-india-vs-pakistan-t20-world-cup-match/articleshow/128370320.cms",
     "time": "2026-02-15T03:57:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Love-all in Colombo as cricket world ready for India vs Pakistan",
+    "desc": "Thirty years after a unique India-Pakistan XI played in Colombo, the arch-rivals are set for a T20 World Cup clash, signalling a subcontinental ceasefire. Despite Pakistan's familiarity with the ground and a slower pitch, both captains downplay any advantage. India prepares to counter mystery spinner Usman Tariq, with Suryakumar Yadav even emulating his action in nets.",
+    "img": "https://static.toiimg.com/photo/msid-128370171,imgsize-60726.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-love-all-in-colombo-as-cricket-world-ready-for-india-vs-pakistan/articleshow/128370177.cms",
+    "time": "2026-02-15T03:45:30.000Z"
   },
   {
     "cat": "Entertainment",
@@ -117,24 +333,6 @@ const newsData_en = [
     "time": "2026-02-15T02:59:43.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Majako Mallika' out: Netizens compare it to 'Monica' song",
-    "desc": "The lyrical video for 'Kaattalan's' song \"Majako Mallika\" has been released, featuring Antony Varghese Pepe and a standout dance by Sunil. Composed by B. Ajaneesh Loknath, the track has sparked varied reactions online, with some praising its energy and others questioning its impact. The film's viral teaser has already built significant anticipation.",
-    "img": "https://static.toiimg.com/photo/msid-128369278,imgsize-69840.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/majako-mallika-out-pushpa-actor-sunil-impresses-with-dance-moves-kattalan-song-gets-mixed-reactions-online/articleshow/128369278.cms",
-    "time": "2026-02-15T02:59:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jansen and Markram deliver as SA decimates NZ",
-    "desc": "The left-arm pacer, with a four-wicket haul, helps the Proteas restrict the Kiwis to 175 for seven; the captain then takes over with an unbeaten 86 to guide his side to its third successive win",
-    "img": "https://th-i.thgim.com/public/incoming/la4dfz/article70634481.ece/alternates/LANDSCAPE_1200/th15-lead-sa-nzG5AFJBM9K.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/south-africa-new-zealand-t20-world-cup-ahmedabad-updates-february-14-2026/article70632376.ece",
-    "time": "2026-02-15T02:51:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India captain SKY mimics Pakistan's Usman Tariq",
     "desc": "Indian captain Suryakumar Yadav copied Pakistan spinner Usman Tariq’s unusual bowling action during practice before the India vs Pakistan T20 World Cup match, and the video went viral. Rain forced India to train indoors in Colombo. Tariq’s sidearm action and delayed release have made him a major talking point, despite limited experience. Suryakumar called him an “out of syllabus” challenge and said India is preparing special methods to counter him.",
@@ -142,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-pak-india-captain-suryakumar-yadav-mimics-pakistan-spinner-usman-tariq-during-india-nets-watch/articleshow/128368886.cms",
     "time": "2026-02-15T02:47:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ahead of State budget, resident welfare associations demand focus on civic infrastructure",
-    "desc": "The Alliance of Resident Welfare Associations has called on the GCC to allocate funds in the interim Budget for a technical audit and rectification of stormwater drains, restoration of roads, and completion of pending infrastructure works",
-    "img": "https://th-i.thgim.com/public/news/national/su4tot/article70633237.ece/alternates/LANDSCAPE_1200/tnagar.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/ahead-of-state-budget-resident-welfare-associations-demand-focus-on-civic-infrastructure/article70632903.ece",
-    "time": "2026-02-15T02:35:12.000Z"
   },
   {
     "cat": "Business",
@@ -162,51 +351,6 @@ const newsData_en = [
     "time": "2026-02-15T02:26:23.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Will Smith’s Valentine surprisehonors wife, Jada Smith, and family love!",
-    "desc": "Will Smith created a unique Valentine's Day surprise for Jada Pinkett Smith in 2026. He filled a room with life-size pillows of their children and themselves. This gesture celebrated their blended family. Jada shared the heartwarming moment on social media. The couple has navigated a complex journey together. They continue to prioritize family and their enduring bond.",
-    "img": "https://static.toiimg.com/photo/msid-128368583,imgsize-664683.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/will-smith-gifts-customised-life-size-pillows-as-a-valentines-day-surprise-for-jada-smith-heres-why-it-holds-special-value/articleshow/128368529.cms",
-    "time": "2026-02-15T02:18:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nick shares UNSEEN clips from wedding to Priyanka- WATCH",
-    "desc": "Nick Jonas melted hearts this Valentine's Day with a touching tribute to wife Priyanka Chopra, sharing never-before-seen wedding video clips. The romantic gesture, set to his song 'I Need You,' offered fans a nostalgic glimpse into their grand December 2018 celebration. Friends and fans alike praised the beautiful display of their enduring love.",
-    "img": "https://static.toiimg.com/photo/msid-128367972,imgsize-58322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nick-jonas-calls-priyanka-chopra-his-forever-valentine-shares-unseen-clips-from-wedding-video-watch/articleshow/128367825.cms",
-    "time": "2026-02-15T02:18:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan': No date before April 2026 for Vijay's film",
-    "desc": "Vijay's final film, 'Jana Nayagan,' faces further delays, now pushed past April 30, 2026, according to Canadian distributor York Cinemas. This latest setback follows earlier certification issues. Meanwhile, Vijay's 2016 hit 'Theri' will now re-release on February 20, offering fans a consolation.",
-    "img": "https://static.toiimg.com/photo/msid-128368474,imgsize-63524.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-release-buzz-international-distributor-issues-update-no-date-before-april-2026-for-vijays-film/articleshow/128368474.cms",
-    "time": "2026-02-15T02:16:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'My Lord' box office collections day 2: The film reaches Rs 77 Lakhs",
-    "desc": "Tamil drama 'My Lord,' starring M. Sasikumar, has seen a steady box office start, earning Rs 77 lakhs in its opening two days. The film experienced a positive Saturday uptick in occupancy, particularly in Tamil Nadu. While praised for its satirical instincts and engaging premise, the film's character development and emotional beats were noted as weaknesses in a balanced review.",
-    "img": "https://static.toiimg.com/photo/msid-128368477,imgsize-34364.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/box-office/my-lord-box-office-collections-day-2-m-sasikumar-film-reaches-rs-77-lakhs-stronger-saturday-growth/articleshow/128368479.cms",
-    "time": "2026-02-15T02:12:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "All about the love story of Brooklyn and Nicola Peltz Beckham",
-    "desc": "Brooklyn and Nicola Peltz Beckham's love story, marked by a whirlwind romance and a lavish wedding, has faced public scrutiny and family rifts. Despite alleged tensions with his parents, Brooklyn remains steadfastly supportive of Nicola, a stance echoed by her father, Nelson Peltz, highlighting their commitment to each other through challenges.",
-    "img": "https://static.toiimg.com/photo/msid-128368421,imgsize-33880.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brooklyn-peltz-beckham-and-nicola-peltz-beckham-from-coachella-meet-cute-to-married-life-in-beverly-hills-luxurious-condo/articleshow/128368394.cms",
-    "time": "2026-02-15T02:10:30.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Love and its newfangled terms",
     "desc": "Married couples in India are, reportedly, increasingly opening themselves up to alternative relationship models and structures, often in pursuit of authentic happiness and trust. Perceived for long as conservative, it seems Tamil Nadu is not entirely so. Some of the cities are now accommodating ethical non-monogamy — very simply, a relationship involving many and with consent. Preeti M.S. syncs up with married couples in Tamil Nadu to explore these new trends",
@@ -214,60 +358,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/love-and-its-newfangled-terms-ethical-non-monogamy-polyamory-open-marriage-in-tn/article70633091.ece",
     "time": "2026-02-15T01:47:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Vadh 2’ day 9 bo: Film reaches Rs 3.6 crore in earnings",
-    "desc": "The much-anticipated sequel 'Vadh 2,' featuring the talented duo Sanjay Mishra and Neena Gupta, has made a noteworthy Rs 3.6 crore at the box office. While critics have praised the film for its engaging storyline and brilliant performances, it appears that audience interest is waning as ticket sales have gradually dipped.",
-    "img": "https://static.toiimg.com/photo/msid-128367788,imgsize-21856.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/vadh-2-box-office-collection-day-9-sanjay-mishra-and-neena-guptas-thriller-makes-rs3-6-crores/articleshow/128367788.cms",
-    "time": "2026-02-15T01:36:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Aashakal Aayiram' BO day 9: Film nears Rs 5 crore",
-    "desc": "Jayaram and son Kalidas's film 'Aashakal Aayiram' is performing steadily, crossing Rs 4.95 crore worldwide in nine days. Despite mixed reviews, the father-son duo's on-screen chemistry is drawing family audiences. The film saw a notable uptick on its ninth day, indicating sustained audience interest and a likely crossing of the Rs 5 crore mark soon.",
-    "img": "https://static.toiimg.com/photo/msid-128367762,imgsize-50490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/aashakal-aayiram-box-office-collections-day-9-jayaramkalidas-starrer-nears-rs-5-crore/articleshow/128367762.cms",
-    "time": "2026-02-15T01:33:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jennifer Aniston, withboyfriend Jim Curtis, surprises Sean Hayes onstage",
-    "desc": "Jennifer Aniston, alongside boyfriend Jim Curtis, surprised Sean Hayes at his Off-Broadway play 'The Unknown' in New York City. The star-studded group, including Jason Bateman and Will Arnett, showed their support for Hayes' one-man show. Aniston previously praised Curtis's work as a hypnotherapist, highlighting his dedication to helping others heal.",
-    "img": "https://static.toiimg.com/photo/msid-128367633,imgsize-977163.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-aniston-boyfriend-jim-curtis-and-friends-surprise-sean-hayes-at-his-off-broadway-thriller-the-unknown/articleshow/128367647.cms",
-    "time": "2026-02-15T01:23:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sunny Deol's 'Border 2 hits Rs 320.45 crore mark",
-    "desc": "The gripping war saga 'Border 2' persists in theaters, amassing an impressive Rs 320 crore net in India. While peer films have slightly impacted its earnings, the film experienced a resurgence on its fourth Saturday, raking in Rs 1.90 crore. For the Valentine's weekend, it clinched second place, though it still trails behind the colossal figures of 'Gadar 2.'",
-    "img": "https://static.toiimg.com/photo/msid-128367622,imgsize-34252.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-23-sunny-deol-varun-dhawan-starrer-hits-rs-320-crore-mark/articleshow/128366924.cms",
-    "time": "2026-02-15T01:22:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Pennum Porattum' BO day 2: Film collects Rs 26 lakhs",
-    "desc": "Rajesh Madhavan's directorial debut, 'Pennum Porattum,' has opened to promising box office collections, earning Rs 26 lakhs worldwide by Day 2. The film, exploring village tensions and prejudice through a woman and her dog, has garnered positive social media reviews for its cast and technical team. Early reactions suggest potential for gradual box-office growth.",
-    "img": "https://static.toiimg.com/photo/msid-128367197,imgsize-78066.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/pennum-porattum-box-office-collections-day-2-rajesh-madhavans-directorial-debut-collects-rs-26-lakhs-worldwide/articleshow/128367197.cms",
-    "time": "2026-02-15T01:00:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Mardaani 3' day 16 bo: Weekend high brings big revenue",
-    "desc": "Rani Mukerji's 'Mardaani 3' is showing resilience at the box office, crossing Rs 43.15 crore after 16 days. Despite a slow start, weekend collections surged, with Saturday earnings reaching Rs 1.65 crore. The film is now eyeing the Rs 45 crore mark, facing competition from the newly released 'O'Romeo'.",
-    "img": "https://static.toiimg.com/photo/msid-128367006,imgsize-16464.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mardaani-3-box-office-collection-day-16-and-17-live-rani-mukerji-led-film-inches-toward-the-rs-45-crore-mark/articleshow/128367006.cms",
-    "time": "2026-02-15T00:49:24.000Z"
   },
   {
     "cat": "Sports",
@@ -414,15 +504,6 @@ const newsData_en = [
     "time": "2026-02-14T15:35:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Adult male tiger released in Papikonda National Park",
-    "desc": "Named ‘Explorer’, the big cat has been fitted with a satellite collar and transmission of data regarding its movements has commenced; special teams have been deployed to monitor its movements in the wild until it establishes its own territory",
-    "img": "https://th-i.thgim.com/public/incoming/jtzpx6/article70632693.ece/alternates/LANDSCAPE_1200/10237_14_2_2026_19_54_58_1_TIGERTIGER.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/adult-male-tiger-released-in-papikonda-national-park/article70632548.ece",
-    "time": "2026-02-14T15:07:19.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India’s climate spending rises to 5.6% of GDP, Sitharaman says at Munich",
     "desc": "India has significantly boosted climate action spending, now at nearly 5.6% of GDP, up from 3.7% six years ago, demonstrating strong domestic commitment. Finance Minister Nirmala Sitharaman emphasized the need for adaptation alongside emission cuts and advocated for a \"polluter pays\" principle in global climate finance, highlighting India's own substantial investments in renewables and carbon capture.",
@@ -484,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/adil-rashids-triple-blow-tom-bantons-fifty-seal-crucial-win-for-england-over-scotland/articleshow/128348928.cms",
     "time": "2026-02-14T13:16:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "History favours India against an unpredictable Pakistan unit",
-    "desc": "The Men in Blue will be tempted to play an additional spinner as the surface at the Premadasa Stadium is likely to aid the slow bowlers; rain could play spoilsport in the most anticipated game of the championship",
-    "img": "https://th-i.thgim.com/public/incoming/v7dy2u/article70632239.ece/alternates/LANDSCAPE_1200/PTI02_14_2026_000330B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-history-favours-india-against-an-unpredictable-pakistan-unit/article70632250.ece",
-    "time": "2026-02-14T13:16:48.000Z"
   },
   {
     "cat": "Sports",
@@ -558,15 +630,6 @@ const newsData_en = [
     "time": "2026-02-14T10:33:02.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Cleared by the ICC': Pakistan captain backs 'trump card' Usman Tariq",
-    "desc": "Pakistan captain Salman Ali Agha confirmed spinner Usman Tariq has been cleared by the ICC, dismissing concerns over his bowling action ahead of the India clash. Agha emphasized Tariq's importance as a \"trump card\" and stated the player remains unaffected by the debate.",
-    "img": "https://static.toiimg.com/photo/msid-128343626,imgsize-47320.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/cleared-by-the-icc-pakistan-captain-salman-ali-agha-backs-trump-card-usman-tariq-amid-debate-on-action/articleshow/128343414.cms",
-    "time": "2026-02-14T10:26:16.000Z"
-  },
-  {
     "cat": "World",
     "title": "Carney visits memorial to victims of Canada mass shooting",
     "desc": "Canadian leaders gathered in Tumbler Ridge, British Columbia, to honour victims of one of the country’s worst mass shootings. Police say 18-year-old Jesse Van Rootselaar killed two family members before attacking a former school in the small mountain community.",
@@ -576,15 +639,6 @@ const newsData_en = [
     "time": "2026-02-14T10:05:32.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Tucker's 94 helps Ireland clinch 96-run win against Oman",
-    "desc": "Ireland crushed Oman by 96 runs after captain Lorcan Tucker smashed 94 off 51 balls to lead his side to a tournament-high 235/5. Gareth Delany and George Dockrell added quick runs as Ireland dominated the final overs. Oman’s chase faltered after half-centuries from Aamir Kaleem and Hammad Mirza, with Josh Little taking 3/16 as Oman were bowled out for 139.",
-    "img": "https://static.toiimg.com/photo/msid-128342320,imgsize-117732.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-lorcan-tuckers-94-helps-ireland-clinch-96-run-win-against-oman/articleshow/128342157.cms",
-    "time": "2026-02-14T09:39:23.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Cabinet clears Rs 1 lakh crore Urban Challenge Fund to drive market-led city infrastructure push",
     "desc": "The Union Cabinet has greenlit the Urban Challenge Fund, allocating Rs 1 lakh crore to spur market-linked urban infrastructure over five years. This initiative aims to attract Rs 4 lakh crore in investments, focusing on reform-driven development and citizen-centric projects. A Rs 5,000 crore credit support aims to boost market access for smaller cities.",
@@ -592,33 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/cabinet-clears-rs-1-lakh-crore-urban-challenge-fund-to-drive-market-led-city-infrastructure-push/articleshow/128341645.cms",
     "time": "2026-02-14T09:21:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan captain adds fuel to handshake controversy",
-    "desc": "Pakistan captain Salman Ali Agha reignited the handshake controversy ahead of the India clash, saying he hopes for sportsmanship but adding, “We’ll find that out tomorrow.” India arrived in Colombo to a festive welcome and will train separately from Pakistan. Key Indian players are set to feature, with spin expected to play a big role. Agha had earlier criticised India’s past handshake refusal, calling it bad for the game and young fans.",
-    "img": "https://static.toiimg.com/photo/msid-128341117,imgsize-84902.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-pak-pakistan-captain-adds-fuel-to-handshake-controversy-with-fresh-remark-well-find-that-out/articleshow/128340892.cms",
-    "time": "2026-02-14T08:57:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Consumers to buy and sell electricity! DERC greenlights peer-to-peer power trading pilot",
-    "desc": "Delhi is set to revolutionize electricity consumption with a new framework enabling peer-to-peer energy trading. Prosumers with rooftop solar can now sell surplus power directly to other users, transforming homes into mini power plants. This pilot project, launching soon, aims to create a consumer-centric, digitally governed energy ecosystem.",
-    "img": "https://static.toiimg.com/photo/msid-128338230,imgsize-207939.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/consumers-to-buy-and-sell-electricity-derc-greenlights-peer-to-peer-power-trading-pilot/articleshow/128337717.cms",
-    "time": "2026-02-14T07:28:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Valentine's Day boom brings cheers for Q-comm brands: More shopping for jewellery, greeting cards, and plush toys",
-    "desc": "Valentine's Day is driving a significant sales surge for quick commerce platforms and digital-first brands, with categories like sexual wellness, jewelry, and fashion experiencing substantial year-on-year growth. Companies are activating special features and curated lists to capture increased demand, noting a shift towards planned, thoughtful gifting throughout Valentine's week.",
-    "img": "https://static.toiimg.com/photo/msid-128337218,imgsize-111231.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/valentines-day-boom-brings-cheers-for-q-comm-brands-more-shopping-for-jewellery-greeting-cards-and-plush-toys/articleshow/128333914.cms",
-    "time": "2026-02-14T06:34:42.000Z"
   },
   {
     "cat": "Business",
@@ -646,15 +673,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-bangladesh-elections-a-decisive-mandate-the-hindu-editorial/article70631348.ece",
     "time": "2026-02-14T04:59:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where will the match be decided? Will rain play a role?",
-    "desc": "Pakistan’s five-prong spin attack will be a challenge for India on a double-paced pitch at the R Premadasa Stadium in Colombo. Pakistan are likely to go with an all-spin attack against India. In that case, Sunday’s fixture will be crucial for Shivam Dube, who has been included in the side to take down spinners.",
-    "img": "https://static.toiimg.com/photo/msid-128334388,imgsize-69056.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-vs-pakistan-where-will-the-match-be-decided-will-rain-play-a-role/articleshow/128334388.cms",
-    "time": "2026-02-14T04:56:14.000Z"
   },
   {
     "cat": "World",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/second-us-aircraft-carrier-reportedly-heading-to-west-asia-as-iran-tensions-run-high/article70627491.ece",
     "time": "2026-02-13T09:49:17.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump ends immigration crackdown in Minnesota",
-    "desc": "Campaigning against illegal immigration helped Mr. Trump get elected in 2024, but daily videos from Minnesota of violent masked agents and multiple reports of people being targeted on flimsy evidence helped send the president’s approval ratings plummeting",
-    "img": "https://th-i.thgim.com/public/incoming/1gl6cs/article70627739.ece/alternates/LANDSCAPE_1200/2026-02-12T145220Z_1581373144_RC20KJAZU3NU_RTRMADP_3_USA-TRUMP-MINNESOTA-HOMAN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-ends-immigration-crackdown-in-minnesota/article70627726.ece",
-    "time": "2026-02-13T09:42:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Marina Abramović at the Kochi Biennale: On endurance, controversy and performance art",
-    "desc": "From a silent breathing ritual to a tense exchange over Epstein conspiracy theories, the performance art icon speaks candidly about pain, and reflects on six decades of pushing her body — and audiences — to its limits",
-    "img": "https://th-i.thgim.com/public/life-and-style/dxxkka/article70619596.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-11%20at%204.55.32%20PM%201.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/art/marina-abramovic-at-the-kochi-biennale-on-endurance-controversy-and-performance-art/article70618532.ece",
-    "time": "2026-02-13T09:34:57.000Z"
   }
 ];
