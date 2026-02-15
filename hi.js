@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Schedule, squads, live streaming, and all you need to know",
+    "desc": "The stage is set for the multi-format series between India women and Australia women. The two sides will be taking on each other across three T20I matches, three ODI matches, and one Test match. It...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-australia-women-schedule-squads-live-streaming-and-all-you-need-to-know-2026-02-15-1030310",
+    "time": "2026-02-15T01:38:27.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Suryakumar Yadav imitates Usman Tariq as India prepare for unkown challenge for T20 World Cup clash",
     "desc": "India T20 captain Suryakumar Yadav led from the front to help his team prepare for the unknown Usman Tariq challenge in the upcoming India-Pakistan T20 World Cup clash on Sunday in Colombo. There has been so...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/which-pitch-will-be-used-for-india-vs-pakistan-t20-world-cup-2026-clash-check-here-2026-02-14-1030288",
     "time": "2026-02-14T14:08:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England defeated European team in T20 World Cup history",
-    "desc": "England’s T20 World Cup history against European teams has been largely disappointing. They lost to the Netherlands by four wickets at Lord’s in 2009 and again by 45 runs in Chattogram in 2014. Ireland also...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/first-time-ever-england-defeated-european-team-in-t20-world-cup-history-2026-02-14-1030286",
-    "time": "2026-02-14T13:47:08.000Z"
   }
 ];

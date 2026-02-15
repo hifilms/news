@@ -1,12 +1,120 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "‘Vadh 2’ day 9 bo: Film reaches Rs 3.6 crore in earnings",
+    "desc": "The much-anticipated sequel 'Vadh 2,' featuring the talented duo Sanjay Mishra and Neena Gupta, has made a noteworthy Rs 3.6 crore at the box office. While critics have praised the film for its engaging storyline and brilliant performances, it appears that audience interest is waning as ticket sales have gradually dipped.",
+    "img": "https://static.toiimg.com/photo/msid-128367788,imgsize-21856.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/vadh-2-box-office-collection-day-9-sanjay-mishra-and-neena-guptas-thriller-makes-rs3-6-crores/articleshow/128367788.cms",
+    "time": "2026-02-15T01:36:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Aashakal Aayiram' BO day 9: Film nears Rs 5 crore",
+    "desc": "Jayaram and son Kalidas's film 'Aashakal Aayiram' is performing steadily, crossing Rs 4.95 crore worldwide in nine days. Despite mixed reviews, the father-son duo's on-screen chemistry is drawing family audiences. The film saw a notable uptick on its ninth day, indicating sustained audience interest and a likely crossing of the Rs 5 crore mark soon.",
+    "img": "https://static.toiimg.com/photo/msid-128367762,imgsize-50490.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/aashakal-aayiram-box-office-collections-day-9-jayaramkalidas-starrer-nears-rs-5-crore/articleshow/128367762.cms",
+    "time": "2026-02-15T01:33:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jennifer Aniston, withboyfriend Jim Curtis, surprises Sean Hayes onstage",
+    "desc": "Jennifer Aniston, alongside boyfriend Jim Curtis, surprised Sean Hayes at his Off-Broadway play 'The Unknown' in New York City. The star-studded group, including Jason Bateman and Will Arnett, showed their support for Hayes' one-man show. Aniston previously praised Curtis's work as a hypnotherapist, highlighting his dedication to helping others heal.",
+    "img": "https://static.toiimg.com/photo/msid-128367633,imgsize-977163.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-aniston-boyfriend-jim-curtis-and-friends-surprise-sean-hayes-at-his-off-broadway-thriller-the-unknown/articleshow/128367647.cms",
+    "time": "2026-02-15T01:23:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sunny Deol's 'Border 2 hits Rs 320.45 crore mark",
+    "desc": "The gripping war saga 'Border 2' persists in theaters, amassing an impressive Rs 320 crore net in India. While peer films have slightly impacted its earnings, the film experienced a resurgence on its fourth Saturday, raking in Rs 1.90 crore. For the Valentine's weekend, it clinched second place, though it still trails behind the colossal figures of 'Gadar 2.'",
+    "img": "https://static.toiimg.com/photo/msid-128367622,imgsize-34252.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-23-sunny-deol-varun-dhawan-starrer-hits-rs-320-crore-mark/articleshow/128366924.cms",
+    "time": "2026-02-15T01:22:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Pennum Porattum' BO day 2: Film collects Rs 26 lakhs",
+    "desc": "Rajesh Madhavan's directorial debut, 'Pennum Porattum,' has opened to promising box office collections, earning Rs 26 lakhs worldwide by Day 2. The film, exploring village tensions and prejudice through a woman and her dog, has garnered positive social media reviews for its cast and technical team. Early reactions suggest potential for gradual box-office growth.",
+    "img": "https://static.toiimg.com/photo/msid-128367197,imgsize-78066.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/pennum-porattum-box-office-collections-day-2-rajesh-madhavans-directorial-debut-collects-rs-26-lakhs-worldwide/articleshow/128367197.cms",
+    "time": "2026-02-15T01:00:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mardaani 3' day 16 bo: Weekend high brings big revenue",
+    "desc": "Rani Mukerji's 'Mardaani 3' is showing resilience at the box office, crossing Rs 43.15 crore after 16 days. Despite a slow start, weekend collections surged, with Saturday earnings reaching Rs 1.65 crore. The film is now eyeing the Rs 45 crore mark, facing competition from the newly released 'O'Romeo'.",
+    "img": "https://static.toiimg.com/photo/msid-128367006,imgsize-16464.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mardaani-3-box-office-collection-day-16-and-17-live-rani-mukerji-led-film-inches-toward-the-rs-45-crore-mark/articleshow/128367006.cms",
+    "time": "2026-02-15T00:49:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'With Love' BO day 8: Film crosses Rs 14 crore India net",
+    "desc": "Romantic entertainer 'With Love' is showing steady box office performance, crossing Rs 14.75 crore India net in eight days. The film's worldwide collection stands at Rs 20.50 crore. While Tamil occupancy shows strong late-day engagement, Telugu market performance is modest. Reviews highlight its reliance on relatable situations, with character-specific humor proving more effective.",
+    "img": "https://static.toiimg.com/photo/msid-128366906,imgsize-50718.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/with-love-box-office-collections-day-8-anaswara-rajan-film-crosses-rs-14-crore-india-net/articleshow/128366906.cms",
+    "time": "2026-02-15T00:43:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spa' BO day 2: Adult comedy shows slow growth",
+    "desc": "Abrid Shine's adult comedy 'Spa' showed a slight uptick in box office collections on its second day, earning Rs 9 lakhs worldwide and Rs 5 lakhs net in India. While not a massive commercial success yet, the film's improved performance and mixed-to-decent social media reception are providing some encouragement for its theatrical run.",
+    "img": "https://static.toiimg.com/photo/msid-128366557,imgsize-77912.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/spa-box-office-collections-day-2-abrid-shines-adult-comedy-shows-slow-growth-collects-rs-9-lakhs/articleshow/128366557.cms",
+    "time": "2026-02-15T00:29:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'O' Romeo' crosses Rs 20 crore mark on Valentine's Day",
+    "desc": "'O' Romeo,' starring Shahid Kapoor, has made a strong debut, surpassing Rs 10 crore on its second day. The romantic drama, released for Valentine's Day, collected an estimated Rs 12.25 crore on Saturday, bringing its total to Rs 20.75 crore. The film's worldwide collection stands at Rs 26.6 crore, outperforming other releases.",
+    "img": "https://static.toiimg.com/photo/msid-128366629,imgsize-39060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/o-romeo-box-office-collection-day-2-shahid-kapoor-starrer-crosses-rs-20-crore-mark-on-valentines-weekend/articleshow/128366543.cms",
+    "time": "2026-02-15T00:24:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Drishyam 3’: Mohanlal's film to have no fan shows",
+    "desc": "Drishyam 3's new exhibition terms in Kerala are a game-changer, mandating four daily shows and a four-week minimum run, even during strikes or low turnout. Distributors secure a significant 60% share in the first week, with a Rs 5 lakh advance required from theaters. This pact, unusual for its strictness, reflects the franchise's immense anticipated draw.",
+    "img": "https://static.toiimg.com/photo/msid-128366282,imgsize-29822.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/drishyam-3-mohanlals-film-to-have-no-fan-shows-mandatory-four-weeks-of-theatre-screening/articleshow/128366282.cms",
+    "time": "2026-02-15T00:06:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Out of syllabus question': Suryakumar on Pakistan spinner Usman Tariq",
+    "desc": "India skipper Suryakumar Yadav acknowledged the team's batting struggles in the T20 World Cup but expressed confidence in tackling Pakistan's unique spinner, Usman Tariq. Despite a scratchy start and vulnerabilities exposed in earlier matches, Yadav emphasized the team's ability to adapt and execute their practice, aiming to overcome pressure and deliver a strong performance against Pakistan.",
+    "img": "https://static.toiimg.com/photo/msid-128353838,imgsize-1072225.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/out-of-syllabus-question-suryakumar-yadav-on-pakistan-spinner-usman-tariq/articleshow/128353805.cms",
+    "time": "2026-02-14T23:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Found in translation",
+    "desc": "As Parliament adds interpreters in over 20 Indian languages, the small group of people who translate speeches and other proceedings simultaneously as business unfolds in the two houses tell Aroon Deep about the emerging field",
+    "img": "https://th-i.thgim.com/public/incoming/ojxf8y/article70629695.ece/alternates/LANDSCAPE_1200/SPOTLIGHT%20interpretersI%20DELHI%202025_13_02_13.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/found-in-translation/article70629691.ece",
+    "time": "2026-02-14T22:56:34.000Z"
+  },
+  {
     "cat": "World",
     "title": "Four new astronauts arrive at International Space Station to replace NASA's evacuated crew",
     "desc": "Last month's medical evacuation was NASA's first in 65 years of human spaceflight; one of four astronauts launched by SpaceX last summer suffered what officials described as a serious health issue, prompting their hasty return",
     "img": "https://th-i.thgim.com/public/incoming/jroyqj/article70633412.ece/alternates/LANDSCAPE_1200/APTOPIX_SpaceX_Crew_Launch_07199.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/four-new-astronauts-arrive-at-international-space-station-to-replace-nasas-evacuated-crew/article70633411.ece",
-    "time": "2026-02-14T21:11:14.000Z"
+    "url": "https://www.thehindu.com/sci-tech/four-new-astronauts-arrive-at-international-space-station-to-replace-nasas-evacuated-crew/article70633411.ece",
+    "time": "2026-02-14T21:21:59.000Z"
   },
   {
     "cat": "Entertainment",
@@ -28,6 +136,15 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
+    "title": "West Bengal BJP leadership reaches out to Muslims, says Trinamool has done nothing for minorities",
+    "desc": "The remarks by WB BJP president Samik Bhattacharya, which come ahead of the Assembly polls in the State, marks a significant departure from the earlier stand of the saffron party where it did not engage with minorities.",
+    "img": "https://th-i.thgim.com/public/incoming/srda8i/article70633390.ece/alternates/LANDSCAPE_1200/20260204245L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-bjp-leadership-reaches-out-to-muslims-says-trinamool-has-done-nothing-for-minorities/article70632635.ece",
+    "time": "2026-02-14T20:07:44.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "State level wrestling tournament begins in Bihar",
     "desc": "Commonwealth Games gold medallist shooter and sports minister Shreyasi Singh asserted that the dream and goal is to ensure the participation of as many players from Bihar as possible in the Olympics in the future.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -43,6 +160,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-is-extremely-brave-actor-but-he-was-too-eye-catching-in-dhurandhar-says-prashant-narayanan-addresses-his-previous-remarks/articleshow/128358985.cms",
     "time": "2026-02-14T19:13:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Love and its newfangled terms",
+    "desc": "Married couples in India are, reportedly, increasingly opening themselves up to alternative relationship models and structures, often in pursuit of authentic happiness and trust. Perceived for long as conservative, it seems Tamil Nadu is not entirely so. Some of the cities are now accommodating ethical non-monogamy — very simply, a relationship involving many and with consent. Preeti M.S. syncs up with married couples in Tamil Nadu to explore these new trends",
+    "img": "https://th-i.thgim.com/public/incoming/43dlir/article70633270.ece/alternates/LANDSCAPE_1200/TH15_Love.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/love-and-its-newfangled-terms-ethical-non-monogamy-polyamory-open-marriage-in-tn/article70633091.ece",
+    "time": "2026-02-14T18:59:17.000Z"
   },
   {
     "cat": "Sports",
@@ -244,39 +370,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Sukesh claims he gifted Jacqueline an Airbus helicopter on V-Day",
-    "desc": "Jailed conman Sukesh Chandrasekhar is back in the headlines — this time for a Valentine’s Day letter and an extravagant claim. In a note dated February 14, 2026, he says he has gifted an Airbus luxury helicopter to actor Jacqueline Fernandez, while also apologising for the “legal troubles” she has faced.",
-    "img": "https://static.toiimg.com/photo/msid-128351662,imgsize-79562.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sukesh-chandrasekhar-claims-he-gifted-jacqueline-fernandez-an-airbus-helicopter-on-valentines-day-apologises-for-legal-troubles/articleshow/128351541.cms",
-    "time": "2026-02-14T14:58:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Anil Kapoor opens up on being insecure as an actor",
     "desc": "Veteran actor Anil Kapoor, with over 40 years in the industry, continues to thrive by seeking emotional hooks in his roles and a desire to prove himself. He credits Subhash Ghai's 'Meri Jung' for shaping him into a mainstream hero and a lingering insecurity for his sustained energy and drive to deliver quality performances.",
     "img": "https://static.toiimg.com/photo/msid-128351296,imgsize-30264.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anil-kapoor-opens-up-on-his-insecurity-as-an-actor-and-thats-what-keeps-him-going-i-want-to-be-seen/articleshow/128351306.cms",
     "time": "2026-02-14T14:43:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Top 5 Margot Robbie movies that are a must-watch on OTT",
-    "desc": "Have you ever wondered why Margot Robbie is like the friend who steals the show at the party? It is because she has a killer combination of grit, glamour, and guts that makes watching her films a must. The five films that showcase her at her best are ‘I, Tonya’, ‘Barbie’, ‘The Wolf of Wall Street’, ‘Once Upon a Time… in Hollywood’, and ‘Birds of Prey’. They are just right for a night in, with the right mix of laughs, thrills, and goosebump moments.",
-    "img": "https://static.toiimg.com/photo/msid-128337704,imgsize-667076.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/top-5-margot-robbie-movies-that-are-a-must-watch-on-ott/photostory/128337704.cms",
-    "time": "2026-02-14T14:41:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Dark’ conspiracy theory explained about the 'loop'",
-    "desc": "The German sci-fi mystery 'Dark' captivated audiences with its intricate time-travel narrative across multiple universes. The series finale offered a complex resolution, with creators suggesting the time loop was broken. However, lingering paradoxes and a final scene hint at enduring mysteries, sparking ongoing fan debates about the true nature of the ending.",
-    "img": "https://static.toiimg.com/photo/msid-128340533,imgsize-179438.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/dark-conspiracy-theory-explained-did-the-loop-never-really-break-in-the-end/articleshow/128340519.cms",
-    "time": "2026-02-14T14:25:54.000Z"
   },
   {
     "cat": "World",
@@ -286,15 +385,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/european-nations-say-alexei-navalny-died-by-poisoning/article70632422.ece",
     "time": "2026-02-14T14:24:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Raj Kapoor’s sons didn't want to cast Rajesh Khanna in SSS",
-    "desc": "It could have been one of the biggest collaborations in Hindi cinema. Raj Kapoor wanted Rajesh Khanna for Satyam Shivam Sundaram. Talks had happened. An announcement date was fixed. Everything seemed ready. And then, it all collapsed. Years later, Anita Advani revealed what she claims went wrong behind the scenes.",
-    "img": "https://static.toiimg.com/photo/msid-128350371,imgsize-61542.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raj-kapoors-sons-didnt-want-to-cast-rajesh-khanna-in-satyam-shivam-sundaram-claims-anita-advani-they-protested-saying-why-bring-in-an-outsider/articleshow/128350214.cms",
-    "time": "2026-02-14T14:09:52.000Z"
   },
   {
     "cat": "Sports",
@@ -333,33 +423,6 @@ const newsData_en = [
     "time": "2026-02-14T13:45:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Victory is not declared by mere rhetoric': CDS Gen Anil Chauhan takes swipe at Pakistan",
-    "desc": "Chief of Defence Staff General Anil Chauhan emphasized that \"actual vijay lies in demonstrated evidence,\" referencing India's counterterror actions. He stressed that victory isn't built on rhetoric but on tangible outcomes like damaged terror infrastructure and dysfunctional air defence systems, urging a sober assessment of India's defense preparedness for future challenges.",
-    "img": "https://static.toiimg.com/photo/msid-128349111,imgsize-530541.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/victory-is-not-declared-by-mere-rhetoric-cds-gen-anil-chauhan-takes-swipe-at-pakistan/articleshow/128348950.cms",
-    "time": "2026-02-14T13:25:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Is Vijay dating after break-up with Tamannaah? V-day post creates a stir",
-    "desc": "Vijay Varma sparked dating rumors on Valentine's Day with an Instagram story featuring a woman's hand and a cryptic caption. However, the tagged account was revealed to be a prank, with a post humorously declaring \"Ch*tiya banaya tumko.\" This comes amid speculation about his breakup with Tamannaah Bhatia.",
-    "img": "https://static.toiimg.com/photo/msid-128349022,imgsize-26182.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/is-vijay-varma-dating-someone-after-break-up-with-tamannaah-bhatia-his-valentines-day-post-breaks-the-internet-find-out/articleshow/128349030.cms",
-    "time": "2026-02-14T13:20:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nagarjuna breaks silence on rejecting Akshaye's role in Dhurandhar",
-    "desc": "Ever since Aditya Dhar’s Dhurandhar hit theatres, the film has been the talk of the town. While Akshaye Khanna turned into an overnight internet sensation with his menacing act as Rehman Dakait, recent rumours claimed that the role was initially offered to Nagarjuna — and that the South superstar had turned it down.",
-    "img": "https://static.toiimg.com/photo/msid-128348958,imgsize-27836.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nagarjuna-breaks-silence-on-rejecting-rehman-dakaits-role-in-ranveer-singhs-dhurandhar-akshaye-khanna-was-terrific-aditya-dhar-direction/articleshow/128348906.cms",
-    "time": "2026-02-14T13:17:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Rashid's triple blow, Banton's fifty seal crucial win for England over Scotland",
     "desc": "England secured a vital five-wicket victory against Scotland, keeping their T20 World Cup Super Eights hopes alive. Adil Rashid's crucial middle-overs spell and Tom Banton's unbeaten 63 guided England to the target after a shaky start. This win propels England to second in Group C, setting up a decisive clash.",
@@ -387,33 +450,6 @@ const newsData_en = [
     "time": "2026-02-14T13:07:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Manju Warrier and Kunchacko Boban reunite for Nere Chovva",
-    "desc": "Manju Warrier and Kunchacko Boban reunite for 'Nere Chovva', a film announced on Valentine's Day. Boban's character aims to be the first man on Mars, as hinted in a quirky title poster. This marks their fourth collaboration, following successful films like 'How Old Are You?'. The movie is directed by debutant Renjit Varma.",
-    "img": "https://static.toiimg.com/photo/msid-128348583,imgsize-45130.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/manju-warrier-and-kunchacko-boban-announce-new-film-nere-chovva-motion-poster-revealed-watch/articleshow/128348583.cms",
-    "time": "2026-02-14T13:05:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "The Paradise director drops an update on Nani's intro song",
-    "desc": "Nani's upcoming film, 'The Paradise,' is generating buzz with a new song update. Director Srikanth Odela shared a glimpse from the recording studio for the energetic introduction song 'Aaya Sher,' composed by Anirudh Ravichander. The film, which addresses a tribal community's fight for rights, has been rescheduled for an August 21, 2026 release.",
-    "img": "https://static.toiimg.com/photo/msid-128348305,imgsize-66182.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-paradise-director-srikanth-odela-says-the-entire-country-will-start-dancing-to-nanis-intro-song-aaya-sher/articleshow/128348305.cms",
-    "time": "2026-02-14T12:58:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman Khan says he still lives in a 1 BHK apartment, fans react",
-    "desc": "Bollywood superstar Salman Khan surprised many at a Dubai gala by revealing he still lives in a 1 BHK apartment, emphasizing comfort over extravagance. His candid admission about his modest living arrangements, despite decades of stardom, drew praise for his grounded attitude and focus on personal contentment over material display.",
-    "img": "https://static.toiimg.com/photo/msid-128348105,imgsize-12042.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-says-he-still-lives-in-a-1-bhk-apartment-at-an-event-in-dubai-fans-call-him-grounded/articleshow/128348114.cms",
-    "time": "2026-02-14T12:46:36.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Indo-U.S. trade deal will destroy India’s textile industry: Rahul",
     "desc": "In a social media post, he said the Modi Government has neither protected the interests of cotton farmers nor that of textile exporters as a ‘visionary government’ would have negotiated a deal that protected both and ensured prosperity for both the sectors",
@@ -421,15 +457,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/govt-cheating-cotton-farmers-textile-exporters-over-tariffs-in-india-us-deal-rahul-gandhi/article70631891.ece",
     "time": "2026-02-14T12:42:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tarique Rahman puts Bangladesh first in foreign policy; Piyush Goyal slams Rahul Gandhi over India–US trade deal row; &amp; more",
-    "desc": "Bangladesh's BNP chief Tarique Rahman vowed a \"people-first\" foreign policy post-victory. Meanwhile, Piyush Goyal defended the India-US trade deal against Rahul Gandhi's criticism, highlighting benefits for textiles and farmers. In Mumbai, a Metro Line-4 parapet collapse tragically killed one and injured three.",
-    "img": "https://static.toiimg.com/photo/msid-128347901,imgsize-821210.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-tarique-rahman-puts-bangladesh-first-in-foreign-policy-piyush-goyal-slams-rahul-gandhi-over-indiaus-trade-deal-row-more/articleshow/128347474.cms",
-    "time": "2026-02-14T12:41:26.000Z"
   },
   {
     "cat": "Sports",
@@ -468,15 +495,6 @@ const newsData_en = [
     "time": "2026-02-14T11:40:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Politics of negativity': Piyush Goyal rejects Rahul Gandhi's concerns over India-US trade deal",
-    "desc": "Union minister Piyush Goyal attacked Rahul Gandhi over the India-US trade deal, accusing him of \"foolishness\" and \"sabotaging India's growth.\" Goyal countered Gandhi's claims about hurting farmers and exporters, highlighting the potential for textile market growth and job creation. He also pointed out that Gandhi's party initiated policies allowing duty-free import of raw materials for exports.",
-    "img": "https://static.toiimg.com/photo/msid-128345544,imgsize-866723.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/politics-of-negativity-piyush-goyal-rejects-rahul-gandhis-concerns-over-india-us-trade-deal/articleshow/128345387.cms",
-    "time": "2026-02-14T11:25:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India vs Pakistan to be played on used surface",
     "desc": "The highly anticipated India vs Pakistan clash on February 15 will be played on a used surface at the R Premadasa Stadium in Colombo, a factor that could significantly influence conditions and strategy in the marquee T20 World Cup encounter.",
@@ -495,15 +513,6 @@ const newsData_en = [
     "time": "2026-02-14T10:26:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Do jism, ek jaan? No thanks: How Gamophobia is changing the language of love",
-    "desc": "Gamophobia, the fear of commitment or marriage, is a growing concern, extending beyond simple jitters to a deep-seated emotional resistance. This phenomenon, fueled by increased choice, individualism, and witnessing relationship breakdowns, is prompting individuals to question traditional marital structures and redefine what love and commitment entail in the modern world.",
-    "img": "https://static.toiimg.com/photo/msid-128343268,imgsize-1504417.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/do-jism-ek-jaan-no-thanks-how-gamophobia-is-changing-the-language-of-love/articleshow/128343019.cms",
-    "time": "2026-02-14T10:24:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Hardik inks heartfelt Valentine's Day 'M' tattoo for girlfriend Mahieka – Watch",
     "desc": "Cricketer Hardik Pandya celebrated his love for girlfriend Mahieka Sharma with a unique tattoo featuring two leopards, symbolizing their strength and partnership. This meaningful ink, conceptualized with artists, marks a special Valentine's surprise. Pandya also showcased his prowess on the field, delivering a stellar performance against Namibia with both bat and ball, earning him Player of the Match.",
@@ -520,15 +529,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/carneyvisits-memorial-to-victims-of-canada-mass-shooting/article70631327.ece",
     "time": "2026-02-14T10:05:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Power-sharing is essential': Congress presses DMK again after Stalin's red line in Tamil Nadu",
-    "desc": "Congress seeks more seats from DMK for the Tamil Nadu assembly elections. MP Manickam Tagore stated power sharing is essential for governance. DMK leader RS Raja Kannappan earlier claimed DMK would contest 170 seats. Formal alliance talks are set to begin on February 22. The INDIA bloc remains united despite BJP's efforts.",
-    "img": "https://static.toiimg.com/photo/msid-128342842,imgsize-944431.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/power-sharing-is-essential-congress-presses-dmk-again-after-stalins-red-line-in-tamil-nadu/articleshow/128342409.cms",
-    "time": "2026-02-14T09:58:03.000Z"
   },
   {
     "cat": "Sports",
@@ -558,15 +558,6 @@ const newsData_en = [
     "time": "2026-02-14T08:57:35.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Shared commitment to peace, stability': Bangladesh's BNP thanks PM Modi for wishes after victory in  elections",
-    "desc": "The Bangladesh Nationalist Party (BNP) thanked Prime Minister Narendra Modi for acknowledging their election victory, expressing eagerness to work with India. PM Modi congratulated BNP leader Tarique Rahman on the party's decisive win, which secured a two-thirds majority and signals a move towards political stability in Bangladesh.",
-    "img": "https://static.toiimg.com/photo/msid-128339817,imgsize-652341.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/shared-commitment-to-peace-stability-bangladeshs-bnp-thanks-pm-modi-for-wishes-after-victory-in-elections/articleshow/128339830.cms",
-    "time": "2026-02-14T08:13:40.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Considering retirement at 28, Shadley is now top wicket-taker at 2026 T20 WC",
     "desc": "Shadley van Schalkwyk has been the standout bowler at the T20 World Cup 2026, leading the wicket charts with 11 wickets in three matches. The USA all-rounder impressed against India and Pakistan, using smart variations to pick key wickets. His resurgence comes after years of struggles, injuries, and career setbacks, which shaped his mental toughness. Now 37, Schalkwyk is enjoying peak form and inspiring USA’s strong campaign.",
@@ -574,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/from-considering-retirement-at-28-to-topping-t20-world-cup-2026-wicket-tally-shadley-van-schalkwyks-second-act/articleshow/128338720.cms",
     "time": "2026-02-14T07:59:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How FanCode’s sub-licensing move with Sony solves ISL’s broadcast puzzle",
-    "desc": "Hours before kickoff, FanCode officially sub-licensed ISL’s TV rights to Sony Sports Network, opting for wider reach over exclusivity. The Dream Sports-owned digital-first platform prioritised accessibility and collaboration, ensuring broader audience coverage. The move underlines a growing trend of partnerships, not competition, may be key to expanding sports viewership in India.",
-    "img": "https://static.toiimg.com/photo/msid-128338674,imgsize-56580.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/indian-super-league/how-fancodes-sub-licensing-move-with-sony-sports-network-solves-isls-broadcast-puzzle/articleshow/128338236.cms",
-    "time": "2026-02-14T07:29:04.000Z"
   },
   {
     "cat": "Business",
@@ -727,15 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/stopping-border-killings-ganga-waters-treaty-renewal-hasinas-presence-in-india-to-be-priority-for-incoming-bnp-government/article70629783.ece",
     "time": "2026-02-13T20:26:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Arundhati Roy withdraws from Berlin Film Festival amid Gaza row",
-    "desc": "Her statement comes after jury president Wim Wenders’ response to a question on Gaza at a press conference, where he stated, “We cannot really enter the field of politics,” calling filmmakers “the counterweight to politics”",
-    "img": "https://th-i.thgim.com/public/incoming/7n3jyx/article70630165.ece/alternates/LANDSCAPE_1200/Arundhati%20Roy%203.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/arundhati-roy-withdraws-from-berlin-film-festival-amid-gaza-row/article70630162.ece",
-    "time": "2026-02-13T20:26:05.000Z"
   },
   {
     "cat": "Tech",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-ends-immigration-crackdown-in-minnesota/article70627726.ece",
     "time": "2026-02-13T09:42:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Marina Abramović at the Kochi Biennale: On endurance, controversy and performance art",
+    "desc": "From a silent breathing ritual to a tense exchange over Epstein conspiracy theories, the performance art icon speaks candidly about pain, and reflects on six decades of pushing her body — and audiences — to its limits",
+    "img": "https://th-i.thgim.com/public/life-and-style/dxxkka/article70619596.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-11%20at%204.55.32%20PM%201.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/art/marina-abramovic-at-the-kochi-biennale-on-endurance-controversy-and-performance-art/article70618532.ece",
+    "time": "2026-02-13T09:34:57.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "A striking political debut in Bangladesh’s history",
+    "desc": "The chairman of the Bangladesh Nationalist Party, who returned to the country from a self-imposed exile in London, is ready to make a striking political debut after the party’s historic victory in the elections held on February 12, 2026",
+    "img": "https://th-i.thgim.com/public/incoming/wvz5n5/article70627049.ece/alternates/LANDSCAPE_1200/Bangladesh_Election_03201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/tarique-rahman-leads-bangladesh-national-party-to-victory-after-20-years/article70627018.ece",
+    "time": "2026-02-13T09:34:42.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Hello Kitty designer bows out after 40 years in charge",
+    "desc": "Yuko Yamaguchi has been responsible since 1980 for the design of Kitty, who is officially not a cat but a little girl from London, overseeing her rise to the epitome of Japan's \"kawaii\" — cute — soft power",
+    "img": "https://th-i.thgim.com/public/incoming/dk7ljp/article70627210.ece/alternates/LANDSCAPE_1200/AFP__20241030__36KF43E__v1__HighRes__UsJapanLifestyleBusinessCultureKitty.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/hello-kitty-designer-bows-out-after-40-years-in-charge/article70627196.ece",
+    "time": "2026-02-13T05:41:13.000Z"
   }
 ];
