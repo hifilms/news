@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India-Pakistan one sided rivalry? Men in Blue's latest triumph stretches day-light gap between rivals",
+    "desc": "India mauled Pakistan in their T20 World Cup 2026 clash at the R Premadasa Stadium with a superb show in Colombo on Sunday, February 15. The Men in Blue registered their biggest-ever win in T20Is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-pakistan-one-sided-rivalry-men-in-blues-latest-triumph-stretches-day-light-gap-between-rivals-2026-02-16-1030415",
+    "time": "2026-02-15T18:37:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pakistan ignored winning mantra for psychological advantage vs India, handed 63-run defeat",
     "desc": "History at the R Premadasa Stadium has consistently favoured teams batting first in T20 World Cup matches and that trend continued in the high-voltage India-Pakistan clash on February 15. Despite the precedent, Pakistan chose to...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/what-is-pakistans-lowest-all-out-total-in-t20-world-cup-history-against-india-2026-02-15-1030402",
     "time": "2026-02-15T16:06:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "For first time in his career, Hardik Pandya achieves major unwanted record in IND vs PAK T20 World Cup clash",
-    "desc": "Hardik Pandya bagged a golden duck in the crucial India vs Pakistan T20 World Cup 2026 clash as he had an off day against the Men in Green. Pandya was dismissed for nought in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/for-first-time-in-his-career-hardik-pandya-achieves-major-unwanted-record-in-ind-vs-pak-t20-world-cup-clash-2026-02-15-1030399",
-    "time": "2026-02-15T15:25:32.000Z"
   }
 ];

@@ -1,6 +1,33 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "'Wuthering Heights' scores USD 82 million box office debut",
+    "desc": "Emerald Fennell's \"Wuthering Heights\" dominated the box office, drawing a predominantly female audience and achieving the year's biggest opening with $34.8 million. The romantic drama, starring Margot Robbie and Jacob Elordi, also performed strongly internationally. Despite mixed critical reviews, the film's success marks Warner Bros.' ninth consecutive No. 1 opening.",
+    "img": "https://static.toiimg.com/photo/msid-128396525,imgsize-372180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/wuthering-heights-makes-no-1-box-office-debut-margot-robbie-and-jacob-elordi-starrer-scores-usd82-million-global-haul/articleshow/128396234.cms",
+    "time": "2026-02-15T21:09:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay-Rashmika spotted arriving in Mumbai amidst wedding rumours",
+    "desc": "Rumours swirl about Rashmika Mandanna and Vijay Deverakonda's wedding on February 26, 2026, in Udaipur. The couple was recently spotted together in Mumbai, amidst reports of them declining a lucrative OTT offer for their wedding video rights. They reportedly aim for a private ceremony, inspired by Nayanthara and Vignesh Shivan's experience.",
+    "img": "https://static.toiimg.com/photo/msid-128395912,imgsize-41612.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vijay-deverakonda-and-rashmika-mandanna-arriving-at-mumbai-airport-amidst-wedding-rumours-pics/articleshow/128395751.cms",
+    "time": "2026-02-15T20:33:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Celebs react to India's win",
+    "desc": "India triumphed over Pakistan by 61 runs in a thrilling T20 World Cup encounter, igniting nationwide celebrations. Ishan Kishan's explosive 77 off 40 balls set a strong total, with bowlers expertly restricting Pakistan. Celebrities like Ajay Devgn, Vivek Oberoi, and Mammootty lauded the team's dominant performance.",
+    "img": "https://static.toiimg.com/photo/msid-128394651,imgsize-45140.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ind-vs-pak-t20-world-cup-ajay-devgn-anupam-kher-vivek-oberoi-and-more-celebs-react-to-indias-win-laud-ishan-kishan-hardik-pandya-and-whole-team/articleshow/128394612.cms",
+    "time": "2026-02-15T19:27:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Quote of the day by Jennifer Aniston",
     "desc": "Jennifer Aniston, oftentimes hailed as 'America's Sweetheart,' continues to uplift audiences with her unwavering positivity. Known for her legendary portrayal in 'Friends,' she has become a beacon of hope, consistently reminding us that, 'Happiness is a choice.",
     "img": "https://static.toiimg.com/photo/msid-128377076,imgsize-283332.cms",
@@ -106,15 +133,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/rajasthan-delhi-cm-rekha-gupta-offers-prayers-at-shrinathji-temple-on-mahashivratri/articleshow/128389803.cms",
     "time": "2026-02-15T16:45:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inside Dua Lipa and Callum Turner’s USD 40 million fortune",
-    "desc": "Pop sensation Dua Lipa and actor Callum Turner's estimated net worth stands at USD 40 million, with Lipa's music career contributing the vast majority. Turner, known for 'Fantastic Beasts' and 'Masters of the Air,' has amassed a significant fortune of his own, showcasing their impressive financial standing.",
-    "img": "https://static.toiimg.com/photo/msid-128376290,imgsize-852147.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/inside-dua-lipa-and-callum-turners-usd-40-million-fortune-who-holds-the-bigger-share/articleshow/128376290.cms",
-    "time": "2026-02-15T16:30:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -277,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/salman-ali-agha-stuns-india-abhishek-sharma-falls-for-four-ball-duck-in-first-over-vs-pakistan/articleshow/128384870.cms",
     "time": "2026-02-15T13:43:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Arippa protesters urge Kerala government to halt collection of rubber tree dues",
-    "desc": "Demand ahead of proposed title deed distribution intended to resolve long-standing Arippa land struggle. Notice issued to families living on revenue land, according to which they have to pay for rubber and miscellaneous trees standing on plots they currently occupy",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/arippa-protesters-urge-kerala-government-to-halt-collection-of-rubber-tree-dues/article70635430.ece",
-    "time": "2026-02-15T13:35:35.000Z"
   },
   {
     "cat": "Sports",
@@ -459,15 +468,6 @@ const newsData_en = [
     "time": "2026-02-15T11:05:35.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Why Karnataka politics is in a ‘lather’ over iconic Mysuru brand",
-    "desc": "At the heart of the row is Karnataka Soaps and Detergents Limited (KSDL), the government-owned company that manufactures Mysuru Sandal Soap. Founded during the reign of Nalwadi Krishnaraja Wadiyar, the brand is not merely a commercial product. For many Kannadigas, it is an aromatic symbol of heritage. Bharatiya Janata Party (BJP) MP K Sudhakar accused the Congress-led Karnataka government of displaying what he called an “anti-Kannada mindset”.",
-    "img": "https://static.toiimg.com/photo/msid-128380214,imgsize-83974.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/soap-opera-over-soap-why-karnataka-politics-is-in-a-lather-over-iconic-mysuru-brand/articleshow/128378314.cms",
-    "time": "2026-02-15T10:58:01.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Producer V. Tamil Azhagan dies at 70; Rajinikanth mourns loss of ‘wonderful human being’",
     "desc": "Veteran Tamil film producer and director V. Tamil Azhagan, best known for backing iconic blockbusters such as ‘Baashha’ and ‘Moondru Mugam, passed away on February 14 due to age-related health issues, prompting an outpouring of tributes from the film industry, including a heartfelt condolence message from Rajinikanth.",
@@ -513,15 +513,6 @@ const newsData_en = [
     "time": "2026-02-15T10:26:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India deputes Om Birla, Vikram Misri to Dhaka for Bangladesh PM-elect Tarique Rahman's swearing-in",
-    "desc": "Lok Sabha Speaker Om Birla will represent India at the swearing-in of Bangladesh's PM-elect Tarique Rahman, following the BNP's landslide victory. Foreign Secretary Vikram Misri will accompany Birla. This event marks a significant diplomatic shift for Dhaka, especially after former PM Sheikh Hasina's ouster and subsequent exile in India. The new BNP government's stance will be closely observed.",
-    "img": "https://static.toiimg.com/photo/msid-128379383,imgsize-819226.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-deputes-om-birla-vikram-misri-to-dhaka-for-bangladesh-pm-elect-tarique-rahmans-swearing-in/articleshow/128379302.cms",
-    "time": "2026-02-15T10:25:57.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Railways rolls out tech-enabled onboard cleaning reform for long distance trains",
     "desc": "The railway ministry has launched a new onboard cleaning initiative for long-distance trains, deploying professional teams to clean coaches and toilets at hourly intervals or as needed. This tech-enabled reform aims to enhance passenger experience through real-time monitoring and accountability. Additionally, the ministry will permit cargo facilities on spare railway land to boost freight operations.",
@@ -540,15 +531,6 @@ const newsData_en = [
     "time": "2026-02-15T10:15:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Betraying farmers' vs 'spreading lies': Rahul Gandhi, Amit Shah clash over India–US deal",
-    "desc": "Rahul Gandhi accused the Modi government of betraying farmers through the India-US trade deal, raising concerns about GM maize imports and potential pressure on Indian crops. Union Home Minister Amit Shah refuted these claims, calling them lies and asserting that farmers' interests are protected in trade agreements with the US, EU, and UK.",
-    "img": "https://static.toiimg.com/photo/msid-128379086,imgsize-974383.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/betraying-farmers-vs-spreading-lies-rahul-gandhi-amit-shah-clash-over-indiaus-deal/articleshow/128378909.cms",
-    "time": "2026-02-15T10:13:27.000Z"
-  },
-  {
     "cat": "Business",
     "title": "FPIs infuse Rs 19,675 crore in early February after months of heavy selling",
     "desc": "Foreign investors injected Rs 19,675 crore into Indian stocks in early February, reversing months of outflows. This surge, driven by a US-India trade deal and easing global economic worries, signals renewed optimism. Despite this, overall 2025 flows remain weak, with significant net outflows recorded year-to-date.",
@@ -565,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/babar-azam-mohammad-rizwan-masterclass-to-kohli-goes-down-the-ground-how-india-pakistan-have-fared-in-t20-world-cups-in-2020s/articleshow/128378540.cms",
     "time": "2026-02-15T09:56:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Focus on devotional aspect of life’: Sri Sri Ravi Shankar urges devotees to embrace meditation on Mahashivratri",
-    "desc": "Spiritual leader Sri Sri Ravi Shankar urged deep inner reflection and devotion this Mahashivratri, emphasizing meditation and chanting to elevate spiritual practice. Prime Minister Modi and defence minister Rajnath Singh extended greetings, praying for well-being and prosperity. The festival celebrates the divine union of Lord Shiva and Goddess Parvati, observed with reverence across India.",
-    "img": "https://static.toiimg.com/photo/msid-128378517,imgsize-710412.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/focus-on-devotional-aspect-of-life-sri-sri-ravi-shankar-urges-devotees-to-embrace-meditation-on-mahashivratri/articleshow/128378280.cms",
-    "time": "2026-02-15T09:52:04.000Z"
   },
   {
     "cat": "Sports",
@@ -610,33 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fact-check-did-salman-khan-get-rajpal-yadav-out-of-tihar-jail-in-rs-9-crore-debt-case-viral-video-sparks-buzz/articleshow/128376455.cms",
     "time": "2026-02-15T09:07:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranbir Kapoor speaks on ‘Love &amp; War’ DELAY",
-    "desc": "Ranbir Kapoor confirmed that Sanjay Leela Bhansali’s 'Love & War' has been delayed. During a live session celebrating his brand ARKS, he revealed 'Ramayana' Part One will release first in October 2026. Reports say the film’s massive scale, heavy VFX, and Ranbir’s packed 2026 schedule caused the postponement.",
-    "img": "https://static.toiimg.com/photo/msid-128376703,imgsize-25944.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-speaks-on-love-war-delay-confirms-film-postponement/articleshow/128376703.cms",
-    "time": "2026-02-15T08:30:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anil Kapoor on turning down politics post ‘Nayak’",
-    "desc": "Anil Kapoor revealed he was approached by political parties after Nayak but declined, saying he didn’t want to treat it as a photo op. The actor, who played a TV reporter turned CM in the film, also shared how he trained through workshops and even turned down a UN offer post-'Slumdog Millionaire' fame.",
-    "img": "https://static.toiimg.com/photo/msid-128375726,imgsize-20874.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anil-kapoor-on-turning-down-politics-post-nayak-i-didnt-want-to-treat-it-as-a-photo-op/articleshow/128375726.cms",
-    "time": "2026-02-15T07:50:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Michelle Yeoh opens up about her work and impact in cinema",
-    "desc": "At the esteemed Berlin Film Festival, the legendary Michelle Yeoh was bestowed with a Lifetime Achievement Award, marking a pivotal moment in her storied career. With genuine gratitude, she shared her aspiration for her journey to serve as a beacon of inspiration for aspiring filmmakers—especially women and those who share her cultural roots—to transcend the challenges of the film industry.",
-    "img": "https://static.toiimg.com/photo/msid-128375420,imgsize-30522.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/wicked-for-good-star-michelle-yeoh-delves-into-her-career-in-cinema-says-she-still-has-a-long-way-to-go/articleshow/128375420.cms",
-    "time": "2026-02-15T07:40:11.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +844,59 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/telecom-operators-do-not-own-spectrum-cannot-list-the-public-resource-as-an-asset-for-insolvency-or-liquidation-sc/article70629340.ece",
     "time": "2026-02-13T20:31:56.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Hasina’s presence in India, Ganga waters treaty to be key priorities for BNP government: sources",
+    "desc": "Sources in the Bangladesh Nationalist Party (BNP) say India and Bangladesh have a settled border and ‘it makes no sense to shoot to kill someone’; besides, they add that former PM Sheikh Hasina’s comments on Bangladesh’s internal affairs will pose a challenge to normalisation of ties",
+    "img": "https://th-i.thgim.com/public/incoming/4klta4/article70629949.ece/alternates/LANDSCAPE_1200/APTOPIX_Bangladesh_Election_01976.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/stopping-border-killings-ganga-waters-treaty-renewal-hasinas-presence-in-india-to-be-priority-for-incoming-bnp-government/article70629783.ece",
+    "time": "2026-02-13T20:26:18.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Experts underscore the importance of extracting only relevant data",
+    "desc": "We need to be aware of why a website is seeking a particular piece of data and the purpose. Members of the public should be conscious of the data that they are giving, says A.N. Srinivasan, senior vice-president-IT, SRF Ltd.",
+    "img": "https://th-i.thgim.com/public/incoming/8ybpqw/article70628625.ece/alternates/LANDSCAPE_1200/BVR_8741.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/experts-underscore-the-importance-of-extracting-only-relevant-data/article70628382.ece",
+    "time": "2026-02-13T19:35:16.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "‘Online education is one of the biggest finds of the last decade’",
+    "desc": "There is a lot of discussion on how online education will change and if it will entirely replace physical classroom-based education. But both can co-exist and supplement and complement each other, says Kadhambari S. Viswanathan, assistant vice-president, Vellore Institute of Technology",
+    "img": "https://th-i.thgim.com/public/incoming/ad3gh5/article70628931.ece/alternates/LANDSCAPE_1200/BVR_8582.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/online-education-is-one-of-the-biggest-finds-of-the-last-decade/article70628488.ece",
+    "time": "2026-02-13T19:34:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "After the triumph, the travails: the big step up from the Under-19 stage",
+    "desc": "Graduating from age-group cricket to the senior game is fraught with challenges. For India’s all-conquering Under-19 players, the World Cup win — while deserving of rich praise — is not an end in itself. The arduous journey of fulfilling their potential, without losing focus, has just begun",
+    "img": "https://th-i.thgim.com/public/incoming/u4h6jx/article70630070.ece/alternates/LANDSCAPE_1200/image%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/vaibhav-suryavanshi-next-sachin-tendulkar-vinod-kambli-lesson-ayush-mhatre-indian-cricket-prodigy/article70629845.ece",
+    "time": "2026-02-13T18:23:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Still have my police job, but I’ve been on sports leave for a long time: GM Salem Saleh",
+    "desc": "A cop and a world-class Grandmaster, Saleh has enforced safety rules in the UAE and outmanoeuvred top players on the board. He speaks in this chat about what got him hooked to chess tactics, how the game has grown in his country, why he was surprised by Gukesh winning the World title and when an amateur who had learnt chess off YouTube startled him in a library",
+    "img": "https://th-i.thgim.com/public/incoming/jwpa6n/article70630049.ece/alternates/LANDSCAPE_1200/saleh2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/salem-saleh-uae-grandmaster-dubai-police-interview-world-chess/article70629865.ece",
+    "time": "2026-02-13T18:19:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "T20 World Cup 2026",
+    "desc": "The dew set in, the ball slid, and plans scuttled. When Mukkamalla finally holed out for 79 (51b, 5x4, 4x6), USA was 148 for three after 15 overs, and Netherlands were already left chasing for answers in Chepauk’s humidity.",
+    "img": "https://th-i.thgim.com/public/incoming/z2nsbn/article70629935.ece/alternates/LANDSCAPE_1200/DSC_1748.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/netherlands-vs-usa-match-group-stage-updates-february-13/article70628715.ece",
+    "time": "2026-02-13T17:30:48.000Z"
   }
 ];
