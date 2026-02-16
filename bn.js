@@ -513,15 +513,6 @@ const newsData_bn = [
     "time": "2026-02-12T13:17:02.000Z"
   },
   {
-    "cat": "World",
-    "title": "'মানাতে না পারলে চলে যান, দরজা খোলা'! কতজনকে দরজা দেখাচ্ছে গুগল? নতুন বছরে হঠাৎ বড় কী ঘটল?",
-    "desc": "গুগল তাদের ব্যবসায়িক কৌশলে AI-কে সর্বোচ্চ গুরুত্ব দিচ্ছে। এর সঙ্গে যারা মানাতে পারছে না, গুগল তাদের দরজা দেখিয়ে দিচ্ছে। যেসব কর্মী এই পরিবর্তনের সঙ্গে তাল মেলাতে পারছেন না, বা যাঁরা এই বদল নিয়ে সন্তুষ্ট নন, তাঁদের জন্য তারা 'ভলান্টারি এক্সিট প্যাকেজ' আনছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/google-lay-off-google-offers-voluntary-exit-packages-to-employees-not-embracing-ai-google_641047.html ",
-    "time": "2026-02-12T12:02:17.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "রাজপালের মতো জেলে যাননি, তবে 'অভাবের তাড়নায়' অন্যদের কাছে হাত পাততে হয়েছে অনেক জনপ্রিয় বলিউড নায়কদের! তালিকা দেখলে চমকে উঠবেন",
     "desc": "বলিউডের চকচকে দুনিয়া৷ এরই মধ্যে এমন অনেকে রয়েছেন যাঁদের ভাঁড়ে মা ভবানী হাল! তবে মুখ ফুটে বলার জো নেই৷ কারণ তাতে তাঁদের মান সম্মান জলে যাবে৷ তবে অর্থকষ্টে নিজেরা জ্বলে পুড়ে মরছেন৷ কেউ কেউ সেই দুঃসময় কাটিয়ে উঠেছেন আবার কেই তলিয়ে গেছে অতলে৷",
@@ -556,24 +547,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/sports/nadia-inspirational-success-story-nadia-class-10-student-struggle-story-he-got-chances-to-participate-national-volleyball-championship-l18-local18-2536455.html",
     "time": "2026-02-12T08:22:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বোর্ড পরীক্ষার আগেই বড় ঘোষণা CBSE-র! সিস্টেমে তারা চালু করতে চলছে সম্পূর্ণ নতুন নিয়ম, যাতে...",
-    "desc": "সমস্ত স্কুলকে মূল্যায়নে অবদান রাখার সুযোগ দেওয়া যাবে। এর প্রস্তুতি নিশ্চিত করতে স্কুলগুলিকে প্রয়োজনীয় পরিকাঠামো প্রস্তুত রাখতে বলা হয়েছে। দিল্লিভিত্তিক একটি স্কুলের প্রিন্সিপাল বলেছেন, 'এটি এক অসাধারণ উদ্যোগ। এটি মূল্যায়ন পদ্ধতিতে মানবিক ত্রুটি কমিয়ে আনবে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/cbse-to-introduce-on-screen-marking-osm-for-class-twelve-from-this-year-what-it-means-for-students%C2%A0appearing-board-examinations-now_640998.html ",
-    "time": "2026-02-12T07:51:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বিগ আপডেট! যাঁরা টেট পাশ করেননি, তাঁরা এক্ষুনি পদত্যাগ করুন... না পারলে অবসর নিন! সুপ্রিম কোর্টের বিস্ফোরক নির্দেশ...",
-    "desc": "দেশের প্রাথমিক ও উচ্চ-প্রাথমিক শিক্ষা ব্যবস্থায় গুণগত মান বজায় রাখতে এক ঐতিহাসিক এবং কঠোর রায় দিল ভারতের সর্বোচ্চ আদালত। সুপ্রিম কোর্ট স্পষ্ট জানিয়ে দিয়েছে, শিক্ষার অধিকার আইন (RTE Act, 2009) অনুযায়ী যে সমস্ত শিক্ষক নির্ধারিত সময়ের মধ্যে শিক্ষক যোগ্যতা নির্ধারণী পরীক্ষা বা ‘টেট’ (TET) পাস করতে পারেননি, তাঁরা আর শিক্ষকতা পেশায় বহাল থাকতে পারবেন না। হয় তাঁদের পদত্যাগ করতে হবে, না হয় তাঁদের বিভাগীয় নিয়ম অনুযায়ী চাকরি থেকে অবসর নিতে হবে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/tet-mandatory-govt-clarifies-on-tet-new-supreme-court-rules-for-old-teachers-explain-job-security_640997.html ",
-    "time": "2026-02-12T07:42:36.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +871,32 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/sports/afghanistan-who-played-semi-final-in-2024-will-be-eliminated-from-group-stage-in-t20-wc-smj-2530991.html",
     "time": "2026-02-08T11:11:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "১০ বছর হয়ে গেল! মেয়েকে আড়ালেই রেখেছেন রানি মুখার্জি! সমস্যাটা কী...জানালেন অভিনেত্রী!",
+    "desc": "লোকচক্ষুর আড়ালেই মেয়েকে বড় করে তোলার সিদ্ধান্তে শুরু থেকেই অনড় রানি মুখার্জি ও আদিত্য চোপড়া। তারকাসন্তান হয়েও আদিরাকে একেবারে স্বাভাবিক জীবনের স্বাদ দিতে চান এই দম্পতি। মেয়ের ভবিষ্যৎ, বেড়ে ওঠা এবং তাকে ঘিরে নিজেদের ভাবনা নিয়ে সম্প্রতি খোলাখুলি কথা বললেন রানি মুখার্জি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-08-at-11.13.55-AM-2026-02-0904e225ae99bfd3869a672bc6c249c8-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/10-years-on-rani-mukerji-openly-reveals-adira-future-plans-actor-still-keeps-daughter-away-from-the-spotlight-actress-explains-why-tib-ws-l-2530719.html",
+    "time": "2026-02-08T06:24:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SIR-এ ডমিসাইল সার্টিফিকেট গ্রহণ করা হবে...! DM, ADM, SDO-দের ইস্যু করা শংসাপত্রে আর আপত্তি নেই, জানিয়ে দিল কমিশন!",
+    "desc": "SIR-এ ডমিসাইল সার্টিফিকেট গ্রহণ করা হবে! DM, ADM, SDO-দের ইস্যু করা শংসাপত্রে আর আপত্তি নেই কমিশনের। সেই মর্মে CEO কে জানিয়ে দিল জাতীয় নির্বাচন কমিশন। কমিশন সূত্রে জানা যাচ্ছে, শুনানি প্রক্রিয়ায় এই শংসাপত্র গ্রহণযোগ্য হবে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/SIR-SANJ-2026-02-d21169afbd3125d1cb1d055c851149a6-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/west-bengal/west-bengal-sir-domicile-certificates-will-be-accepted-at-sir-the-commission-has-announced-that-there-will-be-no-further-objections-to-certificates-issued-by-dms-adms-and-sdos-sanj-2530396.html",
+    "time": "2026-02-07T13:35:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "পৌরাণিক কাহিনির উপর ভিত্তি করে তৈরি এই থ্রিলার ছবি বার বার দেখার আগ্রহ জাগাবে ! আছে ইউটিউবে",
+    "desc": "২০১৫ সালের জুলাই মাসে সুজয় ঘোষ ‘অহল্যা’ নামে একটি স্বল্পদৈর্ঘ্য চলচ্চিত্র ইউটিউবে রিলিজ করেন। রামায়ণের কিংবদন্তির উপর ভিত্তি করে তৈরি এটি ইউটিউবে ২ কোটি ২০ লক্ষেরও বেশি বার দেখা হয়েছে। এটি ছিল অহল্যার পৌরাণিক কাহিনীর একটি আধুনিক রূপান্তর, যেখানে নারীবাদী দৃষ্টিভঙ্গি অন্তর্ভুক্ত রয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Ahalya-Kahani-2026-02-9fa60dc96dd07cee451711827d42b7a9-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/radhika-apte-epic-thriller-ahalya-short-movie-2015-directed-by-sujoy-ghosh-tale-of-morality-mythological-retold-in-modern-fashion-viewers-got-stunned-most-suspense-thriller-film-ss-aa-2528287.html",
+    "time": "2026-02-07T10:53:13.000Z"
   }
 ];
