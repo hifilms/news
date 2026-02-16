@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "লক্ষ্মীর ভাণ্ডার থেকে  যুবসাথী...! ফর্ম ফিলাপ 'ক্যাম্পে' 'ক্যাম্পে'! কী কী নথি লাগছে? আপনি 'এলিজেবল' তো? দেখে নিন কারা পাবেন 'সুবিধা'!",
+    "desc": "লক্ষ্মীর ভাণ্ডার প্রকল্পে মাসে মাসে সাধারণ প্রাপকদের জন্য ১৫০০ টাকা এবং তফসিলি তালিকাভুক্তরা পাবেন ১৭০০ টাকা। যুব সাথী প্রকল্পে ১৫০০ টাকা করে মিলবে বেকার যুবকদের। মাধ্যমিক পাশ করেই সুযোগ! কিন্তু কোন প্রকল্পে কী কী নথি লাগবে? কারা এই সব প্রকল্পের টাকা পেতে 'যোগ্য', এই নিয়ে মানুষের মধ্যে রয়েছে নানা বিভ্রান্তি। চলুন জেনে নেওয়া যাক!",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/lakshmir-Yuba-sathi-2026-02-83d1e71a246e2aaaaf41498e22fa5aee-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/kolkata/lakshmir-bhandar-yuba-sathi-sceme-what-documents-you-need-to-provide-in-new-rule-know-who-are-allegeable-for-which-scheme-know-west-bengal-govt-scheme-money-detail-sanj-2542436.html",
+    "time": "2026-02-16T07:03:25.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ধোনি-পন্থরা যা কোনও দিন পারেনি! সেই রেকর্ড গড়লেন এবার ইশান কিশান",
     "desc": "ইশান কিশান প্রথম ইনিংসে মাত্র ৪০ বলে ৭৭ রান করেন। কঠিন পিচে তার দাপুটে খেলায় দল ৬ উইকেটে ১৭৫ রানের লড়াকু স্কোর সংগ্রহ করে। পরে বোলারদের দারুণ পারফরম্যান্সে প্রতিপক্ষকে ১১৪ রানে থামিয়ে ৬১ রানের জয় পায় ভারত।",
@@ -10,7 +19,7 @@ const newsData_bn = [
   },
   {
     "cat": "Sports",
-    "title": "খেলায় দুনিয়ায় বহরমপুরকে বড় উপহার দিলেন ইউসুফ, সঙ্গ দিলেন খলিলুর! আহ্লাদে আটখানা বাসিন্দারা",
+    "title": "খেলায় দুনিয়ায় বহরমপুরকে বড় উপহার ইউসুফের, সঙ্গ দিলেন খলিলুর! আহ্লাদে আটখানা বাসিন্দারা",
     "desc": "দীর্ঘ প্রতীক্ষার অবসান ঘটিয়ে বহরমপুরে আধুনিক ব্যাডমিন্টন কোর্টের যাত্রা শুরু হল। সাংসদ ইউসুফ পাঠান ফিতে কেটে এই কোর্টের শুভ উদ্বোধন করেন। স্থানীয় খেলোয়াড়দের প্রতিভা বিকাশে এই পরিকাঠামো বড় ভূমিকা নেবে বলে আশাবাদী ক্রীড়ামহল। উদ্বোধনী অনুষ্ঠানে নিজে র‍্যাকেট হাতেও দেখা গেল বিশ্বজয়ী এই ক্রিকেটারকে।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/Yusuf-pathan-2026-02-895618ba4a22d1adfafe313a593b049b-3x2.jpg",
     "src": "news18.com",
@@ -34,15 +43,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/ishan-kishan-creates-5-unique-world-records-after-played-devastating-innings-against-pakistan-ind-vs-pak-icc-t20-world-cup-2026-sup-2541773.html",
     "time": "2026-02-15T17:31:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ফ্রান্সের প্রেসিডেন্ট, বিল গেটস থেকে সুন্দর পিচাই...দিল্লিতে চাঁদের হাট! শুরু হতে চলেছে এআই ইমপ্যাক্ট সামিট ২০২৬",
-    "desc": "উপস্থিত হওয়ার কথা ফ্রান্সের প্রেসিডেন্ট এমানুয়েল ম‍্যাক্রোঁ, ব্রাজিলের প্রেসিডেন্ট লুইস লুলা দা সিলভার। উপস্থিত থাকবেন বিল গেটস থেকে সুন্দর পিচাই, মুকেশ আম্বানী থেকে ওপেন এআইয়ের স‍্যাম অলটম‍্যান-সহ ৪০শের বেশি গ্লোবাল টেক জায়ান্টের সিইও এবং শীর্ষস্থানীয় আধিকারিকরা৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ai-impact-summit-2026-2026-02-5c9817093c36ed6581bd8ddc4a2bff5f-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/india-ai-impact-summit-2026-in-bharat-mandapam-security-arrangements-foreign-visitors-ank-2541664.html",
-    "time": "2026-02-15T15:23:18.000Z"
   },
   {
     "cat": "World",
@@ -639,15 +639,6 @@ const newsData_bn = [
     "time": "2026-02-11T08:06:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "মুখ দিয়ে বেরোচ্ছে রক্ত, হোটেলের বন্ধ ঘরে পড়ে এলোমেলো ভাই-বোনের দেহ! পাশেই ৬ লাখ টাকা...",
-    "desc": "হায়দরাবাদের ভাই বোনের রহস্যমৃত্যু বেনারসের হোটেলে। হোটেল কর্তৃপক্ষ জানিয়েছে, তারা গত দুদিন ধরে ঘর থেকে প্রায় বের হননি। মঙ্গলবার তাদের হোটেল ছাড়ার কথা থাকলেও বারবার ফোন করে কোনও সাড়া পাওয়া যাচ্ছিল না। সন্দেহ হওয়ায় হোটেল কর্তৃপক্ষ পুলিসে খবর দেয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/hyderabad-siblings-found-dead-in-varanasi-hotel-almost-7-lakh-cash-recovered_640662.html ",
-    "time": "2026-02-11T06:21:57.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "\"এই অত্যাচার গত ১৫ বছর ধরে চলছে\"... মিমি চক্রবর্তীর জন্মদিনে বন্ধু অনিন্দ্য ফাঁস করলেন 'গোপন' কথা",
     "desc": "আজ মিমির জন্মদিন৷ টলিউডে তাঁর বন্ধুর সংখ্যা হাতে গোনা৷ ব্যক্তিগত সময় তাঁদের সঙ্গে কাটাতে পছন্দ করেন অভিনেত্রী৷ তাঁদের মধ্যে একজন অবশ্যই অভিনেতা অনিন্দ্য চট্টোপাধ্যায়৷ মিমি চক্রবর্তীর জন্মদিনে বন্ধু অনিন্দ্যর সঙ্গে যা করা হল, একেবার 'থ' বনে গেলেন অভিনেতা!",
@@ -898,5 +889,14 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/business/north-24-parganas-business-idea-hingalganj-youth-poultry-farming-success-with-profitable-chicken-breeds-l18-local18-2529728.html",
     "time": "2026-02-07T08:51:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "৭.২ রেটিং, ভারতীয় সিরিজের ১২ দিনে ৫ কোটি ভিউ ! বিশ্বব্যাপী নেটফ্লিক্সে ১ নম্বর হিট",
+    "desc": "নীরজ পান্ডে পরিচালিত ওয়েব সিরিজ তস্করি: দ্য স্মাগলার্স ওয়েব বিশ্বব্যাপী জনপ্রিয়তা অর্জন করেছে। গত সপ্তাহে সিরিজটি নেটফ্লিক্সের ২০টি ভিন্ন দেশে সেরা ১০টি ‘নন-ইংলিশ’ অনুষ্ঠানের তালিকায় ট্রেন্ডিংয়ে ছিল। মজার বিষয় হল, এই সিরিজ ১০টি দেশের মধ্যে এক নম্বরে ছিল, যা তার অসাধারণ জনপ্রিয়তা প্রদর্শন করে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Netflix-Film-Taskaree-2026-02-e44ad015b942816af35fab8cfc764c6a-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/emraan-hashmi-taskaree-the-smugglers-web-50-million-views-netflix-series-global-trending-ss-2528342.html",
+    "time": "2026-02-07T04:57:29.000Z"
   }
 ];
