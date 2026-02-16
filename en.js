@@ -1,5 +1,257 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Most professors of practice hired in Tamil Nadu followed by Maharashtra, Gujarat: UGC Data",
+    "desc": "According to the data, 1,841 PoPs have been hired by 349 HEIs so far, the maximum of them being in Tamil Nadu (395); while 193 PoPs have been hired in Maharashtra (193), Gujarat and Karnataka have appointed 179 and 170 professionals, respectively",
+    "img": "https://th-i.thgim.com/public/incoming/eynuij/article70637232.ece/alternates/LANDSCAPE_1200/IMG_University_Grant_Com_2_1_VCCB5B96.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/education/most-professors-of-practice-hired-in-tamil-nadu-followed-by-maharashtra-gujarat-ugc-data/article70635457.ece",
+    "time": "2026-02-16T04:34:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka’s Rohith Vemula Act stuck in red tape while proposed UGC regulations on caste discrimination on college campus stayed by Supreme Court",
+    "desc": "The debate on the proposed law has again come to the forefront after the Supreme Court of India stayed the UGC (Promotion of Equity in Higher Education Institutions) Regulations 2026, followed by agitations both for and against the regulations",
+    "img": "https://th-i.thgim.com/public/incoming/a3rqqi/article70637360.ece/alternates/LANDSCAPE_1200/PTI08_26_2024_000126A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnatakas-rohith-vemula-act-stuck-in-red-tape-while-proposed-ugc-regulations-on-caste-discrimination-on-college-campus-stayed-by-supreme-court/article70635418.ece",
+    "time": "2026-02-16T04:28:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Guru Dakshina means flag’: Priyank Kharge levels ‘money laundering racket’ charge against RSS",
+    "desc": "Karnataka Minister Priyank Kharge has accused the Rashtriya Swayamsevak Sangh of engaging in money laundering and questioned its sources of income. He demanded that the RSS, an unregistered organization, be held accountable and pay taxes like other citizens and entities under the law and Constitution.",
+    "img": "https://static.toiimg.com/photo/msid-128405608,imgsize-545255.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/guru-dakshina-means-flag-priyank-kharge-levels-money-laundering-racket-charge-against-rss/articleshow/128405383.cms",
+    "time": "2026-02-16T04:27:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dia Mirza and Vaibhav Rekhi celebrate 5 years of marriage",
+    "desc": "Actress Dia Mirza and her husband Vaibhav Rekhi are celebrating five years of marriage. Mirza shared heartfelt photos and a touching caption on social media, calling Rekhi her \"home\" and their life together her \"sanctuary.\" The couple, who welcomed their son Avyaan in 2021, received numerous warm wishes from fans and celebrities alike on their special day.",
+    "img": "https://static.toiimg.com/photo/msid-128406578,imgsize-76396.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dia-mirza-and-vaibhav-rekhi-celebrate-5th-anniversary-actress-shares-wedding-pics-online/articleshow/128406578.cms",
+    "time": "2026-02-16T04:26:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "An olive green recession",
+    "desc": "As fewer youths from Punjab join the armed forces, the residents of Nathowal, known locally as ‘faujian da pind’ (village of soldiers) in Ludhiana district, lay out the reasons. They tell Vikas Vasudeva that Agnipath’s uncertainty, drug fears, and the lure of foreign earnings, are pushing parents to send children away from home, creating a generation that’s dreaming beyond regimental traditions",
+    "img": "https://th-i.thgim.com/public/incoming/y07ji4/article70634981.ece/alternates/LANDSCAPE_1200/PUNJAB%20SPOTLIGHT%20VIKAS%20VASUDEVA%20ARMY%20RECRUITMENT%20DECLINE%206.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/punjab/spotlight-punjab-an-olive-green-recession/article70634980.ece",
+    "time": "2026-02-16T04:24:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Virat-Anushka TWIN in white as they jet out of the city",
+    "desc": "Power couple Virat Kohli and Anushka Sharma were spotted at the airport, departing in stylish, color-coordinated white and black outfits. Their frequent visits to the city have fueled speculation about work projects, following a recent multi-crore property deal.",
+    "img": "https://static.toiimg.com/photo/msid-128406439,imgsize-46762.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-and-anushka-sharma-twin-in-white-as-they-jet-out-of-mumbai-city/articleshow/128406187.cms",
+    "time": "2026-02-16T04:21:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Are banks open in United States on February 16?",
+    "desc": "As the United States observes Presidents Day on Monday, February 16, federal holidays mean many services will be closed. Banks, government offices, and post offices will shut down, with no mail delivery. However, digital banking and ATMs remain accessible, and most retail stores and restaurants will operate normally.",
+    "img": "https://static.toiimg.com/photo/msid-128406157,imgsize-1176881.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-presidents-day-2026-are-banks-open-in-united-states-on-february-16/articleshow/128405565.cms",
+    "time": "2026-02-16T04:19:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "AI ‘Stranger Things’ finale sparks huge fan debate online",
+    "desc": "An AI-generated 'Stranger Things' finale, depicting Eleven and Kali battling Vecna and the Mind Flayer, has captivated viewers. This fan-made vision, praised for its spectacle, sparks debate over whether it surpasses the official season 5 ending. The clip highlights fan desire for more sisterly power and a more threatening Mind Flayer, while others defend the original narrative's character development.",
+    "img": "https://static.toiimg.com/photo/msid-128406395,imgsize-655627.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/viral-ai-imagined-stranger-things-finale-sparks-fan-debate-over-eleven-kali-showdown-and-the-future-of-storytelling/articleshow/128406293.cms",
+    "time": "2026-02-16T04:18:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pandya lashes out at Kuldeep during India's win over Pakistan",
+    "desc": "India’s 61-run win over Pakistan secured Super Eights qualification and featured a viral on-field moment as Hardik Pandya angrily reacted to dropped catches by Kuldeep Yadav and Ishan Kishan. Pandya later struck back with the ball, finishing with 2 wickets as Pakistan were bowled out for 114. Ishan Kishan’s 77 powered India to 175/7, while Pakistan collapsed early despite Usman Khan’s 44.",
+    "img": "https://static.toiimg.com/photo/msid-128406389,imgsize-45324.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/watch-angry-hardik-pandya-lashes-out-at-kuldeep-yadav-during-indias-t20-world-cup-win-over-pakistan/articleshow/128405713.cms",
+    "time": "2026-02-16T04:18:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rashid Khan wants more exposure for Afghanistan",
+    "desc": "Afghanistan skipper Rashid Khan admits the team is still reeling from a double Super Over T20 World Cup defeat to South Africa. He believes the heartbreaking loss, following an earlier defeat to New Zealand, will fuel their resolve. Khan highlighted the need for more regular matches against top teams to better prepare for high-stakes tournaments.",
+    "img": "https://static.toiimg.com/photo/msid-128406669,imgsize-144288.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-rashid-khan-wants-more-exposure-for-afghanistan/articleshow/128406391.cms",
+    "time": "2026-02-16T04:18:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Lincoln Lawyer’ Season 4 dominates streaming charts",
+    "desc": "Valentine's week sees a legal drama, 'The Lincoln Lawyer Season 4', topping streaming charts, not romance. Mickey Haller faces a murder trial, framed for his client's death. The show, adapted from Michael Connelly's novels, is a hit, with Season 5 already confirmed and set to film in March 2026, adapting 'Resurrection Walk'.",
+    "img": "https://static.toiimg.com/photo/msid-128406095,imgsize-894083.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-lincoln-lawyer-season-4-dominates-ott-streaming-charts-worldwide/articleshow/128406095.cms",
+    "time": "2026-02-16T04:08:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Glen Powell recalls wild jail prank with Joe Jonás on sister",
+    "desc": "Actor Glen Powell recounted a hilarious prank where he and Joe Jonas faked an arrest call to his sister, Leslie. Leslie, a musician, diligently searched Georgia jails for them. Powell admitted the prank was mean but acknowledged his sister's sweet dedication, noting she later got her revenge. The siblings share a close bond.",
+    "img": "https://static.toiimg.com/photo/msid-128406108,imgsize-772685.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/glen-powell-recalls-elaborate-jailhouse-prank-on-sister-involving-joe-jonas-ahead-of-how-to-make-a-killing-release/articleshow/128406114.cms",
+    "time": "2026-02-16T04:08:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka Minister Priyank Kharge accuses RSS of money laundering",
+    "desc": "“They want us to be good citizens by paying income tax, but they want to remain free,” the Minister said at the release of a book recounting the horrors of communal riots in the coastal region",
+    "img": "https://th-i.thgim.com/public/incoming/dm2861/article70636005.ece/alternates/LANDSCAPE_1200/TH25-SOBHANA-ThGJKFG4PH1.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/priyank-kharge-accuses-rss-of-indulging-in-money-laundering/article70635537.ece",
+    "time": "2026-02-16T03:56:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When hate didn't get a complimentary match pass",
+    "desc": "Despite a lack of handshakes between captains at the toss, a spirit of camaraderie was evident off the field in Colombo. Pakistani spinner Usman Tariq and Indian cricketer Harbhajan Singh shared a 'salaam', while actress Shabana Azmi emphasized sports and arts transcending borders. Fans from both nations also interacted cordially.",
+    "img": "https://static.toiimg.com/photo/msid-128405708,imgsize-336344.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-vs-pakistan-when-hate-didnt-get-a-complimentary-match-pass/articleshow/128405540.cms",
+    "time": "2026-02-16T03:44:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Pakistan can crash out of T20 World Cup after India defeat",
+    "desc": "Pakistan’s 61-run loss to India has put their T20 World Cup hopes at risk, with elimination possible depending on final Group A results. India have qualified for the Super Eights, while Pakistan sit third. Ishan Kishan’s 77 powered India to 175, before Pakistan collapsed for 114. Pakistan must beat Namibia and rely on other results to stay in contention.",
+    "img": "https://static.toiimg.com/photo/msid-128405427,imgsize-293642.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-pak-how-pakistan-can-crash-out-of-t20-world-cup-after-india-defeat/articleshow/128404627.cms",
+    "time": "2026-02-16T03:40:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘We don’t see rivalry’: Axar Patel’s cold verdict after India thrash Pakistan",
+    "desc": "India secured a dominant 61-run victory over Pakistan in the T20 World Cup, showcasing a composed mindset and exceptional skill. Vice-captain Axar Patel emphasised the team's focus on cricket over rivalry. Ishan Kishan's sensational 77 off 40 balls on a challenging pitch laid the foundation for India's win, extending their World Cup dominance over Pakistan.",
+    "img": "https://static.toiimg.com/photo/msid-128405223,imgsize-145534.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-dont-see-rivalry-axar-patels-cold-verdict-after-indias-brutal-knockout-of-pakistan/articleshow/128405195.cms",
+    "time": "2026-02-16T03:32:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Farhan to portray Don after Ranveer's exit from 'Don 3'?",
+    "desc": "Excitement surrounds the 'Don 3' saga as whispers of change fill the air. With Ranveer Singh reportedly parting ways due to a financial row, speculation mounts over filmmaker Farhan Akhtar potentially donning the legendary Don persona himself. Meanwhile, rumors swirl about Shah Rukh Khan’s comeback and directorial aspirations, though insiders have dismissed these claims.",
+    "img": "https://static.toiimg.com/photo/msid-128404966,imgsize-22210.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/farhan-akhtar-himself-is-set-to-portray-don-after-ranveer-singhs-exit-from-don-3/articleshow/128404966.cms",
+    "time": "2026-02-16T03:25:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Camila Mendes Binge-Watches Reality TV for her movie 'Idiotka'",
+    "desc": "Actress Camila Mendes delved into reality TV, watching shows like 'Project Runway' and 'The Hype' to authentically portray a producer in the upcoming comedy 'Idiotka'. She also interviewed contestants to understand the manipulative tactics producers sometimes employ, grounding her character's actions in a desire to help a struggling designer succeed.",
+    "img": "https://static.toiimg.com/photo/msid-128405083,imgsize-567884.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/camila-mendes-binges-reality-tv-and-interviews-contestants-for-her-upcoming-comedy-idiotka/articleshow/128405089.cms",
+    "time": "2026-02-16T03:25:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What is Singapore-India-Gulf subsea cable system that UAE's du is investing in for high data connectivity?",
+    "desc": "UAE telecom provider du has partnered to invest in the Singapore-India-Gulf (SING) submarine cable system, a new undersea fiber-optic network linking the Middle East with South and Southeast Asia. This strategic move reinforces the UAE's position as a regional data hub, enhancing connectivity for AI, cloud services, and global digital growth.",
+    "img": "https://static.toiimg.com/photo/msid-128404787,imgsize-30060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/what-is-singapore-india-gulf-subsea-cable-system-that-uaes-du-is-investing-in-for-high-data-connectivity/articleshow/128381872.cms",
+    "time": "2026-02-16T03:14:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cynthia Erivo breaks silence on Ariana Grande rumors",
+    "desc": "Cynthia Erivo has addressed speculation about her close bond with Ariana Grande, clarifying that their deep friendship, showcased during the 'Wicked' press tours, was misinterpreted. Erivo believes the public's discomfort stems from a lack of media representation for genuine platonic female relationships, leading to assumptions of romance or performance.",
+    "img": "https://static.toiimg.com/photo/msid-128404677,imgsize-1179378.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/cynthia-erivo-confronts-rumors-of-her-and-ariana-grande-being-lovers-says-there-was-a-strange-fascination/articleshow/128404677.cms",
+    "time": "2026-02-16T03:14:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Mardaani 3' earns Rs 1.05 crore on Day 17",
+    "desc": "After an exciting opening, Rani Mukerji's 'Mardaani 3' finished its third weekend with a respectable Rs 3.3 crore added to its total domestic gross of Rs 44.20 crore. The film, which had drawn crowds initially, saw a downturn in viewer interest as new contenders hit the screens. This shift was evident on Sunday when it tallied only Rs 1.",
+    "img": "https://static.toiimg.com/photo/msid-128404391,imgsize-51472.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mardaani-3-box-office-collection-day-17-rani-mukerji-starrer-ends-third-weekend-with-rs-3-3-crore-collection/articleshow/128404391.cms",
+    "time": "2026-02-16T03:02:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘India rocked it’: Sachin leads chorus as Sehwag says ‘full kambal kuttai’ after Pak demolition",
+    "desc": "India secured a commanding victory against Pakistan in the ICC T20 World Cup. Ishan Kishan's powerful batting set the tone, followed by effective bowling from the Indian team. This win extended India's strong head-to-head record against Pakistan in tournaments. The team has now advanced to the Super 8 stage with an undefeated streak.",
+    "img": "https://static.toiimg.com/photo/msid-128404029,imgsize-214518.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-rocked-it-sachin-tendulkar-leads-chorus-as-virender-sehwag-says-full-kambal-kuttai-after-pakistan-demolition/articleshow/128403999.cms",
+    "time": "2026-02-16T02:47:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'You have to see the bigger picture': Pakistan captain after India defeat",
+    "desc": "Pakistan captain Salman Ali Agha admitted his team underperformed against India, with spinners having an off day and early batting collapses hurting them. He said the pitch improved later, and Pakistan failed to adapt. Agha urged the team to handle pressure and focus on upcoming matches and qualification. India won by 61 runs, topping Group A while Pakistan dropped to third.",
+    "img": "https://static.toiimg.com/photo/msid-128404014,imgsize-69352.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/you-have-to-see-the-bigger-picture-pakistan-captain-salaman-ali-agha-stares-at-new-tournament-after-india-defeat/articleshow/128403512.cms",
+    "time": "2026-02-16T02:47:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Harper Beckham's Valentine’s Day message to her 3 brothers",
+    "desc": "Amidst family tensions, youngest Beckham, Harper, shared a heartwarming Valentine's Day tribute to her brothers, Brooklyn, Romeo, and Cruz. Her sweet message, initially on private social media and later reshared by Romeo, offered a touching moment of unity. This gesture comes shortly after eldest son Brooklyn publicly addressed alleged family rifts and control.",
+    "img": "https://static.toiimg.com/photo/msid-128403902,imgsize-723990.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/harper-beckham-shares-sweet-valentines-day-message-to-her-three-best-big-brothers-amid-ongoing-family-rift/articleshow/128403902.cms",
+    "time": "2026-02-16T02:44:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Film FAILS to cross Rs 3 cr",
+    "desc": "In a gripping twist on the survival genre, Bejoy Nambiar's 'Tu Yaa Main', featuring Adarsh Gourav and Shanaya Kapoor, has opened to a modest reception, raking in Rs 2.80 crore net in its inaugural weekend. The film, centered around two content creators caught in a perilous survival challenge, struggled to draw in moviegoers, with a disappointing 13.",
+    "img": "https://static.toiimg.com/photo/msid-128403614,imgsize-23090.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/tu-yaa-main-box-office-collection-day-3-adarsh-gourav-and-shanaya-kapoor-starrer-fails-to-cross-rs-3-crore-in-opening-weekend/articleshow/128403614.cms",
+    "time": "2026-02-16T02:32:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Why stepping back sparked his Next era",
+    "desc": "Harry Styles reflects on the necessity of his recent multi-year hiatus following his \"Love on Tour,\" which allowed him to recharge and focus on personal life before his upcoming album and tour. This break mirrors his earlier decision to pause One Direction's career to avoid exhausting their fanbase and ensure the group's longevity.",
+    "img": "https://static.toiimg.com/photo/msid-128373059,imgsize-686136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/harry-styles-on-stepping-back-turning-32-and-why-taking-a-break-was-the-key-to-his-next-era/articleshow/128373067.cms",
+    "time": "2026-02-16T02:28:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Election Commission suspends 7 West Bengal officials over ‘serious misconduct’ linked to SIR",
+    "desc": "The Election Commission of India has suspended seven officials in West Bengal for alleged serious misconduct and dereliction of duty. These Assistant Electoral Registration Officers, posted across Murshidabad, South 24 Parganas, West Medinipur, and Jalpaiguri districts, face immediate disciplinary proceedings. The Commission has directed the Chief Secretary to initiate action without delay and provide an update.",
+    "img": "https://static.toiimg.com/photo/msid-128403369,imgsize-68362.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/election-commission-suspends-7-west-bengal-officials-over-serious-misconduct-linked-to-sir/articleshow/128403390.cms",
+    "time": "2026-02-16T02:22:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka recalls STRUGGLES in Hollywood",
+    "desc": "Priyanka Chopra, speaking at Harvard, reflected on her challenging transition from Bollywood to Hollywood. She detailed enduring smaller roles and long hours, driven by a youthful ambition for 'legacy' over career. Today, her definition of success has evolved to prioritizing family time and selective work, a shift made possible by her younger self's resilience.",
+    "img": "https://static.toiimg.com/photo/msid-128402839,imgsize-21746.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-recalls-struggles-in-hollywood-says-i-forgave-my-younger-self-for-the-things-she-did-/articleshow/128402308.cms",
+    "time": "2026-02-16T01:55:39.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Salman and SRK's 'Tiger vs Pathaan' PUT ON HOLD- Report",
     "desc": "Disappointment echoes among fans as the much-anticipated showdown of Salman Khan and Shah Rukh Khan in 'Tiger vs. Pathaan' seems to be on hold. Reports indicate that financial constraints, especially regarding the hefty paychecks of the two megastars, are behind the film's indefinite delay before it even hit the production phase.",
@@ -36,15 +288,6 @@ const newsData_en = [
     "time": "2026-02-16T00:04:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Most professors of practice hired in Tamil Nadu followed by Maharashtra, Gujarat: UGC Data",
-    "desc": "According to the data, 1,841 PoPs have been hired by 349 HEIs so far, the maximum of them being in Tamil Nadu (395); while 193 PoPs have been hired in Maharashtra (193), Gujarat and Karnataka have appointed 179 and 170 professionals, respectively",
-    "img": "https://th-i.thgim.com/public/incoming/eynuij/article70637232.ece/alternates/LANDSCAPE_1200/IMG_University_Grant_Com_2_1_VCCB5B96.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/education/most-professors-of-practice-hired-in-tamil-nadu-followed-by-maharashtra-gujarat-ugc-data/article70635457.ece",
-    "time": "2026-02-15T23:54:30.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'AKOTSK' Ep 5: Viral BTS image SPOILS major moment",
     "desc": "Fans of 'A Knight of the Seven Kingdoms' are buzzing after a behind-the-scenes image seemingly revealed a tragic turn in Episode 5. The photo suggests Baelor is on his knees during a fight with Maekar, sparking widespread speculation about a major character's fate. This potential spoiler has already led to strong reactions online.",
@@ -63,13 +306,13 @@ const newsData_en = [
     "time": "2026-02-15T23:30:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "An olive green recession",
-    "desc": "As fewer youths from Punjab join the armed forces, the residents of Nathowal, known locally as ‘faujian da pind’ (village of soldiers) in Ludhiana district, lay out the reasons. They tell Vikas Vasudeva that Agnipath’s uncertainty, drug fears, and the lure of foreign earnings, are pushing parents to send children away from home, creating a generation that’s dreaming beyond regimental traditions",
-    "img": "https://th-i.thgim.com/public/incoming/y07ji4/article70634981.ece/alternates/LANDSCAPE_1200/PUNJAB%20SPOTLIGHT%20VIKAS%20VASUDEVA%20ARMY%20RECRUITMENT%20DECLINE%206.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/punjab/spotlight-punjab-an-olive-green-recession/article70634980.ece",
-    "time": "2026-02-15T22:26:13.000Z"
+    "cat": "Sports",
+    "title": "Another World Cup match, another victory, Ishan se",
+    "desc": "India secured a Super-8 spot with a dominant 61-run victory over Pakistan, their fourth consecutive win. Ishan Kishan's explosive 77 off 40 balls powered India to 175, a total Pakistan couldn't chase. Jasprit Bumrah and Hardik Pandya's early wickets, followed by effective spin bowling, sealed the comprehensive win.",
+    "img": "https://static.toiimg.com/photo/msid-128399810,imgsize-40888.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/another-world-cup-match-another-victory-ishan-se/articleshow/128399793.cms",
+    "time": "2026-02-15T22:51:46.000Z"
   },
   {
     "cat": "Entertainment",
@@ -81,6 +324,15 @@ const newsData_en = [
     "time": "2026-02-15T22:10:34.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "'Delhi declaration' may be adopted at AI summit in Delhi",
+    "desc": "India has launched its first comprehensive AI governance guidelines, opting for a flexible, principle-based approach to foster innovation while managing risks. These seven 'sutras' emphasize trust, people-first development, fairness, and accountability. The framework relies on existing laws and proposes new institutions to oversee AI, aiming to position India as a leader in responsible AI development.",
+    "img": "https://static.toiimg.com/photo/msid-128404103,imgsize-963191.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/delhi-declaration-may-be-adopted-at-ai-summit-in-delhi/articleshow/128397684.cms",
+    "time": "2026-02-15T22:08:10.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Jansen banks on variation, improvisation",
     "desc": "Jansen dug deep into his bag of tricks and pulled out a delivery that he developed on his own to take the sting out of New Zealand’s innings in their T20 World Cup contest on February 14",
@@ -88,42 +340,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/jansen-banks-on-variation-improvisation/article70636489.ece",
     "time": "2026-02-15T21:13:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Wuthering Heights' scores USD 82 million box office debut",
-    "desc": "Emerald Fennell's \"Wuthering Heights\" dominated the box office, drawing a predominantly female audience and achieving the year's biggest opening with $34.8 million. The romantic drama, starring Margot Robbie and Jacob Elordi, also performed strongly internationally. Despite mixed critical reviews, the film's success marks Warner Bros.' ninth consecutive No. 1 opening.",
-    "img": "https://static.toiimg.com/photo/msid-128396525,imgsize-372180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/wuthering-heights-makes-no-1-box-office-debut-margot-robbie-and-jacob-elordi-starrer-scores-usd82-million-global-haul/articleshow/128396234.cms",
-    "time": "2026-02-15T21:09:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay-Rashmika spotted arriving in Mumbai amidst wedding rumours",
-    "desc": "Rumours swirl about Rashmika Mandanna and Vijay Deverakonda's wedding on February 26, 2026, in Udaipur. The couple was recently spotted together in Mumbai, amidst reports of them declining a lucrative OTT offer for their wedding video rights. They reportedly aim for a private ceremony, inspired by Nayanthara and Vignesh Shivan's experience.",
-    "img": "https://static.toiimg.com/photo/msid-128395912,imgsize-41612.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vijay-deverakonda-and-rashmika-mandanna-arriving-at-mumbai-airport-amidst-wedding-rumours-pics/articleshow/128395751.cms",
-    "time": "2026-02-15T20:33:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Celebs react to India's win",
-    "desc": "India triumphed over Pakistan by 61 runs in a thrilling T20 World Cup encounter, igniting nationwide celebrations. Ishan Kishan's explosive 77 off 40 balls set a strong total, with bowlers expertly restricting Pakistan. Celebrities like Ajay Devgn, Vivek Oberoi, and Mammootty lauded the team's dominant performance.",
-    "img": "https://static.toiimg.com/photo/msid-128394651,imgsize-45140.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ind-vs-pak-t20-world-cup-ajay-devgn-anupam-kher-vivek-oberoi-and-more-celebs-react-to-indias-win-laud-ishan-kishan-hardik-pandya-and-whole-team/articleshow/128394612.cms",
-    "time": "2026-02-15T19:27:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Randhir spoke about his drinking which led to trouble with Babita",
-    "desc": "Randhir Kapoor, celebrating his birthday, opened up about his drinking habits contributing to marital troubles with Babita. He also reflected on the financial pressures faced by actors in his era compared to today's stars who have multiple income streams. Despite separating in 1988, Randhir and Babita reunited in 2023.",
-    "img": "https://static.toiimg.com/photo/msid-128390995,imgsize-88494.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-randhir-kapoor-said-his-drinking-habit-led-to-problems-in-his-marriage-spoke-about-struggles-to-earn-money-for-karisma-kapoor-kareenas-tuition-fees-home-expenses/articleshow/128390727.cms",
-    "time": "2026-02-15T17:24:23.000Z"
   },
   {
     "cat": "Business",
@@ -144,13 +360,13 @@ const newsData_en = [
     "time": "2026-02-15T17:22:28.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Is Rohit Saraf set to be a part of 'Heer Ranjha'?",
-    "desc": "Following the success of 'Laila Majnu', director Sajid Ali is now set to bring 'Heer Ranjha' to the screen, backed by Imtiaz Ali and Ektaa R Kapoor. While initial reports suggested Rohit Saraf as Ranjha, these claims have been refuted, with the makers confirming casting is still underway. The film promises a modern take on classic romance.",
-    "img": "https://static.toiimg.com/photo/msid-128390324,imgsize-22156.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/is-rohit-saraf-set-to-be-a-part-of-heer-ranjha-heres-what-we-know/articleshow/128390332.cms",
-    "time": "2026-02-15T17:03:05.000Z"
+    "cat": "World",
+    "title": "Ambiguities in the U.S.-India trade deal",
+    "desc": "The interim agreement raises several uncomfortable questions on a wide spectrum of issues, from its likely impact on several key stakeholders in India, particularly farmers, to the ability of the Indian government to take sovereign decisions in critical areas",
+    "img": "https://th-i.thgim.com/public/incoming/ewd5zi/article70636340.ece/alternates/LANDSCAPE_1200/20260212041L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/ambiguities-in-the-us-india-trade-deal/article70636252.ece",
+    "time": "2026-02-15T17:10:39.000Z"
   },
   {
     "cat": "Politics",
@@ -171,15 +387,6 @@ const newsData_en = [
     "time": "2026-02-15T16:56:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "EAM S Jaishankar greets Serbia on Statehood Day during visit to Munich Security Conference",
-    "desc": "The External Affairs Minister had earlier met Serbian Foreign Affairs Minister Marko Djuric on the sidelines of the conference on Saturday. In a post on X, Jaishankar said, \"Greetings to FM @markodjuric, the government and people of Serbia on their Statehood Day. Appreciate our long-standing partnership.\"",
-    "img": "https://static.toiimg.com/photo/msid-128390254,imgsize-631414.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/eam-s-jaishankar-greets-serbia-on-statehood-day-during-visit-to-munich-security-conference/articleshow/128390128.cms",
-    "time": "2026-02-15T16:56:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "No handshake after India outplay Pakistan in 61 run statement win",
     "desc": "India dominated Pakistan in the T20 World Cup clash, securing a convincing victory. Ishan Kishan's explosive 77 powered India to 175, a total their bowlers defended expertly. Despite a brief resistance from Pakistan, India's disciplined bowling attack, led by Hardik Pandya and Jasprit Bumrah, restricted them to 114, clinching a comfortable win.",
@@ -196,33 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ishan-kishan-comes-out-of-syllabus-for-pakistan-as-india-win-by-61-runs/articleshow/128389399.cms",
     "time": "2026-02-15T16:50:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CPRG to host multiple events at India AI Impact Summit 2026 in New Delhi; focus on AI in education, employability, and data governance",
-    "desc": "The Center of Policy Research and Governance (CPRG) will host the India AI Impact Summit 2026 from February 16-20 in New Delhi. The event will feature discussions on AI's impact on education, employability, data governance, and institutional transformation, with sessions held at various venues. Senior ministers, policymakers, and industry leaders are expected to participate.",
-    "img": "https://static.toiimg.com/photo/msid-128389897,imgsize-753180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cprg-to-host-multiple-events-at-india-ai-impact-summit-2026-in-new-delhi-focus-on-ai-in-education-employability-and-data-governance/articleshow/128389810.cms",
-    "time": "2026-02-15T16:50:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi CM Rekha Gupta offers prayers at Shrinathji Temple on Mahashivratri",
-    "desc": "Rekha Gupta expressed, \"Today, on the occasion of Mahashivratri, I feel incredibly fortunate to have had the opportunity to offer prayers to Lord Shrinathji. I am filled with a profound sense of peace and joy. \"",
-    "img": "https://static.toiimg.com/photo/msid-128389995,imgsize-88062.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rajasthan-delhi-cm-rekha-gupta-offers-prayers-at-shrinathji-temple-on-mahashivratri/articleshow/128389803.cms",
-    "time": "2026-02-15T16:45:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Humankind avoids performing 'Dhurandhar' track",
-    "desc": "Rapper Hanumankind electrified the ICC T20 World Cup in Colombo with a powerful performance, but notably omitted the title track from the film 'Dhurandhar'. Despite the film's ban in Pakistan and its pirated popularity there, the artist chose a politically neutral set for the cross-border audience. His energetic delivery of hits like 'Big Dawgs' captivated the stadium.",
-    "img": "https://static.toiimg.com/photo/msid-128389030,imgsize-32292.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ind-vs-pak-t20-world-cup-rapper-singer-humankind-avoids-dhurandhar-title-track-before-the-match-performs-on-big-dawgs/articleshow/128389026.cms",
-    "time": "2026-02-15T16:18:37.000Z"
   },
   {
     "cat": "Politics",
@@ -259,15 +439,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/paw-patrol-larry-the-cat-marks-15-years-at-10-downing-street/article70634613.ece",
     "time": "2026-02-15T15:36:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Arjun Kapoor drops a cryptic note about 'not giving up' amidst trolling",
-    "desc": "Actor Arjun Kapoor is facing persistent online trolling, though the reasons remain unclear. Despite this, he remains positive, sharing cryptic Instagram posts about perseverance. He recently posted a reflective message about not regretting continued effort and an emotional tribute to his late mother, hinting at a difficult phase.",
-    "img": "https://static.toiimg.com/photo/msid-128387865,imgsize-91186.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arjun-kapoor-drops-a-cryptic-note-about-not-giving-up-amidst-all-the-trolling-on-the-internet-if-you-keep-going-/articleshow/128387879.cms",
-    "time": "2026-02-15T15:35:20.000Z"
   },
   {
     "cat": "Sports",
@@ -351,24 +522,6 @@ const newsData_en = [
     "time": "2026-02-15T14:17:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Mr India' director Shekhar Kapur left job in London, destiny had other plans",
-    "desc": "Filmmaker Shekhar Kapur, known for 'Mr India' and 'Masoom', revealed he never planned a career in filmmaking, initially aiming to be a Chartered Accountant. He walked away from his accounting career in London, questioning if destiny or karma led him to acting, directing, theatre, and academia across continents.",
-    "img": "https://static.toiimg.com/photo/msid-128385842,imgsize-60390.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mr-india-director-shekhar-kapur-recalls-leaving-job-ca-job-in-london-karma-destiny-really/articleshow/128385790.cms",
-    "time": "2026-02-15T14:17:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijender Singh comes in support of Rajpal amidst his cheque bounce case",
-    "desc": "Actor Rajpal Yadav, facing legal troubles over a debt case, has received support from colleagues. Boxer-turned-actor Vijender Singh has offered Yadav a role in his upcoming film, emphasizing solidarity over financial aid. This gesture follows similar support from Sonu Sood, who also offered monetary assistance and a film role.",
-    "img": "https://static.toiimg.com/photo/msid-128384955,imgsize-26918.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-salman-khan-sonu-sood-vijender-singh-comes-in-support-of-rajpal-yadav-amidst-his-cheque-bounce-case-offers-him-his-next-film-/articleshow/128384882.cms",
-    "time": "2026-02-15T13:43:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Salman Agha stuns India! Abhishek falls for four-ball duck in first over vs Pakistan",
     "desc": "Abhishek Sharma's T20 World Cup struggles persisted as he was dismissed for a duck against Pakistan, caught by the captain himself in the opening over. This follows an earlier duck against the USA, raising concerns about his form. Despite a previous hospitalization, he was included in the playing XI for the crucial match.",
@@ -385,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/calling-the-bluff-the-charm-of-an-india-pakistan-cricket-contest-has-died-but-whose-loss-is-it-anyway/articleshow/128384627.cms",
     "time": "2026-02-15T13:33:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Focus less on margins': PM Modi says private sector 'critical' for Viksit Bharat, offers strong advise",
-    "desc": "Prime Minister Narendra Modi emphasized the private sector's crucial role in India's economic future, urging bold investments in innovation and capacity. He highlighted his government's commitment to reforms and decisive governance, while also stressing the need for the private sector to share productivity gains with workers and invest in R&D and quality.",
-    "img": "https://static.toiimg.com/photo/msid-128384597,imgsize-800501.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/focus-less-on-margins-share-gains-fairly-with-workers-pms-strong-advise-to-pvt-sector/articleshow/128384418.cms",
-    "time": "2026-02-15T13:31:44.000Z"
   },
   {
     "cat": "Business",
@@ -421,69 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/no-handshake-at-toss-indias-stance-against-pakistan-continues-in-t20-world-cup-despite-calls-for-spirit/articleshow/128382443.cms",
     "time": "2026-02-15T13:10:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "USA keep Super 8 hopes alive with 31-run win over Namibia",
-    "desc": "USA secured a commanding 31-run victory over Namibia, keeping their Super 8 ambitions alive. Shadley van Schalkwyk's two wickets were crucial as Namibia fell short of the 200-run target. Earlier, half-centuries from Monank Patel and Sanjay Krishnamurthi powered USA to a strong total.",
-    "img": "https://static.toiimg.com/photo/msid-128384055,imgsize-155050.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-usa-keep-super-8-hopes-alive-with-31-run-win-over-namibia/articleshow/128384077.cms",
-    "time": "2026-02-15T13:10:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mrunal Thakur REACTS to marriage rumours with Dhanush",
-    "desc": "Mrunal Thakur recently reacted to rumours of her marriage with Dhanush, calling them amusing. She said love will happen when the time is right and joked, “Woh to shaadi ho rahi hai.” Mrunal added she had to hire a PR team after her address leaked and thanked those “spreading fake rumours” for free publicity.",
-    "img": "https://static.toiimg.com/photo/msid-128383128,imgsize-45374.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mrunal-thakur-reacts-to-marriage-rumours-with-dhanush-thanks-those-spreading-fake-news/articleshow/128383128.cms",
-    "time": "2026-02-15T12:38:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Saba posts RARE wedding picture of Randhir and Babita",
-    "desc": "Saba Pataudi shared a rare wedding photo of Randhir Kapoor and Babita, wishing him a happy birthday on Instagram. The black-and-white image shows the couple in traditional attire, alongside nostalgic notes about her father Mansoor Ali Khan Pataudi and family traditions like Quran Khawani. A viral Kareena clip recalls Karisma's film struggles and Randhir's emotional pride.",
-    "img": "https://static.toiimg.com/photo/msid-128382425,imgsize-34788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saba-pataudi-posts-rare-wedding-picture-of-randhir-kapoor-and-babita-wishes-happy-birthday-see-post/articleshow/128382425.cms",
-    "time": "2026-02-15T12:14:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ajay, Kareena, Raveena extend holy wishes",
-    "desc": "Bollywood stars including Ajay Devgn, Kareena Kapoor, Mahesh Babu, and Raghav Chadha marked Maha Shivratri with spiritual posts. From Ajay’s “Har Har Mahadev” portrait to Kareena’s Shivling photo, celebs shared divine visuals and blessings. Mahesh unveiled Varanasi’s poster, while others like Raj Kundra shared glimpses of their sacred celebrations.",
-    "img": "https://static.toiimg.com/photo/msid-128381965,imgsize-44880.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/maha-shivratri-2026-ajay-devgn-kareena-kapoor-raveena-tandon-extend-holy-wishes/articleshow/128381965.cms",
-    "time": "2026-02-15T12:04:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Euphoria’ controversy theory: Is Rue going to make it?",
-    "desc": "With the clock ticking down to April 2026, 'Euphoria Season 3' has fans on the edge of their seats regarding Rue’s journey. Five years post-high school, Rue finds herself in a perilous battle against her former life—potentially still entangled with a treacherous dealer.",
-    "img": "https://static.toiimg.com/photo/msid-128375465,imgsize-41736.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/euphoria-controversy-theory-explained-is-season-3-going-to-be-rues-redemption-or-her-final-goodbye/articleshow/128375448.cms",
-    "time": "2026-02-15T11:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma's viral airport video sparks buzz ahead of India-Pakistan showdown",
-    "desc": "Former skipper Rohit Sharma's potential presence at the India-Pakistan T20 World Cup clash in Colombo has sparked fan speculation following his airport sighting. Amidst ongoing political tensions, captains were questioned about handshakes, with Pakistan's Salman Ali Agha suggesting \"we will see tomorrow.\" India's Suryakumar Yadav urged focus on the cricket itself.",
-    "img": "https://static.toiimg.com/photo/msid-128380864,imgsize-850946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/rohit-sharmas-viral-airport-video-sparks-buzz-ahead-of-india-pakistan-showdown/articleshow/128380835.cms",
-    "time": "2026-02-15T11:22:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Unbecoming of a nation like ours': Manjrekar minces no words on handshake policy",
-    "desc": "Former cricketer Sanjay Manjrekar has criticized India's 'no-handshake' policy against Pakistan, deeming it \"silly\" and unbecoming of a major cricketing nation. He urged India to either play in the spirit of the game or avoid matches altogether. India's captain Suryakumar Yadav remained non-committal on the gesture ahead of their T20 World Cup clash.",
-    "img": "https://static.toiimg.com/photo/msid-128380468,imgsize-46812.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/unbecoming-of-a-nation-like-ours-sanjay-manjrekar-minces-no-words-on-indias-silly-handshake-policy-vs-pakistan/articleshow/128380467.cms",
-    "time": "2026-02-15T11:09:10.000Z"
   },
   {
     "cat": "Business",
@@ -523,69 +604,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Women's Asia Cup Rising Stars: India A beat Pakistan A by eight wickets",
-    "desc": "India A Women bounced back with a dominant eight-wicket win against Pakistan A Women in the Asia Cup Rising Stars tournament. Captain Radha Yadav and a blistering 55 from Dinesh Vrinda powered the chase after spinners restricted Pakistan to 93. This victory propels India A to second in Group A.",
-    "img": "https://static.toiimg.com/photo/msid-128379404,imgsize-47106.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/womens-asia-cup-rising-stars-india-a-beat-pakistan-a-by-eight-wickets/articleshow/128379166.cms",
-    "time": "2026-02-15T10:27:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'They will have to be careful' – Former India wicketkeeper issues caution",
-    "desc": "Former India wicketkeeper Nayan Mongia has backed India as favorites against Pakistan in the T20 World Cup 2026 clash, praising all-rounder Hardik Pandya as one of the best T20 players. Mongia highlighted India's consistent ICC tournament performance but cautioned about Sri Lanka's slow pitches favoring spinners. Both teams have won their opening two matches, with India leading Group A.",
-    "img": "https://static.toiimg.com/photo/msid-128379379,imgsize-386466.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/they-will-have-to-be-careful-former-india-wicketkeeper-issues-caution-ahead-of-pakistan-clash/articleshow/128379353.cms",
-    "time": "2026-02-15T10:26:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Railways rolls out tech-enabled onboard cleaning reform for long distance trains",
-    "desc": "The railway ministry has launched a new onboard cleaning initiative for long-distance trains, deploying professional teams to clean coaches and toilets at hourly intervals or as needed. This tech-enabled reform aims to enhance passenger experience through real-time monitoring and accountability. Additionally, the ministry will permit cargo facilities on spare railway land to boost freight operations.",
-    "img": "https://static.toiimg.com/photo/msid-128379151,imgsize-702381.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/railways-rolls-out-tech-enabled-onboard-cleaning-reform-for-long-distance-trains/articleshow/128379031.cms",
-    "time": "2026-02-15T10:16:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "FPIs infuse Rs 19,675 crore in early February after months of heavy selling",
-    "desc": "Foreign investors injected Rs 19,675 crore into Indian stocks in early February, reversing months of outflows. This surge, driven by a US-India trade deal and easing global economic worries, signals renewed optimism. Despite this, overall 2025 flows remain weak, with significant net outflows recorded year-to-date.",
-    "img": "https://static.toiimg.com/photo/msid-128378929,imgsize-594232.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/fpis-infuse-rs-19675-crore-in-early-february-after-months-of-heavy-selling/articleshow/128378787.cms",
-    "time": "2026-02-15T10:07:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Babar-Rizwan masterclass to 'Kohli goes down the ground': How Ind &amp; Pak have fared in 2020s",
-    "desc": "India and Pakistan's T20 World Cup encounters have been closely contested, despite India's 7-1 head-to-head record. Recent matches in the 2020s, including the 2021 loss, the thrilling 2022 victory, and the tight 2024 win, highlight decisive moments rather than one-sided dominance.",
-    "img": "https://static.toiimg.com/photo/msid-128378601,imgsize-34342.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/babar-azam-mohammad-rizwan-masterclass-to-kohli-goes-down-the-ground-how-india-pakistan-have-fared-in-t20-world-cups-in-2020s/articleshow/128378540.cms",
-    "time": "2026-02-15T09:56:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Crushing Nepal by 9 wkts, Windies become first to reach T20 WC Super 8s",
-    "desc": "West Indies became the first team to qualify for the T20 World Cup Super Eights after a dominant nine-wicket win over Nepal. Nepal struggled early and managed 133/8, with Dipendra Singh Airee scoring 58. Jason Holder took 4/27. Shai Hope (61*) and Shimron Hetmyer (46*) chased the target in 15.2 overs. Nepal were eliminated from the tournament.",
-    "img": "https://static.toiimg.com/photo/msid-128378246,imgsize-117528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-crushing-nepal-by-nine-wickets-west-indies-become-first-to-reach-super-8s/articleshow/128378045.cms",
-    "time": "2026-02-15T09:38:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Psychological edge already ours': Former Pakistan captain makes bold claim",
-    "desc": "Former Pakistan captain Mohammad Hafeez believes the intense focus on spinner Usman Tariq provides a psychological edge over India. Hafeez suggests the debate surrounding Tariq's bowling action is causing \"panic\" in the Indian camp, forcing them to specifically prepare for him. He urged Pakistan captain Salman Ali Agha to use Tariq aggressively to maximize his game-changing potential.",
-    "img": "https://static.toiimg.com/photo/msid-128378044,imgsize-79726.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/psychological-edge-already-ours-former-pakistan-captain-makes-bold-claim-ahead-of-india-clash/articleshow/128377945.cms",
-    "time": "2026-02-15T09:33:29.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "18,000 Indians, 12,000 Pakistanis, and 2,000 SL police: Scale of India-Pak showdown",
     "desc": "Tens of thousands of Indian and Pakistani fans have converged on Colombo for the high-voltage India-Pakistan clash, turning the city into a fortress with massive security deployment. Beyond politics and critique, the match has energised local livelihoods, packed the stadium to capacity and reaffirmed why this rivalry remains cricket’s most powerful spectacle.",
     "img": "https://static.toiimg.com/photo/msid-128377881,imgsize-102584.cms",
@@ -621,15 +639,6 @@ const newsData_en = [
     "time": "2026-02-15T05:56:54.000Z"
   },
   {
-    "cat": "Business",
-    "title": "5 real estate trends home owners should focus on",
-    "desc": "UAE's property market is seeing a surge in first-time homebuyers in 2026, driven by government support and a shift towards long-term value. Buyers now prioritise build quality, practical design and community infrastructure over speculation. Affordability and tech-driven mortgage solutions are making ownership more accessible, fostering a generation committed to homeownership as a lifestyle choice.",
-    "img": "https://static.toiimg.com/photo/msid-128371400,imgsize-57014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-property-market-2026-renting-to-buying-your-first-house-in-emirates-5-real-estate-trends-home-owners-should-focus-on/articleshow/128370735.cms",
-    "time": "2026-02-15T05:01:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "T20 World Cup",
     "desc": "“At this stage, we won’t be replacing Lockie in the squad ‌as the plan would ​be for him to return for the Super ⁠8 phase of the tournament,\" head coach Rob Walter said ‌in a statement on New Zealand Cricket official website.",
@@ -646,15 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/south-africa-new-zealand-t20-world-cup-ahmedabad-updates-february-14-2026/article70632376.ece",
     "time": "2026-02-15T04:21:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Love-all in Colombo as cricket world ready for India vs Pakistan",
-    "desc": "Thirty years after a unique India-Pakistan XI played in Colombo, the arch-rivals are set for a T20 World Cup clash, signalling a subcontinental ceasefire. Despite Pakistan's familiarity with the ground and a slower pitch, both captains downplay any advantage. India prepares to counter mystery spinner Usman Tariq, with Suryakumar Yadav even emulating his action in nets.",
-    "img": "https://static.toiimg.com/photo/msid-128370171,imgsize-60726.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-love-all-in-colombo-as-cricket-world-ready-for-india-vs-pakistan/articleshow/128370177.cms",
-    "time": "2026-02-15T03:45:30.000Z"
   },
   {
     "cat": "Business",

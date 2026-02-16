@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mike Hesson reveals Pakistan dressing room's atmosphere after drubbing against India in Colombo",
+    "desc": "Pakistan sustained a hefty loss against the Indian team in game 27 of the ongoing T20 World Cup 2026. The two sides took on each other at the R. Premadasa Stadium in Colombo; the clash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mike-hesson-reveals-pakistan-dressing-room-s-atmosphere-after-drubbing-against-india-in-colombo-2026-02-16-1030434",
+    "time": "2026-02-16T03:49:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ishan Kishan scripts history with POTM performance against Pakistan in T20 World Cup 2026",
+    "desc": "Game 27 of the ongoing T20 World Cup 2026 saw India taking on Pakistan. The two sides locked horns at the R. Premadasa Stadium in Colombo, and while many had high expectations for the game,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-scripts-history-with-potm-performance-against-pakistan-in-t20-world-cup-2026-2026-02-16-1030423",
+    "time": "2026-02-16T02:34:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shoaib Akhtar lambasts PCB chief Mohsin Naqvi after Pakistan's loss to India in Colombo",
+    "desc": "Former Pakistan cricketer Shoaib Akhtar recently came forward and launched a fresh attack against PCB (Pakistan Cricket Board) chief Mohsin Naqvi after Pakistan’s humiliating defeat against team India in the ongoing T20 World Cup 2026....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shoaib-akhtar-lambasts-pcb-chief-mohsin-naqvi-after-pakistan-s-loss-to-india-in-colombo-2026-02-16-1030421",
+    "time": "2026-02-16T02:10:30.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India-Pakistan one sided rivalry? Men in Blue's latest triumph stretches day-light gap between rivals",
     "desc": "India mauled Pakistan in their T20 World Cup 2026 clash at the R Premadasa Stadium with a superb show in Colombo on Sunday, February 15. The Men in Blue registered their biggest-ever win in T20Is...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-memes-galore-after-india-annihilate-pakistan-in-t20-world-cup-clash-in-colombo-2026-02-15-1030409",
     "time": "2026-02-15T17:16:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India register biggest-ever T20I win over Pakistan, qualify for Super 8 of T20 World Cup 2026",
-    "desc": "India hammered Pakistan in their T20 World Cup 2026 clash at the R Premadasa Stadium in Colombo. Pakistan captain Salman Agha was delighted to bowl first after winning the toss, analysing that the conditions would...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-register-biggest-ever-t20i-win-over-pakistan-qualify-for-super-8-of-t20-world-cup-2026-2026-02-15-1030406",
-    "time": "2026-02-15T16:46:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How can Pakistan get knocked out of T20 World Cup 2026 after humiliating defeat to India?",
-    "desc": "Pakistan suffered a humiliating defeat to India in the T20 World Cup 2026 clash at the R Premadasa Stadium in Colombo on Sunday, February. Pakistan have suffered their biggest-ever T20I loss to India as the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-can-pakistan-get-knocked-out-of-t20-world-cup-2026-after-humiliating-defeat-to-india-2026-02-15-1030405",
-    "time": "2026-02-15T16:46:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What is Pakistan's lowest all-out total in T20 World Cup history against India?",
-    "desc": "Pakistan are in all sorts of trouble in their high-stakes T20 World Cup 2026 clash against India at the R Premadasa Stadium in Colombo on Sunday, February 15. Asked to chase a record 176 in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-is-pakistans-lowest-all-out-total-in-t20-world-cup-history-against-india-2026-02-15-1030402",
-    "time": "2026-02-15T16:06:04.000Z"
   }
 ];

@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "આજે પણ બજાર ખુલતા જ સોનું-ચાંદી ધડામ, સોનું ઓલટાઈમ હાઈથી 26000 અને ચાંદી 1.83 લાખ સસ્તા, લેટેસ્ટ રેટ ચેક કરો",
+    "desc": "ભારે ઉતાર ચડાવ વચ્ચે આજે નવા અઠવાડિયાના પહેલા દિવસે ભારતીય વાયદા બજાર (MCX) પર સોના અને ચાંદીના ભાવમાં ખુલતા જ કડાકો જોવા મળ્યો છે. જાણો લેટેસ્ટ રેટ કેટલો અને આગળ શું પરિસ્થિતિ રહી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/mcx-latest-gold-and-silver-rates-retain-bazar-rate-aaj-no-sona-chandi-no-bhav-business-news-in-gujarati-465084 ",
+    "time": "2026-02-16T04:35:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "રશિયાના કારણે પછડાશે સોનું? 1 લાખની અંદર જઈ શકે છે ભાવ, સોનું ખરીદતા પહેલા વાંચી લેજો",
+    "desc": "સોના અને ચાંદીએ વર્ષ 2025માં જે તેજી દેખાડી તે જાન્યુઆરી 2026માં પણ જોવા મળી. જો કે આ દરમિયાન ઉતાર ચડાવ પણ ઘણા જોવા મળી રહ્યા છે. જો કે એવું અનુમાન લગાવવામાં આવ્યું છે કે રશિયાના કારણે સોનાના ભાવ નીચે જઈ શકે છે. 2027 સુધીમાં એક લાખની અંદર જઈ શકે. વાંચો અહેવાલ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-rate-prediction-price-of-gold-may-go-below-1-lakh-check-this-expert-opinion-before-buying-gold-465077 ",
+    "time": "2026-02-16T03:23:22.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "કોલંબોમાં ગુજરાતીઓનો કહેર, હાર્દિક, બુમરાહ અને અક્ષર બન્યા પાકિસ્તાન માટે કાળ",
     "desc": "T20 વર્લ્ડ કપ 2026ની સૌથી હાઈ-વોલ્ટેજ મેચમાં ભારત અને પાકિસ્તાન સામસામે ટકરાયા, પરંતુ મેદાન પર પાકિસ્તાની બેટ્સમેનો કરતાં ભારતીય ‘ગુજરાતી પાવર’નો દબદબો વધુ જોવા મળ્યો. 176 રનના લક્ષ્યાંકનો પીછો કરવા ઉતરેલી પાકિસ્તાની ટીમને ભારતના ત્રણ ગુજરાતી ખેલાડીઓએ ધૂળ ચટાડી દીધી છે.",
@@ -169,15 +187,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/investors-are-selling-these-shares-of-tata-expert-said-price-will-increase-by-20-percent-464923 ",
     "time": "2026-02-14T11:02:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ભારત-પાકિસ્તાન મેચ વરસાદના કારણે રદ થાય તો કોને થશે ફાયદો ? કઈ ટીમો થશે વર્લ્ડ કપમાંથી બહાર ?",
-    "desc": "T20 વર્લ્ડ કપ 2026માં રવિવારે ભારત અને પાકિસ્તાન વચ્ચે મહામુકાબલો રમાશે. આ મેચ કોલંબોના આર પ્રેમદાસ સ્ટેડિયમમાં રમાશે, પરંતુ આ હાઈ-વોલ્ટેજ મેચમાં વરસાદ વિઘ્ન નાખી શકે છે. જો વરસાદના કારણે મેચ રદ થાય છે, તો કઈ ટીમને ફાયદો થશે અને આ મેચ રદ થતાં પોઈન્ટ ટેબલ પર શું અસર પડશે તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/what-happens-if-india-vs-pakistan-match-canceled-due-to-rain-t20-world-cup-2026-464921 ",
-    "time": "2026-02-14T10:58:53.000Z"
   },
   {
     "cat": "Business",
@@ -475,24 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/bad-news-from-america-on-h1b-visa-indians-dream-of-going-to-us-will-remain-unfulfilled-know-464573 ",
     "time": "2026-02-11T02:46:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "12 ફેબ્રુઆરીએ દેશવ્યાપી હડતાળ, જાણો બેંકો ખુલ્લી રહેશે કે બંધ",
-    "desc": "12 ફેબ્રુઆરીએ ટ્રેડ યુનિયનો અને ખેડૂત સંગઠનો દ્વારા દેશવ્યાપી હડતાળની જાહેરાત કરવામાં આવી છે. જેના કારણે બેંકિંગ અને પરિવહન સેવાઓ પર આંશિક અસર પડી શકે છે. બેંકો સંપૂર્ણપણે બંધ નહીં રહે, પરંતુ અમુક સેવાઓમાં વિલંબ થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/bharat-band-nationwide-strike-on-february-12-will-banks-remain-open-464553 ",
-    "time": "2026-02-10T15:38:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "મુસાફરો માટે મહત્ત્વના સમાચાર, 1 માર્ચથી UTS એપ થઈ જશે બંધ; હવે આ નવી એપથી બુક થશે ટિકિટ",
-    "desc": "ભારતીય રેલવેએ ટ્રેન ટિકિટ અને અન્ય સેવાઓ માટે એક મોટો બદલાવ કર્યો છે. 1 માર્ચ 2026થી UTS On Mobile એપ બંધ કરી દેવામાં આવશે. હવે મુસાફરોએ ટ્રેન ટિકિટ અને અન્ય બીજી સેવાઓ માટે Railone એપનો ઉપયોગ કરવાનો રહેશે. આવી સ્થિતિમાં ચાલો જાણએ, શું છે RailOne એપ અને તેમાં શું સુવિધા મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/indian-railways-uts-app-closing-from-march-1-switch-to-railone-app-for-general-tickets-464540 ",
-    "time": "2026-02-10T13:18:17.000Z"
   },
   {
     "cat": "World",
