@@ -1,6 +1,96 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Salman and SRK's 'Tiger vs Pathaan' PUT ON HOLD- Report",
+    "desc": "Disappointment echoes among fans as the much-anticipated showdown of Salman Khan and Shah Rukh Khan in 'Tiger vs. Pathaan' seems to be on hold. Reports indicate that financial constraints, especially regarding the hefty paychecks of the two megastars, are behind the film's indefinite delay before it even hit the production phase.",
+    "img": "https://static.toiimg.com/photo/msid-128402391,imgsize-54668.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-and-shah-rukh-khans-tiger-vs-pathaan-put-on-hold-by-aditya-chopras-production-house-report/articleshow/128402391.cms",
+    "time": "2026-02-16T01:36:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hrithik REACTS to Metro bridge slab collapse; 'Traumatic'",
+    "desc": "Bollywood icon Hrithik Roshan took to social media to voice his sorrow regarding the Mumbai Metro bridge slab collapse, a heartbreaking event that left one person dead and many more injured. He passionately urged governmental bodies to prioritize safety enforcement at construction sites, highlighting the essential duty to safeguard both workers and residents during urban development endeavors.",
+    "img": "https://static.toiimg.com/photo/msid-128401679,imgsize-23764.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshan-strongly-reacts-to-mumbai-metro-bridge-slab-collapse-killing-a-person-calls-it-traumatic/articleshow/128401679.cms",
+    "time": "2026-02-16T00:56:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tharoor calls Priyanka ‘remarkable’ after Harvard reunion",
+    "desc": "Congress MP Shashi Tharoor and Bollywood star Priyanka Chopra recently met at the Harvard India Conference. Tharoor shared his admiration for Chopra's success, noting her poise and wisdom. Chopra, a keynote speaker, spoke about her formative years in the US and her journey bridging Bollywood and Hollywood, inspiring students with her experiences.",
+    "img": "https://static.toiimg.com/photo/msid-128401729,imgsize-27886.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shashi-tharoor-calls-priyanka-chopra-remarkable-after-harvard-reunion-actress-delivers-motivational-speech-to-students/articleshow/128401017.cms",
+    "time": "2026-02-16T00:54:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shahid's 'O' Romeo' CROSSES Rs 30 cr over opening weekend",
+    "desc": "In a spectacular debut, Shahid Kapoor's 'O' Romeo' has shattered expectations at the Indian box office, amassing Rs 30.15 crore over its opening weekend. This romantic drama, though met with varied audience feedback on its narrative, has achieved a global total of Rs 40.6 crore. Read on to know more.",
+    "img": "https://static.toiimg.com/photo/msid-128400871,imgsize-102596.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/o-romeo-box-office-collection-day-3-and-day-4-live-shahid-kapoor-and-triptii-dimri-starrer-races-past-rs-30-crore-over-opening-weekend/articleshow/128400871.cms",
+    "time": "2026-02-16T00:04:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Most professors of practice hired in Tamil Nadu followed by Maharashtra, Gujarat: UGC Data",
+    "desc": "According to the data, 1,841 PoPs have been hired by 349 HEIs so far, the maximum of them being in Tamil Nadu (395); while 193 PoPs have been hired in Maharashtra (193), Gujarat and Karnataka have appointed 179 and 170 professionals, respectively",
+    "img": "https://th-i.thgim.com/public/incoming/eynuij/article70637232.ece/alternates/LANDSCAPE_1200/IMG_University_Grant_Com_2_1_VCCB5B96.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/education/most-professors-of-practice-hired-in-tamil-nadu-followed-by-maharashtra-gujarat-ugc-data/article70635457.ece",
+    "time": "2026-02-15T23:54:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'AKOTSK' Ep 5: Viral BTS image SPOILS major moment",
+    "desc": "Fans of 'A Knight of the Seven Kingdoms' are buzzing after a behind-the-scenes image seemingly revealed a tragic turn in Episode 5. The photo suggests Baelor is on his knees during a fight with Maekar, sparking widespread speculation about a major character's fate. This potential spoiler has already led to strong reactions online.",
+    "img": "https://static.toiimg.com/photo/msid-128400401,imgsize-41932.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/a-knight-of-the-seven-kingdoms-did-bts-image-of-baelor-maekar-and-lyone-spoil-major-moment-in-series/articleshow/128399977.cms",
+    "time": "2026-02-15T23:31:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ishan Kishan's demolition job in Colombo",
+    "desc": "On a difficult Colombo surface that aided spin, Ishan Kishan’s fearless 77 off 40 balls powered India to 175 against Pakistan. While others struggled, Kishan stayed ahead of the conditions, dismantling the middle overs with innovation and intent, producing a defining T20 World Cup innings built on clarity, courage and control.",
+    "img": "https://static.toiimg.com/photo/msid-128390399,imgsize-58228.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/fearless-without-being-reckless-ishan-kishans-demolition-job-in-colombo/articleshow/128390282.cms",
+    "time": "2026-02-15T23:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "An olive green recession",
+    "desc": "As fewer youths from Punjab join the armed forces, the residents of Nathowal, known locally as ‘faujian da pind’ (village of soldiers) in Ludhiana district, lay out the reasons. They tell Vikas Vasudeva that Agnipath’s uncertainty, drug fears, and the lure of foreign earnings, are pushing parents to send children away from home, creating a generation that’s dreaming beyond regimental traditions",
+    "img": "https://th-i.thgim.com/public/incoming/y07ji4/article70634981.ece/alternates/LANDSCAPE_1200/PUNJAB%20SPOTLIGHT%20VIKAS%20VASUDEVA%20ARMY%20RECRUITMENT%20DECLINE%206.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/punjab/spotlight-punjab-an-olive-green-recession/article70634980.ece",
+    "time": "2026-02-15T22:26:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Stranger Things’ star Maya Hawke weds Christian Lee Hutson",
+    "desc": "Maya Hawke, star of 'Stranger Things', tied the knot with musician Christian Lee Hutson in a surprise Valentine's Day ceremony. The couple exchanged vows in New York City, with Maya stunning in a grand white gown and feathery coat. Her parents, Ethan Hawke and Uma Thurman, along with several 'Stranger Things' co-stars, were in attendance to celebrate their union.",
+    "img": "https://static.toiimg.com/photo/msid-128397125,imgsize-38626.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/maya-hawke-weds-christian-lee-hutson-in-intimate-valentines-day-ceremony-stranger-things-co-stars-attend-pics/articleshow/128396574.cms",
+    "time": "2026-02-15T22:10:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jansen banks on variation, improvisation",
+    "desc": "Jansen dug deep into his bag of tricks and pulled out a delivery that he developed on his own to take the sting out of New Zealand’s innings in their T20 World Cup contest on February 14",
+    "img": "https://th-i.thgim.com/public/incoming/nof9va/article70636488.ece/alternates/LANDSCAPE_1200/PTI02_14_2026_000671B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/jansen-banks-on-variation-improvisation/article70636489.ece",
+    "time": "2026-02-15T21:13:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "'Wuthering Heights' scores USD 82 million box office debut",
     "desc": "Emerald Fennell's \"Wuthering Heights\" dominated the box office, drawing a predominantly female audience and achieving the year's biggest opening with $34.8 million. The romantic drama, starring Margot Robbie and Jacob Elordi, also performed strongly internationally. Despite mixed critical reviews, the film's success marks Warner Bros.' ninth consecutive No. 1 opening.",
     "img": "https://static.toiimg.com/photo/msid-128396525,imgsize-372180.cms",
@@ -25,15 +115,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ind-vs-pak-t20-world-cup-ajay-devgn-anupam-kher-vivek-oberoi-and-more-celebs-react-to-indias-win-laud-ishan-kishan-hardik-pandya-and-whole-team/articleshow/128394612.cms",
     "time": "2026-02-15T19:27:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Jennifer Aniston",
-    "desc": "Jennifer Aniston, oftentimes hailed as 'America's Sweetheart,' continues to uplift audiences with her unwavering positivity. Known for her legendary portrayal in 'Friends,' she has become a beacon of hope, consistently reminding us that, 'Happiness is a choice.",
-    "img": "https://static.toiimg.com/photo/msid-128377076,imgsize-283332.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-jennifer-aniston-if-youre-not-happy-you-can-become-happy-happiness-is-a-choice/articleshow/128377076.cms",
-    "time": "2026-02-15T17:30:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -351,15 +432,6 @@ const newsData_en = [
     "time": "2026-02-15T13:10:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Rijiju sets March 9 debate on no-confidence against Om Birla; Nehru’s 1954 message resurfaces",
-    "desc": "Parliamentary Affairs Minister Kiren Rijiju announced that the Lok Sabha will debate and vote on a no-confidence motion against the Speaker on March 9. This follows a submission by 118 Congress MPs alleging partisan conduct. Historically, such motions against Speakers are rare, with past instances including those against GV Mavalankar, Sardar Hukum Singh, and Balram Jakhar.",
-    "img": "https://static.toiimg.com/photo/msid-128383618,imgsize-1320718.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rijiju-sets-march-9-debate-on-no-confidence-against-om-birla-nehrus-1954-message-resurfaces/articleshow/128383646.cms",
-    "time": "2026-02-15T12:55:42.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Mrunal Thakur REACTS to marriage rumours with Dhanush",
     "desc": "Mrunal Thakur recently reacted to rumours of her marriage with Dhanush, calling them amusing. She said love will happen when the time is right and joked, “Woh to shaadi ho rahi hai.” Mrunal added she had to hire a PR team after her address leaked and thanked those “spreading fake rumours” for free publicity.",
@@ -367,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mrunal-thakur-reacts-to-marriage-rumours-with-dhanush-thanks-those-spreading-fake-news/articleshow/128383128.cms",
     "time": "2026-02-15T12:38:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Security agencies freeze 8,000+ mule accounts in J&amp;K; officials flag funds may be exploited for anti-national activities",
-    "desc": "Jammu and Kashmir security agencies have frozen over 8,000 mule accounts in three years, identifying them as crucial for global scam networks and potential funding of anti-national activities. These accounts facilitate the conversion of stolen money into untraceable cryptocurrency, with authorities urging banks and law enforcement to curb their rise and identify \"mulers\" who manage them.",
-    "img": "https://static.toiimg.com/photo/msid-128382239,imgsize-980359.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/security-agencies-freeze-8000-mule-accounts-in-jk-officials-flag-funds-may-be-exploited-for-anti-national-activities/articleshow/128382139.cms",
-    "time": "2026-02-15T12:15:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -405,15 +468,6 @@ const newsData_en = [
     "time": "2026-02-15T11:30:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Isha Mahashivratri 2026 to be livestreamed with sign language interpretation",
-    "desc": "Isha Yoga Center's Mahashivratri, themed 'Ganga', will be a global livestream event on February 15-16, featuring sign language interpretation and broadcasts in 23 languages. Defence Minister Rajnath Singh will be the chief guest. The program includes guided meditations by Sadhguru, musical performances, and for the first time, Sadhguru will perform the Yogeshwara Linga Maha Abhishekam.",
-    "img": "https://static.toiimg.com/photo/msid-128380988,imgsize-961683.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/isha-mahashivratri-2026-to-be-livestreamed-with-sign-language-interpretation/articleshow/128380933.cms",
-    "time": "2026-02-15T11:25:57.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Rohit Sharma's viral airport video sparks buzz ahead of India-Pakistan showdown",
     "desc": "Former skipper Rohit Sharma's potential presence at the India-Pakistan T20 World Cup clash in Colombo has sparked fan speculation following his airport sighting. Amidst ongoing political tensions, captains were questioned about handshakes, with Pakistan's Salman Ali Agha suggesting \"we will see tomorrow.\" India's Suryakumar Yadav urged focus on the cricket itself.",
@@ -421,24 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/rohit-sharmas-viral-airport-video-sparks-buzz-ahead-of-india-pakistan-showdown/articleshow/128380835.cms",
     "time": "2026-02-15T11:22:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranbir Kapoor teases 'Animal Park' update",
-    "desc": "Ranbir Kapoor has confirmed a sequel to his blockbuster film 'Animal' is in the works, exciting fans worldwide. Speaking from India, Kapoor expressed his hope to visit Japan for the sequel's release. Reports suggest shooting begins mid-2027, with director Sandeep Reddy Vanga returning.",
-    "img": "https://static.toiimg.com/photo/msid-128380150,imgsize-28594.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-teases-animal-park-update-in-special-message-to-japanese-fans-watch/articleshow/128380126.cms",
-    "time": "2026-02-15T11:20:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priya Bakshi alleges auto driver in Bandra took unfamiliar route",
-    "desc": "Model-actress Priya Bakshi (JNU) shared a scary Instagram video from Mumbai’s Bandra, alleging an auto driver took an unknown route, ignored her pleas to stop, and said, \"Yeh hamara area hai.\" She called out regional bias, urging inclusivity.",
-    "img": "https://static.toiimg.com/photo/msid-128380696,imgsize-35598.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hum-north-indians-ko-trash-priya-bakshi-alleges-auto-driver-in-bandra-took-unfamiliar-route-ignored-her-requests/articleshow/128380696.cms",
-    "time": "2026-02-15T11:13:49.000Z"
   },
   {
     "cat": "Sports",
@@ -457,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/global-cues-ai-disruption-fears-to-steer-markets-this-week-analysts/articleshow/128380413.cms",
     "time": "2026-02-15T11:08:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Owaisi’s big charge on Centre over SIR, says BJP using EC to ‘snatch citizenship’",
-    "desc": "Asaduddin Owaisi alleged the BJP-led government is trying to \"snatch citizenship rights\" through the special intensive revision of electoral rolls, claiming it will be conducted in Telangana and Maharashtra. He also condemned the alleged harassment of a Muslim bun vendor by YouTubers, demanding action against them.",
-    "img": "https://static.toiimg.com/photo/msid-128380466,imgsize-1141894.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/owaisis-big-charge-on-centre-over-sir-says-bjp-using-ec-to-snatch-citizenship/articleshow/128380281.cms",
-    "time": "2026-02-15T11:05:35.000Z"
   },
   {
     "cat": "Entertainment",
@@ -522,15 +549,6 @@ const newsData_en = [
     "time": "2026-02-15T10:16:17.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Katy-Justin KISS on first Valentine's together- WATCH",
-    "desc": "Pop sensation Katy Perry and former Canadian Prime Minister Justin Trudeau ignited social media with a romantic Valentine's Day dinner. Spotted sharing a kiss at a swanky restaurant, the couple's public display of affection, captured in a viral video, fuels speculation about their deepening relationship. This intimate moment follows several public appearances since they went public in October.",
-    "img": "https://static.toiimg.com/photo/msid-128379121,imgsize-40238.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/katy-perry-and-justin-trudeau-pack-on-the-pda-on-first-valentines-day-celebration-as-a-couple-watch/articleshow/128377920.cms",
-    "time": "2026-02-15T10:15:04.000Z"
-  },
-  {
     "cat": "Business",
     "title": "FPIs infuse Rs 19,675 crore in early February after months of heavy selling",
     "desc": "Foreign investors injected Rs 19,675 crore into Indian stocks in early February, reversing months of outflows. This surge, driven by a US-India trade deal and easing global economic worries, signals renewed optimism. Despite this, overall 2025 flows remain weak, with significant net outflows recorded year-to-date.",
@@ -574,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/18000-indians-12000-pakistanis-and-2000-sri-lankan-police-the-scale-of-the-india-pakistan-showdown/articleshow/128377821.cms",
     "time": "2026-02-15T09:24:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Did Salman Khan get Rajpal Yadav out of jail?",
-    "desc": "A viral throwback video of Rajpal Yadav praising Salman Khan has fueled speculation about the superstar's alleged help in the actor's ongoing Rs 9 crore debt case. While Yadav remains in Tihar Jail, his manager confirmed that half the debt has been settled, with negotiations ongoing.",
-    "img": "https://static.toiimg.com/photo/msid-128376473,imgsize-38650.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fact-check-did-salman-khan-get-rajpal-yadav-out-of-tihar-jail-in-rs-9-crore-debt-case-viral-video-sparks-buzz/articleshow/128376455.cms",
-    "time": "2026-02-15T09:07:00.000Z"
   },
   {
     "cat": "World",
@@ -637,15 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/south-africa-new-zealand-t20-world-cup-ahmedabad-updates-february-14-2026/article70632376.ece",
     "time": "2026-02-15T04:21:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya is the Atum of India cricket",
-    "desc": "Hardik Pandya’s journey mirrors self-creation — rising from obscurity to become India’s white-ball MVP while battling scrutiny, injuries and perception. Backed by mentors like Kieron Pollard, he has turned chaos into control, proving his resilience repeatedly. Beyond the flash lies a cricketer defined by reinvention and an unrelenting will to succeed.",
-    "img": "https://static.toiimg.com/photo/msid-128370823,imgsize-25024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/hardik-pandya-is-the-atum-of-india-cricket/articleshow/128370379.cms",
-    "time": "2026-02-15T04:02:00.000Z"
   },
   {
     "cat": "Sports",
