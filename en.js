@@ -1,12 +1,147 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Domestic tourism in Kerala soars, foreign arrivals remain tepid",
+    "desc": "Domestic tourism in Kerala reached a record 2.58 crore visitors in 2025, with local travelers accounting for 2.5 crore, marking a 12.46% increase from the previous year. In contrast, foreign tourist arrivals remain sluggish at 8.2 lakh, still below pre-pandemic levels.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/domestic-tourism-in-kerala-soars-foreign-arrivals-remain-tepid/article70639623.ece",
+    "time": "2026-02-16T15:25:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Breaking boundaries: Director R. Gowtham brings Tamil independent cinema to Berlin",
+    "desc": "In this interview, Tamil filmmaker R. Gowtham opens up about creating his debut film with friends, poetry, instinct and zero industry backing. From Berlin, he reflects on community, doubt, and the unpredictable journey that brought him here.",
+    "img": "https://th-i.thgim.com/public/incoming/w6ts97/article70639645.ece/alternates/LANDSCAPE_1200/FINAL%20THUMB.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-breaking-boundaries-director-r-gowtham-brings-tamil-independent-cinema-to-berlin/article70639648.ece",
+    "time": "2026-02-16T15:02:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NSS, SNDP hopeful of Kerala govt. ‘upholding Sabarimala custom’",
+    "desc": "CPI(M) State secretary M.V. Govindan says the party’s line on the entry of women of all ages to Sabarimala does not preclude the government from taking an informed decision on the issue. Leader of the Opposition V.D. Satheesan dares the government to withdraw the SC affidavit backing women’s entry to the temple",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/nss-sndp-hopeful-of-kerala-govt-upholding-sabarimala-custom/article70638768.ece",
+    "time": "2026-02-16T14:31:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Drunk man naps on track as train stops inches away",
+    "desc": "A man, reportedly intoxicated, was found sleeping on a railway track at Mumbai's Chhatrapati Shivaji Maharaj Terminus, halting Harbour Line services and delaying thousands of commuters. The incident, captured in a viral video, saw the train stop just in time, preventing a tragedy. Operations resumed after the man was safely removed.",
+    "img": "https://static.toiimg.com/photo/msid-128427197,imgsize-956632.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/watch-drunk-man-naps-on-track-as-train-stops-inches-away/articleshow/128425908.cms",
+    "time": "2026-02-16T14:28:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "H Vinoth voices distress over lack of support for 'Jana Nayagan'",
+    "desc": "Director H. Vinoth expressed emotional distress over the lack of industry support for his delayed Vijay starrer, 'Jana Nayagan'. Unlike other films tackling social issues, Vinoth feels isolated, stating no one would defend him if he spoke out. Censor issues have pushed the film's release, disappointing fans eagerly awaiting Vijay's final movie before his political career.",
+    "img": "https://static.toiimg.com/photo/msid-128427092,imgsize-56354.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-director-h-vinoth-turns-emotional-over-the-lack-of-support-amid-the-delay-of-the-vijay-starrer-if-i-speak-/articleshow/128427092.cms",
+    "time": "2026-02-16T14:27:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Delhi High Court restrains Ilaiyaraaja in the copyright case",
+    "desc": "The Delhi High Court has temporarily stopped legendary composer Ilaiyaraaja from using or licensing songs from Saregama's extensive catalogue. This crucial interim order follows Saregama's copyright suit, citing Ilaiyaraaja's alleged ownership claims over works transferred to the company via agreements from 1976 to 2001. The court emphasized the company's potential irreparable loss, with further hearings set for April.",
+    "img": "https://static.toiimg.com/photo/msid-128426935,imgsize-58578.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/delhi-high-court-restrains-ilaiyaraaja-in-the-copyright-case-filed-by-saregama-next-hearing-in-april/articleshow/128426935.cms",
+    "time": "2026-02-16T14:21:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bollywood celebs unite at Anand Sagar’s prayer meet",
+    "desc": "Filmmaker Sudhir Mishra has announced that Manoj Bajpayee will play Mahatma Gandhi in his upcoming biopic. The film, likely to begin shooting in Kolkata this September, will explore key phases of Gandhi’s life. Known for his intense performances, Bajpayee’s casting hints at a thoughtful, character-driven portrayal.",
+    "img": "https://static.toiimg.com/photo/msid-128426787,imgsize-27920.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jaya-bachchan-hema-malini-vidhu-vinod-chopra-poonam-dhillon-and-other-celebs-unite-at-anand-sagars-prayer-meet-pics/articleshow/128426787.cms",
+    "time": "2026-02-16T14:17:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India-France Annual Defence Dialogue to be held in Bengaluru on February 17",
+    "desc": "Defence Minister Rajnath Singh will co-chair the meeting with Minister for Armed Forces and Veterans Affairs of France Catherine Vautrin during which they will review the bilateral defence cooperation, with focus on expanding industrial collaboration",
+    "img": "https://th-i.thgim.com/public/incoming/mw6x5a/article70639340.ece/alternates/LANDSCAPE_1200/20260216201L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/india-france-annual-defence-dialogue-to-be-held-in-bengaluru-on-february-17/article70638766.ece",
+    "time": "2026-02-16T13:49:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PCB inspections reveal gaps in wastewater treatment in residential and commercial units",
+    "desc": "The violations were detected as part of the first phase of the on-site inspections carried out by the board after the Kochi Corporation submitted a list of over 470 units within its limits that lacked adequate wastewater management facilities",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/pcb-inspections-reveal-gaps-in-wastewater-treatment-in-residential-and-commercial-units/article70639015.ece",
+    "time": "2026-02-16T13:37:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Hyderabad Police caution public against rise in online frauds during Ramzan",
+    "desc": "According to the advisory, fraudsters circulate fake Zakat and charity links through WhatsApp messages, social media pages and QR codes, claiming to collect funds for orphanages, mosque construction, medical emergencies, disaster relief and Ramzan food distribution",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/hyderabad-police-caution-public-against-rise-in-online-frauds-during-ramzan/article70638652.ece",
+    "time": "2026-02-16T13:27:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Jacks stars as England seal Super Eights spot with 24-run win vs Italy",
+    "desc": "England defeated Italy by 24 runs to reach the Super Eights of the ICC Men's T20 World Cup. Will Jacks starred with a blistering unbeaten 53. England posted 202 for 7. Italy fought back bravely in their chase but were bowled out for 178. Sam Curran and Jamie Overton took three wickets each. England's victory confirmed their progression.",
+    "img": "https://static.toiimg.com/photo/msid-128425137,imgsize-108202.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/will-jacks-stars-as-england-seal-super-eights-spot-with-24-run-win-vs-italy/articleshow/128425203.cms",
+    "time": "2026-02-16T13:26:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Gussa chodh do bhai': Surya's message to Kuldeep Yadav",
+    "desc": "India secured a commanding 61-run victory over Pakistan in the T20 World Cup, clinching their spot in the Super Eight. Despite the dominant win, an animated exchange between Hardik Pandya and Kuldeep Yadav sparked social media debate, quickly diffused by captain Suryakumar Yadav's heartwarming gesture.",
+    "img": "https://static.toiimg.com/photo/msid-128425190,imgsize-75392.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/gussa-chodh-do-bhai-suryakumar-yadavs-message-to-kuldeep-yadav-goes-viral/articleshow/128424976.cms",
+    "time": "2026-02-16T13:25:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chief Justice of Kerala HC highlights role of legal literacy clubs in shaping responsible citizens",
+    "desc": "Soumen Sen was inaugurating a free medical camp and an interactive session with children, jointly organised by the Kottayam District Legal Services Authority and the Legal Literacy Club of Kumarakom Government Vocational Higher Secondary School",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/chief-justice-of-kerala-hc-highlights-role-of-legal-literacy-clubs-in-shaping-responsible-citizens/article70638822.ece",
+    "time": "2026-02-16T13:17:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'He bailed the team out': Gavaskar reveals turning point of India vs Pakistan clash",
+    "desc": "Sunil Gavaskar praised Suryakumar Yadav's astute match awareness following India's dominant T20 World Cup win over Pakistan. Gavaskar highlighted Suryakumar's crucial innings against both the USA and Pakistan, emphasizing his ability to anchor the batting and stabilize the innings under pressure. This strategic approach proved vital in securing India's victory and a Super 8 spot.",
+    "img": "https://static.toiimg.com/photo/msid-128423855,imgsize-120814.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/he-bailed-the-team-out-sunil-gavaskar-reveals-turning-point-of-india-vs-pakistan-clash/articleshow/128423931.cms",
+    "time": "2026-02-16T12:52:42.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "From 'chaiwala' to 'Rahulian': Mani Shankar Aiyar returns and Congress ducks for cover, again",
     "desc": "Mani Shankar Aiyar has once again embarrassed the Congress with his remarks, first praising Kerala CM Pinarayi Vijayan and then dismissing the party's leadership, including spokesperson Pawan Khera. The Congress has distanced itself from Aiyar, stating he has no connection with the party. This incident follows a pattern of Aiyar's controversial statements that have previously aided the BJP.",
     "img": "https://static.toiimg.com/photo/msid-128423317,imgsize-1182315.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/from-chaiwala-to-rahulian-mani-shankar-aiyar-returns-yet-again-congress-ducks-for-cover-rahul-gandhi-pawan-khera-kc-venugopal/articleshow/128422645.cms",
     "time": "2026-02-16T12:33:31.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran meets U.N. nuclear watchdog in Geneva ahead of a second round of U.S. talks",
+    "desc": "U.S. President Donald Trump initially threatened to take military action over Iran’s bloody crackdown on nationwide protests last month but then shifted to a pressure campaign in recent weeks to try to get Tehran to make a deal over its nuclear program",
+    "img": "https://th-i.thgim.com/public/incoming/bk2lab/article70638851.ece/alternates/LANDSCAPE_1200/EU_Iran_Talks_23508.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-meets-un-nuclear-watchdog-in-geneva-ahead-of-a-second-round-of-us-talks/article70638488.ece",
+    "time": "2026-02-16T12:33:15.000Z"
   },
   {
     "cat": "Politics",
@@ -45,15 +180,6 @@ const newsData_en = [
     "time": "2026-02-16T12:14:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "T.N. Economic Survey 2026: Several key areas of State’s agriculture sector require immediate attention, finds Planning Commission",
-    "desc": "Stating that since 2001-02, Tamil Nadu lost approximately two lakh hectares of net sown area and witnessed a rise in fallow land, the SPC pointed to underutilised cultivable land, while emphasing the need for policies to reclaim and optimise fallow lands",
-    "img": "https://th-i.thgim.com/public/incoming/we0jdz/article70638581.ece/alternates/LANDSCAPE_1200/9712_7_2_2026_14_12_42_4__DSC8050.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/economic-survey-several-key-areas-of-tamil-nadus-agri-sector-require-immediate-attention-planning-commission/article70638306.ece",
-    "time": "2026-02-16T12:00:10.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "After India debacle, Babar Azam and Shaheen Afridi set to be dropped",
     "desc": "Pakistan is reportedly set to bench senior players Babar Azam and Shaheen Shah Afridi for their T20 World Cup match against Namibia following their poor performance against India. PCB Chairman Mohsin Naqvi expressed dissatisfaction, leading the management to consider changes to test other players and potentially end the duo's campaign.",
@@ -90,15 +216,6 @@ const newsData_en = [
     "time": "2026-02-16T11:41:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Supreme Court asks petitioners to approach Gauhati High Court",
-    "desc": "A three-judge Supreme Court Bench headed by Chief Justice of India Surya Kant found ‘no good reason’ to entertain pleas for ‘hate speech’ FIR against Assam CM; asked petitioners to approach the State High Court despite the petitioners pointing out that Himanta Biswa Sarma is the “boss of Assam”",
-    "img": "https://th-i.thgim.com/public/incoming/nq3pyj/article70638019.ece/alternates/LANDSCAPE_1200/20260211071L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/assam/supreme-court-finds-no-good-reason-to-entertain-pleas-for-hate-speech-fir-against-assam-cm/article70637930.ece",
-    "time": "2026-02-16T11:31:59.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Swift rumors draw fans to Kelce at Pebble Beach",
     "desc": "Rumors of Taylor Swift gracing the AT&T Pebble Beach Pro-Am with her presence ignited a frenzy, driving ticket sales through the roof and prompting stricter security protocols. While she ultimately did not make an appearance, the anticipation surrounding her expected attendance brought fans flocking to the event to support her fiancé, Travis Kelce.",
@@ -126,15 +243,6 @@ const newsData_en = [
     "time": "2026-02-16T11:20:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Older than London’s Big Ben, Palayamkottai’s historic clock is set to chime again",
-    "desc": "“Big Ben was installed in 1859, whereas this clock was manufactured in 1854 and installed in 1855. It was made by John Moore & Sons of Clerkenwell, a renowned London-based clockmaker,” said antique clock collector Robert Kennedy",
-    "img": "https://th-i.thgim.com/public/sci-tech/technology/34m18l/article70637649.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-16%20at%2010.50.18.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/older-than-londons-big-ben-palayamkottais-historic-clock-is-set-to-chime-again/article70637581.ece",
-    "time": "2026-02-16T11:19:33.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'If we don't make it to the next round': Rashid Khan breaks silence after UAE win",
     "desc": "Afghanistan secured a crucial five-wicket victory against UAE, keeping their Super Eights aspirations alive. Despite the win, qualification hinges on other results, with captain Rashid Khan expressing hope for a positive mindset in their final group match. Player of the Match Azmatullah Omarzai's all-round performance was pivotal, while UAE captain Muhammad Waseem felt his team fell short with the bat.",
@@ -142,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/if-we-dont-make-it-to-the-next-round-rashid-khan-breaks-silence-after-uae-win/articleshow/128420534.cms",
     "time": "2026-02-16T11:16:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "West Bengal CPI(M) State committee member Pratik Ur Rahaman resigns from party",
-    "desc": "A CPI(M) office-bearer said the party leadership is yet to take a decision on his resignation. Mr. Rahaman was pitted against TMC leader Abhishek Banerjee from the Diamond Harbour Lok Sabha seat in the 2024 general election",
-    "img": "https://th-i.thgim.com/public/incoming/nr7hz6/article70638554.ece/alternates/LANDSCAPE_1200/80717_9_5_2024_19_6_32_3_LOKPOLLNOMINATIONFILLING3.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cpim-state-committee-member-pratik-ur-rahaman-resigns-from-party/article70638472.ece",
-    "time": "2026-02-16T11:06:05.000Z"
   },
   {
     "cat": "Entertainment",
@@ -235,15 +334,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Wendy Osefo opens up about the night she was arrested last year",
-    "desc": "Wendy Osefo, a prominent figure on Real Housewives of Potomac, has finally opened up about the distressing experience following last year's insurance fraud arrest involving her and her husband Edward. She recounted the harrowing situation as a horrifying chapter that profoundly affected their three young children.",
-    "img": "https://static.toiimg.com/photo/msid-128417316,imgsize-41794.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/wendy-osefo-opens-up-about-last-years-arrest-says-she-was-just-worried-about-the-kids/articleshow/128417316.cms",
-    "time": "2026-02-16T09:55:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Rajpal Yadav gets interim bail in cheque bounce case",
     "desc": "Actor Rajpal Yadav has been granted interim bail by the Delhi High Court in cheque bounce cases after depositing Rs 1.5 crore. The court suspended his sentence, allowing him to remain out of custody until March 18, with conditions including a personal bond and surety. His wife expressed gratitude for industry support amidst speculation about debt repayment.",
     "img": "https://static.toiimg.com/photo/msid-128417473,imgsize-59864.cms",
@@ -280,24 +370,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Gained 9-10 kilos'",
-    "desc": "Rajkummar Rao addressed social media speculation about his recent appearance, revealing a significant physical transformation for his upcoming biopic on Ujjwal Nikam. He gained 9-10 kilos for the role and is now preparing to shed the weight for the Sourav Ganguly biopic. Rao emphasized his dedication to achieving roles through hard work rather than prosthetics.",
-    "img": "https://static.toiimg.com/photo/msid-128416708,imgsize-22374.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajkummar-rao-breaks-silence-on-speculations-around-his-old-look-reveals-he-gained-9-10-kilos-by-eating-pizzas-parathas-for-ujjwal-nikam-biopic/articleshow/128416629.cms",
-    "time": "2026-02-16T09:35:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shanaya Kapoor gets emotional about response to Tu Yaa Main",
-    "desc": "Shanaya Kapoor thanked fans for loving her role in 'Tu Yaa Main' (Feb 13 release), her second film—a The Pool remake. She shared BTS photos with Adarsh Gourav and reflected on Instagram how it boosted her low confidence, calling character Avani a \"BADASS.\"",
-    "img": "https://static.toiimg.com/photo/msid-128416766,imgsize-44208.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shanaya-kapoor-gets-emotional-about-response-to-tu-yaa-main-film-came-when-i-didnt-have-the-most-confidence-/articleshow/128416766.cms",
-    "time": "2026-02-16T09:33:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Mumbai Police nab key accused in Rohit Shetty firing; MCOCA invoked",
     "desc": "The Mumbai Police Crime Branch has successfully detained the lead gunman connected to the recent shooting incident at the home of filmmaker Rohit Shetty in Rajasthan, alongside five other individuals. With this latest roundup, the tally of arrests reaches eleven, with further actions taken in Uttar Pradesh.",
     "img": "https://static.toiimg.com/photo/msid-128416494,imgsize-757067.cms",
@@ -315,15 +387,6 @@ const newsData_en = [
     "time": "2026-02-16T09:29:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kelce golf shot hits fan in Pebble Beach",
-    "desc": "Kansas City Chiefs star Travis Kelce showcased his sportsmanship at the AT&T Pebble Beach Pro-Am by rushing to assist a fan struck by an errant golf shot. He made sure she was alright and graciously signed an autograph, pausing his game for the heartfelt moment.",
-    "img": "https://static.toiimg.com/photo/msid-128416507,imgsize-41554.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/travis-kelce-accidently-hits-fan-with-golf-ball-at-pebble-beach-rushes-over-to-check-on-her-you-alright/articleshow/128416507.cms",
-    "time": "2026-02-16T09:27:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Meet Team India's silent assassin who killed Pakistan's chase",
     "desc": "Axar Patel's intelligent bowling, particularly his variations in length, proved crucial in India's T20 World Cup victory over Pakistan. His dismissal of Usman Khan and Babar Azam stifled Pakistan's chase. Patel, a flexible all-rounder, prioritizes team needs over batting order, showcasing adaptability both with ball and bat.",
@@ -331,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/meet-team-indias-silent-assassin-who-killed-pakistans-chase/articleshow/128416394.cms",
     "time": "2026-02-16T09:27:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC-ST dilemma: Karnataka’s Rohith Vemula Act against caste bias on college campus stuck in red tape",
-    "desc": "The debate on the proposed law has again come to the forefront after the Supreme Court of India stayed the UGC (Promotion of Equity in Higher Education Institutions) Regulations 2026, followed by agitations both for and against the regulations",
-    "img": "https://th-i.thgim.com/public/incoming/a3rqqi/article70637360.ece/alternates/LANDSCAPE_1200/PTI08_26_2024_000126A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnatakas-rohith-vemula-act-stuck-in-red-tape-while-proposed-ugc-regulations-on-caste-discrimination-on-college-campus-stayed-by-supreme-court/article70635418.ece",
-    "time": "2026-02-16T09:09:40.000Z"
   },
   {
     "cat": "Politics",
@@ -360,15 +414,6 @@ const newsData_en = [
     "time": "2026-02-16T09:07:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Why fewer youths from Punjab are joining the armed forces",
-    "desc": "As fewer youths from Punjab join the armed forces, the residents of Nathowal, known locally as ‘faujian da pind’ (village of soldiers) in Ludhiana district, lay out the reasons. Agnipath’s uncertainty, drug fears, and the lure of foreign earnings, are pushing parents to send children away from home, creating a generation that’s dreaming beyond regimental traditions",
-    "img": "https://th-i.thgim.com/public/videos/1ugjx0/article70637515.ece/alternates/LANDSCAPE_1200/pubjab%203.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/why-fewer-youths-from-punjab-are-joining-the-armed-forces-the-hindu-spotlight/article70637521.ece",
-    "time": "2026-02-16T08:48:41.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How is U.S.-India trade deal being tweaked?",
     "desc": "What are the areas that have come under scrutiny? Has India stopped buying Russian oil as Donald Trump has claimed? What is happening in the agricultural sector? Has the reference to pulses been removed from the draft? When is the formal agreement expected to be signed?",
@@ -385,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/new-rail-tech-policy-in-works-india-eyes-major-boost-for-domestic-manufacturing/articleshow/128414497.cms",
     "time": "2026-02-16T08:26:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Court asks to pay Rs 1.5 cr for bail",
-    "desc": "Actor Rajpal Yadav has been granted interim bail by the Delhi High Court, with the condition to pay Rs 1.5 crore by 3 pm today. His wife expressed gratitude for the industry's support amidst his legal troubles concerning cheque bounce cases.",
-    "img": "https://static.toiimg.com/photo/msid-128414422,imgsize-24432.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-cheque-bounce-case-hearing-court-gives-time-till-3pm-to-the-actor-to-pay-rs-1-5-crore-to-grant-bail/articleshow/128414434.cms",
-    "time": "2026-02-16T08:21:14.000Z"
   },
   {
     "cat": "Sports",
@@ -450,15 +486,6 @@ const newsData_en = [
     "time": "2026-02-16T07:26:43.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Carlsen clinches FIDE Freestyle Chess World Championship 2026",
-    "desc": "Magnus Carlsen won the 2026 FIDE Freestyle Chess World Championship in Germany, defeating Fabiano Caruana 2.5–1.5. A crucial comeback win in game three helped him secure the title, clinched with a draw in the final game. It is the first FIDE-recognised Freestyle world title and Carlsen’s 21st overall. Abdusattorov finished third, and the top three qualified for 2027.",
-    "img": "https://static.toiimg.com/photo/msid-128411734,imgsize-57752.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/another-world-title-magnus-carlsen-clinches-fide-freestyle-chess-world-championship-2026/articleshow/128411369.cms",
-    "time": "2026-02-16T07:04:21.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "9-judge SC bench to hear pleas on discrimination against women at religious places",
     "desc": "A nine-judge Supreme Court bench will hear pleas concerning women's religious entry rights, including the Sabarimala Temple case, starting April 7, 2026. The court will examine the intersection of essential religious practices, equality, and constitutional morality across various faiths. This hearing follows a 2018 ruling that permitted women of all ages into the Sabarimala temple.",
@@ -504,15 +531,6 @@ const newsData_en = [
     "time": "2026-02-16T06:04:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "An olive green recession",
-    "desc": "As fewer youths from Punjab join the armed forces, the residents of Nathowal, known locally as ‘faujian da pind’ (village of soldiers) in Ludhiana district, lay out the reasons. They tell Vikas Vasudeva that Agnipath’s uncertainty, drug fears, and the lure of foreign earnings, are pushing parents to send children away from home, creating a generation that’s dreaming beyond regimental traditions",
-    "img": "https://th-i.thgim.com/public/incoming/y07ji4/article70634981.ece/alternates/LANDSCAPE_1200/PUNJAB%20SPOTLIGHT%20VIKAS%20VASUDEVA%20ARMY%20RECRUITMENT%20DECLINE%206.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/punjab/spotlight-punjab-an-olive-green-recession/article70634980.ece",
-    "time": "2026-02-16T05:55:54.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Is gold set to exhibit a bullish bias in the near term? Top factors to watch out for",
     "desc": "Gold prices have pulled back from recent highs, but there is an underlying bullish bias, says Manav Modi, Senior Analyst, Commodity Research at Motilal Oswal Financial Services Ltd. Below is his outlook for gold prices today and this week, along with top factors that will influence the movement of the yellow metal:",
@@ -522,24 +540,6 @@ const newsData_en = [
     "time": "2026-02-16T05:36:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Most professors of practice hired in Tamil Nadu followed by Maharashtra, Gujarat: UGC Data",
-    "desc": "According to the data, 1,841 PoPs have been hired by 349 HEIs so far, the maximum of them being in Tamil Nadu (395); while 193 PoPs have been hired in Maharashtra (193), Gujarat and Karnataka have appointed 179 and 170 professionals, respectively",
-    "img": "https://th-i.thgim.com/public/incoming/eynuij/article70637232.ece/alternates/LANDSCAPE_1200/IMG_University_Grant_Com_2_1_VCCB5B96.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/education/most-professors-of-practice-hired-in-tamil-nadu-followed-by-maharashtra-gujarat-ugc-data/article70635457.ece",
-    "time": "2026-02-16T04:34:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Why is it not paying tax?': Priyank Kharge levels ‘money laundering racket’ charge against RSS",
-    "desc": "Karnataka Minister Priyank Kharge has accused the Rashtriya Swayamsevak Sangh of engaging in money laundering and questioned its sources of income. He demanded that the RSS, an unregistered organization, be held accountable and pay taxes like other citizens and entities under the law and Constitution.",
-    "img": "https://static.toiimg.com/photo/msid-128405608,imgsize-545255.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/guru-dakshina-means-flag-priyank-kharge-levels-money-laundering-racket-charge-against-rss/articleshow/128405383.cms",
-    "time": "2026-02-16T04:27:47.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Are banks open in United States on February 16?",
     "desc": "As the United States observes Presidents Day on Monday, February 16, federal holidays mean many services will be closed. Banks, government offices, and post offices will shut down, with no mail delivery. However, digital banking and ATMs remain accessible, and most retail stores and restaurants will operate normally.",
@@ -547,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-presidents-day-2026-are-banks-open-in-united-states-on-february-16/articleshow/128405565.cms",
     "time": "2026-02-16T04:19:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How Pakistan can crash out of T20 World Cup after India defeat",
-    "desc": "Pakistan’s 61-run loss to India has put their T20 World Cup hopes at risk, with elimination possible depending on final Group A results. India have qualified for the Super Eights, while Pakistan sit third. Ishan Kishan’s 77 powered India to 175, before Pakistan collapsed for 114. Pakistan must beat Namibia to qualify for THE Super 8s.",
-    "img": "https://static.toiimg.com/photo/msid-128405427,imgsize-293642.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-pak-how-pakistan-can-crash-out-of-t20-world-cup-after-india-defeat/articleshow/128404627.cms",
-    "time": "2026-02-16T03:40:16.000Z"
   },
   {
     "cat": "Sports",
@@ -574,24 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/world/middle-east/what-is-singapore-india-gulf-subsea-cable-system-that-uaes-du-is-investing-in-for-high-data-connectivity/articleshow/128381872.cms",
     "time": "2026-02-16T03:14:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Gujarat, Maharashtra, UP lead rooftop solar figures",
-    "desc": "Gujarat, Maharashtra, and Uttar Pradesh are leading in rooftop solar installations. Over 23 lakh systems have been installed nationwide under the PM Surya Ghar scheme. The government aims to install one crore systems by 2027. Monthly installations have significantly increased since the scheme's launch. Financing and awareness remain key areas for improvement.",
-    "img": "https://static.toiimg.com/photo/msid-128409399,imgsize-958952.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/gujarat-maharashtra-up-lead-rooftop-solar-figures/articleshow/128403876.cms",
-    "time": "2026-02-16T02:42:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Election Commission suspends 7 West Bengal officials over ‘serious misconduct’ linked to SIR",
-    "desc": "The Election Commission of India has suspended seven officials in West Bengal for alleged serious misconduct and dereliction of duty. These Assistant Electoral Registration Officers, posted across Murshidabad, South 24 Parganas, West Medinipur, and Jalpaiguri districts, face immediate disciplinary proceedings. The Commission has directed the Chief Secretary to initiate action without delay and provide an update.",
-    "img": "https://static.toiimg.com/photo/msid-128403369,imgsize-68362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/election-commission-suspends-7-west-bengal-officials-over-serious-misconduct-linked-to-sir/articleshow/128403390.cms",
-    "time": "2026-02-16T02:22:45.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/experts-underscore-the-importance-of-extracting-only-relevant-data/article70628382.ece",
     "time": "2026-02-13T19:35:16.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "‘Online education is one of the biggest finds of the last decade’",
+    "desc": "There is a lot of discussion on how online education will change and if it will entirely replace physical classroom-based education. But both can co-exist and supplement and complement each other, says Kadhambari S. Viswanathan, assistant vice-president, Vellore Institute of Technology",
+    "img": "https://th-i.thgim.com/public/incoming/ad3gh5/article70628931.ece/alternates/LANDSCAPE_1200/BVR_8582.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/online-education-is-one-of-the-biggest-finds-of-the-last-decade/article70628488.ece",
+    "time": "2026-02-13T19:34:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "After the triumph, the travails: the big step up from the Under-19 stage",
+    "desc": "Graduating from age-group cricket to the senior game is fraught with challenges. For India’s all-conquering Under-19 players, the World Cup win — while deserving of rich praise — is not an end in itself. The arduous journey of fulfilling their potential, without losing focus, has just begun",
+    "img": "https://th-i.thgim.com/public/incoming/u4h6jx/article70630070.ece/alternates/LANDSCAPE_1200/image%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/vaibhav-suryavanshi-next-sachin-tendulkar-vinod-kambli-lesson-ayush-mhatre-indian-cricket-prodigy/article70629845.ece",
+    "time": "2026-02-13T18:23:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Still have my police job, but I’ve been on sports leave for a long time: GM Salem Saleh",
+    "desc": "A cop and a world-class Grandmaster, Saleh has enforced safety rules in the UAE and outmanoeuvred top players on the board. He speaks in this chat about what got him hooked to chess tactics, how the game has grown in his country, why he was surprised by Gukesh winning the World title and when an amateur who had learnt chess off YouTube startled him in a library",
+    "img": "https://th-i.thgim.com/public/incoming/jwpa6n/article70630049.ece/alternates/LANDSCAPE_1200/saleh2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/salem-saleh-uae-grandmaster-dubai-police-interview-world-chess/article70629865.ece",
+    "time": "2026-02-13T18:19:36.000Z"
   }
 ];

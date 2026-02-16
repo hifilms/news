@@ -1,12 +1,48 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "পাকিস্তানে ভারতীয় ১ টাকার 'দাম' কত হয়ে যাবে জানেন...? 'উত্তর' চমকে দেবে, শিওর!",
+    "desc": "আচ্ছা বলুন তো, আপনি কি কখনও ভেবে দেখেছেন যে পাকিস্তানে গেলে ভারতের ১ টাকার মূল্য কত হয়ে যেতে পারে? অথবা ১০০ ভারতীয় টাকার দাম কত হতে পারে পাকিস্তানের বাজারে? আসুন আজ এই পোস্টে সে সম্পর্কে বিস্তারিত জেনে নেওয়া যাক।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/pakistan-2026-02-c9e458967ce7899ff3ab4f2938cc612e-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/pakistani-currency-vs-indian-currency-do-you-know-what-will-be-price-of-indian-1-rupee-in-pakistan-market-rate-will-shock-you-for-sure-know-how-much-indian-one-rupee-cost-in-pakistan-sanj-2543429.html",
+    "time": "2026-02-16T15:11:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "অভিষেক বন্দ্যোপাধ্যায়-কে কেন ধন্যবাদ জানালেন ইন্ডিয়ান আইডল প্রতিযোগী অঙ্কিতা",
+    "desc": "অঙ্কিতা সোশ্যাল মিডিয়ায় ধন্যবাদ জানায় অভিষেক বন্দ্যোপাধ্যায়কে৷ কারণ এভাবে অভিষেক বন্দ্যোপাধ্যায়ের সহায়তা ছাড়া কোনওভাবেই দুবাই পৌঁছতে পারত না অঙ্কিতা ও তাঁর মা৷ আপাতত ইন্ডিয়ান আইডলের শেষ কয়েকটি রাউন্ডের জন্য তৈরি হচ্ছে অঙ্কিতা৷ নিজের সেরা পারফরম্যান্স দিতে চলেছে সে৷ বাংলার নাম উজ্জ্বল করতে চলেছে৷ অঙ্কিতা বলছে, বাংলায় ফিরে এসে অবশ্যই অভিষেক বন্দ্যোপাধ্যায়ের সঙ্গে দেখা করবে এবং তাঁকে ধন্যবাদ জানাবে৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Web-2026-02-16T201023.340-2026-02-3eb08f310faeb6f9d53a0229fdc0ad95.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/entertainment/tmc-mp-abhishek-banerjee-helps-indian-idol-participant-from-bengal-to-get-passport-to-go-to-dubai-pbd-2543712.html",
+    "time": "2026-02-16T14:42:37.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "বাজেট ফোনের রাজা! ৬০০০mAh ব্যাটারি ও বড় ডিসপ্লে-সহ বাজারে এল Samsung Galaxy F70e, জানুন দাম ও স্পেসিফিকেশন",
+    "desc": "Samsung এই সপ্তাহে ভারতীয় বাজারে তাদের নতুন F-সিরিজ বাজেট ফোন Galaxy F70e লঞ্চ করেছে। বড় ডিসপ্লে, মিডিয়াটেক ডাইমেনসিটি প্রসেসর এবং শক্তিশালী ব্যাটারি ব্যাকআপের সঙ্গে এই ফোনে থাকছে দীর্ঘকালীন সফ্টওয়্যার আপডেটের প্রতিশ্রুতি। দেখে নিন ফিচার ও দাম",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/samsung-galaxy-f70e-2026-02-4d7a943789462ce8136ea85ddd9595c0-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/technology/samsung-galaxy-f70e-launched-in-india-featuring-mediatek-dimensity-6300-chipset-50mp-camera-6000mah-battery-know-price-tc-ac-aa-2534126.html",
+    "time": "2026-02-16T13:53:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "শাহজাহানপুর গ্রামে কোটি কোটি টাকার সম্পত্তি রাজপালের, তাও কেন ঋণের ফাঁদে আইনের জালে? উঠছে 'বড়' প্রশ্ন",
+    "desc": "৯ কোটি টাকার চেক বাউন্স মামলায় বড় স্বস্তি পেলেন অভিনেতা রাজপাল যাদব। আদালতের নির্দেশ মেনে মোট আড়াই কোটি টাকা জমা পড়তেই রাজপাল যাদবের জামিন মঞ্জুর হল সোমবার। দিল্লি হাইকোর্টে জামিন পেলেন বলিউডের জনপ্রিয় অভিনেতা। তবে গ্রামে তাঁর নাকি প্রচুর সম্পত্তি, তারপরও এমন আইনি জটিলতায় কেন পড়লেন অভিনেতা, উঠছে প্রশ্ন",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/raj-2026-02-2ad514ec132dd2185a6600947ace40ce-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/shahjahanpur-5-crore-debt-and-crores-of-assets-actor-rajpal-yadav-faces-moral-questions-al18-pbd-2543427.html",
+    "time": "2026-02-16T13:48:58.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "\"অভিষেকদাকে ধন্যবাদ, দুবাই থেকে ফিরে দেখা করব\", পাসপোর্ট পেয়ে ইন্ডিয়ান আইডলের মঞ্চে ফিরলেন কাঁথির মেয়ে অঙ্কিতা",
     "desc": "পাসপোর্ট না থাকায় সমস্যায় পড়ে গিয়েছিল ইন্ডিয়ান আইডলের প্রতিযোগী অঙ্কিতা প্রধান৷ ৩দিনের মধ্য অবশেষে পাসপোর্ট পেল সে এবং তার মা৷ অভিষেক বন্দ্যোপাধ্যায়ের সাহায্য এই কাজ সম্ভব হল৷ তৃণমূলের সর্বভারতীয় সাধারণ সম্পাদককে ধন্যবাদ জানল কাঁথির মেয়ে৷",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-16-at-5.57.39-PM-2026-02-bac692efe9c3a380a36e3dac5a1c7f6b-3x2.jpeg",
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/indian-idol-participant-ankita-pradhan-thanked-tmc-mp-abhisken-banerjee-for-helping-them-to-get-passport-early-pbd-2543457.html",
-    "time": "2026-02-16T12:55:26.000Z"
+    "time": "2026-02-16T13:30:57.000Z"
   },
   {
     "cat": "Business",
@@ -576,24 +612,6 @@ const newsData_bn = [
     "time": "2026-02-11T16:12:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "শিগগিরিই তীব্র কড়াকড়ি জারি হবে সোশ্যাল মিডিয়ায়! দেশে ১৬ বছরের কমবয়সিদের জন্য নিষিদ্ধ FB ও ইনস্টা...",
-    "desc": "কেন্দ্রীয় সরকার বর্তমানে একটি পরিকল্পনা করার কথা ভাবছে, যেখানে ১৬ বছরের কম বয়সিরা সোশ্যাল মিডিয়া ব্যবহার করতে পারবে না – ঠিক যেমনই অস্ট্রেলিয়ায় সিদ্ধান্ত নেওয়া হয়েছিল। এই বিষয়টি শুধু প্রযুক্তি বা সময়পাশের একটি দাবি নয়, বরং সমাজ, নিরাপত্তা, মনোবিজ্ঞান এবং নৈতিকতার সঙ্গে জড়িত একটি গভীর সমস্যা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/central-govt-has-planning-to-bring-act-on-banning-social-media-under-16yrs_640901.html ",
-    "time": "2026-02-11T15:06:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ঘরের চেনা মেয়েটি আসলে সাপ? ঘুমের মধ্যেই তরুণী ঘর থেকে উধাও, বিছানায় পড়ে সাপের খোলস! 'ইচ্ছাধারী নাগিন'?",
-    "desc": "'ওই যে তার শিস শুরু হল। ওই যে সূর্য ডুবল। ওই যে ইমলিবাব ডাকছে-- বালকিষণ...বালকিষণ...বালকিষণ'! সত্যজিৎ রায়ের 'খগম'র ধূর্জটিবাবুকে মনে আছে? এবার প্রায় সেরকমই ঘটনা। তবে গল্পে নয়, বাস্তবে। বনবাংলোর হাতার কাছের জঙ্গলে নয়, উত্তর প্রদেশের এক অখ্যাত গ্রামে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/woman-becomes-snake-snakeskin-found-on-bed-up-woman-missing-family-finds-5-foot-snake-skin-on-bed-supernatural-thriller_640897.html ",
-    "time": "2026-02-11T14:44:50.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "কলকাতায় রানি...! বক্সঅফিসে ‘মর্দানি ৩’-এর সাফল্যে কালীঘাটে পুজো... সঙ্গে মাসি দেবশ্রী রায়",
     "desc": "কেরিয়ারের তিন দশক পূর্তিতে সম্প্রতি ‘মর্দানি ৩’ ছবি রিলিজ করেছেন রানি মুখোপাধ্যায়। যেখানে নারীপাচার রুখতে দোর্দণ্ডপ্রতাপ পুলিশ অফিসারের ভূমিকায় রণংদেহি মেজাজে নজর কাড়েন অভিনেতা।এবার মুম্বই থেকে কলকাতায় ছুটে এসে সোজা কালীঘাটে গেলেন রানি মুখোপাধ্যায়। মাসি দেবশ্রী রায়ের সঙ্গে পুজো দিতে দেখা গেল বলিউডের ‘ক্যুইন’কে। রানির পরনে ছিল পাটভাঙা ‘চেক’ লাল শাড়ি।অন্যদিকে দেবশ্রী রায় পরেছিলেন লালপাড়া সাদা গরদের শাড়ি।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/sports/afghanistan-who-played-semi-final-in-2024-will-be-eliminated-from-group-stage-in-t20-wc-smj-2530991.html",
     "time": "2026-02-08T11:11:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "১০ বছর হয়ে গেল! মেয়েকে আড়ালেই রেখেছেন রানি মুখার্জি! সমস্যাটা কী...জানালেন অভিনেত্রী!",
-    "desc": "লোকচক্ষুর আড়ালেই মেয়েকে বড় করে তোলার সিদ্ধান্তে শুরু থেকেই অনড় রানি মুখার্জি ও আদিত্য চোপড়া। তারকাসন্তান হয়েও আদিরাকে একেবারে স্বাভাবিক জীবনের স্বাদ দিতে চান এই দম্পতি। মেয়ের ভবিষ্যৎ, বেড়ে ওঠা এবং তাকে ঘিরে নিজেদের ভাবনা নিয়ে সম্প্রতি খোলাখুলি কথা বললেন রানি মুখার্জি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-08-at-11.13.55-AM-2026-02-0904e225ae99bfd3869a672bc6c249c8-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/10-years-on-rani-mukerji-openly-reveals-adira-future-plans-actor-still-keeps-daughter-away-from-the-spotlight-actress-explains-why-tib-ws-l-2530719.html",
-    "time": "2026-02-08T06:24:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SIR-এ ডমিসাইল সার্টিফিকেট গ্রহণ করা হবে...! DM, ADM, SDO-দের ইস্যু করা শংসাপত্রে আর আপত্তি নেই, জানিয়ে দিল কমিশন!",
-    "desc": "SIR-এ ডমিসাইল সার্টিফিকেট গ্রহণ করা হবে! DM, ADM, SDO-দের ইস্যু করা শংসাপত্রে আর আপত্তি নেই কমিশনের। সেই মর্মে CEO কে জানিয়ে দিল জাতীয় নির্বাচন কমিশন। কমিশন সূত্রে জানা যাচ্ছে, শুনানি প্রক্রিয়ায় এই শংসাপত্র গ্রহণযোগ্য হবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/SIR-SANJ-2026-02-d21169afbd3125d1cb1d055c851149a6-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/west-bengal/west-bengal-sir-domicile-certificates-will-be-accepted-at-sir-the-commission-has-announced-that-there-will-be-no-further-objections-to-certificates-issued-by-dms-adms-and-sdos-sanj-2530396.html",
-    "time": "2026-02-07T13:35:42.000Z"
   }
 ];

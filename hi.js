@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Babar Azam, Shaheen Afridi set to be dropped; Mohsin Naqvi sends strong message to team after loss to India",
+    "desc": "Pakistan are set to drop senior stars Babar Azam and Shaheen Shah Afridi for the final league stage clash in the T20 World Cup against Namibia after the duo's underwhelming performances against India in Colombo,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-shaheen-afridi-set-to-be-dropped-mohsin-naqvi-sends-strong-message-to-team-after-loss-to-india-2026-02-16-1030548",
+    "time": "2026-02-16T14:42:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Matheesha Pathirana walks off with injury, Sri Lanka suffer major blow in third over vs Australia",
+    "desc": "Sri Lanka pacer Matheesha Pathirana suffered a hamstring injury during their T20 World Cup 2026 clash against Australia at the Pallekele International Cricket Stadium. After delivering the fourth ball of his opening over, the 23-year-old...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/matheesha-pathirana-walks-off-with-injury-sri-lanka-suffer-major-blow-in-third-over-vs-australia-2026-02-16-1030542",
+    "time": "2026-02-16T13:56:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sri Lanka need to chase 182 to qualify for Super Eight",
+    "desc": "Australia were inserted in after Sri Lanka won the toss in this high-stakes clash at the Pallekele International Cricket Stadium, Pallekele in the T20 World Cup 2026. After losing to Zimbabwe in their previous match, while...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/aus-vs-sl-t20-world-cup-2026-live-cricket-score-australia-vs-zimbabwe-pallekele-international-cricket-stadium-latest-match-updates-scorecard-2026-02-16-1030535",
+    "time": "2026-02-16T13:11:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Italy's spirited show steals spotlight in Kolkata; England escapes scare qualify for Super 8 of T20 World Cup",
     "desc": "England were widely expected to cruise past Italy in their T20 World Cup clash at the iconic Eden Gardens in Kolkata. With Italy featuring in their maiden T20 World Cup, most anticipated a competitive showing...",
     "img": "",
@@ -46,7 +73,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "England look to defend 202 and make it to Super Eight",
+    "title": "England beat Italy by 24 runs to qualify for Super Eight",
     "desc": "Two-time champions England aim to book their place in the Super Eights as they face T20 World Cup debutants and football rivals Italy in their final Group C clash at Eden Gardens, Kolkata. The ‘Bazballers’...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/how-can-india-and-pakistan-meet-again-in-t20-world-cup-2026-check-details-2026-02-16-1030485",
     "time": "2026-02-16T08:46:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Paras Dogra becomes second-ever cricketer to register major milestone in Ranji Trophy",
-    "desc": "Paras Dogra etched his name into Ranji Trophy folklore on Monday, becoming just the second cricketer in the tournament’s long history to amass 10,000 runs. The landmark came during Jammu and Kashmir’s semi-final against Bengal...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/paras-dogra-becomes-second-ever-cricketer-to-register-major-milestone-in-ranji-trophy-2026-02-16-1030484",
-    "time": "2026-02-16T08:32:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravi Shastri heaps massive praise on Ishan Kishan after India's win against Pakistan",
-    "desc": "Star India wicket-keeper batter Ishan Kishan was at the forefront of the Indian team’s victory against Pakistan in the ongoing T20 World Cup 2026. The two sides locked horns in game 27 of the ongoing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravi-shastri-heaps-massive-praise-on-ishan-kishan-after-india-s-win-against-pakistan-2026-02-16-1030483",
-    "time": "2026-02-16T08:30:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rashid Khan achieves massive feat, becomes first bowler in history to complete 700 T20 wickets",
-    "desc": "Afghanistan’s Rashid Khan is widely revered as one of the best bowlers around when it comes to the shortest format of the game. The star spinner re-established himself as one of the greatest around after...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rashid-khan-achieves-massive-feat-becomes-first-bowler-in-history-to-complete-700-t20-wickets-2026-02-16-1030480",
-    "time": "2026-02-16T08:04:55.000Z"
   }
 ];
