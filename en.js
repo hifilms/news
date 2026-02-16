@@ -1,12 +1,129 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "FEMA adjudicating authority imposes ₹184 crore penalty on NewsClick, its founder",
+    "title": "Assam Cong neta 'quits'; Gandhis as well as Himanta try to woo him",
+    "desc": "Assam Congress faces internal turmoil as campaign chief Bhupen Borah resigns, citing neglect. Party leaders, including Rahul Gandhi, are scrambling to pacify him ahead of Priyanka Gandhi's visit. CM Himanta Sarma hinted at a BJP welcome for Borah, a former MLA, as seat-sharing talks remain stalled.",
+    "img": "https://static.toiimg.com/photo/msid-128437738,imgsize-58086.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/assam-cong-neta-quits-gandhis-as-well-as-himanta-try-to-woo-him/articleshow/128437715.cms",
+    "time": "2026-02-16T21:02:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "You have 5-7 years to develop 6th gen aero engines: Rajnath’s challenge for DRDO scientists",
+    "desc": "Defence Minister Rajnath Singh has urged DRDO scientists to develop a 6th generation aero engine for fighter aircraft within 5-7 years, emphasizing the need to accelerate indigenous capabilities. He stressed the importance of Aatmanirbharta in aero engine technology for national security and announced joint studies with the UK and France.",
+    "img": "https://static.toiimg.com/photo/msid-128437548,imgsize-26156.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/you-have-5-7-years-to-develop-6th-gen-aero-engines-rajnaths-challenge-for-drdo-scientists/articleshow/128437557.cms",
+    "time": "2026-02-16T20:51:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Siddaramaiah camp to take 27 MLAs abroad 'to counter DKS push for CLP meeting'",
+    "desc": "A foreign tour by Congress legislators aligned with CM Siddaramaiah has intensified a power struggle with Deputy CM DK Shivakumar over a rumored leadership transition. While legislators claim the trip is routine, insiders view it as a tactic to counter Shivakumar's push for a CLP meeting to discuss a change in leadership.",
+    "img": "https://static.toiimg.com/photo/msid-128437472,imgsize-747970.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/siddaramaiah-camp-to-take-27-abroad-to-counter-dks-push-for-clp-meeting/articleshow/128437481.cms",
+    "time": "2026-02-16T20:46:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Navy creates MILAN village in Vizag to welcome naval delegates from 70 countries",
+    "desc": "India is hosting a grand International Fleet Review and MILAN Exercise in Visakhapatnam, welcoming naval personnel from over 70 nations. A special MILAN village offers cultural immersion with Indian arts, crafts, and cuisine, fostering camaraderie. This significant maritime convergence aims to enhance interoperability and collective security in the Indo-Pacific, reinforcing India's role as a key security partner.",
+    "img": "https://static.toiimg.com/photo/msid-128437392,imgsize-185342.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/navy-creates-milan-village-in-vizag-to-welcome-naval-delegates-from-70-countries/articleshow/128437354.cms",
+    "time": "2026-02-16T20:40:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ameesha Patel breaks silence on cheque bounce case",
+    "desc": "Ameesha Patel has broken her silence after a Moradabad court issued a non-bailable warrant against her in connection with a 2017 event dispute. Taking to her Instagram Stories, Ameesha addressed the reports and termed the case an old, settled matter.",
+    "img": "https://static.toiimg.com/photo/msid-128437009,imgsize-66570.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ameesha-patel-breaks-silence-on-cheque-bounce-case-despite-settlement-pawan-verma-has-lodged-proceedings-making-false-allegations/articleshow/128436969.cms",
+    "time": "2026-02-16T20:19:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mani Shankar Aiyar",
+    "desc": "The Congress leader quotes Dr. Ambedkar to explain his estrangement from the Congress. “I am not a part of the whole; I am a part apart,” he says. He criticises Congress leaders Shashi Tharoor, K.C. Venugopal and Pawan Khera.",
+    "img": "https://th-i.thgim.com/public/incoming/wegcip/article70640538.ece/alternates/LANDSCAPE_1200/Mani%20Shankar%20Aiyar1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/only-stalin-can-consolidate-india-bloc-to-help-rahul-become-pm-mani-shankar-aiyar/article70639696.ece",
+    "time": "2026-02-16T20:04:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TN Cong seeks action against party MP Manickam Tagore for putting DMK ties under 'strain'",
+    "desc": "Tamil Nadu Congress chief K Selvaperunthagai met Mallikarjun Kharge in Bengaluru, submitting a report on recent discord with DMK. The friction arose from MP B Manickam Tagore's remarks on power-sharing and alleged disrespect from DMK leaders. Selvaperunthagai urged action against Tagore, warning of potential alliance strain, and cautioned party members against public statements on alliance issues.",
+    "img": "https://static.toiimg.com/photo/msid-128436523,imgsize-54178.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tn-cong-seeks-action-against-party-mp-manickam-tagore-for-putting-dmk-ties-under-strain/articleshow/128436549.cms",
+    "time": "2026-02-16T19:57:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Maha CM Fadnavis stays minority tags issued hours after Ajit Pawar's death",
+    "desc": "Maharashtra CM Devendra Fadnavis has stayed minority status certificates for at least 75 educational institutes following allegations of irregularities. The decision came after opposition members demanded an inquiry into how these certificates were issued so quickly after the death of then-deputy CM Ajit Pawar.",
+    "img": "https://static.toiimg.com/photo/msid-128436282,imgsize-137834.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/maha-cm-fadnavis-stays-minority-tags-issued-hours-after-ajit-pawars-death/articleshow/128436263.cms",
+    "time": "2026-02-16T19:50:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chiranjeevi shares health update after shoulder keyhole surgery",
+    "desc": "Megastar Chiranjeevi has shared an important health update after fans were left concerned on spotting him wearing an arm sling. Taking to Instagram, the actor posted a picture of himself with a black arm sling and clarified the reason behind it.",
+    "img": "https://static.toiimg.com/photo/msid-128436116,imgsize-54448.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/chiranjeevi-shares-health-update-after-minor-shoulder-keyhole-surgery-i-am-recovering-well-and-getting-back-to-my-routine/articleshow/128436072.cms",
+    "time": "2026-02-16T19:42:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "FEMA adjudicating authority imposes ₹184 crore penalty on NewsClick, founder Prabir Purkayastha",
     "desc": "The adjudication proceedings were initiated on a complaint under Section 16 of FEMA filed by the ED alleging contraventions of FEMA and the rules and regulations pertaining to the receipt and utilisation of foreign funds",
     "img": "https://th-i.thgim.com/public/incoming/8gezey/article70640503.ece/alternates/LANDSCAPE_1200/IMG_PRABIR_PURYAKASTHA_2_1_QLCETCT7.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/fema-adjudicating-authority-imposes-184-crore-penalty-on-newsclick-its-founder/article70639781.ece",
-    "time": "2026-02-16T18:29:51.000Z"
+    "time": "2026-02-16T19:39:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "The Godfather fame Robert Duvall passes away at 95",
+    "desc": "Veteran Hollywood star Robert Duvall, known for his iconic performances in The Godfather and Apocalypse Now, has died at the age of 95. His death on Sunday was confirmed by his wife, Luciana Duvall, on Monday.",
+    "img": "https://static.toiimg.com/photo/msid-128435678,imgsize-19428.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-duvall-oscar-winner-of-tender-mercies-and-the-godfather-fame-passes-away-at-95-wife-luciana-duvall-confirms-his-demise/articleshow/128435585.cms",
+    "time": "2026-02-16T19:18:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Police plan awareness drive on K-Pop influence after minor girl’s death",
+    "desc": "District Police Chief (Ernakulam Rural) suggested the need for an awareness drive as a preventive measure in the wake of the Chottanikkara incident, as well as the recent death of three sisters in Ghaziabad who were allegedly obsessed with Korean culture",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/minor-girls-death-police-plan-awareness-drive-on-k-pop-influence/article70639780.ece",
+    "time": "2026-02-16T19:18:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Full Cabinet and Ministers’ portfolio will be decided soon: Manipur Deputy CM",
+    "desc": "Deputy Chief Minister Losii Dikho says the rehabilitation of people displaced by the long violence in the State is a priority for the new government; on his colleague Nemcha Kipgen, a Kuki-Zo leader, not being able to travel to Imphal, he says, ‘She is supporting us to reach out to the people’; the State government plans to hold a Cabinet meeting in Senapati, a Naga area, and go there via Kangpokpi, a Kuki-Zo area",
+    "img": "https://th-i.thgim.com/public/incoming/c92ssb/article70640243.ece/alternates/LANDSCAPE_1200/20260204339L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/manipur/interview-with-manipur-deputy-chief-minister-losii-dikho/article70639450.ece",
+    "time": "2026-02-16T18:54:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India moves to stop Ravi waters to Pak as Shahpur Kandi dam nears finish",
+    "desc": "India is set to redirect surplus Ravi river water, previously flowing into Pakistan, to its own drought-prone regions once the Shahpur Kandi dam becomes operational. This significant move, expected by March 31, will irrigate vast areas in Punjab and Jammu & Kashmir, marking a strategic shift in water resource management following a policy change regarding the Indus Waters Treaty.",
+    "img": "https://static.toiimg.com/photo/msid-128435094,imgsize-8590.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-moves-to-stop-ravi-waters-to-pak-as-shahpur-kandi-dam-nears-finish/articleshow/128435041.cms",
+    "time": "2026-02-16T18:52:18.000Z"
   },
   {
     "cat": "Sports",
@@ -21,7 +138,7 @@ const newsData_en = [
     "cat": "World",
     "title": "Nepal launches campaigns for first post-uprising polls",
     "desc": "The ousted former Prime Minister's bid to return to power — 73-year-old Marxist leader K.P. Sharma Oli - is being challenged on his home turf by a rapper-turned-mayor casting himself as a symbol of youth-driven political change, 35-year-old Balendra Shah",
-    "img": "https://th-i.thgim.com/public/news/national/tdmgbt/article70640476.ece/alternates/LANDSCAPE_1200/AFP__20260216__97PZ4H4__v1__HighRes__NepalPoliticsElection.jpg",
+    "img": "https://th-i.thgim.com/public/news/national/2uaodh/article70640476.ece/alternates/LANDSCAPE_1200/AFP__20260216__97PZ4H4__v1__HighRes__NepalPoliticsElection.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/nepal-launches-campaigns-for-first-post-uprising-polls/article70640454.ece",
     "time": "2026-02-16T18:10:00.000Z"
@@ -109,15 +226,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Full Cabinet and Ministers’ portfolio will be decided soon: Manipur Deputy CM",
-    "desc": "Deputy Chief Minister Losii Dikho says the rehabilitation of people displaced by the long violence in the State is a priority for the new government; on his colleague Nemcha Kipgen, a Kuki-Zo leader, not being able to travel to Imphal, he says, ‘She is supporting us to reach out to the people’; the State government plans to hold a Cabinet meeting in Senapati, a Naga area, and go there via Kangpokpi, a Kuki-Zo area",
-    "img": "https://th-i.thgim.com/public/incoming/c92ssb/article70640243.ece/alternates/LANDSCAPE_1200/20260204339L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/interview-with-manipur-deputy-chief-minister-losii-dikho/article70639450.ece",
-    "time": "2026-02-16T16:15:57.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Women to redefine urban leadership with Congress candidates being the maximum",
     "desc": "Out of the seven municipal corporations that went to polls in the State, three mayoral posts were reserved for women, and significantly, all the women mayors belong to the Congress, underlining the party’s overwhelming dominance",
     "img": "https://th-i.thgim.com/public/incoming/zcu2m6/article70640151.ece/alternates/LANDSCAPE_1200/MEMAU_16_2_2026_16_48_44_1_9100.JPG",
@@ -162,15 +270,6 @@ const newsData_en = [
     "time": "2026-02-16T15:44:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Minor girl’s death: police plan awareness drive on K-Pop influence",
-    "desc": "District Police Chief (Ernakulam Rural) suggested the need for an awareness drive as a preventive measure in the wake of the Chottanikkara incident, as well as the recent death of three sisters in Ghaziabad who were allegedly obsessed with Korean culture",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/minor-girls-death-police-plan-awareness-drive-on-k-pop-influence/article70639780.ece",
-    "time": "2026-02-16T15:44:19.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'I have probably been criticized the most'",
     "desc": "John Abraham has never shied away from speaking his mind. At a recent event, the actor reflected on his journey as an outsider and the criticism he claims to have faced since his debut in 2003.",
@@ -189,15 +288,6 @@ const newsData_en = [
     "time": "2026-02-16T15:25:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Breaking boundaries: Director R. Gowtham brings Tamil independent cinema to Berlin",
-    "desc": "In this interview, Tamil filmmaker R. Gowtham opens up about creating his debut film with friends, poetry, instinct and zero industry backing. From Berlin, he reflects on community, doubt, and the unpredictable journey that brought him here.",
-    "img": "https://th-i.thgim.com/public/incoming/w6ts97/article70639645.ece/alternates/LANDSCAPE_1200/FINAL%20THUMB.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-breaking-boundaries-director-r-gowtham-brings-tamil-independent-cinema-to-berlin/article70639648.ece",
-    "time": "2026-02-16T15:02:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Food, faith, and fight: Afghanistan’s pressure playbook at the T20 World Cup",
     "desc": "Far from home comforts and craving Afghan food, Afghanistan’s cricketers are learning to cope with emotional and on-field pressure. A team dinner of Peshawari food helped them process the heartbreak of a double Super Over loss against South Africa, while growing resilience in crunch moments powered them over the line vs UAE, keeping their slim T20 World Cup Super Eight hopes alive.",
@@ -205,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/food-faith-and-fight-afghanistans-pressure-playbook-at-the-t20-world-cup/articleshow/128427969.cms",
     "time": "2026-02-16T15:01:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Drunk man naps on track as train stops inches away",
-    "desc": "A man, reportedly intoxicated, was found sleeping on a railway track at Mumbai's Chhatrapati Shivaji Maharaj Terminus, halting Harbour Line services and delaying thousands of commuters. The incident, captured in a viral video, saw the train stop just in time, preventing a tragedy. Operations resumed after the man was safely removed.",
-    "img": "https://static.toiimg.com/photo/msid-128427197,imgsize-956632.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-drunk-man-naps-on-track-as-train-stops-inches-away/articleshow/128425908.cms",
-    "time": "2026-02-16T14:28:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -270,15 +351,6 @@ const newsData_en = [
     "time": "2026-02-16T12:52:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "From 'chaiwala' to 'Rahulian': Mani Shankar Aiyar returns and Congress ducks for cover, again",
-    "desc": "Mani Shankar Aiyar has once again embarrassed the Congress with his remarks, first praising Kerala CM Pinarayi Vijayan and then dismissing the party's leadership, including spokesperson Pawan Khera. The Congress has distanced itself from Aiyar, stating he has no connection with the party. This incident follows a pattern of Aiyar's controversial statements that have previously aided the BJP.",
-    "img": "https://static.toiimg.com/photo/msid-128423317,imgsize-1182315.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-chaiwala-to-rahulian-mani-shankar-aiyar-returns-yet-again-congress-ducks-for-cover-rahul-gandhi-pawan-khera-kc-venugopal/articleshow/128422645.cms",
-    "time": "2026-02-16T12:33:31.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran meets U.N. nuclear watchdog in Geneva ahead of a second round of U.S. talks",
     "desc": "U.S. President Donald Trump initially threatened to take military action over Iran’s bloody crackdown on nationwide protests last month but then shifted to a pressure campaign in recent weeks to try to get Tehran to make a deal over its nuclear program",
@@ -286,15 +358,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-meets-un-nuclear-watchdog-in-geneva-ahead-of-a-second-round-of-us-talks/article70638488.ece",
     "time": "2026-02-16T12:33:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Build next-gen propulsion systems: Defence minister tells GTRE; India-France Joint Dialogue in B’luru tomorrow",
-    "desc": "Defence Minister Rajnath Singh visited DRDO's GTRE in Bengaluru, reviewing indigenous military gas turbine engine programs, including the Kaveri project. He urged a focus on next-generation propulsion systems and the development of 6th generation engines, emphasizing AI and new materials. Singh highlighted India's growing self-reliance and the importance of indigenous critical technologies for national security.",
-    "img": "https://static.toiimg.com/photo/msid-128423259,imgsize-989767.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/build-next-gen-propulsion-systems-defence-minister-tells-gtre-india-france-joint-dialogue-in-bluru-tomorrow/articleshow/128423260.cms",
-    "time": "2026-02-16T12:31:42.000Z"
   },
   {
     "cat": "Entertainment",
@@ -342,15 +405,6 @@ const newsData_en = [
     "time": "2026-02-16T11:47:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "SC refuses to hear pleas seeking FIR against Assam CM Himanta; 8 burnt alive in Rajasthan factory blaze &amp; more",
-    "desc": "The Supreme Court directed petitioners to the Gauhati High Court regarding pleas against Assam CM Himanta Biswa Sarma. Meanwhile, eight workers died in a Rajasthan firecracker unit blast, and Congress leader Mani Shankar Aiyar criticized Rahul Gandhi. Rajpal Yadav received interim bail, and India advanced to the T20 World Cup Super 8s after defeating Pakistan.",
-    "img": "https://static.toiimg.com/photo/msid-128421665,imgsize-916216.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-sc-refuses-to-hear-pleas-seeking-fir-against-assam-cm-himanta-8-burnt-alive-in-rajasthan-factory-blaze-more/articleshow/128421335.cms",
-    "time": "2026-02-16T11:46:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'If Pakistan had won…': Kaif fires back at Shoaib Akhtar in fiery on-air moment",
     "desc": "India secured a significant win against Pakistan in the T20 World Cup. Former player Mohammed Kaif believes the focus has been too much on Pakistan's struggles. He highlights India's skill and composure under immense pressure. Players like Ishan Kishan delivered outstanding performances. This victory demonstrates India's ability to perform when stakes are high.",
@@ -360,33 +414,6 @@ const newsData_en = [
     "time": "2026-02-16T11:41:15.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Swift rumors draw fans to Kelce at Pebble Beach",
-    "desc": "Rumors of Taylor Swift gracing the AT&T Pebble Beach Pro-Am with her presence ignited a frenzy, driving ticket sales through the roof and prompting stricter security protocols. While she ultimately did not make an appearance, the anticipation surrounding her expected attendance brought fans flocking to the event to support her fiancé, Travis Kelce.",
-    "img": "https://static.toiimg.com/photo/msid-128420768,imgsize-53554.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/taylor-swift-appearance-rumors-sends-fans-racing-to-see-travis-kelce-at-pebble-beach-reports/articleshow/128420768.cms",
-    "time": "2026-02-16T11:22:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Toxic to hit theatres as planned, to clash with Dhurandhar 2",
-    "desc": "Industry insiders have firmly dismissed rumors of a release date postponement for Yash's highly anticipated film, 'Toxic'. The movie is set to hit theaters worldwide on March 19, as originally planned, despite speculation about overseas distribution issues. Makers have secured record-breaking distribution deals, underscoring confidence in the film's release.",
-    "img": "https://static.toiimg.com/photo/msid-128420636,imgsize-458071.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/absolutely-no-truth-to-the-rumours-yashs-toxic-is-not-postponed-to-clash-with-ranveer-singhs-dhurandhar-the-revenge/articleshow/128420636.cms",
-    "time": "2026-02-16T11:22:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'You have 5 years': Rajnath's 'challenge' for DRDO to develop 5th &amp; 6th gen aero-engines",
-    "desc": "​Speaking at the Gas Turbine Research Establishment in Bengaluru, defence minister Rajnath Singh said the establishment, functioning under the DRDO, has become \"the foundation of India's strategic capability,\" crediting its scientists for consistently delivering successful tests and strengthening the country's defence preparedness. Rajnath Singh acknowledged the deadline as a challenge; however, he said it should not come \"as a shock or a surprise.\"​​",
-    "img": "https://static.toiimg.com/photo/msid-128420451,imgsize-51132.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/you-have-5-years-rajnaths-challenge-for-drdo-to-develop-5th-6th-gen-aero-engines/articleshow/128419617.cms",
-    "time": "2026-02-16T11:20:33.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'If we don't make it to the next round': Rashid Khan breaks silence after UAE win",
     "desc": "Afghanistan secured a crucial five-wicket victory against UAE, keeping their Super Eights aspirations alive. Despite the win, qualification hinges on other results, with captain Rashid Khan expressing hope for a positive mindset in their final group match. Player of the Match Azmatullah Omarzai's all-round performance was pivotal, while UAE captain Muhammad Waseem felt his team fell short with the bat.",
@@ -394,24 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/if-we-dont-make-it-to-the-next-round-rashid-khan-breaks-silence-after-uae-win/articleshow/128420534.cms",
     "time": "2026-02-16T11:16:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kangana Ranaut pens heartfelt note for Sara Arjun",
-    "desc": "Kangana Ranaut praised 'Dhurandhar' star Sara Arjun, calling her “authentic and rooted.” Sara, who gained acclaim for her role in Aditya Dhar’s film, recently celebrated Maha Shivratri at the Isha Foundation. Kangana shared Sara’s video on Instagram, lauding her grounded nature and expressing admiration for both the young actor and the film.",
-    "img": "https://static.toiimg.com/photo/msid-128419366,imgsize-43490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-pens-heartfelt-note-for-dhurandhar-star-sara-arjun-do-well-kid-i-am-rooting-for-you/articleshow/128419366.cms",
-    "time": "2026-02-16T10:43:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "when, where to watch online?",
-    "desc": "Calling all horror aficionados! Dive into the spine-chilling world of 'Honey Bunch', now available for streaming exclusively on Shudder. This gripping psychological thriller takes you on a harrowing journey through the shattered psyche of a woman awakening from a coma, confronting unsettling truths about trust, control, and the haunting impact of trauma within her marriage.",
-    "img": "https://static.toiimg.com/photo/msid-128419096,imgsize-67190.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/grace-glowickis-honey-bunch-ott-release-when-and-where-to-watch-the-psychological-thriller-online/articleshow/128419096.cms",
-    "time": "2026-02-16T10:36:52.000Z"
   },
   {
     "cat": "Sports",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/telecom-operators-do-not-own-spectrum-cannot-list-the-public-resource-as-an-asset-for-insolvency-or-liquidation-sc/article70629340.ece",
     "time": "2026-02-13T20:31:56.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Hasina’s presence in India, Ganga waters treaty to be key priorities for BNP government: sources",
-    "desc": "Sources in the Bangladesh Nationalist Party (BNP) say India and Bangladesh have a settled border and ‘it makes no sense to shoot to kill someone’; besides, they add that former PM Sheikh Hasina’s comments on Bangladesh’s internal affairs will pose a challenge to normalisation of ties",
-    "img": "https://th-i.thgim.com/public/incoming/4klta4/article70629949.ece/alternates/LANDSCAPE_1200/APTOPIX_Bangladesh_Election_01976.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/stopping-border-killings-ganga-waters-treaty-renewal-hasinas-presence-in-india-to-be-priority-for-incoming-bnp-government/article70629783.ece",
-    "time": "2026-02-13T20:26:18.000Z"
   }
 ];
