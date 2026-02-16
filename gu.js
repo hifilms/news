@@ -1,21 +1,21 @@
 const newsData_gu = [
   {
-    "cat": "World",
-    "title": "ઉ.કોરિયામાં લોહીયાળ જંગનો ડર, કિમ જોંગનો વારસો કોણ ભોગવશે? 13 વર્ષની પુત્રી કે ખૂંખાર બહેન",
-    "desc": "ઉત્તર કોરિયામાં સત્તા માટે સંઘર્ષ થાય તેવું અનુમાન થઈ રહ્યું છે. આમ પણ આ રહસ્યમયી દેશ વિશે જાણીએ તો વર્તમાન તાનાશાહ કિમ જોંગ ઉનના પરિવારનો પણ હિંસક ઈતિહાસ રહ્યો છે. તો શું પુત્રી અને બહેનમાંથી કોના હાથમાં જશે સત્તાની કમાન? દક્ષિણ કોરિયાના ગુપ્તચર અધિકારીઓ શું આશંકા વ્યક્ત કરી રહ્યા છે તે પણ જાણો.",
+    "cat": "Business",
+    "title": "ગૌતમ અદાણીના આલીશાન ઘરો, અમદાવાદથી દિલ્હી સુધી ફેલાયેલી છે અબજોની સંપત્તિ; જાણો કયું છે સૌથી મોંઘું ઘર",
+    "desc": "ભારતના બીજા સૌથી અમીર વ્યક્તિ ગૌતમ અદાણી અનેક શહેરોમાં આલીશાન મિલકતોના માલિક છે. તેમના મુખ્ય ઘરોમાં દિલ્હીમાં આવેલ લુટિયન્સમાં 400 કરોડનો 3.4 એકરનો બંગલો અને અમદાવાદમાં શાંતિવન નામની એક વિશાળ એસ્ટેટ સામેલ છે. શાંતિવન આધુનિક વાસ્તુકલા અને પરંપરાગત ભારતીય ડિઝાઇનનું મિશ્રણ છે, જેમાં મોટા બગીચા અને હાઈ સુરક્ષા વ્યવસ્થા છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/who-will-be-the-next-leader-after-kim-jong-13-year-old-daughter-or-fierce-sister-world-news-in-gujarati-465121 ",
-    "time": "2026-02-16T09:50:26.000Z"
+    "url": " http://zeenews.india.com/gujarati/business/gautam-adani-luxury-homes-ahmedabad-shantivan-delhi-bungalow-property-details-465138 ",
+    "time": "2026-02-16T12:19:51.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "પાકિસ્તાન સામેની મેચ પહેલા ઈશાન કિશનનો સીક્રેટ વીડિયો કોલ, 40 મિનિટ કોની સાથે કરી વાત ?",
-    "desc": "પાકિસ્તાન સામેની મેચમાં ઇશાન કિશને ખતરનાક બેટિંગ કરતા પાકિસ્તાનના બોલરોને હંફાવ્યા હતા. ઈશાને 77 રનની ધમાકેદાર ઈનિંગ રમી હતી, પરંતુ શું તમે જાણો છો કે આ વિસ્ફોટક ઇનિંગ પહેલા ઇશાન કિશને કોને વીડિયો કોલ કર્યો હતો અને 40 મિનિટ સુધી વાત કરી હતી.",
+    "cat": "Politics",
+    "title": "હવે મોબાઇલ એપથી વેચાશે વીજળી, જાણો રાજધાનીમાં શરૂ થનારી વર્ચ્યુઅલ નેટ મીટરિંગ શું છે?",
+    "desc": "લોકો હવે મોબાઇલ એપ દ્વારા એકબીજા સાથે વીજળી ખરીદી અને વેચી શકશે. દિલ્હીમાં નેટ મીટરિંગ દ્વારા આ શક્ય બન્યું છે. આનાથી લોકો ઓછા દરે અન્ય ગ્રાહકોને વધારાની સૌર ઉર્જા વેચી શકશે. વધુમાં, બહુવિધ વ્યક્તિઓ એક સામાન્ય સૌર પ્લાન્ટમાંથી વીજળીનો ઉપયોગ કરી શકશે. આ માટે, લોકો પાસે સ્માર્ટ વીજળી મીટર હોવા જોઈએ. નેટ મીટરિંગ સરળતાથી એક એપ દ્વારા પૂર્ણ કરી શકાય છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ishan-kishan-talk-40-minutes-secret-video-call-ahead-ind-vs-pak-match-465120 ",
-    "time": "2026-02-16T09:46:19.000Z"
+    "url": " http://zeenews.india.com/gujarati/india/now-electricity-will-be-sold-through-a-mobile-app-know-what-is-virtual-net-metering-to-be-launched-in-the-capital-465129 ",
+    "time": "2026-02-16T12:10:01.000Z"
   },
   {
     "cat": "Sports",
@@ -24,7 +24,7 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/india-vs-pakistan-match-possible-again-in-t20-world-cup-2026-know-how-465114 ",
-    "time": "2026-02-16T08:44:15.000Z"
+    "time": "2026-02-16T10:29:04.000Z"
   },
   {
     "cat": "Sports",
@@ -33,7 +33,25 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/explainer-t20-world-cup-2026-pakistan-super-8-qualification-scenario-465107 ",
-    "time": "2026-02-16T07:34:38.000Z"
+    "time": "2026-02-16T10:27:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "પાકિસ્તાન સામેની મેચ પહેલા ઈશાન કિશનનો સીક્રેટ વીડિયો કોલ, 40 મિનિટ કોની સાથે કરી વાત ?",
+    "desc": "પાકિસ્તાન સામેની મેચમાં ઇશાન કિશને ખતરનાક બેટિંગ કરતા પાકિસ્તાનના બોલરોને હંફાવ્યા હતા. ઈશાને 77 રનની ધમાકેદાર ઈનિંગ રમી હતી, પરંતુ શું તમે જાણો છો કે આ વિસ્ફોટક ઇનિંગ પહેલા ઇશાન કિશને કોને વીડિયો કોલ કર્યો હતો અને 40 મિનિટ સુધી વાત કરી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ishan-kishan-talk-40-minutes-secret-video-call-ahead-ind-vs-pak-match-465120 ",
+    "time": "2026-02-16T10:25:12.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ઉ.કોરિયામાં લોહીયાળ જંગનો ડર, કિમ જોંગનો વારસો કોણ ભોગવશે? 13 વર્ષની પુત્રી કે ખૂંખાર બહેન",
+    "desc": "ઉત્તર કોરિયામાં સત્તા માટે સંઘર્ષ થાય તેવું અનુમાન થઈ રહ્યું છે. આમ પણ આ રહસ્યમયી દેશ વિશે જાણીએ તો વર્તમાન તાનાશાહ કિમ જોંગ ઉનના પરિવારનો પણ હિંસક ઈતિહાસ રહ્યો છે. તો શું પુત્રી અને બહેનમાંથી કોના હાથમાં જશે સત્તાની કમાન? દક્ષિણ કોરિયાના ઈન્ટેલિજન્સ અધિકારીઓ શું કહી રહ્યા છે તે પણ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/who-will-be-the-next-leader-after-kim-jong-13-year-old-daughter-or-fierce-sister-world-news-in-gujarati-465121 ",
+    "time": "2026-02-16T10:01:51.000Z"
   },
   {
     "cat": "Business",
@@ -387,15 +405,6 @@ const newsData_gu = [
     "time": "2026-02-12T10:23:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "એવું કયું પક્ષી છે, જે ક્યારેય ઉડી શકતું નથી ? એક ક્લિકમાં જાણી લો જવાબ",
-    "desc": "જનરલ નોલેજ એ સૌથી મહત્વપૂર્ણ વિષયોમાંનો એક છે. તે આપણા બધા માટે જરૂરી છે. સ્પર્ધાત્મક પરીક્ષાઓમાં જનરલ નોલેજના પ્રશ્નો વારંવાર પૂછવામાં આવે છે. ત્યારે આજે અમે તમારા માટે આવા જ કેટલાક પ્રશ્નો અને જવાબો લઈને આવ્યા છીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/gk-quiz-which-bird-can-never-fly-know-the-answer-464694 ",
-    "time": "2026-02-12T09:09:34.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "એક ખોટા નિર્ણયના કારણે રાજપાલ યાદવ કરતાં પણ ખરાબ સ્થિતિમાં પહોંચી ગયા હતા અમિતાભ બચ્ચન",
     "desc": "જે રીતે રાજપાલ યાદવ તેની એક ફિલ્મના કારણે આજે જીવનના સૌથી ખરાબ સમયમાંથી પસાર થઈ રહ્યો છે તે રીતે અમિતાભ બચ્ચન પણ કરજમાં ડુબી બરબાદ થવાની અણીએ હતા. 1995 નો સમય સદીના મહાનાયક માટે સૌથી ખરાબ સમય હતો જ્યારે તેમના પર 90 કરોડનું કરજ થઈ ગયું હતું અને 50 થી વધુ કેસ થયા હતા. અમિતાભ બચ્ચનનો આવો સમય શા માટે આવ્યો અને પછી તેમાંથી બહાર કેવી રીતે આવ્યા ચાલો જાણીએ.",
@@ -493,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/10-aircraft-shot-down-in-india-pakistan-war-donald-trump-new-claim-tariff-threats-prevented-nuclear-war-464576 ",
     "time": "2026-02-11T03:40:48.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "H1B વિઝા પર અમેરિકાથી આવ્યા ખરાબ સમાચાર, ભારતીયોનું US જવાનું સપનું રહેશે અધુરૂ, જાણો",
-    "desc": "યુનાઇટેડ સ્ટેટ્સમાં H1B વિઝા એ નોન-ઇમિગ્રન્ટ વર્ક વિઝા છે. તે અમેરિકન કંપનીઓને ટેકનોલોજી, એન્જિનિયરિંગ, દવા અને નાણાકીય ક્ષેત્રો જેવા વિશિષ્ટ ક્ષેત્રોમાં વિદેશી કામદારોને રોજગારી આપવાની મંજૂરી આપે છે. H1B વિઝા યુનાઇટેડ સ્ટેટ્સમાં કામ કરવા માટે વિશિષ્ટ કુશળતા ધરાવતા વિદેશી એક્સપર્ટને સક્ષમ બનાવવા માટે બનાવવામાં આવ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/bad-news-from-america-on-h1b-visa-indians-dream-of-going-to-us-will-remain-unfulfilled-know-464573 ",
-    "time": "2026-02-11T02:46:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -610,14 +610,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/border-2-ott-release-date-20-march-2026-border-2-box-office-collection-latest-news-463987 ",
     "time": "2026-02-05T03:32:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "AC ખરીદવા માટે ફેબ્રુઆરી સૌથી બેસ્ટ! ગરમી પહેલા મોટી બ્રાન્ડ્સ આપી રહી છે બમ્પર ડિસ્કાઉન્ટ",
-    "desc": "જેમ-જેમ ગરમી વધે છે, AC ની ડિમાન્ડ વધવા લાગે છે અને ઈન્સ્ટોલેશન માટે પ્રતીક્ષા કરવી પડે છે. પરંતુ ખૂબ ઓછા લોકો જાણે છે કે ફેબ્રુઆરીમાં ac ખરીદવી સૌથી સમજદારીભર્યો નિર્ણય સાબિત થઈ શકે છે. આ મહિને ઓફ-સીઝન ડિસ્કાઉન્ટને કારણે સારા મોડલ ઓછા ભાવમાં મળી જાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/february-best-time-buy-air-conditioner-before-summer-season-463863 ",
-    "time": "2026-02-03T14:36:21.000Z"
   }
 ];

@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "\"অভিষেকদাকে ধন্যবাদ, দুবাই থেকে ফিরে দেখা করব\", পাসপোর্ট পেয়ে ইন্ডিয়ান আইডলের মঞ্চে ফিরলেন কাঁথির মেয়ে অঙ্কিতা",
+    "desc": "পাসপোর্ট না থাকায় সমস্যায় পড়ে গিয়েছিল ইন্ডিয়ান আইডলের প্রতিযোগী অঙ্কিতা প্রধান৷ ৩দিনের মধ্য অবশেষে পাসপোর্ট পেল সে এবং তার মা৷ অভিষেক বন্দ্যোপাধ্যায়ের সাহায্য এই কাজ সম্ভব হল৷ তৃণমূলের সর্বভারতীয় সাধারণ সম্পাদককে ধন্যবাদ জানল কাঁথির মেয়ে৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-16-at-5.57.39-PM-2026-02-bac692efe9c3a380a36e3dac5a1c7f6b-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/indian-idol-participant-ankita-pradhan-thanked-tmc-mp-abhisken-banerjee-for-helping-them-to-get-passport-early-pbd-2543457.html",
+    "time": "2026-02-16T12:55:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ব্যাঙ্কে শীঘ্রই শুরু হচ্ছে 5-Day Week? কী কী বদল আসবে পরিষেবায়, কী ভাবে কাজ হবে, জানাচ্ছে ইউনিয়ন",
+    "desc": "রাষ্ট্রায়ত্ত ব্যাঙ্ককর্মীদের ইউনিয়নগুলি দীর্ঘদিন ধরে সপ্তাহে ৫ দিনের কর্মদিবসের দাবি জানিয়ে আসছে৷ সেক্ষেত্রে, প্রত্যেক সপ্তাহে শনিবারও রবিবার দু’দিন বন্ধ থাকবে ব্যাঙ্ক পরিষেবা৷ তবে তাঁদের দাবি, এই দাবি মঞ্জুর হলেও পরিষেবায় বদল এনে সবকিছু অপরিবর্তিত রাখা হবে৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/1771242164_1771239622_1-Bank-Employees-Push-for-5-Day-Week-Government-Yet-to-Take-Final-Call-6-Copy-2026-02-e6c86f8f290048bcba3eba11bace335e-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/bank-service-5-day-work-week-soon-for-bank-staff-how-your-branch-visits-and-services-may-change-sta-2543357.html",
+    "time": "2026-02-16T12:12:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "মাত্র ৪ বছর বয়সেই জাতীয় চলচ্চিত্র পুরস্কার, বড় হতে না হতেই...! এখন কোথায় আছেন বিখ্যাত অভিনেত্রী? জানলে আঁতকে উঠবেন",
+    "desc": "ভারতীয় চলচ্চিত্র জগতে, খুব কম শিশুশিল্পীই বেবি শামলীর মতো অবিস্মরণীয় চিহ্ন রেখে গেছেন। ১৯৯০ সালে, মাত্র চার বছর বয়সে, তিনি মণি রত্নমের অঞ্জলি ছবিতে মানসিকভাবে প্রতিবন্ধী শিশুর চরিত্রে অভিনয় করে দর্শকদের অবাক করে দিয়েছিলেন। এই অভিনয় এতটাই শক্তিশালী ছিল যে এটি তাকে সেরা শিশু শিল্পীর জাতীয় চলচ্চিত্র পুরস্কার এনে দেয়, যা তাকে পুরষ্কারের ইতিহাসে সবচেয়ে কম বয়সী প্রাপকদের একজন করে তোলে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Riya-Das-1200900-2026-02-16T173119.099-2026-02-5436dfb44bcd0aead4b69c562b3e8e20-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/this-actress-won-the-national-film-award-at-the-age-of-four-for-a-mani-ratnam-movie-find-out-where-is-she-today-rds-2543341.html",
+    "time": "2026-02-16T12:02:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "প্রি বা পোস্ট ওয়েডিং এখন জলভাত, বাজারে চলছে মেটারনিটি ফোটোশ্যুট! মায়ের মাতামাতিতে লেকে ডুবল তিনের খুদে...",
+    "desc": "বেঙ্গালুরুর উপকণ্ঠে মাগাড়ি মেইন রোডের কাছে গিড্ডেনাহাল্লিতে অবস্থিত 'দ্য শায়ার স্টুডিও' খুবই জনপ্রিয় এক ফোটোশুটিং স্পট। কিন্তু সেখানেই ঘটল মর্মান্তিক ঘটনা। ফোটোশুটের সময়ে মারা গেল এক শিশু। ফোটোশুটের মতো আনন্দের পরিবেশে এমন হৃদয়বিদারক ঘটনা ঘটায় এলাকায় শোকের ছায়া নেমে এসেছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/maternity-photoshoot-accident-three-year-old-boy-drowns-during-maternity-shoot-in-bengaluru-maternity-photoshoot-tragedy_641485.html ",
+    "time": "2026-02-16T11:23:15.000Z"
+  },
+  {
     "cat": "Business",
     "title": "লক্ষ্মীর ভাণ্ডার থেকে  যুবসাথী...! ফর্ম ফিলাপ 'ক্যাম্পে' 'ক্যাম্পে'! কী কী নথি লাগছে? আপনি 'এলিজেবল' তো? দেখে নিন কারা পাবেন 'সুবিধা'!",
     "desc": "লক্ষ্মীর ভাণ্ডার প্রকল্পে মাসে মাসে সাধারণ প্রাপকদের জন্য ১৫০০ টাকা এবং তফসিলি তালিকাভুক্তরা পাবেন ১৭০০ টাকা। যুব সাথী প্রকল্পে ১৫০০ টাকা করে মিলবে বেকার যুবকদের। মাধ্যমিক পাশ করেই সুযোগ! কিন্তু কোন প্রকল্পে কী কী নথি লাগবে? কারা এই সব প্রকল্পের টাকা পেতে 'যোগ্য', এই নিয়ে মানুষের মধ্যে রয়েছে নানা বিভ্রান্তি। চলুন জেনে নেওয়া যাক!",
@@ -862,41 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/west-bengal/west-bengal-sir-domicile-certificates-will-be-accepted-at-sir-the-commission-has-announced-that-there-will-be-no-further-objections-to-certificates-issued-by-dms-adms-and-sdos-sanj-2530396.html",
     "time": "2026-02-07T13:35:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "পৌরাণিক কাহিনির উপর ভিত্তি করে তৈরি এই থ্রিলার ছবি বার বার দেখার আগ্রহ জাগাবে ! আছে ইউটিউবে",
-    "desc": "২০১৫ সালের জুলাই মাসে সুজয় ঘোষ ‘অহল্যা’ নামে একটি স্বল্পদৈর্ঘ্য চলচ্চিত্র ইউটিউবে রিলিজ করেন। রামায়ণের কিংবদন্তির উপর ভিত্তি করে তৈরি এটি ইউটিউবে ২ কোটি ২০ লক্ষেরও বেশি বার দেখা হয়েছে। এটি ছিল অহল্যার পৌরাণিক কাহিনীর একটি আধুনিক রূপান্তর, যেখানে নারীবাদী দৃষ্টিভঙ্গি অন্তর্ভুক্ত রয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Ahalya-Kahani-2026-02-9fa60dc96dd07cee451711827d42b7a9-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/radhika-apte-epic-thriller-ahalya-short-movie-2015-directed-by-sujoy-ghosh-tale-of-morality-mythological-retold-in-modern-fashion-viewers-got-stunned-most-suspense-thriller-film-ss-aa-2528287.html",
-    "time": "2026-02-07T10:53:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "দেখতে কুমড়ো হলেও গুণে আলাদা! ঝঞ্ঝাট ছাড়াই ৪ ফুটের বেডে এই চাষেই মিলবে বিঘায় ৪০ হাজার টাকা",
-    "desc": "প্রথাগত চাষ ছেড়ে এখন লাভের মুখ দেখছেন আধুনিক কৃষকরা। ৪-৫ ফুটের বেডে কুমড়োর মতো দেখতে এই বিশেষ সবজি চাষ করে বিঘা প্রতি ৪০ হাজার টাকা আয় করা সম্ভব। চাষের ঝঞ্ঝাট কম হওয়ায় বর্তমানে এই সবজি চাষে আগ্রহ বাড়ছে উত্তরবঙ্গের কৃষকদের।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/squash-farming-agriculture-news-2026-02-294de51cbe8756df706532cf284d37f7-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/agriculture-news-summer-squash-farming-profit-per-bigha-cultivation-method-farming-tips-l18-local18-2529928.html",
-    "time": "2026-02-07T10:00:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ডিম-মাংসের জোড়া চাহিদা! সঠিক প্রজাতিই বদলে দিতে পারে ভাগ্য! মুরগি প্রতিপালনে লাভের নিরিখে হিঙ্গলগঞ্জে নজির প্রশান্তের",
-    "desc": "হিঙ্গলগঞ্জের এক যুবক প্রমাণ করে দিলেন যে, সঠিক পরিকল্পনা ও উন্নত প্রজাতির মুরগি নির্বাচন করলে পোল্ট্রি ব্যবসায় লক্ষ্মীলাভ নিশ্চিত। ডিম এবং মাংসের ক্রমবর্ধমান চাহিদাকে কাজে লাগিয়ে আজ তিনি জেলার অন্যতম সফল খামারি। বেকারত্ব ঘুচিয়ে লাভের মুখ দেখার সেই মন্ত্র এবার সবার সামনে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/businees-idea-poultry-farming-2026-02-eafad4c75a3c9e0e69bfd470d569eeb5-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/north-24-parganas-business-idea-hingalganj-youth-poultry-farming-success-with-profitable-chicken-breeds-l18-local18-2529728.html",
-    "time": "2026-02-07T08:51:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "৭.২ রেটিং, ভারতীয় সিরিজের ১২ দিনে ৫ কোটি ভিউ ! বিশ্বব্যাপী নেটফ্লিক্সে ১ নম্বর হিট",
-    "desc": "নীরজ পান্ডে পরিচালিত ওয়েব সিরিজ তস্করি: দ্য স্মাগলার্স ওয়েব বিশ্বব্যাপী জনপ্রিয়তা অর্জন করেছে। গত সপ্তাহে সিরিজটি নেটফ্লিক্সের ২০টি ভিন্ন দেশে সেরা ১০টি ‘নন-ইংলিশ’ অনুষ্ঠানের তালিকায় ট্রেন্ডিংয়ে ছিল। মজার বিষয় হল, এই সিরিজ ১০টি দেশের মধ্যে এক নম্বরে ছিল, যা তার অসাধারণ জনপ্রিয়তা প্রদর্শন করে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Netflix-Film-Taskaree-2026-02-e44ad015b942816af35fab8cfc764c6a-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/emraan-hashmi-taskaree-the-smugglers-web-50-million-views-netflix-series-global-trending-ss-2528342.html",
-    "time": "2026-02-07T04:57:29.000Z"
   }
 ];
