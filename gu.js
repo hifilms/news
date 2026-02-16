@@ -1,12 +1,48 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "તારિક રહેમાનની કેબિનેટમાં આ હિંદુ બનશે મંત્રી, નામ લગભગ ફાઇનલ... કોણ છે ગોયેશ્વર ચંદ્ર રોય?",
+    "desc": "બાંગ્લાદેશના નવા પ્રધાનમંત્રી તરીકે તારિક અહેમદ 17 ફેબ્રુઆરીએ શપથ ગ્રહણ કરશે. નવી કેબિનેટમાં ક્યા નેતાઓ મંત્રી બનશે તેની ચર્ચા શરૂ થઈ ગઈ છે. આ વચ્ચે એક હિંદુ સાંસદનું નામ સામે આવ્યું છે, જે બાંગ્લાદેશની નવી સરકારમાં મંત્રી બની શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/bangladesh-new-cabinet-hindu-gayeshwar-chandra-roy-tarique-rahman-cabinet-465098 ",
+    "time": "2026-02-16T06:35:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Video",
+    "desc": "T20 વર્લ્ડ કપ 2026ની કોલંબોમાં રમાયેલી મેચમાં ભારતે પાકિસ્તાનને 61 રનથી હરાવીને સુપર-8માં એન્ટ્રી કરી છે. આ મેચ જોવા PCB ચેરમેન મોહસીન નકવી પણ પહોંચ્યો હતો. જો કે, ભારત સામે હાર ભાળી જતાં મેચ પહેલાં જ ટ્રોફી ચોર સ્ટેડિયમ છોડીને ભાગતો જોવા મળ્યો હતો, જેનો એક વીડિયો વાયરલ થઈ રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/pcb-chairman-mohsin-naqvi-fled-stadium-before-india-victory-465097 ",
+    "time": "2026-02-16T06:33:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ચર્ચામાં છે IAS અવિ પ્રસાદના ત્રીજા લગ્ન, અગાઉની બંને પત્નીઓ કલેક્ટર, ત્રીજી પત્ની ડેપ્યુટી સેક્રેટરી",
+    "desc": "મધ્ય પ્રદેશના આઈએએસ અધિકારી અવિ પ્રસાદ હાલ ખુબ ચર્ચામાં છે. તેમણે ત્રીજા લગ્ન કર્યા છે. પહેલી બંને પત્નીઓ કલેક્ટર અને ત્રીજી પત્ની પણ આઈએએસ ઓફિસર છે. જાણો કોણ છે અવિ પ્રસાદ અને તેમના લગ્ન વિશે...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/who-is-ias-officer-avi-prasad-whose-third-marriage-is-in-the-news-madhya-pradesh-465096 ",
+    "time": "2026-02-16T06:26:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "પાકિસ્તાનની હારનો સૌથી મોટો ગુનેગાર કોણ ? જાણો કેપ્ટને કોના પર ફોડ્યું હારનું ઠીકરું",
+    "desc": "ભારત સામેની મેચમાં પાકિસ્તાનનું પ્રદર્શન ખૂબ જ ખરાબ રહ્યું. બેટિંગ, બોલિંગ અને ફિલ્ડીંગ એકેય વિભાગમાં પાકિસ્તાન લયમાં જોવા મળ્યું નહીં અને કારમી હારનો સામનો કરવો પડ્યો. મેચ બાદ કેપ્ટન સલમાન અલી આગાનું દર્દ છલકાયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-pakistan-captain-salman-ali-agha-reaction-after-losing-to-india-465086 ",
+    "time": "2026-02-16T05:24:28.000Z"
+  },
+  {
     "cat": "Business",
     "title": "આજે પણ બજાર ખુલતા જ સોનું-ચાંદી ધડામ, સોનું ઓલટાઈમ હાઈથી 26000 અને ચાંદી 1.83 લાખ સસ્તા, લેટેસ્ટ રેટ ચેક કરો",
     "desc": "ભારે ઉતાર ચડાવ વચ્ચે આજે નવા અઠવાડિયાના પહેલા દિવસે ભારતીય વાયદા બજાર (MCX) પર સોના અને ચાંદીના ભાવમાં ખુલતા જ કડાકો જોવા મળ્યો છે. જાણો લેટેસ્ટ રેટ કેટલો અને આગળ શું પરિસ્થિતિ રહી શકે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/mcx-latest-gold-and-silver-rates-retain-bazar-rate-aaj-no-sona-chandi-no-bhav-business-news-in-gujarati-465084 ",
-    "time": "2026-02-16T04:35:46.000Z"
+    "time": "2026-02-16T05:04:43.000Z"
   },
   {
     "cat": "Business",
@@ -135,15 +171,6 @@ const newsData_gu = [
     "time": "2026-02-14T13:16:09.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "પાકિસ્તાનની હવે ખેર નથી, ભારતના બ્રહ્માસ્ત્રની ટીમમાં વાપસી પાક્કી, કેપ્ટને કરી પુષ્ટિ",
-    "desc": "ભારત અને પાકિસ્તાન વચ્ચેનો મહામુકાબલો કોલંબોના આર. પ્રેમદાસા સ્ટેડિયમમાં રમાશે. આ પહેલા ભારતીય કેપ્ટન સૂર્યાકુમાર યાદવે શનિવારે એક પ્રેસ કોન્ફરન્સમાં અભિષેક શર્માના રમવા અંગે મોટો ખુલાસો કર્યો છે. સૂર્યાએ જણાવ્યું છે કે અભિષેક શર્મા પાકિસ્તાન સામેની મેચમાં રમવા માટે તૈયાર છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/abhishek-sharma-will-play-against-pakistan-captain-suryakuma-yadav-confirm-464943 ",
-    "time": "2026-02-14T12:59:59.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "આ મારુતિ સુઝીકીની ગાડીઓ પર મળે છે 2.15 લાખ સુધીનું ભારે ડિસ્કાઉન્ટ, જલ્દી ચેક કરો ઓફર",
     "desc": "ડિસેમ્બર મહિનો પુરો થયાને ઉપર એક મહિનાથી ઉપર સમય થઈ ગયો છે, છતા મારૂતિ સુઝુકી પોતાની ગાડીઓ પર હજી પણ ડિસ્કાઉન્ટ આપી રહી છે, જે અનેક સેડાન ગાડીઓ પર લાગુ પડે છે. આ કારો પર 2.15 લાખ સુધી લાભ મળી શકે છે.",
@@ -160,15 +187,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/cbi-and-i4c-recommendation-biometric-kyc-for-bank-accounts-464920 ",
     "time": "2026-02-14T11:46:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 વર્લ્ડ કપ વચ્ચે આ ટીમ માટે ખરાબ સમાચાર, ટીમના સભ્યને આવ્યો હાર્ટ એટેક",
-    "desc": "T20 વર્લ્ડ કપ 2026 દરમિયાન અફઘાનિસ્તાનની ટીમ માટે એક ખરાબ સમાચાર સામે આવ્યા છે. ટીમના પરફોર્મન્સ એનાલિસ્ટ KC રામા સુબ્રમણ્યમને હાર્ટ એટેક આવ્યો છે. ટીમના ખરાબ પ્રદર્શન વચ્ચે આ સમાચારે ટીમની મુશ્કેલી વધારી દીધી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/afghanistan-performance-analyst-k-c-rama-subramanian-suffered-a-heart-attack-464930 ",
-    "time": "2026-02-14T11:34:58.000Z"
   },
   {
     "cat": "Entertainment",
@@ -459,15 +477,6 @@ const newsData_gu = [
     "time": "2026-02-11T06:01:43.000Z"
   },
   {
-    "cat": "Business",
-    "title": "હજુ પણ ઓલટાઈમ હાઈથી સોનું 22000 અને ચાંદી 1.59 લાખ રૂપિયા સસ્તી, જાણો સોના-ચાંદીનો આજનો ભાવ",
-    "desc": "સોના અને ચાંદીમાં ભારે અપડાઉન જોવા મળી રહ્યું છે. 29 જાન્યુઆરીએ ઓલટાઈમ હાઈ પર પહોંચ્યા બાદ અચાનક બંને કિમતી ધાતુઓ પછડાઈ. પરંતુ હવે ધીરે ધીરે પાછા ભાવ ચડી રહ્યા છે. આજે વાયદા બજારમાં સોનુ અને ચાંદી લીલા નિશાનમાં જોવા મળ્યા. જો કે આમ છતાં ઓલટાઈમ હાઈ કરતા હજુ પણ આ બંને ધાતુઓ ઘણી સસ્તી છે. ફટાફટ આજનો ભાવ ચેક કરો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-rise-today-but-still-cheaper-than-all-time-high-aaj-no-sona-chandi-no-bhav-464577 ",
-    "time": "2026-02-11T04:17:42.000Z"
-  },
-  {
     "cat": "World",
     "title": "ભારત-પાકિસ્તાન યુદ્ધમાં 10 વિમાનો તોડી પાડ્યા, ડોનાલ્ડ ટ્રમ્પનો નવો દાવો, ટેરિફની ધમકીઓ અટકાવ્યું પરમાણુ યુદ્ધ",
     "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે દાવો કર્યો છે કે તેમણે ટેરિફની ધમકી આપીને ભારત અને પાકિસ્તાન વચ્ચે સંભવિત પરમાણુ યુદ્ધ ટાળ્યું હતું. ટ્રમ્પે એક મુલાકાતમાં જણાવ્યું હતું કે લશ્કરી મુકાબલા દરમિયાન 10 વિમાનોને તોડી પાડવામાં આવ્યા હતા.",
@@ -502,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/box-office-collection-films-in-800-crore-club-dhurandhar-pushpa-2-the-rule-464526 ",
     "time": "2026-02-10T10:17:58.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "અમેરિકાએ બાંગ્લાદેશ સાથે એવી તે કઈ &amp;#039;સિક્રેટ&amp;#039; ડીલ કરી નાખી? જાણો ભારત માટે શું છે ચિંતાજનક",
-    "desc": "બરાબર ચૂંટણી પહેલા બાંગ્લાદેશે અમેરિકા સાથે એક એવી ડીલ કરી જેની અસર ભારતના શેરબજારમાં જોવા મળી અને કેટલીક કંપનીના શેર તૂટ્યા. બાંગ્લાદેશે એવી તે કઈ ડીલ કરી અને ભારત માટે શું ચિંતા જેવું તે પણ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/explainer-bangladesh-us-trade-deal-just-before-elections-what-impact-on-india-464508 ",
-    "time": "2026-02-10T08:56:03.000Z"
   },
   {
     "cat": "Entertainment",

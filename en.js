@@ -1,5 +1,149 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Meghan Markle, Prince Harry, Queen Latifah spotted at NBA game",
+    "desc": "Meghan Markle and Prince Harry were spotted enjoying an NBA game courtside in California, sharing a memorable evening with Queen Latifah and her family. The royal couple, dressed in black, were seen engaging in lively conversation with the music icon. This outing follows their recent Valentine's Day celebrations, which included a public display of affection with their daughter, Lillibet.",
+    "img": "https://static.toiimg.com/photo/msid-128410795,imgsize-52858.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/meghan-markle-prince-harry-attends-nba-all-star-game-pics-go-viral-as-duo-chats-with-queen-latifah/articleshow/128410795.cms",
+    "time": "2026-02-16T06:48:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Older than London’s Big Ben, Palayamkottai’s historic clock is set to chime again",
+    "desc": "“Big Ben was installed in 1859, whereas this clock was manufactured in 1854 and installed in 1855. It was made by John Moore & Sons of Clerkenwell, a renowned London-based clockmaker,” said antique clock collector Robert Kennedy",
+    "img": "https://th-i.thgim.com/public/sci-tech/technology/34m18l/article70637649.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-16%20at%2010.50.18.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/older-than-londons-big-ben-palayamkottais-historic-clock-is-set-to-chime-again/article70637581.ece",
+    "time": "2026-02-16T06:25:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "A lot needs to be done, but sports feels like my safe space: Nicolas Keenan",
+    "desc": "Argentinian hockey star Nicolas Keenan shares his journey as an openly gay athlete. He highlights the importance of visibility and support for the LGBTQ+ community in sports. Keenan emphasizes the need for international sports federations to create safer environments. His relationship with Dutch PM-elect Rob Jetten inspires him to be his authentic self and reach his full potential.",
+    "img": "https://static.toiimg.com/photo/msid-128409999,imgsize-36770.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/a-lot-needs-to-be-done-but-sports-feels-like-my-safe-space-nicolas-keenan/articleshow/128409987.cms",
+    "time": "2026-02-16T06:23:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC/ST-OBC dilemma: Karnataka’s Rohith Vemula Act against caste bias on college campus stuck in red tape",
+    "desc": "The debate on the proposed law has again come to the forefront after the Supreme Court of India stayed the UGC (Promotion of Equity in Higher Education Institutions) Regulations 2026, followed by agitations both for and against the regulations",
+    "img": "https://th-i.thgim.com/public/incoming/a3rqqi/article70637360.ece/alternates/LANDSCAPE_1200/PTI08_26_2024_000126A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnatakas-rohith-vemula-act-stuck-in-red-tape-while-proposed-ugc-regulations-on-caste-discrimination-on-college-campus-stayed-by-supreme-court/article70635418.ece",
+    "time": "2026-02-16T06:17:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Biggest crime in the world': Akhtar slams PCB chief Naqvi, Pakistan",
+    "desc": "Shoaib Akhtar slammed PCB chief Mohsin Naqvi and Babar Azam after Pakistan’s 61-run loss to India, calling the leadership “incompetent” and questioning Babar’s match-winning ability. He said Pakistan lacks investment and modern talent to compete with India. In the match, India made 175/7 and bowled Pakistan out for 114, with early wickets triggering a collapse despite Usman Khan’s 44.",
+    "img": "https://static.toiimg.com/photo/msid-128409409,imgsize-35848.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/biggest-crime-in-the-world-shoaib-akhtar-slams-pcb-chief-mohsin-naqvi-pakistan-after-india-defeat/articleshow/128408548.cms",
+    "time": "2026-02-16T06:07:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No match! India outclass Pakistan by 61 runs as rivalry loses old fire",
+    "desc": "India showcased remarkable batting depth and smarts to decisively defeat Pakistan by 61 runs. Ishan Kishan's explosive 77 off 40 balls set a strong foundation on a challenging pitch. The Indian bowlers, led by Jasprit Bumrah and Axar Patel, then stifled Pakistan's chase, highlighting a significant gulf in class.",
+    "img": "https://static.toiimg.com/photo/msid-128409392,imgsize-210794.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/no-match-india-outclass-pakistan-by-61-runs-as-rivalry-loses-old-fire/articleshow/128409373.cms",
+    "time": "2026-02-16T06:05:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What's the outlook for Nifty for February 16-20 week? Check list of top stock recommendations",
+    "desc": "Arvind, and Bajaj Finance are the top stock picks by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities for the week starting February 16, 2026. He also shares his views and outlook on Nifty, Bank Nifty:",
+    "img": "https://static.toiimg.com/photo/msid-128409385,imgsize-76758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stocks-to-buy-this-week-february-16-to-february-20-stock-recommendations-arvind-bajaj-finance/articleshow/128409278.cms",
+    "time": "2026-02-16T06:04:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "An olive green recession",
+    "desc": "As fewer youths from Punjab join the armed forces, the residents of Nathowal, known locally as ‘faujian da pind’ (village of soldiers) in Ludhiana district, lay out the reasons. They tell Vikas Vasudeva that Agnipath’s uncertainty, drug fears, and the lure of foreign earnings, are pushing parents to send children away from home, creating a generation that’s dreaming beyond regimental traditions",
+    "img": "https://th-i.thgim.com/public/incoming/y07ji4/article70634981.ece/alternates/LANDSCAPE_1200/PUNJAB%20SPOTLIGHT%20VIKAS%20VASUDEVA%20ARMY%20RECRUITMENT%20DECLINE%206.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/punjab/spotlight-punjab-an-olive-green-recession/article70634980.ece",
+    "time": "2026-02-16T05:55:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Border 2' surpasses Rs 440 cr mark worldwide on Day 24",
+    "desc": "With a formidable total of Rs 321.95 crore in India and Rs 440.25 crore globally, 'Border 2' featuring Sunny Deol and Varun Dhawan has captivated audiences. Although it enjoyed a spectacular launch thanks to the Republic Day holiday, the film's momentum has waned as it enters its fourth week.",
+    "img": "https://static.toiimg.com/photo/msid-128408939,imgsize-22094.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/border-2-box-office-collection-day-24-sunny-deol-and-varun-dhawan-starrer-surpasses-rs-440-crore-mark-worldwide/articleshow/128408939.cms",
+    "time": "2026-02-16T05:53:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Travis Kelce’s cheeky valentine for Taylor Swift thrills fans everywhere",
+    "desc": "Travis Kelce playfully referenced Taylor Swift's song 'Wood' in a Valentine's Day tribute, sharing a \"Wood you be my Valentine?\" card on the 'New Heights' podcast Instagram. This marks their first Valentine's as an engaged couple, showcasing their comfort with Swift's music celebrating their romance.",
+    "img": "https://static.toiimg.com/photo/msid-128408762,imgsize-594584.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/travis-kelce-shares-sweet-first-valentine-with-taylor-swift-after-engagement-fans-react-online/articleshow/128408693.cms",
+    "time": "2026-02-16T05:46:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rihanna handles wardrobe malfunction at fashion show with grace",
+    "desc": "Rihanna showcased remarkable poise at A$AP Rocky's New York Fashion Week show when a daring slit in her leather jacket caused a brief wardrobe malfunction. She swiftly adjusted, continuing her walk with effortless grace. The singer expressed immense pride in her partner's creative genius, highlighting their enduring relationship and shared family life.",
+    "img": "https://static.toiimg.com/photo/msid-128408684,imgsize-36690.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/rihanna-attends-beau-aap-rockys-fashion-show-faces-an-outfit-malfunction/articleshow/128408684.cms",
+    "time": "2026-02-16T05:45:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Van Helsing’ set for free streaming release this March",
+    "desc": "Hugh Jackman's 2004 monster-slaying blockbuster, 'Van Helsing,' is heading to free streaming on Tubi starting March 1. Directed by Stephen Sommers, the film features a star-studded cast including Kate Beckinsale and Richard Roxburgh. Despite a critical panning, the CGI-heavy adventure earned $300 million at the box office.",
+    "img": "https://static.toiimg.com/photo/msid-128408576,imgsize-1159255.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/van-helsing-hugh-jackmans-monster-epic-set-for-free-streaming-release-this-march/articleshow/128408576.cms",
+    "time": "2026-02-16T05:40:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Is gold set to exhibit a bullish bias in the near term? Top factors to watch out for",
+    "desc": "Gold prices have pulled back from recent highs, but there is an underlying bullish bias, says Manav Modi, Senior Analyst, Commodity Research at Motilal Oswal Financial Services Ltd. Below is his outlook for gold prices today and this week, along with top factors that will influence the movement of the yellow metal:",
+    "img": "https://static.toiimg.com/photo/msid-128408481,imgsize-43512.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-february-16-2026-week-should-you-buy-or-sell-mcx-gold/articleshow/128408441.cms",
+    "time": "2026-02-16T05:36:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anna Cathcart sparks romance buzz with valentine post online",
+    "desc": "Fans are abuzz as 'XO, Kitty' star Anna Cathcart subtly hinted at a new romance with dreamy Valentine's Day photos. The actress shared intriguing glimpses of a mystery man, sparking speculation about a 'soft launch' just as Season 3 of her hit Netflix show approaches.",
+    "img": "https://static.toiimg.com/photo/msid-128408388,imgsize-579553.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/anna-cathcart-sparks-romance-rumors-with-valentines-soft-launch-ahead-of-xo-kitty-season-3-premiere/articleshow/128408378.cms",
+    "time": "2026-02-16T05:35:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meera Jasmine's character poster from ‘L 366' out",
+    "desc": "Meera Jasmine joins Mohanlal in Tharun Moorthy's upcoming film, tentatively titled ‘L366’, portraying Naicy, reportedly Lovelajan's wife. Her character poster was released on her birthday. This marks their fifth collaboration. The film, scripted by Ratheesh Ravi, features a strong technical crew and is currently filming in Thodupuzha.",
+    "img": "https://static.toiimg.com/photo/msid-128408241,imgsize-36176.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/meera-jasmine-to-play-naicy-in-mohanlal-tharun-moorthys-l-366-character-poster-out/articleshow/128408241.cms",
+    "time": "2026-02-16T05:27:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "It's win or bust for Australia against Sri Lanka",
+    "desc": "Australia face a must-win T20 World Cup clash against Sri Lanka after a shocking defeat to Zimbabwe. With Steve Smith arriving as cover and captain Mitchell Marsh injured, selection is a concern. Sri Lanka, already top of their group, aim to secure Super Eight qualification with a win, while Australia's path is complex, requiring victories and favorable results elsewhere.",
+    "img": "https://static.toiimg.com/photo/msid-128407765,imgsize-125862.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-its-win-or-bust-for-australia-against-sri-lanka/articleshow/128407755.cms",
+    "time": "2026-02-16T05:09:37.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Most professors of practice hired in Tamil Nadu followed by Maharashtra, Gujarat: UGC Data",
     "desc": "According to the data, 1,841 PoPs have been hired by 349 HEIs so far, the maximum of them being in Tamil Nadu (395); while 193 PoPs have been hired in Maharashtra (193), Gujarat and Karnataka have appointed 179 and 170 professionals, respectively",
@@ -10,16 +154,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Karnataka’s Rohith Vemula Act stuck in red tape while proposed UGC regulations on caste discrimination on college campus stayed by Supreme Court",
-    "desc": "The debate on the proposed law has again come to the forefront after the Supreme Court of India stayed the UGC (Promotion of Equity in Higher Education Institutions) Regulations 2026, followed by agitations both for and against the regulations",
-    "img": "https://th-i.thgim.com/public/incoming/a3rqqi/article70637360.ece/alternates/LANDSCAPE_1200/PTI08_26_2024_000126A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnatakas-rohith-vemula-act-stuck-in-red-tape-while-proposed-ugc-regulations-on-caste-discrimination-on-college-campus-stayed-by-supreme-court/article70635418.ece",
-    "time": "2026-02-16T04:28:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Guru Dakshina means flag’: Priyank Kharge levels ‘money laundering racket’ charge against RSS",
+    "title": "'Why is it not paying tax?': Priyank Kharge levels ‘money laundering racket’ charge against RSS",
     "desc": "Karnataka Minister Priyank Kharge has accused the Rashtriya Swayamsevak Sangh of engaging in money laundering and questioned its sources of income. He demanded that the RSS, an unregistered organization, be held accountable and pay taxes like other citizens and entities under the law and Constitution.",
     "img": "https://static.toiimg.com/photo/msid-128405608,imgsize-545255.cms",
     "src": "indiatimes.com",
@@ -34,15 +169,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dia-mirza-and-vaibhav-rekhi-celebrate-5th-anniversary-actress-shares-wedding-pics-online/articleshow/128406578.cms",
     "time": "2026-02-16T04:26:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "An olive green recession",
-    "desc": "As fewer youths from Punjab join the armed forces, the residents of Nathowal, known locally as ‘faujian da pind’ (village of soldiers) in Ludhiana district, lay out the reasons. They tell Vikas Vasudeva that Agnipath’s uncertainty, drug fears, and the lure of foreign earnings, are pushing parents to send children away from home, creating a generation that’s dreaming beyond regimental traditions",
-    "img": "https://th-i.thgim.com/public/incoming/y07ji4/article70634981.ece/alternates/LANDSCAPE_1200/PUNJAB%20SPOTLIGHT%20VIKAS%20VASUDEVA%20ARMY%20RECRUITMENT%20DECLINE%206.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/punjab/spotlight-punjab-an-olive-green-recession/article70634980.ece",
-    "time": "2026-02-16T04:24:30.000Z"
   },
   {
     "cat": "Entertainment",
@@ -106,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/glen-powell-recalls-elaborate-jailhouse-prank-on-sister-involving-joe-jonas-ahead-of-how-to-make-a-killing-release/articleshow/128406114.cms",
     "time": "2026-02-16T04:08:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Karnataka Minister Priyank Kharge accuses RSS of money laundering",
-    "desc": "“They want us to be good citizens by paying income tax, but they want to remain free,” the Minister said at the release of a book recounting the horrors of communal riots in the coastal region",
-    "img": "https://th-i.thgim.com/public/incoming/dm2861/article70636005.ece/alternates/LANDSCAPE_1200/TH25-SOBHANA-ThGJKFG4PH1.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/priyank-kharge-accuses-rss-of-indulging-in-money-laundering/article70635537.ece",
-    "time": "2026-02-16T03:56:01.000Z"
   },
   {
     "cat": "Sports",
@@ -216,6 +333,15 @@ const newsData_en = [
     "time": "2026-02-16T02:44:35.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "Gujarat, Maharashtra, UP lead rooftop solar figures",
+    "desc": "Gujarat, Maharashtra, and Uttar Pradesh are leading in rooftop solar installations. Over 23 lakh systems have been installed nationwide under the PM Surya Ghar scheme. The government aims to install one crore systems by 2027. Monthly installations have significantly increased since the scheme's launch. Financing and awareness remain key areas for improvement.",
+    "img": "https://static.toiimg.com/photo/msid-128409399,imgsize-958952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/gujarat-maharashtra-up-lead-rooftop-solar-figures/articleshow/128403876.cms",
+    "time": "2026-02-16T02:42:58.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Film FAILS to cross Rs 3 cr",
     "desc": "In a gripping twist on the survival genre, Bejoy Nambiar's 'Tu Yaa Main', featuring Adarsh Gourav and Shanaya Kapoor, has opened to a modest reception, raking in Rs 2.80 crore net in its inaugural weekend. The film, centered around two content creators caught in a perilous survival challenge, struggled to draw in moviegoers, with a disappointing 13.",
@@ -223,15 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/tu-yaa-main-box-office-collection-day-3-adarsh-gourav-and-shanaya-kapoor-starrer-fails-to-cross-rs-3-crore-in-opening-weekend/articleshow/128403614.cms",
     "time": "2026-02-16T02:32:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Why stepping back sparked his Next era",
-    "desc": "Harry Styles reflects on the necessity of his recent multi-year hiatus following his \"Love on Tour,\" which allowed him to recharge and focus on personal life before his upcoming album and tour. This break mirrors his earlier decision to pause One Direction's career to avoid exhausting their fanbase and ensure the group's longevity.",
-    "img": "https://static.toiimg.com/photo/msid-128373059,imgsize-686136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/harry-styles-on-stepping-back-turning-32-and-why-taking-a-break-was-the-key-to-his-next-era/articleshow/128373067.cms",
-    "time": "2026-02-16T02:28:35.000Z"
   },
   {
     "cat": "Politics",
@@ -244,57 +361,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Priyanka recalls STRUGGLES in Hollywood",
-    "desc": "Priyanka Chopra, speaking at Harvard, reflected on her challenging transition from Bollywood to Hollywood. She detailed enduring smaller roles and long hours, driven by a youthful ambition for 'legacy' over career. Today, her definition of success has evolved to prioritizing family time and selective work, a shift made possible by her younger self's resilience.",
-    "img": "https://static.toiimg.com/photo/msid-128402839,imgsize-21746.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-recalls-struggles-in-hollywood-says-i-forgave-my-younger-self-for-the-things-she-did-/articleshow/128402308.cms",
-    "time": "2026-02-16T01:55:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman and SRK's 'Tiger vs Pathaan' PUT ON HOLD- Report",
-    "desc": "Disappointment echoes among fans as the much-anticipated showdown of Salman Khan and Shah Rukh Khan in 'Tiger vs. Pathaan' seems to be on hold. Reports indicate that financial constraints, especially regarding the hefty paychecks of the two megastars, are behind the film's indefinite delay before it even hit the production phase.",
-    "img": "https://static.toiimg.com/photo/msid-128402391,imgsize-54668.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-and-shah-rukh-khans-tiger-vs-pathaan-put-on-hold-by-aditya-chopras-production-house-report/articleshow/128402391.cms",
-    "time": "2026-02-16T01:36:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hrithik REACTS to Metro bridge slab collapse; 'Traumatic'",
-    "desc": "Bollywood icon Hrithik Roshan took to social media to voice his sorrow regarding the Mumbai Metro bridge slab collapse, a heartbreaking event that left one person dead and many more injured. He passionately urged governmental bodies to prioritize safety enforcement at construction sites, highlighting the essential duty to safeguard both workers and residents during urban development endeavors.",
-    "img": "https://static.toiimg.com/photo/msid-128401679,imgsize-23764.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshan-strongly-reacts-to-mumbai-metro-bridge-slab-collapse-killing-a-person-calls-it-traumatic/articleshow/128401679.cms",
-    "time": "2026-02-16T00:56:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tharoor calls Priyanka ‘remarkable’ after Harvard reunion",
-    "desc": "Congress MP Shashi Tharoor and Bollywood star Priyanka Chopra recently met at the Harvard India Conference. Tharoor shared his admiration for Chopra's success, noting her poise and wisdom. Chopra, a keynote speaker, spoke about her formative years in the US and her journey bridging Bollywood and Hollywood, inspiring students with her experiences.",
-    "img": "https://static.toiimg.com/photo/msid-128401729,imgsize-27886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shashi-tharoor-calls-priyanka-chopra-remarkable-after-harvard-reunion-actress-delivers-motivational-speech-to-students/articleshow/128401017.cms",
-    "time": "2026-02-16T00:54:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Shahid's 'O' Romeo' CROSSES Rs 30 cr over opening weekend",
     "desc": "In a spectacular debut, Shahid Kapoor's 'O' Romeo' has shattered expectations at the Indian box office, amassing Rs 30.15 crore over its opening weekend. This romantic drama, though met with varied audience feedback on its narrative, has achieved a global total of Rs 40.6 crore. Read on to know more.",
     "img": "https://static.toiimg.com/photo/msid-128400871,imgsize-102596.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/o-romeo-box-office-collection-day-3-and-day-4-live-shahid-kapoor-and-triptii-dimri-starrer-races-past-rs-30-crore-over-opening-weekend/articleshow/128400871.cms",
     "time": "2026-02-16T00:04:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'AKOTSK' Ep 5: Viral BTS image SPOILS major moment",
-    "desc": "Fans of 'A Knight of the Seven Kingdoms' are buzzing after a behind-the-scenes image seemingly revealed a tragic turn in Episode 5. The photo suggests Baelor is on his knees during a fight with Maekar, sparking widespread speculation about a major character's fate. This potential spoiler has already led to strong reactions online.",
-    "img": "https://static.toiimg.com/photo/msid-128400401,imgsize-41932.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/a-knight-of-the-seven-kingdoms-did-bts-image-of-baelor-maekar-and-lyone-spoil-major-moment-in-series/articleshow/128399977.cms",
-    "time": "2026-02-15T23:31:23.000Z"
   },
   {
     "cat": "Sports",
@@ -313,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/another-world-cup-match-another-victory-ishan-se/articleshow/128399793.cms",
     "time": "2026-02-15T22:51:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Stranger Things’ star Maya Hawke weds Christian Lee Hutson",
-    "desc": "Maya Hawke, star of 'Stranger Things', tied the knot with musician Christian Lee Hutson in a surprise Valentine's Day ceremony. The couple exchanged vows in New York City, with Maya stunning in a grand white gown and feathery coat. Her parents, Ethan Hawke and Uma Thurman, along with several 'Stranger Things' co-stars, were in attendance to celebrate their union.",
-    "img": "https://static.toiimg.com/photo/msid-128397125,imgsize-38626.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/maya-hawke-weds-christian-lee-hutson-in-intimate-valentines-day-ceremony-stranger-things-co-stars-attend-pics/articleshow/128396574.cms",
-    "time": "2026-02-15T22:10:34.000Z"
   },
   {
     "cat": "Politics",
@@ -495,60 +558,6 @@ const newsData_en = [
     "time": "2026-02-15T15:04:52.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Budget avoided populism, focused on productive capex to power ‘Reform Express’: PM Modi",
-    "desc": "Prime Minister Modi highlighted the Union Budget's focus on productive spending and record infrastructure outlays, steering clear of populism for sustainable growth. He emphasized plugging structural gaps, pursuing reforms, and laying foundations for a developed India, marking the 'next level' of the nation's journey. The Budget prioritizes long-term assets over short-term gains.",
-    "img": "https://static.toiimg.com/photo/msid-128386942,imgsize-893387.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-27-avoided-populism-focused-on-productive-capex-to-power-reform-express-pm-modi/articleshow/128386755.cms",
-    "time": "2026-02-15T15:01:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "HRD Minister Lokesh expresses solidarity with ‘kova bun’ vendor",
-    "desc": "Reacting to the viral video clip wherein the vendor from Kurnool district was allegedly forced by a group of YouTubers at Medaram Jatara to eat the delicacy he prepared to prove he was not resorting to ‘food jihad’, the HRD Minister, while expressing regret, says he looks forward to meeting Brother Vali and tasting the famous bun",
-    "img": "https://th-i.thgim.com/public/incoming/b8rrv2/article70635774.ece/alternates/LANDSCAPE_1200/10745_19_1_2026_20_34_48_2_IMG_20260119_WA0151.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/hrd-minister-lokesh-expresses-solidarity-with-kova-bun-vendor/article70635223.ece",
-    "time": "2026-02-15T14:17:39.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold, Silver likely to consolidate amid Fed rate-cut uncertainty: Analysts",
-    "desc": "Precious metal prices are set for continued volatility and consolidation as investors await crucial US economic data, including inflation and GDP figures. Market watchers are closely observing Federal Reserve signals for potential rate cut timelines. Gold experienced a sharp correction in February, influenced by stronger US employment data, while silver futures saw a decline.",
-    "img": "https://static.toiimg.com/photo/msid-128385749,imgsize-43200.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-likely-to-consolidate-amid-fed-rate-cut-uncertainty-analysts/articleshow/128385620.cms",
-    "time": "2026-02-15T14:17:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Salman Agha stuns India! Abhishek falls for four-ball duck in first over vs Pakistan",
-    "desc": "Abhishek Sharma's T20 World Cup struggles persisted as he was dismissed for a duck against Pakistan, caught by the captain himself in the opening over. This follows an earlier duck against the USA, raising concerns about his form. Despite a previous hospitalization, he was included in the playing XI for the crucial match.",
-    "img": "https://static.toiimg.com/photo/msid-128384850,imgsize-93792.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/salman-ali-agha-stuns-india-abhishek-sharma-falls-for-four-ball-duck-in-first-over-vs-pakistan/articleshow/128384870.cms",
-    "time": "2026-02-15T13:43:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "The charm of an India-Pakistan cricket contest has died but whose loss is it anyway?",
-    "desc": "The India-Pakistan clash in the T20 World Cup was never truly in doubt, driven by the subcontinent’s fragile cricket economy and high financial stakes. Pakistan’s pullout threat lacked substance, while Bangladesh’s missteps escalated tensions. Ultimately, economic realities, legal obligations, and survival instincts forced a compromise, restoring focus on the game over political posturing.",
-    "img": "https://static.toiimg.com/photo/msid-128384629,imgsize-173442.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/calling-the-bluff-the-charm-of-an-india-pakistan-cricket-contest-has-died-but-whose-loss-is-it-anyway/articleshow/128384627.cms",
-    "time": "2026-02-15T13:33:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India-UK trade agreement likely to come into force in April: Report",
-    "desc": "India and the UK's free trade agreement, signed last year, is slated for implementation by April 2026. This pact promises 99% duty-free access for Indian exports to Britain, while India will lower tariffs on cars and whisky. Parliamentary approval is currently underway in the UK, paving the way for enhanced bilateral trade.",
-    "img": "https://static.toiimg.com/photo/msid-128384374,imgsize-470556.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-uk-trade-agreement-likely-to-come-into-force-in-april-report/articleshow/128384095.cms",
-    "time": "2026-02-15T13:21:39.000Z"
-  },
-  {
     "cat": "World",
     "title": "India ‘very successful’ emerging economy; right place to host AI summit: UN Chief Guterres",
     "desc": "Mr. Guterres asserted “it would be totally unacceptable that AI would be just a privilege of the most developed countries or a division only between two superpowers”, an apparent reference to the U.S. and China",
@@ -556,24 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/india-very-successful-emerging-economy-right-place-to-host-ai-summit-un-chief-guterres/article70634551.ece",
     "time": "2026-02-15T13:14:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's stance against Pak continues despite calls for 'spirit'",
-    "desc": "India's captain Suryakumar Yadav and Pakistan's skipper Salman Ali Agha skipped the customary handshake at the T20 World Cup toss in Colombo. This continues India's stance, observed since the Asia Cup 2025, sparking debate. While Pakistan expressed openness to the gesture, India's captain remained non-committal, emphasizing a focus on cricket.",
-    "img": "https://static.toiimg.com/photo/msid-128383998,imgsize-38918.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/no-handshake-at-toss-indias-stance-against-pakistan-continues-in-t20-world-cup-despite-calls-for-spirit/articleshow/128382443.cms",
-    "time": "2026-02-15T13:10:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Global cues, AI disruption fears to steer markets this week: Analysts",
-    "desc": "Stock markets are poised for a volatile week, driven by US economic data, the Federal Reserve's policy outlook, and growing AI disruption fears. Analysts anticipate a cautious sentiment as investors monitor global geopolitical events and currency movements. Domestic sectors like banking and automobiles may gain traction, while broader indices are expected to trade sideways awaiting clearer economic signals.",
-    "img": "https://static.toiimg.com/photo/msid-128380560,imgsize-1069836.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/global-cues-ai-disruption-fears-to-steer-markets-this-week-analysts/articleshow/128380413.cms",
-    "time": "2026-02-15T11:08:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -592,24 +583,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-history-favours-india-against-an-unpredictable-pakistan-unit/article70632250.ece",
     "time": "2026-02-15T10:46:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India-US trade deal to help secure crude at competitive prices: Piyush Goyal",
-    "desc": "India and the US aim to boost bilateral trade to $500 billion by 2030, with energy imports like crude oil and LNG forming a key part. This interim trade agreement will help India secure competitive energy prices and diversify suppliers. The pact also focuses on increasing steel, coking coal, and IT exports, enhancing market access for Indian goods.",
-    "img": "https://static.toiimg.com/photo/msid-128379730,imgsize-597400.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-to-help-secure-crude-at-competitive-prices-piyush-goyal/articleshow/128379624.cms",
-    "time": "2026-02-15T10:43:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "18,000 Indians, 12,000 Pakistanis, and 2,000 SL police: Scale of India-Pak showdown",
-    "desc": "Tens of thousands of Indian and Pakistani fans have converged on Colombo for the high-voltage India-Pakistan clash, turning the city into a fortress with massive security deployment. Beyond politics and critique, the match has energised local livelihoods, packed the stadium to capacity and reaffirmed why this rivalry remains cricket’s most powerful spectacle.",
-    "img": "https://static.toiimg.com/photo/msid-128377881,imgsize-102584.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/18000-indians-12000-pakistanis-and-2000-sri-lankan-police-the-scale-of-the-india-pakistan-showdown/articleshow/128377821.cms",
-    "time": "2026-02-15T09:24:47.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/netherlands-vs-usa-match-group-stage-updates-february-13/article70628715.ece",
     "time": "2026-02-13T17:30:48.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "What does BNP’s win mean for India?",
+    "desc": "In Bangladesh’s big election, the BNP scores a major win against the Islamist Jamaat in coalition NCP Gen Z party that ousted Sheikh Hasina. Muhammad Yunus delivers on his promise of elections, but without the Awami League, can the results from Bangladesh’s poll be politically sustainable? And what does it mean for India? We will get you ground reports from The Hindu’s Kallol Bhattacherjee in Dhaka.",
+    "img": "https://th-i.thgim.com/public/incoming/32zer4/article70629049.ece/alternates/LANDSCAPE_1200/BNP%20wins%20Bangladesh%20%20What%20does%20it%20mean%20for%20India.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-bangladesh-elections-what-does-bnps-win-mean-for-india/article70629046.ece",
+    "time": "2026-02-13T17:07:17.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Bangladesh Gen Z hope new government honours spirit of student-led uprising",
+    "desc": "Young voters in Bangladesh have urged the new BNP-led government to go beyond a peaceful election and deliver meaningful reform. Many Gen Z voters say the spirit of last year’s student-led uprising must be honoured through justice, transparency and equal opportunities.",
+    "img": "https://th-i.thgim.com/public/incoming/zcqcc9/article70629876.ece/alternates/LANDSCAPE_1200/gen%20z.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-bangladesh-gen-z-hope-new-government-honours-spirit-of-student-led-uprising/article70629889.ece",
+    "time": "2026-02-13T16:58:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "T20 World Cup 2026 preview",
+    "desc": "Both sit pretty, with qualification for Super Eight all but sealed; the Kiwis haven’t beaten the Proteas in four attempts in the showpiece; Markram has called for more discipline from his bowlers, who have leaked 28 extras across two games",
+    "img": "https://th-i.thgim.com/public/incoming/u58r50/article70629386.ece/alternates/LANDSCAPE_1200/VIS_3998.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-2026-preview-too-close-to-call-as-new-zealand-takes-on-south-africa/article70629402.ece",
+    "time": "2026-02-13T15:45:08.000Z"
   }
 ];

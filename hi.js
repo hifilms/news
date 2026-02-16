@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shoaib Malik questions Babar Azam's role in Pakistan squad, slams selectors after loss against India",
+    "desc": "Former Pakistan cricketer Shoaib Malik was quick to raise questions of star Pakistan batter Babar Azam after his failure against team India in game 27 of the ongoing T20 World Cup 2026. It is worth...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shoaib-malik-questions-babar-azam-s-role-in-pakistan-squad-slams-selectors-after-loss-against-india-2026-02-16-1030464",
+    "time": "2026-02-16T06:41:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Amelia Kerr named New Zealand women's new all-format captain",
+    "desc": "Star New Zealand women’s all-rounder Amelia Kerr has been announced as the side’s new all-format captain. It is worth noting that Kerr will be taking over in the role from Sophie Devine, who retired from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/amelia-kerr-named-new-zealand-women-s-new-all-format-captain-2026-02-16-1030457",
+    "time": "2026-02-16T05:58:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shahid Afridi asks for removal of son-in-law Shaheen from the squad after Pakistan's humbling defeat",
+    "desc": "Pakistan yet again failed to register a victory against team India, taking on their arch-rivals in game 27 of the ongoing T20 World Cup 2026. While many backed Pakistan to put up a fight against...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shahid-afridi-asks-for-removal-of-son-in-law-shaheen-from-the-squad-after-pakistan-s-humbling-defeat-against-india-2026-02-16-1030451",
+    "time": "2026-02-16T05:24:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Not thinking about any rivalry': Axar Patel rubs salt into wounds after India humiliate Pakistan in T20 WC",
+    "desc": "The Indian team humiliated Pakistan in the 27th game of the ongoing T20 World Cup 2026. The two sides took on each other at the R. Premadasa Stadium in Colombo on February 15. The game...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/not-thinking-about-any-rivalry-axar-patel-rubs-salt-into-wounds-after-india-humiliate-pakistan-in-t20-wc-2026-02-16-1030444",
+    "time": "2026-02-16T04:55:46.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mike Hesson reveals Pakistan dressing room's atmosphere after drubbing against India in Colombo",
     "desc": "Pakistan sustained a hefty loss against the Indian team in game 27 of the ongoing T20 World Cup 2026. The two sides took on each other at the R. Premadasa Stadium in Colombo; the clash...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pcb-chairman-mohsin-naqvi-left-stadium-during-ind-vs-pak-clash-after-pakistan-s-harakiri-with-bat-2026-02-15-1030413",
     "time": "2026-02-15T18:24:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "All hype, no show: Pakistan still stuck to 2010 T20 model in 2026, India hand them reality check",
-    "desc": "Pakistan appear out of sync with the demands of modern T20 cricket. The Salman Agha-led side seems short on both clarity and conviction, lacking a defined blueprint for success in the shortest format. While leading...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/all-hype-no-show-pakistan-still-stuck-to-2010-t20-model-in-2026-india-hand-them-reality-check-2026-02-15-1030412",
-    "time": "2026-02-15T18:06:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Operation Sindoor still going on': Netizens troll Pakistan after India's historic T20 World Cup win",
-    "desc": "India handed Pakistan a drubbing in their T20 World Cup 2026 clash at the R Premadasa Stadium on Sunday, February 15. The Men in Blue displayed a brilliant performance on a tacky Colombo surface with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/operation-sindoor-still-going-on-netizens-troll-pakistan-after-indias-historic-t20-world-cup-win-2026-02-15-1030411",
-    "time": "2026-02-15T18:00:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav dedicates Pakistan win in T20 World Cup 2026 to Indian fans",
-    "desc": "India defeated Pakistan by 61 runs in the T20 World Cup 2026 clash at the R Premadasa Stadium in Colombo. It was the Men in Blue’s biggest-ever win over the arch-rivals in the shortest format...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-dedicates-pakistan-win-in-t20-world-cup-2026-to-indian-fans-2026-02-15-1030410",
-    "time": "2026-02-15T17:24:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Memes galore after India annihilate Pakistan in T20 World Cup clash in Colombo",
-    "desc": "India defeated Pakistan once again to continue their domination in the T20 World Cup over their arch-rivals. The 61-run win highlighted the gulf between the two cricket teams as the men in blue also qualified...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-pak-memes-galore-after-india-annihilate-pakistan-in-t20-world-cup-clash-in-colombo-2026-02-15-1030409",
-    "time": "2026-02-15T17:16:07.000Z"
   }
 ];
