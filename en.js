@@ -1,5 +1,122 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Ajit Pawar plane's black boxes damaged in fire: AAIB",
+    "desc": "Black boxes from the crashed Learjet at Baramati airport sustained significant fire damage, the Aircraft Accident Investigation Bureau reported. While the flight data recorder was successfully downloaded, specialized help is needed for the cockpit voice recorder. This raises questions about the extent of damage, with experts and politicians calling the CVR's condition mysterious and serious, hinting at potential foul play.",
+    "img": "https://static.toiimg.com/photo/msid-128481003,imgsize-1193768.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ajit-pawar-planes-black-boxes-damaged-in-fire-aaib/articleshow/128481028.cms",
+    "time": "2026-02-17T21:15:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Modi, Macron launch H125 helicopter assembly line",
+    "desc": "India and France are deepening their strategic ties with a new helicopter assembly line in Karnataka and a potential multi-billion dollar Rafale jet deal. Prime Minister Modi highlighted the nations' shared trust and commitment to manufacturing and exporting advanced technology.",
+    "img": "https://static.toiimg.com/photo/msid-128480898,imgsize-14878.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/modi-macron-launch-h125-helicopter-assembly-line/articleshow/128480901.cms",
+    "time": "2026-02-17T21:06:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "At presser with Macron, PM recalls Savarkar",
+    "desc": "Prime Minister Narendra Modi recalled the bravery of Indian soldiers in World War I and the daring escape of Veer Savarkar from Marseille during a joint press meet with French President Emmanuel Macron. Modi highlighted the port city's connection to these historical figures, noting his own homage to Savarkar during a previous visit.",
+    "img": "https://static.toiimg.com/photo/msid-128480766,imgsize-61080.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/at-presser-with-macron-pm-recalls-savarkar/articleshow/128480782.cms",
+    "time": "2026-02-17T20:59:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC upholds boyfriend's conviction",
+    "desc": "The Supreme Court upheld the conviction of a boyfriend in a mutual suicide pact case, stating the surviving partner must be punished for abetment. The court ruled that the survivor's participation directly facilitated the deceased's suicide, establishing his culpability. The convicted individual has been ordered to surrender within four weeks.",
+    "img": "https://static.toiimg.com/photo/msid-128480529,imgsize-54350.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/telugu-actress-pratyusha-suicide-case-sc-upholds-boyfriends-conviction/articleshow/128480536.cms",
+    "time": "2026-02-17T20:44:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Defence NOC clears way for Andrabi's sentencing",
+    "desc": "Aasiya Andrabi and her aides' sentencing in a terror case is moving forward. The defence has agreed to let Judge Chanderjit Singh, who convicted them, pronounce the sentence. The NIA requested time to respond, with the matter now set for February 23. This development resolves a procedural hurdle regarding who can deliver the final order.",
+    "img": "https://static.toiimg.com/photo/msid-128480423,imgsize-521912.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/defence-noc-clears-way-for-andrabis-sentencing/articleshow/128480369.cms",
+    "time": "2026-02-17T20:38:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NGT nod thwarted Gandhis' bid to stall Nicobar plan: BJP",
+    "desc": "The BJP has criticized Sonia and Rahul Gandhi for opposing the Great Nicobar island infrastructure project, accusing them of attempting to derail it. The party highlighted the National Green Tribunal's approval as a victory against their disruptive efforts. The project aims to establish a major transshipment hub, countering reliance on foreign ports and China's expansionist designs.",
+    "img": "https://static.toiimg.com/photo/msid-128480208,imgsize-2297148.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ngt-nod-thwarted-gandhis-bid-to-stall-nicobar-plan-bjp/articleshow/128480186.cms",
+    "time": "2026-02-17T20:25:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Maharashtra ATS busts soccer club front for radicalisation",
+    "desc": "Maharashtra ATS has busted a radicalisation network operating under a soccer club's guise, raiding 21 locations. A Nagpur grocer allegedly used a Yavatmal club to indoctrinate youth into 'jihadi' ideology, with suspects maintaining cross-border terror links. The operation uncovered a well-funded network grooming vulnerable youths through targeted meetings and workshops.",
+    "img": "https://static.toiimg.com/photo/msid-128480057,imgsize-54308.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/maharashtra-ats-busts-soccer-club-front-for-radicalisation/articleshow/128480023.cms",
+    "time": "2026-02-17T20:15:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Macron extends invite to Modi to attend G7 summit",
+    "desc": "France has invited India to the 2026 G7 Summit, emphasizing active participation in discussions on global macroeconomic imbalances and international partnerships. Both nations reaffirmed their commitment to a rules-based Indo-Pacific order and the urgent need for UN Security Council reform, with France supporting India's permanent membership.",
+    "img": "https://static.toiimg.com/photo/msid-128479920,imgsize-40402.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/macron-extends-invite-to-modi-to-attend-g7-summit/articleshow/128479927.cms",
+    "time": "2026-02-17T20:10:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Thangam Thennarasu avoids populism, flags fiscal strain",
+    "desc": "He also highlights the challenges faced by Tamil Nadu from the Centre, including the denial of major infrastructure projects, the withholding of funds, curtailment of tax revenues without consultation, and the unfair imposition of conditions mandating expenditure",
+    "img": "https://th-i.thgim.com/public/incoming/1zf5s6/article70644659.ece/alternates/LANDSCAPE_1200/TH18_TN%20Budget%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/thangam-thennarasu-avoids-populist-announcements-in-interim-budget-flags-fiscal-strain/article70643398.ece",
+    "time": "2026-02-17T20:04:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Raise India-made component' in Rafale deal: Rajnath to France",
+    "desc": "India has urged France to increase the 'Make-in-India' component to 50% for the upcoming 114 Rafale fighter jet deal, including engine manufacturing and overhauling. This comes as both nations renewed their defense cooperation agreement for another decade, also agreeing to manufacture Hammer missiles in India.",
+    "img": "https://static.toiimg.com/photo/msid-128479699,imgsize-177964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/raise-india-made-component-in-rafale-deal-rajnath-to-france/articleshow/128479685.cms",
+    "time": "2026-02-17T20:01:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Army aspirant accuses TTE of rape bid on train in UP",
+    "desc": "A young Army aspirant traveling for her NCC exam has accused a TTE of attempted rape in a First AC coach of the Ahmedabad-Gorakhpur Express. The incident occurred on Sunday. The TTE allegedly offered her a berth after she boarded without a ticket, then threatened her.",
+    "img": "https://static.toiimg.com/photo/msid-128479385,imgsize-93346.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/army-aspirant-accuses-tte-of-rape-bid-on-train-in-up/articleshow/128479185.cms",
+    "time": "2026-02-17T19:48:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In allegation of electoral corruption, guilt has to be proved to the hilt, Sibal submits in Supreme Court",
+    "desc": "He was countering an appeal filed by S.S. Duraisamy alleging that there were videos and photos, contained in CDs, allegedly showing corrupt practices committed ahead of the 2011 election of M.K. Stalin, including the distribution of money to lure voters",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/in-allegation-of-electoral-corruption-guilt-has-to-be-proved-to-the-hilt-sibal-submits-in-supreme-court/article70643761.ece",
+    "time": "2026-02-17T19:26:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman, family and friends rush to visit",
+    "desc": "Family members of veteran screenwriter Salim Khan were seen arriving at Lilavati Hospital in Mumbai on Tuesday after the 90-year-old was admitted to the ICU. Superstar Salman Khan arrived along with his mother Salma Khan. Producer Arbaaz Khan was seen with his wife Shhura Khan, while daughters Alvira and Arpita also reached the hospital.",
+    "img": "https://static.toiimg.com/photo/msid-128477523,imgsize-37362.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salim-khan-hospitalised-in-icu-salman-khan-arbaaz-khan-alvira-and-arpita-rush-to-visit-javed-akhtar-sanjay-dutt-drop-by/articleshow/128477427.cms",
+    "time": "2026-02-17T19:05:07.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Ra.One 2 in works? Sinha says it will happen at the right time",
     "desc": "Filmmaker Anubhav Sinha has once again sparked excitement among fans by opening up about the possibility of Ra.One 2. Speaking about the long-awaited sequel to Ra.One, Sinha admitted that he is keen to revisit the superhero universe, but acknowledged the scale of commitment it would require.",
@@ -88,15 +205,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/bangladesh-reform-agenda-wins-voters-backing-but-rifts-remain-among-parties/article70643400.ece",
     "time": "2026-02-17T17:12:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Thangam Thennarasu avoids populist announcements in  Interim Budget, flags fiscal strain",
-    "desc": "He also highlights the challenges faced by Tamil Nadu from the Centre, including the denial of major infrastructure projects, the withholding of funds, curtailment of tax revenues without consultation, and the unfair imposition of conditions mandating expenditure",
-    "img": "https://th-i.thgim.com/public/incoming/1zf5s6/article70644659.ece/alternates/LANDSCAPE_1200/TH18_TN%20Budget%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/thangam-thennarasu-avoids-populist-announcements-in-interim-budget-flags-fiscal-strain/article70643398.ece",
-    "time": "2026-02-17T17:02:59.000Z"
   },
   {
     "cat": "Business",
@@ -207,15 +315,6 @@ const newsData_en = [
     "time": "2026-02-17T15:09:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Stalin virtually inaugurates four Thozhi hostels, new buildings for hospitals",
-    "desc": "The CM also virtually inaugurated 506 housing units constructed for the welfare of Sri Lankan Tamils living in six camps located in Chennai, Ranipet, Sivaganga, Tenkasi, Tirupattur, and Tiruvallur districts, at a cost of ₹33 crore",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/2yu9ls/article70643856.ece/alternates/LANDSCAPE_1200/Stalin.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/stalin-virtually-inaugurates-four-thozhi-hostels-new-buildings-for-hospitals/article70643457.ece",
-    "time": "2026-02-17T15:09:42.000Z"
-  },
-  {
     "cat": "World",
     "title": "Moscow, Kyiv meet for U.S.-brokered talks after fresh attacks",
     "desc": "U.S. President Donald Trump is seeking to position himself as a peacemaker of the conflict unleashed when Russia invaded Ukraine in February 2022, but previous rounds of talks mediated by the White House have yielded no breakthroughs",
@@ -223,15 +322,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/moscow-kyiv-meet-for-us-brokered-talks-after-fresh-attacks/article70643783.ece",
     "time": "2026-02-17T15:06:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Munnar records high UV Index amid sharp temperature fluctuations",
-    "desc": "Working hours have been rescheduled until May 20. Outdoor workers must observe a mandatory break from 12 p.m. to 3 p.m., while establishments need to adjust shifts accordingly. Prolonged exposure could disrupt local ecosystems and impact tourism.",
-    "img": "https://th-i.thgim.com/public/incoming/vzs9dc/article70643849.ece/alternates/LANDSCAPE_1200/80759_17_2_2026_17_42_36_1_MUNNAR02.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/munnar-records-high-uv-index-amid-sharp-temperature-fluctuations/article70643850.ece",
-    "time": "2026-02-17T15:00:18.000Z"
   },
   {
     "cat": "Politics",
@@ -387,15 +477,6 @@ const newsData_en = [
     "time": "2026-02-17T12:21:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM Modi says India-France to manufacture first helicopter flying to the heights of Mount Everest",
-    "desc": "Prime Minister Narendra Modi and French president Emmanuel Macron virtually inaugurated assembly line for production of Airbus H125 helicopters at Vemagal in Karnataka. The H125 Light Utility Helicopter Final Assembly Line at Vemagal is expected to strengthen India's indigenous aerospace manufacturing capabilities and further deepen India-France defence and industrial cooperation. Before the media briefing in Mumbai, PM Modi held comprehensive talks with Macron.",
-    "img": "https://static.toiimg.com/photo/msid-128465573,imgsize-33132.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-says-india-france-to-manufacture-first-helicopter-flying-to-the-heights-of-mount-everest/articleshow/128463663.cms",
-    "time": "2026-02-17T12:17:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Zimbabwe storm into Super Eight; Australia eliminated from T20 World Cup",
     "desc": "Persistent rain washed out the Zimbabwe vs Ireland match, confirming Zimbabwe's Super 8 qualification and eliminating Australia. The abandoned fixture led to a points split, finalising the Super 8 Group G1 lineup with India, South Africa, West Indies, and Zimbabwe.",
@@ -414,15 +495,6 @@ const newsData_en = [
     "time": "2026-02-17T12:16:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "With Kerala polls around, Left takes vague stand on women’s entry after backing reform",
-    "desc": "Ahead of Kerala polls, the ruling Left government is deferring its stance on women's entry into Sabarimala. State ministers on Tuesday said the Supreme Court hasn't sought their clarification yet, and a decision will follow consultations. The government emphasized its support for devotees while awaiting the apex court's examination of constitutional questions on religious practices.",
-    "img": "https://static.toiimg.com/photo/msid-128464273,imgsize-656331.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sabarimala-row-with-kerala-polls-around-left-takes-vague-stand-on-womens-entry-after-backing-reform/articleshow/128464142.cms",
-    "time": "2026-02-17T12:16:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Silicon Valley-style fallout hits Türkiye: Getir’s $700M legal bombshell",
     "desc": "Co-Founders Nazım Salur and Serkan Borançılı of Turkish food and grocery delivery startup, Getir, have filed a $700 million lawsuit against Abu Dhabi investor Mubadala Investment Company. They allege the sovereign wealth fund breached a 2024 restructuring agreement by withholding key assets, including the valuable Getir Finance platform. This legal action escalates a dispute following Uber's acquisition of Getir's Turkish operations.",
@@ -439,33 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salim-khan-diagonsed-with-a-blood-clot-felt-giddy-before-salman-khan-and-family-rushed-him-to-the-hospital-report/articleshow/128463548.cms",
     "time": "2026-02-17T12:03:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Prakash Raj to play a ‘Maha Shiva Bhakth’ in Varanasi",
-    "desc": "Renowned actor Prakash Raj has excitedly announced his portrayal of a dedicated Shiva devotee in the much-anticipated movie 'Varanasi' directed by SS Rajamouli, featuring the charming Mahesh Babu in the lead. This is a groundbreaking moment as it marks Raj's first time working with Rajamouli, although he shares a familiar camaraderie with Babu from their past projects.",
-    "img": "https://static.toiimg.com/photo/msid-128463449,imgsize-20888.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/prakash-raj-reveals-he-plays-a-maha-shiv-bhakth-in-mahesh-babu-starrer-ss-rajamoulis-varanasi/articleshow/128463449.cms",
-    "time": "2026-02-17T11:58:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Tughlaqi Commission' working on BJP's behest: Mamata sharpens SIR attack on EC",
-    "desc": "Mamata also made an explosive claim amid the ongoing SIR in the poll-bound West Bengal, saying a woman functionary in the BJP IT cell \"removed 58 lakh voters’ names in Bengal using AI\". The TMC chief said in Bengal, \"160 people lost their lives due to SIR anxiety, work-related pressure\". Mamata said if the election commission \"penalises\" Bengal government officers, her government would \"100 per cent protect them\".",
-    "img": "https://static.toiimg.com/photo/msid-128463419,imgsize-28412.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tughlaqi-commission-working-on-bjps-behest-mamata-sharpens-sir-attack-on-ec/articleshow/128462199.cms",
-    "time": "2026-02-17T11:54:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi, Macron hold talks in Mumbai; Tarique Rahman sworn in as Bangladesh PM, and more",
-    "desc": "Prime Minister Modi and French President Macron held significant talks in Mumbai, focusing on defence and trade. Meanwhile, Tarique Rahman was sworn in as Bangladesh's new Prime Minister, ending a long era of female leadership. Iran's Supreme Leader issued a stern warning to US President Trump, as Pakistan faced deadly attacks.",
-    "img": "https://static.toiimg.com/photo/msid-128463335,imgsize-1107669.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-pm-modi-macron-hold-talks-in-mumbai-tarique-rahman-sworn-in-as-bangladesh-pm-and-more/articleshow/128462979.cms",
-    "time": "2026-02-17T11:53:02.000Z"
   },
   {
     "cat": "Sports",
@@ -495,15 +540,6 @@ const newsData_en = [
     "time": "2026-02-17T11:43:53.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Anurag Kashyap praises Mohanlal’s ‘Thudarum’",
-    "desc": "Filmmaker Anurag Kashyap champions Malayalam cinema, praising its realistic storytelling and experimental narratives. He highlighted Mohanlal's taxi driver role in 'Thudarum' and the bold approach in films like 'Rekhachithram' and 'Eko'. Kashyap attributes Kerala's vibrant film culture to educated audiences, film clubs, and a supportive creative environment, contrasting it with Bollywood's limitations.",
-    "img": "https://static.toiimg.com/photo/msid-128462558,imgsize-48944.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/anurag-kashyap-lauds-mohanlals-thudarum-and-films-rekhachithram-and-eko-reveals-i-see-more-malayalam-films/articleshow/128462558.cms",
-    "time": "2026-02-17T11:42:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Vaibhav Sooryavanshi ko absent mark kar diya hai': Principal",
     "desc": "Teenage batting sensation Vaibhav Sooryavanshi has opted to skip his Class 10 board examinations to prioritize his burgeoning cricket career. Fresh off a stellar performance at the U-19 World Cup 2026, where he was India's leading run-scorer, Vaibhav is now set to play for Rajasthan Royals in IPL 2026.",
@@ -531,15 +567,6 @@ const newsData_en = [
     "time": "2026-02-17T10:54:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Delhi University  bans on-campus protest for a month after backlash over UCG equity guidelines",
-    "desc": "Delhi University has banned all gatherings, processions, and protests on its campuses for one month due to law and order concerns. This decision follows clashes between student groups over the now-stayed UGC equity guidelines. The university cited potential obstruction of traffic, threats to life, and disturbances to public peace as reasons for the prohibition.",
-    "img": "https://static.toiimg.com/photo/msid-128461066,imgsize-802871.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-university-bans-on-campus-protest-for-a-month-after-backlash-over-ucg-equity-guidelines/articleshow/128460256.cms",
-    "time": "2026-02-17T10:52:59.000Z"
-  },
-  {
     "cat": "Business",
     "title": "NGT clears Rs 90,000-crore Great Nicobar project, here's why it can be a game changer",
     "desc": "The National Green Tribunal has approved the Rs 90,000-crore Great Nicobar infrastructure project, finding sufficient environmental safeguards. Dismissing petitions challenging the clearance, the tribunal noted that a high-powered committee addressed outstanding concerns. The project, crucial for national security and India's Indian Ocean presence, will proceed with strict adherence to environmental conditions.",
@@ -547,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/ngt-clears-rs-90000-crore-great-nicobar-project-heres-why-it-can-be-a-game-changer/articleshow/128455947.cms",
     "time": "2026-02-17T10:43:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'From arsh to farsh': Mani Shankar Aiyar's 'Rahulian' outburst and 'uncle' syndrome",
-    "desc": "Mani Shankar Aiyar's critique of \"Rahulian\" politics sparks debate on the Congress's ideological shift from Nehruvianism to civil society influence. Analyst Rasheed Kidwai suggests Aiyar, though isolated, highlights a party increasingly shaped by non-dogmatic, issue-driven approaches, moving away from traditional party structures and veteran leadership's influence.",
-    "img": "https://static.toiimg.com/photo/msid-128460107,imgsize-1399678.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mani-shankar-aiyar-rahulian-outburst-congress-rahul-gandhi-uncle-syndrome-arsh-to-farsh/articleshow/128459776.cms",
-    "time": "2026-02-17T10:29:17.000Z"
   },
   {
     "cat": "Sports",
@@ -585,15 +603,6 @@ const newsData_en = [
     "time": "2026-02-17T10:24:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Assam approves 3% reservation for tea tribes, Adivasis in Grade 1 and 2 govt jobs",
-    "desc": "Assam CM Himanta Biswa Sarma had announced a 3 per cent reservation for youths from tea gardens in Grade I and Grade II government jobs in October last year during the 19th biennial general conference of the Assam Tea Tribe Students’ Association (ATTSA) and the central biennial general conference of the Assam Tea Tribe Women’s Association.",
-    "img": "https://static.toiimg.com/photo/msid-128459620,imgsize-28556.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/assam-approves-3-reservation-for-tea-tribes-adivasis-in-grade-1-and-2-govt-jobs/articleshow/128458997.cms",
-    "time": "2026-02-17T10:16:12.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Yellow metal slips; check 24K city-wise rates in Delhi, Mumbai &amp; more",
     "desc": "Gold prices saw a dip of over 1% in futures trade Tuesday, influenced by easing safe-haven demand, improved geopolitical sentiment, and a stronger US dollar. Analysts suggest this is a corrective phase within a broader bullish trend, with investors advised to rebalance on dips amid choppy markets. Global markets also experienced a decline in gold futures.",
@@ -610,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/next-time-well-put-up-a-better-show-usman-tariq-breaks-silence-after-humiliating-defeat-to-india/articleshow/128458589.cms",
     "time": "2026-02-17T09:45:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Messy, risky, dangerous': EAM Jaishankar says global order heading for 'twilight zone'",
-    "desc": "External affairs minister S Jaishankar said that ​​economics will give way to politics and security \"when it comes to making choices and technology in the age of AI will be even more transformative than ever before.\" The minister also highlighted how the world today has been witnessing \"weaponisation of production, finance, leveraging of market shares and tightening of export controls\".",
-    "img": "https://static.toiimg.com/photo/msid-128458501,imgsize-703321.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/messy-risky-dangerous-eam-jaishankar-says-global-order-heading-for-twilight-zone/articleshow/128457942.cms",
-    "time": "2026-02-17T09:39:57.000Z"
   },
   {
     "cat": "Business",
