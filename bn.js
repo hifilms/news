@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "তারেক প্রধানমন্ত্রী হয়ে কত টাকা বেতন পাবেন? বাংলাদেশে মন্ত্রী হলে কী সুযোগ সুবিধা পাওয়া যায়? জানলে মাথা ঘুরে যাবে আপনার...",
+    "desc": "মন্ত্রী, প্রতিমন্ত্রী বা উপমন্ত্রীরা সবাই সরকারি খরচে রেল ও বিমানে ভ্রমণের সুবিধা পান। বিমান ভ্রমণের জন্য তাঁদের প্রত্যেকের নামে ৮ লাখ টাকার বীমা সুবিধা থাকে। এছাড়া তাঁদের বাসভবনে সার্বক্ষণিক নিরাপত্তা প্রহরী বা গানম্যান মোতায়েন থাকে। যারা মন্ত্রীত্বের পাশাপাশি সংসদ সদস্য হিসেবে নির্বাচিত হয়েছেন, তাঁরা সংসদ সচিবালয় থেকেও কিছু অতিরিক্ত সুযোগ-সুবিধা পেয়ে থাকেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/here-you-know-bangladesh-prime-minister-along-with-all-the-ministry-salary-and-benifits-allowances-and-lifestyle_641734.html ",
+    "time": "2026-02-17T16:08:43.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Tigress-eyed Woman: উত্তরাধিকারে পাওয়া 'বাঘিনী চোখ' নিয়ে দেশ কাঁপাচ্ছেন 'বানজারা' পাপ্পু! পুষ্কর থেকে এক লাফে...",
     "desc": "প্রায় দু'দশক আগে পুষ্কর মেলার সময়ে এক বিদেশি পর্যটক পাপ্পু দেবীর একটি ছবি তুলেছিলেন। তাঁর চোখের সেই অনন্য রঙের কারণে ছবিটি দ্রুত জনপ্রিয়তা পায়। ভারতের বিভিন্ন পর্যটন কেন্দ্রে পোস্টকার্ড এবং স্যুভেনির হিসেবে ছবিটি বিক্রি হতে শুরু করে। অনেকেই তাঁর সেই তীক্ষ্ণ দৃষ্টির জন্য তাঁকে 'বাঘিনী-চক্ষু নারী' বলে অভিহিত করেন।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/will-arijit-singh-sing-in-aamir-khans-upcoming-film-l18-rds-local18-2532677.html",
     "time": "2026-02-09T14:20:18.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "৭ ফুটের গাছ, এক গাছেই এক কেজি ফলন! সরষে চাষে বৈপ্লবিক পরিবর্তন, এই জাতেই লুকিয়ে লাভের আসল চাবিকাঠি",
-    "desc": "সাধারণত সরষে গাছ দুই তিন ফুট হলেও খেজুরডাঙার এই প্রজাতির সরষে গাছ হয় সাত ফুট পর্যন্ত! প্রতিটি গাছ থেকে পাওয়া যাচ্ছে এক কেজি পর্যন্ত সরষে। এই বিশেষ প্রজাতির চাষে লাভ দেখে অবাক এলাকার অন্য কৃষকরাও।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/vietnamese-mustard-cultivation-2026-02-63eb9362d9e017465a07c77f135edba6-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/agriculture-news-vietnamese-mustard-giving-huge-profit-to-framers-know-plantation-tips-l18-local18-2532372.html",
-    "time": "2026-02-09T13:30:24.000Z"
   }
 ];

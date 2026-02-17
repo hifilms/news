@@ -1,12 +1,183 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Ra.One 2 in works? Sinha says it will happen at the right time",
+    "desc": "Filmmaker Anubhav Sinha has once again sparked excitement among fans by opening up about the possibility of Ra.One 2. Speaking about the long-awaited sequel to Ra.One, Sinha admitted that he is keen to revisit the superhero universe, but acknowledged the scale of commitment it would require.",
+    "img": "https://static.toiimg.com/photo/msid-128476803,imgsize-40514.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-ra-one-2-in-the-works-anubhav-sinha-says-discussion-with-srk-will-happen-at-the-right-time/articleshow/128476479.cms",
+    "time": "2026-02-17T18:36:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Haryana STF nabs 2 Pak youths who fled Jammu juvenile home; hunt on for third fugitive",
+    "desc": "Two Pakistani nationals escaped a juvenile home in Jammu and were arrested 400km away in Ambala Cantonment railway station. They had broken out with a local gangster who injured two police officers. The Pakistani duo planned to flee the country via Nepal. The injured policemen are hospitalized. A fresh FIR has been registered against the trio.",
+    "img": "https://static.toiimg.com/photo/msid-128476102,imgsize-150518.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/haryana-stf-nabs-2-pak-youths-who-fled-jammu-juvenile-home-hunt-on-for-third-fugitive/articleshow/128476133.cms",
+    "time": "2026-02-17T18:31:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Omar presses Centre on J&amp;K statehood as Delhi signals decision ‘soon’",
+    "desc": "Jammu and Kashmir Chief Minister Omar Abdullah expressed cautious optimism following Union Law Minister Arjun Meghwal's statement on the imminent restoration of statehood. Abdullah highlighted the prolonged wait since the elected government took office, emphasizing that patience is wearing thin. He stressed that statehood is a crucial and sensitive matter, with the Supreme Court also urging its prompt return.",
+    "img": "https://static.toiimg.com/photo/msid-128476433,imgsize-48906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/omar-presses-centre-on-jk-statehood-as-delhi-signals-decision-soon/articleshow/128476212.cms",
+    "time": "2026-02-17T18:30:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No plan for monkey sterilisation, says J&amp;K govt amid outrage over massive crop damage",
+    "desc": "Jammu and Kashmir government will not sterilize monkeys despite crop destruction and public safety concerns. Instead, it plans to promote monkey-resistant crops, solar fencing, and deterrent devices. Farmers are also urged to stop feeding the animals, as the simian population continues to pose a major challenge.",
+    "img": "https://static.toiimg.com/photo/msid-128476310,imgsize-27276.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-plan-for-monkey-sterilisation-says-jk-govt-amid-outrage-over-massive-crop-damage/articleshow/128476321.cms",
+    "time": "2026-02-17T18:30:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Premier League",
+    "desc": "Heading into the final third of the domestic season, Arteta’s men are perched at the top with 57 points from 26 games, four points more than the second-placed Manchester outfit; Guardiola & Co.’s killer instinct will be a factor as the campaign reaches its climax; the Gunners have a squad that can tackle the unforgiving schedule",
+    "img": "https://th-i.thgim.com/public/sport/sej7sv/article70644789.ece/alternates/LANDSCAPE_1200/ARS%20CITY%20LEAD.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/premier-league-clinical-city-has-the-wherewithal-to-rock-arsenals-aspirations/article70644780.ece",
+    "time": "2026-02-17T18:03:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Wall Street swings as AI jitters, weak consumer sentiment weigh on markets",
+    "desc": "US stocks saw mixed trading as consumer confidence dipped and AI's impact on earnings remained a concern. General Mills and Genuine Parts faced significant drops due to weak consumer sentiment and company forecasts. Meanwhile, Warner Bros. Discovery saw gains amid buyout talks, while Big Tech stocks experienced volatility, raising questions about AI investment returns.",
+    "img": "https://static.toiimg.com/photo/msid-128475618,imgsize-937217.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-stocks-today-wall-street-swings-as-ai-jitters-weak-consumer-sentiment-weigh-on-markets/articleshow/128475514.cms",
+    "time": "2026-02-17T17:52:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Royals demand indemnity waiver from Rajasthan govt amid safety concerns at SMS Stadium",
+    "desc": "Rajasthan Royals are demanding an indemnity waiver from the state government for hosting IPL 2026 matches at Sawai Mansingh Stadium, citing a safety audit revealing stadium deficiencies. This comes after a crowd crush incident in Bengaluru. The BCCI notes SMS Stadium lags behind other IPL venues in modern facilities and fan experience, urging a permanent solution beyond temporary dispensations.",
+    "img": "https://static.toiimg.com/photo/msid-128475247,imgsize-64140.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/royals-demand-indemnity-waiver-from-rajasthan-govt-amid-safety-concerns-at-sms-stadium/articleshow/128475117.cms",
+    "time": "2026-02-17T17:39:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Leave Abhishek Sharma alone!",
+    "desc": "Despite a challenging start to the T20 World Cup with two ducks and a stomach infection, Abhishek Sharma will look to get going in the dead rubber against the Netherlands. The Indian team's batting coach Sitanshu Kotak remains confident in his aggressive approach, highlighting that opponents' meticulous planning against him is a testament to his threat.",
+    "img": "https://static.toiimg.com/photo/msid-128474472,imgsize-144018.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-leave-abhishek-sharma-alone/articleshow/128474472.cms",
+    "time": "2026-02-17T17:18:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nepal end 12-year T20 World Cup drought with seven-wicket win over Scotland",
+    "desc": "Nepal secured a commanding seven-wicket victory over Scotland, ending a 12-year T20 World Cup winless streak. Kushal Bhurtel's aggressive start and Dipendra Singh Airee's unbeaten half-century powered the chase, successfully reaching Scotland's 171 with 19.2 overs to spare. Michael Jones' 71 had earlier set a competitive target for Scotland.",
+    "img": "https://static.toiimg.com/photo/msid-128474538,imgsize-144080.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/nepal-end-12-year-t20-world-cup-drought-with-seven-wicket-win-over-scotland/articleshow/128474569.cms",
+    "time": "2026-02-17T17:17:31.000Z"
+  },
+  {
     "cat": "World",
-    "title": "Iran’s Foreign Minister says agreed with U.S. 'guiding principles' for deal",
+    "title": "Bangladesh reform agenda wins voters’ backing, but rifts remain among parties",
+    "desc": "The July Charter, born from the 2024 uprising, calls for key reforms such as setting up of a non-partisan caretaker government to run future elections, creation of a 100-member upper house and broadening fundamental rights",
+    "img": "https://th-i.thgim.com/public/incoming/1un7r2/article70644603.ece/alternates/LANDSCAPE_1200/Bangladesh_Election_What_to_Know_04007.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/bangladesh-reform-agenda-wins-voters-backing-but-rifts-remain-among-parties/article70643400.ece",
+    "time": "2026-02-17T17:12:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Thangam Thennarasu avoids populist announcements in  Interim Budget, flags fiscal strain",
+    "desc": "He also highlights the challenges faced by Tamil Nadu from the Centre, including the denial of major infrastructure projects, the withholding of funds, curtailment of tax revenues without consultation, and the unfair imposition of conditions mandating expenditure",
+    "img": "https://th-i.thgim.com/public/incoming/1zf5s6/article70644659.ece/alternates/LANDSCAPE_1200/TH18_TN%20Budget%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/thangam-thennarasu-avoids-populist-announcements-in-interim-budget-flags-fiscal-strain/article70643398.ece",
+    "time": "2026-02-17T17:02:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Infosys-Anthropic pact reignites question: Turning AI risk into opportunity for Indian IT?",
+    "desc": "Infosys shares jumped significantly following a strategic partnership with Anthropic, integrating Claude AI models into its Topaz platform. This move aims to address investor concerns about AI's impact on IT services, focusing on sectors like telecom and finance. The collaboration seeks to leverage domain expertise for complex enterprise AI applications, potentially unlocking new service lines and a substantial market opportunity.",
+    "img": "https://static.toiimg.com/photo/msid-128473468,imgsize-374204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/infosys-shares-jump-5-after-strategic-ai-collaboration-with-anthropic/articleshow/128473244.cms",
+    "time": "2026-02-17T16:42:43.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Agreement on guiding principles reached with U.S.: Araghchi",
     "desc": "\"Ultimately, we were able to reach broad agreement on a set of guiding principles, based on which we will move forward and begin working on the text of a potential agreement,\" Abbas Araghchi told state TV",
     "img": "https://th-i.thgim.com/public/incoming/mvfnha/article70644318.ece/alternates/LANDSCAPE_1200/EU_Iran_Talks_23508.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/irans-foreign-minister-says-agreed-with-us-guiding-principles-for-deal/article70644147.ece",
-    "time": "2026-02-17T15:34:14.000Z"
+    "time": "2026-02-17T16:41:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Go ask him'",
+    "desc": "Actress Neena Gupta shares insights into her past relationship with cricketer Vivian Richards. She explains their decision not to marry due to practical challenges. Gupta reflects on her choice to become a single mother, acknowledging the difficulties involved. She advises young women against following her path without marriage, emphasizing the arduous nature of single parenthood.",
+    "img": "https://static.toiimg.com/photo/msid-128473253,imgsize-29112.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/neena-gupta-reveals-if-she-was-in-love-with-vivian-richards-and-why-they-didnt-marry-go-ask-him-everyone-is-afraid-to-ask-him/articleshow/128473237.cms",
+    "time": "2026-02-17T16:37:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Poll-bound Assam approves 3% quota for ‘tea tribes’ in Class I and II jobs",
+    "desc": "The Cabinet decision before the Budget presentation is significant, as the community accounts for almost 20% of the voters in the State; the construction of a second Sainik School at Langvoku in Karbi Anglong district has also been approved",
+    "img": "https://th-i.thgim.com/public/incoming/rceque/article70644618.ece/alternates/LANDSCAPE_1200/2015-05-04T215401Z_1229916858_GF10000078341_RTRMADP_3_CLIMATECHANGE-TEA-INDIA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/assam/poll-bound-assam-approves-3-quota-for-tea-tribes-in-class-i-and-ii-jobs/article70643680.ece",
+    "time": "2026-02-17T16:29:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Agriculture ministry launches Bharat-VISTAAR, a multilingual AI tool for digital fam advisories",
+    "desc": "The agriculture ministry has launched Bharat-VISTAAR, an AI-enabled system offering farmers customized digital advice for farm-level decision-making. This multilingual tool integrates AgriStack and ICAR resources to provide data-driven guidance on weather, market prices, pests, and crop management, accessible via a simple phone call.",
+    "img": "https://static.toiimg.com/photo/msid-128473019,imgsize-1451189.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/agriculture-ministry-launches-bharat-vistaar-a-multilingual-ai-tool-for-digital-fam-advisories/articleshow/128472775.cms",
+    "time": "2026-02-17T16:28:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sunita Ahuja says she will forgive Govinda if he lives on her terms",
+    "desc": "Sunita Ahuja has spoken out about her marriage to Govinda, revealing that years of silence have made her stronger and that she has built her own identity. While she hasn't ruled out forgiveness for Govinda, she stated it depends on his change and adherence to her values. Sunita also highlighted the emotional toll of media scrutiny during her menopause.",
+    "img": "https://static.toiimg.com/photo/msid-128472318,imgsize-40314.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunita-ahuja-says-she-will-forgive-govinda-if-he-lives-on-her-terms-im-going-through-menopause-need-my-husband/articleshow/128472180.cms",
+    "time": "2026-02-17T16:06:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pravina Deshpande passes away at 60 after battling cancer",
+    "desc": "Veteran actress Pravina Deshpande passed away on Tuesday (February 17) after a long battle with cancer. She was 60. The news of her demise was confirmed by her family through a note shared on her official Instagram account.",
+    "img": "https://static.toiimg.com/photo/msid-128472149,imgsize-13896.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/veteran-actress-pravina-deshpande-salman-khans-ready-co-star-passes-away-at-60-after-battling-cancer-family-confirms-last-rites/articleshow/128471797.cms",
+    "time": "2026-02-17T16:01:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India, Zimbabwe — check the complete list here",
+    "desc": "India has dominated Group A, securing a Super 8 spot. Sri Lanka and Zimbabwe advance from Group B, surprisingly eliminating Australia. England, West Indies, New Zealand, and South Africa also confirmed their places. Pakistan faces a crucial match against Namibia for the final berth, with USA and Netherlands also in contention under specific circumstances.",
+    "img": "https://static.toiimg.com/photo/msid-128472070,imgsize-1304822.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-super-8-qualified-teams-india-zimbabwe-check-the-complete-list-here/articleshow/128471779.cms",
+    "time": "2026-02-17T16:00:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top 5 South stories of the day",
+    "desc": "February 17 saw significant South Indian news, including the Supreme Court restoring a 5-year sentence in the Prathyusha death case and the Madras High Court denying Vishal more time in a loan dispute. Sivakarthikeyan's 'Seyon' teaser also generated buzz, while actor Jayaram appeared before the ED in a Sabarimala gold probe.",
+    "img": "https://static.toiimg.com/photo/msid-128471689,imgsize-80408.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sivakarthikeyans-seyon-teaser-prathyusha-death-case-verdict-madras-high-court-denies-vishals-plea-top-5-south-stories-of-the-day/articleshow/128471689.cms",
+    "time": "2026-02-17T15:50:26.000Z"
   },
   {
     "cat": "Entertainment",
@@ -90,15 +261,6 @@ const newsData_en = [
     "time": "2026-02-17T14:46:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Deve Gowda’s term in Rajya Sabha coming to an end in June sets off speculation over future of his six-decade politics",
-    "desc": "The Janata Dal (Secular) supremo and the lone member from his party in the Rajya Sabha, is set to end his term and the regional party does not have the numbers to secure his re-election",
-    "img": "https://th-i.thgim.com/public/incoming/kbbffb/article70643947.ece/alternates/LANDSCAPE_1200/PTI02_04_2026_000304B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/deve-gowdas-term-in-rajya-sabha-coming-to-an-end-in-june-sets-off-speculation-over-future-of-his-six-decade-politics/article70639882.ece",
-    "time": "2026-02-17T14:39:45.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Everybody loves an underdog story, don't they?': Sikandar Raza",
     "desc": "Zimbabwe has advanced to the Super 8s of the T20 World Cup 2026. Captain Sikandar Raza stated this is a step towards bigger goals. The team overcame a tough qualification path. They now face strong opponents in the next stage. Preparation and adapting to conditions are key. Zimbabwe will play Sri Lanka next.",
@@ -117,15 +279,6 @@ const newsData_en = [
     "time": "2026-02-17T14:22:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Cow falls into unused sump in Chennai, locals, police rescue",
-    "desc": "Even before the arrival of police, fire and rescue services personnel, a motley crowd of shopkeepers, auto-drivers, and schoolchildren that had gathered fed the cow banana leaves and sent down a ladder hoping that the animal would climb out",
-    "img": "https://th-i.thgim.com/public/news/national/bjpjb6/article70643247.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-17%20at%2018.13.14.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/cow-falls-into-unused-sump-in-chennai-locals-police-rescue/article70643228.ece",
-    "time": "2026-02-17T14:14:21.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Who to support",
     "desc": "A unique family rivalry unfolds as India faces South Africa in the T20 World Cup, with brothers Albie and Morne Morkel on opposing coaching staffs. Their mother, Mariana, faces divided loyalties. Albie Morkel, now a consultant coach for South Africa, believes the real World Cup challenge begins now, emphasizing his team's experienced bowling attack and improved batting.",
@@ -133,6 +286,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/who-to-support-india-or-south-africa-morkels-face-family-dilemma/articleshow/128468112.cms",
     "time": "2026-02-17T14:04:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'There is a method': Ex-India coach decodes Ishan Kishan's masterclass vs Pak",
+    "desc": "Ishan Kishan has made a remarkable comeback in the T20 World Cup, scoring consecutive half-centuries and playing a crucial role in India's Super 8s qualification. His match-winning 77 against Pakistan, characterized by fearless yet calculated strokeplay, has been highlighted as a testament to his form and clear role at the top of the order.",
+    "img": "https://static.toiimg.com/photo/msid-128467328,imgsize-117462.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/there-is-a-method-former-india-coach-decodes-ishan-kishans-masterclass-against-pakistan/articleshow/128468018.cms",
+    "time": "2026-02-17T14:03:41.000Z"
   },
   {
     "cat": "Entertainment",
@@ -342,33 +504,6 @@ const newsData_en = [
     "time": "2026-02-17T11:42:27.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sunny Deol’s ‘Gabru’ rescheduled for May release",
-    "desc": "The Revenge' and 'Toxic'. Announced October 19, the emotional drama stars Sunny with Simran, Prit Kamani, and Salman Khan’s cameo. Directed by Shashank Udapurkar with Mithoon’s music, it explores courage post-Border 2 success. Upcoming: 'Lahore 1947', 'Ramayana'.",
-    "img": "https://static.toiimg.com/photo/msid-128462914,imgsize-23086.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deols-gabru-rescheduled-for-may-release-avoids-clash-with-dhurandhar-the-revenge-and-toxic/articleshow/128462914.cms",
-    "time": "2026-02-17T11:41:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshaye and Nawazuddin in talks to play a role in Tumbbad 2",
-    "desc": "Actor-producer Sohum Shah and Pen Studios are moving ahead with 'Tumbbad 2', the sequel to the 2018 cult hit. Reports suggest the film will feature a powerful antagonist, with Akshaye Khanna or Nawazuddin Siddiqui being considered. The team aims to create a darker, layered story that continues Tumbbad’s legacy.",
-    "img": "https://static.toiimg.com/photo/msid-128462648,imgsize-32132.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshaye-khanna-and-nawazuddin-siddiqui-in-talks-to-play-the-antagonist-in-tumbbad-2-reports/articleshow/128462648.cms",
-    "time": "2026-02-17T11:34:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tanmaya Shekhar on self-marketing Nukkad Naatak",
-    "desc": "Debut independent filmmaker Tanmaya Shekhar is releasing his film 'Nukkad Naatak' this February, starring Molshri and Shivang Rajpal. The movie explores the stark differences between two close-knit worlds, using the creative medium of street theatre to address education and LGBTQ+ issues. Shekhar and his team are self-distributing and marketing the film, traveling extensively to connect with audiences directly.",
-    "img": "https://static.toiimg.com/photo/msid-128461985,imgsize-62648.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tanmaya-shekhar-on-self-marketing-nukkad-naatak-we-hand-painted-the-caravan-and-went-from-one-city-to-another-exclusive/articleshow/128461935.cms",
-    "time": "2026-02-17T11:18:34.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Vaibhav Sooryavanshi ko absent mark kar diya hai': Principal",
     "desc": "Teenage batting sensation Vaibhav Sooryavanshi has opted to skip his Class 10 board examinations to prioritize his burgeoning cricket career. Fresh off a stellar performance at the U-19 World Cup 2026, where he was India's leading run-scorer, Vaibhav is now set to play for Rajasthan Royals in IPL 2026.",
@@ -387,24 +522,6 @@ const newsData_en = [
     "time": "2026-02-17T10:58:39.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mother’s 24-year legal battle ends in justice",
-    "desc": "The Supreme Court has restored a five-year jail term for Siddharth Reddy in the Prathyusha death case, concluding a 24-year legal battle. The apex court rejected Reddy's plea against his conviction for abetting the actress's suicide, upholding the trial court's original sentence after her mother's persistent pursuit of justice.",
-    "img": "https://static.toiimg.com/photo/msid-128461113,imgsize-14322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/prathyusha-death-case-mothers-24-year-legal-battle-ends-in-justice-supreme-court-restores-5-year-jail-term/articleshow/128461113.cms",
-    "time": "2026-02-17T10:55:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Allu Arjun '42 rules' row: Strategist issues apology",
-    "desc": "Kaveri Baruah, the brand strategist, has issued an apology regarding her earlier statements about a purported list of 'dos and don'ts' for interacting with Allu Arjun. She acknowledged that her comments were unfounded and expressed regret for any misunderstandings they may have caused. Allu Arjun's team had previously refuted these claims and hinted at the possibility of legal action.",
-    "img": "https://static.toiimg.com/photo/msid-128460893,imgsize-22348.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/allu-arjun-42-rules-row-strategist-who-made-the-claim-issues-apology-says-statements-were-incorrect/articleshow/128460893.cms",
-    "time": "2026-02-17T10:54:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Unsurprised’ by Associates’ T20 World Cup displays, South Africa bank on ‘experience’ for Super Eight charge",
     "desc": "South Africa gears up for their final Group D T20 World Cup match against UAE at Arun Jaitley Stadium. Despite securing a Super Eight spot, the Proteas are not taking the game lightly. Coach Albie Morkel expressed confidence in the experienced squad, acknowledging the growing strength of associate nations and the unpredictable nature of T20 cricket.",
@@ -421,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/delhi-university-bans-on-campus-protest-for-a-month-after-backlash-over-ucg-equity-guidelines/articleshow/128460256.cms",
     "time": "2026-02-17T10:52:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mrunal reveals Dhar was first filmmaker she ever asked for work",
-    "desc": "Mrunal Thakur began her career with 'Hello Nandan' (2014) and entered Bollywood with 'Super 30' (2019). She shared that getting roles wasn’t easy and she often approached filmmakers herself. Mrunal revealed Aditya Dhar was the first she asked for work and expressed admiration for 'MOM' director Ravi Udyawar, who now helms 'Do Deewane Seher Mein'.",
-    "img": "https://static.toiimg.com/photo/msid-128461037,imgsize-28456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-dont-shy-away-mrunal-thakur-reveals-dhurandhar-director-aditya-dhar-was-the-first-filmmaker-she-ever-asked-for-work/articleshow/128461037.cms",
-    "time": "2026-02-17T10:52:16.000Z"
   },
   {
     "cat": "Business",
@@ -549,15 +657,6 @@ const newsData_en = [
     "time": "2026-02-17T09:24:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'PR hungry govt': Congress slams Centre over 'utter chaos', food-water shortage at AI Impact Summit; Vaishnaw replies",
-    "desc": "The Congress party has criticized the Centre's alleged mismanagement of the AI Impact Summit in New Delhi, calling it an example of a \"PR hungry\" government that turned a global opportunity into \"utter chaos.\" Party president Mallikarjun Kharge highlighted distress faced by participants, including founders, exhibitors, and visitors, due to logistical failures and disruptions.",
-    "img": "https://static.toiimg.com/photo/msid-128457875,imgsize-1021885.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pr-hungry-govt-congress-slams-centre-over-utter-chaos-food-water-shortage-at-ai-impact-summit/articleshow/128457797.cms",
-    "time": "2026-02-17T09:22:01.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Phillips’ record fifty flattens Canada as New Zealand storm into Super 8s",
     "desc": "New Zealand secured their Super 8 spot with a commanding eight-wicket win over Canada. Glenn Phillips smashed the fastest T20 World Cup fifty for New Zealand, scoring an unbeaten 76. Rachin Ravindra also contributed significantly with an unbeaten 59, guiding their team to victory after Canada's Yuvraj Samra's historic 110.",
@@ -574,24 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anushka-sharma-virat-kohli-visit-premanandji-maharaj-after-son-akaays-birthday-netizens-call-it-the-most-beautiful-pic-on-the-internet-today/articleshow/128455847.cms",
     "time": "2026-02-17T08:25:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Not all humans are equally frightening to wildlife, says new study",
-    "desc": "New research suggests wildlife's fear of humans is not uniform. Animals exhibit strong fear responses to hunters and fishers but less so to tourists or researchers. Surprisingly, some passive human structures like roads can even act as perceived refuges for certain species.",
-    "img": "https://static.toiimg.com/photo/msid-128455985,imgsize-1168610.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/not-all-humans-are-equally-frightening-to-wildlife-says-new-study/articleshow/128455879.cms",
-    "time": "2026-02-17T08:20:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Conveniently ignored others': Supreme Court rejects plea against Himanta Sarma, Yogi Adityanath",
-    "desc": "The Supreme Court declined to entertain a plea for mandatory constitutional morality guidelines for public officials, citing the petition's focus on specific individuals. The court suggested a broader code of conduct for public figures, similar to that for public servants, emphasizing uniform application of constitutional values.",
-    "img": "https://static.toiimg.com/photo/msid-128456452,imgsize-1128085.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/conveniently-ignored-others-supreme-court-rejects-plea-against-himanta-sarma-yogi-adityanath/articleshow/128455253.cms",
-    "time": "2026-02-17T08:09:54.000Z"
   },
   {
     "cat": "Business",
@@ -630,15 +711,6 @@ const newsData_en = [
     "time": "2026-02-17T07:13:11.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Dodgy burger': Mitchell Santner misses Canada game as NZ chase Super 8 spot",
-    "desc": "New Zealand skipper Mitchell Santner was ruled out of their T20 World Cup match against Canada due to illness from a \"dodgy burger.\" All-rounder Cole McConchie replaced him, while Kyle Jamieson also came into the XI for the absent Lockie Ferguson. Despite these disruptions, New Zealand aims for a third win to secure a Super 8 berth.",
-    "img": "https://static.toiimg.com/photo/msid-128451551,imgsize-90750.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/dodgy-burger-mitchell-santner-misses-canada-game-as-new-zealand-chase-super-8-spot/articleshow/128451583.cms",
-    "time": "2026-02-17T06:09:27.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Francis Ford Coppola, Al Pacino and Robert De Niro lead tributes to Robert Duvall after actor’s death at 95",
     "desc": "Hollywood paid tribute to legendary actor Robert Duvall after his death at 95, with longtime collaborators Francis Ford Coppola, Al Pacino and Robert De Niro remembering his immense talent and lasting influence on American cinema",
@@ -648,33 +720,6 @@ const newsData_en = [
     "time": "2026-02-17T06:07:34.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Warning for contenders! Sri Lanka emerge as team to beat at T20 World Cup",
-    "desc": "Sri Lanka have stormed into the Super 8s with three dominant wins, showcasing championship potential. Their emphatic victory over Australia, chasing 182 with ease, highlights their mastery of home conditions and growing confidence. Despite key injuries, the team's strong performance and Pathum Nissanka's century signal Sri Lanka's serious semi-final aspirations.",
-    "img": "https://static.toiimg.com/photo/msid-128450864,imgsize-119118.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/warning-for-contenders-sri-lanka-emerge-as-team-to-beat-at-the-t20-world-cup-after-australia-demolition/articleshow/128450795.cms",
-    "time": "2026-02-17T05:49:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Nikkei sheds 480 points, Markets mostly remain shut for Lunar New Year Holiday",
-    "desc": "Asian markets dipped Tuesday as Lunar New Year holidays kept trading subdued. Weak economic data and a significant drop in SoftBank shares dampened sentiment in Tokyo, following a recent rally. European markets closed mixed, while US markets were shut. Investor focus remains on AI investments and inflation's impact on interest rates.",
-    "img": "https://static.toiimg.com/photo/msid-128450417,imgsize-115812.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-japan-sheds-480-points-markets-mostly-remain-shut-for-lunar-new-year-holiday/articleshow/128448974.cms",
-    "time": "2026-02-17T05:35:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ishan Kishan 2.0: The method behind the mayhem",
-    "desc": "Ishan Kishan's return to domestic cricket has revitalised his career, showcasing a fearless yet methodical approach. After being axed from the Indian setup in 2023, his dedication to First Class cricket and strong performances in limited-overs tournaments have put him back in contention, demonstrating a significant improvement in his game.",
-    "img": "https://static.toiimg.com/photo/msid-128449240,imgsize-175372.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ishan-kishan-2-0-the-method-behind-the-mayhem/articleshow/128448967.cms",
-    "time": "2026-02-17T04:52:59.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Nifty50 ends above 25,700; BSE Sensex up over 170 points",
     "desc": "The BSE Sensex, comprising 30 shares, rose 173.81 points or 0.21 percent to settle at 83,450.96. During the session, the index touched an intraday high of 83,598 and a low of 82,987.43. The 50-share NSE Nifty also edged higher, gaining 42.65 points or 0.17 percent to close at 25,725.40.",
@@ -682,15 +727,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-february-17-2026-dalal-street-indian-equities-global-markets-ai-summit/articleshow/128446709.cms",
     "time": "2026-02-17T03:49:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘In the lap of the gods’: How Australia can still reach Super 8s",
-    "desc": "Australia face an early T20 World Cup exit after a crushing eight-wicket defeat to Sri Lanka. Captain Mitchell Marsh admitted the team's fate is now out of their hands, relying on other results to qualify for the Super 8s. A strong start faltered, leading to a collapse and a chase dominated by Pathum Nissanka's century.",
-    "img": "https://static.toiimg.com/photo/msid-128446290,imgsize-172182.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/in-the-lap-of-the-gods-how-australia-can-still-reach-super-8s-despite-sri-lanka-heartbreak/articleshow/128446219.cms",
-    "time": "2026-02-17T03:05:58.000Z"
   },
   {
     "cat": "World",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/south-africa-new-zealand-t20-world-cup-ahmedabad-updates-february-14-2026/article70632376.ece",
     "time": "2026-02-15T04:21:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What’s in store for garment exporters to the U.S.?",
-    "desc": "What has the U.S. promised Bangladesh with respect to textiles? What are the conditions laid down by the U.S. to give Bangladeshi exporters unprecedented access to American markets? What is the assurance that Union Commerce Minister Piyush Goyal gave Indian textile exporters?",
-    "img": "https://th-i.thgim.com/public/incoming/nx6l09/article70633332.ece/alternates/LANDSCAPE_1200/2025-08-07T145208Z_1044761173_RC2H3EACZ6XW_RTRMADP_3_USA-TRUMP-TARIFFS-INDIA-GARMENTS-PIX.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/whats-in-store-for-garment-exporters-to-the-us-explained/article70633290.ece",
-    "time": "2026-02-15T03:22:18.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Four new astronauts arrive at International Space Station to replace NASA's evacuated crew",
-    "desc": "Last month's medical evacuation was NASA's first in 65 years of human spaceflight; one of four astronauts launched by SpaceX last summer suffered what officials described as a serious health issue, prompting their hasty return",
-    "img": "https://th-i.thgim.com/public/incoming/jroyqj/article70633412.ece/alternates/LANDSCAPE_1200/APTOPIX_SpaceX_Crew_Launch_07199.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/four-new-astronauts-arrive-at-international-space-station-to-replace-nasas-evacuated-crew/article70633411.ece",
-    "time": "2026-02-14T21:21:59.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "SC to hear plea accusing new data protection law of ‘weaponising’ right to privacy and ‘disarming’ RTI",
-    "desc": "The petition submits that Section 44(3) of the Digital Personal Data Protection (DPDP) Act of 2023 has amended the RTI Act to facilitate public authorities to refuse information on the ground that the details sought are of a “personal” nature.",
-    "img": "https://th-i.thgim.com/public/incoming/7qepbi/article70633115.ece/alternates/LANDSCAPE_1200/IMG_TH---14isbsrti-logoj_2_1_NIA0LGU4.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/sc-to-hear-plea-accusing-new-data-protection-law-of-weaponising-right-to-privacy-and-disarming-rti/article70632877.ece",
-    "time": "2026-02-14T18:20:44.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Electoral differences should not turn into revenge, says Tarique Rahman",
-    "desc": "‘I call upon all BNP leaders and activists across the country to remain calm and vigilant so that no malicious force can exploit the situation to create unrest,’ says the BNP leader; he pledges to make Bangladesh ‘a safe and humane nation’",
-    "img": "https://th-i.thgim.com/public/news/international/u1kwm7/article70631860.ece/alternates/LANDSCAPE_1200/TariqueRahman.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/bangladesh-elections-tarique-rahman-speech/article70631853.ece",
-    "time": "2026-02-14T16:47:49.000Z"
   }
 ];
