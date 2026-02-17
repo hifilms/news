@@ -1,5 +1,50 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "Tigress-eyed Woman: উত্তরাধিকারে পাওয়া 'বাঘিনী চোখ' নিয়ে দেশ কাঁপাচ্ছেন 'বানজারা' পাপ্পু! পুষ্কর থেকে এক লাফে...",
+    "desc": "প্রায় দু'দশক আগে পুষ্কর মেলার সময়ে এক বিদেশি পর্যটক পাপ্পু দেবীর একটি ছবি তুলেছিলেন। তাঁর চোখের সেই অনন্য রঙের কারণে ছবিটি দ্রুত জনপ্রিয়তা পায়। ভারতের বিভিন্ন পর্যটন কেন্দ্রে পোস্টকার্ড এবং স্যুভেনির হিসেবে ছবিটি বিক্রি হতে শুরু করে। অনেকেই তাঁর সেই তীক্ষ্ণ দৃষ্টির জন্য তাঁকে 'বাঘিনী-চক্ষু নারী' বলে অভিহিত করেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/pappu-devi-tigress-eyed-woman-from-pushkar-fair-goes-viral-again-after-20-years_641687.html ",
+    "time": "2026-02-17T12:47:52.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "তারেক রহমানের নেতৃত্বে বাংলাদেশে দায়িত্ব নিল নতুন মন্ত্রিসভা! শপথ বয়কট বিরোধী জামাত এবং এনসিপির",
+    "desc": "বাংলাদেশে তারেক রহমানের নেতৃত্বে শপখ নিল নতুন মন্ত্রিসভা। মঙ্গলবার তারেক রহমান-সহ মোট ৫০ জন মন্ত্রী শপথ গ্রহণ করেন। এর মধ্যে ছিলেন ২৫ জন পূর্ণমন্ত্রী এবং ২৪ জন প্রতিমন্ত্রী। এই অনুষ্ঠানে শপথ নেয়নি জামাত এবং এনসিপি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Tarek-Rahman-2026-02-a742b6412efed45b7b25fc47f630fa6d-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/tarek-rahman-takes-oath-as-prime-minister-of-bangladesh-along-with-49-cabinet-ministers-jamat-and-ncp-did-not-take-oath-rdp-2545010.html",
+    "time": "2026-02-17T12:45:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "রাক্ষুসে গতির SUV-র ধাক্কায় উড়ে গিয়ে ৫০ ফুট দূরে পড়ল তরুণের দেহ! তালগোলা-পাকানো ছেলেটির দেওয়ালে লেখা-- 'D'...",
+    "desc": "সাহিল ধনেশরার অপূর্ণ স্বপ্ন। স্বপ্নের অপমৃত্যু। এক কিশোর চালকের বেপরোয়া গতিতে পিষ্ট হল দিল্লির এক বাইক আরোহী। রাক্ষুসে গতিতে ছুটে-আসা SUV-র ধাক্কায় উড়ে গিয়ে ৫০ ফুট দূরে পড়ে সেই তরুণ! মেধাবী এই তরুণের লক্ষ্য ছিল বছরে প্রায় ১ কোটি টাকার প্যাকেজ। তাঁর বাবা-মায়ের স্বপ্ন যখন ছিল প্লেনের ফার্স্ট ক্লাসে ভ্রমণ, তখন সে ভাবত তার নিজের একটি প্লেন থাকবে!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/killed-in-crash-unfulfilled-dreams-of-sahil-dhaneshra-killed-in-crash-dwarka-west-delhi-dream-of-yearly-income-of-usd-1000000_641674.html ",
+    "time": "2026-02-17T11:36:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "জীবনের প্রথম বড় পরীক্ষায় অংশ নিলেন না বৈভব সূর্যবংশী, কারণটা কী?",
+    "desc": "ভারতীয় ক্রিকেটের ভবিষ্যৎ তারকা হিসেবে পরিচিত বৈভব সূর্যবংশী এবার দশম শ্রেণির বোর্ড পরীক্ষায় অংশ নেননি। ১৭ ফেব্রুয়ারি থেকে শুরু হওয়া সিবিএসই পরীক্ষায় তাঁর নাম নথিভুক্ত থাকলেও তিনি কেন্দ্রে উপস্থিত হননি, যা নিয়ে শিক্ষামহলে আলোচনা শুরু হয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2025/07/Vaibhav-Suryavanshi-25-2025-07-48555742b31b7cada0a5235bebac7112-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/indian-u-19-cricketer-vaibhav-suryavanshi-not-appearing-for-the-cbse-class-10th-exam-sup-2544749.html",
+    "time": "2026-02-17T10:37:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman-Salim Khan:  ICU-তে ভর্তি সেলিম খান! তড়িঘড়ি হাসপাতালে ছুটলেন সলমন, আচমকা কী হল? উদ্বিগ্ন ভক্তরা",
+    "desc": "হাসপাতালে ভর্তি বলিউডের বিখ্যাত চিত্রনাট্যকার সেলিম খান৷ মুম্বইয়ের লীলাবতী হাসপাতালে তড়িঘড়ি ভর্তি করা হয়েছে সেলিম খানকে। সূত্রের খবর, ৯০ বছর বয়সী প্রবীণ শিল্পীকে সোমবার সকালে বান্দ্রার লীলাবতী হাসপাতালে নিয়ে আসা হয়। বাবার শারীরিক অসুস্থতার খবর পেয়েই হাসপাতালে ছুটে গেছেন বলিউড সুপারস্টার সলমন খান৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Salman-Selim-2026-02-a6e790fde51db847527830b94da2f070-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/salman-khan-rushes-to-lilavati-hospital-after-father-salim-khan-is-admitted-fans-wish-speedy-recovery-rds-2544503.html",
+    "time": "2026-02-17T09:52:24.000Z"
+  },
+  {
     "cat": "World",
     "title": "ধেয়ে আসছে মরণঠান্ডা মেরুঘূর্ণি! ভয়াল পোলার রাক্ষসের ভয়ংকর আক্রমণে ফেব্রুয়ারিতেই অচল বিশ্ব...",
     "desc": "মেরু ঘূর্ণি পৃথিবীর উভয় মেরুকে ঘিরে থাকে নিম্নচাপ এবং ঠান্ডা বাতাসের এক বৃহৎ অঞ্চল। অঞ্চলটি গ্রীষ্মে দুর্বল হয়ে পড়ে, শীতকালে শক্তিশালী হয়। 'ঘূর্ণি' শব্দটি ঘড়ির কাঁটার বিপরীত দিকে বাতাসের প্রবাহকে বোঝায়। এই চলন মেরুর কাছাকাছি ঠান্ডা বাতাসকে ধরে রাখতে সাহায্য করে।",
@@ -16,15 +61,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/salim-khan-admitted-to-icu-salman-khan-visits-lilavati-hospital_641646.html ",
     "time": "2026-02-17T09:15:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman-Salim Khan:  ICU-তে ভর্তি সেলিম খান! তড়িঘড়ি হাসপাতালে ছুটলেন সলমন, আচমকা কী হল? উদ্বিগ্ন ভক্তরা",
-    "desc": "হাসপাতালে ভর্তি বলিউডের বিখ্যাত চিত্রনাট্যকার সেলিম খান৷ মুম্বইয়ের লীলাবতী হাসপাতালে তড়িঘড়ি ভর্তি করা হয়েছে সেলিম খানকে। সূত্রের খবর, ৯০ বছর বয়সী প্রবীণ শিল্পীকে সোমবার সকালে বান্দ্রার লীলাবতী হাসপাতালে নিয়ে আসা হয়। বাবার শারীরিক অসুস্থতার খবর পেয়েই হাসপাতালে ছুটে গেছেন বলিউড সুপারস্টার সলমন খান৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Riya-Das-1200900-2026-02-17T135219.795-2026-02-cda36b82ddadd6211fec345abeeae9bf-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/salman-khan-rushes-to-lilavati-hospital-after-father-salim-khan-is-admitted-fans-wish-speedy-recovery-rds-2544503.html",
-    "time": "2026-02-17T08:52:39.000Z"
   },
   {
     "cat": "Business",
@@ -397,15 +433,6 @@ const newsData_bn = [
   },
   {
     "cat": "Politics",
-    "title": "Deadly Hit-And-Run: প্রেমিকাকে নিয়ে জয়রাইডে বেরিয়ে দুধের শিশুকে চাকায় পিষে দিল দ্বাদশের ছাত্র! ভয়ংকর সেই ছবি...",
-    "desc": "দ্রুতগামী সুইফট ডিজায়ার গাড়ি পথচারীদের উপর উঠে গেলে এক ৬ বছরের শিশুর মৃত্যু হয় এবং আরও চারজন গুরুতর আহত হন। পুলিশ জানায়, গাড়িটি চালাচ্ছিল দ্বাদশ শ্রেণির এক ছাত্র। যে তার প্রেমিকার সঙ্গে ঘুরতে বেরিয়েছিল। দুর্ঘটনার পর সে পালিয়ে গেলেও পরে পুলিস তাকে গ্রেফতার করে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/hit-and-run-video-class-12-student-on-joyride-with-girlfriend-runs-over-6-year-old-4-others-severely-injured-lucknow_641150.html ",
-    "time": "2026-02-13T12:17:18.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "প্রথমে বাংলায় ট্যুইট, এবার তারেককে ফোন করলেন মোদি...! বিপুল জয়ের জন্য জানালেন শুভেচ্ছা",
     "desc": "বিএনপি বড়সড় জয়ের পথে হাঁটতেই সকাল সকাল দলের চেয়ারম্যান তারেক রহমানকে সোশ্যাল মিডিয়ায় বাংলায় পোস্ট দিয়ে শুভেচ্ছো জানিয়েছিলেন প্রধানমন্ত্রী নরেন্দ্র মোদি। এবার করলেন ফোন। নিজেই সোশ্যাল মিডিয়ায় শেয়ার করলেন সেই সৌজন্য ফোনালাপের কথা। ট্যুইট করে জানালেন \"তারেক রহমানের সঙ্গে কথা বলতে পেরে আমি আনন্দিত।\"",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/modi-tareque-2026-02-0bf07b9d01f3e29fcaa6a742cf7aa9df-3x2.jpg",
@@ -439,15 +466,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/education-career/bangladesh-do-you-know-why-indian-student-goes-to-bangladesh-to-study-which-subject-indian-students-rush-to-this-neighbouring-country-you-will-be-shocked-to-hear-the-answer-sanj-2538813.html",
     "time": "2026-02-13T10:22:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Valentine's Day tragedy: শুক্রবারে শিহরন! ভ্যালেন্টাইনস ডে নিয়ে তুমুল ঝগড়া, রাগে হোটেলের জানলা দিয়ে মরণঝাঁপ তরুণীর...",
-    "desc": "হোটেলের চার তলা থেকে ঝাঁপ দিয়ে আত্মহত্যার চেষ্টা তরুণীর। বন্ধুর সঙ্গে ঝগড়া করে রাগের মাথায় তিনি জানালা দিয়ে লাফ দিলেও নিচে রাখা খালি বাক্সের স্তূপের ওপর পড়ায় বড় বিপদ থেকে রক্ষা পান। বর্তমানে তিনি হাসপাতালে চিকিৎসাধীন এবং তার অবস্থা স্থিতিশীল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/20-year-old-jumps-from-hotel-window-after-spat-with-friend-saved-by-stack-of-boxes_641143.html ",
-    "time": "2026-02-13T10:14:09.000Z"
   },
   {
     "cat": "World",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/agriculture-news-vietnamese-mustard-giving-huge-profit-to-framers-know-plantation-tips-l18-local18-2532372.html",
     "time": "2026-02-09T13:30:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ঝমঝমিয়ে ভারী বৃষ্টি...! ১০, ১১, ১২ ফেব্রুয়ারি, দমকা ঝোড়ো হাওয়ার হুঁশিয়ারি কাঁপাবে ৬ রাজ্য, শীতের কামড় কাঁদাবে ৫ রাজ্যে, কী হবে বাংলায়? জানিয়ে দিল IMD",
-    "desc": "উত্তর-পশ্চিম ভারতে জম্মু-কাশ্মীর ও সংলগ্ন পাকিস্তানের উপর অবস্থান পশ্চিমী ঝঞ্ঝার। একের পর এক পশ্চিমী ঝঞ্ঝা। উত্তর-পশ্চিম ভারতে রয়েছে পশ্চিমী ঝঞ্ঝা। নতুন করে আরও একটি পশ্চিমী ঝঞ্ঝা আসবে। পরপর পশ্চিমী ঝঞ্ঝায় কার্যত শীতের বিদায় পর্বের শুরু।",
-    "img": "https://images.news18.com/static-bengali/uploads/2025/12/sanj-2025-12-06T160258.458-2025-12-b4306aa6f0cd38b5a171a63c43740897-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-heavy-rainfall-to-hit-6-states-in-next-3-to-4-days-along-with-thunderstom-and-lightning-cold-wave-alert-in-make-5-states-dense-fog-to-life-in-trouble-know-west-bengal-weather-sanj-2532484.html",
-    "time": "2026-02-09T13:20:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘এসআইআর-এর কাজ সম্পূর্ণ করতে বাধা দিতে পারি না,’ পশ্চিমবঙ্গ সরকারকে জানাল সুপ্রিম কোর্ট",
-    "desc": "সোমবার শীর্ষ আদালত নির্দেশ দেয়, চূড়ান্ত তালিকা প্রকাশের জন্য আরও অতিরিক্ত ১ সপ্তাহ সময় দেওয়া হবে৷ অর্থাৎ, পূর্ব নির্ধারিত ১৪ ফেব্রুয়ারির বদলে তার ১ সপ্তাহ পরে প্রকাশিত হবে চূড়ান্ত ভোটার তালিকা৷ পাশাপাশি, মাইক্রো অবদজার্ভারদের কাজ ও ভূমিকার স্পষ্টীকরণও করে দিয়েছে আদালত৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ydne-2026-02-09T170712.906-2026-02-cd0aaa0a54345b5fa2903fa430b49b78-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/supreme-court-extends-voter-list-publication-by-1-week-says-wont-create-impediments-to-completion-of-sir-sta-ws-l-2532293.html",
-    "time": "2026-02-09T12:49:26.000Z"
   }
 ];
