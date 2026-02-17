@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'In lap of gods now': Mitchell Marsh reacts to Australia's situation in T20 World Cup after loss to Sri Lanka",
+    "desc": "Sri Lanka stunned Australia to chase their highest total in the T20 World Cup on Monday and almost knocked them out of the tournament. On Tuesday, if Zimbabwe beat Ireland, Australia will be officially out...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/in-lap-of-gods-now-mitchell-marsh-reacts-to-australia-s-situation-in-t20-world-cup-after-loss-to-sri-lanka-2026-02-17-1030577",
+    "time": "2026-02-17T01:40:38.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ravichandran Ashwin hilariously trolls Pakistan after embarrassing defeat to India in T20 World Cup 2026",
     "desc": "India didn’t just beat Pakistan in Colombo but they outplayed them in every department. At the R Premadasa Stadium, on a surface that gripped and turned, India put up 174 after choosing to bat. It...",
     "img": "",
@@ -28,7 +37,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "When was the last time Australia were knocked out of group stage of ICC event?",
+    "title": "When was the last time Australia were knocked out of group stage of T20 and ODI World Cups?",
     "desc": "Australia’s T20 World Cup 2026 campaign is hanging by a thread after a crushing defeat to Sri Lanka. Following the eight-wicket defeat, the team is left staring at a group-stage exit. Sri Lanka, in the...",
     "img": "",
     "src": "indiatvnews.com",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/matheesha-pathirana-walks-off-with-injury-sri-lanka-suffer-major-blow-in-third-over-vs-australia-2026-02-16-1030542",
     "time": "2026-02-16T13:56:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lanka chase down 182 to qualify for Super Eight",
-    "desc": "Sri Lanka defeated Australia in the T20 World Cup 2026 with a commanding performance, successfully chasing down a daunting 182 at the Pallekele International Cricket Stadium. A magnificent unbeaten century from Pathum Nissanka anchored the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/aus-vs-sl-t20-world-cup-2026-live-cricket-score-australia-vs-zimbabwe-pallekele-international-cricket-stadium-latest-match-updates-scorecard-2026-02-16-1030535",
-    "time": "2026-02-16T13:11:22.000Z"
   }
 ];
