@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "5% વધશે DA, એરિયરથી લઈને સેલેરી પર આવ્યું અપડેટ, કેન્દ્ર સરકારના કર્મચારી માટે મહત્વના સમાચાર",
+    "desc": "સરકારે ઓકટોબરમાં આયોગના TORને મંજૂરી આપી છે, જો કે પેનલને જણાવવામાં 18 મહિનાનો સમય લાગી શકે છે. એટલે કે નવા સેલેરી સ્ટ્રક્ચર અને ભથ્થામાં બદલાવને જમીન પર લાગુ થવા માટે હજી વધારે સમય લાગી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/da-will-increase-by-5-percent-update-on-arrears-to-salary-important-news-for-central-government-employees-465268 ",
+    "time": "2026-02-17T14:23:21.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ઓસ્ટ્રેલિયા T20 વર્લ્ડ કપમાંથી બહાર, ટુર્નામેન્ટનો સૌથી મોટો અપસેટ, ઝિમ્બાબ્વેની સુપર-8માં એન્ટ્રી",
     "desc": "ઓસ્ટ્રેલિયા 2026ના T20 વર્લ્ડ કપમાંથી બહાર થઈ ગયું છે. પલ્લેકેલેમાં ઝિમ્બાબ્વે અને આયર્લેન્ડ વચ્ચેની મેચ વરસાદને કારણે રદ કરવામાં આવી હતી. મેચ રદ થતા બંને ટીમને એક એક પોઈન્ટ આપવામાં આવ્યા હતા. તેથી ઝિમ્બાબ્વેની સુપર 8માં એન્ટ્રી થઈ છે.",
@@ -333,15 +342,6 @@ const newsData_gu = [
     "time": "2026-02-14T15:45:50.000Z"
   },
   {
-    "cat": "Business",
-    "title": "હવે સીધી 30,000ને પાર થશે બેસિક સેલેરી! 60% DA સાથે 8મા પગાર પંચની તૈયારી, જાણો ફિટમેન્ટ ફેક્ટર પર લેટેસ્ટ અપડેટ્સ",
-    "desc": "કેન્દ્ર સરકારના કર્મચારીઓ 8મું પગાર પંચ લાગુ થવાની આતુરતાથી રાહ જોઈ રહ્યા છે, ત્યારે ફિટમેન્ટ ફેક્ટરમાં કેટલો વધારો થશે અને DA કેટલે પહોચશે તેને લઈને હાલમાં અંદાજ લગાવવામાં આવી રહ્યા છે, ત્યારે જોવાનું રહેશે કે કેન્દ્ર સરકાર કર્મચારીઓ અને પેન્શનરોને મોટી ભેટ આપવા જઈ રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/now-basic-salary-will-directly-cross-30000-preparation-for-the-8th-pay-commission-with-60-percent-da-know-fitment-factor-464947 ",
-    "time": "2026-02-14T13:46:45.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "આ મારુતિ સુઝીકીની ગાડીઓ પર મળે છે 2.15 લાખ સુધીનું ભારે ડિસ્કાઉન્ટ, જલ્દી ચેક કરો ઓફર",
     "desc": "ડિસેમ્બર મહિનો પુરો થયાને ઉપર એક મહિનાથી ઉપર સમય થઈ ગયો છે, છતા મારૂતિ સુઝુકી પોતાની ગાડીઓ પર હજી પણ ડિસ્કાઉન્ટ આપી રહી છે, જે અનેક સેડાન ગાડીઓ પર લાગુ પડે છે. આ કારો પર 2.15 લાખ સુધી લાભ મળી શકે છે.",
@@ -367,15 +367,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/shahid-kapoor-film-o-romeo-review-and-opening-box-office-collection-464929 ",
     "time": "2026-02-14T11:23:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "TATAના આ શેરને વેચી નિકળી રહ્યા છે રોકાણકારો, એક્સપર્ટે કહ્યું: 20% વધશે ભાવ",
-    "desc": "11 ફેબ્રુઆરીએ ટાટા ગ્રુપની કંપનીના શેર 52 અઠવાડિયાની ઊંચી સપાટીએ પહોંચ્યા હતા. જો કે, ત્યારથી આ શેર પ્રોફિટ બુકિંગ મોડમાં આવી ગયો છે. જોકે, એક્સપર્ટ ટાટા કંપનીના આ શેર પર બુલિશ છે અને ખરીદવાની સલાહ આપી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/investors-are-selling-these-shares-of-tata-expert-said-price-will-increase-by-20-percent-464923 ",
-    "time": "2026-02-14T11:02:06.000Z"
   },
   {
     "cat": "World",
