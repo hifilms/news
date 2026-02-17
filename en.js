@@ -1,6 +1,168 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "‘The Godfather’ actor Robert Duvall’s net worth",
+    "desc": "Veteran actor Robert Duvall, celebrated for his iconic role in 'The Godfather' trilogy, has passed away at 95. With a career spanning over eight decades and more than 81 films, Duvall amassed an estimated net worth of USD 50 million. His impactful performances, including an Academy Award win for 'Tender Mercies,' cemented his legendary status in Hollywood.",
+    "img": "https://static.toiimg.com/photo/msid-128451375,imgsize-16698.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-duvalls-net-worth-how-much-had-the-actor-accumulated-in-his-life/articleshow/128451375.cms",
+    "time": "2026-02-17T06:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Producer reveals 16 crore loss on 'Valathuvashathe Kallan'",
+    "desc": "Producer Joby George revealed 'Valathuvashathe Kallan' is Goodwill's first loss-making film, though they only handled distribution. He stepped in due to past gratitude, advancing Rs 6.5 crore amid production crises. George also criticized actors for skipping promotions, emphasizing their professional obligation after receiving payment.",
+    "img": "https://static.toiimg.com/photo/msid-128452074,imgsize-48602.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/joby-george-reveals-16-crore-loss-on-valathuvashathe-kallan-calls-out-stars-skipping-promotions/articleshow/128452074.cms",
+    "time": "2026-02-17T06:27:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sparks debate with its alarming message",
+    "desc": "The makers of 'The Kerala Story 2 – Goes Beyond' unveiled its emotional trailer, exploring themes of love, faith, and identity across India. Directed by Kamakhya Narayan Singh and produced by Vipul Amrutlal Shah, the film stars Ulka Gupta, Aditi Bhatia, and Aishwarya Ojha. It releases in theatres on February 27, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-128452099,imgsize-25420.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-kerala-story-2-goes-beyond-trailer-sparks-debate-with-its-alarming-message/articleshow/128452099.cms",
+    "time": "2026-02-17T06:25:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'To people like him, woman nothing more than body': Congress MP Jothimani flays BJP leader Senthil Nathan for 'derogatory' remarks",
+    "desc": "Congress MP Jothimani condemned alleged misogynistic remarks by BJP district president V V Senthil Nathan, stating he views her as merely a \"body, a sexual object.\" Police registered a case against Nathan for insulting womanhood during a BJP protest.",
+    "img": "https://static.toiimg.com/photo/msid-128451531,imgsize-325813.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/to-people-like-him-woman-nothing-more-than-body-congress-mp-jothimani-flays-bjp-leader-senthil-nathan-for-derogatory-remarks/articleshow/128450796.cms",
+    "time": "2026-02-17T06:19:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Dodgy burger': Mitchell Santner misses Canada game as NZ chase Super 8 spot",
+    "desc": "New Zealand skipper Mitchell Santner was ruled out of their T20 World Cup match against Canada due to illness from a \"dodgy burger.\" All-rounder Cole McConchie replaced him, while Kyle Jamieson also came into the XI for the absent Lockie Ferguson. Despite these disruptions, New Zealand aims for a third win to secure a Super 8 berth.",
+    "img": "https://static.toiimg.com/photo/msid-128451551,imgsize-90750.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/dodgy-burger-mitchell-santner-misses-canada-game-as-new-zealand-chase-super-8-spot/articleshow/128451583.cms",
+    "time": "2026-02-17T06:09:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jerry Kennedy passes away at 85",
+    "desc": "Renowned music producer and guitarist Jerry Kennedy, celebrated for his work with Tammy Wynette and Roy Orbison, has passed away at 85 in Nashville. His son confirmed the news, attributing his father's death to congestive heart failure. Kennedy, a fixture in Nashville's music scene for decades, leaves behind a rich legacy of influential tunes.",
+    "img": "https://static.toiimg.com/photo/msid-128451455,imgsize-56766.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/famed-producer-and-guitarist-jerry-kennedy-passes-away-at-the-age-of-85/articleshow/128451455.cms",
+    "time": "2026-02-17T06:08:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Francis Ford Coppola, Al Pacino and Robert De Niro lead tributes to Robert Duvall after actor’s death at 95",
+    "desc": "Hollywood paid tribute to legendary actor Robert Duvall after his death at 95, with longtime collaborators Francis Ford Coppola, Al Pacino and Robert De Niro remembering his immense talent and lasting influence on American cinema",
+    "img": "https://th-i.thgim.com/public/incoming/n96tvy/article70641769.ece/alternates/LANDSCAPE_1200/Obit_Robert_Duvall_78448.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/francis-ford-coppola-al-pacino-and-robert-de-niro-lead-tributes-to-robert-duvall-after-actors-death-at-95/article70641772.ece",
+    "time": "2026-02-17T06:07:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cruz Beckham celebrates 21st birthday amid family feud",
+    "desc": "The Beckham family celebrated Cruz Beckham's early 21st birthday with a joyful gathering, sharing loving moments captured in photos. Notably absent were eldest son Brooklyn Beckham and his wife Nicola Peltz Beckham, amidst ongoing public family tensions and Brooklyn's recent accusations against his parents.",
+    "img": "https://static.toiimg.com/photo/msid-128451303,imgsize-823514.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/cruz-beckham-celebrates-21st-birthday-as-victoria-beckham-shares-family-joy-amid-ongoing-rift-with-brooklyn-beckham/articleshow/128451309.cms",
+    "time": "2026-02-17T06:01:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Warning for contenders! Sri Lanka emerge as team to beat at the T20 World Cup",
+    "desc": "Sri Lanka have stormed into the Super 8s with three dominant wins, showcasing championship potential. Their emphatic victory over Australia, chasing 182 with ease, highlights their mastery of home conditions and growing confidence. Despite key injuries, the team's strong performance and Pathum Nissanka's century signal Sri Lanka's serious semi-final aspirations.",
+    "img": "https://static.toiimg.com/photo/msid-128450864,imgsize-119118.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/warning-for-contenders-sri-lanka-emerge-as-team-to-beat-at-the-t20-world-cup-after-australia-demolition/articleshow/128450795.cms",
+    "time": "2026-02-17T05:49:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM to lay stone of north India's first semiconductor unit, open Namo Bharat corridor in UP next week",
+    "desc": "CM Yogi Adityanath said that the foundation stone of the semiconductor unit in Gautam Buddh Nagar would be laid on February 21, terming it a significant step towards making the state a hub for high-technology manufacturing",
+    "img": "https://th-i.thgim.com/public/incoming/ubvhj3/article70641678.ece/alternates/LANDSCAPE_1200/PTI01_04_2025_000254B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/pm-to-lay-stone-of-north-indias-first-semiconductor-unit-open-namo-bharat-corridor-in-up-next-week/article70641635.ece",
+    "time": "2026-02-17T05:45:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Nikkei sheds 480 points, Markets mostly remain shut for Lunar New Year Holiday",
+    "desc": "Asian markets dipped Tuesday as Lunar New Year holidays kept trading subdued. Weak economic data and a significant drop in SoftBank shares dampened sentiment in Tokyo, following a recent rally. European markets closed mixed, while US markets were shut. Investor focus remains on AI investments and inflation's impact on interest rates.",
+    "img": "https://static.toiimg.com/photo/msid-128450417,imgsize-115812.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-japan-sheds-480-points-markets-mostly-remain-shut-for-lunar-new-year-holiday/articleshow/128448974.cms",
+    "time": "2026-02-17T05:35:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "BMC to BLACKLIST Aditya’s production house?",
+    "desc": "B62 Studios, headed by Aditya Dhar, may be facing serious consequences from the BMC due to perceived infractions during the making of 'Dhurandhar 2'. Allegations suggest improper use of flammable materials and unauthorized generator vans, resulting in a hefty fine of Rs 1 lakh and the loss of their security deposit. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128450276,imgsize-30090.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-bmc-to-blacklist-aditya-dhars-production-house-over-alleged-on-set-violations-in-mumbai-report/articleshow/128450276.cms",
+    "time": "2026-02-17T05:33:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka credits Ash for paving way to Hollywood",
+    "desc": "Priyanka Chopra graced Harvard University, reflecting on her Bollywood to Hollywood journey. She honored pioneers like Aishwarya Rai and Irrfan Khan, crediting them for paving the way. Chopra shared her personal struggles and redefined success as prioritizing family and meaningful work, inspiring young minds with her vision for India's future.",
+    "img": "https://static.toiimg.com/photo/msid-128450338,imgsize-30124.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-praises-icon-aishwarya-rai-and-irrfan-khan-for-hollywood-break-i-stand-on-the-shoulders-of-amazing-artists-that-came-before-me/articleshow/128449285.cms",
+    "time": "2026-02-17T05:31:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Rookie' Season 8, episode 7: Where and when to stream",
+    "desc": "The thrilling latest installment of 'The Rookie' season 8, called 'Baja', thrusts Lucy and Bradford into the heart of danger while working undercover in Baja. Fans can expect a heartfelt update regarding rookie Miles Penn’s fight for recovery after the harrowing Mid-Wilshire explosion.",
+    "img": "https://static.toiimg.com/photo/msid-128450176,imgsize-76100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-rookie-season-8-episode-7-when-and-where-to-stream-on-ott/articleshow/128450176.cms",
+    "time": "2026-02-17T05:30:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Who is Maya Hawke’s husband?",
+    "desc": "Christian Lee Hutson, a 35-year-old indie folk artist, has gained recognition for his deeply personal songwriting. After early self-released work, a collaboration with Phoebe Bridgers propelled his career, leading to successful albums like 'Beginners' and 'Quitters'. He married Maya Hawke in 2026, with whom he has co-created music.",
+    "img": "https://static.toiimg.com/photo/msid-128449800,imgsize-925693.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/who-is-maya-hawkes-husband-a-deep-dive-into-christian-lee-hutsons-life-music-and-their-love-story/articleshow/128449805.cms",
+    "time": "2026-02-17T05:14:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Awareness of body donation essential, says Dr. Mahantesh Ramannavar",
+    "desc": "Dr. Mahantesh Ramannavar, HoD of Anatomy at KLE B.M. Kankanwadi Ayurveda College, Belagavi, said that a thorough understanding of human anatomy and physiology is essential to shape competent and compassionate doctors who can serve society effectively",
+    "img": "https://th-i.thgim.com/public/incoming/573oq2/article70641609.ece/alternates/LANDSCAPE_1200/GBTVS_8-11-2015_16-28-13_09GBPIC2.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/awareness-of-body-donation-essential-says-dr-mahantesh-ramannavar/article70639605.ece",
+    "time": "2026-02-17T04:59:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ishan Kishan 2.0: The method behind the mayhem",
+    "desc": "Ishan Kishan's return to domestic cricket has revitalised his career, showcasing a fearless yet methodical approach. After being axed from the Indian setup in 2023, his dedication to First Class cricket and strong performances in limited-overs tournaments have put him back in contention, demonstrating a significant improvement in his game.",
+    "img": "https://static.toiimg.com/photo/msid-128449240,imgsize-175372.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ishan-kishan-2-0-the-method-behind-the-mayhem/articleshow/128448967.cms",
+    "time": "2026-02-17T04:52:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A separate classification for denotified tribes",
+    "desc": "Why were Denotified, Nomadic, and Semi-Nomadic Tribes classified as ‘criminal’ groups in the colonial era? What did the Idate Commission recommend? What was the problem with the SEED scheme rolled out by the Social Justice Ministry? Why do community leaders demand a separate classification for DNTs?",
+    "img": "https://th-i.thgim.com/public/incoming/1gctf2/article70640388.ece/alternates/LANDSCAPE_1200/10216_7_5_2025_17_33_48_2_07_05_2025_DEMONSTRATION_1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/a-separate-classification-for-denotified-tribes-explained/article70638653.ece",
+    "time": "2026-02-17T04:43:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "‘A Knight of the Seven Kingdoms’: Dunk’s rise from flea bottom to Brienne’s legacy",
     "desc": "Fans are embracing Ser Duncan the Tall, a towering hedge knight from King's Landing, as the new hero of 'A Knight of the Seven Kingdoms'. Orphaned and rising from humble beginnings, Dunk's journey of grit, loyalty, and moral strength mirrors that of beloved characters like Brienne of Tarth, to whom he is revealed as an ancestor.",
     "img": "https://static.toiimg.com/photo/msid-128448877,imgsize-756945.cms",
@@ -73,7 +235,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘In the lap of the gods’: How Australia can still reach Super 8s in the T20 World Cup",
+    "title": "‘In the lap of the gods’: How Australia can still reach Super 8s",
     "desc": "Australia face an early T20 World Cup exit after a crushing eight-wicket defeat to Sri Lanka. Captain Mitchell Marsh admitted the team's fate is now out of their hands, relying on other results to qualify for the Super 8s. A strong start faltered, leading to a collapse and a chase dominated by Pathum Nissanka's century.",
     "img": "https://static.toiimg.com/photo/msid-128446290,imgsize-172182.cms",
     "src": "indiatimes.com",
@@ -117,15 +279,6 @@ const newsData_en = [
     "time": "2026-02-17T02:41:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Cardi B mentions Stefon Diggs amid breakup rumors",
-    "desc": "Cardi B addressed breakup rumors with NFL player Stefon Diggs during her 'Little Miss Drama' tour. She defended her baby daddy, stating, \"Just because I ain’t f****** with my baby daddy doesn’t mean you get to talk about my baby daddy.\" This comes amid speculation following their social media unfollows after the Super Bowl.",
-    "img": "https://static.toiimg.com/photo/msid-128445459,imgsize-37140.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/cardi-b-drops-stefon-diggs-name-for-the-first-time-amid-split-rumors-just-becasue-i-aint-/articleshow/128445459.cms",
-    "time": "2026-02-17T02:38:07.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Bihar Congress conducts training for its observers amid delay in naming legislature party leader",
     "desc": "Addressing the observers, Bihar Congress President Rajesh Ram said that the primary objective of the campaign is to strengthen the Congress Party’s organisation, and the selected members will be entrusted with greater responsibility and power",
@@ -153,60 +306,6 @@ const newsData_en = [
     "time": "2026-02-17T02:32:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "WCC announces ‘Avalkoppam’: Candle event planned",
-    "desc": "The Women in Cinema Collective is hosting solidarity programs titled \"Avalkoppam\" in three Kerala cities on February 17, marking nine years since the 2017 actress assault. These events express continued support for the survivor, celebrating her courage and the #Avalkoppam movement's impact on victims and social transformation. The gatherings aim to unite those standing with her and all survivors.",
-    "img": "https://static.toiimg.com/photo/msid-128445079,imgsize-37422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/wcc-announces-avalkoppam-in-three-kerala-cities-candle-event-planned/articleshow/128445079.cms",
-    "time": "2026-02-17T02:21:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Devin Booker’s blunt Bad Bunny Super Bowl remark reignites Jenner drama",
-    "desc": "Devin Booker, ex-boyfriend of Kendall Jenner, revealed he didn't watch Bad Bunny's Super Bowl halftime show, sparking online chatter about past tensions. Both have been linked to Jenner, and a previous lyrical jab from Bad Bunny saw Booker respond on Instagram. Jenner attended the game, while Booker excelled in the All-Star Game.",
-    "img": "https://static.toiimg.com/photo/msid-128444913,imgsize-559577.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/devin-bookers-blunt-super-bowl-remark-on-bad-bunny-reignites-kendall-jenner-drama-and-online-buzz/articleshow/128444427.cms",
-    "time": "2026-02-17T02:08:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hollywood celebs pay tribute",
-    "desc": "Legendary actor Robert Duvall, celebrated for his iconic roles in \"The Godfather\" and \"Apocalypse Now,\" has passed away at 95. His wife confirmed his peaceful death at home. Duvall, an Oscar winner with a career spanning six decades, was lauded for his versatility and powerful performances, leaving an indelible mark on cinema.",
-    "img": "https://static.toiimg.com/photo/msid-128444549,imgsize-18292.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-duvall-passes-away-at-95-godfather-costar-al-pacino-michael-keaton-viola-davis-and-other-hollywood-stars-mourn-his-loss/articleshow/128443203.cms",
-    "time": "2026-02-17T01:52:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anubhav says SRK is 'responsible for chivalry' in Bollywood",
-    "desc": "In a captivating tribute, filmmaker Anubhav Sinha praised the indomitable Shah Rukh Khan, attributing to him the revolutionary concept of chivalry in Bollywood. He pointed out SRK's thoughtful gestures, such as extending a hand to his co-stars and prioritizing female leads in the credits. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128444257,imgsize-49480.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anubhav-sinha-hails-shah-rukh-khan-says-he-is-single-handedly-responsible-for-chivalry-in-bollywood/articleshow/128444257.cms",
-    "time": "2026-02-17T01:39:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Who was Robert Duvall?",
-    "desc": "Robert Duvall, a legendary actor, passed away at 95, leaving behind a seven-decade career marked by iconic roles. From Boo Radley to Lt. Col. Bill Kilgore, his versatility earned him an Oscar and numerous accolades. Duvall's authentic performances defined his enduring legacy in American cinema.",
-    "img": "https://static.toiimg.com/photo/msid-128444271,imgsize-422732.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/who-was-robert-duvall-inside-the-life-and-legacy-of-the-oscar-winning-hollywood-legend/articleshow/128443595.cms",
-    "time": "2026-02-17T01:36:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'This is everything': Fans react to ‘ViRosh’ wedding card",
-    "desc": "A wedding reception invitation featuring Rashmika Mandanna and Vijay Deverakonda has ignited social media excitement, with fans celebrating the rumoured February 2026 union. The alleged invite details an intimate ceremony followed by a March reception. Fans expressed overwhelming joy and disbelief, eagerly anticipating official confirmation of the beloved on-screen couple's 'forever bond'.",
-    "img": "https://static.toiimg.com/photo/msid-128444153,imgsize-50640.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-and-vijay-deverakonda-wedding-fans-react-to-viral-virosh-wedding-card/articleshow/128444153.cms",
-    "time": "2026-02-17T01:35:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why Zimbabwe and Ireland is a make-or-break clash in the T20 World Cup",
     "desc": "Zimbabwe and Ireland's upcoming T20 World Cup match is crucial, potentially deciding Australia's fate. Sri Lanka has already qualified. Zimbabwe, with two wins, faces Ireland, who are still mathematically alive. A Zimbabwe victory sends them through and eliminates Australia. An Ireland win opens the door for Australia, but they'll need a strong performance and favorable net run rate.",
@@ -216,15 +315,6 @@ const newsData_en = [
     "time": "2026-02-17T01:30:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Frederick Wiseman passes away at 96",
-    "desc": "The world of cinema mourns the loss of iconic documentary filmmaker Frederick Wiseman, who has died at the remarkable age of 96. His family shared the news, reflecting on the profound impact of his nearly sixty-year journey in film, which brilliantly illuminated the workings of social institutions and the tapestry of human experiences.",
-    "img": "https://static.toiimg.com/photo/msid-128444094,imgsize-75122.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/popular-documentary-filmmaker-frederick-wiseman-passes-away-at-96-family-and-management-confirm-his-demise/articleshow/128444094.cms",
-    "time": "2026-02-17T01:29:11.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "FEMA adjudicating authority imposes ₹184 crore penalty on NewsClick, founder Prabir Purkayastha",
     "desc": "The adjudication proceedings were initiated on a complaint under Section 16 of FEMA filed by the ED alleging contraventions of FEMA and the rules and regulations pertaining to the receipt and utilisation of foreign funds",
@@ -232,15 +322,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/fema-adjudicating-authority-imposes-184-crore-penalty-on-newsclick-its-founder/article70639781.ece",
     "time": "2026-02-17T01:02:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Tu Yaa Main' STRUGGLING to cross Rs 4 crore on Day 4",
-    "desc": "In the gripping survival drama 'Tu Yaa Main' by Bejoy Nambiar, stars Adarsh Gourav and Shanaya Kapoor have unfortunately found themselves in troubled waters at the box office. The film managed to rake in only Rs 3.2 crore over its first four days, with a disheartening decline on Day 4 as collections fell to Rs 0.35 crore.",
-    "img": "https://static.toiimg.com/photo/msid-128443454,imgsize-27994.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/tu-yaa-main-box-office-collection-day-4-adarsh-gourav-and-shanaya-kapoor-starrer-is-struggling-to-cross-even-rs-5-crore/articleshow/128443454.cms",
-    "time": "2026-02-17T00:56:54.000Z"
   },
   {
     "cat": "Business",
@@ -343,15 +424,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Police plan awareness drive on K-Pop influence after minor girl’s death",
-    "desc": "District Police Chief (Ernakulam Rural) suggested the need for an awareness drive as a preventive measure in the wake of the Chottanikkara incident, as well as the recent death of three sisters in Ghaziabad who were allegedly obsessed with Korean culture",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/minor-girls-death-police-plan-awareness-drive-on-k-pop-influence/article70639780.ece",
-    "time": "2026-02-16T19:18:15.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Full Cabinet and Ministers’ portfolio will be decided soon: Manipur Deputy CM",
     "desc": "Deputy Chief Minister Losii Dikho says the rehabilitation of people displaced by the long violence in the State is a priority for the new government; on his colleague Nemcha Kipgen, a Kuki-Zo leader, not being able to travel to Imphal, he says, ‘She is supporting us to reach out to the people’; the State government plans to hold a Cabinet meeting in Senapati, a Naga area, and go there via Kangpokpi, a Kuki-Zo area",
     "img": "https://th-i.thgim.com/public/incoming/c92ssb/article70640243.ece/alternates/LANDSCAPE_1200/20260204339L.jpg",
@@ -394,15 +466,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/better-for-congress-to-remain-in-dmk-ledfront-for-its-own-sake-says-cpim-state-secretary/article70639944.ece",
     "time": "2026-02-16T17:11:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "A separate classification for denotified tribes",
-    "desc": "Why were Denotified, Nomadic, and Semi-Nomadic Tribes classified as ‘criminal’ groups in the colonial era? What did the Idate Commission recommend? What was the problem with the SEED scheme rolled out by the Social Justice Ministry? Why do community leaders demand a separate classification for DNTs?",
-    "img": "https://th-i.thgim.com/public/incoming/1gctf2/article70640388.ece/alternates/LANDSCAPE_1200/10216_7_5_2025_17_33_48_2_07_05_2025_DEMONSTRATION_1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/a-separate-classification-for-denotified-tribes-explained/article70638653.ece",
-    "time": "2026-02-16T17:09:20.000Z"
   },
   {
     "cat": "Sports",
@@ -523,15 +586,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'If we don't make it to the next round': Rashid Khan breaks silence after UAE win",
-    "desc": "Afghanistan secured a crucial five-wicket victory against UAE, keeping their Super Eights aspirations alive. Despite the win, qualification hinges on other results, with captain Rashid Khan expressing hope for a positive mindset in their final group match. Player of the Match Azmatullah Omarzai's all-round performance was pivotal, while UAE captain Muhammad Waseem felt his team fell short with the bat.",
-    "img": "https://static.toiimg.com/photo/msid-128420468,imgsize-150860.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/if-we-dont-make-it-to-the-next-round-rashid-khan-breaks-silence-after-uae-win/articleshow/128420534.cms",
-    "time": "2026-02-16T11:16:55.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Ishan Kishan's grandfather confirms relationship with Aditi Hundia",
     "desc": "Cricketer Ishan Kishan's personal life is in the spotlight. His grandfather confirmed his relationship with model Aditi Hundia. This news comes after Kishan's stellar performance in the 2026 T20 World Cup. Hundia is a former Miss Diva winner. The family is reportedly ready to accept their union. Wedding plans are speculated for after the tournament.",
     "img": "https://static.toiimg.com/photo/msid-128418667,imgsize-1051188.cms",
@@ -577,30 +631,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Afghans scrape through vs UAE to keep slim Super 8 hopes alive",
-    "desc": "Azmatullah Omarzai proved decisive with a four-wicket haul and then an unbeaten 40 from 21 balls as Afghanistan beat UAE by 5 wickets with four balls to spare in the T20 World Cup. The result keeps Afghanistan's slim hopes of progressing to Super Eight alive but New Zealand could dash them on Tuesday.",
-    "img": "https://static.toiimg.com/photo/msid-128416602,imgsize-144438.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-afghanistan-scrape-through-to-avoid-another-heartbreak-keep-slim-super-eight-hopes-alive/articleshow/128416364.cms",
-    "time": "2026-02-16T09:29:45.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Meet Team India's silent assassin who killed Pakistan's chase",
     "desc": "Axar Patel's intelligent bowling, particularly his variations in length, proved crucial in India's T20 World Cup victory over Pakistan. His dismissal of Usman Khan and Babar Azam stifled Pakistan's chase. Patel, a flexible all-rounder, prioritizes team needs over batting order, showcasing adaptability both with ball and bat.",
     "img": "https://static.toiimg.com/photo/msid-128416544,imgsize-91800.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/meet-team-indias-silent-assassin-who-killed-pakistans-chase/articleshow/128416394.cms",
     "time": "2026-02-16T09:27:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Steve Smith added to Australia squad",
-    "desc": "Steve Smith has been drafted into Australia's T20 World Cup squad, replacing Josh Hazlewood and is likely to open against Sri Lanka. This move comes as captain Mitchell Marsh remains doubtful due to injury, with Smith's inclusion bolstering a squad already missing key pacers and dealing with other player concerns.",
-    "img": "https://static.toiimg.com/photo/msid-128415942,imgsize-28270.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-steve-smith-added-to-australia-squad-ahead-of-must-win-sri-lanka-clash/articleshow/128415861.cms",
-    "time": "2026-02-16T09:07:48.000Z"
   },
   {
     "cat": "Business",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/meity-secretary-s-krishnan-ai-can-create-many-more-jobs-than-it-takes-away/article70629888.ece",
     "time": "2026-02-14T03:34:39.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Consumers get a raw deal as global oil price fall benefit remains ‘frozen’",
-    "desc": "While oil price spikes are passed on to Indian consumers, the benefit of falling prices are not, according to analysts; petrol prices in India have been cut barely by 1.9% since June 2022 even as oil prices have declined 41% since then",
-    "img": "https://th-i.thgim.com/public/incoming/1v1ano/article70631275.ece/alternates/LANDSCAPE_1200/2025-07-11T075220Z_952810480_RC26KFABPFM0_RTRMADP_3_INDIA-PETROCHEMICALS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/consumers-get-a-raw-deal-as-global-oil-price-fall-benefit-remains-frozen/article70628176.ece",
-    "time": "2026-02-14T03:10:25.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Major opportunities for AI in jobs and governance, says MeitY Secretary S. Krishnan",
-    "desc": "India is focusing on providing AI infrastructure that will spur development of applications, promoting electronics manufacturing with a thrust on semiconductors, and ensuring people secure adequate reskilling opportunities, says Secretary for the Ministry of Electronics and Information Technology S. Krishnan; he adds international cooperation on AI governance is being explored and the country has potential to be a leader in offering affordable technologies",
-    "img": "https://th-i.thgim.com/public/news/cities/Delhi/y7pv9b/article70630168.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/major-opportunities-for-ai-in-jobs-and-governance-says-meity-secretary-s-krishnan/article70630166.ece",
-    "time": "2026-02-13T23:38:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Adani Group enters nuclear power sector after SHANTI Act",
-    "desc": "In a notice to the NSE, Adani Power says it has incorporated a wholly owned subsidiary Adani Atomic Energy Ltd; first private player to enter the sector since it was opened up via the SHANTI Act two months ago",
-    "img": "https://th-i.thgim.com/public/incoming/24zmp9/article70629452.ece/alternates/LANDSCAPE_1200/2024-12-19T021633Z_2128045322_RC2N1Z98EDDM_RTRMADP_3_ADANI-GROUP-USA-BANGLADESH.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/adani-group-enters-nuclear-power-sector/article70628957.ece",
-    "time": "2026-02-13T20:32:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Supreme Court",
-    "desc": "The Bench of Justices P.S. Narasimha and Atul Chandurkar says spectrum is a scarce natural resource owned by the people of India, with legal title vesting exclusively in the Union of India, which holds it in trust for the public",
-    "img": "https://th-i.thgim.com/public/incoming/eozjh/article70629729.ece/alternates/LANDSCAPE_1200/IMG_Suprem_Court_3_1_2MFJ3838.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/telecom-operators-do-not-own-spectrum-cannot-list-the-public-resource-as-an-asset-for-insolvency-or-liquidation-sc/article70629340.ece",
-    "time": "2026-02-13T20:31:56.000Z"
   }
 ];

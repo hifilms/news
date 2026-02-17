@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pakistan's Imad Wasim accused of 'cheating' by first wife after cricketer announces second marriage",
+    "desc": "Pakistan cricketer Imad Wasim is in troubled waters after his first wife accused him of cheating, days after the cricketer announced his second marriage to Nayla Raja. Notably, in his post, confirming divorce from his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-s-imad-wasim-accused-of-cheating-by-first-wife-after-cricketer-announces-second-marriage-2026-02-17-1030603",
+    "time": "2026-02-17T05:50:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vaibhav Suryavanshi to skip Class 10 board exams, starts preparation for IPL 2026",
     "desc": "India's teen batting sensation Vaibhav Suryavanshi will not be appearing the Class 10 Board examination this year. Speculations were rife about the same, especially after the U19 World Cup which India won earlier this month....",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/nissanka-ton-help-sri-lanka-chase-record-total-to-qualify-for-super-eight-australia-on-brink-of-elimination-2026-02-16-1030560",
     "time": "2026-02-16T16:53:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Not Ishan or Bumrah, 32-year-old star wins Impact Player of match medal in India's win over Pakistan",
-    "desc": "India mauled Pakistan in their T20 World Cup 2026 clash at the R Premadasa Stadium in Colombo as the Men in Blue displayed a brilliant performance both with the bat and then with the ball...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/not-ishan-or-bumrah-32-year-old-star-wins-impact-player-of-match-medal-in-indias-win-over-pakistan-2026-02-16-1030558",
-    "time": "2026-02-16T16:35:08.000Z"
   }
 ];

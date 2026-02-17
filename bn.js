@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "বিশ্বকাপের গ্রুপ পর্ব থেকেই কি বিদায় নেবে অস্ট্রেলিয়া ! জিম্বাবোয়ের জয় থেকে ভারত কীভাবে লাভবান হবে?",
+    "desc": "জিম্বাবোয়ে আর আয়ারল্যান্ডের লড়াই মঙ্গলবার, ১৭ ফেব্রুয়ারি পাল্লেকেলেতে হবে। এই ম্যাচে যদি জিম্বাবোয়ে টিম আয়ারল্যান্ডকে হারিয়ে দেয়, তাহলে অস্ট্রেলিয়ার টুর্নামেন্ট থেকে ছিটকে যাবে। এর সঙ্গে সঙ্গে টিম ইন্ডিয়ার জন্য টুর্নামেন্টে অস্ট্রেলিয়া নামের কাঁটা-ও সরে যাবে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Zimbabwe-Helps-India-2026-02-521b7db2d932da43487930d56d400eea-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/sports/super-8-equation-how-zimbabwe-victory-benefit-india-australia-had-major-hurdle-in-t20-world-cup-know-equation-ss-2544185.html",
+    "time": "2026-02-17T06:00:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘অ্যাক্সিডেন্ট নয়, এটা অপরাধ’! মর্মান্তিক মৃত্যু ২৩-এর যুবকের, দ্বারকার দুর্ঘটনায় কাঁদতে কাঁদতে বড় অভিযোগ তুললেন শোকস্তব্ধ মা",
+    "desc": "সম্প্রতি সর্বভারতীয় সংবাদসংস্থা ANI-কে দেওয়া সাক্ষাৎকারে মৃত যুবকের মা ইন্না মাকান কাঁদতে কাঁদতে জানান, এটি কোনও সাধারণ দুর্ঘটনা নয়, বরং “অপরাধমূলক কাজ৷ সাহিলের মায়ের আরও অভিযোগ, অভিযুক্তের বিরুদ্ধে আগেও একাধিকবার গতির সীমা লঙ্ঘনের অভিযোগ উঠেছে৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Untitled-design-2026-02-17T110932.364-2026-02-568bbe2895b475aa6a6aa334eb20a442-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/mother-of-23-year-old-dwarka-crash-victim-seeks-justice-said-this-is-a-crime-not-an-accident-ank-2544248.html",
+    "time": "2026-02-17T05:40:03.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "অমিত শাহের সঙ্গে আধঘণ্টার বৈঠকে শুভেন্দু! কী নিয়ে চলল ৩০ মিনিটের গুরুত্বপূর্ণ আলোচনা?",
     "desc": "সোমবার দুপুরেই নয়াদিল্লির উদ্দেশে রওনা দিয়েছিলেন রাজ্যের বিরোধী দলনেতা। রাজধানীতে পা রেখেই সন্ধ্যায় শাহের বাসভবনে পৌঁছে যান শুভেন্দু অধিকারী। এরপর প্রায় তিরিশ মিনিট মতো চলে বৈঠক। বাংলার বিধানসভা নির্বাচন যখন একেবারে দোরগোড়ায় সেই সময় ঠিক কী কী বিষয় নিয়ে আলোচনা করলেন তাঁরা?",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/sports/afghanistan-who-played-semi-final-in-2024-will-be-eliminated-from-group-stage-in-t20-wc-smj-2530991.html",
     "time": "2026-02-08T11:11:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "১০ বছর হয়ে গেল! মেয়েকে আড়ালেই রেখেছেন রানি মুখার্জি! সমস্যাটা কী...জানালেন অভিনেত্রী!",
-    "desc": "লোকচক্ষুর আড়ালেই মেয়েকে বড় করে তোলার সিদ্ধান্তে শুরু থেকেই অনড় রানি মুখার্জি ও আদিত্য চোপড়া। তারকাসন্তান হয়েও আদিরাকে একেবারে স্বাভাবিক জীবনের স্বাদ দিতে চান এই দম্পতি। মেয়ের ভবিষ্যৎ, বেড়ে ওঠা এবং তাকে ঘিরে নিজেদের ভাবনা নিয়ে সম্প্রতি খোলাখুলি কথা বললেন রানি মুখার্জি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-08-at-11.13.55-AM-2026-02-0904e225ae99bfd3869a672bc6c249c8-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/10-years-on-rani-mukerji-openly-reveals-adira-future-plans-actor-still-keeps-daughter-away-from-the-spotlight-actress-explains-why-tib-ws-l-2530719.html",
-    "time": "2026-02-08T06:24:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SIR-এ ডমিসাইল সার্টিফিকেট গ্রহণ করা হবে...! DM, ADM, SDO-দের ইস্যু করা শংসাপত্রে আর আপত্তি নেই, জানিয়ে দিল কমিশন!",
-    "desc": "SIR-এ ডমিসাইল সার্টিফিকেট গ্রহণ করা হবে! DM, ADM, SDO-দের ইস্যু করা শংসাপত্রে আর আপত্তি নেই কমিশনের। সেই মর্মে CEO কে জানিয়ে দিল জাতীয় নির্বাচন কমিশন। কমিশন সূত্রে জানা যাচ্ছে, শুনানি প্রক্রিয়ায় এই শংসাপত্র গ্রহণযোগ্য হবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/SIR-SANJ-2026-02-d21169afbd3125d1cb1d055c851149a6-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/west-bengal/west-bengal-sir-domicile-certificates-will-be-accepted-at-sir-the-commission-has-announced-that-there-will-be-no-further-objections-to-certificates-issued-by-dms-adms-and-sdos-sanj-2530396.html",
-    "time": "2026-02-07T13:35:42.000Z"
   }
 ];
