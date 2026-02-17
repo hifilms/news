@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vaibhav Suryavanshi to skip Class 10 board exams, starts preparation for IPL 2026",
+    "desc": "India's teen batting sensation Vaibhav Suryavanshi will not be appearing the Class 10 Board examination this year. Speculations were rife about the same, especially after the U19 World Cup which India won earlier this month....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-suryavanshi-to-skip-class-10-board-exams-starts-preparation-for-ipl-2026-2026-02-17-1030595",
+    "time": "2026-02-17T04:35:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India superstar Smriti Mandhana named BBC Indian Sportswoman of the Year 2025",
+    "desc": "India superstar and vice-captain of the team, Smriti Mandhana, was named the BBC Indian Sportswoman of the Year for 2025. For the unversed, she played a key role in India's maiden triumph at the ODI...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-superstar-smriti-mandhana-named-bbc-indian-sportswoman-of-the-year-2025-2026-02-17-1030585",
+    "time": "2026-02-17T03:13:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England cricketer retires from international cricket at age of 29 due to recurrent injury problem",
+    "desc": "England's left-arm fast bowler has announced her retirement from all forms of cricket at the age of only 29, after four years battling persistent back injuries. She played 18 T20Is and six ODIs for England...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-cricketer-retires-from-international-cricket-at-age-of-29-due-to-recurrent-injury-problem-2026-02-17-1030581",
+    "time": "2026-02-17T02:29:43.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'In lap of gods now': Mitchell Marsh reacts to Australia's situation in T20 World Cup after loss to Sri Lanka",
     "desc": "Sri Lanka stunned Australia to chase their highest total in the T20 World Cup on Monday and almost knocked them out of the tournament. On Tuesday, if Zimbabwe beat Ireland, Australia will be officially out...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/not-ishan-or-bumrah-32-year-old-star-wins-impact-player-of-match-medal-in-indias-win-over-pakistan-2026-02-16-1030558",
     "time": "2026-02-16T16:35:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Tera toh game bazana parega'",
-    "desc": "India cruised to a 61-run victory over Pakistan in the T20 World Cup 2026 at the R Premadasa Stadium in Colombo, asserting dominance across all three formats. The win marked India’s eighth triumph over their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tera-toh-game-bazana-parega-suryakumar-kuldeep-yadav-s-hilarious-banter-after-pakistan-win-goes-viral-2026-02-16-1030554",
-    "time": "2026-02-16T15:51:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Babar Azam, Shaheen Afridi set to be dropped; Mohsin Naqvi sends strong message to team after loss to India",
-    "desc": "Pakistan are set to drop senior stars Babar Azam and Shaheen Shah Afridi for the final league stage clash in the T20 World Cup against Namibia after the duo's underwhelming performances against India in Colombo,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-shaheen-afridi-set-to-be-dropped-mohsin-naqvi-sends-strong-message-to-team-after-loss-to-india-2026-02-16-1030548",
-    "time": "2026-02-16T14:42:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Matheesha Pathirana walks off with injury, Sri Lanka suffer major blow in third over vs Australia",
-    "desc": "Sri Lanka pacer Matheesha Pathirana suffered a hamstring injury during their T20 World Cup 2026 clash against Australia at the Pallekele International Cricket Stadium. After delivering the fourth ball of his opening over, the 23-year-old...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/matheesha-pathirana-walks-off-with-injury-sri-lanka-suffer-major-blow-in-third-over-vs-australia-2026-02-16-1030542",
-    "time": "2026-02-16T13:56:04.000Z"
   }
 ];

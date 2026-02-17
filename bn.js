@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "অমিত শাহের সঙ্গে আধঘণ্টার বৈঠকে শুভেন্দু! কী নিয়ে চলল ৩০ মিনিটের গুরুত্বপূর্ণ আলোচনা?",
+    "desc": "সোমবার দুপুরেই নয়াদিল্লির উদ্দেশে রওনা দিয়েছিলেন রাজ্যের বিরোধী দলনেতা। রাজধানীতে পা রেখেই সন্ধ্যায় শাহের বাসভবনে পৌঁছে যান শুভেন্দু অধিকারী। এরপর প্রায় তিরিশ মিনিট মতো চলে বৈঠক। বাংলার বিধানসভা নির্বাচন যখন একেবারে দোরগোড়ায় সেই সময় ঠিক কী কী বিষয় নিয়ে আলোচনা করলেন তাঁরা?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/amit-2026-02-45914c7776943d6444b10a8fe934ea6f-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/suvendu-adhikari-meets-amit-shah-west-bengal-opposition-leader-meets-home-minister-in-new-delhi-had-a-30-minutes-talk-sanj-2544116.html",
+    "time": "2026-02-17T04:00:34.000Z"
+  },
+  {
     "cat": "Business",
     "title": "পাকিস্তানে ভারতীয় ১ টাকার 'দাম' কত হয়ে যাবে জানেন...? 'উত্তর' চমকে দেবে, শিওর!",
     "desc": "আচ্ছা বলুন তো, আপনি কি কখনও ভেবে দেখেছেন যে পাকিস্তানে গেলে ভারতের ১ টাকার মূল্য কত হয়ে যেতে পারে? অথবা ১০০ ভারতীয় টাকার দাম কত হতে পারে পাকিস্তানের বাজারে? আসুন আজ এই পোস্টে সে সম্পর্কে বিস্তারিত জেনে নেওয়া যাক।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/west-bengal/west-bengal-sir-domicile-certificates-will-be-accepted-at-sir-the-commission-has-announced-that-there-will-be-no-further-objections-to-certificates-issued-by-dms-adms-and-sdos-sanj-2530396.html",
     "time": "2026-02-07T13:35:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "পৌরাণিক কাহিনির উপর ভিত্তি করে তৈরি এই থ্রিলার ছবি বার বার দেখার আগ্রহ জাগাবে ! আছে ইউটিউবে",
-    "desc": "২০১৫ সালের জুলাই মাসে সুজয় ঘোষ ‘অহল্যা’ নামে একটি স্বল্পদৈর্ঘ্য চলচ্চিত্র ইউটিউবে রিলিজ করেন। রামায়ণের কিংবদন্তির উপর ভিত্তি করে তৈরি এটি ইউটিউবে ২ কোটি ২০ লক্ষেরও বেশি বার দেখা হয়েছে। এটি ছিল অহল্যার পৌরাণিক কাহিনীর একটি আধুনিক রূপান্তর, যেখানে নারীবাদী দৃষ্টিভঙ্গি অন্তর্ভুক্ত রয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Ahalya-Kahani-2026-02-9fa60dc96dd07cee451711827d42b7a9-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/radhika-apte-epic-thriller-ahalya-short-movie-2015-directed-by-sujoy-ghosh-tale-of-morality-mythological-retold-in-modern-fashion-viewers-got-stunned-most-suspense-thriller-film-ss-aa-2528287.html",
-    "time": "2026-02-07T10:53:13.000Z"
   }
 ];
