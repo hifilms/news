@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Dewald Brevis' form not a concern, consultant Albie Morkel labels youngster as X-factor player",
+    "desc": "Dewald Brevis arrived at the T20 World Cup carrying high expectations. With prior experience of playing in the Indian subcontinent and an impressive showing in the previous edition of the Indian Premier League (IPL), the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dewald-brevis-form-not-a-concern-south-africa-coach-labels-youngster-as-x-factor-player-2026-02-17-1030630",
+    "time": "2026-02-17T09:00:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gavaskar, Kapil among 14 captains to write letter to Pakistan government to treat Imran Khan fairly in jail",
+    "desc": "A group of former international cricket captains and legends in their own right, including India's Sunil Gavaskar and Kapil Dev, has appealed to the Pakistan government in a letter to treat their World Cup-winning captain...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gavaskar-kapil-among-14-captains-to-write-letter-to-pakistan-government-to-treat-imran-khan-fairly-in-jail-2026-02-17-1030619",
+    "time": "2026-02-17T08:07:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Yuvraj Samra? All you need to know about Canada opener who scored century vs New Zealand in T20 WC 2026",
+    "desc": "Canada's Yuvraj Samra hogged the limelight today, smashing a stunning century vs New Zealand in the 31st match of the T20 World Cup. With this superlative batting show, the trend of associate nations performing well...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/who-is-yuvraj-samra-all-you-need-to-know-about-canada-opener-who-scored-century-vs-new-zealand-in-t20-wc-2026-2026-02-17-1030610",
+    "time": "2026-02-17T07:07:34.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pakistan's Imad Wasim accused of 'cheating' by first wife after cricketer announces second marriage",
     "desc": "Pakistan cricketer Imad Wasim is in troubled waters after his first wife accused him of cheating, days after the cricketer announced his second marriage to Nayla Raja. Notably, in his post, confirming divorce from his...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sl-vs-aus-memes-galore-as-australia-brink-on-group-stage-elimination-in-t20-world-cup-2026-02-16-1030569",
     "time": "2026-02-16T17:52:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How can Australia still qualify for T20 World Cup 2026 Super Eight stage after loss to Sri Lanka?",
-    "desc": "Australia were handed a drubbing by Sri Lanka in a crucial T20 World Cup 2026 encounter at the Pallekele International Cricket Stadium, Pallekele, as the Lankan Lions chased down a record 182 on Monday, February...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-can-australia-still-qualify-for-t20-world-cup-2026-super-eight-stage-after-loss-to-sri-lanka-2026-02-16-1030564",
-    "time": "2026-02-16T17:28:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When was the last time Australia were knocked out of group stage of T20 and ODI World Cups?",
-    "desc": "Australia’s T20 World Cup 2026 campaign is hanging by a thread after a crushing defeat to Sri Lanka. Following the eight-wicket defeat, the team is left staring at a group-stage exit. Sri Lanka, in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/when-was-the-last-time-australia-were-knocked-out-of-group-stage-of-icc-event-2026-02-16-1030562",
-    "time": "2026-02-16T17:05:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nissanka ton help Sri Lanka chase record total to qualify for Super Eight, Australia on brink of elimination",
-    "desc": "Patham Nissanka produced a jaw-dropping knock as he helped Sri Lanka gun down a record total against Australia in their T20 World Cup 2026 group stage clash at the Pallekele International Cricket Stadium, Pallekele. Nissanka slammed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nissanka-ton-help-sri-lanka-chase-record-total-to-qualify-for-super-eight-australia-on-brink-of-elimination-2026-02-16-1030560",
-    "time": "2026-02-16T16:53:28.000Z"
   }
 ];

@@ -1,5 +1,50 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "ধেয়ে আসছে মরণঠান্ডা মেরুঘূর্ণি! ভয়াল পোলার রাক্ষসের ভয়ংকর আক্রমণে ফেব্রুয়ারিতেই অচল বিশ্ব...",
+    "desc": "মেরু ঘূর্ণি পৃথিবীর উভয় মেরুকে ঘিরে থাকে নিম্নচাপ এবং ঠান্ডা বাতাসের এক বৃহৎ অঞ্চল। অঞ্চলটি গ্রীষ্মে দুর্বল হয়ে পড়ে, শীতকালে শক্তিশালী হয়। 'ঘূর্ণি' শব্দটি ঘড়ির কাঁটার বিপরীত দিকে বাতাসের প্রবাহকে বোঝায়। এই চলন মেরুর কাছাকাছি ঠান্ডা বাতাসকে ধরে রাখতে সাহায্য করে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/polar-vortex-rare-early-season-polar-vortex-shift-is-developing-experts-say-its-strength-is-nearly-unprecedented-for-february_641650.html ",
+    "time": "2026-02-17T09:27:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "আচমকাই অসুস্থ! ICU-এ ভর্তি সেলিম খান, সব ফেলে তড়িঘড়ি হাসপাতালে ছুটলেন সলমান...",
+    "desc": "হাসপাতালে ভর্তি বর্ষীয়ান চিত্রনাট্যকার সেলিম খান, আইসিইউ-তে সলমানের বাবা। বাবাকে দেখতে হাসপাতালে হাজির হন সলমান। তবে তাঁর শারীরিক অবস্থা বর্তমানে স্থিতিশীল কি না, সেই বিষয়ে হাসপাতালের পক্ষ থেকে এখনও বিস্তারিত কোনো বুলেটিন প্রকাশ করা হয়নি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/salim-khan-admitted-to-icu-salman-khan-visits-lilavati-hospital_641646.html ",
+    "time": "2026-02-17T09:15:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman-Salim Khan:  ICU-তে ভর্তি সেলিম খান! তড়িঘড়ি হাসপাতালে ছুটলেন সলমন, আচমকা কী হল? উদ্বিগ্ন ভক্তরা",
+    "desc": "হাসপাতালে ভর্তি বলিউডের বিখ্যাত চিত্রনাট্যকার সেলিম খান৷ মুম্বইয়ের লীলাবতী হাসপাতালে তড়িঘড়ি ভর্তি করা হয়েছে সেলিম খানকে। সূত্রের খবর, ৯০ বছর বয়সী প্রবীণ শিল্পীকে সোমবার সকালে বান্দ্রার লীলাবতী হাসপাতালে নিয়ে আসা হয়। বাবার শারীরিক অসুস্থতার খবর পেয়েই হাসপাতালে ছুটে গেছেন বলিউড সুপারস্টার সলমন খান৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Riya-Das-1200900-2026-02-17T135219.795-2026-02-cda36b82ddadd6211fec345abeeae9bf-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/salman-khan-rushes-to-lilavati-hospital-after-father-salim-khan-is-admitted-fans-wish-speedy-recovery-rds-2544503.html",
+    "time": "2026-02-17T08:52:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "লক্ষ্মীর ভাণ্ডার, যুবসাথী প্রকল্পে বড় আপডেট...! শুরু বাড়ির সামনেই ক্যাম্প! জেনে নিন কোথায়, কখন, কীভাবে করবেন আবেদন?",
+    "desc": "সরকারি ঘোষণা অনুযায়ী, এই ক্যাম্পগুলি প্রতিদিন সকাল ১০টা থেকে বিকেল ৫টা পর্যন্ত খোলা থাকবে। তবে একটি বিষয় লক্ষণীয় যে, ১৫ ফেব্রুয়ারি সরকারি ছুটির দিন হওয়ায় ব্যবহারিক ক্ষেত্রে ১৬ই ফেব্রুয়ারি থেকে পুরোদমে ফর্ম জমা নেওয়ার কাজ শুরু। সরকারি ছুটির দিন বাদে বাকি দিনগুলিতে এই পরিষেবা সচল থাকবে। কী কী নথি লাগবে? আপনার এলাকা অনুযায়ী কোথায় গেলে চট করে করে ফেলা যায় সব সহজে? এই বিষয়ে সব জেনে নিতে দেখে নিন এই বিস্তারিত প্রতিবেদনটি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/sanj-mamata-2026-02-2f8b3c8e41ded347c18bcdd7c61520b0-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/west-bengal/lakshmir-bhandar-scheme-2026-big-update-on-lakshmi-bhandar-yubasathi-project-camp-is-starting-in-front-of-your-house-find-out-where-when-how-to-apply-sanj-2544330.html",
+    "time": "2026-02-17T07:57:05.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "‘নেপাল, ভুটান, এবং...’: বাংলাদেশের অর্থনীতি বোঝাতে জুড়লেন ‘সেভেন সিস্টার্স’-কে !",
+    "desc": "আন্তর্জাতিক বাণিজ্যের ক্ষেত্রে বাংলাদেশের গুরুত্ব বোঝাতে গিয়ে উত্তরপূর্ব ভারতের সেভেন সিস্টার্সের কথা টেনে আনেন ইউনূস। বিদায়ী ভাষণে তিনি বলেন, ‘‘আমাদের সমুদ্র কেবল ভৌগোলিক সীমারেখা নয়— এটি বাংলাদেশের জন্য বিশ্ব অর্থনীতির সঙ্গে যুক্ত হওয়ার খোলা দরজা। নেপাল, ভুটান এবং সেভেন সিস্টার্স্‌কে নিয়ে এই অঞ্চলে অর্থনৈতিক সমৃদ্ধির বিশাল সম্ভাবনা রয়েছে।’’",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Muhammad-Yunus-Speech-on-Seven-Sisters-2026-02-8eda9a21c224d5f1dfdcc7a04b62f63e-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/international/muhammad-yunus-bangladesh-seven-sisters-nepal-bhutan-omitting-india-new-govt-formation-ss-aa-2544277.html",
+    "time": "2026-02-17T07:05:14.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "বিশ্বকাপের গ্রুপ পর্ব থেকেই কি বিদায় নেবে অস্ট্রেলিয়া ! জিম্বাবোয়ের জয় থেকে ভারত কীভাবে লাভবান হবে?",
     "desc": "জিম্বাবোয়ে আর আয়ারল্যান্ডের লড়াই মঙ্গলবার, ১৭ ফেব্রুয়ারি পাল্লেকেলেতে হবে। এই ম্যাচে যদি জিম্বাবোয়ে টিম আয়ারল্যান্ডকে হারিয়ে দেয়, তাহলে অস্ট্রেলিয়ার টুর্নামেন্ট থেকে ছিটকে যাবে। এর সঙ্গে সঙ্গে টিম ইন্ডিয়ার জন্য টুর্নামেন্টে অস্ট্রেলিয়া নামের কাঁটা-ও সরে যাবে।",
@@ -853,50 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/supreme-court-extends-voter-list-publication-by-1-week-says-wont-create-impediments-to-completion-of-sir-sta-ws-l-2532293.html",
     "time": "2026-02-09T12:49:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "পাকিস্তান নয়, বিশ্বকাপে ভারতের সব থেকে বড় 'শত্রু' এবার কে জানেন? তার জন্যই কাপ হাতছাড়া হতে পারে টিম ইন্ডিয়ার!",
-    "desc": "অনেকে অবশ্য মনে করছেন, এবার বিশ্বকাপে ভারতের সব থেকে বড় শত্রু পাকিস্তান নয়। এমনকী কোনও দলই নয়। ভারতের আসল সমস্যার কারণ অন্য একটি বিষয়। আর সেটিই ভারতের কাপ জয়ের জন্য সব থেকে বড় বাধা হতে পারে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/India-2026-02-984d2fcf5763f450d9dc8fc9a41c4606-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/not-pakistan-this-issue-becomes-biggest-threat-india-in-t20-world-cup-smj-2532523.html",
-    "time": "2026-02-09T12:38:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "শহরে খুকু আসছেন! রেডিওর নস্টালজিয়া ও এক গুচ্ছ বাংলা গান নিয়ে মঞ্চে শ্রাবন্তী মজুমদার...",
-    "desc": "আগামী ১৫ ফেব্রুয়ারি কলকাতার কলা মন্দিরে অনুষ্ঠিত হতে চলেছে কিংবদন্তি শিল্পী শ্রাবন্তী মজুমদারের একক অনুষ্ঠান \"আয় খুকু আয়\"। জনপ্রিয় এই গানের ৫০ বছর পূর্তি উপলক্ষে আয়োজিত এই সন্ধ্যায় তাঁর সঙ্গে আলাপচারিতায় থাকবেন শিল্পী শ্রীকান্ত আচার্য।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/khuku-returns-to-the-city-sravanti-mazumdar-brings-radio-nostalgia-and-a-bouquet-of-bengali-songs-on-stage_640290.html ",
-    "time": "2026-02-09T08:49:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ম্যাচ বয়কটের সিদ্ধান্ত থেকে ‘ইউ-টার্ন’ ! বিশ্বকাপে ভারতের বিরুদ্ধে খেলা নিয়ে সুর নরম করছে পাকিস্তান?",
-    "desc": "পাকিস্তানের প্রধানমন্ত্রী শেহবাজ শরিফের সঙ্গে কথা বলবেন নকভি। জানা গিয়েছে, পাক বোর্ডের কিছু কর্তা টি-টোয়েন্টি বিশ্বকাপে ভারত-পাক ম্যাচ খেলার পক্ষে। তবে এই ম্যাচ খেলার আগে আইসিসিকে তিনটি শর্ত দিয়েছে পাকিস্তান ক্রিকেট বোর্ড। ২৪ ঘণ্টার মধ্যে নিজেদের সিদ্ধান্ত জানাতে পারে পাক বোর্ড।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/BCB-meets-with-PCB-Chairman-2026-02-6cb6327769c30d054bdb0168a6368d1d-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/india-vs-pakistan-t20-world-cup-2026-pcb-bcb-icc-meeting-lahore-mohsin-naqvi-pakistan-sets-these-strange-demands-to-play-against-india-ss-2531438.html",
-    "time": "2026-02-09T05:30:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "আজ সুপ্রিম কোর্টে SIR মামলার শুনানি! ফের শীর্ষ আদালতে সওয়াল করবেন মমতা...? তাকিয়ে বাংলা!",
-    "desc": "সোমবার দুপুর ২টো নাগাদ প্রধান বিচারপতি সূর্য কান্তের এজলাসে এই মামলার শুনানি হবে। গত বুধবার শুনানিতে উপস্থিত ছিলেন মুখ্যমন্ত্রী। তিনি সওয়ালও করেন। মমতার মামলার প্রেক্ষিতে কমিশনকে নোটিস জারি করে আদালত। আজ এই মামলার শুনানিতে কী হয়, সে দিকে নজর থাকবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Mamata-SC-1-2026-02-4ad36f24cf183e5f2a1d034b12c1fa39-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/supreme-court-sir-case-the-hearing-of-the-west-bengal-sir-case-is-in-focus-today-will-cm-mamata-banerjee-appeal-again-on-monday-in-the-supreme-court-sanj-2531353.html",
-    "time": "2026-02-09T04:05:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "টি-২০ বিশ্বকাপে হতে পারে সবচেয়ে বড় অঘটন! গ্রুপ স্টেজ থেকেই কি বিদায় নেবে এত লড়াকু দল? সম্ভাবনা প্রবল",
-    "desc": "টি-টোয়েন্টি বিশ্বকাপ ২০২৬-এর চতুর্থ ম্যাচে আফগানিস্তানের মুখোমুখি হয় নিউজিল্যান্ড। চেন্নাইয়ের এম এ চিদাম্বরম স্টেডিয়ামে অনুষ্ঠিত এই ম্যাচে রশিদ খানের দলের পাল্লা ভারী ছিল, কারণ আগের টি-টোয়েন্টি বিশ্বকাপে দুই দল মুখোমুখি হলে আফগানিস্তান নিউজিল্যান্ডকে ৮৪ রানে বিধ্বস্ত করেছিল।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/T20-2026-02-b9f461705e3f27fa88bc4db79377f9e9-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/afghanistan-who-played-semi-final-in-2024-will-be-eliminated-from-group-stage-in-t20-wc-smj-2530991.html",
-    "time": "2026-02-08T11:11:04.000Z"
   }
 ];
