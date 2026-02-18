@@ -1,6 +1,132 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Kashmir division has more voters than Jammu, new data shows",
+    "desc": "Kashmir division now boasts more registered voters than Jammu, with the Union Territory tallying over 8.7 million. Srinagar district leads in third-gender voters. This surge in the Valley's electorate is linked to increased youth and first-time voter participation following past boycotts, according to MLA Waheed Parra. The Election Commission employs annual revisions to update rolls.",
+    "img": "https://static.toiimg.com/photo/msid-128520697,imgsize-181262.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kashmir-division-has-more-voters-than-jammu-new-data-shows/articleshow/128520699.cms",
+    "time": "2026-02-18T18:32:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tourism in J&amp;K on revival path, says govt; assembly data shows slump in 2025 numbers after Pahalgam attack",
+    "desc": "Jammu and Kashmir's tourism sector is showing signs of recovery following a significant downturn after the April 2025 Pahalgam terror attack. Government initiatives, including promotional efforts, have boosted tourist footfalls during the winter season. Despite a dip in 2025 compared to 2024, efforts are underway to further revive the industry, which contributes substantially to the state's economy.",
+    "img": "https://static.toiimg.com/photo/msid-128520885,imgsize-588026.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tourism-in-jk-on-revival-path-says-govt-assembly-data-shows-slump-in-2025-numbers-after-pahalgam-attack/articleshow/128520913.cms",
+    "time": "2026-02-18T18:32:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&amp;K juvenile home breakout: Five detained, hunt on for third escapee",
+    "desc": "Authorities are intensifying their search for local gangster Karanjit Singh, also known as Gugga, who escaped a Jammu juvenile home with two Pakistani inmates. The Pakistani nationals were apprehended in Ambala and handed over to Jammu and Kashmir Police. Gugga, believed to be the escape's architect, remains at large, with his mother also missing.",
+    "img": "https://static.toiimg.com/photo/msid-128520988,imgsize-150518.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-juvenile-home-breakout-five-detained-hunt-on-for-third-escapee/articleshow/128521056.cms",
+    "time": "2026-02-18T18:31:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Wesley Koolhof Interview",
+    "desc": "Dutchman Wesley Koolhof believes singles and doubles can coexist and dispels the notion that doubles players are bad tennis players; the former World No. 1 and 2023 Wimbledon champion also feels that ‘fast and spectacular’ doubles can be the perfect complement to ‘chess-like’ singles",
+    "img": "https://th-i.thgim.com/public/sport/q09gat/article70649146.ece/alternates/LANDSCAPE_1200/KOOLHOF%202.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/wesleykoolhof-interview-doubles-tennis-is-a-great-different-discipline/article70649145.ece",
+    "time": "2026-02-18T18:29:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala to regularise over 20,000 teacher posts",
+    "desc": "Govt. extends to all aided school managements the relaxation granted to NSS for making permanent appointments to posts other than those reserved for the differently abled, subject to SC verdict. Over 20,000 provisional teachers are expected to benefit",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/state-to-regularise-over-20000-teacher-posts/article70648498.ece",
+    "time": "2026-02-18T18:16:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bill passed allowing voter registration in PR institutions four times a year",
+    "desc": "The amendment allows voter registration on four qualifying dates each year — January 1, April 1, July 1, and October 1, and aligns Panchayat Raj institutions with the existing system followed for Assembly and Parliament elections",
+    "img": "https://th-i.thgim.com/public/incoming/9osj4v/article70648921.ece/alternates/LANDSCAPE_1200/Nandi-theatre-fGKDFIE7MK.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/bill-passed-allowing-voter-registration-in-pr-institutions-four-times-a-year/article70648191.ece",
+    "time": "2026-02-18T18:15:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "T20 World Cup",
+    "desc": "Wednesday’s fixture at the Narendra Modi Stadium offers the Men in Blue an ideal opportunity to prepare for the Super Eight match against Markram & Co. on Sunday; the host may bring in speedster Arshdeep for spinner Kuldeep",
+    "img": "https://th-i.thgim.com/public/incoming/x51uoo/article70649132.ece/alternates/LANDSCAPE_1200/PTI02_17_2026_000584A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-india-will-have-an-eye-on-the-protean-challenge-ahead-of-the-dutch-joust/article70643365.ece",
+    "time": "2026-02-18T18:08:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Hopefully, our performances can help grow cricket in Netherlands,’ says Scott Edwards",
+    "desc": "The Netherlands will be aiming to bow out of the tournament with their heads held high, hoping to create some upset against India or at least give them a massive scare ahead of the all-important Super Eight stage",
+    "img": "https://th-i.thgim.com/public/incoming/dur428/article70645091.ece/alternates/LANDSCAPE_1200/34_ICC_T20_WORLD_CUP_10_02_DELHI.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-wprld-cup-hopefully-our-performances-can-help-grow-cricket-in-netherlands-says-scott-edwards/article70645090.ece",
+    "time": "2026-02-18T17:26:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India sweep group stage 4-0 — Tougher tests await in Super 8",
+    "desc": "India secured four wins in the T20 World Cup group stage but batting has been inconsistent. Different players have rescued the team in each match. The opening has been the biggest concern as the World No.1 T20I batter Abhishek Sharma is yet to score a run in the tournament.",
+    "img": "https://static.toiimg.com/photo/msid-128517499,imgsize-46952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/unbeaten-but-unconvincing-india-sweep-group-stage-4-0-tougher-tests-await-in-super-8/articleshow/128517341.cms",
+    "time": "2026-02-18T17:13:57.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Bengaluru firm unveils two AI language models",
+    "desc": "Launch of the much-anticipated models at the summit is seen as a milestone for AI development in India; these are not yet available to the public; Sarvam AI says ‘Vikram’ beats other comparable models from around the world on various counts",
+    "img": "https://th-i.thgim.com/public/incoming/ynor5i/article70649003.ece/alternates/LANDSCAPE_1200/PTI02_16_2026_000536B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/bengaluru-firm-unveils-two-ai-language-models/article70648438.ece",
+    "time": "2026-02-18T17:01:54.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. energy chief says IEA must 'drop' focus on climate change",
+    "desc": "Chris Wright threatened last year to pull the United States out of the IEA — which was founded to coordinate responses to major disruptions of supplies after the 1973 oil crisis — unless it reformed the way it operates.",
+    "img": "https://th-i.thgim.com/public/incoming/ln35nf/article70648989.ece/alternates/LANDSCAPE_1200/2026-02-11T004204Z_724606649_RC2WQHAIDJ30_RTRMADP_3_VENEZUELA-USA-OIL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/us-energy-chief-says-iea-must-drop-focus-on-climate-change/article70648983.ece",
+    "time": "2026-02-18T17:01:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "To counter foreign terrorists, CRPF sets up temporary bases upto 6,000 feet mark in J&K",
+    "desc": "This is part of a new strategy to flush out terrorists who have moved from the Valley floor to the upper reaches; bases house CRPF teams launching search and assault operations, heading as high as 8,900 feet",
+    "img": "https://th-i.thgim.com/public/incoming/omvt9l/article70648939.ece/alternates/LANDSCAPE_1200/PTI01_27_2026_000138B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/crpf-temporary-operating-bases-jammu-and-kashmir-pahalgam-attack/article70648234.ece",
+    "time": "2026-02-18T16:36:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Doctors clarify Salim Khan was not in critical condition",
+    "desc": "Veteran screenwriter Salim Khan, 90, was admitted to Lilavati Hospital on Tuesday morning after suffering a haemorrhage. Hospital officials confirmed that he was brought in around 8.30 am by his family physician, Dr Sandeep Chopra, following a sudden deterioration in his health.",
+    "img": "https://static.toiimg.com/photo/msid-128516125,imgsize-18534.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salim-khan-health-update-doctors-clarify-that-legendary-sholay-and-deewar-writer-was-not-in-critical-condition-as-reported/articleshow/128515986.cms",
+    "time": "2026-02-18T16:19:20.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "FedEx to invest ₹2,500 crore in setting up automated cargo hub at Navi Mumbai airport",
+    "desc": "The facility to be developed in collaboration with Adani Airport Holdings Ltd (AAHL) will be designed as a regional consolidation and redistribution hub and support trade flows across Southeast and West Asia, Europe and the United States, embedding global network connectivity directly within India's primary trade corridor",
+    "img": "https://th-i.thgim.com/public/incoming/b283tc/article70648871.ece/alternates/LANDSCAPE_1200/PTI02_18_2026_000376A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/fedex-to-invest-2500-crore-in-setting-up-automated-cargo-hub-at-navi-mumbai-airport/article70648847.ece",
+    "time": "2026-02-18T16:16:37.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "KSPL plans ₹200 crore expansion of Offshore Supply Vessel Complex",
     "desc": "The Rs.200 crore expansion aims at additional handling of four MTPA of cargo, support the accommodation of Indian Navy and Coast Guard vessels and strengthening offshore logistics capability for oil and natural gas exploration in the Krishna-Godavari basin.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -9,13 +135,31 @@ const newsData_en = [
     "time": "2026-02-18T15:47:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kerala to regularise over 20,000 teacher posts",
-    "desc": "Kerala government has extended to all aided school managements the relaxation earlier granted to Nair Service Society for making permanent appointments to general category posts, subject to Supreme Court verdict. Over 20,000 provisional teachers are expected to benefit",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "cat": "World",
+    "title": "Iran, Russia to conduct joint drills in the Sea of Oman",
+    "desc": "The joint naval exercise of the Islamic Republic of Iran and Russia will take place tomorrow (Thursday) in the Sea of Oman and in the northern Indian Ocean, says drill spokesman, Rear Admiral Hassan Maghsoudloo.",
+    "img": "https://th-i.thgim.com/public/incoming/jljzl4/article70648734.ece/alternates/LANDSCAPE_1200/2026-01-16T101627Z_1935160413_RC252JA617T9_RTRMADP_3_SAFRICA-BRICS-NAVY.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/state-to-regularise-over-20000-teacher-posts/article70648498.ece",
-    "time": "2026-02-18T15:43:01.000Z"
+    "url": "https://www.thehindu.com/news/international/iran-russia-to-conduct-joint-drills-in-the-sea-of-oman/article70648724.ece",
+    "time": "2026-02-18T15:47:01.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Share of Russian crude in India's oil imports falls to lowest since November 2022; Middle East supplies rise",
+    "desc": "India has significantly reduced its reliance on Russian crude oil, with January imports hitting their lowest point since late 2022. This shift sees Middle Eastern suppliers, particularly Saudi Arabia, regaining prominence as India diversifies its energy sources. The move aligns with international pressures and India's commitment to strategic autonomy.",
+    "img": "https://static.toiimg.com/photo/msid-128514787,imgsize-35658.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/share-of-russian-crude-in-indias-oil-imports-falls-to-lowest-since-november-2022-middle-east-supplies-rise/articleshow/128513929.cms",
+    "time": "2026-02-18T15:39:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Funds will be unlocked for infra': BCCI president on J&amp;K cricket after historic Ranji run",
+    "desc": "BCCI president Mithun Manhas stated that Jammu and Kashmir's cricket infrastructure will see rapid growth once the state association receives government approval. He highlighted the progress made in developing pitches, talent hunts, and coaching qualifications during his tenure as head of the ad-hoc committee, emphasizing a focus on grooming local talent.",
+    "img": "https://static.toiimg.com/photo/msid-128514642,imgsize-1385214.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/funds-will-be-unlocked-for-infra-bcci-president-mithun-manhas-on-jk-cricket-after-historic-ranji-run/articleshow/128514434.cms",
+    "time": "2026-02-18T15:38:23.000Z"
   },
   {
     "cat": "Politics",
@@ -73,15 +217,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "GST rationalisation likely to impact Karnataka’s Budget size",
-    "desc": "With GST rate rationalisation pinching revenue collection, Karnataka government is not only expecting a widening of fiscal deficit, but also the overall goal of having a nominal revenue surplus budget slip away by a couple of years",
-    "img": "https://th-i.thgim.com/public/incoming/db15xt/article70648040.ece/alternates/LANDSCAPE_1200/20260211274L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/gst-rationalisation-likely-to-impact-karnatakas-budget-size/article70642593.ece",
-    "time": "2026-02-18T14:13:14.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'Western nations spread fundamentalism': RSS chief Mohan Bhagwat hits out at US, China",
     "desc": "RSS chief Mohan Bhagwat has criticised the United States and China. He stated that Western countries spread fundamentalism. Bhagwat asserted India possesses solutions to global problems. He called for accelerating 'Ghar Wapsi'. Bhagwat also urged Hindus to have at least three children. He emphasized strengthening India in all areas to become a world leader.",
     "img": "https://static.toiimg.com/photo/msid-128512829,imgsize-30116.cms",
@@ -115,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/my-parents-dont-touch-me-who-are-you-lakshmi-manchu-references-taapsee-pannus-thappad-and-slams-the-normalization-of-abuse-in-marriages/articleshow/128511326.cms",
     "time": "2026-02-18T14:05:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Two popular hill destinations in Kerala tell contrasting tales of tourism",
-    "desc": "While Idukki records arrival of 46.79 lakh domestic tourists in 2025, Wayanad attracts only 14.73 lakh tourists in the same year. Landslides in Wayanad in 2024 seems to have severely affected the tourism prospects of the destination",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/two-popular-hill-destinations-in-kerala-tell-contrasting-tales-of-tourism/article70646847.ece",
-    "time": "2026-02-18T14:05:16.000Z"
   },
   {
     "cat": "Sports",
@@ -234,15 +360,6 @@ const newsData_en = [
     "time": "2026-02-18T13:00:47.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "Galgotias University ousted for showing off imported robotic dog at expo",
-    "desc": "The private university said in a statement that it has not built robodog, or claimed to have built it, adding that they have consistently brought in cutting-edge technologies from the U.S. to China into campus",
-    "img": "https://th-i.thgim.com/public/news/national/noyq7/article70647034.ece/alternates/LANDSCAPE_1200/Galgotias.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/galgotias-university-asked-to-vacate-ai-summit-expo-immediately-sources/article70646250.ece",
-    "time": "2026-02-18T12:57:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "UEFA to probe claims of 'discriminatory behaviour' towards Real Madrid’s Vinicius",
     "desc": "Tuesday's (February 17, 2026) first leg of the knockout phase play-off tie was stopped for more than 10 minutes after Vinicius complained to French referee Francois Letexier about the alleged abuse following a confrontation between him and Prestianni.",
@@ -259,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sahibzada-farhan-once-challenged-babar-azam-made-documentary-on-hitting-sixes-off-bumrah-now-a-world-cup-centurion/articleshow/128508203.cms",
     "time": "2026-02-18T12:45:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "All you need to know about BAFTA 2026",
-    "desc": "The 79th BAFTA Film Awards on February 22, 2026 will be hosted by Alan Cumming at London's Royal Festival Hall. 'One Battle After Another' leads nominations with 14 nods. The star-studded event will feature performances by KPop Demon Hunters and Jessie Ware, with live streaming on BBC iPlayer.",
-    "img": "https://static.toiimg.com/photo/msid-128499634,imgsize-1077159.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bafta-2026-from-nominees-to-presenters-streaming-time-all-you-need-to-know-about-the-79th-british-academy-film-awards/articleshow/128499634.cms",
-    "time": "2026-02-18T12:30:00.000Z"
   },
   {
     "cat": "Politics",
@@ -423,15 +531,6 @@ const newsData_en = [
     "time": "2026-02-18T09:55:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Key Bishnoi gang member Bobby Kabutar linked to Sidhu Moosewala killing arrested in Delhi",
-    "desc": "Delhi police apprehended Bobby Kabutar, a key Lawrence Bishnoi gang member, linked to a double murder last year. Evading arrest for seven years, Bobby allegedly provided ground-level intelligence for high-profile killings, including Sidhu Moosewala's. His lawyer denies gang ties, stating the accused are cooperating with a four-day police custody, claiming a mastermind was involved with someone else firing the shots.",
-    "img": "https://static.toiimg.com/photo/msid-128501144,imgsize-1394045.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/key-bishnoi-gang-member-bobby-kabutar-linked-to-sidhu-moosewala-killing-arrested-in-delhi/articleshow/128500602.cms",
-    "time": "2026-02-18T09:36:54.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sweeney, Braun sing ‘Sweet Caroline’ date night",
     "desc": "During a lively karaoke evening in Ventura, California, Sydney Sweeney and Scooter Braun delighted fans with their undeniable chemistry. Igniting the stage with 'Sweet Caroline,' the duo's energy was infectious, while Sweeney later dazzled the crowd with a classic ABBA track. Amidst Sweeney's recent reflections on personal autonomy and emerging admirers, their playful public outings remain a topic of buzz.",
@@ -448,24 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pacers-exploit-conditions-as-south-africa-storm-into-t20-world-cup-super-8s-unbeaten/articleshow/128500926.cms",
     "time": "2026-02-18T09:27:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shimit Amin to helm Kartik Aaryan’s ‘Captain India’",
-    "desc": "Kartik Aaryan reunites with Bhushan Kumar’s T-Series for 'Captain India', written and produced by Harman Baweja and directed by Shimit Amin, marking his return after 17 years. The film begins shooting in mid-2026 in India and Morocco. Kartik also has upcoming projects with Anurag Basu, Kabir Khan, and Mrighdeep Singh Lamba.",
-    "img": "https://static.toiimg.com/photo/msid-128500976,imgsize-20040.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/chak-de-india-director-shimit-amin-to-helm-kartik-aaryans-captain-india-reports/articleshow/128500976.cms",
-    "time": "2026-02-18T09:26:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Cracks in INDIA bloc? Sena (UBT) backs Mamata or Stalin to lead oppn; cites ‘inner voices’",
-    "desc": "Shiv Sena (UBT) urges the INDIA bloc to strategize collectively before state elections, highlighting internal confusion within Congress. The party's mouthpiece points to conflicting suggestions for leadership, including Mamata Banerjee and Stalin, questioning the alliance's post-election direction and stressing the need for unified action.",
-    "img": "https://static.toiimg.com/photo/msid-128499616,imgsize-1051190.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cracks-in-india-bloc-sena-ubt-backs-mamata-or-stalin-to-lead-oppn-cites-inner-voices/articleshow/128499082.cms",
-    "time": "2026-02-18T08:42:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -520,24 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-iran-partially-shuts-strait-of-hormuz-state-media-broadcasts-military-drills/article70646510.ece",
     "time": "2026-02-18T07:36:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why is Galgotias University under fire? Explained",
-    "desc": "Galgotias University was asked to leave the AI Summit Expo after showcasing a Chinese-made robotic dog as an in-house innovation. The university clarified it did not build the robot but used it to inspire students, sparking a debate on domestic AI development versus global technology adoption.",
-    "img": "https://static.toiimg.com/photo/msid-128497906,imgsize-869983.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/chinese-robodog-row-at-ai-impact-summit-why-is-galgotias-university-under-fire-explained/articleshow/128497408.cms",
-    "time": "2026-02-18T07:30:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "OpenAI ties up with top Indian universities to push campus-wide AI adoption",
-    "desc": "OpenAI is partnering with six top Indian universities and three edtech platforms to deploy ChatGPT Edu campus-wide, aiming to equip over one lakh students and faculty with AI skills. This initiative focuses on integrating AI into teaching, research, and operations, preparing graduates for an AI-driven economy.",
-    "img": "https://static.toiimg.com/photo/msid-128496774,imgsize-984491.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/openai-ties-up-with-top-indian-universities-to-push-campus-wide-ai-adoption/articleshow/128496358.cms",
-    "time": "2026-02-18T07:11:09.000Z"
   },
   {
     "cat": "Business",
@@ -720,24 +783,6 @@ const newsData_en = [
     "time": "2026-02-18T00:15:59.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Gold import volume dips 18%, silver surges 56%",
-    "desc": "Gold imports saw a volume dip of 18.3% despite a 25% price rise, leading to cautious buyer behavior. Conversely, silver imports surged 56% in volume, more than doubling in value to $7.8 billion, driven by industrial demand alongside its price increase.",
-    "img": "https://static.toiimg.com/photo/msid-128486069,imgsize-77788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-import-volume-dips-18-silver-surges-56/articleshow/128486072.cms",
-    "time": "2026-02-18T00:10:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "24-hour trades, hedging tools: RBI to rejig forex market rules",
-    "desc": "The RBI is proposing a significant overhaul to liberalize access to currency markets, offering increased opportunities for hedging foreign exchange risk and extending trading hours. The draft framework broadens derivative offerings and allows transactions across various global platforms, aiming to integrate Indian participants more firmly into international liquidity pools.",
-    "img": "https://static.toiimg.com/photo/msid-128486009,imgsize-39610.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/24-hour-trades-hedging-tools-rbi-to-rejig-forex-market-rules/articleshow/128486021.cms",
-    "time": "2026-02-18T00:06:48.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Shahid's 'O' Romeo' crosses Rs 62 crore globally on Day 5",
     "desc": "Shahid Kapoor's film 'O' Romeo' had a lukewarm start, raking in Rs 8.5 crore on its opening day. Despite reaching over Rs 30 crore within its first weekend, the film faced a noticeable drop in attendance on Monday. By the close of Day 5, it had garnered Rs 5.1 crore more, totaling Rs 40 crore domestically and Rs 62 crore.",
@@ -747,15 +792,6 @@ const newsData_en = [
     "time": "2026-02-18T00:04:33.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'My journey started ...': Hardik Pandya reflects on turning point of his career",
-    "desc": "Hardik Pandya reflects on the pivotal 2016 T20 World Cup final over against Bangladesh, crediting it as the career-defining moment that shaped him. He now aims to unlock his full batting potential, admitting he's only used 40% of it, with his girlfriend Mahieka helping him rediscover his passion for the game through intense training sessions.",
-    "img": "https://static.toiimg.com/photo/msid-128464258,imgsize-118342.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/my-journey-started-with-that-one-hardik-pandya-reflects-on-turning-point-of-his-career/articleshow/128464281.cms",
-    "time": "2026-02-17T23:30:00.000Z"
-  },
-  {
     "cat": "World",
     "title": "What is Trump’s Project Vault?",
     "desc": "The Trump administration’s initiative aims to create a reserve of critical minerals to protect its domestic industries from any disruption, as witnessed when China restricted export of rare earth magnets to retaliate against U.S. tariffs, causing a near shutdown of car manufacturing operations in the U.S. and the world over",
@@ -763,15 +799,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/what-is-trumps-project-vault/article70643464.ece",
     "time": "2026-02-17T23:18:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Hopefully, our performances can help grow cricket in Netherlands,’ says Scott Edwards",
-    "desc": "The Netherlands will be aiming to bow out of the tournament with their heads held high, hoping to create some upset against India or at least give them a massive scare ahead of the all-important Super Eight stage",
-    "img": "https://th-i.thgim.com/public/incoming/dur428/article70645091.ece/alternates/LANDSCAPE_1200/34_ICC_T20_WORLD_CUP_10_02_DELHI.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/t20-wprld-cup-hopefully-our-performances-can-help-grow-cricket-in-netherlands-says-scott-edwards/article70645090.ece",
-    "time": "2026-02-17T22:54:22.000Z"
   },
   {
     "cat": "Sports",
@@ -799,15 +826,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/moscow-kyiv-meet-for-us-brokered-talks-after-fresh-attacks/article70643783.ece",
     "time": "2026-02-17T15:06:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 World Cup",
-    "desc": "CRICKET | The African side’s washed out game against Ireland sees it join Sri Lanka in the next stage and deals a cruel blow to Australia which fails to make it out of the group stage for the first time since 2009",
-    "img": "https://th-i.thgim.com/public/incoming/ce8fsy/article70643150.ece/alternates/LANDSCAPE_1200/AFP_97TW8XA.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-rain-favours-zimbabwe-as-it-enters-the-super-eight/article70643121.ece",
-    "time": "2026-02-17T12:35:19.000Z"
   },
   {
     "cat": "World",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-foreign-minister-abbas-araghchi-in-geneva-for-talks-as-irgc-begins-live-fire-drills-near-strait-of-hormuz/article70640297.ece",
     "time": "2026-02-16T16:35:00.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran meets U.N. nuclear watchdog in Geneva ahead of a second round of U.S. talks",
-    "desc": "U.S. President Donald Trump initially threatened to take military action over Iran’s bloody crackdown on nationwide protests last month but then shifted to a pressure campaign in recent weeks to try to get Tehran to make a deal over its nuclear program",
-    "img": "https://th-i.thgim.com/public/incoming/bk2lab/article70638851.ece/alternates/LANDSCAPE_1200/EU_Iran_Talks_23508.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-meets-un-nuclear-watchdog-in-geneva-ahead-of-a-second-round-of-us-talks/article70638488.ece",
-    "time": "2026-02-16T12:33:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Deputy CM Udhayanidhi presents Tamil Nadu State Film Awards for 2016-2022, says awards chosen by committee",
-    "desc": "Deputy CM counters criticism over awards; says the awards were not announced for many years together and were now being given on recommendation of a panel headed by ex-judge; A.R. Rahman, Karthi, Dhanush among artistes honoured",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/gy7r8z/article70629870.ece/alternates/LANDSCAPE_1200/Cine%20awards.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/deputy-cm-udhayanidhi-presents-tamil-nadu-state-film-awards-for-2016-2022-says-awards-chosen-by-committee/article70629589.ece",
-    "time": "2026-02-16T09:49:59.000Z"
   }
 ];

@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India's schedule for T20 World Cup 2026 Super Eight stage: When will defending champions be in action next?",
+    "desc": "India defeated the Netherlands in their last league stage match of the T20 World Cup 2026 to enter the Super Eight stage unbeaten. The defending champions handed the Dutch a 17-run defeat in their clash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/indias-schedule-for-t20-world-cup-2026-super-eight-stage-when-will-defending-champions-be-in-action-next-2026-02-18-1030840",
+    "time": "2026-02-18T18:21:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India maintain clean sheet in T20 World Cup 2026 group stage after win over Netherlands in Ahmedabad",
+    "desc": "India will head into the T20 World Cup 2026 Super Eight unbeaten after maintaining a clean sheet in the group stage of the tournament. The defending champions, eyeing history, defeated the Netherlands in their last...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-maintain-clean-sheet-in-group-stage-after-strong-win-over-dutch-in-t20-world-cup-2026-2026-02-18-1030834",
+    "time": "2026-02-18T17:07:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Check full schedule and fixtures as all teams confirm qualification",
+    "desc": "Pakistan became the last team to book their spot in the Super Eight stage of the T20 World Cup 2026 after their win over Namibia on Wednesday confirmed their place in Group 2 of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-2026-super-eight-stage-check-full-schedule-and-fixtures-as-all-teams-confirm-qualification-2026-02-18-1030833",
+    "time": "2026-02-18T16:57:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Abhishek Sharma achieves major unwanted records as opener completes hat trick of ducks in T20 World Cup 2026",
     "desc": "Abhishek Sharma was off to the worst possible start in the T20 World Cup 2026 as the star batter was dismissed for yet another duck in the clash against the Netherlands at the Narendra Modi...",
     "img": "",
@@ -28,8 +55,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "India look to defend 193 in Ahmedabad to remain undefeated",
-    "desc": "India have made a strong 193/6 in their 20 overs of the clash against the Netherlands at the Narendra Modi Stadium. Shivam Dube scored a strong 66 from 31 balls, while Hardik Pandya also made...",
+    "title": "India beat Netherlands by 17 runs, stay unbeaten",
+    "desc": "India brushed aside a spirited challenge from the Netherlands in their last group stage outing of the T20 World Cup 2026 at the Narendra Modi Stadium. Shivam Dube scored a strong 66 from 31 balls,...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-ned-t20-world-cup-2026-live-cricket-score-india-vs-netherlands-narendra-modi-stadium-ahmedabad-ball-by-ball-commentary-latest-match-updates-2026-02-18-1030799",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-shaheen-afridi-not-playing-in-pak-vs-nam-t20-world-cup-2026-game-report-points-pakistans-bold-move-2026-02-18-1030779",
     "time": "2026-02-18T11:02:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan beat Namibia by 102 runs to qualify for Super 8",
-    "desc": "With their tournament hopes hanging by a thread, former champions Pakistan must overcome their brittle batting and recover from the setback against India when they meet Namibia in their final league match on Wednesday, aiming...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pak-vs-nam-t20-world-cup-2026-live-cricket-score-pakistan-vs-namibia-sinhalese-sports-club-colombo-latest-match-updates-scorecard-teams-playing-xi-2026-02-18-1030773",
-    "time": "2026-02-18T10:14:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ishan Kishan storms into top 10 in latest ICC rankings after match-winning knock vs Pakistan in T20 WC",
-    "desc": "India opener Ishan Kishan has stormed into the top 10 in the latest ICC rankings after a match-winning knock of 77 runs off 40 deliveries in the ongoing T20 World Cup. He has jumped to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-storms-into-top-10-in-latest-icc-rankings-after-match-winning-knock-vs-pakistan-in-t20-world-cup-2026-2026-02-18-1030765",
-    "time": "2026-02-18T08:42:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ishan Kishan's mother reacts to cricketer's marriage with Aditi Hundia, 'old people are always...'",
-    "desc": "India cricketer Ishan Kishan is in the headlines not only for her heroics on the field but off it too. Ahead of the game against Pakistan, Kishan's grandfather opened up on the cricketer's marriage while...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-s-mother-reacts-to-cricketer-s-marriage-with-aditi-hundia-old-people-are-always-2026-02-18-1030753",
-    "time": "2026-02-18T07:38:33.000Z"
   }
 ];
