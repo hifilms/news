@@ -1,6 +1,123 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Granthi levels graft charges against SGPC leadership",
+    "desc": "Former Akal Takht jathedar Giani Raghbir Singh accused the Badal family of patronizing corruption within the Shiromani Gurdwara Parbandhak Committee (SGPC). He alleged land is being sold by unscrupulous elements and urged a Sarbat Khalsa to free the SGPC. Singh also claimed he refused to issue a false statement under pressure.",
+    "img": "https://static.toiimg.com/photo/msid-128526408,imgsize-124722.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/granthi-levels-graft-charges-against-sgpc-leadership/articleshow/128526413.cms",
+    "time": "2026-02-18T21:25:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lalu aide seeks transfer of case to SC; court issues notice to ED",
+    "desc": "The Supreme Court has issued a notice to the Enforcement Directorate regarding a plea by Amit Katyal, an alleged associate of Lalu Prasad Yadav. Katyal, accused of cheating investors in a housing project and previously arrested in the railways jobs-for-land scam, seeks to transfer his case to the apex court.",
+    "img": "https://static.toiimg.com/photo/msid-128526132,imgsize-46200.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/lalu-aide-seeks-transfer-of-case-to-sc-court-issues-notice-to-ed/articleshow/128526120.cms",
+    "time": "2026-02-18T21:11:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Can't give a precise date for my return to India, Vijay Mallya tells Bombay HC",
+    "desc": "Vijay Mallya's solicitors informed the Bombay High Court that he cannot precisely state when he will return to India, citing court orders in England preventing him from leaving or possessing travel documents. The court directed Mallya to file a fresh affidavit detailing these orders, as the Centre argued he has been absconding since 2016.",
+    "img": "https://static.toiimg.com/photo/msid-128525955,imgsize-329604.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cant-give-a-precise-date-for-my-return-to-india-vijay-mallya-tells-bombay-hc/articleshow/128525966.cms",
+    "time": "2026-02-18T21:02:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "5 die after 'tilak' function in Bihar village",
+    "desc": "At least five deaths have been reported among wedding attendees in Bihar's Rohtas district following a 'tilak' ceremony on February 14. A probe has been launched by excise and district officials after speculation arose linking the fatalities to alleged liquor consumption. Four relatives died within three days of the event.",
+    "img": "https://static.toiimg.com/photo/msid-128525794,imgsize-30534.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/5-die-after-tilak-function-in-bihar-village/articleshow/128525757.cms",
+    "time": "2026-02-18T20:54:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rohit Pawar and Supriya Sule step up pressure on Centre for 'transparent' probe into Ajit plane crash",
+    "desc": "NCP (SP) MLA Rohit Pawar demanded the civil aviation minister's resignation pending the Baramati air crash probe, alleging the charter company VSR Ventures is being protected. Supriya Sule also called for a transparent inquiry, highlighting concerns about potential political motives behind the accident.",
+    "img": "https://static.toiimg.com/photo/msid-128525426,imgsize-176666.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rohit-pawar-and-supriya-sule-step-up-pressure-on-centre-for-transparent-probe-into-ajit-crash/articleshow/128525304.cms",
+    "time": "2026-02-18T20:36:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kamal admits SRK’s publicity for Hey Ram misled audiences",
+    "desc": "Shah Rukh Khan’s association with Hey Ram continues to be remembered as one of his most unusual collaborations. In a recent interview, Kamal Haasan revisited the film’s journey and spoke at length about Shah Rukh’s contribution.",
+    "img": "https://static.toiimg.com/photo/msid-128525392,imgsize-36878.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kamal-haasan-admits-shah-rukh-khans-publicity-for-hey-ram-misled-audiences-i-was-in-financial-soup/articleshow/128525264.cms",
+    "time": "2026-02-18T20:35:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NDA Rajya Sabha tally set to cross 130 as 37 seats go to polls in March",
+    "desc": "The ruling NDA is poised to expand its Rajya Sabha presence following biennial polls for 37 seats on March 16. With governments in six of the ten states going to polls, the BJP-led alliance anticipates a significant tally increase. Prominent retiring members' futures hinge on party alliances and internal coordination.",
+    "img": "https://static.toiimg.com/photo/msid-128525248,imgsize-18308.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nda-rajya-sabha-tally-set-to-cross-130-as-37-seats-go-to-polls-in-march/articleshow/128525129.cms",
+    "time": "2026-02-18T20:28:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "RJD MP Sudhakar urges Bihar CM to end all ties with Gates Foundation following its name surfaces in Epstein files",
+    "desc": "In a letter sent on February 17 and available in public domain on February 18, Mr. Singh said that the name of Bill Gates, owner of Microsoft and chairman of the Bill Gates & Melinda Gates Foundation, has appeared in the Epstein Files.",
+    "img": "https://th-i.thgim.com/public/news/national/qmar9k/article70649220.ece/alternates/LANDSCAPE_1200/475122702_1169055674606243_1770301642384335669_n.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/rjd-mp-sudhakar-urges-bihar-cm-to-end-all-ties-with-gates-foundation-following-its-name-surfaces-in-epstein-files/article70647872.ece",
+    "time": "2026-02-18T20:18:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India guided by ethos of ‘Vasudhaiv Kutumbakam’: President Murmu at International Fleet Review",
+    "desc": "President Murmu lauded the International Fleet Review 2026, emphasizing friendship and collective security among 74 participating nations. The grand maritime spectacle showcased India's naval prowess and commitment to global stability. Over 85 ships, including 19 foreign warships, and numerous aircraft demonstrated multi-domain capabilities, reinforcing India's role as a first responder and partner in maritime cooperation.",
+    "img": "https://static.toiimg.com/photo/msid-128523982,imgsize-57440.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-guided-by-ethos-of-vasudhaiv-kutumbakam-president-murmu-at-international-fleet-review/articleshow/128523985.cms",
+    "time": "2026-02-18T19:32:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Space regulator IN-SPACe announces Rs 6 crore seed fund for startups developing AI applications",
+    "desc": "India's space sector is embracing Artificial Intelligence with a new Rs 6 crore seed fund from IN-SPACe for startups developing AI applications. Aimed at fostering innovation, the initiative will grant Rs 1 crore each to five selected entities. This move highlights AI's growing integration in space missions, from data analysis to autonomous systems.",
+    "img": "https://static.toiimg.com/photo/msid-128523809,imgsize-124195.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/space-regulator-in-space-announces-rs-6-crore-seed-fund-for-startups-developing-ai-applications/articleshow/128523814.cms",
+    "time": "2026-02-18T19:26:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Navy cadets to get ‘floating classrooms’ for sea training",
+    "desc": "India's naval cadets now have dedicated 'floating classrooms' at sea with the launch of INS Krishna, the first of three indigenous training ships. These vessels offer hands-on experience in navigation and seamanship, serving as the Navy's core sea training infrastructure for three decades. They will also support international defense cooperation and humanitarian missions.",
+    "img": "https://static.toiimg.com/photo/msid-128523417,imgsize-91890.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ins-krishna-launched-navy-cadets-to-get-floating-classrooms-for-sea-training/articleshow/128523314.cms",
+    "time": "2026-02-18T19:15:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Justice remains 'inaccessible' for 'Persons with Disabilities', says NCPEDP study",
+    "desc": "A new report reveals significant hurdles for persons with disabilities in accessing India's justice system. Inaccessible police stations, a lack of trained personnel like sign language interpreters, and inadequate legal aid are major concerns. Many PwDs remain unaware of their rights, facing infrastructural and attitudinal barriers when seeking help from law enforcement.",
+    "img": "https://static.toiimg.com/photo/msid-128523243,imgsize-272030.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/justice-remains-inaccessible-for-persons-with-disabilities-says-ncpedp-study/articleshow/128523190.cms",
+    "time": "2026-02-18T19:10:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay’s Hyderabad home lights up amid wedding with Rashmika",
+    "desc": "Speculation around the relationship status of Vijay Deverakonda and Rashmika Mandanna has once again taken centre stage on social media. A video showing Vijay’s Jubilee Hills residence in Hyderabad lit up with decorative lights has gone viral, prompting fresh chatter about an impending wedding on February 24.",
+    "img": "https://static.toiimg.com/photo/msid-128522178,imgsize-65844.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakondas-hyderabad-home-lights-up-amid-february-26-wedding-with-rashmika-mandanna/articleshow/128522027.cms",
+    "time": "2026-02-18T18:43:50.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Kashmir division has more voters than Jammu, new data shows",
     "desc": "Kashmir division now boasts more registered voters than Jammu, with the Union Territory tallying over 8.7 million. Srinagar district leads in third-gender voters. This surge in the Valley's electorate is linked to increased youth and first-time voter participation following past boycotts, according to MLA Waheed Parra. The Election Commission employs annual revisions to update rolls.",
     "img": "https://static.toiimg.com/photo/msid-128520697,imgsize-181262.cms",
@@ -97,15 +214,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/energy-and-environment/us-energy-chief-says-iea-must-drop-focus-on-climate-change/article70648983.ece",
     "time": "2026-02-18T17:01:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "To counter foreign terrorists, CRPF sets up temporary bases upto 6,000 feet mark in J&K",
-    "desc": "This is part of a new strategy to flush out terrorists who have moved from the Valley floor to the upper reaches; bases house CRPF teams launching search and assault operations, heading as high as 8,900 feet",
-    "img": "https://th-i.thgim.com/public/incoming/omvt9l/article70648939.ece/alternates/LANDSCAPE_1200/PTI01_27_2026_000138B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/crpf-temporary-operating-bases-jammu-and-kashmir-pahalgam-attack/article70648234.ece",
-    "time": "2026-02-18T16:36:27.000Z"
   },
   {
     "cat": "Entertainment",
@@ -315,15 +423,6 @@ const newsData_en = [
     "time": "2026-02-18T13:40:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "First propaganda, then damage control: How Galgotias University walked back its claim over robodog row",
-    "desc": "Galgotias University apologized for misrepresenting a commercially available robotic dog as an in-house innovation at the AI Impact Summit 2026. The university blamed a professor for providing incorrect information, a stark contrast to its initial claims of a \"propaganda campaign.\" The incident drew criticism from opposition leaders, who called the summit a \"disorganized PR spectacle.\"",
-    "img": "https://static.toiimg.com/photo/msid-128510050,imgsize-790701.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/first-propaganda-then-damage-control-how-galgotias-university-walked-back-its-claim-over-robodog-row/articleshow/128509858.cms",
-    "time": "2026-02-18T13:30:40.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Rajkummar's Sourav Ganguly biopic to begin filming in March",
     "desc": "Rajkummar Rao will star as Sourav Ganguly in Vikramaditya Motwane and Luv Ranjan’s upcoming biopic, set to begin filming in March 2026. The movie will be shot at iconic venues like Lord’s and Eden Gardens. Rajkummar, who recently wrapped Nikam, is preparing with intensive cricket training for the role.",
@@ -378,15 +477,6 @@ const newsData_en = [
     "time": "2026-02-18T12:45:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "After BMC setback, Raj Thackeray meets Eknath Shinde amid MNS unease",
-    "desc": "Maharashtra Navnirman Sena chief Raj Thackeray met Deputy Chief Minister Eknath Shinde in Mumbai, marking their first interaction since the BMC elections. The meeting, which covered various issues, follows MNS's support for Shinde's Shiv Sena in Kalyan-Dombivli and Shinde's praise for Thackeray's broader perspective in decision-making.",
-    "img": "https://static.toiimg.com/photo/msid-128507724,imgsize-1368701.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/after-bmc-setback-raj-thackeray-meets-eknath-shinde-amid-mns-unease/articleshow/128507708.cms",
-    "time": "2026-02-18T12:25:13.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Where to watch Taapsee Pannu’s courtroom drama",
     "desc": "Taapsee Pannu reunites with Anubhav Sinha for 'Assi', a courtroom drama releasing on February 20. Co-starring Kani Kusruti, the film explores courage and justice. It will reportedly stream on ZEE5 from April 17. Taapsee next appears in Woh Ladki Hai Kahaan? with Pratik Gandhi, awaiting its release date.",
@@ -394,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/assi-ott-release-when-and-where-to-watch-taapsee-pannus-courtroom-drama-online-after-its-theatrical-release/articleshow/128507653.cms",
     "time": "2026-02-18T12:22:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Galgotias University under fire over Chinese robodog at AI Summit; Gogoi calls CM Himanta 'Assam's Jinnah' &amp; more",
-    "desc": "Galgotias University was asked to vacate its stall at the AI Impact Summit after its showcased robot dog was identified as a commercially available Chinese model, sparking controversy. Meanwhile, Congress leader Gaurav Gogoi called Assam CM Himanta Biswa Sarma 'Assam's Jinnah' and downplayed a former state chief's exit.",
-    "img": "https://static.toiimg.com/photo/msid-128506824,imgsize-508609.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-galgotias-university-under-fire-over-chinese-robodog-at-ai-summit-gogoi-calls-cm-himanta-assams-jinnah-more/articleshow/128506613.cms",
-    "time": "2026-02-18T12:15:51.000Z"
   },
   {
     "cat": "Entertainment",
@@ -441,15 +522,6 @@ const newsData_en = [
     "time": "2026-02-18T11:39:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "More embarrassment for Galgotias University? After robodog, 'in-house' soccer drone from Korea called out",
-    "desc": "Galgotias University is under renewed scrutiny at the India AI Impact Summit. Following controversy over a robotic dog, the institution now faces questions about a drone soccer arena. Faculty claimed it as an in-house innovation, but social media users point to similar commercially available products from South Korea. The university was asked to vacate its stall at the summit.",
-    "img": "https://static.toiimg.com/photo/msid-128506279,imgsize-559915.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/more-embarrassment-for-galgotias-university-after-robodog-in-house-soccer-drone-from-korea-called-out/articleshow/128502877.cms",
-    "time": "2026-02-18T11:31:01.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Fans show fatigue as rivalry loses spark",
     "desc": "The India-Pakistan T20 World Cup clash in Colombo generated noise across social media, but inside the stands the energy told a different story — shaped by politics, fading star power and India’s run of routine wins",
@@ -457,15 +529,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/india-pakistan-cricket-rivalrly-t20-world-cup-r-premadasa-stadium-colombo-fans-babar-azam-virat-kohli/article70644274.ece",
     "time": "2026-02-18T11:12:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aniston laughs off Obama rumors",
-    "desc": "Jennifer Aniston is making headlines for all the right reasons by firmly shutting down rampant rumors tying her to Barack Obama. Describing the gossip as 'completely unfounded,' Aniston addressed the speculation that bubbled up in 2022 during a tense moment for the Obamas.",
-    "img": "https://static.toiimg.com/photo/msid-128504092,imgsize-54438.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/i-know-michelle-more-than-him-throwback-to-jennifer-aniston-laughing-off-bizarre-barack-obama-dating-rumors/articleshow/128504092.cms",
-    "time": "2026-02-18T10:57:51.000Z"
   },
   {
     "cat": "Business",
@@ -486,15 +549,6 @@ const newsData_en = [
     "time": "2026-02-18T10:39:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Boy vs girl' budget: Rajasthan BJP MLA's sexist remark sparks row; he asks 'what is wrong?'",
-    "desc": "A Rajasthan BJP MLA sparked controversy by comparing the state budget to gendered outcomes, calling the BJP's budget a \"youth budget\" that \"gave birth to a boy\" and the previous Congress budget an \"old-age budget\" that resulted in the \"birth of a girl.\" Congress members strongly criticized the remarks as discriminatory and inappropriate, demanding clarification from the ruling party.",
-    "img": "https://static.toiimg.com/photo/msid-128502837,imgsize-710646.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/boy-vs-girl-budget-rajasthan-bjp-mlas-remark-sparks-row-asks-what-is-wrong/articleshow/128502842.cms",
-    "time": "2026-02-18T10:21:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Abhishek Sharma remains No. 1 T20I batter",
     "desc": "Abhishek Sharma holds the top spot in ICC T20I batter rankings despite recent form. Ishan Kishan has entered the top 10 after strong performances. Pathum Nissanka and Ryan Rickelton also saw significant ranking jumps. Saim Ayub is back at number one in the all-rounder rankings. Rashid Khan is closing in on the top bowling spot.",
@@ -513,15 +567,6 @@ const newsData_en = [
     "time": "2026-02-18T10:03:39.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "7 hired for Hindu Sainik Mission to spread fear",
-    "desc": "Rohit Shetty’s Mumbai home was attacked on February 1. Police say the shooting was planned by the Shubham Lonkar gang, who recruited seven youths through social media with promises of money and fame. Two modules, from Pune and North India, handled logistics and execution. Several accused are now under arrest.",
-    "img": "https://static.toiimg.com/photo/msid-128501998,imgsize-29298.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rohit-shetty-house-firing-incident-7-recruited-with-promises-of-quick-money-for-hindu-sainik-mission-to-spread-fear-say-police-reports/articleshow/128501998.cms",
-    "time": "2026-02-18T09:58:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Inside Chennai’s Pickleball boom: From midnight games to thriving WhatsApp communities",
     "desc": "As new pickleball courts open across Injambakkam, T Nagar and Gandhi Nagar, the sport is doing more than just filling evening slots — it is creating WhatsApp communities, business networks and unlikely friendships across the city",
@@ -529,15 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/life-and-style/picklers-unite/article70609768.ece",
     "time": "2026-02-18T09:55:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sweeney, Braun sing ‘Sweet Caroline’ date night",
-    "desc": "During a lively karaoke evening in Ventura, California, Sydney Sweeney and Scooter Braun delighted fans with their undeniable chemistry. Igniting the stage with 'Sweet Caroline,' the duo's energy was infectious, while Sweeney later dazzled the crowd with a classic ABBA track. Amidst Sweeney's recent reflections on personal autonomy and emerging admirers, their playful public outings remain a topic of buzz.",
-    "img": "https://static.toiimg.com/photo/msid-128500930,imgsize-39596.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sydney-sweeney-scooter-braun-sing-neil-diamonds-sweet-caroline-during-fun-date-night-reports/articleshow/128500930.cms",
-    "time": "2026-02-18T09:28:14.000Z"
   },
   {
     "cat": "Sports",
@@ -748,15 +784,6 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "US, Japan seal ‘massive’ trade deal; Tokyo to invest $550 billion in America; key details of the pact",
-    "desc": "President Trump announced a \"MASSIVE Trade Deal with Japan,\" unveiling $36 billion in Japanese investment for US projects. These initiatives, focusing on energy, power generation, and advanced manufacturing, are the first under Japan's $550 billion commitment. The deal includes slashing US tariffs on Japanese imports to 15%.",
-    "img": "https://static.toiimg.com/photo/msid-128489369,imgsize-1167561.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-japan-seal-massive-trade-deal-tokyo-to-invest-550-billion-in-america-key-details-of-the-pact/articleshow/128488072.cms",
-    "time": "2026-02-18T02:49:52.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "Stock recommendations for February 18, 2026",
     "desc": "Mehul Kothari, DVP - Technical Research, Anand Rathi Shares and Stock Brokers recommends buying Bharti Airtel, Finolex Industries, and Coal India as the top stock picks for February 18, 2026. The expert shares a detailed outlook on each stock along with target prices:",
     "img": "https://static.toiimg.com/photo/msid-128472046,imgsize-92166.cms",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/india-vs-pakistan-a-rivalry-only-in-reams-of-newsprint/article70640459.ece",
     "time": "2026-02-16T20:54:57.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Nepal launches campaigns for first post-uprising polls",
-    "desc": "The ousted former Prime Minister's bid to return to power — 73-year-old Marxist leader K.P. Sharma Oli - is being challenged on his home turf by a rapper-turned-mayor casting himself as a symbol of youth-driven political change, 35-year-old Balendra Shah",
-    "img": "https://th-i.thgim.com/public/news/national/2uaodh/article70640476.ece/alternates/LANDSCAPE_1200/AFP__20260216__97PZ4H4__v1__HighRes__NepalPoliticsElection.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/nepal-launches-campaigns-for-first-post-uprising-polls/article70640454.ece",
-    "time": "2026-02-16T18:10:00.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Ukraine’s former Energy Minister named suspect in laundering probe",
-    "desc": "The announcement comes one day after Mr. Galushchenko was detained by law enforcement attempting to leave Ukraine, and is the latest development in a corruption scandal in the energy sector that rocked the government last year",
-    "img": "https://th-i.thgim.com/public/incoming/f0hrx0/article70640440.ece/alternates/LANDSCAPE_1200/2026-02-16T140039Z_1119906767_RC2LNBAWZ59X_RTRMADP_3_UKRAINE-CRISIS-CORRUPTION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/ukraines-former-energy-minister-named-suspect-in-laundering-probe/article70640436.ece",
-    "time": "2026-02-16T17:45:17.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran Foreign Minister Abbas Araghchi in Geneva for talks as IRGC begins live-fire drills near Strait of Hormuz",
-    "desc": "While the U.S. and Iran are expected to hold talks, mediated by Oman, in the Swiss city on February 17, 2026, the naval forces of the Islamic Revolutionary Guard Corps (IRGC) have started military drills near the Strait of Hormuz",
-    "img": "https://th-i.thgim.com/public/incoming/ke1fy1/article70640300.ece/alternates/LANDSCAPE_1200/EU_Iran_Talks_23508.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-foreign-minister-abbas-araghchi-in-geneva-for-talks-as-irgc-begins-live-fire-drills-near-strait-of-hormuz/article70640297.ece",
-    "time": "2026-02-16T16:35:00.000Z"
   }
 ];
