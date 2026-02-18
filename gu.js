@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "ડેટા સેન્ટર શું છે? કેમ અદાણી-અંબાણી લગાવી રહ્યાં છે અબજો રૂપિયા, જાણી લો કઈ રીતે કમાશે",
+    "desc": "આર્ટિફિશિયલ ઈન્ટલિજિન્સની ચર્ચા વચ્ચે હવે એ જાણવું પણ જરૂરી છે કે આ ડેટા સેન્ટર વળી શું બલા છે. કેમ પીએમ મોદીએ એઆઈ સમીટ યોજીને વિશ્વભરના ટેક નિષ્ણાતોને દિલ્હીમાં ભેગા કર્યા છે. ડેટા સેન્ટર કેટલા પ્રકારના હોય છે અને દેશની ઈકોનોમીમાં ડેટા સેન્ટરની શું ભૂમિકા હોય છે. તમારા આ દરેક સવાલનો અહીં જવાબ મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/what-are-data-centers-and-why-are-businessmen-like-gautam-adani-and-mukesh-ambani-investing-billions-of-rupees-in-them-465457 ",
+    "time": "2026-02-18T15:04:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સાવધાન! 8મા પગાર પંચના નામે છેતરપિંડી! જાણો સ્કેમર્સ કેવી રીતે સરકારી કર્મચારીઓને બનાવી રહ્યા છે ટાર્ગેટ",
+    "desc": "દેશમાં સરકારી કર્મચારીઓને હવે એક નવા સાયબર ફ્રોડનો નિશાન બનાવવામાં આવી રહ્યા છે. તેમાં 8મા પગાર પંચના આધારે પગાર વધારવાની ઓફર આપી રહ્યા છે. સ્કેમર્સ APK ફાઇલોની લિંક્સ સાથે WhatsApp મેસેજ મોકલે છે. આ ફાઇલો ઇન્સ્ટોલ કરવાથી તેમને કર્મચારીઓના ફોન અને બેન્ક ખાતાઓની એક્સેસ મળે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/8th-pay-commission-fraud-alert-know-how-scammers-are-targeting-government-employees-465439 ",
+    "time": "2026-02-18T13:31:10.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "કોણ છે ગલગોટિયા યુનિવર્સિટીના માલિક, જાણો કેવી રીતે બુક સ્ટોરથી બનાવ્યું 3000 કરોડનું એમ્પાયર",
     "desc": "ગલગોટિયાસ યુનિવર્સિટીના ફાઉન્ડર સુનિલ ગલગોટિયાએ એક ફેમેલી બુક બિઝનેસને એક પ્રખ્યાત એજ્યુકેશન ગ્રુપથી કરોડોનું સામ્રાજ્ય બનાવ્યું છે. દિલ્હી યુનિવર્સિટીમાં અભ્યાસ કર્યા પછી તેમણે ગલગોટિયાસ પબ્લિકેશન્સ શરૂ કર્યુ, ત્યારબાદ GIMT અને પછી ગ્રેટર નોઇડામાં ગલગોટિયાસ યુનિવર્સિટી શરૂ કરી છે.",
@@ -385,33 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/who-is-ias-officer-avi-prasad-whose-third-marriage-is-in-the-news-madhya-pradesh-465096 ",
     "time": "2026-02-16T06:26:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "પાકિસ્તાનની હારનો સૌથી મોટો ગુનેગાર કોણ ? જાણો કેપ્ટને કોના પર ફોડ્યું હારનું ઠીકરું",
-    "desc": "ભારત સામેની મેચમાં પાકિસ્તાનનું પ્રદર્શન ખૂબ જ ખરાબ રહ્યું. બેટિંગ, બોલિંગ અને ફિલ્ડીંગ એકેય વિભાગમાં પાકિસ્તાન લયમાં જોવા મળ્યું નહીં અને કારમી હારનો સામનો કરવો પડ્યો. મેચ બાદ કેપ્ટન સલમાન અલી આગાનું દર્દ છલકાયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-pakistan-captain-salman-ali-agha-reaction-after-losing-to-india-465086 ",
-    "time": "2026-02-16T05:24:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "આજે પણ બજાર ખુલતા જ સોનું-ચાંદી ધડામ, સોનું ઓલટાઈમ હાઈથી 26000 અને ચાંદી 1.83 લાખ સસ્તા, લેટેસ્ટ રેટ ચેક કરો",
-    "desc": "ભારે ઉતાર ચડાવ વચ્ચે આજે નવા અઠવાડિયાના પહેલા દિવસે ભારતીય વાયદા બજાર (MCX) પર સોના અને ચાંદીના ભાવમાં ખુલતા જ કડાકો જોવા મળ્યો છે. જાણો લેટેસ્ટ રેટ કેટલો અને આગળ શું પરિસ્થિતિ રહી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/mcx-latest-gold-and-silver-rates-retain-bazar-rate-aaj-no-sona-chandi-no-bhav-business-news-in-gujarati-465084 ",
-    "time": "2026-02-16T05:04:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આવનારા સમયમાં પાકિસ્તાન સાથેના યુદ્ધ પર PM મોદીનું પહેલું નિવેદન, જાણો શું કહ્યું",
-    "desc": "વડા પ્રધાન નરેન્દ્ર મોદીએ જણાવ્યું હતું કે રક્ષા બજેટમાં વધારો કોઈ એક ઓપરેશન સાથે જોડાયેલો નથી, પરંતુ તે સરકારની લાંબા ગાળાની સુરક્ષા વ્યૂહરચનાનો એક ભાગ છે. તેમણે ઓપરેશન સિંદૂરને સશસ્ત્ર દળોની બહાદુરીનું પ્રતીક અને OROPના અમલીકરણને એક મોટી સિદ્ધિ ગણાવી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pm-modi-statement-on-pakistan-war-defense-budget-increase-operation-sindoor-military-modernization-india-465057 ",
-    "time": "2026-02-15T18:09:23.000Z"
   },
   {
     "cat": "Tech",

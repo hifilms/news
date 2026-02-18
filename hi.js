@@ -1,8 +1,26 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Pakistan manage to qualify for Super 8 of T20 World Cup 2026, defeat Namibia by 102 runs",
-    "desc": "The Pakistan cricket team has managed to reach the Super 8 of the T20 World Cup 2026 as they defeated Namibia by 102 runs in a must-win game on Wednesday. The match was played at...",
+    "title": "Abhishek Sharma achieves major unwanted records as opener completes hat trick of ducks in T20 World Cup 2026",
+    "desc": "Abhishek Sharma was off to the worst possible start in the T20 World Cup 2026 as the star batter was dismissed for yet another duck in the clash against the Netherlands at the Narendra Modi...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-achieves-major-unwanted-records-as-opener-completes-hat-trick-of-ducks-in-t20-world-cup-2026-2026-02-18-1030822",
+    "time": "2026-02-18T15:13:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Axar Patel not playing in IND vs NED T20 World Cup 2026 clash? Suryakumar Yadav reveals",
+    "desc": "India face the Netherlands in their last league stage match of the T20 World Cup 2026 at the Narendra Modi Stadium in Ahmedabad as they look to end the group stage on a high. Having...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-axar-patel-not-playing-in-ind-vs-ned-t20-world-cup-2026-clash-suryakumar-yadav-reveals-2026-02-18-1030810",
+    "time": "2026-02-18T13:24:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan manage to qualify for Super 8 of T20 World Cup 2026, defeat Namibia by 102 runs in must-win game",
+    "desc": "The Pakistan cricket team has managed to reach the Super 8 of the T20 World Cup 2026 as they defeated Namibia by 102 runs in a must-win game on Wednesday. This is also Pakistan's biggest...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pakistan-manage-to-reach-super-8-of-t20-world-cup-2026-defeat-namibia-by-102-runs-at-sinhalese-sports-club-in-colombo-2026-02-18-1030804",
@@ -10,8 +28,8 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "India look to make light work of Dutch in Ahmedabad",
-    "desc": "India are up against the Netherlands in their last league stage match of the T20 World Cup 2026 as they look to head into the Super Eight stage on a high note. The Men in...",
+    "title": "India look to defend 193 in Ahmedabad to remain undefeated",
+    "desc": "India have made a strong 193/6 in their 20 overs of the clash against the Netherlands at the Narendra Modi Stadium. Shivam Dube scored a strong 66 from 31 balls, while Hardik Pandya also made...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-ned-t20-world-cup-2026-live-cricket-score-india-vs-netherlands-narendra-modi-stadium-ahmedabad-ball-by-ball-commentary-latest-match-updates-2026-02-18-1030799",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-s-mother-reacts-to-cricketer-s-marriage-with-aditi-hundia-old-people-are-always-2026-02-18-1030753",
     "time": "2026-02-18T07:38:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Talking about PSL': Shadab Khan trolled for 'We will play the final' comment ahead of Namibia clash",
-    "desc": "Pakistan all-rounder Shadab Khan has come under the scanner on social media for his 'We will play the final' comment that has gone viral now. It is unclear if his statement came before the match...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/talking-about-psl-shadab-khan-trolled-for-we-will-play-the-final-comment-ahead-of-namibia-clash-2026-02-18-1030750",
-    "time": "2026-02-18T06:58:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jammu and Kashmir creates history, qualify for maiden Ranji Trophy final beating Bengal",
-    "desc": "The Jammu and Kashmir cricket team has created history, qualifying for the Ranji Trophy final for the first time. They defeated a star-studded Bengal side in the semifinal as they chased down the target of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jammu-and-kashmir-create-history-qualify-for-maiden-ranji-trophy-final-beating-bengal-2026-02-18-1030735",
-    "time": "2026-02-18T05:36:00.000Z"
   }
 ];
