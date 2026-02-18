@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "রোহিতের পরামর্শই মোক্ষম ! সূর্যকুমার দেখিয়ে দিলেন উসমান তারিকের ‘পজ’ বোলিংকে খেলার উপায়, পাক ক্রিকেটাররাও অবাক",
+    "desc": "যখন ইনিংসের ১১তম ওভারে উসমান তারিক বল করতে আসেন সেই সময় যদি পাকিস্তান ২-৩-টে দ্রুত উইকেট পেয়ে যেত, তখন ম্যাচটাই উল্টে যেতে পারতো। আসলে পাকিস্তানও এমনটাই আশা করছিল যে উসমানকে খেলা ভারতীয় টিম-এর জন্য সহজ কাজ হবে না, কিন্তু সূর্যকুমারই সবকিছু বদলে দিয়েছেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Usman-Tariq-and-Suryakumar-Yadav-Ind-vs-Pak-Match-2026-02-f95028a158f5673482405fb59973db9e-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/suryakumar-vs-usman-stillness-wins-the-mind-game-suryakumar-yadavs-masterclass-against-usman-tariq-was-big-highlight-in-india-pakistan-t20-world-cup-game-ss-2545706.html",
+    "time": "2026-02-18T04:41:38.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "গোল্ড লোন তো পাওয়া যায়...কিন্তু কখনও ভেবে দেখেছেন ‘সিলভার লোন’ পাওয়া যায় না কেন?",
+    "desc": "সাম্প্রতিক সময়কালে রুপোর দাম আকাশছোঁয়ার পরে হঠাৎ করেই মুখ থুবড়ে পড়েছে৷ সোনার দামও নিম্নমুখী৷ এমন অবস্থায় সোনা-রুপোয় লগ্নিকারীদের হাত পড়েছে মাথায়৷ প্রশ্ন উঠছে একাধিক৷ তেমনই এক প্রশ্ন, সোনার মতো কেন রুপোর পরিবর্তে ঋণ দিতে চায় না ব্যাঙ্কগুলো, কী যুক্তি?",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ydne-2026-02-16T232512.129-2026-02-89357caa2cb5c1db72f1f596b847e947-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/why-banks-rarely-accept-silver-as-collateral-and-prefer-gold-loans-instead-know-thw-actual-reason-sta-2543886.html",
+    "time": "2026-02-18T03:43:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "দিনমজুরের বাড়িতে আচমকা হাজির আয়কর দফতরের আধিকারিকরা ! হাতে ধরালেন ১৭ কোটি ৪০ লক্ষ টাকার নোটিস !",
+    "desc": "ওই দিনমজুর শিবধনি লোকাল18-এর সঙ্গে কথা বলার সময় জানিয়েছেন যে, সোনভদ্রর ঘোরাওয়ালে ব্যাটারি লোডিং আর আনলোডিং-এর কাজ তিনি করতেন। মালিক তাঁদের বাড়ি থেকে নিয়ে গিয়েছিলেন আর ৮ বছর পর্যন্ত কাজ করিয়েছেন। সেখানে কাজ করার সময় মালিক তাঁদের বলেছিলেন যে বেতন অ্যাকাউন্টে আসবে ৷ এই কথা বলেই অ্যাকাউন্ট খুলিয়েছিলেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/MIrzapur-Labour-Income-Tax-Notice-2026-02-e130fe0e94e826e93c1543db70ef38fe-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/laborer-received-an-income-tax-notice-of-17-crore-rupees-shocked-to-know-the-story-al18-ss-local18-2545617.html",
+    "time": "2026-02-18T02:34:38.000Z"
+  },
+  {
     "cat": "World",
     "title": "বাংলাদেশের প্রধানমন্ত্রী হিসেবে শপথ নিলেন তারেক রহমান! দেখুন ভিডিও",
     "desc": "বাংলাদেশের প্রধানমন্ত্রী হিসেবে শপথ নিলেন তারেক রহমান৷ মঙ্গলবার ঢাকায় জাতীয় সংসদ ভবনে শপথ গ্রহণ করেন তারেক রহমান৷ তারেক রহমানকে শপথবাক্য পাঠ করান বাংলাদেশের রাষ্ট্রপতি মহম্মদ সাহাবুদ্দিন৷ তারেক রহমানের সঙ্গেই মন্ত্রিসভার বাকি সদস্য এবং প্রতিমন্ত্রীরাও শপথগ্রহণ করেন৷ তারেক রহমানের শপথগ্রহণ অনুষ্ঠানে হাজির ছিলেন বাংলাদেশের বিদায়ী অন্তর্বর্তী সরকারের প্রধান মহম্মদ ইউনূসও৷ ভারতের পক্ষে এই শপথগ্রহণ অনুষ্ঠানে হাজির ছিলেন লোকসভার অধ্যক্ষ ওম বিড়লা৷",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/indian-railways-to-provide-e-pantry-services-to-25-long-distance-trains-for-passengers-arc-2533065.html",
     "time": "2026-02-10T03:01:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "FIR দায়ের দিল্লি পুলিশের, কী ভাবে ফাঁস? প্রাক্তন সেনাপ্রধানের অপ্রকাশিত বই কাণ্ডে তদন্ত শুরু",
-    "desc": "অপ্রকাশিত ওই বইয়ের কিছু অংশ লোকসভায় তুলে ধরেছিলেন বিরোধী দলনেতা রাহুল গান্ধি৷ সেখানে ভারত-চিন সংঘর্ষ নিয়ে কিছু কথা বলা হয়েছিল৷ কিন্তু, বইটি অপ্রকাশিত হওয়ায় তা থেকে কী ভাবে উদ্ধৃতি তুলে ধরা হল লোকসভায়, তা নিয়ে ঘোরতর আপত্তি জানায় বিজেপি৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ydne-2026-02-09T201620.067-2026-02-f6ba72547790cfcfd40f1dff83d0147c-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/parliament-news-update-delhi-police-files-fir-on-alleged-leak-of-former-army-chief-naravanes-four-stars-of-destiny-book-sta-2532798.html",
-    "time": "2026-02-09T19:10:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'দিনে ৪০-৮০টি সিগারেট খেত', মূত্রথলির ক্যানসারের আগে ফুসফুসের ক্যানসারে আক্রান্ত ছিলেন বিনোদ খান্না, সিক্রেট ফাঁস স্ত্রীর...",
-    "desc": "বিনোদ খান্না পর্দার আড়ালে এমন একজন ব্যক্তি ছিলেন যিনি নীরবে তার জীবনের কিছু কঠিন স্বাস্থ্য যুদ্ধ লড়েছিলেন, যা গোটা বিশ্ব জানে না । অভিনেতার মৃত্যুর বহু বছর পর, তার স্ত্রী কবিতা খান্না প্রয়াত অভিনেতার যাত্রার একটি অজ্ঞাত অধ্যায়ের কথা খুলে বলেছেন ।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Riya-Das-1200900-2026-02-09T204144.303-2026-02-835bc82c981a804fb0c101bd9d79d2c2-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/vinod-khanna-battled-lung-cancer-before-bladder-cancer-wife-reveals-he-smoked-40-to-80-cigarettes-a-day-rds-2532896.html",
-    "time": "2026-02-09T15:35:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "\"কোনও মন্ত্রীকে দিয়ে ফোন করিয়ে গানে সুযোগ পাওয়া যাবে না\", অগ্নিশর্মা বিশাল দাদলানি",
-    "desc": "বরাবর স্পষ্ট বক্তা হিসেবে পরিচিত বিশাল৷ রাজনৈতিক নেতাদের বিরুদ্ধে মুখ খুলতেও ভয় পান না৷ সোশ্যাল মিডিয়াকে হাতিয়ার করে নিজের মতামত দিতে পিছপা হন না সঙ্গীত শিল্পী৷ এবার নাম না করেই নতুন উঠতি গায়কের বিরুদ্ধে সুর চড়ালেন বিশাল দাদলানি৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Web-2026-02-09T195013.842-2026-02-438f76e6912d34d3ff81ed2b21c2bc73-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/vishal-dadlani-warns-new-singer-who-manages-to-contact-him-though-some-minister-pbd-2532742.html",
-    "time": "2026-02-09T14:56:26.000Z"
   }
 ];

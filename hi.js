@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How Australia vanished from T20 World Cup in just 5 years?",
+    "desc": "A World Cup without Australia. Yes, it is possible. In fact, it isn't overly surprising when it comes to the T20 World Cup. Australia have dominated the ODI World Cups over the years, winning the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/champions-to-group-stage-exit-how-australia-vanished-from-t20-world-cup-in-just-5-years-2026-02-18-1030723",
+    "time": "2026-02-18T04:03:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Kuldeep Yadav likely to be dropped from India's playing XI for Netherlands clash in T20 World Cup?",
+    "desc": "The clash between India and the Netherlands will conclude the matches in Group A in the ongoing T20 World Cup today. The match will be played at the Narendra Modi Stadium in Ahmedabad, even as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-kuldeep-yadav-likely-to-be-dropped-from-india-s-playing-xi-for-netherlands-clash-in-t20-world-cup-2026-02-18-1030714",
+    "time": "2026-02-18T03:05:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will surface at Narendra Modi Stadium in Ahmedabad play today in T20 World Cup?",
+    "desc": "India and the Netherlands are set to face each other in T20Is for the first time since T20 World Cup 2022. The encounter at the Sydney Cricket Ground four years ago is also the only...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-ned-pitch-report-how-will-surface-at-narendra-modi-stadium-in-ahmedabad-play-today-in-t20-world-cup-2026-02-18-1030709",
+    "time": "2026-02-18T02:05:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Abhishek Sharma spends more than an hour in spin-heavy nets, Rinku goes round-arm spin bowling",
     "desc": "Abhishek Sharma put in some hard yards in an over one-hour-long training session dominated by spinners ahead of India's upcoming T20 World Cup 2026 clash against the Netherlands in Ahmedabad on Wednesday, February 18. Abhishek,...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/which-opponents-will-india-face-in-t20-world-cup-2026-super-eight-stage-complete-fixtures-confirmed-2026-02-17-1030659",
     "time": "2026-02-17T12:14:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia knocked out of T20 World Cup 2026 as Zimbabwe qualify for Super Eight after Ireland washout",
-    "desc": "Australia have been knocked out of the T20 World Cup 2026 in the group stage itself as Zimbabwe have qualified for the Super Eight stage after their crucial clash against Ireland at the Pallekele International...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-knocked-out-of-t20-world-cup-2026-as-zimbabwe-qualify-for-super-eight-after-ireland-washout-2026-02-17-1030651",
-    "time": "2026-02-17T12:06:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Match abandoned due to rain, Zimbabwe qualify for Super 8",
-    "desc": "Australia crashed out of the ICC Men's T20 World Cup 2026 at the group stage after Zimbabwe secured qualification for the Super Eight round following a rain-hit encounter against Ireland at the Pallekele International Cricket...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ire-vs-zim-t20-world-cup-2026-live-cricket-score-ireland-vs-zimbabwe-pallekele-international-cricket-stadium-latest-match-updates-scorecard-teams-2026-02-17-1030643",
-    "time": "2026-02-17T10:37:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who will qualify if IRE vs ZIM T20 World Cup 2026 match is washed out in Pallekele?",
-    "desc": "Ireland and Zimbabwe face off in a high-stakes T20 World Cup 2026 match at the Pallekele International Cricket Stadium, Pallekele on Tuesday, February 17. With the spot in the Super Eight stage on the line,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/who-will-qualify-if-ire-vs-zim-t20-world-cup-2026-match-is-washed-out-in-pallekele-2026-02-17-1030642",
-    "time": "2026-02-17T10:20:56.000Z"
   }
 ];

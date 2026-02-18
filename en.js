@@ -1,5 +1,176 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "Are banks open on closed on February 18? Check state-wise details",
+    "desc": "Planning a bank visit? Be aware that Indian banks observe both national and state holidays, leading to varied closures. Today, February 18, Sikkim banks are closed for Losar. Maharashtra observes Chhatrapati Shivaji Maharaj Jayanti on February 19, while Mizoram and Arunachal Pradesh celebrate State Day on February 20. Remember, second and fourth Saturdays also mean no branch operations.",
+    "img": "https://static.toiimg.com/photo/msid-128491488,imgsize-2805454.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/bank-holiday-today-are-banks-open-on-closed-on-february-18-check-state-wise-details/articleshow/128491147.cms",
+    "time": "2026-02-18T04:21:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "RJD will expand beyond Bihar, aspire to become national party: Tejashwi Yadav",
+    "desc": "Mr. Yadav also urged party workers to remember that \"we lost the assembly polls in Bihar not because we were weak, but because we had fallen on hard times. Our time is bound to come\"",
+    "img": "https://th-i.thgim.com/public/incoming/xpxq81/article70645933.ece/alternates/LANDSCAPE_1200/PTI02_17_2026_000555A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/rjd-will-expand-beyond-bihar-aspire-to-become-national-party-tejashwi-yadav/article70645920.ece",
+    "time": "2026-02-18T04:17:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan face another must-win scenario, need to beat Namibia to progress",
+    "desc": "Pakistan fans express cautious optimism for a rematch with India, but the team must first secure a win against Namibia. Despite a loss to India, spinners Usman Tariq and Saim Ayub showed promise. Pakistan need to address bowling lapses and batting concerns, especially Shaheen Afridi's form, to advance in the tournament.",
+    "img": "https://static.toiimg.com/photo/msid-128490976,imgsize-255460.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistan-face-yet-another-must-win-scenario-need-to-beat-namibia-to-qualify-for-super-8s/articleshow/128490963.cms",
+    "time": "2026-02-18T03:59:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress MLA loses seat in Karnataka for false claim of ‘nil’ tax dues when he actually owed over ₹1.3 crore",
+    "desc": "With this verdict, S.N. Subba Reddy ceases to be an MLA unless the Supreme Court stays this verdict, as the High Court had declined to keep its verdict in abeyance to enable the Congress leader to approach the apex court",
+    "img": "https://th-i.thgim.com/public/incoming/nnys44/article70644875.ece/alternates/LANDSCAPE_1200/IMG_BG_HIGH_COURT_2020_1_1_CSEST7GE.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/reddy-loses-bagepalli-mla-post-with-false-claim-of-nil-tax-dues-when-he-actually-owed-over-13-crore/article70643954.ece",
+    "time": "2026-02-18T03:42:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'HOTD' S3 teases ANNIHILATION for Targaryens",
+    "desc": "The Targaryen dynasty faces impending doom in 'House of the Dragon' Season 3, with cryptic social media posts hinting at annihilation and no mercy. As 'A Knight of the Seven Kingdoms' concludes, anticipation builds for the prequel's mid-2026 return, promising an eight-episode installment that will set the stage for the saga's end.",
+    "img": "https://static.toiimg.com/photo/msid-128489442,imgsize-22138.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/house-of-the-dragon-season-3-teases-annihilation-for-targaryens-trailer-rumoured-to-arrive-with-a-knight-of-the-seven-kingdoms-finale/articleshow/128489095.cms",
+    "time": "2026-02-18T03:37:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Melissa Gilbert returns to work with ‘Modern Prairie’",
+    "desc": "Actress Melissa Gilbert returns to her lifestyle brand, 'Modern Prairie,' following a challenging period. Her husband, Timothy Busfield, faces serious charges including criminal sexual contact with a minor and child abuse. Gilbert expressed gratitude for community support, emphasizing her unwavering commitment to family while finding strength in her work.",
+    "img": "https://static.toiimg.com/photo/msid-128490221,imgsize-41922.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/melissa-gilbert-returns-to-work-amid-husband-timothy-busfields-child-sx-abuse-charges/articleshow/128490206.cms",
+    "time": "2026-02-18T03:29:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘We deserve what we’ve got’: Australia face backlash after ‘shambolic’ T20 World Cup exit",
+    "desc": "Australia's T20 World Cup journey ended abruptly, sparking outrage over their bowling frailties and questionable selections. Former spinner Brad Hogg labelled the campaign \"shambolic,\" highlighting a severe lack of bowling depth. Injuries and strategic missteps, including the handling of Steve Smith, contributed to the stunning group-stage exit, leaving the team facing urgent structural reviews.",
+    "img": "https://static.toiimg.com/photo/msid-128489962,imgsize-149206.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-probably-deserve-what-weve-got-australia-face-backlash-after-shambolic-t20-world-cup-exit/articleshow/128489951.cms",
+    "time": "2026-02-18T03:17:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'No threat but vigilance is necessary': RSS chief renews 'united Hindus' pitch; backs 3-child policy",
+    "desc": "RSS chief Mohan Bhagwat urged Hindu families to have at least three children, citing concerns over a declining population. He emphasized uniting and empowering the Hindu community, advocating for the detection and deportation of infiltrators. Bhagwat also stressed the importance of social harmony, addressing caste divisions, and uplifting the disadvantaged, asserting India's potential to guide the world.",
+    "img": "https://static.toiimg.com/photo/msid-128489818,imgsize-742483.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-threat-but-vigilance-is-necessary-rss-chief-renews-united-hindus-pitch-backs-3-child-policy/articleshow/128489785.cms",
+    "time": "2026-02-18T03:10:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman's father is on ventilator support",
+    "desc": "Renowned screenwriter Salim Khan has been hospitalized at Lilavati Hospital, currently requiring ventilator support. Medical professionals have diagnosed him with internal bleeding stemming from a spike in blood pressure and ruptured blood vessels. He is set to undergo surgery later today. Read the full article to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128489357,imgsize-33592.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-father-salim-khan-health-update-veteran-screenwriter-is-on-ventilator-support-report/articleshow/128489357.cms",
+    "time": "2026-02-18T02:55:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US, Japan seal ‘massive’ trade deal; Tokyo to invest $550 billion in America; key details of the pact",
+    "desc": "President Trump announced a \"MASSIVE Trade Deal with Japan,\" unveiling $36 billion in Japanese investment for US projects. These initiatives, focusing on energy, power generation, and advanced manufacturing, are the first under Japan's $550 billion commitment. The deal includes slashing US tariffs on Japanese imports to 15%.",
+    "img": "https://static.toiimg.com/photo/msid-128489369,imgsize-1167561.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-japan-seal-massive-trade-deal-tokyo-to-invest-550-billion-in-america-key-details-of-the-pact/articleshow/128488072.cms",
+    "time": "2026-02-18T02:49:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Emerald Fennell defends bold ‘Wuthering Heights’ vision amid backlash",
+    "desc": "Director Emerald Fennell is defending her bold adaptation of 'Wuthering Heights' against backlash over its sensual trailer and casting. Fennell stated her vision aimed for a raw, instinctual portrayal, capturing the novel's dark, sado-masochistic heart. She defended her casting of Margot Robbie and Jacob Elordi, emphasizing their unique qualities that align with her interpretation of the characters.",
+    "img": "https://static.toiimg.com/photo/msid-128489091,imgsize-515866.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/emerald-fennell-defends-bold-wuthering-heights-vision-amid-backlash/articleshow/128489096.cms",
+    "time": "2026-02-18T02:40:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Jai Ho': PM Modi's car ride with French President Emmanuel Macron in Mumbai",
+    "desc": "Prime Minister Modi and French President Macron elevated India-France ties to a 'special global strategic partnership' during the latter's visit. The leaders pledged expanded cooperation in defense, trade, and critical minerals, signing 21 agreements, including a defense pact and a joint venture for Hammer missile manufacturing.",
+    "img": "https://static.toiimg.com/photo/msid-128488533,imgsize-1113992.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jai-ho-pm-modis-car-ride-moment-with-french-president-emmanuel-macron-in-mumbai/articleshow/128487875.cms",
+    "time": "2026-02-18T02:37:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Zendaya considers this as relationship ‘red flag’",
+    "desc": "Zendaya, one year after her engagement to Tom Holland, shared her relationship 'red flags' with co-star Robert Pattinson. She prioritizes kindness towards crews and how individuals treat animals, believing dogs are good judges of character. While acknowledging people's complexity, she also noted that rudeness or meanness are clear indicators.",
+    "img": "https://static.toiimg.com/photo/msid-128488898,imgsize-967987.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zendaya-reveals-what-she-considers-relationship-red-flags-and-this-is-how-she-checks-the-signs/articleshow/128488898.cms",
+    "time": "2026-02-18T02:33:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Tell Me Lies’ Season 3 ending explained",
+    "desc": "In a breathtaking conclusion, the final episode of 'Tell Me Lies' in Season 3 unravels with startling discoveries and serious ramifications for its central figures. According to showrunner Meaghan Oppenheimer, this outcome had been part of the grand design all along, ruling out any hopes for a continuation.",
+    "img": "https://static.toiimg.com/photo/msid-128488836,imgsize-793663.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/tell-me-lies-season-3-ends-with-a-dramatic-conclusion-showrunner-confirm-the-series-will-not-return/articleshow/128488836.cms",
+    "time": "2026-02-18T02:30:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Zendaya talks about protecting her private life",
+    "desc": "Zendaya and Tom Holland are fiercely protective of their private life, despite their global fame. The couple, who met on the 'Spider-Man' set, prioritize normalcy and cherish their relationship away from the spotlight. Zendaya emphasizes controlling what they share, while Holland highlights their bond as separate from their careers, even sharing his golf lessons with her.",
+    "img": "https://static.toiimg.com/photo/msid-128488862,imgsize-641691.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/euphoria-fame-zendaya-seeks-privacy-says-i-have-always-been-really-adamant-to-keep-my-private-life-private/articleshow/128488842.cms",
+    "time": "2026-02-18T02:30:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about Salman's co-star Pravina Deshpande who passed away",
+    "desc": "On February 17, 2026, the film industry mourned the loss of the legendary Pravina Deshpande at the age of 60, after a courageous fight against cancer. Revered for her memorable roles in both Marathi and Hindi films like 'Mumbai Meri Jaan' and 'Ek Villain,' she also graced television screens with her presence in 'Karam Apnaa Apnaa'.",
+    "img": "https://static.toiimg.com/photo/msid-128488641,imgsize-19474.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/who-was-pravina-deshpande-all-about-salman-khans-co-star-who-passed-away-due-to-cancer/articleshow/128488641.cms",
+    "time": "2026-02-18T02:28:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Oprah is nailing the plank game at 72!",
+    "desc": "At 72, media mogul Oprah Winfrey is proving age is just a number with her incredible fitness journey. She recently shared a video showcasing her impressive planking abilities, now holding the pose for over a minute with added weights. This achievement marks a significant improvement from her initial struggles, inspiring many to prioritize their health and strength regardless of age.",
+    "img": "https://static.toiimg.com/photo/msid-128488643,imgsize-30958.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oprah-winfreys-fitness-goals-holds-a-plank-for-over-a-minute-with-weights-at-72/articleshow/128488631.cms",
+    "time": "2026-02-18T02:22:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Miley announces Hannah Montana 20th Anniversary Special",
+    "desc": "Miley Cyrus is celebrating two decades of 'Hannah Montana' with a new TV special, premiering March 24. The event features an in-depth interview with Alex Cooper, where Cyrus reflects on her iconic Disney role, its impact, and her journey. This 'Hannahversary' marks a special thank you to her enduring fanbase.",
+    "img": "https://static.toiimg.com/photo/msid-128488241,imgsize-25426.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hannah-montana-20th-anniversary-special-miley-cyrus-drops-first-teaser-says-she-is-going-back-to-where-it-all-began/articleshow/128487788.cms",
+    "time": "2026-02-18T02:10:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock recommendations for February 18, 2026",
+    "desc": "Mehul Kothari, DVP - Technical Research, Anand Rathi Shares and Stock Brokers recommends buying Bharti Airtel, Finolex Industries, and Coal India as the top stock picks for February 18, 2026. The expert shares a detailed outlook on each stock along with target prices:",
+    "img": "https://static.toiimg.com/photo/msid-128472046,imgsize-92166.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-february-18-2026-bharti-airtel-finolex-industries-coal-india-best-stocks-to-buy-today/articleshow/128471939.cms",
+    "time": "2026-02-18T02:05:00.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Prakash Raj locks another big project after 'Varanasi'",
     "desc": "Prakash Raj has officially joined the cast of SS Rajamouli's 'Varanasi,' where he will portray a passionate follower of Shiva, standing alongside the talented Mahesh Babu. Additionally, he recently finished filming 'Saraswathi,' marking Varalaxmi Sarathkumar's debut as a director, in which he plays the role of lawyer Ramanujam.",
@@ -100,6 +271,15 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
+    "title": "Two ducks, no worries! Abhishek Sharma 'has his plans sorted'",
+    "desc": "Despite two ducks in the T20 World Cup, India's team management is backing opener Abhishek Sharma's approach, emphasizing his clear plans and mindset. Batting coach Sitanshu Kotak stated that the high-risk nature of T20 means players will get out, and the focus remains on his form and clarity, not just the recent lean run.",
+    "img": "https://static.toiimg.com/photo/msid-128468563,imgsize-63090.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/two-ducks-no-worries-abhishek-sharma-has-his-plans-sorted/articleshow/128468587.cms",
+    "time": "2026-02-18T00:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'He must be looked after and respected': Ganguly backs appeal for Imran Khan",
     "desc": "Former India captain Sourav Ganguly has joined 13 other ex-skippers in urging Pakistan to treat Imran Khan with dignity and provide proper medical care amid concerns over his health in prison. The signatories expressed profound concern over Khan's deteriorating vision and limited access to specialists and family, stressing humane treatment for the former leader.",
     "img": "https://static.toiimg.com/photo/msid-128468553,imgsize-971118.cms",
@@ -124,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/prakambanam-box-office-collections-day-19-horror-comedy-holds-strong-worldwide-at-rs-18-65-crores/articleshow/128486117.cms",
     "time": "2026-02-18T00:16:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "SZA leads 'Shiv Shambhu' chant at Maha Shivratri event",
-    "desc": "Grammy winner SZA surprised devotees at Sadhguru's Maha Shivratri event in Coimbatore, appearing in a yellow saree to lead chants. Videos of her participation, including a greeting and encouraging the crowd, have gone viral. This follows her previous spiritual immersion at the Isha Foundation last year, where she found her Samyama experience 'chaotic and beautiful'.",
-    "img": "https://static.toiimg.com/photo/msid-128486164,imgsize-47282.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sza-leads-shiv-shambhu-chant-at-sadhgurus-maha-shivratri-event-says-we-have-to-turn-this-energy-up-for-shiva/articleshow/128485796.cms",
-    "time": "2026-02-18T00:16:06.000Z"
   },
   {
     "cat": "World",
@@ -216,13 +387,13 @@ const newsData_en = [
     "time": "2026-02-17T23:41:39.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Fans SLAM paparazzi",
-    "desc": "Bollywood star Salman Khan showed clear frustration with paparazzi outside Lilavati Hospital after visiting his father, Salim Khan. Videos captured the actor visibly upset by the intrusive media attention. Fans rallied online, criticizing photographers for their lack of respect and demanding privacy for the Khan family, drawing parallels to similar incidents with the Deol family.",
-    "img": "https://static.toiimg.com/photo/msid-128485186,imgsize-33062.cms",
+    "cat": "Sports",
+    "title": "'My journey started ...': Hardik Pandya reflects on turning point of his career",
+    "desc": "Hardik Pandya reflects on the pivotal 2016 T20 World Cup final over against Bangladesh, crediting it as the career-defining moment that shaped him. He now aims to unlock his full batting potential, admitting he's only used 40% of it, with his girlfriend Mahieka helping him rediscover his passion for the game through intense training sessions.",
+    "img": "https://static.toiimg.com/photo/msid-128464258,imgsize-118342.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salim-khan-hospitalised-fans-outraged-at-paparazzis-disrespectful-behavior-say-first-the-deol-brothers-and-now-salman-khan/articleshow/128484409.cms",
-    "time": "2026-02-17T23:21:45.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/my-journey-started-with-that-one-hardik-pandya-reflects-on-turning-point-of-his-career/articleshow/128464281.cms",
+    "time": "2026-02-17T23:30:00.000Z"
   },
   {
     "cat": "World",
@@ -261,15 +432,6 @@ const newsData_en = [
     "time": "2026-02-17T22:29:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Navya Naveli Nanda on not joining films despite Bachchan legacy",
-    "desc": "Despite being born into the illustrious Bachchan family, Navya Naveli Nanda says she never felt any pressure to step into the world of acting. In a recent conversation, Navya addressed the long-standing curiosity around whether she was ever expected to carry forward the cinematic legacy of her grandparents, Amitabh Bachchan and Jaya Bachchan.",
-    "img": "https://static.toiimg.com/photo/msid-128483592,imgsize-76176.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchans-granddaughter-navya-naveli-nanda-on-not-joining-films-despite-bachchan-legacy-there-was-no-pressure-ever/articleshow/128483401.cms",
-    "time": "2026-02-17T22:27:32.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "CJI alarmed by AI use to draft petitions in SC",
     "desc": "India's Supreme Court expressed alarm as lawyers increasingly use AI to draft petitions, leading to citations of non-existent judgments. This \"hallucination\" by AI tools is complicating judicial work, forcing judges to verify every quoted paragraph. High courts have also penalized parties for submitting AI-generated arguments with fake case law, highlighting the urgent need for verification.",
@@ -288,42 +450,6 @@ const newsData_en = [
     "time": "2026-02-17T22:21:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Neena Gupta says she married Vivek Mehra out of ‘compulsion’",
-    "desc": "Veteran actress Neena Gupta has made a candid admission about her marriage to chartered accountant Vivek Mehra, revealing that it was not driven by romance but by circumstance. Neena further stated that while she believes marriage is important, it does not mean one should marry just anyone. However, she admitted that staying single as a woman can be extremely difficult in society.",
-    "img": "https://static.toiimg.com/photo/msid-128481674,imgsize-31826.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/neena-gupta-says-she-married-vivek-mehra-out-of-compulsion-i-dont-understand-love-except-the-love-i-have-for-my-child/articleshow/128481326.cms",
-    "time": "2026-02-17T21:41:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shia LaBeouf ARRESTED at Mardi Gras",
-    "desc": "Actor Shia LaBeouf was arrested in New Orleans early Tuesday, facing two counts of simple battery after allegedly assaulting two men during Mardi Gras. Police responded to a disturbance where LaBeouf reportedly became aggressive, leading to physical altercations. This incident adds to LaBeouf's history of legal troubles.",
-    "img": "https://static.toiimg.com/photo/msid-128481691,imgsize-124266.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/shia-labeouf-arrested-after-allegedly-starting-fight-during-mardi-gras-in-new-orleans-watch/articleshow/128480826.cms",
-    "time": "2026-02-17T21:40:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tina Ambani skips ED summons, 2nd in a month",
-    "desc": "Tina Ambani, wife of Anil Ambani, missed her second Enforcement Directorate summons regarding a money laundering probe. Her husband, Anil Ambani, is also under investigation for a Rs 40,000 crore laundering case. The ED is seeking international cooperation to trace alleged illicit funds, having already conducted numerous searches and attached significant assets.",
-    "img": "https://static.toiimg.com/photo/msid-128481321,imgsize-84432.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tina-ambani-skips-ed-summons-2nd-in-a-month/articleshow/128481332.cms",
-    "time": "2026-02-17T21:32:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "RPF cop kneels on youth's neck, probe ordered as clip goes viral",
-    "desc": "A Railway Protection Force constable is under investigation. He was seen in a video kneeling on a youth's neck at Tiruvottiyur railway station. The youth was reportedly travelling without a ticket and was drunk. The incident drew widespread condemnation online. Officials have ordered an internal inquiry into the constable's actions. Departmental action will follow the inquiry report.",
-    "img": "https://static.toiimg.com/photo/msid-128481215,imgsize-475864.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rpf-cop-kneels-on-youths-neck-probe-ordered-as-clip-goes-viral/articleshow/128481187.cms",
-    "time": "2026-02-17T21:26:27.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Thangam Thennarasu avoids populism, flags fiscal strain",
     "desc": "He also highlights the challenges faced by Tamil Nadu from the Centre, including the denial of major infrastructure projects, the withholding of funds, curtailment of tax revenues without consultation, and the unfair imposition of conditions mandating expenditure",
@@ -340,24 +466,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/in-allegation-of-electoral-corruption-guilt-has-to-be-proved-to-the-hilt-sibal-submits-in-supreme-court/article70643761.ece",
     "time": "2026-02-17T19:26:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman, family and friends rush to visit",
-    "desc": "Family members of veteran screenwriter Salim Khan were seen arriving at Lilavati Hospital in Mumbai on Tuesday after the 90-year-old was admitted to the ICU. Superstar Salman Khan arrived along with his mother Salma Khan. Producer Arbaaz Khan was seen with his wife Shhura Khan, while daughters Alvira and Arpita also reached the hospital.",
-    "img": "https://static.toiimg.com/photo/msid-128477523,imgsize-37362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salim-khan-hospitalised-in-icu-salman-khan-arbaaz-khan-alvira-and-arpita-rush-to-visit-javed-akhtar-sanjay-dutt-drop-by/articleshow/128477427.cms",
-    "time": "2026-02-17T19:05:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ra.One 2 in works? Sinha says it will happen at the right time",
-    "desc": "Filmmaker Anubhav Sinha has once again sparked excitement among fans by opening up about the possibility of Ra.One 2. Speaking about the long-awaited sequel to Ra.One, Sinha admitted that he is keen to revisit the superhero universe, but acknowledged the scale of commitment it would require.",
-    "img": "https://static.toiimg.com/photo/msid-128476803,imgsize-40514.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-ra-one-2-in-the-works-anubhav-sinha-says-discussion-with-srk-will-happen-at-the-right-time/articleshow/128476479.cms",
-    "time": "2026-02-17T18:36:38.000Z"
   },
   {
     "cat": "Sports",
@@ -403,6 +511,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/nepal-end-12-year-t20-world-cup-drought-with-seven-wicket-win-over-scotland/articleshow/128474569.cms",
     "time": "2026-02-17T17:17:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "On the importance of satire",
+    "desc": "Can satire, comedy or a work of art be a threat to national security or defence of the nation? The Supreme Court has consistently held that satire is one of the most effective art forms revealing the absurdities, hypocrisies and contradictions of life",
+    "img": "https://th-i.thgim.com/public/incoming/k5voep/article70644689.ece/alternates/LANDSCAPE_1200/iStock-487841164.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/on-the-importance-of-satire/article70643183.ece",
+    "time": "2026-02-17T17:13:10.000Z"
   },
   {
     "cat": "Business",
@@ -504,15 +621,6 @@ const newsData_en = [
     "time": "2026-02-17T12:35:19.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Here are the top gainers and losers on NSE, BSE today",
-    "desc": "Indian equity benchmarks concluded Tuesday higher for a second day, propelled by gains in banking, IT, and capital goods sectors. The BSE Sensex rose 173.81 points to 83,450.96, while the NSE Nifty climbed 42.65 points to 25,725.40. IT stocks continued their recovery, supported by strategic AI collaborations, while defence stocks also saw an uptick.",
-    "img": "https://static.toiimg.com/photo/msid-128464461,imgsize-846319.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-here-are-the-top-gainers-and-losers-on-nse-bse-on-february-17-2026-check-list/articleshow/128463714.cms",
-    "time": "2026-02-17T12:21:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Zimbabwe storm into Super Eight; Australia eliminated from T20 World Cup",
     "desc": "Persistent rain washed out the Zimbabwe vs Ireland match, confirming Zimbabwe's Super 8 qualification and eliminating Australia. The abandoned fixture led to a points split, finalising the Super 8 Group G1 lineup with India, South Africa, West Indies, and Zimbabwe.",
@@ -529,15 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/bangladesh-government-bnp-tarique-rahman-prime-minister-oath-taking-ceremony-live-updates-february-17-2026/article70641434.ece",
     "time": "2026-02-17T12:16:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Silicon Valley-style fallout hits Türkiye: Getir’s $700M legal bombshell",
-    "desc": "Co-Founders Nazım Salur and Serkan Borançılı of Turkish food and grocery delivery startup, Getir, have filed a $700 million lawsuit against Abu Dhabi investor Mubadala Investment Company. They allege the sovereign wealth fund breached a 2024 restructuring agreement by withholding key assets, including the valuable Getir Finance platform. This legal action escalates a dispute following Uber's acquisition of Getir's Turkish operations.",
-    "img": "https://static.toiimg.com/photo/msid-128463736,imgsize-49172.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/silicon-valley-style-fallout-uber-adds-fuel-to-fire-as-trkiyes-getir-founders-sue-abu-dhabis-mubadala-for-700m-betrayal/articleshow/128462873.cms",
-    "time": "2026-02-17T12:15:47.000Z"
   },
   {
     "cat": "Sports",
@@ -558,15 +657,6 @@ const newsData_en = [
     "time": "2026-02-17T11:47:00.000Z"
   },
   {
-    "cat": "Business",
-    "title": "How ITR forms are evolving",
-    "desc": "New income tax rules for 2026-27 propose redesigned ITR forms with more pre-filled details, aiming for simplification. Eligibility criteria for simplified forms like ITR-1 and ITR-4 have been adjusted, allowing for two property ownership and expanding disqualifications to include new income streams. Taxpayers must carefully evaluate their eligibility annually to avoid defective returns.",
-    "img": "https://static.toiimg.com/photo/msid-128462997,imgsize-80626.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/financial-literacy/taxation/draft-income-tax-rules-2026-how-itr-forms-are-evolving-top-changes-explained/articleshow/128462835.cms",
-    "time": "2026-02-17T11:43:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Vaibhav Sooryavanshi ko absent mark kar diya hai': Principal",
     "desc": "Teenage batting sensation Vaibhav Sooryavanshi has opted to skip his Class 10 board examinations to prioritize his burgeoning cricket career. Fresh off a stellar performance at the U-19 World Cup 2026, where he was India's leading run-scorer, Vaibhav is now set to play for Rajasthan Royals in IPL 2026.",
@@ -583,15 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/unsurprised-by-associates-t20-world-cup-displays-south-africa-bank-on-experience-for-super-eight-charge/articleshow/128460889.cms",
     "time": "2026-02-17T10:54:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Amid no-handshake row, Rohit's hug with Akram goes viral",
-    "desc": "Rohit Sharma and Wasim Akram's warm hug before the India-Pakistan T20 World Cup clash stole the show, contrasting with the on-field no-handshake policy. Despite pre-match camaraderie, India dominated the game, crushing Pakistan by 61 runs thanks to Ishan Kishan's 77 and stellar bowling performances, securing their Super Eight spot.",
-    "img": "https://static.toiimg.com/photo/msid-128460087,imgsize-24904.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/amid-no-handshake-row-rohit-sharmas-hug-with-wasim-akram-goes-viral-in-colombo-watch/articleshow/128460071.cms",
-    "time": "2026-02-17T10:27:01.000Z"
   },
   {
     "cat": "Sports",
@@ -621,33 +702,6 @@ const newsData_en = [
     "time": "2026-02-17T09:45:11.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Dark clouds over Australia's campaign: What if rain washes out ZIM vs IRE in Pallekele?",
-    "desc": "Australia's World Cup hopes are in peril, needing Ireland to defeat Zimbabwe. A washout in the Ireland-Zimbabwe match would eliminate Australia, as Zimbabwe would advance with a draw. Australia must win their final game and rely on other results, facing an early exit if Zimbabwe secures even a single point.",
-    "img": "https://static.toiimg.com/photo/msid-128458118,imgsize-110712.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/dark-clouds-over-australias-campaign-what-if-rain-washes-out-zimbabwe-vs-ireland-in-pallekele/articleshow/128458084.cms",
-    "time": "2026-02-17T09:27:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Phillips’ record fifty flattens Canada as New Zealand storm into Super 8s",
-    "desc": "New Zealand secured their Super 8 spot with a commanding eight-wicket win over Canada. Glenn Phillips smashed the fastest T20 World Cup fifty for New Zealand, scoring an unbeaten 76. Rachin Ravindra also contributed significantly with an unbeaten 59, guiding their team to victory after Canada's Yuvraj Samra's historic 110.",
-    "img": "https://static.toiimg.com/photo/msid-128457889,imgsize-140976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/nz-vs-can-glenn-phillips-record-fifty-flattens-canada-as-new-zealand-storm-into-super-8s-despite-yuvraj-samras-historic-ton/articleshow/128457839.cms",
-    "time": "2026-02-17T09:20:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Super 8s scenario",
-    "desc": "The ICC Men's T20 World Cup 2026 is nearing the end of its group stage, with six teams already securing Super Eights berths. Two spots remain up for grabs, with multiple nations mathematically in contention. Group C and D are finalised, while Groups A and B still have races to determine the remaining qualifiers.",
-    "img": "https://static.toiimg.com/photo/msid-128453762,imgsize-196902.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-points-table-super-8s-scenario-five-qualified-three-spots-up-for-grabs/articleshow/128453111.cms",
-    "time": "2026-02-17T07:16:37.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Francis Ford Coppola, Al Pacino and Robert De Niro lead tributes to Robert Duvall after actor’s death at 95",
     "desc": "Hollywood paid tribute to legendary actor Robert Duvall after his death at 95, with longtime collaborators Francis Ford Coppola, Al Pacino and Robert De Niro remembering his immense talent and lasting influence on American cinema",
@@ -655,15 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/francis-ford-coppola-al-pacino-and-robert-de-niro-lead-tributes-to-robert-duvall-after-actors-death-at-95/article70641772.ece",
     "time": "2026-02-17T06:07:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Nifty50 ends above 25,700; BSE Sensex up over 170 points",
-    "desc": "The BSE Sensex, comprising 30 shares, rose 173.81 points or 0.21 percent to settle at 83,450.96. During the session, the index touched an intraday high of 83,598 and a low of 82,987.43. The 50-share NSE Nifty also edged higher, gaining 42.65 points or 0.17 percent to close at 25,725.40.",
-    "img": "https://static.toiimg.com/photo/msid-128446836,imgsize-87746.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-february-17-2026-dalal-street-indian-equities-global-markets-ai-summit/articleshow/128446709.cms",
-    "time": "2026-02-17T03:49:18.000Z"
   },
   {
     "cat": "World",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/manappuram-finance-gets-rbi-approval-for-bain-capitals-bid-to-acquire-joint-control/article70632915.ece",
     "time": "2026-02-14T15:40:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 WORLD CUP",
-    "desc": "The middle order batsman stitches together two crucial partnerships with Bethel and Curran to take his side past the post; Rashid the pick of the English bowlers with three wickets while skipper Berrington shines with the bat for the Scots",
-    "img": "https://th-i.thgim.com/public/incoming/70vn9m/article70632429.ece/alternates/LANDSCAPE_1200/041.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-bantons-heroics-helps-england-negotiate-pitfalls-against-scotland/article70632329.ece",
-    "time": "2026-02-14T14:00:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Indo-U.S. trade deal will destroy India’s textile industry: Rahul",
-    "desc": "In a social media post, he said the Modi Government has neither protected the interests of cotton farmers nor that of textile exporters as a ‘visionary government’ would have negotiated a deal that protected both and ensured prosperity for both the sectors",
-    "img": "https://th-i.thgim.com/public/incoming/it7is2/article70631904.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGM2FJ8M8L.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/govt-cheating-cotton-farmers-textile-exporters-over-tariffs-in-india-us-deal-rahul-gandhi/article70631891.ece",
-    "time": "2026-02-14T12:42:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "MeitY Secretary S. Krishnan: AI can create many more jobs than it takes away",
-    "desc": "Ahead of the India AI Impact Summit 2026, MeitY Secretary S. Krishnan speaks to The Hindu about India’s AI strategy, the future of IT jobs, semiconductor ambitions, and new rules on AI-generated content. He explains why AI could create more jobs than it displaces, how India plans to boost domestic electronics manufacturing, and what regulation of artificial intelligence will look like in practice.",
-    "img": "https://th-i.thgim.com/public/incoming/ogm1gv/article70629885.ece/alternates/LANDSCAPE_1200/THE%20HINDU%20MIND.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/meity-secretary-s-krishnan-ai-can-create-many-more-jobs-than-it-takes-away/article70629888.ece",
-    "time": "2026-02-14T03:34:39.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Consumers get a raw deal as global oil price fall benefit remains ‘frozen’",
-    "desc": "While oil price spikes are passed on to Indian consumers, the benefit of falling prices are not, according to analysts; petrol prices in India have been cut barely by 1.9% since June 2022 even as oil prices have declined 41% since then",
-    "img": "https://th-i.thgim.com/public/incoming/1v1ano/article70631275.ece/alternates/LANDSCAPE_1200/2025-07-11T075220Z_952810480_RC26KFABPFM0_RTRMADP_3_INDIA-PETROCHEMICALS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/consumers-get-a-raw-deal-as-global-oil-price-fall-benefit-remains-frozen/article70628176.ece",
-    "time": "2026-02-14T03:10:25.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Major opportunities for AI in jobs and governance, says MeitY Secretary S. Krishnan",
-    "desc": "India is focusing on providing AI infrastructure that will spur development of applications, promoting electronics manufacturing with a thrust on semiconductors, and ensuring people secure adequate reskilling opportunities, says Secretary for the Ministry of Electronics and Information Technology S. Krishnan; he adds international cooperation on AI governance is being explored and the country has potential to be a leader in offering affordable technologies",
-    "img": "https://th-i.thgim.com/public/news/cities/Delhi/y7pv9b/article70630168.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/major-opportunities-for-ai-in-jobs-and-governance-says-meity-secretary-s-krishnan/article70630166.ece",
-    "time": "2026-02-13T23:38:09.000Z"
   }
 ];
