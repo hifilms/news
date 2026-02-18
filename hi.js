@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jammu and Kashmir creates history, qualify for maiden Ranji Trophy final beating Bengal",
+    "desc": "The Jammu and Kashmir cricket team has created history, qualifying for the Ranji Trophy final for the first time. They defeated a star-studded Bengal side in the semifinal as they chased down the target of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jammu-and-kashmir-create-history-qualify-for-maiden-ranji-trophy-final-beating-bengal-2026-02-18-1030735",
+    "time": "2026-02-18T05:36:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How Australia vanished from T20 World Cup in just 5 years?",
     "desc": "A World Cup without Australia. Yes, it is possible. In fact, it isn't overly surprising when it comes to the T20 World Cup. Australia have dominated the ODI World Cups over the years, winning the...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sco-vs-nep-t20-world-cup-2026-live-cricket-score-scotland-vs-nepal-wankhede-stadium-mumbai-latest-match-updates-scorecard-teams-playing-xis-2026-02-17-1030667",
     "time": "2026-02-17T13:36:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Which opponents will India face in T20 World Cup 2026 Super Eight stage? Complete fixtures confirmed",
-    "desc": "India's opponents in the T20 World Cup 2026 Super Eight stage have been confirmed after Zimbabwe qualified for the next round of the tournament following their wash-out with Ireland. The Men in Blue will are...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/which-opponents-will-india-face-in-t20-world-cup-2026-super-eight-stage-complete-fixtures-confirmed-2026-02-17-1030659",
-    "time": "2026-02-17T12:14:54.000Z"
   }
 ];

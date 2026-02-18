@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Kiara remembers late father-in-law: 'You leave behind..'",
+    "desc": "Kiara Advani paid tribute to her late father-in-law, Sunil Malhotra, with an emotional Instagram post. Sharing black-and-white photos, she thanked him for his love and warmth. Sidharth Malhotra also remembered his father, praising his integrity and courage. Sunil, a former Merchant Navy captain, deeply influenced Sidharth’s life and career.",
+    "img": "https://static.toiimg.com/photo/msid-128495343,imgsize-34574.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kiara-advani-remembers-late-father-in-law-you-leave-behind-a-legacy-of-gentleness/articleshow/128495343.cms",
+    "time": "2026-02-18T06:29:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka STUNS at 'The Bluff' premiere",
+    "desc": "Priyanka Chopra dazzled at 'The Bluff' premiere in a custom gown mirroring her character's fierce look, complete with a breastplate. She arrived hand-in-hand with husband Nick Jonas, sharing affectionate moments. The action film, where Chopra plays a Caribbean woman with a secret past, also features Karl Urban and is set to release online on February 25.",
+    "img": "https://static.toiimg.com/photo/msid-128494515,imgsize-67084.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-bluff-premiere-priyanka-chopra-hits-red-carpet-in-bloody-mary-armour-inspired-gown-nick-jonas-shows-his-support-watch/articleshow/128493978.cms",
+    "time": "2026-02-18T06:21:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Anupama Parameswaran feared dreaming too big",
+    "desc": "Anupama Parameswaran, celebrated for her debut in 'Premam', reflects on her journey from a quiet town to cinematic stardom. Initially hesitant about acting, she found her calling unexpectedly. 'Premam' catapulted her to fame, establishing a successful career across multiple film industries. Her relatable portrayal continues to resonate with audiences.",
+    "img": "https://static.toiimg.com/photo/msid-128494805,imgsize-27968.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/birthday-special-when-anupama-parameswaran-feared-dreaming-too-big-acting-found-her-unexpectedly/articleshow/128494805.cms",
+    "time": "2026-02-18T06:16:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "History made! J&amp;K stun Bengal to enter maiden Ranji Trophy final",
+    "desc": "Jammu and Kashmir achieved a historic Ranji Trophy final berth after 67 years, defeating former champions Bengal by six wickets. Pace bowler Auqib Nabi's nine-wicket haul set up a manageable target, which Vanshaj Sharma and Abdul Samad expertly chased down. This remarkable victory marks a significant milestone for J&K cricket.",
+    "img": "https://static.toiimg.com/photo/msid-128494867,imgsize-29236.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/history-made-jammu-and-kashmir-stun-bengal-to-enter-maiden-ranji-trophy-final/articleshow/128494703.cms",
+    "time": "2026-02-18T06:16:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Chinese products showcased': Rahul Gandhi calls AI Impact summit 'disorganised PR spectacle'",
+    "desc": "Rahul Gandhi criticized the AI Impact Summit as a \"disorganized PR spectacle,\" alleging Indian data is being sold while Chinese products are showcased. The Congress party echoed this sentiment, calling the event embarrassing and damaging to India's global image.",
+    "img": "https://static.toiimg.com/photo/msid-128494722,imgsize-601716.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/chinese-products-showcased-rahul-gandhi-calls-ai-impact-summit-disorganised-pr-spectacle/articleshow/128494775.cms",
+    "time": "2026-02-18T06:12:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "When will gold rates resume upward bullish trend? Check outlook",
+    "desc": "Maneesh Sharma, AVP - Commodities & Currencies, Anand Rathi Shares and Stock Brokers is of the view that gold prices are likely to resume their upward trend in the long run. He takes a look at the top factors for gold prices in the coming days:",
+    "img": "https://static.toiimg.com/photo/msid-128494355,imgsize-84658.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-india-where-is-gold-silver-rate-headed-on-february-18-2026-mcx-gold-futures-outlook/articleshow/128493292.cms",
+    "time": "2026-02-18T06:00:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Get ready for India’s fastest metro at 120 kmph",
+    "desc": "Meerut is set to launch India's fastest metro, boasting a maximum operational speed of 120 kmph. This 21-kilometer corridor will connect Meerut South to Modipuram with 12 stations, cutting travel time significantly. Notably, it will share tracks with semi-high-speed Namo Bharat trains, creating an integrated transport model.",
+    "img": "https://static.toiimg.com/photo/msid-128494216,imgsize-2757540.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/infrastructure/next-station-is-meerut-get-ready-for-indias-fastest-metro-at-120-kmph/articleshow/128493345.cms",
+    "time": "2026-02-18T05:57:29.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran upbeat after U.S. talks but Vance says 'red lines' not met",
+    "desc": "Iran's supreme leader had warned earlier in the day that the country had the ability to sink a U.S. warship recently deployed to the region, after Trump alluded to \"consequences\" should the two sides fail to strike a deal",
+    "img": "https://th-i.thgim.com/public/incoming/h1v6jr/article70646000.ece/alternates/LANDSCAPE_1200/2262188575.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-upbeat-after-us-talks-but-vance-says-red-lines-not-met/article70645984.ece",
+    "time": "2026-02-18T05:51:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Prathichaya' trailer: Sharafudheen and Nivin Pauly face-off",
+    "desc": "Director B. Unnikrishnan's 'Prathichaya', starring Nivin Pauly, promises a hard-hitting political thriller, hinting at Kerala's recent political events and controversies. Shot extensively across various locations, the film marks Balachandra Menon's 50th cinematic year. The trailer has garnered positive reactions, with viewers anticipating a commercial success akin to 'Lucifer' and a strong comeback for the director.",
+    "img": "https://static.toiimg.com/photo/msid-128493616,imgsize-14442.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/prathichaya-trailer-sharafudheen-turns-villain-for-nivin-pauly-in-b-unnikrishnans-thriller/articleshow/128493616.cms",
+    "time": "2026-02-18T05:41:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Joji Varghese’s dream meeting with Sanju Samson",
+    "desc": "A former physical education teacher from Thiruvananthapuram, Joji Varghese, who moved to Canada for his children's future, fulfilled a lifelong dream by meeting his favourite cricketer, Sanju Samson. Now a massage therapist for the Canadian cricket team, Joji shared an emotional reunion with Samson during a practice session in India, highlighting Samson's humility and connection.",
+    "img": "https://static.toiimg.com/photo/msid-128493377,imgsize-95842.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/exclusive-kerala-to-canada-to-t20-world-cup-joji-vargheses-dream-meeting-with-sanju-samson/articleshow/128493358.cms",
+    "time": "2026-02-18T05:37:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arbaaz arrives ahead of press briefing",
+    "desc": "Veteran screenwriter Salim Khan is currently in the ICU at Lilavati Hospital, Mumbai, following his admission on Tuesday morning. Sons Salman and Arbaaz Khan, along with other family and industry friends, have been visiting. Doctors confirmed he is stable but under close observation, with a specialist team attending to him. An update is expected later today.",
+    "img": "https://static.toiimg.com/photo/msid-128492823,imgsize-45018.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salim-khan-hospitalization-arbaaz-khan-atul-agnihotri-arrive-ahead-of-doctors-press-briefing-on-veteran-stars-health-update/articleshow/128492823.cms",
+    "time": "2026-02-18T05:28:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Gadar 2' director prays for Salim Khan's speedy recovery",
+    "desc": "Renowned screenwriter Salim Khan, the creative genius behind classics like 'Sholay' and 'Deewar', is currently in the ICU at Lilavati Hospital following surgery and is now on ventilator support. His son, Bollywood superstar Salman Khan, was seen visiting him, alongside well-wishers. Filmmaker Anil Sharma shared his worries for Khan's health and has been praying fervently for a quick recovery.",
+    "img": "https://static.toiimg.com/photo/msid-128492626,imgsize-33180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salim-khan-hospitalization-gadar-2-director-anil-sharma-prays-for-veteran-screenwriters-speedy-recovery/articleshow/128492626.cms",
+    "time": "2026-02-18T05:10:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rumer Willis pushes back on privilege claims in a social media post",
+    "desc": "Rumer Willis publicly refuted claims of financial dependence on her famous parents, Bruce Willis and Demi Moore. The actress and single mother stated she juggles four jobs to support her daughter, emphasizing her role as the sole provider. Willis acknowledged her advantages but stressed her personal experiences of providing for others and facing uncertainties.",
+    "img": "https://static.toiimg.com/photo/msid-128492591,imgsize-936207.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bruce-willis-daughter-rumer-willis-shuts-down-trust-fund-claims-says-she-alone-supports-her-kid-as-a-single-working-mom/articleshow/128492555.cms",
+    "time": "2026-02-18T05:03:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Central experts visit Haryana’s Palwal following mysterious deaths and illness",
+    "desc": "Deputy Commissioner Harish Kumar Vashisht stated that during the investigation, it was found that all cases had a common condition of acute liver failure, characterised by a rapid decline in vital parameters and multi-organ failure",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/haryana/central-experts-visit-haryanas-palwal-following-mysterious-deaths-and-illness/article70644117.ece",
+    "time": "2026-02-18T05:02:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abhishek Sharma eyes first runs as India face Netherlands before Super 8s",
+    "desc": "India face the Netherlands in their final World Cup league match, aiming for Abhishek Sharma to regain form ahead of the Super 8s. This fixture offers a valuable opportunity for acclimatisation to the Ahmedabad venue, where India will play their opening Super 8 fixture. Despite the one-sided look on paper, a large crowd is expected.",
+    "img": "https://static.toiimg.com/photo/msid-128492447,imgsize-81690.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/still-waiting-abhishek-sharma-eyes-first-runs-as-india-face-netherlands-before-super-8s/articleshow/128492343.cms",
+    "time": "2026-02-18T04:59:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Megan Thee Stallion gets a blue Bentley as a surprise gift from boyfriend",
+    "desc": "a powder-blue Bentley. The NBA star's grand gesture followed Megan's own affectionate birthday posts for him. Their public romance, which began at her foundation gala, continues to captivate fans with heartfelt displays of affection and significant gifts.",
+    "img": "https://static.toiimg.com/photo/msid-128492440,imgsize-1299350.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/megan-thee-stallion-celebrates-31st-birthday-with-lavish-bentley-surprise-from-boyfriend-klay-thompson/articleshow/128492407.cms",
+    "time": "2026-02-18T04:58:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bruce Springsteen announces the US Tour",
+    "desc": "The legendary Bruce Springsteen and the E Street Band are set to embark on their 'Land of Hope and Dreams American Tour' across the US this spring. Kicking off March 31 in Minneapolis and concluding May 27 in Washington D.C., the 20-date tour promises a 'Rock 'n' Rebellion' with a message of unity and hope during challenging times.",
+    "img": "https://static.toiimg.com/photo/msid-128492304,imgsize-949665.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bruce-springsteen-announces-the-land-of-hope-and-dreams-us-tour-see-dates-and-details-here/articleshow/128492304.cms",
+    "time": "2026-02-18T04:56:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Nikkei adds over 700 points after US-Japan deal; markets in China, Korea remain shut",
+    "desc": "Asian markets saw a slight uptick as investors assessed US-Iran nuclear talks and Japan's substantial investment pledges to Washington. Tokyo led the gains, buoyed by confirmed funding for infrastructure projects. Meanwhile, energy prices stabilized after earlier fluctuations, and global leaders convened in New Delhi to discuss AI governance amidst growing societal and environmental concerns.",
+    "img": "https://static.toiimg.com/photo/msid-128491789,imgsize-175592.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-nikkei-adds-over-700-points-after-us-japan-deal-markets-in-china-korea-remain-shut/articleshow/128491565.cms",
+    "time": "2026-02-18T04:38:24.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Are banks open on closed on February 18? Check state-wise details",
     "desc": "Planning a bank visit? Be aware that Indian banks observe both national and state holidays, leading to varied closures. Today, February 18, Sikkim banks are closed for Losar. Maharashtra observes Chhatrapati Shivaji Maharaj Jayanti on February 19, while Mizoram and Arunachal Pradesh celebrate State Day on February 20. Remember, second and fourth Saturdays also mean no branch operations.",
@@ -55,7 +217,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘We deserve what we’ve got’: Australia face backlash after ‘shambolic’ T20 World Cup exit",
+    "title": "‘We deserve it’: Australia face backlash after ‘shambolic’ T20 World Cup exit",
     "desc": "Australia's T20 World Cup journey ended abruptly, sparking outrage over their bowling frailties and questionable selections. Former spinner Brad Hogg labelled the campaign \"shambolic,\" highlighting a severe lack of bowling depth. Injuries and strategic missteps, including the handling of Steve Smith, contributed to the stunning group-stage exit, leaving the team facing urgent structural reviews.",
     "img": "https://static.toiimg.com/photo/msid-128489962,imgsize-149206.cms",
     "src": "indiatimes.com",
@@ -74,7 +236,7 @@ const newsData_en = [
   {
     "cat": "Entertainment",
     "title": "Salman's father is on ventilator support",
-    "desc": "Renowned screenwriter Salim Khan has been hospitalized at Lilavati Hospital, currently requiring ventilator support. Medical professionals have diagnosed him with internal bleeding stemming from a spike in blood pressure and ruptured blood vessels. He is set to undergo surgery later today. Read the full article to know more in detail.",
+    "desc": "Renowned screenwriter Salim Khan has been hospitalized at Lilavati Hospital, currently requiring ventilator support. Medical professionals have diagnosed him with internal bleeding stemming from a spike in blood pressure and ruptured blood vessels. He has undergone surgery today. Read the full article to know more in detail.",
     "img": "https://static.toiimg.com/photo/msid-128489357,imgsize-33592.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-father-salim-khan-health-update-veteran-screenwriter-is-on-ventilator-support-report/articleshow/128489357.cms",
@@ -171,24 +333,6 @@ const newsData_en = [
     "time": "2026-02-18T02:05:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Prakash Raj locks another big project after 'Varanasi'",
-    "desc": "Prakash Raj has officially joined the cast of SS Rajamouli's 'Varanasi,' where he will portray a passionate follower of Shiva, standing alongside the talented Mahesh Babu. Additionally, he recently finished filming 'Saraswathi,' marking Varalaxmi Sarathkumar's debut as a director, in which he plays the role of lawyer Ramanujam.",
-    "img": "https://static.toiimg.com/photo/msid-128487798,imgsize-28864.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/not-just-varanasi-prakash-raj-locks-another-big-project-signs-varalaxmi-sarathkumars-directorial-debut-saraswathi/articleshow/128487798.cms",
-    "time": "2026-02-18T01:46:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anil poses with French Prez; netizens say, 'CM Shivaji Rao'",
-    "desc": "During a vibrant trip to Mumbai, French President Emmanuel Macron and First Lady Brigitte Macron mingled with Bollywood icons like Anil Kapoor and Shabana Azmi. Macron celebrated their cinematic achievements, calling them true 'legends of Indian cinema,' and spotlighting the role of culture in building connections.",
-    "img": "https://static.toiimg.com/photo/msid-128486974,imgsize-65080.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anil-kapoor-drops-pictures-with-french-president-emmanuel-macron-netizens-say-cm-shivaji-rao-and-jhakaas/articleshow/128486974.cms",
-    "time": "2026-02-18T01:33:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why today's match could define Pakistan’s T20 World Cup fate",
     "desc": "Pakistan faces a do-or-die T20 World Cup clash against Namibia, needing a win to keep Super 8 hopes alive after a disappointing loss to India. Concerns linger over senior players Babar Azam and Shaheen Afridi's form, while selection changes are being considered. Namibia, though out, seeks momentum, but for Pakistan, it's a simple win-or-go-home scenario.",
@@ -207,24 +351,6 @@ const newsData_en = [
     "time": "2026-02-18T01:25:13.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "McKenna Grace cast as Daphne in live-action 'Scooby-Doo'",
-    "desc": "McKenna Grace will star as Daphne Blake in Netflix's live-action 'Scooby-Doo' series, a modern take on the beloved cartoon. The eight-episode show, set during the gang's final summer at camp, sees Shaggy and Daphne investigating a mysterious puppy linked to a supernatural murder. Grace, who previously voiced a young Daphne, expressed immense excitement for the role.",
-    "img": "https://static.toiimg.com/photo/msid-128487357,imgsize-21842.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mckenna-grace-cast-as-daphne-in-live-action-scooby-doo-series-years-after-voicing-cartoon-character/articleshow/128486871.cms",
-    "time": "2026-02-18T01:24:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Naga Chaitanya says legacy inspires, not pressures",
-    "desc": "Naga Chaitanya views his father Nagarjuna's legacy as inspiration, not a benchmark, aiming to forge his own path. He highlighted 'Love Story' as a challenging yet rewarding role, alongside 'Thandel', 'Majili', and 'Dhootha' in shaping his craft. His greatest fear as an artist is failing to connect with audiences, driving him to refine his performances and choose challenging roles.",
-    "img": "https://static.toiimg.com/photo/msid-128487325,imgsize-25298.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/naga-chaitanya-opens-up-on-nagarjunas-influence-says-legacy-inspires-not-pressures/articleshow/128487325.cms",
-    "time": "2026-02-18T01:22:34.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "X to HC in Ramdev case",
     "desc": "Social media giant X argued in Delhi High Court against broad court orders to block content, asserting that satire, fair comment, and public speech deserve protection. The platform opposed Baba Ramdev's lawsuit, which alleges AI-generated content misappropriated his image, stating that such restrictions could stifle freedom of expression and lead to internet sanitization.",
@@ -232,42 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/satire-and-fair-comment-should-be-protected-x-to-hc-in-ramdev-case/articleshow/128487152.cms",
     "time": "2026-02-18T01:10:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Officials reveal what led to Tommy Lee Jones’s daughter’s demise",
-    "desc": "Tommy Lee Jones's daughter, Victoria Jones, tragically passed away at 34 on New Year's Day in a San Francisco hotel. The Medical Examiner has officially ruled her death accidental, attributing it to the toxic effects of cocaine. The family has expressed their gratitude for the outpouring of support while requesting privacy during this difficult time.",
-    "img": "https://static.toiimg.com/photo/msid-128487141,imgsize-998076.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/authorities-reveal-the-cause-of-death-of-tommy-lee-joness-daughter-victoria-jones/articleshow/128487146.cms",
-    "time": "2026-02-18T01:09:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Spa' BO day 5: A-rated film at Rs 30 lakhs worldwide",
-    "desc": "Abrid Shine's latest film 'Spa', rated A, is experiencing a slow box office run, grossing Rs 30 lakhs worldwide in its first five days. Despite modest earnings, the movie is lauded for its strong performances from its ensemble cast. Social media reactions are mixed, with praise for its bold themes and execution, though some find the pacing and climax inconsistent.",
-    "img": "https://static.toiimg.com/photo/msid-128486741,imgsize-42572.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/spa-box-office-collections-day-5-abrid-shines-a-rated-comedy-drama-at-rs-30-lakhs-worldwide/articleshow/128486741.cms",
-    "time": "2026-02-18T00:52:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "James Van Der Beek’s heartfelt final vow renewal with his wife before his demise",
-    "desc": "Actor James Van Der Beek renewed his wedding vows with wife Kimberly Van Der Beek just days before his death. The couple held a bedside ceremony surrounded by family and friends. James Van Der Beek had been battling stage 3 colorectal cancer. He passed away peacefully on February 11, 2026. The couple married in 2010 and had six children.",
-    "img": "https://static.toiimg.com/photo/msid-128486579,imgsize-566036.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-van-der-beek-and-kimberly-van-der-beek-renewed-their-vows-days-before-his-demise-in-a-simple-and-beautiful-ceremony/articleshow/128486589.cms",
-    "time": "2026-02-18T00:39:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ashakal Aayiram' BO day 11: India Net reaches Rs 5.58 crores",
-    "desc": "Jayaram's 'Ashakal Aayiram' maintains a steady box office run, crossing Rs 5.58 crore by Day 11. The film experienced a controlled drop on its second Monday, collecting Rs 23 lakhs. Positive audience reviews highlight its emotional depth, grounded narrative, and effective portrayal of father-son dynamics within the film industry.",
-    "img": "https://static.toiimg.com/photo/msid-128486425,imgsize-58024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/ashakal-aayiram-box-office-collections-day-11-jayarams-film-holds-steady-india-net-reaches-rs-5-58-crores/articleshow/128486425.cms",
-    "time": "2026-02-18T00:34:13.000Z"
   },
   {
     "cat": "Sports",
@@ -295,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/gujarat-electoral-rolls-shrink-13-to-4-4-crore-voters-after-77-lakh-deletions/articleshow/128486365.cms",
     "time": "2026-02-18T00:28:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Prakambanam' BO day 19: Worldwide at Rs 18.65 Crores",
-    "desc": "Prakambanam, the horror-comedy starring Ganapathi and Sagar Surya, continues its strong box office run, completing 19 days with consistent footfalls. The film has garnered Rs 18.65 crore worldwide, with India net at Rs 12.19 crore and overseas contributing Rs 4.75 crore. Audiences are praising the performances, music, and engaging narrative.",
-    "img": "https://static.toiimg.com/photo/msid-128486117,imgsize-91284.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/prakambanam-box-office-collections-day-19-horror-comedy-holds-strong-worldwide-at-rs-18-65-crores/articleshow/128486117.cms",
-    "time": "2026-02-18T00:16:19.000Z"
   },
   {
     "cat": "World",
@@ -433,24 +514,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "CJI alarmed by AI use to draft petitions in SC",
-    "desc": "India's Supreme Court expressed alarm as lawyers increasingly use AI to draft petitions, leading to citations of non-existent judgments. This \"hallucination\" by AI tools is complicating judicial work, forcing judges to verify every quoted paragraph. High courts have also penalized parties for submitting AI-generated arguments with fake case law, highlighting the urgent need for verification.",
-    "img": "https://static.toiimg.com/photo/msid-128483222,imgsize-1048714.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cji-alarmed-by-ai-use-to-draft-petitions-in-sc/articleshow/128483277.cms",
-    "time": "2026-02-17T22:22:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Central experts visit Haryana’s Palwal following mysterious deaths and illness",
-    "desc": "Deputy Commissioner Harish Kumar Vashisht stated that during the investigation, it was found that all cases had a common condition of acute liver failure, characterised by a rapid decline in vital parameters and multi-organ failure",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/haryana/central-experts-visit-haryanas-palwal-following-mysterious-deaths-and-illness/article70644117.ece",
-    "time": "2026-02-17T22:21:16.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Thangam Thennarasu avoids populism, flags fiscal strain",
     "desc": "He also highlights the challenges faced by Tamil Nadu from the Centre, including the denial of major infrastructure projects, the withholding of funds, curtailment of tax revenues without consultation, and the unfair imposition of conditions mandating expenditure",
     "img": "https://th-i.thgim.com/public/incoming/1zf5s6/article70644659.ece/alternates/LANDSCAPE_1200/TH18_TN%20Budget%201.jpg",
@@ -576,15 +639,6 @@ const newsData_en = [
     "time": "2026-02-17T14:29:41.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Delhi prices fall up to 2% on weak demand; global cues weigh",
-    "desc": "Precious metals saw a significant dip in Delhi on Tuesday, with silver falling to Rs 2.45 lakh/kg and gold to Rs 1.57 lakh/10 grams. Subdued demand, Asian market holidays, and softer US inflation data fueled expectations of Federal Reserve rate cuts, impacting global prices and futures trade.",
-    "img": "https://static.toiimg.com/photo/msid-128468867,imgsize-96444.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-today-precious-metals-slide-up-to-2-in-delhi-on-weak-demand-soft-global-cues/articleshow/128468745.cms",
-    "time": "2026-02-17T14:22:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Who to support",
     "desc": "A unique family rivalry unfolds as India faces South Africa in the T20 World Cup, with brothers Albie and Morne Morkel on opposing coaching staffs. Their mother, Mariana, faces divided loyalties. Albie Morkel, now a consultant coach for South Africa, believes the real World Cup challenge begins now, emphasizing his team's experienced bowling attack and improved batting.",
@@ -601,15 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/there-is-a-method-former-india-coach-decodes-ishan-kishans-masterclass-against-pakistan/articleshow/128468018.cms",
     "time": "2026-02-17T14:03:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "RBI absorbs nearly half of FY26 government borrowing via OMOs to support liquidity",
-    "desc": "The Reserve Bank of India has bought 47% of the Centre's bond issuances in FY26 to inject Rs 6.39 lakh crore into the banking system. This move cushions liquidity amid heavy government borrowing, preventing excessive yield hikes and supporting credit growth. The RBI's actions have helped maintain stable money market rates despite market volatility.",
-    "img": "https://static.toiimg.com/photo/msid-128467289,imgsize-858881.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-absorbs-nearly-half-of-fy26-government-borrowing-via-omos-to-support-liquidity/articleshow/128466746.cms",
-    "time": "2026-02-17T13:40:40.000Z"
   },
   {
     "cat": "Sports",
@@ -657,33 +702,6 @@ const newsData_en = [
     "time": "2026-02-17T11:47:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Vaibhav Sooryavanshi ko absent mark kar diya hai': Principal",
-    "desc": "Teenage batting sensation Vaibhav Sooryavanshi has opted to skip his Class 10 board examinations to prioritize his burgeoning cricket career. Fresh off a stellar performance at the U-19 World Cup 2026, where he was India's leading run-scorer, Vaibhav is now set to play for Rajasthan Royals in IPL 2026.",
-    "img": "https://static.toiimg.com/photo/msid-128461351,imgsize-44392.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-suryavanshi-ko-absent-mark-kar-diya-hai-principal-on-class-10-board-exams/articleshow/128461369.cms",
-    "time": "2026-02-17T11:00:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Unsurprised’ by Associates’ T20 World Cup displays, South Africa bank on ‘experience’ for Super Eight charge",
-    "desc": "South Africa gears up for their final Group D T20 World Cup match against UAE at Arun Jaitley Stadium. Despite securing a Super Eight spot, the Proteas are not taking the game lightly. Coach Albie Morkel expressed confidence in the experienced squad, acknowledging the growing strength of associate nations and the unpredictable nature of T20 cricket.",
-    "img": "https://static.toiimg.com/photo/msid-128461011,imgsize-1315350.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/unsurprised-by-associates-t20-world-cup-displays-south-africa-bank-on-experience-for-super-eight-charge/articleshow/128460889.cms",
-    "time": "2026-02-17T10:54:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shoaib Akhtar takes 360-degree U-turn after calling Mohsin Naqvi 'illiterate'",
-    "desc": "Shoaib Akhtar's sharp criticism of PCB chief Mohsin Naqvi took a U-turn, with the former pacer claiming his remarks were misconstrued. Akhtar insisted his 'incompetent and illiterate' comments targeted broader administration issues, not Naqvi personally. He expressed frustration over the India boycott stance flip-flop, while also critiquing player selections and Pakistan's overall cricketing approach.",
-    "img": "https://static.toiimg.com/photo/msid-128460014,imgsize-1050161.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/shoaib-akhtar-takes-360-degree-u-turn-after-calling-mohsin-naqvi-illiterate/articleshow/128459665.cms",
-    "time": "2026-02-17T10:26:38.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Anirudh Ravichander launches Albuquerque Records, announces 15-year anniversary concert tour",
     "desc": "Music composer and performer Anirudh Ravichander has unveiled a new artist-owned music label, while also announcing a nationwide live tour to celebrate 15 years of his career, beginning with his first-ever Hyderabad concert in March 2026",
@@ -691,15 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/anirudh-ravichander-launches-albuquerque-records-announces-15-year-anniversary-concert-tour/article70642425.ece",
     "time": "2026-02-17T10:24:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Next time we'll put up a better show': Tariq breaks silence after defeat to India",
-    "desc": "Pakistan spinner Usman Tariq remains optimistic about the team's T20 World Cup chances despite a crushing loss to India. He believes the side has learned from mistakes and is determined to defeat Namibia to advance. Tariq also defended underperforming stars Babar Azam and Shaheen Shah Afridi, emphasizing their past contributions and the team's ultimate goal of winning the tournament.",
-    "img": "https://static.toiimg.com/photo/msid-128458535,imgsize-145572.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/next-time-well-put-up-a-better-show-usman-tariq-breaks-silence-after-humiliating-defeat-to-india/articleshow/128458589.cms",
-    "time": "2026-02-17T09:45:11.000Z"
   },
   {
     "cat": "Entertainment",
@@ -855,15 +864,6 @@ const newsData_en = [
     "time": "2026-02-15T05:56:54.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Jansen and Markram deliver as SA decimates NZ",
-    "desc": "The left-arm pacer, with a four-wicket haul, helps the Proteas restrict the Kiwis to 175 for seven; the captain then takes over with an unbeaten 86 to guide his side to its third successive win",
-    "img": "https://th-i.thgim.com/public/incoming/la4dfz/article70634481.ece/alternates/LANDSCAPE_1200/th15-lead-sa-nzG5AFJBM9K.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/south-africa-new-zealand-t20-world-cup-ahmedabad-updates-february-14-2026/article70632376.ece",
-    "time": "2026-02-15T04:21:05.000Z"
-  },
-  {
     "cat": "Business",
     "title": "What’s in store for garment exporters to the U.S.?",
     "desc": "What has the U.S. promised Bangladesh with respect to textiles? What are the conditions laid down by the U.S. to give Bangladeshi exporters unprecedented access to American markets? What is the assurance that Union Commerce Minister Piyush Goyal gave Indian textile exporters?",
@@ -871,15 +871,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/whats-in-store-for-garment-exporters-to-the-us-explained/article70633290.ece",
     "time": "2026-02-15T03:22:18.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Four new astronauts arrive at International Space Station to replace NASA's evacuated crew",
-    "desc": "Last month's medical evacuation was NASA's first in 65 years of human spaceflight; one of four astronauts launched by SpaceX last summer suffered what officials described as a serious health issue, prompting their hasty return",
-    "img": "https://th-i.thgim.com/public/incoming/jroyqj/article70633412.ece/alternates/LANDSCAPE_1200/APTOPIX_SpaceX_Crew_Launch_07199.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/four-new-astronauts-arrive-at-international-space-station-to-replace-nasas-evacuated-crew/article70633411.ece",
-    "time": "2026-02-14T21:21:59.000Z"
   },
   {
     "cat": "Tech",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/manappuram-finance-gets-rbi-approval-for-bain-capitals-bid-to-acquire-joint-control/article70632915.ece",
     "time": "2026-02-14T15:40:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Indo-U.S. trade deal will destroy India’s textile industry: Rahul",
+    "desc": "In a social media post, he said the Modi Government has neither protected the interests of cotton farmers nor that of textile exporters as a ‘visionary government’ would have negotiated a deal that protected both and ensured prosperity for both the sectors",
+    "img": "https://th-i.thgim.com/public/incoming/it7is2/article70631904.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGM2FJ8M8L.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/govt-cheating-cotton-farmers-textile-exporters-over-tariffs-in-india-us-deal-rahul-gandhi/article70631891.ece",
+    "time": "2026-02-14T12:42:09.000Z"
   }
 ];
