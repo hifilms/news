@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "ટાયર પર લખેલા R, P, J અને V અક્ષરોનો અર્થ શું છે? 90% લોકો નથી જાણતા, તેમા છુપાયેલું રહસ્ય",
+    "desc": "શું તમે પણ ટાયર સમજ્યા વિના ખરીદો છો? ટાયર પરના નાના નંબરો અને અક્ષરો સીધા તમારા વાહનની ગતિ, સલામતી અને પ્રદર્શન સાથે સંબંધિત છે. ખોટી સ્પીડ રેટિંગ અથવા કદ ધરાવતું ટાયર ઊંચી ઝડપે ખતરનાક બની શકે છે. નવું ટાયર ખરીદતા પહેલા, આ કોડ્સનો અર્થ સમજવાની ખાતરી કરો, નહીં તો એક નાની ભૂલ પણ મોંઘી સાબિત થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/what-is-the-meaning-of-the-letters-r-p-j-and-v-written-on-the-tires-people-do-not-know-the-secret-hidden-in-it-465392 ",
+    "time": "2026-02-18T09:32:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AI સમિટમાં રોબોટિક ડોગે ગલગોટિયા યુનિવર્સિટીનું નાક કપાવ્યું, સરકાર કહ્યું- &amp;#039;અહીથી જતા રહો&amp;#039;, જાણો શું છે મામલો",
+    "desc": "નવી દિલ્હીના ભારત મંડપમ ખાતે ઈન્ડિયા એઆઈ ઈમ્પેક્ટ સમિટ 2026 ચાલુ છે. છેલ્લા બે દિવસથી આ સમિટની ચર્ચા વૈશ્વિક સ્તરે છે. સમિટની શરૂઆત 16 ફેબ્રુઆરીએ થઈ હતી અને 20 ફેબ્રુઆરી સુધી ચાલશે. પરંતુ અચાનક કઈક એવું થયું કે સરકારના ભવા ચડી ગયા અને ગલગોટિયા યુનિવર્સિટીને બિસ્તરા પોટલી સંકેલી આઉટનો સંકેત આપી દીધો. જાણો સમગ્ર મામલો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/ai-impact-summit-2026-galgotias-university-under-fire-chinese-robotic-dog-row-465357 ",
+    "time": "2026-02-18T07:45:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ભારત સુપર-8માં કોની કોની સામે ટકરાશે ? આવી ગયું શેડ્યૂલ, જાણો ક્યારે છે પ્રથમ મેચ",
+    "desc": "ભારત અને નેધરલેન્ડ વચ્ચે આજે અમદાવાદમાં છેલ્લી ગ્રુપ સ્ટેજ મેચ રમાશે. ટીમ ઈન્ડિયા સુપર-8માં પહોંચી ગઈ છે. ત્યારે સુપર-8માં ભારતનો મુકાબલો કઈ ટીમો સામે થશે અને ક્યારે રમાશે પ્રથમ મેચ, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-2026-team-india-super-8-schedule-know-date-and-time-465352 ",
+    "time": "2026-02-18T07:05:17.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ચીનથી મંગાવેલા રોબોટ ડોગે કપાવ્યું નાક, ગલગોટીસ યુનિવર્સિટી પર એક્શન, જાણો",
     "desc": "ઇન્ડિયા AI ઇમ્પેક્ટ સમિટમાં ચીની રોબોટને પોતાનો હોવાનો દાવો કરવામાં આવ્યો હોવાના વિવાદ બાદ, ગલગોટીસ યુનિવર્સિટીને મોટો આદેશ આપવામાં આવ્યો છે. ભ્રામક દાવાઓ અને સોશિયલ મીડિયામાં ચાલી રહેલા હોબાળા વચ્ચે આયોજકોએ આ કડક નિર્ણય લીધો છે.",
@@ -387,15 +414,6 @@ const newsData_gu = [
     "time": "2026-02-15T18:09:23.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ઈશાનનું તોફાન, બુમરાહ-પંડ્યાનો મેજિક... ભારત સામે પાકિસ્તાન ફરી પરાસ્ત; T20 વર્લ્ડ કપમાં જીતના 5 મુખ્ય કારણો",
-    "desc": "સૂર્યકુમાર યાદવના નેતૃત્વવાળી ટીમ ઈન્ડિયાએ T20 વર્લ્ડ કપમાં પાકિસ્તાની ટીમ પર જબરદસ્ત વિજય મેળવ્યો છે. ભારતીય ટીમ હવે સુપર-8માં પ્રવેશી ચુકી છે, જ્યારે પાકિસ્તાની ટીમ માટે સમીકરણો થોડા મુશ્કેલ બની ગયા છે. ભારતીય ટીમની બોલિંગ પાકિસ્તાની બેટ્સમેનો પર કહેર બનીને તૂટી પડી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/t20-world-cup-india-vs-pakistan-ishan-kishan-storm-bumrah-hardik-magic-5-reasons-for-victory-465055 ",
-    "time": "2026-02-15T17:35:53.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "નોકરીઓ ખાઈ જશે AI ! આ નોકરીઓ સૌથી વધુ જોખમમાં, ચોંકાવનારો રિપોર્ટ આવ્યો સામે",
     "desc": "ભારતમાં ઝડપથી AIનું મહત્વ વધી રહ્યું છે, ત્યારે અનેક કંપનીઓ પોતાના સ્ટાફમાં ઘટાડો કરી રહ્યાં છે, અને AI સોફ્ટવેર તરફ કંપનીઓ ખેચાઈ રહી છે. જેના કારણે જે AIને અપનાવતા નથી તે કર્મચારીઓની નોકરી જોખમમાં મુકાઈ છે.",
@@ -430,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/huge-discounts-of-up-to-rs-2-15-lakh-are-available-on-these-maruti-suzuki-cars-check-the-offer-soon-464942 ",
     "time": "2026-02-14T12:41:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "હવે વિદેશથી ફોન ચલાવવા આપવો પડશે પાસપોર્ટ? સરકારના આ પ્લાનથી ઉડી ઠગોની ઊંઘ! જાણો શું છે મામલો",
-    "desc": "શું તમે પણ હંમેશા વિદેશ યાત્રા કરો છો કે તમારા ઘરનું કોઈ સભ્ય બીજા દેશમાં રહે છે? જો હાં તો આ સમાચાર તમારા માટે જરૂરી છે. સરકારે સાયબર ઠગોની કમર તોડવા માટે જોરદાર પ્લાન બનાવ્યો છે. હવે પાસપોર્ટ વગર આંતરરાષ્ટ્રીય રોમિંગ મળવાનું લગભગ અશક્ય થઈ જશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/cbi-and-i4c-recommendation-biometric-kyc-for-bank-accounts-464920 ",
-    "time": "2026-02-14T11:46:32.000Z"
   },
   {
     "cat": "Entertainment",
@@ -601,14 +610,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/hyundai-has-reduced-the-price-of-this-car-to-rs-5-99-lakh-you-will-get-6-airbags-sunroof-everything-464066 ",
     "time": "2026-02-05T14:40:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "VIDEO શેર કરીને Google ગ્રાહકોને આપ્યું સરપ્રાઈઝ! હવે આ દિવસે લોન્ચ થશે AI-પાવર્ડ Pixel 10a, મળશે દમદાર ફીચર્સ",
-    "desc": "ગુગલે ચૂપચાપથી એક મોટો દાવ ખેલી નાખ્યો છે. 18 ફેબ્રુઆરીએ લોન્ચ થનાર Pixel 10a, સસ્તા ભાવે શક્તિશાળી AI સુવિધાઓ લાવશે. ફ્લેટ કેમેરા ડિઝાઇન અને જેમિની AI સપોર્ટ સાથે આ ફોન મિડ-રેન્જ સેગમેન્ટમાં ખળભળાટ મચાવવા તૈયાર છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/googles-big-surprise-the-ai-powered-pixel-10a-will-launch-on-this-date-and-it-will-come-with-these-amazing-features-464034 ",
-    "time": "2026-02-05T10:06:40.000Z"
   }
 ];

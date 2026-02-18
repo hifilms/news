@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "গার্লফ্রেন্ডকে মেরে মৃতদেহকে ধর্ষণ...সামনে আসার পরেও ঠোঁটের কোণে হাল্কা হাসি MBA ছাত্রের",
+    "desc": "তদন্তকারীরা জানাচ্ছেন, সেদিন ওই ঘরের ভিতরে যা ঘটেছিল তা আগে থেকেই প্ল্যান করা ছিল৷ পুলিশ সূত্রে জানা গেছে, ধামনোটিয়া প্রথমে ছাত্রীটিকে যৌন সম্পর্ক তৈরির জন্য চাপ দেয়। ধমনোটিয়া মেয়েটির মুখে কাপড় ঢুকিয়ে তার বুকের উপর চড়ে বসে৷ এরপরে, যতক্ষণ না সে জ্ঞান হারাচ্ছে ততক্ষণ সে মেয়েটির বুকের উপরে বসে থাকে৷ মেয়েটির শ্বাস বন্ধ হয়ে গেছে বুঝতে পারার পরে, ধমনোটিয়া মেয়েটির বুকে গায়ের জোরে ছুরি বসিয়ে দেয়৷ এত জোরে সে ছুরি বসয়েছিল ছিল যে অভিঘাতে ছুরিটাই ভেঙে যায়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Indore-Incident-1-2026-02-8b919b0760b207287378ffd393b7498a-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/indore-murder-case-update-piyush-dhamanodia-shows-no-remorse-smiles-after-raping-girlfriend-s-corpse-sta-2546403.html",
+    "time": "2026-02-18T09:41:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'রাজপালের স্ত্রী কেঁদে কেঁদে মেসেজ লিখে পাঠাত', ৯ কোটির ঋণ মামলায় অবশেষে মুখ খুললেন সেই ব্যবসায়ী! মারাত্মক অভিযোগ",
+    "desc": "৯ কোটি টাকার চেক বাউন্স মামলায়, অন্তর্বর্তীকালীন জামিন পাওয়ার পর, মঙ্গলবার তিহার জেল থেকে মুক্তি পেলেন বলিউড অভিনেতা রাজপাল যাদব। দিল্লি হাইকোর্ট তাঁর জামিন মঞ্জুর করেছে এবং মামলার পরবর্তী শুনানির দিন ধার্য হয়েছে ১৮ মার্চ।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Rajlap-Yadav-Businessman-2026-02-f348ffdc9a4825c318a8e5b074b2efdb-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/rajpal-yadav-case-update-businessman-who-filed-complaint-finally-breaks-silence-rc-2546223.html",
+    "time": "2026-02-18T08:27:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "আরও এক ভোট ঘোষণা কমিশনের, বিধানসভা নির্বাচনের আগেই! কোন ভোট? কী রয়েছে তার নির্ঘণ্টে? বাংলায়...",
+    "desc": "রাজ্যসভার সাংসদ পদে মেয়াদ শেষ হচ্ছে তৃণমূলের সাকেত গোখলে, ঋতব্রত বন্দ্যোপাধ্যায় এবং সুব্রত বক্সীর। মৌসম বেনজির নুর তৃণমূল ছাড়ার পরে গত ৫ জানুয়ারি রাজ্যসভার সাংসদ পদ থেকে ইস্তফা দেন। তাঁর আসনও খালি। বামফ্রন্টের বিকাশরঞ্জন ভট্টাচার্যের আসনও খালি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/elections-for-37-rajya-sabha-seats-across-10-states-on-march-16-poll-panel-biennial-polls-to-37-rajya-sabha-seats-in-march_641786.html ",
+    "time": "2026-02-18T07:30:00.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "পাকিস্তানের সঙ্গে সম্পর্ক তলানিতে, এবার কি বড় খেসারত দিতে হবে ভারতকে, বিশ্বকাপ ছিনিয়ে নেওয়া হবে ভারতের থেকে",
     "desc": "অস্ট্রেলিয়ান সংবাদপত্র \"দ্য এজ\"-এর একটি প্রতিবেদন অনুসারে, ভারত ও পাকিস্তান একে অপরের দেশে খেলতে অস্বীকার করে৷ এর ফলে উদ্ভূত লজিস্টিকাল সমস্যা এড়াতে আইসিসি ২০২৯ সালের চ্যাম্পিয়ন্স ট্রফি এবং ২০৩১ সালের ওয়ানডে বিশ্বকাপ ভারতের বাইরে সরিয়ে নেওয়ার কথা ভাবনা চিন্তা করছে৷",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/parliament-deadlock-continues-in-the-second-week-of-the-budget-session-opposition-submits-no-confidence-notice-against-speaker-om-birla-in-lok-sabha-tib-ws-l-2533957.html",
     "time": "2026-02-10T10:18:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "মায়ের হাত ধরে অভিনয়ে পা, বাংলার 'চারুলতা' আজও সিনেমাপ্রেমীদের চোখের মণি! জন্মদিনে ফিরে দেখা মাধবী মুখোপাধ্যায়ের প্রেমজীবন",
-    "desc": "মাধবীর জন্ম তাঁর দিদিমার বাড়িতে। মা একা হাতে মানুষ করেছিলেন মাধবী ও তাঁর দিদিকে৷ বাবার সঙ্গে তাঁদের দূরত্ব ছিল৷ কারণ বাবার সঙ্গে মায়ের বনিবনা হত না, তাই তাঁরা আলাদা থাকতেন৷ এমনকী তাঁর বাবা আবার পরে বিয়েও করেছিলেন৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Web-2026-02-10T153818.392-2026-02-12d8dfe8a3a6caa2a37e1da52320ebf8-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/bengali-evergreen-actress-madhabi-mukherjee-birthday-celebrates-85th-years-pbd-2533534.html",
-    "time": "2026-02-10T10:09:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ওম বিড়লার বিরুদ্ধে 'অনাস্থার' পথে কংগ্রেস, 'সই করতে তৈরি আমরা, কিন্তু', তৃণমূলের অবস্থান স্পষ্ট করলেন অভিষেক!",
-    "desc": "অনাস্থা নিয়ে বিরোধী ইন্ডিয়া জোটের সিদ্ধান্তে নিজেদের অবস্থান স্পষ্ট করলেন লোকসভায় শরিক তৃণমূলের দলনেতা অভিষেক বন্দ্যোপাধ্যায়। অভিষেক বন্দ্যোপাধ্যায় জানান, স্পিকারের বিরুদ্ধে অনাস্থা প্রস্তাবে সই করতে তৃণমূলের কোনও আপত্তি বা অসুবিধা নেই। তবে তার আগে চিঠি দিয়ে স্পিকারের অবস্থান বুঝতে চায় তৃণমূল।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/loksoabha-2026-02-9414b7a55537bacca63b92b6613e892e-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/om-birla-loksabha-congress-on-the-verge-of-no-confidence-against-speaker-om-birla-we-are-ready-to-sign-but-abhishek-clarified-the-trinamools-position-sanj-2533714.html",
-    "time": "2026-02-10T08:35:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ভারত ভেনেজুয়েলায় প্রথম বড় তেলের অর্ডার দিয়েছে, কিন্তু কতটা সস্তা পড়ল? তৃতীয় পক্ষের মাধ্যমে লেনদেনের ভিতরের গল্পটি জানুন",
-    "desc": "রয়টার্সের এক প্রতিবেদন অনুসারে, চুক্তিটি ট্রেডিং ফার্ম ট্রাফিগুরার মাধ্যমে সম্পন্ন হয়েছে। মোট ২০ লক্ষ ব্যারেল অপরিশোধিত তেলের মধ্যে আইওসি ১.৫ লক্ষ ব্যারেল এবং এইচপিসিএল ৫ লক্ষ ব্যারেল কিনেছে। এই প্রথমবারের মতো এইচপিসিএল ভেনেজুয়েলা থেকে অপরিশোধিত তেল কিনছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Venezuela-Oil-2026-02-36938caa3e3911b30f043ed95aca114a-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/india-purchase-venezuela-oil-after-india-usa-trade-deal-but-in-what-price-ss-aa-2533343.html",
-    "time": "2026-02-10T06:28:15.000Z"
   }
 ];

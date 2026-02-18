@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ishan Kishan storms into top 10 in latest ICC rankings after match-winning knock vs Pakistan in T20 WC",
+    "desc": "India opener Ishan Kishan has stormed into the top 10 in the latest ICC rankings after a match-winning knock of 77 runs off 40 deliveries in the ongoing T20 World Cup. He has jumped to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-storms-into-top-10-in-latest-icc-rankings-after-match-winning-knock-vs-pakistan-in-t20-world-cup-2026-2026-02-18-1030765",
+    "time": "2026-02-18T08:42:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ishan Kishan's mother reacts to cricketer's marriage with Aditi Hundia, 'old people are always...'",
+    "desc": "India cricketer Ishan Kishan is in the headlines not only for her heroics on the field but off it too. Ahead of the game against Pakistan, Kishan's grandfather opened up on the cricketer's marriage while...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-s-mother-reacts-to-cricketer-s-marriage-with-aditi-hundia-old-people-are-always-2026-02-18-1030753",
+    "time": "2026-02-18T07:38:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Talking about PSL': Shadab Khan trolled for 'We will play the final' comment ahead of Namibia clash",
+    "desc": "Pakistan all-rounder Shadab Khan has come under the scanner on social media for his 'We will play the final' comment that has gone viral now. It is unclear if his statement came before the match...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/talking-about-psl-shadab-khan-trolled-for-we-will-play-the-final-comment-ahead-of-namibia-clash-2026-02-18-1030750",
+    "time": "2026-02-18T06:58:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jammu and Kashmir creates history, qualify for maiden Ranji Trophy final beating Bengal",
     "desc": "The Jammu and Kashmir cricket team has created history, qualifying for the Ranji Trophy final for the first time. They defeated a star-studded Bengal side in the semifinal as they chased down the target of...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mohammed-shami-grabs-career-best-eight-for-jk-on-cusp-of-historic-ranji-trophy-final-2026-02-17-1030688",
     "time": "2026-02-17T17:07:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will India rest Jasprit Bumrah for their T20 World Cup clash against Netherlands? Coach opens up",
-    "desc": "With their place in the T20 World Cup Super Eight stage already confirmed, India now have the luxury to rest some of their players for their dead-rubber against the Netherlands on February 18. They could...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-india-rest-jasprit-bumrah-for-their-t20-world-cup-clash-against-netherlands-coach-opens-up-2026-02-17-1030678",
-    "time": "2026-02-17T15:25:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cricket Australia planning to host one BBL match in India, Chennai to be likely venue: Report",
-    "desc": "Cricket Australia (CA) is reportedly exploring the possibility of staging a Big Bash League (BBL) match in India next season as part of a strategic push to tap into India's lucrative cricket market. According to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cricket-australia-planning-to-host-one-bbl-match-in-india-chennai-to-be-likely-venue-report-2026-02-17-1030671",
-    "time": "2026-02-17T14:13:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nepal beat Scotland for rare win in tournament",
-    "desc": "Nepal signed off their ICC Men's T20 World Cup 2026 campaign on a high with a spirited victory over Scotland, securing a rare and morale-boosting win in the tournament. In what was a dead rubber...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sco-vs-nep-t20-world-cup-2026-live-cricket-score-scotland-vs-nepal-wankhede-stadium-mumbai-latest-match-updates-scorecard-teams-playing-xis-2026-02-17-1030667",
-    "time": "2026-02-17T13:36:47.000Z"
   }
 ];
