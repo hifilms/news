@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Umpire Manik Gupta dies following massive bee attack during Under-13 cricket match",
+    "desc": "A wave of mourning has swept through the cricketing community following a freak and tragic accident in Unnao’s Shuklaganj. On Wednesday, a veteran umpire from the Kanpur Cricket Association (KCA), Manik Gupta, lost his life...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/tragedy-in-unnao-umpire-manik-gupta-dies-following-massive-bee-attack-during-under-13-cricket-match-2026-02-19-1030947",
+    "time": "2026-02-19T14:37:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Know everything about controversy",
+    "desc": "Pakistan Hockey Federation (PHF) president Tariq Bugti resigned from his position, but not before banning the national team's captain, Ammad Butt, following the hotel payment fiasco. For the unversed, the Pakistan squad was left stranded...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/hockey/pakistan-hockey-chief-resigns-after-banning-captain-for-2-years-know-everything-about-controversy-2026-02-19-1030945",
+    "time": "2026-02-19T14:19:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Zimbabwe top group B with thrilling win over Sri Lanka in T20 World Cup, to face India on Feb 26",
+    "desc": "Zimbabwe's perfect T20 World Cup performance continued today as well, as they chased down 179 runs to beat Sri Lanka by six wickets in their final group stage game of the T20 World Cup. With...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/zimbabwe-top-group-b-with-thrilling-win-over-sri-lanka-in-t20-world-cup-to-face-india-on-feb-26-2026-02-19-1030935",
+    "time": "2026-02-19T12:58:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Italy bow out of T20 World Cup with better six-hitting show that Pakistan and Australia",
     "desc": "Italy lost to the West Indies today in their final group stage game as they couldn't chase down the target of 166 runs. They featured in the T20 World Cup for the first time and...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/vinicius-jr-endured-20-racism-allegations-in-eight-years-but-uefa-yet-to-give-him-justice-2026-02-19-1030870",
     "time": "2026-02-19T05:16:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arsenal activate SOS mode after 2-2 draw vs Wolves, Premier League shapes for dramatic end",
-    "desc": "Arsenal were the hot favourites to win the Premier League 2025-26 season. Once enjoying a nine-point lead at the top of the table, their advantage has now shrunk to five, following a 2-2 draw against...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/arsenal-activate-sos-mode-after-2-2-draw-vs-wolves-premier-league-shapes-for-dramatic-end-2026-02-19-1030861",
-    "time": "2026-02-19T04:09:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rashid Khan pays tribute to Jonathan Trott ahead of his final game as Afghanistan coach",
-    "desc": "Jonathan Trott had a massive influence on Afghanistan cricket as the former England international transformed the side from perennial underdogs into genuine contenders. In the 2023 ODI World Cup, the Rashid Khan-led side missed the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rashid-khan-pays-tribute-to-jonathan-trott-ahead-of-his-final-game-as-afghanistan-coach-2026-02-19-1030851",
-    "time": "2026-02-19T02:47:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "12 teams earn direct qualification for T20 World Cup 2028, ICC announces",
-    "desc": "As the Super Eights of the T20 World Cup 2026 are finalised, the International Cricket Council (ICC) has confirmed the direct qualifiers for the next edition. As co-hosts, Australia and New Zealand were guaranteed for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/12-teams-earn-direct-qualification-for-t20-world-cup-2028-icc-announces-2026-02-19-1030848",
-    "time": "2026-02-19T01:48:22.000Z"
   }
 ];
