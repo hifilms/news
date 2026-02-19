@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Italy bow out of T20 World Cup with better six-hitting show that Pakistan and Australia",
+    "desc": "Italy lost to the West Indies today in their final group stage game as they couldn't chase down the target of 166 runs. They featured in the T20 World Cup for the first time and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/italy-bow-out-of-t20-world-cup-with-better-six-hitting-show-that-pakistan-and-australia-2026-02-19-1030927",
+    "time": "2026-02-19T11:49:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sunil Gavaskar predicts one surprising change in India's playing XI for T20 WC Super 8 clash vs South Africa",
+    "desc": "India defeated the Netherlands by 17 runs to end the group stage of the T20 World Cup 2026 on a high. They will now face South Africa in their opening Super 8 clash at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sunil-gavaskar-predicts-one-surprising-change-in-india-s-playing-xi-for-t20-wc-super-8-clash-vs-south-africa-2026-02-19-1030923",
+    "time": "2026-02-19T11:06:44.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India enter Super Eights with plenty of batting issues, team remains calm ahead of South Africa clash",
     "desc": "Four wins in four matches might suggest that everything is going well in the Indian team. However, someone who had a closer look would understand the underlying issues that need to be sorted before the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/12-teams-earn-direct-qualification-for-t20-world-cup-2028-icc-announces-2026-02-19-1030848",
     "time": "2026-02-19T01:48:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shadab Khan plays whataboutery card, shuts down Mohammad Yousuf with ‘they have never defeated India'",
-    "desc": "After a convincing 102-run win over Namibia in their final T20 World Cup 2026 clash, Pakistan all-rounder Shadab Khan hit back at Mohammad Yousuf, after the former cricketer expressed his disappointment with the team’s poor...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shadab-khan-plays-whataboutery-card-shuts-down-mohammad-yousuf-with-they-have-never-defeated-india-2026-02-19-1030845",
-    "time": "2026-02-19T01:05:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's schedule for T20 World Cup 2026 Super Eight stage: When will defending champions be in action next?",
-    "desc": "India defeated the Netherlands in their last league stage match of the T20 World Cup 2026 to enter the Super Eight stage unbeaten. The defending champions handed the Dutch a 17-run defeat in their clash...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/indias-schedule-for-t20-world-cup-2026-super-eight-stage-when-will-defending-champions-be-in-action-next-2026-02-18-1030840",
-    "time": "2026-02-18T18:21:48.000Z"
   }
 ];

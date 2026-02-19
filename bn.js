@@ -1,12 +1,30 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
-    "title": "ভেন্টিলেটর সাপোর্টে সেলিম খান, মস্তিষ্কে রক্তক্ষরণ, এখন ICU-তে রয়েছেন সলমনের বাবা, চিকিৎসক বললেন...",
-    "desc": "বলিউডের বিখ্যাত চিত্রনাট্যকার সেলিম খানকে নিয়ে ভক্তদের উদ্বেগ ক্রমশ বাড়ছে৷ মুম্বইয়ের লীলাবতী হাসপাতালে সেলিম খান ভর্তি হওয়ার একদিন পর, প্রবীণ চিত্রনাট্যকারের চিকিৎসা করা একজন ডাক্তার নিশ্চিত করেছেন যে তার মস্তিষ্কে সামান্য রক্তক্ষরণ হয়েছে। জানা গেছে, সলমন খানের বাবা এখন ভেন্টিলেটর সাপোর্টে আছেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Salim-khan-2026-02-ca98b4564f0223e7a910f05f8dee3cbb-3x2.jpg",
+    "title": "লর্ডসের ব্যালকনিতে জার্সি ওড়াবেন রাজকুমার! মার্চেই শুরু সৌরভের বায়োপিকের শ্যুটিং...",
+    "desc": "ভারতীয় ক্রিকেটের ‘মহারাজ’ সৌরভ গঙ্গোপাধ্যায়ের বায়োপিক নিয়ে দীর্ঘ প্রতীক্ষার অবসান হতে চলেছে। বড় পর্দায় ‘দাদা’-র চরিত্রে অভিনয়ের জন্য নিজেকে তৈরি করছেন বলিউড অভিনেতা রাজকুমার রাও। শীঘ্রই লর্ডসের ঐতিহাসিক ব্যালকনি থেকে ইডেন গার্ডেন্সের সবুজ গালিচায় ফুটে উঠবে সৌরভের ক্রিকেট জীবনের মহাকাব্য।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/rajkummar-rao-sourav-ganguly-biopic-shooting-starts-march-lords-eden-gardens_641938.html ",
+    "time": "2026-02-19T11:58:54.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "যৌন কেলেঙ্কারিতে নাম, এপস্টিন যোগে গ্রেফতার ব্রিটেনের রাজার ভাই প্রিন্স অ্যান্ড্রু",
+    "desc": "ব্রিটিশ রাজপরিবারে ফের বিতর্কের ঝড় উঠেছে। অসদাচরণের অভিযোগে জিজ্ঞাসাবাদের জন্য প্রিন্স অ্যান্ড্রু-কে আটক করা হয়েছে বলে জানা যাচ্ছে। প্রয়াত ধনকুবের জেফ্রি এপস্টিন-এর সঙ্গে তাঁর সম্পর্ক ঘিরে চলা তদন্তের সূত্র ধরেই এই পদক্ষেপ নেওয়া হয়েছে বলে মনে করা হচ্ছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/King-Charles-Brother-Andrew-2026-02-dd039726101970ae1def744e15db29bc-3x2.jpg",
     "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/salman-khan-s-father-salim-khan-suffered-a-minor-brain-haemorrhage-is-on-ventilator-rds-2547988.html",
-    "time": "2026-02-19T09:11:43.000Z"
+    "url": "https://bengali.news18.com/news/international/prince-andrew-arrest-epstein-links-misconduct-probe-uk-royal-news-sal-2548191.html",
+    "time": "2026-02-19T11:45:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "বনগাঁর জল গড়িয়েছে বহুদূর! তনয়কে ২ কোটির নোটিশ মিমির, পাল্টা ২২ লক্ষ ‘ক্ষতিপূরণ’ দাবি জ্যোতিষীর...",
+    "desc": "বনগাঁর সেই বিতর্কিত অনুষ্ঠানকে কেন্দ্র করে অভিনেত্রী মিমি চক্রবর্তী এবং উদ্যোক্তা তনয় শাস্ত্রীর আইনি লড়াই এবার কার্যত 'কোটি টাকার' লড়াইয়ে রূপ নিল। দু-পক্ষের পাল্টাপাল্টি নোটিশ এবং বিশাল অঙ্কের ক্ষতিপূরণ দাবির ফলে বিষয়টি এখন আদালতের বিচারাধীন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/mimi-chakraborty-2-crore-legal-notice-tanay-sastri-bongaon-controversy_641934.html ",
+    "time": "2026-02-19T10:41:23.000Z"
   },
   {
     "cat": "Politics",
@@ -558,15 +576,6 @@ const newsData_bn = [
     "time": "2026-02-13T15:55:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "আধুনিক খেলনার যুগেও প্রাণ পাচ্ছে মাটির পুতুল! শিল্পকে বাঁচানোর অনন্য সাধারণ লড়াইয়ে সাধন কুমার পালের...",
-    "desc": "আধুনিক খেলনার যুগে কোথাও হারিয়ে গিয়েছে মাটির পুতুলের চর্চা। মাটির পুতুল শুধুমাত্র খেলনা নয়, এটি হল বাংলা সংস্কৃতির এক বড় ও বিশেষ অংশ। ঐতিহ্যের লোকশিল্পকে পুনরুজ্জীবন ও সম্প্রীতির এই অনন্য অবদানের জন্য জি ২৪ ঘণ্টা অনন্য সম্মান ১৪৩২-য়ে অনন্য সাধারণ বিভাগে সম্মানিত শ্রী সাধন কুমার পাল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/ananya-samman-2026-is-awarded-to-clay-artist-sadhan-kumar-pal_641176.html ",
-    "time": "2026-02-13T15:54:46.000Z"
-  },
-  {
     "cat": "World",
     "title": "বাংলাদেশে বিএনপি ঝড়, কত আসন পেল তারেক রহমানের দল? দেখুন ভিডিও",
     "desc": "বাংলাদেশের সাধারণ নির্বাচনে বিএনপি জোটের জয়জয়কার৷ ২৯৯টির মধ্যে বিএনপি জোট একাই দখল করেছে ২১২টি আসন৷ প্রধান বিরোধীপক্ষ হিসেবে উঠে এসেছে জামাত-ই-ইসলামি৷ জামাত জোট জয়ী হয়েছে ৭৭টি আসনে৷ বাংলাদেশের নতুন প্রধানমন্ত্রী হতে চলেছেন খালেদা জিয়ার পুত্র তারেক রহমান৷ তারেকের প্রত্যাবর্তনই বিএনপি-কে বিপুল সংখ্যাগরিষ্ঠতা নিয়ে ক্ষমতায় ফিরতে সাহায্য করল বলে মনে করছেন রাজনৈতিক বিশ্লেষকরা৷",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/middle-class-cannot-become-rich-due-to-this-5-small-but-significant-mistake-clearly-explains-investor-warren-buffett-pbd-2535200.html",
     "time": "2026-02-11T10:12:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘আমি সেই ভারতের নাগরিক…’ লোকসভায় অভিষেকের মুখে বীর দাসের কবিতা, ‘টু ইন্ডিয়া’ নিয়ে অভিষেকের বক্তব্যের ক্লিপিংস পোস্ট বীরের",
-    "desc": "একই ভারতের দুই রূপের কথা শুনিয়ে ৫ বছর আগে গেরুয়া শিবিরের রোষানলে পড়েছিলেন স্ট্যান্ড-আপ কমেডিয়ান তথা অভিনেতা-পরিচালক বীর দাস। তাঁর সেই ‘টু-ইন্ডিয়া’-এর কথাই নতুন মোড়কে সংসদে পেশ করে মঙ্গলবার বিজেপি ও মোদি সরকারকে তুলোধোনা করেছেন লোকসভায় তৃণমূলের দলনেতা অভিষেক বন্দ্যোপাধ্যায়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Abhishek-Banerjee-and-Vir-Das-2026-02-cb43c251b639be35bb0c65f3e754f0f8-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/abhishek-banerjee-on-vir-das-beauty-of-two-indias-in-one-a-comedian-is-questioned-for-talking-about-the-two-india-divide-ss-2535251.html",
-    "time": "2026-02-11T09:11:37.000Z"
   }
 ];
