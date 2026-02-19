@@ -1,7 +1,133 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Infiltration bid foiled, terror module busted in Jammu",
+    "title": "1st time after Manipur violence, CM gets Kukis and Meiteis on 1 platform",
+    "desc": "Manipur's Chief Minister virtually addressed displaced Meitei and Kuki-Zo families, offering cash relief and urging trust rebuilding. This marks the first joint outreach since ethnic violence erupted. While resettlement efforts are underway, mistrust persists, with displaced individuals sharing concerns about jobs, education, and healthcare access. The CM pledged support for students and security for patients.",
+    "img": "https://static.toiimg.com/photo/msid-128577288,imgsize-168094.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/1st-time-after-manipur-violence-cm-gets-kukis-and-meiteis-on-1-platform/articleshow/128577293.cms",
+    "time": "2026-02-19T21:21:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Thyroid, infection drugs get fresh safety warnings after national review",
+    "desc": "Two widely used medications, doxycycline and carbimazole, are set to receive stronger safety warnings. Regulators have identified potential mental health side effects for doxycycline and a rare but serious blood disorder linked to carbimazole. This proactive step aims to enhance patient safety by ensuring clearer information for both doctors and patients regarding these important, albeit uncommon, adverse reactions.",
+    "img": "https://static.toiimg.com/photo/msid-128577130,imgsize-12810.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/thyroid-infection-drugs-get-fresh-safety-warnings-after-national-review/articleshow/128577149.cms",
+    "time": "2026-02-19T21:14:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bill Gates skips AI Impact Summit amid Epstein scrutiny",
+    "desc": "Bill Gates has withdrawn from his scheduled keynote at the AI Impact Summit 2026, with the Gates Foundation citing a desire to keep focus on the summit's priorities. The decision follows renewed scrutiny of Gates' past association with Jeffrey Epstein, which had led to questions in India about his attendance. Ankur Vora will deliver the keynote in his stead.",
+    "img": "https://static.toiimg.com/photo/msid-128576770,imgsize-899071.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bill-gates-skips-summit-amid-epstein-scrutiny/articleshow/128576777.cms",
+    "time": "2026-02-19T20:58:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Altman vs Amodei rivalry now on stage",
+    "desc": "At the AI Impact Summit, a moment of tension arose when AI rivals Sam Altman of OpenAI and Dario Amodei of Anthropic stood with arms crossed during a group photo, eschewing hand-holding. This visual cue highlighted their intensifying competition and recent public disagreements over advertising strategies.",
+    "img": "https://static.toiimg.com/photo/msid-128576615,imgsize-212810.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ai-misalignment-altman-vs-amodei-rivalry-now-on-stage/articleshow/128576618.cms",
+    "time": "2026-02-19T20:52:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amodei red-flags autonomous weapons &amp; mass surveillance",
+    "desc": "Anthropic CEO Dario Amodei voiced concerns over autonomous weapons and mass surveillance, emphasizing AI's compatibility with democracy. He also highlighted India's potential for significant economic growth, projecting 20-25% driven by AI productivity gains, and noted Anthropic's efforts to enhance its models for Indic languages.",
+    "img": "https://static.toiimg.com/photo/msid-128576516,imgsize-25486.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/amodei-red-flags-autonomous-weapons-mass-surveillance/articleshow/128576530.cms",
+    "time": "2026-02-19T20:48:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AI must go beyond English, solve real problems",
+    "desc": "India championed AI for multilingualism and societal benefit, securing tech giants' adoption of the 'New Delhi Frontier AI Impact Commitments'. This voluntary framework aims to extend AI's advantages to developing nations and the Global South, emphasizing real-world applications and inclusive, culturally sensitive development.",
+    "img": "https://static.toiimg.com/photo/msid-128576431,imgsize-36350.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/delhi-pitch-ai-must-go-beyond-english-solve-real-problems/articleshow/128576416.cms",
+    "time": "2026-02-19T20:44:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhurandhar wraps up historic run as one of India’s biggest hits",
+    "desc": "Seventy-five days after its December 5, 2025 release, Dhurandhar continues to dominate the conversation — and the box office. The Ranveer Singh-led action drama completed a historic theatrical run on February 17, underlining its rare staying power in a post-pandemic market known for sharp weekend spikes and swift drop-offs.",
+    "img": "https://static.toiimg.com/photo/msid-128575799,imgsize-210648.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singhs-dhurandhar-wraps-up-historic-run-as-one-of-indias-biggest-hits-shatters-major-box-office-records-in-75-days/articleshow/128575689.cms",
+    "time": "2026-02-19T20:18:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Certainty of enforcement, not just awareness, crucial to road safety push: Road transport secretary",
+    "desc": "Strict enforcement, not just awareness, is crucial for curbing road accidents and rule violations, stated Union road transport secretary V Umashankar. He highlighted that certainty of enforcement, coupled with organized district-level action and strong institutions, will foster compliance and accountability.",
+    "img": "https://static.toiimg.com/photo/msid-128575122,imgsize-17756.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/certainty-of-enforcement-not-just-awareness-crucial-to-road-safety-push/articleshow/128575143.cms",
+    "time": "2026-02-19T19:51:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Indian Navy likely to commission third indigenous N-powered submarine by April-May",
+    "desc": "India's sea-based nuclear deterrent is set to be significantly bolstered with the upcoming commissioning of INS Aridhaman, the third indigenous Arihant-class nuclear-powered ballistic missile submarine. This larger vessel, capable of carrying long-range K-4 missiles, will enhance India's \"second-strike\" capability and move it closer to achieving continuous at-sea deterrence.",
+    "img": "https://static.toiimg.com/photo/msid-128574950,imgsize-6748.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/indian-navy-likely-to-commission-third-indigenous-n-powered-submarine-by-this-summer/articleshow/128574957.cms",
+    "time": "2026-02-19T19:43:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rafale to make India stronger, willing to increase its indigenous content; ready to sell more submarines: Macron",
+    "desc": "French President Emmanuel Macron affirmed that Rafale jets will bolster India's military might and expressed commitment to increasing indigenous content in 'made-in-India Rafale' aircraft. He highlighted the expansion of defense cooperation, including potential joint production of fighter jets and helicopters, and expressed hope for further submarine tie-ups, underscoring the unique strategic partnership between the two nations.",
+    "img": "https://static.toiimg.com/photo/msid-128574866,imgsize-38902.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rafale-to-make-india-stronger-willing-to-increase-its-indigenous-content-ready-to-sell-more-submarines-macron/articleshow/128574875.cms",
+    "time": "2026-02-19T19:40:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "DRDO conducts successful qualification test for Gaganyaan drogue parachute",
+    "desc": "India's Gaganyaan program received a significant boost with the successful qualification level load test of its drogue parachute at DRDO's RTRS facility. This dynamic test, simulating loads higher than maximum flight conditions, demonstrated India's capability in designing and manufacturing high-strength ribbon parachutes, marking a crucial step towards self-reliance in human spaceflight.",
+    "img": "https://static.toiimg.com/photo/msid-128574748,imgsize-35442.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/drdo-conducts-successful-qualification-test-for-gaganyaan-drogue-parachute/articleshow/128574751.cms",
+    "time": "2026-02-19T19:36:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shashi Tharoor calls The Kerala Story ‘hate-mongering’",
+    "desc": "Senior Congress MP Shashi Tharoor on Thursday criticised the makers of The Kerala Story 2 – Goes Beyond, alleging that the sequel — like its predecessor — promotes divisive narratives without factual basis and risks spreading hatred in society. Responding to the controversy, producer Vipul Amrutlal Shah defended the sequel and questioned why films are blamed for disturbing harmony when real-life cases do not trigger similar outrage.",
+    "img": "https://static.toiimg.com/photo/msid-128573620,imgsize-43962.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shashi-tharoor-calls-the-kerala-story-a-hate-mongering-film-producer-vipul-amrutlal-shah-says-ironic-to-blame-cinema-for-social-unrest/articleshow/128573489.cms",
+    "time": "2026-02-19T19:03:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Flooding shuts down Baglihar hydropower project in J&amp;K",
+    "desc": "Operations at the Baglihar hydropower project's stage 1 in Jammu and Kashmir were halted due to flooding in the machine room. While stage 1 remains suspended for scheduled maintenance, stage 2, unaffected by the flooding, will continue to generate power. This allows for stage 2 to operate during the lean period when it would typically be closed.",
+    "img": "https://static.toiimg.com/photo/msid-128571674,imgsize-134736.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/flooding-shuts-down-baglihar-hydropower-project-in-jk/articleshow/128571699.cms",
+    "time": "2026-02-19T18:40:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rashmika–Vijay wedding: Rakshit Shetty's friend Pramod reacts",
+    "desc": "As reports suggest that Rashmika Mandanna and Vijay Deverakonda are set to tie the knot on February 26, 2026, the actress’ former co-star Pramod Shetty has reacted to the wedding buzz, revealing whether he has received an invitation.",
+    "img": "https://static.toiimg.com/photo/msid-128572659,imgsize-60366.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandannavijay-deverakonda-wedding-rakshit-shettys-friend-pramod-shetty-says-we-know-she-wont-invite-us/articleshow/128572593.cms",
+    "time": "2026-02-19T18:35:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Infiltration bid foiled, terror module busted in Rajouri",
     "desc": "Troops thwarted an infiltration attempt along the LoC in Jammu's Sunderbani sector. In a separate operation in Nowshera, a terror module was busted, leading to the arrest of a suspected associate and the seizure of a significant arms cache, dismantling a trans-border weapons racket.",
     "img": "https://static.toiimg.com/photo/msid-128571915,imgsize-83524.cms",
     "src": "indiatimes.com",
@@ -55,15 +181,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Amit Shah to launch Vibrant Villages Programme Phase II in Assam",
-    "desc": "Home Minister Amit Shah will launch Phase 2 of the Vibrant Villages Programme in Assam, a Rs 6,839 crore initiative to develop 1,954 villages along international borders. This project aims to foster inclusive development, curb outmigration, and integrate border populations with national security efforts.",
-    "img": "https://static.toiimg.com/photo/msid-128568893,imgsize-951821.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/amit-shah-to-launch-vibrant-villages-programme-phase-ii-in-assam/articleshow/128568822.cms",
-    "time": "2026-02-19T16:58:31.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Anil Ambani assures Supreme Court he has no plans or intention to leave the country",
     "desc": "Anil Ambani files affidavit saying he will appear before ED on February 26 and fully cooperate with the probe into an alleged bank fraud case, will not leave India without prior permission from the court",
     "img": "https://th-i.thgim.com/public/incoming/xxlgt1/article70653285.ece/alternates/LANDSCAPE_1200/TH06-Devesh-ED-GFKF4M327.3.jpg.jpg",
@@ -88,15 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-keep-our-sights-forward-giant-killer-zimbabwe-send-warning-after-taking-down-sri-lanka-and-australia/articleshow/128566071.cms",
     "time": "2026-02-19T15:56:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why Shivaji Maharaj–Tipu Sultan comparison sparked row",
-    "desc": "In Maharashtra, Shivaji Maharaj occupies an almost sacred position across ideological lines, but particularly within the political vocabulary of the Bharatiya Janata Party (BJP) and Shiv Sena. The Maratha ruler is frequently invoked as a symbol of indigenous sovereignty, martial pride and cultural assertion. References to Hindavi Swarajya resonate strongly with narratives centred on civilisational identity and self-determination.",
-    "img": "https://static.toiimg.com/photo/msid-128566218,imgsize-348316.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-remark-to-retreat-why-shivaji-maharajtipu-sultan-comparison-sparked-row-explained/articleshow/128562180.cms",
-    "time": "2026-02-19T15:52:34.000Z"
   },
   {
     "cat": "Entertainment",
@@ -162,15 +270,6 @@ const newsData_en = [
     "time": "2026-02-19T15:03:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Aviation ministry to release preliminary report in 30 days",
-    "desc": "The Ministry of Civil Aviation will release a preliminary report on the Baramati Learjet crash within 30 days. The investigation is being conducted by the Aircraft Accident Investigation Bureau. Flight recorders are being examined. The ministry assures a thorough, evidence-based probe. Special audits of aircraft operators are also underway. This follows demands for a CBI inquiry into the accident.",
-    "img": "https://static.toiimg.com/photo/msid-128564329,imgsize-636846.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ajit-pawar-plane-crash-aviation-ministry-to-release-preliminary-report-in-30-days/articleshow/128564279.cms",
-    "time": "2026-02-19T15:00:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Karnataka seal Ranji final spot, to face Jammu and Kashmir in title clash",
     "desc": "Karnataka secured their Ranji Trophy final berth despite a brief, unusual resumption of play after tea. Umpires insisted on continuing the match against Uttarakhand, though the result was a foregone conclusion. Karnataka will now host Jammu and Kashmir in the final, with coach Yere Goud acknowledging the formidable challenge posed by the first-time finalists.",
@@ -196,24 +295,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/priyanka-chopra-jonas-interview-on-the-bluff-swishing-swords-and-why-she-loves-a-challenge/article70651231.ece",
     "time": "2026-02-19T14:53:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "After SC rebukes Allahabad HC judge for ‘unreasoned’ order, Bar association writes to CJI against such ‘stigmatic’ remarks",
-    "desc": "In an order on February 9, a Bench of Justices J.B. Pardiwala and K.V. Viswanathan had termed an order passed by Justice Pankaj Bhatia of the Lucknow Bench of Allahabad HC in a dowry death case as one of the “most shocking and disappointing orders that it has come across over a period of time”.",
-    "img": "https://th-i.thgim.com/public/incoming/eh5qa6/article70652721.ece/alternates/LANDSCAPE_1200/IMG_Suprem_Court_3_1_2MFJ3838.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/after-sc-rebukes-allahabad-hc-judge-for-unreasoned-order-bar-association-writes-to-cji-against-such-stigmatic-remarks/article70652322.ece",
-    "time": "2026-02-19T14:47:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Absolutely unacceptable': Israel condemns 'racially motivated' attack on 2 Indian workers in Ashkelon",
-    "desc": "Israel has condemned a \"absolutely unacceptable\" attack on two Indian workers in Ashkelon, with police apprehending the perpetrators. The incident, described as racially motivated, has drawn criticism from Indian politicians who are urging the government to ensure the victims' well-being and address concerns about the safety of Indian laborers in Israel ahead of Prime Minister Modi's upcoming visit.",
-    "img": "https://static.toiimg.com/photo/msid-128563540,imgsize-690818.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/absolutely-unacceptable-israel-condemns-racially-motivated-attack-on-2-indian-workers-in-ashkelon/articleshow/128563201.cms",
-    "time": "2026-02-19T14:40:23.000Z"
   },
   {
     "cat": "Entertainment",
@@ -252,15 +333,6 @@ const newsData_en = [
     "time": "2026-02-19T14:03:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Bengal will have its fish &amp; meat': State BJP chief Samik Bhattacharya refutes CM Mamata's claim",
-    "desc": "West Bengal BJP president Samik Bhattacharya clarified that the party opposes only the open sale of beef, not all non-vegetarian food. He asserted that people in Bengal are free to consume what they choose, refuting claims of a ban on fish and meat sales.",
-    "img": "https://static.toiimg.com/photo/msid-128562033,imgsize-1294228.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bengal-will-have-its-fish-meat-state-bjp-chief-samik-bhattacharya-refutes-cm-mamatas-claim/articleshow/128561509.cms",
-    "time": "2026-02-19T14:01:39.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'KHxRK': Rajinikanth and Kamal Haasan reunite after 40 years",
     "desc": "A historic collaboration between Indian cinema titans Rajinikanth and Kamal Haasan, dubbed 'Thalaivar 174' and 'KH238', has been officially announced. This monumental reunion, nearly 40 years in the making, will launch on February 20. The announcement, rich with symbolic details, has ignited massive fan anticipation for a film poised to redefine box-office records and create a lasting cultural impact.",
@@ -279,15 +351,6 @@ const newsData_en = [
     "time": "2026-02-19T13:40:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Indian visas in Bangladesh likely to be 'fully restored' soon as Tarique Rahman takes charge",
-    "desc": "India is set to \"fully restore\" its visa services in Bangladesh. This comes after a recent change in Bangladesh's political leadership. Aniruddha Das, a senior Indian consular official, confirmed the steps to fully restore services. Medical and double-entry visas are already being issued. Other categories, including travel visas, will also resume soon. This move signals a strengthening of India-Bangladesh relations.",
-    "img": "https://static.toiimg.com/photo/msid-128561110,imgsize-594692.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indian-visas-in-bangladesh-likely-to-be-fully-restored-soon-as-tarique-rahman-takes-charge/articleshow/128560481.cms",
-    "time": "2026-02-19T13:39:25.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Inside the rise of robotics firm Unitree, glimpse into China’s tech ambitions",
     "desc": "Unitree, a private company started by tech entrepreneur Wang Xinxing (36) who designed his first robot at university, said this week it plans to sell as many as 20,000 humanoid robots this year, an almost four-fold rise from 2025",
@@ -295,24 +358,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/inside-the-rise-of-robotics-firm-unitree-glimpse-into-chinas-tech-ambitions/article70651457.ece",
     "time": "2026-02-19T13:38:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Makes your country stronger': French President Emmanuel Macron on criticism over Rafale deal in India",
-    "desc": "French President Emmanuel Macron defended the Rafale deal, stating it strengthens India's defense capabilities and strategic coordination. He emphasized France's commitment to increasing Indian components and manufacturing critical devices in India, including co-production of combat aircraft and maintenance. This comes as India's Defence Acquisition Council cleared the procurement of 114 Rafale fighter jets.",
-    "img": "https://static.toiimg.com/photo/msid-128561182,imgsize-812211.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/makes-your-country-stronger-french-president-emmanuel-macron-criticism-over-rafale-deal-in-india/articleshow/128559401.cms",
-    "time": "2026-02-19T13:31:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court to begin final hearing of pleas challenging legality of CAA from May 5",
-    "desc": "The petitioners challenging the CAA Act will be heard on May 5 and for half a day on May 6. The respondent Union Government, supporting the legislation, will present its arguments during the remaining half of May 6 and continue on May 7.",
-    "img": "https://static.toiimg.com/photo/msid-128560509,imgsize-89202.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/supreme-court-to-begin-final-hearing-of-pleas-challenging-legality-of-caa-from-may-5/articleshow/128560407.cms",
-    "time": "2026-02-19T13:21:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -333,24 +378,6 @@ const newsData_en = [
     "time": "2026-02-19T13:07:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Congress releases '20-point chargesheet' against BJP govt; accuses it of 'rampant corruption'",
-    "desc": "Priyanka Gandhi Vadra released a 20-point chargesheet against the BJP-led Assam government, accusing Chief Minister Himanta Biswa Sarma of corruption and using state machinery to create fear among minorities. The Congress highlighted unfulfilled promises, including ST status for indigenous communities and increased wages for tea garden workers, ahead of the upcoming assembly elections.",
-    "img": "https://static.toiimg.com/photo/msid-128559593,imgsize-762605.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/assam-assembly-polls-congress-releases-20-point-chargesheet-against-bjp-govt-accuses-it-of-rampant-corruption/articleshow/128559073.cms",
-    "time": "2026-02-19T13:01:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Former UK prince Andrew arrested amid Epstein row; Bloodbath on D-Street as markets crash &amp; more",
-    "desc": "Prince Andrew was arrested amid renewed scrutiny linked to the Jeffrey Epstein case, with searches conducted at his properties. Meanwhile, Indian markets experienced a sharp decline, wiping out significant investor wealth. The Supreme Court cautioned states against indiscriminate 'freebies,' highlighting potential fiscal strain.",
-    "img": "https://static.toiimg.com/photo/msid-128558632,imgsize-44292.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-former-uk-prince-andrew-arrested-amid-epstein-row-bloodbath-on-d-street-as-markets-crash-more/articleshow/128557995.cms",
-    "time": "2026-02-19T12:39:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "More lethal than Bumrah? Ex-India captain makes big claim on Varun Chakravarthy",
     "desc": "Former India captain Kris Srikkanth has lauded Varun Chakravarthy as India's most dangerous weapon in the T20 World Cup 2026, even suggesting he's more lethal than Jasprit Bumrah. Srikkanth highlighted Varun's exceptional form and deceptive variations, noting batters' struggles to decipher his bowling. He believes Varun deserves more recognition and could be Player of the Tournament.",
@@ -367,51 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/has-vijay-sethupathi-stepped-out-from-silambarasans-arasan-films-team-dismisses-all-rumours/articleshow/128557703.cms",
     "time": "2026-02-19T12:23:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Tu Meri Main Tera’ OTT release: When and where to watch Kartik-Ananya's rom-com?",
-    "desc": "Get ready for a heartfelt journey with Kartik Aaryan and Ananya Panday in 'Tu Meri Main Tera Main Tera Tu Meri', now available on Amazon Prime Video worldwide. Directed by Sameer Vidwans, this film blends the struggles of contemporary relationships with the nostalgia of classic Bollywood romances, all set against the stunning backdrops of Croatia.",
-    "img": "https://static.toiimg.com/photo/msid-128556868,imgsize-49614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tu-meri-main-tera-ott-release-date-when-and-where-to-watch-kartik-aaryan-ananya-panday-starrer-romantic-comedy-online/articleshow/128556868.cms",
-    "time": "2026-02-19T12:18:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka recalls how Madhu held the throat of a Delhi cab driver",
-    "desc": "Priyanka Chopra recalled how her mother, Madhu Chopra, once fearlessly grabbed a Delhi cab driver by the throat after he took a wrong turn late at night. Connecting the moment to her upcoming film The Bluff, Priyanka said motherhood helped her channel similar courage and protective instinct into her role as Bloody Mary.",
-    "img": "https://static.toiimg.com/photo/msid-128557646,imgsize-48130.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-recalls-how-madhu-chopra-held-the-throat-of-a-delhi-cab-driver-after-he-took-a-wrong-turn-at-night-she-slapped-him/articleshow/128557646.cms",
-    "time": "2026-02-19T12:16:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TMC MP Mahua Moitra moves Delhi high court against ex-partner seeking custody of pet Rottweiler 'Henry'",
-    "desc": "TMC MP Mahua Moitra has approached the Delhi High Court seeking custody of her pet Rottweiler, Henry. The plea challenges a lower court's order that denied her monthly 10-day custody. The dispute with her ex-partner, Jai Anant Dehadrai, over the dog has escalated into public and legal confrontations.",
-    "img": "https://static.toiimg.com/photo/msid-128556713,imgsize-1245279.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tmc-mp-mahua-moitra-moves-delhi-high-court-against-ex-partner-seeking-custody-of-pet-rottweiler-henry/articleshow/128555939.cms",
-    "time": "2026-02-19T11:55:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajpal attends niece’s wedding after release from Tihar Jail",
-    "desc": "Rajpal Yadav grooves to Salman Khan’s ‘Teri Chunnariya Dil Le Gayi’ at niece’s wedding in Shahjahanpur post-Tihar bail. Out on interim relief till March 18, the actor dances joyfully in beige kurta amid family. His 2010 Rs 5-cr debt for flop ‘Ata Pata Laapata’ led to surrender; he laments, “Sir, kya karoon? Paise nahin hain.”",
-    "img": "https://static.toiimg.com/photo/msid-128556190,imgsize-25576.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-grooves-to-salman-khans-song-teri-chunnariya-dil-le-gayi-at-nieces-wedding-after-release-from-tihar-jail/articleshow/128556190.cms",
-    "time": "2026-02-19T11:53:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Appeasing policy': Why Supreme Court flagged 'freebies culture' and cautioned states",
-    "desc": "The Supreme Court expressed serious concerns over the growing culture of freebies in states, warning it could hamper economic development and strain finances. Justices questioned whether indiscriminate distribution of benefits, without distinguishing between the needy and others, amounts to an appeasing policy that could weaken work culture and development efforts.",
-    "img": "https://static.toiimg.com/photo/msid-128555037,imgsize-1029653.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/appeasing-policy-why-supreme-court-flagged-freebies-culture-and-cautioned-states/articleshow/128554720.cms",
-    "time": "2026-02-19T11:15:35.000Z"
   },
   {
     "cat": "Sports",
@@ -441,24 +423,6 @@ const newsData_en = [
     "time": "2026-02-19T10:56:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Go to court, don't threaten people': Kerala BJP chief Rajeev Chandrasekhar hits out at CM Vijayan over ‘The Kerala Story 2’",
-    "desc": "Kerala BJP chief Rajeev Chandrasekhar has accused Chief Minister Pinarayi Vijayan of hypocrisy and distraction tactics over his opposition to 'The Kerala Story' sequel. Chandrasekhar asserted filmmakers' rights and citizens' freedom to watch, urging Vijayan to use legal channels instead of creating fear. Vijayan had earlier condemned the sequel as a bid to spread communal discord.",
-    "img": "https://static.toiimg.com/photo/msid-128553541,imgsize-707399.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/go-to-court-dont-threaten-people-kerala-bjp-chief-rajeev-chandrasekhar-hits-out-at-cm-vijayan-over-the-kerala-story-2/articleshow/128552951.cms",
-    "time": "2026-02-19T10:45:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nikhil Gupta, Pannun murder plot and the Nijjar connection: Inside a case that spanned 3 continents",
-    "desc": "Hardeep Singh Nijjar, a Khalistani separatist, was assassinated in Canada, sparking diplomatic tensions. Simultaneously, a plot to kill Gurpatwant Singh Pannun in the US was uncovered, leading to the arrest of Indian national Nikhil Gupta. US authorities allege an Indian government employee directed the plot, a claim India disputes, suggesting a rogue operation.",
-    "img": "https://static.toiimg.com/photo/msid-128552488,imgsize-1610689.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nikhil-gupta-pannun-murder-plot-and-the-nijjar-connection-inside-a-case-that-spanned-3-continents/articleshow/128551812.cms",
-    "time": "2026-02-19T10:22:44.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Thala for a reason? Shivam Dube credits 'Mahi bhai' after match-winning knock",
     "desc": "Shivam Dube credited MS Dhoni's guidance for his improved batting approach, particularly against pace. Dhoni advised focusing on strike rotation and controlled intent, which Dube implemented effectively in India's T20 World Cup win against the Netherlands. Dube's match-winning 67-run knock and two wickets earned him player of the match honors.",
@@ -475,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/international-cricket-will-expose-you-mohammad-amir-tears-into-abhishek-sharma-again/articleshow/128551381.cms",
     "time": "2026-02-19T09:59:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Man detained in Kota for threatening to 'shoot' Rahul Gandhi and 25 other Congress MPs",
-    "desc": "A man identifying as a Karni Sena spokesperson was detained in Kota for allegedly uploading a video threatening to shoot Rahul Gandhi and 25 other Congress MPs. The threats were issued over alleged verbal abuse of Lok Sabha Speaker Om Birla. Both BJP and Karni Sena have denied any association with the accused.",
-    "img": "https://static.toiimg.com/photo/msid-128551149,imgsize-797594.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rajasthan-man-detained-in-kota-for-threatening-to-shoot-rahul-gandhi-and-25-other-congress-mps/articleshow/128550959.cms",
-    "time": "2026-02-19T09:54:40.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/new-mexico-approves-comprehensive-probe-of-epsteins-zorro-ranch/article70641405.ece",
     "time": "2026-02-17T03:03:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India vs. Pakistan — a rivalry only in reams of newsprint",
+    "desc": "Matches between the sides were gripping affairs but that seems to be a thing of the past; the former holds a perfect 8-0 record in ODI World Cups and an 8-1 advantage in the T20 showpiece; Sunday’s contest in Colombo showed the increasing gulf in terms of quality",
+    "img": "https://th-i.thgim.com/public/sport/cvztef/article70640460.ece/alternates/LANDSCAPE_1200/TEAMS.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/india-vs-pakistan-a-rivalry-only-in-reams-of-newsprint/article70640459.ece",
+    "time": "2026-02-16T20:54:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Deputy CM Udhayanidhi presents Tamil Nadu State Film Awards for 2016-2022, says awards chosen by committee",
+    "desc": "Deputy CM counters criticism over awards; says the awards were not announced for many years together and were now being given on recommendation of a panel headed by ex-judge; A.R. Rahman, Karthi, Dhanush among artistes honoured",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/gy7r8z/article70629870.ece/alternates/LANDSCAPE_1200/Cine%20awards.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/deputy-cm-udhayanidhi-presents-tamil-nadu-state-film-awards-for-2016-2022-says-awards-chosen-by-committee/article70629589.ece",
+    "time": "2026-02-16T09:49:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Producer V. Tamil Azhagan dies at 70; Rajinikanth mourns loss of ‘wonderful human being’",
+    "desc": "Veteran Tamil film producer and director V. Tamil Azhagan, best known for backing iconic blockbusters such as ‘Baashha’ and ‘Moondru Mugam, passed away on February 14 due to age-related health issues, prompting an outpouring of tributes from the film industry, including a heartfelt condolence message from Rajinikanth.",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/iq09xx/article70635093.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/producer-v-tamil-azhagan-dies-at-70-rajinikanth-mourns-loss-of-wonderful-human-being/article70635104.ece",
+    "time": "2026-02-15T10:57:29.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Meta to cut pay outs to fact-checking partners in India",
+    "desc": "Two people with knowledge of discussions with the social media company told The Hindu that the firm planned to cut payments to professional fact checkers it has paid since 2016 by a third to half",
+    "img": "https://th-i.thgim.com/public/incoming/eqpyty/article70634499.ece/alternates/LANDSCAPE_1200/2026-02-09T103924Z_565968379_RC2VPGAKTI7X_RTRMADP_3_EU-META-PLATFORMS-AI-ANTITRUST.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/meta-to-cut-pay-outs-to-fact-checking-partners-in-india/article70631703.ece",
+    "time": "2026-02-15T06:38:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What’s in store for garment exporters to the U.S.?",
+    "desc": "What has the U.S. promised Bangladesh with respect to textiles? What are the conditions laid down by the U.S. to give Bangladeshi exporters unprecedented access to American markets? What is the assurance that Union Commerce Minister Piyush Goyal gave Indian textile exporters?",
+    "img": "https://th-i.thgim.com/public/incoming/nx6l09/article70633332.ece/alternates/LANDSCAPE_1200/2025-08-07T145208Z_1044761173_RC2H3EACZ6XW_RTRMADP_3_USA-TRUMP-TARIFFS-INDIA-GARMENTS-PIX.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/whats-in-store-for-garment-exporters-to-the-us-explained/article70633290.ece",
+    "time": "2026-02-15T03:22:18.000Z"
   }
 ];
