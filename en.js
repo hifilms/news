@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "KJo says, 'Mere wajeh se mila photo,' as Jaya ji hides face",
+    "desc": "At a bustling event, Karan Johar light-heartedly suggested he was the reason paparazzi caught veteran actress Jaya Bachchan in their lens. After noticing her, he made a spirited dash over the barricades to greet her, compelling the photographers to capture the moment. Check out the full article to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128542908,imgsize-51178.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-says-mere-wajeh-se-mila-photo-as-jaya-bachchan-hides-her-face-seeing-paparazzi-watch-viral-video/articleshow/128542908.cms",
+    "time": "2026-02-19T06:35:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "J&amp;K dare to dream under pressure – A big leap long in the making",
+    "desc": "Jammu and Kashmir's remarkable journey to the Ranji Trophy final, marked by self-belief and meticulous planning, has transformed them into title contenders. Coach Ajay Sharma's patient approach and the development of a core group of talented young players, supported by improved infrastructure and pre-season exposure, have been pivotal to this success.",
+    "img": "https://static.toiimg.com/photo/msid-128542699,imgsize-240198.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ranji-trophy-jammu-and-kashmir-dare-to-dream-under-pressure-a-big-leap-long-in-the-making/articleshow/128542565.cms",
+    "time": "2026-02-19T06:19:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside 'Jana Nayagan' actor's Rs 80-crore property",
+    "desc": "Thalapathy Vijay's opulent Neelankarai beachfront home, valued at Rs 70-80 crores, boasts modern coastal design with private amenities. Meanwhile, director H Vinoth expressed concern over the lack of support for his delayed film 'Jana Nayagan,' contrasting it with support for other controversial movies. Vijay's 'Theri' is set for a re-release.",
+    "img": "https://static.toiimg.com/photo/msid-128542476,imgsize-57044.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalapathy-vijays-neelankarai-mansion-inside-jana-nayagan-actors-rs-80-crore-property/articleshow/128542302.cms",
+    "time": "2026-02-19T06:14:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sivakarthikeyan lauds ‘Seyon’ director, thanks Kamal Haasan",
+    "desc": "Sivakarthikeyan's upcoming film 'Seyon', produced by Kamal Haasan, has unveiled its first glimpse. The actor expressed gratitude to Haasan and lauded director Sivakumar Murugesan for his commitment to people-centric stories. The film, featuring music by Santhosh Narayanan, is slated for an October 2026 release, promising a compelling narrative rooted in local culture.",
+    "img": "https://static.toiimg.com/photo/msid-128541925,imgsize-61404.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sivakarthikeyan-lauds-seyon-director-for-telling-rooted-stories-thanks-kamal-haasan/articleshow/128541925.cms",
+    "time": "2026-02-19T06:06:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Give AI an open sky, but ...’: PM Modi hails AI, flags caution — top quotes",
+    "desc": "Prime Minister Modi emphasized democratizing AI for human-centric development at the AI Impact Summit. He highlighted India's talent and policy clarity, inviting global collaboration. Modi unveiled the MANAV Vision for ethical, accountable, and inclusive AI, stressing the need for global standards and child safety in the evolving digital landscape.",
+    "img": "https://static.toiimg.com/photo/msid-128541931,imgsize-613169.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/give-ai-an-open-sky-but-pm-modi-hails-ai-flags-caution-top-quotes/articleshow/128541694.cms",
+    "time": "2026-02-19T05:58:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Baby AB’ Brevis unfazed by Varun Chakravarthy threat",
+    "desc": "India and South Africa gear up for a T20 World Cup Super 8 clash, with a key battle potentially involving Varun Chakravarthy and Dewald Brevis. Dubbed 'Baby AB', Brevis, unfazed by the spinner, aims to leverage his IPL experience. He showed glimpses of form against UAE, emphasising positivity and backing his game.",
+    "img": "https://static.toiimg.com/photo/msid-128541746,imgsize-107412.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-vs-south-africa-baby-ab-dewald-brevis-unfazed-by-varun-chakravarthy-threat/articleshow/128541706.cms",
+    "time": "2026-02-19T05:53:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bad Bunny lands new acting project",
+    "desc": "Puerto Rican superstar Bad Bunny is set to grace the silver screen once again in a historical drama titled 'Porto Roco.' Filmed in his homeland, this directorial debut by René Pérez Joglar will see Bad Bunny sharing the screen with Hollywood heavyweights like Viggo Mortensen and Edward Norton. This marks another exciting chapter in the artist's burgeoning acting career.",
+    "img": "https://static.toiimg.com/photo/msid-128541451,imgsize-18642.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bad-bunny-cast-for-new-film-set-in-puerto-rico-to-star-opposite-edward-norton-and-more-report/articleshow/128541451.cms",
+    "time": "2026-02-19T05:51:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about Zendaya and Tom Holland’s wedding plans",
+    "desc": "Zendaya and Tom Holland's wedding plans are taking shape, with close friends anticipating the big day despite the couple's tight-lipped approach. While details remain private, stylist Law Roach hints at a \"secret bride\" scenario, with no public spectacle planned. Expect a UK celebration, multiple dresses, and an intimate guest list, prioritizing family and close friends.",
+    "img": "https://static.toiimg.com/photo/msid-128541516,imgsize-97482.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zendaya-and-tom-hollands-wedding-heres-all-we-know-about-the-spider-man-couples-nuptial-plan/articleshow/128541467.cms",
+    "time": "2026-02-19T05:48:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "From Tata Sons chair Chandrasekaran’s expansion strategy to Google CEO Pichai’s ‘vision’ — who said what",
+    "desc": "India is hosting the India-AI Impact Summit 2026, bringing together global leaders to discuss artificial intelligence. Discussions focused on democratizing AI, building sovereign capabilities, and ensuring inclusive growth. Leaders emphasized AI's transformative potential across sectors like healthcare and education. The summit highlighted India's growing role as a trusted AI hub in the Global South.",
+    "img": "https://static.toiimg.com/photo/msid-128540320,imgsize-713824.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ai-summit-from-tata-sons-chair-chandrasekarans-expansion-strategy-to-google-ceo-pichais-vision-who-said-what/articleshow/128539205.cms",
+    "time": "2026-02-19T05:47:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman leaves hospital after checking on his dad; avoids media",
+    "desc": "The entertainment world is on edge as veteran writer Salim Khan is hospitalized due to a minor brain hemorrhage. Salman Khan, his beloved son and superstar, was seen exiting Lilavati Hospital earlier today after spending time with his father in the ICU. Although Salim requires a ventilator, doctors believe he is on the path to recovery.",
+    "img": "https://static.toiimg.com/photo/msid-128541090,imgsize-40880.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salim-khan-hospitalization-salman-khan-leaves-hospital-after-checking-up-on-his-father-avoids-media-interaction/articleshow/128541090.cms",
+    "time": "2026-02-19T05:39:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's worrying batting patterns and struggles vs off-spin",
+    "desc": "India have won all four group-stage matches at the T20 World Cup, but cracks have emerged, particularly against off-spin in the middle overs. Fixed batting roles and slow scoring by Suryakumar Yadav and Tilak Varma have hurt momentum, giving opponents a clear blueprint. Rivals like South Africa will target this weakness, and India must urgently address their middle-overs approach ahead of the Super Eights.",
+    "img": "https://static.toiimg.com/photo/msid-128540990,imgsize-179730.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-indias-worrying-batting-patterns-and-struggles-vs-off-spin/articleshow/128540004.cms",
+    "time": "2026-02-19T05:34:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Mercy’: All you need to know about the OTT release",
+    "desc": "Chris Pratt's sci-fi thriller 'Mercy' is now available for digital rent in India, offering a glimpse into a future where AI judges legal cases. The film, streaming in multiple Indian languages, follows a detective accused of murder who must prove his innocence within 90 minutes to an artificial intelligence.",
+    "img": "https://static.toiimg.com/photo/msid-128540795,imgsize-855621.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/mercy-ott-release-all-you-need-to-know-about-chris-pratt-starrer-sci-fi-thrillers-digital-debut/articleshow/128540795.cms",
+    "time": "2026-02-19T05:27:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dorinda Medley teases ‘The Traitors’ Season 4 reunion",
+    "desc": "Dorinda Medley teases 'The Traitors' Season 4 reunion, emphasizing that it strays from the drama of 'Housewives' reunions by diving deep into strategic gameplay. She assures fans that the finale will be a thrilling ride, sprinkled with memorable moments.",
+    "img": "https://static.toiimg.com/photo/msid-128540642,imgsize-907135.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/dorinda-medley-teases-the-traitors-season-4-reunion-we-had-a-little-spiciness/articleshow/128540642.cms",
+    "time": "2026-02-19T05:24:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Timothee Chalamet and Kylie Jenner get romantic",
+    "desc": "Timothée Chalamet and Kylie Jenner were spotted sharing a casual pizza date in Los Angeles, displaying affectionate moments that quickly went viral. This outing follows Chalamet's busy Oscars campaign for 'Marty Supreme,' which garnered multiple nominations.",
+    "img": "https://static.toiimg.com/photo/msid-128539188,imgsize-23438.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/timothee-chalamet-and-kylie-jenner-get-romantic-on-pizza-date-night-pics/articleshow/128537269.cms",
+    "time": "2026-02-19T05:18:19.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Pakistan Opposition alliance calls off sit-in; Insists on physicians' access to Imran Khan",
+    "desc": "A report prepared by a team of doctors who visited Khan on February 15 said that, unaided, Khan's right eye had 6/24 partial vision and 6/9 in the left, adding that with glasses, the ex-premier’s vision was 6/9 partial in the right and 6/6 in the left",
+    "img": "https://th-i.thgim.com/public/incoming/rjm442/article70648550.ece/alternates/LANDSCAPE_1200/TH18-IMRAN-APPEGVCFJNH08.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/pakistan-opposition-alliance-calls-off-sit-in-insists-on-physicians-access-to-imran-khan/article70648516.ece",
+    "time": "2026-02-19T05:12:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Riteish visits Shivneri fort; pays tribute to Shivaji Maharaj",
+    "desc": "Riteish Deshmukh marked the celebration of Chhatrapati Shivaji Maharaj Jayanti with a meaningful visit to Shivneri Fort, a site steeped in history. He described the day as a significant and blessed occasion, highlighting Maharaj's relentless spirit and the sacrifices that shaped the country. Deshmukh believes that introducing children's stories of Maharaj is crucial for nurturing a virtuous society.",
+    "img": "https://static.toiimg.com/photo/msid-128539300,imgsize-45916.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/riteish-deshmukh-visits-shivneri-fort-on-chhatrapati-shivaji-maharaj-jayanti-says-unki-keerti-unka-shourya/articleshow/128539300.cms",
+    "time": "2026-02-19T04:47:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Leighton Meester and Penn Badgley on ‘Gossip Girl’ couples",
+    "desc": "Years after the curtains fell on 'Gossip Girl,' former co-stars Leighton Meester and Penn Badgley reunited on the airwaves of Badgley’s podcast to unravel the threads of their characters’ journeys. They joyously affirmed that love found a way for Blair and Chuck, as well as Dan and Serena, solidifying their happy endings amidst all the drama.",
+    "img": "https://static.toiimg.com/photo/msid-128539386,imgsize-50314.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/did-gossip-girl-characters-end-up-with-the-right-partners-heres-what-leighton-meester-and-penn-badgley-think-of-the-final-pairing/articleshow/128539367.cms",
+    "time": "2026-02-19T04:45:06.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Clearing the boundary, crossing into history: J&amp;K end 67-year wait, enter Ranji final",
     "desc": "Jammu and Kashmir have achieved a historic Ranji Trophy final berth after a 67-year wait, defeating Bengal by six wickets. Despite facing a first-innings deficit and a challenging chase, J&K's resilience, spearheaded by Abdul Samad and Vanshaj Sharma, secured their maiden final appearance. Pacer Auqib Nabi was a standout performer.",
@@ -25,6 +178,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/shia-labeouf-spotted-dancing-with-release-papers-in-mouth-videos-surface-only-hours-after-the-stars-arrest-in-new-orleans/articleshow/128537795.cms",
     "time": "2026-02-19T03:55:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Tumbbad 2' makers get international creative team on board",
+    "desc": "Anticipation reaches new heights for Sohum Shah's 'Tumbbad 2' as a stellar international crew is set to enhance the film's artistry. The acclaimed Simon Lee and Shaune Harrison will lend their expertise in creature design and prosthetics to create a breathtaking visual experience. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128537607,imgsize-56594.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tumbbad-2-makers-get-on-board-a-creative-team-that-has-worked-on-hollywood-films-pacific-rim-and-harry-potter/articleshow/128537607.cms",
+    "time": "2026-02-19T03:50:22.000Z"
   },
   {
     "cat": "Sports",
@@ -64,7 +226,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘Ticked all the boxes’: Suryakumar sends Super 8s warning after dominant run",
+    "title": "‘Ticked all the boxes’: Surya sends Super 8s warning after dominant run",
     "desc": "India captain Suryakumar Yadav expressed confidence after his team's dominant group stage performance in the ongoing T20 World Cup. He highlighted that the team has \"ticked almost all the boxes\" and is ready for the Super 8s, citing Shivam Dube's crucial innings and the team's bowling flexibility as key strengths.",
     "img": "https://static.toiimg.com/photo/msid-128536299,imgsize-69226.cms",
     "src": "indiatimes.com",
@@ -117,24 +279,6 @@ const newsData_en = [
     "time": "2026-02-19T02:35:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Nicole Kidman romantically pursued by a multimillionaire?",
-    "desc": "Nicole Kidman, fresh from her divorce, is attracting the gaze of Paul Salem, a distinguished 62-year-old businessman and chairman of MGM Resorts International. Salem, also a divorcee, has shown interest in the celebrated actress. Despite having mutual acquaintances and meeting in social situations, sources indicate they aren’t romantically involved at this stage or spending one-on-one time together.",
-    "img": "https://static.toiimg.com/photo/msid-128535354,imgsize-888339.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/nicole-kidman-romantically-pursued-by-a-multimillionaire-businessman-heres-what-we-know/articleshow/128535354.cms",
-    "time": "2026-02-19T02:32:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Seyon' glimpse trivia: 'Virumaandi' connection SPOTTED",
-    "desc": "The glimpse of Sivakarthikeyan's 'Seyon', produced by Kamal Haasan, has ignited social media with a clear nod to Haasan's 'Virumaandi'. Set during a Madurai temple festival, the clip features Sivakarthikeyan embodying a fierce character, drawing immediate comparisons and fan excitement for a potential crossover. This film is anticipated to be a significant comeback for the star.",
-    "img": "https://static.toiimg.com/photo/msid-128535180,imgsize-60314.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sivakarthikeyans-seyon-glimpse-trivia-kamal-haasan-fans-spot-virumaandi-connection/articleshow/128535063.cms",
-    "time": "2026-02-19T02:20:23.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "‘When friends connect, innovation follows’: French President Macron shares AI image with PM Modi",
     "desc": "French President Emmanuel Macron visited India and met Prime Minister Narendra Modi. He shared an AI-generated image of the two leaders. Macron attended the AI Impact Summit in New Delhi. The summit focused on responsible and development-focused AI. India is hosting the global AI gathering. Leaders discussed AI's future and its impact on people, planet, and progress.",
@@ -144,24 +288,6 @@ const newsData_en = [
     "time": "2026-02-19T02:18:13.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Spider-Man' synopsis teases Peter Parker is 'no more'",
-    "desc": "Brand New Day' reveals Peter Parker is forgotten, but Spider-Man is saving New York. A new mystery emerges, forcing him to confront his past. Sadie Sink's character hints at a deeper connection, suggesting not everyone has forgotten Peter. The film, starring Tom Holland, is set for a July 2026 release.",
-    "img": "https://static.toiimg.com/photo/msid-128534068,imgsize-44688.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-brand-new-day-synopsis-teases-tom-hollands-peter-parker-is-no-more-ahead-of-trailer-drop/articleshow/128533947.cms",
-    "time": "2026-02-19T02:02:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Richa RESPONDS to trolling over meeting with Emmanuel Macron",
-    "desc": "Richa Chadha clapped back at naysayers who critiqued her appearance at an event alongside French President Emmanuel Macron. During the gathering, Macron dubbed the attendees as 'Legends of Indian cinema.' In a spirited Instagram post, Chadha encouraged those casting doubt to channel their energy into personal development instead of harboring jealousy.",
-    "img": "https://static.toiimg.com/photo/msid-128534426,imgsize-31122.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/richa-chadha-reacts-to-people-trolling-her-for-meeting-french-president-emmanuel-macron-if-it-has-given-you-loose-motions-/articleshow/128534426.cms",
-    "time": "2026-02-19T02:00:37.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sri Lanka and Zimbabwe to battle for group bragging rights",
     "desc": "Sri Lanka has emerged as a strong contender, leveraging their knowledge of local conditions to defeat Oman and Ireland, while crushing Australia by eight wickets to establish themselves as a well-rounded side with the potential to go all the way",
@@ -169,24 +295,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-sri-lanka-and-zimbabwe-to-battle-for-group-bragging-rights/article70649437.ece",
     "time": "2026-02-19T01:57:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "O’hara honored by loved ones at private funeral service",
-    "desc": "Catherine O'Hara, the beloved star known for her unforgettable roles in 'Home Alone' and 'Schitt's Creek,' was honored at an intimate funeral in Los Angeles on February 14, after her passing on January 30, 2026. Friends and family gathered to pay tribute to her incredible legacy of humor and warmth.",
-    "img": "https://static.toiimg.com/photo/msid-128534236,imgsize-38208.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/catherine-ohara-honored-by-family-and-friends-at-private-funeral-service-two-weeks-after-her-demise/articleshow/128534168.cms",
-    "time": "2026-02-19T01:45:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Funky' OTT release date: Film sets digital debut",
-    "desc": "Vishwak Sen's comedy-drama 'Funky,' directed by Anudeep KV, is heading to Netflix on March 13, 2026, after a disappointing theatrical run. The film, which explores a struggling director's desperate attempt to revive his project, will be available in five languages. Despite strong performances, critics noted weak writing and chemistry.",
-    "img": "https://static.toiimg.com/photo/msid-128534002,imgsize-56310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/funky-ott-release-date-vishwak-sen-and-kayadu-lohar-film-sets-digital-debut/articleshow/128534002.cms",
-    "time": "2026-02-19T01:37:03.000Z"
   },
   {
     "cat": "Business",
@@ -243,15 +351,6 @@ const newsData_en = [
     "time": "2026-02-19T01:12:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Peter Greene’s cause of death revealed",
-    "desc": "Veteran actor Peter Greene, celebrated for his iconic roles in 'Pulp Fiction' and 'The Mask', has tragically passed away at 60. Authorities confirmed his death on December 12, 2025, was due to an accidental gunshot wound to the armpit. Greene, known for his memorable villainous portrayals, was discovered in his Manhattan apartment after a wellness check.",
-    "img": "https://static.toiimg.com/photo/msid-128533354,imgsize-30988.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/peter-greenes-cause-of-death-revealed-2-months-after-his-demise-report/articleshow/128533354.cms",
-    "time": "2026-02-19T01:10:27.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Kids use AI daily, but most don't know how it works",
     "desc": "A recent survey reveals that 35% of Indian children using edtech tools are now employing Generative AI, with a significant misconception that these tools are merely search engines. Despite high usage, especially among low-income households, a lack of AI literacy poses risks, as 46% of respondents identified \"wrong information\" as a key concern.",
@@ -259,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/survey-kids-use-ai-daily-but-most-dont-know-how-it-works/articleshow/128532960.cms",
     "time": "2026-02-19T00:57:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Abhilasham' director held in financial fraud case",
-    "desc": "Director Shamzu Zayba of the Saiju Kurup film 'Abhilasham' was arrested following a financial fraud complaint by producer Ann Sariga Antony. The producer alleges the director exceeded the agreed budget by nearly a crore, claiming misuse of funds. Zayba denies the accusations, stating the complaint is personal vengeance and budget hikes were unavoidable.",
-    "img": "https://static.toiimg.com/photo/msid-128532983,imgsize-72158.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/abhilasham-director-shamzu-zayba-held-in-financial-fraud-case-producer-alleges-excess-spending/articleshow/128532983.cms",
-    "time": "2026-02-19T00:54:29.000Z"
   },
   {
     "cat": "Politics",
@@ -279,15 +369,6 @@ const newsData_en = [
     "time": "2026-02-19T00:43:57.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Lil Poppa passes away at age 25",
-    "desc": "In a heartbreaking turn of events, the vibrant 25-year-old rapper Lil Poppa, whose real name was Janarious Mykel Wheeler, has died. The news was confirmed by the Fulton County Medical Examiner's Office, but the cause of his untimely death has yet to be revealed.",
-    "img": "https://static.toiimg.com/photo/msid-128532694,imgsize-19136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/love-and-war-rapper-lil-poppa-passes-away-at-25/articleshow/128532694.cms",
-    "time": "2026-02-19T00:40:58.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Parekh",
     "desc": "Infosys CEO Salil Parekh believes AI tools will expand, not shrink, IT services opportunities. He argues that while AI automates some development, complex integration, testing, and maintenance in legacy systems remain significant challenges. Parekh sees AI as a substantial opportunity for IT firms, leading to increased demand for skilled professionals and a focus on reskilling.",
@@ -297,24 +378,6 @@ const newsData_en = [
     "time": "2026-02-19T00:30:52.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Jacob Elordi offered role as next James Bond?",
-    "desc": "Jacob Elordi is reportedly the top pick to become the next James Bond, with director Denis Villeneuve eyeing the Australian actor for 'Bond 26'. If cast, Elordi, at 28, would be the youngest and tallest 007 yet. His recent success in 'Wuthering Heights' and an Oscar nomination have propelled him into contention for the iconic role.",
-    "img": "https://static.toiimg.com/photo/msid-128531913,imgsize-26920.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jacob-elordi-offered-role-as-james-bond-in-denis-villeneuves-bond-26/articleshow/128531880.cms",
-    "time": "2026-02-19T00:30:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Adarsh and Shanaya's Tu Yaa Main crosses Rs 4 cr on Day 6",
-    "desc": "Despite its promising cast featuring Adarsh Gourav and Shanaya Kapoor, the survival thriller 'Tu Yaa Main' has faced a challenging journey at the box office. Following its premiere on February 13, 2026, the film has accumulated only Rs 4.02 crore in total, with a rather disappointing Rs 0.32 crore on day six. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128532432,imgsize-64138.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/tu-yaa-main-box-office-collection-day-6-adarsh-gourav-and-shanaya-kapoor-starrer-pushes-past-rs-4-crore/articleshow/128532432.cms",
-    "time": "2026-02-19T00:29:36.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Will fast-track IndusInd, Gensol cases: ICAI chief",
     "desc": "The Institute of Chartered Accountants of India has formed a special group to expedite high-profile cases, including those involving Gensol Engineering and IndusInd Bank. President Prasanna Kumar D anticipates findings within two months. He also highlighted the expanding role of chartered accountants in Global Capability Centres and the introduction of new digital audit standards.",
@@ -322,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/will-fast-track-indusind-gensol-cases-icai-chief/articleshow/128532468.cms",
     "time": "2026-02-19T00:27:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'With Love' BO day 13: Anaswara's film sees mid-week dip",
-    "desc": "Romantic drama 'With Love' shows a noticeable dip in box office collections on its thirteenth day, earning an estimated Rs 52 lakhs. Despite this, the film has achieved a significant total of Rs 22.32 crore India net.",
-    "img": "https://static.toiimg.com/photo/msid-128532336,imgsize-25310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/with-love-box-office-collections-day-13-anaswara-rajans-film-sees-mid-week-dip-collects-rs-52-lakhs/articleshow/128532336.cms",
-    "time": "2026-02-19T00:22:46.000Z"
   },
   {
     "cat": "Business",
@@ -415,24 +469,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Can't force dad's caste on child raised by single mom: Bombay HC",
-    "desc": "The Bombay High Court ruled that a child raised solely by her mother cannot be forced to adopt her father's surname and caste. The court emphasized that a single mother's role in a child's civic identity is constitutional, not charitable. State formats should reflect welfare, not moral judgments, and school records must accurately represent lived guardianship.",
-    "img": "https://static.toiimg.com/photo/msid-128530330,imgsize-17596.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cant-force-dads-caste-on-child-raised-by-single-mom-bombay-hc/articleshow/128530357.cms",
-    "time": "2026-02-18T22:51:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Amit Shah skips SIR talk in Matua outreach at West Bengal event",
-    "desc": "Home Minister Amit Shah visited Mayapur, the birthplace of the Bhakti movement, to highlight the Matua community's role in unifying Hindu society. He praised reformers Harichand and Guruchand Thakur for their social welfare initiatives and described Bhaktisiddhanta Saraswati as a bridge to modernity. Shah conveyed PM Modi's greetings, emphasizing the spread of the 'Viksit Bharat' and Sanatan dharma messages globally.",
-    "img": "https://static.toiimg.com/photo/msid-128530126,imgsize-276978.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/amit-shah-skips-sir-talk-in-matua-outreach-at-west-bengal-event/articleshow/128530143.cms",
-    "time": "2026-02-18T22:45:51.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "NGT Orders joint probe into quarry impact on Tata Cancer Hospital due to illegal mining",
     "desc": "The bench comprising Justice Dinesh Kumar Singh and Expert Member Dr. Sujit Kumar Bajpayee directed to conduct the survey and ascertain the scale of excavation and possible damage to the premier cancer treatment and research facility",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -457,15 +493,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/tennis/wesleykoolhof-interview-doubles-tennis-is-a-great-different-discipline/article70649145.ece",
     "time": "2026-02-18T18:29:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala to regularise over 20,000 teacher posts",
-    "desc": "Govt. extends to all aided school managements the relaxation granted to NSS for making permanent appointments to posts other than those reserved for the differently abled, subject to SC verdict. Over 20,000 provisional teachers are expected to benefit",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/state-to-regularise-over-20000-teacher-posts/article70648498.ece",
-    "time": "2026-02-18T18:16:41.000Z"
   },
   {
     "cat": "Politics",
@@ -531,15 +558,6 @@ const newsData_en = [
     "time": "2026-02-18T16:16:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "KSPL plans ₹200 crore expansion of Offshore Supply Vessel Complex",
-    "desc": "The Rs.200 crore expansion aims at additional handling of four MTPA of cargo, support the accommodation of Indian Navy and Coast Guard vessels and strengthening offshore logistics capability for oil and natural gas exploration in the Krishna-Godavari basin.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/kspl-plans-200-crore-expansion-of-offshore-supply-vessel-complex/article70646661.ece",
-    "time": "2026-02-18T15:47:21.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran, Russia to conduct joint drills in the Sea of Oman",
     "desc": "The joint naval exercise of the Islamic Republic of Iran and Russia will take place tomorrow (Thursday) in the Sea of Oman and in the northern Indian Ocean, says drill spokesman, Rear Admiral Hassan Maghsoudloo.",
@@ -565,24 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/funds-will-be-unlocked-for-infra-bcci-president-mithun-manhas-on-jk-cricket-after-historic-ranji-run/articleshow/128514434.cms",
     "time": "2026-02-18T15:38:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Urumi swish draws crowd to 11th Ponnyathankam",
-    "desc": "The week-long fete is organised by Kerala Folklore Academy, Kathirur panchayat and Pattiyam Gopalan Memorial Library. What began in 2015 as a modest Kalari demonstration by a local reading room has since evolved into one of the largest martial arts congregations, drawing participants from across India and abroad",
-    "img": "https://th-i.thgim.com/public/incoming/ezztze/article70647596.ece/alternates/LANDSCAPE_1200/11435_18_2_2026_17_55_37_3_IMG_20260218_WA0130.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/urumi-swish-draws-crowd-to-11thponnyathankam/article70644537.ece",
-    "time": "2026-02-18T15:37:48.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Pakistan Opposition alliance calls off sit-in; Insists on physicians' access to Imran Khan",
-    "desc": "A report prepared by a team of doctors who visited Khan on February 15 said that, unaided, Khan's right eye had 6/24 partial vision and 6/9 in the left, adding that with glasses, the ex-premier’s vision was 6/9 partial in the right and 6/6 in the left",
-    "img": "https://th-i.thgim.com/public/incoming/rjm442/article70648550.ece/alternates/LANDSCAPE_1200/TH18-IMRAN-APPEGVCFJNH08.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/pakistan-opposition-alliance-calls-off-sit-in-insists-on-physicians-access-to-imran-khan/article70648516.ece",
-    "time": "2026-02-18T15:19:20.000Z"
   },
   {
     "cat": "Sports",
@@ -694,30 +694,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Super 8 spot on the line, Pakistan drop Shaheen Afridi for must-win game; here's why",
-    "desc": "Pakistan made a significant change, dropping fast bowler Shaheen Shah Afridi for their must-win T20 World Cup match against Namibia. The team also brought in Salman Mirza and Khawaja Nafay. This decision comes amidst criticism of senior players' recent performances and the team's precarious position in the tournament.",
-    "img": "https://static.toiimg.com/photo/msid-128502004,imgsize-53752.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/with-super-8-spot-on-the-line-pakistan-drop-shaheen-afridi-for-must-win-match-vs-namibia-heres-why/articleshow/128501863.cms",
-    "time": "2026-02-18T10:03:39.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Inside Chennai’s Pickleball boom: From midnight games to thriving WhatsApp communities",
     "desc": "As new pickleball courts open across Injambakkam, T Nagar and Gandhi Nagar, the sport is doing more than just filling evening slots — it is creating WhatsApp communities, business networks and unlikely friendships across the city",
     "img": "https://th-i.thgim.com/public/incoming/psg6w/article70614742.ece/alternates/LANDSCAPE_1200/BVR_7095.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/life-and-style/picklers-unite/article70609768.ece",
     "time": "2026-02-18T09:55:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pacers exploit conditions as South Africa storm into T20 WC Super 8s unbeaten",
-    "desc": "South Africa secured a commanding six-wicket victory over the UAE, boosting their morale heading into the T20 World Cup Super Eight stage. Despite a rain-interrupted start, the Proteas chased down 123 aggressively, with Dewald Brevis and Aiden Markram leading the charge. Key performances from bowlers Corbin Bosch and Anrich Nortje were crucial in restricting the UAE.",
-    "img": "https://static.toiimg.com/photo/msid-128500957,imgsize-46382.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pacers-exploit-conditions-as-south-africa-storm-into-t20-world-cup-super-8s-unbeaten/articleshow/128500926.cms",
-    "time": "2026-02-18T09:27:53.000Z"
   },
   {
     "cat": "Entertainment",
@@ -736,15 +718,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/from-atoms-to-empires-what-makes-gold-so-precious/article70573771.ece",
     "time": "2026-02-18T07:54:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘How he justifies a spot?’: McGrath questions Green over Smith after T20 WC disaster",
-    "desc": "Australia's ICC T20 World Cup 2026 exit has drawn criticism from Glenn McGrath, who questioned selecting Cameron Green over Steve Smith. Green's poor batting and minimal bowling raised doubts about his place. Jason Gillespie also voiced concerns about underperforming youngsters like Cooper Connolly, highlighting a perceived decline in Australian dominance.",
-    "img": "https://static.toiimg.com/photo/msid-128497904,imgsize-80242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/i-just-cant-see-how-he-justifies-a-spot-glenn-mcgrath-questions-cameron-green-over-steve-smith-after-t20-world-cup-disaster/articleshow/128497848.cms",
-    "time": "2026-02-18T07:44:47.000Z"
   },
   {
     "cat": "World",
@@ -772,15 +745,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-upbeat-after-us-talks-but-vance-says-red-lines-not-met/article70645984.ece",
     "time": "2026-02-18T05:51:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Joji Varghese’s dream meeting with Samson",
-    "desc": "A former physical education teacher from Thiruvananthapuram, Joji Varghese, who moved to Canada for his children's future, fulfilled a lifelong dream by meeting his favourite cricketer, Sanju Samson. Now a massage therapist for the Canadian cricket team, Joji shared an emotional reunion with Samson during a practice session in India, highlighting Samson's humility and connection.",
-    "img": "https://static.toiimg.com/photo/msid-128493377,imgsize-95842.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/exclusive-kerala-to-canada-to-t20-world-cup-joji-vargheses-dream-meeting-with-sanju-samson/articleshow/128493358.cms",
-    "time": "2026-02-18T05:37:36.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-foreign-minister-abbas-araghchi-in-geneva-for-talks-as-irgc-begins-live-fire-drills-near-strait-of-hormuz/article70640297.ece",
     "time": "2026-02-16T16:35:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran meets U.N. nuclear watchdog in Geneva ahead of a second round of U.S. talks",
+    "desc": "U.S. President Donald Trump initially threatened to take military action over Iran’s bloody crackdown on nationwide protests last month but then shifted to a pressure campaign in recent weeks to try to get Tehran to make a deal over its nuclear program",
+    "img": "https://th-i.thgim.com/public/incoming/bk2lab/article70638851.ece/alternates/LANDSCAPE_1200/EU_Iran_Talks_23508.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-meets-un-nuclear-watchdog-in-geneva-ahead-of-a-second-round-of-us-talks/article70638488.ece",
+    "time": "2026-02-16T12:33:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Deputy CM Udhayanidhi presents Tamil Nadu State Film Awards for 2016-2022, says awards chosen by committee",
+    "desc": "Deputy CM counters criticism over awards; says the awards were not announced for many years together and were now being given on recommendation of a panel headed by ex-judge; A.R. Rahman, Karthi, Dhanush among artistes honoured",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/gy7r8z/article70629870.ece/alternates/LANDSCAPE_1200/Cine%20awards.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/deputy-cm-udhayanidhi-presents-tamil-nadu-state-film-awards-for-2016-2022-says-awards-chosen-by-committee/article70629589.ece",
+    "time": "2026-02-16T09:49:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How is U.S.-India trade deal being tweaked?",
+    "desc": "What are the areas that have come under scrutiny? Has India stopped buying Russian oil as Donald Trump has claimed? What is happening in the agricultural sector? Has the reference to pulses been removed from the draft? When is the formal agreement expected to be signed?",
+    "img": "https://th-i.thgim.com/public/incoming/o5ah8b/article70633261.ece/alternates/LANDSCAPE_1200/India_Protest_65464.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/how-is-us-india-trade-deal-being-tweaked-explained/article70633133.ece",
+    "time": "2026-02-16T08:47:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jansen banks on variation, improvisation",
+    "desc": "Jansen dug deep into his bag of tricks and pulled out a delivery that he developed on his own to take the sting out of New Zealand’s innings in their T20 World Cup contest on February 14",
+    "img": "https://th-i.thgim.com/public/incoming/nof9va/article70636488.ece/alternates/LANDSCAPE_1200/PTI02_14_2026_000671B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/jansen-banks-on-variation-improvisation/article70636489.ece",
+    "time": "2026-02-15T21:13:27.000Z"
   }
 ];

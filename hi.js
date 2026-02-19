@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Hardik Pandya shares sea-soaked intimate birthday post for girlfriend Maheika Sharma",
+    "desc": "Hardik Pandya on Thursday morning shared an intimate birthday post for girlfriend, Mahieka Sharma. The cricketer took to Instagram to celebrate her birthday, sharing a cosy photograph of the two and captioning it with a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-shares-sea-soaked-intimate-birthday-post-for-girlfriend-maheika-sharma-2026-02-19-1030884",
+    "time": "2026-02-19T06:49:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh starts damage control with BCCI after fallout, Aminul Bulbul runs away to Australia",
+    "desc": "After Bangladesh refused to travel to India for the T20 World Cup 2026, citing security reasons, the International Cricket Council (ICC) replaced them with Scotland. In response, it was also more-or-less cleared that India won’t...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-starts-damage-control-with-bcci-after-fallout-aminul-bulbul-runs-away-to-australia-2026-02-19-1030878",
+    "time": "2026-02-19T06:17:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vinicius Jr endured 20 racism allegations in eight years, but UEFA yet to give him justice",
+    "desc": "Real Madrid’s Champions League play-off against Benfica was temporarily halted for 10 minutes after Vinicius Jr reported alleged racist abuse during the match. The 25-year-old winger scored a banger of a goal from the edge...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vinicius-jr-endured-20-racism-allegations-in-eight-years-but-uefa-yet-to-give-him-justice-2026-02-19-1030870",
+    "time": "2026-02-19T05:16:35.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Arsenal activate SOS mode after 2-2 draw vs Wolves, Premier League shapes for dramatic end",
     "desc": "Arsenal were the hot favourites to win the Premier League 2025-26 season. Once enjoying a nine-point lead at the top of the table, their advantage has now shrunk to five, following a 2-2 draw against...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-2026-super-eight-stage-check-full-schedule-and-fixtures-as-all-teams-confirm-qualification-2026-02-18-1030833",
     "time": "2026-02-18T16:57:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma achieves major unwanted records as opener completes hat trick of ducks in T20 World Cup 2026",
-    "desc": "Abhishek Sharma was off to the worst possible start in the T20 World Cup 2026 as the star batter was dismissed for yet another duck in the clash against the Netherlands at the Narendra Modi...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-sharma-achieves-major-unwanted-records-as-opener-completes-hat-trick-of-ducks-in-t20-world-cup-2026-2026-02-18-1030822",
-    "time": "2026-02-18T15:13:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Axar Patel not playing in IND vs NED T20 World Cup 2026 clash? Suryakumar Yadav reveals",
-    "desc": "India face the Netherlands in their last league stage match of the T20 World Cup 2026 at the Narendra Modi Stadium in Ahmedabad as they look to end the group stage on a high. Having...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-axar-patel-not-playing-in-ind-vs-ned-t20-world-cup-2026-clash-suryakumar-yadav-reveals-2026-02-18-1030810",
-    "time": "2026-02-18T13:24:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan manage to qualify for Super 8 of T20 World Cup 2026, defeat Namibia by 102 runs in must-win game",
-    "desc": "The Pakistan cricket team has managed to reach the Super 8 of the T20 World Cup 2026 as they defeated Namibia by 102 runs in a must-win game on Wednesday. This is also Pakistan's biggest...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-manage-to-reach-super-8-of-t20-world-cup-2026-defeat-namibia-by-102-runs-at-sinhalese-sports-club-in-colombo-2026-02-18-1030804",
-    "time": "2026-02-18T12:55:11.000Z"
   }
 ];

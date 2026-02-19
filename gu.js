@@ -1,12 +1,21 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "મારૂતિ અર્ટિગા છોડો, ₹9 હજારના EMI માં આવી જશે આ નવી 7-સીટર ફેમેલી કાર",
+    "desc": "નિશાને પોતાના પોર્ટફોલિયોને આગળ વધારતા ભારતીય બજારમાં નવી 7-સીટર કાર ઉતારી છે. ખાસ વાત છે કે આ કારની કિંમત માત્ર 5.65 લાખ રૂપિયાથી શરૂ થાય છે. જેને તમે દર મહિને 9000 રૂપિયાના EMI મા ખરીદી શકો છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/nissan-gravite-7-seater-car-base-model-price-and-features-monthly-emi-scheme-465500 ",
+    "time": "2026-02-19T06:46:25.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ઐતિહાસિક સ્તરે પહોંચીને જબરદસ્ત ગગડી ચાંદી, 1.76 લાખ રૂપિયા સસ્તી, જાણો આજનો ચાંદીનો ભાવ",
     "desc": "ચાંદીમાં સૌથી વધુ ઉતાર ચડાવ જોવા મળી રહ્યા છે. ચાંદીએ ગત મહિને 420000નું જે ઐતિહાસિક સ્તર પાર કર્યું હતું ત્યારબાદ એવી ગગડી કે હજુ તેમાંથી બહાર આવી નથી. આજે સામાન્ય વધારા સાથે જોવા મળી પરંતુ આમ છતાં હજુ પણ ઓલટાઈમ હાઈથી તો 1.76 લાખ જેટલી સસ્તી થયેલી છે. આજે ચાંદીની શું સ્થિતિ છે તે જાણો.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/after-hiting-historic-high-now-silver-1-76-lakh-cheaper-know-today-silver-price-aaj-no-chandi-no-bhav-465490 ",
-    "time": "2026-02-19T04:32:26.000Z"
+    "time": "2026-02-19T04:58:40.000Z"
   },
   {
     "cat": "Business",
@@ -360,15 +369,6 @@ const newsData_gu = [
     "time": "2026-02-16T14:23:56.000Z"
   },
   {
-    "cat": "Business",
-    "title": "8મા પગાર પંચ પર સરકારે મોટી ચેતવણી, કેન્દ્રીય કર્મચારીઓ માટે મહત્વપૂર્ણ સમાચાર",
-    "desc": "જ્યારે લાખો કેન્દ્ર સરકારના કર્મચારીઓ અને પેન્શનરો 8મા પગાર પંચ હેઠળ સંભવિત પગાર વધારાની રાહ જોઈ રહ્યા છે, ત્યારે સાયબર ફ્રોડ કરનારાઓ તેમની જિજ્ઞાસાનો લાભ લઈ રહ્યા છે. સરકારે તેમને સાવધાન રહેવાની સુચના આપી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/government-gives-big-warning-on-8th-pay-commission-important-news-for-central-employees-465152 ",
-    "time": "2026-02-16T13:01:41.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "હવે મોબાઇલ એપથી વેચાશે વીજળી, જાણો રાજધાનીમાં શરૂ થનારી વર્ચ્યુઅલ નેટ મીટરિંગ શું છે?",
     "desc": "લોકો હવે મોબાઇલ એપ દ્વારા એકબીજા સાથે વીજળી ખરીદી અને વેચી શકશે. દિલ્હીમાં નેટ મીટરિંગ દ્વારા આ શક્ય બન્યું છે. આનાથી લોકો ઓછા દરે અન્ય ગ્રાહકોને વધારાની સૌર ઉર્જા વેચી શકશે. વધુમાં, બહુવિધ વ્યક્તિઓ એક સામાન્ય સૌર પ્લાન્ટમાંથી વીજળીનો ઉપયોગ કરી શકશે. આ માટે, લોકો પાસે સ્માર્ટ વીજળી મીટર હોવા જોઈએ. નેટ મીટરિંગ સરળતાથી એક એપ દ્વારા પૂર્ણ કરી શકાય છે.",
@@ -378,24 +378,6 @@ const newsData_gu = [
     "time": "2026-02-16T12:10:01.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "T20 વર્લ્ડ કપમાં ભારત-પાકિસ્તાન વચ્ચે ફરી રમાઈ શકે છે મેચ, જાણો કેવી રીતે અને ક્યારે રમાશે",
-    "desc": "રવિવારે પાકિસ્તાનને ભારત સામે કારમી હારનો સામનો કરવો પડ્યો હતો, ત્યારે T20 વર્લ્ડ કપમાં ફરી એકવાર ભારત અને પાકિસ્તાન વચ્ચે મહામુકાબલો જોવા મળી શકે છે. ત્યારે આ કેવી રીતે શક્ય બનશે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-vs-pakistan-match-possible-again-in-t20-world-cup-2026-know-how-465114 ",
-    "time": "2026-02-16T10:29:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "પાકિસ્તાન સામેની મેચ પહેલા ઈશાન કિશનનો સીક્રેટ વીડિયો કોલ, 40 મિનિટ કોની સાથે કરી વાત ?",
-    "desc": "પાકિસ્તાન સામેની મેચમાં ઇશાન કિશને ખતરનાક બેટિંગ કરતા પાકિસ્તાનના બોલરોને હંફાવ્યા હતા. ઈશાને 77 રનની ધમાકેદાર ઈનિંગ રમી હતી, પરંતુ શું તમે જાણો છો કે આ વિસ્ફોટક ઇનિંગ પહેલા ઇશાન કિશને કોને વીડિયો કોલ કર્યો હતો અને 40 મિનિટ સુધી વાત કરી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ishan-kishan-talk-40-minutes-secret-video-call-ahead-ind-vs-pak-match-465120 ",
-    "time": "2026-02-16T10:25:12.000Z"
-  },
-  {
     "cat": "World",
     "title": "ઉ.કોરિયામાં લોહીયાળ જંગનો ડર, કિમ જોંગનો વારસો કોણ ભોગવશે? 13 વર્ષની પુત્રી કે ખૂંખાર બહેન",
     "desc": "ઉત્તર કોરિયામાં સત્તા માટે સંઘર્ષ થાય તેવું અનુમાન થઈ રહ્યું છે. આમ પણ આ રહસ્યમયી દેશ વિશે જાણીએ તો વર્તમાન તાનાશાહ કિમ જોંગ ઉનના પરિવારનો પણ હિંસક ઈતિહાસ રહ્યો છે. તો શું પુત્રી અને બહેનમાંથી કોના હાથમાં જશે સત્તાની કમાન? દક્ષિણ કોરિયાના ઈન્ટેલિજન્સ અધિકારીઓ શું કહી રહ્યા છે તે પણ જાણો.",
@@ -403,15 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/who-will-be-the-next-leader-after-kim-jong-13-year-old-daughter-or-fierce-sister-world-news-in-gujarati-465121 ",
     "time": "2026-02-16T10:01:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "દિલ્હીમાં AIનો મહાકુંભ! 3000થી વધુ સ્પીકર્સ, 100થી વધુ દેશોના પ્રતિનિધિઓ, 600 સ્ટાર્ટઅપ્સની હાજરી",
-    "desc": "આજનો દિવસ ભારત માટે ખુબ મહત્વનો છે કારણ કે ભારતમાં આજથી AI Impact Summit શરૂ થઈ રહી છે. આ સમિટમાં ટેક્નોલોજી સેક્ટરના દિગ્ગજો, અનેક દેશોના રાષ્ટ્ર પ્રમુખો પણ સામેલ થઈ રહ્યા છે. દુનિયાભરમાં આ સમિટની ચર્ચા છે. આ સમિટની થીમ છે સર્વજન હિતાય, સર્વજન સુખાય. ખાસ જાણો સમિટ વિશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ai-impact-summit-begins-today-at-bharat-mandapam-delhi-check-details-465103 ",
-    "time": "2026-02-16T07:26:19.000Z"
   },
   {
     "cat": "World",
@@ -574,14 +547,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/brave-ark-launched-2-in-1-android-pc-in-india-with-14550mah-battery-and-12gb-ram-know-the-price-464222 ",
     "time": "2026-02-07T09:37:20.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "દેશની સૌથી સસ્તી 7-સીટર કારને 11914 લોકોએ ખરીદી, કિંમત છે 5.18 લાખ, મળે છે 6 એરબેગ્સ",
-    "desc": "દેશમાં મારુતિ સુઝુકી એકતરફી પ્રભુત્વ ધરાવે છે. તેમ છતાં, એક સેગમેન્ટ એવું છે જ્યાં તે વર્ષોથી પ્રભુત્વ ધરાવે છે. આ સેગમેન્ટમાં બીજી કોઈ કાર તેની નજીક પણ નથી. અમે વાન સેગમેન્ટ વિશે વાત કરી રહ્યા છીએ, જ્યાં આ કારનું વર્ષોથી પ્રભુત્વ ધરાવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/india-cheapest-7-seater-car-was-bought-by-11914-people-the-price-is-5-18-lakhs-it-comes-with-6-airbags-464172 ",
-    "time": "2026-02-06T17:19:52.000Z"
   }
 ];
