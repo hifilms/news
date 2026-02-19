@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "মদ্যপান নিয়ে সামান্য স্বস্তি পাইলটদের, নিয়মে কী বদল আনা হল? দেখে নিন",
+    "desc": "ডিরেক্টরেট জেনারেল অফ সিভিল এভিয়েশন (ডিজিসিএ)–এর নতুন নিয়মে জানানো হয়েছে ব্রেদালাইজারের রিডিং ০.০০১ থেকে ০.০০৯-এর মধ্যে এলেও একটা সুযোগ পাবেন পাইলট। সাসপেন্ড নয়, তবে তিনি ২৪ ঘণ্টা পরে ডিউটিতে ফিরতে পারবেন। তবে এই ক্ষেত্রেও সীমাবদ্ধতা থাকছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Pilot-Rules-Changed-2026-02-b708f7dc51ba3a2e5db4e18046603574-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/dgca-new-rules-for-pilots-know-about-breathalyzer-analysis-updated-rules-ss-2547435.html",
+    "time": "2026-02-19T04:24:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman Khan-Salim Khan: আইসিইউ-তে সেলিম খান, গভীর রাতে লীলাবতীতে বাবাকে দেখতে পৌঁছালেন সলমান খান",
+    "desc": "মুম্বইয়ের লীলাবতী হাসপাতাল-এ ভর্তি প্রবীণ চিত্রনাট্যকার সেলিম খান। হঠাৎ অসুস্থ হয়ে পড়ায় মঙ্গলবার ভোরে তাঁকে হাসপাতালে আনা হয় এবং বর্তমানে তিনি আইসিইউ-তে চিকিৎসাধীন। বাবার শারীরিক অবস্থার খোঁজ নিতে বুধবার গভীর রাতে হাসপাতালে পৌঁছন বলিউড সুপারস্টার সলমান খান।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Salman-Khan-Salim-Khan-2026-02-4bbbcdda8140efdc2e1914ddc4da5d3a-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/bollywood-news-veteran-screenwriter-salim-khan-health-update-lilavati-hospital-mumbai-salman-khan-visits-sal-2547427.html",
+    "time": "2026-02-19T04:22:52.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "আগামী ৪৮ ঘণ্টায়...! আবহাওয়ার বিরাট রদবদল, বজ্রবিদ্যুৎ বৃষ্টি কাঁপাবে ৭ রাজ্য, শিলাবৃষ্টির হুঁশিয়ারি ৩ রাজ্যে, কী হবে বাংলায়? জানিয়ে দিল IMD",
     "desc": "আবহাওয়ার বিরাট ভোলবদল দেশ জুড়ে! একাধিক ঘূর্ণাবর্ত পশ্চিমীঝঞ্ঝার চরম aghat। উত্তর পশ্চিম ভারতের রাজ্যগুলিতে আগামী ২৪ থেকে আটচল্লিশ ঘণ্টায় দিনের তাপমাত্রা ২ থেকে ৪ ডিগ্রি সেলসিয়াস কমবে, তারপরও আগামী দু তিন দিনে সর্বোচ্চ তাপমাত্রা দুই থেকে চার ডিগ্রি সেলসিয়াস বেড়ে যেতে পারে।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/sanj-rain-image-2026-02-1f7b2e76069728c80b39257ce9453568-3x2.jpg",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/mimi-chakraborty-celebrates-her-birthday-with-close-friends-makes-fun-with-anindya-chatterjee-pbd-2534929.html",
     "time": "2026-02-11T06:10:51.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "কানাডার টরন্টোতে শপিং মলের সামনে ভারতীয় যুবককে গুলি করে খুন ! কারণ ঘিরে ধোঁয়াশা",
-    "desc": "কানাডায় এক ভারতীয় যুবককে গুলি করে খুনের অভিযোগ উঠল দুষ্কৃতীদের বিরুদ্ধে। কিন্তু কী কারণে তাঁর উপর হামলা হল, তা এখনও স্পষ্ট নয়। ইতিমধ্যেই ঘটনার তদন্ত শুরু করেছে পুলিশ। যুবকের দেহ ফেরাতে কেন্দ্রের দ্বারস্থ হয়েছে পরিবার।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Techie-Chanda-Shootout-2026-02-dd9e346e9cf24cee7980576cd41d86df-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/indian-death-in-canada-firing-techie-from-karnataka-shot-dead-at-busy-toronto-mall-visuals-show-car-riddled-with-bullet-holes-ss-2534731.html",
-    "time": "2026-02-11T03:57:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘ইচ্ছাধারী নাগিন’-এর গুঞ্জন চরমে! রাতে নিজের ঘরে ঘুমোতে গিয়ে নিখোঁজ তরুণী...বিছানায় পড়ে সাপের খোলস!",
-    "desc": "পরিবারের মতে, রবিবার রাতেও যথারীতি ওই তরুণী তাঁর ঘরে চলে যান। পরের দিন সকালে যখন তাঁর মা তাঁকে ডাকতে যান, তখন বিছানা খালি ছিল। তবে, তিনি যা দেখতে পান তাতে হতবাক হয়ে যান। তাঁর দাবি, বিছানার উপর মেয়ের জামাকাপড় এবং গয়না ছড়িয়ে ছিটিয়ে ছিল। ঠিক পাশেই ৫ ফুট লম্বা সাপের খোলসের মতো কিছু পড়ে ছিল।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/New-Project-2026-02-0b49a72ff9c5af6bf1e418408e6d4634-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/uttar-pradesh-woman-missing-mysteriously-as-snake-skin-is-found-on-her-bed-arc-2534681.html",
-    "time": "2026-02-11T03:50:52.000Z"
   }
 ];

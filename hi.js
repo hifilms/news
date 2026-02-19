@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Arsenal activate SOS mode after 2-2 draw vs Wolves, Premier League shapes for dramatic end",
+    "desc": "Arsenal were the hot favourites to win the Premier League 2025-26 season. Once enjoying a nine-point lead at the top of the table, their advantage has now shrunk to five, following a 2-2 draw against...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/arsenal-activate-sos-mode-after-2-2-draw-vs-wolves-premier-league-shapes-for-dramatic-end-2026-02-19-1030861",
+    "time": "2026-02-19T04:09:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rashid Khan pays tribute to Jonathan Trott ahead of his final game as Afghanistan coach",
+    "desc": "Jonathan Trott had a massive influence on Afghanistan cricket as the former England international transformed the side from perennial underdogs into genuine contenders. In the 2023 ODI World Cup, the Rashid Khan-led side missed the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rashid-khan-pays-tribute-to-jonathan-trott-ahead-of-his-final-game-as-afghanistan-coach-2026-02-19-1030851",
+    "time": "2026-02-19T02:47:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "12 teams earn direct qualification for T20 World Cup 2028, ICC announces",
     "desc": "As the Super Eights of the T20 World Cup 2026 are finalised, the International Cricket Council (ICC) has confirmed the direct qualifiers for the next edition. As co-hosts, Australia and New Zealand were guaranteed for...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pakistan-manage-to-reach-super-8-of-t20-world-cup-2026-defeat-namibia-by-102-runs-at-sinhalese-sports-club-in-colombo-2026-02-18-1030804",
     "time": "2026-02-18T12:55:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India beat Netherlands by 17 runs, stay unbeaten",
-    "desc": "India brushed aside a spirited challenge from the Netherlands in their last group stage outing of the T20 World Cup 2026 at the Narendra Modi Stadium. Shivam Dube scored a strong 66 from 31 balls,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-ned-t20-world-cup-2026-live-cricket-score-india-vs-netherlands-narendra-modi-stadium-ahmedabad-ball-by-ball-commentary-latest-match-updates-2026-02-18-1030799",
-    "time": "2026-02-18T12:34:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan hockey captain alleges players made to wash dishes before matches, PM Shehbaz Sharif orders probe",
-    "desc": "Pakistan hockey captain Shakeel Ammad Butt has launched a strong attack on the Pakistan Hockey Federation (PHF) after returning from a turbulent tour of Australia where the team reportedly faced severe mismanagement. Butt revealed that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/hockey/pakistan-hockey-captain-alleges-players-made-to-wash-dishes-before-matches-pm-shehbaz-sharif-orders-probe-2026-02-18-1030791",
-    "time": "2026-02-18T12:02:19.000Z"
   }
 ];

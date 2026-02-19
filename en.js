@@ -1,5 +1,176 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Clearing the boundary, crossing into history: J&amp;K end 67-year wait, enter Ranji final",
+    "desc": "Jammu and Kashmir have achieved a historic Ranji Trophy final berth after a 67-year wait, defeating Bengal by six wickets. Despite facing a first-innings deficit and a challenging chase, J&K's resilience, spearheaded by Abdul Samad and Vanshaj Sharma, secured their maiden final appearance. Pacer Auqib Nabi was a standout performer.",
+    "img": "https://static.toiimg.com/photo/msid-128538103,imgsize-41740.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/clearing-the-boundary-crossing-into-history-jk-end-67-year-wait-enter-maiden-ranji-final/articleshow/128537994.cms",
+    "time": "2026-02-19T04:03:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Know all about Lil Poppa and his family",
+    "desc": "Famed soulful rapper Lil Poppa, aged 25, has tragically passed away, sending shockwaves globally. He is survived by his parents and girlfriend, Toie Roberts, daughter of Rick Ross, with whom he shared a three-year-old son, PJ. The couple, who kept their relationship private, were reportedly focused on their careers. The cause of death remains undisclosed.",
+    "img": "https://static.toiimg.com/photo/msid-128537914,imgsize-21044.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/lil-poppas-family-know-all-about-him-his-girlfriend-and-their-3-year-old-son/articleshow/128537914.cms",
+    "time": "2026-02-19T03:58:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shia LaBeouf seen dancing with release papers in mouth",
+    "desc": "Shia LaBeouf was arrested in New Orleans for alleged physical altercations during Mardi Gras celebrations. After his release, the actor was seen joyfully dancing on Bourbon Street, holding his jail release papers in his mouth. He had reportedly assaulted two men after being asked to leave a Royal Street business.",
+    "img": "https://static.toiimg.com/photo/msid-128537795,imgsize-29334.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/shia-labeouf-spotted-dancing-with-release-papers-in-mouth-videos-surface-only-hours-after-the-stars-arrest-in-new-orleans/articleshow/128537795.cms",
+    "time": "2026-02-19T03:55:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "After ‘she helped rediscover excitement’ remark, Pandya posts for Mahieka",
+    "desc": "Hardik Pandya shared a birthday post for girlfriend Mahieka Sharma, calling her “my princess.” He confirmed their relationship in late 2025 after divorcing Natasa Stankovic. Mahieka has been seen with his son Agastya and helped motivate him to rediscover his cricketing potential. On Valentine’s Day 2026, Hardik got an ‘M’ and leopard tattoo symbolising their strong bond and mutual support.",
+    "img": "https://static.toiimg.com/photo/msid-128537626,imgsize-55294.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-she-helped-rediscover-excitement-remark-hardik-pandya-shares-intimate-birthday-post-for-mahieka-sharma/articleshow/128537200.cms",
+    "time": "2026-02-19T03:46:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The need for diversity in the judiciary",
+    "desc": "What does the private Bill by DMK party member P. Wilson constitute? Why was the collegium system introduced? Why did the Supreme Court strike down the National Judicial Appointments Commission? How will regional benches of the Supreme Court help with respect to access?",
+    "img": "https://th-i.thgim.com/public/incoming/q14saz/article70649019.ece/alternates/LANDSCAPE_1200/iStock-811927148.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/the-need-for-diversity-in-the-judiciary-explained/article70648994.ece",
+    "time": "2026-02-19T03:29:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jisoo's 'Boyfriend On Demand' trailer",
+    "desc": "BLACKPINK's Jisoo stars in the new K-drama 'Boyfriend on Demand,' a rom-com blending virtual and real romance. The trailer reveals Jisoo as a webtoon producer using a dating sim, encountering her colleague Seo In-guk. The series features a star-studded cast of special appearances, exciting fans for its March 6 premiere.",
+    "img": "https://static.toiimg.com/photo/msid-128536077,imgsize-28140.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/boyfriend-on-demand-trailer-jisoo-enters-her-rom-com-era-as-she-gives-virtual-dating-a-shot-in-k-drama-series-opposite-seo-in-guk/articleshow/128535254.cms",
+    "time": "2026-02-19T03:15:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Action Hero Biju’ actor Shafeeq arrested",
+    "desc": "Junior actor Shafeeq, known as ‘Alku’ and recognized from 'Action Hero Biju', was arrested for operating an illegal late-night liquor distribution network in Ernakulam. Officials seized a significant quantity of alcohol and the vehicle used for deliveries. Meanwhile, a separate legal dispute concerning the 'Action Hero Biju' title rights between Nivin Pauly and producer P.S. Shamnas is heading to mediation.",
+    "img": "https://static.toiimg.com/photo/msid-128536510,imgsize-23048.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/illegal-liquor-network-busted-action-hero-biju-actor-shafeeq-arrested-52-litres-seized-car-confiscated/articleshow/128536510.cms",
+    "time": "2026-02-19T03:11:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Ticked all the boxes’: Suryakumar sends Super 8s warning after dominant run",
+    "desc": "India captain Suryakumar Yadav expressed confidence after his team's dominant group stage performance in the ongoing T20 World Cup. He highlighted that the team has \"ticked almost all the boxes\" and is ready for the Super 8s, citing Shivam Dube's crucial innings and the team's bowling flexibility as key strengths.",
+    "img": "https://static.toiimg.com/photo/msid-128536299,imgsize-69226.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ticked-almost-all-the-boxes-suryakumar-yadav-sends-super-8s-warning-after-dominant-run-in-t20-world-cup/articleshow/128536249.cms",
+    "time": "2026-02-19T03:02:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock recommendations for February 19, 2026",
+    "desc": "Sona BLW Precision Forgings, PFC, and NLC India are the top stocks that Aakash K Hindocha, Deputy Vice President - WM Research of Nuvama Professional Clients Group recommends buying today. Here is the expert’s view on Nifty, Bank Nifty for February 19, 2026:",
+    "img": "https://static.toiimg.com/photo/msid-128536251,imgsize-61944.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-february-19-2026-sona-blw-precision-forgings-pfc-nlc-india-best-stocks-to-buy-today/articleshow/128536171.cms",
+    "time": "2026-02-19T03:00:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Get 25% above normal hourly wage, 50% extra for evening shifts: Ramadan 2026 overtime work rules in UAE explained",
+    "desc": "UAE private sector employees now enjoy a two-hour daily reduction in working hours during Ramadan, a legal right for all regardless of faith. This adjustment supports work-life balance and respects the physical demands of fasting. While most benefit, some roles have exemptions and overtime rules ensure fair compensation for extra work.",
+    "img": "https://static.toiimg.com/photo/msid-128536080,imgsize-44180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/ramadan-2026-overtime-work-rules-in-uae-explained-get-25-above-normal-hourly-wage-50-extra-for-evening-shifts/articleshow/128534684.cms",
+    "time": "2026-02-19T02:59:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'He's a murderer': Wasim’s ex-wife seeks help from PM Sharif, Naqvi",
+    "desc": "Imad Wasim’s ex-wife Sannia Ashfaq accused him of forcing her to abort their child in 2023, cheating on her, and threatening her during pregnancy. She shared posts, videos, and messages claiming emotional and physical trauma and called him a “murderer.” Ashfaq urged a boycott of Islamabad United and requested an investigation by Pakistan’s PM and PCB chief.",
+    "img": "https://static.toiimg.com/photo/msid-128536164,imgsize-63112.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/hes-a-murderer-pakistan-bowler-imad-wasims-ex-wife-seeks-help-from-pm-shehbaz-sharif-mohsin-naqvi/articleshow/128535033.cms",
+    "time": "2026-02-19T02:56:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Christy Carlson Romano shares her cancer screening results",
+    "desc": "Christy Carlson Romano, once a beloved face on Disney, has bravely shared her health struggles with fans after receiving distressing news from her cancer screening. With personal experience of loss in her family due to the illness, she finds herself getting ready for a PET scan while navigating the complex maze of insurance hurdles.",
+    "img": "https://static.toiimg.com/photo/msid-128535665,imgsize-33758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/cancer-is-everywhere-christy-carlson-romano-reveals-positive-cancer-screening-results-in-emotional-video/articleshow/128535651.cms",
+    "time": "2026-02-19T02:40:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Govinda's nephew reveals actor rejected film, event offers",
+    "desc": "Vinay Anand, who considers Govinda a father figure, shared his worries about the Bollywood icon's choice to decline several film and event opportunities. Despite his own accomplishments in the industry, Anand respects his uncle profoundly and never challenges his decisions, valuing the trust in their close-knit relationship. Read on to know more.",
+    "img": "https://static.toiimg.com/photo/msid-128535394,imgsize-22288.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govindas-nephew-vinay-anand-reveals-actor-rejected-movie-and-event-offers-says-he-has-his-own-reasons/articleshow/128535394.cms",
+    "time": "2026-02-19T02:35:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nicole Kidman romantically pursued by a multimillionaire?",
+    "desc": "Nicole Kidman, fresh from her divorce, is attracting the gaze of Paul Salem, a distinguished 62-year-old businessman and chairman of MGM Resorts International. Salem, also a divorcee, has shown interest in the celebrated actress. Despite having mutual acquaintances and meeting in social situations, sources indicate they aren’t romantically involved at this stage or spending one-on-one time together.",
+    "img": "https://static.toiimg.com/photo/msid-128535354,imgsize-888339.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/nicole-kidman-romantically-pursued-by-a-multimillionaire-businessman-heres-what-we-know/articleshow/128535354.cms",
+    "time": "2026-02-19T02:32:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Seyon' glimpse trivia: 'Virumaandi' connection SPOTTED",
+    "desc": "The glimpse of Sivakarthikeyan's 'Seyon', produced by Kamal Haasan, has ignited social media with a clear nod to Haasan's 'Virumaandi'. Set during a Madurai temple festival, the clip features Sivakarthikeyan embodying a fierce character, drawing immediate comparisons and fan excitement for a potential crossover. This film is anticipated to be a significant comeback for the star.",
+    "img": "https://static.toiimg.com/photo/msid-128535180,imgsize-60314.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sivakarthikeyans-seyon-glimpse-trivia-kamal-haasan-fans-spot-virumaandi-connection/articleshow/128535063.cms",
+    "time": "2026-02-19T02:20:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘When friends connect, innovation follows’: French President Macron shares AI image with PM Modi",
+    "desc": "French President Emmanuel Macron visited India and met Prime Minister Narendra Modi. He shared an AI-generated image of the two leaders. Macron attended the AI Impact Summit in New Delhi. The summit focused on responsible and development-focused AI. India is hosting the global AI gathering. Leaders discussed AI's future and its impact on people, planet, and progress.",
+    "img": "https://static.toiimg.com/photo/msid-128534753,imgsize-756332.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/when-friends-connect-innovation-follows-french-president-macron-shares-ai-image-with-pm-modi/articleshow/128534346.cms",
+    "time": "2026-02-19T02:18:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man' synopsis teases Peter Parker is 'no more'",
+    "desc": "Brand New Day' reveals Peter Parker is forgotten, but Spider-Man is saving New York. A new mystery emerges, forcing him to confront his past. Sadie Sink's character hints at a deeper connection, suggesting not everyone has forgotten Peter. The film, starring Tom Holland, is set for a July 2026 release.",
+    "img": "https://static.toiimg.com/photo/msid-128534068,imgsize-44688.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-brand-new-day-synopsis-teases-tom-hollands-peter-parker-is-no-more-ahead-of-trailer-drop/articleshow/128533947.cms",
+    "time": "2026-02-19T02:02:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Richa RESPONDS to trolling over meeting with Emmanuel Macron",
+    "desc": "Richa Chadha clapped back at naysayers who critiqued her appearance at an event alongside French President Emmanuel Macron. During the gathering, Macron dubbed the attendees as 'Legends of Indian cinema.' In a spirited Instagram post, Chadha encouraged those casting doubt to channel their energy into personal development instead of harboring jealousy.",
+    "img": "https://static.toiimg.com/photo/msid-128534426,imgsize-31122.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/richa-chadha-reacts-to-people-trolling-her-for-meeting-french-president-emmanuel-macron-if-it-has-given-you-loose-motions-/articleshow/128534426.cms",
+    "time": "2026-02-19T02:00:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sri Lanka and Zimbabwe to battle for group bragging rights",
+    "desc": "Sri Lanka has emerged as a strong contender, leveraging their knowledge of local conditions to defeat Oman and Ireland, while crushing Australia by eight wickets to establish themselves as a well-rounded side with the potential to go all the way",
+    "img": "https://th-i.thgim.com/public/incoming/qxxiqp/article70650181.ece/alternates/LANDSCAPE_1200/AFP_97TW8XA.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-sri-lanka-and-zimbabwe-to-battle-for-group-bragging-rights/article70649437.ece",
+    "time": "2026-02-19T01:57:29.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "O’hara honored by loved ones at private funeral service",
     "desc": "Catherine O'Hara, the beloved star known for her unforgettable roles in 'Home Alone' and 'Schitt's Creek,' was honored at an intimate funeral in Los Angeles on February 14, after her passing on January 30, 2026. Friends and family gathered to pay tribute to her incredible legacy of humor and warmth.",
@@ -180,15 +351,6 @@ const newsData_en = [
     "time": "2026-02-19T00:13:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Couple Friendly' BO day 3: Film mints Rs 6 crores",
-    "desc": "Valentine's Day release 'Couple Friendly', starring Manasa Varanasi and Santosh Shobhan, is showing strong box office momentum. The romantic drama has crossed Rs 6 crore in its opening three days, with occupancy steadily rising. Promotions are ongoing, and the film's relatable theme might contribute to a successful run, potentially becoming a surprise hit.",
-    "img": "https://static.toiimg.com/photo/msid-128531964,imgsize-46522.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/couple-friendly-box-office-collections-day-3-manasa-varanasi-starrer-mints-rs-6-crores/articleshow/128531964.cms",
-    "time": "2026-02-19T00:06:21.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Yotta to invest $2bn for AI hub with top Nvidia chips",
     "desc": "India is set to host one of Asia's largest AI superclusters with Yotta Data Services investing $2 billion to deploy over 20,000 Nvidia Blackwell Ultra GPUs by August 2026. This move addresses a critical compute gap in India's AI ecosystem, with a focus on inferencing to support scaled AI applications for millions.",
@@ -234,6 +396,15 @@ const newsData_en = [
     "time": "2026-02-18T23:31:00.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "'Hum dispresan mein hain': Memes storm internet after Babar Azam demoted",
+    "desc": "Babar Azam faced online backlash during Pakistan's T20 World Cup match against Namibia, not getting a chance to bat. Despite being a key player, his recent form has been questioned. Team management opted for aggressive batters ahead of him, sparking fan criticism and memes about his role and the team's strategy.",
+    "img": "https://static.toiimg.com/photo/msid-128508290,imgsize-35818.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/hum-dispresan-mein-hain-memes-storm-internet-after-babar-azam-demoted-against-namibia/articleshow/128506881.cms",
+    "time": "2026-02-18T23:30:00.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Child-lifting rumours fuel MP mob attacks",
     "desc": "A disturbing surge in mob violence, fueled by child-lifting rumors, has led to innocent individuals being attacked across Madhya Pradesh. In Indore, a mentally ill woman was assaulted, and similar panic-driven attacks are occurring without any evidence of actual kidnappings. Police urge citizens to report suspicions rather than taking the law into their own hands.",
@@ -262,84 +433,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Tamil Nadu report wants governors 'defanged'",
-    "desc": "Tamil Nadu's assembly has tabled a report recommending diminished powers for state governors and greater state autonomy in constitutional amendments. The committee proposed binding the President to appoint governors from a list approved by state assemblies and imposing timelines for bill assent.",
-    "img": "https://static.toiimg.com/photo/msid-128529961,imgsize-35084.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-report-wants-governors-defanged/articleshow/128530003.cms",
-    "time": "2026-02-18T22:41:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lanka and Zimbabwe to battle for group bragging rights",
-    "desc": "Sri Lanka has emerged as a strong contender, leveraging their knowledge of local conditions to defeat Oman and Ireland, while crushing Australia by eight wickets to establish themselves as a well-rounded side with the potential to go all the way",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-sri-lanka-and-zimbabwe-to-battle-for-group-bragging-rights/article70649437.ece",
-    "time": "2026-02-18T22:22:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hardik credits Mahieka for reigniting his cricket passion",
-    "desc": "India all-rounder Hardik Pandya has opened up about the positive impact his girlfriend Mahieka Sharma has had on both his personal life and cricketing journey. Hardik confirmed his relationship with Mahieka in late 2025, over a year after his July 2024 divorce from Natasa Stankovic.",
-    "img": "https://static.toiimg.com/photo/msid-128528452,imgsize-39280.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hardik-pandya-credits-girlfriend-mahieka-sharma-for-reigniting-his-cricket-passion-she-helped-me-rediscover-that-excitement-for-the-game/articleshow/128528179.cms",
-    "time": "2026-02-18T22:20:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AI summit sees rollout of P2P power trading",
-    "desc": "Uttar Pradesh farmer successfully sold surplus solar power directly to a Delhi shopkeeper via a blockchain-enabled platform. This marked the launch of India's peer-to-peer electricity trading program at the India AI Impact Summit. The transaction involved six units of solar power, earning the farmer Rs 30.",
-    "img": "https://static.toiimg.com/photo/msid-128528514,imgsize-764418.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ai-summit-sees-rollout-of-p2p-power-trading/articleshow/128528485.cms",
-    "time": "2026-02-18T22:19:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka on her debut Hollywood production 'The Bluff'",
-    "desc": "Priyanka Chopra celebrated her debut Hollywood production, 'The Bluff,' by wearing a gown featuring her character's original armour. This deeply personal ensemble, a collaboration with artisans and designers, symbolized her character's transformation. The action-adventure film, exploring colonialism through a pirate narrative, releases digitally on February 25.",
-    "img": "https://static.toiimg.com/photo/msid-128527425,imgsize-36008.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-on-her-debut-hollywood-production-the-bluff-to-me-this-is-a-much-needed-fun-pirate-movie/articleshow/128527285.cms",
-    "time": "2026-02-18T22:16:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'House of the Dragon' Season 3 trailer to release tomorrow",
-    "desc": "HBO has confirmed the first trailer for 'House of the Dragon' Season 3 drops tomorrow, featuring Queen Rhaenyra on the Iron Throne. The upcoming season promises intense battles and bloodshed, marking the biggest and most violent installment yet. New cast members join the returning ensemble for the highly anticipated June release.",
-    "img": "https://static.toiimg.com/photo/msid-128525812,imgsize-25278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/house-of-the-dragon-season-3-trailer-to-release-tomorrow-rhaenyra-targaryen-set-for-june-2026-return-to-claim-iron-throne/articleshow/128525782.cms",
-    "time": "2026-02-18T21:35:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranbir, Alia attend Mumbai wedding with Raha, Neetu, Soni",
-    "desc": "It was a picture-perfect evening in Mumbai as Ranbir Kapoor and Alia Bhatt stepped out for a wedding celebration with their daughter Raha Kapoor. Soon after, videos and photos of the trio — along with their mothers Neetu Kapoor and Soni Razdan — began circulating on social media.",
-    "img": "https://static.toiimg.com/photo/msid-128526478,imgsize-47640.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-gently-carries-raha-in-his-arms-as-he-attends-mumbai-wedding-with-alia-bhatt-neetu-kapoor-and-soni-razdan/articleshow/128526403.cms",
-    "time": "2026-02-18T21:29:05.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "NGT Orders joint probe into quarry impact on Tata Cancer Hospital due to illegal mining",
     "desc": "The bench comprising Justice Dinesh Kumar Singh and Expert Member Dr. Sujit Kumar Bajpayee directed to conduct the survey and ascertain the scale of excavation and possible damage to the premier cancer treatment and research facility",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/maharashtra/ngt-orders-joint-probe-into-quarry-impact-on-tata-cancer-hospital-due-to-illegal-mining/article70648088.ece",
     "time": "2026-02-18T21:27:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kamal admits SRK’s publicity for Hey Ram misled audiences",
-    "desc": "Shah Rukh Khan’s association with Hey Ram continues to be remembered as one of his most unusual collaborations. In a recent interview, Kamal Haasan revisited the film’s journey and spoke at length about Shah Rukh’s contribution.",
-    "img": "https://static.toiimg.com/photo/msid-128525392,imgsize-36878.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kamal-haasan-admits-shah-rukh-khans-publicity-for-hey-ram-misled-audiences-i-was-in-financial-soup/articleshow/128525264.cms",
-    "time": "2026-02-18T20:35:24.000Z"
   },
   {
     "cat": "Politics",
@@ -349,15 +448,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/bihar/rjd-mp-sudhakar-urges-bihar-cm-to-end-all-ties-with-gates-foundation-following-its-name-surfaces-in-epstein-files/article70647872.ece",
     "time": "2026-02-18T20:18:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay’s Hyderabad home lights up amid wedding with Rashmika",
-    "desc": "Speculation around the relationship status of Vijay Deverakonda and Rashmika Mandanna has once again taken centre stage on social media. A video showing Vijay’s Jubilee Hills residence in Hyderabad lit up with decorative lights has gone viral, prompting fresh chatter about an impending wedding on February 24.",
-    "img": "https://static.toiimg.com/photo/msid-128522178,imgsize-65844.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakondas-hyderabad-home-lights-up-amid-february-26-wedding-with-rashmika-mandanna/articleshow/128522027.cms",
-    "time": "2026-02-18T18:43:50.000Z"
   },
   {
     "cat": "Sports",
@@ -430,15 +520,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/energy-and-environment/us-energy-chief-says-iea-must-drop-focus-on-climate-change/article70648983.ece",
     "time": "2026-02-18T17:01:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Doctors clarify Salim Khan was not in critical condition",
-    "desc": "Veteran screenwriter Salim Khan, 90, was admitted to Lilavati Hospital on Tuesday morning after suffering a haemorrhage. Hospital officials confirmed that he was brought in around 8.30 am by his family physician, Dr Sandeep Chopra, following a sudden deterioration in his health.",
-    "img": "https://static.toiimg.com/photo/msid-128516125,imgsize-18534.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salim-khan-health-update-doctors-clarify-that-legendary-sholay-and-deewar-writer-was-not-in-critical-condition-as-reported/articleshow/128515986.cms",
-    "time": "2026-02-18T16:19:20.000Z"
   },
   {
     "cat": "Business",
@@ -549,15 +630,6 @@ const newsData_en = [
     "time": "2026-02-18T14:00:19.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Not just a tax-saving tool — new rules, retirement benefits &amp; more explained",
-    "desc": "As India's private sector workforce steps into a new era of financial independence, individuals are urged to take charge of their retirement savings. The National Pension System (NPS) stands out as a strategic investment choice, boasting market-driven returns and offering recent updates that enhance user flexibility.",
-    "img": "https://static.toiimg.com/photo/msid-128511467,imgsize-1444530.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/financial-literacy/retirement-planning/national-pension-system-not-just-a-tax-saving-tool-new-rules-retirement-benefits-more-explained/articleshow/128509988.cms",
-    "time": "2026-02-18T13:58:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ukraine officials will boycott Paralympics over Russia participation, sports minister says",
     "desc": "International federations for each sport on the Paralympic Games programme had said they would maintain ‌bans on athletes from those countries, but Russia and Belarus won an appeal with the Court of Arbitration for Sport in December against the International Ski and Snowboard Federation, earning a handful of spots",
@@ -592,15 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sahibzada-farhan-once-challenged-babar-azam-made-documentary-on-hitting-sixes-off-bumrah-now-a-world-cup-centurion/articleshow/128508203.cms",
     "time": "2026-02-18T12:45:47.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'India doesn't negotiate as a meek nation': Piyush Goyal says trust is key referring to recent trade deals",
-    "desc": "Piyush Goyal revealed India's ambitious economic diplomacy, emphasising engagement and trust to achieve trade success. He highlighted the nation's goal of becoming a $30-35 trillion economy by 2047, stressing the need for global integration. Goyal noted India's recent success in securing trade agreements from a position of strength, while safeguarding national interests.",
-    "img": "https://static.toiimg.com/photo/msid-128508156,imgsize-46562.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-doesnt-negotiate-as-a-meek-nation-piyush-goyal-says-trust-is-key-referring-to-recent-trade-deals/articleshow/128506628.cms",
-    "time": "2026-02-18T11:58:13.000Z"
   },
   {
     "cat": "Sports",
@@ -666,15 +729,6 @@ const newsData_en = [
     "time": "2026-02-18T08:18:37.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'We had to wash dishes ...': Pakistan hockey captain lashes out at PHF",
-    "desc": "Pakistan's hockey captain, Shakeel Ammad Butt, has fiercely criticised the Pakistan Hockey Federation following a disastrous tour of Australia. Players endured severe accommodation issues, including being forced to wash dishes before matches, and faced significant delays and unconfirmed bookings. Butt stated the team's performance was negatively impacted by these embarrassing circumstances.",
-    "img": "https://static.toiimg.com/photo/msid-128498303,imgsize-27086.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/we-had-to-wash-dishes-pakistan-hockey-captain-lashes-out-at-phf/articleshow/128498150.cms",
-    "time": "2026-02-18T07:57:19.000Z"
-  },
-  {
     "cat": "Business",
     "title": "What makes gold so precious?",
     "desc": "It’s chemistry’s greatest gift to mankind. Without it, we can’t adorn ourselves with the finest jewellery; nor can we have a backup for financial security. It’s gold. But what makes it so precious? Let’s have a look.",
@@ -702,15 +756,6 @@ const newsData_en = [
     "time": "2026-02-18T07:36:18.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Full list of leading wicket-takers",
-    "desc": "Shadley van Schalkwyk is dominating the T20 World Cup 2026 with two four-wicket hauls, leading the tournament with 13 wickets. Seven teams have already advanced to the Super 8s, with Pakistan and the USA vying for the final spot as the group stage concludes.",
-    "img": "https://static.toiimg.com/photo/msid-128496455,imgsize-112354.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/most-wickets-in-icc-mens-t20-world-cup-2026-full-list-of-leading-wicket-takers/articleshow/128496016.cms",
-    "time": "2026-02-18T07:03:51.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Warner Bros reopens takeover talks with Paramount after receiving a waiver from Netflix",
     "desc": "Television and film titan Warner Bros. Discovery, which owns CNN, announced in late October that it was open to acquisition offers; its board subsequently accepted a bid from Netflix to buy only its streaming and studio business.",
@@ -718,15 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/warner-bros-says-reopening-talks-with-paramount-on-its-buyout-offer/article70645768.ece",
     "time": "2026-02-18T06:40:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "History made! J&amp;K stun Bengal to enter maiden Ranji Trophy final",
-    "desc": "Jammu and Kashmir achieved a historic Ranji Trophy final berth after 67 years, defeating former champions Bengal by six wickets. Pace bowler Auqib Nabi's nine-wicket haul set up a manageable target, which Vanshaj Sharma and Abdul Samad expertly chased down. This remarkable victory marks a significant milestone for J&K cricket.",
-    "img": "https://static.toiimg.com/photo/msid-128494867,imgsize-29236.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/history-made-jammu-and-kashmir-stun-bengal-to-enter-maiden-ranji-trophy-final/articleshow/128494703.cms",
-    "time": "2026-02-18T06:16:52.000Z"
   },
   {
     "cat": "World",
@@ -745,24 +781,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/exclusive-kerala-to-canada-to-t20-world-cup-joji-vargheses-dream-meeting-with-sanju-samson/articleshow/128493358.cms",
     "time": "2026-02-18T05:37:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma eyes first runs as India face Netherlands before Super 8s",
-    "desc": "India face the Netherlands in their final World Cup league match, aiming for Abhishek Sharma to regain form ahead of the Super 8s. This fixture offers a valuable opportunity for acclimatisation to the Ahmedabad venue, where India will play their opening Super 8 fixture. Despite the one-sided look on paper, a large crowd is expected.",
-    "img": "https://static.toiimg.com/photo/msid-128492447,imgsize-81690.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/still-waiting-abhishek-sharma-eyes-first-runs-as-india-face-netherlands-before-super-8s/articleshow/128492343.cms",
-    "time": "2026-02-18T04:59:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘We deserve it’: Australia face backlash after ‘shambolic’ T20 World Cup exit",
-    "desc": "Australia's T20 World Cup journey ended abruptly, sparking outrage over their bowling frailties and questionable selections. Former spinner Brad Hogg labelled the campaign \"shambolic,\" highlighting a severe lack of bowling depth. Injuries and strategic missteps, including the handling of Steve Smith, contributed to the stunning group-stage exit, leaving the team facing urgent structural reviews.",
-    "img": "https://static.toiimg.com/photo/msid-128489962,imgsize-149206.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-probably-deserve-what-weve-got-australia-face-backlash-after-shambolic-t20-world-cup-exit/articleshow/128489951.cms",
-    "time": "2026-02-18T03:17:39.000Z"
   },
   {
     "cat": "World",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-foreign-minister-abbas-araghchi-in-geneva-for-talks-as-irgc-begins-live-fire-drills-near-strait-of-hormuz/article70640297.ece",
     "time": "2026-02-16T16:35:00.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran meets U.N. nuclear watchdog in Geneva ahead of a second round of U.S. talks",
-    "desc": "U.S. President Donald Trump initially threatened to take military action over Iran’s bloody crackdown on nationwide protests last month but then shifted to a pressure campaign in recent weeks to try to get Tehran to make a deal over its nuclear program",
-    "img": "https://th-i.thgim.com/public/incoming/bk2lab/article70638851.ece/alternates/LANDSCAPE_1200/EU_Iran_Talks_23508.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-meets-un-nuclear-watchdog-in-geneva-ahead-of-a-second-round-of-us-talks/article70638488.ece",
-    "time": "2026-02-16T12:33:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Deputy CM Udhayanidhi presents Tamil Nadu State Film Awards for 2016-2022, says awards chosen by committee",
-    "desc": "Deputy CM counters criticism over awards; says the awards were not announced for many years together and were now being given on recommendation of a panel headed by ex-judge; A.R. Rahman, Karthi, Dhanush among artistes honoured",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/gy7r8z/article70629870.ece/alternates/LANDSCAPE_1200/Cine%20awards.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/deputy-cm-udhayanidhi-presents-tamil-nadu-state-film-awards-for-2016-2022-says-awards-chosen-by-committee/article70629589.ece",
-    "time": "2026-02-16T09:49:59.000Z"
   }
 ];
