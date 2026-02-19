@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India enter Super Eights with plenty of batting issues, team remains calm ahead of South Africa clash",
+    "desc": "Four wins in four matches might suggest that everything is going well in the Indian team. However, someone who had a closer look would understand the underlying issues that need to be sorted before the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-enter-super-eights-with-plenty-of-batting-issues-team-remains-calm-ahead-of-south-africa-clash-2026-02-19-1030906",
+    "time": "2026-02-19T09:22:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sahibzada Farhan on course to break Virat Kohli’s legendary record in T20 World Cup",
+    "desc": "After registering a duck against India in the T20 World Cup 2026, Sahibzada Farhan responded in style with a blistering century in Pakistan’s final group-stage clash against Namibia. Under significant pressure heading into the contest,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sahibzada-farhan-on-course-to-break-virat-kohlis-legendary-record-in-t20-world-cup-2026-02-19-1030898",
+    "time": "2026-02-19T08:19:51.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Hardik Pandya shares sea-soaked intimate birthday post for girlfriend Maheika Sharma",
     "desc": "Hardik Pandya on Thursday morning shared an intimate birthday post for girlfriend, Mahieka Sharma. The cricketer took to Instagram to celebrate her birthday, sharing a cosy photograph of the two and captioning it with a...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/indias-schedule-for-t20-world-cup-2026-super-eight-stage-when-will-defending-champions-be-in-action-next-2026-02-18-1030840",
     "time": "2026-02-18T18:21:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India maintain clean sheet in T20 World Cup 2026 group stage after win over Netherlands in Ahmedabad",
-    "desc": "India will head into the T20 World Cup 2026 Super Eight unbeaten after maintaining a clean sheet in the group stage of the tournament. The defending champions, eyeing history, defeated the Netherlands in their last...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-maintain-clean-sheet-in-group-stage-after-strong-win-over-dutch-in-t20-world-cup-2026-2026-02-18-1030834",
-    "time": "2026-02-18T17:07:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Check full schedule and fixtures as all teams confirm qualification",
-    "desc": "Pakistan became the last team to book their spot in the Super Eight stage of the T20 World Cup 2026 after their win over Namibia on Wednesday confirmed their place in Group 2 of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-2026-super-eight-stage-check-full-schedule-and-fixtures-as-all-teams-confirm-qualification-2026-02-18-1030833",
-    "time": "2026-02-18T16:57:13.000Z"
   }
 ];

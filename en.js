@@ -1,5 +1,212 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "Bharat Petroleum, HMEL turn to Venezuelan crude as India reduces Russian oil purchases: Report",
+    "desc": "India's BPCL and HMEL have each acquired one million barrels of Venezuelan crude, marking significant new imports for the nation. This move, facilitated by trader Vitol, boosts India's Venezuelan oil intake as refiners pivot away from Russian supplies. The purchases are part of a broader trend of increased Venezuelan oil exports, with US refiners also scaling up their purchases.",
+    "img": "https://static.toiimg.com/photo/msid-128550499,imgsize-351996.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/bharat-petroleum-hmel-turn-to-venezuelan-crude-as-india-reduces-russian-oil-purchases-report/articleshow/128549844.cms",
+    "time": "2026-02-19T09:32:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Expectations weighing him down’: Gavaskar reveals how Abhishek can survive WC test",
+    "desc": "Cricket legend Sunil Gavaskar believes pressure is affecting India's young opening batter Abhishek Sharma's T20 World Cup form, advising him to build his innings patiently rather than forcing big shots early. He also praised Shivam Dube's explosive batting and highlighted Varun Chakravarthy's crucial role as a key bowler for India.",
+    "img": "https://static.toiimg.com/photo/msid-128549189,imgsize-212710.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/expectations-weighing-him-down-sunil-gavaskar-reveals-how-abhishek-sharma-can-survive-t20-world-cup-test/articleshow/128549186.cms",
+    "time": "2026-02-19T09:02:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kanye West's net worth: Inside the rapper's financial empire",
+    "desc": "The net worth of rapper Ye is stirring up quite the discussion, as Forbes estimates it to be around $400 million after some key partnerships have dissolved. Ye, not one to shy away from grand projections, confidently asserts that he will attain a remarkable $2.77 billion by 2025, thanks to his music empire and the Yeezy label.",
+    "img": "https://static.toiimg.com/photo/msid-128547818,imgsize-31060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kanye-wests-net-worth-is-the-controversial-rapper-a-millionaire-or-a-billionaire/articleshow/128547818.cms",
+    "time": "2026-02-19T08:49:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress a divided house in Kerala, has no leader to match stature of Pinarayi Vijayan: K.V. Thomas",
+    "desc": "K.V. Thomas, Kerala’s Special Representative with Cabinet rank in New Delhi, discusses the State’s political landscape, financial challenges, and prospects for the Left ahead of Assembly elections. He says Kerala has been pushed to ‘the brink of a financial crisis for political reasons’",
+    "img": "https://th-i.thgim.com/public/incoming/em3bar/article70650924.ece/alternates/LANDSCAPE_1200/Thomas01.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/congress-a-divided-house-in-kerala-has-no-leader-to-match-stature-of-pinarayi-vijayan-kv-thomas/article70650669.ece",
+    "time": "2026-02-19T08:39:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "At AI Summit, PM Modi’s nameplate carries a ‘Bharat’ message",
+    "desc": "Prime Minister Narendra Modi urged the global community at the AI Impact Summit to leverage technological disruption as humanity's greatest opportunity, emphasizing \"right action\" guided by \"right understanding.\" The summit also saw the country's nameplate displayed as \"Bharat,\" a recurring practice at official global events, sparking renewed discussion.",
+    "img": "https://static.toiimg.com/photo/msid-128547828,imgsize-665618.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/at-ai-summit-pm-modis-nameplate-carries-a-bharat-message/articleshow/128547864.cms",
+    "time": "2026-02-19T08:30:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Spider-Man OTT India watch guide",
+    "desc": "Brand New Day' opens a new chapter for Peter Parker, four years after the events of 'Spider-Man: No Way Home'. With the world having forgotten his identity, Peter continues protecting New York in complete anonymity, carrying the emotional weight of that sacrifice. Tom Holland returns as Peter Parker, alongside Zendaya as MJ and Jacob Batalon as Ned, with Benedict Cumberbatch expected to reprise Doctor Strange. An early art-book listing inadvertently revealed the film’s synopsis, hinting at a mysterious wave of crimes that pulls Spider-Man into deeper, more personal stakes than ever before. Here are the Spider-Man movies you should watch on OTT in India before 'Spider-Man: Brand New Day' releases, for the full story and feels.",
+    "img": "https://static.toiimg.com/photo/msid-128547145,imgsize-18058.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-movies-to-watch-on-ott-in-india-before-spider-man-brand-new-day-releases/photostory/128547145.cms",
+    "time": "2026-02-19T08:15:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "The ‘new’ Morkel India must take note of before Super Eight",
+    "desc": "South Africa's specialist consultant Albie Morkel lightened the mood ahead of their UAE clash, joking about his brother Morne's role with India. Albie's focus on yorkers and building confidence has bolstered the Proteas' formidable pace attack, with bowlers like Lungi Ngidi and Marco Jansen excelling. He credits Stephen Fleming for shaping his player-centric coaching approach.",
+    "img": "https://static.toiimg.com/photo/msid-128546686,imgsize-51140.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/brother-vs-brother-the-new-albie-morkel-india-must-take-note-of-before-t20-world-cup-super-eight/articleshow/128546437.cms",
+    "time": "2026-02-19T08:05:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about the late young rapper Lil Poppa’s career",
+    "desc": "Young rapper Lil Poppa, celebrated for his soulful and emotional music, has tragically passed away at just 25. Known for his unique style and popular tracks like ‘Love and War’, his sudden death has sent shockwaves through his fanbase. The artist, whose real name was Janarious Mykel Wheeler, was found deceased on February 18th, leaving fans heartbroken and seeking answers.",
+    "img": "https://static.toiimg.com/photo/msid-128546544,imgsize-21372.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/all-you-need-to-know-about-the-late-rapper-lil-poppas-music-career/articleshow/128546544.cms",
+    "time": "2026-02-19T08:03:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Daniel’s thoughtful plea before ‘Harry Potter’ TV show drops",
+    "desc": "Daniel Radcliffe, the iconic face of Harry Potter, is rallying for a clean slate when it comes to the new TV adaptation. He passionately asks fans and media to give the fresh cast, including Dominic taking on the role of Harry, the freedom to explore their characters without the burden of past comparisons.",
+    "img": "https://static.toiimg.com/photo/msid-128546458,imgsize-23286.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/i-would-like-for-us-not-to-be-weird-harry-potter-star-daniel-radcliffe-makes-a-plea-on-behalf-of-tv-show-cast/articleshow/128546436.cms",
+    "time": "2026-02-19T07:58:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ghooskhor Pandit title withdrawn, 'no insult to religion': Neeraj",
+    "desc": "Director Neeraj Pandey informed the Supreme Court that his film’s earlier title, 'Ghooskhor Pandat', has been withdrawn following backlash. He clarified there was no intent to hurt sentiments or offend any community. The court had earlier criticised the title, after which Pandey promised a new name and removed all promotional material.",
+    "img": "https://static.toiimg.com/photo/msid-128546477,imgsize-14244.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ghooskhor-pandit-title-withdrawn-no-insult-to-religion-neeraj-pandey-tells-supreme-court/articleshow/128546477.cms",
+    "time": "2026-02-19T07:58:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "No change in Yash's 'Toxic' release date, new poster out",
+    "desc": "A Fairy Tale for Grown-Ups' is confirmed for a March 19, 2026 release, dispelling overseas distribution rumors. Director Geetu Mohandas announced the teaser drops February 20th. The film, shot in Kannada and English, will face off against Ranveer Singh's 'Dhurandhar: The Revenge' on the same date. The cast includes Nayanthara, Kiara Advani, and others.",
+    "img": "https://static.toiimg.com/photo/msid-128546173,imgsize-47102.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/no-change-in-toxic-release-date-geetu-mohandas-drops-a-new-poster-of-the-yash-starrer/articleshow/128546173.cms",
+    "time": "2026-02-19T07:53:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mia Goth and Shia LaBeouf separated last year",
+    "desc": "Shia LaBeouf and Mia Goth have reportedly separated again after a tumultuous on-again, off-again relationship spanning over a decade. This latest split follows LaBeouf's recent arrest for alleged battery during Mardi Gras in New Orleans. The couple, who welcomed a daughter in 2022, have a history of public arguments and brief marriages.",
+    "img": "https://static.toiimg.com/photo/msid-128546146,imgsize-1326769.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mia-goth-and-shia-labeouf-separated-last-year-after-a-complicated-relationship/articleshow/128546146.cms",
+    "time": "2026-02-19T07:50:38.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "AI boost! Tata Group announces partnership with OpenAI; TCS stock rises around 2%",
+    "desc": "Tata Consultancy Services has partnered with OpenAI to build AI infrastructure in India, aiming to enhance productivity and innovation. The collaboration will leverage OpenAI's enterprise ChatGPT and Codex tools, with TCS developing AI-ready, green energy-powered data centers. This strategic alliance seeks to position India as a global AI hub and empower its youth for the AI era.",
+    "img": "https://static.toiimg.com/photo/msid-128546031,imgsize-489019.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/ai-boost-tata-group-announces-partnership-with-openai-tcs-stock-rises-around-2/articleshow/128543642.cms",
+    "time": "2026-02-19T07:42:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "High Court cancels GST notice against Honey Rose",
+    "desc": "The Kerala High Court has quashed a GST notice demanding Honey Rose's tax records for multiple years in one go, stating separate requests are necessary. Meanwhile, her upcoming film 'Rachel', where she plays a butcher, has been postponed again, with makers citing release landscape concerns for a better audience experience.",
+    "img": "https://static.toiimg.com/photo/msid-128545598,imgsize-30578.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/relief-for-honey-rose-high-court-cancels-gst-notice-against-the-rachel-actress/articleshow/128545598.cms",
+    "time": "2026-02-19T07:37:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amanda Seyfried shares her experience with ‘The Housemaid’",
+    "desc": "Amanda Seyfried revealed on 'The Graham Norton Show' that she was surprised to discover she was credited as an executive producer on her latest film, 'The Housemaid.' She learned about the 'vanity credit' three weeks into filming, explaining her agent was responsible. Seyfried clarified she only acted in the movie, unlike co-star Margot Robbie's extensive development work.",
+    "img": "https://static.toiimg.com/photo/msid-128545562,imgsize-23004.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/amanda-seyfried-shares-she-never-knew-she-was-an-executive-producer-on-the-housemaid-i-didnt-know-until-three-weeks/articleshow/128545562.cms",
+    "time": "2026-02-19T07:34:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Who will pay for it?': SC raps Tamil Nadu govt for promising free electricity; flags 'freebie' politics",
+    "desc": "The Supreme Court has criticized the Tamil Nadu electricity board's promise of free electricity to all consumers. The apex court expressed concern that such freebies, regardless of financial need, hinder national economic development. It noted that states often offer these schemes, funded by taxpayer money, without proper budgetary justification.",
+    "img": "https://static.toiimg.com/photo/msid-128545556,imgsize-787711.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/who-will-pay-for-it-sc-raps-tamil-nadu-govt-for-promising-free-electricity-flags-freebie-politics/articleshow/128545389.cms",
+    "time": "2026-02-19T07:33:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'India used to fear us': Pakistan's Amir, Ali blast Shadab for digs at seniors",
+    "desc": "Mohammad Amir said Pakistan no longer commands the fear it did in the 1990s, especially against India. Shahid Afridi called for dropping senior players, which angered Shadab Khan, who reminded critics they also never beat India in World Cups. Basit Ali criticised Shadab’s comments and questioned his performances, sharing an anecdote about taking away his phones on a past tour.",
+    "img": "https://static.toiimg.com/photo/msid-128545540,imgsize-64600.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-used-to-fear-us-pakistans-mohammad-amir-basit-ali-blast-shadab-khan-for-digs-at-seniors/articleshow/128543476.cms",
+    "time": "2026-02-19T07:33:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Michelle Yeoh Walk of Fame star for parents",
+    "desc": "Malaysian-born, Oscar-winning actress Michelle Yeoh received a star on the Hollywood Walk of Fame, a testament to her global stardom. Surrounded by her \"chosen family,\" Yeoh, celebrated for her roles in \"Crouching Tiger, Hidden Dragon\" and \"Everything Everywhere All at Once,\" expressed disbelief and hope, stating the honor proves \"where you begin does not define where you can go.\"",
+    "img": "https://static.toiimg.com/photo/msid-128545481,imgsize-63626.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michelle-yeoh-gets-hollywood-walk-of-fame-star-dedicates-it-to-parents-this-is-our-star/articleshow/128545481.cms",
+    "time": "2026-02-19T07:32:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "A therapist once thought Robert Pattinson was on drugs!",
+    "desc": "Robert Pattinson's therapist once mistook his abstract thinking for drug use, highlighting his unique thought process. The actor is currently promoting his upcoming romantic comedy-drama 'The Drama' with Zendaya, and has major projects like Christopher Nolan's 'The Odyssey' and 'Dune Part Three' on the horizon.",
+    "img": "https://static.toiimg.com/photo/msid-128544275,imgsize-42328.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/im-trying-my-best-robert-pattinson-reveals-why-a-therapist-once-thought-he-was-on-drugs/articleshow/128544230.cms",
+    "time": "2026-02-19T07:03:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajeev breaks silence on Sanjay Leela Bhansali’s shelved film",
+    "desc": "Rajeev Khandelwal opens up about shelved 'Chenab Gandhi' with Sanjay Leela Bhansali, a two-film deal that never happened. Despite avoiding commercial films, the stellar script convinced him after Bhansali respected his script-first condition. He stayed true to principles, turning down other big offers too.",
+    "img": "https://static.toiimg.com/photo/msid-128544303,imgsize-24874.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajeev-khandelwal-breaks-silence-on-sanjay-leela-bhansalis-shelved-film-it-was-a-two-film-deal-that-never-took-off/articleshow/128544303.cms",
+    "time": "2026-02-19T07:01:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Cultural insensitivity’: Mamata slams PM Modi over ‘Swami’ prefix to Ramakrishna’s name",
+    "desc": "West Bengal Chief Minister Mamata Banerjee has strongly criticized Prime Minister Narendra Modi for using the prefix 'Swami' for Sri Sri Ramakrishna Paramahamsadeva on his birth anniversary. Banerjee stated this displayed cultural insensitivity, as the saint was revered as 'Thakur,' with 'Swami' being a title for his disciples. Modi had earlier paid tributes to Swami Ramakrishna Paramahansa.",
+    "img": "https://static.toiimg.com/photo/msid-128544164,imgsize-1076835.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cultural-insensitivity-mamata-slams-pm-modi-over-swami-prefix-to-ramakrishnas-name/articleshow/128544182.cms",
+    "time": "2026-02-19T06:57:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Strict no-media rule",
+    "desc": "Telugu stars Vijay Deverakonda and Rashmika Mandanna are reportedly tying the knot in a private ceremony in Udaipur on February 26. Despite keeping the wedding away from media, a viral invite suggests a grand reception will be held in Hyderabad on March 4. The couple has yet to officially confirm the details.",
+    "img": "https://static.toiimg.com/photo/msid-128542218,imgsize-38328.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakonda-and-rashmika-mandanna-wedding-update-strict-no-media-rule-special-meet-and-greet-planned-reports/articleshow/128542327.cms",
+    "time": "2026-02-19T06:53:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Margot's BTS video sparks Kareena comparison",
+    "desc": "Margot Robbie's 'Wuthering Heights' has stormed the global box office, but a viral behind-the-scenes dance clip has sparked an unexpected comparison to Bollywood's Kareena Kapoor Khan. Fans noted striking similarities between Robbie's outfit and dance moves in a crucial scene and Kareena's iconic look from 'Jab We Met'. The film, despite mixed reviews, achieved a strong opening weekend.",
+    "img": "https://static.toiimg.com/photo/msid-128543569,imgsize-38980.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/margot-robbies-wuthering-heights-dance-video-goes-viral-bollywood-fans-say-kareena-kapoor-khan-did-it-first-in-jab-we-met-watch/articleshow/128538410.cms",
+    "time": "2026-02-19T06:42:04.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "KJo says, 'Mere wajeh se mila photo,' as Jaya ji hides face",
     "desc": "At a bustling event, Karan Johar light-heartedly suggested he was the reason paparazzi caught veteran actress Jaya Bachchan in their lens. After noticing her, he made a spirited dash over the barricades to greet her, compelling the photographers to capture the moment. Check out the full article to know more in detail.",
@@ -27,15 +234,6 @@ const newsData_en = [
     "time": "2026-02-19T06:14:30.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sivakarthikeyan lauds ‘Seyon’ director, thanks Kamal Haasan",
-    "desc": "Sivakarthikeyan's upcoming film 'Seyon', produced by Kamal Haasan, has unveiled its first glimpse. The actor expressed gratitude to Haasan and lauded director Sivakumar Murugesan for his commitment to people-centric stories. The film, featuring music by Santhosh Narayanan, is slated for an October 2026 release, promising a compelling narrative rooted in local culture.",
-    "img": "https://static.toiimg.com/photo/msid-128541925,imgsize-61404.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sivakarthikeyan-lauds-seyon-director-for-telling-rooted-stories-thanks-kamal-haasan/articleshow/128541925.cms",
-    "time": "2026-02-19T06:06:47.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "‘Give AI an open sky, but ...’: PM Modi hails AI, flags caution — top quotes",
     "desc": "Prime Minister Modi emphasized democratizing AI for human-centric development at the AI Impact Summit. He highlighted India's talent and policy clarity, inviting global collaboration. Modi unveiled the MANAV Vision for ethical, accountable, and inclusive AI, stressing the need for global standards and child safety in the evolving digital landscape.",
@@ -54,24 +252,6 @@ const newsData_en = [
     "time": "2026-02-19T05:53:30.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Bad Bunny lands new acting project",
-    "desc": "Puerto Rican superstar Bad Bunny is set to grace the silver screen once again in a historical drama titled 'Porto Roco.' Filmed in his homeland, this directorial debut by René Pérez Joglar will see Bad Bunny sharing the screen with Hollywood heavyweights like Viggo Mortensen and Edward Norton. This marks another exciting chapter in the artist's burgeoning acting career.",
-    "img": "https://static.toiimg.com/photo/msid-128541451,imgsize-18642.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bad-bunny-cast-for-new-film-set-in-puerto-rico-to-star-opposite-edward-norton-and-more-report/articleshow/128541451.cms",
-    "time": "2026-02-19T05:51:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "All about Zendaya and Tom Holland’s wedding plans",
-    "desc": "Zendaya and Tom Holland's wedding plans are taking shape, with close friends anticipating the big day despite the couple's tight-lipped approach. While details remain private, stylist Law Roach hints at a \"secret bride\" scenario, with no public spectacle planned. Expect a UK celebration, multiple dresses, and an intimate guest list, prioritizing family and close friends.",
-    "img": "https://static.toiimg.com/photo/msid-128541516,imgsize-97482.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zendaya-and-tom-hollands-wedding-heres-all-we-know-about-the-spider-man-couples-nuptial-plan/articleshow/128541467.cms",
-    "time": "2026-02-19T05:48:15.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "From Tata Sons chair Chandrasekaran’s expansion strategy to Google CEO Pichai’s ‘vision’ — who said what",
     "desc": "India is hosting the India-AI Impact Summit 2026, bringing together global leaders to discuss artificial intelligence. Discussions focused on democratizing AI, building sovereign capabilities, and ensuring inclusive growth. Leaders emphasized AI's transformative potential across sectors like healthcare and education. The summit highlighted India's growing role as a trusted AI hub in the Global South.",
@@ -79,15 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/ai-summit-from-tata-sons-chair-chandrasekarans-expansion-strategy-to-google-ceo-pichais-vision-who-said-what/articleshow/128539205.cms",
     "time": "2026-02-19T05:47:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman leaves hospital after checking on his dad; avoids media",
-    "desc": "The entertainment world is on edge as veteran writer Salim Khan is hospitalized due to a minor brain hemorrhage. Salman Khan, his beloved son and superstar, was seen exiting Lilavati Hospital earlier today after spending time with his father in the ICU. Although Salim requires a ventilator, doctors believe he is on the path to recovery.",
-    "img": "https://static.toiimg.com/photo/msid-128541090,imgsize-40880.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salim-khan-hospitalization-salman-khan-leaves-hospital-after-checking-up-on-his-father-avoids-media-interaction/articleshow/128541090.cms",
-    "time": "2026-02-19T05:39:41.000Z"
   },
   {
     "cat": "Sports",
@@ -99,33 +270,6 @@ const newsData_en = [
     "time": "2026-02-19T05:34:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Mercy’: All you need to know about the OTT release",
-    "desc": "Chris Pratt's sci-fi thriller 'Mercy' is now available for digital rent in India, offering a glimpse into a future where AI judges legal cases. The film, streaming in multiple Indian languages, follows a detective accused of murder who must prove his innocence within 90 minutes to an artificial intelligence.",
-    "img": "https://static.toiimg.com/photo/msid-128540795,imgsize-855621.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/mercy-ott-release-all-you-need-to-know-about-chris-pratt-starrer-sci-fi-thrillers-digital-debut/articleshow/128540795.cms",
-    "time": "2026-02-19T05:27:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dorinda Medley teases ‘The Traitors’ Season 4 reunion",
-    "desc": "Dorinda Medley teases 'The Traitors' Season 4 reunion, emphasizing that it strays from the drama of 'Housewives' reunions by diving deep into strategic gameplay. She assures fans that the finale will be a thrilling ride, sprinkled with memorable moments.",
-    "img": "https://static.toiimg.com/photo/msid-128540642,imgsize-907135.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/dorinda-medley-teases-the-traitors-season-4-reunion-we-had-a-little-spiciness/articleshow/128540642.cms",
-    "time": "2026-02-19T05:24:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Timothee Chalamet and Kylie Jenner get romantic",
-    "desc": "Timothée Chalamet and Kylie Jenner were spotted sharing a casual pizza date in Los Angeles, displaying affectionate moments that quickly went viral. This outing follows Chalamet's busy Oscars campaign for 'Marty Supreme,' which garnered multiple nominations.",
-    "img": "https://static.toiimg.com/photo/msid-128539188,imgsize-23438.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/timothee-chalamet-and-kylie-jenner-get-romantic-on-pizza-date-night-pics/articleshow/128537269.cms",
-    "time": "2026-02-19T05:18:19.000Z"
-  },
-  {
     "cat": "World",
     "title": "Pakistan Opposition alliance calls off sit-in; Insists on physicians' access to Imran Khan",
     "desc": "A report prepared by a team of doctors who visited Khan on February 15 said that, unaided, Khan's right eye had 6/24 partial vision and 6/9 in the left, adding that with glasses, the ex-premier’s vision was 6/9 partial in the right and 6/6 in the left",
@@ -135,24 +279,6 @@ const newsData_en = [
     "time": "2026-02-19T05:12:51.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Riteish visits Shivneri fort; pays tribute to Shivaji Maharaj",
-    "desc": "Riteish Deshmukh marked the celebration of Chhatrapati Shivaji Maharaj Jayanti with a meaningful visit to Shivneri Fort, a site steeped in history. He described the day as a significant and blessed occasion, highlighting Maharaj's relentless spirit and the sacrifices that shaped the country. Deshmukh believes that introducing children's stories of Maharaj is crucial for nurturing a virtuous society.",
-    "img": "https://static.toiimg.com/photo/msid-128539300,imgsize-45916.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/riteish-deshmukh-visits-shivneri-fort-on-chhatrapati-shivaji-maharaj-jayanti-says-unki-keerti-unka-shourya/articleshow/128539300.cms",
-    "time": "2026-02-19T04:47:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Leighton Meester and Penn Badgley on ‘Gossip Girl’ couples",
-    "desc": "Years after the curtains fell on 'Gossip Girl,' former co-stars Leighton Meester and Penn Badgley reunited on the airwaves of Badgley’s podcast to unravel the threads of their characters’ journeys. They joyously affirmed that love found a way for Blair and Chuck, as well as Dan and Serena, solidifying their happy endings amidst all the drama.",
-    "img": "https://static.toiimg.com/photo/msid-128539386,imgsize-50314.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/did-gossip-girl-characters-end-up-with-the-right-partners-heres-what-leighton-meester-and-penn-badgley-think-of-the-final-pairing/articleshow/128539367.cms",
-    "time": "2026-02-19T04:45:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Clearing the boundary, crossing into history: J&amp;K end 67-year wait, enter Ranji final",
     "desc": "Jammu and Kashmir have achieved a historic Ranji Trophy final berth after a 67-year wait, defeating Bengal by six wickets. Despite facing a first-innings deficit and a challenging chase, J&K's resilience, spearheaded by Abdul Samad and Vanshaj Sharma, secured their maiden final appearance. Pacer Auqib Nabi was a standout performer.",
@@ -160,33 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/clearing-the-boundary-crossing-into-history-jk-end-67-year-wait-enter-maiden-ranji-final/articleshow/128537994.cms",
     "time": "2026-02-19T04:03:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Know all about Lil Poppa and his family",
-    "desc": "Famed soulful rapper Lil Poppa, aged 25, has tragically passed away, sending shockwaves globally. He is survived by his parents and girlfriend, Toie Roberts, daughter of Rick Ross, with whom he shared a three-year-old son, PJ. The couple, who kept their relationship private, were reportedly focused on their careers. The cause of death remains undisclosed.",
-    "img": "https://static.toiimg.com/photo/msid-128537914,imgsize-21044.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/lil-poppas-family-know-all-about-him-his-girlfriend-and-their-3-year-old-son/articleshow/128537914.cms",
-    "time": "2026-02-19T03:58:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shia LaBeouf seen dancing with release papers in mouth",
-    "desc": "Shia LaBeouf was arrested in New Orleans for alleged physical altercations during Mardi Gras celebrations. After his release, the actor was seen joyfully dancing on Bourbon Street, holding his jail release papers in his mouth. He had reportedly assaulted two men after being asked to leave a Royal Street business.",
-    "img": "https://static.toiimg.com/photo/msid-128537795,imgsize-29334.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/shia-labeouf-spotted-dancing-with-release-papers-in-mouth-videos-surface-only-hours-after-the-stars-arrest-in-new-orleans/articleshow/128537795.cms",
-    "time": "2026-02-19T03:55:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Tumbbad 2' makers get international creative team on board",
-    "desc": "Anticipation reaches new heights for Sohum Shah's 'Tumbbad 2' as a stellar international crew is set to enhance the film's artistry. The acclaimed Simon Lee and Shaune Harrison will lend their expertise in creature design and prosthetics to create a breathtaking visual experience. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128537607,imgsize-56594.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tumbbad-2-makers-get-on-board-a-creative-team-that-has-worked-on-hollywood-films-pacific-rim-and-harry-potter/articleshow/128537607.cms",
-    "time": "2026-02-19T03:50:22.000Z"
   },
   {
     "cat": "Sports",
@@ -205,24 +304,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/the-need-for-diversity-in-the-judiciary-explained/article70648994.ece",
     "time": "2026-02-19T03:29:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jisoo's 'Boyfriend On Demand' trailer",
-    "desc": "BLACKPINK's Jisoo stars in the new K-drama 'Boyfriend on Demand,' a rom-com blending virtual and real romance. The trailer reveals Jisoo as a webtoon producer using a dating sim, encountering her colleague Seo In-guk. The series features a star-studded cast of special appearances, exciting fans for its March 6 premiere.",
-    "img": "https://static.toiimg.com/photo/msid-128536077,imgsize-28140.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/boyfriend-on-demand-trailer-jisoo-enters-her-rom-com-era-as-she-gives-virtual-dating-a-shot-in-k-drama-series-opposite-seo-in-guk/articleshow/128535254.cms",
-    "time": "2026-02-19T03:15:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Action Hero Biju’ actor Shafeeq arrested",
-    "desc": "Junior actor Shafeeq, known as ‘Alku’ and recognized from 'Action Hero Biju', was arrested for operating an illegal late-night liquor distribution network in Ernakulam. Officials seized a significant quantity of alcohol and the vehicle used for deliveries. Meanwhile, a separate legal dispute concerning the 'Action Hero Biju' title rights between Nivin Pauly and producer P.S. Shamnas is heading to mediation.",
-    "img": "https://static.toiimg.com/photo/msid-128536510,imgsize-23048.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/illegal-liquor-network-busted-action-hero-biju-actor-shafeeq-arrested-52-litres-seized-car-confiscated/articleshow/128536510.cms",
-    "time": "2026-02-19T03:11:12.000Z"
   },
   {
     "cat": "Sports",
@@ -259,24 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/off-the-field/hes-a-murderer-pakistan-bowler-imad-wasims-ex-wife-seeks-help-from-pm-shehbaz-sharif-mohsin-naqvi/articleshow/128535033.cms",
     "time": "2026-02-19T02:56:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Christy Carlson Romano shares her cancer screening results",
-    "desc": "Christy Carlson Romano, once a beloved face on Disney, has bravely shared her health struggles with fans after receiving distressing news from her cancer screening. With personal experience of loss in her family due to the illness, she finds herself getting ready for a PET scan while navigating the complex maze of insurance hurdles.",
-    "img": "https://static.toiimg.com/photo/msid-128535665,imgsize-33758.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/cancer-is-everywhere-christy-carlson-romano-reveals-positive-cancer-screening-results-in-emotional-video/articleshow/128535651.cms",
-    "time": "2026-02-19T02:40:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Govinda's nephew reveals actor rejected film, event offers",
-    "desc": "Vinay Anand, who considers Govinda a father figure, shared his worries about the Bollywood icon's choice to decline several film and event opportunities. Despite his own accomplishments in the industry, Anand respects his uncle profoundly and never challenges his decisions, valuing the trust in their close-knit relationship. Read on to know more.",
-    "img": "https://static.toiimg.com/photo/msid-128535394,imgsize-22288.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govindas-nephew-vinay-anand-reveals-actor-rejected-movie-and-event-offers-says-he-has-his-own-reasons/articleshow/128535394.cms",
-    "time": "2026-02-19T02:35:12.000Z"
   },
   {
     "cat": "Politics",
@@ -432,15 +495,6 @@ const newsData_en = [
     "time": "2026-02-18T23:53:31.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India keen to diversify crude, coking coal sources",
-    "desc": "India is actively seeking to broaden its crude oil and coking coal suppliers, with a keen interest in high-quality US coking coal. Minister Piyush Goyal highlighted the US's potential to provide crucial technology like GPUs for AI and data center equipment, while India offers manufacturing prowess. Significant aircraft demand from the US also presents a key opportunity.",
-    "img": "https://static.toiimg.com/photo/msid-128531281,imgsize-204598.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/goyal-india-keen-to-diversify-crude-coking-coal-sources/articleshow/128531286.cms",
-    "time": "2026-02-18T23:32:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Take a single? Unbelievable': Pathan slams Farhan's approach despite ton",
     "desc": "Sahibzada Farhan achieved a maiden T20I century against Namibia in the T20 World Cup 2026. While reaching the milestone, his approach in the closing moments drew criticism from Irfan Pathan, who felt the team's total should have been prioritized. Despite this, Farhan's unbeaten 100 helped Pakistan post 199/3, leading to a dominant 102-run victory.",
@@ -457,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/hum-dispresan-mein-hain-memes-storm-internet-after-babar-azam-demoted-against-namibia/articleshow/128506881.cms",
     "time": "2026-02-18T23:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Child-lifting rumours fuel MP mob attacks",
-    "desc": "A disturbing surge in mob violence, fueled by child-lifting rumors, has led to innocent individuals being attacked across Madhya Pradesh. In Indore, a mentally ill woman was assaulted, and similar panic-driven attacks are occurring without any evidence of actual kidnappings. Police urge citizens to report suspicions rather than taking the law into their own hands.",
-    "img": "https://static.toiimg.com/photo/msid-128530784,imgsize-9268.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/child-lifting-rumours-fuel-mp-mob-attacks/articleshow/128530768.cms",
-    "time": "2026-02-18T23:07:53.000Z"
   },
   {
     "cat": "Politics",
@@ -567,24 +612,6 @@ const newsData_en = [
     "time": "2026-02-18T15:47:01.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Share of Russian crude in India's oil imports falls to lowest since November 2022; Middle East supplies rise",
-    "desc": "India has significantly reduced its reliance on Russian crude oil, with January imports hitting their lowest point since late 2022. This shift sees Middle Eastern suppliers, particularly Saudi Arabia, regaining prominence as India diversifies its energy sources. The move aligns with international pressures and India's commitment to strategic autonomy.",
-    "img": "https://static.toiimg.com/photo/msid-128514787,imgsize-35658.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/share-of-russian-crude-in-indias-oil-imports-falls-to-lowest-since-november-2022-middle-east-supplies-rise/articleshow/128513929.cms",
-    "time": "2026-02-18T15:39:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Funds will be unlocked for infra': BCCI president on J&amp;K cricket after historic Ranji run",
-    "desc": "BCCI president Mithun Manhas stated that Jammu and Kashmir's cricket infrastructure will see rapid growth once the state association receives government approval. He highlighted the progress made in developing pitches, talent hunts, and coaching qualifications during his tenure as head of the ad-hoc committee, emphasizing a focus on grooming local talent.",
-    "img": "https://static.toiimg.com/photo/msid-128514642,imgsize-1385214.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/funds-will-be-unlocked-for-infra-bcci-president-mithun-manhas-on-jk-cricket-after-historic-ranji-run/articleshow/128514434.cms",
-    "time": "2026-02-18T15:38:23.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'We've beaten India once, unlike our ex-cricketers': Shadab hits back at Afridi",
     "desc": "Shadab Khan responded strongly to criticism from Mohammad Yousuf and Shahid Afridi after Pakistan’s loss to India, defending senior players and the team’s process. The all-rounder cited Pakistan’s lone World Cup win over India in 2021, brushed aside external criticism, and stressed that the team remains focused on winning the T20 World Cup.",
@@ -610,15 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-drafting-framework-to-advance-future-us-talks-fm-tells-iaea-chief/article70648073.ece",
     "time": "2026-02-18T14:06:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Huge blow! Pathirana ruled out of T20 World Cup, IPL 2026 in doubt",
-    "desc": "Sri Lanka's T20 World Cup campaign faces a blow as fast bowler Matheesha Pathirana is ruled out due to a muscle strain sustained against Australia. Dilshan Madushanka has been approved as his replacement. Pathirana's injury, which occurred early in his spell, also raises concerns for his IPL franchise, Kolkata Knight Riders.",
-    "img": "https://static.toiimg.com/photo/msid-128510894,imgsize-119282.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/huge-blow-matheesha-pathirana-ruled-out-of-t20-world-cup-ipl-2026-in-doubt/articleshow/128510811.cms",
-    "time": "2026-02-18T14:03:37.000Z"
   },
   {
     "cat": "Sports",
@@ -667,30 +685,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Sahibzada Farhan joins elite list, becomes only second Pakistan batter to ...",
-    "desc": "Sahibzada Farhan made history by scoring a century in the T20 World Cup. He is the second Pakistani batter to achieve this milestone. Farhan's century helped Pakistan post a strong total against Namibia. This performance was crucial for Pakistan's hopes of advancing in the tournament. The team made changes to its lineup for this important match.",
-    "img": "https://static.toiimg.com/photo/msid-128505711,imgsize-34142.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sahibzada-farhan-joins-elite-list-becomes-only-second-pakistan-batter-to-achieve-this-feat-in-t20-world-cup/articleshow/128504080.cms",
-    "time": "2026-02-18T11:39:02.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Fans show fatigue as rivalry loses spark",
     "desc": "The India-Pakistan T20 World Cup clash in Colombo generated noise across social media, but inside the stands the energy told a different story — shaped by politics, fading star power and India’s run of routine wins",
     "img": "https://th-i.thgim.com/public/entertainment/movies/yvjj8s/article70646683.ece/alternates/LANDSCAPE_1200/India-Pakistan_Cricket_Fansjpeg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/india-pakistan-cricket-rivalrly-t20-world-cup-r-premadasa-stadium-colombo-fans-babar-azam-virat-kohli/article70644274.ece",
     "time": "2026-02-18T11:12:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma remains No. 1 T20I batter",
-    "desc": "Abhishek Sharma holds the top spot in ICC T20I batter rankings despite recent form. Ishan Kishan has entered the top 10 after strong performances. Pathum Nissanka and Ryan Rickelton also saw significant ranking jumps. Saim Ayub is back at number one in the all-rounder rankings. Rashid Khan is closing in on the top bowling spot.",
-    "img": "https://static.toiimg.com/photo/msid-128502670,imgsize-52410.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/four-ducks-in-7-innings-no-problem-abhishek-sharma-remains-no-1-t20i-batter-ishan-kishan-breaks-into-top-10/articleshow/128502681.cms",
-    "time": "2026-02-18T10:16:48.000Z"
   },
   {
     "cat": "Sports",

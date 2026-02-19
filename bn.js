@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "ভেন্টিলেটর সাপোর্টে সেলিম খান, মস্তিষ্কে রক্তক্ষরণ, এখন ICU-তে রয়েছেন সলমনের বাবা, চিকিৎসক বললেন...",
+    "desc": "বলিউডের বিখ্যাত চিত্রনাট্যকার সেলিম খানকে নিয়ে ভক্তদের উদ্বেগ ক্রমশ বাড়ছে৷ মুম্বইয়ের লীলাবতী হাসপাতালে সেলিম খান ভর্তি হওয়ার একদিন পর, প্রবীণ চিত্রনাট্যকারের চিকিৎসা করা একজন ডাক্তার নিশ্চিত করেছেন যে তার মস্তিষ্কে সামান্য রক্তক্ষরণ হয়েছে। জানা গেছে, সলমন খানের বাবা এখন ভেন্টিলেটর সাপোর্টে আছেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Salim-khan-2026-02-ca98b4564f0223e7a910f05f8dee3cbb-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/salman-khan-s-father-salim-khan-suffered-a-minor-brain-haemorrhage-is-on-ventilator-rds-2547988.html",
+    "time": "2026-02-19T09:11:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'ও হেনরি'! পোষ্য রটউইলারকে জয়ের কাছ থেকে ফেরাতে এবার হাইকোর্টে মামলা মহুয়ার...",
+    "desc": "তৃণমূল সাংসদ মহুয়া মৈত্র এবং তাঁর প্রাক্তন প্রেমিক জয় অনন্ত দেহাদ্রাইয়ের আইনি লড়াই এবার এক নতুন মোড় নিল। তাঁদের পোষ্য রটউইলার ‘হেনরি’-র অধিকার কার হাতে থাকবে, তা নিয়ে নিম্ন আদালতের রায়কে চ্যালেঞ্জ জানিয়ে দিল্লি হাইকোর্টের দ্বারস্থ হলেন মহুয়া।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/mahua-moitra-delhi-high-court-pet-dog-henry-custody-battle_641914.html ",
+    "time": "2026-02-19T08:55:15.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ইন্ডাস্ট্রিয়াল কাজ থেকে শুরু করে গৃহস্থালির ব্যবহার, এই ৬ জনপ্রিয় রোবট ভারতে আমদানি করা হতে পারে, তাদের দাম এবং বৈশিষ্ট্য সম্পর্কে জানুন",
+    "desc": "AI Impact Summit 2026-এ গ্যালগোটিয়াস ইউনিভার্সিটির রোবোটিক ডগ নিয়ে সোশ্যাল মিডিয়ায় তোলপাড়। এটি কি সত্যিই চিনা কোম্পানি ইউনিট্রি-র রোবট? এক নজরে ৫টি জনপ্রিয় রোবটিক পণ্য সম্পর্কে জেনে নেওয়া যাক, যা ভারতে আমদানি করা হতে পারে",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/robotic-dog-14-2026-02-0f8ea664fcf0c405cdb14dfcfc84ef80-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/technology/beyond-galgotias-controversy-6-chinese-robots-you-can-bring-home-today-check-prices-tc-ac-aa-2546461.html",
+    "time": "2026-02-19T08:04:32.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "মদ্যপান নিয়ে সামান্য স্বস্তি পাইলটদের, নিয়মে কী বদল আনা হল? দেখে নিন",
     "desc": "ডিরেক্টরেট জেনারেল অফ সিভিল এভিয়েশন (ডিজিসিএ)–এর নতুন নিয়মে জানানো হয়েছে ব্রেদালাইজারের রিডিং ০.০০১ থেকে ০.০০৯-এর মধ্যে এলেও একটা সুযোগ পাবেন পাইলট। সাসপেন্ড নয়, তবে তিনি ২৪ ঘণ্টা পরে ডিউটিতে ফিরতে পারবেন। তবে এই ক্ষেত্রেও সীমাবদ্ধতা থাকছে।",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/abhishek-banerjee-on-vir-das-beauty-of-two-indias-in-one-a-comedian-is-questioned-for-talking-about-the-two-india-divide-ss-2535251.html",
     "time": "2026-02-11T09:11:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘বন্দে মাতরম’-এর ৬টি স্তবকই গাইতে হবে, মোট ৩ মিনিট ১০ সেকেন্ড, নতুন গাইডলাইনে কী কী নিয়ম?",
-    "desc": "জাতীয় গান ‘বন্দে মাতরম’ নিয়ে বিশেষ নির্দেশিকা প্রকাশ কেন্দ্রীয় স্বরাষ্ট্র মন্ত্রকের৷ ১৯৩৭ সালে সরকারি সংস্করণ থেকে বাদ যাওয়া চারটি স্তবক যোগ করা হল বর্তমান সরকারি সংস্করণে৷ ‘বন্দে মাতরম’ চলার সময়ে সম্মানার্থে উঠে দাঁড়ানো বাধ্যতামূলক করা হয়েছে নতুন গাইডলাইনে৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-11-at-13.41.41-2026-02-5f51840041e7892df2edf9f1a95cf030-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/vande-mataram-new-guidelines-all-six-stanzas-to-be-sung-at-official-events-movie-halls-before-national-anthem-sta-2534913.html",
-    "time": "2026-02-11T08:12:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "পড়াশোনার পাশাপাশি চলে রেওয়াজ! ১০ বছর বয়সেই সুপারস্টার! বাংলা গানের দুনিয়ায় বাজিমাত পটাশপুরের খুদে সুপারস্টার স্বর্ণাভর",
-    "desc": "এর পর আসে বড় সুযোগ। বাংলা এক টেলিভিশন চ্যানেল থেকে ডাকা হয় তাকে। জনপ্রিয় গানের রিয়েলিটি শোয়ে অংশ নেয় স্বর্ণাভ। অডিশন পর্বেই বিচারকদের মন জয় করে সে। তার কণ্ঠের শক্তি ও সুরের নিখুঁত ব্যবহার সকলকে মুগ্ধ করে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/HYP_5757273_cropped_11022026_102445_1000340994_watermark_11022_2-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/east-medinipur-child-artist-rocks-bengali-music-world-as-well-as-reality-show-l18-arc-local18-2535013.html",
-    "time": "2026-02-11T08:06:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "\"এই অত্যাচার গত ১৫ বছর ধরে চলছে\"... মিমি চক্রবর্তীর জন্মদিনে বন্ধু অনিন্দ্য ফাঁস করলেন 'গোপন' কথা",
-    "desc": "আজ মিমির জন্মদিন৷ টলিউডে তাঁর বন্ধুর সংখ্যা হাতে গোনা৷ ব্যক্তিগত সময় তাঁদের সঙ্গে কাটাতে পছন্দ করেন অভিনেত্রী৷ তাঁদের মধ্যে একজন অবশ্যই অভিনেতা অনিন্দ্য চট্টোপাধ্যায়৷ মিমি চক্রবর্তীর জন্মদিনে বন্ধু অনিন্দ্যর সঙ্গে যা করা হল, একেবার 'থ' বনে গেলেন অভিনেতা!",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/2026-02-d1ee59000c6ec1d406075b048154b9ad-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/mimi-chakraborty-celebrates-her-birthday-with-close-friends-makes-fun-with-anindya-chatterjee-pbd-2534929.html",
-    "time": "2026-02-11T06:10:51.000Z"
   }
 ];
