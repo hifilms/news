@@ -1,6 +1,33 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "Vijay Deverakonda-Rashmika’s Wedding: বিয়ের সানাই বাজল! ২৩ থেকে ২৬ ফেব্রুয়ারি জমকালো অনুষ্ঠানের আয়োজন বিজয়-রশ্মিকার, থাকছেন শুধুমাত্র পরিবার-কাছের বন্ধুরা",
+    "desc": "এই দম্পতির বয়সের ব্যবধান সাত বছরের, যা ভক্তরা প্রায়শই অনলাইনে আলোচনা করেন। তা সত্ত্বেও, তাঁদের বন্ধন ব্যাপকভাবে পালিত হয়েছে, সোশ্যাল মিডিয়ায় ফাঁস হওয়া বিয়ের আমন্ত্রণপত্র নিয়ে গুঞ্জন চলছে এবং সম্প্রতি জল্পনার মধ্যে রশ্মিকাকে মুখ লুকিয়ে থাকতে দেখা গেছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/1771519130_Web_Photo_Editor-50-2026-02-f46482262cb79ca990dbb076207d664f-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/vijay-deverakonda-and-rashmika-mandanna-rumoured-wedding-dates-venue-reception-plans-know-all-transpg-pbd-2548722.html",
+    "time": "2026-02-19T17:52:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'ভারতে' আগে ১০টা বাজে নাকি 'পাকিস্তানে'...? অধিকাংশই জানেন না সঠিক 'উত্তর'! আপনি?",
+    "desc": "খুব তো পাকিস্তান পাকিস্তান করছেন। টি টোয়েন্টি বিশ্বকাপ নিয়ে ফেসবুকে বিতর্কের ঝড় তুলছেন তো রাতদিন। আচ্ছা বলুন তো দেখি, 'ভারতে' না 'পাকিস্তানে' কোথায় আগে 'দশটা' বাজে জানেন কি? সঠিক উত্তর শুনলে আপনিও কিন্তু চমকাবেন উত্তরে! জানুন অবাক করা এক গুচ্ছ পাকিস্তান সংক্রান্ত সাধারণ জ্ঞানের প্রশ্নোত্তর। আপনি জানেন তো সঠিক উত্তরগুলি? দেখে নিন তো মিলিয়ে!",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/pakistan-1-2026-02-5d062b1364edb3ee7273973bd8020cc0-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/pakistan-is-it-10-o-clock-earlier-in-india-or-in-pakistan-most-people-do-not-know-the-correct-answer-do-you-know-the-right-answer-know-interesting-gk-facts-sanj-2548663.html",
+    "time": "2026-02-19T17:11:30.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "এপস্টিনের প্রাসাদে কমবয়সী মেয়েদের কামড়াকামড়ি! লজ্জা ঢাকতে এক যুবরাজকে জেলে ঢোকাল ইংল্যান্ড...",
+    "desc": "ব্রিটিশ রাজপরিবারের ইতিহাসে এক নজিরবিহীন ঘটনা ঘটে গেল। জেফরি এপস্টিন কেলেঙ্কারিতে জড়িত থাকার অভিযোগে ব্রিটেনের রাজা তৃতীয় চার্লসের ভাই এবং প্রাক্তন রাজপুত্র অ্যান্ড্রু মাউন্টব্যাটেন-উইন্ডসরকে গ্রেপ্তার করেছে পুলিশ। আজ ১৯ ফেব্রুয়ারি, ২০২৬—তাঁর ৬৬তম জন্মদিনের সকালেই তাঁকে হেফাজতে নেওয়া হয়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/former-prince-andrew-arrested-jeffrey-epstein-files-misconduct-row_641989.html ",
+    "time": "2026-02-19T15:53:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "'জগদ্ধাত্রী'-তে বড় চমক! এবার ছোটপর্দায় 'ধুরন্ধর' অভিনেতা হিতুল পুজারা...",
     "desc": "জনপ্রিয় ধারাবাহিক 'জগদ্ধাত্রী'-তে এবার বড়সড় চমক। রণবীর সিংয়ের ব্লকবাস্টার ছবি 'ধুরন্ধর'-এ নাইম বালোচের চরিত্রে অভিনয় করে নজরকাড়া অভিনেতা হিতুল পুজারা এবার পা রাখতে চলেছেন এই মেগা সিরিয়ালে। এই ধারাবাহিকে এক গুরুত্বপূর্ণ মোড় নিয়ে আসবে হিতুলের চরিত্রটি।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/national/om-birla-takes-big-decision-after-congress-moves-no-confidence-motion-against-him-in-lok-sabha-dmg-2535958.html",
     "time": "2026-02-11T16:12:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "কলকাতায় রানি...! বক্সঅফিসে ‘মর্দানি ৩’-এর সাফল্যে কালীঘাটে পুজো... সঙ্গে মাসি দেবশ্রী রায়",
-    "desc": "কেরিয়ারের তিন দশক পূর্তিতে সম্প্রতি ‘মর্দানি ৩’ ছবি রিলিজ করেছেন রানি মুখোপাধ্যায়। যেখানে নারীপাচার রুখতে দোর্দণ্ডপ্রতাপ পুলিশ অফিসারের ভূমিকায় রণংদেহি মেজাজে নজর কাড়েন অভিনেতা।এবার মুম্বই থেকে কলকাতায় ছুটে এসে সোজা কালীঘাটে গেলেন রানি মুখোপাধ্যায়। মাসি দেবশ্রী রায়ের সঙ্গে পুজো দিতে দেখা গেল বলিউডের ‘ক্যুইন’কে। রানির পরনে ছিল পাটভাঙা ‘চেক’ লাল শাড়ি।অন্যদিকে দেবশ্রী রায় পরেছিলেন লালপাড়া সাদা গরদের শাড়ি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-11-at-5.51.30-PM-2026-02-0b879e17d51e659302d4f44ef8dc69cb-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/mardani-3-success-rani-celebrates-womens-power-with-puja-at-kalighat-rmj-ws-l-2535732.html",
-    "time": "2026-02-11T12:43:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "হিরণের আগাম জামিনের পরেই মুখ খুললেন প্রথম স্ত্রী! বিস্ফোরক দাবি, কী বললেন অনিন্দিতা?",
-    "desc": "এদিন তিনি জানান, এরকম একটি জঘন্য অপরাধের পর হিরণের জামিন তিনি মেনে নিতে পারছেন না। বলা হয় সংবিধানে মেয়েদের জন্য আইন বেশ শক্ত, কিন্তু তিনি তার প্রতিফলন দেখতে পেলেন না। ভবিষ্যতে তিনি যেমনভাবে আইনি লড়াই চালিয়ে যাচ্ছেন তেমনটাই চালিয়ে যাবেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/01/WhatsApp-Image-2026-01-21-at-8.47.14-AM-2026-01-68a82af9ccdd46ae6fab877ba367300a-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/kolkata-high-court-has-granted-anticipatory-bail-to-actor-and-mla-hiran-chatterjee-what-did-her-1st-wife-say-rmj-2535719.html",
-    "time": "2026-02-11T12:25:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "হাসিনা সরকারের পতনের পর বাংলাদেশে প্রথম ভোট, কোন দলের পাল্লা ভারী?",
-    "desc": "বাংলাদেশের হাওয়া বলছে, বিএনপিই ক্ষমতায় আসবে। সেই সম্ভাবনা প্রবল। তুলনায় অনেকটাই পিছিয়ে রয়েছে কট্টরপন্থী শক্তি জামায়াতে ইসলামী এবং ছাত্র আন্দোলনের নেতাদের একাংশের তৈরি নতুন দল এনসিপির জোট। তবে বিভিন্ন সমীক্ষা বলছে এই নির্বাচনে বড় ফ্যাক্টর হবে ভোটের হার। যদি ভোট বেশি পড়ে তাহলে তার সুফল পাবে বিএনপি। কম ভোট পড়লে তার সুফল পাবে জামাত। এবার ৩০০ আসনে ভোট হবে বাংলাদেশে। ভোট দেবেন প্রায় ১২ কোটি ৭৭ লাখ ভোটার। তাদের মধ্যে সবথেকে বড় ফ্যাক্টর আওয়ামী লিগের ভোট। কোন দিকে যাবে সেই ভোট। আওয়ামী লিগ তো নিষিদ্ধ। কিন্তু তাদের ভোটাররাই তো অনেক আসনে বড় ফ্যাক্টর।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ydne-2026-02-11T144904.257-2026-02-dd01cfd35f710b4cc409a9a6d2bb8b46.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/international/bangladesh-election-2535706.html",
-    "time": "2026-02-11T11:51:04.000Z"
   }
 ];

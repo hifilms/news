@@ -1,12 +1,102 @@
 const newsData_en = [
   {
-    "cat": "Sports",
-    "title": "T20 World Cup 2026",
-    "desc": "Sent in to bat, Zadran fired a 56-ball 95 not out, studded with seven boundaries and five sixes, and shared a 95-run stand for the third wicket with Sediqullah Atal (44 off 32 balls) to make quite an impression in their last match of the tournament",
-    "img": "https://th-i.thgim.com/public/incoming/9qkksy/article70652988.ece/alternates/LANDSCAPE_1200/Afghanistan_Canada_T20_WCup_Cricket_65506.jpg",
+    "cat": "Politics",
+    "title": "Infiltration bid foiled, terror module busted in Jammu",
+    "desc": "Troops thwarted an infiltration attempt along the LoC in Jammu's Sunderbani sector. In a separate operation in Nowshera, a terror module was busted, leading to the arrest of a suspected associate and the seizure of a significant arms cache, dismantling a trans-border weapons racket.",
+    "img": "https://static.toiimg.com/photo/msid-128571915,imgsize-83524.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/infiltration-bid-foiled-terror-module-busted-in-jammu/articleshow/128571938.cms",
+    "time": "2026-02-19T18:32:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'I don't believe in media censorship': J&amp;K CM Omar Abdullah",
+    "desc": "Jammu and Kashmir Chief Minister Omar Abdullah asserted his commitment against media censorship and using government advertisements for influence. He pledged to rationalize the advertisement policy for transparency, basing allocations on objective criteria like circulation and readership. Abdullah also highlighted efforts to fill thousands of vacant government posts and stressed the urgency of climate change response for the region.",
+    "img": "https://static.toiimg.com/photo/msid-128571775,imgsize-192652.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/i-dont-believe-in-media-censorship-jk-cm-omar-abdullah/articleshow/128571828.cms",
+    "time": "2026-02-19T18:30:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ponniyathangam festival draws crowds, praise from Chief Minister",
+    "desc": "Chief Minister Pinarayi Vijayan spends over half an hour watching high-energy Kalaripayattu performances at the Ponniyathangam festival, praising its growing public appeal. The event features martial arts displays, cultural competitions and musical performances, drawing enthusiastic crowds and participants from across the country.",
+    "img": "https://th-i.thgim.com/public/incoming/b9a7jm/article70653390.ece/alternates/LANDSCAPE_1200/80691_19_2_2026_21_52_9_1_IMG_20260219_214659.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/afghanistan-canada-group-stage-match-t20-world-cup-updates/article70652960.ece",
-    "time": "2026-02-19T15:36:58.000Z"
+    "url": "https://www.thehindu.com/news/national/kerala/ponniyathangam-festival-draws-crowds-praise-from-chief-minister/article70653317.ece",
+    "time": "2026-02-19T17:52:31.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump presses Iran to make ‘meaningful’ deal, appears to set 10-day deadline",
+    "desc": "Amid a massive U.S. military buildup in the West Asia ⁠that has fueled fears of a wider war, U.S. President Donald Trump said negotiations with Iran were going well but insisted Tehran has to reach a \"meaningful\" agreement",
+    "img": "https://th-i.thgim.com/public/incoming/9ryvrs/article70653347.ece/alternates/LANDSCAPE_1200/2026-02-19T130541Z_1733970579_RC21PJAOKDQR_RTRMADP_3_IRAN-CRISIS-USA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-presses-iran-to-make-meaningful-deal-appears-to-set-10-day-deadline/article70653328.ece",
+    "time": "2026-02-19T17:35:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman, family upset after hospital shares update on Salim Khan",
+    "desc": "The Khan family has expressed strong displeasure after a medical update about Salim Khan was shared publicly. Reports indicate that Salman Khan and his family were unhappy with the hospital’s decision to comment on the veteran screenwriter’s condition, and have since instructed authorities to maintain complete confidentiality.",
+    "img": "https://static.toiimg.com/photo/msid-128570149,imgsize-62958.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-and-family-displeased-after-hospital-shares-update-on-salim-khans-health-report/articleshow/128569968.cms",
+    "time": "2026-02-19T17:30:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "AI can't be regulated by single instrument: Swiss president Guy Parmelin",
+    "desc": "Swiss President Guy Parmelin advocates for a multi-faceted AI governance framework, emphasizing societal norms alongside legal and technical standards. He also discusses Switzerland's commitment to a just peace in Ukraine through the OSCE and highlights the importance of free trade agreements like TEPA in challenging global trade times.",
+    "img": "https://static.toiimg.com/photo/msid-128570089,imgsize-778393.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/ai-cant-be-regulated-by-single-instrument-swiss-president/articleshow/128570032.cms",
+    "time": "2026-02-19T17:28:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amit Shah to launch Vibrant Villages Programme Phase II in Assam",
+    "desc": "Home Minister Amit Shah will launch Phase 2 of the Vibrant Villages Programme in Assam, a Rs 6,839 crore initiative to develop 1,954 villages along international borders. This project aims to foster inclusive development, curb outmigration, and integrate border populations with national security efforts.",
+    "img": "https://static.toiimg.com/photo/msid-128568893,imgsize-951821.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/amit-shah-to-launch-vibrant-villages-programme-phase-ii-in-assam/articleshow/128568822.cms",
+    "time": "2026-02-19T16:58:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Anil Ambani assures Supreme Court he has no plans or intention to leave the country",
+    "desc": "Anil Ambani files affidavit saying he will appear before ED on February 26 and fully cooperate with the probe into an alleged bank fraud case, will not leave India without prior permission from the court",
+    "img": "https://th-i.thgim.com/public/incoming/xxlgt1/article70653285.ece/alternates/LANDSCAPE_1200/TH06-Devesh-ED-GFKF4M327.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/anil-ambani-assures-supreme-court-he-has-no-plans-or-intention-to-leave-the-country/article70653130.ece",
+    "time": "2026-02-19T16:54:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Veteran filmmaker M. M. Baig found dead at home",
+    "desc": "Veteran filmmaker M. M. Baig, known for his work in Hindi cinema and as the father of former child actor Baby Guddu, was found dead at his residence earlier this week. He was in his 70s. The news was confirmed by his publicist, Hanif Zaveri.",
+    "img": "https://static.toiimg.com/photo/msid-128566537,imgsize-14110.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/veteran-filmmaker-m-m-baig-found-dead-at-home-neighbours-alerted-police-after-foul-smell-says-publicist-hanif-zaveri/articleshow/128566456.cms",
+    "time": "2026-02-19T16:00:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We keep our sights forward': Zimbabwe send warning after taking down SL and Aus",
+    "desc": "Zimbabwe captain Sikandar Raza believes their strong group stage, including wins over Australia and Sri Lanka, has earned them respect heading into the Super Eights. Despite facing formidable opponents like India and South Africa, Raza remains unfazed, emphasizing a game-by-game approach and the team's confidence in their preparation and clear roles.",
+    "img": "https://static.toiimg.com/photo/msid-128566280,imgsize-51922.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-keep-our-sights-forward-giant-killer-zimbabwe-send-warning-after-taking-down-sri-lanka-and-australia/articleshow/128566071.cms",
+    "time": "2026-02-19T15:56:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why Shivaji Maharaj–Tipu Sultan comparison sparked row",
+    "desc": "In Maharashtra, Shivaji Maharaj occupies an almost sacred position across ideological lines, but particularly within the political vocabulary of the Bharatiya Janata Party (BJP) and Shiv Sena. The Maratha ruler is frequently invoked as a symbol of indigenous sovereignty, martial pride and cultural assertion. References to Hindavi Swarajya resonate strongly with narratives centred on civilisational identity and self-determination.",
+    "img": "https://static.toiimg.com/photo/msid-128566218,imgsize-348316.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/from-remark-to-retreat-why-shivaji-maharajtipu-sultan-comparison-sparked-row-explained/articleshow/128562180.cms",
+    "time": "2026-02-19T15:52:34.000Z"
   },
   {
     "cat": "Entertainment",
@@ -81,15 +171,6 @@ const newsData_en = [
     "time": "2026-02-19T15:00:52.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ECI asks 17 States, 5 UTs to prepare for next phase of SIR ‘expected’ in April",
-    "desc": "In a letter to the Chief Electoral Officers of these 17 States, 5 UTs, the ECI asked them to complete all preparatory work related to the SIR at the earliest, as the exercise “is expected to start from April 2026”",
-    "img": "https://th-i.thgim.com/public/incoming/b748sf/article70652515.ece/alternates/LANDSCAPE_1200/ELECTION%20COMMISSION%20%20DELHI%202025_13_08_7.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/eci-asks-states-uts-to-prepare-for-next-phase-of-sir-expected-in-april/article70652342.ece",
-    "time": "2026-02-19T15:00:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Karnataka seal Ranji final spot, to face Jammu and Kashmir in title clash",
     "desc": "Karnataka secured their Ranji Trophy final berth despite a brief, unusual resumption of play after tea. Umpires insisted on continuing the match against Uttarakhand, though the result was a foregone conclusion. Karnataka will now host Jammu and Kashmir in the final, with coach Yere Goud acknowledging the formidable challenge posed by the first-time finalists.",
@@ -144,15 +225,6 @@ const newsData_en = [
     "time": "2026-02-19T14:15:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Deputy CM Nemcha Kipgen",
-    "desc": "As the Northeastern State’s first woman Deputy CM, Ms. Kipgen says that like ‘a caring mother nurtures a peaceful home, she would like to carry forward this essence of care and responsibility in serving the people of Manipur’; on protests that broke out after she took charge, she points out that while she ‘respects those emotions, the decision was taken in good faith and with a sense of long-term responsibility, not personal ambition’",
-    "img": "https://th-i.thgim.com/public/news/6o66bn/article70652253.ece/alternates/LANDSCAPE_1200/kipgen%20oath.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/manipur/buffer-zones-in-manipur-may-need-to-continue-where-wounds-of-violence-remain-deep-deputy-cm-nemcha-kipgen/article70651772.ece",
-    "time": "2026-02-19T14:14:41.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Fans gush over singer's mangalsutra bracelet tribute to Priyanka Chopra",
     "desc": "Nick Jonas garnered widespread adoration for his touching gesture at Priyanka Chopra's film premiere, 'The Bluff'. He sported a mangalsutra as a bracelet, a symbol of marital commitment in Indian culture, delighting fans. Jonas also prepared a 'Bloody Mary' cocktail inspired by Chopra's character, showcasing his enthusiastic support for her latest venture.",
@@ -160,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/nick-jonas-is-a-green-forest-fans-gush-over-singers-mangalsutra-bracelet-tribute-to-priyanka-chopra-at-the-bluff-premiere/articleshow/128562334.cms",
     "time": "2026-02-19T14:11:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "State has 22.30 lakh free farm power connections, says Energy Minister Gottipati Ravi Kumar",
-    "desc": "As many as 1,02,538 new free agricultural power connections have been sanctioned across the three Discoms since formation of the NDA government in 2024, he says, adding that the government has set a target of generating 4,000 MW of solar power by 2030",
-    "img": "https://th-i.thgim.com/public/incoming/couay5/article70652484.ece/alternates/LANDSCAPE_1200/w.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/state-has-2230-lakh-free-farm-power-connections-says-energy-minister-gottipati-ravi-kumar/article70651897.ece",
-    "time": "2026-02-19T14:08:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -207,24 +270,6 @@ const newsData_en = [
     "time": "2026-02-19T13:58:49.000Z"
   },
   {
-    "cat": "Business",
-    "title": "iPhones to be made in Pakistan? Apple may soon start manufacturing in Islamabad, says report",
-    "desc": "Apple is set to manufacture and refurbish iPhones in Pakistan, with the government offering incentives like discounted land and an 8% performance bonus. This move aims to boost local employment and position Pakistan as an export hub for electronics. The new policy also encourages increased use of local parts in manufacturing.",
-    "img": "https://static.toiimg.com/photo/msid-128564698,imgsize-66076.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/iphones-to-be-made-in-pakistan-apple-may-soon-start-manufacturing-in-islamabad-says-report/articleshow/128561752.cms",
-    "time": "2026-02-19T13:54:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CPI(M) opposes ‘15-fold hike’ in electricity duty on small industries",
-    "desc": "The per-unit rise to ₹1 from the existing 6 paise further aggravates the problems of entrepreneurs, who are already reeling under the impact of true-up charges and mounting losses, says CPI(M) State secretary Srinivasa Rao",
-    "img": "https://th-i.thgim.com/public/incoming/dd0yvz/article70652264.ece/alternates/LANDSCAPE_1200/03GNRAO-CPM.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/cpim-opposes-15-fold-hike-in-electricity-duty-on-small-industries/article70651982.ece",
-    "time": "2026-02-19T13:42:23.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Kani Kusruti opens up on portraying sexual assault victimin 'Assi'",
     "desc": "Kani Kusruti's portrayal of a rape survivor in the film 'Assi' is grounded in sincerity, deftly navigating the complexities of trauma without descending into darkness. She sheds light on the film's treatment of the grueling legal obstacles that survivors must confront—an experience all too familiar for many women across India, given the disturbing rates of such violence.",
@@ -250,15 +295,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/inside-the-rise-of-robotics-firm-unitree-glimpse-into-chinas-tech-ambitions/article70651457.ece",
     "time": "2026-02-19T13:38:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala Sports Minister V. Abdurahiman",
-    "desc": "As many as 5,000 children will be identified at grassroots level across various disciplines and provided with systematic training. They will compete in major events, including National Games, Asian Games, and Commonwealth Games, with the best 250 groomed for participation in Olympics, says Minister",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-state-sports-department-aims-to-send-250-athletes-to-2036-olympics-under-olympic-path-scheme-kerala-sports-minister-v-abdurahiman/article70651506.ece",
-    "time": "2026-02-19T13:37:45.000Z"
   },
   {
     "cat": "Politics",
@@ -369,24 +405,6 @@ const newsData_en = [
     "time": "2026-02-19T11:53:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Dominic will outshine me'",
-    "desc": "Daniel Radcliffe has stepped up to champion Dominic McLaughlin, the fresh talent ready to take on the iconic role of Harry Potter in HBO's forthcoming series. Radcliffe is optimistic about McLaughlin’s potential to elevate the character beyond his own legendary portrayal.",
-    "img": "https://static.toiimg.com/photo/msid-128555112,imgsize-38950.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/daniel-radcliffe-praises-dominic-mclaughlin-as-new-harry-potter-star-im-sure-dominic-is-going-to-be-better-than-me/articleshow/128555112.cms",
-    "time": "2026-02-19T11:42:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Riteish unveils FIRST LOOK as Chhatrapati Shivaji Maharaj",
-    "desc": "Riteish Deshmukh stars as Chhatrapati Shivaji Maharaj in the highly anticipated 2026 film 'Raja Shivaji'. The makers unveiled the powerful first poster today, shared by Genelia Deshmukh on Instagram with an emotional Marathi message honoring the Maratha legend's legacy. Release set for May 1 on Maharashtra Day.",
-    "img": "https://static.toiimg.com/photo/msid-128555254,imgsize-70602.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raja-shivaji-riteish-deshmukh-unveils-first-look-as-chhatrapati-shivaji-maharaj-fans-say-cant-wait/articleshow/128555254.cms",
-    "time": "2026-02-19T11:21:50.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Appeasing policy': Why Supreme Court flagged 'freebies culture' and cautioned states",
     "desc": "The Supreme Court expressed serious concerns over the growing culture of freebies in states, warning it could hamper economic development and strain finances. Justices questioned whether indiscriminate distribution of benefits, without distinguishing between the needy and others, amounts to an appeasing policy that could weaken work culture and development efforts.",
@@ -394,6 +412,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/appeasing-policy-why-supreme-court-flagged-freebies-culture-and-cautioned-states/articleshow/128554720.cms",
     "time": "2026-02-19T11:15:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PHF chief resigns after banning captain",
+    "desc": "Pakistan Hockey Federation president Tariq Bugti resigned following a controversy over the national team's accommodation during their Australia tour. The issue gained traction after a video showed players with luggage on the street, despite the captain initially claiming all was fine.",
+    "img": "https://static.toiimg.com/photo/msid-128554765,imgsize-63034.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/top-stories/accommodation-row-rocks-pakistan-hockey-phf-chief-resigns-after-banning-captain/articleshow/128553870.cms",
+    "time": "2026-02-19T11:10:09.000Z"
   },
   {
     "cat": "Tech",
@@ -504,15 +531,6 @@ const newsData_en = [
     "time": "2026-02-19T09:02:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "At AI Summit, PM Modi’s nameplate carries a ‘Bharat’ message",
-    "desc": "Prime Minister Narendra Modi urged the global community at the AI Impact Summit to leverage technological disruption as humanity's greatest opportunity, emphasizing \"right action\" guided by \"right understanding.\" The summit also saw the country's nameplate displayed as \"Bharat,\" a recurring practice at official global events, sparking renewed discussion.",
-    "img": "https://static.toiimg.com/photo/msid-128547828,imgsize-665618.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/at-ai-summit-pm-modis-nameplate-carries-a-bharat-message/articleshow/128547864.cms",
-    "time": "2026-02-19T08:30:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "The ‘new’ Morkel India must take note of before Super Eight",
     "desc": "South Africa's specialist consultant Albie Morkel lightened the mood ahead of their UAE clash, joking about his brother Morne's role with India. Albie's focus on yorkers and building confidence has bolstered the Proteas' formidable pace attack, with bowlers like Lungi Ngidi and Marco Jansen excelling. He credits Stephen Fleming for shaping his player-centric coaching approach.",
@@ -531,15 +549,6 @@ const newsData_en = [
     "time": "2026-02-19T07:42:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Who will pay for it?': SC raps Tamil Nadu govt for promising free electricity; flags 'freebie' politics",
-    "desc": "The Supreme Court has criticized the Tamil Nadu electricity board's promise of free electricity to all consumers. The apex court expressed concern that such freebies, regardless of financial need, hinder national economic development. It noted that states often offer these schemes, funded by taxpayer money, without proper budgetary justification.",
-    "img": "https://static.toiimg.com/photo/msid-128545556,imgsize-787711.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/who-will-pay-for-it-sc-raps-tamil-nadu-govt-for-promising-free-electricity-flags-freebie-politics/articleshow/128545389.cms",
-    "time": "2026-02-19T07:33:09.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'India used to fear us': Pakistan's Amir, Ali blast Shadab for digs at seniors",
     "desc": "Mohammad Amir said Pakistan no longer commands the fear it did in the 1990s, especially against India. Shahid Afridi called for dropping senior players, which angered Shadab Khan, who reminded critics they also never beat India in World Cups. Basit Ali criticised Shadab’s comments and questioned his performances, sharing an anecdote about taking away his phones on a past tour.",
@@ -547,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-used-to-fear-us-pakistans-mohammad-amir-basit-ali-blast-shadab-khan-for-digs-at-seniors/articleshow/128543476.cms",
     "time": "2026-02-19T07:33:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Cultural insensitivity’: Mamata slams PM Modi over ‘Swami’ prefix to Ramakrishna’s name",
-    "desc": "West Bengal Chief Minister Mamata Banerjee has strongly criticized Prime Minister Narendra Modi for using the prefix 'Swami' for Sri Sri Ramakrishna Paramahamsadeva on his birth anniversary. Banerjee stated this displayed cultural insensitivity, as the saint was revered as 'Thakur,' with 'Swami' being a title for his disciples. Modi had earlier paid tributes to Swami Ramakrishna Paramahansa.",
-    "img": "https://static.toiimg.com/photo/msid-128544164,imgsize-1076835.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cultural-insensitivity-mamata-slams-pm-modi-over-swami-prefix-to-ramakrishnas-name/articleshow/128544182.cms",
-    "time": "2026-02-19T06:57:45.000Z"
   },
   {
     "cat": "Sports",
@@ -567,15 +567,6 @@ const newsData_en = [
     "time": "2026-02-19T06:19:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Give AI an open sky, but ...’: PM Modi hails AI, flags caution — top quotes",
-    "desc": "Prime Minister Modi emphasized democratizing AI for human-centric development at the AI Impact Summit. He highlighted India's talent and policy clarity, inviting global collaboration. Modi unveiled the MANAV Vision for ethical, accountable, and inclusive AI, stressing the need for global standards and child safety in the evolving digital landscape.",
-    "img": "https://static.toiimg.com/photo/msid-128541931,imgsize-613169.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/give-ai-an-open-sky-but-pm-modi-hails-ai-flags-caution-top-quotes/articleshow/128541694.cms",
-    "time": "2026-02-19T05:58:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Baby AB’ Brevis unfazed by Varun Chakravarthy threat",
     "desc": "India and South Africa gear up for a T20 World Cup Super 8 clash, with a key battle potentially involving Varun Chakravarthy and Dewald Brevis. Dubbed 'Baby AB', Brevis, unfazed by the spinner, aims to leverage his IPL experience. He showed glimpses of form against UAE, emphasising positivity and backing his game.",
@@ -583,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-vs-south-africa-baby-ab-dewald-brevis-unfazed-by-varun-chakravarthy-threat/articleshow/128541706.cms",
     "time": "2026-02-19T05:53:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "From Tata Sons chair Chandrasekaran’s expansion strategy to Google CEO Pichai’s ‘vision’ — who said what",
-    "desc": "India is hosting the India-AI Impact Summit 2026, bringing together global leaders to discuss artificial intelligence. Discussions focused on democratizing AI, building sovereign capabilities, and ensuring inclusive growth. Leaders emphasized AI's transformative potential across sectors like healthcare and education. The summit highlighted India's growing role as a trusted AI hub in the Global South.",
-    "img": "https://static.toiimg.com/photo/msid-128540320,imgsize-713824.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ai-summit-from-tata-sons-chair-chandrasekarans-expansion-strategy-to-google-ceo-pichais-vision-who-said-what/articleshow/128539205.cms",
-    "time": "2026-02-19T05:47:43.000Z"
   },
   {
     "cat": "Sports",
@@ -613,15 +595,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Clearing the boundary, crossing into history: J&amp;K end 67-year wait, enter Ranji final",
-    "desc": "Jammu and Kashmir have achieved a historic Ranji Trophy final berth after a 67-year wait, defeating Bengal by six wickets. Despite facing a first-innings deficit and a challenging chase, J&K's resilience, spearheaded by Abdul Samad and Vanshaj Sharma, secured their maiden final appearance. Pacer Auqib Nabi was a standout performer.",
-    "img": "https://static.toiimg.com/photo/msid-128538103,imgsize-41740.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/clearing-the-boundary-crossing-into-history-jk-end-67-year-wait-enter-maiden-ranji-final/articleshow/128537994.cms",
-    "time": "2026-02-19T04:03:01.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "After ‘she helped rediscover excitement’ remark, Pandya posts for Mahieka",
     "desc": "Hardik Pandya shared a birthday post for girlfriend Mahieka Sharma, calling her “my princess.” He confirmed their relationship in late 2025 after divorcing Natasa Stankovic. Mahieka has been seen with his son Agastya and helped motivate him to rediscover his cricketing potential. On Valentine’s Day 2026, Hardik got an ‘M’ and leopard tattoo symbolising their strong bond and mutual support.",
     "img": "https://static.toiimg.com/photo/msid-128537626,imgsize-55294.cms",
@@ -637,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ticked-almost-all-the-boxes-suryakumar-yadav-sends-super-8s-warning-after-dominant-run-in-t20-world-cup/articleshow/128536249.cms",
     "time": "2026-02-19T03:02:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Get 25% above normal hourly wage, 50% extra for evening shifts: Ramadan 2026 overtime work rules in UAE explained",
-    "desc": "UAE private sector employees now enjoy a two-hour daily reduction in working hours during Ramadan, a legal right for all regardless of faith. This adjustment supports work-life balance and respects the physical demands of fasting. While most benefit, some roles have exemptions and overtime rules ensure fair compensation for extra work.",
-    "img": "https://static.toiimg.com/photo/msid-128536080,imgsize-44180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/ramadan-2026-overtime-work-rules-in-uae-explained-get-25-above-normal-hourly-wage-50-extra-for-evening-shifts/articleshow/128534684.cms",
-    "time": "2026-02-19T02:59:10.000Z"
   },
   {
     "cat": "Sports",
@@ -775,6 +739,15 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
+    "title": "T20 World Cup 2026",
+    "desc": "Farhan blasted 11 fours and four sixes on way to an unbeaten 100 off 58 balls as Pakistan scored 199 for three. Salman Agha made 23-ball 38, while Shadab Khan also chipped in with 36 off 22 balls.",
+    "img": "https://th-i.thgim.com/public/incoming/7rxxhs/article70647305.ece/alternates/LANDSCAPE_1200/Namibia_Pakistan_T20_WCup_Cricket_72746.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/pakistan-namibia-t20-world-cup-match-updates-february-18/article70646832.ece",
+    "time": "2026-02-18T13:00:47.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "UEFA to probe claims of 'discriminatory behaviour' towards Real Madrid’s Vinicius",
     "desc": "Tuesday's (February 17, 2026) first leg of the knockout phase play-off tie was stopped for more than 10 minutes after Vinicius complained to French referee Francois Letexier about the alleged abuse following a confrontation between him and Prestianni.",
     "img": "https://th-i.thgim.com/public/incoming/bbwfs2/article70647642.ece/alternates/LANDSCAPE_1200/Portugal_Champions_League_Soccer_22585.jpg",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/bangladesh-government-bnp-tarique-rahman-prime-minister-oath-taking-ceremony-live-updates-february-17-2026/article70641434.ece",
     "time": "2026-02-17T12:16:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anirudh Ravichander launches Albuquerque Records, announces 15-year anniversary concert tour",
+    "desc": "Music composer and performer Anirudh Ravichander has unveiled a new artist-owned music label, while also announcing a nationwide live tour to celebrate 15 years of his career, beginning with his first-ever Hyderabad concert in March 2026",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/cobbwg/article70642424.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/music/anirudh-ravichander-launches-albuquerque-records-announces-15-year-anniversary-concert-tour/article70642425.ece",
+    "time": "2026-02-17T10:24:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Francis Ford Coppola, Al Pacino and Robert De Niro lead tributes to Robert Duvall after actor’s death at 95",
+    "desc": "Hollywood paid tribute to legendary actor Robert Duvall after his death at 95, with longtime collaborators Francis Ford Coppola, Al Pacino and Robert De Niro remembering his immense talent and lasting influence on American cinema",
+    "img": "https://th-i.thgim.com/public/incoming/n96tvy/article70641769.ece/alternates/LANDSCAPE_1200/Obit_Robert_Duvall_78448.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/francis-ford-coppola-al-pacino-and-robert-de-niro-lead-tributes-to-robert-duvall-after-actors-death-at-95/article70641772.ece",
+    "time": "2026-02-17T06:07:34.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "New Mexico approves comprehensive probe of Epstein’s Zorro Ranch",
+    "desc": "The so-called truth commission seeks to identify ranch guests ⁠and state officials who may have known what was going on at the 7,600-acre property, or taken part in alleged sexual abuse; interim findings likely in July and a final report by year-end",
+    "img": "https://th-i.thgim.com/public/incoming/nna5z1/article70641410.ece/alternates/LANDSCAPE_1200/Justice-Department-Jeffrey-Epstein_71383.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/new-mexico-approves-comprehensive-probe-of-epsteins-zorro-ranch/article70641405.ece",
+    "time": "2026-02-17T03:03:16.000Z"
   }
 ];

@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Terrifying bee swarm forces players to run for their lives at W100k Bengaluru",
+    "desc": "Within a day after an umpire died during a U13 cricket match in Unnao due to a bee attack, a similar sort of dramatic incident took place in Bengaluru. During a W100k Tennis event in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/caught-on-camera-terrifying-bee-swarm-forces-players-to-run-for-their-lives-at-w100k-bengaluru-2026-02-19-1030960",
+    "time": "2026-02-19T18:18:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'His career is coming to an end': Ricky Ponting feels Glenn Maxwell has played his last World Cup",
+    "desc": "Former Australia captain Ricky Ponting feels that all-rounder Glenn Maxwell won't be playing the next T20 World Cup. He reckons that Maxwell's career is coming to an end, having already retired from ODIs and he...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/his-career-is-coming-to-an-end-ricky-ponting-feels-glenn-maxwell-has-played-his-last-world-cup-2026-02-19-1030957",
+    "time": "2026-02-19T17:14:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why Super 8 Group 1 is T20 World Cup’s True 'Group of Death'?",
+    "desc": "Some may feel that Zimbabwe's presence, alongside India, South Africa and West Indies, in Group 1 of the Super 8 round of the T20 World Cup will make it easy for other teams to dream of a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/the-perfect-vs-the-proven-why-super-8-group-1-is-t20-world-cups-true-group-of-death-india-west-indies-south-africa-zimbabwe-2026-02-19-1030952",
+    "time": "2026-02-19T15:48:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Umpire Manik Gupta dies following massive bee attack during Under-13 cricket match",
     "desc": "A wave of mourning has swept through the cricketing community following a freak and tragic accident in Unnao’s Shuklaganj. On Wednesday, a veteran umpire from the Kanpur Cricket Association (KCA), Manik Gupta, lost his life...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sahibzada-farhan-on-course-to-break-virat-kohlis-legendary-record-in-t20-world-cup-2026-02-19-1030898",
     "time": "2026-02-19T08:19:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya shares sea-soaked intimate birthday post for girlfriend Maheika Sharma",
-    "desc": "Hardik Pandya on Thursday morning shared an intimate birthday post for girlfriend, Mahieka Sharma. The cricketer took to Instagram to celebrate her birthday, sharing a cosy photograph of the two and captioning it with a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-shares-sea-soaked-intimate-birthday-post-for-girlfriend-maheika-sharma-2026-02-19-1030884",
-    "time": "2026-02-19T06:49:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh starts damage control with BCCI after fallout, Aminul Bulbul runs away to Australia",
-    "desc": "After Bangladesh refused to travel to India for the T20 World Cup 2026, citing security reasons, the International Cricket Council (ICC) replaced them with Scotland. In response, it was also more-or-less cleared that India won’t...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-starts-damage-control-with-bcci-after-fallout-aminul-bulbul-runs-away-to-australia-2026-02-19-1030878",
-    "time": "2026-02-19T06:17:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vinicius Jr endured 20 racism allegations in eight years, but UEFA yet to give him justice",
-    "desc": "Real Madrid’s Champions League play-off against Benfica was temporarily halted for 10 minutes after Vinicius Jr reported alleged racist abuse during the match. The 25-year-old winger scored a banger of a goal from the edge...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vinicius-jr-endured-20-racism-allegations-in-eight-years-but-uefa-yet-to-give-him-justice-2026-02-19-1030870",
-    "time": "2026-02-19T05:16:35.000Z"
   }
 ];
