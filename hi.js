@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "12 teams earn direct qualification for T20 World Cup 2028, ICC announces",
+    "desc": "As the Super Eights of the T20 World Cup 2026 are finalised, the International Cricket Council (ICC) has confirmed the direct qualifiers for the next edition. As co-hosts, Australia and New Zealand were guaranteed for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/12-teams-earn-direct-qualification-for-t20-world-cup-2028-icc-announces-2026-02-19-1030848",
+    "time": "2026-02-19T01:48:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shadab Khan plays whataboutery card, shuts down Mohammad Yousuf with ‘they have never defeated India'",
+    "desc": "After a convincing 102-run win over Namibia in their final T20 World Cup 2026 clash, Pakistan all-rounder Shadab Khan hit back at Mohammad Yousuf, after the former cricketer expressed his disappointment with the team’s poor...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shadab-khan-plays-whataboutery-card-shuts-down-mohammad-yousuf-with-they-have-never-defeated-india-2026-02-19-1030845",
+    "time": "2026-02-19T01:05:21.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India's schedule for T20 World Cup 2026 Super Eight stage: When will defending champions be in action next?",
     "desc": "India defeated the Netherlands in their last league stage match of the T20 World Cup 2026 to enter the Super Eight stage unbeaten. The defending champions handed the Dutch a 17-run defeat in their clash...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/hockey/pakistan-hockey-captain-alleges-players-made-to-wash-dishes-before-matches-pm-shehbaz-sharif-orders-probe-2026-02-18-1030791",
     "time": "2026-02-18T12:02:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Blow for Sri Lanka, Matheesha Pathirana ruled out of T20 World Cup 2026",
-    "desc": "In a major blow for Sri Lanka, their star fast bowler Matheesha Pathirana has been ruled out of the remainder of the T20 World Cup 2026 due to a calf strain, ESPNCricinfo reported. Pathirana had...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/blow-for-sri-lanka-matheesha-pathirana-ruled-out-of-t20-world-cup-2026-2026-02-18-1030789",
-    "time": "2026-02-18T11:45:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Shaheen Afridi not playing in PAK vs NAM T20 World Cup 2026 game? Report points Pakistan's bold move",
-    "desc": "Pakistan have left out their star bowler Shaheen Shah Afridi for their must-win T20 World Cup 2026 group stage clash against Namibia at the Sinhalese Sports Club, Colombo, on Wednesday, February 18. The Men in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-shaheen-afridi-not-playing-in-pak-vs-nam-t20-world-cup-2026-game-report-points-pakistans-bold-move-2026-02-18-1030779",
-    "time": "2026-02-18T11:02:43.000Z"
   }
 ];
