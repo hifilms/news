@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "New Zealand captain Mitchell Santner declared fit for Pakistan clash, what about Ferguson?",
+    "desc": "New Zealand have got a massive boost ahead of their opening Super 8 clash against Pakistan in the T20 World Cup as their captain Mitchell Santner has recovered from illness. He missed their previous game...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-pak-new-zealand-captain-mitchell-santner-declared-fit-for-pakistan-clash-what-about-ferguson-2026-02-20-1031042",
+    "time": "2026-02-20T12:36:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohammad Amir's shocking prediction for T20 World Cup 2026: 'India won't qualify for semifinals'",
+    "desc": "The Super 8 round of the T20 World Cup is all set to begin on Saturday, February 21, with the New Zealand vs Pakistan clash at the R Premadasa Stadium in Colombo. The race for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-amir-s-shocking-prediction-for-t20-world-cup-2026-india-won-t-qualify-for-semifinals-2026-02-20-1031037",
+    "time": "2026-02-20T11:29:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Aiden Markram prepares to bowl vs Abhishek Sharma in powerplay, South Africa train accordingly",
+    "desc": "Abhishek Sharma’s troubles against spin in the powerplay have become a growing concern in the T20 World Cup 2026. The southpaw has registered three consecutive ducks, two of them falling to spinners. Pakistan’s Salman Agha...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/aiden-markram-prepares-to-bowl-vs-abhishek-sharma-in-powerplay-south-africa-train-accordingly-2026-02-20-1031023",
+    "time": "2026-02-20T09:58:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How will surface at Pallekele International Cricket Stadium play in T20 World Cup?",
     "desc": "Australia will host Oman in their final T20 World Cup 2026 group stage match at the Pallekele International Cricket Stadium. With back-to-back two defeats to Zimbabwe and Sri Lanka, the Mitchell Marsh-led side is already...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sikander-raza-breaks-rohit-sharma-s-legendary-record-with-potm-performance-vs-sri-lanka-2026-02-20-1030970",
     "time": "2026-02-20T02:17:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Oman plan to 'crush' out-of-form Australia in final T20 World Cup 2026 group stage game",
-    "desc": "With one win in three matches, Australia are already knocked out of the race to qualify for the Super Eights of the T20 World Cup 2026. They will play Oman in their final league stage...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/oman-plan-to-crush-out-of-form-australia-in-final-t20-world-cup-2026-group-stage-game-2026-02-20-1030966",
-    "time": "2026-02-20T01:36:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jonathan Trott ends tenure as Afghanistan coach, shares England coaching prospect",
-    "desc": "Afghanistan’s final T20 World Cup 2026 group stage game against Canada in Chennai was head coach Jonathan Trott’s final game in charge. Under his leadership, the Rashid Khan-led side went on to beat Pakistan and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jonathan-trott-ends-tenure-as-afghanistan-coach-shares-england-coaching-prospect-2026-02-20-1030965",
-    "time": "2026-02-20T01:08:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Terrifying bee swarm forces players to run for their lives at W100k Bengaluru",
-    "desc": "Within a day after an umpire died during a U13 cricket match in Unnao due to a bee attack, a similar sort of dramatic incident took place in Bengaluru. During a W100k Tennis event in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/caught-on-camera-terrifying-bee-swarm-forces-players-to-run-for-their-lives-at-w100k-bengaluru-2026-02-19-1030960",
-    "time": "2026-02-19T18:18:49.000Z"
   }
 ];

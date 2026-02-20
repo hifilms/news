@@ -1,5 +1,50 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "সুপ্রিম কোর্টের নির্দেশে ইতিহাস তৈরি হল, দাবি কল্যাণের! দেখুন ভিডিও",
+    "desc": "ভারতের নির্বাচনী সংস্কার ব্যবস্থায় ইতিহাস তৈরি হল৷ নির্বাচন কমিশনারই যে ভোটার তালিকা নিয়ে শেষ কথা বলবে না, সেই ধারণায় ইতি পড়ল৷ শুক্রবার বাংলার এসআইআর নিয়ে সুপ্রিম কোর্টের নির্দেশের পর এমনই দাবি করলেন আইনজীবী কল্যাণ বন্দ্যোপাধ্যায়৷ এ দিন সুপ্রিম কোর্ট নির্দেশ দেয়, এসআইআর-এর বাকি নথি যাচাইয়ের কাজ সম্পন্ন করতে জুডিশিয়াল অফিসার অথবা জেলা বিচারক এবং অতিরিক্ত জেলা বিচারকদের নিয়োগ করতে হবে৷ তাঁদের নজরদারিতেই শেষ হবে নথি যাচাই প্রক্রিয়া৷ এই কোয়াসি জুডিশিয়াল অফিসারদের নথি যাচাইয়ের কাজে সাহায্য করবেন মাইক্রো অবজারভার এবং অবজারভাররা৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Supreme-Court-SIR-2026-02-fa83b522437e4011eddacdb4ce279016-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/kalyan-banerjee-claims-supreme-court-has-given-historical-verdict-in-sir-case-dmg-2550073.html",
+    "time": "2026-02-20T12:35:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ভারতের '১ টাকার' বিনিময়ে কোন দেশ '১৪,০০০ টাকা' দেয় জানেন...? 'নাম' শুনলেই চমকাবেন, শিওর!",
+    "desc": "আচ্ছা বলুন তো দেখি ভারতের ১ টাকা কোন দেশে গেলে ১৪০০০ টাকা হয়ে যায়? শুনেই নিশ্চই চমকে উঠলেন! কিন্তু উত্তরটিতে লুকিয়ে আছে আরও বড় চমক। সঠিক উত্তর কী হবে জানেন? চটপট পরে ফেলুন এই প্রতিবেদনটি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/currency-7-2026-02-0e224b08c55b83e3b2efb59e7806cc50-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/indian-1-rupee-did-you-know-in-which-country-indian-one-rupee-is-equal-to-14000-rupee-you-will-be-shocked-to-know-the-name-for-sure-trending-general-knowledge-sanj-2550027.html",
+    "time": "2026-02-20T12:29:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বাংলার ভোটার তালিকা প্রকাশ নিয়ে কী নির্দেশ দিল সুপ্রিম কোর্ট? দেখুন ভিডিও",
+    "desc": "রাজ্যে এসআইআর প্রক্রিয়ার পর ভোটার তালিকা প্রকাশ নিয়ে বড় নির্দেশ দিল সুপ্রিম কোর্ট৷ সুপ্রিম কোর্ট এর আগে নির্দেশ দিয়েছিল, আগামী ২৮ ফেব্রুয়ারি রাজ্যে এসআইআর প্রক্রিয়ার পর চূড়ান্ত তালিকা প্রকাশিত হবে৷ যদিও শুক্রবার সুপ্রিম কোর্ট যা নির্দেশ দিল, তাতে আগামী ২৮ ফেব্রুয়ারি চূড়ান্ত ভোটার তালিকা প্রকাশিত হচ্ছে না৷ ২৮ তারিখ একটি তালিকা বেরোলেও সেটিকে চূড়ান্ত তালিকা হিসেবে ঘোষণা করা যাবে না বলে নির্দেশ দিয়েছে সুপ্রিম কোর্ট৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Supreme-court-2026-02-c65446c760c5310f3f2b70b70331c7cc-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/supreme-court-gives-new-order-on-voter-list-in-west-bengal-dmg-2550003.html",
+    "time": "2026-02-20T11:48:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "একা মায়ের কাছে বড় হওয়া সন্তান বাবার নাম,পদবি বাদ দিতে পারে, 'এটা সাংবিধানিক অধিকার', যুগান্তকারী রায় বোম্বে হাইকোর্টের",
+    "desc": "এক সময়ে সরকারি নথিতে শিশুকে বাবার নাম ও পদবি উল্লেখ করত হত, কারণ সেটাই ছিল অফিশিবাল ফরম্যাট! কিন্তু সেই ধারাকে বজায় রাখতে কোনও 'সিঙ্গল মাদার'-এর কাছে বড় হওয়া সন্তানকে তার বাবার নাম ও পদবি বহন করতে বাধ্য করা যাবে না",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/sasd-2026-02-3d003bfe0ca272ba1d35c27626f3bb9d-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/high-court-bombay-hc-allows-child-raised-by-single-mother-to-drop-fathers-name-stresses-right-to-identity-rm-2549851.html",
+    "time": "2026-02-20T11:08:20.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "লক্ষ্মীর ভাণ্ডারের টাকা ঢুকল ৭০২০ অ্যাকাউন্টে...! কী ভাবে পাবেন হাজার হাজার বকেয়া টাকা? রাজ্যের রিপোর্ট তলব হাইকোর্টের",
+    "desc": "লক্ষ্মীর ভাণ্ডার ঢুকছে না! মাসের পর মাস মিলছে না টাকা। অভিযোগ নিয়ে জনস্বার্থ মামলা দায়ের হয়েছিল কলকাতা হাইকোর্টে। ময়নায় অভিযোগ ওঠে, গত অগাস্ট মাস থেকে আচমকাই বন্ধ হয়ে যায় টাকা ঢোকা। এরপরেই আদালতের দ্বারস্থ হয়ে করা হয় জনস্বার্থ মামলা। অবশেষে ঢুকল ফেব্রুয়ারির টাকা। কিন্তু কবে মিলবে বকেয়া টাকা? যা বলল আদালত।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Sanj_lakshmir-bhandar-2026-02-88b8a8abdb41c88aec86f88ec7e892b6-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/lakshmir-bhandar-money-west-bengal-govt-scheme-lakshmir-bhandar-money-finally-recieved-by-7020-accounts-of-mayna-how-people-will-you-get-outstanding-money-high-court-seeks-state-report-sanj-2549750.html",
+    "time": "2026-02-20T10:22:39.000Z"
+  },
+  {
     "cat": "Business",
     "title": "১৮০ টাকা কেজি দর...! স্বীকৃতি পেল রাষ্ট্রপুঞ্জের, এই ধান চাষ করে মালামাল হওয়ার সুযোগ বাংলার চাষিদের",
     "desc": "উত্তর ও দক্ষিণ দিনাজপুরের ঐতিহ্যবাহী তুলাইপাঞ্জি ধান এবার বিশ্বমঞ্চে সমাদৃত। হেরিটেজ স্বীকৃতি দিয়ে রাস্ত্রপুঞ্জ। বর্তমানে বাজারে তুলাইপাঞ্জি চালের দর প্রতি কেজি ১৮০ টাকা পর্যন্ত পৌঁছেছে, যা বাংলার কৃষকদের অর্থনৈতিকভাবে স্বাবলম্বী হওয়ার এক সুবর্ণ সুযোগ করে দিয়েছে।",
@@ -853,50 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/sports/double-triumph-on-delhi-soil-siliguris-shreya-basak-makes-the-nation-proud-with-silver-and-bronze-in-kickboxing-smj-l18-local18-2536600.html",
     "time": "2026-02-12T09:42:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাংলাদেশে ভারতের ৫০০ টাকার 'দর' কত হবে জানেন...? শুনলেই চমকে দেবে 'উত্তর'!",
-    "desc": "বাংলাদেশে আসছে বড় বদল। তৈরি হতে চলেছে নব নির্বাচিত প্রশাসন। গত বছর খানেক ধরে অস্থির পরিস্থিতিতে বাংলাদেশ। আর এই অবস্থায় ক্রমশ বদলাচ্ছে পদ্মাপাড়ের আর্থিক-সামাজিক পরিস্থিতি। আজ সাধারণ নির্বাচনের প্রেক্ষাপটে কী পরিস্থিতি সে দেশে? ভারতের তুলনায় বাংলাদেশের অবস্থা বিশ্বের নিরিখে কোথায় দাঁড়িয়ে? জানতে বুঝে নেওয়া যাক বাংলাদেশ ও ভারতের মুদ্রার তুলনামূলক গুরুত্ব। আচ্ছা বলুন তো, বাংলাদেশে ভারতের ৫০০ টাকার মূল্য কত?",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/bangladesh-currency-2026-02-37d568fd7f40d8ba51616c0aefec46c1-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/bangladeshi-taka-vs-indian-rupee-do-you-know-what-is-the-present-price-of-500-indian-rupees-in-bangladesh-in-this-election-situation-the-answer-will-shock-you-for-sure-sanj-2536657.html",
-    "time": "2026-02-12T09:13:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "কর্মহীন বাবা, নুন আনতে পান্তা ফুরোয় দশা! সব বাধা টপকে ন্যাশনাল ভলিবল চ্যাম্পিয়নশিপে নদিয়ার আফরোজ, সাফল্যের গল্পে অনুপ্রাণিত অনেকেই",
-    "desc": "বাবা কর্মহীন, সংসারে নিত্য অভাব। কিন্তু নদিয়ার আফরোজের চোখে ছিল জাতীয় স্তরে খেলার স্বপ্ন। সেই স্বপ্নই আজ বাস্তব। সমস্ত বাধা পেরিয়ে ভলিবল ন্যাশনাল চ্যাম্পিয়নশিপে ডাক পেল এই লড়াকু ছাত্র, যা নদিয়ার তথা গোটা রাজ্যের গর্ব।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/nadia-volleyball-player-afroz-2026-02-7669a6b499089720d52f8c6d1f2f962c-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/nadia-inspirational-success-story-nadia-class-10-student-struggle-story-he-got-chances-to-participate-national-volleyball-championship-l18-local18-2536455.html",
-    "time": "2026-02-12T08:22:39.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "'আজ থেকেই নতুন বাংলাদেশের শুরু' বললেন ইউনূস, 'ভোট দিয়েই যে কোনও ষড়যন্ত্র রুখে দেওয়া সম্ভব' : তারেক রহমান",
-    "desc": "আজ এক ঐতিহাসিক নির্বাচনে বাংলাদেশ। চলছে ভোটগ্রহণ। অন্তর্বর্তীকালীন সরকারের প্রধান উপদেষ্টা অধ্যাপক মুহম্মদ ইউনূস রাজধানী ঢাকায় ভোটদান করেন। বৃহস্পতিবার ঢাকার গুলশান মডেল হাই স্কুল অ্যান্ড কলেজ ভোটকেন্দ্রে ভোট দেন ইউনূস। দিনটিকে জাতির জন্য একটি গুরুত্বপূর্ণ মোড় হিসেবে বর্ণনা করেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/BANGLADESH-2026-02-320e2307964f433f75d45b388453dfef-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/international/bangladesh-vote-2026-new-bangladesh-begins-today-muhammad-yunus-casts-vote-in-political-reset-it-is-possible-to-stop-any-conspiracy-by-voting-after-vote-casting-said-tarique-rahman-sanj-2536297.html",
-    "time": "2026-02-12T07:35:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "১২, ১৩, ১৪, ১৫, ১৬ ফেব্রুয়ারি...! আবহাওয়ার আমূল রদবদল, বৃষ্টি, বজ্রবিদ্যুৎ, দুর্যোগ কাঁপাবে ৭ রাজ্য, পারদ চড়বে কোথায়? কী হবে বাংলায়? জানিয়ে দিল IMD",
-    "desc": "একাধিক সিস্টেমের ধাক্কা! হঠাৎ ১৮০ ডিগ্রি ঘুরছে আবহাওয়ার মোড়। পূর্বাভাস বলছে, পরপর দু-দুটি পশ্চিমী ঝঞ্ঝা ঢুকবে উত্তর-পশ্চিম ভারতে। ১৩ই ফেব্রুয়ারি শুক্রবার এবং ১৬ই ফেব্রুয়ারি সোমবার দুটি পশ্চিমী ঝঞ্ঝা আসার প্রবল সম্ভাবনা। দক্ষিণ-পশ্চিম রাজস্থান এলাকায় একটি সক্রিয় ঘূর্ণাবর্ত রয়েছে। সাব ট্রপিক্যাল ওয়েষ্টার্লি জেট স্ট্রিম রয়েছে উত্তরপূর্ব ভারত ও সংলগ্ন এলাকায়। দক্ষিণ-পূর্ব বাংলাদেশ এলাকায় একটি ঘূর্ণাবর্ত রয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/sanj-rain-image-2026-02-eac73cb4154dcc8435927a30ebd0b894-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-12-13-14-15-and-16-february-alert-rainfall-thunderstorm-massive-weather-change-to-hit-7-states-temperature-will-rise-in-these-states-suddenly-know-latest-west-bengal-weather-sanj-2535997.html",
-    "time": "2026-02-11T17:57:07.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "জামাত ভোটে জিতলে কি সত্যিই ইসলামি আইন চালু হবে বাংলাদেশে? কী বলছেন শফিকুর রহমান নিজে?",
-    "desc": "রায় যাই হোক না কেন, সেখানে গুরুত্বপূর্ণ ভূমিকা থাকবে আওয়ামী লিগের সমর্থকদের। কমবেশি ৩৫ থেকে ৪০ শতাংশ এই ভোটই এখন আসল ফ্যাক্টর। বিএনপি এবং জামাত - দু’পক্ষই তাদের কাছে টানার চেষ্টা করছে। একদিকে, বিএনপির বক্তব্য, মুক্তিযুদ্ধের আদর্শ, ইতিহাস একমাত্র তারাই বাঁচিয়ে রাখতে পারবে। শেখ হাসিনা খারাপ হলেও আওয়ামী লিগ ভালো। অন্যদিকে, জামাতের দাবি, হাসিনা দেশছাড়ার পর আওয়ামীর সমর্থকদের উপর যে হামলা হয়েছে, তাতে জামাতের কোনও হাত নেই। উলটে আওয়ামী-সমর্থক নিরাপত্তা দিতে সবদিক থেকে প্রস্তুত তারা। মুজিব-অনুগামীরা যার কথা বিশ্বাস করবেন, সম্ভবত তারাই বাংলাদেশের কুর্সিতে বসবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/bang1-2026-02-f425d6e2b921f8258a91bace436e9f0c.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/international/bangladesh-election-after-sheikh-hasina-left-the-country-which-party-to-come-to-power-pbd-2535993.html",
-    "time": "2026-02-11T17:17:52.000Z"
   }
 ];
