@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'India will be under a lot of pressure': South Africa head coach starts mind games ahead T20 WC Super 8 clash",
+    "desc": "South Africa head coach Shukri Conrad feels India will be under a lot of pressure in their opening Super 8 clash at the Narendra Modi Stadium in Ahmedabad on Sunday (February 22). He feels that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-will-be-under-a-lot-of-pressure-south-africa-head-coach-starts-mind-games-ahead-t20-wc-super-8-clash-2026-02-20-1031076",
+    "time": "2026-02-20T17:44:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia equal all-time T20 World Cup record with dominant win over Oman",
+    "desc": "Australia ended their T20 World Cup campaign today with a dominant nine-wicket win against Oman in Pallekele. However, this win meant nothing for Australia as they were already out of the tournament, having lost to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-equal-all-time-t20-world-cup-record-with-dominant-win-over-oman-2026-02-20-1031069",
+    "time": "2026-02-20T16:29:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rain to disrupt NZ vs PAK Super 8 clash in T20 World Cup? Here's Colombo weather forecast",
+    "desc": "Colombo weather is once again making the headlines ahead of the opening Super 8 clash between New Zealand and Pakistan. The match is on Saturday at the R Premadasa Stadium in Colombo, but it could...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rain-to-disrupt-nz-vs-pak-super-8-clash-in-t20-world-cup-here-s-colombo-weather-forecast-2026-02-20-1031066",
+    "time": "2026-02-20T16:04:49.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "South Africa to tour New Zealand for five T20I after T20 World Cup, IPL-bound players to skip series",
     "desc": "South Africa have appointed Keshav Maharaj as the captain of the T20I for the five-match series against New Zealand away from home next month. The series is set to be played from March 15 to...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/aus-vs-omn-pitch-report-how-will-surface-at-pallekele-international-cricket-stadium-play-in-t20-world-cup-2026-02-20-1031018",
     "time": "2026-02-20T09:05:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India beat Sri Lanka to qualify for Rising Asia Cup final, who will they play in summit clash?",
-    "desc": "India have defeated Sri Lanka by five wickets at the Terdthai Cricket Ground in Bangkok to qualify for the Asia Cup Rising Stars 2025 final. The Radha Yadav-led side produced an all-rounder show and it...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-beat-sri-lanka-to-qualify-for-rising-asia-cup-final-who-will-they-play-in-summit-clash-2026-02-20-1031010",
-    "time": "2026-02-20T08:07:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 superstar cricketers who flopped in T20 World Cup 2026 so far",
-    "desc": "All eight teams have been finalised for the Super Eights of the ongoing T20 World Cup 2026. Four teams - India, South Africa, Zimbabwe and West Indies are unbeaten so far in the tournament and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/3-superstar-cricketers-who-flopped-in-t20-world-cup-2026-so-far-2026-02-20-1031003",
-    "time": "2026-02-20T07:12:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan players likely to be ignored after several IPL franchises invest in The Hundred",
-    "desc": "Pakistan cricketers are very likely to be left out of the upcoming edition of The Hundred. In 2025, several Indian conglomerates bought key stakes in all eight teams and that could result in no contracts...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-players-likely-to-be-ignored-after-several-ipl-franchises-invest-in-the-hundred-2026-02-20-1030993",
-    "time": "2026-02-20T05:50:31.000Z"
   }
 ];

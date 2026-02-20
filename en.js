@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'I don’t think I ever wanted to leave Bollywood'",
+    "desc": "Priyanka Chopra’s journey from being one of Bollywood’s biggest stars to carving a space for herself in Hollywood has often sparked conversation online. Now, the global actor has opened up about what led to that transition and how her decision was shaped by the search for more fulfilling opportunities.",
+    "img": "https://static.toiimg.com/photo/msid-128620276,imgsize-20784.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-says-i-dont-think-i-ever-wanted-to-leave-bollywood-i-felt-limited-for-many-reasons-in-hindi-films/articleshow/128620147.cms",
+    "time": "2026-02-20T18:23:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Arms, ammo recovered near LoC in J&amp;K’s Rajouri",
+    "desc": "Army and Rajouri Police recovered a cache of arms and ammunition, including an AK-47, during a search operation in Sunderbani sector. The recovery followed a foiled infiltration bid, with heavily bloodstained tracks suggesting injured terrorists. Operations continue with heightened vigilance.",
+    "img": "https://static.toiimg.com/photo/msid-128619456,imgsize-1046181.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/operation-jwala-arms-ammo-recovered-near-loc-in-jks-rajouri/articleshow/128619354.cms",
+    "time": "2026-02-20T18:00:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Omar defies party &amp; rivals to back Ramadan charity control order",
+    "desc": "Speaking in the assembly, Omar urged legislators “not to politicise every issue” and clarified that the Feb 18 order was issued by the Kishtwar deputy commissioner (DC) after consulting religious leaders as a safety measure to check donation deceptions. “We shouldn’t mix religion with politics. Some matters require dialogue and understanding at the local level rather than political confrontation,” Omar said.",
+    "img": "https://static.toiimg.com/photo/msid-128619402,imgsize-63446.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/omar-defies-party-rivals-to-back-ramadan-charity-control-order/articleshow/128619434.cms",
+    "time": "2026-02-20T17:59:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AI in diagnostics, faster hiring must shape AIIMS expansion: Nadda",
+    "desc": "Union Health Minister Jagat Prakash Nadda emphasized the need for artificial intelligence in diagnostics and faster faculty recruitment as India's AIIMS network expands. He urged institutes to integrate AI into clinical decision-making and institutionalize telemedicine, while also calling for accelerated, quality-assured hiring to address significant staffing gaps across the institutions.",
+    "img": "https://static.toiimg.com/photo/msid-128618611,imgsize-973350.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ai-in-diagnostics-faster-hiring-must-shape-aiims-expansion-nadda/articleshow/128618580.cms",
+    "time": "2026-02-20T17:36:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Chess is more than just a game to me; it’s my world, it’s the core of my life: Alexandra Kosteniuk",
+    "desc": "The 41-year-old Grandmaster is one of the most decorated players in chess history, having won multiple World titles, the World Cup, Olympiads and the GCL. In this conversation, she talks about what the game means to her, how it has changed with the advent of computers, what motivates her to compete at the top level in her 40s and why she isn’t a content creator anymore",
+    "img": "https://th-i.thgim.com/public/incoming/osevae/article70656227.ece/alternates/LANDSCAPE_1200/GettyImages-1237471437.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/todays-paper/tp-sports/chess-is-more-than-just-a-game-to-me-its-my-world-its-the-core-of-my-life-alexandra-kosteniuk/article70656220.ece",
+    "time": "2026-02-20T17:14:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "how Associate teams have put the world in World Cup",
+    "desc": "In addition to making the tournament more global, USA, Italy, Nepal, Scotland, Canada, the Netherlands, Namibia, Oman and UAE have produced competitive, sometimes magical, cricket at T20’s showpiece event. It is necessary to lend an ear to their challenges and address them to ensure that the momentum Associate cricket has built up doesn’t dissipate",
+    "img": "https://th-i.thgim.com/public/incoming/aefars/article70656151.ece/alternates/LANDSCAPE_1200/TH21-US.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/underdog-stories-how-associate-teams-have-put-the-world-in-world-cup/article70656156.ece",
+    "time": "2026-02-20T17:14:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sudip Sharma has ‘no interest’ in working with SRK, Big B",
+    "desc": "Bollywood megastars Shah Rukh Khan and Amitabh Bachchan represent a scale of fame most filmmakers aspire to collaborate with at least once in their careers. However, Sudip Sharma — the acclaimed writer and creator behind gritty dramas like Paatal Lok and Kohrra — has made it clear that chasing star power has never been part of his ambition.",
+    "img": "https://static.toiimg.com/photo/msid-128617726,imgsize-57104.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sudip-sharma-says-he-has-no-interest-in-working-with-shah-rukh-khan-amitabh-bachchan-i-came-here-to-tell-my-own-story/articleshow/128617685.cms",
+    "time": "2026-02-20T17:09:20.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Kim lauds North Korea's economy and regional standing as major party meeting opens",
+    "desc": "North Korean leader Kim Jong Un said the North has made significant progress since the last congress in 2021, citing economic gains and a firmer regional footing that he said marked an “irreversible” strengthening of the state's status",
+    "img": "https://th-i.thgim.com/public/incoming/qjdk1q/article70657591.ece/alternates/LANDSCAPE_1200/AP02_20_2026_000005A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/kim-lauds-north-koreas-economy-and-regional-standing-as-major-party-meeting-opens/article70657581.ece",
+    "time": "2026-02-20T16:56:38.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US businesses fret as court ruling 'worryingly silent' over refunds",
+    "desc": "US businesses have won a significant victory as the Supreme Court struck down President Trump's emergency tariffs. While companies anticipate billions in refunds, the process is expected to be lengthy and complex. The ruling, impacting over $175 billion in collected tariffs, has boosted markets, though uncertainty about future tariff policies remains.",
+    "img": "https://static.toiimg.com/photo/msid-128617263,imgsize-1723645.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/trump-tariffs-trashed-us-businesses-fret-as-court-ruling-worryingly-silent-over-refunds/articleshow/128617060.cms",
+    "time": "2026-02-20T16:53:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Onus on Pakistan spinners and New Zealand batters as Super Eight begins",
+    "desc": "Black Caps openers Allen and Seifert will be hoping to lay a solid foundation for the middle-order on a slow surface at the Premadasa; the threat of rain may tempt the Asian side to include pacers Afridi and Salman in the playing XI",
+    "img": "https://th-i.thgim.com/public/incoming/tjdxkb/article70657587.ece/alternates/LANDSCAPE_1200/PTI02_15_2026_000319B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-onus-on-pakistan-spinners-and-new-zealand-batters-as-super-eight-begins/article70657294.ece",
+    "time": "2026-02-20T16:51:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "R Madhavan recalls emotional 26/11 scene in ‘Dhurandhar’",
+    "desc": "Aditya Dhar's 'Dhurandhar', starring Ranveer Singh and an ensemble cast, achieved box-office success, notably for its intense recreation of the 26/11 Mumbai terror attacks. Actors like R. Madhavan and Akshaye Khanna were deeply affected by the sequence, highlighting the film's emotional resonance. The sequel, 'Dhurandhar 2', is set for release in March 2026.",
+    "img": "https://static.toiimg.com/photo/msid-128617115,imgsize-21326.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-recalls-emotional-26/11-scene-in-dhurandhar-that-left-akshaye-khanna-and-arjun-rampal-in-tears/articleshow/128617139.cms",
+    "time": "2026-02-20T16:47:59.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Poland withdraws from treaty banning antipersonnel mines, will use them to defend against Russia",
+    "desc": "Poland, which ratified the document in 2012 and completed the destruction of its domestic anti-personnel mine stockpile in 2016, withdrew from the treaty on February 20, 2026 and says it plans to renew manufacturing weapons",
+    "img": "https://th-i.thgim.com/public/incoming/e0kxfw/article70657558.ece/alternates/LANDSCAPE_1200/Poland_Land_Mines_90728.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/poland-withdraws-from-treaty-banning-antipersonnel-mines-will-use-them-to-defend-against-russia/article70657545.ece",
+    "time": "2026-02-20T16:41:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia chase down target before 10 overs, beat Oman by nine wickets",
+    "desc": "Australia ended their poor T20 World Cup campaign with a nine-wicket win over Oman, but it came after they were already eliminated. Adam Zampa took four wickets as Oman were bowled out for 104, and Mitchell Marsh’s unbeaten 64 helped Australia chase the target in just 9.4 overs. Despite the dominant win, Australia’s early exit has raised questions about the team.",
+    "img": "https://static.toiimg.com/photo/msid-128616676,imgsize-142050.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/australia-chase-down-target-before-10-overs-beat-oman-by-nine-wickets-in-final-t20-world-cup-group-stage-match/articleshow/128616424.cms",
+    "time": "2026-02-20T16:32:30.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. Supreme Court strikes down Trump’s global tariffs",
+    "desc": "The U.S. Supreme Court struck down on February 20, President Donald Trump’s sweeping tariffs that he pursued under ​a law meant for use in national emergencies, rejecting one of his most contentious assertions of his authority in a ruling with major implications for the global economy.",
+    "img": "https://th-i.thgim.com/public/incoming/6ms5mc/article70657443.ece/alternates/LANDSCAPE_1200/ufo%20.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-us-supreme-court-strikes-down-trumps-global-tariffs/article70657456.ece",
+    "time": "2026-02-20T16:14:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajpal Yadav shares emotional hug with niece during vidai",
+    "desc": "Actor Rajpal Yadav, granted interim bail for a family wedding, was seen overcome with emotion during his niece's vidai in Shahjahanpur. This follows a viral clip of him joyfully dancing at the mehendi ceremony. The actor is navigating a long-standing legal battle over a defaulted loan.",
+    "img": "https://static.toiimg.com/photo/msid-128615732,imgsize-22136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-shares-emotional-hug-with-niece-during-vidai-viral-wedding-videos-surface/articleshow/128615741.cms",
+    "time": "2026-02-20T15:57:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Madaan calls SRK a ‘great strategist’: His charm is a skill",
+    "desc": "Shah Rukh Khan has long been celebrated for his effortless charm and romantic screen presence. But according to astrologer and spiritual mentor Jai Madaan, the superstar’s charisma is not merely natural — it is strategically sharpened.",
+    "img": "https://static.toiimg.com/photo/msid-128615516,imgsize-44742.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jai-madaan-calls-shah-rukh-khan-a-great-strategist-says-srks-charm-is-a-skill-not-just-a-gift-what-he-has-only-his-wife-can-tell/articleshow/128615439.cms",
+    "time": "2026-02-20T15:49:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top 5 South stories of the day",
+    "desc": "South cinema buzzed with major announcements and developments on February 20. A cryptic poster for Rajinikanth-Kamal Haasan's film ignited curiosity, while Sivakarthikeyan's 'Seyon' faced a title dispute. Jayasurya's asset was attached in a money-laundering probe. Meanwhile, Yash's ruthless avatar in the 'Toxic' teaser and a leaked look of Mahesh Babu as Lord Ram amplified fan excitement.",
+    "img": "https://static.toiimg.com/photo/msid-128614892,imgsize-60148.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/toxic-teaser-khxrk-poster-seyon-title-controversy-top-5-south-stories-of-the-day/articleshow/128614892.cms",
+    "time": "2026-02-20T15:33:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Not meant to last forever': MS Dhoni's IPL teammate announces divorce",
+    "desc": "The 26-year-old shared the update about his personal life through a post on Instagram on Friday (February 20), confirming that the marriage has legally ended. In the note, Rahul reflected on his experiences and what he learned over the years.",
+    "img": "https://static.toiimg.com/photo/msid-128614567,imgsize-74118.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/not-meant-to-last-forever-ms-dhonis-ipl-teammate-announces-divorce-from-wife/articleshow/128614188.cms",
+    "time": "2026-02-20T15:21:57.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "India, Pakistan players 'talking behind closed doors': England legend",
     "desc": "India-Pakistan rivalry has intensified, with India skipping post-match handshakes, sparking debate. The move began in the Asia Cup and was linked to security-related sentiments. Former England players discussed the issue, with Phil Tufnell and Michael Vaughan saying India look dominant and Pakistan appear intimidated. Alastair Cook suggested the tension may be for public display and players might be friendly in private.",
@@ -27,15 +189,6 @@ const newsData_en = [
     "time": "2026-02-20T14:48:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Commuters upset as congestion, delays plague Chennai Beach–Tambaram train service on day 1 of revised schedule",
-    "desc": "To facilitate the redevelopment works to be carried out at the Egmore railway station, Southern Railway had announced the reduction of suburban train services and also the switching of platforms for 45 days starting from February 20",
-    "img": "https://th-i.thgim.com/public/incoming/txmbwj/article70656195.ece/alternates/LANDSCAPE_1200/4871_20_2_2026_14_40_49_1_DSC_3358_1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/commuters-upset-as-congestion-delays-plague-chennai-beachtambaram-train-service-on-day-1-of-revised-schedule/article70656093.ece",
-    "time": "2026-02-20T14:28:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Less than 100'- Pak coach breaks silence on Babar's strike rate, Salman Agha rift",
     "desc": "Pakistan coach Mike Hesson questioned Babar Azam’s powerplay strike rate ahead of the Super Eight clash against New Zealand, explaining his demotion during the Namibia match. Hesson also clarified Shaheen Shah Afridi’s omission, backed Salman Mirza’s inclusion, and dismissed talk of a rift with Salman Ali Agha.",
@@ -61,15 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/traitor-rahul-bjp-protests-congresss-shirt-off-disruption-at-ai-event/articleshow/128611674.cms",
     "time": "2026-02-20T14:27:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Private hospital nurses call Statewide strike on Feb. 21 demanding pay revision",
-    "desc": "United Nurses Association says wages have remained stagnant for seven years despite rising living costs and legal mandate for periodic revision. It wants the basic salary of private hospital nurses to be raised to ₹40,000",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/private-hospital-nurses-call-statewide-strike-on-feb-21-demanding-pay-revision/article70656316.ece",
-    "time": "2026-02-20T14:25:11.000Z"
   },
   {
     "cat": "World",
@@ -115,24 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-wraps-dubbing-for-dhurandhar-2-ahead-of-march-release-reports/articleshow/128611886.cms",
     "time": "2026-02-20T14:07:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ruckus in Legislative Council as Tirumala laddu row reaches a flashpoint",
-    "desc": "The issue snowballs into a confrontation over religious propriety and legislative decorum when ruling party members objected to YSRCP MLCs carrying photographs of Lord Venkateswara with footwear on, and the later denying disrespecting religious sentiments",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ruckus-in-legislative-council-as-tirumala-laddu-row-reaches-a-flashpoint/article70656348.ece",
-    "time": "2026-02-20T14:01:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Private schools can't collect unregulated fee from April 1: Delhi government to HC",
-    "desc": "A bench of Chief Justice D.K. Upadhyaya and Justice Tejas Karia was hearing the petitions filed by the schools' associations challenging the February 1 notification of the government on setting up the committees within 10 days",
-    "img": "https://th-i.thgim.com/public/incoming/bw32uo/article70656362.ece/alternates/LANDSCAPE_1200/INDEX%20DELHI%20HIGH%20COURT%20%20DELHI%202025_09_04_20.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/private-schools-cant-collect-unregulated-fee-from-april-1-delhi-government-to-hc/article70656312.ece",
-    "time": "2026-02-20T13:41:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -189,15 +315,6 @@ const newsData_en = [
     "time": "2026-02-20T13:04:24.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mohanlal's first paycheck &amp; what he did with the money!",
-    "desc": "Malayalam superstar Mohanlal, now commanding crores, began his acting journey with a modest Rs 2,000 for his debut film 'Manjil Virinja Pookkal'. Instead of personal gain, the young actor generously donated his entire first pay check to a local orphanage, showcasing his remarkable compassion from the very start of his illustrious career.",
-    "img": "https://static.toiimg.com/photo/msid-128609395,imgsize-28096.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mohanlals-first-salary-revealed-why-did-the-drishyam-3-star-donate-his-entire-paycheck/articleshow/128609395.cms",
-    "time": "2026-02-20T13:01:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Royals agree to host four home games in Jaipur; Guwahati gets three",
     "desc": "Rajasthan Royals will host four IPL 2026 home matches in Jaipur and three in Guwahati after resolving safety and liability concerns with the state government. The decision followed talks between Royals chairperson Ranjit Barthakur and Chief Minister Bhajan Lal Sharma. Earlier disputes arose over stadium safety issues flagged in an audit. The government has now started repair and upgrade work at the Sawai Man Singh Stadium.",
@@ -216,15 +333,6 @@ const newsData_en = [
     "time": "2026-02-20T12:54:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Fake 'Dhurandhar 2' censor certificate viral before Mar 19 release",
-    "desc": "The Revenge.' A recently leaked CBFC certificate is causing a stir, as it actually relates to the original film's TV release instead of the sequel. With filming still in progress and no submission for certification yet, fans are left in the dark.",
-    "img": "https://static.toiimg.com/photo/msid-128608829,imgsize-47336.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-runtime-and-rating-leak-fake-censor-certificate-goes-viral-ahead-of-march-19-release-reports/articleshow/128608829.cms",
-    "time": "2026-02-20T12:44:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Abhishek Sharma to get dropped? India coach makes fresh admission",
     "desc": "India opener Abhishek Sharma has struggled in the T20 World Cup with three ducks, but the team management continues to back him. Coach Morne Morkel said there is no talk of dropping him. Sunil Gavaskar feels pressure is affecting his game and advised him to build innings patiently. Assistant coach Ryan ten Doeschate said Abhishek showed good form in the nets and should bounce back in the Super 8s.",
@@ -232,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/abhishek-sharma-to-get-dropped-india-coach-makes-fresh-admission-amid-poor-t20-world-cup-form/articleshow/128607997.cms",
     "time": "2026-02-20T12:40:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ponniyin Selvan 2': A.R. Rahman agrees to credit Dagar legacy",
-    "desc": "A.R. Rahman has assured the Supreme Court he will acknowledge \"Veera Raja Veera\" from \"Ponniyin Selvan II\" as inspired by the Dagar family's \"Shiva Stuti.\" The composer agreed to credit the late Junior Dagar Brothers as an interim measure, with modifications to be made on social media and OTT platforms within five weeks.",
-    "img": "https://static.toiimg.com/photo/msid-128608418,imgsize-7056.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ponniyin-selvan-2-copyright-case-a-r-rahman-agrees-to-credit-dagar-legacy-sc-records-key-assurance/articleshow/128607951.cms",
-    "time": "2026-02-20T12:29:01.000Z"
   },
   {
     "cat": "Politics",
@@ -259,15 +358,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/abandoned-by-mother-baby-monkey-punch-finds-comfort-in-stuffed-orangutan-charms-zoo-visitors/article70655985.ece",
     "time": "2026-02-20T12:21:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Emily Ratajkowski confirms romance with Romain Gavras",
-    "desc": "Emily Ratajkowski has officially confirmed her new relationship with French director Romain Gavras through intimate Instagram photos. The couple was seen sharing affectionate moments outdoors and during a private dinner, marking their public debut. This news follows Ratajkowski's previous high-profile connections and Gavras's past romance with pop star Dua Lipa.",
-    "img": "https://static.toiimg.com/photo/msid-128607768,imgsize-57490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/emily-ratajkowski-confirms-relationship-with-dua-lipas-ex-romain-gavras-on-social-media-reports/articleshow/128607768.cms",
-    "time": "2026-02-20T12:15:58.000Z"
   },
   {
     "cat": "Politics",
@@ -306,15 +396,6 @@ const newsData_en = [
     "time": "2026-02-20T11:47:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ranveer spotted at Hospital visiting Salman's father Salim Khan",
-    "desc": "Ranveer Singh visited Mumbai’s Lilavati Hospital on Friday to check on Salim Khan’s health. The veteran writer, admitted on February 17, is on ventilator support after a minor brain hemorrhage. Salman Khan has requested privacy, asking hospital staff not to share updates as the family manages communication about Salim’s condition.",
-    "img": "https://static.toiimg.com/photo/msid-128606107,imgsize-25642.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-star-ranveer-singh-spotted-at-lilavati-hospital-visiting-salman-khans-father-salim-khan-watch-video/articleshow/128606107.cms",
-    "time": "2026-02-20T11:31:10.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'India diversifying oil sourcing': US envoy Sergio Gor notes Russia shift",
     "desc": "India is diversifying its oil sources, according to US envoy Sergio Gor. Discussions are underway for Venezuelan oil imports. The US maintains its stance against countries buying Russian oil. A trade deal between India and the US is nearing finalization, with a potential meeting between Prime Minister Modi and US President Trump anticipated.",
@@ -331,15 +412,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-what-is-pax-silica/article70655832.ece",
     "time": "2026-02-20T11:18:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘I think Matt will leave me’ as ‘Holiday Party’ drops",
-    "desc": "Hilary Duff courageously shared her ongoing struggles with marital insecurities, admitting she sometimes worries that her husband, Matthew Koma, may abandon her for a fellow artist. This emotional backdrop has given rise to her new song 'Holiday Party,' a reflection on the chaos of intrusive thoughts.",
-    "img": "https://static.toiimg.com/photo/msid-128605486,imgsize-58902.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/hilary-duff-admits-marriage-insecurities-i-always-think-matts-going-to-leave-me-while-discussing-new-track-holiday-party/articleshow/128605486.cms",
-    "time": "2026-02-20T11:17:42.000Z"
   },
   {
     "cat": "Politics",
@@ -363,7 +435,7 @@ const newsData_en = [
     "cat": "Sports",
     "title": "The story of 15-year-old Arshiya Das",
     "desc": "Tripura’s 15-year-old chess prodigy Arshiya Das recently became the first Woman International Master (WIM) from Northeast India after winning a tournament in Serbia. Her rise began from playing chess on a laptop as a child, followed by strong national and international results. With family sacrifices, coaching across India, and intense training, she has emerged as a major talent, highlighting both the region’s potential and the need for better support and sponsorship",
-    "img": "https://static.toiimg.com/photo/msid-128604285,imgsize-72950.cms",
+    "img": "https://static.toiimg.com/photo/msid-128617238,imgsize-70516.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/india-gets-first-wim-from-northeast-how-15-year-old-arshiya-das-is-rewriting-chess-geography/articleshow/128604105.cms",
     "time": "2026-02-20T10:51:56.000Z"
@@ -504,15 +576,6 @@ const newsData_en = [
     "time": "2026-02-20T08:01:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Donald Trump loved his visit to India, told me the culture is unmatched: US envoy Sergio Gor",
-    "desc": "US Ambassador Sergio Gor hinted at an upcoming meeting between Prime Minister Modi and President Trump, emphasizing growing AI and semiconductor cooperation. India's signing of the Pax Silica Declaration, alongside US officials, signifies a pivotal moment for bilateral ties, fostering collaboration in advanced technologies among trusted nations.",
-    "img": "https://static.toiimg.com/photo/msid-128597327,imgsize-17924.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/donald-trump-loved-his-visit-to-india-told-me-the-culture-is-unmatched-us-envoy-sergio-gor/articleshow/128596914.cms",
-    "time": "2026-02-20T07:50:08.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Afridi issues fiery challenge to Shadab over 'India World Cup' comment",
     "desc": "Former Pakistan captain Shahid Afridi has criticized Shadab Khan's post-match comments, reminding him of the challenges of handling success after their 2021 World Cup win against India. Afridi urged Shadab to let his performance on the field answer critics during the upcoming Super 8 matches, emphasizing that former players supported him during difficult times.",
@@ -520,24 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/shahid-afridi-issues-fiery-challenge-to-shadab-khan-over-india-world-cup-comment/articleshow/128597232.cms",
     "time": "2026-02-20T07:45:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "$5 million question: Can bankers be fired for demanding 8 hours of sleep? US court to decide",
-    "desc": "Wall Street’s junior-banker grind has been a simmering flashpoint since pandemic-era deal surges, when complaints about punishing schedules and chronic sleep deprivation spilled into public view and forced some banks to tinker with “protected” time off",
-    "img": "https://static.toiimg.com/photo/msid-128598076,imgsize-120696.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/legal/news/kathryn-shiber-centerview-partners-banker-fired-for-demanding-sleep-manhattan-court/articleshow/128597466.cms",
-    "time": "2026-02-20T07:41:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rahul Gandhi records statement in Sultanpur court over remarks on Amit Shah",
-    "desc": "Rahul Gandhi appeared in a Sultanpur court on Friday for a 2018 criminal defamation case concerning remarks allegedly made about Amit Shah during the Karnataka Assembly elections. The case, filed by a BJP leader, accuses Gandhi of calling Shah an \"accused in a murder case,\" a statement Gandhi denies as politically motivated.",
-    "img": "https://static.toiimg.com/photo/msid-128594698,imgsize-60742.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/defamation-case-rahul-gandhi-records-statement-in-sultanpur-court-over-remarks-on-amit-shah/articleshow/128594639.cms",
-    "time": "2026-02-20T07:18:11.000Z"
   },
   {
     "cat": "Entertainment",
@@ -558,15 +603,6 @@ const newsData_en = [
     "time": "2026-02-20T06:52:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Talk about youth and women of Assam': Priyanka Gandhi slams CM Himanta Sarma over remarks on Gaurav Gagoi's family",
-    "desc": "Priyanka Gandhi Vadra criticized Assam CM Himanta Biswa Sarma, stating he is \"rattled\" by MP Gaurav Gogoi and resorting to personal attacks and \"politics of polarization.\" She asserted that Sarma's targeting of Gogoi and his family stems from the Congress leader pursuing the \"politics of love\" and walking the \"right path.\"",
-    "img": "https://static.toiimg.com/photo/msid-128595661,imgsize-804457.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/talk-about-youth-and-women-of-assam-priyanka-gandhi-slams-cm-himanta-sarma-over-remarks-on-gaurav-gagois-family/articleshow/128595188.cms",
-    "time": "2026-02-20T06:38:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'India won't make it to semi-finals': Former Pakistan pacer's shocking take",
     "desc": "Former Pakistan bowler Mohammad Amir has made bold predictions for the T20 World Cup 2026. He believes India will not advance to the semi-finals. Amir points to India's batting collapses in recent matches. He suggests teams like South Africa and the West Indies can exploit these weaknesses. India faces South Africa in their Super 8 opener.",
@@ -574,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-wont-make-it-to-semi-finals-former-pakistan-pacers-shocking-take/articleshow/128593350.cms",
     "time": "2026-02-20T05:51:42.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India-US sign Pax Silica Declaration: New Delhi’s entry ‘strategic and essential’",
-    "desc": "India has joined the US-led Pax Silica strategic alliance, a coalition aimed at defining the 21st-century economic and technological order. The declaration focuses on building secure, resilient ecosystems for critical minerals and AI, bolstering India's electronics and semiconductor industry. This move strengthens global AI and semiconductor supply chains, reducing dependence on non-aligned nations.",
-    "img": "https://static.toiimg.com/photo/msid-128593646,imgsize-817484.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-sign-pax-silica-declaration-new-delhis-entry-strategic-and-essential/articleshow/128593236.cms",
-    "time": "2026-02-20T05:38:53.000Z"
   },
   {
     "cat": "Sports",
@@ -603,15 +630,6 @@ const newsData_en = [
     "time": "2026-02-20T04:30:22.000Z"
   },
   {
-    "cat": "Business",
-    "title": "From layoff guidelines to timely wages; new checklist issued for employers",
-    "desc": "The Labour Ministry has unveiled a comprehensive compliance checklist for employers, consolidating nearly two dozen requirements under four new labour codes. This initiative aims to clarify responsibilities, prevent evasion, and minimize legal disputes by providing a clear roadmap for businesses. The checklist covers foundational, monthly, annual, and event-specific obligations, ensuring smoother transitions and enhanced worker welfare.",
-    "img": "https://static.toiimg.com/photo/msid-128591140,imgsize-177479.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/new-labour-codes-from-layoff-guidelines-to-timely-wages-new-checklist-issued-for-employers/articleshow/128589758.cms",
-    "time": "2026-02-20T04:29:49.000Z"
-  },
-  {
     "cat": "World",
     "title": "Venezuela approves amnesty bill that could see release of hundreds detained for political reasons",
     "desc": "Acting President Delcy Rodríguez, who proposed the bill late last month, is expected to sign the measure, which outlines the eligibility and exclusions for people to be granted amnesty, and therefore, be released after months or years of being in custody",
@@ -619,15 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/venezuela-approves-amnesty-bill-that-could-see-release-of-hundreds-detained-for-political-reasons/article70654549.ece",
     "time": "2026-02-20T02:22:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Everybody loves an underdog story’ – The T20 World Cup is all about Zimbabwe",
-    "desc": "Zimbabwe had already defeated two previous champions, Australia and Sri Lanka, in the group stage. In the Super Eight, they will lock horns against two-time champions West Indies and India, and South Africa, the runners-up of the previous edition. Zimbabwe captain Sikandar Raza calls his team 'underdogs', but by no means are they pushovers. They are gaining momentum and have a captain who knows a thing or two about chasing against the odds.",
-    "img": "https://static.toiimg.com/photo/msid-128572060,imgsize-156442.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/everybody-loves-an-underdog-story-the-2026-t20-world-cup-is-all-about-zimbabwe/articleshow/128572039.cms",
-    "time": "2026-02-20T02:00:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -862,15 +871,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/warner-bros-says-reopening-talks-with-paramount-on-its-buyout-offer/article70645768.ece",
     "time": "2026-02-18T06:40:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran upbeat after U.S. talks but Vance says 'red lines' not met",
-    "desc": "Iran's supreme leader had warned earlier in the day that the country had the ability to sink a U.S. warship recently deployed to the region, after Trump alluded to \"consequences\" should the two sides fail to strike a deal",
-    "img": "https://th-i.thgim.com/public/incoming/h1v6jr/article70646000.ece/alternates/LANDSCAPE_1200/2262188575.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-upbeat-after-us-talks-but-vance-says-red-lines-not-met/article70645984.ece",
-    "time": "2026-02-18T05:51:20.000Z"
   },
   {
     "cat": "Sports",
