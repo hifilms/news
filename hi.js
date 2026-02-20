@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shahid Afridi hits back at Shadab Khan over 'they have never beaten India' comment",
+    "desc": "The off-field drama has once again taken centre stage in Pakistan cricket. After a 61-run drubbing against India earlier in the T20 World Cup, several former cricketers, including Shahid Afridi, Mohammad Yousuf and Shoaib Akhter,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shahid-afridi-hits-back-at-shadab-khan-over-they-have-never-beaten-india-comment-2026-02-20-1030980",
+    "time": "2026-02-20T04:07:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sikander Raza breaks Rohit Sharma's legendary record with POTM performance vs Sri Lanka",
+    "desc": "Zimbabwe stunned Sri Lanka in their final T20 World Cup group stage game, pulling off a six-wicket win at the R Premadasa Stadium in Colombo. Captain Sikandar Raza was once again the chief component, playing...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sikander-raza-breaks-rohit-sharma-s-legendary-record-with-potm-performance-vs-sri-lanka-2026-02-20-1030970",
+    "time": "2026-02-20T02:17:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Oman plan to 'crush' out-of-form Australia in final T20 World Cup 2026 group stage game",
     "desc": "With one win in three matches, Australia are already knocked out of the race to qualify for the Super Eights of the T20 World Cup 2026. They will play Oman in their final league stage...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/zimbabwe-top-group-b-with-thrilling-win-over-sri-lanka-in-t20-world-cup-to-face-india-on-feb-26-2026-02-19-1030935",
     "time": "2026-02-19T12:58:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Italy bow out of T20 World Cup with better six-hitting show that Pakistan and Australia",
-    "desc": "Italy lost to the West Indies today in their final group stage game as they couldn't chase down the target of 166 runs. They featured in the T20 World Cup for the first time and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/italy-bow-out-of-t20-world-cup-with-better-six-hitting-show-that-pakistan-and-australia-2026-02-19-1030927",
-    "time": "2026-02-19T11:49:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunil Gavaskar predicts one surprising change in India's playing XI for T20 WC Super 8 clash vs South Africa",
-    "desc": "India defeated the Netherlands by 17 runs to end the group stage of the T20 World Cup 2026 on a high. They will now face South Africa in their opening Super 8 clash at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sunil-gavaskar-predicts-one-surprising-change-in-india-s-playing-xi-for-t20-wc-super-8-clash-vs-south-africa-2026-02-19-1030923",
-    "time": "2026-02-19T11:06:44.000Z"
   }
 ];

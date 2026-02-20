@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "১৮০ টাকা কেজি দর...! স্বীকৃতি পেল রাষ্ট্রপুঞ্জের, এই ধান চাষ করে মালামাল হওয়ার সুযোগ বাংলার চাষিদের",
+    "desc": "উত্তর ও দক্ষিণ দিনাজপুরের ঐতিহ্যবাহী তুলাইপাঞ্জি ধান এবার বিশ্বমঞ্চে সমাদৃত। হেরিটেজ স্বীকৃতি দিয়ে রাস্ত্রপুঞ্জ। বর্তমানে বাজারে তুলাইপাঞ্জি চালের দর প্রতি কেজি ১৮০ টাকা পর্যন্ত পৌঁছেছে, যা বাংলার কৃষকদের অর্থনৈতিকভাবে স্বাবলম্বী হওয়ার এক সুবর্ণ সুযোগ করে দিয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Agriculture-News-Tulaipanji-Rice-1-2026-02-f092cddadcaad801bcaae7e8e16f7c46-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/agriculture-news-profitable-paddy-cultivation-tulaipanji-rice-famers-may-get-huge-profit-l18-local18-2548666.html",
+    "time": "2026-02-20T03:31:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "বিশ্বের এই ৫ ক্রিকেটার যাঁরা বদলে নিয়েছেন নিজেদের নাম ! তাঁদের মধ্যে দু’জন ধর্ম পরিবর্তনও করেছিলেন",
+    "desc": "আপনি কি জানেন, ক্রিকেটের ইতিহাসে এমন অনেক বড় বড় ক্রিকেটাররা ছিলেন, যাঁরা কেরিয়ারের মাঝখানে বা কোনও বিশেষ সময়ে তাঁদের নাম পুরোপুরি বদলে ফেলেছেন? কেউ ধর্ম পরিবর্তনের কারণে, কেউ তাঁদের সাংস্কৃতিক পরিচয় বা ব্যক্তিগত পছন্দের জন্য এমনটা করেছেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/5-Cricketers-who-have-changed-their-names-2026-02-3e9d9ba832d39de32c6fda7ee44d2505-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/5-cricketers-who-changed-their-names-mohammad-yousuf-dilshan-josh-buttler-suraj-randiv-asghar-afghan-2-of-them-even-changed-their-religion-ss-2549042.html",
+    "time": "2026-02-20T03:16:25.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Vijay Deverakonda-Rashmika’s Wedding: বিয়ের সানাই বাজল! ২৩ থেকে ২৬ ফেব্রুয়ারি জমকালো অনুষ্ঠানের আয়োজন বিজয়-রশ্মিকার, থাকছেন শুধুমাত্র পরিবার-কাছের বন্ধুরা",
     "desc": "এই দম্পতির বয়সের ব্যবধান সাত বছরের, যা ভক্তরা প্রায়শই অনলাইনে আলোচনা করেন। তা সত্ত্বেও, তাঁদের বন্ধন ব্যাপকভাবে পালিত হয়েছে, সোশ্যাল মিডিয়ায় ফাঁস হওয়া বিয়ের আমন্ত্রণপত্র নিয়ে গুঞ্জন চলছে এবং সম্প্রতি জল্পনার মধ্যে রশ্মিকাকে মুখ লুকিয়ে থাকতে দেখা গেছে।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/national/imd-weather-update-12-13-14-15-and-16-february-alert-rainfall-thunderstorm-massive-weather-change-to-hit-7-states-temperature-will-rise-in-these-states-suddenly-know-latest-west-bengal-weather-sanj-2535997.html",
     "time": "2026-02-11T17:57:07.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "জামাত ভোটে জিতলে কি সত্যিই ইসলামি আইন চালু হবে বাংলাদেশে? কী বলছেন শফিকুর রহমান নিজে?",
-    "desc": "রায় যাই হোক না কেন, সেখানে গুরুত্বপূর্ণ ভূমিকা থাকবে আওয়ামী লিগের সমর্থকদের। কমবেশি ৩৫ থেকে ৪০ শতাংশ এই ভোটই এখন আসল ফ্যাক্টর। বিএনপি এবং জামাত - দু’পক্ষই তাদের কাছে টানার চেষ্টা করছে। একদিকে, বিএনপির বক্তব্য, মুক্তিযুদ্ধের আদর্শ, ইতিহাস একমাত্র তারাই বাঁচিয়ে রাখতে পারবে। শেখ হাসিনা খারাপ হলেও আওয়ামী লিগ ভালো। অন্যদিকে, জামাতের দাবি, হাসিনা দেশছাড়ার পর আওয়ামীর সমর্থকদের উপর যে হামলা হয়েছে, তাতে জামাতের কোনও হাত নেই। উলটে আওয়ামী-সমর্থক নিরাপত্তা দিতে সবদিক থেকে প্রস্তুত তারা। মুজিব-অনুগামীরা যার কথা বিশ্বাস করবেন, সম্ভবত তারাই বাংলাদেশের কুর্সিতে বসবে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/bang1-2026-02-f425d6e2b921f8258a91bace436e9f0c.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/international/bangladesh-election-after-sheikh-hasina-left-the-country-which-party-to-come-to-power-pbd-2535993.html",
-    "time": "2026-02-11T17:17:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বিরোধীরা অনাস্থা প্রস্তাব আনতেই বড় সিদ্ধান্ত ওম বিড়লার! দেখুন ভিডিও",
-    "desc": "বিরোধীদের আনা অনাস্থা প্রস্তাবের নিষ্পত্তি না হওয়া পর্যন্ত লোকসভার অধ্যক্ষের চেয়ারে বসবেন না ওম বিড়লা৷ লোকসভা সূত্রে এমনই খবর৷ ওই সূত্রের দাবি, ওম বিড়লা মনে করেন একবার যখন বিরোধীরা তাঁর চেয়ারের প্রতি অনাস্থা প্রকাশ করেছেন, তখন নৈতিকতার জায়গা থেকেই বিষয়টির দ্রুত নিষ্পত্তি হওয়া প্রয়োজন৷ নিজের এই সিদ্ধান্ত এখনও পর্যন্ত ওম বিড়লা অনড় রয়েছেন৷ এমন কি, শাসক শিবির অথবা বিরোধী পক্ষের নেতাদের অনুরোধেও তিনি সিদ্ধান্ত বদল করবেন না বলেই খবর৷ লোকসভার অধ্যক্ষ ওম বিড়লার বিরুদ্ধে শাসক দল বিজেপি-র প্রতি পক্ষপাতিত্বের অভিযোগ তুলে অনাস্থা প্রস্তাব এনেছে কংগ্রেস৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Om-Birla-2026-02-1e94867ab1f8ce67878589280715d0ac-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/om-birla-takes-big-decision-after-congress-moves-no-confidence-motion-against-him-in-lok-sabha-dmg-2535958.html",
-    "time": "2026-02-11T16:12:16.000Z"
   }
 ];

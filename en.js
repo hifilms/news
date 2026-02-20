@@ -1,12 +1,174 @@
 const newsData_en = [
   {
     "cat": "Sports",
-    "title": "'India haven't been challenged yet': Virender Sehwag fires Super 8 warning",
-    "desc": "Former India opener Virender Sehwag expressed concerns about India's bowling strength ahead of the Super 8s, despite their dominant group stage. He highlighted that the bowling unit hasn't been truly tested, citing the Netherlands match where runs were conceded. Mohit Sharma also questioned the death bowling combination, emphasizing the need for clarity against stronger opponents.",
-    "img": "https://static.toiimg.com/photo/msid-128567476,imgsize-199020.cms",
+    "title": "'With so many left-handers, finger spin is the problem': India coach sounds alarm before Super 8",
+    "desc": "Despite an unbeaten league stage, India faces challenges with catching and batting against spin, particularly off-spinners. The presence of multiple left-handers and Abhishek Sharma's form are key concerns. Teams are targeting this weakness, and India needs a clear game plan for upcoming Super 8 matches against spin-heavy opponents.",
+    "img": "https://static.toiimg.com/photo/msid-128591251,imgsize-1118280.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-havent-been-challenged-yet-virender-sehwag-fires-super-8-warning/articleshow/128567550.cms",
-    "time": "2026-02-20T01:30:00.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/with-so-many-left-handers-finger-spin-is-the-problem-india-coach-sounds-alarm-before-super-8/articleshow/128591055.cms",
+    "time": "2026-02-20T04:33:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India’s perfect record has been tempered by indifferent form",
+    "desc": "Though Kishan’s hitting has been a revelation, most of of his batting colleagues haven’t been as free-spirited; Abhishek has suffered the ignominy of falling for a duck thrice; the co-host’s scores are a tribute to the ability to accelerate in the second half even when the first period has been singularly demanding",
+    "img": "https://th-i.thgim.com/public/incoming/jdjj65/article70654601.ece/alternates/LANDSCAPE_1200/IMG_KISHAN_2_2_1_EJFK2A6V.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/indias-perfect-record-has-been-tempered-by-indifferent-form/article70654604.ece",
+    "time": "2026-02-20T04:30:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bishnoi gang asks for Rs 10 CRORE",
+    "desc": "Bollywood heartthrob Ranveer Singh is grappling with a serious threat after an audacious Rs 10 crore extortion message reached him via WhatsApp. The voice note, purportedly sent by Harry Boxer—an individual tied to the infamous Lawrence Bishnoi gang—has prompted the Mumbai Police to boost the actor's protection. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128590772,imgsize-62330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-extortion-threat-bishnoi-gang-asks-for-rs-10-crore-from-dhurandhar-actor-voice-note-belongs-to-us-number/articleshow/128590772.cms",
+    "time": "2026-02-20T04:20:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Gram panchayat member caught taking ₹1.7 lakh bribe in Thane district",
+    "desc": "According to the ACB, the complainant had constructed a three-story building after securing all necessary permissions. He applied to the gram panchayat in October 2025 for the assessment and levy of property and water taxes for the building",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/gram-panchayat-member-caught-taking-17-lakh-bribe-in-thane-district/article70654684.ece",
+    "time": "2026-02-20T04:16:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Last Thing He Told Me’ season 2 release time and schedule",
+    "desc": "Jennifer Garner's 'The Last Thing He Told Me' returns for Season 2 on February 20, picking up five years after Owen's disappearance and his subsequent return. The new season, airing on Apple TV+, will delve into Owen's past as a witness against a crime family and explore the future for him and his daughter Bailey.",
+    "img": "https://static.toiimg.com/photo/msid-128590730,imgsize-816672.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-last-thing-he-told-me-season-2-details-on-release-time-episode-schedule-and-more/articleshow/128590730.cms",
+    "time": "2026-02-20T04:16:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Great son of India': UK deputy PM David Lammy, Rishi Sunak trade stories of their Indian heritage",
+    "desc": "UK Deputy Prime Minister David Lammy lauded former PM Rishi Sunak as a \"great son of India\" during a New Delhi event, also highlighting his own Indian heritage. Lammy emphasized their ability to collaborate across political divides, particularly on prostate cancer initiatives.",
+    "img": "https://static.toiimg.com/photo/msid-128590753,imgsize-826644.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/great-son-of-india-uk-deputy-pm-david-lammy-rishi-sunak-trade-stories-of-their-indian-heritage/articleshow/128590542.cms",
+    "time": "2026-02-20T04:14:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Pitt’season 2 episode 7 release date",
+    "desc": "Fans eagerly await The Pitt Season 2 Episode 7. It airs February 19, 2026, on Max. The episode promises high-stakes medical action. Viewers will see patient crises and staff under pressure. Debbie's recovery and Roxie's cancer battle are key storylines. The real-time format maintains tension. International audiences can also watch the episode.",
+    "img": "https://static.toiimg.com/photo/msid-128590698,imgsize-987465.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-pitt-season-2-read-about-episode-7-release-date-global-streaming-times-and-what-to-expect/articleshow/128588860.cms",
+    "time": "2026-02-20T04:13:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Grey's Anatomy' fans pay tribute to Eric Dane aka McSteamy",
+    "desc": "Beloved actor Eric Dane, known as 'McSteamy' from 'Grey's Anatomy', has passed away at 53. His family confirmed his death, noting his courageous battle with ALS and his dedication to raising awareness. Fans are mourning the loss of the charismatic Dr. Mark Sloan, whose impact on the show and its viewers was profound.",
+    "img": "https://static.toiimg.com/photo/msid-128589340,imgsize-22376.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/eric-dane-passes-away-at-53-greys-anatomy-fans-bid-mcsteamy-aka-mark-sloan-a-teary-goodbye/articleshow/128588842.cms",
+    "time": "2026-02-20T04:00:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Out of his limits': Shadab reprimanded by PCB over swipe at Ex-Pakistan legends",
+    "desc": "Pakistan Cricket Board has reportedly cautioned all-rounder Shadab Khan over his sharp remarks towards former players. Following a match-winning performance, Shadab questioned the achievements of ex-cricketers, prompting a stern warning from team management. The PCB emphasized respect for all former greats, including his father-in-law Saqlain Mushtaq, and has directed players to maintain decorum in public statements.",
+    "img": "https://static.toiimg.com/photo/msid-128589755,imgsize-110760.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/out-of-his-limits-shadab-khan-reprimanded-by-pcb-over-swipe-at-ex-pakistan-legends/articleshow/128589488.cms",
+    "time": "2026-02-20T03:46:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What is the US-led tech bloc 'Pax Silica' India may join? Trade agreement negotiations progress",
+    "desc": "India is poised to formally join the US-led Pax Silica strategic alliance, a move expected to bolster its semiconductor ambitions and strategic location. This initiative, launched in December 2025, aims to build secure and resilient supply chains for critical minerals and AI, fostering mutual economic security and prosperity among trusted partners.",
+    "img": "https://static.toiimg.com/photo/msid-128588534,imgsize-962595.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/what-is-the-us-led-tech-bloc-pax-silica-india-may-join-trade-agreement-negotiations-progress/articleshow/128588454.cms",
+    "time": "2026-02-20T03:26:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ben Affleck and Jennifer Garner opens up about respect and friendship after separation",
+    "desc": "Years after their 2018 divorce, Ben Affleck and Jennifer Garner continue to demonstrate exemplary co-parenting, prioritizing their three children. Garner recently expressed peace and partnership in their dynamic, while Affleck consistently praises her as a wonderful co-parent and friend. The former couple frequently appears together for family moments and holiday traditions, maintaining a supportive relationship.",
+    "img": "https://static.toiimg.com/photo/msid-128588667,imgsize-669838.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ben-affleck-and-jennifer-garner-show-how-respect-friendship-and-family-first-values-redefine-life-after-divorce/articleshow/128588674.cms",
+    "time": "2026-02-20T03:14:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Angelina Jolie and Brad Pitt looking to end legal dispute",
+    "desc": "Hollywood ex-couple Angelina Jolie and Brad Pitt are reportedly seeking to end their decade-long legal battle. After years of disputes, particularly concerning their shared vineyard, Miraval, both stars are allegedly ready to call a truce. While court proceedings continue, sources suggest a desire for compromise to conclude the protracted legal saga within the next year.",
+    "img": "https://static.toiimg.com/photo/msid-128588070,imgsize-73714.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/angelina-jolie-and-brad-pitts-legal-battle-to-calm-down-after-years-couple-allegedly-looking-to-call-truce-report/articleshow/128588070.cms",
+    "time": "2026-02-20T03:00:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Eric Dane passes away at 53 after battle with ALS",
+    "desc": "Beloved actor Eric Dane, celebrated for his roles in 'Grey's Anatomy' and 'Euphoria', has passed away at 53. Dane bravely battled ALS, becoming a vocal advocate for awareness and research. He spent his final moments with his wife and daughters, leaving behind a legacy of passion and gratitude for his fans. His fight against the disease inspired many.",
+    "img": "https://static.toiimg.com/photo/msid-128587736,imgsize-20572.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/eric-dane-star-of-greys-anatomy-and-euphoria-passes-away-at-53/articleshow/128587550.cms",
+    "time": "2026-02-20T02:45:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Play like Vaibhav Sooryavanshi': Ashwin's bold take as India march into Super 8",
+    "desc": "India has advanced to the Super 8s of the T20 World Cup, showcasing strong collective effort despite not always being at their fluent best. Ravichandran Ashwin highlighted the team's batting depth and the crucial bowling spells from Varun Chakaravarthy and Jasprit Bumrah. The article also notes other teams qualifying for the Super 8s and the 2028 World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-128587368,imgsize-130990.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/play-like-vaibhav-sooryavanshi-r-ashwins-bold-take-as-india-march-into-super-8/articleshow/128587119.cms",
+    "time": "2026-02-20T02:36:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hailey Bieber opens up about son’s first word",
+    "desc": "Hailey Bieber shared adorable insights into her 16-month-old son Jack Blues Bieber's world. The toddler's current obsession is 'basketball,' a word he uses constantly. He's also mastered saying 'please' and has started singing his dad Justin Bieber's hit song 'Baby.' Jack's boundless energy keeps his famous parents entertained and on their toes.",
+    "img": "https://static.toiimg.com/photo/msid-128587371,imgsize-1370723.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hailey-bieber-opens-up-about-her-sons-language-milestones-and-playful-energy-reveals-his-sweet-bond-with-dad-justin-bieber/articleshow/128587387.cms",
+    "time": "2026-02-20T02:34:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Africa's Dewald Brevis-shaped 'trump card' peaks before India clash",
+    "desc": "Dewald Brevis’ run of form seemed adrift after a prolonged lean patch, but the 22-year-old flipped the script when it mattered most. Match-defining knocks, including an unbeaten SA20 Season 4 final century, showcased a calmer, more complete batter — transforming him from struggling prodigy to South Africa’s \"trump card\" heading into the T20 World Cup Super Eight - starting with India.",
+    "img": "https://static.toiimg.com/photo/msid-128561186,imgsize-107412.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/dewald-brevis-journey-from-struggling-for-runs-to-sa20s-second-highest-scorer-and-now-bracing-for-india-challenge-in-super-eight/articleshow/128560564.cms",
+    "time": "2026-02-20T02:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "An expensive fragrance",
+    "desc": "India was the world’s leading producer of sandalwood until the last century, but it was displaced by Australia. What led to this fall, and what does the recent Union Budget’s offering to collaborate with States to revive the sandalwood industry in India mean for farmers? Chetan B.C. explores.",
+    "img": "https://th-i.thgim.com/public/incoming/orobjj/article70651209.ece/alternates/LANDSCAPE_1200/9911_19_2_2026_13_29_18_3_SANDALWOOD_ARAKALGUD_3.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/spotlight-sandalwood-an-expensive-fragrance/article70646679.ece",
+    "time": "2026-02-20T02:28:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A tribal hamlet’s tryst with AI-assisted tools",
+    "desc": "In the remote hills of Kumram Bheem Asifabad district, Limbuguda — home to less than 40 Kolam families — is witnessing a quiet transformation. A state-of-the-art Multipurpose Centre, established under the PM-JANMAN scheme, is leveraging AI-assisted learning tools to improve education, alongside healthcare and nutrition services, reshaping aspirations in one of Telangana’s most marginalised PVTG habitations",
+    "img": "https://th-i.thgim.com/public/incoming/damn8z/article70653233.ece/alternates/LANDSCAPE_1200/2248_19_2_2026_20_7_5_1_WHATSAPPIMAGE2026_02_19AT51911PM.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/a-tribal-hamlets-tryst-with-ai-assisted-tools/article70652058.ece",
+    "time": "2026-02-20T02:26:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hailey Bieber on how stroke and heart surgery changed her forever",
+    "desc": "Hailey Bieber's year of health challenges, marked by a mini-stroke and heart surgery in 2022, sparked a transformative shift in her life. This period of introspection led her to launch Rhode, her successful skincare brand.",
+    "img": "https://static.toiimg.com/photo/msid-128586989,imgsize-958066.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/it-made-me-extra-hyper-hailey-bieber-shares-how-stroke-and-heart-surgery-changed-her-forever/articleshow/128586989.cms",
+    "time": "2026-02-20T02:23:55.000Z"
   },
   {
     "cat": "World",
@@ -15,7 +177,88 @@ const newsData_en = [
     "img": "https://th-i.thgim.com/public/incoming/nj9ivm/article70654554.ece/alternates/LANDSCAPE_1200/2026-01-15T220020Z_518970044_RC2R1JAD9QSF_RTRMADP_3_USA-VENEZUELA-RODRIGUEZ.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/venezuela-approves-amnesty-bill-that-could-see-release-of-hundreds-detained-for-political-reasons/article70654549.ece",
-    "time": "2026-02-20T01:20:07.000Z"
+    "time": "2026-02-20T02:22:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Drishyam 3' plot OUT: Georgekutty faces inner threats",
+    "desc": "Anticipation for 'Drishyam 3' is soaring as a leaked plot summary reveals Georgekutty now battles internal demons alongside external threats. The thriller delves into the psychological toll of his secret, with new forces closing in. Fans speculate about family revelations and the fate of a crucial memory card, promising an intense installment.",
+    "img": "https://static.toiimg.com/photo/msid-128586952,imgsize-88372.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/drishyam-3-plot-leak-mohanlals-georgekutty-faces-inner-threats-fans-decode-cryptic-story-clues/articleshow/128586701.cms",
+    "time": "2026-02-20T02:20:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alia Bhatt jets out to London for BAFTAs 2026",
+    "desc": "Bollywood sensation Alia Bhatt has jetted off to the UK for the prestigious BAFTAs 2026, where she will present an award alongside Hollywood heavyweights like Cillian Murphy and Olivia Cooke. This marks her debut at the esteemed British awards ceremony, adding another international milestone to her illustrious career. The event promises to be a star-studded affair, celebrating cinematic excellence.",
+    "img": "https://static.toiimg.com/photo/msid-128586107,imgsize-13018.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-spotted-at-mumbai-airport-as-she-heads-to-baftas-2026-actress-to-present-award-with-cillian-murphy-olivia-cooke/articleshow/128586074.cms",
+    "time": "2026-02-20T02:15:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Keith Urban is 'raging’ over Nicole Kidman’s love life rumors",
+    "desc": "In a fresh twist on their post-split narrative, country artist Keith Urban is said to be livid about rumors connecting his former partner, Nicole Kidman, with entrepreneur Paul Salem. While insiders claim Kidman is prioritizing her family and upcoming projects over romance, Urban is reportedly grappling with the timing, feeling that he's still reeling from their recent separation.",
+    "img": "https://static.toiimg.com/photo/msid-128586434,imgsize-60970.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/keith-urban-not-happy-with-nicole-kidmans-possible-new-love-life-report/articleshow/128586434.cms",
+    "time": "2026-02-20T02:04:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India attends Donald Trump's inaugural Gaza Peace Board meeting as observer",
+    "desc": "India attended the inaugural meeting of US President Donald Trump’s Board of Peace on Gaza as an observer. The US committed $10 billion to the board, which aims for redevelopment and lasting peace in Gaza, though India has not joined as a member.",
+    "img": "https://static.toiimg.com/photo/msid-128587275,imgsize-900398.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-attends-donald-trumps-inaugural-gaza-peace-board-meeting-as-observer/articleshow/128586409.cms",
+    "time": "2026-02-20T02:03:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Everybody loves an underdog story’ – The T20 World Cup is all about Zimbabwe",
+    "desc": "Zimbabwe had already defeated two previous champions, Australia and Sri Lanka, in the group stage. In the Super Eight, they will lock horns against two-time champions West Indies and India, and South Africa, the runners-up of the previous edition. Zimbabwe captain Sikandar Raza calls his team 'underdogs', but by no means are they pushovers. They are gaining momentum and have a captain who knows a thing or two about chasing against the odds.",
+    "img": "https://static.toiimg.com/photo/msid-128572060,imgsize-156442.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/everybody-loves-an-underdog-story-the-2026-t20-world-cup-is-all-about-zimbabwe/articleshow/128572039.cms",
+    "time": "2026-02-20T02:00:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jana Nayagan': CBFC revising committee yet to begin review",
+    "desc": "Thalapathy Vijay's 'Jana Nayagan' faces further release delays as the CBFC revising committee has yet to begin its review. This setback rules out a February 2026 release, with even a March clearance unlikely to guarantee an immediate theatrical rollout. Makers await official word, impacting future release plans.",
+    "img": "https://static.toiimg.com/photo/msid-128586052,imgsize-46814.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-censor-delay-cbfc-revising-committee-yet-to-begin-review-for-vijay-film-reports/articleshow/128586052.cms",
+    "time": "2026-02-20T01:53:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jim Curtis on navigating relationship with Jennifer Aniston",
+    "desc": "fostering connections and prioritizing repair. He detailed how they navigate disagreements, emphasizing mutual self-work and pre-discussed strategies for handling flare-ups. The couple agrees on personal growth and establishing ground rules for effective communication and conflict resolution.",
+    "img": "https://static.toiimg.com/photo/msid-128585978,imgsize-359268.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jim-curtis-shares-how-he-and-jennifer-anniston-navigate-relationship-conflict-it-is-important-to-set-ground-rules/articleshow/128585986.cms",
+    "time": "2026-02-20T01:46:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jason Bateman responds to Charli XCX backlash",
+    "desc": "Jason Bateman faced online criticism for questioning Charli XCX about having children on his podcast. Despite her clear statement of not wanting kids, Bateman suggested her views might change. The pop star, married since July 2025, found the topic sensitive. Bateman later explained his question as a natural follow-up to their discussion about her childhood.",
+    "img": "https://static.toiimg.com/photo/msid-128585871,imgsize-401798.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jason-bateman-finally-addresses-backlash-after-podcast-interview-with-charli-xcx-dont-have-much-else-to-say/articleshow/128585885.cms",
+    "time": "2026-02-20T01:42:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'India haven't been challenged yet': Virender Sehwag fires Super 8 warning",
+    "desc": "Former India opener Virender Sehwag expressed concerns about India's bowling strength ahead of the Super 8s, despite their dominant group stage. He highlighted that the bowling unit hasn't been truly tested, citing the Netherlands match where runs were conceded. Mohit Sharma also questioned the death bowling combination, emphasizing the need for clarity against stronger opponents.",
+    "img": "https://static.toiimg.com/photo/msid-128567476,imgsize-199020.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-havent-been-challenged-yet-virender-sehwag-fires-super-8-warning/articleshow/128567550.cms",
+    "time": "2026-02-20T01:30:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -54,15 +297,6 @@ const newsData_en = [
     "time": "2026-02-20T00:53:52.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Ashakal Aayiram' BO day 14: Rs 6.26 crores India Net",
-    "desc": "'Ashakal Aayiram' remains a crowd-pleaser as it celebrates its fourteenth day at the box office, raking in an impressive Rs 17 lakhs that elevates its domestic earnings to Rs 6.26 crore. While weekday box office performance dipped, the evening and night crowds have breathed new life into ticket sales.",
-    "img": "https://static.toiimg.com/photo/msid-128584161,imgsize-49442.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/ashakal-aayiram-box-office-collections-day-14-kalidas-jayaram-film-crosses-rs-6-26-crores-india-net/articleshow/128584161.cms",
-    "time": "2026-02-20T00:41:35.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Accenture CEO",
     "desc": "Accenture CEO Julie Sweet highlights AI's shift towards driving business growth, with LLMs emerging as new commerce channels. She emphasizes that while AI adoption presents challenges, Accenture's expertise is crucial for clients. Sweet also notes the evolving role of Indian employees in the company's global AI strategy and advises universities to integrate AI fluency into curricula.",
@@ -70,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/companies-see-ai-as-a-growth-engine-accenture-ceo/articleshow/128584224.cms",
     "time": "2026-02-20T00:41:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "It's toys vs technology in 'Toy Story 5' trailer",
-    "desc": "technology! A new tablet named Lilypad threatens playtime with its disruptive ideas for Bonnie. The trailer hints at a reunion for Woody and Buzz, promising an exciting blend of familiar faces and new characters in this animated adventure hitting theaters June 19, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-128583361,imgsize-47580.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/toy-story-5woody-and-buzz-lightyear-face-their-latest-threat-in-a-tablet-device-named-lilypad/articleshow/128582842.cms",
-    "time": "2026-02-20T00:37:28.000Z"
   },
   {
     "cat": "Sports",
@@ -99,15 +324,6 @@ const newsData_en = [
     "time": "2026-02-20T00:29:23.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'With Love' BO day 14: Film hits Rs 23.11 crores",
-    "desc": "Anaswara Rajan's film 'With Love' is enjoying a successful second week at the box office, nearing Rs 23.11 crore in India net. Despite typical weekday dips, the movie maintains momentum, with Day 14 collections holding steady. Audiences are praising the film's engaging narrative and the director's vision for capturing a nostalgic first-love feel.",
-    "img": "https://static.toiimg.com/photo/msid-128583821,imgsize-41628.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/with-love-box-office-collections-day-14-anaswara-rajan-film-hits-rs-23-11-crores/articleshow/128583821.cms",
-    "time": "2026-02-20T00:27:10.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Chandra",
     "desc": "Tata Sons chairman N Chandrasekaran declared Artificial Intelligence as the technology sector's \"biggest opportunity.\" He highlighted that IT's core value stems from its deep understanding of enterprise businesses and its capability to integrate technology effectively within complex operational environments.",
@@ -124,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/edu-advances-hold-up-well-despite-visa-ai-headwinds/articleshow/128583490.cms",
     "time": "2026-02-20T00:11:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Couple Friendly' BO day 6: Film crosses Rs 4 crores",
-    "desc": "'Couple Friendly' has garnered over Rs 4.86 crore in its opening week, showing steady performance despite slight weekday dips. The film, starring Manasa Varanasi and Santosh Sobhan, transitions from a light romance to an emotional drama in its second half, exploring themes of love and illness. While initially charming, the narrative shifts to a more predictable, melodramatic tone.",
-    "img": "https://static.toiimg.com/photo/msid-128583428,imgsize-24958.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/couple-friendly-box-office-collections-day-6-manasa-varanasi-film-crosses-rs-4-crores/articleshow/128583428.cms",
-    "time": "2026-02-20T00:11:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -225,15 +432,6 @@ const newsData_en = [
     "time": "2026-02-19T22:58:27.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Peaky Blinders' trailer: Cillian Murphy returns as Tommy Shelby",
-    "desc": "The Immortal Man'. The trailer reveals Tommy's comeback to a Birmingham now led by his son, Duke. Amidst World War II's chaos, Tommy must reclaim his empire from those who don't know him, as a fascist threat looms. The film promises a return to the violent world fans loved.",
-    "img": "https://static.toiimg.com/photo/msid-128579811,imgsize-12950.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/peaky-blinders-the-immortal-man-trailer-cillian-murphy-returns-as-tommy-shelby-to-reclaim-his-kingdom-from-son-played-by-barry-keoghan/articleshow/128578074.cms",
-    "time": "2026-02-19T22:56:56.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "A temporary relief from bonded labour",
     "desc": "A landmark law formulated to end bonded labour in India marks its 50th year of passing. Satyasundar Barik examines the Act’s relevance and effectiveness through the voices of labourers in Odisha who slipped back into bondage even after being officially rescued",
@@ -252,24 +450,6 @@ const newsData_en = [
     "time": "2026-02-19T22:12:23.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Police",
-    "desc": "Actor Shia LaBeouf faces battery charges in New Orleans after an alleged Mardi Gras incident. Police reports detail him becoming aggressive, striking multiple people, and using homophobic slurs. One victim, a local entertainer, believes his appearance motivated the attack. LaBeouf was later released on bond, with videos showing him dancing post-release.",
-    "img": "https://static.toiimg.com/photo/msid-128578216,imgsize-68916.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/shia-labeouf-was-shouting-homophobic-slurs-while-assaulting-new-orleans-bar-patrons-police/articleshow/128577183.cms",
-    "time": "2026-02-19T21:50:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Lekha on relationship with Imran being labelled ‘Love Jihad’",
-    "desc": "Actress and artist Lekha Washington has addressed online trolling around her relationship with Imran Khan, saying attempts to weaponise her images to “fuel hate and division” go against everything she believes in. Beyond trolling, Lekha pointed to a deeper issue — being defined primarily by her association with a famous actor despite a long and independent career.",
-    "img": "https://static.toiimg.com/photo/msid-128578087,imgsize-55920.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lekha-washington-on-interfaith-relationship-with-imran-khan-being-labelled-love-jihad-my-family-is-open-so-is-my-partners/articleshow/128577960.cms",
-    "time": "2026-02-19T21:46:40.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Skipper Harry Manenti warns Italy’s ‘trajectory’ may stall without opportunities",
     "desc": "Italy's T20 World Cup debut was over with West Indies on February 19, securing a facile 42-run win in their last Group C fixture to cruise to Super Eights with four wins out of four",
@@ -277,69 +457,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-skipper-harry-manenti-warns-italys-trajectory-may-stall-without-opportunities/article70653673.ece",
     "time": "2026-02-19T21:42:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "DMDK, DMK forge first-ever electoral pact",
-    "desc": "DMDK has officially joined the DMK alliance, marking a significant political shift after years of independent operation. Premallatha Vijayakant announced the decision, citing the wishes of party cadres and historical ties. The alliance aims to strengthen both parties for the state's development and growth.",
-    "img": "https://static.toiimg.com/photo/msid-128577896,imgsize-13322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dmdk-dmk-forge-first-ever-electoral-pact/articleshow/128577406.cms",
-    "time": "2026-02-19T21:39:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "First list of presenters OUT",
-    "desc": "Last year's Oscar winners, including Adrien Brody and Zoe Saldana, are set to present at the upcoming 98th Academy Awards. Hosted by Conan O'Brien, the ceremony will also feature a star-studded lineup of nominees for this year's acting categories. 'Sinners' leads the nominations with a record-breaking 16 nods, promising a night of intense competition and celebration.",
-    "img": "https://static.toiimg.com/photo/msid-128577415,imgsize-131366.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-adrien-brody-mikey-madison-kieran-culkin-and-zoe-saldana-to-present-academy-awards-in-acting-categories/articleshow/128577190.cms",
-    "time": "2026-02-19T21:26:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "1st time after Manipur violence, CM gets Kukis and Meiteis on 1 platform",
-    "desc": "Manipur's Chief Minister virtually addressed displaced Meitei and Kuki-Zo families, offering cash relief and urging trust rebuilding. This marks the first joint outreach since ethnic violence erupted. While resettlement efforts are underway, mistrust persists, with displaced individuals sharing concerns about jobs, education, and healthcare access. The CM pledged support for students and security for patients.",
-    "img": "https://static.toiimg.com/photo/msid-128577288,imgsize-168094.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/1st-time-after-manipur-violence-cm-gets-kukis-and-meiteis-on-1-platform/articleshow/128577293.cms",
-    "time": "2026-02-19T21:21:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Thyroid, infection drugs get fresh safety warnings after national review",
-    "desc": "Two widely used medications, doxycycline and carbimazole, are set to receive stronger safety warnings. Regulators have identified potential mental health side effects for doxycycline and a rare but serious blood disorder linked to carbimazole. This proactive step aims to enhance patient safety by ensuring clearer information for both doctors and patients regarding these important, albeit uncommon, adverse reactions.",
-    "img": "https://static.toiimg.com/photo/msid-128577130,imgsize-12810.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/thyroid-infection-drugs-get-fresh-safety-warnings-after-national-review/articleshow/128577149.cms",
-    "time": "2026-02-19T21:14:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dhurandhar wraps up historic run as one of India’s biggest hits",
-    "desc": "Seventy-five days after its December 5, 2025 release, Dhurandhar continues to dominate the conversation — and the box office. The Ranveer Singh-led action drama completed a historic theatrical run on February 17, underlining its rare staying power in a post-pandemic market known for sharp weekend spikes and swift drop-offs.",
-    "img": "https://static.toiimg.com/photo/msid-128575799,imgsize-210648.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singhs-dhurandhar-wraps-up-historic-run-as-one-of-indias-biggest-hits-shatters-major-box-office-records-in-75-days/articleshow/128575689.cms",
-    "time": "2026-02-19T20:18:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shashi Tharoor calls The Kerala Story ‘hate-mongering’",
-    "desc": "Senior Congress MP Shashi Tharoor on Thursday criticised the makers of The Kerala Story 2 – Goes Beyond, alleging that the sequel — like its predecessor — promotes divisive narratives without factual basis and risks spreading hatred in society. Responding to the controversy, producer Vipul Amrutlal Shah defended the sequel and questioned why films are blamed for disturbing harmony when real-life cases do not trigger similar outrage.",
-    "img": "https://static.toiimg.com/photo/msid-128573620,imgsize-43962.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shashi-tharoor-calls-the-kerala-story-a-hate-mongering-film-producer-vipul-amrutlal-shah-says-ironic-to-blame-cinema-for-social-unrest/articleshow/128573489.cms",
-    "time": "2026-02-19T19:03:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika–Vijay wedding: Rakshit Shetty's friend Pramod reacts",
-    "desc": "As reports suggest that Rashmika Mandanna and Vijay Deverakonda are set to tie the knot on February 26, 2026, the actress’ former co-star Pramod Shetty has reacted to the wedding buzz, revealing whether he has received an invitation.",
-    "img": "https://static.toiimg.com/photo/msid-128572659,imgsize-60366.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandannavijay-deverakonda-wedding-rakshit-shettys-friend-pramod-shetty-says-we-know-she-wont-invite-us/articleshow/128572593.cms",
-    "time": "2026-02-19T18:35:42.000Z"
   },
   {
     "cat": "Politics",
@@ -378,15 +495,6 @@ const newsData_en = [
     "time": "2026-02-19T17:35:21.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Salman, family upset after hospital shares update on Salim Khan",
-    "desc": "The Khan family has expressed strong displeasure after a medical update about Salim Khan was shared publicly. Reports indicate that Salman Khan and his family were unhappy with the hospital’s decision to comment on the veteran screenwriter’s condition, and have since instructed authorities to maintain complete confidentiality.",
-    "img": "https://static.toiimg.com/photo/msid-128570149,imgsize-62958.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-and-family-displeased-after-hospital-shares-update-on-salim-khans-health-report/articleshow/128569968.cms",
-    "time": "2026-02-19T17:30:30.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "A tall leader of Tamil Nadu belonging to what was once known Depressed Classes",
     "desc": "J. Sivashanmugam Pillai was the first Scheduled Caste member to become the Tamil Nadu Assembly Speaker in 1946. He was known for impartiality, with former CM Kamaraj saying, ‘Though a Congressman, he held the scales even.’ He demitted the office in 1955 to become Member of the UPSC and was elected to the Rajya Sabha in 1962",
@@ -394,15 +502,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/a-tall-leader-of-tamil-nadu-belonging-to-what-was-once-known-depressed-classes/article70651175.ece",
     "time": "2026-02-19T17:30:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "AI can't be regulated by single instrument: Swiss president Guy Parmelin",
-    "desc": "Swiss President Guy Parmelin advocates for a multi-faceted AI governance framework, emphasizing societal norms alongside legal and technical standards. He also discusses Switzerland's commitment to a just peace in Ukraine through the OSCE and highlights the importance of free trade agreements like TEPA in challenging global trade times.",
-    "img": "https://static.toiimg.com/photo/msid-128570089,imgsize-778393.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/ai-cant-be-regulated-by-single-instrument-swiss-president/articleshow/128570032.cms",
-    "time": "2026-02-19T17:28:45.000Z"
   },
   {
     "cat": "Politics",
@@ -414,15 +513,6 @@ const newsData_en = [
     "time": "2026-02-19T16:54:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Veteran filmmaker M. M. Baig found dead at home",
-    "desc": "Veteran filmmaker M. M. Baig, known for his work in Hindi cinema and as the father of former child actor Baby Guddu, was found dead at his residence earlier this week. He was in his 70s. The news was confirmed by his publicist, Hanif Zaveri.",
-    "img": "https://static.toiimg.com/photo/msid-128566537,imgsize-14110.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/veteran-filmmaker-m-m-baig-found-dead-at-home-neighbours-alerted-police-after-foul-smell-says-publicist-hanif-zaveri/articleshow/128566456.cms",
-    "time": "2026-02-19T16:00:23.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'We keep our sights forward': Zimbabwe send warning after taking down SL and Aus",
     "desc": "Zimbabwe captain Sikandar Raza believes their strong group stage, including wins over Australia and Sri Lanka, has earned them respect heading into the Super Eights. Despite facing formidable opponents like India and South Africa, Raza remains unfazed, emphasizing a game-by-game approach and the team's confidence in their preparation and clear roles.",
@@ -430,24 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-keep-our-sights-forward-giant-killer-zimbabwe-send-warning-after-taking-down-sri-lanka-and-australia/articleshow/128566071.cms",
     "time": "2026-02-19T15:56:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Top 5 South stories of the day",
-    "desc": "South cinema buzzed with major updates as Rajinikanth and Kamal Haasan's reunion was confirmed after nearly 40 years. Vijay Sethupathi's role in 'Arasan' was clarified amidst exit rumours, while 'Toxic' confirmed its March 2026 release. Mahesh Babu hailed 'Varanasi' as a dream project, and Honey Rose received legal relief from the Kerala High Court.",
-    "img": "https://static.toiimg.com/photo/msid-128565384,imgsize-39892.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanthkamal-haasan-reunion-toxic-release-date-confirmed-vijay-sethupathis-arasan-role-clarified-top-5-south-stories-of-the-day/articleshow/128565384.cms",
-    "time": "2026-02-19T15:31:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Delhi HC questions Jubin Nautiyal over personality rights",
-    "desc": "Singer Jubin Nautiyal on Thursday approached the Delhi High Court seeking protection of his personality rights, alleging unauthorised use of his name and likeness. However, the court questioned why the Uttarakhand-based singer did not move a local high court instead.",
-    "img": "https://static.toiimg.com/photo/msid-128565338,imgsize-64486.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jubin-nautiyal-moves-delhi-hc-to-protect-personality-rights-court-asks-why-uttarakhand-court-was-not-approached-no-google-there/articleshow/128565179.cms",
-    "time": "2026-02-19T15:28:35.000Z"
   },
   {
     "cat": "World",
@@ -540,15 +612,6 @@ const newsData_en = [
     "time": "2026-02-19T10:17:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Sandalwood: An expensive fragrance",
-    "desc": "India was the world’s leading producer of sandalwood until the last century, but it was displaced by Australia. What led to this fall, and what does the recent Union Budget’s offering to collaborate with States to revive the sandalwood industry in India mean for farmers? Chetan B.C. and Sathish G.T. explore",
-    "img": "https://th-i.thgim.com/public/incoming/orobjj/article70651209.ece/alternates/LANDSCAPE_1200/9911_19_2_2026_13_29_18_3_SANDALWOOD_ARAKALGUD_3.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/spotlight-sandalwood-an-expensive-fragrance/article70646679.ece",
-    "time": "2026-02-19T10:03:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'International cricket will expose you': Amir tears into Abhishek Sharma",
     "desc": "Pakistan pacer Mohammad Amir has issued a stark warning to India's Abhishek Sharma following his three consecutive ducks in the T20 World Cup 2026. Amir drew parallels to Saim Ayub's early struggles, emphasizing how quality bowlers exploit technical flaws.",
@@ -559,30 +622,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Hope’s 75 powers Windies to 42-run win over Italy, top Group C",
-    "desc": "West Indies wrapped up Group C with a 42-run win over Italy, led by Shai Hope’s 75 off 46 and a strong bowling effort. They posted 165/6 despite early losses, then bowled Italy out for 123, with Shamar Joseph (4/30), Matthew Forde (3/19) and Gudakesh Motie (2/24) starring. West Indies topped the group unbeaten and carried momentum into the Super Eights.",
-    "img": "https://static.toiimg.com/photo/msid-128551181,imgsize-74760.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/shai-hopes-75-powers-west-indies-to-42-run-win-over-italy-top-t20-world-cup-group-c/articleshow/128551069.cms",
-    "time": "2026-02-19T09:49:57.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Shivam Dube emerges as India's silent power-hitter in T20 World Cup",
     "desc": "Shivam Dube emerged as India's 'silent' yet explosive hero in the T20 World Cup, smashing a match-winning 66 off 31 balls against the Netherlands. His powerful hitting against spinners and improved game awareness, especially against short balls, have made him a vital power-hitter. Dube's journey from struggling for selection to a key player highlights his remarkable transformation.",
     "img": "https://static.toiimg.com/photo/msid-128550179,imgsize-99816.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/shivam-dube-emerges-as-indias-silent-power-hitter-in-t20-world-cup/articleshow/128550191.cms",
     "time": "2026-02-19T09:38:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet becomes only women cricketer to achieve this feat",
-    "desc": "Harmanpreet Kaur has become the most capped player in women's international cricket, reaching her 356th appearance against Australia. This milestone surpasses Suzie Bates, with Ellyse Perry, Mithali Raj, and Charlotte Edwards also featuring among the top players. Kaur's extensive career includes Tests, ODIs, and T20Is, contributing significantly to her team's success.",
-    "img": "https://static.toiimg.com/photo/msid-128550046,imgsize-40630.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/not-mithali-raj-or-ellyse-perry-harmanpreet-kaur-becomes-only-women-cricketer-to-achieve-this-historic-feat/articleshow/128549936.cms",
-    "time": "2026-02-19T09:26:12.000Z"
   },
   {
     "cat": "Sports",
@@ -613,24 +658,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "J&amp;K dare to dream under pressure – A big leap long in the making",
-    "desc": "Jammu and Kashmir's remarkable journey to the Ranji Trophy final, marked by self-belief and meticulous planning, has transformed them into title contenders. Coach Ajay Sharma's patient approach and the development of a core group of talented young players, supported by improved infrastructure and pre-season exposure, have been pivotal to this success.",
-    "img": "https://static.toiimg.com/photo/msid-128542699,imgsize-240198.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ranji-trophy-jammu-and-kashmir-dare-to-dream-under-pressure-a-big-leap-long-in-the-making/articleshow/128542565.cms",
-    "time": "2026-02-19T06:19:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Baby AB’ Brevis unfazed by Varun Chakravarthy threat",
-    "desc": "India and South Africa gear up for a T20 World Cup Super 8 clash, with a key battle potentially involving Varun Chakravarthy and Dewald Brevis. Dubbed 'Baby AB', Brevis, unfazed by the spinner, aims to leverage his IPL experience. He showed glimpses of form against UAE, emphasising positivity and backing his game.",
-    "img": "https://static.toiimg.com/photo/msid-128541746,imgsize-107412.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-vs-south-africa-baby-ab-dewald-brevis-unfazed-by-varun-chakravarthy-threat/articleshow/128541706.cms",
-    "time": "2026-02-19T05:53:30.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "India's worrying batting patterns and struggles vs off-spin",
     "desc": "India have won all four group-stage matches at the T20 World Cup, but cracks have emerged, particularly against off-spin in the middle overs. Fixed batting roles and slow scoring by Suryakumar Yadav and Tilak Varma have hurt momentum, giving opponents a clear blueprint. Rivals like South Africa will target this weakness, and India must urgently address their middle-overs approach ahead of the Super Eights.",
     "img": "https://static.toiimg.com/photo/msid-128540990,imgsize-179730.cms",
@@ -646,15 +673,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/pakistan-opposition-alliance-calls-off-sit-in-insists-on-physicians-access-to-imran-khan/article70648516.ece",
     "time": "2026-02-19T05:12:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Ticked all the boxes’: Surya sends Super 8s warning after dominant run",
-    "desc": "India captain Suryakumar Yadav expressed confidence after his team's dominant group stage performance in the ongoing T20 World Cup. He highlighted that the team has \"ticked almost all the boxes\" and is ready for the Super 8s, citing Shivam Dube's crucial innings and the team's bowling flexibility as key strengths.",
-    "img": "https://static.toiimg.com/photo/msid-128536299,imgsize-69226.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ticked-almost-all-the-boxes-suryakumar-yadav-sends-super-8s-warning-after-dominant-run-in-t20-world-cup/articleshow/128536249.cms",
-    "time": "2026-02-19T03:02:17.000Z"
   },
   {
     "cat": "Sports",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/moscow-kyiv-meet-for-us-brokered-talks-after-fresh-attacks/article70643783.ece",
     "time": "2026-02-17T15:06:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anirudh Ravichander launches Albuquerque Records, announces 15-year anniversary concert tour",
-    "desc": "Music composer and performer Anirudh Ravichander has unveiled a new artist-owned music label, while also announcing a nationwide live tour to celebrate 15 years of his career, beginning with his first-ever Hyderabad concert in March 2026",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/cobbwg/article70642424.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/music/anirudh-ravichander-launches-albuquerque-records-announces-15-year-anniversary-concert-tour/article70642425.ece",
-    "time": "2026-02-17T10:24:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Francis Ford Coppola, Al Pacino and Robert De Niro lead tributes to Robert Duvall after actor’s death at 95",
-    "desc": "Hollywood paid tribute to legendary actor Robert Duvall after his death at 95, with longtime collaborators Francis Ford Coppola, Al Pacino and Robert De Niro remembering his immense talent and lasting influence on American cinema",
-    "img": "https://th-i.thgim.com/public/incoming/n96tvy/article70641769.ece/alternates/LANDSCAPE_1200/Obit_Robert_Duvall_78448.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/francis-ford-coppola-al-pacino-and-robert-de-niro-lead-tributes-to-robert-duvall-after-actors-death-at-95/article70641772.ece",
-    "time": "2026-02-17T06:07:34.000Z"
   }
 ];
