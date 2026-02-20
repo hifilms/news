@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Oman plan to 'crush' out-of-form Australia in final T20 World Cup 2026 group stage game",
+    "desc": "With one win in three matches, Australia are already knocked out of the race to qualify for the Super Eights of the T20 World Cup 2026. They will play Oman in their final league stage...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/oman-plan-to-crush-out-of-form-australia-in-final-t20-world-cup-2026-group-stage-game-2026-02-20-1030966",
+    "time": "2026-02-20T01:36:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jonathan Trott ends tenure as Afghanistan coach, shares England coaching prospect",
+    "desc": "Afghanistan’s final T20 World Cup 2026 group stage game against Canada in Chennai was head coach Jonathan Trott’s final game in charge. Under his leadership, the Rashid Khan-led side went on to beat Pakistan and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jonathan-trott-ends-tenure-as-afghanistan-coach-shares-england-coaching-prospect-2026-02-20-1030965",
+    "time": "2026-02-20T01:08:41.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Terrifying bee swarm forces players to run for their lives at W100k Bengaluru",
     "desc": "Within a day after an umpire died during a U13 cricket match in Unnao due to a bee attack, a similar sort of dramatic incident took place in Bengaluru. During a W100k Tennis event in...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sunil-gavaskar-predicts-one-surprising-change-in-india-s-playing-xi-for-t20-wc-super-8-clash-vs-south-africa-2026-02-19-1030923",
     "time": "2026-02-19T11:06:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India enter Super Eights with plenty of batting issues, team remains calm ahead of South Africa clash",
-    "desc": "Four wins in four matches might suggest that everything is going well in the Indian team. However, someone who had a closer look would understand the underlying issues that need to be sorted before the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-enter-super-eights-with-plenty-of-batting-issues-team-remains-calm-ahead-of-south-africa-clash-2026-02-19-1030906",
-    "time": "2026-02-19T09:22:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sahibzada Farhan on course to break Virat Kohli’s legendary record in T20 World Cup",
-    "desc": "After registering a duck against India in the T20 World Cup 2026, Sahibzada Farhan responded in style with a blistering century in Pakistan’s final group-stage clash against Namibia. Under significant pressure heading into the contest,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sahibzada-farhan-on-course-to-break-virat-kohlis-legendary-record-in-t20-world-cup-2026-02-19-1030898",
-    "time": "2026-02-19T08:19:51.000Z"
   }
 ];
