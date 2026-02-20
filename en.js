@@ -1,5 +1,50 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "U.K. government considers removing former prince Andrew from line of succession amid Epstein row",
+    "desc": "Amid a torrent of often tawdry revelations from the files of late U.S. sex offender Jeffrey Epstein, King Charles III has already stripped his younger brother of all his titles and ousted him from his home in Windsor",
+    "img": "https://th-i.thgim.com/public/incoming/sdo04c/article70657746.ece/alternates/LANDSCAPE_1200/2026-02-20T145443Z_644031623_RC27PJAEFU7P_RTRMADP_3_USA-EPSTEIN-BRITAIN-ANDREW-ARREST.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/uk-government-considers-removing-former-prince-andrew-from-line-of-succession-amid-epstein-row/article70657745.ece",
+    "time": "2026-02-20T20:29:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bianca Dias dies at 20 days after cosmetic surgery",
+    "desc": "Brazilian content creator Bianca Dias passed away on Thursday, February 19, at the age of 20, leaving her family, friends and followers in shock. According to People magazine, her death comes just days after she reportedly underwent cosmetic surgery, as shared by those close to her.",
+    "img": "https://static.toiimg.com/photo/msid-128622988,imgsize-58456.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bianca-dias-dies-at-20-days-after-cosmetic-surgery-family-and-friends-mourn-brazilian-influencers-demise/articleshow/128622947.cms",
+    "time": "2026-02-20T20:03:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "After Anoushka’s denial, Rishab shares proof of guru-shishya bond",
+    "desc": "Musician Anoushka Shankar recently denied claims that sitarist Rishab Rikhiram Sharma was a disciple of her father, the legendary Pandit Ravi Shankar. While praising his talent, she maintained that her father was never formally his guru. Now, Rishab has responded with an official statement and shared photographs with the late maestro, asserting that he was indeed accepted as a disciple through a traditional Ganda Bandhan ceremony.",
+    "img": "https://static.toiimg.com/photo/msid-128622722,imgsize-54888.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-anoushka-shankars-denial-rishab-rikhiram-sharma-shares-proof-of-guru-shishya-bond-with-pandit-ravi-shankar/articleshow/128622685.cms",
+    "time": "2026-02-20T19:48:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "US-sanctioned Iran-linked oil tanker spent 8 days in Pak maritime boundary: FIR",
+    "desc": "An Iran-linked oil tanker, seized by the Indian Coast Guard, spent days in Pakistan's maritime boundary with its tracking systems off. The vessel, along with two others, was apprehended for alleged illegal oil smuggling and forgery. Investigations revealed ship-to-ship transfers of fuel and bitumen without informing authorities.",
+    "img": "https://static.toiimg.com/photo/msid-128621194,imgsize-30552.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/us-sanctioned-iran-linked-oil-tanker-spent-8-days-in-pak-maritime-boundary-fir/articleshow/128621215.cms",
+    "time": "2026-02-20T19:20:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Army chief charts ways to expand defence cooperation during Australia visit",
+    "desc": "Army chief General Upendra Dwivedi's Australia visit from Feb 16-19 focused on enhancing army-to-army cooperation. Discussions with senior defence leaders reviewed joint exercises, professional education exchanges, and interoperability, deepening strategic alignment. The visit also emphasized strengthening the bilateral Army Exercise AUSTRAHIND.",
+    "img": "https://static.toiimg.com/photo/msid-128621300,imgsize-82896.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/army-chief-charts-ways-to-expand-defence-cooperation-during-australia-visit/articleshow/128621302.cms",
+    "time": "2026-02-20T19:20:09.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'I don’t think I ever wanted to leave Bollywood'",
     "desc": "Priyanka Chopra’s journey from being one of Bollywood’s biggest stars to carving a space for herself in Hollywood has often sparked conversation online. Now, the global actor has opened up about what led to that transition and how her decision was shaped by the search for more fulfilling opportunities.",
@@ -297,24 +342,6 @@ const newsData_en = [
     "time": "2026-02-20T13:12:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Jail is the fifth abode,' says Vikram after release from prison",
-    "desc": "Filmmaker Vikram Bhatt, released from Udaipur jail after bail, expressed faith in Lord Krishna and the legal system, calling jail his \"fifth abode.\" He and wife Shwetambari face fraud charges over a Rs 47 crore film project. Bhatt denies misappropriation, claiming all transactions were transparent. The Supreme Court recently granted them regular bail.",
-    "img": "https://static.toiimg.com/photo/msid-128606831,imgsize-25924.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-am-a-devotee-of-lord-krishna-jail-is-the-fifth-abode-says-vikram-bhatt-after-release-from-udaipur-prison/articleshow/128606831.cms",
-    "time": "2026-02-20T13:12:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Varanasi': Mahesh Babu’s Lord Ram look goes viral",
-    "desc": "Mahesh Babu's divine look as Lord Ram from SS Rajamouli's upcoming film 'Varanasi' has gone viral after appearing on a Guntur theatre hoarding. The leaked image, showing Babu in a radiant Ram avatar with a bow, has ignited massive fan excitement. The film, a large-scale adventure drawing from Ramayana, is slated for an April 7, 2027 release.",
-    "img": "https://static.toiimg.com/photo/msid-128609508,imgsize-143334.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/varanasi-mahesh-babus-lord-ram-look-on-guntur-theatre-hoarding-from-ss-rajamoulis-next-goes-viral-reports/articleshow/128609508.cms",
-    "time": "2026-02-20T13:04:24.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Royals agree to host four home games in Jaipur; Guwahati gets three",
     "desc": "Rajasthan Royals will host four IPL 2026 home matches in Jaipur and three in Guwahati after resolving safety and liability concerns with the state government. The decision followed talks between Royals chairperson Ranjit Barthakur and Chief Minister Bhajan Lal Sharma. Earlier disputes arose over stadium safety issues flagged in an audit. The government has now started repair and upgrade work at the Sawai Man Singh Stadium.",
@@ -565,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-operational-soon-other-ftas-will-follow-heres-what-union-minister-goyal-said/articleshow/128599410.cms",
     "time": "2026-02-20T09:00:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "FPIs back on D-Street: Foreign portfolio investors pour in over Rs 33,000 crore, but why is IT sector missing from their shopping list?",
-    "desc": "Foreign portfolio investors injected Rs 33,487 crore into Indian equities in early February, with capital goods, financial services, and oil & gas sectors seeing significant inflows. This marks a strong buying trend, though overseas investors continued to exit the information technology sector, driven by AI disruption concerns.",
-    "img": "https://static.toiimg.com/photo/msid-128598788,imgsize-127550.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/fpis-back-on-d-street-foreign-portfolio-investors-pour-in-over-rs-33000-crore-but-why-is-it-sector-missing-from-their-shopping-list/articleshow/128596993.cms",
-    "time": "2026-02-20T08:01:28.000Z"
   },
   {
     "cat": "Sports",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/premier-league-clinical-city-has-the-wherewithal-to-rock-arsenals-aspirations/article70644780.ece",
     "time": "2026-02-17T18:03:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anirudh Ravichander launches Albuquerque Records, announces 15-year anniversary concert tour",
-    "desc": "Music composer and performer Anirudh Ravichander has unveiled a new artist-owned music label, while also announcing a nationwide live tour to celebrate 15 years of his career, beginning with his first-ever Hyderabad concert in March 2026",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/cobbwg/article70642424.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/music/anirudh-ravichander-launches-albuquerque-records-announces-15-year-anniversary-concert-tour/article70642425.ece",
-    "time": "2026-02-17T10:24:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Francis Ford Coppola, Al Pacino and Robert De Niro lead tributes to Robert Duvall after actor’s death at 95",
-    "desc": "Hollywood paid tribute to legendary actor Robert Duvall after his death at 95, with longtime collaborators Francis Ford Coppola, Al Pacino and Robert De Niro remembering his immense talent and lasting influence on American cinema",
-    "img": "https://th-i.thgim.com/public/incoming/n96tvy/article70641769.ece/alternates/LANDSCAPE_1200/Obit_Robert_Duvall_78448.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/francis-ford-coppola-al-pacino-and-robert-de-niro-lead-tributes-to-robert-duvall-after-actors-death-at-95/article70641772.ece",
-    "time": "2026-02-17T06:07:34.000Z"
   }
 ];
