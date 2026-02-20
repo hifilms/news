@@ -1,5 +1,50 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "অভিনয়ের নেশা যখন মানসিক ব্যাধি! অবচেতন মনের রহস্য সমাধানে দেবরাজ-প্রিয়াঙ্কা-ঋতব্রত...",
+    "desc": "মানুষের অবচেতন মনের গোলকধাঁধা আর অভিনয়ের জগতের এক অন্ধকার অধ্যায় নিয়ে মুক্তি পেল স্বল্পদৈর্ঘ্য চলচ্চিত্র ‘সব চরিত্ররা’। পরিচালক দীপ মোদকের এই ছবিতে অভিনয় করেছেন ঋতব্রত মুখোপাধ্যায়, প্রিয়াঙ্কা এবং দেবরাজ। ২০ মার্চ ইউটিউবে মুক্তি পেল ছবিটি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/sob-charitrara-deep-modak-rwitobroto-priyanka-debraj-release-date_642126.html ",
+    "time": "2026-02-20T15:25:03.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ভারতীয়দের জন্য ফের ভিসা দেবে বাংলাদেশ! মাত্র ৩ দিন দায়িত্ব নিয়েই বড় ঘোষণা তারেকের",
+    "desc": "ধীরে ধীরে স্বাভাবিক হচ্ছে ভারত-বাংলাদেশ সম্পর্ক৷ দায়িত্ব নিয়ে মাত্র তিনদিনের মাথাতেই সেই ইঙ্গিত দিলেন তারেক রহমান৷ ভারত-বাংলাদেশ সম্পর্ক পুনরুদ্ধারের পথে প্রথম পদক্ষেপ হিসেবে দিল্লিতে অবস্থিত বাংলাদেশ হাই কমিশন শুক্রবার থেকে ভারতীয় নাগরিকদের জন্য ভিসা পরিষেবা পুনরায় চালু করেছে তারেক সরকার৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Tarique-Rahman-2026-02-9f41bb575dba39871f0179a6cad89f3a-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/bangladesh-pm-tarique-rahman-resets-ties-with-india-restores-visa-services-in-delhi-ank-2550362.html",
+    "time": "2026-02-20T15:17:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "মুম্বইয়ের রাস্তায় মণিপুরি মেকআপ আর্টিস্টকে 'চিনা'-'মোমো' বলে কটাক্ষ! প্রতিবাদে অক্ষয়...",
+    "desc": "অক্ষয়ের শোয়ে উত্তর-পূর্ব ভারত থেকে আসা ওই প্রতিযোগী জানান, নিজের চেহারার কারণে মুম্বইয়ের রাস্তায় তাঁকে প্রায়ই বর্ণবিদ্বেষী মন্তব্যের শিকার হতে হয়। বিষয়টি কতটা ভয়াবহ, তা বোঝাতে তিনি মঞ্চে ডেকে নেন তাঁর নিজস্ব মেকআপ আর্টিস্ট কিম-কে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/akshay-kumar-wheel-of-fortune-north-east-racism-statement_642125.html ",
+    "time": "2026-02-20T15:01:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "না বলে বাপের বাড়ি গিয়েছিল বউ! একটা থাপ্পড় মারা স্বামীর নৃশংসতা নয়, রায় দিল কোর্ট, ২৩ বছর ধরে চলা মামলার নেপথ্যে বড় কাহিনি",
+    "desc": "গুজরাত হাইকোর্ট রায় দিয়েছে যে, স্বামীর স্ত্রীকে না জানিয়ে তার বাবা-মায়ের বাড়িতে যাওয়ার জন্য তাকে থাপ্পড় মারা ৪৯৮এ ধারার অধীনে নিষ্ঠুরতা হিসেবে গণ্য হবে না। ২৩ বছর বয়সী একটি মামলায় আদালত স্বামীকে আত্মহত্যায় প্ররোচনার অভিযোগ থেকে খালাস দিয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Husband-and-Wife-2026-02-b2e6eb912b8d5576bd5ae4e14d00247a-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/husband-and-wife-one-slap-is-not-cruelty-gujarat-highcourt-acquits-husband-of-abetment-to-suicide-after-23-year-dd-2549897.html",
+    "time": "2026-02-20T13:27:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "অস্ট্রেলীয় বোলিং অ্যাটাকের সামনে ‘ফ্যামিলিওয়ালা’ শিবপ্রসাদ! মুগ্ধ পরিচালক সুমন ঘোষ...",
+    "desc": "উইন্ডোজ প্রোডাকশনের ২৫ বছর পূর্তিতে এক অনন্য চমক নিয়ে আসছেন পরিচালক সুমন ঘোষ। তাঁর আসন্ন ছবি ‘ফ্যামিলিওয়ালা’-তে নাম ভূমিকায় দেখা যাবে অভিনেতা শিবপ্রসাদ মুখোপাধ্যায়কে। দীর্ঘ ২৫ বছর পর নন্দিতা রায়ের বাইরে অন্য কোনো পরিচালকের নির্দেশনায় কাজ করলেন শিবপ্রসাদ, যা নিয়ে টলিউডে ইতিমধ্যেই শোরগোল পড়ে গিয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/shiboproshad-mukhopadhyay-suman-ghosh-familywala-collaboration_642093.html ",
+    "time": "2026-02-20T13:10:00.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "সুপ্রিম কোর্টের নির্দেশে ইতিহাস তৈরি হল, দাবি কল্যাণের! দেখুন ভিডিও",
     "desc": "ভারতের নির্বাচনী সংস্কার ব্যবস্থায় ইতিহাস তৈরি হল৷ নির্বাচন কমিশনারই যে ভোটার তালিকা নিয়ে শেষ কথা বলবে না, সেই ধারণায় ইতি পড়ল৷ শুক্রবার বাংলার এসআইআর নিয়ে সুপ্রিম কোর্টের নির্দেশের পর এমনই দাবি করলেন আইনজীবী কল্যাণ বন্দ্যোপাধ্যায়৷ এ দিন সুপ্রিম কোর্ট নির্দেশ দেয়, এসআইআর-এর বাকি নথি যাচাইয়ের কাজ সম্পন্ন করতে জুডিশিয়াল অফিসার অথবা জেলা বিচারক এবং অতিরিক্ত জেলা বিচারকদের নিয়োগ করতে হবে৷ তাঁদের নজরদারিতেই শেষ হবে নথি যাচাই প্রক্রিয়া৷ এই কোয়াসি জুডিশিয়াল অফিসারদের নথি যাচাইয়ের কাজে সাহায্য করবেন মাইক্রো অবজারভার এবং অবজারভাররা৷",
@@ -853,50 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/international/bangladesh-election-2026-women-voter-turnout-was-significant-what-is-the-reason-pbd-2537475.html",
     "time": "2026-02-12T15:32:02.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "হারিয়েছেন ৮৫% দৃষ্টিশক্তি! জেলেই অন্ধ হওয়ার পথে ইমরান খান! আসিম মুনিরের চালে ভয়ঙ্কর দুর্দশা",
-    "desc": "ইমরান খান “প্রাতিষ্ঠানিক চিকিৎসা অবহেলা”-র কারণে স্থায়ীভাবে দৃষ্টিশক্তি হারিয়েছেন। ‘ফ্রেন্ড অব দ্য কোর্ট’ হিসেবে দায়িত্ব পালনকারী অ্যাডভোকেট সলমান সাফদারের প্রস্তুত করা এই প্রতিবেদনে অভিযোগ করা হয়েছে, জেনারেল আসিম মুনিরের নেতৃত্বাধীন সামরিক প্রতিষ্ঠানের পরিকল্পিত পদক্ষেপের ফলেই পিটিআই প্রতিষ্ঠাতার ওপর এমন শারীরিক ক্ষতি করা হয়েছে, যাতে প্রচলিত ফরেনসিক প্রমাণ না থাকে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-12-at-8.17.22-PM-2026-02-7afb8e54bb8b46b7d621a38698da2448-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/international/imran-khan-lost-85-percent-of-his-eye-sight-harrowing-medical-report-came-into-light-smc-2537358.html",
-    "time": "2026-02-12T14:51:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "টি-২০ বিশ্বকাপে ইতিহাস ইতালির! নেপালের বিরুদ্ধে ১০ উইকেটে বিরাট জয়!",
-    "desc": "চলতি টি-২০ বিশ্বকাপে নেপালের বিরুদ্ধে খেলতে নেমে ইতিহাস গড়ল ইতালি ক্রিকেট দল। এই প্রথমবার টি-২০ বিশ্বকাপ ইতিহাসে যোগ্যতা অর্জন করেছে ইতালি। নেপালের বিরুদ্ধে জেতার পাশাপাশি, তারা বিশ্বকাপ ইতিহাসে প্রথম ম্য়াচে জয়লাভ করল। ইতালির কাছে এই জয় আক্ষরিক অর্থেই ঐতিহাসিক।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/italy-1-2026-02-69d68843ce3f4777b01f4093eb3acfbc-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/t20-world-cup-italy-thrashes-nepal-creates-history-in-t20-world-cup-smc-2537319.html",
-    "time": "2026-02-12T14:13:13.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "মার্কিন পুলিশের গাড়ির ধাক্কায় নিহত হয় ভারতীয় ছাত্রী, আন্তর্জাতিক বিতর্কের পর ২৬৫ কোটি ক্ষতিপূরণ",
-    "desc": "সিয়াটলে ভারতীয় ছাত্রী জাহ্নবী কন্দুলার মর্মান্তিক মৃত্যুর ঘটনায় শহর কর্তৃপক্ষ ২৯ মিলিয়ন মার্কিন ডলার (প্রায় ২৬৫ কোটি টাকা) ক্ষতিপূরণ দিতে সম্মত হয়েছে। কিং কাউন্টি সুপিরিয়র কোর্টে গত সপ্তাহে এই সমঝোতা সংক্রান্ত নোটিশ দাখিল করা হয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Untitled-design-2026-02-12T182905.024-2026-02-16f8b408b62db07d9b3bf06f43caeef0-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/indian-student-jaahnavi-kandula-seattle-police-crash-265-crore-compensation-sal-2537230.html",
-    "time": "2026-02-12T13:17:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "রাজপালের মতো জেলে যাননি, তবে 'অভাবের তাড়নায়' অন্যদের কাছে হাত পাততে হয়েছে অনেক জনপ্রিয় বলিউড নায়কদের! তালিকা দেখলে চমকে উঠবেন",
-    "desc": "বলিউডের চকচকে দুনিয়া৷ এরই মধ্যে এমন অনেকে রয়েছেন যাঁদের ভাঁড়ে মা ভবানী হাল! তবে মুখ ফুটে বলার জো নেই৷ কারণ তাতে তাঁদের মান সম্মান জলে যাবে৷ তবে অর্থকষ্টে নিজেরা জ্বলে পুড়ে মরছেন৷ কেউ কেউ সেই দুঃসময় কাটিয়ে উঠেছেন আবার কেই তলিয়ে গেছে অতলে৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Web-2026-02-12T165257.835-2026-02-21bf3d4c5dfbfc1b200faaab3a4c26c0-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/not-only-rajpal-yadav-many-bollywood-superstar-actors-had-financial-crisis-went-bankrupt-struggled-for-money-pbd-2537091.html",
-    "time": "2026-02-12T11:25:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "দিল্লির মাটিতে জোড়া সাফল্য! কিকবক্সিংয়ে রুপো ও ব্রোঞ্জ শিলিগুড়ির মেয়ের",
-    "desc": "শিলিগুড়ির মেয়ে শ্রেয়া বসাক আবারও আন্তর্জাতিক মঞ্চে ওড়াল দিলেন সাফল্যের পতাকা। গত ৪ থেকে ৮ ফেব্রুয়ারি নয়াদিল্লির কেডি যাদব ইনডোর স্টেডিয়ামে অনুষ্ঠিত পঞ্চম ওপেন ইন্ডিয়া ইন্টারন্যাশনাল কিকবক্সিং কাপে ভারতের হয়ে প্রতিনিধিত্ব করে দুটি পদক জিতলেন তিনি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/HYP_5759454_cropped_12022026_120702_img20260212wa0105_watermar_1-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/sports/double-triumph-on-delhi-soil-siliguris-shreya-basak-makes-the-nation-proud-with-silver-and-bronze-in-kickboxing-smj-l18-local18-2536600.html",
-    "time": "2026-02-12T09:42:23.000Z"
   }
 ];

@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "South Africa to tour New Zealand for five T20I after T20 World Cup, IPL-bound players to skip series",
+    "desc": "South Africa have appointed Keshav Maharaj as the captain of the T20I for the five-match series against New Zealand away from home next month. The series is set to be played from March 15 to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-to-tour-new-zealand-for-five-t20i-after-t20-world-cup-ipl-bound-players-to-skip-series-2026-02-20-1031062",
+    "time": "2026-02-20T15:18:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bumrah, Arshdeep and Hardik in race to break Ravichandran Ashwin's all-time T20 World Cup record for India",
+    "desc": "India have won four consecutive matches in the ongoing T20 World Cup and will face South Africa on Sunday in their opening game of the Super 8 round. The match will be played at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bumrah-arshdeep-and-hardik-in-race-to-break-ravichandran-ashwin-s-all-time-t20-world-cup-record-for-india-2026-02-20-1031057",
+    "time": "2026-02-20T14:15:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No comeback for Steve Smith as Australia make one change for dead rubber T20 World Cup clash vs Oman",
+    "desc": "Australia locked horns today against Oman in the final group stage match of the T20 World Cup 2026. Ideally, it should've been a game that lets Australia gear up for the Super 8 round. But...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/no-comeback-for-steve-smith-as-australia-make-one-change-for-dead-rubber-t20-world-cup-clash-vs-oman-2026-02-20-1031051",
+    "time": "2026-02-20T13:26:47.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "New Zealand captain Mitchell Santner declared fit for Pakistan clash, what about Ferguson?",
     "desc": "New Zealand have got a massive boost ahead of their opening Super 8 clash against Pakistan in the T20 World Cup as their captain Mitchell Santner has recovered from illness. He missed their previous game...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pakistan-players-likely-to-be-ignored-after-several-ipl-franchises-invest-in-the-hundred-2026-02-20-1030993",
     "time": "2026-02-20T05:50:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Andrew McDonald defends players after T20 World Cup exit, says Australia were 'fully locked in'",
-    "desc": "Following defeats to Zimbabwe and Sri Lanka, Australia were knocked out of the race for the Super Eights in the ongoing T20 World Cup 2026. Senior cricketers Pat Cummins and Josh Hazlewood missed, owing to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/andrew-mcdonald-defends-players-after-t20-world-cup-exit-says-australia-were-fully-locked-in-2026-02-20-1030988",
-    "time": "2026-02-20T05:08:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shahid Afridi hits back at Shadab Khan over 'they have never beaten India' comment",
-    "desc": "The off-field drama has once again taken centre stage in Pakistan cricket. After a 61-run drubbing against India earlier in the T20 World Cup, several former cricketers, including Shahid Afridi, Mohammad Yousuf and Shoaib Akhter,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shahid-afridi-hits-back-at-shadab-khan-over-they-have-never-beaten-india-comment-2026-02-20-1030980",
-    "time": "2026-02-20T04:07:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sikander Raza breaks Rohit Sharma's legendary record with POTM performance vs Sri Lanka",
-    "desc": "Zimbabwe stunned Sri Lanka in their final T20 World Cup group stage game, pulling off a six-wicket win at the R Premadasa Stadium in Colombo. Captain Sikandar Raza was once again the chief component, playing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sikander-raza-breaks-rohit-sharma-s-legendary-record-with-potm-performance-vs-sri-lanka-2026-02-20-1030970",
-    "time": "2026-02-20T02:17:02.000Z"
   }
 ];
