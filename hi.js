@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How will surface at Pallekele International Cricket Stadium play in T20 World Cup?",
+    "desc": "Australia will host Oman in their final T20 World Cup 2026 group stage match at the Pallekele International Cricket Stadium. With back-to-back two defeats to Zimbabwe and Sri Lanka, the Mitchell Marsh-led side is already...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/aus-vs-omn-pitch-report-how-will-surface-at-pallekele-international-cricket-stadium-play-in-t20-world-cup-2026-02-20-1031018",
+    "time": "2026-02-20T09:05:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India beat Sri Lanka to qualify for Rising Asia Cup final, who will they play in summit clash?",
+    "desc": "India have defeated Sri Lanka by five wickets at the Terdthai Cricket Ground in Bangkok to qualify for the Asia Cup Rising Stars 2025 final. The Radha Yadav-led side produced an all-rounder show and it...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-beat-sri-lanka-to-qualify-for-rising-asia-cup-final-who-will-they-play-in-summit-clash-2026-02-20-1031010",
+    "time": "2026-02-20T08:07:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 superstar cricketers who flopped in T20 World Cup 2026 so far",
+    "desc": "All eight teams have been finalised for the Super Eights of the ongoing T20 World Cup 2026. Four teams - India, South Africa, Zimbabwe and West Indies are unbeaten so far in the tournament and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/3-superstar-cricketers-who-flopped-in-t20-world-cup-2026-so-far-2026-02-20-1031003",
+    "time": "2026-02-20T07:12:12.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pakistan players likely to be ignored after several IPL franchises invest in The Hundred",
     "desc": "Pakistan cricketers are very likely to be left out of the upcoming edition of The Hundred. In 2025, several Indian conglomerates bought key stakes in all eight teams and that could result in no contracts...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/caught-on-camera-terrifying-bee-swarm-forces-players-to-run-for-their-lives-at-w100k-bengaluru-2026-02-19-1030960",
     "time": "2026-02-19T18:18:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'His career is coming to an end': Ricky Ponting feels Glenn Maxwell has played his last World Cup",
-    "desc": "Former Australia captain Ricky Ponting feels that all-rounder Glenn Maxwell won't be playing the next T20 World Cup. He reckons that Maxwell's career is coming to an end, having already retired from ODIs and he...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/his-career-is-coming-to-an-end-ricky-ponting-feels-glenn-maxwell-has-played-his-last-world-cup-2026-02-19-1030957",
-    "time": "2026-02-19T17:14:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why Super 8 Group 1 is T20 World Cup’s True 'Group of Death'?",
-    "desc": "Some may feel that Zimbabwe's presence, alongside India, South Africa and West Indies, in Group 1 of the Super 8 round of the T20 World Cup will make it easy for other teams to dream of a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/the-perfect-vs-the-proven-why-super-8-group-1-is-t20-world-cups-true-group-of-death-india-west-indies-south-africa-zimbabwe-2026-02-19-1030952",
-    "time": "2026-02-19T15:48:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Umpire Manik Gupta dies following massive bee attack during Under-13 cricket match",
-    "desc": "A wave of mourning has swept through the cricketing community following a freak and tragic accident in Unnao’s Shuklaganj. On Wednesday, a veteran umpire from the Kanpur Cricket Association (KCA), Manik Gupta, lost his life...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tragedy-in-unnao-umpire-manik-gupta-dies-following-massive-bee-attack-during-under-13-cricket-match-2026-02-19-1030947",
-    "time": "2026-02-19T14:37:24.000Z"
   }
 ];
