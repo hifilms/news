@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pakistan players likely to be ignored after several IPL franchises invest in The Hundred",
+    "desc": "Pakistan cricketers are very likely to be left out of the upcoming edition of The Hundred. In 2025, several Indian conglomerates bought key stakes in all eight teams and that could result in no contracts...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-players-likely-to-be-ignored-after-several-ipl-franchises-invest-in-the-hundred-2026-02-20-1030993",
+    "time": "2026-02-20T05:50:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Andrew McDonald defends players after T20 World Cup exit, says Australia were 'fully locked in'",
+    "desc": "Following defeats to Zimbabwe and Sri Lanka, Australia were knocked out of the race for the Super Eights in the ongoing T20 World Cup 2026. Senior cricketers Pat Cummins and Josh Hazlewood missed, owing to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/andrew-mcdonald-defends-players-after-t20-world-cup-exit-says-australia-were-fully-locked-in-2026-02-20-1030988",
+    "time": "2026-02-20T05:08:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shahid Afridi hits back at Shadab Khan over 'they have never beaten India' comment",
     "desc": "The off-field drama has once again taken centre stage in Pakistan cricket. After a 61-run drubbing against India earlier in the T20 World Cup, several former cricketers, including Shahid Afridi, Mohammad Yousuf and Shoaib Akhter,...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/tragedy-in-unnao-umpire-manik-gupta-dies-following-massive-bee-attack-during-under-13-cricket-match-2026-02-19-1030947",
     "time": "2026-02-19T14:37:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Know everything about controversy",
-    "desc": "Pakistan Hockey Federation (PHF) president Tariq Bugti resigned from his position, but not before banning the national team's captain, Ammad Butt, following the hotel payment fiasco. For the unversed, the Pakistan squad was left stranded...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/hockey/pakistan-hockey-chief-resigns-after-banning-captain-for-2-years-know-everything-about-controversy-2026-02-19-1030945",
-    "time": "2026-02-19T14:19:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Zimbabwe top group B with thrilling win over Sri Lanka in T20 World Cup, to face India on Feb 26",
-    "desc": "Zimbabwe's perfect T20 World Cup performance continued today as well, as they chased down 179 runs to beat Sri Lanka by six wickets in their final group stage game of the T20 World Cup. With...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/zimbabwe-top-group-b-with-thrilling-win-over-sri-lanka-in-t20-world-cup-to-face-india-on-feb-26-2026-02-19-1030935",
-    "time": "2026-02-19T12:58:59.000Z"
   }
 ];

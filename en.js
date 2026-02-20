@@ -1,6 +1,105 @@
 const newsData_en = [
   {
     "cat": "Sports",
+    "title": "'Grateful and proud': Trott bids farewell after memorable Afghanistan journey",
+    "desc": "Jonathan Trott concluded his tenure as Afghanistan's head coach following their 2026 T20 World Cup exit. He expressed gratitude for the journey, highlighting significant achievements like their 2024 semifinal appearance and historic wins. Trott also reflected on his unexpected path to coaching Afghanistan and his future aspirations, including a potential return to coaching an English team.",
+    "img": "https://static.toiimg.com/photo/msid-128595302,imgsize-86932.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/grateful-and-proud-jonathan-trott-bids-farewell-after-memorable-afghanistan-journey/articleshow/128595247.cms",
+    "time": "2026-02-20T06:31:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mrunal asks youth 'to believe in LOVE' amid dating rumors",
+    "desc": "Mrunal Thakur is making waves with the release of her new film, 'Do Deewane Seher Mein.' Alongside her cinematic ventures, she has taken the time to address the dating speculation involving Dhanush. Emphasizing the importance of love, she encourages young people to remain patient while searching for their ideal match. Read on to know more.",
+    "img": "https://static.toiimg.com/photo/msid-128594944,imgsize-38720.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mrunal-thakur-asks-youth-to-believe-that-love-exists-amid-her-dating-rumors-with-dhanush-says-dont-give-up/articleshow/128594944.cms",
+    "time": "2026-02-20T06:21:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All you need to know about Eric Dane, his wife Rebecca Gayheart and his family",
+    "desc": "Beloved 'Grey's Anatomy' star Eric Dane has passed away at 53 after a year-long battle with ALS. His ex-wife, Rebecca Gayheart, remained a steadfast presence, supporting him through his diagnosis and until his final moments. The couple, married for 14 years, shared two daughters and had recently reconciled after a divorce filing.",
+    "img": "https://static.toiimg.com/photo/msid-128594659,imgsize-22162.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/a-look-into-greys-anatomy-star-eric-dane-and-his-relationship-with-wife-rebecca-gayheart/articleshow/128594659.cms",
+    "time": "2026-02-20T06:15:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'India won't make it to semi-finals': Former Pakistan pacer's shocking take",
+    "desc": "Former Pakistan bowler Mohammad Amir has made bold predictions for the T20 World Cup 2026. He believes India will not advance to the semi-finals. Amir points to India's batting collapses in recent matches. He suggests teams like South Africa and the West Indies can exploit these weaknesses. India faces South Africa in their Super 8 opener.",
+    "img": "https://static.toiimg.com/photo/msid-128593330,imgsize-1304827.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-wont-make-it-to-semi-finals-former-pakistan-pacers-shocking-take/articleshow/128593350.cms",
+    "time": "2026-02-20T05:51:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-US sign Pax Silica Declaration: New Delhi’s entry ‘strategic and essential’",
+    "desc": "India has joined the US-led Pax Silica strategic alliance, a coalition aimed at defining the 21st-century economic and technological order. The declaration focuses on building secure, resilient ecosystems for critical minerals and AI, bolstering India's electronics and semiconductor industry. This move strengthens global AI and semiconductor supply chains, reducing dependence on non-aligned nations.",
+    "img": "https://static.toiimg.com/photo/msid-128593646,imgsize-817484.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-sign-pax-silica-declaration-new-delhis-entry-strategic-and-essential/articleshow/128593236.cms",
+    "time": "2026-02-20T05:38:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Toxic' trailer reactions: Fans HAIL Yash's beardless look",
+    "desc": "A Fairytale for Grown-Ups'! The newly released trailer reveals not only adrenaline-pumping action but also sees the leading man donning a fresh, beardless look that's got fans talking. Set against the backdrop of a gritty, post-colonial Goa, this film is sure to deliver an unforgettable experience. Read on to know more.",
+    "img": "https://static.toiimg.com/photo/msid-128592968,imgsize-47952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-a-fairytale-for-grown-ups-trailer-reactions-fans-call-yashs-beardless-look-unexpected-and-out-of-syllabus/articleshow/128592968.cms",
+    "time": "2026-02-20T05:34:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka channels her inner pirate for The Bluff promotions",
+    "desc": "Priyanka Chopra has launched promotions for her Hollywood film 'The Bluff,' portraying a formidable pirate. She's making a stylish statement with fashion-forward, pirate-inspired ensembles, including a striking parrot bag. Chopra revealed the role deeply resonated with her as a mother, drawing parallels to protecting her own daughter. The film, co-starring Karl Urban, premieres online on February 25.",
+    "img": "https://static.toiimg.com/photo/msid-128591678,imgsize-35494.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-channels-her-inner-pirate-as-she-rocks-high-fashion-ensembles-for-the-bluff-promotions-pics/articleshow/128588546.cms",
+    "time": "2026-02-20T05:27:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'He would have fetched at least 20 cr': Ex-Indian cricketer predicts huge IPL deal for this fast bowler",
+    "desc": "Former cricketer Mohammad Kaif stated Blessing Muzarabani's current form could have secured him bids exceeding ₹20 crore in the IPL 2026 auction. Kaif suggested the auction timing was unfortunate for the Zimbabwean bowler. Muzarabani's impressive performance in the T20 World Cup, including key wickets against Australia and Sri Lanka, highlighted his potential.",
+    "img": "https://static.toiimg.com/photo/msid-128592715,imgsize-78848.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/he-would-have-fetched-at-least-20-crores-ex-indian-cricketer-predicts-20-crore-ipl-deal-for-this-fast-bowler/articleshow/128592770.cms",
+    "time": "2026-02-20T05:25:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia vs Oman, T20 World Cup 2026 Live streaming: When and where to watch",
+    "desc": "Australia faces Oman in their final T20 World Cup group game, aiming to salvage pride after a difficult tournament. Despite a winless streak, Oman seeks to challenge a struggling Australian side. The match at Pallekele, with potential for high scores, will be broadcast on Star Sports Network and streamed on JioStar.",
+    "img": "https://static.toiimg.com/photo/msid-128592970,imgsize-1161579.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/australia-vs-oman-t20-world-cup-2026-live-streaming-when-and-where-to-watch/articleshow/128592638.cms",
+    "time": "2026-02-20T05:25:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cillian Murphy’s Top OTT Dramas: ‘Normal People’ to ‘Peaky Blinders’",
+    "desc": "Cillian Murphy first grabbed hearts as the fierce Tommy Shelby in ‘Peaky Blinders’ but his talent runs deep across gripping stories. Picture settling into your couch, lights dimmed, ready for hours of tension and emotion. Here are five must-watch OTT dramas starring him. Each pulls you right in with his quiet intensity.",
+    "img": "https://static.toiimg.com/photo/msid-128592817,imgsize-905601.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/normal-people-in-the-absence-peaky-blinders-fame-cillian-murphys-best-ott-dramas-to-watch/photostory/128592817.cms",
+    "time": "2026-02-20T05:20:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Daniel Radcliffe reveals what almost ended his life while filming ‘Harry Potter’",
+    "desc": "Daniel Radcliffe, famed for his role as Harry Potter, recently recounted a terrifying near-drowning incident during the filming of 'Harry Potter and the Goblet of Fire.' While practicing an underwater scene, a personal error led him to signal for help, nearly costing him his life. The actor admitted it was one of the most challenging stunts he's ever performed.",
+    "img": "https://static.toiimg.com/photo/msid-128591361,imgsize-20724.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/daniel-radcliffe-shares-that-he-almost-drowned-while-filming-this-scene-from-the-harry-potter-films/articleshow/128591361.cms",
+    "time": "2026-02-20T04:45:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'With so many left-handers, finger spin is the problem': India coach sounds alarm before Super 8",
     "desc": "Despite an unbeaten league stage, India faces challenges with catching and batting against spin, particularly off-spinners. The presence of multiple left-handers and Abhishek Sharma's form are key concerns. Teams are targeting this weakness, and India needs a clear game plan for upcoming Super 8 matches against spin-heavy opponents.",
     "img": "https://static.toiimg.com/photo/msid-128591251,imgsize-1118280.cms",
@@ -16,6 +115,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/indias-perfect-record-has-been-tempered-by-indifferent-form/article70654604.ece",
     "time": "2026-02-20T04:30:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "From layoff guidelines to timely wages; new checklist issued for employers",
+    "desc": "The Labour Ministry has unveiled a comprehensive compliance checklist for employers, consolidating nearly two dozen requirements under four new labour codes. This initiative aims to clarify responsibilities, prevent evasion, and minimize legal disputes by providing a clear roadmap for businesses. The checklist covers foundational, monthly, annual, and event-specific obligations, ensuring smoother transitions and enhanced worker welfare.",
+    "img": "https://static.toiimg.com/photo/msid-128591140,imgsize-177479.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/new-labour-codes-from-layoff-guidelines-to-timely-wages-new-checklist-issued-for-employers/articleshow/128589758.cms",
+    "time": "2026-02-20T04:29:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -198,15 +306,6 @@ const newsData_en = [
     "time": "2026-02-20T02:15:28.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Keith Urban is 'raging’ over Nicole Kidman’s love life rumors",
-    "desc": "In a fresh twist on their post-split narrative, country artist Keith Urban is said to be livid about rumors connecting his former partner, Nicole Kidman, with entrepreneur Paul Salem. While insiders claim Kidman is prioritizing her family and upcoming projects over romance, Urban is reportedly grappling with the timing, feeling that he's still reeling from their recent separation.",
-    "img": "https://static.toiimg.com/photo/msid-128586434,imgsize-60970.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/keith-urban-not-happy-with-nicole-kidmans-possible-new-love-life-report/articleshow/128586434.cms",
-    "time": "2026-02-20T02:04:58.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "India attends Donald Trump's inaugural Gaza Peace Board meeting as observer",
     "desc": "India attended the inaugural meeting of US President Donald Trump’s Board of Peace on Gaza as an observer. The US committed $10 billion to the board, which aims for redevelopment and lasting peace in Gaza, though India has not joined as a member.",
@@ -225,33 +324,6 @@ const newsData_en = [
     "time": "2026-02-20T02:00:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan': CBFC revising committee yet to begin review",
-    "desc": "Thalapathy Vijay's 'Jana Nayagan' faces further release delays as the CBFC revising committee has yet to begin its review. This setback rules out a February 2026 release, with even a March clearance unlikely to guarantee an immediate theatrical rollout. Makers await official word, impacting future release plans.",
-    "img": "https://static.toiimg.com/photo/msid-128586052,imgsize-46814.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-censor-delay-cbfc-revising-committee-yet-to-begin-review-for-vijay-film-reports/articleshow/128586052.cms",
-    "time": "2026-02-20T01:53:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jim Curtis on navigating relationship with Jennifer Aniston",
-    "desc": "fostering connections and prioritizing repair. He detailed how they navigate disagreements, emphasizing mutual self-work and pre-discussed strategies for handling flare-ups. The couple agrees on personal growth and establishing ground rules for effective communication and conflict resolution.",
-    "img": "https://static.toiimg.com/photo/msid-128585978,imgsize-359268.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jim-curtis-shares-how-he-and-jennifer-anniston-navigate-relationship-conflict-it-is-important-to-set-ground-rules/articleshow/128585986.cms",
-    "time": "2026-02-20T01:46:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jason Bateman responds to Charli XCX backlash",
-    "desc": "Jason Bateman faced online criticism for questioning Charli XCX about having children on his podcast. Despite her clear statement of not wanting kids, Bateman suggested her views might change. The pop star, married since July 2025, found the topic sensitive. Bateman later explained his question as a natural follow-up to their discussion about her childhood.",
-    "img": "https://static.toiimg.com/photo/msid-128585871,imgsize-401798.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jason-bateman-finally-addresses-backlash-after-podcast-interview-with-charli-xcx-dont-have-much-else-to-say/articleshow/128585885.cms",
-    "time": "2026-02-20T01:42:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'India haven't been challenged yet': Virender Sehwag fires Super 8 warning",
     "desc": "Former India opener Virender Sehwag expressed concerns about India's bowling strength ahead of the Super 8s, despite their dominant group stage. He highlighted that the bowling unit hasn't been truly tested, citing the Netherlands match where runs were conceded. Mohit Sharma also questioned the death bowling combination, emphasizing the need for clarity against stronger opponents.",
@@ -261,15 +333,6 @@ const newsData_en = [
     "time": "2026-02-20T01:30:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Abhilasham' director Shamzu Zayba slams producers",
-    "desc": "Director Shamzu Zayba, out on bail in a financial fraud case, accuses 'Abhilasham' producers of targeting him and questions his late-night arrest. Industry bodies like FEFKA criticize the police's actions. Zayba claims producers aimed to ruin his reputation, while producers cite fund mismanagement and a failure to return a car. Technicians also report pending payments.",
-    "img": "https://static.toiimg.com/photo/msid-128584739,imgsize-47736.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/abhilasham-director-shamzu-zayba-slams-producers-says-they-kept-stating-that-they-wont-let-me-finish-the-film/articleshow/128584739.cms",
-    "time": "2026-02-20T01:05:37.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'India likely to see one of world's largest AI user bases'",
     "desc": "Industry leaders at the India AI Impact Summit emphasized the need for open, trusted, and globally accessible AI. Bharti Enterprises' Sunil Mittal highlighted AI's integration into telecom and its potential to boost sectors like healthcare and education.",
@@ -277,24 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/india-likely-to-see-one-of-worlds-largest-ai-user-bases/articleshow/128584786.cms",
     "time": "2026-02-20T01:04:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "A.P. budget this year shifted gears towards all-round progress: Finance Minister Keshav",
-    "desc": "The first budget tabled by him had to clean up the mess created by the YSRCP and the second one just about managed to put the economy back on the tracks, says Payyavula Keshav in the Assembly",
-    "img": "https://th-i.thgim.com/public/incoming/rrsgh6/article70654551.ece/alternates/LANDSCAPE_1200/A.P.-budget-thiGO1FK2I2R.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-budget-this-year-shifted-gears-towards-all-round-progress-finance-minister-keshav/article70652591.ece",
-    "time": "2026-02-20T01:01:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vishal calls 'O' Romeo' one of his 'MOST SUCCESSFUL' films",
-    "desc": "Even with a mixed box office turnout for 'O' Romeo', director Vishal Bhardwaj beams with pride, deeming it a forthcoming classic and his crowning achievement. The romantic revenge tale featuring Shahid Kapoor and Triptii Dimri has amassed over Rs 72 crore globally, marking a pivotal moment in Kapoor's career. Read on to know more.",
-    "img": "https://static.toiimg.com/photo/msid-128584328,imgsize-70634.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/o-romeo-vishal-bhardwaj-calls-shahid-kapoor-starrer-one-of-his-most-successful-films-amid-low-box-office-earnings/articleshow/128584328.cms",
-    "time": "2026-02-20T00:53:52.000Z"
   },
   {
     "cat": "Business",
@@ -396,24 +441,6 @@ const newsData_en = [
     "time": "2026-02-19T23:47:53.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Sensex sinks 1.2k pts on US-Iran tensions",
-    "desc": "Indian stock markets experienced a significant downturn, with the Sensex plummeting over 1,200 points. Investors lost nearly Rs 7 lakh crore as global concerns, including US Fed rate cut uncertainty and escalating geopolitical tensions, triggered widespread selling. Major sectors like real estate, power, and auto bore the brunt of the sell-off.",
-    "img": "https://static.toiimg.com/photo/msid-128582781,imgsize-43096.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-sinks-1-2k-pts-on-us-iran-tensions/articleshow/128582787.cms",
-    "time": "2026-02-19T23:42:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Mukesh Ambani announces $110bn push for AI sovereign infra",
-    "desc": "Reliance Industries chairman Mukesh Ambani announced a $110 billion investment over seven years to build India's sovereign AI infrastructure, including data centers and a nationwide edge compute network. This initiative aims to connect India to the intelligence era, reduce compute costs, and establish the nation as a global AI power.",
-    "img": "https://static.toiimg.com/photo/msid-128582695,imgsize-43766.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/mukesh-ambani-announces-110bn-push-for-ai-sovereign-infra/articleshow/128582700.cms",
-    "time": "2026-02-19T23:39:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Babar Azam is nothing': Former Pakistan captain's brutal verdict",
     "desc": "Pakistan advances to the Super 8 stage of the T20 World Cup. Former player Mohammad Yousuf criticizes Babar Azam's batting technique. Yousuf suggests Azam's struggles have persisted for years. Pakistan now prepares for Super 8 matches against New Zealand, England, and Sri Lanka. The team's focus shifts to these upcoming crucial games.",
@@ -439,15 +466,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/odisha/spotlight-on-a-temporary-relief-from-bonded-labour/article70651811.ece",
     "time": "2026-02-19T22:53:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Terror, new challenges need all navies to join hands, says Rajnath",
-    "desc": "Defence Minister Rajnath Singh urged global cooperation to tackle evolving maritime risks at the opening of India's largest naval exercise, MILAN-2026. He highlighted the growing participation from 74 nations, emphasizing that no single navy can address challenges like surging commerce, resource competition, and climate change alone. Singh also invited ASEAN countries to leverage India's growing defence-industrial capabilities.",
-    "img": "https://static.toiimg.com/photo/msid-128578918,imgsize-283040.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/terror-new-challenges-need-all-navies-to-join-hands-says-rajnath/articleshow/128578492.cms",
-    "time": "2026-02-19T22:12:23.000Z"
   },
   {
     "cat": "Sports",
@@ -622,48 +640,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Shivam Dube emerges as India's silent power-hitter in T20 World Cup",
-    "desc": "Shivam Dube emerged as India's 'silent' yet explosive hero in the T20 World Cup, smashing a match-winning 66 off 31 balls against the Netherlands. His powerful hitting against spinners and improved game awareness, especially against short balls, have made him a vital power-hitter. Dube's journey from struggling for selection to a key player highlights his remarkable transformation.",
-    "img": "https://static.toiimg.com/photo/msid-128550179,imgsize-99816.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/shivam-dube-emerges-as-indias-silent-power-hitter-in-t20-world-cup/articleshow/128550191.cms",
-    "time": "2026-02-19T09:38:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Expectations weighing him down’: Gavaskar reveals how Abhishek can survive WC test",
-    "desc": "Cricket legend Sunil Gavaskar believes pressure is affecting India's young opening batter Abhishek Sharma's T20 World Cup form, advising him to build his innings patiently rather than forcing big shots early. He also praised Shivam Dube's explosive batting and highlighted Varun Chakravarthy's crucial role as a key bowler for India.",
-    "img": "https://static.toiimg.com/photo/msid-128549189,imgsize-212710.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/expectations-weighing-him-down-sunil-gavaskar-reveals-how-abhishek-sharma-can-survive-t20-world-cup-test/articleshow/128549186.cms",
-    "time": "2026-02-19T09:02:57.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "The ‘new’ Morkel India must take note of before Super Eight",
     "desc": "South Africa's specialist consultant Albie Morkel lightened the mood ahead of their UAE clash, joking about his brother Morne's role with India. Albie's focus on yorkers and building confidence has bolstered the Proteas' formidable pace attack, with bowlers like Lungi Ngidi and Marco Jansen excelling. He credits Stephen Fleming for shaping his player-centric coaching approach.",
     "img": "https://static.toiimg.com/photo/msid-128546686,imgsize-51140.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/brother-vs-brother-the-new-albie-morkel-india-must-take-note-of-before-t20-world-cup-super-eight/articleshow/128546437.cms",
     "time": "2026-02-19T08:05:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'India used to fear us': Pakistan's Amir, Ali blast Shadab for digs at seniors",
-    "desc": "Mohammad Amir said Pakistan no longer commands the fear it did in the 1990s, especially against India. Shahid Afridi called for dropping senior players, which angered Shadab Khan, who reminded critics they also never beat India in World Cups. Basit Ali criticised Shadab’s comments and questioned his performances, sharing an anecdote about taking away his phones on a past tour.",
-    "img": "https://static.toiimg.com/photo/msid-128545540,imgsize-64600.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-used-to-fear-us-pakistans-mohammad-amir-basit-ali-blast-shadab-khan-for-digs-at-seniors/articleshow/128543476.cms",
-    "time": "2026-02-19T07:33:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's worrying batting patterns and struggles vs off-spin",
-    "desc": "India have won all four group-stage matches at the T20 World Cup, but cracks have emerged, particularly against off-spin in the middle overs. Fixed batting roles and slow scoring by Suryakumar Yadav and Tilak Varma have hurt momentum, giving opponents a clear blueprint. Rivals like South Africa will target this weakness, and India must urgently address their middle-overs approach ahead of the Super Eights.",
-    "img": "https://static.toiimg.com/photo/msid-128540990,imgsize-179730.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-indias-worrying-batting-patterns-and-struggles-vs-off-spin/articleshow/128540004.cms",
-    "time": "2026-02-19T05:34:16.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/moscow-kyiv-meet-for-us-brokered-talks-after-fresh-attacks/article70643783.ece",
     "time": "2026-02-17T15:06:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anirudh Ravichander launches Albuquerque Records, announces 15-year anniversary concert tour",
+    "desc": "Music composer and performer Anirudh Ravichander has unveiled a new artist-owned music label, while also announcing a nationwide live tour to celebrate 15 years of his career, beginning with his first-ever Hyderabad concert in March 2026",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/cobbwg/article70642424.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/music/anirudh-ravichander-launches-albuquerque-records-announces-15-year-anniversary-concert-tour/article70642425.ece",
+    "time": "2026-02-17T10:24:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Francis Ford Coppola, Al Pacino and Robert De Niro lead tributes to Robert Duvall after actor’s death at 95",
+    "desc": "Hollywood paid tribute to legendary actor Robert Duvall after his death at 95, with longtime collaborators Francis Ford Coppola, Al Pacino and Robert De Niro remembering his immense talent and lasting influence on American cinema",
+    "img": "https://th-i.thgim.com/public/incoming/n96tvy/article70641769.ece/alternates/LANDSCAPE_1200/Obit_Robert_Duvall_78448.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/francis-ford-coppola-al-pacino-and-robert-de-niro-lead-tributes-to-robert-duvall-after-actors-death-at-95/article70641772.ece",
+    "time": "2026-02-17T06:07:34.000Z"
   }
 ];
