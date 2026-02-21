@@ -1,6 +1,33 @@
 const newsData_bn = [
   {
     "cat": "World",
+    "title": "ভারতের শুল্কও কি তবে কমে ১০% হল? মার্কিন সুপ্রিম কোর্টে তুলোধনার পরে নতুন ট্যারিফ ট্রাম্পের",
+    "desc": "বিশ্বের প্রায় সমস্ত দেশের উপরে ইচ্ছেমতো ট্যারিফ চাপানোর নির্দেশ খারিজ করে বেআইনি ঘোষণা করে দিয়েছে মার্কিন সুপ্রিম কোর্ট৷ তারপরেই নতুন ও পরিবর্তিত ১০ শতাংশ শুল্কের কথা ঘোষণা করেছে৷ যা এখন থেকেই প্রযোজ্য হবে৷ ভারতের সঙ্গে অন্যান্য বিষয় বাণিজ্য চুক্তির মতো করেই হবে বলে জানিয়েছেন ট্রাম্প৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/trump-11-2026-02-17c966c5f0a381604ff2fc0d3db0c20b-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/international/donald-trump-new-tariff-will-india-now-face-just-10-us-tariffs-white-house-official-signals-reset-sta-2550881.html",
+    "time": "2026-02-21T04:18:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ডিজিটাল রুপি ওয়ালেট কী ? মিলবে একাধিক বিশেষ সুবিধা, ব্যাঙ্কের মাধ্যমে কীভাবে এটি পাবেন তা জেনে নিন",
+    "desc": "ডিজিটাল রুপি ওয়ালেট হল ভারতের কেন্দ্রীয় ব্যাঙ্কের চালু করা ডিজিটাল মুদ্রা ব্যবস্থা। ব্যাঙ্কের মাধ্যমে এটি পাওয়া যায় এবং দ্রুত, নিরাপদ ও ঝামেলাহীন লেনদেনের সুবিধা দেয়। নগদের বিকল্প হিসেবে এটি ভবিষ্যতের পেমেন্ট ব্যবস্থাকে আরও সহজ করে তুলছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ITR-54-2026-02-8818fe534014eaae49a497c9bc7d923b-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/what-is-a-digital-rupee-wallet-know-the-key-benefits-and-how-to-get-it-through-your-bank-tc-dc-aa-2549344.html",
+    "time": "2026-02-21T03:36:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "২১, ২২, ২৩, ২৪ ফেব্রুয়ারি...! ভারী বৃষ্টি কাঁপাবে ৪ রাজ্য, বজ্রবিদ্যুৎ-ঝোড়ো হাওয়ার হুঁশিয়ারি ৬ রাজ্যে, কী হবে বাংলায়? আবহাওয়ার মেগা আপডেট দিয়ে দিল IMD",
+    "desc": "আবহাওয়ার বিরাট রদবদল শুরু হয়ে গিয়েছে দেশের একাধিক এলাকা জুড়ে। ক্রমশ খারাপের দিকে মোড় নিচ্ছে আবহাওয়া। ভারতীয় আবহাওয়া দফতর, আইএমডি আগামী ২১ এবং ২২ ফেব্রুয়ারি বেশ কয়েকটি রাজ্যে ভারী বৃষ্টিপাতের সতর্কতা জারি করেছে। কী হতে চলেছে আগামী ৪৮ ঘণ্টায়? দেখে নেওয়া যাক একনজরে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/sanj__thunder-rain-1-2026-02-933bdc910766e0e17e2e5eb7a9aae01f-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/cyclonic-circulation-imd-21-22-23-24-february-heavy-rain-alert-for-4-states-thunderstorm-gusty-wind-alert-for-6-states-due-to-several-system-in-bay-of-bengal-know-latest-west-bengal-weather-sanj-2550766.html",
+    "time": "2026-02-21T03:29:32.000Z"
+  },
+  {
+    "cat": "World",
     "title": "India-Bangladesh: তারেক-জমানায় পরিস্থিতি বদলের ইঙ্গিত,বাংলাদেশে সব রকম ভিসা পরিষেবা চালু করার প্রক্রিয়া শুরু করল ভারত",
     "desc": "বাংলাদেশের ছাত্রনেতা ওসমান হাদির মৃত্যুর পর থেকেই বাংলাদেশে নতুন করে অশান্তি শুরু হয়। গত বছরের শেষ দিকে সেই অশান্তির কারণে বাংলাদেশে থাকা বিভিন্ন ভিসাকেন্দ্র বন্ধ করে দেওয়ার সিদ্ধান্ত নেয় নয়াদিল্লি। ভারতে তাদের ভিসাকেন্দ্রে অনির্দিষ্ট কালের জন্য তালা ঝোলায় বাংলাদেশ-ও। তবে বাংলাদেশে নতুন সরকারের জমানায় পরিস্থিতি বদলের ইঙ্গিত মিলেছে",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/sasd-2026-02-be23c4d5355554b6f409d0c37e93bca8-3x2.jpg",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/bimbavati-devi-kalabati-dance-festival-2026-unveils-indian-classical-dance-gyan-manch-a-manipuri-nartanalaya-kolkata-presentation-tib-ws-l-2536542.html",
     "time": "2026-02-13T06:14:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "গ্রামে কোটি কোটি টাকার সম্পত্তি ! তাও আইনি ঝামেলায় কেন জড়িয়ে পড়লেন রাজপাল যাদব?",
-    "desc": "রাজপাল যাদবের ‘আতা পাতা লাপাতা’ ছবিটি নিয়ে এই বিতর্কের সূত্রপাত। ছবিটি তৈরির জন্য তিনি শাহজাহানপুরের মুরলি প্রজেক্টস থেকে প্রায় ৫ কোটি টাকা ঋণ নিয়েছিলেন। অভিযোগ এই যে রাজপাল সময়মতো ঋণ পরিশোধ করতে ব্যর্থ হন। যখন তিনি কোম্পানিকে চেক দেন, তখন সেগুলো বাউন্স হয়ে যায়।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Rajpal-Yadav-Property-2026-02-20d13ea735c936446af05c2fd1f3f05c-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/actor-rajpal-yadav-case-5-crore-debt-and-crores-of-assets-actor-rajpal-yadav-faces-moral-questions-ss-local18-2538234.html",
-    "time": "2026-02-13T05:32:08.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "জেসি স্ট্র্যাং কে? কানাডার সবচেয়ে ভয়াবহ স্কুলে গুলি চালানোর ঘটনায় ১৮ বছর বয়সী সন্দেহভাজনের পরিচয় জেনে নিন",
-    "desc": "ব্রিটিশ কলম্বিয়ার টাম্বলার রিজ সেকেন্ডারি স্কুলে ভয়াবহ গুলি চালানোর ঘটনায় কানাডায় শোকের ছায়া নেমে এসেছে। পুলিশ কর্মকর্তা এবং বিশেষায়িত দলগুলি ঘটনাস্থল থেকে ডিজিটাল রেকর্ড, সাক্ষীর বক্তব্য এবং প্রমাণ বিশ্লেষণ করছে। প্রাথমিকভাবে দ্বিতীয় ব্যক্তির থাকার সম্ভাবনা সামনে এসেছে, তবে কর্তৃপক্ষ অতিরিক্ত কোনও সন্দেহভাজন ব্যক্তির বিষয়টি নিশ্চিত করেনি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Who-Is-Jesse-Strang-2026-02-d343501fa09d538efa47c3de0c5b4bd9-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/international/who-was-jesse-strang-18-year-old-gunman-in-canadian-school-shooting-that-killed-10-story-of-jesse-strang-ss-aa-2536825.html",
-    "time": "2026-02-13T00:49:33.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "স্থায়ী নতুন সরকার গড়বে কে? গোটা বিশ্বের নজর বাংলাদেশের ভোট গণনায়, দেখুন ভিডিও",
-    "desc": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর বাংলাদেশে নতুন সরকার গড়বে কে? শেখ হাসিনা ক্ষমতাচ্যুত হওয়ার পর নতুন প্রধানমন্ত্রী হিসেবে কাকে পাবে বাংলাদেশ? এই সমস্ত প্রশ্নের উত্তর জানতেই গোটা বিশ্বের নজর এখন পদ্মা পাড়ের দেশে৷ বৃহস্পতিবার সকাল থেকে বাংলাদেশে সাধারণ নির্বাচন অনুষ্ঠিত হয়৷ বিকেলের পর থেকে শুরু হয় ভোট গণনা৷ গভীর রাত পর্যন্ত যা ইঙ্গিত তাতে বাংলাদেশে সরকার গঠনের ক্ষেত্রে অনেকটাই এগিয়ে গিয়েছে বিএনপি জোট৷ শুক্রবারই ভোট গণনার চূড়ান্ত ফল ঘোষণা হবে৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-12-at-16.42.47-2026-02-12029d12be92b3a41ac3424cb0e048b3-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/international/bangladesh-election-results-update-counting-going-bnp-way-ahead-of-jamaat-e-islam-dmg-2537756.html",
-    "time": "2026-02-12T21:55:38.000Z"
   }
 ];

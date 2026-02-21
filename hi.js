@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "What is Babar Azam's role in Pakistan's T20I team? Head coach Mike Hesson explains",
+    "desc": "Babar Azam's role in Pakistan's T20I team is being questioned more than ever, especially after he didn't get to bat for the first time in his career after being named in the playing XI. Against...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-is-babar-azam-s-role-in-pakistan-s-t20i-team-head-coach-mike-hesson-explains-2026-02-21-1031090",
+    "time": "2026-02-21T03:10:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh's assistant coach calls Asif Nazrul 'liar' over T20 World Cup 2026 boycott U-turn",
+    "desc": "Bangladesh's senior assistant coach Mohammad Salahuddin has come down hard at the former sports advisor Asif Nazrul for changing his stance on the team's participation in the T20 World Cup 2026. He called Nazrul a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-s-assistant-coach-calls-asif-nazrul-liar-over-t20-world-cup-2026-boycott-u-turn-2026-02-21-1031088",
+    "time": "2026-02-21T02:44:41.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'India will be under a lot of pressure': South Africa head coach starts mind games ahead T20 WC Super 8 clash",
     "desc": "South Africa head coach Shukri Conrad feels India will be under a lot of pressure in their opening Super 8 clash at the Narendra Modi Stadium in Ahmedabad on Sunday (February 22). He feels that...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mohammad-amir-s-shocking-prediction-for-t20-world-cup-2026-india-won-t-qualify-for-semifinals-2026-02-20-1031037",
     "time": "2026-02-20T11:29:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aiden Markram prepares to bowl vs Abhishek Sharma in powerplay, South Africa train accordingly",
-    "desc": "Abhishek Sharma’s troubles against spin in the powerplay have become a growing concern in the T20 World Cup 2026. The southpaw has registered three consecutive ducks, two of them falling to spinners. Pakistan’s Salman Agha...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/aiden-markram-prepares-to-bowl-vs-abhishek-sharma-in-powerplay-south-africa-train-accordingly-2026-02-20-1031023",
-    "time": "2026-02-20T09:58:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will surface at Pallekele International Cricket Stadium play in T20 World Cup?",
-    "desc": "Australia will host Oman in their final T20 World Cup 2026 group stage match at the Pallekele International Cricket Stadium. With back-to-back two defeats to Zimbabwe and Sri Lanka, the Mitchell Marsh-led side is already...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/aus-vs-omn-pitch-report-how-will-surface-at-pallekele-international-cricket-stadium-play-in-t20-world-cup-2026-02-20-1031018",
-    "time": "2026-02-20T09:05:27.000Z"
   }
 ];

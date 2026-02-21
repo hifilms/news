@@ -1,6 +1,222 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Babloo Mukherjee talks about his failed marriage, falling out with his children",
+    "desc": "Veteran actor Babloo Mukherjee candidly discussed his past, including a marriage at 17 and his subsequent divorce. He revealed a strained relationship with his children, stemming from his ex-wife's alleged misrepresentation of past events. Mukherjee also touched upon his second marriage, which has been ongoing since 1992.",
+    "img": "https://static.toiimg.com/photo/msid-128632441,imgsize-61706.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/married-twice-babloo-mukherjee-opens-up-about-his-divorce-and-kids-custody-my-mistake-is-basically-i-could-not-give-time/articleshow/128632441.cms",
+    "time": "2026-02-21T03:46:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I love my man': Mahieka Sharma's romantic reply to Hardik Pandya goes viral",
+    "desc": "Cricketer Hardik Pandya celebrated Mahieka Sharma's 25th birthday with a heartfelt Instagram post featuring a romantic video. Sharma reciprocated the affection, calling Pandya her \"best gift.\" The couple, who confirmed their relationship in October 2025, has been seen together publicly since. Pandya was previously married to Natasa Stankovic.",
+    "img": "https://static.toiimg.com/photo/msid-128632404,imgsize-30182.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-love-my-man-mahieka-sharmas-romantic-reply-to-hardik-pandya-goes-viral/articleshow/128632359.cms",
+    "time": "2026-02-21T03:40:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Brad Pitt and Ines de Ramon make a stylish Greece appearance",
+    "desc": "Hollywood star Brad Pitt and Ines de Ramon have been spotted vacationing in Greece, blending personal time with Pitt's film commitments. The couple arrived on the island of Hydra, where Pitt is set to film 'The Riders'. This public appearance marks a sweet moment for fans, showcasing their growing bond after a period of lower profile.",
+    "img": "https://static.toiimg.com/photo/msid-128632251,imgsize-895241.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitt-and-ines-de-ramon-head-for-a-small-getaway-to-greece-as-the-riders-shoots-sets-in-hydra/articleshow/128632215.cms",
+    "time": "2026-02-21T03:33:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Conan O’Brien opens up about Rob Reiner’s tragic demise",
+    "desc": "Conan O'Brien has finally addressed the shocking and sorrowful events surrounding the deaths of Rob and Michele Reiner, who were discovered murdered shortly after attending his festive gathering. Their son, Nick, has been apprehended and charged in connection with the crime.",
+    "img": "https://static.toiimg.com/photo/msid-128632032,imgsize-36178.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/still-hard-for-me-to-comprehend-conan-obrien-breaks-his-silence-on-rob-reiners-killing-after-holiday-party/articleshow/128632023.cms",
+    "time": "2026-02-21T03:22:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Liza Minnelli accuses Oscars of ‘forcing’ her to use a wheelchair",
+    "desc": "Liza Minnelli unveiled a poignant memory from the 2022 Oscars, where she was unexpectedly placed in a wheelchair for her presentation with Lady Gaga. Despite her reservations, tied to the perceptions of age and safety, she felt the pressure to comply. This led to difficulties reading the teleprompter, causing her to falter in her speech.",
+    "img": "https://static.toiimg.com/photo/msid-128632002,imgsize-976481.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/liza-minnelli-accuses-the-oscars-of-forcing-her-to-use-a-wheelchair-during-her-2022-appearance-i-was-inexplicably-ordered/articleshow/128632002.cms",
+    "time": "2026-02-21T03:21:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Assault video reunites missing woman with kin",
+    "desc": "A viral video from Indore showed a woman attacked on child-lifting suspicion. This incident led to a surprising reunion. Her daughter, seeing the clip, traveled to Indore. She found her mother, Rekha Devi, who had been missing for over a year and a half. Rekha Devi had gone missing from Meerut after family tragedies.",
+    "img": "https://static.toiimg.com/photo/msid-128631987,imgsize-563637.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/assault-video-reunites-missing-woman-with-kin/articleshow/128631968.cms",
+    "time": "2026-02-21T03:20:01.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.K. government considers removing former prince Andrew from line of succession",
+    "desc": "Amid a torrent of often tawdry revelations from the files of late U.S. sex offender Jeffrey Epstein, King Charles III has already stripped his younger brother of all his titles and ousted him from his home in Windsor",
+    "img": "https://th-i.thgim.com/public/incoming/sdo04c/article70657746.ece/alternates/LANDSCAPE_1200/2026-02-20T145443Z_644031623_RC27PJAEFU7P_RTRMADP_3_USA-EPSTEIN-BRITAIN-ANDREW-ARREST.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/uk-government-considers-removing-former-prince-andrew-from-line-of-succession-amid-epstein-row/article70657745.ece",
+    "time": "2026-02-21T03:18:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "After poll loss, candidates knock on voters’ doors to ‘reclaim’ cash, gifts",
+    "desc": "Defeated candidates in Telangana are reportedly demanding cash and gifts back from voters after municipal election results. Viral videos show confrontations as residents refuse to return items distributed during campaigns. Incidents have been reported across multiple districts, highlighting post-poll tensions and alleged vote-buying practices.",
+    "img": "https://static.toiimg.com/photo/msid-128631883,imgsize-981219.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/after-poll-loss-candidates-knock-on-voters-doors-to-reclaim-cash-gifts/articleshow/128631874.cms",
+    "time": "2026-02-21T03:13:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka brings back her ‘Gunday’ look for ‘The Bluff’ promo",
+    "desc": "Priyanka Chopra is making waves with her fashion choices while promoting her Hollywood production, 'The Bluff'. Channeling a pirate vibe, she's donned several striking outfits, including one that evokes her memorable look from the Bollywood film 'Gunday'. Fans are buzzing about her stylish return to the promotional circuit ahead of the film's upcoming OTT release.",
+    "img": "https://static.toiimg.com/photo/msid-128630840,imgsize-38856.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-brings-back-her-gunday-look-for-the-bluff-promotions-pics/articleshow/128630832.cms",
+    "time": "2026-02-21T03:10:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Five get life sentence in Kerala’s ‘moral policing murder’ of 2016",
+    "desc": "A Kerala court has handed life sentences to five men for the brutal 2016 murder of a 42-year-old man in a moral policing incident. The judge described the lynching as akin to terrorism. The convicts, found guilty of murder and rioting, were also given additional rigorous imprisonment and fines. Crucial evidence included visuals of the assault recorded by some accused.",
+    "img": "https://static.toiimg.com/photo/msid-128631805,imgsize-533584.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/five-get-life-sentence-in-keralas-moral-policing-murder-of-2016/articleshow/128631819.cms",
+    "time": "2026-02-21T03:08:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chaudhary",
+    "desc": "Electoral reform is needed, and simultaneous polls is an issue of national interest, says the chairperson of the Joint Parliamentary Committee examining the Bill on concurrent elections; political ideologies, the BJP MP adds, will have to be set aside for it, and it is not a reform that the BJP alone is pushing for",
+    "img": "https://th-i.thgim.com/public/incoming/4j4kt7/article70656506.ece/alternates/LANDSCAPE_1200/HINDU%20MIND%20PP%20CHAUDHARY_18_02_13.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/simultaneous-elections-are-essential-to-become-a-developed-nation-by-2047-chaudhary/article70656492.ece",
+    "time": "2026-02-21T03:05:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What happens if rain washes out Colombo clash?",
+    "desc": "Pakistan and New Zealand clash in a pivotal T20 World Cup Super 8 match at Colombo. With a near-even head-to-head record, this encounter promises high drama. Both teams have shown inconsistent form, making this fixture crucial for semi-final aspirations. Rain threatens to disrupt the contest, with no reserve day available.",
+    "img": "https://static.toiimg.com/photo/msid-128631735,imgsize-98128.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pak-vs-nz-super-8s-weather-forecast-what-happens-if-rain-washes-out-colombo-clash/articleshow/128631671.cms",
+    "time": "2026-02-21T03:03:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rahul Gandhi records court statement",
+    "desc": "Congress leader Rahul Gandhi appeared in a Sultanpur court Friday to record his statement in a 2018 defamation case concerning remarks against Union Home Minister Amit Shah. Gandhi asserted the allegations were politically motivated and aimed at damaging his and his party's image. He denied using derogatory language, calling the complaint a distortion.",
+    "img": "https://static.toiimg.com/photo/msid-128631722,imgsize-651408.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/defamation-case-rahul-gandhi-records-court-statement/articleshow/128631727.cms",
+    "time": "2026-02-21T03:03:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "‘Ridiculous opinion’, 'disgrace to nation': What Trump said after US SC verdict on tariffs",
+    "desc": "President Trump fiercely criticized the Supreme Court after it struck down his global tariffs, deeming the decision \"ridiculous.\" He vowed to pursue alternative measures to impose new duties, despite the ruling limiting his executive authority. The decision injects uncertainty into global trade as Trump signals continued use of tariffs.",
+    "img": "https://static.toiimg.com/photo/msid-128631658,imgsize-780403.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/ridiculous-opinion-disgrace-to-nation-what-trump-said-after-us-sc-verdict-on-tariffs/articleshow/128630539.cms",
+    "time": "2026-02-21T03:01:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vedan to marry longtime partner Navami Latha",
+    "desc": "Malayalam rapper Vedan is set to marry writer Navami Latha on February 24th in Thrissur. The couple, together for years, initially planned a private registered ceremony. However, a public announcement by politician M.V. Govindan at a Kannur event shifted their plans. Vedan, known for his socially conscious lyrics, recently won a State Film Award for his work in 'Manjummal Boys'.",
+    "img": "https://static.toiimg.com/photo/msid-128631377,imgsize-30580.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/music/vedan-wedding-announced-rapper-to-marry-longtime-partner-navami-latha/articleshow/128631377.cms",
+    "time": "2026-02-21T02:51:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We failed': Australia star's painful dressing room confession",
+    "desc": "Despite a dominant nine-wicket victory over Oman and Adam Zampa's four-wicket haul, Australia's early exit from the ICC Men's T20 World Cup 2026 cast a shadow. Captain Mitchell Marsh also contributed a quickfire half-century, but individual performances offered little solace as the team expressed deep disappointment with their tournament's premature conclusion.",
+    "img": "https://static.toiimg.com/photo/msid-128631233,imgsize-79604.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-failed-australia-stars-painful-dressing-room-confession-after-t20-world-cup-exit/articleshow/128631242.cms",
+    "time": "2026-02-21T02:40:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Why US Supreme Court struck down Donald Trump's trade tariffs; explained in 10 points",
+    "desc": "The Supreme Court ruled that President Trump lacked the authority under the International Emergency Economic Powers Act (IEEPA) to impose broad tariffs. The 6-3 decision found the law does not explicitly grant power for tariffs, a move Trump had used extensively. This ruling could lead to significant refunds and ongoing disputes over presidential tariff powers.",
+    "img": "https://static.toiimg.com/photo/msid-128631165,imgsize-1137438.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/why-us-supreme-court-struck-down-donald-trumps-trade-tariffs-explained-in-10-points/articleshow/128630959.cms",
+    "time": "2026-02-21T02:36:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Johnny Depp opens up about giving shelter to Eric Dance",
+    "desc": "Johnny Depp offered a significant gesture of friendship to Eric Dane during his battle with ALS, providing him with rent-free accommodation in one of his Los Angeles homes. This support eased financial burdens for Dane as his health declined, allowing him to focus on his fight against the disease and his advocacy efforts.",
+    "img": "https://static.toiimg.com/photo/msid-128630735,imgsize-736683.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/johnny-depps-quiet-act-of-friendship-how-he-gave-eric-dance-a-home-and-eased-his-als-burden-before-passing/articleshow/128630760.cms",
+    "time": "2026-02-21T02:13:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Theatre – The Myth of Reality' OTT release: Where to watch",
+    "desc": "The Myth of Reality,' lauded at Cannes, is now streaming on Manorama Max. The movie explores a mother-daughter duo whose secluded life is disrupted by a viral health incident, questioning digital reality. It earned Rima Kallingal a Best Actress award and highlights cultural superstitions, promising a unique cinematic journey.",
+    "img": "https://static.toiimg.com/photo/msid-128630507,imgsize-48704.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/theatre-the-myth-of-reality-ott-release-when-and-where-to-watch-rima-kallingals-award-winner/articleshow/128630507.cms",
+    "time": "2026-02-21T02:01:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Timothée apologises to Kylie for 'grumpy' mood on birthday",
+    "desc": "Timothée Chalamet hit a sour note on his 30th birthday, feeling rather cantankerous about a surprise drive near Los Angeles. His spirits, however, took a soaring turn when Kylie Jenner surprised him with a private IMAX screening of 'Interstellar,' a film he adores from 2014.",
+    "img": "https://static.toiimg.com/photo/msid-128630450,imgsize-817681.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/timothe-chalamet-apologises-to-kylie-jenner-for-his-grumpy-birthday-mood-im-sorry-/articleshow/128630450.cms",
+    "time": "2026-02-21T01:57:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All we know about the ‘Venom’ animated movie",
+    "desc": "Sony is venturing into animation with a new 'Venom' movie, helmed by directors Zach Lipovsky and Adam B. Stein. While details are scarce, a writers' room is active, hinting at a fresh take on the antihero. Tom Hardy is expected to be involved, potentially reprising his role.",
+    "img": "https://static.toiimg.com/photo/msid-128630290,imgsize-68342.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/new-venom-animated-movie-in-the-works-with-final-destination-filmmakers-what-we-know-so-far/articleshow/128630278.cms",
+    "time": "2026-02-21T01:46:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Assi' begins box office run with Rs 1 crore collection",
+    "desc": "In a gripping courtroom showdown, Taapsee Pannu leads 'Assi', directed by Anubhav Sinha, which launched on February 20 with a first-day earnings of Rs 1 crore net. While fans laud Pannu’s portrayal of a resolute lawyer, the film's 8.",
+    "img": "https://static.toiimg.com/photo/msid-128630171,imgsize-23062.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/assi-box-office-collection-day-1-taapsee-pannu-starrer-off-to-a-slow-start-opens-to-rs-1-crore/articleshow/128630162.cms",
+    "time": "2026-02-21T01:44:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "This article contains mentions of death; the reader’s discretion is advised.",
+    "desc": "In a heartfelt narrative, actor Babloo Mukherjee opens up about the devastating loss of his father, the beloved Keshto Mukherjee, who tragically passed away in a road accident. He also reflects on the untimely departure of his younger brother Ranjit, who was just 14 when a bike accident claimed his life.",
+    "img": "https://static.toiimg.com/photo/msid-128630094,imgsize-46260.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/daddy-ne-halka-sa-smile-diya-aur-phir-babloo-mukherjee-speaks-about-his-father-keshto-mukherjee-and-brothers-demise/articleshow/128630094.cms",
+    "time": "2026-02-21T01:37:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meena slams false second marriage reports",
+    "desc": "Actress Meena has strongly refuted persistent rumours of a second marriage, expressing deep hurt over the baseless claims that impact her daughter. She criticizes the entitlement of those discussing women's personal lives in entertainment and warns that karma will address those spreading lies. Meena insists her personal decisions are hers alone.",
+    "img": "https://static.toiimg.com/photo/msid-128630108,imgsize-37974.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/people-forget-i-have-a-daughter-drishyam-3-actress-meena-slams-false-second-marriage-reports/articleshow/128630108.cms",
+    "time": "2026-02-21T01:36:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Patrick Dempsey on Eric Dane’s demise",
     "desc": "Patrick Dempsey shared a touching tribute to his late 'Grey's Anatomy' co-star Eric Dane, revealing they last texted just a week before his passing from ALS complications. Dempsey fondly recalled their instant bond and mutual respect on set, highlighting Dane's great sense of humor and joy to work with.",
     "img": "https://static.toiimg.com/photo/msid-128629840,imgsize-653735.cms",
@@ -21,7 +237,7 @@ const newsData_en = [
     "cat": "Entertainment",
     "title": "Shahid Kapoor's O' Romeo crosses Rs 75 crore worldwide",
     "desc": "Shahid Kapoor's 'O Romeo' experienced a slow start to its second week, earning an estimated Rs 2.25 crore on its eighth day, its lowest collection yet. Despite a strong Valentine's Day opening, the film's numbers have dipped. It has garnered Rs 49.35 crore net domestically and Rs 75.",
-    "img": "https://static.toiimg.com/photo/msid-128629360,imgsize-39060.cms",
+    "img": "https://static.toiimg.com/photo/msid-128631608,imgsize-23226.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/o-romeo-box-office-collection-day-8-shahid-kapoor-starrer-begins-second-weekend-by-crossing-rs-75-crore-worldwide/articleshow/128628775.cms",
     "time": "2026-02-21T00:47:39.000Z"
@@ -54,15 +270,6 @@ const newsData_en = [
     "time": "2026-02-21T00:25:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Ex-UP junior engineer, his wife get death for sexually abusing 33 boys, selling their videos",
-    "desc": "A Pocso court in UP's Banda has sentenced a former government engineer and his wife to death for sexually abusing 33 boys over a decade and selling videos of their torture on the dark web. The couple lured children with games and gifts, inflicting severe physical and psychological trauma.",
-    "img": "https://static.toiimg.com/photo/msid-128628896,imgsize-19684.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ex-up-junior-engineer-his-wife-get-death-for-sexually-abusing-33-boys-selling-their-videos/articleshow/128627915.cms",
-    "time": "2026-02-21T00:19:08.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Do Deewane Seher Mein' BO day 1: Mints Rs 1.25 crores",
     "desc": "Mrunal Thakur and Siddhant Chaturvedi's 'Do Deewane Seher Mein' opened with a modest ₹1.25 crore India net, indicating a slow start for the slice-of-life romance. While the film's portrayal of millennials navigating self-acceptance in Mumbai and its poetic cinematography have been noted, its success hinges on strong weekend word-of-mouth to overcome the initial quiet reception.",
@@ -90,15 +297,6 @@ const newsData_en = [
     "time": "2026-02-20T23:30:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Priyanka's fans spot Nick's mangalsutra bracelet",
-    "desc": "While promoting his wife, actor Priyanka Chopra's upcoming Hollywood film 'The Bluff', Nick was spotted wearing PeeCee's mangalsutra as a bracelet. The subtle nod to their marriage caught the attention of fans on social media, with many praising the singer-actor for displaying his unwavering love and respect for his wife's traditions even years after their 2018 wedding.",
-    "img": "https://static.toiimg.com/photo/msid-128628065,imgsize-66812.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nick-jonas-wears-mangalsutra-bracelet-in-video-priyanka-chopra-fans-say-jiju-is-the-best-watch/articleshow/128627876.cms",
-    "time": "2026-02-20T23:22:12.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Maharashtra’s Ladki Bahin Yojana: Waiting for ₹1,500",
     "desc": "The Mukhyamantri Majhi Ladki Bahin Yojana was rolled out ahead of the Maharashtra Assembly elections in mid-2024. It assured women between the ages of 21 and 65 a monthly stipend of ₹1,500, and the first tranche of payouts were made. After the Mahayuti government returned to power, it introduced mandatory e-KYC verification, which led to a reduction in the number of eligible beneficiaries, reports Vinaya Deshpande Pandit",
@@ -106,51 +304,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/maharashtra/maharashtras-ladki-bahin-yojana-waiting-for-1500/article70657324.ece",
     "time": "2026-02-20T22:53:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Did Zendaya and Tom Holland get MARRIED?",
-    "desc": "Hollywood's beloved couple, Zendaya and Tom Holland, are fueling wedding rumors after the actress was spotted sporting a simple gold band, distinct from her engagement ring. This sighting follows their discreet engagement announcement last year. Fans are buzzing with speculation about a secret ceremony, mirroring their private proposal.",
-    "img": "https://static.toiimg.com/photo/msid-128626832,imgsize-22034.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zendaya-secretly-married-tom-holland-gold-band-on-actress-finger-sparks-rumours/articleshow/128624891.cms",
-    "time": "2026-02-20T22:30:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC deploys judicial officers in Bengal for SIR hearings",
-    "desc": "The Supreme Court has taken an unprecedented step deploying judicial officers in West Bengal. This move aims to expedite the voter list revision process. The court emphasized the Chief Minister's awareness of consequences if the exercise is not completed. This judicial intervention stems from a trust deficit between the Election Commission and the state government.",
-    "img": "https://static.toiimg.com/photo/msid-128626649,imgsize-68214.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sc-deploys-judicial-officers-in-bengal-for-sir-hearings/articleshow/128626622.cms",
-    "time": "2026-02-20T22:28:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "MHA forms 2nd empowered committee for Bengal to fast-track requests under CAA",
-    "desc": "The Union home ministry has formed a second empowered committee in West Bengal to expedite citizenship applications under the CAA. This move comes as the volume of applications has surged, particularly from the Matua community. The new committee, headed by the deputy registrar general, aims to share the workload and reduce processing times for eligible immigrants.",
-    "img": "https://static.toiimg.com/photo/msid-128625912,imgsize-26812.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mha-forms-2nd-empowered-committee-for-bengal-to-fast-track-requests-under-caa/articleshow/128625621.cms",
-    "time": "2026-02-20T22:17:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Taapsee says she is open to friendship with Kangana",
-    "desc": "The public feud between Kangana Ranaut and Taapsee Pannu has stretched over several years, beginning around 2019 with sharp social media exchanges and personal remarks. From being called a “sasti (cheap) copy” by Kangana’s sister Rangoli Chandel to being labelled a “B-grade actress” and “she-man,” the back-and-forth became a prominent talking point amid the nepotism debate. In a recent interview, Taapsee revisited the controversy, insisting she never initiated a fight and expressing openness to moving forward.",
-    "img": "https://static.toiimg.com/photo/msid-128624894,imgsize-102008.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/taapsee-pannu-says-she-is-open-to-friendship-with-kangana-ranaut-amid-long-standing-feud-someone-must-have-benefited-in-some-way/articleshow/128624781.cms",
-    "time": "2026-02-20T22:01:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Relying on decades-old rulings, SC acquits stepdad of 6-yr-old's murder",
-    "desc": "A six-year-old girl's murder case saw her stepfather acquitted by the Supreme Court. The court found the evidence weak, citing a botched investigation. The stepfather was the last person seen with the child. His statement leading to the discovery of her remains was deemed inadmissible. The court highlighted the lack of corpus delicti and specified time of death.",
-    "img": "https://static.toiimg.com/photo/msid-128624811,imgsize-365742.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/relying-on-decades-old-rulings-sc-acquits-stepdad-of-6-yr-olds-murder/articleshow/128624819.cms",
-    "time": "2026-02-20T21:55:15.000Z"
   },
   {
     "cat": "Business",
@@ -162,24 +315,6 @@ const newsData_en = [
     "time": "2026-02-20T21:37:31.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Eric Dane's 'last words' revealed in tear-jerking video",
-    "desc": "Hollywood star Eric Dane, celebrated for his roles in 'Grey's Anatomy' and 'Euphoria', has passed away at 53 after a battle with ALS. In a posthumous interview, Dane shared poignant life lessons with his daughters, Billie and Georgia, urging them to live in the present, find passion, choose friends wisely, and fight with dignity.",
-    "img": "https://static.toiimg.com/photo/msid-128623899,imgsize-11452.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/eric-danes-last-words-to-daughters-and-wife-revealed-in-tear-jerking-video-you-can-face-the-end-of-your-days-and-hell-with-dignity-watch/articleshow/128623827.cms",
-    "time": "2026-02-20T21:35:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘That could’ve been me’: Gordon Ramsay on brother’s addiction",
-    "desc": "With six episodes released, Being Gordon Ramsay offers an unfiltered portrait of the celebrity chef as he launches five restaurants in London’s 22 Bishopsgate. Beyond business, the series explores his turbulent childhood, violent alcoholic father and enduring guilt over his brother’s heroin addiction, revealing how proximity to failure continues to fuel his relentless drive.",
-    "img": "https://static.toiimg.com/photo/msid-128624123,imgsize-586015.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/etimes/trending/that-couldve-been-me-gordon-ramsay-breaks-down-over-brothers-heroin-addiction-in-raw-new-netflix-series/articleshow/128621314.cms",
-    "time": "2026-02-20T21:24:18.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India committed to not buying Russian oil",
     "desc": "US Ambassador Sergio Gor stated India committed to not buying Russian oil as President Trump seeks to end the Russia-Ukraine war. Gor also revealed active negotiations for India to procure Venezuelan oil, with an interim trade deal imminent. India's foreign ministry emphasized its energy policy is driven by national interest.",
@@ -187,60 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/us-envoy-sergio-gor-india-committed-to-not-buying-russian-oil/articleshow/128624098.cms",
     "time": "2026-02-20T21:16:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'I almost forget that I am married'",
-    "desc": "Taapsee Pannu recently opened up about her marriage with former badminton player Mathias Boe, sharing candid insights into possessiveness, cultural differences and their long engagement. In a new interview, she reflected on past relationships, her expectations from a partner and why they finally decided to tie the knot after nine years of being engaged.",
-    "img": "https://static.toiimg.com/photo/msid-128623966,imgsize-30556.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/taapsee-pannu-says-husband-mathias-boe-never-lets-her-feel-the-burden-of-a-relationship-i-almost-forget-that-i-am-married/articleshow/128623927.cms",
-    "time": "2026-02-20T21:07:58.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.K. government considers removing former prince Andrew from line of succession amid Epstein row",
-    "desc": "Amid a torrent of often tawdry revelations from the files of late U.S. sex offender Jeffrey Epstein, King Charles III has already stripped his younger brother of all his titles and ousted him from his home in Windsor",
-    "img": "https://th-i.thgim.com/public/incoming/sdo04c/article70657746.ece/alternates/LANDSCAPE_1200/2026-02-20T145443Z_644031623_RC27PJAEFU7P_RTRMADP_3_USA-EPSTEIN-BRITAIN-ANDREW-ARREST.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/uk-government-considers-removing-former-prince-andrew-from-line-of-succession-amid-epstein-row/article70657745.ece",
-    "time": "2026-02-20T20:29:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bianca Dias dies at 20 days after cosmetic surgery",
-    "desc": "Brazilian content creator Bianca Dias passed away on Thursday, February 19, at the age of 20, leaving her family, friends and followers in shock. According to People magazine, her death comes just days after she reportedly underwent cosmetic surgery, as shared by those close to her.",
-    "img": "https://static.toiimg.com/photo/msid-128622988,imgsize-58456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bianca-dias-dies-at-20-days-after-cosmetic-surgery-family-and-friends-mourn-brazilian-influencers-demise/articleshow/128622947.cms",
-    "time": "2026-02-20T20:03:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "After Anoushka’s denial, Rishab shares proof of guru-shishya bond",
-    "desc": "Musician Anoushka Shankar recently denied claims that sitarist Rishab Rikhiram Sharma was a disciple of her father, the legendary Pandit Ravi Shankar. While praising his talent, she maintained that her father was never formally his guru. Now, Rishab has responded with an official statement and shared photographs with the late maestro, asserting that he was indeed accepted as a disciple through a traditional Ganda Bandhan ceremony.",
-    "img": "https://static.toiimg.com/photo/msid-128622722,imgsize-54888.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-anoushka-shankars-denial-rishab-rikhiram-sharma-shares-proof-of-guru-shishya-bond-with-pandit-ravi-shankar/articleshow/128622685.cms",
-    "time": "2026-02-20T19:48:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "US-sanctioned Iran-linked oil tanker spent 8 days in Pak maritime boundary: FIR",
-    "desc": "An Iran-linked oil tanker, seized by the Indian Coast Guard, spent days in Pakistan's maritime boundary with its tracking systems off. The vessel, along with two others, was apprehended for alleged illegal oil smuggling and forgery. Investigations revealed ship-to-ship transfers of fuel and bitumen without informing authorities.",
-    "img": "https://static.toiimg.com/photo/msid-128621194,imgsize-30552.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/us-sanctioned-iran-linked-oil-tanker-spent-8-days-in-pak-maritime-boundary-fir/articleshow/128621215.cms",
-    "time": "2026-02-20T19:20:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Army chief charts ways to expand defence cooperation during Australia visit",
-    "desc": "Army chief General Upendra Dwivedi's Australia visit from Feb 16-19 focused on enhancing army-to-army cooperation. Discussions with senior defence leaders reviewed joint exercises, professional education exchanges, and interoperability, deepening strategic alignment. The visit also emphasized strengthening the bilateral Army Exercise AUSTRAHIND.",
-    "img": "https://static.toiimg.com/photo/msid-128621300,imgsize-82896.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/army-chief-charts-ways-to-expand-defence-cooperation-during-australia-visit/articleshow/128621302.cms",
-    "time": "2026-02-20T19:20:09.000Z"
   },
   {
     "cat": "Sports",
@@ -252,42 +333,6 @@ const newsData_en = [
     "time": "2026-02-20T18:36:38.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'I don’t think I ever wanted to leave Bollywood'",
-    "desc": "Priyanka Chopra’s journey from being one of Bollywood’s biggest stars to carving a space for herself in Hollywood has often sparked conversation online. Now, the global actor has opened up about what led to that transition and how her decision was shaped by the search for more fulfilling opportunities.",
-    "img": "https://static.toiimg.com/photo/msid-128620276,imgsize-20784.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-says-i-dont-think-i-ever-wanted-to-leave-bollywood-i-felt-limited-for-many-reasons-in-hindi-films/articleshow/128620147.cms",
-    "time": "2026-02-20T18:23:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Arms, ammo recovered near LoC in J&amp;K’s Rajouri",
-    "desc": "Army and Rajouri Police recovered a cache of arms and ammunition, including an AK-47, during a search operation in Sunderbani sector. The recovery followed a foiled infiltration bid, with heavily bloodstained tracks suggesting injured terrorists. Operations continue with heightened vigilance.",
-    "img": "https://static.toiimg.com/photo/msid-128619456,imgsize-1046181.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/operation-jwala-arms-ammo-recovered-near-loc-in-jks-rajouri/articleshow/128619354.cms",
-    "time": "2026-02-20T18:00:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Omar defies party &amp; rivals to back Ramadan charity control order",
-    "desc": "Speaking in the assembly, Omar urged legislators “not to politicise every issue” and clarified that the Feb 18 order was issued by the Kishtwar deputy commissioner (DC) after consulting religious leaders as a safety measure to check donation deceptions. “We shouldn’t mix religion with politics. Some matters require dialogue and understanding at the local level rather than political confrontation,” Omar said.",
-    "img": "https://static.toiimg.com/photo/msid-128619402,imgsize-63446.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/omar-defies-party-rivals-to-back-ramadan-charity-control-order/articleshow/128619434.cms",
-    "time": "2026-02-20T17:59:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AI in diagnostics, faster hiring must shape AIIMS expansion: Nadda",
-    "desc": "Union Health Minister Jagat Prakash Nadda emphasized the need for artificial intelligence in diagnostics and faster faculty recruitment as India's AIIMS network expands. He urged institutes to integrate AI into clinical decision-making and institutionalize telemedicine, while also calling for accelerated, quality-assured hiring to address significant staffing gaps across the institutions.",
-    "img": "https://static.toiimg.com/photo/msid-128618611,imgsize-973350.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ai-in-diagnostics-faster-hiring-must-shape-aiims-expansion-nadda/articleshow/128618580.cms",
-    "time": "2026-02-20T17:36:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "how Associate teams have put the world in World Cup",
     "desc": "In addition to making the tournament more global, USA, Italy, Nepal, Scotland, Canada, the Netherlands, Namibia, Oman and UAE have produced competitive, sometimes magical, cricket at T20’s showpiece event. It is necessary to lend an ear to their challenges and address them to ensure that the momentum Associate cricket has built up doesn’t dissipate",
@@ -295,15 +340,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/underdog-stories-how-associate-teams-have-put-the-world-in-world-cup/article70656156.ece",
     "time": "2026-02-20T17:14:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sudip Sharma has ‘no interest’ in working with SRK, Big B",
-    "desc": "Bollywood megastars Shah Rukh Khan and Amitabh Bachchan represent a scale of fame most filmmakers aspire to collaborate with at least once in their careers. However, Sudip Sharma — the acclaimed writer and creator behind gritty dramas like Paatal Lok and Kohrra — has made it clear that chasing star power has never been part of his ambition.",
-    "img": "https://static.toiimg.com/photo/msid-128617726,imgsize-57104.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sudip-sharma-says-he-has-no-interest-in-working-with-shah-rukh-khan-amitabh-bachchan-i-came-here-to-tell-my-own-story/articleshow/128617685.cms",
-    "time": "2026-02-20T17:09:20.000Z"
   },
   {
     "cat": "World",
@@ -315,15 +351,6 @@ const newsData_en = [
     "time": "2026-02-20T16:56:38.000Z"
   },
   {
-    "cat": "Business",
-    "title": "US businesses fret as court ruling 'worryingly silent' over refunds",
-    "desc": "US businesses have won a significant victory as the Supreme Court struck down President Trump's emergency tariffs. While companies anticipate billions in refunds, the process is expected to be lengthy and complex. The ruling, impacting over $175 billion in collected tariffs, has boosted markets, though uncertainty about future tariff policies remains.",
-    "img": "https://static.toiimg.com/photo/msid-128617263,imgsize-1723645.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/trump-tariffs-trashed-us-businesses-fret-as-court-ruling-worryingly-silent-over-refunds/articleshow/128617060.cms",
-    "time": "2026-02-20T16:53:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Onus on Pakistan spinners and New Zealand batters as Super Eight begins",
     "desc": "Black Caps openers Allen and Seifert will be hoping to lay a solid foundation for the middle-order on a slow surface at the Premadasa; the threat of rain may tempt the Asian side to include pacers Afridi and Salman in the playing XI",
@@ -331,15 +358,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-onus-on-pakistan-spinners-and-new-zealand-batters-as-super-eight-begins/article70657294.ece",
     "time": "2026-02-20T16:51:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "R Madhavan recalls emotional 26/11 scene in ‘Dhurandhar’",
-    "desc": "Aditya Dhar's 'Dhurandhar', starring Ranveer Singh and an ensemble cast, achieved box-office success, notably for its intense recreation of the 26/11 Mumbai terror attacks. Actors like R. Madhavan and Akshaye Khanna were deeply affected by the sequence, highlighting the film's emotional resonance. The sequel, 'Dhurandhar 2', is set for release in March 2026.",
-    "img": "https://static.toiimg.com/photo/msid-128617115,imgsize-21326.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-recalls-emotional-26/11-scene-in-dhurandhar-that-left-akshaye-khanna-and-arjun-rampal-in-tears/articleshow/128617139.cms",
-    "time": "2026-02-20T16:47:59.000Z"
   },
   {
     "cat": "World",
@@ -358,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/australia-chase-down-target-before-10-overs-beat-oman-by-nine-wickets-in-final-t20-world-cup-group-stage-match/articleshow/128616424.cms",
     "time": "2026-02-20T16:32:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Leonardo DiCaprio and Vittoria Ceretti’s combined net worth",
-    "desc": "Hollywood heartthrob Leonardo DiCaprio and Italian model Vittoria Ceretti are making waves as a power couple. DiCaprio, a seasoned actor, boasts a net worth of $300 million, significantly boosted by endorsements and real estate. Ceretti, a rising star in the fashion world, has amassed $4 million through lucrative brand deals. Together, their combined fortune reaches an impressive $304 million.",
-    "img": "https://static.toiimg.com/photo/msid-128587926,imgsize-30034.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/leonardo-dicaprio-and-vittoria-cerettis-total-net-worth-how-much-does-the-celebrity-couple-earn/articleshow/128587926.cms",
-    "time": "2026-02-20T16:30:00.000Z"
   },
   {
     "cat": "World",
@@ -486,15 +495,6 @@ const newsData_en = [
     "time": "2026-02-20T11:47:12.000Z"
   },
   {
-    "cat": "Business",
-    "title": "'India diversifying oil sourcing': US envoy Sergio Gor notes Russia shift",
-    "desc": "India is diversifying its oil sources, according to US envoy Sergio Gor. Discussions are underway for Venezuelan oil imports. The US maintains its stance against countries buying Russian oil. A trade deal between India and the US is nearing finalization, with a potential meeting between Prime Minister Modi and US President Trump anticipated.",
-    "img": "https://static.toiimg.com/photo/msid-128605987,imgsize-550703.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-diversifying-oil-sourcing-us-envoy-sergio-gor-notes-russia-shift-what-he-said-on-venezuela-option/articleshow/128604954.cms",
-    "time": "2026-02-20T11:28:52.000Z"
-  },
-  {
     "cat": "World",
     "title": "What is Pax Silica?",
     "desc": "India has formally joined Pax Silica, a U.S.-led initiative focused on artificial intelligence and secure supply chains, signalling a reset in India-U.S. ties after a turbulent year. Pax Silica is aimed at protecting technology supply chains from strategic vulnerabilities — particularly amid concerns over China’s dominance in critical sectors.",
@@ -502,15 +502,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-what-is-pax-silica/article70655832.ece",
     "time": "2026-02-20T11:18:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘James Bond-style’ bunker: Why a crypto firm is buying more gold than most central banks",
-    "desc": "Crypto giant Tether is now a leading gold buyer, acquiring nearly two tonnes weekly, surpassing many nations. This move, driven by its tokenized gold product and diversification strategy, sees the company amassing significant bullion reserves. Tether's substantial gold purchases are reshaping global demand, with its holdings now rivaling central bank levels.",
-    "img": "https://static.toiimg.com/photo/msid-128604882,imgsize-1376293.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/james-bond-style-bunker-why-a-crypto-firm-is-buying-more-gold-than-most-central-banks/articleshow/128603941.cms",
-    "time": "2026-02-20T11:00:43.000Z"
   },
   {
     "cat": "Sports",
@@ -529,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-no-fuss-no-noise-just-business-the-new-zealand-way/articleshow/128603873.cms",
     "time": "2026-02-20T10:43:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Full list of players in open and women's category",
-    "desc": "Norway Chess 2026 will take place in Oslo from May 25 to June 5, featuring elite men’s and women’s tournaments with equal prize money and format. Six players in each event will compete in a double round-robin with Armageddon tiebreaks. Stars include Magnus Carlsen, Gukesh, Praggnanandhaa, and Wesley So, plus Ju Wenjun, Zhu Jiner, Humpy Koneru, and Divya Deshmukh in the women’s field.",
-    "img": "https://static.toiimg.com/photo/msid-128603577,imgsize-42258.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/norway-chess-2026-from-d-gukesh-to-divya-deshmukh-full-list-of-players-in-open-and-womens-category/articleshow/128603577.cms",
-    "time": "2026-02-20T10:32:42.000Z"
   },
   {
     "cat": "Tech",
@@ -595,24 +577,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'India won't make it to semi-finals': Former Pakistan pacer's shocking take",
-    "desc": "Former Pakistan bowler Mohammad Amir has made bold predictions for the T20 World Cup 2026. He believes India will not advance to the semi-finals. Amir points to India's batting collapses in recent matches. He suggests teams like South Africa and the West Indies can exploit these weaknesses. India faces South Africa in their Super 8 opener.",
-    "img": "https://static.toiimg.com/photo/msid-128593330,imgsize-1304827.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-wont-make-it-to-semi-finals-former-pakistan-pacers-shocking-take/articleshow/128593350.cms",
-    "time": "2026-02-20T05:51:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'With so many left-handers, finger spin is the problem': India coach sounds alarm before Super 8",
-    "desc": "Despite an unbeaten league stage, India faces challenges with catching and batting against spin, particularly off-spinners. The presence of multiple left-handers and Abhishek Sharma's form are key concerns. Teams are targeting this weakness, and India needs a clear game plan for upcoming Super 8 matches against spin-heavy opponents.",
-    "img": "https://static.toiimg.com/photo/msid-128591251,imgsize-1118280.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/with-so-many-left-handers-finger-spin-is-the-problem-india-coach-sounds-alarm-before-super-8/articleshow/128591055.cms",
-    "time": "2026-02-20T04:33:44.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "India’s perfect record has been tempered by indifferent form",
     "desc": "Though Kishan’s hitting has been a revelation, most of of his batting colleagues haven’t been as free-spirited; Abhishek has suffered the ignominy of falling for a duck thrice; the co-host’s scores are a tribute to the ability to accelerate in the second half even when the first period has been singularly demanding",
     "img": "https://th-i.thgim.com/public/incoming/jdjj65/article70654601.ece/alternates/LANDSCAPE_1200/IMG_KISHAN_2_2_1_EJFK2A6V.jpg",
@@ -628,15 +592,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/venezuela-approves-amnesty-bill-that-could-see-release-of-hundreds-detained-for-political-reasons/article70654549.ece",
     "time": "2026-02-20T02:22:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'O' Romeo' concludes first week with Rs 72 CRORE worldwide",
-    "desc": "In the cinematic realm, Shahid Kapoor's latest film 'O' Romeo' has faced an uphill battle at the box office. Despite the actor's compelling performance, the storyline has left fans underwhelmed, contributing to a steady decline in ticket sales after its debut. As it stands after a week, the film has amassed about Rs 47 crore. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128583269,imgsize-19518.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/o-romeo-box-office-collection-day-7-and-day-8-live-shahid-kapoor-starrer-concludes-first-week-with-rs-72-crore-worldwide/articleshow/128583269.cms",
-    "time": "2026-02-20T00:07:17.000Z"
   },
   {
     "cat": "Sports",
@@ -846,15 +801,6 @@ const newsData_en = [
     "time": "2026-02-18T07:54:45.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran partially shuts Strait of Hormuz, State media broadcasts military drills",
-    "desc": "Iranian state media broadcast footage on Tuesday (February 17) of Revolutionary Guards drills in and around the Strait of Hormuz, hours after talks began, as semi-official Fars said parts of the waterway would close “for a few hours” for security precautions.",
-    "img": "https://th-i.thgim.com/public/incoming/ifeae8/article70646518.ece/alternates/LANDSCAPE_1200/AFP_97RM46C.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-iran-partially-shuts-strait-of-hormuz-state-media-broadcasts-military-drills/article70646510.ece",
-    "time": "2026-02-18T07:36:18.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Warner Bros reopens takeover talks with Paramount after receiving a waiver from Netflix",
     "desc": "Television and film titan Warner Bros. Discovery, which owns CNN, announced in late October that it was open to acquisition offers; its board subsequently accepted a bid from Netflix to buy only its streaming and studio business.",
@@ -898,5 +844,59 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/deputy-cm-udhayanidhi-presents-tamil-nadu-state-film-awards-for-2016-2022-says-awards-chosen-by-committee/article70629589.ece",
     "time": "2026-02-16T09:49:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Producer V. Tamil Azhagan dies at 70; Rajinikanth mourns loss of ‘wonderful human being’",
+    "desc": "Veteran Tamil film producer and director V. Tamil Azhagan, best known for backing iconic blockbusters such as ‘Baashha’ and ‘Moondru Mugam, passed away on February 14 due to age-related health issues, prompting an outpouring of tributes from the film industry, including a heartfelt condolence message from Rajinikanth.",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/iq09xx/article70635093.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/producer-v-tamil-azhagan-dies-at-70-rajinikanth-mourns-loss-of-wonderful-human-being/article70635104.ece",
+    "time": "2026-02-15T10:57:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Biennale highlights and must-see parallel shows",
+    "desc": "From Tino Sehgal’s charged performance at Pepper House to Shilpa Gupta’s moving sonic installation, Mass Art’s flamboyant Durga Puja and Afra Eisma’s tactile fantasy, here are the most compelling immersive art experiences across Kochi, on till the Kochi-Muziris Biennale ends on March 31",
+    "img": "https://th-i.thgim.com/public/life-and-style/fashion/39lgqy/article70627514.ece/alternates/LANDSCAPE_1200/mass%20art.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/art/kochi-art-season-2026-biennale-highlights-and-must-see-parallel-shows/article70624155.ece",
+    "time": "2026-02-13T11:51:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
   }
 ];
