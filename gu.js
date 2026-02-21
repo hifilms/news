@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "Gold-Silver Rate Explainer: કોર્ટનો એક નિર્ણય...સોના-ચાંદીના ભાવમાં ભડકા થઈ શકે, સપ્તાહમાં સોનું 2300 અને ચાંદી 7800 રૂપિયા મોંઘી થઈ",
+    "desc": "સોના અને ચાંદી અઠવાડિયાના છેલ્લા કારોબારી દિવસે ઉછાળા મારીને બંધ થયા. છેલ્લા એક અઠવાડિયામાં સોના અને ચાંદીમાં શું સ્થિતિ રહી તે જાણો અને એક્સપર્ટ આગામી સમય કેવો રહેશે તેના વિશે શું મંતવ્યો ધરાવે છે તે પણ જાણવાની કોશિશ કરીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-silver-weekly-rate-explainer-also-us-supreme-court-ruling-on-tariffs-could-impact-prices-next-week-465719 ",
+    "time": "2026-02-21T08:06:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ભૂતની સત્ય ઘટના પર આધારિત આ ફિલ્મ જોઈ ડર લાગશે અને રડવું પણ આવશે, હોટસ્ટાર પર ફ્રીમાં જોઈ શકો છો",
+    "desc": "સત્ય ઘટના પર આધારિત હોરર ફિલ્મ જોવાના શોખીનો માટે ઓટીટી પ્લેટફોર્મ હોટસ્ટાર પર એક ફિલ્મ છે. જો અત્યાર સુધી તમે આ હોરર ફિલ્મ નથી જોઈ તો આ વીકેન્ડમાં જોઈ લો. આ હોરર ફિલ્મ સત્ય ઘટના પર આધારિત છે. આ ફિલ્મ તમને રડાવશે, ડરાવશે અને તમારી આત્માને પણ ધ્રુજાવી દેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/hindi-horror-thriller-film-based-on-real-ghost-story-vina-before-7-days-on-ott-465721 ",
+    "time": "2026-02-21T08:00:33.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "પહેલી વાર કાર ખરીદનારાઓ માટે 7 સૌથી શાનદાર વિકલ્પ, કિંમત ₹4.70 લાખથી શરૂ, માઇલેજ 35Km",
+    "desc": "જો તમે પ્રથમવાર કાર ખરીદવાનો પ્લાન બનાવી રહ્યાં છો તો ભારતીય બજારમાં અનેક કાર ઉપલબ્ધ છે. આ કાર તમારા બજેટ, ડિઝાઇન, સીટિંગ, એન્જિન જેવા ઘણા અલગ-અલગ સેગમેન્ટમાં આવે છે. આ લિસ્ટમાં દેશની નંબર-1 કાર કંપની મારૂતિ સુઝુકીથી લઈને હ્યુન્ડઈ, ટાટા મોટર્સ, કિઆ, મહિન્દ્રા જેવી કંપનીઓના ઘણા મોડલ સામેલ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/7-best-options-for-first-time-car-buyers-price-starts-from-%E2%82%B94-70-lakh-mileage-35km-465713 ",
+    "time": "2026-02-21T06:42:26.000Z"
+  },
+  {
     "cat": "World",
     "title": "સુપ્રીમ કોર્ટના ચુકાદા બાદ શું અમેરિકા વસૂલ કરેલો ટેરિફ પાછો આપી દેશે? વિગતો ખાસ જાણો",
     "desc": "અમેરિકાની સુપ્રીમ કોર્ટે રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પને ટેરિફ મામલે મોટો ઝટકો આપ્યો અને કહી દીધુ કે આ ટેરિફ ગેરકાયદેસર છે. ટેરિફ નાખવાની તેમને સત્તા નથી. ત્યારબાદ જો કે ટ્રમ્પે પણ ગાજ્યા જાય એવા નથી અને તેમણે 10 ટકા ગ્લોબલ ટેરિફ નાખી દીધો. પરંતુ આ બધા વચ્ચે એ ચર્ચા છે કે ટેરિફ ગેરકાયદેસર થઈ ગયો તો અત્યાર સુધી વસૂલવામાં આવેલા ટેરિફનું શું? ટ્રમ્પ પ્રશાસને તે પાછા આપશે? સમજો આખી વાત.",
@@ -574,14 +601,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/rajpal-yadav-must-pay-9-crore-after-jail-cheque-bounce-law-in-india-rajpal-yadav-film-ata-pata-laapata-464589 ",
     "time": "2026-02-11T07:05:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "આર્યાની સામે આવશે ડૉ. મોહિતનું સત્ય, અનુને બચાવવા માટે કરશે આ કામ",
-    "desc": "ટીવી સિરિયલ તુમ સે તુમ તકમાં અનુ અને આર્યના અલગ થવાની કહાની દેખાડવામાં આવી રહી છે, અનુ ડૉ. મોહિત સાથે લગ્ન કરવા જઈ રહી છે. આર્યએ અનુના રોકાને પણ જોયો હતો. શું પુષ્પા મોહિત અને તેની ફેમેલી વિશે સત્ય શોધી કાઢશે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/tumm-se-tumm-tak-spoiler-arya-will-know-dr-mohit-truth-will-do-this-to-save-anu-464583 ",
-    "time": "2026-02-11T06:01:43.000Z"
   }
 ];

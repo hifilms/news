@@ -79,14 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bumrah-arshdeep-and-hardik-in-race-to-break-ravichandran-ashwin-s-all-time-t20-world-cup-record-for-india-2026-02-20-1031057",
     "time": "2026-02-20T14:15:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "No comeback for Steve Smith as Australia make one change for dead rubber T20 World Cup clash vs Oman",
-    "desc": "Australia locked horns today against Oman in the final group stage match of the T20 World Cup 2026. Ideally, it should've been a game that lets Australia gear up for the Super 8 round. But...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/no-comeback-for-steve-smith-as-australia-make-one-change-for-dead-rubber-t20-world-cup-clash-vs-oman-2026-02-20-1031051",
-    "time": "2026-02-20T13:26:47.000Z"
   }
 ];
