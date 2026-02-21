@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Confident of not qualifying for T20 World Cup final? Pakistan's baffling schedule for ODI series vs Bangladesh",
+    "desc": "Pakistan Cricket Board (PCB) confirmed on Friday that the men's national cricket team would be touring Bangladesh for three ODIs next month. However, the scheduling of the tour has left many baffled. As per the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/confident-of-not-qualifying-for-t20-world-cup-final-pakistan-s-baffling-schedule-for-odi-series-vs-bangladesh-2026-02-21-1031104",
+    "time": "2026-02-21T05:40:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India vs Pakistan again? Former Indian cricketers predict their semifinalists of T20 World Cup 2026",
+    "desc": "The Super 8 round of the T20 World Cup is set to get underway today with the match between New Zealand and Pakistan in Colombo. England and Sri Lanka are the other two teams in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-pakistan-again-former-indian-cricketers-predict-their-semifinalists-of-t20-world-cup-2026-2026-02-21-1031097",
+    "time": "2026-02-21T04:43:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "What is Babar Azam's role in Pakistan's T20I team? Head coach Mike Hesson explains",
     "desc": "Babar Azam's role in Pakistan's T20I team is being questioned more than ever, especially after he didn't get to bat for the first time in his career after being named in the playing XI. Against...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/no-comeback-for-steve-smith-as-australia-make-one-change-for-dead-rubber-t20-world-cup-clash-vs-oman-2026-02-20-1031051",
     "time": "2026-02-20T13:26:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand captain Mitchell Santner declared fit for Pakistan clash, what about Ferguson?",
-    "desc": "New Zealand have got a massive boost ahead of their opening Super 8 clash against Pakistan in the T20 World Cup as their captain Mitchell Santner has recovered from illness. He missed their previous game...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-pak-new-zealand-captain-mitchell-santner-declared-fit-for-pakistan-clash-what-about-ferguson-2026-02-20-1031042",
-    "time": "2026-02-20T12:36:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohammad Amir's shocking prediction for T20 World Cup 2026: 'India won't qualify for semifinals'",
-    "desc": "The Super 8 round of the T20 World Cup is all set to begin on Saturday, February 21, with the New Zealand vs Pakistan clash at the R Premadasa Stadium in Colombo. The race for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-amir-s-shocking-prediction-for-t20-world-cup-2026-india-won-t-qualify-for-semifinals-2026-02-20-1031037",
-    "time": "2026-02-20T11:29:21.000Z"
   }
 ];

@@ -1,12 +1,30 @@
 const newsData_bn = [
   {
+    "cat": "Business",
+    "title": "আধার পিভিসি কার্ড কী এবং কীভাবে এটি পাওয়া যেতে পারে? জানুন সম্পূর্ণ তথ্য",
+    "desc": "আধার পিভিসি কার্ড হল Unique Identification Authority of India কর্তৃক জারি করা আধারের একটি নতুন ও টেকসই সংস্করণ। উন্নত সিকিউরিটি ফিচার ও ছোট আকারের জন্য এটি বহনে সুবিধাজনক এবং অনলাইনে সামান্য ফি দিয়ে অর্ডার করা যায়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/aadhaar-60-2026-02-8af6df9b83ebfc0582962ff56631ced6-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/what-is-aadhaar-pvc-card-know-features-benefits-and-how-to-apply-online-tc-dc-aa-2547963.html",
+    "time": "2026-02-21T05:52:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold ETF আর Silver ETF কী? বিনিয়োগকারীদের জন্য এগুলি কতটা লাভজনক? কোনটিতে বিনিয়োগ করা বেশি উপযুক্ত?",
+    "desc": "Gold ও Silver ETF-এর মাধ্যমে ফিজিক্যাল সোনা বা রুপো না কিনেই বিনিয়োগ করা যায়। গোল্ড ইটিএফ তুলনামূলকভাবে স্থিতিশীল হলেও সিলভার ইটিএফে ওঠানামা বেশি, ফলে সম্ভাব্য লাভও বেশি হতে পারে। নিজের ঝুঁকি নেওয়ার ক্ষমতা ও লক্ষ্য বুঝে সিদ্ধান্ত নেওয়াই শ্রেয়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/GOLD-1295-2026-02-9d6af6e68655078a478f2713fa2e9a94-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/business/gold-etf-vs-silver-etf-which-is-more-profitable-and-better-for-investors-tc-dc-aa-2528348.html",
+    "time": "2026-02-21T05:17:01.000Z"
+  },
+  {
     "cat": "World",
     "title": "ভারতের শুল্কও কি তবে কমে ১০% হল? মার্কিন সুপ্রিম কোর্টে তুলোধনার পরে নতুন ট্যারিফ ট্রাম্পের",
     "desc": "বিশ্বের প্রায় সমস্ত দেশের উপরে ইচ্ছেমতো ট্যারিফ চাপানোর নির্দেশ খারিজ করে বেআইনি ঘোষণা করে দিয়েছে মার্কিন সুপ্রিম কোর্ট৷ তারপরেই নতুন ও পরিবর্তিত ১০ শতাংশ শুল্কের কথা ঘোষণা করেছে৷ যা এখন থেকেই প্রযোজ্য হবে৷ ভারতের সঙ্গে অন্যান্য বিষয় বাণিজ্য চুক্তির মতো করেই হবে বলে জানিয়েছেন ট্রাম্প৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/trump-11-2026-02-17c966c5f0a381604ff2fc0d3db0c20b-3x2.jpg",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Donald-Trump-2026-02-a9f38692eaf90cd5d864f69f0aee4b80-3x2.jpeg",
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/international/donald-trump-new-tariff-will-india-now-face-just-10-us-tariffs-white-house-official-signals-reset-sta-2550881.html",
-    "time": "2026-02-21T04:18:47.000Z"
+    "time": "2026-02-21T04:27:06.000Z"
   },
   {
     "cat": "Business",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/historic-victory-unveiled-in-bangladesh-congratulations-to-tarique-rahman-rmj-2-ws-l-2538687.html",
     "time": "2026-02-13T09:20:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'নগ্ন হয়ে সমুদ্রের পাড়ে ধ্যান, ওশোর কাছে সারাক্ষণ...!' সন্ন্যাস বিনোদের গোপন রহস্য ফাঁস করলেন স্ত্রী, জানলে আঁতকে উঠবেন",
-    "desc": "বিনোদ ওরেগনে ওশোর মালী ছিলেন এবং ওশোর পোশাক পরতেন কারণ তাদের কাঁধের মাপ একই রকম ছিল। কবিতা বলেন, বিনোদের যাত্রা আধ্যাত্মিক ছিল, উত্তেজনাপূর্ণ ছিল না। পরে তিনি চলচ্চিত্রে ফিরে আসেন, রাজনীতিতে প্রবেশ করেন এবং ২০১৭ সালে মৃত্যুর আগ পর্যন্ত সক্রিয় ছিলেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/1770970038_Vinod-Khanna-11-2026-02-f68e8114cb945acac14c15f0b2d1556f-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/entertainment/bollywood-when-vinod-khanna-refused-osho-to-take-over-his-ashram-fell-ill-after-consuming-poisoned-water-kavita-khanna-revealed-what-happens-oregon-rds-2538616.html",
-    "time": "2026-02-13T09:11:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "সোশ্যাল মিডিয়ার যুগে টিকিট কেটে নাচ ক'জন দেখেন? শহরের বুকে 'কলাবতী ডান্স ফেস্টিভ্যাল' বদলে দিল সেই ধারণাই!",
-    "desc": "প্রবীণদের অভিজ্ঞতা এবং নবীনদের শক্তির সংমিশ্রণেই শিল্পচর্চা পূর্ণতা পায়। জ্ঞানমঞ্চে মণিপুরি নর্তনালয় কলকাতার আয়োজনে অনুষ্ঠিত হল কলাবতী ডান্স ফেস্টিভ্যাল ২০২৬। রাজদীপ বন্দ্যোপাধ্যায়, সুবিকাশ মুখোপাধ্যায়, পরমিতা মৈত্র, কঙ্কনা সিং ও পর্ণা চক্রবর্তী ভারতীয় শাস্ত্রীয় নৃত্য পরিবেশন করে কোন বার্তা দিলেন?",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-05-at-9.14.02-PM-1-2026-02-de9e78de0b2c69306bab8ea0e19b12c5-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/bimbavati-devi-kalabati-dance-festival-2026-unveils-indian-classical-dance-gyan-manch-a-manipuri-nartanalaya-kolkata-presentation-tib-ws-l-2536542.html",
-    "time": "2026-02-13T06:14:56.000Z"
   }
 ];

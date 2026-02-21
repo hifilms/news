@@ -1,6 +1,195 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "All we know about Carolyn Bessette, John F. Kennedy Jr.’s wife",
+    "desc": "John F. Kennedy Jr. & Carolyn Bessette' reignites fascination with the couple's glamorous yet tragic life. Carolyn, a fashion-forward publicity director, married America's Prince Charming, navigating intense public scrutiny. Their story, marked by romance and heartbreak, tragically ended with their deaths in a 1999 plane crash, a devastating chapter in the 'Kennedy curse'.",
+    "img": "https://static.toiimg.com/photo/msid-128635853,imgsize-105564.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/love-story-john-f-kennedy-jr-carolyn-bessette-who-was-carolyn-bessette/articleshow/128635837.cms",
+    "time": "2026-02-21T06:24:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Bridgerton season 4 part 2': All about the new promo pics",
+    "desc": "Bridgerton fans are buzzing with excitement for Season 4 Part 2, premiering February 26, 2026. Jaw-dropping promo images reveal the full returning cast, promising more balls, betrayals, and budding romances. The focus is on Benedict Bridgerton's love story, with familiar faces like Anthony, Violet, Eloise, and Penelope set to deliver the Regency magic viewers adore.",
+    "img": "https://static.toiimg.com/photo/msid-128635670,imgsize-932575.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-season-4-part-2-new-promo-teases-benedict-bridgertons-romance-and-the-grand-return-of-the-ton/articleshow/128635680.cms",
+    "time": "2026-02-21T06:18:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shahid Kapoor RESPONDS to Hrithik's praise for 'O' Romeo'",
+    "desc": "With 'O' Romeo', Shahid Kapoor is setting new records, crossing the impressive milestone of Rs 70 crore globally. Hrithik Roshan applauded Kapoor's skillful portrayal, dubbing him the king of romantic revenge films. In response, Kapoor expressed deep gratitude for Roshan's influence on his career. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128635309,imgsize-43272.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shahid-kapoor-responds-to-hrithik-roshans-praise-for-o-romeo-says-saw-your-debut-when-i-was-in-college/articleshow/128635309.cms",
+    "time": "2026-02-21T06:11:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Breaking Bad' loses 13yr record",
+    "desc": "The 'Game of Thrones' prequel, 'A Knight of the Seven Kingdoms', is concluding its run with its highest ratings yet. Meanwhile, 'Breaking Bad's' iconic 'Ozymandias' lost its decade-long perfect 10/10 IMDb score, now tied at 9.9. Speculation suggests a fan-driven review-bombing campaign may be behind this shift, with 'A Knight of the Seven Kingdoms' already renewed for a second season.",
+    "img": "https://static.toiimg.com/photo/msid-128634622,imgsize-25218.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/a-knight-of-the-seven-kingdoms-fan-war-with-breaking-bad-sees-bryan-cranston-lose-imdb-record-after-13-years/articleshow/128634531.cms",
+    "time": "2026-02-21T06:02:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India, South Africa lock into tactical battle ahead of Super 8 clash",
+    "desc": "India prepares for a crucial T20 World Cup Super 8 match against South Africa. All eyes are on Abhishek Sharma, who is yet to score. South Africa's bowlers are focusing on left-handers. India's batting lineup features several left-handers, prompting strategic adjustments. The team is working on its approach against spinners and seamers.",
+    "img": "https://static.toiimg.com/photo/msid-128634792,imgsize-61954.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-south-africa-lock-into-tactical-battle-ahead-of-super-8-clash/articleshow/128634807.cms",
+    "time": "2026-02-21T05:37:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Crime branch issues LOC against Harry",
+    "desc": "In a shocking development, Bollywood star Ranveer Singh has found himself at the center of an extortion case, allegedly targeted by Harry Boxer of the notorious Bishnoi gang. A threatening voice note from a US number has prompted the Mumbai Police to issue a Look Out Circular for Boxer, intensifying their investigation into a staggering Rs 20 crore ransom demand.",
+    "img": "https://static.toiimg.com/photo/msid-128634586,imgsize-38670.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-extortion-threat-mumbai-police-crime-branch-issues-lookout-circular-loc-against-bishnoi-gangs-harry-boxer/articleshow/128634586.cms",
+    "time": "2026-02-21T05:31:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'Effective from February 24': All you need to know about Trump's new 10% global tariffs",
+    "desc": "President Trump signed a proclamation imposing a 10% temporary import surcharge on most goods, effective February 24 for 150 days. This action, taken under emergency powers, aims to address significant balance-of-payments deficits and encourage domestic manufacturing. Broad exemptions are included for economic necessity and national interest.",
+    "img": "https://static.toiimg.com/photo/msid-128634664,imgsize-575243.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/effective-from-february-24-all-you-need-to-about-trumps-new-10-global-tariffs/articleshow/128634090.cms",
+    "time": "2026-02-21T05:31:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajinikanth's villain in 'Jailer 2' revealed",
+    "desc": "Jatin Sarna has completed his scenes as the main villain in Rajinikanth's 'Jailer 2'. He calls the role a career turning point. Shah Rukh Khan is expected to shoot his cameo in March. This will complete the film's production. The sequel to the 2023 blockbuster is slated for a June 2026 release.",
+    "img": "https://static.toiimg.com/photo/msid-128634614,imgsize-72084.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-this-actor-to-play-the-villain-in-the-rajinikanths-film-shah-rukh-khan-to-shoot-his-scenes-in-march/articleshow/128634614.cms",
+    "time": "2026-02-21T05:29:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India hold marathon session in Ahmedabad; Abhishek Sharma again under focus",
+    "desc": "India intensified their preparations for their Super Eight clash against South Africa with a rigorous four-hour training session in Ahmedabad on Friday evening. Players showcased high energy and focus across batting, bowling, and fielding drills. Suryakumar Yadav and his teammates aimed for peak performance, with Jasprit Bumrah honing his yorkers and Hardik Pandya unleashing powerful sixes.",
+    "img": "https://static.toiimg.com/photo/msid-128634223,imgsize-122886.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-plenty-of-spin-big-sixes-and-jasprit-bumrahs-masterclass-inside-indias-marathon-training-session/articleshow/128634223.cms",
+    "time": "2026-02-21T05:18:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP shows black flag to Rahul Gandhi after Congress' shirtless protests at AI Summit",
+    "desc": "BJP workers protested Rahul Gandhi in Mumbai with black flags following an Indian Youth Congress demonstration at the AI Summit in New Delhi. IYC workers, protesting against Prime Minister Modi, were detained after briefly disrupting the summit. BJP leaders accused Congress and Rahul Gandhi of orchestrating the disruption.",
+    "img": "https://static.toiimg.com/photo/msid-128634268,imgsize-769330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bjp-shows-black-flag-to-rahul-gandhi-after-congress-shirtless-protests-at-ai-summit/articleshow/128634187.cms",
+    "time": "2026-02-21T05:12:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Youth Congress workers trespass on Health Minister Veena George’s official residence, lay funeral wreath to protest “increasing medical negligence”",
+    "desc": "The trespass on Ms George’s residence was the latest incident in the escalating Congress and Bharatiya Janata Party (BJP) campaign against the Left Democratic Front (LDF) following the startling discovery of an artery forceps in the abdomen of a woman who underwent surgery at the Government Medical College Hospital, Alappuzha, in 2021.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/youth-congress-workers-trespass-on-health-minister-veena-georges-official-residence-lay-funeral-wreath-to-protest-increasing-medical-negligence/article70658981.ece",
+    "time": "2026-02-21T05:11:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Axar Patel thrives on home comfort",
+    "desc": "Axar Patel, once out of the Indian team for three years, has transformed into a core leadership member for the T20 World Cup. His rigorous training, guided by his wife Meha and focused on specific batting and bowling drills, has been key to his evolution as a cricketer. He now steps onto his home turf as a vital player.",
+    "img": "https://static.toiimg.com/photo/msid-128633944,imgsize-22906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/how-axar-patel-thrives-on-home-comfort-from-high-end-facility-in-nadiad-to-indias-leadership-core/articleshow/128633950.cms",
+    "time": "2026-02-21T04:57:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "KATSEYE’s Manon Bannerman takes health hiatus",
+    "desc": "KATSEYE's Manon Bannerman is taking a temporary break from group activities to focus on her health and well-being, as announced on February 20, 2026. The group will continue with scheduled activities, expressing full support for Manon's decision. Fans have rallied with overwhelming love and understanding for the beloved artist.",
+    "img": "https://static.toiimg.com/photo/msid-128633935,imgsize-512802.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/katseye-manon-bannerman-announces-temporary-hiatus-to-prioritize-health-and-well-being-as-fans-rally-with-support/articleshow/128633941.cms",
+    "time": "2026-02-21T04:56:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Eric Dane’s life, legacy and net worth",
+    "desc": "The entertainment community is in deep sorrow following the untimely death of Eric Dane, the talented actor famed for his portrayals in 'Grey's Anatomy' and 'Euphoria.' At just 53, Dane's life was cut short after a courageous fight against ALS.",
+    "img": "https://static.toiimg.com/photo/msid-128633809,imgsize-1047494.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/eric-danes-life-and-legacy-from-greys-anatomy-to-the-late-actors-usd-7-million-net-worth/articleshow/128633809.cms",
+    "time": "2026-02-21T04:53:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Home-and-away or away-and-away? IPL franchise's bizarre training stops",
+    "desc": "IPL franchises’ pre-season camps are scattered across India, even overseas and it underscores a worrying drift from the idea of “home.” By training and sometimes playing matches far from their base cities, teams dilute fan connection, culture, and home advantage. If cities remain interchangeable pit stops, the Indian Premier League risks becoming a travelling show with no real roots.",
+    "img": "https://static.toiimg.com/photo/msid-128633714,imgsize-99178.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/home-and-away-or-away-and-away-ipl-franchises-bizarre-training-stops/articleshow/128633533.cms",
+    "time": "2026-02-21T04:47:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Eric Dane dies; Friends start GoFundMe for daughters' fund",
+    "desc": "Actor Eric Dane passed away on February 19, 2026, at 53 after a battle with ALS. He openly advocated for the disease, turning his struggle into purpose. Dane's devotion to his daughters, Billie Beatrice and Georgia Geraldine, was paramount, with friends rallying support through a GoFundMe. His ex-wife, Rebecca Gayheart, provided steadfast care during his illness.",
+    "img": "https://static.toiimg.com/photo/msid-128633604,imgsize-431123.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/eric-dane-passes-away-friends-launch-gofundme-to-carry-forward-greys-anatomy-stars-love-and-legacy-for-his-daughters/articleshow/128633579.cms",
+    "time": "2026-02-21T04:40:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How worried should India be about their Super 8 opponents",
+    "desc": "The T20 World Cup's Super 8 stage marks the true beginning of the tournament, with India facing a tough path in Group 1. Despite an unbeaten group stage, concerns linger over opener Abhishek Sharma's form and the team's fielding ahead of crucial matches against South Africa, Zimbabwe, and the West Indies.",
+    "img": "https://static.toiimg.com/photo/msid-128633596,imgsize-48028.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-how-worried-should-india-be-about-their-super-8-opponents/articleshow/128633289.cms",
+    "time": "2026-02-21T04:40:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yash's 'Toxic' look reimagined as Ravana",
+    "desc": "Yash's intense look from his upcoming film 'Toxic' has fans convinced he's the perfect fit for Ravana in Nitesh Tiwari's 'Ramayana'. The striking visual, featuring bloodshot eyes and a thick beard, has sparked widespread speculation about his role in the highly anticipated mythological epic.",
+    "img": "https://static.toiimg.com/photo/msid-128632486,imgsize-23520.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yashs-menacing-toxic-look-reimagined-as-ravana-from-ramayana-fans-call-it-terrifying/articleshow/128632461.cms",
+    "time": "2026-02-21T04:28:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Is YouTuber Spill Sesh’s house burglary a hate crime?",
+    "desc": "YouTuber Spill Sesh's home was burglarized on February 14, 2026, with police investigating it as a potential hate crime. The LAPD is focusing on a smashed Buddha statue found in the driveway, suggesting the motive might extend beyond theft to targeting the creator's beliefs. The investigation is ongoing with no arrests made.",
+    "img": "https://static.toiimg.com/photo/msid-128633072,imgsize-20100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/burglary-of-youtuber-spill-seshs-house-is-a-hate-crime-heres-what-the-police-think-and-where-the-investigation-stands/articleshow/128633060.cms",
+    "time": "2026-02-21T04:19:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Aap chor raastey se aaye ho': Shadab under fire for 'Pakistan beat India' comment",
+    "desc": "Ahmed Shehzad has fiercely criticised Shadab Khan for his remarks towards former Pakistan players after the T20 World Cup loss to India. Shehzad questioned Shadab's selection, citing a lack of domestic performance and alleged favoritism, while also defending the legacy of past generations.",
+    "img": "https://static.toiimg.com/photo/msid-128633135,imgsize-53474.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/aap-chor-raastey-se-aaye-ho-shadab-khan-under-fire-for-pakistan-beat-india-comment/articleshow/128633057.cms",
+    "time": "2026-02-21T04:17:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How much tariff will India pay after US SC ruling, Trump’s 10% global duty? What White House said",
+    "desc": "India will now face a 10% tariff on imports to the US, as President Trump signed an executive order imposing this global rate. This move follows a US Supreme Court ruling that declared his previous tariffs illegal. Trump stated that this new tariff structure is a reversal, with India now paying tariffs to the US.",
+    "img": "https://static.toiimg.com/photo/msid-128632823,imgsize-1215772.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/how-much-tariff-will-india-pay-after-us-sc-ruling-trumps-10-global-duty-what-white-house-said/articleshow/128632784.cms",
+    "time": "2026-02-21T04:00:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Babloo Mukherjee talks about his failed marriage, falling out with his children",
     "desc": "Veteran actor Babloo Mukherjee candidly discussed his past, including a marriage at 17 and his subsequent divorce. He revealed a strained relationship with his children, stemming from his ex-wife's alleged misrepresentation of past events. Mukherjee also touched upon his second marriage, which has been ongoing since 1992.",
     "img": "https://static.toiimg.com/photo/msid-128632441,imgsize-61706.cms",
@@ -180,69 +369,6 @@ const newsData_en = [
     "time": "2026-02-21T01:57:22.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "All we know about the ‘Venom’ animated movie",
-    "desc": "Sony is venturing into animation with a new 'Venom' movie, helmed by directors Zach Lipovsky and Adam B. Stein. While details are scarce, a writers' room is active, hinting at a fresh take on the antihero. Tom Hardy is expected to be involved, potentially reprising his role.",
-    "img": "https://static.toiimg.com/photo/msid-128630290,imgsize-68342.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/new-venom-animated-movie-in-the-works-with-final-destination-filmmakers-what-we-know-so-far/articleshow/128630278.cms",
-    "time": "2026-02-21T01:46:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Assi' begins box office run with Rs 1 crore collection",
-    "desc": "In a gripping courtroom showdown, Taapsee Pannu leads 'Assi', directed by Anubhav Sinha, which launched on February 20 with a first-day earnings of Rs 1 crore net. While fans laud Pannu’s portrayal of a resolute lawyer, the film's 8.",
-    "img": "https://static.toiimg.com/photo/msid-128630171,imgsize-23062.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/assi-box-office-collection-day-1-taapsee-pannu-starrer-off-to-a-slow-start-opens-to-rs-1-crore/articleshow/128630162.cms",
-    "time": "2026-02-21T01:44:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "This article contains mentions of death; the reader’s discretion is advised.",
-    "desc": "In a heartfelt narrative, actor Babloo Mukherjee opens up about the devastating loss of his father, the beloved Keshto Mukherjee, who tragically passed away in a road accident. He also reflects on the untimely departure of his younger brother Ranjit, who was just 14 when a bike accident claimed his life.",
-    "img": "https://static.toiimg.com/photo/msid-128630094,imgsize-46260.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/daddy-ne-halka-sa-smile-diya-aur-phir-babloo-mukherjee-speaks-about-his-father-keshto-mukherjee-and-brothers-demise/articleshow/128630094.cms",
-    "time": "2026-02-21T01:37:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Meena slams false second marriage reports",
-    "desc": "Actress Meena has strongly refuted persistent rumours of a second marriage, expressing deep hurt over the baseless claims that impact her daughter. She criticizes the entitlement of those discussing women's personal lives in entertainment and warns that karma will address those spreading lies. Meena insists her personal decisions are hers alone.",
-    "img": "https://static.toiimg.com/photo/msid-128630108,imgsize-37974.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/people-forget-i-have-a-daughter-drishyam-3-actress-meena-slams-false-second-marriage-reports/articleshow/128630108.cms",
-    "time": "2026-02-21T01:36:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Patrick Dempsey on Eric Dane’s demise",
-    "desc": "Patrick Dempsey shared a touching tribute to his late 'Grey's Anatomy' co-star Eric Dane, revealing they last texted just a week before his passing from ALS complications. Dempsey fondly recalled their instant bond and mutual respect on set, highlighting Dane's great sense of humor and joy to work with.",
-    "img": "https://static.toiimg.com/photo/msid-128629840,imgsize-653735.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/patrick-dempsey-reveals-the-final-text-exchange-with-eric-dane-before-his-demise-its-hard-to-put-into-words/articleshow/128629844.cms",
-    "time": "2026-02-21T01:18:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' eyes new release window for June",
-    "desc": "Thalapathy Vijay's 'Jana Nayagan' faces a significant delay, with reports now pointing towards a June 2026 festival release. This strategic timing aligns with Vijay's birthday and a Muharram long weekend. Distributors have issued refund notices, confirming the film won't release before April 30th, as makers finalize a new date.",
-    "img": "https://static.toiimg.com/photo/msid-128629535,imgsize-100114.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijays-jana-nayagan-eyes-new-release-window-june-2026-likely-target-reports/articleshow/128629535.cms",
-    "time": "2026-02-21T01:00:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shahid Kapoor's O' Romeo crosses Rs 75 crore worldwide",
-    "desc": "Shahid Kapoor's 'O Romeo' experienced a slow start to its second week, earning an estimated Rs 2.25 crore on its eighth day, its lowest collection yet. Despite a strong Valentine's Day opening, the film's numbers have dipped. It has garnered Rs 49.35 crore net domestically and Rs 75.",
-    "img": "https://static.toiimg.com/photo/msid-128631608,imgsize-23226.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/o-romeo-box-office-collection-day-8-shahid-kapoor-starrer-begins-second-weekend-by-crossing-rs-75-crore-worldwide/articleshow/128628775.cms",
-    "time": "2026-02-21T00:47:39.000Z"
-  },
-  {
     "cat": "World",
     "title": "Why the Strait of Hormuz remains central to global energy security",
     "desc": "As Iran launches fresh military exercises in the corridor to prepare for ‘potential security threats’, attention has once again shifted to the world’s most critical energy chokepoint that carries almost 20% of global petroleum; any disruption here could jolt energy prices and economies, including India’s",
@@ -250,42 +376,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/why-the-strait-of-hormuz-remains-central-to-global-energy-security/article70656443.ece",
     "time": "2026-02-21T00:44:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'BMW' OTT release: Where to watch Ravi Teja film",
-    "desc": "Ravi Teja's comedy entertainer, 'Bhartha Mahasayulaku Wignyapthi' (BMW), is now available on Zee5 after a successful theatrical run. Initially slated for February 13, 2026, the film premiered on February 20, 2026, in Telugu, Tamil, Malayalam, Kannada, and Hindi.",
-    "img": "https://static.toiimg.com/photo/msid-128629221,imgsize-55996.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/bmw-ott-release-when-and-where-to-stream-ravi-tejas-comedy-entertainer/articleshow/128629221.cms",
-    "time": "2026-02-21T00:41:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Tu Yaa Main' BO day 7: Shanaya Kapoor film collects 4.45 crores",
-    "desc": "'Tu Yaa Main' has concluded its opening week at the box office, raking in Rs 4.45 crore net. Despite fluctuating weekday collections, the film maintained a stable performance. Day 7 saw a slight improvement, with Thursday's earnings reaching Rs 40 lakhs. Audiences are divided, with some praising the second half's creature-horror elements while others found the initial pacing slow.",
-    "img": "https://static.toiimg.com/photo/msid-128628954,imgsize-132684.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tu-yaa-main-box-office-collections-day-7-shanaya-kapoor-starrer-ends-week-1-with-rs-4-45-crores/articleshow/128628954.cms",
-    "time": "2026-02-21T00:25:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Do Deewane Seher Mein' BO day 1: Mints Rs 1.25 crores",
-    "desc": "Mrunal Thakur and Siddhant Chaturvedi's 'Do Deewane Seher Mein' opened with a modest ₹1.25 crore India net, indicating a slow start for the slice-of-life romance. While the film's portrayal of millennials navigating self-acceptance in Mumbai and its poetic cinematography have been noted, its success hinges on strong weekend word-of-mouth to overcome the initial quiet reception.",
-    "img": "https://static.toiimg.com/photo/msid-128628749,imgsize-64066.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/do-deewane-seher-mein-box-office-collections-day-1-mrunal-thakur-film-opens-soft-mints-rs-1-25-crores/articleshow/128628749.cms",
-    "time": "2026-02-21T00:11:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Alexandra Daddario and Andrew Form file for divorce",
-    "desc": "Actress Alexandra Daddario and producer Andrew Form are reportedly ending their marriage after three years. The couple confirmed their decision to split, stating it was made with love and respect. They plan to co-parent their 15-month-old son. Daddario formally filed for divorce in New York, with further details remaining private.",
-    "img": "https://static.toiimg.com/photo/msid-128628683,imgsize-19402.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/alexandra-daddario-files-for-divorce-from-andrew-form-after-three-years-of-marriage/articleshow/128628124.cms",
-    "time": "2026-02-21T00:05:30.000Z"
   },
   {
     "cat": "Sports",
@@ -442,15 +532,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Royals agree to host four home games in Jaipur; Guwahati gets three",
-    "desc": "Rajasthan Royals will host four IPL 2026 home matches in Jaipur and three in Guwahati after resolving safety and liability concerns with the state government. The decision followed talks between Royals chairperson Ranjit Barthakur and Chief Minister Bhajan Lal Sharma. Earlier disputes arose over stadium safety issues flagged in an audit. The government has now started repair and upgrade work at the Sawai Man Singh Stadium.",
-    "img": "https://static.toiimg.com/photo/msid-128609399,imgsize-206708.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rajasthan-royals-agree-to-host-four-home-games-in-jaipur-guwahati-gets-three/articleshow/128609314.cms",
-    "time": "2026-02-20T12:58:42.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Abhishek Sharma to get dropped? India coach makes fresh admission",
     "desc": "India opener Abhishek Sharma has struggled in the T20 World Cup with three ducks, but the team management continues to back him. Coach Morne Morkel said there is no talk of dropping him. Sunil Gavaskar feels pressure is affecting his game and advised him to build innings patiently. Assistant coach Ryan ten Doeschate said Abhishek showed good form in the nets and should bounce back in the Super 8s.",
     "img": "https://static.toiimg.com/photo/msid-128608550,imgsize-70120.cms",
@@ -466,15 +547,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/abandoned-by-mother-baby-monkey-punch-finds-comfort-in-stuffed-orangutan-charms-zoo-visitors/article70655985.ece",
     "time": "2026-02-20T12:21:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "More than 50 Pakistan players up for sale in The Hundred 2026 auction",
-    "desc": "More than 50 Pakistan players have registered for The Hundred 2026 auction in London on March 11–12. Over 200 players will be auctioned for 16 men’s and women’s teams, with salary caps of £2.05m for men and £880,000 for women. Six franchises have Indian owners. Star players like Shafali Verma, Joe Root, and Quinton de Kock are among the registrants.",
-    "img": "https://static.toiimg.com/photo/msid-128607338,imgsize-310750.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/more-than-50-pakistan-players-up-for-sale-in-the-hundred-2026-auction/articleshow/128606597.cms",
-    "time": "2026-02-20T12:02:39.000Z"
   },
   {
     "cat": "Sports",
@@ -531,15 +603,6 @@ const newsData_en = [
     "time": "2026-02-20T10:18:08.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Buttler 'won't bat for 15 overs' to return to form amid struggle for runs in T20 WC",
-    "desc": "Jos Buttler will not alter his aggressive T20 batting style despite a recent run of low scores. He emphasized the need to play according to the game situation and scoreboard, rather than solely focusing on occupying the crease. Buttler remains confident his form will return with continued self-belief and opportunity.",
-    "img": "https://static.toiimg.com/photo/msid-128603120,imgsize-35122.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/jos-buttler-wont-bat-for-15-overs-to-return-to-form-amid-struggle-for-runs-in-t20-world-cup/articleshow/128602746.cms",
-    "time": "2026-02-20T10:16:37.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "On ‘The Bluff,’ swishing swords, and why she loves a challenge",
     "desc": "Ahead of the release of her pirate thriller ‘The Bluff,’ actor and producer Priyanka Chopra Jonas speaks about prepping to play a fierce fighter and a mother, how her craft has evolved, and being involved in production",
@@ -549,15 +612,6 @@ const newsData_en = [
     "time": "2026-02-20T09:21:13.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Afridi issues fiery challenge to Shadab over 'India World Cup' comment",
-    "desc": "Former Pakistan captain Shahid Afridi has criticized Shadab Khan's post-match comments, reminding him of the challenges of handling success after their 2021 World Cup win against India. Afridi urged Shadab to let his performance on the field answer critics during the upcoming Super 8 matches, emphasizing that former players supported him during difficult times.",
-    "img": "https://static.toiimg.com/photo/msid-128598014,imgsize-1083231.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/shahid-afridi-issues-fiery-challenge-to-shadab-khan-over-india-world-cup-comment/articleshow/128597232.cms",
-    "time": "2026-02-20T07:45:10.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘House of the Dragon’ Season 3 teaser: All-out Targaryen war as Rhaenyra and Alicent collide",
     "desc": "HBO Max’s first teaser for ‘House of the Dragon’ Season 3 signals the bloodiest chapter yet, with dragonfire, political betrayal and the long-awaited Battle of the Gullet erupting as Rhaenyra Targaryen and Alicent Hightower push Westeros toward total war",
@@ -565,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/house-of-the-dragon-season-3-teaser-all-out-targaryen-war-as-rhaenyra-and-alicent-collide/article70655125.ece",
     "time": "2026-02-20T07:16:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Record-breaking reach! India-Pakistan clash becomes T20 World Cup's most-viewed match",
-    "desc": "India's dominant T20 World Cup victory over Pakistan shattered digital records, attracting 163 million viewers, the highest ever for an ICC T20 World Cup match. Ishan Kishan's explosive 77 powered India to 175/7, a target Pakistan couldn't chase, falling for 114. This win secured India's Super Eight spot unbeaten.",
-    "img": "https://static.toiimg.com/photo/msid-128596147,imgsize-853105.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/record-breaking-reach-india-pakistan-clash-becomes-t20-world-cups-most-viewed-match/articleshow/128595825.cms",
-    "time": "2026-02-20T06:52:44.000Z"
   },
   {
     "cat": "Sports",
@@ -721,15 +766,6 @@ const newsData_en = [
   },
   {
     "cat": "World",
-    "title": "Ukraine war talks in Geneva end without agreement on territory",
-    "desc": "Ukrainian President Volodymyr Zelenskyy said that the two sides agreed on “almost all issues” related to a ceasefire monitoring mechanism, which will involve the United States, but sensitive issues related to the fate of occupied territory in Ukraine’s east and the future status of the Russian-occupied Zaporizhzhia Nuclear Power Plant remained unresolved",
-    "img": "https://th-i.thgim.com/public/incoming/j5h31f/article70647611.ece/alternates/LANDSCAPE_1200/2026-02-18T103536Z_1091269125_RC29OJAHXD4J_RTRMADP_3_UKRAINE-CRISIS-TALKS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/ukraine-war-talks-in-geneva-end-without-agreement-on-territory/article70647401.ece",
-    "time": "2026-02-18T14:06:37.000Z"
-  },
-  {
-    "cat": "World",
     "title": "Iran 'drafting framework to advance' future U.S. talks: FM tells IAEA chief",
     "desc": "In the call with IAEA chief Rafael Grossi, Mr. Araghchi \"stressed the Islamic Republic of Iran's focus on drafting an initial and coherent framework to advance future talks\", a day after a second round of resumed negotiations with U.S.",
     "img": "https://th-i.thgim.com/public/incoming/5w30v7/article70648086.ece/alternates/LANDSCAPE_1200/International.EGKHFJQPTN.3.jpg.jpg",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/art/kochi-art-season-2026-biennale-highlights-and-must-see-parallel-shows/article70624155.ece",
     "time": "2026-02-13T11:51:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
   }
 ];
