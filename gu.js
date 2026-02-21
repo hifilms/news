@@ -1,6 +1,60 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "ચપટી વગાડતામાં ચેક કરી શકો છો PF બેલેન્સ, આ રીતે ડાઉનલોડ કરો EPFO પાસબુક",
+    "desc": "હવે PF બેલેન્સ ચેક કરવાનું પહેલા કરતા વધુ સરળ બની ગયું છે. આજકાલ, તમારે તમારી ડિપોઝિટ ચેક કરવા માટે ઓફિસમાં જવાની જરૂર નથી. તમે ફક્ત એક મિસ્ડ કોલ અથવા એસએમએસ દ્વારા તમારા ઘરેથી આરામથી તમારું બેલેન્સ ચેક કરી શકો છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/epfo-update-now-check-pf-balance-and-download-passbook-from-home-465760 ",
+    "time": "2026-02-21T12:22:23.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "iPhone 16 માત્ર 35,991 રૂપિયામાં! Croma Apple Saleમાં MacBook Air M4 પણ સસ્તું, જાણો શાનદાર ડીલ્સ",
+    "desc": "જો તમે iPhone કે MacBook ખરીદવાની રાહ જોઈ રહ્યા છો, તો આ તક ગુમાવશો નહીં. Croma's Everything Apple Sale માં iPhone 16 ફક્ત ₹35,991 માં એક્સચેન્જ, બેંક ઓફર્સ અને Tata New લાભો પછી ઉપલબ્ધ છે. દરેક ઉત્પાદન પર ડિસ્કાઉન્ટ કેવી રીતે મેળવવું અને સંપૂર્ણ લાભો કેવી રીતે મેળવવો તે જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/iphone-16-for-just-35991-macbook-air-m4-also-gets-cheaper-at-croma-apple-sale-see-deals-465758 ",
+    "time": "2026-02-21T11:56:25.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ભારતની કઈ કઈ વસ્તુઓ પર નહીં લાગે ટ્રમ્પનો નવો 10% ટેરિફ? જુઓ સંપૂર્ણ લિસ્ટ",
+    "desc": "અમેરિકાના રાષ્ટ્રપતિ દ્વારા લાદવામાં આવેલા નવા ટેરિફ 150 દિવસ માટે છે અને તે અમુક વસ્તુઓ પર લાગુ થશે નહીં. રાષ્ટ્રપતિ ટ્રમ્પે આદેશ પર હસ્તાક્ષર કર્યા છે, અને નવા ટેરિફ 24 ફેબ્રુઆરીની રાત્રે અમલમાં આવશે, પરંતુ કેટલીક પ્રોડક્ટને મુક્તિ આપવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/trumps-new-tax-which-indian-goods-will-not-be-subject-to-trumps-new-10-tariff-see-the-full-list-here-465749 ",
+    "time": "2026-02-21T11:26:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "દક્ષિણ આફ્રિકા સામે ટીમ ઈન્ડિયા કેટલી મજબૂત? જાણો અમદાવાદમાં છેલ્લા 5 મેચના આંકડા ખોલી રહ્યા છે ‘કાચા ચિઠ્ઠા’",
+    "desc": "ટીમ ઇન્ડિયાએ ગ્રુપ સ્ટેજની તમામ મેચ જીતી છે અને હવે સુપર 8 માં પણ આવી જ રીતે પ્રદર્શન કરવાની અપેક્ષા રાખવામાં આવશે. અહીં તેમનો પહેલો મુકાબલો દક્ષિણ આફ્રિકા સામે હશે. બંને ટીમો અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમમાં એકબીજાનો સામનો કરશે. ચાલો અમદાવાદમાં ટીમ ઇન્ડિયાના પ્રદર્શન પર એક નજર કરીએ...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/how-strong-is-team-india-against-sa-the-statistics-from-the-last-five-matches-in-ahmedabad-reveal-the-truth-465742 ",
+    "time": "2026-02-21T10:44:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "TATAનો આ વેચી દેજો, દિગ્ગજ એક્સપર્ટે કહ્યું: હજુ આવવાનો બાકી છે ઘટાડો",
+    "desc": "બ્રોકરેજ ICICI સિક્યોરિટીઝના જણાવ્યા અનુસાર, ટાટા ગ્રુપની આ કંપનીના શેર સેલ મોડમાં જઈ શકે છે. બ્રોકરેજ કંપનીએ ટારગેટ કિંમત નક્કી કરી છે, જેનો અર્થ એ થાય કે શેર તેના 52-સપ્તાહના નીચલા સ્તરથી નીચે આવી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/sell-%E2%80%8B%E2%80%8Bthis-tata-said-a-veteran-expert-the-decline-is-yet-to-come-465737 ",
+    "time": "2026-02-21T10:19:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભીવંડીમાં કોંગ્રેસે ખેલ્યો મોટો દાંવ, ભાજપને એનો જ ફોર્મ્યૂલા વાપરીને આપી ધોબીપછાડ",
+    "desc": "મહારાષ્ટ્રમાં હાલમાં જ પાલિકા અને નગરપાલિકાઓની ચૂંટણી થઈ હતી જેમાં ભાજપના નેતૃત્વવાળા મહાયુતિએ પ્રચંડ જીત મેળવી. બીએમસીમાં પણ ભાજપના મેયર આવ્યા. પરંતુ આ બધા વચ્ચે ભાજપ માટે એક મોટા ઝટકા સમાન સમાચાર ભીવંડીથી આવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-setback-for-bjp-in-bhiwandi-mayor-election-narayan-choudhary-bjp-congress-news-in-gujarati-465727 ",
+    "time": "2026-02-21T09:29:38.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "Gold-Silver Rate Explainer: કોર્ટનો એક નિર્ણય...સોના-ચાંદીના ભાવમાં ભડકા થઈ શકે, સપ્તાહમાં સોનું 2300 અને ચાંદી 7800 રૂપિયા મોંઘી થઈ",
     "desc": "સોના અને ચાંદી અઠવાડિયાના છેલ્લા કારોબારી દિવસે ઉછાળા મારીને બંધ થયા. છેલ્લા એક અઠવાડિયામાં સોના અને ચાંદીમાં શું સ્થિતિ રહી તે જાણો અને એક્સપર્ટ આગામી સમય કેવો રહેશે તેના વિશે શું મંતવ્યો ધરાવે છે તે પણ જાણવાની કોશિશ કરીએ.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -450,42 +504,6 @@ const newsData_gu = [
     "time": "2026-02-18T02:12:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ભારત માટે નવું રશિયા બની શકશે ફ્રાન્સ ? મોદી-મેક્રોનની પાવરફુલ જોડી પર નજર રાખી રહી છે દુનિયા",
-    "desc": "ફ્રાન્સના રાષ્ટ્રપતિ ઇમેન્યુઅલ મેક્રોનની ભારત મુલાકાતે ભારત-ફ્રાન્સ સંબંધોને નવી ગતિ આપી છે. વડાપ્રધાન નરેન્દ્ર મોદી સાથે સંરક્ષણ, ટેકનોલોજી અને વેપાર ક્ષેત્રમાં સહકાર વધારવા અંગે મહત્વપૂર્ણ ચર્ચા થઈ, જેને કારણે બંને દેશોની વ્યૂહાત્મક ભાગીદારી વધુ મજબૂત થવાની શક્યતા વધી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/can-france-become-new-russia-for-india-world-eye-on-pm-modi-and-macron-partnership-465289 ",
-    "time": "2026-02-18T01:46:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ખુશખબર! ઈનકમ ટેક્સના નવા નિયમોથી વધી જશે તમારો પગાર, જાણો કેલ્ક્યુલેશન",
-    "desc": "ઇન્કમ ટેક્સ નિયમ 2026 હવે દાયકાઓ જૂના ઇન્કમ ટેક્સ નિયમ 1961નું સ્થાન લેવા જઈ રહ્યા છે. તેની સીધી અસર તમારા પગાર પર પડશે. નવા નિયમો હેઠળ HRAની મર્યાદા વધવા જઈ રહી છે, સાથે જ એજ્યુકેશન અને હોસ્ટેલ એલાઉન્સમાં પણ વધારો થશે. જેના કારણે નોકરીયાત વર્ગનો ટેક્સ ઘટી જશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/new-income-tax-rules-2026-salary-increase-hra-education-allowance-calculation-465286 ",
-    "time": "2026-02-17T17:38:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "5% વધશે DA, એરિયરથી લઈને સેલેરી પર આવ્યું અપડેટ, કેન્દ્ર સરકારના કર્મચારી માટે મહત્વના સમાચાર",
-    "desc": "સરકારે ઓકટોબરમાં આયોગના TORને મંજૂરી આપી છે, જો કે પેનલને જણાવવામાં 18 મહિનાનો સમય લાગી શકે છે. એટલે કે નવા સેલેરી સ્ટ્રક્ચર અને ભથ્થામાં બદલાવને જમીન પર લાગુ થવા માટે હજી વધારે સમય લાગી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/da-will-increase-by-5-percent-update-on-arrears-to-salary-important-news-for-central-government-employees-465268 ",
-    "time": "2026-02-17T14:23:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ઓસ્ટ્રેલિયા T20 વર્લ્ડ કપમાંથી બહાર, ટુર્નામેન્ટનો સૌથી મોટો અપસેટ, ઝિમ્બાબ્વેની સુપર-8માં એન્ટ્રી",
-    "desc": "ઓસ્ટ્રેલિયા 2026ના T20 વર્લ્ડ કપમાંથી બહાર થઈ ગયું છે. પલ્લેકેલેમાં ઝિમ્બાબ્વે અને આયર્લેન્ડ વચ્ચેની મેચ વરસાદને કારણે રદ કરવામાં આવી હતી. મેચ રદ થતા બંને ટીમને એક એક પોઈન્ટ આપવામાં આવ્યા હતા. તેથી ઝિમ્બાબ્વેની સુપર 8માં એન્ટ્રી થઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/australia-out-of-t20-world-cup-2026-zimbabwe-enters-super-8-465260 ",
-    "time": "2026-02-17T12:39:51.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "વેચાણ ઘટવા છતાં નંબર 1 બની આ SUV, પણ બીજા નંબરનીએ જીત્યા લોકોના દિલ, વેચાણમાં 145%નો જબરદસ્ત વધારો",
     "desc": "જાન્યુઆરી 2026 માં 4.2–4.5 મીટર SUV સેગમેન્ટમાં નોંધપાત્ર ઉછાળો જોવા મળ્યો. આ ગાડીનો ક્રેજ હજુ પણ નંબર 1 છે, પરંતુ સેલ્ટોસ, વિક્ટોરિસ અને સીએરા જેવા નવા વાહનો બજારની ગતિશીલતા બદલી રહ્યા છે. આગામી મહિનાઓમાં આ સેગમેન્ટ વધુ રોમાંચક બનવાની તૈયારીમાં છે.",
@@ -493,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/despite-the-decline-in-sales-this-suv-became-number-1-its-sales-increased-by-a-whopping-145-percent-465259 ",
     "time": "2026-02-17T12:08:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ટ્રમ્પ અને પુતિનને નારાજ કરી કેમ મેક્રોન માટે ભારતે સજાવી છે લાલજાજમ, ભારતે ખેલ્યો 3.5 લાખ કરોડનો જુગાર",
-    "desc": "ફ્રાંસના રાષ્ટ્રપતિ મેક્રોન ચોથીવાર ભારત પહોંચી ગયા છે. આ બેઠક પર દુનિયાભરની નજર છે. ભારત પહોંચતાં જ પીએમ મોદીએ પોસ્ટ કરીને મેક્રોનનું સ્વાગત કર્યું હતું. આ સાથે લખ્યું હતું કે, આ સંબંધોને નવી ઉંચાઈ પર લઈ જવા માટે ઈંતજાર રહેશે, આપણી વાતચીતથી અલગ અલગ સેક્ટરમાં આપણો સહયોગ મજબૂત રહેશે. મુંબઈમાં અને પછી દિલ્હીમાં મળીએ છીએ , મેરે પ્યારે દોસ્ત... આ બેઠકમાં સૌથી મોટી ચર્ચા એ પિનાકા રોકેટ લોન્ચર અને રાફેલની રહેવાની છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/explainer-why-india-decorated-the-red-carpet-for-immanuel-mecron-by-upsetting-trump-and-putin-465249 ",
-    "time": "2026-02-17T11:09:08.000Z"
   },
   {
     "cat": "World",
@@ -529,15 +538,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/what-is-the-3-25-lakh-crore-mega-deal-between-modi-and-macron-that-will-give-china-and-pakistan-sleepless-nights-465206 ",
     "time": "2026-02-17T06:34:12.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "હમ નહીં સુધરેંગે! રાજીનામું આપ્યા બાદ મોહમ્મદ યુનુસે વળી પાછો સેવન સિસ્ટર્સનો રાગ આલાપ્યો, ભારતનું નામ લીધુ જ નહીં",
-    "desc": "શેખ હસીનાની સરકાર પડ્યા બાદ જે વચગાળાની સરકાર બાંગ્લાદેશમાં બની તેના સલાહકાર મોહમ્મદ યુનુસે જતા જતા પણ એવી ન ગમે એવી હરકત કરી. તેમણે પોતાના રાષ્ટ્રજોગ સંબોધનમાં ભારતના પૂર્વોત્તર રાજ્યો જેને સેવનસિસ્ટર્સ તરીકે પણ ઓળખવામાં આવે છે તેનો ઉલ્લેખ કર્યો અને તે પણ ભારતનું નામ લીધા વગર.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/muhammad-yunus-mentions-northeast-seven-sisters-in-speech-bangladesh-world-news-in-gujarati-465191 ",
-    "time": "2026-02-17T03:35:09.000Z"
   },
   {
     "cat": "Tech",

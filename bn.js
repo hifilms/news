@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Business",
+    "title": "৫০%, ২৫%, ১৮%, ১০%, na ৩%...? ভারতীয় পণ্যের উপর আজকের তারিখে 'ট্যারিফ' কত? ট্রাম্পের বিরুদ্ধে সুপ্রিম রায়ে কী প্রভাব? জানুন!",
+    "desc": "মার্কিন সুপ্রিম কোর্টে বড় ধাক্কা প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে। বিশ্বের প্রায় সমস্ত দেশের উপরে ইচ্ছেমতো ট্যারিফ চাপানোর নির্দেশ খারিজ করে বেআইনি ঘোষণা করে দিয়েছে মার্কিন সুপ্রিম কোর্ট৷ এই মুহূর্তে কত দাঁড়াচ্ছে ভারতের পণ্যের রফতানি 'শুল্ক'? জানুন সবিস্তার।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/TRUMP-2026-02-0231be8904c7197927b22f5c10a13706-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/business/usa-india-tariff-rate-what-are-the-current-tariffs-on-indian-products-now-what-will-be-the-impact-of-the-trump-ruling-know-in-detail-us-supreme-court-tariff-ruling-explained-sanj-2551446.html",
+    "time": "2026-02-21T10:16:48.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "আধার পিভিসি কার্ড কী এবং কীভাবে এটি পাওয়া যেতে পারে? জানুন সম্পূর্ণ তথ্য",
     "desc": "আধার পিভিসি কার্ড হল Unique Identification Authority of India কর্তৃক জারি করা আধারের একটি নতুন ও টেকসই সংস্করণ। উন্নত সিকিউরিটি ফিচার ও ছোট আকারের জন্য এটি বহনে সুবিধাজনক এবং অনলাইনে সামান্য ফি দিয়ে অর্ডার করা যায়।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/aadhaar-60-2026-02-8af6df9b83ebfc0582962ff56631ced6-3x2.jpg",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/business/south-24-parganas-off-season-vegetable-farming-farmers-may-get-huge-profit-from-cauliflower-cabbage-summer-season-cultivation-l18-local18-2537789.html",
     "time": "2026-02-13T09:39:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "স্বপ্নপূরণ হল না পাকিস্তানের, বাংলাদেশে ধরাশায়ী জামাত! বাধ্য হয়েই যা লিখলেন পাক প্রধানমন্ত্রী-প্রেসিডেন্ট, শুনে অবাক হয়ে যাবেন",
-    "desc": "বিএনপি প্রধান তারেক রহমানের জয়ের জন্য অভিনন্দন জানালেন পাকিস্তানের প্রেসিডেন্ট আসিফ আলি জারদারি ও প্রধানমন্ত্রী শাহবাজ শরিফ। আসিফ আলি জারদারি বলেন, পাকিস্তান বাংলাদেশের গণতান্ত্রিক আকাঙ্ক্ষাকে সমর্থন করে এবং বাণিজ্য, প্রতিরক্ষা ও সাংস্কৃতিক বিনিময় জোরদার করতে নতুন সরকারের সঙ্গে কাজ করার প্রত্যাশা রাখে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Tarekh-pakisthan-2026-02-abb27b5c2ced6eef6c4f816a466444c7-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/historic-victory-unveiled-in-bangladesh-congratulations-to-tarique-rahman-rmj-2-ws-l-2538687.html",
-    "time": "2026-02-13T09:20:22.000Z"
   }
 ];
