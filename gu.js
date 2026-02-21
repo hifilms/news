@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "આ ભારતવંશીના કારણે ટ્રમ્પને મોટો ઝટકો, અમેરિકન કોર્ટે દુનિયા પર લગાવેલા ટેરિફ પર આપ્યો ઐતિહાસિક ચુકાદો",
+    "desc": "યુએસ સુપ્રીમ કોર્ટે ડોનાલ્ડ ટ્રમ્પે વિશ્વ પર લગાવેલા ટેરિફને દુર કર્યા છે. ભારતીય મૂળના વકીલે નાના વ્યવસાયો વતી દલીલ કરી, તેમને ગેરકાયદેસર ગણાવ્યા. કોર્ટે તેમના પક્ષમાં ચુકાદો આપ્યો. વકીલે તેને બંધારણ અને કાયદાના શાસનનો વિજય ગણાવ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/trump-got-a-big-blow-because-of-this-indian-american-court-gave-a-historic-verdict-on-tariffs-imposed-on-the-world-465769 ",
+    "time": "2026-02-21T14:42:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "દુનિયાની પહેલી યૂટ્યૂબ ચેનલ, જેને પુરા કર્યા 100 મિલિયન સબ્સક્રાઇબર્સ, મળ્યું રેડ ડાયમંડ પ્લે બટન, Video પર આવે છે બિલિયનમાં વ્યુઝ",
+    "desc": "તમે 10-20-30-40 અને 50 મિલિયન સબ્સ્ક્રાઇબર્સ વાળી ઘણી YouTube ચેનલો જોઈ હશે, જેને તમે સબ્સ્ક્રાઇબ પણ કરી હશે, પરંતુ આજે અમે તમને વિશ્વની પહેલી YouTube ચેનલ વિશે જણાવવા જઈ રહ્યા છીએ જેના 100 મિલિયન સબ્સ્ક્રાઇબર્સ છે અને તેને રેડ ડાયમંડ પ્લે બટન પણ મળ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/the-world-first-youtube-channel-which-has-completed-100-million-subscribers-got-the-red-diamond-play-button-465766 ",
+    "time": "2026-02-21T14:11:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "અમિતાભ બચ્ચન સામે કેસ દાખલ, KBCમાં આ શહેર વિશે કરી હતી ટિપ્પણી",
+    "desc": "ફરિયાદમાં અરજદારે જણાવ્યું છે કે, 23 ડિસેમ્બરના રોજ જાહેર થયેલા અહેવાલમાં પાણીની તંગી ધરાવતો વિસ્તાર જણાવ્યો હતો, જો કે તેની પાસેથી ચંબલ નદી વહે છે અને તેની વસ્તી 150000ની છે. આ ઉલ્લેખથી શહેરની પ્રતિષ્ઠામાં ઠેસ પહોચે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/case-filed-against-amitabh-bachchan-made-comments-about-this-city-in-kbc-465765 ",
+    "time": "2026-02-21T13:29:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ડોક્ટર મોહિતે આર્ય માટે માગ્યો અનુનો હાથ, સિદ્ધિ માંની ભવિષ્યવાણીથી હેરાન",
+    "desc": "ટીવી સીરિયલ 'તુમ સે તુમ તક' માં અનુ અને ડૉ. મોહિતના લગ્ન તૂટ્યા પછી, એક મોટો વળાંક આવવાનો છે. સિદ્ધિ મા ફરી એકવાર અનુ અને આર્યાના સંબંધો અંગે આ મુદ્દો ઉઠાવશે. માનસીનો સ્વર બદલાઈ ગયો છે, અને તે હવે અનુને ઘરે લાવવાની તૈયારી કરી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/doctor-mohit-requested-for-arya-and-anu-marriage-siddhi-maa-prediction-surprised-him-465761 ",
+    "time": "2026-02-21T12:43:50.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ચપટી વગાડતામાં ચેક કરી શકો છો PF બેલેન્સ, આ રીતે ડાઉનલોડ કરો EPFO પાસબુક",
     "desc": "હવે PF બેલેન્સ ચેક કરવાનું પહેલા કરતા વધુ સરળ બની ગયું છે. આજકાલ, તમારે તમારી ડિપોઝિટ ચેક કરવા માટે ઓફિસમાં જવાની જરૂર નથી. તમે ફક્ત એક મિસ્ડ કોલ અથવા એસએમએસ દ્વારા તમારા ઘરેથી આરામથી તમારું બેલેન્સ ચેક કરી શકો છો.",
@@ -495,15 +531,6 @@ const newsData_gu = [
     "time": "2026-02-18T02:34:42.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "T20 વર્લ્ડ કપની આગામી મેચ નહીં રમે જસપ્રીત બુમરાહ ? ટીમ ઈન્ડિયાના કોચે આપી મોટી અપડેટ",
-    "desc": "ટીમ ઈન્ડિયાએ સુપર-8માં સ્થાન મેળવી લીધું છે. ભારતીય ટીમ 18 ફેબ્રુઆરીના રોજ તેની છેલ્લી ગ્રુપ સ્ટેજ મેચમાં નેધરલેન્ડ્સ સામે ટકરાશે. આ મેચ પહેલા ટીમ ઇન્ડિયાના બેટિંગ કોચ સિતાંશુ કોટકે જસપ્રીત બુમરાહ અંગે એક મહત્વપૂર્ણ અપડેટ આપી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/sitanshu-kotak-gave-update-on-jasprit-bumrah-availability-in-ind-vs-ned-match-465303 ",
-    "time": "2026-02-18T02:12:58.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "વેચાણ ઘટવા છતાં નંબર 1 બની આ SUV, પણ બીજા નંબરનીએ જીત્યા લોકોના દિલ, વેચાણમાં 145%નો જબરદસ્ત વધારો",
     "desc": "જાન્યુઆરી 2026 માં 4.2–4.5 મીટર SUV સેગમેન્ટમાં નોંધપાત્ર ઉછાળો જોવા મળ્યો. આ ગાડીનો ક્રેજ હજુ પણ નંબર 1 છે, પરંતુ સેલ્ટોસ, વિક્ટોરિસ અને સીએરા જેવા નવા વાહનો બજારની ગતિશીલતા બદલી રહ્યા છે. આગામી મહિનાઓમાં આ સેગમેન્ટ વધુ રોમાંચક બનવાની તૈયારીમાં છે.",
@@ -520,24 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/us-firing-at-rhode-island-high-school-hockey-tournament-465247 ",
     "time": "2026-02-17T11:04:25.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "હજારો લોકોની છટણી વચ્ચે બાબા વેંગાની AI અંગેની ભયાનક ભવિષ્યવાણી થઈ રહી છે વાયરલ",
-    "desc": "બાબા વેંગા એ બાલ્કનના નોસ્ત્રાદમસ તરીકે પણ ઓળખાય છે. તેમની ભવિષ્યવાણીઓ સોશિયલ મીડિયા પર ખુબ વાયરલ થાય છે. જેમાં એલિયન્સસાથે સંપર્કનો દાવો પણ સામેલ છે. ટેક કંપનીઓમાં છટણી અને એઆઈ પર વધતા રોકાણને લઈને બાબા વેંગાનું નામ ફરી ચર્ચામાં આવ્યું છે. ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/why-baba-vanga-predictions-regarding-ai-trending-on-social-media-465226 ",
-    "time": "2026-02-17T08:39:33.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "શું છે મોદી-મેક્રોન વચ્ચે થનારી 3.25 લાખ કરોડની મહાડીલ? જે ચીન-પાકિસ્તાનની હરામ કરી દેશે ઊંઘ!",
-    "desc": "ભારતની ત્રણ દિવસની મુલાકાતે આવેલા ફ્રાન્સના રાષ્ટ્રપતિ ઇમેન્યુઅલ મેક્રોન ભારત અને ફ્રાન્સ વચ્ચે પ્રસ્તાવિત રાફેલ ફાઇટર જેટ સોદા પર ધ્યાન કેન્દ્રિત કરી રહ્યા છે, જેની કિંમત આશરે ₹3.25 લાખ કરોડ થવાનો અંદાજ છે. આને સ્વતંત્રતા પછી ભારતની સૌથી મોટી હથિયાર ખરીદી માનવામાં આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/what-is-the-3-25-lakh-crore-mega-deal-between-modi-and-macron-that-will-give-china-and-pakistan-sleepless-nights-465206 ",
-    "time": "2026-02-17T06:34:12.000Z"
   },
   {
     "cat": "Tech",
@@ -576,15 +585,6 @@ const newsData_gu = [
     "time": "2026-02-13T13:42:26.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "એક ખોટા નિર્ણયના કારણે રાજપાલ યાદવ કરતાં પણ ખરાબ સ્થિતિમાં પહોંચી ગયા હતા અમિતાભ બચ્ચન",
-    "desc": "જે રીતે રાજપાલ યાદવ તેની એક ફિલ્મના કારણે આજે જીવનના સૌથી ખરાબ સમયમાંથી પસાર થઈ રહ્યો છે તે રીતે અમિતાભ બચ્ચન પણ કરજમાં ડુબી બરબાદ થવાની અણીએ હતા. 1995 નો સમય સદીના મહાનાયક માટે સૌથી ખરાબ સમય હતો જ્યારે તેમના પર 90 કરોડનું કરજ થઈ ગયું હતું અને 50 થી વધુ કેસ થયા હતા. અમિતાભ બચ્ચનનો આવો સમય શા માટે આવ્યો અને પછી તેમાંથી બહાર કેવી રીતે આવ્યા ચાલો જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/bollywood-old-memories-amitabh-bachchan-abcl-company-event-and-films-and-bankrupt-situation-details-464691 ",
-    "time": "2026-02-12T08:01:42.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "રેનો ટ્રાઈબરનો દબદબો, 5.76 લાખની આ 7-સીટર કાર પર ફિદા થયા ગ્રાહકો; સેફ્ટીમાં પણ 4-સ્ટાર રેટિંગ!",
     "desc": "દેશમાં સસ્તી કાર વેચવાની બાબતમાં રેનો (Renault)નું નામ સૌથી ઉપર આવે છે. આ કંપની પાસે સસ્તી હેચબેક, સસ્તી MPV અને સસ્તી SUV ઉપલબ્ધ છે. હાલમાં જ કંપનીના પોર્ટફોલિયોમાં 'ડસ્ટર'ની પણ એન્ટ્રી થઈ ગઈ છે, જોકે તેની કિંમતો અને વેચાણ માર્ચમાં શરૂ થશે.",
@@ -592,14 +592,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/renault-triber-sales-january-2026-features-price-safety-rating-464651 ",
     "time": "2026-02-11T17:51:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "રાજપાલ યાદવ સજા ભોગવી લેશે પછી શું થશે ? જાણો કેવી રીતે વસુલ કરાશે કરજની રકમ ?",
-    "desc": "બોલીવુડ કલાકાર રાજપાલ યાદવ હાલ ચર્ચાનો વિષય બન્યા છે. ચેક બાઉન્સ કેસમાં તેમને જેલની સજા થઈ છે અને હાલ તે તિહાડ જેલમાં છે. રાજપાલ યાદવની ઘટના પછી ચેક બાઉન્સ સંબંધિત નિયમો અને કાયદાની ચર્ચા પણ થઈ રહી છે. તો ચાલો તમને જણાવીએ રાજપાલ યાદવ ચેકના ચક્રવ્યુહમાં કેવી રીતે ફસાયા અને હવે તેમની સાથે શું થશે ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/rajpal-yadav-must-pay-9-crore-after-jail-cheque-bounce-law-in-india-rajpal-yadav-film-ata-pata-laapata-464589 ",
-    "time": "2026-02-11T07:05:50.000Z"
   }
 ];

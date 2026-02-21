@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "মা, বাবা, ভাই, পোষা বেড়াল...এক এক করে সবাইকে খুন, ৫ বছরের ভাইপোকে...! নিজের বাড়িতে নৃংশস হত্যালীলা ক্লাস ১২ টপারের, ঘটনা জানলে শিউরে উঠবেন",
+    "desc": "নিজের পরিবারেই হত্যালীলা চালানোর অভিযোগ উঠল দীপক ধুরভে নামে মধ্যপ্রদেশের এক যুবকের বিরুদ্ধে৷ ৩০ বছরের যুবক মা, বাবা, ভাই এবং পোষা বিড়ালকেও নির্মমভাবে খুন করেছে বলেই অভিযোগ৷ দীপক ধুরভে নামে ওই যুবককে গ্রেফতার করেছে পুলিশ",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Crime-2026-02-f4b3fb3f889a96a1ed9d54c5bb2fed1c-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/once-class-12-topper-mentally-unwell-man-has-killed-father-mother-and-brother-attacked-5-year-old-nephew-in-madhyapradesh-betur-ank-2551860.html",
+    "time": "2026-02-21T14:20:06.000Z"
+  },
+  {
     "cat": "Business",
     "title": "৫০%, ২৫%, ১৮%, ১০%, na ৩%...? ভারতীয় পণ্যের উপর আজকের তারিখে 'ট্যারিফ' কত? ট্রাম্পের বিরুদ্ধে সুপ্রিম রায়ে কী প্রভাব? জানুন!",
     "desc": "মার্কিন সুপ্রিম কোর্টে বড় ধাক্কা প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে। বিশ্বের প্রায় সমস্ত দেশের উপরে ইচ্ছেমতো ট্যারিফ চাপানোর নির্দেশ খারিজ করে বেআইনি ঘোষণা করে দিয়েছে মার্কিন সুপ্রিম কোর্ট৷ এই মুহূর্তে কত দাঁড়াচ্ছে ভারতের পণ্যের রফতানি 'শুল্ক'? জানুন সবিস্তার।",
@@ -466,15 +475,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/tarek-rahman-takes-oath-as-prime-minister-of-bangladesh-along-with-49-cabinet-ministers-jamat-and-ncp-did-not-take-oath-rdp-2545010.html",
     "time": "2026-02-17T12:45:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "রাক্ষুসে গতির SUV-র ধাক্কায় উড়ে গিয়ে ৫০ ফুট দূরে পড়ল তরুণের দেহ! তালগোলা-পাকানো ছেলেটির দেওয়ালে লেখা-- 'D'...",
-    "desc": "সাহিল ধনেশরার অপূর্ণ স্বপ্ন। স্বপ্নের অপমৃত্যু। এক কিশোর চালকের বেপরোয়া গতিতে পিষ্ট হল দিল্লির এক বাইক আরোহী। রাক্ষুসে গতিতে ছুটে-আসা SUV-র ধাক্কায় উড়ে গিয়ে ৫০ ফুট দূরে পড়ে সেই তরুণ! মেধাবী এই তরুণের লক্ষ্য ছিল বছরে প্রায় ১ কোটি টাকার প্যাকেজ। তাঁর বাবা-মায়ের স্বপ্ন যখন ছিল প্লেনের ফার্স্ট ক্লাসে ভ্রমণ, তখন সে ভাবত তার নিজের একটি প্লেন থাকবে!",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/killed-in-crash-unfulfilled-dreams-of-sahil-dhaneshra-killed-in-crash-dwarka-west-delhi-dream-of-yearly-income-of-usd-1000000_641674.html ",
-    "time": "2026-02-17T11:36:14.000Z"
   },
   {
     "cat": "Sports",

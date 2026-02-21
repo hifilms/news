@@ -1,16 +1,178 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Kerala will attain self-sufficiency in milk, egg, and meat production by 2031 : Minister",
+    "desc": "A new ₹80-crore facility, which will come up at Development Board farm in Kulathuppuzha, is aimed at enhancing cattle productivity through modern breeding techniques and eco-friendly practices. This will support local farmers and strengthen the State’s livestock sector.",
+    "img": "https://th-i.thgim.com/public/incoming/fpjytt/article70660625.ece/alternates/LANDSCAPE_1200/22tv%20kulathupuzha%20bovine%20production%20research%20centre.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-will-attain-self-sufficiency-in-milk-egg-and-meat-production-by-2031-minister/article70660333.ece",
+    "time": "2026-02-21T14:56:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Malaika Arora’s selfie with mystery man from Italy goes viral",
+    "desc": "Malaika Arora has been making headlines yet again over her alleged relationship rumours. This time, an unseen photo of the 50-year-old Bollywood diva with a mystery man has surfaced online, sending social media — especially Reddit — into a frenzy.",
+    "img": "https://static.toiimg.com/photo/msid-128648117,imgsize-108818.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/malaika-aroras-unseen-selfie-with-mystery-man-from-italy-goes-viral-netizens-ask-valentine-at-trevi-fountain/articleshow/128647805.cms",
+    "time": "2026-02-21T14:55:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Not appropriate': 'Ashamed' Congress allies, BJP rivals slam 'semi-nudity' protest at AI Summit",
+    "desc": "Opposition leaders and Congress allies have criticised the Indian Youth Congress's \"semi-nude\" protest at the AI Impact Summit, deeming it inappropriate and shameful on an international stage. Around 10 IYC workers were detained for raising slogans against PM Modi, wearing T-shirts with controversial slogans, sparking widespread condemnation for tarnishing the country's image.",
+    "img": "https://static.toiimg.com/photo/msid-128647859,imgsize-64654.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/not-appropriate-ashamed-congress-allies-bjp-rivals-slam-semi-nudity-protest-at-ai-summit/articleshow/128646448.cms",
+    "time": "2026-02-21T14:45:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi government launches ' CM Jansunwai Portal' to address public concerns",
+    "desc": "Delhi's chief minister Rekha Gupta has launched an advanced digital initiative, the 'CM Jansunwai Portal' and its accompanying mobile app, empowering citizens to voice their concerns with just a few clicks. This new platform is designed to promote clarity and accelerate the handling of public complaints.",
+    "img": "https://static.toiimg.com/photo/msid-128647818,imgsize-1233724.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/delhi-government-launches-cm-jansunwai-portal-to-address-public-concerns/articleshow/128647664.cms",
+    "time": "2026-02-21T14:41:06.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "New Delhi Declaration on AI Impact adopted; U.S., U.K., China among nations to endorse vision for collaborative AI",
+    "desc": "\"The AI Impact Summit 2026, held in New Delhi on 18-19 February, concluded with the adoption of the New Delhi Declaration on AI Impact, marking a significant milestone in global cooperation on artificial intelligence,” say the release",
+    "img": "https://th-i.thgim.com/public/incoming/r3xbqb/article70660318.ece/alternates/LANDSCAPE_1200/20260220124L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/new-delhi-declaration-on-ai-impact-adopted-us-uk-china-among-nations-to-endorse-vision-for-collaborative-ai/article70660201.ece",
+    "time": "2026-02-21T14:25:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Made-in-India chips crucial for a self-reliant India’: PM Modi virtually inaugurates semiconductor facility in UP",
+    "desc": "Prime Minister Modi emphasized self-reliance for India's technological future, highlighting the critical role of 'Made in India' chips. A new Rs 3,700 crore joint venture between HCL and Foxconn will establish an Outsourced Semiconductor Assembly & Test facility in Greater Noida, aiming to produce display driver chips and boost India's manufacturing prowess.",
+    "img": "https://static.toiimg.com/photo/msid-128647095,imgsize-709249.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/made-in-india-chips-crucial-for-a-self-reliant-india-pm-modi-virtually-inaugurates-semiconductor-facility-in-up/articleshow/128646756.cms",
+    "time": "2026-02-21T14:20:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Floral symphony that spreads fragrance, inspires devotion",
+    "desc": "The TTD gardens, from where most of the 2.70 lakh kg of flowers are sourced for various rituals in the Lord Venkateswara temple in Tirumala every year, offer a visual and spiritual experience to millions of devotees",
+    "img": "https://th-i.thgim.com/public/incoming/22ye90/article70656286.ece/alternates/LANDSCAPE_1200/6689_21-11-2020_18-15-5_1_FLOWERPROCESSION01.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/floral-symphony-that-spreads-fragrance-inspires-devotion/article70652504.ece",
+    "time": "2026-02-21T14:12:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Shirtless' protest row: BJP &amp; Congress workers clash in Indore, pelt stones",
+    "desc": "Clashes erupted between BJP and Congress workers during a BJP protest against an Indian Youth Congress (IYC) demonstration at the India AI Impact Summit. Stone-pelting occurred, leading to police intervention and injuries. Four IYC workers were arrested and sent to police custody for investigation into a potential larger conspiracy.",
+    "img": "https://static.toiimg.com/photo/msid-128647333,imgsize-4602961.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/shirtless-protest-row-bjp-congress-workers-clash-in-indore-pelt-stones-watch/articleshow/128646167.cms",
+    "time": "2026-02-21T14:09:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sanjay Gupta calls Dhurandhar 2-Toxic BO clash 'unfortunate'",
+    "desc": "The Revenge and Yash's Toxic: A Fairytale for Adults — are gearing up for a major box office clash on March 19. While trade circles are buzzing about their potential earnings, filmmaker Sanjay Gupta believes the inevitable face-off may hurt both films.",
+    "img": "https://static.toiimg.com/photo/msid-128646982,imgsize-31360.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanjay-gupta-calls-ranveer-singhs-dhurandhar-2-and-yashs-toxic-box-office-clash-unfortunate-both-films-will-do-well-but-neither-will-/articleshow/128646854.cms",
+    "time": "2026-02-21T14:08:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'Why did we compromise our ... ': Congress raises 7 questions after US court strikes down Trump tariffs",
+    "desc": "The Congress has criticized Prime Minister Modi over the recent India-US trade deal, alleging it's an \"anti-India deal\" influenced by external pressures. This comes after the US Supreme Court struck down Trump's tariffs, a move the opposition claims will now subject Indian goods to a 10% tariff, contradicting the interim agreement's terms.",
+    "img": "https://static.toiimg.com/photo/msid-128646431,imgsize-1294748.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/why-did-we-compromise-our-congress-raises-7-questions-after-us-court-strikes-down-trump-tariffs/articleshow/128645504.cms",
+    "time": "2026-02-21T13:57:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Charayam, Kerala’s forbidden brew, gets a Polish makeover",
+    "desc": "Exactly 30 years after that ban, arrack is all set for a high-profile global resurrection in Poland. Midhun Mohan, an entrepreneur based in Poland hailing from Kerala, is preparing to launch a premium brand named ‘Charayam’",
+    "img": "https://th-i.thgim.com/public/incoming/z8akbr/article70659953.ece/alternates/LANDSCAPE_1200/80686_21_2_2026_17_10_59_1_22TVKO_CHARAYAM.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/charayam-keralas-forbidden-brew-gets-a-polish-makeover/article70659716.ece",
+    "time": "2026-02-21T13:34:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Hungary says it will block key E.U. loan to Ukraine until Russian oil shipments resume",
+    "desc": "Russian oil shipments to Hungary and Slovakia have been interrupted since January 27, after Ukrainian officials said a Russian drone attack damaged the Druzhba pipeline, which carries Russian crude across Ukrainian territory and into Central Europe",
+    "img": "https://th-i.thgim.com/public/incoming/a25b4/article70660194.ece/alternates/LANDSCAPE_1200/Hungary_Ukraine_Diesel_Cutoff_50211.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/hungary-says-it-will-block-key-eu-loan-to-ukraine-until-russian-oil-shipments-resume/article70660093.ece",
+    "time": "2026-02-21T13:32:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Javed Akhtar slams Taliban’s ‘wife beating’ law",
+    "desc": "Award-winning lyricist and screenwriter Javed Akhtar has strongly reacted to reports that the Taliban has formalised domestic violence under certain conditions in Afghanistan’s new penal code. Calling the development disturbing, Akhtar took to X on February 21 to express his outrage.",
+    "img": "https://static.toiimg.com/photo/msid-128646067,imgsize-28490.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/javed-akhtar-slams-talibans-reported-wife-beating-law-i-beseech-the-mufties-and-mullas-of-india-to-condemn-it-unconditionally/articleshow/128645931.cms",
+    "time": "2026-02-21T13:31:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC’s revenue sharing model counter productive for associates: Netherlands cricket board member Shah",
+    "desc": "Out of the estimated $600 million annual earnings in the 2024–2027 period, close to $533 million will be distributed among the 12 full members, while roughly $67 million will be shared by the associate teams.",
+    "img": "https://th-i.thgim.com/public/incoming/fiefti/article70660092.ece/alternates/LANDSCAPE_1200/PTI02_21_2026_000213B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/netherlands-cricket-board-rashid-shah-icc-revenue-sharing-model-counter-productive-for-associates/article70659808.ece",
+    "time": "2026-02-21T13:25:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Beating Australia in Australia special': Mandhana after India's series win",
+    "desc": "Smriti Mandhana called India’s 17-run series-deciding win over Australia “really special” but said the team will “not celebrate too much” and focus on the ODI series. Mandhana scored 82, Jemimah Rodrigues made 59, and India posted 176/6. Bowlers then restricted Australia to 159/9. Mandhana praised Rodrigues’ role and highlighted the importance of beating Australia in Australia.",
+    "img": "https://static.toiimg.com/photo/msid-128645843,imgsize-240968.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/beating-australia-in-australia-really-special-smriti-mandhana-after-indias-3-1-t20i-series-win/articleshow/128645515.cms",
+    "time": "2026-02-21T13:23:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ayesha Meera case closed as court accepts CBI final report",
+    "desc": "Bringing a 17 year legal battle to an end, the CBI Court accepts the agency’s report citing lack of legally sustainable evidence, with the victim’s parents unwilling to pursue further remedies due to financial constraints and dissatisfaction with the probe",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ayesha-meera-case-closed-as-court-accepts-cbi-final-report/article70659544.ece",
+    "time": "2026-02-21T13:20:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Hollowing out the hills",
+    "desc": "The Nilgiris is under attack. Climate change and falling tea prices have heralded a transformation in the hills that does not augur well for its fragile ecosystem. The rapid real estate expansion on erstwhile tea estates in the Blue Mountains is placing additional pressure on the hills, creating demands for new infrastructure and dramatically altering the landscape, setting alarm bells ringing, says Rohan Premkumar.",
+    "img": "https://th-i.thgim.com/public/incoming/jz4vrb/article70659890.ece/alternates/LANDSCAPE_1200/10214_3_2_2026_13_5_48_2__SAT4740.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/hollowing-out-the-hills-how-real-estate-boom-is-impacting-nilgiris-tea-estates/article70659196.ece",
+    "time": "2026-02-21T12:47:21.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Kuki-Zo MLA, attacked by mob in 2023 ethnic violence in Manipur, dies in Gurugram hospital",
     "desc": "Vungzagin Valte, a third-time legislator who was also an adviser to former Chief Minister N. Biren Singh on tribal affairs, was attacked by the mob while leaving the Chief Minister’s office after attending a meeting",
     "img": "https://th-i.thgim.com/public/incoming/qeiygk/article70659844.ece/alternates/LANDSCAPE_1200/Vungzagin%20Valte.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/manipur/vungzagin-valte-kuki-zo-mla-dead-manipur-ethnic-violence/article70659832.ece",
-    "time": "2026-02-21T12:26:38.000Z"
+    "time": "2026-02-21T12:44:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arshad Warsi on saying yes to SRK’s King, Aryan’s series",
+    "desc": "Arshad Warsi recently opened up about his involvement in Shah Rukh Khan's upcoming film 'King' and Aryan Khan's directorial debut, 'The Ba***ds of Bollywood.' He emphasized that his commitment was fueled by his long-standing relationship with the Khan family rather than the allure of the screenplay.",
+    "img": "https://static.toiimg.com/photo/msid-128644626,imgsize-37838.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arshad-warsi-reveals-why-he-said-yes-to-shah-rukh-khans-king-and-aryans-the-bads-of-bollywood/articleshow/128644626.cms",
+    "time": "2026-02-21T12:39:47.000Z"
   },
   {
     "cat": "Politics",
-    "title": "UP court orders FIR against Swami Avimukteshwaranand in sexual exploitation case",
+    "title": "UP court orders FIR against Swami Avimukteshwaranand in sexual exploitation case, seer responds",
     "desc": "A special POCSO court in Prayagraj has ordered the police to register an FIR against Swami Avimukteshwaranand Saraswati and his disciple over sexual exploitation allegations. This directive follows a complaint filed by Ashutosh Brahmachari Maharaj. The move occurs amidst ongoing controversy surrounding Swami Avimukteshwaranand, including a recent protest over being prevented from a ritual dip at Sangam.",
     "img": "https://static.toiimg.com/photo/msid-128644206,imgsize-1498652.cms",
     "src": "indiatimes.com",
@@ -34,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/toxic-actor-akshay-oberoi-and-heli-daruwala-headline-love-lottery-shoot-starts-on-feb-27/articleshow/128643546.cms",
     "time": "2026-02-21T11:56:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Youth Congress workers trespass on Health Minister Veena George’s official residence, lay funeral wreath to protest “increasing medical negligence”",
-    "desc": "The trespass on Ms George’s residence was the latest incident in the escalating Congress and Bharatiya Janata Party (BJP) campaign against the Left Democratic Front (LDF) following the startling discovery of an artery forceps in the abdomen of a woman who underwent surgery at the Government Medical College Hospital, Alappuzha, in 2021.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/youth-congress-workers-trespass-on-health-minister-veena-georges-official-residence-lay-funeral-wreath-to-protest-increasing-medical-negligence/article70658981.ece",
-    "time": "2026-02-21T11:55:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -90,15 +243,6 @@ const newsData_en = [
     "time": "2026-02-21T11:40:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Home Minister Amit Shah",
-    "desc": "Union Home Minister said CRPF played an important role in Jammu and Kashmir, where the number of stone-pelting incidents has dropped to zero, besides being deployed to handle ethnic violence in Manipur and breaking the back of Maoists in only three years",
-    "img": "https://th-i.thgim.com/public/incoming/mec1py/article70659477.ece/alternates/LANDSCAPE_1200/PTI02_21_2026_000153B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maoism-to-be-eliminated-from-india-by-march-31-home-minister-amit-shah/article70659465.ece",
-    "time": "2026-02-21T11:35:06.000Z"
-  },
-  {
     "cat": "World",
     "title": "Curfew imposed in southern Nepal district after clash between two groups",
     "desc": "The clashes between the two communities were triggered by a dispute on the evening of February 19, followed by escalation of tension through February 20 and February 21 morning with at least eight persons injured",
@@ -135,15 +279,6 @@ const newsData_en = [
     "time": "2026-02-21T11:17:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NIA files supplementary chargesheet involving two more accused",
-    "desc": "In the chargesheet filed before the NIA Special Court, Visakhapatnam, the agency has charged Arif Hussain alias Abu Talib and Imran Akram under various sections of UA (P) Act, BNS, Explosive Substances Act, 1908, and the Arms Act",
-    "img": "https://th-i.thgim.com/public/incoming/r3dhr2/article70659768.ece/alternates/LANDSCAPE_1200/PTI11_19_2025_000415B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Visakhapatnam/vizianagaram-terror-conspiracy-case-nia-files-supplementary-chargesheet-involving-two-more-accused/article70659495.ece",
-    "time": "2026-02-21T11:00:19.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Toxic' cast fees: Yash takes home EXTRAORDINARY amount",
     "desc": "A Fairytale for Grown Ups' approaches, the buzz is palpable! Recent reports highlight the impressive salaries being offered to the cast: Yash himself is taking home an eye-popping Rs 50 crore, alongside his role as co-producer. Read the full article to know more in detail.",
@@ -169,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/govt-will-study-union-minister-pralhad-joshi-on-us-supreme-court-ruling-striking-trump-tariffs/articleshow/128641588.cms",
     "time": "2026-02-21T10:39:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rameswaram fishermen go on day-long strike against arrests by Sri Lankan Navy",
-    "desc": "About three days ago, 22 fishermen from Rameswaram and Mandapam, who were fishing in the Palk Strait, were arrested along with four of their trawlers by the Sri Lankan Navy near Neduntheevu and Katchatheevu islets",
-    "img": "https://th-i.thgim.com/public/incoming/kf2vxs/article70659623.ece/alternates/LANDSCAPE_1200/10217_21_2_2026_14_2_35_3_IMG_20260221_WA0191.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/rameswaram-fishermen-go-on-day-long-strike-against-arrests-by-sri-lankan-navy/article70659251.ece",
-    "time": "2026-02-21T10:18:55.000Z"
   },
   {
     "cat": "Entertainment",
@@ -252,15 +378,6 @@ const newsData_en = [
     "time": "2026-02-21T09:29:35.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CPI(M) State Secretariat terms Congress protests against Health Minister Veena George unwarranted, accuses Opposition of attempting to instigate riots",
-    "desc": "The Congress have been staging protests against the backdrop of the incident where an artery forceps was found in the abdomen of a woman who had undergone surgery at the Government Medical College Hospital, Alappuzha, in 2021",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/cpim-state-secretariat-terms-congress-protests-against-health-minister-veena-george-unwarranted-accuses-opposition-of-attempting-to-instigate-riots/article70659349.ece",
-    "time": "2026-02-21T09:24:16.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Nana Patekar hated me': Neesha reveals struggles in film industry",
     "desc": "Neesha Singh, a prominent figure from the 80s and 90s entertainment scene, shared her unexpected entry into showbiz and her decision to leave at her peak. Her career began with a modeling opportunity, leading to a successful advertising stint before transitioning to films. Singh also recounted a challenging experience with Nana Patekar during the filming of 'Ankush'.",
@@ -279,15 +396,6 @@ const newsData_en = [
     "time": "2026-02-21T09:15:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "KSPCA member urges Karnataka CM to announce 13th KSRP battalion for Raichur in 2026–27 budget",
-    "desc": "Currently, the 6th KSRP Battalion stationed in Kalaburagi and the IRB unit at Munirabad are located approximately 180 kilometers away from Raichur, and would require nearly four-and-a-half hours of travel time while responding to an emergency",
-    "img": "https://th-i.thgim.com/public/incoming/1grmws/article70659437.ece/alternates/LANDSCAPE_1200/YDRKN_7-4-2017_18-20-8_DSC_5192.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/kspca-member-urges-karnataka-cm-to-announce-13th-ksrp-battalion-for-raichur-in-202627-budget/article70659283.ece",
-    "time": "2026-02-21T09:09:34.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Henwick shares excitement over 'Daredevil: Born Again' season 2",
     "desc": "Born Again' Season 2, visited the set and praised the upcoming season as \"incredible.\" She assured fans, especially those from the Netflix era, that they will be \"very happy\" with the new installment. The season continues Matt Murdock's conflict with Mayor Wilson Fisk and features Krysten Ritter's return as Jessica Jones.",
@@ -304,60 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-shares-about-the-most-difficult-part-of-being-in-tihar-jail-after-securing-bail/articleshow/128639190.cms",
     "time": "2026-02-21T08:57:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Soha drops warm birthday pictures",
-    "desc": "Jehangir Ali Khan, son of Saif Ali Khan and Kareena Kapoor Khan, celebrated his fifth birthday with a Naruto-themed party. Aunt Soha Ali Khan shared glimpses of the fun-filled celebration, featuring family members like Taimur, Saif, Kareena, Saba Ali Khan, and Karisma Kapoor. The event included a cake-cutting ceremony and a special Naruto figurine for the birthday boy.",
-    "img": "https://static.toiimg.com/photo/msid-128639055,imgsize-57788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jeh-turns-5-soha-ali-khan-drops-warm-birthday-pictures-kareena-kapoor-khan-reacts-with-heart-emojis/articleshow/128639129.cms",
-    "time": "2026-02-21T08:52:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "KHxRK FIRST GLIMPSE fans' reaction: 'Swag max!' say netizens",
-    "desc": "Fans are ecstatic over the first glimpse of the Rajinikanth-Kamal Haasan reunion film, directed by Nelson Dilipkumar. The stylish promo, featuring the legendary actors exuding immense 'swag,' has ignited massive social media hype. Netizens are praising the chemistry, Nelson's direction, and Anirudh's background score, confidently predicting a box office mega-hit.",
-    "img": "https://static.toiimg.com/photo/msid-128638810,imgsize-30280.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/khxrk-first-glimpse-fans-reaction-swag-max-say-netizens-as-nelson-sets-the-standard-for-rajinikanth-kamal-haasan-reunion/articleshow/128638810.cms",
-    "time": "2026-02-21T08:37:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ram Charan, Upasana Konidela attend Allu Arjun’s bash",
-    "desc": "Allu Sirish and Nayanika Reddy are gearing up for their big day on March 6, with vibrant pre-wedding events lighting up the festivities! Family and friends, including beloved figures Ram Charan and Upasana, gathered at a private celebration hosted by Allu Arjun and Sneha Reddy.",
-    "img": "https://static.toiimg.com/photo/msid-128638493,imgsize-867151.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/allu-sirish-wedding-ram-charan-and-upasana-konidela-join-allu-arjuns-pre-wedding-bash-ahead-of-his-brothers-marriage/articleshow/128638493.cms",
-    "time": "2026-02-21T08:24:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Hips Don’t Lie’ and ‘Waka Waka’: Shakira’s top 10 hits",
-    "desc": "Shakira built a global pop career by blending Latin rhythm, sharp songwriting, and fearless performance energy. From chart-topping dance hits to emotionally charged crossovers, her music connects across languages and borders. Each of these ten songs captures a key moment in her rise from international breakthrough to mainstream pop dominance. The hooks are bold, the production is tight, and her voice remains instantly recognizable. Together, these tracks highlight her versatility and staying power in modern pop. They show why Shakira continues to shape radio, streaming charts, and global music culture year after year.",
-    "img": "https://static.toiimg.com/photo/msid-128637333,imgsize-217948.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/hips-dont-lie-and-waka-waka-top-10-shakira-pop-songs-that-defined-her-global-sound-and-chart-dominance/photostory/128637333.cms",
-    "time": "2026-02-21T08:15:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Man kills sister over inter-faith relationship in Uttar Pradesh; father justifies act",
-    "desc": "After the crime was reported from the Matawali Patti area within the Asmoli police station limits, the man himself informed the police and confessed to killing his sister; he has been taken into custody, police said",
-    "img": "https://th-i.thgim.com/public/hindi/editorial/4090rc/article70659265.ece/alternates/LANDSCAPE_1200/iStock-1905024012%203.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/man-kills-sister-over-inter-faith-relationship-in-uttar-pradesh-father-justifies-act/article70659239.ece",
-    "time": "2026-02-21T07:55:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CFTRI-Mysuru workshop participants discuss how to reduce salt in Indian cuisine to counter rise in hypertension and diabetes",
-    "desc": "With rising non-communicable diseases, such as hypertension and diabetes, national priorities for 2025–26, supported by the Food Safety and Standards Authority of India (FSSAI), emphasizes gradual salt and sugar reduction, front-of-pack labelling, and industry-led reformulation",
-    "img": "https://th-i.thgim.com/public/incoming/tresmm/article70659304.ece/alternates/LANDSCAPE_1200/2303_20_10_2024_20_39_6_1_CFTRINEW.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/cftri-mysuru-workshop-participants-discuss-how-to-reduce-salt-in-indian-cuisine-to-counter-rise-in-hypertension-and-diabetes/article70659124.ece",
-    "time": "2026-02-21T07:51:06.000Z"
   },
   {
     "cat": "Business",
@@ -504,15 +558,6 @@ const newsData_en = [
     "time": "2026-02-21T03:40:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Assault video reunites missing woman with kin",
-    "desc": "A viral video from Indore showed a woman attacked on child-lifting suspicion. This incident led to a surprising reunion. Her daughter, seeing the clip, traveled to Indore. She found her mother, Rekha Devi, who had been missing for over a year and a half. Rekha Devi had gone missing from Meerut after family tragedies.",
-    "img": "https://static.toiimg.com/photo/msid-128631987,imgsize-563637.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/assault-video-reunites-missing-woman-with-kin/articleshow/128631968.cms",
-    "time": "2026-02-21T03:20:01.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.K. government considers removing former prince Andrew from line of succession",
     "desc": "Amid a torrent of often tawdry revelations from the files of late U.S. sex offender Jeffrey Epstein, King Charles III has already stripped his younger brother of all his titles and ousted him from his home in Windsor",
@@ -520,24 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/uk-government-considers-removing-former-prince-andrew-from-line-of-succession-amid-epstein-row/article70657745.ece",
     "time": "2026-02-21T03:18:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "After poll loss, candidates knock on voters’ doors to ‘reclaim’ cash, gifts",
-    "desc": "Defeated candidates in Telangana are reportedly demanding cash and gifts back from voters after municipal election results. Viral videos show confrontations as residents refuse to return items distributed during campaigns. Incidents have been reported across multiple districts, highlighting post-poll tensions and alleged vote-buying practices.",
-    "img": "https://static.toiimg.com/photo/msid-128631883,imgsize-981219.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/after-poll-loss-candidates-knock-on-voters-doors-to-reclaim-cash-gifts/articleshow/128631874.cms",
-    "time": "2026-02-21T03:13:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Chaudhary",
-    "desc": "Electoral reform is needed, and simultaneous polls is an issue of national interest, says the chairperson of the Joint Parliamentary Committee examining the Bill on concurrent elections; political ideologies, the BJP MP adds, will have to be set aside for it, and it is not a reform that the BJP alone is pushing for",
-    "img": "https://th-i.thgim.com/public/incoming/4j4kt7/article70656506.ece/alternates/LANDSCAPE_1200/HINDU%20MIND%20PP%20CHAUDHARY_18_02_13.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/simultaneous-elections-are-essential-to-become-a-developed-nation-by-2047-chaudhary/article70656492.ece",
-    "time": "2026-02-21T03:05:59.000Z"
   },
   {
     "cat": "Sports",
@@ -594,15 +621,6 @@ const newsData_en = [
     "time": "2026-02-20T23:30:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Maharashtra’s Ladki Bahin Yojana: Waiting for ₹1,500",
-    "desc": "The Mukhyamantri Majhi Ladki Bahin Yojana was rolled out ahead of the Maharashtra Assembly elections in mid-2024. It assured women between the ages of 21 and 65 a monthly stipend of ₹1,500, and the first tranche of payouts were made. After the Mahayuti government returned to power, it introduced mandatory e-KYC verification, which led to a reduction in the number of eligible beneficiaries, reports Vinaya Deshpande Pandit",
-    "img": "https://th-i.thgim.com/public/incoming/vpjmz9/article70657693.ece/alternates/LANDSCAPE_1200/11908_18_2_2026_19_6_49_3_DSC_4461.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/maharashtras-ladki-bahin-yojana-waiting-for-1500/article70657324.ece",
-    "time": "2026-02-20T22:53:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Chess is more than just a game to me; it’s my world, it’s the core of my life: Alexandra Kosteniuk",
     "desc": "The 41-year-old Grandmaster is one of the most decorated players in chess history, having won multiple World titles, the World Cup, Olympiads and the GCL. In this conversation, she talks about what the game means to her, how it has changed with the advent of computers, what motivates her to compete at the top level in her 40s and why she isn’t a content creator anymore",
@@ -655,15 +673,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-us-supreme-court-strikes-down-trumps-global-tariffs/article70657456.ece",
     "time": "2026-02-20T16:14:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Less than 100'- Pak coach breaks silence on Babar's strike rate, Salman Agha rift",
-    "desc": "Pakistan coach Mike Hesson questioned Babar Azam’s powerplay strike rate ahead of the Super Eight clash against New Zealand, explaining his demotion during the Namibia match. Hesson also clarified Shaheen Shah Afridi’s omission, backed Salman Mirza’s inclusion, and dismissed talk of a rift with Salman Ali Agha.",
-    "img": "https://static.toiimg.com/photo/msid-128612535,imgsize-87506.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/less-than-100-mike-hesson-opens-up-on-babar-azams-strike-rate-salman-ali-agha-rift-shaheen-afridi-omission/articleshow/128612620.cms",
-    "time": "2026-02-20T14:28:39.000Z"
   },
   {
     "cat": "World",
@@ -817,15 +826,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/tennis/wesleykoolhof-interview-doubles-tennis-is-a-great-different-discipline/article70649145.ece",
     "time": "2026-02-18T18:29:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Hopefully, our performances can help grow cricket in Netherlands,’ says Scott Edwards",
-    "desc": "The Netherlands will be aiming to bow out of the tournament with their heads held high, hoping to create some upset against India or at least give them a massive scare ahead of the all-important Super Eight stage",
-    "img": "https://th-i.thgim.com/public/incoming/dur428/article70645091.ece/alternates/LANDSCAPE_1200/34_ICC_T20_WORLD_CUP_10_02_DELHI.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/t20-wprld-cup-hopefully-our-performances-can-help-grow-cricket-in-netherlands-says-scott-edwards/article70645090.ece",
-    "time": "2026-02-18T17:26:30.000Z"
   },
   {
     "cat": "World",

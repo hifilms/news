@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shikhar Dhawan ties nuptial knot with longtime girlfriend Sophie Shine in intimate ceremony",
+    "desc": "Shikhar Dhawan, Indian cricket star, exchanged vows with his longtime girlfriend, Sophie Shine, in a closely guarded private ceremony on February 21 (Saturday). The couple, who had been dating for over a year and confirmed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shikhar-dhawan-ties-nuptial-knot-with-longtime-girlfriend-sophie-shine-in-intimate-ceremony-at-delhi-ncr-indian-cricketer-wedding-2026-02-21-1031174",
+    "time": "2026-02-21T14:26:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cut-off time announced for PAK vs NZ as rain play spoilsport",
+    "desc": "The Super Eights clash between Pakistan and New Zealand in the ongoing T20 World Cup 2026 at the R Premadasa Stadium has been spoiled by the rain. The covers were removed just before the toss,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/colombo-weather-cut-off-time-announced-for-pak-vs-nz-as-rain-play-spoilsport-2026-02-21-1031173",
+    "time": "2026-02-21T14:22:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Colombo weather doesn't improve, rain continue",
+    "desc": "New Zealand host Pakistan in the opening game of the Super Eights of the T20 World Cup 2026 at the R Premadasa Stadium in Colombo. With three wins to their name, the Black Caps have...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nz-vs-pak-t20-world-cup-live-cricket-score-updates-newzealand-vs-pakistan-match-today-at-r-premadasa-stadium-in-colombo-1031170",
+    "time": "2026-02-21T13:21:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Smriti Mandhana breaks six-year-old record to script historic series win for India vs Australia",
     "desc": "Smriti Mandhana is currently in the form of her life. After finishing as the leading run-scorer in the Women’s Premier League (WPL) 2026 and winning the Player of the Match in the final, Mandhana managed...",
     "img": "",
@@ -52,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/confident-of-not-qualifying-for-t20-world-cup-final-pakistan-s-baffling-schedule-for-odi-series-vs-bangladesh-2026-02-21-1031104",
     "time": "2026-02-21T05:40:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India vs Pakistan again? Former Indian cricketers predict their semifinalists of T20 World Cup 2026",
-    "desc": "The Super 8 round of the T20 World Cup is set to get underway today with the match between New Zealand and Pakistan in Colombo. England and Sri Lanka are the other two teams in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-pakistan-again-former-indian-cricketers-predict-their-semifinalists-of-t20-world-cup-2026-2026-02-21-1031097",
-    "time": "2026-02-21T04:43:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What is Babar Azam's role in Pakistan's T20I team? Head coach Mike Hesson explains",
-    "desc": "Babar Azam's role in Pakistan's T20I team is being questioned more than ever, especially after he didn't get to bat for the first time in his career after being named in the playing XI. Against...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-is-babar-azam-s-role-in-pakistan-s-t20i-team-head-coach-mike-hesson-explains-2026-02-21-1031090",
-    "time": "2026-02-21T03:10:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh's assistant coach calls Asif Nazrul 'liar' over T20 World Cup 2026 boycott U-turn",
-    "desc": "Bangladesh's senior assistant coach Mohammad Salahuddin has come down hard at the former sports advisor Asif Nazrul for changing his stance on the team's participation in the T20 World Cup 2026. He called Nazrul a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-s-assistant-coach-calls-asif-nazrul-liar-over-t20-world-cup-2026-boycott-u-turn-2026-02-21-1031088",
-    "time": "2026-02-21T02:44:41.000Z"
   }
 ];
