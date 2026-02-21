@@ -1,6 +1,96 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Amit Shah",
+    "desc": "Union Home Minister Amit Shah vowed to remove infiltrators from Assam's electoral rolls and deport them within five years if the BJP returns to power. He accused the opposition of turning infiltrators into a vote bank, claiming they encroached on vast tracts of land.",
+    "img": "https://static.toiimg.com/photo/msid-128656279,imgsize-166926.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bjp-will-deport-infiltrators-in-5-yrs-if-it-returns-to-power-amit-shah/articleshow/128655754.cms",
+    "time": "2026-02-21T20:59:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "R Madhavan on meeting wife Sarita when she was his student",
+    "desc": "Long before he became one of the most recognisable faces in Indian cinema, R. Madhavan was teaching public speaking and communication skills in Kolhapur. It was there that he first met his future wife, Sarita Birje — not at a film event or party, but inside a classroom.",
+    "img": "https://static.toiimg.com/photo/msid-128655924,imgsize-32438.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-opens-up-about-meeting-wife-sarita-birje-when-she-was-his-student-she-found-my-teaching-interesting/articleshow/128655873.cms",
+    "time": "2026-02-21T20:33:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India &amp; Brazil sign rare earths pact, will ‘wait and watch’ US SC tariff order fallout",
+    "desc": "India and Brazil inked a critical minerals agreement and set a $30 billion trade target by 2030, aiming to build resilient supply chains and reduce dependence on China. Leaders also discussed UN reforms and technology cooperation, emphasizing Global South solidarity and shared progress.",
+    "img": "https://static.toiimg.com/photo/msid-128655302,imgsize-55040.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/to-lower-china-dependence-india-signs-rare-earths-deal-with-brazil/articleshow/128655178.cms",
+    "time": "2026-02-21T19:54:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Five school teachers held in Odisha for 'raping' 13-year-old girl",
+    "desc": "The arrests were made after the father of the class 7 student and the district child welfare committee lodged separate complaints at the Rajkanika police station, alleging that the accused teachers had raped the minor, a senior officer said.",
+    "img": "https://th-i.thgim.com/public/news/national/ojliip/article70661283.ece/alternates/LANDSCAPE_1200/Domestic%20violence.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/odisha/five-school-teachers-held-in-odisha-for-raping-13-year-old-girl/article70661280.ece",
+    "time": "2026-02-21T19:29:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranveer, Jacqueline, others shower love",
+    "desc": "Former Indian opener Shikhar Dhawan tied the knot with his girlfriend Sophie Shine on February 21, and wishes have been pouring in from the cricketing and Bollywood fraternities ever since. As soon as the couple shared glimpses from their wedding ceremony, the comment section was flooded with congratulatory messages from friends and celebrities including Ranveer Singh, Jacqueline Fernandez, Sunil Grover among others.",
+    "img": "https://static.toiimg.com/photo/msid-128654696,imgsize-65926.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shikhar-dhawan-ties-the-knot-with-sophie-shine-ranveer-singh-jacqueline-fernandez-and-others-shower-love/articleshow/128654367.cms",
+    "time": "2026-02-21T19:21:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Niti CEO",
+    "desc": "Niti Aayog CEO BVR Subrahmanyam emphasized that states must now lead the reform charge for India to achieve developed nation status by 2047, as the Centre has completed most of its crucial tasks. He highlighted that land, labor, electricity, water, and roads are all state subjects, directly impacting growth outcomes.",
+    "img": "https://static.toiimg.com/photo/msid-128654316,imgsize-25690.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/states-must-drive-next-wave-of-reforms-for-2047-goal-niti-ceo/articleshow/128654125.cms",
+    "time": "2026-02-21T19:11:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kalpana Iyer on Aamir Khan being called ‘very fussy’",
+    "desc": "Actor-dancer Kalpana Iyer, who recently grabbed attention for recreating her iconic track Rambha Ho, has looked back at her experience of working with Bollywood’s “Mr Perfectionist” Aamir Khan. Kalpana shared screen space with Aamir in Raja Hindustani, and years later, she has nothing but praise for the actor’s dedication and discipline.",
+    "img": "https://static.toiimg.com/photo/msid-128653830,imgsize-54760.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramba-ho-fame-kalpana-iyer-on-aamir-khan-being-called-very-fussy-it-might-bother-you-but-it-was-always-for-the-betterment/articleshow/128653787.cms",
+    "time": "2026-02-21T18:44:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "The global economic consequences of the SCOTUS ruling invalidating Trump tariffs",
+    "desc": "The ruling also introduces uncertainty around executive-driven trade arrangements concluded with the EU, U.K., Japan, and Vietnam and ongoing with India among others. While the agreements themselves remain intact, the Court has clarified that sweeping tariff authority requires explicit Congressional sanction",
+    "img": "https://th-i.thgim.com/public/incoming/dobypw/article70660601.ece/alternates/LANDSCAPE_1200/Indian-AmericanG77FK733R.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/the-global-economic-consequences-of-the-scotus-ruling-invalidating-trump-tariffs/article70659908.ece",
+    "time": "2026-02-21T18:44:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nearly 8% of voters removed from final electoral lists across six States and three U.T.s in SIR second phase",
+    "desc": "Combined number of voters in nine States and U.T.s fell from 21,45,62,215 to 19,75,33,701 after the SIR, with net deletions of 1,70,28,514 or 7.93%. Final lists of West Bengal, Uttar Pradesh, and Tamil Nadu are yet to be published",
+    "img": "https://th-i.thgim.com/public/incoming/8eoraw/article70660987.ece/alternates/LANDSCAPE_1200/PTI02_14_2026_000420B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/nearly-8-of-voters-removed-from-final-electoral-lists-across-9-states-and-uts-in-sir-second-phase/article70660277.ece",
+    "time": "2026-02-21T18:37:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rahul plays an influential role in Karnataka’s progress to the final",
+    "desc": "The senior pro has been priceless both with his batting and the experience he brings to the side; the 33-year-old was one of the five Test cricketers in the State’s recent playing XI; it will be a full-circle moment if he can inspire the team to a ninth title",
+    "img": "https://th-i.thgim.com/public/incoming/xtubtd/article70661067.ece/alternates/LANDSCAPE_1200/20_RVM_6733.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/rahul-plays-an-influential-role-in-karnatakas-progress-to-the-final/article70661069.ece",
+    "time": "2026-02-21T18:17:56.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Ramalinga Reddy opens Living Spaces 2026, The Hindu Group’s annual realty expo",
     "desc": "IDBI Bank’s pan India home loan book size was ₹72,000 crore as on December 31, 2025. Mumbai accounted for the major chunk of these loans followed by Bengaluru with a share of ₹13,000 core, indicating a spurt in home sales",
     "img": "https://th-i.thgim.com/public/incoming/4qgpb8/article70661195.ece/alternates/LANDSCAPE_1200/_DSC9807.JPG",
@@ -16,6 +106,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/english/sunday-binge-watch-these-hulu-dramas-are-a-must-try/photostory/128639694.cms",
     "time": "2026-02-21T18:00:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "We played enough against England, now able to react to different situations: Sri Lanka coach Sridhar",
+    "desc": "The pressure will be same for both teams. The teams which do things correctly under pressure, the teams which make lesser mistakes is the team that is likely to go through, says Sri Lanka’s fielding coach R. Sridhar",
+    "img": "https://th-i.thgim.com/public/incoming/r0makk/article70661196.ece/alternates/LANDSCAPE_1200/Sri_Lanka_Zimbabwe_T20_WCup_Cricket_04939.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/we-played-enough-against-england-now-able-to-react-to-different-situations-sri-lanka-coach-sridhar/article70661175.ece",
+    "time": "2026-02-21T17:59:53.000Z"
   },
   {
     "cat": "Politics",
@@ -81,15 +180,6 @@ const newsData_en = [
     "time": "2026-02-21T17:03:20.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Rahul plays an influential role in Karnataka’s progress to the final",
-    "desc": "The senior pro has been priceless both with his batting and the experience he brings to the side; the 33-year-old was one of the five Test cricketers in the State’s recent playing XI; it will be a full-circle moment if he can inspire the team to a ninth title",
-    "img": "https://th-i.thgim.com/public/incoming/xtubtd/article70661067.ece/alternates/LANDSCAPE_1200/20_RVM_6733.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/rahul-plays-an-influential-role-in-karnatakas-progress-to-the-final/article70661069.ece",
-    "time": "2026-02-21T16:53:24.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'Countries ripping the US off': Trump hikes worldwide tariff to 15% after Supreme Court setback",
     "desc": "US President Trump escalated a global tariff from 10% to 15% in response to a Supreme Court ruling that deemed his previous tariff actions illegal. The court questioned his authority to impose such duties without congressional approval. Trump stated the increase was effective immediately, targeting countries he believes have exploited the US.",
@@ -115,15 +205,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/iyc-workers-arrest-delhi-court-delhi-police-ai-summit-shirtless-protest/article70659356.ece",
     "time": "2026-02-21T16:27:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nearly 8% of voters removed from final electoral lists across 9 States and U.T.s in SIR second phase",
-    "desc": "Combined number of voters in nine States and U.T.s fell from 21,45,62,215 to 19,75,33,701 after the SIR, with net deletions of 1,70,28,514 or 7.93%. Final lists of West Bengal, Uttar Pradesh, and Tamil Nadu are yet to be published",
-    "img": "https://th-i.thgim.com/public/incoming/8eoraw/article70660987.ece/alternates/LANDSCAPE_1200/PTI02_14_2026_000420B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/nearly-8-of-voters-removed-from-final-electoral-lists-across-9-states-and-uts-in-sir-second-phase/article70660277.ece",
-    "time": "2026-02-21T16:18:22.000Z"
   },
   {
     "cat": "Politics",
@@ -214,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/made-in-india-chips-crucial-for-a-self-reliant-india-pm-modi-virtually-inaugurates-semiconductor-facility-in-up/articleshow/128646756.cms",
     "time": "2026-02-21T14:20:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Floral symphony that spreads fragrance, inspires devotion",
-    "desc": "The TTD gardens, from where most of the 2.70 lakh kg of flowers are sourced for various rituals in the Lord Venkateswara temple in Tirumala every year, offer a visual and spiritual experience to millions of devotees",
-    "img": "https://th-i.thgim.com/public/incoming/22ye90/article70656286.ece/alternates/LANDSCAPE_1200/6689_21-11-2020_18-15-5_1_FLOWERPROCESSION01.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/floral-symphony-that-spreads-fragrance-inspires-devotion/article70652504.ece",
-    "time": "2026-02-21T14:12:40.000Z"
   },
   {
     "cat": "Politics",
@@ -403,24 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/punjabi/movies/news/sargun-mehta-strongly-reacts-to-pregnancy-rumors-with-ravie-dubey-says-news-apparently-knows-before-us/articleshow/128642566.cms",
     "time": "2026-02-21T11:17:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Toxic' cast fees: Yash takes home EXTRAORDINARY amount",
-    "desc": "A Fairytale for Grown Ups' approaches, the buzz is palpable! Recent reports highlight the impressive salaries being offered to the cast: Yash himself is taking home an eye-popping Rs 50 crore, alongside his role as co-producer. Read the full article to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128641800,imgsize-45876.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-a-fairytale-for-grown-ups-cast-fees-yash-takes-home-extraordinary-amount-followed-by-kiara-advani-and-nayanthara/articleshow/128641800.cms",
-    "time": "2026-02-21T10:50:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay Varma shares note from Ritesh Sidhwani, Farhan Akhtar; reunion?",
-    "desc": "Vijay Varma has sparked curiosity among fans with an enigmatic teaser about his upcoming project under the esteemed banner of Ritesh Sidhwani and Farhan Akhtar. After the triumphs of 'Gully Boy', 'Mirzapur', and 'Dahaad', this latest hint suggests yet another fascinating, character-centric tale on the horizon. Fans are buzzing with anticipation for more revelations about this intriguing collaboration.",
-    "img": "https://static.toiimg.com/photo/msid-128641930,imgsize-26330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vijay-varma-shares-handwritten-note-from-ritesh-sidhwani-and-farhan-akhtar-fuels-reunion-speculation/articleshow/128641930.cms",
-    "time": "2026-02-21T10:49:56.000Z"
   },
   {
     "cat": "Business",
@@ -810,15 +864,6 @@ const newsData_en = [
     "time": "2026-02-19T01:57:29.000Z"
   },
   {
-    "cat": "World",
-    "title": "U.S. and Uzbekistan sign critical minerals pact",
-    "desc": "The “Joint Investment Framework” between the ⁠U.S. International Development Finance Corp (DFC) and Central Asia’s most populous nation aims to advance the two countries’ strategic cooperation, an outline of the plan ‌from the DFC said",
-    "img": "https://th-i.thgim.com/public/incoming/40ssq9/article70649446.ece/alternates/LANDSCAPE_1200/Trump_Black_History_22612.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-and-uzbekistan-sign-critical-minerals-pact/article70649445.ece",
-    "time": "2026-02-19T01:29:40.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Wesley Koolhof Interview",
     "desc": "Dutchman Wesley Koolhof believes singles and doubles can coexist and dispels the notion that doubles players are bad tennis players; the former World No. 1 and 2023 Wimbledon champion also feels that ‘fast and spectacular’ doubles can be the perfect complement to ‘chess-like’ singles",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/pakistan-namibia-t20-world-cup-match-updates-february-18/article70646832.ece",
     "time": "2026-02-18T13:00:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "UEFA to probe claims of 'discriminatory behaviour' towards Real Madrid’s Vinicius",
-    "desc": "Tuesday's (February 17, 2026) first leg of the knockout phase play-off tie was stopped for more than 10 minutes after Vinicius complained to French referee Francois Letexier about the alleged abuse following a confrontation between him and Prestianni.",
-    "img": "https://th-i.thgim.com/public/incoming/bbwfs2/article70647642.ece/alternates/LANDSCAPE_1200/Portugal_Champions_League_Soccer_22585.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/uefa-to-probe-claims-of-discriminatory-behaviour-towards-real-madrids-vinicius/article70647615.ece",
-    "time": "2026-02-18T12:53:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Fans show fatigue as rivalry loses spark",
-    "desc": "The India-Pakistan T20 World Cup clash in Colombo generated noise across social media, but inside the stands the energy told a different story — shaped by politics, fading star power and India’s run of routine wins",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/yvjj8s/article70646683.ece/alternates/LANDSCAPE_1200/India-Pakistan_Cricket_Fansjpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/india-pakistan-cricket-rivalrly-t20-world-cup-r-premadasa-stadium-colombo-fans-babar-azam-virat-kohli/article70644274.ece",
-    "time": "2026-02-18T11:12:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Inside Chennai’s Pickleball boom: From midnight games to thriving WhatsApp communities",
-    "desc": "As new pickleball courts open across Injambakkam, T Nagar and Gandhi Nagar, the sport is doing more than just filling evening slots — it is creating WhatsApp communities, business networks and unlikely friendships across the city",
-    "img": "https://th-i.thgim.com/public/incoming/psg6w/article70614742.ece/alternates/LANDSCAPE_1200/BVR_7095.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/life-and-style/picklers-unite/article70609768.ece",
-    "time": "2026-02-18T09:55:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘One Piece’ anime returns in April with long-awaited Elbaph Arc",
-    "desc": "The ‘One Piece’ anime is set to make a major comeback this spring as the Elbaph Arc officially begins streaming on Crunchyroll in April, taking the Straw Hats to the legendary Land of Giants after years of anticipation from fans",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/dtlg6n/article70646610.ece/alternates/LANDSCAPE_1200/9abdaa2b-e518-4a62-958f-809d3dedf24a.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/one-piece-anime-returns-in-april-with-long-awaited-elbaph-arc/article70646618.ece",
-    "time": "2026-02-18T08:18:37.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What makes gold so precious?",
-    "desc": "It’s chemistry’s greatest gift to mankind. Without it, we can’t adorn ourselves with the finest jewellery; nor can we have a backup for financial security. It’s gold. But what makes it so precious? Let’s have a look.",
-    "img": "https://th-i.thgim.com/public/incoming/5kevlu/article70573762.ece/alternates/LANDSCAPE_1200/Gold_Prices_Consumers_44144.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/from-atoms-to-empires-what-makes-gold-so-precious/article70573771.ece",
-    "time": "2026-02-18T07:54:45.000Z"
   }
 ];
