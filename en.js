@@ -1,6 +1,177 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Ramalinga Reddy opens Living Spaces 2026, The Hindu Group’s annual realty expo",
+    "desc": "IDBI Bank’s pan India home loan book size was ₹72,000 crore as on December 31, 2025. Mumbai accounted for the major chunk of these loans followed by Bengaluru with a share of ₹13,000 core, indicating a spurt in home sales",
+    "img": "https://th-i.thgim.com/public/incoming/4qgpb8/article70661195.ece/alternates/LANDSCAPE_1200/_DSC9807.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/ramalinga-reddy-opens-living-spaces-2026-the-hindu-groups-annual-realty-expo/article70661123.ece",
+    "time": "2026-02-21T18:02:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "These Hulu dramas are a must try",
+    "desc": "If you’re someone who doesn’t have many plans for the weekend, watching a binge-worthy series is the easiest way to escape the boredom. And if you can’t decide what to watch, then don’t worry, we’ve got you covered! This week we’ve brought together a list of binge-worthy shows from Hulu, which you can easily complete on a Sunday. ‘Normal People’, ‘Good American Family,’ and more; This list is a must try.This 8-episode limited series, starring Amanda Seyfried, is definitely binge-worthy. The series tells the unbelievable true story of Theranos, the blood-testing startup that promised to revolutionize healthcare but was built on a web of lies. Seyfried plays Elizabeth Holmes, capturing the infamous CEO’s ambition, vocal evolution, and ultimate descent into fraud.",
+    "img": "https://static.toiimg.com/photo/msid-128639694,imgsize-665254.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/sunday-binge-watch-these-hulu-dramas-are-a-must-try/photostory/128639694.cms",
+    "time": "2026-02-21T18:00:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Corporators discuss summer preparedness in VMC council meeting",
+    "desc": "They call for steps to ensure clean and safe drinking water to residents, highlight supply of discoloured water in some areas, and stress the need to check mosquito menace; TDP and YSRCP members spar over progress of works under Nadu-Nedu",
+    "img": "https://th-i.thgim.com/public/incoming/6759ob/article70661181.ece/alternates/LANDSCAPE_1200/DSC_5584.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/corporators-discuss-summer-preparedness-in-vmc-council-meeting/article70660841.ece",
+    "time": "2026-02-21T17:45:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SRK visits ailing Salim Khan; Malaika seen with Arhaan",
+    "desc": "Veteran screenwriter Salim Khan has been admitted to Lilavati Hospital after suffering a minor brain haemorrhage. As news of his hospitalisation spread, several members of the film fraternity rushed to check on him — including Bollywood superstar Shah Rukh Khan and Malaika Arora, who was earlier married to Arbaaz Khan.",
+    "img": "https://static.toiimg.com/photo/msid-128652090,imgsize-61982.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-visits-ailing-salim-khan-malaika-arora-seen-with-son-arhaan-khan-at-lilavati-hospital/articleshow/128651927.cms",
+    "time": "2026-02-21T17:44:55.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "What are the key takeaways from AI summit?",
+    "desc": "What does the New Delhi Declaration say? How many countries are signatories? What were the goals? What is the aim of the Global AI Impact Commons? Apart from Reliance and the Adani Group, which companies have announced investments in domestic AI?",
+    "img": "https://th-i.thgim.com/public/incoming/lrftca/article70661185.ece/alternates/LANDSCAPE_1200/20260219426L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/what-are-the-key-takeaways-from-ai-summit-explained/article70661026.ece",
+    "time": "2026-02-21T17:44:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rain washes out Super Eights match between New Zealand and Pakistan",
+    "desc": "Pakistan will take on England next in Pallekele while New Zealand welcomes Sri Lanka back to Colombo. Despite no action on the field, both teams’ selections were key takeaways on their outlook towards Group 2.",
+    "img": "https://th-i.thgim.com/public/incoming/iziazg/article70661106.ece/alternates/LANDSCAPE_1200/New_Zealand_Pakistan_T20_WCup_Cricket_78485.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/pakistan-new-zealand-colombo-t20-world-cup-super-eight-match-updates/article70660266.ece",
+    "time": "2026-02-21T17:38:17.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump raises U.S. global tariff rate from 10% to 15%",
+    "desc": "After the Supreme Court ruled he didn’t have the emergency power to impose many sweeping tariffs, Donald Trump signed an executive order on the night of February 21 that enabled him to bypass Congress and impose a 10% tax on imports from around the world",
+    "img": "https://th-i.thgim.com/public/incoming/pc1yg6/article70661048.ece/alternates/LANDSCAPE_1200/Trump_29481.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/president-trump-15-tariff-increase-supreme-court-decision/article70661023.ece",
+    "time": "2026-02-21T17:37:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Eric Dane",
+    "desc": "Actor Eric Dane, in his final recorded message for Netflix's 'Famous Last Words,' shared a profound life lesson before his passing. Diagnosed with ALS, Dane urged everyone to \"live now\" as the present is all we truly possess. He emphasized cherishing each moment, having learned to overcome past regrets and future uncertainties to embrace the present.",
+    "img": "https://static.toiimg.com/photo/msid-128639540,imgsize-894051.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-eric-dane-the-past-contains-regrets-the-future-remains-unknown-so-you-have-to-live-now/articleshow/128639540.cms",
+    "time": "2026-02-21T17:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Toxic composer Ravi Basrur recalls suicide attempts at 18",
+    "desc": "Chapter 1 made “Salaam Rocky Bhai” a cultural moment. The man behind that sound — composer Ravi Basrur — is today one of the most sought-after names in Indian cinema. But his journey, he revealed recently, began in darkness.",
+    "img": "https://static.toiimg.com/photo/msid-128651008,imgsize-24374.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-kgf-composer-ravi-basrur-recalls-suicide-attempts-at-18-breaks-down-as-vishwak-sen-gifts-him-rolex-i-didnt-want-this-life/articleshow/128650949.cms",
+    "time": "2026-02-21T17:03:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rahul plays an influential role in Karnataka’s progress to the final",
+    "desc": "The senior pro has been priceless both with his batting and the experience he brings to the side; the 33-year-old was one of the five Test cricketers in the State’s recent playing XI; it will be a full-circle moment if he can inspire the team to a ninth title",
+    "img": "https://th-i.thgim.com/public/incoming/xtubtd/article70661067.ece/alternates/LANDSCAPE_1200/20_RVM_6733.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/rahul-plays-an-influential-role-in-karnatakas-progress-to-the-final/article70661069.ece",
+    "time": "2026-02-21T16:53:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'Countries ripping the US off': Trump hikes worldwide tariff to 15% after Supreme Court setback",
+    "desc": "US President Trump escalated a global tariff from 10% to 15% in response to a Supreme Court ruling that deemed his previous tariff actions illegal. The court questioned his authority to impose such duties without congressional approval. Trump stated the increase was effective immediately, targeting countries he believes have exploited the US.",
+    "img": "https://static.toiimg.com/photo/msid-128650340,imgsize-794877.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/countries-ripping-the-us-off-trump-hikes-worldwide-tariff-to-15-after-supreme-court-setback/articleshow/128650288.cms",
+    "time": "2026-02-21T16:31:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rain washes out Pakistan vs New Zealand; Super 8 begins without a result",
+    "desc": "The Super Eight stage of the ICC Men's T20 World Cup 2026 commenced with a washout as rain prevented any play between Pakistan and New Zealand in Colombo. Both teams were awarded one point each, a result that could significantly impact their semi-final aspirations. The abandoned match has intensified the pressure on both sides for their upcoming fixtures.",
+    "img": "https://static.toiimg.com/photo/msid-128650150,imgsize-114204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/rain-washes-out-pakistan-vs-new-zealand-super-8-begins-without-a-result/articleshow/128649951.cms",
+    "time": "2026-02-21T16:27:54.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "court sends four Youth Congress workers to five-day police custody",
+    "desc": "The police claim that the aim of the custodial interrogation is to find out the ‘conspiracy’ behind the protest, the source of funding and place where the T-shirts worn by the accused were printed at.",
+    "img": "https://th-i.thgim.com/public/incoming/2s4g99/article70659366.ece/alternates/LANDSCAPE_1200/PTI02_20_2026_000216B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/iyc-workers-arrest-delhi-court-delhi-police-ai-summit-shirtless-protest/article70659356.ece",
+    "time": "2026-02-21T16:27:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nearly 8% of voters removed from final electoral lists across 9 States and U.T.s in SIR second phase",
+    "desc": "Combined number of voters in nine States and U.T.s fell from 21,45,62,215 to 19,75,33,701 after the SIR, with net deletions of 1,70,28,514 or 7.93%. Final lists of West Bengal, Uttar Pradesh, and Tamil Nadu are yet to be published",
+    "img": "https://th-i.thgim.com/public/incoming/8eoraw/article70660987.ece/alternates/LANDSCAPE_1200/PTI02_14_2026_000420B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/nearly-8-of-voters-removed-from-final-electoral-lists-across-9-states-and-uts-in-sir-second-phase/article70660277.ece",
+    "time": "2026-02-21T16:18:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress soul of nation and Congress-mukt Bharat will remain a dream: Revanth Reddy",
+    "desc": "Chief Minister recalls sacrifices of national leaders, says Mahatma Gandhi and Jawaharlal Nehru went to jail for the country while Indira Gandhi and Rajiv Gandhi laid down their lives for the nation; alleges that BJP was conspiring against the Congress and Gandhi family",
+    "img": "https://th-i.thgim.com/public/news/national/telangana/h9ptjl/article70660873.ece/alternates/LANDSCAPE_1200/CM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/congress-soul-of-nation-and-congress-mukt-bharat-will-remain-a-dream-revanth-reddy/article70660871.ece",
+    "time": "2026-02-21T16:01:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who benefits and who is in danger in Super 8s?",
+    "desc": "Rain washed out the Pakistan vs New Zealand Super 8 match, with both teams sharing one point, which complicates the semi-final race. Pakistan and New Zealand now need wins in their remaining matches to stay on track, as any slip-up could hurt their chances. England and Sri Lanka benefit from the open group, while Pakistan and New Zealand miss a chance to gain an early advantage in the tight Super 8 battle.",
+    "img": "https://static.toiimg.com/photo/msid-128649814,imgsize-413612.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pak-vs-nz-rain-washout-who-benefits-and-who-is-in-danger-in-t20-world-cup-2026-super-8s/articleshow/128649457.cms",
+    "time": "2026-02-21T16:00:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir Khan reveals PK’s original script was changed due to OMG",
+    "desc": "Bollywood’s “Mr Perfectionist” Aamir Khan may have delivered one of the biggest blockbusters of his career with PK, but the actor has now revealed that he and director Rajkumar Hirani were not completely satisfied with the final product.",
+    "img": "https://static.toiimg.com/photo/msid-128649225,imgsize-46788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-reveals-pks-original-script-was-changed-due-to-omg-similarity-says-he-and-rajkumar-hirani-were-not-fully-happy/articleshow/128649177.cms",
+    "time": "2026-02-21T15:41:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "After SIR exercise, Rajasthan publishes final electoral roll with 5.15 crore voters",
+    "desc": "The names of 31.36 lakh voters were removed from the electoral rolls during the SIR, which began in November 2025, says Chief Electoral Officer Naveen Mahajan; the final electoral roll depicted a net increase of 10,48,605 voters in comparison with the draft publication, reflecting a growth of 2.08%",
+    "img": "https://th-i.thgim.com/public/incoming/gy6gab/article70660711.ece/alternates/LANDSCAPE_1200/PTI11_27_2025_000141B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rajasthan/after-sir-exercise-rajasthan-publishes-final-electoral-roll-with-515-crore-voters/article70660409.ece",
+    "time": "2026-02-21T15:14:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How can Pakistan qualify for semi-final after rain washes out PAK vs NZ?",
+    "desc": "The Pakistan vs New Zealand Super 8 match was washed out due to rain, with both teams sharing one point. Pakistan and New Zealand now need wins in their remaining matches to qualify for the semi-finals. Any loss could complicate their chances and force them to rely on other results, while the washout keeps the group wide open for other teams.",
+    "img": "https://static.toiimg.com/photo/msid-128648322,imgsize-134620.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/explained-how-can-pakistan-qualify-for-t20-world-cup-semi-final-after-colombo-rain-washes-out-pak-vs-nz/articleshow/128648113.cms",
+    "time": "2026-02-21T15:01:32.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Kerala will attain self-sufficiency in milk, egg, and meat production by 2031 : Minister",
     "desc": "A new ₹80-crore facility, which will come up at Development Board farm in Kulathuppuzha, is aimed at enhancing cattle productivity through modern breeding techniques and eco-friendly practices. This will support local farmers and strengthen the State’s livestock sector.",
     "img": "https://th-i.thgim.com/public/incoming/fpjytt/article70660625.ece/alternates/LANDSCAPE_1200/22tv%20kulathupuzha%20bovine%20production%20research%20centre.jpg",
@@ -19,7 +190,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "'Not appropriate': 'Ashamed' Congress allies, BJP rivals slam 'semi-nudity' protest at AI Summit",
+    "title": "'Not appropriate': Congress-ally Akhilesh, other opposition leaders 'ashamed' of 'semi-nude' protest at AI Summit",
     "desc": "Opposition leaders and Congress allies have criticised the Indian Youth Congress's \"semi-nude\" protest at the AI Impact Summit, deeming it inappropriate and shameful on an international stage. Around 10 IYC workers were detained for raising slogans against PM Modi, wearing T-shirts with controversial slogans, sparking widespread condemnation for tarnishing the country's image.",
     "img": "https://static.toiimg.com/photo/msid-128647859,imgsize-64654.cms",
     "src": "indiatimes.com",
@@ -34,15 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/delhi-government-launches-cm-jansunwai-portal-to-address-public-concerns/articleshow/128647664.cms",
     "time": "2026-02-21T14:41:06.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "New Delhi Declaration on AI Impact adopted; U.S., U.K., China among nations to endorse vision for collaborative AI",
-    "desc": "\"The AI Impact Summit 2026, held in New Delhi on 18-19 February, concluded with the adoption of the New Delhi Declaration on AI Impact, marking a significant milestone in global cooperation on artificial intelligence,” say the release",
-    "img": "https://th-i.thgim.com/public/incoming/r3xbqb/article70660318.ece/alternates/LANDSCAPE_1200/20260220124L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/new-delhi-declaration-on-ai-impact-adopted-us-uk-china-among-nations-to-endorse-vision-for-collaborative-ai/article70660201.ece",
-    "time": "2026-02-21T14:25:45.000Z"
   },
   {
     "cat": "Politics",
@@ -90,13 +252,13 @@ const newsData_en = [
     "time": "2026-02-21T13:57:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Charayam, Kerala’s forbidden brew, gets a Polish makeover",
-    "desc": "Exactly 30 years after that ban, arrack is all set for a high-profile global resurrection in Poland. Midhun Mohan, an entrepreneur based in Poland hailing from Kerala, is preparing to launch a premium brand named ‘Charayam’",
-    "img": "https://th-i.thgim.com/public/incoming/z8akbr/article70659953.ece/alternates/LANDSCAPE_1200/80686_21_2_2026_17_10_59_1_22TVKO_CHARAYAM.JPG",
+    "cat": "World",
+    "title": "Five terrorists, two security personnel killed in NW Pakistan",
+    "desc": "The terrorists rammed an explosive-laden vehicle into one of the vehicles of the leading group, resulting in the death of commanding officer Lt. Colonel Shahzada Gul Faraz and Sepoy Karamat Shah, the media wing added.",
+    "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/charayam-keralas-forbidden-brew-gets-a-polish-makeover/article70659716.ece",
-    "time": "2026-02-21T13:34:47.000Z"
+    "url": "https://www.thehindu.com/news/international/terrorists-security-personnel-killed-in-khyber-pakhtunkhwa-nw-pakistan/article70659973.ece",
+    "time": "2026-02-21T13:52:38.000Z"
   },
   {
     "cat": "World",
@@ -133,33 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/beating-australia-in-australia-really-special-smriti-mandhana-after-indias-3-1-t20i-series-win/articleshow/128645515.cms",
     "time": "2026-02-21T13:23:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ayesha Meera case closed as court accepts CBI final report",
-    "desc": "Bringing a 17 year legal battle to an end, the CBI Court accepts the agency’s report citing lack of legally sustainable evidence, with the victim’s parents unwilling to pursue further remedies due to financial constraints and dissatisfaction with the probe",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ayesha-meera-case-closed-as-court-accepts-cbi-final-report/article70659544.ece",
-    "time": "2026-02-21T13:20:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Hollowing out the hills",
-    "desc": "The Nilgiris is under attack. Climate change and falling tea prices have heralded a transformation in the hills that does not augur well for its fragile ecosystem. The rapid real estate expansion on erstwhile tea estates in the Blue Mountains is placing additional pressure on the hills, creating demands for new infrastructure and dramatically altering the landscape, setting alarm bells ringing, says Rohan Premkumar.",
-    "img": "https://th-i.thgim.com/public/incoming/jz4vrb/article70659890.ece/alternates/LANDSCAPE_1200/10214_3_2_2026_13_5_48_2__SAT4740.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/hollowing-out-the-hills-how-real-estate-boom-is-impacting-nilgiris-tea-estates/article70659196.ece",
-    "time": "2026-02-21T12:47:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kuki-Zo MLA, attacked by mob in 2023 ethnic violence in Manipur, dies in Gurugram hospital",
-    "desc": "Vungzagin Valte, a third-time legislator who was also an adviser to former Chief Minister N. Biren Singh on tribal affairs, was attacked by the mob while leaving the Chief Minister’s office after attending a meeting",
-    "img": "https://th-i.thgim.com/public/incoming/qeiygk/article70659844.ece/alternates/LANDSCAPE_1200/Vungzagin%20Valte.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/manipur/vungzagin-valte-kuki-zo-mla-dead-manipur-ethnic-violence/article70659832.ece",
-    "time": "2026-02-21T12:44:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -234,15 +369,6 @@ const newsData_en = [
     "time": "2026-02-21T11:41:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Subsidies, incentives of over 1,800 farmers blocked in Bihar for stubble burning",
-    "desc": "The Bihar Economic Survey (2025-26), recently tabled in the Assembly, noted that DBT registrations of 4,596 farmers were blocked in 2024; however, incidents of crop residue burning declined in 2025 compared to the previous year",
-    "img": "https://th-i.thgim.com/public/incoming/6d0pt5/article70659874.ece/alternates/LANDSCAPE_1200/31_RVM_8882.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/subsidies-incentives-of-over-1800-farmers-blocked-in-bihar-for-stubble-burning/article70659803.ece",
-    "time": "2026-02-21T11:40:29.000Z"
-  },
-  {
     "cat": "World",
     "title": "Curfew imposed in southern Nepal district after clash between two groups",
     "desc": "The clashes between the two communities were triggered by a dispute on the evening of February 19, followed by escalation of tension through February 20 and February 21 morning with at least eight persons injured",
@@ -306,15 +432,6 @@ const newsData_en = [
     "time": "2026-02-21T10:39:24.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rajpal says he WON'T be able to REPAY his wife Radha's debt",
-    "desc": "In the midst of navigating a challenging legal situation, actor Rajpal Yadav expressed heartfelt thanks to his wife Radha, whose steadfast support has been a pillar for him. Currently on interim bail due to a Rs 9 crore cheque bounce issue, Rajpal is focused on celebrating his niece's wedding, with a court date set for March 18.",
-    "img": "https://static.toiimg.com/photo/msid-128640881,imgsize-50898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/emotional-rajpal-yadav-says-he-wont-be-able-to-repay-his-wife-radha-yadavs-debt-says-she-held-the-entire/articleshow/128640881.cms",
-    "time": "2026-02-21T10:10:13.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Rohit Pawar writes to PM Modi, demands Aviation minister's resignation",
     "desc": "NCP (SP) leader Rohit Pawar has urged Prime Minister Narendra Modi to seek the resignation of Civil Aviation Minister K Ram Mohan Naidu pending an inquiry into the January 28 plane crash that killed Ajit Pawar. Pawar alleged potential links between the aircraft's owner, VSR, and the minister's party, demanding an independent probe into the incident and possible conspiracy.",
@@ -351,15 +468,6 @@ const newsData_en = [
     "time": "2026-02-21T09:36:37.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Haseena Maan Jayegi 2' is happening? Here's what we know",
-    "desc": "Iconic 1999 comedy 'Haseena Maan Jayegi' is reportedly getting a sequel. Filmmaker Farhad Samji is set to helm the project, currently in the scripting stage. While original director David Dhawan opted out, the new film aims to retain the original's spirit with a modern twist. Casting for the top roles is expected by March 2026. Read on to know more in details.",
-    "img": "https://static.toiimg.com/photo/msid-128639934,imgsize-34948.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sequel-to-sanjay-dutt-and-govindas-haseena-maan-jayegi-is-in-the-works-makers-yet-to-finalize-lead-cast-report/articleshow/128639934.cms",
-    "time": "2026-02-21T09:34:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Divya vs Humpy in women's opener; Pragg faces Giri",
     "desc": "The 2026 FIDE Candidates and Women’s Candidates pairings are out, with both tournaments set in Cyprus from March 28 to April 16 in a double round-robin format. Key open clashes include Caruana vs Nakamura and Praggnanandhaa vs Giri, while the women’s event features major games like Humpy vs Divya. After 14 rounds, the winners will challenge the world champions.",
@@ -367,51 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/candidates-2026-full-draw-divya-deshmukh-vs-koneru-humpy-in-womens-opener-praggnanandhaa-faces-anish-giri/articleshow/128639872.cms",
     "time": "2026-02-21T09:31:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay Deverakonda–Rashmika Mandanna spotted at airport; 3-day wedding",
-    "desc": "Reports suggest Rashmika Mandanna and Vijay Deverakonda are set to tie the knot on February 26 in a private Udaipur ceremony, followed by a March 4 Hyderabad reception. The couple, recently spotted at the airport, is reportedly enhancing security for the three-day festivities, which will include haldi and sangeet. Their reunion in 'Ranabaali' is also anticipated.",
-    "img": "https://static.toiimg.com/photo/msid-128639867,imgsize-1641093.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakonda-rashmika-mandanna-spotted-at-hyderabad-airport-ahead-of-wedding-three-day-celebrations-planned-report/articleshow/128639867.cms",
-    "time": "2026-02-21T09:29:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Nana Patekar hated me': Neesha reveals struggles in film industry",
-    "desc": "Neesha Singh, a prominent figure from the 80s and 90s entertainment scene, shared her unexpected entry into showbiz and her decision to leave at her peak. Her career began with a modeling opportunity, leading to a successful advertising stint before transitioning to films. Singh also recounted a challenging experience with Nana Patekar during the filming of 'Ankush'.",
-    "img": "https://static.toiimg.com/photo/msid-128639798,imgsize-38032.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nana-patekar-hated-me-neesha-singh-reveals-struggles-in-film-industry-shares-life-after-stepping-away-from-cinema/articleshow/128639819.cms",
-    "time": "2026-02-21T09:20:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jisoo’s BTS 'Who knows' comment sparks BLACKPINK's disbandment fears",
-    "desc": "In the wake of BLACKPINK's sensational show in Hong Kong, a fleeting remark by Jisoo—'Who knows when we’ll be able to use this again?'—has sparked a flurry of theories among fans. Some worry it signals an upcoming hiatus or worse, disbandment, while others take it as an emotional response marking the end of a remarkable journey on tour.",
-    "img": "https://static.toiimg.com/photo/msid-128639648,imgsize-87232.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/jisoos-bts-who-knows-comment-sparks-blackpinks-disbandment-fears/articleshow/128639648.cms",
-    "time": "2026-02-21T09:15:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Henwick shares excitement over 'Daredevil: Born Again' season 2",
-    "desc": "Born Again' Season 2, visited the set and praised the upcoming season as \"incredible.\" She assured fans, especially those from the Netflix era, that they will be \"very happy\" with the new installment. The season continues Matt Murdock's conflict with Mayor Wilson Fisk and features Krysten Ritter's return as Jessica Jones.",
-    "img": "https://static.toiimg.com/photo/msid-128639364,imgsize-150340.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/its-incredible-jessica-henwick-praises-daredevil-born-again-season-2-ahead-of-premiere/articleshow/128639364.cms",
-    "time": "2026-02-21T09:04:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajpal shares about 'most difficult part' of being in jail",
-    "desc": "In a heartfelt revelation, actor Rajpal Yadav, who was recently released on interim bail from Tihar Jail to attend his niece's wedding, noted that the greatest challenge during his incarceration was the emotional toll of being away from family. Emphasizing the importance of mental well-being, he maintained a positive outlook throughout his ordeal. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128639190,imgsize-18596.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-shares-about-the-most-difficult-part-of-being-in-tihar-jail-after-securing-bail/articleshow/128639190.cms",
-    "time": "2026-02-21T08:57:26.000Z"
   },
   {
     "cat": "Business",
@@ -495,15 +558,6 @@ const newsData_en = [
     "time": "2026-02-21T05:18:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BJP shows black flag to Rahul Gandhi after Congress' shirtless protests at AI Summit",
-    "desc": "BJP workers protested Rahul Gandhi in Mumbai with black flags following an Indian Youth Congress demonstration at the AI Summit in New Delhi. IYC workers, protesting against Prime Minister Modi, were detained after briefly disrupting the summit. BJP leaders accused Congress and Rahul Gandhi of orchestrating the disruption.",
-    "img": "https://static.toiimg.com/photo/msid-128634268,imgsize-769330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjp-shows-black-flag-to-rahul-gandhi-after-congress-shirtless-protests-at-ai-summit/articleshow/128634187.cms",
-    "time": "2026-02-21T05:12:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How Axar Patel thrives on home comfort",
     "desc": "Axar Patel, once out of the Indian team for three years, has transformed into a core leadership member for the T20 World Cup. His rigorous training, guided by his wife Meha and focused on specific batting and bowling drills, has been key to his evolution as a cricketer. He now steps onto his home turf as a vital player.",
@@ -540,24 +594,6 @@ const newsData_en = [
     "time": "2026-02-21T04:17:31.000Z"
   },
   {
-    "cat": "Business",
-    "title": "How much tariff will India pay after US SC ruling, Trump’s 10% global duty? What White House said",
-    "desc": "India will now face a 10% tariff on imports to the US, as President Trump signed an executive order imposing this global rate. This move follows a US Supreme Court ruling that declared his previous tariffs illegal. Trump stated that this new tariff structure is a reversal, with India now paying tariffs to the US.",
-    "img": "https://static.toiimg.com/photo/msid-128632823,imgsize-1215772.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/how-much-tariff-will-india-pay-after-us-sc-ruling-trumps-10-global-duty-what-white-house-said/articleshow/128632784.cms",
-    "time": "2026-02-21T04:00:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I love my man': Mahieka Sharma's romantic reply to Hardik Pandya goes viral",
-    "desc": "Cricketer Hardik Pandya celebrated Mahieka Sharma's 25th birthday with a heartfelt Instagram post featuring a romantic video. Sharma reciprocated the affection, calling Pandya her \"best gift.\" The couple, who confirmed their relationship in October 2025, has been seen together publicly since. Pandya was previously married to Natasa Stankovic.",
-    "img": "https://static.toiimg.com/photo/msid-128632404,imgsize-30182.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-love-my-man-mahieka-sharmas-romantic-reply-to-hardik-pandya-goes-viral/articleshow/128632359.cms",
-    "time": "2026-02-21T03:40:15.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.K. government considers removing former prince Andrew from line of succession",
     "desc": "Amid a torrent of often tawdry revelations from the files of late U.S. sex offender Jeffrey Epstein, King Charles III has already stripped his younger brother of all his titles and ousted him from his home in Windsor",
@@ -576,33 +612,6 @@ const newsData_en = [
     "time": "2026-02-21T03:03:54.000Z"
   },
   {
-    "cat": "Business",
-    "title": "‘Ridiculous opinion’, 'disgrace to nation': What Trump said after US SC verdict on tariffs",
-    "desc": "President Trump fiercely criticized the Supreme Court after it struck down his global tariffs, deeming the decision \"ridiculous.\" He vowed to pursue alternative measures to impose new duties, despite the ruling limiting his executive authority. The decision injects uncertainty into global trade as Trump signals continued use of tariffs.",
-    "img": "https://static.toiimg.com/photo/msid-128631658,imgsize-780403.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/ridiculous-opinion-disgrace-to-nation-what-trump-said-after-us-sc-verdict-on-tariffs/articleshow/128630539.cms",
-    "time": "2026-02-21T03:01:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We failed': Australia star's painful dressing room confession",
-    "desc": "Despite a dominant nine-wicket victory over Oman and Adam Zampa's four-wicket haul, Australia's early exit from the ICC Men's T20 World Cup 2026 cast a shadow. Captain Mitchell Marsh also contributed a quickfire half-century, but individual performances offered little solace as the team expressed deep disappointment with their tournament's premature conclusion.",
-    "img": "https://static.toiimg.com/photo/msid-128631233,imgsize-79604.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-failed-australia-stars-painful-dressing-room-confession-after-t20-world-cup-exit/articleshow/128631242.cms",
-    "time": "2026-02-21T02:40:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why US Supreme Court struck down Donald Trump's trade tariffs; explained in 10 points",
-    "desc": "The Supreme Court ruled that President Trump lacked the authority under the International Emergency Economic Powers Act (IEEPA) to impose broad tariffs. The 6-3 decision found the law does not explicitly grant power for tariffs, a move Trump had used extensively. This ruling could lead to significant refunds and ongoing disputes over presidential tariff powers.",
-    "img": "https://static.toiimg.com/photo/msid-128631165,imgsize-1137438.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/why-us-supreme-court-struck-down-donald-trumps-trade-tariffs-explained-in-10-points/articleshow/128630959.cms",
-    "time": "2026-02-21T02:36:23.000Z"
-  },
-  {
     "cat": "World",
     "title": "Why the Strait of Hormuz remains central to global energy security",
     "desc": "As Iran launches fresh military exercises in the corridor to prepare for ‘potential security threats’, attention has once again shifted to the world’s most critical energy chokepoint that carries almost 20% of global petroleum; any disruption here could jolt energy prices and economies, including India’s",
@@ -610,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/why-the-strait-of-hormuz-remains-central-to-global-energy-security/article70656443.ece",
     "time": "2026-02-21T00:44:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Spin issue, dropped catches: Is India's 'best yet to come' in T20 World Cup?",
-    "desc": "Former India cricketer Sanjay Bangar believes the team's best is yet to come despite a steady group stage. He highlighted catching as an area for improvement and identified Ishan Kishan, Suryakumar Yadav, and Jasprit Bumrah as crucial players for the Super Eight stage.",
-    "img": "https://static.toiimg.com/photo/msid-128616552,imgsize-89252.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/spin-issue-dropped-catches-is-indias-best-yet-to-come-in-t20-world-cup/articleshow/128612131.cms",
-    "time": "2026-02-20T23:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -828,15 +828,6 @@ const newsData_en = [
     "time": "2026-02-18T18:29:16.000Z"
   },
   {
-    "cat": "World",
-    "title": "U.S. energy chief says IEA must 'drop' focus on climate change",
-    "desc": "Chris Wright threatened last year to pull the United States out of the IEA — which was founded to coordinate responses to major disruptions of supplies after the 1973 oil crisis — unless it reformed the way it operates.",
-    "img": "https://th-i.thgim.com/public/incoming/ln35nf/article70648989.ece/alternates/LANDSCAPE_1200/2026-02-11T004204Z_724606649_RC2WQHAIDJ30_RTRMADP_3_VENEZUELA-USA-OIL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/us-energy-chief-says-iea-must-drop-focus-on-climate-change/article70648983.ece",
-    "time": "2026-02-18T17:01:15.000Z"
-  },
-  {
     "cat": "Business",
     "title": "FedEx to invest ₹2,500 crore in setting up automated cargo hub at Navi Mumbai airport",
     "desc": "The facility to be developed in collaboration with Adani Airport Holdings Ltd (AAHL) will be designed as a regional consolidation and redistribution hub and support trade flows across Southeast and West Asia, Europe and the United States, embedding global network connectivity directly within India's primary trade corridor",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/one-piece-anime-returns-in-april-with-long-awaited-elbaph-arc/article70646618.ece",
     "time": "2026-02-18T08:18:37.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What makes gold so precious?",
+    "desc": "It’s chemistry’s greatest gift to mankind. Without it, we can’t adorn ourselves with the finest jewellery; nor can we have a backup for financial security. It’s gold. But what makes it so precious? Let’s have a look.",
+    "img": "https://th-i.thgim.com/public/incoming/5kevlu/article70573762.ece/alternates/LANDSCAPE_1200/Gold_Prices_Consumers_44144.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/from-atoms-to-empires-what-makes-gold-so-precious/article70573771.ece",
+    "time": "2026-02-18T07:54:45.000Z"
   }
 ];

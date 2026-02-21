@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How will surface at Narendra Modi Stadium in Ahmedabad play in T20 WC?",
+    "desc": "India will host South Africa in their opening Super Eights clash at the Narendra Modi Stadium in Ahmedabad. Both teams have won all four of their matches so far in the competition and will be...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-sa-pitch-report-how-will-surface-at-narendra-modi-stadium-in-ahmedabad-play-in-t20-wc-2026-02-21-1031193",
+    "time": "2026-02-21T18:07:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Which teams will qualify if all Super Eights Group B matches in Sri Lanka are called off due to rain?",
+    "desc": "Rain has already disrupted proceedings in Sri Lanka, with two matches, including the opening Super Eights fixture between New Zealand and Pakistan, abandoned without a result. Forecasts suggest more such showers in Colombo, which might...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/which-teams-will-qualify-if-all-super-eights-group-b-matches-in-sri-lanka-are-called-off-due-to-rain-2026-02-21-1031191",
+    "time": "2026-02-21T17:32:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Is there reserve day for Super 8 clash between NZ vs PAK in T20 World Cup 2026?",
+    "desc": "The rain has played a spoilsport so far in the heavyweight clash between New Zealand and Pakistan in the Super Eights clash in the T20 World Cup 2026. Soon after the toss, the drizzle began,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/colombo-weather-is-there-reserve-day-for-super-8-clash-between-nz-vs-pak-in-t20-world-cup-2026-2026-02-21-1031181",
+    "time": "2026-02-21T15:26:43.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shikhar Dhawan ties nuptial knot with longtime girlfriend Sophie Shine in intimate ceremony",
     "desc": "Shikhar Dhawan, Indian cricket star, exchanged vows with his longtime girlfriend, Sophie Shine, in a closely guarded private ceremony on February 21 (Saturday). The couple, who had been dating for over a year and confirmed...",
     "img": "",
@@ -19,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Colombo weather doesn't improve, rain continue",
+    "title": "Match called off as Colombo weather play spoilsport",
     "desc": "New Zealand host Pakistan in the opening game of the Super Eights of the T20 World Cup 2026 at the R Premadasa Stadium in Colombo. With three wins to their name, the Black Caps have...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-addresses-abhishek-sharma-s-poor-form-before-marquee-super-eights-clash-vs-south-africa-2026-02-21-1031146",
     "time": "2026-02-21T10:47:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Head to Head record ahead of T20 World Cup Super 8 clash in Ahmedabad",
-    "desc": "India and South Africa will face each other in the third Super 8 clash of the T20 World Cup on Sunday at the Narendra Modi Stadium in Ahmedabad. However, this is the first game of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-sa-head-to-head-record-ahead-of-t20-world-cup-super-8-clash-in-ahmedabad-2026-02-21-1031133",
-    "time": "2026-02-21T09:26:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Confident of not qualifying for T20 World Cup final? Pakistan's baffling schedule for ODI series vs Bangladesh",
-    "desc": "Pakistan Cricket Board (PCB) confirmed on Friday that the men's national cricket team would be touring Bangladesh for three ODIs next month. However, the scheduling of the tour has left many baffled. As per the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/confident-of-not-qualifying-for-t20-world-cup-final-pakistan-s-baffling-schedule-for-odi-series-vs-bangladesh-2026-02-21-1031104",
-    "time": "2026-02-21T05:40:28.000Z"
   }
 ];

@@ -459,15 +459,6 @@ const newsData_bn = [
     "time": "2026-02-17T16:08:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Tigress-eyed Woman: উত্তরাধিকারে পাওয়া 'বাঘিনী চোখ' নিয়ে দেশ কাঁপাচ্ছেন 'বানজারা' পাপ্পু! পুষ্কর থেকে এক লাফে...",
-    "desc": "প্রায় দু'দশক আগে পুষ্কর মেলার সময়ে এক বিদেশি পর্যটক পাপ্পু দেবীর একটি ছবি তুলেছিলেন। তাঁর চোখের সেই অনন্য রঙের কারণে ছবিটি দ্রুত জনপ্রিয়তা পায়। ভারতের বিভিন্ন পর্যটন কেন্দ্রে পোস্টকার্ড এবং স্যুভেনির হিসেবে ছবিটি বিক্রি হতে শুরু করে। অনেকেই তাঁর সেই তীক্ষ্ণ দৃষ্টির জন্য তাঁকে 'বাঘিনী-চক্ষু নারী' বলে অভিহিত করেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/pappu-devi-tigress-eyed-woman-from-pushkar-fair-goes-viral-again-after-20-years_641687.html ",
-    "time": "2026-02-17T12:47:52.000Z"
-  },
-  {
     "cat": "World",
     "title": "তারেক রহমানের নেতৃত্বে বাংলাদেশে দায়িত্ব নিল নতুন মন্ত্রিসভা! শপথ বয়কট বিরোধী জামাত এবং এনসিপির",
     "desc": "বাংলাদেশে তারেক রহমানের নেতৃত্বে শপখ নিল নতুন মন্ত্রিসভা। মঙ্গলবার তারেক রহমান-সহ মোট ৫০ জন মন্ত্রী শপথ গ্রহণ করেন। এর মধ্যে ছিলেন ২৫ জন পূর্ণমন্ত্রী এবং ২৪ জন প্রতিমন্ত্রী। এই অনুষ্ঠানে শপথ নেয়নি জামাত এবং এনসিপি।",
@@ -898,5 +889,14 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/business/south-24-parganas-off-season-vegetable-farming-farmers-may-get-huge-profit-from-cauliflower-cabbage-summer-season-cultivation-l18-local18-2537789.html",
     "time": "2026-02-13T09:39:31.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "স্বপ্নপূরণ হল না পাকিস্তানের, বাংলাদেশে ধরাশায়ী জামাত! বাধ্য হয়েই যা লিখলেন পাক প্রধানমন্ত্রী-প্রেসিডেন্ট, শুনে অবাক হয়ে যাবেন",
+    "desc": "বিএনপি প্রধান তারেক রহমানের জয়ের জন্য অভিনন্দন জানালেন পাকিস্তানের প্রেসিডেন্ট আসিফ আলি জারদারি ও প্রধানমন্ত্রী শাহবাজ শরিফ। আসিফ আলি জারদারি বলেন, পাকিস্তান বাংলাদেশের গণতান্ত্রিক আকাঙ্ক্ষাকে সমর্থন করে এবং বাণিজ্য, প্রতিরক্ষা ও সাংস্কৃতিক বিনিময় জোরদার করতে নতুন সরকারের সঙ্গে কাজ করার প্রত্যাশা রাখে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Tarekh-pakisthan-2026-02-abb27b5c2ced6eef6c4f816a466444c7-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/historic-victory-unveiled-in-bangladesh-congratulations-to-tarique-rahman-rmj-2-ws-l-2538687.html",
+    "time": "2026-02-13T09:20:22.000Z"
   }
 ];
