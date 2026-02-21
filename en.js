@@ -1,5 +1,203 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Patrick Dempsey on Eric Dane’s demise",
+    "desc": "Patrick Dempsey shared a touching tribute to his late 'Grey's Anatomy' co-star Eric Dane, revealing they last texted just a week before his passing from ALS complications. Dempsey fondly recalled their instant bond and mutual respect on set, highlighting Dane's great sense of humor and joy to work with.",
+    "img": "https://static.toiimg.com/photo/msid-128629840,imgsize-653735.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/patrick-dempsey-reveals-the-final-text-exchange-with-eric-dane-before-his-demise-its-hard-to-put-into-words/articleshow/128629844.cms",
+    "time": "2026-02-21T01:18:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jana Nayagan' eyes new release window for June",
+    "desc": "Thalapathy Vijay's 'Jana Nayagan' faces a significant delay, with reports now pointing towards a June 2026 festival release. This strategic timing aligns with Vijay's birthday and a Muharram long weekend. Distributors have issued refund notices, confirming the film won't release before April 30th, as makers finalize a new date.",
+    "img": "https://static.toiimg.com/photo/msid-128629535,imgsize-100114.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijays-jana-nayagan-eyes-new-release-window-june-2026-likely-target-reports/articleshow/128629535.cms",
+    "time": "2026-02-21T01:00:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shahid Kapoor's O' Romeo crosses Rs 75 crore worldwide",
+    "desc": "Shahid Kapoor's 'O Romeo' experienced a slow start to its second week, earning an estimated Rs 2.25 crore on its eighth day, its lowest collection yet. Despite a strong Valentine's Day opening, the film's numbers have dipped. It has garnered Rs 49.35 crore net domestically and Rs 75.",
+    "img": "https://static.toiimg.com/photo/msid-128629360,imgsize-39060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/o-romeo-box-office-collection-day-8-shahid-kapoor-starrer-begins-second-weekend-by-crossing-rs-75-crore-worldwide/articleshow/128628775.cms",
+    "time": "2026-02-21T00:47:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Why the Strait of Hormuz remains central to global energy security",
+    "desc": "As Iran launches fresh military exercises in the corridor to prepare for ‘potential security threats’, attention has once again shifted to the world’s most critical energy chokepoint that carries almost 20% of global petroleum; any disruption here could jolt energy prices and economies, including India’s",
+    "img": "https://th-i.thgim.com/public/incoming/drhuq2/article70657672.ece/alternates/LANDSCAPE_1200/AFP_97RM46H.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/why-the-strait-of-hormuz-remains-central-to-global-energy-security/article70656443.ece",
+    "time": "2026-02-21T00:44:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'BMW' OTT release: Where to watch Ravi Teja film",
+    "desc": "Ravi Teja's comedy entertainer, 'Bhartha Mahasayulaku Wignyapthi' (BMW), is now available on Zee5 after a successful theatrical run. Initially slated for February 13, 2026, the film premiered on February 20, 2026, in Telugu, Tamil, Malayalam, Kannada, and Hindi.",
+    "img": "https://static.toiimg.com/photo/msid-128629221,imgsize-55996.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/bmw-ott-release-when-and-where-to-stream-ravi-tejas-comedy-entertainer/articleshow/128629221.cms",
+    "time": "2026-02-21T00:41:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Tu Yaa Main' BO day 7: Shanaya Kapoor film collects 4.45 crores",
+    "desc": "'Tu Yaa Main' has concluded its opening week at the box office, raking in Rs 4.45 crore net. Despite fluctuating weekday collections, the film maintained a stable performance. Day 7 saw a slight improvement, with Thursday's earnings reaching Rs 40 lakhs. Audiences are divided, with some praising the second half's creature-horror elements while others found the initial pacing slow.",
+    "img": "https://static.toiimg.com/photo/msid-128628954,imgsize-132684.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tu-yaa-main-box-office-collections-day-7-shanaya-kapoor-starrer-ends-week-1-with-rs-4-45-crores/articleshow/128628954.cms",
+    "time": "2026-02-21T00:25:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ex-UP junior engineer, his wife get death for sexually abusing 33 boys, selling their videos",
+    "desc": "A Pocso court in UP's Banda has sentenced a former government engineer and his wife to death for sexually abusing 33 boys over a decade and selling videos of their torture on the dark web. The couple lured children with games and gifts, inflicting severe physical and psychological trauma.",
+    "img": "https://static.toiimg.com/photo/msid-128628896,imgsize-19684.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ex-up-junior-engineer-his-wife-get-death-for-sexually-abusing-33-boys-selling-their-videos/articleshow/128627915.cms",
+    "time": "2026-02-21T00:19:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Do Deewane Seher Mein' BO day 1: Mints Rs 1.25 crores",
+    "desc": "Mrunal Thakur and Siddhant Chaturvedi's 'Do Deewane Seher Mein' opened with a modest ₹1.25 crore India net, indicating a slow start for the slice-of-life romance. While the film's portrayal of millennials navigating self-acceptance in Mumbai and its poetic cinematography have been noted, its success hinges on strong weekend word-of-mouth to overcome the initial quiet reception.",
+    "img": "https://static.toiimg.com/photo/msid-128628749,imgsize-64066.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/do-deewane-seher-mein-box-office-collections-day-1-mrunal-thakur-film-opens-soft-mints-rs-1-25-crores/articleshow/128628749.cms",
+    "time": "2026-02-21T00:11:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alexandra Daddario and Andrew Form file for divorce",
+    "desc": "Actress Alexandra Daddario and producer Andrew Form are reportedly ending their marriage after three years. The couple confirmed their decision to split, stating it was made with love and respect. They plan to co-parent their 15-month-old son. Daddario formally filed for divorce in New York, with further details remaining private.",
+    "img": "https://static.toiimg.com/photo/msid-128628683,imgsize-19402.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/alexandra-daddario-files-for-divorce-from-andrew-form-after-three-years-of-marriage/articleshow/128628124.cms",
+    "time": "2026-02-21T00:05:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Spin issue, dropped catches: Is India's 'best yet to come' in T20 World Cup?",
+    "desc": "Former India cricketer Sanjay Bangar believes the team's best is yet to come despite a steady group stage. He highlighted catching as an area for improvement and identified Ishan Kishan, Suryakumar Yadav, and Jasprit Bumrah as crucial players for the Super Eight stage.",
+    "img": "https://static.toiimg.com/photo/msid-128616552,imgsize-89252.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/spin-issue-dropped-catches-is-indias-best-yet-to-come-in-t20-world-cup/articleshow/128612131.cms",
+    "time": "2026-02-20T23:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka's fans spot Nick's mangalsutra bracelet",
+    "desc": "While promoting his wife, actor Priyanka Chopra's upcoming Hollywood film 'The Bluff', Nick was spotted wearing PeeCee's mangalsutra as a bracelet. The subtle nod to their marriage caught the attention of fans on social media, with many praising the singer-actor for displaying his unwavering love and respect for his wife's traditions even years after their 2018 wedding.",
+    "img": "https://static.toiimg.com/photo/msid-128628065,imgsize-66812.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nick-jonas-wears-mangalsutra-bracelet-in-video-priyanka-chopra-fans-say-jiju-is-the-best-watch/articleshow/128627876.cms",
+    "time": "2026-02-20T23:22:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Maharashtra’s Ladki Bahin Yojana: Waiting for ₹1,500",
+    "desc": "The Mukhyamantri Majhi Ladki Bahin Yojana was rolled out ahead of the Maharashtra Assembly elections in mid-2024. It assured women between the ages of 21 and 65 a monthly stipend of ₹1,500, and the first tranche of payouts were made. After the Mahayuti government returned to power, it introduced mandatory e-KYC verification, which led to a reduction in the number of eligible beneficiaries, reports Vinaya Deshpande Pandit",
+    "img": "https://th-i.thgim.com/public/incoming/vpjmz9/article70657693.ece/alternates/LANDSCAPE_1200/11908_18_2_2026_19_6_49_3_DSC_4461.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/maharashtras-ladki-bahin-yojana-waiting-for-1500/article70657324.ece",
+    "time": "2026-02-20T22:53:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Did Zendaya and Tom Holland get MARRIED?",
+    "desc": "Hollywood's beloved couple, Zendaya and Tom Holland, are fueling wedding rumors after the actress was spotted sporting a simple gold band, distinct from her engagement ring. This sighting follows their discreet engagement announcement last year. Fans are buzzing with speculation about a secret ceremony, mirroring their private proposal.",
+    "img": "https://static.toiimg.com/photo/msid-128626832,imgsize-22034.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zendaya-secretly-married-tom-holland-gold-band-on-actress-finger-sparks-rumours/articleshow/128624891.cms",
+    "time": "2026-02-20T22:30:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC deploys judicial officers in Bengal for SIR hearings",
+    "desc": "The Supreme Court has taken an unprecedented step deploying judicial officers in West Bengal. This move aims to expedite the voter list revision process. The court emphasized the Chief Minister's awareness of consequences if the exercise is not completed. This judicial intervention stems from a trust deficit between the Election Commission and the state government.",
+    "img": "https://static.toiimg.com/photo/msid-128626649,imgsize-68214.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-deploys-judicial-officers-in-bengal-for-sir-hearings/articleshow/128626622.cms",
+    "time": "2026-02-20T22:28:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "MHA forms 2nd empowered committee for Bengal to fast-track requests under CAA",
+    "desc": "The Union home ministry has formed a second empowered committee in West Bengal to expedite citizenship applications under the CAA. This move comes as the volume of applications has surged, particularly from the Matua community. The new committee, headed by the deputy registrar general, aims to share the workload and reduce processing times for eligible immigrants.",
+    "img": "https://static.toiimg.com/photo/msid-128625912,imgsize-26812.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mha-forms-2nd-empowered-committee-for-bengal-to-fast-track-requests-under-caa/articleshow/128625621.cms",
+    "time": "2026-02-20T22:17:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taapsee says she is open to friendship with Kangana",
+    "desc": "The public feud between Kangana Ranaut and Taapsee Pannu has stretched over several years, beginning around 2019 with sharp social media exchanges and personal remarks. From being called a “sasti (cheap) copy” by Kangana’s sister Rangoli Chandel to being labelled a “B-grade actress” and “she-man,” the back-and-forth became a prominent talking point amid the nepotism debate. In a recent interview, Taapsee revisited the controversy, insisting she never initiated a fight and expressing openness to moving forward.",
+    "img": "https://static.toiimg.com/photo/msid-128624894,imgsize-102008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/taapsee-pannu-says-she-is-open-to-friendship-with-kangana-ranaut-amid-long-standing-feud-someone-must-have-benefited-in-some-way/articleshow/128624781.cms",
+    "time": "2026-02-20T22:01:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Relying on decades-old rulings, SC acquits stepdad of 6-yr-old's murder",
+    "desc": "A six-year-old girl's murder case saw her stepfather acquitted by the Supreme Court. The court found the evidence weak, citing a botched investigation. The stepfather was the last person seen with the child. His statement leading to the discovery of her remains was deemed inadmissible. The court highlighted the lack of corpus delicti and specified time of death.",
+    "img": "https://static.toiimg.com/photo/msid-128624811,imgsize-365742.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/relying-on-decades-old-rulings-sc-acquits-stepdad-of-6-yr-olds-murder/articleshow/128624819.cms",
+    "time": "2026-02-20T21:55:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Saudi crude imports narrow gap with Russia, set to become biggest supplier",
+    "desc": "Saudi Arabia has temporarily become India's top crude oil supplier, with imports reaching their highest since November 2019. February saw nearly 1-1.1 million barrels per day arriving from the West Asian nation, surpassing Russia. This shift occurs amid US pressure on India to reduce Russian crude purchases, though analysts anticipate a short-term stabilization.",
+    "img": "https://static.toiimg.com/photo/msid-128624344,imgsize-56976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/saudi-crude-imports-narrow-gap-with-russia-set-to-become-biggest-supplier/articleshow/128624345.cms",
+    "time": "2026-02-20T21:37:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Eric Dane's 'last words' revealed in tear-jerking video",
+    "desc": "Hollywood star Eric Dane, celebrated for his roles in 'Grey's Anatomy' and 'Euphoria', has passed away at 53 after a battle with ALS. In a posthumous interview, Dane shared poignant life lessons with his daughters, Billie and Georgia, urging them to live in the present, find passion, choose friends wisely, and fight with dignity.",
+    "img": "https://static.toiimg.com/photo/msid-128623899,imgsize-11452.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/eric-danes-last-words-to-daughters-and-wife-revealed-in-tear-jerking-video-you-can-face-the-end-of-your-days-and-hell-with-dignity-watch/articleshow/128623827.cms",
+    "time": "2026-02-20T21:35:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘That could’ve been me’: Gordon Ramsay on brother’s addiction",
+    "desc": "With six episodes released, Being Gordon Ramsay offers an unfiltered portrait of the celebrity chef as he launches five restaurants in London’s 22 Bishopsgate. Beyond business, the series explores his turbulent childhood, violent alcoholic father and enduring guilt over his brother’s heroin addiction, revealing how proximity to failure continues to fuel his relentless drive.",
+    "img": "https://static.toiimg.com/photo/msid-128624123,imgsize-586015.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/etimes/trending/that-couldve-been-me-gordon-ramsay-breaks-down-over-brothers-heroin-addiction-in-raw-new-netflix-series/articleshow/128621314.cms",
+    "time": "2026-02-20T21:24:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India committed to not buying Russian oil",
+    "desc": "US Ambassador Sergio Gor stated India committed to not buying Russian oil as President Trump seeks to end the Russia-Ukraine war. Gor also revealed active negotiations for India to procure Venezuelan oil, with an interim trade deal imminent. India's foreign ministry emphasized its energy policy is driven by national interest.",
+    "img": "https://static.toiimg.com/photo/msid-128624086,imgsize-72304.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/us-envoy-sergio-gor-india-committed-to-not-buying-russian-oil/articleshow/128624098.cms",
+    "time": "2026-02-20T21:16:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I almost forget that I am married'",
+    "desc": "Taapsee Pannu recently opened up about her marriage with former badminton player Mathias Boe, sharing candid insights into possessiveness, cultural differences and their long engagement. In a new interview, she reflected on past relationships, her expectations from a partner and why they finally decided to tie the knot after nine years of being engaged.",
+    "img": "https://static.toiimg.com/photo/msid-128623966,imgsize-30556.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/taapsee-pannu-says-husband-mathias-boe-never-lets-her-feel-the-burden-of-a-relationship-i-almost-forget-that-i-am-married/articleshow/128623927.cms",
+    "time": "2026-02-20T21:07:58.000Z"
+  },
+  {
     "cat": "World",
     "title": "U.K. government considers removing former prince Andrew from line of succession amid Epstein row",
     "desc": "Amid a torrent of often tawdry revelations from the files of late U.S. sex offender Jeffrey Epstein, King Charles III has already stripped his younger brother of all his titles and ousted him from his home in Windsor",
@@ -45,6 +243,15 @@ const newsData_en = [
     "time": "2026-02-20T19:20:09.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "Chess is more than just a game to me; it’s my world, it’s the core of my life: Alexandra Kosteniuk",
+    "desc": "The 41-year-old Grandmaster is one of the most decorated players in chess history, having won multiple World titles, the World Cup, Olympiads and the GCL. In this conversation, she talks about what the game means to her, how it has changed with the advent of computers, what motivates her to compete at the top level in her 40s and why she isn’t a content creator anymore",
+    "img": "https://th-i.thgim.com/public/incoming/osevae/article70656227.ece/alternates/LANDSCAPE_1200/GettyImages-1237471437.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/chess-is-more-than-just-a-game-to-me-its-my-world-its-the-core-of-my-life-alexandra-kosteniuk/article70656220.ece",
+    "time": "2026-02-20T18:36:38.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'I don’t think I ever wanted to leave Bollywood'",
     "desc": "Priyanka Chopra’s journey from being one of Bollywood’s biggest stars to carving a space for herself in Hollywood has often sparked conversation online. Now, the global actor has opened up about what led to that transition and how her decision was shaped by the search for more fulfilling opportunities.",
@@ -79,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/ai-in-diagnostics-faster-hiring-must-shape-aiims-expansion-nadda/articleshow/128618580.cms",
     "time": "2026-02-20T17:36:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chess is more than just a game to me; it’s my world, it’s the core of my life: Alexandra Kosteniuk",
-    "desc": "The 41-year-old Grandmaster is one of the most decorated players in chess history, having won multiple World titles, the World Cup, Olympiads and the GCL. In this conversation, she talks about what the game means to her, how it has changed with the advent of computers, what motivates her to compete at the top level in her 40s and why she isn’t a content creator anymore",
-    "img": "https://th-i.thgim.com/public/incoming/osevae/article70656227.ece/alternates/LANDSCAPE_1200/GettyImages-1237471437.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/todays-paper/tp-sports/chess-is-more-than-just-a-game-to-me-its-my-world-its-the-core-of-my-life-alexandra-kosteniuk/article70656220.ece",
-    "time": "2026-02-20T17:14:18.000Z"
   },
   {
     "cat": "Sports",
@@ -162,6 +360,15 @@ const newsData_en = [
     "time": "2026-02-20T16:32:30.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "Leonardo DiCaprio and Vittoria Ceretti’s combined net worth",
+    "desc": "Hollywood heartthrob Leonardo DiCaprio and Italian model Vittoria Ceretti are making waves as a power couple. DiCaprio, a seasoned actor, boasts a net worth of $300 million, significantly boosted by endorsements and real estate. Ceretti, a rising star in the fashion world, has amassed $4 million through lucrative brand deals. Together, their combined fortune reaches an impressive $304 million.",
+    "img": "https://static.toiimg.com/photo/msid-128587926,imgsize-30034.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/leonardo-dicaprio-and-vittoria-cerettis-total-net-worth-how-much-does-the-celebrity-couple-earn/articleshow/128587926.cms",
+    "time": "2026-02-20T16:30:00.000Z"
+  },
+  {
     "cat": "World",
     "title": "U.S. Supreme Court strikes down Trump’s global tariffs",
     "desc": "The U.S. Supreme Court struck down on February 20, President Donald Trump’s sweeping tariffs that he pursued under ​a law meant for use in national emergencies, rejecting one of his most contentious assertions of his authority in a ruling with major implications for the global economy.",
@@ -169,33 +376,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-us-supreme-court-strikes-down-trumps-global-tariffs/article70657456.ece",
     "time": "2026-02-20T16:14:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajpal Yadav shares emotional hug with niece during vidai",
-    "desc": "Actor Rajpal Yadav, granted interim bail for a family wedding, was seen overcome with emotion during his niece's vidai in Shahjahanpur. This follows a viral clip of him joyfully dancing at the mehendi ceremony. The actor is navigating a long-standing legal battle over a defaulted loan.",
-    "img": "https://static.toiimg.com/photo/msid-128615732,imgsize-22136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-shares-emotional-hug-with-niece-during-vidai-viral-wedding-videos-surface/articleshow/128615741.cms",
-    "time": "2026-02-20T15:57:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Madaan calls SRK a ‘great strategist’: His charm is a skill",
-    "desc": "Shah Rukh Khan has long been celebrated for his effortless charm and romantic screen presence. But according to astrologer and spiritual mentor Jai Madaan, the superstar’s charisma is not merely natural — it is strategically sharpened.",
-    "img": "https://static.toiimg.com/photo/msid-128615516,imgsize-44742.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jai-madaan-calls-shah-rukh-khan-a-great-strategist-says-srks-charm-is-a-skill-not-just-a-gift-what-he-has-only-his-wife-can-tell/articleshow/128615439.cms",
-    "time": "2026-02-20T15:49:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Top 5 South stories of the day",
-    "desc": "South cinema buzzed with major announcements and developments on February 20. A cryptic poster for Rajinikanth-Kamal Haasan's film ignited curiosity, while Sivakarthikeyan's 'Seyon' faced a title dispute. Jayasurya's asset was attached in a money-laundering probe. Meanwhile, Yash's ruthless avatar in the 'Toxic' teaser and a leaked look of Mahesh Babu as Lord Ram amplified fan excitement.",
-    "img": "https://static.toiimg.com/photo/msid-128614892,imgsize-60148.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/toxic-teaser-khxrk-poster-seyon-title-controversy-top-5-south-stories-of-the-day/articleshow/128614892.cms",
-    "time": "2026-02-20T15:33:51.000Z"
   },
   {
     "cat": "Sports",
@@ -216,24 +396,6 @@ const newsData_en = [
     "time": "2026-02-20T15:16:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "BTS’ V reacts after private messages surface in legal battle",
-    "desc": "BTS star V clarifies his private chats with former ADOR CEO Min Hee-jin. He states the messages were casual and not meant to take sides in the HYBE legal battle. V expressed surprise that these private conversations became evidence. The exchange reportedly touched on plagiarism claims against HYBE's group ILLIT.",
-    "img": "https://static.toiimg.com/photo/msid-128614027,imgsize-30140.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/bts-v-breaks-silence-after-private-messages-surface-in-hybemin-hee-jin-legal-battle/articleshow/128613983.cms",
-    "time": "2026-02-20T15:05:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajpal Yadav, wife express gratitude amid industry support",
-    "desc": "Rajpal Yadav and his wife Radha Yadav have spoken about the challenging weeks following his interim bail in the Rs 9 crore cheque bounce case. The actor walked out of Tihar Jail on February 17 and soon after travelled to his hometown in Uttar Pradesh with Radha, opting to stay close to family as the legal process continues.",
-    "img": "https://static.toiimg.com/photo/msid-128613437,imgsize-57952.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-and-wife-radha-yadav-express-gratitude-amid-industry-support-in-cheque-bounce-case-we-are-thankful-for-every-gesture/articleshow/128613379.cms",
-    "time": "2026-02-20T14:48:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Less than 100'- Pak coach breaks silence on Babar's strike rate, Salman Agha rift",
     "desc": "Pakistan coach Mike Hesson questioned Babar Azam’s powerplay strike rate ahead of the Super Eight clash against New Zealand, explaining his demotion during the Namibia match. Hesson also clarified Shaheen Shah Afridi’s omission, backed Salman Mirza’s inclusion, and dismissed talk of a rift with Salman Ali Agha.",
@@ -243,24 +405,6 @@ const newsData_en = [
     "time": "2026-02-20T14:28:39.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "CBFC removes word from Mrunal Thakur’s scenes in ‘Do Deewane Seher Mein’",
-    "desc": "The Central Board of Film Certification recently muted the word 'b***s' in two instances from the film 'Do Deewane Seher Mein', featuring Mrunal Thakur and Siddhant Chaturvedi. These edits were made before granting a U/A 13+ certificate.",
-    "img": "https://static.toiimg.com/photo/msid-128612660,imgsize-71038.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/do-deewane-seher-mein-cbfc-removes-word-from-mrunal-thakurs-scenes-with-siddhant-chaturvedi-reports/articleshow/128612660.cms",
-    "time": "2026-02-20T14:28:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Traitor Rahul': BJP protests Congress's shirt-off disruption at AI event",
-    "desc": "Calling Rahul Gandhi a \"traitor,\" a protesting BJP Yuva Morcha leader, who was being bundled into a van, said, \"This shows their ideology against the country. If you want to protest, protest the policies. They have protested against their own country.\" In a statement, the Indian Youth Congress said its workers were protesting against a \"compromised Prime Minister who has traded the identity of the country at the Al Summit\".",
-    "img": "https://static.toiimg.com/photo/msid-128612661,imgsize-34222.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/traitor-rahul-bjp-protests-congresss-shirt-off-disruption-at-ai-event/articleshow/128611674.cms",
-    "time": "2026-02-20T14:27:31.000Z"
-  },
-  {
     "cat": "World",
     "title": "If attacked, U.S. bases in region would be ‘legitimate targets’, warns Iran",
     "desc": "Iran’s warning comes amid reports that Mr. Trump is considering air strikes against the Islamic Republic; the U.S. has already sent a host of offensive and defensive weapons to the region while preparing for a possible war",
@@ -268,51 +412,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-warns-us-bases-assets-legitimate-targets-if-it-attacks/article70654658.ece",
     "time": "2026-02-20T14:22:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Eric Dane looked calm and composed in his last public appearance",
-    "desc": "Beloved actor Eric Dane, known for his iconic role as 'McSteamy' on 'Grey's Anatomy,' has passed away at 53 after a battle with ALS. His final public appearance, marked by quiet strength, has deeply moved fans. Dane's magnetic performances across various popular series leave behind a significant legacy, now amplified by his courageous fight against the devastating illness.",
-    "img": "https://static.toiimg.com/photo/msid-128612401,imgsize-27572.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/greys-anatomy-star-eric-dane-looked-calm-and-composed-in-his-last-public-appearance-amid-battle-with-als-reports/articleshow/128612425.cms",
-    "time": "2026-02-20T14:20:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Kaithi 2' title locked? Censor certificate leak triggers buzz",
-    "desc": "A leaked censor certificate has sparked excitement for 'Kaithi 2'. Fans believe the film might be titled 'Dilli', after Karthi's character. A 30-second teaser is also reportedly mentioned. Director Lokesh Kanagaraj confirmed 'Kaithi 2' is planned after his project with Allu Arjun. This sequel will further expand the Lokesh Cinematic Universe.",
-    "img": "https://static.toiimg.com/photo/msid-128612264,imgsize-96010.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kaithi-2-title-locked-censor-certificate-leak-triggers-buzz-for-karthi-and-lokesh-kanagarajs-reunion-reports/articleshow/128612264.cms",
-    "time": "2026-02-20T14:17:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranveer Singh's Dhurandhar 2 trailer set for early March drop",
-    "desc": "The buzz around Dhurandhar 2 is steadily reaching fever pitch. After the historic box office run of the first installment, the team is now preparing to drop the much-anticipated trailer — and it’s arriving sooner than expected.",
-    "img": "https://static.toiimg.com/photo/msid-128612110,imgsize-55242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-trailer-set-for-early-march-launch-ranveer-singhs-fierce-lyaris-king-avatar-to-storm-eid-box-office/articleshow/128611939.cms",
-    "time": "2026-02-20T14:13:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranveer wraps dubbing for Dhurandhar 2 ahead of March release",
-    "desc": "The Revenge', indicating the action film is nearing its March 19, 2026 release. While certification reports caused confusion, the sequel has not yet been submitted for theatrical certification. Directed by Aditya Dhar, the film features a star-studded cast and is set for a box office clash with Yash's 'Toxic'.",
-    "img": "https://static.toiimg.com/photo/msid-128611919,imgsize-29044.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-wraps-dubbing-for-dhurandhar-2-ahead-of-march-release-reports/articleshow/128611886.cms",
-    "time": "2026-02-20T14:07:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rishab Shetty showers praise for Yash's 'Toxic' teaser",
-    "desc": "Rishab Shetty lauded the 'Toxic' teaser, calling it 'crazy' and wishing Yash and the team the best. The teaser showcases Yash in an intense, violent gangster avatar with a significant physical transformation, hinting at a grand and emotionally intense film with a global scope and elaborate production.",
-    "img": "https://static.toiimg.com/photo/msid-128610721,imgsize-43072.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-teaser-rishab-shetty-showers-praise-for-the-yash-starrer-kantara-actor-says-its-gonna-get-crazyyy/articleshow/128610721.cms",
-    "time": "2026-02-20T13:36:35.000Z"
   },
   {
     "cat": "Sports",
@@ -333,15 +432,6 @@ const newsData_en = [
     "time": "2026-02-20T13:27:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Raj Kundra granted bail by Mumbai PMLA Court",
-    "desc": "Businessman Raj Kundra was granted bail by a special court in a money laundering case linked to an alleged 2018 Bitcoin investment scam. The Enforcement Directorate (ED) had filed a chargesheet against Kundra, who has cooperated with the agency since 2018. He was granted bail on a Rs 1 lakh surety and must seek court permission before traveling abroad.",
-    "img": "https://static.toiimg.com/photo/msid-128609945,imgsize-60160.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raj-kundra-granted-bail-by-mumbai-pmla-court-in-bitcoin-scam-case/articleshow/128609753.cms",
-    "time": "2026-02-20T13:12:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Royals agree to host four home games in Jaipur; Guwahati gets three",
     "desc": "Rajasthan Royals will host four IPL 2026 home matches in Jaipur and three in Guwahati after resolving safety and liability concerns with the state government. The decision followed talks between Royals chairperson Ranjit Barthakur and Chief Minister Bhajan Lal Sharma. Earlier disputes arose over stadium safety issues flagged in an audit. The government has now started repair and upgrade work at the Sawai Man Singh Stadium.",
@@ -349,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rajasthan-royals-agree-to-host-four-home-games-in-jaipur-guwahati-gets-three/articleshow/128609314.cms",
     "time": "2026-02-20T12:58:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Waheeda Rehman and Mala Sinha celebrate 69 Years of 'Pyaasa'",
-    "desc": "As Guru Dutt's 'Pyaasa' nears its 69th anniversary, lead actresses Waheeda Rehman and Mala Sinha reflect on the cinematic masterpiece. Rehman shares how she surrendered to Dutt's vision for her role as Gulabo, while Sinha discusses her initial hesitation and eventual embrace of the practical Meena, a character ahead of her time.",
-    "img": "https://static.toiimg.com/photo/msid-128609240,imgsize-29550.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/69-years-of-pyaasa-waheeda-rehman-and-mala-sinha-celebrate-and-reflect-on-the-guru-dutt-masterpiece/articleshow/128609240.cms",
-    "time": "2026-02-20T12:54:03.000Z"
   },
   {
     "cat": "Sports",
@@ -369,15 +450,6 @@ const newsData_en = [
     "time": "2026-02-20T12:40:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Not a negotiated document': India clarifies signing UN statement condemning Israel's West Bank expansion",
-    "desc": "​​India was among more than 100 countries and international organisations that condemned Israel's ongoing efforts to consolidate control over the West Bank in a joint statement at the UN, saying such measures violated international law and undermined the ongoing efforts for peace and stability in the region. India endorsed the statement late on Wednesday, just before the deadline for joint condemnation lapsed.",
-    "img": "https://static.toiimg.com/photo/msid-128608072,imgsize-28244.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/not-a-negotiated-document-india-clarifies-on-signing-un-statement-condemning-israels-west-bank-expansion/articleshow/128602601.cms",
-    "time": "2026-02-20T12:21:21.000Z"
-  },
-  {
     "cat": "World",
     "title": "Abandoned by mother, baby monkey ‘Punch’ finds comfort in stuffed orangutan; charms zoo visitors",
     "desc": "Punch ​has rarely been seen without the orangutan since, dragging the cuddly toy everywhere even though it ⁠is bigger than him, and delighting fans who have flocked to the zoo since videos of the two ‌went viral",
@@ -385,15 +457,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/abandoned-by-mother-baby-monkey-punch-finds-comfort-in-stuffed-orangutan-charms-zoo-visitors/article70655985.ece",
     "time": "2026-02-20T12:21:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Angry youth won't stay silent': Congress defends shirtless protest at AI summit",
-    "desc": "The Indian Youth Congress staged a shirtless protest at the AI Summit, calling the Prime Minister \"compromised\" and highlighting the anger of unemployed youth. The group stated their demonstration was against perceived compromises on national interests. The protest drew sharp criticism from the BJP, accusing the Congress of attempting to humiliate India.",
-    "img": "https://static.toiimg.com/photo/msid-128608457,imgsize-82654.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/angry-youth-wont-stay-silent-congress-defends-shirtless-protest-at-ai-summit/articleshow/128607741.cms",
-    "time": "2026-02-20T12:11:48.000Z"
   },
   {
     "cat": "Sports",
@@ -439,15 +502,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-what-is-pax-silica/article70655832.ece",
     "time": "2026-02-20T11:18:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Who after Vijayan? Left’s tryst with first-time voters and survival in Kerala",
-    "desc": "As Kerala gears up for the 2026 elections, the future of the Left beyond chief minister Pinarayi Vijayan is a pressing concern. Despite his strong leadership, the absence of a clear successor and the need to connect with a new generation of voters pose significant challenges for the LDF's continued relevance and its status as India's sole communist-governed state.",
-    "img": "https://static.toiimg.com/photo/msid-128605187,imgsize-1044619.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/who-after-vijayan-lefts-tryst-with-first-time-voters-and-survival-in-kerala/articleshow/128602642.cms",
-    "time": "2026-02-20T11:06:37.000Z"
   },
   {
     "cat": "Business",
@@ -504,69 +558,6 @@ const newsData_en = [
     "time": "2026-02-20T10:16:37.000Z"
   },
   {
-    "cat": "Business",
-    "title": "AI can help India realise 'Viksit Bharat' dream, says IMF MD Kristalina Georgieva",
-    "desc": "IMF chief Kristalina Georgieva believes AI can propel India's 'Viksit Bharat' goal and boost global growth by 0.8%, potentially exceeding pre-COVID rates. While hailing AI's economic potential, she cautioned that 40% of global jobs, including those in emerging markets, face significant disruption. India's digital infrastructure and youthful population are seen as advantageous.",
-    "img": "https://static.toiimg.com/photo/msid-128603166,imgsize-92572.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/ai-can-help-india-realise-viksit-bharat-dream-says-imf-md-kristalina-georgieva/articleshow/128602702.cms",
-    "time": "2026-02-20T10:12:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Congress left borders open': Amit Shah raises infiltration pitch in poll-bound Assam",
-    "desc": "Union home minister Amit Shah accused the Congress of leaving Assam's borders open to infiltrators, aiming to alter the state's demographics. He contrasted this with the BJP government's efforts under CM Himanta Biswa Sarma, who he stated cleared vast lands occupied by infiltrators. Shah also highlighted the BJP's infrastructure development achievements in Assam.",
-    "img": "https://static.toiimg.com/photo/msid-128603079,imgsize-766857.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/congress-left-borders-open-amit-shah-raises-infiltration-pitch-in-poll-bound-assam/articleshow/128602919.cms",
-    "time": "2026-02-20T10:09:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Infosys-Anthropic collaboration: A game-changer for IT sector?",
-    "desc": "Contrary to initial fears, India's IT services sector is poised to benefit from AI advancements, a Jefferies report suggests. Instead of job losses, companies are seeing increased demand for customized AI solutions built on proprietary data. This shift widens the industry's market, potentially easing economic concerns and boosting valuations.",
-    "img": "https://static.toiimg.com/photo/msid-128603054,imgsize-2343121.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/infosys-anthropic-collaboration-a-game-changer-for-it-sector/articleshow/128596452.cms",
-    "time": "2026-02-20T10:08:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Topless, brainless, shameless': Centre slams Congress after youth wing's shirtless march at AI Summit, blames Rahul Gandhi",
-    "desc": "BJP has accused the Congress of disrupting the AI Impact Summit to damage India's global image, alleging the protest was directed by Rahul Gandhi. Youth Congress workers staged a demonstration, raising slogans against the Prime Minister, leading to detentions. BJP leaders condemned the act as an attempt to embarrass India on the world stage.",
-    "img": "https://static.toiimg.com/photo/msid-128604172,imgsize-64654.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/topless-brainless-shameless-centre-slams-congress-after-youth-wings-shirtless-march-at-ai-summit-blames-rahul-gandhi/articleshow/128602944.cms",
-    "time": "2026-02-20T10:04:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Nothing but absolute respect': Stoinis calls Yuvraj his mentor and hero",
-    "desc": "Australian all-rounder Marcus Stoinis lauded former Indian star Yuvraj Singh as a mentor, not just a teammate, during their IPL stint. Stoinis found Yuvraj incredibly supportive and a \"nice guy.\" Meanwhile, Australia's T20 World Cup 2026 campaign has ended prematurely after a string of disappointing results, despite an initial win.",
-    "img": "https://static.toiimg.com/photo/msid-128602330,imgsize-1006006.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/nothing-but-absolute-respect-marcus-stoinis-calls-yuvraj-singh-his-mentor-and-hero/articleshow/128602062.cms",
-    "time": "2026-02-20T09:47:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Shashi Tharoor praises AI Summit, youth leaders protest on spot",
-    "desc": "Youth Congress workers staged a shirtless protest against a trade deal at the AI Impact Summit in New Delhi, leading to their detention. This occurred hours after Congress MP Shashi Tharoor praised the summit's organization and global stature, and also supported a defense deal with France.",
-    "img": "https://static.toiimg.com/photo/msid-128602155,imgsize-1002518.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/congress-paradox-shashi-tharoor-praises-ai-summit-youth-leaders-protest-on-spot/articleshow/128602064.cms",
-    "time": "2026-02-20T09:40:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why rights exist but justice remains out of reach for the poor",
-    "desc": "Millions in India eligible for free legal aid remain unaware or distrustful, hindering access to justice. Poverty creates legal vulnerability, preventing the poor from asserting their rights due to hidden costs like lost wages and travel. Despite a comprehensive framework, structural issues like low awareness and funding misuse persist, leaving constitutional promises unfulfilled for the most vulnerable.",
-    "img": "https://static.toiimg.com/photo/msid-128597977,imgsize-1017242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-rights-exist-but-justice-remains-out-of-reach-for-the-poor/articleshow/128597485.cms",
-    "time": "2026-02-20T09:23:58.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "On ‘The Bluff,’ swishing swords, and why she loves a challenge",
     "desc": "Ahead of the release of her pirate thriller ‘The Bluff,’ actor and producer Priyanka Chopra Jonas speaks about prepping to play a fierce fighter and a mother, how her craft has evolved, and being involved in production",
@@ -574,24 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/priyanka-chopra-jonas-interview-on-the-bluff-swishing-swords-and-why-she-loves-a-challenge/article70651231.ece",
     "time": "2026-02-20T09:21:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'It is the best time to crush': Oman captain fires up team against struggling Australia",
-    "desc": "Oman captain Jatinder Singh expressed confidence ahead of their final T20 World Cup clash against a struggling Australia. Despite both teams being eliminated, Singh believes T20 cricket is about momentum and seizing key moments, aiming to capitalize on Australia's current form. The Omani squad remains positive and determined to make their mark in their last match.",
-    "img": "https://static.toiimg.com/photo/msid-128601171,imgsize-119142.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/it-is-the-best-time-to-crush-oman-captain-fires-up-team-against-struggling-australia/articleshow/128601222.cms",
-    "time": "2026-02-20T09:12:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India-US trade deal operational soon! Other FTAs will follow, here's what Union minister Goyal said",
-    "desc": "India is set to implement new trade agreements with the United States, the United Kingdom, and Oman in the coming months. An interim deal with the US is expected to be formalized in March and come into effect in April. This pact will see reciprocal tariffs reduced.",
-    "img": "https://static.toiimg.com/photo/msid-128600810,imgsize-1280321.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-operational-soon-other-ftas-will-follow-heres-what-union-minister-goyal-said/articleshow/128599410.cms",
-    "time": "2026-02-20T09:00:29.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/premier-league-clinical-city-has-the-wherewithal-to-rock-arsenals-aspirations/article70644780.ece",
     "time": "2026-02-17T18:03:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anirudh Ravichander launches Albuquerque Records, announces 15-year anniversary concert tour",
+    "desc": "Music composer and performer Anirudh Ravichander has unveiled a new artist-owned music label, while also announcing a nationwide live tour to celebrate 15 years of his career, beginning with his first-ever Hyderabad concert in March 2026",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/cobbwg/article70642424.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/music/anirudh-ravichander-launches-albuquerque-records-announces-15-year-anniversary-concert-tour/article70642425.ece",
+    "time": "2026-02-17T10:24:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Francis Ford Coppola, Al Pacino and Robert De Niro lead tributes to Robert Duvall after actor’s death at 95",
+    "desc": "Hollywood paid tribute to legendary actor Robert Duvall after his death at 95, with longtime collaborators Francis Ford Coppola, Al Pacino and Robert De Niro remembering his immense talent and lasting influence on American cinema",
+    "img": "https://th-i.thgim.com/public/incoming/n96tvy/article70641769.ece/alternates/LANDSCAPE_1200/Obit_Robert_Duvall_78448.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/francis-ford-coppola-al-pacino-and-robert-de-niro-lead-tributes-to-robert-duvall-after-actors-death-at-95/article70641772.ece",
+    "time": "2026-02-17T06:07:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Deputy CM Udhayanidhi presents Tamil Nadu State Film Awards for 2016-2022, says awards chosen by committee",
+    "desc": "Deputy CM counters criticism over awards; says the awards were not announced for many years together and were now being given on recommendation of a panel headed by ex-judge; A.R. Rahman, Karthi, Dhanush among artistes honoured",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/gy7r8z/article70629870.ece/alternates/LANDSCAPE_1200/Cine%20awards.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/deputy-cm-udhayanidhi-presents-tamil-nadu-state-film-awards-for-2016-2022-says-awards-chosen-by-committee/article70629589.ece",
+    "time": "2026-02-16T09:49:59.000Z"
   }
 ];
