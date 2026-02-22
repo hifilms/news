@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "‘Tu Yaa Main’ bo day 9: Thriller earns only Rs 38 lakhs on Saturday",
+    "desc": "While 'Tu Yaa Main,' starring Adarsh Gourav and Shanaya Kapoor, enjoys a decent online following and a respectable 3-star review from critics, it’s struggling to make an impact at the box office, raking in under Rs 1 crore each day. The film, adapted from a beloved Thai movie, saw an opening week collection of Rs 5.03 crore.",
+    "img": "https://static.toiimg.com/photo/msid-128662615,imgsize-12744.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/tu-yaa-main-box-office-collection-day-9-shanaya-kapoors-film-earns-rs-38-lakhs-on-its-second-saturday/articleshow/128662615.cms",
+    "time": "2026-02-22T01:41:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rebecca Gayheart shares rare family photos honoring Eric Dane",
+    "desc": "Rebecca Gayheart honored late husband Eric Dane with touching family photos, showcasing his deep love for daughters Billie and Georgia. The images, shared on Instagram, capture cherished moments following Dane's passing at 53 after an ALS battle. Co-stars from 'Grey's Anatomy' also paid heartfelt tributes, remembering his wit and warmth.",
+    "img": "https://static.toiimg.com/photo/msid-128662583,imgsize-1006730.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/rebecca-gayheart-shares-rare-family-photos-honoring-eric-dane-after-his-demise-expresses-gratitude-for-the-gofundme-support/articleshow/128662613.cms",
+    "time": "2026-02-22T01:39:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Five school teachers held in Odisha for 'raping' 13-year-old girl",
+    "desc": "The arrests were made after the father of the class 7 student and the district child welfare committee lodged separate complaints at the Rajkanika police station, alleging that the accused teachers had raped the minor, a senior officer said.",
+    "img": "https://th-i.thgim.com/public/news/national/ojliip/article70661283.ece/alternates/LANDSCAPE_1200/Domestic%20violence.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/odisha/five-school-teachers-held-in-odisha-for-raping-13-year-old-girl/article70661280.ece",
+    "time": "2026-02-22T01:38:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jithu Madhavan confirms 'Suriya 47' as a 'Proper Tamil film'",
+    "desc": "Director Jithu Madhavan confirmed Suriya 47 is a Tamil film, not a Malayalam-style one, with shooting underway. He also addressed 'Aavesham 2' sequel talks, stating no final decision is made. Meanwhile, 'Manjummel Boys' director Chidambaram's new film 'Balan', with Jithu Madhavan on screenplay, received high praise from Ram Gopal Varma, calling it 'Beyond Fantastic'.",
+    "img": "https://static.toiimg.com/photo/msid-128662577,imgsize-85774.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/director-jithu-madhavan-confirms-suriya-47-as-a-proper-tamil-film-shares-update-on-aavesham-2/articleshow/128662577.cms",
+    "time": "2026-02-22T01:37:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nearly 8% of voters removed from final electoral lists across six States and three U.T.s in SIR second phase",
+    "desc": "Combined number of voters in nine States and U.T.s fell from 21,45,62,215 to 19,75,33,701 after the SIR, with net deletions of 1,70,28,514 or 7.93%. Final lists of West Bengal, Uttar Pradesh, and Tamil Nadu are yet to be published",
+    "img": "https://th-i.thgim.com/public/incoming/8eoraw/article70660987.ece/alternates/LANDSCAPE_1200/PTI02_14_2026_000420B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/nearly-8-of-voters-removed-from-final-electoral-lists-across-9-states-and-uts-in-sir-second-phase/article70660277.ece",
+    "time": "2026-02-22T01:30:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Do Deewane’ bo day 2: Film mints Rs 1.60 crore on Saturday",
+    "desc": "The cinematic landscape brightened with the arrival of 'Do Deewane Seher Me,' starring Mrunal Thakur and Siddhant Chaturvedi, which kicked off its box office journey with impressive numbers. Collecting Rs 1.25 crore on Friday and an encouraging Rs 1.60 crore on Saturday, the film's attendance at 13.42% suggests it’s tapping into the audience's romantic vibes.",
+    "img": "https://static.toiimg.com/photo/msid-128662117,imgsize-25202.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/do-deewane-seher-me-box-office-collection-day-2-mrunal-thakur-siddhant-chaturvedis-film-sees-a-rise-earns-rs-1-60-crore/articleshow/128662117.cms",
+    "time": "2026-02-22T01:08:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Euphoria’ creator donates $27K for Eric Dane's family support fund",
+    "desc": "Euphoria creator Sam Levinson and his wife have generously donated $27,000 to a GoFundMe for Eric Dane's daughters following the actor's passing from ALS. The fundraiser, launched by Dane's friends, aims to cover medical expenses and secure the future for his two teenage daughters. Levinson expressed deep sorrow over the loss of his friend.",
+    "img": "https://static.toiimg.com/photo/msid-128662164,imgsize-1088292.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/euphoria-creator-sam-levinson-donates-27000-to-eric-danes-gofundme-to-extend-his-support-following-the-actors-demise/articleshow/128662165.cms",
+    "time": "2026-02-22T01:06:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ghilli' re-release BO day 1: Vijay film scores big",
+    "desc": "Tamil cinema's re-release trend sees a massive resurgence with the 2004 blockbuster Ghilli. Starring Vijay and Trisha, the film has captivated audiences again, reportedly selling 50,000 tickets on day one and earning approximately Rs 1 crore. Ghilli's strong performance positions it as a top Kollywood re-release, with day two numbers showing even greater promise.",
+    "img": "https://static.toiimg.com/photo/msid-128661938,imgsize-42336.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ghilli-re-release-box-office-collections-day-1-vijay-film-scores-big-action-film-off-to-excellent-start/articleshow/128661938.cms",
+    "time": "2026-02-22T00:55:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'KH x RK' promo: Who will be the villain?",
+    "desc": "The much-anticipated reunion of Kamal Haasan and Rajinikanth in Nelson Dilipkumar's upcoming film has ignited fan speculation. The promo's dark-comedy tone and cliffhanger question, \"Who is the hero?\", have fueled theories about who plays the villain, with some suggesting negative shades for both stars. This intrigue promises a gripping cinematic experience.",
+    "img": "https://static.toiimg.com/photo/msid-128661651,imgsize-28800.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kh-x-rk-promo-triggers-villain-debate-kamal-haasan-vs-rajinikanth-fans-flood-social-media-with-theories/articleshow/128661593.cms",
+    "time": "2026-02-22T00:30:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Eric Dane’s girlfriend, Janell Shirtcliff, shares raw pictures of the star",
+    "desc": "Eric Dane's girlfriend, Janell Shirtcliff, shared a touching tribute after his passing, showcasing their joyful relationship through intimate photos and videos. The photographer's posts captured Dane's vibrant spirit, even as he bravely battled ALS. His family confirmed his death at 53, remembering his inspiring fight and unwavering resolve.",
+    "img": "https://static.toiimg.com/photo/msid-128661645,imgsize-1402887.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/eric-danes-girlfriend-janell-shirtcliff-pays-her-tribute-with-beautiful-and-candid-pictures-of-the-greys-anatomy-star/articleshow/128661653.cms",
+    "time": "2026-02-22T00:30:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Can Pakistan still qualify for semi-final after PAK vs NZ washout?",
+    "desc": "Rain washed out the Pakistan vs New Zealand Super 8 match, with both teams sharing one point and the semi-final race wide open. Pakistan must beat England and Sri Lanka to reach five points and likely qualify, while any loss could make their chances depend on other results. New Zealand face a similar situation, with wins now crucial to stay in control of their campaign.",
+    "img": "https://static.toiimg.com/photo/msid-128651756,imgsize-140570.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/can-pakistan-still-qualify-for-t20-world-cup-semi-final-after-pak-vs-nz-super-8s-rain-washout-in-colombo/articleshow/128651290.cms",
+    "time": "2026-02-22T00:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Assi' BO day 2: Film reaches Rs 2.60 crore",
+    "desc": "Taapsee Pannu's courtroom drama 'Assi' saw a modest increase on its second day, collecting an estimated Rs 1.60 crore on Saturday, bringing its two-day total to Rs 2.60 crore. Despite a slow start, the film's occupancy improved throughout Saturday, hinting at potential growth driven by word-of-mouth.",
+    "img": "https://static.toiimg.com/photo/msid-128661387,imgsize-47918.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/assi-box-office-collections-day-2-taapsee-pannu-film-reaches-rs-2-60-crore-saturday-shows-mild-growth/articleshow/128661387.cms",
+    "time": "2026-02-22T00:13:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Poll rolls shrink by 1.7 crore (8%) in 9 states/UTs under SIR Phase 2",
+    "desc": "Nine states in Phase 2 of the special intensive revision (SIR) have seen their combined electorate drop by 7.9% to 19.7 crore. Over 1.7 crore electors were removed, with Andaman & Nicobar and Gujarat experiencing the steepest declines. Three states are yet to publish their final rolls.",
+    "img": "https://static.toiimg.com/photo/msid-128661320,imgsize-139496.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/poll-rolls-shrink-by-1-7-crore-8-in-9-states/uts-under-sir-phase-2/articleshow/128661262.cms",
+    "time": "2026-02-22T00:01:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'O Romeo' BO day 9: Shahid Kapoor film crosses Rs 52.6 crore",
+    "desc": "After just nine days, Shahid Kapoor’s 'O Romeo' is making waves at the box office, surpassing an impressive Rs 52 crore. Saturday marked a significant uptick in audience attendance, with many praising the film’s engaging storytelling. In a heartwarming moment, Hrithik Roshan endorsed Kapoor's performance, labeling him the 'BEST' in the romantic genre.",
+    "img": "https://static.toiimg.com/photo/msid-128661196,imgsize-82372.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/o-romeo-box-office-collections-day-9-shahid-kapoor-film-crosses-rs-52-6-crore-sees-strong-saturday-growth/articleshow/128661196.cms",
+    "time": "2026-02-21T23:59:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Hong Kong plans to buy homes devastated in deadly high-rise fire",
+    "desc": "The prices ​offered will be HK$8,000 per sq ft without ⁠a land premium payment, and HK$10,500 per sq ft for those receiving such a payment, authorities said on Saturday, three months after the deadly fire killed 168 ‌in November.",
+    "img": "https://th-i.thgim.com/public/incoming/h9ypy1/article70661415.ece/alternates/LANDSCAPE_1200/Hong_Kong_Resettlement_After_Fire_41762.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/hong-kong-plans-to-buy-homes-devastated-in-deadly-high-rise-fire/article70661413.ece",
+    "time": "2026-02-21T21:56:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "SBI actively investing in startup-focused funds to strengthen MSME ecosystem, says MD Ravi Ranjan",
+    "desc": "The bank works on a hub and spoke model for assisting peripheral areas through dedicated verticals to ensure that the bank consciously lives up to the promise of priority sector lending guidelines linking startups under the habit of partnership, says SBI managing director Ravi Ranjan",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/sbi-actively-investing-in-startup-focused-funds-to-strengthen-msme-ecosystem-says-md-ravi-ranjan/article70661412.ece",
+    "time": "2026-02-21T21:51:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "T20 World Cup match preview",
+    "desc": "Already bruised by the upset against Zimbabwe, the horrors of a 0-3 sweep at the hands of England at the same venue just days before this World Cup will be a psychological double whammy for Sri Lanka.",
+    "img": "https://th-i.thgim.com/public/incoming/jrfrtb/article70661408.ece/alternates/LANDSCAPE_1200/England_West_Indies_T20_WCup_Cricket_62467.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-match-preview-sri-lanka-england-face-off-set-to-be-a-middle-overs-tussle/article70661409.ece",
+    "time": "2026-02-21T21:38:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "U.S. salsa legend Willie Colón dies at age 75",
+    "desc": "Colon, known best as a trombonist but who was also a bandleader and producer, was born in the Bronx and known for blending the Puerto Rican music of his parents and grandparents with his home city's jazz.",
+    "img": "https://th-i.thgim.com/public/incoming/mo29gk/article70661307.ece/alternates/LANDSCAPE_1200/Willie_Colon_Obit_53550.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/us-salsa-legend-willie-colon-dies-at-age-75/article70661306.ece",
+    "time": "2026-02-21T21:30:28.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Amit Shah",
     "desc": "Union Home Minister Amit Shah vowed to remove infiltrators from Assam's electoral rolls and deport them within five years if the BJP returns to power. He accused the opposition of turning infiltrators into a vote bank, claiming they encroached on vast tracts of land.",
@@ -7,6 +169,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/bjp-will-deport-infiltrators-in-5-yrs-if-it-returns-to-power-amit-shah/articleshow/128655754.cms",
     "time": "2026-02-21T20:59:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Osasuna stun Real Madrid 2-1 to blow LaLiga title race open",
+    "desc": "Osasuna went in front in the 34th ​minute after ‌a VAR review showed keeper Real keeper Thibaut Courtois had stood on Budimir's ‌foot. The referee overturned an ​initial booking for simulation and Budimir calmly ⁠converted the spot-kick.",
+    "img": "https://th-i.thgim.com/public/incoming/vf16fv/article70661301.ece/alternates/LANDSCAPE_1200/2026-02-21T195849Z_619063769_UP1EM2L1EN8U7_RTRMADP_3_SOCCER-SPAIN-OSA-RMA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/osasuna-stun-real-madrid-2-1-to-blow-laliga-title-race-open/article70661297.ece",
+    "time": "2026-02-21T20:36:40.000Z"
   },
   {
     "cat": "Entertainment",
@@ -18,6 +189,24 @@ const newsData_en = [
     "time": "2026-02-21T20:33:58.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "Alcaraz downs Fils to win Qatar Open, extends perfect start to the year",
+    "desc": "With ‌the win, Alcaraz improved to 12-0 ​for the year and collected his ninth ATP ⁠500 trophy, which drew him level ⁠with Andy Murray for fourth in the category ‌since its inception, according to the ATP.",
+    "img": "https://th-i.thgim.com/public/incoming/s8pv1a/article70661299.ece/alternates/LANDSCAPE_1200/2026-02-21T195611Z_876400215_UP1EM2L1IAY27_RTRMADP_3_TENNIS-DOHA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/alcaraz-downs-fils-to-win-qatar-open-extends-perfect-start-to-the-year/article70661298.ece",
+    "time": "2026-02-21T20:32:27.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Ghislaine Maxwell fights release of more Epstein documents, calling disclosure law unconstitutional",
+    "desc": "Lawyers for imprisoned British socialite Ghislaine Maxwell are fighting the requested release of 90,000 pages related to Jeffrey Epstein, saying a law used to force the recent public release of millions of documents is unconstitutional",
+    "img": "https://th-i.thgim.com/public/incoming/qdwlbj/article70661294.ece/alternates/LANDSCAPE_1200/Justice_Department_Jeffrey_Epstein_43019.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/ghislaine-maxwell-fights-release-of-more-epstein-documents-calling-disclosure-law-unconstitutional/article70661292.ece",
+    "time": "2026-02-21T20:00:45.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "India &amp; Brazil sign rare earths pact, will ‘wait and watch’ US SC tariff order fallout",
     "desc": "India and Brazil inked a critical minerals agreement and set a $30 billion trade target by 2030, aiming to build resilient supply chains and reduce dependence on China. Leaders also discussed UN reforms and technology cooperation, emphasizing Global South solidarity and shared progress.",
@@ -25,15 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/to-lower-china-dependence-india-signs-rare-earths-deal-with-brazil/articleshow/128655178.cms",
     "time": "2026-02-21T19:54:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Five school teachers held in Odisha for 'raping' 13-year-old girl",
-    "desc": "The arrests were made after the father of the class 7 student and the district child welfare committee lodged separate complaints at the Rajkanika police station, alleging that the accused teachers had raped the minor, a senior officer said.",
-    "img": "https://th-i.thgim.com/public/news/national/ojliip/article70661283.ece/alternates/LANDSCAPE_1200/Domestic%20violence.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/odisha/five-school-teachers-held-in-odisha-for-raping-13-year-old-girl/article70661280.ece",
-    "time": "2026-02-21T19:29:58.000Z"
   },
   {
     "cat": "Entertainment",
@@ -70,15 +250,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/the-global-economic-consequences-of-the-scotus-ruling-invalidating-trump-tariffs/article70659908.ece",
     "time": "2026-02-21T18:44:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nearly 8% of voters removed from final electoral lists across six States and three U.T.s in SIR second phase",
-    "desc": "Combined number of voters in nine States and U.T.s fell from 21,45,62,215 to 19,75,33,701 after the SIR, with net deletions of 1,70,28,514 or 7.93%. Final lists of West Bengal, Uttar Pradesh, and Tamil Nadu are yet to be published",
-    "img": "https://th-i.thgim.com/public/incoming/8eoraw/article70660987.ece/alternates/LANDSCAPE_1200/PTI02_14_2026_000420B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/nearly-8-of-voters-removed-from-final-electoral-lists-across-9-states-and-uts-in-sir-second-phase/article70660277.ece",
-    "time": "2026-02-21T18:37:52.000Z"
   },
   {
     "cat": "Sports",
@@ -171,6 +342,15 @@ const newsData_en = [
     "time": "2026-02-21T17:30:00.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "Why has NGT cleared the Nicobar project?",
+    "desc": "Why does the government insist that the project is of strategic importance? What will India achieve by establishing a major cargo transshipment hub? What will happen to the biodiversity of the Great Nicobar Island? What are the concerns? Can coral colonies be translocated?",
+    "img": "https://th-i.thgim.com/public/incoming/8lh9m5/article70661125.ece/alternates/LANDSCAPE_1200/iStock-1164144410.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/why-has-ngt-cleared-the-nicobar-project-explained/article70661022.ece",
+    "time": "2026-02-21T17:16:17.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Toxic composer Ravi Basrur recalls suicide attempts at 18",
     "desc": "Chapter 1 made “Salaam Rocky Bhai” a cultural moment. The man behind that sound — composer Ravi Basrur — is today one of the most sought-after names in Indian cinema. But his journey, he revealed recently, began in darkness.",
@@ -261,15 +441,6 @@ const newsData_en = [
     "time": "2026-02-21T14:56:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Malaika Arora’s selfie with mystery man from Italy goes viral",
-    "desc": "Malaika Arora has been making headlines yet again over her alleged relationship rumours. This time, an unseen photo of the 50-year-old Bollywood diva with a mystery man has surfaced online, sending social media — especially Reddit — into a frenzy.",
-    "img": "https://static.toiimg.com/photo/msid-128648117,imgsize-108818.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/malaika-aroras-unseen-selfie-with-mystery-man-from-italy-goes-viral-netizens-ask-valentine-at-trevi-fountain/articleshow/128647805.cms",
-    "time": "2026-02-21T14:55:24.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Not appropriate': Congress-ally Akhilesh, other opposition leaders 'ashamed' of 'semi-nude' protest at AI Summit",
     "desc": "Opposition leaders and Congress allies have criticised the Indian Youth Congress's \"semi-nude\" protest at the AI Impact Summit, deeming it inappropriate and shameful on an international stage. Around 10 IYC workers were detained for raising slogans against PM Modi, wearing T-shirts with controversial slogans, sparking widespread condemnation for tarnishing the country's image.",
@@ -306,15 +477,6 @@ const newsData_en = [
     "time": "2026-02-21T14:09:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sanjay Gupta calls Dhurandhar 2-Toxic BO clash 'unfortunate'",
-    "desc": "The Revenge and Yash's Toxic: A Fairytale for Adults — are gearing up for a major box office clash on March 19. While trade circles are buzzing about their potential earnings, filmmaker Sanjay Gupta believes the inevitable face-off may hurt both films.",
-    "img": "https://static.toiimg.com/photo/msid-128646982,imgsize-31360.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanjay-gupta-calls-ranveer-singhs-dhurandhar-2-and-yashs-toxic-box-office-clash-unfortunate-both-films-will-do-well-but-neither-will-/articleshow/128646854.cms",
-    "time": "2026-02-21T14:08:12.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'Why did we compromise our ... ': Congress raises 7 questions after US court strikes down Trump tariffs",
     "desc": "The Congress has criticized Prime Minister Modi over the recent India-US trade deal, alleging it's an \"anti-India deal\" influenced by external pressures. This comes after the US Supreme Court struck down Trump's tariffs, a move the opposition claims will now subject Indian goods to a 10% tariff, contradicting the interim agreement's terms.",
@@ -342,15 +504,6 @@ const newsData_en = [
     "time": "2026-02-21T13:32:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Javed Akhtar slams Taliban’s ‘wife beating’ law",
-    "desc": "Award-winning lyricist and screenwriter Javed Akhtar has strongly reacted to reports that the Taliban has formalised domestic violence under certain conditions in Afghanistan’s new penal code. Calling the development disturbing, Akhtar took to X on February 21 to express his outrage.",
-    "img": "https://static.toiimg.com/photo/msid-128646067,imgsize-28490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/javed-akhtar-slams-talibans-reported-wife-beating-law-i-beseech-the-mufties-and-mullas-of-india-to-condemn-it-unconditionally/articleshow/128645931.cms",
-    "time": "2026-02-21T13:31:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ICC’s revenue sharing model counter productive for associates: Netherlands cricket board member Shah",
     "desc": "Out of the estimated $600 million annual earnings in the 2024–2027 period, close to $533 million will be distributed among the 12 full members, while roughly $67 million will be shared by the associate teams.",
@@ -367,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/beating-australia-in-australia-really-special-smriti-mandhana-after-indias-3-1-t20i-series-win/articleshow/128645515.cms",
     "time": "2026-02-21T13:23:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Arshad Warsi on saying yes to SRK’s King, Aryan’s series",
-    "desc": "Arshad Warsi recently opened up about his involvement in Shah Rukh Khan's upcoming film 'King' and Aryan Khan's directorial debut, 'The Ba***ds of Bollywood.' He emphasized that his commitment was fueled by his long-standing relationship with the Khan family rather than the allure of the screenplay.",
-    "img": "https://static.toiimg.com/photo/msid-128644626,imgsize-37838.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arshad-warsi-reveals-why-he-said-yes-to-shah-rukh-khans-king-and-aryans-the-bads-of-bollywood/articleshow/128644626.cms",
-    "time": "2026-02-21T12:39:47.000Z"
   },
   {
     "cat": "Politics",
@@ -396,24 +540,6 @@ const newsData_en = [
     "time": "2026-02-21T12:10:46.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Akshay Oberoi, Heli Daruwala start Dehradun shoot Feb 27",
-    "desc": "Get ready for a thrilling ride as Akshay Oberoi and Heli Daruwala join forces in the upcoming Bollywood nail-biter 'Love Lottery.' Under the skilled direction of Arvind Pandey, production begins in the enchanting city of Dehradun on February 27.",
-    "img": "https://static.toiimg.com/photo/msid-128643546,imgsize-31988.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/toxic-actor-akshay-oberoi-and-heli-daruwala-headline-love-lottery-shoot-starts-on-feb-27/articleshow/128643546.cms",
-    "time": "2026-02-21T11:56:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hrithik mourns demise of his teacher MM Baig; 'I was lost and…'",
-    "desc": "Bollywood superstar Hrithik Roshan took to social media to express his profound grief following the passing of his esteemed former acting teacher, M.M. Baig. In a moving post, he acknowledged Baig’s pivotal role in nurturing his voice and stage presence, stating that his teachings were instrumental in helping him conquer his initial shyness. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128643363,imgsize-34956.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshan-mourns-demise-of-his-teacher-mm-baig-drops-emotional-post-saying-you-helped-me-gain-confidence-over-my/articleshow/128643363.cms",
-    "time": "2026-02-21T11:49:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Abhishek ki jagah khilau?': Suryakumar Yadav rules out changes in India's top three",
     "desc": "Suryakumar Yadav dismissed rumors of Sanju Samson replacing Abhishek Sharma or Tilak Varma, emphasizing confidence in the current lineup. He addressed concerns about Abhishek's form by highlighting the threat he poses to opponents. Yadav also defended Tilak Varma's cautious approach, stating it aligns with team strategy.",
@@ -421,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-abhishek-ki-jagah-khilau-suryakumar-yadav-rules-out-changes-in-indias-top-three/articleshow/128642773.cms",
     "time": "2026-02-21T11:44:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kate Walsh honors Eric Dane, calls him 'sensitive' and magnetic",
-    "desc": "In a heartfelt tribute, Kate Walsh reminisced about her former 'Grey's Anatomy' co-star Eric Dane, who tragically passed away at the age of 53. She celebrated his captivating presence, remarkable acting skills, and innate kindness, emphasizing the love he shared with the cast in those high-pressure early seasons.",
-    "img": "https://static.toiimg.com/photo/msid-128643310,imgsize-45822.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kate-walsh-remembers-eric-dane-calls-him-sensitive-and-magnetic-in-tribute/articleshow/128643310.cms",
-    "time": "2026-02-21T11:43:38.000Z"
   },
   {
     "cat": "Sports",
@@ -466,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/studying-all-developments-india-reacts-after-us-supreme-court-strikes-down-trumps-tariffs/articleshow/128642136.cms",
     "time": "2026-02-21T11:18:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sargun Mehta STRONGLY REACTS to pregnancy rumors with Ravie",
-    "desc": "Sargun Mehta has taken a stand against the wild pregnancy rumors swirling around her, declaring them entirely false and absurd, especially the idea that she has been pregnant for a staggering two years. In a call for responsible journalism, she urged the media to confirm details with her or her representative before putting out any stories.",
-    "img": "https://static.toiimg.com/photo/msid-128642566,imgsize-39150.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/punjabi/movies/news/sargun-mehta-strongly-reacts-to-pregnancy-rumors-with-ravie-dubey-says-news-apparently-knows-before-us/articleshow/128642566.cms",
-    "time": "2026-02-21T11:17:36.000Z"
   },
   {
     "cat": "Business",
@@ -541,39 +649,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Finn Bennett on playing Aerion in 'AKOTSK'",
-    "desc": "Finn Bennett, portraying Prince Aerion Targaryen in 'A Knight of the Seven Kingdoms,' discusses his character's simmering resentment stemming from House Targaryen's diminished power. Bennett explains Aerion's erratic behavior as a desperate attempt to restore family prestige, believing his actions are justified. He also shares the immense pressure of joining the 'Game of Thrones' universe.",
-    "img": "https://static.toiimg.com/photo/msid-128637626,imgsize-37492.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/a-knight-of-the-seven-kingdoms-star-finn-bennett-on-playing-prince-aerion-targaryens-game-of-thrones-characters-are-written-as-if-theyre-going-to-go-down-in-history-books/articleshow/128637507.cms",
-    "time": "2026-02-21T07:44:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Inspired by Nepal’s Gen-Z protests’: 4 Youth Congress workers sent to 5-day custody for 'topless' protest",
-    "desc": "A Delhi court granted police five-day custody of four Youth Congress workers who staged a shirtless protest at the AI summit venue. Police allege a conspiracy to defame India, citing anti-national slogans and T-shirts targeting the Prime Minister. Investigators are probing potential foreign funding and a larger plot, with three officers reportedly injured during the incident.",
-    "img": "https://static.toiimg.com/photo/msid-128637351,imgsize-931266.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/inspired-by-nepals-gen-z-protests-delhi-police-on-congress-shirtless-march-at-ai-summit/articleshow/128637308.cms",
-    "time": "2026-02-21T07:29:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "On ‘The Bluff,’ swishing swords, and why she loves a challenge",
     "desc": "Ahead of the release of her pirate thriller ‘The Bluff,’ actor and producer Priyanka Chopra Jonas speaks about prepping to play a fierce fighter and a mother, how her craft has evolved, and being involved in production",
     "img": "https://th-i.thgim.com/public/incoming/3ya9a5/article70652328.ece/alternates/LANDSCAPE_1200/BLUF_2026_FG_01310522_Still32767_R_3000.jpg.jpeg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/priyanka-chopra-jonas-interview-on-the-bluff-swishing-swords-and-why-she-loves-a-challenge/article70651231.ece",
     "time": "2026-02-21T07:11:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP protests nationwide in response to Congress' 'topless' AI Summit protest; four IYC leaders arrested",
-    "desc": "BJP staged nationwide protests after Indian Youth Congress workers disrupted the India AI Impact Summit, displaying slogans against PM Modi. Four IYC leaders were arrested. BJP workers also showed black flags to Rahul Gandhi in Mumbai, accusing the Congress of an 'anti-national' act and demanding an apology for the 'shameful' summit disruption.",
-    "img": "https://static.toiimg.com/photo/msid-128636491,imgsize-1299509.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjp-protests-nationwide-in-response-to-congress-topless-ai-summit-protest-four-iyc-leaders-arrested/articleshow/128636375.cms",
-    "time": "2026-02-21T06:52:11.000Z"
   },
   {
     "cat": "Sports",
@@ -583,15 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pak-vs-nz-super-8-showdown-new-zealand-wary-of-usman-tariq-threat-but-back-familiarity-against-pakistan/articleshow/128635541.cms",
     "time": "2026-02-21T06:24:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India, South Africa lock into tactical battle ahead of Super 8 clash",
-    "desc": "India prepares for a crucial T20 World Cup Super 8 match against South Africa. All eyes are on Abhishek Sharma, who is yet to score. South Africa's bowlers are focusing on left-handers. India's batting lineup features several left-handers, prompting strategic adjustments. The team is working on its approach against spinners and seamers.",
-    "img": "https://static.toiimg.com/photo/msid-128634792,imgsize-61954.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-south-africa-lock-into-tactical-battle-ahead-of-super-8-clash/articleshow/128634807.cms",
-    "time": "2026-02-21T05:37:55.000Z"
   },
   {
     "cat": "Business",
@@ -826,77 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-presses-iran-to-make-meaningful-deal-appears-to-set-10-day-deadline/article70653328.ece",
     "time": "2026-02-19T17:35:21.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Peru picks Jose Maria Balcazar as interim President, eighth leader in a decade",
-    "desc": "In these few months that remain, we will guarantee the people of Peru a peaceful and transparent democratic and electoral transition, leaving no room for doubt in the elections, says interim President Jose Maria Balcazar",
-    "img": "https://th-i.thgim.com/public/incoming/chqrnq/article70652864.ece/alternates/LANDSCAPE_1200/Peru_President_28298.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/peru-picks-jose-maria-balcazar-as-interim-president-eighth-leader-in-a-decade/article70652856.ece",
-    "time": "2026-02-19T15:19:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "UN Sudan probe finds 'hallmarks of genocide' in El-Fasher",
-    "desc": "At least 15 children were killed in a drone strike on a displacement camp in West Kordofan this week, UNICEF said, while local rights defenders said another strike on a market killed 28 people in North Kordofan",
-    "img": "https://th-i.thgim.com/public/news/national/tj1yo8/article70652831.ece/alternates/LANDSCAPE_1200/UNSC.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/un-sudan-probe-finds-hallmarks-of-genocide-in-el-fasher/article70652798.ece",
-    "time": "2026-02-19T15:11:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Inside the rise of robotics firm Unitree, glimpse into China’s tech ambitions",
-    "desc": "Unitree, a private company started by tech entrepreneur Wang Xinxing (36) who designed his first robot at university, said this week it plans to sell as many as 20,000 humanoid robots this year, an almost four-fold rise from 2025",
-    "img": "https://th-i.thgim.com/public/incoming/p9h7fs/article70652306.ece/alternates/LANDSCAPE_1200/2026-02-16T133747Z_888126742_RC2J7GAA29PJ_RTRMADP_3_CHINA-ROBOTICS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/inside-the-rise-of-robotics-firm-unitree-glimpse-into-chinas-tech-ambitions/article70651457.ece",
-    "time": "2026-02-19T13:38:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lanka and Zimbabwe to battle for group bragging rights",
-    "desc": "Sri Lanka has emerged as a strong contender, leveraging their knowledge of local conditions to defeat Oman and Ireland, while crushing Australia by eight wickets to establish themselves as a well-rounded side with the potential to go all the way",
-    "img": "https://th-i.thgim.com/public/incoming/qxxiqp/article70650181.ece/alternates/LANDSCAPE_1200/AFP_97TW8XA.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-sri-lanka-and-zimbabwe-to-battle-for-group-bragging-rights/article70649437.ece",
-    "time": "2026-02-19T01:57:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Wesley Koolhof Interview",
-    "desc": "Dutchman Wesley Koolhof believes singles and doubles can coexist and dispels the notion that doubles players are bad tennis players; the former World No. 1 and 2023 Wimbledon champion also feels that ‘fast and spectacular’ doubles can be the perfect complement to ‘chess-like’ singles",
-    "img": "https://th-i.thgim.com/public/sport/q09gat/article70649146.ece/alternates/LANDSCAPE_1200/KOOLHOF%202.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/tennis/wesleykoolhof-interview-doubles-tennis-is-a-great-different-discipline/article70649145.ece",
-    "time": "2026-02-18T18:29:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "FedEx to invest ₹2,500 crore in setting up automated cargo hub at Navi Mumbai airport",
-    "desc": "The facility to be developed in collaboration with Adani Airport Holdings Ltd (AAHL) will be designed as a regional consolidation and redistribution hub and support trade flows across Southeast and West Asia, Europe and the United States, embedding global network connectivity directly within India's primary trade corridor",
-    "img": "https://th-i.thgim.com/public/incoming/b283tc/article70648871.ece/alternates/LANDSCAPE_1200/PTI02_18_2026_000376A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/fedex-to-invest-2500-crore-in-setting-up-automated-cargo-hub-at-navi-mumbai-airport/article70648847.ece",
-    "time": "2026-02-18T16:16:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ukraine officials will boycott Paralympics over Russia participation, sports minister says",
-    "desc": "International federations for each sport on the Paralympic Games programme had said they would maintain ‌bans on athletes from those countries, but Russia and Belarus won an appeal with the Court of Arbitration for Sport in December against the International Ski and Snowboard Federation, earning a handful of spots",
-    "img": "https://th-i.thgim.com/public/incoming/wcpn1r/article70647956.ece/alternates/LANDSCAPE_1200/2026-02-12T130916Z_1446265135_UP1EM2C10JDBR_RTRMADP_3_OLYMPICS-2026-SKELETON-UKRAINE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/ukraine-boycott-paralympics-russia-participation/article70647891.ece",
-    "time": "2026-02-18T13:49:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 World Cup 2026",
-    "desc": "Farhan blasted 11 fours and four sixes on way to an unbeaten 100 off 58 balls as Pakistan scored 199 for three. Salman Agha made 23-ball 38, while Shadab Khan also chipped in with 36 off 22 balls.",
-    "img": "https://th-i.thgim.com/public/incoming/7rxxhs/article70647305.ece/alternates/LANDSCAPE_1200/Namibia_Pakistan_T20_WCup_Cricket_72746.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/pakistan-namibia-t20-world-cup-match-updates-february-18/article70646832.ece",
-    "time": "2026-02-18T13:00:47.000Z"
   }
 ];
