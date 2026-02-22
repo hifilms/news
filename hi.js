@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Stern South African challenge beckons India as T20 World Cup defence enters business mode",
+    "desc": "It's the business mode now in the T20 World Cup 2026 with heavyweights all around the corner. India face a stern South African challenge as they look to keep their title defence on track of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/stern-south-african-challenge-beckons-india-as-t20-world-cup-defence-enters-business-mode-2026-02-22-1031219",
+    "time": "2026-02-22T05:58:46.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "IND A vs BAN A Women's Asia Cup Rising Stars final Live streaming: When and where to watch title clash?",
     "desc": "With the continental title at stake, India women A will face Bangladesh women A in the final of the Asia Cup Rising Stars on Sunday, February 22, at the Terdthai Cricket Ground in Bangkok. The...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/it-would-be-a-shame-not-to-see-some-of-the-pakistan-players-in-the-hundred-harry-brook-2026-02-21-1031156",
     "time": "2026-02-21T11:48:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson to replace Tilak Varma in Super Eights clash vs South Africa? Suryakumar Yadav answers",
-    "desc": "Keeper-batter Sanju Samson engaged in a long batting session ahead of India’s Super Eights clash against South Africa at the Narendra Modi Stadium in Ahmedabad. It was rumoured that the Kerala batter could be in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-to-replace-tilak-varma-in-super-eights-clash-vs-south-africa-suryakumar-yadav-answers-2026-02-21-1031151",
-    "time": "2026-02-21T11:19:09.000Z"
   }
 ];

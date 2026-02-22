@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "টি-২০ বিশ্বকাপের ফাইনালে উঠবে কোন দুই দেশ? বড় 'ভবিষ্যদ্বাণী' করে ফেললেন মহাতারকা!",
+    "desc": "টি-২০ বিশ্বকাপের সুপার এইট পর্ব শুরু হয়ে গিয়েছে। ফাইনালের ওঠার দৌড়ে আট দল। কোন দুই দল ফাইনালে উঠবে তা নিয়ে শুরু হয়ে গিয়েছে জল্পনা ও বিশ্লেষণ। এরইমধ্যে ফাইনালের দুই দল নিয়ে হয়ে গেল বড় ভবিষ্যদ্বাণী।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/T20-World-Cup-36-2026-02-e2f6a32766b919b72cd89c21092a7e8b-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/which-2-team-reach-the-final-of-t20-world-cup-2026-rahul-dravid-made-big-prediction-sup-2552285.html",
+    "time": "2026-02-22T05:00:14.000Z"
+  },
+  {
     "cat": "World",
     "title": "রমজান মাসে আফগানিস্তানের উপর 'এয়ার স্ট্রাইক' পাকিস্তানের, বেছে বেছে ৭টি জায়গা গুঁড়িয় দিল F 16 যুদ্ধবিমান",
     "desc": "বিবৃতিতে বলা হয়েছে যে ইসলামাবাদ, বাজাউর এবং বান্নুর ইমাম বারগাহে বোমা হামলা সহ সাম্প্রতিক আত্মঘাতী হামলার পর এটা ছিল প্রতিশোধমূলক পদক্ষেপ। রমজান মাসে এই হামলার ফলে নিন্দার ঝড় উঠেছে, তবে পাক সরকার জানিয়েছে যে এর পিছনে একটি উদ্দেশ্য ছিল এবং সেটা হল পাক বাসিন্দাদের সুরক্ষা সুনিশ্চিত করা।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/education-career/bangladesh-do-you-know-why-indian-student-goes-to-bangladesh-to-study-which-subject-indian-students-rush-to-this-neighbouring-country-you-will-be-shocked-to-hear-the-answer-sanj-2538813.html",
     "time": "2026-02-13T10:22:54.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "একক দাপটে সরকার গড়ার পথে বিএনপি, শনিবারই শপথ তারেক রহমানের?",
-    "desc": "বাংলাদেশের নয়া প্রধানমন্ত্রী তারেক রহমান! কাল প্রধানমন্ত্রী হিসেবে তারেক রহমানের শপথের সম্ভাবনা। ১৭ বছর পর দেশে ফিরে তারেক রহমানের বাজিমাত। পদ্মাপাড়ে একাই সংখ্যাগরিষ্ঠ BNP। জোড়া আসনে BNP চেয়ারম্যান তারেক রহমানে জয়। খালেদার মৃত্যুতে সমবেদনার ভোট BNP-র ঝুলিতে!",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Tarique-Rahman-2026-02-ea754af94c976b4afee1cdaded6014ba-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/international/bangladesh-election-2026-tarique-rahman-oath-news-rc-2538778.html",
-    "time": "2026-02-13T09:55:29.000Z"
   }
 ];

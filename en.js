@@ -1,5 +1,95 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "‘The problem lies in his…’: Irfan reveals how Abhishek can break free from slump",
+    "desc": "Former all-rounder Irfan Pathan has advised T20 World Cup opener Abhishek Sharma to adjust his shot selection against off-spinners, urging him to settle in before attacking. Pathan highlighted Abhishek's tendency to play across the wicket too early. He also praised Ishan Kishan's current form but cautioned about his approach against wide deliveries.",
+    "img": "https://static.toiimg.com/photo/msid-128667993,imgsize-212710.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/the-problem-lies-in-his-irfan-pathan-reveals-how-abhishek-sharma-can-break-free-from-slump/articleshow/128667907.cms",
+    "time": "2026-02-22T06:27:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kohli and Anushka make stylish airport appearance",
+    "desc": "Celebrity couple Virat Kohli and Anushka Sharma were recently spotted at Mumbai airport and the Gateway of India, returning from an Alibaug getaway. Fans expressed their delight online. While Virat has returned to cricket, Anushka's much-anticipated film 'Chakda Xpress' faces further delays due to personal reasons and her commitment to motherhood.",
+    "img": "https://static.toiimg.com/photo/msid-128667724,imgsize-35286.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-and-anushka-sharma-spotted-at-mumbai-airport-after-alibaug-getaway-video/articleshow/128667724.cms",
+    "time": "2026-02-22T06:17:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "A look at Shakira’s USD 300 million empire",
+    "desc": "Shakira, the beloved pop sensation, is making her long-awaited comeback to India after 19 years, bringing a wave of nostalgia along with her. Boasting a net worth of an astounding USD 300 million and a career spanning more than 30 years filled with hits and revolutionary tours, she remains a global phenomenon.",
+    "img": "https://static.toiimg.com/photo/msid-128667675,imgsize-944806.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/shakiras-net-worth-a-look-at-her-usd-300-million-empire-ahead-of-her-india-tour/articleshow/128667675.cms",
+    "time": "2026-02-22T06:17:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arbaaz bags a apartment worth Rs 2.78 crores in Jogeshwari",
+    "desc": "Arbaaz Khan grabs a 1,243 sq ft luxury flat in Jogeshwari (Rs 2.78 Cr via Zapkey) from Mutistar Builders—27th floor, 2 parking spots, possession 2030. Deal registered Feb 17. Father Salim stable post-brain hemorrhage at Lilavati. Arbaaz eyes diverse career, new family joys.",
+    "img": "https://static.toiimg.com/photo/msid-128667567,imgsize-88460.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arbaaz-khan-bags-a-luxury-apartment-worth-rs-2-78-crores-in-mumbais-jogeshwari-reports/articleshow/128667567.cms",
+    "time": "2026-02-22T06:07:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Why now?’: Sunil Gavaskar questions timing of Super 8 pre-seeding row",
+    "desc": "Fans are criticising the T20 World Cup's pre-seeding format, which placed strong group winners in the same Super 8 group. However, batting legend Sunil Gavaskar questioned the timing of this outrage, suggesting logistical complexities for the ICC in a multi-country tournament. He highlighted international travel and accommodation as potential reasons for advance group assignments.",
+    "img": "https://static.toiimg.com/photo/msid-128667527,imgsize-118712.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/why-now-sunil-gavaskar-questions-timing-of-super-8-pre-seeding-row-at-t20-world-cup/articleshow/128667389.cms",
+    "time": "2026-02-22T06:05:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Trump's tariffs struck down, what's next? SBI suggests adopting a ‘counter-intuitive’ approach",
+    "desc": "The US Supreme Court's decision to strike down President Trump's tariff framework has introduced a new dynamic. While this lifts policy uncertainty, countries must now navigate a \"counter-intuitive\" negotiation period. The executive branch has swiftly implemented a temporary 10% global import tariff using a different trade act, with Congress holding the ultimate power to extend it.",
+    "img": "https://static.toiimg.com/photo/msid-128667463,imgsize-149866.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/trumps-tariffs-struck-down-whats-next-sbi-suggests-adopting-a-counter-intuitive-approach/articleshow/128664599.cms",
+    "time": "2026-02-22T06:03:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohd Amir defends Abhishek ‘slogger’ jibe, repeats India won’t reach semis",
+    "desc": "Former Pakistan bowler Mohammad Amir reignited controversy at the T20 World Cup with a renewed attack on India's Abhishek Sharma, questioning his defensive technique. Amir also reiterated his prediction that India will not reach the semi-finals, citing stronger performances from teams like South Africa and the West Indies.",
+    "img": "https://static.toiimg.com/photo/msid-128666787,imgsize-179900.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/what-else-should-i-call-him-mohammad-amir-defends-abhishek-sharma-slogger-jibe-repeats-india-wont-reach-semis/articleshow/128666778.cms",
+    "time": "2026-02-22T05:32:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "PM Modi to flag off 'Meerut Metro' and 'Namo Bharat' train today — how will it help commuters?",
+    "desc": "Prime Minister Narendra Modi will inaugurate the Meerut Metro and Namo Bharat RRTS on Sunday. This marks the full operationalisation of the 82-km Delhi-Meerut corridor. The integrated network promises faster travel between cities and within Meerut. It aims to reduce travel time significantly, boost connectivity, and lower carbon emissions.",
+    "img": "https://static.toiimg.com/photo/msid-128666606,imgsize-93984.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/pm-modi-to-flag-off-meerut-metro-and-namo-bharat-train-today-how-will-it-help-commuters/articleshow/128666272.cms",
+    "time": "2026-02-22T05:23:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nayanthara’s Rs 200-crore net worth: Check out",
+    "desc": "Nayanthara's impressive career has propelled her net worth to nearly Rs 200 crore, with film fees reportedly reaching Rs 10 crore. Her journey from Malayalam cinema to pan-South stardom, marked by iconic roles and a significant Bollywood debut, showcases her enduring influence. Beyond films, endorsements and investments contribute to her opulent lifestyle, fueling her superstar status.",
+    "img": "https://static.toiimg.com/photo/msid-128666313,imgsize-52662.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/nayantharas-rs-200-crore-net-worth-one-of-south-indias-highest-paid-actresses-charges-5-crore-for-ads-and-10-crore-per-film/articleshow/128666313.cms",
+    "time": "2026-02-22T05:10:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kimberly Van Der Beek mourns Eric Dane",
+    "desc": "Kimberly Van Der Beek shared a heartfelt tribute to Eric Dane following his recent passing, just days after losing her husband, James Van Der Beek. The producer's Instagram post honored their lifelong friendship and shared holiday memories, highlighting the profound grief of back-to-back losses.",
+    "img": "https://static.toiimg.com/photo/msid-128666289,imgsize-822228.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-van-der-beeks-wife-kimberly-van-der-beek-pays-tribute-to-eric-dane-we-love-you/articleshow/128666208.cms",
+    "time": "2026-02-22T05:05:52.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "U.S. salsa legend Willie Colón dies at age 75",
     "desc": "Colon, known best as a trombonist but who was also a bandleader and producer, was born in the Bronx and known for blending the Puerto Rican music of his parents and grandparents with his home city's jazz.",
@@ -7,6 +97,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/us-salsa-legend-willie-colon-dies-at-age-75/article70661306.ece",
     "time": "2026-02-22T04:41:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Selection headache or perfect balance? Shastri flags India’s dilemma ahead of Super 8s",
+    "desc": "India's unbeaten run in the T20 World Cup highlights their formidable depth, a strength that also presents their sole selection dilemma. Former coach Ravi Shastri believes the winning combination will likely remain intact against South Africa, emphasising flexibility and the need for extra bowling options, especially with dew a factor.",
+    "img": "https://static.toiimg.com/photo/msid-128665592,imgsize-190436.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-sa-selection-headache-or-perfect-balance-ravi-shastri-flags-indias-only-dilemma-ahead-of-super-8-showdown/articleshow/128665515.cms",
+    "time": "2026-02-22T04:34:30.000Z"
   },
   {
     "cat": "Sports",
@@ -72,6 +171,15 @@ const newsData_en = [
     "time": "2026-02-22T03:35:24.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "Uttarakhand CM approves action against ineligible beneficiaries drawing dual pensions",
+    "desc": "The direction came on February 21, 2026 after a recent data analysis by the CAG related to government pensions in Uttarakhand uncovered alleged irregularities, revealing that 1,377 people in the State were receiving double pension benefits",
+    "img": "https://th-i.thgim.com/public/incoming/fmo0ug/article70662392.ece/alternates/LANDSCAPE_1200/20260217110L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-cm-approves-action-against-ineligible-beneficiaries-drawing-dual-pensions/article70662390.ece",
+    "time": "2026-02-22T03:35:15.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "India’s nemesis De Kock flaunts SA’s new don’t-care attitude",
     "desc": "Quinton de Kock returns to international cricket with a seemingly indifferent attitude, reflecting a resurgent South African team that has shed its 'chokers' tag after winning the World Test Championship. De Kock, who missed the 2024 T20 World Cup final loss to India, claims no discussion has occurred about the past defeat, emphasizing a forward-looking approach under Aiden Markram's leadership.",
@@ -126,15 +234,6 @@ const newsData_en = [
     "time": "2026-02-22T03:17:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Uttarakhand CM approves action against ineligible beneficiaries drawing dual pensions",
-    "desc": "The direction came on February 21, 2026 after a recent data analysis by the CAG related to government pensions in Uttarakhand uncovered alleged irregularities, revealing that 1,377 people in the State were receiving double pension benefits",
-    "img": "https://th-i.thgim.com/public/incoming/fmo0ug/article70662392.ece/alternates/LANDSCAPE_1200/20260217110L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-cm-approves-action-against-ineligible-beneficiaries-drawing-dual-pensions/article70662390.ece",
-    "time": "2026-02-22T03:16:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Pre-seeding, venue comfort leave India, SA with no excuses in Super 8s",
     "desc": "As the T20 World Cup enters the Super 8s, last edition's finalists India and South Africa prepare for a crucial clash in Ahmedabad. Both teams, having faced scares in the group stage, now face immense pressure with little room for error. Familiarity with the venue and opponents is high, but the mental game will be key.",
@@ -180,24 +279,6 @@ const newsData_en = [
     "time": "2026-02-22T02:04:31.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Tu Yaa Main’ bo day 9: Thriller earns only Rs 38 lakhs on Saturday",
-    "desc": "While 'Tu Yaa Main,' starring Adarsh Gourav and Shanaya Kapoor, enjoys a decent online following and a respectable 3-star review from critics, it’s struggling to make an impact at the box office, raking in under Rs 1 crore each day. The film, adapted from a beloved Thai movie, saw an opening week collection of Rs 5.03 crore.",
-    "img": "https://static.toiimg.com/photo/msid-128662615,imgsize-12744.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/tu-yaa-main-box-office-collection-day-9-shanaya-kapoors-film-earns-rs-38-lakhs-on-its-second-saturday/articleshow/128662615.cms",
-    "time": "2026-02-22T01:41:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rebecca Gayheart shares rare family photos honoring Eric Dane",
-    "desc": "Rebecca Gayheart honored late husband Eric Dane with touching family photos, showcasing his deep love for daughters Billie and Georgia. The images, shared on Instagram, capture cherished moments following Dane's passing at 53 after an ALS battle. Co-stars from 'Grey's Anatomy' also paid heartfelt tributes, remembering his wit and warmth.",
-    "img": "https://static.toiimg.com/photo/msid-128662583,imgsize-1006730.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/rebecca-gayheart-shares-rare-family-photos-honoring-eric-dane-after-his-demise-expresses-gratitude-for-the-gofundme-support/articleshow/128662613.cms",
-    "time": "2026-02-22T01:39:47.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Five school teachers held in Odisha for 'raping' 13-year-old girl",
     "desc": "The arrests were made after the father of the class 7 student and the district child welfare committee lodged separate complaints at the Rajkanika police station, alleging that the accused teachers had raped the minor, a senior officer said.",
@@ -205,15 +286,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/odisha/five-school-teachers-held-in-odisha-for-raping-13-year-old-girl/article70661280.ece",
     "time": "2026-02-22T01:38:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jithu Madhavan confirms 'Suriya 47' as a 'Proper Tamil film'",
-    "desc": "Director Jithu Madhavan confirmed Suriya 47 is a Tamil film, not a Malayalam-style one, with shooting underway. He also addressed 'Aavesham 2' sequel talks, stating no final decision is made. Meanwhile, 'Manjummel Boys' director Chidambaram's new film 'Balan', with Jithu Madhavan on screenplay, received high praise from Ram Gopal Varma, calling it 'Beyond Fantastic'.",
-    "img": "https://static.toiimg.com/photo/msid-128662577,imgsize-85774.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/director-jithu-madhavan-confirms-suriya-47-as-a-proper-tamil-film-shares-update-on-aavesham-2/articleshow/128662577.cms",
-    "time": "2026-02-22T01:37:47.000Z"
   },
   {
     "cat": "Politics",
@@ -232,33 +304,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/president-trump-15-tariff-increase-supreme-court-decision/article70661023.ece",
     "time": "2026-02-22T01:12:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Do Deewane’ bo day 2: Film mints Rs 1.60 crore on Saturday",
-    "desc": "The cinematic landscape brightened with the arrival of 'Do Deewane Seher Me,' starring Mrunal Thakur and Siddhant Chaturvedi, which kicked off its box office journey with impressive numbers. Collecting Rs 1.25 crore on Friday and an encouraging Rs 1.60 crore on Saturday, the film's attendance at 13.42% suggests it’s tapping into the audience's romantic vibes.",
-    "img": "https://static.toiimg.com/photo/msid-128662117,imgsize-25202.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/do-deewane-seher-me-box-office-collection-day-2-mrunal-thakur-siddhant-chaturvedis-film-sees-a-rise-earns-rs-1-60-crore/articleshow/128662117.cms",
-    "time": "2026-02-22T01:08:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Euphoria’ creator donates $27K for Eric Dane's family support fund",
-    "desc": "Euphoria creator Sam Levinson and his wife have generously donated $27,000 to a GoFundMe for Eric Dane's daughters following the actor's passing from ALS. The fundraiser, launched by Dane's friends, aims to cover medical expenses and secure the future for his two teenage daughters. Levinson expressed deep sorrow over the loss of his friend.",
-    "img": "https://static.toiimg.com/photo/msid-128662164,imgsize-1088292.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/euphoria-creator-sam-levinson-donates-27000-to-eric-danes-gofundme-to-extend-his-support-following-the-actors-demise/articleshow/128662165.cms",
-    "time": "2026-02-22T01:06:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ghilli' re-release BO day 1: Vijay film scores big",
-    "desc": "Tamil cinema's re-release trend sees a massive resurgence with the 2004 blockbuster Ghilli. Starring Vijay and Trisha, the film has captivated audiences again, reportedly selling 50,000 tickets on day one and earning approximately Rs 1 crore. Ghilli's strong performance positions it as a top Kollywood re-release, with day two numbers showing even greater promise.",
-    "img": "https://static.toiimg.com/photo/msid-128661938,imgsize-42336.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ghilli-re-release-box-office-collections-day-1-vijay-film-scores-big-action-film-off-to-excellent-start/articleshow/128661938.cms",
-    "time": "2026-02-22T00:55:58.000Z"
   },
   {
     "cat": "Sports",
@@ -331,6 +376,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/osasuna-stun-real-madrid-2-1-to-blow-laliga-title-race-open/article70661297.ece",
     "time": "2026-02-21T20:36:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "St. Xavier’s University, Kolkata confers D.Litt on Shashi Tharoor at seventh convocation",
+    "desc": "Authorities of St Xavier’s University announced a number of new academic programmes including B. Tech degree course from 2026. The convocation ceremony saw degrees being awarded to 1052 postgraduate and undergraduate students and 25 Ph.D scholars",
+    "img": "https://th-i.thgim.com/public/news/national/c0kk4/article70661285.ece/alternates/LANDSCAPE_1200/IMG-20260221-WA0022.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/kolkata/st-xaviers-university-kolkata-confers-dlitt-on-shashi-tharoor-at-seventh-convocation/article70660879.ece",
+    "time": "2026-02-21T20:33:18.000Z"
   },
   {
     "cat": "Sports",
@@ -514,15 +568,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Kerala will attain self-sufficiency in milk, egg, and meat production by 2031 : Minister",
-    "desc": "A new ₹80-crore facility, which will come up at Development Board farm in Kulathuppuzha, is aimed at enhancing cattle productivity through modern breeding techniques and eco-friendly practices. This will support local farmers and strengthen the State’s livestock sector.",
-    "img": "https://th-i.thgim.com/public/incoming/fpjytt/article70660625.ece/alternates/LANDSCAPE_1200/22tv%20kulathupuzha%20bovine%20production%20research%20centre.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-will-attain-self-sufficiency-in-milk-egg-and-meat-production-by-2031-minister/article70660333.ece",
-    "time": "2026-02-21T14:56:47.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'Not appropriate': Congress-ally Akhilesh, other opposition leaders 'ashamed' of 'semi-nude' protest at AI Summit",
     "desc": "Opposition leaders and Congress allies have criticised the Indian Youth Congress's \"semi-nude\" protest at the AI Impact Summit, deeming it inappropriate and shameful on an international stage. Around 10 IYC workers were detained for raising slogans against PM Modi, wearing T-shirts with controversial slogans, sparking widespread condemnation for tarnishing the country's image.",
     "img": "https://static.toiimg.com/photo/msid-128647859,imgsize-64654.cms",
@@ -603,15 +648,6 @@ const newsData_en = [
     "time": "2026-02-21T13:23:35.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "UP court orders FIR against Swami Avimukteshwaranand in sexual exploitation case, seer responds",
-    "desc": "A special POCSO court in Prayagraj has ordered the police to register an FIR against Swami Avimukteshwaranand Saraswati and his disciple over sexual exploitation allegations. This directive follows a complaint filed by Ashutosh Brahmachari Maharaj. The move occurs amidst ongoing controversy surrounding Swami Avimukteshwaranand, including a recent protest over being prevented from a ritual dip at Sangam.",
-    "img": "https://static.toiimg.com/photo/msid-128644206,imgsize-1498652.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/up-court-orders-fir-against-swami-avimukteshwaranand-in-sexual-exploitation-case/articleshow/128643966.cms",
-    "time": "2026-02-21T12:18:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India sealT20I series in Australia as Mandhana hits fifty in final match",
     "desc": "India Women beat Australia by 17 runs in the third T20I in Adelaide to win the series 2-1. Smriti Mandhana starred with 82 off 55 balls, while Jemimah Rodrigues scored 59 as India posted 176/6. Australia were bowled out for 159/9 despite Ashleigh Gardner’s 57. Shree Charani and Shreyanka Patil took three wickets each, with Mandhana named Player of the Match.",
@@ -628,15 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-abhishek-ki-jagah-khilau-suryakumar-yadav-rules-out-changes-in-indias-top-three/articleshow/128642773.cms",
     "time": "2026-02-21T11:44:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Will not allow Pakistan's dignity to be compromised': Mohsin Naqvi",
-    "desc": "PCB chairman Mohsin Naqvi backed Pakistan hockey players after they accused the PHF of abandoning them during the Australia tour. Players said they had no hotel and had to cook and clean themselves, sparking outrage. Naqvi promised full support, financial aid, and help with training, while captain Ammad Shakeel Butt’s suspension is set to be reversed. The incident exposed serious mismanagement in Pakistan hockey.",
-    "img": "https://static.toiimg.com/photo/msid-128643215,imgsize-24584.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/will-not-allow-pakistans-dignity-to-be-compromised-mohsin-naqvi-steps-in-after-hockey-fiasco/articleshow/128642651.cms",
-    "time": "2026-02-21T11:41:05.000Z"
   },
   {
     "cat": "World",
@@ -693,15 +720,6 @@ const newsData_en = [
     "time": "2026-02-21T09:56:44.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Aap har venue mein pahunch jaate ho': Gambhir's exchange with fan goes viral",
-    "desc": "A heartwarming video of India head coach Gautam Gambhir interacting warmly with fans during a practice session has gone viral. Gambhir was seen signing autographs and sharing a light-hearted exchange, leaving supporters smiling. Meanwhile, the Indian team prepares for their Super 8 campaign against South Africa.",
-    "img": "https://static.toiimg.com/photo/msid-128640167,imgsize-52192.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/aap-har-venue-mein-pahunch-jaate-ho-gautam-gambhirs-exchange-with-fan-goes-viral-watch/articleshow/128640171.cms",
-    "time": "2026-02-21T09:36:37.000Z"
-  },
-  {
     "cat": "Business",
     "title": "What’s next as US Supreme Court sends Trump's trade policy into flux",
     "desc": "The Supreme Court ruled President Trump cannot use emergency powers for certain tariffs, impacting his trade strategy but not the trade war. Despite this, Trump announced new tariffs under the Trade Act of 1974, aiming for similar revenue despite a more complex legal process. Importers face ongoing uncertainty as the administration navigates new legal avenues for tariff enforcement.",
@@ -720,24 +738,6 @@ const newsData_en = [
     "time": "2026-02-21T07:11:01.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "New Zealand wary of Usman Tariq threat but back familiarity vs Pakistan",
-    "desc": "The Super 8 stage kicks off with a crucial clash between Pakistan and New Zealand in Colombo. Pakistan holds a slight edge due to their spin attack, particularly mystery spinner Usman Tariq. New Zealand, familiar with Pakistan's bowling, will rely on their middle order to counter the threat.",
-    "img": "https://static.toiimg.com/photo/msid-128635649,imgsize-66336.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pak-vs-nz-super-8-showdown-new-zealand-wary-of-usman-tariq-threat-but-back-familiarity-against-pakistan/articleshow/128635541.cms",
-    "time": "2026-02-21T06:24:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'Effective from February 24': All you need to know about Trump's new 10% global tariffs",
-    "desc": "President Trump signed a proclamation imposing a 10% temporary import surcharge on most goods, effective February 24 for 150 days. This action, taken under emergency powers, aims to address significant balance-of-payments deficits and encourage domestic manufacturing. Broad exemptions are included for economic necessity and national interest.",
-    "img": "https://static.toiimg.com/photo/msid-128634664,imgsize-575243.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/effective-from-february-24-all-you-need-to-about-trumps-new-10-global-tariffs/articleshow/128634090.cms",
-    "time": "2026-02-21T05:31:05.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.K. government considers removing former prince Andrew from line of succession",
     "desc": "Amid a torrent of often tawdry revelations from the files of late U.S. sex offender Jeffrey Epstein, King Charles III has already stripped his younger brother of all his titles and ousted him from his home in Windsor",
@@ -745,15 +745,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/uk-government-considers-removing-former-prince-andrew-from-line-of-succession-amid-epstein-row/article70657745.ece",
     "time": "2026-02-21T03:18:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What happens if rain washes out Colombo clash?",
-    "desc": "Pakistan and New Zealand clash in a pivotal T20 World Cup Super 8 match at Colombo. With a near-even head-to-head record, this encounter promises high drama. Both teams have shown inconsistent form, making this fixture crucial for semi-final aspirations. Rain threatens to disrupt the contest, with no reserve day available.",
-    "img": "https://static.toiimg.com/photo/msid-128631735,imgsize-98128.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pak-vs-nz-super-8s-weather-forecast-what-happens-if-rain-washes-out-colombo-clash/articleshow/128631671.cms",
-    "time": "2026-02-21T03:03:54.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/venezuela-approves-amnesty-bill-that-could-see-release-of-hundreds-detained-for-political-reasons/article70654549.ece",
     "time": "2026-02-20T02:22:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Skipper Harry Manenti warns Italy’s ‘trajectory’ may stall without opportunities",
+    "desc": "Italy's T20 World Cup debut was over with West Indies on February 19, securing a facile 42-run win in their last Group C fixture to cruise to Super Eights with four wins out of four",
+    "img": "https://th-i.thgim.com/public/incoming/sv6mz6/article70653674.ece/alternates/LANDSCAPE_1200/West_Indies_Italy_T20_WCup_Cricket_13222.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-skipper-harry-manenti-warns-italys-trajectory-may-stall-without-opportunities/article70653673.ece",
+    "time": "2026-02-19T21:42:07.000Z"
   }
 ];
