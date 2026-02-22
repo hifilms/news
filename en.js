@@ -1,7 +1,205 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "PM Modi pays tributes to Jayalalithaa, hails her welfare work for women of Tamil Nadu",
+    "desc": "In his monthly radio broadcast Mann Ki Baat, Mr. Modi said just a mention of \"Amma\" — as Jayalalithaa was often called — brings a glow to the faces of the people of Tamil Nadu",
+    "img": "https://th-i.thgim.com/public/incoming/ojbwax/article70662877.ece/alternates/LANDSCAPE_1200/27_NDC_Meeting_27_12_Del.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pm-modi-mann-ki-baat-former-tn-chief-minister-jayalalithaa/article70662873.ece",
+    "time": "2026-02-22T09:20:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "RBI’s new data centre far from seismic risks and cross-border threats — where is it?",
+    "desc": "The Reserve Bank of India has established a high-security data center in Bhubaneswar, Odisha, to protect critical financial systems. This strategic location minimizes exposure to cross-border threats and seismic risks, ensuring operational continuity. The facility supports core banking functions and enhances the safety and resilience of India's financial infrastructure.",
+    "img": "https://static.toiimg.com/photo/msid-128671255,imgsize-66072.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rbis-new-data-centre-far-from-seismic-risks-and-cross-border-threats-where-is-it/articleshow/128670784.cms",
+    "time": "2026-02-22T09:02:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election: DMK begins seat-sharing talks with allies, Congress leader K.C. Venugopal to meet Stalin",
+    "desc": "On February 22, the DMK’s seat-sharing committee began talks with leaders of the Indian Union Muslim League (IUML) at ‘Anna Arivalayam’. The IUML, which was allotted three seats in the 2021 Assembly elections, has now requested five seats.",
+    "img": "https://th-i.thgim.com/public/incoming/lph1ul/article70662823.ece/alternates/LANDSCAPE_1200/Anna_Arivalayam_DMK_Head_Quarters_Chennai_09.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-assembly-election-dmk-begins-seat-sharing-talks-with-allies-congress-leader-kc-venugopal-to-meet-mk-stalin/article70662783.ece",
+    "time": "2026-02-22T08:53:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Abki baar Trump se haar': Congress targets Centre over Trump tariffs; slams India-US trade deal",
+    "desc": "Congress leader Jairam Ramesh attacked the Centre over the proposed India-US interim trade pact, calling it “Abki baar Trump se haar” and demanding it be put in cold storage and renegotiated. He warned agri import liberalisation would hurt farmers across states and questioned the deal’s timing amid US tariff turmoil after a Supreme Court ruling against Donald Trump’s earlier measures.",
+    "img": "https://static.toiimg.com/photo/msid-128671001,imgsize-980868.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/abki-baar-trump-se-haar-congress-targets-centre-over-trump-tariffs-slams-india-us-trade-deal/articleshow/128670866.cms",
+    "time": "2026-02-22T08:51:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hailee Steinfeld on how she is planning on welcoming her baby",
+    "desc": "Hailee Steinfeld is enthusiastically preparing for her first child with beau Josh Allen. The actress revealed in her newsletter that she's immersed in to-do lists and research, alongside deep introspection about motherhood. Steinfeld shared that she often daydreams about their future life as a family of three, expressing immense love for their soon-to-arrive baby.",
+    "img": "https://static.toiimg.com/photo/msid-128670741,imgsize-60614.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sinners-star-hailee-steinfeld-shares-her-prep-plan-for-welcoming-baby-with-josh-allen-ive-been-busy-with-research/articleshow/128670741.cms",
+    "time": "2026-02-22T08:38:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Scrubs’: Who’s returning from the original cast",
+    "desc": "After 16 years, the much-loved sitcom 'Scrubs' makes its return, featuring the original cast members Zach Braff, Sarah Chalke, and Donald Faison taking the lead once again. With key performances from Judy Reyes and John C. McGinley, and delightful guest appearances by Neil Flynn and Christa Miller.",
+    "img": "https://static.toiimg.com/photo/msid-128670651,imgsize-1134735.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/tv/news/english/scrubs-revival-after-16-years-whos-returning-and-whos-missing-from-the-original-cast-details/articleshow/128670651.cms",
+    "time": "2026-02-22T08:36:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Timothée Chalamet shares how he was once criticised by a co-star",
+    "desc": "In a candid moment, Timothée Chalamet shared a story about a fellow actor who openly doubted his acting prowess, prompting him to reflect on the nature of advice in the industry. The star of 'Marty Supreme' warned against those who inundate others with unsolicited guidance, hinting that it often comes from a place of insecurity.",
+    "img": "https://static.toiimg.com/photo/msid-128670227,imgsize-21240.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/timothe-chalamet-shares-how-a-co-star-criticized-him-once-beware-of-the-people-in-life-that-get-more-of-the-advice/articleshow/128670227.cms",
+    "time": "2026-02-22T08:35:41.000Z"
+  },
+  {
     "cat": "Sports",
-    "title": "‘The problem lies in his…’: Irfan reveals how Abhishek can break free from slump",
+    "title": "Brother vs brother as Morne, Albie Morkel split loyalties in IND vs SA clash",
+    "desc": "Brothers Morne and Albie Morkel will face off as rival coaches in the T20 World Cup Super 8 clash between India and South Africa. Morne coaches India's bowling attack, while Albie serves as a consultant for South Africa, both aiming for victory despite their family ties. Their childhood backyard rivalries are now amplified on the international stage.",
+    "img": "https://static.toiimg.com/photo/msid-128670518,imgsize-48192.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-sa-brother-vs-brother-as-morne-albie-morkel-split-loyalties-in-blockbuster-super-8-clash/articleshow/128670489.cms",
+    "time": "2026-02-22T08:29:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Mcap of six of top 10 valued firms climbs Rs 63,478 crore; L&amp;T, SBI lead gains",
+    "desc": "India's top companies saw a significant market capitalization surge last week, with Larsen & Toubro and State Bank of India leading the gains. While the broader market edged higher, six of the ten most-valued firms collectively added over Rs 63,000 crore. Reliance Industries maintained its top position, despite mixed performances among other giants.",
+    "img": "https://static.toiimg.com/photo/msid-128668325,imgsize-91330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/weekly-market-recap-mcap-of-six-of-top-10-valued-firms-climbs-rs-63478-crore-lt-sbi-lead-gains/articleshow/128667863.cms",
+    "time": "2026-02-22T08:10:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sohail Khan visits father Salim Khan at Lilavati hospital",
+    "desc": "Sohail Khan visited father Salim Khan at Lilavati Hospital amid his minor brain haemorrhage and ventilator support since Feb 17. Paparazzi caught him leaving with security. Family upset over media leaks; celebs like Ranveer Singh, Aamir Khan visited.",
+    "img": "https://static.toiimg.com/photo/msid-128669907,imgsize-18238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sohail-khan-visits-father-salim-khan-at-lilavati-hospital-watch-video/articleshow/128669907.cms",
+    "time": "2026-02-22T07:58:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "IDFC First Bank reports Rs 590 crore fraud in Haryana government accounts",
+    "desc": "IDFC First Bank reported a Rs 590 crore discrepancy in Haryana government deposits at its Chandigarh branch, suspending four employees. The bank has initiated a forensic audit and is working with other banks to recover funds. This disclosure follows Haryana's directive for departments to close accounts with specific private lenders due to suspected financial irregularities.",
+    "img": "https://static.toiimg.com/photo/msid-128670089,imgsize-62646.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/idfc-first-bank-reports-rs-590-crore-fraud-in-haryana-government-accounts/articleshow/128669892.cms",
+    "time": "2026-02-22T07:57:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The future is mid-size and high-concept films': 'Assi' director Anubhav Sinha",
+    "desc": "Filmmaker Anubhav Sinha, whose latest film 'Assi' is garnering praise, has reversed his stance on film distribution. He now believes mid-scale, high-concept films, rather than those rushing to OTT, hold the key to a good return on investment. Sinha remains committed to making socially relevant cinema, advocating for the right of filmmakers to create content they believe in.",
+    "img": "https://static.toiimg.com/photo/msid-128669294,imgsize-29000.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-future-is-mid-size-and-high-concept-films-anubhav-sinha-explains-his-complete-change-of-heart-after-assi-release/articleshow/128669311.cms",
+    "time": "2026-02-22T07:29:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Barricades put up near Nancy Guthrie’s home",
+    "desc": "The city of Tucson is under the spotlight as Nancy Guthrie, the mother of NBC anchor Savannah Guthrie, has been missing for over three weeks now. As the search intensifies, police have cordoned off the area surrounding her home, with detectives actively engaging with the community.",
+    "img": "https://static.toiimg.com/photo/msid-128669113,imgsize-1019952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/tv/news/english/barricades-put-up-near-nancy-guthries-home-as-the-search-entered-day-21/articleshow/128669113.cms",
+    "time": "2026-02-22T07:23:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajeev Shukla shares pictures",
+    "desc": "In a heartfelt ceremony, cricketer Shikhar Dhawan tied the knot with Sophie Shine, embracing a new chapter in his life. The celebration was filled with joy as fans and celebrities poured in their warm wishes. Among the well-wishers was politician Rajeev Shukla, who took to social media to share congratulatory messages and moments captured with fellow cricket stars.",
+    "img": "https://static.toiimg.com/photo/msid-128669039,imgsize-32662.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shikhar-dhawan-marries-sophie-shine-rajeev-shukla-rohit-sharma-and-irfan-pathan-attend-grand-wedding-pics/articleshow/128669039.cms",
+    "time": "2026-02-22T07:21:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AI push, tribute to Jayalalithaa, message for students: Key takeaways from PM Modi’s 131st Mann Ki Baat address",
+    "desc": "Prime Minister Modi, in his Mann Ki Baat address, highlighted AI's role in animal healthcare and agriculture, showcasing innovations at the AI Impact Summit. He also remembered Jayalalithaa, urged embracing Indian culture over foreign influences, and cautioned against digital fraud, emphasizing the importance of local products and organ donation.",
+    "img": "https://static.toiimg.com/photo/msid-128669066,imgsize-942798.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ai-push-tribute-to-jayalalithaa-message-for-students-key-takeaways-from-pm-modis-131st-mann-ki-baat-address/articleshow/128668973.cms",
+    "time": "2026-02-22T07:19:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "RGV calls Toxic insult to intelligence compared to Dhurandhar",
+    "desc": "Ram Gopal Varma praises 'Dhurandhar' ahead of 'Dhuroxic' clash with Toxic on March 19. \"#DHURANDHAR respects audience intelligence; #TOXIC presumes dumbness,\" he posts on X. Lists 10 truths slamming Toxic's hero worship, fake action, loud score vs Dhurandhar's real punches, silence, smarts.",
+    "img": "https://static.toiimg.com/photo/msid-128669058,imgsize-31616.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-sparks-dhuroxic-war-calls-yashs-toxic-insult-to-intelligence-compared-to-ranveer-singhs-dhurandhar-the-revenge/articleshow/128669058.cms",
+    "time": "2026-02-22T07:17:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Here’s how Daniel reacted to a ‘Wizard of Oz’ remake",
+    "desc": "a Wizard of Oz remake starring himself, Emma Watson, and Rupert Grint. He was slated to play a karate-kicking Cowardly Lion. Radcliffe, then a teenager, immediately recognized the idea's absurdity and rejected it, deeming it a terrible concept.",
+    "img": "https://static.toiimg.com/photo/msid-128668970,imgsize-28714.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/i-dont-know-a-lot-about-the-world-how-daniel-radcliffe-reacted-when-he-was-pitched-a-wizard-of-oz-remake/articleshow/128668949.cms",
+    "time": "2026-02-22T07:14:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Iron Claw': What really happened to the Von Erich brothers?",
+    "desc": "The Iron Claw' chronicles the Von Erich brothers' wrestling dynasty, driven by their father Fritz's relentless ambition. Despite achieving stardom, the family was plagued by a series of devastating tragedies, leading to a narrative of a 'curse.' The film, now streaming on Netflix, explores these painful events and the enduring love within the family.",
+    "img": "https://static.toiimg.com/photo/msid-128668660,imgsize-31632.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-iron-claw-what-really-happened-to-the-von-erich-brothers-true-story-explained/articleshow/128668674.cms",
+    "time": "2026-02-22T06:59:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Red Fort, temples on radar? Eight suspects with Bangladesh, Pak ISI links held for plotting terror attack in India",
+    "desc": "Eight individuals with alleged links to Pakistan's ISI and Bangladesh-based extremist groups were apprehended in Tamil Nadu and West Bengal. Intelligence reports indicated a potential terror plot targeting Delhi's Red Fort and prominent temples. The arrests followed specific inputs about a module planning subversive activities, with digital materials being analyzed to uncover a wider network.",
+    "img": "https://static.toiimg.com/photo/msid-128668512,imgsize-1292145.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/red-fort-temples-on-radar-eight-suspects-with-bangladesh-pak-isi-links-held-in-tamil-nadu-bengal/articleshow/128666319.cms",
+    "time": "2026-02-22T06:52:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Very touched’: Brazilian President Lula reacts after Portuguese songs played during lunch with PM Modi",
+    "desc": "Brazilian President Lula da Silva was touched by India's musical tribute during his state visit, recalling a similar gesture he made for PM Modi in Brazil. The visit saw both leaders aiming to boost bilateral trade to $20 billion in five years and signing agreements on rare earth minerals, digital partnership, and mining cooperation.",
+    "img": "https://static.toiimg.com/photo/msid-128667126,imgsize-911064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/very-touched-brazilian-president-lula-reacts-after-portuguese-songs-played-during-lunch-with-pm-modi/articleshow/128667096.cms",
+    "time": "2026-02-22T06:44:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top upcoming OTT releases to watch this week​",
+    "desc": "​Starting February 23, streaming fans get a dose of passion, survival, and intense drama with standout series dropping just in time for the new week. These shows pull you into worlds of forbidden love, desperate fights, and epic battles, perfect for cozy nights as February winds down. Just keep the tub of popcorn ready, relax, and enjoy a binge-watch!​",
+    "img": "https://static.toiimg.com/photo/msid-128668339,imgsize-883432.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-season-4-part-2-the-blufftop-upcoming-ott-releases-to-watch-this-week/photostory/128668339.cms",
+    "time": "2026-02-22T06:43:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Patrick and Brittany Mahomes celebrate daughter Sterling’s 5th birthday",
+    "desc": "Patrick and Brittany Mahomes celebrated daughter Sterling's fifth birthday with a fun-filled morning at the Peppa Pig Theme Park in Texas. Brittany shared adorable moments of Sterling enjoying rides and meeting characters. The proud mom also reflected on Sterling's milestone, admitting to feeling emotional. The article also touches upon Brittany's notable friendship with Taylor Swift and the Mahomes' family journey.",
+    "img": "https://static.toiimg.com/photo/msid-128668157,imgsize-27242.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/patrick-and-brittany-mahomes-celebrate-daughter-sterlings-5th-birthday-with-sweet-peppa-pig-theme-park-surprise/articleshow/128668112.cms",
+    "time": "2026-02-22T06:36:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘The problem lies in…’: Irfan reveals how Abhishek can break free from slump",
     "desc": "Former all-rounder Irfan Pathan has advised T20 World Cup opener Abhishek Sharma to adjust his shot selection against off-spinners, urging him to settle in before attacking. Pathan highlighted Abhishek's tendency to play across the wicket too early. He also praised Ishan Kishan's current form but cautioned about his approach against wide deliveries.",
     "img": "https://static.toiimg.com/photo/msid-128667993,imgsize-212710.cms",
     "src": "indiatimes.com",
@@ -73,24 +271,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Nayanthara’s Rs 200-crore net worth: Check out",
-    "desc": "Nayanthara's impressive career has propelled her net worth to nearly Rs 200 crore, with film fees reportedly reaching Rs 10 crore. Her journey from Malayalam cinema to pan-South stardom, marked by iconic roles and a significant Bollywood debut, showcases her enduring influence. Beyond films, endorsements and investments contribute to her opulent lifestyle, fueling her superstar status.",
-    "img": "https://static.toiimg.com/photo/msid-128666313,imgsize-52662.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/nayantharas-rs-200-crore-net-worth-one-of-south-indias-highest-paid-actresses-charges-5-crore-for-ads-and-10-crore-per-film/articleshow/128666313.cms",
-    "time": "2026-02-22T05:10:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kimberly Van Der Beek mourns Eric Dane",
-    "desc": "Kimberly Van Der Beek shared a heartfelt tribute to Eric Dane following his recent passing, just days after losing her husband, James Van Der Beek. The producer's Instagram post honored their lifelong friendship and shared holiday memories, highlighting the profound grief of back-to-back losses.",
-    "img": "https://static.toiimg.com/photo/msid-128666289,imgsize-822228.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-van-der-beeks-wife-kimberly-van-der-beek-pays-tribute-to-eric-dane-we-love-you/articleshow/128666208.cms",
-    "time": "2026-02-22T05:05:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "U.S. salsa legend Willie Colón dies at age 75",
     "desc": "Colon, known best as a trombonist but who was also a bandleader and producer, was born in the Bronx and known for blending the Puerto Rican music of his parents and grandparents with his home city's jazz.",
     "img": "https://th-i.thgim.com/public/incoming/mo29gk/article70661307.ece/alternates/LANDSCAPE_1200/Willie_Colon_Obit_53550.jpg",
@@ -115,51 +295,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/icc-twenty20-world-cup-2026-india-vs-south-africa-super-8-preview/article70659698.ece",
     "time": "2026-02-22T04:08:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hilary Duff shares her hot take on ‘mom group drama’",
-    "desc": "Hilary Duff has addressed the recent \"mom group drama\" stemming from Ashley Tisdale's essay. Duff, accustomed to public scrutiny since her teens, finds social media gossip overwhelming. She clarified rumors about school moms, emphasizing her focus on family life with her daughters and husband. For Duff, home and her children are what truly matter amidst online noise.",
-    "img": "https://static.toiimg.com/photo/msid-128665096,imgsize-54154.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/this-is-not-new-for-me-hilary-duff-breaks-silence-on-mom-group-drama-heres-what-she-said/articleshow/128665089.cms",
-    "time": "2026-02-22T04:06:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Meet Shikhar Dhawan’s new wife Sophie Shine",
-    "desc": "Cricketer Shikhar Dhawan has tied the knot with his partner Sophie Shine in a private ceremony. The couple, who reportedly met in Dubai, shared heartwarming pictures from their wedding, including traditional rituals and celebratory dances. Shine, an Irish product consultant, also actively participates in Dhawan's ventures, heading his foundation and serving as COO of Da One Sports.",
-    "img": "https://static.toiimg.com/photo/msid-128664938,imgsize-2178870.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/meet-sophie-shine-former-indian-cricketer-shikhar-dhawans-second-wife-inside-their-private-wedding/articleshow/128664938.cms",
-    "time": "2026-02-22T04:02:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "RM sheds 15 kg; Jin reacts ahead of BTS’ ARIRANG comeback",
-    "desc": "BTS leader RM has dramatically shed 15 kilograms since completing military service, weighing in at 68.8 kg. This significant fitness transformation ahead of the group's March 20, 2026 album 'ARIRANG' has excited fans and bandmates, including Jin. The entire septet is reportedly focused on their comeback, with other members also prioritizing fitness.",
-    "img": "https://static.toiimg.com/photo/msid-128664734,imgsize-441492.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/rm-drops-15-kg-post-military-as-bts-gears-up-for-arirang-comeback-jin-reacts-in-awe/articleshow/128664695.cms",
-    "time": "2026-02-22T03:45:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘A Knight of the Seven Kingdoms’ finale release time",
-    "desc": "The epic conclusion of 'A Knight of the Seven Kingdoms,' aptly named 'Morrow,' is set to premiere in India on February 23rd. After the intense Trial of Seven and the heart-wrenching repercussions for Duncan in episode 5, fans are eager to see how this thrilling saga concludes.",
-    "img": "https://static.toiimg.com/photo/msid-128664607,imgsize-920581.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/a-knight-of-the-seven-kingdoms-finale-episode-6-release-time-and-global-streaming-schedule/articleshow/128664607.cms",
-    "time": "2026-02-22T03:39:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Video debunked",
-    "desc": "A viral video sparked speculation that Taylor Swift performed at a wedding in Jamnagar, Gujarat. However, the woman in the clip was identified as social media influencer Ashley Leechin, known for her resemblance to the singer. Swift was not in India at the time, debunking the hoax that captivated many fans online.",
-    "img": "https://static.toiimg.com/photo/msid-128664467,imgsize-38964.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-goes-viral-as-wedding-video-from-jamnagar-shared-online-did-the-singer-perform-in-india-rumors-debunked/articleshow/128664467.cms",
-    "time": "2026-02-22T03:37:20.000Z"
   },
   {
     "cat": "Sports",
@@ -189,24 +324,6 @@ const newsData_en = [
     "time": "2026-02-22T03:34:26.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘American Idol’ alum Caleb Flynn fights back tears in court",
-    "desc": "Caleb Flynn, who once graced the stage of 'American Idol', is now at the center of a chilling investigation, accused of killing his wife Ashley within their Ohio home. Authorities suggest that Flynn fabricated a burglary scenario following the tragic shooting, yet he insists that an intruder is to blame.",
-    "img": "https://static.toiimg.com/photo/msid-128664480,imgsize-21194.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/im-not-a-risk-american-idol-alum-caleb-flynn-breaks-down-in-court-after-being-accused-of-killing-his-wife/articleshow/128664474.cms",
-    "time": "2026-02-22T03:33:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "James Gunn shuts down rumours of new ‘Batman’ series",
-    "desc": "James Gunn has firmly denied rumors of fast-tracking 'The Batman – Part 3' to precede the DCU's 'The Brave and the Bold'. He clarified that no such plans exist, emphasizing that only scripts are being expedited. 'The Batman – Part 2' is slated for a January 2026 start, with Part 3 still in early scripting stages.",
-    "img": "https://static.toiimg.com/photo/msid-128664452,imgsize-774661.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-gunn-shuts-down-batman-part-3-fast-track-rumors-confirms-no-rush-before-dcus-brave-and-the-bold/articleshow/128664461.cms",
-    "time": "2026-02-22T03:29:58.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Unearthing the silent splendour of Hoysalas",
     "desc": "In the rural parts of Hassan, Mandya and Mysuru in Karnataka, overlooked Hoysala-era temples and basadis reveal a thriving medieval kingdom’s devotion and sculptural mastery; through star-shaped platforms, serene shrines, finely sculpted pillars and quiet stepwells, the Hoysala imagination continues to whisper through stone",
@@ -214,15 +331,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/photos/in-frames-unearthing-the-silent-splendour-of-hoysalas/article70662399.ece",
     "time": "2026-02-22T03:29:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Madhuri Dixit dons traditional kimono",
-    "desc": "Bollywood icon Madhuri Dixit and her husband Shriram Nene are enjoying a serene Japanese vacation, sharing glimpses of their picturesque trip. The couple, married since 1999, posed against the majestic Mount Fuji and embraced local culture by donning traditional kimonos. Their scenic getaway has captivated fans, who flooded their social media with admiring comments.",
-    "img": "https://static.toiimg.com/photo/msid-128664292,imgsize-57958.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/madhuri-dixit-vacations-in-japan-wears-traditional-kimono-with-mount-fuji-in-the-backdrop/articleshow/128664292.cms",
-    "time": "2026-02-22T03:23:50.000Z"
   },
   {
     "cat": "Sports",
@@ -250,33 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-not-batting-but-indias-bowling-is-the-real-deal/articleshow/128653769.cms",
     "time": "2026-02-22T02:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Barry Manilow postpones 2026 tour after lung cancer recovery setback",
-    "desc": "Barry Manilow has canceled more tour dates due to ongoing recovery from lung cancer surgery. The music legend, who revealed his early-stage diagnosis in December 2025, shared that his lungs are not yet ready for the demands of performing. Fans are offering support as he focuses on healing and returning to the stage.",
-    "img": "https://static.toiimg.com/photo/msid-128663444,imgsize-389846.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/barry-manilow-postpones-2026-tour-after-lung-cancer-recovery-setback/articleshow/128663447.cms",
-    "time": "2026-02-22T02:29:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Willie Colón passes away at age 75",
-    "desc": "Salsa music legend Willie Colón has passed away at 75. The Nuyorican pioneer, known for hits like 'Calle Luna, calle Sol' and his collaborations with Héctor Lavoe, died peacefully surrounded by family. His family announced the news, expressing gratitude for support while requesting privacy. Colón's Grammy-nominated career leaves an indelible mark on Latin music.",
-    "img": "https://static.toiimg.com/photo/msid-128663262,imgsize-47680.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/willie-coln-best-known-for-his-salsa-tunes-passes-away-at-75/articleshow/128663262.cms",
-    "time": "2026-02-22T02:21:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘The Night Agent Season 3’ finale explained: What’s next?",
-    "desc": "The Night Agent Season 3 concluded with a bang, exposing government corruption and forcing the President's resignation. While Peter Sutherland takes a much-needed break, a new threat emerges with the poisoning of whistleblower Freya, hinting at a dangerous Season 4. The show's future looks bright, with writers already at work on new storylines.",
-    "img": "https://static.toiimg.com/photo/msid-128662990,imgsize-32730.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-night-agent-season-3-ending-explained-how-peter-exposed-corruption-and-survived-whats-next/articleshow/128662979.cms",
-    "time": "2026-02-22T02:04:31.000Z"
   },
   {
     "cat": "Politics",
@@ -549,15 +630,6 @@ const newsData_en = [
     "time": "2026-02-21T16:00:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "After SIR exercise, Rajasthan publishes final electoral roll with 5.15 crore voters",
-    "desc": "The names of 31.36 lakh voters were removed from the electoral rolls during the SIR, which began in November 2025, says Chief Electoral Officer Naveen Mahajan; the final electoral roll depicted a net increase of 10,48,605 voters in comparison with the draft publication, reflecting a growth of 2.08%",
-    "img": "https://th-i.thgim.com/public/incoming/gy6gab/article70660711.ece/alternates/LANDSCAPE_1200/PTI11_27_2025_000141B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rajasthan/after-sir-exercise-rajasthan-publishes-final-electoral-roll-with-515-crore-voters/article70660409.ece",
-    "time": "2026-02-21T15:14:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How can Pakistan qualify for semi-final after rain washes out PAK vs NZ?",
     "desc": "The Pakistan vs New Zealand Super 8 match was washed out due to rain, with both teams sharing one point. Pakistan and New Zealand now need wins in their remaining matches to qualify for the semi-finals. Any loss could complicate their chances and force them to rely on other results, while the washout keeps the group wide open for other teams.",
@@ -583,24 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/delhi-government-launches-cm-jansunwai-portal-to-address-public-concerns/articleshow/128647664.cms",
     "time": "2026-02-21T14:41:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Made-in-India chips crucial for a self-reliant India’: PM Modi virtually inaugurates semiconductor facility in UP",
-    "desc": "Prime Minister Modi emphasized self-reliance for India's technological future, highlighting the critical role of 'Made in India' chips. A new Rs 3,700 crore joint venture between HCL and Foxconn will establish an Outsourced Semiconductor Assembly & Test facility in Greater Noida, aiming to produce display driver chips and boost India's manufacturing prowess.",
-    "img": "https://static.toiimg.com/photo/msid-128647095,imgsize-709249.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/made-in-india-chips-crucial-for-a-self-reliant-india-pm-modi-virtually-inaugurates-semiconductor-facility-in-up/articleshow/128646756.cms",
-    "time": "2026-02-21T14:20:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Shirtless' protest row: BJP &amp; Congress workers clash in Indore, pelt stones",
-    "desc": "Clashes erupted between BJP and Congress workers during a BJP protest against an Indian Youth Congress (IYC) demonstration at the India AI Impact Summit. Stone-pelting occurred, leading to police intervention and injuries. Four IYC workers were arrested and sent to police custody for investigation into a potential larger conspiracy.",
-    "img": "https://static.toiimg.com/photo/msid-128647333,imgsize-4602961.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/shirtless-protest-row-bjp-congress-workers-clash-in-indore-pelt-stones-watch/articleshow/128646167.cms",
-    "time": "2026-02-21T14:09:08.000Z"
   },
   {
     "cat": "Business",
@@ -637,15 +691,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/netherlands-cricket-board-rashid-shah-icc-revenue-sharing-model-counter-productive-for-associates/article70659808.ece",
     "time": "2026-02-21T13:25:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Beating Australia in Australia special': Mandhana after India's series win",
-    "desc": "Smriti Mandhana called India’s 17-run series-deciding win over Australia “really special” but said the team will “not celebrate too much” and focus on the ODI series. Mandhana scored 82, Jemimah Rodrigues made 59, and India posted 176/6. Bowlers then restricted Australia to 159/9. Mandhana praised Rodrigues’ role and highlighted the importance of beating Australia in Australia.",
-    "img": "https://static.toiimg.com/photo/msid-128645843,imgsize-240968.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/beating-australia-in-australia-really-special-smriti-mandhana-after-indias-3-1-t20i-series-win/articleshow/128645515.cms",
-    "time": "2026-02-21T13:23:35.000Z"
   },
   {
     "cat": "Sports",
@@ -702,15 +747,6 @@ const newsData_en = [
     "time": "2026-02-21T10:39:24.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'He covered for us all year, now it's our turn': SKY backs Abhishek after three ducks",
-    "desc": "India captain Suryakumar Yadav backed opener Abhishek Sharma despite his three ducks in the T20 World Cup, stating it's now the team's turn to support him. Bowling coach Morne Morkel also expressed confidence, believing Sharma is just one innings away from regaining form.",
-    "img": "https://static.toiimg.com/photo/msid-128640633,imgsize-56998.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/he-covered-for-us-all-year-now-its-our-turn-suryakumar-yadav-backs-abhishek-sharma-after-three-ducks-in-t20-world-cup/articleshow/128640426.cms",
-    "time": "2026-02-21T09:57:14.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Trump accuses SCOTUS of being swayed by foreign interests after legal setback; attacks US companies and attorneys with India ties",
     "desc": "President Trump fiercely attacked the Supreme Court after it struck down his tariffs, accusing the justices of being \"lapdogs for the radical left\" and influenced by foreign interests. He specifically targeted Indian-American attorneys involved in the case. The ruling, a 6-3 decision, reinforced Congress's trade powers, marking a significant setback for the President's executive actions.",
@@ -718,15 +754,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/trump-accuses-scotus-of-being-swayed-by-foreign-interests-after-legal-setback-attacks-us-companies-and-attorneys-with-india-ties/articleshow/128640539.cms",
     "time": "2026-02-21T09:56:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What’s next as US Supreme Court sends Trump's trade policy into flux",
-    "desc": "The Supreme Court ruled President Trump cannot use emergency powers for certain tariffs, impacting his trade strategy but not the trade war. Despite this, Trump announced new tariffs under the Trade Act of 1974, aiming for similar revenue despite a more complex legal process. Importers face ongoing uncertainty as the administration navigates new legal avenues for tariff enforcement.",
-    "img": "https://static.toiimg.com/photo/msid-128637748,imgsize-885596.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/whats-next-as-us-supreme-court-sends-trumps-trade-policy-into-flux/articleshow/128637711.cms",
-    "time": "2026-02-21T07:47:14.000Z"
   },
   {
     "cat": "Entertainment",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/house-of-the-dragon-season-3-teaser-all-out-targaryen-war-as-rhaenyra-and-alicent-collide/article70655125.ece",
     "time": "2026-02-20T07:16:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India’s perfect record has been tempered by indifferent form",
-    "desc": "Though Kishan’s hitting has been a revelation, most of of his batting colleagues haven’t been as free-spirited; Abhishek has suffered the ignominy of falling for a duck thrice; the co-host’s scores are a tribute to the ability to accelerate in the second half even when the first period has been singularly demanding",
-    "img": "https://th-i.thgim.com/public/incoming/jdjj65/article70654601.ece/alternates/LANDSCAPE_1200/IMG_KISHAN_2_2_1_EJFK2A6V.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/indias-perfect-record-has-been-tempered-by-indifferent-form/article70654604.ece",
-    "time": "2026-02-20T04:30:22.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Venezuela approves amnesty bill that could see release of hundreds detained for political reasons",
-    "desc": "Acting President Delcy Rodríguez, who proposed the bill late last month, is expected to sign the measure, which outlines the eligibility and exclusions for people to be granted amnesty, and therefore, be released after months or years of being in custody",
-    "img": "https://th-i.thgim.com/public/incoming/nj9ivm/article70654554.ece/alternates/LANDSCAPE_1200/2026-01-15T220020Z_518970044_RC2R1JAD9QSF_RTRMADP_3_USA-VENEZUELA-RODRIGUEZ.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/venezuela-approves-amnesty-bill-that-could-see-release-of-hundreds-detained-for-political-reasons/article70654549.ece",
-    "time": "2026-02-20T02:22:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Skipper Harry Manenti warns Italy’s ‘trajectory’ may stall without opportunities",
-    "desc": "Italy's T20 World Cup debut was over with West Indies on February 19, securing a facile 42-run win in their last Group C fixture to cruise to Super Eights with four wins out of four",
-    "img": "https://th-i.thgim.com/public/incoming/sv6mz6/article70653674.ece/alternates/LANDSCAPE_1200/West_Indies_Italy_T20_WCup_Cricket_13222.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-skipper-harry-manenti-warns-italys-trajectory-may-stall-without-opportunities/article70653673.ece",
-    "time": "2026-02-19T21:42:07.000Z"
   }
 ];

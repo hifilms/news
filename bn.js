@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "বিয়েবাড়িতে পার্কিং কেন্দ্র করে খুন, অভিযুক্ত সফটওয়্যার ইঞ্জিনিয়ার গ্রেফতার",
+    "desc": "দক্ষিণ দিল্লির আয়া নগরে পথ নিয়ে বিবাদ ঘিরে রক্তাক্ত পরিণতি। পার্কিং ও রাস্তা ছাড়াকে কেন্দ্র করে বচসার জেরে এক সফটওয়্যার ইঞ্জিনিয়ারের ছুরিকাঘাতে মৃত্যু হল এক ব্যক্তির, গুরুতর জখম হয়েছেন তাঁর এক বন্ধু। শুক্রবার এই ঘটনায় অভিযুক্তকে গ্রেফতার করেছে পুলিশ।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Crime-News-4-2026-02-84e86981098fc0c3780993f210416dc7-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/delhi-road-rage-aya-nagar-stabbing-software-engineer-arrested-sandeep-lohia-murder-sal-2552351.html",
+    "time": "2026-02-22T07:20:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "সাতসকালে ট্রেলারের সঙ্গে ভয়ংকর সংঘর্ষ! দুমড়ে মুচড়ে গিয়ে ঘটনাস্থলেই মৃত পাঁচ পুলিসকর্মী, আহত আরও...",
+    "desc": "রবিবার ভোরে এক ভয়াবহ পথ দুর্ঘটনায় ৫ জন পুলিস কর্মী নিহত এবং ৩ জন গুরুতর আহত হয়েছেন। কর্তব্যরত অবস্থায় পুলিসের গাড়িটির সঙ্গে একটি দ্রুতগামী ট্রেলারের মুখোমুখি সংঘর্ষ হলে এই মর্মান্তিক ঘটনাটি ঘটে। পুলিস ঘাতক ট্রেলারের চালককে আটক করেছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/5-police-personnel-killed-speeding-trailer-rams-into-vehicle_642276.html ",
+    "time": "2026-02-22T06:46:20.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "টি-২০ বিশ্বকাপের ফাইনালে উঠবে কোন দুই দেশ? বড় 'ভবিষ্যদ্বাণী' করে ফেললেন মহাতারকা!",
     "desc": "টি-২০ বিশ্বকাপের সুপার এইট পর্ব শুরু হয়ে গিয়েছে। ফাইনালের ওঠার দৌড়ে আট দল। কোন দুই দল ফাইনালে উঠবে তা নিয়ে শুরু হয়ে গিয়েছে জল্পনা ও বিশ্লেষণ। এরইমধ্যে ফাইনালের দুই দল নিয়ে হয়ে গেল বড় ভবিষ্যদ্বাণী।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/after-bnp-won-a-decisive-victory-his-pet-cat-post-on-social-media-smc-2539145.html",
     "time": "2026-02-13T11:39:39.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "একক দাপটে সরকার গড়ার পথে বিএনপি, শনিবারই শপথ তারেক রহমানের, জল্পনা সর্বত্রই",
-    "desc": "বাংলাদেশের নয়া প্রধানমন্ত্রী তারেক রহমান! কাল প্রধানমন্ত্রী হিসেবে তারেক রহমানের শপথের সম্ভাবনা। ১৭ বছর পর দেশে ফিরে তারেক রহমানের বাজিমাত। পদ্মাপাড়ে একাই সংখ্যাগরিষ্ঠ BNP। জোড়া আসনে BNP চেয়ারম্যান তারেক রহমানে জয়। খালেদার মৃত্যুতে সমবেদনার ভোট BNP-র ঝুলিতে!",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Bangla-News-2026-02-13T164601.594-2026-02-dd7880141073d1713c05a9119d71038a-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/international/bangladesh-election-results-2026-will-tomorrow-tareque-rehman-take-oth-as-bangladesh-prime-minister-arn-2539068.html",
-    "time": "2026-02-13T11:18:45.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "বাংলাদেশে কোন 'বিষয়' পড়তে ছোটেন ভারতীয় পড়ুয়ারা জানেন...? চমকাবেন শুনলেই!",
-    "desc": "বাংলাদেশ। প্রতিবেশী এই দেশটি এই মুহূর্তে ভারতে আলোচনার শীর্ষে। ভোটের ফলাফলে ইতিমধ্যেই স্পষ্ট বিএনপির ঝোড়ো জয়। দীর্ঘ অচলাবস্থার পর প্রতিষ্ঠিত হতে চলেছে নতুন সরকার। এই পরিস্থিতিতে এই মুহূর্তে ভারতের চর্চার কেন্দ্রে ফের এই প্রতিবেশী দেশ। আচ্ছা,জানেন কি এই দেশ থেকে প্রতিবছর কোন 'কোর্স' পড়তে পদ্মাপাড়ে ছোটেন ভারতীয় পড়ুয়ারা? কেনই বা ছোটেন? চলুন এই প্রতিবেদনে জেনে নেওয়া যাক সেই চমকে দেওয়া তথ্য!",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/India-Bangladesh-Student-2026-02-c443036f53fd538f0f678c105fca7284-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/education-career/bangladesh-do-you-know-why-indian-student-goes-to-bangladesh-to-study-which-subject-indian-students-rush-to-this-neighbouring-country-you-will-be-shocked-to-hear-the-answer-sanj-2538813.html",
-    "time": "2026-02-13T10:22:54.000Z"
   }
 ];
