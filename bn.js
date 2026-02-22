@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "Rajnikaanth- Kamal Hassan: ৪০ বছর পর পর্দায় কামব্যাক রজনী–কমল জুটির, ঘোষণা ‘কেএইচxআরকে’ প্রোজেক্ট",
+    "desc": "১৯৮৫ সালে ‘গিরফতার’ ছবিতে অমিতাভ বচ্চন-এর সঙ্গে একসঙ্গে স্ক্রিন শেয়ার করেছিলেন রজনীকান্ত ও কমল হাসান। সেই স্মৃতি আজও অমলিন ভক্তদের কাছে। এরপর কেটে গিয়েছে প্রায় চার দশক, কিন্তু আর কোনও ছবিতে তাঁদের একসঙ্গে দেখা যায়নি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Rajnikanth-Kamala-Hassan-2026-02-2b9e4f9f52bb118eea558d99995c617b-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/rajinikanth-kamal-haasan-reunion-after-40-years-khxrk-project-announced-sal-2552718.html",
+    "time": "2026-02-22T14:10:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "অষ্টম পে কমিশনে ন্যূনতম মাইনে কত হবে জানলে চমকে উঠবেন! নিজের চোখকেই বিশ্বাস করবেন না...",
+    "desc": "সপ্তম বেতন কমিশনে বেতন বৃদ্ধির জন্য ২.৫৭ ফিটমেন্ট ফ্যাক্টর ব্যবহার করা হয়েছিল। এটি দুটি ভাগে বিভক্ত ছিল-- মুদ্রাস্ফীতি অংশ ২.২৫। সে সময় ১২৫% মহার্ঘ ভাতা (DA) মূল বেতনের সঙ্গে মিলিয়ে দেওয়ার ফলে এই ফ্যাক্টরটি আসে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/8th-pay-commission-what-will-minimum-salary-be-if-real-hike-matches-7th-cpc-8th-pay-commission-minimum-salary-calculation-fitment-factor_642302.html ",
+    "time": "2026-02-22T13:47:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বড়সড় জঙ্গি নাশকতার ছক বানচাল, ISI-কে মদতের অভিযোগে গ্রেফতার ৮",
+    "desc": "দেশে বড়সড় নাশকতার ছক! জঙ্গি-যোগে দিল্লি পুলিশের ধরপাকড়। পাক জঙ্গি যোগে দিল্লি পুলিশের জালে ৮। পাক-বাংলাদেশ জঙ্গি সংগঠনের হয়ে কাজের অভিযোগ। তামিলনাড়ু থেকে ৬ জনকে গ্রেফতার করেছে পুলিশ। পশ্চিমবঙ্গ থেকে আরও ২ জন গ্রেফতার। পাক গুপ্তচর সংস্থার ISI-এর সঙ্গে ধৃতদের যোগাযোগ!",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/terror-attack-2026-02-b80e017082a9bd646c949b53cabec8c3-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/terror-attack-in-india-8-arrested-by-delhi-police-rc-2552672.html",
+    "time": "2026-02-22T12:57:05.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "পুত্রসন্তানের জন্ম দিতে পারেননি, স্ত্রীকে গলা কেটে খুনই করে ফেলল ৩ কন্যার বাবা! পরে থানায় আত্মসমর্পণ",
     "desc": "পুত্রসন্তানের অপেক্ষায় অধৈর্য স্বামী! ভয়ঙ্কর পরিণতি হল ৩ সন্তানের জননী স্ত্রীর। জামুইতে ভয়াবহ কাণ্ড। ঘটনার খবর পেয়ে মৃতার পরিবার পুলিশকে জানায়। পুলিশ ঘটনাস্থলে পৌঁছে দেহ উদ্ধার করে ময়নাতদন্তে পাঠিয়েছে। হত্যাকাণ্ডে ব্যবহৃত ধারালো অস্ত্র উদ্ধার হয়েছে বলে জানিয়েছেন এসডিপিও। অভিযুক্তকে জিজ্ঞাসাবাদ করা হচ্ছে।",
@@ -412,15 +439,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/rajya-sabha-election-march-16-mausam-noor-resigns-voting-in-five-seats-rmj-ws-l-2546035.html",
     "time": "2026-02-18T11:22:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "কী করবি ভাই জেনে, যা করার করেছি! MBA তরুণীকে মেরে নির্বিকার প্রেমিকের হাসিমুখে ব্যঙ্গ... অবিশ্বাস্য...",
-    "desc": "ইন্দোরে বিয়ের দাবিতে চাপ দেওয়ায় ২৪ বছর বয়সী প্রেমিকাকে হাত-পা বেঁধে শ্বাসরোধ করে খুন প্রেমিকের। খুনের পর মৃতদেহের পাশেই বসে সে মদ্যপান করে এবং পরে পালিয়ে যায়। পুলিস অভিযুক্তকে গ্রেফতার করলেও তার মধ্যে কোনো অনুশোচনা দেখা যায়নি, বরং সে উদ্ধত আচরণ করছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/indore-man-arrested-for-killing-24-year-old-girlfriend-shows-no-remorse-during-arrest_641807.html ",
-    "time": "2026-02-18T11:22:09.000Z"
   },
   {
     "cat": "Politics",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/bangladesh-election-2026-ncp-nahid-islam-won-the-seat-but-many-ncp-leaders-failed-to-compete-in-this-election-smc-2539256.html",
     "time": "2026-02-13T13:31:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "প্রথমে বাংলায় ট্যুইট, এবার তারেককে ফোন করলেন মোদি...! বিপুল জয়ের জন্য জানালেন শুভেচ্ছা",
-    "desc": "বিএনপি বড়সড় জয়ের পথে হাঁটতেই সকাল সকাল দলের চেয়ারম্যান তারেক রহমানকে সোশ্যাল মিডিয়ায় বাংলায় পোস্ট দিয়ে শুভেচ্ছো জানিয়েছিলেন প্রধানমন্ত্রী নরেন্দ্র মোদি। এবার করলেন ফোন। নিজেই সোশ্যাল মিডিয়ায় শেয়ার করলেন সেই সৌজন্য ফোনালাপের কথা। ট্যুইট করে জানালেন \"তারেক রহমানের সঙ্গে কথা বলতে পেরে আমি আনন্দিত।\"",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/modi-tareque-2026-02-0bf07b9d01f3e29fcaa6a742cf7aa9df-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/india-bangladesh-relation-narendra-modi-to-tarique-rahman-prime-minister-modi-calls-bnp-chairman-to-congratulate-him-after-bnps-massive-win-in-bangladesh-election-2026-sanj-2539070.html",
-    "time": "2026-02-13T11:44:57.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "'ক্লান্ত কিন্তু খুশি' বাংলাদেশ নির্বাচনে বিএনপির জয়জয়কারের মাঝেই পোস্ট তারেক রহমানের পোষ্যের!",
-    "desc": "বাংলাদেশের নির্বাচনে বিএনপির জয়জয়কার! দীর্ঘ ১৭ বছর পর বাংলাদেশে ফিরেই প্রধানমন্ত্রীর আসনে বসতে চলেছেন খালেদা পুত্র তারেক রহমান । ফলাফলে বিএনপির পক্ষে জনমত স্পষ্ট হতেই সোশাল মিডিয়ায় তারেককে শুভেচ্ছা জানালেন তাঁরই পোষ্যই জেবু। বাংলাদেশে আসার পর থেকেই সকলের নজর কেড়েছিল এই বিশেষ প্রজাতির বিড়াল।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/tarique-_zebu_cover-2026-02-2902b3a2f26c633c797eda4d3c5dfbad-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/after-bnp-won-a-decisive-victory-his-pet-cat-post-on-social-media-smc-2539145.html",
-    "time": "2026-02-13T11:39:39.000Z"
   }
 ];

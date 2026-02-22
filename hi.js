@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why is Heinrich Klaasen not playing India vs South Africa clash in Super Eights of the T20 World Cup 2026?",
+    "desc": "Star South Africa keeper-batter Heinrich Klaasen retired from international cricket in June last year. He wanted to focus on franchise cricket and opted out of international cricket for the same reason. However, South Africa seem...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-heinrich-klaasen-not-playing-india-vs-south-africa-clash-in-super-eights-of-the-t20-world-cup-2026-2026-02-22-1031267",
+    "time": "2026-02-22T14:31:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Anrich Nortje not playing vs India in T20 World Cup 2026 clash in Ahmedabad?",
+    "desc": "South Africa have benched Anrich Nortje in the high-voltage Super Eights clash against India at the Narendra Modi Stadium in Ahmedabad. Due to poor form, the pacer was benched in the Proteas’ first three matches...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-anrich-nortje-not-playing-vs-india-in-t20-world-cup-2026-clash-in-ahmedabad-2026-02-22-1031263",
+    "time": "2026-02-22T13:48:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Axar Patel not playing India vs South Africa clash in Super Eights of the T20 World Cup 2026?",
+    "desc": "India have benched Axar Patel in the high-voltage Super Eights clash against South Africa at the Narendra Modi Stadium in Ahmedabad. Captain Suryakumar Yadav explained that it must be hard on the all-rounder, given that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-axar-patel-not-playing-india-vs-south-africa-clash-in-super-eights-of-the-t20-world-cup-2026-2026-02-22-1031260",
+    "time": "2026-02-22T13:20:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England register 12th consecutive win over Sri Lanka, thump hosts in T20 World Cup Super 8 round",
+    "desc": "England have finally arrived at the T20 World Cup with a massive 51-run win over Sri Lanka in their opening Super 8 clash in Pallekele. They defended 146 runs comfortably with their spinners leading the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-register-12th-consecutive-win-over-sri-lanka-thump-hosts-in-t20-world-cup-super-8-round-2026-02-22-1031257",
+    "time": "2026-02-22T12:50:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Sport doesn’t care about feelings'",
     "desc": "Senior India batter Smriti Mandhana played a scintillating knock of 82 runs off 55 balls in the third and final T20I at the Adelaide Oval. Jemimah Rodrigues played the perfect role of the second fiddle,...",
     "img": "",
@@ -43,41 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ahmedabad-weather-will-rain-play-spoilsport-in-india-vs-south-africa-clash-in-t20-world-cup-2026-2026-02-22-1031237",
     "time": "2026-02-22T10:02:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What will happen if Pallekele weather washes out SL vs ENG T20 World Cup 2026 Super Eight clash?",
-    "desc": "With the Pallekele weather in focus, Sri Lanka meet England in their first match of the T20 World Cup 2026 Super Eight at the Pallekele International Cricket Stadium on Sunday, February 22. The clash is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-will-happen-if-pallekele-weather-washes-out-sl-vs-eng-t20-world-cup-2026-super-eight-clasha-2026-02-22-1031232",
-    "time": "2026-02-22T08:58:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Buttler flops again, Bethel joins Salt",
-    "desc": "Sri Lanka and England are set for a high-stakes showdown in the Super Eight stage of the T20 World Cup, with both teams eager to build momentum at a crucial juncture of the tournament. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sl-vs-eng-t20-world-cup-2026-super-eight-live-cricket-score-sri-lanka-vs-england-pallekele-cricket-sadium-latest-match-updates-scorecard-teams-2026-02-22-1031231",
-    "time": "2026-02-22T08:28:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Women's Asia Cup Rising Stars final: India A beat Bangladesh A by 46 runs to lift trophy",
-    "desc": "The Women’s Asia Cup Rising Stars 2026 final is currently underway, featuring a face-off between India A and Bangladesh A. The final is being played at the Therdthai Cricket Ground in Bangkok, Thailand, where India...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/womens-asia-cup-rising-stars-final-live-cricket-score-india-a-vs-bangladesh-a-terdthai-cricket-ground-bangkok-latest-match-updates-scorecard-teams-2026-02-22-1031225",
-    "time": "2026-02-22T07:15:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will SL vs ENG T20 World Cup 2026 Super Eight match get washed out due to rain?",
-    "desc": "Sri Lanka and England lock horns against each other in their opening Super Eight game in the T20 World Cup 2026 at the Pallekele International Cricket Stadium, Pallekele, on Sunday, February 22. The two teams...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pallekele-weather-today-will-sl-vs-eng-t20-world-cup-2026-super-eight-match-get-washed-out-due-to-rain-2026-02-22-1031224",
-    "time": "2026-02-22T07:01:03.000Z"
   }
 ];

@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "ભારત રશિયાને બદલે આ દેશ પાસેથી મોટી માત્રામાં ખરીદી રહ્યું છે ક્રૂડ ઓઇલ, ત્રીજા નંબરે પહોંચ્યું ઇરાક, જાણો",
+    "desc": "અમેરિકાના પ્રતિબંધ બાદ ભારતે રશિયા પાસેથી તેલ ખરીદી કરવાનું ઓછું કરી દીધુ હતું, જો કે રશિયા સાથે ઘટાડો કરીને ભારતે આ દેશ સાથે ખરીદીમાં વધારો કર્યો છે. ભારતને કોઈ એવા દેશની જરૂર હતી, જે તેની બજાર જરૂરીયાતો માટે મોટા પાયે તેલ આપે અને ભારત તે તરફ આગળ વધી રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/india-is-buying-large-quantities-of-crude-oil-from-this-country-instead-of-russia-iraq-has-reached-the-third-position-know-465848 ",
+    "time": "2026-02-22T14:07:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "આર્યએ ગોપાલને આપ્યો 7 દિવસનો ચેલેન્જ, તુમ સે તુમ તકમાં આવવાનો મોટો વળાંક",
+    "desc": "તુમ સે તુમ તકમાં અનુ અને મોહિતના લગ્ન તૂટી ગયા પછી, પુષ્પા તેની પુત્રી અને આર્યાને ફરીથી મિલાવવા માટે મક્કમ બને છે. આર્યા ગોપાલને મળવા માટે જાય છે અને ચેલેન્જ આપીને આવે છે, ત્યારે આગામી દિવસોમાં જોવાનું રહેશે કે આર્ય પોતાના પ્લાનમાં સફળ થાય છે કે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/arya-gave-gopal-a-7-day-challenge-a-big-twist-in-tumm-se-tumm-tak-465841 ",
+    "time": "2026-02-22T13:13:22.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ઈરાન પર અમેરિકા ક્યારે કરશે હુમલો? પૂર્વ CIA અધિકારીનો સનસનીખેજ દાવો, જાણો દિવસ અને તારીખ",
+    "desc": "અમેરિકા-ઈરાન તણાવ ચરમસીમાએ પહોંચી ગયો છે. આ વચ્ચે પૂર્વ સીઆઈએ અધિકારી જોન કિરિયાકુએ એક પોડકાસ્ટમાં એક સનસનીભર્યો દાવો કર્યો છે કે, અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ઈરાન પર લશ્કરી હુમલો કરવાનો અંતિમ નિર્ણય લઈ લીધો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/when-will-the-us-attack-iran-former-cia-officer-reveals-the-day-and-date-465840 ",
+    "time": "2026-02-22T13:04:24.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "WhatsAppમાં આવી રહ્યું છે ધાંસુ ફીચર! હવે મેસેજ થશે શેડ્યુલ, જાણો કેવી રીતે કરશે કામ",
     "desc": "WhatsApp માટે મેસેજ શેડ્યુલ ટૂંક સમયમાં રિલીઝ કરવામાં આવશે. આ ફીચર હાલમાં ડેવલપમેન્ટ ફેજમાં છે, જેની જાણકારી Wabetainfo દ્વારા શેર કરવામાં આવી છે. શેડ્યુલ મેસેજ ફીચર ગ્રુપ અને પર્સનલ ચેટ બન્નેમાં જોવા મળશે. ચાલો તેના વિશે વિગતવાર જાણીએ.",
@@ -468,15 +495,6 @@ const newsData_gu = [
     "time": "2026-02-18T17:31:55.000Z"
   },
   {
-    "cat": "World",
-    "title": "ઇતિહાસનું સૌથી મોટી &amp;#039;બેસ્ટસેલર&amp;#039; બુક! 2000 વર્ષ પહેલા આ પુસ્તક માટે પાગલ હતી દુનિયા, કેવી રીતે છપવામાં આવી હતી લાખો કોપી?",
-    "desc": "સંશોધકોએ આ પુસ્તકની ઓળખ કરી છે, જેને ઈસવીસન પૂર્વે પહેલી સદી અને ત્યાર પછીની દુનિયાનું સૌથી મોટું 'બેસ્ટસેલર' માનવામાં આવે છે. આ પુસ્તક કોઈ ધાર્મિક ગ્રંથ નહીં, પરંતુ એક કાલ્પનિક રોમાંચ અને વીરતાની કહાની હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/alexander-romance-ancient-most-popular-ancient-book-history-465463 ",
-    "time": "2026-02-18T16:56:24.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "0, 0, 0... અભિષેક શર્માનો વર્લ્ડ કપમાં ફ્લોપ શો, નંબર-1 બેટ્સમેને બનાવ્યો શરમજનક રેકોર્ડ",
     "desc": "ટી20 વર્લ્ડ કપ 2026માં અભિષેક શર્માના ફોર્મમાં અચાનક ઘટાડો જોવા મળ્યો છે. અભિષેક શર્મા આ ટૂર્નામેન્ટમાં સતત ત્રીજી વખત શૂન્ય (ડક) પર આઉટ થયો છે. બુધવાર 18 ફેબ્રુઆરીના રોજ અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમમાં નેધરલેન્ડ સામે ભારતની છેલ્લી અને ફાઈનલ ગ્રુપ-A મેચમાં પણ અભિષેક શર્મા પોતાનું ખાતું ખોલાવી શક્યો નહોતો.",
@@ -520,15 +538,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/what-is-the-meaning-of-the-letters-r-p-j-and-v-written-on-the-tires-people-do-not-know-the-secret-hidden-in-it-465392 ",
     "time": "2026-02-18T09:32:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AI સમિટમાં રોબોટિક ડોગે ગલગોટિયા યુનિવર્સિટીનું નાક કપાવ્યું, સરકાર કહ્યું- &amp;#039;અહીથી જતા રહો&amp;#039;, જાણો શું છે મામલો",
-    "desc": "નવી દિલ્હીના ભારત મંડપમ ખાતે ઈન્ડિયા એઆઈ ઈમ્પેક્ટ સમિટ 2026 ચાલુ છે. છેલ્લા બે દિવસથી આ સમિટની ચર્ચા વૈશ્વિક સ્તરે છે. સમિટની શરૂઆત 16 ફેબ્રુઆરીએ થઈ હતી અને 20 ફેબ્રુઆરી સુધી ચાલશે. પરંતુ અચાનક કઈક એવું થયું કે સરકારના ભવા ચડી ગયા અને ગલગોટિયા યુનિવર્સિટીને બિસ્તરા પોટલી સંકેલી આઉટનો સંકેત આપી દીધો. જાણો સમગ્ર મામલો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ai-impact-summit-2026-galgotias-university-under-fire-chinese-robotic-dog-row-465357 ",
-    "time": "2026-02-18T07:45:26.000Z"
   },
   {
     "cat": "Tech",
@@ -583,14 +592,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/shahid-kapoor-film-o-romeo-review-and-opening-box-office-collection-464929 ",
     "time": "2026-02-14T11:23:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "મોહિતને છોડી આર્યવર્ધન સાથે વેલેન્ટાઇન ડે મનાવશે અનુ, નવા એપિસોડના ફોટા થયા લીક, જાણો",
-    "desc": "ટીવી સીરિયલ 'તુમ સે તુમ તક'માં વેલેન્ટાઇન ડે ઉજવવામાં આવશે. પરંતુ પહેલા, ડૉ. મોહિત અનુના જીવનમાંથી હંમેશ માટે વિદાય લેશે. આર્યા વેલેન્ટાઇન ડે પર અનુને ડેટ પર લઈ જશે, જે અનુ અને આર્યાને ફરીથી એકબીજાની નજીક લાવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/anu-will-celebrate-valentine-day-with-aryavardhan-instead-of-mohit-photos-from-the-new-episode-have-been-leaked-know-464838 ",
-    "time": "2026-02-13T13:42:26.000Z"
   }
 ];

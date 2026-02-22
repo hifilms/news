@@ -1,6 +1,186 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "‘Quantum Century’ expo draws enthusiastic crowds",
+    "desc": "The ‘Quantum Century Exhibition’ at the Government College for Women in Vazhuthacad features engaging demonstrations by science students, breaking down complex theories and celebrates the contributions of pioneering women scientists like Bibha Chowdhuri and Thayyoor K. Radha.",
+    "img": "https://th-i.thgim.com/public/incoming/7pxjd1/article70663985.ece/alternates/LANDSCAPE_1200/NH22QuantumCentury03.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/demystifying-the-microscopic-quantum-century-expo-draws-enthusiastic-crowds/article70663908.ece",
+    "time": "2026-02-22T14:50:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Eight persons with alleged links to Pakistan, Bangladesh terror outfits arrested from Bengal, Tamil Nadu",
+    "desc": "According to the police, phones recovered from the eight arrested — one identified to be from West Bengal and the rest as Bangladesh nationals — revealed that they had done reconnaissance of different cities and had been planning a major terror activity in heavy footfall and sensitive areas.",
+    "img": "https://th-i.thgim.com/public/incoming/v1yxd1/article70663949.ece/alternates/LANDSCAPE_1200/20260222170L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/eight-persons-with-alleged-links-to-pakistan-bangladesh-terror-outfits-arrested-from-bengal-tamil-nadu/article70663339.ece",
+    "time": "2026-02-22T14:37:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bennett’s role is to bat as long as he can: Raza",
+    "desc": "Zimbabwe captain Sikandar Raza backed the young opener to continue to adopt the same approach despite the batter-friendly conditions in India in the Super Eight as compared to the Sri Lankan pitches where Zimbabwe played its group-stage matches",
+    "img": "https://th-i.thgim.com/public/incoming/a6so3t/article70663783.ece/alternates/LANDSCAPE_1200/Sri_Lanka_Zimbabwe_T20_WCup_Cricket_18576.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/bennetts-role-is-to-bat-as-long-as-he-can-raza/article70663788.ece",
+    "time": "2026-02-22T14:31:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Play what's in front of you': WI coach defends Super 8 pre-seeding amid debate",
+    "desc": "West Indies coach Daren Sammy defended the T20 World Cup's pre-seeding system, suggesting it motivated teams like Zimbabwe to exceed expectations. He highlighted the logistical benefits for fans and noted that group placements can inspire teams to perform at a higher level. Sammy emphasized respecting all opponents, regardless of perceived status.",
+    "img": "https://static.toiimg.com/photo/msid-128679205,imgsize-37724.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/play-whats-in-front-of-you-west-indies-coach-defends-super-8-pre-seeding-amid-debate/articleshow/128679091.cms",
+    "time": "2026-02-22T14:25:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Global power that is India': Benjamin Netanyahu's message ahead of PM Modi's Israel visit",
+    "desc": "Israeli Prime Minister Benjamin Netanyahu hailed India as a \"global power\" ahead of Prime Minister Narendra Modi's upcoming visit. Netanyahu emphasized the \"special relationship\" forged between the two nations and their leaders, highlighting plans to strengthen economic, diplomatic, and security ties. The visit, Modi's second to Israel, will include a speech at the Knesset and a visit to Yad Vashem.",
+    "img": "https://static.toiimg.com/photo/msid-128679086,imgsize-763335.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/global-power-that-is-india-benjamin-netanyahus-message-ahead-of-pm-modis-israel-visit/articleshow/128678949.cms",
+    "time": "2026-02-22T14:14:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "SBI plans to raise green advances share up to 10% by 2030, launches centre for sunrise sectors",
+    "desc": "State Bank of India aims to increase its green advances to 7.5-10% of its loan portfolio by 2030, supporting India's sustainable financing goals. The bank launched CHAKRA, a Centre of Excellence for green financing, and hosted its Green Marathon to promote environmental commitment and collective climate action.",
+    "img": "https://static.toiimg.com/photo/msid-128678783,imgsize-787101.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/sbi-plans-to-raise-green-advances-share-to-up-to-10-by-2030-launches-centre-for-sunrise-sectors/articleshow/128678790.cms",
+    "time": "2026-02-22T14:01:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Opened a massage parlour?' 3 northeastern women 'racially abused' by neighbours in south Delhi; video goes viral",
+    "desc": "Three women from Arunachal Pradesh alleged racial slurs and humiliation by neighbours in Malviya Nagar, Delhi, after a dispute over repair work. A viral video captured the incident, leading to an FIR against the couple for offensive remarks and intimidation. The women seek an apology and fear for their safety.",
+    "img": "https://static.toiimg.com/photo/msid-128678666,imgsize-462951.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/opened-a-massage-parlour-3-northeastern-women-racially-abused-by-neighbours-in-south-delhi-video-goes-viral/articleshow/128677467.cms",
+    "time": "2026-02-22T13:55:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sriram Raghavan admits he unhappy with Ikkis disclaimer",
+    "desc": "Months after Ikkis hit theatres and earned critical acclaim, director Sriram Raghavan has addressed the controversy surrounding the film’s disclaimer that called Pakistan “not at all trustworthy.” In a recent interview, the filmmaker admitted that he was not personally happy with the inclusion of the statement.",
+    "img": "https://static.toiimg.com/photo/msid-128678640,imgsize-35750.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sriram-raghavan-admits-he-wasnt-happy-with-ikkis-disclaimer-calling-pakistan-not-at-all-trustworthy-cites-badlapur-changes-as-example/articleshow/128678454.cms",
+    "time": "2026-02-22T13:55:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bhupen Borah’s BJP switch: Ghosts of past rifts haunt Congress before Assam elections",
+    "desc": "Congress faces a significant setback in Assam as former state chief Bhupen Borah joins the BJP, echoing past defections. Borah cited humiliation and marginalization by party leaders Gaurav Gogoi and Rakibul Hussain as reasons for his departure, highlighting internal rifts ahead of assembly elections.",
+    "img": "https://static.toiimg.com/photo/msid-128677521,imgsize-839366.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bhupen-borahs-bjp-switch-ghosts-of-past-rifts-haunt-congress-before-assam-elections/articleshow/128677463.cms",
+    "time": "2026-02-22T13:47:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Army personnel, dismissed cop among six arrested for links to Pakistan-backed drug cartel in Punjab",
+    "desc": "\"In a breakthrough, Faridkot Police, after a two-month-long jail-based interception, busts a well-organised heroin trafficking network, apprehends six accused, including one Army personnel and one dismissed police personnel, and recovers 4.8 kilograms of heroin, one weapon, and a Thar and an XUV,\" says DGP",
+    "img": "https://th-i.thgim.com/public/news/national/64ypig/article70663628.ece/alternates/LANDSCAPE_1200/iStock-1153503786%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/punjab/army-personnel-dismissed-cop-among-six-arrested-for-links-to-pakistan-backed-drug-cartel-in-punjab/article70663500.ece",
+    "time": "2026-02-22T13:35:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Jai Hanuman’: Rishab begins filming with sacred puja in Hampi",
+    "desc": "The epic mythological film ‘Jai Hanuman’ has commenced production with a sacred muhurat ceremony at Anjanadri Betta, believed to be Lord Hanuman's birthplace. National Award winner Rishab Shetty embodies the titular role, promising a grand spectacle. This venture expands the ‘Hanu-Man’ universe, shifting focus to the deity's legend, with Teja Sajja also present at the launch.",
+    "img": "https://static.toiimg.com/photo/msid-128677975,imgsize-39694.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/jai-hanuman-rishab-shetty-begins-filming-with-sacred-puja-in-hampi-teja-sajja-attends-ceremony/articleshow/128677989.cms",
+    "time": "2026-02-22T13:30:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED sets target of filing 500 charge sheets this fiscal; completing probe in 1-2 years",
+    "desc": "“The target of filing 500 prosecution complaints in the current financial year was reiterated, and all field formations were urged to make concerted efforts to achieve the same while also preparing for an enhanced target in the next financial year,” officials said.",
+    "img": "https://th-i.thgim.com/public/incoming/59cloe/article70537644.ece/alternates/LANDSCAPE_1200/2024-03-22T105959Z_1681516959_RC2WK6A5A7DZ_RTRMADP_3_INDIA-ELECTION-OPPOSITION-DIRECTORATE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ed-charge-sheets-target-fiscal-year-completing-probe-in-1-2-years/article70663281.ece",
+    "time": "2026-02-22T13:29:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sanjeeda Shaikh to be seen in Yash starrer ‘Toxic’?",
+    "desc": "Yash's 'Toxic', releasing March 19, 2026, features Nayanthara, Kiara Advani, Huma Qureshi, Rukmini Vasanth, and Tara Sutaria, with Sanjeeda Shaikh in a special pivotal role—her pan-India debut. Post 'Fighter' and 'Heeramandi', she's also in 'Dhamaal 4' and Netflix's 'Ikka'. The teaser showcases Yash's dramatic transformation amid a gritty, global world.",
+    "img": "https://static.toiimg.com/photo/msid-128677856,imgsize-19714.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanjeeda-shaikh-to-be-seen-in-geetu-mohandas-yash-starrer-toxic-all-about-her-special-appearance-reports/articleshow/128677856.cms",
+    "time": "2026-02-22T13:23:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi CM Rekha Gupta",
+    "desc": "\"She wants to perpetuate this and hence is trying to stall the SIR exercise, which aims at identifying and deporting infiltrators. Imagine a Chief Minister going to the apex court to argue against an exercise meant to ensure free and fair polls,\" says CM Gupta",
+    "img": "https://th-i.thgim.com/public/incoming/yjcqlo/article70663424.ece/alternates/LANDSCAPE_1200/PTI02_22_2026_000092A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/people-of-bengal-have-made-up-mind-to-oust-tmc-delhi-cm-rekha-gupta/article70663382.ece",
+    "time": "2026-02-22T13:21:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Why did India not wait?’: Jairam Ramesh questions timing of US trade deal; cites Supreme Court tariff ruling",
+    "desc": "Congress MP Jairam Ramesh questioned the Centre's decision to agree to a trade deal framework with Washington before the US Supreme Court ruled on Trump tariffs. He argued India could have negotiated from a stronger position had it waited for the court's verdict, which ultimately found the administration exceeded its authority on tariffs.",
+    "img": "https://static.toiimg.com/photo/msid-128677943,imgsize-16824.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/why-did-india-not-wait-jairam-ramesh-questions-timing-of-us-trade-deal-cites-supreme-court-tariff-ruling/articleshow/128677808.cms",
+    "time": "2026-02-22T13:20:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Zareen Khan shares emotional update as mom hospitalised again",
+    "desc": "Zareen Khan has once again left fans concerned after revealing that her mother has been hospitalised again. Taking to her Instagram Stories, Salman Khan's Veer co-star shared an emotional note, urging everyone to keep her mother in their prayers during this difficult phase.",
+    "img": "https://static.toiimg.com/photo/msid-128677671,imgsize-59680.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zareen-khan-shares-emotional-update-as-mother-hospitalised-again-please-keep-her-in-your-prayers/articleshow/128677217.cms",
+    "time": "2026-02-22T13:15:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "From posters in Delhi to raids in Tamil Nadu &amp; Bengal: How cops busted Pakistan-based terror plot in India",
+    "desc": "Delhi Police busted a Pakistan-linked LeT terror module, arresting eight suspects across Delhi, West Bengal, and Tamil Nadu. The group, directed by a Bangladesh-based handler, allegedly pasted anti-national posters and planned terror activities. This operation thwarted a major untoward incident, with intelligence suggesting potential IED attacks.",
+    "img": "https://static.toiimg.com/photo/msid-128677595,imgsize-100648.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/from-posters-in-delhi-to-raids-in-tamil-nadu-bengal-how-cops-busted-pakistan-based-terror-plot-in-india/articleshow/128677346.cms",
+    "time": "2026-02-22T13:14:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Samantha’s ‘Maa Inti Bangaaram’ release date announced",
+    "desc": "Samantha Ruth Prabhu is set to captivate audiences in 'Maa Inti Bangaaram', a Telugu drama slated for a worldwide theatrical release on May 15, 2026. The film, co-produced by Samantha, promises a deeply emotional and family-centric narrative, showcasing a woman's resilience through strength and vulnerability. Early glimpses hint at an intense, performance-driven story.",
+    "img": "https://static.toiimg.com/photo/msid-128677455,imgsize-109002.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/samantha-ruth-prabhus-maa-inti-bangaaram-release-date-announced-actress-promises-emotional-family-drama/articleshow/128677471.cms",
+    "time": "2026-02-22T13:06:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hara-kiri at Pallekele! Sri Lanka batters surrender meekly; England win by 51 runs",
+    "desc": "Phil Salt’s sublime 62 laid the foundation for England’s commanding win before Sri Lanka’s batting imploded spectacularly in Kandy. After their bowlers restricted England to a below-par 146, Sri Lanka collapsed in a heap, undone by reckless shot selection and relentless pressure from England’s attack, led by Will Jacks and Jofra Archer.",
+    "img": "https://static.toiimg.com/photo/msid-128676932,imgsize-57918.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/hara-kiri-at-pallekele-sri-lankas-batters-surrender-meekly-as-phil-salts-sublime-62-powers-england-to-a-51-run-win/articleshow/128676935.cms",
+    "time": "2026-02-22T12:59:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bizarre! Sri Lanka batter hits his own stumps in SL vs ENG",
+    "desc": "Dushan Hemantha’s bizarre hit-wicket dismissal stunned fans during Sri Lanka’s Super 8 match against England and quickly went viral. Earlier, Sri Lanka bowlers restricted England to 146/9, with Dunith Wellalage taking 3/26 and key wickets of Jos Buttler and Harry Brook. Phil Salt top-scored with 62, but lacked support as England posted a modest total.",
+    "img": "https://static.toiimg.com/photo/msid-128676836,imgsize-34414.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/bizarre-sri-lanka-batter-hits-his-own-stumps-in-sl-vs-eng-t20-world-cup-super-8-clash-watch/articleshow/128676798.cms",
+    "time": "2026-02-22T12:38:26.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "'Imperils Republic's image': Delhi court blasts Congress' 'shirtless' protest at AI Summit",
     "desc": "A Delhi court has remanded four Indian Youth Congress workers to five-day police custody, deeming their protest at the AI Impact Summit-2026 a \"blatant assault on public order\" that harmed India's diplomatic image. The activists wore provocative T-shirts, chanted slogans, and assaulted police personnel, raising concerns about potential external conspiracies and absconding associates.",
     "img": "https://static.toiimg.com/photo/msid-128676726,imgsize-956757.cms",
@@ -25,15 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/that-was-his-home-his-food-i-got-work-thanks-to-him-rajpal-yadav-has-heartfelt-response-to-nawazuddin-siddiquis-langar-comments/articleshow/128675485.cms",
     "time": "2026-02-22T11:49:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Public open universities’ V-C’s round table conference in Thiruvananthapuram from February 23",
-    "desc": "Key objectives of the meet include developing a credit transfer framework among open universities, leveraging digital technologies to modernise pedagogy, democratising access to higher education, promoting effective use of Artificial Intelligence in distance education and increasing learner enrolment",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/public-open-universities-v-cs-round-table-conference-in-thiruvananthapuram-from-february-23/article70663036.ece",
-    "time": "2026-02-22T11:27:09.000Z"
   },
   {
     "cat": "Sports",
@@ -99,15 +270,6 @@ const newsData_en = [
     "time": "2026-02-22T10:45:52.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Congress seeks to implicate CMO in ‘wrongful arrest’ of Tantri in the Sabarimala gold theft case",
-    "desc": "Senior Congress leader Ramesh Chennithala said the Chief Minister Pinarayi Vijayan’s office (CMO) had scapegoated the Tantri to insulate former and present Devaswom Ministers, as well as the former Travancore Devaswom Board (TDB) president, P S Prasanth, from prosecution",
-    "img": "https://th-i.thgim.com/public/incoming/lzk8/article70662969.ece/alternates/LANDSCAPE_1200/NH09KantaruRajeevaru004.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/congress-seeks-to-implicate-cmo-in-wrongful-arrest-of-tantri-in-the-sabarimala-gold-theft-case/article70662917.ece",
-    "time": "2026-02-22T10:39:27.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Hardik Pandya gifts ex-wife a luxury car worth Rs 4 crore",
     "desc": "Hardik Pandya and ex-wife Natasa Stankovic continue to co-parent son Agastya with maturity. He recently gifted her a black Land Rover Defender worth around Rs 4 crore. Natasa posed happily with Agastya and the SUV, while Hardik also moves ahead with his new relationship with Mahieka Sharma.",
@@ -115,15 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hardik-pandya-gifts-ex-wife-natasa-stankovic-a-luxury-car-worth-rs-4-crore-poses-joyfully-with-son-agastya-pics/articleshow/128673321.cms",
     "time": "2026-02-22T10:28:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "T.N. Assembly election: DMK begins seat-sharing talks with allies, Congress leader K.C. Venugopal to meet Stalin",
-    "desc": "On February 22, the DMK’s seat-sharing committee began talks with leaders of the Indian Union Muslim League (IUML) at ‘Anna Arivalayam’. The IUML, which was allotted three seats in the 2021 Assembly elections, has now requested five seats.",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/9ljwau/article70663021.ece/alternates/LANDSCAPE_1200/DMK%20IUML%20seat%20sharing%20talks%202026.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-assembly-election-dmk-begins-seat-sharing-talks-with-allies-congress-leader-kc-venugopal-to-meet-mk-stalin/article70662783.ece",
-    "time": "2026-02-22T10:23:52.000Z"
   },
   {
     "cat": "Business",
@@ -225,15 +378,6 @@ const newsData_en = [
     "time": "2026-02-22T09:24:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM Modi pays tributes to Jayalalithaa, hails her welfare work for women of Tamil Nadu",
-    "desc": "In his monthly radio broadcast Mann Ki Baat, Mr. Modi said just a mention of \"Amma\" — as Jayalalithaa was often called — brings a glow to the faces of the people of Tamil Nadu",
-    "img": "https://th-i.thgim.com/public/incoming/ojbwax/article70662877.ece/alternates/LANDSCAPE_1200/27_NDC_Meeting_27_12_Del.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pm-modi-mann-ki-baat-former-tn-chief-minister-jayalalithaa/article70662873.ece",
-    "time": "2026-02-22T09:20:15.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Is Akshay Kumar joining 'Golmaal 5'? Arshad Warsi drops a massive hint",
     "desc": "Excitement builds for 'Golmaal 5' as Arshad Warsi hints at a collaboration with Akshay Kumar, potentially in a villainous role. Meanwhile, the popular series 'Asur' is progressing towards its third season, with scripts ready and shooting dates being finalized. Fans can anticipate the return of familiar faces in the upcoming comedy.",
@@ -279,15 +423,6 @@ const newsData_en = [
     "time": "2026-02-22T08:36:55.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Timothée Chalamet shares how he was once criticised by a co-star",
-    "desc": "In a candid moment, Timothée Chalamet shared a story about a fellow actor who openly doubted his acting prowess, prompting him to reflect on the nature of advice in the industry. The star of 'Marty Supreme' warned against those who inundate others with unsolicited guidance, hinting that it often comes from a place of insecurity.",
-    "img": "https://static.toiimg.com/photo/msid-128670227,imgsize-21240.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/timothe-chalamet-shares-how-a-co-star-criticized-him-once-beware-of-the-people-in-life-that-get-more-of-the-advice/articleshow/128670227.cms",
-    "time": "2026-02-22T08:35:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Brother vs brother as Morne, Albie Morkel split loyalties in IND vs SA clash",
     "desc": "Brothers Morne and Albie Morkel will face off as rival coaches in the T20 World Cup Super 8 clash between India and South Africa. Morne coaches India's bowling attack, while Albie serves as a consultant for South Africa, both aiming for victory despite their family ties. Their childhood backyard rivalries are now amplified on the international stage.",
@@ -304,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/weekly-market-recap-mcap-of-six-of-top-10-valued-firms-climbs-rs-63478-crore-lt-sbi-lead-gains/articleshow/128667863.cms",
     "time": "2026-02-22T08:10:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sohail Khan visits father Salim Khan at Lilavati hospital",
-    "desc": "Sohail Khan visited father Salim Khan at Lilavati Hospital amid his minor brain haemorrhage and ventilator support since Feb 17. Paparazzi caught him leaving with security. Family upset over media leaks; celebs like Ranveer Singh, Aamir Khan visited.",
-    "img": "https://static.toiimg.com/photo/msid-128669907,imgsize-18238.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sohail-khan-visits-father-salim-khan-at-lilavati-hospital-watch-video/articleshow/128669907.cms",
-    "time": "2026-02-22T07:58:23.000Z"
   },
   {
     "cat": "Business",
@@ -333,15 +459,6 @@ const newsData_en = [
     "time": "2026-02-22T07:52:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'The future is mid-size and high-concept films': 'Assi' director Anubhav Sinha",
-    "desc": "Filmmaker Anubhav Sinha, whose latest film 'Assi' is garnering praise, has reversed his stance on film distribution. He now believes mid-scale, high-concept films, rather than those rushing to OTT, hold the key to a good return on investment. Sinha remains committed to making socially relevant cinema, advocating for the right of filmmakers to create content they believe in.",
-    "img": "https://static.toiimg.com/photo/msid-128669294,imgsize-29000.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-future-is-mid-size-and-high-concept-films-anubhav-sinha-explains-his-complete-change-of-heart-after-assi-release/articleshow/128669311.cms",
-    "time": "2026-02-22T07:29:32.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "AI push, tribute to Jayalalithaa, message for students: Key takeaways from PM Modi’s 131st Mann Ki Baat address",
     "desc": "Prime Minister Modi, in his Mann Ki Baat address, highlighted AI's role in animal healthcare and agriculture, showcasing innovations at the AI Impact Summit. He also remembered Jayalalithaa, urged embracing Indian culture over foreign influences, and cautioned against digital fraud, emphasizing the importance of local products and organ donation.",
@@ -349,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/ai-push-tribute-to-jayalalithaa-message-for-students-key-takeaways-from-pm-modis-131st-mann-ki-baat-address/articleshow/128668973.cms",
     "time": "2026-02-22T07:19:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Iron Claw': What really happened to the Von Erich brothers?",
-    "desc": "The Iron Claw' chronicles the Von Erich brothers' wrestling dynasty, driven by their father Fritz's relentless ambition. Despite achieving stardom, the family was plagued by a series of devastating tragedies, leading to a narrative of a 'curse.' The film, now streaming on Netflix, explores these painful events and the enduring love within the family.",
-    "img": "https://static.toiimg.com/photo/msid-128668660,imgsize-31632.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-iron-claw-what-really-happened-to-the-von-erich-brothers-true-story-explained/articleshow/128668674.cms",
-    "time": "2026-02-22T06:59:56.000Z"
   },
   {
     "cat": "Politics",
@@ -385,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-season-4-part-2-the-blufftop-upcoming-ott-releases-to-watch-this-week/photostory/128668339.cms",
     "time": "2026-02-22T06:43:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Patrick and Brittany Mahomes celebrate daughter Sterling’s 5th birthday",
-    "desc": "Patrick and Brittany Mahomes celebrated daughter Sterling's fifth birthday with a fun-filled morning at the Peppa Pig Theme Park in Texas. Brittany shared adorable moments of Sterling enjoying rides and meeting characters. The proud mom also reflected on Sterling's milestone, admitting to feeling emotional. The article also touches upon Brittany's notable friendship with Taylor Swift and the Mahomes' family journey.",
-    "img": "https://static.toiimg.com/photo/msid-128668157,imgsize-27242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/patrick-and-brittany-mahomes-celebrate-daughter-sterlings-5th-birthday-with-sweet-peppa-pig-theme-park-surprise/articleshow/128668112.cms",
-    "time": "2026-02-22T06:36:15.000Z"
   },
   {
     "cat": "Sports",
@@ -477,15 +576,6 @@ const newsData_en = [
     "time": "2026-02-22T03:35:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Uttarakhand CM approves action against ineligible beneficiaries drawing dual pensions",
-    "desc": "The direction came on February 21, 2026 after a recent data analysis by the CAG related to government pensions in Uttarakhand uncovered alleged irregularities, revealing that 1,377 people in the State were receiving double pension benefits",
-    "img": "https://th-i.thgim.com/public/incoming/fmo0ug/article70662392.ece/alternates/LANDSCAPE_1200/20260217110L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-cm-approves-action-against-ineligible-beneficiaries-drawing-dual-pensions/article70662390.ece",
-    "time": "2026-02-22T03:35:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India’s nemesis De Kock flaunts SA’s new don’t-care attitude",
     "desc": "Quinton de Kock returns to international cricket with a seemingly indifferent attitude, reflecting a resurgent South African team that has shed its 'chokers' tag after winning the World Test Championship. De Kock, who missed the 2024 T20 World Cup final loss to India, claims no discussion has occurred about the past defeat, emphasizing a forward-looking approach under Aiden Markram's leadership.",
@@ -493,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/indias-nemesis-de-kock-flaunts-sas-new-dont-care-attitude/articleshow/128664519.cms",
     "time": "2026-02-22T03:34:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Unearthing the silent splendour of Hoysalas",
-    "desc": "In the rural parts of Hassan, Mandya and Mysuru in Karnataka, overlooked Hoysala-era temples and basadis reveal a thriving medieval kingdom’s devotion and sculptural mastery; through star-shaped platforms, serene shrines, finely sculpted pillars and quiet stepwells, the Hoysala imagination continues to whisper through stone",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/photos/in-frames-unearthing-the-silent-splendour-of-hoysalas/article70662399.ece",
-    "time": "2026-02-22T03:29:03.000Z"
   },
   {
     "cat": "Sports",
@@ -531,15 +612,6 @@ const newsData_en = [
     "time": "2026-02-22T02:30:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Five school teachers held in Odisha for 'raping' 13-year-old girl",
-    "desc": "The arrests were made after the father of the class 7 student and the district child welfare committee lodged separate complaints at the Rajkanika police station, alleging that the accused teachers had raped the minor, a senior officer said.",
-    "img": "https://th-i.thgim.com/public/news/national/ojliip/article70661283.ece/alternates/LANDSCAPE_1200/Domestic%20violence.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/odisha/five-school-teachers-held-in-odisha-for-raping-13-year-old-girl/article70661280.ece",
-    "time": "2026-02-22T01:38:45.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump raises U.S. global tariff rate from 10% to 15%",
     "desc": "After the Supreme Court ruled he didn’t have the emergency power to impose many sweeping tariffs, Donald Trump signed an executive order on the night of February 21 that enabled him to bypass Congress and impose a 10% tax on imports from around the world",
@@ -547,24 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/president-trump-15-tariff-increase-supreme-court-decision/article70661023.ece",
     "time": "2026-02-22T01:12:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Can Pakistan still qualify for semi-final after PAK vs NZ washout?",
-    "desc": "Rain washed out the Pakistan vs New Zealand Super 8 match, with both teams sharing one point and the semi-final race wide open. Pakistan must beat England and Sri Lanka to reach five points and likely qualify, while any loss could make their chances depend on other results. New Zealand face a similar situation, with wins now crucial to stay in control of their campaign.",
-    "img": "https://static.toiimg.com/photo/msid-128651756,imgsize-140570.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/can-pakistan-still-qualify-for-t20-world-cup-semi-final-after-pak-vs-nz-super-8s-rain-washout-in-colombo/articleshow/128651290.cms",
-    "time": "2026-02-22T00:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Poll rolls shrink by 1.7 crore (8%) in 9 states/UTs under SIR Phase 2",
-    "desc": "Nine states in Phase 2 of the special intensive revision (SIR) have seen their combined electorate drop by 7.9% to 19.7 crore. Over 1.7 crore electors were removed, with Andaman & Nicobar and Gujarat experiencing the steepest declines. Three states are yet to publish their final rolls.",
-    "img": "https://static.toiimg.com/photo/msid-128661320,imgsize-139496.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/poll-rolls-shrink-by-1-7-crore-8-in-9-states/uts-under-sir-phase-2/articleshow/128661262.cms",
-    "time": "2026-02-22T00:01:50.000Z"
   },
   {
     "cat": "Sports",
@@ -612,15 +666,6 @@ const newsData_en = [
     "time": "2026-02-21T20:36:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "St. Xavier’s University, Kolkata confers D.Litt on Shashi Tharoor at seventh convocation",
-    "desc": "Authorities of St Xavier’s University announced a number of new academic programmes including B. Tech degree course from 2026. The convocation ceremony saw degrees being awarded to 1052 postgraduate and undergraduate students and 25 Ph.D scholars",
-    "img": "https://th-i.thgim.com/public/news/national/c0kk4/article70661285.ece/alternates/LANDSCAPE_1200/IMG-20260221-WA0022.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/kolkata/st-xaviers-university-kolkata-confers-dlitt-on-shashi-tharoor-at-seventh-convocation/article70660879.ece",
-    "time": "2026-02-21T20:33:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Alcaraz downs Fils to win Qatar Open, extends perfect start to the year",
     "desc": "With ‌the win, Alcaraz improved to 12-0 ​for the year and collected his ninth ATP ⁠500 trophy, which drew him level ⁠with Andy Murray for fourth in the category ‌since its inception, according to the ATP.",
@@ -657,15 +702,6 @@ const newsData_en = [
     "time": "2026-02-21T18:17:56.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Ramalinga Reddy opens Living Spaces 2026, The Hindu Group’s annual realty expo",
-    "desc": "IDBI Bank’s pan India home loan book size was ₹72,000 crore as on December 31, 2025. Mumbai accounted for the major chunk of these loans followed by Bengaluru with a share of ₹13,000 core, indicating a spurt in home sales",
-    "img": "https://th-i.thgim.com/public/incoming/4qgpb8/article70661195.ece/alternates/LANDSCAPE_1200/_DSC9807.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/ramalinga-reddy-opens-living-spaces-2026-the-hindu-groups-annual-realty-expo/article70661123.ece",
-    "time": "2026-02-21T18:02:06.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "These Hulu dramas are a must try",
     "desc": "If you’re someone who doesn’t have many plans for the weekend, watching a binge-worthy series is the easiest way to escape the boredom. And if you can’t decide what to watch, then don’t worry, we’ve got you covered! This week we’ve brought together a list of binge-worthy shows from Hulu, which you can easily complete on a Sunday. ‘Normal People’, ‘Good American Family,’ and more; This list is a must try.This 8-episode limited series, starring Amanda Seyfried, is definitely binge-worthy. The series tells the unbelievable true story of Theranos, the blood-testing startup that promised to revolutionize healthcare but was built on a web of lies. Seyfried plays Elizabeth Holmes, capturing the infamous CEO’s ambition, vocal evolution, and ultimate descent into fraud.",
@@ -682,15 +718,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/we-played-enough-against-england-now-able-to-react-to-different-situations-sri-lanka-coach-sridhar/article70661175.ece",
     "time": "2026-02-21T17:59:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Corporators discuss summer preparedness in VMC council meeting",
-    "desc": "They call for steps to ensure clean and safe drinking water to residents, highlight supply of discoloured water in some areas, and stress the need to check mosquito menace; TDP and YSRCP members spar over progress of works under Nadu-Nedu",
-    "img": "https://th-i.thgim.com/public/incoming/6759ob/article70661181.ece/alternates/LANDSCAPE_1200/DSC_5584.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/corporators-discuss-summer-preparedness-in-vmc-council-meeting/article70660841.ece",
-    "time": "2026-02-21T17:45:19.000Z"
   },
   {
     "cat": "Tech",
@@ -711,15 +738,6 @@ const newsData_en = [
     "time": "2026-02-21T17:38:17.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Why has NGT cleared the Nicobar project?",
-    "desc": "Why does the government insist that the project is of strategic importance? What will India achieve by establishing a major cargo transshipment hub? What will happen to the biodiversity of the Great Nicobar Island? What are the concerns? Can coral colonies be translocated?",
-    "img": "https://th-i.thgim.com/public/incoming/8lh9m5/article70661125.ece/alternates/LANDSCAPE_1200/iStock-1164144410.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/why-has-ngt-cleared-the-nicobar-project-explained/article70661022.ece",
-    "time": "2026-02-21T17:16:17.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'Countries ripping the US off': Trump hikes worldwide tariff to 15% after Supreme Court setback",
     "desc": "US President Trump escalated a global tariff from 10% to 15% in response to a Supreme Court ruling that deemed his previous tariff actions illegal. The court questioned his authority to impose such duties without congressional approval. Trump stated the increase was effective immediately, targeting countries he believes have exploited the US.",
@@ -729,15 +747,6 @@ const newsData_en = [
     "time": "2026-02-21T16:31:33.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Rain washes out Pakistan vs New Zealand; Super 8 begins without a result",
-    "desc": "The Super Eight stage of the ICC Men's T20 World Cup 2026 commenced with a washout as rain prevented any play between Pakistan and New Zealand in Colombo. Both teams were awarded one point each, a result that could significantly impact their semi-final aspirations. The abandoned match has intensified the pressure on both sides for their upcoming fixtures.",
-    "img": "https://static.toiimg.com/photo/msid-128650150,imgsize-114204.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/rain-washes-out-pakistan-vs-new-zealand-super-8-begins-without-a-result/articleshow/128649951.cms",
-    "time": "2026-02-21T16:27:54.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "court sends four Youth Congress workers to five-day police custody",
     "desc": "The police claim that the aim of the custodial interrogation is to find out the ‘conspiracy’ behind the protest, the source of funding and place where the T-shirts worn by the accused were printed at.",
@@ -745,15 +754,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/iyc-workers-arrest-delhi-court-delhi-police-ai-summit-shirtless-protest/article70659356.ece",
     "time": "2026-02-21T16:27:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'Why did we compromise our ... ': Congress raises 7 questions after US court strikes down Trump tariffs",
-    "desc": "The Congress has criticized Prime Minister Modi over the recent India-US trade deal, alleging it's an \"anti-India deal\" influenced by external pressures. This comes after the US Supreme Court struck down Trump's tariffs, a move the opposition claims will now subject Indian goods to a 10% tariff, contradicting the interim agreement's terms.",
-    "img": "https://static.toiimg.com/photo/msid-128646431,imgsize-1294748.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/why-did-we-compromise-our-congress-raises-7-questions-after-us-court-strikes-down-trump-tariffs/articleshow/128645504.cms",
-    "time": "2026-02-21T13:57:59.000Z"
   },
   {
     "cat": "World",
