@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "পুত্রসন্তানের জন্ম দিতে পারেননি, স্ত্রীকে গলা কেটে খুনই করে ফেলল ৩ কন্যার বাবা! পরে থানায় আত্মসমর্পণ",
+    "desc": "পুত্রসন্তানের অপেক্ষায় অধৈর্য স্বামী! ভয়ঙ্কর পরিণতি হল ৩ সন্তানের জননী স্ত্রীর। জামুইতে ভয়াবহ কাণ্ড। ঘটনার খবর পেয়ে মৃতার পরিবার পুলিশকে জানায়। পুলিশ ঘটনাস্থলে পৌঁছে দেহ উদ্ধার করে ময়নাতদন্তে পাঠিয়েছে। হত্যাকাণ্ডে ব্যবহৃত ধারালো অস্ত্র উদ্ধার হয়েছে বলে জানিয়েছেন এসডিপিও। অভিযুক্তকে জিজ্ঞাসাবাদ করা হচ্ছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/jamui-murder-case-2026-02-14a929352fb42a92fbff72dcbcbfc88d-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/father-of-3-daughters-the-man-arrested-in-jamui-for-killing-wife-over-not-having-a-son-tib-ws-l-2552596.html",
+    "time": "2026-02-22T11:43:36.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "বিয়েবাড়িতে পার্কিং কেন্দ্র করে খুন, অভিযুক্ত সফটওয়্যার ইঞ্জিনিয়ার গ্রেফতার",
     "desc": "দক্ষিণ দিল্লির আয়া নগরে পথ নিয়ে বিবাদ ঘিরে রক্তাক্ত পরিণতি। পার্কিং ও রাস্তা ছাড়াকে কেন্দ্র করে বচসার জেরে এক সফটওয়্যার ইঞ্জিনিয়ারের ছুরিকাঘাতে মৃত্যু হল এক ব্যক্তির, গুরুতর জখম হয়েছেন তাঁর এক বন্ধু। শুক্রবার এই ঘটনায় অভিযুক্তকে গ্রেফতার করেছে পুলিশ।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/Crime-News-4-2026-02-84e86981098fc0c3780993f210416dc7-3x2.jpg",
@@ -430,15 +439,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/rajpal-yadav-case-update-businessman-who-filed-complaint-finally-breaks-silence-rc-2546223.html",
     "time": "2026-02-18T08:27:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "আরও এক ভোট ঘোষণা কমিশনের, বিধানসভা নির্বাচনের আগেই! কোন ভোট? কী রয়েছে তার নির্ঘণ্টে? বাংলায়...",
-    "desc": "রাজ্যসভার সাংসদ পদে মেয়াদ শেষ হচ্ছে তৃণমূলের সাকেত গোখলে, ঋতব্রত বন্দ্যোপাধ্যায় এবং সুব্রত বক্সীর। মৌসম বেনজির নুর তৃণমূল ছাড়ার পরে গত ৫ জানুয়ারি রাজ্যসভার সাংসদ পদ থেকে ইস্তফা দেন। তাঁর আসনও খালি। বামফ্রন্টের বিকাশরঞ্জন ভট্টাচার্যের আসনও খালি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/elections-for-37-rajya-sabha-seats-across-10-states-on-march-16-poll-panel-biennial-polls-to-37-rajya-sabha-seats-in-march_641786.html ",
-    "time": "2026-02-18T07:30:00.000Z"
   },
   {
     "cat": "Sports",

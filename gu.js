@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "WhatsAppમાં આવી રહ્યું છે ધાંસુ ફીચર! હવે મેસેજ થશે શેડ્યુલ, જાણો કેવી રીતે કરશે કામ",
+    "desc": "WhatsApp માટે મેસેજ શેડ્યુલ ટૂંક સમયમાં રિલીઝ કરવામાં આવશે. આ ફીચર હાલમાં ડેવલપમેન્ટ ફેજમાં છે, જેની જાણકારી Wabetainfo દ્વારા શેર કરવામાં આવી છે. શેડ્યુલ મેસેજ ફીચર ગ્રુપ અને પર્સનલ ચેટ બન્નેમાં જોવા મળશે. ચાલો તેના વિશે વિગતવાર જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/whatsapp-is-getting-a-new-feature-now-messages-will-be-scheduled-know-how-it-will-work-465839 ",
+    "time": "2026-02-22T11:52:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "હાર્દિક પંડ્યાએ પુત્ર અને એક્સ વાઈફને આ કારણે ગિફ્ટ કરી 4 કરોડની ગાડી ? જાણો",
+    "desc": "ભારતીય ક્રિકેટ ટીમના ઓલરાઉન્ડર હાર્દિક પંડ્યાએ મોડેલ અને અભિનેત્રી નતાશા સ્ટેનકોવિક સાથે લગ્ન કર્યા હતા, અને બંને એક પુત્રના માતા-પિતા બન્યા હતા. જોકે, 2024ની શરૂઆતમાં તેમના સંબંધોમાં તિરાડ પડી ગઈ હતી, અને તેઓએ જુલાઈ 2024માં તેમના અલગ થવાની જાહેરાત કરી હતી. ત્યારે આજે ઈન્ટરનેટ પર હાર્દિકે નતાશા અને તેના પુત્ર અગત્સયને ગાડી ગિફ્ટમાં આવી તેની ચર્ચા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/hardik-pandya-gifted-a-car-worth-rs-4-crore-to-his-son-agastya-and-ex-wife-natasha-for-this-reason-find-out-465837 ",
+    "time": "2026-02-22T11:38:03.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "બેબી મંકીને આખરે મળ્યો પ્રેમ અને સ્નેહ! લોકોને આંસુ લાવી દીધા ! જુઓ Viral Video",
+    "desc": "વાયરલ બેબી વાંદરાની જન્મતાની સાથે જ તેની માતાથી અલગ થઈ ગયો હતો, આ ઘટના ઘણીવાર નાના અથવા નવા જન્મેલા મકાકમાં જોવા મળે છે. પ્રાણી સંગ્રહાલયના કર્મચારીઓએ તેની એકલતા અને અસલામતી દૂર કરવા માટે, તેને એક સોફ્ટ ઓરંગુટાન રમકડું આપ્યું, જે તેને ટેકો અને પોતાનું હોવાની ભાવના આપે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/baby-monkey-finally-gets-love-and-affection-viral-video-brings-people-to-tears-465831 ",
+    "time": "2026-02-22T10:18:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ટીવી સ્ટાર દીપિકા કક્કડની તબિયત બગડી, લિવર કેન્સર પછી વધુ એક મુસીબત માથે આવી પડી",
+    "desc": "ટીવી એક્સ્ટ્રેસ દીપિકા કક્કડની થોડા સમય પહેલા જ લિવર કેન્સરની સારવાર થઈ હતી. તેવામાં હવે તેને વધુ એક ગંભીર સમસ્યા થઈ છે જેના કારણે ફરી તેની સર્જરી કરવામાં આવશે. અભિનેત્રીની તબિયતને લઈ તેના પતિ અને અભિનેતા શોહેબ ઈબ્રાહિમે જાણકારી શેર કરી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/dipika-kakar-had-cyst-after-liver-cancer-shoaib-ibrahim-gave-health-update-465828 ",
+    "time": "2026-02-22T09:59:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "US-India Trade Deal: ભારત-અમેરિકા ટ્રેડ ડીલ કેમ ટળી? વોશિંગ્ટનથી આવ્યું નવું અપડેટ",
+    "desc": "રાષ્ટ્રપતિ ટ્રમ્પ દ્વારા 3 ફેબ્રુઆરીના રોજ જાહેર કરાયેલ ભારત અને અમેરિકા વચ્ચે 500 મિલિયન ડોલરનો વેપાર કરાર મુલતવી રાખવામાં આવ્યો છે, પરંતુ આ કરાર પર હસ્તાક્ષર કરવા માટેની બેઠક મુલતવી રાખવામાં આવી છે. આ બેઠક વોશિંગ્ટનમાં યોજાવાની હતી અને ત્રણ દિવસ સુધી ચાલવાની હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/us-india-trade-deal-why-has-the-india-us-trade-deal-been-postponed-new-information-from-washington-465821 ",
+    "time": "2026-02-22T09:31:06.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "167+ સ્ટ્રાઇક રેટ અને 448 રન... ટીમ ઇન્ડિયાએ આ ખેલાડીથી રહેવું પડશે સાવધાન, ભારત સામે છે વધુ ખતરનાક",
     "desc": "T20 વર્લ્ડ કપ 2026માં સુપર 8 માટે કાઉન્ટડાઉન શરૂ થઈ ગયું છે. પહેલી મેચ 21 ફેબ્રુઆરીએ યોજાવાની હતી, પરંતુ વરસાદે રમતને બગાડી નાખી. હવે, બીજી મેચ ઉત્સાહમાં વધારો કરશે, કારણ કે ભારત અને દક્ષિણ આફ્રિકા વચ્ચે મેચ રમાવા જઈ રહી છે. દક્ષિણ આફ્રિકાના એક ખેલાડીથી ટીમ ઈન્ડિયાએ સાવધાન રહેવું પડશે.",
@@ -486,33 +531,6 @@ const newsData_gu = [
     "time": "2026-02-18T07:45:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ચીનથી મંગાવેલા રોબોટ ડોગે કપાવ્યું નાક, ગલગોટીસ યુનિવર્સિટી પર એક્શન, જાણો",
-    "desc": "ઇન્ડિયા AI ઇમ્પેક્ટ સમિટમાં ચીની રોબોટને પોતાનો હોવાનો દાવો કરવામાં આવ્યો હોવાના વિવાદ બાદ, ગલગોટીસ યુનિવર્સિટીને મોટો આદેશ આપવામાં આવ્યો છે. ભ્રામક દાવાઓ અને સોશિયલ મીડિયામાં ચાલી રહેલા હોબાળા વચ્ચે આયોજકોએ આ કડક નિર્ણય લીધો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/robot-dog-ordered-from-china-has-its-nose-cut-off-action-taken-on-galgotis-university-know-465351 ",
-    "time": "2026-02-18T06:58:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "શરમજનક! અમદાવાદ-ગોરખપુર એક્સપ્રેસ ટ્રેનમાં યુવતી પર બળાત્કારનો આરોપ, TTEની હેવાનિયત",
-    "desc": "અમદાવાદ-ગોરખપુર એક્સપ્રેસમાં એક યુવતી પર બળાત્કાર કરવાના આરોપી ટીટીઈ રાહુલ કુમારની શોધમાં જીઆરપી પટનામાં કેમ્પિંગ કરી રહી છે. મહિલા ટિકિટ વિના મુસાફરી કરી રહી હતી અને ટીટીઈએ તેને સીટ આપવાના બહાને તેના પર બળાત્કાર ગુજાર્યો હતો. પીડિતાનું નિવેદન નોંધવામાં આવ્યું છે અને તેની તબીબી તપાસ કરવામાં આવી છે. પોલીસે આરોપીના ત્રણ સ્થળોએ દરોડા પાડ્યા છે, પરંતુ તે ફરાર છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/shameful-girl-accused-of-rape-in-ahmedabad-gorakhpur-express-train-tte-brutality-465342 ",
-    "time": "2026-02-18T06:28:50.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ટ્રમ્પનો ટેરિફ દાવ પડ્યો ઊંધો, જનતા પર પડ્યો મોંઘવારીનો માર, પોતાનો સામાન થઈ ગયો મોંઘો, જાણો",
-    "desc": "રિપોર્ટમાં જણાવાયું છે કે ટ્રમ્પ સરકારે અનેક દેશોમાંથી આયાત થતી વસ્તુઓ પર ભારે ટેરિફ લગાવવામાં આવ્યા હતા. ટ્રમ્પે દાવો કર્યો હતો કે આ ટેરિફ વિદેશી કંપનીઓ અને સરકારો દ્વારા ચૂકવવામાં આવશે. જો કે, અભ્યાસના તારણો સૂચવે છે કે વાસ્તવિકતા અલગ હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/trump-tariff-bet-backfired-inflation-hit-the-public-own-goods-became-expensive-know-465311 ",
-    "time": "2026-02-18T03:27:29.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "વિશ્વભરમાં YouTube સેવા ઠપ, લાખો યુઝર્સ મુશ્કેલીમાં, જાણો અચાનક કેમ થયું ડાઉન",
     "desc": "ભારત સહિત ઘણા દેશોમાં યુટ્યુબ ડાઉન થઈ ગયું છે. લોકો સોશિયલ મીડિયા પર નારાજગી વ્યક્ત કરી રહ્યા છે. જાણવા મળી રહ્યું છે કે નવા વીડિયો જોવામાં સમસ્યા આવી રહી છે અને ફીડ પણ રીફ્રેશ થઈ રહી નથી.",
@@ -574,14 +592,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/anu-will-celebrate-valentine-day-with-aryavardhan-instead-of-mohit-photos-from-the-new-episode-have-been-leaked-know-464838 ",
     "time": "2026-02-13T13:42:26.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "રેનો ટ્રાઈબરનો દબદબો, 5.76 લાખની આ 7-સીટર કાર પર ફિદા થયા ગ્રાહકો; સેફ્ટીમાં પણ 4-સ્ટાર રેટિંગ!",
-    "desc": "દેશમાં સસ્તી કાર વેચવાની બાબતમાં રેનો (Renault)નું નામ સૌથી ઉપર આવે છે. આ કંપની પાસે સસ્તી હેચબેક, સસ્તી MPV અને સસ્તી SUV ઉપલબ્ધ છે. હાલમાં જ કંપનીના પોર્ટફોલિયોમાં 'ડસ્ટર'ની પણ એન્ટ્રી થઈ ગઈ છે, જોકે તેની કિંમતો અને વેચાણ માર્ચમાં શરૂ થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/renault-triber-sales-january-2026-features-price-safety-rating-464651 ",
-    "time": "2026-02-11T17:51:13.000Z"
   }
 ];
