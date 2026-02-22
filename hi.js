@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "IND A vs BAN A Women's Asia Cup Rising Stars final Live streaming: When and where to watch title clash?",
+    "desc": "With the continental title at stake, India women A will face Bangladesh women A in the final of the Asia Cup Rising Stars on Sunday, February 22, at the Terdthai Cricket Ground in Bangkok. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-a-vs-ban-a-womens-asia-cup-rising-stars-final-live-streaming-when-and-where-to-watch-title-clash-2026-02-22-1031202",
+    "time": "2026-02-22T03:13:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How will surface at Narendra Modi Stadium in Ahmedabad play in T20 WC?",
     "desc": "India will host South Africa in their opening Super Eights clash at the Narendra Modi Stadium in Ahmedabad. Both teams have won all four of their matches so far in the competition and will be...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-to-replace-tilak-varma-in-super-eights-clash-vs-south-africa-suryakumar-yadav-answers-2026-02-21-1031151",
     "time": "2026-02-21T11:19:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav addresses Abhishek Sharma's poor form before marquee Super Eights clash vs South Africa",
-    "desc": "Flamboyant India opener Abhishek Sharma had a difficult campaign so far in the T20 World Cup 2026. Playing with fever, he scored a golden duck in India’s opening game against the USA and was ruled...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-addresses-abhishek-sharma-s-poor-form-before-marquee-super-eights-clash-vs-south-africa-2026-02-21-1031146",
-    "time": "2026-02-21T10:47:25.000Z"
   }
 ];

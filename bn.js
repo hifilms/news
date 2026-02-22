@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "রমজান মাসে আফগানিস্তানের উপর 'এয়ার স্ট্রাইক' পাকিস্তানের, বেছে বেছে ৭টি জায়গা গুঁড়িয় দিল F 16 যুদ্ধবিমান",
+    "desc": "বিবৃতিতে বলা হয়েছে যে ইসলামাবাদ, বাজাউর এবং বান্নুর ইমাম বারগাহে বোমা হামলা সহ সাম্প্রতিক আত্মঘাতী হামলার পর এটা ছিল প্রতিশোধমূলক পদক্ষেপ। রমজান মাসে এই হামলার ফলে নিন্দার ঝড় উঠেছে, তবে পাক সরকার জানিয়েছে যে এর পিছনে একটি উদ্দেশ্য ছিল এবং সেটা হল পাক বাসিন্দাদের সুরক্ষা সুনিশ্চিত করা।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/airstrike-2026-02-fb0cad3d7b55b4d0c8f2692f91c70119-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/pakistan-air-strike-inside-afghanistan-ttp-bannu-attack-pakistan-news-live-updates-pbd-2552229.html",
+    "time": "2026-02-22T03:37:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "টানটান রহস্যে মোড়া গল্প ! আসছে রাজা চন্দর নতুন থ্রিলার ‘কাটাকুটি ২’, প্রকাশ্যে ট্রেলার",
+    "desc": "Official Trailer - Katakuti 2 | বাংলা সিনেমার সিক্যুয়েল তৈরি হয় প্রায়ই। ওয়েব সিরিজও বাদ যায় না। আর প্রথম সিজন যদি দর্শকের পছন্দ হয়, তা হলে দ্বিতীয় সিজনের অপেক্ষা তো থাকবেই। রাজা চন্দ পরিচালিত ‘কাটাকুটি’ পছন্দ করেছিলেন দর্শক। এ বার আসছে ‘কাটাকুটি ২’। সম্প্রতি হয়ে গেল সিরিজের ট্রেলার লঞ্চ ৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Katakuti-2-Trailer-Launch-2026-02-27b1f5a6e6d1c855b2d0cca83ff344f9-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/katakuti-2-trailer-launch-directed-by-raja-chanda-subrata-dutta-amrita-chatterjee-starrer-new-series-to-release-ss-2552196.html",
+    "time": "2026-02-22T03:13:58.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "মা, বাবা, ভাই, পোষা বেড়াল...এক এক করে সবাইকে খুন, ৫ বছরের ভাইপোকে...! নিজের বাড়িতে নৃংশস হত্যালীলা ক্লাস ১২ টপারের, ঘটনা জানলে শিউরে উঠবেন",
     "desc": "নিজের পরিবারেই হত্যালীলা চালানোর অভিযোগ উঠল দীপক ধুরভে নামে মধ্যপ্রদেশের এক যুবকের বিরুদ্ধে৷ ৩০ বছরের যুবক মা, বাবা, ভাই এবং পোষা বিড়ালকেও নির্মমভাবে খুন করেছে বলেই অভিযোগ৷ দীপক ধুরভে নামে ওই যুবককে গ্রেফতার করেছে পুলিশ",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/international/bangladesh-election-2026-tarique-rahman-oath-news-rc-2538778.html",
     "time": "2026-02-13T09:55:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Off-Season Vegetable Farming: অসময়ে ফুলকপি-বাঁধাকপি চাষ! অঢেল লাভের মুখ দেখার সুযোগ চাষিদের, শুধু জানতে হবে এইসব টিপস",
-    "desc": "বাজারের চাহিদা বুঝে স্রোতের বিপরীতে গিয়ে ফুলকপি, বাঁধাকপি ও ওলকপি চাষ করে অঢেল আয়ের সুযোগ তৈরি হচ্ছে। সঠিক কৌশল জানলে কপি চাষই হতে পারে চাষিদের জন্য সবচেয়ে লাভজনক ব্যবসা। মূলত গ্রীষ্মকালে বিভিন্ন কপি চাষ করে অনেক লাভের মুখ দেখতে পারেন চাষিরা।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Off-Season-Vegetable-Farming-2026-02-b6efa07d86ae38fc0dc86b220f114479-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/south-24-parganas-off-season-vegetable-farming-farmers-may-get-huge-profit-from-cauliflower-cabbage-summer-season-cultivation-l18-local18-2537789.html",
-    "time": "2026-02-13T09:39:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "স্বপ্নপূরণ হল না পাকিস্তানের, বাংলাদেশে ধরাশায়ী জামাত! বাধ্য হয়েই যা লিখলেন পাক প্রধানমন্ত্রী-প্রেসিডেন্ট, শুনে অবাক হয়ে যাবেন",
-    "desc": "বিএনপি প্রধান তারেক রহমানের জয়ের জন্য অভিনন্দন জানালেন পাকিস্তানের প্রেসিডেন্ট আসিফ আলি জারদারি ও প্রধানমন্ত্রী শাহবাজ শরিফ। আসিফ আলি জারদারি বলেন, পাকিস্তান বাংলাদেশের গণতান্ত্রিক আকাঙ্ক্ষাকে সমর্থন করে এবং বাণিজ্য, প্রতিরক্ষা ও সাংস্কৃতিক বিনিময় জোরদার করতে নতুন সরকারের সঙ্গে কাজ করার প্রত্যাশা রাখে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Tarekh-pakisthan-2026-02-abb27b5c2ced6eef6c4f816a466444c7-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/historic-victory-unveiled-in-bangladesh-congratulations-to-tarique-rahman-rmj-2-ws-l-2538687.html",
-    "time": "2026-02-13T09:20:22.000Z"
   }
 ];
