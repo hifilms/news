@@ -1,12 +1,93 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "BAFTA Awards 2026 complete winners list",
+    "desc": "Politically charged thriller One Battle After Another emerged as the biggest winner at the 2026 EE British Academy Film Awards- taking home six trophies including Best Film and Best Director for Paul Thomas Anderson. Blues-infused vampire epic Sinners secured three wins- while gothic horror spectacle Frankenstein also claimed three craft awards. Shakespearean drama Hamnet was named Outstanding British Film- with Jessie Buckley winning Best Leading Actress. Here is the full list of winners.",
+    "img": "https://static.toiimg.com/photo/msid-128689061,imgsize-38424.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bafta-2026-complete-winners-list-one-battle-after-another-dominates-with-six-awards-robert-aramayo-beats-leonardo-dicaprio-jessie-buckley-wins-best-actress/articleshow/128688949.cms",
+    "time": "2026-02-22T20:53:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'One Battle After Another' sweeps six awards",
+    "desc": "Politically charged thriller \"One Battle After Another\" dominated the BAFTA Film Awards, clinching six honors including best picture. Vampire epic \"Sinners\" and gothic horror \"Frankenstein\" secured three awards each. Jessie Buckley won best actress for \"Hamnet,\" while Robert Aramayo surprisingly took best actor for \"I Swear,\" building Oscar momentum.",
+    "img": "https://static.toiimg.com/photo/msid-128688886,imgsize-51516.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bafta-awards-2026-paul-thomas-andersons-one-battle-after-another-wins-6-prizes-including-best-picture-best-director/articleshow/128688824.cms",
+    "time": "2026-02-22T20:41:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rashmika Mandanna–Vijay Deverakonda relationship timeline",
+    "desc": "After years of stolen glances, blushing interviews and carefully guarded silences, Vijay Deverakonda and Rashmika Mandanna have finally stepped into the light — together. The two stars confirmed their relationship, announcing they are ready to begin a new chapter — one that fans have been manifesting for nearly eight years.",
+    "img": "https://static.toiimg.com/photo/msid-128688609,imgsize-39118.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandannavijay-deverakonda-relationship-timeline-from-geetha-govindam-spark-to-the-wedding-of-virosh/articleshow/128688492.cms",
+    "time": "2026-02-22T20:25:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How USTR polices trade partners",
+    "desc": "Following a Supreme Court setback, President Trump is directing new Section 301 investigations against trading partners. These probes, covering industrial policies to drug pricing, empower the USTR to enforce trade rights and respond to unfair practices. Past actions have led to significant tariff impositions, particularly on China, with ongoing reviews and new investigations initiated.",
+    "img": "https://static.toiimg.com/photo/msid-128688649,imgsize-60750.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/section-301-how-ustr-polices-trade-partners/articleshow/128688560.cms",
+    "time": "2026-02-22T20:17:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Boong' director Lakshmipriya Devi: 'Pray for peace in Manipur'",
+    "desc": "At the BAFTA Awards, 'Boong' director Lakshmipriya Devi secured Best Children’s & Family Film, a first for Indian cinema. Her emotional acceptance speech called for peace in Manipur, urging the return of joy and innocence for displaced children, including her young actors. Devi emphasized forgiveness as humanity's superpower, using the platform to express hope for her troubled homeland.",
+    "img": "https://static.toiimg.com/photo/msid-128688098,imgsize-48792.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/boong-director-lakshmipriya-devi-in-bafta-winning-speech-we-pray-for-peace-to-return-to-manipur/articleshow/128687675.cms",
+    "time": "2026-02-22T19:51:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vishal Bhardwaj defends explicit violence in cinema",
+    "desc": "At a time when films high on bloodshed are dominating the box office, Vishal Bhardwaj has made it clear that he has no issue with the growing explicitness of violence on screen. His remarks come amid the success of violent, mass-driven films like Animal, Marco and Dhurandhar, which suggest that audiences are engaging with darker, more intense storytelling.",
+    "img": "https://static.toiimg.com/photo/msid-128687659,imgsize-39848.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vishal-bhardwaj-defends-explicit-violence-in-cinema-mahabharat-ka-jo-violence-hai-wo-unimaginable-hai-humare-dna-mein-hai-wo-element/articleshow/128687611.cms",
+    "time": "2026-02-22T19:32:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "H.D. Kumaraswamy asks Chief Minister Siddaramaiah to vacate his post to show love and generosity towards Vokkaligas",
+    "desc": "Hitting back at Chief Minister Siddaramaiah over his comments on the Janata Dal (Secular) leadership and Vokkaliga politics, Union Minister for Heavy Industries and Steel H.D. Kumaraswamy on Sunday suggested that the time was ripe for him to shower love on Vokkaligas by vacating his post",
+    "img": "https://th-i.thgim.com/public/incoming/wueowx/article70664577.ece/alternates/LANDSCAPE_1200/HDK-discusses-rG7AFI3I63.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/hd-kumaraswamy-asks-chief-minister-siddaramaiah-to-vacate-his-post-to-show-love-and-generosity-towards-vokkaligas/article70663926.ece",
+    "time": "2026-02-22T18:57:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Stalin gave ₹5,000 only because of pressure from AIADMK, says Palaniswami",
+    "desc": "At a public meeting in Tiruvallur district, the AIADMK general secretary recalls having made 10 electoral assurances, including one of granting a monthly assistance of ₹2,000 to all women heads of families holding ration cards. Soon after his party announced the promises, Mr. Stalin grew anxious and credited the sum into the accounts of Kalaignar Magalir Urimai Thogai beneficiaries",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/3sndpy/article70664277.ece/alternates/LANDSCAPE_1200/6.%20AIADMK%20GS%20LOP%20%20Former%20CM%20Campaign%20at%20Thiruvallur%20East%20Dt%20Madhavaram%20Const%20-%2022.2.2026.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/stalin-gave-5000-only-because-of-pressure-fromaiadmkpalaniswami/article70663921.ece",
+    "time": "2026-02-22T18:52:58.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "T20 World Cup Ind vs SA",
     "desc": "The other day too I said how he is in good rhythm in the nets. Yes three zeroes can weigh you down, he is trying his best. Yes we have been losing wickets early. There is also some inexperience in the ranks, we are trying to address all that. We have to be careful while apportioning blame, ten Doeschate explained",
     "img": "https://th-i.thgim.com/public/incoming/qxcae3/article70664542.ece/alternates/LANDSCAPE_1200/VIS_9296.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-ind-vs-sa-we-thought-this-was-the-best-xi-ten-doeschate/article70664541.ece",
-    "time": "2026-02-22T18:20:34.000Z"
+    "time": "2026-02-22T18:52:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kriti Sanon, Kabir Bahia’s cosy London walk caught on camera",
+    "desc": "A new video of Kriti Sanon and Kabir Bahia walking hand in hand in London has surfaced online, once again putting their rumoured relationship in the spotlight. The clip, which is being widely circulated on Reddit, shows the two stepping out together in the UK capital. The exact date of the video, however, remains unconfirmed.",
+    "img": "https://static.toiimg.com/photo/msid-128686209,imgsize-56388.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kriti-sanon-and-kabir-bahias-cosy-london-walk-caught-on-camera-hand-in-hand-video-goes-viral/articleshow/128686060.cms",
+    "time": "2026-02-22T18:31:39.000Z"
   },
   {
     "cat": "Entertainment",
@@ -16,6 +97,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bafta-2026-farhan-akhtar-makes-red-carpet-debut-with-shibani-dandekar-as-boong-competes-for-best-childrens-and-family-film/articleshow/128684986.cms",
     "time": "2026-02-22T18:13:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "RCP Singh pitches to come back in JD(U)",
+    "desc": "Senior JD-(U) leader and Union Minister Rajeev Ranjan Singh alias Lalan Singh and Bihar Minister Shravan Kumar have been openly opposing his entry into the party. RCP asserted that his presence in JD-(U) will benefit the party and organisation.",
+    "img": "https://th-i.thgim.com/public/incoming/589igd/article70664534.ece/alternates/LANDSCAPE_1200/IMG_IMG_-__-_5903_1-3-20_2_1_C7A4AJU6.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/rcp-singh-pitches-to-come-back-in-jdu/article70663898.ece",
+    "time": "2026-02-22T18:11:18.000Z"
   },
   {
     "cat": "Politics",
@@ -99,6 +189,15 @@ const newsData_en = [
     "time": "2026-02-22T17:11:17.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "Mandhana",
+    "desc": "This Indian team is something which we have spoken about, trying to be consistent. Don't think about opposition or what's happened in the past. So we've beaten this, we've beaten that. I feel that's not very important now, says",
+    "img": "https://th-i.thgim.com/public/incoming/nf2i5l/article70664449.ece/alternates/LANDSCAPE_1200/11908_30_10_2025_19_40_23_2_DSC_3396.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/indian-team-wants-to-be-consistent-and-dominate-world-cricket-mandhana/article70664439.ece",
+    "time": "2026-02-22T17:07:37.000Z"
+  },
+  {
     "cat": "World",
     "title": "U.S. envoy says Trump questioning why Iran has not 'capitulated'",
     "desc": "\"I don't want to use the word 'frustrated,' because he understands he has plenty of alternatives, but he's curious as to why they haven't. I don't want to use the word 'capitulated,' but why they haven't capitulated,\" says U.S. envoy Steve Witkoff",
@@ -115,6 +214,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/explained-how-the-scotus-tariff-ruling-may-be-secretly-a-gift-for-potus/articleshow/128682238.cms",
     "time": "2026-02-22T16:56:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tejal, Prema power India A to Asia Cup Rising Stars title",
+    "desc": "The star with the ball was Prema (3/12 in four overs), who was part of RCB's triumphant campaign in the recently played WPL. She gave the ball plenty of flight and got enough purchase off the surface.",
+    "img": "https://th-i.thgim.com/public/news/national/dnopwp/article70664418.ece/alternates/LANDSCAPE_1200/HBwa9vlbwAA1SMR.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/tejal-prema-power-india-a-to-asia-cup-rising-stars-title/article70664404.ece",
+    "time": "2026-02-22T16:54:37.000Z"
   },
   {
     "cat": "Entertainment",
@@ -187,15 +295,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/brazil-president-lula-trade-tensions/article70662557.ece",
     "time": "2026-02-22T16:24:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Stalin gave ₹5,000 only because of pressure from AIADMK, says Palaniswami",
-    "desc": "At a public meeting in Tiruvallur district, the AIADMK general secretary recalls having made 10 electoral assurances, including one of granting a monthly assistance of ₹2,000 to all women heads of families holding ration cards. Soon after his party announced the promises, Mr. Stalin grew anxious and credited the sum into the accounts of Kalaignar Magalir Urimai Thogai beneficiaries",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/3sndpy/article70664277.ece/alternates/LANDSCAPE_1200/6.%20AIADMK%20GS%20LOP%20%20Former%20CM%20Campaign%20at%20Thiruvallur%20East%20Dt%20Madhavaram%20Const%20-%2022.2.2026.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/stalin-gave-5000-only-because-of-pressure-fromaiadmkpalaniswami/article70663921.ece",
-    "time": "2026-02-22T16:20:27.000Z"
   },
   {
     "cat": "Entertainment",
@@ -324,15 +423,6 @@ const newsData_en = [
     "time": "2026-02-22T13:55:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sriram Raghavan admits he unhappy with Ikkis disclaimer",
-    "desc": "Months after Ikkis hit theatres and earned critical acclaim, director Sriram Raghavan has addressed the controversy surrounding the film’s disclaimer that called Pakistan “not at all trustworthy.” In a recent interview, the filmmaker admitted that he was not personally happy with the inclusion of the statement.",
-    "img": "https://static.toiimg.com/photo/msid-128678640,imgsize-35750.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sriram-raghavan-admits-he-wasnt-happy-with-ikkis-disclaimer-calling-pakistan-not-at-all-trustworthy-cites-badlapur-changes-as-example/articleshow/128678454.cms",
-    "time": "2026-02-22T13:55:02.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Bhupen Borah’s BJP switch: Ghosts of past rifts haunt Congress before Assam elections",
     "desc": "Congress faces a significant setback in Assam as former state chief Bhupen Borah joins the BJP, echoing past defections. Borah cited humiliation and marginalization by party leaders Gaurav Gogoi and Rakibul Hussain as reasons for his departure, highlighting internal rifts ahead of assembly elections.",
@@ -340,24 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/bhupen-borahs-bjp-switch-ghosts-of-past-rifts-haunt-congress-before-assam-elections/articleshow/128677463.cms",
     "time": "2026-02-22T13:47:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Jai Hanuman’: Rishab begins filming with sacred puja in Hampi",
-    "desc": "The epic mythological film ‘Jai Hanuman’ has commenced production with a sacred muhurat ceremony at Anjanadri Betta, believed to be Lord Hanuman's birthplace. National Award winner Rishab Shetty embodies the titular role, promising a grand spectacle. This venture expands the ‘Hanu-Man’ universe, shifting focus to the deity's legend, with Teja Sajja also present at the launch.",
-    "img": "https://static.toiimg.com/photo/msid-128677975,imgsize-39694.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/jai-hanuman-rishab-shetty-begins-filming-with-sacred-puja-in-hampi-teja-sajja-attends-ceremony/articleshow/128677989.cms",
-    "time": "2026-02-22T13:30:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sanjeeda Shaikh to be seen in Yash starrer ‘Toxic’?",
-    "desc": "Yash's 'Toxic', releasing March 19, 2026, features Nayanthara, Kiara Advani, Huma Qureshi, Rukmini Vasanth, and Tara Sutaria, with Sanjeeda Shaikh in a special pivotal role—her pan-India debut. Post 'Fighter' and 'Heeramandi', she's also in 'Dhamaal 4' and Netflix's 'Ikka'. The teaser showcases Yash's dramatic transformation amid a gritty, global world.",
-    "img": "https://static.toiimg.com/photo/msid-128677856,imgsize-19714.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanjeeda-shaikh-to-be-seen-in-geetu-mohandas-yash-starrer-toxic-all-about-her-special-appearance-reports/articleshow/128677856.cms",
-    "time": "2026-02-22T13:23:03.000Z"
   },
   {
     "cat": "Politics",
@@ -369,15 +441,6 @@ const newsData_en = [
     "time": "2026-02-22T13:20:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Zareen Khan shares emotional update as mom hospitalised again",
-    "desc": "Zareen Khan has once again left fans concerned after revealing that her mother has been hospitalised again. Taking to her Instagram Stories, Salman Khan's Veer co-star shared an emotional note, urging everyone to keep her mother in their prayers during this difficult phase.",
-    "img": "https://static.toiimg.com/photo/msid-128677671,imgsize-59680.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zareen-khan-shares-emotional-update-as-mother-hospitalised-again-please-keep-her-in-your-prayers/articleshow/128677217.cms",
-    "time": "2026-02-22T13:15:33.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "From posters in Delhi to raids in Tamil Nadu &amp; Bengal: How cops busted Pakistan-based terror plot in India",
     "desc": "Delhi Police busted a Pakistan-linked LeT terror module, arresting eight suspects across Delhi, West Bengal, and Tamil Nadu. The group, directed by a Bangladesh-based handler, allegedly pasted anti-national posters and planned terror activities. This operation thwarted a major untoward incident, with intelligence suggesting potential IED attacks.",
@@ -385,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/from-posters-in-delhi-to-raids-in-tamil-nadu-bengal-how-cops-busted-pakistan-based-terror-plot-in-india/articleshow/128677346.cms",
     "time": "2026-02-22T13:14:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Samantha’s ‘Maa Inti Bangaaram’ release date announced",
-    "desc": "Samantha Ruth Prabhu is set to captivate audiences in 'Maa Inti Bangaaram', a Telugu drama slated for a worldwide theatrical release on May 15, 2026. The film, co-produced by Samantha, promises a deeply emotional and family-centric narrative, showcasing a woman's resilience through strength and vulnerability. Early glimpses hint at an intense, performance-driven story.",
-    "img": "https://static.toiimg.com/photo/msid-128677455,imgsize-109002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/samantha-ruth-prabhus-maa-inti-bangaaram-release-date-announced-actress-promises-emotional-family-drama/articleshow/128677471.cms",
-    "time": "2026-02-22T13:06:22.000Z"
   },
   {
     "cat": "Sports",
@@ -442,15 +496,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Rajpal has heartfelt response to Nawazuddin's langar comments",
-    "desc": "Actor Rajpal Yadav, recently granted interim bail in a cheque bounce case, expressed gratitude toward Nawazuddin Siddiqui for recalling his kindness to struggling actors. Clarifying Siddiqui’s comments, Rajpal said they often shared meals together. He also thanked supporters after his release. The case stems from a 2010 film financing dispute.",
-    "img": "https://static.toiimg.com/photo/msid-128675485,imgsize-46150.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/that-was-his-home-his-food-i-got-work-thanks-to-him-rajpal-yadav-has-heartfelt-response-to-nawazuddin-siddiquis-langar-comments/articleshow/128675485.cms",
-    "time": "2026-02-22T11:49:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Here’s what Taylor Swift’s wedding dreams look like",
     "desc": "Taylor Swift's journey through love and marriage, from fairy-tale dreams to real-life commitment, is explored. Her music and interviews reveal an evolving perspective, culminating in her engagement to Travis Kelce. The couple is now reportedly planning a summer 2026 wedding in Rhode Island, with June 13th as a potential date.",
     "img": "https://static.toiimg.com/photo/msid-128670188,imgsize-46856.cms",
@@ -466,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/tejal-hasabnis-stars-as-india-a-beat-bangladesh-a-by-46-runs-to-lift-womens-asia-cup-rising-stars-2026-title/articleshow/128674440.cms",
     "time": "2026-02-22T11:24:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Raj Kundra ditches face mask after securing bail in bitcoin case",
-    "desc": "Businessman Raj Kundra, granted bail in the alleged bitcoin scam case, expressed faith in the Indian judiciary and criticized media sensationalism. After his release, he said “Satyamev Jayate,” emphasizing truth will prevail. Kundra also dropped his signature mask, remarking, “All masks are off now,” signaling confidence and cooperation with investigators.",
-    "img": "https://static.toiimg.com/photo/msid-128674499,imgsize-32078.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raj-kundra-ditches-face-mask-after-securing-bail-in-bitcoin-case-issues-bold-statement-ab-doosron-ke-masks-utarenge/articleshow/128674499.cms",
-    "time": "2026-02-22T11:15:13.000Z"
   },
   {
     "cat": "Politics",
@@ -549,24 +585,6 @@ const newsData_en = [
     "time": "2026-02-22T09:47:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Will not suffer any harm’: Congress plays down Bhupen Borah's BJP switch ahead of Assam polls",
-    "desc": "Assam's Opposition Leader Debabrata Saikia downplayed former state Congress chief Bhupen Kumar Borah's defection to the BJP, stating it won't impact upcoming elections. Saikia highlighted that local Congress leaders and workers from Borah's constituency remain loyal, assuring no significant harm to the party's prospects. Borah, after 32 years with Congress, officially joined the BJP on Sunday.",
-    "img": "https://static.toiimg.com/photo/msid-128672228,imgsize-744340.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/will-not-suffer-any-harm-congress-plays-down-bhupen-borahs-bjp-switch-ahead-of-assam-polls/articleshow/128672158.cms",
-    "time": "2026-02-22T09:42:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Gandi aur nangi rajneeti': PM Modi blasts Congress after youth wing's 'shirtless' protest at AI Summit",
-    "desc": "Prime Minister Narendra Modi criticized the Congress party for its \"shirtless\" protest at the AI Impact Summit, calling it \"dirty and shameless\" politics. The protest by Indian Youth Congress workers, who wore T-shirts with the slogan \"India-US Trade Deal Compromised,\" drew widespread condemnation, including from allies. Four IYC workers were sent to police custody.",
-    "img": "https://static.toiimg.com/photo/msid-128672037,imgsize-829737.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/gandi-aur-nangi-rajneeti-pm-modi-blasts-congress-after-youth-wings-shirtless-protest-at-ai-summit/articleshow/128672001.cms",
-    "time": "2026-02-22T09:36:24.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Dangerous tactic': Ex-cricketer questions Surya's slow scoring rate",
     "desc": "Sanjay Manjrekar has voiced concerns over Suryakumar Yadav's cautious batting approach in the T20 World Cup, suggesting it hinders finishers like Hardik Pandya. While acknowledging Suryakumar's adaptability against the USA, Manjrekar believes the captain has since become overly conservative, potentially risking India's scoring potential, especially when setting or chasing large totals.",
@@ -583,15 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rbis-new-data-centre-far-from-seismic-risks-and-cross-border-threats-where-is-it/articleshow/128670784.cms",
     "time": "2026-02-22T09:02:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Abki baar Trump se haar': Congress targets Centre over Trump tariffs; slams India-US trade deal",
-    "desc": "Congress leader Jairam Ramesh attacked the Centre over the proposed India-US interim trade pact, calling it “Abki baar Trump se haar” and demanding it be put in cold storage and renegotiated. He warned agri import liberalisation would hurt farmers across states and questioned the deal’s timing amid US tariff turmoil after a Supreme Court ruling against Donald Trump’s earlier measures.",
-    "img": "https://static.toiimg.com/photo/msid-128671001,imgsize-980868.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/abki-baar-trump-se-haar-congress-targets-centre-over-trump-tariffs-slams-india-us-trade-deal/articleshow/128670866.cms",
-    "time": "2026-02-22T08:51:13.000Z"
   },
   {
     "cat": "Sports",
@@ -648,15 +657,6 @@ const newsData_en = [
     "time": "2026-02-22T06:05:47.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Trump's tariffs struck down, what's next? SBI suggests adopting a ‘counter-intuitive’ approach",
-    "desc": "The US Supreme Court's decision to strike down President Trump's tariff framework has introduced a new dynamic. A recent report by SBI Research has suggested that countries may have to negotiate with a “counter-intuitive” approach in the interim phase.",
-    "img": "https://static.toiimg.com/photo/msid-128667463,imgsize-149866.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/trumps-tariffs-struck-down-whats-next-sbi-suggests-adopting-a-counter-intuitive-approach/articleshow/128664599.cms",
-    "time": "2026-02-22T06:03:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Mohd Amir defends Abhishek ‘slogger’ jibe, repeats India won’t reach semis",
     "desc": "Former Pakistan bowler Mohammad Amir reignited controversy at the T20 World Cup with a renewed attack on India's Abhishek Sharma, questioning his defensive technique. Amir also reiterated his prediction that India will not reach the semi-finals, citing stronger performances from teams like South Africa and the West Indies.",
@@ -664,15 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/what-else-should-i-call-him-mohammad-amir-defends-abhishek-sharma-slogger-jibe-repeats-india-wont-reach-semis/articleshow/128666778.cms",
     "time": "2026-02-22T05:32:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "PM Modi to flag off 'Meerut Metro' and 'Namo Bharat' train today — how will it help commuters?",
-    "desc": "Prime Minister Narendra Modi will inaugurate the Meerut Metro and Namo Bharat RRTS on Sunday. This marks the full operationalisation of the 82-km Delhi-Meerut corridor. The integrated network promises faster travel between cities and within Meerut. It aims to reduce travel time significantly, boost connectivity, and lower carbon emissions.",
-    "img": "https://static.toiimg.com/photo/msid-128666606,imgsize-93984.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/pm-modi-to-flag-off-meerut-metro-and-namo-bharat-train-today-how-will-it-help-commuters/articleshow/128666272.cms",
-    "time": "2026-02-22T05:23:23.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/why-the-strait-of-hormuz-remains-central-to-global-energy-security/article70656443.ece",
     "time": "2026-02-21T00:44:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Chess is more than just a game to me; it’s my world, it’s the core of my life: Alexandra Kosteniuk",
+    "desc": "The 41-year-old Grandmaster is one of the most decorated players in chess history, having won multiple World titles, the World Cup, Olympiads and the GCL. In this conversation, she talks about what the game means to her, how it has changed with the advent of computers, what motivates her to compete at the top level in her 40s and why she isn’t a content creator anymore",
+    "img": "https://th-i.thgim.com/public/incoming/osevae/article70656227.ece/alternates/LANDSCAPE_1200/GettyImages-1237471437.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/chess-is-more-than-just-a-game-to-me-its-my-world-its-the-core-of-my-life-alexandra-kosteniuk/article70656220.ece",
+    "time": "2026-02-20T18:36:38.000Z"
   }
 ];
