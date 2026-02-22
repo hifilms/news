@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "સુપર-8માં ટીમ ઈન્ડિયા ફ્લોપ... દક્ષિણ આફ્રિકા સામે મળી કરારી હાર, 17 મેંચ બાદ ICC ટૂર્નામેન્ટમાં મળી હાર",
+    "desc": "T20 વર્લ્ડ કપ 2026ના સુપર-8 મેચમાં રવિવારે ભારતનો સામનો દક્ષિણ આફ્રિકા સાથે થયો હતો. આ મેચમાં મેચમાં ટીમ ઈન્ડિયાને 76 રનના મોટા માર્જિનથી મોટી હારનો સામનો કરવો પડ્યો છે. આ હારથી ટીમ ઈન્ડિયાના નેટ રન રેટ પર પણ ખરાબ અસર પડી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/team-india-flopped-in-super-8-south-africa-beat-india-by-76-runs-lost-in-the-icc-tournament-after-17-matches-465876 ",
+    "time": "2026-02-22T17:51:19.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ટ્રમ્પ પર ફરી હુમલાનું કાવતરું! શોટગન સાથે રિસોર્ટમાં ઘૂસ્યો હુમલાખોર, સિક્રેટ સર્વિસે કર્યો ઠાર",
+    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ પર ફરી એકવાર હુમલાનું કાવતરું સામે આવ્યું છે. તેમના ફ્લોરિડાના પામ બીચ સ્થિત 'માર-એ-લાગો' રિસોર્ટના સુરક્ષા ઘેરામાં એક વ્યક્તિ હથિયાર સાથે ઘૂસી ગયો હતો. જો કે, સતર્ક સુરક્ષાકર્મીઓએ બંદૂક સાથે ધૂસેલા વ્યક્તિને ત્યાં જ ઠાર કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/another-attempt-to-attack-trump-attacker-enters-resort-with-shotgun-shot-dead-by-secret-service-465866 ",
+    "time": "2026-02-22T15:37:14.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ભારત રશિયાને બદલે આ દેશ પાસેથી મોટી માત્રામાં ખરીદી રહ્યું છે ક્રૂડ ઓઇલ, ત્રીજા નંબરે પહોંચ્યું ઇરાક, જાણો",
     "desc": "અમેરિકાના પ્રતિબંધ બાદ ભારતે રશિયા પાસેથી તેલ ખરીદી કરવાનું ઓછું કરી દીધુ હતું, જો કે રશિયા સાથે ઘટાડો કરીને ભારતે આ દેશ સાથે ખરીદીમાં વધારો કર્યો છે. ભારતને કોઈ એવા દેશની જરૂર હતી, જે તેની બજાર જરૂરીયાતો માટે મોટા પાયે તેલ આપે અને ભારત તે તરફ આગળ વધી રહ્યું છે.",
@@ -484,33 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/war-between-america-and-iran-can-break-out-at-any-time-satellite-images-reveal-a-big-thing-465480 ",
     "time": "2026-02-19T03:25:38.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાનના સૈન્ય મથકો પાસે ભીષણ આગ, અમેરિકા સાથેના તણાવ વચ્ચે રહસ્યમય વિસ્ફોટ",
-    "desc": "ઈરાનની રાજધાની તેહરાન પાસે આવેલા પારંદ વિસ્તારમાં ભીષણ આગ લાગી છે. સરકારી મીડિયાએ બુધવારે જણાવ્યું કે, આગને કારણે વિસ્તારમાં કાળા ધુમાડાના ગોટેગોટા ઉઠી રહ્યા છે. સોશિયલ મીડિયા પર પણ આ વિસ્તારમાંથી ઉઠતા ધુમાડાના વીડિયો વાયરલ થઈ રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/iran-us-tension-massive-fire-near-tehran-military-bases-mysterious-explosions-465464 ",
-    "time": "2026-02-18T17:31:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "0, 0, 0... અભિષેક શર્માનો વર્લ્ડ કપમાં ફ્લોપ શો, નંબર-1 બેટ્સમેને બનાવ્યો શરમજનક રેકોર્ડ",
-    "desc": "ટી20 વર્લ્ડ કપ 2026માં અભિષેક શર્માના ફોર્મમાં અચાનક ઘટાડો જોવા મળ્યો છે. અભિષેક શર્મા આ ટૂર્નામેન્ટમાં સતત ત્રીજી વખત શૂન્ય (ડક) પર આઉટ થયો છે. બુધવાર 18 ફેબ્રુઆરીના રોજ અમદાવાદના નરેન્દ્ર મોદી સ્ટેડિયમમાં નેધરલેન્ડ સામે ભારતની છેલ્લી અને ફાઈનલ ગ્રુપ-A મેચમાં પણ અભિષેક શર્મા પોતાનું ખાતું ખોલાવી શક્યો નહોતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/abhishek-sharma-t20-world-cup-2026-duck-record-india-vs-netherlands-465462 ",
-    "time": "2026-02-18T16:18:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ડેટા સેન્ટર શું છે? કેમ અદાણી-અંબાણી લગાવી રહ્યાં છે અબજો રૂપિયા, જાણી લો કઈ રીતે કમાશે",
-    "desc": "આર્ટિફિશિયલ ઈન્ટલિજિન્સની ચર્ચા વચ્ચે હવે એ જાણવું પણ જરૂરી છે કે આ ડેટા સેન્ટર વળી શું બલા છે. કેમ પીએમ મોદીએ એઆઈ સમીટ યોજીને વિશ્વભરના ટેક નિષ્ણાતોને દિલ્હીમાં ભેગા કર્યા છે. ડેટા સેન્ટર કેટલા પ્રકારના હોય છે અને દેશની ઈકોનોમીમાં ડેટા સેન્ટરની શું ભૂમિકા હોય છે. તમારા આ દરેક સવાલનો અહીં જવાબ મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/what-are-data-centers-and-why-are-businessmen-like-gautam-adani-and-mukesh-ambani-investing-billions-of-rupees-in-them-465457 ",
-    "time": "2026-02-18T15:04:42.000Z"
   },
   {
     "cat": "Politics",

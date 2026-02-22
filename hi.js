@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India coach hints at Sanju Samson's inclusion after shattering defeat to South Africa in T20 World Cup",
+    "desc": "India suffered a chastening 76-run loss at the hands of South Africa in their opening Super 8 clash of the T20 World Cup at the Narendra Modi Stadium in Ahmedabad. After the loss, India's assistant...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-coach-hints-at-sanju-samson-s-inclusion-after-shattering-defeat-to-south-africa-in-t20-world-cup-2026-02-22-1031290",
+    "time": "2026-02-22T18:13:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryakumar Yadav wants India to improve on all three fronts to get back to winning ways in T20 World Cup 2026",
+    "desc": "South Africa crushed India, handing them a 76-run defeat in Group A’s first clash in the ongoing Super Eights of the T20 World Cup 2026. Batting first, the Proteas were put under pressure as they...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-wants-india-to-improve-on-all-three-fronts-to-get-back-to-winning-ways-in-t20-world-cup-2026-2026-02-22-1031288",
+    "time": "2026-02-22T17:53:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "T20 World Cup Super 8 points table update after India's loss to South Africa in Ahmedabad",
+    "desc": "It was a day to forget for hosts at the T20 World Cup today as India and Sri Lanka both lost their Super 8 matches against South Africa and England, respectively. Both teams lost by...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-2026-points-table-update-after-india-s-loss-to-south-africa-in-ahmedabad-2026-02-22-1031286",
+    "time": "2026-02-22T17:43:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How can India still qualify for T20 World Cup 2026 semi-final after 76-run drubbing vs South Africa?",
+    "desc": "India suffered a crushing 76-run defeat to South Africa in their first Super Eights clash at the Narendra Modi Stadium in Ahmedabad. Batting first, the Proteas were reduced to 20/3 in the powerplay, but David...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-can-india-still-qualify-for-t20-world-cup-2026-semi-final-after-76-run-drubbing-vs-south-africa-2026-02-22-1031281",
+    "time": "2026-02-22T17:07:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Africa 'silences' India in Ahmedabad, humiliate hosts by 76 runs in T20 World Cup",
+    "desc": "South Africa thumped India by 76 runs in the Super 8 clash of the T20 World Cup at the Narendra Modi Stadium in Ahmedabad. It was a high-class performance from the Proteas as they left...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-silences-india-in-ahmedabad-humiliate-hosts-by-70-runs-in-t20-world-cup-2026-02-22-1031280",
+    "time": "2026-02-22T17:05:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jasprit Bumrah sets new national record with three-wicket haul against South Africa in T20 World Cup 2026",
+    "desc": "Ace pacer Jasprit Bumrah breathed fire in India’s Super Eights clash against South Africa in the ongoing T20 World Cup 2026. He conceded only 15 runs in his four overs and claimed three crucial wickets...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-sets-new-national-record-with-three-wicket-haul-against-south-africa-in-t20-world-cup-2026-2026-02-22-1031271",
+    "time": "2026-02-22T15:23:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is Heinrich Klaasen not playing India vs South Africa clash in Super Eights of the T20 World Cup 2026?",
     "desc": "Star South Africa keeper-batter Heinrich Klaasen retired from international cricket in June last year. He wanted to focus on franchise cricket and opted out of international cricket for the same reason. However, South Africa seem...",
     "img": "",
@@ -34,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/england-register-12th-consecutive-win-over-sri-lanka-thump-hosts-in-t20-world-cup-super-8-round-2026-02-22-1031257",
     "time": "2026-02-22T12:50:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Sport doesn’t care about feelings'",
-    "desc": "Senior India batter Smriti Mandhana played a scintillating knock of 82 runs off 55 balls in the third and final T20I at the Adelaide Oval. Jemimah Rodrigues played the perfect role of the second fiddle,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sport-doesnt-care-about-feelings-smriti-mandhana-shares-heartfelt-post-after-series-winning-knock-vs-australia-2026-02-22-1031250",
-    "time": "2026-02-22T12:06:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nitish Kumar awards cricketer Vaibhav Sooryavanshi Rs 50 lakh for U19 World Cup glory",
-    "desc": "India's 14-year-old cricket sensation Vaibhav Sooryavanshi lit up the Harare Sports Club on February 6, smashing a blistering 175 off 80 balls in the U19 World Cup final against England. His explosive knock- featuring 15...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bihar-cm-nitish-kumar-awards-14-year-old-cricketer-vaibhav-sooryavanshi-rs-50-lakh-for-u19-world-cup-glory-video-2026-02-22-1031249",
-    "time": "2026-02-22T11:50:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 World Cup stats of India and South Africa players ahead of Super 8 clash in Ahmedabad",
-    "desc": "India and South Africa face each other today in the opening Super 8 clash of the T20 World Cup. The match will be played at the Narendra Modi Stadium in Ahmedabad as the Indian fans...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-sa-t20-world-cup-stats-of-india-and-south-africa-players-ahead-of-super-8-clash-in-ahmedabad-2026-02-22-1031243",
-    "time": "2026-02-22T11:02:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India win Rising Women's Asia Cup final, Tejal Hasabnis, Prema Rawat rattle Bangladesh",
-    "desc": "India have defeated Bangladesh by 46 runs to win their second Rising Women’s Asia Cup. The Radha Yadav-led side once again produced an all-round show at the Terdthai Cricket Ground in Bangkok, leaving Bangladesh little...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-win-rising-women-s-asia-cup-final-tejal-hasabnis-prema-rawat-rattle-bangladesh-2026-02-22-1031241",
-    "time": "2026-02-22T10:29:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will rain play spoilsport in India vs South Africa clash in T20 World Cup 2026?",
-    "desc": "India will host South Africa in their opening Super Eights clash of the ongoing T20 World Cup 2026 at the Narendra Modi Stadium in Ahmedabad. Both teams are currently undefeated in the tournament and will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ahmedabad-weather-will-rain-play-spoilsport-in-india-vs-south-africa-clash-in-t20-world-cup-2026-2026-02-22-1031237",
-    "time": "2026-02-22T10:02:40.000Z"
   }
 ];

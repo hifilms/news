@@ -1,9 +1,9 @@
 const newsData_mr = [
   {
     "cat": "Sports",
-    "title": "वरुणने 'किलर' मिलरला टिपलं; निम्मी आफ्रिका तंबूत, जाणून घ्या LIVE अपडेट्स",
+    "title": "नरेंद्र मोदी स्टेडियमवर दक्षिण आफ्रिकेकडून टीम इंडियाचा मोठा पराभव! विश्वचषकात सुपर-8 ची वाटचाल खडतर",
     "desc": "आयसीसी टी-20 विश्वचषक 2026 च्या &lsquo;सुपर-8&rsquo; टप्प्याला आता खऱ्या अर्थाने रंग चढू लागला आहे. या फेरीतील भारताची पहिलीच लढत 2024 ची उपविजेता संघ दक्षिण आफ्रिकेविरुद्ध होणार आहे. हा बहुचर्चित सामना रविवारी (22 फेब्रुवारी) अहमदाबादमधील भव्य नरेंद्र मोदी स्टेडियम येथे रंगणार आहे. क्रिकेट पंडितांच्या मते ही &lsquo;फायनलपूर्वीची फायनल&rsquo; ठरू शकते. भारताला या सामन्यात विजयाचा प्रबळ दावेदार मानले जात असले, तरी कठीण गटातून दमदार कामगिरी करत पुढे आलेल्या आफ्रिकन संघाला कमी लेखणे धोकादायक ठरेल. विशेषतः न्यूझीलंडविरुद्ध त्यांनी नोंदवलेला सहज विजय पाहता, भारतासाठी ते सर्वात मोठे आव्हान ठरू शकतात. (Ind vs Sa Live Update Super 8 T20 World Cup Match)",
-    "img": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/02/22/ee7250ed11b53dca7e7f9857f0513a0d17717607944921091_original.jpg",
+    "img": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/02/22/749b6fc5cbfbbd4d90fc1299432ee8dc17717803451211091_original.jpg",
     "src": "abplive.com",
     "url": "https://marathi.abplive.com/sports/cricket/ind-vs-sa-live-score-super-8-t20-world-cup-2026-suryakumar-yadav-abhishek-sharma-aiden-markram-india-vs-south-africa-scorecard-update-marathi-news-1413747",
     "time": "2026-02-22T11:46:52.000Z"
