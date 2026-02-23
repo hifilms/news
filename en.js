@@ -1,6 +1,204 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "West Bengal CM Mamata Banerjee condoles Mukul Roy's death, recalls long political association",
+    "desc": "The West Bengal CM said she was \"shocked and saddened\" by Mr. Roy's passing and recalled that he had worked tirelessly for the Trinamool Congress since its founding, earning acceptance across all levels of the party",
+    "img": "https://th-i.thgim.com/public/incoming/42esl1/article70665846.ece/alternates/LANDSCAPE_1200/6607_23-11-2016_16-19-15_MAMATABANERJEEDHARNA_G.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cm-mamata-banerjee-condoles-mukul-roys-death-recalls-long-political-association/article70665835.ece",
+    "time": "2026-02-23T06:41:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. to stop collecting tariffs deemed illegal by Supreme Court on February 24",
+    "desc": "The U.S. CBP message noted that the collection halt ‌does not affect any other tariffs imposed by Mr. Trump, including those under the Section 232 national security statute and the Section 301 unfair trade practices statute.",
+    "img": "https://th-i.thgim.com/public/incoming/um9nin/article70665844.ece/alternates/LANDSCAPE_1200/2026-02-20T150322Z_646541143_RC261JATTPAY_RTRMADP_3_USA-TRUMP-TARIFFS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-to-stop-collecting-tariffs-deemed-illegal-by-supreme-court-on-february-24-2026/article70665806.ece",
+    "time": "2026-02-23T06:36:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Blow to Trump's tariffs: US to halt illegal duty collections on global imports from Tuesday",
+    "desc": "US Customs will cease collecting tariffs under the International Emergency Economic Powers Act from Tuesday, following a Supreme Court ruling deeming them unlawful. This move comes as President Trump introduces new 15% global tariffs under a different legal basis. The suspension specifically targets IEEPA duties, with other trade tariffs unaffected.",
+    "img": "https://static.toiimg.com/photo/msid-128702309,imgsize-2487224.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/blow-to-trumps-tariffs-us-to-halt-illegal-duty-collections-on-global-imports-from-tuesday/articleshow/128701657.cms",
+    "time": "2026-02-23T06:33:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Thane tribunal orders ₹28.68 lakh compensation to tailor, domestic help injured in 2018 accident",
+    "desc": "The tailor suffered 80% permanent disability after paralysis of both her lower limbs, but the MACT pegged her functional disability at 50%, noting that contemporary electric sewing machines may be operated using hands and elbows.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/thane-tribunal-orders-2868-lakh-compensation-to-tailor-domestic-help-injured-in-2018-accident/article70665847.ece",
+    "time": "2026-02-23T06:28:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Eze double fires Arsenal clear as Mac Allister rescues Liverpool",
+    "desc": "Arsenal solidified their Premier League lead with a commanding 4-1 victory over Tottenham, featuring a stellar brace from Eberechi Eze. Meanwhile, Liverpool secured a dramatic 1-0 win against Nottingham Forest thanks to Alexis Mac Allister's last-gasp goal, keeping their European aspirations alive. Fulham and Crystal Palace also clinched important wins.",
+    "img": "https://static.toiimg.com/photo/msid-128702175,imgsize-155852.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/epl/top-stories/premier-league-eberechi-eze-double-fires-arsenal-clear-as-alexis-mac-allisters-97th-minute-strike-rescues-liverpool/articleshow/128702158.cms",
+    "time": "2026-02-23T06:28:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Is Emraan Hashmi playing the 'Bada Sahab'?",
+    "desc": "The Revenge' returns with Ranveer Singh as Hamza, seeking vengeance after Rehman Dakait’s death. A Letterboxd listing reveals Emraan Hashmi among the cast, sparking rumours he’s the mysterious ‘Bade Sahab’. The Dhurandhar sequel releases March 19, clashing with Yash’s 'Toxic' at the box office.",
+    "img": "https://static.toiimg.com/photo/msid-128702118,imgsize-74872.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-the-revenge-is-emraan-hashmi-playing-the-villainous-bada-sahab-social-network-platform-spoilers-leaked-reports/articleshow/128702118.cms",
+    "time": "2026-02-23T06:26:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We've got to take him down': Miller reveals strategy that dismantled Chakravarthy",
+    "desc": "David Miller revealed South Africa's strategic clarity and disciplined execution were key to their dominant Super 8 victory over India. He emphasized capitalizing on loose deliveries and taking calculated risks against spinner Varun Chakravarthy, who had a difficult outing. Miller's composed, fundamental approach underpinned his match-winning 63 off 35 balls.",
+    "img": "https://static.toiimg.com/photo/msid-128701827,imgsize-111118.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/weve-got-to-take-him-down-david-miller-reveals-strategy-that-dismantled-varun-chakravarthy/articleshow/128701588.cms",
+    "time": "2026-02-23T06:25:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lesser known facts about Leonardo DiCaprio",
+    "desc": "Leonardo DiCaprio's early life in Echo Park was shaped by unconventional, artistic parents and financial struggles. A pivotal moment occurred in Florence when his mother felt him kick before naming him Leonardo. Despite early setbacks, including being fired from 'Romper Room' and facing rejections, his determination to keep his name fueled his rise.",
+    "img": "https://static.toiimg.com/photo/msid-128698909,imgsize-545682.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lesser-known-facts-about-leonardo-dicaprio-the-lead-star-of-bafta-2026s-best-film-one-battle-after-another/articleshow/128698823.cms",
+    "time": "2026-02-23T06:08:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Markets trade in green after US SC's blow to Trump's tariffs; HSI jumps over 2%",
+    "desc": "Asian markets rose as the US dollar weakened following a Supreme Court ruling invalidating a key part of President Trump's tariff framework. Technology stocks led the gains across the region. The decision injects uncertainty into the trade outlook, with potential legal battles and revised tariff plans expected.",
+    "img": "https://static.toiimg.com/photo/msid-128701397,imgsize-93864.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-today-markets-trade-in-green-after-us-scs-blow-to-trumps-tariffs-hsi-jumps-over-2/articleshow/128700304.cms",
+    "time": "2026-02-23T06:02:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘24 months of planning, Raza’s spark’: Ryan Burl on Zimbabwe’s dream run",
+    "desc": "Zimbabwe have defied expectations, reaching the Super 8s of the 2026 T20 World Cup through a meticulously executed 24-month plan. Their journey, marked by wins against Oman, Australia, and Sri Lanka, showcases strategic hard work and belief. Now, facing giants like India, South Africa and the West Indies, the team remains focused on their next challenge, one game at a time.",
+    "img": "https://static.toiimg.com/photo/msid-128701243,imgsize-50512.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/24-months-of-planning-sikandar-razas-spark-ryan-burl-on-zimbabwes-dream-run-at-t20-world-cup-exclusive/articleshow/128701120.cms",
+    "time": "2026-02-23T06:00:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What's the outlook for Nifty for February 23-27 week? Check list of top stock recommendations",
+    "desc": "KEI Industries, and Punjab National Bank (PNB) are the stocks recommended by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities for the week starting February 23, 2026. Here’s his detailed analysis and outlook for Nifty and Bank Nifty:",
+    "img": "https://static.toiimg.com/photo/msid-128701331,imgsize-97204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stocks-to-buy-this-week-february-23-to-february-27-stock-recommendations-kei-industries-punjab-national-bank/articleshow/128701305.cms",
+    "time": "2026-02-23T05:59:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "BAFTA 2026 honors Dharmendra in the Memoriam tribute",
+    "desc": "Indian cinema legend Dharmendra was honored in the BAFTA Awards 2026 Memoriam, a poignant tribute to his illustrious career. He was the sole Indian actor featured alongside Hollywood greats. The article also highlights Manipur's film 'Boong' winning Best Children's and Family Film, marking a significant moment for Indian cinema at the prestigious awards. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128701162,imgsize-54600.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bafta-2026-honors-dharmendra-in-the-memoriam-tribute-with-val-kilmer-robert-duvall-and-others/articleshow/128701162.cms",
+    "time": "2026-02-23T05:56:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Udhayanidhi Stalin’s ‘don't fear PM Modi or even his father’ remark sparks BJP backlash",
+    "desc": "Tamil Nadu Deputy Chief Minister Udhayanidhi Stalin's remark that the DMK \"neither fears the Prime Minister nor his father\" has sparked a political storm. BJP spokesperson Shehzad Poonawalla accused Stalin of making personal attacks against PM Modi and his late father, citing past controversial statements.",
+    "img": "https://static.toiimg.com/photo/msid-128701233,imgsize-616762.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-polls-udhayanidhi-stalins-dont-fear-pm-modi-or-even-his-father-remark-sparks-bjp-backlash/articleshow/128701174.cms",
+    "time": "2026-02-23T05:55:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Where are gold prices headed this week &amp; what are the key levels? Top things to know",
+    "desc": "Gold prices suggest an underlying bullish bias, according to Manav Modi, Senior Analyst, Commodity Research at Motilal Oswal Financial Services Ltd. The commodities’ expert shares the factors that will guide gold prices in the coming days and key levels to watch out for:",
+    "img": "https://static.toiimg.com/photo/msid-128701133,imgsize-88012.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-february-23-2026-week-should-you-buy-or-sell-mcx-gold/articleshow/128701104.cms",
+    "time": "2026-02-23T05:52:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's road to the final four gets complicated",
+    "desc": "South Africa and England have started the Super 8s with dominant wins, topping their respective groups. South Africa thrashed defending champions India by 76 runs, while England secured a 51-run victory over Sri Lanka. These early results have already created significant shifts in the standings, putting pressure on teams like India.",
+    "img": "https://static.toiimg.com/photo/msid-128701006,imgsize-203568.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-super-8-points-table-indias-road-to-the-final-four-gets-complicated/articleshow/128700915.cms",
+    "time": "2026-02-23T05:49:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Here’s what went down with Paddington Bear at the BAFTAs",
+    "desc": "Paddington Bear made a historic appearance at the 2026 BAFTAs, delighting audiences as he presented the award for Children's & Family Film. This charming bear, renowned for his affinity for marmalade sandwiches, has now entered the record books as the first-ever bear presenter at the prestigious event.",
+    "img": "https://static.toiimg.com/photo/msid-128700966,imgsize-52508.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/paddington-bear-packs-surprises-at-baftas-2026-with-not-very-good-manners-heres-what-happened/articleshow/128700902.cms",
+    "time": "2026-02-23T05:47:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Guwahati’s new airport terminal now operational",
+    "desc": "The new terminal at Lokapriya Gopinath Bordoloi International Airport began commercial operations on February 22, marking a major boost to connectivity in the Northeast. Himanta Biswa Sarma welcomed the first passengers as a ceremonial boarding pass was issued. Designed by architect Nuru Karim, the award-winning terminal is inspired by Assam’s kopou phool and features over 140 MT of bamboo, blending regional identity with modern infrastructure.",
+    "img": "https://th-i.thgim.com/public/incoming/ev77pr/article70665773.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-23%20at%2009.24.55.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-guwahatis-new-airport-terminal-now-operational/article70665769.ece",
+    "time": "2026-02-23T05:43:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock markets trade higher in early session tracking rally in Asian peers",
+    "desc": "“Even the new 15% global tariff imposed under Section 122 will be challenged in courts, and the probability of this decision getting annulled is high since Section 122 allows the U.S. President to impose tariffs to tackle a serious balance of payments crisis, which the U.S. doesn’t have now,” an expert said.",
+    "img": "https://th-i.thgim.com/public/incoming/x4w7tg/article70665676.ece/alternates/LANDSCAPE_1200/2026-02-17T064804Z_151756960_RC2RCJA739DV_RTRMADP_3_INDIA-RESULTS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/stock-markets-trade-early-session-february-23-2026/article70665655.ece",
+    "time": "2026-02-23T05:18:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "IDFC First Bank stock crashes 20%: Share hits lower circuit after Rs 590 crore fraud in Haryana government accounts",
+    "desc": "IDFC First Bank shares plunged 20% after the bank revealed a Rs 590 crore fraud at its Chandigarh branch involving unauthorized transactions from Haryana government accounts. Four employees have been suspended as an internal investigation and police complaint are underway. The bank is taking steps to recover funds and conduct a forensic audit, assuring other customers remain unaffected.",
+    "img": "https://static.toiimg.com/photo/msid-128699672,imgsize-141653.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/idfc-first-bank-stock-crashes-20-share-hits-lower-circuit-after-rs-590-crore-fraud-in-haryana-government-accounts/articleshow/128698880.cms",
+    "time": "2026-02-23T05:00:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Simply throwing the bat': Gavaskar tears into India after Super 8 collapse",
+    "desc": "India suffered a devastating 76-run loss to South Africa in their T20 World Cup Super 8 opener. The batting lineup crumbled chasing 187, with only Shivam Dube offering resistance. Experts criticized India's approach, contrasting it with South Africa's adaptable batting. This heavy defeat severely impacts India's net run rate and semi-final hopes.",
+    "img": "https://static.toiimg.com/photo/msid-128699137,imgsize-197492.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/simply-throwing-the-bat-sunil-gavaskar-tears-into-india-after-super-8-collapse/articleshow/128699162.cms",
+    "time": "2026-02-23T04:55:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ahead of Ranji final, Karnataka boys hail KL Rahul’s contribution",
+    "desc": "KL Rahul's timely return to Karnataka for the Ranji Trophy has significantly boosted the team's confidence and performance. His leadership, extensive experience, and willingness to mentor younger players have been crucial. Rahul's consistent batting, including centuries in past finals, provides a strong foundation as Karnataka head into the championship match.",
+    "img": "https://static.toiimg.com/photo/msid-128699261,imgsize-260936.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ahead-of-ranji-trophy-final-karnataka-boys-hail-kl-rahuls-contribution/articleshow/128699277.cms",
+    "time": "2026-02-23T04:42:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi police makes 5th arrest; nabs Youth Congress worker from Gwalior",
+    "desc": "Delhi Police arrested Jitendra Yadav in Gwalior, marking the fifth arrest in connection with the Youth Congress protest at the AI Impact Summit. The protest, described by a court as a \"blatant assault on public order,\" involved displaying T-shirts with slogans against the government and a trade deal, leading to a scuffle with security.",
+    "img": "https://static.toiimg.com/photo/msid-128699255,imgsize-931266.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/shirtless-ai-summit-protest-delhi-police-makes-5th-arrest-nabs-youth-congress-worker-from-gwalior/articleshow/128699234.cms",
+    "time": "2026-02-23T04:42:07.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "VACB records Union Minister Suresh Gopi’s statement in Sabarimala flagmast installation case",
     "desc": "Suresh Gopi is among 27 persons who donated gold and cash for installation of flagmast. Officials say actors Mohanlal and Renji Panicker, and film producer M. Renjith, were among the donors, and that VACB will record their statements",
     "img": "https://th-i.thgim.com/public/incoming/f9nrkh/article70665565.ece/alternates/LANDSCAPE_1200/10018_26_4_2025_19_34_41_3_SURESH_GOPI_03.JPG",
@@ -243,15 +441,6 @@ const newsData_en = [
     "time": "2026-02-23T03:03:21.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Prakash Raj mocks Kerala Story 2, posts pics of beef, pork",
-    "desc": "The trailer for 'The Kerala Story 2' has ignited discussions, particularly for its portrayal of mandatory beef consumption. Actor Prakash Raj has praised the state's rich culinary diversity, while filmmaker Anurag Kashyap has vehemently criticized the project as 'outright propaganda.' Scheduled for release on February 27, 2026, the film claims to draw inspiration from real-life accounts of coercive conversions.",
-    "img": "https://static.toiimg.com/photo/msid-128696565,imgsize-40346.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/prakash-raj-mocks-the-kerala-story-2-posts-photos-of-beef-and-pork-dishes-says-all-of-them-live-in-harmony/articleshow/128696565.cms",
-    "time": "2026-02-23T02:54:28.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran vows to defend itself but sees diplomatic solution to U.S. standoff",
     "desc": "Foreign Minister Abbas Araghchi said he expected new talks on the details of a deal, \"probably\" on February 26, as fears loomed of renewed conflict after Washington carried out a major redeployment of military assets to the region",
@@ -297,24 +486,6 @@ const newsData_en = [
     "time": "2026-02-23T02:14:51.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "What Eric Dane told Rebecca Gayheart in ‘Famous Last Words’",
-    "desc": "Late actor Eric Dane, in his final interview, spoke profoundly about his enduring love for ex-wife Rebecca Gayheart. Despite their 2018 separation, Dane expressed they still loved each other deeply, acknowledging Gayheart as the woman he'd never love as intensely again. Their shared journey, including raising two daughters, remained a central theme.",
-    "img": "https://static.toiimg.com/photo/msid-128695716,imgsize-78608.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/eric-danes-final-words-to-rebecca-gayheart-never-have-fallen-in-love-with-another-woman/articleshow/128695664.cms",
-    "time": "2026-02-23T02:09:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Zootopia 2’ wins best animated film at the BAFTA awards",
-    "desc": "Zootopia 2 has clinched the Best Animated Film award at the 2026 BAFTA ceremony, marking a significant achievement for the critically acclaimed sequel. Co-creator Jared Bush highlighted the film's message about embracing differences. The popular animated feature, which has garnered immense success, is now setting its sights on the upcoming Oscars.",
-    "img": "https://static.toiimg.com/photo/msid-128695550,imgsize-27008.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zootopia-2-lands-best-animated-film-title-at-baftas-jared-bush-says-our-differences-make-us-all-fantastic/articleshow/128695550.cms",
-    "time": "2026-02-23T02:04:00.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Be aware': Indian embassy issues advisory for nationals in Mexico after powerful drug lord 'El Mencho' killed",
     "desc": "The Indian Embassy in Mexico has issued an urgent advisory for its citizens to remain indoors due to widespread violence following a major security operation. The operation resulted in the death of a top Jalisco New Generation Cartel leader, sparking retaliatory actions across several states and paralyzing transport networks.",
@@ -324,15 +495,6 @@ const newsData_en = [
     "time": "2026-02-23T02:02:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Jennifer Lopez's heartfelt message on her twins' birthday",
-    "desc": "Jennifer Lopez celebrated a significant milestone as her twins, Max and Emme, turned 18. The pop icon shared a touching Instagram video montage, reminiscing about their infancy and expressing her deep love. She described them as \"wonder twins\" and \"angels sent straight from heaven.",
-    "img": "https://static.toiimg.com/photo/msid-128695575,imgsize-974822.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/jennifer-lopez-shares-heartfelt-message-as-her-wonder-twins-turn-18/articleshow/128695575.cms",
-    "time": "2026-02-23T02:02:18.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Continued delay' in restoration of Statehood to J&K is concerning: Farooq Abdullah",
     "desc": "Repeated assurances have been made at the highest levels regarding the restoration of statehood at the earliest. However, the absence of a clear timeline has created uncertainty and disappointment among the people, says Farooq Abdullah",
@@ -340,15 +502,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/continued-delay-in-restoration-of-statehood-to-jk-is-concerning-farooq-abdullah/article70664632.ece",
     "time": "2026-02-23T01:47:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Taapsee-starrer 'Assi' ends first weekend with Rs 4 crore",
-    "desc": "Anubhav Sinha's 'Assi', featuring Taapsee Pannu, has hit the screens but met with a tepid response from audiences, raking in Rs 1 crore on its opening day and finishing the weekend with Rs 4.07 crore. While the film delves into a vital topic of sexual assault, it struggles to find its footing amid intense box office rivalry. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128695166,imgsize-31094.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/assi-box-office-collection-day-3-and-day-4-live-taapsee-pannu-starrer-courtroom-drama-ends-first-weekend-with-rs-4-crore/articleshow/128695166.cms",
-    "time": "2026-02-23T01:44:15.000Z"
   },
   {
     "cat": "Sports",
@@ -630,24 +783,6 @@ const newsData_en = [
     "time": "2026-02-22T15:53:44.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Kishan, not Abhishek, goes for duck against SA in Super 8 clash",
-    "desc": "India faced an early setback as Ishan Kishan departed for a duck against South Africa. Earlier, David Miller's aggressive 63 and Dewald Brevis's 45 powered South Africa to 187/7, despite Jasprit Bumrah's stellar bowling. Tristan Stubbs' late fireworks ensured a challenging total for India in the Super Eights clash.",
-    "img": "https://static.toiimg.com/photo/msid-128681452,imgsize-44426.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/for-a-change-not-abhishek-sharma-ishan-kishan-goes-for-a-duck-against-south-africa-in-super-8-clash/articleshow/128681233.cms",
-    "time": "2026-02-22T15:49:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'That is shocking': Gambhir faces heat after Axar sits out IND vs SA match",
-    "desc": "India captain Suryakumar Yadav said the unchanged XI meant Axar Patel was left out again, calling it a harsh but tactical call. The decision triggered fan backlash online. South Africa recovered from 20/3 through David Miller and Dewald Brevis, posting 187/7. Miller and Brevis led the fightback, while Tristan Stubbs finished strongly. Jasprit Bumrah starred with 3/15, but India face a tough chase.",
-    "img": "https://static.toiimg.com/photo/msid-128681052,imgsize-56372.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/that-is-shocking-gautam-gambhir-faces-heat-after-axar-patel-sits-out-ind-vs-sa-t20-world-cup-super-8-match/articleshow/128680329.cms",
-    "time": "2026-02-22T15:27:03.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Kerala CM flags ulterior motives behind narratives targeting Kerala",
     "desc": "Speaking at the grand finale, valedictory ceremony and prize distribution of the first edition of the Chief Minister’s Mega Quiz, Pinarayi says students must be capable of recognising and countering such narratives by having a clear understanding of the State’s history and present-day achievements",
@@ -655,24 +790,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/kerala-cm-flags-ulterior-motives-behind-narratives-targeting-kerala/article70663862.ece",
     "time": "2026-02-22T15:23:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Quantum Century’ expo draws enthusiastic crowds",
-    "desc": "The ‘Quantum Century Exhibition’ at the Government College for Women in Vazhuthacad features engaging demonstrations by science students, breaking down complex theories and celebrates the contributions of pioneering women scientists like Bibha Chowdhuri and Thayyoor K. Radha.",
-    "img": "https://th-i.thgim.com/public/incoming/7pxjd1/article70663985.ece/alternates/LANDSCAPE_1200/NH22QuantumCentury03.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/demystifying-the-microscopic-quantum-century-expo-draws-enthusiastic-crowds/article70663908.ece",
-    "time": "2026-02-22T14:50:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Eight persons with alleged links to Pakistan, Bangladesh terror outfits arrested from Bengal, Tamil Nadu",
-    "desc": "According to the police, phones recovered from the eight arrested — one identified to be from West Bengal and the rest as Bangladesh nationals — revealed that they had done reconnaissance of different cities and had been planning a major terror activity in heavy footfall and sensitive areas.",
-    "img": "https://th-i.thgim.com/public/incoming/v1yxd1/article70663949.ece/alternates/LANDSCAPE_1200/20260222170L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/eight-persons-with-alleged-links-to-pakistan-bangladesh-terror-outfits-arrested-from-bengal-tamil-nadu/article70663339.ece",
-    "time": "2026-02-22T14:37:00.000Z"
   },
   {
     "cat": "Sports",
@@ -684,15 +801,6 @@ const newsData_en = [
     "time": "2026-02-22T14:31:24.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Play what's in front of you': WI coach defends Super 8 pre-seeding amid debate",
-    "desc": "West Indies coach Daren Sammy defended the T20 World Cup's pre-seeding system, suggesting it motivated teams like Zimbabwe to exceed expectations. He highlighted the logistical benefits for fans and noted that group placements can inspire teams to perform at a higher level. Sammy emphasized respecting all opponents, regardless of perceived status.",
-    "img": "https://static.toiimg.com/photo/msid-128679205,imgsize-37724.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/play-whats-in-front-of-you-west-indies-coach-defends-super-8-pre-seeding-amid-debate/articleshow/128679091.cms",
-    "time": "2026-02-22T14:25:13.000Z"
-  },
-  {
     "cat": "Business",
     "title": "SBI plans to raise green advances share up to 10% by 2030, launches centre for sunrise sectors",
     "desc": "State Bank of India aims to increase its green advances to 7.5-10% of its loan portfolio by 2030, supporting India's sustainable financing goals. The bank launched CHAKRA, a Centre of Excellence for green financing, and hosted its Green Marathon to promote environmental commitment and collective climate action.",
@@ -700,60 +808,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/sbi-plans-to-raise-green-advances-share-to-up-to-10-by-2030-launches-centre-for-sunrise-sectors/articleshow/128678790.cms",
     "time": "2026-02-22T14:01:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hara-kiri at Pallekele! Sri Lanka batters surrender meekly; England win by 51 runs",
-    "desc": "Phil Salt’s sublime 62 laid the foundation for England’s commanding win before Sri Lanka’s batting imploded spectacularly in Kandy. After their bowlers restricted England to a below-par 146, Sri Lanka collapsed in a heap, undone by reckless shot selection and relentless pressure from England’s attack, led by Will Jacks and Jofra Archer.",
-    "img": "https://static.toiimg.com/photo/msid-128676932,imgsize-57918.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/hara-kiri-at-pallekele-sri-lankas-batters-surrender-meekly-as-phil-salts-sublime-62-powers-england-to-a-51-run-win/articleshow/128676935.cms",
-    "time": "2026-02-22T12:59:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Don’t think PCB chief has given full freedom': Mohsin Naqvi under fire",
-    "desc": "Manoj Tiwary criticised PCB chief Mohsin Naqvi, saying a lack of clarity and freedom may be causing tension between Pakistan’s coach and captain after Salman Agha’s bottle-throwing incident. He claimed it showed a trust deficit in the team setup. However, coach Mike Hesson dismissed rift rumours, saying Agha was frustrated with his own dismissal and the discussion was about batting plans, not an argument.",
-    "img": "https://static.toiimg.com/photo/msid-128676216,imgsize-24584.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/dont-think-pcb-chief-has-given-full-freedom-mohsin-naqvi-under-fire-amid-pakistan-cricket-tensions/articleshow/128674891.cms",
-    "time": "2026-02-22T12:08:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India A beat Bangladesh A to lift Women’s Asia Cup Rising Stars 2026 title",
-    "desc": "India A Women beat Bangladesh by 46 runs to win the ACC Women’s Asia Cup Rising Stars title. Tejal Hasabnis scored an unbeaten 51, while captain Radha Yadav added 36 to help India post 134/7. Bangladesh were bowled out for 88, with Prema Rawat taking 3/12. Hasabnis was named Player of the Match for her match-winning knock.",
-    "img": "https://static.toiimg.com/photo/msid-128674722,imgsize-112696.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/tejal-hasabnis-stars-as-india-a-beat-bangladesh-a-by-46-runs-to-lift-womens-asia-cup-rising-stars-2026-title/articleshow/128674440.cms",
-    "time": "2026-02-22T11:24:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "FMCG firms bet on volume-led growth as easing inflation seen improving margins in FY27",
-    "desc": "India's leading FMCG companies anticipate a shift towards volume-driven growth in FY27, fueled by easing inflation and softening commodity prices. Executives report a more favorable operating environment, with mid- to high single-digit volume growth already observed. This trend is expected to be supported by factors like GST rationalization and a healthy crop season, leading to improved EBITDA margins.",
-    "img": "https://static.toiimg.com/photo/msid-128673812,imgsize-1359315.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/fmcg-firms-bet-on-volume-led-growth-as-easing-inflation-seen-improving-margins-in-fy27/articleshow/128673775.cms",
-    "time": "2026-02-22T10:46:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Ethanol boom faces reality check as surplus capacity clouds green fuel roadmap",
-    "desc": "India's ethanol production capacity now significantly outstrips demand, leading to over 50% excess capacity. This surplus challenges the green fuel program's viability, impacting farmers and investors, as distilleries operate at low utilization rates. Future growth hinges on exploring diesel blending and flex-fuel vehicle adoption, though policy clarity remains elusive.",
-    "img": "https://static.toiimg.com/photo/msid-128673013,imgsize-898527.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/ethanol-boom-faces-reality-check-as-surplus-capacity-clouds-green-fuel-roadmap/articleshow/128672851.cms",
-    "time": "2026-02-22T10:16:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What to expect on Monday as Trump raises tariffs to 15%",
-    "desc": "Dalal Street faces renewed uncertainty as US President Trump increased global import tariffs to 15%, just after the Supreme Court struck down his earlier program. Investors are concerned about the unpredictability of trade tensions, despite expectations that the current rate may be temporary. This development adds to existing pressures on Indian equities from Fed policy and weak IT stocks.",
-    "img": "https://static.toiimg.com/photo/msid-128672017,imgsize-63548.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/dalal-street-watch-what-to-expect-on-monday-as-trump-raises-tariffs-to-15/articleshow/128671808.cms",
-    "time": "2026-02-22T09:47:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -844,59 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/the-global-economic-consequences-of-the-scotus-ruling-invalidating-trump-tariffs/article70659908.ece",
     "time": "2026-02-21T18:44:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rahul plays an influential role in Karnataka’s progress to the final",
-    "desc": "The senior pro has been priceless both with his batting and the experience he brings to the side; the 33-year-old was one of the five Test cricketers in the State’s recent playing XI; it will be a full-circle moment if he can inspire the team to a ninth title",
-    "img": "https://th-i.thgim.com/public/incoming/xtubtd/article70661067.ece/alternates/LANDSCAPE_1200/20_RVM_6733.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/rahul-plays-an-influential-role-in-karnatakas-progress-to-the-final/article70661069.ece",
-    "time": "2026-02-21T18:17:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "We played enough against England, now able to react to different situations: Sri Lanka coach Sridhar",
-    "desc": "The pressure will be same for both teams. The teams which do things correctly under pressure, the teams which make lesser mistakes is the team that is likely to go through, says Sri Lanka’s fielding coach R. Sridhar",
-    "img": "https://th-i.thgim.com/public/incoming/r0makk/article70661196.ece/alternates/LANDSCAPE_1200/Sri_Lanka_Zimbabwe_T20_WCup_Cricket_04939.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/we-played-enough-against-england-now-able-to-react-to-different-situations-sri-lanka-coach-sridhar/article70661175.ece",
-    "time": "2026-02-21T17:59:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rain washes out Super Eights match between New Zealand and Pakistan",
-    "desc": "Pakistan will take on England next in Pallekele while New Zealand welcomes Sri Lanka back to Colombo. Despite no action on the field, both teams’ selections were key takeaways on their outlook towards Group 2.",
-    "img": "https://th-i.thgim.com/public/incoming/iziazg/article70661106.ece/alternates/LANDSCAPE_1200/New_Zealand_Pakistan_T20_WCup_Cricket_78485.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/pakistan-new-zealand-colombo-t20-world-cup-super-eight-match-updates/article70660266.ece",
-    "time": "2026-02-21T17:38:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "court sends four Youth Congress workers to five-day police custody",
-    "desc": "The police claim that the aim of the custodial interrogation is to find out the ‘conspiracy’ behind the protest, the source of funding and place where the T-shirts worn by the accused were printed at.",
-    "img": "https://th-i.thgim.com/public/incoming/2s4g99/article70659366.ece/alternates/LANDSCAPE_1200/PTI02_20_2026_000216B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/iyc-workers-arrest-delhi-court-delhi-police-ai-summit-shirtless-protest/article70659356.ece",
-    "time": "2026-02-21T16:27:16.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Five terrorists, two security personnel killed in NW Pakistan",
-    "desc": "The terrorists rammed an explosive-laden vehicle into one of the vehicles of the leading group, resulting in the death of commanding officer Lt. Colonel Shahzada Gul Faraz and Sepoy Karamat Shah, the media wing added.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/terrorists-security-personnel-killed-in-khyber-pakhtunkhwa-nw-pakistan/article70659973.ece",
-    "time": "2026-02-21T13:52:38.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Hungary says it will block key E.U. loan to Ukraine until Russian oil shipments resume",
-    "desc": "Russian oil shipments to Hungary and Slovakia have been interrupted since January 27, after Ukrainian officials said a Russian drone attack damaged the Druzhba pipeline, which carries Russian crude across Ukrainian territory and into Central Europe",
-    "img": "https://th-i.thgim.com/public/incoming/a25b4/article70660194.ece/alternates/LANDSCAPE_1200/Hungary_Ukraine_Diesel_Cutoff_50211.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/hungary-says-it-will-block-key-eu-loan-to-ukraine-until-russian-oil-shipments-resume/article70660093.ece",
-    "time": "2026-02-21T13:32:25.000Z"
   }
 ];
