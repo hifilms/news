@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "ভোররাতে বিভীষিকা! যাত্রীবাহী বাস উলটে গিয়ে পড়ল নদীতে, মৃত অন্তত ১৮...",
+    "desc": "সোমবার ভোরে নেপালের ধাদিং জেলায় একটি যাত্রীবাহী বাস নিয়ন্ত্রণ হারিয়ে ত্রিশূলি নদীতে পড়ে যায়। এই ভয়াবহ দুর্ঘটনায় এখন পর্যন্ত ১৮ জনের মৃত্যু হয়েছে এবং ২৪ জনেরও বেশি মানুষ আহত হয়েছেন। নেপালের নিরাপত্তা বাহিনীর বিশেষ ডুবুরি দল বর্তমানে নদী থেকে নিখোঁজদের উদ্ধারে কাজ করছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/18-dead-as-passenger-bus-plunges-into-trishuli-river-in-dhading-in-nepal_642338.html ",
+    "time": "2026-02-23T04:36:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "গুলিবিদ্ধ পা! দুর্গম পার্বত্য এলাকায় জইশ-ঘাঁটি চিনিয়ে দিল সেনাবাহিনীর সারমেয় টাইসন! অভিযানে খতম ৩ জঙ্গি",
+    "desc": "নিহত জঙ্গিদের কাছ থেকে দুটি AK-47 রাইফেল, গোলাবারুদ এবং অন্যান্য সরঞ্জাম উদ্ধার করা হয়েছে। সেনাবাহিনী সূত্রে জানানো হয়েছে, জঙ্গিরা দীর্ঘ দিন নিরাপত্তা বাহিনীর সঙ্গে লুকোচুরি খেলছিল। কিন্তু টাইসন সময়মতো তাদের আস্তানা শনাক্ত করার ফলে তাদের নিধন করা সম্ভব হয়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/New-Project-43-2026-02-b1e8b7ce1713d13057d8a728cc500da0-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/army-dog-tyson-in-spite-of-being-shot-leads-troops-to-eliminate-3-jaish-terrorists-in-jammu-and-kashmir-arc-2553094.html",
+    "time": "2026-02-23T03:10:56.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Rajnikaanth- Kamal Hassan: ৪০ বছর পর পর্দায় কামব্যাক রজনী–কমল জুটির, ঘোষণা ‘কেএইচxআরকে’ প্রোজেক্ট",
     "desc": "১৯৮৫ সালে ‘গিরফতার’ ছবিতে অমিতাভ বচ্চন-এর সঙ্গে একসঙ্গে স্ক্রিন শেয়ার করেছিলেন রজনীকান্ত ও কমল হাসান। সেই স্মৃতি আজও অমলিন ভক্তদের কাছে। এরপর কেটে গিয়েছে প্রায় চার দশক, কিন্তু আর কোনও ছবিতে তাঁদের একসঙ্গে দেখা যায়নি।",
@@ -549,15 +567,6 @@ const newsData_bn = [
     "time": "2026-02-17T09:52:24.000Z"
   },
   {
-    "cat": "World",
-    "title": "ধেয়ে আসছে মরণঠান্ডা মেরুঘূর্ণি! ভয়াল পোলার রাক্ষসের ভয়ংকর আক্রমণে ফেব্রুয়ারিতেই অচল বিশ্ব...",
-    "desc": "মেরু ঘূর্ণি পৃথিবীর উভয় মেরুকে ঘিরে থাকে নিম্নচাপ এবং ঠান্ডা বাতাসের এক বৃহৎ অঞ্চল। অঞ্চলটি গ্রীষ্মে দুর্বল হয়ে পড়ে, শীতকালে শক্তিশালী হয়। 'ঘূর্ণি' শব্দটি ঘড়ির কাঁটার বিপরীত দিকে বাতাসের প্রবাহকে বোঝায়। এই চলন মেরুর কাছাকাছি ঠান্ডা বাতাসকে ধরে রাখতে সাহায্য করে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/polar-vortex-rare-early-season-polar-vortex-shift-is-developing-experts-say-its-strength-is-nearly-unprecedented-for-february_641650.html ",
-    "time": "2026-02-17T09:27:35.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "আচমকাই অসুস্থ! ICU-এ ভর্তি সেলিম খান, সব ফেলে তড়িঘড়ি হাসপাতালে ছুটলেন সলমান...",
     "desc": "হাসপাতালে ভর্তি বর্ষীয়ান চিত্রনাট্যকার সেলিম খান, আইসিইউ-তে সলমানের বাবা। বাবাকে দেখতে হাসপাতালে হাজির হন সলমান। তবে তাঁর শারীরিক অবস্থা বর্তমানে স্থিতিশীল কি না, সেই বিষয়ে হাসপাতালের পক্ষ থেকে এখনও বিস্তারিত কোনো বুলেটিন প্রকাশ করা হয়নি।",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/indian-currency-vs-bangladeshi-currency-do-you-know-what-the-rate-of-10000-indian-rupees-in-bangladesh-you-will-be-surprised-to-hear-the-answer-trending-topic-sanj-2539259.html",
     "time": "2026-02-13T14:02:55.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "জামাতের দোসর হয়ে সব খোয়াল এনসিপি! নাহিদ-হাসনাত জিতলেও মুখ থুবড়ে পড়ল অধিকাংশ 'ছাত্রনেতা'",
-    "desc": "নতুন বাংলাদেশ গড়ার ডাক দিয়ে জামাতের দোসর হয়ে ভোটপ্রার্থী হয়েছিলেন জুলাই আন্দোলনে শিরোনামে উঠে আসা জাতীয় নাগরিক পার্টির প্রধান মুখ মহম্মদ নাহিদ ইসলাম। তিনি ছাড়াও হাসনাত জিতলেও মাত্র ৬টি আসন দখল করতে পেরেছে এই দল।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/10101111-2026-02-7981705444b18cecc51066f609c60b3e-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/bangladesh-election-2026-ncp-nahid-islam-won-the-seat-but-many-ncp-leaders-failed-to-compete-in-this-election-smc-2539256.html",
-    "time": "2026-02-13T13:31:29.000Z"
   }
 ];

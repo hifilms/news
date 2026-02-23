@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why was Washington Sundar played over Axar Patel for South Africa T20 World Cup clash? Coach reveals",
+    "desc": "India's move to play Washington Sundar over Axar Patel in the crucial T20 World Cup 2026 clash against South Africa backfired bigtime with several experts and fans criticising the decision following the team's loss to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-was-washington-sundar-played-over-axar-patel-for-south-africa-t20-world-cup-clash-coach-reveals-2026-02-23-1031304",
+    "time": "2026-02-23T03:34:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "David Miller creates history against India, breaks Maxwell's record with batting show in T20 World Cup 2026",
+    "desc": "South African veteran David Miller put up a stellar batting performance against India in their T20 World Cup Super Eight clash as the Proteas icon created history in Ahmedabad. Miller was the protagonist in bringing...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/david-miller-creates-history-against-india-breaks-maxwells-record-with-batting-show-in-t20-world-cup-2026-2026-02-23-1031297",
+    "time": "2026-02-23T02:25:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Aiden Markram surpasses Rohit Sharma in elite T20 World Cup list after South Africa's cakewalk over India",
+    "desc": "Aiden Markram led South Africa to hand India a proper drubbing in the crucial Super Eight clash in the T20 World Cup 2026 on Sunday at the Narendra Modi Stadium. A disastrous batting show and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/aiden-markram-surpasses-rohit-sharma-in-elite-t20-world-cup-list-after-south-africas-cakewalk-over-india-2026-02-23-1031295",
+    "time": "2026-02-23T02:00:48.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India coach hints at Sanju Samson's inclusion after shattering defeat to South Africa in T20 World Cup",
     "desc": "India suffered a chastening 76-run loss at the hands of South Africa in their opening Super 8 clash of the T20 World Cup at the Narendra Modi Stadium in Ahmedabad. After the loss, India's assistant...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-heinrich-klaasen-not-playing-india-vs-south-africa-clash-in-super-eights-of-the-t20-world-cup-2026-2026-02-22-1031267",
     "time": "2026-02-22T14:31:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Anrich Nortje not playing vs India in T20 World Cup 2026 clash in Ahmedabad?",
-    "desc": "South Africa have benched Anrich Nortje in the high-voltage Super Eights clash against India at the Narendra Modi Stadium in Ahmedabad. Due to poor form, the pacer was benched in the Proteas’ first three matches...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-anrich-nortje-not-playing-vs-india-in-t20-world-cup-2026-clash-in-ahmedabad-2026-02-22-1031263",
-    "time": "2026-02-22T13:48:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Axar Patel not playing India vs South Africa clash in Super Eights of the T20 World Cup 2026?",
-    "desc": "India have benched Axar Patel in the high-voltage Super Eights clash against South Africa at the Narendra Modi Stadium in Ahmedabad. Captain Suryakumar Yadav explained that it must be hard on the all-rounder, given that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-axar-patel-not-playing-india-vs-south-africa-clash-in-super-eights-of-the-t20-world-cup-2026-2026-02-22-1031260",
-    "time": "2026-02-22T13:20:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England register 12th consecutive win over Sri Lanka, thump hosts in T20 World Cup Super 8 round",
-    "desc": "England have finally arrived at the T20 World Cup with a massive 51-run win over Sri Lanka in their opening Super 8 clash in Pallekele. They defended 146 runs comfortably with their spinners leading the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-register-12th-consecutive-win-over-sri-lanka-thump-hosts-in-t20-world-cup-super-8-round-2026-02-22-1031257",
-    "time": "2026-02-22T12:50:09.000Z"
   }
 ];
