@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "રાંચીથી દિલ્હી જતી એર એમ્બ્યુલન્સ ઝારખંડના ચતરામાં ક્રેશ, પ્લેનમાં સાત લોકો હતા સવાર",
+    "desc": "રાંચીથી દિલ્હી જઈ રહેલી એક એર એમ્બ્યુલન્સ સોમવાર સાંજે ચતરા જિલ્લાના સિમરિયામાં ક્રેશ થઈ છે. પ્લેનનો સંપર્ક ટેકઓફના થોડા સમય બાદ જ ATCથી તૂટી ગયો હતો. એરપોર્ટ ડાયરેક્ટરે આ દુર્ઘટનાની પુષ્ટિ કરી છે. હાલમાં સ્થાનિક વહીવટીતંત્ર અને પોલીસની ટીમો જંગલોમાં રાહત કામગીરી હાથ ધરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/air-ambulance-going-from-ranchi-to-delhi-crashes-in-chatra-jharkhand-seven-people-were-on-board-466015 ",
+    "time": "2026-02-23T18:17:21.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "હવે E20 પેટ્રોલ પર ચાલશે રોયલ એનફિલ્ડની આ બાઇક્સ, E20 માટે કીટ કરવામાં આવી લોન્ચ, આટલો છે ભાવ, જાણો",
+    "desc": "જો તમારી પાસે જૂની રોયલ એનફિલ્ડ બાઈક છે, તો કંપનીએ હવે આ બાઇકો માટે E20 કીટ લોન્ચ કરી છે, જેનાથી તમે આરામથી E20 પેટ્રોલ પર બાઈક ચલાવી શકો છો. આ કીટના કારણે બાઈકને ફાયદો પણ થવાનું જણાવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/now-these-royal-enfield-bikes-will-run-on-e20-petrol-kit-launched-for-e20-this-is-the-price-know-465998 ",
+    "time": "2026-02-23T16:04:49.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ટીમ ઈન્ડિયાને દક્ષિણ આફ્રિકા સામે મળેલી હાર બની શકે છે આશીર્વાદરૂપ, સંજય માંજરેકર જણાવ્યો જીતનો મંત્ર, જુઓ Video",
     "desc": "ભૂતપૂર્વ ક્રિકેટર અને કોમેન્ટેટર સંજય માંજરેકરે કહ્યું છે કે દક્ષિણ આફ્રિકા સામેની હાર ભારત માટે આશીર્વાદરૂપ બની શકે છે, જો ત્રણ ખામીઓને દૂર કરવામાં આવે. તેમણે કહ્યું કે દક્ષિણ આફ્રિકાનો આભાર માનવો જોઈએ કે તેણે આપણી ખામીઓને ઉજાગર કરી.",
@@ -628,14 +646,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/ai-will-loss-jobs-this-job-is-at-highest-risk-bad-report-comes-out-465037 ",
     "time": "2026-02-15T13:29:04.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "આ મારુતિ સુઝીકીની ગાડીઓ પર મળે છે 2.15 લાખ સુધીનું ભારે ડિસ્કાઉન્ટ, જલ્દી ચેક કરો ઓફર",
-    "desc": "ડિસેમ્બર મહિનો પુરો થયાને ઉપર એક મહિનાથી ઉપર સમય થઈ ગયો છે, છતા મારૂતિ સુઝુકી પોતાની ગાડીઓ પર હજી પણ ડિસ્કાઉન્ટ આપી રહી છે, જે અનેક સેડાન ગાડીઓ પર લાગુ પડે છે. આ કારો પર 2.15 લાખ સુધી લાભ મળી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/huge-discounts-of-up-to-rs-2-15-lakh-are-available-on-these-maruti-suzuki-cars-check-the-offer-soon-464942 ",
-    "time": "2026-02-14T12:41:27.000Z"
   }
 ];

@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "Trump to attack Iran's Nuclear Missile Base| World War 3? তৃতীয় বিশ্বযুদ্ধ শুরুর বাকি আর মাত্র ২ দিন! ট্রাম্পের ইশারায় মার্কিন হামলা ইরানের পরমাণু ঘাঁটিতে, ব্যস...",
+    "desc": "World War 3 ro begin? প্রেসিডেন্ট ডোনাল্ড ট্রাম্প বরাবরই ইরানের পরমাণু কর্মসূচি এবং মধ্যপ্রাচ্যে তাদের প্রভাব বিস্তারের কট্টর বিরোধী। গোয়েন্দা সূত্রে পাওয়া খবরের ভিত্তিতে প্রতিবেদনে দাবি করা হয়েছে যে, এই সম্ভাব্য হামলার মূল লক্ষ্য হতে পারে ইরানের কৌশলগত পারমাণবিক কেন্দ্র এবং সামরিক ঘাঁটিগুলো।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/48-hours-to-world-war-3-trump-strike-plan-on-iran-revealed-tehran-readies-nyc-range-missiles_642451.html ",
+    "time": "2026-02-23T15:52:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "নোটিস পাঠানোর ক্ষেত্রে তাড়াহুড়ো নয়, পাঁচ রাজ‍্যের বিধানসভা নিয়ে সতর্ক ইডি",
+    "desc": "পাঁচ রাজ‍্যের বিধানসভা ভোটের আগে সতর্ক এনফোর্সমেন্ট ডিরেক্টরেট। নোটিস পাঠানোর ক্ষেত্রে তড়িঘড়ি নয়। ভেবেচিন্তে, সবদিক খতিয়ে দেখে পাঠাতে হবে জিজ্ঞাসাবাদের নোটিস৷ গুয়াহাটিতে ইডির ত্রৈমাসিক সম্মেলনে সংস্থার আধকারিকদের এই নির্দেশ দিলেন ইডি অধিকর্তা রাহুল নবীনে।একইসঙ্গে দীর্ঘদিন ধরে চলা তদন্তও দ্রুত শেষ করার নির্দেশ দিয়েছেন ইডি ডিরেক্টর। নির্দেশেবলা হয়েছে, ২০২৫-২৬ অর্থবর্ষের মোট পাঁচশোটি তদন্তাধীন কেস নির্দিষ্ট সময়ের মধ্যে শেষ করতে হবে। নতুন কেস এক থেকে দুই বছরের সময়সীমার টার্গেট নিয়ে শেষ করতে হবে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ED-2026-02-bf93f1ccce0812874f647ceb35a29d12-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/ahead-of-assembly-polls-ed-warns-against-rushing-to-send-notices-ank-2554521.html",
+    "time": "2026-02-23T15:44:27.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "দীর্ঘ অপেক্ষার অবসান! ডুয়ার্সে শ্যুটিং শুরু ‘অ্যাম্বুলেন্স দাদা’র স্বপ্নের ছবি",
     "desc": "পদ্মশ্রীপ্রাপ্ত মানবসেবী করিমুল হক-এর জীবন অবলম্বনে তৈরি হচ্ছে বাংলা সিনেমা। মুখ্য ভূমিকায় থাকছেন অভিনেতা দেব। শুটিং চলছে চলসা-সহ ডুয়ার্সে। বাইক অ্যাম্বুলেন্সে অসুস্থদের হাসপাতালে পৌঁছে দেওয়ার তাঁর মানবিক সংগ্রাম এবার বড় পর্দায় উঠে আসবে, যা দর্শকদের অনুপ্রাণিত করবে।",
@@ -295,15 +313,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/international/11-jets-were-shot-down-during-india-pak-clash-says-donald-trump-smc-2550449.html",
     "time": "2026-02-20T15:52:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "লিভ-ইন করছেন বলে দায় ঠেলতে পারবেন না, সঙ্গিনীও খোরপোশ পাওয়ার অধিকারী: হাইকোর্ট",
-    "desc": "বিবাহের আইনি শংসাপত্র নেই— কেবল এই অজুহাতে দীর্ঘদিনের লিভ-ইন সঙ্গিনীকে মাঝপথে অসহায় অবস্থায় ছেড়ে যেতে পারবেন না কোনও পুরুষ। লিভ-ইন রিলেশনশিপে থাকা নারীদের সামাজিক নিরাপত্তা ও অধিকার সুনিশ্চিত করতে এক যুগান্তকারী রায় দিল ইলাহাবাদ হাইকোর্ট।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/allahabad-high-court-verdict-that-live-in-female-patner-is-entitled-to-get-alimony-from-male-partner_642128.html ",
-    "time": "2026-02-20T15:45:30.000Z"
   },
   {
     "cat": "Entertainment",
@@ -889,14 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/international/tarique-rahman-vows-to-build-new-bangladesh-after-huge-win-dmg-2540754.html",
     "time": "2026-02-14T22:11:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "অসমের ডিব্রুগড়ে জাতীয় সড়কে অবতরণ করল প্রধানমন্ত্রীর বিমান",
-    "desc": "জাতীয় সড়কে অবতরণ করল প্রধানমন্ত্রী নরেন্দ্র মোদির বিমান। অসমের ডিব্রুগড়ের মোরান বাইপাসে আজ অবতরণ করে C130J সামরিক বিমান। এই বিমানে প্রথমবার কোনও প্রধানমন্ত্রী জাতীয় সড়কে অবতরণ করলেন। আজ মোরানের জাতীয় সড়কে সুখোই, রাফাল, চিনুক, আপাচে, হারকিউলিসের মতো বায়ুসেনার ১৬টি যুদ্ধবিমান ওঠানামা করে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/PM-Modi-In-Assam-2026-02-076eea83a490b905df7f34042f2709aa-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/national/pm-modi-in-assam-narendra-modis-flight-landed-at-assam-dibrugarh-remains-tight-security-at-road-arn-2540635.html",
-    "time": "2026-02-14T15:06:51.000Z"
   }
 ];

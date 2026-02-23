@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Eden Gardens could be stripped of hosting T20 World Cup 2026 semi-final, depends on ifs and buts",
+    "desc": "When the International Cricket Council (ICC) announced the T20 World Cup 2026 schedule, they clarified that India will play their semi-final at the Wankhede Stadium in Mumbai, unless it’s against Pakistan. In that case, Colombo’s...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/eden-gardens-could-be-stripped-of-hosting-t20-world-cup-2026-semi-final-depends-on-ifs-and-buts-2026-02-23-1031408",
+    "time": "2026-02-23T18:23:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "West Indies decimate Zimbabwe in Mumbai, move inch closer to T20 World Cup semi-final",
+    "desc": "West Indies produced a stunning all-round show to decimate Zimbabwe in their first Super Eights clash against Zimbabwe at the Wankhede Stadium in Mumbai. Shimron Hetmyer and Rovman Powell wreaked havoc with the bat in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-decimate-zimbabwe-in-mumbai-move-inch-closer-to-t20-world-cup-semi-final-2026-02-23-1031399",
+    "time": "2026-02-23T17:14:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia to play Tests in South Africa for first-time since Sanpapergate scandal, know schedule",
+    "desc": "Australia’s next assignment in South Africa will stir memories that never truly faded. When the team walks out at Newlands later this year, it will mark their first Test appearance in the country since the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-to-play-tests-in-south-africa-for-first-time-since-sanpapergate-scandal-know-schedule-2026-02-23-1031394",
+    "time": "2026-02-23T16:19:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "West Indies register second-highest total in T20 World Cup history, message sent to South Africa, India",
     "desc": "West Indies batters went berserk in their first Super Eights clash against Zimbabwe at the Wankhede Stadium in Mumbai. Flamboyant batter Shimron Hetmyer was unfazed by losing early wickets, as he set the tone, scoring...",
     "img": "",
@@ -19,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Hetmyer breath fire, smacks 19-ball half-century",
+    "title": "West Indies post 254 runs in first innings",
     "desc": "The match between West Indies and Zimbabwe in the Super Eights of the T20 World Cup 2026 holds massive importance to both teams. With them scheduled to play India and South Africa in their remaining...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mohammad-amir-clarifies-his-slogger-remark-for-abhishek-sharma-gives-message-to-struggling-opener-2026-02-23-1031340",
     "time": "2026-02-23T09:04:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'India are beatable': David Miller after South Africa's big win over hosts in T20 World Cup 2026",
-    "desc": "After handing India a huge 76-run loss in their T20 World Cup Super Eight clash, South African veteran stated that his team has shown that 'India are beatable'. India, the defending champions, entered the tournament...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-are-beatable-david-miller-after-south-africas-big-win-over-hosts-in-t20-world-cup-2026-2026-02-23-1031338",
-    "time": "2026-02-23T08:42:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Zimbabwe's undisputed opener who is the only top-order batter yet to be dismissed in T20 World Cup 2026",
-    "desc": "Zimbabwe have made the world think about them as they have entered the T20 World Cup 2026 Super Eight stage unbeaten, riding high on wins over the likes of Sri Lanka and Australia. The fact...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/zimbabwes-undisputed-opener-who-is-the-only-top-order-batter-yet-to-be-dismissed-in-t20-world-cup-2026-2026-02-23-1031331",
-    "time": "2026-02-23T07:51:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India feel the heat in T20 World Cup as home conditions seem to be alien",
-    "desc": "There were signs of this happening before. There were signs that India's jaw-dropping run might hit a roadblock once, if not more, in this T20 World Cup. And it has happened against a team that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-feel-the-heat-in-t20-world-cup-as-home-conditions-seem-to-be-alien-2026-02-23-1031323",
-    "time": "2026-02-23T06:47:03.000Z"
   }
 ];
