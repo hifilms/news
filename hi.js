@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "West Indies register second-highest total in T20 World Cup history, message sent to South Africa, India",
+    "desc": "West Indies batters went berserk in their first Super Eights clash against Zimbabwe at the Wankhede Stadium in Mumbai. Flamboyant batter Shimron Hetmyer was unfazed by losing early wickets, as he set the tone, scoring...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-register-second-highest-total-in-t20-world-cup-history-message-sent-to-south-africa-india-2026-02-23-1031390",
+    "time": "2026-02-23T15:38:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shimron Hetmyer sets new record for West Indies with half-century against Zimbabwe in T20 World Cup 2026",
+    "desc": "In the West Indies’ opening Super Eights match against Zimbabwe, Shimron Hetmyer lit up the Wankhede Stadium with a blistering 19-ball half-century. The 29-year-old not only dominated the bowlers but also broke his own record...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shimron-hetmyer-sets-new-record-for-west-indies-with-half-century-against-zimbabwe-in-t20-world-cup-2026-2026-02-23-1031383",
+    "time": "2026-02-23T14:32:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hetmyer breath fire, smacks 19-ball half-century",
+    "desc": "The match between West Indies and Zimbabwe in the Super Eights of the T20 World Cup 2026 holds massive importance to both teams. With them scheduled to play India and South Africa in their remaining...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wi-vs-zim-t20-world-cup-2026-super-eight-live-cricket-score-zimbabwe-opt-to-field-first-in-mumbai-2026-02-23-1031375",
+    "time": "2026-02-23T13:26:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Not a big deal to face Jofra Archer'",
+    "desc": "Pakistan’s opening game against New Zealand in the Super Eights of the T20 World Cup 2026 was called off due to rain. Next up, they will challenge England, who defeated Sri Lanka on their home...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/not-a-big-deal-to-face-jofra-archer-sahibzada-farhan-confident-of-england-challenge-in-t20-world-cup-2026-02-23-1031372",
+    "time": "2026-02-23T13:05:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India hold worst ranking in T20 World Cup 2026, even below associate nations",
     "desc": "India’s opening pair has flopped time and again in the ongoing T20 World Cup 2026. Abhishek Sharma’s three consecutive ducks made things worse as an early blow forced the team to change their game plan...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-feel-the-heat-in-t20-world-cup-as-home-conditions-seem-to-be-alien-2026-02-23-1031323",
     "time": "2026-02-23T06:47:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "R Ashwin calls out errors that proved costly for India in T20 World Cup defeat to South Africa",
-    "desc": "Former Indian cricketer Ravichandran Ashwin has highlighted the errors that India made during their T20 World Cup 2026 clash against South Africa that proved costly for the defending champions. India were handed their biggest ever...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-calls-out-errors-that-proved-costly-for-india-in-t20-world-cup-defeat-to-south-africa-2026-02-23-1031322",
-    "time": "2026-02-23T06:46:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunil Gavaskar speaks up on Abhishek Sharma's T20 World Cup failures: 'The fluency isn't there'",
-    "desc": "Former India captain and legend Sunil Gavaskar analysed star opener Abhishek Sharma's ongoing struggle in the T20 World Cup 2026. The World No.1 T20I batter Abhishek has bagged three ducks and scored a scratchy 15...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sunil-gavaskar-speaks-up-on-abhishek-sharmas-t20-world-cup-failures-the-fluency-isnt-there-2026-02-23-1031312",
-    "time": "2026-02-23T04:51:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why was Washington Sundar played over Axar Patel for South Africa T20 World Cup clash? Coach reveals",
-    "desc": "India's move to play Washington Sundar over Axar Patel in the crucial T20 World Cup 2026 clash against South Africa backfired bigtime with several experts and fans criticising the decision following the team's loss to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-was-washington-sundar-played-over-axar-patel-for-south-africa-t20-world-cup-clash-coach-reveals-2026-02-23-1031304",
-    "time": "2026-02-23T03:34:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "David Miller creates history against India, breaks Maxwell's record with batting show in T20 World Cup 2026",
-    "desc": "South African veteran David Miller put up a stellar batting performance against India in their T20 World Cup Super Eight clash as the Proteas icon created history in Ahmedabad. Miller was the protagonist in bringing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/david-miller-creates-history-against-india-breaks-maxwells-record-with-batting-show-in-t20-world-cup-2026-2026-02-23-1031297",
-    "time": "2026-02-23T02:25:05.000Z"
   }
 ];
