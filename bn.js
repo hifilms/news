@@ -1,12 +1,39 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "ভারত হারতেই বিশ্বকাপের পয়েন্ট টেবিলের অঙ্ক কঠিন! টিম ইন্ডিয়া খেলবে সেমিফাইনাল! কীভাবে? সবার আগে দেখে নিন",
+    "desc": "টিম ইন্ডিয়া গ্রুপ ১-এ পয়েন্ট তালিকায় দ্বিতীয় স্থানে রয়েছে। এই গ্রুপে ভারত এবং দক্ষিণ আফ্রিকা ছাড়াও রয়েছে জিম্বাবোয়ে এবং ওয়েস্ট ইন্ডিজ। ভারচতের নেট রান রেট -৩.৮০০ হয়ে গিয়েছে। পয়েন্ট টেবিলের শীর্ষে রয়েছে দক্ষিণ আফ্রিকা। তাদের ২ পয়েন্ট। তাদের নেট রান রেট +৩.৮০০।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Indian-cricket-team-3-2026-02-de9160f8d50aeb8263bc2b324b528145-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/here-is-the-point-table-how-team-india-can-qualify-t20-world-cup-semifinal-smj-2554016.html",
+    "time": "2026-02-23T11:43:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘গভীরভাবে শোকাহত’! মুকুল রায়ের প্রয়াণে শোকপ্রকাশ স্বরাষ্ট্রমন্ত্রী অমিত শাহের",
+    "desc": "প্রাক্তন কেন্দ্রীয় মন্ত্রী মুকুল রায়ের প্রয়াণে শোকপ্রকাশ করলেন স্বরাষ্ট্রমন্ত্রী অমিত শাহ৷ এক্স হ্যান্ডেলে অমিত শাহ লিখেছেন, ‘‘প্রাক্তন কেন্দ্রীয় মন্ত্রী মুকুল রায়ের প্রয়াণে আমি গভীরভাবে শোকাহত। জনসেবায় তাঁর দীর্ঘ কর্মজীবন সংগঠনের গতিবিধি ও জনসমস্যা সম্পর্কে তাঁর গভীর উপলব্ধির জন্য চিহ্নিত হয়ে থাকবে। ওম শান্তি৷’’",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Amit-Shah-Mukul-Roy-2026-02-411d82054aa8c1399fa09687eeb6e5d9-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/national/home-minister-amit-shah-has-expressed-condolence-on-mukul-roy-death-ank-2553965.html",
+    "time": "2026-02-23T11:27:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay Devarakonda-Rashmika Mandanna: কী বিরাট খরচের বিয়ে! বিজয়-রশ্মিকা পৌঁছলেন উদয়পুর, এক রাতে 'উড়বে টাকা', থাকবেন শুধু হাতে গোনা কয়েকজন কাছের মানুষ",
+    "desc": "বিজয় এবং রশ্মিকা তাঁদের বিয়ের নাম রেখেছেন \"দ্য ওয়েডিং অফ বিরোশ\"। বিজয় ও রশ্মিকা, এই দুই নাম জুড়ে তৈরি হয়েছে বিরোশ৷ এই নামটি তাঁদের ভক্তরা বহু বছর আগে তাদের নাম, বিজয় + রশ্মিকা = বিরোশ একত্রিত করে তৈরি করেছিলেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Vijay-Rashmika-2026-02-7941420f00ff2f3578882998139971a9-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/vijay-deverakonda-and-rashmika-mandanna-wedding-at-udaipur-luxury-venue-only-to-attend-by-close-ones-pbd-2553918.html",
+    "time": "2026-02-23T11:10:22.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "রাত জেগে পড়াশোনা... MA পাশ করলেন অভিনেত্রী দিতিপ্রিয়া রায়! এর পর কী প্ল্যান?",
     "desc": "অভিনয়ের ব্যস্ত কেরিয়ারের মাঝেও পড়াশোনাকে সমান গুরুত্ব দিয়ে সমাজবিজ্ঞানে স্নাতকোত্তর ডিগ্রি সম্পূর্ণ করলেন অভিনেত্রী দিতিপ্রিয়া রায়। সোশ্যাল মিডিয়ায় নিজেই জানালেন সুখবর। “অফিশিয়ালি কনফার্ড! মনে রাখার মতো একটা দিন, সযত্নে রাখার মতো একটা সাফল্য”—লিখে নিজের এই শিক্ষাগত অর্জনের কথা ভাগ করে নিয়েছেন অনুরাগীদের সঙ্গে।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-23-at-2.44.21-PM-2026-02-40a3c4be025f6c6a5b5de882385b2953-3x2.jpeg",
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/tollywood-actress-ditipriya-roy-achievement-postgraduate-degree-in-sociology-ma-pass-success-shares-next-plan-tib-ws-l-2553719.html",
-    "time": "2026-02-23T09:29:50.000Z"
+    "time": "2026-02-23T11:10:04.000Z"
   },
   {
     "cat": "Sports",
@@ -421,15 +448,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/mimi-chakraborty-2-crore-legal-notice-tanay-sastri-bongaon-controversy_641934.html ",
     "time": "2026-02-19T10:41:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'ও হেনরি'! পোষ্য রটউইলারকে জয়ের কাছ থেকে ফেরাতে এবার হাইকোর্টে মামলা মহুয়ার...",
-    "desc": "তৃণমূল সাংসদ মহুয়া মৈত্র এবং তাঁর প্রাক্তন প্রেমিক জয় অনন্ত দেহাদ্রাইয়ের আইনি লড়াই এবার এক নতুন মোড় নিল। তাঁদের পোষ্য রটউইলার ‘হেনরি’-র অধিকার কার হাতে থাকবে, তা নিয়ে নিম্ন আদালতের রায়কে চ্যালেঞ্জ জানিয়ে দিল্লি হাইকোর্টের দ্বারস্থ হলেন মহুয়া।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/mahua-moitra-delhi-high-court-pet-dog-henry-custody-battle_641914.html ",
-    "time": "2026-02-19T08:55:15.000Z"
   },
   {
     "cat": "Tech",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/tollywood-actor-ranojoy-bishnu-weds-shyamoupti-mudly-take-a-look-at-their-haldi-ceremony-photos-rds-2540149.html",
     "time": "2026-02-14T09:13:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "এক কেজিতেই ৪০ টাকা! পাহাড়ের 'দামি' ফসলের চাষ এখন সমতলে, মোটা লাভের মুখ দেখতেই আহ্লাদে আটখানা চাষিরা",
-    "desc": "পাহাড়ের সেই চেনা ফসল এখন সমতলের কৃষকদের পকেটে ভড়ছে টাকা। প্রতি কেজিতে ৪০ টাকা পাইকারি দরে বিক্রির সুযোগ থাকায় এই বিদেশি সবজি চাষে রীতিমতো বিপ্লব শুরু হয়েছে সমতলে। জানুন কীভাবে সমতলের আবহাওয়ায় সফল হচ্ছে এই চাষ।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Profitable-Agriculture-Ideas-squash-farming-2026-02-d74b1a7da79425aac046b5878ddfd89d-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/business/jalpaiguri-profitable-agriculture-ideas-squash-farming-high-profit-for-farmers-success-agriculture-news-l18-local18-2539550.html",
-    "time": "2026-02-14T09:09:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "সম্পূর্ণ নগ্ন, পচাগলা...পা-এ শুধু মোজা! ইনদওরের MBA ছাত্রীর মৃত্যুতে রহস্য বাড়াচ্ছে ‘ভিডিও’",
-    "desc": "শুক্রবার, ধানোটিয়ার ভাড়াবাড়ির পাড়ার বেশ কয়েকজন পচা গন্ধ পাওয়ায় ওই ঘরে তল্লাশি চালানো হয়৷ তখন সেই ঘরে উদ্ধার হয় এক তরুণীর নগ্ন, পচাগলা দেহ৷ তরুণীর বাবা জানিয়েছেন, তাঁর মেয়ের মৃতদেহ এতটাই পচাগলা অবস্থায় ছিল যে, মেয়ের মোজা দেখে তিনি দেহ শনাক্ত করেছেন৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ydne-2026-02-14T125554.902-2026-02-a59e09ef791545c6f407ee5bd3617128-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/madhya-pradesh-indore-news-objectionable-video-missing-boyfriend-mba-students-murder-rocks-indore-sta-2539940.html",
-    "time": "2026-02-14T07:28:53.000Z"
   }
 ];

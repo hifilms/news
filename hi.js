@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India hold worst ranking in T20 World Cup 2026, even below associate nations",
+    "desc": "India’s opening pair has flopped time and again in the ongoing T20 World Cup 2026. Abhishek Sharma’s three consecutive ducks made things worse as an early blow forced the team to change their game plan...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-hold-worst-ranking-in-t20-world-cup-2026-even-below-associate-nations-2026-02-23-1031364",
+    "time": "2026-02-23T12:00:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India coach hints at possible changes in playing XI for Zimbabwe game, says 'performances are going to talk'",
+    "desc": "After a humiliating 76-run defeat to South Africa at the Narendra Modi Stadium in Ahmedabad, India’s assistant coach Ryan ten Doeschate shared that they could tweak the playing XI in the must-win clash against Zimbabwe...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-coach-hints-at-possible-changes-in-playing-xi-for-zimbabwe-game-says-performances-are-going-to-talk-2026-02-23-1031351",
+    "time": "2026-02-23T10:37:51.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mohammad Amir clarifies his 'slogger' remark for Abhishek Sharma, gives message to struggling opener",
     "desc": "Pakistan speedster Mohammad Amir has given his clarification on the 'slogger' remark that he recently made for Abhishek Sharma, claiming that the opener cannot defend. Amir stated that people might have got hurt by his...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/david-miller-creates-history-against-india-breaks-maxwells-record-with-batting-show-in-t20-world-cup-2026-2026-02-23-1031297",
     "time": "2026-02-23T02:25:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aiden Markram surpasses Rohit Sharma in elite T20 World Cup list after South Africa's cakewalk over India",
-    "desc": "Aiden Markram led South Africa to hand India a proper drubbing in the crucial Super Eight clash in the T20 World Cup 2026 on Sunday at the Narendra Modi Stadium. A disastrous batting show and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/aiden-markram-surpasses-rohit-sharma-in-elite-t20-world-cup-list-after-south-africas-cakewalk-over-india-2026-02-23-1031295",
-    "time": "2026-02-23T02:00:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India coach hints at Sanju Samson's inclusion after shattering defeat to South Africa in T20 World Cup",
-    "desc": "India suffered a chastening 76-run loss at the hands of South Africa in their opening Super 8 clash of the T20 World Cup at the Narendra Modi Stadium in Ahmedabad. After the loss, India's assistant...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-coach-hints-at-sanju-samson-s-inclusion-after-shattering-defeat-to-south-africa-in-t20-world-cup-2026-02-22-1031290",
-    "time": "2026-02-22T18:13:19.000Z"
   }
 ];
