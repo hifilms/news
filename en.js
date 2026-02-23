@@ -1,5 +1,248 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "'Continued delay' in restoration of Statehood to J&K is concerning: Farooq Abdullah",
+    "desc": "Repeated assurances have been made at the highest levels regarding the restoration of statehood at the earliest. However, the absence of a clear timeline has created uncertainty and disappointment among the people, says Farooq Abdullah",
+    "img": "https://th-i.thgim.com/public/incoming/d01q4x/article70664633.ece/alternates/LANDSCAPE_1200/04-JKNC%20founder%20Sheikh%20Mohammad%20Abdullah%20on%20his%20120th%20birth%20anniversary-SGR-05-12-2025.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/continued-delay-in-restoration-of-statehood-to-jk-is-concerning-farooq-abdullah/article70664632.ece",
+    "time": "2026-02-23T01:47:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Toxic': Yash film locks power-packed music trio",
+    "desc": "Yash's highly anticipated 2026 release, 'Toxic,' has secured a massive music rights deal with Zee Music Company, covering multiple languages. The film boasts a powerful musical ensemble featuring Ravi Basrur, Vishal Mishra, and Tanishk Bagchi, promising a soundtrack with significant repeat value. Fans are buzzing with excitement over the star-studded cast and the film's potential.",
+    "img": "https://static.toiimg.com/photo/msid-128695152,imgsize-36878.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yashs-toxic-locks-power-packed-music-trio-ravi-basrur-vishal-mishra-and-tanishk-bagchi-lead-the-album/articleshow/128695152.cms",
+    "time": "2026-02-23T01:44:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCB bans Monjurul Islam",
+    "desc": "The Bangladesh Cricket Board has banned former women’s selector Monjurul Islam from all cricket-related roles after an inquiry into sexual misconduct allegations by ex-captain Jahanara Alam. The panel found initial proof in two allegations, calling his behaviour harassment. The BCB said it may take further action. It also announced the Women’s Bangladesh Premier League dates and gave chief selector Gazi Ashraf Hossain a one-month extension.",
+    "img": "https://static.toiimg.com/photo/msid-128682952,imgsize-22174.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sexual-harassment-row-in-bangladesh-cricket-bcb-bans-ex-womens-selector-monjurul-islam/articleshow/128682591.cms",
+    "time": "2026-02-23T01:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ashakal Aayiram' BO: Jayaram film stays in safe zone",
+    "desc": "Jayaram and Kalidas Jayaram's family drama 'Ashakal Aayiram' is performing steadily, completing 17 days in cinemas and earning approximately Rs 7.09 crore worldwide. The film resonates with family audiences through its blend of light humor and emotional storytelling, with strong performances, particularly from Jayaram, driving its appeal. Despite some self-referential commentary, the movie offers relatable narratives.",
+    "img": "https://static.toiimg.com/photo/msid-128694782,imgsize-19356.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/ashakal-aayiram-box-office-collections-day-17-jayaram-film-stays-in-safe-zone-hits-rs-7-09-crore-worldwide/articleshow/128694782.cms",
+    "time": "2026-02-23T01:20:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Farhan on 'The Beatles' biopic: 'It's exciting and daunting'",
+    "desc": "Indian actor-filmmaker Farhan Akhtar graced the BAFTA Awards, celebrating his home production 'Boong's' win for Best Children’s & Family Film. Weeks prior, he was confirmed to portray Ravi Shankar in Sam Mendes' ambitious Beatles film series. Akhtar expressed both excitement and trepidation about embodying the legendary sitar maestro, acknowledging the band's deep connection with India.",
+    "img": "https://static.toiimg.com/photo/msid-128694409,imgsize-65386.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/baftas-2026-farhan-akhtar-on-playing-ravi-shankar-in-the-beatles-biopic-its-exciting-and-daunting/articleshow/128693644.cms",
+    "time": "2026-02-23T01:18:18.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Top Mexican drug cartel leader killed",
+    "desc": "Nemesio Oseguera, the 59-year-old leader of the violent Jalisco New Generation Cartel, was wounded in a clash with soldiers in the town of Tapalpa and died while being flown to Mexico City, the army said in a statement.",
+    "img": "https://th-i.thgim.com/public/incoming/d22dyk/article70664631.ece/alternates/LANDSCAPE_1200/APTOPIX_Mexico_Cartel_Death_84020.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/top-mexican-drug-cartel-leader-killed/article70664630.ece",
+    "time": "2026-02-23T01:12:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Do Deewane Seher Mein crosses Rs 4 core in opening weekend",
+    "desc": "In a surprising twist in the film industry, Siddhant Chaturvedi and Mrunal Thakur's romantic venture 'Do Deewane Seher Mein' hit theaters last Friday but struggled to make a significant impact at the box office. Rather than embracing the thrilling appeal of action-packed cinema, the film collected a mere Rs 1.31 crore on its third day, totaling Rs 4.06 crore.",
+    "img": "https://static.toiimg.com/photo/msid-128694568,imgsize-38038.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/do-deewane-seher-mein-box-office-collection-day-3-siddhant-chaturvedi-and-mrunal-thakur-starrer-earns-rs-4-core-in-opening-weekend/articleshow/128694568.cms",
+    "time": "2026-02-23T01:10:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Prakambanam' BO day 23: Film eyes 250% returns",
+    "desc": "Malayalam horror-comedy 'Prakambanam' is a box office hit, nearing ₹14 crore net and a 250% return on its ₹4 crore budget. The film, starring Ganapathi and Sagar Surya, has sustained momentum into its fourth week, impressing with a significant jump in collections.",
+    "img": "https://static.toiimg.com/photo/msid-128694449,imgsize-43932.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/prakambanam-box-office-collections-day-23-ganapathi-starrer-eyes-250-returns-collects-rs-15-67-cr/articleshow/128694449.cms",
+    "time": "2026-02-23T01:00:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'VIROSH’: Story behind Vijay and Rashmika's wedding title",
+    "desc": "Vijay Deverakonda and Rashmika Mandanna's upcoming February 26, 2026 wedding in Udaipur will be officially known as 'The Wedding of VIROSH'. This fan-coined term, a blend of their names, has been embraced by the couple to honor their followers' unwavering support and affection throughout their journey.",
+    "img": "https://static.toiimg.com/photo/msid-128694021,imgsize-36656.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-wedding-of-virosh-the-story-behind-vijay-deverakonda-and-rashmika-mandannas-wedding-title/articleshow/128694021.cms",
+    "time": "2026-02-23T00:35:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dhoni not to play all IPL 2026 matches? Massive update emerges",
+    "desc": "MS Dhoni will be available for CSK in IPL 2026 but may not play every match, a franchise source confirmed. With Sanju Samson and other wicketkeepers in the squad, Dhoni’s workload could be managed, especially due to fitness concerns and the Impact Player rule. However, he is expected to feature in most home games at Chepauk, where his presence continues to electrify fans.",
+    "img": "https://static.toiimg.com/photo/msid-128679897,imgsize-38708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ms-dhoni-not-to-play-all-ipl-2026-matches-massive-update-emerges-from-csk-camp/articleshow/128679522.cms",
+    "time": "2026-02-23T00:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "BAFTA 2026'shistoricfirsts and heartfelt tributes shine",
+    "desc": "The 2026 BAFTA Film Awards celebrated cinematic achievements with humor and emotion. Host Alan Cumming entertained, while winners like Robert Aramayo and Wunmi Mosaku shared heartfelt gratitude. Joachim Trier made history as 'Sentimental Value' became the first Norwegian film to win Best Non-English Language Film, highlighting global talent and impactful storytelling.",
+    "img": "https://static.toiimg.com/photo/msid-128693862,imgsize-508333.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bafta-2026s-biggest-quotes-and-moments-from-alan-cummings-humour-to-jessie-buckleys-heartfelt-speech/articleshow/128693870.cms",
+    "time": "2026-02-23T00:20:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "David Harbour and more attend Millie Bobby Brown’s birthday bash",
+    "desc": "Millie Bobby Brown marked her 22nd birthday with a star-studded bash at Maison Close. While many of her 'Stranger Things' co-stars were absent, David Harbour and Jamie Campbell Bower were among those celebrating. This gathering follows recent promotional events and comes amid past bullying allegations against Harbour, which were reportedly unsubstantiated.",
+    "img": "https://static.toiimg.com/photo/msid-128693739,imgsize-31756.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/millie-bobby-browns-birthday-stranger-things-stars-david-harbour-and-others-attend-the-bash-while-noah-schnapp-gives-it-a-miss/articleshow/128693739.cms",
+    "time": "2026-02-23T00:14:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Actor Vishnupriya’s father found murdered",
+    "desc": "Tamil and Malayalam actor Vishnupriya's father, Suryanarayanan, was found dead in his Kodaikanal bungalow, bound to a chair with his face taped shut, suggesting suffocation. Five tourists who checked in the previous day have vanished, along with valuables and the CCTV hard drive, pointing to a robbery-turned-murder. Investigators are also probing a past case involving Suryanarayanan.",
+    "img": "https://static.toiimg.com/photo/msid-128693710,imgsize-18518.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/actress-vishnupriyas-father-suryanarayanan-found-dead-with-face-taped-police-launch-manhunt-for-five-tourists/articleshow/128693710.cms",
+    "time": "2026-02-23T00:13:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shahid's 'O' Romeo' sails past Rs 83 crore worldwide",
+    "desc": "Shahid Kapoor's 'O' Romeo' is experiencing a lukewarm reception in its second week, with Day 10 collections reaching Rs 3.25 crore. The romantic revenge drama has garnered a total of Rs 55.90 crore in India and Rs 83.1 crore worldwide. Directed by Vishal Bhardwaj, the film's performance reflects mixed audience and critical responses.",
+    "img": "https://static.toiimg.com/photo/msid-128693627,imgsize-81116.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/o-romeo-box-office-collection-day-10-and-day-11-live-shahid-kapoor-and-triptii-dimri-starrer-sails-past-rs-83-crore-worldwide/articleshow/128693627.cms",
+    "time": "2026-02-23T00:09:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Miley Cyrus SPOTTED filming for ‘Hannah Montana’",
+    "desc": "Miley Cyrus has reignited fan excitement by filming a 'Hannah Montana' 20th anniversary special. Spotted in Malibu with her iconic blonde wig and fringe, Cyrus fully embodied the beloved character. The special, reportedly featuring archival footage and performances, is slated for a March 24, 2026 premiere on Disney+.",
+    "img": "https://static.toiimg.com/photo/msid-128693186,imgsize-103466.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/miley-cyrus-spotted-filming-hannah-montana-20th-anniversary-special-brings-back-iconic-blonde-wig-watch/articleshow/128690130.cms",
+    "time": "2026-02-22T23:35:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alan Cumming thanks the audience for understanding",
+    "desc": "During a high-profile awards night, host Alan Cumming responded to the spontaneous comments made by attendee John Davidson, who navigates life with Tourette's syndrome. Cumming highlighted that such outbursts are involuntary and a genuine reflection of Davidson's reality, urging the crowd to embrace empathy. This powerful moment shed light on Davidson's story and its inspiration for the film 'I Swear'.",
+    "img": "https://static.toiimg.com/photo/msid-128693127,imgsize-46692.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tourettes-syndrome-campaigner-john-davidson-uses-strong-language-at-the-baftas-alan-cumming-asks-for-understanding/articleshow/128693127.cms",
+    "time": "2026-02-22T23:31:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "More cash reward for Sooryavanshi as Bihar CM honours U19 WC hero",
+    "desc": "Fourteen-year-old Vaibhav Sooryavanshi was awarded Rs 50 lakh by Bihar CM Nitish Kumar for his U-19 World Cup heroics. He starred in the final with a stunning 175 off 80 balls and was named Player of the Tournament with 439 runs. The youngest IPL debutant and centurion, he was signed by Rajasthan Royals for ₹1.1 crore and is seen as a future cricket star.",
+    "img": "https://static.toiimg.com/photo/msid-128678422,imgsize-63154.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/more-cash-reward-for-14-year-old-vaibhav-sooryavanshi-as-bihar-cm-nitish-kumar-honours-u19-world-cup-hero/articleshow/128677865.cms",
+    "time": "2026-02-22T23:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All aboutAlia Bhatt's BAFTA 2026 debut",
+    "desc": "​Alia Bhatt turned heads on the BAFTA 2026 red carpet at the Royal Festival Hall in London on February 22, 2026, making her debut as a presenter. The Bollywood star presented the Best Film Not in the English Language award, blending Hindi and English film cinema in a memorable moment.​",
+    "img": "https://static.toiimg.com/photo/msid-128693024,imgsize-831823.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/alia-bhatts-bafta-2026-debut-from-a-custom-red-carpet-look-to-her-hindi-speech-with-namaskar-here-are-all-the-highlights/photostory/128693024.cms",
+    "time": "2026-02-22T23:22:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pitroda; another case of Cong bashing India: BJP",
+    "desc": "Sam Pitroda, head of Indian Overseas Congress, sparked a row by stating India's IT talent served global firms, not the nation. He questioned why India couldn't build its own tech giants. The BJP swiftly condemned his remarks, accusing him of anti-India rhetoric and highlighting indigenous operating systems as counter-evidence.",
+    "img": "https://static.toiimg.com/photo/msid-128692665,imgsize-717577.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/used-our-talent-to-serve-others-pitroda-another-case-of-cong-bashing-india-bjp/articleshow/128692636.cms",
+    "time": "2026-02-22T22:56:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India's AI pitch goes beyond code",
+    "desc": "At the India AI Impact Summit 2026, India showcased its Digital Public Infrastructure (DPI) as a lifestyle experience, exemplified by a coffee stall where Google CEO Sundar Pichai sampled GI-tagged coffee and paid via UPI. This \"DPI-first\" approach was highlighted in a bilateral partnership with Brazil, aiming to link UPI with Brazil's Pix and establish a DPI Centre of Excellence.",
+    "img": "https://static.toiimg.com/photo/msid-128692608,imgsize-102438.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/dpi-to-daily-life-indias-ai-pitch-goes-beyond-code/articleshow/128692573.cms",
+    "time": "2026-02-22T22:51:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pilot duty exemptions weigh in heavy on DGCA’s summer plan",
+    "desc": "Aviation authorities are finalizing summer flight schedules, with pilot availability a key concern. Airlines' requests for extensions on flight duty time limitations are under review, impacting potential flight numbers. Exemptions are crucial for carriers like Air India and IndiGo to manage longer routes and night operations, but safety concerns over crew fatigue loom large.",
+    "img": "https://static.toiimg.com/photo/msid-128692525,imgsize-889362.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pilot-duty-exemptions-weigh-in-heavy-on-dgcas-summer-plan/articleshow/128692498.cms",
+    "time": "2026-02-22T22:46:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Robert Aramayo wins Best Leading Actor title",
+    "desc": "At the 2026 BAFTAs, Robert Aramayo pulled off a remarkable feat by winning the Leading Actor award for his unforgettable performance in 'I Swear,' along with the Rising Star accolade. His triumph over renowned actors such as Leonardo DiCaprio and Timothée Chalamet reflects a turning point in his journey.",
+    "img": "https://static.toiimg.com/photo/msid-128692295,imgsize-615346.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/baftas-2026-robert-aramayo-makes-history-with-best-leading-actor-and-rising-star-award-titles/articleshow/128692295.cms",
+    "time": "2026-02-22T22:40:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Use Natgrid to file 500 chargesheets this fiscal",
+    "desc": "Enforcement Directorate chief Rahul Navin urged officers to expedite chargesheets to meet the financial year's target of 500 prosecution complaints. The Guwahati meeting, attended by other central agencies, focused on emerging financial crime trends and cross-border threats. Officials were advised to leverage intelligence platforms and international cooperation to combat illicit activities, particularly in the North-East.",
+    "img": "https://static.toiimg.com/photo/msid-128691979,imgsize-40678.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ed-to-zonal-heads-use-natgrid-to-file-500-chargesheets-this-fiscal/articleshow/128691934.cms",
+    "time": "2026-02-22T22:26:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Timothée Chalamet and Kylie Jenner at BAFTA 2026",
+    "desc": "At the BAFTA 2026, Timothée Chalamet and Kylie Jenner stole the show, their red carpet fashion a highlight of the evening. Unfortunately, Chalamet's film 'Marty Supreme' failed to clinch a single award from its eleven nominations, leaving fans in shock. As the spotlight shifts, all eyes are now on the upcoming Oscars for a chance at redemption.",
+    "img": "https://static.toiimg.com/photo/msid-128690854,imgsize-1385442.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bafta-2026-timothe-chalamet-and-kylie-jenner-turn-the-award-ceremony-into-a-stylish-date-night/articleshow/128690854.cms",
+    "time": "2026-02-22T22:14:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rajaji statue to replace Lutyens' at Prez house that he designed",
+    "desc": "Prime Minister Modi announced the removal of Edwin Lutyens' statue from Rashtrapati Bhavan, replacing it with one of C Rajagopalachari. This move signifies a broader effort to shed colonial vestiges and embrace India's heritage. Modi also lauded former Tamil Nadu CM J Jayalalithaa's contributions to governance and women's empowerment.",
+    "img": "https://static.toiimg.com/photo/msid-128691169,imgsize-24354.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rajaji-statue-to-replace-lutyens-at-prez-house-that-he-designed/articleshow/128690911.cms",
+    "time": "2026-02-22T22:12:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cops bust module linked to LeT, foil plot to strike Delhi; 7 Bangladeshis with Aadhaar IDs among 8 arrested",
+    "desc": "Delhi Police special cell has foiled a major terror plot by arresting eight suspects linked to Lashkar-e-Taiba. The module, comprising mostly Bangladeshi nationals with Indian Aadhaar cards, had targeted a Chandni Chowk temple. The operation began after provocative posters appeared at metro stations, revealing a calculated psychological warfare tactic.",
+    "img": "https://static.toiimg.com/photo/msid-128689472,imgsize-160362.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cops-bust-module-linked-to-let-foil-plot-to-strike-delhi-7-bangladeshis-with-aadhaar-ids-among-8-arrested/articleshow/128688746.cms",
+    "time": "2026-02-22T21:24:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bengal unemployment aid scheme",
+    "desc": "Lakhs of people in the 21-40 age group are lining up across West Bengal to register for the Banglar Yuba Saathi scheme announced by the Trinamool Congress government ahead of the Assembly poll. Shrabana Chatterjee and Shiv Sahay Singh look into what this unemployment allowance means for those who do not have jobs and how they are surviving in meagrely paid contractual jobs offered by the State",
+    "img": "https://th-i.thgim.com/public/incoming/hrk4jm/article70663121.ece/alternates/LANDSCAPE_1200/6744_21_2_2026_22_4_7_1_YUVASAATHI2.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/bengal-unemployment-aid-scheme-queuing-up-for-cash/article70663116.ece",
+    "time": "2026-02-22T21:06:23.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "BAFTA Awards 2026 complete winners list",
     "desc": "Politically charged thriller One Battle After Another emerged as the biggest winner at the 2026 EE British Academy Film Awards- taking home six trophies including Best Film and Best Director for Paul Thomas Anderson. Blues-infused vampire epic Sinners secured three wins- while gothic horror spectacle Frankenstein also claimed three craft awards. Shakespearean drama Hamnet was named Outstanding British Film- with Jessie Buckley winning Best Leading Actress. Here is the full list of winners.",
@@ -9,24 +252,6 @@ const newsData_en = [
     "time": "2026-02-22T20:53:32.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'One Battle After Another' sweeps six awards",
-    "desc": "Politically charged thriller \"One Battle After Another\" dominated the BAFTA Film Awards, clinching six honors including best picture. Vampire epic \"Sinners\" and gothic horror \"Frankenstein\" secured three awards each. Jessie Buckley won best actress for \"Hamnet,\" while Robert Aramayo surprisingly took best actor for \"I Swear,\" building Oscar momentum.",
-    "img": "https://static.toiimg.com/photo/msid-128688886,imgsize-51516.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bafta-awards-2026-paul-thomas-andersons-one-battle-after-another-wins-6-prizes-including-best-picture-best-director/articleshow/128688824.cms",
-    "time": "2026-02-22T20:41:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika Mandanna–Vijay Deverakonda relationship timeline",
-    "desc": "After years of stolen glances, blushing interviews and carefully guarded silences, Vijay Deverakonda and Rashmika Mandanna have finally stepped into the light — together. The two stars confirmed their relationship, announcing they are ready to begin a new chapter — one that fans have been manifesting for nearly eight years.",
-    "img": "https://static.toiimg.com/photo/msid-128688609,imgsize-39118.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandannavijay-deverakonda-relationship-timeline-from-geetha-govindam-spark-to-the-wedding-of-virosh/articleshow/128688492.cms",
-    "time": "2026-02-22T20:25:55.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How USTR polices trade partners",
     "desc": "Following a Supreme Court setback, President Trump is directing new Section 301 investigations against trading partners. These probes, covering industrial policies to drug pricing, empower the USTR to enforce trade rights and respond to unfair practices. Past actions have led to significant tariff impositions, particularly on China, with ongoing reviews and new investigations initiated.",
@@ -34,24 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/section-301-how-ustr-polices-trade-partners/articleshow/128688560.cms",
     "time": "2026-02-22T20:17:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Boong' director Lakshmipriya Devi: 'Pray for peace in Manipur'",
-    "desc": "At the BAFTA Awards, 'Boong' director Lakshmipriya Devi secured Best Children’s & Family Film, a first for Indian cinema. Her emotional acceptance speech called for peace in Manipur, urging the return of joy and innocence for displaced children, including her young actors. Devi emphasized forgiveness as humanity's superpower, using the platform to express hope for her troubled homeland.",
-    "img": "https://static.toiimg.com/photo/msid-128688098,imgsize-48792.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/boong-director-lakshmipriya-devi-in-bafta-winning-speech-we-pray-for-peace-to-return-to-manipur/articleshow/128687675.cms",
-    "time": "2026-02-22T19:51:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vishal Bhardwaj defends explicit violence in cinema",
-    "desc": "At a time when films high on bloodshed are dominating the box office, Vishal Bhardwaj has made it clear that he has no issue with the growing explicitness of violence on screen. His remarks come amid the success of violent, mass-driven films like Animal, Marco and Dhurandhar, which suggest that audiences are engaging with darker, more intense storytelling.",
-    "img": "https://static.toiimg.com/photo/msid-128687659,imgsize-39848.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vishal-bhardwaj-defends-explicit-violence-in-cinema-mahabharat-ka-jo-violence-hai-wo-unimaginable-hai-humare-dna-mein-hai-wo-element/articleshow/128687611.cms",
-    "time": "2026-02-22T19:32:31.000Z"
   },
   {
     "cat": "Politics",
@@ -79,24 +286,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-ind-vs-sa-we-thought-this-was-the-best-xi-ten-doeschate/article70664541.ece",
     "time": "2026-02-22T18:52:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kriti Sanon, Kabir Bahia’s cosy London walk caught on camera",
-    "desc": "A new video of Kriti Sanon and Kabir Bahia walking hand in hand in London has surfaced online, once again putting their rumoured relationship in the spotlight. The clip, which is being widely circulated on Reddit, shows the two stepping out together in the UK capital. The exact date of the video, however, remains unconfirmed.",
-    "img": "https://static.toiimg.com/photo/msid-128686209,imgsize-56388.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kriti-sanon-and-kabir-bahias-cosy-london-walk-caught-on-camera-hand-in-hand-video-goes-viral/articleshow/128686060.cms",
-    "time": "2026-02-22T18:31:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Farhan-Shibani make red carpet debut",
-    "desc": "Indian stars Farhan Akhtar and Shibani Dandekar graced the BAFTA Awards in London, with Farhan's film 'Boong' nominated for Best Children's & Family Film. The stylish couple celebrated their fourth wedding anniversary earlier, sharing affectionate messages. Farhan, previously married to Adhuna Bhabani, has two daughters from that union.",
-    "img": "https://static.toiimg.com/photo/msid-128685099,imgsize-26574.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bafta-2026-farhan-akhtar-makes-red-carpet-debut-with-shibani-dandekar-as-boong-competes-for-best-childrens-and-family-film/articleshow/128684986.cms",
-    "time": "2026-02-22T18:13:06.000Z"
   },
   {
     "cat": "Politics",
@@ -144,24 +333,6 @@ const newsData_en = [
     "time": "2026-02-22T17:45:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Hamnet' eyes victory over 'Sinners'",
-    "desc": "An offbeat political thriller, a vampire horror film and a period drama about Shakespeare will go head-to-head Sunday at the BAFTAs, Britain's biggest film awards, setting the stage for the Oscars. It was followed by 13 nominations for the vampire period horror film \"Sinners\" -- which smashed the all-time Oscars nominations record with 16 selections -- and Timothee Chalamet's ping-pong drama \"Marty Supreme\" with 11 nods.",
-    "img": "https://static.toiimg.com/photo/msid-128684620,imgsize-83306.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bafta-awards-2026-hamnet-eyes-glory-over-sinners-and-one-battle-after-another/articleshow/128682866.cms",
-    "time": "2026-02-22T17:39:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Gordon Ramsay",
-    "desc": "Gordon Ramsay, the renowned chef, emphasizes the importance of clear goals for success. His autobiography, 'Playing With Fire,' chronicles his remarkable journey from humble beginnings and a shattered football dream to building a global restaurant empire.",
-    "img": "https://static.toiimg.com/photo/msid-128671641,imgsize-680507.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/tv/news/english/quote-of-the-day-by-gordon-ramsay-you-need-to-know-what-youre-aiming-for-in-order-to-reach-it/articleshow/128671641.cms",
-    "time": "2026-02-22T17:30:00.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Deeply value friendship with Israel': PM Modi responds to Benjamin Netanyahu; highlights strong ties ahead of visit",
     "desc": "Prime Minister Narendra Modi is set to visit Israel soon. He expressed his eagerness for the trip on social media. Prime Minister Benjamin Netanyahu described the visit as historic. The leaders emphasized the strong bond between India and Israel. They highlighted cooperation in innovation and security. The partnership continues to grow across various sectors.",
@@ -169,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/deeply-value-friendship-with-israel-pm-modi-responds-to-benjamin-netanyahu-highlights-strong-ties-ahead-of-visit/articleshow/128684176.cms",
     "time": "2026-02-22T17:25:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Alia calls Raha her 'true inspiration'",
-    "desc": "Alia Bhatt graced the BAFTA Awards in a stunning silver gown, sharing her profound love for cinema and her role as a presenter. She revealed her daughter, Raha, is her current muse. Bhatt also hinted at potential UK film production, expressing excitement for her upcoming Bollywood releases, 'Love and War' and 'Alpha'.",
-    "img": "https://static.toiimg.com/photo/msid-128683318,imgsize-45208.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bafta-awards-2026-alia-bhatt-calls-daughter-raha-her-true-inspiration-says-shes-three-now-dancing-to-my-songs/articleshow/128682869.cms",
-    "time": "2026-02-22T17:13:23.000Z"
   },
   {
     "cat": "Sports",
@@ -252,15 +414,6 @@ const newsData_en = [
     "time": "2026-02-22T16:45:32.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Alia Bhatt channels Marilyn Monroe at first BAFTAs appearance",
-    "desc": "Alia Bhatt made her debut at the British Academy of Film and Television Arts Awards, presenting Best Film Not in the English Language, and turned heads with a look inspired by Marilyn Monroe. Speaking about her red-carpet inspirations, she shared that it ranges from Brigitte Bardot “for her hair” and Monica Bellucci “for her vibe” to Rekha “for her beauty”.",
-    "img": "https://static.toiimg.com/photo/msid-128682936,imgsize-109328.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-channels-marilyn-monroe-at-first-baftas-appearance-says-rekha-inspires-her-beauty/articleshow/128682857.cms",
-    "time": "2026-02-22T16:44:34.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Women, children killed': India strongly condemns Pakistani strikes in Afghanistan during Ramadan",
     "desc": "India has strongly condemned Pakistan's overnight airstrikes on Afghanistan. The strikes reportedly targeted alleged terror hideouts. India's Ministry of External Affairs highlighted civilian casualties, including women and children, during the holy month of Ramadan. Afghanistan's Ministry of Defence stated that dozens of innocent civilians were martyred and wounded after airstrikes hit a school and residential homes.",
@@ -279,15 +432,6 @@ const newsData_en = [
     "time": "2026-02-22T16:31:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Inside Clint Eastwood's net worth",
-    "desc": "Clint Eastwood's journey from a working-class background to a Hollywood titan is a remarkable rags-to-riches tale. His career, propelled by iconic Westerns and the 'Dirty Harry' franchise, saw his net worth soar, especially after launching Malpaso Productions. Beyond acting, his Oscar-winning directorial work and shrewd real estate investments solidified his immense wealth.",
-    "img": "https://static.toiimg.com/photo/msid-128672674,imgsize-30228.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/clint-eastwoods-net-worth-inside-the-legendary-cowboys-usd-375-million-financial-empire/articleshow/128672674.cms",
-    "time": "2026-02-22T16:30:00.000Z"
-  },
-  {
     "cat": "World",
     "title": "Time for countries facing U.S. tariffs to unionise, negotiate together: Lula Da Silva",
     "desc": "The Brazilian President pitches for UN seats for India and Brazil and speaks of lessons learned from India in 2005. He says he was “touched” by musical gesture by government at the end of visit.",
@@ -295,15 +439,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/brazil-president-lula-trade-tensions/article70662557.ece",
     "time": "2026-02-22T16:24:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "The Kerala Story 2 director hits back at Kashyap’s remark",
-    "desc": "Goes Beyond. Even before its release, the film has landed in controversy, followed by sharp remarks by Anurag Kashyap. In response, Kamakhya Narayan Singh issued a strong rebuttal in a video statement, also addressing criticism from actor Prakash Raj and others.",
-    "img": "https://static.toiimg.com/photo/msid-128682230,imgsize-38588.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-kerala-story-2-director-kamakhya-narayan-singh-hits-back-at-anurag-kashyaps-bakwas-picture-propaganda-remark-mansik-roop-se-durbal/articleshow/128682103.cms",
-    "time": "2026-02-22T16:16:21.000Z"
   },
   {
     "cat": "Sports",
@@ -349,15 +484,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/kerala-cm-flags-ulterior-motives-behind-narratives-targeting-kerala/article70663862.ece",
     "time": "2026-02-22T15:23:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sunil Grover reacts to celebs safeguarding personality rights",
-    "desc": "Amid a growing number of celebrities moving court to safeguard their personality rights, Sunil Grover has shared his take on the issue — especially as his mimicry of Salman Khan and Aamir Khan continues to grab attention. He elaborated that while misuse of a celebrity’s image for endorsements or propaganda can be problematic, mimicry rooted in admiration is a form of celebration.",
-    "img": "https://static.toiimg.com/photo/msid-128680300,imgsize-39148.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-mimicking-salman-khan-aamir-khan-sunil-grover-reacts-to-celebs-safeguarding-personality-rights-jab-tak-mere-pe-case-nahi-aata/articleshow/128680079.cms",
-    "time": "2026-02-22T15:01:08.000Z"
   },
   {
     "cat": "Politics",
@@ -423,33 +549,6 @@ const newsData_en = [
     "time": "2026-02-22T13:55:25.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Bhupen Borah’s BJP switch: Ghosts of past rifts haunt Congress before Assam elections",
-    "desc": "Congress faces a significant setback in Assam as former state chief Bhupen Borah joins the BJP, echoing past defections. Borah cited humiliation and marginalization by party leaders Gaurav Gogoi and Rakibul Hussain as reasons for his departure, highlighting internal rifts ahead of assembly elections.",
-    "img": "https://static.toiimg.com/photo/msid-128677521,imgsize-839366.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bhupen-borahs-bjp-switch-ghosts-of-past-rifts-haunt-congress-before-assam-elections/articleshow/128677463.cms",
-    "time": "2026-02-22T13:47:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Why did India not wait?’: Jairam Ramesh questions timing of US trade deal; cites Supreme Court tariff ruling",
-    "desc": "Congress MP Jairam Ramesh questioned the Centre's decision to agree to a trade deal framework with Washington before the US Supreme Court ruled on Trump tariffs. He argued India could have negotiated from a stronger position had it waited for the court's verdict, which ultimately found the administration exceeded its authority on tariffs.",
-    "img": "https://static.toiimg.com/photo/msid-128677943,imgsize-16824.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-did-india-not-wait-jairam-ramesh-questions-timing-of-us-trade-deal-cites-supreme-court-tariff-ruling/articleshow/128677808.cms",
-    "time": "2026-02-22T13:20:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "From posters in Delhi to raids in Tamil Nadu &amp; Bengal: How cops busted Pakistan-based terror plot in India",
-    "desc": "Delhi Police busted a Pakistan-linked LeT terror module, arresting eight suspects across Delhi, West Bengal, and Tamil Nadu. The group, directed by a Bangladesh-based handler, allegedly pasted anti-national posters and planned terror activities. This operation thwarted a major untoward incident, with intelligence suggesting potential IED attacks.",
-    "img": "https://static.toiimg.com/photo/msid-128677595,imgsize-100648.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-posters-in-delhi-to-raids-in-tamil-nadu-bengal-how-cops-busted-pakistan-based-terror-plot-in-india/articleshow/128677346.cms",
-    "time": "2026-02-22T13:14:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Hara-kiri at Pallekele! Sri Lanka batters surrender meekly; England win by 51 runs",
     "desc": "Phil Salt’s sublime 62 laid the foundation for England’s commanding win before Sri Lanka’s batting imploded spectacularly in Kandy. After their bowlers restricted England to a below-par 146, Sri Lanka collapsed in a heap, undone by reckless shot selection and relentless pressure from England’s attack, led by Will Jacks and Jofra Archer.",
@@ -468,24 +567,6 @@ const newsData_en = [
     "time": "2026-02-22T12:38:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Imperils Republic's image': Delhi court blasts Congress' 'shirtless' protest at AI Summit",
-    "desc": "A Delhi court has remanded four Indian Youth Congress workers to five-day police custody, deeming their protest at the AI Impact Summit-2026 a \"blatant assault on public order\" that harmed India's diplomatic image. The activists wore provocative T-shirts, chanted slogans, and assaulted police personnel, raising concerns about potential external conspiracies and absconding associates.",
-    "img": "https://static.toiimg.com/photo/msid-128676726,imgsize-956757.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/imperils-republics-image-delhi-court-blasts-congress-shirtless-protest-at-ai-summit/articleshow/128676650.cms",
-    "time": "2026-02-22T12:34:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "How Downey Jr.’s ‘terrible childhood’ helped in his Oscar win",
-    "desc": "Robert Downey Jr. took home his inaugural Oscar for Best Supporting Actor in 'Oppenheimer' at the age of 58, a salute to his remarkable resilience. In his acceptance speech, he playfully reflected on his 'whacky childhood' and expressed heartfelt gratitude to his wife Susan, the anchor of his recovery.",
-    "img": "https://static.toiimg.com/photo/msid-128670086,imgsize-37096.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscar-tales-when-robert-downey-jr-thanked-his-terrible-childhood-after-his-supporting-actor-win/articleshow/128670060.cms",
-    "time": "2026-02-22T12:30:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Don’t think PCB chief has given full freedom': Mohsin Naqvi under fire",
     "desc": "Manoj Tiwary criticised PCB chief Mohsin Naqvi, saying a lack of clarity and freedom may be causing tension between Pakistan’s coach and captain after Salman Agha’s bottle-throwing incident. He claimed it showed a trust deficit in the team setup. However, coach Mike Hesson dismissed rift rumours, saying Agha was frustrated with his own dismissal and the discussion was about batting plans, not an argument.",
@@ -495,15 +576,6 @@ const newsData_en = [
     "time": "2026-02-22T12:08:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Here’s what Taylor Swift’s wedding dreams look like",
-    "desc": "Taylor Swift's journey through love and marriage, from fairy-tale dreams to real-life commitment, is explored. Her music and interviews reveal an evolving perspective, culminating in her engagement to Travis Kelce. The couple is now reportedly planning a summer 2026 wedding in Rhode Island, with June 13th as a potential date.",
-    "img": "https://static.toiimg.com/photo/msid-128670188,imgsize-46856.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/id-marry-you-with-paper-rings-how-taylor-swift-has-shared-her-wedding-dreams-through-her-music-and-words/articleshow/128670159.cms",
-    "time": "2026-02-22T11:30:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India A beat Bangladesh A to lift Women’s Asia Cup Rising Stars 2026 title",
     "desc": "India A Women beat Bangladesh by 46 runs to win the ACC Women’s Asia Cup Rising Stars title. Tejal Hasabnis scored an unbeaten 51, while captain Radha Yadav added 36 to help India post 134/7. Bangladesh were bowled out for 88, with Prema Rawat taking 3/12. Hasabnis was named Player of the Match for her match-winning knock.",
@@ -511,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/tejal-hasabnis-stars-as-india-a-beat-bangladesh-a-by-46-runs-to-lift-womens-asia-cup-rising-stars-2026-title/articleshow/128674440.cms",
     "time": "2026-02-22T11:24:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Colonial-era architect Edwin Lutyens’ statue to be replaced by C Rajagopalachari at Rashtrapati Bhavan",
-    "desc": "Prime Minister Narendra Modi announced that a statue of British architect Edwin Lutyens at Rashtrapati Bhavan will be replaced by one of C Rajagopalachari, India's first governor-general. This move signifies the nation's departure from colonial symbols and embrace of Indian heritage. The unveiling of Rajagopalachari's statue is scheduled for February 23rd",
-    "img": "https://static.toiimg.com/photo/msid-128674954,imgsize-39860.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/colonial-era-architect-edwin-lutyens-statue-to-be-replaced-by-c-rajagopalacharis-at-rashtrapati-bhavan/articleshow/128674503.cms",
-    "time": "2026-02-22T11:13:33.000Z"
   },
   {
     "cat": "Sports",
@@ -549,15 +612,6 @@ const newsData_en = [
     "time": "2026-02-22T10:16:56.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Karni Sena workers be ready': Right-wing leader's stark warning to filmmakers over films 'targeting' Sanatan Dharma",
-    "desc": "Kshatriya Karni Sena chief Raj Shekhawat issued a stern warning to filmmakers, threatening to confront them at their homes in Mumbai over movies allegedly targeting \"Sanatan Dharma\" and hurting religious sentiments. The group specifically objected to \"Yadav Ji Ki Love Story\" and \"Ghooskhor Pandat,\" accusing filmmakers of disrespecting faith and social groups.",
-    "img": "https://static.toiimg.com/photo/msid-128673021,imgsize-467547.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/karni-sena-workers-be-ready-right-wing-leaders-stark-warning-to-filmmakers-over-films-targeting-sanatan-dharma/articleshow/128673045.cms",
-    "time": "2026-02-22T10:15:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Aura no longer there': 'Devastated' Australia under fire after disastrous T20 World Cup",
     "desc": "Australia's Twenty20 World Cup campaign ended in a group stage exit, prompting calls for a rebuild ahead of the 2028 tournament. Coach Andrew McDonald defended his squad selection despite criticism from former players like Glenn McGrath and Mark Waugh, who questioned the inclusion of out-of-form players and the absence of key fast bowlers.",
@@ -565,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/aura-no-longer-there-devastated-australia-under-fire-after-disastrous-t20-world-cup/articleshow/128672321.cms",
     "time": "2026-02-22T09:58:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Indian Coast Guard detains Iranian-crewed vessel; smuggled cigarettes worth crores seized",
-    "desc": "The Indian Coast Guard has intercepted a suspicious foreign vessel inside India’s Exclusive Economic Zone, around 115 nautical miles west of Dwarka. The boat, identified as Al Mukhtar, had four Iranian crew members and was found carrying 200 cartons of smuggled foreign-brand cigarettes. The vessel has been taken into custody.",
-    "img": "https://static.toiimg.com/photo/msid-128672579,imgsize-75842.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indian-coast-guard-detains-iranian-crewed-vessel-smuggled-cigarettes-worth-crores-seized/articleshow/128672497.cms",
-    "time": "2026-02-22T09:53:15.000Z"
   },
   {
     "cat": "Business",
@@ -630,15 +675,6 @@ const newsData_en = [
     "time": "2026-02-22T07:57:32.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Top upcoming OTT releases to watch this week​",
-    "desc": "​Starting February 23, streaming fans get a dose of passion, survival, and intense drama with standout series dropping just in time for the new week. These shows pull you into worlds of forbidden love, desperate fights, and epic battles, perfect for cozy nights as February winds down. Just keep the tub of popcorn ready, relax, and enjoy a binge-watch!​",
-    "img": "https://static.toiimg.com/photo/msid-128668339,imgsize-883432.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-season-4-part-2-the-blufftop-upcoming-ott-releases-to-watch-this-week/photostory/128668339.cms",
-    "time": "2026-02-22T06:43:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘The problem lies in…’: Irfan reveals how Abhishek can break free from slump",
     "desc": "Former all-rounder Irfan Pathan has advised T20 World Cup opener Abhishek Sharma to adjust his shot selection against off-spinners, urging him to settle in before attacking. Pathan highlighted Abhishek's tendency to play across the wicket too early. He also praised Ishan Kishan's current form but cautioned about his approach against wide deliveries.",
@@ -657,15 +693,6 @@ const newsData_en = [
     "time": "2026-02-22T06:05:47.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Mohd Amir defends Abhishek ‘slogger’ jibe, repeats India won’t reach semis",
-    "desc": "Former Pakistan bowler Mohammad Amir reignited controversy at the T20 World Cup with a renewed attack on India's Abhishek Sharma, questioning his defensive technique. Amir also reiterated his prediction that India will not reach the semi-finals, citing stronger performances from teams like South Africa and the West Indies.",
-    "img": "https://static.toiimg.com/photo/msid-128666787,imgsize-179900.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/what-else-should-i-call-him-mohammad-amir-defends-abhishek-sharma-slogger-jibe-repeats-india-wont-reach-semis/articleshow/128666778.cms",
-    "time": "2026-02-22T05:32:54.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "U.S. salsa legend Willie Colón dies at age 75",
     "desc": "Colon, known best as a trombonist but who was also a bandleader and producer, was born in the Bronx and known for blending the Puerto Rican music of his parents and grandparents with his home city's jazz.",
@@ -673,15 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/us-salsa-legend-willie-colon-dies-at-age-75/article70661306.ece",
     "time": "2026-02-22T04:41:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Selection headache or perfect balance? Shastri flags India’s dilemma ahead of Super 8s",
-    "desc": "India's unbeaten run in the T20 World Cup highlights their formidable depth, a strength that also presents their sole selection dilemma. Former coach Ravi Shastri believes the winning combination will likely remain intact against South Africa, emphasising flexibility and the need for extra bowling options, especially with dew a factor.",
-    "img": "https://static.toiimg.com/photo/msid-128665592,imgsize-190436.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-sa-selection-headache-or-perfect-balance-ravi-shastri-flags-indias-only-dilemma-ahead-of-super-8-showdown/articleshow/128665515.cms",
-    "time": "2026-02-22T04:34:30.000Z"
   },
   {
     "cat": "Sports",
@@ -693,13 +711,13 @@ const newsData_en = [
     "time": "2026-02-22T04:08:51.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "How Tilak Varma's form is correlated with Abhishek Sharma",
-    "desc": "India's T20 World Cup campaign has seen batting trump cards Abhishek Sharma and Tilak Varma struggle, with their form appearing correlated. Captain Suryakumar Yadav acknowledged Varma's struggles but expressed confidence, while highlighting the team's strategy to allow batters to play their natural game when possible. The team management is backing the duo, aiming to replicate their previous success.",
-    "img": "https://static.toiimg.com/photo/msid-128664241,imgsize-46440.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-how-tilak-varmas-form-is-correlated-with-abhishek-sharma/articleshow/128664164.cms",
-    "time": "2026-02-22T03:17:24.000Z"
+    "cat": "Business",
+    "title": "On alpha fade rate",
+    "desc": "Alpha fade rate refers to the gradual decay in the alpha strategy. This is because rate at which an alpha strategy fades can be faster than the rate at which a newer alpha strategy can be developed",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/on-alpha-fade-rate/article70662389.ece",
+    "time": "2026-02-22T03:05:54.000Z"
   },
   {
     "cat": "World",
@@ -772,15 +790,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/rahul-plays-an-influential-role-in-karnatakas-progress-to-the-final/article70661069.ece",
     "time": "2026-02-21T18:17:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "These Hulu dramas are a must try",
-    "desc": "If you’re someone who doesn’t have many plans for the weekend, watching a binge-worthy series is the easiest way to escape the boredom. And if you can’t decide what to watch, then don’t worry, we’ve got you covered! This week we’ve brought together a list of binge-worthy shows from Hulu, which you can easily complete on a Sunday. ‘Normal People’, ‘Good American Family,’ and more; This list is a must try.This 8-episode limited series, starring Amanda Seyfried, is definitely binge-worthy. The series tells the unbelievable true story of Theranos, the blood-testing startup that promised to revolutionize healthcare but was built on a web of lies. Seyfried plays Elizabeth Holmes, capturing the infamous CEO’s ambition, vocal evolution, and ultimate descent into fraud.",
-    "img": "https://static.toiimg.com/photo/msid-128639694,imgsize-665254.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/sunday-binge-watch-these-hulu-dramas-are-a-must-try/photostory/128639694.cms",
-    "time": "2026-02-21T18:00:00.000Z"
   },
   {
     "cat": "Sports",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/why-the-strait-of-hormuz-remains-central-to-global-energy-security/article70656443.ece",
     "time": "2026-02-21T00:44:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chess is more than just a game to me; it’s my world, it’s the core of my life: Alexandra Kosteniuk",
-    "desc": "The 41-year-old Grandmaster is one of the most decorated players in chess history, having won multiple World titles, the World Cup, Olympiads and the GCL. In this conversation, she talks about what the game means to her, how it has changed with the advent of computers, what motivates her to compete at the top level in her 40s and why she isn’t a content creator anymore",
-    "img": "https://th-i.thgim.com/public/incoming/osevae/article70656227.ece/alternates/LANDSCAPE_1200/GettyImages-1237471437.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/chess-is-more-than-just-a-game-to-me-its-my-world-its-the-core-of-my-life-alexandra-kosteniuk/article70656220.ece",
-    "time": "2026-02-20T18:36:38.000Z"
   }
 ];
