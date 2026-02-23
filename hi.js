@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mohammad Amir clarifies his 'slogger' remark for Abhishek Sharma, gives message to struggling opener",
+    "desc": "Pakistan speedster Mohammad Amir has given his clarification on the 'slogger' remark that he recently made for Abhishek Sharma, claiming that the opener cannot defend. Amir stated that people might have got hurt by his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-amir-clarifies-his-slogger-remark-for-abhishek-sharma-gives-message-to-struggling-opener-2026-02-23-1031340",
+    "time": "2026-02-23T09:04:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'India are beatable': David Miller after South Africa's big win over hosts in T20 World Cup 2026",
+    "desc": "After handing India a huge 76-run loss in their T20 World Cup Super Eight clash, South African veteran stated that his team has shown that 'India are beatable'. India, the defending champions, entered the tournament...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-are-beatable-david-miller-after-south-africas-big-win-over-hosts-in-t20-world-cup-2026-2026-02-23-1031338",
+    "time": "2026-02-23T08:42:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Zimbabwe's undisputed opener who is the only top-order batter yet to be dismissed in T20 World Cup 2026",
+    "desc": "Zimbabwe have made the world think about them as they have entered the T20 World Cup 2026 Super Eight stage unbeaten, riding high on wins over the likes of Sri Lanka and Australia. The fact...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/zimbabwes-undisputed-opener-who-is-the-only-top-order-batter-yet-to-be-dismissed-in-t20-world-cup-2026-2026-02-23-1031331",
+    "time": "2026-02-23T07:51:35.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India feel the heat in T20 World Cup as home conditions seem to be alien",
     "desc": "There were signs of this happening before. There were signs that India's jaw-dropping run might hit a roadblock once, if not more, in this T20 World Cup. And it has happened against a team that...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-coach-hints-at-sanju-samson-s-inclusion-after-shattering-defeat-to-south-africa-in-t20-world-cup-2026-02-22-1031290",
     "time": "2026-02-22T18:13:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav wants India to improve on all three fronts to get back to winning ways in T20 World Cup 2026",
-    "desc": "South Africa crushed India, handing them a 76-run defeat in Group A’s first clash in the ongoing Super Eights of the T20 World Cup 2026. Batting first, the Proteas were put under pressure as they...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-wants-india-to-improve-on-all-three-fronts-to-get-back-to-winning-ways-in-t20-world-cup-2026-2026-02-22-1031288",
-    "time": "2026-02-22T17:53:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 World Cup Super 8 points table update after India's loss to South Africa in Ahmedabad",
-    "desc": "It was a day to forget for hosts at the T20 World Cup today as India and Sri Lanka both lost their Super 8 matches against South Africa and England, respectively. Both teams lost by...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/t20-world-cup-2026-points-table-update-after-india-s-loss-to-south-africa-in-ahmedabad-2026-02-22-1031286",
-    "time": "2026-02-22T17:43:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How can India still qualify for T20 World Cup 2026 semi-final after 76-run drubbing vs South Africa?",
-    "desc": "India suffered a crushing 76-run defeat to South Africa in their first Super Eights clash at the Narendra Modi Stadium in Ahmedabad. Batting first, the Proteas were reduced to 20/3 in the powerplay, but David...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-can-india-still-qualify-for-t20-world-cup-2026-semi-final-after-76-run-drubbing-vs-south-africa-2026-02-22-1031281",
-    "time": "2026-02-22T17:07:50.000Z"
   }
 ];
