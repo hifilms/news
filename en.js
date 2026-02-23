@@ -1,5 +1,113 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Kuno National Park to receive eight cheetahs from Botswana on February 28",
+    "desc": "Botswana is the third African nation to send cheetahs to India as part of Project Cheetah. Two batches of cheetahs have arrived from Namibia and South Africa since the project was kickstarted in September, 2022",
+    "img": "https://th-i.thgim.com/public/incoming/hkos22/article70668515.ece/alternates/LANDSCAPE_1200/PTI12_31_2025_000426B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/kuno-national-park-to-receive-eight-cheetahs-from-botswana-on-february-28/article70668217.ece",
+    "time": "2026-02-23T20:57:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Govind Namdev slams food hierarchy on a film set",
+    "desc": "Veteran actor Govind Namdev has highlighted the stark inequality on film sets, from creative discussions to meal arrangements, citing a rigid hierarchy. He praised Akshay Kumar and director Umesh Shukla for fostering an egalitarian environment during 'Oh My God!', where everyone received the same treatment and food, a rarity in Bollywood.",
+    "img": "https://static.toiimg.com/photo/msid-128729678,imgsize-39706.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govind-namdev-says-theres-food-hierarchy-in-bollywood-on-a-film-set-stars-get-special-food-recalls-how-akshay-kumar-changed-it/articleshow/128729629.cms",
+    "time": "2026-02-23T20:36:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "U.S. deal, Epstein links are shameful, not peaceful protests, Rahul tells Modi",
+    "desc": "The Congress condemns the arrest of Youth Congress leaders, alleges that family members of Youth Congress workers are harassed. PM Modi had called Youth Congress leaders’ ‘shirtless’ protest at the Delhi AI summit ‘naked politics’ and said that it was shameful.",
+    "img": "https://th-i.thgim.com/public/incoming/85rs4u/article70668487.ece/alternates/LANDSCAPE_1200/TH14-Phukan-IndGDKFJALEP.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/indo-us-trade-deal-your-name-figuring-in-epstein-files-are-shameful-not-the-peaceful-protests-rahul-gandhi-tells-modi/article70668223.ece",
+    "time": "2026-02-23T20:31:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "All seven onboard Ranchi-Delhi air ambulance killed in crash near Simaria in Jharkhand’s Chatra: DC",
+    "desc": "SDPO Shubham Khandelwal said the bodies of all seven persons on board have been retrieved. They have been identified as Captain Vivek Vikas Bhagat, Captain Savrajdeep Singh, Sanjay Kumar, Dr Vikas Kumar Gupta, Sachin Kumar Mishra, Archana Devi, and Dhuru Kumar.",
+    "img": "https://th-i.thgim.com/public/incoming/bnvzg/article70668574.ece/alternates/LANDSCAPE_1200/PTI02_23_2026_000502B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jharkhand/air-ambulance-crash-jharkhand-several-onboard-updates/article70668545.ece",
+    "time": "2026-02-23T20:29:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Zeenat Aman sticks to her views on live-in relationships",
+    "desc": "Zeenat Aman reiterates her stance on live-in relationships, emphasizing that a partnership's sanctity lies with the individuals involved, not societal or religious approval. She believes genuine connection, respect, and love are the true foundations of a fulfilling relationship, regardless of marital status.",
+    "img": "https://static.toiimg.com/photo/msid-128729423,imgsize-25818.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zeenat-aman-sticks-to-her-views-on-live-in-relationships-admits-it-caused-a-kerfuffle-among-some-contemporaries-was-accused-of-insulting-/articleshow/128729297.cms",
+    "time": "2026-02-23T20:21:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kuno National Park to get 8 cheetahs from Botswana on Feb. 28",
+    "desc": "Botswana is the third African nation to send cheetahs to India as part of Project Cheetah. Two batches of cheetahs have arrived from Namibia and South Africa since the project was kickstarted in September, 2022",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/kuno-national-park-to-get-8-cheetahs-from-botswana-on-feb-28/article70668464.ece",
+    "time": "2026-02-23T19:54:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rashmika, Vijay drop glimpses from their wedding festivities: PICS",
+    "desc": "South Indian stars Rashmika Mandanna and Vijay Deverakonda have officially confirmed their wedding, set to take place in Udaipur on February 26. The couple, who reportedly got engaged in October, has shared glimpses of their pre-wedding festivities, including a pool party and decor featuring a 'Virosh' theme. The celebrations are expected to be a private affair with a royal touch.",
+    "img": "https://static.toiimg.com/photo/msid-128728601,imgsize-47256.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rashmika-mandanna-vijay-deverakonda-give-a-sneak-peek-into-their-wedding-festivities-from-virosh-themed-decor-to-pool-games-pics-inside/articleshow/128728153.cms",
+    "time": "2026-02-23T19:45:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "One held for objectionable social media post on PM in Uttar Pradesh",
+    "desc": "Jehanabad police station SHO Pradeep Vishnoi told reporters that based on the complaint filed by Sub-Inspector Gyan Chand, police have registered a case against the accused youth identified as Arbaaz, a resident of Vishen village, under relevant sections.",
+    "img": "https://th-i.thgim.com/public/incoming/qkkwrd/article70668652.ece/alternates/LANDSCAPE_1200/20260221409L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/one-held-for-objectionable-social-media-post-on-pm-in-uttar-pradesh/article70668650.ece",
+    "time": "2026-02-23T19:32:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Details of Rashmika-Vijay's mehendi, haldi, sangeet ahead of wedding",
+    "desc": "Udaipur is set to host the wedding festivities of actors Rashmika Mandanna and Vijay Deverakonda this week. The couple arrived Monday, with pre-wedding events like mehndi, haldi, and sangeet scheduled from February 24th to 25th at ITC Mementos Udaipur. The main ceremony will take place on February 26th, promising a private, royal affair blending tradition and personal touches.",
+    "img": "https://static.toiimg.com/photo/msid-128727738,imgsize-39608.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vijay-deverakonda-rashmika-mandanna-wedding-here-are-the-details-of-the-haldi-mehendi-sangeet-ceremony-ahead-of-the-grand-wedding/articleshow/128727752.cms",
+    "time": "2026-02-23T19:13:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Actively considering issue of airfare fluctuations, Centre tells Supreme Court",
+    "desc": "The plea had also pointed to the reduction in free check-in baggage allowance for economy class passengers from 25 kg to 15 kg, “thereby converting what was earlier part of the ticketed service into a new revenue stream”.",
+    "img": "https://th-i.thgim.com/public/incoming/7opkzq/article70668630.ece/alternates/LANDSCAPE_1200/2026-01-15T100327Z_2074265727_RC2AIIAXIN22_RTRMADP_3_AMBANI-ADANI-INDIA-TELECOM.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/actively-considering-issue-of-airfare-fluctuations-centre-tells-supreme-court/article70668004.ece",
+    "time": "2026-02-23T18:59:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajpal says Mumbai has never let him down, he's working since 97",
+    "desc": "Actor Rajpal Yadav has launched a new digital series, 'Vanity Vichaar,' sharing personal reflections and gratitude for Mumbai's unwavering support since his 1997 arrival. He expressed thanks for continuous work opportunities and the love of his fans and family, especially after recent legal troubles. Yadav highlighted his nearly three-decade journey in the industry.",
+    "img": "https://static.toiimg.com/photo/msid-128727182,imgsize-16042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-release-from-jail-rajpal-yadav-says-mumbai-has-never-let-him-down-continuously-working-since-1997/articleshow/128727197.cms",
+    "time": "2026-02-23T18:55:14.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Tarique Rahman government carries out changes in armed forces and the International Crimes Tribunal",
+    "desc": "These changes have taken place almost simultaneously with the announcement that the new government will examine all the legal cases that have been filed against journalists and business persons after the uprising of August 5, 2024.",
+    "img": "https://th-i.thgim.com/public/incoming/fmbij7/article70668624.ece/alternates/LANDSCAPE_1200/2026-02-17T200400Z_686471934_RC2VNJAOAKIW_RTRMADP_3_BANGLADESH-ELECTION-INAUGURATION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/tarique-rahman-government-carries-out-changes-in-armed-forces-and-the-international-crimes-tribunal/article70668076.ece",
+    "time": "2026-02-23T18:49:22.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "The Axar conundrum —to be or not to be",
     "desc": "He is a no-fuss individual with a ready smile, willing and able to perform any task he is asked to undertake; expectations were that he would take his appointed place for the Super Eight fixture against South Africa but the jinx of the vice-captaincy seemed to take him down as well",
@@ -25,15 +133,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/she-has-been-a-warrior-through-the-pregnancy-says-vicky-kaushal-as-he-showers-love-on-katrina-kaif-talks-about-son-vihaan/articleshow/128725860.cms",
     "time": "2026-02-23T18:15:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Air ambulance with seven onboard to Delhi from Ranchi crashes in Jharkhand's Chatra",
-    "desc": "Chatra Deputy Commissioner Keerthishree G said, “The aircraft went missing around 7.30 p.m.. It crashed at Bariatu Panchayat in Simaria.” The DC said she cannot confirm the casualties right now, as the place of occurrence is deep in the forest.",
-    "img": "https://th-i.thgim.com/public/incoming/bnvzg/article70668574.ece/alternates/LANDSCAPE_1200/PTI02_23_2026_000502B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jharkhand/air-ambulance-crash-jharkhand-several-onboard-updates/article70668545.ece",
-    "time": "2026-02-23T18:03:47.000Z"
   },
   {
     "cat": "Politics",
@@ -108,15 +207,6 @@ const newsData_en = [
     "time": "2026-02-23T17:20:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kuno National Park to receive eight cheetahs from Botswana on February 28",
-    "desc": "Botswana is the third African nation to send cheetahs to India as part of Project Cheetah. Two batches of cheetahs have arrived from Namibia and South Africa since the project was kickstarted in September, 2022",
-    "img": "https://th-i.thgim.com/public/incoming/hkos22/article70668515.ece/alternates/LANDSCAPE_1200/PTI12_31_2025_000426B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/madhya-pradesh/kuno-national-park-to-receive-eight-cheetahs-from-botswana-on-february-28/article70668217.ece",
-    "time": "2026-02-23T17:12:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Boong director after BAFTA win",
     "desc": "“The walk up till here felt like the last few steps to reach the summit of a mountain we never knew we were climbing in the first place. I just want to use this opportunity to say that we pray for peace to return in Manipur,” Boong director Lakshmipriya Devi said in her acceptance speech",
@@ -142,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-recalls-what-he-did-when-he-liked-a-girl-in-college-all-her-neighbours-beat-me-up/articleshow/128723104.cms",
     "time": "2026-02-23T16:59:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Indo-U.S. trade deal, your name figuring in Epstein files are shameful, not the peaceful protests, Rahul Gandhi tells Modi",
-    "desc": "The Congress condemns the arrest of Youth Congress leaders, alleges that family members of Youth Congress workers are harassed. PM Modi had called Youth Congress leaders’ ‘shirtless’ protest at the Delhi AI summit ‘naked politics’ and said that it was shameful.",
-    "img": "https://th-i.thgim.com/public/incoming/85rs4u/article70668487.ece/alternates/LANDSCAPE_1200/TH14-Phukan-IndGDKFJALEP.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/indo-us-trade-deal-your-name-figuring-in-epstein-files-are-shameful-not-the-peaceful-protests-rahul-gandhi-tells-modi/article70668223.ece",
-    "time": "2026-02-23T16:58:26.000Z"
   },
   {
     "cat": "Business",
@@ -279,15 +360,6 @@ const newsData_en = [
     "time": "2026-02-23T14:59:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Four loading workers killed as sunshade of godown collapses on them  in Kozhikode",
-    "desc": "Four others seriously injured in the accident. Incident at Valiyangadi when the four were taking rest near the old building. They were taking rest under the 50-metre long sunshade after unloading goods to a nearby shop around 12 noon",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/four-loading-workers-killed-as-sunshade-of-godown-collapses-on-them-in-kozhikode/article70667239.ece",
-    "time": "2026-02-23T14:57:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Shimron Hetmyer breaks Chris Gayle's 17-year-old record",
     "desc": "Shimron Hetmyer smashed a blistering 19-ball half-century at the Wankhede Stadium, setting a new West Indies record in T20 World Cup history. This remarkable feat surpassed Chris Gayle's previous record of 23 balls. Hetmyer's aggressive innings showcased the Caribbean team's fearless approach to the game.",
@@ -295,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/record-shattered-shimron-hetmyer-breaks-chris-gayles-long-standing-17-year-old-t20-world-cup-milestone/articleshow/128719104.cms",
     "time": "2026-02-23T14:56:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Southern Railway withholds staff allowances citing financial constraints",
-    "desc": "Maintenance of assets and other running costs resulted in expenditure exceeding budget, say officials; they express hope that Railway Board would release a special grant, enabling disbursal of allowances for February and March along with April salary",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/otdivv/article70667855.ece/alternates/LANDSCAPE_1200/2501_28_10_2023_13_46_36_3_IMG_7083.jfif",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/southern-railway-withholdsstaff-allowances-citing-financial-constraints/article70667763.ece",
-    "time": "2026-02-23T14:53:02.000Z"
   },
   {
     "cat": "Politics",
@@ -385,24 +448,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/witkoff-reiterates-us-red-lines-pezeshkian-signals-optimism/article70666950.ece",
     "time": "2026-02-23T13:09:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Neeraj Pandey to direct RD Burman biopic, casting in progress",
-    "desc": "Neeraj Pandey, a celebrated filmmaker, is embarking on an exciting project that will chronicle the life of the illustrious R.D. Burman, one of India's most beloved composers. Having finalized the screenplay and started on the musical score, Pandey is actively seeking the right lead to bring Burman's vibrant story to life.",
-    "img": "https://static.toiimg.com/photo/msid-128715330,imgsize-53006.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/neeraj-pandey-to-direct-rd-burman-biopic-casting-in-progress-reports/articleshow/128715330.cms",
-    "time": "2026-02-23T13:02:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vergara orders $1K steaks, dances; work fest stop on trip",
-    "desc": "At Papi Steak in Miami, Sofia Vergara brought the party to life during a family gathering. Dressed in a bold red corset dress, she celebrated alongside her mother and loved ones, filled with joyous music and dancing. The glamorous evening was highlighted by the extravagant display of $1,000 steaks, setting the stage for a true gastronomic celebration.",
-    "img": "https://static.toiimg.com/photo/msid-128715018,imgsize-122348.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sofia-vergara-orders-usd-1000-worth-steaks-as-dinner-turns-into-family-fiesta-miami-nights-con-la-family/articleshow/128715018.cms",
-    "time": "2026-02-23T12:52:33.000Z"
   },
   {
     "cat": "Sports",
@@ -558,15 +603,6 @@ const newsData_en = [
     "time": "2026-02-23T10:07:27.000Z"
   },
   {
-    "cat": "Business",
-    "title": "'A deal is a deal': After Trump's 15% global tariff blow, EU says it will accept no increase",
-    "desc": "Following the US Supreme Court's invalidation of global tariffs, the European Commission urged the US to adhere to the EU-US trade agreement. President Trump's subsequent increase in tariffs from 10% to 15% has drawn strong criticism from the EU, which insists on maintaining the agreed-upon 'fair, balanced, and mutually beneficial' trade terms.",
-    "img": "https://static.toiimg.com/photo/msid-128708679,imgsize-35040.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/a-deal-is-a-deal-after-trumps-15-global-tariff-blow-eu-says-it-will-accept-no-increase/articleshow/128707106.cms",
-    "time": "2026-02-23T10:02:04.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "The Kamal Haasan–Rajinikanth reunion film: Is Nelson the right choice?",
     "desc": "The promo of the KH x RK reunion film has turned heads. The film has music scored by Anirudh and cinematography by Rajiv Menon. But is director Nelson the best creative choice for this massive project? We debate",
@@ -574,15 +610,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/kh-x-rk-kamal-haasan-rajinikanth-nelson-anirudh-ravichander-rajiv-menon/article70666290.ece",
     "time": "2026-02-23T09:59:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'There are no winners in trade war': How China reacted to US Supreme Court verdict on Trump tariffs",
-    "desc": "China reiterated its opposition to unilateral tariff hikes following the US Supreme Court's decision striking down President Trump's tariffs. The court ruled the President lacked authority under IEEPA to impose such duties. Beijing urged the US to remove all unilateral tariffs, while Trump indicated plans for new tariff actions.",
-    "img": "https://static.toiimg.com/photo/msid-128708469,imgsize-39070.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/there-are-no-winners-in-trade-war-how-china-reacted-to-us-supreme-court-verdict-on-trump-tariffs/articleshow/128705781.cms",
-    "time": "2026-02-23T09:56:19.000Z"
   },
   {
     "cat": "Sports",
@@ -601,15 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/is-badminton-willing-to-trade-depth-for-speed/article70666095.ece",
     "time": "2026-02-23T09:20:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ek Din' song out: Aamir requests Arijit to sing- Check BTS",
-    "desc": "In a heartfelt move, Aamir Khan journeyed to Murshidabad to persuade the talented Arijit Singh to lend his voice to the anticipated film 'Ek Din'. Their synergy brought forth a mesmerizing title track, with Khan's hands-on approach enriching the process.",
-    "img": "https://static.toiimg.com/photo/msid-128706099,imgsize-55248.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/aamir-khan-and-arijit-singhs-ek-din-song-out-actor-requests-singer-to-rethink-his-decision-in-this-bts-murshidabad-visit/articleshow/128705905.cms",
-    "time": "2026-02-23T08:46:47.000Z"
   },
   {
     "cat": "Sports",
@@ -718,24 +736,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/top-mexican-drug-cartel-leader-killed/article70664630.ece",
     "time": "2026-02-23T02:14:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shahid's 'O' Romeo' sails past Rs 83 crore worldwide",
-    "desc": "Shahid Kapoor's 'O' Romeo' is experiencing a lukewarm reception in its second week, with Day 10 collections reaching Rs 3.25 crore. The romantic revenge drama has garnered a total of Rs 55.90 crore in India and Rs 83.1 crore worldwide. Directed by Vishal Bhardwaj, the film's performance reflects mixed audience and critical responses.",
-    "img": "https://static.toiimg.com/photo/msid-128693627,imgsize-81116.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/o-romeo-box-office-collection-day-10-and-day-11-live-shahid-kapoor-and-triptii-dimri-starrer-sails-past-rs-83-crore-worldwide/articleshow/128693627.cms",
-    "time": "2026-02-23T00:09:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "BAFTA Awards 2026 complete winners list",
-    "desc": "Politically charged thriller One Battle After Another emerged as the biggest winner at the 2026 EE British Academy Film Awards- taking home six trophies including Best Film and Best Director for Paul Thomas Anderson. Blues-infused vampire epic Sinners secured three wins- while gothic horror spectacle Frankenstein also claimed three craft awards. Shakespearean drama Hamnet was named Outstanding British Film- with Jessie Buckley winning Best Leading Actress. Here is the full list of winners.",
-    "img": "https://static.toiimg.com/photo/msid-128689061,imgsize-38424.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bafta-2026-complete-winners-list-one-battle-after-another-dominates-with-six-awards-robert-aramayo-beats-leonardo-dicaprio-jessie-buckley-wins-best-actress/articleshow/128688949.cms",
-    "time": "2026-02-22T20:53:32.000Z"
   },
   {
     "cat": "Sports",
