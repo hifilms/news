@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "ICC announces full fixtures for Women's T20 World Cup 2026; check when India will meet Pakistan",
+    "desc": "The International Cricket Council (ICC) on Tuesday announced the full fixtures for the upcoming Women's T20 World Cup 2026, set to take place in England from June 12 to July 5. The schedule was out...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-announces-full-fixtures-for-womens-t20-world-cup-2026-check-when-india-will-meet-pakistan-2026-02-24-1031480",
+    "time": "2026-02-24T09:12:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will rain spoil ENG vs PAK T20 World Cup 2026 Super Eight clash?",
+    "desc": "England and Pakistan are set to lock horns in a crucial Super Eight fixture in the T20 World Cup 2026 at the Pallekele International Cricket Stadium on Tuesday, February 24, with the race for the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pallekele-weather-will-rain-spoil-eng-vs-pak-t20-world-cup-2026-super-eight-clash-2026-02-24-1031478",
+    "time": "2026-02-24T08:47:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I've accepted this was mistake'",
+    "desc": "Steve Bucknor had given India legend Sachin Tendulkar out controversially several times during the former Indian skipper's playing days. Bucknor, a highly respected West Indies umpire, had copped criticism from the Indian fans in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/steve-bucknor-regrets-giving-sachin-tendulkar-out-22-years-earlier-ive-accepted-this-was-mistake-2026-02-24-1031461",
+    "time": "2026-02-24T07:14:38.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ellyse Perry gives update on her injury after getting ruled out of India ODI series",
     "desc": "Australia star all-rounder Ellyse Perry has shared an update on her injury after getting ruled out of the ongoing ODI series against India. The Aussies were dealt with a major blow when Perry and fast-bowler...",
     "img": "",
@@ -37,7 +64,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "India in huge trouble after losing more than half side",
+    "title": "India look to defend 214 for win in series opener",
     "desc": "Reigning ODI champions India return to 50-over cricket for the first time since lifting the World Cup a few months ago, as they face Australia in the opening match of a three-game series at the...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/indw-vs-ausw-1st-odi-live-streaming-details-when-and-where-to-watch-opening-match-in-india-on-tv-and-online-2026-02-24-1031420",
     "time": "2026-02-24T02:18:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What does West Indies' huge win over Zimbabwe mean for India in their quest for T20 World Cup semifinal?",
-    "desc": "West Indies handed Zimbabwe a proper drubbing in the Super Eight stage of the T20 World Cup 2026 with a jaw-dropping batting show and an impressive bowling performance. The hard-hitting Windies side put up the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-does-west-indies-huge-win-over-zimbabwe-mean-for-india-in-their-quest-for-t20-world-cup-semifinal-2026-02-24-1031414",
-    "time": "2026-02-24T01:31:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch Ranji Trophy final live on TV and stream online?",
-    "desc": "Karnataka will host Jammu and Kashmir in the final of the 2025-26 edition of the Ranji Trophy at the KSCA Rajnagar Stadium in Hubli. Under the leadership of Devdutt Padikkal, Karnataka have been one of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/karnataka-vs-jammu-and-kashmir-when-and-where-to-watch-ranji-trophy-final-live-on-tv-and-stream-online-in-india-2026-02-24-1031405",
-    "time": "2026-02-24T01:02:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Eden Gardens could be stripped of hosting T20 World Cup 2026 semi-final, depends on ifs and buts",
-    "desc": "When the International Cricket Council (ICC) announced the T20 World Cup 2026 schedule, they clarified that India will play their semi-final at the Wankhede Stadium in Mumbai, unless it’s against Pakistan. In that case, Colombo’s...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/eden-gardens-could-be-stripped-of-hosting-t20-world-cup-2026-semi-final-depends-on-ifs-and-buts-2026-02-23-1031408",
-    "time": "2026-02-23T18:23:52.000Z"
   }
 ];
