@@ -1,5 +1,86 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "Govt targets 1.8 lakh crore from PSU listings by fiscal '30",
+    "desc": "The government plans to raise approximately Rs 1.8 lakh crore over four years through equity divestment in state-run firms, primarily via IPOs, as part of the National Monetisation Pipeline 2.0. This includes Rs 83,700 crore from rail PSUs and Rs 31,000 crore from power sector subsidiaries, with proceeds reinvested in infrastructure development.",
+    "img": "https://static.toiimg.com/photo/msid-128762753,imgsize-392276.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/govt-targets-1-8-lakh-crore-from-psu-listings-by-fiscal-30/articleshow/128762727.cms",
+    "time": "2026-02-24T20:46:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Accelerating growth, India on upward trajectory: RBI",
+    "desc": "India's economy is experiencing accelerated and more predictable growth, with deputy governor Poonam Gupta highlighting a continuously improving trajectory. Driven by favorable demographics and policy continuity, per capita income growth is also surging. Anticipated trade deals with the US and EU are expected to further bolster the current account, reinforcing the nation's economic expansion.",
+    "img": "https://static.toiimg.com/photo/msid-128762693,imgsize-72156.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/accelerating-growth-india-on-upward-trajectory-rbi/articleshow/128762678.cms",
+    "time": "2026-02-24T20:41:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "IT biz to grow 6.1% in FY26 despite AI headwinds",
+    "desc": "India's tech sector is poised for 6.1% growth to $315 billion by FY26, driven by scale, engineering, and resilience amidst geopolitical shifts and AI disruption. Enterprises are redirecting spending towards AI-led transformation and productivity, with AI revenue projected to reach $10-$12 billion in FY26.",
+    "img": "https://static.toiimg.com/photo/msid-128762664,imgsize-60480.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/it-biz-to-grow-6-1-in-fy26-despite-ai-headwinds/articleshow/128762641.cms",
+    "time": "2026-02-24T20:38:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Noel Tata lists out criteria on which Chandra must deliver",
+    "desc": "Tata Sons' board is re-evaluating Chairman Chandrasekaran's reappointment, with Noel Tata outlining performance criteria. Concerns over losses in aviation and digital, capital expenditure in new ventures, and maintaining the unlisted status are key. This comes after significant group setbacks and a market cap decline, prompting a closer look at leadership continuity.",
+    "img": "https://static.toiimg.com/photo/msid-128762628,imgsize-41002.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/noel-tata-lists-out-criteria-on-which-chandra-must-deliver/articleshow/128762579.cms",
+    "time": "2026-02-24T20:34:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nirahua confesses he never loved his wife Mansha in 26 years",
+    "desc": "Bhojpuri superstar Dinesh Lal Yadav, popularly known as Nirahua, has once again grabbed headlines — this time for his candid remarks about his personal life. The actor, who has been married to Mansha Devi since 2000 and is a father to two sons, opened up about his marriage and his views on love during a recent interaction, sparking conversations across social media and entertainment circles.",
+    "img": "https://static.toiimg.com/photo/msid-128762557,imgsize-30124.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/bhojpuri/movies/news/bhojpuri-star-dinesh-lal-yadav-aka-nirahua-confesses-he-never-loved-his-wife-mansha-devi-in-26-years-of-forced-marriage/articleshow/128762471.cms",
+    "time": "2026-02-24T20:34:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Only Border 2 worked; Assi didn’t click; Dhurandhar watched on repeat’",
+    "desc": "The first two months of 2026 have largely been underwhelming for Hindi cinema at the box office. With several releases struggling to draw audiences to theatres, only Border 2 has managed to emerge as a commercial success. In a conversation with IANS, veteran film exhibitor Manoj Desai weighed in on the performance of Hindi films so far this year.",
+    "img": "https://static.toiimg.com/photo/msid-128761999,imgsize-50836.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/only-border-2-worked-assi-didnt-click-dhurandhar-watched-on-repeat-says-manoj-desai-on-2026-box-office/articleshow/128761946.cms",
+    "time": "2026-02-24T19:51:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Police attach Pakistan-based terror handler’s Kathua property",
+    "desc": "Kathua Police have attached approximately 7.5 marlas of land belonging to Pakistan-based terror handler Swar Din in Lohai Malhar tehsil. The action was ordered by the Jammu additional sessions court after Din, declared a proclaimed offender, evaded arrest. This move aims to dismantle terror financing and logistical support.",
+    "img": "https://static.toiimg.com/photo/msid-128761470,imgsize-206814.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/police-attach-pakistan-based-terror-handlers-kathua-property/articleshow/128761439.cms",
+    "time": "2026-02-24T19:23:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shilpa and Ranjit react to Rs 2–3 crore daily business claims",
+    "desc": "Amid growing buzz around Bastian allegedly clocking Rs 2–3 crore in daily turnover, actor and co-owner Shilpa Shetty along with restaurateur Ranjit Bindra have addressed the speculation. In a recent conversation, the duo spoke about the brand’s journey, their partnership, and the viral revenue claims.",
+    "img": "https://static.toiimg.com/photo/msid-128761290,imgsize-122226.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shilpa-shetty-and-ranjit-bindra-react-to-rs-23-crore-daily-business-claims-about-bastian-i-hope-that-was-true/articleshow/128761242.cms",
+    "time": "2026-02-24T19:14:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM chairs 1st Cabinet meeting at Seva Teerth, pushes for reforms",
+    "desc": "Prime Minister Narendra Modi has urged his cabinet colleagues to identify and propose reforms focused on ease of living and ease of doing business. This directive follows the adoption of the 'Seva Sankalp Resolution' at Seva Teerth, emphasizing citizen-centric governance and nation-building. Ministries are expected to detail both ongoing and planned changes, with a particular focus on non-financial regulatory reforms.",
+    "img": "https://static.toiimg.com/photo/msid-128761180,imgsize-72854.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-chairs-1st-cabinet-meeting-at-seva-teerth-pushes-for-reforms/articleshow/128761170.cms",
+    "time": "2026-02-24T19:09:54.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Four dead, 11 injured after speeding bus hits two vehicles on NH-31 in Bihar’s Bhagalpur",
     "desc": "A speeding bus collided head-on with two smaller vehicles on National Highway 31 in Bihar's Bhagalpur district, resulting in four fatalities, including a six-year-old boy. Eleven others were injured in the tragic accident, which occurred near Bagri Pul. Authorities are investigating the incident and plan to widen the highway to improve safety.",
@@ -261,15 +342,6 @@ const newsData_en = [
     "time": "2026-02-24T14:57:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Root out enemies and traitors’: Sasikala floats new political party ahead of Tamil Nadu elections",
-    "desc": "Expelled AIADMK leader VK Sasikala has announced the formation of a new political party in Tamil Nadu, vowing to champion the cause of the poor and downtrodden. Unveiling a flag featuring prominent Dravidian leaders, she stated the party would follow their ideology. Sasikala also recalled being urged to become Chief Minister after Jayalalithaa's demise.",
-    "img": "https://static.toiimg.com/photo/msid-128754726,imgsize-92422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/root-out-enemies-and-traitors-sasikala-floats-new-political-party-ahead-of-tamil-nadu-elections/articleshow/128754512.cms",
-    "time": "2026-02-24T14:40:20.000Z"
-  },
-  {
     "cat": "World",
     "title": "Former British envoy to U.S. Peter Mandelson arrested over Epstein links, released on bail",
     "desc": "Mr. Mandelson, 72, was picked up by the Metropolitan Police in London on suspicion of misconduct in public office relating to the time he was a business envoy in the Gordon Brown-led Labour government and allegedly shared sensitive information with the late financier",
@@ -288,15 +360,6 @@ const newsData_en = [
     "time": "2026-02-24T14:20:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Bangla-birodhis’: Mamata Banerjee reminds Centre of Bengal proposal after Kerala's ‘Keralam’ nod",
-    "desc": "The Union Cabinet approved Kerala's name change to Keralam. This sparked a political row. West Bengal Chief Minister Mamata Banerjee questioned why her state's proposal to be renamed Bangla is pending. She accused the Centre of discrimination. The Centre's decision comes ahead of assembly elections in both states.",
-    "img": "https://static.toiimg.com/photo/msid-128754309,imgsize-70588.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bangla-birodhis-mamata-banerjee-reminds-centre-of-bengal-proposal-after-keralas-keralam-nod/articleshow/128753893.cms",
-    "time": "2026-02-24T14:20:21.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'I am not supportive of that': Gukesh slams Kramnik over cheating claims",
     "desc": "World champion D Gukesh criticised Vladimir Kramnik’s cheating allegations, saying cheating has been made a bigger issue than it is. While firmly against unethical play, Gukesh said he does not support Kramnik’s approach and called for harmony in chess. The 19-year-old spoke ahead of the Prague International Chess Festival, where he hopes to regain form.",
@@ -304,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/chess-i-am-not-supportive-of-that-d-gukesh-slams-vladimir-kramnik-over-cheating-allegations/articleshow/128753885.cms",
     "time": "2026-02-24T14:11:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Navigating technology, inclusion, and future of news in an evolving digital ecosystem",
-    "desc": "India's digital public infrastructure is reshaping citizen interaction and the media landscape. The DNPA Conclave 2026 will address how news organizations can navigate this evolving digital citizenship, ensuring trust and inclusion in a world of large-scale public technology and information overload.",
-    "img": "https://static.toiimg.com/photo/msid-128754107,imgsize-321752.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dnpa-conclave-2026-navigating-technology-inclusion-and-future-of-news-in-an-evolving-digital-ecosystem/articleshow/128754117.cms",
-    "time": "2026-02-24T14:08:39.000Z"
   },
   {
     "cat": "Entertainment",
@@ -387,15 +441,6 @@ const newsData_en = [
     "time": "2026-02-24T12:38:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "When Vijay opened up about his teenage crush!",
-    "desc": "Actor Thalapathy Vijay, known for his on-screen romantic roles, revealed his teenage crushes during a 2011 film promotion. He admitted to having silent, unexpressed feelings in school, which he believes authentically shaped his portrayals of young love in films like 'Love Today' and 'Poove Unakkaga'. These formative experiences provided him with genuine emotional depth for his performances.",
-    "img": "https://static.toiimg.com/photo/msid-128751628,imgsize-42434.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/when-thalapathy-vijay-confessed-about-his-teenage-crushes-i-was-in-10th-class/articleshow/128751628.cms",
-    "time": "2026-02-24T12:34:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Major blow for India! Captain skips fielding after injury, doubt over next match",
     "desc": "India suffered a setback in the first ODI against Australia as captain Harmanpreet Kaur injured her knee while batting and did not field, with Smriti Mandhana leading instead. Harmanpreet scored 53, while Mandhana made 58, but India were restricted to 214. Australia chased it easily, winning by six wickets to lead 1-0. Beth Mooney starred with 76 as India now await Harmanpreet’s fitness update.",
@@ -441,33 +486,6 @@ const newsData_en = [
     "time": "2026-02-24T10:06:18.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Why Tata Sons chairman asked board to defer discussion",
-    "desc": "Any extension of Chandrasekaran’s tenure would need approval through a special resolution and would require a waiver from Tata Sons’ retirement norms, which set an age limit of 65 for non-executive positions. Chandrasekaran will turn 63 in June.",
-    "img": "https://static.toiimg.com/photo/msid-128747333,imgsize-22678.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/why-tata-sons-chairman-n-chandrasekaran-asked-board-to-defer-discussion-on-his-reappointment/articleshow/128747221.cms",
-    "time": "2026-02-24T09:58:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ismail Darbar opens up on fallout with Sanjay Leela Bhansali",
-    "desc": "Composer Ismail Darbar reveals a deep rift with filmmaker Sanjay Leela Bhansali, stemming from the 'Heeramandi' project. Despite a history of creative clashes and personal support, Darbar claims betrayal after dedicating 1.5 years to the series' music, only to be removed. He expresses sadness over losing a friend due to professional disagreements.",
-    "img": "https://static.toiimg.com/photo/msid-128746449,imgsize-65048.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ismail-darbar-opens-up-on-fallout-with-sanjay-leela-bhansali-says-they-had-a-good-bond-till-heeramandi-he-betrayed-me-twice/articleshow/128746446.cms",
-    "time": "2026-02-24T09:27:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How much 18K, 22K and 24K gold costs in your city?",
-    "desc": "Gold prices saw a dip on Tuesday. April futures on the Multi Commodity Exchange fell. This decline is linked to global uncertainty surrounding US tariffs. The Trump administration is reportedly restarting its global tariff agenda. This follows a Supreme Court decision. International Comex gold futures also experienced a fall.",
-    "img": "https://static.toiimg.com/photo/msid-128746298,imgsize-223438.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-today-how-much-18k-22k-and-24k-gold-costs-in-your-city-check-rates-for-delhi-mumbai-more/articleshow/128745083.cms",
-    "time": "2026-02-24T09:20:23.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ICC Women's T20 World Cup 2026 schedule out; India vs Pakistan on June 14",
     "desc": "England will host the expanded ICC Women's T20 World Cup 2026 from June 12 to July 5, featuring 12 teams. Hosts England kick off against Sri Lanka, while India face Pakistan on June 14. This edition boasts the largest field ever, with Bangladesh, Ireland, Scotland, and the Netherlands qualifying. The schedule promises thrilling encounters, culminating in the final at Lord's.",
@@ -477,15 +495,6 @@ const newsData_en = [
     "time": "2026-02-24T09:10:07.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Bachchan begins 'Kalki 2' shoot, drops BTS PICS with Kamal Haasan",
-    "desc": "Amitabh Bachchan is filming 'Kalki 2' in Hyderabad. He is reuniting with Kamal Haasan on screen after 40 years. They last worked together in 'Geraftaar'. Bachchan shared photos of their reunion. He will reprise his role as Ashwatthama. Kamal Haasan's character, Supreme Yaskin, will have a larger role in the sequel. Deepika Padukone reportedly will not be in the film.",
-    "img": "https://static.toiimg.com/photo/msid-128745926,imgsize-67336.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-begins-kalki-2-shoot-shares-excitement-about-reunion-with-kamal-haasan-working-together-after-ages/articleshow/128745907.cms",
-    "time": "2026-02-24T09:01:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘They know what it takes to win’: Kumble hails WI's title charge, warns India",
     "desc": "Anil Kumble sees West Indies as strong T20 World Cup contenders after their dominant win, highlighting their knockout stage readiness and explosive batting. He noted Hetmyer's crucial innings and Powell's power. Kumble also cautioned that India faces a tougher path to the semi-finals following their significant defeat to South Africa, emphasizing the need for convincing victories in upcoming matches.",
@@ -493,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/they-know-what-it-takes-to-win-anil-kumble-hails-west-indies-title-charge-warns-india-after-crushing-reality-check/articleshow/128745381.cms",
     "time": "2026-02-24T08:36:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US SC's blow to Trump: FedEx sues US admin seeking 'full refund' of tariffs",
-    "desc": "FedEx is suing for a refund of Trump-era tariffs deemed illegal by the Supreme Court. This landmark ruling could trigger billions in claims, as the court found the president exceeded his authority. Importers like FedEx, who paid these duties, are now seeking full reimbursement, potentially impacting numerous businesses and consumers.",
-    "img": "https://static.toiimg.com/photo/msid-128745373,imgsize-583579.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-scs-blow-to-trump-fedex-sues-us-admin-seeking-full-refund-of-tariffs/articleshow/128744307.cms",
-    "time": "2026-02-24T08:34:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -601,15 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/former-south-korean-president-yoon-appeals-life-sentence-for-martial-law-decree/article70669689.ece",
     "time": "2026-02-24T04:05:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why did stock market crash today? Nifty50 ends below 25,450; BSE Sensex over 1,000 points down",
-    "desc": "Nifty50 and BSE Sensex tanked in trade on Tuesday on weak global cues and IT stocks rout along with fresh tariff threats from US President Donald Trump. While Nifty50 dropped over 300 points, BSE Sensex went below the 82,000 intraday.",
-    "img": "https://static.toiimg.com/photo/msid-128738431,imgsize-110334.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-february-24-2026-dalal-street-indian-equities-global-markets-donald-trump-tariffs/articleshow/128738404.cms",
-    "time": "2026-02-24T03:48:53.000Z"
   },
   {
     "cat": "World",
@@ -855,15 +846,6 @@ const newsData_en = [
     "time": "2026-02-22T16:45:32.000Z"
   },
   {
-    "cat": "World",
-    "title": "Time for countries facing U.S. tariffs to unionise, negotiate together: Lula Da Silva",
-    "desc": "The Brazilian President pitches for UN seats for India and Brazil and speaks of lessons learned from India in 2005. He says he was “touched” by musical gesture by government at the end of visit.",
-    "img": "https://th-i.thgim.com/public/incoming/kt4zav/article70662572.ece/alternates/LANDSCAPE_1200/2026-02-22T055634Z_1918167158_RC2SQJASHLU5_RTRMADP_3_INDIA-BRAZIL-LULA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/brazil-president-lula-trade-tensions/article70662557.ece",
-    "time": "2026-02-22T16:24:34.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Bennett’s role is to bat as long as he can: Raza",
     "desc": "Zimbabwe captain Sikandar Raza backed the young opener to continue to adopt the same approach despite the batter-friendly conditions in India in the Super Eight as compared to the Sri Lankan pitches where Zimbabwe played its group-stage matches",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/on-alpha-fade-rate/article70662389.ece",
     "time": "2026-02-22T03:05:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "SBI actively investing in startup-focused funds to strengthen MSME ecosystem, says MD Ravi Ranjan",
+    "desc": "The bank works on a hub and spoke model for assisting peripheral areas through dedicated verticals to ensure that the bank consciously lives up to the promise of priority sector lending guidelines linking startups under the habit of partnership, says SBI managing director Ravi Ranjan",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/sbi-actively-investing-in-startup-focused-funds-to-strengthen-msme-ecosystem-says-md-ravi-ranjan/article70661412.ece",
+    "time": "2026-02-21T21:51:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "T20 World Cup match preview",
+    "desc": "Already bruised by the upset against Zimbabwe, the horrors of a 0-3 sweep at the hands of England at the same venue just days before this World Cup will be a psychological double whammy for Sri Lanka.",
+    "img": "https://th-i.thgim.com/public/incoming/jrfrtb/article70661408.ece/alternates/LANDSCAPE_1200/England_West_Indies_T20_WCup_Cricket_62467.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-match-preview-sri-lanka-england-face-off-set-to-be-a-middle-overs-tussle/article70661409.ece",
+    "time": "2026-02-21T21:38:53.000Z"
   }
 ];
