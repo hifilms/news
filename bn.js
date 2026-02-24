@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "উঠলেই পৌঁছে যাবেন! দারুণ 'স্পিড'! ১৮০ কিমি ঘণ্টায় ছোটে...! দেশের দ্রুততম ট্রেন কোনগুলো?",
+    "desc": "ভারতের রেলপথে গতি এখন নতুন সংজ্ঞা পাচ্ছে। বন্দে ভারত থেকে তেজস—দেশের দ্রুততম ট্রেনগুলি ১৮০ কিমি প্রতি ঘণ্টা পর্যন্ত গতি তুলতে সক্ষম। আধুনিক প্রযুক্তি, উন্নত কোচ নকশা এবং নিরাপত্তা ব্যবস্থার সমন্বয়ে ভারতীয় রেল ধীরে ধীরে উচ্চগতির যুগে প্রবেশ করছে। যদিও অধিকাংশ রুটে অপারেশনাল গতি এখনও অবকাঠামোগত সীমাবদ্ধতার কারণে কম, তবুও নকশাগত সর্বোচ্চ গতি ১৬০ থেকে ১৮০ কিমি প্রতি ঘণ্টা পর্যন্ত পৌঁছায়।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/1771934488_Untitled-design-2026-02-24T160535.828-2026-02-82653dcd9ec39fae0a50c795122836ac-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/off-beat/india-fastest-trains-2026-vande-bharat-rajdhani-tejas-express-that-run-at-180kmh-speed-list-check-detail-tib-ws-l-2555844.html",
+    "time": "2026-02-24T12:17:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "রাস্তায় আচমকাই ছুটে এসে কামড়াল কুকুর! জলাতঙ্ক হবে... আতঙ্কেই নিজেকে শেষ করলেন ঝকঝকে ব্যাংককর্মী...",
+    "desc": "৩০ বছর বয়সী এক ব্যাংক কর্মী জলাতঙ্ক রোগের ভয়ে আত্মহত্যা করেছেন। কয়েক দিন আগে একটি রাস্তার কুকুর কামড়ানোর পর থেকেই তিনি চরম আতঙ্কে ভুগছিলেন। তিনি চিকিৎসা শুরু করলেও মনে করেছিলেন তার শরীরে ভাইরাসের লক্ষণ দেখা দিচ্ছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/fear-of-rabies-maharashtra-bank-employee-took-extreme-step-of-death-after-dog-bite_642548.html ",
+    "time": "2026-02-24T12:17:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ভীষণ শক্তিশালী! ভারত মহাসাগরে তৈরি হল বছরের প্রথম 'ক্যাটেগরি ৫' ঘূর্ণিঝড়! কতটা বিপদে পড়তে চলেছে দেশ?",
+    "desc": "২০২৬ সালে বিশ্বের প্রথম ক্যাটেগরি ৫ ঘূর্ণিঝড় দক্ষিণ ভারত মহাসাগরে গঠিত হয়েছে। ট্রপিক্যাল সাইক্লোন হোরাসিও অল্প সময়ের মধ্যে দ্রুত শক্তি বৃদ্ধি করে ঘণ্টায় ২৫৭ কিলোমিটার বেগে পৌঁছেছে, যা আবহাওয়াবিদদের মতে ‘র‌্যাপিড ইনটেনসিফিকেশন’-এর একটি উল্লেখযোগ্য উদাহরণ। যদিও ঝড়টি বর্তমানে ভারতের উপকূল থেকে বহু দূরে অবস্থান করছে, তবুও এর তীব্রতা এবং দ্রুত শক্তিবৃদ্ধি ঘিরে আন্তর্জাতিক মহলে উদ্বেগ তৈরি হয়েছে। বিশেষজ্ঞরা মনে করছেন, উষ্ণ সমুদ্রপৃষ্ঠ এবং অনুকূল বায়ুমণ্ডলীয় পরিস্থিতি ভবিষ্যতে আরও শক্তিশালী ঘূর্ণিঝড়ের ঝুঁকি বাড়াতে পারে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/20191205-IndianOceanstorms-2026-02-6ae73e8c682b3d3605af33b1b1cb186f-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/national/alert-of-cyclonic-rapid-intensification-of-category-5-cyclone-world-first-furious-storm-forms-in-indian-ocean-what-it-means-is-india-at-risk-tib-ws-el-2555620.html",
+    "time": "2026-02-24T11:10:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "শাশুড়িকে 'লিপ-কিস'! জন্মদিনের স্পেশ্যাল ছবি অপরাজিতা আঢ্যের, সোশ্যাল মিডিয়ায় ট্রোলারদের বুড়ে আঙুল দেখালেন অভিনেত্রী",
+    "desc": "সেই ছবি পোস্ট করতেই শুরু হল নানা কটূক্তি৷ কারণ? তাঁর শাশুড়ি মায়ের সঙ্গে একটি আদুরে ছবি পোস্ট ঘিরে নেটদুনিয়ায় নানা কথা শুরু হল৷ ছবিতে শাশুড়ির ঠোঁটে চুমু খেতে দেখা গিয়েছে অপরাজিতা আঢ্যকে৷ স্নেহের এই ভাবপ্রকাশে শুরু হয়েছে সোশ্যাল মিডিয়ায় মরাল পুলিশিং!",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-24-at-2.28.16-PM-2026-02-138d13b56e8cc8d47782f7c648920caa-3x2.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/entertainment/bengali-actress-aparajita-adhya-lip-kisses-her-mother-in-law-her-birthday-special-picture-pbd-2555207.html",
+    "time": "2026-02-24T10:56:16.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "একবার বিয়ে ভেঙেছে, বিজয়ের সঙ্গে সুখী হবেন তো রশ্মিকা? দু’জনের বয়সের ফারক যা বলছে, তা হল...",
     "desc": "একবার বাগদান ভেঙে যাওয়ার যন্ত্রণা কাটিয়ে আবার বিয়ে করছেন রশ্মিকা৷ বিজয়ের সঙ্গে ঘর বাঁধতে চলেছেন সুন্দরী৷ তাঁদের সম্পর্ক ভেঙে যাওয়ার আসল কারণ প্রকাশ করেননি তাঁরা। তবে কানাঘুঁষো শোনা গিয়েছে, মতের অমিলের কারণে দু'জনে আলাদা হয়ে যান। রক্ষিত তাঁর থেকে ছিলেন ১৩ বছরের বড়, বিজয় কতটা বড় রশ্মিকার থেকে? বয়সের ফারাক কোনও সমস্যা তৈরি করবে না তো?",
@@ -232,15 +268,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/national/delhi-road-rage-aya-nagar-stabbing-software-engineer-arrested-sandeep-lohia-murder-sal-2552351.html",
     "time": "2026-02-22T07:20:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "সাতসকালে ট্রেলারের সঙ্গে ভয়ংকর সংঘর্ষ! দুমড়ে মুচড়ে গিয়ে ঘটনাস্থলেই মৃত পাঁচ পুলিসকর্মী, আহত আরও...",
-    "desc": "রবিবার ভোরে এক ভয়াবহ পথ দুর্ঘটনায় ৫ জন পুলিস কর্মী নিহত এবং ৩ জন গুরুতর আহত হয়েছেন। কর্তব্যরত অবস্থায় পুলিসের গাড়িটির সঙ্গে একটি দ্রুতগামী ট্রেলারের মুখোমুখি সংঘর্ষ হলে এই মর্মান্তিক ঘটনাটি ঘটে। পুলিস ঘাতক ট্রেলারের চালককে আটক করেছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/5-police-personnel-killed-speeding-trailer-rams-into-vehicle_642276.html ",
-    "time": "2026-02-22T06:46:20.000Z"
   },
   {
     "cat": "Sports",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/sports/t20-wc-2026-point-table-what-happens-if-ind-vs-pak-match-washed-out-due-to-rain-smj-2541531.html",
     "time": "2026-02-15T12:09:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "এই ৫ দেশ থেকে ভারতে আসে প্রচুর সোনা, শীঘ্রই নাকি দামে আসবে ব্যাপক বদল! তৈরি থাকুন",
-    "desc": "দাম বৃদ্ধির ফলে গয়না কেনার গতি কমে গেছে। গয়না নির্মাতারা উৎপাদন চার্জে ছাড় দিচ্ছেন, কিন্তু সাড়া কম। কিছু লোক মনে করেন যে বর্ধিত দামে বিনিয়োগ করা লাভজনক নয়। ব্যবসায়িক সূত্র জানিয়েছে যে হায়দ্রাবাদের মতো বড় শহরগুলিতেও বিক্রি কমেছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/g-2026-02-f74e6c25d4b43800ad2591d877b0a034-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/business/top-gold-supplying-countries-to-india-will-gold-hit-300000-in-india-gold-price-prediction-pbd-2541331.html",
-    "time": "2026-02-15T09:44:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "যশ-নুসরতের আবাসনে আগুন! প্রাণ বাঁচাতে দুই সন্তানকে নিয়ে পথে",
-    "desc": "রবিবার ছুটির দিন সকালে ডায়মন্ড সিটিতে ঘটে গেল বড়সড় বিপত্তি। ডায়মন্ড-সিটি বহুতলে ৫ তলায় আগুন লাগে আচমকা। ঘটনাস্থলে তড়িঘড়ি পৌঁছয় দমকলের ৫ টি ইঞ্জিন। প্রবল আতঙ্কে ছিলেন আবাসিকরা। তবে কিছুক্ষণের চেষ্টায় আগুন নিয়ন্ত্রণে আসে। বহুতলের বাসিন্দা অভিনেতা-প্রযোজক যশ দাশগুপ্ত, নুসরত জাহান, সায়ন্তিকা বন্দ্যোপাধ্যায়-সহ একাধিক খ্যাতনামী। প্রাণ বাঁচাতে বাকি বাসিন্দাদের সঙ্গে পথে নেমে আসেন তাঁরা। সূত্রের খবর, পঞ্চম তলের এক বাসিন্দার বাড়ির ঠাকুরঘরে শিবরাত্রির পুজো হয়। সম্ভবত প্রদীপ না নিভিয়েই তাঁরা নীচে নেমে আসেন। তাঁদের অনুপস্থিতিতে সম্ভবত বাড়ির প্রদীপ থেকে আগুন ধরে যায়",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/VBk-dk_hTnI_2541230.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/entertainment/fire-at-diamond-city-building-yash-nusrat-sayantika-escape-safely-rmj-ws-l-2541230.html",
-    "time": "2026-02-15T08:36:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'নাইট ড্রাইভ'-এর রক্তাক্ত পরিণতি, ডিভাইডারে ধাক্কা মেরে দু’বার পাল্টি খেয়ে বাসের সঙ্গে সংঘর্ষ, গাড়ির মধ্যেই মৃত্যু ৫ বন্ধুর",
-    "desc": "ফের ঘাতক বেপরোয়া গতি! ৫ বন্ধু বেরিয়েছিল গাড়ি নিয়ে! কিন্তু 'নাইট ড্রাইভ' শেষ হল চরম মর্মান্তিক পরিণতিতে। ফ্লাইওভারের কাছে নিয়ন্ত্রণ হারিয়ে উল্টে গেল ইন্ডিকা গাড়ি। সজোরে ধাক্কা মারল একটি যাত্রীবোঝাই বাসে। ঘটনাস্থলে মৃত্যু ৪ বন্ধুর। হাসপাতালে মৃত্যু হয় আর এক জনের।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Bengaluru-Road-Accident-2026-02-734188d00c6aaa6d82a3b213ea6f4652-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/national/bengaluru-accident-five-killed-after-speeding-car-overturns-and-crashes-into-bus-near-bengaluru-flyover-rm-2541179.html",
-    "time": "2026-02-15T07:03:17.000Z"
   }
 ];

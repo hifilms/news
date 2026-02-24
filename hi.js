@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pakistan must defy history vs England to stay alive in T20 World Cup 2026",
+    "desc": "Pakistan will face England today in the Super 8 round of the T20 World Cup in Pallekele. It is a must-win encounter for them to stay alive in the tournament, as their previous game against...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/eng-vs-pak-pakistan-must-defy-history-vs-england-to-stay-alive-in-t20-world-cup-2026-2026-02-24-1031509",
+    "time": "2026-02-24T12:25:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How can India improve their net run-rate vs Zimbabwe in T20 World Cup? Must chase this target in just 11 overs",
+    "desc": "India will face Zimbabwe in their next Super 8 encounter of the T20 World Cup on Thursday (February 26) at the MA Chidambaram Stadium in Chennai. It is not only a must-win game for the hosts...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-can-india-turn-their-net-run-rate-into-positive-against-zimbabwe-in-t20-world-cup-here-s-exact-scenario-2026-02-24-1031494",
+    "time": "2026-02-24T10:58:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ICC announces full fixtures for Women's T20 World Cup 2026; check when India will meet Pakistan",
     "desc": "The International Cricket Council (ICC) on Tuesday announced the full fixtures for the upcoming Women's T20 World Cup 2026, set to take place in England from June 12 to July 5. The schedule was out...",
     "img": "",
@@ -61,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kar-vs-jk-ranji-trophy-final-live-cricket-score-jammu-and-kashmir-vs-karnataka-ksca-hubli-cricket-ground-hubli-latest-match-updates-scorecard-teams-2026-02-24-1031431",
     "time": "2026-02-24T03:37:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India look to defend 214 for win in series opener",
-    "desc": "Reigning ODI champions India return to 50-over cricket for the first time since lifting the World Cup a few months ago, as they face Australia in the opening match of a three-game series at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/indw-vs-ausw-1st-odi-live-cricket-score-india-vs-australia-latest-gabba-brisbane-match-updates-scorecard-teams-playing-xis-harmanpreet-kaur-healy-2026-02-24-1031429",
-    "time": "2026-02-24T03:08:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "West Indies equal India's historic 2007 T20 World Cup milestone after thrashing Zimbabwe",
-    "desc": "West Indies have joined India in their historic T20 World Cup 2007 record after thrashing Zimbabwe by a huge margin of 107 runs at the Wankhede Stadium on Monday, February 23. The two-time champions unleashed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-equal-indias-historic-2007-t20-world-cup-milestone-after-thrashing-zimbabwe-2026-02-24-1031425",
-    "time": "2026-02-24T02:48:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch opening match in India on TV and online?",
-    "desc": "Reigning ODI champions India will take the field for the first time since winning the World Cup a few months ago as they take on Australia in the first ODI of the three-match series on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/indw-vs-ausw-1st-odi-live-streaming-details-when-and-where-to-watch-opening-match-in-india-on-tv-and-online-2026-02-24-1031420",
-    "time": "2026-02-24T02:18:43.000Z"
   }
 ];

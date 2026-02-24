@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "ટેરિફ વોરમાં ટ્રમ્પે બધું ગુમાવ્યું, ભારત માટે ખુલ્યા ફાયદાના દ્વાર! US-યુરોપ વચ્ચે ફરી વધી તકરાર?",
+    "desc": "ટેરિફ પર ટ્રમ્પનો નવો ગ્લોબલ ટેરિફ આજથી લાગુ થઈ ગયો છે. કોર્ટમાં મળેલી હાર અને નવા ટેરિફ બાદ ટ્રમ્પ ચારેય તરફથી ઘેરાયેલા જોવા મળી રહ્યા છે. યુરોપ અને અમેરિકા વચ્ચે ફરી અંતર વધી શકે છે. જ્યારે આ સમગ્ર ઉથલપાથલમાં સૌથી મોટો ફાયદો ભારતને થવાનો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/trump-vs-supreme-court-10-percent-global-tariff-impact-on-india-china-eu-trade-deals-466089 ",
+    "time": "2026-02-24T12:32:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "નાપાસથી નેશનલ સ્ટાર સુધી… ‘લેડી સહેવાગ’ શેફાલી વર્માની સફર ફિલ્મી કહાનીથી ઓછી નથી",
+    "desc": "શેફાલી વર્મા ભારતીય મહિલા ક્રિકેટ ટીમ માટે એક વિસ્ફોટક ઓપનિંગ બેટ્સમેન છે. લેડી સહેવાગ તરીકે ઓળખાતી શેફાલી વર્માએ વિસ્ફોટક બેટિંગ અને અતૂટ વિશ્વાસથી ક્રિકેટની દુનિયામાં ડંકો વગાડ્યો છે. ત્યારે આ લેખમાં તેની અત્યાર સુધીની સફર વિશે જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/cricket-queens-explosive-indian-batter-shafali-verma-inspiring-journey-466081 ",
+    "time": "2026-02-24T10:51:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "30 વર્ષમાં ભેગા કરવા છે ₹1.5 કરોડ? જાણો દર મહિને કેટલી SIP જરૂરી",
+    "desc": "શું તમે પણ કરોડપતિ બની નિવૃત્ત થવા ઈચ્છો છો? માત્ર 4500 ની સામાન્ય બચત તમને ₹1.5 કરોડના માલિક બનાવી શકે છે. આ કોઈ જાદુ નહીં, પરંતુ કમ્પાઉન્ડિંગની તાકાત છે. જાણો કઈ રીતે 30 વર્ષનું ધૈર્ય અને યોગ્ય રોકાણ તમને આર્થિકરૂપે આઝાદ બનાવી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/retirement-fund-of-15-crore-in-30-years-know-how-much-sip-to-make-and-when-to-start-466082 ",
+    "time": "2026-02-24T10:46:04.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "એક કિલોમાં 34.43 KM, છે દેશની સૌથી વધુ માઇલેજ આપનારી CNG Car! કિંમત માત્ર ₹5.90 લાખથી શરૂ",
     "desc": "દેશની સૌથી વધુ માઇલેજ આપનારી CNG કારોના લિસ્ટમાં અમે મારૂતિ સુઝુકી સેલેરિયો સીએનજીથી લઈને મારૂતિ સુઝુકી સ્વિફ્ટ સીએનજી સુધીના વિકલ્પ જણાવ્યા છે. આ કાર સારી માઇલેજ, શાનદાર સેફ્ટી અને ઓછા મેન્ટેનન્સ ખર્ચ માટે જાણીતી છે.",
@@ -567,15 +594,6 @@ const newsData_gu = [
     "time": "2026-02-21T03:28:37.000Z"
   },
   {
-    "cat": "World",
-    "title": "પાકિસ્તાનના હાલ બેહાલ! કરાંચી, લાહોર અને ઈસ્લામાબાદ સળગી શકે છે, મુનિરને નાની યાદ અપાવશે આ સેના",
-    "desc": "પાકિસ્તાનમાં આગામી કેટલાક દિવસોમાં સિવિલ વોર થયા તેવો માહોલ છે. શું ઈમરાનના સમર્થકો હવે પાકિસ્તાની આર્મી ચીફ જનરલ મુનીરની સેના સામે આર-પારની લડાઈ લડવા તૈયાર છે. આ બન્ને સવાલોનો જવાબ હા તરફ ઈશારો કરે છે. કેમ કે, તેની પૃષ્ટી પાકિસ્તાનમાંથી આવેલા કેટલાક વીડિયોથી થાય છે. કેવી રીતે મુનીર સામે ઈમરાન સમર્થકોએ પોતાની જ સેના ઉભી કરી છે..અને કેવી રીતે તાલીબાનના સમર્થન સાથે ઈસ્લામાબાદ કૂચની તૈયારીઓ કરી છે. જોઈએ આ ખાસ અહેવાલમાં...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/pakistan-civil-war-alert-imran-khan-supporters-vs-general-munir-army-islamabad-march-465670 ",
-    "time": "2026-02-20T15:24:59.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "અમિત શાહ સામે ટિપ્પણી! રાહુલ ગાંધીએ કોર્ટમાં થવું પડ્યું હાજર, જાણી લો શું છે આ કેસ",
     "desc": "લોકસભામાં વિપક્ષના નેતા અને કોંગ્રેસ સાંસદ રાહુલ ગાંધીને ફરી એક વખત કોર્ટ સમક્ષ હાજર થવુ પડ્યું. ગૃહમંત્રી અમિત શાહ વિરૂદ્ધ કરેલી વિવાદીત ટિપ્પણી મામલે રાહુલ ગાંધી આજે સુલ્તાનપુર કોર્ટમાં હાજર રહ્યા અને પોતાનું નિવેદન નોંધાવ્યું.",
@@ -583,15 +601,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/comment-against-amit-shah-rahul-gandhi-defamation-case-sultanpur-court-appearance-know-465669 ",
     "time": "2026-02-20T15:07:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પાકિસ્તાન જતી વધુ એક નદીનું પાણી રોકશે ભારત, આ બે રાજ્યને આપશે લાભ, તરફડીયા મારશે નાપાક !",
-    "desc": "ભારત હવે આ નદીને પાકિસ્તાનમાં વહેતી અટકાવવાની તૈયારી કરી રહ્યું છે. શાહપુર કાંડી બંધનું કામ લગભગ પૂર્ણ થઈ ગયું છે. એકવાર કાર્યરત થઈ ગયા પછી દુષ્કાળગ્રસ્ત વિસ્તારોમાં પાણીને વાળવામાં આવશે. સિંધુ જળ સંધિ કેન્સલ થયા પછી આ પહેલ ઝડપી બનાવવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/india-will-stop-the-water-of-one-more-river-going-to-pakistan-it-will-benefit-these-two-states-465644 ",
-    "time": "2026-02-20T12:22:10.000Z"
   },
   {
     "cat": "Entertainment",
@@ -610,15 +619,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/rocking-star-yash-upcoming-film-toxic-teaser-released-film-toxic-will-be-release-on-19-march-2026-465606 ",
     "time": "2026-02-20T06:54:56.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ટ્રમ્પ આર યા પારના મૂડમાં? ઈરાનને 15 દિવસનું અલ્ટીમેટમ આપ્યું, &amp;#039;ટુ-ફેઝ&amp;#039; પ્લાન પણ સામે આવ્યો",
-    "desc": "દુનિયા હવે નવા યુદ્ધના દ્વારે જાણે પહોંચી ગઈ હોય તેવું વાતાવરણ સર્જાઈ રહ્યું છે. ઈરાન અને અમેરિકા વચ્ચે ગમે ત્યારે યુદ્ધ ફાટી નીકળે તેવી સ્થિતિ છે. ઈરાન પોતાના પરમાણુ ઠેકાણા સંતાડવામાં લાગ્યું છે. બીજી બાજુ એવું પણ કહેવાઈ રહ્યું છે કે ટ્રમ્પે ખામનેઈને અલ્ટીમેટમ પણ આપી દીધુ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/donald-trump-gives-iran-a-15-day-ultimatum-and-his-two-phase-plan-also-surfaced-world-news-in-gujarati-465580 ",
-    "time": "2026-02-20T03:22:06.000Z"
   },
   {
     "cat": "Tech",
@@ -682,14 +682,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/salim-khan-health-update-salman-khan-father-salim-khan-is-in-icu-465304 ",
     "time": "2026-02-18T02:34:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "વેચાણ ઘટવા છતાં નંબર 1 બની આ SUV, પણ બીજા નંબરનીએ જીત્યા લોકોના દિલ, વેચાણમાં 145%નો જબરદસ્ત વધારો",
-    "desc": "જાન્યુઆરી 2026 માં 4.2–4.5 મીટર SUV સેગમેન્ટમાં નોંધપાત્ર ઉછાળો જોવા મળ્યો. આ ગાડીનો ક્રેજ હજુ પણ નંબર 1 છે, પરંતુ સેલ્ટોસ, વિક્ટોરિસ અને સીએરા જેવા નવા વાહનો બજારની ગતિશીલતા બદલી રહ્યા છે. આગામી મહિનાઓમાં આ સેગમેન્ટ વધુ રોમાંચક બનવાની તૈયારીમાં છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/despite-the-decline-in-sales-this-suv-became-number-1-its-sales-increased-by-a-whopping-145-percent-465259 ",
-    "time": "2026-02-17T12:08:26.000Z"
   }
 ];

@@ -1,9 +1,288 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "‘Keralamite, Keralamian’? Shashi Tharoor quips after Centre renames Kerala as Keralam",
-    "desc": "The Union Cabinet has reportedly approved renaming Kerala to 'Keralam', following a state assembly resolution. This move, aimed at reflecting the name in Malayalam, has sparked a linguistic debate. Senior Congress leader Shashi Tharoor humorously questioned the new terms for residents, asking how people from the state now would be referred to, and what happens to terms like “Keralite and Keralan”.",
-    "img": "https://static.toiimg.com/photo/msid-128746582,imgsize-683371.cms",
+    "title": "1,600 posts in State fire dept. will be filled soon, says Home Minister",
+    "desc": "With a spike in high-rise buildings in Bengaluru, the department has been equipped with modern and advanced machinery. For the first time, a 90-m aerial ladder platform vehicle capable of reaching significant heights has been inducted into the fleet, says R. Parameshwara",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/1600-posts-in-state-fire-dept-will-be-filled-soon-says-home-minister/article70670570.ece",
+    "time": "2026-02-24T12:53:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Betrayal of national dignity': 277 eminent personalities on 'shirtless' protest; slam Youth Congress",
+    "desc": "A group of 277 prominent personalities, including former armed forces officers, IPS officers, bureaucrats, and judges, condemned the Indian Youth Congress's 'shirtless' protest at the AI Impact Summit. They described the act as a \"grotesque betrayal of national dignity\" and an \"anti-national disruption\" that defamed India on the global stage.",
+    "img": "https://static.toiimg.com/photo/msid-128751972,imgsize-75638.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/betrayal-of-national-dignity-277-eminent-personalities-on-shirtless-protest-slam-youth-congress/articleshow/128751452.cms",
+    "time": "2026-02-24T12:47:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi meets Manipur CM, his two deputies in New Delhi",
+    "desc": "BJP's Yumnam Khemchand Singh was sworn in as CM of Manipur on February 4, reinstating the NDA government along with Kuki legislator Nemcha Kipgen and Naga MLA Losii Dikho as his deputies, marking a fresh spin on shared governance in a multi-ethnic state riven by the Meitei-Kuki conflict. Governor AK Bhalla also administered the oath of office to BJP's Konthoujam Govindas and Khuraijam Loken Singh of NPP as cabinet ministers at the Lok Bhavan ceremony.",
+    "img": "https://static.toiimg.com/photo/msid-128751914,imgsize-220766.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-meets-manipur-cm-his-two-deputies-in-new-delhi/articleshow/128751768.cms",
+    "time": "2026-02-24T12:41:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Judicial proceedings disrupted after multiple courts receive hoax bomb threats; probe under way",
+    "desc": "West Bengal courts faced bomb threats on Tuesday. Six court complexes received threat emails, leading to evacuations and extensive security checks. Judicial work was disrupted across the state. Bomb squad teams and sniffer dogs searched the premises. No explosives were found. Authorities are investigating the origin of the emails and any potential links to election-related exercises.",
+    "img": "https://static.toiimg.com/photo/msid-128751789,imgsize-1326114.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-bengal-judicial-proceedings-disrupted-after-multiple-courts-receive-hoax-bomb-threats-probe-under-way/articleshow/128751786.cms",
+    "time": "2026-02-24T12:40:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Union Minister claims unauthorised presence of former Bengal Chief Secretary at Supreme Court-mandated SIR meeting",
+    "desc": "The BJP leader demanded a probe into the issue and the arrest of Mr. Pant. Mr. Majumdar accused the State’s TMC Government of trying to influence the judiciary during the meeting held on February 21",
+    "img": "https://th-i.thgim.com/public/incoming/mmslct/article70671266.ece/alternates/LANDSCAPE_1200/20250521105L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/union-minister-claims-unauthorised-presence-of-former-bengal-chief-secretary-at-supreme-court-mandated-sir-meeting/article70671229.ece",
+    "time": "2026-02-24T12:38:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Should play Kohli's role': India batter asked to 'become a chase master'",
+    "desc": "Mohammed Kaif advised Tilak Varma to ignore criticism and stick to his natural anchor role in the T20 World Cup 2026. Tilak struggled with form and failed when he tried to play aggressively against South Africa. Kaif said Tilak should play like Virat Kohli and focus on batting deep, since India already has many attacking players. Tilak is expected to play in India’s key match against Zimbabwe.",
+    "img": "https://static.toiimg.com/photo/msid-128751804,imgsize-73454.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/should-play-virat-kohlis-role-india-batter-asked-to-become-a-chase-master-amid-t20-world-cup-criticism/articleshow/128751434.cms",
+    "time": "2026-02-24T12:38:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Vijay opened up about his teenage crush!",
+    "desc": "Actor Thalapathy Vijay, known for his on-screen romantic roles, revealed his teenage crushes during a 2011 film promotion. He admitted to having silent, unexpressed feelings in school, which he believes authentically shaped his portrayals of young love in films like 'Love Today' and 'Poove Unakkaga'. These formative experiences provided him with genuine emotional depth for his performances.",
+    "img": "https://static.toiimg.com/photo/msid-128751628,imgsize-42434.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/when-thalapathy-vijay-confessed-about-his-teenage-crushes-i-was-in-10th-class/articleshow/128751628.cms",
+    "time": "2026-02-24T12:34:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre approves construction of 5,000 houses for displaced people in Manipur",
+    "desc": "Thousands have been rendered homeless in the ethnic violence between Imphal Valley-based Meiteis and hills-based Kuki-Zo groups since May 2023; the houses will be built according to the framework for implementation of the Pradhan Mantri Awaas Yojana-Gramin",
+    "img": "https://th-i.thgim.com/public/incoming/v6xu1n/article70670075.ece/alternates/LANDSCAPE_1200/India_Ethnic_Violence_The_Displaced_36807.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/centre-approves-construction-of-5000-houses-for-displaced-people-in-manipur/article70670004.ece",
+    "time": "2026-02-24T12:33:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi Takes to the Streets on March 29",
+    "desc": "On March 29, 2026, Delhi will wake up to a city-wide celebration of running as the Times Internet Delhi Half Marathon brings together thousands of participants across 2K, 5K, 10K and 21.1K categories. With central Delhi turning into a carefully managed race route, the morning will feature timed runs, closed roads and organised on-ground support, setting the stage for a focused, high-energy fitness experience.",
+    "img": "https://static.toiimg.com/photo/msid-128751652,imgsize-60698.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/times-internet-half-marathon-delhi-takes-to-the-streets-on-march-29/articleshow/128751519.cms",
+    "time": "2026-02-24T12:31:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Hate God for killing Sridevi': RGV’s viral emotional posts",
+    "desc": "Ram Gopal Varma’s heartfelt digital memorials to Sridevi, shared eight years after her death, remain impactful. Breaking from his typically abrasive persona, the director wrote intimately about idolizing her since youth and confessed that his feelings bordered on first love.",
+    "img": "https://static.toiimg.com/photo/msid-128751585,imgsize-32272.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hate-god-for-killing-sridevi-when-ram-gopal-varma-mourned-sridevi-in-viral-posts-that-shocked-his-fans/articleshow/128751585.cms",
+    "time": "2026-02-24T12:28:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi should scrap ‘anti-farmer’ trade deal with U.S., says Rahul Gandhi",
+    "desc": "“The Indo-U.S. trade deal is against the interests of our farmers and was done by PM Modi under the pressure of U.S. President Donald Trump because of Epstein files and to save industrialist Adani,” Rahul Gandhi said",
+    "img": "https://th-i.thgim.com/public/news/national/rrhsv1/article70671078.ece/alternates/LANDSCAPE_1200/Rahul%20Gandhi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rahul-gandhi-farmers-rally-bhopal-madhya-pradesh-india-usa-trade-deal/article70671041.ece",
+    "time": "2026-02-24T12:18:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Major blow for India! Captain skips fielding after injury, doubt over next match",
+    "desc": "India suffered a setback in the first ODI against Australia as captain Harmanpreet Kaur injured her knee while batting and did not field, with Smriti Mandhana leading instead. Harmanpreet scored 53, while Mandhana made 58, but India were restricted to 214. Australia chased it easily, winning by six wickets to lead 1-0. Beth Mooney starred with 76 as India now await Harmanpreet’s fitness update.",
+    "img": "https://static.toiimg.com/photo/msid-128751127,imgsize-141848.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/major-blow-for-india-captain-skips-fielding-after-knee-injury-doubt-over-next-match/articleshow/128750818.cms",
+    "time": "2026-02-24T12:10:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. Assembly election: AIADMK’s third round of poll promises offers ₹1,000 to ration cardholders during Pongal",
+    "desc": "The party also said it would give ₹10,000 as solatium to every family that was hit by the “impact of inflation” and “tax hikes” effected during the current DMK regime. The AIADMK has made 16 poll promises so far.",
+    "img": "https://th-i.thgim.com/public/incoming/ogavc2/article70670671.ece/alternates/LANDSCAPE_1200/9868_24_11_2025_16_15_39_1_EPS_1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-assembly-election-aiadmks-third-round-of-poll-promises-offers-1000-to-ration-cardholders-during-pongal/article70670367.ece",
+    "time": "2026-02-24T11:50:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Scrap the deal': Rahul Gandhi dares PM Modi to abandon trade pact, repeats 'sold India' claim",
+    "desc": "Rahul Gandhi claimed Union minister Hardeep Puri's name in the infamous Epstein files was released to \"threaten\" the PM, and that there are \"videos and messages which have not been released from the millions of Epstein files\" held up in the US. In another allegation, Rahul claimed that the case against Adani in the United States is not against the industrialist but against PM Modi.​​",
+    "img": "https://static.toiimg.com/photo/msid-128750465,imgsize-17466.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/scrap-the-deal-rahul-dares-pm-modi-to-abandon-trade-pact-repeats-sold-india-claim/articleshow/128747937.cms",
+    "time": "2026-02-24T11:41:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Michael’ Director Antoine Fuqua: Jackson transcended race",
+    "desc": "Acclaimed filmmaker Antoine Fuqua calls his Michael Jackson film a \"spiritual journey,\" shaped by Jackson’s ability to transcend racial boundaries and cultural divides. For Fuqua, Jackson’s worldwide impact became a personal milestone, showing a young Black kid that international recognition was within reach.",
+    "img": "https://static.toiimg.com/photo/msid-128750161,imgsize-18850.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-director-antoine-fuqua-says-michael-jackson-made-music-to-transcend-color-and-race/articleshow/128750161.cms",
+    "time": "2026-02-24T11:40:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Varanasi': Mahesh Babu flies to THIS location",
+    "desc": "Composer Anirudh Ravichander sees artificial intelligence as the future of music creation. He shared how AI is already assisting musicians, citing its use in recreating legendary voices and generating diverse vocal effects. Ravichander also revealed using AI for creative blocks. He anticipates widespread adoption of AI in the music industry, highlighting its potential to transform the creative process for artists.",
+    "img": "https://static.toiimg.com/photo/msid-128750110,imgsize-36290.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/varanasi-mahesh-babu-flies-to-this-location-ss-rajamouli-plans-a-massive-herovillain-action-block/articleshow/128750110.cms",
+    "time": "2026-02-24T11:40:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ayushmann Khurrana congratulates ‘Boong’ team on BAFTA win",
+    "desc": "Ayushmann Khurrana congratulated director Lakshmipriya Devi and the 'Boong' team for their historic BAFTA win for Best Children’s & Family Film. “Always special to see authentic stories find global recognition,” he wrote. PM Modi also praised the Manipuri film’s success for Manipur and Indian cinema.",
+    "img": "https://static.toiimg.com/photo/msid-128749617,imgsize-17342.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ayushmann-khurrana-congratulates-boong-team-on-bafta-win-always-special-to-see-/articleshow/128749617.cms",
+    "time": "2026-02-24T11:21:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Good news will come': Sasikala hints at new political party ahead of Tamil Nadu polls",
+    "desc": "Former AIADMK leader VK Sasikala has hinted at launching a new political party, making the announcement during an event commemorating former chief minister Jayalalithaa's birth anniversary. She said, \"Good news will come\". This potential move could introduce a three-way contest in the upcoming Tamil Nadu Assembly elections, alongside the existing DMK and BJP-AIADMK alliances.",
+    "img": "https://static.toiimg.com/photo/msid-128749484,imgsize-37008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/good-news-will-come-sasikala-hints-at-new-political-party-ahead-of-tamil-nadu-polls/articleshow/128749315.cms",
+    "time": "2026-02-24T11:08:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Rioting charges added to FIR': Delhi Police on Youth Congress 'shirtless' protest",
+    "desc": "Delhi Police has added rioting charges to the FIR against Indian Youth Congress members. The group staged a shirtless protest at the AI Impact Summit last week. Police stated the protesters attempted to breach security and injured personnel. Eight individuals, including IYC chief Uday Bhanu Chib, have been arrested.",
+    "img": "https://static.toiimg.com/photo/msid-128748964,imgsize-86584.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rioting-charges-added-to-fir-delhi-police-on-youth-congress-shirtless-protest/articleshow/128748204.cms",
+    "time": "2026-02-24T11:00:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala motivational speaker arrested for ‘attempt to sexually assault’ minor girl seeking counselling",
+    "desc": "59-year-old accused is a retired school Principal working as a faculty member for Career Guidance and Adolescent Counselling under Higher Secondary Education dept. The alleged assault took place at the accused’s house in Kannur where the girl had gone seeking counselling support",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/irww6w/article70670170.ece/alternates/LANDSCAPE_1200/shaju.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-motivational-speaker-arrested-for-attempt-to-sexually-assault-minor-girl-seeking-counselling/article70670088.ece",
+    "time": "2026-02-24T10:58:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Team India can still reach T20 World Cup semis",
+    "desc": "India's T20 World Cup 2026 semifinal path is challenging. A significant loss to South Africa has impacted their net run rate. India must win their upcoming matches convincingly. Dominant victories are crucial to improve their net run rate and secure a spot in the semifinals. The team faces Zimbabwe and West Indies next.",
+    "img": "https://static.toiimg.com/photo/msid-128748293,imgsize-64306.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/nrr-drama-peaks-how-team-india-can-still-reach-t20-world-cup-semis/articleshow/128748194.cms",
+    "time": "2026-02-24T10:40:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Mexico airport passengers recall chilling moments during cartel shooting",
+    "desc": "Tourists and residents described scenes of panic at airports and on the streets of western Mexico on Monday (February 23), after violence erupted across Jalisco state following the death of cartel leader Nemesio “El Mencho” Oseguera.",
+    "img": "https://th-i.thgim.com/public/incoming/owa1fl/article70670810.ece/alternates/LANDSCAPE_1200/mexico1.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-mexico-airport-passengers-recall-chilling-moments-during-cartel-shooting/article70670808.ece",
+    "time": "2026-02-24T10:26:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Rajinikanth’s spiritual journey",
+    "desc": "Beyond his on-screen charisma, Rajinikanth embraces a deeply spiritual life, prioritizing sacred pilgrimages over luxury. He regularly visits revered temples like Tirupati and the Raghavendra Swamy Mutt, marking significant personal and professional milestones. His annual Himalayan retreats, involving meditation and simple living, underscore his commitment to inner peace and detachment.",
+    "img": "https://static.toiimg.com/photo/msid-128747462,imgsize-49996.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/spiritual-side-of-rajinikanth-temples-the-superstar-frequently-visits/articleshow/128747462.cms",
+    "time": "2026-02-24T10:17:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Wounded yet in high spirits': Army shares update on braveheart dog Tyson who 'took the first bullet'",
+    "desc": "Army dog Tyson, a German Shepherd, bravely took a bullet to the leg while leading troops into a terrorist hideout during Operation Trashi-I in Kishtwar. His courageous actions helped neutralize three Jaish-e-Mohammed terrorists. Wounded but spirited, Tyson is recovering well, embodying unwavering devotion to duty and serving as a true warrior.",
+    "img": "https://static.toiimg.com/photo/msid-128747641,imgsize-1748181.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/wounded-yet-in-high-spirits-army-shares-update-on-braveheart-dog-tyson-who-took-the-first-bullet/articleshow/128747102.cms",
+    "time": "2026-02-24T10:13:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Trump's new global tariff aims to balance payments, but is it even needed? Here's what experts say",
+    "desc": "New 10% US import duties took effect Tuesday, following the Supreme Court's rejection of President Trump's previous tariff framework. While the administration cites a balance of payments deficit, economists largely disagree, pointing to factors like increased foreign investment. Legal challenges are anticipated due to the statute's questionable application.",
+    "img": "https://static.toiimg.com/photo/msid-128747468,imgsize-105630.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/trumps-new-10-tariff-aim-to-balance-payments-but-is-it-even-needed-heres-what-experts-say/articleshow/128746685.cms",
+    "time": "2026-02-24T10:12:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SS Rajamouli and Mahesh Babu engage in a massive fight?",
+    "desc": "Filmmaker Ram Gopal Varma shared an AI-generated video of SS Rajamouli and Mahesh Babu seemingly fighting, captioning it “CINEMA IS DEAD.” The clip went viral, sparking mixed audience reactions. Neither Rajamouli nor Mahesh has commented yet. Their upcoming film Varanasi, co-starring Priyanka Chopra, releases on April 7, 2027.",
+    "img": "https://static.toiimg.com/photo/msid-128747669,imgsize-35776.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/varanasi-ss-rajamouli-and-mahesh-babu-engage-in-a-massive-fight-ram-gopal-varma-declares-cinema-is-dead/articleshow/128747669.cms",
+    "time": "2026-02-24T10:11:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anil Kapoor jokes about missing out on ‘Dhamaal 4’",
+    "desc": "Anil Kapoor, promoting 'Subedaar', playfully addressed not being part of 'Dhamaal 4' and recalled his friendship with filmmakers. Joking with Indra Kumar, he asked why he wasn’t cast, leaving the crowd laughing. Dhamaal 4 stars Ajay Devgn and Riteish Deshmukh, while Subedaar releases on March 5, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-128747530,imgsize-20874.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anil-kapoor-jokes-about-missing-out-on-dhamaal-4-kya-hua-ajay-devgn-ne-mana-kiya-kya/articleshow/128747530.cms",
+    "time": "2026-02-24T10:07:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC announces full fixtures for Women’s T20 World Cup 2026",
+    "desc": "The 10th edition of the competition will take place from June 12 to July 5 this year, with 12 teams vying for the title in what is the biggest field in the tournament’s history so far",
+    "img": "https://th-i.thgim.com/public/incoming/ygtbny/article70670690.ece/alternates/LANDSCAPE_1200/GettyImages-2179902518.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/icc-announces-full-fixtures-for-womens-t20-world-cup-2026/article70670596.ece",
+    "time": "2026-02-24T10:06:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Why Tata Sons chairman asked board to defer discussion",
+    "desc": "Any extension of Chandrasekaran’s tenure would need approval through a special resolution and would require a waiver from Tata Sons’ retirement norms, which set an age limit of 65 for non-executive positions. Chandrasekaran will turn 63 in June.",
+    "img": "https://static.toiimg.com/photo/msid-128747333,imgsize-22678.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/why-tata-sons-chairman-n-chandrasekaran-asked-board-to-defer-discussion-on-his-reappointment/articleshow/128747221.cms",
+    "time": "2026-02-24T09:58:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sivakarthikeyan BREAKS silence on industry hurdles",
+    "desc": "Sivakarthikeyan, at the 'Thaai Kizhavi' event, shared his journey from uncertainty to stardom, emphasizing his production house's focus on meaningful stories and supporting friends. He highlighted 'Kanaa' and 'Nenjamundu Nermaiyundu Odu Raja' as examples of his commitment. He declared he's not competing but aims to overcome industry hurdles to foster honest filmmaking and give back.",
+    "img": "https://static.toiimg.com/photo/msid-128746898,imgsize-53784.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/im-not-here-to-compete-sivakarthikeyan-breaks-silence-on-industry-hurdles-at-thaai-kizhavi-pre-release-event/articleshow/128746898.cms",
+    "time": "2026-02-24T09:47:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Manisha Koirala praises Bhansali’s devotion in birthday note",
+    "desc": "On his birthday, Manisha Koirala took to Instagram to honor Sanjay Leela Bhansali, praising his creative brilliance and calling him a “genius” whose vision has left a strong mark on Indian cinema and her own path in the industry.",
+    "img": "https://static.toiimg.com/photo/msid-128746652,imgsize-25448.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manisha-koirala-shares-emotional-birthday-message-for-sanjay-leela-bhansali-the-relentless-pursuit-of-excellence/articleshow/128746652.cms",
+    "time": "2026-02-24T09:37:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre gives nod for name change; Shashi Tharoor quips, ‘Keralamite, Keralamian’?",
+    "desc": "The Union Cabinet has approved renaming Kerala to 'Keralam', following a state assembly resolution. This move, aimed at reflecting the name in Malayalam, has sparked a linguistic debate. Senior Congress leader Shashi Tharoor humorously questioned the new terms for residents, asking how people from the state now would be referred to, and what happens to terms like “Keralite and Keralan”.",
+    "img": "https://static.toiimg.com/photo/msid-128748817,imgsize-752614.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/keralamite-keralamian-shashi-tharoor-quips-after-centre-renames-kerala-as-keralam/articleshow/128746617.cms",
     "time": "2026-02-24T09:32:48.000Z"
@@ -90,33 +369,6 @@ const newsData_en = [
     "time": "2026-02-24T08:57:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Karnataka HC slams Ranveer's Kantara comment, relief till March 2",
-    "desc": "Karnataka HC hears Ranveer Singh's case over IFFI remarks mimicking Rishab Shetty's Kantara role, allegedly hurting religious sentiments. Court slams recklessness, grants interim protection till March 2. FIR under BNS 196, 299, 302. Counsel admits fault; next hearing Monday.",
-    "img": "https://static.toiimg.com/photo/msid-128745678,imgsize-41326.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/you-may-be-ranveer-singh-karnataka-high-court-slams-actors-kantara-comment-relief-till-march-2-reports/articleshow/128745678.cms",
-    "time": "2026-02-24T08:47:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka Chopra hails ‘Boong’ after its BAFTA win",
-    "desc": "‘Boong’, directed by Lakshmipriya Devi, becomes India’s first film to win a BAFTA in Best Children’s and Family Film. Priyanka Chopra, Alia Bhatt, Kareena Kapoor Khan, and Guneet Monga celebrated the Manipur-set family tale starring Gugun Kipgen.",
-    "img": "https://static.toiimg.com/photo/msid-128745559,imgsize-20780.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-hails-boong-after-its-bafta-win-stories-like-these-deserve-to-be-celebrated/articleshow/128745559.cms",
-    "time": "2026-02-24T08:43:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Real names of your favorite actors",
-    "desc": "Malayalam cinema's biggest stars often adopt screen names, a practice that has shaped their public personas. From Mammootty's accidental rebranding to Urvashi's name inspired by an award, and Nayanthara's 'star' moniker, these changes have significantly impacted their careers. Dileep and Meera Jasmine also chose unique names for market appeal, proving a name is indeed stardust in entertainment.",
-    "img": "https://static.toiimg.com/photo/msid-128745062,imgsize-39910.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mammootty-nayanthara-dileep-meet-the-malayalam-superstars-who-changed-their-birth-names/articleshow/128745062.cms",
-    "time": "2026-02-24T08:41:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘They know what it takes to win’: Kumble hails WI's title charge, warns India",
     "desc": "Anil Kumble sees West Indies as strong T20 World Cup contenders after their dominant win, highlighting their knockout stage readiness and explosive batting. He noted Hetmyer's crucial innings and Powell's power. Kumble also cautioned that India faces a tougher path to the semi-finals following their significant defeat to South Africa, emphasizing the need for convincing victories in upcoming matches.",
@@ -153,42 +405,6 @@ const newsData_en = [
     "time": "2026-02-24T08:22:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Moby addresses Natalie Portman dating controversy",
-    "desc": "Musician Moby revisits his memoir's claim of dating Natalie Portman in 1999. He says there was a brief connection, but Portman has denied the romance and described him as creepy. Now, he says the memory is hard to parse and their recollections diverge.",
-    "img": "https://static.toiimg.com/photo/msid-128745122,imgsize-812415.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/moby-addresses-natalie-portman-dating-controversy-again-its-hard-for-me-to-make-sense-of-it/articleshow/128745122.cms",
-    "time": "2026-02-24T08:20:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yo Yo Honey Singh says he is safe after the Mexico unrest",
-    "desc": "Indian music sensation Yo Yo Honey Singh has reassured his fans after recent violent unrest in Mexico. The singer, who was in the country, posted a photo from a private jet, confirming his safety and imminent return home. The news comes amid reports of drug cartel-related disturbances, leaving many concerned for his well-being.",
-    "img": "https://static.toiimg.com/photo/msid-128744962,imgsize-34454.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/yo-yo-honey-singh-shares-update-with-fans-after-mexico-unrest-thnk-u-guys-for-all-ur-concern/articleshow/128744962.cms",
-    "time": "2026-02-24T08:13:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vishal explains why he AVOIDS Sridevi topic with Janhvi",
-    "desc": "Vishal Jethwa impressed in Homebound (2025), shortlisted for 2026 Oscars but missing final noms. The film won festivals and hearts globally. To SCREEN, he said shattered hopes linger despite pride. Post-miss, Janhvi called; he avoided mom talks with her to prevent triggering, unlike with Ishaan. Sridevi died 2018.",
-    "img": "https://static.toiimg.com/photo/msid-128744877,imgsize-43976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vishal-jethwa-explains-why-he-avoids-sridevi-topic-with-homebound-co-star-janhvi-kapoor/articleshow/128744877.cms",
-    "time": "2026-02-24T08:07:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bella felt ‘disposable’ in Hollywood amid Lyme disease battle",
-    "desc": "Supermodel Bella Hadid candidly shared her struggle with Lyme disease, admitting she felt 'disposable' in Hollywood after taking a year off for treatment. This health battle led her to re-evaluate her worth beyond career demands, embracing boundaries and finding fulfillment in trusted collaborations and artistic expression.",
-    "img": "https://static.toiimg.com/photo/msid-128744800,imgsize-27128.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bella-hadid-recalls-going-through-emotional-strain-amid-lyme-disease-battle-you-feel-disposable/articleshow/128744842.cms",
-    "time": "2026-02-24T08:06:27.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Amid ruckus, Kerala Assembly adjourned sine die",
     "desc": "Final session before Assembly elections witnesses unruly scenes again even as UDF continues protests over Sabarimala gold theft case. Minister P. Rajeeve says ‘this is the most incompetent Opposition in the history of Kerala Assembly’. CM says UDF is ‘smarter than Goebbels at spreading lies’",
@@ -196,15 +412,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/amid-ruckus-kerala-assembly-adjourned-sine-die/article70670200.ece",
     "time": "2026-02-24T07:54:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hema Malini gets emotional as BAFTA 2026 honours Dharmendra",
-    "desc": "BAFTA's 79th edition honored late Dharmendra, who passed in November 2025. Hema Malini thanked the gesture, praising his global fans. \"He was mobbed abroad,\" she told. Missing him deeply, she cherishes Sholay and Chupke Chupke. The \"He-Man\" of Hindi cinema left a lasting legacy at 89.",
-    "img": "https://static.toiimg.com/photo/msid-128744447,imgsize-37566.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-miss-him-every-single-minute-hema-malini-gets-emotional-as-bafta-2026-honours-dharmendra/articleshow/128744447.cms",
-    "time": "2026-02-24T07:45:00.000Z"
   },
   {
     "cat": "Sports",
@@ -223,60 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/trumps-tariff-game-might-not-be-over-just-yet-heres-what-us-admin-is-planning-after-key-sc-verdict/articleshow/128743063.cms",
     "time": "2026-02-24T07:29:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay Kumar's 'Bhoot Bangla' motion poster out",
-    "desc": "Fans buzz as Akshay Kumar reunites with director Priyadarshan after 14 years for Bhooth Bangla, rekindling their iconic comedy magic. The new motion poster promises a gripping blend of horror and humor, with Akshay channeling his timeless persona. Bolstered by a stellar cast, the film is set to release on April 10, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-128744069,imgsize-108404.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/new-bhooth-bangla-poster-out-akshay-kumar-evokes-nostalgia-with-this-eerie-avatar-fans-say-og-king-is-back/articleshow/128743796.cms",
-    "time": "2026-02-24T07:27:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "USD 380 million fortune",
-    "desc": "Keanu Reeves's estimated net worth is around $380 million, built through a multifaceted career in acting, music, and production. Significant film salaries and profit participation in major franchises fuel the figure. His consistent work ethic and prudent financial choices have cemented his status among Hollywood's wealthiest actors, with a reputation for generosity toward cast and crew.",
-    "img": "https://static.toiimg.com/photo/msid-128743918,imgsize-61136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/keanu-reevess-net-worth-revealed-usd-380-million-fortune-built-through-decades-of-films/articleshow/128743918.cms",
-    "time": "2026-02-24T07:27:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala motivational speaker arrested for ‘attempt to sexually assault’ minor girl seeking counselling",
-    "desc": "59-year-old accused is a retired school principal working as a faculty member for Career Guidance and Adolescent Counselling under Higher Secondary Education dept. The alleged assault took place at the accused’s house in Kannur where the girl had gone seeking counselling support",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/irww6w/article70670170.ece/alternates/LANDSCAPE_1200/shaju.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-motivational-speaker-arrested-for-attempt-to-sexually-assault-minor-girl-seeking-counselling/article70670088.ece",
-    "time": "2026-02-24T07:25:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Robert Carradine, ‘Revenge of the Nerds’ actor, dies at 71",
-    "desc": "Robert Carradine, the veteran actor known for Revenge of the Nerds and Lizzie McGuire, has died at age 71. His family disclosed that he died by suicide after a long struggle with Bipolar Disorder, describing him as a 'beacon of light' who touched many lives. They hope sharing his story will help reduce mental health stigma.",
-    "img": "https://static.toiimg.com/photo/msid-128743562,imgsize-41142.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/revenge-of-the-nerds-actor-robert-carradine-passes-away-at-71-after-long-battle-with-bipolar-disorder-family-confirms/articleshow/128743562.cms",
-    "time": "2026-02-24T07:10:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Pawan Hans helicopter, with 7 onboard, crashes into sea in Andaman; all rescued",
-    "desc": "A Pawan Hans helicopter experienced a short landing near Mayabunder in the Andaman and Nicobar Islands shortly after departing Port Blair. The aircraft was carrying two crew members and five passengers. Fortunately, all individuals were safely rescued with no reported injuries. Authorities are investigating the incident, and those on board are receiving medical observation.",
-    "img": "https://static.toiimg.com/photo/msid-128743437,imgsize-241086.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pawan-hans-helicopter-with-7-onboard-crashes-into-sea-in-andaman-all-rescued/articleshow/128743351.cms",
-    "time": "2026-02-24T07:07:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Alpha heads to theaters; reject a Rs 215 crore OTT deal",
-    "desc": "After Aditya Dhar’s 'Dhurandhar', speculation arose about 'Alpha' skipping theaters for OTT. Starring Alia Bhatt, Sharvari, Bobby Deol, and Anil Kapoor, the makers denied the rumors, confirming a theatrical release. Directed by Shiv Rawail, Alpha is set for April 17, 2026, connecting to War 2 and YRF’s expanding spy universe.",
-    "img": "https://static.toiimg.com/photo/msid-128743442,imgsize-48072.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-and-sharvari-starrer-alpha-heads-to-theaters-the-makers-reject-a-rs-215-crore-ott-deal-reports/articleshow/128743442.cms",
-    "time": "2026-02-24T07:01:06.000Z"
   },
   {
     "cat": "Business",
@@ -298,15 +451,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "'Peaceful protest our right': Rahul Gandhi backs Youth Congress after chief's arrest, says 'proud of Babbar Sher comrades'",
-    "desc": "Rahul Gandhi lauded Indian Youth Congress members for protesting against Prime Minister Narendra Modi. He stated, \"Peaceful protest is our historic heritage. It is in our blood and is the democratic right of every Indian.\" Gandhi criticized a trade deal with America, claiming it compromises national interests and harms farmers and the textile industry.",
-    "img": "https://static.toiimg.com/photo/msid-128742551,imgsize-58040.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/peaceful-protest-our-right-rahul-gandhi-backs-youth-congress-after-chiefs-arrest-says-proud-of-babbar-sher-comrades/articleshow/128741858.cms",
-    "time": "2026-02-24T06:30:16.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Jharkhand air ambulance crash: Seven killed; bodies brought to hospital for post-mortem",
     "desc": "All seven people on board an air ambulance were killed after the aircraft crashed near Simaria in Jharkhand’s Chatra district on February 23, 2026. The Beechcraft C90 aircraft, operated by Redbird Airways Pvt Ltd, was en route to Simaria in Jharkhand’s Chatran it went down shortly after takeoff.",
     "img": "https://th-i.thgim.com/public/incoming/oenn9g/article70670046.ece/alternates/LANDSCAPE_1200/News%20Videos%20Thumbnail.png",
@@ -322,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mistakes-happen-steve-bucknor-regrets-giving-sachin-tendulkar-out-22-years-ago/articleshow/128742313.cms",
     "time": "2026-02-24T06:18:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court allows Calcutta HC to deploy judicial officers from Jharkhand, Odisha; asks EC to bear expenses",
-    "desc": "The Supreme Court has authorized the Calcutta High Court Chief Justice to bring in judicial officers from Jharkhand and Odisha to speed up the verification of voter claims in West Bengal's electoral roll revision. This move aims to address a significant backlog, with the Election Commission bearing the costs.",
-    "img": "https://static.toiimg.com/photo/msid-128742059,imgsize-1103838.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bengal-sir-supreme-court-allows-calcutta-hc-to-deploy-judicial-officers-from-jharkhand-odisha-asks-ec-to-bear-expenses/articleshow/128741977.cms",
-    "time": "2026-02-24T06:04:38.000Z"
   },
   {
     "cat": "Politics",
@@ -369,24 +504,6 @@ const newsData_en = [
     "time": "2026-02-24T05:51:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Provided logistics' for 'shirtless' protest: Why Delhi Police arrested youth Congress chief Uday Bhanu",
-    "desc": "Delhi Police arrested Indian Youth Congress chief Uday Bhanu Chib and seven others for a shirtless protest at Bharat Mandapam during the AI Summit. The Youth Congress condemned the arrests as \"an undeclared emergency,\" while Congress spokesperson Pawan Khera criticized the government's reaction to peaceful dissent. Protesters displayed anti-PM slogans.",
-    "img": "https://static.toiimg.com/photo/msid-128741580,imgsize-993790.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/provided-logistics-for-shirtless-protest-why-delhi-police-arrested-youth-congress-chief/articleshow/128741164.cms",
-    "time": "2026-02-24T05:45:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi govt to implement 'Rah-Veer' financial incentive scheme: CM Gupta",
-    "desc": "Delhi government will implement the Centre's 'Rah-Veer' scheme, rewarding citizens Rs 25,000 for assisting seriously injured road accident victims within the golden hour. This initiative aims to remove apprehension and foster a culture of compassion, with outstanding individuals receiving a national award of Rs 1 lakh annually.",
-    "img": "https://static.toiimg.com/photo/msid-128741569,imgsize-627878.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-govt-to-implement-rah-veer-financial-incentive-scheme-cm-gupta/articleshow/128741492.cms",
-    "time": "2026-02-24T05:41:20.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Infosys, TCS, HCL plunge sharply — what triggered the sell-off?",
     "desc": "IT stocks experienced a sharp decline as Anthropic's Claude Code tool showed potential to modernize legacy COBOL systems. This development triggered concerns about AI's impact on traditional IT services, with major players seeing significant drops in their share prices. The news highlights a growing unease about AI fundamentally reshaping the industry's competitive landscape and business models.",
@@ -394,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/it-stocks-fall-today-infosys-tcs-hcl-plunge-sharply-what-triggered-the-sell-off/articleshow/128740321.cms",
     "time": "2026-02-24T05:39:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bodies of seven killed brought to hospital for post-mortem",
-    "desc": "SDPO Shubham Khandelwal said the bodies of all seven persons on board have been retrieved. They have been identified as Captain Vivek Vikas Bhagat, Captain Savrajdeep Singh, Sanjay Kumar, Dr Vikas Kumar Gupta, Sachin Kumar Mishra, Archana Devi, and Dhuru Kumar.",
-    "img": "https://th-i.thgim.com/public/incoming/985t9o/article70669769.ece/alternates/LANDSCAPE_1200/PTI02_24_2026_000026A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jharkhand/air-ambulance-crash-jharkhand-several-onboard-updates/article70668545.ece",
-    "time": "2026-02-24T05:37:34.000Z"
   },
   {
     "cat": "Sports",
@@ -459,24 +567,6 @@ const newsData_en = [
     "time": "2026-02-24T04:28:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Shirtless' protest at AI summit: Youth Congress chief Uday Bhanu Chib arrested",
-    "desc": "Delhi Police have apprehended Indian Youth Congress National President Uday Bhanu Chib following a protest at Bharat Mandapam. The incident involved a shirtless demonstration inside an AI expo hall, with slogans targeting the Prime Minister. Chib's arrest brings the total detentions in the case to eight, including other IYC office-bearers.",
-    "img": "https://static.toiimg.com/photo/msid-128739651,imgsize-931266.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/shirtless-protest-at-ai-summit-youth-congress-chief-uday-bhanu-chib-arrested/articleshow/128739657.cms",
-    "time": "2026-02-24T04:17:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CM Gupta",
-    "desc": "Delhi Chief Minister Rekha Gupta pledged to resolve past governmental issues, assuring BJP workers that extensive development work would ensure public support in future elections. Highlighting the government's dedicated efforts since its formation on February 20, 2025, Gupta presented a one-year report card during a public outreach program across the capital.",
-    "img": "https://static.toiimg.com/photo/msid-128739631,imgsize-900786.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-govt-working-to-resolve-all-pending-problems-cm-gupta/articleshow/128739611.cms",
-    "time": "2026-02-24T04:15:04.000Z"
-  },
-  {
     "cat": "World",
     "title": "Ousted South Korean President Yoon appeals life sentence for martial law decree",
     "desc": "“We will never be silent about what we view as an excessive indictment by a special prosecutor, the contradictory judgment rendered by the lower court based on that premise, and its political circumstances,” Mr. Yoon’s legal team said",
@@ -487,21 +577,12 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Why is stock market down today? Nifty50 goes below 25,450; BSE Sensex drops over 900 points",
-    "desc": "Nifty50 and BSE Sensex tanked in trade on Tuesday on weak global cues and IT stocks rout along with fresh tariff threats from US President Donald Trump. While Nifty50 dropped over 280 points, BSE Sensex went below the 82,300.",
+    "title": "Why did stock market crash today? Nifty50 ends below 25,450; BSE Sensex over 1,000 points down",
+    "desc": "Nifty50 and BSE Sensex tanked in trade on Tuesday on weak global cues and IT stocks rout along with fresh tariff threats from US President Donald Trump. While Nifty50 dropped over 300 points, BSE Sensex went below the 82,000 intraday.",
     "img": "https://static.toiimg.com/photo/msid-128738431,imgsize-110334.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-february-24-2026-dalal-street-indian-equities-global-markets-donald-trump-tariffs/articleshow/128738404.cms",
     "time": "2026-02-24T03:48:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Was in touch with Hafiz Saeed’: How LeT's Shabir Ahmed Lone is linked to 8 held for plotting terror attack in India",
-    "desc": "Delhi Police has busted a Bangladesh terror module run by Shabir Ahmed Lone, who was in direct contact with LeT commander Hafeez Saeed. Lone, a Kashmiri resident, was released on bail in 2019 and fled to Bangladesh. He was tasked with recruiting and radicalizing illegal Bangladeshi migrants in India, arranging fake IDs and weapons for potential attacks.",
-    "img": "https://static.toiimg.com/photo/msid-128738371,imgsize-1222101.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/was-in-touch-with-hafiz-saeed-how-lets-shabir-ahmed-lone-is-linked-to-8-held-for-plotting-terror-attack-in-india/articleshow/128738342.cms",
-    "time": "2026-02-24T03:47:03.000Z"
   },
   {
     "cat": "World",
@@ -567,15 +648,6 @@ const newsData_en = [
     "time": "2026-02-24T01:30:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'O' Romeo' crosses Rs 90 crore worldwide on Day 11",
-    "desc": "Shahid Kapoor’s latest release, *O Romeo*, is facing a tough run at the box office, falling short of audience expectations. After a promising start, the film’s collections dropped sharply. On day 11, it managed just Rs 1.65 crore, pushing its India total to Rs 57.45 crore and worldwide gross to Rs 90.85 crore. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-128735008,imgsize-31042.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/o-romeo-box-office-collection-day-11-and-day-12-live-shahid-kapoor-and-triptii-dimri-starrer-crosses-rs-90-crore-worldwide-despite-major-dip/articleshow/128735008.cms",
-    "time": "2026-02-24T00:32:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'It’s not as if they are Malcolm Marshall': Akhtar slams Pandya, Dube",
     "desc": "Former Pakistan pacer Shoaib Akhtar criticised India’s bowling after their 76-run loss to South Africa, calling the attack fragile and exposed. He slammed Hardik Pandya and Shivam Dube for conceding 67 runs, saying they lacked pace and intimidation. Akhtar also criticised Varun Chakaravarthy’s costly spell and urged India to play Kuldeep Yadav, calling him the “missing link” and a proven match-winner.",
@@ -594,15 +666,6 @@ const newsData_en = [
     "time": "2026-02-23T23:41:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India unveils its first-ever counter-terrorism policy; proportionate reply to attacks part of 'Prahaar'",
-    "desc": "India has launched its first anti-terror policy, 'Prahaar,' adopting a proactive, intelligence-led strategy. This doctrine combats threats from hostile neighbours and modern challenges like encrypted communication and criminal networks. It emphasizes prevention, swift response, capacity building, human rights, international cooperation, and societal engagement to counter terrorism effectively.",
-    "img": "https://static.toiimg.com/photo/msid-128734255,imgsize-66728.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-unveils-its-first-ever-counter-terrorism-policy-proportionate-reply-to-attacks-part-of-prahaar/articleshow/128734192.cms",
-    "time": "2026-02-23T23:33:21.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'It's not all about Usman Tariq': England fire warning ahead of Pakistan Super 8s clash",
     "desc": "England spinner Liam Dawson insists the team will focus on Pakistan's entire spin attack, not just mystery bowler Usman Tariq, ahead of their crucial T20 World Cup Super Eights match. Dawson highlighted England's own diverse spin options and their experience as key strengths for the upcoming encounter.",
@@ -610,42 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/its-not-all-about-usman-tariq-england-fire-warning-ahead-of-pakistan-super-8s-clash/articleshow/128723720.cms",
     "time": "2026-02-23T23:31:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Eye on boosting ties, Canada PM to embark on India visit from Feb 26",
-    "desc": "Canadian Prime Minister Mark Carney embarks on a three-day visit to India this week, aiming to strengthen bilateral ties. Discussions will focus on energy, trade, defence, and technology, with leaders reviewing a comprehensive economic partnership agreement.",
-    "img": "https://static.toiimg.com/photo/msid-128734057,imgsize-36596.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/eye-on-boosting-ties-canada-pm-to-embark-on-india-visit-from-feb-26/articleshow/128734035.cms",
-    "time": "2026-02-23T23:23:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bharat Taxi won't let drivers earn below base rate: Shah",
-    "desc": "Union Minister Amit Shah announced a minimum base fare for drivers on the Bharat Taxi platform, ensuring 80% of earnings based on kilometers driven. He also introduced a 'Saarathi Didi' feature for women prioritizing female drivers. The cooperative model aims to benefit drivers, mirroring the Amul structure with profits returning to producers.",
-    "img": "https://static.toiimg.com/photo/msid-128734023,imgsize-17938.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bharat-taxi-wont-let-drivers-earn-below-base-rate-shah/articleshow/128734013.cms",
-    "time": "2026-02-23T23:21:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kuno National Park to receive eight cheetahs from Botswana on February 28",
-    "desc": "Botswana is the third African nation to send cheetahs to India as part of Project Cheetah. Two batches of cheetahs have arrived from Namibia and South Africa since the project was kickstarted in September, 2022",
-    "img": "https://th-i.thgim.com/public/incoming/hkos22/article70668515.ece/alternates/LANDSCAPE_1200/PTI12_31_2025_000426B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/kuno-national-park-to-receive-eight-cheetahs-from-botswana-on-february-28/article70668217.ece",
-    "time": "2026-02-23T20:57:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "U.S. deal, Epstein links are shameful, not peaceful protests, Rahul tells Modi",
-    "desc": "The Congress condemns the arrest of Youth Congress leaders, alleges that family members of Youth Congress workers are harassed. PM Modi had called Youth Congress leaders’ ‘shirtless’ protest at the Delhi AI summit ‘naked politics’ and said that it was shameful.",
-    "img": "https://th-i.thgim.com/public/incoming/85rs4u/article70668487.ece/alternates/LANDSCAPE_1200/TH14-Phukan-IndGDKFJALEP.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/indo-us-trade-deal-your-name-figuring-in-epstein-files-are-shameful-not-the-peaceful-protests-rahul-gandhi-tells-modi/article70668223.ece",
-    "time": "2026-02-23T20:31:00.000Z"
   },
   {
     "cat": "Politics",
@@ -712,15 +739,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Worry for India? Windies storm to top Super 8 group with huge NRR",
-    "desc": "West Indies crushed Zimbabwe by 107 runs in the T20 World Cup Super Eights, powered by Shimron Hetmyer’s explosive 85 off 34 balls in a massive 254-6. Zimbabwe collapsed early in the chase and were bowled out for 147 despite Brad Evans’ 43. Gudakesh Motie and Akeal Hosein starred with the ball as West Indies went top of Group 1 with a superior NRR.",
-    "img": "https://static.toiimg.com/photo/msid-128724694,imgsize-61424.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-worry-for-india-west-indies-storm-to-top-super-8-group-with-huge-nrr-after-107-run-win-over-zimbabwe/articleshow/128723991.cms",
-    "time": "2026-02-23T17:46:00.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Farhan wants Pakistan’s batting unit to shoulder responsibility",
     "desc": "“We have collapsed in our batting. We are doing well with our bowling, the spinners particularly. But we will have to think about batting because if you look at T20 cricket, your top three or four should be able to score more runs. We have not been able to do that,” Pakistan opener Sahibzada Farhan said",
     "img": "https://th-i.thgim.com/public/incoming/23bkoh/article70668065.ece/alternates/LANDSCAPE_1200/AFP_97MH287.jpg",
@@ -754,24 +772,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-military-begins-withdrawing-from-main-base-in-northeast-syria-syrian-sources-say/article70667532.ece",
     "time": "2026-02-23T16:46:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "West Indies smash second-highest T20 World Cup total",
-    "desc": "West Indies delivered a historic batting performance, posting the second-highest T20 World Cup total of 254/6 against Zimbabwe. Shimron Hetmyer's blistering 85 off 34 balls, the fastest T20 World Cup fifty by a West Indian, set the stage for the monumental score.",
-    "img": "https://static.toiimg.com/photo/msid-128721560,imgsize-65286.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/west-indies-smash-second-highest-t20-world-cup-total-check-full-list/articleshow/128721498.cms",
-    "time": "2026-02-23T16:10:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shimron Hetmyer breaks Chris Gayle's 17-year-old record",
-    "desc": "Shimron Hetmyer smashed a blistering 19-ball half-century at the Wankhede Stadium, setting a new West Indies record in T20 World Cup history. This remarkable feat surpassed Chris Gayle's previous record of 23 balls. Hetmyer's aggressive innings showcased the Caribbean team's fearless approach to the game.",
-    "img": "https://static.toiimg.com/photo/msid-128719145,imgsize-48300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/record-shattered-shimron-hetmyer-breaks-chris-gayles-long-standing-17-year-old-t20-world-cup-milestone/articleshow/128719104.cms",
-    "time": "2026-02-23T14:56:20.000Z"
   },
   {
     "cat": "World",
