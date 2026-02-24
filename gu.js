@@ -1,12 +1,39 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "જો પાકિસ્તાન આજે ઈંગ્લેન્ડ સામે હારી જાય તો શું ? સેમિફાઇનલમાંથી થશે બહાર ? સમજો સંપૂર્ણ સમીકરણ",
+    "desc": "T20 વર્લ્ડ કપ 2026ની સુપર-8 મેચમાં પાકિસ્તાન આજે ઇંગ્લેન્ડ સામે ટકરાશે. 2022ના T20 વર્લ્ડ કપની ફાઇનલ પણ આ બે ટીમો વચ્ચે રમાઈ હતી. ત્યારે જો આ મેચમાં પાકિસ્તાન હારી જશે તો શું થશે, સેમિફાઇનલમાં પહોંચવાની તેની શક્યતાઓ કેટલી છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/pakistan-semifinal-scenario-what-if-pakistan-loses-to-england-466054 ",
+    "time": "2026-02-24T06:57:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "25 વર્ષની હોમ લોન 10 વર્ષમાં કેવી રીતે ચૂકવવી? આ સ્માર્ટ &amp;#039;પ્રી-પેમેન્ટ&amp;#039; ટ્રિક્સ તમારા લાખો રૂપિયા બચાવશે",
+    "desc": "લાંબા સમય માટે હોમ લોન લેવી બરાબર નથી કારણ કે તેમાં તમારે વધુ વ્યાજ ચૂકવવું પડે છે. કેટલીક સ્માર્ટ ટિપ્સની મદદથી તમે તમારી 25 વર્ષની હોમ લોન 10 વર્ષમાં પૂરી કરી શકો છો. પ્રીપેમેન્ટ, એક્સ્ટ્રા ઈએમઆી અને વાર્ષિક સ્ટેપ-અપ ઈએમઆઈ ખૂબ વ્યાજ બચાવે છે અને લોનને ઓછા સમયમાં ખતમ કરવામાં મદદ કરે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/how-to-repay-home-loan-faster-prepayment-tricks-466053 ",
+    "time": "2026-02-24T06:50:37.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "લાખોનું દેવું કરીને એર એમ્બ્યુલન્સ બુક કરાવી હતી, પાઈલોટ સહિત 7 લોકોના દર્દનાક મોત",
     "desc": "ઝારખંડથી દિલ્હી જવા ઉડેલી એર એમ્બ્યુલન્સ વચ્ચે જંગલોમાં જ તૂટી પડી અને દર્દી સહિત 7 લોકોના ઘટનાસ્થળે જ મોત નિપજ્યા. આ ઘટનાનો એક દર્દનાક પહેલું સામે આવ્યો છે જેમાં દર્દીના પરિવારે દેવું કરીને આ એર એમ્બ્યુલન્સ કરી હતી. છતાં જીવ બચી શક્યો નહીં.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/air-ambulance-crash-update-it-was-booked-by-taking-a-debt-of-lakhs-7-people-died-in-a-tragic-accident-466030 ",
-    "time": "2026-02-24T04:48:34.000Z"
+    "time": "2026-02-24T05:54:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વેસ્ટ ઈન્ડિઝની જીતે બગાડ્યો ભારતનો ખેલ, સેમિફાઇનલનો રસ્તો બન્યો વધુ મુશ્કેલ",
+    "desc": "સુપર-8માં વેસ્ટ ઈન્ડિઝે ઝિમ્બાબ્વેને 107 રનથી હરાવતા ગ્રુપ-1નું સમીકરણ બદલાઈ ગયું છે. વેસ્ટ ઈન્ડિઝ હવે પોઈન્ટ ટેબલમાં ટોપ પર છે, તો ભારત ત્રીજા સ્થાને છે. જ્યારે દક્ષિણ આફ્રિકા હવે બીજા સ્થાને પહોંચી ગયું છે. ત્યારે વેસ્ટ ઈન્ડિઝની જીતથી ભારતનો સેમિફાઇનલનો રસ્તો વધુ મુશ્કેલ બન્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/west-indies-win-over-zimbabwe-team-india-semi-final-scenario-t20-world-cup-2026-466039 ",
+    "time": "2026-02-24T05:40:58.000Z"
   },
   {
     "cat": "Business",
@@ -432,15 +459,6 @@ const newsData_gu = [
     "time": "2026-02-21T09:29:38.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Gold-Silver Rate Explainer: કોર્ટનો એક નિર્ણય...સોના-ચાંદીના ભાવમાં ભડકા થઈ શકે, સપ્તાહમાં સોનું 2300 અને ચાંદી 7800 રૂપિયા મોંઘી થઈ",
-    "desc": "સોના અને ચાંદી અઠવાડિયાના છેલ્લા કારોબારી દિવસે ઉછાળા મારીને બંધ થયા. છેલ્લા એક અઠવાડિયામાં સોના અને ચાંદીમાં શું સ્થિતિ રહી તે જાણો અને એક્સપર્ટ આગામી સમય કેવો રહેશે તેના વિશે શું મંતવ્યો ધરાવે છે તે પણ જાણવાની કોશિશ કરીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-silver-weekly-rate-explainer-also-us-supreme-court-ruling-on-tariffs-could-impact-prices-next-week-465719 ",
-    "time": "2026-02-21T08:06:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ભૂતની સત્ય ઘટના પર આધારિત આ ફિલ્મ જોઈ ડર લાગશે અને રડવું પણ આવશે, હોટસ્ટાર પર ફ્રીમાં જોઈ શકો છો",
     "desc": "સત્ય ઘટના પર આધારિત હોરર ફિલ્મ જોવાના શોખીનો માટે ઓટીટી પ્લેટફોર્મ હોટસ્ટાર પર એક ફિલ્મ છે. જો અત્યાર સુધી તમે આ હોરર ફિલ્મ નથી જોઈ તો આ વીકેન્ડમાં જોઈ લો. આ હોરર ફિલ્મ સત્ય ઘટના પર આધારિત છે. આ ફિલ્મ તમને રડાવશે, ડરાવશે અને તમારી આત્માને પણ ધ્રુજાવી દેશે.",
@@ -466,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/expainer-on-after-supreme-court-verdict-will-usa-return-the-collected-tariffs-world-news-in-gujarati-465709 ",
     "time": "2026-02-21T06:17:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "PPF મેજિકઃ 1 કરોડનું ફંડ, દર મહિને બેઠા-બેઠા 61500 રૂપિયાનું પેન્શન, જાણો સીક્રેટ ફોર્મ્યુલા",
-    "desc": "PPF માં દર વર્ષે 1.5 લાખ રૂપિયાનું રોકાણ કરી અને 25 વર્ષ સુધી જારી રાખી તમે 1 કરોડથી વધુનું નિવૃત્તિ ફંડ બનાવી શકો છો. અત્યારના 7.1 ટકાના વ્યાજદર પર દર મહિને લગભગ 61500 રૂપિયાનું વ્યાજ દર મહિને મળી શકે છે, જેનાથી પીપીએફ એક સુરક્ષિત અને ટેક્સ ફ્રી નિવૃત્તિ પ્લાનિંગનો વિકલ્પ બની શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/ppf-calculator-for-1-crore-how-to-earn-monthly-income-from-ppf-465710 ",
-    "time": "2026-02-21T06:06:45.000Z"
   },
   {
     "cat": "Sports",
@@ -520,24 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/comment-against-amit-shah-rahul-gandhi-defamation-case-sultanpur-court-appearance-know-465669 ",
     "time": "2026-02-20T15:07:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "અભિષેક શર્મા થશે બહાર! આવી ગયું ટીમ ઈન્ડિયાના પ્લેઈંગ ઈલેવન પર અપડેટ, ભારતીય કોચે જણાવ્યું",
-    "desc": "સુપર 8 માટે ટીમ ઈન્ડિયાની પ્લેઈંગ ઈલેવનમાંથી અભિષેક શર્માને બહાર કરવામાં આવશે. કોચ મોર્ને મોર્કલે આ અટકળોનો જવાબ આપ્યો છે. જો કે ભારતની પહેલી મેચ સાઉથ આફ્રિકા સામે છે, અને તે રવિવારે અને 22 તારીખના રોજ રમાવા જઈ રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/abhishek-sharma-will-be-out-update-on-team-india-playing-xi-has-come-said-the-indian-coach-465667 ",
-    "time": "2026-02-20T14:35:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "સેમિફાઈનલ પહેલા જ બહાર થઈ જશે ટીમ ઈન્ડિયા ! T20 વર્લ્ડ કપ પર પૂર્વ પાકિસ્તાની દિગ્ગજની ભવિષ્યવાણીથી દરેક હેરાન",
-    "desc": "આવતીકાલ એટલે કે શનિવાર અને 21 તારીખથી સુપર 8ની મેચી શરૂઆત થવા જઈ રહી છે, ત્યારે ભારતની ટીમ ગ્રુપ એકમાં છે, તેની પહેલી મેચ સાઉથ આફ્રિકા સામે છે, જે 22 તારીખ અને રવિવારના રોજ સાંજે રમાશે, જો કે સુપર 8 શરૂ થાય તે પહેલા જ પાકિસ્તાની પૂર્વ ક્રિકેટરે ભારતને લઈ ભવિષ્યવાણી કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-india-will-be-eliminated-before-the-semi-finals-prediction-of-the-former-pakistani-legend-on-the-t20-world-cupq-465663 ",
-    "time": "2026-02-20T13:38:11.000Z"
   },
   {
     "cat": "Politics",
@@ -655,14 +646,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/despite-the-decline-in-sales-this-suv-became-number-1-its-sales-increased-by-a-whopping-145-percent-465259 ",
     "time": "2026-02-17T12:08:26.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "નોકરીઓ ખાઈ જશે AI ! આ નોકરીઓ સૌથી વધુ જોખમમાં, ચોંકાવનારો રિપોર્ટ આવ્યો સામે",
-    "desc": "ભારતમાં ઝડપથી AIનું મહત્વ વધી રહ્યું છે, ત્યારે અનેક કંપનીઓ પોતાના સ્ટાફમાં ઘટાડો કરી રહ્યાં છે, અને AI સોફ્ટવેર તરફ કંપનીઓ ખેચાઈ રહી છે. જેના કારણે જે AIને અપનાવતા નથી તે કર્મચારીઓની નોકરી જોખમમાં મુકાઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/ai-will-loss-jobs-this-job-is-at-highest-risk-bad-report-comes-out-465037 ",
-    "time": "2026-02-15T13:29:04.000Z"
   }
 ];

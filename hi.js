@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ellyse Perry gives update on her injury after getting ruled out of India ODI series",
+    "desc": "Australia star all-rounder Ellyse Perry has shared an update on her injury after getting ruled out of the ongoing ODI series against India. The Aussies were dealt with a major blow when Perry and fast-bowler...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ellyse-perry-gives-update-on-her-injury-after-getting-ruled-out-of-india-odi-series-2026-02-24-1031455",
+    "time": "2026-02-24T06:37:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hope for India to qualify for the T20 World Cup semifinal? Super Eight scheduling can help Men in Blue",
+    "desc": "India's bid for the T20 World Cup title defence was hit by a roadblock after their huge loss to South Africa in Ahmedabad on Sunday. The Men in Blue were on a 12-match winning run,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hope-for-india-to-qualify-for-the-t20-world-cup-semifinal-super-eight-scheduling-can-help-men-in-blue-2026-02-24-1031448",
+    "time": "2026-02-24T05:51:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why are Ellyse Perry and Kim Garth not playing in INDW vs AUSW 1st ODI in Gabba, Brisbane?",
     "desc": "Ellyse Perry and Kim Garth missed out as the Australian women face India in the first ODI of the three-match series at the Gabba, Brisbane. The two sides are locking horns for the first time...",
     "img": "",
@@ -19,7 +37,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "India look for strong start after opting to bat",
+    "title": "India in huge trouble after losing more than half side",
     "desc": "Reigning ODI champions India return to 50-over cricket for the first time since lifting the World Cup a few months ago, as they face Australia in the opening match of a three-game series at the...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/eden-gardens-could-be-stripped-of-hosting-t20-world-cup-2026-semi-final-depends-on-ifs-and-buts-2026-02-23-1031408",
     "time": "2026-02-23T18:23:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "West Indies decimate Zimbabwe in Mumbai, move inch closer to T20 World Cup semi-final",
-    "desc": "West Indies produced a stunning all-round show to decimate Zimbabwe in their first Super Eights clash against Zimbabwe at the Wankhede Stadium in Mumbai. Shimron Hetmyer and Rovman Powell wreaked havoc with the bat in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-decimate-zimbabwe-in-mumbai-move-inch-closer-to-t20-world-cup-semi-final-2026-02-23-1031399",
-    "time": "2026-02-23T17:14:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia to play Tests in South Africa for first-time since Sanpapergate scandal, know schedule",
-    "desc": "Australia’s next assignment in South Africa will stir memories that never truly faded. When the team walks out at Newlands later this year, it will mark their first Test appearance in the country since the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-to-play-tests-in-south-africa-for-first-time-since-sanpapergate-scandal-know-schedule-2026-02-23-1031394",
-    "time": "2026-02-23T16:19:11.000Z"
   }
 ];
