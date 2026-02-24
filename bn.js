@@ -1,6 +1,51 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "Supreme Court on NEET-PG cutoff: আর কত নীচে নামবে! শুন্য পেলেও এবার ডাক্তারিতে MD/MS পড়া যাবে, শিক্ষার মান দেখে হাসছে সুপ্রিম কোর্ট...",
+    "desc": "২০২৫ সালের নিট-পিজি পরীক্ষায় দেখা গিয়েছে যে, কয়েক হাজার শূন্য পদ পূরণের লক্ষ্যে কেন্দ্রীয় স্বাস্থ্য মন্ত্রক ন্যূনতম যোগ্যতামান বা পার্সেন্টাইল ব্যাপকভাবে কমিয়ে দিয়েছে। অভিযোগ উঠেছে যে, জেনারেল ক্যাটাগরির ক্ষেত্রে এই কাট-অফ ৮০০-র মধ্যে মাত্র ১০৩-এ নামিয়ে আনা হয়েছে, যা আগে ছিল ২৭৬।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/neet-pg-cutoff-virtually-zero-supreme-court-raises-concern-over-medical-education-quality_642629.html ",
+    "time": "2026-02-24T15:51:49.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "মানুষের হাতের ছোঁয়ায় মাত্র ১৫ দিনেই মরে গেল জলজ্যান্ত ৭২টা রয়্যাল বেঙ্গল টাইগার! কী এমন বিভীষিকা থাইল্যান্ডে...",
+    "desc": "থাইল্যান্ডের চিয়াং মাই শহরের, টাইগার কিংডম, নামের পর্যটনকেন্দ্রে ঘটেছে একটি মর্মান্তিক দুর্ঘটনা। টাইগার কিংডম পার্কে দুই সপ্তাহের মধ্যেই মারা গেছে ৭২টি বাঘ। এই ঘটনার ফলে থাইল্যান্ডে খাঁচাবন্দি বন্যপ্রাণী পর্যটনের নৈতিকতা ও সুরক্ষাব্যবস্থা নিয়ে বিশ্বজুড়ে নতুন করে বিতর্ক শুরু হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/72-tigers-died-in-chiang-mai-due-to-a-virus_642628.html ",
+    "time": "2026-02-24T15:42:27.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "'এবার দেশে ফিরতে হবে', দলের নেতাদের ইঙ্গিতপূর্ণ বার্তা, তারেককে নিয়ে কী বললেন হাসিনা?",
+    "desc": "বাংলাদেশের নির্বাচন-পরবর্তী পরিস্থিতি এবং আওয়ামী লিগের ভবিষ্যৎ কর্মপন্থা নিয়ে দলীয় ওয়ার্কিং কমিটির বৈঠকে গুরুত্বপূর্ণ বার্তা দিলেন শেখ হাসিনা। দিল্লি থেকে ভার্চুয়াল মাধ্যমে যুক্ত হয়ে তিনি নেতাদের দেশে ফেরার প্রস্তুতি নিতে এবং রাজনৈতিকভাবে সক্রিয় হওয়ার আহ্বান জানান। একই সঙ্গে নির্বাচনের বৈধতা, আন্তর্জাতিক প্রতিক্রিয়া এবং দলের ওপর জারি থাকা নিষেধাজ্ঞা নিয়েও স্পষ্ট অবস্থান তুলে ধরেন তিনি, যার জেরে রাজনৈতিক মহলে নতুন করে জল্পনা তৈরি হয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/hasina-tarique-2026-02-b2484f7588bbd065992599ebd0d5180a-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/sheikh-hasina-calls-leaders-return-bangladesh-awami-league-working-committee-meeting-election-ban-controversy-comments-on-tarique-tib-ws-l-2556112.html",
+    "time": "2026-02-24T14:53:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "যোগীর সঙ্গে বৈঠক, সোশ্যাল মিডিয়ায় ছবি! এবার কি রাজনীতিতে সঞ্জয় দত্ত?",
+    "desc": "বলিউড অভিনেতা সঞ্জয় দত্ত-কে ঘিরে নতুন করে রাজনৈতিক জল্পনা শুরু হয়েছে। সম্প্রতি তিনি উত্তরপ্রদেশে যান বিজেপি বিধায়ক রাজেশ্বর সিং-এর লখনউয়ের এক কর্মসূচিতে যোগ দিতে। সেখানে লখনউ শহরে একটি রোড শো-তেও অংশ নেন তিনি এবং উপস্থিত জনতার উদ্দেশে বক্তব্য রাখেন।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Sanjay-Dutt-Jogi-Adityanath-2026-02-9e1d0005ae54691bd5674d2c2ed8ca60-1200x800.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/bollywood-actor-sanjay-dutt-bjp-rajya-sabha-speculation-lucknow-sal-2555164.html",
+    "time": "2026-02-24T14:26:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BIG BREAKING! ছাব্বিশের আগে অবশেষে রাজ্যের নামবদলের প্রস্তাবে অনুমোদন কেন্দ্রের, নতুন নাম...",
+    "desc": "কেরল নয়, 'কেরলম'। বিধানসভা ভোটের মুখে অবশেষে রাজ্যের নামবদলের প্রস্তাবে অনুমোদন দিল কেন্দ্রীয় মন্ত্রিসভা। এবার নিয়মাফিক কেরল বিধানসভায় নামবদল সংক্রান্ত বিল পাঠাবেন রাষ্ট্রপতি দ্রৌপদী মূর্মু। বিল পাস হলেই আনুষ্ঠানিকভাবে নাম বদলে যাবে বামশাসিত এই রাজ্য়ের।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/union-cabinet-finally-approves-proposal-to-rename-kerala-ahead-of-assembly-election_642575.html ",
+    "time": "2026-02-24T12:55:38.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "উঠলেই পৌঁছে যাবেন! দারুণ 'স্পিড'! ১৮০ কিমি ঘণ্টায় ছোটে...! দেশের দ্রুততম ট্রেন কোনগুলো?",
     "desc": "ভারতের রেলপথে গতি এখন নতুন সংজ্ঞা পাচ্ছে। বন্দে ভারত থেকে তেজস—দেশের দ্রুততম ট্রেনগুলি ১৮০ কিমি প্রতি ঘণ্টা পর্যন্ত গতি তুলতে সক্ষম। আধুনিক প্রযুক্তি, উন্নত কোচ নকশা এবং নিরাপত্তা ব্যবস্থার সমন্বয়ে ভারতীয় রেল ধীরে ধীরে উচ্চগতির যুগে প্রবেশ করছে। যদিও অধিকাংশ রুটে অপারেশনাল গতি এখনও অবকাঠামোগত সীমাবদ্ধতার কারণে কম, তবুও নকশাগত সর্বোচ্চ গতি ১৬০ থেকে ১৮০ কিমি প্রতি ঘণ্টা পর্যন্ত পৌঁছায়।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/1771934488_Untitled-design-2026-02-24T160535.828-2026-02-82653dcd9ec39fae0a50c795122836ac-1200x800.jpg",
@@ -43,15 +88,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/vijay-deverakonda-rashmika-mandanna-wedding-of-virosh-what-is-the-age-difference-between-them-ideal-age-difference-between-husband-wife-pbd-2555438.html",
     "time": "2026-02-24T09:46:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "যোগীর সঙ্গে বৈঠক, সোশ্যাল মিডিয়ায় ছবি! এবার কি রাজনীতিতে সঞ্জয় দত্ত?",
-    "desc": "বলিউড অভিনেতা সঞ্জয় দত্ত-কে ঘিরে নতুন করে রাজনৈতিক জল্পনা শুরু হয়েছে। সম্প্রতি তিনি উত্তরপ্রদেশে যান বিজেপি বিধায়ক রাজেশ্বর সিং-এর লখনউয়ের এক কর্মসূচিতে যোগ দিতে। সেখানে লখনউ শহরে একটি রোড শো-তেও অংশ নেন তিনি এবং উপস্থিত জনতার উদ্দেশে বক্তব্য রাখেন।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Sanjay-Dutt-Yogi-Adityanath-2026-02-9175dc65ce7ccb299f180de31ed91a4e-3x2.jpeg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/entertainment/bollywood-actor-sanjay-dutt-bjp-rajya-sabha-speculation-lucknow-sal-2555164.html",
-    "time": "2026-02-24T09:21:57.000Z"
   },
   {
     "cat": "Politics",
@@ -504,15 +540,6 @@ const newsData_bn = [
     "time": "2026-02-19T17:11:30.000Z"
   },
   {
-    "cat": "World",
-    "title": "এপস্টিনের প্রাসাদে কমবয়সী মেয়েদের কামড়াকামড়ি! লজ্জা ঢাকতে এক যুবরাজকে জেলে ঢোকাল ইংল্যান্ড...",
-    "desc": "ব্রিটিশ রাজপরিবারের ইতিহাসে এক নজিরবিহীন ঘটনা ঘটে গেল। জেফরি এপস্টিন কেলেঙ্কারিতে জড়িত থাকার অভিযোগে ব্রিটেনের রাজা তৃতীয় চার্লসের ভাই এবং প্রাক্তন রাজপুত্র অ্যান্ড্রু মাউন্টব্যাটেন-উইন্ডসরকে গ্রেপ্তার করেছে পুলিশ। আজ ১৯ ফেব্রুয়ারি, ২০২৬—তাঁর ৬৬তম জন্মদিনের সকালেই তাঁকে হেফাজতে নেওয়া হয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/former-prince-andrew-arrested-jeffrey-epstein-files-misconduct-row_641989.html ",
-    "time": "2026-02-19T15:53:38.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'জগদ্ধাত্রী'-তে বড় চমক! এবার ছোটপর্দায় 'ধুরন্ধর' অভিনেতা হিতুল পুজারা...",
     "desc": "জনপ্রিয় ধারাবাহিক 'জগদ্ধাত্রী'-তে এবার বড়সড় চমক। রণবীর সিংয়ের ব্লকবাস্টার ছবি 'ধুরন্ধর'-এ নাইম বালোচের চরিত্রে অভিনয় করে নজরকাড়া অভিনেতা হিতুল পুজারা এবার পা রাখতে চলেছেন এই মেগা সিরিয়ালে। এই ধারাবাহিকে এক গুরুত্বপূর্ণ মোড় নিয়ে আসবে হিতুলের চরিত্রটি।",
@@ -871,32 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/international/what-is-going-to-be-the-future-of-bangladesh-after-bnp-wins-election-pbd-2541864.html",
     "time": "2026-02-15T18:19:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "পাকিস্তানকে তুলোধনা করে ৫ বড় রেকর্ড গড়লেন ইশান কিশান, নাম তুললেন ইতিহাসের পাতায়",
-    "desc": "২৭ বলে নিজের হাফ সেঞ্চুরি পূরণ করেন ইশান কিশান। অবশেষে ৪০ বলে ৭৭ রানের ইনিংস খেলে সঈম আয়ূবের বলে সাজঘরে ফেরেন ইশান। ১০টি চার ও ৩টি ছয়ে সাজানো তার ইনিংস। একইসঙ্গে একাধিক রেকর্ডও নিজের নামে করেন তিনি।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ISHAN-KISHAN-34-2026-02-a57a1ccda45519e99c32bb51cb9aa141-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/ishan-kishan-creates-5-unique-world-records-after-played-devastating-innings-against-pakistan-ind-vs-pak-icc-t20-world-cup-2026-sup-2541773.html",
-    "time": "2026-02-15T17:31:41.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "বিএনপি সরকারের শপথে ভারত! ওম বিরলা যাচ্ছেন ঢাকায়, মোদী-তারেক কথোপকথনে নতুন ইঙ্গিত",
-    "desc": "বাংলাদেশের প্রধানমন্ত্রী নির্বাচিত ও বিএনপি প্রধান তারেক রহমান-এর শপথগ্রহণ অনুষ্ঠানে ভারতের পক্ষ থেকে প্রতিনিধিত্ব করবেন লোকসভার স্পিকার ওম বিরলা। আগামী মঙ্গলবার, ১৭ ফেব্রুয়ারি ২০২৬ ঢাকায় এই শপথ অনুষ্ঠান অনুষ্ঠিত হবে বলে জানিয়েছে ভারতের বিদেশ মন্ত্রক।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Bangladesh-Oath-Ceremony-2026-02-dca1bb0bcead9b28f2e4f4ce61233092-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/bangladesh-oath-ceremony-om-birla-to-represent-india-at-tarique-rahman-swearing-in-dhaka-bnp-government-2026-sal-2541552.html",
-    "time": "2026-02-15T12:52:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ভারত-পাক ম্যাচ বৃষ্টিতে বাতিল হলে কী হবে? কোন দল যাবে বিশ্বকাপের সুপার এইটে? ভারত নাকি পাকিস্তান, জেনে নিন",
-    "desc": "A গ্রুপে পয়েন্ট তালিকায় শীর্ষে এখন ভারত। দুইয়ে পাকিস্তান। দুই দলেরই পয়েন্ট সমান, তবে নেট রান রেটে এগিয়ে ভারত। ফলে পাঁচ পয়েন্টে দুই দল থাকলেও নেট রান রেটের বিচারে সুপার এইটে যাওয়ার দৌড়ে এগিয়ে ভারতীয় দল।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/iNDIA-PAKISTAN-1-2026-02-bc9453febb7333ff8242fc464afc0c0d-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/photogallery/sports/t20-wc-2026-point-table-what-happens-if-ind-vs-pak-match-washed-out-due-to-rain-smj-2541531.html",
-    "time": "2026-02-15T12:09:26.000Z"
   }
 ];

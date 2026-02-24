@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "3 tactical changes India might make for must-win Zimbabwe clash in T20 World Cup",
+    "desc": "India are in a must-win situation in their game against Zimbabwe and that will be played at the MA Chidambaram Stadium in Chennai on Thursday (February 26). With the opening duo of Abhishek Sharma and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-zim-3-tactical-changes-india-might-make-for-must-win-zimbabwe-clash-in-t20-world-cup-2026-02-24-1031535",
+    "time": "2026-02-24T15:40:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rinku Singh leaves India squad ahead of Zimbabwe clash in Chennai, goes back home: Know reason",
+    "desc": "India cricketer Rinku Singh has left the squad and gone back home, two days ahead of their T20 World Cup clash against Zimbabwe in the Super 8 round. The match is set to take place...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rinku-singh-leaves-india-squad-ahead-of-zimbabwe-clash-in-chennai-skips-practice-session-know-reason-2026-02-24-1031524",
+    "time": "2026-02-24T14:08:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pakistan must defy history vs England to stay alive in T20 World Cup 2026",
     "desc": "Pakistan will face England today in the Super 8 round of the T20 World Cup in Pallekele. It is a must-win encounter for them to stay alive in the tournament, as their previous game against...",
     "img": "",
@@ -61,23 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/hope-for-india-to-qualify-for-the-t20-world-cup-semifinal-super-eight-scheduling-can-help-men-in-blue-2026-02-24-1031448",
     "time": "2026-02-24T05:51:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are Ellyse Perry and Kim Garth not playing in INDW vs AUSW 1st ODI in Gabba, Brisbane?",
-    "desc": "Ellyse Perry and Kim Garth missed out as the Australian women face India in the first ODI of the three-match series at the Gabba, Brisbane. The two sides are locking horns for the first time...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-are-ellyse-perry-and-kim-garth-not-playing-in-indw-vs-ausw-1st-odi-in-gabba-brisbane-2026-02-24-1031433",
-    "time": "2026-02-24T03:53:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KAR vs J-K Ranji Trophy final LIVE Cricket Score: Jammu and Kashmir up against Karnataka in dream appearance",
-    "desc": "Jammu and Kashmir take the field against Karnataka in their first-ever Ranji Trophy final in what has been a fairytale run and a stirring story of resilience and passion. But to lift the coveted title, the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kar-vs-jk-ranji-trophy-final-live-cricket-score-jammu-and-kashmir-vs-karnataka-ksca-hubli-cricket-ground-hubli-latest-match-updates-scorecard-teams-2026-02-24-1031431",
-    "time": "2026-02-24T03:37:15.000Z"
   }
 ];

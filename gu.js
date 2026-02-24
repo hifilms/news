@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "રિંકુ સિંહ અચાનક છોડ્યો ટીમ ઈન્ડિયા સાથ, ઘરે પાછો ફર્યો, જાણો કારણ",
+    "desc": "રિંકુ સિંહ અચાનક ઈન્ડિયા કેમ્પ છોડીને ઘરે પરત ફર્યા છે રિંકુ સિંહ ભારતીય ટીમનો ભાગ છે. રિંકુ સિંહ ચાલુ T20 વર્લ્ડ કપ 2026 માટે ભારતીય ટીમનો ભાગ છે. જો કે લાગતુ નથી કે તેઓ ઝિમ્બાબ્વે સામે મેચ રમી શકે, ત્યારે ભારત માટે પણ આ મુશ્કેલ સમય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rinku-singh-suddenly-left-team-india-returned-home-know-the-reason-466098 ",
+    "time": "2026-02-24T15:37:09.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ગુગલ પર ભૂલથી પણ સર્ચ ન કરતા એપ્સટિન ફાઇલ્સ, જાણો ચોંકાવનારું કારણ",
+    "desc": "હાલના સમયમાં એપ્સટિન ફાઇલ્સ શબ્દ ઇન્ટરનેટ પર ઝડપથી ટ્રેન્ડ કરી રહ્યો છે, પરંતુ તેનાથી તમને ભારે નુકશાન થઈ શકે છે, મોટા ભાગના લોકો હાલમાં તેના વિશે જાણવા અને તેના દ્વારા વાયરલ કરાયેલા વીડિયો જોવા માગે છે, ત્યારે તે તમારી સૌથી મોટી ભુલ બની શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/epstein-files-not-being-searched-on-google-even-by-mistake-know-the-shocking-reason-466091 ",
+    "time": "2026-02-24T13:22:39.000Z"
+  },
+  {
     "cat": "World",
     "title": "ટેરિફ વોરમાં ટ્રમ્પે બધું ગુમાવ્યું, ભારત માટે ખુલ્યા ફાયદાના દ્વાર! US-યુરોપ વચ્ચે ફરી વધી તકરાર?",
     "desc": "ટેરિફ પર ટ્રમ્પનો નવો ગ્લોબલ ટેરિફ આજથી લાગુ થઈ ગયો છે. કોર્ટમાં મળેલી હાર અને નવા ટેરિફ બાદ ટ્રમ્પ ચારેય તરફથી ઘેરાયેલા જોવા મળી રહ્યા છે. યુરોપ અને અમેરિકા વચ્ચે ફરી અંતર વધી શકે છે. જ્યારે આ સમગ્ર ઉથલપાથલમાં સૌથી મોટો ફાયદો ભારતને થવાનો છે.",
@@ -432,15 +450,6 @@ const newsData_gu = [
     "time": "2026-02-22T09:31:06.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "167+ સ્ટ્રાઇક રેટ અને 448 રન... ટીમ ઇન્ડિયાએ આ ખેલાડીથી રહેવું પડશે સાવધાન, ભારત સામે છે વધુ ખતરનાક",
-    "desc": "T20 વર્લ્ડ કપ 2026માં સુપર 8 માટે કાઉન્ટડાઉન શરૂ થઈ ગયું છે. પહેલી મેચ 21 ફેબ્રુઆરીએ યોજાવાની હતી, પરંતુ વરસાદે રમતને બગાડી નાખી. હવે, બીજી મેચ ઉત્સાહમાં વધારો કરશે, કારણ કે ભારત અને દક્ષિણ આફ્રિકા વચ્ચે મેચ રમાવા જઈ રહી છે. દક્ષિણ આફ્રિકાના એક ખેલાડીથી ટીમ ઈન્ડિયાએ સાવધાન રહેવું પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-india-will-have-to-be-careful-of-this-south-african-player-he-is-more-dangerous-against-india-465819 ",
-    "time": "2026-02-22T09:15:54.000Z"
-  },
-  {
     "cat": "Business",
     "title": "ચાંદી 1.67 લાખ અને સોનું 36 હજાર રૂપિયા સસ્તું, ઓલ-ટાઇમ હાઈ લેવલને સ્પર્શીને કિંમતોમાં મોટો કડાકો",
     "desc": "નવા વર્ષની શરૂઆતમાં સોના-ચાંદીના ભાવમાં અચાનક તેજી જોવા મળી હતી અને બંને કિંમતી ધાતુઓ પોતાની અત્યાર સુધીના સર્વોચ્ચ સ્તર (All-time high) પર પહોંચી ગઈ હતી. જોકે, હવે તે ઉચ્ચ સ્તરોથી ચાંદી 1.67 લાખ રૂપિયા સસ્તી થઈ ગઈ છે અને સોનાના ભાવમાં પણ પ્રતિ 10 ગ્રામ આશરે 36 હજાર રૂપિયાનો ઘટાડો નોંધાયો છે.",
@@ -529,15 +538,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/trumps-new-tax-which-indian-goods-will-not-be-subject-to-trumps-new-10-tariff-see-the-full-list-here-465749 ",
     "time": "2026-02-21T11:26:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "TATAનો આ વેચી દેજો, દિગ્ગજ એક્સપર્ટે કહ્યું: હજુ આવવાનો બાકી છે ઘટાડો",
-    "desc": "બ્રોકરેજ ICICI સિક્યોરિટીઝના જણાવ્યા અનુસાર, ટાટા ગ્રુપની આ કંપનીના શેર સેલ મોડમાં જઈ શકે છે. બ્રોકરેજ કંપનીએ ટારગેટ કિંમત નક્કી કરી છે, જેનો અર્થ એ થાય કે શેર તેના 52-સપ્તાહના નીચલા સ્તરથી નીચે આવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/sell-%E2%80%8B%E2%80%8Bthis-tata-said-a-veteran-expert-the-decline-is-yet-to-come-465737 ",
-    "time": "2026-02-21T10:19:52.000Z"
   },
   {
     "cat": "Politics",
@@ -664,15 +664,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/what-is-the-meaning-of-the-letters-r-p-j-and-v-written-on-the-tires-people-do-not-know-the-secret-hidden-in-it-465392 ",
     "time": "2026-02-18T09:32:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "વિશ્વભરમાં YouTube સેવા ઠપ, લાખો યુઝર્સ મુશ્કેલીમાં, જાણો અચાનક કેમ થયું ડાઉન",
-    "desc": "ભારત સહિત ઘણા દેશોમાં યુટ્યુબ ડાઉન થઈ ગયું છે. લોકો સોશિયલ મીડિયા પર નારાજગી વ્યક્ત કરી રહ્યા છે. જાણવા મળી રહ્યું છે કે નવા વીડિયો જોવામાં સમસ્યા આવી રહી છે અને ફીડ પણ રીફ્રેશ થઈ રહી નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/youtube-is-down-in-many-countries-including-india-465305 ",
-    "time": "2026-02-18T03:05:09.000Z"
   },
   {
     "cat": "Entertainment",
