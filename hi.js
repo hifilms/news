@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "What does West Indies' huge win over Zimbabwe mean for India in their quest for T20 World Cup semifinal?",
+    "desc": "West Indies handed Zimbabwe a proper drubbing in the Super Eight stage of the T20 World Cup 2026 with a jaw-dropping batting show and an impressive bowling performance. The hard-hitting Windies side put up the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-does-west-indies-huge-win-over-zimbabwe-mean-for-india-in-their-quest-for-t20-world-cup-semifinal-2026-02-24-1031414",
+    "time": "2026-02-24T01:31:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch Ranji Trophy final live on TV and stream online?",
+    "desc": "Karnataka will host Jammu and Kashmir in the final of the 2025-26 edition of the Ranji Trophy at the KSCA Rajnagar Stadium in Hubli. Under the leadership of Devdutt Padikkal, Karnataka have been one of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/karnataka-vs-jammu-and-kashmir-when-and-where-to-watch-ranji-trophy-final-live-on-tv-and-stream-online-in-india-2026-02-24-1031405",
+    "time": "2026-02-24T01:02:43.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Eden Gardens could be stripped of hosting T20 World Cup 2026 semi-final, depends on ifs and buts",
     "desc": "When the International Cricket Council (ICC) announced the T20 World Cup 2026 schedule, they clarified that India will play their semi-final at the Wankhede Stadium in Mumbai, unless it’s against Pakistan. In that case, Colombo’s...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-hold-worst-ranking-in-t20-world-cup-2026-even-below-associate-nations-2026-02-23-1031364",
     "time": "2026-02-23T12:00:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India coach hints at possible changes in playing XI for Zimbabwe game, says 'performances are going to talk'",
-    "desc": "After a humiliating 76-run defeat to South Africa at the Narendra Modi Stadium in Ahmedabad, India’s assistant coach Ryan ten Doeschate shared that they could tweak the playing XI in the must-win clash against Zimbabwe...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-coach-hints-at-possible-changes-in-playing-xi-for-zimbabwe-game-says-performances-are-going-to-talk-2026-02-23-1031351",
-    "time": "2026-02-23T10:37:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohammad Amir clarifies his 'slogger' remark for Abhishek Sharma, gives message to struggling opener",
-    "desc": "Pakistan speedster Mohammad Amir has given his clarification on the 'slogger' remark that he recently made for Abhishek Sharma, claiming that the opener cannot defend. Amir stated that people might have got hurt by his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-amir-clarifies-his-slogger-remark-for-abhishek-sharma-gives-message-to-struggling-opener-2026-02-23-1031340",
-    "time": "2026-02-23T09:04:24.000Z"
   }
 ];

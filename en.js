@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Maxi Shield passes away at the age of 51",
+    "desc": "Maxi Shield, the fan-favorite veteran of RuPaul’s Drag Race Down Under Season 1, has passed away at the age of 51. Known as the \"Good Girl of Drag,\" Shield’s career spanned over two decades, leaving an indelible mark on the Australian queer community long before she graced the global stage.",
+    "img": "https://static.toiimg.com/photo/msid-128735771,imgsize-74494.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/rupauls-drag-race-down-under-drag-queen-maxi-shield-passes-away-at-51/articleshow/128735771.cms",
+    "time": "2026-02-24T01:20:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taapsee starrer 'Assi' STRUGGLES to cross Rs 5 cr on Day 4",
+    "desc": "Despite its powerful theme, Taapsee Pannu’s latest film has registered a rather muted run in cinemas. Following a modest opening frame, the movie managed nearly ₹0.75 crore on Monday, pushing its India net collections to roughly ₹4.95 crore. Helmed by Anubhav Sinha in their third outing together, the film is supported by a noteworthy ensemble of actors.",
+    "img": "https://static.toiimg.com/photo/msid-128735387,imgsize-48162.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/assi-box-office-collection-day-4-taapsee-pannu-starrer-struggles-to-cross-rs-5-crore-on-first-monday/articleshow/128735387.cms",
+    "time": "2026-02-24T00:55:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jordan James Parke passes away at age 34",
+    "desc": "Jordan James Parke, the reality TV star famously known as the \"Lip King\" for his appearances on E!’s Botched, has died at the age of 34. Parke, who gained notoriety for spending over £130,000 to look like Kim Kardashian, was reportedly found unresponsive in a London apartment on February 18, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-128735268,imgsize-33230.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/botched-star-jordan-james-parke-passes-away-at-34-allegedly-after-cosmetic-procedures-two-people-arrested-report/articleshow/128735268.cms",
+    "time": "2026-02-24T00:47:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'O' Romeo' crosses Rs 90 crore worldwide on Day 11",
+    "desc": "Shahid Kapoor’s latest release, *O Romeo*, is facing a tough run at the box office, falling short of audience expectations. After a promising start, the film’s collections dropped sharply. On day 11, it managed just Rs 1.65 crore, pushing its India total to Rs 57.45 crore and worldwide gross to Rs 90.85 crore. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128735008,imgsize-31042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/o-romeo-box-office-collection-day-11-and-day-12-live-shahid-kapoor-and-triptii-dimri-starrer-crosses-rs-90-crore-worldwide-despite-major-dip/articleshow/128735008.cms",
+    "time": "2026-02-24T00:32:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It’s not as if they are Malcolm Marshall': Akhtar slams Pandya, Dube",
+    "desc": "Former Pakistan pacer Shoaib Akhtar criticised India’s bowling after their 76-run loss to South Africa, calling the attack fragile and exposed. He slammed Hardik Pandya and Shivam Dube for conceding 67 runs, saying they lacked pace and intimidation. Akhtar also criticised Varun Chakaravarthy’s costly spell and urged India to play Kuldeep Yadav, calling him the “missing link” and a proven match-winner.",
+    "img": "https://static.toiimg.com/photo/msid-128723307,imgsize-57370.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/its-not-as-if-they-are-malcolm-marshall-shoaib-akhtar-slams-hardik-pandya-shivam-dube-after-indias-poor-show/articleshow/128722966.cms",
+    "time": "2026-02-24T00:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Wednesday' S3: Winona Ryder reunites with Jenna Ortega",
+    "desc": "Hollywood actress Winona Ryder is set to appear in a special appearance in the upcoming season of the superhit streaming show ‘Wednesday'. Jenna Ortega, played Ryder’s daughter in the film, while Winona Ryder’s longtime collaborator Tim Burton directed the film and continues to direct and executive produce ‘Wednesday’.",
+    "img": "https://static.toiimg.com/photo/msid-128734695,imgsize-30422.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/wednesday-season-3-winona-ryder-oscar-morgan-join-cast-as-jenna-ortega-and-emma-myers-kick-off-production/articleshow/128734048.cms",
+    "time": "2026-02-24T00:07:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India unveils its first-ever counter-terrorism policy; proportionate reply to attacks part of 'Prahaar'",
+    "desc": "India has launched its first anti-terror policy, 'Prahaar,' adopting a proactive, intelligence-led strategy. This doctrine combats threats from hostile neighbours and modern challenges like encrypted communication and criminal networks. It emphasizes prevention, swift response, capacity building, human rights, international cooperation, and societal engagement to counter terrorism effectively.",
+    "img": "https://static.toiimg.com/photo/msid-128734255,imgsize-66728.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-unveils-its-first-ever-counter-terrorism-policy-proportionate-reply-to-attacks-part-of-prahaar/articleshow/128734192.cms",
+    "time": "2026-02-23T23:33:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Eye on boosting ties, Canada PM to embark on India visit from Feb 26",
+    "desc": "Canadian Prime Minister Mark Carney embarks on a three-day visit to India this week, aiming to strengthen bilateral ties. Discussions will focus on energy, trade, defence, and technology, with leaders reviewing a comprehensive economic partnership agreement.",
+    "img": "https://static.toiimg.com/photo/msid-128734057,imgsize-36596.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/eye-on-boosting-ties-canada-pm-to-embark-on-india-visit-from-feb-26/articleshow/128734035.cms",
+    "time": "2026-02-23T23:23:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bharat Taxi won't let drivers earn below base rate: Shah",
+    "desc": "Union Minister Amit Shah announced a minimum base fare for drivers on the Bharat Taxi platform, ensuring 80% of earnings based on kilometers driven. He also introduced a 'Saarathi Didi' feature for women prioritizing female drivers. The cooperative model aims to benefit drivers, mirroring the Amul structure with profits returning to producers.",
+    "img": "https://static.toiimg.com/photo/msid-128734023,imgsize-17938.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bharat-taxi-wont-let-drivers-earn-below-base-rate-shah/articleshow/128734013.cms",
+    "time": "2026-02-23T23:21:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No crash of LCA, just a minor incident, analysing issue: HAL",
+    "desc": "Hindustan Aeronautics Ltd (HAL) has clarified that no Tejas fighter jet crashed this month, stating the incident was a minor technical issue on the ground. The company emphasized the aircraft's strong safety record and is working with the IAF for resolution. Reports indicated a minor incident during landing, not a crash, prompting fleet checks.",
+    "img": "https://static.toiimg.com/photo/msid-128733886,imgsize-18758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-crash-of-lca-just-a-minor-incident-analysing-issue-hal/articleshow/128733891.cms",
+    "time": "2026-02-23T23:13:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Meta and WhatsApp",
+    "desc": "Social media giants Meta and WhatsApp assured the Supreme Court they will comply with tribunal orders on user data sharing for non-core services and transparent opt-out options by March 16. While the court disposed of their stay applications, the CCI highlighted the ongoing dispute over a five-year ban on data sharing for advertising, with further hearings scheduled.",
+    "img": "https://static.toiimg.com/photo/msid-128733827,imgsize-58882.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/complying-with-nclat-directions-on-privacy-meta-and-whatsapp/articleshow/128733788.cms",
+    "time": "2026-02-23T23:07:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Four-legged Army hero who led anti-terror op in J&amp;K despite taking a bullet; With Op Trashi-1, all 7 terrorists eliminated",
+    "desc": "A brave Army dog, Tyson, led the charge against terrorists in J&K's Kishtwar, sustaining a leg injury but enabling security forces to eliminate three Jaish-e-Mohammed militants. This success, 'Operation Trashi-1', highlights months of integrated planning and execution, neutralizing key leadership and showcasing remarkable inter-agency coordination.",
+    "img": "https://static.toiimg.com/photo/msid-128733694,imgsize-81860.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tyson-four-legged-army-hero-who-led-anti-terror-op-in-jk-despite-taking-a-bullet-with-op-trashi-1-all-7-terrorists-eliminated/articleshow/128733674.cms",
+    "time": "2026-02-23T23:02:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Met Gala announces 'Fashion is Art' dress code",
+    "desc": "The Metropolitan Museum of Art announced on Monday that the dress code for the Met Gala 2026 will be 'Fashion is art'. The museum announced the dress code Monday, along with some gala-related details including new guest names.",
+    "img": "https://static.toiimg.com/photo/msid-128732527,imgsize-22914.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/met-gala-announces-fashion-is-art-dress-code-beyonce-nicole-kidman-and-venus-williams-to-co-chair-event/articleshow/128732365.cms",
+    "time": "2026-02-23T22:57:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "All seven onboard Ranchi-Delhi air ambulance killed in crash near Simaria in Jharkhand’s Chatra: DC",
+    "desc": "SDPO Shubham Khandelwal said the bodies of all seven persons on board have been retrieved. They have been identified as Captain Vivek Vikas Bhagat, Captain Savrajdeep Singh, Sanjay Kumar, Dr Vikas Kumar Gupta, Sachin Kumar Mishra, Archana Devi, and Dhuru Kumar.",
+    "img": "https://th-i.thgim.com/public/incoming/y6dpn8/article70668811.ece/alternates/LANDSCAPE_1200/PTI02_24_2026_000006B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jharkhand/air-ambulance-crash-jharkhand-several-onboard-updates/article70668545.ece",
+    "time": "2026-02-23T22:28:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Taking cue from Devji, more cadres may shun Maoist ideology, join mainstream",
+    "desc": "Top CPI(Maoist) leaders, including de-facto general secretary Devji and central committee member Sangram, are expected to surrender, signaling a significant blow to the organization. This follows a series of surrenders by other key figures. The move is seen as a pragmatic choice over ideology, potentially encouraging remaining cadres to follow suit.",
+    "img": "https://static.toiimg.com/photo/msid-128732795,imgsize-13362.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/taking-cue-from-devji-more-cadres-may-shun-maoist-ideology-join-mainstream/articleshow/128732690.cms",
+    "time": "2026-02-23T22:27:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India explores ways to secure crude, LNG supplies",
+    "desc": "Amidst rising Iran-US tensions and fears of war, India is actively securing its energy supplies. With the Strait of Hormuz, a critical oil transit route, potentially facing closure, New Delhi is exploring alternative pipelines and has diversified imports. While availability isn't the primary concern, a surge in global crude prices remains a significant worry for the nation's import bill.",
+    "img": "https://static.toiimg.com/photo/msid-128732358,imgsize-122816.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tensions-rising-between-iran-and-us-india-explores-ways-to-secure-crude-lng-supplies/articleshow/128732243.cms",
+    "time": "2026-02-23T22:21:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "BAFTA apologizes to Michael B Jordan for racial slur",
+    "desc": "The BAFTA apologizes to Michael B. Jordan and Delroy Lindo for racial slur during Suday's awards show. The highly offensive word could be heard as \"Sinners\" stars Michael B. Jordan and Delroy Lindo, were presenting the award for best visual effects",
+    "img": "https://static.toiimg.com/photo/msid-128730881,imgsize-39478.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bafta-apologizes-to-michael-b-jordan-and-delroy-lindo-for-racial-slur-during-awards-show/articleshow/128730713.cms",
+    "time": "2026-02-23T22:12:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nick Reiner pleads NOT GUILTY to murder of parents",
+    "desc": "Nick Reiner has reportedly pleaded 'not guilty' in the murder of his parents, Hollywood couple Rob Reiner and Michele Singer Reiner. Currently held in prison, without bail. As per reports, a not guilty plea is common for such cases.",
+    "img": "https://static.toiimg.com/photo/msid-128730458,imgsize-25988.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rob-reiner-and-michele-singer-reiners-son-nick-reiner-pleads-not-guilty-to-charges-of-first-degree-murder/articleshow/128730144.cms",
+    "time": "2026-02-23T21:45:14.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Kuno National Park to receive eight cheetahs from Botswana on February 28",
     "desc": "Botswana is the third African nation to send cheetahs to India as part of Project Cheetah. Two batches of cheetahs have arrived from Namibia and South Africa since the project was kickstarted in September, 2022",
@@ -27,15 +189,6 @@ const newsData_en = [
     "time": "2026-02-23T20:31:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "All seven onboard Ranchi-Delhi air ambulance killed in crash near Simaria in Jharkhand’s Chatra: DC",
-    "desc": "SDPO Shubham Khandelwal said the bodies of all seven persons on board have been retrieved. They have been identified as Captain Vivek Vikas Bhagat, Captain Savrajdeep Singh, Sanjay Kumar, Dr Vikas Kumar Gupta, Sachin Kumar Mishra, Archana Devi, and Dhuru Kumar.",
-    "img": "https://th-i.thgim.com/public/incoming/bnvzg/article70668574.ece/alternates/LANDSCAPE_1200/PTI02_23_2026_000502B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jharkhand/air-ambulance-crash-jharkhand-several-onboard-updates/article70668545.ece",
-    "time": "2026-02-23T20:29:38.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Zeenat Aman sticks to her views on live-in relationships",
     "desc": "Zeenat Aman reiterates her stance on live-in relationships, emphasizing that a partnership's sanctity lies with the individuals involved, not societal or religious approval. She believes genuine connection, respect, and love are the true foundations of a fulfilling relationship, regardless of marital status.",
@@ -54,6 +207,15 @@ const newsData_en = [
     "time": "2026-02-23T19:54:03.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "Row over former BJP MP turning away Muslim women from charity event",
+    "desc": "In a video footage of the event circulated on social media, Mr. Jaunpuria was seen enquiring about the recipients’ names. When a woman identified herself as Shakuran Bano, the former MP reacted sharply, asking her to step aside and leave the blanket behind",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rajasthan/row-over-former-bjp-mp-turning-away-muslim-women-from-charity-event/article70667864.ece",
+    "time": "2026-02-23T19:49:05.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Rashmika, Vijay drop glimpses from their wedding festivities: PICS",
     "desc": "South Indian stars Rashmika Mandanna and Vijay Deverakonda have officially confirmed their wedding, set to take place in Udaipur on February 26. The couple, who reportedly got engaged in October, has shared glimpses of their pre-wedding festivities, including a pool party and decor featuring a 'Virosh' theme. The celebrations are expected to be a private affair with a royal touch.",
@@ -70,6 +232,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/uttar-pradesh/one-held-for-objectionable-social-media-post-on-pm-in-uttar-pradesh/article70668650.ece",
     "time": "2026-02-23T19:32:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rally held to urge political parties to add Tamil language conservation in their election manifestos",
+    "desc": "Among the demands of the Collective was a push for mother tongue as the medium of instruction in schools across the country, temple rituals in Tamil Nadu to be conducted in Tamil, and Tamil to be included as a compulsory subject at all colleges",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/807yk/article70668642.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-23%20at%2010.49.03%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/rally-held-to-urge-political-parties-to-add-tamil-language-conservation-in-their-election-manifestos/article70668045.ece",
+    "time": "2026-02-23T19:20:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -142,15 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/air-ambulance-with-7-on-board-crashes-in-jharkhand-shortly-after-takeoff-to-delhi/articleshow/128724859.cms",
     "time": "2026-02-23T18:01:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "PM Narendra Modi congratulates 'Boong' after win at BAFTA win",
-    "desc": "Manipuri film 'Boong' has achieved a historic win at the BAFTA Awards 2026, securing the Best Children’s and Family Film award. Produced under Farhan Akhtar's banner, the film's success has drawn congratulations from Prime Minister Narendra Modi and the entire production team, highlighting India's rich creative talent and the vibrant spirit of Manipur.",
-    "img": "https://static.toiimg.com/photo/msid-128724908,imgsize-50318.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pm-narendra-modi-congratulates-boong-after-win-at-bafta-awards-2026-indeed-a-moment-of-immense-joy/articleshow/128724802.cms",
-    "time": "2026-02-23T17:51:13.000Z"
   },
   {
     "cat": "Sports",
@@ -270,15 +432,6 @@ const newsData_en = [
     "time": "2026-02-23T16:46:23.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Why Brad and Leo are one of the best friendships in Hollywood",
-    "desc": "In the glitzy halls of Hollywood, Brad Pitt and Leonardo DiCaprio’s friendship stands out as a beacon of authenticity. Born during the making of the acclaimed 'Once Upon a Time... in Hollywood,' their bond is characterized by a deep mutual admiration and a relaxed connection that feels refreshingly real.",
-    "img": "https://static.toiimg.com/photo/msid-128706120,imgsize-51350.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/once-upon-a-time-in-hollywood-inside-brad-pitt-and-leonardo-dicaprios-bromance/articleshow/128706094.cms",
-    "time": "2026-02-23T16:25:30.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "West Indies smash second-highest T20 World Cup total",
     "desc": "West Indies delivered a historic batting performance, posting the second-highest T20 World Cup total of 254/6 against Zimbabwe. Shimron Hetmyer's blistering 85 off 34 balls, the fastest T20 World Cup fifty by a West Indian, set the stage for the monumental score.",
@@ -288,15 +441,6 @@ const newsData_en = [
     "time": "2026-02-23T16:10:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Jennifer’s journey through love, betryal and new beginnings at 57",
-    "desc": "Jennifer Aniston, at 57, has navigated a storied romantic life, from early flings with Adam Duritz and Tate Donovan to her iconic marriage with Brad Pitt. After high-profile splits, she found love again with Justin Theroux, eventually divorcing amicably. Now, Aniston appears to have found lasting happiness with hypnotherapist Jim Curtis, showcasing resilience and a focus on personal growth.",
-    "img": "https://static.toiimg.com/photo/msid-128700885,imgsize-514609.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-anistons-journey-through-love-heartbreak-and-new-beginnings-at-57/articleshow/128700900.cms",
-    "time": "2026-02-23T16:05:22.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Senior academicians call IYC protest at AI summit ‘profoundly regrettable and ill-conceived’",
     "desc": "Among the signatories of the joint statement are JNU Vice-Chancellor Santishree Dhulipudi Pandit, IIT Roorkee Director Kamal Kishore Pant, and IIT Dharwad Director Venkappayya R Desai; they said converting the event into an ‘occasion for political demonstration’ reflected a serious lack of judgment",
@@ -304,33 +448,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/senior-academicians-call-iyc-protest-at-ai-summit-profoundly-regrettable-and-ill-conceived/article70667528.ece",
     "time": "2026-02-23T16:00:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Alakh Pandey-inspired series; all episodes drop together on March 6, 2026",
-    "desc": "Mark your calendars for March 6, 2026, as Netflix unveils 'Hello Bachhon,' a captivating Hindi web series inspired by the remarkable journey of Alakh Pandey, the visionary behind PhysicsWallah. Featuring the talented Vineet Kumar Singh, this biopic follows the inspiring tale of a dedicated teacher from a quaint town aiming to transform the traditional education system.",
-    "img": "https://static.toiimg.com/photo/msid-128720613,imgsize-44304.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hello-bachhon-ott-release-when-and-where-to-watch-the-webseries-inspired-by-physicswallah-founder/articleshow/128720613.cms",
-    "time": "2026-02-23T15:44:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Top 5 South stories of the day",
-    "desc": "South cinema buzzed with activity as GKM Tamil Kumaran secured a landslide victory at TFPC elections. Meanwhile, a shocking discovery was made in Kodaikanal with the death of Vishnupriya's father. Rashmika Mandanna and Vijay Deverakonda's stylish airport look ahead of their wedding and Allu Sirish's pre-wedding bash also captured attention.",
-    "img": "https://static.toiimg.com/photo/msid-128720540,imgsize-39042.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandannavijay-deverakondas-stylish-airport-look-ahead-of-their-wedding-vishnupriyas-father-found-dead-allu-sirishs-pre-wedding-bash-top-5-south-stories-of-the-day/articleshow/128720540.cms",
-    "time": "2026-02-23T15:40:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay Deverakonda's parents demands this quality in daughter-in-law",
-    "desc": "Vijay Deverakonda and Rashmika Mandanna's wedding is set for February 26. Old statements from Vijay's parents about their ideal daughter-in-law are resurfacing. His mother desired someone who would love him unconditionally and understand his industry life. His father wished for him to marry an Indian, preferably South Indian.",
-    "img": "https://static.toiimg.com/photo/msid-128720356,imgsize-42096.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/when-vijay-deverakondas-parents-said-their-daughter-in-law-should-have-this-quality/articleshow/128720356.cms",
-    "time": "2026-02-23T15:35:01.000Z"
   },
   {
     "cat": "Politics",
@@ -369,15 +486,6 @@ const newsData_en = [
     "time": "2026-02-23T14:56:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India-Africa ties enter new strategic phase: 'South–South cooperation' and multi-sector partnership in focus",
-    "desc": "India and Africa are forging a deeper, more strategic partnership amidst global shifts, focusing on energy transition, climate action, and economic growth. With trade already exceeding $100 billion and aiming for $200 billion by 2030, collaboration in agriculture, technology, and infrastructure is key. Discussions emphasized strengthening institutional ties and leveraging shared developmental priorities for mutual benefit.",
-    "img": "https://static.toiimg.com/photo/msid-128717336,imgsize-1191090.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-africa-ties-enter-new-strategic-phase-southsouth-cooperation-and-multi-sector-partnership-in-focus/articleshow/128717398.cms",
-    "time": "2026-02-23T14:21:50.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Rashmika-Vijay to have celebration only for friends tonight",
     "desc": "Rashmika Mandanna and Vijay Deverakonda are set to marry on February 26 in Udaipur. Wedding festivities have begun with the couple arriving in the city. Family members are expected to join soon. The celebrations are taking place at ITC Mementos Udaipur. A reception is planned for March 4 in Hyderabad.",
@@ -396,15 +504,6 @@ const newsData_en = [
     "time": "2026-02-23T13:56:32.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "How Rishab Shetty manages to write, act, &amp; direct",
-    "desc": "Rishab Shetty's remarkable ability to script, direct, and act stems from approaching each project as a newcomer, prioritizing story above all. He meticulously refines the script during pre-production, believing a strong foundation is crucial. On set, Shetty micro-manages, ensuring technical excellence while allowing departments creative freedom, seamlessly transitioning between roles when needed.",
-    "img": "https://static.toiimg.com/photo/msid-128716711,imgsize-73880.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/how-kantara-star-rishab-shetty-manages-to-write-act-and-direct-all-at-once/articleshow/128716711.cms",
-    "time": "2026-02-23T13:45:47.000Z"
-  },
-  {
     "cat": "World",
     "title": "Israeli settlers attack West Bank mosque, local officials and army say",
     "desc": "\"The Ministry of Endowments and Religious Affairs condemned the attempt by a group of settlers to set fire to a part of the Abu Bakr al-Siddiq Mosque in the village of Tell, near Nablus, and the writing of racist slogans on its walls,\" says the Ministry",
@@ -412,15 +511,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/israeli-settlers-attack-west-bank-mosque-local-officials-and-army-say/article70667386.ece",
     "time": "2026-02-23T13:39:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranveer moves to Karnataka HC to quash case over ‘Kantara’ mimicry",
-    "desc": "Actor Ranveer Singh approached the Karnataka High Court to quash a criminal case filed against him for allegedly hurting religious sentiments by imitating a deity from 'Kantara Chapter 1'. His legal team argued it was a sincere tribute, not an insult, and that police notices caused undue stress.",
-    "img": "https://static.toiimg.com/photo/msid-128716393,imgsize-25884.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-moves-to-karnataka-hc-to-quash-case-over-kantara-mimicry-seeks-immediate-hearing-but-the-court-says-no-special-treatment/articleshow/128716189.cms",
-    "time": "2026-02-23T13:32:13.000Z"
   },
   {
     "cat": "Sports",
@@ -459,15 +549,6 @@ const newsData_en = [
     "time": "2026-02-23T12:40:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Need of the hour': Cong faces fresh demand in Karnataka; first-time MLAs seek ministerial berths",
-    "desc": "First-time Congress MLAs in Karnataka have urged party leaders, including Mallikarjun Kharge and Rahul Gandhi, to induct at least five debutant legislators into the state Cabinet during an upcoming reshuffle. They argue that 38 first-time MLAs were elected, reflecting a public desire for new faces in governance.",
-    "img": "https://static.toiimg.com/photo/msid-128714457,imgsize-56246.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/need-of-the-hour-cong-faces-fresh-demand-in-karnataka-first-time-mlas-seek-ministerial-berths/articleshow/128712900.cms",
-    "time": "2026-02-23T12:35:42.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Trump rants against SC ruling, warns of 'more powerful, obnoxious' tariffs",
     "desc": "President Trump launched a scathing attack on the Supreme Court, labeling it \"incompetent\" and \"ridiculous\" after it struck down his tariffs. He claimed the ruling inadvertently granted him broader presidential powers, particularly in trade policy through licensing tools, while criticizing the court's decision-making.",
@@ -486,15 +567,6 @@ const newsData_en = [
     "time": "2026-02-23T12:25:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Canada PM Mark Carney to visit India on February 26; trade deal, defence pact in focus",
-    "desc": "Canadian Prime Minister Mark Carney will embark on a diplomatic tour of India, Australia, and Japan from February 26 to March 7, 2026. In India, he will meet with Prime Minister Narendra Modi to strengthen bilateral ties, focusing on new partnerships in trade, energy, technology, AI, talent, culture, and defence.",
-    "img": "https://static.toiimg.com/photo/msid-128713865,imgsize-37184.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/canada-pm-mark-carney-to-visit-india-on-february-26-trade-deal-defence-pact-in-focus/articleshow/128713539.cms",
-    "time": "2026-02-23T12:23:43.000Z"
-  },
-  {
     "cat": "World",
     "title": "Mexico fears more violence after army kills powerful drug lord El Mencho",
     "desc": "Authorities in Jalisco, Michoacan and Guanajuato reported at least 14 other people killed on February 22, including seven National Guard troops; videos circulating on social media showed tourists in Puerto Vallarta walking on the beach with smoke rising in the distance",
@@ -502,15 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/mexico-fears-more-violence-after-army-kills-powerful-drug-lord-el-mencho/article70665746.ece",
     "time": "2026-02-23T12:19:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay as Tony and Sudev Nair as Karmadi",
-    "desc": "In a thrilling announcement, Akshay Oberoi and Sudev Nair take center stage as Tony and Karmadi in Yash's eagerly awaited action epic, 'Toxic'. The newly unveiled character posters highlight the unique traits of both roles, while director Geetu Mohandas commends the exceptional performances of the lead actors.",
-    "img": "https://static.toiimg.com/photo/msid-128714413,imgsize-36406.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/toxic-akshay-oberoi-as-tony-and-sudev-nair-as-karmadi-add-swag-to-the-world-of-yashs-film-first-look-out/articleshow/128713188.cms",
-    "time": "2026-02-23T12:13:34.000Z"
   },
   {
     "cat": "Business",
@@ -531,24 +594,6 @@ const newsData_en = [
     "time": "2026-02-23T11:52:17.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Time for digital media to lead change, not just react to it",
-    "desc": "India's digital news industry faces a critical juncture in 2026, with converging challenges in AI, advertiser demands, and audience trust. The upcoming DNPA Conclave 2026 will address these issues, urging a shift from reactive adaptation to proactive strategy. Publishers must now move beyond experimentation to make foundational decisions shaping the future of news.",
-    "img": "https://static.toiimg.com/photo/msid-128712550,imgsize-321764.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dnpa-conclave-2026-time-for-digital-media-to-lead-change-not-just-react-to-it/articleshow/128712547.cms",
-    "time": "2026-02-23T11:46:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NEET-PG cut-off row: Exam doesn't certify competence, says Centre; SC says will examine impact on quality",
-    "desc": "The Centre defended its decision to lower NEET-PG qualifying percentiles before the Supreme Court, stating the exam generates a merit list for limited seats, not certify minimum competence. The government argued that licensed MBBS doctors are already qualified and supervised during postgraduate studies, addressing concerns about patient safety due to vacant seats.",
-    "img": "https://static.toiimg.com/photo/msid-128710328,imgsize-23642.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/neet-pg-cut-off-row-exam-doesnt-certify-competence-says-centre-sc-says-will-examine-impact-on-quality/articleshow/128709656.cms",
-    "time": "2026-02-23T11:15:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How South Africa outsmarted a clueless India in Ahmedabad",
     "desc": "South Africa's tactical approach, mirroring other teams, exploited India's predictable batting order and poor shot selection. India's over-reliance on left-handers and lack of a Plan B proved costly, leading to a significant defeat in the T20 World Cup Super Eight. India now face crucial selection decisions for the game against Zimbabwe to address these vulnerabilities.",
@@ -556,15 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-how-south-africa-outsmarted-a-clueless-india-in-ahmedabad/articleshow/128709962.cms",
     "time": "2026-02-23T11:02:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'What has he lacked as LoP?': Omar Abdullah backs Rahul Gandhi amid Mani Aiyar's remarks on INDIA bloc leadership",
-    "desc": "Jammu and Kashmir CM Omar Abdullah defended Rahul Gandhi's role as Lok Sabha LoP, questioning what more is expected of him in challenging the BJP. Abdullah dismissed veteran Congress leader Mani Shankar Aiyar's suggestion of Mamata Banerjee leading the INDIA bloc as a personal opinion, emphasizing collective decision-making within the alliance.",
-    "img": "https://static.toiimg.com/photo/msid-128710680,imgsize-68346.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/what-has-he-lacked-as-lop-omar-abdullah-backs-rahul-gandhi-amid-mani-aiyars-remarks-on-india-bloc-leadership/articleshow/128709715.cms",
-    "time": "2026-02-23T10:56:58.000Z"
   },
   {
     "cat": "Sports",
@@ -700,15 +736,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/what-are-the-key-takeaways-from-ai-summit-explained/article70661026.ece",
     "time": "2026-02-23T04:04:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How can Team India reach T20 WC semi-final?",
-    "desc": "India's T20 World Cup 2026 semi-final hopes are in jeopardy following a significant 76-run defeat to South Africa. Chasing 188, India crumbled to 111, with Marco Jansen taking four wickets. This loss severely impacted India's Net Run Rate, leaving them needing crucial wins against the West Indies and Zimbabwe to advance.",
-    "img": "https://static.toiimg.com/photo/msid-128697967,imgsize-161572.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-qualification-scenario-how-can-team-india-reach-t20-world-cup-2026-semi-final/articleshow/128697937.cms",
-    "time": "2026-02-23T03:51:45.000Z"
   },
   {
     "cat": "World",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-match-preview-sri-lanka-england-face-off-set-to-be-a-middle-overs-tussle/article70661409.ece",
     "time": "2026-02-21T21:38:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Osasuna stun Real Madrid 2-1 to blow LaLiga title race open",
-    "desc": "Osasuna went in front in the 34th ​minute after ‌a VAR review showed keeper Real keeper Thibaut Courtois had stood on Budimir's ‌foot. The referee overturned an ​initial booking for simulation and Budimir calmly ⁠converted the spot-kick.",
-    "img": "https://th-i.thgim.com/public/incoming/vf16fv/article70661301.ece/alternates/LANDSCAPE_1200/2026-02-21T195849Z_619063769_UP1EM2L1EN8U7_RTRMADP_3_SOCCER-SPAIN-OSA-RMA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/osasuna-stun-real-madrid-2-1-to-blow-laliga-title-race-open/article70661297.ece",
-    "time": "2026-02-21T20:36:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Alcaraz downs Fils to win Qatar Open, extends perfect start to the year",
-    "desc": "With ‌the win, Alcaraz improved to 12-0 ​for the year and collected his ninth ATP ⁠500 trophy, which drew him level ⁠with Andy Murray for fourth in the category ‌since its inception, according to the ATP.",
-    "img": "https://th-i.thgim.com/public/incoming/s8pv1a/article70661299.ece/alternates/LANDSCAPE_1200/2026-02-21T195611Z_876400215_UP1EM2L1IAY27_RTRMADP_3_TENNIS-DOHA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/tennis/alcaraz-downs-fils-to-win-qatar-open-extends-perfect-start-to-the-year/article70661298.ece",
-    "time": "2026-02-21T20:32:27.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Ghislaine Maxwell fights release of more Epstein documents, calling disclosure law unconstitutional",
-    "desc": "Lawyers for imprisoned British socialite Ghislaine Maxwell are fighting the requested release of 90,000 pages related to Jeffrey Epstein, saying a law used to force the recent public release of millions of documents is unconstitutional",
-    "img": "https://th-i.thgim.com/public/incoming/qdwlbj/article70661294.ece/alternates/LANDSCAPE_1200/Justice_Department_Jeffrey_Epstein_43019.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/ghislaine-maxwell-fights-release-of-more-epstein-documents-calling-disclosure-law-unconstitutional/article70661292.ece",
-    "time": "2026-02-21T20:00:45.000Z"
   }
 ];
