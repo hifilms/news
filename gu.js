@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "લાખોનું દેવું કરીને એર એમ્બ્યુલન્સ બુક કરાવી હતી, પાઈલોટ સહિત 7 લોકોના દર્દનાક મોત",
+    "desc": "ઝારખંડથી દિલ્હી જવા ઉડેલી એર એમ્બ્યુલન્સ વચ્ચે જંગલોમાં જ તૂટી પડી અને દર્દી સહિત 7 લોકોના ઘટનાસ્થળે જ મોત નિપજ્યા. આ ઘટનાનો એક દર્દનાક પહેલું સામે આવ્યો છે જેમાં દર્દીના પરિવારે દેવું કરીને આ એર એમ્બ્યુલન્સ કરી હતી. છતાં જીવ બચી શક્યો નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/air-ambulance-crash-update-it-was-booked-by-taking-a-debt-of-lakhs-7-people-died-in-a-tragic-accident-466030 ",
+    "time": "2026-02-24T04:48:34.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "વળી પાછા આજે સોના-ચાંદી સસ્તા થયા, હાઈથી સોનું 20000 અને ચાંદી 1.54 લાખ સસ્તા, જાણો આજનો લેટેસ્ટ રેટ",
+    "desc": "સોના અને ચાંદીમાં છેલ્લા ઘણા સમયથી ભયંકર ઉતાર ચડાવ જોવા મળી રહ્યા છે. આજે વાયદા બજારમાં ભાવ લાલ નિશાન સાથે ખુલ્યા. આમ છતાં ભાવ હજું પણ સામાન્ય માણસની પહોંચ બહાર લાગી રહ્યા છે. નાણામંત્રીએ સોના ચાંદીના ભાવમાં વધારા પાછળ એક મોટું કારણ ગણાવ્યું. ત્યારે આજે ભાવમાં શું ફેરફાર છે અને ભાવ કેમ વધી રહ્યા છે એ કારણ પણ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-silver-rate-big-breaking-became-cheaper-again-today-silver-1-54-lakh-cheaper-from-all-time-high-know-latest-rate-466025 ",
+    "time": "2026-02-24T03:57:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "8th Pay Commission પર મોટા અપડેટ, શું લેવલ 1થી 18 માટે અલગ અલગ ફિટમેન્ટ ફેક્ટર હશે? ખાસ જાણો આ માહિતી",
+    "desc": "આઠમાં પગાર પંચના લાગૂ થવાની આતુરતાપૂર્વક કેન્દ્રી કર્મચારીઓ રાહ જુએ છે. ત્યારે એક મહત્વની બેઠક 25મી ફેબ્રુઆરીએ થશે જેમાં ફિટમેન્ટ ફેક્ટર પર વાતચીત શક્ય છે. પગાર વધારા માટે જરૂરી ફિટમેન્ટ ફેક્ટર પર એક મહત્વના અપડેટ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-update-on-8th-pay-commission-will-there-be-different-fitment-factors-for-levels-1-to-18-466022 ",
+    "time": "2026-02-24T03:34:50.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "રાંચીથી દિલ્હી જતી એર એમ્બ્યુલન્સ ઝારખંડના ચતરામાં ક્રેશ, પ્લેનમાં સાત લોકો હતા સવાર",
     "desc": "રાંચીથી દિલ્હી જઈ રહેલી એક એર એમ્બ્યુલન્સ સોમવાર સાંજે ચતરા જિલ્લાના સિમરિયામાં ક્રેશ થઈ છે. પ્લેનનો સંપર્ક ટેકઓફના થોડા સમય બાદ જ ATCથી તૂટી ગયો હતો. એરપોર્ટ ડાયરેક્ટરે આ દુર્ઘટનાની પુષ્ટિ કરી છે. હાલમાં સ્થાનિક વહીવટીતંત્ર અને પોલીસની ટીમો જંગલોમાં રાહત કામગીરી હાથ ધરી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -547,15 +574,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/rocking-star-yash-upcoming-film-toxic-teaser-released-film-toxic-will-be-release-on-19-march-2026-465606 ",
     "time": "2026-02-20T06:54:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "આજે સોના-ચાંદીના ભાવ વધ્યા, નવી ભવિષ્યવાણી ચોંકાવનારી, બંપર તેજી આવશે પરંતુ અચાનક 30% ભાવ તૂટશે!",
-    "desc": "સોના અને ચાંદીના ભાવમાં સતત ઉતાર ચડાવ જોવા મળી રહ્યા છે. કાલે વાયદા બજારમાં સોનું ગગડીને બંધ થયું હતું. જ્યારે આજે સોનું અને ચાંદી બંને લીલા નિશાનમાં જોવા મળ્યા છે. જ્યારે રિટેલ બજારમાં કાલે સોનું-ચાંદી ઘટીને બંધ થયા હતા. આ ઉપરાંત એક રિપોર્ટમાં સોનામાં આગળ સુપરતેજી અને 30 ટકા ઘટાડાની પણ આશંકા રજૂ કરવામાં આવી છે તેના વિશે પણ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-jumps-today-new-prediction-is-shocking-check-latest-rates-aaj-no-sona-chandi-no-bhav-465594 ",
-    "time": "2026-02-20T04:19:53.000Z"
   },
   {
     "cat": "World",

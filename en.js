@@ -1,6 +1,231 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Priyanka opens up about 'Piggy Chops' tag; fans point to Jr AB",
+    "desc": "Priyanka Chopra Jonas recently opened up about some of her most iconic nicknames, from the affectionate 'Mimi' to the notorious 'Piggy Chops,' reportedly coined by a co-star. While promoting her upcoming adventure film 'The Bluff' alongside Karl Urban, she playfully revisited the stories behind these names, leaving Urban in splits. Read on to know more in details.",
+    "img": "https://static.toiimg.com/photo/msid-128739931,imgsize-37302.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-reveals-a-co-star-gave-her-the-nickname-piggy-chops-netizens-mention-abhishek-bachchan/articleshow/128739931.cms",
+    "time": "2026-02-24T04:40:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TMC calls for 'thorough, transparent' probe into Jharkhand air ambulance crash",
+    "desc": "“We urge the authorities to conduct a thorough and transparent investigation to ascertain the precise cause of the crash, and to ensure that robust safeguards are put in place to prevent such tragedies in the future,” TMC said",
+    "img": "https://th-i.thgim.com/public/incoming/9214lr/article70669754.ece/alternates/LANDSCAPE_1200/PTI02_24_2026_000017B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-air-ambulance-crash-tmc-calls-for-probe/article70669733.ece",
+    "time": "2026-02-24T04:36:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India rethink options as left-heavy top order keeps misfiring",
+    "desc": "India's T20 World Cup campaign faces a crisis as the much-hyped top order falters, leading to predictable collapses and growing doubts. Opposition teams have easily decoded the batting lineup, forcing management to consider significant changes. The team's batting coach acknowledges the need for a different approach, hinting at potential alterations for upcoming crucial matches.",
+    "img": "https://static.toiimg.com/photo/msid-128739862,imgsize-48758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/wobble-at-the-top-india-rethink-options-as-left-heavy-top-order-keeps-misfiring/articleshow/128739866.cms",
+    "time": "2026-02-24T04:28:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bodies of seven killed brought to hospital for post-mortem",
+    "desc": "SDPO Shubham Khandelwal said the bodies of all seven persons on board have been retrieved. They have been identified as Captain Vivek Vikas Bhagat, Captain Savrajdeep Singh, Sanjay Kumar, Dr Vikas Kumar Gupta, Sachin Kumar Mishra, Archana Devi, and Dhuru Kumar.",
+    "img": "https://th-i.thgim.com/public/incoming/985t9o/article70669769.ece/alternates/LANDSCAPE_1200/PTI02_24_2026_000026A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jharkhand/air-ambulance-crash-jharkhand-several-onboard-updates/article70668545.ece",
+    "time": "2026-02-24T04:21:33.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Taiwan seeks U.S. assurances tariff deal terms will not change",
+    "desc": "U.S. President Donald Trump on February 23, 2026 warned countries against backing away from recently negotiated trade deals with the U.S., saying that he would hit them ‌with much higher duties under different trade laws",
+    "img": "https://th-i.thgim.com/public/incoming/9053tb/article70669757.ece/alternates/LANDSCAPE_1200/2026-02-23T164258Z_1095765124_RC2SRJA7J4BO_RTRMADP_3_USA-TRUMP.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/taiwan-seeks-us-assurances-tariff-deal-terms-will-not-change/article70669728.ece",
+    "time": "2026-02-24T04:18:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Shirtless' protest at AI summit: Youth Congress chief Uday Bhanu Chib arrested",
+    "desc": "Delhi Police have apprehended Indian Youth Congress National President Uday Bhanu Chib following a protest at Bharat Mandapam. The incident involved a shirtless demonstration inside an AI expo hall, with slogans targeting the Prime Minister. Chib's arrest brings the total detentions in the case to eight, including other IYC office-bearers.",
+    "img": "https://static.toiimg.com/photo/msid-128739651,imgsize-931266.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/shirtless-protest-at-ai-summit-youth-congress-chief-uday-bhanu-chib-arrested/articleshow/128739657.cms",
+    "time": "2026-02-24T04:17:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM Gupta",
+    "desc": "Delhi Chief Minister Rekha Gupta pledged to resolve past governmental issues, assuring BJP workers that extensive development work would ensure public support in future elections. Highlighting the government's dedicated efforts since its formation on February 20, 2025, Gupta presented a one-year report card during a public outreach program across the capital.",
+    "img": "https://static.toiimg.com/photo/msid-128739631,imgsize-900786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/delhi-govt-working-to-resolve-all-pending-problems-cm-gupta/articleshow/128739611.cms",
+    "time": "2026-02-24T04:15:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tom Hanks to play Abraham Lincoln in next",
+    "desc": "Tom Hanks will portray Abraham Lincoln in the upcoming film adaptation of 'Lincoln in the Bardo,' a visually inventive blend of live action and animation that delves into the president’s anguish after the death of his son. The project marks Hanks’ first time playing a U.S.",
+    "img": "https://static.toiimg.com/photo/msid-128739132,imgsize-22090.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-hanks-to-play-abraham-lincoln-in-film-adaptation-of-lincoln-in-the-bardo/articleshow/128738632.cms",
+    "time": "2026-02-24T04:05:51.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Ousted South Korean President Yoon appeals life sentence for martial law decree",
+    "desc": "“We will never be silent about what we view as an excessive indictment by a special prosecutor, the contradictory judgment rendered by the lower court based on that premise, and its political circumstances,” Mr. Yoon’s legal team said",
+    "img": "https://th-i.thgim.com/public/incoming/rwf0di/article70669693.ece/alternates/LANDSCAPE_1200/South-Korean-coGVSFK2EVQ.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/former-south-korean-president-yoon-appeals-life-sentence-for-martial-law-decree/article70669689.ece",
+    "time": "2026-02-24T04:05:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "John Davidson issues statement after BAFTA event",
+    "desc": "Tourette's advocate John Davidson has issued a statement following his involuntary outbursts at the BAFTAs. He expressed gratitude for the audience's understanding, noting pre-event announcements about his condition. Davidson revealed he left early due to distress caused by his tics, including a viral incident involving the n-word. The BBC apologized for not editing out such moments.",
+    "img": "https://static.toiimg.com/photo/msid-128738958,imgsize-35666.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tourettes-advocate-john-davidson-addresses-bafta-incident-says-i-was-aware-of-the-distress-my-tics-were-causing/articleshow/128738958.cms",
+    "time": "2026-02-24T04:05:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kelly Osbourne slams trolls for body-shaming comments",
+    "desc": "Kelly Osbourne has publicly called out online abusers who targeted her with harsh body-shaming comments after a recent outing. In the wake of her father’s death, she shared examples of the messages she received, underscoring how heartless it is to ridicule someone’s appearance during a period of grief.",
+    "img": "https://static.toiimg.com/photo/msid-128739010,imgsize-82254.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/no-one-deserves-this-abuse-kelly-osbourne-blasts-trolls-on-social-media-for-disgusting-body-shaming-comments/articleshow/128738996.cms",
+    "time": "2026-02-24T03:49:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Was in touch with Hafiz Saeed’: How LeT's Shabir Ahmed Lone is linked to 8 held for plotting terror attack in India",
+    "desc": "Delhi Police has busted a Bangladesh terror module run by Shabir Ahmed Lone, who was in direct contact with LeT commander Hafeez Saeed. Lone, a Kashmiri resident, was released on bail in 2019 and fled to Bangladesh. He was tasked with recruiting and radicalizing illegal Bangladeshi migrants in India, arranging fake IDs and weapons for potential attacks.",
+    "img": "https://static.toiimg.com/photo/msid-128738371,imgsize-1222101.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/was-in-touch-with-hafiz-saeed-how-lets-shabir-ahmed-lone-is-linked-to-8-held-for-plotting-terror-attack-in-india/articleshow/128738342.cms",
+    "time": "2026-02-24T03:47:03.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "North Korea leader's sister promoted at party congress",
+    "desc": "The Workers’ Party Central Committee, on February 23, named Kim Yo Jong, previously a deputy department director, as a full department director, KCNA said; She has long been among her brother’s closest lieutenants and one of the most influential women in the isolated regime",
+    "img": "https://th-i.thgim.com/public/incoming/k76yfy/article70669630.ece/alternates/LANDSCAPE_1200/2026-02-12T215317Z_1694556516_RC2KKJANAUK3_RTRMADP_3_NORTHKOREA-SOUTHKOREA-POLITICS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/north-korea-leaders-sister-promoted-at-party-congress/article70669616.ece",
+    "time": "2026-02-24T03:39:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tara Sutaria BUYS her FIRST home in Mumbai amid breakup rumors",
+    "desc": "her very own home in Mumbai. Sharing snapshots of the cozy, retro-themed apartment—complete with an elegant grand piano—she drew an outpouring of love and congratulations from fellow Bollywood stars. Read the full article to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128738375,imgsize-88052.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tara-sutaria-buys-her-first-home-in-mumbai-amid-breakup-rumors-with-veer-pahariya-gives-house-tour-through-pictures/articleshow/128738375.cms",
+    "time": "2026-02-24T03:29:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rally held to urge political parties to add Tamil language conservation in their election manifestos",
+    "desc": "Among the demands of the Collective was a push for mother tongue as the medium of instruction in schools across the country, temple rituals in Tamil Nadu to be conducted in Tamil, and Tamil to be included as a compulsory subject at all colleges",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/807yk/article70668642.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-23%20at%2010.49.03%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/rally-held-to-urge-political-parties-to-add-tamil-language-conservation-in-their-election-manifestos/article70668045.ece",
+    "time": "2026-02-24T03:10:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shikhar slams fake quotes after wedding to Sophie, urges ‘love and positivity’",
+    "desc": "Shikhar Dhawan has publicly refuted fabricated social media quotes concerning his personal life post-marriage to Sophie Shine. The cricketer expressed disappointment over misinformation, emphasizing his respect for the past and his focus on a positive new chapter. He urged fans to avoid spreading false statements and instead promote love and positivity, thanking them for their support.",
+    "img": "https://static.toiimg.com/photo/msid-128737962,imgsize-75676.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/shikhar-dhawan-slams-fake-quotes-after-wedding-to-sophie-shine-urges-love-and-positivity/articleshow/128737941.cms",
+    "time": "2026-02-24T03:02:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Queen Charlotte and Lady Danbury’s ‘juicy conflict’",
+    "desc": "The unshakable alliance between Queen Charlotte and Lady Danbury will be put to the test in 'Bridgerton' season 4. Golda Rosheuvel has teased a surprising twist that ignites a fierce clash between the longtime confidantes, disrupting their usual balance of power.",
+    "img": "https://static.toiimg.com/photo/msid-128737670,imgsize-1158856.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/bridgerton-season-4-queen-charlotte-and-lady-danburys-friendship-set-to-see-a-juicy-conflict/articleshow/128737670.cms",
+    "time": "2026-02-24T02:51:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rakul IGNORED by Lakshay Jaggi on stage? Influencer REACTS",
+    "desc": "Social media influencer Lakshay Jaggi has addressed a viral clip showing him seemingly snubbing actress Rakul Preet Singh at an awards ceremony. He clarified that he was merely following the example of a previous award recipient who chose not to shake hands, and that his intention was only to collect his award and exit the stage, not to offend anyone.",
+    "img": "https://static.toiimg.com/photo/msid-128737248,imgsize-39758.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rakul-preet-singh-was-ignored-by-lakshay-jaggi-at-an-award-function-influencer-finally-reacts-after-video-goes-viral/articleshow/128737248.cms",
+    "time": "2026-02-24T02:43:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Once touted as generational talent, now a burden",
+    "desc": "Once hailed as Pakistan’s next batting great, Babar Azam now finds himself under intense scrutiny. Despite towering career numbers, his poor strike rate, powerplay struggles, and inability to adapt to modern T20 demands have eroded his aura. As Pakistan rethink roles and combinations, Babar’s place, purpose, and future in the format hang in the balance.",
+    "img": "https://static.toiimg.com/photo/msid-128717043,imgsize-74034.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/decline-of-babar-azam-once-touted-as-generational-talent-now-a-burden/articleshow/128716508.cms",
+    "time": "2026-02-24T02:30:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Tarique Rahman government carries out changes in armed forces and the International Crimes Tribunal",
+    "desc": "These changes have taken place almost simultaneously with the announcement that the new government will examine all the legal cases that have been filed against journalists and business persons after the uprising of August 5, 2024.",
+    "img": "https://th-i.thgim.com/public/incoming/fmbij7/article70668624.ece/alternates/LANDSCAPE_1200/2026-02-17T200400Z_686471934_RC2VNJAOAKIW_RTRMADP_3_BANGLADESH-ELECTION-INAUGURATION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/tarique-rahman-government-carries-out-changes-in-armed-forces-and-the-international-crimes-tribunal/article70668076.ece",
+    "time": "2026-02-24T02:29:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Zakir Khan clarifies why he is going on hiatus from comedy",
+    "desc": "Comedian Zakir Khan has addressed rumors surrounding his comedy hiatus, clarifying that online claims about his health are false. He revealed the break is primarily due to a backlog of writing projects he couldn't pursue for six years. While acknowledging minor health concerns, Khan assured fans he's committed to performing for years to come.",
+    "img": "https://static.toiimg.com/photo/msid-128737140,imgsize-49900.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/zakir-khan-shares-the-real-reason-behind-the-hiatus-after-health-rumours-go-viral-jo-internet-pe-padha-hai-woh-jhooth-hai/articleshow/128737140.cms",
+    "time": "2026-02-24T02:28:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kanye West to face trial over USD 1 million lawsuit",
+    "desc": "Kanye West may just be heading to court and may also testify in an ongoing USD 1 million lawsuit by a former employee over unpaid wages. In the latest update on the suit filed by Tony Saxon in 2023, jury selection is set to begin on February 23, with Judge Brock T Hammond presiging over the case.",
+    "img": "https://static.toiimg.com/photo/msid-128736195,imgsize-35448.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kanye-west-to-face-trial-over-usd-1-million-lawsuit-ex-employee-sues-rapper-over-unpaid-wages/articleshow/128730147.cms",
+    "time": "2026-02-24T02:11:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock market recommendations for February 24, 2026",
+    "desc": "Somil Mehta, Head - Alternate Research, Capital Market Strategy, Mirae Asset Sharekhan recommends GMR Airports, Kotak Mahindra Bank, and L&T Finance as the top stock picks you can consider for February 24, 2026. He provides detailed target and stop loss levels:",
+    "img": "https://static.toiimg.com/photo/msid-128737868,imgsize-75496.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-february-24-2026-gmr-airports-kotak-mahindra-bank-lt-finance-stocks-to-buy-today/articleshow/128719509.cms",
+    "time": "2026-02-24T02:02:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Breaking down Rajpal Yadav's fees from last 5 big films",
+    "desc": "Actor Rajpal Yadav faces a Rs 9 crore cheque bounce case, leading to a surrender at Tihar Jail and subsequent bail for his niece's wedding. The next hearing is March 18, 2026. His earnings from recent big-budget films reportedly range from Rs 1 crore to Rs 3 crore per project. Read the full article to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-128736163,imgsize-24502.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/breaking-down-rajpal-yadavs-fees-from-last-five-big-budget-films-amid-rs-9-crore-cheque-bounce-controversy/articleshow/128736163.cms",
+    "time": "2026-02-24T01:42:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will rain play spoilsport in PAK vs ENG T20 World Cup Super 8 clash?",
+    "desc": "The Pakistan vs England T20 World Cup Super 8 match in Kandy is expected to be played under favourable weather conditions. Temperatures will be around 19°C with mostly clear skies and light winds. Rain chances are low at 13%, with minimal thunderstorm risk. Weather interruptions are unlikely, so a full 20-over match is expected, shifting focus to pitch conditions and team performance.",
+    "img": "https://static.toiimg.com/photo/msid-128709824,imgsize-331826.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pakistan-vs-england-weather-update-will-rain-play-spoilsport-in-pak-vs-eng-kandy-t20-world-cup-super-8-clash/articleshow/128709691.cms",
+    "time": "2026-02-24T01:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Maxi Shield passes away at the age of 51",
     "desc": "Maxi Shield, the fan-favorite veteran of RuPaul’s Drag Race Down Under Season 1, has passed away at the age of 51. Known as the \"Good Girl of Drag,\" Shield’s career spanned over two decades, leaving an indelible mark on the Australian queer community long before she graced the global stage.",
     "img": "https://static.toiimg.com/photo/msid-128735771,imgsize-74494.cms",
@@ -45,13 +270,13 @@ const newsData_en = [
     "time": "2026-02-24T00:30:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Wednesday' S3: Winona Ryder reunites with Jenna Ortega",
-    "desc": "Hollywood actress Winona Ryder is set to appear in a special appearance in the upcoming season of the superhit streaming show ‘Wednesday'. Jenna Ortega, played Ryder’s daughter in the film, while Winona Ryder’s longtime collaborator Tim Burton directed the film and continues to direct and executive produce ‘Wednesday’.",
-    "img": "https://static.toiimg.com/photo/msid-128734695,imgsize-30422.cms",
+    "cat": "Sports",
+    "title": "How can Team India reach T20 World Cup semi-final after West Indies win?",
+    "desc": "Team India faces a tough path to the T20 World Cup 2026 semi-finals after a significant 76-run loss to South Africa. Currently third in Group 1, India must win both remaining matches to keep their hopes alive. A single victory will see them eliminated, making their upcoming games crucial for qualification.",
+    "img": "https://static.toiimg.com/photo/msid-128724254,imgsize-92938.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/wednesday-season-3-winona-ryder-oscar-morgan-join-cast-as-jenna-ortega-and-emma-myers-kick-off-production/articleshow/128734048.cms",
-    "time": "2026-02-24T00:07:37.000Z"
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-qualification-scenario-how-can-team-india-reach-t20-world-cup-2026-semi-final-after-west-indies-win/articleshow/128724033.cms",
+    "time": "2026-02-23T23:41:00.000Z"
   },
   {
     "cat": "Politics",
@@ -61,6 +286,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/india-unveils-its-first-ever-counter-terrorism-policy-proportionate-reply-to-attacks-part-of-prahaar/articleshow/128734192.cms",
     "time": "2026-02-23T23:33:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It's not all about Usman Tariq': England fire warning ahead of Pakistan Super 8s clash",
+    "desc": "England spinner Liam Dawson insists the team will focus on Pakistan's entire spin attack, not just mystery bowler Usman Tariq, ahead of their crucial T20 World Cup Super Eights match. Dawson highlighted England's own diverse spin options and their experience as key strengths for the upcoming encounter.",
+    "img": "https://static.toiimg.com/photo/msid-128723812,imgsize-74644.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/its-not-all-about-usman-tariq-england-fire-warning-ahead-of-pakistan-super-8s-clash/articleshow/128723720.cms",
+    "time": "2026-02-23T23:31:00.000Z"
   },
   {
     "cat": "Politics",
@@ -108,24 +342,6 @@ const newsData_en = [
     "time": "2026-02-23T23:02:07.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Met Gala announces 'Fashion is Art' dress code",
-    "desc": "The Metropolitan Museum of Art announced on Monday that the dress code for the Met Gala 2026 will be 'Fashion is art'. The museum announced the dress code Monday, along with some gala-related details including new guest names.",
-    "img": "https://static.toiimg.com/photo/msid-128732527,imgsize-22914.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/met-gala-announces-fashion-is-art-dress-code-beyonce-nicole-kidman-and-venus-williams-to-co-chair-event/articleshow/128732365.cms",
-    "time": "2026-02-23T22:57:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "All seven onboard Ranchi-Delhi air ambulance killed in crash near Simaria in Jharkhand’s Chatra: DC",
-    "desc": "SDPO Shubham Khandelwal said the bodies of all seven persons on board have been retrieved. They have been identified as Captain Vivek Vikas Bhagat, Captain Savrajdeep Singh, Sanjay Kumar, Dr Vikas Kumar Gupta, Sachin Kumar Mishra, Archana Devi, and Dhuru Kumar.",
-    "img": "https://th-i.thgim.com/public/incoming/y6dpn8/article70668811.ece/alternates/LANDSCAPE_1200/PTI02_24_2026_000006B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jharkhand/air-ambulance-crash-jharkhand-several-onboard-updates/article70668545.ece",
-    "time": "2026-02-23T22:28:23.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Taking cue from Devji, more cadres may shun Maoist ideology, join mainstream",
     "desc": "Top CPI(Maoist) leaders, including de-facto general secretary Devji and central committee member Sangram, are expected to surrender, signaling a significant blow to the organization. This follows a series of surrenders by other key figures. The move is seen as a pragmatic choice over ideology, potentially encouraging remaining cadres to follow suit.",
@@ -144,24 +360,6 @@ const newsData_en = [
     "time": "2026-02-23T22:21:26.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "BAFTA apologizes to Michael B Jordan for racial slur",
-    "desc": "The BAFTA apologizes to Michael B. Jordan and Delroy Lindo for racial slur during Suday's awards show. The highly offensive word could be heard as \"Sinners\" stars Michael B. Jordan and Delroy Lindo, were presenting the award for best visual effects",
-    "img": "https://static.toiimg.com/photo/msid-128730881,imgsize-39478.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bafta-apologizes-to-michael-b-jordan-and-delroy-lindo-for-racial-slur-during-awards-show/articleshow/128730713.cms",
-    "time": "2026-02-23T22:12:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nick Reiner pleads NOT GUILTY to murder of parents",
-    "desc": "Nick Reiner has reportedly pleaded 'not guilty' in the murder of his parents, Hollywood couple Rob Reiner and Michele Singer Reiner. Currently held in prison, without bail. As per reports, a not guilty plea is common for such cases.",
-    "img": "https://static.toiimg.com/photo/msid-128730458,imgsize-25988.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rob-reiner-and-michele-singer-reiners-son-nick-reiner-pleads-not-guilty-to-charges-of-first-degree-murder/articleshow/128730144.cms",
-    "time": "2026-02-23T21:45:14.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Kuno National Park to receive eight cheetahs from Botswana on February 28",
     "desc": "Botswana is the third African nation to send cheetahs to India as part of Project Cheetah. Two batches of cheetahs have arrived from Namibia and South Africa since the project was kickstarted in September, 2022",
@@ -171,15 +369,6 @@ const newsData_en = [
     "time": "2026-02-23T20:57:14.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Govind Namdev slams food hierarchy on a film set",
-    "desc": "Veteran actor Govind Namdev has highlighted the stark inequality on film sets, from creative discussions to meal arrangements, citing a rigid hierarchy. He praised Akshay Kumar and director Umesh Shukla for fostering an egalitarian environment during 'Oh My God!', where everyone received the same treatment and food, a rarity in Bollywood.",
-    "img": "https://static.toiimg.com/photo/msid-128729678,imgsize-39706.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govind-namdev-says-theres-food-hierarchy-in-bollywood-on-a-film-set-stars-get-special-food-recalls-how-akshay-kumar-changed-it/articleshow/128729629.cms",
-    "time": "2026-02-23T20:36:38.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "U.S. deal, Epstein links are shameful, not peaceful protests, Rahul tells Modi",
     "desc": "The Congress condemns the arrest of Youth Congress leaders, alleges that family members of Youth Congress workers are harassed. PM Modi had called Youth Congress leaders’ ‘shirtless’ protest at the Delhi AI summit ‘naked politics’ and said that it was shameful.",
@@ -187,15 +376,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/indo-us-trade-deal-your-name-figuring-in-epstein-files-are-shameful-not-the-peaceful-protests-rahul-gandhi-tells-modi/article70668223.ece",
     "time": "2026-02-23T20:31:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Zeenat Aman sticks to her views on live-in relationships",
-    "desc": "Zeenat Aman reiterates her stance on live-in relationships, emphasizing that a partnership's sanctity lies with the individuals involved, not societal or religious approval. She believes genuine connection, respect, and love are the true foundations of a fulfilling relationship, regardless of marital status.",
-    "img": "https://static.toiimg.com/photo/msid-128729423,imgsize-25818.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zeenat-aman-sticks-to-her-views-on-live-in-relationships-admits-it-caused-a-kerfuffle-among-some-contemporaries-was-accused-of-insulting-/articleshow/128729297.cms",
-    "time": "2026-02-23T20:21:13.000Z"
   },
   {
     "cat": "Politics",
@@ -216,15 +396,6 @@ const newsData_en = [
     "time": "2026-02-23T19:49:05.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rashmika, Vijay drop glimpses from their wedding festivities: PICS",
-    "desc": "South Indian stars Rashmika Mandanna and Vijay Deverakonda have officially confirmed their wedding, set to take place in Udaipur on February 26. The couple, who reportedly got engaged in October, has shared glimpses of their pre-wedding festivities, including a pool party and decor featuring a 'Virosh' theme. The celebrations are expected to be a private affair with a royal touch.",
-    "img": "https://static.toiimg.com/photo/msid-128728601,imgsize-47256.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rashmika-mandanna-vijay-deverakonda-give-a-sneak-peek-into-their-wedding-festivities-from-virosh-themed-decor-to-pool-games-pics-inside/articleshow/128728153.cms",
-    "time": "2026-02-23T19:45:04.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "One held for objectionable social media post on PM in Uttar Pradesh",
     "desc": "Jehanabad police station SHO Pradeep Vishnoi told reporters that based on the complaint filed by Sub-Inspector Gyan Chand, police have registered a case against the accused youth identified as Arbaaz, a resident of Vishen village, under relevant sections.",
@@ -235,48 +406,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Rally held to urge political parties to add Tamil language conservation in their election manifestos",
-    "desc": "Among the demands of the Collective was a push for mother tongue as the medium of instruction in schools across the country, temple rituals in Tamil Nadu to be conducted in Tamil, and Tamil to be included as a compulsory subject at all colleges",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/807yk/article70668642.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-23%20at%2010.49.03%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/rally-held-to-urge-political-parties-to-add-tamil-language-conservation-in-their-election-manifestos/article70668045.ece",
-    "time": "2026-02-23T19:20:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Details of Rashmika-Vijay's mehendi, haldi, sangeet ahead of wedding",
-    "desc": "Udaipur is set to host the wedding festivities of actors Rashmika Mandanna and Vijay Deverakonda this week. The couple arrived Monday, with pre-wedding events like mehndi, haldi, and sangeet scheduled from February 24th to 25th at ITC Mementos Udaipur. The main ceremony will take place on February 26th, promising a private, royal affair blending tradition and personal touches.",
-    "img": "https://static.toiimg.com/photo/msid-128727738,imgsize-39608.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vijay-deverakonda-rashmika-mandanna-wedding-here-are-the-details-of-the-haldi-mehendi-sangeet-ceremony-ahead-of-the-grand-wedding/articleshow/128727752.cms",
-    "time": "2026-02-23T19:13:32.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Actively considering issue of airfare fluctuations, Centre tells Supreme Court",
     "desc": "The plea had also pointed to the reduction in free check-in baggage allowance for economy class passengers from 25 kg to 15 kg, “thereby converting what was earlier part of the ticketed service into a new revenue stream”.",
     "img": "https://th-i.thgim.com/public/incoming/7opkzq/article70668630.ece/alternates/LANDSCAPE_1200/2026-01-15T100327Z_2074265727_RC2AIIAXIN22_RTRMADP_3_AMBANI-ADANI-INDIA-TELECOM.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/actively-considering-issue-of-airfare-fluctuations-centre-tells-supreme-court/article70668004.ece",
     "time": "2026-02-23T18:59:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajpal says Mumbai has never let him down, he's working since 97",
-    "desc": "Actor Rajpal Yadav has launched a new digital series, 'Vanity Vichaar,' sharing personal reflections and gratitude for Mumbai's unwavering support since his 1997 arrival. He expressed thanks for continuous work opportunities and the love of his fans and family, especially after recent legal troubles. Yadav highlighted his nearly three-decade journey in the industry.",
-    "img": "https://static.toiimg.com/photo/msid-128727182,imgsize-16042.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-release-from-jail-rajpal-yadav-says-mumbai-has-never-let-him-down-continuously-working-since-1997/articleshow/128727197.cms",
-    "time": "2026-02-23T18:55:14.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Tarique Rahman government carries out changes in armed forces and the International Crimes Tribunal",
-    "desc": "These changes have taken place almost simultaneously with the announcement that the new government will examine all the legal cases that have been filed against journalists and business persons after the uprising of August 5, 2024.",
-    "img": "https://th-i.thgim.com/public/incoming/fmbij7/article70668624.ece/alternates/LANDSCAPE_1200/2026-02-17T200400Z_686471934_RC2VNJAOAKIW_RTRMADP_3_BANGLADESH-ELECTION-INAUGURATION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/tarique-rahman-government-carries-out-changes-in-armed-forces-and-the-international-crimes-tribunal/article70668076.ece",
-    "time": "2026-02-23T18:49:22.000Z"
   },
   {
     "cat": "Sports",
@@ -295,15 +430,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-giant-killer-j-k-up-against-classy-karnataka-in-maiden-final/article70667542.ece",
     "time": "2026-02-23T18:29:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'She has been a warrior through the pregnancy,' Vicky showers love on Katrina",
-    "desc": "Vicky Kaushal and Katrina Kaif welcomed their son, Vihaan Kaushal, in November 2025. Vicky recently praised Katrina as a \"superhero\" and \"warrior\" mother, expressing immense pride. He also humorously claimed to be better at changing diapers than acting, while admitting the emotional difficulty of leaving his son so soon after his birth.",
-    "img": "https://static.toiimg.com/photo/msid-128725836,imgsize-41424.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/she-has-been-a-warrior-through-the-pregnancy-says-vicky-kaushal-as-he-showers-love-on-katrina-kaif-talks-about-son-vihaan/articleshow/128725860.cms",
-    "time": "2026-02-23T18:15:42.000Z"
   },
   {
     "cat": "Politics",
@@ -351,15 +477,6 @@ const newsData_en = [
     "time": "2026-02-23T17:42:46.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Clint Eastwood",
-    "desc": "At 95, acclaimed actor and director Clint Eastwood reflects on the art of aging, proclaiming that doubt has finally been cast aside. He champions the freedom that comes with maturity, which allows individuals to make bold choices without the burden of self-doubt.",
-    "img": "https://static.toiimg.com/photo/msid-128699693,imgsize-945834.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-clint-eastwood-as-you-get-older-youre-not-afraid-of-doubt-doubt-isnt-running-the-show/articleshow/128699693.cms",
-    "time": "2026-02-23T17:30:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "‘The 2028 Global Intelligence Crisis’: Who is author Alap Shah?",
     "desc": "A groundbreaking report, \"The 2028 Global Intelligence Crisis,\" by Citrini Research and Alap Shah, reveals AI's complete job takeover. Focusing on operational efficiency and human labor displacement, the study highlights expanding corporate margins via automation. However, it raises alarms about a growing \"Ghost GDP,\" urging readers to explore this critical shift in global markets.",
@@ -385,15 +502,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/un-chief-decries-global-rise-of-rule-of-force/article70667396.ece",
     "time": "2026-02-23T17:04:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay Kumar recalls liking a girl in college, here's what he had done",
-    "desc": "During a recent Wheel of Fortune episode, Akshay Kumar reminisced about his college days, revealing a past attempt to impress a crush. He learned a song and, with a friend playing guitar, serenaded the girl outside her house. However, his romantic gesture backfired when neighbors intervened and both Akshay and his friend were beaten up.",
-    "img": "https://static.toiimg.com/photo/msid-128723106,imgsize-23768.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-recalls-what-he-did-when-he-liked-a-girl-in-college-all-her-neighbours-beat-me-up/articleshow/128723104.cms",
-    "time": "2026-02-23T16:59:53.000Z"
   },
   {
     "cat": "Business",
@@ -450,33 +558,6 @@ const newsData_en = [
     "time": "2026-02-23T16:00:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "More Congress MLAs to go saffron in Assam? 'No vacancy now, but there's a schedule,' says CM Sarma",
-    "desc": "Assam Chief Minister Himanta Biswa Sarma claimed a schedule exists for senior Congress leaders to join the BJP, following former state chief Bhupen Borah's switch. Sarma asserted this move would leave no Hindu leaders in the Congress in Assam, with further defections planned for future elections.",
-    "img": "https://static.toiimg.com/photo/msid-128720076,imgsize-35346.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/more-congress-mlas-to-go-saffron-in-assam-no-more-vacancy-but-theres-a-schedule-says-cm-sarma/articleshow/128719318.cms",
-    "time": "2026-02-23T15:24:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Jal shakti minister reviews progress of water projects in UP villages; directs officials to complete arrangements ahead of summer",
-    "desc": "Uttar Pradesh officials are urged to prepare for potential summer drinking water shortages under the Jal Jeevan Mission. Minister Swatantra Dev Singh directed daily village head consultations and regular updates to public representatives on water supply projects. Road restoration for pipeline installations must be completed by March, with strict action for lapses.",
-    "img": "https://static.toiimg.com/photo/msid-128719785,imgsize-62562.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jal-shakti-minister-reviews-progress-of-water-projects-in-up-villages-directs-officials-to-complete-arrangements-ahead-of-summer/articleshow/128719421.cms",
-    "time": "2026-02-23T15:15:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Govinda said he never meant to get so seriously involved with Sunita",
-    "desc": "Speculation surrounds Govinda and Sunita Ahuja's marriage, with recent allegations of infidelity. Amidst these rumors, Govinda's past confession about breaking his engagement with Sunita to marry Neelam Kothari resurfaces. He admitted to a calculated involvement with Sunita, seeking romantic experience, and later confessed to being deeply infatuated with Neelam.",
-    "img": "https://static.toiimg.com/photo/msid-128719297,imgsize-46504.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-govinda-said-he-never-meant-to-get-so-seriously-involved-with-sunita-but-was-committed-so-couldnt-leave-her-when-he-fell-in-love-with-neelam/articleshow/128719294.cms",
-    "time": "2026-02-23T14:59:57.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Shimron Hetmyer breaks Chris Gayle's 17-year-old record",
     "desc": "Shimron Hetmyer smashed a blistering 19-ball half-century at the Wankhede Stadium, setting a new West Indies record in T20 World Cup history. This remarkable feat surpassed Chris Gayle's previous record of 23 balls. Hetmyer's aggressive innings showcased the Caribbean team's fearless approach to the game.",
@@ -484,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/record-shattered-shimron-hetmyer-breaks-chris-gayles-long-standing-17-year-old-t20-world-cup-milestone/articleshow/128719104.cms",
     "time": "2026-02-23T14:56:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika-Vijay to have celebration only for friends tonight",
-    "desc": "Rashmika Mandanna and Vijay Deverakonda are set to marry on February 26 in Udaipur. Wedding festivities have begun with the couple arriving in the city. Family members are expected to join soon. The celebrations are taking place at ITC Mementos Udaipur. A reception is planned for March 4 in Hyderabad.",
-    "img": "https://static.toiimg.com/photo/msid-128717751,imgsize-38232.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rashmika-mandanna-vijay-deverakonda-wedding-the-couple-to-host-celebration-for-close-friends-only-on-monday-night-family-members-to-join-tomorrow-exclusive/articleshow/128717733.cms",
-    "time": "2026-02-23T14:14:20.000Z"
   },
   {
     "cat": "Sports",
@@ -549,15 +621,6 @@ const newsData_en = [
     "time": "2026-02-23T12:40:40.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Trump rants against SC ruling, warns of 'more powerful, obnoxious' tariffs",
-    "desc": "President Trump launched a scathing attack on the Supreme Court, labeling it \"incompetent\" and \"ridiculous\" after it struck down his tariffs. He claimed the ruling inadvertently granted him broader presidential powers, particularly in trade policy through licensing tools, while criticizing the court's decision-making.",
-    "img": "https://static.toiimg.com/photo/msid-128714344,imgsize-862144.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/far-more-powers-than-before-trump-suggests-using-other-more-powerful-obnoxious-tariffs-after-us-sc-setback/articleshow/128713696.cms",
-    "time": "2026-02-23T12:34:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "After SA humiliation, India reach Chennai for must-win clash vs Zimbabwe",
     "desc": "The Indian men's cricket team arrived in Chennai for their next T20 World Cup Super 8 match against Zimbabwe following a significant 76-run defeat to South Africa. This loss ended India's 18-match unbeaten streak in ICC white-ball tournaments and marked their second-biggest T20I loss by runs.",
@@ -574,24 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/mexico-fears-more-violence-after-army-kills-powerful-drug-lord-el-mencho/article70665746.ece",
     "time": "2026-02-23T12:19:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "PM Modi to inaugurate Noida's Jewar airport, says UP CM Yogi",
-    "desc": "Prime Minister Narendra Modi is set to inaugurate Uttar Pradesh's Noida International Airport at Jewar next month. Uttar Pradesh chief minister Yogi Adityanath announced this, highlighting the state's leading position in aviation infrastructure with the highest number of airports. The upcoming Jewar airport is poised to become India's largest, serving as a significant hub for both passengers and cargo.",
-    "img": "https://static.toiimg.com/photo/msid-128713023,imgsize-154682.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/pm-modi-to-inaugurate-noidas-jewar-airport-says-up-cm-yogi/articleshow/128712998.cms",
-    "time": "2026-02-23T11:58:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What went wrong for Team India vs South Africa? Proteas legend breaks it down",
-    "desc": "Former South Africa captain Shaun Pollock believes India failed to adapt to Ahmedabad's conditions during their Super 8 defeat to the Proteas. He highlighted India's inability to recognize the \"new ball challenge with the seam moving around\" and their aggressive approach in the powerplay, which led to early wickets and pressure.",
-    "img": "https://static.toiimg.com/photo/msid-128712795,imgsize-149960.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/what-went-wrong-for-team-india-vs-south-africa-proteas-legend-breaks-it-down/articleshow/128712760.cms",
-    "time": "2026-02-23T11:52:17.000Z"
   },
   {
     "cat": "Sports",
@@ -630,15 +675,6 @@ const newsData_en = [
     "time": "2026-02-23T10:20:25.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Overthinking cost India': Rahane blasts team management for dropping Axar",
-    "desc": "India's decision to bench vice-captain Axar Patel for the T20 World Cup Super 8 clash against South Africa has drawn sharp criticism. Former captain Ajinkya Rahane questioned the move, stating that overthinking selection and not backing a proven performer like Patel, despite his vice-captaincy, backfired. Washington Sundar's underwhelming performance further fueled the debate after India's heavy defeat.",
-    "img": "https://static.toiimg.com/photo/msid-128708627,imgsize-168066.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/overthinking-cost-india-ajinkya-rahane-blasts-team-management-for-dropping-vice-captain-axar-patel/articleshow/128708450.cms",
-    "time": "2026-02-23T10:07:27.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "The Kamal Haasan–Rajinikanth reunion film: Is Nelson the right choice?",
     "desc": "The promo of the KH x RK reunion film has turned heads. The film has music scored by Anirudh and cinematography by Rajiv Menon. But is director Nelson the best creative choice for this massive project? We debate",
@@ -646,15 +682,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/kh-x-rk-kamal-haasan-rajinikanth-nelson-anirudh-ravichander-rajiv-menon/article70666290.ece",
     "time": "2026-02-23T09:59:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shadab Khan's 'Pakistan will play the final' claim goes viral",
-    "desc": "Pakistan allrounder Shadab Khan expressed confidence in his team reaching the T20 World Cup 2026 final. This statement comes as Pakistan prepares for a crucial Super Eights match against England. The pitch is expected to favor spinners. England has started their Super Eights campaign strongly. Pakistan needs a strong batting performance to succeed.",
-    "img": "https://static.toiimg.com/photo/msid-128707525,imgsize-50866.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/shadab-khans-pakistan-will-play-the-final-claim-goes-viral-watch/articleshow/128707545.cms",
-    "time": "2026-02-23T09:25:52.000Z"
   },
   {
     "cat": "Sports",
@@ -666,42 +693,6 @@ const newsData_en = [
     "time": "2026-02-23T09:20:02.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'We were humiliated on all fronts': Ex-India captain fumes after Super 8 disaster",
-    "desc": "Former captain Kris Srikkanth launched a fierce critique of India's batting collapse against South Africa in the T20 World Cup. He lambasted the reckless approach, questionable batting order, and poor decision-making, particularly highlighting Ishan Kishan's dismissal and Suryakumar Yadav's batting position. Srikkanth warned of lingering negative mindsets after the humiliating defeat.",
-    "img": "https://static.toiimg.com/photo/msid-128704695,imgsize-144918.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/we-were-humiliated-on-all-fronts-ex-india-captain-fumes-after-super-8-disaster/articleshow/128704718.cms",
-    "time": "2026-02-23T08:15:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Be humble &amp; improve fast’: Manjrekar’s warning after India’s T20 WC reality check",
-    "desc": "Following a heavy defeat to South Africa in the Super 8 stage, former batter Sanjay Manjrekar urged India to be humble and address key flaws. He highlighted struggles against spin and pace-off deliveries, suggesting a batting order reshuffle and strengthening the bowling attack with Kuldeep Yadav to improve their title chances.",
-    "img": "https://static.toiimg.com/photo/msid-128704489,imgsize-72184.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/be-humble-and-improve-fast-sanjay-manjrekars-blunt-warning-after-indias-t20-world-cup-reality-check/articleshow/128704267.cms",
-    "time": "2026-02-23T07:38:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Axar has been your MVP': Ashwin slams Gambhir-led team management",
-    "desc": "Ravichandran Ashwin has voiced his disagreement with the team management's decision to bench Axar Patel for the crucial T20 World Cup Super 8 match against South Africa. Ashwin argued that while match-up strategies are common in franchise cricket, international tournaments demand team stability, highlighting Axar's proven T20 prowess and past crucial performances.",
-    "img": "https://static.toiimg.com/photo/msid-128703104,imgsize-145534.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/axar-patel-has-been-your-mvp-r-ashwin-slams-gautam-gambhir-led-team-management-for-dropping-vice-captain/articleshow/128703139.cms",
-    "time": "2026-02-23T07:08:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Time to pull our sleeves up’: Doeschate hints at India XI shake-up",
-    "desc": "Following a heavy defeat to South Africa in Super 8s, India's batting unit faces scrutiny, with assistant coach Ryan ten Doeschate confirming that changes, including the potential inclusion of Sanju Samson, are being considered. The team's left-hand heavy top order has struggled, prompting a rethink of their strategy for upcoming crucial matches.",
-    "img": "https://static.toiimg.com/photo/msid-128703263,imgsize-46440.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/time-to-pull-our-sleeves-up-india-coach-ryan-ten-doeschate-hints-at-playing-xi-shake-up-after-super-8-defeat/articleshow/128703129.cms",
-    "time": "2026-02-23T07:03:50.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. to stop collecting tariffs deemed illegal by Supreme Court on February 24",
     "desc": "The U.S. CBP message noted that the collection halt ‌does not affect any other tariffs imposed by Mr. Trump, including those under the Section 232 national security statute and the Section 301 unfair trade practices statute.",
@@ -709,15 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-to-stop-collecting-tariffs-deemed-illegal-by-supreme-court-on-february-24-2026/article70665806.ece",
     "time": "2026-02-23T06:36:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘24 months of planning, Raza’s spark’: Ryan Burl on Zimbabwe’s dream run",
-    "desc": "Zimbabwe have defied expectations, reaching the Super 8s of the 2026 T20 World Cup through a meticulously executed 24-month plan. Their journey, marked by wins against Oman, Australia, and Sri Lanka, showcases strategic hard work and belief. Now, facing giants like India, South Africa and the West Indies, the team remains focused on their next challenge, one game at a time.",
-    "img": "https://static.toiimg.com/photo/msid-128701243,imgsize-50512.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/24-months-of-planning-sikandar-razas-spark-ryan-burl-on-zimbabwes-dream-run-at-t20-world-cup-exclusive/articleshow/128701120.cms",
-    "time": "2026-02-23T06:00:47.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/t20-world-cup-match-preview-sri-lanka-england-face-off-set-to-be-a-middle-overs-tussle/article70661409.ece",
     "time": "2026-02-21T21:38:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Osasuna stun Real Madrid 2-1 to blow LaLiga title race open",
+    "desc": "Osasuna went in front in the 34th ​minute after ‌a VAR review showed keeper Real keeper Thibaut Courtois had stood on Budimir's ‌foot. The referee overturned an ​initial booking for simulation and Budimir calmly ⁠converted the spot-kick.",
+    "img": "https://th-i.thgim.com/public/incoming/vf16fv/article70661301.ece/alternates/LANDSCAPE_1200/2026-02-21T195849Z_619063769_UP1EM2L1EN8U7_RTRMADP_3_SOCCER-SPAIN-OSA-RMA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/osasuna-stun-real-madrid-2-1-to-blow-laliga-title-race-open/article70661297.ece",
+    "time": "2026-02-21T20:36:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Alcaraz downs Fils to win Qatar Open, extends perfect start to the year",
+    "desc": "With ‌the win, Alcaraz improved to 12-0 ​for the year and collected his ninth ATP ⁠500 trophy, which drew him level ⁠with Andy Murray for fourth in the category ‌since its inception, according to the ATP.",
+    "img": "https://th-i.thgim.com/public/incoming/s8pv1a/article70661299.ece/alternates/LANDSCAPE_1200/2026-02-21T195611Z_876400215_UP1EM2L1IAY27_RTRMADP_3_TENNIS-DOHA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/alcaraz-downs-fils-to-win-qatar-open-extends-perfect-start-to-the-year/article70661298.ece",
+    "time": "2026-02-21T20:32:27.000Z"
   }
 ];
