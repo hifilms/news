@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shikhar Dhawan gets relief from Delhi court, orders ex-wife Ayesha to return Rs 5.72 crore",
+    "desc": "In a massive legal victory for Indian cricketer Shikhar Dhawan, a Family Court in Delhi has ordered his ex-wife, Aesha Mukerji, to return approximately Rs 5.72 crore. The ruling comes as a major relief for the veteran...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shikhar-dhawan-gets-relief-from-delhi-court-orders-ex-wife-ayesha-to-return-rs-5-72-crore-2026-02-24-1031557",
+    "time": "2026-02-24T18:07:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Can Pakistan still qualify for semifinals of T20 World Cup 2026? Scenarios confirmed",
+    "desc": "Pakistan lost to England in their second Super 8 clash of the T20 World Cup by two wickets. This loss has jeopardised their T20 World Cup campaign as their fate is not in their hands...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/can-pakistan-still-qualify-for-semifinals-of-t20-world-cup-2026-scenarios-confirmed-2026-02-24-1031551",
+    "time": "2026-02-24T17:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harry Brook singlehandedly beats Pakistan with stunning century, England qualify for T20 World Cup semifinal",
+    "desc": "England defeated Pakistan today to seal their semifinal spot in the T20 World Cup, thanks to a stunning century from captain Harry Brook who led from the front. Pakistan had themselves to blame as they...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harry-brook-singlehandedly-beats-pakistan-with-stunning-century-england-qualify-for-t20-world-cup-semifinal-2026-02-24-1031542",
+    "time": "2026-02-24T17:00:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "3 tactical changes India might make for must-win Zimbabwe clash in T20 World Cup",
     "desc": "India are in a must-win situation in their game against Zimbabwe and that will be played at the MA Chidambaram Stadium in Chennai on Thursday (February 26). With the opening duo of Abhishek Sharma and...",
     "img": "",
@@ -52,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pallekele-weather-will-rain-spoil-eng-vs-pak-t20-world-cup-2026-super-eight-clash-2026-02-24-1031478",
     "time": "2026-02-24T08:47:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I've accepted this was mistake'",
-    "desc": "Steve Bucknor had given India legend Sachin Tendulkar out controversially several times during the former Indian skipper's playing days. Bucknor, a highly respected West Indies umpire, had copped criticism from the Indian fans in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/steve-bucknor-regrets-giving-sachin-tendulkar-out-22-years-earlier-ive-accepted-this-was-mistake-2026-02-24-1031461",
-    "time": "2026-02-24T07:14:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ellyse Perry gives update on her injury after getting ruled out of India ODI series",
-    "desc": "Australia star all-rounder Ellyse Perry has shared an update on her injury after getting ruled out of the ongoing ODI series against India. The Aussies were dealt with a major blow when Perry and fast-bowler...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ellyse-perry-gives-update-on-her-injury-after-getting-ruled-out-of-india-odi-series-2026-02-24-1031455",
-    "time": "2026-02-24T06:37:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hope for India to qualify for the T20 World Cup semifinal? Super Eight scheduling can help Men in Blue",
-    "desc": "India's bid for the T20 World Cup title defence was hit by a roadblock after their huge loss to South Africa in Ahmedabad on Sunday. The Men in Blue were on a 12-match winning run,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hope-for-india-to-qualify-for-the-t20-world-cup-semifinal-super-eight-scheduling-can-help-men-in-blue-2026-02-24-1031448",
-    "time": "2026-02-24T05:51:45.000Z"
   }
 ];

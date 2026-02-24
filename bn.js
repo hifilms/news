@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "কেরল হচ্ছে কেরলম, নাম বদলে অনুমোদন কেন্দ্রীয় মন্ত্রিসভার! দেখুন ভিডিও",
+    "desc": "ভোটের আগে কেরলের নাম বদলের প্রস্তাবে অনুমোদন দিল কেন্দ্রীয় মন্ত্রিসভা৷ কেরলের নতুন নাম হচ্ছে কেরলম৷ এ দিন কেন্দ্রীয় মন্ত্রিসভার বৈঠকের পর এই ঘোষণা করেছেন কেন্দ্রীয় মন্ত্রী অশ্বিনী বৈষ্ণব৷ ২০২৪ সালের ২৪ জুন কেরল বিধানসভায় সর্বসম্মত ভাবে রাজ্যের নাম বদলের প্রস্তাব পাস হয়েছিল৷ সেই প্রস্তাব অনুযায়ী কেরলের নতুন নাম কেরলম করার কথা বলা হয়৷ কিছু দিনের মধ্যেই কেরলে বিধানসভা ভোটের ঘোষণা হবে৷ তার আগে রাজ্যের নাম বদলের এই প্রস্তাবে কেন্দ্রীয় মন্ত্রিসভার অনুমোদন নিঃসন্দেহে তাৎপর্যপূর্ণ৷",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Kerala-Name-Change-2026-02-c030056f5743f90d9370aaae29ba9216-1200x800.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/ashwini-vaishnaw-announces-union-cabinet-ministry-approves-name-change-for-kerala-to-keralam-dmg-2556228.html",
+    "time": "2026-02-24T16:06:21.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "'এবার দেশে ফিরতে হবে', দলের নেতাদের ইঙ্গিতপূর্ণ বার্তা, তারেককে নিয়ে কী বললেন হাসিনা?",
+    "desc": "বাংলাদেশের নির্বাচন-পরবর্তী পরিস্থিতি এবং আওয়ামী লিগের ভবিষ্যৎ কর্মপন্থা নিয়ে দলীয় ওয়ার্কিং কমিটির বৈঠকে গুরুত্বপূর্ণ বার্তা দিলেন শেখ হাসিনা। দিল্লি থেকে ভার্চুয়াল মাধ্যমে যুক্ত হয়ে তিনি নেতাদের দেশে ফেরার প্রস্তুতি নিতে এবং রাজনৈতিকভাবে সক্রিয় হওয়ার আহ্বান জানান। একই সঙ্গে নির্বাচনের বৈধতা, আন্তর্জাতিক প্রতিক্রিয়া এবং দলের ওপর জারি থাকা নিষেধাজ্ঞা নিয়েও স্পষ্ট অবস্থান তুলে ধরেন তিনি, যার জেরে রাজনৈতিক মহলে নতুন করে জল্পনা তৈরি হয়েছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/WhatsApp-Image-2026-02-24-at-8.52.38-PM-2026-02-910283582413a53bb3b674d31f3722c4-1200x800.jpeg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/international/sheikh-hasina-calls-leaders-return-bangladesh-awami-league-working-committee-meeting-election-ban-controversy-comments-on-tarique-tib-ws-l-2556112.html",
+    "time": "2026-02-24T15:54:45.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Supreme Court on NEET-PG cutoff: আর কত নীচে নামবে! শুন্য পেলেও এবার ডাক্তারিতে MD/MS পড়া যাবে, শিক্ষার মান দেখে হাসছে সুপ্রিম কোর্ট...",
     "desc": "২০২৫ সালের নিট-পিজি পরীক্ষায় দেখা গিয়েছে যে, কয়েক হাজার শূন্য পদ পূরণের লক্ষ্যে কেন্দ্রীয় স্বাস্থ্য মন্ত্রক ন্যূনতম যোগ্যতামান বা পার্সেন্টাইল ব্যাপকভাবে কমিয়ে দিয়েছে। অভিযোগ উঠেছে যে, জেনারেল ক্যাটাগরির ক্ষেত্রে এই কাট-অফ ৮০০-র মধ্যে মাত্র ১০৩-এ নামিয়ে আনা হয়েছে, যা আগে ছিল ২৭৬।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -16,15 +34,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/72-tigers-died-in-chiang-mai-due-to-a-virus_642628.html ",
     "time": "2026-02-24T15:42:27.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "'এবার দেশে ফিরতে হবে', দলের নেতাদের ইঙ্গিতপূর্ণ বার্তা, তারেককে নিয়ে কী বললেন হাসিনা?",
-    "desc": "বাংলাদেশের নির্বাচন-পরবর্তী পরিস্থিতি এবং আওয়ামী লিগের ভবিষ্যৎ কর্মপন্থা নিয়ে দলীয় ওয়ার্কিং কমিটির বৈঠকে গুরুত্বপূর্ণ বার্তা দিলেন শেখ হাসিনা। দিল্লি থেকে ভার্চুয়াল মাধ্যমে যুক্ত হয়ে তিনি নেতাদের দেশে ফেরার প্রস্তুতি নিতে এবং রাজনৈতিকভাবে সক্রিয় হওয়ার আহ্বান জানান। একই সঙ্গে নির্বাচনের বৈধতা, আন্তর্জাতিক প্রতিক্রিয়া এবং দলের ওপর জারি থাকা নিষেধাজ্ঞা নিয়েও স্পষ্ট অবস্থান তুলে ধরেন তিনি, যার জেরে রাজনৈতিক মহলে নতুন করে জল্পনা তৈরি হয়েছে।",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/hasina-tarique-2026-02-b2484f7588bbd065992599ebd0d5180a-1200x800.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/international/sheikh-hasina-calls-leaders-return-bangladesh-awami-league-working-committee-meeting-election-ban-controversy-comments-on-tarique-tib-ws-l-2556112.html",
-    "time": "2026-02-24T14:53:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -244,15 +253,6 @@ const newsData_bn = [
   },
   {
     "cat": "Politics",
-    "title": "ভোররাতে বিভীষিকা! যাত্রীবাহী বাস উলটে গিয়ে পড়ল নদীতে, মৃত অন্তত ১৮...",
-    "desc": "সোমবার ভোরে নেপালের ধাদিং জেলায় একটি যাত্রীবাহী বাস নিয়ন্ত্রণ হারিয়ে ত্রিশূলি নদীতে পড়ে যায়। এই ভয়াবহ দুর্ঘটনায় এখন পর্যন্ত ১৮ জনের মৃত্যু হয়েছে এবং ২৪ জনেরও বেশি মানুষ আহত হয়েছেন। নেপালের নিরাপত্তা বাহিনীর বিশেষ ডুবুরি দল বর্তমানে নদী থেকে নিখোঁজদের উদ্ধারে কাজ করছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/18-dead-as-passenger-bus-plunges-into-trishuli-river-in-dhading-in-nepal_642338.html ",
-    "time": "2026-02-23T04:36:02.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "গুলিবিদ্ধ পা! দুর্গম পার্বত্য এলাকায় জইশ-ঘাঁটি চিনিয়ে দিল সেনাবাহিনীর সারমেয় টাইসন! অভিযানে খতম ৩ জঙ্গি",
     "desc": "নিহত জঙ্গিদের কাছ থেকে দুটি AK-47 রাইফেল, গোলাবারুদ এবং অন্যান্য সরঞ্জাম উদ্ধার করা হয়েছে। সেনাবাহিনী সূত্রে জানানো হয়েছে, জঙ্গিরা দীর্ঘ দিন নিরাপত্তা বাহিনীর সঙ্গে লুকোচুরি খেলছিল। কিন্তু টাইসন সময়মতো তাদের আস্তানা শনাক্ত করার ফলে তাদের নিধন করা সম্ভব হয়।",
     "img": "https://images.news18.com/static-bengali/uploads/2026/02/New-Project-43-2026-02-b1e8b7ce1713d13057d8a728cc500da0-3x2.jpg",
@@ -268,15 +268,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/news/entertainment/rajinikanth-kamal-haasan-reunion-after-40-years-khxrk-project-announced-sal-2552718.html",
     "time": "2026-02-22T14:10:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "অষ্টম পে কমিশনে ন্যূনতম মাইনে কত হবে জানলে চমকে উঠবেন! নিজের চোখকেই বিশ্বাস করবেন না...",
-    "desc": "সপ্তম বেতন কমিশনে বেতন বৃদ্ধির জন্য ২.৫৭ ফিটমেন্ট ফ্যাক্টর ব্যবহার করা হয়েছিল। এটি দুটি ভাগে বিভক্ত ছিল-- মুদ্রাস্ফীতি অংশ ২.২৫। সে সময় ১২৫% মহার্ঘ ভাতা (DA) মূল বেতনের সঙ্গে মিলিয়ে দেওয়ার ফলে এই ফ্যাক্টরটি আসে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/8th-pay-commission-what-will-minimum-salary-be-if-real-hike-matches-7th-cpc-8th-pay-commission-minimum-salary-calculation-fitment-factor_642302.html ",
-    "time": "2026-02-22T13:47:34.000Z"
   },
   {
     "cat": "Politics",
@@ -898,5 +889,14 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/videos/international/what-is-going-to-be-the-future-of-bangladesh-after-bnp-wins-election-pbd-2541864.html",
     "time": "2026-02-15T18:19:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "পাকিস্তানকে তুলোধনা করে ৫ বড় রেকর্ড গড়লেন ইশান কিশান, নাম তুললেন ইতিহাসের পাতায়",
+    "desc": "২৭ বলে নিজের হাফ সেঞ্চুরি পূরণ করেন ইশান কিশান। অবশেষে ৪০ বলে ৭৭ রানের ইনিংস খেলে সঈম আয়ূবের বলে সাজঘরে ফেরেন ইশান। ১০টি চার ও ৩টি ছয়ে সাজানো তার ইনিংস। একইসঙ্গে একাধিক রেকর্ডও নিজের নামে করেন তিনি।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/ISHAN-KISHAN-34-2026-02-a57a1ccda45519e99c32bb51cb9aa141-3x2.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/photogallery/sports/ishan-kishan-creates-5-unique-world-records-after-played-devastating-innings-against-pakistan-ind-vs-pak-icc-t20-world-cup-2026-sup-2541773.html",
+    "time": "2026-02-15T17:31:41.000Z"
   }
 ];
