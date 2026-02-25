@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "সরকারি কর্মীর বাড়িতে টাকার পাহাড়! হাতে গোনা গেল না, আনতে হল মেশিন, দেখুন ভিডিও",
+    "desc": "ফের উদ্ধার টাকার পাহাড়, মাসে ৮০০০ টাকা বেতন পাওয়া এক ব্যক্তির বাড়ি থেকে টাকার পাহাড় উদ্ধার করা হয়েছে বলে জানা গিয়েছে। ঘটনাটি ঘটেছে ওড়িশায়। বুধবার ওই ব্যক্তির ট্রলি ব্যাগ এবং আলমারি থেকে ৪ কোটি টাকা নগদ উদ্ধার করা হয়েছে। অভিযুক্ত ব্যক্তি ওড়িশা সরকারের কর্মী, দুই দশক আগে মাত্র ৮০০০ টাকা বেতনের চাকরি দিয়ে কেরিয়ার শুরু করেন সেই ব্যক্তি। ওড়িশার ভিজিল্যান্স ডিপার্টমেন্ট অভিযুক্ত খনির আধিকারিক দেবব্রত মোহান্তির বিরুদ্ধে তদন্তে নেমেছে। অভিযুক্তের সঙ্গে যেসব জায়গার যোগসূত্র রয়েছে সব জায়গাতেই নজর রেখেছেন আধিকারিকরা। অভিযুক্ত দেবব্রতের ভুবনেশ্বরের ফ্ল্যাট, পারিবারিক বাড়ি এমনকি কটকের অফিসেও তল্লাসি করা হয়েছে। আরও টাকা লুকোনো থাকতে পারে বলে অনুমান করা হচ্ছে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Cash-1-2026-02-d8fd7d30cb31e79672d911e94f8d543f-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/videos/national/huge-amount-of-cash-money-seized-from-odisha-govt-staffs-house-watch-video-rdp-2557957.html",
+    "time": "2026-02-25T15:29:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Telangana mother's shocking crime: কেঁদে কেঁদে কানের মাথা খাচ্ছে! হাত-পা বেঁধে মুখে কাপড় গুঁজে ‍একবছরের সন্তানকে মারল 'বিরক্ত' ভার্গবী...",
+    "desc": "প্রাথমিক জিজ্ঞাসাবাদে ভার্গবী তাঁর অপরাধের কথা স্বীকার করেছেন বলে দাবি পুলিসের। তিনি জানিয়েছেন, শিশুটি ক্রমাগত কাঁদছিল এবং তার কান্না কোনোভাবেই থামানো যাচ্ছিল না। অসহ্য বিরক্তি থেকেই তিনি এই চরম পদক্ষেপ নেন। পুলিস ইতিমধ্যেই ভার্গবীর বিরুদ্ধে ভারতীয় দণ্ডবিধির প্রাসঙ্গিক ধারায় খুনের মামলা রুজু করে তাঁকে গ্রেফতার করেছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/telangana-woman-kills-infant-over-frequent-crying-mouth-stuffed-legs-tied_642815.html ",
+    "time": "2026-02-25T15:15:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘কেরালা স্টোরি ২’ মুক্তি নিয়ে আইনি জট! শুনানি শেষ না হওয়া পর্যন্ত রিলিজ নয় বলল হাইকোর্ট",
+    "desc": "‘কেরালা স্টোরি ২’ ছবির মুক্তি ঘিরে বড় নির্দেশ জারি করল কেরল হাইকোর্ট। বুধবার আদালত স্পষ্ট জানিয়ে দেয়, মামলার শুনানি সম্পূর্ণ না হওয়া পর্যন্ত ছবির রিলিজ কার্যকর করা যাবে না। আদালতের পর্যবেক্ষণ, আবেদনকারীর আশঙ্কা “সম্ভবত যথার্থ”, তাই চূড়ান্ত রায় না আসা পর্যন্ত অপেক্ষা করতে হবে।",
+    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Kerela-story-2-2026-02-6392a3af83e599b1f2455cc38c957c67-1200x800.jpg",
+    "src": "news18.com",
+    "url": "https://bengali.news18.com/news/entertainment/kerala-story-2-release-stay-kerala-high-court-order-film-controversy-india-sal-2557742.html",
+    "time": "2026-02-25T13:58:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'২০২৬ শুধু নয়, ২০২৭ সালেও সিনেমায় আমার গান শুনতে পাবেন', অবসরের পরেই বার্তা অরিজিতের…",
+    "desc": "প্লেব্যাক থেকে বিদায় নিয়ে মুখ খুললেন অরিজিৎ সিং। ট্রোলারদের দিলেন মোক্ষম জবাবও। তিনি স্পষ্ট করে জানিয়েছেন, প্লেব্যাককে বিদায় জানালেও হাতে থাকা আগের সব কাজ তিনি শেষ করবেন। পাশাপাশি অমূলক তর্কে জড়াতেও বারণ করেছেন তাঁর ফ্যানেদের।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/arijit-singh-playback-retirement-clarification-trolls-response_642784.html ",
+    "time": "2026-02-25T12:58:32.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "সর্বোচ্চ পারিশ্রমিক পান ভারতীয় 'এই' অভিনেত্রী, একটি ছবির জন্য নিয়েছেন ১০ কোটি! চিনতে পারছেন?",
     "desc": "দক্ষিণ থেকে উত্তর, এই সৌন্দর্য এক অসাধারণ শক্তি। মাত্র কয়েক বছরের মধ্যেই, কর্ণাটকের একটি ছোট শহরের এই মেয়েটি পুরো দেশকে মুগ্ধ করেছে। মাত্র লক্ষ টাকা দিয়ে তার ক্যারিয়ার শুরু করলেও, এখন তিনি একটি ছবির জন্য কোটি কোটি টাকা নেন।",
@@ -205,15 +241,6 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/entertainment/vijay-deverakonda-rashmika-mandanna-wedding-of-virosh-what-is-the-age-difference-between-them-ideal-age-difference-between-husband-wife-pbd-2555438.html",
     "time": "2026-02-24T09:46:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "খামার-বাড়ি বেচে ৮ লক্ষ টাকা ঋণ নিয়ে বাঁচাতে চেয়েছিলেন সঞ্জয়কে! রাঁচিতে কপ্টার ভেঙে ধ্বংস পুরো পরিবার...ভয়ংকর...",
-    "desc": "সঞ্জয়কে বাঁচানোই ছিল পরিবারের প্রধান লক্ষ্য। কিন্তু রাঁচি থেকে দিল্লির দূরত্ব এবং রোগীর আশঙ্কাজনক অবস্থা বিবেচনা করে চিকিৎসকরা এয়ার অ্যাম্বুলেন্সের (Air Ambulance) পরামর্শ দেন। একটি সাধারণ মধ্যবিত্ত পরিবারের পক্ষে এয়ার অ্যাম্বুলেন্সের খরচ বহন করা ছিল কল্পনার বাইরে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/jharkhand-couple-killed-in-air-ambulance-crash-had-taken-rs-8-lakh-loan-for-plane_642518.html ",
-    "time": "2026-02-24T09:11:25.000Z"
   },
   {
     "cat": "World",
@@ -711,15 +738,6 @@ const newsData_bn = [
     "time": "2026-02-18T18:34:05.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ritwick Chakraborty-Koushani Mukherjee: শহর কলকাতায় নারী নিগ্রহ, শ্রেয়াংশীর ওপর নির্যাতনের বদলা নিতে জোট বেঁধেছেন ঋত্বিক-কৌশানী...",
-    "desc": "অভিরূপ ঘোষের হাত ধরে আবারও পর্দায় ফিরছে রহস্যের টানটান উত্তেজনা। 'মৃগয়া'র সাফল্যের পর এবার আসছে তার সিক্যুয়েল বা স্পিন-অফ 'মৃগয়া ১.৫'। তবে এবার প্রেক্ষাপট গ্রাম নয়, খাস কলকাতা। পুলিশের মগজাস্ত্র বনাম এক রহস্যময় আততায়ীর পেশিশক্তির লড়াই নিয়ে তৈরি এই ছবি দর্শকদের আবারও এক রুদ্ধশ্বাস অভিজ্ঞতার সামনে দাঁড় করাবে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/mrigaya-1-5-bengali-movie-ritwick-chakraborty-koushani-mukherjee-thriller-details_641859.html ",
-    "time": "2026-02-18T17:25:49.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "পশ্চিমবঙ্গে পাঁচ সাংসদের মেয়াদ শেষ, ১০ রাজ্যের ৩৭ রাজ্যসভা আসনে নির্বাচন কবে? ভোটের নির্ঘণ্ট ঘোষণা",
     "desc": "রাজ্যসভার ভোট নিয়ে বুধবার সকালে বিজ্ঞপ্তি দিয়েছে কমিশন। বিজ্ঞপ্তি অনুযায়ী, ২৬ ফেব্রুয়ারি রাজ্যসভার ৩৭টি আসনে নির্বাচনের জন্য ভোটের বিজ্ঞপ্তি প্রকাশ করা হবে। মনোনয়নপত্র জমা দেওয়ার শেষ দিন আগামী ৫ মার্চ। মনোনয়নপত্র যাচাই হবে ৬ মার্চ। মনোনয়নপত্র প্রত্যাহারের শেষ দিন ৯ মার্চ।",
@@ -880,23 +898,5 @@ const newsData_bn = [
     "src": "news18.com",
     "url": "https://bengali.news18.com/photogallery/business/pakistani-currency-vs-indian-currency-do-you-know-what-will-be-price-of-indian-1-rupee-in-pakistan-market-rate-will-shock-you-for-sure-know-how-much-indian-one-rupee-cost-in-pakistan-sanj-2543429.html",
     "time": "2026-02-16T15:11:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "অভিষেক বন্দ্যোপাধ্যায়-কে কেন ধন্যবাদ জানালেন ইন্ডিয়ান আইডল প্রতিযোগী অঙ্কিতা",
-    "desc": "অঙ্কিতা সোশ্যাল মিডিয়ায় ধন্যবাদ জানায় অভিষেক বন্দ্যোপাধ্যায়কে৷ কারণ এভাবে অভিষেক বন্দ্যোপাধ্যায়ের সহায়তা ছাড়া কোনওভাবেই দুবাই পৌঁছতে পারত না অঙ্কিতা ও তাঁর মা৷ আপাতত ইন্ডিয়ান আইডলের শেষ কয়েকটি রাউন্ডের জন্য তৈরি হচ্ছে অঙ্কিতা৷ নিজের সেরা পারফরম্যান্স দিতে চলেছে সে৷ বাংলার নাম উজ্জ্বল করতে চলেছে৷ অঙ্কিতা বলছে, বাংলায় ফিরে এসে অবশ্যই অভিষেক বন্দ্যোপাধ্যায়ের সঙ্গে দেখা করবে এবং তাঁকে ধন্যবাদ জানাবে৷",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/Web-2026-02-16T201023.340-2026-02-3eb08f310faeb6f9d53a0229fdc0ad95.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/videos/entertainment/tmc-mp-abhishek-banerjee-helps-indian-idol-participant-from-bengal-to-get-passport-to-go-to-dubai-pbd-2543712.html",
-    "time": "2026-02-16T14:42:37.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "বাজেট ফোনের রাজা! ৬০০০mAh ব্যাটারি ও বড় ডিসপ্লে-সহ বাজারে এল Samsung Galaxy F70e, জানুন দাম ও স্পেসিফিকেশন",
-    "desc": "Samsung এই সপ্তাহে ভারতীয় বাজারে তাদের নতুন F-সিরিজ বাজেট ফোন Galaxy F70e লঞ্চ করেছে। বড় ডিসপ্লে, মিডিয়াটেক ডাইমেনসিটি প্রসেসর এবং শক্তিশালী ব্যাটারি ব্যাকআপের সঙ্গে এই ফোনে থাকছে দীর্ঘকালীন সফ্টওয়্যার আপডেটের প্রতিশ্রুতি। দেখে নিন ফিচার ও দাম",
-    "img": "https://images.news18.com/static-bengali/uploads/2026/02/samsung-galaxy-f70e-2026-02-4d7a943789462ce8136ea85ddd9595c0-3x2.jpg",
-    "src": "news18.com",
-    "url": "https://bengali.news18.com/news/technology/samsung-galaxy-f70e-launched-in-india-featuring-mediatek-dimensity-6300-chipset-50mp-camera-6000mah-battery-know-price-tc-ac-aa-2534126.html",
-    "time": "2026-02-16T13:53:06.000Z"
   }
 ];
